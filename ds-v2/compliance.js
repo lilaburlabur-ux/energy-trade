@@ -1,4 +1,4 @@
-/* Santro compliance constants — ONE module (contract rule 4).
+/* Energy Trade compliance constants — ONE module (contract rule 4).
    Every data surface renders these; no other copy variants allowed. */
 (function () {
   "use strict";

@@ -11,7 +11,7 @@ Exit code is non-zero if any INDEXABLE core page is missing an essential — wir
 it into CI to stop a regression from shipping.
 
 Run:  .venv/bin/python seo_audit.py            # local files (fast, offline)
-      .venv/bin/python seo_audit.py --live      # also hit https://santroai.tech
+      .venv/bin/python seo_audit.py --live      # also hit https://energytrade.example
 """
 import os
 import sys
@@ -24,7 +24,7 @@ except ImportError:
     sys.exit("needs beautifulsoup4 — run with the project venv: .venv/bin/python seo_audit.py")
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-BASE = "https://santroai.tech"
+BASE = "https://energytrade.example"
 
 # route -> (file, indexable?). Indexable pages must have full metadata + 1 H1.
 ROUTES = [

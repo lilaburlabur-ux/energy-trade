@@ -3,28 +3,28 @@
 <meta name="theme-color" content="#0a0e13" />
 <meta name="mobile-web-app-capable" content="yes" />
 <meta name="apple-mobile-web-app-capable" content="yes" />
-<meta name="apple-mobile-web-app-title" content="Santro AI" />
+<meta name="apple-mobile-web-app-title" content="Energy Trade" />
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
-<title>AI Stock Fair-Value Calculator — DCF, P/E, Graham &amp; PEG Scenarios | Santro AI</title>
+<title>AI Stock Fair-Value Calculator — DCF, P/E, Graham &amp; PEG Scenarios | Energy Trade</title>
 <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml"/>
 <link rel="icon" type="image/png" sizes="48x48" href="/assets/favicon-48.png"/>
 <link rel="apple-touch-icon" href="/assets/apple-touch-icon.png"/>
 <link rel="manifest" href="/manifest.json" />
-<meta name="description" content="Free fair-value calculator for AI stocks: reverse DCF, P/E multiple, Graham number, and PEG scenario values for any of the 99 tickers in the Santro AI universe. Scenario outputs, not price targets. Not financial advice."/>
-<link rel="canonical" href="https://santroai.tech/tools/fair-value-calculator"/>
-<meta property="og:type" content="website"/><meta property="og:site_name" content="Santro AI"/>
+<meta name="description" content="Free fair-value calculator for AI stocks: reverse DCF, P/E multiple, Graham number, and PEG scenario values for any of the 99 tickers in the Energy Trade universe. Scenario outputs, not price targets. Not financial advice."/>
+<link rel="canonical" href="https://energytrade.example/tools/fair-value-calculator"/>
+<meta property="og:type" content="website"/><meta property="og:site_name" content="Energy Trade"/>
 <meta property="og:title" content="AI Stock Fair-Value Calculator — DCF, P/E, Graham &amp; PEG"/>
 <meta property="og:description" content="Scenario values for any AI ticker under your own growth assumptions. The market-implied read shows what today's price already assumes."/>
-<meta property="og:url" content="https://santroai.tech/tools/fair-value-calculator"/>
-<meta property="og:image" content="https://santroai.tech/assets/og-map.png"/>
-<meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="AI Stock Fair-Value Calculator | Santro AI"/>
+<meta property="og:url" content="https://energytrade.example/tools/fair-value-calculator"/>
+<meta property="og:image" content="https://energytrade.example/assets/og-map.png"/>
+<meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="AI Stock Fair-Value Calculator | Energy Trade"/>
 <meta name="twitter:description" content="Reverse DCF, P/E, Graham and PEG scenario values for the AI trade."/>
-<meta name="twitter:image" content="https://santroai.tech/assets/og-map.png"/>
+<meta name="twitter:image" content="https://energytrade.example/assets/og-map.png"/>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
- {"@type":"ListItem","position":1,"name":"Home","item":"https://santroai.tech/"},
- {"@type":"ListItem","position":2,"name":"Tools","item":"https://santroai.tech/bubble"},
- {"@type":"ListItem","position":3,"name":"Fair-Value Calculator","item":"https://santroai.tech/tools/fair-value-calculator"}]}
+ {"@type":"ListItem","position":1,"name":"Home","item":"https://energytrade.example/"},
+ {"@type":"ListItem","position":2,"name":"Tools","item":"https://energytrade.example/bubble"},
+ {"@type":"ListItem","position":3,"name":"Fair-Value Calculator","item":"https://energytrade.example/tools/fair-value-calculator"}]}
 </script>
 <link rel="stylesheet" href="/site.css?v=14"/>
 <link rel="stylesheet" href="/accounts/accounts.css?v=9"/>
@@ -72,7 +72,7 @@
 <script src="/ds-v2/flags.js?v=5"></script>
 <header class="meganav" id="meganav">
 <style>
-/* santro brand tokens — green is the identity color. Blue is NOT a Santro
+/* santro brand tokens — green is the identity color. Blue is NOT a Energy Trade
    UI color anywhere (2026-07-08 rule) — never reintroduce it. */
 header.meganav{--sg:#22c55e;--sg-hi:#4ade80;--sg-deep:#15803d;
   --sg-soft:rgba(34,197,94,.12);--sg-border:rgba(34,197,94,.45);
@@ -126,7 +126,7 @@ html[data-theme="light"] .meganav .mn-ls{background:linear-gradient(165deg,#16a3
 .meganav .mn-search .sg .pc.up{color:var(--green,#22c55e);}.meganav .mn-search .sg .pc.down{color:var(--red,#f05a6e);}
 .meganav .mn-asof{display:none;}
 .meganav .mn-theme{appearance:none;background:var(--elev,#16202b);border:1px solid var(--border,#1d2733);border-radius:9px;width:34px;height:34px;display:flex;align-items:center;justify-content:center;cursor:pointer;color:var(--muted,#8895a4);}
-.meganav .mn-theme:hover{color:var(--text,#e7edf3);border-color:var(--accent-border,#1e4634);}
+.meganav .mn-theme:hover{color:var(--text,#e7edf3);border-color:var(--accent-border,#4a3711);}
 .meganav .mn-theme .ic-sun{display:none;}
 html[data-theme="light"] .meganav .mn-theme .ic-sun{display:block;}
 html[data-theme="light"] .meganav .mn-theme .ic-moon{display:none;}
@@ -208,15 +208,15 @@ html[data-theme="light"] .meganav .mn-theme .ic-moon{display:none;}
 }
 </style>
 <div class="mn-in">
-  <a class="mn-logo" href="/" aria-label="Santro AI — home">
+  <a class="mn-logo" href="/" aria-label="Energy Trade — home">
     <span class="mn-ls">S</span>
-    <span class="mn-lr"><b>Santro&nbsp;AI</b><i>THE&nbsp;AI&nbsp;TRADE&nbsp;TERMINAL</i></span>
+    <span class="mn-lr"><b>Energy Trade&nbsp;AI</b><i>THE&nbsp;AI&nbsp;TRADE&nbsp;TERMINAL</i></span>
     <em class="mn-beta">Beta</em>
   </a>
   <nav class="mn-nav" aria-label="Main">
     <div class="mn-item" data-menu="terminal">
       <button class="mn-top" type="button" aria-expanded="false" aria-haspopup="true">Terminal</button>
-      <div class="mn-panel"><div class="mn-pin"><p class="mn-desc">The main Santro market view across AI stocks, ETFs, crypto, hot tickers, and bubble-risk signals.</p><div class="mn-links">
+      <div class="mn-panel"><div class="mn-pin"><p class="mn-desc">The main Energy Trade market view across AI stocks, ETFs, crypto, hot tickers, and bubble-risk signals.</p><div class="mn-links">
         <a class="mn-link" href="/terminal"><b>AI Terminal<em class="mn-b mn-b-live">Beta</em></b><span>Bubble map, market tape, hot tickers, and the daily brief.</span></a>
         <a class="mn-link" href="/stocks"><b>AI Stocks</b><span>101 AI names ranked by heat, research on every ticker.</span></a>
         <a class="mn-link" href="/crypto"><b>AI Crypto</b><span>AI tokens and rotating crypto baskets.</span></a>
@@ -225,7 +225,7 @@ html[data-theme="light"] .meganav .mn-theme .ic-moon{display:none;}
       </div></div></div>
     </div><div class="mn-item on" data-menu="tools">
       <button class="mn-top" type="button" aria-expanded="false" aria-haspopup="true">Tools</button>
-      <div class="mn-panel"><div class="mn-pin"><p class="mn-desc">Every tool is free while Santro is in beta. Scenario outputs, not price targets.</p><div class="mn-links">
+      <div class="mn-panel"><div class="mn-pin"><p class="mn-desc">Every tool is free while Energy Trade is in beta. Scenario outputs, not price targets.</p><div class="mn-links">
         <a class="mn-link" href="/bubble"><b>AI Bubble Risk<em class="mn-b mn-b-live">Beta</em></b><span>Valuation, momentum, and crowding signals in one gauge.</span></a>
         <a class="mn-link" href="/bubble#stress"><b>Portfolio Stress Test<em class="mn-b mn-b-live">Beta</em></b><span>Six historical crash scenarios against your portfolio.</span></a>
         <a class="mn-link" href="/tools/fair-value-calculator"><b>Fair-Value Calculator<em class="mn-b mn-b-live">Beta</em></b><span>DCF, P/E, Graham, and PEG scenario values for any AI ticker.</span></a>
@@ -270,13 +270,13 @@ html[data-theme="light"] .meganav .mn-theme .ic-moon{display:none;}
     </div><div class="mn-item mn-collapsible" data-menu="company">
       <button class="mn-top" type="button" aria-expanded="false" aria-haspopup="true">Company</button>
       <div class="mn-panel"><div class="mn-pin"><div class="mn-links mn-w2">
-        <a href="/about">About Santro AI</a>
-        <a href="mailto:hello@santroai.tech">Contact</a>
+        <a href="/about">About Energy Trade</a>
+        <a href="mailto:hello@energytrade.example">Contact</a>
         <a href="/privacy">Privacy Policy</a>
         <a href="/terms">Terms of Use</a>
-        <a href="https://x.com/SantroAI" target="_blank" rel="noopener">@SantroAI on X</a>
+        <a href="https://x.com/SantroAI" target="_blank" rel="noopener">@EnergyTrade on X</a>
         <span class="mn-off">iOS app<em class="mn-b mn-b-soon">Coming soon</em></span>
-        <span class="mn-off">Santro Pro<em class="mn-b mn-b-soon">Coming soon</em></span>
+        <span class="mn-off">Energy Trade Pro<em class="mn-b mn-b-soon">Coming soon</em></span>
       </div></div></div>
     </div><div class="mn-item mn-moreitem" data-menu="more">
       <button class="mn-top" type="button" aria-expanded="false" aria-haspopup="true">More</button>
@@ -286,13 +286,13 @@ html[data-theme="light"] .meganav .mn-theme .ic-moon{display:none;}
         <a class="mn-link" href="/etfs"><b>ETF Map</b><span>Overlap-aware list of the AI ETF complex.</span></a>
         <a class="mn-link" href="/bubble"><b>Bubble-Risk Gauge</b><span>One dial for the whole AI trade.</span></a>
         <a class="mn-link" href="/ipos"><b>IPO Pipeline</b><span>Who is filing, who is rumored, who is priced.</span></a>
-        <a href="/about">About Santro AI</a>
-        <a href="mailto:hello@santroai.tech">Contact</a>
+        <a href="/about">About Energy Trade</a>
+        <a href="mailto:hello@energytrade.example">Contact</a>
         <a href="/privacy">Privacy Policy</a>
         <a href="/terms">Terms of Use</a>
-        <a href="https://x.com/SantroAI" target="_blank" rel="noopener">@SantroAI on X</a>
+        <a href="https://x.com/SantroAI" target="_blank" rel="noopener">@EnergyTrade on X</a>
         <span class="mn-off">iOS app<em class="mn-b mn-b-soon">Coming soon</em></span>
-        <span class="mn-off">Santro Pro<em class="mn-b mn-b-soon">Coming soon</em></span>
+        <span class="mn-off">Energy Trade Pro<em class="mn-b mn-b-soon">Coming soon</em></span>
       </div></div></div>
     </div>
   </nav>
@@ -353,13 +353,13 @@ html[data-theme="light"] .meganav .mn-theme .ic-moon{display:none;}
         <a href="/bubble">Bubble-Risk Gauge</a>
         <a href="/ipos">IPO Pipeline</a>
     </details><details class="mnd-sec"><summary>Company</summary>
-      <a href="/about">About Santro AI</a>
-        <a href="mailto:hello@santroai.tech">Contact</a>
+      <a href="/about">About Energy Trade</a>
+        <a href="mailto:hello@energytrade.example">Contact</a>
         <a href="/privacy">Privacy Policy</a>
         <a href="/terms">Terms of Use</a>
-        <a href="https://x.com/SantroAI" target="_blank" rel="noopener">@SantroAI on X</a>
+        <a href="https://x.com/SantroAI" target="_blank" rel="noopener">@EnergyTrade on X</a>
         <span class="mn-off">iOS app<em class="mn-b mn-b-soon">Coming soon</em></span>
-        <span class="mn-off">Santro Pro<em class="mn-b mn-b-soon">Coming soon</em></span>
+        <span class="mn-off">Energy Trade Pro<em class="mn-b mn-b-soon">Coming soon</em></span>
     </details>
   <div class="mnd-cta">
     <a class="a1" href="/signup">Create free account</a>
@@ -373,7 +373,7 @@ html[data-theme="light"] .meganav .mn-theme .ic-moon{display:none;}
 
 <main class="fv-wrap">
   <h1>AI Stock Fair-Value Calculator</h1>
-  <p class="fv-lede">Scenario values for any of the 99 tickers in the Santro universe, under assumptions you control — a reverse DCF, a P/E multiple read, the Graham number, and a PEG check. The market-implied default shows what today's price already assumes, so the starting point is never a fantasy number.</p>
+  <p class="fv-lede">Scenario values for any of the 99 tickers in the Energy Trade universe, under assumptions you control — a reverse DCF, a P/E multiple read, the Graham number, and a PEG check. The market-implied default shows what today's price already assumes, so the starting point is never a fantasy number.</p>
 
   <section class="fv-pick" aria-label="Choose a ticker">
     <label for="fv-input">Ticker or company</label>
@@ -466,7 +466,7 @@ footer.mega{display:block;text-align:left;margin-top:48px;padding:0;border-top:1
 <div class="mg-in">
   <div class="mg-top">
     <div class="mg-brand">
-      <div class="mg-logo">Santro <span>AI</span></div>
+      <div class="mg-logo">Energy Trade <span>AI</span></div>
       <div class="mg-tag">The AI Trade Terminal</div>
       <p class="mg-line">The AI trade terminal for stocks, ETFs, crypto, hot tickers, valuation tools, and bubble-risk signals.</p>
       <p class="mg-slogan">Hot means attention, not direction.</p>
@@ -529,21 +529,21 @@ footer.mega{display:block;text-align:left;margin-top:48px;padding:0;border-top:1
     <div class="mg-col">
       <h4>Company</h4>
       <ul>
-        <li><a href="/about">About Santro AI</a></li>
+        <li><a href="/about">About Energy Trade</a></li>
         <li><a href="/methodology">Methodology</a></li>
         <li><a href="/research">Data &amp; sources</a></li>
-        <li><a href="mailto:hello@santroai.tech">Contact</a></li>
+        <li><a href="mailto:hello@energytrade.example">Contact</a></li>
         <li><a href="/privacy">Privacy Policy</a></li>
         <li><a href="/terms">Terms of Use</a></li>
-        <li><a href="https://x.com/SantroAI" target="_blank" rel="noopener">@SantroAI on X</a></li>
+        <li><a href="https://x.com/SantroAI" target="_blank" rel="noopener">@EnergyTrade on X</a></li>
         <li><span class="mg-off">iOS app — coming soon</span></li>
       </ul>
     </div>
   </div>
   <div class="mg-bottom">
-    <span>© 2026 Santro AI. All rights reserved. Uses custom models.</span>
+    <span>© 2026 Energy Trade. All rights reserved. Uses custom models.</span>
     <span>Quotes delayed ~15 min. Real-time data planned for Pro. <b class="mg-nfa">Not financial advice.</b></span>
-    <span><a href="/privacy">Privacy</a> · <a href="/terms">Terms</a> · <a href="mailto:hello@santroai.tech">Contact</a></span>
+    <span><a href="/privacy">Privacy</a> · <a href="/terms">Terms</a> · <a href="mailto:hello@energytrade.example">Contact</a></span>
     <!--MG_EXTRA-->
   </div>
 </div>

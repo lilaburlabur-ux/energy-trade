@@ -1,4 +1,4 @@
-/* Santro Accounts — dedicated /signup, /signin and /dashboard pages.
+/* Energy Trade Accounts — dedicated /signup, /signin and /dashboard pages.
    Separate from the in-terminal modal (accounts.js): these are full pages so
    "sign up" (create) and "sign in" (existing) can never be confused, and so we
    can collect a profile at signup and edit profile + terminal preferences after.
@@ -127,7 +127,7 @@
       <div class="sa-field"><label>Password</label><input class="sa-input" id="pw" type="password" autocomplete="current-password"></div>
       <button class="sa-btn primary" id="go">Sign in</button>
       <div class="sa-row" style="margin-top:12px">${forgot || "<span></span>"}</div>
-      <p class="auth-alt">New to Santro AI? <a href="/signup${next ? "?next=" + encodeURIComponent(next) : ""}">Create an account</a></p>
+      <p class="auth-alt">New to Energy Trade? <a href="/signup${next ? "?next=" + encodeURIComponent(next) : ""}">Create an account</a></p>
     </div>`);
     w.querySelector("#go").onclick = async () => {
       const err = w.querySelector("#err");
@@ -164,7 +164,7 @@
       <header class="dash-head">
         <div>
           <h1>${greeting}</h1>
-          <p style="margin:4px 0 0;font-size:13px;color:var(--muted,#9aa6b2)"><a href="/quiz" style="color:var(--accent-2,#7ce8b1)">Run the Exposure Check</a> — four steps that save straight into the preferences below.</p>
+          <p style="margin:4px 0 0;font-size:13px;color:var(--muted,#9aa6b2)"><a href="/quiz" style="color:var(--accent-2,#fcd34d)">Run the Exposure Check</a> — four steps that save straight into the preferences below.</p>
           <p class="auth-sub">${esc(name)} · <span class="dash-mail">${esc(user.email)}</span></p>
         </div>
         <div class="dash-actions">
@@ -191,7 +191,7 @@
 
       <section class="dash-card" id="customize">
         <h2>Customize your terminal</h2>
-        <p class="auth-sub">Choose what appears on your terminal, your default view and theme. Saved to your account and applied on <a href="/terminal" style="color:var(--accent-2,#7ce8b1)">/terminal</a>.</p>
+        <p class="auth-sub">Choose what appears on your terminal, your default view and theme. Saved to your account and applied on <a href="/terminal" style="color:var(--accent-2,#fcd34d)">/terminal</a>.</p>
         <div id="prerr"></div>
         <div class="dash-toggles">${TOGGLES.map(toggleRow).join("")}</div>
         <p class="auth-sub" style="margin:10px 0 4px;font-size:11.5px">Saved for later — these don't have a terminal section yet:</p>

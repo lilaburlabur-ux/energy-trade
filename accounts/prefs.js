@@ -1,4 +1,4 @@
-/* Santro Prefs — the ONE consumer of terminal/dashboard preferences.
+/* Energy Trade Prefs — the ONE consumer of terminal/dashboard preferences.
    Anonymous → DEFAULTS. Signed in → GET /account/preferences via SantroAPI.
    Any failure → DEFAULTS + console.warn; never blocks or blanks the page.
    DEFAULTS mirror backend app/schemas.py DEFAULT_PREFERENCES — keep in sync. */

@@ -1,4 +1,4 @@
-/* Santro gating config — ONE source (locked-data-strategy.md is law).
+/* Energy Trade gating config — ONE source (locked-data-strategy.md is law).
    feature -> "anon" | "free" | "pro". Components read this; no inline
    gating decisions anywhere. Pro renders no upsell until Pro launches. */
 (function () {

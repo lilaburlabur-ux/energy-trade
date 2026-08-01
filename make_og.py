@@ -162,7 +162,7 @@ def render(items, subtitle, logo_fn):
     d.text((72, 24), "ANTRO AI", font=font(30, black=True), fill=(231, 237, 243))
     d.text((40, 64), subtitle.upper(), font=font(12), fill=(34, 197, 94))
     stamp = dt.datetime.now(dt.timezone.utc).strftime("%b %d, %Y · %H:%M UTC")
-    label = "santroai.tech"
+    label = "energytrade.example"
     d.text((W - 36 - d.textlength(label, font=font(26, black=True)), 22),
            label, font=font(26, black=True), fill=(34, 197, 94))
     d.text((W - 36 - d.textlength(stamp, font=font(20)), 56), stamp, font=font(20),

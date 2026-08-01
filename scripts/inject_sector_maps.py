@@ -11,7 +11,7 @@ Responsibilities (all idempotent, marker-delimited — rerun anytime):
      from the SAME universe.json fetch the map makes (santro:universe event —
      zero extra requests).
   3. subtitle line     — "N names · combined market cap $X · part of the
-     Santro AI <total>-name universe" recomputed from the dataset.
+     Energy Trade <total>-name universe" recomputed from the dataset.
 
 Bump V on every sector-bubble-map.js edit. Run: python3 scripts/inject_sector_maps.py
 """
@@ -105,7 +105,7 @@ for f in sorted(glob.glob("stocks/themes/*.html")):
         s = re.sub(r'<table class="tt">.*?</table>', lambda m: table_block(b), s, count=1, flags=re.S)
     # 3) subtitle recomputed from the dataset
     sub = (f'<p class="sub">{len(b["tickers"])} names · combined market cap '
-           f'{fcap(b.get("total_market_cap_b"))} · part of the Santro AI {TOTAL}-name universe</p>')
+           f'{fcap(b.get("total_market_cap_b"))} · part of the Energy Trade {TOTAL}-name universe</p>')
     s = re.sub(r'<p class="sub">.*?</p>', lambda m: sub, s, count=1, flags=re.S)
     if s != orig:
         open(f, "w", encoding="utf-8").write(s); changed += 1

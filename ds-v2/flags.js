@@ -1,4 +1,4 @@
-/* Santro feature flags — Phase 0.
+/* Energy Trade feature flags — Phase 0.
    ds_v2 is OFF by default everywhere. Production renders pixel-identical
    until this flag is explicitly enabled (per environment or per browser
    via localStorage override for QA).

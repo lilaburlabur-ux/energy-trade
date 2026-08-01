@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Santro AI — navigation generator (single source of truth for the header).
+"""Energy Trade — navigation generator (single source of truth for the header).
 
 Renders the self-contained mega-menu header (scoped CSS + markup) from NAV
 below and sweeps it into every page, replacing the legacy header families:
@@ -23,7 +23,7 @@ UNIVERSE_TOTAL = sum(len(b["tickers"]) for b in _U["bubbles"])
 UNIVERSE_THEMES = len(_U["bubbles"])
 NAV = [
   dict(key="terminal", label="Terminal",
-       desc="The main Santro market view across AI stocks, ETFs, crypto, hot tickers, and bubble-risk signals.",
+       desc="The main Energy Trade market view across AI stocks, ETFs, crypto, hot tickers, and bubble-risk signals.",
        links=[
          ("AI Terminal", "/terminal", "Bubble map, market tape, hot tickers, and the daily brief.", "live"),
          ("AI Stocks", "/stocks", f"{UNIVERSE_TOTAL} AI names ranked by heat, research on every ticker.", None),
@@ -32,7 +32,7 @@ NAV = [
          ("Market News", "/news", "Headlines that move the AI trade.", None),
        ]),
   dict(key="tools", label="Tools",
-       desc="Every tool is free while Santro is in beta. Scenario outputs, not price targets.",
+       desc="Every tool is free while Energy Trade is in beta. Scenario outputs, not price targets.",
        links=[
          ("AI Bubble Risk", "/bubble", "Valuation, momentum, and crowding signals in one gauge.", "live"),
          ("Portfolio Stress Test", "/bubble#stress", "Six historical crash scenarios against your portfolio.", "live"),
@@ -78,13 +78,13 @@ NAV = [
   dict(key="company", label="Company", more=True,
        desc=None,
        links=[
-         ("About Santro AI", "/about", None, None),
-         ("Contact", "mailto:hello@santroai.tech", None, None),
+         ("About Energy Trade", "/about", None, None),
+         ("Contact", "mailto:hello@energytrade.example", None, None),
          ("Privacy Policy", "/privacy", None, None),
          ("Terms of Use", "/terms", None, None),
-         ("@SantroAI on X", "https://x.com/SantroAI", None, None),
+         ("@EnergyTrade on X", "https://x.com/SantroAI", None, None),
          ("iOS app", None, None, "soon"),
-         ("Santro Pro", None, None, "soon"),
+         ("Energy Trade Pro", None, None, "soon"),
        ]),
 ]
 
@@ -93,7 +93,7 @@ BADGE = {"live": '<em class="mn-b mn-b-live">Beta</em>',
          "soon": '<em class="mn-b mn-b-soon">Coming soon</em>'}
 
 CSS = """
-/* santro brand tokens — green is the identity color. Blue is NOT a Santro
+/* santro brand tokens — green is the identity color. Blue is NOT a Energy Trade
    UI color anywhere (2026-07-08 rule) — never reintroduce it. */
 header.meganav{--sg:#22c55e;--sg-hi:#4ade80;--sg-deep:#15803d;
   --sg-soft:rgba(34,197,94,.12);--sg-border:rgba(34,197,94,.45);
@@ -147,7 +147,7 @@ html[data-theme="light"] .meganav .mn-ls{background:linear-gradient(165deg,#16a3
 .meganav .mn-search .sg .pc.up{color:var(--green,#22c55e);}.meganav .mn-search .sg .pc.down{color:var(--red,#f05a6e);}
 .meganav .mn-asof{display:none;}
 .meganav .mn-theme{appearance:none;background:var(--elev,#16202b);border:1px solid var(--border,#1d2733);border-radius:9px;width:34px;height:34px;display:flex;align-items:center;justify-content:center;cursor:pointer;color:var(--muted,#8895a4);}
-.meganav .mn-theme:hover{color:var(--text,#e7edf3);border-color:var(--accent-border,#1e4634);}
+.meganav .mn-theme:hover{color:var(--text,#e7edf3);border-color:var(--accent-border,#4a3711);}
 .meganav .mn-theme .ic-sun{display:none;}
 html[data-theme="light"] .meganav .mn-theme .ic-sun{display:block;}
 html[data-theme="light"] .meganav .mn-theme .ic-moon{display:none;}
@@ -305,9 +305,9 @@ def render_header(active, utils, is_terminal=False):
 {CSS}
 </style>
 <div class="mn-in">
-  <a class="mn-logo" href="/" aria-label="Santro AI — home">
+  <a class="mn-logo" href="/" aria-label="Energy Trade — home">
     <span class="mn-ls">S</span>
-    <span class="mn-lr"><b>Santro&nbsp;AI</b><i>THE&nbsp;AI&nbsp;TRADE&nbsp;TERMINAL</i></span>
+    <span class="mn-lr"><b>Energy Trade&nbsp;AI</b><i>THE&nbsp;AI&nbsp;TRADE&nbsp;TERMINAL</i></span>
     <em class="mn-beta">Beta</em>
   </a>
   <nav class="mn-nav" aria-label="Main">

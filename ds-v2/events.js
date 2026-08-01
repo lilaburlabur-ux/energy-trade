@@ -1,4 +1,4 @@
-/* Santro analytics events — contract deviation documented in
+/* Energy Trade analytics events — contract deviation documented in
    docs/rebuild-plan.md: no analytics backend exists yet, so events queue to
    localStorage (santro_events, capped 200) + console.debug. Swap the sink
    for a backend endpoint later without touching call sites. */

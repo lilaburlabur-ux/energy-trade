@@ -1,6 +1,6 @@
-# Santro AI — santroai.tech
+# Energy Trade — energytrade.example
 
-Bubble map & research journal for the AI narrative. Live at **https://santroai.tech**.
+Bubble map & research journal for the AI narrative. Live at **https://energytrade.example**.
 All market data is keyless Yahoo Finance, ~15-min delayed. Not financial advice.
 
 ## Pages
@@ -42,7 +42,7 @@ local cron because GitHub's scheduler alone is unreliable.
 **Indexing model.** Content pages (`/`, `/about`, `/stocks`, `/crypto`, `/etfs`, `/bubble`, `/news`, `/research`, `/ipos`, `/share`, `/blog`, `/blog/*`, `/privacy`, `/terms`) ship real static HTML — title, description, canonical, OG/Twitter, one H1, explanatory copy and footer links — before any JS runs. The parameterized client-rendered detail shells (`/t`, `/e`, `/c`, `/ipo`) are `noindex,follow` on purpose: they share one static template, so indexing them would create thin/duplicate pages. To make ticker pages indexable later, prerender per-symbol static HTML at build time.
 
 **Post-deploy checklist (Google Search Console).**
-1. Submit `https://santroai.tech/sitemap.xml`.
+1. Submit `https://energytrade.example/sitemap.xml`.
 2. URL-inspect `/`, `/blog`, the newest article, `/etfs`, `/bubble`, `/crypto`, `/stocks` → Request indexing.
 3. Pages report: watch "Crawled – currently not indexed", "Discovered – currently not indexed", "Duplicate without user-selected canonical".
 4. Rich Results Test on `/` (WebApplication/Organization), `/etfs` (Dataset + Breadcrumb), a blog post (Article).
@@ -51,4 +51,4 @@ local cron because GitHub's scheduler alone is unreliable.
 
 Data is delayed ~15 min — pages must say "delayed", never "live/real-time". Not financial advice.
 
-Contact: hello@santroai.tech
+Contact: hello@energytrade.example

@@ -15,7 +15,7 @@ import subprocess
 import datetime as dt
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-BASE = "https://santroai.tech"
+BASE = "https://energytrade.example"
 TODAY = dt.date.today().isoformat()
 
 # (url path, file, priority, changefreq, dynamic?) — dynamic ⇒ lastmod = today

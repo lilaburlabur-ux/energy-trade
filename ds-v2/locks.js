@@ -1,4 +1,4 @@
-/* Santro lock behavior — modal per registration-funnel.md.
+/* Energy Trade lock behavior — modal per registration-funnel.md.
    Triggered ONLY by user action; title mirrors intent; working auth methods
    only (email+password is live; Google is not configured, so it is absent —
    never shown broken). Return-to-context: element id stored, un-blurred in

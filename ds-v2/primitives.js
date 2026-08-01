@@ -1,4 +1,4 @@
-/* Santro ds_v2 — primitive behaviors (Phase 1): modal/drawer open-close,
+/* Energy Trade ds_v2 — primitive behaviors (Phase 1): modal/drawer open-close,
    focus trap, Esc. No styling here — CSS owns the look; this file only
    toggles state. Inert unless markup opts in via data-ds-modal-open. */
 (function () {

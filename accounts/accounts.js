@@ -1,4 +1,4 @@
-/* Santro Accounts — UI controllers. Reflects backend state; never owns auth or
+/* Energy Trade Accounts — UI controllers. Reflects backend state; never owns auth or
    metering logic. Exposes window.SantroCalc.render(t) for the detail card. */
 (function () {
   "use strict";
@@ -122,7 +122,7 @@
       (authMethods.google ? `<button class="sa-btn google" id="g">${googleSvg()} Continue with Google</button>` : "") +
       (authMethods.magic_link ? `<button class="sa-btn" id="m">✉️ Email me a sign-in link</button>` : "");
     const w = node(`<div>
-      <h2>Sign in to Santro AI</h2>
+      <h2>Sign in to Energy Trade</h2>
       <p class="sa-sub">${API.mode === "mock"
         ? "🧪 Preview — sign-in is simulated until accounts launch; nothing is saved yet. The valuation calculator runs for real."
         : "Unlimited valuations, a saved watchlist, and your valuation history. No spam."}</p>
@@ -750,7 +750,7 @@
   function fireAlert(a, p) {
     const msgTxt = `${a.ticker} · ${alertDesc(a)} — now ${p.price != null ? fmtUSD(p.price) : ""}${p.change_pct != null ? " (" + fmtPct(p.change_pct) + ")" : ""}`;
     toast(msgTxt);
-    try { if (window.Notification && Notification.permission === "granted") new Notification("Santro AI alert", { body: msgTxt }); } catch (_) {}
+    try { if (window.Notification && Notification.permission === "granted") new Notification("Energy Trade alert", { body: msgTxt }); } catch (_) {}
   }
   function toast(txt) {
     let host = document.getElementById("sa-toasts");

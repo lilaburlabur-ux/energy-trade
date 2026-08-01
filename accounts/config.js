@@ -1,4 +1,4 @@
-/* Santro Accounts — frontend config (the "env" for a static site).
+/* Energy Trade Accounts — frontend config (the "env" for a static site).
  *
  * No secrets here — only public, build-time configuration. To point the UI at a
  * real backend, set apiMode:"live" and apiBase to the API origin. CORS on the
@@ -24,7 +24,7 @@ window.SANTRO_CONFIG = Object.assign(
     apiMode: "live",
 
     // Backend origin. Empty = same origin. Example: "https://api.santroai.tech"
-    // Same-site subdomain of santroai.tech → session cookies are first-party
+    // Same-site subdomain of energytrade.example → session cookies are first-party
     // (no third-party-cookie blocking by Safari/ITP or Chrome's 3p phase-out).
     apiBase: "https://api.santroai.tech",
 

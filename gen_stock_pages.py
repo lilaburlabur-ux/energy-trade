@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """gen_stock_pages.py — generate canonical /stocks/<sym> pages for tickers that
-appear in Santro content but had no static page (previously served only by the
+appear in Energy Trade content but had no static page (previously served only by the
 noindexed /t?sym= twin).
 
 Template = the existing stock-page template (mirrors stocks/corz.html exactly):
@@ -119,19 +119,19 @@ TKP_CSS = """<style>
   .tkp .crumb{font-size:13px;color:var(--faint,#6b7684);margin:14px 0 4px;} .tkp .crumb a{color:var(--muted,#9aa6b2);text-decoration:none;}
   .tkp h1{font-size:28px;margin:10px 0 4px;} .tkp .sub{color:var(--muted,#9aa6b2);font-size:15px;margin:0 0 18px;}
   .tkp h2{font-size:19px;margin:28px 0 8px;} .tkp p,.tkp li{color:var(--muted,#9aa6b2);font-size:15.5px;line-height:1.65;}
-  .tkp b{color:var(--text,#e6edf3);} .tkp a{color:var(--accent,#22c55e);}
+  .tkp b{color:var(--text,#e6edf3);} .tkp a{color:var(--accent,#f59e0b);}
   .kv{width:100%;border-collapse:collapse;margin:8px 0 4px;} .kv td{padding:8px 10px;border-bottom:1px solid var(--border-soft,#1c2230);font-size:14.5px;color:var(--muted);} .kv td:first-child{color:var(--faint,#6b7684);width:38%;}
   .rbx{display:inline-block;font-size:11px;font-weight:700;padding:2px 7px;border-radius:5px;background:rgba(240,90,110,.14);color:#f0596e;margin-left:6px;}
   .relx a{display:inline-block;margin:0 8px 6px 0;padding:5px 11px;border:1px solid var(--border-soft,#1c2230);border-radius:7px;font-size:13.5px;text-decoration:none;}
   .ctaE{margin-top:22px;padding:18px 20px;border:1px solid rgba(34,197,94,.28);border-radius:12px;background:rgba(34,197,94,.06);}
-  .ctaE a{display:inline-block;background:var(--accent,#22c55e);color:#fff;padding:9px 16px;border-radius:8px;font-weight:600;text-decoration:none;font-size:14px;margin-top:8px;}
+  .ctaE a{display:inline-block;background:var(--accent,#f59e0b);color:#fff;padding:9px 16px;border-radius:8px;font-weight:600;text-decoration:none;font-size:14px;margin-top:8px;}
   .nfax{color:var(--faint,#6b7684);font-size:13px;margin-top:18px;}
 </style>"""
 
 # pageheader/footer stubs — gen_nav.py / gen_footer.py replace these with the
 # ds-v2 meganav + mega footer (same stubs gen_etf_pages.js emits)
 HEADER = """  <header class="pageheader">
-    <a class="logo" href="/" title="Santro AI — dashboard">
+    <a class="logo" href="/" title="Energy Trade — dashboard">
       <span class="logo-s">S<span class="logo-ai">AI</span></span>
       <span class="logo-rest"><span class="logo-antro">ANTRO</span>
         <span class="logo-tagline">AI&nbsp;RESEARCH&nbsp;·&nbsp;MARKETS</span></span>
@@ -144,10 +144,10 @@ HEADER = """  <header class="pageheader">
   </header>"""
 FOOTER = """  <footer>
     <nav class="foot-nav" style="margin-bottom:6px"><a href="/">Terminal</a> · <a href="/stocks">Stocks</a> · <a href="/ipos">IPOs</a> · <a href="/etfs">ETFs</a> · <a href="/crypto">Crypto</a> · <a href="/news">News</a> · <a href="/research">Research</a> · <a href="/blog">Blog</a> · <a href="/about">About</a> · <a href="/privacy">Privacy</a> · <a href="/terms">Terms</a></nav>
-    Santro AI — the AI bubble terminal for AI stocks, ETFs, crypto, hot tickers, research and bubble-risk signals. Beta version.<br>
+    Energy Trade — the AI bubble terminal for AI stocks, ETFs, crypto, hot tickers, research and bubble-risk signals. Beta version.<br>
     Quotes delayed ~15 min. Real-time data planned for Pro. <span class="nfa">Not financial advice.</span><br>
-    Contact us: <a href="mailto:hello@santroai.tech">hello@santroai.tech</a><br>
-    © 2026 Santro AI. All rights reserved. Uses custom models.
+    Contact us: <a href="mailto:hello@energytrade.example">hello@energytrade.example</a><br>
+    © 2026 Energy Trade. All rights reserved. Uses custom models.
   </footer>"""
 
 LIVE_PATCH = """<script>
@@ -197,26 +197,26 @@ def page(sym, cfg, d, asof):
 <meta name="theme-color" content="#0a0e13" />
 <meta name="mobile-web-app-capable" content="yes" />
 <meta name="apple-mobile-web-app-capable" content="yes" />
-<meta name="apple-mobile-web-app-title" content="Santro AI" />
+<meta name="apple-mobile-web-app-title" content="Energy Trade" />
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
-<title>{sym} ({esc(co)}) — AI exposure, valuation &amp; data | Santro AI</title>
+<title>{sym} ({esc(co)}) — AI exposure, valuation &amp; data | Energy Trade</title>
 <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml"/>
 <link rel="icon" type="image/png" sizes="48x48" href="/assets/favicon-48.png"/>
 <link rel="apple-touch-icon" href="/assets/apple-touch-icon.png"/>
 <link rel="manifest" href="/manifest.json" />
 <meta name="description" content="{sym} ({esc(co)}): {esc(ind)}. What it does, the industry it's in, the growth its price implies, key data and related names. Delayed data, not advice."/>
-<link rel="canonical" href="https://santroai.tech/stocks/{slug}"/>
-<meta property="og:type" content="website"/><meta property="og:site_name" content="Santro AI"/>
+<link rel="canonical" href="https://energytrade.example/stocks/{slug}"/>
+<meta property="og:type" content="website"/><meta property="og:site_name" content="Energy Trade"/>
 <meta property="og:title" content="{sym} — {esc(co)}"/>
-<meta property="og:description" content="{esc(ind)} · in the Santro AI universe"/>
-<meta property="og:url" content="https://santroai.tech/stocks/{slug}"/>
-<meta property="og:image" content="https://santroai.tech/assets/og-map.png"/>
-<meta name="twitter:card" content="summary_large_image"/><meta name="twitter:image" content="https://santroai.tech/assets/og-map.png"/>
+<meta property="og:description" content="{esc(ind)} · in the Energy Trade universe"/>
+<meta property="og:url" content="https://energytrade.example/stocks/{slug}"/>
+<meta property="og:image" content="https://energytrade.example/assets/og-map.png"/>
+<meta name="twitter:card" content="summary_large_image"/><meta name="twitter:image" content="https://energytrade.example/assets/og-map.png"/>
 <script type="application/ld+json">
 {{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
- {{"@type":"ListItem","position":1,"name":"Home","item":"https://santroai.tech/"}},
- {{"@type":"ListItem","position":2,"name":"AI Stocks","item":"https://santroai.tech/stocks"}},
- {{"@type":"ListItem","position":3,"name":"{sym}","item":"https://santroai.tech/stocks/{slug}"}}]}}
+ {{"@type":"ListItem","position":1,"name":"Home","item":"https://energytrade.example/"}},
+ {{"@type":"ListItem","position":2,"name":"AI Stocks","item":"https://energytrade.example/stocks"}},
+ {{"@type":"ListItem","position":3,"name":"{sym}","item":"https://energytrade.example/stocks/{slug}"}}]}}
 </script>
 <link rel="stylesheet" href="/site.css?v=14"/>
 {TKP_CSS}
@@ -251,7 +251,7 @@ def page(sym, cfg, d, asof):
 
     <div class="ctaE">
       <b>Run a fair-value read on {sym} — free.</b>
-      <p>Create a free Santro AI account to run unlimited valuations, save {sym} to a watchlist, and keep your history.</p>
+      <p>Create a free Energy Trade account to run unlimited valuations, save {sym} to a watchlist, and keep your history.</p>
       <a href="/?auth=register">Create a free account →</a>
     </div>
     <p class="nfax">Market data is delayed ~15 minutes and provided for education, not as financial advice. "Hot" means attention, not direction.</p>

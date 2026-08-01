@@ -1,5 +1,5 @@
 /* ============================================================
-   Santro ds_v2 — legacy variable bridge (template-level migration).
+   Energy Trade ds_v2 — legacy variable bridge (template-level migration).
    Every legacy/generated page styles itself through the variable
    families below; re-pointing them at approved tokens migrates ALL
    route templates at once. html.ds-v2 (0-1-1) outranks page :root

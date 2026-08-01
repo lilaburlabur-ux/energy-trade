@@ -1,4 +1,4 @@
-// Santro AI — shared header controls for section pages:
+// Energy Trade — shared header controls for section pages:
 // day/night pill, "as of" timestamp, reload. (The dashboard has its own copies.)
 (function(){
   const cur = () => document.documentElement.dataset.theme==="light" ? "light" : "dark";

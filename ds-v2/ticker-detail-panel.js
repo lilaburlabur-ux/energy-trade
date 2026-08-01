@@ -1,4 +1,4 @@
-/* Santro — shared ticker detail panel. v1
+/* Energy Trade — shared ticker detail panel. v1
    THE canonical rich ticker-detail card for bubble maps. Reproduces the
    /terminal #detail panel's format (.d-head + .d-stats + perf chips + actions)
    so every bubble map shows the SAME rich panel on ticker select — never a
@@ -35,9 +35,9 @@
     ".stp-chip b{font-weight:700}.stp-chip .up{color:#22c55e}.stp-chip .down{color:#f05a6e}" +
     ".stp-actions{display:flex;gap:9px;flex-wrap:wrap;margin-top:14px}" +
     ".stp-actions a{text-decoration:none;font-size:13px;font-weight:700;border-radius:9px;padding:9px 15px;white-space:nowrap}" +
-    ".stp-actions a.pri{background:var(--accent-2,#22c55e);color:#04140b}" +
-    ".stp-actions a.sec{border:1px solid var(--border-strong,#26323f);color:var(--accent-2,#22c55e)}" +
-    ".stp-actions a.sec:hover{border-color:var(--accent-2,#22c55e)}" +
+    ".stp-actions a.pri{background:var(--accent-2,#f59e0b);color:#140b04}" +
+    ".stp-actions a.sec{border:1px solid var(--border-strong,#26323f);color:var(--accent-2,#f59e0b)}" +
+    ".stp-actions a.sec:hover{border-color:var(--accent-2,#f59e0b)}" +
     "@media(max-width:640px){.stp-stats{grid-template-columns:repeat(2,1fr)}.stp-actions a{flex:1 1 auto;text-align:center}}";
 
   function ensureCss() {

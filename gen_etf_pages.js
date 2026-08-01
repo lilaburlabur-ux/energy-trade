@@ -27,7 +27,7 @@ const AIREL = {
   adjacent: "AI is one slice of a broader fund, not the whole thesis."
 };
 const HEADER = `  <header class="pageheader">
-    <a class="logo" href="/" title="Santro AI — dashboard">
+    <a class="logo" href="/" title="Energy Trade — dashboard">
       <span class="logo-s">S<span class="logo-ai">AI</span></span>
       <span class="logo-rest"><span class="logo-antro">ANTRO</span>
         <span class="logo-tagline">AI&nbsp;RESEARCH&nbsp;·&nbsp;MARKETS</span></span>
@@ -43,22 +43,22 @@ const HEADER = `  <header class="pageheader">
   </header>`;
 const FOOTER = `  <footer>
     <nav class="foot-nav" style="margin-bottom:6px"><a href="/">Terminal</a> · <a href="/stocks">Stocks</a> · <a href="/ipos">IPOs</a> · <a href="/etfs">ETFs</a> · <a href="/crypto">Crypto</a> · <a href="/news">News</a> · <a href="/research">Research</a> · <a href="/blog">Blog</a> · <a href="/about">About</a> · <a href="/privacy">Privacy</a> · <a href="/terms">Terms</a></nav>
-    Santro AI — the AI bubble terminal for AI stocks, ETFs, crypto, hot tickers, research and bubble-risk signals. Beta version.<br>
+    Energy Trade — the AI bubble terminal for AI stocks, ETFs, crypto, hot tickers, research and bubble-risk signals. Beta version.<br>
     Quotes delayed ~15 min. Real-time data planned for Pro. <span class="nfa">Not financial advice.</span><br>
-    Contact us: <a href="mailto:hello@santroai.tech">hello@santroai.tech</a><br>
-    © 2026 Santro AI. All rights reserved. Uses custom models.
+    Contact us: <a href="mailto:hello@energytrade.example">hello@energytrade.example</a><br>
+    © 2026 Energy Trade. All rights reserved. Uses custom models.
   </footer>`;
 const CSS = `<style>
   .etfp{max-width:1240px;margin:0 auto;padding:6px 20px 50px;}
   .etfp .crumb{font-size:13px;color:var(--faint,#6b7684);margin:14px 0 4px;} .etfp .crumb a{color:var(--muted,#9aa6b2);text-decoration:none;}
   .etfp h1{font-size:28px;margin:10px 0 4px;} .etfp .sub{color:var(--muted,#9aa6b2);font-size:15px;margin:0 0 18px;}
   .etfp h2{font-size:19px;margin:28px 0 8px;} .etfp p,.etfp li{color:var(--muted,#9aa6b2);font-size:15.5px;line-height:1.65;}
-  .etfp b{color:var(--text,#e6edf3);} .etfp a{color:var(--accent,#22c55e);}
+  .etfp b{color:var(--text,#e6edf3);} .etfp a{color:var(--accent,#f59e0b);}
   .kv{width:100%;border-collapse:collapse;margin:8px 0 4px;} .kv td{padding:8px 10px;border-bottom:1px solid var(--border-soft,#1c2230);font-size:14.5px;color:var(--muted);} .kv td:first-child{color:var(--faint,#6b7684);width:38%;}
   .rbx{display:inline-block;font-size:11px;font-weight:700;padding:2px 7px;border-radius:5px;background:rgba(240,90,110,.14);color:#f0596e;margin-left:6px;}
   .relx a{display:inline-block;margin:0 8px 6px 0;padding:5px 11px;border:1px solid var(--border-soft,#1c2230);border-radius:7px;font-size:13.5px;text-decoration:none;}
   .ctaE{margin-top:22px;padding:18px 20px;border:1px solid rgba(34,197,94,.28);border-radius:12px;background:rgba(34,197,94,.06);}
-  .ctaE a{display:inline-block;background:var(--accent,#22c55e);color:#fff;padding:9px 16px;border-radius:8px;font-weight:600;text-decoration:none;font-size:14px;margin-top:8px;}
+  .ctaE a{display:inline-block;background:var(--accent,#f59e0b);color:#fff;padding:9px 16px;border-radius:8px;font-weight:600;text-decoration:none;font-size:14px;margin-top:8px;}
   .nfax{color:var(--faint,#6b7684);font-size:13px;margin-top:18px;}
 </style>`;
 
@@ -73,23 +73,23 @@ function page(e){
   const desc = `${e.t} (${e.name}): ${b.name.toLowerCase()} AI ETF. Expense ratio ${e.er||"n/a"}, AUM ${e.aum||"n/a"}, ${e.holds||"—"} holdings (${e.inside||"—"}). What it is, its AI relevance and the risks — delayed data, not advice.`.slice(0,300);
   return `<!DOCTYPE html><html lang="en"><head>
 <meta charset="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>${esc(title)} | Santro AI</title>
+<title>${esc(title)} | Energy Trade</title>
 <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml"/>
 <link rel="icon" type="image/png" sizes="48x48" href="/assets/favicon-48.png"/>
 <link rel="apple-touch-icon" href="/assets/apple-touch-icon.png"/>
 <meta name="description" content="${esc(desc)}"/>
-<link rel="canonical" href="https://santroai.tech/etfs/${e.t.toLowerCase()}"/>
-<meta property="og:type" content="website"/><meta property="og:site_name" content="Santro AI"/>
+<link rel="canonical" href="https://energytrade.example/etfs/${e.t.toLowerCase()}"/>
+<meta property="og:type" content="website"/><meta property="og:site_name" content="Energy Trade"/>
 <meta property="og:title" content="${esc(e.t+" — "+e.name)}"/>
 <meta property="og:description" content="${esc(b.name+" AI ETF · fee "+(e.er||"n/a")+" · AUM "+(e.aum||"n/a"))}"/>
-<meta property="og:url" content="https://santroai.tech/etfs/${e.t.toLowerCase()}"/>
-<meta property="og:image" content="https://santroai.tech/assets/og-map.png"/>
-<meta name="twitter:card" content="summary_large_image"/><meta name="twitter:image" content="https://santroai.tech/assets/og-map.png"/>
+<meta property="og:url" content="https://energytrade.example/etfs/${e.t.toLowerCase()}"/>
+<meta property="og:image" content="https://energytrade.example/assets/og-map.png"/>
+<meta name="twitter:card" content="summary_large_image"/><meta name="twitter:image" content="https://energytrade.example/assets/og-map.png"/>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
- {"@type":"ListItem","position":1,"name":"Home","item":"https://santroai.tech/"},
- {"@type":"ListItem","position":2,"name":"AI ETFs","item":"https://santroai.tech/etfs"},
- {"@type":"ListItem","position":3,"name":"${esc(e.t)}","item":"https://santroai.tech/etfs/${e.t.toLowerCase()}"}]}
+ {"@type":"ListItem","position":1,"name":"Home","item":"https://energytrade.example/"},
+ {"@type":"ListItem","position":2,"name":"AI ETFs","item":"https://energytrade.example/etfs"},
+ {"@type":"ListItem","position":3,"name":"${esc(e.t)}","item":"https://energytrade.example/etfs/${e.t.toLowerCase()}"}]}
 </script>
 <link rel="stylesheet" href="/site.css?v=14"/>
 ${CSS}
@@ -130,7 +130,7 @@ ${HEADER}
 
     <div class="ctaE">
       <b>Track AI ETFs &amp; run fair-value on their top holdings.</b>
-      <p>Create a free Santro AI account to save a watchlist and run unlimited valuations on the names inside these funds.</p>
+      <p>Create a free Energy Trade account to save a watchlist and run unlimited valuations on the names inside these funds.</p>
       <a href="/?auth=register">Create a free account →</a>
     </div>
     <p class="nfax">Market data is delayed ~15 minutes and provided for education, not as financial advice. ETFs carry risk; read the fund's prospectus.</p>

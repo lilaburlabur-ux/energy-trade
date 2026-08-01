@@ -1,4 +1,4 @@
-/* Santro Accounts — the ONE API module.
+/* Energy Trade Accounts — the ONE API module.
  *
  * Everything network goes through here. The backend owns auth + metering; this
  * just reflects it. Sessions are httpOnly cookies, so we never read/store tokens
@@ -15,7 +15,7 @@
   const BASE = (CFG.apiBase || "").replace(/\/+$/, "");
 
   // Anonymous metering id. The browser mints one random id and reuses it, sent
-  // as X-Santro-Anon so the backend can count free runs per browser WITHOUT a
+  // as X-Energy Trade-Anon so the backend can count free runs per browser WITHOUT a
   // cross-site cookie (dropped as third-party) or the client IP (which rotates
   // on carrier NAT / VPN / iCloud Private Relay and so leaked the limit). It is
   // NOT a credential — clearing it merely resets the free-run count — so

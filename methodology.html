@@ -6,41 +6,41 @@
 <meta name="theme-color" content="#0a0e13" />
 <meta name="mobile-web-app-capable" content="yes" />
 <meta name="apple-mobile-web-app-capable" content="yes" />
-<meta name="apple-mobile-web-app-title" content="Santro AI" />
+<meta name="apple-mobile-web-app-title" content="Energy Trade" />
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
-<title>Methodology — How Santro AI Measures the AI Market | Santro AI</title>
-<meta name="description" content="How Santro AI builds its AI market data: sources, ~15-minute delay policy, the filing-verified research standard, how the AI Bubble Risk Index is used, and why hot means attention, not direction. Not financial advice.">
-<link rel="canonical" href="https://santroai.tech/methodology">
+<title>Methodology — How Energy Trade Measures the AI Market | Energy Trade</title>
+<meta name="description" content="How Energy Trade builds its AI market data: sources, ~15-minute delay policy, the filing-verified research standard, how the AI Bubble Risk Index is used, and why hot means attention, not direction. Not financial advice.">
+<link rel="canonical" href="https://energytrade.example/methodology">
 <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
 <link rel="icon" type="image/png" sizes="48x48" href="/assets/favicon-48.png">
 <link rel="apple-touch-icon" href="/assets/apple-touch-icon.png">
 <link rel="manifest" href="/manifest.json" />
-<meta property="og:site_name" content="Santro AI" />
+<meta property="og:site_name" content="Energy Trade" />
 <meta property="og:type" content="article">
-<meta property="og:title" content="Methodology — How Santro AI Measures the AI Market">
+<meta property="og:title" content="Methodology — How Energy Trade Measures the AI Market">
 <meta property="og:description" content="The AI trade is no longer one trade. Learn how to read heat, rotation, valuation pressure and bubble risk across AI stocks, ETFs and crypto.">
-<meta property="og:url" content="https://santroai.tech/methodology">
-<meta property="og:image" content="https://santroai.tech/assets/blog/how-to-read-the-ai-market.png">
+<meta property="og:url" content="https://energytrade.example/methodology">
+<meta property="og:image" content="https://energytrade.example/assets/blog/how-to-read-the-ai-market.png">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:image" content="https://santroai.tech/assets/blog/how-to-read-the-ai-market.png">
+<meta name="twitter:image" content="https://energytrade.example/assets/blog/how-to-read-the-ai-market.png">
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"Article",
  "headline":"How to Read the AI Market Without Getting Lost in the Noise",
  "description":"A trader's guide to the AI market: heat, sector rotation, bubble risk, valuation pressure, ETFs, crypto and the bottlenecks that decide leadership. Context, not signals.",
- "image":"https://santroai.tech/assets/blog/how-to-read-the-ai-market.png",
+ "image":"https://energytrade.example/assets/blog/how-to-read-the-ai-market.png",
  "datePublished":"2026-07-10","dateModified":"2026-07-10",
- "author":{"@type":"Organization","name":"Santro AI","url":"https://santroai.tech"},
- "publisher":{"@type":"Organization","name":"Santro AI","logo":{"@type":"ImageObject","url":"https://santroai.tech/assets/brand/logo-1024.png"}},
- "mainEntityOfPage":{"@type":"WebPage","@id":"https://santroai.tech/blog/how-to-read-the-ai-market"},
+ "author":{"@type":"Organization","name":"Energy Trade","url":"https://energytrade.example"},
+ "publisher":{"@type":"Organization","name":"Energy Trade","logo":{"@type":"ImageObject","url":"https://energytrade.example/assets/brand/logo-1024.png"}},
+ "mainEntityOfPage":{"@type":"WebPage","@id":"https://energytrade.example/blog/how-to-read-the-ai-market"},
  "keywords":"SK Hynix IPO, SKHY, HBM, high bandwidth memory, AI memory, Nasdaq ADS, Micron, MU, NVDA, DRAM ETF, memory supercycle, AI infrastructure"}
 </script>
 <style>
   :root{
-    /* Santro dark-first palette */
+    /* Energy Trade dark-first palette */
     --bg:#0a0e13; --surface:#111822; --card:#16202b;
     --text:#e7edf3; --muted:#9aa7b5; --hint:#6b7686;
     --border:rgba(255,255,255,.10); --border-strong:rgba(255,255,255,.20);
-    --accent:var(--accent-2,#7ce8b1); --accent-soft:#10241a;
+    --accent:var(--accent-2,#fcd34d); --accent-soft:#241b07;
     --teal:#22c55e; --gray:#8895a4; --danger:#f05a6e; --danger-soft:#2a1418;
     --radius:14px; --radius-sm:9px;
     --serif:Georgia,'Times New Roman',serif;
@@ -48,7 +48,7 @@
   }
   *{box-sizing:border-box}
   body{margin:0;background:var(--bg);color:var(--text);font-family:var(--sans);line-height:1.7;font-size:18px;-webkit-font-smoothing:antialiased}
-  /* Santro header */
+  /* Energy Trade header */
   .sa-head{display:flex;align-items:center;gap:14px;flex-wrap:wrap;max-width:1040px;margin:0 auto;
     padding:16px 22px;border-bottom:1px solid var(--border)}
   .sa-logo{display:flex;align-items:center;gap:6px;text-decoration:none}
@@ -133,15 +133,15 @@
 </style>
 <style>
 .sa-crumb{max-width:920px;margin:14px auto 0;padding:0 20px;font-size:13px;color:var(--faint,#6b7684);}
-.sa-crumb a{color:var(--muted,#9aa6b2);text-decoration:none;} .sa-crumb a:hover{color:var(--accent,var(--accent,#22c55e));}
+.sa-crumb a{color:var(--muted,#9aa6b2);text-decoration:none;} .sa-crumb a:hover{color:var(--accent,var(--accent,#f59e0b));}
 .sa-grow{max-width:920px;margin:20px auto 0;padding:24px 20px 8px;border-top:1px solid var(--border-soft,#1c2230);display:grid;grid-template-columns:1fr 1fr;gap:14px 28px;}
 @media(max-width:680px){.sa-grow{grid-template-columns:1fr;}}
 .sa-grow h3{font-size:14px;margin:0 0 8px;color:var(--text,#e6edf3);letter-spacing:.02em;}
-.sa-grow ul{margin:0;padding-left:18px;} .sa-grow li{color:var(--muted,#9aa6b2);font-size:14.5px;line-height:1.7;margin-bottom:3px;} .sa-grow a{color:var(--accent,var(--accent,#22c55e));}
+.sa-grow ul{margin:0;padding-left:18px;} .sa-grow li{color:var(--muted,#9aa6b2);font-size:14.5px;line-height:1.7;margin-bottom:3px;} .sa-grow a{color:var(--accent,var(--accent,#f59e0b));}
 .sa-cta-box{grid-column:1/-1;margin-top:8px;padding:18px 20px;border:1px solid rgba(34,197,94,.28);border-radius:12px;background:rgba(34,197,94,.06);}
 .sa-cta-box b{color:var(--text,#e6edf3);font-size:15.5px;} .sa-cta-box p{color:var(--muted,#9aa6b2);font-size:14px;margin:6px 0 12px;line-height:1.6;}
-.sa-cta-box .sa-cta-btn{display:inline-block;background:var(--accent,var(--accent,#22c55e));color:#fff;padding:9px 17px;border-radius:8px;font-weight:600;font-size:14px;text-decoration:none;}
-.sa-tickers{max-width:920px;margin:6px auto 0;padding:0 20px;font-size:13.5px;color:var(--faint,#6b7684);} .sa-tickers a{color:var(--accent,var(--accent,#22c55e));}
+.sa-cta-box .sa-cta-btn{display:inline-block;background:var(--accent,var(--accent,#f59e0b));color:#fff;padding:9px 17px;border-radius:8px;font-weight:600;font-size:14px;text-decoration:none;}
+.sa-tickers{max-width:920px;margin:6px auto 0;padding:0 20px;font-size:13.5px;color:var(--faint,#6b7684);} .sa-tickers a{color:var(--accent,var(--accent,#f59e0b));}
 </style>
 </head>
 <body class="shell-article">
@@ -160,7 +160,7 @@
 <script src="/ds-v2/flags.js?v=5"></script>
 <header class="meganav" id="meganav">
 <style>
-/* santro brand tokens — green is the identity color. Blue is NOT a Santro
+/* santro brand tokens — green is the identity color. Blue is NOT a Energy Trade
    UI color anywhere (2026-07-08 rule) — never reintroduce it. */
 header.meganav{--sg:#22c55e;--sg-hi:#4ade80;--sg-deep:#15803d;
   --sg-soft:rgba(34,197,94,.12);--sg-border:rgba(34,197,94,.45);
@@ -214,7 +214,7 @@ html[data-theme="light"] .meganav .mn-ls{background:linear-gradient(165deg,#16a3
 .meganav .mn-search .sg .pc.up{color:var(--green,#22c55e);}.meganav .mn-search .sg .pc.down{color:var(--red,#f05a6e);}
 .meganav .mn-asof{display:none;}
 .meganav .mn-theme{appearance:none;background:var(--elev,#16202b);border:1px solid var(--border,#1d2733);border-radius:9px;width:34px;height:34px;display:flex;align-items:center;justify-content:center;cursor:pointer;color:var(--muted,#8895a4);}
-.meganav .mn-theme:hover{color:var(--text,#e7edf3);border-color:var(--accent-border,#1e4634);}
+.meganav .mn-theme:hover{color:var(--text,#e7edf3);border-color:var(--accent-border,#4a3711);}
 .meganav .mn-theme .ic-sun{display:none;}
 html[data-theme="light"] .meganav .mn-theme .ic-sun{display:block;}
 html[data-theme="light"] .meganav .mn-theme .ic-moon{display:none;}
@@ -296,15 +296,15 @@ html[data-theme="light"] .meganav .mn-theme .ic-moon{display:none;}
 }
 </style>
 <div class="mn-in">
-  <a class="mn-logo" href="/" aria-label="Santro AI — home">
+  <a class="mn-logo" href="/" aria-label="Energy Trade — home">
     <span class="mn-ls">S</span>
-    <span class="mn-lr"><b>Santro&nbsp;AI</b><i>THE&nbsp;AI&nbsp;TRADE&nbsp;TERMINAL</i></span>
+    <span class="mn-lr"><b>Energy Trade&nbsp;AI</b><i>THE&nbsp;AI&nbsp;TRADE&nbsp;TERMINAL</i></span>
     <em class="mn-beta">Beta</em>
   </a>
   <nav class="mn-nav" aria-label="Main">
     <div class="mn-item" data-menu="terminal">
       <button class="mn-top" type="button" aria-expanded="false" aria-haspopup="true">Terminal</button>
-      <div class="mn-panel"><div class="mn-pin"><p class="mn-desc">The main Santro market view across AI stocks, ETFs, crypto, hot tickers, and bubble-risk signals.</p><div class="mn-links">
+      <div class="mn-panel"><div class="mn-pin"><p class="mn-desc">The main Energy Trade market view across AI stocks, ETFs, crypto, hot tickers, and bubble-risk signals.</p><div class="mn-links">
         <a class="mn-link" href="/terminal"><b>AI Terminal<em class="mn-b mn-b-live">Beta</em></b><span>Bubble map, market tape, hot tickers, and the daily brief.</span></a>
         <a class="mn-link" href="/stocks"><b>AI Stocks</b><span>101 AI names ranked by heat, research on every ticker.</span></a>
         <a class="mn-link" href="/crypto"><b>AI Crypto</b><span>AI tokens and rotating crypto baskets.</span></a>
@@ -313,7 +313,7 @@ html[data-theme="light"] .meganav .mn-theme .ic-moon{display:none;}
       </div></div></div>
     </div><div class="mn-item" data-menu="tools">
       <button class="mn-top" type="button" aria-expanded="false" aria-haspopup="true">Tools</button>
-      <div class="mn-panel"><div class="mn-pin"><p class="mn-desc">Every tool is free while Santro is in beta. Scenario outputs, not price targets.</p><div class="mn-links">
+      <div class="mn-panel"><div class="mn-pin"><p class="mn-desc">Every tool is free while Energy Trade is in beta. Scenario outputs, not price targets.</p><div class="mn-links">
         <a class="mn-link" href="/bubble"><b>AI Bubble Risk<em class="mn-b mn-b-live">Beta</em></b><span>Valuation, momentum, and crowding signals in one gauge.</span></a>
         <a class="mn-link" href="/bubble#stress"><b>Portfolio Stress Test<em class="mn-b mn-b-live">Beta</em></b><span>Six historical crash scenarios against your portfolio.</span></a>
         <a class="mn-link" href="/tools/fair-value-calculator"><b>Fair-Value Calculator<em class="mn-b mn-b-live">Beta</em></b><span>DCF, P/E, Graham, and PEG scenario values for any AI ticker.</span></a>
@@ -358,13 +358,13 @@ html[data-theme="light"] .meganav .mn-theme .ic-moon{display:none;}
     </div><div class="mn-item mn-collapsible" data-menu="company">
       <button class="mn-top" type="button" aria-expanded="false" aria-haspopup="true">Company</button>
       <div class="mn-panel"><div class="mn-pin"><div class="mn-links mn-w2">
-        <a href="/about">About Santro AI</a>
-        <a href="mailto:hello@santroai.tech">Contact</a>
+        <a href="/about">About Energy Trade</a>
+        <a href="mailto:hello@energytrade.example">Contact</a>
         <a href="/privacy">Privacy Policy</a>
         <a href="/terms">Terms of Use</a>
-        <a href="https://x.com/SantroAI" target="_blank" rel="noopener">@SantroAI on X</a>
+        <a href="https://x.com/SantroAI" target="_blank" rel="noopener">@EnergyTrade on X</a>
         <span class="mn-off">iOS app<em class="mn-b mn-b-soon">Coming soon</em></span>
-        <span class="mn-off">Santro Pro<em class="mn-b mn-b-soon">Coming soon</em></span>
+        <span class="mn-off">Energy Trade Pro<em class="mn-b mn-b-soon">Coming soon</em></span>
       </div></div></div>
     </div><div class="mn-item mn-moreitem" data-menu="more">
       <button class="mn-top" type="button" aria-expanded="false" aria-haspopup="true">More</button>
@@ -374,13 +374,13 @@ html[data-theme="light"] .meganav .mn-theme .ic-moon{display:none;}
         <a class="mn-link" href="/etfs"><b>ETF Map</b><span>Overlap-aware list of the AI ETF complex.</span></a>
         <a class="mn-link" href="/bubble"><b>Bubble-Risk Gauge</b><span>One dial for the whole AI trade.</span></a>
         <a class="mn-link" href="/ipos"><b>IPO Pipeline</b><span>Who is filing, who is rumored, who is priced.</span></a>
-        <a href="/about">About Santro AI</a>
-        <a href="mailto:hello@santroai.tech">Contact</a>
+        <a href="/about">About Energy Trade</a>
+        <a href="mailto:hello@energytrade.example">Contact</a>
         <a href="/privacy">Privacy Policy</a>
         <a href="/terms">Terms of Use</a>
-        <a href="https://x.com/SantroAI" target="_blank" rel="noopener">@SantroAI on X</a>
+        <a href="https://x.com/SantroAI" target="_blank" rel="noopener">@EnergyTrade on X</a>
         <span class="mn-off">iOS app<em class="mn-b mn-b-soon">Coming soon</em></span>
-        <span class="mn-off">Santro Pro<em class="mn-b mn-b-soon">Coming soon</em></span>
+        <span class="mn-off">Energy Trade Pro<em class="mn-b mn-b-soon">Coming soon</em></span>
       </div></div></div>
     </div>
   </nav>
@@ -441,13 +441,13 @@ html[data-theme="light"] .meganav .mn-theme .ic-moon{display:none;}
         <a href="/bubble">Bubble-Risk Gauge</a>
         <a href="/ipos">IPO Pipeline</a>
     </details><details class="mnd-sec"><summary>Company</summary>
-      <a href="/about">About Santro AI</a>
-        <a href="mailto:hello@santroai.tech">Contact</a>
+      <a href="/about">About Energy Trade</a>
+        <a href="mailto:hello@energytrade.example">Contact</a>
         <a href="/privacy">Privacy Policy</a>
         <a href="/terms">Terms of Use</a>
-        <a href="https://x.com/SantroAI" target="_blank" rel="noopener">@SantroAI on X</a>
+        <a href="https://x.com/SantroAI" target="_blank" rel="noopener">@EnergyTrade on X</a>
         <span class="mn-off">iOS app<em class="mn-b mn-b-soon">Coming soon</em></span>
-        <span class="mn-off">Santro Pro<em class="mn-b mn-b-soon">Coming soon</em></span>
+        <span class="mn-off">Energy Trade Pro<em class="mn-b mn-b-soon">Coming soon</em></span>
     </details>
   <div class="mnd-cta">
     <a class="a1" href="/signup">Create free account</a>
@@ -493,16 +493,16 @@ html[data-theme="light"] .meganav .mn-theme .ic-moon{display:none;}
 .art-steps span{font-size:12px;color:var(--hint);line-height:1.45;display:block;margin-top:2px}
 .art-cta{display:flex;gap:10px;flex-wrap:wrap;margin:26px 0 6px}
 .art-cta a{text-decoration:none;font-weight:700;font-size:14px;border-radius:10px;padding:11px 18px;border:1px solid var(--border-strong);color:var(--accent)}
-.art-cta a.pri{background:var(--accent);color:#04140b;border-color:var(--accent)}
+.art-cta a.pri{background:var(--accent);color:#140b04;border-color:var(--accent)}
 .art-cta a:not(.pri):hover{border-color:var(--accent)}
 @media(max-width:760px){.art-hero-panel{grid-template-columns:repeat(2,1fr)}.art-rotmap{grid-template-columns:repeat(2,1fr)}.art-steps{grid-template-columns:1fr}.art-quote p{font-size:22px}}
 @media(max-width:430px){.art-hero-panel{grid-template-columns:1fr 1fr}.art-rotmap{grid-template-columns:1fr}}
 </style><article class="wrap">
   <p class="kicker">Company &middot; Methodology</p>
   <nav class="sa-crumb" aria-label="Breadcrumb"><a href="/">Home</a> › Methodology</nav>
-  <h1>How Santro AI measures the market</h1>
-  <p class="lede">Santro is an AI Trade Terminal: it reads heat, crowding, valuation pressure and sector rotation across the AI trade. This page explains where the data comes from, how fresh it is, and the standards behind every number. It exists so nothing on the site is a black box.</p>
-  <p class="byline"><span>By <strong>Santro AI</strong></span><span>&middot;</span><span>Updated July 2026</span></p>
+  <h1>How Energy Trade measures the market</h1>
+  <p class="lede">Energy Trade is an AI Trade Terminal: it reads heat, crowding, valuation pressure and sector rotation across the AI trade. This page explains where the data comes from, how fresh it is, and the standards behind every number. It exists so nothing on the site is a black box.</p>
+  <p class="byline"><span>By <strong>Energy Trade</strong></span><span>&middot;</span><span>Updated July 2026</span></p>
 
   <h2>The data</h2>
   <p>Quotes, market caps and day moves come from public market-data feeds and are <strong>delayed by roughly 15 minutes</strong>. The terminal is built for reading the day — where attention and pressure are building — not for split-second execution. Every page that shows a price says so.</p>
@@ -513,18 +513,18 @@ html[data-theme="light"] .meganav .mn-theme .ic-moon{display:none;}
   <div class="art-quote" style="border-left:3px solid var(--accent);margin:24px 0;padding:8px 0 8px 22px"><p style="font-size:24px;font-weight:800;margin:0">Hot means attention, not direction.</p></div>
 
   <h2>Bubble risk</h2>
-  <p>The <a href="/bubble">AI Bubble Risk Index</a> condenses signals about how expensive, crowded and fast-moving the AI trade is into one number with history. The underlying index and its methodology belong to <strong>AI Bubble Monitor</strong>; Santro mirrors the published values with attribution. A high reading measures pressure — it does not schedule a crash, and markets can stay hot for a long time.</p>
+  <p>The <a href="/bubble">AI Bubble Risk Index</a> condenses signals about how expensive, crowded and fast-moving the AI trade is into one number with history. The underlying index and its methodology belong to <strong>AI Bubble Monitor</strong>; Energy Trade mirrors the published values with attribution. A high reading measures pressure — it does not schedule a crash, and markets can stay hot for a long time.</p>
 
   <h2>Research and filings</h2>
-  <p>Research on Santro is <strong>filing-verified</strong>: where a claim rests on a public filing, we verify the filing's existence, form type and date on SEC EDGAR, and reported deal terms are clearly labeled as reported and subject to change until confirmed. Tweets and headlines are treated as leads, not sources. Interpretation is labeled as Santro's own and is never attributed to an investor as endorsement or affiliation.</p>
+  <p>Research on Energy Trade is <strong>filing-verified</strong>: where a claim rests on a public filing, we verify the filing's existence, form type and date on SEC EDGAR, and reported deal terms are clearly labeled as reported and subject to change until confirmed. Tweets and headlines are treated as leads, not sources. Interpretation is labeled as Santro's own and is never attributed to an investor as endorsement or affiliation.</p>
 
   <h2>The tools</h2>
   <p>The <a href="/tools/fair-value-calculator">fair-value calculator</a> produces <strong>scenario outputs under your own assumptions</strong> — a reverse-DCF, P/E, Graham and PEG read — not price targets. The <a href="/bubble#stress">portfolio stress test</a> runs your holdings against historical bad-weather scenarios and computes locally in your browser; it needs no brokerage login. Neither is a recommendation.</p>
 
-  <h2>What Santro does not do</h2>
-  <p>Santro does not give buy or sell signals, does not manage money, does not execute trades, and does not claim real-time data. It provides market context. <strong>Nothing on the site is financial advice.</strong></p>
+  <h2>What Energy Trade does not do</h2>
+  <p>Energy Trade does not give buy or sell signals, does not manage money, does not execute trades, and does not claim real-time data. It provides market context. <strong>Nothing on the site is financial advice.</strong></p>
 
-  <div class="art-cta" style="display:flex;gap:10px;flex-wrap:wrap;margin:26px 0"><a class="pri" href="/terminal" style="text-decoration:none;font-weight:700;border-radius:10px;padding:11px 18px;background:var(--accent);color:#04140b">Open the terminal</a><a href="/about" style="text-decoration:none;font-weight:700;border-radius:10px;padding:11px 18px;border:1px solid var(--border-strong);color:var(--accent)">About Santro AI</a></div>
+  <div class="art-cta" style="display:flex;gap:10px;flex-wrap:wrap;margin:26px 0"><a class="pri" href="/terminal" style="text-decoration:none;font-weight:700;border-radius:10px;padding:11px 18px;background:var(--accent);color:#140b04">Open the terminal</a><a href="/about" style="text-decoration:none;font-weight:700;border-radius:10px;padding:11px 18px;border:1px solid var(--border-strong);color:var(--accent)">About Energy Trade</a></div>
   <p style="font-size:13px;color:var(--hint);border-top:1px solid var(--border);padding-top:16px;margin-top:20px">Market data is delayed ~15 minutes and provided for education. Hot means attention, not direction. Not financial advice.</p>
 </article>
 <p class="sa-tickers"><b>Tickers mentioned:</b> <a href="/ipos/sk-hynix-adr">SKHY</a>, <a href="/stocks/nvda">NVDA</a>, <a href="/stocks/mu">MU</a>, <a href="/etfs/dram">DRAM</a>, <a href="/stocks/wdc">WDC</a>, <a href="/stocks/stx">STX</a>, <a href="/stocks/sndk">SNDK</a>, <a href="/etfs/smh">SMH</a></p>
@@ -538,7 +538,7 @@ html[data-theme="light"] .meganav .mn-theme .ic-moon{display:none;}
       </ul>
     </div>
     <div>
-      <h3>SANTRO AI TOOLS</h3>
+      <h3>ENERGY TRADE TOOLS</h3>
       <ul>
         <li><a href="/bubble">Check the AI bubble-risk index</a></li>
         <li><a href="/etfs">Compare AI ETFs</a></li>
@@ -549,7 +549,7 @@ html[data-theme="light"] .meganav .mn-theme .ic-moon{display:none;}
     </div>
     <div class="sa-cta-box">
       <b>Run the numbers yourself — free.</b>
-      <p>Create a free Santro AI account to run unlimited fair-value valuations, save a watchlist, and keep your valuation history. Five free runs even without an account; no card required.</p>
+      <p>Create a free Energy Trade account to run unlimited fair-value valuations, save a watchlist, and keep your valuation history. Five free runs even without an account; no card required.</p>
       <a class="sa-cta-btn" href="/?auth=register">Create a free account &rarr;</a>
     </div>
   </section>
@@ -610,7 +610,7 @@ footer.mega{display:block;text-align:left;margin-top:48px;padding:0;border-top:1
 <div class="mg-in">
   <div class="mg-top">
     <div class="mg-brand">
-      <div class="mg-logo">Santro <span>AI</span></div>
+      <div class="mg-logo">Energy Trade <span>AI</span></div>
       <div class="mg-tag">The AI Trade Terminal</div>
       <p class="mg-line">The AI trade terminal for stocks, ETFs, crypto, hot tickers, valuation tools, and bubble-risk signals.</p>
       <p class="mg-slogan">Hot means attention, not direction.</p>
@@ -673,21 +673,21 @@ footer.mega{display:block;text-align:left;margin-top:48px;padding:0;border-top:1
     <div class="mg-col">
       <h4>Company</h4>
       <ul>
-        <li><a href="/about">About Santro AI</a></li>
+        <li><a href="/about">About Energy Trade</a></li>
         <li><a href="/methodology">Methodology</a></li>
         <li><a href="/research">Data &amp; sources</a></li>
-        <li><a href="mailto:hello@santroai.tech">Contact</a></li>
+        <li><a href="mailto:hello@energytrade.example">Contact</a></li>
         <li><a href="/privacy">Privacy Policy</a></li>
         <li><a href="/terms">Terms of Use</a></li>
-        <li><a href="https://x.com/SantroAI" target="_blank" rel="noopener">@SantroAI on X</a></li>
+        <li><a href="https://x.com/SantroAI" target="_blank" rel="noopener">@EnergyTrade on X</a></li>
         <li><span class="mg-off">iOS app — coming soon</span></li>
       </ul>
     </div>
   </div>
   <div class="mg-bottom">
-    <span>© 2026 Santro AI. All rights reserved. Uses custom models.</span>
+    <span>© 2026 Energy Trade. All rights reserved. Uses custom models.</span>
     <span>Quotes delayed ~15 min. Real-time data planned for Pro. <b class="mg-nfa">Not financial advice.</b></span>
-    <span><a href="/privacy">Privacy</a> · <a href="/terms">Terms</a> · <a href="mailto:hello@santroai.tech">Contact</a></span>
+    <span><a href="/privacy">Privacy</a> · <a href="/terms">Terms</a> · <a href="mailto:hello@energytrade.example">Contact</a></span>
     <!--MG_EXTRA-->
   </div>
 </div>

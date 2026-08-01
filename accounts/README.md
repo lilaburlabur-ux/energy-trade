@@ -1,6 +1,6 @@
-# Santro Accounts — frontend
+# Energy Trade Accounts — frontend
 
-The gated fair-value calculator + user accounts for santroai.tech. It **extends
+The gated fair-value calculator + user accounts for energytrade.example. It **extends
 the existing terminal** (vanilla static site) — no framework, no build step,
 reuses `index.html`'s design tokens and night-mode aesthetic.
 
@@ -47,7 +47,7 @@ stores tokens; every request is `credentials:"include"`. So the backend must:
 
 - **CORS**: allow this site's exact origin with `allow_credentials=true`
   (`FRONTEND_ORIGIN` in the FastAPI service).
-- **Cookies**: for cross-site (`santroai.tech` → `api.santroai.tech`) set the
+- **Cookies**: for cross-site (`energytrade.example` → `api.santroai.tech`) set the
   session cookies `SameSite=None; Secure`. (Same-site or same-origin can use `Lax`.)
 - Expose: `POST /auth/register|login|magic/request|magic/verify|verify-email|
   request-password-reset|reset-password`, `GET /auth/google/login` +

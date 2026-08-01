@@ -1,4 +1,4 @@
-"""Santro research engine — deterministic core.
+"""Energy Trade research engine — deterministic core.
 
 Python/data-first. The LLM (when one is ever added) is a NARRATIVE layer that
 may only consume a finished ResearchPacket; it never computes numbers, resolves

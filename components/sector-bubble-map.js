@@ -1,4 +1,4 @@
-/* Santro — sector bubble map mount. v6
+/* Energy Trade — sector bubble map mount. v6
    THE sector/theme-page bubble map (/stocks/themes/*). This file no longer
    paints bubbles itself: rendering, packing and the "alive" 50ms drift physics
    come from components/santro-bubble-engine.js — code extracted VERBATIM from
@@ -27,10 +27,10 @@
   var CSS = ".sbm{background:var(--panel,#111822);border:1px solid var(--border,#1d2733);border-radius:16px;overflow:hidden}" +
     ".sbm-hd{display:flex;align-items:center;gap:12px;flex-wrap:wrap;padding:10px 16px;border-bottom:1px solid var(--border-soft,#161e28)}" +
     ".sbm-lab{font-family:" + MONOF + ";font-size:10.5px;font-weight:700;letter-spacing:.18em;text-transform:uppercase;color:var(--muted,#8895a4)}" +
-    ".sbm-lab b{color:var(--accent-2,#22c55e)}" +
+    ".sbm-lab b{color:var(--accent-2,#f59e0b)}" +
     ".sbm-tabs{display:flex;gap:6px;margin-left:auto;align-items:center}" +
     ".sbm-tab{font-size:11.5px;font-weight:700;padding:5px 11px;border-radius:999px;text-decoration:none;color:var(--muted,#8895a4);border:1px solid var(--border,#1d2733)}" +
-    ".sbm-tab.on{color:var(--accent-2,#22c55e);background:var(--accent-soft,rgba(34,197,94,.1));border-color:var(--accent-border,rgba(34,197,94,.4))}" +
+    ".sbm-tab.on{color:var(--accent-2,#f59e0b);background:var(--accent-soft,rgba(34,197,94,.1));border-color:var(--accent-border,rgba(34,197,94,.4))}" +
     ".sbm-tab:hover{color:var(--text,#e7edf3)}" +
     ".sbm-all{font-size:11.5px;font-weight:600;color:var(--faint,#5a6573);text-decoration:none}.sbm-all:hover{color:var(--text,#e7edf3)}" +
     ".sbm-leg{display:flex;align-items:center;gap:6px;font-family:" + MONOF + ";font-size:9.5px;color:var(--faint,#5a6573)}" +
@@ -38,12 +38,12 @@
     ".sbm-chart{background:radial-gradient(ellipse at 50% 42%,rgba(34,197,94,.045),transparent 65%),var(--bg,#0a0e13);cursor:pointer}" +
     ".sbm-dt{}" +   /* container only; SantroTickerPanel renders the rich .stp card */
     ".sbm-dt .sym{font-family:" + MONOF + ";font-size:17px;font-weight:800;color:var(--text,#e7edf3);text-decoration:none}" +
-    ".sbm-dt .sym:hover{color:var(--accent-2,#22c55e)}" +
+    ".sbm-dt .sym:hover{color:var(--accent-2,#f59e0b)}" +
     ".sbm-dt .co{font-size:12px;color:var(--muted,#8895a4);max-width:240px}" +
     ".sbm-dt .kv{font-family:" + MONOF + ";font-size:11.5px;color:var(--muted,#8895a4)}.sbm-dt .kv b{display:block;font-size:13.5px;color:var(--text,#e7edf3);font-weight:700}" +
     ".sbm-dt .pc.up{color:#22c55e}.sbm-dt .pc.down{color:#f05a6e}" +
-    ".sbm-open{margin-left:auto;display:inline-block;padding:7px 14px;border-radius:9px;background:var(--accent-soft,rgba(34,197,94,.1));border:1px solid var(--accent-border,rgba(34,197,94,.4));color:var(--accent-2,#22c55e);font-size:12.5px;font-weight:700;text-decoration:none;white-space:nowrap}" +
-    ".sbm-open:hover{background:var(--accent-2,#22c55e);color:#04140b}" +
+    ".sbm-open{margin-left:auto;display:inline-block;padding:7px 14px;border-radius:9px;background:var(--accent-soft,rgba(34,197,94,.1));border:1px solid var(--accent-border,rgba(34,197,94,.4));color:var(--accent-2,#f59e0b);font-size:12.5px;font-weight:700;text-decoration:none;white-space:nowrap}" +
+    ".sbm-open:hover{background:var(--accent-2,#f59e0b);color:#140b04}" +
     "@media(max-width:640px){.sbm-hd{gap:8px;padding:9px 12px}.sbm-leg i{width:70px}.sbm-dt{gap:12px;padding:10px 12px}.sbm-dt .co{display:none}}";
 
   function ensureCss() {

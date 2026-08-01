@@ -31,7 +31,7 @@ class ResearchRequest:
 class Evidence:
     id: str                   # stable id the LLM cites instead of restating raw text
     kind: str                 # "data_field" | "headline" | "filing" | "computation"
-    source: str               # provider / file / url (from Santro data, not user)
+    source: str               # provider / file / url (from Energy Trade data, not user)
     detail: str = ""
     timestamp: Optional[str] = None
     confidence: float = 1.0
@@ -60,7 +60,7 @@ class DataSnapshot:
     pe: Optional[float] = None
     sector: str = ""
     industry: str = ""
-    theme: str = ""           # Santro bubble/theme id
+    theme: str = ""           # Energy Trade bubble/theme id
     asset_type: str = "stock"
     timestamp: Optional[str] = None
     source: str = "universe.json"

@@ -1,4 +1,4 @@
-/* Santro AI — portfolio_stress_test_skill (deterministic risk engine).
+/* Energy Trade — portfolio_stress_test_skill (deterministic risk engine).
    Reusable: window.SantroStress in browsers, module.exports in node (tests).
    Design: ALL math and classification happen here in code. The optional AI
    layer only ever receives compressForModel() output (see
@@ -156,7 +156,7 @@
     if(rows.some(r=>r.bucket==="ai_etf_concentrated")) verify.push("ETF holdings overlap with your single names");
     if(cryptoPct>0) verify.push("AI-crypto liquidity (small tokens gap down hard)");
     if(top5>=50) verify.push("single-name concentration (top 5 = "+top5.toFixed(0)+"%)");
-    if(unknownPct>0) verify.push(unknownPct+"% of weight is in assets Santro couldn't classify");
+    if(unknownPct>0) verify.push(unknownPct+"% of weight is in assets Energy Trade couldn't classify");
     verify.push("your actual weights and time horizon vs. this input");
     const summary=`Your portfolio is ${aiPct}% AI-exposed (${label} stress profile, score ${score}/100). `+
       `The heaviest theme is ${repeated[0]?pretty(repeated[0].theme)+" ("+repeated[0].total_weight_pct+"% across "+repeated[0].symbols.length+" holdings)":pretty(rows[0].bucket)}. `+

@@ -1,4 +1,4 @@
-// AI-ETF universe — curated June 2026, from Santro AI deep research.
+// AI-ETF universe — curated June 2026, from Energy Trade deep research.
 // Shared by /etfs (the table) and /e (per-ETF pages). AUM/ER are point-in-time
 // and move with price; the issuer's same-day page is the source of record.
 window.ETF_BUCKETS = [

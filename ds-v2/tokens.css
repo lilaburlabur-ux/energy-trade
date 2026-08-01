@@ -1,5 +1,5 @@
 /* ============================================================
-   Santro AI — design tokens v2.0.0-phase0 (ds_v2)
+   Energy Trade — design tokens v2.0.0-phase0 (ds_v2)
    GENERATED FROM tokens.json — do not hand-edit values here.
    PHASE 0: definitions only. Every rule is scoped to .ds-v2,
    which is applied by flags.js ONLY when the ds_v2 flag is on.
@@ -9,20 +9,20 @@
 @layer ds-v2 {
   :root {
     /* ---- color · web (Terminal Green) ---- */
-    --st-bg-0: #0B0F0D;
-    --st-bg-1: #101613;
-    --st-bg-2: #15201A;
-    --st-border: #1E2822;
-    --st-border-strong: #2C3A32;
-    --st-ink: #DDE6E0;
-    --st-ink-dim: #7E8C84;
-    --st-ink-faint: #5A665F;
-    --st-green: #3BE08F;
-    --st-green-ink: #06120C;
+    --st-bg-0: #0F0D0B;
+    --st-bg-1: #161310;
+    --st-bg-2: #201A15;
+    --st-border: #28221E;
+    --st-border-strong: #3A322C;
+    --st-ink: #E6E2DD;
+    --st-ink-dim: #8C847E;
+    --st-ink-faint: #665F5A;
+    --st-green: #F5A623;
+    --st-green-ink: #120C02;
     --st-red: #FF5A57;       /* risk only — never decoration */
     --st-amber: #F2B33D;
-    --st-link-hover: #7FEDB6;
-    --st-focus-ring: rgba(59, 224, 143, 0.45);
+    --st-link-hover: #FFCF7A;
+    --st-focus-ring: rgba(245, 166, 35, 0.45);
 
     /* ---- color · glass (iOS + share cards only) ---- */
     --gl-bg: #04070D;
@@ -75,11 +75,11 @@
     --r-glass: 18px; /* iOS + share cards only — never web terminal */
   }
 
-  /* ---- Santro DAYLIGHT palette (light mode) ----
+  /* ---- Energy Trade DAYLIGHT palette (light mode) ----
      Same semantic tokens, light values: green-graphite institutional — never
      blue. html.ds-v2[data-theme="light"] (0-2-1) outranks the :root defaults
      above AND every legacy html[data-theme="light"] palette (0-1-1), so light
-     mode stays Santro regardless of stylesheet load order. AA on --st-bg-0:
+     mode stays Energy Trade regardless of stylesheet load order. AA on --st-bg-0:
      green #128A52 ≈4.7:1, ink #17201A ≈14:1, amber #8F6A14 ≈4.8:1, red ≈4.6:1. */
   html.ds-v2[data-theme="light"] {
     color-scheme: light;

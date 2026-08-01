@@ -1,4 +1,4 @@
-/* Santro — shared bubble engine. v1
+/* Energy Trade — shared bubble engine. v1
    EXTRACTED VERBATIM from terminal.html (the /terminal hero map is the visual
    and behavioral source of truth). This file is a mechanical slice, not a
    rewrite: heat ramp, dark cores, logo handling, width-aware label fit,

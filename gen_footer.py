@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Santro AI — footer generator (single source of truth for the mega footer).
+"""Energy Trade — footer generator (single source of truth for the mega footer).
 Run after adding a route or editing footer links:  python3 gen_footer.py
 Replaces every existing <footer>…</footer> with the shared self-contained mega
 footer; inserts it before </body> on pages that had none. index.html keeps its
@@ -69,7 +69,7 @@ FOOTER = """<!-- mega-footer v1 -->
 <div class="mg-in">
   <div class="mg-top">
     <div class="mg-brand">
-      <div class="mg-logo">Santro <span>AI</span></div>
+      <div class="mg-logo">Energy Trade <span>AI</span></div>
       <div class="mg-tag">The AI Trade Terminal</div>
       <p class="mg-line">The AI trade terminal for stocks, ETFs, crypto, hot tickers, valuation tools, and bubble-risk signals.</p>
       <p class="mg-slogan">Hot means attention, not direction.</p>
@@ -132,21 +132,21 @@ FOOTER = """<!-- mega-footer v1 -->
     <div class="mg-col">
       <h4>Company</h4>
       <ul>
-        <li><a href="/about">About Santro AI</a></li>
+        <li><a href="/about">About Energy Trade</a></li>
         <li><a href="/methodology">Methodology</a></li>
         <li><a href="/research">Data &amp; sources</a></li>
-        <li><a href="mailto:hello@santroai.tech">Contact</a></li>
+        <li><a href="mailto:hello@energytrade.example">Contact</a></li>
         <li><a href="/privacy">Privacy Policy</a></li>
         <li><a href="/terms">Terms of Use</a></li>
-        <li><a href="https://x.com/SantroAI" target="_blank" rel="noopener">@SantroAI on X</a></li>
+        <li><a href="https://x.com/SantroAI" target="_blank" rel="noopener">@EnergyTrade on X</a></li>
         <li><span class="mg-off">iOS app — coming soon</span></li>
       </ul>
     </div>
   </div>
   <div class="mg-bottom">
-    <span>© 2026 Santro AI. All rights reserved. Uses custom models.</span>
+    <span>© 2026 Energy Trade. All rights reserved. Uses custom models.</span>
     <span>Quotes delayed ~15 min. Real-time data planned for Pro. <b class="mg-nfa">Not financial advice.</b></span>
-    <span><a href="/privacy">Privacy</a> · <a href="/terms">Terms</a> · <a href="mailto:hello@santroai.tech">Contact</a></span>
+    <span><a href="/privacy">Privacy</a> · <a href="/terms">Terms</a> · <a href="mailto:hello@energytrade.example">Contact</a></span>
     <!--MG_EXTRA-->
   </div>
 </div>
@@ -158,9 +158,9 @@ h.addEventListener("click",t);h.addEventListener("keydown",function(e){if(e.key=
 arm();mq.addEventListener?mq.addEventListener("change",arm):mq.addListener(arm);})();</script>
 </footer>"""
 
-INDEX_EXTRA = ('<span class="mg-note">Santro AI is available at santroai.tech. '
-               'Santro AI is an AI market research terminal and is not affiliated with '
-               'Hyundai Santro, Santara Tech, or santro-tech.com.</span>')
+INDEX_EXTRA = ('<span class="mg-note">Energy Trade is available at energytrade.example. '
+               'Energy Trade is an AI market research terminal and is not affiliated with '
+               'Hyundai Energy Trade, Santara Tech, or santro-tech.com.</span>')
 
 # swallow any previously stacked marker comments so reruns don't accumulate them
 FOOT_RE = re.compile(r"(?:<!--\s*mega-footer v1\s*-->\s*)*<footer[^>]*>.*?</footer>", re.S)

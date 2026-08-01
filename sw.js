@@ -1,4 +1,4 @@
-/* Santro AI service worker — deliberately conservative.
+/* Energy Trade service worker — deliberately conservative.
    - Static assets (icons, brand images, css/js): cache-first with background refresh.
    - HTML pages and ALL JSON market data: network-first, short-lived fallback only
      when offline — market data must never look fresher than it is.
@@ -48,7 +48,7 @@ self.addEventListener("fetch", function (e) {
         return new Response(
           "<!doctype html><meta charset=utf-8><meta name=viewport content='width=device-width,initial-scale=1'>" +
           "<body style='background:#0a0e13;color:#9aa6b2;font:15px system-ui;display:flex;min-height:100vh;align-items:center;justify-content:center;text-align:center'>" +
-          "<div><b style='color:#e6edf3'>Santro AI is offline.</b><br>No cached market data is shown as live.<br>Reconnect and reload.</div></body>",
+          "<div><b style='color:#e6edf3'>Energy Trade is offline.</b><br>No cached market data is shown as live.<br>Reconnect and reload.</div></body>",
           { headers: { "Content-Type": "text/html" } });
       }
       return Response.error();

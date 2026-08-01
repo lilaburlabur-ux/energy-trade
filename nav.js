@@ -1,4 +1,4 @@
-/* Santro AI — header behavior for the generated mega nav (see gen_nav.py).
+/* Energy Trade — header behavior for the generated mega nav (see gen_nav.py).
    Owns: menu open/close, mobile drawer, theme (except pages that own it
    natively, e.g. the terminal's pill — data-native), ticker search (absolute
    paths so it works on nested pages), the as-of stamp, "/" hotkey, SW. */

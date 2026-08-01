@@ -42,7 +42,7 @@ def build_packet(raw_query: str) -> ResearchPacket:
     packet.resolved_entities = entities
 
     if not entities:
-        packet.warnings.append("no known Santro entity matched this query")
+        packet.warnings.append("no known Energy Trade entity matched this query")
         packet.confidence = 0.0
     else:
         packet.confidence = round(entities[0].confidence, 3)
