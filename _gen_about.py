@@ -2,7 +2,7 @@
 """Generate ticker-about.js for the dynamic /t page.
  - TICKER_ABOUT: per-ticker 'About [Company]' text, extracted verbatim from the
    static /stocks/*.html pages so the two views never diverge.
- - INDUSTRY_ABOUT: one industry overview per AI-Universe basket id (covers all 89)."""
+ - INDUSTRY_ABOUT: one industry overview per Energy-Universe bucket id."""
 import re, json, glob, os
 
 # Per-ticker About, pulled from the static SEO pages we already wrote.
@@ -16,44 +16,26 @@ for p in sorted(glob.glob("stocks/*.html")):
         text = re.sub(r"\s+", " ", m.group(2)).strip()
         about[tk] = {"name": name, "about": text}
 
-# Industry overview per AI-Universe basket (basket ids from t.html UNI_SHORT).
+# Industry overview per Energy-Universe bucket (bucket ids from universe.json).
 industry = {
-"ai_chips_and_compute": {"heading": "AI chips & compute",
- "text": "This is the semiconductor and compute layer of the AI build-out — the GPUs, custom accelerators, "
- "high-bandwidth memory and processors that train and run models. It is a cyclical, capital-intensive industry split "
- "between fabless designers, foundries that manufacture the chips, and integrated players. AI has become the dominant "
- "demand driver, and the group is unusually exposed to export controls, manufacturing concentration in Taiwan, and sharp "
- "boom-bust capex cycles."},
-"ai_software_and_cloud_infrastructure": {"heading": "AI software & cloud infrastructure",
- "text": "These companies provide the cloud platforms, model-serving, databases and infrastructure software that AI "
- "applications run on. Revenue is increasingly tied to AI workloads and consumption-based cloud spending. The economics "
- "favor scale and switching costs, but the group carries high expectations and heavy capital spending on data centers, and "
- "faces questions about how quickly AI usage converts into durable profit."},
-"ai_applications_and_data_software": {"heading": "AI applications & data software",
- "text": "This group builds the applications and data tools that put AI to work — analytics, security, developer and "
- "vertical software, plus the data pipelines that feed models. Demand tracks enterprise AI adoption. Many names trade on "
- "growth and the promise of AI-driven expansion, so they can be sensitive to shifts in software spending and to how much "
- "value AI features actually add."},
-"chip_equipment_and_ai_hardware": {"heading": "Chip equipment & AI hardware",
- "text": "This layer sells the machines, materials and hardware that make and connect AI systems — semiconductor "
- "manufacturing equipment, networking, optics, memory and servers. It is a concentrated, &ldquo;picks-and-shovels&rdquo; business one "
- "level below the chipmakers. As AI pushes fabs to expand and data centers to scale, demand rises, though the equipment "
- "side is cyclical and heavily exposed to China export restrictions."},
-"ai_platforms_internet_and_adtech": {"heading": "AI platforms, internet & adtech",
- "text": "These are large internet, platform and advertising businesses using AI to improve products, recommendations and "
- "ad targeting. They have vast user bases and cash flows, and are among the biggest spenders on AI infrastructure. The AI "
- "link is mostly about defending and extending existing franchises rather than selling AI directly, and results hinge on "
- "advertising cycles and regulation."},
-"data_center_power_and_energy": {"heading": "Data-center power & energy",
- "text": "This basket covers the power, energy and physical infrastructure that AI data centers depend on — electricity "
- "generation, grid and cooling, and the operators that host high-density compute. AI's soaring power demand has made this "
- "an unexpectedly central part of the trade. The businesses are capital-intensive and turn on access to cheap, reliable "
- "power, long-term contracts and financing costs."},
-"applied_ai_industrial_defense_and_vertical": {"heading": "Applied AI: industrial, defense & vertical",
- "text": "These companies apply AI and autonomy to specific real-world domains — industrials, defense, space, robotics and "
- "other verticals. The link to AI runs through software, sensors, autonomy and the data these systems generate and analyze. "
- "Many are earlier-stage or project-driven, so results can be lumpy and tied to government budgets, contract timing and "
- "execution."},
+"oil_gas_majors": {"heading": "Oil & gas majors",
+ "text": "The integrated majors do everything: they find and pump oil and gas, refine it, ship it, trade it, and sell it at the pump. That integration is the point — when crude prices fall, refining and trading often cushion the blow, which is why these are the steadiest names in the energy universe. At healthy oil prices they generate enormous cash, and most of it now goes to dividends and buybacks rather than growth drilling — a discipline investors forced on the industry after a decade of overspending. They trade at low multiples compared with the rest of the market, and they move with crude prices and capital-return announcements, not with stories."},
+"shale_ep": {"heading": "Shale & E&P",
+ "text": "Exploration & production companies are the pure upstream bet: they own acreage, drill wells, and sell oil and gas at whatever the market pays. Shale wells produce most of their oil in the first couple of years, so these companies must keep drilling just to hold output flat — which makes cost per barrel, acreage quality, and the hedging program the whole game. Some names here are mostly natural gas (EQT, Antero) — a different commodity with its own cycle, increasingly tied to LNG exports and power demand. The sector has consolidated hard — Pioneer, Hess and Marathon Oil were all swallowed by majors — and the survivors are larger and more disciplined. Expect these to amplify every move in the underlying commodity, in both directions."},
+"oilfield_services": {"heading": "Oilfield services",
+ "text": "Services companies sell the picks and shovels of the oil patch: drilling rigs, fracking fleets, downhole tools, subsea equipment and the engineering that goes with them. Their revenue follows what producers spend, not the oil price itself — and producer budgets react to prices with a lag, so services cycles arrive later and swing harder. The big three (SLB, Halliburton, Baker Hughes) split roughly along international versus North American exposure, and international and offshore work runs on longer contracts than the spot-driven US shale business. Read these as a bet on drilling activity: when producers open their wallets, services margins expand fast; when budgets get cut, there is nowhere to hide."},
+"midstream_lng": {"heading": "Midstream & LNG",
+ "text": "Midstream companies own the infrastructure between the wellhead and the customer — pipelines, gathering and processing plants, storage, and export terminals. Most earn fees on volumes moved under long-term contracts, so their cash flow is steadier than the producers they serve, and much of it is paid out as high dividends or distributions (several names here are partnerships with special tax treatment). Cheniere (LNG) is the standout business model: it liquefies US natural gas and ships it abroad under decade-long contracts — a toll road on the global gas trade. The read here is contract quality and payout coverage, not the daily oil price: these are income vehicles first, commodity plays second."},
+"refining_downstream": {"heading": "Refining & downstream",
+ "text": "Refiners buy crude oil and sell gasoline, diesel and jet fuel — their profit is the spread between the two (the crack spread), not the oil price itself. That distinction matters: refiners can mint money while crude falls, or struggle while it rallies, depending on how tight fuel markets are. Margins are set by regional capacity, seasonal demand, and how much refining capacity has been shut or converted — closures in recent years have kept US spreads structurally healthier than the pre-2020 norm. These stocks are cyclical, capital-heavy and often cheap for it; the read is product margins and utilization, and it pays to check both before reacting to a move."},
+"nuclear_uranium": {"heading": "Nuclear & uranium",
+ "text": "This bucket is really two trades sharing one story. The first is fuel: uranium miners (Cameco, NexGen, UEC, Energy Fuels) and the West's only listed enricher (Centrus), levered to a uranium price that recovered after a decade of oversupply. The second is reactors: Constellation runs America's largest nuclear fleet, BWX Technologies builds naval and government reactors, and Oklo and NuScale are pre-revenue startups designing small modular reactors. What revived the whole complex is electricity demand — above all from AI data centers, whose owners have signed long-term deals for nuclear power at premium prices. Be precise about what you own here: producing businesses with contracts and cash flow, or story stocks priced for a buildout that is still years away."},
+"renewables_solar": {"heading": "Renewables & solar",
+ "text": "The renewables complex spans panel and equipment makers (First Solar, Enphase, SolarEdge, Nextracker, Array), a rooftop installer (Sunrun), and owners of operating wind and solar farms (Brookfield Renewable, and NextEra — which is also a huge Florida utility). These are very different businesses traded as one theme, and the theme is brutally sensitive to two things: interest rates, because projects and rooftop loans run on debt, and policy, because tax credits and tariffs can rewrite the economics overnight. Dispersion inside the group is enormous — a manufacturer with a fat US order book and an installer bleeding cash can sit side by side. Check margins, funding costs and policy exposure name by name before treating any move as a sector signal."},
+"grid_storage": {"heading": "Grid, storage & electrification",
+ "text": "After twenty years of flat demand, US electricity load is growing again — AI data centers, electrification and reshored factories all want power at once — and this bucket owns the equipment that has to be built for that to happen: GE Vernova's turbines and grid gear, Eaton's electrical systems, Vertiv's data-center power and cooling, Quanta's transmission crews, plus battery and fuel-cell players (Fluence, Eos, Bloom). The tell for these businesses is the backlog: orders stretch years out, and the market prices the growth long before revenue lands. That is also the risk — several names here re-rated hard on the AI power story and now carry expectations to match. Watch backlog growth and margins, and remember this bucket overlaps with the AI trade and can sell off with it."},
+"power_utilities_ipp": {"heading": "Power & IPPs",
+ "text": "One bucket, two very different business models. Regulated utilities (Duke, Southern, Dominion, PSEG, Entergy) earn a government-set return on the grid they build; they are slow, defensive and rate-sensitive — bond-like stocks funding big capital programs. Independent power producers (Vistra, NRG, Talen) sell electricity at market prices, so tightening power markets flow straight into their earnings — which is why the IPPs re-rated violently when data-center demand met a grid short on capacity, while the regulated names barely moved. Know which model you own before reading a chart here: the IPPs trade like growth stocks with commodity torque, the utilities like interest-rate instruments with a capex story."},
 }
 
 # Drop the non-ticker special pages if they slipped in (aschenbrenner/burry*).
