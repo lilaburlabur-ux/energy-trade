@@ -1035,7 +1035,7 @@ Promise.all([
   for(const t of all){ if(rows.length>=5) break; if(!rows.some(r=>r.tk===t.ticker))
     rows.push({tk:t.ticker,heat:Math.min(99,Math.round(Math.abs(t.change_pct||0)*12)),why:"biggest move in "+(t.industry||"the universe"),move:t.change_pct}); }
   const lockedRows=all.filter(t=>!rows.some(r=>r.tk===t.ticker)).slice(0,5)
-    .map((t,i)=>({tk:t.ticker,heat:40+i*9,why:"crowding and theme rotation continue"}));
+    .map((t,i)=>({tk:t.ticker,heat:Math.min(99,Math.round(Math.abs(t.change_pct||0)*12)),why:"next-biggest move in "+(t.industry||"the universe"),move:t.change_pct}));
   // Canonical ticker URL: every universe ticker has a static /stocks/<sym> page
   // (the SEO canonical). /t?sym=X remains ONLY as the fallback for exotic hot
   // tickers outside the universe (that route is noindexed). One helper, no #.
@@ -1092,7 +1092,7 @@ Promise.all([
   let cap=0,mv=0;uni.bubbles.forEach(b=>b.tickers.forEach(t=>{const c=t.market_cap_b||0;cap+=c;mv+=c*(t.change_pct||0);}));
   const um=cap?mv/cap:0;$("tp-uni").textContent=pct(um);$("tp-uni").className=um>=0?"up":"down";
   const themes=uni.bubbles.map(b=>{let c=0,m=0;b.tickers.forEach(t=>{const cc=t.market_cap_b||0;c+=cc;m+=cc*(t.change_pct||0);});
-    return {name:pretty(b.name||b.id),move:c?m/c:0};}).sort((a,b)=>b.move-a.move);
+    return {name:b.label||pretty(b.name||b.id),move:c?m/c:0};}).sort((a,b)=>b.move-a.move);
   $("tp-theme").textContent=themes[0].name;
   $("hp-themes").innerHTML=themes.map(t=>'<span class="hp-theme">'+t.name+' <b class="'+(t.move>=0?"up":"down")+'" style="color:var(--'+(t.move>=0?"green":"red")+')">'+pct(t.move)+"</b></span>").join("");
   if(rows[0]) $("sc-hot").textContent=rows[0].tk+" · "+Math.round(rows[0].heat);
