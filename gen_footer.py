@@ -14,7 +14,7 @@ footer.mega{display:block;text-align:left;margin-top:48px;padding:0;border-top:1
 .mega .mg-in{max-width:1680px;margin:0 auto;padding:34px clamp(16px,2vw,40px) 26px;}
 .mega .mg-top{display:flex;justify-content:space-between;align-items:flex-start;gap:28px;flex-wrap:wrap;padding-bottom:26px;border-bottom:1px solid var(--border-soft,#161e28);}
 .mega .mg-logo{font-size:17px;font-weight:800;letter-spacing:.4px;color:var(--text,#e7edf3);}
-.mega .mg-logo span{color:#22c55e;}
+.mega .mg-logo span{color:#f59e0b;}
 .mega .mg-tag{font-size:11px;font-weight:700;letter-spacing:1.4px;text-transform:uppercase;color:var(--faint,#5a6573);margin-top:2px;}
 .mega .mg-line{margin:10px 0 0;max-width:420px;font-size:13px;line-height:1.55;color:var(--muted,#8895a4);font-weight:400;}
 .mega .mg-slogan{margin:8px 0 0;font-size:12.5px;font-style:italic;color:var(--faint,#5a6573);font-weight:400;}
@@ -22,8 +22,8 @@ footer.mega{display:block;text-align:left;margin-top:48px;padding:0;border-top:1
 .mega .mg-btitle{font-size:14px;font-weight:700;color:var(--text,#e7edf3);}
 .mega .mg-bsub{margin:6px 0 12px;font-size:12.5px;line-height:1.5;color:var(--muted,#8895a4);font-weight:400;}
 .mega .mg-brow{display:flex;align-items:center;gap:10px;flex-wrap:wrap;}
-.mega a.mg-cta{display:inline-block;padding:8px 16px;border-radius:9px;background:rgba(34,197,94,.12);border:1px solid rgba(34,197,94,.45);color:#22c55e;font-size:13px;font-weight:700;text-decoration:none;}
-.mega a.mg-cta:hover{background:#22c55e;color:#04140b;}
+.mega a.mg-cta{display:inline-block;padding:8px 16px;border-radius:9px;background:rgba(245,158,11,.12);border:1px solid rgba(245,158,11,.45);color:#f59e0b;font-size:13px;font-weight:700;text-decoration:none;}
+.mega a.mg-cta:hover{background:#f59e0b;color:#140b04;}
 .mega .mg-soon{font-size:11.5px;font-weight:600;color:var(--faint,#5a6573);border:1px dashed var(--border,#1d2733);border-radius:999px;padding:5px 10px;white-space:nowrap;}
 .mega .mg-priv{margin:10px 0 0;font-size:11px;line-height:1.5;color:var(--faint,#5a6573);font-weight:400;}
 .mega .mg-priv a{color:var(--muted,#8895a4);font-weight:600;text-decoration:none;}
@@ -40,7 +40,7 @@ footer.mega{display:block;text-align:left;margin-top:48px;padding:0;border-top:1
 .mega .mg-bottom a{color:var(--muted,#8895a4);font-weight:600;text-decoration:none;padding:2px 0;}
 .mega .mg-bottom a:hover{color:var(--text,#e7edf3);}
 .mega .mg-note{flex-basis:100%;font-size:10.5px;color:var(--faint,#5a6573);opacity:.75;}
-.mega a:focus-visible{outline:2px solid #22c55e;outline-offset:2px;border-radius:4px;}
+.mega a:focus-visible{outline:2px solid #f59e0b;outline-offset:2px;border-radius:4px;}
 @media(max-width:900px){
   .mega .mg-in{padding:28px 16px 22px;}
   .mega .mg-top{flex-direction:column;gap:20px;padding-bottom:22px;}
@@ -69,16 +69,16 @@ FOOTER = """<!-- mega-footer v1 -->
 <div class="mg-in">
   <div class="mg-top">
     <div class="mg-brand">
-      <div class="mg-logo">Energy Trade <span>AI</span></div>
-      <div class="mg-tag">The AI Trade Terminal</div>
-      <p class="mg-line">The AI trade terminal for stocks, ETFs, crypto, hot tickers, valuation tools, and bubble-risk signals.</p>
+      <div class="mg-logo">Energy <span>Trade</span></div>
+      <div class="mg-tag">The Energy Market Terminal</div>
+      <p class="mg-line">The energy market terminal for oil &amp; gas, nuclear, renewables and grid stocks — ETFs, hot tickers and valuation tools on one screen.</p>
       <p class="mg-slogan">Hot means attention, not direction.</p>
     </div>
     <div class="mg-brief">
-      <div class="mg-btitle">Get the AI market brief</div>
-      <p class="mg-bsub">Hot tickers, bubble-risk changes, valuation notes, and AI market research.</p>
+      <div class="mg-btitle">Get the energy market brief</div>
+      <p class="mg-bsub">Hot tickers, sector heat, valuation notes, and energy market research.</p>
       <div class="mg-brow">
-        <a class="mg-cta" href="/signup">Create a free account</a>
+        <a class="mg-cta" href="/tools/fair-value-calculator">Try the fair-value calculator</a>
         <span class="mg-soon">Email brief — coming soon</span>
       </div>
       <p class="mg-priv">The brief will be opt-in when it launches, and you can unsubscribe anytime. <a href="/privacy">Privacy</a></p>
@@ -88,22 +88,17 @@ FOOTER = """<!-- mega-footer v1 -->
     <div class="mg-col">
       <h4>Terminal</h4>
       <ul>
-        <li><a href="/terminal">AI Terminal</a></li>
-        <li><a href="/stocks">AI Stocks</a></li>
-        <li><a href="/crypto">AI Crypto</a></li>
-        <li><a href="/etfs">AI ETFs</a></li>
-        <li><a href="/bubble">AI Bubble Risk</a></li>
+        <li><a href="/terminal">Energy Terminal</a></li>
+        <li><a href="/stocks">Energy Stocks</a></li>
+        <li><a href="/etfs">Energy ETFs</a></li>
         <li><a href="/news">Market News</a></li>
       </ul>
     </div>
     <div class="mg-col">
       <h4>Tools</h4>
       <ul>
-        <li><a href="/bubble#stress">Portfolio Stress Test</a></li>
-        <li><a href="/quiz">Exposure Check</a></li>
+        <li><a href="/tools/fair-value-calculator">Fair-Value Calculator</a></li>
         <li><a href="/share">Share Cards</a></li>
-        <li><a href="/evaluate-prompt">Prompt Quality Check</a></li>
-        <li><a href="/signup">Watchlists &amp; Alerts — free account</a></li>
       </ul>
     </div>
     <div class="mg-col">
@@ -111,22 +106,21 @@ FOOTER = """<!-- mega-footer v1 -->
       <ul>
         <li><a href="/research">Research Feed</a></li>
         <li><a href="/blog">Blog</a></li>
-        <li><a href="/blog/ai-bubble-valuation-history">AI Bubble or Market Reset?</a></li>
         <li><a href="/ipos">IPO Watch</a></li>
-        <li><a href="/stocks/aschenbrenner">Aschenbrenner Basket</a></li>
-        <li><a href="/stocks/burry-short-watch">Burry Short Watch</a></li>
       </ul>
     </div>
     <div class="mg-col">
-      <h4>AI Themes</h4>
+      <h4>Energy Themes</h4>
       <ul>
-        <li><a href="/stocks/themes/ai-chips-and-compute">AI Chips &amp; Compute</a></li>
-        <li><a href="/stocks/themes/ai-software-and-cloud-infrastructure">AI Software &amp; Cloud</a></li>
-        <li><a href="/stocks/themes/powering-ai">Powering AI</a></li>
-        <li><a href="/stocks/themes/data-center-power-and-energy">Data-Center Power &amp; Energy</a></li>
-        <li><a href="/stocks/themes/chip-equipment-and-ai-hardware">Chip Equipment &amp; AI Hardware</a></li>
-        <li><a href="/stocks/themes/ai-platforms-internet-and-adtech">AI Platforms &amp; Adtech</a></li>
-        <li><a href="/stocks/themes/ai-applications-and-data-software">AI Apps &amp; Data Software</a></li>
+        <li><a href="/stocks/themes/oil-gas-majors">Oil &amp; Gas Majors</a></li>
+        <li><a href="/stocks/themes/shale-ep">Shale &amp; E&amp;P</a></li>
+        <li><a href="/stocks/themes/oilfield-services">Oilfield Services</a></li>
+        <li><a href="/stocks/themes/midstream-lng">Midstream &amp; LNG</a></li>
+        <li><a href="/stocks/themes/refining-downstream">Refining &amp; Downstream</a></li>
+        <li><a href="/stocks/themes/nuclear-uranium">Nuclear &amp; Uranium</a></li>
+        <li><a href="/stocks/themes/renewables-solar">Renewables &amp; Solar</a></li>
+        <li><a href="/stocks/themes/grid-storage">Grid &amp; Storage</a></li>
+        <li><a href="/stocks/themes/power-utilities-ipp">Power &amp; IPPs</a></li>
       </ul>
     </div>
     <div class="mg-col">
@@ -138,7 +132,7 @@ FOOTER = """<!-- mega-footer v1 -->
         <li><a href="mailto:hello@energytrade.example">Contact</a></li>
         <li><a href="/privacy">Privacy Policy</a></li>
         <li><a href="/terms">Terms of Use</a></li>
-        <li><a href="https://x.com/SantroAI" target="_blank" rel="noopener">@EnergyTrade on X</a></li>
+        <li><a href="https://santroai.tech" target="_blank" rel="noopener">Santro AI — sister site</a></li>
         <li><span class="mg-off">iOS app — coming soon</span></li>
       </ul>
     </div>
@@ -158,9 +152,9 @@ h.addEventListener("click",t);h.addEventListener("keydown",function(e){if(e.key=
 arm();mq.addEventListener?mq.addEventListener("change",arm):mq.addListener(arm);})();</script>
 </footer>"""
 
-INDEX_EXTRA = ('<span class="mg-note">Energy Trade is available at energytrade.example. '
-               'Energy Trade is an AI market research terminal and is not affiliated with '
-               'Hyundai Energy Trade, Santara Tech, or santro-tech.com.</span>')
+INDEX_EXTRA = ('<span class="mg-note">Energy Trade is an independent energy-markets '
+               'research terminal from the maker of Santro AI. It is not affiliated with '
+               'Hyundai Energy Trade or any similarly named brokerage or trading firm.</span>')
 
 # swallow any previously stacked marker comments so reruns don't accumulate them
 FOOT_RE = re.compile(r"(?:<!--\s*mega-footer v1\s*-->\s*)*<footer[^>]*>.*?</footer>", re.S)

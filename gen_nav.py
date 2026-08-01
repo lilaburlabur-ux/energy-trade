@@ -23,56 +23,45 @@ UNIVERSE_TOTAL = sum(len(b["tickers"]) for b in _U["bubbles"])
 UNIVERSE_THEMES = len(_U["bubbles"])
 NAV = [
   dict(key="terminal", label="Terminal",
-       desc="The main Energy Trade market view across AI stocks, ETFs, crypto, hot tickers, and bubble-risk signals.",
+       desc="The main Energy Trade market view across oil & gas, nuclear, renewables and grid stocks — plus WTI, Brent and natural gas futures.",
        links=[
-         ("AI Terminal", "/terminal", "Bubble map, market tape, hot tickers, and the daily brief.", "live"),
-         ("AI Stocks", "/stocks", f"{UNIVERSE_TOTAL} AI names ranked by heat, research on every ticker.", None),
-         ("AI Crypto", "/crypto", "AI tokens and rotating crypto baskets.", None),
-         ("AI ETFs", "/etfs", "40 AI & tech ETFs, broad tech to pure-play robotics.", None),
-         ("Market News", "/news", "Headlines that move the AI trade.", None),
+         ("Energy Terminal", "/terminal", "Bubble map, market tape, hot tickers, and the daily brief.", "live"),
+         ("Energy Stocks", "/stocks", f"{UNIVERSE_TOTAL} energy names ranked by heat, a profile on every ticker.", None),
+         ("Energy ETFs", "/etfs", "Energy funds compared — what's actually inside each one.", None),
+         ("Market News", "/news", "Headlines that move the energy trade.", None),
        ]),
   dict(key="tools", label="Tools",
        desc="Every tool is free while Energy Trade is in beta. Scenario outputs, not price targets.",
        links=[
-         ("AI Bubble Risk", "/bubble", "Valuation, momentum, and crowding signals in one gauge.", "live"),
-         ("Portfolio Stress Test", "/bubble#stress", "Six historical crash scenarios against your portfolio.", "live"),
-         ("Fair-Value Calculator", "/tools/fair-value-calculator", "DCF, P/E, Graham, and PEG scenario values for any AI ticker.", "live"),
-         ("Exposure Check", "/quiz", "Calibrate your terminal — universe, concentration, valuation lens, risk watch.", "account"),
+         ("Fair-Value Calculator", "/tools/fair-value-calculator", "DCF, P/E, Graham, and PEG scenario values for any energy ticker.", "live"),
          ("Share Cards", "/share", "Terminal-grade market cards you can post anywhere.", "live"),
-         ("Prompt Quality Check", "/evaluate-prompt", "Score any AI trading prompt before you trust it.", "live"),
-         ("Watchlists & Alerts", "/signup", "Track tickers and get level alerts with a free account.", "account"),
        ]),
   dict(key="research", label="Research",
-       desc="Filing-verified research. Tweets are leads; filings are sources.",
+       desc="Sourced notes on the energy trade. Headlines are leads; filings are sources.",
        links=[
-         ("Research Feed", "/research", "Curated notes on the AI trade, updated through the day.", None),
-         ("Blog", "/blog", "Long-form pieces on bubbles, valuation, and AI credit.", None),
-         ("AI Bubble or Market Reset?", "/blog/ai-bubble-valuation-history", "The flagship read: CAPE, real-terms history, dot-com lessons.", None),
-         ("IPO Watch", "/ipos", "From pre-filing to priced — 10 AI names, filings verified on EDGAR where public.", None),
-         ("Investor Signal Library", "/investor-signals", "Publicly disclosed positioning, mapped to AI market context.", "live"),
-         ("Aschenbrenner Basket", "/stocks/aschenbrenner", "Situational Awareness LP's 13F, position by position.", None),
-         ("Burry Short Watch", "/stocks/burry-short-watch", "Scion's disclosed AI puts, verified in filings.", None),
+         ("Research Feed", "/research", "Curated notes on the energy trade, updated through the day.", None),
+         ("Blog", "/blog", "Long-form pieces on energy cycles, valuation, and the power buildout.", None),
+         ("IPO Watch", "/ipos", "Energy listings from pre-filing to priced.", None),
        ]),
-  dict(key="universe", label="AI Universe",
+  dict(key="universe", label="Energy Universe",
        desc=f"{UNIVERSE_TOTAL} tickers across {UNIVERSE_THEMES} themes. Hot means attention, not direction.",
        links=[
-         ("All AI Stocks", "/stocks", "The full universe, ranked by heat.", None),
-         ("AI Chips & Compute", "/stocks/themes/ai-chips-and-compute", "NVDA, AMD, AVGO and the accelerator complex.", None),
-         ("AI Software & Cloud", "/stocks/themes/ai-software-and-cloud-infrastructure", "Hyperscalers and the model platforms.", None),
-         ("Powering AI", "/stocks/themes/powering-ai", "Nuclear, turbines, uranium & the grid behind AI.", None),
-         ("Data-Center Power & Energy", "/stocks/themes/data-center-power-and-energy", "The electrons behind the GPUs.", None),
-         ("Chip Equipment & AI Hardware", "/stocks/themes/chip-equipment-and-ai-hardware", "ASML, memory, and the fab supply chain.", None),
-         ("AI Platforms & Adtech", "/stocks/themes/ai-platforms-internet-and-adtech", "Internet platforms monetizing AI.", None),
-         ("AI Apps & Data Software", "/stocks/themes/ai-applications-and-data-software", "Applied AI and the data layer.", None),
-         ("Applied AI, Industrial & Defense", "/stocks/themes/applied-ai-industrial-defense-and-vertical", "Robotics, defense, and vertical AI.", None),
+         ("All Energy Stocks", "/stocks", "The full universe, ranked by heat.", None),
+         ("Oil & Gas Majors", "/stocks/themes/oil-gas-majors", "XOM, CVX, Shell and the integrated giants.", None),
+         ("Shale & E&P", "/stocks/themes/shale-ep", "EOG, Diamondback and the US producers.", None),
+         ("Oilfield Services", "/stocks/themes/oilfield-services", "SLB, Halliburton — the oil patch's picks and shovels.", None),
+         ("Midstream & LNG", "/stocks/themes/midstream-lng", "Pipelines and export terminals — the toll roads.", None),
+         ("Refining & Downstream", "/stocks/themes/refining-downstream", "MPC, PSX, VLO — the crack-spread trade.", None),
+         ("Nuclear & Uranium", "/stocks/themes/nuclear-uranium", "Cameco, Constellation and the SMR story stocks.", None),
+         ("Renewables & Solar", "/stocks/themes/renewables-solar", "First Solar to Sunrun — the high-dispersion theme.", None),
+         ("Grid, Storage & Electrification", "/stocks/themes/grid-storage", "GE Vernova, Eaton, Vertiv and the power buildout.", None),
+         ("Power & IPPs", "/stocks/themes/power-utilities-ipp", "Vistra to Duke — two very different business models.", None),
        ]),
   dict(key="maps", label="Market Maps", more=True,
        desc="Visual entry points into the same delayed data.",
        links=[
          ("Stock Bubble Map", "/terminal", f"{UNIVERSE_TOTAL} bubbles sized by the day's move, colored by direction.", None),
-         ("Crypto Movers", "/crypto", "AI tokens ranked by momentum.", None),
-         ("ETF Map", "/etfs", "Overlap-aware list of the AI ETF complex.", None),
-         ("Bubble-Risk Gauge", "/bubble", "One dial for the whole AI trade.", None),
+         ("ETF Map", "/etfs", "Overlap-aware list of the energy ETF complex.", None),
          ("IPO Pipeline", "/ipos", "Who is filing, who is rumored, who is priced.", None),
        ]),
   dict(key="company", label="Company", more=True,
@@ -82,9 +71,7 @@ NAV = [
          ("Contact", "mailto:hello@energytrade.example", None, None),
          ("Privacy Policy", "/privacy", None, None),
          ("Terms of Use", "/terms", None, None),
-         ("@EnergyTrade on X", "https://x.com/SantroAI", None, None),
-         ("iOS app", None, None, "soon"),
-         ("Energy Trade Pro", None, None, "soon"),
+         ("Santro AI — our AI-markets sister site", "https://santroai.tech", None, None),
        ]),
 ]
 
@@ -93,10 +80,10 @@ BADGE = {"live": '<em class="mn-b mn-b-live">Beta</em>',
          "soon": '<em class="mn-b mn-b-soon">Coming soon</em>'}
 
 CSS = """
-/* santro brand tokens — green is the identity color. Blue is NOT a Energy Trade
-   UI color anywhere (2026-07-08 rule) — never reintroduce it. */
-header.meganav{--sg:#22c55e;--sg-hi:#4ade80;--sg-deep:#15803d;
-  --sg-soft:rgba(34,197,94,.12);--sg-border:rgba(34,197,94,.45);
+/* Energy Trade brand tokens — amber is the identity color. Blue is NOT an
+   Energy Trade UI color anywhere; green/red are reserved for market direction. */
+header.meganav{--sg:#f59e0b;--sg-hi:#fbbf24;--sg-deep:#b45309;
+  --sg-soft:rgba(245,158,11,.12);--sg-border:rgba(245,158,11,.45);
   --ramber:#d9a13c;--ramber-border:rgba(217,161,60,.45);}
 header.meganav{display:block;position:relative;z-index:60;background:var(--panel-2,#0c121a);border-bottom:1px solid var(--border,#1d2733);font-family:var(--font-sans, -apple-system,BlinkMacSystemFont,"Inter","Segoe UI",Roboto,Helvetica,Arial,sans-serif);text-align:left;}
 .meganav *{box-sizing:border-box;}
@@ -106,7 +93,7 @@ header.meganav{display:block;position:relative;z-index:60;background:var(--panel
 .meganav .mn-ls{font-weight:900;font-size:24px;line-height:.9;
   background:linear-gradient(165deg,var(--sg-hi) 10%,var(--sg-deep) 90%);
   -webkit-background-clip:text;background-clip:text;color:transparent;}
-html[data-theme="light"] .meganav .mn-ls{background:linear-gradient(165deg,#16a34a 10%,#14532d 90%);-webkit-background-clip:text;background-clip:text;}
+html[data-theme="light"] .meganav .mn-ls{background:linear-gradient(165deg,#b45309 10%,#78350f 90%);-webkit-background-clip:text;background-clip:text;}
 .meganav .mn-lr{display:flex;flex-direction:column;line-height:1.1;}
 .meganav .mn-lr b{font-weight:800;font-size:14.5px;letter-spacing:.02em;color:var(--text,#e7edf3);}
 .meganav .mn-lr i{font-style:normal;font-size:7.5px;letter-spacing:1.4px;color:var(--faint,#5a6573);font-weight:700;}
@@ -306,8 +293,8 @@ def render_header(active, utils, is_terminal=False):
 </style>
 <div class="mn-in">
   <a class="mn-logo" href="/" aria-label="Energy Trade — home">
-    <span class="mn-ls">S</span>
-    <span class="mn-lr"><b>Energy Trade&nbsp;AI</b><i>THE&nbsp;AI&nbsp;TRADE&nbsp;TERMINAL</i></span>
+    <span class="mn-ls">E</span>
+    <span class="mn-lr"><b>Energy&nbsp;Trade</b><i>THE&nbsp;ENERGY&nbsp;MARKET&nbsp;TERMINAL</i></span>
     <em class="mn-beta">Beta</em>
   </a>
   <nav class="mn-nav" aria-label="Main">
@@ -317,25 +304,20 @@ def render_header(active, utils, is_terminal=False):
     <div class="mn-search"></div>
     {'<span id="asof" class="mn-asof"></span>' if is_terminal else '<span class="mn-asof"></span>'}
     {utils}
-    <span id="santro-auth-slot"><a class="mn-signin" href="/signin">Sign in</a><a class="mn-signup" href="/signup">Sign up</a></span>
     <button class="mn-burger" type="button" aria-label="Open menu" aria-expanded="false" aria-controls="mn-drawer"><svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="M3 6h18M3 12h18M3 18h18"/></svg></button>
   </div>
 </div>
 <div class="mn-drawer" id="mn-drawer" role="dialog" aria-label="Menu" aria-modal="true">
   <div class="mnd-head">
-    <span class="mn-ls">S</span>
+    <span class="mn-ls">E</span>
     <button class="mnd-close" type="button" aria-label="Close menu">✕</button>
   </div>
   <div class="mn-search mn-search--drawer"></div>
   <div class="mnd-quick">
-    <a href="/terminal">AI Terminal</a><a href="/stocks">AI Stocks</a>
-    <a href="/crypto">AI Crypto</a><a href="/etfs">AI ETFs</a>
+    <a href="/terminal">Terminal</a><a href="/stocks">Energy Stocks</a>
+    <a href="/etfs">Energy ETFs</a><a href="/news">News</a>
   </div>
   {"".join(drawer_secs)}
-  <div class="mnd-cta">
-    <a class="a1" href="/signup">Create free account</a>
-    <a class="a2" href="/signin">Sign in</a>
-  </div>
   <button class="mnd-theme" type="button">Switch day / night mode</button>
   <p class="mnd-foot">Hot means attention, not direction.<br>Quotes delayed ~15 min. Real-time data planned for Pro. Not financial advice.</p>
 </div>
@@ -346,11 +328,10 @@ def render_header(active, utils, is_terminal=False):
 def section_for(f):
     p = "/" + f[:-5]
     if f == "index.html": return None
-    if p in ("/stocks/aschenbrenner", "/stocks/burry-short-watch", "/stocks/burry"): return "research"
-    if p == "/terminal" or p in ("/stocks", "/crypto", "/etfs", "/news", "/t", "/e", "/c"): return "terminal"
+    if p == "/terminal" or p in ("/stocks", "/etfs", "/news", "/t", "/e", "/c"): return "terminal"
     if p.startswith("/etfs/"): return "terminal"
     if p.startswith("/stocks/"): return "universe"
-    if p in ("/bubble", "/quiz", "/share", "/evaluate-prompt") or p.startswith("/tools/"): return "tools"
+    if p in ("/bubble", "/quiz", "/share") or p.startswith("/tools/"): return "tools"
     if p in ("/research", "/blog", "/ipos", "/ipo") or p.startswith(("/blog/", "/ipos/", "/research/")): return "research"
     if p in ("/about", "/privacy", "/terms"): return "company"
     return None
@@ -398,7 +379,7 @@ def validate():
     for m in NAV:
         for _, href, _, _ in m["links"]:
             if href: hrefs.add(href)
-    hrefs |= {"/signin", "/signup", "/terminal", "/stocks", "/crypto", "/etfs", "/privacy"}
+    hrefs |= {"/terminal", "/stocks", "/etfs", "/privacy"}
     bad = []
     for h in sorted(hrefs):
         if h.startswith(("mailto:", "https://")): continue
