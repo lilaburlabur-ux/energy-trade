@@ -9,7 +9,7 @@
   /* santro brand tokens — green is the primary identity; --accent (blue)
      is a SECONDARY link color only and must not drive logos/CTAs/active nav */
   --santro-green:#f59e0b; --santro-green-hi:#fbbf24; --santro-green-deep:#b45309;
-  --santro-green-soft:rgba(34,197,94,.12); --santro-green-border:rgba(34,197,94,.45);
+  --santro-green-soft:rgba(245,158,11,.12); --santro-green-border:rgba(245,158,11,.45);
   --risk-amber:#d9a13c;
 }
 html[data-theme="light"]{

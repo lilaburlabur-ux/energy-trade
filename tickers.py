@@ -2,45 +2,100 @@
 #  YOUR TICKERS  —  this is the ONE file you edit.
 # =====================================================================
 #  The heatmap resizes itself automatically to whatever is here.
+#  Keep in sync with seed_energy_universe.py bucket membership.
 # ---------------------------------------------------------------------
 
-# Industry: semiconductors (13 names).
-# Note: "SEVA" is delisted on Yahoo — using CEVA (semiconductor IP).
 TICKERS = [
-    "NVDA",
-    "TSM",
-    "AVGO",
-    "MU",
-    "AMD",
-    "INTC",
-    "ARM",
-    "MRVL",
-    "QCOM",
-    "NXPI",
-    "LSCC",
-    "SYNA",
-    "CEVA",
-
-    # Aerospace & defense (drones / autonomous systems).
-    "AVAV",
+    # Oil & Gas Majors
+    "XOM", "CVX", "SHEL", "TTE", "BP", "COP", "EQNR", "SU",
+    # Shale & E&P
+    "EOG", "FANG", "DVN", "OXY", "APA", "EQT", "AR", "PR", "OVV",
+    # Oilfield Services
+    "SLB", "HAL", "BKR", "NOV", "FTI", "WFRD",
+    # Midstream & LNG
+    "LNG", "KMI", "WMB", "ET", "EPD", "TRGP", "OKE", "MPLX",
+    # Refining & Downstream
+    "MPC", "PSX", "VLO", "DINO",
+    # Nuclear & Uranium
+    "CCJ", "CEG", "OKLO", "SMR", "LEU", "NXE", "UEC", "UUUU", "BWXT",
+    # Renewables & Solar
+    "FSLR", "ENPH", "NEE", "RUN", "SEDG", "NXT", "ARRY", "BEP",
+    # Grid, Storage & Electrification
+    "GEV", "ETN", "VRT", "PWR", "FLNC", "BE", "EOSE", "HUBB",
+    # Power & IPPs
+    "VST", "NRG", "TLN", "DUK", "SO", "D", "PEG", "ETR",
 ]
 
 # Optional: nicer company names shown in the tooltip / details panel.
 NAMES = {
-    "NVDA": "NVIDIA",
-    "TSM":  "Taiwan Semiconductor (TSMC)",
-    "AVGO": "Broadcom",
-    "MU":   "Micron Technology",
-    "AMD":  "AMD",
-    "INTC": "Intel",
-    "ARM":  "Arm Holdings",
-    "MRVL": "Marvell Technology",
-    "QCOM": "Qualcomm",
-    "NXPI": "NXP Semiconductors",
-    "LSCC": "Lattice Semiconductor",
-    "SYNA": "Synaptics",
-    "CEVA": "CEVA",
-    "AVAV": "AeroVironment",
+    "XOM":  "ExxonMobil",
+    "CVX":  "Chevron",
+    "SHEL": "Shell",
+    "TTE":  "TotalEnergies",
+    "BP":   "BP",
+    "COP":  "ConocoPhillips",
+    "EQNR": "Equinor",
+    "SU":   "Suncor Energy",
+    "EOG":  "EOG Resources",
+    "FANG": "Diamondback Energy",
+    "DVN":  "Devon Energy",
+    "OXY":  "Occidental Petroleum",
+    "APA":  "APA Corp",
+    "EQT":  "EQT Corp",
+    "AR":   "Antero Resources",
+    "PR":   "Permian Resources",
+    "OVV":  "Ovintiv",
+    "SLB":  "SLB (Schlumberger)",
+    "HAL":  "Halliburton",
+    "BKR":  "Baker Hughes",
+    "NOV":  "NOV Inc",
+    "FTI":  "TechnipFMC",
+    "WFRD": "Weatherford",
+    "LNG":  "Cheniere Energy",
+    "KMI":  "Kinder Morgan",
+    "WMB":  "Williams Companies",
+    "ET":   "Energy Transfer",
+    "EPD":  "Enterprise Products",
+    "TRGP": "Targa Resources",
+    "OKE":  "ONEOK",
+    "MPLX": "MPLX",
+    "MPC":  "Marathon Petroleum",
+    "PSX":  "Phillips 66",
+    "VLO":  "Valero Energy",
+    "DINO": "HF Sinclair",
+    "CCJ":  "Cameco",
+    "CEG":  "Constellation Energy",
+    "OKLO": "Oklo",
+    "SMR":  "NuScale Power",
+    "LEU":  "Centrus Energy",
+    "NXE":  "NexGen Energy",
+    "UEC":  "Uranium Energy Corp",
+    "UUUU": "Energy Fuels",
+    "BWXT": "BWX Technologies",
+    "FSLR": "First Solar",
+    "ENPH": "Enphase Energy",
+    "NEE":  "NextEra Energy",
+    "RUN":  "Sunrun",
+    "SEDG": "SolarEdge",
+    "NXT":  "Nextracker",
+    "ARRY": "Array Technologies",
+    "BEP":  "Brookfield Renewable",
+    "GEV":  "GE Vernova",
+    "ETN":  "Eaton",
+    "VRT":  "Vertiv",
+    "PWR":  "Quanta Services",
+    "FLNC": "Fluence Energy",
+    "BE":   "Bloom Energy",
+    "EOSE": "Eos Energy",
+    "HUBB": "Hubbell",
+    "VST":  "Vistra",
+    "NRG":  "NRG Energy",
+    "TLN":  "Talen Energy",
+    "DUK":  "Duke Energy",
+    "SO":   "Southern Company",
+    "D":    "Dominion Energy",
+    "PEG":  "Public Service Enterprise",
+    "ETR":  "Entergy",
 }
 
 # =====================================================================
@@ -48,19 +103,6 @@ NAMES = {
 # =====================================================================
 #  When an ETF symbol has a sheet here, fetch.py uses THESE weights
 #  instead of Yahoo's auto-pulled top holdings. Tile size = weight.
-#  Source: roundhillinvestments.com DRAM holdings, as of 06/09/2026.
-#  (Currency hedge lines KRW/TWD ~0% are intentionally excluded.)
+#  None curated yet for the energy universe.
 
-ETF_HOLDINGS = {
-    "DRAM": [
-        {"symbol": "MU",        "name": "Micron Technology Inc",        "weight_pct": 27.63},
-        {"symbol": "000660.KS", "name": "SK hynix",                     "weight_pct": 27.17},
-        {"symbol": "005930.KS", "name": "Samsung Electronics Co",       "weight_pct": 19.20},
-        {"symbol": "285A.T",    "name": "Kioxia Holdings",              "weight_pct": 7.70},
-        {"symbol": "SNDK",      "name": "Sandisk",                      "weight_pct": 5.05},
-        {"symbol": "STX",       "name": "Seagate Technology Holdings",  "weight_pct": 4.09},
-        {"symbol": "WDC",       "name": "Western Digital",              "weight_pct": 3.67},
-        {"symbol": "2408.TW",   "name": "Nanya Technology",             "weight_pct": 3.13},
-        {"symbol": "2344.TW",   "name": "Winbond Electronics",          "weight_pct": 1.82},
-    ],
-}
+ETF_HOLDINGS = {}

@@ -32,9 +32,9 @@ ETFS = [
 # top-strip market tape (Coinglass-style header)
 TAPE = [
     ("SPX", "^GSPC"),
-    ("BTC", "BTC-USD"),
-    ("Gold", "GC=F"),
-    ("Nasdaq100", "^NDX"),
+    ("WTI", "CL=F"),
+    ("Brent", "BZ=F"),
+    ("NatGas", "NG=F"),
 ]
 
 # Words that mark a non-stock holding (cash / money-market) to skip.
