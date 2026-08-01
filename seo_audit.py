@@ -29,36 +29,12 @@ BASE = "https://energytrade.example"
 # route -> (file, indexable?). Indexable pages must have full metadata + 1 H1.
 ROUTES = [
     ("/", "index.html", True), ("/about", "about.html", True),
-    ("/stocks", "stocks.html", True), ("/crypto", "crypto.html", True),
+    ("/stocks", "stocks.html", True),
     ("/etfs", "etfs.html", True), ("/bubble", "bubble.html", True),
     ("/news", "news.html", True), ("/research", "research.html", True),
     ("/share", "share.html", True), ("/ipos", "ipos.html", True),
-    ("/blog", "blog.html", True),
-    ("/stocks/amat", "stocks/amat.html", True),
-    ("/stocks/amd", "stocks/amd.html", True),
-    ("/stocks/apld", "stocks/apld.html", True),
-    ("/stocks/asts", "stocks/asts.html", True),
-    ("/stocks/avgo", "stocks/avgo.html", True),
-    ("/stocks/corz", "stocks/corz.html", True),
-    ("/stocks/inod", "stocks/inod.html", True),
-    ("/stocks/lrcx", "stocks/lrcx.html", True),
-    ("/stocks/lscc", "stocks/lscc.html", True),
-    ("/stocks/mrvl", "stocks/mrvl.html", True),
-    ("/stocks/nvda", "stocks/nvda.html", True),
-    ("/stocks/pl", "stocks/pl.html", True),
-    ("/stocks/rklb", "stocks/rklb.html", True),
-    ("/stocks/tsm", "stocks/tsm.html", True),
-    ("/evaluate-prompt", "evaluate-prompt.html", True),
-    ("/blog/ai-junk-bonds", "blog/ai-junk-bonds.html", True),
-    ("/blog/ai-trading-prompt-engineering", "blog/ai-trading-prompt-engineering.html", True),
-    ("/blog/spacex-attention-ai-infrastructure", "blog/spacex-attention-ai-infrastructure.html", True),
+    ("/blog", "blog.html", True), ("/methodology", "methodology.html", True),
     ("/privacy", "privacy.html", True), ("/terms", "terms.html", True),
-    ("/etfs/smh", "etfs/smh.html", True),
-    ("/etfs/soxx", "etfs/soxx.html", True),
-    ("/etfs/aiq", "etfs/aiq.html", True),
-    ("/etfs/botz", "etfs/botz.html", True),
-    ("/etfs/robt", "etfs/robt.html", True),
-    ("/etfs/arkq", "etfs/arkq.html", True),
     # parameterized client-rendered shells: must be noindex, metadata relaxed
     ("/t", "t.html", False), ("/e", "e.html", False),
     ("/c", "c.html", False), ("/ipo", "ipo.html", False),
@@ -89,7 +65,14 @@ _counts = {
     "blog":   sum(1 for r, _, _i in ROUTES if r.startswith("/blog/")),
     "tools":  sum(1 for r, _, _i in ROUTES if r.startswith("/tools/")),
 }
-_EXPECT = {"stocks": 95, "themes": 7, "etfs": 40, "ipos": 7, "blog": 4, "tools": 1}
+# derive expectations from the dataset (handoff rule: counts DYNAMIC, never
+# hardcoded) — every universe ticker and bubble must have its canonical page.
+import json as _json
+_u = _json.load(open("universe.json"))
+_EXPECT = {"stocks": sum(len(b["tickers"]) for b in _u["bubbles"]),
+           "themes": len(_u["bubbles"]),
+           "etfs": 0, "ipos": 0, "blog": 0,   # sections not built yet on the energy vertical
+           "tools": 1}
 for _k, _min in _EXPECT.items():
     if _counts[_k] < _min:
         print(f"COUNT GUARD FAILED: {_k}={_counts[_k]} expected >= {_min}")
@@ -180,7 +163,7 @@ _checks = [
     ("landing does not load quiz.js", "/quiz.js" not in _idx),
     ("landing links the terminal", 'href="/terminal"' in _idx),
     ("landing carries the delayed chip", "Quotes delayed ~15 min" in _idx),
-    ("locks use the copy map (no freestyle)", "create a free account to see the full heat table" in _idx),
+    ("no account-lock bands on landing (accounts deferred on this vertical)", 'class="hp-lockband"' not in _idx),
     ("exactly one h1 on landing", _idx.count("<h1") == 1),
     ("terminal page has the tape", 'class="topstrip"' in _term),
     ("terminal page has the grid", 'class="grid"' in _term),

@@ -9,7 +9,7 @@ import { readFileSync, readdirSync, statSync } from "node:fs";
 import path from "node:path";
 
 const ROOT = process.cwd();
-const SKIP_DIRS = new Set([".git", "node_modules", "qa", "audit", "__pycache__", "logs", "assets", "marketing-research", "docs", "ci"]);
+const SKIP_DIRS = new Set([".git", ".venv", "node_modules", "qa", "audit", "__pycache__", "logs", "assets", "marketing-research", "docs", "ci"]);
 const ALLOW_FILES = new Set(["ds-v2/tokens.css", "design/tokens.json"]); // glass tokens only
 const EXT = new Set([".html", ".css", ".js", ".py"]);
 
