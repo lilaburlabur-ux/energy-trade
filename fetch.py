@@ -26,7 +26,7 @@ from tickers import TICKERS, NAMES, ETF_HOLDINGS
 
 # ETFs rendered as a "holdings" heatmap (tile size = weight in the ETF).
 ETFS = [
-    {"symbol": "DRAM", "name": "Roundhill Memory ETF"},
+    {"symbol": "XLE", "name": "Energy Select Sector SPDR"},
 ]
 
 # top-strip market tape (Coinglass-style header)
