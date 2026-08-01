@@ -1,0 +1,1280 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<meta name="theme-color" content="#0a0e13" />
+<meta name="mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-title" content="Santro AI" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+<title>AI Bubble Risk Index — Valuation &amp; Narrative Risk | Santro AI</title>
+<link rel="icon" href="/assets/favicon.svg" type="image/svg+xml" />
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32.png" />
+<link rel="icon" type="image/png" sizes="48x48" href="/assets/favicon-48.png" />
+<link rel="icon" type="image/png" sizes="96x96" href="/assets/favicon-96.png" />
+<link rel="apple-touch-icon" href="/assets/apple-touch-icon.png" />
+<link rel="manifest" href="/manifest.json" />
+<meta name="description" content="How bubbly is the AI market? A composite bubble-risk index (valuation, market concentration, momentum &amp; technical, sentiment &amp; hype, systemic risk) with 180 days of history. Data courtesy of AI Bubble Monitor. Not financial advice." />
+<link rel="canonical" href="https://santroai.tech/bubble" />
+<meta property="og:site_name" content="Santro AI" />
+<meta property="og:title" content="AI Bubble metrics | Santro AI" />
+<meta property="og:description" content="Composite AI bubble-risk index with five pillars and 180-day history." />
+<meta property="og:url" content="https://santroai.tech/bubble" />
+<meta property="og:image" content="https://santroai.tech/assets/og-map.png" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="AI Bubble metrics | Santro AI" />
+<meta name="twitter:description" content="Composite AI bubble-risk index with five pillars and 180-day history." />
+<meta name="twitter:image" content="https://santroai.tech/assets/og-map.png" />
+<script>try{document.documentElement.dataset.theme=localStorage.getItem("santro-theme")||"dark";}catch(e){}</script>
+<link rel="stylesheet" href="site.css?v=14" />
+<style>
+  /* links on this page: quiet gray + bold, never blue/underlined */
+  main a{color:var(--accent-2); font-weight:700; text-decoration:none;}
+  main a:hover{color:var(--text);}
+  .sc-grid{display:grid; grid-template-columns:repeat(7,1fr); gap:12px; margin-bottom:16px;}
+  .sc{background:var(--panel); border:1px solid var(--border); border-radius:12px;
+    padding:16px 14px 14px; border-top:3px solid var(--border);}
+  .sc .n{font-size:30px; font-weight:800; letter-spacing:-.5px; line-height:1.05;}
+  .sc .k{font-size:9.5px; text-transform:uppercase; letter-spacing:.7px; color:var(--faint);
+    font-weight:700; margin-top:6px;}
+  .sc.big{grid-column:span 2;}
+  .sc.big .n{font-size:46px;}
+  .scale{height:10px; border-radius:99px; margin-top:14px; position:relative;
+    background:linear-gradient(to right,#22c55e,#69cd91,#e0a73f,#f05a6e,#b91c1c);}
+  .scale .dot{position:absolute; top:-4px; width:18px; height:18px; border-radius:50%;
+    background:#fff; border:3px solid var(--bg); transform:translateX(-9px);}
+  .scale-ends{display:flex; justify-content:space-between; font-size:9px; color:var(--faint);
+    text-transform:uppercase; letter-spacing:.6px; margin-top:5px;}
+  .histwrap{background:var(--panel); border:1px solid var(--border); border-radius:var(--radius); padding:18px;}
+  .src{margin-top:14px; font-size:12.5px; color:var(--muted);}
+  .bubnews{margin-top:26px;}
+  .bubnews .lbl{font-size:10px; letter-spacing:.7px; text-transform:uppercase; color:var(--faint);
+    font-weight:700; margin-bottom:8px;}
+  .bn-row{padding:11px 0; border-bottom:1px solid var(--border-soft); max-width:900px;}
+  .bn-row:last-child{border-bottom:0;}
+  .bn-row a{color:var(--text); text-decoration:none; font-size:14px; font-weight:600;}
+  .bn-row a:hover{color:var(--accent-2);}
+  .bn-row .m{color:var(--faint); font-size:11px; margin-top:3px;}
+  @media (max-width:900px){ .sc-grid{grid-template-columns:repeat(3,1fr);} .sc.big{grid-column:span 3;} }
+</style>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://santroai.tech/"},{"@type":"ListItem","position":2,"name":"AI Bubble Risk","item":"https://santroai.tech/bubble"}]}
+</script>
+<style>
+.sa-crumb{max-width:920px;margin:14px auto 0;padding:0 20px;font-size:13px;color:var(--faint,#6b7684);}
+.sa-crumb a{color:var(--muted,#9aa6b2);text-decoration:none;} .sa-crumb a:hover{color:var(--accent,#22c55e);}
+.sa-grow{max-width:920px;margin:20px auto 0;padding:24px 20px 8px;border-top:1px solid var(--border-soft,#1c2230);display:grid;grid-template-columns:1fr 1fr;gap:14px 28px;}
+@media(max-width:680px){.sa-grow{grid-template-columns:1fr;}}
+.sa-grow h3{font-size:14px;margin:0 0 8px;color:var(--text,#e6edf3);letter-spacing:.02em;}
+.sa-grow ul{margin:0;padding-left:18px;} .sa-grow li{color:var(--muted,#9aa6b2);font-size:14.5px;line-height:1.7;margin-bottom:3px;} .sa-grow a{color:var(--accent,#22c55e);}
+.sa-cta-box{grid-column:1/-1;margin-top:8px;padding:18px 20px;border:1px solid rgba(34,197,94,.28);border-radius:12px;background:rgba(34,197,94,.06);}
+.sa-cta-box b{color:var(--text,#e6edf3);font-size:15.5px;} .sa-cta-box p{color:var(--muted,#9aa6b2);font-size:14px;margin:6px 0 12px;line-height:1.6;}
+.sa-cta-box .sa-cta-btn{display:inline-block;background:var(--accent,#22c55e);color:#fff;padding:9px 17px;border-radius:8px;font-weight:600;font-size:14px;text-decoration:none;}
+.sa-tickers{max-width:920px;margin:6px auto 0;padding:0 20px;font-size:13.5px;color:var(--faint,#6b7684);} .sa-tickers a{color:var(--accent,#22c55e);}
+</style>
+</head>
+<body>
+  <!-- meganav v9 — generated by gen_nav.py; edit NAV there, not here -->
+<link rel="stylesheet" href="/ds-v2/tokens.css?v=3">
+<link rel="stylesheet" href="/ds-v2/primitives.css?v=1">
+<link rel="stylesheet" href="/ds-v2/shell.css?v=1">
+<link rel="stylesheet" href="/ds-v2/remap.css?v=1">
+<link rel="stylesheet" href="/ds-v2/lock.css?v=1">
+<script src="/ds-v2/compliance.js?v=1" defer></script>
+<script src="/ds-v2/gates.js?v=1" defer></script>
+<script src="/ds-v2/lock-copy.js?v=2" defer></script>
+<script src="/ds-v2/events.js?v=1" defer></script>
+<script src="/ds-v2/locks.js?v=2" defer></script>
+<script src="/ds-v2/flags.js?v=5"></script>
+<header class="meganav" id="meganav">
+<style>
+/* santro brand tokens — green is the identity color. Blue is NOT a Santro
+   UI color anywhere (2026-07-08 rule) — never reintroduce it. */
+header.meganav{--sg:#22c55e;--sg-hi:#4ade80;--sg-deep:#15803d;
+  --sg-soft:rgba(34,197,94,.12);--sg-border:rgba(34,197,94,.45);
+  --ramber:#d9a13c;--ramber-border:rgba(217,161,60,.45);}
+header.meganav{display:block;position:relative;z-index:60;background:var(--panel-2,#0c121a);border-bottom:1px solid var(--border,#1d2733);font-family:var(--font-sans, -apple-system,BlinkMacSystemFont,"Inter","Segoe UI",Roboto,Helvetica,Arial,sans-serif);text-align:left;}
+.meganav *{box-sizing:border-box;}
+.meganav .mn-in{max-width:1680px;margin:0 auto;padding:0 clamp(16px,2vw,40px);display:flex;align-items:center;gap:18px;height:56px;}
+.meganav a{text-decoration:none;}
+.meganav .mn-logo{display:flex;align-items:center;gap:8px;flex:0 0 auto;}
+.meganav .mn-ls{font-weight:900;font-size:24px;line-height:.9;
+  background:linear-gradient(165deg,var(--sg-hi) 10%,var(--sg-deep) 90%);
+  -webkit-background-clip:text;background-clip:text;color:transparent;}
+html[data-theme="light"] .meganav .mn-ls{background:linear-gradient(165deg,#16a34a 10%,#14532d 90%);-webkit-background-clip:text;background-clip:text;}
+.meganav .mn-lr{display:flex;flex-direction:column;line-height:1.1;}
+.meganav .mn-lr b{font-weight:800;font-size:14.5px;letter-spacing:.02em;color:var(--text,#e7edf3);}
+.meganav .mn-lr i{font-style:normal;font-size:7.5px;letter-spacing:1.4px;color:var(--faint,#5a6573);font-weight:700;}
+.meganav .mn-beta{font-style:normal;font-size:9px;font-weight:800;letter-spacing:.8px;color:var(--ramber);border:1px solid var(--ramber-border);border-radius:5px;padding:2px 5px;margin-left:2px;}
+.meganav .mn-nav{display:flex;align-items:center;gap:2px;flex:1 1 auto;min-width:0;}
+.meganav .mn-top{appearance:none;background:none;border:0;font:inherit;cursor:pointer;padding:19px 11px;font-size:13.5px;font-weight:600;color:var(--muted,#8895a4);letter-spacing:.2px;border-bottom:2px solid transparent;white-space:nowrap;}
+.meganav .mn-item:hover>.mn-top,.meganav .mn-item.open>.mn-top{color:var(--text,#e7edf3);}
+.meganav .mn-item.on>.mn-top{color:var(--text,#e7edf3);border-bottom-color:var(--sg);}
+.meganav .mn-item{position:static;}
+.meganav .mn-panel{display:none;position:absolute;left:0;right:0;top:56px;background:var(--panel,#111822);border-bottom:1px solid var(--border,#1d2733);box-shadow:0 18px 40px rgba(0,0,0,.45);padding:20px 0 22px;}
+.meganav .mn-item.open>.mn-panel{display:block;}
+@media(hover:hover) and (min-width:1021px){.meganav .mn-item:hover>.mn-panel{display:block;}}
+.meganav .mn-pin{max-width:1680px;margin:0 auto;padding:0 clamp(16px,2vw,40px);}
+.meganav .mn-desc{margin:0 0 14px;font-size:12px;color:var(--faint,#5a6573);font-weight:500;max-width:640px;}
+.meganav .mn-links{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:4px 26px;}
+.meganav .mn-links.mn-w2{grid-template-columns:repeat(2,minmax(0,1fr));max-width:640px;}
+.meganav .mn-link{display:block;padding:9px 10px;border-radius:9px;}
+.meganav .mn-link:hover{background:var(--elev,#16202b);}
+.meganav .mn-link b{display:block;font-size:13.5px;font-weight:700;color:var(--text,#e7edf3);}
+.meganav .mn-link span{display:block;margin-top:2px;font-size:12px;line-height:1.45;color:var(--muted,#8895a4);font-weight:400;}
+.meganav .mn-off{display:block;padding:9px 10px;font-size:13.5px;font-weight:700;color:var(--faint,#5a6573);}
+.meganav .mn-b{font-style:normal;font-size:9.5px;font-weight:800;letter-spacing:.6px;text-transform:uppercase;border-radius:5px;padding:1.5px 6px;margin-left:7px;vertical-align:2px;}
+.meganav .mn-b-live{color:var(--green,#22c55e);border:1px solid rgba(34,197,94,.35);}
+.meganav .mn-b-acct{color:#d9a13c;border:1px solid rgba(217,161,60,.4);}
+.meganav .mn-b-soon{color:var(--faint,#5a6573);border:1px dashed var(--border,#1d2733);}
+.meganav .mn-right{display:flex;align-items:center;gap:10px;flex:0 0 auto;margin-left:auto;}
+.meganav .mn-search{position:relative;}
+.meganav .mn-search .box{display:flex;align-items:center;gap:7px;background:var(--elev,#16202b);border:1px solid var(--border,#1d2733);border-radius:9px;padding:6px 10px;color:var(--faint,#5a6573);}
+.meganav .mn-search input{background:none;border:0;outline:0;color:var(--text,#e7edf3);font:inherit;font-size:13px;width:clamp(140px,14vw,220px);}
+.meganav .mn-search .kbd{font-size:10px;border:1px solid var(--border,#1d2733);border-radius:4px;padding:0 5px;color:var(--faint,#5a6573);}
+.meganav .mn-search .drop{position:absolute;right:0;top:40px;width:330px;max-width:calc(100vw - 24px);background:var(--panel,#111822);border:1px solid var(--border,#1d2733);border-radius:11px;box-shadow:0 16px 34px rgba(0,0,0,.5);overflow:hidden;z-index:70;}
+.meganav .mn-search .sg{display:flex;align-items:center;gap:9px;padding:8px 11px;cursor:pointer;font-size:13px;}
+.meganav .mn-search .sg.active,.meganav .mn-search .sg:hover{background:var(--elev,#16202b);}
+.meganav .mn-search .sg img{width:18px;height:18px;border-radius:4px;}
+.meganav .mn-search .sg .tk{font-weight:800;color:var(--text,#e7edf3);min-width:52px;}
+.meganav .mn-search .sg .nm{color:var(--muted,#8895a4);flex:1;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
+.meganav .mn-search .sg .pc{font-weight:700;font-variant-numeric:tabular-nums;}
+.meganav .mn-search .sg .pc.up{color:var(--green,#22c55e);}.meganav .mn-search .sg .pc.down{color:var(--red,#f05a6e);}
+.meganav .mn-asof{display:none;}
+.meganav .mn-theme{appearance:none;background:var(--elev,#16202b);border:1px solid var(--border,#1d2733);border-radius:9px;width:34px;height:34px;display:flex;align-items:center;justify-content:center;cursor:pointer;color:var(--muted,#8895a4);}
+.meganav .mn-theme:hover{color:var(--text,#e7edf3);border-color:var(--accent-border,#1e4634);}
+.meganav .mn-theme .ic-sun{display:none;}
+html[data-theme="light"] .meganav .mn-theme .ic-sun{display:block;}
+html[data-theme="light"] .meganav .mn-theme .ic-moon{display:none;}
+.meganav .mn-signin{font-size:13px;font-weight:700;color:var(--muted,#8895a4);padding:7px 4px;}
+.meganav .mn-signin:hover{color:var(--text,#e7edf3);}
+.meganav .mn-signup{font-size:13px;font-weight:700;color:var(--sg);background:var(--sg-soft);border:1px solid var(--sg-border);border-radius:9px;padding:7px 13px;white-space:nowrap;}
+.meganav .mn-signup:hover{background:var(--sg);color:#04140b;}
+.meganav .mn-burger{appearance:none;background:none;border:1px solid var(--border,#1d2733);border-radius:9px;width:38px;height:36px;display:none;align-items:center;justify-content:center;cursor:pointer;color:var(--text,#e7edf3);}
+.meganav :is(a,button):focus-visible{outline:2px solid var(--sg);outline-offset:2px;border-radius:6px;}
+.meganav .mn-search .box:focus-within{border-color:var(--sg-border);}
+/* drawer */
+.meganav .mn-drawer{display:none;position:fixed;inset:0;z-index:80;background:var(--bg,#0a0e13);overflow-y:auto;padding:0 16px 28px;}
+.meganav .mn-drawer.open{display:block;}
+.meganav .mnd-head{display:flex;align-items:center;justify-content:space-between;height:56px;margin-bottom:6px;}
+.meganav .mnd-close{appearance:none;background:none;border:1px solid var(--border,#1d2733);border-radius:9px;width:38px;height:36px;font-size:17px;color:var(--text,#e7edf3);cursor:pointer;}
+.meganav .mnd-quick{display:grid;grid-template-columns:1fr 1fr;gap:9px;margin-bottom:14px;}
+.meganav .mnd-quick a{display:block;text-align:center;padding:11px 8px;border:1px solid var(--border,#1d2733);border-radius:10px;font-size:13.5px;font-weight:700;color:var(--text,#e7edf3);background:var(--panel,#111822);}
+.meganav details.mnd-sec{border-bottom:1px solid var(--border-soft,#161e28);}
+.meganav details.mnd-sec summary{list-style:none;display:flex;justify-content:space-between;align-items:center;padding:14px 2px;font-size:12px;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:var(--muted,#8895a4);cursor:pointer;}
+.meganav details.mnd-sec summary::-webkit-details-marker{display:none;}
+.meganav details.mnd-sec summary::after{content:"+";font-size:16px;color:var(--faint,#5a6573);}
+.meganav details.mnd-sec[open] summary::after{content:"\2212";}
+.meganav .mnd-sec a{display:block;padding:9px 2px 9px 10px;font-size:14px;font-weight:600;color:var(--muted,#8895a4);}
+.meganav .mnd-sec a:active,.meganav .mnd-sec a:hover{color:var(--text,#e7edf3);}
+.meganav .mnd-sec .mn-off{padding:9px 2px 9px 10px;font-size:14px;}
+.meganav .mnd-cta{display:grid;grid-template-columns:1fr 1fr;gap:9px;margin:18px 0 10px;}
+.meganav .mnd-cta a{display:block;text-align:center;padding:12px 8px;border-radius:10px;font-size:14px;font-weight:700;}
+.meganav .mnd-cta .a1{background:var(--sg-soft);border:1px solid var(--sg-border);color:var(--sg);}
+.meganav .mnd-cta .a2{border:1px solid var(--border,#1d2733);color:var(--text,#e7edf3);}
+.meganav .mnd-foot{font-size:11px;color:var(--faint,#5a6573);line-height:1.6;margin-top:6px;}
+.meganav .mn-search--drawer{display:none;margin:0 0 14px;}
+.meganav .mn-search--drawer .box{width:100%;}
+.meganav .mn-search--drawer input{width:100%;}
+@media(max-width:1023px){.meganav .mn-drawer.open .mn-search--drawer{display:block;}}
+.meganav .mnd-theme{appearance:none;width:100%;margin:10px 0 0;padding:12px;border:1px solid var(--border,#1d2733);border-radius:10px;background:var(--panel,#111822);color:var(--muted,#8895a4);font:600 13.5px -apple-system,BlinkMacSystemFont,"Inter","Segoe UI",Roboto,sans-serif;cursor:pointer;}
+.meganav .mnd-theme:hover{color:var(--text,#e7edf3);}
+/* nav collapse ladder: >=1366 shows all six groups; 1024-1365 folds
+   Market Maps + Company into More (they stay in the drawer + footer) */
+.meganav .mn-moreitem{display:none;}
+@media(max-width:1365px){
+  .meganav .mn-collapsible{display:none;}
+  .meganav .mn-moreitem{display:block;}
+}
+@media(max-width:1279px){
+  .meganav .mn-beta{display:none;}
+  .meganav .mn-top{padding:19px 9px;font-size:13px;}
+  .meganav .mn-in{gap:12px;}
+  /* search collapses to an icon button; nav.js expands it on demand */
+  .meganav .mn-search:not(.open) input,
+  .meganav .mn-search:not(.open) .kbd{display:none;}
+  .meganav .mn-search:not(.open) .box{width:34px;height:34px;justify-content:center;padding:0;cursor:pointer;}
+  .meganav .mn-search.open input{width:150px;}
+}
+@media(max-width:1023px){
+  .meganav .mn-nav{display:none;}
+  .meganav .mn-burger{display:flex;}
+  .meganav .mn-signin{display:none;}
+  .meganav .mn-search{display:none;}
+  .meganav .mn-theme{display:none;}
+  .meganav #reload{display:none;}
+}
+@media(max-width:760px){
+  .meganav .mn-asof{display:none;}
+  .meganav .mn-signup{display:none;}
+  /* signed-out auth buttons (incl. accounts.js-rendered) live in the drawer
+     on small screens; only the logged-in account chip stays in the bar */
+  .meganav #santro-auth-slot #sa-signin,.meganav #santro-auth-slot .sa-signupbtn{display:none;}
+  .meganav .mn-search input{width:64px;}
+  .meganav .mn-search .kbd{display:none;}
+  .meganav .mn-in{gap:8px;padding:0 12px;}
+  .meganav .mn-right{gap:7px;}
+}
+@media(max-width:479px){
+  /* compact logo for ALL phone widths — the old 389px cutoff missed 390px
+     (iPhone 12-15) by one pixel and the right cluster overflowed the page */
+  .meganav .mn-beta{display:none;}
+  .meganav .mn-lr i{display:none;}
+  .meganav .mn-search input{width:52px;}
+}
+</style>
+<div class="mn-in">
+  <a class="mn-logo" href="/" aria-label="Santro AI — home">
+    <span class="mn-ls">S</span>
+    <span class="mn-lr"><b>Santro&nbsp;AI</b><i>THE&nbsp;AI&nbsp;TRADE&nbsp;TERMINAL</i></span>
+    <em class="mn-beta">Beta</em>
+  </a>
+  <nav class="mn-nav" aria-label="Main">
+    <div class="mn-item" data-menu="terminal">
+      <button class="mn-top" type="button" aria-expanded="false" aria-haspopup="true">Terminal</button>
+      <div class="mn-panel"><div class="mn-pin"><p class="mn-desc">The main Santro market view across AI stocks, ETFs, crypto, hot tickers, and bubble-risk signals.</p><div class="mn-links">
+        <a class="mn-link" href="/terminal"><b>AI Terminal<em class="mn-b mn-b-live">Beta</em></b><span>Bubble map, market tape, hot tickers, and the daily brief.</span></a>
+        <a class="mn-link" href="/stocks"><b>AI Stocks</b><span>101 AI names ranked by heat, research on every ticker.</span></a>
+        <a class="mn-link" href="/crypto"><b>AI Crypto</b><span>AI tokens and rotating crypto baskets.</span></a>
+        <a class="mn-link" href="/etfs"><b>AI ETFs</b><span>40 AI &amp; tech ETFs, broad tech to pure-play robotics.</span></a>
+        <a class="mn-link" href="/news"><b>Market News</b><span>Headlines that move the AI trade.</span></a>
+      </div></div></div>
+    </div><div class="mn-item on" data-menu="tools">
+      <button class="mn-top" type="button" aria-expanded="false" aria-haspopup="true">Tools</button>
+      <div class="mn-panel"><div class="mn-pin"><p class="mn-desc">Every tool is free while Santro is in beta. Scenario outputs, not price targets.</p><div class="mn-links">
+        <a class="mn-link" href="/bubble"><b>AI Bubble Risk<em class="mn-b mn-b-live">Beta</em></b><span>Valuation, momentum, and crowding signals in one gauge.</span></a>
+        <a class="mn-link" href="/bubble#stress"><b>Portfolio Stress Test<em class="mn-b mn-b-live">Beta</em></b><span>Six historical crash scenarios against your portfolio.</span></a>
+        <a class="mn-link" href="/tools/fair-value-calculator"><b>Fair-Value Calculator<em class="mn-b mn-b-live">Beta</em></b><span>DCF, P/E, Graham, and PEG scenario values for any AI ticker.</span></a>
+        <a class="mn-link" href="/quiz"><b>Exposure Check<em class="mn-b mn-b-acct">Account</em></b><span>Calibrate your terminal — universe, concentration, valuation lens, risk watch.</span></a>
+        <a class="mn-link" href="/share"><b>Share Cards<em class="mn-b mn-b-live">Beta</em></b><span>Terminal-grade market cards you can post anywhere.</span></a>
+        <a class="mn-link" href="/evaluate-prompt"><b>Prompt Quality Check<em class="mn-b mn-b-live">Beta</em></b><span>Score any AI trading prompt before you trust it.</span></a>
+        <a class="mn-link" href="/signup"><b>Watchlists &amp; Alerts<em class="mn-b mn-b-acct">Account</em></b><span>Track tickers and get level alerts with a free account.</span></a>
+      </div></div></div>
+    </div><div class="mn-item" data-menu="research">
+      <button class="mn-top" type="button" aria-expanded="false" aria-haspopup="true">Research</button>
+      <div class="mn-panel"><div class="mn-pin"><p class="mn-desc">Filing-verified research. Tweets are leads; filings are sources.</p><div class="mn-links">
+        <a class="mn-link" href="/research"><b>Research Feed</b><span>Curated notes on the AI trade, updated through the day.</span></a>
+        <a class="mn-link" href="/blog"><b>Blog</b><span>Long-form pieces on bubbles, valuation, and AI credit.</span></a>
+        <a class="mn-link" href="/blog/ai-bubble-valuation-history"><b>AI Bubble or Market Reset?</b><span>The flagship read: CAPE, real-terms history, dot-com lessons.</span></a>
+        <a class="mn-link" href="/ipos"><b>IPO Watch</b><span>From pre-filing to priced — 10 AI names, filings verified on EDGAR where public.</span></a>
+        <a class="mn-link" href="/investor-signals"><b>Investor Signal Library<em class="mn-b mn-b-live">Beta</em></b><span>Publicly disclosed positioning, mapped to AI market context.</span></a>
+        <a class="mn-link" href="/stocks/aschenbrenner"><b>Aschenbrenner Basket</b><span>Situational Awareness LP&#x27;s 13F, position by position.</span></a>
+        <a class="mn-link" href="/stocks/burry-short-watch"><b>Burry Short Watch</b><span>Scion&#x27;s disclosed AI puts, verified in filings.</span></a>
+      </div></div></div>
+    </div><div class="mn-item" data-menu="universe">
+      <button class="mn-top" type="button" aria-expanded="false" aria-haspopup="true">AI Universe</button>
+      <div class="mn-panel"><div class="mn-pin"><p class="mn-desc">101 tickers across 8 themes. Hot means attention, not direction.</p><div class="mn-links">
+        <a class="mn-link" href="/stocks"><b>All AI Stocks</b><span>The full universe, ranked by heat.</span></a>
+        <a class="mn-link" href="/stocks/themes/ai-chips-and-compute"><b>AI Chips &amp; Compute</b><span>NVDA, AMD, AVGO and the accelerator complex.</span></a>
+        <a class="mn-link" href="/stocks/themes/ai-software-and-cloud-infrastructure"><b>AI Software &amp; Cloud</b><span>Hyperscalers and the model platforms.</span></a>
+        <a class="mn-link" href="/stocks/themes/powering-ai"><b>Powering AI</b><span>Nuclear, turbines, uranium &amp; the grid behind AI.</span></a>
+        <a class="mn-link" href="/stocks/themes/data-center-power-and-energy"><b>Data-Center Power &amp; Energy</b><span>The electrons behind the GPUs.</span></a>
+        <a class="mn-link" href="/stocks/themes/chip-equipment-and-ai-hardware"><b>Chip Equipment &amp; AI Hardware</b><span>ASML, memory, and the fab supply chain.</span></a>
+        <a class="mn-link" href="/stocks/themes/ai-platforms-internet-and-adtech"><b>AI Platforms &amp; Adtech</b><span>Internet platforms monetizing AI.</span></a>
+        <a class="mn-link" href="/stocks/themes/ai-applications-and-data-software"><b>AI Apps &amp; Data Software</b><span>Applied AI and the data layer.</span></a>
+        <a class="mn-link" href="/stocks/themes/applied-ai-industrial-defense-and-vertical"><b>Applied AI, Industrial &amp; Defense</b><span>Robotics, defense, and vertical AI.</span></a>
+      </div></div></div>
+    </div><div class="mn-item mn-collapsible" data-menu="maps">
+      <button class="mn-top" type="button" aria-expanded="false" aria-haspopup="true">Market Maps</button>
+      <div class="mn-panel"><div class="mn-pin"><p class="mn-desc">Visual entry points into the same delayed data.</p><div class="mn-links mn-w2">
+        <a class="mn-link" href="/terminal"><b>Stock Bubble Map</b><span>101 bubbles sized by the day&#x27;s move, colored by direction.</span></a>
+        <a class="mn-link" href="/crypto"><b>Crypto Movers</b><span>AI tokens ranked by momentum.</span></a>
+        <a class="mn-link" href="/etfs"><b>ETF Map</b><span>Overlap-aware list of the AI ETF complex.</span></a>
+        <a class="mn-link" href="/bubble"><b>Bubble-Risk Gauge</b><span>One dial for the whole AI trade.</span></a>
+        <a class="mn-link" href="/ipos"><b>IPO Pipeline</b><span>Who is filing, who is rumored, who is priced.</span></a>
+      </div></div></div>
+    </div><div class="mn-item mn-collapsible" data-menu="company">
+      <button class="mn-top" type="button" aria-expanded="false" aria-haspopup="true">Company</button>
+      <div class="mn-panel"><div class="mn-pin"><div class="mn-links mn-w2">
+        <a href="/about">About Santro AI</a>
+        <a href="mailto:hello@santroai.tech">Contact</a>
+        <a href="/privacy">Privacy Policy</a>
+        <a href="/terms">Terms of Use</a>
+        <a href="https://x.com/SantroAI" target="_blank" rel="noopener">@SantroAI on X</a>
+        <span class="mn-off">iOS app<em class="mn-b mn-b-soon">Coming soon</em></span>
+        <span class="mn-off">Santro Pro<em class="mn-b mn-b-soon">Coming soon</em></span>
+      </div></div></div>
+    </div><div class="mn-item mn-moreitem" data-menu="more">
+      <button class="mn-top" type="button" aria-expanded="false" aria-haspopup="true">More</button>
+      <div class="mn-panel"><div class="mn-pin"><p class="mn-desc">Maps, company and legal.</p><div class="mn-links">
+        <a class="mn-link" href="/terminal"><b>Stock Bubble Map</b><span>101 bubbles sized by the day&#x27;s move, colored by direction.</span></a>
+        <a class="mn-link" href="/crypto"><b>Crypto Movers</b><span>AI tokens ranked by momentum.</span></a>
+        <a class="mn-link" href="/etfs"><b>ETF Map</b><span>Overlap-aware list of the AI ETF complex.</span></a>
+        <a class="mn-link" href="/bubble"><b>Bubble-Risk Gauge</b><span>One dial for the whole AI trade.</span></a>
+        <a class="mn-link" href="/ipos"><b>IPO Pipeline</b><span>Who is filing, who is rumored, who is priced.</span></a>
+        <a href="/about">About Santro AI</a>
+        <a href="mailto:hello@santroai.tech">Contact</a>
+        <a href="/privacy">Privacy Policy</a>
+        <a href="/terms">Terms of Use</a>
+        <a href="https://x.com/SantroAI" target="_blank" rel="noopener">@SantroAI on X</a>
+        <span class="mn-off">iOS app<em class="mn-b mn-b-soon">Coming soon</em></span>
+        <span class="mn-off">Santro Pro<em class="mn-b mn-b-soon">Coming soon</em></span>
+      </div></div></div>
+    </div>
+  </nav>
+  <div class="mn-right">
+    <div class="mn-search"></div>
+    <span class="mn-asof"></span>
+    <button class="mn-theme" title="Switch day / night mode" aria-label="Toggle day or night mode"><svg class="ic-moon" viewBox="0 0 24 24" width="15" height="15" fill="currentColor" aria-hidden="true"><path d="M20 14.5A8.5 8.5 0 0 1 9.5 4 8.5 8.5 0 1 0 20 14.5Z"/></svg><svg class="ic-sun" viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true"><circle cx="12" cy="12" r="4.1"/><path d="M12 2.6v2.1M12 19.3v2.1M2.6 12h2.1M19.3 12h2.1M5.2 5.2l1.5 1.5M17.3 17.3l1.5 1.5M18.8 5.2l-1.5 1.5M6.7 17.3l-1.5 1.5"/></svg></button>
+    <span id="santro-auth-slot"><a class="mn-signin" href="/signin">Sign in</a><a class="mn-signup" href="/signup">Sign up</a></span>
+    <button class="mn-burger" type="button" aria-label="Open menu" aria-expanded="false" aria-controls="mn-drawer"><svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="M3 6h18M3 12h18M3 18h18"/></svg></button>
+  </div>
+</div>
+<div class="mn-drawer" id="mn-drawer" role="dialog" aria-label="Menu" aria-modal="true">
+  <div class="mnd-head">
+    <span class="mn-ls">S</span>
+    <button class="mnd-close" type="button" aria-label="Close menu">✕</button>
+  </div>
+  <div class="mn-search mn-search--drawer"></div>
+  <div class="mnd-quick">
+    <a href="/terminal">AI Terminal</a><a href="/stocks">AI Stocks</a>
+    <a href="/crypto">AI Crypto</a><a href="/etfs">AI ETFs</a>
+  </div>
+  <details class="mnd-sec"><summary>Terminal</summary>
+      <a href="/terminal">AI Terminal<em class="mn-b mn-b-live">Beta</em></a>
+        <a href="/stocks">AI Stocks</a>
+        <a href="/crypto">AI Crypto</a>
+        <a href="/etfs">AI ETFs</a>
+        <a href="/news">Market News</a>
+    </details><details class="mnd-sec"><summary>Tools</summary>
+      <a href="/bubble">AI Bubble Risk<em class="mn-b mn-b-live">Beta</em></a>
+        <a href="/bubble#stress">Portfolio Stress Test<em class="mn-b mn-b-live">Beta</em></a>
+        <a href="/tools/fair-value-calculator">Fair-Value Calculator<em class="mn-b mn-b-live">Beta</em></a>
+        <a href="/quiz">Exposure Check<em class="mn-b mn-b-acct">Account</em></a>
+        <a href="/share">Share Cards<em class="mn-b mn-b-live">Beta</em></a>
+        <a href="/evaluate-prompt">Prompt Quality Check<em class="mn-b mn-b-live">Beta</em></a>
+        <a href="/signup">Watchlists &amp; Alerts<em class="mn-b mn-b-acct">Account</em></a>
+    </details><details class="mnd-sec"><summary>Research</summary>
+      <a href="/research">Research Feed</a>
+        <a href="/blog">Blog</a>
+        <a href="/blog/ai-bubble-valuation-history">AI Bubble or Market Reset?</a>
+        <a href="/ipos">IPO Watch</a>
+        <a href="/investor-signals">Investor Signal Library<em class="mn-b mn-b-live">Beta</em></a>
+        <a href="/stocks/aschenbrenner">Aschenbrenner Basket</a>
+        <a href="/stocks/burry-short-watch">Burry Short Watch</a>
+    </details><details class="mnd-sec"><summary>AI Universe</summary>
+      <a href="/stocks">All AI Stocks</a>
+        <a href="/stocks/themes/ai-chips-and-compute">AI Chips &amp; Compute</a>
+        <a href="/stocks/themes/ai-software-and-cloud-infrastructure">AI Software &amp; Cloud</a>
+        <a href="/stocks/themes/powering-ai">Powering AI</a>
+        <a href="/stocks/themes/data-center-power-and-energy">Data-Center Power &amp; Energy</a>
+        <a href="/stocks/themes/chip-equipment-and-ai-hardware">Chip Equipment &amp; AI Hardware</a>
+        <a href="/stocks/themes/ai-platforms-internet-and-adtech">AI Platforms &amp; Adtech</a>
+        <a href="/stocks/themes/ai-applications-and-data-software">AI Apps &amp; Data Software</a>
+        <a href="/stocks/themes/applied-ai-industrial-defense-and-vertical">Applied AI, Industrial &amp; Defense</a>
+    </details><details class="mnd-sec"><summary>Market Maps</summary>
+      <a href="/terminal">Stock Bubble Map</a>
+        <a href="/crypto">Crypto Movers</a>
+        <a href="/etfs">ETF Map</a>
+        <a href="/bubble">Bubble-Risk Gauge</a>
+        <a href="/ipos">IPO Pipeline</a>
+    </details><details class="mnd-sec"><summary>Company</summary>
+      <a href="/about">About Santro AI</a>
+        <a href="mailto:hello@santroai.tech">Contact</a>
+        <a href="/privacy">Privacy Policy</a>
+        <a href="/terms">Terms of Use</a>
+        <a href="https://x.com/SantroAI" target="_blank" rel="noopener">@SantroAI on X</a>
+        <span class="mn-off">iOS app<em class="mn-b mn-b-soon">Coming soon</em></span>
+        <span class="mn-off">Santro Pro<em class="mn-b mn-b-soon">Coming soon</em></span>
+    </details>
+  <div class="mnd-cta">
+    <a class="a1" href="/signup">Create free account</a>
+    <a class="a2" href="/signin">Sign in</a>
+  </div>
+  <button class="mnd-theme" type="button">Switch day / night mode</button>
+  <p class="mnd-foot">Hot means attention, not direction.<br>Quotes delayed ~15 min. Real-time data planned for Pro. Not financial advice.</p>
+</div>
+<script src="/nav.js?v=9" defer></script>
+</header>
+
+  <main>
+  <nav class="sa-crumb" aria-label="Breadcrumb"><a href="/">Home</a> › AI Bubble Risk</nav>
+    <h1>AI Bubble metrics <span class="badge" id="asof">…</span></h1>
+    <p class="lede">One number for the question everyone asks: <b>how bubbly is the AI market?</b>
+    A composite 0–100 bubble-risk index built from five pillars — valuation, market concentration,
+    momentum &amp; technical, sentiment &amp; hype and systemic risk — with 180 days of history. Higher = frothier.
+    Index data courtesy of <a href="https://aibubblemonitor.com" target="_blank" rel="noopener"><b>AI
+    Bubble Monitor</b></a>. Not financial advice.</p>
+
+    <div class="sc-grid" id="gauge"><div class="sc big"><div class="n">…</div><div class="k">Loading</div></div></div>
+
+    <div class="histwrap">
+      <div style="font-size:10px;letter-spacing:.7px;text-transform:uppercase;color:var(--faint);font-weight:700;margin-bottom:10px">Last 180 days</div>
+      <div id="hist"></div>
+    </div>
+
+    <section style="margin-top:24px">
+      <h2 style="font-size:14px;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);margin:0 0 12px">How to read the score</h2>
+      <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px">
+        <div style="background:var(--panel);border:1px solid var(--border);border-top:3px solid #22c55e;border-radius:10px;padding:12px 14px"><b style="color:#22c55e">0–25 · Cold</b><div style="font-size:12.5px;color:var(--muted);line-height:1.5;margin-top:3px">Washed out or complacent — little speculative pressure.</div></div>
+        <div style="background:var(--panel);border:1px solid var(--border);border-top:3px solid #69cd91;border-radius:10px;padding:12px 14px"><b style="color:#69cd91">25–50 · Neutral</b><div style="font-size:12.5px;color:var(--muted);line-height:1.5;margin-top:3px">Normal conditions — risk neither cheap nor stretched.</div></div>
+        <div style="background:var(--panel);border:1px solid var(--border);border-top:3px solid #e0a73f;border-radius:10px;padding:12px 14px"><b style="color:#e0a73f">50–75 · Heating up</b><div style="font-size:12.5px;color:var(--muted);line-height:1.5;margin-top:3px">Speculative pressure building — froth starting to show.</div></div>
+        <div style="background:var(--panel);border:1px solid var(--border);border-top:3px solid #f05a6e;border-radius:10px;padding:12px 14px"><b style="color:#f05a6e">75–100 · Mania risk</b><div style="font-size:12.5px;color:var(--muted);line-height:1.5;margin-top:3px">Crowding extreme — the late-stage zone.</div></div>
+      </div>
+      <p style="font-size:13.5px;color:var(--muted);line-height:1.6;margin:14px 0 0;max-width:880px">
+      <b style="color:#e0a73f">⚠ Higher does not mean short. Lower does not mean buy.</b> The index is a
+      <b>crowding gauge</b> — it shows how stretched the AI trade is, not which way it goes next. Hot means attention, not direction.</p>
+      <div style="margin-top:14px"><a href="/share?card=risk" style="display:inline-flex;align-items:center;gap:6px;padding:10px 15px;border-radius:10px;font-size:13px;font-weight:700;text-decoration:none;background:#22c55e;color:#04140b">Share the bubble-risk card ↗</a></div>
+    </section>
+
+    <div class="bubnews" id="bubnews"></div>
+
+    <p class="src">Source: <a href="https://aibubblemonitor.com" target="_blank" rel="noopener">aibubblemonitor.com</a>
+    — the AI Bubble Index and its methodology belong to AI Bubble Monitor; Santro AI mirrors the
+    published values with attribution. Index updates daily.</p>
+
+
+    <!-- ── portfolio AI bubble stress test (premium module; engine: /stress-test.js) ── -->
+    <style>
+      #stress{margin-top:38px;}
+      #stress .st-h2{font-size:21px;margin:0 0 3px;letter-spacing:-.3px;}
+      #stress .st-sub{color:var(--muted);font-size:13.5px;line-height:1.6;max-width:760px;margin:0 0 3px;}
+      #stress .st-priv{color:var(--faint);font-size:11.5px;margin:0 0 14px;}
+      .st-wrap{display:grid;grid-template-columns:1.15fr .85fr;gap:14px;}
+      .st-panel{background:var(--panel);border:1px solid var(--border);border-radius:14px;padding:16px 17px;}
+      .st-lbl{font-size:10px;letter-spacing:.7px;text-transform:uppercase;color:var(--faint);font-weight:700;margin:0 0 9px;}
+      .st-tabs{display:flex;gap:6px;margin-bottom:11px;flex-wrap:wrap;}
+      .st-tab{font:inherit;font-size:12px;font-weight:700;padding:7px 13px;border-radius:8px;cursor:pointer;
+        background:var(--elev);color:var(--muted);border:1px solid var(--border-soft);}
+      .st-tab.on{background:rgba(224,167,63,.12);color:#e0a73f;border-color:rgba(224,167,63,.4);}
+      .st-ta{width:100%;box-sizing:border-box;background:#0d1117;border:1px solid var(--border);border-radius:10px;
+        color:var(--text);font:13px/1.6 ui-monospace,SFMono-Regular,Menlo,monospace;padding:12px 13px;resize:vertical;min-height:84px;}
+      html[data-theme="light"] .st-ta{background:#f2f4f8;}
+      .st-ta:focus{outline:none;border-color:rgba(224,167,63,.5);}
+      .st-help{font-size:11px;color:var(--faint);margin:7px 0 0;line-height:1.6;}
+      .st-help code{color:var(--muted);background:var(--elev);padding:1px 5px;border-radius:4px;}
+      .st-chips{display:flex;gap:6px;flex-wrap:wrap;margin:10px 0 0;}
+      .st-chip{font:inherit;font-size:11.5px;font-weight:700;padding:7px 11px;border-radius:999px;cursor:pointer;
+        background:var(--elev);color:var(--muted);border:1px solid var(--border-soft);}
+      .st-chip:hover{color:#e0a73f;border-color:rgba(224,167,63,.4);}
+      .st-check{display:flex;gap:8px;flex-wrap:wrap;margin:11px 0 0;min-height:22px;}
+      .st-pill{font-size:11px;font-weight:700;padding:4px 10px;border-radius:999px;background:var(--elev);
+        color:var(--muted);border:1px solid var(--border-soft);}
+      .st-pill.warn{color:#e0a73f;border-color:rgba(224,167,63,.35);}
+      .st-pill.bad{color:#f0596e;border-color:rgba(240,89,110,.35);}
+      .st-pill.ok{color:#22c55e;border-color:rgba(34,197,94,.3);}
+      .st-actions{display:flex;gap:9px;margin-top:13px;flex-wrap:wrap;}
+      .st-run{font:inherit;font-weight:800;font-size:14px;letter-spacing:.2px;background:linear-gradient(135deg,#e0a73f,#c98a1e);
+        color:#171205;border:0;border-radius:10px;padding:13px 22px;cursor:pointer;min-height:47px;}
+      .st-run:hover{filter:brightness(1.07);}
+      .st-ghost{font:inherit;font-weight:700;font-size:13px;background:var(--elev);color:var(--muted);
+        border:1px solid var(--border-soft);border-radius:10px;padding:12px 16px;cursor:pointer;}
+      .st-prev{display:grid;gap:8px;}
+      .st-prevcard{background:var(--elev);border:1px solid var(--border-soft);border-radius:10px;padding:10px 12px;}
+      .st-prevcard b{font-size:12.5px;color:var(--text);}
+      .st-prevcard p{font-size:11px;color:var(--muted);margin:3px 0 0;line-height:1.5;}
+      .st-sev{float:right;font-size:9.5px;font-weight:800;letter-spacing:.5px;text-transform:uppercase;padding:2px 7px;border-radius:5px;}
+      .st-sev.mod{background:rgba(224,167,63,.12);color:#e0a73f;}
+      .st-sev.high{background:rgba(240,89,110,.12);color:#f0596e;}
+      .st-sev.tail{background:rgba(185,28,28,.18);color:#f08a8a;}
+      /* manual rows */
+      .st-rows{display:grid;gap:6px;}
+      .st-row{display:grid;grid-template-columns:1.2fr .9fr .7fr 34px;gap:6px;}
+      .st-row input,.st-row select{font:inherit;font-size:12.5px;background:#0d1117;border:1px solid var(--border-soft);
+        border-radius:8px;color:var(--text);padding:9px 10px;min-width:0;}
+      html[data-theme="light"] .st-row input,html[data-theme="light"] .st-row select{background:#f2f4f8;}
+      .st-row button{background:var(--elev);border:1px solid var(--border-soft);border-radius:8px;color:#f0596e;cursor:pointer;font-size:14px;}
+      .st-addrow{font:inherit;font-size:12px;font-weight:700;background:none;border:1px dashed var(--border);border-radius:8px;
+        color:var(--muted);padding:9px;cursor:pointer;margin-top:6px;width:100%;}
+      /* analyzing */
+      .st-scan{background:var(--panel);border:1px solid var(--border);border-radius:14px;padding:22px;}
+      .st-scanbar{height:6px;background:var(--elev);border-radius:999px;overflow:hidden;margin:14px 0 12px;}
+      .st-scanbar i{display:block;height:100%;background:linear-gradient(90deg,#e0a73f,#f0596e);border-radius:999px;width:0%;transition:width .28s ease;}
+      .st-steps{display:grid;gap:6px;font:12px ui-monospace,monospace;color:var(--faint);}
+      .st-steps .done{color:#22c55e;}
+      .st-steps .cur{color:#e0a73f;}
+      /* dashboard */
+      .st-stats{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin-bottom:12px;}
+      .st-stat{background:var(--panel);border:1px solid var(--border);border-radius:13px;padding:14px 15px;min-width:0;}
+      .st-stat .k{font-size:9.5px;letter-spacing:.7px;text-transform:uppercase;color:var(--faint);font-weight:700;}
+      .st-stat .v{font-size:clamp(20px,2vw,28px);font-weight:800;margin-top:5px;letter-spacing:-.5px;}
+      .st-stat .s{font-size:11px;color:var(--muted);margin-top:3px;line-height:1.45;}
+      .st-gauge{height:8px;background:var(--elev);border-radius:999px;overflow:hidden;margin-top:8px;}
+      .st-gauge i{display:block;height:100%;border-radius:999px;}
+      .st-sec{margin-top:16px;}
+      .st-sec h3{font-size:11px;letter-spacing:.7px;text-transform:uppercase;color:var(--faint);font-weight:800;margin:0 0 8px;}
+      .st-matrix{display:grid;gap:8px;}
+      .st-mrow{display:grid;grid-template-columns:1.1fr .9fr 1fr 1.6fr;gap:12px;align-items:center;
+        background:var(--panel);border:1px solid var(--border-soft);border-radius:11px;padding:12px 15px;}
+      .st-mrow .nm{font-size:13px;font-weight:700;color:var(--text);}
+      .st-mrow .rng{font-size:17px;font-weight:800;color:#f0596e;white-space:nowrap;}
+      .st-mrow .rng small{font-size:11px;color:var(--faint);font-weight:600;}
+      .st-rbar{height:5px;background:var(--elev);border-radius:999px;overflow:hidden;margin-top:5px;max-width:150px;}
+      .st-rbar i{display:block;height:100%;background:linear-gradient(90deg,#e0a73f,#b91c1c);border-radius:999px;}
+      .st-mrow .src{font-size:11px;color:var(--muted);line-height:1.5;}
+      .st-mrow .why{font-size:11px;color:var(--faint);line-height:1.55;}
+      .st-buckets{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:8px;}
+      .st-bk{background:var(--panel);border:1px solid var(--border-soft);border-radius:11px;padding:11px 13px;min-width:0;}
+      .st-bk b{font-size:12.5px;color:var(--text);display:flex;justify-content:space-between;}
+      .st-bk .tk{font-size:10.5px;color:var(--faint);margin-top:4px;line-height:1.5;word-break:break-word;}
+      .st-stack{height:16px;border-radius:999px;overflow:hidden;display:flex;background:var(--elev);margin:4px 0 12px;}
+      .st-frag{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:8px;}
+      .st-fg{background:var(--panel);border:1px solid var(--border-soft);border-radius:11px;padding:11px 13px;border-left:3px solid #e0a73f;}
+      .st-fg.bad{border-left-color:#f0596e;}
+      .st-fg b{color:var(--text);font-size:13px;} .st-fg .w{color:#e0a73f;font-weight:700;font-size:12px;}
+      .st-fg p{font-size:11px;color:var(--muted);margin:4px 0 0;line-height:1.5;}
+      .st-duo{display:grid;grid-template-columns:1fr 1fr;gap:12px;}
+      .st-duo .pane{background:var(--panel);border:1px solid var(--border-soft);border-radius:11px;padding:13px 15px;}
+      .st-duo .pane h4{margin:0 0 9px;font-size:11px;letter-spacing:.1em;text-transform:uppercase;font-weight:800;}
+      .st-duo .hurt h4{color:#f0596e;} .st-duo .cush h4{color:#22c55e;}
+      .st-duo .row{display:flex;justify-content:space-between;gap:10px;padding:7px 0;border-bottom:1px solid var(--border-soft);font-size:12.5px;}
+      .st-duo .row:last-child{border-bottom:0;}
+      .st-duo .row b{color:var(--text);} .st-duo .row span{color:var(--muted);}
+      .st-rel{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin-top:14px;}
+      .st-rel a{display:block;background:var(--panel);border:1px solid var(--border-soft);border-radius:11px;padding:13px 15px;}
+      .st-rel a:hover{border-color:var(--accent-border);}
+      .st-rel .tg{font-size:10px;letter-spacing:.1em;text-transform:uppercase;font-weight:800;}
+      .st-rel b{display:block;color:var(--text);font-size:13.5px;margin:4px 0 3px;}
+      .st-rel p{margin:0;font-size:11.5px;color:var(--muted);line-height:1.5;}
+      @media(max-width:700px){.st-duo{grid-template-columns:1fr;}.st-rel{grid-template-columns:1fr;}}
+      .st-verify{background:var(--panel);border:1px solid var(--border-soft);border-radius:11px;padding:13px 15px;}
+      .st-verify li{font-size:12px;color:var(--muted);line-height:1.9;}
+      .st-verify li::marker{content:"☐  ";color:#e0a73f;}
+      .st-bar2{display:flex;gap:8px;flex-wrap:wrap;margin-top:14px;}
+      .st-bar2 a,.st-bar2 button{font:inherit;font-size:12.5px;font-weight:700;padding:11px 15px;border-radius:10px;
+        cursor:pointer;text-decoration:none;background:var(--elev);color:var(--text);border:1px solid var(--border-soft);}
+      .st-bar2 .amber{background:rgba(224,167,63,.12);color:#e0a73f;border-color:rgba(224,167,63,.4);}
+      .st-note{font-size:11.5px;color:#e0a73f;margin:8px 0 0;}
+      .st-disc{color:var(--faint);font-size:11.5px;margin-top:12px;line-height:1.6;}
+      @media (max-width:860px){
+        .st-wrap{grid-template-columns:1fr;}
+        .st-stats{grid-template-columns:1fr 1fr;}
+        .st-mrow{grid-template-columns:1fr 1fr;row-gap:8px;}
+        .st-mrow .why{grid-column:1/-1;}
+      }
+      @media (max-width:480px){ .st-stats{grid-template-columns:1fr 1fr;} .st-mrow{grid-template-columns:1fr;} }
+    </style>
+    <section id="stress">
+      <h2 class="st-h2">Portfolio AI bubble stress test</h2>
+      <p class="st-sub">Paste your holdings and Santro classifies AI exposure, repeated risk, and scenario
+        drawdowns under bad-weather market conditions — AI bubble burst, dot-com de-rating, 2008 liquidity,
+        2022 rate shock, crypto risk-off, and a depression-style tail.</p>
+      <p class="st-priv">Stress test, not forecast · computed locally in your browser · no brokerage login,
+        no passwords — paste tickers only.</p>
+      <div id="st-stage"></div>
+      <p class="st-disc">This is a stress test, not a forecast. Scenarios are simplified and may not repeat.
+        Weights are optional — if missing, Santro assumes equal weight and labels the assumption. Not financial advice.</p>
+    </section>
+
+  </main>
+
+<style>
+.sa-explainer{max-width:920px;margin:8px auto 0;padding:26px 20px 6px;border-top:1px solid var(--border-soft,#1c2230);}
+.sa-explainer h2{font-size:21px;margin:22px 0 8px;}
+.sa-explainer h3{font-size:16px;margin:18px 0 4px;}
+.sa-explainer p,.sa-explainer li{color:var(--muted,#9aa6b2);font-size:15px;line-height:1.65;}
+.sa-explainer li{margin-bottom:5px;}
+.sa-explainer b{color:var(--text,#e6edf3);}
+.sa-explainer a{color:var(--accent,#22c55e);}
+.sa-explainer .cta{margin-top:16px;}
+.sa-explainer .nfa-note{color:var(--faint,#6b7684);font-size:13px;margin-top:14px;}
+</style>
+<section class="sa-explainer">
+  <h2>How the AI bubble-risk index works</h2>
+  <p>One composite score, <b>0&ndash;100</b>, for the question everyone asks: how stretched is the AI trade right now? It
+    blends five attributed pillars rather than a single gut-feel number:</p>
+  <ul>
+    <li><b>Valuation</b> &mdash; are AI names priced for perfection versus their own history?</li>
+    <li><b>Market concentration</b> &mdash; how much of the move is a handful of mega-caps?</li>
+    <li><b>Momentum &amp; technical</b> &mdash; how extended is the tape above its trend?</li>
+    <li><b>Sentiment</b> &mdash; how euphoric are positioning and the narrative?</li>
+    <li><b>Systemic risk</b> &mdash; how fragile is the plumbing underneath the rally?</li>
+  </ul>
+  <h3>Reading the score</h3>
+  <p>The scale splits into four bands &mdash; roughly <b>0&ndash;25 calm</b>, <b>25&ndash;50 neutral</b>,
+    <b>50&ndash;75 heating up</b> and <b>75&ndash;100 frothy</b>. Higher = frothier.</p>
+  <p><b>This is a weather report, not a trade.</b> A high score does <b>not</b> mean "short it," and a low score does
+    <b>not</b> mean "buy." Bubbles can keep inflating for years, and cheap markets can get cheaper.</p>
+  <p class="cta">See what's driving it on the <a href="/stocks">AI stocks map</a>, read the daily
+    <a href="/research">research</a>, or grab a <a href="/share">bubble-risk share card</a> of the current reading.</p>
+  <p class="cta">Watching the bear case? We track a famous one — source-gated and without hype:
+    the <a href="/stocks/burry-short-watch">Michael Burry AI Short Watch</a> (source-gated bearish AI / semiconductor exposure),
+    alongside the bull side in the <a href="/stocks/aschenbrenner">Aschenbrenner AI infrastructure basket</a>.</p>
+  <p class="nfa-note">Delayed data; transparent, attributed pillars. Not financial advice.</p>
+</section>
+
+
+<section class="sa-grow">
+    <div>
+      <h3>RELATED READING</h3>
+      <ul>
+        <li><a href="/blog/ai-junk-bonds">AI's $32 Billion IOU: the data-center junk-bond table</a></li>
+        <li><a href="/blog/spacex-attention-ai-infrastructure">SpaceX is the attention magnet — the real trade is AI infrastructure</a></li>
+      </ul>
+    </div>
+    <div>
+      <h3>SANTRO AI TOOLS</h3>
+      <ul>
+        <li><a href="/bubble">Check the AI bubble-risk index</a></li>
+        <li><a href="/etfs">Compare AI ETFs</a></li>
+        <li><a href="/crypto">AI crypto movers</a></li>
+        <li><a href="/stocks">AI stocks bubble map</a></li>
+        <li><a href="/stocks/burry-short-watch">Michael Burry AI Short Watch</a></li>
+        <li><a href="/stocks/aschenbrenner">Aschenbrenner AI infrastructure basket</a></li>
+        <li><a href="/share">Create a share card</a></li>
+      </ul>
+    </div>
+    <div class="sa-cta-box">
+      <b>Run the numbers yourself — free.</b>
+      <p>Create a free Santro AI account to run unlimited fair-value valuations, save a watchlist, and keep your valuation history. Five free runs even without an account; no card required.</p>
+      <a class="sa-cta-btn" href="/?auth=register">Create a free account &rarr;</a>
+    </div>
+  </section>
+
+  <!-- mega-footer v1 -->
+<footer class="mega">
+<style>
+footer.mega{display:block;text-align:left;margin-top:48px;padding:0;border-top:1px solid var(--border,#1d2733);background:transparent;font-family:var(--font-sans, -apple-system,BlinkMacSystemFont,"Inter","Segoe UI",Roboto,Helvetica,Arial,sans-serif);}
+.mega .mg-in{max-width:1680px;margin:0 auto;padding:34px clamp(16px,2vw,40px) 26px;}
+.mega .mg-top{display:flex;justify-content:space-between;align-items:flex-start;gap:28px;flex-wrap:wrap;padding-bottom:26px;border-bottom:1px solid var(--border-soft,#161e28);}
+.mega .mg-logo{font-size:17px;font-weight:800;letter-spacing:.4px;color:var(--text,#e7edf3);}
+.mega .mg-logo span{color:#22c55e;}
+.mega .mg-tag{font-size:11px;font-weight:700;letter-spacing:1.4px;text-transform:uppercase;color:var(--faint,#5a6573);margin-top:2px;}
+.mega .mg-line{margin:10px 0 0;max-width:420px;font-size:13px;line-height:1.55;color:var(--muted,#8895a4);font-weight:400;}
+.mega .mg-slogan{margin:8px 0 0;font-size:12.5px;font-style:italic;color:var(--faint,#5a6573);font-weight:400;}
+.mega .mg-brief{max-width:360px;}
+.mega .mg-btitle{font-size:14px;font-weight:700;color:var(--text,#e7edf3);}
+.mega .mg-bsub{margin:6px 0 12px;font-size:12.5px;line-height:1.5;color:var(--muted,#8895a4);font-weight:400;}
+.mega .mg-brow{display:flex;align-items:center;gap:10px;flex-wrap:wrap;}
+.mega a.mg-cta{display:inline-block;padding:8px 16px;border-radius:9px;background:rgba(34,197,94,.12);border:1px solid rgba(34,197,94,.45);color:#22c55e;font-size:13px;font-weight:700;text-decoration:none;}
+.mega a.mg-cta:hover{background:#22c55e;color:#04140b;}
+.mega .mg-soon{font-size:11.5px;font-weight:600;color:var(--faint,#5a6573);border:1px dashed var(--border,#1d2733);border-radius:999px;padding:5px 10px;white-space:nowrap;}
+.mega .mg-priv{margin:10px 0 0;font-size:11px;line-height:1.5;color:var(--faint,#5a6573);font-weight:400;}
+.mega .mg-priv a{color:var(--muted,#8895a4);font-weight:600;text-decoration:none;}
+.mega .mg-priv a:hover{color:var(--text,#e7edf3);}
+.mega .mg-cols{display:grid;grid-template-columns:repeat(5,1fr);gap:22px;padding:26px 0;border-bottom:1px solid var(--border-soft,#161e28);}
+.mega .mg-col h4{margin:0 0 10px;font-size:11px;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:var(--faint,#5a6573);}
+.mega .mg-col ul{list-style:none;margin:0;padding:0;}
+.mega .mg-col li{margin:0;}
+.mega .mg-col a{display:inline-block;padding:4px 0;font-size:13px;font-weight:500;color:var(--muted,#8895a4);text-decoration:none;}
+.mega .mg-col a:hover{color:var(--text,#e7edf3);}
+.mega .mg-col .mg-off{display:inline-block;padding:4px 0;font-size:13px;color:var(--faint,#5a6573);}
+.mega .mg-bottom{display:flex;justify-content:space-between;align-items:center;gap:8px 24px;flex-wrap:wrap;padding-top:18px;font-size:11.5px;color:var(--faint,#5a6573);}
+.mega .mg-bottom .mg-nfa{color:var(--muted,#8895a4);font-weight:700;font-style:normal;}
+.mega .mg-bottom a{color:var(--muted,#8895a4);font-weight:600;text-decoration:none;padding:2px 0;}
+.mega .mg-bottom a:hover{color:var(--text,#e7edf3);}
+.mega .mg-note{flex-basis:100%;font-size:10.5px;color:var(--faint,#5a6573);opacity:.75;}
+.mega a:focus-visible{outline:2px solid #22c55e;outline-offset:2px;border-radius:4px;}
+@media(max-width:900px){
+  .mega .mg-in{padding:28px 16px 22px;}
+  .mega .mg-top{flex-direction:column;gap:20px;padding-bottom:22px;}
+  .mega .mg-cols{grid-template-columns:repeat(2,1fr);gap:18px 14px;padding:22px 0;}
+  .mega .mg-col a{padding:6px 0;}
+  .mega .mg-bottom{flex-direction:column;align-items:flex-start;gap:8px;}
+}
+@media(max-width:640px){
+  .mega .mg-cols{grid-template-columns:1fr;gap:0;padding:6px 0;}
+  .mega .mg-col{border-bottom:1px solid var(--border-soft,#161e28);}
+  .mega .mg-col:last-child{border-bottom:0;}
+  .mega .mg-col h4{margin:0;padding:14px 2px;display:flex;justify-content:space-between;align-items:center;}
+  .mega .mg-col ul{padding:0 2px 12px;}
+  .mega.mg-acc .mg-col h4{cursor:pointer;}
+  .mega.mg-acc .mg-col h4::after{content:"+";font-size:15px;line-height:1;color:var(--faint,#5a6573);font-weight:600;}
+  .mega.mg-acc .mg-col.open h4::after{content:"\2212";}
+  .mega.mg-acc .mg-col:not(.open) ul{display:none;}
+}
+</style>
+<div class="mg-in">
+  <div class="mg-top">
+    <div class="mg-brand">
+      <div class="mg-logo">Santro <span>AI</span></div>
+      <div class="mg-tag">The AI Trade Terminal</div>
+      <p class="mg-line">The AI trade terminal for stocks, ETFs, crypto, hot tickers, valuation tools, and bubble-risk signals.</p>
+      <p class="mg-slogan">Hot means attention, not direction.</p>
+    </div>
+    <div class="mg-brief">
+      <div class="mg-btitle">Get the AI market brief</div>
+      <p class="mg-bsub">Hot tickers, bubble-risk changes, valuation notes, and AI market research.</p>
+      <div class="mg-brow">
+        <a class="mg-cta" href="/signup">Create a free account</a>
+        <span class="mg-soon">Email brief — coming soon</span>
+      </div>
+      <p class="mg-priv">The brief will be opt-in when it launches, and you can unsubscribe anytime. <a href="/privacy">Privacy</a></p>
+    </div>
+  </div>
+  <div class="mg-cols">
+    <div class="mg-col">
+      <h4>Terminal</h4>
+      <ul>
+        <li><a href="/terminal">AI Terminal</a></li>
+        <li><a href="/stocks">AI Stocks</a></li>
+        <li><a href="/crypto">AI Crypto</a></li>
+        <li><a href="/etfs">AI ETFs</a></li>
+        <li><a href="/bubble">AI Bubble Risk</a></li>
+        <li><a href="/news">Market News</a></li>
+      </ul>
+    </div>
+    <div class="mg-col">
+      <h4>Tools</h4>
+      <ul>
+        <li><a href="/bubble#stress">Portfolio Stress Test</a></li>
+        <li><a href="/quiz">Exposure Check</a></li>
+        <li><a href="/share">Share Cards</a></li>
+        <li><a href="/evaluate-prompt">Prompt Quality Check</a></li>
+        <li><a href="/signup">Watchlists &amp; Alerts — free account</a></li>
+      </ul>
+    </div>
+    <div class="mg-col">
+      <h4>Research</h4>
+      <ul>
+        <li><a href="/research">Research Feed</a></li>
+        <li><a href="/blog">Blog</a></li>
+        <li><a href="/blog/ai-bubble-valuation-history">AI Bubble or Market Reset?</a></li>
+        <li><a href="/ipos">IPO Watch</a></li>
+        <li><a href="/stocks/aschenbrenner">Aschenbrenner Basket</a></li>
+        <li><a href="/stocks/burry-short-watch">Burry Short Watch</a></li>
+      </ul>
+    </div>
+    <div class="mg-col">
+      <h4>AI Themes</h4>
+      <ul>
+        <li><a href="/stocks/themes/ai-chips-and-compute">AI Chips &amp; Compute</a></li>
+        <li><a href="/stocks/themes/ai-software-and-cloud-infrastructure">AI Software &amp; Cloud</a></li>
+        <li><a href="/stocks/themes/powering-ai">Powering AI</a></li>
+        <li><a href="/stocks/themes/data-center-power-and-energy">Data-Center Power &amp; Energy</a></li>
+        <li><a href="/stocks/themes/chip-equipment-and-ai-hardware">Chip Equipment &amp; AI Hardware</a></li>
+        <li><a href="/stocks/themes/ai-platforms-internet-and-adtech">AI Platforms &amp; Adtech</a></li>
+        <li><a href="/stocks/themes/ai-applications-and-data-software">AI Apps &amp; Data Software</a></li>
+      </ul>
+    </div>
+    <div class="mg-col">
+      <h4>Company</h4>
+      <ul>
+        <li><a href="/about">About Santro AI</a></li>
+        <li><a href="/methodology">Methodology</a></li>
+        <li><a href="/research">Data &amp; sources</a></li>
+        <li><a href="mailto:hello@santroai.tech">Contact</a></li>
+        <li><a href="/privacy">Privacy Policy</a></li>
+        <li><a href="/terms">Terms of Use</a></li>
+        <li><a href="https://x.com/SantroAI" target="_blank" rel="noopener">@SantroAI on X</a></li>
+        <li><span class="mg-off">iOS app — coming soon</span></li>
+      </ul>
+    </div>
+  </div>
+  <div class="mg-bottom">
+    <span>© 2026 Santro AI. All rights reserved. Uses custom models.</span>
+    <span>Quotes delayed ~15 min. Real-time data planned for Pro. <b class="mg-nfa">Not financial advice.</b></span>
+    <span><a href="/privacy">Privacy</a> · <a href="/terms">Terms</a> · <a href="mailto:hello@santroai.tech">Contact</a></span>
+    <!--MG_EXTRA-->
+  </div>
+</div>
+<script>(function(){var mq=window.matchMedia("(max-width:640px)");var mega=document.querySelector("footer.mega");if(!mega)return;
+function arm(){if(!mq.matches||mega.classList.contains("mg-acc"))return;mega.classList.add("mg-acc");
+mega.querySelectorAll(".mg-col h4").forEach(function(h){h.setAttribute("role","button");h.setAttribute("tabindex","0");h.setAttribute("aria-expanded","false");
+function t(){if(!mq.matches)return;var c=h.parentElement;c.classList.toggle("open");h.setAttribute("aria-expanded",String(c.classList.contains("open")));}
+h.addEventListener("click",t);h.addEventListener("keydown",function(e){if(e.key==="Enter"||e.key===" "){e.preventDefault();t();}});});}
+arm();mq.addEventListener?mq.addEventListener("change",arm):mq.addListener(arm);})();</script>
+</footer>
+
+<script>
+function riskColor(v){ // 0 cool green → 50 amber → 100 red
+  if(v==null) return "#8895a4";
+  if(v<25) return "#22c55e";
+  if(v<45) return "#69cd91";
+  if(v<60) return "#e0a73f";
+  if(v<80) return "#f05a6e";
+  return "#b91c1c";
+}
+const PILLARS=[["valuation","Valuation"],["capitalFlows","Market Concentration"],["adoption","Momentum & Technical"],
+               ["sentiment","Sentiment & Hype"],["systemicRisk","Systemic Risk"]];
+
+async function load(){
+  let d=null;
+  try{ d=await (await fetch("bubble_index.json?t="+Date.now())).json(); }catch(e){}
+  if(!d||!d.index){ document.getElementById("gauge").textContent="Index feed unavailable."; return; }
+  const ix=d.index;
+  document.getElementById("asof").textContent="Updated "+(ix.timestamp||"").slice(0,10);
+  document.getElementById("gauge").innerHTML=`
+    <div class="sc big" style="border-top-color:${riskColor(ix.overall)}">
+      <div class="n" style="color:${riskColor(ix.overall)}">${Math.round(ix.overall)}</div>
+      <div class="k">AI Bubble Index · ${ix.label||""}</div>
+      <div class="scale"><span class="dot" style="left:${Math.max(0,Math.min(100,ix.overall||0))}%"></span></div>
+      <div class="scale-ends"><span>0 cold</span><span>100 mania</span></div>
+    </div>
+    ${PILLARS.map(([k,nm])=>`
+    <div class="sc" style="border-top-color:${riskColor(ix[k])}">
+      <div class="n" style="color:${riskColor(ix[k])}">${ix[k]==null?"—":Math.round(ix[k])}</div>
+      <div class="k">${nm}</div>
+    </div>`).join("")}`;
+  const h=(d.history||[]).filter(p=>p.v!=null);
+  if(h.length>2){
+    const w=900,ht=140,vs=h.map(p=>p.v),min=Math.min(...vs)-2,max=Math.max(...vs)+2,rng=(max-min)||1;
+    const pts=h.map((p,i)=>`${(i/(h.length-1)*w).toFixed(1)},${(ht-6-((p.v-min)/rng)*(ht-12)).toFixed(1)}`).join(" ");
+    document.getElementById("hist").innerHTML=`
+      <svg width="100%" height="${ht}" viewBox="0 0 ${w} ${ht}" preserveAspectRatio="none" style="display:block">
+        <polyline points="${pts}" fill="none" stroke="#e0a73f" stroke-width="2.5"/></svg>
+      <div style="display:flex;justify-content:space-between;color:var(--faint);font-size:11px;margin-top:6px">
+        <span>${(h[0].t||"").slice(0,10)} · low ${Math.min(...vs)}</span>
+        <span>high ${Math.max(...vs)} · ${(h[h.length-1].t||"").slice(0,10)}</span></div>`;
+  }
+  loadBubbleNews();
+}
+
+// "AI bubble — in the news": pull bubble-themed headlines from our news + ZeroHedge
+// feeds (auto-updating, so the section never goes stale with hardcoded links)
+// finance-specific terms only — generic words (crash/burst/correction) match
+// non-market news (plane crashes, conflicts) and were producing false positives
+const BUBBLE_RX=/\bbubble\b|overvalued|overvaluation|\bvaluation\b|frothy|\bfroth\b|\bmania\b|euphoria|dot[- ]?com|speculative|stretched|priced for perfection|melt[- ]?up|irrational/i;
+function timeAgo(iso){ if(!iso) return ""; const m=Math.round((Date.now()-new Date(iso))/60000);
+  if(isNaN(m)) return ""; if(m<60) return m+"m ago"; const h=Math.round(m/60);
+  if(h<24) return h+"h ago"; return Math.round(h/24)+"d ago"; }
+async function loadBubbleNews(){
+  let news=null, zh=null;
+  try{ news=await (await fetch("news.json?t="+Date.now())).json(); }catch(e){}
+  try{ zh=await (await fetch("zerohedge.json?t="+Date.now())).json(); }catch(e){}
+  const out=[], seen=new Set();
+  const add=(title,link,published,src)=>{
+    const k=(title||"").toLowerCase().slice(0,55);
+    if(title && BUBBLE_RX.test(title) && !seen.has(k)){ seen.add(k); out.push({title,link,published,src}); }
+  };
+  (zh&&zh.items?zh.items:[]).forEach(it=>add(it.title,it.link,it.published,"ZeroHedge"));
+  (news&&news.items?news.items:[]).forEach(it=>add(it.title,it.link,it.published,it.publisher||"News"));
+  const el=document.getElementById("bubnews");
+  if(!out.length){ el.innerHTML=""; return; }
+  el.innerHTML=`<div class="lbl">AI bubble — in the news</div>`+out.slice(0,8).map(it=>`
+    <div class="bn-row"><a href="${it.link||"#"}" target="_blank" rel="noopener">${it.title}</a>
+      <div class="m">${it.src}${it.published?" · "+timeAgo(it.published):""}</div></div>`).join("");
+}
+load(); setInterval(load, 300000);
+</script>
+<script src="/stress-test.js?v=9"></script>
+<script>
+(function(){
+  const stage=document.getElementById("st-stage");
+  if(!stage||!window.SantroStress) return;
+  SantroStress.enrichFromFeeds();   // live universe/crypto merge — rotation-proof
+  const esc=s=>String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+  const pretty=b=>(b||"").replace(/_/g," ").replace(/^ai /,"AI ");
+  const BCOL={ai_semis:"#f0596e",ai_semis_equipment:"#f08a5a",ai_cloud:"#22c55e",ai_data_centers:"#7ce8b1",
+    ai_power_energy:"#e0a73f",ai_software:"#c05af0",ai_cybersecurity:"#5af0c0",ai_robotics:"#f05aa8",
+    ai_etf_concentrated:"#9d5af0",ai_crypto:"#f0d05a",mega_cap_tech:"#69cd91",broad_market:"#22c55e",
+    high_duration_growth:"#f0596e",small_cap_speculative:"#b91c1c",defensive_or_cash:"#6b7684",unknown_asset:"#3a4556"};
+  const SEV={"AI-specific bubble burst":["high","AI narrative"],"Dot-com style AI de-rating":["high","growth multiples"],
+    "2008-style liquidity shock":["high","everything correlated"],"2022-style rate shock":["mod","long duration"],
+    "Crypto risk-off":["mod","AI tokens"],"Extreme tail stress (depression-style)":["tail","tail scenario"]};
+  const SAMPLES=[["AI semis","NVDA 25%, AMD 10%, SMH 20%, CASH 45%"],
+    ["AI crypto","TAO 30%, RENDER 20%, NVDA 20%, CASH 30%"],
+    ["Balanced","SPY 40%, QQQ 20%, NVDA 10%, SMH 10%, CASH 20%"],
+    ["Defensive check","MSFT 20%, GOOGL 15%, SPY 40%, CASH 25%"]];
+  let mode="paste", rowsData=[{s:"",t:"stock",w:""}], lastText="", last=null;
+
+  function inputState(){
+    const prev=SantroStress.SCENARIOS.map(sc=>{
+      const [cls,what]=SEV[sc.name]||["mod",""];
+      return `<div class="st-prevcard"><span class="st-sev ${cls}">${cls==="tail"?"tail risk":cls==="high"?"severe":"moderate"}</span>
+        <b>${esc(sc.name)}</b><p>Stresses ${esc(what)} — ${esc(sc.desc)}</p></div>`;}).join("");
+    stage.innerHTML=`
+    <div class="st-wrap">
+      <div class="st-panel">
+        <p class="st-lbl">Paste portfolio</p>
+        <div class="st-tabs">
+          <button class="st-tab ${mode==="paste"?"on":""}" data-m="paste">Quick paste</button>
+          <button class="st-tab ${mode==="rows"?"on":""}" data-m="rows">Manual rows</button>
+        </div>
+        <div id="st-inmode"></div>
+        <div class="st-chips" id="st-samples">
+          ${SAMPLES.map((s,i)=>`<button class="st-chip" data-i="${i}" title="${esc(s[1])}">⚗ ${esc(s[0])} <span style="opacity:.6">· sample</span></button>`).join("")}
+        </div>
+        <div class="st-check" id="st-check"></div>
+        <div class="st-actions">
+          <button class="st-run" id="st-run">Run stress test</button>
+          <button class="st-ghost" id="st-clear">Clear</button>
+        </div>
+      </div>
+      <div class="st-panel">
+        <p class="st-lbl">What you get · 6 bad-weather scenarios</p>
+        <div class="st-prev">${prev}
+          <div class="st-prevcard"><b>🔒 Privacy</b><p>No brokerage credentials. Your input is used only to
+          generate this stress test, locally in the browser — nothing is uploaded, stored or logged.</p></div>
+        </div>
+      </div>
+    </div>`;
+    renderInMode();
+    stage.querySelectorAll(".st-tab").forEach(t=>t.onclick=()=>{mode=t.dataset.m;inputState();});
+    stage.querySelector("#st-samples").querySelectorAll(".st-chip").forEach(c=>c.onclick=()=>{
+      mode="paste"; lastText=SAMPLES[+c.dataset.i][1]; inputState();});
+    stage.querySelector("#st-run").onclick=runFlow;
+    stage.querySelector("#st-clear").onclick=()=>{lastText="";rowsData=[{s:"",t:"stock",w:""}];inputState();};
+  }
+  function renderInMode(){
+    const box=stage.querySelector("#st-inmode");
+    if(mode==="paste"){
+      box.innerHTML=`<textarea class="st-ta" id="st-in" rows="3"
+        placeholder="NVDA 20%, SMH 15%, TAO 10%, MSFT 20%, CASH 35%">${esc(lastText)}</textarea>
+        <p class="st-help">Accepted: <code>NVDA 20%, SMH 15%</code> · <code>NVDA, AMD, SPY</code> ·
+        <code>NVDA:20 SMH:15 CASH:35</code> · one per line also works. Weights optional.</p>`;
+      const ta=box.querySelector("#st-in");
+      ta.addEventListener("input",()=>{lastText=ta.value;feedback();});
+    } else {
+      box.innerHTML=`<div class="st-rows" id="st-rows"></div>
+        <button class="st-addrow" id="st-add">+ add row</button>`;
+      drawRows();
+      box.querySelector("#st-add").onclick=()=>{rowsData.push({s:"",t:"stock",w:""});drawRows();};
+    }
+    feedback();
+  }
+  function drawRows(){
+    const host=stage.querySelector("#st-rows");
+    host.innerHTML=rowsData.map((r,i)=>`
+      <div class="st-row">
+        <input placeholder="Symbol" value="${esc(r.s)}" data-i="${i}" data-f="s" style="text-transform:uppercase">
+        <select data-i="${i}" data-f="t">
+          ${["stock","etf","crypto","cash"].map(t=>`<option ${r.t===t?"selected":""}>${t}</option>`).join("")}
+        </select>
+        <input placeholder="wt %" inputmode="decimal" value="${esc(r.w)}" data-i="${i}" data-f="w">
+        <button data-del="${i}" title="Remove">×</button>
+      </div>`).join("");
+    host.querySelectorAll("input,select").forEach(el=>el.addEventListener("input",()=>{
+      rowsData[+el.dataset.i][el.dataset.f]=el.value; syncRows(); feedback();}));
+    host.querySelectorAll("[data-del]").forEach(b=>b.onclick=()=>{rowsData.splice(+b.dataset.del,1);drawRows();syncRows();feedback();});
+    syncRows();
+  }
+  function syncRows(){ lastText=rowsData.filter(r=>r.s.trim())
+      .map(r=>r.s.trim().toUpperCase()+(r.w?" "+r.w:"")).join(", "); }
+  function feedback(){
+    const box=stage.querySelector("#st-check"); if(!box) return;
+    if(!lastText.trim()){ box.innerHTML=`<span class="st-pill">waiting for input…</span>`; return; }
+    const p=SantroStress.parse(lastText);
+    const cls=p.holdings.map(h=>SantroStress.classify(h));
+    const unk=cls.filter(c=>c.unknown);
+    const total=p.holdings.reduce((a,h)=>a+h.weight_pct,0);
+    box.innerHTML=[
+      `<span class="st-pill ok">${p.holdings.length} position${p.holdings.length===1?"":"s"}</span>`,
+      `<span class="st-pill ${Math.abs(total-100)<1?"ok":"warn"}">weights ${total.toFixed(0)}%</span>`,
+      unk.length?`<span class="st-pill warn">${unk.length} unknown: ${unk.slice(0,3).map(u=>u.symbol).join(", ")}${unk.length>3?"…":""}</span>`:"",
+      p.notes.length?`<span class="st-pill warn">${esc(p.notes[0])}</span>`:""
+    ].join("");
+  }
+  function runFlow(){
+    if(!lastText.trim()){ feedback(); return; }
+    const steps=["classifying exposure…","mapping AI themes…","checking repeated risk…","running bad-weather scenarios…","building stress report…"];
+    stage.innerHTML=`<div class="st-scan"><p class="st-lbl">Stress engine</p>
+      <div class="st-scanbar"><i id="st-fill"></i></div>
+      <div class="st-steps" id="st-steps">${steps.map(s=>`<span>· ${s}</span>`).join("")}</div></div>`;
+    const fill=stage.querySelector("#st-fill"), els=[...stage.querySelectorAll("#st-steps span")];
+    let i=0;
+    const tick=()=>{ if(i>0){els[i-1].className="done";els[i-1].textContent="✓ "+steps[i-1];}
+      if(i<steps.length){ els[i].className="cur"; fill.style.width=((i+1)/steps.length*100)+"%"; i++; setTimeout(tick,190); }
+      else { last=SantroStress.run(lastText); dashboard(); } };
+    tick();
+  }
+  function dashboard(){
+    const r=last;
+    if(r.error){ inputState(); return; }
+    const col=r.risk_label==="extreme"?"#b91c1c":r.risk_label==="high"?"#f0596e":r.risk_label==="moderate"?"#e0a73f":"#22c55e";
+    const worst=r.scenario_results.slice().sort((a,b)=>a.estimated_portfolio_drawdown_range[1]-b.estimated_portfolio_drawdown_range[1])[0];
+    const stack=Object.entries(r.bucket_weights).sort((a,b)=>b[1]-a[1]).map(([b,w])=>
+      `<i title="${pretty(b)} ${w}%" style="width:${w}%;background:${BCOL[b]||"#444"}"></i>`).join("");
+    const bkCards=Object.entries(r.bucket_weights).sort((a,b)=>b[1]-a[1]).map(([b,w])=>{
+      const syms=r.fragility_map.filter(f=>f.primary_bucket===b).map(f=>f.symbol).slice(0,6);
+      return `<div class="st-bk"><b><span style="color:${BCOL[b]||"#888"}">${pretty(b)}</span><span>${w}%</span></b>
+        <div class="tk">${syms.join(" · ")||"—"}</div></div>`;}).join("");
+    const matrix=r.scenario_results.map(s=>{
+      const [cls]=SEV[s.scenario_name]||["mod"];
+      const width=Math.min(100,Math.abs(s.estimated_portfolio_drawdown_range[1]));
+      return `<div class="st-mrow">
+        <div><span class="st-sev ${cls}" style="float:none;margin-right:7px">${cls==="tail"?"tail":cls==="high"?"severe":"moderate"}</span>
+          <span class="nm">${esc(s.scenario_name)}</span></div>
+        <div><span class="rng">${s.estimated_portfolio_drawdown_range[1]}% <small>to ${s.estimated_portfolio_drawdown_range[0]}%</small></span>
+          <div class="st-rbar"><i style="width:${width}%"></i></div></div>
+        <div class="src"><b style="color:var(--text)">Damage:</b> ${s.main_damage_sources.map(pretty).join(", ")}<br>
+          <b style="color:var(--text)">Most exposed:</b> ${s.top_contributors_to_loss.slice(0,3).map(c=>c.symbol).join(", ")||"—"}</div>
+        <div class="why">${esc(s.interpretation)}</div>
+      </div>`;}).join("");
+    const FLAGDESC={crowded_ai_beta:"Large weight in crowded AI beta — verify concentration.",
+      crowded_speculative:"Small/speculative name — check liquidity before trusting the range.",
+      single_name_concentration:"Single position dominates the book — review overlap.",
+      unknown_asset:"Santro couldn't classify this — verify exposure manually."};
+    const frag=r.fragility_map.filter(f=>f.risk_flag!=="ok").slice(0,9).map(f=>
+      `<div class="st-fg ${/unknown|speculative/.test(f.risk_flag)?"bad":""}">
+        <b>${esc(f.symbol)}</b> <span class="w">${f.weight_pct}%</span>
+        <span style="font-size:10.5px;color:var(--faint)"> · ${pretty(f.primary_bucket)}</span>
+        <p>${FLAGDESC[f.risk_flag]||pretty(f.risk_flag)}</p></div>`).join("");
+    const rep=r.repeated_exposures.slice(0,4).map(t=>
+      `<div class="st-fg"><b>${pretty(t.theme)}</b> <span class="w">${t.total_weight_pct}%</span>
+        <p>Repeated through ${t.symbols.join(", ")} — the same theme may hit you ${t.symbols.length}× at once. Review overlap.</p></div>`).join("");
+    stage.innerHTML=`
+      <div class="st-stats">
+        <div class="st-stat"><span class="k">Portfolio AI bubble risk</span>
+          <div class="v" style="color:${col}">${r.portfolio_risk_score}/100</div>
+          <div class="s" style="color:${col};font-weight:800;text-transform:uppercase">${r.risk_label}</div>
+          <div class="st-gauge"><i style="width:${r.portfolio_risk_score}%;background:${col}"></i></div></div>
+        <div class="st-stat"><span class="k">Worst scenario</span>
+          <div class="v" style="color:#f0596e">${worst.estimated_portfolio_drawdown_range[1]}%</div>
+          <div class="s">${esc(worst.scenario_name)} · to ${worst.estimated_portfolio_drawdown_range[0]}% · modeled range, not a forecast</div></div>
+        <div class="st-stat"><span class="k">AI exposure</span>
+          <div class="v" style="color:#e0a73f">${r.ai_exposure_pct}%</div>
+          <div class="s">top-5 concentration ${r.concentration_score}%</div></div>
+        <div class="st-stat"><span class="k">Needs verification</span>
+          <div class="v" style="color:${r.unknown_weight_pct?"#f0596e":"#22c55e"}">${r.unknown_weight_pct}%</div>
+          <div class="s">${r.unknown_weight_pct?"unrecognized assets excluded from the math":"all holdings classified"}</div></div>
+      </div>
+      <p style="font-size:12.5px;color:var(--muted);line-height:1.6;margin:0 0 6px">${esc(r.plain_english_summary)}</p>
+      ${r.assumptions.length?`<p class="st-note">Assumptions: ${r.assumptions.map(esc).join(" ")}</p>`:""}
+      <div class="st-sec"><h3>Exposure breakdown</h3>
+        <div class="st-stack">${stack}</div>
+        <div class="st-buckets">${bkCards}</div></div>
+      <div class="st-sec"><h3>Scenario matrix</h3><div class="st-matrix">${matrix}</div></div>
+      <div class="st-sec"><h3>What hurts · what cushions</h3><div class="st-duo">
+        <div class="pane hurt"><h4>What hurts most</h4>
+          ${(SantroStress.shareCardData(r).hurts.map(c=>
+            `<div class="row"><b>${esc(c.symbol)}</b><span>${c.weight}% · ${pretty(c.bucket)}</span></div>`).join(""))
+            ||'<div class="row"><span>no dominant downside driver — defensive or diversified book</span></div>'}
+        </div>
+        <div class="pane cush"><h4>What cushions</h4>
+          ${(SantroStress.shareCardData(r).cushions.map(c=>
+            `<div class="row"><b>${c.weight}%</b><span>${c.label}</span></div>`).join(""))
+            ||'<div class="row"><span>no defensive ballast detected — every holding leans on the same weather</span></div>'}
+        </div>
+      </div></div>
+      ${frag?`<div class="st-sec"><h3>Where the portfolio breaks first</h3><div class="st-frag">${frag}</div></div>`:""}
+      ${rep?`<div class="st-sec"><h3>Hidden repeated exposure</h3><div class="st-frag">${rep}</div></div>`:""}
+      <div class="st-sec"><h3>Before trusting this, verify</h3>
+        <div class="st-verify"><ul style="margin:0;padding-left:18px">
+          ${r.what_to_verify.map(v=>`<li>${esc(v)}</li>`).join("")}
+          <li>options/leverage exposure this test can't see</li>
+          <li>whether your cash is actually cash</li>
+        </ul></div></div>
+      <div class="st-rel">
+        <a href="/stocks/burry-short-watch"><span class="tg" style="color:#f0596e">Bearish lens</span>
+          <b>Michael Burry AI Short Watch</b><p>Filing-verified AI puts — a risk signal, not a command.</p></a>
+        <a href="/stocks/aschenbrenner"><span class="tg" style="color:#22c55e">Bullish lens</span>
+          <b>Aschenbrenner AI Infrastructure Basket</b><p>How a thesis-driven AI fund positions, hedges included.</p></a>
+        <a href="/terminal"><span class="tg" style="color:#7ce8b1">Terminal</span>
+          <b>Open the AI bubble map</b><p>99 names ranked by heat. Hot means attention, not direction.</p></a>
+      </div>
+      <div class="st-bar2">
+        <button class="amber" id="st-card">Create share card</button>
+        <button class="amber" id="st-copy">Copy summary</button>
+        <button id="st-again">Run another portfolio</button>
+        <a href="/signup">Create account to save stress tests</a>
+        <a href="/bubble#top">AI bubble risk</a>
+        <a href="/terminal">Open terminal</a>
+      </div>
+      <div id="st-cardbox" style="display:none;margin-top:14px">
+        <div class="st-bar2" id="st-fmt" style="margin-bottom:9px">
+          <button class="amber" data-fmt="land">Landscape</button>
+          <button data-fmt="sq">Square</button>
+          <button data-fmt="story">Story 9:16</button>
+        </div>
+        <canvas id="st-canvas" width="1600" height="900" style="width:100%;max-width:600px;border-radius:12px;border:1px solid var(--border);display:block"></canvas>
+        <div class="st-bar2" style="margin-top:9px">
+          <a class="amber" id="st-dl" download="santro-stress-card.png">Download PNG</a>
+          <span style="font-size:11px;color:var(--faint);align-self:center">On iPhone: press and hold the card → Save Image.
+          The card shows your entered tickers and weights — remove anything you'd rather keep private and re-run.</span>
+        </div>
+      </div>`;
+    stage.querySelector("#st-again").onclick=inputState;
+    let cardFmt="land";
+    async function renderCard(){
+      const cv=stage.querySelector("#st-canvas");
+      await drawCard(cv, r, worst, cardFmt);
+      const dl=stage.querySelector("#st-dl");
+      try{ dl.href=cv.toDataURL("image/png"); }
+      catch(e){ // tainted canvas (logo CDN without CORS) — redraw with monogram chips only
+        await drawCard(cv, r, worst, cardFmt, true);
+        dl.href=cv.toDataURL("image/png");
+      }
+      dl.setAttribute("download","santro-stress-"+cardFmt+".png");
+      stage.querySelectorAll("#st-fmt button").forEach(b=>b.classList.toggle("amber", b.dataset.fmt===cardFmt));
+    }
+    stage.querySelector("#st-card").onclick=async()=>{
+      const box=stage.querySelector("#st-cardbox"); box.style.display="block";
+      await renderCard();
+      box.scrollIntoView({behavior:"smooth",block:"center"});
+    };
+    stage.querySelectorAll("#st-fmt button").forEach(b=>b.onclick=async()=>{ cardFmt=b.dataset.fmt; await renderCard(); });
+    stage.querySelector("#st-copy").onclick=async()=>{
+      const themes=r.repeated_exposures.slice(0,3).map(t=>pretty(t.theme)).join(", ")||"diversified";
+      const txt=`My AI bubble stress score: ${r.portfolio_risk_score}/100 (${r.risk_label}). `+
+        `Worst scenario "${worst.scenario_name}": ${worst.estimated_portfolio_drawdown_range[1]}% to ${worst.estimated_portfolio_drawdown_range[0]}%. `+
+        `Top exposure: ${themes}. Test yours at santroai.tech/bubble — not financial advice.`;
+      try{ await navigator.clipboard.writeText(txt);
+        const b=stage.querySelector("#st-copy"); b.textContent="Copied ✓"; setTimeout(()=>b.textContent="Copy summary",1500);}catch(e){}
+    };
+    stage.scrollIntoView({behavior:"smooth",block:"start"});
+  }
+  // ── share card v3: fixed-row-budget renderer — cannot overflow ───────────
+  // Layout is a precomputed row grid per format (header/chips/metrics/
+  // scenarios/insights/footer + gaps); every section clips to its own rect.
+  // Data comes from SantroStress.shareCardData (cash never in "hurts").
+  // Theme: santro_terminal_black.
+  const TB={bg:"#07090d",panel:"#0e131b",panel2:"#101724",border:"#232b38",soft:"#1a212e",
+    text:"#e9edf3",muted:"#93a0b0",faint:"#5c6774",
+    emerald:"#10b981",amber:"#d9a13c",red:"#dc4b5d",steel:"#7d9cc0",slate:"#8895a4"};
+  const CAT_ACCENT=b=>({defensive_or_cash:TB.emerald,broad_market:TB.emerald,
+    ai_semis:TB.amber,ai_semis_equipment:TB.amber,
+    ai_crypto:TB.red,small_cap_speculative:TB.red,
+    ai_etf_concentrated:TB.slate,unknown:TB.slate}[b]||TB.steel);
+  const SCEN_SHORT=[[/dot-com/i,"Dot-com"],[/2008|liquidity/i,"2008 credit"],[/rate/i,"Rate shock"],
+    [/ai-specific|burst/i,"AI burst"],[/crypto/i,"Crypto risk-off"],[/depression|tail/i,"Tail stress"]];
+  const shortScen=n=>{for(const [rx,l] of SCEN_SHORT) if(rx.test(n)) return l; return n.slice(0,12);};
+  function loadLogos(syms){
+    return Promise.all(syms.map(sym=>new Promise(res=>{
+      if(/^(CASH|USD)$/.test(sym)) return res([sym,null]);
+      const img=new Image(); img.crossOrigin="anonymous";
+      const t=setTimeout(()=>res([sym,null]),900);
+      img.onload=()=>{clearTimeout(t);res([sym,img])};
+      img.onerror=()=>{clearTimeout(t);res([sym,null])};
+      img.src=sym==="SPCX"?"/assets/spacex.png"
+        :"https://assets.parqet.com/logos/symbol/"+encodeURIComponent(sym.split(".")[0])+"?format=png&size=64";
+    }))).then(Object.fromEntries);
+  }
+  // rows: [header, chips, metrics, scenarios, insights(flex), footer]
+  const FMT={
+    land:{W:1600,H:900,pad:56,gap:20,rows:[76,62,150,180,0,58],k:1,scenCols:5,metCols:4,insCols:2,preview:"640px"},
+    sq:{W:1200,H:1200,pad:60,gap:24,rows:[84,66,160,200,0,62],k:1.02,scenCols:5,metCols:4,insCols:2,preview:"480px"},
+    story:{W:1080,H:1920,pad:64,gap:26,rows:[110,150,320,430,0,84],k:1.28,scenCols:2,metCols:2,insCols:1,preview:"340px"}};
+  async function drawCard(cv, r, worstUnused, fmt, noLogos){
+    const F=FMT[fmt||"land"], W=F.W, H=F.H, P=F.pad, G=F.gap, k=F.k;
+    const D=window.SantroStress.shareCardData(r); if(!D) return;
+    cv.width=W; cv.height=H; cv.style.maxWidth=F.preview;
+    const x=cv.getContext("2d");
+    const SANS="-apple-system,'Segoe UI',Roboto,Helvetica,sans-serif";
+    const fit=(t,mw)=>{ if(x.measureText(t).width<=mw) return t;
+      while(t.length>1&&x.measureText(t+"…").width>mw) t=t.slice(0,-1); return t+"…"; };
+    const rr=(px,py,w,h,r2)=>{x.beginPath();x.moveTo(px+r2,py);x.arcTo(px+w,py,px+w,py+h,r2);
+      x.arcTo(px+w,py+h,px,py+h,r2);x.arcTo(px,py+h,px,py,r2);x.arcTo(px,py,px+w,py,r2);x.closePath();};
+    // row geometry: flex row (insights) absorbs remainder — total always fits
+    const fixed=F.rows.reduce((a,b)=>a+b,0), flex=H-2*P-(F.rows.length-1)*G-fixed;
+    const rows=F.rows.map(h2=>h2||Math.max(140,flex));
+    const ys=[]; let acc=P; rows.forEach(h2=>{ys.push(acc); acc+=h2+G;});
+    const CW=W-2*P;
+    const scoreCol=r.risk_label==="extreme"?"#b91c1c":r.risk_label==="high"?TB.red:r.risk_label==="moderate"?TB.amber:TB.emerald;
+    const logos=noLogos?{}:await loadLogos(D.chips.map(c=>c.symbol));
+    // ── background ──
+    x.fillStyle=TB.bg; x.fillRect(0,0,W,H);
+    const g=x.createRadialGradient(W*.85,H*.05,60,W*.85,H*.05,W*.7);
+    g.addColorStop(0,scoreCol+"14"); g.addColorStop(1,"transparent");
+    x.fillStyle=g; x.fillRect(0,0,W,H);
+    x.strokeStyle=TB.soft; x.lineWidth=2; x.strokeRect(16,16,W-32,H-32);
+    // ── header ──
+    let y=ys[0];
+    x.textBaseline="alphabetic";
+    x.fillStyle=TB.emerald; x.font="800 "+Math.round(21*k)+"px "+SANS;
+    x.fillText("SANTRO AI",P,y+22*k);
+    x.fillStyle=TB.faint; x.font="700 "+Math.round(13*k)+"px "+SANS; x.letterSpacing="2px";
+    const btxt="BAD-WEATHER PORTFOLIO CHECK";
+    x.fillText(btxt,W-P-x.measureText(btxt).width,y+22*k);
+    x.letterSpacing="0px";
+    x.fillStyle=TB.text; x.font="800 "+Math.round(42*k)+"px "+SANS;
+    x.fillText("IF THE AI BUBBLE BURSTS",P,y+rows[0]-4);
+    // ── holdings chips ──
+    y=ys[1];
+    const chipH=rows[1]-8*k; let cx=P;
+    for(const c of D.chips){
+      x.font="800 "+Math.round(16*k)+"px "+SANS;
+      const label=c.symbol+" "+c.weight_pct+"%";
+      const tw=x.measureText(label).width, cw=chipH+tw+22*k;
+      if(cx+cw>W-P-110*k) break;
+      x.fillStyle=TB.panel; rr(cx,y,cw,chipH,chipH/2); x.fill();
+      x.strokeStyle=TB.border; x.lineWidth=1.5; rr(cx,y,cw,chipH,chipH/2); x.stroke();
+      const acc2=CAT_ACCENT(c.bucket), cyc=y+chipH/2, rad=chipH/2-8*k;
+      const img=logos[c.symbol];
+      x.save(); x.beginPath(); x.arc(cx+chipH/2,cyc,rad,0,7); x.clip();
+      if(img){ x.fillStyle="#fff"; x.fillRect(cx+chipH/2-rad,cyc-rad,rad*2,rad*2);
+        x.drawImage(img,cx+chipH/2-rad,cyc-rad,rad*2,rad*2); }
+      else{ x.fillStyle=acc2+"26"; x.fillRect(cx+chipH/2-rad,cyc-rad,rad*2,rad*2); }
+      x.restore();
+      if(!img){ x.strokeStyle=acc2; x.lineWidth=1.4; x.beginPath(); x.arc(cx+chipH/2,cyc,rad,0,7); x.stroke();
+        x.fillStyle=acc2; x.font="800 "+Math.round(14*k)+"px "+SANS; x.textAlign="center";
+        x.fillText(c.symbol[0],cx+chipH/2,cyc+5*k); x.textAlign="left"; }
+      x.fillStyle=TB.text; x.font="800 "+Math.round(16*k)+"px "+SANS;
+      x.fillText(label,cx+chipH+1,cyc+6*k);
+      cx+=cw+10*k;
+    }
+    x.fillStyle=TB.faint; x.font="700 "+Math.round(13*k)+"px "+SANS;
+    const notes=[];
+    if(D.more>0) notes.push("+"+D.more+" more");
+    if(D.equal_weight) notes.push("equal weight assumed");
+    if(D.unknown_pct>0) notes.push(D.unknown_pct+"% unrecognized, excluded");
+    if(notes.length) x.fillText(fit(notes.join(" · "),W-P-cx-8),cx+6*k,y+chipH/2+5*k);
+    // ── metric tiles ──
+    y=ys[2];
+    const themes=Object.entries(r.bucket_weights).filter(e=>!/defensive|broad/.test(e[0]))
+      .sort((a,b)=>b[1]-a[1]).slice(0,2).map(e=>pretty(e[0])).join(" + ");
+    const tiles=[
+      ["STRESS SCORE",r.portfolio_risk_score+"/100",r.risk_label,scoreCol],
+      ["AI EXPOSURE",r.ai_exposure_pct+"%",fit(themes||"no direct AI names",260*k),TB.amber],
+      ["CONCENTRATION",D.top_risk_position?D.top_risk_position.symbol+" "+D.top_risk_position.weight_pct+"%":"—","largest single risk line",
+        D.top_risk_position&&D.top_risk_position.weight_pct>=30?TB.red:TB.steel],
+      ["BUFFER",D.buffer_pct+"%","cash / defensive / broad",D.buffer_pct>=25?TB.emerald:TB.slate]];
+    const mCols=F.metCols, mw=(CW-(mCols-1)*G)/mCols, mh=(rows[2]-(mCols<4?G:0))/(mCols<4?2:1);
+    tiles.forEach((t,i2)=>{
+      const tx=P+(i2%mCols)*(mw+G), ty=y+Math.floor(i2/mCols)*(mh+G);
+      x.fillStyle=TB.panel; rr(tx,ty,mw,mh,14); x.fill();
+      x.strokeStyle=TB.soft; x.lineWidth=1.5; rr(tx,ty,mw,mh,14); x.stroke();
+      x.fillStyle=TB.faint; x.font="800 "+Math.round(12*k)+"px "+SANS; x.letterSpacing="1.5px";
+      x.fillText(t[0],tx+18,ty+27*k); x.letterSpacing="0px";
+      x.fillStyle=t[3]; x.font="800 "+Math.round(38*k)+"px "+SANS;
+      x.fillText(fit(t[1],mw-36),tx+18,ty+mh-34*k);
+      x.fillStyle=TB.muted; x.font="600 "+Math.round(13*k)+"px "+SANS;
+      x.fillText(fit(t[2],mw-36),tx+18,ty+mh-13*k);
+    });
+    // ── scenario cards ──
+    y=ys[3];
+    x.fillStyle=TB.faint; x.font="800 "+Math.round(12*k)+"px "+SANS; x.letterSpacing="1.5px";
+    x.fillText("SCENARIO DRAWDOWN RANGES",P,y+14*k); x.letterSpacing="0px";
+    const sTop=y+26*k, sH=rows[3]-26*k;
+    const sCols=F.scenCols, sRows2=Math.ceil(Math.min(D.scenarios.length,fmt==="story"?6:5)/sCols);
+    const scenShow=D.scenarios.slice(0,fmt==="story"?6:5);
+    const sw=(CW-(sCols-1)*G)/sCols, sh=(sH-(sRows2-1)*G)/sRows2;
+    scenShow.forEach((sc,i2)=>{
+      const sx=P+(i2%sCols)*(sw+G), sy=sTop+Math.floor(i2/sCols)*(sh+G);
+      const sev=-sc.mid, c2=sev>=40?TB.red:sev>=20?TB.amber:TB.slate;
+      x.fillStyle=TB.panel2; rr(sx,sy,sw,sh,12); x.fill();
+      x.strokeStyle=TB.soft; x.lineWidth=1.5; rr(sx,sy,sw,sh,12); x.stroke();
+      x.fillStyle=c2; x.fillRect(sx,sy+10,4,sh-20);
+      x.fillStyle=TB.muted; x.font="700 "+Math.round(13*k)+"px "+SANS;
+      x.fillText(fit(shortScen(sc.name),sw-60),sx+16,sy+24*k);
+      if(sc.worst){ x.fillStyle=TB.red; x.font="800 "+Math.round(10*k)+"px "+SANS;
+        const wt="WORST"; x.fillText(wt,sx+sw-x.measureText(wt).width-12,sy+22*k); }
+      x.fillStyle=c2; x.font="800 "+Math.round(30*k)+"px "+SANS;
+      x.fillText(sc.mid+"%",sx+16,sy+sh-30*k);
+      x.fillStyle=TB.faint; x.font="600 "+Math.round(12*k)+"px "+SANS;
+      x.fillText(sc.range[0]+"% … "+sc.range[1]+"%",sx+16,sy+sh-11*k);
+    });
+    // ── insight panels ──
+    y=ys[4];
+    const iCols=F.insCols, iw=(CW-(iCols-1)*G)/iCols, ih=iCols===1?(rows[4]-G)/2:rows[4];
+    const panel=(px2,py2,title,tcol,linesArr)=>{
+      x.fillStyle=TB.panel; rr(px2,py2,iw,ih,14); x.fill();
+      x.strokeStyle=TB.soft; x.lineWidth=1.5; rr(px2,py2,iw,ih,14); x.stroke();
+      x.fillStyle=tcol; x.font="800 "+Math.round(12*k)+"px "+SANS; x.letterSpacing="1.5px";
+      x.fillText(title,px2+18,py2+26*k); x.letterSpacing="0px";
+      const rowH=Math.min(34*k,(ih-40*k)/Math.max(linesArr.length,1));
+      linesArr.slice(0,3).forEach((ln,i3)=>{
+        const ly=py2+(46+i3*(rowH/k))*k;
+        x.fillStyle=TB.text; x.font="800 "+Math.round(16*k)+"px "+SANS;
+        x.fillText(ln[0],px2+18,ly);
+        const lw=x.measureText(ln[0]).width;
+        x.fillStyle=TB.muted; x.font="600 "+Math.round(14*k)+"px "+SANS;
+        x.fillText(fit(ln[1],iw-58-lw),px2+18+lw+14*k,ly);
+      });
+    };
+    const hurtLines=D.hurts.length?D.hurts.map(h=>[h.symbol,Math.round(h.weight)+"% · "+pretty(h.bucket)])
+      :[["—","no dominant downside driver — defensive or diversified book"]];
+    const cushLines=D.cushions.length?D.cushions.map(c=>[c.weight+"%",c.label])
+      :[["—","no defensive ballast — the whole book leans on the same weather"]];
+    panel(P,y,"WHAT HURTS MOST",TB.red,hurtLines);
+    panel(iCols===1?P:P+iw+G, iCols===1?y+ih+G:y, "WHAT CUSHIONS",TB.emerald,cushLines);
+    // ── footer (reserved band, never overlaps) ──
+    y=ys[5];
+    x.strokeStyle=TB.soft; x.beginPath(); x.moveTo(P,y+6); x.lineTo(W-P,y+6); x.stroke();
+    const fy=y+rows[5]-16*k;
+    x.fillStyle=TB.muted; x.font="700 "+Math.round(14*k)+"px "+SANS;
+    x.fillText("hot means attention, not direction",P,fy);
+    x.fillStyle=TB.faint; x.font="600 "+Math.round(12*k)+"px "+SANS;
+    const nfa="stress test, not a forecast · not financial advice · quotes may be delayed";
+    x.fillText(nfa,(W-x.measureText(nfa).width)/2,fy);
+    x.fillStyle=TB.steel; x.font="700 "+Math.round(14*k)+"px "+SANS;
+    const cta="run yours: santroai.tech/bubble";
+    x.fillText(cta,W-P-x.measureText(cta).width,fy);
+  }
+  inputState();
+})();
+</script>
+</body>
+</html>

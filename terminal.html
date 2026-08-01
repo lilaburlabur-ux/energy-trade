@@ -1,0 +1,1941 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<meta name="theme-color" content="#0a0e13" />
+<meta name="mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-title" content="Santro AI" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+<title>AI Market Terminal — Live Bubble Map, Hot Tickers &amp; Sector Heat | Santro AI</title>
+<link rel="icon" href="/assets/favicon.svg" type="image/svg+xml" />
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32.png" />
+<link rel="icon" type="image/png" sizes="48x48" href="/assets/favicon-48.png" />
+<link rel="icon" type="image/png" sizes="96x96" href="/assets/favicon-96.png" />
+<link rel="apple-touch-icon" href="/assets/apple-touch-icon.png" />
+<link rel="manifest" href="/manifest.json" />
+<meta name="description" content="The full Santro AI bubble terminal: AI stocks, ETFs and crypto on one bubble map, hot tickers with sourced reasons, fair-value tools, watchlists, alerts and the AI bubble-risk signal. Quotes delayed ~15 min. Not financial advice." />
+<link rel="canonical" href="https://santroai.tech/terminal" />
+<meta property="og:site_name" content="Santro AI" />
+<meta property="og:title" content="The Santro AI Terminal — AI bubble map" />
+<meta property="og:description" content="Track AI stocks, ETFs, AI crypto, hot tickers, research, valuation tools, share cards, and bubble-risk signals." />
+<meta property="og:url" content="https://santroai.tech/terminal" />
+<meta property="og:image" content="https://santroai.tech/assets/og-map.png" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Santro AI — AI Market Terminal" />
+<meta name="twitter:description" content="AI market research terminal for stocks, ETFs, crypto, valuation tools, share cards, and bubble-risk signals." />
+<meta name="twitter:image" content="https://santroai.tech/assets/og-map.png" />
+<meta property="og:type" content="website" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+ {"@type":"ListItem","position":1,"name":"Home","item":"https://santroai.tech/"},
+ {"@type":"ListItem","position":2,"name":"Terminal","item":"https://santroai.tech/terminal"}]}
+</script>
+<link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin />
+<script src="https://cdn.jsdelivr.net/npm/echarts@5/dist/echarts.min.js"></script>
+<script src="/components/santro-bubble-engine.js?v=1"></script>
+<style>
+  :root{
+    color-scheme: dark;
+    --bg:#0a0e13; --panel:#111822; --panel-2:#0c121a; --elev:#16202b;
+    --border:#1d2733; --border-soft:#161e28;
+    --text:#e7edf3; --muted:#8895a4; --faint:#5a6573;
+    --accent:var(--accent,#22c55e); --accent-2:var(--accent-2,#7ce8b1); --accent-soft:#10241a; --accent-border:#1e4634;
+    --green:#22c55e; --red:#f05a6e;
+    --radius:14px; --radius-sm:9px; --radius-tile:6px;
+  }
+  html[data-theme="light"]{
+    color-scheme: light;
+    --bg:#f4f6f3; --panel:#ffffff; --panel-2:#eef1ec; --elev:#e7ede7;
+    --border:#d7ded6; --border-soft:#e4eae3;
+    --text:#1a231d; --muted:#5b6659; --faint:#8a9488;
+    --accent:#157a4a; --accent-2:#0f6b41; --accent-soft:#e7f5ec; --accent-border:#bfdcc9;
+    --green:#178244; --red:#d23b52;
+  }
+  /* light-mode touch-ups for colors that aren't variables */
+  html[data-theme="light"] .news-row a{color:#2a3440;}
+  html[data-theme="light"] .news-row:hover a{color:#000;}
+  html[data-theme="light"] .thesis{color:#3a4654;}
+  html[data-theme="light"] .see-more:hover{background:#d9e7fa;}
+  html[data-theme="light"] .badge.sample, html[data-theme="light"] .badge.beta{
+    background:#fbf2da; color:#92660f; border-color:#e7d3a0;}
+  html[data-theme="light"] .ipo-right .stat{color:#92660f;}
+  html[data-theme="light"] .legend .bar{
+    background:linear-gradient(to right,#700f19,#b91c1c,#ef4444,#f77b7b,#d6dce3,#69cd91,#22c55e,#15803d,#0a522d);}
+  html[data-theme="light"] .panel{box-shadow:0 1px 3px rgba(20,30,45,.08);}
+  *{box-sizing:border-box;}
+  body{margin:0; background:var(--bg); color:var(--text);
+    font-family:var(--font-sans, -apple-system,BlinkMacSystemFont,"Inter","Segoe UI",Roboto,Helvetica,Arial,sans-serif);
+    font-size:14px; font-variant-numeric:tabular-nums; -webkit-font-smoothing:antialiased;}
+  a{color:inherit;}
+  .up{color:var(--green);} .down{color:var(--red);}
+
+  .topstrip{display:flex; align-items:center; justify-content:space-between; gap:14px; flex-wrap:wrap;
+    padding:7px 22px; border-bottom:1px solid var(--border-soft); background:var(--panel-2);
+    font-size:12px; color:var(--muted);}
+  .ts-stats{display:flex; gap:20px; flex-wrap:wrap;}
+  .ts-item{display:flex; gap:6px; align-items:baseline;}
+  .ts-item .lbl{color:var(--faint);}
+  .ts-item .val{color:var(--text); font-weight:600;}
+  a.ts-bubble{text-decoration:none; cursor:pointer;}
+  a.ts-bubble:hover .lbl{color:var(--text);}
+  .langs{display:flex; gap:6px; align-items:center;}
+  .x-link{display:flex; align-items:center; color:var(--muted); padding:3px 7px; margin-right:4px;
+    border:1px solid var(--border); border-radius:6px; transition:.15s;}
+  .x-link:hover{color:var(--text); border-color:var(--accent-border);}
+  .lang{padding:2px 9px; border-radius:6px; border:1px solid var(--border); font-size:11px; font-weight:600;}
+  .lang.active{background:var(--accent-soft); color:var(--accent-2); border-color:var(--accent-border);}
+  .lang.soon{opacity:.45; cursor:default;}
+  .lang sup{font-size:8px; margin-left:1px;}
+  .mainnav{display:flex; gap:2px; margin-left:16px; flex-wrap:wrap; align-items:center;}
+  .nav-link{padding:7px 12px; border-radius:8px; font-size:13.5px; font-weight:600; color:var(--muted);
+    cursor:pointer; border:none; background:none; font-family:inherit;}
+  .nav-link:hover{color:var(--text); background:var(--elev);}
+  .nav-link.active{color:var(--accent-2); background:var(--accent-soft);}
+  .nav-link.soon{opacity:.5; cursor:default;}
+  .nav-link.soon:hover{background:none; color:var(--muted);}
+  .nav-link .s{font-size:8.5px; vertical-align:super; color:#e0a73f; margin-left:2px; letter-spacing:.4px;}
+  .nav-more{position:relative;}
+  .nav-more summary{list-style:none; cursor:pointer;}
+  .nav-more summary::-webkit-details-marker{display:none;}
+  .nav-more .menu{position:absolute; top:115%; left:0; background:var(--panel);
+    border:1px solid var(--border); border-radius:10px; padding:6px; min-width:190px; z-index:90;
+    box-shadow:0 10px 28px rgba(0,0,0,.35);}
+  .nav-more .menu a{display:block; padding:8px 11px; border-radius:7px; font-size:13px;
+    color:var(--text); text-decoration:none; font-weight:600;}
+  .nav-more .menu a:hover{background:var(--elev);}
+
+  .topbar{display:flex; align-items:center; justify-content:space-between; gap:8px 16px;
+    flex-wrap:wrap; padding:7px 22px; border-bottom:1px solid var(--border-soft);}
+  .brand{display:flex; align-items:center; gap:12px;}
+  .logo{display:flex; align-items:center; gap:6px; user-select:none;}
+  .logo-s{position:relative; font-size:28px; font-weight:800; line-height:.85; padding-right:14px;
+    background:linear-gradient(165deg,#4ade80 10%,#15803d 90%);
+    -webkit-background-clip:text; background-clip:text; color:transparent;}
+  .logo-ai{position:absolute; top:-3px; right:0; font-size:9.5px; font-weight:800;
+    letter-spacing:.05em; -webkit-text-fill-color:#22c55e;}
+  .logo-rest{display:flex; flex-direction:column;}
+  .logo-antro{font-size:14px; font-weight:800; letter-spacing:.30em; color:var(--text); line-height:1;}
+  .logo-tagline{font-size:6.8px; font-weight:700; letter-spacing:.26em; color:#22c55e; margin-top:3px;}
+  @media (max-width:900px){ .logo-rest{display:none;} }
+  html[data-theme="light"] .logo-s{background:linear-gradient(165deg,#16a34a 10%,#14532d 90%);
+    -webkit-background-clip:text; background-clip:text;}
+  html[data-theme="light"] .logo-ai{-webkit-text-fill-color:#16a34a;}
+  html[data-theme="light"] .logo-tagline{color:#15803d;}
+  .topbar .right{display:flex; align-items:center; gap:14px; color:var(--muted); font-size:12.5px;}
+  #reload{background:transparent; color:var(--text); border:1px solid var(--border);
+    border-radius:9px; padding:8px 14px; font-size:13px; cursor:pointer; transition:.15s;}
+  #reload:hover{border-color:var(--accent-border); color:var(--accent-2); background:var(--accent-soft);}
+
+  /* day/night pill switch — dark pill: moon knob left + NIGHTMODE; light pill: DAYMODE + sun knob right */
+  #theme-toggle{position:relative; width:138px; height:36px; border-radius:999px; cursor:pointer;
+    padding:0; overflow:hidden; background:#0c1117; border:1px solid #232c36;
+    transition:background .3s, border-color .3s;}
+  #theme-toggle .tt-label{position:absolute; top:0; bottom:0; right:13px; display:flex; align-items:center;
+    font-size:10.5px; font-weight:700; letter-spacing:.9px; color:#e7edf3; transition:color .3s;}
+  #theme-toggle .tt-knob{position:absolute; top:2px; left:2px; width:30px; height:30px; border-radius:50%;
+    background:#fff; border:1px solid #d9dfe7; display:grid; place-items:center;
+    color:#1b242f; box-shadow:0 1px 3px rgba(0,0,0,.35); transition:left .3s ease;}
+  #theme-toggle .ic-sun{display:none;}
+  #theme-toggle.day{background:#f6f7f9; border-color:#d9dfe7;}
+  #theme-toggle.day .tt-label{right:auto; left:15px; color:#1b242f;}
+  #theme-toggle.day .tt-knob{left:calc(100% - 32px); color:#2a3440;
+    box-shadow:0 1px 3px rgba(20,30,45,.2);}
+  #theme-toggle.day .ic-sun{display:block;}
+  #theme-toggle.day .ic-moon{display:none;}
+
+
+  .intro-line{padding:22px 16px 8px;}
+  .intro-line h1{margin:0; font-size:clamp(22px,2.3vw,30px); font-weight:800; color:var(--text); letter-spacing:-.5px; line-height:1.15;}
+  .intro-line .slogan{margin:7px 0 0; font-size:clamp(13px,1.1vw,15px); font-weight:700; color:var(--accent-2);
+    letter-spacing:.2px;}
+  .intro-line p{margin:9px 0 0; font-size:13px; line-height:1.65; color:var(--muted); max-width:880px;}
+  .intro-line p a{color:var(--accent-2); text-decoration:none;}
+  .intro-line p a:hover{text-decoration:underline;}
+  /* AI trade in 60 seconds — homepage intelligence band (#6 + #10) */
+  .brief{margin:6px 16px 16px; background:var(--panel); border:1px solid var(--border); border-radius:16px; padding:16px 18px;}
+  .brief-head{display:flex; align-items:center; gap:9px; margin-bottom:11px;}
+  .brief-head .t{font-size:12px; font-weight:800; letter-spacing:.5px; text-transform:uppercase; color:var(--text);}
+  .brief-head .clk{font-size:10px; color:var(--faint);}
+  .brief-head .sh{margin-left:auto; font-size:11px; font-weight:700; color:var(--accent-2); text-decoration:none;}
+  .brief-head .sh:hover{color:var(--accent);}
+  .brief-grid{display:grid; grid-template-columns:1.7fr repeat(5,1fr); gap:11px;}
+  .bt{background:var(--elev); border:1px solid var(--border-soft); border-radius:12px; padding:12px 14px; min-width:0;
+    transition:border-color .15s ease, transform .15s ease;}
+  .bt:hover{border-color:var(--accent-border,#2c5a44); transform:translateY(-1px);}
+  .bt .k{font-size:9.5px; text-transform:uppercase; letter-spacing:.7px; color:var(--faint); font-weight:700;}
+  .bt .v{font-size:clamp(15px,1.25vw,19px); font-weight:800; margin-top:5px; line-height:1.18;
+    display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden;}
+  .bt .s{font-size:11px; color:var(--muted); margin-top:3px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis;}
+  .bt.risk .top{display:flex; align-items:baseline; gap:7px; flex-wrap:wrap;}
+  .bt.risk .num{font-size:30px; font-weight:800; line-height:1;}
+  .bt.risk .spark{margin-top:5px;}
+  .bt.risk .rsh{font-size:10px; font-weight:700; color:var(--accent-2); text-decoration:none; margin-top:5px; display:inline-block;}
+  .bt.risk .rsh:hover{color:var(--accent);}
+  .brief-note{margin-top:10px; font-size:12px; color:var(--muted); line-height:1.5;}
+  .brief-note b{color:var(--accent-2); font-weight:700;}
+  @media (max-width:900px){ .brief-grid{grid-template-columns:1fr 1fr 1fr;} .bt.risk{grid-column:span 3;} }
+  @media (max-width:560px){ .brief-grid{grid-template-columns:1fr 1fr;} .bt.risk{grid-column:span 2;} }
+  /* terminal mobile: compact topbar controls, no overflow */
+  @media (max-width:640px){
+    .topbar{padding:7px 10px; padding-top:calc(7px + env(safe-area-inset-top));}
+    .topbar .right{gap:8px; font-size:11px; flex-wrap:wrap; justify-content:flex-end; row-gap:6px;}
+    #theme-toggle{width:66px;}
+    #theme-toggle .tt-label{display:none;}
+    #theme-toggle.day .tt-knob{left:calc(100% - 32px);}
+    #asof{font-size:10px; max-width:150px; overflow:hidden; text-overflow:ellipsis; white-space:nowrap;}
+    #reload{font-size:0; padding:9px 11px;}
+    #reload::before{content:"↻"; font-size:15px; line-height:1;}
+    .mainnav{overflow-x:auto; -webkit-overflow-scrolling:touch; flex-wrap:nowrap; max-width:100%;
+      scrollbar-width:none;}
+    .mainnav::-webkit-scrollbar{display:none;}
+    .nav-link{padding:11px 10px; white-space:nowrap;}
+    .sect-tbl{display:block; overflow-x:auto; -webkit-overflow-scrolling:touch;}
+    /* curated mobile top: tape + global controls collapse; sign-in stays */
+    .topstrip{padding:4px 12px; min-height:0;}
+    .topstrip .ts-stats{display:none;}
+    .topstrip .x-link{display:none;}
+    #theme-toggle{display:none;}
+    #reload{display:none;}
+    #asof{display:none;}
+    #topbar-search{order:99; width:100%;}
+    #topbar-search .tsearch{width:100%;}
+    #topbar-search .tsearch input{width:100%;}
+    .m-only.m-cta{display:flex;}
+    .m-only.m-note{display:block;}
+  }
+
+  /* ══ quiz-first landing ══ */
+  .land-hero{display:grid;grid-template-columns:1.25fr .75fr;gap:26px;align-items:center;padding:34px 22px 10px;max-width:1180px;margin:0 auto;}
+  .land-hero h1{font-size:clamp(26px,3.2vw,40px);margin:0;letter-spacing:-.6px;line-height:1.12;}
+  .lh-sub{font-size:clamp(15px,1.4vw,18px);color:var(--text);margin:12px 0 0;font-weight:600;}
+  .lh-support{font-size:14px;color:var(--muted);margin:8px 0 0;line-height:1.6;max-width:560px;}
+  .lh-brand{font-size:12.5px;color:var(--faint);margin:10px 0 0;line-height:1.6;max-width:600px;}
+  .lh-brand b{color:var(--muted);}
+  .lh-slogan{color:var(--accent-2);font-weight:700;}
+  .lh-cta{display:flex;gap:10px;margin:16px 0 0;flex-wrap:wrap;}
+  .lh-btn{padding:13px 20px;border-radius:11px;font-weight:700;font-size:14.5px;text-decoration:none;
+    background:var(--elev);color:var(--text);border:1px solid var(--border);min-height:48px;display:inline-flex;align-items:center;}
+  .lh-btn.primary{background:var(--accent,var(--accent,#22c55e));color:#fff;border-color:var(--accent,var(--accent,#22c55e));}
+  .lh-micro{font-size:12px;color:var(--faint);margin:12px 0 0;}
+  .lh-micro a{color:var(--accent-2);text-decoration:none;font-weight:600;}
+  .mockcard{background:var(--panel);border:1px solid var(--border);border-radius:16px;padding:18px;max-width:330px;margin-left:auto;}
+  .mc-tag{font-size:9.5px;letter-spacing:.8px;text-transform:uppercase;color:var(--faint);font-weight:700;}
+  .mc-name{font-size:24px;font-weight:800;letter-spacing:-.4px;color:var(--accent-2);margin:6px 0 12px;}
+  .mc-row{display:flex;justify-content:space-between;font-size:12px;color:var(--muted);}
+  .mc-hi{color:#e0a73f;font-weight:700;}
+  .mc-bar{height:7px;background:var(--elev);border-radius:999px;margin:6px 0 12px;overflow:hidden;}
+  .mc-bar i{display:block;height:100%;background:#e0a73f;border-radius:999px;}
+  .mc-tools{display:flex;gap:6px;flex-wrap:wrap;margin:0 0 10px;}
+  .mc-tools span{font-size:11px;font-weight:700;padding:5px 9px;border-radius:999px;background:var(--elev);color:var(--muted);border:1px solid var(--border-soft);}
+  .mc-first{font-size:12.5px;color:var(--text);border-left:3px solid #22c55e;padding-left:9px;}
+  .mc-wm{margin-top:12px;padding-top:10px;border-top:1px solid var(--border-soft);font-size:10px;color:var(--faint);}
+  .land-quiz,.land-grid,.land-why,.land-loop,.land-term{max-width:1180px;margin:0 auto;padding:26px 22px 6px;}
+  .land-quiz{max-width:720px;}
+  .lq-head h2,.land-grid h2,.land-why h2,.land-loop h2,.land-term h2{font-size:clamp(19px,2vw,25px);margin:0 0 6px;letter-spacing:-.3px;}
+  .lq-sup,.lg-sub{font-size:13px;color:var(--muted);line-height:1.6;margin:0 0 12px;max-width:680px;}
+  .lg-cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:10px;}
+  .lg-card{display:block;background:var(--panel);border:1px solid var(--border-soft);border-radius:12px;padding:14px 15px;text-decoration:none;transition:border-color .12s;}
+  .lg-card:hover{border-color:var(--accent-border);}
+  .lg-card b{color:var(--text);font-size:14.5px;display:block;margin:6px 0 4px;}
+  .lg-card p{color:var(--muted);font-size:12.5px;line-height:1.55;margin:0;}
+  .lg-ic{font-size:15px;font-weight:800;}
+  .lg-ic.up{color:#22c55e;} .lg-ic.dn{color:#f0596e;} .lg-ic.am{color:#e0a73f;} .lg-ic.bl{color:var(--accent-2);} .lg-ic.ok{color:#69cd91;}
+  .lw-flow{display:flex;gap:8px;align-items:center;flex-wrap:wrap;margin:6px 0 8px;}
+  .lw-flow span{background:var(--elev);border:1px solid var(--border-soft);border-radius:999px;padding:8px 14px;font-size:12.5px;font-weight:700;color:var(--text);}
+  .lw-flow i{color:var(--faint);font-style:normal;}
+  .ll-cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:9px;margin:4px 0 10px;}
+  .ll-c{background:var(--panel);border:1px solid var(--border-soft);border-radius:11px;padding:12px 13px;font-size:12.5px;color:var(--muted);}
+  .ll-c b{display:block;color:#22c55e;font-size:15px;margin-bottom:3px;}
+  .land-term{border-top:1px solid var(--border-soft);margin-top:22px;padding-top:26px;}
+  /* quiz engine styles (source of truth mirrors quiz.html) */
+  .qbar{height:5px;background:var(--elev);border-radius:999px;margin:14px 0 6px;overflow:hidden;}
+  .qbar i{display:block;height:100%;background:linear-gradient(90deg,var(--accent,var(--accent,#22c55e)),#e0a73f);border-radius:999px;transition:width .25s ease;}
+  .qstep{font-size:11px;color:var(--faint);text-transform:uppercase;letter-spacing:.6px;font-weight:700;}
+  .qcard{background:var(--panel);border:1px solid var(--border);border-radius:14px;padding:18px 18px 14px;margin-top:10px;}
+  .qcard h2{font-size:18px;margin:0 0 12px;line-height:1.35;}
+  .qopt{display:block;width:100%;text-align:left;font:inherit;font-size:14.5px;color:var(--text);background:var(--elev);
+    border:1px solid var(--border-soft);border-radius:10px;padding:13px 14px;margin:7px 0;cursor:pointer;min-height:48px;}
+  .qopt:hover{border-color:var(--accent-border,#2c5a44);}
+  .qback{background:none;border:0;color:var(--faint);font:inherit;font-size:12.5px;cursor:pointer;padding:8px 0;}
+  .rcard{background:var(--panel);border:1px solid var(--border);border-radius:16px;padding:22px 20px;margin-top:14px;}
+  .rcard .tag{font-size:10px;letter-spacing:.8px;text-transform:uppercase;color:var(--faint);font-weight:700;}
+  .rcard .pname{font-size:clamp(24px,5vw,32px);font-weight:800;letter-spacing:-.5px;margin:6px 0 8px;color:var(--text);}
+  .rcard .pdesc{color:var(--muted);font-size:14.5px;line-height:1.65;}
+  .rmeter{margin:16px 0 4px;} .rmeter .k{font-size:11px;color:var(--faint);text-transform:uppercase;letter-spacing:.6px;font-weight:700;display:flex;justify-content:space-between;}
+  .rmeter .bar{height:8px;background:var(--elev);border-radius:999px;margin-top:6px;overflow:hidden;}
+  .rmeter .bar i{display:block;height:100%;border-radius:999px;}
+  .rtools{margin:14px 0 2px;display:flex;flex-wrap:wrap;gap:7px;}
+  .rtools a{font-size:12.5px;font-weight:700;padding:8px 12px;border-radius:999px;text-decoration:none;background:var(--elev);color:var(--accent-2);border:1px solid var(--border-soft);}
+  .rfirst{margin-top:12px;font-size:13.5px;color:var(--muted);} .rfirst b{color:var(--text);}
+  .rcta{display:flex;gap:9px;margin-top:18px;flex-wrap:wrap;}
+  .rcta a{flex:1;min-width:150px;text-align:center;padding:13px 12px;border-radius:11px;font-weight:700;font-size:14px;text-decoration:none;}
+  .rcta .primary{background:var(--accent,var(--accent,#22c55e));color:#fff;} .rcta .ghost{background:var(--elev);color:var(--text);border:1px solid var(--border);}
+  .rios{margin-top:14px;padding:12px 14px;border:1px solid var(--border-soft);border-radius:10px;font-size:12.5px;color:var(--muted);} .rios b{color:var(--accent-2);}
+  .rbrand{margin-top:16px;padding-top:12px;border-top:1px solid var(--border-soft);font-size:11px;color:var(--faint);display:flex;justify-content:space-between;flex-wrap:wrap;gap:6px;}
+  .rshare{font:inherit;font-size:12px;font-weight:700;background:none;border:1px solid var(--border-soft);border-radius:8px;color:var(--accent-2);padding:6px 12px;cursor:pointer;}
+  .retake{background:none;border:0;color:var(--faint);font:inherit;font-size:12px;cursor:pointer;text-decoration:underline;padding:0;}
+  @media (max-width:900px){ .land-hero{grid-template-columns:1fr;gap:16px;padding-top:22px;} .mockcard{margin:0 auto;} }
+  @media (max-width:640px){ .lg-card.m-hide{display:none;} .land-hero{padding:18px 14px 4px;} .land-quiz,.land-grid,.land-why,.land-loop,.land-term{padding:20px 14px 4px;} }
+
+  /* mobile-only cards (hidden on desktop) */
+  .m-only{display:none;}
+  .m-cta{gap:9px; margin:12px 16px 0;}
+  .m-btn{flex:1; text-align:center; padding:13px 10px; border-radius:11px; font-weight:700; font-size:14px;
+    text-decoration:none; background:var(--elev); color:var(--text); border:1px solid var(--border);}
+  .m-btn.primary{background:var(--accent-soft); color:var(--accent-2); border-color:var(--accent-border);}
+  .m-note{margin:10px 16px 2px; padding:12px 14px; background:var(--panel); border:1px solid var(--border-soft);
+    border-radius:11px; font-size:12px; line-height:1.6; color:var(--muted);}
+  .m-note b{color:var(--text);}
+  .m-note .m-soon{color:var(--accent-2); font-weight:700; white-space:nowrap;}
+  .grid{display:grid; gap:14px; padding:14px;
+    grid-template-columns:1.55fr 1fr 1fr;
+    grid-template-rows:474px minmax(392px, 640px);
+    grid-template-areas:"heat news small" "detail ipo takeaways";}
+  @media (max-width:1100px){.grid{grid-template-columns:1fr 1fr; grid-template-rows:auto;
+    grid-template-areas:"heat heat" "detail news" "small ipo" "takeaways takeaways";}}
+  @media (max-width:720px){.grid{grid-template-columns:1fr;
+    grid-template-areas:"heat" "detail" "news" "small" "ipo" "takeaways";}}
+  .area-heat{grid-area:heat;} .area-detail{grid-area:detail;}
+  .area-news{grid-area:news;} .area-ipo{grid-area:ipo;}
+  .area-small{grid-area:small;} .area-takeaways{grid-area:takeaways;}
+
+  .panel{background:var(--panel); border:1px solid var(--border); border-radius:var(--radius);
+    display:flex; flex-direction:column; min-height:0; overflow:hidden; box-shadow:0 1px 2px rgba(0,0,0,.25);}
+  .panel > h2{margin:0; padding:14px 16px; font-size:11px; font-weight:600; letter-spacing:.8px;
+    text-transform:uppercase; color:var(--muted); border-bottom:1px solid var(--border-soft);
+    display:flex; align-items:center; gap:9px;}
+  .panel > h2 .ic{color:var(--accent); font-size:13px; line-height:1;}
+  .seg{display:inline-flex; gap:2px; background:var(--panel-2); border:1px solid var(--border);
+    border-radius:8px; padding:2px; margin-left:6px;}
+  .seg-btn{border:1px solid transparent; background:transparent; color:var(--muted); font:inherit;
+    font-size:11px; letter-spacing:.4px; padding:4px 9px; border-radius:6px; cursor:pointer;}
+  .seg-btn:hover{color:var(--text);}
+  .seg-btn.active{background:var(--accent-soft); color:var(--accent-2); border-color:var(--accent-border);}
+  /* ---- ticker search pill (component injected by site.js) ---- */
+  .tsearch{position:relative;}
+  .tsearch .box{display:flex; align-items:center; gap:7px; background:var(--panel-2);
+    border:1px solid var(--border); border-radius:999px; padding:7px 12px; width:170px;
+    transition:border-color .15s, width .15s; cursor:text;}
+  .tsearch .box:hover, .tsearch .box:focus-within{border-color:var(--accent-border); width:215px;}
+  .tsearch .box svg{flex:0 0 auto; color:var(--faint);}
+  .tsearch input{flex:1; min-width:0; background:transparent; border:0; outline:0; color:var(--text);
+    font:inherit; font-size:13px;}
+  .tsearch input::placeholder{color:var(--faint);}
+  .tsearch .kbd{font-size:10px; color:var(--faint); border:1px solid var(--border);
+    background:var(--panel); border-radius:5px; padding:1px 6px;}
+  .tsearch .drop{position:absolute; top:120%; right:0; width:330px; background:var(--panel);
+    border:1px solid var(--border); border-radius:12px; overflow:hidden;
+    box-shadow:0 14px 40px rgba(0,0,0,.5); z-index:80;}
+  .tsearch .sg{display:flex; align-items:center; gap:10px; padding:9px 13px;
+    border-bottom:1px solid var(--border-soft); cursor:pointer; font-size:13px;}
+  .tsearch .sg:last-child{border-bottom:0;}
+  .tsearch .sg:hover, .tsearch .sg.active{background:var(--elev);}
+  .tsearch .sg img{width:22px; height:22px; border-radius:50%;}
+  .tsearch .sg .tk{font-weight:700; width:50px; flex:0 0 auto;}
+  .tsearch .sg .nm{color:var(--muted); flex:1; font-size:12px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis;}
+  .tsearch .sg .pc{font-weight:700; font-size:12px; flex:0 0 auto;}
+  .badge{margin-left:auto; font-size:10px; letter-spacing:.4px; padding:3px 9px; border-radius:999px; font-weight:600;}
+  .refresh-btn{margin-left:8px; width:24px; height:24px; padding:0; border-radius:999px;
+    background:var(--elev); border:1px solid var(--border); color:var(--muted); cursor:pointer;
+    font-size:13px; line-height:1; display:inline-flex; align-items:center; justify-content:center;
+    transition:.15s;}
+  .refresh-btn:hover{color:var(--accent-2); border-color:var(--accent-border);}
+  .refresh-btn:disabled{cursor:default;}
+  .refresh-btn.spin{animation:spin .7s linear infinite;}
+  @keyframes spin{to{transform:rotate(360deg);}}
+  .badge.live{background:var(--accent-soft); color:var(--accent-2); border:1px solid var(--accent-border);}
+  .badge.sample{background:#241d10; color:#e0a73f; border:1px solid #463713;}
+  .badge.beta{background:#241d10; color:#e0a73f; border:1px solid #463713;
+    margin-left:9px; vertical-align:3px; font-size:10px; padding:3px 9px;}
+  .panel .body{padding:14px 16px; overflow:auto; flex:1 1 auto; min-height:0;}
+  .panel .body.tight{padding:8px;}
+  .legend{display:flex; align-items:center; gap:7px; font-size:10px; color:var(--faint); margin-left:auto; text-transform:none; letter-spacing:0;}
+  .legend .bar{width:110px;height:8px;border-radius:99px;background:linear-gradient(to right,
+    #700f19,#b91c1c,#ef4444,#f77b7b,#262a2e,#69cd91,#22c55e,#15803d,#0a522d);}
+  #chart{width:100%; height:384px;}
+
+  .d-head{display:flex; align-items:baseline; gap:11px; flex-wrap:wrap;}
+  .d-sym{font-size:24px; font-weight:600; letter-spacing:.3px;}
+  .d-name{color:var(--muted); font-size:13px;}
+  .d-pct{margin-left:auto; font-size:18px; font-weight:600;}
+  .d-stats{display:grid; grid-template-columns:1fr 1fr; gap:10px; margin:16px 0 4px;}
+  .d-stat{background:var(--panel-2); border:1px solid var(--border-soft); border-radius:var(--radius-sm); padding:11px 13px;}
+  .d-stat .k{color:var(--faint); font-size:10.5px; text-transform:uppercase; letter-spacing:.5px;}
+  .d-stat .v{font-size:16px; font-weight:600; margin-top:3px;}
+  .see-more{display:inline-flex; align-items:center; gap:6px; padding:9px 14px;
+    border-radius:var(--radius-sm); background:var(--accent-soft); border:1px solid var(--accent-border);
+    color:var(--accent-2); font-size:13px; text-decoration:none; font-weight:600; transition:.15s;}
+  .see-more:hover{background:#16314f;}
+  .links{display:flex; gap:10px; flex-wrap:wrap; margin-top:14px;}
+  .thesis{margin:10px 0 2px; padding:10px 13px; border-left:3px solid var(--accent);
+    background:var(--panel-2); border-radius:0 var(--radius-sm) var(--radius-sm) 0;
+    color:#c6cfd9; font-size:13px; line-height:1.5;}
+  .sec-label{margin:16px 0 8px; font-size:10px; font-weight:600; letter-spacing:.7px;
+    text-transform:uppercase; color:var(--faint);}
+  .chips{display:flex; flex-wrap:wrap; gap:8px;}
+  /* sector member table — every ticker links to its own page */
+  .sect-tbl{width:100%; border-collapse:collapse; font-size:12.5px;}
+  .sect-tbl th{font-size:9px; text-transform:uppercase; letter-spacing:.6px; color:var(--faint);
+    text-align:left; font-weight:700; padding:2px 8px 6px; border-bottom:1px solid var(--border);}
+  .sect-tbl td{padding:5px 8px; border-bottom:1px solid var(--border-soft);}
+  .sect-tbl tbody tr:last-child td{border-bottom:0;}
+  .sect-tbl tbody tr:hover{background:var(--elev);}
+  .sect-tbl .num{text-align:right; font-variant-numeric:tabular-nums;}
+  .sect-tbl a{color:var(--text); font-weight:700; text-decoration:none;}
+  .sect-tbl a:hover{color:var(--accent-2);}
+  .score-chip{background:var(--accent-soft); border:1px solid var(--accent-border);
+    border-radius:8px; padding:6px 11px; font-size:12.5px; font-weight:600; color:var(--text);}
+  .score-chip .k{display:block; font-size:9px; font-weight:600; letter-spacing:.5px;
+    text-transform:uppercase; color:var(--accent-2); margin-bottom:2px;}
+  .d-stat .sub2{display:block; font-size:10.5px; color:var(--faint); font-weight:400; margin-top:2px;}
+
+  .news-row{padding:11px 10px; margin:0 -10px; border-bottom:1px solid var(--border-soft); border-radius:8px; transition:.12s;}
+  .news-row:last-child{border-bottom:0;}
+  .news-row:hover{background:var(--elev);}
+  .news-row a{color:#d4dce4; text-decoration:none; font-size:13.5px; line-height:1.4; display:block;}
+  .news-row:hover a{color:#fff;}
+  .news-row .meta{color:var(--faint); font-size:11px; margin-top:5px; display:flex; gap:8px; align-items:center;}
+  .chip{font-size:10px; font-weight:600; color:var(--accent-2); background:var(--accent-soft);
+    border:1px solid var(--accent-border); padding:1px 7px; border-radius:6px; letter-spacing:.3px;}
+  .mover{display:flex; align-items:center; gap:11px; padding:10px 10px; margin:0 -10px; border-radius:8px;
+    border-bottom:1px solid var(--border-soft); transition:.12s;}
+  .mover:last-child{border-bottom:0;} .mover:hover{background:var(--elev);}
+  .mover .sym{font-weight:600; width:60px;}
+  .mover .nm{color:var(--muted); font-size:12px; flex:1 1 auto; overflow:hidden; text-overflow:ellipsis; white-space:nowrap;}
+  .mover .pct{font-weight:600;}
+  .runner{padding:10px 0; border-bottom:1px solid var(--border-soft);}
+  .runner:last-of-type{border-bottom:0;}
+  .runner .r1{display:flex; align-items:baseline; gap:9px;}
+  .runner .sym{font-weight:600;}
+  .runner .rmeta{font-size:11px; color:var(--faint);}
+  .runner .pct{margin-left:auto; font-weight:600;}
+  .runner .r2{font-size:12px; color:var(--muted); line-height:1.5; margin-top:3px;}
+  .runner-note{margin-top:10px; padding-top:9px; border-top:1px solid var(--border-soft);
+    font-size:11.5px; color:var(--faint); line-height:1.55; font-style:italic;}
+  .hot{display:flex; gap:11px; align-items:flex-start; padding:11px 0; border-bottom:1px solid var(--border-soft);}
+  .hot:last-of-type{border-bottom:0;}
+  .hot .htk{min-width:54px;}
+  .hot .htk .sym{font-weight:700; cursor:pointer; transition:color .12s;}
+  .hot .htk .sym:hover{color:var(--accent-2); text-decoration:underline;}
+  .hot .htk .pr{font-size:11px; color:var(--faint); margin-top:2px;}
+  .hot .hact{display:flex; gap:7px; margin-top:4px; font-size:10px; white-space:nowrap;}
+  .hot .hact span, .hot .hact a{color:var(--accent-2); cursor:pointer; text-decoration:none;
+    background:var(--accent-soft); border:1px solid var(--accent-border); border-radius:5px; padding:1px 6px;}
+  .hot .hact span:hover, .hot .hact a:hover{color:var(--text);}
+  .chip-mv{font-size:12px; font-weight:700; padding:2px 9px; border-radius:999px; white-space:nowrap;}
+  .chip-up{background:rgba(34,197,94,.13); color:var(--green);}
+  .chip-down{background:rgba(240,90,110,.13); color:var(--red);}
+  .chip-nonews{background:rgba(224,167,63,.15); color:#e0a73f;}
+  .hot .hwhy{flex:1; font-size:12.5px; line-height:1.45; color:var(--muted);}
+  .hot .hmeta{font-size:11px; color:var(--faint); margin-top:3px;}
+  .hot .hmeta a{color:var(--accent-2); text-decoration:none;}
+  .hot .hmeta .nocat{color:#e0a73f; font-weight:600;}
+  .hot-slogan{font-size:11px; color:var(--accent-2); font-weight:700; letter-spacing:.3px; margin:0 0 9px;}
+  .hot .fire{font-size:11.5px; color:#e0a73f; min-width:40px; text-align:right; font-weight:600;}
+  .ipo-row{display:flex; align-items:center; gap:12px; padding:11px 10px; margin:0 -10px; border-radius:8px;
+    border-bottom:1px solid var(--border-soft); transition:.12s;}
+  .ipo-row:last-child{border-bottom:0;} .ipo-row:hover{background:var(--elev);}
+  .ipo-logo{width:36px;height:36px;border-radius:9px;background:var(--accent-soft); border:1px solid var(--accent-border);
+    display:grid;place-items:center; font-weight:600;color:var(--accent-2);flex:0 0 auto; font-size:12px;}
+  .ipo-main{flex:1 1 auto; min-width:0;} .ipo-main .nm{font-weight:600;}
+  .ipo-main .note{color:var(--faint); font-size:11.5px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; margin-top:1px;}
+  .ipo-right{text-align:right; flex:0 0 auto;} .ipo-right .val{font-weight:600;}
+  .ipo-right .stat{font-size:10px; color:#e0a73f; text-transform:uppercase; letter-spacing:.4px; margin-top:1px;}
+  /* ---- SpaceX IPO feature (the only IPO shown; big live price + running news) ---- */
+  .spcx-head{display:flex; align-items:center; gap:12px; padding:4px 0 12px; cursor:pointer;
+    border-bottom:1px solid var(--border-soft);}
+  .spcx-head:hover .spcx-tk{color:var(--accent-2);}
+  .spcx-logo img{width:100%; height:100%; object-fit:cover; border-radius:10px; display:block;}
+  .spcx-logo{width:42px;height:42px;border-radius:11px;background:var(--accent-soft);
+    border:1px solid var(--accent-border); display:grid;place-items:center;
+    font-weight:700;color:var(--accent-2);flex:0 0 auto; font-size:13px;}
+  .spcx-logo>*{grid-area:1/1;}   /* monogram sits behind the img; shows if it 404s */
+  .spcx-main{flex:1 1 auto; min-width:110px;}
+  .spcx-nm{font-weight:700; font-size:15px; white-space:nowrap;}
+  .spcx-tk{color:var(--muted); font-size:11.5px; margin-top:1px; transition:.12s; line-height:1.45;}
+  .spcx-px{text-align:right; flex:0 1 auto; max-width:60%;}
+  .spcx-px .ref{white-space:normal; line-height:1.5;}
+  .spcx-px .big{font-size:27px; font-weight:800; letter-spacing:-.5px; line-height:1.05;
+    font-variant-numeric:tabular-nums;}
+  .spcx-px .chg{font-size:14px; font-weight:700; margin-top:2px;}
+  .spcx-px .ref{font-size:10px; color:var(--faint); margin-top:2px; text-transform:uppercase; letter-spacing:.4px;}
+  .spcx-px .ref.hl{color:#e0a73f; font-weight:700;}
+  .spcx-srclbl{font-size:9.5px; letter-spacing:.7px; text-transform:uppercase; color:var(--faint);
+    font-weight:700; padding:11px 0 3px;}
+  .spcx-tweet{padding:8px 0; border-bottom:1px solid var(--border-soft); line-height:1.45;}
+  .spcx-tweet:last-of-type{border-bottom:0;}
+  .spcx-tweet a{color:var(--text); text-decoration:none; font-size:12.5px; font-weight:600;}
+  .spcx-tweet a:hover{color:var(--accent-2);}
+  .spcx-tweet .m{color:var(--faint); font-size:11px; margin-top:2px;}
+  .spcx-news{padding-top:4px;}
+  .spcx-item{padding:9px 0; border-bottom:1px solid var(--border-soft); line-height:1.4;}
+  .spcx-item:last-child{border-bottom:0;}
+  .spcx-item a{color:var(--text); text-decoration:none; font-size:13px;}
+  .spcx-item a:hover{color:var(--accent-2);}
+  .spcx-item .m{color:var(--faint); font-size:11px; margin-top:2px;}
+  .spcx-wait{color:var(--faint); font-size:12.5px; padding:12px 0; font-style:italic;}
+  .takeaway{display:flex; gap:10px; padding:9px 0; border-bottom:1px solid var(--border-soft); line-height:1.45;}
+  .takeaway:last-child{border-bottom:0;} .takeaway .b{color:var(--accent); flex:0 0 auto;}
+  .tk-since{font-size:12px; color:var(--faint); font-style:italic; padding-bottom:10px;
+    border-bottom:1px solid var(--border-soft); line-height:1.5;}
+  .tk-card{padding:12px 0; border-bottom:1px solid var(--border-soft);}
+  .tk-card:last-child{border-bottom:0;}
+  .tk-h{font-size:13px; font-weight:600; line-height:1.35;}
+  .tk-b{font-size:12.5px; color:var(--muted); line-height:1.55; margin:5px 0 7px;}
+  .tk-meta{display:flex; flex-wrap:wrap; gap:5px; align-items:center;}
+  .tk-watch{font-size:12px; color:#e0a73f; margin-top:7px; line-height:1.45;}
+  html[data-theme="light"] .tk-watch{color:#92660f;}
+  .tk-more{display:block; width:100%; margin-top:12px; padding:9px 12px; border-radius:9px;
+    background:var(--accent-soft); border:1px solid var(--accent-border); color:var(--accent-2);
+    font:inherit; font-size:12.5px; font-weight:600; cursor:pointer; transition:.15s;}
+  .tk-more:hover{background:#16314f;}
+  html[data-theme="light"] .tk-more:hover{background:#d9e7fa;}
+
+  footer{display:grid; grid-template-columns:1fr auto 1fr; align-items:end; gap:16px;
+    padding:20px 28px 32px; border-top:1px solid var(--border-soft);}
+  footer .foot-text{grid-column:2; text-align:center; color:var(--faint); font-size:12.5px;
+    line-height:1.9; padding-bottom:8px;}
+  footer .foot-text a{color:var(--muted); font-weight:600; text-decoration:none;}
+  footer .foot-text a:hover{color:var(--text);}
+  footer .foot-nav a{font-weight:700;}
+  @media (max-width:900px){footer{grid-template-columns:1fr;}
+    footer .foot-text{grid-column:1;}}
+  footer .foot-text .bn{color:var(--accent-2); font-weight:600;}
+  footer .foot-text .nfa{color:#e0a73f; font-weight:600;}
+  footer .foot-text .rights{font-size:11px; color:var(--faint);}
+
+  /* terminal page: hero is a compact full-width strip, not a landing hero */
+  @media (min-width:900px){
+    .intro-line{display:flex;align-items:baseline;gap:10px 22px;flex-wrap:wrap;padding:14px 16px 4px;}
+    .intro-line h1{font-size:23px;letter-spacing:-.3px;}
+    .intro-line .slogan{font-size:12.5px;margin:0;}
+    .intro-line p{flex:1 1 100%;max-width:1500px;font-size:12.5px;margin:4px 0 0;color:var(--faint);}
+    .intro-line p:last-of-type{flex:0 0 auto;margin:2px 0 0;}
+  }
+</style>
+<link rel="stylesheet" href="accounts/accounts.css?v=9" />
+</head>
+<body>
+
+
+  <!-- meganav v9 — generated by gen_nav.py; edit NAV there, not here -->
+<link rel="stylesheet" href="/ds-v2/tokens.css?v=3">
+<link rel="stylesheet" href="/ds-v2/primitives.css?v=1">
+<link rel="stylesheet" href="/ds-v2/shell.css?v=1">
+<link rel="stylesheet" href="/ds-v2/remap.css?v=1">
+<link rel="stylesheet" href="/ds-v2/lock.css?v=1">
+<script src="/ds-v2/compliance.js?v=1" defer></script>
+<script src="/ds-v2/gates.js?v=1" defer></script>
+<script src="/ds-v2/lock-copy.js?v=2" defer></script>
+<script src="/ds-v2/events.js?v=1" defer></script>
+<script src="/ds-v2/locks.js?v=2" defer></script>
+<script src="/ds-v2/flags.js?v=5"></script>
+<header class="meganav" id="meganav">
+<style>
+/* santro brand tokens — green is the identity color. Blue is NOT a Santro
+   UI color anywhere (2026-07-08 rule) — never reintroduce it. */
+header.meganav{--sg:#22c55e;--sg-hi:#4ade80;--sg-deep:#15803d;
+  --sg-soft:rgba(34,197,94,.12);--sg-border:rgba(34,197,94,.45);
+  --ramber:#d9a13c;--ramber-border:rgba(217,161,60,.45);}
+header.meganav{display:block;position:relative;z-index:60;background:var(--panel-2,#0c121a);border-bottom:1px solid var(--border,#1d2733);font-family:var(--font-sans, -apple-system,BlinkMacSystemFont,"Inter","Segoe UI",Roboto,Helvetica,Arial,sans-serif);text-align:left;}
+.meganav *{box-sizing:border-box;}
+.meganav .mn-in{max-width:1680px;margin:0 auto;padding:0 clamp(16px,2vw,40px);display:flex;align-items:center;gap:18px;height:56px;}
+.meganav a{text-decoration:none;}
+.meganav .mn-logo{display:flex;align-items:center;gap:8px;flex:0 0 auto;}
+.meganav .mn-ls{font-weight:900;font-size:24px;line-height:.9;
+  background:linear-gradient(165deg,var(--sg-hi) 10%,var(--sg-deep) 90%);
+  -webkit-background-clip:text;background-clip:text;color:transparent;}
+html[data-theme="light"] .meganav .mn-ls{background:linear-gradient(165deg,#16a34a 10%,#14532d 90%);-webkit-background-clip:text;background-clip:text;}
+.meganav .mn-lr{display:flex;flex-direction:column;line-height:1.1;}
+.meganav .mn-lr b{font-weight:800;font-size:14.5px;letter-spacing:.02em;color:var(--text,#e7edf3);}
+.meganav .mn-lr i{font-style:normal;font-size:7.5px;letter-spacing:1.4px;color:var(--faint,#5a6573);font-weight:700;}
+.meganav .mn-beta{font-style:normal;font-size:9px;font-weight:800;letter-spacing:.8px;color:var(--ramber);border:1px solid var(--ramber-border);border-radius:5px;padding:2px 5px;margin-left:2px;}
+.meganav .mn-nav{display:flex;align-items:center;gap:2px;flex:1 1 auto;min-width:0;}
+.meganav .mn-top{appearance:none;background:none;border:0;font:inherit;cursor:pointer;padding:19px 11px;font-size:13.5px;font-weight:600;color:var(--muted,#8895a4);letter-spacing:.2px;border-bottom:2px solid transparent;white-space:nowrap;}
+.meganav .mn-item:hover>.mn-top,.meganav .mn-item.open>.mn-top{color:var(--text,#e7edf3);}
+.meganav .mn-item.on>.mn-top{color:var(--text,#e7edf3);border-bottom-color:var(--sg);}
+.meganav .mn-item{position:static;}
+.meganav .mn-panel{display:none;position:absolute;left:0;right:0;top:56px;background:var(--panel,#111822);border-bottom:1px solid var(--border,#1d2733);box-shadow:0 18px 40px rgba(0,0,0,.45);padding:20px 0 22px;}
+.meganav .mn-item.open>.mn-panel{display:block;}
+@media(hover:hover) and (min-width:1021px){.meganav .mn-item:hover>.mn-panel{display:block;}}
+.meganav .mn-pin{max-width:1680px;margin:0 auto;padding:0 clamp(16px,2vw,40px);}
+.meganav .mn-desc{margin:0 0 14px;font-size:12px;color:var(--faint,#5a6573);font-weight:500;max-width:640px;}
+.meganav .mn-links{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:4px 26px;}
+.meganav .mn-links.mn-w2{grid-template-columns:repeat(2,minmax(0,1fr));max-width:640px;}
+.meganav .mn-link{display:block;padding:9px 10px;border-radius:9px;}
+.meganav .mn-link:hover{background:var(--elev,#16202b);}
+.meganav .mn-link b{display:block;font-size:13.5px;font-weight:700;color:var(--text,#e7edf3);}
+.meganav .mn-link span{display:block;margin-top:2px;font-size:12px;line-height:1.45;color:var(--muted,#8895a4);font-weight:400;}
+.meganav .mn-off{display:block;padding:9px 10px;font-size:13.5px;font-weight:700;color:var(--faint,#5a6573);}
+.meganav .mn-b{font-style:normal;font-size:9.5px;font-weight:800;letter-spacing:.6px;text-transform:uppercase;border-radius:5px;padding:1.5px 6px;margin-left:7px;vertical-align:2px;}
+.meganav .mn-b-live{color:var(--green,#22c55e);border:1px solid rgba(34,197,94,.35);}
+.meganav .mn-b-acct{color:#d9a13c;border:1px solid rgba(217,161,60,.4);}
+.meganav .mn-b-soon{color:var(--faint,#5a6573);border:1px dashed var(--border,#1d2733);}
+.meganav .mn-right{display:flex;align-items:center;gap:10px;flex:0 0 auto;margin-left:auto;}
+.meganav .mn-search{position:relative;}
+.meganav .mn-search .box{display:flex;align-items:center;gap:7px;background:var(--elev,#16202b);border:1px solid var(--border,#1d2733);border-radius:9px;padding:6px 10px;color:var(--faint,#5a6573);}
+.meganav .mn-search input{background:none;border:0;outline:0;color:var(--text,#e7edf3);font:inherit;font-size:13px;width:clamp(140px,14vw,220px);}
+.meganav .mn-search .kbd{font-size:10px;border:1px solid var(--border,#1d2733);border-radius:4px;padding:0 5px;color:var(--faint,#5a6573);}
+.meganav .mn-search .drop{position:absolute;right:0;top:40px;width:330px;max-width:calc(100vw - 24px);background:var(--panel,#111822);border:1px solid var(--border,#1d2733);border-radius:11px;box-shadow:0 16px 34px rgba(0,0,0,.5);overflow:hidden;z-index:70;}
+.meganav .mn-search .sg{display:flex;align-items:center;gap:9px;padding:8px 11px;cursor:pointer;font-size:13px;}
+.meganav .mn-search .sg.active,.meganav .mn-search .sg:hover{background:var(--elev,#16202b);}
+.meganav .mn-search .sg img{width:18px;height:18px;border-radius:4px;}
+.meganav .mn-search .sg .tk{font-weight:800;color:var(--text,#e7edf3);min-width:52px;}
+.meganav .mn-search .sg .nm{color:var(--muted,#8895a4);flex:1;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
+.meganav .mn-search .sg .pc{font-weight:700;font-variant-numeric:tabular-nums;}
+.meganav .mn-search .sg .pc.up{color:var(--green,#22c55e);}.meganav .mn-search .sg .pc.down{color:var(--red,#f05a6e);}
+.meganav .mn-asof{display:none;}
+.meganav .mn-theme{appearance:none;background:var(--elev,#16202b);border:1px solid var(--border,#1d2733);border-radius:9px;width:34px;height:34px;display:flex;align-items:center;justify-content:center;cursor:pointer;color:var(--muted,#8895a4);}
+.meganav .mn-theme:hover{color:var(--text,#e7edf3);border-color:var(--accent-border,#1e4634);}
+.meganav .mn-theme .ic-sun{display:none;}
+html[data-theme="light"] .meganav .mn-theme .ic-sun{display:block;}
+html[data-theme="light"] .meganav .mn-theme .ic-moon{display:none;}
+.meganav .mn-signin{font-size:13px;font-weight:700;color:var(--muted,#8895a4);padding:7px 4px;}
+.meganav .mn-signin:hover{color:var(--text,#e7edf3);}
+.meganav .mn-signup{font-size:13px;font-weight:700;color:var(--sg);background:var(--sg-soft);border:1px solid var(--sg-border);border-radius:9px;padding:7px 13px;white-space:nowrap;}
+.meganav .mn-signup:hover{background:var(--sg);color:#04140b;}
+.meganav .mn-burger{appearance:none;background:none;border:1px solid var(--border,#1d2733);border-radius:9px;width:38px;height:36px;display:none;align-items:center;justify-content:center;cursor:pointer;color:var(--text,#e7edf3);}
+.meganav :is(a,button):focus-visible{outline:2px solid var(--sg);outline-offset:2px;border-radius:6px;}
+.meganav .mn-search .box:focus-within{border-color:var(--sg-border);}
+/* drawer */
+.meganav .mn-drawer{display:none;position:fixed;inset:0;z-index:80;background:var(--bg,#0a0e13);overflow-y:auto;padding:0 16px 28px;}
+.meganav .mn-drawer.open{display:block;}
+.meganav .mnd-head{display:flex;align-items:center;justify-content:space-between;height:56px;margin-bottom:6px;}
+.meganav .mnd-close{appearance:none;background:none;border:1px solid var(--border,#1d2733);border-radius:9px;width:38px;height:36px;font-size:17px;color:var(--text,#e7edf3);cursor:pointer;}
+.meganav .mnd-quick{display:grid;grid-template-columns:1fr 1fr;gap:9px;margin-bottom:14px;}
+.meganav .mnd-quick a{display:block;text-align:center;padding:11px 8px;border:1px solid var(--border,#1d2733);border-radius:10px;font-size:13.5px;font-weight:700;color:var(--text,#e7edf3);background:var(--panel,#111822);}
+.meganav details.mnd-sec{border-bottom:1px solid var(--border-soft,#161e28);}
+.meganav details.mnd-sec summary{list-style:none;display:flex;justify-content:space-between;align-items:center;padding:14px 2px;font-size:12px;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:var(--muted,#8895a4);cursor:pointer;}
+.meganav details.mnd-sec summary::-webkit-details-marker{display:none;}
+.meganav details.mnd-sec summary::after{content:"+";font-size:16px;color:var(--faint,#5a6573);}
+.meganav details.mnd-sec[open] summary::after{content:"\2212";}
+.meganav .mnd-sec a{display:block;padding:9px 2px 9px 10px;font-size:14px;font-weight:600;color:var(--muted,#8895a4);}
+.meganav .mnd-sec a:active,.meganav .mnd-sec a:hover{color:var(--text,#e7edf3);}
+.meganav .mnd-sec .mn-off{padding:9px 2px 9px 10px;font-size:14px;}
+.meganav .mnd-cta{display:grid;grid-template-columns:1fr 1fr;gap:9px;margin:18px 0 10px;}
+.meganav .mnd-cta a{display:block;text-align:center;padding:12px 8px;border-radius:10px;font-size:14px;font-weight:700;}
+.meganav .mnd-cta .a1{background:var(--sg-soft);border:1px solid var(--sg-border);color:var(--sg);}
+.meganav .mnd-cta .a2{border:1px solid var(--border,#1d2733);color:var(--text,#e7edf3);}
+.meganav .mnd-foot{font-size:11px;color:var(--faint,#5a6573);line-height:1.6;margin-top:6px;}
+.meganav .mn-search--drawer{display:none;margin:0 0 14px;}
+.meganav .mn-search--drawer .box{width:100%;}
+.meganav .mn-search--drawer input{width:100%;}
+@media(max-width:1023px){.meganav .mn-drawer.open .mn-search--drawer{display:block;}}
+.meganav .mnd-theme{appearance:none;width:100%;margin:10px 0 0;padding:12px;border:1px solid var(--border,#1d2733);border-radius:10px;background:var(--panel,#111822);color:var(--muted,#8895a4);font:600 13.5px -apple-system,BlinkMacSystemFont,"Inter","Segoe UI",Roboto,sans-serif;cursor:pointer;}
+.meganav .mnd-theme:hover{color:var(--text,#e7edf3);}
+/* nav collapse ladder: >=1366 shows all six groups; 1024-1365 folds
+   Market Maps + Company into More (they stay in the drawer + footer) */
+.meganav .mn-moreitem{display:none;}
+@media(max-width:1365px){
+  .meganav .mn-collapsible{display:none;}
+  .meganav .mn-moreitem{display:block;}
+}
+@media(max-width:1279px){
+  .meganav .mn-beta{display:none;}
+  .meganav .mn-top{padding:19px 9px;font-size:13px;}
+  .meganav .mn-in{gap:12px;}
+  /* search collapses to an icon button; nav.js expands it on demand */
+  .meganav .mn-search:not(.open) input,
+  .meganav .mn-search:not(.open) .kbd{display:none;}
+  .meganav .mn-search:not(.open) .box{width:34px;height:34px;justify-content:center;padding:0;cursor:pointer;}
+  .meganav .mn-search.open input{width:150px;}
+}
+@media(max-width:1023px){
+  .meganav .mn-nav{display:none;}
+  .meganav .mn-burger{display:flex;}
+  .meganav .mn-signin{display:none;}
+  .meganav .mn-search{display:none;}
+  .meganav .mn-theme{display:none;}
+  .meganav #reload{display:none;}
+}
+@media(max-width:760px){
+  .meganav .mn-asof{display:none;}
+  .meganav .mn-signup{display:none;}
+  /* signed-out auth buttons (incl. accounts.js-rendered) live in the drawer
+     on small screens; only the logged-in account chip stays in the bar */
+  .meganav #santro-auth-slot #sa-signin,.meganav #santro-auth-slot .sa-signupbtn{display:none;}
+  .meganav .mn-search input{width:64px;}
+  .meganav .mn-search .kbd{display:none;}
+  .meganav .mn-in{gap:8px;padding:0 12px;}
+  .meganav .mn-right{gap:7px;}
+}
+@media(max-width:479px){
+  /* compact logo for ALL phone widths — the old 389px cutoff missed 390px
+     (iPhone 12-15) by one pixel and the right cluster overflowed the page */
+  .meganav .mn-beta{display:none;}
+  .meganav .mn-lr i{display:none;}
+  .meganav .mn-search input{width:52px;}
+}
+</style>
+<div class="mn-in">
+  <a class="mn-logo" href="/" aria-label="Santro AI — home">
+    <span class="mn-ls">S</span>
+    <span class="mn-lr"><b>Santro&nbsp;AI</b><i>THE&nbsp;AI&nbsp;TRADE&nbsp;TERMINAL</i></span>
+    <em class="mn-beta">Beta</em>
+  </a>
+  <nav class="mn-nav" aria-label="Main">
+    <div class="mn-item on" data-menu="terminal">
+      <button class="mn-top" type="button" aria-expanded="false" aria-haspopup="true">Terminal</button>
+      <div class="mn-panel"><div class="mn-pin"><p class="mn-desc">The main Santro market view across AI stocks, ETFs, crypto, hot tickers, and bubble-risk signals.</p><div class="mn-links">
+        <a class="mn-link" href="/terminal"><b>AI Terminal<em class="mn-b mn-b-live">Beta</em></b><span>Bubble map, market tape, hot tickers, and the daily brief.</span></a>
+        <a class="mn-link" href="/stocks"><b>AI Stocks</b><span>101 AI names ranked by heat, research on every ticker.</span></a>
+        <a class="mn-link" href="/crypto"><b>AI Crypto</b><span>AI tokens and rotating crypto baskets.</span></a>
+        <a class="mn-link" href="/etfs"><b>AI ETFs</b><span>40 AI &amp; tech ETFs, broad tech to pure-play robotics.</span></a>
+        <a class="mn-link" href="/news"><b>Market News</b><span>Headlines that move the AI trade.</span></a>
+      </div></div></div>
+    </div><div class="mn-item" data-menu="tools">
+      <button class="mn-top" type="button" aria-expanded="false" aria-haspopup="true">Tools</button>
+      <div class="mn-panel"><div class="mn-pin"><p class="mn-desc">Every tool is free while Santro is in beta. Scenario outputs, not price targets.</p><div class="mn-links">
+        <a class="mn-link" href="/bubble"><b>AI Bubble Risk<em class="mn-b mn-b-live">Beta</em></b><span>Valuation, momentum, and crowding signals in one gauge.</span></a>
+        <a class="mn-link" href="/bubble#stress"><b>Portfolio Stress Test<em class="mn-b mn-b-live">Beta</em></b><span>Six historical crash scenarios against your portfolio.</span></a>
+        <a class="mn-link" href="/tools/fair-value-calculator"><b>Fair-Value Calculator<em class="mn-b mn-b-live">Beta</em></b><span>DCF, P/E, Graham, and PEG scenario values for any AI ticker.</span></a>
+        <a class="mn-link" href="/quiz"><b>Exposure Check<em class="mn-b mn-b-acct">Account</em></b><span>Calibrate your terminal — universe, concentration, valuation lens, risk watch.</span></a>
+        <a class="mn-link" href="/share"><b>Share Cards<em class="mn-b mn-b-live">Beta</em></b><span>Terminal-grade market cards you can post anywhere.</span></a>
+        <a class="mn-link" href="/evaluate-prompt"><b>Prompt Quality Check<em class="mn-b mn-b-live">Beta</em></b><span>Score any AI trading prompt before you trust it.</span></a>
+        <a class="mn-link" href="/signup"><b>Watchlists &amp; Alerts<em class="mn-b mn-b-acct">Account</em></b><span>Track tickers and get level alerts with a free account.</span></a>
+      </div></div></div>
+    </div><div class="mn-item" data-menu="research">
+      <button class="mn-top" type="button" aria-expanded="false" aria-haspopup="true">Research</button>
+      <div class="mn-panel"><div class="mn-pin"><p class="mn-desc">Filing-verified research. Tweets are leads; filings are sources.</p><div class="mn-links">
+        <a class="mn-link" href="/research"><b>Research Feed</b><span>Curated notes on the AI trade, updated through the day.</span></a>
+        <a class="mn-link" href="/blog"><b>Blog</b><span>Long-form pieces on bubbles, valuation, and AI credit.</span></a>
+        <a class="mn-link" href="/blog/ai-bubble-valuation-history"><b>AI Bubble or Market Reset?</b><span>The flagship read: CAPE, real-terms history, dot-com lessons.</span></a>
+        <a class="mn-link" href="/ipos"><b>IPO Watch</b><span>From pre-filing to priced — 10 AI names, filings verified on EDGAR where public.</span></a>
+        <a class="mn-link" href="/investor-signals"><b>Investor Signal Library<em class="mn-b mn-b-live">Beta</em></b><span>Publicly disclosed positioning, mapped to AI market context.</span></a>
+        <a class="mn-link" href="/stocks/aschenbrenner"><b>Aschenbrenner Basket</b><span>Situational Awareness LP&#x27;s 13F, position by position.</span></a>
+        <a class="mn-link" href="/stocks/burry-short-watch"><b>Burry Short Watch</b><span>Scion&#x27;s disclosed AI puts, verified in filings.</span></a>
+      </div></div></div>
+    </div><div class="mn-item" data-menu="universe">
+      <button class="mn-top" type="button" aria-expanded="false" aria-haspopup="true">AI Universe</button>
+      <div class="mn-panel"><div class="mn-pin"><p class="mn-desc">101 tickers across 8 themes. Hot means attention, not direction.</p><div class="mn-links">
+        <a class="mn-link" href="/stocks"><b>All AI Stocks</b><span>The full universe, ranked by heat.</span></a>
+        <a class="mn-link" href="/stocks/themes/ai-chips-and-compute"><b>AI Chips &amp; Compute</b><span>NVDA, AMD, AVGO and the accelerator complex.</span></a>
+        <a class="mn-link" href="/stocks/themes/ai-software-and-cloud-infrastructure"><b>AI Software &amp; Cloud</b><span>Hyperscalers and the model platforms.</span></a>
+        <a class="mn-link" href="/stocks/themes/powering-ai"><b>Powering AI</b><span>Nuclear, turbines, uranium &amp; the grid behind AI.</span></a>
+        <a class="mn-link" href="/stocks/themes/data-center-power-and-energy"><b>Data-Center Power &amp; Energy</b><span>The electrons behind the GPUs.</span></a>
+        <a class="mn-link" href="/stocks/themes/chip-equipment-and-ai-hardware"><b>Chip Equipment &amp; AI Hardware</b><span>ASML, memory, and the fab supply chain.</span></a>
+        <a class="mn-link" href="/stocks/themes/ai-platforms-internet-and-adtech"><b>AI Platforms &amp; Adtech</b><span>Internet platforms monetizing AI.</span></a>
+        <a class="mn-link" href="/stocks/themes/ai-applications-and-data-software"><b>AI Apps &amp; Data Software</b><span>Applied AI and the data layer.</span></a>
+        <a class="mn-link" href="/stocks/themes/applied-ai-industrial-defense-and-vertical"><b>Applied AI, Industrial &amp; Defense</b><span>Robotics, defense, and vertical AI.</span></a>
+      </div></div></div>
+    </div><div class="mn-item mn-collapsible" data-menu="maps">
+      <button class="mn-top" type="button" aria-expanded="false" aria-haspopup="true">Market Maps</button>
+      <div class="mn-panel"><div class="mn-pin"><p class="mn-desc">Visual entry points into the same delayed data.</p><div class="mn-links mn-w2">
+        <a class="mn-link" href="/terminal"><b>Stock Bubble Map</b><span>101 bubbles sized by the day&#x27;s move, colored by direction.</span></a>
+        <a class="mn-link" href="/crypto"><b>Crypto Movers</b><span>AI tokens ranked by momentum.</span></a>
+        <a class="mn-link" href="/etfs"><b>ETF Map</b><span>Overlap-aware list of the AI ETF complex.</span></a>
+        <a class="mn-link" href="/bubble"><b>Bubble-Risk Gauge</b><span>One dial for the whole AI trade.</span></a>
+        <a class="mn-link" href="/ipos"><b>IPO Pipeline</b><span>Who is filing, who is rumored, who is priced.</span></a>
+      </div></div></div>
+    </div><div class="mn-item mn-collapsible" data-menu="company">
+      <button class="mn-top" type="button" aria-expanded="false" aria-haspopup="true">Company</button>
+      <div class="mn-panel"><div class="mn-pin"><div class="mn-links mn-w2">
+        <a href="/about">About Santro AI</a>
+        <a href="mailto:hello@santroai.tech">Contact</a>
+        <a href="/privacy">Privacy Policy</a>
+        <a href="/terms">Terms of Use</a>
+        <a href="https://x.com/SantroAI" target="_blank" rel="noopener">@SantroAI on X</a>
+        <span class="mn-off">iOS app<em class="mn-b mn-b-soon">Coming soon</em></span>
+        <span class="mn-off">Santro Pro<em class="mn-b mn-b-soon">Coming soon</em></span>
+      </div></div></div>
+    </div><div class="mn-item mn-moreitem" data-menu="more">
+      <button class="mn-top" type="button" aria-expanded="false" aria-haspopup="true">More</button>
+      <div class="mn-panel"><div class="mn-pin"><p class="mn-desc">Maps, company and legal.</p><div class="mn-links">
+        <a class="mn-link" href="/terminal"><b>Stock Bubble Map</b><span>101 bubbles sized by the day&#x27;s move, colored by direction.</span></a>
+        <a class="mn-link" href="/crypto"><b>Crypto Movers</b><span>AI tokens ranked by momentum.</span></a>
+        <a class="mn-link" href="/etfs"><b>ETF Map</b><span>Overlap-aware list of the AI ETF complex.</span></a>
+        <a class="mn-link" href="/bubble"><b>Bubble-Risk Gauge</b><span>One dial for the whole AI trade.</span></a>
+        <a class="mn-link" href="/ipos"><b>IPO Pipeline</b><span>Who is filing, who is rumored, who is priced.</span></a>
+        <a href="/about">About Santro AI</a>
+        <a href="mailto:hello@santroai.tech">Contact</a>
+        <a href="/privacy">Privacy Policy</a>
+        <a href="/terms">Terms of Use</a>
+        <a href="https://x.com/SantroAI" target="_blank" rel="noopener">@SantroAI on X</a>
+        <span class="mn-off">iOS app<em class="mn-b mn-b-soon">Coming soon</em></span>
+        <span class="mn-off">Santro Pro<em class="mn-b mn-b-soon">Coming soon</em></span>
+      </div></div></div>
+    </div>
+  </nav>
+  <div class="mn-right">
+    <div class="mn-search"></div>
+    <span id="asof" class="mn-asof"></span>
+    <button id="reload" title="Reloads saved data." style="width:34px;height:34px;padding:0;border-radius:9px;font-size:15px;line-height:1">↻</button>
+      <button id="theme-toggle" class="mn-theme" data-native="1" style="width:34px;height:34px" title="Switch day / night mode" aria-label="Toggle day or night mode"><svg class="ic-moon" viewBox="0 0 24 24" width="15" height="15" fill="currentColor" aria-hidden="true"><path d="M20 14.5A8.5 8.5 0 0 1 9.5 4 8.5 8.5 0 1 0 20 14.5Z"/></svg><svg class="ic-sun" viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true"><circle cx="12" cy="12" r="4.1"/><path d="M12 2.6v2.1M12 19.3v2.1M2.6 12h2.1M19.3 12h2.1M5.2 5.2l1.5 1.5M17.3 17.3l1.5 1.5M18.8 5.2l-1.5 1.5M6.7 17.3l-1.5 1.5"/></svg></button>
+    <span id="santro-auth-slot"><a class="mn-signin" href="/signin">Sign in</a><a class="mn-signup" href="/signup">Sign up</a></span>
+    <button class="mn-burger" type="button" aria-label="Open menu" aria-expanded="false" aria-controls="mn-drawer"><svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="M3 6h18M3 12h18M3 18h18"/></svg></button>
+  </div>
+</div>
+<div class="mn-drawer" id="mn-drawer" role="dialog" aria-label="Menu" aria-modal="true">
+  <div class="mnd-head">
+    <span class="mn-ls">S</span>
+    <button class="mnd-close" type="button" aria-label="Close menu">✕</button>
+  </div>
+  <div class="mn-search mn-search--drawer"></div>
+  <div class="mnd-quick">
+    <a href="/terminal">AI Terminal</a><a href="/stocks">AI Stocks</a>
+    <a href="/crypto">AI Crypto</a><a href="/etfs">AI ETFs</a>
+  </div>
+  <details class="mnd-sec"><summary>Terminal</summary>
+      <a href="/terminal">AI Terminal<em class="mn-b mn-b-live">Beta</em></a>
+        <a href="/stocks">AI Stocks</a>
+        <a href="/crypto">AI Crypto</a>
+        <a href="/etfs">AI ETFs</a>
+        <a href="/news">Market News</a>
+    </details><details class="mnd-sec"><summary>Tools</summary>
+      <a href="/bubble">AI Bubble Risk<em class="mn-b mn-b-live">Beta</em></a>
+        <a href="/bubble#stress">Portfolio Stress Test<em class="mn-b mn-b-live">Beta</em></a>
+        <a href="/tools/fair-value-calculator">Fair-Value Calculator<em class="mn-b mn-b-live">Beta</em></a>
+        <a href="/quiz">Exposure Check<em class="mn-b mn-b-acct">Account</em></a>
+        <a href="/share">Share Cards<em class="mn-b mn-b-live">Beta</em></a>
+        <a href="/evaluate-prompt">Prompt Quality Check<em class="mn-b mn-b-live">Beta</em></a>
+        <a href="/signup">Watchlists &amp; Alerts<em class="mn-b mn-b-acct">Account</em></a>
+    </details><details class="mnd-sec"><summary>Research</summary>
+      <a href="/research">Research Feed</a>
+        <a href="/blog">Blog</a>
+        <a href="/blog/ai-bubble-valuation-history">AI Bubble or Market Reset?</a>
+        <a href="/ipos">IPO Watch</a>
+        <a href="/investor-signals">Investor Signal Library<em class="mn-b mn-b-live">Beta</em></a>
+        <a href="/stocks/aschenbrenner">Aschenbrenner Basket</a>
+        <a href="/stocks/burry-short-watch">Burry Short Watch</a>
+    </details><details class="mnd-sec"><summary>AI Universe</summary>
+      <a href="/stocks">All AI Stocks</a>
+        <a href="/stocks/themes/ai-chips-and-compute">AI Chips &amp; Compute</a>
+        <a href="/stocks/themes/ai-software-and-cloud-infrastructure">AI Software &amp; Cloud</a>
+        <a href="/stocks/themes/powering-ai">Powering AI</a>
+        <a href="/stocks/themes/data-center-power-and-energy">Data-Center Power &amp; Energy</a>
+        <a href="/stocks/themes/chip-equipment-and-ai-hardware">Chip Equipment &amp; AI Hardware</a>
+        <a href="/stocks/themes/ai-platforms-internet-and-adtech">AI Platforms &amp; Adtech</a>
+        <a href="/stocks/themes/ai-applications-and-data-software">AI Apps &amp; Data Software</a>
+        <a href="/stocks/themes/applied-ai-industrial-defense-and-vertical">Applied AI, Industrial &amp; Defense</a>
+    </details><details class="mnd-sec"><summary>Market Maps</summary>
+      <a href="/terminal">Stock Bubble Map</a>
+        <a href="/crypto">Crypto Movers</a>
+        <a href="/etfs">ETF Map</a>
+        <a href="/bubble">Bubble-Risk Gauge</a>
+        <a href="/ipos">IPO Pipeline</a>
+    </details><details class="mnd-sec"><summary>Company</summary>
+      <a href="/about">About Santro AI</a>
+        <a href="mailto:hello@santroai.tech">Contact</a>
+        <a href="/privacy">Privacy Policy</a>
+        <a href="/terms">Terms of Use</a>
+        <a href="https://x.com/SantroAI" target="_blank" rel="noopener">@SantroAI on X</a>
+        <span class="mn-off">iOS app<em class="mn-b mn-b-soon">Coming soon</em></span>
+        <span class="mn-off">Santro Pro<em class="mn-b mn-b-soon">Coming soon</em></span>
+    </details>
+  <div class="mnd-cta">
+    <a class="a1" href="/signup">Create free account</a>
+    <a class="a2" href="/signin">Sign in</a>
+  </div>
+  <button class="mnd-theme" type="button">Switch day / night mode</button>
+  <p class="mnd-foot">Hot means attention, not direction.<br>Quotes delayed ~15 min. Real-time data planned for Pro. Not financial advice.</p>
+</div>
+<script src="/nav.js?v=9" defer></script>
+</header>
+
+  <div class="topstrip">
+    <div class="ts-stats" id="tape-stats">Loading market tape…</div>
+    <div class="langs">
+      <button class="ts-customize" id="ts-customize" type="button" title="Choose what appears on your terminal">⚙ Customize</button>
+      <a class="x-link" href="https://x.com/SantroAI" target="_blank" rel="noopener" title="@SantroAI on X">
+        <svg viewBox="0 0 24 24" width="14" height="14" fill="currentColor" aria-hidden="true">
+          <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+      </a>
+    </div>
+  </div>
+
+  <style>
+    /* ── watchlist strip (ds_v2 tokens w/ legacy fallbacks) ─────────────── */
+    .ts-customize{display:inline-flex;align-items:center;gap:5px;min-height:34px;padding:0 12px;margin-right:8px;
+      background:var(--panel,#101613);border:1px solid var(--border,#26302a);border-radius:9px;cursor:pointer;
+      color:var(--text,#e7edf3);font:700 12px/1 var(--font-sans,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif);}
+    .ts-customize:hover{border-color:var(--accent-border,rgba(59,224,143,.45));color:var(--accent-2,#7ce8b1);}
+    .wl-strip{margin:10px 16px 0;background:var(--panel,#101613);border:1px solid var(--border,#26302a);border-radius:12px;padding:10px 14px;}
+    .wl-strip[hidden]{display:none;}
+    .wl-head-row{display:flex;align-items:center;gap:10px;flex-wrap:wrap;}
+    .wl-label{font-size:10.5px;font-weight:800;letter-spacing:.6px;text-transform:uppercase;color:var(--accent-2,#7ce8b1);white-space:nowrap;}
+    .wl-chips{display:flex;align-items:center;gap:8px;flex:1;min-width:0;overflow-x:auto;padding:2px 0;scrollbar-width:thin;}
+    .wl-chip{display:inline-flex;align-items:center;gap:7px;min-height:34px;padding:0 5px 0 12px;border-radius:999px;white-space:nowrap;
+      background:var(--elev,#161d18);border:1px solid var(--border,#26302a);color:var(--text,#e7edf3);
+      font-family:var(--font-mono,'SF Mono',Menlo,Consolas,monospace);font-variant-numeric:tabular-nums;font-size:12px;font-weight:700;cursor:pointer;}
+    .wl-chip:hover{border-color:var(--accent-border,rgba(59,224,143,.45));}
+    .wl-chip .mv{font-weight:600;} .wl-chip .mv.up{color:var(--green,#22c55e);} .wl-chip .mv.dn{color:#f0596e;} .wl-chip .mv.na{color:var(--faint,#5b6771);}
+    .wl-chip .unpin{display:inline-flex;align-items:center;justify-content:center;width:24px;height:24px;border:0;border-radius:50%;
+      background:transparent;color:var(--faint,#5b6771);font-size:13px;cursor:pointer;}
+    .wl-chip .unpin:hover{color:#f0596e;background:rgba(240,89,110,.12);}
+    .wl-chip.sug{border-style:dashed;background:transparent;color:var(--muted,#9aa6b2);}
+    .wl-chip.sug .pinit{display:inline-flex;align-items:center;justify-content:center;width:24px;height:24px;border:0;border-radius:50%;
+      background:transparent;color:var(--accent-2,#7ce8b1);font-size:14px;cursor:pointer;}
+    .wl-add{display:flex;align-items:center;gap:6px;white-space:nowrap;}
+    .wl-add input{width:96px;min-height:34px;padding:0 10px;background:var(--elev,#161d18);border:1px solid var(--border,#26302a);
+      border-radius:9px;color:var(--text,#e7edf3);font-family:var(--font-mono,'SF Mono',Menlo,Consolas,monospace);font-size:12px;text-transform:uppercase;}
+    .wl-add input:focus{outline:none;border-color:var(--accent-border,rgba(59,224,143,.45));}
+    .wl-add button{min-height:34px;padding:0 12px;background:var(--accent-soft,rgba(59,224,143,.12));border:1px solid var(--accent-border,rgba(59,224,143,.45));
+      border-radius:9px;color:var(--accent-2,#7ce8b1);font:700 12px/1 var(--font-sans,-apple-system,sans-serif);cursor:pointer;}
+    .wl-add button:hover{color:var(--text,#e7edf3);}
+    .wl-note{font-size:11px;color:var(--faint,#5b6771);white-space:nowrap;}
+    .wl-err{font-size:11.5px;color:#e0a73f;margin:6px 0 0;}
+    .wl-locked{display:flex;align-items:center;gap:12px;flex-wrap:wrap;}
+    .wl-locked p{margin:0;font-size:12.5px;color:var(--muted,#9aa6b2);}
+    .wl-locked .wl-cta{min-height:34px;display:inline-flex;align-items:center;padding:0 14px;border-radius:9px;text-decoration:none;
+      background:var(--accent-soft,rgba(59,224,143,.12));border:1px solid var(--accent-border,rgba(59,224,143,.45));
+      color:var(--accent-2,#7ce8b1);font-size:12px;font-weight:700;cursor:pointer;}
+    .wl-skel{height:34px;border-radius:999px;background:var(--elev,#161d18);animation:wlp 1.1s ease-in-out infinite alternate;width:120px;}
+    @keyframes wlp{from{opacity:.45}to{opacity:.9}}
+    @media (max-width:760px){
+      .wl-strip{margin:8px 10px 0;padding:10px 12px;}
+      .wl-chip,.wl-add input,.wl-add button,.ts-customize,.wl-locked .wl-cta{min-height:44px;}
+      .wl-chip .unpin,.wl-chip .sug .pinit{width:34px;height:34px;}
+      .wl-note{display:none;}
+      .wl-add input{width:88px;}
+    }
+  </style>
+  <section class="wl-strip" id="wl-strip" data-pref-section="watchlist" aria-label="Your watchlist" hidden></section>
+
+  <div class="intro-line">
+    <h1>AI market terminal</h1>
+    <p class="slogan">Hot means attention, not direction.</p>
+    <p><b>Santro AI</b> is an AI market terminal at <b>santroai.tech</b>. It tracks <a href="/stocks">AI stocks</a>,
+    <a href="/etfs">AI ETFs</a>, <a href="/crypto">AI crypto tokens</a>, hot tickers, research, valuation tools,
+    share cards and an <a href="/bubble">AI bubble-risk signal</a> — one screen for the whole AI trade, sized by
+    the day's move. Auto-refreshing through premarket, market hours and after-hours; quotes delayed ~15 min.
+    <a href="/about">How it works</a> · not financial advice.</p>
+    <p style="margin:10px 0 0"><a href="/quiz" style="display:inline-block;background:var(--accent-soft);color:var(--accent-2);border:1px solid var(--accent-border);border-radius:10px;padding:10px 16px;font-weight:700;font-size:13.5px;text-decoration:none">⚡ Run the Exposure Check</a>
+    <span style="font-size:11.5px;color:var(--faint);margin-left:8px">get your market profile — no signup needed</span></p>
+  </div>
+
+  <div class="m-only m-cta">
+    <a class="m-btn primary" href="/quiz">⚡ 60-sec bubble check</a>
+    <a class="m-btn" href="/stocks">View AI stocks</a>
+  </div>
+  <p class="m-only m-note"><b>Santro AI mobile</b> is a lighter view of the AI trade. For full tables,
+    advanced filters and the complete market tape, open Santro on desktop.
+    <span class="m-soon">iOS app coming soon</span> — until then you can add Santro to your Home Screen
+    from the browser share menu. Quotes delayed ~15 min. Not financial advice.</p>
+
+  <section class="brief" id="brief" data-pref-section="bubble_risk"></section>
+
+  <style>
+    .new-strip{margin:0 16px 14px;}
+    .new-strip .nl{font-size:10px;text-transform:uppercase;letter-spacing:.6px;color:var(--accent-2);font-weight:800;margin:0 0 7px;}
+    .new-strip .ng{display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:9px;}
+    .new-strip .nc{position:relative;display:block;background:var(--panel);border:1px solid var(--border);border-radius:11px;padding:10px 13px;text-decoration:none;}
+    .new-strip .nc:hover{border-color:var(--accent-border);}
+    .new-strip .nc b{color:var(--text);font-size:13px;} .new-strip .nc .tag{font-size:8.5px;font-weight:800;text-transform:uppercase;letter-spacing:.4px;color:#22c55e;border:1px solid rgba(34,197,94,.4);border-radius:999px;padding:1px 6px;margin-left:6px;vertical-align:middle;}
+    .new-strip .nc.bear .tag{color:#f0596e;border-color:rgba(240,89,110,.4);}
+    .new-strip .nc p{margin:3px 0 0;color:var(--muted);font-size:11.5px;line-height:1.4;}
+  </style>
+  <section class="new-strip" aria-label="Newly added">
+    <div class="nl">✦ Newly added</div>
+    <div class="ng">
+      <a class="nc" href="/stocks/aschenbrenner"><b>Aschenbrenner AI infrastructure basket</b><span class="tag">Bull</span><p>Disclosed &amp; reported AI-infra + power positions, source-gated.</p></a>
+      <a class="nc bear" href="/stocks/burry"><b>Michael Burry's reported AI shorts</b><span class="tag">Bear</span><p>Disclosed puts vs Nvidia &amp; Palantir, with the 13F caveat.</p></a>
+      <a class="nc" href="/quiz"><b>Exposure Check</b><span class="tag">New</span><p>Calibrate your terminal — universe, concentration, valuation lens, risk watch. Free account.</p></a>
+    </div>
+  </section>
+
+  <div class="grid">
+    <section class="panel area-heat" data-pref-section="stocks">
+      <h2>
+        <span class="ic">▦</span>
+        <span id="heat-title">Loading market bubbles…</span>
+        <span class="seg">
+          <button class="seg-btn active" data-mode="universe">AI Universe</button>
+          <button class="seg-btn" data-mode="eco">NVIDIA Ecosystem</button>
+        </span>
+        <button class="seg-btn" id="uni-back" style="display:none">← All sectors</button>
+        <span class="legend"><span>−10%</span><span class="bar"></span><span>+10%</span></span>
+      </h2>
+      <div class="body tight"><div id="chart"></div></div>
+    </section>
+
+    <section class="panel area-detail">
+      <h2 id="detail-title">Selected stock <span class="badge live">Delayed ~15m</span></h2>
+      <div class="body" id="detail">Click a bubble for details…</div>
+    </section>
+
+    <section class="panel area-news" data-pref-section="news">
+      <h2><span class="ic">✦</span> News with AI <span class="badge live">Auto</span>
+        <button class="refresh-btn" id="news-refresh" title="Pull the latest news now" onclick="refreshNews(this)">↻</button></h2>
+      <div class="body" id="news">Checking what moved and why…</div>
+    </section>
+
+    <section class="panel area-ipo">
+      <h2><span class="ic"></span> SK hynix ADR tracker <span class="badge live" id="spcx-badge">Delayed ~15m</span></h2>
+      <div class="body" id="ipo"></div>
+    </section>
+
+    <section class="panel area-small">
+      <h2><span class="ic"></span> Hot tickers <span class="badge live" id="runners-badge">Auto</span><a href="/share?card=hot" title="Share the hot tickers" style="margin-left:10px;font-size:11px;font-weight:700;color:var(--accent-2);text-decoration:none">Share ↗</a></h2>
+      <div class="body" id="small">Scanning the AI tape…</div>
+    </section>
+
+    <section class="panel area-takeaways" data-pref-section="research">
+      <h2><span class="ic">✓</span> Key takeaways <span class="badge live" id="tk-badge">Auto</span></h2>
+      <div class="body" id="takeaways">Reading the session…</div>
+    </section>
+  </div>
+
+  <section class="term-static" style="margin:8px 16px 0;padding:14px 16px;background:var(--panel);border:1px solid var(--border);border-radius:12px;">
+    <p style="margin:0;font-size:12.5px;line-height:1.65;color:var(--muted)">
+    Today's AI terminal tracks <b style="color:var(--text)"><span id="trk-tickers">89</span> AI tickers across <span id="trk-sectors">7</span> sectors</b>, plus
+    <a href="/crypto" style="color:var(--accent-2);text-decoration:none">AI crypto</a>,
+    <a href="/etfs" style="color:var(--accent-2);text-decoration:none">AI ETFs</a>,
+    <a href="/news" style="color:var(--accent-2);text-decoration:none">news</a>,
+    hot tickers with the sourced reason each name is moving, and an
+    <a href="/bubble" style="color:var(--accent-2);text-decoration:none">AI bubble-risk signal</a>.
+    Bubbles are sized by the day's move and colored by direction. Quotes delayed ~15 min —
+    <a href="/about" style="color:var(--accent-2);text-decoration:none">how it works</a>.
+    <span class="nfa">Not financial advice.</span></p>
+  </section>
+
+
+  <!-- mega-footer v1 -->
+<footer class="mega">
+<style>
+footer.mega{display:block;text-align:left;margin-top:48px;padding:0;border-top:1px solid var(--border,#1d2733);background:transparent;font-family:var(--font-sans, -apple-system,BlinkMacSystemFont,"Inter","Segoe UI",Roboto,Helvetica,Arial,sans-serif);}
+.mega .mg-in{max-width:1680px;margin:0 auto;padding:34px clamp(16px,2vw,40px) 26px;}
+.mega .mg-top{display:flex;justify-content:space-between;align-items:flex-start;gap:28px;flex-wrap:wrap;padding-bottom:26px;border-bottom:1px solid var(--border-soft,#161e28);}
+.mega .mg-logo{font-size:17px;font-weight:800;letter-spacing:.4px;color:var(--text,#e7edf3);}
+.mega .mg-logo span{color:#22c55e;}
+.mega .mg-tag{font-size:11px;font-weight:700;letter-spacing:1.4px;text-transform:uppercase;color:var(--faint,#5a6573);margin-top:2px;}
+.mega .mg-line{margin:10px 0 0;max-width:420px;font-size:13px;line-height:1.55;color:var(--muted,#8895a4);font-weight:400;}
+.mega .mg-slogan{margin:8px 0 0;font-size:12.5px;font-style:italic;color:var(--faint,#5a6573);font-weight:400;}
+.mega .mg-brief{max-width:360px;}
+.mega .mg-btitle{font-size:14px;font-weight:700;color:var(--text,#e7edf3);}
+.mega .mg-bsub{margin:6px 0 12px;font-size:12.5px;line-height:1.5;color:var(--muted,#8895a4);font-weight:400;}
+.mega .mg-brow{display:flex;align-items:center;gap:10px;flex-wrap:wrap;}
+.mega a.mg-cta{display:inline-block;padding:8px 16px;border-radius:9px;background:rgba(34,197,94,.12);border:1px solid rgba(34,197,94,.45);color:#22c55e;font-size:13px;font-weight:700;text-decoration:none;}
+.mega a.mg-cta:hover{background:#22c55e;color:#04140b;}
+.mega .mg-soon{font-size:11.5px;font-weight:600;color:var(--faint,#5a6573);border:1px dashed var(--border,#1d2733);border-radius:999px;padding:5px 10px;white-space:nowrap;}
+.mega .mg-priv{margin:10px 0 0;font-size:11px;line-height:1.5;color:var(--faint,#5a6573);font-weight:400;}
+.mega .mg-priv a{color:var(--muted,#8895a4);font-weight:600;text-decoration:none;}
+.mega .mg-priv a:hover{color:var(--text,#e7edf3);}
+.mega .mg-cols{display:grid;grid-template-columns:repeat(5,1fr);gap:22px;padding:26px 0;border-bottom:1px solid var(--border-soft,#161e28);}
+.mega .mg-col h4{margin:0 0 10px;font-size:11px;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:var(--faint,#5a6573);}
+.mega .mg-col ul{list-style:none;margin:0;padding:0;}
+.mega .mg-col li{margin:0;}
+.mega .mg-col a{display:inline-block;padding:4px 0;font-size:13px;font-weight:500;color:var(--muted,#8895a4);text-decoration:none;}
+.mega .mg-col a:hover{color:var(--text,#e7edf3);}
+.mega .mg-col .mg-off{display:inline-block;padding:4px 0;font-size:13px;color:var(--faint,#5a6573);}
+.mega .mg-bottom{display:flex;justify-content:space-between;align-items:center;gap:8px 24px;flex-wrap:wrap;padding-top:18px;font-size:11.5px;color:var(--faint,#5a6573);}
+.mega .mg-bottom .mg-nfa{color:var(--muted,#8895a4);font-weight:700;font-style:normal;}
+.mega .mg-bottom a{color:var(--muted,#8895a4);font-weight:600;text-decoration:none;padding:2px 0;}
+.mega .mg-bottom a:hover{color:var(--text,#e7edf3);}
+.mega .mg-note{flex-basis:100%;font-size:10.5px;color:var(--faint,#5a6573);opacity:.75;}
+.mega a:focus-visible{outline:2px solid #22c55e;outline-offset:2px;border-radius:4px;}
+@media(max-width:900px){
+  .mega .mg-in{padding:28px 16px 22px;}
+  .mega .mg-top{flex-direction:column;gap:20px;padding-bottom:22px;}
+  .mega .mg-cols{grid-template-columns:repeat(2,1fr);gap:18px 14px;padding:22px 0;}
+  .mega .mg-col a{padding:6px 0;}
+  .mega .mg-bottom{flex-direction:column;align-items:flex-start;gap:8px;}
+}
+@media(max-width:640px){
+  .mega .mg-cols{grid-template-columns:1fr;gap:0;padding:6px 0;}
+  .mega .mg-col{border-bottom:1px solid var(--border-soft,#161e28);}
+  .mega .mg-col:last-child{border-bottom:0;}
+  .mega .mg-col h4{margin:0;padding:14px 2px;display:flex;justify-content:space-between;align-items:center;}
+  .mega .mg-col ul{padding:0 2px 12px;}
+  .mega.mg-acc .mg-col h4{cursor:pointer;}
+  .mega.mg-acc .mg-col h4::after{content:"+";font-size:15px;line-height:1;color:var(--faint,#5a6573);font-weight:600;}
+  .mega.mg-acc .mg-col.open h4::after{content:"\2212";}
+  .mega.mg-acc .mg-col:not(.open) ul{display:none;}
+}
+</style>
+<div class="mg-in">
+  <div class="mg-top">
+    <div class="mg-brand">
+      <div class="mg-logo">Santro <span>AI</span></div>
+      <div class="mg-tag">The AI Trade Terminal</div>
+      <p class="mg-line">The AI trade terminal for stocks, ETFs, crypto, hot tickers, valuation tools, and bubble-risk signals.</p>
+      <p class="mg-slogan">Hot means attention, not direction.</p>
+    </div>
+    <div class="mg-brief">
+      <div class="mg-btitle">Get the AI market brief</div>
+      <p class="mg-bsub">Hot tickers, bubble-risk changes, valuation notes, and AI market research.</p>
+      <div class="mg-brow">
+        <a class="mg-cta" href="/signup">Create a free account</a>
+        <span class="mg-soon">Email brief — coming soon</span>
+      </div>
+      <p class="mg-priv">The brief will be opt-in when it launches, and you can unsubscribe anytime. <a href="/privacy">Privacy</a></p>
+    </div>
+  </div>
+  <div class="mg-cols">
+    <div class="mg-col">
+      <h4>Terminal</h4>
+      <ul>
+        <li><a href="/terminal">AI Terminal</a></li>
+        <li><a href="/stocks">AI Stocks</a></li>
+        <li><a href="/crypto">AI Crypto</a></li>
+        <li><a href="/etfs">AI ETFs</a></li>
+        <li><a href="/bubble">AI Bubble Risk</a></li>
+        <li><a href="/news">Market News</a></li>
+      </ul>
+    </div>
+    <div class="mg-col">
+      <h4>Tools</h4>
+      <ul>
+        <li><a href="/bubble#stress">Portfolio Stress Test</a></li>
+        <li><a href="/quiz">Exposure Check</a></li>
+        <li><a href="/share">Share Cards</a></li>
+        <li><a href="/evaluate-prompt">Prompt Quality Check</a></li>
+        <li><a href="/signup">Watchlists &amp; Alerts — free account</a></li>
+      </ul>
+    </div>
+    <div class="mg-col">
+      <h4>Research</h4>
+      <ul>
+        <li><a href="/research">Research Feed</a></li>
+        <li><a href="/blog">Blog</a></li>
+        <li><a href="/blog/ai-bubble-valuation-history">AI Bubble or Market Reset?</a></li>
+        <li><a href="/ipos">IPO Watch</a></li>
+        <li><a href="/stocks/aschenbrenner">Aschenbrenner Basket</a></li>
+        <li><a href="/stocks/burry-short-watch">Burry Short Watch</a></li>
+      </ul>
+    </div>
+    <div class="mg-col">
+      <h4>AI Themes</h4>
+      <ul>
+        <li><a href="/stocks/themes/ai-chips-and-compute">AI Chips &amp; Compute</a></li>
+        <li><a href="/stocks/themes/ai-software-and-cloud-infrastructure">AI Software &amp; Cloud</a></li>
+        <li><a href="/stocks/themes/powering-ai">Powering AI</a></li>
+        <li><a href="/stocks/themes/data-center-power-and-energy">Data-Center Power &amp; Energy</a></li>
+        <li><a href="/stocks/themes/chip-equipment-and-ai-hardware">Chip Equipment &amp; AI Hardware</a></li>
+        <li><a href="/stocks/themes/ai-platforms-internet-and-adtech">AI Platforms &amp; Adtech</a></li>
+        <li><a href="/stocks/themes/ai-applications-and-data-software">AI Apps &amp; Data Software</a></li>
+      </ul>
+    </div>
+    <div class="mg-col">
+      <h4>Company</h4>
+      <ul>
+        <li><a href="/about">About Santro AI</a></li>
+        <li><a href="/methodology">Methodology</a></li>
+        <li><a href="/research">Data &amp; sources</a></li>
+        <li><a href="mailto:hello@santroai.tech">Contact</a></li>
+        <li><a href="/privacy">Privacy Policy</a></li>
+        <li><a href="/terms">Terms of Use</a></li>
+        <li><a href="https://x.com/SantroAI" target="_blank" rel="noopener">@SantroAI on X</a></li>
+        <li><span class="mg-off">iOS app — coming soon</span></li>
+      </ul>
+    </div>
+  </div>
+  <div class="mg-bottom">
+    <span>© 2026 Santro AI. All rights reserved. Uses custom models.</span>
+    <span>Quotes delayed ~15 min. Real-time data planned for Pro. <b class="mg-nfa">Not financial advice.</b></span>
+    <span><a href="/privacy">Privacy</a> · <a href="/terms">Terms</a> · <a href="mailto:hello@santroai.tech">Contact</a></span>
+    <!--MG_EXTRA-->
+  </div>
+</div>
+<script>(function(){var mq=window.matchMedia("(max-width:640px)");var mega=document.querySelector("footer.mega");if(!mega)return;
+function arm(){if(!mq.matches||mega.classList.contains("mg-acc"))return;mega.classList.add("mg-acc");
+mega.querySelectorAll(".mg-col h4").forEach(function(h){h.setAttribute("role","button");h.setAttribute("tabindex","0");h.setAttribute("aria-expanded","false");
+function t(){if(!mq.matches)return;var c=h.parentElement;c.classList.toggle("open");h.setAttribute("aria-expanded",String(c.classList.contains("open")));}
+h.addEventListener("click",t);h.addEventListener("keydown",function(e){if(e.key==="Enter"||e.key===" "){e.preventDefault();t();}});});}
+arm();mq.addEventListener?mq.addEventListener("change",arm):mq.addListener(arm);})();</script>
+</footer>
+
+<script>
+const fmtPct = x => (x>=0?"+":"") + x.toFixed(2) + "%";
+function fmtCap(n){
+  if(n>=1e12) return "$"+(n/1e12).toFixed(2)+"T";
+  if(n>=1e9)  return "$"+(n/1e9).toFixed(1)+"B";
+  if(n>=1e6)  return "$"+(n/1e6).toFixed(1)+"M";
+  return "$"+Math.round(n);
+}
+function timeAgo(iso){
+  if(!iso) return "";
+  const m=Math.round((Date.now()-new Date(iso))/60000);
+  if(isNaN(m)) return "";
+  if(m<60) return m+"m ago";
+  const h=Math.round(m/60); if(h<24) return h+"h ago";
+  return Math.round(h/24)+"d ago";
+}
+// ±10% scale with distinct bands — deep red … light red, slate at flat,
+// light green … deep green (multi-stop, piecewise linear)
+const SBE = window.SantroBubbleEngine;
+const HEAT_STOPS=SBE.HEAT_STOPS, colorFor=SBE.colorFor;
+const pctClass = x => x>=0 ? "up":"down";
+
+const chart=echarts.init(document.getElementById("chart"),null,{renderer:"canvas"});
+let stocks=[], selectedSymbol=null, heatMode="universe";
+let research=null, asOfUtc=null;   // research.json cards + quote timestamp
+let takeaways=null;                // takeaways/takeaways.json (4-hour cycle)
+let tkExpanded=false;              // "See more" state — survives the 60s auto-refresh
+let hotData=null;                  // hot_tickers.json — 15-min hot-tickers scan (hot-tickers/SPEC.md)
+let bubbleIx=null;                  // bubble_index.json — AI bubble-risk index + history (homepage band)
+let universe=null, uniGroup=null;  // universe.json — AI universe (count from meta.total_tickers) in themed sector bubbles
+let eco=null;                      // ecosystem.json — 30-name NVIDIA Ecosystem basket
+let newsFeed=null;                 // news.json — deduped headlines for the FULL scope (universe + ETFs)
+let tweets=null;                   // tweets.json — @DeItaone SPCX squawk via Telegram mirror
+
+// short labels that fit inside small group bubbles (full label in tooltip/detail)
+const UNI_SHORT={
+  ai_chips_and_compute:"Chips & Compute",
+  ai_software_and_cloud_infrastructure:"Software & Cloud",
+  ai_applications_and_data_software:"Apps & Data",
+  chip_equipment_and_ai_hardware:"Equip & HW",
+  ai_platforms_internet_and_adtech:"Platforms & Ads",
+  data_center_power_and_energy:"DC Power",
+  applied_ai_industrial_defense_and_vertical:"Applied AI",
+  powering_ai:"Powering AI",
+};
+// chart labels use the site's numeric type standard (canvas rich text can't read CSS vars)
+const MONO=SBE.MONO;
+// sector icons (lucide-style line art, white stroke) as SVG data-URIs
+const UNI_ICONS=(()=>{
+  const wrap=p=>"data:image/svg+xml;utf8,"+encodeURIComponent(
+    `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="#ffffff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">${p}</svg>`);
+  return {
+    ai_chips_and_compute: wrap('<rect x="5" y="5" width="14" height="14" rx="2"/><rect x="10" y="10" width="4" height="4"/><path d="M9 2v3M15 2v3M9 19v3M15 19v3M2 9h3M2 15h3M19 9h3M19 15h3"/>'),
+    ai_software_and_cloud_infrastructure: wrap('<path d="M17.5 19H6.3A4.3 4.3 0 0 1 5.4 10.5a7 7 0 0 1 13.6 1.9A3.8 3.8 0 0 1 17.5 19z"/>'),
+    ai_applications_and_data_software: wrap('<ellipse cx="12" cy="5.5" rx="7.5" ry="3"/><path d="M4.5 5.5v13c0 1.7 3.4 3 7.5 3s7.5-1.3 7.5-3v-13"/><path d="M4.5 12c0 1.7 3.4 3 7.5 3s7.5-1.3 7.5-3"/>'),
+    chip_equipment_and_ai_hardware: wrap('<rect x="3" y="3.5" width="18" height="7" rx="2"/><rect x="3" y="13.5" width="18" height="7" rx="2"/><path d="M7 7h.01M7 17h.01"/>'),
+    ai_platforms_internet_and_adtech: wrap('<rect x="3" y="4" width="18" height="13" rx="2"/><path d="M9 21h6M12 17v4"/><path d="M8 13v-2.5M12 13V8M16 13v-4"/>'),
+    data_center_power_and_energy: wrap('<polygon points="13 2 4 14 11.5 14 11 22 20 10 12.5 10 13 2"/>'),
+    applied_ai_industrial_defense_and_vertical: wrap('<circle cx="9.5" cy="9.5" r="3.6"/><circle cx="14.5" cy="9.5" r="3.6"/><circle cx="9.5" cy="14.5" r="3.6"/><circle cx="14.5" cy="14.5" r="3.6"/>'),
+    powering_ai: wrap('<circle cx="12" cy="12" r="1.7"/><ellipse cx="12" cy="12" rx="9.5" ry="3.8"/><ellipse cx="12" cy="12" rx="9.5" ry="3.8" transform="rotate(60 12 12)"/><ellipse cx="12" cy="12" rx="9.5" ry="3.8" transform="rotate(-60 12 12)"/>'),
+  };
+})();
+function hexToRgba(hex,a){
+  const h=hex.replace("#","");
+  return `rgba(${parseInt(h.slice(0,2),16)},${parseInt(h.slice(2,4),16)},${parseInt(h.slice(4,6),16)},${a})`;
+}
+const fmtVol=v=>v==null?"—":v>=1e9?(v/1e9).toFixed(1)+"B":v>=1e6?(v/1e6).toFixed(1)+"M":v>=1e3?(v/1e3).toFixed(0)+"K":""+v;
+
+// ---- cryptobubbles-style helpers ----------------------------------------------
+// SPCX: parqet still serves the old AXS SPAC ETF logo for this ticker — use our local SpaceX mark
+const logoUrl=SBE.logoUrl;
+const heatDark=SBE.heatDark, heatText=SBE.heatText;
+const tfChip=(k,v)=>`<div class="score-chip"><span class="k">${k}</span><span class="${(v??0)>=0?"up":"down"}">${v==null?"—":fmtPct(v)}</span></div>`;
+function sparkSvg(s){
+  const w=260,h=56,min=Math.min(...s),max=Math.max(...s),rng=(max-min)||1;
+  const pts=s.map((v,i)=>`${(i/(s.length-1)*w).toFixed(1)},${(h-4-((v-min)/rng)*(h-8)).toFixed(1)}`).join(" ");
+  const col=(s[s.length-1]>=s[0])?"#22c55e":"#f05a6e";
+  return `<div class="sec-label">Last 60 sessions</div>
+   <svg width="100%" viewBox="0 0 ${w} ${h}" preserveAspectRatio="none" style="display:block">
+     <polyline points="${pts}" fill="none" stroke="${col}" stroke-width="2"/></svg>`;
+}
+
+// ---- floating-bubble physics (cryptobubbles-style drift) -----------------------
+let simNodes=null, simBounds=null, motionTimer=null;
+// largest font (capped) at which `len` characters fit across the circle's usable width
+const fitFs=SBE.fitFs;
+
+function bubbleItem(n){
+  if(n.kind==="sector"){
+    // reference style: near-black core, thin clean ring, icon / name / $cap / ±%
+    const g=n.obj, avg=g.avg_change_pct||0, heat=colorFor(avg);
+    const m=heat.match(/\d+/g).map(Number);
+    const core=`rgb(${m.map(v=>Math.round(v*0.18+7)).join(",")})`;
+    const name=UNI_SHORT[g.id]||g.label;
+    const fs=Math.max(9, fitFs(name.length, n.r, 16));
+    const showIcon = n.r>=46;
+    const showCap = n.r>=34;
+    const isz=Math.max(14, Math.min(26, Math.round(n.r*0.26)));
+    const icon=showIcon ? UNI_ICONS[g.id] : null;
+    const rich={
+      nm:{color:"#fff",fontWeight:700,fontSize:fs,lineHeight:Math.round(fs*1.6),align:"center",fontFamily:MONO},
+      pc:{color:heatText(avg),fontWeight:700,fontSize:Math.max(9,Math.round(fs*0.85)),lineHeight:Math.round(fs*1.35),align:"center",fontFamily:MONO}};
+    let fmt=`{nm|${name}}`;
+    if(icon){ rich.ic={backgroundColor:{image:icon},width:isz,height:isz,align:"center"}; fmt=`{ic|}\n`+fmt; }
+    if(showCap){ rich.cap={color:"rgba(255,255,255,.55)",fontWeight:600,fontSize:Math.max(8,Math.round(fs*0.8)),lineHeight:Math.round(fs*1.25),align:"center",fontFamily:MONO}; fmt+=`\n{cap|${fmtCap(g.total_market_cap_b*1e9)}}`; }
+    fmt+=`\n{pc|${fmtPct(avg)}}`;
+    return {value:[n.x,n.y], symbolSize:n.r*2, group:g,
+      itemStyle:{color:core, borderColor:heat, borderWidth:2, shadowBlur:0},
+      label:{show:true, position:"inside", align:"center", verticalAlign:"middle", formatter:fmt, rich}};
+  }
+  return SBE.tickerItem(n, selectedSymbol);
+}
+function stopMotion(){ SBE.motionStop(); }
+function startMotion(){ SBE.motionStart(chart, ()=>simNodes, ()=>simBounds, bubbleItem); }
+
+// ---- day / night theme -------------------------------------------------------
+const currentTheme = () => document.documentElement.dataset.theme==="light" ? "light" : "dark";
+function chartTheme(){            // chart colors that CSS variables can't reach
+  const l = currentTheme()==="light";
+  return {
+    bubbleBorder: l ? "#f3f5f8" : "rgba(10,14,19,.9)",
+    ring:         l ? "#157a4a" : "#22c55e",
+    ringHover:    l ? "#0f6b41" : "#7ce8b1",
+    ttBg:         l ? "#ffffff" : "#111822",
+    ttBorder:     l ? "#d9dfe7" : "#1d2733",
+    ttText:       l ? "#1b242f" : "#e7edf3",
+  };
+}
+function applyTheme(mode, save){
+  document.documentElement.dataset.theme = mode;
+  const lbl = document.getElementById("tt-label");
+  if(lbl) lbl.textContent = mode==="dark" ? "NIGHTMODE" : "DAYMODE";   // pill shows the CURRENT mode
+  const btn = document.getElementById("theme-toggle");
+  if(btn) btn.classList.toggle("day", mode==="light");
+  if(save) try{ localStorage.setItem("santro-theme", mode); }catch(e){}
+  if(stocks.length) render();    // repaint bubbles with themed borders/tooltip
+}
+
+// "Jun 10, 16:22 ET" — the quote time on the NY exchange clock
+function etTime(iso){
+  if(!iso) return "";
+  try{
+    return new Intl.DateTimeFormat("en-US",{timeZone:"America/New_York",
+      month:"short", day:"numeric", hour:"numeric", minute:"2-digit", hour12:false})
+      .format(new Date(iso)) + " ET";
+  }catch(e){ return ""; }
+}
+function fmtDay(isoDate){           // "2026-06-09" -> "Jun 9"
+  if(!isoDate) return "";
+  try{
+    return new Intl.DateTimeFormat("en-US",{timeZone:"America/New_York",
+      month:"short", day:"numeric"}).format(new Date(isoDate+"T12:00:00Z"));
+  }catch(e){ return isoDate; }
+}
+const chip=(k,v,title)=>`<div class="score-chip"${title?` title="${title}"`:""}><span class="k">${k}</span>${v??"—"}</div>`;
+const fnum2=x=>x==null?"—":Number(x).toFixed(2);
+
+// thesis + method scores + signed-report link for a symbol (if researched)
+function researchExtras(sym){
+  const r=research&&research.stocks?research.stocks[sym]:null;
+  if(!r) return "";
+  const macro=(research.macro||{});
+  let h=`<div class="thesis">${r.thesis||""}</div>`;
+  h+=`<div class="sec-label">Method scores · signed ${research.signed}</div><div class="chips">`;
+  h+=chip("Technical", r.scores.technical);
+  h+=chip("Narrative", r.scores.narrative, r.target?`Mean target $${fnum2(r.target)} (${r.analysts||"—"} analysts)`:"");
+  h+=chip("Macro", macro.score, macro.note||"");
+  h+=chip("Entry zone", r.scores.entry_zone);
+  h+=chip("R:R", r.scores.rr!=null?r.scores.rr+":1":null, "Reward to mean target vs structural stop (SMA50 / 20d swing low)");
+  h+=`</div>`;
+  return h;
+}
+
+// Bubble layout: biggest first, each next circle spirals out until it finds
+// a free spot. Every ticker gets at least `minR`, so small caps stay visible.
+const packBubbles=SBE.packBubbles;
+
+function render(){
+  const W = chart.getWidth()||516, H = chart.getHeight()||384;
+  const th = chartTheme();
+  const lightUI = currentTheme()==="light";
+  const pageBg = lightUI ? "#f3f5f8" : "#0a0e13";
+
+  const ttFormatter = p=>{
+    if(p.data.group){const g=p.data.group; const c=g.avg_change_pct>=0?"#22c55e":"#f05a6e";
+      return `<b>${g.label}</b><br/>${g.count} names · ${fmtCap(g.total_market_cap_b*1e9)} combined<br/>`
+           + `<span style="color:${c}">${fmtPct(g.avg_change_pct)} avg of members today</span><br/>`
+           + `<span style="opacity:.7">Industries: ${g.industries_included.join(", ")}</span><br/>`
+           + `<span style="opacity:.7">click to drill into members ↓</span>`;}
+    if(p.data.uniTicker){const t=p.data.uniTicker; const c=t.change_pct>=0?"#22c55e":"#f05a6e";
+      return `<b>${t.ticker}</b> · ${t.company}<br/>`
+           + `<span style="color:${c}">${fmtPct(t.change_pct)}</span> &nbsp; ${t.price==null?"—":"$"+t.price.toFixed(2)}<br/>`
+           + `Cap ${fmtCap(t.market_cap_b*1e9)} · Vol ${fmtVol(t.volume)} · P/E ${t.pe==null?"—":t.pe}<br/>`
+           + `<span style="opacity:.7">${t.industry}</span>`;}
+    return "";
+  };
+  const tooltip = {borderColor:th.ttBorder, backgroundColor:th.ttBg,
+    textStyle:{color:th.ttText,fontSize:12}, formatter:ttFormatter};
+
+  stopMotion();
+  // ---- all views are floating heat bubbles; sectors are just bigger bubbles ----
+  let items, kind;
+  if(heatMode==="universe" && universe && !uniGroup){ kind="sector"; items=universe.bubbles; }
+  else if(heatMode==="universe" && universe && uniGroup){ kind="uni"; items=uniGroup.tickers; }
+  else if(heatMode==="eco" && eco){ kind="uni"; items=eco.tickers; }
+  else { return; }   // no data loaded yet — nothing to draw
+  // bubble size = magnitude of the day move (cryptobubbles semantics);
+  // +0.5 floor keeps flat names visible, minR in packBubbles keeps them readable
+  const key="_sz";
+  items.forEach(o=>{ o._sz = Math.abs((o.change_pct!=null ? o.change_pct : o.avg_change_pct)||0) + 0.5; });
+  simNodes = packBubbles(items, key, W, H).map(n=>({
+    x:n.x, y:n.y, r:n.r,
+    vx:(Math.random()-0.5)*0.7, vy:(Math.random()-0.5)*0.7,
+    obj:n.it, kind,
+  }));
+  simBounds = {W, H};
+  chart.setOption({
+    backgroundColor:"transparent",
+    grid:{left:0, right:0, top:0, bottom:0},
+    xAxis:{show:false, min:0, max:W},
+    yAxis:{show:false, min:0, max:H},
+    tooltip,
+    series:[{type:"scatter", data:simNodes.map(bubbleItem), animationDuration:380,
+      emphasis:{itemStyle:{borderColor:"#fff", borderWidth:3}}}],
+  }, true);
+  startMotion();
+}
+
+
+function showGroupDetail(g){
+  document.getElementById("detail-title").innerHTML=
+    `Sector — ${UNI_SHORT[g.id]||g.label} <span class="badge live">AI Universe</span>`;
+  const rows=g.tickers.map(t=>`
+      <tr><td><a href="t?sym=${encodeURIComponent(t.ticker)}" title="Open the ${t.ticker} page">${t.ticker}</a></td>
+        <td class="num">${t.price==null?"—":"$"+t.price.toFixed(2)}</td>
+        <td class="num ${pctClass(t.change_pct)}">${fmtPct(t.change_pct)}</td>
+        <td class="num">${t.market_cap_b?fmtCap(t.market_cap_b*1e9):"—"}</td></tr>`).join("");
+  document.getElementById("detail").innerHTML=`
+    <div class="d-head"><span class="d-sym" style="font-size:19px">${g.label}</span>
+      <span class="d-pct ${pctClass(g.avg_change_pct)}">${fmtPct(g.avg_change_pct)} avg</span></div>
+    <div class="d-stats">
+      <div class="d-stat"><div class="k">Combined market cap</div><div class="v">${fmtCap(g.total_market_cap_b*1e9)}</div></div>
+      <div class="d-stat"><div class="k">Members</div><div class="v">${g.count} tickers</div></div>
+    </div>
+    <div class="sec-label">Members · ticker opens its page</div>
+    <table class="sect-tbl"><thead>
+      <tr><th>Ticker</th><th class="num">Price</th><th class="num">1D</th><th class="num">Cap</th></tr></thead>
+      <tbody>${rows}</tbody></table>
+    <div class="sec-label">Finviz industries merged into this sector</div>
+    <div class="chips">${g.industries_included.map(i=>`<span class="chip">${i}</span>`).join("")}</div>`;
+}
+
+function showEcoOverview(){
+  document.getElementById("detail-title").innerHTML=
+    `NVIDIA Ecosystem <span class="badge live">${eco.tickers.length} names</span>`;
+  const rows=eco.tickers.map(t=>`
+      <tr><td><a href="t?sym=${encodeURIComponent(t.ticker)}" title="Open the ${t.ticker} page">${t.ticker}</a></td>
+        <td class="num">${t.price==null?"—":"$"+t.price.toFixed(2)}</td>
+        <td class="num ${pctClass(t.change_pct)}">${fmtPct(t.change_pct)}</td>
+        <td class="num">${t.market_cap_b?fmtCap(t.market_cap_b*1e9):"—"}</td></tr>`).join("");
+  document.getElementById("detail").innerHTML=`
+    <div class="sec-label" style="margin-top:0">All members by market cap · ticker opens its page · click a bubble for the full card</div>
+    <table class="sect-tbl"><thead>
+      <tr><th>Ticker</th><th class="num">Price</th><th class="num">1D</th><th class="num">Cap</th></tr></thead>
+      <tbody>${rows}</tbody></table>`;
+}
+
+function stockPageUrl(sym){ var u=(window.universe||universe); var has=u&&u.bubbles&&u.bubbles.some(function(b){return b.tickers.some(function(x){return x.ticker===sym;});}); return has?"/stocks/"+String(sym).toLowerCase():"t?sym="+encodeURIComponent(sym); }
+function showUniverseDetail(t){
+  document.getElementById("detail-title").innerHTML=
+    `Selected — ${t.ticker} <span class="badge live">${uniGroup?(UNI_SHORT[uniGroup.id]||uniGroup.label):(heatMode==="eco"?"NVIDIA Ecosystem":"AI Universe")}</span>`;
+  document.getElementById("detail").innerHTML=`
+    <div class="d-head"><span class="d-sym">${t.ticker}</span><span class="d-name">${t.company}</span>
+      <span id="d-watch" style="margin-left:2px"></span>
+      <span class="d-pct ${pctClass(t.change_pct)}">${fmtPct(t.change_pct)}</span></div>
+    <div class="d-stats">
+      <div class="d-stat"><div class="k">Price</div><div class="v">${t.price==null?"—":"$"+t.price.toFixed(2)}</div></div>
+      <div class="d-stat"><div class="k">Market cap</div><div class="v">${fmtCap(t.market_cap_b*1e9)}</div></div>
+      <div class="d-stat"><div class="k">Finviz industry</div><div class="v" style="font-size:13px">${t.industry}</div></div>
+      <div class="d-stat"><div class="k">P/E · Volume</div><div class="v">${t.pe==null?"—":t.pe} · ${fmtVol(t.volume)}</div></div>
+    </div>
+    ${t.perf?`<div class="sec-label">Performance</div><div class="chips">
+      ${tfChip("1D",t.change_pct)}${tfChip("1W",t.perf["1W"])}${tfChip("1M",t.perf["1M"])}${tfChip("1Y",t.perf["1Y"])}
+    </div>`:""}
+    ${t.spark&&t.spark.length>2?sparkSvg(t.spark):""}
+    ${researchExtras(t.ticker)}
+    <div class="links">
+      <a class="see-more" href="${stockPageUrl(t.ticker)}">Open full ${t.ticker} page ↗</a>
+      <a class="see-more" href="https://finance.yahoo.com/quote/${t.ticker}" target="_blank" rel="noopener">Yahoo Finance →</a>
+    </div>`;
+  // gated fair-value calculator (accounts/) — respects the account preference
+  if(window.SantroCalc && !(window.SantroPrefs && SantroPrefs.current().show_fair_value_calculator===false)) SantroCalc.render(t);
+  // ticker star in the detail header (ticker action — never inside the calc)
+  if(window.SantroWatch){ const dw=document.getElementById("d-watch"); if(dw) SantroWatch.mount(dw, t.ticker, {variant:"icon"}); }
+}
+
+function allHeadlines(){
+  const seen=new Set(), out=[];
+  for(const s of stocks) for(const h of (s.headlines||[])){
+    if(!h.title||seen.has(h.title))continue; seen.add(h.title); out.push({...h,symbol:s.symbol});}
+  out.sort((a,b)=>new Date(b.published||0)-new Date(a.published||0));
+  return out;
+}
+function renderNews(){
+  // full-scope feed (universe + ETFs, deduped, sector-tagged) with fallback to
+  // the legacy per-watchlist headlines from data.json
+  let items;
+  if(newsFeed && newsFeed.items && newsFeed.items.length){
+    items = newsFeed.items.map(h=>({...h, symbol:(h.tickers||[])[0]||""}));
+  } else {
+    items = allHeadlines().map(h=>({...h, tickers:[h.symbol], sectors:[]}));
+  }
+  const secLabel = id => id&&id.startsWith("etf_") ? id.replace("etf_","").toUpperCase()+" ETF" : (UNI_SHORT[id]||"");
+  document.getElementById("news").innerHTML=items.slice(0,18).map(h=>{
+    const tks=(h.tickers||[]).slice(0,3).map(t=>`<span class="chip">${t}</span>`).join("");
+    const more=(h.tickers||[]).length>3?`<span class="chip">+${h.tickers.length-3}</span>`:"";
+    const secs=[...new Set((h.sectors||[]).map(secLabel).filter(Boolean))].slice(0,2).join(" · ");
+    return `
+    <div class="news-row"><a href="${h.url}" target="_blank" rel="noopener">${h.title}</a>
+      <div class="meta">${tks}${more}<span>${h.publisher||""}</span>
+        <span>${h.published?"· "+timeAgo(h.published):""}</span>${secs?`<span>· ${secs}</span>`:""}</div></div>`;
+  }).join("")||"No headlines.";
+}
+// manual refresh: force-pull the latest published news.json and re-render.
+// (The feed itself is rebuilt server-side every ~20 min, 24/7; this grabs
+// whatever's newest on demand, between auto-refresh cycles.)
+async function refreshNews(btn){
+  if(btn){ btn.classList.add("spin"); btn.disabled=true; }
+  try{ newsFeed=await (await fetch("news.json?t="+Date.now())).json(); }catch(e){}
+  renderNews();
+  if(btn) setTimeout(()=>{ btn.classList.remove("spin"); btn.disabled=false; }, 450);
+}
+// click-through from Hot Tickers (and anywhere) to the bubble info card:
+// drills the chart into the ticker's sector, selects its bubble, fills the detail panel
+function openTicker(sym){
+  const setSeg = mode => document.querySelectorAll(".seg-btn[data-mode]")
+    .forEach(x=>x.classList.toggle("active", x.dataset.mode===mode));
+  if(universe){
+    for(const b of universe.bubbles){
+      const t = b.tickers.find(x=>x.ticker===sym);
+      if(t){
+        heatMode="universe"; uniGroup=b; selectedSymbol=sym;
+        setSeg("universe"); applyHeat();
+        return;
+      }
+    }
+  }
+  // ecosystem-only names (SNDK, KEYS, …) drill the eco basket — never Yahoo
+  if(eco && eco.tickers.some(x=>x.ticker===sym)){
+    heatMode="eco"; selectedSymbol=sym;
+    setSeg("eco"); applyHeat();
+    return;
+  }
+  // not on the map at all: our ticker page for US names, Yahoo only for
+  // foreign-suffix symbols the site has no page data for
+  if(sym.includes(".")) window.open("https://finance.yahoo.com/quote/"+sym, "_blank", "noopener");
+  else location.href="t?sym="+encodeURIComponent(sym);
+}
+
+// ---- AI trade in 60 seconds + AI bubble risk (homepage band, #6 + #10) ----
+function riskColor(v){ if(v==null) return "#8895a4"; if(v<25) return "#22c55e"; if(v<45) return "#69cd91";
+  if(v<60) return "#e0a73f"; if(v<80) return "#f05a6e"; return "#b91c1c"; }
+function pillarDriver(ix){
+  const P=[["valuation","Valuation"],["capitalFlows","Market Concentration"],["adoption","Momentum & Technical"],
+           ["sentiment","Sentiment & Hype"],["systemicRisk","Systemic Risk"]];
+  let best=null; P.forEach(([k,nm])=>{ if(ix[k]!=null && (!best||ix[k]>best.v)) best={nm,v:ix[k]}; });
+  return best; }
+function briefSpark(hist,w=150,h=30){
+  const vs=(hist||[]).map(p=>p.v).filter(v=>v!=null).slice(-60); if(vs.length<2) return "";
+  const mn=Math.min(...vs),mx=Math.max(...vs),rng=(mx-mn)||1;
+  const pts=vs.map((v,i)=>`${(i/(vs.length-1)*w).toFixed(1)},${(h-2-((v-mn)/rng)*(h-4)).toFixed(1)}`).join(" ");
+  return `<svg width="${w}" height="${h}" viewBox="0 0 ${w} ${h}" preserveAspectRatio="none" style="display:block;max-width:100%"><polyline points="${pts}" fill="none" stroke="${riskColor(vs[vs.length-1])}" stroke-width="1.6"/></svg>`;
+}
+function renderBrief(){
+  const el=document.getElementById("brief"); if(!el) return;
+  if(!universe||!universe.bubbles||!universe.bubbles.length){ el.style.display="none"; return; }
+  el.style.display="";
+  const tk=[]; universe.bubbles.forEach(b=>b.tickers.forEach(t=>{ if(t.change_pct!=null) tk.push(t); }));
+  const secs=universe.bubbles.filter(b=>b.avg_change_pct!=null);
+  const tot=tk.length, up=tk.filter(t=>t.change_pct>0).length;
+  const breadth=tot?Math.round(up/tot*100):0;
+  const mood=breadth>=58?"Risk-on":breadth<=42?"Risk-off":"Mixed";
+  const moodCls=breadth>=58?"up":breadth<=42?"down":"";
+  const sBy=[...secs].sort((a,b)=>b.avg_change_pct-a.avg_change_pct);
+  const strong=sBy[0], weak=sBy[sBy.length-1];
+  const byMove=[...tk].sort((a,b)=>Math.abs(b.change_pct)-Math.abs(a.change_pct));
+  const top=byMove[0]||{ticker:"—",change_pct:0};
+  let weird, weirdTag;
+  const nn=((hotData&&hotData.hot_tickers)||[]).find(t=>t.catalyst_type==="no_news_mover");
+  if(nn){ weird={ticker:nn.ticker,change_pct:nn.move_pct}; weirdTag="no catalyst"; }
+  else { const w=byMove.find(t=>t.ticker!==top.ticker && (t.market_cap_b||9999)<60)||byMove[1]||top;
+    weird=w; weirdTag=(w.market_cap_b||0)<60?"small-cap":"outlier"; }
+  const ix=(bubbleIx&&bubbleIx.index)||null;
+  const clk=(document.getElementById("asof")?.textContent||"").replace("As of ","");
+  let riskTile;
+  if(ix){
+    const hist=bubbleIx.history||[];
+    const prev=hist.length>=2?hist[hist.length-2].v:ix.overall;
+    const delta=+(ix.overall-prev).toFixed(1);
+    const arrow=delta>0?`▲ ${Math.abs(delta)}`:delta<0?`▼ ${Math.abs(delta)}`:"flat";
+    const aCls=delta>0?"down":delta<0?"up":"";   // risk rising = red, falling = green
+    const drv=pillarDriver(ix);
+    riskTile=`<div class="bt risk">
+      <div class="k">AI bubble risk today</div>
+      <div class="top"><span class="num" style="color:${riskColor(ix.overall)}">${Math.round(ix.overall)}</span>
+        <span class="s">/100 · ${ix.label||""}</span>
+        <span class="s ${aCls}" style="font-weight:700">${arrow} vs prev</span></div>
+      <div class="s">Top driver: ${drv?drv.nm+" ("+Math.round(drv.v)+")":"—"}</div>
+      <div class="spark">${briefSpark(hist)}</div>
+      <a class="rsh" href="/share?card=risk">Share risk card ↗</a></div>`;
+  } else {
+    riskTile=`<div class="bt risk"><div class="k">AI bubble risk today</div><div class="s">Index feed connecting…</div></div>`;
+  }
+  let note;
+  if(ix && breadth>=58 && ix.overall>=58) note=`Broad green across the AI tape, but the bubble gauge is hot at ${Math.round(ix.overall)} — strength and froth at once.`;
+  else if(ix && breadth<=42 && ix.overall<45) note=`The tape is mostly red, yet the bubble gauge is calm at ${Math.round(ix.overall)} — fear without froth.`;
+  else if(nn && top && nn.ticker===top.ticker && Math.abs(top.change_pct)>6) note=`${top.ticker} leads the board with no clear catalyst — that's attention, not news.`;
+  else if(strong && weak) note=`${strong.label} leads while ${weak.label} lags — rotation within the AI trade, not a one-way move.`;
+  else note=`Mixed tape — no single signal dominates this session.`;
+  el.innerHTML=`
+    <div class="brief-head"><span class="t">⚡ AI trade in 60 seconds</span>
+      <span class="clk">${clk}</span>
+      <a class="sh" href="/share?card=sixty">Share ↗</a></div>
+    <div class="brief-grid">
+      ${riskTile}
+      <div class="bt"><div class="k">Market mood</div><div class="v ${moodCls}">${mood}</div><div class="s">${breadth}% of ${tot} up</div></div>
+      <div class="bt" title="${strong?strong.label:""}"><div class="k">Strongest sector</div><div class="v up">${strong?(UNI_SHORT[strong.id]||strong.label):"—"}</div><div class="s up">${strong?fmtPct(strong.avg_change_pct):""}</div></div>
+      <div class="bt" title="${weak?weak.label:""}"><div class="k">Weakest sector</div><div class="v down">${weak?(UNI_SHORT[weak.id]||weak.label):"—"}</div><div class="s down">${weak?fmtPct(weak.avg_change_pct):""}</div></div>
+      <div class="bt"><div class="k">Top mover</div><div class="v ${top.change_pct>=0?'up':'down'}" style="cursor:pointer" onclick="openTicker('${top.ticker}')">${top.ticker}</div><div class="s ${top.change_pct>=0?'up':'down'}">${fmtPct(top.change_pct)}</div></div>
+      <div class="bt"><div class="k">Weirdest mover</div><div class="v ${weird.change_pct>=0?'up':'down'}" style="cursor:pointer" onclick="openTicker('${weird.ticker}')">${weird.ticker}</div><div class="s">${fmtPct(weird.change_pct)} · ${weirdTag}</div></div>
+    </div>
+    <div class="brief-note"><b>Contrarian read:</b> ${note}</div>`;
+}
+
+function renderSamples(){
+  const rb=document.getElementById("runners-badge");
+  // Hot tickers (15-min scan) — replaces small-cap runners; hot = attention, not direction
+  if(hotData && hotData.hot_tickers && hotData.hot_tickers.length){
+    if(rb){ rb.textContent=`Auto · ${timeAgo(hotData.meta.as_of)}`; rb.className="badge live"; }
+    document.getElementById("small").innerHTML =
+      `<div class="hot-slogan">Hot = attention, not direction</div>` +
+      hotData.hot_tickers.map(t=>{
+        const cls=t.catalyst_type==="no_news_mover"?"chip-nonews":(t.move_pct>0?"chip-up":"chip-down");
+        const src=t.source_url?` · <a href="${t.source_url}" target="_blank" rel="noopener">source ↗</a>`:"";
+        const cat=t.catalyst_type==="no_news_mover"?`<span class="nocat">No clear catalyst found</span>`:t.catalyst_type.replace(/_/g," ");
+        const when=t.published?` · ${timeAgo(t.published)}`:(t.catalyst_type==="no_news_mover"?" · this cycle":"");
+        const sect=t.sector?`${t.sector.split(":")[0]} · `:"";
+        return `<div class="hot">
+          <div class="htk"><div class="sym" onclick="openTicker('${t.ticker}')" title="Show ${t.ticker} on the bubble map">${t.ticker}</div><div class="pr">$${t.price.toLocaleString()}</div>
+            <div class="hact"><span onclick="openTicker('${t.ticker}')" title="Show on the bubble map">◉ map</span><a href="t?sym=${t.ticker}" title="Open the ${t.ticker} page">page ↗</a></div></div>
+          <span class="chip-mv ${cls}">${fmtPct(t.move_pct)}</span>
+          <div class="hwhy">${t.why}
+            <div class="hmeta">${sect}${t.company} · vol ${fmtVol(t.volume)} (${t.volume_vs_avg} avg) · ${cat}${when}${src}</div></div>
+          <div class="fire"> ${t.heat_score}</div>
+        </div>`;}).join("")
+      + `<div class="runner-note">${hotData.meta.heat_criteria}<br>${hotData.meta.disclaimer}</div>`;
+  } else if(hotData && hotData.meta){
+    // feed is HEALTHY, just nothing qualifies this cycle (common in premarket/
+    // quiet tape) — say that honestly instead of pretending we're offline
+    if(rb){ rb.textContent=`Auto · ${timeAgo(hotData.meta.as_of)}`; rb.className="badge live"; }
+    document.getElementById("small").innerHTML=
+      `<div class="hot-slogan">Hot = attention, not direction</div>`+
+      `<div class="runner-note"><b style="color:var(--text)">Nothing is hot this cycle.</b> No ticker currently
+       meets 2 of 3: |day move| &gt; 5%, volume &gt; 3× its 30-day average, or a fresh catalyst.
+       A quiet tape is information too — we never pad this list. Re-scans every 15 minutes.</div>`;
+  } else {
+    // no fake fallbacks — an honest empty state beats stale sample data
+    if(rb){ rb.textContent="Offline"; rb.className="badge sample"; }
+    document.getElementById("small").innerHTML=
+      `<div class="runner-note">Hot tickers feed temporarily unavailable — refreshes every 15 minutes.</div>`;
+  }
+  renderSpaceX();
+}
+// SK hynix ADR tracker — the panel's IPO feature: big live SKHY price
+// (universe.json, yf-aliased to SKHYV until Monday's ticker conversion),
+// premium vs the $149 ADS pricing, @DeItaone squawk + headlines.
+const SKHY_ADS = 149.00;   // priced ADS reference (reported), like SPCX's 135 seed
+function renderSpaceX(){
+  const el=document.getElementById("ipo");
+  if(!el) return;
+  const s = universe ? universe.bubbles.flatMap(b=>b.tickers).find(t=>t.ticker==="SKHY") : null;
+  const badge=document.getElementById("spcx-badge");
+  if(badge){
+    const ts=(tweets&&tweets.meta&&tweets.meta.as_of)||(universe&&universe.meta.as_of)||null;
+    const ago=ts?timeAgo(ts.replace(" UTC","Z").replace(" ","T")):"";
+    badge.textContent="Auto"+(ago?" · "+ago:"");
+  }
+  let h="";
+  const live = s && s.price!=null;
+  const traded = live && (s.change_pct!==0 || s.price!==SKHY_ADS);
+  h+=`<div class="spcx-head" onclick="${live?"openTicker('SKHY')":"location.href='/ipos/sk-hynix-adr'"}" title="${live?"Open SKHY in the bubble map":"Open the SK hynix IPO watch profile"}">
+    <div class="spcx-logo"><span>SK</span><img src="https://assets.parqet.com/logos/symbol/SKHY?format=png&size=64" alt="SK hynix" onerror="this.remove()"></div>
+    <div class="spcx-main"><div class="spcx-nm">SK hynix</div>
+      <div class="spcx-tk">${live?"SKHY":"SKHYV → SKHY Mon"} · Nasdaq ADR · ${s&&s.market_cap_b?fmtCap(s.market_cap_b*1e9):"~$1.05T"} · Memory/HBM</div></div>
+    <div class="spcx-px">${live?`<div class="big">$${s.price.toFixed(2)}</div>
+      <div class="chg ${pctClass(s.change_pct)}">${fmtPct(s.change_pct)}</div>
+      <div class="ref">${traded?`vs ADS $${SKHY_ADS.toFixed(2)} (${fmtPct((s.price/SKHY_ADS-1)*100)})`:"ADS price · awaiting first trade"}${universe&&universe.meta.session?` · ${({pre:"premarket",post:"after hours",regular:"market open",closed:"market closed"})[universe.meta.session]||""}`:""}</div>`
+      :`<div class="big">$${SKHY_ADS.toFixed(2)}</div>
+      <div class="ref">priced / ADS · reported</div>
+      <div class="ref">awaiting live prints — day one trades as $SKHYV</div>`}</div>
+  </div>`;
+  const isHynix = x => /sk\s*hynix|hynix|skhy/i.test(x||"");
+  const tw=(tweets&&tweets.items?tweets.items:[]).filter(it=>isHynix(it.text)).slice(0,4);
+  if(tw.length){
+    h+=`<div class="spcx-srclbl">𝕏 ${tweets.meta.handle} · live squawk</div>`
+      +tw.map(it=>`
+      <div class="spcx-tweet"><a href="${it.url}" target="_blank" rel="noopener">${it.text}</a>
+        <div class="m">${timeAgo(it.time)}</div></div>`).join("");
+  }
+  const items=(newsFeed&&newsFeed.items?newsFeed.items:[])
+    .filter(it=>(it.tickers||[]).includes("SKHY") || isHynix(it.title))
+    .slice(0,4);
+  h+=`<div class="spcx-news">${items.length?`<div class="spcx-srclbl">Headlines</div>`:""}`
+    +(items.length?items.map(it=>`
+    <div class="spcx-item"><a href="${it.link||"#"}" target="_blank" rel="noopener">${it.title}</a>
+      <div class="m">${it.publisher||""}${it.published?" · "+timeAgo(it.published):""}</div></div>`).join("")
+    :(tw.length?"":`<div class="spcx-wait">Waiting for fresh SK hynix headlines — feed updates every 20 minutes…</div>`))+`</div>`;
+  h+=`<div class="spcx-srclbl" style="margin-top:8px"><a href="/ipos/sk-hynix-adr" style="color:inherit">Deal profile: reported terms, FAQ →</a> · <a href="/blog/sk-hynix-adr-etf-flows" style="color:inherit">ETF-flow analysis →</a></div>`;
+  el.innerHTML=h;
+}
+function renderTakeaways(){
+  const badge=document.getElementById("tk-badge");
+  // live 4-hour cycle from takeaways/takeaways.json (the Cowork methodology)
+  if(takeaways && takeaways.cards && takeaways.cards.length){
+    if(badge){ badge.textContent=`Auto · ${takeaways.session}`; badge.className="badge live"; }
+    const cards = tkExpanded ? takeaways.cards : takeaways.cards.slice(0,3);
+    const hidden = takeaways.cards.length - 3;
+    let h=`<div class="tk-since">${takeaways.generated_et}${takeaways.since_last?" — "+takeaways.since_last:""}</div>`;
+    h+=cards.map(c=>`
+      <div class="tk-card">
+        <div class="tk-h">${c.headline}</div>
+        <div class="tk-b">${c.body}</div>
+        <div class="tk-meta">${(c.tickers||[]).map(t=>`<span class="chip">${t}</span>`).join("")}</div>
+        ${c.watch?`<div class="tk-watch">⚑ Watch: ${c.watch}</div>`:""}
+      </div>`).join("");
+    if(hidden>0) h+=`<button class="tk-more" id="tk-more">${tkExpanded?"Show less ▲":`See more · ${hidden} more ▼`}</button>`;
+    document.getElementById("takeaways").innerHTML=h;
+    const mb=document.getElementById("tk-more");
+    if(mb) mb.addEventListener("click", ()=>{ tkExpanded=!tkExpanded; renderTakeaways(); });
+    return;
+  }
+  // fallback: computed quick lines (takeaways feed momentarily unavailable)
+  if(badge){ badge.textContent="Auto"; badge.className="badge live"; }
+  const top3=stocks.slice(0,3), total=stocks.reduce((a,s)=>a+s.market_cap,0)||1;
+  const share=Math.round(top3.reduce((a,s)=>a+s.market_cap,0)/total*100);
+  const gainers=stocks.filter(s=>s.change_pct>0).length;
+  const lines=[
+    `Top 3 (${top3.map(s=>s.symbol).join(", ")}) = <b>${share}%</b> of this basket's market cap — concentration risk.`,
+    `${gainers}/${stocks.length} names are green today — breadth check.`,
+  ];
+  document.getElementById("takeaways").innerHTML=lines.map(t=>
+    `<div class="takeaway"><span class="b">▸</span><span>${t}</span></div>`).join("");
+}
+
+function applyHeat(){
+  const back=document.getElementById("uni-back");
+  if(back) back.style.display = (heatMode==="universe" && uniGroup) ? "" : "none";
+
+  if(heatMode==="universe" && universe){
+    document.getElementById("heat-title").textContent = uniGroup
+      ? `${uniGroup.label} · sized by day move`
+      : `AI Universe · ${universe.meta.total_tickers} names · ${universe.bubbles.length} sectors`;
+    // Keep the bottom summary blurb's count in sync with the live universe.
+    const _trk=document.getElementById("trk-tickers"); if(_trk) _trk.textContent = universe.meta.total_tickers;
+    const _trs=document.getElementById("trk-sectors"); if(_trs) _trs.textContent = universe.bubbles.length;
+    render();
+    if(uniGroup){
+      const t = uniGroup.tickers.find(x=>x.ticker===selectedSymbol);
+      t ? showUniverseDetail(t) : showGroupDetail(uniGroup);
+    } else {
+      showGroupDetail(universe.bubbles[0]);
+    }
+    return;
+  }
+  if(heatMode==="eco" && eco){
+    document.getElementById("heat-title").textContent =
+      `NVIDIA Ecosystem · ${eco.tickers.length} names · sized by day move`;
+    render();
+    // no selection yet → the whole basket as a table; a click swaps to the ticker card
+    const t = eco.tickers.find(x=>x.ticker===selectedSymbol);
+    t ? showUniverseDetail(t) : showEcoOverview();
+    return;
+  }
+}
+
+async function loadData(){
+  try{
+    const d=await (await fetch("data.json?t="+Date.now())).json();
+    stocks=d.stocks||[]; asOfUtc=d.as_of_utc||null;
+    try{ research=await (await fetch("research/research.json?t="+Date.now())).json(); }
+    catch(e){ research=null; }
+    try{ takeaways=await (await fetch("takeaways/takeaways.json?t="+Date.now())).json(); }
+    catch(e){ takeaways=null; }
+    try{ hotData=await (await fetch("hot_tickers.json?t="+Date.now())).json(); }
+    catch(e){ hotData=null; }
+    try{
+      universe=await (await fetch("universe.json?t="+Date.now())).json();
+      if(uniGroup) uniGroup = universe.bubbles.find(b=>b.id===uniGroup.id) || null;
+    }catch(e){ universe=null; uniGroup=null; }
+    try{ eco=await (await fetch("ecosystem.json?t="+Date.now())).json(); }
+    catch(e){ eco=null; }
+    try{ tweets=await (await fetch("tweets.json?t="+Date.now())).json(); }
+    catch(e){ tweets=null; }
+    try{ newsFeed=await (await fetch("news.json?t="+Date.now())).json(); }
+    catch(e){ newsFeed=null; }
+    try{ bubbleIx=await (await fetch("bubble_index.json?t="+Date.now())).json(); }
+    catch(e){ bubbleIx=null; }
+    document.getElementById("asof").textContent="As of "+d.as_of_local;
+    const ts=document.getElementById("tape-stats");
+    if(ts && d.tape && d.tape.length){
+      ts.innerHTML=d.tape.map(t=>
+        `<span class="ts-item"><span class="lbl">${t.label}</span>`+
+        `<span class="val">${t.price.toLocaleString()}</span>`+
+        `<span class="${pctClass(t.change_pct)}">${fmtPct(t.change_pct)}</span></span>`).join("");
+      if(bubbleIx && bubbleIx.index && bubbleIx.index.overall!=null){
+        const ix=bubbleIx.index;
+        const col=ix.overall<25?"#22c55e":ix.overall<45?"#69cd91":ix.overall<60?"#e0a73f":ix.overall<80?"#f05a6e":"#b91c1c";
+        ts.innerHTML+=`<a class="ts-item ts-bubble" href="/bubble" title="AI Bubble metrics — open">`+
+          `<span class="lbl">AI Bubble risk</span>`+
+          `<span class="val" style="color:${col}">${Math.round(ix.overall)}</span>`+
+          `<span style="color:${col};font-weight:600">${ix.label||""}</span></a>`;
+      }
+    }
+    renderBrief(); renderNews(); renderSamples(); renderTakeaways();
+    applyHeat();
+  }catch(e){
+    document.getElementById("asof").textContent="data.json not found — run fetch.py";
+    console.error(e);
+  }
+}
+
+chart.on("click", p=>{
+  if(p.data && p.data.group){
+    // every sector is a real destination: /stocks/themes/<slug> (slug = bubble id)
+    location.href="/stocks/themes/"+String(p.data.group.id).replace(/_/g,"-");
+  }
+  else if(p.data && p.data.uniTicker){ selectedSymbol=p.data.uniTicker.ticker; render(); showUniverseDetail(p.data.uniTicker); }
+});
+document.querySelectorAll(".seg-btn[data-mode]").forEach(b=>b.addEventListener("click",()=>{
+  if(b.dataset.mode===heatMode) return;
+  heatMode=b.dataset.mode; selectedSymbol=null; uniGroup=null;
+  document.querySelectorAll(".seg-btn[data-mode]").forEach(x=>x.classList.toggle("active",x.dataset.mode===heatMode));
+  applyHeat();
+}));
+document.getElementById("uni-back").addEventListener("click", ()=>{
+  uniGroup=null; selectedSymbol=null; applyHeat();
+});
+// ---- main nav: Stocks / ETFs jump the heatmap mode, News scrolls to the feed ----
+function setNav(id){
+  document.querySelectorAll(".mainnav .nav-link").forEach(b=>b.classList.toggle("active", b.id===id));
+}
+function navMode(mode, navId){
+  heatMode=mode; uniGroup=null; selectedSymbol=null;
+  document.querySelectorAll(".seg-btn[data-mode]").forEach(x=>x.classList.toggle("active", x.dataset.mode===mode));
+  applyHeat(); setNav(navId);
+  document.querySelector(".area-heat").scrollIntoView({behavior:"smooth", block:"start"});
+}
+document.getElementById("nav-terminal")?.addEventListener("click", ()=>navMode("universe","nav-terminal"));
+window.addEventListener("resize", ()=>{chart.resize(); render();});
+document.getElementById("reload").addEventListener("click", loadData);
+document.getElementById("theme-toggle").addEventListener("click",
+  ()=>applyTheme(currentTheme()==="dark" ? "light" : "dark", true));
+let savedTheme="dark"; try{ savedTheme=localStorage.getItem("santro-theme")||"dark"; }catch(e){}
+applyTheme(savedTheme, false);
+loadData();
+</script>
+<!-- Gated fair-value calculator + user accounts (extends the terminal) -->
+<script src="accounts/config.js?v=3"></script>
+<script src="accounts/api.js?v=13"></script>
+<script src="accounts/accounts.js?v=17"></script>
+<script src="accounts/prefs.js?v=1"></script>
+<script>
+setInterval(loadData, 60000);
+
+/* ── preferences + watchlist strip (progressive; never blocks the public render) ── */
+(function(){
+"use strict";
+var API=window.SantroAPI, Prefs=window.SantroPrefs;
+if(!Prefs) return;
+var strip=document.getElementById("wl-strip");
+var VIEW_TARGET={stocks:'[data-pref-section="stocks"]',news:'[data-pref-section="news"]',
+  research:'[data-pref-section="research"]',bubble:'[data-pref-section="bubble_risk"]',
+  watchlist:"#wl-strip",calculator:".area-detail"};
+var esc=function(s){return String(s==null?"":s).replace(/[&<>"]/g,function(c){return({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"})[c];});};
+var authed=function(){return !!document.getElementById("sa-acct");};
+
+var _px=null;
+function stripPrices(){
+  if(_px) return Promise.resolve(_px);
+  var grab=function(u){return fetch(u+"?t="+Date.now()).then(function(r){return r.json();}).catch(function(){return null;});};
+  return Promise.all([grab("/universe.json"),grab("/ecosystem.json")]).then(function(res){
+    var map={};
+    var add=function(t){if(t&&t.ticker)map[t.ticker]={price:t.price,mv:t.change_pct};};
+    if(res[0]&&res[0].bubbles)res[0].bubbles.forEach(function(b){(b.tickers||[]).forEach(add);});
+    if(res[1]&&res[1].tickers)res[1].tickers.forEach(add);
+    _px=map;return map;});
+}
+function chipHtml(sym,px,pinned){
+  var mv=px&&typeof px.mv==="number"?px.mv:null;
+  var mvHtml=mv==null?'<span class="mv na">—</span>':'<span class="mv '+(mv>=0?"up":"dn")+'">'+(mv>=0?"+":"")+mv.toFixed(1)+"%</span>";
+  var act=pinned?'<button class="unpin" data-un="'+esc(sym)+'" title="Remove from watchlist" aria-label="Remove '+esc(sym)+' from watchlist">×</button>'
+               :'<button class="pinit" data-pin="'+esc(sym)+'" title="Pin to watchlist" aria-label="Pin '+esc(sym)+' to watchlist">+</button>';
+  return '<span class="wl-chip'+(pinned?"":" sug")+'"><span data-open="'+esc(sym)+'">'+esc(sym)+" "+mvHtml+"</span>"+act+"</span>";
+}
+function renderLocked(){
+  strip.innerHTML='<div class="wl-locked"><span class="wl-label">★ Watchlist</span>'+
+    '<p>Pin tickers to your watchlist — they open with your terminal. Quotes delayed ~15 min.</p>'+
+    '<button class="wl-cta" id="wl-signup" type="button">Create free account</button>'+
+    '<a class="wl-cta" href="/signin?next=/terminal" style="background:transparent">Sign in</a></div>';
+  var b=document.getElementById("wl-signup");
+  if(b) b.onclick=function(){ if(window.SantroLocks) SantroLocks.open("watch","wl-strip");
+    else location.href="/signup?next=/terminal"; };
+}
+function renderAuthed(){
+  strip.innerHTML='<div class="wl-head-row"><span class="wl-label">★ Watchlist</span><span class="wl-skel"></span></div>';
+  Promise.all([API.listWatchlist(),stripPrices()]).then(function(res){
+    var wl=res[0]||[],px=res[1]||{};
+    var pinned=wl.map(function(w){return w.ticker;});
+    var pref=Prefs.getPreferredTickers().filter(function(t){return pinned.indexOf(t)<0;}).slice(0,8);
+    pinned.sort(function(a,b){var A=px[a],B=px[b];return Math.abs(B&&B.mv||0)-Math.abs(A&&A.mv||0);});
+    var chips=pinned.map(function(s){return chipHtml(s,px[s],true);}).join("")+
+              pref.map(function(s){return chipHtml(s,px[s],false);}).join("");
+    var known=Object.keys(px).sort().map(function(s){return '<option value="'+esc(s)+'">';}).join("");
+    strip.innerHTML='<div class="wl-head-row"><span class="wl-label">★ Watchlist</span>'+
+      '<div class="wl-chips">'+(chips||'<span style="font-size:12.5px;color:var(--muted)">No pinned tickers yet — add one:</span>')+"</div>"+
+      '<form class="wl-add" id="wl-add-form"><input id="wl-add-input" list="wl-known" maxlength="12" placeholder="Add ticker" '+
+      'autocomplete="off" spellcheck="false" aria-label="Add ticker to watchlist"><button type="submit">＋ Add</button></form>'+
+      '<span class="wl-note">Delayed ~15 min · not financial advice</span></div>'+
+      '<datalist id="wl-known">'+known+"</datalist>"+'<p class="wl-err" id="wl-err" hidden></p>';
+    wire();
+  }).catch(function(e){
+    console.warn("watchlist strip:",e);
+    strip.innerHTML='<div class="wl-head-row"><span class="wl-label">★ Watchlist</span>'+
+      '<p class="wl-err" style="margin:0">Couldn’t load your watchlist right now — the terminal below is unaffected.</p></div>';
+  });
+}
+function err(msg){var el=document.getElementById("wl-err");if(!el)return;el.textContent=msg||"";el.hidden=!msg;}
+function wire(){
+  var form=document.getElementById("wl-add-form"),input=document.getElementById("wl-add-input");
+  if(form)form.onsubmit=function(ev){
+    ev.preventDefault();
+    var sym=(input.value||"").trim().toUpperCase();
+    if(!/^[A-Z0-9.\-]{1,12}$/.test(sym)){err("Tickers are 1–12 letters/numbers, like NVDA.");return;}
+    err("");input.disabled=true;
+    API.pin(sym).then(function(){input.value="";renderAuthed();})
+      .catch(function(e){input.disabled=false;err(e&&e.detail?e.detail:"Couldn’t add "+sym+" right now.");});
+  };
+  strip.querySelectorAll("[data-un]").forEach(function(b){b.onclick=function(){
+    b.disabled=true;API.unpin(b.dataset.un).then(renderAuthed).catch(function(){b.disabled=false;err("Couldn’t remove that right now.");});};});
+  strip.querySelectorAll("[data-pin]").forEach(function(b){b.onclick=function(){
+    b.disabled=true;API.pin(b.dataset.pin).then(renderAuthed).catch(function(){b.disabled=false;err("Couldn’t pin that right now.");});};});
+  strip.querySelectorAll("[data-open]").forEach(function(el){el.onclick=function(){
+    if(typeof window.openTicker==="function")window.openTicker(el.dataset.open);
+    else location.href="t?sym="+encodeURIComponent(el.dataset.open);};});
+}
+function renderStrip(){ strip.hidden=false; if(authed())renderAuthed(); else renderLocked(); }
+
+/* customize button */
+var cust=document.getElementById("ts-customize");
+if(cust)cust.onclick=function(){
+  if(authed()){ location.href="/dashboard?next=/terminal"; return; }
+  if(window.SantroLocks) SantroLocks.open("customize","ts-customize");
+  else location.href="/signup?next=/terminal";
+};
+
+/* boot: default public render is already underway; prefs apply progressively.
+   Wait for accounts.js to resolve auth (it renders the slot either way) so an
+   anonymous visitor triggers ZERO extra API calls (no new 401 console noise). */
+function waitAuthSettled(ms){
+  return new Promise(function(res){
+    var t0=Date.now();
+    (function tick(){
+      var slot=document.getElementById("santro-auth-slot");
+      if(slot&&(slot.querySelector("#sa-acct")||slot.querySelector("#sa-signin")))return res();
+      if(Date.now()-t0>ms)return res();
+      setTimeout(tick,150);
+    })();
+  });
+}
+waitAuthSettled(6000).then(function(){ return authed()?Prefs.load():Promise.resolve(Prefs.DEFAULTS); })
+.then(function(p){
+  Prefs.apply(p);
+  if(p.show_watchlist===false){ strip.hidden=true; } else renderStrip();
+  var tgt=VIEW_TARGET[p.default_terminal_view];
+  if(tgt&&p.default_terminal_view!=="all"){
+    var el=document.querySelector(tgt);
+    if(el&&!el.hidden)setTimeout(function(){try{el.scrollIntoView({block:"start",behavior:"smooth"});}catch(_){el.scrollIntoView();}},600);
+  }
+  /* Watch for auth CHANGES only (login/logout via the in-page modal). Armed
+     AFTER boot with the settled state, so the header's initial render can't
+     trigger a duplicate strip render racing the first one. */
+  var slot=document.getElementById("santro-auth-slot"),was=authed();
+  if(slot&&window.MutationObserver)new MutationObserver(function(){
+    var is=authed();
+    if(is!==was){was=is;Prefs.reset();Prefs.load().then(function(np){Prefs.apply(np);if(np.show_watchlist!==false){strip.hidden=false;renderStrip();}});}
+  }).observe(slot,{childList:true,subtree:true});
+}).catch(function(e){ console.warn("prefs load:",e); renderStrip(); });
+})();
+</script>
+</body>
+</html>

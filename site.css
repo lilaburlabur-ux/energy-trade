@@ -1,0 +1,159 @@
+/* Santro AI — shared styles for section pages (dashboard keeps its own inline styles) */
+:root{
+  color-scheme: dark;
+  --bg:#0a0e13; --panel:#111822; --panel-2:#0c121a; --elev:#16202b;
+  --border:#1d2733; --border-soft:#161e28;
+  --text:#e7edf3; --muted:#8895a4; --faint:#5a6573;
+  --accent:#22c55e; --accent-2:#7ce8b1; --accent-soft:#10241a; --accent-border:#1e4634;
+  --green:#22c55e; --red:#f05a6e; --radius:14px;
+  /* santro brand tokens — green is the primary identity; --accent (blue)
+     is a SECONDARY link color only and must not drive logos/CTAs/active nav */
+  --santro-green:#22c55e; --santro-green-hi:#4ade80; --santro-green-deep:#15803d;
+  --santro-green-soft:rgba(34,197,94,.12); --santro-green-border:rgba(34,197,94,.45);
+  --risk-amber:#d9a13c;
+}
+html[data-theme="light"]{
+  color-scheme: light;
+  --bg:#f4f6f3; --panel:#ffffff; --panel-2:#eef1ec; --elev:#e7ede7;
+  --border:#d7ded6; --border-soft:#e4eae3;
+  --text:#1a231d; --muted:#5b6659; --faint:#8a9488;
+  --accent:#157a4a; --accent-2:#0f6b41; --accent-soft:#e7f5ec; --accent-border:#bfdcc9;
+  --green:#178244; --red:#d23b52;
+}
+*{box-sizing:border-box;}
+body{margin:0; background:var(--bg); color:var(--text); font-size:14.5px;
+  font-family:var(--font-sans, -apple-system,BlinkMacSystemFont,"Inter","Segoe UI",Roboto,Helvetica,Arial,sans-serif);
+  font-variant-numeric:tabular-nums; -webkit-font-smoothing:antialiased; line-height:1.55;}
+a{color:var(--accent-2);font-weight:600;text-decoration:none;}
+.up{color:var(--green);} .down{color:var(--red);}
+
+.pageheader{display:flex; align-items:center; justify-content:space-between; gap:10px 16px;
+  flex-wrap:wrap; padding:10px 22px; border-bottom:1px solid var(--border-soft);}
+.logo{display:flex; align-items:center; gap:6px; text-decoration:none; user-select:none;}
+.logo-s{position:relative; font-size:28px; font-weight:800; line-height:.85; padding-right:14px;
+  background:linear-gradient(165deg,#4ade80 10%,#15803d 90%);
+  -webkit-background-clip:text; background-clip:text; color:transparent;}
+.logo-ai{position:absolute; top:-3px; right:0; font-size:9.5px; font-weight:800; -webkit-text-fill-color:#22c55e;}
+.logo-rest{display:flex; flex-direction:column;}
+.logo-antro{font-size:14px; font-weight:800; letter-spacing:.30em; color:var(--text); line-height:1;}
+.logo-tagline{font-size:6.8px; font-weight:700; letter-spacing:.26em; color:#22c55e; margin-top:3px;}
+html[data-theme="light"] .logo-s{background:linear-gradient(165deg,#16a34a 10%,#14532d 90%);
+  -webkit-background-clip:text; background-clip:text;}
+nav.pagenav{display:flex; gap:2px; flex-wrap:wrap;}
+.nav-link{padding:7px 12px; border-radius:8px; font-size:13.5px; font-weight:600;
+  color:var(--muted); text-decoration:none;}
+.nav-link:hover{color:var(--text); background:var(--elev);}
+.nav-link.active{color:var(--accent-2); background:var(--accent-soft);}
+.nav-link.soon{opacity:.5; pointer-events:none;}
+
+/* layout shells — width by page TYPE (ds_v2 layout fix 2026-07-08):
+   default = terminal/data shell (wide); overrides via body class.
+   Article width is for articles only. */
+main{max-width:1560px; margin:0 auto; padding:26px clamp(16px,2vw,32px) 60px;}
+body.shell-article main{max-width:1080px;}
+body.shell-tool main{max-width:1240px;}
+body.shell-marketing main{max-width:1400px;}
+/* third-party embeds must never exceed their container (TradingView's
+   fallback state renders a fixed 600px inner div — caught on /stocks/qcom
+   at 375px by the mobile-overflow audit) */
+.tradingview-widget-container, .tradingview-widget-container div,
+.tradingview-widget-container iframe{max-width:100% !important;}
+h1{font-size:24px; margin:0 0 6px;}
+.lede{color:var(--muted); max-width:740px; margin:0 0 22px;}
+.badge{font-size:10px; letter-spacing:.4px; padding:3px 9px; border-radius:999px; font-weight:600;
+  background:var(--accent-soft); color:var(--accent-2); border:1px solid var(--accent-border);}
+.badge.amber{background:#241d10; color:#e0a73f; border-color:#463713;}
+html[data-theme="light"] .badge.amber{background:#fbf2da; color:#92660f; border-color:#e7d3a0;}
+
+.cardgrid{display:grid; grid-template-columns:repeat(auto-fill,minmax(300px,1fr)); gap:14px;}
+.card{background:var(--panel); border:1px solid var(--border); border-radius:var(--radius); padding:16px;}
+.card h3{margin:0 0 4px; font-size:16px;}
+.row{display:flex; align-items:baseline; gap:10px; flex-wrap:wrap;}
+.muted{color:var(--muted);} .faint{color:var(--faint); font-size:12px;}
+.kv{display:grid; grid-template-columns:1fr 1fr; gap:8px; margin-top:10px;}
+.kv div{background:var(--panel-2); border:1px solid var(--border-soft); border-radius:9px; padding:8px 11px;}
+.kv .k{color:var(--faint); font-size:10px; text-transform:uppercase; letter-spacing:.5px;}
+.kv .v{font-weight:600; margin-top:2px;}
+.chips{display:flex; flex-wrap:wrap; gap:6px;}
+.chip{font-size:10px; font-weight:600; color:var(--accent-2); background:var(--accent-soft);
+  border:1px solid var(--accent-border); padding:1px 7px; border-radius:6px;}
+
+.newsitem{padding:13px 0; border-bottom:1px solid var(--border-soft);}
+.newsitem a{color:var(--text); text-decoration:none; font-size:15px;}
+.newsitem a:hover{color:var(--accent-2);}
+.newsitem .meta{color:var(--faint); font-size:12px; margin-top:4px; display:flex; gap:8px; flex-wrap:wrap;}
+
+footer{border-top:1px solid var(--border-soft); padding:22px; text-align:center;
+  color:var(--faint); font-size:12px; line-height:1.9;}
+footer .nfa{color:#e0a73f; font-weight:600;}
+
+/* ---- shared header controls (theme pill, as-of, reload) ---- */
+.pageright{display:flex; align-items:center; gap:10px; flex-wrap:wrap;}
+.pageright .asof{color:var(--faint); font-size:12px;}
+#reload-btn{background:transparent; color:var(--text); border:1px solid var(--border);
+  border-radius:9px; padding:8px 14px; font-size:13px; cursor:pointer; font-family:inherit; transition:.15s;}
+#reload-btn:hover{border-color:var(--accent-border); color:var(--accent-2); background:var(--accent-soft);}
+#theme-toggle{position:relative; width:138px; height:36px; border-radius:999px; cursor:pointer;
+  padding:0; overflow:hidden; background:#0c1117; border:1px solid #232c36;
+  transition:background .3s, border-color .3s;}
+#theme-toggle .tt-label{position:absolute; top:0; bottom:0; right:13px; display:flex; align-items:center;
+  font-size:10.5px; font-weight:700; letter-spacing:.9px; color:#e7edf3; transition:color .3s;}
+#theme-toggle .tt-knob{position:absolute; top:2px; left:2px; width:30px; height:30px; border-radius:50%;
+  background:#fff; border:1px solid #d9dfe7; display:grid; place-items:center;
+  color:#1b242f; box-shadow:0 1px 3px rgba(0,0,0,.35); transition:left .3s ease;}
+#theme-toggle .ic-sun{display:none;}
+#theme-toggle.day{background:#f6f7f9; border-color:#d9dfe7;}
+#theme-toggle.day .tt-label{right:auto; left:15px; color:#1b242f;}
+#theme-toggle.day .tt-knob{left:calc(100% - 32px); color:#2a3440; box-shadow:0 1px 3px rgba(20,30,45,.2);}
+#theme-toggle.day .ic-sun{display:block;}
+#theme-toggle.day .ic-moon{display:none;}
+
+/* ---- ticker search (header pill + dropdown, all pages) ---- */
+.tsearch{position:relative;}
+.tsearch .box{display:flex; align-items:center; gap:7px; background:var(--panel-2);
+  border:1px solid var(--border); border-radius:999px; padding:7px 12px; width:170px;
+  transition:border-color .15s, width .15s; cursor:text;}
+.tsearch .box:hover, .tsearch .box:focus-within{border-color:var(--accent-border); width:215px;}
+.tsearch .box svg{flex:0 0 auto; color:var(--faint);}
+.tsearch input{flex:1; min-width:0; background:transparent; border:0; outline:0; color:var(--text);
+  font:inherit; font-size:13px;}
+.tsearch input::placeholder{color:var(--faint);}
+.tsearch .kbd{font-size:10px; color:var(--faint); border:1px solid var(--border);
+  background:var(--panel); border-radius:5px; padding:1px 6px;}
+.tsearch .drop{position:absolute; top:120%; right:0; width:330px; background:var(--panel);
+  border:1px solid var(--border); border-radius:12px; overflow:hidden;
+  box-shadow:0 14px 40px rgba(0,0,0,.5); z-index:80;}
+.tsearch .sg{display:flex; align-items:center; gap:10px; padding:9px 13px;
+  border-bottom:1px solid var(--border-soft); cursor:pointer; font-size:13px;}
+.tsearch .sg:last-child{border-bottom:0;}
+.tsearch .sg:hover, .tsearch .sg.active{background:var(--elev);}
+.tsearch .sg img{width:22px; height:22px; border-radius:50%;}
+.tsearch .sg .tk{font-weight:700; width:50px; flex:0 0 auto;}
+.tsearch .sg .nm{color:var(--muted); flex:1; font-size:12px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis;}
+.tsearch .sg .pc{font-weight:700; font-size:12px; flex:0 0 auto;}
+
+/* footer links: quiet gray + bold, never browser-blue */
+footer a{color:var(--muted); font-weight:600; text-decoration:none;}
+footer a:hover{color:var(--text);}
+footer .foot-nav a{font-weight:700;}
+
+/* More dropdown (details-based, no JS) */
+.nav-more{position:relative;}
+.nav-more summary{list-style:none; cursor:pointer;}
+.nav-more summary::-webkit-details-marker{display:none;}
+.nav-more .menu{position:absolute; top:115%; right:0; background:var(--panel);
+  border:1px solid var(--border); border-radius:10px; padding:6px; min-width:190px; z-index:90;
+  box-shadow:0 10px 28px rgba(0,0,0,.35);}
+.nav-more .menu a{display:block; padding:8px 11px; border-radius:7px; font-size:13px;
+  color:var(--text); text-decoration:none; font-weight:600;}
+.nav-more .menu a:hover{background:var(--elev);}
+
+/* ── mobile, site-wide (first mobile block; keep conservative) ── */
+@media (max-width:640px){
+  .pageheader{padding:8px 12px; padding-top:calc(8px + env(safe-area-inset-top));}
+  nav.pagenav{gap:1px;}
+  .nav-link{padding:11px 10px; font-size:13px;}
+  footer{padding-bottom:calc(20px + env(safe-area-inset-bottom));}
+  footer .foot-nav{line-height:2.1;}
+  footer .foot-nav a{padding:4px 2px; display:inline-block;}
+}

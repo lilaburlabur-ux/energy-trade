@@ -1,0 +1,1048 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<meta name="theme-color" content="#0a0e13" />
+<meta name="mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-title" content="Santro AI" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+<title>AI ETFs List — Compare AI, Semiconductor &amp; Robotics Funds | Santro AI</title>
+<link rel="icon" href="/assets/favicon.svg" type="image/svg+xml" />
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32.png" />
+<link rel="icon" type="image/png" sizes="48x48" href="/assets/favicon-48.png" />
+<link rel="icon" type="image/png" sizes="96x96" href="/assets/favicon-96.png" />
+<link rel="apple-touch-icon" href="/assets/apple-touch-icon.png" />
+<link rel="manifest" href="/manifest.json" />
+<meta name="description" content="Compare AI-related ETFs by theme, exposure, overlap, concentration and fund structure with Santro AI. See what's actually inside each fund. Not financial advice." />
+<link rel="canonical" href="https://santroai.tech/etfs" />
+<meta property="og:site_name" content="Santro AI" />
+<meta property="og:title" content="AI ETFs List — Compare AI, Semiconductor &amp; Robotics Funds | Santro AI" />
+<meta property="og:description" content="Compare AI-related ETFs by theme, exposure, overlap, concentration and fund structure with Santro AI. See what's actually inside each fund. Not financial advice." />
+<meta property="og:url" content="https://santroai.tech/etfs" />
+<meta property="og:image" content="https://santroai.tech/assets/og-map.png" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="AI ETFs List — Compare AI, Semiconductor &amp; Robotics Funds | Santro AI" />
+<meta name="twitter:description" content="Compare AI-related ETFs by theme, exposure, overlap, concentration and fund structure with Santro AI. See what's actually inside each fund. Not financial advice." />
+<meta name="twitter:image" content="https://santroai.tech/assets/og-map.png" />
+<script>try{document.documentElement.dataset.theme=localStorage.getItem("santro-theme")||"dark";}catch(e){}</script>
+<link rel="stylesheet" href="site.css?v=14" />
+<style>
+  .keycard{background:var(--panel); border:1px solid var(--border); border-left:3px solid var(--accent);
+    border-radius:var(--radius); padding:16px 18px; margin:14px 0 8px; max-width:920px;}
+  .keycard h2{font-size:12px; text-transform:uppercase; letter-spacing:.7px; color:var(--accent-2); margin:0 0 8px;}
+  .keycard p{font-size:14px; color:var(--muted); line-height:1.65; margin:0 0 9px;}
+  .keycard p:last-child{margin-bottom:0;}
+  .keycard b{color:var(--text);}
+  .three{display:flex; flex-wrap:wrap; gap:8px; margin-top:4px;}
+  .three span{background:var(--elev); border:1px solid var(--border); border-radius:999px;
+    padding:5px 12px; font-size:12.5px; color:var(--text); font-weight:600;}
+  .jump{display:flex; flex-wrap:wrap; gap:7px; margin:16px 0 6px;}
+  .jump a{font-size:11.5px; font-weight:700; text-decoration:none; padding:6px 11px; border-radius:999px;
+    background:var(--elev); border:1px solid var(--border); color:var(--muted);}
+  .jump a:hover{border-color:var(--accent-border); color:var(--accent-2);}
+
+  .bsec{margin-top:30px; scroll-margin-top:80px;}
+  .bsec > .bhead{display:flex; align-items:baseline; gap:10px; flex-wrap:wrap; margin:0 0 4px;}
+  .bsec h2{font-size:15px; color:var(--text); margin:0; font-weight:700;}
+  .bsec .bblurb{font-size:12.5px; color:var(--faint); margin:0 0 11px; line-height:1.5;}
+
+  .etf-tbl{width:100%; border-collapse:collapse; font-size:13px; margin-top:2px;}
+  .etf-tbl th{font-size:9.5px; text-transform:uppercase; letter-spacing:.5px; color:var(--faint);
+    text-align:left; font-weight:700; padding:6px 10px; border-bottom:1px solid var(--border);}
+  .etf-tbl th.num,.etf-tbl td.num{text-align:right; white-space:nowrap;}
+  .etf-tbl td{padding:9px 10px; border-bottom:1px solid var(--border-soft); color:var(--muted); vertical-align:top;}
+  .etf-tbl tr:hover td{background:var(--elev);}
+  .etf-tbl a.tk{color:var(--accent-2); font-weight:800; text-decoration:none; font-size:13.5px; letter-spacing:.3px;}
+  .etf-tbl a.tk:hover{text-decoration:underline;}
+  .etf-tbl .nm{color:var(--text); font-weight:600;}
+  .etf-tbl .ins{color:var(--muted); display:block; margin-top:2px; font-size:12px; line-height:1.45;}
+  .rb{display:inline-block; font-size:8.5px; font-weight:800; text-transform:uppercase; letter-spacing:.4px;
+    padding:2px 6px; border-radius:5px; margin-left:6px; vertical-align:middle;}
+  .rb.trap{background:rgba(240,90,110,.16); color:#f05a6e;}
+  .rb.lev{background:rgba(224,167,63,.16); color:#e0a73f;}
+  .rb.income{background:rgba(74,222,128,.16); color:#4ade80;}
+  .rb.spec{background:rgba(224,167,63,.18); color:#e0a73f;}
+  .rb.closed{background:var(--elev); color:var(--faint);}
+  .rb.spv{background:rgba(34,197,94,.14); color:#22c55e;}
+
+  .etf-sec{margin-top:34px;}
+  .etf-sec h2{font-size:14px; text-transform:uppercase; letter-spacing:.06em; color:var(--muted); margin:0 0 10px;}
+  .etf-sec ul{margin:0; padding-left:18px; color:var(--muted); font-size:14px; line-height:1.7; max-width:900px;}
+  .etf-cta{display:flex; flex-wrap:wrap; gap:10px; margin-top:14px;}
+  .etf-cta a{display:inline-flex; align-items:center; gap:6px; padding:10px 15px; border-radius:10px;
+    font-size:13px; font-weight:700; text-decoration:none; background:var(--elev); border:1px solid var(--border); color:var(--text);}
+  .etf-cta a:hover{border-color:var(--accent-border); color:var(--accent-2);}
+  .etf-cta a.primary{background:#22c55e; color:#04140b; border-color:#22c55e;}
+  .disc{font-size:11.5px; color:var(--faint); margin-top:22px; max-width:920px; line-height:1.55;}
+  @media (max-width:720px){ .etf-tbl .hide{display:none;} }
+</style>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://santroai.tech/"},{"@type":"ListItem","position":2,"name":"AI ETFs","item":"https://santroai.tech/etfs"}]}
+</script>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"Dataset","name":"AI ETF universe","description":"A curated map of the major investable AI ETF universe, sorted into 8 buckets (pure-play AI, semiconductors, robotics, humanoids, leveraged/inverse, income/covered-call, adjacent), with issuer, theme, fee, AUM and status where available. Coverage is expanding.","url":"https://santroai.tech/etfs","isAccessibleForFree":true,"license":"https://santroai.tech/terms","creator":{"@type":"Organization","name":"Santro AI","url":"https://santroai.tech"},"keywords":["AI ETFs","semiconductor ETFs","robotics ETFs","AI funds","thematic ETFs"]}
+</script>
+<style>
+.sa-crumb{max-width:920px;margin:14px auto 0;padding:0 20px;font-size:13px;color:var(--faint,#6b7684);}
+.sa-crumb a{color:var(--muted,#9aa6b2);text-decoration:none;} .sa-crumb a:hover{color:var(--accent,#22c55e);}
+.sa-grow{max-width:920px;margin:20px auto 0;padding:24px 20px 8px;border-top:1px solid var(--border-soft,#1c2230);display:grid;grid-template-columns:1fr 1fr;gap:14px 28px;}
+@media(max-width:680px){.sa-grow{grid-template-columns:1fr;}}
+.sa-grow h3{font-size:14px;margin:0 0 8px;color:var(--text,#e6edf3);letter-spacing:.02em;}
+.sa-grow ul{margin:0;padding-left:18px;} .sa-grow li{color:var(--muted,#9aa6b2);font-size:14.5px;line-height:1.7;margin-bottom:3px;} .sa-grow a{color:var(--accent,#22c55e);}
+.sa-cta-box{grid-column:1/-1;margin-top:8px;padding:18px 20px;border:1px solid rgba(34,197,94,.28);border-radius:12px;background:rgba(34,197,94,.06);}
+.sa-cta-box b{color:var(--text,#e6edf3);font-size:15.5px;} .sa-cta-box p{color:var(--muted,#9aa6b2);font-size:14px;margin:6px 0 12px;line-height:1.6;}
+.sa-cta-box .sa-cta-btn{display:inline-block;background:var(--accent,#22c55e);color:#fff;padding:9px 17px;border-radius:8px;font-weight:600;font-size:14px;text-decoration:none;}
+.sa-tickers{max-width:920px;margin:6px auto 0;padding:0 20px;font-size:13.5px;color:var(--faint,#6b7684);} .sa-tickers a{color:var(--accent,#22c55e);}
+</style>
+</head>
+<body>
+  <!-- meganav v9 — generated by gen_nav.py; edit NAV there, not here -->
+<link rel="stylesheet" href="/ds-v2/tokens.css?v=3">
+<link rel="stylesheet" href="/ds-v2/primitives.css?v=1">
+<link rel="stylesheet" href="/ds-v2/shell.css?v=1">
+<link rel="stylesheet" href="/ds-v2/remap.css?v=1">
+<link rel="stylesheet" href="/ds-v2/lock.css?v=1">
+<script src="/ds-v2/compliance.js?v=1" defer></script>
+<script src="/ds-v2/gates.js?v=1" defer></script>
+<script src="/ds-v2/lock-copy.js?v=2" defer></script>
+<script src="/ds-v2/events.js?v=1" defer></script>
+<script src="/ds-v2/locks.js?v=2" defer></script>
+<script src="/ds-v2/flags.js?v=5"></script>
+<header class="meganav" id="meganav">
+<style>
+/* santro brand tokens — green is the identity color. Blue is NOT a Santro
+   UI color anywhere (2026-07-08 rule) — never reintroduce it. */
+header.meganav{--sg:#22c55e;--sg-hi:#4ade80;--sg-deep:#15803d;
+  --sg-soft:rgba(34,197,94,.12);--sg-border:rgba(34,197,94,.45);
+  --ramber:#d9a13c;--ramber-border:rgba(217,161,60,.45);}
+header.meganav{display:block;position:relative;z-index:60;background:var(--panel-2,#0c121a);border-bottom:1px solid var(--border,#1d2733);font-family:var(--font-sans, -apple-system,BlinkMacSystemFont,"Inter","Segoe UI",Roboto,Helvetica,Arial,sans-serif);text-align:left;}
+.meganav *{box-sizing:border-box;}
+.meganav .mn-in{max-width:1680px;margin:0 auto;padding:0 clamp(16px,2vw,40px);display:flex;align-items:center;gap:18px;height:56px;}
+.meganav a{text-decoration:none;}
+.meganav .mn-logo{display:flex;align-items:center;gap:8px;flex:0 0 auto;}
+.meganav .mn-ls{font-weight:900;font-size:24px;line-height:.9;
+  background:linear-gradient(165deg,var(--sg-hi) 10%,var(--sg-deep) 90%);
+  -webkit-background-clip:text;background-clip:text;color:transparent;}
+html[data-theme="light"] .meganav .mn-ls{background:linear-gradient(165deg,#16a34a 10%,#14532d 90%);-webkit-background-clip:text;background-clip:text;}
+.meganav .mn-lr{display:flex;flex-direction:column;line-height:1.1;}
+.meganav .mn-lr b{font-weight:800;font-size:14.5px;letter-spacing:.02em;color:var(--text,#e7edf3);}
+.meganav .mn-lr i{font-style:normal;font-size:7.5px;letter-spacing:1.4px;color:var(--faint,#5a6573);font-weight:700;}
+.meganav .mn-beta{font-style:normal;font-size:9px;font-weight:800;letter-spacing:.8px;color:var(--ramber);border:1px solid var(--ramber-border);border-radius:5px;padding:2px 5px;margin-left:2px;}
+.meganav .mn-nav{display:flex;align-items:center;gap:2px;flex:1 1 auto;min-width:0;}
+.meganav .mn-top{appearance:none;background:none;border:0;font:inherit;cursor:pointer;padding:19px 11px;font-size:13.5px;font-weight:600;color:var(--muted,#8895a4);letter-spacing:.2px;border-bottom:2px solid transparent;white-space:nowrap;}
+.meganav .mn-item:hover>.mn-top,.meganav .mn-item.open>.mn-top{color:var(--text,#e7edf3);}
+.meganav .mn-item.on>.mn-top{color:var(--text,#e7edf3);border-bottom-color:var(--sg);}
+.meganav .mn-item{position:static;}
+.meganav .mn-panel{display:none;position:absolute;left:0;right:0;top:56px;background:var(--panel,#111822);border-bottom:1px solid var(--border,#1d2733);box-shadow:0 18px 40px rgba(0,0,0,.45);padding:20px 0 22px;}
+.meganav .mn-item.open>.mn-panel{display:block;}
+@media(hover:hover) and (min-width:1021px){.meganav .mn-item:hover>.mn-panel{display:block;}}
+.meganav .mn-pin{max-width:1680px;margin:0 auto;padding:0 clamp(16px,2vw,40px);}
+.meganav .mn-desc{margin:0 0 14px;font-size:12px;color:var(--faint,#5a6573);font-weight:500;max-width:640px;}
+.meganav .mn-links{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:4px 26px;}
+.meganav .mn-links.mn-w2{grid-template-columns:repeat(2,minmax(0,1fr));max-width:640px;}
+.meganav .mn-link{display:block;padding:9px 10px;border-radius:9px;}
+.meganav .mn-link:hover{background:var(--elev,#16202b);}
+.meganav .mn-link b{display:block;font-size:13.5px;font-weight:700;color:var(--text,#e7edf3);}
+.meganav .mn-link span{display:block;margin-top:2px;font-size:12px;line-height:1.45;color:var(--muted,#8895a4);font-weight:400;}
+.meganav .mn-off{display:block;padding:9px 10px;font-size:13.5px;font-weight:700;color:var(--faint,#5a6573);}
+.meganav .mn-b{font-style:normal;font-size:9.5px;font-weight:800;letter-spacing:.6px;text-transform:uppercase;border-radius:5px;padding:1.5px 6px;margin-left:7px;vertical-align:2px;}
+.meganav .mn-b-live{color:var(--green,#22c55e);border:1px solid rgba(34,197,94,.35);}
+.meganav .mn-b-acct{color:#d9a13c;border:1px solid rgba(217,161,60,.4);}
+.meganav .mn-b-soon{color:var(--faint,#5a6573);border:1px dashed var(--border,#1d2733);}
+.meganav .mn-right{display:flex;align-items:center;gap:10px;flex:0 0 auto;margin-left:auto;}
+.meganav .mn-search{position:relative;}
+.meganav .mn-search .box{display:flex;align-items:center;gap:7px;background:var(--elev,#16202b);border:1px solid var(--border,#1d2733);border-radius:9px;padding:6px 10px;color:var(--faint,#5a6573);}
+.meganav .mn-search input{background:none;border:0;outline:0;color:var(--text,#e7edf3);font:inherit;font-size:13px;width:clamp(140px,14vw,220px);}
+.meganav .mn-search .kbd{font-size:10px;border:1px solid var(--border,#1d2733);border-radius:4px;padding:0 5px;color:var(--faint,#5a6573);}
+.meganav .mn-search .drop{position:absolute;right:0;top:40px;width:330px;max-width:calc(100vw - 24px);background:var(--panel,#111822);border:1px solid var(--border,#1d2733);border-radius:11px;box-shadow:0 16px 34px rgba(0,0,0,.5);overflow:hidden;z-index:70;}
+.meganav .mn-search .sg{display:flex;align-items:center;gap:9px;padding:8px 11px;cursor:pointer;font-size:13px;}
+.meganav .mn-search .sg.active,.meganav .mn-search .sg:hover{background:var(--elev,#16202b);}
+.meganav .mn-search .sg img{width:18px;height:18px;border-radius:4px;}
+.meganav .mn-search .sg .tk{font-weight:800;color:var(--text,#e7edf3);min-width:52px;}
+.meganav .mn-search .sg .nm{color:var(--muted,#8895a4);flex:1;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
+.meganav .mn-search .sg .pc{font-weight:700;font-variant-numeric:tabular-nums;}
+.meganav .mn-search .sg .pc.up{color:var(--green,#22c55e);}.meganav .mn-search .sg .pc.down{color:var(--red,#f05a6e);}
+.meganav .mn-asof{display:none;}
+.meganav .mn-theme{appearance:none;background:var(--elev,#16202b);border:1px solid var(--border,#1d2733);border-radius:9px;width:34px;height:34px;display:flex;align-items:center;justify-content:center;cursor:pointer;color:var(--muted,#8895a4);}
+.meganav .mn-theme:hover{color:var(--text,#e7edf3);border-color:var(--accent-border,#1e4634);}
+.meganav .mn-theme .ic-sun{display:none;}
+html[data-theme="light"] .meganav .mn-theme .ic-sun{display:block;}
+html[data-theme="light"] .meganav .mn-theme .ic-moon{display:none;}
+.meganav .mn-signin{font-size:13px;font-weight:700;color:var(--muted,#8895a4);padding:7px 4px;}
+.meganav .mn-signin:hover{color:var(--text,#e7edf3);}
+.meganav .mn-signup{font-size:13px;font-weight:700;color:var(--sg);background:var(--sg-soft);border:1px solid var(--sg-border);border-radius:9px;padding:7px 13px;white-space:nowrap;}
+.meganav .mn-signup:hover{background:var(--sg);color:#04140b;}
+.meganav .mn-burger{appearance:none;background:none;border:1px solid var(--border,#1d2733);border-radius:9px;width:38px;height:36px;display:none;align-items:center;justify-content:center;cursor:pointer;color:var(--text,#e7edf3);}
+.meganav :is(a,button):focus-visible{outline:2px solid var(--sg);outline-offset:2px;border-radius:6px;}
+.meganav .mn-search .box:focus-within{border-color:var(--sg-border);}
+/* drawer */
+.meganav .mn-drawer{display:none;position:fixed;inset:0;z-index:80;background:var(--bg,#0a0e13);overflow-y:auto;padding:0 16px 28px;}
+.meganav .mn-drawer.open{display:block;}
+.meganav .mnd-head{display:flex;align-items:center;justify-content:space-between;height:56px;margin-bottom:6px;}
+.meganav .mnd-close{appearance:none;background:none;border:1px solid var(--border,#1d2733);border-radius:9px;width:38px;height:36px;font-size:17px;color:var(--text,#e7edf3);cursor:pointer;}
+.meganav .mnd-quick{display:grid;grid-template-columns:1fr 1fr;gap:9px;margin-bottom:14px;}
+.meganav .mnd-quick a{display:block;text-align:center;padding:11px 8px;border:1px solid var(--border,#1d2733);border-radius:10px;font-size:13.5px;font-weight:700;color:var(--text,#e7edf3);background:var(--panel,#111822);}
+.meganav details.mnd-sec{border-bottom:1px solid var(--border-soft,#161e28);}
+.meganav details.mnd-sec summary{list-style:none;display:flex;justify-content:space-between;align-items:center;padding:14px 2px;font-size:12px;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:var(--muted,#8895a4);cursor:pointer;}
+.meganav details.mnd-sec summary::-webkit-details-marker{display:none;}
+.meganav details.mnd-sec summary::after{content:"+";font-size:16px;color:var(--faint,#5a6573);}
+.meganav details.mnd-sec[open] summary::after{content:"\2212";}
+.meganav .mnd-sec a{display:block;padding:9px 2px 9px 10px;font-size:14px;font-weight:600;color:var(--muted,#8895a4);}
+.meganav .mnd-sec a:active,.meganav .mnd-sec a:hover{color:var(--text,#e7edf3);}
+.meganav .mnd-sec .mn-off{padding:9px 2px 9px 10px;font-size:14px;}
+.meganav .mnd-cta{display:grid;grid-template-columns:1fr 1fr;gap:9px;margin:18px 0 10px;}
+.meganav .mnd-cta a{display:block;text-align:center;padding:12px 8px;border-radius:10px;font-size:14px;font-weight:700;}
+.meganav .mnd-cta .a1{background:var(--sg-soft);border:1px solid var(--sg-border);color:var(--sg);}
+.meganav .mnd-cta .a2{border:1px solid var(--border,#1d2733);color:var(--text,#e7edf3);}
+.meganav .mnd-foot{font-size:11px;color:var(--faint,#5a6573);line-height:1.6;margin-top:6px;}
+.meganav .mn-search--drawer{display:none;margin:0 0 14px;}
+.meganav .mn-search--drawer .box{width:100%;}
+.meganav .mn-search--drawer input{width:100%;}
+@media(max-width:1023px){.meganav .mn-drawer.open .mn-search--drawer{display:block;}}
+.meganav .mnd-theme{appearance:none;width:100%;margin:10px 0 0;padding:12px;border:1px solid var(--border,#1d2733);border-radius:10px;background:var(--panel,#111822);color:var(--muted,#8895a4);font:600 13.5px -apple-system,BlinkMacSystemFont,"Inter","Segoe UI",Roboto,sans-serif;cursor:pointer;}
+.meganav .mnd-theme:hover{color:var(--text,#e7edf3);}
+/* nav collapse ladder: >=1366 shows all six groups; 1024-1365 folds
+   Market Maps + Company into More (they stay in the drawer + footer) */
+.meganav .mn-moreitem{display:none;}
+@media(max-width:1365px){
+  .meganav .mn-collapsible{display:none;}
+  .meganav .mn-moreitem{display:block;}
+}
+@media(max-width:1279px){
+  .meganav .mn-beta{display:none;}
+  .meganav .mn-top{padding:19px 9px;font-size:13px;}
+  .meganav .mn-in{gap:12px;}
+  /* search collapses to an icon button; nav.js expands it on demand */
+  .meganav .mn-search:not(.open) input,
+  .meganav .mn-search:not(.open) .kbd{display:none;}
+  .meganav .mn-search:not(.open) .box{width:34px;height:34px;justify-content:center;padding:0;cursor:pointer;}
+  .meganav .mn-search.open input{width:150px;}
+}
+@media(max-width:1023px){
+  .meganav .mn-nav{display:none;}
+  .meganav .mn-burger{display:flex;}
+  .meganav .mn-signin{display:none;}
+  .meganav .mn-search{display:none;}
+  .meganav .mn-theme{display:none;}
+  .meganav #reload{display:none;}
+}
+@media(max-width:760px){
+  .meganav .mn-asof{display:none;}
+  .meganav .mn-signup{display:none;}
+  /* signed-out auth buttons (incl. accounts.js-rendered) live in the drawer
+     on small screens; only the logged-in account chip stays in the bar */
+  .meganav #santro-auth-slot #sa-signin,.meganav #santro-auth-slot .sa-signupbtn{display:none;}
+  .meganav .mn-search input{width:64px;}
+  .meganav .mn-search .kbd{display:none;}
+  .meganav .mn-in{gap:8px;padding:0 12px;}
+  .meganav .mn-right{gap:7px;}
+}
+@media(max-width:479px){
+  /* compact logo for ALL phone widths — the old 389px cutoff missed 390px
+     (iPhone 12-15) by one pixel and the right cluster overflowed the page */
+  .meganav .mn-beta{display:none;}
+  .meganav .mn-lr i{display:none;}
+  .meganav .mn-search input{width:52px;}
+}
+</style>
+<div class="mn-in">
+  <a class="mn-logo" href="/" aria-label="Santro AI — home">
+    <span class="mn-ls">S</span>
+    <span class="mn-lr"><b>Santro&nbsp;AI</b><i>THE&nbsp;AI&nbsp;TRADE&nbsp;TERMINAL</i></span>
+    <em class="mn-beta">Beta</em>
+  </a>
+  <nav class="mn-nav" aria-label="Main">
+    <div class="mn-item on" data-menu="terminal">
+      <button class="mn-top" type="button" aria-expanded="false" aria-haspopup="true">Terminal</button>
+      <div class="mn-panel"><div class="mn-pin"><p class="mn-desc">The main Santro market view across AI stocks, ETFs, crypto, hot tickers, and bubble-risk signals.</p><div class="mn-links">
+        <a class="mn-link" href="/terminal"><b>AI Terminal<em class="mn-b mn-b-live">Beta</em></b><span>Bubble map, market tape, hot tickers, and the daily brief.</span></a>
+        <a class="mn-link" href="/stocks"><b>AI Stocks</b><span>101 AI names ranked by heat, research on every ticker.</span></a>
+        <a class="mn-link" href="/crypto"><b>AI Crypto</b><span>AI tokens and rotating crypto baskets.</span></a>
+        <a class="mn-link" href="/etfs"><b>AI ETFs</b><span>40 AI &amp; tech ETFs, broad tech to pure-play robotics.</span></a>
+        <a class="mn-link" href="/news"><b>Market News</b><span>Headlines that move the AI trade.</span></a>
+      </div></div></div>
+    </div><div class="mn-item" data-menu="tools">
+      <button class="mn-top" type="button" aria-expanded="false" aria-haspopup="true">Tools</button>
+      <div class="mn-panel"><div class="mn-pin"><p class="mn-desc">Every tool is free while Santro is in beta. Scenario outputs, not price targets.</p><div class="mn-links">
+        <a class="mn-link" href="/bubble"><b>AI Bubble Risk<em class="mn-b mn-b-live">Beta</em></b><span>Valuation, momentum, and crowding signals in one gauge.</span></a>
+        <a class="mn-link" href="/bubble#stress"><b>Portfolio Stress Test<em class="mn-b mn-b-live">Beta</em></b><span>Six historical crash scenarios against your portfolio.</span></a>
+        <a class="mn-link" href="/tools/fair-value-calculator"><b>Fair-Value Calculator<em class="mn-b mn-b-live">Beta</em></b><span>DCF, P/E, Graham, and PEG scenario values for any AI ticker.</span></a>
+        <a class="mn-link" href="/quiz"><b>Exposure Check<em class="mn-b mn-b-acct">Account</em></b><span>Calibrate your terminal — universe, concentration, valuation lens, risk watch.</span></a>
+        <a class="mn-link" href="/share"><b>Share Cards<em class="mn-b mn-b-live">Beta</em></b><span>Terminal-grade market cards you can post anywhere.</span></a>
+        <a class="mn-link" href="/evaluate-prompt"><b>Prompt Quality Check<em class="mn-b mn-b-live">Beta</em></b><span>Score any AI trading prompt before you trust it.</span></a>
+        <a class="mn-link" href="/signup"><b>Watchlists &amp; Alerts<em class="mn-b mn-b-acct">Account</em></b><span>Track tickers and get level alerts with a free account.</span></a>
+      </div></div></div>
+    </div><div class="mn-item" data-menu="research">
+      <button class="mn-top" type="button" aria-expanded="false" aria-haspopup="true">Research</button>
+      <div class="mn-panel"><div class="mn-pin"><p class="mn-desc">Filing-verified research. Tweets are leads; filings are sources.</p><div class="mn-links">
+        <a class="mn-link" href="/research"><b>Research Feed</b><span>Curated notes on the AI trade, updated through the day.</span></a>
+        <a class="mn-link" href="/blog"><b>Blog</b><span>Long-form pieces on bubbles, valuation, and AI credit.</span></a>
+        <a class="mn-link" href="/blog/ai-bubble-valuation-history"><b>AI Bubble or Market Reset?</b><span>The flagship read: CAPE, real-terms history, dot-com lessons.</span></a>
+        <a class="mn-link" href="/ipos"><b>IPO Watch</b><span>From pre-filing to priced — 10 AI names, filings verified on EDGAR where public.</span></a>
+        <a class="mn-link" href="/investor-signals"><b>Investor Signal Library<em class="mn-b mn-b-live">Beta</em></b><span>Publicly disclosed positioning, mapped to AI market context.</span></a>
+        <a class="mn-link" href="/stocks/aschenbrenner"><b>Aschenbrenner Basket</b><span>Situational Awareness LP&#x27;s 13F, position by position.</span></a>
+        <a class="mn-link" href="/stocks/burry-short-watch"><b>Burry Short Watch</b><span>Scion&#x27;s disclosed AI puts, verified in filings.</span></a>
+      </div></div></div>
+    </div><div class="mn-item" data-menu="universe">
+      <button class="mn-top" type="button" aria-expanded="false" aria-haspopup="true">AI Universe</button>
+      <div class="mn-panel"><div class="mn-pin"><p class="mn-desc">101 tickers across 8 themes. Hot means attention, not direction.</p><div class="mn-links">
+        <a class="mn-link" href="/stocks"><b>All AI Stocks</b><span>The full universe, ranked by heat.</span></a>
+        <a class="mn-link" href="/stocks/themes/ai-chips-and-compute"><b>AI Chips &amp; Compute</b><span>NVDA, AMD, AVGO and the accelerator complex.</span></a>
+        <a class="mn-link" href="/stocks/themes/ai-software-and-cloud-infrastructure"><b>AI Software &amp; Cloud</b><span>Hyperscalers and the model platforms.</span></a>
+        <a class="mn-link" href="/stocks/themes/powering-ai"><b>Powering AI</b><span>Nuclear, turbines, uranium &amp; the grid behind AI.</span></a>
+        <a class="mn-link" href="/stocks/themes/data-center-power-and-energy"><b>Data-Center Power &amp; Energy</b><span>The electrons behind the GPUs.</span></a>
+        <a class="mn-link" href="/stocks/themes/chip-equipment-and-ai-hardware"><b>Chip Equipment &amp; AI Hardware</b><span>ASML, memory, and the fab supply chain.</span></a>
+        <a class="mn-link" href="/stocks/themes/ai-platforms-internet-and-adtech"><b>AI Platforms &amp; Adtech</b><span>Internet platforms monetizing AI.</span></a>
+        <a class="mn-link" href="/stocks/themes/ai-applications-and-data-software"><b>AI Apps &amp; Data Software</b><span>Applied AI and the data layer.</span></a>
+        <a class="mn-link" href="/stocks/themes/applied-ai-industrial-defense-and-vertical"><b>Applied AI, Industrial &amp; Defense</b><span>Robotics, defense, and vertical AI.</span></a>
+      </div></div></div>
+    </div><div class="mn-item mn-collapsible" data-menu="maps">
+      <button class="mn-top" type="button" aria-expanded="false" aria-haspopup="true">Market Maps</button>
+      <div class="mn-panel"><div class="mn-pin"><p class="mn-desc">Visual entry points into the same delayed data.</p><div class="mn-links mn-w2">
+        <a class="mn-link" href="/terminal"><b>Stock Bubble Map</b><span>101 bubbles sized by the day&#x27;s move, colored by direction.</span></a>
+        <a class="mn-link" href="/crypto"><b>Crypto Movers</b><span>AI tokens ranked by momentum.</span></a>
+        <a class="mn-link" href="/etfs"><b>ETF Map</b><span>Overlap-aware list of the AI ETF complex.</span></a>
+        <a class="mn-link" href="/bubble"><b>Bubble-Risk Gauge</b><span>One dial for the whole AI trade.</span></a>
+        <a class="mn-link" href="/ipos"><b>IPO Pipeline</b><span>Who is filing, who is rumored, who is priced.</span></a>
+      </div></div></div>
+    </div><div class="mn-item mn-collapsible" data-menu="company">
+      <button class="mn-top" type="button" aria-expanded="false" aria-haspopup="true">Company</button>
+      <div class="mn-panel"><div class="mn-pin"><div class="mn-links mn-w2">
+        <a href="/about">About Santro AI</a>
+        <a href="mailto:hello@santroai.tech">Contact</a>
+        <a href="/privacy">Privacy Policy</a>
+        <a href="/terms">Terms of Use</a>
+        <a href="https://x.com/SantroAI" target="_blank" rel="noopener">@SantroAI on X</a>
+        <span class="mn-off">iOS app<em class="mn-b mn-b-soon">Coming soon</em></span>
+        <span class="mn-off">Santro Pro<em class="mn-b mn-b-soon">Coming soon</em></span>
+      </div></div></div>
+    </div><div class="mn-item mn-moreitem" data-menu="more">
+      <button class="mn-top" type="button" aria-expanded="false" aria-haspopup="true">More</button>
+      <div class="mn-panel"><div class="mn-pin"><p class="mn-desc">Maps, company and legal.</p><div class="mn-links">
+        <a class="mn-link" href="/terminal"><b>Stock Bubble Map</b><span>101 bubbles sized by the day&#x27;s move, colored by direction.</span></a>
+        <a class="mn-link" href="/crypto"><b>Crypto Movers</b><span>AI tokens ranked by momentum.</span></a>
+        <a class="mn-link" href="/etfs"><b>ETF Map</b><span>Overlap-aware list of the AI ETF complex.</span></a>
+        <a class="mn-link" href="/bubble"><b>Bubble-Risk Gauge</b><span>One dial for the whole AI trade.</span></a>
+        <a class="mn-link" href="/ipos"><b>IPO Pipeline</b><span>Who is filing, who is rumored, who is priced.</span></a>
+        <a href="/about">About Santro AI</a>
+        <a href="mailto:hello@santroai.tech">Contact</a>
+        <a href="/privacy">Privacy Policy</a>
+        <a href="/terms">Terms of Use</a>
+        <a href="https://x.com/SantroAI" target="_blank" rel="noopener">@SantroAI on X</a>
+        <span class="mn-off">iOS app<em class="mn-b mn-b-soon">Coming soon</em></span>
+        <span class="mn-off">Santro Pro<em class="mn-b mn-b-soon">Coming soon</em></span>
+      </div></div></div>
+    </div>
+  </nav>
+  <div class="mn-right">
+    <div class="mn-search"></div>
+    <span class="mn-asof"></span>
+    <button class="mn-theme" title="Switch day / night mode" aria-label="Toggle day or night mode"><svg class="ic-moon" viewBox="0 0 24 24" width="15" height="15" fill="currentColor" aria-hidden="true"><path d="M20 14.5A8.5 8.5 0 0 1 9.5 4 8.5 8.5 0 1 0 20 14.5Z"/></svg><svg class="ic-sun" viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true"><circle cx="12" cy="12" r="4.1"/><path d="M12 2.6v2.1M12 19.3v2.1M2.6 12h2.1M19.3 12h2.1M5.2 5.2l1.5 1.5M17.3 17.3l1.5 1.5M18.8 5.2l-1.5 1.5M6.7 17.3l-1.5 1.5"/></svg></button>
+    <span id="santro-auth-slot"><a class="mn-signin" href="/signin">Sign in</a><a class="mn-signup" href="/signup">Sign up</a></span>
+    <button class="mn-burger" type="button" aria-label="Open menu" aria-expanded="false" aria-controls="mn-drawer"><svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="M3 6h18M3 12h18M3 18h18"/></svg></button>
+  </div>
+</div>
+<div class="mn-drawer" id="mn-drawer" role="dialog" aria-label="Menu" aria-modal="true">
+  <div class="mnd-head">
+    <span class="mn-ls">S</span>
+    <button class="mnd-close" type="button" aria-label="Close menu">✕</button>
+  </div>
+  <div class="mn-search mn-search--drawer"></div>
+  <div class="mnd-quick">
+    <a href="/terminal">AI Terminal</a><a href="/stocks">AI Stocks</a>
+    <a href="/crypto">AI Crypto</a><a href="/etfs">AI ETFs</a>
+  </div>
+  <details class="mnd-sec"><summary>Terminal</summary>
+      <a href="/terminal">AI Terminal<em class="mn-b mn-b-live">Beta</em></a>
+        <a href="/stocks">AI Stocks</a>
+        <a href="/crypto">AI Crypto</a>
+        <a href="/etfs">AI ETFs</a>
+        <a href="/news">Market News</a>
+    </details><details class="mnd-sec"><summary>Tools</summary>
+      <a href="/bubble">AI Bubble Risk<em class="mn-b mn-b-live">Beta</em></a>
+        <a href="/bubble#stress">Portfolio Stress Test<em class="mn-b mn-b-live">Beta</em></a>
+        <a href="/tools/fair-value-calculator">Fair-Value Calculator<em class="mn-b mn-b-live">Beta</em></a>
+        <a href="/quiz">Exposure Check<em class="mn-b mn-b-acct">Account</em></a>
+        <a href="/share">Share Cards<em class="mn-b mn-b-live">Beta</em></a>
+        <a href="/evaluate-prompt">Prompt Quality Check<em class="mn-b mn-b-live">Beta</em></a>
+        <a href="/signup">Watchlists &amp; Alerts<em class="mn-b mn-b-acct">Account</em></a>
+    </details><details class="mnd-sec"><summary>Research</summary>
+      <a href="/research">Research Feed</a>
+        <a href="/blog">Blog</a>
+        <a href="/blog/ai-bubble-valuation-history">AI Bubble or Market Reset?</a>
+        <a href="/ipos">IPO Watch</a>
+        <a href="/investor-signals">Investor Signal Library<em class="mn-b mn-b-live">Beta</em></a>
+        <a href="/stocks/aschenbrenner">Aschenbrenner Basket</a>
+        <a href="/stocks/burry-short-watch">Burry Short Watch</a>
+    </details><details class="mnd-sec"><summary>AI Universe</summary>
+      <a href="/stocks">All AI Stocks</a>
+        <a href="/stocks/themes/ai-chips-and-compute">AI Chips &amp; Compute</a>
+        <a href="/stocks/themes/ai-software-and-cloud-infrastructure">AI Software &amp; Cloud</a>
+        <a href="/stocks/themes/powering-ai">Powering AI</a>
+        <a href="/stocks/themes/data-center-power-and-energy">Data-Center Power &amp; Energy</a>
+        <a href="/stocks/themes/chip-equipment-and-ai-hardware">Chip Equipment &amp; AI Hardware</a>
+        <a href="/stocks/themes/ai-platforms-internet-and-adtech">AI Platforms &amp; Adtech</a>
+        <a href="/stocks/themes/ai-applications-and-data-software">AI Apps &amp; Data Software</a>
+        <a href="/stocks/themes/applied-ai-industrial-defense-and-vertical">Applied AI, Industrial &amp; Defense</a>
+    </details><details class="mnd-sec"><summary>Market Maps</summary>
+      <a href="/terminal">Stock Bubble Map</a>
+        <a href="/crypto">Crypto Movers</a>
+        <a href="/etfs">ETF Map</a>
+        <a href="/bubble">Bubble-Risk Gauge</a>
+        <a href="/ipos">IPO Pipeline</a>
+    </details><details class="mnd-sec"><summary>Company</summary>
+      <a href="/about">About Santro AI</a>
+        <a href="mailto:hello@santroai.tech">Contact</a>
+        <a href="/privacy">Privacy Policy</a>
+        <a href="/terms">Terms of Use</a>
+        <a href="https://x.com/SantroAI" target="_blank" rel="noopener">@SantroAI on X</a>
+        <span class="mn-off">iOS app<em class="mn-b mn-b-soon">Coming soon</em></span>
+        <span class="mn-off">Santro Pro<em class="mn-b mn-b-soon">Coming soon</em></span>
+    </details>
+  <div class="mnd-cta">
+    <a class="a1" href="/signup">Create free account</a>
+    <a class="a2" href="/signin">Sign in</a>
+  </div>
+  <button class="mnd-theme" type="button">Switch day / night mode</button>
+  <p class="mnd-foot">Hot means attention, not direction.<br>Quotes delayed ~15 min. Real-time data planned for Pro. Not financial advice.</p>
+</div>
+<script src="/nav.js?v=9" defer></script>
+</header>
+
+  <main>
+  <nav class="sa-crumb" aria-label="Breadcrumb"><a href="/">Home</a> › AI ETFs</nav>
+    <h1>AI ETFs <span class="badge" id="count">41 funds · 8 buckets</span></h1>
+    <p class="lede">Every investable AI ETF, sorted into eight buckets so nothing hides — what's
+    actually inside each fund, the fee, and the size. Tap any ticker for its own page. Figures
+    are point-in-time (June 2026) and move with price; not financial advice.</p>
+
+    <div class="keycard">
+      <h2>Read this first — it's the whole game</h2>
+      <p>There are really only ~15 distinct companies inside this entire list (Nvidia, Broadcom, AMD,
+      TSMC, Micron, Samsung, SK Hynix, Alphabet, Microsoft, Meta, Tesla, Palantir…). Every fund below
+      is a different <b>recipe using the same pantry</b>. Don't let 40 tickers fool you into thinking
+      there are 40 ideas.</p>
+      <p>So your real decisions are only three:</p>
+      <div class="three"><span>1 · How concentrated?</span><span>2 · How much you pay?</span><span>3 · US-only or global?</span></div>
+      <p style="margin-top:12px">Proof — tap any fund for its <b>weighted holdings</b>: the same six names
+      (<b>Nvidia, AMD, Micron, Broadcom, TSMC, SK Hynix</b>) are the engine of almost every “different” fund.
+      What changes is how concentrated and how foreign — <b>SMH</b> packs 71% into its top 10 (Nvidia alone 14.5%),
+      while <b>KOID</b> spreads to just 27% and goes heavily Asian. That spread is the real menu.</p>
+    </div>
+
+    <nav class="jump" id="jump"><a href="#pure">Pure-play AI <span style="opacity:.6">11</span></a><a href="#trap">The “AI-washing” trap <span style="opacity:.6">3</span></a><a href="#semis">Semiconductors / AI chips <span style="opacity:.6">6</span></a><a href="#robotics">Robotics &amp; automation <span style="opacity:.6">5</span></a><a href="#humanoid">Humanoids / physical AI <span style="opacity:.6">2</span></a><a href="#leveraged">Leveraged &amp; inverse <span style="opacity:.6">5</span></a><a href="#income">AI income / covered-call <span style="opacity:.6">4</span></a><a href="#adjacent">Adjacent / broad <span style="opacity:.6">5</span></a></nav>
+
+    <div id="buckets"><section class="bsec" id="pure">
+      <div class="bhead"><h2>Pure-play AI</h2></div>
+      <p class="bblurb">The “only AI” thematic core.</p>
+      <table class="etf-tbl">
+        <thead><tr><th>Ticker</th><th>Fund · what's inside</th>
+          <th class="num hide">AUM</th><th class="num hide">Fee</th><th class="num hide">Holds</th>
+          <th class="num hide">Top 10</th></tr></thead>
+        <tbody><tr>
+    <td><a class="tk" href="/etfs/bai">BAI</a></td>
+    <td><span class="nm">iShares A.I. Innovation &amp; Tech Active</span><span class="ins">Nvidia, Broadcom, TSMC</span></td>
+    <td class="num hide">~$16.3B</td>
+    <td class="num hide">0.55%</td>
+    <td class="num hide">concentrated</td>
+    <td class="num hide">—</td></tr><tr>
+    <td><a class="tk" href="/etfs/aiq">AIQ</a></td>
+    <td><span class="nm">Global X Artificial Intelligence &amp; Technology</span><span class="ins">SK Hynix, Micron, Samsung, AMD, Intel</span></td>
+    <td class="num hide">~$6.8B</td>
+    <td class="num hide">0.68%</td>
+    <td class="num hide">~92</td>
+    <td class="num hide">—</td></tr><tr>
+    <td><a class="tk" href="/etfs/arty">ARTY</a></td>
+    <td><span class="nm">iShares Future AI &amp; Tech</span><span class="ins">Global AI infrastructure, software &amp; services</span></td>
+    <td class="num hide">~$3.75B</td>
+    <td class="num hide">~0.47%</td>
+    <td class="num hide">~65</td>
+    <td class="num hide">—</td></tr><tr>
+    <td><a class="tk" href="/etfs/chat">CHAT</a></td>
+    <td><span class="nm">Roundhill Generative AI &amp; Technology</span><span class="ins">Alphabet, Nvidia — generative-AI focus</span></td>
+    <td class="num hide">~$1.4B</td>
+    <td class="num hide">0.75%</td>
+    <td class="num hide">44</td>
+    <td class="num hide">—</td></tr><tr>
+    <td><a class="tk" href="/etfs/igpt">IGPT</a></td>
+    <td><span class="nm">Invesco AI &amp; Next Gen Software</span><span class="ins">Micron, Meta, AMD</span></td>
+    <td class="num hide">~$1.1B</td>
+    <td class="num hide">0.56%</td>
+    <td class="num hide">—</td>
+    <td class="num hide">—</td></tr><tr>
+    <td><a class="tk" href="/etfs/agix">AGIX</a><span class="rb spv">pre-IPO</span></td>
+    <td><span class="nm">KraneShares Public &amp; Private AI &amp; Tech</span><span class="ins">Nvidia, Alphabet + private Anthropic (1.7%) &amp; SpaceX (2.6%)</span></td>
+    <td class="num hide">~$1.0B</td>
+    <td class="num hide">0.99%</td>
+    <td class="num hide">—</td>
+    <td class="num hide">—</td></tr><tr>
+    <td><a class="tk" href="/etfs/ives">IVES</a></td>
+    <td><span class="nm">Dan Ives Wedbush AI Revolution</span><span class="ins">Strict 50%+-revenue-from-AI screen</span></td>
+    <td class="num hide">~$950M</td>
+    <td class="num hide">~0.75%</td>
+    <td class="num hide">32</td>
+    <td class="num hide">—</td></tr><tr>
+    <td><a class="tk" href="/etfs/wtai">WTAI</a></td>
+    <td><span class="nm">WisdomTree Artificial Intelligence &amp; Innovation</span><span class="ins">Micron, Samsung, Nvidia, Kioxia, Amazon</span></td>
+    <td class="num hide">~$548M</td>
+    <td class="num hide">0.45%</td>
+    <td class="num hide">—</td>
+    <td class="num hide">—</td></tr><tr>
+    <td><a class="tk" href="/etfs/thnq">THNQ</a></td>
+    <td><span class="nm">ROBO Global Artificial Intelligence</span><span class="ins">Lumentum, Palo Alto Networks, Analog Devices</span></td>
+    <td class="num hide">~$284M</td>
+    <td class="num hide">0.68%</td>
+    <td class="num hide">—</td>
+    <td class="num hide">—</td></tr><tr>
+    <td><a class="tk" href="/etfs/lrnz">LRNZ</a></td>
+    <td><span class="nm">TrueShares Technology, AI &amp; Deep Learning</span><span class="ins">Active, high-conviction</span></td>
+    <td class="num hide">small</td>
+    <td class="num hide">~0.69%</td>
+    <td class="num hide">concentrated</td>
+    <td class="num hide">—</td></tr><tr>
+    <td><a class="tk" href="/etfs/fdtx">FDTX</a></td>
+    <td><span class="nm">Fidelity Disruptive Technology</span><span class="ins">Nvidia, Marvell</span></td>
+    <td class="num hide">small</td>
+    <td class="num hide">0.50%</td>
+    <td class="num hide">active</td>
+    <td class="num hide">—</td></tr></tbody>
+      </table>
+    </section><section class="bsec" id="trap">
+      <div class="bhead"><h2>The “AI-washing” trap</h2></div>
+      <p class="bblurb">Sound like AI, aren’t. Read the word order.</p>
+      <table class="etf-tbl">
+        <thead><tr><th>Ticker</th><th>Fund · what's inside</th>
+          <th class="num hide">AUM</th><th class="num hide">Fee</th><th class="num hide">Holds</th>
+          <th class="num hide">Top 10</th></tr></thead>
+        <tbody><tr>
+    <td><a class="tk" href="/etfs/aivl">AIVL</a><span class="rb trap">trap</span></td>
+    <td><span class="nm">WisdomTree U.S. AI-Enhanced Value</span><span class="ins">A value fund that uses AI to pick stocks</span></td>
+    <td class="num hide">—</td>
+    <td class="num hide">—</td>
+    <td class="num hide">—</td>
+    <td class="num hide">—</td></tr><tr>
+    <td><a class="tk" href="/etfs/aivi">AIVI</a><span class="rb trap">trap</span></td>
+    <td><span class="nm">WisdomTree International AI-Enhanced Value</span><span class="ins">International value, AI-picked</span></td>
+    <td class="num hide">—</td>
+    <td class="num hide">—</td>
+    <td class="num hide">—</td>
+    <td class="num hide">—</td></tr><tr>
+    <td><a class="tk" href="/etfs/vgt">VGT</a><span class="rb trap">trap</span></td>
+    <td><span class="nm">Vanguard Information Technology (broad tech)</span><span class="ins">All of big tech — AI by accident</span></td>
+    <td class="num hide">—</td>
+    <td class="num hide">0.09%</td>
+    <td class="num hide">300+</td>
+    <td class="num hide">—</td></tr></tbody>
+      </table>
+    </section><section class="bsec" id="semis">
+      <div class="bhead"><h2>Semiconductors / AI chips</h2></div>
+      <p class="bblurb">The picks-and-shovels of the AI build-out.</p>
+      <table class="etf-tbl">
+        <thead><tr><th>Ticker</th><th>Fund · what's inside</th>
+          <th class="num hide">AUM</th><th class="num hide">Fee</th><th class="num hide">Holds</th>
+          <th class="num hide">Top 10</th></tr></thead>
+        <tbody><tr>
+    <td><a class="tk" href="/etfs/smh">SMH</a></td>
+    <td><span class="nm">VanEck Semiconductor</span><span class="ins">Nvidia-heavy, most concentrated</span></td>
+    <td class="num hide">~$68.7B</td>
+    <td class="num hide">0.35%</td>
+    <td class="num hide">25</td>
+    <td class="num hide">—</td></tr><tr>
+    <td><a class="tk" href="/etfs/soxx">SOXX</a></td>
+    <td><span class="nm">iShares Semiconductor</span><span class="ins">Micron, AMD, Intel, Broadcom, Nvidia</span></td>
+    <td class="num hide">~$39.3B</td>
+    <td class="num hide">0.35%</td>
+    <td class="num hide">~30</td>
+    <td class="num hide">—</td></tr><tr>
+    <td><a class="tk" href="/etfs/soxq">SOXQ</a></td>
+    <td><span class="nm">Invesco PHLX Semiconductor</span><span class="ins">~Same basket as SOXX, half the fee</span></td>
+    <td class="num hide">~$2.2B</td>
+    <td class="num hide">0.19%</td>
+    <td class="num hide">~30</td>
+    <td class="num hide">—</td></tr><tr>
+    <td><a class="tk" href="/etfs/xsd">XSD</a></td>
+    <td><span class="nm">SPDR S&amp;P Semiconductor</span><span class="ins">Equal-weight — Marvell, Cirrus, smaller chips</span></td>
+    <td class="num hide">~$1.67B</td>
+    <td class="num hide">0.35%</td>
+    <td class="num hide">~40</td>
+    <td class="num hide">—</td></tr><tr>
+    <td><a class="tk" href="/etfs/psi">PSI</a></td>
+    <td><span class="nm">Invesco Semiconductors</span><span class="ins">Momentum / quality screened</span></td>
+    <td class="num hide">smaller</td>
+    <td class="num hide">0.56%</td>
+    <td class="num hide">30</td>
+    <td class="num hide">—</td></tr><tr>
+    <td><a class="tk" href="/etfs/ftxl">FTXL</a></td>
+    <td><span class="nm">First Trust Nasdaq Semiconductor</span><span class="ins">Modified equal-weight, mid-cap tilt</span></td>
+    <td class="num hide">smaller</td>
+    <td class="num hide">~0.60%</td>
+    <td class="num hide">30+</td>
+    <td class="num hide">—</td></tr></tbody>
+      </table>
+    </section><section class="bsec" id="robotics">
+      <div class="bhead"><h2>Robotics &amp; automation</h2></div>
+      <p class="bblurb">Applied AI in the physical world.</p>
+      <table class="etf-tbl">
+        <thead><tr><th>Ticker</th><th>Fund · what's inside</th>
+          <th class="num hide">AUM</th><th class="num hide">Fee</th><th class="num hide">Holds</th>
+          <th class="num hide">Top 10</th></tr></thead>
+        <tbody><tr>
+    <td><a class="tk" href="/etfs/botz">BOTZ</a></td>
+    <td><span class="nm">Global X Robotics &amp; Artificial Intelligence</span><span class="ins">Nvidia, Intuitive Surgical, AeroVironment, Cognex</span></td>
+    <td class="num hide">~$3.0B</td>
+    <td class="num hide">0.68%</td>
+    <td class="num hide">~68</td>
+    <td class="num hide">—</td></tr><tr>
+    <td><a class="tk" href="/etfs/arkq">ARKQ</a></td>
+    <td><span class="nm">ARK Autonomous Technology &amp; Robotics</span><span class="ins">Tesla 10.2%, AMD, Teradyne, Rocket Lab, Kratos</span></td>
+    <td class="num hide">~$2.18B</td>
+    <td class="num hide">~0.75%</td>
+    <td class="num hide">41</td>
+    <td class="num hide">—</td></tr><tr>
+    <td><a class="tk" href="/etfs/robt">ROBT</a></td>
+    <td><span class="nm">First Trust Nasdaq AI &amp; Robotics</span><span class="ins">Marvell, Cisco, Palo Alto Networks</span></td>
+    <td class="num hide">—</td>
+    <td class="num hide">0.65%</td>
+    <td class="num hide">114</td>
+    <td class="num hide">—</td></tr><tr>
+    <td><a class="tk" href="/etfs/robo">ROBO</a></td>
+    <td><span class="nm">ROBO Global Robotics &amp; Automation</span><span class="ins">Industrial robots, sensors, factory automation</span></td>
+    <td class="num hide">—</td>
+    <td class="num hide">0.95%</td>
+    <td class="num hide">~80</td>
+    <td class="num hide">—</td></tr><tr>
+    <td><a class="tk" href="/e?sym=IRBO">IRBO</a><span class="rb closed">closed</span></td>
+    <td><span class="nm">iShares Robotics &amp; AI Multisector</span><span class="ins">Closed — ignore</span></td>
+    <td class="num hide">—</td>
+    <td class="num hide">—</td>
+    <td class="num hide">—</td>
+    <td class="num hide">—</td></tr></tbody>
+      </table>
+    </section><section class="bsec" id="humanoid">
+      <div class="bhead"><h2>Humanoids / physical AI</h2></div>
+      <p class="bblurb">Newest, most speculative — size small.</p>
+      <table class="etf-tbl">
+        <thead><tr><th>Ticker</th><th>Fund · what's inside</th>
+          <th class="num hide">AUM</th><th class="num hide">Fee</th><th class="num hide">Holds</th>
+          <th class="num hide">Top 10</th></tr></thead>
+        <tbody><tr>
+    <td><a class="tk" href="/etfs/humn">HUMN</a><span class="rb spec">speculative</span></td>
+    <td><span class="nm">Roundhill Humanoid Robotics</span><span class="ins">Tesla 8%, UBTech, Rainbow Robotics, Harmonic Drive, Nvidia — 68% foreign</span></td>
+    <td class="num hide">new</td>
+    <td class="num hide">0.75%</td>
+    <td class="num hide">46</td>
+    <td class="num hide">—</td></tr><tr>
+    <td><a class="tk" href="/etfs/koid">KOID</a><span class="rb spec">speculative</span></td>
+    <td><span class="nm">KraneShares Global Humanoid &amp; Physical AI</span><span class="ins">“Brain” (chips) + “body” (actuators/sensors) + integrators</span></td>
+    <td class="num hide">new</td>
+    <td class="num hide">0.69%</td>
+    <td class="num hide">50</td>
+    <td class="num hide">—</td></tr></tbody>
+      </table>
+    </section><section class="bsec" id="leveraged">
+      <div class="bhead"><h2>Leveraged &amp; inverse</h2></div>
+      <p class="bblurb">Traders only — these decay. Daily instruments.</p>
+      <table class="etf-tbl">
+        <thead><tr><th>Ticker</th><th>Fund · what's inside</th>
+          <th class="num hide">AUM</th><th class="num hide">Fee</th><th class="num hide">Holds</th>
+          <th class="num hide">Top 10</th></tr></thead>
+        <tbody><tr>
+    <td><a class="tk" href="/etfs/soxl">SOXL</a><span class="rb lev">leveraged</span></td>
+    <td><span class="nm">Direxion Daily Semiconductor Bull 3×</span><span class="ins">+450% YTD 2026 … −90% in 2022. Daily reset.</span></td>
+    <td class="num hide">~$11B</td>
+    <td class="num hide">0.95%</td>
+    <td class="num hide">3× SMH basket</td>
+    <td class="num hide">—</td></tr><tr>
+    <td><a class="tk" href="/etfs/soxs">SOXS</a><span class="rb lev">leveraged</span></td>
+    <td><span class="nm">Direxion Daily Semiconductor Bear 3×</span><span class="ins">Inverse — bet against chips</span></td>
+    <td class="num hide">—</td>
+    <td class="num hide">~1.0%</td>
+    <td class="num hide">-3× chips</td>
+    <td class="num hide">—</td></tr><tr>
+    <td><a class="tk" href="/etfs/ubot">UBOT</a><span class="rb lev">leveraged</span></td>
+    <td><span class="nm">Direxion Daily Robotics/AI/Automation Bull 2×</span><span class="ins">Leveraged robotics</span></td>
+    <td class="num hide">small</td>
+    <td class="num hide">1.32%</td>
+    <td class="num hide">2× robotics</td>
+    <td class="num hide">—</td></tr><tr>
+    <td><a class="tk" href="/etfs/nvdl">NVDL</a><span class="rb lev">leveraged</span></td>
+    <td><span class="nm">GraniteShares 2× Long NVDA Daily</span><span class="ins">Single-stock leverage on Nvidia</span></td>
+    <td class="num hide">~$4B+</td>
+    <td class="num hide">~1.15%</td>
+    <td class="num hide">2× NVDA</td>
+    <td class="num hide">—</td></tr><tr>
+    <td><a class="tk" href="/etfs/avgx">AVGX</a><span class="rb lev">leveraged</span></td>
+    <td><span class="nm">Defiance 2× Long Broadcom Daily</span><span class="ins">Single-stock leverage on Broadcom</span></td>
+    <td class="num hide">small</td>
+    <td class="num hide">~1.0%</td>
+    <td class="num hide">2× AVGO</td>
+    <td class="num hide">—</td></tr></tbody>
+      </table>
+    </section><section class="bsec" id="income">
+      <div class="bhead"><h2>AI income / covered-call</h2></div>
+      <p class="bblurb">Income, NOT growth — they sell away upside.</p>
+      <table class="etf-tbl">
+        <thead><tr><th>Ticker</th><th>Fund · what's inside</th>
+          <th class="num hide">AUM</th><th class="num hide">Fee</th><th class="num hide">Holds</th>
+          <th class="num hide">Top 10</th></tr></thead>
+        <tbody><tr>
+    <td><a class="tk" href="/etfs/aipi">AIPI</a><span class="rb income">income</span></td>
+    <td><span class="nm">REX AI Equity Premium Income</span><span class="ins">Covered calls on AI stocks</span></td>
+    <td class="num hide">~$429M</td>
+    <td class="num hide">0.65%</td>
+    <td class="num hide">covered calls</td>
+    <td class="num hide">—</td></tr><tr>
+    <td><a class="tk" href="/etfs/fepi">FEPI</a><span class="rb income">income</span></td>
+    <td><span class="nm">REX FANG &amp; Innovation Premium Income</span><span class="ins">Same idea on FANG names</span></td>
+    <td class="num hide">~$600M</td>
+    <td class="num hide">~0.65%</td>
+    <td class="num hide">covered calls</td>
+    <td class="num hide">—</td></tr><tr>
+    <td><a class="tk" href="/etfs/aiyy">AIYY</a><span class="rb income">income</span></td>
+    <td><span class="nm">YieldMax AI Option Income</span><span class="ins">Options on C3.ai — single stock, fragile</span></td>
+    <td class="num hide">small</td>
+    <td class="num hide">~1.3%</td>
+    <td class="num hide">options</td>
+    <td class="num hide">—</td></tr><tr>
+    <td><a class="tk" href="/etfs/qqqi">QQQI</a><span class="rb income">income</span></td>
+    <td><span class="nm">NEOS Nasdaq-100 Covered Call</span><span class="ins">Broad Nasdaq-100, not pure AI</span></td>
+    <td class="num hide">~$12.9B</td>
+    <td class="num hide">~0.68%</td>
+    <td class="num hide">covered calls</td>
+    <td class="num hide">—</td></tr></tbody>
+      </table>
+    </section><section class="bsec" id="adjacent">
+      <div class="bhead"><h2>Adjacent / broad</h2></div>
+      <p class="bblurb">AI is a slice, not the whole fund.</p>
+      <table class="etf-tbl">
+        <thead><tr><th>Ticker</th><th>Fund · what's inside</th>
+          <th class="num hide">AUM</th><th class="num hide">Fee</th><th class="num hide">Holds</th>
+          <th class="num hide">Top 10</th></tr></thead>
+        <tbody><tr>
+    <td><a class="tk" href="/etfs/qtum">QTUM</a></td>
+    <td><span class="nm">Defiance Quantum</span><span class="ins">Quantum computing + AI</span></td>
+    <td class="num hide">~$6.3B</td>
+    <td class="num hide">—</td>
+    <td class="num hide">71</td>
+    <td class="num hide">—</td></tr><tr>
+    <td><a class="tk" href="/etfs/dtcr">DTCR</a></td>
+    <td><span class="nm">Global X Data Center &amp; Digital Infrastructure</span><span class="ins">The AI power / build-out play (data centers, REITs)</span></td>
+    <td class="num hide">—</td>
+    <td class="num hide">—</td>
+    <td class="num hide">—</td>
+    <td class="num hide">—</td></tr><tr>
+    <td><a class="tk" href="/etfs/dtec">DTEC</a></td>
+    <td><span class="nm">ALPS Disruptive Technologies</span><span class="ins">10 disruptive themes, ~10% AI</span></td>
+    <td class="num hide">—</td>
+    <td class="num hide">—</td>
+    <td class="num hide">—</td>
+    <td class="num hide">—</td></tr><tr>
+    <td><a class="tk" href="/etfs/komp">KOMP</a></td>
+    <td><span class="nm">SPDR S&amp;P Kensho New Economies</span><span class="ins">Broad new-economy basket</span></td>
+    <td class="num hide">—</td>
+    <td class="num hide">—</td>
+    <td class="num hide">—</td>
+    <td class="num hide">—</td></tr><tr>
+    <td><a class="tk" href="/etfs/loup">LOUP</a></td>
+    <td><span class="nm">Innovator Deepwater Frontier Tech</span><span class="ins">Gene Munster — active frontier tech</span></td>
+    <td class="num hide">~$153M</td>
+    <td class="num hide">—</td>
+    <td class="num hide">—</td>
+    <td class="num hide">—</td></tr></tbody>
+      </table>
+    </section></div>
+
+    <section class="etf-sec">
+      <h2>Why ETFs matter in the AI trade</h2>
+      <ul>
+        <li>ETFs show <b>where passive and sector money concentrates</b> — the crowd, not just the headline name.</li>
+        <li>Their holdings reveal <b>second-order beneficiaries</b> of the AI build-out you might otherwise miss.</li>
+        <li>ETF flows can <b>amplify already-crowded trades</b> — read this alongside the <a href="/bubble" style="color:var(--accent-2);text-decoration:none">AI bubble-risk gauge</a>.</li>
+      </ul>
+      <div class="etf-cta">
+        <a class="primary" href="/">Open the terminal</a>
+        <a href="/bubble">Check AI bubble risk</a>
+        <a href="/stocks">View AI stocks</a>
+      </div>
+    </section>
+
+    <p class="disc">AUM and expense ratios are point-in-time snapshots (June 2026) curated from public
+    issuer and aggregator data; live shares-outstanding and a few exact fees belong to each issuer's
+    same-day page — we won't hand you a stale figure dressed up as live. Risk badges
+    (<span class="rb trap">trap</span> <span class="rb lev">leveraged</span>
+    <span class="rb income">income</span> <span class="rb spec">speculative</span>) are editorial flags,
+    not ratings. Not financial advice.</p>
+  </main>
+
+<section class="sa-grow">
+    <div>
+      <h3>RELATED READING</h3>
+      <ul>
+        <li><a href="/blog/ai-junk-bonds">AI's $32 Billion IOU: the data-center junk-bond table</a></li>
+        <li><a href="/blog/spacex-attention-ai-infrastructure">SpaceX is the attention magnet — the real trade is AI infrastructure</a></li>
+      </ul>
+    </div>
+    <div>
+      <h3>SANTRO AI TOOLS</h3>
+      <ul>
+        <li><a href="/bubble">Check the AI bubble-risk index</a></li>
+        <li><a href="/etfs">Compare AI ETFs</a></li>
+        <li><a href="/crypto">AI crypto movers</a></li>
+        <li><a href="/stocks">AI stocks bubble map</a></li>
+        <li><a href="/share">Create a share card</a></li>
+      </ul>
+    </div>
+    <div class="sa-cta-box">
+      <b>Run the numbers yourself — free.</b>
+      <p>Create a free Santro AI account to run unlimited fair-value valuations, save a watchlist, and keep your valuation history. Five free runs even without an account; no card required.</p>
+      <a class="sa-cta-btn" href="/?auth=register">Create a free account &rarr;</a>
+    </div>
+  </section>
+
+    <section class="sa-deepdives" style="max-width:920px;margin:24px auto 0;padding:24px 20px 6px;border-top:1px solid var(--border-soft,#1c2230);">
+      <h2 style="font-size:20px;margin:0 0 4px;">AI ETF deep dives</h2>
+      <p style="color:var(--muted,#9aa6b2);font-size:14.5px;margin:0 0 10px;">Individual breakdowns — holdings, fee, AUM, AI relevance and risk:</p>
+      <ul style="margin:0;padding-left:18px;line-height:1.9;">
+        <li><a href="/etfs/bai"><b>BAI</b> — iShares A.I. Innovation &amp; Tech Active</a> <span style="color:var(--faint,#6b7684);font-size:13px">Pure-play AI · fee 0.55%</span></li>
+        <li><a href="/etfs/aiq"><b>AIQ</b> — Global X Artificial Intelligence &amp; Technology</a> <span style="color:var(--faint,#6b7684);font-size:13px">Pure-play AI · fee 0.68%</span></li>
+        <li><a href="/etfs/arty"><b>ARTY</b> — iShares Future AI &amp; Tech</a> <span style="color:var(--faint,#6b7684);font-size:13px">Pure-play AI · fee ~0.47%</span></li>
+        <li><a href="/etfs/chat"><b>CHAT</b> — Roundhill Generative AI &amp; Technology</a> <span style="color:var(--faint,#6b7684);font-size:13px">Pure-play AI · fee 0.75%</span></li>
+        <li><a href="/etfs/igpt"><b>IGPT</b> — Invesco AI &amp; Next Gen Software</a> <span style="color:var(--faint,#6b7684);font-size:13px">Pure-play AI · fee 0.56%</span></li>
+        <li><a href="/etfs/agix"><b>AGIX</b> — KraneShares Public &amp; Private AI &amp; Tech</a> <span style="color:var(--faint,#6b7684);font-size:13px">Pure-play AI · fee 0.99%</span></li>
+        <li><a href="/etfs/ives"><b>IVES</b> — Dan Ives Wedbush AI Revolution</a> <span style="color:var(--faint,#6b7684);font-size:13px">Pure-play AI · fee ~0.75%</span></li>
+        <li><a href="/etfs/wtai"><b>WTAI</b> — WisdomTree Artificial Intelligence &amp; Innovation</a> <span style="color:var(--faint,#6b7684);font-size:13px">Pure-play AI · fee 0.45%</span></li>
+        <li><a href="/etfs/thnq"><b>THNQ</b> — ROBO Global Artificial Intelligence</a> <span style="color:var(--faint,#6b7684);font-size:13px">Pure-play AI · fee 0.68%</span></li>
+        <li><a href="/etfs/lrnz"><b>LRNZ</b> — TrueShares Technology, AI &amp; Deep Learning</a> <span style="color:var(--faint,#6b7684);font-size:13px">Pure-play AI · fee ~0.69%</span></li>
+        <li><a href="/etfs/fdtx"><b>FDTX</b> — Fidelity Disruptive Technology</a> <span style="color:var(--faint,#6b7684);font-size:13px">Pure-play AI · fee 0.50%</span></li>
+        <li><a href="/etfs/aivl"><b>AIVL</b> — WisdomTree U.S. AI-Enhanced Value</a> <span style="color:var(--faint,#6b7684);font-size:13px">The “AI-washing” trap · fee —</span></li>
+        <li><a href="/etfs/aivi"><b>AIVI</b> — WisdomTree International AI-Enhanced Value</a> <span style="color:var(--faint,#6b7684);font-size:13px">The “AI-washing” trap · fee —</span></li>
+        <li><a href="/etfs/vgt"><b>VGT</b> — Vanguard Information Technology (broad tech)</a> <span style="color:var(--faint,#6b7684);font-size:13px">The “AI-washing” trap · fee 0.09%</span></li>
+        <li><a href="/etfs/smh"><b>SMH</b> — VanEck Semiconductor</a> <span style="color:var(--faint,#6b7684);font-size:13px">Semiconductors / AI chips · fee 0.35%</span></li>
+        <li><a href="/etfs/soxx"><b>SOXX</b> — iShares Semiconductor</a> <span style="color:var(--faint,#6b7684);font-size:13px">Semiconductors / AI chips · fee 0.35%</span></li>
+        <li><a href="/etfs/soxq"><b>SOXQ</b> — Invesco PHLX Semiconductor</a> <span style="color:var(--faint,#6b7684);font-size:13px">Semiconductors / AI chips · fee 0.19%</span></li>
+        <li><a href="/etfs/xsd"><b>XSD</b> — SPDR S&amp;P Semiconductor</a> <span style="color:var(--faint,#6b7684);font-size:13px">Semiconductors / AI chips · fee 0.35%</span></li>
+        <li><a href="/etfs/psi"><b>PSI</b> — Invesco Semiconductors</a> <span style="color:var(--faint,#6b7684);font-size:13px">Semiconductors / AI chips · fee 0.56%</span></li>
+        <li><a href="/etfs/ftxl"><b>FTXL</b> — First Trust Nasdaq Semiconductor</a> <span style="color:var(--faint,#6b7684);font-size:13px">Semiconductors / AI chips · fee ~0.60%</span></li>
+        <li><a href="/etfs/dram"><b>DRAM</b> — Roundhill Memory ETF</a> <span style="color:var(--faint,#6b7684);font-size:13px">Semiconductors / AI chips · fee 0.65%</span></li>
+        <li><a href="/etfs/botz"><b>BOTZ</b> — Global X Robotics &amp; Artificial Intelligence</a> <span style="color:var(--faint,#6b7684);font-size:13px">Robotics &amp; automation · fee 0.68%</span></li>
+        <li><a href="/etfs/arkq"><b>ARKQ</b> — ARK Autonomous Technology &amp; Robotics</a> <span style="color:var(--faint,#6b7684);font-size:13px">Robotics &amp; automation · fee ~0.75%</span></li>
+        <li><a href="/etfs/robt"><b>ROBT</b> — First Trust Nasdaq AI &amp; Robotics</a> <span style="color:var(--faint,#6b7684);font-size:13px">Robotics &amp; automation · fee 0.65%</span></li>
+        <li><a href="/etfs/robo"><b>ROBO</b> — ROBO Global Robotics &amp; Automation</a> <span style="color:var(--faint,#6b7684);font-size:13px">Robotics &amp; automation · fee 0.95%</span></li>
+        <li><a href="/etfs/humn"><b>HUMN</b> — Roundhill Humanoid Robotics</a> <span style="color:var(--faint,#6b7684);font-size:13px">Humanoids / physical AI · fee 0.75%</span></li>
+        <li><a href="/etfs/koid"><b>KOID</b> — KraneShares Global Humanoid &amp; Physical AI</a> <span style="color:var(--faint,#6b7684);font-size:13px">Humanoids / physical AI · fee 0.69%</span></li>
+        <li><a href="/etfs/soxl"><b>SOXL</b> — Direxion Daily Semiconductor Bull 3×</a> <span style="color:var(--faint,#6b7684);font-size:13px">Leveraged &amp; inverse · fee 0.95%</span></li>
+        <li><a href="/etfs/soxs"><b>SOXS</b> — Direxion Daily Semiconductor Bear 3×</a> <span style="color:var(--faint,#6b7684);font-size:13px">Leveraged &amp; inverse · fee ~1.0%</span></li>
+        <li><a href="/etfs/ubot"><b>UBOT</b> — Direxion Daily Robotics/AI/Automation Bull 2×</a> <span style="color:var(--faint,#6b7684);font-size:13px">Leveraged &amp; inverse · fee 1.32%</span></li>
+        <li><a href="/etfs/nvdl"><b>NVDL</b> — GraniteShares 2× Long NVDA Daily</a> <span style="color:var(--faint,#6b7684);font-size:13px">Leveraged &amp; inverse · fee ~1.15%</span></li>
+        <li><a href="/etfs/avgx"><b>AVGX</b> — Defiance 2× Long Broadcom Daily</a> <span style="color:var(--faint,#6b7684);font-size:13px">Leveraged &amp; inverse · fee ~1.0%</span></li>
+        <li><a href="/etfs/aipi"><b>AIPI</b> — REX AI Equity Premium Income</a> <span style="color:var(--faint,#6b7684);font-size:13px">AI income / covered-call · fee 0.65%</span></li>
+        <li><a href="/etfs/fepi"><b>FEPI</b> — REX FANG &amp; Innovation Premium Income</a> <span style="color:var(--faint,#6b7684);font-size:13px">AI income / covered-call · fee ~0.65%</span></li>
+        <li><a href="/etfs/aiyy"><b>AIYY</b> — YieldMax AI Option Income</a> <span style="color:var(--faint,#6b7684);font-size:13px">AI income / covered-call · fee ~1.3%</span></li>
+        <li><a href="/etfs/qqqi"><b>QQQI</b> — NEOS Nasdaq-100 Covered Call</a> <span style="color:var(--faint,#6b7684);font-size:13px">AI income / covered-call · fee ~0.68%</span></li>
+        <li><a href="/etfs/qtum"><b>QTUM</b> — Defiance Quantum</a> <span style="color:var(--faint,#6b7684);font-size:13px">Adjacent / broad · fee —</span></li>
+        <li><a href="/etfs/dtcr"><b>DTCR</b> — Global X Data Center &amp; Digital Infrastructure</a> <span style="color:var(--faint,#6b7684);font-size:13px">Adjacent / broad · fee —</span></li>
+        <li><a href="/etfs/dtec"><b>DTEC</b> — ALPS Disruptive Technologies</a> <span style="color:var(--faint,#6b7684);font-size:13px">Adjacent / broad · fee —</span></li>
+        <li><a href="/etfs/komp"><b>KOMP</b> — SPDR S&amp;P Kensho New Economies</a> <span style="color:var(--faint,#6b7684);font-size:13px">Adjacent / broad · fee —</span></li>
+        <li><a href="/etfs/loup"><b>LOUP</b> — Innovator Deepwater Frontier Tech</a> <span style="color:var(--faint,#6b7684);font-size:13px">Adjacent / broad · fee —</span></li>
+      </ul>
+    </section>
+
+  <!-- mega-footer v1 -->
+<footer class="mega">
+<style>
+footer.mega{display:block;text-align:left;margin-top:48px;padding:0;border-top:1px solid var(--border,#1d2733);background:transparent;font-family:var(--font-sans, -apple-system,BlinkMacSystemFont,"Inter","Segoe UI",Roboto,Helvetica,Arial,sans-serif);}
+.mega .mg-in{max-width:1680px;margin:0 auto;padding:34px clamp(16px,2vw,40px) 26px;}
+.mega .mg-top{display:flex;justify-content:space-between;align-items:flex-start;gap:28px;flex-wrap:wrap;padding-bottom:26px;border-bottom:1px solid var(--border-soft,#161e28);}
+.mega .mg-logo{font-size:17px;font-weight:800;letter-spacing:.4px;color:var(--text,#e7edf3);}
+.mega .mg-logo span{color:#22c55e;}
+.mega .mg-tag{font-size:11px;font-weight:700;letter-spacing:1.4px;text-transform:uppercase;color:var(--faint,#5a6573);margin-top:2px;}
+.mega .mg-line{margin:10px 0 0;max-width:420px;font-size:13px;line-height:1.55;color:var(--muted,#8895a4);font-weight:400;}
+.mega .mg-slogan{margin:8px 0 0;font-size:12.5px;font-style:italic;color:var(--faint,#5a6573);font-weight:400;}
+.mega .mg-brief{max-width:360px;}
+.mega .mg-btitle{font-size:14px;font-weight:700;color:var(--text,#e7edf3);}
+.mega .mg-bsub{margin:6px 0 12px;font-size:12.5px;line-height:1.5;color:var(--muted,#8895a4);font-weight:400;}
+.mega .mg-brow{display:flex;align-items:center;gap:10px;flex-wrap:wrap;}
+.mega a.mg-cta{display:inline-block;padding:8px 16px;border-radius:9px;background:rgba(34,197,94,.12);border:1px solid rgba(34,197,94,.45);color:#22c55e;font-size:13px;font-weight:700;text-decoration:none;}
+.mega a.mg-cta:hover{background:#22c55e;color:#04140b;}
+.mega .mg-soon{font-size:11.5px;font-weight:600;color:var(--faint,#5a6573);border:1px dashed var(--border,#1d2733);border-radius:999px;padding:5px 10px;white-space:nowrap;}
+.mega .mg-priv{margin:10px 0 0;font-size:11px;line-height:1.5;color:var(--faint,#5a6573);font-weight:400;}
+.mega .mg-priv a{color:var(--muted,#8895a4);font-weight:600;text-decoration:none;}
+.mega .mg-priv a:hover{color:var(--text,#e7edf3);}
+.mega .mg-cols{display:grid;grid-template-columns:repeat(5,1fr);gap:22px;padding:26px 0;border-bottom:1px solid var(--border-soft,#161e28);}
+.mega .mg-col h4{margin:0 0 10px;font-size:11px;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:var(--faint,#5a6573);}
+.mega .mg-col ul{list-style:none;margin:0;padding:0;}
+.mega .mg-col li{margin:0;}
+.mega .mg-col a{display:inline-block;padding:4px 0;font-size:13px;font-weight:500;color:var(--muted,#8895a4);text-decoration:none;}
+.mega .mg-col a:hover{color:var(--text,#e7edf3);}
+.mega .mg-col .mg-off{display:inline-block;padding:4px 0;font-size:13px;color:var(--faint,#5a6573);}
+.mega .mg-bottom{display:flex;justify-content:space-between;align-items:center;gap:8px 24px;flex-wrap:wrap;padding-top:18px;font-size:11.5px;color:var(--faint,#5a6573);}
+.mega .mg-bottom .mg-nfa{color:var(--muted,#8895a4);font-weight:700;font-style:normal;}
+.mega .mg-bottom a{color:var(--muted,#8895a4);font-weight:600;text-decoration:none;padding:2px 0;}
+.mega .mg-bottom a:hover{color:var(--text,#e7edf3);}
+.mega .mg-note{flex-basis:100%;font-size:10.5px;color:var(--faint,#5a6573);opacity:.75;}
+.mega a:focus-visible{outline:2px solid #22c55e;outline-offset:2px;border-radius:4px;}
+@media(max-width:900px){
+  .mega .mg-in{padding:28px 16px 22px;}
+  .mega .mg-top{flex-direction:column;gap:20px;padding-bottom:22px;}
+  .mega .mg-cols{grid-template-columns:repeat(2,1fr);gap:18px 14px;padding:22px 0;}
+  .mega .mg-col a{padding:6px 0;}
+  .mega .mg-bottom{flex-direction:column;align-items:flex-start;gap:8px;}
+}
+@media(max-width:640px){
+  .mega .mg-cols{grid-template-columns:1fr;gap:0;padding:6px 0;}
+  .mega .mg-col{border-bottom:1px solid var(--border-soft,#161e28);}
+  .mega .mg-col:last-child{border-bottom:0;}
+  .mega .mg-col h4{margin:0;padding:14px 2px;display:flex;justify-content:space-between;align-items:center;}
+  .mega .mg-col ul{padding:0 2px 12px;}
+  .mega.mg-acc .mg-col h4{cursor:pointer;}
+  .mega.mg-acc .mg-col h4::after{content:"+";font-size:15px;line-height:1;color:var(--faint,#5a6573);font-weight:600;}
+  .mega.mg-acc .mg-col.open h4::after{content:"\2212";}
+  .mega.mg-acc .mg-col:not(.open) ul{display:none;}
+}
+</style>
+<div class="mg-in">
+  <div class="mg-top">
+    <div class="mg-brand">
+      <div class="mg-logo">Santro <span>AI</span></div>
+      <div class="mg-tag">The AI Trade Terminal</div>
+      <p class="mg-line">The AI trade terminal for stocks, ETFs, crypto, hot tickers, valuation tools, and bubble-risk signals.</p>
+      <p class="mg-slogan">Hot means attention, not direction.</p>
+    </div>
+    <div class="mg-brief">
+      <div class="mg-btitle">Get the AI market brief</div>
+      <p class="mg-bsub">Hot tickers, bubble-risk changes, valuation notes, and AI market research.</p>
+      <div class="mg-brow">
+        <a class="mg-cta" href="/signup">Create a free account</a>
+        <span class="mg-soon">Email brief — coming soon</span>
+      </div>
+      <p class="mg-priv">The brief will be opt-in when it launches, and you can unsubscribe anytime. <a href="/privacy">Privacy</a></p>
+    </div>
+  </div>
+  <div class="mg-cols">
+    <div class="mg-col">
+      <h4>Terminal</h4>
+      <ul>
+        <li><a href="/terminal">AI Terminal</a></li>
+        <li><a href="/stocks">AI Stocks</a></li>
+        <li><a href="/crypto">AI Crypto</a></li>
+        <li><a href="/etfs">AI ETFs</a></li>
+        <li><a href="/bubble">AI Bubble Risk</a></li>
+        <li><a href="/news">Market News</a></li>
+      </ul>
+    </div>
+    <div class="mg-col">
+      <h4>Tools</h4>
+      <ul>
+        <li><a href="/bubble#stress">Portfolio Stress Test</a></li>
+        <li><a href="/quiz">Exposure Check</a></li>
+        <li><a href="/share">Share Cards</a></li>
+        <li><a href="/evaluate-prompt">Prompt Quality Check</a></li>
+        <li><a href="/signup">Watchlists &amp; Alerts — free account</a></li>
+      </ul>
+    </div>
+    <div class="mg-col">
+      <h4>Research</h4>
+      <ul>
+        <li><a href="/research">Research Feed</a></li>
+        <li><a href="/blog">Blog</a></li>
+        <li><a href="/blog/ai-bubble-valuation-history">AI Bubble or Market Reset?</a></li>
+        <li><a href="/ipos">IPO Watch</a></li>
+        <li><a href="/stocks/aschenbrenner">Aschenbrenner Basket</a></li>
+        <li><a href="/stocks/burry-short-watch">Burry Short Watch</a></li>
+      </ul>
+    </div>
+    <div class="mg-col">
+      <h4>AI Themes</h4>
+      <ul>
+        <li><a href="/stocks/themes/ai-chips-and-compute">AI Chips &amp; Compute</a></li>
+        <li><a href="/stocks/themes/ai-software-and-cloud-infrastructure">AI Software &amp; Cloud</a></li>
+        <li><a href="/stocks/themes/powering-ai">Powering AI</a></li>
+        <li><a href="/stocks/themes/data-center-power-and-energy">Data-Center Power &amp; Energy</a></li>
+        <li><a href="/stocks/themes/chip-equipment-and-ai-hardware">Chip Equipment &amp; AI Hardware</a></li>
+        <li><a href="/stocks/themes/ai-platforms-internet-and-adtech">AI Platforms &amp; Adtech</a></li>
+        <li><a href="/stocks/themes/ai-applications-and-data-software">AI Apps &amp; Data Software</a></li>
+      </ul>
+    </div>
+    <div class="mg-col">
+      <h4>Company</h4>
+      <ul>
+        <li><a href="/about">About Santro AI</a></li>
+        <li><a href="/methodology">Methodology</a></li>
+        <li><a href="/research">Data &amp; sources</a></li>
+        <li><a href="mailto:hello@santroai.tech">Contact</a></li>
+        <li><a href="/privacy">Privacy Policy</a></li>
+        <li><a href="/terms">Terms of Use</a></li>
+        <li><a href="https://x.com/SantroAI" target="_blank" rel="noopener">@SantroAI on X</a></li>
+        <li><span class="mg-off">iOS app — coming soon</span></li>
+      </ul>
+    </div>
+  </div>
+  <div class="mg-bottom">
+    <span>© 2026 Santro AI. All rights reserved. Uses custom models.</span>
+    <span>Quotes delayed ~15 min. Real-time data planned for Pro. <b class="mg-nfa">Not financial advice.</b></span>
+    <span><a href="/privacy">Privacy</a> · <a href="/terms">Terms</a> · <a href="mailto:hello@santroai.tech">Contact</a></span>
+    <!--MG_EXTRA-->
+  </div>
+</div>
+<script>(function(){var mq=window.matchMedia("(max-width:640px)");var mega=document.querySelector("footer.mega");if(!mega)return;
+function arm(){if(!mq.matches||mega.classList.contains("mg-acc"))return;mega.classList.add("mg-acc");
+mega.querySelectorAll(".mg-col h4").forEach(function(h){h.setAttribute("role","button");h.setAttribute("tabindex","0");h.setAttribute("aria-expanded","false");
+function t(){if(!mq.matches)return;var c=h.parentElement;c.classList.toggle("open");h.setAttribute("aria-expanded",String(c.classList.contains("open")));}
+h.addEventListener("click",t);h.addEventListener("keydown",function(e){if(e.key==="Enter"||e.key===" "){e.preventDefault();t();}});});}
+arm();mq.addEventListener?mq.addEventListener("change",arm):mq.addListener(arm);})();</script>
+</footer>
+
+<script src="etf-data.js?v=2"></script>
+<script>
+const esc=s=>String(s==null?"":s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const RB={trap:"trap",lev:"leveraged",income:"income",spec:"speculative",closed:"closed"};
+function rbadge(r){ if(!r) return ""; return `<span class="rb ${r}">${RB[r]||r}</span>`; }
+
+function row(e){
+  const spv = e.spv ? `<span class="rb spv">pre-IPO</span>` : "";
+  const h = (window.ETF_HOLDINGS||{})[e.t];
+  const holdsCell = (h&&h.nh) ? String(h.nh) : (e.holds||"—");
+  const c10 = (h&&h.c10!=null) ? Math.round(h.c10)+"%" : "—";
+  // canonical /etfs/<sym> page exists for every non-closed fund; the noindexed
+  // /e?sym= twin remains only for closed funds with no static page (e.g. IRBO)
+  const url = e.risk==="closed" ? `/e?sym=${encodeURIComponent(e.t)}` : `/etfs/${e.t.toLowerCase()}`;
+  return `<tr>
+    <td><a class="tk" href="${url}">${esc(e.t)}</a>${rbadge(e.risk)}${spv}</td>
+    <td><span class="nm">${esc(e.name)}</span><span class="ins">${esc(e.inside||"")}</span></td>
+    <td class="num hide">${esc(e.aum||"—")}</td>
+    <td class="num hide">${esc(e.er||"—")}</td>
+    <td class="num hide">${esc(holdsCell)}</td>
+    <td class="num hide">${c10}</td>
+  </tr>`;
+}
+
+function build(){
+  const jump=document.getElementById("jump");
+  const wrap=document.getElementById("buckets");
+  let jh="", bh="";
+  for(const b of window.ETF_BUCKETS){
+    const list=window.ETFS.filter(e=>e.bucket===b.id);
+    if(!list.length) continue;
+    jh+=`<a href="#${b.id}">${esc(b.name)} <span style="opacity:.6">${list.length}</span></a>`;
+    bh+=`<section class="bsec" id="${b.id}">
+      <div class="bhead"><h2>${esc(b.name)}</h2></div>
+      <p class="bblurb">${esc(b.blurb)}</p>
+      <table class="etf-tbl">
+        <thead><tr><th>Ticker</th><th>Fund · what's inside</th>
+          <th class="num hide">AUM</th><th class="num hide">Fee</th><th class="num hide">Holds</th>
+          <th class="num hide" title="% of the fund in its top 10 holdings — higher = more concentrated">Top 10</th></tr></thead>
+        <tbody>${list.map(row).join("")}</tbody>
+      </table>
+    </section>`;
+  }
+  jump.innerHTML=jh;
+  wrap.innerHTML=bh;
+  document.getElementById("count").textContent=window.ETFS.length+" funds · "+window.ETF_BUCKETS.length+" buckets";
+}
+build();
+</script>
+</body>
+</html>

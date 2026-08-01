@@ -1,0 +1,1082 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<meta name="theme-color" content="#0a0e13" />
+<meta name="mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-title" content="Santro AI" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+<title>AI Market Share Cards — Movers, Bubble Risk &amp; Tickers | Santro AI</title>
+<link rel="icon" href="/assets/favicon.svg" type="image/svg+xml" />
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32.png" />
+<link rel="icon" type="image/png" sizes="96x96" href="/assets/favicon-96.png" />
+<link rel="apple-touch-icon" href="/assets/apple-touch-icon.png" />
+<link rel="manifest" href="/manifest.json" />
+<meta name="description" content="Create Santro AI share cards for market movers, bubble risk, AI crypto, ETFs and ticker stories. Hot means attention, not direction. Not financial advice." />
+<link rel="canonical" href="https://santroai.tech/share" />
+<meta property="og:site_name" content="Santro AI" />
+<meta property="og:title" content="AI Market Share Cards — Movers, Bubble Risk &amp; Tickers | Santro AI" />
+<meta property="og:description" content="Create Santro AI share cards for market movers, bubble risk, AI crypto, ETFs and ticker stories. Hot means attention, not direction. Not financial advice." />
+<meta property="og:url" content="https://santroai.tech/share" />
+<meta property="og:image" content="https://santroai.tech/assets/og-map.png" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image" content="https://santroai.tech/assets/og-map.png" />
+<script>try{document.documentElement.dataset.theme=localStorage.getItem("santro-theme")||"dark";}catch(e){}</script>
+<link rel="stylesheet" href="site.css?v=14" />
+<style>
+  .lede b{color:var(--accent-2);}
+  .cardstage{background:var(--panel); border:1px solid var(--border); border-radius:16px; padding:16px;
+    max-width:800px;}
+  #card{width:100%; height:auto; display:block; border-radius:11px; background:#0a0e13;}
+  .actions{display:flex; flex-wrap:wrap; gap:10px; margin:14px 0 0; max-width:800px;}
+  .btn{display:inline-flex; align-items:center; gap:7px; border-radius:10px; padding:11px 18px;
+    font:inherit; font-size:13.5px; font-weight:700; cursor:pointer; text-decoration:none; transition:.15s;}
+  .btn.primary{background:#22c55e; color:#04140b; border:1px solid #22c55e;}
+  .btn.primary:hover{background:#4ade80;}
+  .btn.ghost{background:var(--elev); color:var(--text); border:1px solid var(--border);}
+  .btn.ghost:hover{border-color:var(--accent-border); color:var(--accent-2);}
+  .ok-flash{color:var(--accent-2); font-weight:700; font-size:12px; align-self:center; opacity:0; transition:.2s;}
+  .ok-flash.show{opacity:1;}
+  .gallery-label{margin:26px 0 10px; font-size:11px; letter-spacing:.6px; text-transform:uppercase;
+    color:var(--faint); font-weight:700;}
+  .gallery{display:grid; grid-template-columns:repeat(auto-fill,minmax(150px,1fr)); gap:12px; max-width:1000px;}
+  .thumb{padding:0; border:1px solid var(--border); background:var(--panel); border-radius:12px;
+    overflow:hidden; cursor:pointer; text-align:left; transition:.15s;}
+  .thumb canvas{width:100%; height:auto; display:block; background:#0a0e13;}
+  .thumb span{display:block; padding:8px 10px; font-size:12px; font-weight:700; color:var(--muted);}
+  .thumb:hover{border-color:var(--accent-border);}
+  .thumb.on{border-color:#22c55e; box-shadow:0 0 0 1px #22c55e;}
+  .thumb.on span{color:var(--accent-2);}
+  .card-desc{list-style:none; padding:0; margin:0; max-width:1000px; display:grid;
+    grid-template-columns:1fr 1fr; gap:8px 20px;}
+  .card-desc li{font-size:13px; color:var(--muted); line-height:1.5; padding-left:15px; position:relative;}
+  .card-desc li:before{content:"›"; position:absolute; left:0; color:var(--accent-2); font-weight:700;}
+  .card-desc li b{color:var(--text); font-weight:700;}
+  .card-desc-note{font-size:12px; color:var(--faint); max-width:820px; margin:12px 0 0; line-height:1.55;}
+  .card-desc-note b{color:var(--muted);}
+  .share-note{margin-top:14px; font-size:12px; color:var(--faint); line-height:1.55; max-width:800px;}
+  .share-note b{color:var(--muted);}
+  @media (max-width:620px){ .card-desc{grid-template-columns:1fr;} }
+</style>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://santroai.tech/"},{"@type":"ListItem","position":2,"name":"Share Cards","item":"https://santroai.tech/share"}]}
+</script>
+<style>
+.sa-crumb{max-width:920px;margin:14px auto 0;padding:0 20px;font-size:13px;color:var(--faint,#6b7684);}
+.sa-crumb a{color:var(--muted,#9aa6b2);text-decoration:none;} .sa-crumb a:hover{color:var(--accent,#22c55e);}
+.sa-grow{max-width:920px;margin:20px auto 0;padding:24px 20px 8px;border-top:1px solid var(--border-soft,#1c2230);display:grid;grid-template-columns:1fr 1fr;gap:14px 28px;}
+@media(max-width:680px){.sa-grow{grid-template-columns:1fr;}}
+.sa-grow h3{font-size:14px;margin:0 0 8px;color:var(--text,#e6edf3);letter-spacing:.02em;}
+.sa-grow ul{margin:0;padding-left:18px;} .sa-grow li{color:var(--muted,#9aa6b2);font-size:14.5px;line-height:1.7;margin-bottom:3px;} .sa-grow a{color:var(--accent,#22c55e);}
+.sa-cta-box{grid-column:1/-1;margin-top:8px;padding:18px 20px;border:1px solid rgba(34,197,94,.28);border-radius:12px;background:rgba(34,197,94,.06);}
+.sa-cta-box b{color:var(--text,#e6edf3);font-size:15.5px;} .sa-cta-box p{color:var(--muted,#9aa6b2);font-size:14px;margin:6px 0 12px;line-height:1.6;}
+.sa-cta-box .sa-cta-btn{display:inline-block;background:var(--accent,#22c55e);color:#fff;padding:9px 17px;border-radius:8px;font-weight:600;font-size:14px;text-decoration:none;}
+.sa-tickers{max-width:920px;margin:6px auto 0;padding:0 20px;font-size:13.5px;color:var(--faint,#6b7684);} .sa-tickers a{color:var(--accent,#22c55e);}
+</style>
+</head>
+<body>
+  <!-- meganav v9 — generated by gen_nav.py; edit NAV there, not here -->
+<link rel="stylesheet" href="/ds-v2/tokens.css?v=3">
+<link rel="stylesheet" href="/ds-v2/primitives.css?v=1">
+<link rel="stylesheet" href="/ds-v2/shell.css?v=1">
+<link rel="stylesheet" href="/ds-v2/remap.css?v=1">
+<link rel="stylesheet" href="/ds-v2/lock.css?v=1">
+<script src="/ds-v2/compliance.js?v=1" defer></script>
+<script src="/ds-v2/gates.js?v=1" defer></script>
+<script src="/ds-v2/lock-copy.js?v=2" defer></script>
+<script src="/ds-v2/events.js?v=1" defer></script>
+<script src="/ds-v2/locks.js?v=2" defer></script>
+<script src="/ds-v2/flags.js?v=5"></script>
+<header class="meganav" id="meganav">
+<style>
+/* santro brand tokens — green is the identity color. Blue is NOT a Santro
+   UI color anywhere (2026-07-08 rule) — never reintroduce it. */
+header.meganav{--sg:#22c55e;--sg-hi:#4ade80;--sg-deep:#15803d;
+  --sg-soft:rgba(34,197,94,.12);--sg-border:rgba(34,197,94,.45);
+  --ramber:#d9a13c;--ramber-border:rgba(217,161,60,.45);}
+header.meganav{display:block;position:relative;z-index:60;background:var(--panel-2,#0c121a);border-bottom:1px solid var(--border,#1d2733);font-family:var(--font-sans, -apple-system,BlinkMacSystemFont,"Inter","Segoe UI",Roboto,Helvetica,Arial,sans-serif);text-align:left;}
+.meganav *{box-sizing:border-box;}
+.meganav .mn-in{max-width:1680px;margin:0 auto;padding:0 clamp(16px,2vw,40px);display:flex;align-items:center;gap:18px;height:56px;}
+.meganav a{text-decoration:none;}
+.meganav .mn-logo{display:flex;align-items:center;gap:8px;flex:0 0 auto;}
+.meganav .mn-ls{font-weight:900;font-size:24px;line-height:.9;
+  background:linear-gradient(165deg,var(--sg-hi) 10%,var(--sg-deep) 90%);
+  -webkit-background-clip:text;background-clip:text;color:transparent;}
+html[data-theme="light"] .meganav .mn-ls{background:linear-gradient(165deg,#16a34a 10%,#14532d 90%);-webkit-background-clip:text;background-clip:text;}
+.meganav .mn-lr{display:flex;flex-direction:column;line-height:1.1;}
+.meganav .mn-lr b{font-weight:800;font-size:14.5px;letter-spacing:.02em;color:var(--text,#e7edf3);}
+.meganav .mn-lr i{font-style:normal;font-size:7.5px;letter-spacing:1.4px;color:var(--faint,#5a6573);font-weight:700;}
+.meganav .mn-beta{font-style:normal;font-size:9px;font-weight:800;letter-spacing:.8px;color:var(--ramber);border:1px solid var(--ramber-border);border-radius:5px;padding:2px 5px;margin-left:2px;}
+.meganav .mn-nav{display:flex;align-items:center;gap:2px;flex:1 1 auto;min-width:0;}
+.meganav .mn-top{appearance:none;background:none;border:0;font:inherit;cursor:pointer;padding:19px 11px;font-size:13.5px;font-weight:600;color:var(--muted,#8895a4);letter-spacing:.2px;border-bottom:2px solid transparent;white-space:nowrap;}
+.meganav .mn-item:hover>.mn-top,.meganav .mn-item.open>.mn-top{color:var(--text,#e7edf3);}
+.meganav .mn-item.on>.mn-top{color:var(--text,#e7edf3);border-bottom-color:var(--sg);}
+.meganav .mn-item{position:static;}
+.meganav .mn-panel{display:none;position:absolute;left:0;right:0;top:56px;background:var(--panel,#111822);border-bottom:1px solid var(--border,#1d2733);box-shadow:0 18px 40px rgba(0,0,0,.45);padding:20px 0 22px;}
+.meganav .mn-item.open>.mn-panel{display:block;}
+@media(hover:hover) and (min-width:1021px){.meganav .mn-item:hover>.mn-panel{display:block;}}
+.meganav .mn-pin{max-width:1680px;margin:0 auto;padding:0 clamp(16px,2vw,40px);}
+.meganav .mn-desc{margin:0 0 14px;font-size:12px;color:var(--faint,#5a6573);font-weight:500;max-width:640px;}
+.meganav .mn-links{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:4px 26px;}
+.meganav .mn-links.mn-w2{grid-template-columns:repeat(2,minmax(0,1fr));max-width:640px;}
+.meganav .mn-link{display:block;padding:9px 10px;border-radius:9px;}
+.meganav .mn-link:hover{background:var(--elev,#16202b);}
+.meganav .mn-link b{display:block;font-size:13.5px;font-weight:700;color:var(--text,#e7edf3);}
+.meganav .mn-link span{display:block;margin-top:2px;font-size:12px;line-height:1.45;color:var(--muted,#8895a4);font-weight:400;}
+.meganav .mn-off{display:block;padding:9px 10px;font-size:13.5px;font-weight:700;color:var(--faint,#5a6573);}
+.meganav .mn-b{font-style:normal;font-size:9.5px;font-weight:800;letter-spacing:.6px;text-transform:uppercase;border-radius:5px;padding:1.5px 6px;margin-left:7px;vertical-align:2px;}
+.meganav .mn-b-live{color:var(--green,#22c55e);border:1px solid rgba(34,197,94,.35);}
+.meganav .mn-b-acct{color:#d9a13c;border:1px solid rgba(217,161,60,.4);}
+.meganav .mn-b-soon{color:var(--faint,#5a6573);border:1px dashed var(--border,#1d2733);}
+.meganav .mn-right{display:flex;align-items:center;gap:10px;flex:0 0 auto;margin-left:auto;}
+.meganav .mn-search{position:relative;}
+.meganav .mn-search .box{display:flex;align-items:center;gap:7px;background:var(--elev,#16202b);border:1px solid var(--border,#1d2733);border-radius:9px;padding:6px 10px;color:var(--faint,#5a6573);}
+.meganav .mn-search input{background:none;border:0;outline:0;color:var(--text,#e7edf3);font:inherit;font-size:13px;width:clamp(140px,14vw,220px);}
+.meganav .mn-search .kbd{font-size:10px;border:1px solid var(--border,#1d2733);border-radius:4px;padding:0 5px;color:var(--faint,#5a6573);}
+.meganav .mn-search .drop{position:absolute;right:0;top:40px;width:330px;max-width:calc(100vw - 24px);background:var(--panel,#111822);border:1px solid var(--border,#1d2733);border-radius:11px;box-shadow:0 16px 34px rgba(0,0,0,.5);overflow:hidden;z-index:70;}
+.meganav .mn-search .sg{display:flex;align-items:center;gap:9px;padding:8px 11px;cursor:pointer;font-size:13px;}
+.meganav .mn-search .sg.active,.meganav .mn-search .sg:hover{background:var(--elev,#16202b);}
+.meganav .mn-search .sg img{width:18px;height:18px;border-radius:4px;}
+.meganav .mn-search .sg .tk{font-weight:800;color:var(--text,#e7edf3);min-width:52px;}
+.meganav .mn-search .sg .nm{color:var(--muted,#8895a4);flex:1;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
+.meganav .mn-search .sg .pc{font-weight:700;font-variant-numeric:tabular-nums;}
+.meganav .mn-search .sg .pc.up{color:var(--green,#22c55e);}.meganav .mn-search .sg .pc.down{color:var(--red,#f05a6e);}
+.meganav .mn-asof{display:none;}
+.meganav .mn-theme{appearance:none;background:var(--elev,#16202b);border:1px solid var(--border,#1d2733);border-radius:9px;width:34px;height:34px;display:flex;align-items:center;justify-content:center;cursor:pointer;color:var(--muted,#8895a4);}
+.meganav .mn-theme:hover{color:var(--text,#e7edf3);border-color:var(--accent-border,#1e4634);}
+.meganav .mn-theme .ic-sun{display:none;}
+html[data-theme="light"] .meganav .mn-theme .ic-sun{display:block;}
+html[data-theme="light"] .meganav .mn-theme .ic-moon{display:none;}
+.meganav .mn-signin{font-size:13px;font-weight:700;color:var(--muted,#8895a4);padding:7px 4px;}
+.meganav .mn-signin:hover{color:var(--text,#e7edf3);}
+.meganav .mn-signup{font-size:13px;font-weight:700;color:var(--sg);background:var(--sg-soft);border:1px solid var(--sg-border);border-radius:9px;padding:7px 13px;white-space:nowrap;}
+.meganav .mn-signup:hover{background:var(--sg);color:#04140b;}
+.meganav .mn-burger{appearance:none;background:none;border:1px solid var(--border,#1d2733);border-radius:9px;width:38px;height:36px;display:none;align-items:center;justify-content:center;cursor:pointer;color:var(--text,#e7edf3);}
+.meganav :is(a,button):focus-visible{outline:2px solid var(--sg);outline-offset:2px;border-radius:6px;}
+.meganav .mn-search .box:focus-within{border-color:var(--sg-border);}
+/* drawer */
+.meganav .mn-drawer{display:none;position:fixed;inset:0;z-index:80;background:var(--bg,#0a0e13);overflow-y:auto;padding:0 16px 28px;}
+.meganav .mn-drawer.open{display:block;}
+.meganav .mnd-head{display:flex;align-items:center;justify-content:space-between;height:56px;margin-bottom:6px;}
+.meganav .mnd-close{appearance:none;background:none;border:1px solid var(--border,#1d2733);border-radius:9px;width:38px;height:36px;font-size:17px;color:var(--text,#e7edf3);cursor:pointer;}
+.meganav .mnd-quick{display:grid;grid-template-columns:1fr 1fr;gap:9px;margin-bottom:14px;}
+.meganav .mnd-quick a{display:block;text-align:center;padding:11px 8px;border:1px solid var(--border,#1d2733);border-radius:10px;font-size:13.5px;font-weight:700;color:var(--text,#e7edf3);background:var(--panel,#111822);}
+.meganav details.mnd-sec{border-bottom:1px solid var(--border-soft,#161e28);}
+.meganav details.mnd-sec summary{list-style:none;display:flex;justify-content:space-between;align-items:center;padding:14px 2px;font-size:12px;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:var(--muted,#8895a4);cursor:pointer;}
+.meganav details.mnd-sec summary::-webkit-details-marker{display:none;}
+.meganav details.mnd-sec summary::after{content:"+";font-size:16px;color:var(--faint,#5a6573);}
+.meganav details.mnd-sec[open] summary::after{content:"\2212";}
+.meganav .mnd-sec a{display:block;padding:9px 2px 9px 10px;font-size:14px;font-weight:600;color:var(--muted,#8895a4);}
+.meganav .mnd-sec a:active,.meganav .mnd-sec a:hover{color:var(--text,#e7edf3);}
+.meganav .mnd-sec .mn-off{padding:9px 2px 9px 10px;font-size:14px;}
+.meganav .mnd-cta{display:grid;grid-template-columns:1fr 1fr;gap:9px;margin:18px 0 10px;}
+.meganav .mnd-cta a{display:block;text-align:center;padding:12px 8px;border-radius:10px;font-size:14px;font-weight:700;}
+.meganav .mnd-cta .a1{background:var(--sg-soft);border:1px solid var(--sg-border);color:var(--sg);}
+.meganav .mnd-cta .a2{border:1px solid var(--border,#1d2733);color:var(--text,#e7edf3);}
+.meganav .mnd-foot{font-size:11px;color:var(--faint,#5a6573);line-height:1.6;margin-top:6px;}
+.meganav .mn-search--drawer{display:none;margin:0 0 14px;}
+.meganav .mn-search--drawer .box{width:100%;}
+.meganav .mn-search--drawer input{width:100%;}
+@media(max-width:1023px){.meganav .mn-drawer.open .mn-search--drawer{display:block;}}
+.meganav .mnd-theme{appearance:none;width:100%;margin:10px 0 0;padding:12px;border:1px solid var(--border,#1d2733);border-radius:10px;background:var(--panel,#111822);color:var(--muted,#8895a4);font:600 13.5px -apple-system,BlinkMacSystemFont,"Inter","Segoe UI",Roboto,sans-serif;cursor:pointer;}
+.meganav .mnd-theme:hover{color:var(--text,#e7edf3);}
+/* nav collapse ladder: >=1366 shows all six groups; 1024-1365 folds
+   Market Maps + Company into More (they stay in the drawer + footer) */
+.meganav .mn-moreitem{display:none;}
+@media(max-width:1365px){
+  .meganav .mn-collapsible{display:none;}
+  .meganav .mn-moreitem{display:block;}
+}
+@media(max-width:1279px){
+  .meganav .mn-beta{display:none;}
+  .meganav .mn-top{padding:19px 9px;font-size:13px;}
+  .meganav .mn-in{gap:12px;}
+  /* search collapses to an icon button; nav.js expands it on demand */
+  .meganav .mn-search:not(.open) input,
+  .meganav .mn-search:not(.open) .kbd{display:none;}
+  .meganav .mn-search:not(.open) .box{width:34px;height:34px;justify-content:center;padding:0;cursor:pointer;}
+  .meganav .mn-search.open input{width:150px;}
+}
+@media(max-width:1023px){
+  .meganav .mn-nav{display:none;}
+  .meganav .mn-burger{display:flex;}
+  .meganav .mn-signin{display:none;}
+  .meganav .mn-search{display:none;}
+  .meganav .mn-theme{display:none;}
+  .meganav #reload{display:none;}
+}
+@media(max-width:760px){
+  .meganav .mn-asof{display:none;}
+  .meganav .mn-signup{display:none;}
+  /* signed-out auth buttons (incl. accounts.js-rendered) live in the drawer
+     on small screens; only the logged-in account chip stays in the bar */
+  .meganav #santro-auth-slot #sa-signin,.meganav #santro-auth-slot .sa-signupbtn{display:none;}
+  .meganav .mn-search input{width:64px;}
+  .meganav .mn-search .kbd{display:none;}
+  .meganav .mn-in{gap:8px;padding:0 12px;}
+  .meganav .mn-right{gap:7px;}
+}
+@media(max-width:479px){
+  /* compact logo for ALL phone widths — the old 389px cutoff missed 390px
+     (iPhone 12-15) by one pixel and the right cluster overflowed the page */
+  .meganav .mn-beta{display:none;}
+  .meganav .mn-lr i{display:none;}
+  .meganav .mn-search input{width:52px;}
+}
+</style>
+<div class="mn-in">
+  <a class="mn-logo" href="/" aria-label="Santro AI — home">
+    <span class="mn-ls">S</span>
+    <span class="mn-lr"><b>Santro&nbsp;AI</b><i>THE&nbsp;AI&nbsp;TRADE&nbsp;TERMINAL</i></span>
+    <em class="mn-beta">Beta</em>
+  </a>
+  <nav class="mn-nav" aria-label="Main">
+    <div class="mn-item" data-menu="terminal">
+      <button class="mn-top" type="button" aria-expanded="false" aria-haspopup="true">Terminal</button>
+      <div class="mn-panel"><div class="mn-pin"><p class="mn-desc">The main Santro market view across AI stocks, ETFs, crypto, hot tickers, and bubble-risk signals.</p><div class="mn-links">
+        <a class="mn-link" href="/terminal"><b>AI Terminal<em class="mn-b mn-b-live">Beta</em></b><span>Bubble map, market tape, hot tickers, and the daily brief.</span></a>
+        <a class="mn-link" href="/stocks"><b>AI Stocks</b><span>101 AI names ranked by heat, research on every ticker.</span></a>
+        <a class="mn-link" href="/crypto"><b>AI Crypto</b><span>AI tokens and rotating crypto baskets.</span></a>
+        <a class="mn-link" href="/etfs"><b>AI ETFs</b><span>40 AI &amp; tech ETFs, broad tech to pure-play robotics.</span></a>
+        <a class="mn-link" href="/news"><b>Market News</b><span>Headlines that move the AI trade.</span></a>
+      </div></div></div>
+    </div><div class="mn-item on" data-menu="tools">
+      <button class="mn-top" type="button" aria-expanded="false" aria-haspopup="true">Tools</button>
+      <div class="mn-panel"><div class="mn-pin"><p class="mn-desc">Every tool is free while Santro is in beta. Scenario outputs, not price targets.</p><div class="mn-links">
+        <a class="mn-link" href="/bubble"><b>AI Bubble Risk<em class="mn-b mn-b-live">Beta</em></b><span>Valuation, momentum, and crowding signals in one gauge.</span></a>
+        <a class="mn-link" href="/bubble#stress"><b>Portfolio Stress Test<em class="mn-b mn-b-live">Beta</em></b><span>Six historical crash scenarios against your portfolio.</span></a>
+        <a class="mn-link" href="/tools/fair-value-calculator"><b>Fair-Value Calculator<em class="mn-b mn-b-live">Beta</em></b><span>DCF, P/E, Graham, and PEG scenario values for any AI ticker.</span></a>
+        <a class="mn-link" href="/quiz"><b>Exposure Check<em class="mn-b mn-b-acct">Account</em></b><span>Calibrate your terminal — universe, concentration, valuation lens, risk watch.</span></a>
+        <a class="mn-link" href="/share"><b>Share Cards<em class="mn-b mn-b-live">Beta</em></b><span>Terminal-grade market cards you can post anywhere.</span></a>
+        <a class="mn-link" href="/evaluate-prompt"><b>Prompt Quality Check<em class="mn-b mn-b-live">Beta</em></b><span>Score any AI trading prompt before you trust it.</span></a>
+        <a class="mn-link" href="/signup"><b>Watchlists &amp; Alerts<em class="mn-b mn-b-acct">Account</em></b><span>Track tickers and get level alerts with a free account.</span></a>
+      </div></div></div>
+    </div><div class="mn-item" data-menu="research">
+      <button class="mn-top" type="button" aria-expanded="false" aria-haspopup="true">Research</button>
+      <div class="mn-panel"><div class="mn-pin"><p class="mn-desc">Filing-verified research. Tweets are leads; filings are sources.</p><div class="mn-links">
+        <a class="mn-link" href="/research"><b>Research Feed</b><span>Curated notes on the AI trade, updated through the day.</span></a>
+        <a class="mn-link" href="/blog"><b>Blog</b><span>Long-form pieces on bubbles, valuation, and AI credit.</span></a>
+        <a class="mn-link" href="/blog/ai-bubble-valuation-history"><b>AI Bubble or Market Reset?</b><span>The flagship read: CAPE, real-terms history, dot-com lessons.</span></a>
+        <a class="mn-link" href="/ipos"><b>IPO Watch</b><span>From pre-filing to priced — 10 AI names, filings verified on EDGAR where public.</span></a>
+        <a class="mn-link" href="/investor-signals"><b>Investor Signal Library<em class="mn-b mn-b-live">Beta</em></b><span>Publicly disclosed positioning, mapped to AI market context.</span></a>
+        <a class="mn-link" href="/stocks/aschenbrenner"><b>Aschenbrenner Basket</b><span>Situational Awareness LP&#x27;s 13F, position by position.</span></a>
+        <a class="mn-link" href="/stocks/burry-short-watch"><b>Burry Short Watch</b><span>Scion&#x27;s disclosed AI puts, verified in filings.</span></a>
+      </div></div></div>
+    </div><div class="mn-item" data-menu="universe">
+      <button class="mn-top" type="button" aria-expanded="false" aria-haspopup="true">AI Universe</button>
+      <div class="mn-panel"><div class="mn-pin"><p class="mn-desc">101 tickers across 8 themes. Hot means attention, not direction.</p><div class="mn-links">
+        <a class="mn-link" href="/stocks"><b>All AI Stocks</b><span>The full universe, ranked by heat.</span></a>
+        <a class="mn-link" href="/stocks/themes/ai-chips-and-compute"><b>AI Chips &amp; Compute</b><span>NVDA, AMD, AVGO and the accelerator complex.</span></a>
+        <a class="mn-link" href="/stocks/themes/ai-software-and-cloud-infrastructure"><b>AI Software &amp; Cloud</b><span>Hyperscalers and the model platforms.</span></a>
+        <a class="mn-link" href="/stocks/themes/powering-ai"><b>Powering AI</b><span>Nuclear, turbines, uranium &amp; the grid behind AI.</span></a>
+        <a class="mn-link" href="/stocks/themes/data-center-power-and-energy"><b>Data-Center Power &amp; Energy</b><span>The electrons behind the GPUs.</span></a>
+        <a class="mn-link" href="/stocks/themes/chip-equipment-and-ai-hardware"><b>Chip Equipment &amp; AI Hardware</b><span>ASML, memory, and the fab supply chain.</span></a>
+        <a class="mn-link" href="/stocks/themes/ai-platforms-internet-and-adtech"><b>AI Platforms &amp; Adtech</b><span>Internet platforms monetizing AI.</span></a>
+        <a class="mn-link" href="/stocks/themes/ai-applications-and-data-software"><b>AI Apps &amp; Data Software</b><span>Applied AI and the data layer.</span></a>
+        <a class="mn-link" href="/stocks/themes/applied-ai-industrial-defense-and-vertical"><b>Applied AI, Industrial &amp; Defense</b><span>Robotics, defense, and vertical AI.</span></a>
+      </div></div></div>
+    </div><div class="mn-item mn-collapsible" data-menu="maps">
+      <button class="mn-top" type="button" aria-expanded="false" aria-haspopup="true">Market Maps</button>
+      <div class="mn-panel"><div class="mn-pin"><p class="mn-desc">Visual entry points into the same delayed data.</p><div class="mn-links mn-w2">
+        <a class="mn-link" href="/terminal"><b>Stock Bubble Map</b><span>101 bubbles sized by the day&#x27;s move, colored by direction.</span></a>
+        <a class="mn-link" href="/crypto"><b>Crypto Movers</b><span>AI tokens ranked by momentum.</span></a>
+        <a class="mn-link" href="/etfs"><b>ETF Map</b><span>Overlap-aware list of the AI ETF complex.</span></a>
+        <a class="mn-link" href="/bubble"><b>Bubble-Risk Gauge</b><span>One dial for the whole AI trade.</span></a>
+        <a class="mn-link" href="/ipos"><b>IPO Pipeline</b><span>Who is filing, who is rumored, who is priced.</span></a>
+      </div></div></div>
+    </div><div class="mn-item mn-collapsible" data-menu="company">
+      <button class="mn-top" type="button" aria-expanded="false" aria-haspopup="true">Company</button>
+      <div class="mn-panel"><div class="mn-pin"><div class="mn-links mn-w2">
+        <a href="/about">About Santro AI</a>
+        <a href="mailto:hello@santroai.tech">Contact</a>
+        <a href="/privacy">Privacy Policy</a>
+        <a href="/terms">Terms of Use</a>
+        <a href="https://x.com/SantroAI" target="_blank" rel="noopener">@SantroAI on X</a>
+        <span class="mn-off">iOS app<em class="mn-b mn-b-soon">Coming soon</em></span>
+        <span class="mn-off">Santro Pro<em class="mn-b mn-b-soon">Coming soon</em></span>
+      </div></div></div>
+    </div><div class="mn-item mn-moreitem" data-menu="more">
+      <button class="mn-top" type="button" aria-expanded="false" aria-haspopup="true">More</button>
+      <div class="mn-panel"><div class="mn-pin"><p class="mn-desc">Maps, company and legal.</p><div class="mn-links">
+        <a class="mn-link" href="/terminal"><b>Stock Bubble Map</b><span>101 bubbles sized by the day&#x27;s move, colored by direction.</span></a>
+        <a class="mn-link" href="/crypto"><b>Crypto Movers</b><span>AI tokens ranked by momentum.</span></a>
+        <a class="mn-link" href="/etfs"><b>ETF Map</b><span>Overlap-aware list of the AI ETF complex.</span></a>
+        <a class="mn-link" href="/bubble"><b>Bubble-Risk Gauge</b><span>One dial for the whole AI trade.</span></a>
+        <a class="mn-link" href="/ipos"><b>IPO Pipeline</b><span>Who is filing, who is rumored, who is priced.</span></a>
+        <a href="/about">About Santro AI</a>
+        <a href="mailto:hello@santroai.tech">Contact</a>
+        <a href="/privacy">Privacy Policy</a>
+        <a href="/terms">Terms of Use</a>
+        <a href="https://x.com/SantroAI" target="_blank" rel="noopener">@SantroAI on X</a>
+        <span class="mn-off">iOS app<em class="mn-b mn-b-soon">Coming soon</em></span>
+        <span class="mn-off">Santro Pro<em class="mn-b mn-b-soon">Coming soon</em></span>
+      </div></div></div>
+    </div>
+  </nav>
+  <div class="mn-right">
+    <div class="mn-search"></div>
+    <span class="mn-asof"></span>
+    <button class="mn-theme" title="Switch day / night mode" aria-label="Toggle day or night mode"><svg class="ic-moon" viewBox="0 0 24 24" width="15" height="15" fill="currentColor" aria-hidden="true"><path d="M20 14.5A8.5 8.5 0 0 1 9.5 4 8.5 8.5 0 1 0 20 14.5Z"/></svg><svg class="ic-sun" viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true"><circle cx="12" cy="12" r="4.1"/><path d="M12 2.6v2.1M12 19.3v2.1M2.6 12h2.1M19.3 12h2.1M5.2 5.2l1.5 1.5M17.3 17.3l1.5 1.5M18.8 5.2l-1.5 1.5M6.7 17.3l-1.5 1.5"/></svg></button>
+    <span id="santro-auth-slot"><a class="mn-signin" href="/signin">Sign in</a><a class="mn-signup" href="/signup">Sign up</a></span>
+    <button class="mn-burger" type="button" aria-label="Open menu" aria-expanded="false" aria-controls="mn-drawer"><svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="M3 6h18M3 12h18M3 18h18"/></svg></button>
+  </div>
+</div>
+<div class="mn-drawer" id="mn-drawer" role="dialog" aria-label="Menu" aria-modal="true">
+  <div class="mnd-head">
+    <span class="mn-ls">S</span>
+    <button class="mnd-close" type="button" aria-label="Close menu">✕</button>
+  </div>
+  <div class="mn-search mn-search--drawer"></div>
+  <div class="mnd-quick">
+    <a href="/terminal">AI Terminal</a><a href="/stocks">AI Stocks</a>
+    <a href="/crypto">AI Crypto</a><a href="/etfs">AI ETFs</a>
+  </div>
+  <details class="mnd-sec"><summary>Terminal</summary>
+      <a href="/terminal">AI Terminal<em class="mn-b mn-b-live">Beta</em></a>
+        <a href="/stocks">AI Stocks</a>
+        <a href="/crypto">AI Crypto</a>
+        <a href="/etfs">AI ETFs</a>
+        <a href="/news">Market News</a>
+    </details><details class="mnd-sec"><summary>Tools</summary>
+      <a href="/bubble">AI Bubble Risk<em class="mn-b mn-b-live">Beta</em></a>
+        <a href="/bubble#stress">Portfolio Stress Test<em class="mn-b mn-b-live">Beta</em></a>
+        <a href="/tools/fair-value-calculator">Fair-Value Calculator<em class="mn-b mn-b-live">Beta</em></a>
+        <a href="/quiz">Exposure Check<em class="mn-b mn-b-acct">Account</em></a>
+        <a href="/share">Share Cards<em class="mn-b mn-b-live">Beta</em></a>
+        <a href="/evaluate-prompt">Prompt Quality Check<em class="mn-b mn-b-live">Beta</em></a>
+        <a href="/signup">Watchlists &amp; Alerts<em class="mn-b mn-b-acct">Account</em></a>
+    </details><details class="mnd-sec"><summary>Research</summary>
+      <a href="/research">Research Feed</a>
+        <a href="/blog">Blog</a>
+        <a href="/blog/ai-bubble-valuation-history">AI Bubble or Market Reset?</a>
+        <a href="/ipos">IPO Watch</a>
+        <a href="/investor-signals">Investor Signal Library<em class="mn-b mn-b-live">Beta</em></a>
+        <a href="/stocks/aschenbrenner">Aschenbrenner Basket</a>
+        <a href="/stocks/burry-short-watch">Burry Short Watch</a>
+    </details><details class="mnd-sec"><summary>AI Universe</summary>
+      <a href="/stocks">All AI Stocks</a>
+        <a href="/stocks/themes/ai-chips-and-compute">AI Chips &amp; Compute</a>
+        <a href="/stocks/themes/ai-software-and-cloud-infrastructure">AI Software &amp; Cloud</a>
+        <a href="/stocks/themes/powering-ai">Powering AI</a>
+        <a href="/stocks/themes/data-center-power-and-energy">Data-Center Power &amp; Energy</a>
+        <a href="/stocks/themes/chip-equipment-and-ai-hardware">Chip Equipment &amp; AI Hardware</a>
+        <a href="/stocks/themes/ai-platforms-internet-and-adtech">AI Platforms &amp; Adtech</a>
+        <a href="/stocks/themes/ai-applications-and-data-software">AI Apps &amp; Data Software</a>
+        <a href="/stocks/themes/applied-ai-industrial-defense-and-vertical">Applied AI, Industrial &amp; Defense</a>
+    </details><details class="mnd-sec"><summary>Market Maps</summary>
+      <a href="/terminal">Stock Bubble Map</a>
+        <a href="/crypto">Crypto Movers</a>
+        <a href="/etfs">ETF Map</a>
+        <a href="/bubble">Bubble-Risk Gauge</a>
+        <a href="/ipos">IPO Pipeline</a>
+    </details><details class="mnd-sec"><summary>Company</summary>
+      <a href="/about">About Santro AI</a>
+        <a href="mailto:hello@santroai.tech">Contact</a>
+        <a href="/privacy">Privacy Policy</a>
+        <a href="/terms">Terms of Use</a>
+        <a href="https://x.com/SantroAI" target="_blank" rel="noopener">@SantroAI on X</a>
+        <span class="mn-off">iOS app<em class="mn-b mn-b-soon">Coming soon</em></span>
+        <span class="mn-off">Santro Pro<em class="mn-b mn-b-soon">Coming soon</em></span>
+    </details>
+  <div class="mnd-cta">
+    <a class="a1" href="/signup">Create free account</a>
+    <a class="a2" href="/signin">Sign in</a>
+  </div>
+  <button class="mnd-theme" type="button">Switch day / night mode</button>
+  <p class="mnd-foot">Hot means attention, not direction.<br>Quotes delayed ~15 min. Real-time data planned for Pro. Not financial advice.</p>
+</div>
+<script src="/nav.js?v=9" defer></script>
+</header>
+
+  <main>
+  <nav class="sa-crumb" aria-label="Breadcrumb"><a href="/">Home</a> › Share Cards</nav>
+    <h1>Share cards <span class="badge" id="asof">…</span></h1>
+    <p class="lede">Finished, branded market cards — ready to screenshot or post.
+    <b>Hot means attention, not direction.</b> Auto-built from the delayed market tape; quotes delayed ~15 min. Not financial advice.</p>
+
+    <div class="cardstage">
+      <canvas id="card" width="1200" height="630" role="img" aria-label="Shareable Santro AI card"></canvas>
+    </div>
+    <div class="actions">
+      <button class="btn primary" id="dl">⬇ Download PNG</button>
+      <button class="btn ghost" id="cp">⧉ Copy image</button>
+      <a class="btn ghost" id="tw" target="_blank" rel="noopener">𝕏 Post on X</a>
+      <span class="ok-flash" id="flash"></span>
+    </div>
+
+    <div class="gallery-label">Pick a card</div>
+    <div class="gallery" id="gallery"></div>
+
+    <div class="gallery-label">What each card shows</div>
+    <ul class="card-desc">
+      <li><b>Today's AI movers</b> — a share-ready snapshot of the strongest AI tickers by attention and price move.</li>
+      <li><b>Hot tickers</b> — the names getting the most attention, with what's moving the standout (reason, source, heat) plus the rest of the scan.</li>
+      <li><b>AI bubble risk</b> — the daily AI bubble-risk score (0–100) in one image.</li>
+      <li><b>Winners / losers</b> — the day's top AI gainers and losers, side by side.</li>
+      <li><b>AI crypto movers</b> — the top AI crypto tokens by 24h move.</li>
+      <li><b>AI trade in 60 seconds</b> — the whole tape at a glance: market mood, strongest/weakest sector, top mover and bubble risk.</li>
+    </ul>
+    <p class="card-desc-note">Every card is branded with the Santro AI logo, the date, tickers and % moves,
+    the <b>santroai.tech</b> watermark, a delayed-data note, and the slogan <b>“hot means attention, not direction.”</b></p>
+
+    <div class="share-note">Tip: <b>Copy image</b> and paste straight into a post, or <b>Download</b> and attach it.
+    “Post on X” opens a prefilled tweet — paste or attach the card (X can't auto-attach images from a link).</div>
+  </main>
+
+<style>
+.sa-explainer{max-width:920px;margin:8px auto 0;padding:26px 20px 6px;border-top:1px solid var(--border-soft,#1c2230);}
+.sa-explainer h2{font-size:21px;margin:22px 0 8px;}
+.sa-explainer h3{font-size:16px;margin:18px 0 4px;}
+.sa-explainer p,.sa-explainer li{color:var(--muted,#9aa6b2);font-size:15px;line-height:1.65;}
+.sa-explainer li{margin-bottom:5px;}
+.sa-explainer b{color:var(--text,#e6edf3);}
+.sa-explainer a{color:var(--accent,#22c55e);}
+.sa-explainer .cta{margin-top:16px;}
+.sa-explainer .nfa-note{color:var(--faint,#6b7684);font-size:13px;margin-top:14px;}
+</style>
+<section class="sa-explainer">
+  <h2>What the share cards are</h2>
+  <p>Finished, branded market cards &mdash; sized to screenshot or post straight to X or Telegram, no editing needed. Each
+    card is built from the same delayed data the rest of the site runs on, with the delay note and "not financial advice"
+    baked in so you can share responsibly.</p>
+  <h3>Card types</h3>
+  <ul>
+    <li><b>AI movers</b> &mdash; the day's biggest moves across the AI universe, as a bubble snapshot.</li>
+    <li><b>Hot tickers</b> &mdash; the attention leaders, with the sourced reason each is moving.</li>
+    <li><b>Top winners &amp; losers</b> &mdash; the clean leaderboard, both sides of the tape.</li>
+    <li><b>AI bubble risk</b> &mdash; the current 0&ndash;100 score and its band, for the "how frothy is it" post.</li>
+    <li><b>AI crypto movers</b> &mdash; the same treatment for the top AI tokens.</li>
+  </ul>
+  <p><b>"Hot" means attention, not direction</b> &mdash; a mover card shows what is moving and how hard, not what to buy.</p>
+  <p class="cta">Pull the data behind the cards from the <a href="/stocks">stocks map</a>, the <a href="/crypto">crypto
+    map</a> and the <a href="/bubble">bubble-risk index</a>.</p>
+  <p class="nfa-note">Cards use delayed data and carry a not-financial-advice note.</p>
+</section>
+
+
+<section class="sa-grow">
+    <div>
+      <h3>RELATED READING</h3>
+      <ul>
+        <li><a href="/blog/spacex-attention-ai-infrastructure">SpaceX is the attention magnet — the real trade is AI infrastructure</a></li>
+        <li><a href="/blog/ai-trading-prompt-engineering">If your AI trading prompt is garbage, your strategy will be too</a></li>
+      </ul>
+    </div>
+    <div>
+      <h3>SANTRO AI TOOLS</h3>
+      <ul>
+        <li><a href="/bubble">Check the AI bubble-risk index</a></li>
+        <li><a href="/etfs">Compare AI ETFs</a></li>
+        <li><a href="/crypto">AI crypto movers</a></li>
+        <li><a href="/stocks">AI stocks bubble map</a></li>
+        <li><a href="/share">Create a share card</a></li>
+      </ul>
+    </div>
+    <div class="sa-cta-box">
+      <b>Run the numbers yourself — free.</b>
+      <p>Create a free Santro AI account to run unlimited fair-value valuations, save a watchlist, and keep your valuation history. Five free runs even without an account; no card required.</p>
+      <a class="sa-cta-btn" href="/?auth=register">Create a free account &rarr;</a>
+    </div>
+  </section>
+
+  <!-- mega-footer v1 -->
+<footer class="mega">
+<style>
+footer.mega{display:block;text-align:left;margin-top:48px;padding:0;border-top:1px solid var(--border,#1d2733);background:transparent;font-family:var(--font-sans, -apple-system,BlinkMacSystemFont,"Inter","Segoe UI",Roboto,Helvetica,Arial,sans-serif);}
+.mega .mg-in{max-width:1680px;margin:0 auto;padding:34px clamp(16px,2vw,40px) 26px;}
+.mega .mg-top{display:flex;justify-content:space-between;align-items:flex-start;gap:28px;flex-wrap:wrap;padding-bottom:26px;border-bottom:1px solid var(--border-soft,#161e28);}
+.mega .mg-logo{font-size:17px;font-weight:800;letter-spacing:.4px;color:var(--text,#e7edf3);}
+.mega .mg-logo span{color:#22c55e;}
+.mega .mg-tag{font-size:11px;font-weight:700;letter-spacing:1.4px;text-transform:uppercase;color:var(--faint,#5a6573);margin-top:2px;}
+.mega .mg-line{margin:10px 0 0;max-width:420px;font-size:13px;line-height:1.55;color:var(--muted,#8895a4);font-weight:400;}
+.mega .mg-slogan{margin:8px 0 0;font-size:12.5px;font-style:italic;color:var(--faint,#5a6573);font-weight:400;}
+.mega .mg-brief{max-width:360px;}
+.mega .mg-btitle{font-size:14px;font-weight:700;color:var(--text,#e7edf3);}
+.mega .mg-bsub{margin:6px 0 12px;font-size:12.5px;line-height:1.5;color:var(--muted,#8895a4);font-weight:400;}
+.mega .mg-brow{display:flex;align-items:center;gap:10px;flex-wrap:wrap;}
+.mega a.mg-cta{display:inline-block;padding:8px 16px;border-radius:9px;background:rgba(34,197,94,.12);border:1px solid rgba(34,197,94,.45);color:#22c55e;font-size:13px;font-weight:700;text-decoration:none;}
+.mega a.mg-cta:hover{background:#22c55e;color:#04140b;}
+.mega .mg-soon{font-size:11.5px;font-weight:600;color:var(--faint,#5a6573);border:1px dashed var(--border,#1d2733);border-radius:999px;padding:5px 10px;white-space:nowrap;}
+.mega .mg-priv{margin:10px 0 0;font-size:11px;line-height:1.5;color:var(--faint,#5a6573);font-weight:400;}
+.mega .mg-priv a{color:var(--muted,#8895a4);font-weight:600;text-decoration:none;}
+.mega .mg-priv a:hover{color:var(--text,#e7edf3);}
+.mega .mg-cols{display:grid;grid-template-columns:repeat(5,1fr);gap:22px;padding:26px 0;border-bottom:1px solid var(--border-soft,#161e28);}
+.mega .mg-col h4{margin:0 0 10px;font-size:11px;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:var(--faint,#5a6573);}
+.mega .mg-col ul{list-style:none;margin:0;padding:0;}
+.mega .mg-col li{margin:0;}
+.mega .mg-col a{display:inline-block;padding:4px 0;font-size:13px;font-weight:500;color:var(--muted,#8895a4);text-decoration:none;}
+.mega .mg-col a:hover{color:var(--text,#e7edf3);}
+.mega .mg-col .mg-off{display:inline-block;padding:4px 0;font-size:13px;color:var(--faint,#5a6573);}
+.mega .mg-bottom{display:flex;justify-content:space-between;align-items:center;gap:8px 24px;flex-wrap:wrap;padding-top:18px;font-size:11.5px;color:var(--faint,#5a6573);}
+.mega .mg-bottom .mg-nfa{color:var(--muted,#8895a4);font-weight:700;font-style:normal;}
+.mega .mg-bottom a{color:var(--muted,#8895a4);font-weight:600;text-decoration:none;padding:2px 0;}
+.mega .mg-bottom a:hover{color:var(--text,#e7edf3);}
+.mega .mg-note{flex-basis:100%;font-size:10.5px;color:var(--faint,#5a6573);opacity:.75;}
+.mega a:focus-visible{outline:2px solid #22c55e;outline-offset:2px;border-radius:4px;}
+@media(max-width:900px){
+  .mega .mg-in{padding:28px 16px 22px;}
+  .mega .mg-top{flex-direction:column;gap:20px;padding-bottom:22px;}
+  .mega .mg-cols{grid-template-columns:repeat(2,1fr);gap:18px 14px;padding:22px 0;}
+  .mega .mg-col a{padding:6px 0;}
+  .mega .mg-bottom{flex-direction:column;align-items:flex-start;gap:8px;}
+}
+@media(max-width:640px){
+  .mega .mg-cols{grid-template-columns:1fr;gap:0;padding:6px 0;}
+  .mega .mg-col{border-bottom:1px solid var(--border-soft,#161e28);}
+  .mega .mg-col:last-child{border-bottom:0;}
+  .mega .mg-col h4{margin:0;padding:14px 2px;display:flex;justify-content:space-between;align-items:center;}
+  .mega .mg-col ul{padding:0 2px 12px;}
+  .mega.mg-acc .mg-col h4{cursor:pointer;}
+  .mega.mg-acc .mg-col h4::after{content:"+";font-size:15px;line-height:1;color:var(--faint,#5a6573);font-weight:600;}
+  .mega.mg-acc .mg-col.open h4::after{content:"\2212";}
+  .mega.mg-acc .mg-col:not(.open) ul{display:none;}
+}
+</style>
+<div class="mg-in">
+  <div class="mg-top">
+    <div class="mg-brand">
+      <div class="mg-logo">Santro <span>AI</span></div>
+      <div class="mg-tag">The AI Trade Terminal</div>
+      <p class="mg-line">The AI trade terminal for stocks, ETFs, crypto, hot tickers, valuation tools, and bubble-risk signals.</p>
+      <p class="mg-slogan">Hot means attention, not direction.</p>
+    </div>
+    <div class="mg-brief">
+      <div class="mg-btitle">Get the AI market brief</div>
+      <p class="mg-bsub">Hot tickers, bubble-risk changes, valuation notes, and AI market research.</p>
+      <div class="mg-brow">
+        <a class="mg-cta" href="/signup">Create a free account</a>
+        <span class="mg-soon">Email brief — coming soon</span>
+      </div>
+      <p class="mg-priv">The brief will be opt-in when it launches, and you can unsubscribe anytime. <a href="/privacy">Privacy</a></p>
+    </div>
+  </div>
+  <div class="mg-cols">
+    <div class="mg-col">
+      <h4>Terminal</h4>
+      <ul>
+        <li><a href="/terminal">AI Terminal</a></li>
+        <li><a href="/stocks">AI Stocks</a></li>
+        <li><a href="/crypto">AI Crypto</a></li>
+        <li><a href="/etfs">AI ETFs</a></li>
+        <li><a href="/bubble">AI Bubble Risk</a></li>
+        <li><a href="/news">Market News</a></li>
+      </ul>
+    </div>
+    <div class="mg-col">
+      <h4>Tools</h4>
+      <ul>
+        <li><a href="/bubble#stress">Portfolio Stress Test</a></li>
+        <li><a href="/quiz">Exposure Check</a></li>
+        <li><a href="/share">Share Cards</a></li>
+        <li><a href="/evaluate-prompt">Prompt Quality Check</a></li>
+        <li><a href="/signup">Watchlists &amp; Alerts — free account</a></li>
+      </ul>
+    </div>
+    <div class="mg-col">
+      <h4>Research</h4>
+      <ul>
+        <li><a href="/research">Research Feed</a></li>
+        <li><a href="/blog">Blog</a></li>
+        <li><a href="/blog/ai-bubble-valuation-history">AI Bubble or Market Reset?</a></li>
+        <li><a href="/ipos">IPO Watch</a></li>
+        <li><a href="/stocks/aschenbrenner">Aschenbrenner Basket</a></li>
+        <li><a href="/stocks/burry-short-watch">Burry Short Watch</a></li>
+      </ul>
+    </div>
+    <div class="mg-col">
+      <h4>AI Themes</h4>
+      <ul>
+        <li><a href="/stocks/themes/ai-chips-and-compute">AI Chips &amp; Compute</a></li>
+        <li><a href="/stocks/themes/ai-software-and-cloud-infrastructure">AI Software &amp; Cloud</a></li>
+        <li><a href="/stocks/themes/powering-ai">Powering AI</a></li>
+        <li><a href="/stocks/themes/data-center-power-and-energy">Data-Center Power &amp; Energy</a></li>
+        <li><a href="/stocks/themes/chip-equipment-and-ai-hardware">Chip Equipment &amp; AI Hardware</a></li>
+        <li><a href="/stocks/themes/ai-platforms-internet-and-adtech">AI Platforms &amp; Adtech</a></li>
+        <li><a href="/stocks/themes/ai-applications-and-data-software">AI Apps &amp; Data Software</a></li>
+      </ul>
+    </div>
+    <div class="mg-col">
+      <h4>Company</h4>
+      <ul>
+        <li><a href="/about">About Santro AI</a></li>
+        <li><a href="/methodology">Methodology</a></li>
+        <li><a href="/research">Data &amp; sources</a></li>
+        <li><a href="mailto:hello@santroai.tech">Contact</a></li>
+        <li><a href="/privacy">Privacy Policy</a></li>
+        <li><a href="/terms">Terms of Use</a></li>
+        <li><a href="https://x.com/SantroAI" target="_blank" rel="noopener">@SantroAI on X</a></li>
+        <li><span class="mg-off">iOS app — coming soon</span></li>
+      </ul>
+    </div>
+  </div>
+  <div class="mg-bottom">
+    <span>© 2026 Santro AI. All rights reserved. Uses custom models.</span>
+    <span>Quotes delayed ~15 min. Real-time data planned for Pro. <b class="mg-nfa">Not financial advice.</b></span>
+    <span><a href="/privacy">Privacy</a> · <a href="/terms">Terms</a> · <a href="mailto:hello@santroai.tech">Contact</a></span>
+    <!--MG_EXTRA-->
+  </div>
+</div>
+<script>(function(){var mq=window.matchMedia("(max-width:640px)");var mega=document.querySelector("footer.mega");if(!mega)return;
+function arm(){if(!mq.matches||mega.classList.contains("mg-acc"))return;mega.classList.add("mg-acc");
+mega.querySelectorAll(".mg-col h4").forEach(function(h){h.setAttribute("role","button");h.setAttribute("tabindex","0");h.setAttribute("aria-expanded","false");
+function t(){if(!mq.matches)return;var c=h.parentElement;c.classList.toggle("open");h.setAttribute("aria-expanded",String(c.classList.contains("open")));}
+h.addEventListener("click",t);h.addEventListener("keydown",function(e){if(e.key==="Enter"||e.key===" "){e.preventDefault();t();}});});}
+arm();mq.addEventListener?mq.addEventListener("change",arm):mq.addListener(arm);})();</script>
+</footer>
+
+<script>
+const W=1200, H=630;
+const C=document.getElementById("card"), X=C.getContext("2d");
+const F="Arial, Helvetica, sans-serif";
+const fmtPct=x=>(x>=0?"+":"")+Number(x||0).toFixed(2)+"%";
+const fmtPct1=x=>(x>=0?"+":"")+Number(x||0).toFixed(1)+"%";
+function timeAgo(iso){ if(!iso) return ""; const m=Math.round((Date.now()-new Date(iso))/60000);
+  if(isNaN(m)) return ""; if(m<1) return "now"; if(m<60) return m+"m ago"; const h=Math.round(m/60);
+  if(h<24) return h+"h ago"; return Math.round(h/24)+"d ago"; }
+function domainOf(u){ try{ return new URL(u).hostname.replace(/^www\./,""); }catch(e){ return ""; } }
+function riskColor(v){ if(v==null) return "#8895a4"; if(v<25) return "#22c55e"; if(v<45) return "#69cd91";
+  if(v<60) return "#e0a73f"; if(v<80) return "#f05a6e"; return "#b91c1c"; }
+function pillarDriver(ix){
+  const P=[["valuation","Valuation"],["capitalFlows","Market Concentration"],["adoption","Momentum & Technical"],
+           ["sentiment","Sentiment & Hype"],["systemicRisk","Systemic Risk"]];
+  let best=null; P.forEach(([k,nm])=>{ if(ix[k]!=null && (!best||ix[k]>best.v)) best={nm,v:ix[k]}; }); return best; }
+function rr(x,y,w,h,r){ X.beginPath(); X.moveTo(x+r,y); X.arcTo(x+w,y,x+w,y+h,r);
+  X.arcTo(x+w,y+h,x,y+h,r); X.arcTo(x,y+h,x,y,r); X.arcTo(x,y,x+w,y,r); X.closePath(); }
+function wrap(text,x,y,maxW,lh,maxLines){
+  const words=String(text).split(/\s+/); let line="", n=0;
+  for(let i=0;i<words.length;i++){
+    const test=line?line+" "+words[i]:words[i];
+    if(X.measureText(test).width>maxW && line){
+      X.fillText(line,x,y); line=words[i]; y+=lh; n++;
+      if(maxLines && n>=maxLines-1){ // last line, ellipsis if needed
+        let rest=words.slice(i).join(" ");
+        while(X.measureText(rest+"…").width>maxW && rest.length) rest=rest.slice(0,-1);
+        X.fillText(rest+(words.slice(i).join(" ").length>rest.length?"…":""),x,y); return y;
+      }
+    } else line=test;
+  }
+  if(line) X.fillText(line,x,y);
+  return y;
+}
+
+let universe=null, bubbleIx=null, crypto=null, hot=null, asof="";
+
+function bg(){ X.fillStyle="#0a0e13"; X.fillRect(0,0,W,H);
+  X.strokeStyle="#1c2834"; X.lineWidth=2; X.strokeRect(1,1,W-2,H-2); }
+function frame(label){
+  X.textAlign="left"; X.textBaseline="alphabetic";
+  X.fillStyle="#22c55e"; X.fillRect(0,0,W,6);
+  X.fillStyle="#4ade80"; X.font="800 40px "+F; X.fillText("S",44,66);
+  X.fillStyle="#e7edf3"; X.font="800 30px "+F; X.fillText("ANTRO AI",82,64);
+  X.fillStyle="#22c55e"; X.font="700 22px "+F; X.textAlign="right"; X.fillText("santroai.tech",W-44,44); X.textAlign="left";
+  X.fillStyle="#5e6b78"; X.font="700 13px "+F; X.fillText(label.toUpperCase(),46,94);
+  X.strokeStyle="#1d2733"; X.lineWidth=2; X.beginPath(); X.moveTo(40,108); X.lineTo(W-40,108); X.stroke();
+}
+function foot(){
+  X.strokeStyle="#1d2733"; X.lineWidth=2; X.beginPath(); X.moveTo(40,562); X.lineTo(W-40,562); X.stroke();
+  X.fillStyle="#4ade80"; X.font="700 19px "+F; X.textAlign="left";
+  X.fillText("Hot means attention, not direction.",44,596);
+  X.fillStyle="#5e6b78"; X.font="400 14px "+F; X.textAlign="right";
+  X.fillText((asof?asof+"  ·  ":"")+"Not financial advice · quotes delayed ~15 min",W-44,596);
+  X.textAlign="left";
+}
+function bigTitle(t){ X.fillStyle="#e7edf3"; X.font="800 34px "+F; X.fillText(t,44,152); }
+
+function uniRows(){ const a=[]; ((universe&&universe.bubbles)||[]).forEach(b=>(b.tickers||[]).forEach(t=>{ if(t.price!=null&&t.change_pct!=null) a.push(t); })); return a; }
+
+function listCard(label,title,rows,getLabel,getSub,getVal){
+  bg(); frame(label); bigTitle(title);
+  const max=Math.max(...rows.map(getVal).map(Math.abs),1);
+  const barX=380, barW=W-44-barX-130; let y=182; const rh=Math.min(46,(548-182)/Math.max(rows.length,1));
+  rows.forEach(r=>{
+    const v=getVal(r), up=v>=0, col=up?"#22c55e":"#f0596e";
+    X.fillStyle="#e7edf3"; X.font="700 23px "+F; X.fillText(getLabel(r),46,y+24);
+    X.fillStyle="#5e6b78"; X.font="400 13px "+F; X.fillText((getSub(r)||"").slice(0,30),46,y+40);
+    X.fillStyle="#141c25"; rr(barX,y+8,barW,20,6); X.fill();
+    X.fillStyle=col; rr(barX,y+8,Math.max(4,(Math.abs(v)/max)*barW),20,6); X.fill();
+    X.fillStyle=col; X.font="800 21px "+F; X.textAlign="right"; X.fillText(fmtPct(v),W-44,y+25); X.textAlign="left";
+    y+=rh;
+  });
+  foot();
+}
+
+function cardMovers(){
+  const rows=uniRows().sort((a,b)=>Math.abs(b.change_pct)-Math.abs(a.change_pct)).slice(0,8);
+  listCard("Today's movers","Today's AI movers",rows,t=>t.ticker,t=>t.company,t=>t.change_pct);
+}
+function cardCrypto(){
+  const coins=((crypto&&crypto.baskets&&crypto.baskets.bigdata&&crypto.baskets.bigdata.coins)||[]).slice(0,8);
+  listCard("AI crypto","AI crypto — top tokens",coins,c=>c.symbol,c=>c.name,c=>c.change_24h);
+}
+function cardWinLose(){
+  bg(); frame("Winners & losers"); bigTitle("Top 5 winners / losers");
+  const all=uniRows();
+  const win=all.filter(t=>t.change_pct>0).sort((a,b)=>b.change_pct-a.change_pct).slice(0,5);
+  const los=all.filter(t=>t.change_pct<0).sort((a,b)=>a.change_pct-b.change_pct).slice(0,5);
+  X.strokeStyle="#1d2733"; X.lineWidth=2; X.beginPath(); X.moveTo(W/2,184); X.lineTo(W/2,548); X.stroke();
+  function colside(head,list,c,x){
+    X.fillStyle=c; X.font="700 16px "+F; X.fillText(head.toUpperCase(),x,202);
+    let y=232;
+    list.forEach(t=>{
+      X.fillStyle="#e7edf3"; X.font="700 25px "+F; X.fillText(t.ticker,x,y+24);
+      X.fillStyle="#5e6b78"; X.font="400 13px "+F; X.fillText((t.company||"").slice(0,24),x,y+44);
+      X.fillStyle=c; X.font="800 25px "+F; X.textAlign="right"; X.fillText(fmtPct(t.change_pct),x+500,y+30); X.textAlign="left";
+      y+=62;
+    });
+    if(!list.length){ X.fillStyle="#5e6b78"; X.font="400 18px "+F; X.fillText("None this session.",x,236); }
+  }
+  colside("Winners",win,"#22c55e",46);
+  colside("Losers",los,"#f0596e",W/2+34);
+  foot();
+}
+function cardRisk(){
+  bg(); frame("AI bubble risk"); bigTitle("AI bubble risk");
+  const ix=bubbleIx&&bubbleIx.index;
+  if(!ix){ X.fillStyle="#8b97a5"; X.font="400 20px "+F; X.fillText("Index feed unavailable.",44,210); foot(); return; }
+  const v=ix.overall||0, c=riskColor(v);
+  X.fillStyle=c; X.font="800 150px "+F; X.fillText(String(Math.round(v)),44,300);
+  const nw=X.measureText(String(Math.round(v))).width;
+  X.fillStyle="#5e6b78"; X.font="700 26px "+F; X.fillText("/ 100",60+nw,250);
+  X.fillStyle=c; X.font="800 34px "+F; X.fillText((ix.label||"").toUpperCase(),60+nw,294);
+  const gx=46,gy=336,gw=W-92,gh=18;
+  const g=X.createLinearGradient(gx,0,gx+gw,0);
+  g.addColorStop(0,"#22c55e"); g.addColorStop(.5,"#e0a73f"); g.addColorStop(1,"#b91c1c");
+  X.fillStyle=g; rr(gx,gy,gw,gh,9); X.fill();
+  const mx=gx+Math.max(0,Math.min(100,v))/100*gw;
+  X.fillStyle="#fff"; X.beginPath(); X.arc(mx,gy+gh/2,13,0,7); X.fill();
+  X.lineWidth=3; X.strokeStyle="#0a0e13"; X.stroke();
+  X.fillStyle="#5e6b78"; X.font="400 13px "+F; X.fillText("0 · cold",gx,gy+40);
+  X.textAlign="right"; X.fillText("100 · mania",gx+gw,gy+40); X.textAlign="left";
+  const pill=[["valuation","Valuation"],["capitalFlows","Market Concentration"],["adoption","Momentum & Technical"],["sentiment","Sentiment & Hype"],["systemicRisk","Systemic Risk"]];
+  let px=46; const cw=(W-92)/5;
+  pill.forEach(([k,nm])=>{
+    X.fillStyle="#5e6b78"; X.font="700 13px "+F; X.fillText(nm.toUpperCase(),px,452);
+    X.fillStyle=riskColor(ix[k]); X.font="800 38px "+F; X.fillText(ix[k]==null?"—":String(Math.round(ix[k])),px,496);
+    px+=cw;
+  });
+  foot();
+}
+function cardHot(){
+  bg(); frame("Hot tickers"); bigTitle("Today's hot tickers");
+  const rows=((hot&&hot.hot_tickers)||[]);
+  if(!rows.length){
+    X.fillStyle="#8b97a5"; X.font="400 22px "+F;
+    X.fillText("The tape is quiet — no hot tickers this scan.",44,214); foot(); return;
+  }
+  // grid of hot tickers — each tile: ticker, move, heat·sector, short reason
+  const pad=44, gap=20, colW=(W-2*pad-gap)/2, tileH=116, rowGap=12, startY=174;
+  rows.slice(0,6).forEach((r,i)=>{
+    const x=pad+(i%2)*(colW+gap), y=startY+Math.floor(i/2)*(tileH+rowGap);
+    const col=(r.move_pct||0)>=0?"#22c55e":"#f0596e";
+    X.fillStyle="#10151c"; rr(x,y,colW,tileH,12); X.fill();
+    X.strokeStyle="#1c2733"; X.lineWidth=1.5; rr(x,y,colW,tileH,12); X.stroke();
+    X.textAlign="left"; X.fillStyle="#e7edf3"; X.font="800 27px "+F; X.fillText(r.ticker,x+18,y+37);
+    X.fillStyle=col; X.font="800 23px "+F; X.textAlign="right"; X.fillText(fmtPct(r.move_pct),x+colW-18,y+36); X.textAlign="left";
+    X.fillStyle="#7d8a98"; X.font="400 13px "+F;
+    X.fillText(("Heat "+(r.heat_score!=null?r.heat_score:"—")+(r.sector?" · "+String(r.sector).split(":")[0]:"")).slice(0,46),x+18,y+59);
+    const reason = r.catalyst_type==="no_news_mover" ? "No clear catalyst — attention, not news." : (r.why||"—");
+    X.fillStyle="#c4ccd6"; X.font="400 15px "+F;
+    wrap(reason,x+18,y+84,colW-36,20,2);
+  });
+  foot();
+}
+
+function cardSixty(){
+  bg(); frame("AI trade in 60 seconds"); bigTitle("AI trade in 60 seconds");
+  if(!universe||!universe.bubbles){ X.fillStyle="#8b97a5"; X.font="400 20px "+F; X.fillText("Data unavailable.",46,210); foot(); return; }
+  const tk=[]; universe.bubbles.forEach(b=>(b.tickers||[]).forEach(t=>{ if(t.change_pct!=null) tk.push(t); }));
+  const secs=universe.bubbles.filter(b=>b.avg_change_pct!=null);
+  const tot=tk.length, up=tk.filter(t=>t.change_pct>0).length, breadth=tot?Math.round(up/tot*100):0;
+  const mood=breadth>=58?"Risk-on":breadth<=42?"Risk-off":"Mixed";
+  const sBy=[...secs].sort((a,b)=>b.avg_change_pct-a.avg_change_pct), strong=sBy[0], weak=sBy[sBy.length-1];
+  const byMove=[...tk].sort((a,b)=>Math.abs(b.change_pct)-Math.abs(a.change_pct)), top=byMove[0]||{ticker:"—",change_pct:0};
+  const nn=((hot&&hot.hot_tickers)||[]).find(t=>t.catalyst_type==="no_news_mover");
+  let weird,wtag;
+  if(nn){ weird={ticker:nn.ticker,change_pct:nn.move_pct}; wtag="no catalyst"; }
+  else { const w=byMove.find(t=>t.ticker!==top.ticker&&(t.market_cap_b||9999)<60)||byMove[1]||top; weird=w; wtag=(w.market_cap_b||0)<60?"small-cap":"outlier"; }
+  const ix=bubbleIx&&bubbleIx.index;
+  if(ix){
+    X.fillStyle="#5e6b78"; X.font="700 13px "+F; X.fillText("AI BUBBLE RISK",46,196);
+    X.fillStyle=riskColor(ix.overall); X.font="800 70px "+F; X.fillText(String(Math.round(ix.overall)),46,262);
+    const nw=X.measureText(String(Math.round(ix.overall))).width;
+    X.fillStyle="#8b97a5"; X.font="700 20px "+F; X.fillText("/100 · "+(ix.label||""),58+nw,236);
+    const drv=pillarDriver(ix); X.fillStyle="#8b97a5"; X.font="400 16px "+F;
+    X.fillText("Top driver: "+(drv?drv.nm+" ("+Math.round(drv.v)+")":"—"),58+nw,260);
+    const hist=(bubbleIx.history||[]).map(p=>p.v).filter(v=>v!=null).slice(-60);
+    if(hist.length>1){ const mn=Math.min(...hist),mx=Math.max(...hist),rg=(mx-mn)||1, sx=46,sy=284,sw=360,sh=42;
+      X.strokeStyle=riskColor(hist[hist.length-1]); X.lineWidth=2; X.beginPath();
+      hist.forEach((v,i)=>{ const px=sx+i/(hist.length-1)*sw, py=sy+sh-((v-mn)/rg)*sh; i?X.lineTo(px,py):X.moveTo(px,py); }); X.stroke(); }
+  }
+  const stat=(x,y,k,v,vc,s)=>{ X.fillStyle="#5e6b78"; X.font="700 13px "+F; X.fillText(k.toUpperCase(),x,y);
+    X.fillStyle=vc||"#e7edf3"; X.font="800 25px "+F; X.fillText(v,x,y+31);
+    if(s){ X.fillStyle="#8b97a5"; X.font="400 15px "+F; X.fillText(s,x,y+53); } };
+  const cA=470, cB=830;
+  stat(cA,196,"Market mood",mood,mood==="Risk-on"?"#22c55e":mood==="Risk-off"?"#f0596e":"#e7edf3",breadth+"% of "+tot+" up");
+  stat(cB,196,"Top mover",top.ticker,top.change_pct>=0?"#22c55e":"#f0596e",fmtPct(top.change_pct));
+  stat(cA,286,"Strongest sector",(strong?strong.label:"—").slice(0,22),"#22c55e",strong?fmtPct(strong.avg_change_pct):"");
+  stat(cB,286,"Weakest sector",(weak?weak.label:"—").slice(0,22),"#f0596e",weak?fmtPct(weak.avg_change_pct):"");
+  stat(cA,376,"Weirdest mover",weird.ticker,weird.change_pct>=0?"#22c55e":"#f0596e",fmtPct(weird.change_pct)+" · "+wtag);
+  let note;
+  if(ix && breadth>=58 && ix.overall>=58) note=`Broad green, but the bubble gauge is hot at ${ix.overall} — strength and froth at once.`;
+  else if(ix && breadth<=42 && ix.overall<45) note=`Tape mostly red, yet the gauge is calm at ${ix.overall} — fear without froth.`;
+  else if(strong&&weak) note=`${strong.label} leads while ${weak.label} lags — rotation within the AI trade.`;
+  else note=`Mixed tape — no single signal dominates.`;
+  X.fillStyle="#5e6b78"; X.font="700 13px "+F; X.fillText("CONTRARIAN READ",46,444);
+  X.fillStyle="#e7edf3"; X.font="600 24px "+F; wrap(note,46,478,W-92,34,2);
+  foot();
+}
+
+// Aschenbrenner Public AI Infrastructure Basket — source-gated summary card.
+// Curated names, kept in sync with /stocks/aschenbrenner. Top/weakest mover use
+// live feed data when available, else show an honest "needs live data" line —
+// never invented values. Public disclosures only.
+const ASCH_HOLDINGS=["NBIS","BE","VST","CEG","CRWV","IREN","CORZ","APLD","CIFR"];
+const ASCH_ENERGY={BE:1,VST:1,CEG:1};
+function aschMoves(){
+  const out={}; uniRows().forEach(t=>{
+    if(ASCH_HOLDINGS.indexOf(t.ticker)!==-1 && t.change_pct!=null) out[t.ticker]=t.change_pct; });
+  return out;
+}
+function aschChip(txt,x,y,energy){
+  X.font="700 18px "+F; const w=X.measureText(txt).width+26;
+  X.fillStyle=energy?"rgba(224,167,63,.12)":"#141c25"; rr(x,y,w,34,9); X.fill();
+  X.strokeStyle=energy?"rgba(224,167,63,.45)":"#26303c"; X.lineWidth=1.5; rr(x,y,w,34,9); X.stroke();
+  X.fillStyle=energy?"#e0a73f":"#e7edf3"; X.textAlign="left"; X.fillText(txt,x+13,y+23);
+  return x+w+10;
+}
+function cardAschenbrenner(){
+  bg(); frame("Aschenbrenner basket"); bigTitle("Aschenbrenner AI Infra Basket");
+  X.textAlign="left";
+  X.fillStyle="#8b97a5"; X.font="400 18px "+F;
+  X.fillText("Public disclosures & reputable-media-reported positions — source-gated.",46,186);
+
+  X.fillStyle="#4ade80"; X.font="800 46px "+F; X.fillText(String(ASCH_HOLDINGS.length),46,252);
+  X.fillStyle="#8b97a5"; X.font="700 16px "+F; X.fillText("reported holdings",110,252);
+
+  X.fillStyle="#5e6b78"; X.font="700 13px "+F; X.fillText("HIGHEST CONFIDENCE",46,292);
+  X.fillStyle="#e7edf3"; X.font="700 22px "+F; X.fillText("NBIS · Nebius — reported 5.6% 13G stake",46,320);
+  X.fillStyle="#e0a73f"; X.font="700 13px "+F; X.fillText("ENERGY / POWER CORE",46,356);
+  X.fillStyle="#e7edf3"; X.font="700 22px "+F; X.fillText("BE · VST · CEG — on-site, gas & nuclear power",46,384);
+
+  const mv=aschMoves(), keys=Object.keys(mv);
+  X.fillStyle="#5e6b78"; X.font="700 13px "+F; X.fillText("TOP / WEAKEST MOVER",46,420);
+  if(keys.length){
+    keys.sort((a,b)=>mv[b]-mv[a]); const s=keys[0], wk=keys[keys.length-1];
+    X.fillStyle="#22c55e"; X.font="800 22px "+F; X.fillText(s+" "+fmtPct1(mv[s]),46,448);
+    X.fillStyle="#f0596e"; X.fillText(wk+" "+fmtPct1(mv[wk]),320,448);
+  } else {
+    X.fillStyle="#8b97a5"; X.font="italic 18px "+F; X.fillText("Needs live data verification",46,447);
+  }
+
+  let cx=46; ASCH_HOLDINGS.forEach(tk=>{ cx=aschChip(tk,cx,476,ASCH_ENERGY[tk]); });
+  X.fillStyle="#5e6b78"; X.font="700 15px "+F; X.fillText("Public disclosures only.",46,540);
+  foot();
+}
+
+// Michael Burry — reported AI short (put) positions. Source-gated; notional
+// figures are the reported underlying-share value, NOT capital at risk. Not a
+// prediction. Kept in sync with /stocks/burry.
+const BURRY_SHORTS=[
+  {tk:"PLTR", co:"Palantir", type:"put options", notional:"~$912M"},
+  {tk:"NVDA", co:"Nvidia",   type:"put options", notional:"~$187M"}
+];
+function cardBurry(){
+  bg(); frame("Michael Burry · AI shorts"); bigTitle("Burry's Reported AI Shorts");
+  X.textAlign="left";
+  X.fillStyle="#8b97a5"; X.font="400 18px "+F;
+  X.fillText("Publicly disclosed (13F) put positions vs AI stocks — source-gated.",46,186);
+
+  X.fillStyle="#f0596e"; X.font="800 46px "+F; X.fillText(String(BURRY_SHORTS.length),46,258);
+  X.fillStyle="#8b97a5"; X.font="700 16px "+F; X.fillText("reported AI shorts",112,258);
+
+  let y=312;
+  BURRY_SHORTS.forEach(function(p){
+    X.textAlign="left";
+    X.fillStyle="#e7edf3"; X.font="800 27px "+F; X.fillText(p.tk,46,y);
+    X.fillStyle="#8b97a5"; X.font="400 16px "+F; X.fillText(p.co+" · "+p.type,150,y-1);
+    X.fillStyle="#f0596e"; X.font="800 26px "+F; X.textAlign="right"; X.fillText(p.notional+" notional",W-44,y); X.textAlign="left";
+    y+=54;
+  });
+
+  X.fillStyle="#e0a73f"; X.font="700 14px "+F;
+  X.fillText("Notional ≠ capital at risk  ·  puts may be hedges  ·  quarter-end snapshot",46,y+22);
+  X.fillStyle="#8b97a5"; X.font="italic 17px "+F; X.fillText("Q3 2025 13F · not a prediction.",46,y+48);
+  X.fillStyle="#5e6b78"; X.font="700 15px "+F; X.fillText("Public disclosures only.",46,540);
+  foot();
+}
+
+// ── CONTEXT CARDS: stock + valuation (opened from ticker pages) ──────────
+// /share?type=stock&ticker=VRT      → card about THAT stock (never generic)
+// /share?type=valuation&ticker=VRT&state=<localStorage key> → the valuation just run
+let CTX={tk:null}, eco=null;
+function findTicker(tk){
+  let row=uniRows().find(t=>t.ticker===tk)||null, basket=null;
+  ((universe&&universe.bubbles)||[]).forEach(b=>{ if((b.tickers||[]).some(t=>t.ticker===tk)) basket=b.label||b.id; });
+  if(!row && eco && eco.tickers) row=(eco.tickers||[]).find(t=>t.ticker===tk)||null;
+  return {row, basket};
+}
+function cardStock(){
+  bg(); frame("Stock snapshot");
+  const tk=CTX.tk||"—", f=findTicker(tk), t=f.row;
+  if(!t){ bigTitle(tk); X.fillStyle="#8b97a5"; X.font="400 20px "+F;
+    X.fillText("No live data for this ticker right now — try again in a minute.",44,210); foot(); return; }
+  X.fillStyle="#e7edf3"; X.font="800 62px "+F; X.fillText(tk,44,196);
+  const tkw=X.measureText(tk).width;   // measured at 62px BEFORE the font changes
+  X.fillStyle="#8b97a5"; X.font="600 25px "+F; X.fillText((t.company||"").slice(0,34),44+tkw+18,196);
+  const priceStr="$"+Number(t.price||0).toFixed(2);
+  X.fillStyle="#e7edf3"; X.font="800 44px "+F; X.fillText(priceStr,44,258);
+  const up=(t.change_pct||0)>=0;
+  X.fillStyle=up?"#22c55e":"#f0596e"; X.font="800 34px "+F;
+  X.fillText(fmtPct(t.change_pct),44+(function(){X.font="800 44px "+F;return X.measureText(priceStr).width;})()+20,254);
+  const perf=t.perf||{}; let px=44;
+  [["1D",t.change_pct],["1W",perf["1W"]],["1M",perf["1M"]],["1Y",perf["1Y"]]].forEach(([k,v])=>{
+    if(v==null)return; const c=v>=0?"#22c55e":"#f0596e";
+    X.font="700 18px "+F; const label=k+" "+fmtPct1(v); const w=X.measureText(label).width+26;
+    X.fillStyle="#141c25"; rr(px,284,w,36,9); X.fill(); X.strokeStyle="#26303c"; X.lineWidth=1.5; rr(px,284,w,36,9); X.stroke();
+    X.fillStyle=c; X.fillText(label,px+13,309); px+=w+10; });
+  const stat=(x,k,v)=>{ X.fillStyle="#5e6b78"; X.font="700 13px "+F; X.fillText(k.toUpperCase(),x,378);
+    X.fillStyle="#e7edf3"; X.font="800 26px "+F; X.fillText(String(v).slice(0,22),x,410); };
+  const cap=t.market_cap_b?(t.market_cap_b>=1000?"$"+(t.market_cap_b/1000).toFixed(2)+"T":"$"+Math.round(t.market_cap_b)+"B"):"—";
+  stat(44,"Market cap",cap);
+  stat(300,"P/E",t.pe==null?"—":t.pe);
+  stat(470,"Volume",t.volume?(t.volume>=1e9?(t.volume/1e9).toFixed(1)+"B":(t.volume/1e6).toFixed(1)+"M"):"—");
+  stat(680,"AI theme",(f.basket||"—"));
+  X.fillStyle="#5e6b78"; X.font="700 13px "+F; X.fillText("INDUSTRY",44,462);
+  X.fillStyle="#c4ccd6"; X.font="600 21px "+F; X.fillText(((t.industry||"—")+(t.sector?" · "+t.sector:"")).slice(0,60),44,492);
+  const ix=bubbleIx&&bubbleIx.index;
+  X.fillStyle="#5e6b78"; X.font="700 13px "+F; X.fillText("AI BUBBLE CONTEXT",680,462);
+  if(ix){ X.fillStyle=riskColor(ix.overall); X.font="800 27px "+F; X.fillText(Math.round(ix.overall)+"/100 · "+(ix.label||""),680,494); }
+  else { X.fillStyle="#8b97a5"; X.font="400 19px "+F; X.fillText("Index unavailable",680,492); }
+  foot();
+}
+const MODEL_NM={dcf:"DCF · 10-yr two-stage",pe:"Fair P/E multiple",graham:"Graham (1974 revised)",peg:"Lynch PEG"};
+function valPayload(){
+  try{
+    const key=new URLSearchParams(location.search).get("state")||"santro_share_val";
+    if(!/^[A-Za-z0-9_-]{1,64}$/.test(key)) return null;
+    const p=JSON.parse(localStorage.getItem(key)||"null");
+    if(p && p.tk && (!CTX.tk || p.tk===CTX.tk)) return p;
+  }catch(e){}
+  return null;
+}
+function cardValuation(){
+  bg(); frame("Valuation scenario");
+  const p=valPayload();
+  if(!p){ bigTitle(CTX.tk||"Valuation"); X.fillStyle="#8b97a5"; X.font="400 20px "+F;
+    X.fillText("No valuation to show — run one on the ticker page, then press Share valuation card.",44,210); foot(); return; }
+  X.fillStyle="#e7edf3"; X.font="800 52px "+F; X.fillText(p.tk,44,188);
+  X.fillStyle="#8b97a5"; X.font="600 24px "+F;
+  X.fillText((p.co||"").slice(0,36),44+(function(){X.font="800 52px "+F;return X.measureText(p.tk).width;})()+16,188);
+  X.fillStyle="#5e6b78"; X.font="700 13px "+F; X.fillText("MODEL",44,234);
+  X.fillStyle="#e7edf3"; X.font="700 24px "+F; X.fillText(MODEL_NM[p.model]||String(p.model||"").toUpperCase(),44,264);
+  const asmp=["Earnings base $"+Number(p.eps||0).toFixed(2)+"/sh"];
+  if(p.model==="pe") asmp.push("Target multiple "+p.mult+"×");
+  else if(p.model==="graham"){ asmp.push("Growth "+p.growth+"%"); asmp.push("AAA yield "+p.aaayield+"%"); }
+  else if(p.model==="peg"){ asmp.push("PEG "+p.peg+"×"); asmp.push("Growth "+p.growth+"%"); }
+  else { asmp.push("Growth "+p.growth+"%/yr · "+(p.years||10)+" yrs"); asmp.push("Discount "+p.discount+"%"); }
+  X.fillStyle="#5e6b78"; X.font="700 13px "+F; X.fillText("YOUR ASSUMPTIONS",44,306);
+  X.fillStyle="#c4ccd6"; X.font="600 21px "+F; X.fillText(asmp.join("  ·  ").slice(0,88),44,336);
+  const over=(p.prem||0)>=0;
+  X.fillStyle="#5e6b78"; X.font="700 13px "+F; X.fillText("SCENARIO FAIR VALUE",44,392);
+  X.fillStyle="#22c55e"; X.font="800 56px "+F; X.fillText("$"+Number(p.fair||0).toFixed(2),44,448);
+  X.fillStyle="#5e6b78"; X.font="700 13px "+F; X.fillText("PRICE VS SCENARIO",430,392);
+  X.fillStyle=over?"#f0596e":"#22c55e"; X.font="800 42px "+F;
+  X.fillText(fmtPct(p.prem)+(over?" premium":" discount"),430,442);
+  X.fillStyle="#5e6b78"; X.font="700 13px "+F; X.fillText("LAST PRICE",880,392);
+  X.fillStyle="#e7edf3"; X.font="800 42px "+F; X.fillText("$"+Number(p.price||0).toFixed(2),880,442);
+  X.fillStyle="#e0a73f"; X.font="700 16px "+F;
+  X.fillText("Scenario, not a forecast — the output follows your inputs.",44,516);
+  foot();
+}
+
+const RENDER={burry:cardBurry, aschenbrenner:cardAschenbrenner, movers:cardMovers, hot:cardHot, risk:cardRisk, sixty:cardSixty, winlose:cardWinLose, crypto:cardCrypto};
+const GAL=[["burry","Michael Burry AI shorts"],["aschenbrenner","Aschenbrenner basket"],["movers","Today's AI movers"],["hot","Hot tickers"],["risk","AI bubble risk"],
+           ["winlose","Winners / losers"],["crypto","AI crypto movers"],["sixty","60 seconds"]];
+let current="movers";
+function render(){ try{ (RENDER[current]||cardMovers)(); }catch(e){ console.error(e); } updateTweet(); }
+
+const CAP={sixty:"The AI trade in 60 seconds", movers:"Today's AI movers", hot:"Today's hot AI tickers",
+  winlose:"Top 5 AI winners & losers", risk:"AI bubble-risk score", crypto:"Top AI crypto movers",
+  aschenbrenner:"Aschenbrenner AI Infrastructure Basket", burry:"Michael Burry's reported AI shorts"};
+function updateTweet(){
+  const txt=CAP[current]+" — via Santro AI. Hot means attention, not direction.";
+  document.getElementById("tw").href="https://twitter.com/intent/tweet?text="+encodeURIComponent(txt)+"&url="+encodeURIComponent("https://santroai.tech/share");
+}
+
+function flash(msg){ const f=document.getElementById("flash"); f.textContent=msg; f.classList.add("show");
+  setTimeout(()=>f.classList.remove("show"),1800); }
+function fname(){ return "santro-"+(CTX.tk?CTX.tk.toLowerCase()+"-":"")+current+"-"+new Date().toISOString().slice(0,10)+".png"; }
+document.getElementById("dl").addEventListener("click",()=>{
+  C.toBlob(b=>{ const a=document.createElement("a"); a.href=URL.createObjectURL(b); a.download=fname();
+    a.click(); setTimeout(()=>URL.revokeObjectURL(a.href),3000); flash("Downloaded ✓"); },"image/png");
+});
+document.getElementById("cp").addEventListener("click",async()=>{
+  try{
+    if(!navigator.clipboard || !window.ClipboardItem) throw new Error("no clipboard");
+    const b=await new Promise(r=>C.toBlob(r,"image/png"));
+    await navigator.clipboard.write([new ClipboardItem({"image/png":b})]);
+    flash("Copied ✓ — paste into your post");
+  }catch(e){ flash("Copy unsupported here — use Download"); }
+});
+
+function select(key){
+  if(!RENDER[key]) return;
+  current=key;
+  document.querySelectorAll(".thumb").forEach(t=>t.classList.toggle("on",t.dataset.v===key));
+  render();
+  document.querySelector(".cardstage").scrollIntoView({behavior:"smooth",block:"nearest"});
+}
+// render every card type once into a thumbnail (prefilled previews) — the page
+// reads as a gallery of finished assets, not a form
+function buildGallery(){
+  const g=document.getElementById("gallery"); g.innerHTML="";
+  for(const [key,label] of GAL){
+    const btn=document.createElement("button"); btn.className="thumb"+(key===current?" on":""); btn.dataset.v=key;
+    const tc=document.createElement("canvas"); tc.width=300; tc.height=158;
+    const cap=document.createElement("span"); cap.textContent=label;
+    btn.appendChild(tc); btn.appendChild(cap); g.appendChild(btn);
+    try{ (RENDER[key]||cardMovers)(); tc.getContext("2d").drawImage(C,0,0,300,158); }catch(e){}
+    btn.addEventListener("click",()=>select(key));
+  }
+}
+
+async function getJSON(u){ try{ return await (await fetch(u+"?t="+Date.now())).json(); }catch(e){ return null; } }
+async function fetchData(){
+  const [d,u,b,c,h,e]=await Promise.all([
+    getJSON("data.json"), getJSON("universe.json"), getJSON("bubble_index.json"),
+    getJSON("crypto.json"), getJSON("hot_tickers.json"), getJSON("ecosystem.json")]);
+  if(u) universe=u; if(b) bubbleIx=b; if(c) crypto=c; if(h) hot=h; if(e) eco=e;
+  if(d&&d.as_of_local) asof=d.as_of_local;
+  document.getElementById("asof").textContent = asof ? "As of "+asof : "Live data";
+}
+async function load(){
+  await fetchData();
+  const Q=new URLSearchParams(location.search);
+  // context cards from ticker pages — the ticker's card, never the generic one
+  const type=Q.get("type"), tk=(Q.get("ticker")||"").toUpperCase().replace(/[^A-Z0-9.\-]/g,"");
+  if(type==="stock" && tk){
+    CTX.tk=tk; RENDER.stock=cardStock; CAP.stock=tk+" stock snapshot";
+    GAL.unshift(["stock",tk+" stock card"]); current="stock";
+  } else if(type==="valuation" && tk){
+    CTX.tk=tk; RENDER.valuation=cardValuation; CAP.valuation=tk+" valuation scenario";
+    GAL.unshift(["valuation",tk+" valuation card"]); current="valuation";
+  }
+  const q=Q.get("card");
+  if(q && RENDER[q]) current=q;
+  buildGallery();
+  render();
+}
+// Keep the cards on the delayed market tape: re-fetch + redraw every 60s so a tab left
+// open never freezes on a stale snapshot (an open share page used to show the
+// previous session's moves until manually reloaded). Preserves the selected card.
+async function refresh(){ await fetchData(); buildGallery(); render(); }
+load();
+setInterval(refresh, 60000);
+</script>
+</body>
+</html>

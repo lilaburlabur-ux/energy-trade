@@ -1,0 +1,63 @@
+name: AI Universe refresh
+
+# Full data update (bubble map, NVIDIA ecosystem, OG cards, IPOs) pinned to the
+# US market OPEN and CLOSE, plus a midday refresh — Mon–Fri only.
+# Quotes are ~15-min delayed, so we fire ~15 min AFTER each bell to actually
+# capture the opening / closing prints. GitHub cron is UTC and has no DST, so
+# each bell has two entries — one for EDT, one for EST. Only one is the real
+# 09:30 / 16:00 ET each season; the other lands in pre/after-market (harmless).
+on:
+  schedule:
+    - cron: "45 13 * * 1-5"   # market OPEN  09:45 ET (EDT, 13:45 UTC)
+    - cron: "45 14 * * 1-5"   # market OPEN  09:45 ET (EST, 14:45 UTC)
+    - cron: "0 17 * * 1-5"    # midday
+    - cron: "15 20 * * 1-5"   # market CLOSE 16:15 ET (EDT, 20:15 UTC)
+    - cron: "15 21 * * 1-5"   # market CLOSE 16:15 ET (EST, 21:15 UTC)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: universe-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install yfinance pillow
+
+      - name: Refresh universe quotes
+        run: python update_universe.py
+
+      - name: Refresh NVIDIA Ecosystem
+        run: python update_ecosystem.py
+
+      - name: Render OG preview image (today's movers)
+        run: python make_og.py || true
+
+      - name: Refresh AI IPOs
+        run: python update_ipos.py || true
+
+      - name: Commit and publish
+        run: |
+          git config user.name "santro-universe-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add universe.json ecosystem.json assets/og-map.png assets/og-crypto.png ipos.json
+          if ! git diff --cached --quiet; then
+            git commit -m "universe refresh $(date -u +'%Y-%m-%d %H:%M UTC')"
+            for i in $(seq 1 6); do
+              git pull --rebase -X theirs origin main && git push && break
+              git rebase --abort 2>/dev/null || true
+              sleep $((RANDOM % 6 + 3))
+            done
+          fi

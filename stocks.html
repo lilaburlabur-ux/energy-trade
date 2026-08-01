@@ -1,0 +1,995 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<meta name="theme-color" content="#0a0e13" />
+<meta name="mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-title" content="Santro AI" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+<title>AI Stocks Bubble Map — Hot Tickers &amp; Sector Signals | Santro AI</title>
+<link rel="icon" href="/assets/favicon.svg" type="image/svg+xml" />
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32.png" />
+<link rel="icon" type="image/png" sizes="48x48" href="/assets/favicon-48.png" />
+<link rel="icon" type="image/png" sizes="96x96" href="/assets/favicon-96.png" />
+<link rel="apple-touch-icon" href="/assets/apple-touch-icon.png" />
+<link rel="manifest" href="/manifest.json" />
+<meta name="description" content="Track AI stocks across semiconductors, memory, power, data centers, software and infrastructure with bubble maps and delayed market data. Hot means attention, not direction. Not financial advice." />
+<link rel="canonical" href="https://santroai.tech/stocks" />
+<meta property="og:site_name" content="Santro AI" />
+<meta property="og:title" content="AI Stocks Bubble Map — Hot Tickers &amp; Sector Signals | Santro AI" />
+<meta property="og:description" content="Track AI stocks across semiconductors, memory, power, data centers, software and infrastructure with bubble maps and delayed market data. Hot means attention, not direction. Not financial advice." />
+<meta property="og:url" content="https://santroai.tech/stocks" />
+<meta property="og:image" content="https://santroai.tech/assets/og-map.png" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image" content="https://santroai.tech/assets/og-map.png" />
+<meta property="og:type" content="website" />
+<script>try{document.documentElement.dataset.theme=localStorage.getItem("santro-theme")||"dark";}catch(e){}</script>
+<link rel="stylesheet" href="site.css?v=14" />
+<link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin />
+<script src="https://cdn.jsdelivr.net/npm/echarts@5/dist/echarts.min.js"></script>
+<style>
+  .mapwrap{background:var(--panel); border:1px solid var(--border); border-radius:var(--radius); overflow:hidden;}
+  .mapwrap h2{margin:0; padding:13px 16px; font-size:11px; font-weight:600; letter-spacing:.8px;
+    text-transform:uppercase; color:var(--muted); border-bottom:1px solid var(--border-soft);
+    display:flex; align-items:center; gap:9px; flex-wrap:wrap;}
+  .legend{display:flex; align-items:center; gap:7px; font-size:10px; color:var(--faint); margin-left:auto;}
+  .legend .bar{width:110px;height:8px;border-radius:99px;background:linear-gradient(to right,
+    #700f19,#b91c1c,#ef4444,#f77b7b,#262a2e,#69cd91,#22c55e,#15803d,#0a522d);}
+  #chart{width:100%; height:520px;}
+  .detail{margin-top:14px;}
+  .seg{display:inline-flex; gap:2px; background:var(--panel-2); border:1px solid var(--border);
+    border-radius:9px; padding:2px;}
+  .seg-btn{border:1px solid transparent; background:transparent; color:var(--muted); font:inherit;
+    font-size:11px; font-weight:600; letter-spacing:.4px; padding:4px 10px; border-radius:7px;
+    cursor:pointer; text-transform:uppercase;}
+  .seg-btn.active{background:var(--accent-soft); color:var(--accent-2); border-color:var(--accent-border);}
+  .seg-btn:hover{color:var(--text);}
+  .sec-label{margin:14px 0 6px; font-size:10px; letter-spacing:.7px; text-transform:uppercase;
+    color:var(--faint); font-weight:700;}
+  .pchip{display:inline-flex; gap:7px; align-items:baseline; background:var(--panel-2);
+    border:1px solid var(--border-soft); border-radius:8px; padding:5px 11px;
+    font-size:12.5px; font-weight:600; margin:0 6px 6px 0;}
+  .pchip .k{color:var(--faint); font-size:10px; text-transform:uppercase; letter-spacing:.5px;}
+  /* sector member table — every ticker links to its own page */
+  .sect-tbl{width:100%; border-collapse:collapse; font-size:13px;}
+  @media (max-width:640px){ .sect-tbl{display:block; overflow-x:auto; -webkit-overflow-scrolling:touch;} }
+  .sect-tbl th{font-size:9.5px; text-transform:uppercase; letter-spacing:.6px; color:var(--faint);
+    text-align:left; font-weight:700; padding:2px 10px 7px; border-bottom:1px solid var(--border);}
+  .sect-tbl td{padding:6px 10px; border-bottom:1px solid var(--border-soft);}
+  .sect-tbl tbody tr:last-child td{border-bottom:0;}
+  .sect-tbl tbody tr:hover{background:var(--elev);}
+  .sect-tbl .num{text-align:right; font-variant-numeric:tabular-nums;}
+  .sect-tbl .co{color:var(--muted); font-size:12px; max-width:240px; white-space:nowrap;
+    overflow:hidden; text-overflow:ellipsis;}
+  .sect-tbl a{color:var(--text); font-weight:700; text-decoration:none;}
+  .sect-tbl a:hover{color:var(--accent-2);}
+  @media (max-width:760px){ .sect-tbl .co{display:none;} }
+</style>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://santroai.tech/"},{"@type":"ListItem","position":2,"name":"AI Stocks","item":"https://santroai.tech/stocks"}]}
+</script>
+<style>
+.sa-crumb{max-width:920px;margin:14px auto 0;padding:0 20px;font-size:13px;color:var(--faint,#6b7684);}
+.sa-crumb a{color:var(--muted,#9aa6b2);text-decoration:none;} .sa-crumb a:hover{color:var(--accent,#22c55e);}
+.sa-grow{max-width:920px;margin:20px auto 0;padding:24px 20px 8px;border-top:1px solid var(--border-soft,#1c2230);display:grid;grid-template-columns:1fr 1fr;gap:14px 28px;}
+@media(max-width:680px){.sa-grow{grid-template-columns:1fr;}}
+.sa-grow h3{font-size:14px;margin:0 0 8px;color:var(--text,#e6edf3);letter-spacing:.02em;}
+.sa-grow ul{margin:0;padding-left:18px;} .sa-grow li{color:var(--muted,#9aa6b2);font-size:14.5px;line-height:1.7;margin-bottom:3px;} .sa-grow a{color:var(--accent,#22c55e);}
+.sa-cta-box{grid-column:1/-1;margin-top:8px;padding:18px 20px;border:1px solid rgba(34,197,94,.28);border-radius:12px;background:rgba(34,197,94,.06);}
+.sa-cta-box b{color:var(--text,#e6edf3);font-size:15.5px;} .sa-cta-box p{color:var(--muted,#9aa6b2);font-size:14px;margin:6px 0 12px;line-height:1.6;}
+.sa-cta-box .sa-cta-btn{display:inline-block;background:var(--accent,#22c55e);color:#fff;padding:9px 17px;border-radius:8px;font-weight:600;font-size:14px;text-decoration:none;}
+.sa-tickers{max-width:920px;margin:6px auto 0;padding:0 20px;font-size:13.5px;color:var(--faint,#6b7684);} .sa-tickers a{color:var(--accent,#22c55e);}
+</style>
+</head>
+<body>
+  <!-- meganav v9 — generated by gen_nav.py; edit NAV there, not here -->
+<link rel="stylesheet" href="/ds-v2/tokens.css?v=3">
+<link rel="stylesheet" href="/ds-v2/primitives.css?v=1">
+<link rel="stylesheet" href="/ds-v2/shell.css?v=1">
+<link rel="stylesheet" href="/ds-v2/remap.css?v=1">
+<link rel="stylesheet" href="/ds-v2/lock.css?v=1">
+<script src="/ds-v2/compliance.js?v=1" defer></script>
+<script src="/ds-v2/gates.js?v=1" defer></script>
+<script src="/ds-v2/lock-copy.js?v=2" defer></script>
+<script src="/ds-v2/events.js?v=1" defer></script>
+<script src="/ds-v2/locks.js?v=2" defer></script>
+<script src="/ds-v2/flags.js?v=5"></script>
+<header class="meganav" id="meganav">
+<style>
+/* santro brand tokens — green is the identity color. Blue is NOT a Santro
+   UI color anywhere (2026-07-08 rule) — never reintroduce it. */
+header.meganav{--sg:#22c55e;--sg-hi:#4ade80;--sg-deep:#15803d;
+  --sg-soft:rgba(34,197,94,.12);--sg-border:rgba(34,197,94,.45);
+  --ramber:#d9a13c;--ramber-border:rgba(217,161,60,.45);}
+header.meganav{display:block;position:relative;z-index:60;background:var(--panel-2,#0c121a);border-bottom:1px solid var(--border,#1d2733);font-family:var(--font-sans, -apple-system,BlinkMacSystemFont,"Inter","Segoe UI",Roboto,Helvetica,Arial,sans-serif);text-align:left;}
+.meganav *{box-sizing:border-box;}
+.meganav .mn-in{max-width:1680px;margin:0 auto;padding:0 clamp(16px,2vw,40px);display:flex;align-items:center;gap:18px;height:56px;}
+.meganav a{text-decoration:none;}
+.meganav .mn-logo{display:flex;align-items:center;gap:8px;flex:0 0 auto;}
+.meganav .mn-ls{font-weight:900;font-size:24px;line-height:.9;
+  background:linear-gradient(165deg,var(--sg-hi) 10%,var(--sg-deep) 90%);
+  -webkit-background-clip:text;background-clip:text;color:transparent;}
+html[data-theme="light"] .meganav .mn-ls{background:linear-gradient(165deg,#16a34a 10%,#14532d 90%);-webkit-background-clip:text;background-clip:text;}
+.meganav .mn-lr{display:flex;flex-direction:column;line-height:1.1;}
+.meganav .mn-lr b{font-weight:800;font-size:14.5px;letter-spacing:.02em;color:var(--text,#e7edf3);}
+.meganav .mn-lr i{font-style:normal;font-size:7.5px;letter-spacing:1.4px;color:var(--faint,#5a6573);font-weight:700;}
+.meganav .mn-beta{font-style:normal;font-size:9px;font-weight:800;letter-spacing:.8px;color:var(--ramber);border:1px solid var(--ramber-border);border-radius:5px;padding:2px 5px;margin-left:2px;}
+.meganav .mn-nav{display:flex;align-items:center;gap:2px;flex:1 1 auto;min-width:0;}
+.meganav .mn-top{appearance:none;background:none;border:0;font:inherit;cursor:pointer;padding:19px 11px;font-size:13.5px;font-weight:600;color:var(--muted,#8895a4);letter-spacing:.2px;border-bottom:2px solid transparent;white-space:nowrap;}
+.meganav .mn-item:hover>.mn-top,.meganav .mn-item.open>.mn-top{color:var(--text,#e7edf3);}
+.meganav .mn-item.on>.mn-top{color:var(--text,#e7edf3);border-bottom-color:var(--sg);}
+.meganav .mn-item{position:static;}
+.meganav .mn-panel{display:none;position:absolute;left:0;right:0;top:56px;background:var(--panel,#111822);border-bottom:1px solid var(--border,#1d2733);box-shadow:0 18px 40px rgba(0,0,0,.45);padding:20px 0 22px;}
+.meganav .mn-item.open>.mn-panel{display:block;}
+@media(hover:hover) and (min-width:1021px){.meganav .mn-item:hover>.mn-panel{display:block;}}
+.meganav .mn-pin{max-width:1680px;margin:0 auto;padding:0 clamp(16px,2vw,40px);}
+.meganav .mn-desc{margin:0 0 14px;font-size:12px;color:var(--faint,#5a6573);font-weight:500;max-width:640px;}
+.meganav .mn-links{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:4px 26px;}
+.meganav .mn-links.mn-w2{grid-template-columns:repeat(2,minmax(0,1fr));max-width:640px;}
+.meganav .mn-link{display:block;padding:9px 10px;border-radius:9px;}
+.meganav .mn-link:hover{background:var(--elev,#16202b);}
+.meganav .mn-link b{display:block;font-size:13.5px;font-weight:700;color:var(--text,#e7edf3);}
+.meganav .mn-link span{display:block;margin-top:2px;font-size:12px;line-height:1.45;color:var(--muted,#8895a4);font-weight:400;}
+.meganav .mn-off{display:block;padding:9px 10px;font-size:13.5px;font-weight:700;color:var(--faint,#5a6573);}
+.meganav .mn-b{font-style:normal;font-size:9.5px;font-weight:800;letter-spacing:.6px;text-transform:uppercase;border-radius:5px;padding:1.5px 6px;margin-left:7px;vertical-align:2px;}
+.meganav .mn-b-live{color:var(--green,#22c55e);border:1px solid rgba(34,197,94,.35);}
+.meganav .mn-b-acct{color:#d9a13c;border:1px solid rgba(217,161,60,.4);}
+.meganav .mn-b-soon{color:var(--faint,#5a6573);border:1px dashed var(--border,#1d2733);}
+.meganav .mn-right{display:flex;align-items:center;gap:10px;flex:0 0 auto;margin-left:auto;}
+.meganav .mn-search{position:relative;}
+.meganav .mn-search .box{display:flex;align-items:center;gap:7px;background:var(--elev,#16202b);border:1px solid var(--border,#1d2733);border-radius:9px;padding:6px 10px;color:var(--faint,#5a6573);}
+.meganav .mn-search input{background:none;border:0;outline:0;color:var(--text,#e7edf3);font:inherit;font-size:13px;width:clamp(140px,14vw,220px);}
+.meganav .mn-search .kbd{font-size:10px;border:1px solid var(--border,#1d2733);border-radius:4px;padding:0 5px;color:var(--faint,#5a6573);}
+.meganav .mn-search .drop{position:absolute;right:0;top:40px;width:330px;max-width:calc(100vw - 24px);background:var(--panel,#111822);border:1px solid var(--border,#1d2733);border-radius:11px;box-shadow:0 16px 34px rgba(0,0,0,.5);overflow:hidden;z-index:70;}
+.meganav .mn-search .sg{display:flex;align-items:center;gap:9px;padding:8px 11px;cursor:pointer;font-size:13px;}
+.meganav .mn-search .sg.active,.meganav .mn-search .sg:hover{background:var(--elev,#16202b);}
+.meganav .mn-search .sg img{width:18px;height:18px;border-radius:4px;}
+.meganav .mn-search .sg .tk{font-weight:800;color:var(--text,#e7edf3);min-width:52px;}
+.meganav .mn-search .sg .nm{color:var(--muted,#8895a4);flex:1;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
+.meganav .mn-search .sg .pc{font-weight:700;font-variant-numeric:tabular-nums;}
+.meganav .mn-search .sg .pc.up{color:var(--green,#22c55e);}.meganav .mn-search .sg .pc.down{color:var(--red,#f05a6e);}
+.meganav .mn-asof{display:none;}
+.meganav .mn-theme{appearance:none;background:var(--elev,#16202b);border:1px solid var(--border,#1d2733);border-radius:9px;width:34px;height:34px;display:flex;align-items:center;justify-content:center;cursor:pointer;color:var(--muted,#8895a4);}
+.meganav .mn-theme:hover{color:var(--text,#e7edf3);border-color:var(--accent-border,#1e4634);}
+.meganav .mn-theme .ic-sun{display:none;}
+html[data-theme="light"] .meganav .mn-theme .ic-sun{display:block;}
+html[data-theme="light"] .meganav .mn-theme .ic-moon{display:none;}
+.meganav .mn-signin{font-size:13px;font-weight:700;color:var(--muted,#8895a4);padding:7px 4px;}
+.meganav .mn-signin:hover{color:var(--text,#e7edf3);}
+.meganav .mn-signup{font-size:13px;font-weight:700;color:var(--sg);background:var(--sg-soft);border:1px solid var(--sg-border);border-radius:9px;padding:7px 13px;white-space:nowrap;}
+.meganav .mn-signup:hover{background:var(--sg);color:#04140b;}
+.meganav .mn-burger{appearance:none;background:none;border:1px solid var(--border,#1d2733);border-radius:9px;width:38px;height:36px;display:none;align-items:center;justify-content:center;cursor:pointer;color:var(--text,#e7edf3);}
+.meganav :is(a,button):focus-visible{outline:2px solid var(--sg);outline-offset:2px;border-radius:6px;}
+.meganav .mn-search .box:focus-within{border-color:var(--sg-border);}
+/* drawer */
+.meganav .mn-drawer{display:none;position:fixed;inset:0;z-index:80;background:var(--bg,#0a0e13);overflow-y:auto;padding:0 16px 28px;}
+.meganav .mn-drawer.open{display:block;}
+.meganav .mnd-head{display:flex;align-items:center;justify-content:space-between;height:56px;margin-bottom:6px;}
+.meganav .mnd-close{appearance:none;background:none;border:1px solid var(--border,#1d2733);border-radius:9px;width:38px;height:36px;font-size:17px;color:var(--text,#e7edf3);cursor:pointer;}
+.meganav .mnd-quick{display:grid;grid-template-columns:1fr 1fr;gap:9px;margin-bottom:14px;}
+.meganav .mnd-quick a{display:block;text-align:center;padding:11px 8px;border:1px solid var(--border,#1d2733);border-radius:10px;font-size:13.5px;font-weight:700;color:var(--text,#e7edf3);background:var(--panel,#111822);}
+.meganav details.mnd-sec{border-bottom:1px solid var(--border-soft,#161e28);}
+.meganav details.mnd-sec summary{list-style:none;display:flex;justify-content:space-between;align-items:center;padding:14px 2px;font-size:12px;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:var(--muted,#8895a4);cursor:pointer;}
+.meganav details.mnd-sec summary::-webkit-details-marker{display:none;}
+.meganav details.mnd-sec summary::after{content:"+";font-size:16px;color:var(--faint,#5a6573);}
+.meganav details.mnd-sec[open] summary::after{content:"\2212";}
+.meganav .mnd-sec a{display:block;padding:9px 2px 9px 10px;font-size:14px;font-weight:600;color:var(--muted,#8895a4);}
+.meganav .mnd-sec a:active,.meganav .mnd-sec a:hover{color:var(--text,#e7edf3);}
+.meganav .mnd-sec .mn-off{padding:9px 2px 9px 10px;font-size:14px;}
+.meganav .mnd-cta{display:grid;grid-template-columns:1fr 1fr;gap:9px;margin:18px 0 10px;}
+.meganav .mnd-cta a{display:block;text-align:center;padding:12px 8px;border-radius:10px;font-size:14px;font-weight:700;}
+.meganav .mnd-cta .a1{background:var(--sg-soft);border:1px solid var(--sg-border);color:var(--sg);}
+.meganav .mnd-cta .a2{border:1px solid var(--border,#1d2733);color:var(--text,#e7edf3);}
+.meganav .mnd-foot{font-size:11px;color:var(--faint,#5a6573);line-height:1.6;margin-top:6px;}
+.meganav .mn-search--drawer{display:none;margin:0 0 14px;}
+.meganav .mn-search--drawer .box{width:100%;}
+.meganav .mn-search--drawer input{width:100%;}
+@media(max-width:1023px){.meganav .mn-drawer.open .mn-search--drawer{display:block;}}
+.meganav .mnd-theme{appearance:none;width:100%;margin:10px 0 0;padding:12px;border:1px solid var(--border,#1d2733);border-radius:10px;background:var(--panel,#111822);color:var(--muted,#8895a4);font:600 13.5px -apple-system,BlinkMacSystemFont,"Inter","Segoe UI",Roboto,sans-serif;cursor:pointer;}
+.meganav .mnd-theme:hover{color:var(--text,#e7edf3);}
+/* nav collapse ladder: >=1366 shows all six groups; 1024-1365 folds
+   Market Maps + Company into More (they stay in the drawer + footer) */
+.meganav .mn-moreitem{display:none;}
+@media(max-width:1365px){
+  .meganav .mn-collapsible{display:none;}
+  .meganav .mn-moreitem{display:block;}
+}
+@media(max-width:1279px){
+  .meganav .mn-beta{display:none;}
+  .meganav .mn-top{padding:19px 9px;font-size:13px;}
+  .meganav .mn-in{gap:12px;}
+  /* search collapses to an icon button; nav.js expands it on demand */
+  .meganav .mn-search:not(.open) input,
+  .meganav .mn-search:not(.open) .kbd{display:none;}
+  .meganav .mn-search:not(.open) .box{width:34px;height:34px;justify-content:center;padding:0;cursor:pointer;}
+  .meganav .mn-search.open input{width:150px;}
+}
+@media(max-width:1023px){
+  .meganav .mn-nav{display:none;}
+  .meganav .mn-burger{display:flex;}
+  .meganav .mn-signin{display:none;}
+  .meganav .mn-search{display:none;}
+  .meganav .mn-theme{display:none;}
+  .meganav #reload{display:none;}
+}
+@media(max-width:760px){
+  .meganav .mn-asof{display:none;}
+  .meganav .mn-signup{display:none;}
+  /* signed-out auth buttons (incl. accounts.js-rendered) live in the drawer
+     on small screens; only the logged-in account chip stays in the bar */
+  .meganav #santro-auth-slot #sa-signin,.meganav #santro-auth-slot .sa-signupbtn{display:none;}
+  .meganav .mn-search input{width:64px;}
+  .meganav .mn-search .kbd{display:none;}
+  .meganav .mn-in{gap:8px;padding:0 12px;}
+  .meganav .mn-right{gap:7px;}
+}
+@media(max-width:479px){
+  /* compact logo for ALL phone widths — the old 389px cutoff missed 390px
+     (iPhone 12-15) by one pixel and the right cluster overflowed the page */
+  .meganav .mn-beta{display:none;}
+  .meganav .mn-lr i{display:none;}
+  .meganav .mn-search input{width:52px;}
+}
+</style>
+<div class="mn-in">
+  <a class="mn-logo" href="/" aria-label="Santro AI — home">
+    <span class="mn-ls">S</span>
+    <span class="mn-lr"><b>Santro&nbsp;AI</b><i>THE&nbsp;AI&nbsp;TRADE&nbsp;TERMINAL</i></span>
+    <em class="mn-beta">Beta</em>
+  </a>
+  <nav class="mn-nav" aria-label="Main">
+    <div class="mn-item on" data-menu="terminal">
+      <button class="mn-top" type="button" aria-expanded="false" aria-haspopup="true">Terminal</button>
+      <div class="mn-panel"><div class="mn-pin"><p class="mn-desc">The main Santro market view across AI stocks, ETFs, crypto, hot tickers, and bubble-risk signals.</p><div class="mn-links">
+        <a class="mn-link" href="/terminal"><b>AI Terminal<em class="mn-b mn-b-live">Beta</em></b><span>Bubble map, market tape, hot tickers, and the daily brief.</span></a>
+        <a class="mn-link" href="/stocks"><b>AI Stocks</b><span>101 AI names ranked by heat, research on every ticker.</span></a>
+        <a class="mn-link" href="/crypto"><b>AI Crypto</b><span>AI tokens and rotating crypto baskets.</span></a>
+        <a class="mn-link" href="/etfs"><b>AI ETFs</b><span>40 AI &amp; tech ETFs, broad tech to pure-play robotics.</span></a>
+        <a class="mn-link" href="/news"><b>Market News</b><span>Headlines that move the AI trade.</span></a>
+      </div></div></div>
+    </div><div class="mn-item" data-menu="tools">
+      <button class="mn-top" type="button" aria-expanded="false" aria-haspopup="true">Tools</button>
+      <div class="mn-panel"><div class="mn-pin"><p class="mn-desc">Every tool is free while Santro is in beta. Scenario outputs, not price targets.</p><div class="mn-links">
+        <a class="mn-link" href="/bubble"><b>AI Bubble Risk<em class="mn-b mn-b-live">Beta</em></b><span>Valuation, momentum, and crowding signals in one gauge.</span></a>
+        <a class="mn-link" href="/bubble#stress"><b>Portfolio Stress Test<em class="mn-b mn-b-live">Beta</em></b><span>Six historical crash scenarios against your portfolio.</span></a>
+        <a class="mn-link" href="/tools/fair-value-calculator"><b>Fair-Value Calculator<em class="mn-b mn-b-live">Beta</em></b><span>DCF, P/E, Graham, and PEG scenario values for any AI ticker.</span></a>
+        <a class="mn-link" href="/quiz"><b>Exposure Check<em class="mn-b mn-b-acct">Account</em></b><span>Calibrate your terminal — universe, concentration, valuation lens, risk watch.</span></a>
+        <a class="mn-link" href="/share"><b>Share Cards<em class="mn-b mn-b-live">Beta</em></b><span>Terminal-grade market cards you can post anywhere.</span></a>
+        <a class="mn-link" href="/evaluate-prompt"><b>Prompt Quality Check<em class="mn-b mn-b-live">Beta</em></b><span>Score any AI trading prompt before you trust it.</span></a>
+        <a class="mn-link" href="/signup"><b>Watchlists &amp; Alerts<em class="mn-b mn-b-acct">Account</em></b><span>Track tickers and get level alerts with a free account.</span></a>
+      </div></div></div>
+    </div><div class="mn-item" data-menu="research">
+      <button class="mn-top" type="button" aria-expanded="false" aria-haspopup="true">Research</button>
+      <div class="mn-panel"><div class="mn-pin"><p class="mn-desc">Filing-verified research. Tweets are leads; filings are sources.</p><div class="mn-links">
+        <a class="mn-link" href="/research"><b>Research Feed</b><span>Curated notes on the AI trade, updated through the day.</span></a>
+        <a class="mn-link" href="/blog"><b>Blog</b><span>Long-form pieces on bubbles, valuation, and AI credit.</span></a>
+        <a class="mn-link" href="/blog/ai-bubble-valuation-history"><b>AI Bubble or Market Reset?</b><span>The flagship read: CAPE, real-terms history, dot-com lessons.</span></a>
+        <a class="mn-link" href="/ipos"><b>IPO Watch</b><span>From pre-filing to priced — 10 AI names, filings verified on EDGAR where public.</span></a>
+        <a class="mn-link" href="/investor-signals"><b>Investor Signal Library<em class="mn-b mn-b-live">Beta</em></b><span>Publicly disclosed positioning, mapped to AI market context.</span></a>
+        <a class="mn-link" href="/stocks/aschenbrenner"><b>Aschenbrenner Basket</b><span>Situational Awareness LP&#x27;s 13F, position by position.</span></a>
+        <a class="mn-link" href="/stocks/burry-short-watch"><b>Burry Short Watch</b><span>Scion&#x27;s disclosed AI puts, verified in filings.</span></a>
+      </div></div></div>
+    </div><div class="mn-item" data-menu="universe">
+      <button class="mn-top" type="button" aria-expanded="false" aria-haspopup="true">AI Universe</button>
+      <div class="mn-panel"><div class="mn-pin"><p class="mn-desc">101 tickers across 8 themes. Hot means attention, not direction.</p><div class="mn-links">
+        <a class="mn-link" href="/stocks"><b>All AI Stocks</b><span>The full universe, ranked by heat.</span></a>
+        <a class="mn-link" href="/stocks/themes/ai-chips-and-compute"><b>AI Chips &amp; Compute</b><span>NVDA, AMD, AVGO and the accelerator complex.</span></a>
+        <a class="mn-link" href="/stocks/themes/ai-software-and-cloud-infrastructure"><b>AI Software &amp; Cloud</b><span>Hyperscalers and the model platforms.</span></a>
+        <a class="mn-link" href="/stocks/themes/powering-ai"><b>Powering AI</b><span>Nuclear, turbines, uranium &amp; the grid behind AI.</span></a>
+        <a class="mn-link" href="/stocks/themes/data-center-power-and-energy"><b>Data-Center Power &amp; Energy</b><span>The electrons behind the GPUs.</span></a>
+        <a class="mn-link" href="/stocks/themes/chip-equipment-and-ai-hardware"><b>Chip Equipment &amp; AI Hardware</b><span>ASML, memory, and the fab supply chain.</span></a>
+        <a class="mn-link" href="/stocks/themes/ai-platforms-internet-and-adtech"><b>AI Platforms &amp; Adtech</b><span>Internet platforms monetizing AI.</span></a>
+        <a class="mn-link" href="/stocks/themes/ai-applications-and-data-software"><b>AI Apps &amp; Data Software</b><span>Applied AI and the data layer.</span></a>
+        <a class="mn-link" href="/stocks/themes/applied-ai-industrial-defense-and-vertical"><b>Applied AI, Industrial &amp; Defense</b><span>Robotics, defense, and vertical AI.</span></a>
+      </div></div></div>
+    </div><div class="mn-item mn-collapsible" data-menu="maps">
+      <button class="mn-top" type="button" aria-expanded="false" aria-haspopup="true">Market Maps</button>
+      <div class="mn-panel"><div class="mn-pin"><p class="mn-desc">Visual entry points into the same delayed data.</p><div class="mn-links mn-w2">
+        <a class="mn-link" href="/terminal"><b>Stock Bubble Map</b><span>101 bubbles sized by the day&#x27;s move, colored by direction.</span></a>
+        <a class="mn-link" href="/crypto"><b>Crypto Movers</b><span>AI tokens ranked by momentum.</span></a>
+        <a class="mn-link" href="/etfs"><b>ETF Map</b><span>Overlap-aware list of the AI ETF complex.</span></a>
+        <a class="mn-link" href="/bubble"><b>Bubble-Risk Gauge</b><span>One dial for the whole AI trade.</span></a>
+        <a class="mn-link" href="/ipos"><b>IPO Pipeline</b><span>Who is filing, who is rumored, who is priced.</span></a>
+      </div></div></div>
+    </div><div class="mn-item mn-collapsible" data-menu="company">
+      <button class="mn-top" type="button" aria-expanded="false" aria-haspopup="true">Company</button>
+      <div class="mn-panel"><div class="mn-pin"><div class="mn-links mn-w2">
+        <a href="/about">About Santro AI</a>
+        <a href="mailto:hello@santroai.tech">Contact</a>
+        <a href="/privacy">Privacy Policy</a>
+        <a href="/terms">Terms of Use</a>
+        <a href="https://x.com/SantroAI" target="_blank" rel="noopener">@SantroAI on X</a>
+        <span class="mn-off">iOS app<em class="mn-b mn-b-soon">Coming soon</em></span>
+        <span class="mn-off">Santro Pro<em class="mn-b mn-b-soon">Coming soon</em></span>
+      </div></div></div>
+    </div><div class="mn-item mn-moreitem" data-menu="more">
+      <button class="mn-top" type="button" aria-expanded="false" aria-haspopup="true">More</button>
+      <div class="mn-panel"><div class="mn-pin"><p class="mn-desc">Maps, company and legal.</p><div class="mn-links">
+        <a class="mn-link" href="/terminal"><b>Stock Bubble Map</b><span>101 bubbles sized by the day&#x27;s move, colored by direction.</span></a>
+        <a class="mn-link" href="/crypto"><b>Crypto Movers</b><span>AI tokens ranked by momentum.</span></a>
+        <a class="mn-link" href="/etfs"><b>ETF Map</b><span>Overlap-aware list of the AI ETF complex.</span></a>
+        <a class="mn-link" href="/bubble"><b>Bubble-Risk Gauge</b><span>One dial for the whole AI trade.</span></a>
+        <a class="mn-link" href="/ipos"><b>IPO Pipeline</b><span>Who is filing, who is rumored, who is priced.</span></a>
+        <a href="/about">About Santro AI</a>
+        <a href="mailto:hello@santroai.tech">Contact</a>
+        <a href="/privacy">Privacy Policy</a>
+        <a href="/terms">Terms of Use</a>
+        <a href="https://x.com/SantroAI" target="_blank" rel="noopener">@SantroAI on X</a>
+        <span class="mn-off">iOS app<em class="mn-b mn-b-soon">Coming soon</em></span>
+        <span class="mn-off">Santro Pro<em class="mn-b mn-b-soon">Coming soon</em></span>
+      </div></div></div>
+    </div>
+  </nav>
+  <div class="mn-right">
+    <div class="mn-search"></div>
+    <span class="mn-asof"></span>
+    <button class="mn-theme" title="Switch day / night mode" aria-label="Toggle day or night mode"><svg class="ic-moon" viewBox="0 0 24 24" width="15" height="15" fill="currentColor" aria-hidden="true"><path d="M20 14.5A8.5 8.5 0 0 1 9.5 4 8.5 8.5 0 1 0 20 14.5Z"/></svg><svg class="ic-sun" viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true"><circle cx="12" cy="12" r="4.1"/><path d="M12 2.6v2.1M12 19.3v2.1M2.6 12h2.1M19.3 12h2.1M5.2 5.2l1.5 1.5M17.3 17.3l1.5 1.5M18.8 5.2l-1.5 1.5M6.7 17.3l-1.5 1.5"/></svg></button>
+    <span id="santro-auth-slot"><a class="mn-signin" href="/signin">Sign in</a><a class="mn-signup" href="/signup">Sign up</a></span>
+    <button class="mn-burger" type="button" aria-label="Open menu" aria-expanded="false" aria-controls="mn-drawer"><svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="M3 6h18M3 12h18M3 18h18"/></svg></button>
+  </div>
+</div>
+<div class="mn-drawer" id="mn-drawer" role="dialog" aria-label="Menu" aria-modal="true">
+  <div class="mnd-head">
+    <span class="mn-ls">S</span>
+    <button class="mnd-close" type="button" aria-label="Close menu">✕</button>
+  </div>
+  <div class="mn-search mn-search--drawer"></div>
+  <div class="mnd-quick">
+    <a href="/terminal">AI Terminal</a><a href="/stocks">AI Stocks</a>
+    <a href="/crypto">AI Crypto</a><a href="/etfs">AI ETFs</a>
+  </div>
+  <details class="mnd-sec"><summary>Terminal</summary>
+      <a href="/terminal">AI Terminal<em class="mn-b mn-b-live">Beta</em></a>
+        <a href="/stocks">AI Stocks</a>
+        <a href="/crypto">AI Crypto</a>
+        <a href="/etfs">AI ETFs</a>
+        <a href="/news">Market News</a>
+    </details><details class="mnd-sec"><summary>Tools</summary>
+      <a href="/bubble">AI Bubble Risk<em class="mn-b mn-b-live">Beta</em></a>
+        <a href="/bubble#stress">Portfolio Stress Test<em class="mn-b mn-b-live">Beta</em></a>
+        <a href="/tools/fair-value-calculator">Fair-Value Calculator<em class="mn-b mn-b-live">Beta</em></a>
+        <a href="/quiz">Exposure Check<em class="mn-b mn-b-acct">Account</em></a>
+        <a href="/share">Share Cards<em class="mn-b mn-b-live">Beta</em></a>
+        <a href="/evaluate-prompt">Prompt Quality Check<em class="mn-b mn-b-live">Beta</em></a>
+        <a href="/signup">Watchlists &amp; Alerts<em class="mn-b mn-b-acct">Account</em></a>
+    </details><details class="mnd-sec"><summary>Research</summary>
+      <a href="/research">Research Feed</a>
+        <a href="/blog">Blog</a>
+        <a href="/blog/ai-bubble-valuation-history">AI Bubble or Market Reset?</a>
+        <a href="/ipos">IPO Watch</a>
+        <a href="/investor-signals">Investor Signal Library<em class="mn-b mn-b-live">Beta</em></a>
+        <a href="/stocks/aschenbrenner">Aschenbrenner Basket</a>
+        <a href="/stocks/burry-short-watch">Burry Short Watch</a>
+    </details><details class="mnd-sec"><summary>AI Universe</summary>
+      <a href="/stocks">All AI Stocks</a>
+        <a href="/stocks/themes/ai-chips-and-compute">AI Chips &amp; Compute</a>
+        <a href="/stocks/themes/ai-software-and-cloud-infrastructure">AI Software &amp; Cloud</a>
+        <a href="/stocks/themes/powering-ai">Powering AI</a>
+        <a href="/stocks/themes/data-center-power-and-energy">Data-Center Power &amp; Energy</a>
+        <a href="/stocks/themes/chip-equipment-and-ai-hardware">Chip Equipment &amp; AI Hardware</a>
+        <a href="/stocks/themes/ai-platforms-internet-and-adtech">AI Platforms &amp; Adtech</a>
+        <a href="/stocks/themes/ai-applications-and-data-software">AI Apps &amp; Data Software</a>
+        <a href="/stocks/themes/applied-ai-industrial-defense-and-vertical">Applied AI, Industrial &amp; Defense</a>
+    </details><details class="mnd-sec"><summary>Market Maps</summary>
+      <a href="/terminal">Stock Bubble Map</a>
+        <a href="/crypto">Crypto Movers</a>
+        <a href="/etfs">ETF Map</a>
+        <a href="/bubble">Bubble-Risk Gauge</a>
+        <a href="/ipos">IPO Pipeline</a>
+    </details><details class="mnd-sec"><summary>Company</summary>
+      <a href="/about">About Santro AI</a>
+        <a href="mailto:hello@santroai.tech">Contact</a>
+        <a href="/privacy">Privacy Policy</a>
+        <a href="/terms">Terms of Use</a>
+        <a href="https://x.com/SantroAI" target="_blank" rel="noopener">@SantroAI on X</a>
+        <span class="mn-off">iOS app<em class="mn-b mn-b-soon">Coming soon</em></span>
+        <span class="mn-off">Santro Pro<em class="mn-b mn-b-soon">Coming soon</em></span>
+    </details>
+  <div class="mnd-cta">
+    <a class="a1" href="/signup">Create free account</a>
+    <a class="a2" href="/signin">Sign in</a>
+  </div>
+  <button class="mnd-theme" type="button">Switch day / night mode</button>
+  <p class="mnd-foot">Hot means attention, not direction.<br>Quotes delayed ~15 min. Real-time data planned for Pro. Not financial advice.</p>
+</div>
+<script src="/nav.js?v=9" defer></script>
+</header>
+
+  <main>
+  <nav class="sa-crumb" aria-label="Breadcrumb"><a href="/">Home</a> › AI Stocks</nav>
+    <h1>AI stocks universe <span class="badge" id="asof">…</span></h1>
+    <p class="lede">The AI trade as a living bubble map. <b>AI Universe</b> — the full Finviz artificial-intelligence theme in 7 sectors — click a sector to drill into its members.
+    <b>NVIDIA Ecosystem</b> — the 30 names around NVIDIA's supply and demand chain. Bubble size =
+    the day's move, color = direction. Data delayed; not financial advice.</p>
+
+    <div class="mapwrap">
+      <h2><span style="color:var(--accent)">◉</span> <span id="map-title">Loading…</span>
+        <span class="seg">
+          <button class="seg-btn active" data-mode="universe">AI Universe</button>
+          <button class="seg-btn" data-mode="eco">NVIDIA Ecosystem</button>
+        </span>
+        <button class="seg-btn" id="uni-back" style="display:none">← All sectors</button>
+        <span class="legend"><span>−10%</span><span class="bar"></span><span>+10%</span></span></h2>
+      <div id="chart"></div>
+    </div>
+
+    <div class="card detail" id="detail">Click a bubble for details…</div>
+
+    <section style="margin-top:26px;color:var(--muted)">
+      <h2 style="font-size:14px;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);margin:0 0 10px">How to use this page</h2>
+      <ul style="margin:0 0 18px;padding-left:18px;font-size:14px;line-height:1.7">
+        <li><b style="color:var(--text)">Bubble size</b> = the day's % move; <b style="color:var(--text)">color</b> = direction (green up, red down).</li>
+        <li>Click a <b style="color:var(--text)">sector</b> to drill into its members; click a <b style="color:var(--text)">name</b> for its card and chart.</li>
+        <li>Toggle <b style="color:var(--text)">AI Universe ↔ NVIDIA Ecosystem</b> above the map.</li>
+      </ul>
+
+      <h2 style="font-size:14px;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);margin:0 0 10px">AI Universe vs NVIDIA Ecosystem</h2>
+      <p style="font-size:14px;line-height:1.65;margin:0 0 18px;max-width:900px"><b style="color:var(--text)">AI Universe</b> — the whole AI theme in 7 sectors (live count above the map). <b style="color:var(--text)">NVIDIA Ecosystem</b> — the 30 names tied to NVIDIA's supply and demand chain: suppliers, customers and partners. Same bubble rules apply to both.</p>
+
+      <h2 style="font-size:14px;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);margin:0 0 10px">The 7 sectors</h2>
+      <div style="display:flex;flex-wrap:wrap;gap:8px;margin-bottom:10px">
+        <span style="font-size:13px;font-weight:600;padding:5px 11px;border-radius:999px;border:1px solid var(--border);background:var(--panel)">AI Chips &amp; Compute</span>
+        <span style="font-size:13px;font-weight:600;padding:5px 11px;border-radius:999px;border:1px solid var(--border);background:var(--panel)">Data Center, Power &amp; Energy</span>
+        <span style="font-size:13px;font-weight:600;padding:5px 11px;border-radius:999px;border:1px solid var(--border);background:var(--panel)">Software &amp; Cloud</span>
+        <span style="font-size:13px;font-weight:600;padding:5px 11px;border-radius:999px;border:1px solid var(--border);background:var(--panel)">Equipment &amp; Hardware</span>
+        <span style="font-size:13px;font-weight:600;padding:5px 11px;border-radius:999px;border:1px solid var(--border);background:var(--panel)">AI Applications &amp; Data</span>
+        <span style="font-size:13px;font-weight:600;padding:5px 11px;border-radius:999px;border:1px solid var(--border);background:var(--panel)">Platforms &amp; Ads</span>
+        <span style="font-size:13px;font-weight:600;padding:5px 11px;border-radius:999px;border:1px solid var(--border);background:var(--panel)">Applied AI</span>
+      </div>
+      <p style="font-size:14px;line-height:1.65;margin:0 0 16px;max-width:900px">Across those sectors the names span <b style="color:var(--text)">chips, optics, memory, power, software and infrastructure</b> — the full AI supply chain, not just the megacaps.</p>
+
+      <div style="display:flex;flex-wrap:wrap;gap:10px">
+        <a href="/share?card=movers" style="display:inline-flex;align-items:center;gap:6px;padding:10px 15px;border-radius:10px;font-size:13px;font-weight:700;text-decoration:none;background:#22c55e;color:#04140b">Create a share card ↗</a>
+        <a href="/bubble" style="display:inline-flex;align-items:center;gap:6px;padding:10px 15px;border-radius:10px;font-size:13px;font-weight:700;text-decoration:none;background:var(--elev);border:1px solid var(--border);color:var(--text)">Check AI bubble risk</a>
+        <a href="/stocks/aschenbrenner" style="display:inline-flex;align-items:center;gap:6px;padding:10px 15px;border-radius:10px;font-size:13px;font-weight:700;text-decoration:none;background:var(--elev);border:1px solid var(--border);color:var(--text)">Aschenbrenner AI infrastructure basket →</a>
+        <a href="/stocks/burry" style="display:inline-flex;align-items:center;gap:6px;padding:10px 15px;border-radius:10px;font-size:13px;font-weight:700;text-decoration:none;background:var(--elev);border:1px solid var(--border);color:var(--text)">Michael Burry's AI shorts →</a>
+        <a href="/stocks/burry-short-watch" style="display:inline-flex;align-items:center;gap:6px;padding:10px 15px;border-radius:10px;font-size:13px;font-weight:700;text-decoration:none;background:var(--elev);border:1px solid var(--border);color:var(--text)">Burry AI Short Watch →</a>
+      </div>
+    </section>
+  </main>
+
+<style>
+.sa-explainer{max-width:920px;margin:8px auto 0;padding:26px 20px 6px;border-top:1px solid var(--border-soft,#1c2230);}
+.sa-explainer h2{font-size:21px;margin:22px 0 8px;}
+.sa-explainer h3{font-size:16px;margin:18px 0 4px;}
+.sa-explainer p,.sa-explainer li{color:var(--muted,#9aa6b2);font-size:15px;line-height:1.65;}
+.sa-explainer li{margin-bottom:5px;}
+.sa-explainer b{color:var(--text,#e6edf3);}
+.sa-explainer a{color:var(--accent,#22c55e);}
+.sa-explainer .cta{margin-top:16px;}
+.sa-explainer .nfa-note{color:var(--faint,#6b7684);font-size:13px;margin-top:14px;}
+</style>
+<section class="sa-explainer">
+  <h2>How the AI stocks bubble map works</h2>
+  <p>The <b>AI Universe</b> view tracks roughly 83 AI-exposed companies drawn from the Finviz artificial-intelligence
+    theme, grouped into <b>seven sectors</b> across the AI stack — from chips and compute to AI software, cloud and
+    data-center, and applied AI. Toggle to the <b>NVIDIA Ecosystem</b> view for the 30 suppliers, customers and partners
+    that orbit Nvidia specifically: memory, networking, foundry, testing, power and cooling.</p>
+  <h3>Reading the bubbles</h3>
+  <ul>
+    <li><b>Size</b> = how far the name moved today (absolute day move) — a bigger bubble is a bigger move, up or down.</li>
+    <li><b>Colour</b> = direction, on a roughly &plusmn;10% green-to-red scale.</li>
+    <li><b>Click</b> a bubble for price, the day's move, sector and a fair-value read, then open its full ticker page.</li>
+  </ul>
+  <p><b>"Hot" means attention, not direction.</b> A name lighting up the map is moving hard — a reason to <i>look</i>, not
+    a signal to buy or sell. A 20% drop is exactly as "hot" as a 20% rip.</p>
+  <h3>Data &amp; limits</h3>
+  <p>Quotes are free, ~15-minute-delayed Yahoo Finance data, refreshed automatically through the session and extended
+    hours. Market cap is split-adjusted and corrupt vendor bars are repaired before display. This is market context for
+    research, not a recommendation.</p>
+  <p class="cta">Next: gauge <a href="/bubble">how bubbly the whole AI market is</a>, browse the <a href="/etfs">AI ETF
+    universe</a> or <a href="/crypto">AI crypto tokens</a>, open a daily <a href="/research">signed research report</a>,
+    or export a <a href="/share">share card</a> of today's movers.</p>
+  <p class="nfa-note">Delayed data, for education only. Not financial advice.</p>
+</section>
+
+
+<section class="sa-grow">
+    <div>
+      <h3>RELATED READING</h3>
+      <ul>
+        <li><a href="/blog/spacex-attention-ai-infrastructure">SpaceX is the attention magnet — the real trade is AI infrastructure</a></li>
+        <li><a href="/blog/ai-junk-bonds">AI's $32 Billion IOU: the data-center junk-bond table</a></li>
+      </ul>
+    </div>
+    <div>
+      <h3>SANTRO AI TOOLS</h3>
+      <ul>
+        <li><a href="/bubble">Check the AI bubble-risk index</a></li>
+        <li><a href="/etfs">Compare AI ETFs</a></li>
+        <li><a href="/crypto">AI crypto movers</a></li>
+        <li><a href="/stocks">AI stocks bubble map</a></li>
+        <li><a href="/share">Create a share card</a></li>
+      </ul>
+    </div>
+    <div class="sa-cta-box">
+      <b>Run the numbers yourself — free.</b>
+      <p>Create a free Santro AI account to run unlimited fair-value valuations, save a watchlist, and keep your valuation history. Five free runs even without an account; no card required.</p>
+      <a class="sa-cta-btn" href="/?auth=register">Create a free account &rarr;</a>
+    </div>
+  </section>
+
+    <section class="sa-deepdives" style="max-width:920px;margin:24px auto 0;padding:24px 20px 6px;border-top:1px solid var(--border-soft,#1c2230);">
+      <h2 style="font-size:20px;margin:0 0 4px;">Browse by AI sub-theme</h2>
+      <p style="color:var(--muted,#9aa6b2);font-size:14.5px;margin:0 0 10px;"><span data-stat="themes">8</span> sub-themes cover all <span data-stat="tickers">101</span> universe names — each page lists every ticker with links to individual profiles:</p>
+      <p style="line-height:2.1;margin:0 0 26px;">
+        <a href="/stocks/themes/ai-chips-and-compute" style="margin-right:14px;font-weight:700">AI chips &amp; compute</a>
+        <a href="/stocks/themes/ai-software-and-cloud-infrastructure" style="margin-right:14px;font-weight:700">AI software &amp; cloud</a>
+        <a href="/stocks/themes/ai-applications-and-data-software" style="margin-right:14px;font-weight:700">Apps &amp; data software</a>
+        <a href="/stocks/themes/chip-equipment-and-ai-hardware" style="margin-right:14px;font-weight:700">Chip equipment &amp; hardware</a>
+        <a href="/stocks/themes/ai-platforms-internet-and-adtech" style="margin-right:14px;font-weight:700">Platforms &amp; adtech</a>
+        <a href="/stocks/themes/data-center-power-and-energy" style="margin-right:14px;font-weight:700">Data-center power &amp; energy</a>
+        <a href="/stocks/themes/applied-ai-industrial-defense-and-vertical" style="font-weight:700">Applied AI &amp; defense</a>
+      </p>
+      <h2 style="font-size:20px;margin:0 0 4px;">AI stock deep dives</h2>
+      <p style="color:var(--muted,#9aa6b2);font-size:14.5px;margin:0 0 10px;">Individual pages — what each name does, its place in the AI trade, the growth its price implies, and key data:</p>
+      <ul style="margin:0;padding-left:18px;line-height:1.9;">
+        <li><a href="/stocks/nvda"><b>NVDA</b> — NVIDIA Corporation</a> <span style="color:var(--faint,#6b7684);font-size:13px">Semiconductors</span></li>
+        <li><a href="/stocks/avgo"><b>AVGO</b> — Broadcom Inc.</a> <span style="color:var(--faint,#6b7684);font-size:13px">Semiconductors</span></li>
+        <li><a href="/stocks/amd"><b>AMD</b> — Advanced Micro Devices, Inc.</a> <span style="color:var(--faint,#6b7684);font-size:13px">Semiconductors</span></li>
+        <li><a href="/stocks/tsm"><b>TSM</b> — Taiwan Semiconductor Manufacturing Company Limited</a> <span style="color:var(--faint,#6b7684);font-size:13px">Semiconductors</span></li>
+        <li><a href="/stocks/sk-hynix"><b>000660.KS</b> — SK hynix</a> <span style="color:var(--faint,#6b7684);font-size:13px">AI memory · KRX</span></li>
+        <li><a href="/stocks/samsung"><b>005930.KS</b> — Samsung Electronics</a> <span style="color:var(--faint,#6b7684);font-size:13px">AI memory · KRX</span></li>
+        <li><a href="/stocks/kioxia"><b>285A.T</b> — Kioxia Holdings</a> <span style="color:var(--faint,#6b7684);font-size:13px">NAND · TSE</span></li>
+        <li><a href="/stocks/nanya"><b>2408.TW</b> — Nanya Technology</a> <span style="color:var(--faint,#6b7684);font-size:13px">DRAM · TWSE</span></li>
+        <li><a href="/stocks/winbond"><b>2344.TW</b> — Winbond Electronics</a> <span style="color:var(--faint,#6b7684);font-size:13px">Specialty memory · TWSE</span></li>
+        <li><a href="/stocks/mrvl"><b>MRVL</b> — Marvell Technology, Inc.</a> <span style="color:var(--faint,#6b7684);font-size:13px">Semiconductors</span></li>
+        <li><a href="/stocks/amat"><b>AMAT</b> — Applied Materials, Inc.</a> <span style="color:var(--faint,#6b7684);font-size:13px">Semiconductor Equipment &amp; Materials</span></li>
+        <li><a href="/stocks/lrcx"><b>LRCX</b> — Lam Research Corporation</a> <span style="color:var(--faint,#6b7684);font-size:13px">Semiconductor Equipment &amp; Materials</span></li>
+        <li><a href="/stocks/apld"><b>APLD</b> — Applied Digital Corporation</a> <span style="color:var(--faint,#6b7684);font-size:13px">Information Technology Services</span></li>
+        <li><a href="/stocks/corz"><b>CORZ</b> — Core Scientific, Inc.</a> <span style="color:var(--faint,#6b7684);font-size:13px">Software - Infrastructure</span></li>
+        <li><a href="/stocks/rklb"><b>RKLB</b> — Rocket Lab Corporation</a> <span style="color:var(--faint,#6b7684);font-size:13px">Aerospace &amp; Defense</span></li>
+        <li><a href="/stocks/asts"><b>ASTS</b> — AST SpaceMobile, Inc.</a> <span style="color:var(--faint,#6b7684);font-size:13px">Communication Equipment</span></li>
+        <li><a href="/stocks/pl"><b>PL</b> — Planet Labs PBC</a> <span style="color:var(--faint,#6b7684);font-size:13px">Aerospace &amp; Defense</span></li>
+        <li><a href="/stocks/inod"><b>INOD</b> — Innodata Inc.</a> <span style="color:var(--faint,#6b7684);font-size:13px">Information Technology Services</span></li>
+        <li><a href="/stocks/lscc"><b>LSCC</b> — Lattice Semiconductor Corporation</a> <span style="color:var(--faint,#6b7684);font-size:13px">Semiconductors</span></li>
+      </ul>
+    </section>
+
+  <!-- mega-footer v1 -->
+<footer class="mega">
+<style>
+footer.mega{display:block;text-align:left;margin-top:48px;padding:0;border-top:1px solid var(--border,#1d2733);background:transparent;font-family:var(--font-sans, -apple-system,BlinkMacSystemFont,"Inter","Segoe UI",Roboto,Helvetica,Arial,sans-serif);}
+.mega .mg-in{max-width:1680px;margin:0 auto;padding:34px clamp(16px,2vw,40px) 26px;}
+.mega .mg-top{display:flex;justify-content:space-between;align-items:flex-start;gap:28px;flex-wrap:wrap;padding-bottom:26px;border-bottom:1px solid var(--border-soft,#161e28);}
+.mega .mg-logo{font-size:17px;font-weight:800;letter-spacing:.4px;color:var(--text,#e7edf3);}
+.mega .mg-logo span{color:#22c55e;}
+.mega .mg-tag{font-size:11px;font-weight:700;letter-spacing:1.4px;text-transform:uppercase;color:var(--faint,#5a6573);margin-top:2px;}
+.mega .mg-line{margin:10px 0 0;max-width:420px;font-size:13px;line-height:1.55;color:var(--muted,#8895a4);font-weight:400;}
+.mega .mg-slogan{margin:8px 0 0;font-size:12.5px;font-style:italic;color:var(--faint,#5a6573);font-weight:400;}
+.mega .mg-brief{max-width:360px;}
+.mega .mg-btitle{font-size:14px;font-weight:700;color:var(--text,#e7edf3);}
+.mega .mg-bsub{margin:6px 0 12px;font-size:12.5px;line-height:1.5;color:var(--muted,#8895a4);font-weight:400;}
+.mega .mg-brow{display:flex;align-items:center;gap:10px;flex-wrap:wrap;}
+.mega a.mg-cta{display:inline-block;padding:8px 16px;border-radius:9px;background:rgba(34,197,94,.12);border:1px solid rgba(34,197,94,.45);color:#22c55e;font-size:13px;font-weight:700;text-decoration:none;}
+.mega a.mg-cta:hover{background:#22c55e;color:#04140b;}
+.mega .mg-soon{font-size:11.5px;font-weight:600;color:var(--faint,#5a6573);border:1px dashed var(--border,#1d2733);border-radius:999px;padding:5px 10px;white-space:nowrap;}
+.mega .mg-priv{margin:10px 0 0;font-size:11px;line-height:1.5;color:var(--faint,#5a6573);font-weight:400;}
+.mega .mg-priv a{color:var(--muted,#8895a4);font-weight:600;text-decoration:none;}
+.mega .mg-priv a:hover{color:var(--text,#e7edf3);}
+.mega .mg-cols{display:grid;grid-template-columns:repeat(5,1fr);gap:22px;padding:26px 0;border-bottom:1px solid var(--border-soft,#161e28);}
+.mega .mg-col h4{margin:0 0 10px;font-size:11px;font-weight:800;letter-spacing:1.2px;text-transform:uppercase;color:var(--faint,#5a6573);}
+.mega .mg-col ul{list-style:none;margin:0;padding:0;}
+.mega .mg-col li{margin:0;}
+.mega .mg-col a{display:inline-block;padding:4px 0;font-size:13px;font-weight:500;color:var(--muted,#8895a4);text-decoration:none;}
+.mega .mg-col a:hover{color:var(--text,#e7edf3);}
+.mega .mg-col .mg-off{display:inline-block;padding:4px 0;font-size:13px;color:var(--faint,#5a6573);}
+.mega .mg-bottom{display:flex;justify-content:space-between;align-items:center;gap:8px 24px;flex-wrap:wrap;padding-top:18px;font-size:11.5px;color:var(--faint,#5a6573);}
+.mega .mg-bottom .mg-nfa{color:var(--muted,#8895a4);font-weight:700;font-style:normal;}
+.mega .mg-bottom a{color:var(--muted,#8895a4);font-weight:600;text-decoration:none;padding:2px 0;}
+.mega .mg-bottom a:hover{color:var(--text,#e7edf3);}
+.mega .mg-note{flex-basis:100%;font-size:10.5px;color:var(--faint,#5a6573);opacity:.75;}
+.mega a:focus-visible{outline:2px solid #22c55e;outline-offset:2px;border-radius:4px;}
+@media(max-width:900px){
+  .mega .mg-in{padding:28px 16px 22px;}
+  .mega .mg-top{flex-direction:column;gap:20px;padding-bottom:22px;}
+  .mega .mg-cols{grid-template-columns:repeat(2,1fr);gap:18px 14px;padding:22px 0;}
+  .mega .mg-col a{padding:6px 0;}
+  .mega .mg-bottom{flex-direction:column;align-items:flex-start;gap:8px;}
+}
+@media(max-width:640px){
+  .mega .mg-cols{grid-template-columns:1fr;gap:0;padding:6px 0;}
+  .mega .mg-col{border-bottom:1px solid var(--border-soft,#161e28);}
+  .mega .mg-col:last-child{border-bottom:0;}
+  .mega .mg-col h4{margin:0;padding:14px 2px;display:flex;justify-content:space-between;align-items:center;}
+  .mega .mg-col ul{padding:0 2px 12px;}
+  .mega.mg-acc .mg-col h4{cursor:pointer;}
+  .mega.mg-acc .mg-col h4::after{content:"+";font-size:15px;line-height:1;color:var(--faint,#5a6573);font-weight:600;}
+  .mega.mg-acc .mg-col.open h4::after{content:"\2212";}
+  .mega.mg-acc .mg-col:not(.open) ul{display:none;}
+}
+</style>
+<div class="mg-in">
+  <div class="mg-top">
+    <div class="mg-brand">
+      <div class="mg-logo">Santro <span>AI</span></div>
+      <div class="mg-tag">The AI Trade Terminal</div>
+      <p class="mg-line">The AI trade terminal for stocks, ETFs, crypto, hot tickers, valuation tools, and bubble-risk signals.</p>
+      <p class="mg-slogan">Hot means attention, not direction.</p>
+    </div>
+    <div class="mg-brief">
+      <div class="mg-btitle">Get the AI market brief</div>
+      <p class="mg-bsub">Hot tickers, bubble-risk changes, valuation notes, and AI market research.</p>
+      <div class="mg-brow">
+        <a class="mg-cta" href="/signup">Create a free account</a>
+        <span class="mg-soon">Email brief — coming soon</span>
+      </div>
+      <p class="mg-priv">The brief will be opt-in when it launches, and you can unsubscribe anytime. <a href="/privacy">Privacy</a></p>
+    </div>
+  </div>
+  <div class="mg-cols">
+    <div class="mg-col">
+      <h4>Terminal</h4>
+      <ul>
+        <li><a href="/terminal">AI Terminal</a></li>
+        <li><a href="/stocks">AI Stocks</a></li>
+        <li><a href="/crypto">AI Crypto</a></li>
+        <li><a href="/etfs">AI ETFs</a></li>
+        <li><a href="/bubble">AI Bubble Risk</a></li>
+        <li><a href="/news">Market News</a></li>
+      </ul>
+    </div>
+    <div class="mg-col">
+      <h4>Tools</h4>
+      <ul>
+        <li><a href="/bubble#stress">Portfolio Stress Test</a></li>
+        <li><a href="/quiz">Exposure Check</a></li>
+        <li><a href="/share">Share Cards</a></li>
+        <li><a href="/evaluate-prompt">Prompt Quality Check</a></li>
+        <li><a href="/signup">Watchlists &amp; Alerts — free account</a></li>
+      </ul>
+    </div>
+    <div class="mg-col">
+      <h4>Research</h4>
+      <ul>
+        <li><a href="/research">Research Feed</a></li>
+        <li><a href="/blog">Blog</a></li>
+        <li><a href="/blog/ai-bubble-valuation-history">AI Bubble or Market Reset?</a></li>
+        <li><a href="/ipos">IPO Watch</a></li>
+        <li><a href="/stocks/aschenbrenner">Aschenbrenner Basket</a></li>
+        <li><a href="/stocks/burry-short-watch">Burry Short Watch</a></li>
+      </ul>
+    </div>
+    <div class="mg-col">
+      <h4>AI Themes</h4>
+      <ul>
+        <li><a href="/stocks/themes/ai-chips-and-compute">AI Chips &amp; Compute</a></li>
+        <li><a href="/stocks/themes/ai-software-and-cloud-infrastructure">AI Software &amp; Cloud</a></li>
+        <li><a href="/stocks/themes/powering-ai">Powering AI</a></li>
+        <li><a href="/stocks/themes/data-center-power-and-energy">Data-Center Power &amp; Energy</a></li>
+        <li><a href="/stocks/themes/chip-equipment-and-ai-hardware">Chip Equipment &amp; AI Hardware</a></li>
+        <li><a href="/stocks/themes/ai-platforms-internet-and-adtech">AI Platforms &amp; Adtech</a></li>
+        <li><a href="/stocks/themes/ai-applications-and-data-software">AI Apps &amp; Data Software</a></li>
+      </ul>
+    </div>
+    <div class="mg-col">
+      <h4>Company</h4>
+      <ul>
+        <li><a href="/about">About Santro AI</a></li>
+        <li><a href="/methodology">Methodology</a></li>
+        <li><a href="/research">Data &amp; sources</a></li>
+        <li><a href="mailto:hello@santroai.tech">Contact</a></li>
+        <li><a href="/privacy">Privacy Policy</a></li>
+        <li><a href="/terms">Terms of Use</a></li>
+        <li><a href="https://x.com/SantroAI" target="_blank" rel="noopener">@SantroAI on X</a></li>
+        <li><span class="mg-off">iOS app — coming soon</span></li>
+      </ul>
+    </div>
+  </div>
+  <div class="mg-bottom">
+    <span>© 2026 Santro AI. All rights reserved. Uses custom models.</span>
+    <span>Quotes delayed ~15 min. Real-time data planned for Pro. <b class="mg-nfa">Not financial advice.</b></span>
+    <span><a href="/privacy">Privacy</a> · <a href="/terms">Terms</a> · <a href="mailto:hello@santroai.tech">Contact</a></span>
+    <!--MG_EXTRA-->
+  </div>
+</div>
+<script>(function(){var mq=window.matchMedia("(max-width:640px)");var mega=document.querySelector("footer.mega");if(!mega)return;
+function arm(){if(!mq.matches||mega.classList.contains("mg-acc"))return;mega.classList.add("mg-acc");
+mega.querySelectorAll(".mg-col h4").forEach(function(h){h.setAttribute("role","button");h.setAttribute("tabindex","0");h.setAttribute("aria-expanded","false");
+function t(){if(!mq.matches)return;var c=h.parentElement;c.classList.toggle("open");h.setAttribute("aria-expanded",String(c.classList.contains("open")));}
+h.addEventListener("click",t);h.addEventListener("keydown",function(e){if(e.key==="Enter"||e.key===" "){e.preventDefault();t();}});});}
+arm();mq.addEventListener?mq.addEventListener("change",arm):mq.addListener(arm);})();</script>
+</footer>
+
+<script>
+const fmtPct=x=>(x>=0?"+":"")+Number(x).toFixed(2)+"%";
+const pctClass=x=>x>=0?"up":"down";
+function fmtCap(n){
+  if(n>=1e12) return "$"+(n/1e12).toFixed(2)+"T";
+  if(n>=1e9)  return "$"+(n/1e9).toFixed(1)+"B";
+  if(n>=1e6)  return "$"+(n/1e6).toFixed(1)+"M";
+  return "$"+Math.round(n);
+}
+const fmtVol=v=>v==null?"—":v>=1e9?(v/1e9).toFixed(1)+"B":v>=1e6?(v/1e6).toFixed(1)+"M":v>=1e3?(v/1e3).toFixed(0)+"K":""+v;
+const HEAT_STOPS=[[-10,[112,15,25]],[-6,[185,28,28]],[-3,[239,68,68]],[-1,[247,123,123]],
+  [0,[38,42,46]],[1,[105,205,145]],[3,[34,197,94]],[6,[21,128,61]],[10,[10,82,45]]];
+function colorFor(p){const x=Math.max(-10,Math.min(10,p||0));
+  for(let i=0;i<HEAT_STOPS.length-1;i++){const [a,ca]=HEAT_STOPS[i],[b,cb]=HEAT_STOPS[i+1];
+    if(x>=a&&x<=b){const t=(x-a)/((b-a)||1);
+      return `rgb(${ca.map((v,k)=>Math.round(v+(cb[k]-v)*t)).join(",")})`;}}
+  return "rgb(38,42,46)";}
+function heatDark(p){const m=colorFor(p).match(/\d+/g).map(Number);
+  return `rgb(${m.map(v=>Math.round(v*0.30+8)).join(",")})`;}
+const heatText=p=>p>=0?"#8df0b4":"#ff9aa2";
+const fitFs=(len,r,cap)=>Math.max(7,Math.min(cap,Math.floor((r*1.62)/(0.62*Math.max(len,3)))));
+// SPCX: parqet still serves the old AXS SPAC ETF logo for this ticker — use our local SpaceX mark
+const logoUrl=s=>s==="SPCX"?"assets/spacex.png"
+  :`https://assets.parqet.com/logos/symbol/${encodeURIComponent(s.split(".")[0])}?format=png&size=64`;
+const pchip=(k,v)=>`<span class="pchip"><span class="k">${k}</span><span class="${(v??0)>=0?"up":"down"}">${v==null?"—":fmtPct(v)}</span></span>`;
+function sparkSvg(s){
+  const w=260,h=56,min=Math.min(...s),max=Math.max(...s),rng=(max-min)||1;
+  const pts=s.map((v,i)=>`${(i/(s.length-1)*w).toFixed(1)},${(h-4-((v-min)/rng)*(h-8)).toFixed(1)}`).join(" ");
+  const col=(s[s.length-1]>=s[0])?"#22c55e":"#f05a6e";
+  return `<div class="sec-label">Last 60 sessions</div>
+   <svg width="100%" viewBox="0 0 ${w} ${h}" preserveAspectRatio="none" style="display:block;max-width:560px">
+     <polyline points="${pts}" fill="none" stroke="${col}" stroke-width="2"/></svg>`;
+}
+
+const UNI_SHORT={
+  ai_chips_and_compute:"Chips & Compute",
+  ai_software_and_cloud_infrastructure:"Software & Cloud",
+  ai_applications_and_data_software:"Apps & Data",
+  chip_equipment_and_ai_hardware:"Equip & HW",
+  ai_platforms_internet_and_adtech:"Platforms & Ads",
+  data_center_power_and_energy:"DC Power",
+  applied_ai_industrial_defense_and_vertical:"Applied AI",
+};
+const UNI_ICONS=(()=>{
+  const wrap=p=>"data:image/svg+xml;utf8,"+encodeURIComponent(
+    `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="#ffffff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">${p}</svg>`);
+  return {
+    ai_chips_and_compute: wrap('<rect x="5" y="5" width="14" height="14" rx="2"/><rect x="10" y="10" width="4" height="4"/><path d="M9 2v3M15 2v3M9 19v3M15 19v3M2 9h3M2 15h3M19 9h3M19 15h3"/>'),
+    ai_software_and_cloud_infrastructure: wrap('<path d="M17.5 19H6.3A4.3 4.3 0 0 1 5.4 10.5a7 7 0 0 1 13.6 1.9A3.8 3.8 0 0 1 17.5 19z"/>'),
+    ai_applications_and_data_software: wrap('<ellipse cx="12" cy="5.5" rx="7.5" ry="3"/><path d="M4.5 5.5v13c0 1.7 3.4 3 7.5 3s7.5-1.3 7.5-3v-13"/><path d="M4.5 12c0 1.7 3.4 3 7.5 3s7.5-1.3 7.5-3"/>'),
+    chip_equipment_and_ai_hardware: wrap('<rect x="3" y="3.5" width="18" height="7" rx="2"/><rect x="3" y="13.5" width="18" height="7" rx="2"/><path d="M7 7h.01M7 17h.01"/>'),
+    ai_platforms_internet_and_adtech: wrap('<rect x="3" y="4" width="18" height="13" rx="2"/><path d="M9 21h6M12 17v4"/><path d="M8 13v-2.5M12 13V8M16 13v-4"/>'),
+    data_center_power_and_energy: wrap('<polygon points="13 2 4 14 11.5 14 11 22 20 10 12.5 10 13 2"/>'),
+    applied_ai_industrial_defense_and_vertical: wrap('<circle cx="9.5" cy="9.5" r="3.6"/><circle cx="14.5" cy="9.5" r="3.6"/><circle cx="9.5" cy="14.5" r="3.6"/><circle cx="14.5" cy="14.5" r="3.6"/>'),
+  };
+})();
+
+function packBubbles(items,key,W,H){
+  const maxV=Math.max(...items.map(x=>x[key]));
+  const maxR=Math.min(W,H)*0.22, minR=Math.max(22,Math.min(W,H)*0.06);
+  const nodes=items.map(x=>({it:x,r:Math.max(minR,maxR*Math.sqrt(x[key]/maxV))})).sort((a,b)=>b.r-a.r);
+  const placed=[];
+  for(const n of nodes){
+    if(!placed.length){n.x=0;n.y=0;placed.push(n);continue;}
+    for(let t=0.1;;t+=0.07){
+      const x=2.1*t*Math.cos(t),y=2.1*t*Math.sin(t)*0.8;
+      if(placed.every(p=>{const dx=p.x-x,dy=p.y-y;return dx*dx+dy*dy>=(p.r+n.r+4)**2;})||t>2500){n.x=x;n.y=y;break;}
+    }
+    placed.push(n);
+  }
+  const minX=Math.min(...placed.map(p=>p.x-p.r)),maxX=Math.max(...placed.map(p=>p.x+p.r));
+  const minY=Math.min(...placed.map(p=>p.y-p.r)),maxY=Math.max(...placed.map(p=>p.y+p.r));
+  const pad=10,s=Math.min((W-2*pad)/(maxX-minX),(H-2*pad)/(maxY-minY),1.2);
+  const ox=(W-(maxX-minX)*s)/2-minX*s,oy=(H-(maxY-minY)*s)/2-minY*s;
+  placed.forEach(p=>{p.x=p.x*s+ox;p.y=p.y*s+oy;p.r*=s;});
+  return placed;
+}
+
+let chart=null, sim=null, bounds=null, timer=null;
+let universe=null, eco=null, uniGroup=null, mode="universe", selected=null;
+
+function bubbleItem(n){
+  if(n.kind==="sector"){
+    const g=n.obj, avg=g.avg_change_pct||0, heat=colorFor(avg);
+    const m=heat.match(/\d+/g).map(Number);
+    const core=`rgb(${m.map(v=>Math.round(v*0.18+7)).join(",")})`;
+    const name=UNI_SHORT[g.id]||g.label;
+    const fs=Math.max(9, fitFs(name.length, n.r, 16));
+    const showIcon=n.r>=46, showCap=n.r>=34;
+    const isz=Math.max(14, Math.min(26, Math.round(n.r*0.26)));
+    const icon=showIcon ? UNI_ICONS[g.id] : null;
+    const rich={
+      nm:{color:"#fff",fontWeight:700,fontSize:fs,lineHeight:Math.round(fs*1.6),align:"center"},
+      pc:{color:heatText(avg),fontWeight:700,fontSize:Math.max(9,Math.round(fs*0.85)),lineHeight:Math.round(fs*1.35),align:"center"}};
+    let fmt=`{nm|${name}}`;
+    if(icon){ rich.ic={backgroundColor:{image:icon},width:isz,height:isz,align:"center"}; fmt=`{ic|}\n`+fmt; }
+    if(showCap){ rich.cap={color:"rgba(255,255,255,.55)",fontWeight:600,fontSize:Math.max(8,Math.round(fs*0.8)),lineHeight:Math.round(fs*1.25),align:"center"}; fmt+=`\n{cap|${fmtCap(g.total_market_cap_b*1e9)}}`; }
+    fmt+=`\n{pc|${fmtPct(avg)}}`;
+    return {value:[n.x,n.y], symbolSize:n.r*2, group:g,
+      itemStyle:{color:core, borderColor:heat, borderWidth:2, shadowBlur:0},
+      label:{show:true, position:"inside", align:"center", verticalAlign:"middle", formatter:fmt, rich}};
+  }
+  const t=n.obj, pct=t.change_pct||0, heat=colorFor(pct);
+  const txt=t.ticker;
+  const fs=Math.min(Math.max(9,Math.round(n.r*0.30)), fitFs(txt.length,n.r,22));
+  const pcFs=Math.max(8,Math.round(fs*0.82));
+  const showLabel=n.r>=13 && fs>=8;
+  const ls=Math.round(n.r*0.5);
+  const showLogo=n.r>30 && !txt.includes(".") && (ls+fs*1.35+pcFs*1.2)<n.r*1.7;
+  const sel=txt===selected;
+  const rich={
+    tk:{color:"#fff",fontWeight:700,fontSize:fs,lineHeight:Math.round(fs*1.35),align:"center"},
+    pc:{color:heatText(pct),fontWeight:600,fontSize:pcFs,lineHeight:Math.round(pcFs*1.3),align:"center"}};
+  let fmt="";
+  if(showLogo){rich.lg={backgroundColor:{image:logoUrl(txt)},width:ls,height:ls,borderRadius:ls/2,align:"center"};fmt+="{lg|}\n";}
+  fmt+=`{tk|${txt}}\n{pc|${fmtPct(pct)}}`;
+  return {value:[n.x,n.y], symbolSize:n.r*2, uniTicker:t,
+    itemStyle:{color:heatDark(pct), borderColor:sel?"#fff":heat,
+      borderWidth:sel?3.5:Math.max(2,Math.round(n.r*0.09)),
+      shadowColor:heat, shadowBlur:Math.max(8,Math.round(n.r*0.35))},
+    label:{show:showLabel, position:"inside", align:"center", verticalAlign:"middle", formatter:fmt, rich}};
+}
+
+function currentItems(){
+  if(mode==="eco") return eco ? {kind:"uni", items:eco.tickers} : null;
+  if(!universe) return null;
+  return uniGroup ? {kind:"uni", items:uniGroup.tickers} : {kind:"sector", items:universe.bubbles};
+}
+
+function render(){
+  const view=currentItems();
+  if(!view) return;
+  const el=document.getElementById("chart");
+  const W=el.clientWidth||900, H=el.clientHeight||520;
+  view.items.forEach(o=>{o._sz=Math.abs((o.change_pct!=null?o.change_pct:o.avg_change_pct)||0)+0.5;});
+  sim=packBubbles(view.items,"_sz",W,H).map(n=>({x:n.x,y:n.y,r:n.r,
+    vx:(Math.random()-0.5)*0.7,vy:(Math.random()-0.5)*0.7,obj:n.it,kind:view.kind}));
+  bounds={W,H};
+  chart.setOption({backgroundColor:"transparent",
+    grid:{left:0,right:0,top:0,bottom:0},
+    xAxis:{show:false,min:0,max:W},yAxis:{show:false,min:0,max:H},
+    tooltip:{textStyle:{fontSize:12},formatter:p=>{
+      if(p.data.group){const g=p.data.group; const c=g.avg_change_pct>=0?"#22c55e":"#f05a6e";
+        return `<b>${g.label}</b><br/>${g.count} names · ${fmtCap(g.total_market_cap_b*1e9)} combined<br/>`
+             + `<span style="color:${c}">${fmtPct(g.avg_change_pct)} avg of members today</span><br/>`
+             + `<span style="opacity:.7">click to drill into members ↓</span>`;}
+      if(p.data.uniTicker){const t=p.data.uniTicker; const c=t.change_pct>=0?"#22c55e":"#f05a6e";
+        return `<b>${t.ticker}</b> · ${t.company}<br/>`
+             + `<span style="color:${c}">${fmtPct(t.change_pct)}</span> &nbsp; $${(t.price??0).toFixed(2)}<br/>`
+             + `Cap ${fmtCap(t.market_cap_b*1e9)} · Vol ${fmtVol(t.volume)} · P/E ${t.pe==null?"—":t.pe}<br/>`
+             + `<span style="opacity:.7">${t.industry}</span>`;}
+      return "";}},
+    series:[{type:"scatter",data:sim.map(bubbleItem),animationDuration:380,
+      emphasis:{itemStyle:{borderColor:"#fff",borderWidth:3}}}]},true);
+  startMotion();
+}
+
+function startMotion(){
+  if(timer) clearInterval(timer);
+  timer=setInterval(()=>{
+    if(!sim||document.hidden) return;
+    const {W,H}=bounds;
+    for(const n of sim){
+      n.x+=n.vx;n.y+=n.vy;
+      if(n.x-n.r<2){n.x=n.r+2;n.vx=Math.abs(n.vx);} if(n.x+n.r>W-2){n.x=W-2-n.r;n.vx=-Math.abs(n.vx);}
+      if(n.y-n.r<2){n.y=n.r+2;n.vy=Math.abs(n.vy);} if(n.y+n.r>H-2){n.y=H-2-n.r;n.vy=-Math.abs(n.vy);}
+    }
+    for(let i=0;i<sim.length;i++)for(let j=i+1;j<sim.length;j++){
+      const a=sim[i],b=sim[j],dx=b.x-a.x,dy=b.y-a.y,d=Math.hypot(dx,dy)||1,min=a.r+b.r+2;
+      if(d<min){const ux=dx/d,uy=dy/d,ov=(min-d)/2;
+        a.x-=ux*ov;a.y-=uy*ov;b.x+=ux*ov;b.y+=uy*ov;
+        let t=a.vx;a.vx=b.vx;b.vx=t;t=a.vy;a.vy=b.vy;b.vy=t;}
+    }
+    chart.setOption({series:[{animation:false,data:sim.map(bubbleItem)}]});
+  },50);
+}
+
+function showSector(g){
+  const rows=g.tickers.map(t=>`
+      <tr><td><a href="t?sym=${encodeURIComponent(t.ticker)}" title="Open the ${t.ticker} page">${t.ticker}</a></td>
+        <td class="co">${t.company||""}</td>
+        <td class="num">$${(t.price??0).toFixed(2)}</td>
+        <td class="num ${pctClass(t.change_pct)}">${fmtPct(t.change_pct)}</td>
+        <td class="num">${t.market_cap_b?fmtCap(t.market_cap_b*1e9):"—"}</td>
+        <td class="num">${t.pe==null?"—":t.pe}</td>
+        <td class="num">${fmtVol(t.volume)}</td></tr>`).join("");
+  document.getElementById("detail").innerHTML=`
+    <div class="row"><h3>${g.label}</h3>
+      <span class="${pctClass(g.avg_change_pct)}" style="margin-left:auto;font-weight:700">${fmtPct(g.avg_change_pct)} avg</span></div>
+    <div class="kv">
+      <div><div class="k">Combined market cap</div><div class="v">${fmtCap(g.total_market_cap_b*1e9)}</div></div>
+      <div><div class="k">Members</div><div class="v">${g.count} tickers</div></div>
+    </div>
+    <div class="sec-label">Members · ticker opens its page</div>
+    <table class="sect-tbl"><thead>
+      <tr><th>Ticker</th><th>Company</th><th class="num">Price</th><th class="num">1D</th>
+        <th class="num">Cap</th><th class="num">P/E</th><th class="num">Volume</th></tr></thead>
+      <tbody>${rows}</tbody></table>
+    <div class="sec-label">Finviz industries merged into this sector</div>
+    <div class="chips">${g.industries_included.map(i=>`<span class="chip">${i}</span>`).join("")}</div>`;
+}
+
+function showEcoOverview(){
+  const rows=eco.tickers.map(t=>`
+      <tr><td><a href="t?sym=${encodeURIComponent(t.ticker)}" title="Open the ${t.ticker} page">${t.ticker}</a></td>
+        <td class="co">${t.company||""}</td>
+        <td class="num">$${(t.price??0).toFixed(2)}</td>
+        <td class="num ${pctClass(t.change_pct)}">${fmtPct(t.change_pct)}</td>
+        <td class="num">${t.market_cap_b?fmtCap(t.market_cap_b*1e9):"—"}</td>
+        <td class="num">${t.pe==null?"—":t.pe}</td>
+        <td class="num">${fmtVol(t.volume)}</td></tr>`).join("");
+  document.getElementById("detail").innerHTML=`
+    <div class="row"><h3>NVIDIA Ecosystem</h3>
+      <span class="muted">all ${eco.tickers.length} members by market cap</span></div>
+    <div class="sec-label">Ticker opens its page · click a bubble for the full card</div>
+    <table class="sect-tbl"><thead>
+      <tr><th>Ticker</th><th>Company</th><th class="num">Price</th><th class="num">1D</th>
+        <th class="num">Cap</th><th class="num">P/E</th><th class="num">Volume</th></tr></thead>
+      <tbody>${rows}</tbody></table>`;
+}
+
+function showTicker(t){
+  selected=t.ticker;
+  const basket = mode==="eco" ? "NVIDIA Ecosystem" : (uniGroup ? (UNI_SHORT[uniGroup.id]||uniGroup.label) : "AI Universe");
+  document.getElementById("detail").innerHTML=`
+    <div class="row"><h3>${t.ticker}</h3><span class="muted">${t.company}</span>
+      <span class="badge">${basket}</span>
+      <span class="${pctClass(t.change_pct)}" style="margin-left:auto;font-weight:700">${fmtPct(t.change_pct)}</span></div>
+    <div class="kv">
+      <div><div class="k">Price</div><div class="v">$${(t.price??0).toFixed(2)}</div></div>
+      <div><div class="k">Market cap</div><div class="v">${fmtCap(t.market_cap_b*1e9)}</div></div>
+      <div><div class="k">Finviz industry</div><div class="v">${t.industry}</div></div>
+      <div><div class="k">P/E · Volume</div><div class="v">${t.pe==null?"—":t.pe} · ${fmtVol(t.volume)}</div></div>
+    </div>
+    ${t.perf?`<div class="sec-label">Performance</div><div>
+      ${pchip("1D",t.change_pct)}${pchip("1W",t.perf["1W"])}${pchip("1M",t.perf["1M"])}${pchip("1Y",t.perf["1Y"])}
+    </div>`:""}
+    ${t.spark&&t.spark.length>2?sparkSvg(t.spark):""}
+    <p style="margin:12px 0 0"><a href="t?sym=${encodeURIComponent(t.ticker)}"><b>Ticker page ↗</b></a>
+      &nbsp;·&nbsp; <a href="https://finance.yahoo.com/quote/${encodeURIComponent(t.ticker)}" target="_blank" rel="noopener">Yahoo Finance →</a></p>`;
+}
+
+function applyView(){
+  const back=document.getElementById("uni-back");
+  back.style.display = (mode==="universe" && uniGroup) ? "" : "none";
+  const title=document.getElementById("map-title");
+  if(mode==="eco" && eco){
+    title.textContent=`NVIDIA Ecosystem · ${eco.tickers.length} names · sized by day move`;
+    render();
+    // no selection yet → whole basket as a table; bubble click swaps to the card
+    const t=eco.tickers.find(x=>x.ticker===selected);
+    t ? showTicker(t) : showEcoOverview();
+  } else if(universe){
+    title.textContent = uniGroup
+      ? `${uniGroup.label} · sized by day move`
+      : `AI Universe · ${universe.meta.total_tickers} names · ${universe.bubbles.length} sectors`;
+    render();
+    if(uniGroup){
+      const t=uniGroup.tickers.find(x=>x.ticker===selected);
+      t ? showTicker(t) : showSector(uniGroup);
+    } else showSector(universe.bubbles[0]);
+  } else title.textContent="Loading…";
+}
+
+async function load(){
+  try{
+    universe=await (await fetch("universe.json?t="+Date.now())).json();
+    if(uniGroup) uniGroup=universe.bubbles.find(b=>b.id===uniGroup.id)||null;
+  }catch(e){ universe=null; }
+  try{ eco=await (await fetch("ecosystem.json?t="+Date.now())).json(); }
+  catch(e){ eco=null; }
+  try{
+    const d=await (await fetch("data.json?t="+Date.now())).json();
+    document.getElementById("asof").textContent="As of "+d.as_of_local;
+  }catch(e){}
+  if(!chart){
+    chart=echarts.init(document.getElementById("chart"));
+    chart.on("click",p=>{
+      if(p.data&&p.data.group){ uniGroup=p.data.group; selected=null; applyView(); }
+      else if(p.data&&p.data.uniTicker){ selected=p.data.uniTicker.ticker; render(); showTicker(p.data.uniTicker); }
+    });
+    window.addEventListener("resize",()=>{chart.resize();applyView();});
+  }
+  applyView();
+}
+document.querySelectorAll(".seg-btn[data-mode]").forEach(b=>b.addEventListener("click",()=>{
+  if(b.dataset.mode===mode) return;
+  mode=b.dataset.mode; uniGroup=null; selected=null;
+  document.querySelectorAll(".seg-btn[data-mode]").forEach(x=>x.classList.toggle("active",x.dataset.mode===mode));
+  applyView();
+}));
+document.getElementById("uni-back").addEventListener("click",()=>{
+  uniGroup=null; selected=null; applyView();
+});
+load(); setInterval(load, 60000);
+</script>
+</body>
+</html>
