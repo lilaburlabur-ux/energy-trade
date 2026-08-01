@@ -26,7 +26,7 @@
 <meta property="og:image:height" content="630" />
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:title" content="Energy Trade — The Energy Market Terminal" />
-<meta name="twitter:description" content="AI market research terminal for stocks, ETFs, crypto, valuation tools, share cards, and bubble-risk signals." />
+<meta name="twitter:description" content="Energy market research terminal — oil &amp; gas, nuclear, renewables and grid stocks, ETFs, valuation tools and share cards." />
 <meta name="twitter:image" content="https://energytrade.example/assets/og-map.png" />
 <meta property="og:type" content="website" />
 <script type="application/ld+json">
@@ -35,11 +35,11 @@
   "url":"https://energytrade.example/",
   "logo":{"@type":"ImageObject","url":"https://energytrade.example/assets/brand/logo-1024.png","width":1024,"height":1024},
   "email":"hello@energytrade.example",
-  "description":"The AI Trade Terminal: AI-sector bubbles, hot tickers with the sourced why, ETFs, AI crypto, research, valuation tools and a bubble-risk signal. Quotes delayed ~15 min."},
+  "description":"The Energy Market Terminal: energy-sector bubbles, hot tickers with the sourced why, ETFs and valuation tools. Quotes delayed ~15 min."},
  {"@type":"WebSite","name":"Energy Trade","url":"https://energytrade.example/",
   "alternateName":["energytrade.example","Energy Trade Terminal","Energy Trade Trade Terminal"],
   "publisher":{"@id":"https://energytrade.example/#org"},
-  "description":"AI Trade Terminal for AI stocks, ETFs, AI crypto, hot tickers, research, valuation tools and a bubble-risk signal."}]}
+  "description":"Energy Market Terminal for energy stocks, ETFs, hot tickers, research and valuation tools."}]}
 </script>
 <style>
   :root{
@@ -511,9 +511,8 @@
   footer .foot-text .nfa{color:#e0a73f; font-weight:600;}
   footer .foot-text .rights{font-size:11px; color:var(--faint);}
 </style>
-<link rel="stylesheet" href="accounts/accounts.css?v=9" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebApplication","name":"Energy Trade","url":"https://energytrade.example/","applicationCategory":"FinanceApplication","operatingSystem":"Web browser","description":"AI-markets terminal: bubble maps of AI stocks, ETFs and crypto, hot tickers with sourced reasons, a composite bubble-risk index, research notes and a fair-value calculator. Market data is delayed ~15 minutes.","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"},"isAccessibleForFree":true,"publisher":{"@id":"https://energytrade.example/#org"}}
+{"@context":"https://schema.org","@type":"WebApplication","name":"Energy Trade","url":"https://energytrade.example/","applicationCategory":"FinanceApplication","operatingSystem":"Web browser","description":"Energy-markets terminal: bubble maps of oil &amp; gas, nuclear, renewables and grid stocks, hot tickers with sourced reasons, energy ETFs and a fair-value calculator. Market data is delayed ~15 minutes.","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"},"isAccessibleForFree":true,"publisher":{"@id":"https://energytrade.example/#org"}}
 </script>
 
 <style id="lp-desktop">
@@ -938,9 +937,9 @@ html[data-theme="light"] .meganav .mn-theme .ic-moon{display:none;}
 </style>
 
 <div class="hp-tape" id="hp-tape">
-  <span>AI universe <b id="tp-uni">—</b></span>
+  <span>Energy universe <b id="tp-uni">—</b></span>
   <span>Hottest theme: <b id="tp-theme">—</b></span>
-  <span>Bubble Index <b id="tp-bi">—</b></span>
+  <span>WTI crude <b id="tp-bi">—</b></span>
   <span class="ds-comp-chip">Quotes delayed ~15 min</span>
 </div>
 
@@ -948,95 +947,32 @@ html[data-theme="light"] .meganav .mn-theme .ic-moon{display:none;}
   <!-- 1 · hero: prove the product in 3 seconds -->
   <section class="hp-hero" id="hero">
     <div>
-      <h1>The AI trade is crowded. See&nbsp;where.</h1>
-      <p class="hp-sub">Energy Trade measures attention, crowding and valuation pressure across 100 AI stocks,
-      40 ETFs and AI crypto — one terminal, updated through the day. Hot means attention, not direction.</p>
-      <div class="hp-cred"><span><b data-stat="tickers">68</b> tickers</span><span><b data-stat="themes">9</b> themes</span><span><b>40</b> ETFs</span><span><b>6</b> stress scenarios</span></div>
+      <h1>The energy trade is repricing. See&nbsp;where.</h1>
+      <p class="hp-sub">Energy Trade measures attention, crowding and valuation pressure across 68 energy stocks —
+      oil majors to nuclear, solar and the grid — one terminal, updated through the day. Hot means attention, not direction.</p>
+      <div class="hp-cred"><span><b data-stat="tickers">68</b> tickers</span><span><b data-stat="themes">9</b> themes</span><span><b>WTI · Brent · NatGas</b> on the tape</span></div>
       <div class="hp-ctas">
         <a class="hp-btn primary" href="/terminal">Open the terminal</a>
-        <a class="hp-btn" href="#bubble-index">See today's Bubble Index</a>
+        <a class="hp-btn" href="#universe">See the nine themes</a>
       </div>
-      <p class="hp-trust">Filing-verified research · Not financial advice</p>
-      <p class="hp-hint">New here? <a href="/blog/how-to-read-the-ai-market">How to read the AI market in 5 minutes →</a></p>
+      <p class="hp-trust">Sourced research · Quotes delayed ~15 min · Not financial advice</p>
     </div>
     <div class="hp-panel">
-      <p class="hp-klabel">AI Bubble Risk</p>
-      <div class="hp-gauge"><span class="val" id="hg-val">—</span>
-        <div><span class="lbl" id="hg-lbl">loading</span><div style="font-size:11px;color:var(--faint)">valuation · capital flows · adoption · sentiment · systemic risk</div></div>
-        <svg id="hg-spark" viewBox="0 0 120 34" width="120" height="34" aria-label="7-day trend"></svg></div>
-      <p class="hp-klabel">Hot AI tickers · sourced reasons</p>
+      <p class="hp-klabel">Crude &amp; gas today</p>
+      <div id="hg-fut" style="display:flex;gap:18px;flex-wrap:wrap;margin:4px 0 10px;font-size:13px;color:var(--muted)">loading futures…</div>
+      <p class="hp-klabel">Hot energy tickers · sourced reasons</p>
       <table class="hp-hot"><tbody id="hh-rows"><tr><td colspan="4" style="color:var(--faint)">Loading the heat table…</td></tr></tbody></table>
-      <div class="hp-lockband" data-lock="table" id="hh-lock" role="button" tabindex="0">
-        <span class="ds-lock"></span><span class="ds-locknote">Rows 6–25 — create a free account to see the full heat table.</span>
-      </div>
-    </div>
-  </section>
-
-  <!-- 2 · Bubble Index preview -->
-  <section class="hp-sec" id="bubble-index">
-    <span class="k">The daily dial</span>
-    <h2>One dial for the whole AI trade.</h2>
-    <p class="lead">Valuation, momentum and crowding — weighted, published, updated daily.
-    Risk context, not a crash prediction.</p>
-    <div class="hp-scn">
-      <div class="hp-panel"><p class="hp-klabel">Today</p>
-        <div class="hp-gauge"><span class="val" id="bi-val">—</span>
-          <div><span class="lbl" id="bi-lbl"></span><div style="font-size:11px;color:var(--faint)" id="bi-delta"></div></div></div>
-        <a class="hp-btn" data-lock="alert" href="/bubble" style="min-height:42px">Track the index</a></div>
-      <div class="hp-panel"><p class="hp-klabel">30-day history</p>
-        <svg id="bi-hist" viewBox="0 0 560 120" width="100%" height="120"></svg>
-        <div class="hp-lockband" data-lock="table"><span class="ds-lock"></span>
-          <span class="ds-locknote">History beyond 30 days is available on a free account.</span></div>
-        <p style="font-size:11.5px;color:var(--faint);margin:8px 0 0">Components: <span id="bi-comp">valuation · capital flows · adoption · sentiment · systemic risk</span>
-        · <a href="/bubble" style="font-weight:600">methodology</a></p></div>
     </div>
   </section>
 
   <!-- 4 · universe map preview -->
   <section class="hp-sec" id="universe">
     <span class="k">The map</span>
-    <h2>The AI trade is not one trade anymore.</h2>
-    <p class="lead">It moves through compute, power, cloud, software, ETFs and crypto.
-    99 bubbles, sized by cap, colored by heat — the whole map is free to explore.</p>
+    <h2>One energy trade, nine very different businesses.</h2>
+    <p class="lead">It moves through crude, gas, refining, uranium, solar and the grid.
+    68 bubbles, sized by cap, colored by heat — the whole map is free to explore.</p>
     <div class="hp-themes" id="hp-themes"></div>
     <a class="hp-btn" href="/terminal">Explore the full map</a>
-  </section>
-
-  <!-- 5 · portfolio stress hook (Concept C embedded) -->
-  <section class="hp-sec" id="stress-hook">
-    <span class="k">Skin in the game</span>
-    <h2>If the AI trade cracks, what happens to your portfolio?</h2>
-    <p class="lead">Six historical scenarios. Hypothetical, not a forecast. Quotes delayed ~15 min.</p>
-    <div class="hp-scn">
-      <div>
-        <div class="hp-presets" id="hp-presets">
-          <button class="hp-preset on" data-p="NVDA 25, MSFT 20, GOOGL 15, META 15, AAPL 15, AMZN 10">Mag-7 heavy</button>
-          <button class="hp-preset" data-p="SMH 30, AIQ 25, BOTZ 15, QQQ 20, CASH 10">AI ETF core</button>
-          <button class="hp-preset" data-p="BTC 25, ETH 15, TAO 15, FET 10, NVDA 20, CASH 15">AI crypto tilt</button>
-        </div>
-        <a class="hp-btn primary" data-lock="stress" href="/bubble#stress">Run it on your portfolio — free account</a>
-      </div>
-      <div class="hp-panel">
-        <p class="hp-klabel" id="hs-title">Scenario 1 · Dot-com style AI de-rating</p>
-        <div class="hp-gauge"><span class="val" id="hs-val" style="color:var(--red)">—</span>
-          <div style="font-size:12px;color:var(--muted)">modeled drawdown range<br>on the selected sample portfolio</div></div>
-        <div id="hs-locked"></div>
-        <div class="hp-lockband" data-lock="stress"><span class="ds-lock"></span>
-          <span class="ds-locknote">Scenario 1 shown. Unlock all six with a free account.</span></div>
-      </div>
-    </div>
-  </section>
-
-  <!-- 6 · watchlist & alerts -->
-  <section class="hp-sec" id="workflow">
-    <span class="k">Your workflow</span>
-    <h2>Your AI universe, watched.</h2>
-    <div class="hp-grid3">
-      <div class="hp-card"><h4>Watchlist</h4><p>Pin tickers to your watchlist. Your list opens with the terminal, sorted by the day's move.</p></div>
-      <div class="hp-card"><h4>Alerts</h4><p>Level and heat alerts on any ticker or the Bubble Index itself.</p></div>
-      <div class="hp-card"><h4>Daily brief</h4><p>Email brief — coming soon, opt-in. We'd rather ship it late than broken.</p></div>
-    </div>
-    <p style="margin:16px 0 0"><a class="hp-btn" data-lock="watch" href="/signup">Create a free account</a></p>
   </section>
 
   <!-- 7 · research credibility -->
@@ -1044,38 +980,29 @@ html[data-theme="light"] .meganav .mn-theme .ic-moon{display:none;}
     <span class="k">Filing-verified</span>
     <h2>Tweets are leads. Filings are sources.</h2>
     <div class="hp-grid3">
-      <a class="hp-card" href="/stocks/burry-short-watch"><h4>Burry Short Watch</h4><p>Disclosed AI puts, position by position — SEC-verified, never guessed.</p></a>
-      <a class="hp-card" href="/stocks/aschenbrenner"><h4>Aschenbrenner Basket</h4><p>Situational Awareness LP's 13F, tracked quarter by quarter.</p></a>
-      <a class="hp-card" href="/ipos"><h4>IPO Watch</h4><p>Ten AI filings on EDGAR watch — Anthropic to SK hynix.</p></a>
+      <a class="hp-card" href="/stocks/themes/nuclear-uranium"><h4>The nuclear revival</h4><p>Miners, the enricher, the fleet operator and the SMR story stocks — who has cash flow and who has a story.</p></a>
+      <a class="hp-card" href="/stocks/themes/grid-storage"><h4>The grid buildout</h4><p>Turbines, transformers and transmission crews — the backlog trade behind rising power demand.</p></a>
+      <a class="hp-card" href="/stocks/themes/refining-downstream"><h4>The crack-spread trade</h4><p>Refiners profit from the spread between crude and fuels — a different bet than the oil price.</p></a>
     </div>
-    <p style="margin:14px 0 0;font-size:13px;color:var(--muted)">Latest research note: <b id="rs-note" style="color:var(--text)">—</b>
-      <span class="ds-locknote" data-lock="alert" style="margin-left:10px"><span class="ds-lock"></span> Get filing-change alerts — free account.</span></p>
   </section>
 
   <!-- 8 · share cards -->
   <section class="hp-sec" id="cards">
     <span class="k">Distribution</span>
     <h2>Terminal-grade market cards.</h2>
-    <p class="lead">Post the day's heat, your stress result, or the Bubble Index — sourced and timestamped.</p>
+    <p class="lead">Post the day's heat or the sector leaders — sourced and timestamped.</p>
     <div class="hp-grid3">
-      <div class="hp-card"><p class="hp-klabel">Bubble Index card</p><div class="hp-gauge"><span class="val" id="sc-bi">—</span><span class="lbl">today</span></div><p style="font-size:11px;color:var(--faint)">energytrade.example · watermark on preview</p></div>
+      <div class="hp-card"><p class="hp-klabel">Sector heat card</p><div class="hp-gauge"><span class="val" id="sc-sect" style="font-size:22px">—</span></div><p style="font-size:11px;color:var(--faint)">energytrade.example · watermark on preview</p></div>
       <div class="hp-card"><p class="hp-klabel">Heat leader card</p><div class="hp-gauge"><span class="val" id="sc-hot" style="font-size:30px">—</span></div><p style="font-size:11px;color:var(--faint)">sourced reason included</p></div>
-      <div class="hp-card"><h4>Make your own</h4><p>Stress-test result cards in three formats.</p>
+      <div class="hp-card"><h4>Make your own</h4><p>Market cards in three formats, straight from the terminal.</p>
         <p style="margin:10px 0 0"><a class="hp-btn" href="/share" style="min-height:42px">Make a card</a></p></div>
     </div>
   </section>
 
-  <!-- 9 · registration band -->
-  <div class="hp-band">
-    <p><b style="color:var(--text)">Free account:</b> full tables, watchlists, alerts, saved valuations, your terminal setup.<br>
-    Pro later: faster refresh and deeper history — when it's ready, not before.</p>
-    <a class="hp-btn primary" href="/signup">Create free account</a>
-  </div>
 </main>
 
-<div class="hp-stickycta"><a class="hp-btn primary" href="/terminal">Open the terminal</a><a class="hp-btn" href="#bubble-index">Bubble Index</a></div>
+<div class="hp-stickycta"><a class="hp-btn primary" href="/terminal">Open the terminal</a><a class="hp-btn" href="#universe">Themes</a></div>
 
-<script src="/stress-test.js?v=9"></script>
 <script>
 (function(){
 "use strict";
@@ -1086,19 +1013,16 @@ function spark(el,vals,color){if(!vals||vals.length<2)return;const w=el.viewBox.
   const mn=Math.min.apply(null,vals),mx=Math.max.apply(null,vals),sp=(mx-mn)||1;
   const pts=vals.map((v,i)=>((i/(vals.length-1))*w).toFixed(1)+","+((h-4)-((v-mn)/sp)*(h-8)).toFixed(1)).join(" ");
   el.innerHTML='<polyline fill="none" stroke="'+color+'" stroke-width="2" points="'+pts+'"/>';}
-// bubble index
-fetch("/bubble_index.json?t="+Date.now()).then(r=>r.json()).then(d=>{
-  const v=Math.round(d.index?d.index.overall:d.value);
-  const lbl=(d.index&&d.index.label)||d.label||"";
-  const hist=(d.history||[]).map(x=>x.v!=null?x.v:(x.value!=null?x.value:x)).slice(-30);
-  const col=v>=85?"var(--red)":v>=70?"var(--amber,#e0a73f)":"var(--green)";
-  ["hg-val","bi-val","sc-bi","tp-bi"].forEach(id=>{if($(id))$(id).textContent=v;});
-  $("hg-lbl").textContent=lbl;$("hg-lbl").style.color=col;$("bi-lbl").textContent=lbl;$("bi-lbl").style.color=col;
-  if(hist.length>1){const d7=v-hist[Math.max(0,hist.length-8)];$("bi-delta").textContent=(d7>=0?"+":"")+Math.round(d7)+" over 7 days";
-    $("tp-bi").textContent=v+" ("+(d7>=0?"+":"")+Math.round(d7)+" d/d7)";}
-  spark($("hg-spark"),hist.slice(-7),"currentColor");$("hg-spark").style.color=col;
-  spark($("bi-hist"),hist,"currentColor");$("bi-hist").style.color=col;
-}).catch(()=>{ var m=$("bubble-index"); if(m) m.hidden=true; });
+// oil & gas futures (data.json tape — CL=F / BZ=F / NG=F, keyless)
+fetch("/data.json?t="+Date.now()).then(r=>r.json()).then(d=>{
+  const tape=(d.tape||[]).filter(t=>["WTI","Brent","NatGas"].includes(t.label));
+  const el=$("hg-fut");
+  if(el&&tape.length) el.innerHTML=tape.map(t=>
+    '<span><b style="color:var(--text)">'+t.label+'</b> $'+t.price.toLocaleString()+
+    ' <b class="'+(t.change_pct>=0?"up":"down")+'" style="color:var(--'+(t.change_pct>=0?"green":"red")+')">'+pct(t.change_pct)+'</b></span>').join("");
+  const w=tape.find(t=>t.label==="WTI");
+  if(w&&$("tp-bi")){$("tp-bi").textContent="$"+w.price.toLocaleString()+" ("+pct(w.change_pct)+")";$("tp-bi").className=w.change_pct>=0?"up":"down";}
+}).catch(()=>{});
 // hot tickers: top-5 open, 6-10 real symbols blurred
 Promise.all([
  fetch("/hot_tickers.json?t="+Date.now()).then(r=>r.json()).catch(()=>null),
@@ -1141,7 +1065,7 @@ Promise.all([
   function renderHeat(){
     const isAuth=authed();
     const open=rows.map((r,i)=>heatRow({rank:i+1,tk:r.tk,heat:r.heat,why:r.why,locked:false}));
-    const rest=lockedRows.map((r,i)=>heatRow({rank:i+6,tk:r.tk,heat:r.heat,why:r.why,locked:!isAuth}));
+    const rest=lockedRows.map((r,i)=>heatRow({rank:i+6,tk:r.tk,heat:r.heat,why:r.why,locked:false}));
     $("hh-rows").innerHTML=open.concat(rest).join("");
     const band=$("hh-lock"); if(band) band.hidden=isAuth;   // lock copy gone for registered users
   }
@@ -1172,30 +1096,8 @@ Promise.all([
   $("tp-theme").textContent=themes[0].name;
   $("hp-themes").innerHTML=themes.map(t=>'<span class="hp-theme">'+t.name+' <b class="'+(t.move>=0?"up":"down")+'" style="color:var(--'+(t.move>=0?"green":"red")+')">'+pct(t.move)+"</b></span>").join("");
   if(rows[0]) $("sc-hot").textContent=rows[0].tk+" · "+Math.round(rows[0].heat);
+  if($("sc-sect")&&themes[0]) $("sc-sect").textContent=themes[0].name+" "+pct(themes[0].move);
 });
-// research note
-fetch("/research/research.json?t="+Date.now()).then(r=>r.json()).then(d=>{
-  const ks=Object.keys(d.stocks||{});
-  if(ks.length&&$("rs-note")){const st=d.stocks[ks[0]];
-    $("rs-note").textContent=ks[0]+" — "+((st.thesis||"").slice(0,70))+" · signed "+d.signed;}
-}).catch(()=>{});
-// stress presets: scenario 1 real, 2-6 locked (names + blurred values)
-function runPreset(p){
-  if(!window.SantroStress)return;
-  const r=window.SantroStress.run(p); if(r.error)return;
-  const sc=r.scenario_results;
-  const s1=sc.find(s=>/dot-com/i.test(s.scenario_name))||sc[0];
-  $("hs-title").textContent="Scenario 1 · "+s1.scenario_name;
-  $("hs-val").textContent=Math.round((s1.estimated_portfolio_drawdown_range[0]+s1.estimated_portfolio_drawdown_range[1])/2)+"%";
-  $("hs-locked").innerHTML=sc.filter(s=>s!==s1).slice(0,5).map(s=>
-    '<div class="hp-scnrow"><b>'+s.scenario_name+'</b><span class="v ds-blur">'+s.estimated_portfolio_drawdown_range[1]+'%</span></div>').join("");
-}
-document.querySelectorAll(".hp-preset").forEach(b=>b.addEventListener("click",function(){
-  document.querySelectorAll(".hp-preset").forEach(x=>x.classList.remove("on"));
-  b.classList.add("on");runPreset(b.dataset.p);
-  if(window.SantroEvents)SantroEvents.track("stress_preset",{p:b.textContent});
-}));
-var boot=setInterval(function(){if(window.SantroStress){clearInterval(boot);runPreset(document.querySelector(".hp-preset.on").dataset.p);}},150);
 })();
 </script>
 <noscript><p style="padding:20px;color:var(--muted)">Energy Trade — the AI Trade Terminal. Data modules need JavaScript; the <a href="/terminal">terminal</a>, <a href="/stocks">stocks</a>, <a href="/bubble">bubble risk</a> and <a href="/blog">research</a> pages carry full crawlable content. Quotes delayed ~15 min. Not financial advice.</p></noscript>
@@ -1340,8 +1242,5 @@ arm();mq.addEventListener?mq.addEventListener("change",arm):mq.addListener(arm);
 </footer>
 
 <!-- Gated fair-value calculator + user accounts (extends the terminal) -->
-<script src="accounts/config.js?v=3"></script>
-<script src="accounts/api.js?v=13"></script>
-<script src="accounts/accounts.js?v=17"></script>
 </body>
 </html>

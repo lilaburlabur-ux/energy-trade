@@ -517,7 +517,6 @@
     .intro-line p:last-of-type{flex:0 0 auto;margin:2px 0 0;}
   }
 </style>
-<link rel="stylesheet" href="accounts/accounts.css?v=9" />
 </head>
 <body>
 
@@ -861,22 +860,20 @@ html[data-theme="light"] .meganav .mn-theme .ic-moon{display:none;}
   <section class="wl-strip" id="wl-strip" data-pref-section="watchlist" aria-label="Your watchlist" hidden></section>
 
   <div class="intro-line">
-    <h1>AI market terminal</h1>
+    <h1>Energy market terminal</h1>
     <p class="slogan">Hot means attention, not direction.</p>
-    <p><b>Energy Trade</b> is an AI market terminal at <b>energytrade.example</b>. It tracks <a href="/stocks">AI stocks</a>,
-    <a href="/etfs">AI ETFs</a>, <a href="/crypto">AI crypto tokens</a>, hot tickers, research, valuation tools,
-    share cards and an <a href="/bubble">AI bubble-risk signal</a> — one screen for the whole AI trade, sized by
-    the day's move. Auto-refreshing through premarket, market hours and after-hours; quotes delayed ~15 min.
+    <p><b>Energy Trade</b> is an energy market terminal at <b>energytrade.example</b>. It tracks <a href="/stocks">energy stocks</a>
+    and <a href="/etfs">energy ETFs</a> — from oil majors to nuclear, solar and the grid — plus WTI, Brent and
+    natural gas futures, hot tickers, valuation tools and share cards, on one screen sized by the day's move.
+    Auto-refreshing through premarket, market hours and after-hours; quotes delayed ~15 min.
     <a href="/about">How it works</a> · not financial advice.</p>
-    <p style="margin:10px 0 0"><a href="/quiz" style="display:inline-block;background:var(--accent-soft);color:var(--accent-2);border:1px solid var(--accent-border);border-radius:10px;padding:10px 16px;font-weight:700;font-size:13.5px;text-decoration:none">⚡ Run the Exposure Check</a>
-    <span style="font-size:11.5px;color:var(--faint);margin-left:8px">get your market profile — no signup needed</span></p>
   </div>
 
   <div class="m-only m-cta">
-    <a class="m-btn primary" href="/quiz">⚡ 60-sec bubble check</a>
-    <a class="m-btn" href="/stocks">View AI stocks</a>
+    <a class="m-btn primary" href="/stocks">View energy stocks</a>
+    <a class="m-btn" href="/etfs">Energy ETFs</a>
   </div>
-  <p class="m-only m-note"><b>Energy Trade mobile</b> is a lighter view of the AI trade. For full tables,
+  <p class="m-only m-note"><b>Energy Trade mobile</b> is a lighter view of the energy trade. For full tables,
     advanced filters and the complete market tape, open Energy Trade on desktop.
     <span class="m-soon">iOS app coming soon</span> — until then you can add Energy Trade to your Home Screen
     from the browser share menu. Quotes delayed ~15 min. Not financial advice.</p>
@@ -893,14 +890,6 @@ html[data-theme="light"] .meganav .mn-theme .ic-moon{display:none;}
     .new-strip .nc.bear .tag{color:#f0596e;border-color:rgba(240,89,110,.4);}
     .new-strip .nc p{margin:3px 0 0;color:var(--muted);font-size:11.5px;line-height:1.4;}
   </style>
-  <section class="new-strip" aria-label="Newly added">
-    <div class="nl">✦ Newly added</div>
-    <div class="ng">
-      <a class="nc" href="/stocks/aschenbrenner"><b>Aschenbrenner AI infrastructure basket</b><span class="tag">Bull</span><p>Disclosed &amp; reported AI-infra + power positions, source-gated.</p></a>
-      <a class="nc bear" href="/stocks/burry"><b>Michael Burry's reported AI shorts</b><span class="tag">Bear</span><p>Disclosed puts vs Nvidia &amp; Palantir, with the 13F caveat.</p></a>
-      <a class="nc" href="/quiz"><b>Exposure Check</b><span class="tag">New</span><p>Calibrate your terminal — universe, concentration, valuation lens, risk watch. Free account.</p></a>
-    </div>
-  </section>
 
   <div class="grid">
     <section class="panel area-heat" data-pref-section="stocks">
@@ -908,8 +897,7 @@ html[data-theme="light"] .meganav .mn-theme .ic-moon{display:none;}
         <span class="ic">▦</span>
         <span id="heat-title">Loading market bubbles…</span>
         <span class="seg">
-          <button class="seg-btn active" data-mode="universe">AI Universe</button>
-          <button class="seg-btn" data-mode="eco">NVIDIA Ecosystem</button>
+          <button class="seg-btn active" data-mode="universe">Energy Universe</button>
         </span>
         <button class="seg-btn" id="uni-back" style="display:none">← All sectors</button>
         <span class="legend"><span>−10%</span><span class="bar"></span><span>+10%</span></span>
@@ -923,19 +911,19 @@ html[data-theme="light"] .meganav .mn-theme .ic-moon{display:none;}
     </section>
 
     <section class="panel area-news" data-pref-section="news">
-      <h2><span class="ic">✦</span> News with AI <span class="badge live">Auto</span>
+      <h2><span class="ic">✦</span> Energy news <span class="badge live">Auto</span>
         <button class="refresh-btn" id="news-refresh" title="Pull the latest news now" onclick="refreshNews(this)">↻</button></h2>
       <div class="body" id="news">Checking what moved and why…</div>
     </section>
 
     <section class="panel area-ipo">
-      <h2><span class="ic"></span> SK hynix ADR tracker <span class="badge live" id="spcx-badge">Delayed ~15m</span></h2>
+      <h2><span class="ic"></span> Oil &amp; gas futures <span class="badge live" id="spcx-badge">Delayed ~15m</span></h2>
       <div class="body" id="ipo"></div>
     </section>
 
     <section class="panel area-small">
       <h2><span class="ic"></span> Hot tickers <span class="badge live" id="runners-badge">Auto</span><a href="/share?card=hot" title="Share the hot tickers" style="margin-left:10px;font-size:11px;font-weight:700;color:var(--accent-2);text-decoration:none">Share ↗</a></h2>
-      <div class="body" id="small">Scanning the AI tape…</div>
+      <div class="body" id="small">Scanning the energy tape…</div>
     </section>
 
     <section class="panel area-takeaways" data-pref-section="research">
@@ -946,12 +934,10 @@ html[data-theme="light"] .meganav .mn-theme .ic-moon{display:none;}
 
   <section class="term-static" style="margin:8px 16px 0;padding:14px 16px;background:var(--panel);border:1px solid var(--border);border-radius:12px;">
     <p style="margin:0;font-size:12.5px;line-height:1.65;color:var(--muted)">
-    Today's AI terminal tracks <b style="color:var(--text)"><span id="trk-tickers">89</span> AI tickers across <span id="trk-sectors">7</span> sectors</b>, plus
-    <a href="/crypto" style="color:var(--accent-2);text-decoration:none">AI crypto</a>,
-    <a href="/etfs" style="color:var(--accent-2);text-decoration:none">AI ETFs</a>,
+    Today's energy terminal tracks <b style="color:var(--text)"><span id="trk-tickers">68</span> energy tickers across <span id="trk-sectors">9</span> sectors</b>, plus
+    <a href="/etfs" style="color:var(--accent-2);text-decoration:none">energy ETFs</a>,
     <a href="/news" style="color:var(--accent-2);text-decoration:none">news</a>,
-    hot tickers with the sourced reason each name is moving, and an
-    <a href="/bubble" style="color:var(--accent-2);text-decoration:none">AI bubble-risk signal</a>.
+    WTI, Brent and natural gas futures, and hot tickers with the sourced reason each name is moving.
     Bubbles are sized by the day's move and colored by direction. Quotes delayed ~15 min —
     <a href="/about" style="color:var(--accent-2);text-decoration:none">how it works</a>.
     <span class="nfa">Not financial advice.</span></p>
@@ -1367,7 +1353,7 @@ function showEcoOverview(){
 function stockPageUrl(sym){ var u=(window.universe||universe); var has=u&&u.bubbles&&u.bubbles.some(function(b){return b.tickers.some(function(x){return x.ticker===sym;});}); return has?"/stocks/"+String(sym).toLowerCase():"t?sym="+encodeURIComponent(sym); }
 function showUniverseDetail(t){
   document.getElementById("detail-title").innerHTML=
-    `Selected — ${t.ticker} <span class="badge live">${uniGroup?(UNI_SHORT[uniGroup.id]||uniGroup.label):(heatMode==="eco"?"NVIDIA Ecosystem":"AI Universe")}</span>`;
+    `Selected — ${t.ticker} <span class="badge live">${uniGroup?(UNI_SHORT[uniGroup.id]||uniGroup.label):(heatMode==="eco"?"Ecosystem":"Energy Universe")}</span>`;
   document.getElementById("detail").innerHTML=`
     <div class="d-head"><span class="d-sym">${t.ticker}</span><span class="d-name">${t.company}</span>
       <span id="d-watch" style="margin-left:2px"></span>
@@ -1500,7 +1486,7 @@ function renderBrief(){
     const aCls=delta>0?"down":delta<0?"up":"";   // risk rising = red, falling = green
     const drv=pillarDriver(ix);
     riskTile=`<div class="bt risk">
-      <div class="k">AI bubble risk today</div>
+      <div class="k">Energy gauge</div>
       <div class="top"><span class="num" style="color:${riskColor(ix.overall)}">${Math.round(ix.overall)}</span>
         <span class="s">/100 · ${ix.label||""}</span>
         <span class="s ${aCls}" style="font-weight:700">${arrow} vs prev</span></div>
@@ -1508,16 +1494,21 @@ function renderBrief(){
       <div class="spark">${briefSpark(hist)}</div>
       <a class="rsh" href="/share?card=risk">Share risk card ↗</a></div>`;
   } else {
-    riskTile=`<div class="bt risk"><div class="k">AI bubble risk today</div><div class="s">Index feed connecting…</div></div>`;
+    const cm=(window.tapeData||[]).filter(t=>["WTI","Brent","NatGas"].includes(t.label));
+    riskTile = cm.length
+      ? `<div class="bt risk"><div class="k">Crude &amp; gas today</div>`
+        + cm.map(t=>`<div class="s" style="margin-top:3px"><b style="color:var(--text)">${t.label}</b> ${t.price.toLocaleString()} <span class="${pctClass(t.change_pct)}">${fmtPct(t.change_pct)}</span></div>`).join("")
+        + `</div>`
+      : `<div class="bt risk"><div class="k">Crude &amp; gas today</div><div class="s">Futures feed connecting…</div></div>`;
   }
   let note;
   if(ix && breadth>=58 && ix.overall>=58) note=`Broad green across the AI tape, but the bubble gauge is hot at ${Math.round(ix.overall)} — strength and froth at once.`;
   else if(ix && breadth<=42 && ix.overall<45) note=`The tape is mostly red, yet the bubble gauge is calm at ${Math.round(ix.overall)} — fear without froth.`;
   else if(nn && top && nn.ticker===top.ticker && Math.abs(top.change_pct)>6) note=`${top.ticker} leads the board with no clear catalyst — that's attention, not news.`;
-  else if(strong && weak) note=`${strong.label} leads while ${weak.label} lags — rotation within the AI trade, not a one-way move.`;
+  else if(strong && weak) note=`${strong.label} leads while ${weak.label} lags — rotation within the energy trade, not a one-way move.`;
   else note=`Mixed tape — no single signal dominates this session.`;
   el.innerHTML=`
-    <div class="brief-head"><span class="t">⚡ AI trade in 60 seconds</span>
+    <div class="brief-head"><span class="t">⚡ Energy trade in 60 seconds</span>
       <span class="clk">${clk}</span>
       <a class="sh" href="/share?card=sixty">Share ↗</a></div>
     <div class="brief-grid">
@@ -1570,53 +1561,31 @@ function renderSamples(){
   }
   renderSpaceX();
 }
-// SK hynix ADR tracker — the panel's IPO feature: big live SKHY price
-// (universe.json, yf-aliased to SKHYV until Monday's ticker conversion),
-// premium vs the $149 ADS pricing, @DeItaone squawk + headlines.
-const SKHY_ADS = 149.00;   // priced ADS reference (reported), like SPCX's 135 seed
+// Oil & gas futures panel — front-month WTI / Brent / NatGas from the
+// data.json tape (keyless yfinance futures symbols CL=F / BZ=F / NG=F).
 function renderSpaceX(){
   const el=document.getElementById("ipo");
   if(!el) return;
-  const s = universe ? universe.bubbles.flatMap(b=>b.tickers).find(t=>t.ticker==="SKHY") : null;
   const badge=document.getElementById("spcx-badge");
-  if(badge){
-    const ts=(tweets&&tweets.meta&&tweets.meta.as_of)||(universe&&universe.meta.as_of)||null;
-    const ago=ts?timeAgo(ts.replace(" UTC","Z").replace(" ","T")):"";
-    badge.textContent="Auto"+(ago?" · "+ago:"");
+  if(badge) badge.textContent="Delayed ~15m";
+  const DESC={WTI:"US crude benchmark · front month (CL=F)",
+              Brent:"Global crude benchmark · front month (BZ=F)",
+              NatGas:"Henry Hub natural gas · front month (NG=F)"};
+  const tape=(window.tapeData||[]).filter(t=>DESC[t.label]);
+  if(!tape.length){
+    el.innerHTML='<div class="runner-note">Futures tape connecting — refreshes with the next data cycle…</div>';
+    return;
   }
-  let h="";
-  const live = s && s.price!=null;
-  const traded = live && (s.change_pct!==0 || s.price!==SKHY_ADS);
-  h+=`<div class="spcx-head" onclick="${live?"openTicker('SKHY')":"location.href='/ipos/sk-hynix-adr'"}" title="${live?"Open SKHY in the bubble map":"Open the SK hynix IPO watch profile"}">
-    <div class="spcx-logo"><span>SK</span><img src="https://assets.parqet.com/logos/symbol/SKHY?format=png&size=64" alt="SK hynix" onerror="this.remove()"></div>
-    <div class="spcx-main"><div class="spcx-nm">SK hynix</div>
-      <div class="spcx-tk">${live?"SKHY":"SKHYV → SKHY Mon"} · Nasdaq ADR · ${s&&s.market_cap_b?fmtCap(s.market_cap_b*1e9):"~$1.05T"} · Memory/HBM</div></div>
-    <div class="spcx-px">${live?`<div class="big">$${s.price.toFixed(2)}</div>
-      <div class="chg ${pctClass(s.change_pct)}">${fmtPct(s.change_pct)}</div>
-      <div class="ref">${traded?`vs ADS $${SKHY_ADS.toFixed(2)} (${fmtPct((s.price/SKHY_ADS-1)*100)})`:"ADS price · awaiting first trade"}${universe&&universe.meta.session?` · ${({pre:"premarket",post:"after hours",regular:"market open",closed:"market closed"})[universe.meta.session]||""}`:""}</div>`
-      :`<div class="big">$${SKHY_ADS.toFixed(2)}</div>
-      <div class="ref">priced / ADS · reported</div>
-      <div class="ref">awaiting live prints — day one trades as $SKHYV</div>`}</div>
-  </div>`;
-  const isHynix = x => /sk\s*hynix|hynix|skhy/i.test(x||"");
-  const tw=(tweets&&tweets.items?tweets.items:[]).filter(it=>isHynix(it.text)).slice(0,4);
-  if(tw.length){
-    h+=`<div class="spcx-srclbl">𝕏 ${tweets.meta.handle} · live squawk</div>`
-      +tw.map(it=>`
-      <div class="spcx-tweet"><a href="${it.url}" target="_blank" rel="noopener">${it.text}</a>
-        <div class="m">${timeAgo(it.time)}</div></div>`).join("");
-  }
-  const items=(newsFeed&&newsFeed.items?newsFeed.items:[])
-    .filter(it=>(it.tickers||[]).includes("SKHY") || isHynix(it.title))
-    .slice(0,4);
-  h+=`<div class="spcx-news">${items.length?`<div class="spcx-srclbl">Headlines</div>`:""}`
-    +(items.length?items.map(it=>`
-    <div class="spcx-item"><a href="${it.link||"#"}" target="_blank" rel="noopener">${it.title}</a>
-      <div class="m">${it.publisher||""}${it.published?" · "+timeAgo(it.published):""}</div></div>`).join("")
-    :(tw.length?"":`<div class="spcx-wait">Waiting for fresh SK hynix headlines — feed updates every 20 minutes…</div>`))+`</div>`;
-  h+=`<div class="spcx-srclbl" style="margin-top:8px"><a href="/ipos/sk-hynix-adr" style="color:inherit">Deal profile: reported terms, FAQ →</a> · <a href="/blog/sk-hynix-adr-etf-flows" style="color:inherit">ETF-flow analysis →</a></div>`;
-  el.innerHTML=h;
+  el.innerHTML = tape.map(t=>`
+    <div class="ipo-row">
+      <div class="ipo-logo"><span>${t.label==="NatGas"?"NG":t.label==="Brent"?"BZ":"CL"}</span></div>
+      <div class="ipo-main"><div class="nm">${t.label}</div><div class="note">${DESC[t.label]}</div></div>
+      <div class="ipo-right"><div class="val">$${t.price.toLocaleString()}</div>
+        <div class="${pctClass(t.change_pct)}">${fmtPct(t.change_pct)}</div></div>
+    </div>`).join("")
+    + `<div class="runner-note" style="margin-top:8px">Crude sets the tone for every bucket on the map — see how each theme trades on the <a href="/stocks" style="color:var(--accent-2)">energy stocks</a> page. Quotes delayed ~15 min.</div>`;
 }
+
 function renderTakeaways(){
   const badge=document.getElementById("tk-badge");
   // live 4-hour cycle from takeaways/takeaways.json (the Cowork methodology)
@@ -1698,27 +1667,16 @@ async function loadData(){
     }catch(e){ universe=null; uniGroup=null; }
     try{ eco=await (await fetch("ecosystem.json?t="+Date.now())).json(); }
     catch(e){ eco=null; }
-    try{ tweets=await (await fetch("tweets.json?t="+Date.now())).json(); }
-    catch(e){ tweets=null; }
     try{ newsFeed=await (await fetch("news.json?t="+Date.now())).json(); }
     catch(e){ newsFeed=null; }
-    try{ bubbleIx=await (await fetch("bubble_index.json?t="+Date.now())).json(); }
-    catch(e){ bubbleIx=null; }
     document.getElementById("asof").textContent="As of "+d.as_of_local;
     const ts=document.getElementById("tape-stats");
+    window.tapeData=(d.tape||[]);
     if(ts && d.tape && d.tape.length){
       ts.innerHTML=d.tape.map(t=>
         `<span class="ts-item"><span class="lbl">${t.label}</span>`+
         `<span class="val">${t.price.toLocaleString()}</span>`+
         `<span class="${pctClass(t.change_pct)}">${fmtPct(t.change_pct)}</span></span>`).join("");
-      if(bubbleIx && bubbleIx.index && bubbleIx.index.overall!=null){
-        const ix=bubbleIx.index;
-        const col=ix.overall<25?"#22c55e":ix.overall<45?"#69cd91":ix.overall<60?"#e0a73f":ix.overall<80?"#f05a6e":"#b91c1c";
-        ts.innerHTML+=`<a class="ts-item ts-bubble" href="/bubble" title="AI Bubble metrics — open">`+
-          `<span class="lbl">AI Bubble risk</span>`+
-          `<span class="val" style="color:${col}">${Math.round(ix.overall)}</span>`+
-          `<span style="color:${col};font-weight:600">${ix.label||""}</span></a>`;
-      }
     }
     renderBrief(); renderNews(); renderSamples(); renderTakeaways();
     applyHeat();
@@ -1764,10 +1722,6 @@ applyTheme(savedTheme, false);
 loadData();
 </script>
 <!-- Gated fair-value calculator + user accounts (extends the terminal) -->
-<script src="accounts/config.js?v=3"></script>
-<script src="accounts/api.js?v=13"></script>
-<script src="accounts/accounts.js?v=17"></script>
-<script src="accounts/prefs.js?v=1"></script>
 <script>
 setInterval(loadData, 60000);
 
