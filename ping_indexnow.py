@@ -6,7 +6,7 @@ IndexNow instantly notifies Bing, Yandex, Seznam, Naver and other participating
 engines that pages changed, so they recrawl in hours instead of weeks. (Google
 does NOT participate — its only push route is GSC "Request indexing".)
 
-Ownership is proven by the key file hosted at https://energytrade.example/<key>.txt.
+Ownership is proven by the key file hosted at https://energytrade.online/<key>.txt.
 """
 
 import os
@@ -18,7 +18,7 @@ os.chdir(HERE)
 import requests
 
 KEY = "2a5af4f291c8f21486d4350a922590fc"
-HOST = "energytrade.example"
+HOST = "energytrade.online"
 
 
 def load_urls():
@@ -31,7 +31,7 @@ def load_urls():
         return [u for u in urls if u]
     except Exception as e:
         print(f"could not read sitemap.xml ({e}); falling back to homepage only")
-        return ["https://energytrade.example/"]
+        return ["https://energytrade.online/"]
 
 
 URLS = load_urls()

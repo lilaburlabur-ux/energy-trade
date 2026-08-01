@@ -45,7 +45,7 @@ const FOOTER = `  <footer>
     <nav class="foot-nav" style="margin-bottom:6px"><a href="/">Terminal</a> · <a href="/stocks">Stocks</a> · <a href="/ipos">IPOs</a> · <a href="/etfs">ETFs</a> · <a href="/crypto">Crypto</a> · <a href="/news">News</a> · <a href="/research">Research</a> · <a href="/blog">Blog</a> · <a href="/about">About</a> · <a href="/privacy">Privacy</a> · <a href="/terms">Terms</a></nav>
     Energy Trade — the AI bubble terminal for AI stocks, ETFs, crypto, hot tickers, research and bubble-risk signals. Beta version.<br>
     Quotes delayed ~15 min. Real-time data planned for Pro. <span class="nfa">Not financial advice.</span><br>
-    Contact us: <a href="mailto:hello@energytrade.example">hello@energytrade.example</a><br>
+    Contact us: <a href="mailto:hello@energytrade.online">hello@energytrade.online</a><br>
     © 2026 Energy Trade. All rights reserved. Uses custom models.
   </footer>`;
 const CSS = `<style>
@@ -78,18 +78,18 @@ function page(e){
 <link rel="icon" type="image/png" sizes="48x48" href="/assets/favicon-48.png"/>
 <link rel="apple-touch-icon" href="/assets/apple-touch-icon.png"/>
 <meta name="description" content="${esc(desc)}"/>
-<link rel="canonical" href="https://energytrade.example/etfs/${e.t.toLowerCase()}"/>
+<link rel="canonical" href="https://energytrade.online/etfs/${e.t.toLowerCase()}"/>
 <meta property="og:type" content="website"/><meta property="og:site_name" content="Energy Trade"/>
 <meta property="og:title" content="${esc(e.t+" — "+e.name)}"/>
 <meta property="og:description" content="${esc(b.name+" AI ETF · fee "+(e.er||"n/a")+" · AUM "+(e.aum||"n/a"))}"/>
-<meta property="og:url" content="https://energytrade.example/etfs/${e.t.toLowerCase()}"/>
-<meta property="og:image" content="https://energytrade.example/assets/og-map.png"/>
-<meta name="twitter:card" content="summary_large_image"/><meta name="twitter:image" content="https://energytrade.example/assets/og-map.png"/>
+<meta property="og:url" content="https://energytrade.online/etfs/${e.t.toLowerCase()}"/>
+<meta property="og:image" content="https://energytrade.online/assets/og-map.png"/>
+<meta name="twitter:card" content="summary_large_image"/><meta name="twitter:image" content="https://energytrade.online/assets/og-map.png"/>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
- {"@type":"ListItem","position":1,"name":"Home","item":"https://energytrade.example/"},
- {"@type":"ListItem","position":2,"name":"AI ETFs","item":"https://energytrade.example/etfs"},
- {"@type":"ListItem","position":3,"name":"${esc(e.t)}","item":"https://energytrade.example/etfs/${e.t.toLowerCase()}"}]}
+ {"@type":"ListItem","position":1,"name":"Home","item":"https://energytrade.online/"},
+ {"@type":"ListItem","position":2,"name":"AI ETFs","item":"https://energytrade.online/etfs"},
+ {"@type":"ListItem","position":3,"name":"${esc(e.t)}","item":"https://energytrade.online/etfs/${e.t.toLowerCase()}"}]}
 </script>
 <link rel="stylesheet" href="/site.css?v=14"/>
 ${CSS}

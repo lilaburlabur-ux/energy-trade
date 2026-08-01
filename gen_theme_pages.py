@@ -15,7 +15,7 @@ import html, json, os, re
 HERE = os.path.dirname(os.path.abspath(__file__))
 os.chdir(HERE)
 
-SITE = "https://energytrade.example"
+SITE = "https://energytrade.online"
 
 u = json.load(open("universe.json"))
 TOTAL = sum(len(b["tickers"]) for b in u["bubbles"])

@@ -68,7 +68,7 @@ NAV = [
        desc=None,
        links=[
          ("About Energy Trade", "/about", None, None),
-         ("Contact", "mailto:hello@energytrade.example", None, None),
+         ("Contact", "mailto:hello@energytrade.online", None, None),
          ("Privacy Policy", "/privacy", None, None),
          ("Terms of Use", "/terms", None, None),
          ("Santro AI — our AI-markets sister site", "https://santroai.tech", None, None),

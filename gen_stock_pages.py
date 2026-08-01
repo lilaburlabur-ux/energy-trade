@@ -314,7 +314,7 @@ FOOTER = """  <footer>
     <nav class="foot-nav" style="margin-bottom:6px"><a href="/">Terminal</a> · <a href="/stocks">Stocks</a> · <a href="/ipos">IPOs</a> · <a href="/etfs">ETFs</a> · <a href="/crypto">Crypto</a> · <a href="/news">News</a> · <a href="/research">Research</a> · <a href="/blog">Blog</a> · <a href="/about">About</a> · <a href="/privacy">Privacy</a> · <a href="/terms">Terms</a></nav>
     Energy Trade — the AI bubble terminal for AI stocks, ETFs, crypto, hot tickers, research and bubble-risk signals. Beta version.<br>
     Quotes delayed ~15 min. Real-time data planned for Pro. <span class="nfa">Not financial advice.</span><br>
-    Contact us: <a href="mailto:hello@energytrade.example">hello@energytrade.example</a><br>
+    Contact us: <a href="mailto:hello@energytrade.online">hello@energytrade.online</a><br>
     © 2026 Energy Trade. All rights reserved. Uses custom models.
   </footer>"""
 
@@ -373,18 +373,18 @@ def page(sym, cfg, d, asof):
 <link rel="apple-touch-icon" href="/assets/apple-touch-icon.png"/>
 <link rel="manifest" href="/manifest.json" />
 <meta name="description" content="{sym} ({esc(co)}): {esc(ind)}. What it does, the industry it's in, the growth its price implies, key data and related names. Delayed data, not advice."/>
-<link rel="canonical" href="https://energytrade.example/stocks/{slug}"/>
+<link rel="canonical" href="https://energytrade.online/stocks/{slug}"/>
 <meta property="og:type" content="website"/><meta property="og:site_name" content="Energy Trade"/>
 <meta property="og:title" content="{sym} — {esc(co)}"/>
 <meta property="og:description" content="{esc(ind)} · in the Energy Trade energy universe"/>
-<meta property="og:url" content="https://energytrade.example/stocks/{slug}"/>
-<meta property="og:image" content="https://energytrade.example/assets/og-map.png"/>
-<meta name="twitter:card" content="summary_large_image"/><meta name="twitter:image" content="https://energytrade.example/assets/og-map.png"/>
+<meta property="og:url" content="https://energytrade.online/stocks/{slug}"/>
+<meta property="og:image" content="https://energytrade.online/assets/og-map.png"/>
+<meta name="twitter:card" content="summary_large_image"/><meta name="twitter:image" content="https://energytrade.online/assets/og-map.png"/>
 <script type="application/ld+json">
 {{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
- {{"@type":"ListItem","position":1,"name":"Home","item":"https://energytrade.example/"}},
- {{"@type":"ListItem","position":2,"name":"Energy Stocks","item":"https://energytrade.example/stocks"}},
- {{"@type":"ListItem","position":3,"name":"{sym}","item":"https://energytrade.example/stocks/{slug}"}}]}}
+ {{"@type":"ListItem","position":1,"name":"Home","item":"https://energytrade.online/"}},
+ {{"@type":"ListItem","position":2,"name":"Energy Stocks","item":"https://energytrade.online/stocks"}},
+ {{"@type":"ListItem","position":3,"name":"{sym}","item":"https://energytrade.online/stocks/{slug}"}}]}}
 </script>
 <link rel="stylesheet" href="/site.css?v=14"/>
 {TKP_CSS}

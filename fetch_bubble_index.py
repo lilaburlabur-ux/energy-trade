@@ -18,7 +18,7 @@ os.chdir(HERE)
 import requests
 
 BASE = "https://aibubblemonitor.com"
-UA = {"User-Agent": "EnergyTrade/1.0 (+https://energytrade.example; hello@energytrade.example)"}
+UA = {"User-Agent": "EnergyTrade/1.0 (+https://energytrade.online; hello@energytrade.online)"}
 
 
 def main():

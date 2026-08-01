@@ -129,7 +129,7 @@ FOOTER = """<!-- mega-footer v1 -->
         <li><a href="/about">About Energy Trade</a></li>
         <li><a href="/methodology">Methodology</a></li>
         <li><a href="/research">Data &amp; sources</a></li>
-        <li><a href="mailto:hello@energytrade.example">Contact</a></li>
+        <li><a href="mailto:hello@energytrade.online">Contact</a></li>
         <li><a href="/privacy">Privacy Policy</a></li>
         <li><a href="/terms">Terms of Use</a></li>
         <li><a href="https://santroai.tech" target="_blank" rel="noopener">Santro AI — sister site</a></li>
@@ -140,7 +140,7 @@ FOOTER = """<!-- mega-footer v1 -->
   <div class="mg-bottom">
     <span>© 2026 Energy Trade. All rights reserved. Uses custom models.</span>
     <span>Quotes delayed ~15 min. Real-time data planned for Pro. <b class="mg-nfa">Not financial advice.</b></span>
-    <span><a href="/privacy">Privacy</a> · <a href="/terms">Terms</a> · <a href="mailto:hello@energytrade.example">Contact</a></span>
+    <span><a href="/privacy">Privacy</a> · <a href="/terms">Terms</a> · <a href="mailto:hello@energytrade.online">Contact</a></span>
     <!--MG_EXTRA-->
   </div>
 </div>

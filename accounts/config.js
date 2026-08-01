@@ -24,7 +24,7 @@ window.SANTRO_CONFIG = Object.assign(
     apiMode: "live",
 
     // Backend origin. Empty = same origin. Example: "https://api.santroai.tech"
-    // Same-site subdomain of energytrade.example → session cookies are first-party
+    // Same-site subdomain of energytrade.online → session cookies are first-party
     // (no third-party-cookie blocking by Safari/ITP or Chrome's 3p phase-out).
     apiBase: "https://api.santroai.tech",
 
