@@ -1119,14 +1119,15 @@ let tweets=null;                   // tweets.json — @DeItaone SPCX squawk via 
 
 // short labels that fit inside small group bubbles (full label in tooltip/detail)
 const UNI_SHORT={
-  ai_chips_and_compute:"Chips & Compute",
-  ai_software_and_cloud_infrastructure:"Software & Cloud",
-  ai_applications_and_data_software:"Apps & Data",
-  chip_equipment_and_ai_hardware:"Equip & HW",
-  ai_platforms_internet_and_adtech:"Platforms & Ads",
-  data_center_power_and_energy:"DC Power",
-  applied_ai_industrial_defense_and_vertical:"Applied AI",
-  powering_ai:"Powering AI",
+  oil_gas_majors:"Majors",
+  shale_ep:"Shale & E&P",
+  oilfield_services:"Services",
+  midstream_lng:"Midstream",
+  refining_downstream:"Refining",
+  nuclear_uranium:"Nuclear",
+  renewables_solar:"Renewables",
+  grid_storage:"Grid & Storage",
+  power_utilities_ipp:"Power & IPPs",
 };
 // chart labels use the site's numeric type standard (canvas rich text can't read CSS vars)
 const MONO=SBE.MONO;
@@ -1314,7 +1315,7 @@ function render(){
 
 function showGroupDetail(g){
   document.getElementById("detail-title").innerHTML=
-    `Sector — ${UNI_SHORT[g.id]||g.label} <span class="badge live">AI Universe</span>`;
+    `Sector — ${UNI_SHORT[g.id]||g.label} <span class="badge live">Energy Universe</span>`;
   const rows=g.tickers.map(t=>`
       <tr><td><a href="t?sym=${encodeURIComponent(t.ticker)}" title="Open the ${t.ticker} page">${t.ticker}</a></td>
         <td class="num">${t.price==null?"—":"$"+t.price.toFixed(2)}</td>
@@ -1627,7 +1628,7 @@ function applyHeat(){
   if(heatMode==="universe" && universe){
     document.getElementById("heat-title").textContent = uniGroup
       ? `${uniGroup.label} · sized by day move`
-      : `AI Universe · ${universe.meta.total_tickers} names · ${universe.bubbles.length} sectors`;
+      : `Energy Universe · ${universe.meta.total_tickers} names · ${universe.bubbles.length} sectors`;
     // Keep the bottom summary blurb's count in sync with the live universe.
     const _trk=document.getElementById("trk-tickers"); if(_trk) _trk.textContent = universe.meta.total_tickers;
     const _trs=document.getElementById("trk-sectors"); if(_trs) _trs.textContent = universe.bubbles.length;
