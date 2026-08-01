@@ -1,0 +1,78 @@
+<!DOCTYPE html><html lang="en"><head>
+<meta charset="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover"/>
+<meta name="theme-color" content="#0a0e13" />
+<meta name="apple-mobile-web-app-title" content="Energy Trade" />
+<title>Renewables &amp; Solar Stocks — Live Heat Map (8 names) | Energy Trade</title>
+<link rel="icon" href="/assets/favicon.svg" type="image/svg+xml"/>
+<link rel="manifest" href="/manifest.json" />
+<meta name="description" content="Track 8 renewables &amp; solar stocks on a live heat map, with each ticker's profile, key data and valuation context. Quotes delayed ~15 min. Not financial advice."/>
+<link rel="canonical" href="https://energytrade.example/stocks/themes/renewables-solar"/>
+<meta property="og:type" content="website"/><meta property="og:site_name" content="Energy Trade"/>
+<meta property="og:title" content="Renewables &amp; Solar — live energy heat map | Energy Trade"/>
+<meta property="og:description" content="8 names · $244B combined · live heat map · Energy Trade universe"/>
+<meta property="og:url" content="https://energytrade.example/stocks/themes/renewables-solar"/>
+<meta property="og:image" content="https://energytrade.example/assets/og-map.png"/>
+<meta name="twitter:card" content="summary_large_image"/>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+ {"@type":"ListItem","position":1,"name":"Home","item":"https://energytrade.example/"},
+ {"@type":"ListItem","position":2,"name":"Energy Stocks","item":"https://energytrade.example/stocks"},
+ {"@type":"ListItem","position":3,"name":"Renewables &amp; Solar","item":"https://energytrade.example/stocks/themes/renewables-solar"}]}
+</script>
+<link rel="stylesheet" href="/site.css?v=14"/>
+<style>
+  .tkp{max-width:1240px;margin:0 auto;padding:6px 20px 50px;}
+  .tkp h1{font-size:26px;margin:14px 0 4px;} .tkp .sub{color:var(--muted);font-size:14.5px;margin:0 0 14px;}
+  .tkp p{color:var(--muted);font-size:15px;line-height:1.65;}
+  .tt{width:100%;border-collapse:collapse;margin:14px 0;font-size:13.5px;}
+  .tt th{text-align:left;color:var(--faint);font-size:11px;text-transform:uppercase;letter-spacing:.5px;padding:7px 9px;border-bottom:1px solid var(--border);}
+  .tt td{padding:8px 9px;border-bottom:1px solid var(--border-soft);color:var(--muted);}
+  .tt td.tk a{color:var(--accent-2);text-decoration:none;font-weight:700;}
+  .tt td.num{text-align:right;font-variant-numeric:tabular-nums;}
+  .rel{font-size:13px;color:var(--muted);line-height:1.9;}
+  .rel a{color:var(--accent-2);text-decoration:none;font-weight:600;}
+  .nfax{color:var(--faint);font-size:12.5px;margin-top:16px;}
+  @media(max-width:640px){.tt td:nth-child(3),.tt th:nth-child(3){display:none;}}
+  #sector-map{min-height:200px;}
+  .tt tr.grp td{padding:14px 9px 5px;color:var(--text);font-weight:800;font-size:11px;letter-spacing:.6px;text-transform:uppercase;border-bottom:1px solid var(--border);}
+</style>
+</head><body>
+  <header class="pageheader">
+    <a class="logo" href="/" title="Energy Trade — dashboard"><span class="logo-s">E</span></a>
+    <nav class="pagenav">
+      <a class="nav-link" href="/">Terminal</a><a class="nav-link" href="/stocks">Stocks</a>
+      <a class="nav-link" href="/etfs">ETFs</a><a class="nav-link" href="/news">News</a>
+      <a class="nav-link" href="/about">About</a>
+    </nav>
+  </header>
+  <main class="tkp">
+    <nav style="font-size:13px;color:var(--faint);margin:14px 0 4px"><a href="/" style="color:var(--muted);text-decoration:none">Home</a> › <a href="/stocks" style="color:var(--muted);text-decoration:none">Energy Stocks</a> › Renewables &amp; Solar</nav>
+    <h1>Renewables &amp; Solar — live heat map &amp; members</h1>
+    <p class="sub">8 names · combined market cap $244B · part of the Energy Trade 68-name universe</p>
+    <!-- sector-map:start -->
+    <figure style="margin:18px 0 8px;margin-inline:0">
+      <div id="sector-map" data-bubble="renewables_solar"></div>
+      <figcaption style="font-size:11.5px;color:var(--faint);margin-top:6px;font-family:var(--font-mono,monospace)">Live heat — sized by the day's move, colored by direction (same live engine as the <a href="/terminal" style="color:inherit">terminal</a>). Click any bubble to open its detail panel. Quotes delayed ~15 min<span data-asof></span>.</figcaption>
+    </figure>
+    <script src="https://cdn.jsdelivr.net/npm/echarts@5/dist/echarts.min.js"></script>
+    <script src="/components/santro-bubble-engine.js?v=1"></script>
+    <script src="/ds-v2/ticker-detail-panel.js?v=1"></script>
+    <script src="/components/sector-bubble-map.js?v=7"></script>
+    <script>SantroSectorMap.mount(document.getElementById('sector-map'),{bubbleId:'renewables_solar',label:"Renewables & Solar"});</script>
+    <!-- sector-map:end -->
+    <p>The renewables complex spans panel and equipment makers (First Solar, Enphase, SolarEdge, Nextracker, Array), a rooftop installer (Sunrun), and owners of operating wind and solar farms (Brookfield Renewable, and NextEra — which is also a huge Florida utility). These are very different businesses traded as one theme, and the theme is brutally sensitive to two things: interest rates, because projects and rooftop loans run on debt, and policy, because tax credits and tariffs can rewrite the economics overnight. Dispersion inside the group is enormous — a manufacturer with a fat US order book and an installer bleeding cash can sit side by side. Check margins, funding costs and policy exposure name by name before treating any move as a sector signal.</p>
+    <!-- sector-table:start -->
+    <table class="tt"><thead><tr><th>Ticker</th><th>Company</th><th>Industry</th><th style="text-align:right">1D</th><th style="text-align:right">Market cap</th></tr></thead>
+    <tbody><tr><td class="tk"><a href="/stocks/nee"><b>NEE</b></a></td><td>NextEra Energy, Inc.</td><td>Utilities - Regulated Electric</td><td class="num" data-move-for="NEE">-1.15%</td><td class="num" data-cap-for="NEE">$181B</td></tr><tr><td class="tk"><a href="/stocks/fslr"><b>FSLR</b></a></td><td>First Solar, Inc.</td><td>Solar</td><td class="num" data-move-for="FSLR">+2.44%</td><td class="num" data-cap-for="FSLR">$23B</td></tr><tr><td class="tk"><a href="/stocks/bep"><b>BEP</b></a></td><td>Brookfield Renewable Partners L</td><td>Utilities - Renewable</td><td class="num" data-move-for="BEP">+0.61%</td><td class="num" data-cap-for="BEP">$16B</td></tr><tr><td class="tk"><a href="/stocks/nxt"><b>NXT</b></a></td><td>Nextpower Inc.</td><td>Solar</td><td class="num" data-move-for="NXT">-7.25%</td><td class="num" data-cap-for="NXT">$14B</td></tr><tr><td class="tk"><a href="/stocks/enph"><b>ENPH</b></a></td><td>Enphase Energy, Inc.</td><td>Solar</td><td class="num" data-move-for="ENPH">+0.43%</td><td class="num" data-cap-for="ENPH">$5.0B</td></tr><tr><td class="tk"><a href="/stocks/sedg"><b>SEDG</b></a></td><td>SolarEdge Technologies, Inc.</td><td>Solar</td><td class="num" data-move-for="SEDG">-1.34%</td><td class="num" data-cap-for="SEDG">$2.5B</td></tr><tr><td class="tk"><a href="/stocks/run"><b>RUN</b></a></td><td>Sunrun Inc.</td><td>Solar</td><td class="num" data-move-for="RUN">+3.05%</td><td class="num" data-cap-for="RUN">$2.3B</td></tr><tr><td class="tk"><a href="/stocks/arry"><b>ARRY</b></a></td><td>Array Technologies, Inc.</td><td>Solar</td><td class="num" data-move-for="ARRY">+2.76%</td><td class="num" data-cap-for="ARRY">$0.8B</td></tr></tbody></table>
+    <script>document.addEventListener('santro:universe',function(e){var u=e.detail||{};var px={};(u.bubbles||[]).forEach(function(b){b.tickers.forEach(function(t){px[t.ticker]=t;});});var f=function(p){return p==null?'—':(p>=0?'+':'')+p.toFixed(2)+'%';};var c=function(b){return b==null?'—':(b>=1000?'$'+(b/1000).toFixed(2)+'T':b>=10?'$'+Math.round(b)+'B':'$'+b.toFixed(1)+'B');};document.querySelectorAll('[data-move-for]').forEach(function(td){var t=px[td.dataset.moveFor];if(t){td.textContent=f(t.change_pct);td.style.color=(t.change_pct||0)>=0?'var(--green,#22c55e)':'var(--red,#f05a6e)';}});document.querySelectorAll('[data-cap-for]').forEach(function(td){var t=px[td.dataset.capFor];if(t)td.textContent=c(t.market_cap_b);});var a=document.querySelector('[data-asof]');if(a&&u.meta&&u.meta.as_of)a.textContent=' · as of '+u.meta.as_of;});</script>
+    <!-- sector-table:end -->
+    <p class="rel"><b style="color:var(--text)">Other themes:</b> <a href="/stocks/themes/oil-gas-majors">Oil &amp; Gas Majors</a> · <a href="/stocks/themes/shale-ep">Shale &amp; E&amp;P</a> · <a href="/stocks/themes/oilfield-services">Oilfield Services</a> · <a href="/stocks/themes/midstream-lng">Midstream &amp; LNG</a> · <a href="/stocks/themes/refining-downstream">Refining &amp; Downstream</a> · <a href="/stocks/themes/nuclear-uranium">Nuclear &amp; Uranium</a> · <a href="/stocks/themes/grid-storage">Grid, Storage &amp; Electrification</a> · <a href="/stocks/themes/power-utilities-ipp">Power &amp; IPPs</a></p>
+    <p class="rel">See all names on the <a href="/stocks">energy stocks bubble map</a>, or watch the whole sector live on the <a href="/terminal">terminal</a>.</p>
+    <p class="nfax">Seed market caps are approximate and public; live values refresh on the map above and on each ticker page (delayed ~15 min). Membership follows the Energy Trade universe. "Hot" means attention, not direction. Education, not financial advice.</p>
+    </main>
+  <footer>
+    <nav class="foot-nav" style="margin-bottom:6px"><a href="/">Terminal</a> · <a href="/stocks">Stocks</a> · <a href="/etfs">ETFs</a> · <a href="/news">News</a> · <a href="/about">About</a> · <a href="/privacy">Privacy</a> · <a href="/terms">Terms</a></nav>
+    Energy Trade — the energy market terminal for oil &amp; gas, nuclear, renewables and grid stocks. Beta version.<br>
+    Quotes delayed ~15 min. <span class="nfa">Not financial advice.</span>
+  </footer>
+</body></html>
