@@ -36,10 +36,10 @@ Diamondback Energy, Inc., an independent oil and natural gas company, acquires, 
 
 | Headline | Source | Date |
 |---|---|---|
+| Diamondback Energy Lifts Production Guidance, Reports Surging Profit on High Oil Prices | The Wall Street Journal | 2026-08-03 |
 | Diamondback Energy’s (NASDAQ:FANG) Q2 CY2026: Beats On Revenue | StockStory | 2026-08-03 |
 | Several Oil Stocks Tee Up For Earnings, As One Breaks Out Bullishly | Investor's Business Daily | 2026-08-03 |
 | Jobs Numbers, SpaceX Earnings: What to Watch This Week | The Wall Street Journal | 2026-08-03 |
-| What To Expect From Diamondback Energy’s (FANG) Q2 Earnings | StockStory | 2026-08-02 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

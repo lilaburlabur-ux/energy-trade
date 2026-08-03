@@ -37,9 +37,9 @@ Bloom Energy Corporation designs, manufactures, sells, and installs solid oxide 
 | Headline | Source | Date |
 |---|---|---|
 | Down 38% From Its High, Is Bloom Energy Stock a Buy? | Motley Fool | 2026-08-03 |
+| Mizuho Says Bloom Energy Stock Is a ‘Buy.’ Here’s Why, and Whether You Should Snap Up BE Here. | Barchart | 2026-08-03 |
 | Situational Awareness: When Leverage Meets Volatility | Zacks | 2026-08-03 |
 | 3 Reasons to Buy Bloom Energy Stock -- and 3 Reasons to Wait | Motley Fool | 2026-08-03 |
-| Bloom Energy vs. Oklo: Which Power Stock Is a Better Buy in 2026? | Motley Fool | 2026-08-02 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

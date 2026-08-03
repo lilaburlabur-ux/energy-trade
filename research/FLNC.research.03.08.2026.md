@@ -36,8 +36,8 @@ Fluence Energy, Inc., through its subsidiaries, provides energy storage and opti
 
 | Headline | Source | Date |
 |---|---|---|
-| FLNC Stock Plummets 52% in 6 Months: Should You Buy in the Dip? | Zacks | 2026-08-03 |
 | Energy & Utilities Roundup: Market Talk | The Wall Street Journal | 2026-08-03 |
+| FLNC Stock Plummets 52% in 6 Months: Should You Buy in the Dip? | Zacks | 2026-08-03 |
 | 1 of Wall Street’s Favorite Stocks for Long-Term Investors and 2 We Find Risky | StockStory | 2026-07-31 |
 | Down 35.2% in 4 Weeks, Here's Why Fluence Energy (FLNC) Looks Ripe for a Turnaround | Zacks | 2026-07-30 |
 

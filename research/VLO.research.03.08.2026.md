@@ -36,10 +36,10 @@ Valero Energy Corporation manufactures, markets, and sells petroleum-based and l
 
 | Headline | Source | Date |
 |---|---|---|
+| Chevron Stock Is Priced For Growth A Single Quarter Hasn't Proven | Trefis | 2026-08-03 |
 | Par Pacific's Q2 Earnings on Deck: Should You Bet on the Stock? | Zacks | 2026-08-03 |
 | 5 Top-Ranked Stocks to Buy Ahead of Potential Earnings Beats | Zacks | 2026-08-03 |
 | Valero (VLO) Stock Looks Reasonable On Cash Flow But Rich On Earnings | Simply Wall St. | 2026-08-02 |
-| Valero Energy Q2 Earnings Call Highlights | MarketBeat | 2026-08-01 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

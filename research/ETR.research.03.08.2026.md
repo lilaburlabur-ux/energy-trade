@@ -36,10 +36,10 @@ Entergy Corporation, together with its subsidiaries, engages in the production a
 
 | Headline | Source | Date |
 |---|---|---|
+| Top Research Reports for Amazon, Marvell & Starbucks | Zacks | 2026-08-03 |
 | Entergy (ETR) Dividend Reaffirmed As Its Undervalued Narrative Faces A Fresh Test | Simply Wall St. | 2026-08-02 |
 | Edison International Q2 Earnings Surpass Estimates, Revenues Miss | Zacks | 2026-07-31 |
 | IDACORP Q2 Earnings Outpace Estimates, Revenues Increase Y/Y | Zacks | 2026-07-30 |
-| American Electric's Q2 Earnings Lag Estimates, Revenues Increase Y/Y | Zacks | 2026-07-30 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

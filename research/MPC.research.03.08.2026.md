@@ -36,10 +36,10 @@ Marathon Petroleum Corporation, together with its subsidiaries, operates as an i
 
 | Headline | Source | Date |
 |---|---|---|
+| Chevron Stock Is Priced For Growth A Single Quarter Hasn't Proven | Trefis | 2026-08-03 |
 | Several Oil Stocks Tee Up For Earnings, As One Breaks Out Bullishly | Investor's Business Daily | 2026-08-03 |
 | Trump targets Chevron, Exxon over profits, demands lower gasoline prices | Investing.com | 2026-08-03 |
 | Will UK interest rates fall in 2026? | Moneyweek | 2026-08-03 |
-| Exploring Analyst Estimates for Marathon Petroleum (MPC) Q2 Earnings, Beyond Revenue and EPS | Zacks | 2026-08-03 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

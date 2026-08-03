@@ -36,10 +36,10 @@ BP p.l.c., an integrated energy company, engages in the oil and gas business wor
 
 | Headline | Source | Date |
 |---|---|---|
+| Energy & Utilities Roundup: Market Talk | The Wall Street Journal | 2026-08-03 |
 | End Labour tax raid to halt BP’s North Sea exit, Scottish leaders urge | The Telegraph | 2026-08-03 |
 | Sector Update: Energy Stocks Fall Late Afternoon | MT Newswires | 2026-08-03 |
 | Sector Update: Energy Stocks Fall Monday Afternoon | MT Newswires | 2026-08-03 |
-| Energy & Utilities Roundup: Market Talk | The Wall Street Journal | 2026-08-03 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

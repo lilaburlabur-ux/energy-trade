@@ -37,9 +37,9 @@ Chevron Corporation, through its subsidiaries, engages in the integrated energy 
 | Headline | Source | Date |
 |---|---|---|
 | Trump calls out Chevron and Exxon profits: 'They're making too much money' | Yahoo Finance Video | 2026-08-03 |
+| Chevron Stock Is Priced For Growth A Single Quarter Hasn't Proven | Trefis | 2026-08-03 |
+| S&P500, Nasdaq End Higher, Dow Hits Record High On Strong Mag 7 Performance And Falling Oil Prices — BA, XOM, CVX, HOOD, AMD In Focus | Stocktwits | 2026-08-03 |
 | Stock Market Today: Dow Rises To Record As Amazon Jumps; This Cathie Wood Trade Nets $2.9 Mil (Live Coverage) | Investor's Business Daily | 2026-08-03 |
-| Trump says Exxon, Chevron are 'making too much money' amid Iran war | USA TODAY | 2026-08-03 |
-| Several Oil Stocks Tee Up For Earnings, As One Breaks Out Bullishly | Investor's Business Daily | 2026-08-03 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

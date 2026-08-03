@@ -36,10 +36,10 @@ ConocoPhillips explores for, produces, transports, and markets crude oil, bitume
 
 | Headline | Source | Date |
 |---|---|---|
+| Chevron Stock Is Priced For Growth A Single Quarter Hasn't Proven | Trefis | 2026-08-03 |
 | Several Oil Stocks Tee Up For Earnings, As One Breaks Out Bullishly | Investor's Business Daily | 2026-08-03 |
 | 3 S&P 500 Stocks Worth Your Attention | StockStory | 2026-08-03 |
 | ConocoPhillips Gears Up to Report Q2 Earnings: What's in the Cards? | Zacks | 2026-08-03 |
-| ConocoPhillips (COP) Decline on US-Iran Accord | Insider Monkey | 2026-08-03 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

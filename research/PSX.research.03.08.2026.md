@@ -36,10 +36,10 @@ Phillips 66 operates as an integrated downstream energy provider in the United S
 
 | Headline | Source | Date |
 |---|---|---|
+| Chevron Stock Is Priced For Growth A Single Quarter Hasn't Proven | Trefis | 2026-08-03 |
 | Several Oil Stocks Tee Up For Earnings, As One Breaks Out Bullishly | Investor's Business Daily | 2026-08-03 |
 | Par Pacific's Q2 Earnings on Deck: Should You Bet on the Stock? | Zacks | 2026-08-03 |
 | Phillips 66 (PSX) Q2 Earnings Preview: What You Should Know Beyond the Headline Estimates | Zacks | 2026-08-03 |
-| How a US$23 Billion Buyback Authorization at Phillips 66 (PSX) Has Changed Its Investment Story | Simply Wall St. | 2026-08-01 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -36,10 +36,10 @@ Shell plc operates as an energy and petrochemical company in Europe, Asia, Ocean
 
 | Headline | Source | Date |
 |---|---|---|
+| Energy & Utilities Roundup: Market Talk | The Wall Street Journal | 2026-08-03 |
 | Sector Update: Energy Stocks Fall Late Afternoon | MT Newswires | 2026-08-03 |
 | Sector Update: Energy Stocks Fall Monday Afternoon | MT Newswires | 2026-08-03 |
 | Sector Update: Energy | MT Newswires | 2026-08-03 |
-| Energy & Utilities Roundup: Market Talk | The Wall Street Journal | 2026-08-03 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

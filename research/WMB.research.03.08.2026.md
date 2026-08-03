@@ -36,10 +36,10 @@ The Williams Companies, Inc., together with its subsidiaries, operates as an ene
 
 | Headline | Source | Date |
 |---|---|---|
+| Williams Strikes $5.5 Billion Deal for Momentum Midstream | The Wall Street Journal | 2026-08-03 |
 | Several Oil Stocks Tee Up For Earnings, As One Breaks Out Bullishly | Investor's Business Daily | 2026-08-03 |
 | Is Antero Midstream Stock Worth Buying Despite Its Premium Valuation? | Zacks | 2026-08-03 |
 | Stocks Rise Pre-Bell as Trump Calls Off Planned Iran Strikes; Labor Market Data, Corporate Earnings on Deck | MT Newswires | 2026-08-03 |
-| Enbridge (ENB) Q2 Earnings and Revenues Surpass Estimates | Zacks | 2026-07-31 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
