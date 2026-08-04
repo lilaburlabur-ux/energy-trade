@@ -68,7 +68,7 @@ Diamondback Energy, Inc., an independent oil and natural gas company, acquires, 
 | Revenue (ttm) | $16.37B | Revenue growth 59.10% y/y |
 | Profitability | Gross 71.78%, operating 46.05%, net 8.96% | ROA 1.29%, ROE 3.49% |
 | Balance sheet | Cash $462.00M, debt $12.61B | Current ratio 0.47, debt/equity 28.68 |
-| Valuation | P/E 197.80, forward P/E 11.11, P/S 3.30, P/B 1.48 | EV/Sales 4.52, EV/EBITDA 6.29 |
+| Valuation | P/E 197.80, forward P/E 11.11, P/S 3.30, P/B 1.42 | EV/Sales 4.52, EV/EBITDA 6.29 |
 | Growth expectations | Earnings growth 179.50%, EPS q/q 169.20% | Analyst mean target $230.29 (28 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -124,7 +124,7 @@ Diamondback Energy, Inc., an independent oil and natural gas company, acquires, 
 | Forward P/E | 11.11 | Short float | 4.69% |
 | PEG (trailing) | 56.78 | Avg volume | 2,352,518 |
 | P/S | 3.30 | Employees | 1,762 |
-| P/B | 1.48 | Analyst rec (1=buy..5=sell) | 1.4 |
+| P/B | 1.42 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

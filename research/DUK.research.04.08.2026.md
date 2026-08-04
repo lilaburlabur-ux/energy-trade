@@ -36,10 +36,10 @@ Duke Energy Corporation, through its subsidiaries, operates as an energy company
 
 | Headline | Source | Date |
 |---|---|---|
+| Duke Energy Corporation Q2 2026 Earnings Call Summary | Moby | 2026-08-04 |
 | Duke Energy Corp (DUK) (Q2 2026) Earnings Call Highlights: Strong EPS Growth and Strategic ... | GuruFocus.com | 2026-08-04 |
 | Sector Update: Energy Stocks Decline Late Afternoon | MT Newswires | 2026-08-04 |
 | Sector Update: Energy Stocks Lower in Afternoon Trading | MT Newswires | 2026-08-04 |
-| Duke Energy Q2 Earnings Beat Estimates, Revenues Increase Y/Y | Zacks | 2026-08-04 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

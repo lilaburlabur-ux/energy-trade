@@ -23,7 +23,7 @@
 | SLB | $75.41B | +58% | 15.6 | 9% | Moderate | Reasonable | Elevated |
 | HAL | $27.03B | +53% | 11.1 | 7% | Low | Reasonable | Elevated |
 | BKR | $61.28B | +44% | 19.5 | 11% | Moderate | Reasonable | Elevated |
-| NOV | $7.13B | +69% | 15.4 | 1% | High | Reasonable | High |
+| NOV | $7.13B | +69% | 15.2 | 1% | High | Reasonable | High |
 | FTI | $27.46B | +99% | 19.6 | 11% | High | Reasonable | Elevated |
 | WFRD | $6.41B | +65% | 12.3 | 8% | High | Reasonable | Elevated |
 | LNG | — | +9% | 12.7 | 7% | Moderate | Reasonable | Elevated |

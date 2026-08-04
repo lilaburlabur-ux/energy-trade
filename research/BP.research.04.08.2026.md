@@ -37,9 +37,9 @@ BP p.l.c., an integrated energy company, engages in the oil and gas business wor
 | Headline | Source | Date |
 |---|---|---|
 | Earnings live updates: SpaceX stock slides despite Starlink-driven revenue beat, Paramount stock slips | Yahoo Finance | 2026-08-03 |
+| Energy & Utilities Roundup: Market Talk | The Wall Street Journal | 2026-08-04 |
 | Sector Update: Energy Stocks Decline Late Afternoon | MT Newswires | 2026-08-04 |
 | BP PLC (BP) (Q2 2026) Earnings Call Highlights: Strong Profit Surge and Strategic Portfolio Overhaul | GuruFocus.com | 2026-08-04 |
-| U.S. Stocks Jump, Oil Drops After Bessent Says Iran Deal Could Be Close | The Wall Street Journal | 2026-08-04 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
