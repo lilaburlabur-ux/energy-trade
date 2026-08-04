@@ -1,0 +1,151 @@
+# NEE Research Report
+**NextEra Energy** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+Signed file: `NEE.research.04.08.2026`
+
+| Field | Value |
+|---|---|
+| Current price | $87.20 (2026-08-04, ~15-min delayed) |
+| Market cap | $181.90B |
+| Sector / Industry | Utilities / Utilities - Regulated Electric |
+| Main theme | Utilities - Regulated Electric — see catalysts below |
+| Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate. |
+
+> Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-08-04.
+
+## 1. Executive Summary
+| Area | Score / Read | Reason |
+|---|---|---|
+| Technical momentum | Moderate | 1Y +27.45%; price +0.37% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -10.26% from 52w high; no clean fresh pivot by default. |
+| Fundamental quality | Strong | Profit margin 32.40%, revenue growth 12.40%. |
+| Value attractiveness | Reasonable | Forward P/E 19.73, EV/Sales 10.41. |
+| Risk level | Moderate | Beta 0.65, ATR 2.0% of price, short float 0.00%. |
+
+**Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate.
+
+**Key questions before any trade (standard):**
+- Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
+- Where is the actual invalidation level? If that level is too far away, the setup is not clean.
+- Is the move supported by new institutional demand or just retail/short-covering momentum?
+- Can earnings convert fast enough to justify the valuation?
+
+## 2. Company Overview and Recent Catalysts
+NextEra Energy, Inc., through its subsidiaries, generates, stores, transmits, distributes, and sells electric power to retail and wholesale customers in North America. It operates through Florida Power & Light Company (FPL) and NEER segments. The company generates electricity from wind, solar, nuclear, natural gas, and other clean energy assets.
+
+**Recent headlines (potential catalysts):**
+
+| Headline | Source | Date |
+|---|---|---|
+| This Top Nuclear Energy Dividend Stock Could Turn $1,000 Into a Lifetime Income Stream | Motley Fool | 2026-08-01 |
+| Does US$100 Billion Paducah AI Power Campus Plan Change The Bull Case For NextEra Energy (NEE)? | Simply Wall St. | 2026-07-31 |
+| Bloom Energy vs. NextEra Energy: Is a Fuel Cell Upstart or Renewable Energy Titan the Better Buy in 2026? | Motley Fool | 2026-07-31 |
+| Dominion Energy Q2 Earnings Call Highlights | MarketBeat | 2026-07-31 |
+
+## 3. Technical Analysis
+| Technical item | Read |
+|---|---|
+| Price vs 52-week range | Close $87.20; 52w high $97.17 (-10.26%); 52w low $68.33 (+27.61%) |
+| Trend | +0.37% vs SMA200, +0.03% vs SMA50, -1.34% vs SMA20 |
+| Momentum | RSI(14) 45.1 (neutral) |
+| Volatility | ATR(14) 1.75 (~2.0% of price); beta 0.65 |
+| Setup perspective | -10.26% from 52w high; no clean fresh pivot by default. |
+
+**Performance snapshot:**
+
+| Window | Return |
+|---|---|
+| Week | -2.3% |
+| Month | -0.3% |
+| Quarter | -8.0% |
+| Half Y | +2.4% |
+| 1Y | +27.5% |
+| YTD | +9.3% |
+
+## 4. Fundamental Analysis
+| Factor | Observation | Implication / extra |
+|---|---|---|
+| Next earnings | 2026-10-27 | Next scheduled report (Yahoo estimate) |
+| Revenue (ttm) | $28.70B | Revenue growth 12.40% y/y |
+| Profitability | Gross 61.02%, operating 31.52%, net 32.40% | ROA 2.44%, ROE 11.68% |
+| Balance sheet | Cash $2.87B, debt $110.20B | Current ratio 0.53, debt/equity 161.68 |
+| Valuation | P/E 19.60, forward P/E 19.73, P/S 6.34, P/B 3.18 | EV/Sales 10.41, EV/EBITDA 20.48 |
+| Growth expectations | Earnings growth 53.10%, EPS q/q 55.00% | Analyst mean target $99.00 (19 analysts) |
+
+## 5. Institutional Investors and Ownership
+| Metric | Value |
+|---|---|
+| Institutional ownership | 86.94% |
+| Insider ownership | 0.11% |
+| Short float | 0.00% |
+| Short ratio (days to cover) | 0.0 |
+
+**Top institutional holders:**
+
+| Holder | Shares | % Out | Reported |
+|---|---|---|---|
+| Blackrock Inc. | 178,829,484 | 8.57% | 2026-03-31 |
+| Vanguard Capital Management LLC | 135,383,754 | 6.49% | 2026-03-31 |
+| State Street Corporation | 119,667,918 | 5.74% | 2026-03-31 |
+| JPMORGAN CHASE & CO | 111,988,240 | 5.37% | 2026-03-31 |
+| Morgan Stanley | 64,751,882 | 3.10% | 2026-03-31 |
+| Vanguard Portfolio Management LLC | 60,413,784 | 2.90% | 2026-03-31 |
+| Geode Capital Management, LLC | 48,320,084 | 2.32% | 2026-03-31 |
+| Franklin Resources, Inc. | 46,529,576 | 2.23% | 2026-03-31 |
+| Capital Research Global Investors | 35,659,943 | 1.71% | 2026-03-31 |
+| FMR, LLC | 33,897,033 | 1.63% | 2026-03-31 |
+
+## 6. Risk Review and Setup Plan
+- **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
+
+### Setup checklist for your journal
+| Question | Pass condition |
+|---|---|
+| Is there a new base? | Tight sideways action near highs, declining volume, clear resistance. |
+| Is the pivot obvious? | A clean level that multiple traders can see; not a random candle high. |
+| Is risk defined? | Stop based on structure and less than the expected first upside target. |
+| Is volume confirming? | Breakout volume expands; pullback volume dries up. |
+| Is position size small enough? | A normal shakeout should not cause emotional decision-making. |
+
+## 7. Full Data Snapshot
+| Metric | Value | Metric | Value |
+|---|---|---|---|
+| Price | $87.20 | EV/Sales | 10.41 |
+| Market cap | $181.90B | EV/EBITDA | 20.48 |
+| Beta | 0.65 | Gross margin | 61.02% |
+| RSI(14) | 45.1 | Operating margin | 31.52% |
+| ATR(14) | 1.75 | Profit margin | 32.40% |
+| SMA20 dist | -1.34% | ROA | 2.44% |
+| SMA50 dist | +0.03% | ROE | 11.68% |
+| SMA200 dist | +0.37% | Revenue (ttm) | $28.70B |
+| 52W high | $97.17 | Revenue growth y/y | 12.40% |
+| 52W low | $68.33 | Inst. ownership | 86.94% |
+| P/E (ttm) | 19.60 | Insider ownership | 0.11% |
+| Forward P/E | 19.73 | Short float | 0.00% |
+| PEG (trailing) | 1.90 | Avg volume | 11,785,993 |
+| P/S | 6.34 | Employees | 17,400 |
+| P/B | 3.18 | Analyst rec (1=buy..5=sell) | 2.0 |
+
+## 8. Analyst Actions
+| Date | Action | Firm | Rating change |
+|---|---|---|---|
+| 2026-07-27 | main | BMO Capital | Outperform → Outperform |
+| 2026-07-20 | main | BMO Capital | Outperform → Outperform |
+| 2026-07-13 | main | B of A Securities | Neutral → Neutral |
+| 2026-07-07 | main | Barclays | Equal-Weight → Equal-Weight |
+| 2026-06-17 | init | Bernstein | — → Outperform |
+| 2026-05-26 | main | Barclays | Equal-Weight → Equal-Weight |
+| 2026-05-19 | main | Morgan Stanley | Overweight → Overweight |
+| 2026-05-13 | main | JP Morgan | Overweight → Overweight |
+
+## 9. Conclusion
+NEE: Moderate momentum / strong fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+
+## Sources
+| Source | URL | Used for |
+|---|---|---|
+| Yahoo Finance quote/profile/statistics for NEE | https://finance.yahoo.com/quote/NEE | Snapshot metrics, ownership, analyst data |
+| Yahoo Finance price history (via yfinance) | https://finance.yahoo.com/quote/NEE/history | SMA/RSI/ATR/performance calculations |
+| Yahoo Finance news feed | https://finance.yahoo.com/quote/NEE/news | Catalyst headlines |
+| Method template | AEHR.research.31.05.2026.pdf (user's Cowork method) | Report structure, scoring areas, checklist |
+
+_Note: the template's native Finviz/Fintel/ADVFN pages block automated retrieval; equivalent metrics above are computed from Yahoo Finance data instead and labeled accordingly._
