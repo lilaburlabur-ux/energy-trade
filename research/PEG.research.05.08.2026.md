@@ -18,7 +18,7 @@ Signed file: `PEG.research.05.08.2026`
 | Technical momentum | Low | Below SMA200 (-5.39%) with negative half-year (-5.83%). |
 | Fresh setup quality | Moderate / wait | -11.66% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 17.69%, revenue growth 19.40%. |
-| Value attractiveness | Reasonable | Forward P/E 16.14, EV/Sales 4.86. |
+| Value attractiveness | Reasonable | Forward P/E 16.15, EV/Sales 4.86. |
 | Risk level | Moderate | Beta 0.53, ATR 2.1% of price, short float 2.56%. |
 
 **Bottom line:** Low technical momentum, strong fundamentals, value: reasonable, risk: moderate.
@@ -68,7 +68,7 @@ Public Service Enterprise Group Incorporated, through its subsidiaries, operates
 | Revenue (ttm) | $12.79B | Revenue growth 19.40% y/y |
 | Profitability | Gross 35.36%, operating 28.43%, net 17.69% | ROA 3.66%, ROE 13.44% |
 | Balance sheet | Cash $404.00M, debt $24.40B | Current ratio 0.97, debt/equity 141.01 |
-| Valuation | P/E 18.79, forward P/E 16.14, P/S 2.94, P/B 2.17 | EV/Sales 4.86, EV/EBITDA 12.97 |
+| Valuation | P/E 18.79, forward P/E 16.15, P/S 2.94, P/B 2.17 | EV/Sales 4.86, EV/EBITDA 12.97 |
 | Growth expectations | Earnings growth 25.40%, EPS q/q 25.80% | Analyst mean target $88.24 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -120,7 +120,7 @@ Public Service Enterprise Group Incorporated, through its subsidiaries, operates
 | 52W high | $85.51 | Revenue growth y/y | 19.40% |
 | 52W low | $75.54 | Inst. ownership | 78.09% |
 | P/E (ttm) | 18.79 | Insider ownership | 0.13% |
-| Forward P/E | 16.14 | Short float | 2.56% |
+| Forward P/E | 16.15 | Short float | 2.56% |
 | PEG (trailing) | 3.81 | Avg volume | 3,053,614 |
 | P/S | 2.94 | Employees | 13,189 |
 | P/B | 2.17 | Analyst rec (1=buy..5=sell) | 2.3 |

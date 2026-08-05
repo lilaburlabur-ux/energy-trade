@@ -1,11 +1,11 @@
 # APA Research Report
-**APA Corporation** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**APA Corp** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `APA.research.05.08.2026`
 
 | Field | Value |
 |---|---|
 | Current price | $34.66 (2026-08-05, ~15-min delayed) |
-| Market cap | $12.25B |
+| Market cap | — |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
 | Current stance | High technical momentum, mixed fundamentals, value: reasonable, risk: high. |
@@ -36,10 +36,10 @@ APA Corporation, an independent energy company, explores for, develops, and prod
 
 | Headline | Source | Date |
 |---|---|---|
+| APA Corporation (NASDAQ:APA) Misses Q2 CY2026 Sales Expectations | StockStory | 2026-08-05 |
 | APA Corp. (APA) Declined Despite Meeting Expectations | Insider Monkey | 2026-08-04 |
 | Unlocking Q2 Potential of APA (APA): Exploring Wall Street Estimates for Key Metrics | Zacks | 2026-08-04 |
 | APA (APA) Stock Looks Cheap After The August 6 Earnings Preview | Simply Wall St. | 2026-08-04 |
-| Is APA’s Margin Expansion And Suriname Focus Altering The Investment Case For APA (APA)? | Simply Wall St. | 2026-08-04 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ APA Corporation, an independent energy company, explores for, develops, and prod
 | Revenue (ttm) | $8.37B | Revenue growth -11.90% y/y |
 | Profitability | Gross 72.27%, operating 38.49%, net 18.31% | ROA 9.61%, ROE 26.22% |
 | Balance sheet | Cash $293.00M, debt $4.54B | Current ratio 0.92, debt/equity 61.31 |
-| Valuation | P/E 8.08, forward P/E 8.40, P/S 1.46, P/B 1.90 | EV/Sales 2.18, EV/EBITDA 3.50 |
+| Valuation | P/E 8.08, forward P/E 8.40, P/S —, P/B 1.90 | EV/Sales 2.18, EV/EBITDA 3.50 |
 | Growth expectations | Earnings growth 32.20%, EPS q/q 28.50% | Analyst mean target $41.62 (24 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -112,7 +112,7 @@ APA Corporation, an independent energy company, explores for, develops, and prod
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $34.66 | EV/Sales | 2.18 |
-| Market cap | $12.25B | EV/EBITDA | 3.50 |
+| Market cap | — | EV/EBITDA | 3.50 |
 | Beta | 0.35 | Gross margin | 72.27% |
 | RSI(14) | 46.8 | Operating margin | 38.49% |
 | ATR(14) | 1.30 | Profit margin | 18.31% |
@@ -124,7 +124,7 @@ APA Corporation, an independent energy company, explores for, develops, and prod
 | P/E (ttm) | 8.08 | Insider ownership | 0.44% |
 | Forward P/E | 8.40 | Short float | 12.00% |
 | PEG (trailing) | 0.71 | Avg volume | 5,813,245 |
-| P/S | 1.46 | Employees | 1,791 |
+| P/S | — | Employees | 1,791 |
 | P/B | 1.90 | Analyst rec (1=buy..5=sell) | 2.7 |
 
 ## 8. Analyst Actions

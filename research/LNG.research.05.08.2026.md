@@ -1,11 +1,11 @@
 # LNG Research Report
-**Cheniere Energy, Inc.** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**Cheniere Energy** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `LNG.research.05.08.2026`
 
 | Field | Value |
 |---|---|
 | Current price | $254.76 (2026-08-05, ~15-min delayed) |
-| Market cap | $53.39B |
+| Market cap | — |
 | Sector / Industry | Energy / Oil & Gas Midstream |
 | Main theme | Oil & Gas Midstream — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
@@ -68,7 +68,7 @@ Cheniere Energy, Inc., an energy infrastructure company, primarily engages in th
 | Revenue (ttm) | $20.77B | Revenue growth 24.20% y/y |
 | Profitability | Gross 33.00%, operating -53.75%, net 7.10% | ROA 6.43%, ROE 28.92% |
 | Balance sheet | Cash $1.30B, debt $27.85B | Current ratio 0.57, debt/equity 321.12 |
-| Valuation | P/E 43.03, forward P/E 12.62, P/S 2.57, P/B 14.25 | EV/Sales 4.12, EV/EBITDA 14.16 |
+| Valuation | P/E 43.03, forward P/E 12.62, P/S —, P/B 14.25 | EV/Sales 4.12, EV/EBITDA 14.16 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $304.45 (22 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -111,7 +111,7 @@ Cheniere Energy, Inc., an energy infrastructure company, primarily engages in th
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $254.76 | EV/Sales | 4.12 |
-| Market cap | $53.39B | EV/EBITDA | 14.16 |
+| Market cap | — | EV/EBITDA | 14.16 |
 | Beta | -0.01 | Gross margin | 33.00% |
 | RSI(14) | 48.6 | Operating margin | -53.75% |
 | ATR(14) | 7.65 | Profit margin | 7.10% |
@@ -123,7 +123,7 @@ Cheniere Energy, Inc., an energy infrastructure company, primarily engages in th
 | P/E (ttm) | 43.03 | Insider ownership | 0.65% |
 | Forward P/E | 12.62 | Short float | 2.03% |
 | PEG (trailing) | 9.46 | Avg volume | 2,163,503 |
-| P/S | 2.57 | Employees | 1,717 |
+| P/S | — | Employees | 1,717 |
 | P/B | 14.25 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions

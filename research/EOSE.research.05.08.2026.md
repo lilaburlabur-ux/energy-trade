@@ -18,7 +18,7 @@ Signed file: `EOSE.research.05.08.2026`
 | Technical momentum | Low | Below SMA200 (-60.50%) with negative half-year (-73.48%). |
 | Fresh setup quality | Poor / broken | -80.09% from 52w high — base needs to rebuild. |
 | Fundamental quality | Weak | Negative profit margin (-296.12%). |
-| Value attractiveness | Reasonable | Forward P/E -95.64, EV/Sales 12.99. |
+| Value attractiveness | Reasonable | Forward P/E -127.33, EV/Sales 12.99. |
 | Risk level | High | Beta 2.80, ATR 13.2% of price, short float 30.15%. |
 
 **Bottom line:** Low technical momentum, weak fundamentals, value: reasonable, risk: high.
@@ -36,10 +36,10 @@ Eos Energy Enterprises, Inc. designs, develops, manufactures, and markets energy
 
 | Headline | Source | Date |
 |---|---|---|
+| Eos Energy Enterprises, Inc. Q2 2026 Earnings Call Summary | Moby | 2026-08-05 |
 | Eos Energy Enterprises Inc (EOSE) (Q2 2026) Earnings Call Highlights: Record Revenue and ... | GuruFocus.com | 2026-08-05 |
 | Eos Energy Enterprises Q2 Earnings Call Highlights | MarketBeat | 2026-08-05 |
 | Eos Energy Enterprises, Inc. (EOSE) Reports Q2 Loss | Zacks | 2026-08-05 |
-| DMC Global (BOOM) Q2 Earnings and Revenues Beat Estimates | Zacks | 2026-07-29 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ Eos Energy Enterprises, Inc. designs, develops, manufactures, and markets energy
 | Revenue (ttm) | $160.71M | Revenue growth 444.70% y/y |
 | Profitability | Gross -101.88%, operating -139.11%, net -296.12% | ROA -33.45%, ROE — |
 | Balance sheet | Cash $410.66M, debt $642.89M | Current ratio 4.71, debt/equity — |
-| Valuation | P/E —, forward P/E -95.64, P/S 8.60, P/B -1.49 | EV/Sales 12.99, EV/EBITDA -7.81 |
+| Valuation | P/E —, forward P/E -127.33, P/S 8.60, P/B -1.49 | EV/Sales 12.99, EV/EBITDA -7.81 |
 | Growth expectations | Earnings growth —, EPS q/q 3262.10% | Analyst mean target $7.89 (9 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -124,7 +124,7 @@ Eos Energy Enterprises, Inc. designs, develops, manufactures, and markets energy
 | 52W high | $19.19 | Revenue growth y/y | 444.70% |
 | 52W low | $3.14 | Inst. ownership | 60.34% |
 | P/E (ttm) | — | Insider ownership | 1.42% |
-| Forward P/E | -95.64 | Short float | 30.15% |
+| Forward P/E | -127.33 | Short float | 30.15% |
 | PEG (trailing) | — | Avg volume | 28,051,193 |
 | P/S | 8.60 | Employees | 787 |
 | P/B | -1.49 | Analyst rec (1=buy..5=sell) | 2.4 |

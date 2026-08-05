@@ -36,10 +36,10 @@ Fluence Energy, Inc., through its subsidiaries, provides energy storage and opti
 
 | Headline | Source | Date |
 |---|---|---|
+| Fluence Energy (NASDAQ:FLNC) Misses Q2 CY2026 Sales Expectations, Stock Drops 27.1% | StockStory | 2026-08-05 |
 | Solar Stocks Tumble After SolarEdge Posts Weak Q3 Outlook | GuruFocus.com | 2026-08-05 |
 | Energy & Utilities Roundup: Market Talk | The Wall Street Journal | 2026-08-03 |
 | FLNC Stock Plummets 52% in 6 Months: Should You Buy in the Dip? | Zacks | 2026-08-03 |
-| 1 of Wall Street’s Favorite Stocks for Long-Term Investors and 2 We Find Risky | StockStory | 2026-07-31 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

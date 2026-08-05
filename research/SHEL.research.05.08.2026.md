@@ -68,7 +68,7 @@ Shell plc operates as an energy and petrochemical company in Europe, Asia, Ocean
 | Revenue (ttm) | $296.60B | Revenue growth 44.70% y/y |
 | Profitability | Gross 26.09%, operating 16.69%, net 8.76% | ROA 6.40%, ROE 14.34% |
 | Balance sheet | Cash $31.37B, debt $73.08B | Current ratio 1.44, debt/equity 40.20 |
-| Valuation | P/E 9.81, forward P/E 9.93, P/S 0.82, P/B 1.43 | EV/Sales 1.00, EV/EBITDA 5.14 |
+| Valuation | P/E 9.71, forward P/E 9.93, P/S 0.82, P/B 1.35 | EV/Sales 1.00, EV/EBITDA 5.14 |
 | Growth expectations | Earnings growth 220.00%, EPS q/q 200.50% | Analyst mean target $98.03 (15 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -120,11 +120,11 @@ Shell plc operates as an energy and petrochemical company in Europe, Asia, Ocean
 | SMA200 dist | +9.16% | Revenue (ttm) | $296.60B |
 | 52W high | $93.30 | Revenue growth y/y | 44.70% |
 | 52W low | $68.73 | Inst. ownership | 13.79% |
-| P/E (ttm) | 9.81 | Insider ownership | 0.00% |
+| P/E (ttm) | 9.71 | Insider ownership | 0.00% |
 | Forward P/E | 9.93 | Short float | 1.82% |
 | PEG (trailing) | 1.34 | Avg volume | 6,938,050 |
 | P/S | 0.82 | Employees | 84,000 |
-| P/B | 1.43 | Analyst rec (1=buy..5=sell) | 2.2 |
+| P/B | 1.35 | Analyst rec (1=buy..5=sell) | 2.2 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

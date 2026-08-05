@@ -1,5 +1,5 @@
 # SO Research Report
-**The Southern Company** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**Southern Company** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `SO.research.05.08.2026`
 
 | Field | Value |
@@ -68,7 +68,7 @@ The Southern Company, through its subsidiaries, engages in the sale of electrici
 | Revenue (ttm) | $30.18B | Revenue growth 0.10% y/y |
 | Profitability | Gross 48.29%, operating 29.61%, net 15.43% | ROA 3.27%, ROE 11.48% |
 | Balance sheet | Cash $2.98B, debt $77.09B | Current ratio 0.79, debt/equity 182.06 |
-| Valuation | P/E 22.43, forward P/E 18.91, P/S 3.55, P/B 2.83 | EV/Sales 6.09, EV/EBITDA 12.89 |
+| Valuation | P/E 22.43, forward P/E 18.91, P/S 3.55, P/B — | EV/Sales 6.09, EV/EBITDA 12.89 |
 | Growth expectations | Earnings growth 30.40%, EPS q/q 33.40% | Analyst mean target $100.66 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -124,7 +124,7 @@ The Southern Company, through its subsidiaries, engages in the sale of electrici
 | Forward P/E | 18.91 | Short float | 3.18% |
 | PEG (trailing) | 2.41 | Avg volume | 5,836,429 |
 | P/S | 3.55 | Employees | 29,502 |
-| P/B | 2.83 | Analyst rec (1=buy..5=sell) | 2.7 |
+| P/B | — | Analyst rec (1=buy..5=sell) | 2.7 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

@@ -18,7 +18,7 @@ Signed file: `SEDG.research.05.08.2026`
 | Technical momentum | Moderate | 1Y +32.27%; price -20.62% vs SMA200. |
 | Fresh setup quality | Poor / broken | -56.82% from 52w high — base needs to rebuild. |
 | Fundamental quality | Weak | Negative profit margin (-28.56%). |
-| Value attractiveness | Fair-to-demanding | Forward P/E 22.65, EV/Sales 2.04. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 22.11, EV/Sales 2.04. |
 | Risk level | High | Beta 1.47, ATR 15.1% of price, short float 20.11%. |
 
 **Bottom line:** Moderate technical momentum, weak fundamentals, value: fair-to-demanding, risk: high.
@@ -68,7 +68,7 @@ SolarEdge Technologies, Inc., together with its subsidiaries, operates as an ene
 | Revenue (ttm) | $1.28B | Revenue growth 41.50% y/y |
 | Profitability | Gross 18.30%, operating -15.28%, net -28.56% | ROA -5.09%, ROE -72.50% |
 | Balance sheet | Cash $541.65M, debt $404.35M | Current ratio 2.02, debt/equity 98.45 |
-| Valuation | P/E —, forward P/E 22.65, P/S 1.62, P/B 5.02 | EV/Sales 2.04, EV/EBITDA -15.31 |
+| Valuation | P/E —, forward P/E 22.11, P/S 1.62, P/B 5.02 | EV/Sales 2.04, EV/EBITDA -15.31 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $44.45 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ SolarEdge Technologies, Inc., together with its subsidiaries, operates as an ene
 | Artisan Partners Limited Partnership | 1,638,490 | 2.69% | 2026-03-31 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 22.65, EV/Sales 2.04. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 22.11, EV/Sales 2.04. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 1.47, ATR 15.1% of price, short float 20.11%. Size positions accordingly.
 - **Short interest risk:** short float 20.11% can fuel squeezes both ways around news.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
@@ -125,7 +125,7 @@ SolarEdge Technologies, Inc., together with its subsidiaries, operates as an ene
 | 52W high | $78.51 | Revenue growth y/y | 41.50% |
 | 52W low | $24.42 | Inst. ownership | 110.83% |
 | P/E (ttm) | — | Insider ownership | 1.19% |
-| Forward P/E | 22.65 | Short float | 20.11% |
+| Forward P/E | 22.11 | Short float | 20.11% |
 | PEG (trailing) | — | Avg volume | 3,358,293 |
 | P/S | 1.62 | Employees | 3,576 |
 | P/B | 5.02 | Analyst rec (1=buy..5=sell) | 3.2 |

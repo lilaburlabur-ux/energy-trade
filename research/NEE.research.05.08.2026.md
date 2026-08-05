@@ -1,11 +1,11 @@
 # NEE Research Report
-**NextEra Energy, Inc.** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**NextEra Energy** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `NEE.research.05.08.2026`
 
 | Field | Value |
 |---|---|
 | Current price | $85.91 (2026-08-05, ~15-min delayed) |
-| Market cap | $179.17B |
+| Market cap | $179.21B |
 | Sector / Industry | Utilities / Utilities - Regulated Electric |
 | Main theme | Utilities - Regulated Electric — see catalysts below |
 | Current stance | Low technical momentum, strong fundamentals, value: reasonable, risk: moderate. |
@@ -110,7 +110,7 @@ NextEra Energy, Inc., through its subsidiaries, generates, stores, transmits, di
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $85.91 | EV/Sales | 10.41 |
-| Market cap | $179.17B | EV/EBITDA | 20.48 |
+| Market cap | $179.21B | EV/EBITDA | 20.48 |
 | Beta | 0.65 | Gross margin | 61.02% |
 | RSI(14) | 39.5 | Operating margin | 31.52% |
 | ATR(14) | 1.78 | Profit margin | 32.40% |

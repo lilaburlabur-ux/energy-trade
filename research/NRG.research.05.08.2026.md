@@ -1,11 +1,11 @@
 # NRG Research Report
-**NRG Energy, Inc.** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**NRG Energy** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `NRG.research.05.08.2026`
 
 | Field | Value |
 |---|---|
 | Current price | $120.73 (2026-08-05, ~15-min delayed) |
-| Market cap | $25.47B |
+| Market cap | — |
 | Sector / Industry | Utilities / Utilities - Independent Power Producers |
 | Main theme | Utilities - Independent Power Producers — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: high. |
@@ -68,7 +68,7 @@ NRG Energy, Inc., together with its subsidiaries, operates as an energy and home
 | Revenue (ttm) | $32.38B | Revenue growth 19.50% y/y |
 | Profitability | Gross 16.45%, operating 3.64%, net 0.74% | ROA 2.24%, ROE 6.25% |
 | Balance sheet | Cash $178.00M, debt $23.36B | Current ratio 0.84, debt/equity 479.24 |
-| Valuation | P/E 31.44, forward P/E 10.82, P/S 0.79, P/B 6.08 | EV/Sales 1.64, EV/EBITDA 23.49 |
+| Valuation | P/E 31.44, forward P/E 10.82, P/S —, P/B 6.08 | EV/Sales 1.64, EV/EBITDA 23.49 |
 | Growth expectations | Earnings growth -85.60%, EPS q/q -83.30% | Analyst mean target $197.00 (17 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -112,7 +112,7 @@ NRG Energy, Inc., together with its subsidiaries, operates as an energy and home
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $120.73 | EV/Sales | 1.64 |
-| Market cap | $25.47B | EV/EBITDA | 23.49 |
+| Market cap | — | EV/EBITDA | 23.49 |
 | Beta | 1.20 | Gross margin | 16.45% |
 | RSI(14) | 40.1 | Operating margin | 3.64% |
 | ATR(14) | 7.92 | Profit margin | 0.74% |
@@ -123,8 +123,8 @@ NRG Energy, Inc., together with its subsidiaries, operates as an energy and home
 | 52W low | $117.04 | Inst. ownership | 97.83% |
 | P/E (ttm) | 31.44 | Insider ownership | 4.41% |
 | Forward P/E | 10.82 | Short float | 4.85% |
-| PEG (trailing) | 0.61 | Avg volume | 2,695,970 |
-| P/S | 0.79 | Employees | 16,702 |
+| PEG (trailing) | 0.53 | Avg volume | 2,695,970 |
+| P/S | — | Employees | 16,702 |
 | P/B | 6.08 | Analyst rec (1=buy..5=sell) | 1.6 |
 
 ## 8. Analyst Actions

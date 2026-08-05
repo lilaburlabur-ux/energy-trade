@@ -68,7 +68,7 @@ Dominion Energy, Inc. provides regulated electricity and natural gas services in
 | Revenue (ttm) | $18.12B | Revenue growth 17.60% y/y |
 | Profitability | Gross 46.22%, operating 29.22%, net 13.98% | ROA 3.04%, ROE 8.28% |
 | Balance sheet | Cash $298.00M, debt $53.93B | Current ratio 0.81, debt/equity 160.46 |
-| Valuation | P/E 23.79, forward P/E 17.89, P/S 3.31, P/B 2.15 | EV/Sales 6.61, EV/EBITDA 14.36 |
+| Valuation | P/E 23.62, forward P/E 17.89, P/S 3.31, P/B 2.15 | EV/Sales 6.61, EV/EBITDA 14.36 |
 | Growth expectations | Earnings growth -58.00%, EPS q/q -55.30% | Analyst mean target $71.00 (12 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -120,7 +120,7 @@ Dominion Energy, Inc. provides regulated electricity and natural gas services in
 | SMA200 dist | +9.22% | Revenue (ttm) | $18.12B |
 | 52W high | $71.69 | Revenue growth y/y | 17.60% |
 | 52W low | $55.92 | Inst. ownership | 81.94% |
-| P/E (ttm) | 23.79 | Insider ownership | 0.13% |
+| P/E (ttm) | 23.62 | Insider ownership | 0.13% |
 | Forward P/E | 17.89 | Short float | 3.57% |
 | PEG (trailing) | 2.95 | Avg volume | 6,903,514 |
 | P/S | 3.31 | Employees | 15,200 |

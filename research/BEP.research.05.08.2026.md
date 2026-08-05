@@ -1,5 +1,5 @@
 # BEP Research Report
-**Brookfield Renewable Partners L.P.** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**Brookfield Renewable** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `BEP.research.05.08.2026`
 
 | Field | Value |

@@ -5,7 +5,7 @@ Signed file: `WMB.research.05.08.2026`
 | Field | Value |
 |---|---|
 | Current price | $71.81 (2026-08-05, ~15-min delayed) |
-| Market cap | $87.84B |
+| Market cap | $87.82B |
 | Sector / Industry | Energy / Oil & Gas Midstream |
 | Main theme | Oil & Gas Midstream — see catalysts below |
 | Current stance | Moderate technical momentum, strong fundamentals, value: fair-to-demanding, risk: moderate. |
@@ -111,7 +111,7 @@ The Williams Companies, Inc., together with its subsidiaries, operates as an ene
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $71.81 | EV/Sales | 9.84 |
-| Market cap | $87.84B | EV/EBITDA | 16.91 |
+| Market cap | $87.82B | EV/EBITDA | 16.91 |
 | Beta | — | Gross margin | 62.92% |
 | RSI(14) | 46.0 | Operating margin | 38.32% |
 | ATR(14) | 2.00 | Profit margin | 25.43% |

@@ -18,7 +18,7 @@ Signed file: `MPC.research.05.08.2026`
 | Technical momentum | High | 1Y +80.74%; price +33.77% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -6.88% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 3.41%, revenue growth 8.80%. |
-| Value attractiveness | Reasonable | Forward P/E 10.46, EV/Sales 0.94. |
+| Value attractiveness | Reasonable | Forward P/E 10.05, EV/Sales 0.94. |
 | Risk level | Elevated | Beta 0.51, ATR 3.4% of price, short float 2.54%. |
 
 **Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
@@ -68,7 +68,7 @@ Marathon Petroleum Corporation, together with its subsidiaries, operates as an i
 | Revenue (ttm) | $135.95B | Revenue growth 8.80% y/y |
 | Profitability | Gross 10.74%, operating 3.56%, net 3.41% | ROA 5.15%, ROE 27.46% |
 | Balance sheet | Cash $2.15B, debt $34.33B | Current ratio 1.18, debt/equity 146.52 |
-| Valuation | P/E 10.32, forward P/E 10.46, P/S 0.64, P/B 5.21 | EV/Sales 0.94, EV/EBITDA 12.53 |
+| Valuation | P/E 10.32, forward P/E 10.05, P/S 0.64, P/B 5.21 | EV/Sales 0.94, EV/EBITDA 12.53 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $303.89 (18 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -122,7 +122,7 @@ Marathon Petroleum Corporation, together with its subsidiaries, operates as an i
 | 52W high | $319.76 | Revenue growth y/y | 8.80% |
 | 52W low | $155.55 | Inst. ownership | 78.38% |
 | P/E (ttm) | 10.32 | Insider ownership | 0.32% |
-| Forward P/E | 10.46 | Short float | 2.54% |
+| Forward P/E | 10.05 | Short float | 2.54% |
 | PEG (trailing) | 1.57 | Avg volume | 2,328,232 |
 | P/S | 0.64 | Employees | 18,500 |
 | P/B | 5.21 | Analyst rec (1=buy..5=sell) | 2.3 |

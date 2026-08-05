@@ -1,5 +1,5 @@
 # NOV Research Report
-**NOV Inc.** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**NOV Inc** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `NOV.research.05.08.2026`
 
 | Field | Value |
@@ -123,7 +123,7 @@ NOV Inc. designs, constructs, manufactures, and sells systems, components, and p
 | 52W low | $11.60 | Inst. ownership | 109.02% |
 | P/E (ttm) | 72.22 | Insider ownership | 0.73% |
 | Forward P/E | 14.87 | Short float | 13.34% |
-| PEG (trailing) | 1.10 | Avg volume | 4,089,519 |
+| PEG (trailing) | 1.13 | Avg volume | 4,089,519 |
 | P/S | 0.80 | Employees | 31,605 |
 | P/B | 1.12 | Analyst rec (1=buy..5=sell) | 2.4 |
 

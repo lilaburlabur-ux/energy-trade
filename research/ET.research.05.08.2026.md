@@ -18,7 +18,7 @@ Signed file: `ET.research.05.08.2026`
 | Technical momentum | Moderate | 1Y +23.18%; price +12.58% vs SMA200. |
 | Fresh setup quality | Watch | -0.39% from 52w high and near SMA20 — check for a tight base. |
 | Fundamental quality | Mixed | Profit margin 4.72%, revenue growth 32.10%. |
-| Value attractiveness | Reasonable | Forward P/E 13.27, EV/Sales 1.72. |
+| Value attractiveness | Reasonable | Forward P/E 12.96, EV/Sales 1.72. |
 | Risk level | Moderate | Beta 0.56, ATR 1.7% of price, short float 1.09%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -68,7 +68,7 @@ Energy Transfer LP, together with its subsidiaries, provides energy-related serv
 | Revenue (ttm) | $92.29B | Revenue growth 32.10% y/y |
 | Profitability | Gross 18.62%, operating 10.74%, net 4.72% | ROA 4.47%, ROE 12.35% |
 | Balance sheet | Cash $951.00M, debt $71.11B | Current ratio 1.17, debt/equity 142.24 |
-| Valuation | P/E 13.93, forward P/E 13.27, P/S 0.76, P/B 2.25 | EV/Sales 1.72, EV/EBITDA 10.12 |
+| Valuation | P/E 13.93, forward P/E 12.96, P/S 0.76, P/B 2.25 | EV/Sales 1.72, EV/EBITDA 10.12 |
 | Growth expectations | Earnings growth -3.60%, EPS q/q -5.20% | Analyst mean target $23.90 (21 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -121,7 +121,7 @@ Energy Transfer LP, together with its subsidiaries, provides energy-related serv
 | 52W high | $20.42 | Revenue growth y/y | 32.10% |
 | 52W low | $15.41 | Inst. ownership | 31.97% |
 | P/E (ttm) | 13.93 | Insider ownership | 10.29% |
-| Forward P/E | 13.27 | Short float | 1.09% |
+| Forward P/E | 12.96 | Short float | 1.09% |
 | PEG (trailing) | 0.61 | Avg volume | 9,361,119 |
 | P/S | 0.76 | Employees | 22,311 |
 | P/B | 2.25 | Analyst rec (1=buy..5=sell) | 1.4 |

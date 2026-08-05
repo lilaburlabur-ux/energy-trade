@@ -5,7 +5,7 @@ Signed file: `EQNR.research.05.08.2026`
 | Field | Value |
 |---|---|
 | Current price | $38.13 (2026-08-05, ~15-min delayed) |
-| Market cap | $90.57B |
+| Market cap | $90.60B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
@@ -31,15 +31,6 @@ Signed file: `EQNR.research.05.08.2026`
 
 ## 2. Company Overview and Recent Catalysts
 Equinor ASA operates as an energy company in Norway and internationally. It operates through Exploration & Production Norway; Exploration & Production International; Exploration & Production USA; Marketing, Midstream & Processing; and Renewables segments.
-
-**Recent headlines (potential catalysts):**
-
-| Headline | Source | Date |
-|---|---|---|
-| EQNR Gains 22.2% Over the Past Month While Its Earnings Strengthen | Zacks | 2026-08-05 |
-| European Equities Traded in US as ADRs Advance in Tuesday Trading | MT Newswires | 2026-08-04 |
-| Latest News In Energy Transition - Advantage Renewables Boosts Michigan Grid With Battery Projects | Simply Wall St. | 2026-08-04 |
-| Energy & Utilities Roundup: Market Talk | The Wall Street Journal | 2026-08-03 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -111,7 +102,7 @@ Equinor ASA operates as an energy company in Norway and internationally. It oper
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $38.13 | EV/Sales | 1.78 |
-| Market cap | $90.57B | EV/EBITDA | 4.84 |
+| Market cap | $90.60B | EV/EBITDA | 4.84 |
 | Beta | -0.73 | Gross margin | 40.13% |
 | RSI(14) | 52.0 | Operating margin | 36.11% |
 | ATR(14) | 1.32 | Profit margin | 7.97% |

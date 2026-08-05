@@ -36,10 +36,10 @@ Occidental Petroleum Corporation, together with its subsidiaries, engages in the
 
 | Headline | Source | Date |
 |---|---|---|
+| Occidental Petroleum (NYSE:OXY) Reports Upbeat Q2 CY2026 | StockStory | 2026-08-05 |
 | Occidental Petroleum Set to Report Q2 Earnings: How to Play the Stock? | Zacks | 2026-08-05 |
 | Countdown to Occidental (OXY) Q2 Earnings: Wall Street Forecasts for Key Metrics | Zacks | 2026-08-04 |
 | OXY Stock: When A Bargain Price Is A Message | Trefis | 2026-08-04 |
-| ConocoPhillips Gears Up to Report Q2 Earnings: What's in the Cards? | Zacks | 2026-08-03 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

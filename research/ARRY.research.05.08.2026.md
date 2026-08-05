@@ -36,10 +36,10 @@ Array Technologies, Inc. engages in the manufacture and sale of solar tracking t
 
 | Headline | Source | Date |
 |---|---|---|
+| Array (NASDAQ:ARRY) Posts Better-Than-Expected Sales In Q2 CY2026 But Quarterly Revenue Guidance Misses Expectations | StockStory | 2026-08-05 |
 | Solar Stocks Tumble After SolarEdge Posts Weak Q3 Outlook | GuruFocus.com | 2026-08-05 |
 | SolarEdge Surges 8%, Enphase Climbs 5%, First Solar Rises 4% on Pro-Solar Policy Hopes | 24/7 Wall St. | 2026-08-04 |
 | What Array Technologies (ARRY)'s New Atlas Foundation‑to‑Tracker Platform Means For Shareholders | Simply Wall St. | 2026-08-01 |
-| First Solar's Q2 Earnings Beat Estimates, Revenues Decrease Y/Y | Zacks | 2026-07-31 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

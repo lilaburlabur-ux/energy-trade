@@ -5,7 +5,7 @@ Signed file: `CVX.research.05.08.2026`
 | Field | Value |
 |---|---|
 | Current price | $186.41 (2026-08-05, ~15-min delayed) |
-| Market cap | $365.74B |
+| Market cap | $371.25B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -68,7 +68,7 @@ Chevron Corporation, through its subsidiaries, engages in the integrated energy 
 | Revenue (ttm) | $209.37B | Revenue growth 52.60% y/y |
 | Profitability | Gross 44.26%, operating 21.95%, net 9.84% | ROA —, ROE — |
 | Balance sheet | Cash $5.33B, debt $45.43B | Current ratio —, debt/equity 23.99 |
-| Valuation | P/E 17.92, forward P/E 14.38, P/S 1.75, P/B 2.01 | EV/Sales 2.03, EV/EBITDA 8.39 |
+| Valuation | P/E 17.92, forward P/E 14.38, P/S 1.77, P/B 2.01 | EV/Sales 2.03, EV/EBITDA 8.39 |
 | Growth expectations | Earnings growth 322.90%, EPS q/q 384.80% | Analyst mean target $216.75 (24 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -110,7 +110,7 @@ Chevron Corporation, through its subsidiaries, engages in the integrated energy 
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $186.41 | EV/Sales | 2.03 |
-| Market cap | $365.74B | EV/EBITDA | 8.39 |
+| Market cap | $371.25B | EV/EBITDA | 8.39 |
 | Beta | 0.49 | Gross margin | 44.26% |
 | RSI(14) | 49.7 | Operating margin | 21.95% |
 | ATR(14) | 4.53 | Profit margin | 9.84% |
@@ -121,8 +121,8 @@ Chevron Corporation, through its subsidiaries, engages in the integrated energy 
 | 52W low | $144.01 | Inst. ownership | 71.33% |
 | P/E (ttm) | 17.92 | Insider ownership | 4.80% |
 | Forward P/E | 14.38 | Short float | 1.03% |
-| PEG (trailing) | 0.80 | Avg volume | 9,193,390 |
-| P/S | 1.75 | Employees | 43,039 |
+| PEG (trailing) | 0.75 | Avg volume | 9,193,390 |
+| P/S | 1.77 | Employees | 43,039 |
 | P/B | 2.01 | Analyst rec (1=buy..5=sell) | 1.7 |
 
 ## 8. Analyst Actions

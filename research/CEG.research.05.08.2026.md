@@ -18,7 +18,7 @@ Signed file: `CEG.research.05.08.2026`
 | Technical momentum | Low | Below SMA200 (-13.21%) with negative half-year (-0.95%). |
 | Fresh setup quality | Poor / broken | -34.10% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 12.69%, revenue growth 63.80%. |
-| Value attractiveness | Reasonable | Forward P/E 19.89, EV/Sales 4.04. |
+| Value attractiveness | Reasonable | Forward P/E 19.92, EV/Sales 4.04. |
 | Risk level | Elevated | Beta 1.12, ATR 3.8% of price, short float 3.33%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
@@ -68,7 +68,7 @@ Constellation Energy Corporation produces and sells energy products and services
 | Revenue (ttm) | $29.87B | Revenue growth 63.80% y/y |
 | Profitability | Gross 23.26%, operating 21.86%, net 12.69% | ROA 4.20%, ROE 16.10% |
 | Balance sheet | Cash $864.00M, debt $22.47B | Current ratio 1.36, debt/equity 66.43 |
-| Valuation | P/E 22.11, forward P/E 19.89, P/S 3.17, P/B 2.87 | EV/Sales 4.04, EV/EBITDA 15.18 |
+| Valuation | P/E 23.01, forward P/E 19.92, P/S 3.17, P/B 2.87 | EV/Sales 4.04, EV/EBITDA 15.18 |
 | Growth expectations | Earnings growth 1091.00%, EPS q/q 1247.50% | Analyst mean target $351.91 (21 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -121,8 +121,8 @@ Constellation Energy Corporation produces and sells energy products and services
 | SMA200 dist | -13.21% | Revenue (ttm) | $29.87B |
 | 52W high | $402.32 | Revenue growth y/y | 63.80% |
 | 52W low | $236.50 | Inst. ownership | 83.23% |
-| P/E (ttm) | 22.11 | Insider ownership | 0.33% |
-| Forward P/E | 19.89 | Short float | 3.33% |
+| P/E (ttm) | 23.01 | Insider ownership | 0.33% |
+| Forward P/E | 19.92 | Short float | 3.33% |
 | PEG (trailing) | — | Avg volume | 3,690,511 |
 | P/S | 3.17 | Employees | 15,291 |
 | P/B | 2.87 | Analyst rec (1=buy..5=sell) | 1.5 |
