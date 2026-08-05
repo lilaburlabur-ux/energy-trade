@@ -1,7 +1,7 @@
 {
  "meta": {
   "source": "Energy Trade curated universe (seed_energy_universe.py)",
-  "as_of": "2026-08-05 21:32 UTC",
+  "as_of": "2026-08-05 22:29 UTC",
   "total_tickers": 68,
   "min_bubble_size": 7,
   "render_spec": {
@@ -648,7 +648,7 @@
       42.09
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
-     "fwd_eps": 5.38
+     "fwd_eps": 5.36
     },
     {
      "ticker": "EQT",
@@ -1758,7 +1758,7 @@
       297.75
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
-     "fwd_eps": 28.45
+     "fwd_eps": 29.63
     },
     {
      "ticker": "PSX",
@@ -1767,7 +1767,7 @@
      "industry": "Oil & Gas Refining & Marketing",
      "country": "United States",
      "market_cap_b": 81.2,
-     "pe": 20.01,
+     "pe": 20.0,
      "price": 202.55,
      "change_pct": -1.62,
      "volume": 3380818,
@@ -1860,7 +1860,7 @@
       82.98
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
-     "fwd_eps": 9.0
+     "fwd_eps": 8.97
     }
    ]
   },
@@ -1987,7 +1987,7 @@
      "industry": "Aerospace & Defense",
      "country": "United States",
      "market_cap_b": 15.42,
-     "pe": 44.87,
+     "pe": 43.6,
      "price": 168.28,
      "change_pct": -2.39,
      "volume": 837044,
@@ -2410,7 +2410,7 @@
      "industry": "Solar",
      "country": "United States",
      "market_cap_b": 25.44,
-     "pe": 24.16,
+     "pe": 24.19,
      "price": 236.8,
      "change_pct": -2.8,
      "volume": 3200946,
@@ -2936,7 +2936,7 @@
      "industry": "Engineering & Construction",
      "country": "United States",
      "market_cap_b": 102.68,
-     "pe": 78.41,
+     "pe": 78.23,
      "price": 682.99,
      "change_pct": -1.44,
      "volume": 792498,
@@ -2978,7 +2978,7 @@
       682.99
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
-     "fwd_eps": 19.0
+     "fwd_eps": 19.12
     },
     {
      "ticker": "BE",
@@ -3182,7 +3182,7 @@
       3.82
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
-     "fwd_eps": -0.04
+     "fwd_eps": -0.03
     }
    ]
   },
