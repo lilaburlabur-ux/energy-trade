@@ -1,409 +1,415 @@
 {
-  "as_of_utc": "2026-08-04T22:32:42+00:00",
-  "as_of_local": "2026-08-04 22:32:42 UTC",
+  "as_of_utc": "2026-08-05T21:35:41+00:00",
+  "as_of_local": "2026-08-05 21:35:41 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
       "name": "ExxonMobil",
-      "price": 153.96,
-      "previous_close": 155.06,
-      "change_pct": -0.71,
-      "market_cap": 638156092890.1448,
+      "price": 151.63,
+      "previous_close": 153.96,
+      "change_pct": -1.51,
+      "market_cap": 628498358413.0598,
       "headlines": [
         {
-          "title": "BP profit more than doubles as Middle East conflict boosts oil prices",
-          "url": "https://finance.yahoo.com/energy/articles/bp-profit-more-doubles-middle-093317262.html",
-          "publisher": "Euronews",
-          "published": "2026-08-04T17:18:57Z"
+          "title": "Shell Q2 Earnings Beat Estimates as Higher Oil Prices Boost Results",
+          "url": "https://finance.yahoo.com/energy/articles/shell-q2-earnings-beat-estimates-164500491.html",
+          "publisher": "Zacks",
+          "published": "2026-08-05T16:45:00Z"
         },
         {
-          "title": "Exxon Posts Its Best Profit in Four Years, Here\u2019s Where It\u2019ll End The Year",
-          "url": "https://finance.yahoo.com/energy/articles/exxon-posts-best-profit-four-170015862.html",
+          "title": "EOG Q2 Earnings Beat Estimates on Higher Volumes & Prices",
+          "url": "https://finance.yahoo.com/energy/articles/eog-q2-earnings-beat-estimates-150200833.html",
+          "publisher": "Zacks",
+          "published": "2026-08-05T15:02:00Z"
+        },
+        {
+          "title": "Oil Refiners Are Quietly Printing Money. This Company\u2019s Earnings Jumped 975%",
+          "url": "https://finance.yahoo.com/energy/articles/oil-refiners-quietly-printing-money-133011627.html",
           "publisher": "24/7 Wall St.",
-          "published": "2026-08-04T17:00:15Z"
-        },
-        {
-          "title": "Oil Extends Losses After US, Qatar Signal Progress on Iran Draft Deal",
-          "url": "https://finance.yahoo.com/energy/articles/oil-extends-losses-us-qatar-154500196.html",
-          "publisher": "Oilprice.com",
-          "published": "2026-08-04T15:45:00Z"
+          "published": "2026-08-05T13:30:11Z"
         }
       ]
     },
     {
       "symbol": "CVX",
       "name": "Chevron",
-      "price": 190.4,
-      "previous_close": 193.18,
-      "change_pct": -1.44,
-      "market_cap": 379200196017.0521,
+      "price": 186.41,
+      "previous_close": 190.4,
+      "change_pct": -2.1,
+      "market_cap": 365736427185.0586,
       "headlines": [
         {
-          "title": "BP profit more than doubles as Middle East conflict boosts oil prices",
-          "url": "https://finance.yahoo.com/energy/articles/bp-profit-more-doubles-middle-093317262.html",
-          "publisher": "Euronews",
-          "published": "2026-08-04T17:18:57Z"
+          "title": "Shell Q2 Earnings Beat Estimates as Higher Oil Prices Boost Results",
+          "url": "https://finance.yahoo.com/energy/articles/shell-q2-earnings-beat-estimates-164500491.html",
+          "publisher": "Zacks",
+          "published": "2026-08-05T16:45:00Z"
         },
         {
-          "title": "Exxon Posts Its Best Profit in Four Years, Here\u2019s Where It\u2019ll End The Year",
-          "url": "https://finance.yahoo.com/energy/articles/exxon-posts-best-profit-four-170015862.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-08-04T17:00:15Z"
+          "title": "EOG Q2 Earnings Beat Estimates on Higher Volumes & Prices",
+          "url": "https://finance.yahoo.com/energy/articles/eog-q2-earnings-beat-estimates-150200833.html",
+          "publisher": "Zacks",
+          "published": "2026-08-05T15:02:00Z"
         },
         {
-          "title": "Oil Extends Losses After US, Qatar Signal Progress on Iran Draft Deal",
-          "url": "https://finance.yahoo.com/energy/articles/oil-extends-losses-us-qatar-154500196.html",
-          "publisher": "Oilprice.com",
-          "published": "2026-08-04T15:45:00Z"
+          "title": "Trump rips Exxon, Chevron for \u2018making too much money\u2019 as US gas prices soar above $4 \u2014 but is Big Oil the bad guy?",
+          "url": "https://finance.yahoo.com/energy/articles/trump-rips-exxon-chevron-making-125500268.html",
+          "publisher": "Moneywise",
+          "published": "2026-08-05T12:55:00Z"
         }
       ]
     },
     {
       "symbol": "GEV",
       "name": "GE Vernova",
-      "price": 1018.53,
-      "previous_close": 1006.76,
-      "change_pct": 1.17,
-      "market_cap": 271268750058.67163,
+      "price": 1017.96,
+      "previous_close": 1018.53,
+      "change_pct": -0.06,
+      "market_cap": 271116937966.81622,
       "headlines": [
         {
-          "title": "GE Vernova Set to Be Biggest Winner From AI Data Center\u2019s Massive Power Shortfall",
-          "url": "https://finance.yahoo.com/energy/articles/ge-vernova-set-biggest-winner-153026256.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-08-04T15:30:26Z"
+          "title": "This GE Vernova Supplier Spikes Past A Buy Point",
+          "url": "https://www.investors.com/news/this-ge-vernova-supplier-spikes-past-a-buy-point/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-08-05T20:07:32Z"
         },
         {
-          "title": "GE Vernova receives order from Enfinity Global",
-          "url": "https://www.energyglobal.com/wind/04082026/ge-vernova-receives-order-from-enfinity-global/?yptr=yahoo",
-          "publisher": "Energy Global",
-          "published": "2026-08-04T15:00:00Z"
+          "title": "GE Vernova to supply 43 wind turbines for Enfinity Global\u2019s Fatehgarh site",
+          "url": "https://finance.yahoo.com/energy/articles/ge-vernova-supply-43-wind-085922093.html",
+          "publisher": "Power Technology",
+          "published": "2026-08-05T08:59:22Z"
         },
         {
-          "title": "Caterpillar Profit Tops Estimates as AI Boosts Power Sales",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/caterpillar-profit-tops-estimates-ai-104205108.html",
-          "publisher": "Bloomberg",
-          "published": "2026-08-04T10:42:05Z"
+          "title": "AI Infrastructure Backlog: How Dell, HPE, SMCI, and GE Vernova Are Positioned",
+          "url": "https://finance.yahoo.com/technology/ai/articles/ai-infrastructure-backlog-dell-hpe-082249164.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-08-05T08:22:49Z"
         }
       ]
     },
     {
       "symbol": "SHEL",
       "name": "Shell",
-      "price": 89.84,
-      "previous_close": 91.08,
-      "change_pct": -1.36,
-      "market_cap": 248569176001.8409,
+      "price": 87.76,
+      "previous_close": 89.84,
+      "change_pct": -2.32,
+      "market_cap": 242679100555.46967,
       "headlines": [
         {
-          "title": "BP profit more than doubles as Middle East conflict boosts oil prices",
-          "url": "https://finance.yahoo.com/energy/articles/bp-profit-more-doubles-middle-093317262.html",
-          "publisher": "Euronews",
-          "published": "2026-08-04T17:18:57Z"
+          "title": "Shell Q2 Earnings Beat Estimates as Higher Oil Prices Boost Results",
+          "url": "https://finance.yahoo.com/energy/articles/shell-q2-earnings-beat-estimates-164500491.html",
+          "publisher": "Zacks",
+          "published": "2026-08-05T16:45:00Z"
         },
         {
-          "title": "European Equities Traded in US as ADRs Advance in Tuesday Trading",
-          "url": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-adrs-150615834.html",
-          "publisher": "MT Newswires",
-          "published": "2026-08-04T15:06:15Z"
+          "title": "EQNR Gains 22.2% Over the Past Month While Its Earnings Strengthen",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/eqnr-gains-22-2-over-145200416.html",
+          "publisher": "Zacks",
+          "published": "2026-08-05T14:52:00Z"
         },
         {
-          "title": "BP profit soars as Mideast war roils energy prices",
-          "url": "https://finance.yahoo.com/energy/articles/bp-profit-soars-mideast-war-082500397.html",
-          "publisher": "AFP",
-          "published": "2026-08-04T12:57:56Z"
+          "title": "Here\u2019s Why Emerald\u00a0Wealth Partners\u00a0Cut Its Shell (SHEL) Stake",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-emerald-wealth-partners-cut-133652355.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-08-05T13:36:52Z"
         }
       ]
     },
     {
       "symbol": "TTE",
       "name": "TotalEnergies",
-      "price": 85.19,
-      "previous_close": 87.2,
-      "change_pct": -2.31,
-      "market_cap": 189022605069.67896,
+      "price": 84.74,
+      "previous_close": 85.19,
+      "change_pct": -0.53,
+      "market_cap": 188024118919.6559,
       "headlines": [
+        {
+          "title": "Devon Q2 Earnings Surpass Estimates on Strong Oil Output and Pricing",
+          "url": "https://finance.yahoo.com/energy/articles/devon-q2-earnings-surpass-estimates-165900303.html",
+          "publisher": "Zacks",
+          "published": "2026-08-05T16:59:00Z"
+        },
+        {
+          "title": "Middle East War Triggers New Global Refining Boom",
+          "url": "https://finance.yahoo.com/energy/articles/middle-east-war-triggers-global-000000799.html",
+          "publisher": "Oilprice.com",
+          "published": "2026-08-05T00:00:00Z"
+        },
         {
           "title": "BP profit more than doubles as Middle East conflict boosts oil prices",
           "url": "https://finance.yahoo.com/energy/articles/bp-profit-more-doubles-middle-093317262.html",
           "publisher": "Euronews",
           "published": "2026-08-04T17:18:57Z"
-        },
-        {
-          "title": "Energy Transfer Q2 Earnings Beat Estimates on NGL Growth, View Up",
-          "url": "https://finance.yahoo.com/energy/articles/energy-transfer-q2-earnings-beat-160800282.html",
-          "publisher": "Zacks",
-          "published": "2026-08-04T16:08:00Z"
-        },
-        {
-          "title": "BP profit soars as Mideast war roils energy prices",
-          "url": "https://finance.yahoo.com/energy/articles/bp-profit-soars-mideast-war-082500397.html",
-          "publisher": "AFP",
-          "published": "2026-08-04T12:57:56Z"
         }
       ]
     },
     {
       "symbol": "NEE",
       "name": "NextEra Energy",
-      "price": 87.2,
-      "previous_close": 86.55,
-      "change_pct": 0.75,
-      "market_cap": 181897293458.89972,
+      "price": 85.91,
+      "previous_close": 87.2,
+      "change_pct": -1.48,
+      "market_cap": 179174363943.49493,
       "headlines": [
         {
-          "title": "This Top Nuclear Energy Dividend Stock Could Turn $1,000 Into a Lifetime Income Stream",
-          "url": "https://finance.yahoo.com/energy/articles/top-nuclear-energy-dividend-stock-193500048.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-01T19:35:00Z"
+          "title": "Utilities Are Up 8% on AI Power Demand. The Fund Actually Building the Data Centers Is Up 40%",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/utilities-8-ai-power-demand-201033058.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-08-05T20:10:33Z"
         },
         {
-          "title": "Does US$100 Billion Paducah AI Power Campus Plan Change The Bull Case For NextEra Energy (NEE)?",
-          "url": "https://finance.yahoo.com/technology/ai/articles/does-us-100-billion-paducah-220927718.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-07-31T22:09:27Z"
+          "title": "NiSource Q2 Earnings Top Estimates on NIPSCO Gains, Data Center Demand",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nisource-q2-earnings-top-estimates-160600485.html",
+          "publisher": "Zacks",
+          "published": "2026-08-05T16:06:00Z"
         },
         {
-          "title": "Bloom Energy vs. NextEra Energy: Is a Fuel Cell Upstart or Renewable Energy Titan the Better Buy in 2026?",
-          "url": "https://finance.yahoo.com/energy/articles/bloom-energy-vs-nextera-energy-191153851.html",
-          "publisher": "Motley Fool",
-          "published": "2026-07-31T19:11:53Z"
+          "title": "Duke Energy Q2 Earnings Call Highlights",
+          "url": "https://finance.yahoo.com/energy/articles/duke-energy-q2-earnings-call-050350166.html",
+          "publisher": "MarketBeat",
+          "published": "2026-08-05T05:03:50Z"
         }
       ]
     },
     {
       "symbol": "ETN",
       "name": "Eaton",
-      "price": 444.77,
-      "previous_close": 438.23,
-      "change_pct": 1.49,
-      "market_cap": 172704186734.0088,
+      "price": 447.28,
+      "previous_close": 444.77,
+      "change_pct": 0.56,
+      "market_cap": 173678823526.00098,
       "headlines": [
         {
-          "title": "Atkore Stock Surged Because Prysmian Agreed To Buy It For Cash",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/atkore-stock-surged-because-prysmian-164715728.html",
-          "publisher": "Trefis",
-          "published": "2026-08-04T16:47:15Z"
-        },
-        {
-          "title": "Here's How Much You'd Have If You Invested $1000 in Eaton a Decade Ago",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/heres-much-youd-invested-1000-123001490.html",
+          "title": "VWDRY vs. ETN: Which Stock Is the Better Value Option?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/vwdry-vs-etn-stock-better-154004862.html",
           "publisher": "Zacks",
-          "published": "2026-08-04T12:30:01Z"
+          "published": "2026-08-05T15:40:04Z"
         },
         {
-          "title": "Eaton Well-Positioned for Growth Surge Based on Data Center Construction Backlog, RBC Says",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/eaton-well-positioned-growth-surge-155448149.html",
-          "publisher": "MT Newswires",
-          "published": "2026-08-03T15:54:48Z"
+          "title": "How Sensata's Q2 Beat and Q3 Guidance Shape Its 2026 Growth Story",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/sensatas-q2-beat-q3-guidance-134900787.html",
+          "publisher": "Zacks",
+          "published": "2026-08-05T13:49:00Z"
+        },
+        {
+          "title": "Are Industrial Products Stocks Lagging  ABB (ABBNY) This Year?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/industrial-products-stocks-lagging-abb-134003329.html",
+          "publisher": "Zacks",
+          "published": "2026-08-05T13:40:03Z"
         }
       ]
     },
     {
       "symbol": "COP",
       "name": "ConocoPhillips",
-      "price": 117.94,
-      "previous_close": 119.16,
-      "change_pct": -1.02,
-      "market_cap": 143685598159.9306,
+      "price": 115.04,
+      "previous_close": 117.94,
+      "change_pct": -2.46,
+      "market_cap": 140152543680.66147,
       "headlines": [
+        {
+          "title": "Jobs Report, Berkshire Earnings: What to Watch the Rest of the Week",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-05-2026/card/jobs-report-berkshire-earnings-what-to-watch-the-rest-of-the-week-QUahvmShwtialYKVbvIR?siteid=yhoof2&yptr=yahoo",
+          "publisher": "The Wall Street Journal",
+          "published": "2026-08-05T07:18:36Z"
+        },
+        {
+          "title": "Suncor CEO says \u2018a lot of work to do\u2019 on pipeline, carbon MOU",
+          "url": "https://finance.yahoo.com/news/suncor-energy-triples-profits-doubles-015736028.html",
+          "publisher": "Financial Post",
+          "published": "2026-08-05T01:57:36Z"
+        },
         {
           "title": "ConocoPhillips (COP) Following Pelto Island Reef Project Is The Stock A Bargain",
           "url": "https://finance.yahoo.com/markets/stocks/articles/conocophillips-cop-following-pelto-island-180841498.html",
           "publisher": "Simply Wall St.",
           "published": "2026-08-04T18:08:41Z"
-        },
-        {
-          "title": "Exxon Posts Its Best Profit in Four Years, Here\u2019s Where It\u2019ll End The Year",
-          "url": "https://finance.yahoo.com/energy/articles/exxon-posts-best-profit-four-170015862.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-08-04T17:00:15Z"
-        },
-        {
-          "title": "ConocoPhillips Stock Outlook: Is Wall Street Bullish or Bearish?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/conocophillips-stock-outlook-wall-street-151204786.html",
-          "publisher": "Barchart",
-          "published": "2026-08-04T15:12:04Z"
-        }
-      ]
-    },
-    {
-      "symbol": "BP",
-      "name": "BP",
-      "price": 42.44,
-      "previous_close": 44.26,
-      "change_pct": -4.11,
-      "market_cap": 109297523166.02557,
-      "headlines": [
-        {
-          "title": "Earnings live updates: SpaceX stock slides despite Starlink-driven revenue beat, Paramount stock slips",
-          "url": "https://finance.yahoo.com/markets/live/earnings-live-updates-130425228.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-08-03T13:04:25Z"
-        },
-        {
-          "title": "Energy & Utilities Roundup: Market Talk",
-          "url": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-8a8294ee?siteid=yhoof2&yptr=yahoo",
-          "publisher": "The Wall Street Journal",
-          "published": "2026-08-04T21:08:00Z"
-        },
-        {
-          "title": "Sector Update: Energy Stocks Decline Late Afternoon",
-          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-decline-afternoon-195553066.html",
-          "publisher": "MT Newswires",
-          "published": "2026-08-04T19:55:53Z"
         }
       ]
     },
     {
       "symbol": "SO",
       "name": "Southern Company",
-      "price": 93.25,
-      "previous_close": 92.94,
-      "change_pct": 0.33,
-      "market_cap": 107271346579.5,
+      "price": 93.1,
+      "previous_close": 93.25,
+      "change_pct": -0.16,
+      "market_cap": 107098790379.28542,
       "headlines": [
         {
-          "title": "Worried About the Market? Hide Out in These 3 High-Yielding Dividend Stocks",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/worried-market-hide-3-high-141155880.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-04T14:11:55Z"
-        },
-        {
-          "title": "Earn 14% On SCCO Stock Now, For Capping Your Upside At 18%",
-          "url": "https://finance.yahoo.com/markets/options/articles/earn-14-scco-stock-now-132814035.html",
-          "publisher": "Trefis",
-          "published": "2026-08-04T13:28:14Z"
-        },
-        {
-          "title": "Southern Co. contracted large load rises to 17 GW",
-          "url": "https://finance.yahoo.com/energy/articles/southern-co-contracted-large-load-092014184.html",
-          "publisher": "Utility Dive",
-          "published": "2026-08-04T09:20:14Z"
-        }
-      ]
-    },
-    {
-      "symbol": "PWR",
-      "name": "Quanta Services",
-      "price": 693.0,
-      "previous_close": 680.2,
-      "change_pct": 1.88,
-      "market_cap": 104187971349.0,
-      "headlines": [
-        {
-          "title": "Growing AI Demand & Diversified End Markets Lift EMCOR's Q2 Earnings",
-          "url": "https://finance.yahoo.com/technology/ai/articles/growing-ai-demand-diversified-end-155400746.html",
+          "title": "Top Analyst Reports for Broadcom, Coca-Cola & Palantir",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/top-analyst-reports-broadcom-coca-201500234.html",
           "publisher": "Zacks",
-          "published": "2026-08-04T15:54:00Z"
+          "published": "2026-08-05T20:15:00Z"
         },
         {
-          "title": "Is EME Stock a Buy as Growth Strength Battles a Premium Valuation?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/eme-stock-buy-growth-strength-152900968.html",
+          "title": "Southern Q2 Earnings Beat on Customer Growth, Revenues Miss",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/southern-q2-earnings-beat-customer-121700056.html",
           "publisher": "Zacks",
-          "published": "2026-08-03T15:29:00Z"
+          "published": "2026-08-05T12:17:00Z"
         },
         {
-          "title": "EME Stock Fell 12.4% in 3 Months: Is the Pullback an Opportunity?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/eme-stock-fell-12-4-152600839.html",
+          "title": "Is Southern Company Stock Worth Buying Despite Its Premium Valuation?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/southern-company-stock-worth-buying-120800908.html",
           "publisher": "Zacks",
-          "published": "2026-08-03T15:26:00Z"
+          "published": "2026-08-05T12:08:00Z"
         }
       ]
     },
     {
       "symbol": "VRT",
       "name": "Vertiv",
-      "price": 269.93,
-      "previous_close": 263.05,
-      "change_pct": 2.62,
-      "market_cap": 103919854718.1524,
+      "price": 277.94,
+      "previous_close": 269.93,
+      "change_pct": 2.97,
+      "market_cap": 107003613743.53253,
       "headlines": [
         {
-          "title": "Caterpillar stock surges on data center boom: How the AI trade is expanding",
-          "url": "https://finance.yahoo.com/video/caterpillar-stock-surges-data-center-153318355.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-08-04T15:33:18Z"
-        },
-        {
-          "title": "Vertiv (VRT) Teams Up With Bitzero For Next Generation Data Center Buildout",
-          "url": "https://finance.yahoo.com/technology/articles/vertiv-vrt-teams-bitzero-next-131242619.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-08-04T13:12:42Z"
-        },
-        {
-          "title": "Zacks Value Trader Highlights:  Sandisk, Micron, Vertiv, Comfort Systems and Bloom Energy",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-value-trader-highlights-sandisk-130700932.html",
+          "title": "MOD vs. VRT: Which Stock Is the Better AI Data Center Play?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/mod-vs-vrt-stock-better-151500152.html",
           "publisher": "Zacks",
-          "published": "2026-08-04T13:07:00Z"
+          "published": "2026-08-05T15:15:00Z"
+        },
+        {
+          "title": "4 GARP Stocks That Investors Can Scoop Up for Maximum Returns",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/4-garp-stocks-investors-scoop-143800306.html",
+          "publisher": "Zacks",
+          "published": "2026-08-05T14:38:00Z"
+        },
+        {
+          "title": "The Zacks Analyst Blog Highlights Comfort Systems, The Goldman Sachs, Vertiv, Seagate and The Travelers",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-comfort-090900282.html",
+          "publisher": "Zacks",
+          "published": "2026-08-05T09:09:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "BP",
+      "name": "BP",
+      "price": 41.21,
+      "previous_close": 42.44,
+      "change_pct": -2.9,
+      "market_cap": 106129853330.68372,
+      "headlines": [
+        {
+          "title": "Sector Update: Energy Stocks Fall Late Afternoon",
+          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-fall-afternoon-200104295.html",
+          "publisher": "MT Newswires",
+          "published": "2026-08-05T20:01:04Z"
+        },
+        {
+          "title": "Sector Update: Energy Stocks Decline Wednesday Afternoon",
+          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-decline-wednesday-175431299.html",
+          "publisher": "MT Newswires",
+          "published": "2026-08-05T17:54:31Z"
+        },
+        {
+          "title": "EQNR Gains 22.2% Over the Past Month While Its Earnings Strengthen",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/eqnr-gains-22-2-over-145200416.html",
+          "publisher": "Zacks",
+          "published": "2026-08-05T14:52:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "PWR",
+      "name": "Quanta Services",
+      "price": 682.99,
+      "previous_close": 693.0,
+      "change_pct": -1.44,
+      "market_cap": 102683032516.8728,
+      "headlines": [
+        {
+          "title": "STRL Plunges 19.7% in a Month as Growth Meets Rising Execution Risks",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/strl-plunges-19-7-month-182800677.html",
+          "publisher": "Zacks",
+          "published": "2026-08-05T18:28:00Z"
+        },
+        {
+          "title": "Sterling Raises 2026 Outlook as Backlog Tops $5.6 Billion After Q2",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/sterling-raises-2026-outlook-backlog-182000938.html",
+          "publisher": "Zacks",
+          "published": "2026-08-05T18:20:00Z"
+        },
+        {
+          "title": "Quanta Services (PWR) Stock Looks Pricey On Cash Flow And Earnings After 6x Run",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/quanta-services-pwr-stock-looks-180944534.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-08-05T18:09:44Z"
         }
       ]
     },
     {
       "symbol": "DUK",
       "name": "Duke Energy",
-      "price": 124.27,
-      "previous_close": 124.28,
-      "change_pct": -0.01,
-      "market_cap": 96880419269.53726,
+      "price": 123.34,
+      "previous_close": 124.27,
+      "change_pct": -0.75,
+      "market_cap": 96168465629.26529,
       "headlines": [
         {
-          "title": "Duke Energy Corporation Q2 2026 Earnings Call Summary",
-          "url": "https://finance.yahoo.com/energy/articles/duke-energy-corporation-q2-2026-215050263.html",
-          "publisher": "Moby",
-          "published": "2026-08-04T21:50:50Z"
+          "title": "DUK Q2 Earnings Call Centers on Large-Load Capital Upside",
+          "url": "https://finance.yahoo.com/energy/articles/duk-q2-earnings-call-centers-140000580.html",
+          "publisher": "Zacks",
+          "published": "2026-08-05T14:00:00Z"
         },
         {
-          "title": "Duke Energy Corp (DUK) (Q2 2026) Earnings Call Highlights: Strong EPS Growth and Strategic ...",
-          "url": "https://finance.yahoo.com/energy/articles/duke-energy-corp-duk-q2-210716882.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-08-04T21:07:16Z"
+          "title": "Is Wall Street Bullish or Bearish on Duke Energy Stock?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-bullish-bearish-duke-130046579.html",
+          "publisher": "Barchart",
+          "published": "2026-08-05T13:00:46Z"
         },
         {
-          "title": "Sector Update: Energy Stocks Decline Late Afternoon",
-          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-decline-afternoon-195553066.html",
-          "publisher": "MT Newswires",
-          "published": "2026-08-04T19:55:53Z"
+          "title": "Is Southern Company Stock Worth Buying Despite Its Premium Valuation?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/southern-company-stock-worth-buying-120800908.html",
+          "publisher": "Zacks",
+          "published": "2026-08-05T12:08:00Z"
         }
       ]
     },
     {
       "symbol": "CEG",
       "name": "Constellation Energy",
-      "price": 267.25,
-      "previous_close": 273.71,
-      "change_pct": -2.36,
-      "market_cap": 95435514043.25,
+      "price": 265.12,
+      "previous_close": 267.25,
+      "change_pct": -0.8,
+      "market_cap": 94674885003.3778,
       "headlines": [
+        {
+          "title": "Sector Update: Energy Stocks Fall Late Afternoon",
+          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-fall-afternoon-200104295.html",
+          "publisher": "MT Newswires",
+          "published": "2026-08-05T20:01:04Z"
+        },
+        {
+          "title": "Should You Stay Invested in Constellation Energy Before Q2 Earnings?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stay-invested-constellation-energy-q2-164200235.html",
+          "publisher": "Zacks",
+          "published": "2026-08-05T16:42:00Z"
+        },
         {
           "title": "Latest News In Energy Transition - Advantage Renewables Boosts Michigan Grid With Battery Projects",
           "url": "https://finance.yahoo.com/energy/articles/latest-news-energy-transition-advantage-113939164.html",
           "publisher": "Simply Wall St.",
           "published": "2026-08-04T11:39:39Z"
-        },
-        {
-          "title": "Constellation Energy vs. Vistra: Which Utilities Stock Is a Better Buy in 2026?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/constellation-energy-vs-vistra-utilities-130101781.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-03T13:01:01Z"
-        },
-        {
-          "title": "This Is The Best-Performing Nuclear Stock Now Even As Peers Are Losing Value",
-          "url": "https://finance.yahoo.com/energy/articles/best-performing-nuclear-stock-now-043658455.html",
-          "publisher": "Stocktwits",
-          "published": "2026-08-03T04:36:58Z"
         }
       ]
     },
     {
       "symbol": "EQNR",
       "name": "Equinor",
-      "price": 39.17,
-      "previous_close": 39.91,
-      "change_pct": -1.85,
-      "market_cap": 93069342729.95735,
+      "price": 38.13,
+      "previous_close": 39.17,
+      "change_pct": -2.66,
+      "market_cap": 90573105927.46576,
       "headlines": [
+        {
+          "title": "EQNR Gains 22.2% Over the Past Month While Its Earnings Strengthen",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/eqnr-gains-22-2-over-145200416.html",
+          "publisher": "Zacks",
+          "published": "2026-08-05T14:52:00Z"
+        },
         {
           "title": "European Equities Traded in US as ADRs Advance in Tuesday Trading",
           "url": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-adrs-150615834.html",
@@ -415,218 +421,184 @@
           "url": "https://finance.yahoo.com/energy/articles/latest-news-energy-transition-advantage-113939164.html",
           "publisher": "Simply Wall St.",
           "published": "2026-08-04T11:39:39Z"
-        },
-        {
-          "title": "Energy & Utilities Roundup: Market Talk",
-          "url": "https://www.wsj.com/business/energy-oil/energy-utilities-roundup-market-talk-25004551?siteid=yhoof2&yptr=yahoo",
-          "publisher": "The Wall Street Journal",
-          "published": "2026-08-03T21:02:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "MPC",
-      "name": "Marathon Petroleum",
-      "price": 312.61,
-      "previous_close": 307.03,
-      "change_pct": 1.82,
-      "market_cap": 91262307190.93445,
-      "headlines": [
-        {
-          "title": "Marathon Petroleum Beats Second-Quarter Estimates as Refining Margins Surge",
-          "url": "https://finance.yahoo.com/energy/articles/marathon-petroleum-beats-second-quarter-141406367.html",
-          "publisher": "InvestorsHub",
-          "published": "2026-08-04T14:14:06Z"
-        },
-        {
-          "title": "Marathon Petroleum Q2 2026 earnings beat on refining margin surge",
-          "url": "https://finance.yahoo.com/energy/articles/marathon-petroleum-q2-2026-earnings-130918444.html",
-          "publisher": "Quartz",
-          "published": "2026-08-04T13:09:18Z"
-        },
-        {
-          "title": "How Valero's Q2 Refining & Renewable Diesel Surge Reshapes its 2026",
-          "url": "https://finance.yahoo.com/energy/articles/valeros-q2-refining-renewable-diesel-121500150.html",
-          "publisher": "Zacks",
-          "published": "2026-08-04T12:15:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "VLO",
-      "name": "Valero Energy",
-      "price": 308.73,
-      "previous_close": 307.54,
-      "change_pct": 0.39,
-      "market_cap": 88891848197.79556,
-      "headlines": [
-        {
-          "title": "Are You Looking for a Top Momentum Pick? Why Valero Energy (VLO) is a Great Choice",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/looking-top-momentum-pick-why-160003188.html",
-          "publisher": "Zacks",
-          "published": "2026-08-04T16:00:03Z"
-        },
-        {
-          "title": "If You Invested $1000 in Valero Energy 10 Years Ago, This Is How Much You'd Have Now",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/invested-1000-valero-energy-10-123002101.html",
-          "publisher": "Zacks",
-          "published": "2026-08-04T12:30:02Z"
-        },
-        {
-          "title": "How Valero's Q2 Refining & Renewable Diesel Surge Reshapes its 2026",
-          "url": "https://finance.yahoo.com/energy/articles/valeros-q2-refining-renewable-diesel-121500150.html",
-          "publisher": "Zacks",
-          "published": "2026-08-04T12:15:00Z"
         }
       ]
     },
     {
       "symbol": "WMB",
       "name": "Williams Companies",
-      "price": 71.51,
-      "previous_close": 70.43,
-      "change_pct": 1.53,
-      "market_cap": 87456608542.75616,
+      "price": 71.81,
+      "previous_close": 71.51,
+      "change_pct": 0.42,
+      "market_cap": 87835653178.07129,
       "headlines": [
+        {
+          "title": "Williams Companies Stock: Is Wall Street Bullish or Bearish?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/williams-companies-stock-wall-street-130510173.html",
+          "publisher": "Barchart",
+          "published": "2026-08-05T13:05:10Z"
+        },
+        {
+          "title": "Williams Companies (WMB) Is Buying Momentum Midstream For $5.5 Billion",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/williams-companies-wmb-buying-momentum-231553078.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-08-04T23:15:53Z"
+        },
         {
           "title": "Williams Companies Inc (WMB) (Q2 2026) Earnings Call Highlights: Raises Guidance and Boosts ...",
           "url": "https://finance.yahoo.com/markets/stocks/articles/williams-companies-inc-wmb-q2-210807774.html",
           "publisher": "GuruFocus.com",
           "published": "2026-08-04T21:08:07Z"
-        },
-        {
-          "title": "The Williams Companies (WMB) Q2 Earnings: How Key Metrics Compare to Wall Street Estimates",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/williams-companies-wmb-q2-earnings-220002762.html",
-          "publisher": "Zacks",
-          "published": "2026-08-03T22:00:02Z"
-        },
-        {
-          "title": "Williams Companies, Inc. (The) (WMB) Q2 Earnings and Revenues Lag Estimates",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/williams-companies-inc-wmb-q2-214506969.html",
-          "publisher": "Zacks",
-          "published": "2026-08-03T21:45:06Z"
         }
       ]
     },
     {
-      "symbol": "PSX",
-      "name": "Phillips 66",
-      "price": 205.89,
-      "previous_close": 206.19,
-      "change_pct": -0.15,
-      "market_cap": 82548511023.08868,
+      "symbol": "VLO",
+      "name": "Valero Energy",
+      "price": 302.39,
+      "previous_close": 308.73,
+      "change_pct": -2.05,
+      "market_cap": 87066389149.47742,
       "headlines": [
         {
-          "title": "How Valero's Q2 Refining & Renewable Diesel Surge Reshapes its 2026",
-          "url": "https://finance.yahoo.com/energy/articles/valeros-q2-refining-renewable-diesel-121500150.html",
+          "title": "All You Need to Know About Valero Energy (VLO) Rating Upgrade to Strong Buy",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/know-valero-energy-vlo-rating-160003618.html",
           "publisher": "Zacks",
-          "published": "2026-08-04T12:15:00Z"
+          "published": "2026-08-05T16:00:03Z"
         },
         {
-          "title": "Chevron Stock Is Priced For Growth A Single Quarter Hasn't Proven",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/chevron-stock-priced-growth-single-213722994.html",
-          "publisher": "Trefis",
-          "published": "2026-08-03T21:37:22Z"
+          "title": "PARR Q2 Earnings Beat Estimates on Refining Margin Strength",
+          "url": "https://finance.yahoo.com/energy/articles/parr-q2-earnings-beat-estimates-143500280.html",
+          "publisher": "Zacks",
+          "published": "2026-08-05T14:35:00Z"
         },
         {
-          "title": "Several Oil Stocks Tee Up For Earnings, As One Breaks Out Bullishly",
-          "url": "https://www.investors.com/news/oil-stocks-buy-points-break-out-hefty-earnings-week/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-08-03T20:06:25Z"
+          "title": "Oil Refiners Are Quietly Printing Money. This Company\u2019s Earnings Jumped 975%",
+          "url": "https://finance.yahoo.com/energy/articles/oil-refiners-quietly-printing-money-133011627.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-08-05T13:30:11Z"
+        }
+      ]
+    },
+    {
+      "symbol": "MPC",
+      "name": "Marathon Petroleum",
+      "price": 297.75,
+      "previous_close": 312.61,
+      "change_pct": -4.75,
+      "market_cap": 86924133071.25,
+      "headlines": [
+        {
+          "title": "MPC Q2 Earnings Call Highlights Refining Capture and Cash Returns",
+          "url": "https://finance.yahoo.com/energy/articles/mpc-q2-earnings-call-highlights-140000655.html",
+          "publisher": "Zacks",
+          "published": "2026-08-05T14:00:00Z"
+        },
+        {
+          "title": "Oil Refiners Are Quietly Printing Money. This Company\u2019s Earnings Jumped 975%",
+          "url": "https://finance.yahoo.com/energy/articles/oil-refiners-quietly-printing-money-133011627.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-08-05T13:30:11Z"
+        },
+        {
+          "title": "Marathon Petroleum (MPC) Q2 Earnings: How Key Metrics Compare to Wall Street Estimates",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/marathon-petroleum-mpc-q2-earnings-133005918.html",
+          "publisher": "Zacks",
+          "published": "2026-08-05T13:30:05Z"
         }
       ]
     },
     {
       "symbol": "EPD",
       "name": "Enterprise Products",
-      "price": 38.12,
-      "previous_close": 37.87,
-      "change_pct": 0.66,
-      "market_cap": 82473314179.63318,
+      "price": 37.72,
+      "previous_close": 38.12,
+      "change_pct": -1.05,
+      "market_cap": 81607911823.13351,
       "headlines": [
         {
-          "title": "Enterprise Products Partners (EPD) Stock Still Looks Like A Bargain",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/enterprise-products-partners-epd-stock-210840602.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-08-03T21:08:40Z"
-        },
-        {
-          "title": "EPD Q2 Earnings Beat Estimates on Record Volumes & Export Demand",
-          "url": "https://finance.yahoo.com/energy/articles/epd-q2-earnings-beat-estimates-130100302.html",
-          "publisher": "Zacks",
-          "published": "2026-08-03T13:01:00Z"
-        },
-        {
-          "title": "4 Dividend Energy Stocks to Buy This Month, Starting With ExxonMobil",
-          "url": "https://finance.yahoo.com/energy/articles/4-dividend-energy-stocks-buy-223500378.html",
+          "title": "3 Midstream Stocks Quietly Compounding Dividends Every Year",
+          "url": "https://finance.yahoo.com/energy/articles/3-midstream-stocks-quietly-compounding-162500688.html",
           "publisher": "Motley Fool",
-          "published": "2026-08-02T22:35:00Z"
+          "published": "2026-08-05T16:25:00Z"
+        },
+        {
+          "title": "Can EPD's Record Q2 Momentum Sustain Earnings Growth Through 2027?",
+          "url": "https://finance.yahoo.com/energy/articles/epds-record-q2-momentum-sustain-143800316.html",
+          "publisher": "Zacks",
+          "published": "2026-08-05T14:38:00Z"
+        },
+        {
+          "title": "Enterprise Products Just Raised Its Dividend. Here's What the New Yield Looks Like.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/enterprise-products-just-raised-dividend-072500398.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-05T07:25:00Z"
         }
       ]
     },
     {
-      "symbol": "EOG",
-      "name": "EOG Resources",
-      "price": 143.52,
-      "previous_close": 145.68,
-      "change_pct": -1.48,
-      "market_cap": 76442848901.23459,
+      "symbol": "PSX",
+      "name": "Phillips 66",
+      "price": 202.55,
+      "previous_close": 205.89,
+      "change_pct": -1.62,
+      "market_cap": 81209389524.55658,
       "headlines": [
         {
-          "title": "EOG Resources (EOG) Draws Interest On Earnings Growth Hopes, Is It Still Below Fair Value?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/eog-resources-eog-draws-interest-151146998.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-08-04T15:11:46Z"
+          "title": "PSX Q2 Earnings & Revenues Beat Estimates on Strong Refining Margins",
+          "url": "https://finance.yahoo.com/energy/articles/psx-q2-earnings-revenues-beat-153500519.html",
+          "publisher": "Zacks",
+          "published": "2026-08-05T15:35:00Z"
         },
         {
-          "title": "How Bullish 2026 Earnings Forecasts At EOG Resources (EOG) Has Changed Its Investment Story",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bullish-2026-earnings-forecasts-eog-111023638.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-08-04T11:10:23Z"
+          "title": "Phillips 66 (PSX) Q2 Earnings: Taking a Look at Key Metrics Versus Estimates",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/phillips-66-psx-q2-earnings-133010680.html",
+          "publisher": "Zacks",
+          "published": "2026-08-05T13:30:10Z"
         },
         {
-          "title": "OXY Stock: When A Bargain Price Is A Message",
-          "url": "https://finance.yahoo.com/energy/articles/oxy-stock-bargain-price-message-105523161.html",
-          "publisher": "Trefis",
-          "published": "2026-08-04T10:55:23Z"
+          "title": "Exchange-Traded Funds Higher, Equity Futures Mixed Pre-Bell Amid Corporate Earnings, Hormuz Reopening Hopes",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-higher-equity-131015495.html",
+          "publisher": "MT Newswires",
+          "published": "2026-08-05T13:10:15Z"
         }
       ]
     },
     {
       "symbol": "SU",
       "name": "Suncor Energy",
-      "price": 64.45,
-      "previous_close": 65.98,
-      "change_pct": -2.32,
-      "market_cap": 76099023827.70164,
+      "price": 62.82,
+      "previous_close": 64.45,
+      "change_pct": -2.53,
+      "market_cap": 74174412412.64517,
       "headlines": [
         {
-          "title": "Suncor Energy (SU) Q2 Earnings Preview: What You Should Know Beyond the Headline Estimates",
-          "url": "https://finance.yahoo.com/energy/articles/suncor-energy-su-q2-earnings-131506582.html",
-          "publisher": "Zacks",
-          "published": "2026-08-03T13:15:06Z"
+          "title": "Suncor Energy Inc (SU) (Q2 2026) Earnings Call Highlights: Record AFFO and Strategic Buyback ...",
+          "url": "https://finance.yahoo.com/energy/articles/suncor-energy-inc-su-q2-210841847.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-08-05T21:08:41Z"
         },
         {
-          "title": "Imperial Oil (IMO) Beats Q2 Earnings Estimates",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/imperial-oil-imo-beats-q2-130502715.html",
-          "publisher": "Zacks",
-          "published": "2026-07-31T13:05:02Z"
+          "title": "How Downstream Strength and Bigger Buybacks Will Impact Suncor Energy (TSX:SU) Investors",
+          "url": "https://finance.yahoo.com/energy/articles/downstream-strength-bigger-buybacks-impact-151410608.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-08-05T15:14:10Z"
         },
         {
-          "title": "Seeking Clues to Suncor Energy (SU) Q2 Earnings? A Peek Into Wall Street Projections for Key Metrics",
-          "url": "https://finance.yahoo.com/energy/articles/seeking-clues-suncor-energy-su-131509467.html",
-          "publisher": "Zacks",
-          "published": "2026-07-30T13:15:09Z"
+          "title": "Suncor CEO says \u2018a lot of work to do\u2019 on pipeline, carbon MOU",
+          "url": "https://finance.yahoo.com/news/suncor-energy-triples-profits-doubles-015736028.html",
+          "publisher": "Financial Post",
+          "published": "2026-08-05T01:57:36Z"
         }
       ]
     },
     {
       "symbol": "SLB",
       "name": "SLB (Schlumberger)",
-      "price": 50.81,
-      "previous_close": 49.31,
-      "change_pct": 3.04,
-      "market_cap": 75409319605.27057,
+      "price": 49.91,
+      "previous_close": 50.81,
+      "change_pct": -1.77,
+      "market_cap": 74073588432.74771,
       "headlines": [
         {
           "title": "How Baker Hughes' Chart Deal Could Reshape Its Growth and Risk Profile",
@@ -649,125 +621,131 @@
       ]
     },
     {
-      "symbol": "ET",
-      "name": "Energy Transfer",
-      "price": 20.33,
-      "previous_close": 20.28,
-      "change_pct": 0.25,
-      "market_cap": 69958767838.87038,
+      "symbol": "EOG",
+      "name": "EOG Resources",
+      "price": 134.23,
+      "previous_close": 143.52,
+      "change_pct": -6.47,
+      "market_cap": 71494725306.26541,
       "headlines": [
         {
-          "title": "Energy Transfer LP (ET) (Q2 2026) Earnings Call Highlights: Record Volumes and Raised Guidance ...",
-          "url": "https://finance.yahoo.com/energy/articles/energy-transfer-lp-et-q2-210104968.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-08-04T21:01:04Z"
+          "title": "EOG Q2 Earnings Beat Estimates on Higher Volumes & Prices",
+          "url": "https://finance.yahoo.com/energy/articles/eog-q2-earnings-beat-estimates-150200833.html",
+          "publisher": "Zacks",
+          "published": "2026-08-05T15:02:00Z"
         },
         {
-          "title": "Sector Update: Energy Stocks Decline Late Afternoon",
-          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-decline-afternoon-195553066.html",
-          "publisher": "MT Newswires",
-          "published": "2026-08-04T19:55:53Z"
+          "title": "EOG Resources Doubles Q2 Profit as Oil Prices and Production Rise",
+          "url": "https://finance.yahoo.com/energy/articles/eog-resources-doubles-q2-profit-044500406.html",
+          "publisher": "Oilprice.com",
+          "published": "2026-08-05T04:45:00Z"
         },
         {
-          "title": "Sector Update: Energy Stocks Lower in Afternoon Trading",
-          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-lower-afternoon-174953695.html",
-          "publisher": "MT Newswires",
-          "published": "2026-08-04T17:49:53Z"
+          "title": "EOG Resources (EOG) Beats Q2 Earnings and Revenue Estimates",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/eog-resources-eog-beats-q2-214006699.html",
+          "publisher": "Zacks",
+          "published": "2026-08-04T21:40:06Z"
+        }
+      ]
+    },
+    {
+      "symbol": "ET",
+      "name": "Energy Transfer",
+      "price": 20.34,
+      "previous_close": 20.33,
+      "change_pct": 0.05,
+      "market_cap": 69993180219.25923,
+      "headlines": [
+        {
+          "title": "Can EPD's Record Q2 Momentum Sustain Earnings Growth Through 2027?",
+          "url": "https://finance.yahoo.com/energy/articles/epds-record-q2-momentum-sustain-143800316.html",
+          "publisher": "Zacks",
+          "published": "2026-08-05T14:38:00Z"
+        },
+        {
+          "title": "ET Q2 Earnings Call Centers on Higher Outlook and Gas Growth",
+          "url": "https://finance.yahoo.com/energy/articles/et-q2-earnings-call-centers-140000658.html",
+          "publisher": "Zacks",
+          "published": "2026-08-05T14:00:00Z"
+        },
+        {
+          "title": "4 High-Yield Energy Stocks With 6% and Higher Dividends Are Strong Buys Before September",
+          "url": "https://finance.yahoo.com/energy/articles/4-high-yield-energy-stocks-121303120.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-08-05T12:13:03Z"
         }
       ]
     },
     {
       "symbol": "KMI",
       "name": "Kinder Morgan",
-      "price": 31.38,
-      "previous_close": 31.4,
-      "change_pct": -0.06,
-      "market_cap": 69877047684.01332,
+      "price": 31.12,
+      "previous_close": 31.38,
+      "change_pct": -0.83,
+      "market_cap": 69298082878.48668,
       "headlines": [
+        {
+          "title": "Pembina Pipeline Q2 Earnings Miss Estimates, Revenues Increase Y/Y",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/pembina-pipeline-q2-earnings-miss-171000023.html",
+          "publisher": "Zacks",
+          "published": "2026-08-05T17:10:00Z"
+        },
+        {
+          "title": "PARR Q2 Earnings Beat Estimates on Refining Margin Strength",
+          "url": "https://finance.yahoo.com/energy/articles/parr-q2-earnings-beat-estimates-143500280.html",
+          "publisher": "Zacks",
+          "published": "2026-08-05T14:35:00Z"
+        },
         {
           "title": "TechnipFMC Q2 Earnings & Revenues Beat Estimates, Rise Y/Y",
           "url": "https://finance.yahoo.com/markets/stocks/articles/technipfmc-q2-earnings-revenues-beat-170200874.html",
           "publisher": "Zacks",
           "published": "2026-08-04T17:02:00Z"
-        },
-        {
-          "title": "ProPetro Q2 Loss Wider Than Expected, Revenues Beat Estimates",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/propetro-q2-loss-wider-expected-133100629.html",
-          "publisher": "Zacks",
-          "published": "2026-08-04T13:31:00Z"
-        },
-        {
-          "title": "Patterson-UTI Energy Q2 Earnings & Revenues Beat Estimates",
-          "url": "https://finance.yahoo.com/energy/articles/patterson-uti-energy-q2-earnings-143200679.html",
-          "publisher": "Zacks",
-          "published": "2026-08-03T14:32:00Z"
         }
       ]
     },
     {
       "symbol": "BE",
       "name": "Bloom Energy",
-      "price": 228.11,
-      "previous_close": 218.32,
-      "change_pct": 4.48,
-      "market_cap": 67184633075.825226,
+      "price": 234.33,
+      "previous_close": 228.11,
+      "change_pct": 2.73,
+      "market_cap": 69016593527.47568,
       "headlines": [
         {
-          "title": "3 Huge Winners of the Q2 Earnings Season: BE, MSFT, EME",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-huge-winners-q2-earnings-151500450.html",
-          "publisher": "Zacks",
-          "published": "2026-08-04T15:15:00Z"
+          "title": "Bloom Energy's AI Data Center Backlog Just Grew Again -- Here's What It's Worth",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energys-ai-data-center-153500240.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-05T15:35:00Z"
         },
         {
-          "title": "Zacks Investment Ideas feature highlights: Bloom Energy, SanDisk, Hive Digital, CleanSpark and IREN",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-132200249.html",
-          "publisher": "Zacks",
-          "published": "2026-08-04T13:22:00Z"
+          "title": "Bloom Energy, CoreWeave, and Nebius Got Caught in a Wall Street Short Battle. They\u2019re All Rallying Again.",
+          "url": "https://finance.yahoo.com/video/bloom-energy-coreweave-nebius-got-142137356.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-08-05T14:21:37Z"
         },
         {
-          "title": "Zacks Value Trader Highlights:  Sandisk, Micron, Vertiv, Comfort Systems and Bloom Energy",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-value-trader-highlights-sandisk-130700932.html",
-          "publisher": "Zacks",
-          "published": "2026-08-04T13:07:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "MPLX",
-      "name": "MPLX",
-      "price": 60.51,
-      "previous_close": 58.91,
-      "change_pct": 2.72,
-      "market_cap": 61401535633.49315,
-      "headlines": [
-        {
-          "title": "MPLX LP (MPLX) (Q2 2026) Earnings Call Highlights: Record Volumes and Strategic Expansion Drive ...",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/mplx-lp-mplx-q2-2026-210814763.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-08-04T21:08:14Z"
-        },
-        {
-          "title": "MPLX LP (MPLX) Q2 Earnings Preview: What You Should Know Beyond the Headline Estimates",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/mplx-lp-mplx-q2-earnings-131507695.html",
-          "publisher": "Zacks",
-          "published": "2026-07-30T13:15:07Z"
-        },
-        {
-          "title": "Will MPLX\u2019s (MPLX) Affirmed Q2 2026 Payout Clarify Its Cash Flow and Capital Return Story?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/mplx-mplx-affirmed-q2-2026-220922868.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-07-29T22:09:22Z"
+          "title": "Bloom Energy's Pullback Is the Entry Point Long-Term Investors Wanted",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energys-pullback-entry-point-135000572.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-05T13:50:00Z"
         }
       ]
     },
     {
       "symbol": "BKR",
       "name": "Baker Hughes",
-      "price": 61.73,
-      "previous_close": 60.81,
-      "change_pct": 1.51,
-      "market_cap": 61277769948.419876,
+      "price": 61.67,
+      "previous_close": 61.73,
+      "change_pct": -0.1,
+      "market_cap": 61218208140.92949,
       "headlines": [
+        {
+          "title": "5 Dividend Stocks Paying Out This Month \u2013 But There\u2019s a Catch",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/5-dividend-stocks-paying-month-151455738.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-08-05T15:14:55Z"
+        },
         {
           "title": "How Baker Hughes' Chart Deal Could Reshape Its Growth and Risk Profile",
           "url": "https://finance.yahoo.com/energy/articles/baker-hughes-chart-deal-could-173900015.html",
@@ -779,50 +757,72 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-baker-170922094.html",
           "publisher": "StockStory",
           "published": "2026-08-03T17:09:22Z"
+        }
+      ]
+    },
+    {
+      "symbol": "MPLX",
+      "name": "MPLX",
+      "price": 59.29,
+      "previous_close": 60.51,
+      "change_pct": -2.02,
+      "market_cap": 60163563128.52647,
+      "headlines": [
+        {
+          "title": "3 Midstream Stocks Quietly Compounding Dividends Every Year",
+          "url": "https://finance.yahoo.com/energy/articles/3-midstream-stocks-quietly-compounding-162500688.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-05T16:25:00Z"
         },
         {
-          "title": "Basin rig count up two as prices decrease",
-          "url": "https://finance.yahoo.com/energy/articles/basin-rig-count-two-prices-000100709.html",
-          "publisher": "Odessa American, Texas",
-          "published": "2026-08-01T00:01:00Z"
+          "title": "MPLX Q2 Earnings & Revenues Beat Estimates on Gas & NGL Volume Growth",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/mplx-q2-earnings-revenues-beat-122700704.html",
+          "publisher": "Zacks",
+          "published": "2026-08-05T12:27:00Z"
+        },
+        {
+          "title": "4 High-Yield Energy Stocks With 6% and Higher Dividends Are Strong Buys Before September",
+          "url": "https://finance.yahoo.com/energy/articles/4-high-yield-energy-stocks-121303120.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-08-05T12:13:03Z"
         }
       ]
     },
     {
       "symbol": "D",
       "name": "Dominion Energy",
-      "price": 69.22,
-      "previous_close": 68.75,
-      "change_pct": 0.68,
-      "market_cap": 60880787263.420074,
+      "price": 68.27,
+      "previous_close": 69.22,
+      "change_pct": -1.37,
+      "market_cap": 60045233585.719795,
       "headlines": [
+        {
+          "title": "NiSource Q2 Earnings Top Estimates on NIPSCO Gains, Data Center Demand",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nisource-q2-earnings-top-estimates-160600485.html",
+          "publisher": "Zacks",
+          "published": "2026-08-05T16:06:00Z"
+        },
+        {
+          "title": "Is Southern Company Stock Worth Buying Despite Its Premium Valuation?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/southern-company-stock-worth-buying-120800908.html",
+          "publisher": "Zacks",
+          "published": "2026-08-05T12:08:00Z"
+        },
         {
           "title": "AI Power Demands Spur Builders to Seek Billions in Bank Pledges",
           "url": "https://finance.yahoo.com/technology/ai/articles/ai-power-demands-spur-builders-093000020.html",
           "publisher": "Bloomberg",
           "published": "2026-08-04T09:30:00Z"
-        },
-        {
-          "title": "This Top Nuclear Energy Dividend Stock Could Turn $1,000 Into a Lifetime Income Stream",
-          "url": "https://finance.yahoo.com/energy/articles/top-nuclear-energy-dividend-stock-193500048.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-01T19:35:00Z"
-        },
-        {
-          "title": "Dominion Energy Inc (D) (Q2 2026) Earnings Call Highlights: Strong Demand and Strategic ...",
-          "url": "https://finance.yahoo.com/energy/articles/dominion-energy-inc-d-q2-230049058.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-07-31T23:00:49Z"
         }
       ]
     },
     {
       "symbol": "TRGP",
       "name": "Targa Resources",
-      "price": 262.98,
-      "previous_close": 264.6,
-      "change_pct": -0.61,
-      "market_cap": 56447055969.08835,
+      "price": 260.11,
+      "previous_close": 262.98,
+      "change_pct": -1.09,
+      "market_cap": 55831022465.1322,
       "headlines": [
         {
           "title": "ONEOK Q2 Earnings & Sales Surpass Estimates on Record NGL Volumes",
@@ -847,39 +847,45 @@
     {
       "symbol": "OKE",
       "name": "ONEOK",
-      "price": 87.65,
-      "previous_close": 88.24,
-      "change_pct": -0.67,
-      "market_cap": 55222380439.15384,
+      "price": 87.24,
+      "previous_close": 87.65,
+      "change_pct": -0.47,
+      "market_cap": 54964064662.584625,
       "headlines": [
         {
-          "title": "ONEOK Q2 Earnings & Sales Surpass Estimates on Record NGL Volumes",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/oneok-q2-earnings-sales-surpass-154900236.html",
+          "title": "Can EPD's Record Q2 Momentum Sustain Earnings Growth Through 2027?",
+          "url": "https://finance.yahoo.com/energy/articles/epds-record-q2-momentum-sustain-143800316.html",
           "publisher": "Zacks",
-          "published": "2026-08-04T15:49:00Z"
+          "published": "2026-08-05T14:38:00Z"
         },
         {
-          "title": "Compared to Estimates, Oneok (OKE) Q2 Earnings: A Look at Key Metrics",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/compared-estimates-oneok-oke-q2-220002230.html",
+          "title": "OKE Q2 Earnings Call Highlights Higher Guidance and Project Growth",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/oke-q2-earnings-call-highlights-140000668.html",
           "publisher": "Zacks",
-          "published": "2026-08-03T22:00:02Z"
+          "published": "2026-08-05T14:00:00Z"
         },
         {
-          "title": "Oneok Inc. (OKE) Q2 Earnings and Revenues Beat Estimates",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/oneok-inc-oke-q2-earnings-214504450.html",
+          "title": "Oneok (OKE) Reports Q2 Earnings: What Key Metrics Have to Say",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/oneok-oke-reports-q2-earnings-133008308.html",
           "publisher": "Zacks",
-          "published": "2026-08-03T21:45:04Z"
+          "published": "2026-08-05T13:30:08Z"
         }
       ]
     },
     {
       "symbol": "OXY",
       "name": "Occidental Petroleum",
-      "price": 55.09,
-      "previous_close": 55.47,
-      "change_pct": -0.69,
-      "market_cap": 54794425829.85921,
+      "price": 53.81,
+      "previous_close": 55.09,
+      "change_pct": -2.32,
+      "market_cap": 53521294626.732895,
       "headlines": [
+        {
+          "title": "Occidental Petroleum Set to Report Q2 Earnings: How to Play the Stock?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/occidental-petroleum-set-report-q2-124100364.html",
+          "publisher": "Zacks",
+          "published": "2026-08-05T12:41:00Z"
+        },
         {
           "title": "Countdown to Occidental (OXY) Q2 Earnings: Wall Street Forecasts for Key Metrics",
           "url": "https://finance.yahoo.com/markets/stocks/articles/countdown-occidental-oxy-q2-earnings-131504556.html",
@@ -891,51 +897,23 @@
           "url": "https://finance.yahoo.com/energy/articles/oxy-stock-bargain-price-message-105523161.html",
           "publisher": "Trefis",
           "published": "2026-08-04T10:55:23Z"
-        },
-        {
-          "title": "ConocoPhillips Gears Up to Report Q2 Earnings: What's in the Cards?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/conocophillips-gears-report-q2-earnings-181900347.html",
-          "publisher": "Zacks",
-          "published": "2026-08-03T18:19:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "FANG",
-      "name": "Diamondback Energy",
-      "price": 191.87,
-      "previous_close": 198.75,
-      "change_pct": -3.46,
-      "market_cap": 53975580921.78992,
-      "headlines": [
-        {
-          "title": "Diamondback Energy Inc (FANG) (Q2 2026) Earnings Call Highlights: Strategic Growth and ...",
-          "url": "https://finance.yahoo.com/energy/articles/diamondback-energy-inc-fang-q2-210104435.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-08-04T21:01:04Z"
-        },
-        {
-          "title": "Viper Energy Q2 Earnings Call Highlights",
-          "url": "https://finance.yahoo.com/energy/articles/viper-energy-q2-earnings-call-190421417.html",
-          "publisher": "MarketBeat",
-          "published": "2026-08-04T19:04:21Z"
-        },
-        {
-          "title": "Is Diamondback Energy (FANG) Fairly Valued After Its Production Milestone?",
-          "url": "https://finance.yahoo.com/energy/articles/diamondback-energy-fang-fairly-valued-180914668.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-08-04T18:09:14Z"
         }
       ]
     },
     {
       "symbol": "LNG",
       "name": "Cheniere Energy",
-      "price": 257.29,
-      "previous_close": 258.08,
-      "change_pct": -0.31,
-      "market_cap": 53915601908.32434,
+      "price": 254.76,
+      "previous_close": 257.29,
+      "change_pct": -0.98,
+      "market_cap": 53385432740.57721,
       "headlines": [
+        {
+          "title": "Sempra to Report Q2 Results: What's in Store for the Stock?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/sempra-report-q2-results-whats-150300658.html",
+          "publisher": "Zacks",
+          "published": "2026-08-05T15:03:00Z"
+        },
         {
           "title": "Venture Global (VG) Reports Next Week: Wall Street Expects Earnings Growth",
           "url": "https://finance.yahoo.com/markets/stocks/articles/venture-global-vg-reports-next-140002084.html",
@@ -947,50 +925,44 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/cheniere-energy-lng-q2-earnings-131507790.html",
           "publisher": "Zacks",
           "published": "2026-08-04T13:15:07Z"
-        },
-        {
-          "title": "Several Oil Stocks Tee Up For Earnings, As One Breaks Out Bullishly",
-          "url": "https://www.investors.com/news/oil-stocks-buy-points-break-out-hefty-earnings-week/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-08-03T20:06:25Z"
         }
       ]
     },
     {
-      "symbol": "DVN",
-      "name": "Devon Energy",
-      "price": 44.05,
-      "previous_close": 44.57,
-      "change_pct": -1.17,
-      "market_cap": 50807405983.37326,
+      "symbol": "FANG",
+      "name": "Diamondback Energy",
+      "price": 186.17,
+      "previous_close": 191.87,
+      "change_pct": -2.97,
+      "market_cap": 52372095987.38997,
       "headlines": [
         {
-          "title": "Devon Energy (NYSE:DVN) Reports Strong Q2 CY2026",
-          "url": "https://finance.yahoo.com/energy/articles/devon-energy-nyse-dvn-reports-211734587.html",
-          "publisher": "StockStory",
-          "published": "2026-08-04T21:17:34Z"
-        },
-        {
-          "title": "Several Oil Stocks Tee Up For Earnings, As One Breaks Out Bullishly",
-          "url": "https://www.investors.com/news/oil-stocks-buy-points-break-out-hefty-earnings-week/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-08-03T20:06:25Z"
-        },
-        {
-          "title": "SolarEdge Technologies to Report Q2 Earnings: Here's What to Expect",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/solaredge-technologies-report-q2-earnings-154300343.html",
+          "title": "Diamondback Q2 Earnings Call Focuses on Growth and Debt Reduction",
+          "url": "https://finance.yahoo.com/energy/articles/diamondback-q2-earnings-call-focuses-140000129.html",
           "publisher": "Zacks",
-          "published": "2026-08-03T15:43:00Z"
+          "published": "2026-08-05T14:00:00Z"
+        },
+        {
+          "title": "Diamondback Energy Inc (FANG) (Q2 2026) Earnings Call Highlights: Strategic Growth and ...",
+          "url": "https://finance.yahoo.com/energy/articles/diamondback-energy-inc-fang-q2-210104435.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-08-04T21:01:04Z"
+        },
+        {
+          "title": "Viper Energy Q2 Earnings Call Highlights",
+          "url": "https://finance.yahoo.com/energy/articles/viper-energy-q2-earnings-call-190421417.html",
+          "publisher": "MarketBeat",
+          "published": "2026-08-04T19:04:21Z"
         }
       ]
     },
     {
       "symbol": "ETR",
       "name": "Entergy",
-      "price": 108.86,
-      "previous_close": 108.06,
-      "change_pct": 0.74,
-      "market_cap": 50797505157.089264,
+      "price": 106.86,
+      "previous_close": 108.86,
+      "change_pct": -1.84,
+      "market_cap": 49864242161.089264,
       "headlines": [
         {
           "title": "Top Research Reports for Amazon, Marvell & Starbucks",
@@ -1013,40 +985,68 @@
       ]
     },
     {
+      "symbol": "DVN",
+      "name": "Devon Energy",
+      "price": 42.09,
+      "previous_close": 44.05,
+      "change_pct": -4.45,
+      "market_cap": 48546736949.62535,
+      "headlines": [
+        {
+          "title": "Devon Q2 Earnings Surpass Estimates on Strong Oil Output and Pricing",
+          "url": "https://finance.yahoo.com/energy/articles/devon-q2-earnings-surpass-estimates-165900303.html",
+          "publisher": "Zacks",
+          "published": "2026-08-05T16:59:00Z"
+        },
+        {
+          "title": "What Devon Energy (DVN)'s Revenue Surge and Buybacks Mean For Shareholders",
+          "url": "https://finance.yahoo.com/energy/articles/devon-energy-dvn-revenue-surge-051244968.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-08-05T05:12:44Z"
+        },
+        {
+          "title": "Devon Posts $1.9 Billion Q2 Profit After Coterra Merger",
+          "url": "https://finance.yahoo.com/energy/articles/devon-posts-1-9-billion-020800281.html",
+          "publisher": "Oilprice.com",
+          "published": "2026-08-05T02:08:00Z"
+        }
+      ]
+    },
+    {
       "symbol": "VST",
       "name": "Vistra",
-      "price": 143.23,
-      "previous_close": 155.94,
-      "change_pct": -8.15,
-      "market_cap": 48294643451.04108,
+      "price": 140.58,
+      "previous_close": 143.23,
+      "change_pct": -1.85,
+      "market_cap": 47401111968.83954,
       "headlines": [
+        {
+          "title": "Nuclear Energy Stocks Rise on Surging Demand for Reliable Clean Power",
+          "url": "https://finance.yahoo.com/energy/articles/nuclear-energy-stocks-rise-surging-172600278.html",
+          "publisher": "Zacks",
+          "published": "2026-08-05T17:26:00Z"
+        },
+        {
+          "title": "Jobs Report, Berkshire Earnings: What to Watch the Rest of the Week",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-05-2026/card/jobs-report-berkshire-earnings-what-to-watch-the-rest-of-the-week-QUahvmShwtialYKVbvIR?siteid=yhoof2&yptr=yahoo",
+          "publisher": "The Wall Street Journal",
+          "published": "2026-08-05T07:18:36Z"
+        },
         {
           "title": "Pinnacle West Q2 Earnings Miss Estimates, Revenues Increase Y/Y",
           "url": "https://finance.yahoo.com/markets/stocks/articles/pinnacle-west-q2-earnings-miss-185400724.html",
           "publisher": "Zacks",
           "published": "2026-08-04T18:54:00Z"
-        },
-        {
-          "title": "\u26a1 Flash Heard: Texas Data Center U-Turn Hits Power Stocks",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-spacex-earnings-08-04-2026/card/-flash-heard-texas-data-center-u-turn-hits-power-stocks-JUqceJdveta4bHKQY0Xv?siteid=yhoof2&yptr=yahoo",
-          "publisher": "The Wall Street Journal",
-          "published": "2026-08-04T16:26:13Z"
-        },
-        {
-          "title": "PSEG (PEG) Tops Q2 Earnings Estimates",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/pseg-peg-tops-q2-earnings-125005513.html",
-          "publisher": "Zacks",
-          "published": "2026-08-04T12:50:05Z"
         }
       ]
     },
     {
       "symbol": "CCJ",
       "name": "Cameco",
-      "price": 93.09,
-      "previous_close": 89.72,
-      "change_pct": 3.76,
-      "market_cap": 40543763420.140594,
+      "price": 94.27,
+      "previous_close": 93.09,
+      "change_pct": 1.27,
+      "market_cap": 41057692468.27471,
       "headlines": [
         {
           "title": "Energy Fuels Set to Report Q2 Earnings: How to Play the Stock?",
@@ -1071,38 +1071,38 @@
     {
       "symbol": "PEG",
       "name": "Public Service Enterprise",
-      "price": 76.27,
-      "previous_close": 76.62,
-      "change_pct": -0.46,
-      "market_cap": 38006971657.708145,
+      "price": 75.54,
+      "previous_close": 76.27,
+      "change_pct": -0.96,
+      "market_cap": 37643199163.30687,
       "headlines": [
         {
-          "title": "PEG Q2 Earnings Outpace Expectations, Revenues Decrease Y/Y",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/peg-q2-earnings-outpace-expectations-152600102.html",
-          "publisher": "Zacks",
-          "published": "2026-08-04T15:26:00Z"
+          "title": "Public Service Enterprise Group (PEG) Could Be 15% Undervalued Following ESOP Share Filing",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/public-enterprise-group-peg-could-201247093.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-08-05T20:12:47Z"
         },
         {
-          "title": "PSEG (PEG) Reports Q2 Earnings: What Key Metrics Have to Say",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/pseg-peg-reports-q2-earnings-133005880.html",
-          "publisher": "Zacks",
-          "published": "2026-08-04T13:30:05Z"
+          "title": "Public Service Enterprise Group Q2 Earnings Call Highlights",
+          "url": "https://finance.yahoo.com/energy/articles/public-enterprise-group-q2-earnings-120407829.html",
+          "publisher": "MarketBeat",
+          "published": "2026-08-05T12:04:07Z"
         },
         {
-          "title": "PSEG (PEG) Tops Q2 Earnings Estimates",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/pseg-peg-tops-q2-earnings-125005513.html",
-          "publisher": "Zacks",
-          "published": "2026-08-04T12:50:05Z"
+          "title": "PSEG offers data center supply proposals in PJM\u2019s bilateral contracting process",
+          "url": "https://finance.yahoo.com/energy/articles/pseg-offers-data-center-supply-083851012.html",
+          "publisher": "Utility Dive",
+          "published": "2026-08-05T08:38:51Z"
         }
       ]
     },
     {
       "symbol": "EQT",
       "name": "EQT Corp",
-      "price": 52.77,
-      "previous_close": 53.56,
-      "change_pct": -1.47,
-      "market_cap": 33008479606.3385,
+      "price": 51.23,
+      "previous_close": 52.77,
+      "change_pct": -2.92,
+      "market_cap": 32045184393.6615,
       "headlines": [
         {
           "title": "Expand Energy Targets the LNG, Power and Industrial Demand Expansion",
@@ -1127,11 +1127,17 @@
     {
       "symbol": "FTI",
       "name": "TechnipFMC",
-      "price": 70.02,
-      "previous_close": 69.19,
-      "change_pct": 1.2,
-      "market_cap": 27459349131.29019,
+      "price": 69.27,
+      "previous_close": 70.02,
+      "change_pct": -1.07,
+      "market_cap": 27165225840.29019,
       "headlines": [
+        {
+          "title": "TechnipFMC (FTI) Stock Could Be 37% Undervalued As Cash Flow Holds Up",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/technipfmc-fti-stock-could-37-011034887.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-08-05T01:10:34Z"
+        },
         {
           "title": "The Bull Case For TechnipFMC (FTI) Could Change Following Strong Q2 Results And Completed Buyback Program",
           "url": "https://finance.yahoo.com/markets/stocks/articles/bull-case-technipfmc-fti-could-190835709.html",
@@ -1143,51 +1149,23 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/technipfmcs-q2-subsea-momentum-power-170900571.html",
           "publisher": "Zacks",
           "published": "2026-08-04T17:09:00Z"
-        },
-        {
-          "title": "TechnipFMC Q2 Earnings & Revenues Beat Estimates, Rise Y/Y",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/technipfmc-q2-earnings-revenues-beat-170200874.html",
-          "publisher": "Zacks",
-          "published": "2026-08-04T17:02:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "HAL",
-      "name": "Halliburton",
-      "price": 32.36,
-      "previous_close": 31.89,
-      "change_pct": 1.47,
-      "market_cap": 27033471214.486313,
-      "headlines": [
-        {
-          "title": "TechnipFMC Q2 Earnings & Revenues Beat Estimates, Rise Y/Y",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/technipfmc-q2-earnings-revenues-beat-170200874.html",
-          "publisher": "Zacks",
-          "published": "2026-08-04T17:02:00Z"
-        },
-        {
-          "title": "ProPetro Q2 Loss Wider Than Expected, Revenues Beat Estimates",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/propetro-q2-loss-wider-expected-133100629.html",
-          "publisher": "Zacks",
-          "published": "2026-08-04T13:31:00Z"
-        },
-        {
-          "title": "Is PUMP Stock Worth Buying Now as PROPWR Growth Tests Its Valuation?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/pump-stock-worth-buying-now-132900009.html",
-          "publisher": "Zacks",
-          "published": "2026-08-04T13:29:00Z"
         }
       ]
     },
     {
       "symbol": "HUBB",
       "name": "Hubbell",
-      "price": 502.24,
-      "previous_close": 476.04,
-      "change_pct": 5.5,
-      "market_cap": 26534629943.096924,
+      "price": 513.58,
+      "previous_close": 502.24,
+      "change_pct": 2.26,
+      "market_cap": 27133752717.080383,
       "headlines": [
+        {
+          "title": "5 Stocks to Grab as Manufacturing Activity Hits Four-Year High",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/5-stocks-grab-manufacturing-activity-130100616.html",
+          "publisher": "Zacks",
+          "published": "2026-08-05T13:01:00Z"
+        },
         {
           "title": "Atkore Stock Surged Because Prysmian Agreed To Buy It For Cash",
           "url": "https://finance.yahoo.com/markets/stocks/articles/atkore-stock-surged-because-prysmian-164715728.html",
@@ -1199,79 +1177,107 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/hubbell-inc-hubb-q2-2026-010053485.html",
           "publisher": "GuruFocus.com",
           "published": "2026-08-01T01:00:53Z"
-        },
-        {
-          "title": "Hubbell (HUBB) Could Be 12% Undervalued On Raised 2026 Guidance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/hubbell-hubb-could-12-undervalued-181214125.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-07-29T18:12:14Z"
         }
       ]
     },
     {
-      "symbol": "FSLR",
-      "name": "First Solar",
-      "price": 243.63,
-      "previous_close": 232.73,
-      "change_pct": 4.68,
-      "market_cap": 26182864975.194824,
+      "symbol": "HAL",
+      "name": "Halliburton",
+      "price": 31.82,
+      "previous_close": 32.36,
+      "change_pct": -1.67,
+      "market_cap": 26582355672.756844,
       "headlines": [
         {
-          "title": "SolarEdge Surges 8%, Enphase Climbs 5%, First Solar Rises 4% on Pro-Solar Policy Hopes",
-          "url": "https://finance.yahoo.com/energy/articles/solaredge-surges-8-enphase-climbs-182016521.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-08-04T18:20:16Z"
+          "title": "Pembina Pipeline Q2 Earnings Miss Estimates, Revenues Increase Y/Y",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/pembina-pipeline-q2-earnings-miss-171000023.html",
+          "publisher": "Zacks",
+          "published": "2026-08-05T17:10:00Z"
         },
         {
-          "title": "Why First Solar (FSLR) Stock Is Up Today",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-first-solar-fslr-stock-181322362.html",
-          "publisher": "StockStory",
-          "published": "2026-08-04T18:13:22Z"
+          "title": "TechnipFMC Q2 Earnings & Revenues Beat Estimates, Rise Y/Y",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/technipfmc-q2-earnings-revenues-beat-170200874.html",
+          "publisher": "Zacks",
+          "published": "2026-08-04T17:02:00Z"
         },
         {
-          "title": "FSLR Tops S&P500 To Its Best Day In Two Months, But Trump's Section 232 Ruling Will Decide Its Future",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/fslr-tops-p500-best-day-235932286.html",
-          "publisher": "Stocktwits",
-          "published": "2026-08-03T23:59:32Z"
+          "title": "ProPetro Q2 Loss Wider Than Expected, Revenues Beat Estimates",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/propetro-q2-loss-wider-expected-133100629.html",
+          "publisher": "Zacks",
+          "published": "2026-08-04T13:31:00Z"
         }
       ]
     },
     {
       "symbol": "NRG",
       "name": "NRG Energy",
-      "price": 117.04,
-      "previous_close": 138.47,
-      "change_pct": -15.48,
-      "market_cap": 24693856641.963882,
+      "price": 120.73,
+      "previous_close": 117.04,
+      "change_pct": 3.15,
+      "market_cap": 25472397231.36757,
       "headlines": [
         {
-          "title": "NRG Energy Inc (NRG) (Q2 2026) Earnings Call Highlights: Landmark 1. ...",
-          "url": "https://finance.yahoo.com/energy/articles/nrg-energy-inc-nrg-q2-210129917.html",
+          "title": "Top Analyst Reports for Broadcom, Coca-Cola & Palantir",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/top-analyst-reports-broadcom-coca-201500234.html",
+          "publisher": "Zacks",
+          "published": "2026-08-05T20:15:00Z"
+        },
+        {
+          "title": "NRG Energy Stock Outlook: Is Wall Street Bullish or Bearish?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nrg-energy-stock-outlook-wall-122544683.html",
+          "publisher": "Barchart",
+          "published": "2026-08-05T12:25:44Z"
+        },
+        {
+          "title": "NRG Energy Q2 Earnings Call Highlights",
+          "url": "https://finance.yahoo.com/energy/articles/nrg-energy-q2-earnings-call-110405270.html",
+          "publisher": "MarketBeat",
+          "published": "2026-08-05T11:04:05Z"
+        }
+      ]
+    },
+    {
+      "symbol": "FSLR",
+      "name": "First Solar",
+      "price": 236.8,
+      "previous_close": 243.63,
+      "change_pct": -2.8,
+      "market_cap": 25448846126.371765,
+      "headlines": [
+        {
+          "title": "Solar Stocks Tumble After SolarEdge Posts Weak Q3 Outlook",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/solar-stocks-tumble-solaredge-posts-172456563.html",
           "publisher": "GuruFocus.com",
-          "published": "2026-08-04T21:01:29Z"
+          "published": "2026-08-05T17:24:56Z"
         },
         {
-          "title": "Sector Update: Energy Stocks Decline Late Afternoon",
-          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-decline-afternoon-195553066.html",
-          "publisher": "MT Newswires",
-          "published": "2026-08-04T19:55:53Z"
+          "title": "SolarEdge Technologies' Q2 Earnings Top Estimates, Revenues Rise Y/Y",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/solaredge-technologies-q2-earnings-top-145200287.html",
+          "publisher": "Zacks",
+          "published": "2026-08-05T14:52:00Z"
         },
         {
-          "title": "\u26a1 Flash Heard: Texas Data Center U-Turn Hits Power Stocks",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-spacex-earnings-08-04-2026/card/-flash-heard-texas-data-center-u-turn-hits-power-stocks-JUqceJdveta4bHKQY0Xv?siteid=yhoof2&yptr=yahoo",
-          "publisher": "The Wall Street Journal",
-          "published": "2026-08-04T16:26:13Z"
+          "title": "ETFs in Spotlight as First Solar Shares Jump Post Q2 Earnings Beat",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-spotlight-first-solar-shares-144800233.html",
+          "publisher": "Zacks",
+          "published": "2026-08-05T14:48:00Z"
         }
       ]
     },
     {
       "symbol": "PR",
       "name": "Permian Resources",
-      "price": 20.5,
-      "previous_close": 20.9,
-      "change_pct": -1.91,
-      "market_cap": 17164406542.0,
+      "price": 19.79,
+      "previous_close": 20.5,
+      "change_pct": -3.46,
+      "market_cap": 16569932740.520172,
       "headlines": [
+        {
+          "title": "Permian Resources (NYSE:PR) Beats Expectations in Strong Q2 CY2026",
+          "url": "https://finance.yahoo.com/energy/articles/permian-resources-nyse-pr-beats-204341544.html",
+          "publisher": "StockStory",
+          "published": "2026-08-05T20:43:41Z"
+        },
         {
           "title": "1 Energy Stock for Long-Term Investors and 2 That Underwhelm",
           "url": "https://finance.yahoo.com/energy/articles/1-energy-stock-long-term-200357317.html",
@@ -1283,22 +1289,16 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/permian-resources-pr-rises-oil-211032861.html",
           "publisher": "Simply Wall St.",
           "published": "2026-07-30T21:10:32Z"
-        },
-        {
-          "title": "Is Middle East Supply Risk And Tighter U.S. Crude Inventories Altering The Investment Case For Permian Resources (PR)?",
-          "url": "https://finance.yahoo.com/energy/articles/middle-east-supply-risk-tighter-140845604.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-07-30T14:08:45Z"
         }
       ]
     },
     {
       "symbol": "OVV",
       "name": "Ovintiv",
-      "price": 60.75,
-      "previous_close": 61.88,
-      "change_pct": -1.83,
-      "market_cap": 16803450000.0,
+      "price": 57.96,
+      "previous_close": 60.75,
+      "change_pct": -4.59,
+      "market_cap": 16031735746.765137,
       "headlines": [
         {
           "title": "Ovintiv (OVV) Earnings And 2026 Guidance Put Its Valuation Back In Focus",
@@ -1323,10 +1323,10 @@
     {
       "symbol": "TLN",
       "name": "Talen Energy",
-      "price": 340.0,
-      "previous_close": 344.49,
-      "change_pct": -1.3,
-      "market_cap": 16250301700.0,
+      "price": 329.84,
+      "previous_close": 340.0,
+      "change_pct": -2.99,
+      "market_cap": 15764704274.169464,
       "headlines": [
         {
           "title": "Talen Energy Set to Report Q2 Earnings: What's in Store for the Stock?",
@@ -1351,11 +1351,17 @@
     {
       "symbol": "BWXT",
       "name": "BWX Technologies",
-      "price": 172.4,
-      "previous_close": 173.79,
-      "change_pct": -0.8,
-      "market_cap": 15794364928.428558,
+      "price": 168.28,
+      "previous_close": 172.4,
+      "change_pct": -2.39,
+      "market_cap": 15418146682.556763,
       "headlines": [
+        {
+          "title": "Should BWX Technologies\u2019 Guidance Hike and Medical Exit Reshape BWXT\u2019s Nuclear\u2011Focused Investment Case?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bwx-technologies-guidance-hike-medical-051108436.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-08-05T05:11:08Z"
+        },
         {
           "title": "BWXT Q2 Earnings Call Centers on Higher Outlook and Nuclear Focus",
           "url": "https://finance.yahoo.com/markets/stocks/articles/bwxt-q2-earnings-call-centers-153200719.html",
@@ -1367,51 +1373,23 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/bwx-technologies-bwxt-sells-medical-151127255.html",
           "publisher": "Simply Wall St.",
           "published": "2026-08-04T15:11:27Z"
-        },
-        {
-          "title": "BWX Technologies Inc (BWXT) (Q2 2026) Earnings Call Highlights: Record Backlog and Strategic ...",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bwx-technologies-inc-bwxt-q2-050634877.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-08-04T05:06:34Z"
-        }
-      ]
-    },
-    {
-      "symbol": "DINO",
-      "name": "HF Sinclair",
-      "price": 88.25,
-      "previous_close": 88.65,
-      "change_pct": -0.45,
-      "market_cap": 15689424674.25,
-      "headlines": [
-        {
-          "title": "VNOM Q2 Earnings Beat Estimates on Higher Output & Realized Prices",
-          "url": "https://finance.yahoo.com/energy/articles/vnom-q2-earnings-beat-estimates-123700377.html",
-          "publisher": "Zacks",
-          "published": "2026-08-04T12:37:00Z"
-        },
-        {
-          "title": "BP Q2 Earnings Beat Estimates on Strong Refining Margins & Pricing",
-          "url": "https://finance.yahoo.com/energy/articles/bp-q2-earnings-beat-estimates-120800388.html",
-          "publisher": "Zacks",
-          "published": "2026-08-04T12:08:00Z"
-        },
-        {
-          "title": "Enbridge Q2 Earnings Beat Estimates on Pipeline & Utility Strength",
-          "url": "https://finance.yahoo.com/energy/articles/enbridge-q2-earnings-beat-estimates-162500792.html",
-          "publisher": "Zacks",
-          "published": "2026-08-03T16:25:00Z"
         }
       ]
     },
     {
       "symbol": "NXT",
       "name": "Nextracker",
-      "price": 98.44,
-      "previous_close": 90.67,
-      "change_pct": 8.57,
-      "market_cap": 14936254319.233398,
+      "price": 99.81,
+      "previous_close": 98.44,
+      "change_pct": 1.39,
+      "market_cap": 15144123020.766602,
       "headlines": [
+        {
+          "title": "SolarEdge Stock Kicked the Week Off Strong. Why Today It\u2019s Having Its Worst Session in 14 Months.",
+          "url": "https://www.barrons.com/articles/solaredge-earnings-stock-price-b8838581?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-08-05T14:30:00Z"
+        },
         {
           "title": "First Solar Stock Powers to the Top of the S&P 500 as Regulatory Decision Approaches",
           "url": "https://www.barrons.com/articles/first-solar-stock-price-section-232-1f0ffea7?siteid=yhoof2&yptr=yahoo",
@@ -1423,22 +1401,44 @@
           "url": "https://finance.yahoo.com/energy/articles/data-center-adjacent-clean-energy-120125214.html",
           "publisher": "Insider Monkey",
           "published": "2026-08-03T12:01:25Z"
+        }
+      ]
+    },
+    {
+      "symbol": "DINO",
+      "name": "HF Sinclair",
+      "price": 82.98,
+      "previous_close": 88.25,
+      "change_pct": -5.97,
+      "market_cap": 14752504386.828575,
+      "headlines": [
+        {
+          "title": "PSX Q2 Earnings & Revenues Beat Estimates on Strong Refining Margins",
+          "url": "https://finance.yahoo.com/energy/articles/psx-q2-earnings-revenues-beat-153500519.html",
+          "publisher": "Zacks",
+          "published": "2026-08-05T15:35:00Z"
         },
         {
-          "title": "Nextpower (NXT) Is Down 10.2% After Boosting 2027 Outlook and Launching $500 Million Buyback \u2013 What's Changed",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nextpower-nxt-down-10-2-071136832.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-08-02T07:11:36Z"
+          "title": "SUN Q2 Earnings Miss Estimates on Higher Costs, Revenues Beat",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/sun-q2-earnings-miss-estimates-153300209.html",
+          "publisher": "Zacks",
+          "published": "2026-08-05T15:33:00Z"
+        },
+        {
+          "title": "Tap These 5 Bargain Stocks With Attractive EV-to-EBITDA Ratios",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tap-5-bargain-stocks-attractive-124700106.html",
+          "publisher": "Zacks",
+          "published": "2026-08-05T12:47:00Z"
         }
       ]
     },
     {
       "symbol": "APA",
       "name": "APA Corp",
-      "price": 35.8,
-      "previous_close": 36.87,
-      "change_pct": -2.9,
-      "market_cap": 12654233856.923618,
+      "price": 34.66,
+      "previous_close": 35.8,
+      "change_pct": -3.18,
+      "market_cap": 12251278013.884724,
       "headlines": [
         {
           "title": "APA Corp. (APA) Declined Despite Meeting Expectations",
@@ -1463,10 +1463,10 @@
     {
       "symbol": "AR",
       "name": "Antero Resources",
-      "price": 35.69,
-      "previous_close": 36.48,
-      "change_pct": -2.17,
-      "market_cap": 10972497487.796783,
+      "price": 34.33,
+      "previous_close": 35.69,
+      "change_pct": -3.81,
+      "market_cap": 10554381432.937622,
       "headlines": [
         {
           "title": "Is Antero Midstream Stock Worth Buying Despite Its Premium Valuation?",
@@ -1491,10 +1491,10 @@
     {
       "symbol": "BEP",
       "name": "Brookfield Renewable",
-      "price": 33.04,
-      "previous_close": 33.68,
-      "change_pct": -1.9,
-      "market_cap": 10020238161.257439,
+      "price": 32.7,
+      "previous_close": 33.04,
+      "change_pct": -1.03,
+      "market_cap": 9917124286.881199,
       "headlines": [
         {
           "title": "New Strong Sell Stocks for August 4th",
@@ -1519,11 +1519,17 @@
     {
       "symbol": "OKLO",
       "name": "Oklo",
-      "price": 43.33,
-      "previous_close": 41.22,
-      "change_pct": 5.12,
-      "market_cap": 7539029785.297012,
+      "price": 42.99,
+      "previous_close": 43.33,
+      "change_pct": -0.78,
+      "market_cap": 7479872823.168095,
       "headlines": [
+        {
+          "title": "Should You Invest in OKLO Stock Before Q2 Earnings Release?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/invest-oklo-stock-q2-earnings-125700826.html",
+          "publisher": "Zacks",
+          "published": "2026-08-05T12:57:00Z"
+        },
         {
           "title": "Oklo Reports Earnings on Aug. 7. Here's What Investors Should Be Watching.",
           "url": "https://finance.yahoo.com/markets/stocks/articles/oklo-reports-earnings-aug-7-202001575.html",
@@ -1535,23 +1541,23 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/oklo-stock-no-brainer-buy-172245867.html",
           "publisher": "Motley Fool",
           "published": "2026-08-04T17:22:45Z"
-        },
-        {
-          "title": "Got $10,000? Here's How I'd Split It Across These 5 Energy Stocks.",
-          "url": "https://finance.yahoo.com/energy/articles/got-10-000-heres-id-113500853.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-04T11:35:00Z"
         }
       ]
     },
     {
       "symbol": "NOV",
       "name": "NOV Inc",
-      "price": 19.99,
-      "previous_close": 19.48,
-      "change_pct": 2.62,
-      "market_cap": 7125997637.158632,
+      "price": 19.5,
+      "previous_close": 19.99,
+      "change_pct": -2.45,
+      "market_cap": 6951323437.5,
       "headlines": [
+        {
+          "title": "Are Oils-Energy Stocks Lagging  Forum Energy Technologies (FET) This Year?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/oils-energy-stocks-lagging-forum-134004811.html",
+          "publisher": "Zacks",
+          "published": "2026-08-05T13:40:04Z"
+        },
         {
           "title": "Zacks Industry Outlook NOV, Oil States International and Natural Gas Services",
           "url": "https://finance.yahoo.com/energy/articles/zacks-industry-outlook-nov-oil-100800960.html",
@@ -1563,22 +1569,16 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/nov-nov-stock-still-looks-001630252.html",
           "publisher": "Simply Wall St.",
           "published": "2026-08-03T00:16:30Z"
-        },
-        {
-          "title": "3 Oilfield Equipment Stocks That Can Thrive Amid Industry Headwinds",
-          "url": "https://finance.yahoo.com/energy/articles/3-oilfield-equipment-stocks-thrive-155300145.html",
-          "publisher": "Zacks",
-          "published": "2026-07-31T15:53:00Z"
         }
       ]
     },
     {
       "symbol": "NXE",
       "name": "NexGen Energy",
-      "price": 9.76,
-      "previous_close": 9.57,
-      "change_pct": 1.99,
-      "market_cap": 6460236100.4590435,
+      "price": 10.04,
+      "previous_close": 9.76,
+      "change_pct": 2.87,
+      "market_cap": 6645570561.590159,
       "headlines": [
         {
           "title": "NexGen Energy (TSX:NXE) Stock Looks Above Fair Value Despite 145% Returns",
@@ -1603,10 +1603,10 @@
     {
       "symbol": "WFRD",
       "name": "Weatherford",
-      "price": 89.42,
-      "previous_close": 88.35,
-      "change_pct": 1.21,
-      "market_cap": 6410112181.800034,
+      "price": 87.53,
+      "previous_close": 89.42,
+      "change_pct": -2.11,
+      "market_cap": 6274626738.283356,
       "headlines": [
         {
           "title": "Weatherford Q2 Earnings Miss Estimates on Middle East Disruptions",
@@ -1629,41 +1629,19 @@
       ]
     },
     {
-      "symbol": "ENPH",
-      "name": "Enphase Energy",
-      "price": 41.77,
-      "previous_close": 39.35,
-      "change_pct": 6.15,
-      "market_cap": 5519682007.451019,
-      "headlines": [
-        {
-          "title": "SolarEdge Surges 8%, Enphase Climbs 5%, First Solar Rises 4% on Pro-Solar Policy Hopes",
-          "url": "https://finance.yahoo.com/energy/articles/solaredge-surges-8-enphase-climbs-182016521.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-08-04T18:20:16Z"
-        },
-        {
-          "title": "FSLR Tops S&P500 To Its Best Day In Two Months, But Trump's Section 232 Ruling Will Decide Its Future",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/fslr-tops-p500-best-day-235932286.html",
-          "publisher": "Stocktwits",
-          "published": "2026-08-03T23:59:32Z"
-        },
-        {
-          "title": "1 Cash-Producing Stock on Our Watchlist and 2 We Find Risky",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/1-cash-producing-stock-watchlist-202922121.html",
-          "publisher": "StockStory",
-          "published": "2026-08-03T20:29:22Z"
-        }
-      ]
-    },
-    {
       "symbol": "UEC",
       "name": "Uranium Energy Corp",
-      "price": 10.5,
-      "previous_close": 9.97,
-      "change_pct": 5.32,
-      "market_cap": 5196159843.0,
+      "price": 10.72,
+      "previous_close": 10.5,
+      "change_pct": 2.1,
+      "market_cap": 5255166924.663072,
       "headlines": [
+        {
+          "title": "Nuclear Energy Stocks Rise on Surging Demand for Reliable Clean Power",
+          "url": "https://finance.yahoo.com/energy/articles/nuclear-energy-stocks-rise-surging-172600278.html",
+          "publisher": "Zacks",
+          "published": "2026-08-05T17:26:00Z"
+        },
         {
           "title": "Uranium Energy (UEC) Stock Looks Stretched Despite Its 353% Five Year Run",
           "url": "https://finance.yahoo.com/markets/stocks/articles/uranium-energy-uec-stock-looks-120735779.html",
@@ -1675,23 +1653,51 @@
           "url": "https://finance.yahoo.com/markets/commodities/articles/uranium-energy-down-sharply-2026-063500618.html",
           "publisher": "Motley Fool",
           "published": "2026-07-30T06:35:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "ENPH",
+      "name": "Enphase Energy",
+      "price": 38.95,
+      "previous_close": 41.77,
+      "change_pct": -6.75,
+      "market_cap": 5133540769.554062,
+      "headlines": [
+        {
+          "title": "Solar Stocks Tumble After SolarEdge Posts Weak Q3 Outlook",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/solar-stocks-tumble-solaredge-posts-172456563.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-08-05T17:24:56Z"
         },
         {
-          "title": "The Next AI Trade: Fireside Chat with Noble Plains Uranium CEO Drew Zimmerman",
-          "url": "https://finance.yahoo.com/energy/articles/the-next-ai-trade-fireside-chat-with-noble-plains-uranium-ceo-drew-zimmerman-123130776.html",
-          "publisher": "IPO-Edge.com",
-          "published": "2026-07-29T12:31:30Z"
+          "title": "SolarEdge Technologies' Q2 Earnings Top Estimates, Revenues Rise Y/Y",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/solaredge-technologies-q2-earnings-top-145200287.html",
+          "publisher": "Zacks",
+          "published": "2026-08-05T14:52:00Z"
+        },
+        {
+          "title": "SolarEdge Stock Kicked the Week Off Strong. Why Today It\u2019s Having Its Worst Session in 14 Months.",
+          "url": "https://www.barrons.com/articles/solaredge-earnings-stock-price-b8838581?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-08-05T14:30:00Z"
         }
       ]
     },
     {
       "symbol": "LEU",
       "name": "Centrus Energy",
-      "price": 189.24,
-      "previous_close": 184.76,
-      "change_pct": 2.42,
-      "market_cap": 3722879644.625885,
+      "price": 187.63,
+      "previous_close": 189.24,
+      "change_pct": -0.85,
+      "market_cap": 3691206434.2785645,
       "headlines": [
+        {
+          "title": "Centrus Energy (NYSE:LEU) Beats Expectations in Strong Q2 CY2026",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/centrus-energy-nyse-leu-beats-203830225.html",
+          "publisher": "StockStory",
+          "published": "2026-08-05T20:38:30Z"
+        },
         {
           "title": "Energy Fuels Set to Report Q2 Earnings: How to Play the Stock?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/energy-fuels-set-report-q2-170600925.html",
@@ -1703,23 +1709,23 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/centrus-energy-leu-stock-looks-001446964.html",
           "publisher": "Simply Wall St.",
           "published": "2026-07-31T00:14:46Z"
-        },
-        {
-          "title": "Is Centrus Energy Too Cheap to Ignore Right Now?",
-          "url": "https://finance.yahoo.com/energy/articles/centrus-energy-too-cheap-ignore-182500512.html",
-          "publisher": "Motley Fool",
-          "published": "2026-07-30T18:25:00Z"
         }
       ]
     },
     {
       "symbol": "SMR",
       "name": "NuScale Power",
-      "price": 9.49,
-      "previous_close": 9.01,
-      "change_pct": 5.33,
-      "market_cap": 3284543820.4326725,
+      "price": 9.38,
+      "previous_close": 9.49,
+      "change_pct": -1.16,
+      "market_cap": 3246472302.9086637,
       "headlines": [
+        {
+          "title": "Should You Invest in OKLO Stock Before Q2 Earnings Release?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/invest-oklo-stock-q2-earnings-125700826.html",
+          "publisher": "Zacks",
+          "published": "2026-08-05T12:57:00Z"
+        },
         {
           "title": "Better Small Modular Reactor Stock: NuScale Power vs. GE Vernova",
           "url": "https://finance.yahoo.com/markets/stocks/articles/better-small-modular-reactor-stock-172500349.html",
@@ -1731,107 +1737,107 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/heres-play-nuscale-stock-q2-122800128.html",
           "publisher": "Zacks",
           "published": "2026-08-03T12:28:00Z"
-        },
-        {
-          "title": "NuScale Power's Next Earnings Report on Aug. 5 Could Send the Stock Soaring. Here's Why.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nuscale-powers-next-earnings-report-210901660.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-02T21:09:01Z"
         }
       ]
     },
     {
       "symbol": "UUUU",
       "name": "Energy Fuels",
-      "price": 12.86,
-      "previous_close": 12.15,
-      "change_pct": 5.84,
-      "market_cap": 3213960131.7570705,
+      "price": 12.44,
+      "previous_close": 12.86,
+      "change_pct": -3.27,
+      "market_cap": 3108994071.369753,
       "headlines": [
+        {
+          "title": "Nuclear Energy Stocks Rise on Surging Demand for Reliable Clean Power",
+          "url": "https://finance.yahoo.com/energy/articles/nuclear-energy-stocks-rise-surging-172600278.html",
+          "publisher": "Zacks",
+          "published": "2026-08-05T17:26:00Z"
+        },
+        {
+          "title": "5 Non-Ferrous Metal Mining Stocks to Watch in a Challenging Industry",
+          "url": "https://finance.yahoo.com/markets/commodities/articles/5-non-ferrous-metal-mining-150000306.html",
+          "publisher": "Zacks",
+          "published": "2026-08-05T15:00:00Z"
+        },
         {
           "title": "Should You Buy, Sell or Hold MP Stock Before Q2 Earnings Release?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/buy-sell-hold-mp-stock-171000755.html",
           "publisher": "Zacks",
           "published": "2026-08-04T17:10:00Z"
-        },
-        {
-          "title": "Energy Fuels Set to Report Q2 Earnings: How to Play the Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/energy-fuels-set-report-q2-170600925.html",
-          "publisher": "Zacks",
-          "published": "2026-08-04T17:06:00Z"
-        },
-        {
-          "title": "Is Trending Stock Energy Fuels Inc (UUUU) a Buy Now?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/trending-stock-energy-fuels-inc-130002275.html",
-          "publisher": "Zacks",
-          "published": "2026-07-31T13:00:02Z"
-        }
-      ]
-    },
-    {
-      "symbol": "SEDG",
-      "name": "SolarEdge",
-      "price": 48.76,
-      "previous_close": 45.12,
-      "change_pct": 8.07,
-      "market_cap": 2965495427.4386673,
-      "headlines": [
-        {
-          "title": "SolarEdge Surges 8%, Enphase Climbs 5%, First Solar Rises 4% on Pro-Solar Policy Hopes",
-          "url": "https://finance.yahoo.com/energy/articles/solaredge-surges-8-enphase-climbs-182016521.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-08-04T18:20:16Z"
-        },
-        {
-          "title": "FSLR Tops S&P500 To Its Best Day In Two Months, But Trump's Section 232 Ruling Will Decide Its Future",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/fslr-tops-p500-best-day-235932286.html",
-          "publisher": "Stocktwits",
-          "published": "2026-08-03T23:59:32Z"
-        },
-        {
-          "title": "SolarEdge Technologies to Report Q2 Earnings: Here's What to Expect",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/solaredge-technologies-report-q2-earnings-154300343.html",
-          "publisher": "Zacks",
-          "published": "2026-08-03T15:43:00Z"
         }
       ]
     },
     {
       "symbol": "RUN",
       "name": "Sunrun",
-      "price": 11.03,
-      "previous_close": 10.43,
-      "change_pct": 5.75,
-      "market_cap": 2631198571.910468,
+      "price": 10.49,
+      "previous_close": 11.03,
+      "change_pct": -4.9,
+      "market_cap": 2502381966.030401,
       "headlines": [
         {
-          "title": "Tesla's Build-Out Now Costs More Cash Than The Business Generates",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/teslas-build-now-costs-more-135143377.html",
-          "publisher": "Trefis",
-          "published": "2026-08-04T13:51:43Z"
+          "title": "Sunrun\u2019s (NASDAQ:RUN) Q2 CY2026: Strong Sales But Stock Drops 12%",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/sunrun-nasdaq-run-q2-cy2026-200923939.html",
+          "publisher": "StockStory",
+          "published": "2026-08-05T20:09:23Z"
         },
         {
-          "title": "Ahead of Sunrun (RUN) Q2 Earnings: Get Ready With Wall Street Estimates for Key Metrics",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ahead-sunrun-run-q2-earnings-131504301.html",
-          "publisher": "Zacks",
-          "published": "2026-08-04T13:15:04Z"
+          "title": "Solar Stocks Tumble After SolarEdge Posts Weak Q3 Outlook",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/solar-stocks-tumble-solaredge-posts-172456563.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-08-05T17:24:56Z"
         },
         {
-          "title": "Shoals Technologies Group (SHLS) Q2 Earnings and Revenues Surpass Estimates",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/shoals-technologies-group-shls-q2-122505940.html",
-          "publisher": "Zacks",
-          "published": "2026-08-04T12:25:05Z"
+          "title": "SolarEdge Stock Kicked the Week Off Strong. Why Today It\u2019s Having Its Worst Session in 14 Months.",
+          "url": "https://www.barrons.com/articles/solaredge-earnings-stock-price-b8838581?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-08-05T14:30:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "SEDG",
+      "name": "SolarEdge",
+      "price": 33.9,
+      "previous_close": 48.76,
+      "change_pct": -30.48,
+      "market_cap": 2061737140.6012115,
+      "headlines": [
+        {
+          "title": "SolarEdge Technologies Q2 Earnings Call Highlights",
+          "url": "https://finance.yahoo.com/energy/articles/solaredge-technologies-q2-earnings-call-190403907.html",
+          "publisher": "MarketBeat",
+          "published": "2026-08-05T19:04:03Z"
+        },
+        {
+          "title": "SolarEdge Technologies Inc (SEDG) (Q2 2026) Earnings Call Highlights: First Non-GAAP Operating ...",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/solaredge-technologies-inc-sedg-q2-190235636.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-08-05T19:02:35Z"
+        },
+        {
+          "title": "Why SolarEdge Stock Crashed After Earnings",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-solaredge-stock-crashed-earnings-172841451.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-05T17:28:41Z"
         }
       ]
     },
     {
       "symbol": "FLNC",
       "name": "Fluence Energy",
-      "price": 15.67,
-      "previous_close": 14.56,
-      "change_pct": 7.62,
-      "market_cap": 2081156058.4327126,
+      "price": 14.23,
+      "previous_close": 15.67,
+      "change_pct": -9.19,
+      "market_cap": 1889907441.9037247,
       "headlines": [
+        {
+          "title": "Solar Stocks Tumble After SolarEdge Posts Weak Q3 Outlook",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/solar-stocks-tumble-solaredge-posts-172456563.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-08-05T17:24:56Z"
+        },
         {
           "title": "Energy & Utilities Roundup: Market Talk",
           "url": "https://www.wsj.com/business/energy-oil/energy-utilities-roundup-market-talk-25004551?siteid=yhoof2&yptr=yahoo",
@@ -1843,51 +1849,51 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/flnc-stock-plummets-52-6-175700991.html",
           "publisher": "Zacks",
           "published": "2026-08-03T17:57:00Z"
-        },
-        {
-          "title": "1 of Wall Street\u2019s Favorite Stocks for Long-Term Investors and 2 We Find Risky",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/1-wall-street-favorite-stocks-130749289.html",
-          "publisher": "StockStory",
-          "published": "2026-07-31T13:07:49Z"
         }
       ]
     },
     {
       "symbol": "EOSE",
       "name": "Eos Energy",
-      "price": 4.35,
-      "previous_close": 3.75,
-      "change_pct": 16.0,
-      "market_cap": 1573339881.4568076,
+      "price": 3.82,
+      "previous_close": 4.35,
+      "change_pct": -12.18,
+      "market_cap": 1381645603.1947653,
       "headlines": [
         {
-          "title": "DMC Global (BOOM) Q2 Earnings and Revenues Beat Estimates",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/dmc-global-boom-q2-earnings-222505830.html",
-          "publisher": "Zacks",
-          "published": "2026-07-29T22:25:05Z"
+          "title": "Eos Energy Enterprises Inc (EOSE) (Q2 2026) Earnings Call Highlights: Record Revenue and ...",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/eos-energy-enterprises-inc-eose-210356890.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-08-05T21:03:56Z"
         },
         {
-          "title": "Eos Energy Enterprises, Inc. (EOSE) Expected to Beat Earnings Estimates: Can the Stock Move Higher?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/eos-energy-enterprises-inc-eose-140038112.html",
-          "publisher": "Zacks",
-          "published": "2026-07-29T14:00:38Z"
+          "title": "Eos Energy Enterprises Q2 Earnings Call Highlights",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/eos-energy-enterprises-q2-earnings-150422857.html",
+          "publisher": "MarketBeat",
+          "published": "2026-08-05T15:04:22Z"
         },
         {
-          "title": "Why Did SKHY, EOSE, OKLO Stocks Plunge To 52-Week Lows Today?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-skhy-eose-oklo-033248482.html",
-          "publisher": "Stocktwits",
-          "published": "2026-07-29T03:32:48Z"
+          "title": "Eos Energy Enterprises, Inc. (EOSE) Reports Q2 Loss",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/eos-energy-enterprises-inc-eose-121503506.html",
+          "publisher": "Zacks",
+          "published": "2026-08-05T12:15:03Z"
         }
       ]
     },
     {
       "symbol": "ARRY",
       "name": "Array Technologies",
-      "price": 6.01,
-      "previous_close": 5.68,
-      "change_pct": 5.9,
-      "market_cap": 924496566.9880638,
+      "price": 5.64,
+      "previous_close": 6.01,
+      "change_pct": -6.16,
+      "market_cap": 867580751.3819628,
       "headlines": [
+        {
+          "title": "Solar Stocks Tumble After SolarEdge Posts Weak Q3 Outlook",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/solar-stocks-tumble-solaredge-posts-172456563.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-08-05T17:24:56Z"
+        },
         {
           "title": "SolarEdge Surges 8%, Enphase Climbs 5%, First Solar Rises 4% on Pro-Solar Policy Hopes",
           "url": "https://finance.yahoo.com/energy/articles/solaredge-surges-8-enphase-climbs-182016521.html",
@@ -1899,12 +1905,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/array-technologies-arry-atlas-foundation-211021098.html",
           "publisher": "Simply Wall St.",
           "published": "2026-08-01T21:10:21Z"
-        },
-        {
-          "title": "First Solar's Q2 Earnings Beat Estimates, Revenues Decrease Y/Y",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/first-solars-q2-earnings-beat-181400373.html",
-          "publisher": "Zacks",
-          "published": "2026-07-31T18:14:00Z"
         }
       ]
     }
@@ -1921,8 +1921,8 @@
           "name": "Exxon Mobil Corp",
           "short": "Exxon",
           "weight_pct": 20.25,
-          "change_pct": -0.71,
-          "price": 153.96,
+          "change_pct": -1.51,
+          "price": 151.63,
           "currency": "USD"
         },
         {
@@ -1930,8 +1930,8 @@
           "name": "Chevron Corp",
           "short": "Chevron",
           "weight_pct": 14.37,
-          "change_pct": -1.44,
-          "price": 190.4,
+          "change_pct": -2.1,
+          "price": 186.41,
           "currency": "USD"
         },
         {
@@ -1939,8 +1939,8 @@
           "name": "ConocoPhillips",
           "short": "ConocoPhillips",
           "weight_pct": 5.87,
-          "change_pct": -1.02,
-          "price": 117.94,
+          "change_pct": -2.46,
+          "price": 115.04,
           "currency": "USD"
         },
         {
@@ -1948,8 +1948,8 @@
           "name": "SLB Ltd",
           "short": "SLB",
           "weight_pct": 4.53,
-          "change_pct": 3.04,
-          "price": 50.81,
+          "change_pct": -1.77,
+          "price": 49.91,
           "currency": "USD"
         },
         {
@@ -1957,8 +1957,8 @@
           "name": "Williams Companies Inc",
           "short": "Williams",
           "weight_pct": 4.49,
-          "change_pct": 1.53,
-          "price": 71.51,
+          "change_pct": 0.42,
+          "price": 71.81,
           "currency": "USD"
         },
         {
@@ -1966,8 +1966,8 @@
           "name": "Marathon Petroleum Corp",
           "short": "Marathon",
           "weight_pct": 4.46,
-          "change_pct": 1.82,
-          "price": 312.61,
+          "change_pct": -4.75,
+          "price": 297.75,
           "currency": "USD"
         },
         {
@@ -1975,8 +1975,8 @@
           "name": "EOG Resources Inc",
           "short": "EOG Resources",
           "weight_pct": 4.44,
-          "change_pct": -1.48,
-          "price": 143.52,
+          "change_pct": -6.47,
+          "price": 134.23,
           "currency": "USD"
         },
         {
@@ -1984,8 +1984,8 @@
           "name": "Valero Energy Corp",
           "short": "Valero",
           "weight_pct": 4.42,
-          "change_pct": 0.39,
-          "price": 308.73,
+          "change_pct": -2.05,
+          "price": 302.39,
           "currency": "USD"
         },
         {
@@ -1993,8 +1993,8 @@
           "name": "Phillips 66",
           "short": "Phillips",
           "weight_pct": 4.39,
-          "change_pct": -0.15,
-          "price": 205.89,
+          "change_pct": -1.62,
+          "price": 202.55,
           "currency": "USD"
         },
         {
@@ -2002,8 +2002,8 @@
           "name": "Kinder Morgan Inc Class P",
           "short": "Kinder",
           "weight_pct": 4.34,
-          "change_pct": -0.06,
-          "price": 31.38,
+          "change_pct": -0.83,
+          "price": 31.12,
           "currency": "USD"
         }
       ]
@@ -2020,8 +2020,8 @@
         "name": "Exxon Mobil Corp",
         "short": "Exxon",
         "weight_pct": 20.25,
-        "change_pct": -0.71,
-        "price": 153.96,
+        "change_pct": -1.51,
+        "price": 151.63,
         "currency": "USD"
       },
       {
@@ -2029,8 +2029,8 @@
         "name": "Chevron Corp",
         "short": "Chevron",
         "weight_pct": 14.37,
-        "change_pct": -1.44,
-        "price": 190.4,
+        "change_pct": -2.1,
+        "price": 186.41,
         "currency": "USD"
       },
       {
@@ -2038,8 +2038,8 @@
         "name": "ConocoPhillips",
         "short": "ConocoPhillips",
         "weight_pct": 5.87,
-        "change_pct": -1.02,
-        "price": 117.94,
+        "change_pct": -2.46,
+        "price": 115.04,
         "currency": "USD"
       },
       {
@@ -2047,8 +2047,8 @@
         "name": "SLB Ltd",
         "short": "SLB",
         "weight_pct": 4.53,
-        "change_pct": 3.04,
-        "price": 50.81,
+        "change_pct": -1.77,
+        "price": 49.91,
         "currency": "USD"
       },
       {
@@ -2056,8 +2056,8 @@
         "name": "Williams Companies Inc",
         "short": "Williams",
         "weight_pct": 4.49,
-        "change_pct": 1.53,
-        "price": 71.51,
+        "change_pct": 0.42,
+        "price": 71.81,
         "currency": "USD"
       },
       {
@@ -2065,8 +2065,8 @@
         "name": "Marathon Petroleum Corp",
         "short": "Marathon",
         "weight_pct": 4.46,
-        "change_pct": 1.82,
-        "price": 312.61,
+        "change_pct": -4.75,
+        "price": 297.75,
         "currency": "USD"
       },
       {
@@ -2074,8 +2074,8 @@
         "name": "EOG Resources Inc",
         "short": "EOG Resources",
         "weight_pct": 4.44,
-        "change_pct": -1.48,
-        "price": 143.52,
+        "change_pct": -6.47,
+        "price": 134.23,
         "currency": "USD"
       },
       {
@@ -2083,8 +2083,8 @@
         "name": "Valero Energy Corp",
         "short": "Valero",
         "weight_pct": 4.42,
-        "change_pct": 0.39,
-        "price": 308.73,
+        "change_pct": -2.05,
+        "price": 302.39,
         "currency": "USD"
       },
       {
@@ -2092,8 +2092,8 @@
         "name": "Phillips 66",
         "short": "Phillips",
         "weight_pct": 4.39,
-        "change_pct": -0.15,
-        "price": 205.89,
+        "change_pct": -1.62,
+        "price": 202.55,
         "currency": "USD"
       },
       {
@@ -2101,8 +2101,8 @@
         "name": "Kinder Morgan Inc Class P",
         "short": "Kinder",
         "weight_pct": 4.34,
-        "change_pct": -0.06,
-        "price": 31.38,
+        "change_pct": -0.83,
+        "price": 31.12,
         "currency": "USD"
       }
     ]
@@ -2110,23 +2110,23 @@
   "tape": [
     {
       "label": "SPX",
-      "price": 7736.52,
-      "change_pct": 1.79
+      "price": 7723.55,
+      "change_pct": -0.17
     },
     {
       "label": "WTI",
-      "price": 75.33,
-      "change_pct": -6.24
+      "price": 75.08,
+      "change_pct": -0.91
     },
     {
       "label": "Brent",
-      "price": 78.86,
-      "change_pct": -5.86
+      "price": 79.4,
+      "change_pct": 0.05
     },
     {
       "label": "NatGas",
-      "price": 2.69,
-      "change_pct": -3.38
+      "price": 2.67,
+      "change_pct": -0.45
     }
   ]
 }
