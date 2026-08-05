@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-05T19:42:00+00:00",
+  "as_of": "2026-08-05T20:47:23+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,13 +11,13 @@
    "rank": 1,
    "ticker": "SEDG",
    "company": "SolarEdge Technologies, Inc.",
-   "move_pct": -27.97,
-   "price": 35.12,
-   "volume": 14981984,
-   "volume_vs_avg": "~6x",
-   "heat_score": 94,
+   "move_pct": -29.92,
+   "price": 34.17,
+   "volume": 16722270,
+   "volume_vs_avg": "~7x",
+   "heat_score": 98,
    "direction": "down",
-   "why": "Moving down 28.0% on ~6x average volume with no fresh headline this cycle \u2014 attention without a story.",
+   "why": "Moving down 29.9% on ~7x average volume with no fresh headline this cycle \u2014 attention without a story.",
    "catalyst_type": "no_news_mover",
    "source_url": "",
    "published": "",
