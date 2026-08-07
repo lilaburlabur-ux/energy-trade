@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-07T16:35:38+00:00",
+  "as_of": "2026-08-07T17:32:10+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,25 +11,25 @@
    "rank": 1,
    "ticker": "OKLO",
    "company": "Oklo Inc.",
-   "move_pct": 13.94,
-   "price": 48.07,
-   "volume": 11876526,
-   "volume_vs_avg": "~1.3x",
-   "heat_score": 80,
+   "move_pct": 13.89,
+   "price": 48.05,
+   "volume": 13385157,
+   "volume_vs_avg": "~1.5x",
+   "heat_score": 81,
    "direction": "up",
-   "why": "Oklo shares rise as revenue beat offsets wider Q2 loss",
-   "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/oklo-shares-rise-revenue-beat-140500117.html",
-   "published": "2026-08-07T14:05:00Z",
+   "why": "Oklo's Groves Reactor Just Achieved First Criticality. Here's What It Means for OKLO Stock.",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/energy/articles/oklos-groves-reactor-just-achieved-172001361.html",
+   "published": "2026-08-07T17:20:01Z",
    "sector": "Nuclear & Uranium"
   },
   {
    "rank": 2,
    "ticker": "UUUU",
    "company": "Energy Fuels Inc",
-   "move_pct": 9.22,
-   "price": 14.09,
-   "volume": 7084198,
+   "move_pct": 9.07,
+   "price": 14.07,
+   "volume": 7564507,
    "volume_vs_avg": "~1.0x",
    "heat_score": 62,
    "direction": "up",
@@ -38,22 +38,6 @@
    "source_url": "https://finance.yahoo.com/energy/articles/uuuu-q2-earnings-call-focuses-140000971.html",
    "published": "2026-08-07T14:00:00Z",
    "sector": "Nuclear & Uranium"
-  },
-  {
-   "rank": 3,
-   "ticker": "ARRY",
-   "company": "Array Technologies, Inc.",
-   "move_pct": 6.48,
-   "price": 5.59,
-   "volume": 4615571,
-   "volume_vs_avg": "~0.6x",
-   "heat_score": 41,
-   "direction": "up",
-   "why": "Array (NASDAQ:ARRY) Posts Better-Than-Expected Sales In Q2 CY2026 But Quarterly Revenue Guidance Misses Expectations",
-   "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/array-nasdaq-arry-posts-better-130050793.html",
-   "published": "2026-08-07T13:00:50Z",
-   "sector": "Renewables & Solar"
   }
  ]
 }
