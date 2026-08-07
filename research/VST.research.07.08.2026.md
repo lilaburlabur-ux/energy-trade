@@ -37,9 +37,9 @@ Vistra Corp., together with its subsidiaries, operates as an integrated retail e
 | Headline | Source | Date |
 |---|---|---|
 | Earnings live updates: The Trade Desk stock plummets on earnings miss, Oklo jumps on 'criticality' milestone | Yahoo Finance | 2026-08-03 |
+| Vistra Corp (VST) (Q2 2026) Earnings Call Highlights: Record EBITDA Surge and Strategic Helix ... | GuruFocus.com | 2026-08-07 |
 | Sector Update: Energy Stocks Fall Late Afternoon | MT Newswires | 2026-08-07 |
 | Sector Update: Energy Stocks Decline Friday Afternoon | MT Newswires | 2026-08-07 |
-| This Power Stock Could Be a Big Winner From the Data Center Boom | Motley Fool | 2026-08-07 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

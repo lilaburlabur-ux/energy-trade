@@ -36,10 +36,10 @@ Baker Hughes Company provides a portfolio of technologies and services to energy
 
 | Headline | Source | Date |
 |---|---|---|
+| C3.ai vs. Applied Digital: Which Artificial Intelligence Stock Is a Better Buy in 2026? | Motley Fool | 2026-08-07 |
 | Sector Update: Energy Stocks Decline Friday Afternoon | MT Newswires | 2026-08-07 |
 | Is Cactus Worth Buying as Growth Accelerates but Valuation Stretches? | Zacks | 2026-08-07 |
 | US Oil Drillers Add Rigs | Oilprice.com | 2026-08-07 |
-| Here Are Friday’s Top Wall Street Analyst Research Calls: Baker Hughes, Etsy, HubSpot, Instacart, JetBlue, Roku, SpaceX, Tower Semiconductor, Trade Desk, and More | 24/7 Wall St. | 2026-08-07 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

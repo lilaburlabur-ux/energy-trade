@@ -36,10 +36,10 @@ NuScale Power Corporation provides small modular reactor technology solutions. I
 
 | Headline | Source | Date |
 |---|---|---|
+| Fluor Corp (FLR) (Q2 2026) Earnings Call Highlights: Strong Awards and Strategic Shifts Drive ... | GuruFocus.com | 2026-08-07 |
 | NuScale Power (SMR) Expands Its Nuclear Fuel Plans With New Reactor Partnership | Simply Wall St. | 2026-08-07 |
 | Oklo Is Still Down 33% This Year. What Will It Take to Get OKLO Stock Back to $100? | 24/7 Wall St. | 2026-08-07 |
 | NuScale Power Stock Could Triple by 2030. Here's Why. | Motley Fool | 2026-08-07 |
-| SMR Q2 Earnings Meet Estimates, Revenues Miss on RoPower Timing | Zacks | 2026-08-07 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

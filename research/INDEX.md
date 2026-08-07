@@ -24,7 +24,7 @@
 | HAL | $26.57B | +54% | 11.0 | 7% | Low | Reasonable | Elevated |
 | BKR | $61.10B | +43% | 19.5 | 11% | Moderate | Reasonable | Elevated |
 | NOV | $7.00B | +68% | 15.0 | 1% | High | Reasonable | High |
-| FTI | $27.30B | +97% | 19.4 | 11% | High | Reasonable | Elevated |
+| FTI | $27.30B | +97% | 19.5 | 11% | High | Reasonable | Elevated |
 | WFRD | $6.22B | +59% | 11.9 | 8% | Low | Reasonable | Elevated |
 | LNG | $52.90B | +10% | 13.4 | 14% | Moderate | Reasonable | Elevated |
 | KMI | $68.70B | +20% | 20.1 | 19% | Moderate | Fair-to-demanding | Moderate |
@@ -39,7 +39,7 @@
 | VLO | $85.89B | +128% | 10.8 | 5% | High | Reasonable | Elevated |
 | DINO | $14.47B | +95% | 9.0 | 6% | High | Reasonable | Elevated |
 | CCJ | $42.42B | +27% | 51.7 | 10% | Low | Low (expensive) | Elevated |
-| CEG | $96.38B | -20% | 20.3 | 11% | Moderate | Fair-to-demanding | Elevated |
+| CEG | $96.38B | -20% | 20.2 | 11% | Moderate | Fair-to-demanding | Elevated |
 | OKLO | $8.42B | -42% | -57.4 | 0% | Low | Reasonable | High |
 | SMR | $4.03B | -79% | -15.7 | 0% | Low | Reasonable | High |
 | LEU | $3.76B | -18% | 52.7 | 10% | Low | Low (expensive) | High |
@@ -47,7 +47,7 @@
 | UEC | — | +15% | -112.6 | 0% | Low | Reasonable | High |
 | UUUU | $3.53B | +46% | 44.2 | -83% | Low | Low (expensive) | High |
 | BWXT | $15.57B | -5% | 32.4 | 10% | Low | Fair-to-demanding | Elevated |
-| FSLR | $26.87B | +35% | 10.9 | 32% | Moderate | Reasonable | High |
+| FSLR | $26.87B | +35% | 10.8 | 32% | Moderate | Reasonable | High |
 | ENPH | $5.53B | +39% | 18.2 | 10% | Moderate | Reasonable | High |
 | NEE | $176.58B | +23% | 19.2 | 32% | Low | Reasonable | Moderate |
 | RUN | $2.43B | +12% | 8.8 | 12% | Low | Reasonable | High |

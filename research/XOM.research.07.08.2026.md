@@ -128,6 +128,7 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-08-07 | main | TD Cowen | Buy → Buy |
 | 2026-08-04 | up | Freedom Broker | Sell → Hold |
 | 2026-07-28 | down | B of A Securities | Buy → Neutral |
 | 2026-07-09 | main | Mizuho | Neutral → Neutral |
@@ -135,7 +136,6 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 | 2026-06-29 | main | Morgan Stanley | Overweight → Overweight |
 | 2026-06-16 | up | B of A Securities | Neutral → Buy |
 | 2026-05-27 | main | Mizuho | Neutral → Neutral |
-| 2026-05-26 | main | Barclays | Overweight → Overweight |
 
 ## 9. Conclusion
 XOM: Moderate momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

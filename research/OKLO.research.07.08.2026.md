@@ -37,9 +37,9 @@ Oklo Inc. develops fission power plants to provide energy at scale to customers 
 | Headline | Source | Date |
 |---|---|---|
 | Earnings live updates: The Trade Desk stock plummets on earnings miss, Oklo jumps on 'criticality' milestone | Yahoo Finance | 2026-08-03 |
+| Oklo Inc. Q2 2026 Earnings Call Summary | Moby | 2026-08-07 |
+| Oklo Inc (OKLO) (Q2 2026) Earnings Call Highlights: Record Criticality Milestone and Strategic ... | GuruFocus.com | 2026-08-07 |
 | Sector Update: Energy Stocks Fall Late Afternoon | MT Newswires | 2026-08-07 |
-| Oklo Is Still Down 33% This Year. What Will It Take to Get OKLO Stock Back to $100? | 24/7 Wall St. | 2026-08-07 |
-| Oklo's Groves Reactor Just Achieved First Criticality. Here's What It Means for OKLO Stock. | Motley Fool | 2026-08-07 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

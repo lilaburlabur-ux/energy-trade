@@ -36,10 +36,10 @@ BWX Technologies, Inc. manufactures and sells nuclear components in the United S
 
 | Headline | Source | Date |
 |---|---|---|
+| Advance Auto Parts vs. BWX Technologies: Is an Auto Parts Retailer or a Nuclear Energy Pioneer the Better Buy in 2026? | Motley Fool | 2026-08-07 |
 | This Congresswoman Keeps Buying AI and Nuclear Stocks. Hedge Funds Are Split | Insider Monkey | 2026-08-07 |
 | 3 Nuclear Energy Stocks Powering the AI Boom in August | 24/7 Wall St. | 2026-08-07 |
 | Should BWX Technologies’ Guidance Hike and Medical Exit Reshape BWXT’s Nuclear‑Focused Investment Case? | Simply Wall St. | 2026-08-05 |
-| BWXT Q2 Earnings Call Centers on Higher Outlook and Nuclear Focus | Zacks | 2026-08-04 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

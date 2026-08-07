@@ -18,7 +18,7 @@ Signed file: `FSLR.research.07.08.2026`
 | Technical momentum | Moderate | 1Y +35.15%; price +6.66% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -21.43% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 32.46%, revenue growth -3.70%. |
-| Value attractiveness | Reasonable | Forward P/E 10.87, EV/Sales 4.59. |
+| Value attractiveness | Reasonable | Forward P/E 10.84, EV/Sales 4.59. |
 | Risk level | High | Beta 1.75, ATR 5.7% of price, short float 12.03%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: high.
@@ -68,7 +68,7 @@ First Solar, Inc., a solar technology company, provides photovoltaic (PV) solar 
 | Revenue (ttm) | $5.38B | Revenue growth -3.70% y/y |
 | Profitability | Gross 44.02%, operating 42.64%, net 32.46% | ROA 8.62%, ROE 18.51% |
 | Balance sheet | Cash $1.73B, debt $194.01M | Current ratio 2.52, debt/equity 1.88 |
-| Valuation | P/E 25.54, forward P/E 10.87, P/S 5.00, P/B 2.60 | EV/Sales 4.59, EV/EBITDA 10.35 |
+| Valuation | P/E 25.54, forward P/E 10.84, P/S 5.00, P/B 2.60 | EV/Sales 4.59, EV/EBITDA 10.35 |
 | Growth expectations | Earnings growth 23.30%, EPS q/q 23.60% | Analyst mean target $256.14 (29 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -122,7 +122,7 @@ First Solar, Inc., a solar technology company, provides photovoltaic (PV) solar 
 | 52W high | $318.25 | Revenue growth y/y | -3.70% |
 | 52W low | $180.05 | Inst. ownership | 98.12% |
 | P/E (ttm) | 25.54 | Insider ownership | 5.35% |
-| Forward P/E | 10.87 | Short float | 12.03% |
+| Forward P/E | 10.84 | Short float | 12.03% |
 | PEG (trailing) | 0.66 | Avg volume | 2,403,057 |
 | P/S | 5.00 | Employees | 7,900 |
 | P/B | 2.60 | Analyst rec (1=buy..5=sell) | 2.1 |

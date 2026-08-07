@@ -130,6 +130,7 @@ Targa Resources Corp., together with its subsidiaries, owns, operates, acquires,
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-08-07 | main | TD Cowen | Hold → Hold |
 | 2026-08-07 | main | Barclays | Overweight → Overweight |
 | 2026-08-07 | main | Wells Fargo | Overweight → Overweight |
 | 2026-07-16 | main | TD Cowen | Hold → Hold |
@@ -137,7 +138,6 @@ Targa Resources Corp., together with its subsidiaries, owns, operates, acquires,
 | 2026-07-13 | main | Barclays | Overweight → Overweight |
 | 2026-07-09 | main | JP Morgan | Overweight → Overweight |
 | 2026-06-23 | main | Barclays | Overweight → Overweight |
-| 2026-06-18 | init | Jefferies | — → Buy |
 
 ## 9. Conclusion
 TRGP: High momentum / mixed fundamentals / fair-to-demanding value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

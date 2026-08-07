@@ -18,7 +18,7 @@ Signed file: `NRG.research.07.08.2026`
 | Technical momentum | Low | Below SMA200 (-21.73%) with negative half-year (-17.67%). |
 | Fresh setup quality | Poor / broken | -35.38% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 2.56%, revenue growth 11.00%. |
-| Value attractiveness | Reasonable | Forward P/E 10.59, EV/Sales 1.48. |
+| Value attractiveness | Reasonable | Forward P/E 10.62, EV/Sales 1.48. |
 | Risk level | High | Beta 1.20, ATR 6.3% of price, short float 4.85%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: high.
@@ -36,10 +36,10 @@ NRG Energy, Inc., together with its subsidiaries, operates as an energy and home
 
 | Headline | Source | Date |
 |---|---|---|
+| S&P 500 Posts Weekly Gain as Tech Giants Surge | MT Newswires | 2026-08-07 |
 | Why Shares of NRG Energy Are Crashing This Week | Motley Fool | 2026-08-06 |
 | NRG Energy Q2 Earnings Call Focuses on Customer-Backed Power | Zacks | 2026-08-06 |
 | Clearway Energy (CWEN) Beats Q2 Earnings and Revenue Estimates | Zacks | 2026-08-05 |
-| Top Analyst Reports for Broadcom, Coca-Cola & Palantir | Zacks | 2026-08-05 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ NRG Energy, Inc., together with its subsidiaries, operates as an energy and home
 | Revenue (ttm) | $33.12B | Revenue growth 11.00% y/y |
 | Profitability | Gross 18.80%, operating 12.77%, net 2.56% | ROA 4.06%, ROE 23.77% |
 | Balance sheet | Cash $162.00M, debt $23.47B | Current ratio 0.97, debt/equity 483.36 |
-| Valuation | P/E 30.68, forward P/E 10.59, P/S 0.75, P/B 5.95 | EV/Sales 1.48, EV/EBITDA 15.06 |
+| Valuation | P/E 30.68, forward P/E 10.62, P/S 0.75, P/B 5.95 | EV/Sales 1.48, EV/EBITDA 15.06 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $194.18 (17 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -122,7 +122,7 @@ NRG Energy, Inc., together with its subsidiaries, operates as an energy and home
 | 52W high | $182.82 | Revenue growth y/y | 11.00% |
 | 52W low | $117.04 | Inst. ownership | 99.27% |
 | P/E (ttm) | 30.68 | Insider ownership | 4.42% |
-| Forward P/E | 10.59 | Short float | 4.85% |
+| Forward P/E | 10.62 | Short float | 4.85% |
 | PEG (trailing) | 0.53 | Avg volume | 2,647,674 |
 | P/S | 0.75 | Employees | 16,702 |
 | P/B | 5.95 | Analyst rec (1=buy..5=sell) | 1.6 |
