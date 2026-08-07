@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-08-07T20:18:52+00:00",
-  "as_of_local": "2026-08-07 20:18:52 UTC",
+  "as_of_utc": "2026-08-07T20:23:11+00:00",
+  "as_of_local": "2026-08-07 20:23:11 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -35,10 +35,10 @@
     {
       "symbol": "CVX",
       "name": "Chevron",
-      "price": 186.55,
+      "price": 186.56,
       "previous_close": 189.23,
-      "change_pct": -1.42,
-      "market_cap": 366011105987.5488,
+      "change_pct": -1.41,
+      "market_cap": 366030715209.96094,
       "headlines": [
         {
           "title": "SM Energy Q2 Earnings Beat Estimates on Strong Production Growth",
@@ -1930,8 +1930,8 @@
           "name": "Chevron Corp",
           "short": "Chevron",
           "weight_pct": 15.26,
-          "change_pct": -1.42,
-          "price": 186.55,
+          "change_pct": -1.41,
+          "price": 186.56,
           "currency": "USD"
         },
         {
@@ -2029,8 +2029,8 @@
         "name": "Chevron Corp",
         "short": "Chevron",
         "weight_pct": 15.26,
-        "change_pct": -1.42,
-        "price": 186.55,
+        "change_pct": -1.41,
+        "price": 186.56,
         "currency": "USD"
       },
       {
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 76.96,
-      "change_pct": -0.43
+      "price": 77.01,
+      "change_pct": -0.36
     },
     {
       "label": "Brent",
-      "price": 82.01,
-      "change_pct": -0.58
+      "price": 82.07,
+      "change_pct": -0.51
     },
     {
       "label": "NatGas",
       "price": 2.67,
-      "change_pct": 1.1
+      "change_pct": 1.21
     }
   ]
 }
