@@ -1114,7 +1114,7 @@ let bubbleIx=null;                  // bubble_index.json — AI bubble-risk inde
 let universe=null, uniGroup=null;  // universe.json — AI universe (count from meta.total_tickers) in themed sector bubbles
 let eco=null;                      // ecosystem.json — 30-name NVIDIA Ecosystem basket
 let newsFeed=null;                 // news.json — deduped headlines for the FULL scope (universe + ETFs)
-let tweets=null;                   // tweets.json — @DeItaone SPCX squawk via Telegram mirror
+let tweets=null;                   // tweets.json — @wallstengine squawk, our tickers only
 
 // short labels that fit inside small group bubbles (full label in tooltip/detail)
 const UNI_SHORT={
@@ -1396,7 +1396,16 @@ function renderNews(){
     items = allHeadlines().map(h=>({...h, tickers:[h.symbol], sectors:[]}));
   }
   const secLabel = id => id&&id.startsWith("etf_") ? id.replace("etf_","").toUpperCase()+" ETF" : (UNI_SHORT[id]||"");
-  document.getElementById("news").innerHTML=items.slice(0,18).map(h=>{
+  // @wallstengine squawk — server-side filtered to universe cashtags only
+  let squawk="";
+  if(tweets && tweets.items && tweets.items.length){
+    squawk = `<div class="spcx-srclbl">𝕏 ${tweets.meta.handle} · our tickers only</div>`
+      + tweets.items.slice(0,4).map(t=>`
+      <div class="spcx-tweet"><a href="${t.url}" target="_blank" rel="noopener">${t.text.length>200?t.text.slice(0,200)+"…":t.text}</a>
+        <div class="m">${(t.tickers||[]).map(k=>`<span class="chip">${k}</span>`).join("")} ${t.time?timeAgo(t.time):""}</div></div>`).join("")
+      + `<div class="spcx-srclbl" style="margin:10px 0 4px">Headlines</div>`;
+  }
+  document.getElementById("news").innerHTML=squawk+items.slice(0,18).map(h=>{
     const tks=(h.tickers||[]).slice(0,3).map(t=>`<span class="chip">${t}</span>`).join("");
     const more=(h.tickers||[]).length>3?`<span class="chip">+${h.tickers.length-3}</span>`:"";
     const secs=[...new Set((h.sectors||[]).map(secLabel).filter(Boolean))].slice(0,2).join(" · ");
@@ -1669,6 +1678,8 @@ async function loadData(){
     catch(e){ eco=null; }
     try{ newsFeed=await (await fetch("news.json?t="+Date.now())).json(); }
     catch(e){ newsFeed=null; }
+    try{ tweets=await (await fetch("tweets.json?t="+Date.now())).json(); }
+    catch(e){ tweets=null; }
     document.getElementById("asof").textContent="As of "+d.as_of_local;
     const ts=document.getElementById("tape-stats");
     window.tapeData=(d.tape||[]);
