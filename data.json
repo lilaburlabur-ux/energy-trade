@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-08-07T12:04:46+00:00",
-  "as_of_local": "2026-08-07 12:04:46 UTC",
+  "as_of_utc": "2026-08-07T12:09:28+00:00",
+  "as_of_local": "2026-08-07 12:09:28 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -209,6 +209,12 @@
       "market_cap": 142248010859.87677,
       "headlines": [
         {
+          "title": "Earnings live updates: The Trade Desk stock plummets on earnings miss, Wendy's cuts outlook",
+          "url": "https://finance.yahoo.com/markets/live/earnings-live-updates-130425228.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-08-03T13:04:25Z"
+        },
+        {
           "title": "Small caps are quietly outperforming the S&P 500 and 'Magnificent 7' this year: AlphaCheck",
           "url": "https://finance.yahoo.com/markets/article/small-caps-are-quietly-outperforming-the-sp-500-and-magnificent-7-this-year-alphacheck-143906754.html",
           "publisher": "Yahoo Finance",
@@ -219,12 +225,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/morning-bid-dealj-vu-104313750.html",
           "publisher": "Reuters",
           "published": "2026-08-07T10:43:13Z"
-        },
-        {
-          "title": "ConocoPhillips (COP) Names Andy O'Brien CEO To Succeed Ryan Lance In 2026",
-          "url": "https://finance.yahoo.com/energy/articles/conocophillips-cop-names-andy-obrien-061407573.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-08-07T06:14:07Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 76.6,
-      "change_pct": -0.89
+      "price": 76.73,
+      "change_pct": -0.72
     },
     {
       "label": "Brent",
-      "price": 81.7,
-      "change_pct": -0.96
+      "price": 81.83,
+      "change_pct": -0.8
     },
     {
       "label": "NatGas",
       "price": 2.64,
-      "change_pct": -0.04
+      "change_pct": 0.04
     }
   ]
 }
