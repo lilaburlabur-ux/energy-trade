@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-08-07T21:11:32+00:00",
-  "as_of_local": "2026-08-07 21:11:32 UTC",
+  "as_of_utc": "2026-08-07T21:48:53+00:00",
+  "as_of_local": "2026-08-07 21:48:53 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -150,7 +150,7 @@
       "price": 84.65,
       "previous_close": 84.6,
       "change_pct": 0.06,
-      "market_cap": 176546496737.08124,
+      "market_cap": 176578058574.80014,
       "headlines": [
         {
           "title": "PPL Q2 Earnings Miss Estimates on Higher Costs, Revenues Increase Y/Y",
@@ -178,7 +178,7 @@
       "price": 448.68,
       "previous_close": 448.19,
       "change_pct": 0.11,
-      "market_cap": 174222441156.00586,
+      "market_cap": 174267309155.27344,
       "headlines": [
         {
           "title": "Dana Incorporated Q2 2026 Earnings Call Summary",
@@ -425,34 +425,6 @@
       ]
     },
     {
-      "symbol": "MPC",
-      "name": "Marathon Petroleum",
-      "price": 298.2,
-      "previous_close": 299.25,
-      "change_pct": -0.35,
-      "market_cap": 87055508120.67963,
-      "headlines": [
-        {
-          "title": "MPC Q2 Earnings Call Highlights Refining Capture and Cash Returns",
-          "url": "https://finance.yahoo.com/energy/articles/mpc-q2-earnings-call-highlights-140000655.html",
-          "publisher": "Zacks",
-          "published": "2026-08-05T14:00:00Z"
-        },
-        {
-          "title": "Oil Refiners Are Quietly Printing Money. This Company\u2019s Earnings Jumped 975%",
-          "url": "https://finance.yahoo.com/energy/articles/oil-refiners-quietly-printing-money-133011627.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-08-05T13:30:11Z"
-        },
-        {
-          "title": "Marathon Petroleum (MPC) Q2 Earnings: How Key Metrics Compare to Wall Street Estimates",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/marathon-petroleum-mpc-q2-earnings-133005918.html",
-          "publisher": "Zacks",
-          "published": "2026-08-05T13:30:05Z"
-        }
-      ]
-    },
-    {
       "symbol": "WMB",
       "name": "Williams Companies",
       "price": 70.4,
@@ -505,6 +477,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/quanta-builders-firstsource-highlighted-zacks-134500942.html",
           "publisher": "Zacks",
           "published": "2026-08-07T13:45:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "MPC",
+      "name": "Marathon Petroleum",
+      "price": 298.2,
+      "previous_close": 299.25,
+      "change_pct": -0.35,
+      "market_cap": 83741947754.63666,
+      "headlines": [
+        {
+          "title": "MPC Q2 Earnings Call Highlights Refining Capture and Cash Returns",
+          "url": "https://finance.yahoo.com/energy/articles/mpc-q2-earnings-call-highlights-140000655.html",
+          "publisher": "Zacks",
+          "published": "2026-08-05T14:00:00Z"
+        },
+        {
+          "title": "Oil Refiners Are Quietly Printing Money. This Company\u2019s Earnings Jumped 975%",
+          "url": "https://finance.yahoo.com/energy/articles/oil-refiners-quietly-printing-money-133011627.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-08-05T13:30:11Z"
+        },
+        {
+          "title": "Marathon Petroleum (MPC) Q2 Earnings: How Key Metrics Compare to Wall Street Estimates",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/marathon-petroleum-mpc-q2-earnings-133005918.html",
+          "publisher": "Zacks",
+          "published": "2026-08-05T13:30:05Z"
         }
       ]
     },
@@ -593,34 +593,6 @@
       ]
     },
     {
-      "symbol": "EOG",
-      "name": "EOG Resources",
-      "price": 134.74,
-      "previous_close": 136.2,
-      "change_pct": -1.07,
-      "market_cap": 71766371058.0159,
-      "headlines": [
-        {
-          "title": "EOG Q2 Earnings Call Highlights UAE Progress & Cost Discipline",
-          "url": "https://finance.yahoo.com/energy/articles/eog-q2-earnings-call-highlights-140000420.html",
-          "publisher": "Zacks",
-          "published": "2026-08-06T14:00:00Z"
-        },
-        {
-          "title": "EOG Q2 Earnings Beat Estimates on Higher Volumes & Prices",
-          "url": "https://finance.yahoo.com/energy/articles/eog-q2-earnings-beat-estimates-150200833.html",
-          "publisher": "Zacks",
-          "published": "2026-08-05T15:02:00Z"
-        },
-        {
-          "title": "EOG Resources, Inc. Q2 2026 Earnings Call Summary",
-          "url": "https://finance.yahoo.com/energy/articles/eog-resources-inc-q2-2026-123000704.html",
-          "publisher": "Moby",
-          "published": "2026-08-05T12:30:00Z"
-        }
-      ]
-    },
-    {
       "symbol": "SU",
       "name": "Suncor Energy",
       "price": 60.1,
@@ -649,12 +621,40 @@
       ]
     },
     {
+      "symbol": "EOG",
+      "name": "EOG Resources",
+      "price": 134.74,
+      "previous_close": 136.2,
+      "change_pct": -1.07,
+      "market_cap": 70675064055.56482,
+      "headlines": [
+        {
+          "title": "EOG Q2 Earnings Call Highlights UAE Progress & Cost Discipline",
+          "url": "https://finance.yahoo.com/energy/articles/eog-q2-earnings-call-highlights-140000420.html",
+          "publisher": "Zacks",
+          "published": "2026-08-06T14:00:00Z"
+        },
+        {
+          "title": "EOG Q2 Earnings Beat Estimates on Higher Volumes & Prices",
+          "url": "https://finance.yahoo.com/energy/articles/eog-q2-earnings-beat-estimates-150200833.html",
+          "publisher": "Zacks",
+          "published": "2026-08-05T15:02:00Z"
+        },
+        {
+          "title": "EOG Resources, Inc. Q2 2026 Earnings Call Summary",
+          "url": "https://finance.yahoo.com/energy/articles/eog-resources-inc-q2-2026-123000704.html",
+          "publisher": "Moby",
+          "published": "2026-08-05T12:30:00Z"
+        }
+      ]
+    },
+    {
       "symbol": "ET",
       "name": "Energy Transfer",
       "price": 20.13,
       "previous_close": 20.67,
       "change_pct": -2.61,
-      "market_cap": 69270533358.0742,
+      "market_cap": 69313626110.26764,
       "headlines": [
         {
           "title": "Can WMB's Momentum Deal Power 11% Growth Through 2030 and Beyond?",
@@ -741,6 +741,12 @@
       "market_cap": 61099088312.69978,
       "headlines": [
         {
+          "title": "C3.ai vs. Applied Digital: Which Artificial Intelligence Stock Is a Better Buy in 2026?",
+          "url": "https://finance.yahoo.com/technology/ai/articles/c3-ai-vs-applied-digital-210701196.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-07T21:07:01Z"
+        },
+        {
           "title": "Sector Update: Energy Stocks Decline Friday Afternoon",
           "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-decline-friday-174624121.html",
           "publisher": "MT Newswires",
@@ -751,12 +757,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/cactus-worth-buying-growth-accelerates-174400748.html",
           "publisher": "Zacks",
           "published": "2026-08-07T17:44:00Z"
-        },
-        {
-          "title": "US Oil Drillers Add Rigs",
-          "url": "https://finance.yahoo.com/energy/articles/us-oil-drillers-add-rigs-171400610.html",
-          "publisher": "Oilprice.com",
-          "published": "2026-08-07T17:14:00Z"
         }
       ]
     },
@@ -878,7 +878,7 @@
       "price": 86.42,
       "previous_close": 87.93,
       "change_pct": -1.72,
-      "market_cap": 54447437916.21539,
+      "market_cap": 54476545467.89867,
       "headlines": [
         {
           "title": "Top Research Reports for Apple, Shell & Toyota Motor",
@@ -1074,7 +1074,7 @@
       "price": 75.66,
       "previous_close": 75.04,
       "change_pct": 0.83,
-      "market_cap": 37702999100.22748,
+      "market_cap": 37710461295.068665,
       "headlines": [
         {
           "title": "PSEG (PEG) Stock Looks Reasonable On Dividends But Richer On Earnings",
@@ -1385,6 +1385,12 @@
       "market_cap": 15566573842.783813,
       "headlines": [
         {
+          "title": "Advance Auto Parts vs. BWX Technologies: Is an Auto Parts Retailer or a Nuclear Energy Pioneer the Better Buy in 2026?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/advance-auto-parts-vs-bwx-211201318.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-07T21:12:01Z"
+        },
+        {
           "title": "This Congresswoman Keeps Buying AI and Nuclear Stocks. Hedge Funds Are Split",
           "url": "https://finance.yahoo.com/markets/stocks/articles/congresswoman-keeps-buying-ai-nuclear-141952283.html",
           "publisher": "Insider Monkey",
@@ -1395,12 +1401,6 @@
           "url": "https://finance.yahoo.com/energy/articles/3-nuclear-energy-stocks-powering-110029328.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-08-07T11:00:29Z"
-        },
-        {
-          "title": "Should BWX Technologies\u2019 Guidance Hike and Medical Exit Reshape BWXT\u2019s Nuclear\u2011Focused Investment Case?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bwx-technologies-guidance-hike-medical-051108436.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-08-05T05:11:08Z"
         }
       ]
     },
@@ -1494,7 +1494,7 @@
       "price": 33.2,
       "previous_close": 32.73,
       "change_pct": 1.44,
-      "market_cap": 10068762269.381199,
+      "market_cap": 9963706212.167,
       "headlines": [
         {
           "title": "The AI-adjacent portfolio: Six Canadians stocks that could benefit from the AI buildout",
@@ -1531,16 +1531,16 @@
           "published": "2026-08-03T13:04:25Z"
         },
         {
+          "title": "Oklo Inc. Q2 2026 Earnings Call Summary",
+          "url": "https://finance.yahoo.com/energy/articles/oklo-inc-q2-2026-earnings-212453604.html",
+          "publisher": "Moby",
+          "published": "2026-08-07T21:24:53Z"
+        },
+        {
           "title": "Oklo Inc (OKLO) (Q2 2026) Earnings Call Highlights: Record Criticality Milestone and Strategic ...",
           "url": "https://finance.yahoo.com/technology/ai/articles/oklo-inc-oklo-q2-2026-210149204.html",
           "publisher": "GuruFocus.com",
           "published": "2026-08-07T21:01:49Z"
-        },
-        {
-          "title": "Sector Update: Energy Stocks Fall Late Afternoon",
-          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-fall-afternoon-195812887.html",
-          "publisher": "MT Newswires",
-          "published": "2026-08-07T19:58:12Z"
         }
       ]
     },
@@ -1634,7 +1634,7 @@
       "price": 11.26,
       "previous_close": 10.76,
       "change_pct": 4.65,
-      "market_cap": 5519886128.782633,
+      "market_cap": 5572262954.427296,
       "headlines": [
         {
           "title": "LEU's Q2 Earnings Beat, Revenues up Y/Y on Strong Uranium Sales",
@@ -1662,7 +1662,7 @@
       "price": 41.87,
       "previous_close": 39.67,
       "change_pct": 5.55,
-      "market_cap": 5518391330.624313,
+      "market_cap": 5532896270.614288,
       "headlines": [
         {
           "title": "Solar stocks pop on Trump tariffs: AlphaSpace heat map breakdown",
