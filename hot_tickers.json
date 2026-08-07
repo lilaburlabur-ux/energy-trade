@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-07T20:07:06+00:00",
+  "as_of": "2026-08-07T20:56:57+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,11 +11,11 @@
    "rank": 1,
    "ticker": "OKLO",
    "company": "Oklo Inc.",
-   "move_pct": 14.01,
-   "price": 48.1,
+   "move_pct": 14.36,
+   "price": 48.25,
    "volume": 18859180,
    "volume_vs_avg": "~2x",
-   "heat_score": 84,
+   "heat_score": 86,
    "direction": "up",
    "why": "Oklo Is Still Down 33% This Year. What Will It Take to Get OKLO Stock Back to $100?",
    "catalyst_type": "momentum_narrative",
@@ -27,8 +27,8 @@
    "rank": 2,
    "ticker": "RUN",
    "company": "Sunrun Inc.",
-   "move_pct": 8.74,
-   "price": 10.2,
+   "move_pct": 8.64,
+   "price": 10.19,
    "volume": 11556173,
    "volume_vs_avg": "~1.1x",
    "heat_score": 61,
@@ -38,22 +38,6 @@
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/sunrun-run-q2-earnings-key-180002995.html",
    "published": "2026-08-07T18:00:02Z",
    "sector": "Renewables & Solar"
-  },
-  {
-   "rank": 3,
-   "ticker": "LEU",
-   "company": "Centrus Energy Corp.",
-   "move_pct": 7.48,
-   "price": 191.35,
-   "volume": 545083,
-   "volume_vs_avg": "~0.7x",
-   "heat_score": 45,
-   "direction": "up",
-   "why": "LEU Q2 Earnings Call Highlights Backlog and 2029 Build-Out",
-   "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/energy/articles/leu-q2-earnings-call-highlights-165500336.html",
-   "published": "2026-08-07T16:55:00Z",
-   "sector": "Nuclear & Uranium"
   }
  ]
 }
