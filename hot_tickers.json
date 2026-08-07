@@ -1,10 +1,27 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-07T12:27:08+00:00",
+  "as_of": "2026-08-07T13:48:09+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": []
+ "hot_tickers": [
+  {
+   "rank": 1,
+   "ticker": "FSLR",
+   "company": "First Solar, Inc.",
+   "move_pct": 8.25,
+   "price": 264.27,
+   "volume": 1043347,
+   "volume_vs_avg": "~0.5x",
+   "heat_score": 56,
+   "direction": "up",
+   "why": "First Solar Shares Jump After Trump Introduces New Tariffs on Solar Imports",
+   "catalyst_type": "regulatory",
+   "source_url": "https://finance.yahoo.com/economy/policy/articles/first-solar-shares-jump-trump-103557408.html",
+   "published": "2026-08-07T10:35:57Z",
+   "sector": "Renewables & Solar"
+  }
+ ]
 }
