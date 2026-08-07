@@ -39,9 +39,6 @@ jobs:
       - name: Refresh universe quotes
         run: python update_universe.py
 
-      - name: Refresh NVIDIA Ecosystem
-        run: python update_ecosystem.py
-
       - name: Render OG preview image (today's movers)
         run: python make_og.py || true
 
