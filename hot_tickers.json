@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-07T18:29:00+00:00",
+  "as_of": "2026-08-07T19:30:00+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,16 +11,32 @@
    "rank": 1,
    "ticker": "OKLO",
    "company": "Oklo Inc.",
-   "move_pct": 15.22,
-   "price": 48.61,
-   "volume": 14700086,
+   "move_pct": 16.79,
+   "price": 49.28,
+   "volume": 16519445,
    "volume_vs_avg": "~2x",
-   "heat_score": 85,
+   "heat_score": 86,
    "direction": "up",
    "why": "Oklo Is Still Down 33% This Year. What Will It Take to Get OKLO Stock Back to $100?",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/oklo-still-down-33-oklo-172734008.html",
    "published": "2026-08-07T17:27:34Z",
+   "sector": "Nuclear & Uranium"
+  },
+  {
+   "rank": 2,
+   "ticker": "LEU",
+   "company": "Centrus Energy Corp.",
+   "move_pct": 7.38,
+   "price": 191.17,
+   "volume": 420990,
+   "volume_vs_avg": "~0.5x",
+   "heat_score": 43,
+   "direction": "up",
+   "why": "LEU Q2 Earnings Call Highlights Backlog and 2029 Build-Out",
+   "catalyst_type": "earnings",
+   "source_url": "https://finance.yahoo.com/energy/articles/leu-q2-earnings-call-highlights-165500336.html",
+   "published": "2026-08-07T16:55:00Z",
    "sector": "Nuclear & Uranium"
   }
  ]
