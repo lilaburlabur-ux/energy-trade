@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-08-07T11:22:56+00:00",
-  "as_of_local": "2026-08-07 11:22:56 UTC",
+  "as_of_utc": "2026-08-07T11:25:08+00:00",
+  "as_of_local": "2026-08-07 11:25:08 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -1889,6 +1889,12 @@
       "market_cap": 807588484.5,
       "headlines": [
         {
+          "title": "Array Technologies, Inc. Q2 2026 Earnings Call Summary",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/array-technologies-inc-q2-2026-123000391.html",
+          "publisher": "Moby",
+          "published": "2026-08-06T12:30:00Z"
+        },
+        {
           "title": "Array Technologies, Inc. (ARRY) Q2 Earnings and Revenues Surpass Estimates",
           "url": "https://finance.yahoo.com/markets/stocks/articles/array-technologies-inc-arry-q2-003516794.html",
           "publisher": "Zacks",
@@ -1899,12 +1905,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/array-nasdaq-arry-posts-better-214017495.html",
           "publisher": "StockStory",
           "published": "2026-08-05T21:40:17Z"
-        },
-        {
-          "title": "Solar Stocks Tumble After SolarEdge Posts Weak Q3 Outlook",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/solar-stocks-tumble-solaredge-posts-172456563.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-08-05T17:24:56Z"
         }
       ]
     }
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 76.76,
-      "change_pct": -0.69
+      "price": 76.86,
+      "change_pct": -0.56
     },
     {
       "label": "Brent",
-      "price": 81.81,
-      "change_pct": -0.82
+      "price": 81.9,
+      "change_pct": -0.72
     },
     {
       "label": "NatGas",
       "price": 2.64,
-      "change_pct": -0.08
+      "change_pct": -0.11
     }
   ]
 }
