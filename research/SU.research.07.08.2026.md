@@ -1,11 +1,11 @@
 # SU Research Report
-**Suncor Energy Inc.** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**Suncor Energy** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `SU.research.07.08.2026`
 
 | Field | Value |
 |---|---|
 | Current price | $61.35 (2026-08-07, ~15-min delayed) |
-| Market cap | $72.44B |
+| Market cap | — |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
 | Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated. |
@@ -68,7 +68,7 @@ Suncor Energy Inc. operates as an integrated energy company in Canada, the Unite
 | Revenue (ttm) | $56.57B | Revenue growth 45.90% y/y |
 | Profitability | Gross 60.40%, operating 29.94%, net 15.78% | ROA 8.58%, ROE 19.25% |
 | Balance sheet | Cash $5.37B, debt $14.68B | Current ratio 1.65, debt/equity 30.48 |
-| Valuation | P/E 11.51, forward P/E 10.95, P/S 1.28, P/B 2.23 | EV/Sales 1.46, EV/EBITDA 4.24 |
+| Valuation | P/E 11.51, forward P/E 10.95, P/S —, P/B 2.23 | EV/Sales 1.46, EV/EBITDA 4.24 |
 | Growth expectations | Earnings growth 241.90%, EPS q/q 229.10% | Analyst mean target $70.41 (3 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -111,7 +111,7 @@ Suncor Energy Inc. operates as an integrated energy company in Canada, the Unite
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $61.35 | EV/Sales | 1.46 |
-| Market cap | $72.44B | EV/EBITDA | 4.24 |
+| Market cap | — | EV/EBITDA | 4.24 |
 | Beta | 0.57 | Gross margin | 60.40% |
 | RSI(14) | 45.4 | Operating margin | 29.94% |
 | ATR(14) | 1.87 | Profit margin | 15.78% |
@@ -123,7 +123,7 @@ Suncor Energy Inc. operates as an integrated energy company in Canada, the Unite
 | P/E (ttm) | 11.51 | Insider ownership | 0.01% |
 | Forward P/E | 10.95 | Short float | — |
 | PEG (trailing) | — | Avg volume | 4,245,196 |
-| P/S | 1.28 | Employees | 15,424 |
+| P/S | — | Employees | 15,424 |
 | P/B | 2.23 | Analyst rec (1=buy..5=sell) | 2.0 |
 
 ## 8. Analyst Actions

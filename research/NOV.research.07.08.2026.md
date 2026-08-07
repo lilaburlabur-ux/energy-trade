@@ -1,5 +1,5 @@
 # NOV Research Report
-**NOV Inc.** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**NOV Inc** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `NOV.research.07.08.2026`
 
 | Field | Value |

@@ -18,7 +18,7 @@ Signed file: `BP.research.07.08.2026`
 | Technical momentum | Moderate | 1Y +32.46%; price +7.18% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -10.32% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 2.55%, revenue growth 48.20%. |
-| Value attractiveness | Reasonable | Forward P/E 10.24, EV/Sales 2.23. |
+| Value attractiveness | Reasonable | Forward P/E 10.24, EV/Sales 2.28. |
 | Risk level | Moderate | Beta -0.21, ATR 2.8% of price, short float 0.49%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -68,7 +68,7 @@ BP p.l.c., an integrated energy company, engages in the oil and gas business wor
 | Revenue (ttm) | $215.47B | Revenue growth 48.20% y/y |
 | Profitability | Gross 28.30%, operating 13.15%, net 2.55% | ROA 5.04%, ROE 8.87% |
 | Balance sheet | Cash $37.23B, debt $72.69B | Current ratio 1.27, debt/equity 95.12 |
-| Valuation | P/E 20.21, forward P/E 10.24, P/S 0.50, P/B 7.78 | EV/Sales 2.23, EV/EBITDA 12.24 |
+| Valuation | P/E 20.21, forward P/E 10.24, P/S 0.50, P/B 7.48 | EV/Sales 2.28, EV/EBITDA 12.51 |
 | Growth expectations | Earnings growth 138.90%, EPS q/q 140.10% | Analyst mean target $47.27 (18 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -109,8 +109,8 @@ BP p.l.c., an integrated energy company, engages in the oil and gas business wor
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $42.23 | EV/Sales | 2.23 |
-| Market cap | $108.76B | EV/EBITDA | 12.24 |
+| Price | $42.23 | EV/Sales | 2.28 |
+| Market cap | $108.76B | EV/EBITDA | 12.51 |
 | Beta | -0.21 | Gross margin | 28.30% |
 | RSI(14) | 50.9 | Operating margin | 13.15% |
 | ATR(14) | 1.18 | Profit margin | 2.55% |
@@ -123,7 +123,7 @@ BP p.l.c., an integrated energy company, engages in the oil and gas business wor
 | Forward P/E | 10.24 | Short float | 0.49% |
 | PEG (trailing) | 0.04 | Avg volume | 8,996,946 |
 | P/S | 0.50 | Employees | 93,700 |
-| P/B | 7.78 | Analyst rec (1=buy..5=sell) | 2.5 |
+| P/B | 7.48 | Analyst rec (1=buy..5=sell) | 2.5 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

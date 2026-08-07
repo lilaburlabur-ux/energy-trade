@@ -1,11 +1,11 @@
 # UEC Research Report
-**Uranium Energy Corp.** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**Uranium Energy Corp** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `UEC.research.07.08.2026`
 
 | Field | Value |
 |---|---|
 | Current price | $10.76 (2026-08-07, ~15-min delayed) |
-| Market cap | $5.27B |
+| Market cap | — |
 | Sector / Industry | Energy / Uranium |
 | Main theme | Uranium — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: high. |
@@ -68,7 +68,7 @@ Uranium Energy Corp., together with its subsidiaries, engages in exploration, pr
 | Revenue (ttm) | $20.20M | Revenue growth — y/y |
 | Profitability | Gross 0.00%, operating -629.66%, net 0.00% | ROA -6.25%, ROE -8.96% |
 | Balance sheet | Cash $488.05M, debt $1.91M | Current ratio 32.67, debt/equity 0.14 |
-| Valuation | P/E —, forward P/E -107.60, P/S 261.13, P/B 3.73 | EV/Sales 239.54, EV/EBITDA -40.07 |
+| Valuation | P/E —, forward P/E -107.60, P/S —, P/B — | EV/Sales 239.54, EV/EBITDA -40.07 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $18.03 (9 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -113,7 +113,7 @@ Uranium Energy Corp., together with its subsidiaries, engages in exploration, pr
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $10.76 | EV/Sales | 239.54 |
-| Market cap | $5.27B | EV/EBITDA | -40.07 |
+| Market cap | — | EV/EBITDA | -40.07 |
 | Beta | 1.21 | Gross margin | 0.00% |
 | RSI(14) | 55.7 | Operating margin | -629.66% |
 | ATR(14) | 0.64 | Profit margin | 0.00% |
@@ -125,8 +125,8 @@ Uranium Energy Corp., together with its subsidiaries, engages in exploration, pr
 | P/E (ttm) | — | Insider ownership | 1.86% |
 | Forward P/E | -107.60 | Short float | 14.14% |
 | PEG (trailing) | — | Avg volume | 10,035,195 |
-| P/S | 261.13 | Employees | 171 |
-| P/B | 3.73 | Analyst rec (1=buy..5=sell) | — |
+| P/S | — | Employees | 171 |
+| P/B | — | Analyst rec (1=buy..5=sell) | — |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

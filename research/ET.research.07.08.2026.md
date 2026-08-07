@@ -5,7 +5,7 @@ Signed file: `ET.research.07.08.2026`
 | Field | Value |
 |---|---|
 | Current price | $20.67 (2026-08-07, ~15-min delayed) |
-| Market cap | $71.13B |
+| Market cap | $71.17B |
 | Sector / Industry | Energy / Oil & Gas Midstream |
 | Main theme | Oil & Gas Midstream — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -18,7 +18,7 @@ Signed file: `ET.research.07.08.2026`
 | Technical momentum | Moderate | 1Y +25.60%; price +14.25% vs SMA200. |
 | Fresh setup quality | Watch | +0.00% from 52w high and near SMA20 — check for a tight base. |
 | Fundamental quality | Mixed | Profit margin 4.92%, revenue growth 78.40%. |
-| Value attractiveness | Reasonable | Forward P/E 12.97, EV/Sales —. |
+| Value attractiveness | Reasonable | Forward P/E 13.17, EV/Sales —. |
 | Risk level | Moderate | Beta 0.56, ATR 1.7% of price, short float 1.09%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -68,7 +68,7 @@ Energy Transfer LP, together with its subsidiaries, provides energy-related serv
 | Revenue (ttm) | $107.38B | Revenue growth 78.40% y/y |
 | Profitability | Gross 17.51%, operating 10.41%, net 4.92% | ROA 5.06%, ROE 14.56% |
 | Balance sheet | Cash —, debt $70.01B | Current ratio 1.16, debt/equity 137.88 |
-| Valuation | P/E 17.22, forward P/E 12.97, P/S 0.66, P/B 2.29 | EV/Sales —, EV/EBITDA — |
+| Valuation | P/E 17.22, forward P/E 13.17, P/S 0.66, P/B 2.29 | EV/Sales —, EV/EBITDA — |
 | Growth expectations | Earnings growth 85.30%, EPS q/q 79.50% | Analyst mean target $23.95 (21 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -111,7 +111,7 @@ Energy Transfer LP, together with its subsidiaries, provides energy-related serv
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $20.67 | EV/Sales | — |
-| Market cap | $71.13B | EV/EBITDA | — |
+| Market cap | $71.17B | EV/EBITDA | — |
 | Beta | 0.56 | Gross margin | 17.51% |
 | RSI(14) | 66.1 | Operating margin | 10.41% |
 | ATR(14) | 0.35 | Profit margin | 4.92% |
@@ -121,7 +121,7 @@ Energy Transfer LP, together with its subsidiaries, provides energy-related serv
 | 52W high | $20.67 | Revenue growth y/y | 78.40% |
 | 52W low | $15.41 | Inst. ownership | 32.03% |
 | P/E (ttm) | 17.22 | Insider ownership | 10.29% |
-| Forward P/E | 12.97 | Short float | 1.09% |
+| Forward P/E | 13.17 | Short float | 1.09% |
 | PEG (trailing) | 0.61 | Avg volume | 9,249,468 |
 | P/S | 0.66 | Employees | 22,311 |
 | P/B | 2.29 | Analyst rec (1=buy..5=sell) | 1.4 |

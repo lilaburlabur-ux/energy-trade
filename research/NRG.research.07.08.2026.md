@@ -1,11 +1,11 @@
 # NRG Research Report
-**NRG Energy, Inc.** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**NRG Energy** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `NRG.research.07.08.2026`
 
 | Field | Value |
 |---|---|
 | Current price | $119.05 (2026-08-07, ~15-min delayed) |
-| Market cap | $25.12B |
+| Market cap | — |
 | Sector / Industry | Utilities / Utilities - Independent Power Producers |
 | Main theme | Utilities - Independent Power Producers — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: high. |
@@ -68,7 +68,7 @@ NRG Energy, Inc., together with its subsidiaries, operates as an energy and home
 | Revenue (ttm) | $33.12B | Revenue growth 11.00% y/y |
 | Profitability | Gross 18.80%, operating 12.77%, net 2.56% | ROA 4.06%, ROE 23.77% |
 | Balance sheet | Cash $162.00M, debt $23.47B | Current ratio 0.97, debt/equity 483.36 |
-| Valuation | P/E 31.00, forward P/E 10.58, P/S 0.76, P/B 6.00 | EV/Sales 1.48, EV/EBITDA 15.06 |
+| Valuation | P/E 31.00, forward P/E 10.58, P/S —, P/B 6.00 | EV/Sales 1.48, EV/EBITDA 15.06 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $195.82 (17 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -112,7 +112,7 @@ NRG Energy, Inc., together with its subsidiaries, operates as an energy and home
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $119.05 | EV/Sales | 1.48 |
-| Market cap | $25.12B | EV/EBITDA | 15.06 |
+| Market cap | — | EV/EBITDA | 15.06 |
 | Beta | 1.20 | Gross margin | 18.80% |
 | RSI(14) | 39.1 | Operating margin | 12.77% |
 | ATR(14) | 7.65 | Profit margin | 2.56% |
@@ -124,7 +124,7 @@ NRG Energy, Inc., together with its subsidiaries, operates as an energy and home
 | P/E (ttm) | 31.00 | Insider ownership | 4.42% |
 | Forward P/E | 10.58 | Short float | 4.85% |
 | PEG (trailing) | 0.53 | Avg volume | 2,676,131 |
-| P/S | 0.76 | Employees | 16,702 |
+| P/S | — | Employees | 16,702 |
 | P/B | 6.00 | Analyst rec (1=buy..5=sell) | 1.6 |
 
 ## 8. Analyst Actions

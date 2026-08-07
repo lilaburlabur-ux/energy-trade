@@ -1,11 +1,11 @@
 # BEP Research Report
-**Brookfield Renewable Partners L.P.** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**Brookfield Renewable** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `BEP.research.07.08.2026`
 
 | Field | Value |
 |---|---|
 | Current price | $32.73 (2026-08-07, ~15-min delayed) |
-| Market cap | $15.96B |
+| Market cap | $15.92B |
 | Sector / Industry | Utilities / Utilities - Renewable |
 | Main theme | Utilities - Renewable — see catalysts below |
 | Current stance | Moderate technical momentum, weak fundamentals, value: reasonable, risk: elevated. |
@@ -68,7 +68,7 @@ Brookfield Renewable Partners L.P. owns a portfolio of renewable power generatin
 | Revenue (ttm) | $6.36B | Revenue growth 1.10% y/y |
 | Profitability | Gross 51.39%, operating 17.08%, net -1.26% | ROA 0.42%, ROE 0.40% |
 | Balance sheet | Cash $2.69B, debt $37.72B | Current ratio 0.80, debt/equity 105.23 |
-| Valuation | P/E —, forward P/E -18.35, P/S 2.51, P/B 2.69 | EV/Sales 13.21, EV/EBITDA 28.00 |
+| Valuation | P/E —, forward P/E -18.35, P/S 2.50, P/B 2.69 | EV/Sales 13.21, EV/EBITDA 28.00 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $36.17 (12 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -112,7 +112,7 @@ Brookfield Renewable Partners L.P. owns a portfolio of renewable power generatin
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $32.73 | EV/Sales | 13.21 |
-| Market cap | $15.96B | EV/EBITDA | 28.00 |
+| Market cap | $15.92B | EV/EBITDA | 28.00 |
 | Beta | 0.99 | Gross margin | 51.39% |
 | RSI(14) | 47.5 | Operating margin | 17.08% |
 | ATR(14) | 1.13 | Profit margin | -1.26% |
@@ -124,7 +124,7 @@ Brookfield Renewable Partners L.P. owns a portfolio of renewable power generatin
 | P/E (ttm) | — | Insider ownership | 0.02% |
 | Forward P/E | -18.35 | Short float | 0.40% |
 | PEG (trailing) | — | Avg volume | 875,581 |
-| P/S | 2.51 | Employees | 5,870 |
+| P/S | 2.50 | Employees | 5,870 |
 | P/B | 2.69 | Analyst rec (1=buy..5=sell) | 2.3 |
 
 ## 8. Analyst Actions

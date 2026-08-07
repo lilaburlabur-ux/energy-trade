@@ -1,5 +1,5 @@
 # FTI Research Report
-**TechnipFMC plc** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**TechnipFMC** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `FTI.research.07.08.2026`
 
 | Field | Value |

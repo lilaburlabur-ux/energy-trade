@@ -5,7 +5,7 @@ Signed file: `OKE.research.07.08.2026`
 | Field | Value |
 |---|---|
 | Current price | $87.93 (2026-08-07, ~15-min delayed) |
-| Market cap | $55.40B |
+| Market cap | $55.43B |
 | Sector / Industry | Energy / Oil & Gas Midstream |
 | Main theme | Oil & Gas Midstream — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -18,7 +18,7 @@ Signed file: `OKE.research.07.08.2026`
 | Technical momentum | Moderate | 1Y +22.46%; price +9.54% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -6.57% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 9.29%, revenue growth 52.80%. |
-| Value attractiveness | Reasonable | Forward P/E 13.95, EV/Sales 2.25. |
+| Value attractiveness | Reasonable | Forward P/E 14.09, EV/Sales 2.25. |
 | Risk level | Moderate | Beta 0.71, ATR 2.8% of price, short float 4.64%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -68,7 +68,7 @@ ONEOK, Inc. operates as a midstream service provider of gathering, processing, f
 | Revenue (ttm) | $39.37B | Revenue growth 52.80% y/y |
 | Profitability | Gross 27.21%, operating 13.25%, net 9.29% | ROA 5.77%, ROE 16.28% |
 | Balance sheet | Cash $161.00M, debt $33.02B | Current ratio 0.74, debt/equity 143.07 |
-| Valuation | P/E 15.67, forward P/E 13.95, P/S 1.41, P/B 2.48 | EV/Sales 2.25, EV/EBITDA 11.53 |
+| Valuation | P/E 15.19, forward P/E 14.09, P/S 1.41, P/B 2.48 | EV/Sales 2.25, EV/EBITDA 11.53 |
 | Growth expectations | Earnings growth 14.20%, EPS q/q 14.90% | Analyst mean target $96.14 (21 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -111,7 +111,7 @@ ONEOK, Inc. operates as a midstream service provider of gathering, processing, f
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $87.93 | EV/Sales | 2.25 |
-| Market cap | $55.40B | EV/EBITDA | 11.53 |
+| Market cap | $55.43B | EV/EBITDA | 11.53 |
 | Beta | 0.71 | Gross margin | 27.21% |
 | RSI(14) | 46.7 | Operating margin | 13.25% |
 | ATR(14) | 2.48 | Profit margin | 9.29% |
@@ -120,8 +120,8 @@ ONEOK, Inc. operates as a midstream service provider of gathering, processing, f
 | SMA200 dist | +9.54% | Revenue (ttm) | $39.37B |
 | 52W high | $94.12 | Revenue growth y/y | 52.80% |
 | 52W low | $61.95 | Inst. ownership | 84.08% |
-| P/E (ttm) | 15.67 | Insider ownership | 0.15% |
-| Forward P/E | 13.95 | Short float | 4.64% |
+| P/E (ttm) | 15.19 | Insider ownership | 0.15% |
+| Forward P/E | 14.09 | Short float | 4.64% |
 | PEG (trailing) | 2.13 | Avg volume | 3,789,101 |
 | P/S | 1.41 | Employees | 6,326 |
 | P/B | 2.48 | Analyst rec (1=buy..5=sell) | 2.2 |

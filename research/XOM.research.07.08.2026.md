@@ -1,11 +1,11 @@
 # XOM Research Report
-**ExxonMobil Holdings Corporation** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**ExxonMobil** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `XOM.research.07.08.2026`
 
 | Field | Value |
 |---|---|
 | Current price | $154.84 (2026-08-07, ~15-min delayed) |
-| Market cap | $641.80B |
+| Market cap | — |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -68,7 +68,7 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 | Revenue (ttm) | $361.06B | Revenue growth 44.10% y/y |
 | Profitability | Gross 29.77%, operating 15.86%, net 9.07% | ROA 5.52%, ROE 12.58% |
 | Balance sheet | Cash $10.59B, debt $42.37B | Current ratio 1.14, debt/equity 15.92 |
-| Valuation | P/E 26.07, forward P/E 14.66, P/S 1.78, P/B 2.45 | EV/Sales 1.87, EV/EBITDA 9.94 |
+| Valuation | P/E 26.07, forward P/E 14.66, P/S —, P/B 2.45 | EV/Sales 1.87, EV/EBITDA 9.94 |
 | Growth expectations | Earnings growth 112.80%, EPS q/q 105.10% | Analyst mean target $167.73 (22 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -110,7 +110,7 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $154.84 | EV/Sales | 1.87 |
-| Market cap | $641.80B | EV/EBITDA | 9.94 |
+| Market cap | — | EV/EBITDA | 9.94 |
 | Beta | 0.17 | Gross margin | 29.77% |
 | RSI(14) | 59.4 | Operating margin | 15.86% |
 | ATR(14) | 3.82 | Profit margin | 9.07% |
@@ -122,7 +122,7 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 | P/E (ttm) | 26.07 | Insider ownership | 0.08% |
 | Forward P/E | 14.66 | Short float | 1.15% |
 | PEG (trailing) | 1.21 | Avg volume | 16,708,986 |
-| P/S | 1.78 | Employees | 57,900 |
+| P/S | — | Employees | 57,900 |
 | P/B | 2.45 | Analyst rec (1=buy..5=sell) | 2.4 |
 
 ## 8. Analyst Actions

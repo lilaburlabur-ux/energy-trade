@@ -1,11 +1,11 @@
 # APA Research Report
-**APA Corporation** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**APA Corp** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `APA.research.07.08.2026`
 
 | Field | Value |
 |---|---|
 | Current price | $36.53 (2026-08-07, ~15-min delayed) |
-| Market cap | $12.91B |
+| Market cap | — |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
 | Current stance | High technical momentum, mixed fundamentals, value: reasonable, risk: high. |
@@ -68,7 +68,7 @@ APA Corporation, an independent energy company, explores for, develops, and prod
 | Revenue (ttm) | $8.37B | Revenue growth -11.90% y/y |
 | Profitability | Gross 72.27%, operating 38.49%, net 18.31% | ROA 9.61%, ROE 26.22% |
 | Balance sheet | Cash $293.00M, debt $4.54B | Current ratio 0.92, debt/equity 61.31 |
-| Valuation | P/E 8.52, forward P/E 8.94, P/S 1.54, P/B 2.12 | EV/Sales 2.08, EV/EBITDA 3.35 |
+| Valuation | P/E 8.52, forward P/E 8.94, P/S —, P/B 2.12 | EV/Sales 2.08, EV/EBITDA 3.35 |
 | Growth expectations | Earnings growth 32.20%, EPS q/q 28.50% | Analyst mean target $41.62 (24 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -112,7 +112,7 @@ APA Corporation, an independent energy company, explores for, develops, and prod
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $36.53 | EV/Sales | 2.08 |
-| Market cap | $12.91B | EV/EBITDA | 3.35 |
+| Market cap | — | EV/EBITDA | 3.35 |
 | Beta | 0.35 | Gross margin | 72.27% |
 | RSI(14) | 55.3 | Operating margin | 38.49% |
 | ATR(14) | 1.35 | Profit margin | 18.31% |
@@ -124,7 +124,7 @@ APA Corporation, an independent energy company, explores for, develops, and prod
 | P/E (ttm) | 8.52 | Insider ownership | 0.44% |
 | Forward P/E | 8.94 | Short float | 12.00% |
 | PEG (trailing) | 0.71 | Avg volume | 5,744,496 |
-| P/S | 1.54 | Employees | 1,791 |
+| P/S | — | Employees | 1,791 |
 | P/B | 2.12 | Analyst rec (1=buy..5=sell) | 2.7 |
 
 ## 8. Analyst Actions
