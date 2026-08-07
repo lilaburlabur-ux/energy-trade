@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-07T21:33:43+00:00",
+  "as_of": "2026-08-07T22:17:15+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,19 +9,19 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "RUN",
-   "company": "Sunrun Inc.",
-   "move_pct": 8.74,
-   "price": 10.2,
-   "volume": 11592517,
-   "volume_vs_avg": "~1.1x",
-   "heat_score": 61,
+   "ticker": "OKLO",
+   "company": "Oklo Inc.",
+   "move_pct": 14.38,
+   "price": 48.26,
+   "volume": 18859180,
+   "volume_vs_avg": "~2x",
+   "heat_score": 86,
    "direction": "up",
-   "why": "Sunrun (RUN) Q2 Earnings: How Key Metrics Compare to Wall Street Estimates",
+   "why": "Oklo Inc. Q2 2026 Earnings Call Summary",
    "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/sunrun-run-q2-earnings-key-180002995.html",
-   "published": "2026-08-07T18:00:02Z",
-   "sector": "Renewables & Solar"
+   "source_url": "https://finance.yahoo.com/energy/articles/oklo-inc-q2-2026-earnings-212453604.html",
+   "published": "2026-08-07T21:24:53Z",
+   "sector": "Nuclear & Uranium"
   }
  ]
 }
