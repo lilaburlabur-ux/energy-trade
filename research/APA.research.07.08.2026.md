@@ -4,7 +4,7 @@ Signed file: `APA.research.07.08.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $36.53 (2026-08-07, ~15-min delayed) |
+| Current price | $37.63 (2026-08-07, ~15-min delayed) |
 | Market cap | — |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
@@ -15,11 +15,11 @@ Signed file: `APA.research.07.08.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +103.36%; price +17.07% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -16.57% from 52w high; no clean fresh pivot by default. |
-| Fundamental quality | Mixed | Profit margin 18.31%, revenue growth -11.90%. |
-| Value attractiveness | Reasonable | Forward P/E 8.94, EV/Sales 2.08. |
-| Risk level | High | Beta 0.35, ATR 3.7% of price, short float 12.00%. |
+| Technical momentum | High | 1Y +115.63%; price +20.29% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -14.06% from 52w high; no clean fresh pivot by default. |
+| Fundamental quality | Mixed | Profit margin 19.56%, revenue growth 9.20%. |
+| Value attractiveness | Reasonable | Forward P/E 9.19, EV/Sales 1.99. |
+| Risk level | High | Beta 0.35, ATR 3.8% of price, short float 12.00%. |
 
 **Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: high.
 
@@ -36,45 +36,45 @@ APA Corporation, an independent energy company, explores for, develops, and prod
 
 | Headline | Source | Date |
 |---|---|---|
+| APA (APA) Q2 Earnings: Taking a Look at Key Metrics Versus Estimates | Zacks | 2026-08-07 |
+| APA Q2 Earnings Call Highlights Cost Cuts and Permian Efficiency | Zacks | 2026-08-07 |
 | APA Corp (APA) (Q2 2026) Earnings Call Highlights: Strong Execution Drives Production Gains and ... | GuruFocus.com | 2026-08-06 |
 | APA Q2 Earnings Call Highlights | MarketBeat | 2026-08-06 |
-| APA Corporation Q2 2026 Earnings Call Summary | Moby | 2026-08-06 |
-| APA Raises U.S. Oil Forecast as Second-Quarter Output Beats Guidance | Oilprice.com | 2026-08-06 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $36.53; 52w high $43.79 (-16.57%); 52w low $17.45 (+109.32%) |
-| Trend | +17.07% vs SMA200, +4.17% vs SMA50, +3.23% vs SMA20 |
-| Momentum | RSI(14) 55.3 (neutral) |
-| Volatility | ATR(14) 1.35 (~3.7% of price); beta 0.35 |
-| Setup perspective | -16.57% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $37.63; 52w high $43.79 (-14.06%); 52w low $18.80 (+100.12%) |
+| Trend | +20.29% vs SMA200, +7.23% vs SMA50, +5.68% vs SMA20 |
+| Momentum | RSI(14) 59.4 (neutral) |
+| Volatility | ATR(14) 1.41 (~3.8% of price); beta 0.35 |
+| Setup perspective | -14.06% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +0.6% |
-| Month | +4.9% |
-| Quarter | -4.0% |
-| Half Y | +35.3% |
-| 1Y | +103.4% |
-| YTD | +47.4% |
+| Week | +0.8% |
+| Month | +13.8% |
+| Quarter | +4.6% |
+| Half Y | +44.1% |
+| 1Y | +115.6% |
+| YTD | +51.9% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
 | Next earnings | 2026-11-04 | Next scheduled report (Yahoo estimate) |
-| Revenue (ttm) | $8.37B | Revenue growth -11.90% y/y |
-| Profitability | Gross 72.27%, operating 38.49%, net 18.31% | ROA 9.61%, ROE 26.22% |
-| Balance sheet | Cash $293.00M, debt $4.54B | Current ratio 0.92, debt/equity 61.31 |
-| Valuation | P/E 8.52, forward P/E 8.94, P/S —, P/B 2.12 | EV/Sales 2.08, EV/EBITDA 3.35 |
-| Growth expectations | Earnings growth 32.20%, EPS q/q 28.50% | Analyst mean target $41.62 (24 analysts) |
+| Revenue (ttm) | $8.57B | Revenue growth 9.20% y/y |
+| Profitability | Gross 78.25%, operating 56.37%, net 19.56% | ROA 11.58%, ROE 26.66% |
+| Balance sheet | Cash $444.00M, debt $3.74B | Current ratio 0.95, debt/equity 47.12 |
+| Valuation | P/E 7.94, forward P/E 9.19, P/S —, P/B 2.18 | EV/Sales 1.99, EV/EBITDA 2.96 |
+| Growth expectations | Earnings growth 26.30%, EPS q/q 23.90% | Analyst mean target $41.88 (24 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 106.33% |
+| Institutional ownership | 107.27% |
 | Insider ownership | 0.44% |
 | Short float | 12.00% |
 | Short ratio (days to cover) | 5.3 |
@@ -95,7 +95,7 @@ APA Corporation, an independent energy company, explores for, develops, and prod
 | Geode Capital Management, LLC | 10,511,439 | 2.97% | 2026-03-31 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 0.35, ATR 3.7% of price, short float 12.00%. Size positions accordingly.
+- **Volatility risk:** Beta 0.35, ATR 3.8% of price, short float 12.00%. Size positions accordingly.
 - **Short interest risk:** short float 12.00% can fuel squeezes both ways around news.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -111,21 +111,21 @@ APA Corporation, an independent energy company, explores for, develops, and prod
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $36.53 | EV/Sales | 2.08 |
-| Market cap | — | EV/EBITDA | 3.35 |
-| Beta | 0.35 | Gross margin | 72.27% |
-| RSI(14) | 55.3 | Operating margin | 38.49% |
-| ATR(14) | 1.35 | Profit margin | 18.31% |
-| SMA20 dist | +3.23% | ROA | 9.61% |
-| SMA50 dist | +4.17% | ROE | 26.22% |
-| SMA200 dist | +17.07% | Revenue (ttm) | $8.37B |
-| 52W high | $43.79 | Revenue growth y/y | -11.90% |
-| 52W low | $17.45 | Inst. ownership | 106.33% |
-| P/E (ttm) | 8.52 | Insider ownership | 0.44% |
-| Forward P/E | 8.94 | Short float | 12.00% |
-| PEG (trailing) | 0.71 | Avg volume | 5,744,496 |
+| Price | $37.63 | EV/Sales | 1.99 |
+| Market cap | — | EV/EBITDA | 2.96 |
+| Beta | 0.35 | Gross margin | 78.25% |
+| RSI(14) | 59.4 | Operating margin | 56.37% |
+| ATR(14) | 1.41 | Profit margin | 19.56% |
+| SMA20 dist | +5.68% | ROA | 11.58% |
+| SMA50 dist | +7.23% | ROE | 26.66% |
+| SMA200 dist | +20.29% | Revenue (ttm) | $8.57B |
+| 52W high | $43.79 | Revenue growth y/y | 9.20% |
+| 52W low | $18.80 | Inst. ownership | 107.27% |
+| P/E (ttm) | 7.94 | Insider ownership | 0.44% |
+| Forward P/E | 9.19 | Short float | 12.00% |
+| PEG (trailing) | 0.71 | Avg volume | 5,632,330 |
 | P/S | — | Employees | 1,791 |
-| P/B | 2.12 | Analyst rec (1=buy..5=sell) | 2.7 |
+| P/B | 2.18 | Analyst rec (1=buy..5=sell) | 2.7 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

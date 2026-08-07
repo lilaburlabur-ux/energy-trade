@@ -4,8 +4,8 @@ Signed file: `UUUU.research.07.08.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $12.90 (2026-08-07, ~15-min delayed) |
-| Market cap | $3.22B |
+| Current price | $14.14 (2026-08-07, ~15-min delayed) |
+| Market cap | $3.53B |
 | Sector / Industry | Energy / Uranium |
 | Main theme | Uranium — see catalysts below |
 | Current stance | Low technical momentum, weak fundamentals, value: low (expensive), risk: high. |
@@ -15,11 +15,11 @@ Signed file: `UUUU.research.07.08.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-27.40%) with negative half-year (-39.78%). |
-| Fresh setup quality | Poor / broken | -53.46% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-20.23%) with negative half-year (-27.82%). |
+| Fresh setup quality | Poor / broken | -48.99% from 52w high — base needs to rebuild. |
 | Fundamental quality | Weak | Negative profit margin (-82.70%). |
-| Value attractiveness | Low (expensive) | Forward P/E 39.09, EV/Sales 33.93. |
-| Risk level | High | Beta 1.57, ATR 7.0% of price, short float 19.79%. |
+| Value attractiveness | Low (expensive) | Forward P/E 44.19, EV/Sales 33.93. |
+| Risk level | High | Beta 1.57, ATR 6.8% of price, short float 19.79%. |
 
 **Bottom line:** Low technical momentum, weak fundamentals, value: low (expensive), risk: high.
 
@@ -36,30 +36,30 @@ Energy Fuels Inc., together with its subsidiaries, engages in the exploration, r
 
 | Headline | Source | Date |
 |---|---|---|
+| UUUU Q2 Earnings Call Focuses on Mine-to-Magnet Execution | Zacks | 2026-08-07 |
 | Why Energy Fuels (TSX:EFR) Is Up 10.3% After Costly Rare Earth Bet And Wider Q2 Loss | Simply Wall St. | 2026-08-07 |
 | Energy Fuels Inc (UUUU) (Q2 2026) Earnings Call Highlights: Strategic Expansion and Financial ... | GuruFocus.com | 2026-08-06 |
 | Energy Fuels (TSX:EFR) Starts White Mesa Mill Buildout For Heavy Rare Earth Oxides | Simply Wall St. | 2026-08-06 |
-| Cameco Gains 7% Despite Q2 Earnings Miss: How to Play the Stock? | Zacks | 2026-08-06 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $12.90; 52w high $27.72 (-53.46%); 52w low $8.47 (+52.30%) |
-| Trend | -27.40% vs SMA200, -8.84% vs SMA50, +6.31% vs SMA20 |
-| Momentum | RSI(14) 50.8 (neutral) |
-| Volatility | ATR(14) 0.90 (~7.0% of price); beta 1.57 |
-| Setup perspective | -53.46% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $14.14; 52w high $27.72 (-48.99%); 52w low $8.47 (+66.94%) |
+| Trend | -20.23% vs SMA200, +0.52% vs SMA50, +16.26% vs SMA20 |
+| Momentum | RSI(14) 58.7 (neutral) |
+| Volatility | ATR(14) 0.96 (~6.8% of price); beta 1.57 |
+| Setup perspective | -48.99% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +10.2% |
-| Month | -1.8% |
-| Quarter | -45.2% |
-| Half Y | -39.8% |
-| 1Y | +30.0% |
-| YTD | -22.7% |
+| Week | +23.6% |
+| Month | +4.8% |
+| Quarter | -39.4% |
+| Half Y | -27.8% |
+| 1Y | +46.1% |
+| YTD | -15.2% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Energy Fuels Inc., together with its subsidiaries, engages in the exploration, r
 | Revenue (ttm) | $84.86M | Revenue growth 112.10% y/y |
 | Profitability | Gross 34.58%, operating -40.59%, net -82.70% | ROA -5.30%, ROE -10.78% |
 | Balance sheet | Cash $910.68M, debt $677.49M | Current ratio 27.51, debt/equity 93.15 |
-| Valuation | P/E —, forward P/E 39.09, P/S 37.99, P/B 4.36 | EV/Sales 33.93, EV/EBITDA -35.47 |
+| Valuation | P/E —, forward P/E 44.19, P/S 41.65, P/B 4.78 | EV/Sales 33.93, EV/EBITDA -35.47 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $26.12 (4 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,8 +95,8 @@ Energy Fuels Inc., together with its subsidiaries, engages in the exploration, r
 | State Street Corporation | 3,830,621 | 1.53% | 2026-03-31 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 39.09, EV/Sales 33.93. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 1.57, ATR 7.0% of price, short float 19.79%. Size positions accordingly.
+- **Valuation risk:** Forward P/E 44.19, EV/Sales 33.93. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 1.57, ATR 6.8% of price, short float 19.79%. Size positions accordingly.
 - **Short interest risk:** short float 19.79% can fuel squeezes both ways around news.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
@@ -114,21 +114,21 @@ Energy Fuels Inc., together with its subsidiaries, engages in the exploration, r
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $12.90 | EV/Sales | 33.93 |
-| Market cap | $3.22B | EV/EBITDA | -35.47 |
+| Price | $14.14 | EV/Sales | 33.93 |
+| Market cap | $3.53B | EV/EBITDA | -35.47 |
 | Beta | 1.57 | Gross margin | 34.58% |
-| RSI(14) | 50.8 | Operating margin | -40.59% |
-| ATR(14) | 0.90 | Profit margin | -82.70% |
-| SMA20 dist | +6.31% | ROA | -5.30% |
-| SMA50 dist | -8.84% | ROE | -10.78% |
-| SMA200 dist | -27.40% | Revenue (ttm) | $84.86M |
+| RSI(14) | 58.7 | Operating margin | -40.59% |
+| ATR(14) | 0.96 | Profit margin | -82.70% |
+| SMA20 dist | +16.26% | ROA | -5.30% |
+| SMA50 dist | +0.52% | ROE | -10.78% |
+| SMA200 dist | -20.23% | Revenue (ttm) | $84.86M |
 | 52W high | $27.72 | Revenue growth y/y | 112.10% |
 | 52W low | $8.47 | Inst. ownership | 73.34% |
 | P/E (ttm) | — | Insider ownership | 1.23% |
-| Forward P/E | 39.09 | Short float | 19.79% |
-| PEG (trailing) | — | Avg volume | 9,434,868 |
-| P/S | 37.99 | Employees | 1,069 |
-| P/B | 4.36 | Analyst rec (1=buy..5=sell) | 1.4 |
+| Forward P/E | 44.19 | Short float | 19.79% |
+| PEG (trailing) | — | Avg volume | 9,210,164 |
+| P/S | 41.65 | Employees | 1,069 |
+| P/B | 4.78 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

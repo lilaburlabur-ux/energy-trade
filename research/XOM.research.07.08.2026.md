@@ -4,7 +4,7 @@ Signed file: `XOM.research.07.08.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $154.84 (2026-08-07, ~15-min delayed) |
+| Current price | $153.04 (2026-08-07, ~15-min delayed) |
 | Market cap | — |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
@@ -15,10 +15,10 @@ Signed file: `XOM.research.07.08.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +48.99%; price +11.46% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -9.09% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +48.27%; price +9.99% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -10.14% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 9.07%, revenue growth 44.10%. |
-| Value attractiveness | Reasonable | Forward P/E 14.66, EV/Sales 1.87. |
+| Value attractiveness | Reasonable | Forward P/E 14.46, EV/Sales 1.87. |
 | Risk level | Moderate | Beta 0.17, ATR 2.5% of price, short float 1.15%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -36,30 +36,30 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 
 | Headline | Source | Date |
 |---|---|---|
-| Why this portfolio manager's top 3 energy stock picks don't include Chevron | Yahoo Finance Video | 2026-08-06 |
-| Petrobras Profit Tops Estimates on Iran War-Driven Oil Rally | Bloomberg | 2026-08-06 |
-| Suncor CEO Rich Kruger stepping down in 2027 | Financial Post | 2026-08-06 |
-| Is Shell Stock a Buy as Cash Flow Surges but Risks Stay Elevated? | Zacks | 2026-08-06 |
+| SM Energy Q2 Earnings Beat Estimates on Strong Production Growth | Zacks | 2026-08-07 |
+| XOM Q2 Earnings Call Highlights Refining Strength and Guyana Cash Flow | Zacks | 2026-08-07 |
+| The New Wild West: Texas Experiments With Raw Capitalism | Barrons.com | 2026-08-07 |
+| 20 Years on Wall Street Taught Me to Buy and Hold 5 High-Yield Energy Giants | 24/7 Wall St. | 2026-08-07 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $154.84; 52w high $170.31 (-9.09%); 52w low $102.56 (+50.97%) |
-| Trend | +11.46% vs SMA200, +5.78% vs SMA50, +2.30% vs SMA20 |
-| Momentum | RSI(14) 59.4 (neutral) |
-| Volatility | ATR(14) 3.82 (~2.5% of price); beta 0.17 |
-| Setup perspective | -9.09% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $153.04; 52w high $170.31 (-10.14%); 52w low $102.56 (+49.22%) |
+| Trend | +9.99% vs SMA200, +4.48% vs SMA50, +0.64% vs SMA20 |
+| Momentum | RSI(14) 55.2 (neutral) |
+| Volatility | ATR(14) 3.78 (~2.5% of price); beta 0.17 |
+| Setup perspective | -10.14% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -1.4% |
-| Month | +9.7% |
-| Quarter | +4.8% |
-| Half Y | +6.3% |
-| 1Y | +49.0% |
-| YTD | +27.9% |
+| Week | -1.5% |
+| Month | +11.3% |
+| Quarter | +5.1% |
+| Half Y | +6.2% |
+| 1Y | +48.3% |
+| YTD | +26.5% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 | Revenue (ttm) | $361.06B | Revenue growth 44.10% y/y |
 | Profitability | Gross 29.77%, operating 15.86%, net 9.07% | ROA 5.52%, ROE 12.58% |
 | Balance sheet | Cash $10.59B, debt $42.37B | Current ratio 1.14, debt/equity 15.92 |
-| Valuation | P/E 26.07, forward P/E 14.66, P/S —, P/B 2.45 | EV/Sales 1.87, EV/EBITDA 9.94 |
+| Valuation | P/E 25.72, forward P/E 14.46, P/S —, P/B 2.43 | EV/Sales 1.87, EV/EBITDA 9.94 |
 | Growth expectations | Earnings growth 112.80%, EPS q/q 105.10% | Analyst mean target $167.73 (22 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 68.34% |
+| Institutional ownership | 68.14% |
 | Insider ownership | 0.08% |
 | Short float | 1.15% |
 | Short ratio (days to cover) | 2.4 |
@@ -92,7 +92,7 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 | JPMORGAN CHASE & CO | 85,599,509 | 2.07% | 2026-03-31 |
 | Morgan Stanley | 71,718,998 | 1.73% | 2026-03-31 |
 | Bank of America Corporation | 68,483,813 | 1.65% | 2026-03-31 |
-| Bank Of New York Mellon Corporation | 44,289,134 | 1.07% | 2026-03-31 |
+| Northern Trust Corporation | 42,776,808 | 1.03% | 2026-03-31 |
 
 ## 6. Risk Review and Setup Plan
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
@@ -109,21 +109,21 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $154.84 | EV/Sales | 1.87 |
+| Price | $153.04 | EV/Sales | 1.87 |
 | Market cap | — | EV/EBITDA | 9.94 |
 | Beta | 0.17 | Gross margin | 29.77% |
-| RSI(14) | 59.4 | Operating margin | 15.86% |
-| ATR(14) | 3.82 | Profit margin | 9.07% |
-| SMA20 dist | +2.30% | ROA | 5.52% |
-| SMA50 dist | +5.78% | ROE | 12.58% |
-| SMA200 dist | +11.46% | Revenue (ttm) | $361.06B |
+| RSI(14) | 55.2 | Operating margin | 15.86% |
+| ATR(14) | 3.78 | Profit margin | 9.07% |
+| SMA20 dist | +0.64% | ROA | 5.52% |
+| SMA50 dist | +4.48% | ROE | 12.58% |
+| SMA200 dist | +9.99% | Revenue (ttm) | $361.06B |
 | 52W high | $170.31 | Revenue growth y/y | 44.10% |
-| 52W low | $102.56 | Inst. ownership | 68.34% |
-| P/E (ttm) | 26.07 | Insider ownership | 0.08% |
-| Forward P/E | 14.66 | Short float | 1.15% |
-| PEG (trailing) | 1.21 | Avg volume | 16,708,986 |
+| 52W low | $102.56 | Inst. ownership | 68.14% |
+| P/E (ttm) | 25.72 | Insider ownership | 0.08% |
+| Forward P/E | 14.46 | Short float | 1.15% |
+| PEG (trailing) | 1.21 | Avg volume | 16,610,674 |
 | P/S | — | Employees | 57,900 |
-| P/B | 2.45 | Analyst rec (1=buy..5=sell) | 2.4 |
+| P/B | 2.43 | Analyst rec (1=buy..5=sell) | 2.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

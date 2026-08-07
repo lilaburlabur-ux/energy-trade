@@ -4,8 +4,8 @@ Signed file: `NEE.research.07.08.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $84.60 (2026-08-07, ~15-min delayed) |
-| Market cap | $176.47B |
+| Current price | $84.65 (2026-08-07, ~15-min delayed) |
+| Market cap | $176.58B |
 | Sector / Industry | Utilities / Utilities - Regulated Electric |
 | Main theme | Utilities - Regulated Electric — see catalysts below |
 | Current stance | Low technical momentum, strong fundamentals, value: reasonable, risk: moderate. |
@@ -15,10 +15,10 @@ Signed file: `NEE.research.07.08.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-2.64%) with negative half-year (-4.63%). |
-| Fresh setup quality | Moderate / wait | -12.93% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-2.59%) with negative half-year (-3.76%). |
+| Fresh setup quality | Moderate / wait | -12.88% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 32.40%, revenue growth 12.40%. |
-| Value attractiveness | Reasonable | Forward P/E 19.14, EV/Sales 10.27. |
+| Value attractiveness | Reasonable | Forward P/E 19.16, EV/Sales 10.27. |
 | Risk level | Moderate | Beta 0.65, ATR 2.2% of price, short float 0.00%. |
 
 **Bottom line:** Low technical momentum, strong fundamentals, value: reasonable, risk: moderate.
@@ -36,30 +36,30 @@ NextEra Energy, Inc., through its subsidiaries, generates, stores, transmits, di
 
 | Headline | Source | Date |
 |---|---|---|
-| SpaceX's need for power is a 'clear positive' for these companies | Yahoo Finance | 2026-08-06 |
+| PPL Q2 Earnings Miss Estimates on Higher Costs, Revenues Increase Y/Y | Zacks | 2026-08-07 |
+| Sector Update: Energy Stocks Decline Premarket Friday | MT Newswires | 2026-08-07 |
+| The future of the NextEra-Dominion megadeal | Axios | 2026-08-07 |
 | Spanberger intervenes in case to decide fate of Dominion-NextEra merger | The Virginian-Pilot | 2026-08-06 |
-| Virginia Governor Is ‘Skeptical’ of NextEra Energy’s Dominion Acquisition | Barrons.com | 2026-08-06 |
-| PPL Gears Up to Report Q2 Earnings: Buy, Sell or Hold the Stock? | Zacks | 2026-08-06 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $84.60; 52w high $97.17 (-12.93%); 52w low $68.33 (+23.81%) |
-| Trend | -2.64% vs SMA200, -2.85% vs SMA50, -4.07% vs SMA20 |
-| Momentum | RSI(14) 34.7 (neutral) |
+| Price vs 52-week range | Close $84.65; 52w high $97.17 (-12.88%); 52w low $68.33 (+23.88%) |
+| Trend | -2.59% vs SMA200, -2.74% vs SMA50, -3.83% vs SMA20 |
+| Momentum | RSI(14) 35.1 (neutral) |
 | Volatility | ATR(14) 1.87 (~2.2% of price); beta 0.65 |
-| Setup perspective | -12.93% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -12.88% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -3.8% |
-| Month | -3.2% |
-| Quarter | -10.7% |
-| Half Y | -4.6% |
-| 1Y | +22.3% |
-| YTD | +6.0% |
+| Week | -2.6% |
+| Month | -2.8% |
+| Quarter | -8.6% |
+| Half Y | -3.8% |
+| 1Y | +23.5% |
+| YTD | +6.1% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ NextEra Energy, Inc., through its subsidiaries, generates, stores, transmits, di
 | Revenue (ttm) | $28.70B | Revenue growth 12.40% y/y |
 | Profitability | Gross 61.02%, operating 31.52%, net 32.40% | ROA 2.44%, ROE 11.68% |
 | Balance sheet | Cash $2.87B, debt $110.20B | Current ratio 0.53, debt/equity 161.68 |
-| Valuation | P/E 19.01, forward P/E 19.14, P/S 6.15, P/B 3.09 | EV/Sales 10.27, EV/EBITDA 20.20 |
+| Valuation | P/E 19.02, forward P/E 19.16, P/S 6.15, P/B 3.09 | EV/Sales 10.27, EV/EBITDA 20.20 |
 | Growth expectations | Earnings growth 53.10%, EPS q/q 55.00% | Analyst mean target $99.00 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 86.84% |
+| Institutional ownership | 86.92% |
 | Insider ownership | 0.12% |
 | Short float | 0.00% |
 | Short ratio (days to cover) | 0.0 |
@@ -109,19 +109,19 @@ NextEra Energy, Inc., through its subsidiaries, generates, stores, transmits, di
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $84.60 | EV/Sales | 10.27 |
-| Market cap | $176.47B | EV/EBITDA | 20.20 |
+| Price | $84.65 | EV/Sales | 10.27 |
+| Market cap | $176.58B | EV/EBITDA | 20.20 |
 | Beta | 0.65 | Gross margin | 61.02% |
-| RSI(14) | 34.7 | Operating margin | 31.52% |
+| RSI(14) | 35.1 | Operating margin | 31.52% |
 | ATR(14) | 1.87 | Profit margin | 32.40% |
-| SMA20 dist | -4.07% | ROA | 2.44% |
-| SMA50 dist | -2.85% | ROE | 11.68% |
-| SMA200 dist | -2.64% | Revenue (ttm) | $28.70B |
+| SMA20 dist | -3.83% | ROA | 2.44% |
+| SMA50 dist | -2.74% | ROE | 11.68% |
+| SMA200 dist | -2.59% | Revenue (ttm) | $28.70B |
 | 52W high | $97.17 | Revenue growth y/y | 12.40% |
-| 52W low | $68.33 | Inst. ownership | 86.84% |
-| P/E (ttm) | 19.01 | Insider ownership | 0.12% |
-| Forward P/E | 19.14 | Short float | 0.00% |
-| PEG (trailing) | 1.90 | Avg volume | 11,923,026 |
+| 52W low | $68.33 | Inst. ownership | 86.92% |
+| P/E (ttm) | 19.02 | Insider ownership | 0.12% |
+| Forward P/E | 19.16 | Short float | 0.00% |
+| PEG (trailing) | 1.90 | Avg volume | 11,961,013 |
 | P/S | 6.15 | Employees | 17,400 |
 | P/B | 3.09 | Analyst rec (1=buy..5=sell) | 2.0 |
 

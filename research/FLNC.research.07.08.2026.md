@@ -4,8 +4,8 @@ Signed file: `FLNC.research.07.08.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $13.21 (2026-08-07, ~15-min delayed) |
-| Market cap | $2.43B |
+| Current price | $13.19 (2026-08-07, ~15-min delayed) |
+| Market cap | $3.00B |
 | Sector / Industry | Utilities / Utilities - Renewable |
 | Main theme | Utilities - Renewable — see catalysts below |
 | Current stance | Low technical momentum, weak fundamentals, value: low (expensive), risk: high. |
@@ -15,11 +15,11 @@ Signed file: `FLNC.research.07.08.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-29.81%) with negative half-year (-54.43%). |
-| Fresh setup quality | Poor / broken | -59.01% from 52w high — base needs to rebuild. |
-| Fundamental quality | Weak | Negative profit margin (-1.62%). |
-| Value attractiveness | Low (expensive) | Forward P/E 67.62, EV/Sales 0.77. |
-| Risk level | High | Beta 2.78, ATR 12.6% of price, short float 40.44%. |
+| Technical momentum | Low | Below SMA200 (-29.80%) with negative half-year (-30.37%). |
+| Fresh setup quality | Poor / broken | -59.06% from 52w high — base needs to rebuild. |
+| Fundamental quality | Weak | Negative profit margin (-3.07%). |
+| Value attractiveness | Low (expensive) | Forward P/E 61.65, EV/Sales 0.77. |
+| Risk level | High | Beta 2.78, ATR 12.2% of price, short float 40.44%. |
 
 **Bottom line:** Low technical momentum, weak fundamentals, value: low (expensive), risk: high.
 
@@ -44,38 +44,38 @@ Fluence Energy, Inc., through its subsidiaries, provides energy storage and opti
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $13.21; 52w high $32.23 (-59.01%); 52w low $6.75 (+95.70%) |
-| Trend | -29.81% vs SMA200, -29.44% vs SMA50, -7.61% vs SMA20 |
+| Price vs 52-week range | Close $13.19; 52w high $32.23 (-59.06%); 52w low $6.75 (+95.48%) |
+| Trend | -29.80% vs SMA200, -28.92% vs SMA50, -6.75% vs SMA20 |
 | Momentum | RSI(14) 40.7 (neutral) |
-| Volatility | ATR(14) 1.66 (~12.6% of price); beta 2.78 |
-| Setup perspective | -59.01% from 52w high — base needs to rebuild. |
+| Volatility | ATR(14) 1.61 (~12.2% of price); beta 2.78 |
+| Setup perspective | -59.06% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -1.9% |
-| Month | -13.9% |
-| Quarter | -2.6% |
-| Half Y | -54.4% |
-| 1Y | +54.5% |
-| YTD | -42.6% |
+| Week | -5.3% |
+| Month | -21.2% |
+| Quarter | -30.4% |
+| Half Y | -30.4% |
+| 1Y | +56.2% |
+| YTD | -42.7% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
 | Next earnings | 2026-08-05 | Next scheduled report (Yahoo estimate) |
-| Revenue (ttm) | $2.58B | Revenue growth 7.70% y/y |
-| Profitability | Gross 11.71%, operating -8.43%, net -1.62% | ROA -1.32%, ROE -12.72% |
-| Balance sheet | Cash $387.30M, debt $401.97M | Current ratio 1.44, debt/equity 87.73 |
-| Valuation | P/E —, forward P/E 67.62, P/S 0.94, P/B 4.77 | EV/Sales 0.77, EV/EBITDA -108.10 |
-| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $18.67 (18 analysts) |
+| Revenue (ttm) | $2.63B | Revenue growth 7.90% y/y |
+| Profitability | Gross 9.36%, operating -8.85%, net -3.07% | ROA -2.95%, ROE -23.54% |
+| Balance sheet | Cash $339.33M, debt $413.16M | Current ratio 1.34, debt/equity 95.81 |
+| Valuation | P/E —, forward P/E 61.65, P/S 1.14, P/B 4.76 | EV/Sales 0.77, EV/EBITDA -25.95 |
+| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $17.50 (18 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 86.25% |
-| Insider ownership | 14.45% |
+| Institutional ownership | 86.42% |
+| Insider ownership | 14.42% |
 | Short float | 40.44% |
 | Short ratio (days to cover) | 2.9 |
 
@@ -83,20 +83,20 @@ Fluence Energy, Inc., through its subsidiaries, provides energy storage and opti
 
 | Holder | Shares | % Out | Reported |
 |---|---|---|---|
-| Siemens Pension Trust E.V. | 31,761,131 | 23.91% | 2026-03-31 |
-| Siemens Ag | 19,738,064 | 14.86% | 2026-03-31 |
-| Shaw D.E. & Co., Inc. | 6,045,038 | 4.55% | 2026-03-31 |
-| Two Sigma Investments, LP | 5,695,266 | 4.29% | 2026-03-31 |
-| Blackrock Inc. | 5,517,433 | 4.15% | 2026-03-31 |
-| Bank of America Corporation | 3,085,730 | 2.32% | 2026-03-31 |
-| Vanguard Portfolio Management LLC | 2,985,503 | 2.25% | 2026-03-31 |
-| Vanguard Capital Management LLC | 2,854,689 | 2.15% | 2026-03-31 |
-| Connor Clark & Lunn Investment Management Ltd | 2,493,411 | 1.88% | 2026-03-31 |
-| State Street Corporation | 2,163,457 | 1.63% | 2026-03-31 |
+| Siemens Pension Trust E.V. | 31,761,131 | 22.19% | 2026-03-31 |
+| Siemens Ag | 19,738,064 | 13.79% | 2026-03-31 |
+| Shaw D.E. & Co., Inc. | 6,045,038 | 4.22% | 2026-03-31 |
+| Two Sigma Investments, LP | 5,695,266 | 3.98% | 2026-03-31 |
+| Blackrock Inc. | 5,517,433 | 3.85% | 2026-03-31 |
+| Bank of America Corporation | 3,085,730 | 2.16% | 2026-03-31 |
+| Vanguard Portfolio Management LLC | 2,985,503 | 2.09% | 2026-03-31 |
+| Vanguard Capital Management LLC | 2,854,689 | 1.99% | 2026-03-31 |
+| Connor Clark & Lunn Investment Management Ltd | 2,493,411 | 1.74% | 2026-03-31 |
+| State Street Corporation | 2,163,457 | 1.51% | 2026-03-31 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 67.62, EV/Sales 0.77. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 2.78, ATR 12.6% of price, short float 40.44%. Size positions accordingly.
+- **Valuation risk:** Forward P/E 61.65, EV/Sales 0.77. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 2.78, ATR 12.2% of price, short float 40.44%. Size positions accordingly.
 - **Short interest risk:** short float 40.44% can fuel squeezes both ways around news.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
@@ -114,25 +114,26 @@ Fluence Energy, Inc., through its subsidiaries, provides energy storage and opti
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $13.21 | EV/Sales | 0.77 |
-| Market cap | $2.43B | EV/EBITDA | -108.10 |
-| Beta | 2.78 | Gross margin | 11.71% |
-| RSI(14) | 40.7 | Operating margin | -8.43% |
-| ATR(14) | 1.66 | Profit margin | -1.62% |
-| SMA20 dist | -7.61% | ROA | -1.32% |
-| SMA50 dist | -29.44% | ROE | -12.72% |
-| SMA200 dist | -29.81% | Revenue (ttm) | $2.58B |
-| 52W high | $32.23 | Revenue growth y/y | 7.70% |
-| 52W low | $6.75 | Inst. ownership | 86.25% |
-| P/E (ttm) | — | Insider ownership | 14.45% |
-| Forward P/E | 67.62 | Short float | 40.44% |
-| PEG (trailing) | — | Avg volume | 12,175,736 |
-| P/S | 0.94 | Employees | 1,670 |
-| P/B | 4.77 | Analyst rec (1=buy..5=sell) | 2.7 |
+| Price | $13.19 | EV/Sales | 0.77 |
+| Market cap | $3.00B | EV/EBITDA | -25.95 |
+| Beta | 2.78 | Gross margin | 9.36% |
+| RSI(14) | 40.7 | Operating margin | -8.85% |
+| ATR(14) | 1.61 | Profit margin | -3.07% |
+| SMA20 dist | -6.75% | ROA | -2.95% |
+| SMA50 dist | -28.92% | ROE | -23.54% |
+| SMA200 dist | -29.80% | Revenue (ttm) | $2.63B |
+| 52W high | $32.23 | Revenue growth y/y | 7.90% |
+| 52W low | $6.75 | Inst. ownership | 86.42% |
+| P/E (ttm) | — | Insider ownership | 14.42% |
+| Forward P/E | 61.65 | Short float | 40.44% |
+| PEG (trailing) | — | Avg volume | 11,601,086 |
+| P/S | 1.14 | Employees | 1,670 |
+| P/B | 4.76 | Analyst rec (1=buy..5=sell) | 2.7 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-08-07 | main | RBC Capital | Sector Perform → Sector Perform |
 | 2026-07-22 | up | Citigroup | Neutral → Buy |
 | 2026-07-14 | init | Truist Securities | Buy → Hold |
 | 2026-07-01 | init | GLJ Research | — → Buy |
@@ -140,7 +141,6 @@ Fluence Energy, Inc., through its subsidiaries, provides energy storage and opti
 | 2026-05-11 | main | RBC Capital | Sector Perform → Sector Perform |
 | 2026-05-11 | main | UBS | Sell → Sell |
 | 2026-05-08 | up | HSBC | Reduce → Hold |
-| 2026-05-08 | main | JP Morgan | Neutral → Neutral |
 
 ## 9. Conclusion
 FLNC: Low momentum / weak fundamentals / low (expensive) value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

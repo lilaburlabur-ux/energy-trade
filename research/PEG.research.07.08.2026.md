@@ -4,8 +4,8 @@ Signed file: `PEG.research.07.08.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $75.04 (2026-08-07, ~15-min delayed) |
-| Market cap | $37.40B |
+| Current price | $75.66 (2026-08-07, ~15-min delayed) |
+| Market cap | $37.71B |
 | Sector / Industry | Utilities / Utilities - Regulated Electric |
 | Main theme | Utilities - Regulated Electric — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,10 +15,10 @@ Signed file: `PEG.research.07.08.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-5.97%) with negative half-year (-4.79%). |
-| Fresh setup quality | Moderate / wait | -12.25% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-5.15%) with negative half-year (-3.58%). |
+| Fresh setup quality | Moderate / wait | -11.52% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 16.04%, revenue growth -8.90%. |
-| Value attractiveness | Reasonable | Forward P/E 16.04, EV/Sales 4.93. |
+| Value attractiveness | Reasonable | Forward P/E 16.18, EV/Sales 4.93. |
 | Risk level | Moderate | Beta 0.53, ATR 2.1% of price, short float 2.56%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -44,22 +44,22 @@ Public Service Enterprise Group Incorporated, through its subsidiaries, operates
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $75.04; 52w high $85.51 (-12.25%); 52w low $75.04 (+0.00%) |
-| Trend | -5.97% vs SMA200, -5.33% vs SMA50, -4.29% vs SMA20 |
-| Momentum | RSI(14) 29.8 (oversold) |
+| Price vs 52-week range | Close $75.66; 52w high $85.51 (-11.52%); 52w low $75.04 (+0.83%) |
+| Trend | -5.15% vs SMA200, -4.46% vs SMA50, -3.19% vs SMA20 |
+| Momentum | RSI(14) 34.7 (neutral) |
 | Volatility | ATR(14) 1.59 (~2.1% of price); beta 0.53 |
-| Setup perspective | -12.25% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -11.52% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -3.2% |
-| Month | -7.7% |
-| Quarter | -4.6% |
-| Half Y | -4.8% |
-| 1Y | -12.1% |
-| YTD | -5.8% |
+| Week | -1.3% |
+| Month | -5.6% |
+| Quarter | -1.9% |
+| Half Y | -3.6% |
+| 1Y | -9.0% |
+| YTD | -5.0% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ Public Service Enterprise Group Incorporated, through its subsidiaries, operates
 | Revenue (ttm) | $12.54B | Revenue growth -8.90% y/y |
 | Profitability | Gross 33.33%, operating 18.87%, net 16.04% | ROA 3.24%, ROE 11.83% |
 | Balance sheet | Cash $192.00M, debt $24.68B | Current ratio 0.88, debt/equity 142.41 |
-| Valuation | P/E 18.67, forward P/E 16.04, P/S 2.98, P/B 2.16 | EV/Sales 4.93, EV/EBITDA 13.87 |
-| Growth expectations | Earnings growth -42.70%, EPS q/q -42.90% | Analyst mean target $88.24 (19 analysts) |
+| Valuation | P/E 18.82, forward P/E 16.18, P/S 3.01, P/B 2.18 | EV/Sales 4.93, EV/EBITDA 13.87 |
+| Growth expectations | Earnings growth -42.70%, EPS q/q -42.90% | Analyst mean target $87.29 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 78.07% |
+| Institutional ownership | 78.13% |
 | Insider ownership | 0.13% |
 | Short float | 2.56% |
 | Short ratio (days to cover) | 3.5 |
@@ -86,7 +86,7 @@ Public Service Enterprise Group Incorporated, through its subsidiaries, operates
 | Blackrock Inc. | 51,898,594 | 10.41% | 2026-03-31 |
 | Vanguard Capital Management LLC | 32,424,594 | 6.51% | 2026-03-31 |
 | Vanguard Portfolio Management LLC | 30,252,193 | 6.07% | 2026-03-31 |
-| State Street Corporation | 29,082,243 | 5.84% | 2026-03-31 |
+| State Street Corporation | 29,082,243 | 5.83% | 2026-03-31 |
 | Bank of America Corporation | 14,249,114 | 2.86% | 2026-03-31 |
 | Geode Capital Management, LLC | 13,072,014 | 2.62% | 2026-03-31 |
 | Capital Research Global Investors | 10,570,550 | 2.12% | 2026-03-31 |
@@ -109,21 +109,21 @@ Public Service Enterprise Group Incorporated, through its subsidiaries, operates
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $75.04 | EV/Sales | 4.93 |
-| Market cap | $37.40B | EV/EBITDA | 13.87 |
+| Price | $75.66 | EV/Sales | 4.93 |
+| Market cap | $37.71B | EV/EBITDA | 13.87 |
 | Beta | 0.53 | Gross margin | 33.33% |
-| RSI(14) | 29.8 | Operating margin | 18.87% |
+| RSI(14) | 34.7 | Operating margin | 18.87% |
 | ATR(14) | 1.59 | Profit margin | 16.04% |
-| SMA20 dist | -4.29% | ROA | 3.24% |
-| SMA50 dist | -5.33% | ROE | 11.83% |
-| SMA200 dist | -5.97% | Revenue (ttm) | $12.54B |
+| SMA20 dist | -3.19% | ROA | 3.24% |
+| SMA50 dist | -4.46% | ROE | 11.83% |
+| SMA200 dist | -5.15% | Revenue (ttm) | $12.54B |
 | 52W high | $85.51 | Revenue growth y/y | -8.90% |
-| 52W low | $75.04 | Inst. ownership | 78.07% |
-| P/E (ttm) | 18.67 | Insider ownership | 0.13% |
-| Forward P/E | 16.04 | Short float | 2.56% |
-| PEG (trailing) | 3.79 | Avg volume | 3,048,355 |
-| P/S | 2.98 | Employees | 13,189 |
-| P/B | 2.16 | Analyst rec (1=buy..5=sell) | 2.3 |
+| 52W low | $75.04 | Inst. ownership | 78.13% |
+| P/E (ttm) | 18.82 | Insider ownership | 0.13% |
+| Forward P/E | 16.18 | Short float | 2.56% |
+| PEG (trailing) | 3.79 | Avg volume | 3,046,518 |
+| P/S | 3.01 | Employees | 13,189 |
+| P/B | 2.18 | Analyst rec (1=buy..5=sell) | 2.3 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

@@ -4,24 +4,24 @@ Signed file: `TRGP.research.07.08.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $268.23 (2026-08-07, ~15-min delayed) |
-| Market cap | $57.57B |
+| Current price | $256.87 (2026-08-07, ~15-min delayed) |
+| Market cap | $55.14B |
 | Sector / Industry | Energy / Oil & Gas Midstream |
 | Main theme | Oil & Gas Midstream — see catalysts below |
-| Current stance | High technical momentum, mixed fundamentals, value: fair-to-demanding, risk: moderate. |
+| Current stance | High technical momentum, mixed fundamentals, value: fair-to-demanding, risk: elevated. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-08-07.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +67.45%; price +20.38% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -5.64% from 52w high; no clean fresh pivot by default. |
-| Fundamental quality | Mixed | Profit margin 12.87%, revenue growth -10.20%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 22.47, EV/Sales 4.53. |
-| Risk level | Moderate | Beta 0.72, ATR 2.9% of price, short float 2.27%. |
+| Technical momentum | High | 1Y +60.93%; price +15.00% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -9.63% from 52w high; no clean fresh pivot by default. |
+| Fundamental quality | Mixed | Profit margin 13.54%, revenue growth 4.20%. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 21.45, EV/Sales —. |
+| Risk level | Elevated | Beta —, ATR 3.1% of price, short float 2.27%. |
 
-**Bottom line:** High technical momentum, mixed fundamentals, value: fair-to-demanding, risk: moderate.
+**Bottom line:** High technical momentum, mixed fundamentals, value: fair-to-demanding, risk: elevated.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -44,37 +44,37 @@ Targa Resources Corp., together with its subsidiaries, owns, operates, acquires,
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $268.23; 52w high $284.25 (-5.64%); 52w low $143.22 (+87.28%) |
-| Trend | +20.38% vs SMA200, +0.14% vs SMA50, -1.73% vs SMA20 |
-| Momentum | RSI(14) 49.1 (neutral) |
-| Volatility | ATR(14) 7.67 (~2.9% of price); beta 0.72 |
-| Setup perspective | -5.64% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $256.87; 52w high $284.25 (-9.63%); 52w low $143.22 (+79.35%) |
+| Trend | +15.00% vs SMA200, -4.06% vs SMA50, -5.63% vs SMA20 |
+| Momentum | RSI(14) 40.7 (neutral) |
+| Volatility | ATR(14) 8.06 (~3.1% of price); beta — |
+| Setup perspective | -9.63% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +0.4% |
-| Month | -3.0% |
-| Quarter | +8.0% |
-| Half Y | +32.5% |
-| 1Y | +67.4% |
-| YTD | +45.7% |
+| Week | -5.0% |
+| Month | -5.5% |
+| Quarter | +2.2% |
+| Half Y | +26.2% |
+| 1Y | +60.9% |
+| YTD | +39.6% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
-| Next earnings | 2026-08-06 | Next scheduled report (Yahoo estimate) |
-| Revenue (ttm) | $16.56B | Revenue growth -10.20% y/y |
-| Profitability | Gross 41.77%, operating 20.90%, net 12.87% | ROA 9.13%, ROE 74.10% |
-| Balance sheet | Cash $100.10M, debt $19.13B | Current ratio 0.72, debt/equity 585.25 |
-| Valuation | P/E 27.43, forward P/E 22.47, P/S 3.48, P/B 18.36 | EV/Sales 4.53, EV/EBITDA 14.37 |
-| Growth expectations | Earnings growth 142.90%, EPS q/q 77.30% | Analyst mean target $297.29 (21 analysts) |
+| Next earnings | 2026-11-05 | Next scheduled report (Yahoo estimate) |
+| Revenue (ttm) | $16.74B | Revenue growth 4.20% y/y |
+| Profitability | Gross 43.19%, operating 27.80%, net 13.54% | ROA —, ROE — |
+| Balance sheet | Cash —, debt — | Current ratio —, debt/equity 585.25 |
+| Valuation | P/E 24.56, forward P/E 21.45, P/S 3.29, P/B 17.59 | EV/Sales —, EV/EBITDA — |
+| Growth expectations | Earnings growth 24.10%, EPS q/q 21.50% | Analyst mean target $297.38 (21 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 97.45% |
+| Institutional ownership | 97.44% |
 | Insider ownership | 1.37% |
 | Short float | 2.27% |
 | Short ratio (days to cover) | 3.0 |
@@ -95,8 +95,8 @@ Targa Resources Corp., together with its subsidiaries, owns, operates, acquires,
 | Morgan Stanley | 3,218,149 | 1.50% | 2026-03-31 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 22.47, EV/Sales 4.53. Multiple compression is the main downside if growth disappoints.
-- **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
+- **Valuation risk:** Forward P/E 21.45, EV/Sales —. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta —, ATR 3.1% of price, short float 2.27%. Size positions accordingly.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -111,36 +111,36 @@ Targa Resources Corp., together with its subsidiaries, owns, operates, acquires,
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $268.23 | EV/Sales | 4.53 |
-| Market cap | $57.57B | EV/EBITDA | 14.37 |
-| Beta | 0.72 | Gross margin | 41.77% |
-| RSI(14) | 49.1 | Operating margin | 20.90% |
-| ATR(14) | 7.67 | Profit margin | 12.87% |
-| SMA20 dist | -1.73% | ROA | 9.13% |
-| SMA50 dist | +0.14% | ROE | 74.10% |
-| SMA200 dist | +20.38% | Revenue (ttm) | $16.56B |
-| 52W high | $284.25 | Revenue growth y/y | -10.20% |
-| 52W low | $143.22 | Inst. ownership | 97.45% |
-| P/E (ttm) | 27.43 | Insider ownership | 1.37% |
-| Forward P/E | 22.47 | Short float | 2.27% |
-| PEG (trailing) | — | Avg volume | 1,221,226 |
-| P/S | 3.48 | Employees | 3,570 |
-| P/B | 18.36 | Analyst rec (1=buy..5=sell) | 1.5 |
+| Price | $256.87 | EV/Sales | — |
+| Market cap | $55.14B | EV/EBITDA | — |
+| Beta | — | Gross margin | 43.19% |
+| RSI(14) | 40.7 | Operating margin | 27.80% |
+| ATR(14) | 8.06 | Profit margin | 13.54% |
+| SMA20 dist | -5.63% | ROA | — |
+| SMA50 dist | -4.06% | ROE | — |
+| SMA200 dist | +15.00% | Revenue (ttm) | $16.74B |
+| 52W high | $284.25 | Revenue growth y/y | 4.20% |
+| 52W low | $143.22 | Inst. ownership | 97.44% |
+| P/E (ttm) | 24.56 | Insider ownership | 1.37% |
+| Forward P/E | 21.45 | Short float | 2.27% |
+| PEG (trailing) | — | Avg volume | 1,214,181 |
+| P/S | 3.29 | Employees | 3,570 |
+| P/B | 17.59 | Analyst rec (1=buy..5=sell) | 1.5 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-08-07 | main | Barclays | Overweight → Overweight |
+| 2026-08-07 | main | Wells Fargo | Overweight → Overweight |
 | 2026-07-16 | main | TD Cowen | Hold → Hold |
 | 2026-07-15 | main | Truist Securities | Buy → Buy |
 | 2026-07-13 | main | Barclays | Overweight → Overweight |
 | 2026-07-09 | main | JP Morgan | Overweight → Overweight |
 | 2026-06-23 | main | Barclays | Overweight → Overweight |
 | 2026-06-18 | init | Jefferies | — → Buy |
-| 2026-05-27 | main | Mizuho | Outperform → Outperform |
-| 2026-05-14 | main | Barclays | Overweight → Overweight |
 
 ## 9. Conclusion
-TRGP: High momentum / mixed fundamentals / fair-to-demanding value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+TRGP: High momentum / mixed fundamentals / fair-to-demanding value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

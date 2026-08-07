@@ -4,8 +4,8 @@ Signed file: `EOSE.research.07.08.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $3.94 (2026-08-07, ~15-min delayed) |
-| Market cap | $1.43B |
+| Current price | $4.15 (2026-08-07, ~15-min delayed) |
+| Market cap | $1.50B |
 | Sector / Industry | Industrials / Electrical Equipment & Parts |
 | Main theme | Electrical Equipment & Parts — see catalysts below |
 | Current stance | Low technical momentum, weak fundamentals, value: reasonable, risk: high. |
@@ -15,11 +15,11 @@ Signed file: `EOSE.research.07.08.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-59.02%) with negative half-year (-68.23%). |
-| Fresh setup quality | Poor / broken | -79.47% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-56.59%) with negative half-year (-63.21%). |
+| Fresh setup quality | Poor / broken | -78.37% from 52w high — base needs to rebuild. |
 | Fundamental quality | Weak | Negative profit margin (-246.76%). |
-| Value attractiveness | Reasonable | Forward P/E -56.29, EV/Sales 11.39. |
-| Risk level | High | Beta —, ATR 13.0% of price, short float 30.15%. |
+| Value attractiveness | Reasonable | Forward P/E -59.29, EV/Sales 11.59. |
+| Risk level | High | Beta 2.80, ATR 12.1% of price, short float 30.15%. |
 
 **Bottom line:** Low technical momentum, weak fundamentals, value: reasonable, risk: high.
 
@@ -36,30 +36,30 @@ Eos Energy Enterprises, Inc. designs, develops, manufactures, and markets energy
 
 | Headline | Source | Date |
 |---|---|---|
+| Eos Energy (EOSE) Stock Sees Fair Value Cut As Analysts Weigh Growth Against Dilution | Simply Wall St. | 2026-08-07 |
 | Eos Energy (EOSE) Is Up 21.7% After Tightening 2026 Outlook And Consolidating Manufacturing - What's Changed | Simply Wall St. | 2026-08-06 |
 | Eos Energy Enterprises (EOSE) Stock May Be A Bargain On Cash Flow But Fully Priced On Sales | Simply Wall St. | 2026-08-06 |
 | Is Eos Energy Enterprises (EOSE) Fully Valued As It Tightens 2026 Revenue Guidance? | Simply Wall St. | 2026-08-06 |
-| Eos Energy Enterprises, Inc. Q2 2026 Earnings Call Summary | Moby | 2026-08-05 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $3.94; 52w high $19.19 (-79.47%); 52w low $3.14 (+25.48%) |
-| Trend | -59.02% vs SMA200, -29.39% vs SMA50, +1.10% vs SMA20 |
-| Momentum | RSI(14) 44.5 (neutral) |
-| Volatility | ATR(14) 0.51 (~13.0% of price); beta — |
-| Setup perspective | -79.47% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $4.15; 52w high $19.19 (-78.37%); 52w low $3.14 (+32.17%) |
+| Trend | -56.59% vs SMA200, -24.41% vs SMA50, +6.83% vs SMA20 |
+| Momentum | RSI(14) 47.4 (neutral) |
+| Volatility | ATR(14) 0.50 (~12.1% of price); beta 2.80 |
+| Setup perspective | -78.37% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +9.1% |
-| Month | -12.5% |
-| Quarter | -39.8% |
-| Half Y | -68.2% |
-| 1Y | -39.5% |
-| YTD | -69.6% |
+| Week | +22.8% |
+| Month | -9.4% |
+| Quarter | -34.7% |
+| Half Y | -63.2% |
+| 1Y | -35.8% |
+| YTD | -68.0% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,14 +68,14 @@ Eos Energy Enterprises, Inc. designs, develops, manufactures, and markets energy
 | Revenue (ttm) | $214.25M | Revenue growth 351.40% y/y |
 | Profitability | Gross -84.75%, operating -121.86%, net -246.76% | ROA -30.03%, ROE — |
 | Balance sheet | Cash $305.49M, debt $640.83M | Current ratio 3.26, debt/equity — |
-| Valuation | P/E —, forward P/E -56.29, P/S 6.65, P/B -1.54 | EV/Sales 11.39, EV/EBITDA -8.57 |
-| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $7.89 (9 analysts) |
+| Valuation | P/E —, forward P/E -59.29, P/S 7.01, P/B -1.62 | EV/Sales 11.59, EV/EBITDA -8.73 |
+| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $7.00 (9 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 60.40% |
-| Insider ownership | 1.42% |
+| Institutional ownership | 58.43% |
+| Insider ownership | 1.38% |
 | Short float | 30.15% |
 | Short ratio (days to cover) | 4.0 |
 
@@ -83,19 +83,19 @@ Eos Energy Enterprises, Inc. designs, develops, manufactures, and markets energy
 
 | Holder | Shares | % Out | Reported |
 |---|---|---|---|
-| Blackrock Inc. | 24,083,779 | 7.09% | 2026-03-31 |
-| Driehaus Capital Management, LLC | 14,869,170 | 4.38% | 2026-03-31 |
-| Vanguard Capital Management LLC | 14,835,437 | 4.37% | 2026-03-31 |
-| Two Sigma Investments, LP | 14,074,001 | 4.15% | 2026-03-31 |
-| State Street Corporation | 8,017,930 | 2.36% | 2026-03-31 |
-| Geode Capital Management, LLC | 7,812,894 | 2.30% | 2026-03-31 |
-| Marshall Wace LLP | 6,611,495 | 1.95% | 2026-03-31 |
-| Susquehanna International Group, LLP | 6,350,481 | 1.87% | 2026-03-31 |
-| Citadel Advisors Llc | 6,100,772 | 1.80% | 2026-03-31 |
-| Electron Capital Partners, LLC | 5,379,661 | 1.58% | 2026-03-31 |
+| Blackrock Inc. | 24,083,779 | 6.61% | 2026-03-31 |
+| Driehaus Capital Management, LLC | 14,869,170 | 4.08% | 2026-03-31 |
+| Vanguard Capital Management LLC | 14,835,437 | 4.07% | 2026-03-31 |
+| Two Sigma Investments, LP | 14,074,001 | 3.86% | 2026-03-31 |
+| State Street Corporation | 8,017,930 | 2.20% | 2026-03-31 |
+| Geode Capital Management, LLC | 7,812,894 | 2.15% | 2026-03-31 |
+| Marshall Wace LLP | 6,611,495 | 1.82% | 2026-03-31 |
+| Susquehanna International Group, LLP | 6,350,481 | 1.74% | 2026-03-31 |
+| Citadel Advisors Llc | 6,100,772 | 1.68% | 2026-03-31 |
+| Electron Capital Partners, LLC | 5,379,661 | 1.48% | 2026-03-31 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta —, ATR 13.0% of price, short float 30.15%. Size positions accordingly.
+- **Volatility risk:** Beta 2.80, ATR 12.1% of price, short float 30.15%. Size positions accordingly.
 - **Short interest risk:** short float 30.15% can fuel squeezes both ways around news.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
@@ -113,21 +113,21 @@ Eos Energy Enterprises, Inc. designs, develops, manufactures, and markets energy
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $3.94 | EV/Sales | 11.39 |
-| Market cap | $1.43B | EV/EBITDA | -8.57 |
-| Beta | — | Gross margin | -84.75% |
-| RSI(14) | 44.5 | Operating margin | -121.86% |
-| ATR(14) | 0.51 | Profit margin | -246.76% |
-| SMA20 dist | +1.10% | ROA | -30.03% |
-| SMA50 dist | -29.39% | ROE | — |
-| SMA200 dist | -59.02% | Revenue (ttm) | $214.25M |
+| Price | $4.15 | EV/Sales | 11.59 |
+| Market cap | $1.50B | EV/EBITDA | -8.73 |
+| Beta | 2.80 | Gross margin | -84.75% |
+| RSI(14) | 47.4 | Operating margin | -121.86% |
+| ATR(14) | 0.50 | Profit margin | -246.76% |
+| SMA20 dist | +6.83% | ROA | -30.03% |
+| SMA50 dist | -24.41% | ROE | — |
+| SMA200 dist | -56.59% | Revenue (ttm) | $214.25M |
 | 52W high | $19.19 | Revenue growth y/y | 351.40% |
-| 52W low | $3.14 | Inst. ownership | 60.40% |
-| P/E (ttm) | — | Insider ownership | 1.42% |
-| Forward P/E | -56.29 | Short float | 30.15% |
-| PEG (trailing) | — | Avg volume | 28,217,073 |
-| P/S | 6.65 | Employees | 787 |
-| P/B | -1.54 | Analyst rec (1=buy..5=sell) | 2.4 |
+| 52W low | $3.14 | Inst. ownership | 58.43% |
+| P/E (ttm) | — | Insider ownership | 1.38% |
+| Forward P/E | -59.29 | Short float | 30.15% |
+| PEG (trailing) | — | Avg volume | 28,326,949 |
+| P/S | 7.01 | Employees | 787 |
+| P/B | -1.62 | Analyst rec (1=buy..5=sell) | 2.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

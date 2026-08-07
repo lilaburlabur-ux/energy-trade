@@ -4,8 +4,8 @@ Signed file: `EPD.research.07.08.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $38.05 (2026-08-07, ~15-min delayed) |
-| Market cap | $82.32B |
+| Current price | $37.75 (2026-08-07, ~15-min delayed) |
+| Market cap | $81.67B |
 | Sector / Industry | Energy / Oil & Gas Midstream |
 | Main theme | Oil & Gas Midstream — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,10 +15,10 @@ Signed file: `EPD.research.07.08.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +30.06%; price +10.28% vs SMA200. |
-| Fresh setup quality | Watch | -2.97% from 52w high and near SMA20 — check for a tight base. |
+| Technical momentum | Moderate | 1Y +28.70%; price +9.27% vs SMA200. |
+| Fresh setup quality | Watch | -3.74% from 52w high and near SMA20 — check for a tight base. |
 | Fundamental quality | Mixed | Profit margin 10.79%, revenue growth 60.80%. |
-| Value attractiveness | Reasonable | Forward P/E 12.07, EV/Sales 2.01. |
+| Value attractiveness | Reasonable | Forward P/E 11.97, EV/Sales 2.01. |
 | Risk level | Moderate | Beta 0.48, ATR 1.9% of price, short float 2.34%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -36,30 +36,30 @@ Enterprise Products Partners L.P. provides midstream energy services to producer
 
 | Headline | Source | Date |
 |---|---|---|
+| Enterprise Products (EPD) Q2 Earnings: How Key Metrics Compare to Wall Street Estimates | Zacks | 2026-08-07 |
+| WES Q2 Earnings Beat Estimates on Record Throughput & Pricing | Zacks | 2026-08-07 |
+| 20 Years on Wall Street Taught Me to Buy and Hold 5 High-Yield Energy Giants | 24/7 Wall St. | 2026-08-07 |
 | 3 Midstream Stocks Quietly Compounding Dividends Every Year | Motley Fool | 2026-08-05 |
-| Can EPD's Record Q2 Momentum Sustain Earnings Growth Through 2027? | Zacks | 2026-08-05 |
-| Enterprise Products Just Raised Its Dividend. Here's What the New Yield Looks Like. | Motley Fool | 2026-08-05 |
-| Enterprise Products Partners (EPD) Stock Still Looks Like A Bargain | Simply Wall St. | 2026-08-03 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $38.05; 52w high $39.22 (-2.97%); 52w low $28.35 (+34.20%) |
-| Trend | +10.28% vs SMA200, +2.68% vs SMA50, +0.70% vs SMA20 |
-| Momentum | RSI(14) 55.1 (neutral) |
-| Volatility | ATR(14) 0.73 (~1.9% of price); beta 0.48 |
-| Setup perspective | -2.97% from 52w high and near SMA20 — check for a tight base. |
+| Price vs 52-week range | Close $37.75; 52w high $39.22 (-3.74%); 52w low $28.35 (+33.14%) |
+| Trend | +9.27% vs SMA200, +1.86% vs SMA50, -0.23% vs SMA20 |
+| Momentum | RSI(14) 51.7 (neutral) |
+| Volatility | ATR(14) 0.70 (~1.9% of price); beta 0.48 |
+| Setup perspective | -3.74% from 52w high and near SMA20 — check for a tight base. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +1.3% |
-| Month | +2.2% |
-| Quarter | +2.8% |
-| Half Y | +11.3% |
-| 1Y | +30.1% |
-| YTD | +23.8% |
+| Week | -0.8% |
+| Month | +2.7% |
+| Quarter | +1.5% |
+| Half Y | +10.8% |
+| 1Y | +28.7% |
+| YTD | +22.8% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ Enterprise Products Partners L.P. provides midstream energy services to producer
 | Revenue (ttm) | $58.47B | Revenue growth 60.80% y/y |
 | Profitability | Gross 13.33%, operating 11.76%, net 10.79% | ROA —, ROE — |
 | Balance sheet | Cash $191.00M, debt $34.38B | Current ratio —, debt/equity 113.13 |
-| Valuation | P/E 13.17, forward P/E 12.07, P/S 1.41, P/B 2.79 | EV/Sales 2.01, EV/EBITDA 11.41 |
+| Valuation | P/E 13.06, forward P/E 11.97, P/S 1.40, P/B 2.77 | EV/Sales 2.01, EV/EBITDA 11.41 |
 | Growth expectations | Earnings growth 29.60%, EPS q/q 28.40% | Analyst mean target $41.20 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 24.98% |
+| Institutional ownership | 25.01% |
 | Insider ownership | 32.98% |
 | Short float | 2.34% |
 | Short ratio (days to cover) | 6.0 |
@@ -110,21 +110,21 @@ Enterprise Products Partners L.P. provides midstream energy services to producer
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $38.05 | EV/Sales | 2.01 |
-| Market cap | $82.32B | EV/EBITDA | 11.41 |
+| Price | $37.75 | EV/Sales | 2.01 |
+| Market cap | $81.67B | EV/EBITDA | 11.41 |
 | Beta | 0.48 | Gross margin | 13.33% |
-| RSI(14) | 55.1 | Operating margin | 11.76% |
-| ATR(14) | 0.73 | Profit margin | 10.79% |
-| SMA20 dist | +0.70% | ROA | — |
-| SMA50 dist | +2.68% | ROE | — |
-| SMA200 dist | +10.28% | Revenue (ttm) | $58.47B |
+| RSI(14) | 51.7 | Operating margin | 11.76% |
+| ATR(14) | 0.70 | Profit margin | 10.79% |
+| SMA20 dist | -0.23% | ROA | — |
+| SMA50 dist | +1.86% | ROE | — |
+| SMA200 dist | +9.27% | Revenue (ttm) | $58.47B |
 | 52W high | $39.22 | Revenue growth y/y | 60.80% |
-| 52W low | $28.35 | Inst. ownership | 24.98% |
-| P/E (ttm) | 13.17 | Insider ownership | 32.98% |
-| Forward P/E | 12.07 | Short float | 2.34% |
-| PEG (trailing) | 1.48 | Avg volume | 3,329,248 |
-| P/S | 1.41 | Employees | 0 |
-| P/B | 2.79 | Analyst rec (1=buy..5=sell) | 2.2 |
+| 52W low | $28.35 | Inst. ownership | 25.01% |
+| P/E (ttm) | 13.06 | Insider ownership | 32.98% |
+| Forward P/E | 11.97 | Short float | 2.34% |
+| PEG (trailing) | 1.48 | Avg volume | 3,327,459 |
+| P/S | 1.40 | Employees | 0 |
+| P/B | 2.77 | Analyst rec (1=buy..5=sell) | 2.2 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

@@ -4,8 +4,8 @@ Signed file: `ET.research.07.08.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $20.67 (2026-08-07, ~15-min delayed) |
-| Market cap | $71.17B |
+| Current price | $20.13 (2026-08-07, ~15-min delayed) |
+| Market cap | $69.31B |
 | Sector / Industry | Energy / Oil & Gas Midstream |
 | Main theme | Oil & Gas Midstream — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `ET.research.07.08.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +25.60%; price +14.25% vs SMA200. |
-| Fresh setup quality | Watch | +0.00% from 52w high and near SMA20 — check for a tight base. |
+| Technical momentum | Moderate | 1Y +21.43%; price +11.13% vs SMA200. |
+| Fresh setup quality | Watch | -2.61% from 52w high and near SMA20 — check for a tight base. |
 | Fundamental quality | Mixed | Profit margin 4.92%, revenue growth 78.40%. |
-| Value attractiveness | Reasonable | Forward P/E 13.17, EV/Sales —. |
-| Risk level | Moderate | Beta 0.56, ATR 1.7% of price, short float 1.09%. |
+| Value attractiveness | Reasonable | Forward P/E 12.63, EV/Sales —. |
+| Risk level | Moderate | Beta 0.56, ATR 1.8% of price, short float 1.09%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
@@ -36,30 +36,30 @@ Energy Transfer LP, together with its subsidiaries, provides energy-related serv
 
 | Headline | Source | Date |
 |---|---|---|
-| Sempra's Q2 Earnings Outpace Estimates, Revenues Fall Y/Y | Zacks | 2026-08-06 |
-| Ormat Technologies Q2 Earnings and Revenues Beat Estimates | Zacks | 2026-08-06 |
-| With a Nearly 7% Yield and Soaring Profits, Is Energy Transfer Stock a Buy? | Motley Fool | 2026-08-06 |
-| 2 Energy Dividend Stocks to Buy in August for Steady Income | Motley Fool | 2026-08-05 |
+| Can WMB's Momentum Deal Power 11% Growth Through 2030 and Beyond? | Zacks | 2026-08-07 |
+| 20 Years on Wall Street Taught Me to Buy and Hold 5 High-Yield Energy Giants | 24/7 Wall St. | 2026-08-07 |
+| Did Strong Q2 Results and a Higher Payout Just Shift Energy Transfer's (ET) Investment Narrative? | Simply Wall St. | 2026-08-07 |
+| Nat-Gas Prices Tumble on a Larger-Than-Expected Storage Build | Barchart | 2026-08-06 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $20.67; 52w high $20.67 (+0.00%); 52w low $15.41 (+34.15%) |
-| Trend | +14.25% vs SMA200, +5.34% vs SMA50, +2.19% vs SMA20 |
-| Momentum | RSI(14) 66.1 (neutral) |
-| Volatility | ATR(14) 0.35 (~1.7% of price); beta 0.56 |
-| Setup perspective | +0.00% from 52w high and near SMA20 — check for a tight base. |
+| Price vs 52-week range | Close $20.13; 52w high $20.67 (-2.61%); 52w low $15.41 (+30.64%) |
+| Trend | +11.13% vs SMA200, +2.51% vs SMA50, -0.60% vs SMA20 |
+| Momentum | RSI(14) 51.4 (neutral) |
+| Volatility | ATR(14) 0.36 (~1.8% of price); beta 0.56 |
+| Setup perspective | -2.61% from 52w high and near SMA20 — check for a tight base. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +2.1% |
-| Month | +4.1% |
-| Quarter | +5.8% |
-| Half Y | +16.6% |
-| 1Y | +25.6% |
-| YTD | +29.1% |
+| Week | -1.1% |
+| Month | +1.7% |
+| Quarter | +2.8% |
+| Half Y | +14.7% |
+| 1Y | +21.4% |
+| YTD | +25.7% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ Energy Transfer LP, together with its subsidiaries, provides energy-related serv
 | Revenue (ttm) | $107.38B | Revenue growth 78.40% y/y |
 | Profitability | Gross 17.51%, operating 10.41%, net 4.92% | ROA 5.06%, ROE 14.56% |
 | Balance sheet | Cash —, debt $70.01B | Current ratio 1.16, debt/equity 137.88 |
-| Valuation | P/E 17.22, forward P/E 13.17, P/S 0.66, P/B 2.29 | EV/Sales —, EV/EBITDA — |
-| Growth expectations | Earnings growth 85.30%, EPS q/q 79.50% | Analyst mean target $23.95 (21 analysts) |
+| Valuation | P/E 13.79, forward P/E 12.63, P/S 0.65, P/B 2.17 | EV/Sales —, EV/EBITDA — |
+| Growth expectations | Earnings growth 85.30%, EPS q/q 79.50% | Analyst mean target $24.24 (21 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 32.03% |
+| Institutional ownership | 32.08% |
 | Insider ownership | 10.29% |
 | Short float | 1.09% |
 | Short ratio (days to cover) | 4.1 |
@@ -110,25 +110,26 @@ Energy Transfer LP, together with its subsidiaries, provides energy-related serv
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $20.67 | EV/Sales | — |
-| Market cap | $71.17B | EV/EBITDA | — |
+| Price | $20.13 | EV/Sales | — |
+| Market cap | $69.31B | EV/EBITDA | — |
 | Beta | 0.56 | Gross margin | 17.51% |
-| RSI(14) | 66.1 | Operating margin | 10.41% |
-| ATR(14) | 0.35 | Profit margin | 4.92% |
-| SMA20 dist | +2.19% | ROA | 5.06% |
-| SMA50 dist | +5.34% | ROE | 14.56% |
-| SMA200 dist | +14.25% | Revenue (ttm) | $107.38B |
+| RSI(14) | 51.4 | Operating margin | 10.41% |
+| ATR(14) | 0.36 | Profit margin | 4.92% |
+| SMA20 dist | -0.60% | ROA | 5.06% |
+| SMA50 dist | +2.51% | ROE | 14.56% |
+| SMA200 dist | +11.13% | Revenue (ttm) | $107.38B |
 | 52W high | $20.67 | Revenue growth y/y | 78.40% |
-| 52W low | $15.41 | Inst. ownership | 32.03% |
-| P/E (ttm) | 17.22 | Insider ownership | 10.29% |
-| Forward P/E | 13.17 | Short float | 1.09% |
-| PEG (trailing) | 0.61 | Avg volume | 9,249,468 |
-| P/S | 0.66 | Employees | 22,311 |
-| P/B | 2.29 | Analyst rec (1=buy..5=sell) | 1.4 |
+| 52W low | $15.41 | Inst. ownership | 32.08% |
+| P/E (ttm) | 13.79 | Insider ownership | 10.29% |
+| Forward P/E | 12.63 | Short float | 1.09% |
+| PEG (trailing) | 0.61 | Avg volume | 9,202,233 |
+| P/S | 0.65 | Employees | 22,311 |
+| P/B | 2.17 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-08-07 | main | Citigroup | Buy → Buy |
 | 2026-08-05 | main | Barclays | Overweight → Overweight |
 | 2026-07-21 | main | RBC Capital | Outperform → Outperform |
 | 2026-07-16 | main | TD Cowen | Buy → Buy |
@@ -136,7 +137,6 @@ Energy Transfer LP, together with its subsidiaries, provides energy-related serv
 | 2026-05-14 | main | Barclays | Overweight → Overweight |
 | 2026-05-13 | main | TD Cowen | Buy → Buy |
 | 2026-05-12 | main | Scotiabank | Sector Outperform → Sector Outperform |
-| 2026-05-12 | main | JP Morgan | Overweight → Overweight |
 
 ## 9. Conclusion
 ET: Moderate momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

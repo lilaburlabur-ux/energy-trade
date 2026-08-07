@@ -4,24 +4,24 @@ Signed file: `PR.research.07.08.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $20.28 (2026-08-07, ~15-min delayed) |
-| Market cap | $17.47B |
+| Current price | $20.15 (2026-08-07, ~15-min delayed) |
+| Market cap | $16.88B |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
-| Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
+| Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-08-07.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +53.81%; price +16.79% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -9.18% from 52w high; no clean fresh pivot by default. |
-| Fundamental quality | Mixed | Profit margin 12.79%, revenue growth 0.90%. |
-| Value attractiveness | Reasonable | Forward P/E 9.73, EV/Sales 3.96. |
-| Risk level | Elevated | Beta 0.48, ATR 3.5% of price, short float 3.05%. |
+| Technical momentum | Moderate | 1Y +54.28%; price +15.77% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -9.76% from 52w high; no clean fresh pivot by default. |
+| Fundamental quality | Strong | Profit margin 21.52%, revenue growth 55.10%. |
+| Value attractiveness | Reasonable | Forward P/E 9.55, EV/Sales 3.48. |
+| Risk level | Elevated | Beta —, ATR 3.4% of price, short float 3.05%. |
 
-**Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
+**Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -36,45 +36,45 @@ Permian Resources Corporation, an independent oil and natural gas company, focus
 
 | Headline | Source | Date |
 |---|---|---|
+| What Makes Permian Resources Corp. (PR) an Investment Bet? | Insider Monkey | 2026-08-07 |
 | Permian Resources Corp (PR) (Q2 2026) Earnings Call Highlights: Record Free Cash Flow and ... | GuruFocus.com | 2026-08-06 |
 | Permian Resources Corporation Q2 2026 Earnings Call Summary | Moby | 2026-08-06 |
 | Permian Resources (PR) Q2 Earnings and Revenues Beat Estimates | Zacks | 2026-08-06 |
-| Compared to Estimates, Permian Resources (PR) Q2 Earnings: A Look at Key Metrics | Zacks | 2026-08-05 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $20.28; 52w high $22.33 (-9.18%); 52w low $11.76 (+72.44%) |
-| Trend | +16.79% vs SMA200, +3.76% vs SMA50, -0.53% vs SMA20 |
-| Momentum | RSI(14) 51.2 (neutral) |
-| Volatility | ATR(14) 0.70 (~3.5% of price); beta 0.48 |
-| Setup perspective | -9.18% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $20.15; 52w high $22.33 (-9.76%); 52w low $11.76 (+71.34%) |
+| Trend | +15.77% vs SMA200, +2.99% vs SMA50, -1.41% vs SMA20 |
+| Momentum | RSI(14) 50.0 (neutral) |
+| Volatility | ATR(14) 0.69 (~3.4% of price); beta — |
+| Setup perspective | -9.76% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -3.4% |
-| Month | +4.8% |
-| Quarter | -3.6% |
-| Half Y | +24.2% |
-| 1Y | +53.8% |
-| YTD | +43.2% |
+| Week | -5.4% |
+| Month | +5.7% |
+| Quarter | +1.2% |
+| Half Y | +24.7% |
+| 1Y | +54.3% |
+| YTD | +42.3% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
 | Next earnings | 2026-11-04 | Next scheduled report (Yahoo estimate) |
-| Revenue (ttm) | $5.08B | Revenue growth 0.90% y/y |
-| Profitability | Gross 73.33%, operating 9.17%, net 12.79% | ROA 5.25%, ROE 6.86% |
-| Balance sheet | Cash $170.78M, debt $3.70B | Current ratio 0.66, debt/equity 32.70 |
-| Valuation | P/E 13.08, forward P/E 9.73, P/S 3.44, P/B 1.50 | EV/Sales 3.96, EV/EBITDA 5.64 |
-| Growth expectations | Earnings growth -88.70%, EPS q/q -86.80% | Analyst mean target $25.05 (19 analysts) |
+| Revenue (ttm) | $5.74B | Revenue growth 55.10% y/y |
+| Profitability | Gross 75.85%, operating 57.54%, net 21.52% | ROA 7.53%, ROE 11.40% |
+| Balance sheet | Cash $131.72M, debt $3.13B | Current ratio 0.62, debt/equity 26.11 |
+| Valuation | P/E 13.00, forward P/E 9.55, P/S 2.94, P/B 1.49 | EV/Sales 3.48, EV/EBITDA 4.70 |
+| Growth expectations | Earnings growth 232.90%, EPS q/q 282.60% | Analyst mean target $25.05 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 89.89% |
+| Institutional ownership | 88.98% |
 | Insider ownership | 4.61% |
 | Short float | 3.05% |
 | Short ratio (days to cover) | 2.1 |
@@ -92,10 +92,10 @@ Permian Resources Corporation, an independent oil and natural gas company, focus
 | State Street Corporation | 25,688,235 | 3.07% | 2026-03-31 |
 | Post Oak Energy Holdings, LLC | 21,048,629 | 2.51% | 2026-03-31 |
 | Wellington Management Group, LLP | 19,393,054 | 2.32% | 2026-03-31 |
-| Boston Partners | 18,641,778 | 2.23% | 2026-03-31 |
+| Boston Partners | 18,115,841 | 2.16% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 0.48, ATR 3.5% of price, short float 3.05%. Size positions accordingly.
+- **Volatility risk:** Beta —, ATR 3.4% of price, short float 3.05%. Size positions accordingly.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -110,21 +110,21 @@ Permian Resources Corporation, an independent oil and natural gas company, focus
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $20.28 | EV/Sales | 3.96 |
-| Market cap | $17.47B | EV/EBITDA | 5.64 |
-| Beta | 0.48 | Gross margin | 73.33% |
-| RSI(14) | 51.2 | Operating margin | 9.17% |
-| ATR(14) | 0.70 | Profit margin | 12.79% |
-| SMA20 dist | -0.53% | ROA | 5.25% |
-| SMA50 dist | +3.76% | ROE | 6.86% |
-| SMA200 dist | +16.79% | Revenue (ttm) | $5.08B |
-| 52W high | $22.33 | Revenue growth y/y | 0.90% |
-| 52W low | $11.76 | Inst. ownership | 89.89% |
-| P/E (ttm) | 13.08 | Insider ownership | 4.61% |
-| Forward P/E | 9.73 | Short float | 3.05% |
-| PEG (trailing) | 1.34 | Avg volume | 10,397,105 |
-| P/S | 3.44 | Employees | 515 |
-| P/B | 1.50 | Analyst rec (1=buy..5=sell) | 1.3 |
+| Price | $20.15 | EV/Sales | 3.48 |
+| Market cap | $16.88B | EV/EBITDA | 4.70 |
+| Beta | — | Gross margin | 75.85% |
+| RSI(14) | 50.0 | Operating margin | 57.54% |
+| ATR(14) | 0.69 | Profit margin | 21.52% |
+| SMA20 dist | -1.41% | ROA | 7.53% |
+| SMA50 dist | +2.99% | ROE | 11.40% |
+| SMA200 dist | +15.77% | Revenue (ttm) | $5.74B |
+| 52W high | $22.33 | Revenue growth y/y | 55.10% |
+| 52W low | $11.76 | Inst. ownership | 88.98% |
+| P/E (ttm) | 13.00 | Insider ownership | 4.61% |
+| Forward P/E | 9.55 | Short float | 3.05% |
+| PEG (trailing) | 1.34 | Avg volume | 10,122,552 |
+| P/S | 2.94 | Employees | 515 |
+| P/B | 1.49 | Analyst rec (1=buy..5=sell) | 1.3 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
@@ -139,7 +139,7 @@ Permian Resources Corporation, an independent oil and natural gas company, focus
 | 2026-04-22 | main | Scotiabank | Sector Outperform → Sector Outperform |
 
 ## 9. Conclusion
-PR: Moderate momentum / mixed fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+PR: Moderate momentum / strong fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

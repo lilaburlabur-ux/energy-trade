@@ -4,8 +4,8 @@ Signed file: `NXT.research.07.08.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $98.43 (2026-08-07, ~15-min delayed) |
-| Market cap | $15.12B |
+| Current price | $103.26 (2026-08-07, ~15-min delayed) |
+| Market cap | $15.86B |
 | Sector / Industry | Technology / Solar |
 | Main theme | Solar — see catalysts below |
 | Current stance | High technical momentum, mixed fundamentals, value: reasonable, risk: high. |
@@ -15,11 +15,11 @@ Signed file: `NXT.research.07.08.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +75.71%; price -9.82% vs SMA200. |
-| Fresh setup quality | Poor / broken | -37.07% from 52w high — base needs to rebuild. |
+| Technical momentum | High | 1Y +89.05%; price -5.45% vs SMA200. |
+| Fresh setup quality | Poor / broken | -33.98% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 16.36%, revenue growth 8.20%. |
-| Value attractiveness | Reasonable | Forward P/E 16.99, EV/Sales 3.79. |
-| Risk level | High | Beta 1.95, ATR 7.6% of price, short float 6.54%. |
+| Value attractiveness | Reasonable | Forward P/E 17.95, EV/Sales 3.79. |
+| Risk level | High | Beta 1.95, ATR 7.1% of price, short float 6.54%. |
 
 **Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: high.
 
@@ -44,22 +44,22 @@ Nextpower Inc. provides solar and energy technology solutions for utility-scale 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $98.43; 52w high $156.40 (-37.07%); 52w low $53.80 (+82.96%) |
-| Trend | -9.82% vs SMA200, -14.58% vs SMA50, -2.36% vs SMA20 |
-| Momentum | RSI(14) 44.8 (neutral) |
-| Volatility | ATR(14) 7.48 (~7.6% of price); beta 1.95 |
-| Setup perspective | -37.07% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $103.26; 52w high $156.40 (-33.98%); 52w low $53.80 (+91.93%) |
+| Trend | -5.45% vs SMA200, -9.88% vs SMA50, +2.85% vs SMA20 |
+| Momentum | RSI(14) 49.5 (neutral) |
+| Volatility | ATR(14) 7.34 (~7.1% of price); beta 1.95 |
+| Setup perspective | -33.98% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +1.6% |
-| Month | -10.3% |
-| Quarter | -21.9% |
-| Half Y | -15.7% |
-| 1Y | +75.7% |
-| YTD | +6.1% |
+| Week | +14.9% |
+| Month | -8.4% |
+| Quarter | -14.6% |
+| Half Y | -9.8% |
+| 1Y | +89.1% |
+| YTD | +11.3% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ Nextpower Inc. provides solar and energy technology solutions for utility-scale 
 | Revenue (ttm) | $3.63B | Revenue growth 8.20% y/y |
 | Profitability | Gross 22.98%, operating 20.86%, net 16.36% | ROA 11.68%, ROE 27.22% |
 | Balance sheet | Cash $1.21B, debt $38.40M | Current ratio 2.69, debt/equity 1.50 |
-| Valuation | P/E 25.43, forward P/E 16.99, P/S 4.17, P/B 6.30 | EV/Sales 3.79, EV/EBITDA 18.37 |
-| Growth expectations | Earnings growth 2.90%, EPS q/q 5.20% | Analyst mean target $143.18 (28 analysts) |
+| Valuation | P/E 26.68, forward P/E 17.95, P/S 4.37, P/B 6.12 | EV/Sales 3.79, EV/EBITDA 18.37 |
+| Growth expectations | Earnings growth 2.90%, EPS q/q 5.20% | Analyst mean target $143.74 (27 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 113.41% |
+| Institutional ownership | 113.39% |
 | Insider ownership | 0.68% |
 | Short float | 6.54% |
 | Short ratio (days to cover) | 1.9 |
@@ -83,7 +83,7 @@ Nextpower Inc. provides solar and energy technology solutions for utility-scale 
 
 | Holder | Shares | % Out | Reported |
 |---|---|---|---|
-| Blackrock Inc. | 24,872,657 | 16.40% | 2026-03-31 |
+| Blackrock Inc. | 24,872,657 | 16.39% | 2026-03-31 |
 | FMR, LLC | 20,248,938 | 13.35% | 2026-03-31 |
 | Primecap Management Company | 6,760,847 | 4.46% | 2026-03-31 |
 | Vanguard Portfolio Management LLC | 6,704,709 | 4.42% | 2026-03-31 |
@@ -95,7 +95,7 @@ Nextpower Inc. provides solar and energy technology solutions for utility-scale 
 | Price (T.Rowe) Associates Inc | 2,634,241 | 1.74% | 2026-03-31 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.95, ATR 7.6% of price, short float 6.54%. Size positions accordingly.
+- **Volatility risk:** Beta 1.95, ATR 7.1% of price, short float 6.54%. Size positions accordingly.
 - **Short interest risk:** short float 6.54% can fuel squeezes both ways around news.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
@@ -112,21 +112,21 @@ Nextpower Inc. provides solar and energy technology solutions for utility-scale 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $98.43 | EV/Sales | 3.79 |
-| Market cap | $15.12B | EV/EBITDA | 18.37 |
+| Price | $103.26 | EV/Sales | 3.79 |
+| Market cap | $15.86B | EV/EBITDA | 18.37 |
 | Beta | 1.95 | Gross margin | 22.98% |
-| RSI(14) | 44.8 | Operating margin | 20.86% |
-| ATR(14) | 7.48 | Profit margin | 16.36% |
-| SMA20 dist | -2.36% | ROA | 11.68% |
-| SMA50 dist | -14.58% | ROE | 27.22% |
-| SMA200 dist | -9.82% | Revenue (ttm) | $3.63B |
+| RSI(14) | 49.5 | Operating margin | 20.86% |
+| ATR(14) | 7.34 | Profit margin | 16.36% |
+| SMA20 dist | +2.85% | ROA | 11.68% |
+| SMA50 dist | -9.88% | ROE | 27.22% |
+| SMA200 dist | -5.45% | Revenue (ttm) | $3.63B |
 | 52W high | $156.40 | Revenue growth y/y | 8.20% |
-| 52W low | $53.80 | Inst. ownership | 113.41% |
-| P/E (ttm) | 25.43 | Insider ownership | 0.68% |
-| Forward P/E | 16.99 | Short float | 6.54% |
-| PEG (trailing) | 3.15 | Avg volume | 3,275,520 |
-| P/S | 4.17 | Employees | 1,993 |
-| P/B | 6.30 | Analyst rec (1=buy..5=sell) | 1.5 |
+| 52W low | $53.80 | Inst. ownership | 113.39% |
+| P/E (ttm) | 26.68 | Insider ownership | 0.68% |
+| Forward P/E | 17.95 | Short float | 6.54% |
+| PEG (trailing) | 3.15 | Avg volume | 3,300,786 |
+| P/S | 4.37 | Employees | 1,993 |
+| P/B | 6.12 | Analyst rec (1=buy..5=sell) | 1.5 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

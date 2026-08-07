@@ -4,8 +4,8 @@ Signed file: `NXE.research.07.08.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $10.23 (2026-08-07, ~15-min delayed) |
-| Market cap | $6.86B |
+| Current price | $10.43 (2026-08-07, ~15-min delayed) |
+| Market cap | $6.99B |
 | Sector / Industry | Energy / Uranium |
 | Main theme | Uranium — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
@@ -15,11 +15,11 @@ Signed file: `NXE.research.07.08.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-3.71%) with negative half-year (-11.96%). |
-| Fresh setup quality | Poor / broken | -26.51% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-1.90%) with negative half-year (-5.87%). |
+| Fresh setup quality | Poor / broken | -25.07% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 0.00%, revenue growth —. |
-| Value attractiveness | Reasonable | Forward P/E -55.02, EV/Sales —. |
-| Risk level | Elevated | Beta —, ATR 4.6% of price, short float —. |
+| Value attractiveness | Reasonable | Forward P/E -59.58, EV/Sales —. |
+| Risk level | Elevated | Beta 1.65, ATR 4.6% of price, short float —. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
 
@@ -44,22 +44,22 @@ NexGen Energy Ltd., an exploration and development stage company, engages in the
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $10.23; 52w high $13.92 (-26.51%); 52w low $6.46 (+58.36%) |
-| Trend | -3.71% vs SMA200, +3.43% vs SMA50, +9.82% vs SMA20 |
-| Momentum | RSI(14) 60.1 (neutral) |
-| Volatility | ATR(14) 0.47 (~4.6% of price); beta — |
-| Setup perspective | -26.51% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $10.43; 52w high $13.92 (-25.07%); 52w low $6.46 (+61.46%) |
+| Trend | -1.90% vs SMA200, +5.60% vs SMA50, +11.52% vs SMA20 |
+| Momentum | RSI(14) 62.4 (neutral) |
+| Volatility | ATR(14) 0.47 (~4.6% of price); beta 1.65 |
+| Setup perspective | -25.07% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +9.8% |
-| Month | +11.4% |
-| Quarter | -20.6% |
-| Half Y | -12.0% |
-| 1Y | +47.4% |
-| YTD | -0.2% |
+| Week | +14.0% |
+| Month | +10.0% |
+| Quarter | -15.8% |
+| Half Y | -5.9% |
+| 1Y | +46.7% |
+| YTD | +1.8% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -67,15 +67,15 @@ NexGen Energy Ltd., an exploration and development stage company, engages in the
 | Next earnings | 2026-11-03 | Next scheduled report (Yahoo estimate) |
 | Revenue (ttm) | — | Revenue growth — y/y |
 | Profitability | Gross 0.00%, operating 0.00%, net 0.00% | ROA -3.39%, ROE -17.67% |
-| Balance sheet | Cash $970.25M, debt $613.07M | Current ratio 1.46, debt/equity 33.24 |
-| Valuation | P/E —, forward P/E -55.02, P/S —, P/B 5.61 | EV/Sales —, EV/EBITDA -58.31 |
-| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $19.31 (1 analysts) |
+| Balance sheet | Cash $970.25M, debt $619.11M | Current ratio 1.46, debt/equity 33.57 |
+| Valuation | P/E —, forward P/E -59.58, P/S —, P/B 5.72 | EV/Sales —, EV/EBITDA -59.98 |
+| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $19.42 (1 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 55.14% |
-| Insider ownership | 6.47% |
+| Institutional ownership | 54.51% |
+| Insider ownership | 6.39% |
 | Short float | — |
 | Short ratio (days to cover) | 8.0 |
 
@@ -95,7 +95,7 @@ NexGen Energy Ltd., an exploration and development stage company, engages in the
 | Vanguard Fiduciary Trust Co | 5,343,563 | 0.80% | 2026-03-31 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta —, ATR 4.6% of price, short float —. Size positions accordingly.
+- **Volatility risk:** Beta 1.65, ATR 4.6% of price, short float —. Size positions accordingly.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -111,21 +111,21 @@ NexGen Energy Ltd., an exploration and development stage company, engages in the
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $10.23 | EV/Sales | — |
-| Market cap | $6.86B | EV/EBITDA | -58.31 |
-| Beta | — | Gross margin | 0.00% |
-| RSI(14) | 60.1 | Operating margin | 0.00% |
+| Price | $10.43 | EV/Sales | — |
+| Market cap | $6.99B | EV/EBITDA | -59.98 |
+| Beta | 1.65 | Gross margin | 0.00% |
+| RSI(14) | 62.4 | Operating margin | 0.00% |
 | ATR(14) | 0.47 | Profit margin | 0.00% |
-| SMA20 dist | +9.82% | ROA | -3.39% |
-| SMA50 dist | +3.43% | ROE | -17.67% |
-| SMA200 dist | -3.71% | Revenue (ttm) | — |
+| SMA20 dist | +11.52% | ROA | -3.39% |
+| SMA50 dist | +5.60% | ROE | -17.67% |
+| SMA200 dist | -1.90% | Revenue (ttm) | — |
 | 52W high | $13.92 | Revenue growth y/y | — |
-| 52W low | $6.46 | Inst. ownership | 55.14% |
-| P/E (ttm) | — | Insider ownership | 6.47% |
-| Forward P/E | -55.02 | Short float | — |
-| PEG (trailing) | — | Avg volume | 5,787,786 |
+| 52W low | $6.46 | Inst. ownership | 54.51% |
+| P/E (ttm) | — | Insider ownership | 6.39% |
+| Forward P/E | -59.58 | Short float | — |
+| PEG (trailing) | — | Avg volume | 5,741,566 |
 | P/S | — | Employees | 142 |
-| P/B | 5.61 | Analyst rec (1=buy..5=sell) | 1.5 |
+| P/B | 5.72 | Analyst rec (1=buy..5=sell) | 1.5 |
 
 ## 8. Analyst Actions
 _No recent analyst actions available from Yahoo._

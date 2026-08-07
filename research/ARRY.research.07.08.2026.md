@@ -4,8 +4,8 @@ Signed file: `ARRY.research.07.08.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $5.25 (2026-08-07, ~15-min delayed) |
-| Market cap | $807.59M |
+| Current price | $5.55 (2026-08-07, ~15-min delayed) |
+| Market cap | $853.74M |
 | Sector / Industry | Technology / Solar |
 | Main theme | Solar — see catalysts below |
 | Current stance | Low technical momentum, weak fundamentals, value: reasonable, risk: high. |
@@ -15,11 +15,11 @@ Signed file: `ARRY.research.07.08.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-36.21%) with negative half-year (-56.10%). |
-| Fresh setup quality | Poor / broken | -56.10% from 52w high — base needs to rebuild. |
-| Fundamental quality | Weak | Negative profit margin (-5.56%). |
-| Value attractiveness | Reasonable | Forward P/E 5.77, EV/Sales 1.59. |
-| Risk level | High | Beta 1.79, ATR 9.0% of price, short float 25.46%. |
+| Technical momentum | Low | Below SMA200 (-32.43%) with negative half-year (-50.13%). |
+| Fresh setup quality | Poor / broken | -53.60% from 52w high — base needs to rebuild. |
+| Fundamental quality | Weak | Negative profit margin (-7.25%). |
+| Value attractiveness | Reasonable | Forward P/E 6.26, EV/Sales 1.48. |
+| Risk level | High | Beta —, ATR 8.6% of price, short float 25.46%. |
 
 **Bottom line:** Low technical momentum, weak fundamentals, value: reasonable, risk: high.
 
@@ -36,45 +36,45 @@ Array Technologies, Inc. engages in the manufacture and sale of solar tracking t
 
 | Headline | Source | Date |
 |---|---|---|
+| Array (NASDAQ:ARRY) Posts Better-Than-Expected Sales In Q2 CY2026 But Quarterly Revenue Guidance Misses Expectations | StockStory | 2026-08-07 |
+| Array Technologies, Inc. Q2 2026 Earnings Call Summary | Moby | 2026-08-06 |
 | Array Technologies, Inc. (ARRY) Q2 Earnings and Revenues Surpass Estimates | Zacks | 2026-08-06 |
-| Array (NASDAQ:ARRY) Posts Better-Than-Expected Sales In Q2 CY2026 But Quarterly Revenue Guidance Misses Expectations | StockStory | 2026-08-05 |
 | Solar Stocks Tumble After SolarEdge Posts Weak Q3 Outlook | GuruFocus.com | 2026-08-05 |
-| SolarEdge Surges 8%, Enphase Climbs 5%, First Solar Rises 4% on Pro-Solar Policy Hopes | 24/7 Wall St. | 2026-08-04 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $5.25; 52w high $11.96 (-56.10%); 52w low $4.81 (+9.15%) |
-| Trend | -36.21% vs SMA200, -24.78% vs SMA50, -8.34% vs SMA20 |
-| Momentum | RSI(14) 39.0 (neutral) |
-| Volatility | ATR(14) 0.47 (~9.0% of price); beta 1.79 |
-| Setup perspective | -56.10% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $5.55; 52w high $11.96 (-53.60%); 52w low $4.81 (+15.38%) |
+| Trend | -32.43% vs SMA200, -19.68% vs SMA50, -2.40% vs SMA20 |
+| Momentum | RSI(14) 43.8 (neutral) |
+| Volatility | ATR(14) 0.48 (~8.6% of price); beta — |
+| Setup perspective | -53.60% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +3.3% |
-| Month | -17.2% |
-| Quarter | -35.4% |
-| Half Y | -56.1% |
-| 1Y | -11.2% |
-| YTD | -45.8% |
+| Week | +6.3% |
+| Month | -14.1% |
+| Quarter | -32.3% |
+| Half Y | -50.1% |
+| 1Y | -3.1% |
+| YTD | -42.7% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
 | Next earnings | 2026-11-04 | Next scheduled report (Yahoo estimate) |
-| Revenue (ttm) | $1.21B | Revenue growth -26.10% y/y |
-| Profitability | Gross 26.11%, operating 2.02%, net -5.56% | ROA 3.93%, ROE -22.65% |
-| Balance sheet | Cash $200.70M, debt $763.21M | Current ratio 2.25, debt/equity 284.90 |
-| Valuation | P/E —, forward P/E 5.77, P/S 0.67, P/B -3.77 | EV/Sales 1.59, EV/EBITDA 15.32 |
-| Growth expectations | Earnings growth —, EPS q/q -88.10% | Analyst mean target $9.82 (21 analysts) |
+| Revenue (ttm) | $1.19B | Revenue growth -5.60% y/y |
+| Profitability | Gross 26.76%, operating 10.88%, net -7.25% | ROA 3.33%, ROE -25.98% |
+| Balance sheet | Cash $307.30M, debt $752.89M | Current ratio 2.20, debt/equity 254.27 |
+| Valuation | P/E —, forward P/E 6.26, P/S 0.72, P/B -4.23 | EV/Sales 1.48, EV/EBITDA 14.68 |
+| Growth expectations | Earnings growth -73.20%, EPS q/q -43.70% | Analyst mean target $9.36 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 146.89% |
+| Institutional ownership | 147.87% |
 | Insider ownership | 0.66% |
 | Short float | 25.46% |
 | Short ratio (days to cover) | 5.0 |
@@ -83,19 +83,19 @@ Array Technologies, Inc. engages in the manufacture and sale of solar tracking t
 
 | Holder | Shares | % Out | Reported |
 |---|---|---|---|
-| Blackrock Inc. | 29,187,086 | 18.97% | 2026-03-31 |
-| Hill City Capital, Lp | 12,891,300 | 8.38% | 2026-03-31 |
-| Grantham, Mayo, Van Otterloo & Co. LLC | 10,951,942 | 7.12% | 2026-03-31 |
+| Blackrock Inc. | 29,187,086 | 18.95% | 2026-03-31 |
+| Hill City Capital, Lp | 12,891,300 | 8.37% | 2026-03-31 |
+| Grantham, Mayo, Van Otterloo & Co. LLC | 10,951,942 | 7.11% | 2026-03-31 |
 | BNP Paribas Asset Management Holding S.A. | 9,605,177 | 6.24% | 2026-03-31 |
 | Vanguard Portfolio Management LLC | 8,097,536 | 5.26% | 2026-03-31 |
 | UBS Group AG | 7,801,568 | 5.07% | 2026-03-31 |
-| Invesco Ltd. | 7,427,169 | 4.83% | 2026-03-31 |
-| Morgan Stanley | 6,993,779 | 4.55% | 2026-03-31 |
+| Invesco Ltd. | 7,427,169 | 4.82% | 2026-03-31 |
+| Morgan Stanley | 6,993,779 | 4.54% | 2026-03-31 |
 | Vanguard Capital Management LLC | 6,678,065 | 4.34% | 2026-03-31 |
-| Wellington Management Group, LLP | 5,782,216 | 3.76% | 2026-03-31 |
+| Wellington Management Group, LLP | 5,782,216 | 3.75% | 2026-03-31 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.79, ATR 9.0% of price, short float 25.46%. Size positions accordingly.
+- **Volatility risk:** Beta —, ATR 8.6% of price, short float 25.46%. Size positions accordingly.
 - **Short interest risk:** short float 25.46% can fuel squeezes both ways around news.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
@@ -113,21 +113,21 @@ Array Technologies, Inc. engages in the manufacture and sale of solar tracking t
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $5.25 | EV/Sales | 1.59 |
-| Market cap | $807.59M | EV/EBITDA | 15.32 |
-| Beta | 1.79 | Gross margin | 26.11% |
-| RSI(14) | 39.0 | Operating margin | 2.02% |
-| ATR(14) | 0.47 | Profit margin | -5.56% |
-| SMA20 dist | -8.34% | ROA | 3.93% |
-| SMA50 dist | -24.78% | ROE | -22.65% |
-| SMA200 dist | -36.21% | Revenue (ttm) | $1.21B |
-| 52W high | $11.96 | Revenue growth y/y | -26.10% |
-| 52W low | $4.81 | Inst. ownership | 146.89% |
+| Price | $5.55 | EV/Sales | 1.48 |
+| Market cap | $853.74M | EV/EBITDA | 14.68 |
+| Beta | — | Gross margin | 26.76% |
+| RSI(14) | 43.8 | Operating margin | 10.88% |
+| ATR(14) | 0.48 | Profit margin | -7.25% |
+| SMA20 dist | -2.40% | ROA | 3.33% |
+| SMA50 dist | -19.68% | ROE | -25.98% |
+| SMA200 dist | -32.43% | Revenue (ttm) | $1.19B |
+| 52W high | $11.96 | Revenue growth y/y | -5.60% |
+| 52W low | $4.81 | Inst. ownership | 147.87% |
 | P/E (ttm) | — | Insider ownership | 0.66% |
-| Forward P/E | 5.77 | Short float | 25.46% |
-| PEG (trailing) | 0.82 | Avg volume | 6,198,073 |
-| P/S | 0.67 | Employees | 1,200 |
-| P/B | -3.77 | Analyst rec (1=buy..5=sell) | 2.1 |
+| Forward P/E | 6.26 | Short float | 25.46% |
+| PEG (trailing) | 0.82 | Avg volume | 6,158,859 |
+| P/S | 0.72 | Employees | 1,200 |
+| P/B | -4.23 | Analyst rec (1=buy..5=sell) | 2.0 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

@@ -4,8 +4,8 @@ Signed file: `D.research.07.08.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $66.80 (2026-08-07, ~15-min delayed) |
-| Market cap | $58.75B |
+| Current price | $67.39 (2026-08-07, ~15-min delayed) |
+| Market cap | $59.27B |
 | Sector / Industry | Utilities / Utilities - Regulated Electric |
 | Main theme | Utilities - Regulated Electric — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,10 +15,10 @@ Signed file: `D.research.07.08.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +14.19%; price +6.80% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -6.82% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +15.41%; price +7.68% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -6.00% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 13.98%, revenue growth 17.60%. |
-| Value attractiveness | Reasonable | Forward P/E 17.51, EV/Sales 6.52. |
+| Value attractiveness | Reasonable | Forward P/E 17.66, EV/Sales 6.52. |
 | Risk level | Moderate | Beta 0.63, ATR 2.1% of price, short float 3.57%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -36,30 +36,30 @@ Dominion Energy, Inc. provides regulated electricity and natural gas services in
 
 | Headline | Source | Date |
 |---|---|---|
-| Spanberger intervenes in case to decide fate of Dominion-NextEra merger | The Virginian-Pilot | 2026-08-06 |
-| Virginia Governor Is ‘Skeptical’ of NextEra Energy’s Dominion Acquisition | Barrons.com | 2026-08-06 |
-| PPL Gears Up to Report Q2 Earnings: Buy, Sell or Hold the Stock? | Zacks | 2026-08-06 |
-| Is the Options Market Predicting a Spike in Dominion Energy Stock? | Zacks | 2026-08-06 |
+| Can Dominion Energy (D) Stay Reasonable as AI Power Demand Grows? | Simply Wall St. | 2026-08-07 |
+| D Q2 Earnings Call Puts CVOW Schedule and Demand in Focus | Zacks | 2026-08-07 |
+| Sector Update: Energy Stocks Decline Premarket Friday | MT Newswires | 2026-08-07 |
+| Dominion Energy (D) Starts Requiring Bank Guarantees For AI Data Center Power Deals | Simply Wall St. | 2026-08-07 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $66.80; 52w high $71.69 (-6.82%); 52w low $55.92 (+19.46%) |
-| Trend | +6.80% vs SMA200, -2.84% vs SMA50, -4.78% vs SMA20 |
-| Momentum | RSI(14) 35.0 (neutral) |
-| Volatility | ATR(14) 1.41 (~2.1% of price); beta 0.63 |
-| Setup perspective | -6.82% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $67.39; 52w high $71.69 (-6.00%); 52w low $55.92 (+20.52%) |
+| Trend | +7.68% vs SMA200, -2.00% vs SMA50, -3.76% vs SMA20 |
+| Momentum | RSI(14) 39.2 (neutral) |
+| Volatility | ATR(14) 1.43 (~2.1% of price); beta 0.63 |
+| Setup perspective | -6.00% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -4.2% |
-| Month | -4.4% |
-| Quarter | +9.5% |
-| Half Y | +9.4% |
-| 1Y | +14.2% |
-| YTD | +15.1% |
+| Week | -2.6% |
+| Month | -3.0% |
+| Quarter | +10.5% |
+| Half Y | +10.0% |
+| 1Y | +15.4% |
+| YTD | +16.1% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ Dominion Energy, Inc. provides regulated electricity and natural gas services in
 | Revenue (ttm) | $18.12B | Revenue growth 17.60% y/y |
 | Profitability | Gross 46.22%, operating 29.22%, net 13.98% | ROA 3.04%, ROE 8.28% |
 | Balance sheet | Cash $298.00M, debt $53.93B | Current ratio 0.81, debt/equity 160.46 |
-| Valuation | P/E 23.11, forward P/E 17.51, P/S 3.24, P/B 2.10 | EV/Sales 6.52, EV/EBITDA 14.15 |
+| Valuation | P/E 23.32, forward P/E 17.66, P/S 3.27, P/B 2.12 | EV/Sales 6.52, EV/EBITDA 14.15 |
 | Growth expectations | Earnings growth -58.00%, EPS q/q -55.30% | Analyst mean target $71.00 (12 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 81.89% |
+| Institutional ownership | 81.39% |
 | Insider ownership | 0.13% |
 | Short float | 3.57% |
 | Short ratio (days to cover) | 4.3 |
@@ -110,21 +110,21 @@ Dominion Energy, Inc. provides regulated electricity and natural gas services in
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $66.80 | EV/Sales | 6.52 |
-| Market cap | $58.75B | EV/EBITDA | 14.15 |
+| Price | $67.39 | EV/Sales | 6.52 |
+| Market cap | $59.27B | EV/EBITDA | 14.15 |
 | Beta | 0.63 | Gross margin | 46.22% |
-| RSI(14) | 35.0 | Operating margin | 29.22% |
-| ATR(14) | 1.41 | Profit margin | 13.98% |
-| SMA20 dist | -4.78% | ROA | 3.04% |
-| SMA50 dist | -2.84% | ROE | 8.28% |
-| SMA200 dist | +6.80% | Revenue (ttm) | $18.12B |
+| RSI(14) | 39.2 | Operating margin | 29.22% |
+| ATR(14) | 1.43 | Profit margin | 13.98% |
+| SMA20 dist | -3.76% | ROA | 3.04% |
+| SMA50 dist | -2.00% | ROE | 8.28% |
+| SMA200 dist | +7.68% | Revenue (ttm) | $18.12B |
 | 52W high | $71.69 | Revenue growth y/y | 17.60% |
-| 52W low | $55.92 | Inst. ownership | 81.89% |
-| P/E (ttm) | 23.11 | Insider ownership | 0.13% |
-| Forward P/E | 17.51 | Short float | 3.57% |
-| PEG (trailing) | 2.95 | Avg volume | 6,932,916 |
-| P/S | 3.24 | Employees | 15,200 |
-| P/B | 2.10 | Analyst rec (1=buy..5=sell) | 2.8 |
+| 52W low | $55.92 | Inst. ownership | 81.39% |
+| P/E (ttm) | 23.32 | Insider ownership | 0.13% |
+| Forward P/E | 17.66 | Short float | 3.57% |
+| PEG (trailing) | 2.95 | Avg volume | 6,996,342 |
+| P/S | 3.27 | Employees | 15,200 |
+| P/B | 2.12 | Analyst rec (1=buy..5=sell) | 2.8 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

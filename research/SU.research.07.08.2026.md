@@ -4,8 +4,8 @@ Signed file: `SU.research.07.08.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $61.35 (2026-08-07, ~15-min delayed) |
-| Market cap | — |
+| Current price | $60.10 (2026-08-07, ~15-min delayed) |
+| Market cap | $70.96B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
 | Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated. |
@@ -15,10 +15,10 @@ Signed file: `SU.research.07.08.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +58.56%; price +11.55% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -11.43% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +55.41%; price +9.05% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -13.24% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 15.78%, revenue growth 45.90%. |
-| Value attractiveness | Reasonable | Forward P/E 10.95, EV/Sales 1.46. |
+| Value attractiveness | Reasonable | Forward P/E 10.67, EV/Sales 1.43. |
 | Risk level | Elevated | Beta 0.57, ATR 3.1% of price, short float —. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated.
@@ -36,30 +36,30 @@ Suncor Energy Inc. operates as an integrated energy company in Canada, the Unite
 
 | Headline | Source | Date |
 |---|---|---|
+| Why Imperial Oil Cut Refinery Guidance 6% Despite Strong Q2 Results | Zacks | 2026-08-07 |
 | News of the day: Suncor CEO stepping down, GTA housing, Burger King dethrones Tim Hortons, quantum-imaging startup, investing regulations and more | Financial Post | 2026-08-06 |
 | Sector Update: Energy Stocks Gain Late Afternoon | MT Newswires | 2026-08-06 |
 | Sector Update: Energy | MT Newswires | 2026-08-06 |
-| Suncor CEO Rich Kruger stepping down in 2027 | Financial Post | 2026-08-06 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $61.35; 52w high $69.27 (-11.43%); 52w low $37.63 (+63.05%) |
-| Trend | +11.55% vs SMA200, +0.91% vs SMA50, -3.42% vs SMA20 |
-| Momentum | RSI(14) 45.4 (neutral) |
-| Volatility | ATR(14) 1.87 (~3.1% of price); beta 0.57 |
-| Setup perspective | -11.43% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $60.10; 52w high $69.27 (-13.24%); 52w low $37.63 (+59.73%) |
+| Trend | +9.05% vs SMA200, -1.04% vs SMA50, -5.46% vs SMA20 |
+| Momentum | RSI(14) 41.8 (neutral) |
+| Volatility | ATR(14) 1.85 (~3.1% of price); beta 0.57 |
+| Setup perspective | -13.24% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -8.1% |
-| Month | +3.9% |
-| Quarter | -4.0% |
-| Half Y | +17.1% |
-| 1Y | +58.6% |
-| YTD | +36.5% |
+| Week | -10.7% |
+| Month | +2.8% |
+| Quarter | -5.1% |
+| Half Y | +14.8% |
+| 1Y | +55.4% |
+| YTD | +33.7% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ Suncor Energy Inc. operates as an integrated energy company in Canada, the Unite
 | Revenue (ttm) | $56.57B | Revenue growth 45.90% y/y |
 | Profitability | Gross 60.40%, operating 29.94%, net 15.78% | ROA 8.58%, ROE 19.25% |
 | Balance sheet | Cash $5.37B, debt $14.68B | Current ratio 1.65, debt/equity 30.48 |
-| Valuation | P/E 11.51, forward P/E 10.95, P/S —, P/B 2.23 | EV/Sales 1.46, EV/EBITDA 4.24 |
-| Growth expectations | Earnings growth 241.90%, EPS q/q 229.10% | Analyst mean target $70.41 (3 analysts) |
+| Valuation | P/E 11.28, forward P/E 10.67, P/S 1.25, P/B 2.18 | EV/Sales 1.43, EV/EBITDA 4.16 |
+| Growth expectations | Earnings growth 241.90%, EPS q/q 229.10% | Analyst mean target $70.72 (3 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 74.03% |
+| Institutional ownership | 74.68% |
 | Insider ownership | 0.01% |
 | Short float | — |
 | Short ratio (days to cover) | 1.9 |
@@ -91,8 +91,8 @@ Suncor Energy Inc. operates as an integrated energy company in Canada, the Unite
 | FMR, LLC | 27,168,709 | 2.30% | 2026-03-31 |
 | Dodge & Cox Inc. | 26,262,454 | 2.22% | 2026-03-31 |
 | Arrowstreet Capital, Limited Partnership | 26,085,360 | 2.21% | 2026-03-31 |
-| TD Asset Management, Inc | 25,497,252 | 2.16% | 2026-03-31 |
-| Fisher Asset Management, LLC | 18,089,707 | 1.53% | 2026-03-31 |
+| TD Asset Management, Inc | 19,092,500 | 1.62% | 2026-06-30 |
+| Toronto Dominion Bank | 17,894,728 | 1.52% | 2026-03-31 |
 
 ## 6. Risk Review and Setup Plan
 - **Volatility risk:** Beta 0.57, ATR 3.1% of price, short float —. Size positions accordingly.
@@ -110,21 +110,21 @@ Suncor Energy Inc. operates as an integrated energy company in Canada, the Unite
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $61.35 | EV/Sales | 1.46 |
-| Market cap | — | EV/EBITDA | 4.24 |
+| Price | $60.10 | EV/Sales | 1.43 |
+| Market cap | $70.96B | EV/EBITDA | 4.16 |
 | Beta | 0.57 | Gross margin | 60.40% |
-| RSI(14) | 45.4 | Operating margin | 29.94% |
-| ATR(14) | 1.87 | Profit margin | 15.78% |
-| SMA20 dist | -3.42% | ROA | 8.58% |
-| SMA50 dist | +0.91% | ROE | 19.25% |
-| SMA200 dist | +11.55% | Revenue (ttm) | $56.57B |
+| RSI(14) | 41.8 | Operating margin | 29.94% |
+| ATR(14) | 1.85 | Profit margin | 15.78% |
+| SMA20 dist | -5.46% | ROA | 8.58% |
+| SMA50 dist | -1.04% | ROE | 19.25% |
+| SMA200 dist | +9.05% | Revenue (ttm) | $56.57B |
 | 52W high | $69.27 | Revenue growth y/y | 45.90% |
-| 52W low | $37.63 | Inst. ownership | 74.03% |
-| P/E (ttm) | 11.51 | Insider ownership | 0.01% |
-| Forward P/E | 10.95 | Short float | — |
-| PEG (trailing) | — | Avg volume | 4,245,196 |
-| P/S | — | Employees | 15,424 |
-| P/B | 2.23 | Analyst rec (1=buy..5=sell) | 2.0 |
+| 52W low | $37.63 | Inst. ownership | 74.68% |
+| P/E (ttm) | 11.28 | Insider ownership | 0.01% |
+| Forward P/E | 10.67 | Short float | — |
+| PEG (trailing) | — | Avg volume | 4,262,203 |
+| P/S | 1.25 | Employees | 15,424 |
+| P/B | 2.18 | Analyst rec (1=buy..5=sell) | 2.0 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

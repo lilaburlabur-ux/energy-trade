@@ -4,8 +4,8 @@ Signed file: `SHEL.research.07.08.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $89.60 (2026-08-07, ~15-min delayed) |
-| Market cap | $247.69B |
+| Current price | $88.50 (2026-08-07, ~15-min delayed) |
+| Market cap | $244.65B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,10 +15,10 @@ Signed file: `SHEL.research.07.08.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +28.51%; price +11.32% vs SMA200. |
-| Fresh setup quality | Watch | -3.97% from 52w high and near SMA20 — check for a tight base. |
+| Technical momentum | Moderate | 1Y +27.22%; price +9.83% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -5.15% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 8.76%, revenue growth 44.70%. |
-| Value attractiveness | Reasonable | Forward P/E 10.14, EV/Sales 0.98. |
+| Value attractiveness | Reasonable | Forward P/E 10.01, EV/Sales 0.98. |
 | Risk level | Moderate | Beta -0.22, ATR 2.0% of price, short float 1.82%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -36,30 +36,30 @@ Shell plc operates as an energy and petrochemical company in Europe, Asia, Ocean
 
 | Headline | Source | Date |
 |---|---|---|
+| European Equities Traded in the US as American Depositary Receipts Rise in Friday Trading | MT Newswires | 2026-08-07 |
+| The Week in Numbers: BP's huge profit, Toyota moves fast | Reuters Videos | 2026-08-07 |
+| The Zacks Analyst Blog Highlights Apple, Shell, Toyota, Seneca and Value Line | Zacks | 2026-08-07 |
 | Petrobras Profit Tops Estimates on Iran War-Driven Oil Rally | Bloomberg | 2026-08-06 |
-| Top Research Reports for Apple, Shell & Toyota Motor | Zacks | 2026-08-06 |
-| Is Shell Stock a Buy as Cash Flow Surges but Risks Stay Elevated? | Zacks | 2026-08-06 |
-| Eni Stock Jumps 12.7% in a Month: Will the Rally Continue? | Zacks | 2026-08-06 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $89.60; 52w high $93.30 (-3.97%); 52w low $68.73 (+30.37%) |
-| Trend | +11.32% vs SMA200, +6.49% vs SMA50, +2.59% vs SMA20 |
-| Momentum | RSI(14) 59.5 (neutral) |
-| Volatility | ATR(14) 1.76 (~2.0% of price); beta -0.22 |
-| Setup perspective | -3.97% from 52w high and near SMA20 — check for a tight base. |
+| Price vs 52-week range | Close $88.50; 52w high $93.30 (-5.15%); 52w low $68.73 (+28.77%) |
+| Trend | +9.83% vs SMA200, +5.07% vs SMA50, +0.96% vs SMA20 |
+| Momentum | RSI(14) 55.6 (neutral) |
+| Volatility | ATR(14) 1.73 (~2.0% of price); beta -0.22 |
+| Setup perspective | -5.15% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -1.0% |
-| Month | +8.9% |
-| Quarter | +3.7% |
-| Half Y | +15.8% |
-| 1Y | +28.5% |
-| YTD | +21.0% |
+| Week | -3.8% |
+| Month | +8.7% |
+| Quarter | +6.0% |
+| Half Y | +20.8% |
+| 1Y | +27.2% |
+| YTD | +19.5% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Shell plc operates as an energy and petrochemical company in Europe, Asia, Ocean
 | Revenue (ttm) | $296.60B | Revenue growth 44.70% y/y |
 | Profitability | Gross 26.09%, operating 16.69%, net 8.76% | ROA 6.40%, ROE 14.34% |
 | Balance sheet | Cash $31.37B, debt $73.08B | Current ratio 1.44, debt/equity 40.20 |
-| Valuation | P/E 9.91, forward P/E 10.14, P/S 0.84, P/B 1.38 | EV/Sales 0.98, EV/EBITDA 5.07 |
+| Valuation | P/E 9.79, forward P/E 10.01, P/S 0.82, P/B 1.36 | EV/Sales 0.98, EV/EBITDA 5.07 |
 | Growth expectations | Earnings growth 220.00%, EPS q/q 200.50% | Analyst mean target $98.03 (15 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -84,7 +84,7 @@ Shell plc operates as an energy and petrochemical company in Europe, Asia, Ocean
 | Holder | Shares | % Out | Reported |
 |---|---|---|---|
 | FMR, LLC | 97,617,838 | 3.50% | 2026-03-31 |
-| Fisher Asset Management, LLC | 27,474,710 | 0.99% | 2026-03-31 |
+| Fisher Asset Management, LLC | 27,633,155 | 0.99% | 2026-06-30 |
 | Dimensional Fund Advisors LP | 24,690,100 | 0.89% | 2026-03-31 |
 | Price (T.Rowe) Associates Inc | 10,568,968 | 0.38% | 2026-03-31 |
 | Morgan Stanley | 9,673,916 | 0.35% | 2026-03-31 |
@@ -110,21 +110,21 @@ Shell plc operates as an energy and petrochemical company in Europe, Asia, Ocean
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $89.60 | EV/Sales | 0.98 |
-| Market cap | $247.69B | EV/EBITDA | 5.07 |
+| Price | $88.50 | EV/Sales | 0.98 |
+| Market cap | $244.65B | EV/EBITDA | 5.07 |
 | Beta | -0.22 | Gross margin | 26.09% |
-| RSI(14) | 59.5 | Operating margin | 16.69% |
-| ATR(14) | 1.76 | Profit margin | 8.76% |
-| SMA20 dist | +2.59% | ROA | 6.40% |
-| SMA50 dist | +6.49% | ROE | 14.34% |
-| SMA200 dist | +11.32% | Revenue (ttm) | $296.60B |
+| RSI(14) | 55.6 | Operating margin | 16.69% |
+| ATR(14) | 1.73 | Profit margin | 8.76% |
+| SMA20 dist | +0.96% | ROA | 6.40% |
+| SMA50 dist | +5.07% | ROE | 14.34% |
+| SMA200 dist | +9.83% | Revenue (ttm) | $296.60B |
 | 52W high | $93.30 | Revenue growth y/y | 44.70% |
 | 52W low | $68.73 | Inst. ownership | 13.84% |
-| P/E (ttm) | 9.91 | Insider ownership | 0.00% |
-| Forward P/E | 10.14 | Short float | 1.82% |
-| PEG (trailing) | 1.34 | Avg volume | 6,876,436 |
-| P/S | 0.84 | Employees | 84,000 |
-| P/B | 1.38 | Analyst rec (1=buy..5=sell) | 2.2 |
+| P/E (ttm) | 9.79 | Insider ownership | 0.00% |
+| Forward P/E | 10.01 | Short float | 1.82% |
+| PEG (trailing) | 1.34 | Avg volume | 6,843,070 |
+| P/S | 0.82 | Employees | 84,000 |
+| P/B | 1.36 | Analyst rec (1=buy..5=sell) | 2.2 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

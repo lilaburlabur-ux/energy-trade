@@ -4,8 +4,8 @@ Signed file: `CVX.research.07.08.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $189.23 (2026-08-07, ~15-min delayed) |
-| Market cap | $371.27B |
+| Current price | $186.56 (2026-08-07, ~15-min delayed) |
+| Market cap | $366.03B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `CVX.research.07.08.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +28.83%; price +8.63% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -9.56% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +27.22%; price +6.99% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -10.84% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 9.84%, revenue growth 52.60%. |
-| Value attractiveness | Reasonable | Forward P/E 14.59, EV/Sales 1.99. |
-| Risk level | Moderate | Beta 0.49, ATR 2.4% of price, short float 1.03%. |
+| Value attractiveness | Reasonable | Forward P/E 14.39, EV/Sales 1.99. |
+| Risk level | Moderate | Beta 0.49, ATR 2.3% of price, short float 1.03%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
@@ -36,30 +36,30 @@ Chevron Corporation, through its subsidiaries, engages in the integrated energy 
 
 | Headline | Source | Date |
 |---|---|---|
-| Why this portfolio manager's top 3 energy stock picks don't include Chevron | Yahoo Finance Video | 2026-08-06 |
-| Texas Pacific Land Corp (TPL) (Q2 2026) Earnings Call Highlights: Record Revenue and Strategic ... | GuruFocus.com | 2026-08-06 |
-| Petrobras Profit Tops Estimates on Iran War-Driven Oil Rally | Bloomberg | 2026-08-06 |
-| Why the Dow Could Fall for the First Time in a Week | Barrons.com | 2026-08-06 |
+| SM Energy Q2 Earnings Beat Estimates on Strong Production Growth | Zacks | 2026-08-07 |
+| The U.S. Didn’t Buy a Drop of Saudi Oil in July — the First Time in 41 Years | 24/7 Wall St. | 2026-08-07 |
+| 20 Years on Wall Street Taught Me to Buy and Hold 5 High-Yield Energy Giants | 24/7 Wall St. | 2026-08-07 |
+| An Early Bet on SpaceX Led to a 30% Gain for This College Endowment | Bloomberg | 2026-08-07 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $189.23; 52w high $209.23 (-9.56%); 52w low $144.01 (+31.40%) |
-| Trend | +8.63% vs SMA200, +3.54% vs SMA50, +0.28% vs SMA20 |
-| Momentum | RSI(14) 53.5 (neutral) |
-| Volatility | ATR(14) 4.45 (~2.4% of price); beta 0.49 |
-| Setup perspective | -9.56% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $186.56; 52w high $209.23 (-10.84%); 52w low $144.01 (+29.55%) |
+| Trend | +6.99% vs SMA200, +2.03% vs SMA50, -1.40% vs SMA20 |
+| Momentum | RSI(14) 49.7 (neutral) |
+| Volatility | ATR(14) 4.37 (~2.3% of price); beta 0.49 |
+| Setup perspective | -10.84% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -1.6% |
-| Month | +7.5% |
-| Quarter | +3.1% |
-| Half Y | +6.4% |
-| 1Y | +28.8% |
-| YTD | +23.7% |
+| Week | -5.2% |
+| Month | +7.2% |
+| Quarter | +3.2% |
+| Half Y | +6.1% |
+| 1Y | +27.2% |
+| YTD | +21.9% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ Chevron Corporation, through its subsidiaries, engages in the integrated energy 
 | Revenue (ttm) | $209.37B | Revenue growth 52.60% y/y |
 | Profitability | Gross 44.26%, operating 21.95%, net 9.84% | ROA —, ROE — |
 | Balance sheet | Cash $5.33B, debt $45.43B | Current ratio —, debt/equity 23.99 |
-| Valuation | P/E 18.23, forward P/E 14.59, P/S 1.77, P/B 2.04 | EV/Sales 1.99, EV/EBITDA 8.23 |
-| Growth expectations | Earnings growth 322.90%, EPS q/q 384.80% | Analyst mean target $216.75 (24 analysts) |
+| Valuation | P/E 17.96, forward P/E 14.39, P/S 1.75, P/B 2.01 | EV/Sales 1.99, EV/EBITDA 8.23 |
+| Growth expectations | Earnings growth 322.90%, EPS q/q 384.80% | Analyst mean target $216.96 (24 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 71.00% |
+| Institutional ownership | 71.02% |
 | Insider ownership | 4.80% |
 | Short float | 1.03% |
 | Short ratio (days to cover) | 2.1 |
@@ -92,7 +92,7 @@ Chevron Corporation, through its subsidiaries, engages in the integrated energy 
 | Morgan Stanley | 36,847,021 | 1.85% | 2026-03-31 |
 | Charles Schwab Investment Management, Inc. | 36,118,480 | 1.81% | 2026-03-31 |
 | Bank of America Corporation | 27,630,227 | 1.39% | 2026-03-31 |
-| Fisher Asset Management, LLC | 21,887,438 | 1.10% | 2026-03-31 |
+| JPMORGAN CHASE & CO | 20,344,106 | 1.02% | 2026-03-31 |
 
 ## 6. Risk Review and Setup Plan
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
@@ -109,21 +109,21 @@ Chevron Corporation, through its subsidiaries, engages in the integrated energy 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $189.23 | EV/Sales | 1.99 |
-| Market cap | $371.27B | EV/EBITDA | 8.23 |
+| Price | $186.56 | EV/Sales | 1.99 |
+| Market cap | $366.03B | EV/EBITDA | 8.23 |
 | Beta | 0.49 | Gross margin | 44.26% |
-| RSI(14) | 53.5 | Operating margin | 21.95% |
-| ATR(14) | 4.45 | Profit margin | 9.84% |
-| SMA20 dist | +0.28% | ROA | — |
-| SMA50 dist | +3.54% | ROE | — |
-| SMA200 dist | +8.63% | Revenue (ttm) | $209.37B |
+| RSI(14) | 49.7 | Operating margin | 21.95% |
+| ATR(14) | 4.37 | Profit margin | 9.84% |
+| SMA20 dist | -1.40% | ROA | — |
+| SMA50 dist | +2.03% | ROE | — |
+| SMA200 dist | +6.99% | Revenue (ttm) | $209.37B |
 | 52W high | $209.23 | Revenue growth y/y | 52.60% |
-| 52W low | $144.01 | Inst. ownership | 71.00% |
-| P/E (ttm) | 18.23 | Insider ownership | 4.80% |
-| Forward P/E | 14.59 | Short float | 1.03% |
-| PEG (trailing) | 0.75 | Avg volume | 9,161,940 |
-| P/S | 1.77 | Employees | 43,039 |
-| P/B | 2.04 | Analyst rec (1=buy..5=sell) | 1.7 |
+| 52W low | $144.01 | Inst. ownership | 71.02% |
+| P/E (ttm) | 17.96 | Insider ownership | 4.80% |
+| Forward P/E | 14.39 | Short float | 1.03% |
+| PEG (trailing) | 0.75 | Avg volume | 9,110,549 |
+| P/S | 1.75 | Employees | 43,039 |
+| P/B | 2.01 | Analyst rec (1=buy..5=sell) | 1.7 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

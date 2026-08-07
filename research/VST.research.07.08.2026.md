@@ -4,8 +4,8 @@ Signed file: `VST.research.07.08.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $141.38 (2026-08-07, ~15-min delayed) |
-| Market cap | $47.67B |
+| Current price | $140.59 (2026-08-07, ~15-min delayed) |
+| Market cap | $47.40B |
 | Sector / Industry | Utilities / Utilities - Independent Power Producers |
 | Main theme | Utilities - Independent Power Producers — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: high. |
@@ -15,11 +15,11 @@ Signed file: `VST.research.07.08.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-12.83%) with negative half-year (-0.53%). |
-| Fresh setup quality | Poor / broken | -34.85% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-13.18%) with negative half-year (-1.46%). |
+| Fresh setup quality | Poor / broken | -35.22% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 11.53%, revenue growth 43.40%. |
-| Value attractiveness | Reasonable | Forward P/E 13.67, EV/Sales 3.59. |
-| Risk level | High | Beta 1.43, ATR 5.3% of price, short float 4.32%. |
+| Value attractiveness | Reasonable | Forward P/E 13.60, EV/Sales 3.60. |
+| Risk level | High | Beta 1.43, ATR 5.4% of price, short float 4.32%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: high.
 
@@ -36,30 +36,30 @@ Vistra Corp., together with its subsidiaries, operates as an integrated retail e
 
 | Headline | Source | Date |
 |---|---|---|
-| SpaceX's need for power is a 'clear positive' for these companies | Yahoo Finance | 2026-08-06 |
-| MDU Resources Q2 Earnings Beat Estimates, Revenues Increase Y/Y | Zacks | 2026-08-06 |
-| UGI Q3 Earnings Beat Estimates, Revenues Miss on LPG Weakness | Zacks | 2026-08-06 |
-| Vistra (VST) Is Seen As A Beneficiary Of Rising AI Power Demand | Simply Wall St. | 2026-08-06 |
+| Earnings live updates: The Trade Desk stock plummets on earnings miss, Oklo jumps on 'criticality' milestone | Yahoo Finance | 2026-08-03 |
+| Sector Update: Energy Stocks Fall Late Afternoon | MT Newswires | 2026-08-07 |
+| Sector Update: Energy Stocks Decline Friday Afternoon | MT Newswires | 2026-08-07 |
+| This Power Stock Could Be a Big Winner From the Data Center Boom | Motley Fool | 2026-08-07 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $141.38; 52w high $217.02 (-34.85%); 52w low $134.52 (+5.10%) |
-| Trend | -12.83% vs SMA200, -9.03% vs SMA50, -8.48% vs SMA20 |
-| Momentum | RSI(14) 39.8 (neutral) |
-| Volatility | ATR(14) 7.56 (~5.3% of price); beta 1.43 |
-| Setup perspective | -34.85% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $140.59; 52w high $217.02 (-35.22%); 52w low $134.52 (+4.51%) |
+| Trend | -13.18% vs SMA200, -9.32% vs SMA50, -8.45% vs SMA20 |
+| Momentum | RSI(14) 39.2 (neutral) |
+| Volatility | ATR(14) 7.59 (~5.4% of price); beta 1.43 |
+| Setup perspective | -35.22% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -4.9% |
-| Month | -8.7% |
-| Quarter | -10.6% |
-| Half Y | -0.5% |
-| 1Y | -32.2% |
-| YTD | -14.2% |
+| Week | -5.1% |
+| Month | -11.0% |
+| Quarter | -8.6% |
+| Half Y | -1.5% |
+| 1Y | -29.6% |
+| YTD | -14.7% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ Vistra Corp., together with its subsidiaries, operates as an integrated retail e
 | Revenue (ttm) | $19.45B | Revenue growth 43.40% y/y |
 | Profitability | Gross 38.64%, operating 26.58%, net 11.53% | ROA 6.02%, ROE 42.90% |
 | Balance sheet | Cash $658.00M, debt $20.57B | Current ratio 0.90, debt/equity 366.61 |
-| Valuation | P/E 23.68, forward P/E 13.67, P/S 2.45, P/B 15.31 | EV/Sales 3.59, EV/EBITDA 10.28 |
-| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $221.61 (18 analysts) |
+| Valuation | P/E 23.51, forward P/E 13.60, P/S 2.44, P/B 15.23 | EV/Sales 3.60, EV/EBITDA 10.32 |
+| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $222.74 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 91.52% |
+| Institutional ownership | 91.55% |
 | Insider ownership | 0.79% |
 | Short float | 4.32% |
 | Short ratio (days to cover) | 2.9 |
@@ -95,7 +95,7 @@ Vistra Corp., together with its subsidiaries, operates as an integrated retail e
 | UBS Group AG | 4,597,984 | 1.36% | 2026-03-31 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.43, ATR 5.3% of price, short float 4.32%. Size positions accordingly.
+- **Volatility risk:** Beta 1.43, ATR 5.4% of price, short float 4.32%. Size positions accordingly.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -111,21 +111,21 @@ Vistra Corp., together with its subsidiaries, operates as an integrated retail e
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $141.38 | EV/Sales | 3.59 |
-| Market cap | $47.67B | EV/EBITDA | 10.28 |
+| Price | $140.59 | EV/Sales | 3.60 |
+| Market cap | $47.40B | EV/EBITDA | 10.32 |
 | Beta | 1.43 | Gross margin | 38.64% |
-| RSI(14) | 39.8 | Operating margin | 26.58% |
-| ATR(14) | 7.56 | Profit margin | 11.53% |
-| SMA20 dist | -8.48% | ROA | 6.02% |
-| SMA50 dist | -9.03% | ROE | 42.90% |
-| SMA200 dist | -12.83% | Revenue (ttm) | $19.45B |
+| RSI(14) | 39.2 | Operating margin | 26.58% |
+| ATR(14) | 7.59 | Profit margin | 11.53% |
+| SMA20 dist | -8.45% | ROA | 6.02% |
+| SMA50 dist | -9.32% | ROE | 42.90% |
+| SMA200 dist | -13.18% | Revenue (ttm) | $19.45B |
 | 52W high | $217.02 | Revenue growth y/y | 43.40% |
-| 52W low | $134.52 | Inst. ownership | 91.52% |
-| P/E (ttm) | 23.68 | Insider ownership | 0.79% |
-| Forward P/E | 13.67 | Short float | 4.32% |
-| PEG (trailing) | 0.44 | Avg volume | 4,755,268 |
-| P/S | 2.45 | Employees | 6,390 |
-| P/B | 15.31 | Analyst rec (1=buy..5=sell) | 1.4 |
+| 52W low | $134.52 | Inst. ownership | 91.55% |
+| P/E (ttm) | 23.51 | Insider ownership | 0.79% |
+| Forward P/E | 13.60 | Short float | 4.32% |
+| PEG (trailing) | 0.44 | Avg volume | 4,702,038 |
+| P/S | 2.44 | Employees | 6,390 |
+| P/B | 15.23 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

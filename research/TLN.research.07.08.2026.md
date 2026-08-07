@@ -4,8 +4,8 @@ Signed file: `TLN.research.07.08.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $338.31 (2026-08-07, ~15-min delayed) |
-| Market cap | $16.17B |
+| Current price | $347.71 (2026-08-07, ~15-min delayed) |
+| Market cap | $16.66B |
 | Sector / Industry | Utilities / Utilities - Independent Power Producers |
 | Main theme | Utilities - Independent Power Producers — see catalysts below |
 | Current stance | Moderate technical momentum, weak fundamentals, value: reasonable, risk: high. |
@@ -15,11 +15,11 @@ Signed file: `TLN.research.07.08.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y -11.96%; price -7.27% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -24.12% from 52w high; no clean fresh pivot by default. |
-| Fundamental quality | Weak | Negative profit margin (-0.65%). |
-| Value attractiveness | Reasonable | Forward P/E 11.87, EV/Sales 6.42. |
-| Risk level | High | Beta 1.67, ATR 5.9% of price, short float 5.90%. |
+| Technical momentum | Moderate | 1Y -8.18%; price -4.62% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -22.01% from 52w high; no clean fresh pivot by default. |
+| Fundamental quality | Weak | Negative profit margin (-4.95%). |
+| Value attractiveness | Reasonable | Forward P/E 12.20, EV/Sales 6.83. |
+| Risk level | High | Beta 1.67, ATR 5.7% of price, short float 5.90%. |
 
 **Bottom line:** Moderate technical momentum, weak fundamentals, value: reasonable, risk: high.
 
@@ -36,46 +36,46 @@ Talen Energy Corporation, an independent power producer and infrastructure compa
 
 | Headline | Source | Date |
 |---|---|---|
+| TLN Q2 Earnings Call Emphasizes Cash Flow and Data Center Strategy | Zacks | 2026-08-07 |
 | Talen Energy Q2 Earnings Call Highlights | MarketBeat | 2026-08-06 |
 | Talen Energy Corp (TLN) (Q2 2026) Earnings Call Highlights: Strong Cash Flow, Raised Guidance, ... | GuruFocus.com | 2026-08-06 |
 | Talen Energy Corporation (TLN) Q2 Earnings and Revenues Miss Estimates | Zacks | 2026-08-06 |
-| Talen Energy Set to Report Q2 Earnings: What's in Store for the Stock? | Zacks | 2026-08-04 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $338.31; 52w high $445.84 (-24.12%); 52w low $302.97 (+11.66%) |
-| Trend | -7.27% vs SMA200, -9.50% vs SMA50, -5.65% vs SMA20 |
-| Momentum | RSI(14) 42.9 (neutral) |
-| Volatility | ATR(14) 19.81 (~5.9% of price); beta 1.67 |
-| Setup perspective | -24.12% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $347.71; 52w high $445.84 (-22.01%); 52w low $302.97 (+14.77%) |
+| Trend | -4.62% vs SMA200, -6.83% vs SMA50, -2.51% vs SMA20 |
+| Momentum | RSI(14) 46.7 (neutral) |
+| Volatility | ATR(14) 19.92 (~5.7% of price); beta 1.67 |
+| Setup perspective | -22.01% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +1.7% |
-| Month | -8.0% |
-| Quarter | -17.5% |
-| Half Y | +6.7% |
-| 1Y | -12.0% |
-| YTD | -14.7% |
+| Week | +4.1% |
+| Month | -9.6% |
+| Quarter | -11.0% |
+| Half Y | +7.1% |
+| 1Y | -8.2% |
+| YTD | -12.4% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
 | Next earnings | 2026-11-04 | Next scheduled report (Yahoo estimate) |
-| Revenue (ttm) | $3.24B | Revenue growth 96.70% y/y |
-| Profitability | Gross 40.14%, operating 17.24%, net -0.65% | ROA 1.94%, ROE -1.86% |
-| Balance sheet | Cash $1.03B, debt $6.82B | Current ratio 1.25, debt/equity 635.41 |
-| Valuation | P/E —, forward P/E 11.87, P/S 5.00, P/B 14.31 | EV/Sales 6.42, EV/EBITDA 31.75 |
-| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $468.25 (16 analysts) |
+| Revenue (ttm) | $3.74B | Revenue growth 111.20% y/y |
+| Profitability | Gross 42.10%, operating -7.51%, net -4.95% | ROA 0.74%, ROE -12.83% |
+| Balance sheet | Cash $231.00M, debt $9.57B | Current ratio 0.78, debt/equity 584.01 |
+| Valuation | P/E —, forward P/E 12.20, P/S 4.45, P/B 14.71 | EV/Sales 6.83, EV/EBITDA 49.36 |
+| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $467.25 (16 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 109.66% |
-| Insider ownership | 1.44% |
+| Institutional ownership | 103.94% |
+| Insider ownership | 1.36% |
 | Short float | 5.90% |
 | Short ratio (days to cover) | 2.6 |
 
@@ -95,7 +95,7 @@ Talen Energy Corporation, an independent power producer and infrastructure compa
 | Fred Alger Management, LLC | 1,185,953 | 2.01% | 2026-03-31 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.67, ATR 5.9% of price, short float 5.90%. Size positions accordingly.
+- **Volatility risk:** Beta 1.67, ATR 5.7% of price, short float 5.90%. Size positions accordingly.
 - **Short interest risk:** short float 5.90% can fuel squeezes both ways around news.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
@@ -112,21 +112,21 @@ Talen Energy Corporation, an independent power producer and infrastructure compa
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $338.31 | EV/Sales | 6.42 |
-| Market cap | $16.17B | EV/EBITDA | 31.75 |
-| Beta | 1.67 | Gross margin | 40.14% |
-| RSI(14) | 42.9 | Operating margin | 17.24% |
-| ATR(14) | 19.81 | Profit margin | -0.65% |
-| SMA20 dist | -5.65% | ROA | 1.94% |
-| SMA50 dist | -9.50% | ROE | -1.86% |
-| SMA200 dist | -7.27% | Revenue (ttm) | $3.24B |
-| 52W high | $445.84 | Revenue growth y/y | 96.70% |
-| 52W low | $302.97 | Inst. ownership | 109.66% |
-| P/E (ttm) | — | Insider ownership | 1.44% |
-| Forward P/E | 11.87 | Short float | 5.90% |
-| PEG (trailing) | — | Avg volume | 823,086 |
-| P/S | 5.00 | Employees | 1,880 |
-| P/B | 14.31 | Analyst rec (1=buy..5=sell) | 1.6 |
+| Price | $347.71 | EV/Sales | 6.83 |
+| Market cap | $16.66B | EV/EBITDA | 49.36 |
+| Beta | 1.67 | Gross margin | 42.10% |
+| RSI(14) | 46.7 | Operating margin | -7.51% |
+| ATR(14) | 19.92 | Profit margin | -4.95% |
+| SMA20 dist | -2.51% | ROA | 0.74% |
+| SMA50 dist | -6.83% | ROE | -12.83% |
+| SMA200 dist | -4.62% | Revenue (ttm) | $3.74B |
+| 52W high | $445.84 | Revenue growth y/y | 111.20% |
+| 52W low | $302.97 | Inst. ownership | 103.94% |
+| P/E (ttm) | — | Insider ownership | 1.36% |
+| Forward P/E | 12.20 | Short float | 5.90% |
+| PEG (trailing) | — | Avg volume | 822,788 |
+| P/S | 4.45 | Employees | 1,880 |
+| P/B | 14.71 | Analyst rec (1=buy..5=sell) | 1.6 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

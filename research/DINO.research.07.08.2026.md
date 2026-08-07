@@ -4,8 +4,8 @@ Signed file: `DINO.research.07.08.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $82.92 (2026-08-07, ~15-min delayed) |
-| Market cap | $14.74B |
+| Current price | $81.41 (2026-08-07, ~15-min delayed) |
+| Market cap | $14.47B |
 | Sector / Industry | Energy / Oil & Gas Refining & Marketing |
 | Main theme | Oil & Gas Refining & Marketing — see catalysts below |
 | Current stance | High technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
@@ -15,11 +15,11 @@ Signed file: `DINO.research.07.08.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +96.57%; price +36.58% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -10.30% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +94.77%; price +33.76% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -11.93% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 6.13%, revenue growth 53.20%. |
-| Value attractiveness | Reasonable | Forward P/E 9.21, EV/Sales 0.51. |
-| Risk level | Elevated | Beta 0.69, ATR 4.4% of price, short float 5.18%. |
+| Value attractiveness | Reasonable | Forward P/E 9.05, EV/Sales 0.51. |
+| Risk level | Elevated | Beta 0.69, ATR 4.5% of price, short float 5.18%. |
 
 **Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
 
@@ -36,30 +36,30 @@ HF Sinclair Corporation operates as an independent energy company in the United 
 
 | Headline | Source | Date |
 |---|---|---|
+| HF Sinclair (DINO) is a Great Momentum Stock: Should You Buy? | Zacks | 2026-08-07 |
 | HF Sinclair (DINO) Stock Still Looks Below Fair Value After 225% Returns | Simply Wall St. | 2026-08-07 |
 | ConocoPhillips Beats Q2 Earnings & Revenues Estimates on Higher Prices | Zacks | 2026-08-06 |
 | Zacks.com featured highlights POSCO Holdings, Par Pacific Holdings, Sally Beauty, Brookfield and HF Sinclair | Zacks | 2026-08-06 |
-| PSX Q2 Earnings & Revenues Beat Estimates on Strong Refining Margins | Zacks | 2026-08-05 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $82.92; 52w high $92.44 (-10.30%); 52w low $41.68 (+98.94%) |
-| Trend | +36.58% vs SMA200, +7.44% vs SMA50, -5.20% vs SMA20 |
-| Momentum | RSI(14) 47.7 (neutral) |
-| Volatility | ATR(14) 3.65 (~4.4% of price); beta 0.69 |
-| Setup perspective | -10.30% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $81.41; 52w high $92.44 (-11.93%); 52w low $41.68 (+95.31%) |
+| Trend | +33.76% vs SMA200, +5.12% vs SMA50, -7.10% vs SMA20 |
+| Momentum | RSI(14) 44.6 (neutral) |
+| Volatility | ATR(14) 3.64 (~4.5% of price); beta 0.69 |
+| Setup perspective | -11.93% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -10.3% |
-| Month | +5.5% |
-| Quarter | +17.5% |
-| Half Y | +48.4% |
-| 1Y | +96.6% |
-| YTD | +80.0% |
+| Week | -11.0% |
+| Month | +5.0% |
+| Quarter | +16.3% |
+| Half Y | +46.3% |
+| 1Y | +94.8% |
+| YTD | +76.7% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,14 +68,14 @@ HF Sinclair Corporation operates as an independent energy company in the United 
 | Revenue (ttm) | $31.23B | Revenue growth 53.20% y/y |
 | Profitability | Gross 12.89%, operating 11.69%, net 6.13% | ROA 9.16%, ROE 19.50% |
 | Balance sheet | Cash $2.26B, debt $3.34B | Current ratio 1.97, debt/equity 32.26 |
-| Valuation | P/E 7.90, forward P/E 9.21, P/S 0.47, P/B 1.43 | EV/Sales 0.51, EV/EBITDA 4.95 |
+| Valuation | P/E 7.76, forward P/E 9.05, P/S 0.46, P/B 1.41 | EV/Sales 0.51, EV/EBITDA 4.95 |
 | Growth expectations | Earnings growth 348.20%, EPS q/q 328.80% | Analyst mean target $89.33 (15 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 85.29% |
-| Insider ownership | 5.48% |
+| Institutional ownership | 85.20% |
+| Insider ownership | 5.49% |
 | Short float | 5.18% |
 | Short ratio (days to cover) | 3.2 |
 
@@ -92,10 +92,10 @@ HF Sinclair Corporation operates as an independent energy company in the United 
 | Charles Schwab Investment Management, Inc. | 5,275,366 | 2.97% | 2026-03-31 |
 | AQR Capital Management, LLC | 5,142,620 | 2.89% | 2026-03-31 |
 | Victory Capital Management Inc. | 4,222,772 | 2.38% | 2026-03-31 |
-| LSV Asset Management | 3,660,150 | 2.06% | 2026-03-31 |
+| LSV Asset Management | 3,627,250 | 2.04% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 0.69, ATR 4.4% of price, short float 5.18%. Size positions accordingly.
+- **Volatility risk:** Beta 0.69, ATR 4.5% of price, short float 5.18%. Size positions accordingly.
 - **Short interest risk:** short float 5.18% can fuel squeezes both ways around news.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -111,21 +111,21 @@ HF Sinclair Corporation operates as an independent energy company in the United 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $82.92 | EV/Sales | 0.51 |
-| Market cap | $14.74B | EV/EBITDA | 4.95 |
+| Price | $81.41 | EV/Sales | 0.51 |
+| Market cap | $14.47B | EV/EBITDA | 4.95 |
 | Beta | 0.69 | Gross margin | 12.89% |
-| RSI(14) | 47.7 | Operating margin | 11.69% |
-| ATR(14) | 3.65 | Profit margin | 6.13% |
-| SMA20 dist | -5.20% | ROA | 9.16% |
-| SMA50 dist | +7.44% | ROE | 19.50% |
-| SMA200 dist | +36.58% | Revenue (ttm) | $31.23B |
+| RSI(14) | 44.6 | Operating margin | 11.69% |
+| ATR(14) | 3.64 | Profit margin | 6.13% |
+| SMA20 dist | -7.10% | ROA | 9.16% |
+| SMA50 dist | +5.12% | ROE | 19.50% |
+| SMA200 dist | +33.76% | Revenue (ttm) | $31.23B |
 | 52W high | $92.44 | Revenue growth y/y | 53.20% |
-| 52W low | $41.68 | Inst. ownership | 85.29% |
-| P/E (ttm) | 7.90 | Insider ownership | 5.48% |
-| Forward P/E | 9.21 | Short float | 5.18% |
-| PEG (trailing) | 1.10 | Avg volume | 2,528,418 |
-| P/S | 0.47 | Employees | 5,165 |
-| P/B | 1.43 | Analyst rec (1=buy..5=sell) | 2.6 |
+| 52W low | $41.68 | Inst. ownership | 85.20% |
+| P/E (ttm) | 7.76 | Insider ownership | 5.49% |
+| Forward P/E | 9.05 | Short float | 5.18% |
+| PEG (trailing) | 1.10 | Avg volume | 2,524,167 |
+| P/S | 0.46 | Employees | 5,165 |
+| P/B | 1.41 | Analyst rec (1=buy..5=sell) | 2.6 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

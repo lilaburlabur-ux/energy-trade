@@ -4,8 +4,8 @@ Signed file: `VLO.research.07.08.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $302.99 (2026-08-07, ~15-min delayed) |
-| Market cap | $87.24B |
+| Current price | $298.31 (2026-08-07, ~15-min delayed) |
+| Market cap | $85.89B |
 | Sector / Industry | Energy / Oil & Gas Refining & Marketing |
 | Main theme | Oil & Gas Refining & Marketing — see catalysts below |
 | Current stance | High technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
@@ -15,11 +15,11 @@ Signed file: `VLO.research.07.08.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +126.13%; price +38.06% vs SMA200. |
-| Fresh setup quality | Watch | -3.38% from 52w high and near SMA20 — check for a tight base. |
+| Technical momentum | High | 1Y +128.26%; price +35.49% vs SMA200. |
+| Fresh setup quality | Watch | -4.87% from 52w high and near SMA20 — check for a tight base. |
 | Fundamental quality | Mixed | Profit margin 5.45%, revenue growth 51.70%. |
-| Value attractiveness | Reasonable | Forward P/E 10.93, EV/Sales 0.71. |
-| Risk level | Elevated | Beta 0.55, ATR 3.7% of price, short float 4.42%. |
+| Value attractiveness | Reasonable | Forward P/E 10.76, EV/Sales 0.71. |
+| Risk level | Elevated | Beta 0.55, ATR 3.8% of price, short float 4.42%. |
 
 **Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
 
@@ -36,30 +36,30 @@ Valero Energy Corporation manufactures, markets, and sells petroleum-based and l
 
 | Headline | Source | Date |
 |---|---|---|
+| The U.S. Didn’t Buy a Drop of Saudi Oil in July — the First Time in 41 Years | 24/7 Wall St. | 2026-08-07 |
+| WTI Q2 Earnings Beat Estimates on Strong Oil Pricing & Cost Control | Zacks | 2026-08-07 |
+| Quanta  and Builders FirstSource have been highlighted as Zacks Bull and Bear of the Day | Zacks | 2026-08-07 |
 | Valero Energy Stock: Buy at a Premium or Wait for a Better Entry Point? | Zacks | 2026-08-06 |
-| Is It Worth Investing in Valero Energy (VLO) Based on Wall Street's Bullish Views? | Zacks | 2026-08-06 |
-| All You Need to Know About Valero Energy (VLO) Rating Upgrade to Strong Buy | Zacks | 2026-08-05 |
-| PARR Q2 Earnings Beat Estimates on Refining Margin Strength | Zacks | 2026-08-05 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $302.99; 52w high $313.59 (-3.38%); 52w low $129.03 (+134.81%) |
-| Trend | +38.06% vs SMA200, +10.51% vs SMA50, -0.02% vs SMA20 |
-| Momentum | RSI(14) 57.5 (neutral) |
-| Volatility | ATR(14) 11.21 (~3.7% of price); beta 0.55 |
-| Setup perspective | -3.38% from 52w high and near SMA20 — check for a tight base. |
+| Price vs 52-week range | Close $298.31; 52w high $313.59 (-4.87%); 52w low $129.03 (+131.19%) |
+| Trend | +35.49% vs SMA200, +8.33% vs SMA50, -1.87% vs SMA20 |
+| Momentum | RSI(14) 53.4 (neutral) |
+| Volatility | ATR(14) 11.23 (~3.8% of price); beta 0.55 |
+| Setup perspective | -4.87% from 52w high and near SMA20 — check for a tight base. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -2.4% |
-| Month | +7.5% |
-| Quarter | +29.1% |
-| Half Y | +55.8% |
-| 1Y | +126.1% |
-| YTD | +86.0% |
+| Week | -4.7% |
+| Month | +6.5% |
+| Quarter | +27.3% |
+| Half Y | +55.0% |
+| 1Y | +128.3% |
+| YTD | +83.1% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ Valero Energy Corporation manufactures, markets, and sells petroleum-based and l
 | Revenue (ttm) | $132.43B | Revenue growth 51.70% y/y |
 | Profitability | Gross 16.12%, operating 12.27%, net 5.45% | ROA 10.56%, ROE 27.64% |
 | Balance sheet | Cash $7.87B, debt $11.35B | Current ratio 1.64, debt/equity 40.15 |
-| Valuation | P/E 12.64, forward P/E 10.93, P/S 0.66, P/B 3.77 | EV/Sales 0.71, EV/EBITDA 7.03 |
+| Valuation | P/E 12.45, forward P/E 10.76, P/S 0.65, P/B 3.71 | EV/Sales 0.71, EV/EBITDA 7.03 |
 | Growth expectations | Earnings growth 453.50%, EPS q/q 421.00% | Analyst mean target $309.79 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 90.65% |
+| Institutional ownership | 90.57% |
 | Insider ownership | 0.42% |
 | Short float | 4.42% |
 | Short ratio (days to cover) | 3.2 |
@@ -95,7 +95,7 @@ Valero Energy Corporation manufactures, markets, and sells petroleum-based and l
 | Franklin Resources, Inc. | 6,412,165 | 2.23% | 2026-03-31 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 0.55, ATR 3.7% of price, short float 4.42%. Size positions accordingly.
+- **Volatility risk:** Beta 0.55, ATR 3.8% of price, short float 4.42%. Size positions accordingly.
 - **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -111,21 +111,21 @@ Valero Energy Corporation manufactures, markets, and sells petroleum-based and l
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $302.99 | EV/Sales | 0.71 |
-| Market cap | $87.24B | EV/EBITDA | 7.03 |
+| Price | $298.31 | EV/Sales | 0.71 |
+| Market cap | $85.89B | EV/EBITDA | 7.03 |
 | Beta | 0.55 | Gross margin | 16.12% |
-| RSI(14) | 57.5 | Operating margin | 12.27% |
-| ATR(14) | 11.21 | Profit margin | 5.45% |
-| SMA20 dist | -0.02% | ROA | 10.56% |
-| SMA50 dist | +10.51% | ROE | 27.64% |
-| SMA200 dist | +38.06% | Revenue (ttm) | $132.43B |
+| RSI(14) | 53.4 | Operating margin | 12.27% |
+| ATR(14) | 11.23 | Profit margin | 5.45% |
+| SMA20 dist | -1.87% | ROA | 10.56% |
+| SMA50 dist | +8.33% | ROE | 27.64% |
+| SMA200 dist | +35.49% | Revenue (ttm) | $132.43B |
 | 52W high | $313.59 | Revenue growth y/y | 51.70% |
-| 52W low | $129.03 | Inst. ownership | 90.65% |
-| P/E (ttm) | 12.64 | Insider ownership | 0.42% |
-| Forward P/E | 10.93 | Short float | 4.42% |
-| PEG (trailing) | 4.08 | Avg volume | 3,007,818 |
-| P/S | 0.66 | Employees | 9,785 |
-| P/B | 3.77 | Analyst rec (1=buy..5=sell) | 2.3 |
+| 52W low | $129.03 | Inst. ownership | 90.57% |
+| P/E (ttm) | 12.45 | Insider ownership | 0.42% |
+| Forward P/E | 10.76 | Short float | 4.42% |
+| PEG (trailing) | 4.08 | Avg volume | 2,993,947 |
+| P/S | 0.65 | Employees | 9,785 |
+| P/B | 3.71 | Analyst rec (1=buy..5=sell) | 2.3 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

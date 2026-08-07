@@ -4,8 +4,8 @@ Signed file: `GEV.research.07.08.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $1,000.30 (2026-08-07, ~15-min delayed) |
-| Market cap | $266.41B |
+| Current price | $990.32 (2026-08-07, ~15-min delayed) |
+| Market cap | $263.76B |
 | Sector / Industry | Industrials / Specialty Industrial Machinery |
 | Main theme | Specialty Industrial Machinery — see catalysts below |
 | Current stance | Moderate technical momentum, strong fundamentals, value: low (expensive), risk: high. |
@@ -15,10 +15,10 @@ Signed file: `GEV.research.07.08.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +54.31%; price +18.55% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -14.86% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +49.36%; price +17.10% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -15.71% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 23.04%, revenue growth 21.90%. |
-| Value attractiveness | Low (expensive) | Forward P/E 40.20, EV/Sales 6.25. |
+| Value attractiveness | Low (expensive) | Forward P/E 39.88, EV/Sales 6.25. |
 | Risk level | High | Beta 1.03, ATR 5.9% of price, short float 3.80%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: low (expensive), risk: high.
@@ -36,30 +36,30 @@ GE Vernova Inc., an energy company, engages in the provision of various products
 
 | Headline | Source | Date |
 |---|---|---|
-| SpaceX's need for power is a 'clear positive' for these companies | Yahoo Finance | 2026-08-06 |
+| GE Vernova Holds an $176 Billion Backlog, Yet Wall Street Is Selling: What Investors Should Know. | Motley Fool | 2026-08-07 |
+| AirJoule Technologies (AIRJ) Lands GE Vernova Showcase As Investors Weigh Its Undervalued Narrative | Simply Wall St. | 2026-08-07 |
 | GE Vernova (GEV) Signs Up 43 India Wind Turbines Under Make In India | Simply Wall St. | 2026-08-06 |
-| Prediction: Up 120% YTD, Bloom Energy Has Room to Run | 24/7 Wall St. | 2026-08-06 |
-| Here's Why This AI-Related Power Company's Stock Declined in July | Motley Fool | 2026-08-06 |
+| SpaceX's need for power is a 'clear positive' for these companies | Yahoo Finance | 2026-08-06 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $1,000.30; 52w high $1,174.86 (-14.86%); 52w low $546.95 (+82.89%) |
-| Trend | +18.55% vs SMA200, -2.12% vs SMA50, -1.91% vs SMA20 |
-| Momentum | RSI(14) 47.4 (neutral) |
-| Volatility | ATR(14) 58.69 (~5.9% of price); beta 1.03 |
-| Setup perspective | -14.86% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $990.32; 52w high $1,174.86 (-15.71%); 52w low $546.95 (+81.06%) |
+| Trend | +17.10% vs SMA200, -3.02% vs SMA50, -2.40% vs SMA20 |
+| Momentum | RSI(14) 46.1 (neutral) |
+| Volatility | ATR(14) 58.04 (~5.9% of price); beta 1.03 |
+| Setup perspective | -15.71% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +1.9% |
-| Month | -6.6% |
-| Quarter | -10.6% |
-| Half Y | +34.2% |
-| 1Y | +54.3% |
-| YTD | +47.5% |
+| Week | +0.0% |
+| Month | -7.9% |
+| Quarter | -5.2% |
+| Half Y | +34.4% |
+| 1Y | +49.4% |
+| YTD | +46.0% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ GE Vernova Inc., an energy company, engages in the provision of various products
 | Revenue (ttm) | $41.37B | Revenue growth 21.90% y/y |
 | Profitability | Gross 20.57%, operating 7.47%, net 23.04% | ROA 2.54%, ROE 82.58% |
 | Balance sheet | Cash $12.72B, debt $3.72B | Current ratio 0.85, debt/equity 28.36 |
-| Valuation | P/E 28.65, forward P/E 40.20, P/S 6.44, P/B 22.28 | EV/Sales 6.25, EV/EBITDA 65.84 |
+| Valuation | P/E 28.37, forward P/E 39.88, P/S 6.38, P/B 22.06 | EV/Sales 6.25, EV/EBITDA 65.84 |
 | Growth expectations | Earnings growth 32.80%, EPS q/q 30.00% | Analyst mean target $1,231.48 (34 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 81.74% |
+| Institutional ownership | 81.70% |
 | Insider ownership | 0.12% |
 | Short float | 3.80% |
 | Short ratio (days to cover) | 3.4 |
@@ -92,10 +92,10 @@ GE Vernova Inc., an energy company, engages in the provision of various products
 | Morgan Stanley | 6,369,723 | 2.39% | 2026-03-31 |
 | Vanguard Portfolio Management LLC | 4,798,236 | 1.80% | 2026-03-31 |
 | Capital World Investors | 4,262,860 | 1.60% | 2026-03-31 |
-| Northern Trust Corporation | 2,787,345 | 1.05% | 2026-03-31 |
+| Fisher Asset Management, LLC | 3,559,479 | 1.34% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 40.20, EV/Sales 6.25. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 39.88, EV/Sales 6.25. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 1.03, ATR 5.9% of price, short float 3.80%. Size positions accordingly.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -111,21 +111,21 @@ GE Vernova Inc., an energy company, engages in the provision of various products
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $1,000.30 | EV/Sales | 6.25 |
-| Market cap | $266.41B | EV/EBITDA | 65.84 |
+| Price | $990.32 | EV/Sales | 6.25 |
+| Market cap | $263.76B | EV/EBITDA | 65.84 |
 | Beta | 1.03 | Gross margin | 20.57% |
-| RSI(14) | 47.4 | Operating margin | 7.47% |
-| ATR(14) | 58.69 | Profit margin | 23.04% |
-| SMA20 dist | -1.91% | ROA | 2.54% |
-| SMA50 dist | -2.12% | ROE | 82.58% |
-| SMA200 dist | +18.55% | Revenue (ttm) | $41.37B |
+| RSI(14) | 46.1 | Operating margin | 7.47% |
+| ATR(14) | 58.04 | Profit margin | 23.04% |
+| SMA20 dist | -2.40% | ROA | 2.54% |
+| SMA50 dist | -3.02% | ROE | 82.58% |
+| SMA200 dist | +17.10% | Revenue (ttm) | $41.37B |
 | 52W high | $1,174.86 | Revenue growth y/y | 21.90% |
-| 52W low | $546.95 | Inst. ownership | 81.74% |
-| P/E (ttm) | 28.65 | Insider ownership | 0.12% |
-| Forward P/E | 40.20 | Short float | 3.80% |
-| PEG (trailing) | 1.68 | Avg volume | 2,895,545 |
-| P/S | 6.44 | Employees | 78,000 |
-| P/B | 22.28 | Analyst rec (1=buy..5=sell) | 1.6 |
+| 52W low | $546.95 | Inst. ownership | 81.70% |
+| P/E (ttm) | 28.37 | Insider ownership | 0.12% |
+| Forward P/E | 39.88 | Short float | 3.80% |
+| PEG (trailing) | 1.68 | Avg volume | 2,900,752 |
+| P/S | 6.38 | Employees | 78,000 |
+| P/B | 22.06 | Analyst rec (1=buy..5=sell) | 1.6 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

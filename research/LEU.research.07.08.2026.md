@@ -4,8 +4,8 @@ Signed file: `LEU.research.07.08.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $178.03 (2026-08-07, ~15-min delayed) |
-| Market cap | $3.50B |
+| Current price | $191.37 (2026-08-07, ~15-min delayed) |
+| Market cap | $3.76B |
 | Sector / Industry | Energy / Uranium |
 | Main theme | Uranium — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: low (expensive), risk: high. |
@@ -15,11 +15,11 @@ Signed file: `LEU.research.07.08.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-21.11%) with negative half-year (-29.19%). |
-| Fresh setup quality | Poor / broken | -59.17% from 52w high — base needs to rebuild. |
-| Fundamental quality | Mixed | Profit margin 13.40%, revenue growth 4.90%. |
-| Value attractiveness | Low (expensive) | Forward P/E 50.58, EV/Sales 6.64. |
-| Risk level | High | Beta 1.35, ATR 7.2% of price, short float 26.55%. |
+| Technical momentum | Low | Below SMA200 (-14.81%) with negative half-year (-20.95%). |
+| Fresh setup quality | Poor / broken | -56.11% from 52w high — base needs to rebuild. |
+| Fundamental quality | Mixed | Profit margin 10.23%, revenue growth 14.00%. |
+| Value attractiveness | Low (expensive) | Forward P/E 52.74, EV/Sales 6.04. |
+| Risk level | High | Beta 1.35, ATR 6.7% of price, short float 26.55%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: low (expensive), risk: high.
 
@@ -36,46 +36,46 @@ Centrus Energy Corp. supplies nuclear fuel components for the nuclear power indu
 
 | Headline | Source | Date |
 |---|---|---|
+| LEU Q2 Earnings Call Highlights Backlog and 2029 Build-Out | Zacks | 2026-08-07 |
 | Centrus Energy Corp (LEU) (Q2 2026) Earnings Call Highlights: Record Backlog and Strategic ... | GuruFocus.com | 2026-08-06 |
 | LEU's Q2 Earnings Beat, Revenues up Y/Y on Strong Uranium Sales | Zacks | 2026-08-06 |
 | Centrus Energy (NYSE:LEU) Beats Expectations in Strong Q2 CY2026 | StockStory | 2026-08-05 |
-| Energy Fuels Set to Report Q2 Earnings: How to Play the Stock? | Zacks | 2026-08-04 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $178.03; 52w high $436.00 (-59.17%); 52w low $146.61 (+21.43%) |
-| Trend | -21.11% vs SMA200, +4.19% vs SMA50, +5.30% vs SMA20 |
-| Momentum | RSI(14) 52.9 (neutral) |
-| Volatility | ATR(14) 12.76 (~7.2% of price); beta 1.35 |
-| Setup perspective | -59.17% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $191.37; 52w high $436.00 (-56.11%); 52w low $146.61 (+30.53%) |
+| Trend | -14.81% vs SMA200, +11.85% vs SMA50, +12.51% vs SMA20 |
+| Momentum | RSI(14) 58.9 (neutral) |
+| Volatility | ATR(14) 12.90 (~6.7% of price); beta 1.35 |
+| Setup perspective | -56.11% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +0.7% |
-| Month | +6.9% |
-| Quarter | -23.0% |
-| Half Y | -29.2% |
-| 1Y | -16.7% |
-| YTD | -34.7% |
+| Week | +8.2% |
+| Month | +10.3% |
+| Quarter | -7.2% |
+| Half Y | -21.0% |
+| 1Y | -17.7% |
+| YTD | -29.8% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
 | Next earnings | 2026-11-04 | Next scheduled report (Yahoo estimate) |
-| Revenue (ttm) | $452.30M | Revenue growth 4.90% y/y |
-| Profitability | Gross 25.67%, operating -0.26%, net 13.40% | ROA 0.79%, ROE 12.25% |
-| Balance sheet | Cash $1.87B, debt $1.18B | Current ratio 5.72, debt/equity 152.04 |
-| Valuation | P/E 64.50, forward P/E 50.58, P/S 7.74, P/B 4.52 | EV/Sales 6.64, EV/EBITDA 87.77 |
-| Growth expectations | Earnings growth -71.90%, EPS q/q -63.20% | Analyst mean target $259.27 (15 analysts) |
+| Revenue (ttm) | $473.90M | Revenue growth 14.00% y/y |
+| Profitability | Gross 23.66%, operating 5.34%, net 10.23% | ROA 0.02%, ROE 8.05% |
+| Balance sheet | Cash $1.87B, debt $1.18B | Current ratio 5.39, debt/equity 139.28 |
+| Valuation | P/E —, forward P/E 52.74, P/S 7.94, P/B 4.52 | EV/Sales 6.04, EV/EBITDA 283.29 |
+| Growth expectations | Earnings growth -51.60%, EPS q/q -41.90% | Analyst mean target $260.87 (15 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 85.82% |
-| Insider ownership | 4.29% |
+| Institutional ownership | 84.74% |
+| Insider ownership | 4.23% |
 | Short float | 26.55% |
 | Short ratio (days to cover) | 5.3 |
 
@@ -89,14 +89,14 @@ Centrus Energy Corp. supplies nuclear fuel components for the nuclear power indu
 | Van Eck Associates Corporation | 1,210,001 | 6.38% | 2026-03-31 |
 | Vanguard Capital Management LLC | 802,687 | 4.24% | 2026-03-31 |
 | Geode Capital Management, LLC | 429,185 | 2.26% | 2026-03-31 |
-| Bank Of New York Mellon Corporation | 380,960 | 2.01% | 2026-03-31 |
+| Bank Of New York Mellon Corporation | 406,771 | 2.15% | 2026-06-30 |
 | Dimensional Fund Advisors LP | 358,347 | 1.89% | 2026-03-31 |
 | Shaw D.E. & Co., Inc. | 275,396 | 1.45% | 2026-03-31 |
 | UBS Group AG | 266,797 | 1.41% | 2026-03-31 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 50.58, EV/Sales 6.64. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 1.35, ATR 7.2% of price, short float 26.55%. Size positions accordingly.
+- **Valuation risk:** Forward P/E 52.74, EV/Sales 6.04. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 1.35, ATR 6.7% of price, short float 26.55%. Size positions accordingly.
 - **Short interest risk:** short float 26.55% can fuel squeezes both ways around news.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
@@ -113,33 +113,33 @@ Centrus Energy Corp. supplies nuclear fuel components for the nuclear power indu
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $178.03 | EV/Sales | 6.64 |
-| Market cap | $3.50B | EV/EBITDA | 87.77 |
-| Beta | 1.35 | Gross margin | 25.67% |
-| RSI(14) | 52.9 | Operating margin | -0.26% |
-| ATR(14) | 12.76 | Profit margin | 13.40% |
-| SMA20 dist | +5.30% | ROA | 0.79% |
-| SMA50 dist | +4.19% | ROE | 12.25% |
-| SMA200 dist | -21.11% | Revenue (ttm) | $452.30M |
-| 52W high | $436.00 | Revenue growth y/y | 4.90% |
-| 52W low | $146.61 | Inst. ownership | 85.82% |
-| P/E (ttm) | 64.50 | Insider ownership | 4.29% |
-| Forward P/E | 50.58 | Short float | 26.55% |
-| PEG (trailing) | — | Avg volume | 876,408 |
-| P/S | 7.74 | Employees | 467 |
+| Price | $191.37 | EV/Sales | 6.04 |
+| Market cap | $3.76B | EV/EBITDA | 283.29 |
+| Beta | 1.35 | Gross margin | 23.66% |
+| RSI(14) | 58.9 | Operating margin | 5.34% |
+| ATR(14) | 12.90 | Profit margin | 10.23% |
+| SMA20 dist | +12.51% | ROA | 0.02% |
+| SMA50 dist | +11.85% | ROE | 8.05% |
+| SMA200 dist | -14.81% | Revenue (ttm) | $473.90M |
+| 52W high | $436.00 | Revenue growth y/y | 14.00% |
+| 52W low | $146.61 | Inst. ownership | 84.74% |
+| P/E (ttm) | — | Insider ownership | 4.23% |
+| Forward P/E | 52.74 | Short float | 26.55% |
+| PEG (trailing) | — | Avg volume | 869,466 |
+| P/S | 7.94 | Employees | 467 |
 | P/B | 4.52 | Analyst rec (1=buy..5=sell) | 1.7 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-08-07 | main | JP Morgan | Neutral → Neutral |
+| 2026-08-07 | main | Needham | Buy → Buy |
+| 2026-08-07 | main | Evercore ISI Group | Outperform → Outperform |
 | 2026-07-29 | main | JP Morgan | Neutral → Neutral |
 | 2026-07-14 | init | Truist Securities | — → Buy |
 | 2026-07-09 | main | B of A Securities | Neutral → Neutral |
 | 2026-07-09 | main | Needham | Buy → Buy |
 | 2026-06-22 | main | Roth Capital | Neutral → Neutral |
-| 2026-06-16 | main | UBS | Neutral → Neutral |
-| 2026-05-08 | main | Citigroup | Neutral → Neutral |
-| 2026-04-24 | main | B. Riley Securities | Buy → Buy |
 
 ## 9. Conclusion
 LEU: Low momentum / mixed fundamentals / low (expensive) value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

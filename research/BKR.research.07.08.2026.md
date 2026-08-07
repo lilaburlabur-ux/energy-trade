@@ -4,8 +4,8 @@ Signed file: `BKR.research.07.08.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $62.75 (2026-08-07, ~15-min delayed) |
-| Market cap | $62.29B |
+| Current price | $61.55 (2026-08-07, ~15-min delayed) |
+| Market cap | $61.10B |
 | Sector / Industry | Energy / Oil & Gas Equipment & Services |
 | Main theme | Oil & Gas Equipment & Services — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
@@ -15,10 +15,10 @@ Signed file: `BKR.research.07.08.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +44.91%; price +10.78% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -9.63% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +43.41%; price +8.51% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -11.36% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 11.17%, revenue growth -2.40%. |
-| Value attractiveness | Reasonable | Forward P/E 19.83, EV/Sales 2.23. |
+| Value attractiveness | Reasonable | Forward P/E 19.45, EV/Sales 2.23. |
 | Risk level | Elevated | Beta 0.96, ATR 3.0% of price, short float 3.06%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
@@ -36,30 +36,30 @@ Baker Hughes Company provides a portfolio of technologies and services to energy
 
 | Headline | Source | Date |
 |---|---|---|
-| SpaceX's need for power is a 'clear positive' for these companies | Yahoo Finance | 2026-08-06 |
-| Are Wall Street Analysts Predicting Baker Hughes Stock Will Climb or Sink? | Barchart | 2026-08-06 |
-| 5 Dividend Stocks Paying Out This Month – But There’s a Catch | 24/7 Wall St. | 2026-08-05 |
-| How Baker Hughes' Chart Deal Could Reshape Its Growth and Risk Profile | Zacks | 2026-08-04 |
+| Sector Update: Energy Stocks Decline Friday Afternoon | MT Newswires | 2026-08-07 |
+| Is Cactus Worth Buying as Growth Accelerates but Valuation Stretches? | Zacks | 2026-08-07 |
+| US Oil Drillers Add Rigs | Oilprice.com | 2026-08-07 |
+| Here Are Friday’s Top Wall Street Analyst Research Calls: Baker Hughes, Etsy, HubSpot, Instacart, JetBlue, Roku, SpaceX, Tower Semiconductor, Trade Desk, and More | 24/7 Wall St. | 2026-08-07 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $62.75; 52w high $69.44 (-9.63%); 52w low $42.01 (+49.37%) |
-| Trend | +10.78% vs SMA200, +5.61% vs SMA50, +7.33% vs SMA20 |
-| Momentum | RSI(14) 65.2 (neutral) |
-| Volatility | ATR(14) 1.90 (~3.0% of price); beta 0.96 |
-| Setup perspective | -9.63% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $61.55; 52w high $69.44 (-11.36%); 52w low $42.01 (+46.51%) |
+| Trend | +8.51% vs SMA200, +3.65% vs SMA50, +4.92% vs SMA20 |
+| Momentum | RSI(14) 59.2 (neutral) |
+| Volatility | ATR(14) 1.86 (~3.0% of price); beta 0.96 |
+| Setup perspective | -11.36% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +4.8% |
-| Month | +9.0% |
-| Quarter | -5.9% |
-| Half Y | +6.8% |
-| 1Y | +44.9% |
-| YTD | +34.1% |
+| Week | +1.8% |
+| Month | +7.6% |
+| Quarter | -3.1% |
+| Half Y | +8.1% |
+| 1Y | +43.4% |
+| YTD | +31.5% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ Baker Hughes Company provides a portfolio of technologies and services to energy
 | Revenue (ttm) | $27.73B | Revenue growth -2.40% y/y |
 | Profitability | Gross 23.66%, operating 12.83%, net 11.17% | ROA 4.85%, ROE 16.46% |
 | Balance sheet | Cash $17.02B, debt $16.25B | Current ratio 2.10, debt/equity 80.92 |
-| Valuation | P/E 20.18, forward P/E 19.83, P/S 2.25, P/B 3.13 | EV/Sales 2.23, EV/EBITDA 12.75 |
-| Growth expectations | Earnings growth -4.20%, EPS q/q -2.90% | Analyst mean target $71.45 (22 analysts) |
+| Valuation | P/E 19.79, forward P/E 19.45, P/S 2.20, P/B 3.07 | EV/Sales 2.23, EV/EBITDA 12.75 |
+| Growth expectations | Earnings growth -4.20%, EPS q/q -2.90% | Analyst mean target $71.39 (23 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 100.17% |
+| Institutional ownership | 100.01% |
 | Insider ownership | 0.15% |
 | Short float | 3.06% |
 | Short ratio (days to cover) | 2.8 |
@@ -110,21 +110,21 @@ Baker Hughes Company provides a portfolio of technologies and services to energy
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $62.75 | EV/Sales | 2.23 |
-| Market cap | $62.29B | EV/EBITDA | 12.75 |
+| Price | $61.55 | EV/Sales | 2.23 |
+| Market cap | $61.10B | EV/EBITDA | 12.75 |
 | Beta | 0.96 | Gross margin | 23.66% |
-| RSI(14) | 65.2 | Operating margin | 12.83% |
-| ATR(14) | 1.90 | Profit margin | 11.17% |
-| SMA20 dist | +7.33% | ROA | 4.85% |
-| SMA50 dist | +5.61% | ROE | 16.46% |
-| SMA200 dist | +10.78% | Revenue (ttm) | $27.73B |
+| RSI(14) | 59.2 | Operating margin | 12.83% |
+| ATR(14) | 1.86 | Profit margin | 11.17% |
+| SMA20 dist | +4.92% | ROA | 4.85% |
+| SMA50 dist | +3.65% | ROE | 16.46% |
+| SMA200 dist | +8.51% | Revenue (ttm) | $27.73B |
 | 52W high | $69.44 | Revenue growth y/y | -2.40% |
-| 52W low | $42.01 | Inst. ownership | 100.17% |
-| P/E (ttm) | 20.18 | Insider ownership | 0.15% |
-| Forward P/E | 19.83 | Short float | 3.06% |
-| PEG (trailing) | 2.08 | Avg volume | 8,891,596 |
-| P/S | 2.25 | Employees | 54,000 |
-| P/B | 3.13 | Analyst rec (1=buy..5=sell) | 1.7 |
+| 52W low | $42.01 | Inst. ownership | 100.01% |
+| P/E (ttm) | 19.79 | Insider ownership | 0.15% |
+| Forward P/E | 19.45 | Short float | 3.06% |
+| PEG (trailing) | 2.08 | Avg volume | 8,836,398 |
+| P/S | 2.20 | Employees | 54,000 |
+| P/B | 3.07 | Analyst rec (1=buy..5=sell) | 1.7 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

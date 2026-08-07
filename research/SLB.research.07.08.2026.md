@@ -4,8 +4,8 @@ Signed file: `SLB.research.07.08.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $51.54 (2026-08-07, ~15-min delayed) |
-| Market cap | $76.49B |
+| Current price | $50.53 (2026-08-07, ~15-min delayed) |
+| Market cap | $74.99B |
 | Sector / Industry | Energy / Oil & Gas Equipment & Services |
 | Main theme | Oil & Gas Equipment & Services — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
@@ -15,11 +15,11 @@ Signed file: `SLB.research.07.08.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +58.05%; price +10.17% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -11.15% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +57.97%; price +7.80% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -12.89% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 8.53%, revenue growth 5.00%. |
-| Value attractiveness | Reasonable | Forward P/E 15.81, EV/Sales 2.38. |
-| Risk level | Elevated | Beta 0.75, ATR 3.3% of price, short float 4.88%. |
+| Value attractiveness | Reasonable | Forward P/E 15.50, EV/Sales 2.38. |
+| Risk level | Elevated | Beta 0.75, ATR 3.4% of price, short float 4.88%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
 
@@ -36,30 +36,30 @@ SLB N.V. engages in the provision of technology for the energy industry worldwid
 
 | Headline | Source | Date |
 |---|---|---|
+| Is Cactus Worth Buying as Growth Accelerates but Valuation Stretches? | Zacks | 2026-08-07 |
 | Sector Update: Energy Stocks Gain Late Afternoon | MT Newswires | 2026-08-06 |
 | How Baker Hughes' Chart Deal Could Reshape Its Growth and Risk Profile | Zacks | 2026-08-04 |
 | Can TechnipFMC's Q2 Subsea Momentum Power Stronger 2026 Results Ahead? | Zacks | 2026-08-04 |
-| SLB (SLB) Just Took a Hit. Here’s Why Investors May Stay Bullish | Insider Monkey | 2026-08-04 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $51.54; 52w high $58.01 (-11.15%); 52w low $31.12 (+65.60%) |
-| Trend | +10.17% vs SMA200, +2.55% vs SMA50, +5.71% vs SMA20 |
-| Momentum | RSI(14) 58.9 (neutral) |
-| Volatility | ATR(14) 1.72 (~3.3% of price); beta 0.75 |
-| Setup perspective | -11.15% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $50.53; 52w high $58.01 (-12.89%); 52w low $31.12 (+62.35%) |
+| Trend | +7.80% vs SMA200, +0.77% vs SMA50, +3.35% vs SMA20 |
+| Momentum | RSI(14) 54.5 (neutral) |
+| Volatility | ATR(14) 1.70 (~3.4% of price); beta 0.75 |
+| Setup perspective | -12.89% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +5.4% |
-| Month | +8.7% |
-| Quarter | -6.1% |
-| Half Y | +1.5% |
-| 1Y | +58.1% |
-| YTD | +29.6% |
+| Week | +1.9% |
+| Month | +7.0% |
+| Quarter | -4.2% |
+| Half Y | +3.2% |
+| 1Y | +58.0% |
+| YTD | +27.1% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ SLB N.V. engages in the provision of technology for the energy industry worldwid
 | Revenue (ttm) | $36.37B | Revenue growth 5.00% y/y |
 | Profitability | Gross 16.99%, operating 12.71%, net 8.53% | ROA 6.17%, ROE 12.91% |
 | Balance sheet | Cash $4.12B, debt $12.81B | Current ratio 1.44, debt/equity 47.00 |
-| Valuation | P/E 25.14, forward P/E 15.81, P/S 2.10, P/B 2.81 | EV/Sales 2.38, EV/EBITDA 11.70 |
+| Valuation | P/E 24.65, forward P/E 15.50, P/S 2.06, P/B 2.75 | EV/Sales 2.38, EV/EBITDA 11.70 |
 | Growth expectations | Earnings growth -29.70%, EPS q/q -22.50% | Analyst mean target $62.03 (29 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 93.83% |
+| Institutional ownership | 94.13% |
 | Insider ownership | 0.22% |
 | Short float | 4.88% |
 | Short ratio (days to cover) | 3.9 |
@@ -95,7 +95,7 @@ SLB N.V. engages in the provision of technology for the energy industry worldwid
 | UBS Group AG | 33,184,227 | 2.24% | 2026-03-31 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 0.75, ATR 3.3% of price, short float 4.88%. Size positions accordingly.
+- **Volatility risk:** Beta 0.75, ATR 3.4% of price, short float 4.88%. Size positions accordingly.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -110,21 +110,21 @@ SLB N.V. engages in the provision of technology for the energy industry worldwid
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $51.54 | EV/Sales | 2.38 |
-| Market cap | $76.49B | EV/EBITDA | 11.70 |
+| Price | $50.53 | EV/Sales | 2.38 |
+| Market cap | $74.99B | EV/EBITDA | 11.70 |
 | Beta | 0.75 | Gross margin | 16.99% |
-| RSI(14) | 58.9 | Operating margin | 12.71% |
-| ATR(14) | 1.72 | Profit margin | 8.53% |
-| SMA20 dist | +5.71% | ROA | 6.17% |
-| SMA50 dist | +2.55% | ROE | 12.91% |
-| SMA200 dist | +10.17% | Revenue (ttm) | $36.37B |
+| RSI(14) | 54.5 | Operating margin | 12.71% |
+| ATR(14) | 1.70 | Profit margin | 8.53% |
+| SMA20 dist | +3.35% | ROA | 6.17% |
+| SMA50 dist | +0.77% | ROE | 12.91% |
+| SMA200 dist | +7.80% | Revenue (ttm) | $36.37B |
 | 52W high | $58.01 | Revenue growth y/y | 5.00% |
-| 52W low | $31.12 | Inst. ownership | 93.83% |
-| P/E (ttm) | 25.14 | Insider ownership | 0.22% |
-| Forward P/E | 15.81 | Short float | 4.88% |
-| PEG (trailing) | 1.71 | Avg volume | 14,387,311 |
-| P/S | 2.10 | Employees | 109,000 |
-| P/B | 2.81 | Analyst rec (1=buy..5=sell) | 1.6 |
+| 52W low | $31.12 | Inst. ownership | 94.13% |
+| P/E (ttm) | 24.65 | Insider ownership | 0.22% |
+| Forward P/E | 15.50 | Short float | 4.88% |
+| PEG (trailing) | 1.71 | Avg volume | 14,349,545 |
+| P/S | 2.06 | Employees | 109,000 |
+| P/B | 2.75 | Analyst rec (1=buy..5=sell) | 1.6 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

@@ -4,8 +4,8 @@ Signed file: `EOG.research.07.08.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $136.20 (2026-08-07, ~15-min delayed) |
-| Market cap | $71.44B |
+| Current price | $134.74 (2026-08-07, ~15-min delayed) |
+| Market cap | $70.68B |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
 | Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated. |
@@ -15,11 +15,11 @@ Signed file: `EOG.research.07.08.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +19.66%; price +10.81% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -8.40% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +19.58%; price +9.48% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -9.38% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 25.73%, revenue growth 58.70%. |
-| Value attractiveness | Reasonable | Forward P/E 9.29, EV/Sales 2.80. |
-| Risk level | Elevated | Beta 0.28, ATR 3.2% of price, short float 3.65%. |
+| Value attractiveness | Reasonable | Forward P/E 9.18, EV/Sales 2.80. |
+| Risk level | Elevated | Beta 0.28, ATR 3.1% of price, short float 3.65%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated.
 
@@ -44,22 +44,22 @@ EOG Resources, Inc., together with its subsidiaries, explores for, develops, pro
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $136.20; 52w high $148.69 (-8.40%); 52w low $99.31 (+37.15%) |
-| Trend | +10.81% vs SMA200, -0.34% vs SMA50, -3.49% vs SMA20 |
-| Momentum | RSI(14) 45.2 (neutral) |
-| Volatility | ATR(14) 4.32 (~3.2% of price); beta 0.28 |
-| Setup perspective | -8.40% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $134.74; 52w high $148.69 (-9.38%); 52w low $99.31 (+35.68%) |
+| Trend | +9.48% vs SMA200, -1.43% vs SMA50, -4.58% vs SMA20 |
+| Momentum | RSI(14) 43.5 (neutral) |
+| Volatility | ATR(14) 4.23 (~3.1% of price); beta 0.28 |
+| Setup perspective | -9.38% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -6.4% |
-| Month | -0.3% |
-| Quarter | +1.9% |
-| Half Y | +20.6% |
-| 1Y | +19.7% |
-| YTD | +30.1% |
+| Week | -9.4% |
+| Month | +1.6% |
+| Quarter | +3.7% |
+| Half Y | +21.6% |
+| 1Y | +19.6% |
+| YTD | +28.7% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ EOG Resources, Inc., together with its subsidiaries, explores for, develops, pro
 | Revenue (ttm) | $26.72B | Revenue growth 58.70% y/y |
 | Profitability | Gross 62.64%, operating 40.72%, net 25.73% | ROA 11.02%, ROE 22.51% |
 | Balance sheet | Cash $4.91B, debt $8.25B | Current ratio 1.85, debt/equity 25.89 |
-| Valuation | P/E 10.60, forward P/E 9.29, P/S 2.67, P/B 2.36 | EV/Sales 2.80, EV/EBITDA 5.16 |
-| Growth expectations | Earnings growth 109.40%, EPS q/q 102.50% | Analyst mean target $158.33 (27 analysts) |
+| Valuation | P/E 10.49, forward P/E 9.18, P/S 2.64, P/B 2.33 | EV/Sales 2.80, EV/EBITDA 5.16 |
+| Growth expectations | Earnings growth 109.40%, EPS q/q 102.50% | Analyst mean target $158.81 (27 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 98.81% |
+| Institutional ownership | 98.61% |
 | Insider ownership | 0.29% |
 | Short float | 3.65% |
 | Short ratio (days to cover) | 4.1 |
@@ -83,19 +83,19 @@ EOG Resources, Inc., together with its subsidiaries, explores for, develops, pro
 
 | Holder | Shares | % Out | Reported |
 |---|---|---|---|
-| Capital World Investors | 51,890,964 | 9.74% | 2026-03-31 |
-| Blackrock Inc. | 44,260,333 | 8.31% | 2026-03-31 |
-| Vanguard Capital Management LLC | 35,054,131 | 6.58% | 2026-03-31 |
-| State Street Corporation | 33,921,548 | 6.37% | 2026-03-31 |
-| JPMORGAN CHASE & CO | 31,843,235 | 5.98% | 2026-03-31 |
-| Capital Research Global Investors | 26,056,870 | 4.89% | 2026-03-31 |
-| Charles Schwab Investment Management, Inc. | 16,279,433 | 3.06% | 2026-03-31 |
-| Vanguard Portfolio Management LLC | 13,351,332 | 2.51% | 2026-03-31 |
-| Geode Capital Management, LLC | 12,782,758 | 2.40% | 2026-03-31 |
-| Ameriprise Financial, Inc. | 10,561,599 | 1.98% | 2026-03-31 |
+| Capital World Investors | 51,890,964 | 9.89% | 2026-03-31 |
+| Blackrock Inc. | 44,260,333 | 8.44% | 2026-03-31 |
+| Vanguard Capital Management LLC | 35,054,131 | 6.68% | 2026-03-31 |
+| State Street Corporation | 33,921,548 | 6.47% | 2026-03-31 |
+| JPMORGAN CHASE & CO | 31,843,235 | 6.07% | 2026-03-31 |
+| Capital Research Global Investors | 26,056,870 | 4.97% | 2026-03-31 |
+| Charles Schwab Investment Management, Inc. | 16,279,433 | 3.10% | 2026-03-31 |
+| Vanguard Portfolio Management LLC | 13,351,332 | 2.55% | 2026-03-31 |
+| Geode Capital Management, LLC | 12,782,758 | 2.44% | 2026-03-31 |
+| Ameriprise Financial, Inc. | 10,561,599 | 2.01% | 2026-03-31 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 0.28, ATR 3.2% of price, short float 3.65%. Size positions accordingly.
+- **Volatility risk:** Beta 0.28, ATR 3.1% of price, short float 3.65%. Size positions accordingly.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -110,21 +110,21 @@ EOG Resources, Inc., together with its subsidiaries, explores for, develops, pro
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $136.20 | EV/Sales | 2.80 |
-| Market cap | $71.44B | EV/EBITDA | 5.16 |
+| Price | $134.74 | EV/Sales | 2.80 |
+| Market cap | $70.68B | EV/EBITDA | 5.16 |
 | Beta | 0.28 | Gross margin | 62.64% |
-| RSI(14) | 45.2 | Operating margin | 40.72% |
-| ATR(14) | 4.32 | Profit margin | 25.73% |
-| SMA20 dist | -3.49% | ROA | 11.02% |
-| SMA50 dist | -0.34% | ROE | 22.51% |
-| SMA200 dist | +10.81% | Revenue (ttm) | $26.72B |
+| RSI(14) | 43.5 | Operating margin | 40.72% |
+| ATR(14) | 4.23 | Profit margin | 25.73% |
+| SMA20 dist | -4.58% | ROA | 11.02% |
+| SMA50 dist | -1.43% | ROE | 22.51% |
+| SMA200 dist | +9.48% | Revenue (ttm) | $26.72B |
 | 52W high | $148.69 | Revenue growth y/y | 58.70% |
-| 52W low | $99.31 | Inst. ownership | 98.81% |
-| P/E (ttm) | 10.60 | Insider ownership | 0.29% |
-| Forward P/E | 9.29 | Short float | 3.65% |
-| PEG (trailing) | 1.15 | Avg volume | 3,521,011 |
-| P/S | 2.67 | Employees | 3,400 |
-| P/B | 2.36 | Analyst rec (1=buy..5=sell) | 2.2 |
+| 52W low | $99.31 | Inst. ownership | 98.61% |
+| P/E (ttm) | 10.49 | Insider ownership | 0.29% |
+| Forward P/E | 9.18 | Short float | 3.65% |
+| PEG (trailing) | 1.15 | Avg volume | 3,482,250 |
+| P/S | 2.64 | Employees | 3,400 |
+| P/B | 2.33 | Analyst rec (1=buy..5=sell) | 2.2 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
