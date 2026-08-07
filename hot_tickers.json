@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-07T17:32:10+00:00",
+  "as_of": "2026-08-07T18:29:00+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,32 +11,16 @@
    "rank": 1,
    "ticker": "OKLO",
    "company": "Oklo Inc.",
-   "move_pct": 13.89,
-   "price": 48.05,
-   "volume": 13385157,
-   "volume_vs_avg": "~1.5x",
-   "heat_score": 81,
+   "move_pct": 15.22,
+   "price": 48.61,
+   "volume": 14700086,
+   "volume_vs_avg": "~2x",
+   "heat_score": 85,
    "direction": "up",
-   "why": "Oklo's Groves Reactor Just Achieved First Criticality. Here's What It Means for OKLO Stock.",
+   "why": "Oklo Is Still Down 33% This Year. What Will It Take to Get OKLO Stock Back to $100?",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/energy/articles/oklos-groves-reactor-just-achieved-172001361.html",
-   "published": "2026-08-07T17:20:01Z",
-   "sector": "Nuclear & Uranium"
-  },
-  {
-   "rank": 2,
-   "ticker": "UUUU",
-   "company": "Energy Fuels Inc",
-   "move_pct": 9.07,
-   "price": 14.07,
-   "volume": 7564507,
-   "volume_vs_avg": "~1.0x",
-   "heat_score": 62,
-   "direction": "up",
-   "why": "UUUU Q2 Earnings Call Focuses on Mine-to-Magnet Execution",
-   "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/energy/articles/uuuu-q2-earnings-call-focuses-140000971.html",
-   "published": "2026-08-07T14:00:00Z",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/oklo-still-down-33-oklo-172734008.html",
+   "published": "2026-08-07T17:27:34Z",
    "sector": "Nuclear & Uranium"
   }
  ]
