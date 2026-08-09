@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-08-09T13:31:57+00:00",
-  "as_of_local": "2026-08-09 13:31:57 UTC",
+  "as_of_utc": "2026-08-09T14:20:27+00:00",
+  "as_of_local": "2026-08-09 14:20:27 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "COP"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -95,26 +97,7 @@
       "previous_close": 89.6,
       "change_pct": -1.23,
       "market_cap": 244581573511.5,
-      "headlines": [
-        {
-          "title": "Barrick Chairman's Planned Overhaul Meets Investor Backlash",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/barrick-chairmans-planned-overhaul-meets-120132508.html",
-          "publisher": "Bloomberg",
-          "published": "2026-08-09T12:01:32Z"
-        },
-        {
-          "title": "European Equities Traded in the US as American Depositary Receipts Rise in Friday Trading",
-          "url": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-american-151404603.html",
-          "publisher": "MT Newswires",
-          "published": "2026-08-07T15:14:04Z"
-        },
-        {
-          "title": "The Week in Numbers: BP's huge profit, Toyota moves fast",
-          "url": "https://finance.yahoo.com/video/week-numbers-bps-huge-profit-104138978.html",
-          "publisher": "Reuters Videos",
-          "published": "2026-08-07T10:41:38Z"
-        }
-      ]
+      "headlines": []
     },
     {
       "symbol": "TTE",
@@ -150,7 +133,7 @@
       "price": 84.65,
       "previous_close": 84.6,
       "change_pct": 0.06,
-      "market_cap": 176546496737.08124,
+      "market_cap": 176578058574.80014,
       "headlines": [
         {
           "title": "NextEra Energy (NEE) Stock Could Be 11% Overvalued Despite Fresh AI Data Center News",
@@ -178,7 +161,7 @@
       "price": 448.68,
       "previous_close": 447.09,
       "change_pct": 0.36,
-      "market_cap": 174222441156.00586,
+      "market_cap": 174267309155.27344,
       "headlines": [
         {
           "title": "Eaton (ETN) Q2 2026 Earnings Call Transcript",
@@ -197,34 +180,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/does-eaton-etn-winning-air-201021712.html",
           "publisher": "Simply Wall St.",
           "published": "2026-08-06T20:10:21Z"
-        }
-      ]
-    },
-    {
-      "symbol": "COP",
-      "name": "ConocoPhillips",
-      "price": 117.61,
-      "previous_close": 116.76,
-      "change_pct": 0.73,
-      "market_cap": 143283558906.85767,
-      "headlines": [
-        {
-          "title": "ConocoPhillips Q2 Earnings Call Highlights",
-          "url": "https://finance.yahoo.com/energy/articles/conocophillips-q2-earnings-call-highlights-020355883.html",
-          "publisher": "MarketBeat",
-          "published": "2026-08-08T02:03:55Z"
-        },
-        {
-          "title": "COP Q2 Earnings Call Reinforces 2029 Free Cash-Flow Path",
-          "url": "https://finance.yahoo.com/energy/articles/cop-q2-earnings-call-reinforces-190200946.html",
-          "publisher": "Zacks",
-          "published": "2026-08-07T19:02:00Z"
-        },
-        {
-          "title": "ConocoPhillips (COP) Reports Q2 Earnings: What Key Metrics Have to Say",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/conocophillips-cop-reports-q2-earnings-170001932.html",
-          "publisher": "Zacks",
-          "published": "2026-08-07T17:00:01Z"
         }
       ]
     },
@@ -425,34 +380,6 @@
       ]
     },
     {
-      "symbol": "MPC",
-      "name": "Marathon Petroleum",
-      "price": 298.2,
-      "previous_close": 299.25,
-      "change_pct": -0.35,
-      "market_cap": 87055508120.67963,
-      "headlines": [
-        {
-          "title": "MPC Q2 Earnings Call Highlights Refining Capture and Cash Returns",
-          "url": "https://finance.yahoo.com/energy/articles/mpc-q2-earnings-call-highlights-140000655.html",
-          "publisher": "Zacks",
-          "published": "2026-08-05T14:00:00Z"
-        },
-        {
-          "title": "Oil Refiners Are Quietly Printing Money. This Company\u2019s Earnings Jumped 975%",
-          "url": "https://finance.yahoo.com/energy/articles/oil-refiners-quietly-printing-money-133011627.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-08-05T13:30:11Z"
-        },
-        {
-          "title": "Marathon Petroleum (MPC) Q2 Earnings: How Key Metrics Compare to Wall Street Estimates",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/marathon-petroleum-mpc-q2-earnings-133005918.html",
-          "publisher": "Zacks",
-          "published": "2026-08-05T13:30:05Z"
-        }
-      ]
-    },
-    {
       "symbol": "WMB",
       "name": "Williams Companies",
       "price": 70.4,
@@ -505,6 +432,34 @@
           "url": "https://finance.yahoo.com/energy/articles/wti-q2-earnings-beat-estimates-135500586.html",
           "publisher": "Zacks",
           "published": "2026-08-07T13:55:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "MPC",
+      "name": "Marathon Petroleum",
+      "price": 298.2,
+      "previous_close": 299.25,
+      "change_pct": -0.35,
+      "market_cap": 83741947754.63666,
+      "headlines": [
+        {
+          "title": "MPC Q2 Earnings Call Highlights Refining Capture and Cash Returns",
+          "url": "https://finance.yahoo.com/energy/articles/mpc-q2-earnings-call-highlights-140000655.html",
+          "publisher": "Zacks",
+          "published": "2026-08-05T14:00:00Z"
+        },
+        {
+          "title": "Oil Refiners Are Quietly Printing Money. This Company\u2019s Earnings Jumped 975%",
+          "url": "https://finance.yahoo.com/energy/articles/oil-refiners-quietly-printing-money-133011627.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-08-05T13:30:11Z"
+        },
+        {
+          "title": "Marathon Petroleum (MPC) Q2 Earnings: How Key Metrics Compare to Wall Street Estimates",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/marathon-petroleum-mpc-q2-earnings-133005918.html",
+          "publisher": "Zacks",
+          "published": "2026-08-05T13:30:05Z"
         }
       ]
     },
@@ -593,34 +548,6 @@
       ]
     },
     {
-      "symbol": "EOG",
-      "name": "EOG Resources",
-      "price": 134.74,
-      "previous_close": 136.2,
-      "change_pct": -1.07,
-      "market_cap": 71766371058.0159,
-      "headlines": [
-        {
-          "title": "EOG Resources Q2 Earnings Call Highlights",
-          "url": "https://finance.yahoo.com/energy/articles/eog-resources-q2-earnings-call-060352582.html",
-          "publisher": "MarketBeat",
-          "published": "2026-08-08T06:03:52Z"
-        },
-        {
-          "title": "EOG Q2 Earnings Call Highlights UAE Progress & Cost Discipline",
-          "url": "https://finance.yahoo.com/energy/articles/eog-q2-earnings-call-highlights-140000420.html",
-          "publisher": "Zacks",
-          "published": "2026-08-06T14:00:00Z"
-        },
-        {
-          "title": "EOG Q2 Earnings Beat Estimates on Higher Volumes & Prices",
-          "url": "https://finance.yahoo.com/energy/articles/eog-q2-earnings-beat-estimates-150200833.html",
-          "publisher": "Zacks",
-          "published": "2026-08-05T15:02:00Z"
-        }
-      ]
-    },
-    {
       "symbol": "SU",
       "name": "Suncor Energy",
       "price": 60.1,
@@ -645,6 +572,34 @@
           "url": "https://finance.yahoo.com/news/news-day-suncor-ceo-stepping-213432168.html",
           "publisher": "Financial Post",
           "published": "2026-08-06T21:34:32Z"
+        }
+      ]
+    },
+    {
+      "symbol": "EOG",
+      "name": "EOG Resources",
+      "price": 134.74,
+      "previous_close": 136.2,
+      "change_pct": -1.07,
+      "market_cap": 70675064055.56482,
+      "headlines": [
+        {
+          "title": "EOG Resources Q2 Earnings Call Highlights",
+          "url": "https://finance.yahoo.com/energy/articles/eog-resources-q2-earnings-call-060352582.html",
+          "publisher": "MarketBeat",
+          "published": "2026-08-08T06:03:52Z"
+        },
+        {
+          "title": "EOG Q2 Earnings Call Highlights UAE Progress & Cost Discipline",
+          "url": "https://finance.yahoo.com/energy/articles/eog-q2-earnings-call-highlights-140000420.html",
+          "publisher": "Zacks",
+          "published": "2026-08-06T14:00:00Z"
+        },
+        {
+          "title": "EOG Q2 Earnings Beat Estimates on Higher Volumes & Prices",
+          "url": "https://finance.yahoo.com/energy/articles/eog-q2-earnings-beat-estimates-150200833.html",
+          "publisher": "Zacks",
+          "published": "2026-08-05T15:02:00Z"
         }
       ]
     },
@@ -878,7 +833,7 @@
       "price": 86.42,
       "previous_close": 87.93,
       "change_pct": -1.72,
-      "market_cap": 54447437916.21539,
+      "market_cap": 54476545467.89867,
       "headlines": [
         {
           "title": "How Investors May Respond To ONEOK (OKE) Raising 2026 Earnings Guidance and Launching New Stock Offering",
@@ -1074,7 +1029,7 @@
       "price": 75.66,
       "previous_close": 75.04,
       "change_pct": 0.83,
-      "market_cap": 37702999100.22748,
+      "market_cap": 37710461295.068665,
       "headlines": [
         {
           "title": "PSEG (PEG) Stock Looks Reasonable On Dividends But Richer On Earnings",
@@ -1494,7 +1449,7 @@
       "price": 33.2,
       "previous_close": 32.73,
       "change_pct": 1.44,
-      "market_cap": 10068762269.381199,
+      "market_cap": 9963706212.167,
       "headlines": [
         {
           "title": "The AI-adjacent portfolio: Six Canadians stocks that could benefit from the AI buildout",
@@ -1634,7 +1589,7 @@
       "price": 11.26,
       "previous_close": 10.76,
       "change_pct": 4.65,
-      "market_cap": 5519886128.782633,
+      "market_cap": 5572262954.427296,
       "headlines": [
         {
           "title": "LEU's Q2 Earnings Beat, Revenues up Y/Y on Strong Uranium Sales",
@@ -1662,7 +1617,7 @@
       "price": 41.87,
       "previous_close": 39.67,
       "change_pct": 5.55,
-      "market_cap": 5518391330.624313,
+      "market_cap": 5532896270.614288,
       "headlines": [
         {
           "title": "Enphase Energy (ENPH) Stock Looks Fully Priced With Cash Flow And Earnings In Sync",
@@ -1887,26 +1842,7 @@
       "previous_close": 5.25,
       "change_pct": 5.71,
       "market_cap": 853736427.2400532,
-      "headlines": [
-        {
-          "title": "Array (NASDAQ:ARRY) Posts Better-Than-Expected Sales In Q2 CY2026 But Quarterly Revenue Guidance Misses Expectations",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/array-nasdaq-arry-posts-better-130050793.html",
-          "publisher": "StockStory",
-          "published": "2026-08-07T13:00:50Z"
-        },
-        {
-          "title": "Array Technologies, Inc. Q2 2026 Earnings Call Summary",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/array-technologies-inc-q2-2026-123000391.html",
-          "publisher": "Moby",
-          "published": "2026-08-06T12:30:00Z"
-        },
-        {
-          "title": "Array Technologies, Inc. (ARRY) Q2 Earnings and Revenues Surpass Estimates",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/array-technologies-inc-arry-q2-003516794.html",
-          "publisher": "Zacks",
-          "published": "2026-08-06T00:35:16Z"
-        }
-      ]
+      "headlines": []
     }
   ],
   "etfs": [
@@ -1939,8 +1875,8 @@
           "name": "ConocoPhillips",
           "short": "ConocoPhillips",
           "weight_pct": 6.08,
-          "change_pct": 0.73,
-          "price": 117.61,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -2038,8 +1974,8 @@
         "name": "ConocoPhillips",
         "short": "ConocoPhillips",
         "weight_pct": 6.08,
-        "change_pct": 0.73,
-        "price": 117.61,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
