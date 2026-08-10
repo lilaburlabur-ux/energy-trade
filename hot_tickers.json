@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-10T17:37:05+00:00",
+  "as_of": "2026-08-10T18:31:46+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,29 +9,13 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "MPC",
-   "company": "Marathon Petroleum Corporation",
-   "move_pct": 5.7,
-   "price": 315.19,
-   "volume": 916641,
-   "volume_vs_avg": "~0.4x",
-   "heat_score": 37,
-   "direction": "up",
-   "why": "Marathon Petroleum Q2 Earnings Beat on Strong Refining Margins",
-   "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/energy/articles/marathon-petroleum-q2-earnings-beat-142400351.html",
-   "published": "2026-08-10T14:24:00Z",
-   "sector": "Refining & Downstream"
-  },
-  {
-   "rank": 2,
    "ticker": "SMR",
    "company": "NuScale Power Corporation",
-   "move_pct": -5.65,
-   "price": 9.27,
-   "volume": 13280625,
+   "move_pct": -5.91,
+   "price": 9.24,
+   "volume": 15480420,
    "volume_vs_avg": "~0.5x",
-   "heat_score": 37,
+   "heat_score": 38,
    "direction": "down",
    "why": "NuScale Power Stock Barely Budged After Earnings. Time to Buy?",
    "catalyst_type": "earnings",
