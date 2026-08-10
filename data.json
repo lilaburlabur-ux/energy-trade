@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-08-10T06:42:50+00:00",
-  "as_of_local": "2026-08-10 06:42:50 UTC",
+  "as_of_utc": "2026-08-10T08:17:55+00:00",
+  "as_of_local": "2026-08-10 08:17:55 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -209,6 +209,12 @@
       "market_cap": 143283558906.85767,
       "headlines": [
         {
+          "title": "COP Q2 Deep Dive: Portfolio Shifts, Leadership Change and Global Growth Initiatives",
+          "url": "https://finance.yahoo.com/energy/articles/cop-q2-deep-dive-portfolio-074122384.html",
+          "publisher": "StockStory",
+          "published": "2026-08-10T07:41:22Z"
+        },
+        {
           "title": "ConocoPhillips Q2 Earnings Call Highlights",
           "url": "https://finance.yahoo.com/energy/articles/conocophillips-q2-earnings-call-highlights-020355883.html",
           "publisher": "MarketBeat",
@@ -219,12 +225,6 @@
           "url": "https://finance.yahoo.com/energy/articles/cop-q2-earnings-call-reinforces-190200946.html",
           "publisher": "Zacks",
           "published": "2026-08-07T19:02:00Z"
-        },
-        {
-          "title": "ConocoPhillips (COP) Reports Q2 Earnings: What Key Metrics Have to Say",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/conocophillips-cop-reports-q2-earnings-170001932.html",
-          "publisher": "Zacks",
-          "published": "2026-08-07T17:00:01Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 77.96,
-      "change_pct": -0.28
+      "price": 78.2,
+      "change_pct": 0.03
     },
     {
       "label": "Brent",
-      "price": 83.47,
-      "change_pct": -0.1
+      "price": 83.76,
+      "change_pct": 0.25
     },
     {
       "label": "NatGas",
-      "price": 2.74,
-      "change_pct": 3.12
+      "price": 2.75,
+      "change_pct": 3.42
     }
   ]
 }
