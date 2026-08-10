@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-08-10T11:30:24+00:00",
-  "as_of_local": "2026-08-10 11:30:24 UTC",
+  "as_of_utc": "2026-08-10T12:02:16+00:00",
+  "as_of_local": "2026-08-10 12:02:16 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -1805,6 +1805,12 @@
       "market_cap": 1954057770.5621262,
       "headlines": [
         {
+          "title": "1 Unpopular Stock That Deserves a Second Chance and 2 We Question",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/1-unpopular-stock-deserves-second-114122730.html",
+          "publisher": "StockStory",
+          "published": "2026-08-10T11:41:22Z"
+        },
+        {
           "title": "First Solar Diversifies The Source Of Your Risk, Not Its Size",
           "url": "https://finance.yahoo.com/markets/stocks/articles/first-solar-diversifies-source-risk-161638326.html",
           "publisher": "Trefis",
@@ -1815,12 +1821,6 @@
           "url": "https://finance.yahoo.com/energy/articles/solar-stocks-rise-trump-imposes-122254440.html",
           "publisher": "MT Newswires",
           "published": "2026-08-07T12:22:54Z"
-        },
-        {
-          "title": "SolarEdge Beat Q2 Earnings Estimates. SEDG Stock Plummeted Anyway.",
-          "url": "https://finance.yahoo.com/energy/articles/solaredge-beat-q2-earnings-estimates-143414029.html",
-          "publisher": "Barchart",
-          "published": "2026-08-06T14:34:14Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 79.29,
-      "change_pct": 1.42
+      "price": 79.5,
+      "change_pct": 1.69
     },
     {
       "label": "Brent",
-      "price": 84.71,
-      "change_pct": 1.39
+      "price": 84.88,
+      "change_pct": 1.59
     },
     {
       "label": "NatGas",
-      "price": 2.76,
-      "change_pct": 3.72
+      "price": 2.77,
+      "change_pct": 3.94
     }
   ]
 }
