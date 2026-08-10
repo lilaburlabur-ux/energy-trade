@@ -1,27 +1,10 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-08T01:53:10+00:00",
+  "as_of": "2026-08-10T09:08:14+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": [
-  {
-   "rank": 1,
-   "ticker": "ENPH",
-   "company": "Enphase Energy, Inc.",
-   "move_pct": 5.55,
-   "price": 41.87,
-   "volume": 5392472,
-   "volume_vs_avg": "~1.0x",
-   "heat_score": 39,
-   "direction": "up",
-   "why": "Enphase Energy (ENPH) Is Up 6.1% After Expanding U.S. AI-Focused Power Electronics Manufacturing - What's Changed",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/energy/articles/enphase-energy-enph-6-1-221245652.html",
-   "published": "2026-08-07T22:12:45Z",
-   "sector": "Renewables & Solar"
-  }
- ]
+ "hot_tickers": []
 }
