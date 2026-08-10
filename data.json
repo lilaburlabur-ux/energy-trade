@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-08-10T09:58:35+00:00",
-  "as_of_local": "2026-08-10 09:58:35 UTC",
+  "as_of_utc": "2026-08-10T10:26:33+00:00",
+  "as_of_local": "2026-08-10 10:26:33 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -150,7 +150,7 @@
       "price": 84.65,
       "previous_close": 84.6,
       "change_pct": 0.06,
-      "market_cap": 176578058574.80014,
+      "market_cap": 176546496737.08124,
       "headlines": [
         {
           "title": "Forget Chips: AI Is Now a Power Trade. These 2 Dividend-Paying Industrials Prove It.",
@@ -178,7 +178,7 @@
       "price": 448.68,
       "previous_close": 447.09,
       "change_pct": 0.36,
-      "market_cap": 174267309155.27344,
+      "market_cap": 174222441156.00586,
       "headlines": [
         {
           "title": "Eaton (ETN) Q2 2026 Earnings Call Transcript",
@@ -425,6 +425,34 @@
       ]
     },
     {
+      "symbol": "MPC",
+      "name": "Marathon Petroleum",
+      "price": 298.2,
+      "previous_close": 299.25,
+      "change_pct": -0.35,
+      "market_cap": 87055508120.67963,
+      "headlines": [
+        {
+          "title": "MPC Q2 Earnings Call Highlights Refining Capture and Cash Returns",
+          "url": "https://finance.yahoo.com/energy/articles/mpc-q2-earnings-call-highlights-140000655.html",
+          "publisher": "Zacks",
+          "published": "2026-08-05T14:00:00Z"
+        },
+        {
+          "title": "Oil Refiners Are Quietly Printing Money. This Company\u2019s Earnings Jumped 975%",
+          "url": "https://finance.yahoo.com/energy/articles/oil-refiners-quietly-printing-money-133011627.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-08-05T13:30:11Z"
+        },
+        {
+          "title": "Marathon Petroleum (MPC) Q2 Earnings: How Key Metrics Compare to Wall Street Estimates",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/marathon-petroleum-mpc-q2-earnings-133005918.html",
+          "publisher": "Zacks",
+          "published": "2026-08-05T13:30:05Z"
+        }
+      ]
+    },
+    {
       "symbol": "WMB",
       "name": "Williams Companies",
       "price": 70.4,
@@ -477,34 +505,6 @@
           "url": "https://finance.yahoo.com/energy/articles/wti-q2-earnings-beat-estimates-135500586.html",
           "publisher": "Zacks",
           "published": "2026-08-07T13:55:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "MPC",
-      "name": "Marathon Petroleum",
-      "price": 298.2,
-      "previous_close": 299.25,
-      "change_pct": -0.35,
-      "market_cap": 83741947754.63666,
-      "headlines": [
-        {
-          "title": "MPC Q2 Earnings Call Highlights Refining Capture and Cash Returns",
-          "url": "https://finance.yahoo.com/energy/articles/mpc-q2-earnings-call-highlights-140000655.html",
-          "publisher": "Zacks",
-          "published": "2026-08-05T14:00:00Z"
-        },
-        {
-          "title": "Oil Refiners Are Quietly Printing Money. This Company\u2019s Earnings Jumped 975%",
-          "url": "https://finance.yahoo.com/energy/articles/oil-refiners-quietly-printing-money-133011627.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-08-05T13:30:11Z"
-        },
-        {
-          "title": "Marathon Petroleum (MPC) Q2 Earnings: How Key Metrics Compare to Wall Street Estimates",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/marathon-petroleum-mpc-q2-earnings-133005918.html",
-          "publisher": "Zacks",
-          "published": "2026-08-05T13:30:05Z"
         }
       ]
     },
@@ -593,6 +593,34 @@
       ]
     },
     {
+      "symbol": "EOG",
+      "name": "EOG Resources",
+      "price": 134.74,
+      "previous_close": 136.2,
+      "change_pct": -1.07,
+      "market_cap": 71766371058.0159,
+      "headlines": [
+        {
+          "title": "EOG Resources Q2 Earnings Call Highlights",
+          "url": "https://finance.yahoo.com/energy/articles/eog-resources-q2-earnings-call-060352582.html",
+          "publisher": "MarketBeat",
+          "published": "2026-08-08T06:03:52Z"
+        },
+        {
+          "title": "EOG Q2 Earnings Call Highlights UAE Progress & Cost Discipline",
+          "url": "https://finance.yahoo.com/energy/articles/eog-q2-earnings-call-highlights-140000420.html",
+          "publisher": "Zacks",
+          "published": "2026-08-06T14:00:00Z"
+        },
+        {
+          "title": "EOG Q2 Earnings Beat Estimates on Higher Volumes & Prices",
+          "url": "https://finance.yahoo.com/energy/articles/eog-q2-earnings-beat-estimates-150200833.html",
+          "publisher": "Zacks",
+          "published": "2026-08-05T15:02:00Z"
+        }
+      ]
+    },
+    {
       "symbol": "SU",
       "name": "Suncor Energy",
       "price": 60.1,
@@ -617,34 +645,6 @@
           "url": "https://finance.yahoo.com/news/news-day-suncor-ceo-stepping-213432168.html",
           "publisher": "Financial Post",
           "published": "2026-08-06T21:34:32Z"
-        }
-      ]
-    },
-    {
-      "symbol": "EOG",
-      "name": "EOG Resources",
-      "price": 134.74,
-      "previous_close": 136.2,
-      "change_pct": -1.07,
-      "market_cap": 70675064055.56482,
-      "headlines": [
-        {
-          "title": "EOG Resources Q2 Earnings Call Highlights",
-          "url": "https://finance.yahoo.com/energy/articles/eog-resources-q2-earnings-call-060352582.html",
-          "publisher": "MarketBeat",
-          "published": "2026-08-08T06:03:52Z"
-        },
-        {
-          "title": "EOG Q2 Earnings Call Highlights UAE Progress & Cost Discipline",
-          "url": "https://finance.yahoo.com/energy/articles/eog-q2-earnings-call-highlights-140000420.html",
-          "publisher": "Zacks",
-          "published": "2026-08-06T14:00:00Z"
-        },
-        {
-          "title": "EOG Q2 Earnings Beat Estimates on Higher Volumes & Prices",
-          "url": "https://finance.yahoo.com/energy/articles/eog-q2-earnings-beat-estimates-150200833.html",
-          "publisher": "Zacks",
-          "published": "2026-08-05T15:02:00Z"
         }
       ]
     },
@@ -878,7 +878,7 @@
       "price": 86.42,
       "previous_close": 87.93,
       "change_pct": -1.72,
-      "market_cap": 54476545467.89867,
+      "market_cap": 54447437916.21539,
       "headlines": [
         {
           "title": "Forget Chips: AI Is Now a Power Trade. These 2 Dividend-Paying Industrials Prove It.",
@@ -1074,7 +1074,7 @@
       "price": 75.66,
       "previous_close": 75.04,
       "change_pct": 0.83,
-      "market_cap": 37710461295.068665,
+      "market_cap": 37702999100.22748,
       "headlines": [
         {
           "title": "PSEG (PEG) Stock Looks Reasonable On Dividends But Richer On Earnings",
@@ -1494,7 +1494,7 @@
       "price": 33.2,
       "previous_close": 32.73,
       "change_pct": 1.44,
-      "market_cap": 9963706212.167,
+      "market_cap": 10068762269.381199,
       "headlines": [
         {
           "title": "The AI-adjacent portfolio: Six Canadians stocks that could benefit from the AI buildout",
@@ -1607,7 +1607,26 @@
       "previous_close": 88.96,
       "change_pct": -2.41,
       "market_cap": 6223730139.383339,
-      "headlines": []
+      "headlines": [
+        {
+          "title": "Weatherford Q2 Earnings Miss Estimates on Middle East Disruptions",
+          "url": "https://finance.yahoo.com/energy/articles/weatherford-q2-earnings-miss-estimates-172400515.html",
+          "publisher": "Zacks",
+          "published": "2026-07-23T17:24:00Z"
+        },
+        {
+          "title": "Weatherford (WFRD) Flags War Related Q2 Pressures While Stressing Operational Stability",
+          "url": "https://finance.yahoo.com/energy/articles/weatherford-wfrd-flags-war-related-171034053.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-07-23T17:10:34Z"
+        },
+        {
+          "title": "Weatherford (WFRD) Stock Looks Fairly Priced Following Mixed Q2 Results",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/weatherford-wfrd-stock-looks-fairly-060929539.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-07-23T06:09:29Z"
+        }
+      ]
     },
     {
       "symbol": "UEC",
@@ -1615,7 +1634,7 @@
       "price": 11.26,
       "previous_close": 10.76,
       "change_pct": 4.65,
-      "market_cap": 5572262954.427296,
+      "market_cap": 5519886128.782633,
       "headlines": [
         {
           "title": "LEU's Q2 Earnings Beat, Revenues up Y/Y on Strong Uranium Sales",
@@ -1643,7 +1662,7 @@
       "price": 41.87,
       "previous_close": 39.67,
       "change_pct": 5.55,
-      "market_cap": 5532896270.614288,
+      "market_cap": 5518391330.624313,
       "headlines": [
         {
           "title": "Enphase Energy (ENPH) Stock Looks Fully Priced With Cash Flow And Earnings In Sync",
@@ -2096,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 79.09,
-      "change_pct": 1.16
+      "price": 78.87,
+      "change_pct": 0.88
     },
     {
       "label": "Brent",
-      "price": 84.62,
-      "change_pct": 1.28
+      "price": 84.4,
+      "change_pct": 1.02
     },
     {
       "label": "NatGas",
-      "price": 2.76,
-      "change_pct": 3.76
+      "price": 2.77,
+      "change_pct": 3.87
     }
   ]
 }
