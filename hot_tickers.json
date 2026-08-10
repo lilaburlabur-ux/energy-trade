@@ -1,10 +1,27 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-10T14:53:42+00:00",
+  "as_of": "2026-08-10T15:51:26+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": []
+ "hot_tickers": [
+  {
+   "rank": 1,
+   "ticker": "OKLO",
+   "company": "Oklo Inc.",
+   "move_pct": -8.08,
+   "price": 44.51,
+   "volume": 7439818,
+   "volume_vs_avg": "~0.8x",
+   "heat_score": 57,
+   "direction": "down",
+   "why": "OKLO Q2 Loss Widens Y/Y, Misses Estimates on Higher Costs",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/energy/articles/oklo-q2-loss-widens-y-132000482.html",
+   "published": "2026-08-10T13:20:00Z",
+   "sector": "Nuclear & Uranium"
+  }
+ ]
 }
