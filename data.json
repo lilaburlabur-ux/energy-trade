@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-08-10T23:21:00+00:00",
-  "as_of_local": "2026-08-10 23:21:00 UTC",
+  "as_of_utc": "2026-08-10T23:35:00+00:00",
+  "as_of_local": "2026-08-10 23:35:00 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -1637,6 +1637,12 @@
       "market_cap": 5578712566.641316,
       "headlines": [
         {
+          "title": "Prediction: $1,000 in Uranium Energy Corp Will Be Worth This Much in 5 Years",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-1-000-uranium-energy-232500610.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-10T23:25:00Z"
+        },
+        {
           "title": "Uranium Energy vs. Oklo: Which Nuclear Fuel Play Wins in 2026?",
           "url": "https://finance.yahoo.com/energy/articles/uranium-energy-vs-oklo-nuclear-202500894.html",
           "publisher": "Motley Fool",
@@ -1647,12 +1653,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/cameco-vs-uranium-energy-uranium-192500294.html",
           "publisher": "Motley Fool",
           "published": "2026-08-10T19:25:00Z"
-        },
-        {
-          "title": "LEU's Q2 Earnings Beat, Revenues up Y/Y on Strong Uranium Sales",
-          "url": "https://finance.yahoo.com/energy/articles/leus-q2-earnings-beat-revenues-164800997.html",
-          "publisher": "Zacks",
-          "published": "2026-08-06T16:48:00Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 82.08,
-      "change_pct": 4.99
+      "price": 82.07,
+      "change_pct": 4.98
     },
     {
       "label": "Brent",
-      "price": 87.58,
-      "change_pct": 4.82
+      "price": 87.62,
+      "change_pct": 4.87
     },
     {
       "label": "NatGas",
       "price": 2.77,
-      "change_pct": 4.21
+      "change_pct": 4.17
     }
   ]
 }
