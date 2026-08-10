@@ -279,7 +279,7 @@ def render_header(active, utils, is_terminal=False):
 <link rel="stylesheet" href="/ds-v2/tokens.css?v=3">
 <link rel="stylesheet" href="/ds-v2/primitives.css?v=1">
 <link rel="stylesheet" href="/ds-v2/shell.css?v=1">
-<link rel="stylesheet" href="/ds-v2/remap.css?v=1">
+<link rel="stylesheet" href="/ds-v2/remap.css?v=2">
 <link rel="stylesheet" href="/ds-v2/lock.css?v=1">
 <script src="/ds-v2/compliance.js?v=1" defer></script>
 <script src="/ds-v2/gates.js?v=1" defer></script>

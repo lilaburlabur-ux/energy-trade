@@ -22,7 +22,9 @@ html.ds-v2 {
   --accent-2: var(--st-green);
   --accent-soft: color-mix(in srgb, var(--st-green) 12%, transparent);
   --accent-border: var(--st-focus-ring);
-  --green: var(--st-green);
+  /* market direction: --st-green is the AMBER brand accent on Energy Trade —
+     up-moves must stay actual green (approved heat token) */
+  --green: var(--sc-heat-green);
   --red: var(--st-red);
   /* article/editorial family (blog shells) */
   --surface: var(--st-bg-1);

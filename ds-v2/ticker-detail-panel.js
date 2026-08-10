@@ -19,25 +19,25 @@
   var cls = function (v) { return (v || 0) >= 0 ? "up" : "down"; };
 
   var CSS =
-    ".stp{background:var(--panel,#111822);border-top:1px solid var(--border-soft,#161e28);padding:16px 18px}" +
+    ".stp{background:var(--panel, var(--st-bg-1));border-top:1px solid var(--border-soft, var(--st-border));padding:16px 18px}" +
     ".stp-head{display:flex;align-items:center;gap:12px;flex-wrap:wrap}" +
-    ".stp-sym{font-family:" + MONO + ";font-size:22px;font-weight:800;color:var(--text,#e7edf3);letter-spacing:.01em}" +
-    ".stp-co{font-size:13px;color:var(--muted,#8895a4);flex:1 1 auto;min-width:0}" +
+    ".stp-sym{font-family:" + MONO + ";font-size:22px;font-weight:800;color:var(--text, var(--st-ink));letter-spacing:.01em}" +
+    ".stp-co{font-size:13px;color:var(--muted, var(--st-ink-dim));flex:1 1 auto;min-width:0}" +
     ".stp-pct{font-family:" + MONO + ";font-size:16px;font-weight:800}" +
-    ".stp-pct.up{color:#22c55e}.stp-pct.down{color:#f05a6e}" +
+    ".stp-pct.up{color:var(--green, var(--sc-heat-green))}.stp-pct.down{color:var(--red, var(--st-red))}" +
     ".stp-watch{display:inline-flex}" +
     ".stp-stats{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin:14px 0 4px}" +
-    ".stp-stat{border:1px solid var(--border,#1d2733);border-radius:11px;padding:10px 12px;background:var(--bg,#0a0e13)}" +
-    ".stp-stat .k{font-size:10.5px;text-transform:uppercase;letter-spacing:.06em;color:var(--faint,#5a6573);font-weight:700}" +
-    ".stp-stat .v{font-family:" + MONO + ";font-size:15px;font-weight:700;color:var(--text,#e7edf3);margin-top:3px}" +
+    ".stp-stat{border:1px solid var(--border, var(--st-border-strong));border-radius:11px;padding:10px 12px;background:var(--bg, var(--st-bg-0))}" +
+    ".stp-stat .k{font-size:10.5px;text-transform:uppercase;letter-spacing:.06em;color:var(--faint, var(--st-ink-faint));font-weight:700}" +
+    ".stp-stat .v{font-family:" + MONO + ";font-size:15px;font-weight:700;color:var(--text, var(--st-ink));margin-top:3px}" +
     ".stp-chips{display:flex;gap:7px;flex-wrap:wrap;margin:12px 0 2px}" +
-    ".stp-chip{font-family:" + MONO + ";font-size:11.5px;border:1px solid var(--border,#1d2733);border-radius:999px;padding:5px 10px;color:var(--muted,#8895a4)}" +
-    ".stp-chip b{font-weight:700}.stp-chip .up{color:#22c55e}.stp-chip .down{color:#f05a6e}" +
+    ".stp-chip{font-family:" + MONO + ";font-size:11.5px;border:1px solid var(--border, var(--st-border-strong));border-radius:999px;padding:5px 10px;color:var(--muted, var(--st-ink-dim))}" +
+    ".stp-chip b{font-weight:700}.stp-chip .up{color:var(--green, var(--sc-heat-green))}.stp-chip .down{color:var(--red, var(--st-red))}" +
     ".stp-actions{display:flex;gap:9px;flex-wrap:wrap;margin-top:14px}" +
     ".stp-actions a{text-decoration:none;font-size:13px;font-weight:700;border-radius:9px;padding:9px 15px;white-space:nowrap}" +
-    ".stp-actions a.pri{background:var(--accent-2,#f59e0b);color:#140b04}" +
-    ".stp-actions a.sec{border:1px solid var(--border-strong,#26323f);color:var(--accent-2,#f59e0b)}" +
-    ".stp-actions a.sec:hover{border-color:var(--accent-2,#f59e0b)}" +
+    ".stp-actions a.pri{background:var(--accent-2, var(--st-green));color:var(--st-green-ink)}" +
+    ".stp-actions a.sec{border:1px solid var(--border-strong, var(--st-border-strong));color:var(--accent-2, var(--st-green))}" +
+    ".stp-actions a.sec:hover{border-color:var(--accent-2, var(--st-green))}" +
     "@media(max-width:640px){.stp-stats{grid-template-columns:repeat(2,1fr)}.stp-actions a{flex:1 1 auto;text-align:center}}";
 
   function ensureCss() {
@@ -65,7 +65,7 @@
           '<span class="stp-sym">' + esc(sym) + "</span>" +
           '<span class="stp-co">' + esc(t.company || "") + "</span>" +
           '<span class="stp-watch" data-stp-watch></span>' +
-          '<span class="stp-pct ' + cls(t.change_pct) + '">' + fmtPct(t.change_pct) + " <span style=\"font-size:11px;color:var(--faint,#5a6573)\">today</span></span>" +
+          '<span class="stp-pct ' + cls(t.change_pct) + '">' + fmtPct(t.change_pct) + " <span style=\"font-size:11px;color:var(--faint, var(--st-ink-faint))\">today</span></span>" +
         "</div>" +
         '<div class="stp-stats">' +
           '<div class="stp-stat"><div class="k">Price</div><div class="v">' + (t.price == null ? "—" : "$" + Number(t.price).toFixed(2)) + "</div></div>" +
