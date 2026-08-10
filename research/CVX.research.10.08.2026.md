@@ -36,10 +36,10 @@ Chevron Corporation, through its subsidiaries, engages in the integrated energy 
 
 | Headline | Source | Date |
 |---|---|---|
+| Update: US Equity Indexes Decline as Fading Hopes for Quick Hormuz Reopening Lift Crude Oil, Treasury Yields | MT Newswires | 2026-08-10 |
 | Stock Market Today: Dow Dips, Nvidia Falls On This; Warren Buffett's Berkshire In Buy Zone (Live Coverage) | Investor's Business Daily | 2026-08-10 |
+| Top Analyst Reports for Costco, Chevron & Home Depot | Zacks | 2026-08-10 |
 | Update: US Equity Indexes Fall Amid Higher Crude Oil Prices, Treasury Yields | MT Newswires | 2026-08-10 |
-| Chevron (CVX) Lands 20 Year AI Data Center Power Deal | Simply Wall St. | 2026-08-10 |
-| CVX, OXY & XOM: The Next Big Move in Oil Could Be Just Getting Started | 24/7 Wall St. | 2026-08-10 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

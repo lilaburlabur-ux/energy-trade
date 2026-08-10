@@ -68,8 +68,8 @@ Suncor Energy Inc. operates as an integrated energy company in Canada, the Unite
 | Revenue (ttm) | $56.57B | Revenue growth 45.90% y/y |
 | Profitability | Gross 60.40%, operating 29.94%, net 15.78% | ROA 8.58%, ROE 19.25% |
 | Balance sheet | Cash $5.37B, debt $14.68B | Current ratio 1.65, debt/equity 30.48 |
-| Valuation | P/E 11.75, forward P/E 11.10, P/S 1.30, P/B 2.13 | EV/Sales 1.41, EV/EBITDA 4.08 |
-| Growth expectations | Earnings growth 241.90%, EPS q/q 229.10% | Analyst mean target $70.72 (3 analysts) |
+| Valuation | P/E 11.75, forward P/E 11.10, P/S 1.31, P/B 2.13 | EV/Sales 1.41, EV/EBITDA 4.08 |
+| Growth expectations | Earnings growth 241.90%, EPS q/q 229.10% | Analyst mean target $70.71 (3 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
@@ -123,7 +123,7 @@ Suncor Energy Inc. operates as an integrated energy company in Canada, the Unite
 | P/E (ttm) | 11.75 | Insider ownership | 0.01% |
 | Forward P/E | 11.10 | Short float | — |
 | PEG (trailing) | — | Avg volume | 4,468,332 |
-| P/S | 1.30 | Employees | 15,424 |
+| P/S | 1.31 | Employees | 15,424 |
 | P/B | 2.13 | Analyst rec (1=buy..5=sell) | 1.9 |
 
 ## 8. Analyst Actions

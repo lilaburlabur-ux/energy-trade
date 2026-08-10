@@ -32,6 +32,15 @@ Signed file: `SEDG.research.10.08.2026`
 ## 2. Company Overview and Recent Catalysts
 SolarEdge Technologies, Inc., together with its subsidiaries, operates as an energy technology company in the United States, Europe, and internationally. The company offers power optimizers and DC-to-AC inverters; Storage Solutions, such as home battery 400V and CSS-OD solution; EV chargers for residential and commercial applications; SolarEdge ONE, an energy optimization system; and cloud-based monitoring platform.
 
+**Recent headlines (potential catalysts):**
+
+| Headline | Source | Date |
+|---|---|---|
+| 1 Unpopular Stock That Deserves a Second Chance and 2 We Question | StockStory | 2026-08-10 |
+| First Solar Diversifies The Source Of Your Risk, Not Its Size | Trefis | 2026-08-07 |
+| Update: Solar Stocks Rise After Trump Imposes 15% Tariff, Minimum Prices on Polysilicon Imports | MT Newswires | 2026-08-07 |
+| SolarEdge Beat Q2 Earnings Estimates. SEDG Stock Plummeted Anyway. | Barchart | 2026-08-06 |
+
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|

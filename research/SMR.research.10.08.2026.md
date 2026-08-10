@@ -36,10 +36,10 @@ NuScale Power Corporation provides small modular reactor technology solutions. I
 
 | Headline | Source | Date |
 |---|---|---|
+| Prediction: This $10 Nuclear Energy Stock Could Be Worth $100 by 2036 | Motley Fool | 2026-08-10 |
 | AI Data Centers Need Power Now. Can NuScale Deliver in Time? | Motley Fool | 2026-08-10 |
 | NuScale Power Stock Barely Budged After Earnings. Time to Buy? | Motley Fool | 2026-08-10 |
 | OKLO Q2 Loss Widens Y/Y, Misses Estimates on Higher Costs | Zacks | 2026-08-10 |
-| Should You Buy, Sell or Hold NuScale Stock Post Q2 Earnings? | Zacks | 2026-08-10 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

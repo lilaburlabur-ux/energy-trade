@@ -36,10 +36,10 @@ Constellation Energy Corporation produces and sells energy products and services
 
 | Headline | Source | Date |
 |---|---|---|
+| The Biggest AI Power Opportunity May Be Hiding in Constellation Energy | Barchart | 2026-08-10 |
 | Constellation (CEG) Locks In More Power Deals As Nuclear Output Slips | Insider Monkey | 2026-08-09 |
 | Constellation Signed 920 Megawatts of New Power Deals, Including a Walmart PPA. Here's What It Means for CEG Stock. | Motley Fool | 2026-08-07 |
 | Constellation Energy Stock: Analyst Estimates & Ratings | Barchart | 2026-08-07 |
-| CEG Q2 Earnings Call Focuses on Higher Guidance and Nuclear Deals | Zacks | 2026-08-07 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

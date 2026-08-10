@@ -5,7 +5,7 @@ Signed file: `XOM.research.10.08.2026`
 | Field | Value |
 |---|---|
 | Current price | $159.79 (2026-08-10, ~15-min delayed) |
-| Market cap | $662.32B |
+| Market cap | — |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -36,10 +36,10 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 
 | Headline | Source | Date |
 |---|---|---|
+| Stock Market Today, Aug. 10: Markets Slip as Oil Gains Fuel Inflation Fears | Motley Fool | 2026-08-10 |
+| The IRS Just Gave 65-Year-Olds a New $6,000 Deduction. These 3 ETFs Turn the Tax Break Into Monthly Income | 24/7 Wall St. | 2026-08-10 |
 | Will ExxonMobil’s (XOM) Q2 Profit Surge and Massive Buybacks Reshape Its Capital Allocation Narrative? | Simply Wall St. | 2026-08-10 |
 | Exxon Stock Jumps 3.3% as Oil Supply Fears Return | GuruFocus.com | 2026-08-10 |
-| CVX, OXY & XOM: The Next Big Move in Oil Could Be Just Getting Started | 24/7 Wall St. | 2026-08-10 |
-| Can Chevron's Hess Synergies Extend Growth and Lift Cash Flow Further? | Zacks | 2026-08-10 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 | Revenue (ttm) | $361.06B | Revenue growth 44.10% y/y |
 | Profitability | Gross 29.77%, operating 15.86%, net 9.07% | ROA 5.52%, ROE 12.58% |
 | Balance sheet | Cash $10.59B, debt $42.37B | Current ratio 1.14, debt/equity 15.92 |
-| Valuation | P/E 26.90, forward P/E 15.10, P/S 1.83, P/B 2.53 | EV/Sales 1.85, EV/EBITDA 9.83 |
+| Valuation | P/E 26.90, forward P/E 15.10, P/S —, P/B 2.53 | EV/Sales 1.85, EV/EBITDA 9.83 |
 | Growth expectations | Earnings growth 112.80%, EPS q/q 105.10% | Analyst mean target $168.32 (22 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -111,7 +111,7 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $159.79 | EV/Sales | 1.85 |
-| Market cap | $662.32B | EV/EBITDA | 9.83 |
+| Market cap | — | EV/EBITDA | 9.83 |
 | Beta | 0.17 | Gross margin | 29.77% |
 | RSI(14) | 65.1 | Operating margin | 15.86% |
 | ATR(14) | 4.03 | Profit margin | 9.07% |
@@ -123,7 +123,7 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 | P/E (ttm) | 26.90 | Insider ownership | 0.08% |
 | Forward P/E | 15.10 | Short float | 1.15% |
 | PEG (trailing) | 1.20 | Avg volume | 16,409,432 |
-| P/S | 1.83 | Employees | 57,900 |
+| P/S | — | Employees | 57,900 |
 | P/B | 2.53 | Analyst rec (1=buy..5=sell) | 2.4 |
 
 ## 8. Analyst Actions

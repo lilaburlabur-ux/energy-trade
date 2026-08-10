@@ -36,10 +36,10 @@ Kinder Morgan, Inc. operates as an energy infrastructure company primarily in No
 
 | Headline | Source | Date |
 |---|---|---|
+| Kinder Morgan (KMI) Stock Trades At A Discount As Its 138% Run Continues | Simply Wall St. | 2026-08-10 |
 | 1 Stock Under $50 to Consider Right Now and 2 We Question | StockStory | 2026-08-10 |
 | Is MPLX Worth Buying as Growth Projects Meet Higher Capital Risks? | Zacks | 2026-08-10 |
 | Can WMB's Momentum Deal Power 11% Growth Through 2030 and Beyond? | Zacks | 2026-08-07 |
-| WES Q2 Earnings Beat Estimates on Record Throughput & Pricing | Zacks | 2026-08-07 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
