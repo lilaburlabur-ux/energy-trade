@@ -1,10 +1,27 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-10T20:21:13+00:00",
+  "as_of": "2026-08-10T21:09:42+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": []
+ "hot_tickers": [
+  {
+   "rank": 1,
+   "ticker": "OKLO",
+   "company": "Oklo Inc.",
+   "move_pct": -8.51,
+   "price": 44.3,
+   "volume": 14092459,
+   "volume_vs_avg": "~1.5x",
+   "heat_score": 62,
+   "direction": "down",
+   "why": "Uranium Energy vs. Oklo: Which Nuclear Fuel Play Wins in 2026?",
+   "catalyst_type": "contract_win",
+   "source_url": "https://finance.yahoo.com/energy/articles/uranium-energy-vs-oklo-nuclear-202500894.html",
+   "published": "2026-08-10T20:25:00Z",
+   "sector": "Nuclear & Uranium"
+  }
+ ]
 }
