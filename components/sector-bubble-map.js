@@ -77,8 +77,7 @@
       '<div class="sbm-hd">' +
         '<span class="sbm-lab"><b>' + label + '</b> · sized by the day&#39;s move · colored by direction</span>' +
         '<div class="sbm-tabs">' +
-          '<a class="sbm-tab on" href="/terminal">AI Universe</a>' +
-          '<a class="sbm-tab" href="/terminal" title="NVIDIA Ecosystem view lives on the terminal">NVIDIA Ecosystem</a>' +
+          '<a class="sbm-tab on" href="/terminal" title="Open the full map on the terminal">Energy Universe</a>' +
           '<a class="sbm-all" href="/stocks">&#8592; All sectors</a>' +
           '<span class="sbm-leg">-10%<i></i>+10%</span>' +
         '</div></div>' +

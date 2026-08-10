@@ -1112,7 +1112,7 @@ let tkExpanded=false;              // "See more" state — survives the 60s auto
 let hotData=null;                  // hot_tickers.json — 15-min hot-tickers scan (hot-tickers/SPEC.md)
 let bubbleIx=null;                  // bubble_index.json — AI bubble-risk index + history (homepage band)
 let universe=null, uniGroup=null;  // universe.json — AI universe (count from meta.total_tickers) in themed sector bubbles
-let eco=null;                      // ecosystem.json — 30-name NVIDIA Ecosystem basket
+let eco=null;                      // ecosystem.json — reserved energy ecosystem basket (empty for now)
 let newsFeed=null;                 // news.json — deduped headlines for the FULL scope (universe + ETFs)
 let tweets=null;                   // tweets.json — @wallstengine squawk, our tickers only
 
@@ -1337,7 +1337,7 @@ function showGroupDetail(g){
 
 function showEcoOverview(){
   document.getElementById("detail-title").innerHTML=
-    `NVIDIA Ecosystem <span class="badge live">${eco.tickers.length} names</span>`;
+    `Ecosystem <span class="badge live">${eco.tickers.length} names</span>`;
   const rows=eco.tickers.map(t=>`
       <tr><td><a href="t?sym=${encodeURIComponent(t.ticker)}" title="Open the ${t.ticker} page">${t.ticker}</a></td>
         <td class="num">${t.price==null?"—":"$"+t.price.toFixed(2)}</td>
@@ -1651,7 +1651,7 @@ function applyHeat(){
   }
   if(heatMode==="eco" && eco){
     document.getElementById("heat-title").textContent =
-      `NVIDIA Ecosystem · ${eco.tickers.length} names · sized by day move`;
+      `Ecosystem · ${eco.tickers.length} names · sized by day move`;
     render();
     // no selection yet → the whole basket as a table; a click swaps to the ticker card
     const t = eco.tickers.find(x=>x.ticker===selectedSymbol);

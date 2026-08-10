@@ -554,11 +554,11 @@ async function load(){
   if(universe) for(const b of universe.bubbles){
     const x=b.tickers.find(x=>x.ticker===SYM);
     if(x){ t=x; sectorLabel=UNI_SHORT[b.id]||b.label; sectorMove=b.avg_change_pct; basketId=b.id;
-      baskets.push("AI Universe: "+sectorLabel); break; }
+      baskets.push("Energy Universe: "+sectorLabel); break; }
   }
   if(eco && eco.tickers.some(x=>x.ticker===SYM)){
     if(!t) t=eco.tickers.find(x=>x.ticker===SYM);
-    baskets.push("NVIDIA Ecosystem");
+    baskets.push("Ecosystem");
   }
   // recently-listed IPO context (attached even if the name is also in a basket)
   const ipoRow=(ipos&&ipos.listed||[]).find(x=>x.ticker===SYM)||null;
@@ -572,7 +572,7 @@ async function load(){
   if(!t){
     document.title="Not found | Energy Trade";
     el.innerHTML=`<div class="notfound"><h1>${SYM}</h1>
-      <p>This ticker isn't in our tracked baskets (AI Universe · NVIDIA Ecosystem · AI IPOs).</p>
+      <p>This ticker isn't in the Energy Trade universe. See the full tracked list on the <a href="/stocks">energy stocks map</a>.</p>
       <p><a href="/stocks">← Back to the bubble map</a> · <a href="/ipos">AI IPOs</a></p></div>`;
     return;
   }

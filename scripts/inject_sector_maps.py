@@ -19,7 +19,7 @@ import glob, json, os, re, sys
 
 HERE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 os.chdir(HERE)
-V = "7"   # cache-bust: bump on every sector-bubble-map.js / engine edit
+V = "8"   # cache-bust: bump on every sector-bubble-map.js / engine edit
 EV = "1"  # engine version (components/santro-bubble-engine.js)
 
 MAP_S, MAP_E = "<!-- sector-map:start -->", "<!-- sector-map:end -->"
