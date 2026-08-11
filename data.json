@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-08-11T11:05:15+00:00",
-  "as_of_local": "2026-08-11 11:05:15 UTC",
+  "as_of_utc": "2026-08-11T11:21:06+00:00",
+  "as_of_local": "2026-08-11 11:21:06 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -1385,12 +1385,6 @@
       "market_cap": 15473120429.77295,
       "headlines": [
         {
-          "title": "Babcock Q2 Earnings Call Highlights",
-          "url": "https://finance.yahoo.com/energy/articles/babcock-q2-earnings-call-highlights-030354428.html",
-          "publisher": "MarketBeat",
-          "published": "2026-08-11T03:03:54Z"
-        },
-        {
           "title": "BWXT (BWXT) Q2 2026 Earnings Call Transcript",
           "url": "https://finance.yahoo.com/markets/stocks/articles/bwxt-bwxt-q2-2026-earnings-013116444.html",
           "publisher": "Motley Fool",
@@ -1401,6 +1395,12 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/advance-auto-parts-vs-bwx-211201318.html",
           "publisher": "Motley Fool",
           "published": "2026-08-07T21:12:01Z"
+        },
+        {
+          "title": "This Congresswoman Keeps Buying AI and Nuclear Stocks. Hedge Funds Are Split",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/congresswoman-keeps-buying-ai-nuclear-141952283.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-08-07T14:19:52Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 83.45,
-      "change_pct": 1.61
+      "price": 81.88,
+      "change_pct": -0.3
     },
     {
       "label": "Brent",
-      "price": 88.89,
-      "change_pct": 1.33
+      "price": 87.15,
+      "change_pct": -0.65
     },
     {
       "label": "NatGas",
-      "price": 2.76,
-      "change_pct": -1.4
+      "price": 2.75,
+      "change_pct": -1.5
     }
   ]
 }
