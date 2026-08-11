@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-08-11T10:30:58+00:00",
-  "as_of_local": "2026-08-11 10:30:58 UTC",
+  "as_of_utc": "2026-08-11T11:05:15+00:00",
+  "as_of_local": "2026-08-11 11:05:15 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -178,7 +178,7 @@
       "price": 444.96,
       "previous_close": 448.68,
       "change_pct": -0.83,
-      "market_cap": 172822460681.15234,
+      "market_cap": 172777964682.00684,
       "headlines": [
         {
           "title": "AI Needs More Than GPUs. These 3 Stocks Are Building Everything Around Them",
@@ -425,6 +425,34 @@
       ]
     },
     {
+      "symbol": "MPC",
+      "name": "Marathon Petroleum",
+      "price": 320.32,
+      "previous_close": 298.2,
+      "change_pct": 7.42,
+      "market_cap": 93513145061.40778,
+      "headlines": [
+        {
+          "title": "XOM Charges A Premium Its Peers Do Not",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/xom-charges-premium-peers-not-014109242.html",
+          "publisher": "Trefis",
+          "published": "2026-08-11T01:41:09Z"
+        },
+        {
+          "title": "3 Reasons Growth Investors Will Love Marathon Petroleum (MPC)",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-growth-investors-love-164502293.html",
+          "publisher": "Zacks",
+          "published": "2026-08-10T16:45:02Z"
+        },
+        {
+          "title": "Marathon Petroleum Q2 Earnings Beat on Strong Refining Margins",
+          "url": "https://finance.yahoo.com/energy/articles/marathon-petroleum-q2-earnings-beat-142400351.html",
+          "publisher": "Zacks",
+          "published": "2026-08-10T14:24:00Z"
+        }
+      ]
+    },
+    {
       "symbol": "VLO",
       "name": "Valero Energy",
       "price": 314.95,
@@ -449,34 +477,6 @@
           "url": "https://finance.yahoo.com/energy/articles/mtdr-q2-earnings-beat-estimates-144100521.html",
           "publisher": "Zacks",
           "published": "2026-08-10T14:41:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "MPC",
-      "name": "Marathon Petroleum",
-      "price": 320.32,
-      "previous_close": 298.2,
-      "change_pct": 7.42,
-      "market_cap": 89953790140.982,
-      "headlines": [
-        {
-          "title": "XOM Charges A Premium Its Peers Do Not",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/xom-charges-premium-peers-not-014109242.html",
-          "publisher": "Trefis",
-          "published": "2026-08-11T01:41:09Z"
-        },
-        {
-          "title": "3 Reasons Growth Investors Will Love Marathon Petroleum (MPC)",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-growth-investors-love-164502293.html",
-          "publisher": "Zacks",
-          "published": "2026-08-10T16:45:02Z"
-        },
-        {
-          "title": "Marathon Petroleum Q2 Earnings Beat on Strong Refining Margins",
-          "url": "https://finance.yahoo.com/energy/articles/marathon-petroleum-q2-earnings-beat-142400351.html",
-          "publisher": "Zacks",
-          "published": "2026-08-10T14:24:00Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 84.13,
-      "change_pct": 2.44
+      "price": 83.45,
+      "change_pct": 1.61
     },
     {
       "label": "Brent",
-      "price": 89.69,
-      "change_pct": 2.25
+      "price": 88.89,
+      "change_pct": 1.33
     },
     {
       "label": "NatGas",
       "price": 2.76,
-      "change_pct": -1.22
+      "change_pct": -1.4
     }
   ]
 }
