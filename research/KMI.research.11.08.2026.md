@@ -1,11 +1,11 @@
 # KMI Research Report
-**Kinder Morgan, Inc.** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**Kinder Morgan** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `KMI.research.11.08.2026`
 
 | Field | Value |
 |---|---|
 | Current price | $31.48 (2026-08-11, ~15-min delayed) |
-| Market cap | $70.04B |
+| Market cap | $70.10B |
 | Sector / Industry | Energy / Oil & Gas Midstream |
 | Main theme | Oil & Gas Midstream — see catalysts below |
 | Current stance | Moderate technical momentum, strong fundamentals, value: fair-to-demanding, risk: moderate. |
@@ -112,7 +112,7 @@ Kinder Morgan, Inc. operates as an energy infrastructure company primarily in No
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $31.48 | EV/Sales | 5.76 |
-| Market cap | $70.04B | EV/EBITDA | 13.55 |
+| Market cap | $70.10B | EV/EBITDA | 13.55 |
 | Beta | 0.55 | Gross margin | 49.41% |
 | RSI(14) | 48.0 | Operating margin | 30.06% |
 | ATR(14) | 0.67 | Profit margin | 19.30% |

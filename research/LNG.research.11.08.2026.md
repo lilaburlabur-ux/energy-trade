@@ -1,5 +1,5 @@
 # LNG Research Report
-**Cheniere Energy, Inc.** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**Cheniere Energy** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `LNG.research.11.08.2026`
 
 | Field | Value |

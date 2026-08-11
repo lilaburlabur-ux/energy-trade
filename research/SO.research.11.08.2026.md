@@ -1,5 +1,5 @@
 # SO Research Report
-**The Southern Company** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**Southern Company** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `SO.research.11.08.2026`
 
 | Field | Value |

@@ -39,7 +39,7 @@ Oklo Inc. develops fission power plants to provide energy at scale to customers 
 | NuScale Power Is Still Down 32% This Year. What Will It Take to Get SMR Stock Back to $15? | 24/7 Wall St. | 2026-08-11 |
 | Cause for Concern or Routine Move? Oklo CEO Jacob DeWitte Sells 120,000 Shares for $4.9 Million | Motley Fool | 2026-08-11 |
 | Oklo Stock Sank Another 26% in July. Is It a Buy? | Motley Fool | 2026-08-11 |
-| Oklo vs AST SpaceMobile: Two Pre-Revenue Moonshots Powering the AI-and-Space Trade | 24/7 Wall St. | 2026-08-11 |
+| Why Oklo's First-Ever Revenue Is Not Enough to Stop OKLO Stock's Decline | Barchart | 2026-08-11 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

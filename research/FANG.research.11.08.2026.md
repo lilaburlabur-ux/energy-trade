@@ -5,7 +5,7 @@ Signed file: `FANG.research.11.08.2026`
 | Field | Value |
 |---|---|
 | Current price | $201.71 (2026-08-11, ~15-min delayed) |
-| Market cap | $56.74B |
+| Market cap | $56.48B |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
@@ -112,7 +112,7 @@ Diamondback Energy, Inc., an independent oil and natural gas company, acquires, 
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $201.71 | EV/Sales | 4.55 |
-| Market cap | $56.74B | EV/EBITDA | 6.28 |
+| Market cap | $56.48B | EV/EBITDA | 6.28 |
 | Beta | 0.42 | Gross margin | 72.35% |
 | RSI(14) | 57.2 | Operating margin | 48.47% |
 | ATR(14) | 6.72 | Profit margin | 9.03% |

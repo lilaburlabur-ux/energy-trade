@@ -1,11 +1,11 @@
 # ETN Research Report
-**Eaton Corporation plc** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**Eaton** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `ETN.research.11.08.2026`
 
 | Field | Value |
 |---|---|
 | Current price | $459.29 (2026-08-11, ~15-min delayed) |
-| Market cap | $178.34B |
+| Market cap | $178.39B |
 | Sector / Industry | Industrials / Specialty Industrial Machinery |
 | Main theme | Specialty Industrial Machinery — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: fair-to-demanding, risk: elevated. |
@@ -113,7 +113,7 @@ Eaton Corporation plc operates as a power management company in the United State
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $459.29 | EV/Sales | 6.44 |
-| Market cap | $178.34B | EV/EBITDA | 29.15 |
+| Market cap | $178.39B | EV/EBITDA | 29.15 |
 | Beta | 1.18 | Gross margin | 36.02% |
 | RSI(14) | 65.3 | Operating margin | 16.56% |
 | ATR(14) | 17.87 | Profit margin | 12.75% |

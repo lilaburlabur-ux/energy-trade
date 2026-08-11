@@ -1,5 +1,5 @@
 # NRG Research Report
-**NRG Energy, Inc.** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**NRG Energy** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `NRG.research.11.08.2026`
 
 | Field | Value |

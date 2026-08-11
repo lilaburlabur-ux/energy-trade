@@ -1,5 +1,5 @@
 # CCJ Research Report
-**Cameco Corporation** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**Cameco** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `CCJ.research.11.08.2026`
 
 | Field | Value |
@@ -69,7 +69,7 @@ Cameco Corporation provides uranium for the generation of electricity in the Ame
 | Profitability | Gross 35.11%, operating 9.11%, net 10.21% | ROA 2.98%, ROE 5.11% |
 | Balance sheet | Cash $1.11B, debt $1.22B | Current ratio 3.06, debt/equity 17.13 |
 | Valuation | P/E 170.22, forward P/E 52.28, P/S 12.38, P/B 8.41 | EV/Sales 12.23, EV/EBITDA 53.22 |
-| Growth expectations | Earnings growth -92.10%, EPS q/q -92.10% | Analyst mean target $129.73 (11 analysts) |
+| Growth expectations | Earnings growth -92.10%, EPS q/q -92.10% | Analyst mean target $129.72 (11 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |

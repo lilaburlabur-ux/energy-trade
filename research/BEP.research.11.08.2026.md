@@ -1,11 +1,11 @@
 # BEP Research Report
-**Brookfield Renewable Partners L.P.** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**Brookfield Renewable** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `BEP.research.11.08.2026`
 
 | Field | Value |
 |---|---|
 | Current price | $34.23 (2026-08-11, ~15-min delayed) |
-| Market cap | $16.69B |
+| Market cap | $16.65B |
 | Sector / Industry | Utilities / Utilities - Renewable |
 | Main theme | Utilities - Renewable — see catalysts below |
 | Current stance | Moderate technical momentum, weak fundamentals, value: reasonable, risk: elevated. |
@@ -113,7 +113,7 @@ Brookfield Renewable Partners L.P. owns a portfolio of renewable power generatin
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $34.23 | EV/Sales | 13.21 |
-| Market cap | $16.69B | EV/EBITDA | 27.99 |
+| Market cap | $16.65B | EV/EBITDA | 27.99 |
 | Beta | 0.99 | Gross margin | 51.39% |
 | RSI(14) | 58.7 | Operating margin | 17.08% |
 | ATR(14) | 1.11 | Profit margin | -1.26% |

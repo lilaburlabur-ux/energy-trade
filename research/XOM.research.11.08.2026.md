@@ -1,5 +1,5 @@
 # XOM Research Report
-**ExxonMobil Holdings Corporation** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**ExxonMobil** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `XOM.research.11.08.2026`
 
 | Field | Value |

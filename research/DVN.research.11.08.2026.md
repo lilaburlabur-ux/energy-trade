@@ -1,5 +1,5 @@
 # DVN Research Report
-**Devon Energy Corporation** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**Devon Energy** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `DVN.research.11.08.2026`
 
 | Field | Value |
@@ -18,7 +18,7 @@ Signed file: `DVN.research.11.08.2026`
 | Technical momentum | Moderate | 1Y +39.96%; price +8.45% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -12.19% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 17.46%, revenue growth 64.20%. |
-| Value attractiveness | Reasonable | Forward P/E 8.30, EV/Sales 3.24. |
+| Value attractiveness | Reasonable | Forward P/E 8.28, EV/Sales 3.24. |
 | Risk level | Elevated | Beta 0.42, ATR 3.0% of price, short float 2.86%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated.
@@ -68,7 +68,7 @@ Devon Energy Corporation, an independent energy company, engages in the explorat
 | Revenue (ttm) | $18.78B | Revenue growth 64.20% y/y |
 | Profitability | Gross 50.35%, operating 41.08%, net 17.46% | ROA 5.91%, ROE 11.52% |
 | Balance sheet | Cash $950.00M, debt $11.89B | Current ratio 0.72, debt/equity 28.49 |
-| Valuation | P/E 9.87, forward P/E 8.30, P/S 2.66, P/B 1.25 | EV/Sales 3.24, EV/EBITDA 6.82 |
+| Valuation | P/E 9.87, forward P/E 8.28, P/S 2.66, P/B 1.25 | EV/Sales 3.24, EV/EBITDA 6.82 |
 | Growth expectations | Earnings growth 44.00%, EPS q/q 112.60% | Analyst mean target $59.69 (26 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -121,7 +121,7 @@ Devon Energy Corporation, an independent energy company, engages in the explorat
 | 52W high | $51.70 | Revenue growth y/y | 64.20% |
 | 52W low | $31.15 | Inst. ownership | 67.12% |
 | P/E (ttm) | 9.87 | Insider ownership | 0.69% |
-| Forward P/E | 8.30 | Short float | 2.86% |
+| Forward P/E | 8.28 | Short float | 2.86% |
 | PEG (trailing) | 2.92 | Avg volume | 13,253,782 |
 | P/S | 2.66 | Employees | 2,200 |
 | P/B | 1.25 | Analyst rec (1=buy..5=sell) | 1.3 |

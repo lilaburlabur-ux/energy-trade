@@ -36,10 +36,10 @@ NuScale Power Corporation provides small modular reactor technology solutions. I
 
 | Headline | Source | Date |
 |---|---|---|
+| Why NuScale Power Stock Plunged to a 52-Week Low in July | Motley Fool | 2026-08-11 |
 | NuScale Power Is Still Down 32% This Year. What Will It Take to Get SMR Stock Back to $15? | 24/7 Wall St. | 2026-08-11 |
 | Wall Street Analysts Predict a 56.21% Upside in NuScale Power (SMR): Here's  What You Should Know | Zacks | 2026-08-11 |
 | Why I'm Not Chasing NuScale -- Here's What I'm Buying Instead | Motley Fool | 2026-08-11 |
-| Prediction: This $10 Nuclear Energy Stock Could Be Worth $100 by 2036 | Motley Fool | 2026-08-10 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

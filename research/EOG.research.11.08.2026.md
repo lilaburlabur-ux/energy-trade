@@ -5,7 +5,7 @@ Signed file: `EOG.research.11.08.2026`
 | Field | Value |
 |---|---|
 | Current price | $143.40 (2026-08-11, ~15-min delayed) |
-| Market cap | $76.38B |
+| Market cap | $75.22B |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
 | Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated. |
@@ -112,7 +112,7 @@ EOG Resources, Inc., together with its subsidiaries, explores for, develops, pro
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $143.40 | EV/Sales | 2.92 |
-| Market cap | $76.38B | EV/EBITDA | 5.38 |
+| Market cap | $75.22B | EV/EBITDA | 5.38 |
 | Beta | 0.28 | Gross margin | 62.64% |
 | RSI(14) | 54.8 | Operating margin | 40.72% |
 | ATR(14) | 4.36 | Profit margin | 25.73% |
