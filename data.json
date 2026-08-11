@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-08-11T20:59:47+00:00",
-  "as_of_local": "2026-08-11 20:59:47 UTC",
+  "as_of_utc": "2026-08-11T21:08:04+00:00",
+  "as_of_local": "2026-08-11 21:08:04 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -150,7 +150,7 @@
       "price": 85.74,
       "previous_close": 84.7,
       "change_pct": 1.23,
-      "market_cap": 178851767183.5298,
+      "market_cap": 178819798939.5863,
       "headlines": [
         {
           "title": "3 of the Best Dividend Stocks to Buy for Under $100 Right Now",
@@ -209,12 +209,6 @@
       "market_cap": 153407579130.67706,
       "headlines": [
         {
-          "title": "Stock Market Today: Dow Skids, Oil Pops As Iran Says This On Hormuz; SpaceX Shares Take A Dive (Live Coverage)",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-us-iran-spacex-rocket-lab-rklb/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-08-11T20:32:59Z"
-        },
-        {
           "title": "XOM Charges A Premium Its Peers Do Not",
           "url": "https://finance.yahoo.com/markets/stocks/articles/xom-charges-premium-peers-not-014109242.html",
           "publisher": "Trefis",
@@ -225,6 +219,12 @@
           "url": "https://finance.yahoo.com/energy/articles/chevrons-hess-synergies-extend-growth-165700804.html",
           "publisher": "Zacks",
           "published": "2026-08-10T16:57:00Z"
+        },
+        {
+          "title": "ConocoPhillips CEO Ryan Lance retiring, Andy O'Brien to take over",
+          "url": "https://finance.yahoo.com/energy/articles/conocophillips-ceo-ryan-lance-retiring-131748144.html",
+          "publisher": "Quartz",
+          "published": "2026-08-10T13:17:48Z"
         }
       ]
     },
@@ -237,12 +237,6 @@
       "market_cap": 111151772757.11395,
       "headlines": [
         {
-          "title": "Stock Market Today: Dow Skids, Oil Pops As Iran Says This On Hormuz; SpaceX Shares Take A Dive (Live Coverage)",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-us-iran-spacex-rocket-lab-rklb/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-08-11T20:32:59Z"
-        },
-        {
           "title": "European Indexes Boosted by Energy Stocks on Higher Oil Price",
           "url": "https://www.wsj.com/finance/stocks/central-processing-units-could-be-new-growth-driver-for-tsmc-7cf7ff95?siteid=yhoof2&yptr=yahoo",
           "publisher": "The Wall Street Journal",
@@ -253,6 +247,12 @@
           "url": "https://finance.yahoo.com/energy/articles/bp-stock-jumps-2-1-194225200.html",
           "publisher": "GuruFocus.com",
           "published": "2026-08-10T19:42:25Z"
+        },
+        {
+          "title": "European Equities Traded in the US as American Depositary Receipts Edge Higher in Monday Trading",
+          "url": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-american-151607348.html",
+          "publisher": "MT Newswires",
+          "published": "2026-08-10T15:16:07Z"
         }
       ]
     },
@@ -598,7 +598,7 @@
       "price": 143.4,
       "previous_close": 142.22,
       "change_pct": 0.83,
-      "market_cap": 75217480636.92798,
+      "market_cap": 76378927951.09344,
       "headlines": [
         {
           "title": "EOG Resources Q2 Earnings Call Highlights",
@@ -850,7 +850,7 @@
       "price": 91.52,
       "previous_close": 90.34,
       "change_pct": 1.31,
-      "market_cap": 57691429807.73089,
+      "market_cap": 57660604500.061554,
       "headlines": [
         {
           "title": "ONEOK (OKE) Q2 2026 Earnings Call Transcript",
@@ -1494,7 +1494,7 @@
       "price": 34.23,
       "previous_close": 32.66,
       "change_pct": 4.81,
-      "market_cap": 10272820820.5998,
+      "market_cap": 10381136143.12128,
       "headlines": [
         {
           "title": "The AI-adjacent portfolio: Six Canadian stocks that could benefit from the AI buildout",
@@ -1634,7 +1634,7 @@
       "price": 11.46,
       "previous_close": 11.38,
       "change_pct": 0.7,
-      "market_cap": 5671237333.237883,
+      "market_cap": 5617930191.880439,
       "headlines": [
         {
           "title": "Insider Sheds Over 55,000 Shares of North American Uranium Stock",
@@ -1662,7 +1662,7 @@
       "price": 42.3,
       "previous_close": 40.92,
       "change_pct": 3.37,
-      "market_cap": 5589718509.5816345,
+      "market_cap": 5575064605.445938,
       "headlines": [
         {
           "title": "Redwire, Enphase, Core & Main, Republic Services, and Owens Corning Stocks Trade Up, What You Need To Know",
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 83.47,
-      "change_pct": 1.63
+      "price": 83.25,
+      "change_pct": 1.36
     },
     {
       "label": "Brent",
-      "price": 89.2,
-      "change_pct": 1.69
+      "price": 88.9,
+      "change_pct": 1.35
     },
     {
       "label": "NatGas",
       "price": 2.75,
-      "change_pct": -1.57
+      "change_pct": -1.68
     }
   ]
 }
