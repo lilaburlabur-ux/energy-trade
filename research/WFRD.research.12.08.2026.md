@@ -1,0 +1,153 @@
+# WFRD Research Report
+**Weatherford International plc** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+Signed file: `WFRD.research.12.08.2026`
+
+| Field | Value |
+|---|---|
+| Current price | $92.70 (2026-08-12, ~15-min delayed) |
+| Market cap | $6.65B |
+| Sector / Industry | Energy / Oil & Gas Equipment & Services |
+| Main theme | Oil & Gas Equipment & Services — see catalysts below |
+| Current stance | High technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
+
+> Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-08-12.
+
+## 1. Executive Summary
+| Area | Score / Read | Reason |
+|---|---|---|
+| Technical momentum | High | 1Y +69.20%; price +3.02% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -16.54% from 52w high; no clean fresh pivot by default. |
+| Fundamental quality | Mixed | Profit margin 7.66%, revenue growth -8.20%. |
+| Value attractiveness | Reasonable | Forward P/E 12.75, EV/Sales 1.53. |
+| Risk level | Elevated | Beta 0.89, ATR 4.0% of price, short float 9.29%. |
+
+**Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
+
+**Key questions before any trade (standard):**
+- Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
+- Where is the actual invalidation level? If that level is too far away, the setup is not clean.
+- Is the move supported by new institutional demand or just retail/short-covering momentum?
+- Can earnings convert fast enough to justify the valuation?
+
+## 2. Company Overview and Recent Catalysts
+Weatherford International plc, an energy services company, provides equipment and services for the drilling, evaluation, completion, production, and intervention of oil, geothermal, and natural gas wells worldwide. The company operates through three segments: Drilling and Evaluation; Well Construction and Completions; and Production and Intervention.
+
+**Recent headlines (potential catalysts):**
+
+| Headline | Source | Date |
+|---|---|---|
+| Weatherford Q2 Earnings Miss Estimates on Middle East Disruptions | Zacks | 2026-07-23 |
+| Weatherford (WFRD) Flags War Related Q2 Pressures While Stressing Operational Stability | Simply Wall St. | 2026-07-23 |
+| Weatherford (WFRD) Stock Looks Fairly Priced Following Mixed Q2 Results | Simply Wall St. | 2026-07-23 |
+| Weatherford International PLC (WFRD) Q2 2026 Earnings Call Highlights: Strong Financial ... | GuruFocus.com | 2026-07-22 |
+
+## 3. Technical Analysis
+| Technical item | Read |
+|---|---|
+| Price vs 52-week range | Close $92.70; 52w high $111.07 (-16.54%); 52w low $53.15 (+74.42%) |
+| Trend | +3.02% vs SMA200, +4.30% vs SMA50, +8.26% vs SMA20 |
+| Momentum | RSI(14) 59.9 (neutral) |
+| Volatility | ATR(14) 3.67 (~4.0% of price); beta 0.89 |
+| Setup perspective | -16.54% from 52w high; no clean fresh pivot by default. |
+
+**Performance snapshot:**
+
+| Window | Return |
+|---|---|
+| Week | +4.0% |
+| Month | +14.7% |
+| Quarter | -9.1% |
+| Half Y | -10.6% |
+| 1Y | +69.2% |
+| YTD | +15.6% |
+
+## 4. Fundamental Analysis
+| Factor | Observation | Implication / extra |
+|---|---|---|
+| Next earnings | 2026-10-20 | Next scheduled report (Yahoo estimate) |
+| Revenue (ttm) | $4.78B | Revenue growth -8.20% y/y |
+| Profitability | Gross 30.51%, operating 10.50%, net 7.66% | ROA 7.90%, ROE 22.79% |
+| Balance sheet | Cash $1.10B, debt $1.62B | Current ratio 2.34, debt/equity 90.67 |
+| Valuation | P/E 18.28, forward P/E 12.75, P/S 1.39, P/B 3.72 | EV/Sales 1.53, EV/EBITDA 7.85 |
+| Growth expectations | Earnings growth -71.00%, EPS q/q -71.30% | Analyst mean target $116.75 (12 analysts) |
+
+## 5. Institutional Investors and Ownership
+| Metric | Value |
+|---|---|
+| Institutional ownership | 106.95% |
+| Insider ownership | 2.15% |
+| Short float | 9.29% |
+| Short ratio (days to cover) | 3.9 |
+
+**Top institutional holders:**
+
+| Holder | Shares | % Out | Reported |
+|---|---|---|---|
+| Blackrock Inc. | 7,923,482 | 11.00% | 2026-06-30 |
+| Vanguard Portfolio Management LLC | 4,003,354 | 5.56% | 2026-03-31 |
+| Price (T.Rowe) Associates Inc | 3,983,656 | 5.53% | 2026-03-31 |
+| FMR, LLC | 3,567,672 | 4.95% | 2026-03-31 |
+| Vanguard Capital Management LLC | 3,226,837 | 4.48% | 2026-03-31 |
+| Sachem Head Capital Management, LP | 2,525,000 | 3.50% | 2026-03-31 |
+| First Trust Advisors LP | 2,487,704 | 3.45% | 2026-06-30 |
+| State Street Corporation | 2,418,376 | 3.36% | 2026-06-30 |
+| Goldman Sachs Group Inc | 2,324,871 | 3.23% | 2026-03-31 |
+| Capital Research Global Investors | 2,261,362 | 3.14% | 2026-03-31 |
+
+## 6. Risk Review and Setup Plan
+- **Volatility risk:** Beta 0.89, ATR 4.0% of price, short float 9.29%. Size positions accordingly.
+- **Short interest risk:** short float 9.29% can fuel squeezes both ways around news.
+- **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
+
+### Setup checklist for your journal
+| Question | Pass condition |
+|---|---|
+| Is there a new base? | Tight sideways action near highs, declining volume, clear resistance. |
+| Is the pivot obvious? | A clean level that multiple traders can see; not a random candle high. |
+| Is risk defined? | Stop based on structure and less than the expected first upside target. |
+| Is volume confirming? | Breakout volume expands; pullback volume dries up. |
+| Is position size small enough? | A normal shakeout should not cause emotional decision-making. |
+
+## 7. Full Data Snapshot
+| Metric | Value | Metric | Value |
+|---|---|---|---|
+| Price | $92.70 | EV/Sales | 1.53 |
+| Market cap | $6.65B | EV/EBITDA | 7.85 |
+| Beta | 0.89 | Gross margin | 30.51% |
+| RSI(14) | 59.9 | Operating margin | 10.50% |
+| ATR(14) | 3.67 | Profit margin | 7.66% |
+| SMA20 dist | +8.26% | ROA | 7.90% |
+| SMA50 dist | +4.30% | ROE | 22.79% |
+| SMA200 dist | +3.02% | Revenue (ttm) | $4.78B |
+| 52W high | $111.07 | Revenue growth y/y | -8.20% |
+| 52W low | $53.15 | Inst. ownership | 106.95% |
+| P/E (ttm) | 18.28 | Insider ownership | 2.15% |
+| Forward P/E | 12.75 | Short float | 9.29% |
+| PEG (trailing) | 1.83 | Avg volume | 1,283,012 |
+| P/S | 1.39 | Employees | 16,700 |
+| P/B | 3.72 | Analyst rec (1=buy..5=sell) | 1.7 |
+
+## 8. Analyst Actions
+| Date | Action | Firm | Rating change |
+|---|---|---|---|
+| 2026-07-29 | up | UBS | Neutral → Buy |
+| 2026-07-24 | main | Barclays | Overweight → Overweight |
+| 2026-07-16 | main | Barclays | Overweight → Overweight |
+| 2026-07-10 | main | Raymond James | Outperform → Outperform |
+| 2026-06-26 | main | Citigroup | Buy → Buy |
+| 2026-06-03 | main | Citigroup | Buy → Buy |
+| 2026-05-08 | main | Barclays | Overweight → Overweight |
+| 2026-05-04 | main | Citigroup | Buy → Buy |
+
+## 9. Conclusion
+WFRD: High momentum / mixed fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+
+## Sources
+| Source | URL | Used for |
+|---|---|---|
+| Yahoo Finance quote/profile/statistics for WFRD | https://finance.yahoo.com/quote/WFRD | Snapshot metrics, ownership, analyst data |
+| Yahoo Finance price history (via yfinance) | https://finance.yahoo.com/quote/WFRD/history | SMA/RSI/ATR/performance calculations |
+| Yahoo Finance news feed | https://finance.yahoo.com/quote/WFRD/news | Catalyst headlines |
+| Method template | AEHR.research.31.05.2026.pdf (user's Cowork method) | Report structure, scoring areas, checklist |
+
+_Note: the template's native Finviz/Fintel/ADVFN pages block automated retrieval; equivalent metrics above are computed from Yahoo Finance data instead and labeled accordingly._
