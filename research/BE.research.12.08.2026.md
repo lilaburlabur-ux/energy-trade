@@ -36,10 +36,10 @@ Bloom Energy Corporation designs, manufactures, sells, and installs solid oxide 
 
 | Headline | Source | Date |
 |---|---|---|
+| Dow Jones Futures: Cisco, Coherent Are Earnings Movers Late After Nebius, Lumentum, CoreWeave Lead AI Rally | Investor's Business Daily | 2026-08-12 |
 | Bloom Energy Says It's Now "The Standard for AI Onsite Power." Here's What That Means for the Stock. | Motley Fool | 2026-08-12 |
 | Bloom Energy Skyrockets 143% YTD: Time to Buy the Stock? | Zacks | 2026-08-12 |
 | Bloom Energy Jumps 13% as Nebius Picks Its Fuel Cells for AI Data Center, FuelCell Climbs 11% | 24/7 Wall St. | 2026-08-12 |
-| BE Stock Jumps After NBIS Says Switch To Bloom ‘Significantly Enhanced’ New Jersey AI Data Center Project | Stocktwits | 2026-08-12 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

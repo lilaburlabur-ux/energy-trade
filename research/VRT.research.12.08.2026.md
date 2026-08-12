@@ -36,10 +36,10 @@ Vertiv Holdings Co designs, manufactures, and services critical digital infrastr
 
 | Headline | Source | Date |
 |---|---|---|
+| Dow Jones Futures: Cisco, Coherent Are Earnings Movers Late After Nebius, Lumentum, CoreWeave Lead AI Rally | Investor's Business Daily | 2026-08-12 |
 | Zacks.com featured highlights include Interface, US Foods, Vertiv and Ryman Hospitality Properties | Zacks | 2026-08-12 |
 | Stronger Results, AI Deals, and Buybacks Could Be A Game Changer For Vertiv Holdings Co (VRT) | Simply Wall St. | 2026-08-12 |
 | The Best AI Stocks of 2026 Shouldn’t Be in Your Three-Year Plan: Here’s Why | BeInCrypto | 2026-08-12 |
-| Better AI Infrastructure Stock: Vertiv vs. Eaton | Motley Fool | 2026-08-12 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

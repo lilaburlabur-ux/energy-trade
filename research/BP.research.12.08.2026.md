@@ -36,10 +36,10 @@ BP p.l.c., an integrated energy company, engages in the oil and gas business wor
 
 | Headline | Source | Date |
 |---|---|---|
+| BP (BP) Has A New CEO And A Blunt Diagnosis. Will It Work? | Insider Monkey | 2026-08-12 |
 | BP p.l.c. (BP) vs. Shell plc (SHEL): Two Oil Majors Cash In on the Iran War, But Tell Different Stories | Insider Monkey | 2026-08-12 |
 | TechnipFMC to supply flexible pipes for Azule’s West Hub Tails project | Offshore Technology | 2026-08-12 |
 | BP (BP) Q2 2026 Earnings Call Transcript | Motley Fool | 2026-08-12 |
-| European Indexes Boosted by Energy Stocks on Higher Oil Price | The Wall Street Journal | 2026-08-11 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
