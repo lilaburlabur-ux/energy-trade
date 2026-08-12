@@ -1,10 +1,43 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-12T15:35:52+00:00",
+  "as_of": "2026-08-12T16:33:33+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": []
+ "hot_tickers": [
+  {
+   "rank": 1,
+   "ticker": "VRT",
+   "company": "Vertiv Holdings, LLC",
+   "move_pct": 8.88,
+   "price": 294.1,
+   "volume": 2032295,
+   "volume_vs_avg": "~0.3x",
+   "heat_score": 58,
+   "direction": "up",
+   "why": "Zacks.com featured highlights include Interface, US Foods, Vertiv and Ryman Hospitality Properties",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/zacks-com-featured-highlights-interface-143300991.html",
+   "published": "2026-08-12T14:33:00Z",
+   "sector": "Grid, Storage & Electrification"
+  },
+  {
+   "rank": 2,
+   "ticker": "TLN",
+   "company": "Talen Energy Corporation",
+   "move_pct": 6.03,
+   "price": 363.88,
+   "volume": 306491,
+   "volume_vs_avg": "~0.4x",
+   "heat_score": 38,
+   "direction": "up",
+   "why": "Talen Energy (TLN) Stock May Already Be Priced Rich On Raised 2026 Guidance",
+   "catalyst_type": "earnings",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/talen-energy-tln-stock-may-151209300.html",
+   "published": "2026-08-12T15:12:09Z",
+   "sector": "Power & IPPs"
+  }
+ ]
 }
