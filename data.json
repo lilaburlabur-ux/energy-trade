@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-08-12T04:29:40+00:00",
-  "as_of_local": "2026-08-12 04:29:40 UTC",
+  "as_of_utc": "2026-08-12T06:01:14+00:00",
+  "as_of_local": "2026-08-12 06:01:14 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -125,6 +125,12 @@
       "market_cap": 194999780224.54504,
       "headlines": [
         {
+          "title": "Trump administration to pay \u20ac1.06 billion to cancel RWE offshore wind leases",
+          "url": "https://finance.yahoo.com/energy/articles/trump-administration-pay-1-06-052250210.html",
+          "publisher": "Euronews",
+          "published": "2026-08-12T05:22:50Z"
+        },
+        {
           "title": "America's $4 Billion Wind Retreat Is a Bet on Permanently Cheap Gas",
           "url": "https://finance.yahoo.com/energy/articles/americas-4-billion-wind-retreat-190000701.html",
           "publisher": "Oilprice.com",
@@ -135,12 +141,6 @@
           "url": "https://finance.yahoo.com/energy/articles/energy-sector-rotation-falling-oil-161152521.html",
           "publisher": "Insider Monkey",
           "published": "2026-08-10T16:11:52Z"
-        },
-        {
-          "title": "What Is TotalEnergies (ENXTPA:TTE) Signaling With Its Cyprus LNG Commitment?",
-          "url": "https://finance.yahoo.com/energy/articles/totalenergies-enxtpa-tte-signaling-cyprus-042939019.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-08-10T04:29:39Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 84.09,
-      "change_pct": 1.07
+      "price": 83.82,
+      "change_pct": 0.75
     },
     {
       "label": "Brent",
-      "price": 89.8,
-      "change_pct": 1.0
+      "price": 89.51,
+      "change_pct": 0.67
     },
     {
       "label": "NatGas",
-      "price": 2.77,
-      "change_pct": 0.18
+      "price": 2.78,
+      "change_pct": 0.36
     }
   ]
 }
