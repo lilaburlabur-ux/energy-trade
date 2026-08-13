@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-08-13T23:40:06+00:00",
-  "as_of_local": "2026-08-13 23:40:06 UTC",
+  "as_of_utc": "2026-08-13T23:59:34+00:00",
+  "as_of_local": "2026-08-13 23:59:34 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -69,6 +69,12 @@
       "market_cap": 279495798277.13245,
       "headlines": [
         {
+          "title": "AI Data Centers Are Running Out of Water. This $6 Stock Has a Fix",
+          "url": "https://finance.yahoo.com/technology/ai/articles/ai-data-centers-running-water-233940990.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-08-13T23:39:40Z"
+        },
+        {
           "title": "GE Vernova (GEV) After Strong Q2 Results And Raised Guidance Looks Fully Valued",
           "url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-gev-strong-q2-181540515.html",
           "publisher": "Simply Wall St.",
@@ -79,12 +85,6 @@
           "url": "https://finance.yahoo.com/energy/articles/terrestrial-energy-lifetime-revenue-29-171715432.html",
           "publisher": "Exec Edge",
           "published": "2026-08-13T17:17:15Z"
-        },
-        {
-          "title": "GE Vernova (GEV) Stock Could Be 14% Overvalued As Backlog Hits Record High",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-gev-stock-could-171228105.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-08-13T17:12:28Z"
         }
       ]
     },
@@ -1301,6 +1301,12 @@
       "market_cap": 17234946379.852295,
       "headlines": [
         {
+          "title": "Married Puts: The FOMO-Proof Way to Play OVV, ONON, and FCX\u2019s Unusually Active Options",
+          "url": "https://finance.yahoo.com/markets/options/articles/married-puts-fomo-proof-way-174303755.html",
+          "publisher": "Barchart",
+          "published": "2026-08-13T17:43:03Z"
+        },
+        {
           "title": "Ovintiv (OVV) Earnings And 2026 Guidance Put Its Valuation Back In Focus",
           "url": "https://finance.yahoo.com/markets/stocks/articles/ovintiv-ovv-earnings-2026-guidance-050750504.html",
           "publisher": "Simply Wall St.",
@@ -1311,12 +1317,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/investors-may-respond-ovintiv-ovv-231544853.html",
           "publisher": "Simply Wall St.",
           "published": "2026-08-03T23:15:44Z"
-        },
-        {
-          "title": "Oil Companies Have Raked in Massive Profits During the Iran War but Their Future Will Be Expensive",
-          "url": "https://www.barrons.com/articles/oil-companies-expensive-future-struggle-energy-market-share-90090535?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-08-03T09:55:00Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 81.23,
-      "change_pct": -2.45
+      "price": 81.31,
+      "change_pct": -2.35
     },
     {
       "label": "Brent",
-      "price": 86.98,
-      "change_pct": -2.25
+      "price": 87.11,
+      "change_pct": -2.1
     },
     {
       "label": "NatGas",
       "price": 2.73,
-      "change_pct": -2.53
+      "change_pct": -2.5
     }
   ]
 }
