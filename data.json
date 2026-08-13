@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-08-13T04:28:08+00:00",
-  "as_of_local": "2026-08-13 04:28:08 UTC",
+  "as_of_utc": "2026-08-13T06:00:12+00:00",
+  "as_of_local": "2026-08-13 06:00:12 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -97,6 +97,12 @@
       "market_cap": 248775239544.02805,
       "headlines": [
         {
+          "title": "C3.ai vs. CrowdStrike: Which Tech Stock Is a Better Buy in 2026?",
+          "url": "https://finance.yahoo.com/technology/ai/articles/c3-ai-vs-crowdstrike-tech-041601028.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-13T04:16:01Z"
+        },
+        {
           "title": "5 LNG Megaprojects Poised to Power the Next Gas Boom",
           "url": "https://finance.yahoo.com/energy/articles/5-lng-megaprojects-poised-power-190000387.html",
           "publisher": "Oilprice.com",
@@ -107,12 +113,6 @@
           "url": "https://finance.yahoo.com/energy/articles/bp-p-l-c-bp-151547864.html",
           "publisher": "Insider Monkey",
           "published": "2026-08-12T15:15:47Z"
-        },
-        {
-          "title": "Shell (LSE:SHEL) Cuts Ormen Lange Output 40% After Failure Extends Outage To 2027",
-          "url": "https://finance.yahoo.com/energy/articles/shell-lse-shel-cuts-ormen-001614842.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-08-12T00:16:14Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 82.94,
-      "change_pct": -0.4
+      "price": 83.01,
+      "change_pct": -0.31
     },
     {
       "label": "Brent",
-      "price": 88.72,
-      "change_pct": -0.29
+      "price": 88.87,
+      "change_pct": -0.12
     },
     {
       "label": "NatGas",
       "price": 2.79,
-      "change_pct": -0.39
+      "change_pct": -0.64
     }
   ]
 }
