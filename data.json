@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-08-13T06:00:12+00:00",
-  "as_of_local": "2026-08-13 06:00:12 UTC",
+  "as_of_utc": "2026-08-13T07:47:11+00:00",
+  "as_of_local": "2026-08-13 07:47:11 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -265,6 +265,12 @@
       "market_cap": 110559445209.7721,
       "headlines": [
         {
+          "title": "Britain facing \u00a354bn bill for North Sea shutdown",
+          "url": "https://finance.yahoo.com/energy/articles/britain-facing-54bn-bill-north-052000475.html",
+          "publisher": "The Telegraph",
+          "published": "2026-08-13T05:20:00Z"
+        },
+        {
           "title": "BP (BP) Has A New CEO And A Blunt Diagnosis. Will It Work?",
           "url": "https://finance.yahoo.com/energy/articles/bp-bp-ceo-blunt-diagnosis-212838607.html",
           "publisher": "Insider Monkey",
@@ -275,12 +281,6 @@
           "url": "https://finance.yahoo.com/energy/articles/bp-p-l-c-bp-151547864.html",
           "publisher": "Insider Monkey",
           "published": "2026-08-12T15:15:47Z"
-        },
-        {
-          "title": "TechnipFMC to supply flexible pipes for Azule\u2019s West Hub Tails project",
-          "url": "https://finance.yahoo.com/energy/articles/technipfmc-supply-flexible-pipes-azule-124113654.html",
-          "publisher": "Offshore Technology",
-          "published": "2026-08-12T12:41:13Z"
         }
       ]
     },
@@ -321,6 +321,12 @@
       "market_cap": 101935830258.2544,
       "headlines": [
         {
+          "title": "Revisiting Former Stock Picks Medtronic, Quantas Services, Lennar",
+          "url": "https://www.barrons.com/articles/revisiting-former-stock-picks-medtronic-quantas-services-lennar-54ec22e9?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-08-13T04:43:00Z"
+        },
+        {
           "title": "Buy 2 AI-Led Engineering R&D Services Stocks to Tap Solid Price Upside",
           "url": "https://finance.yahoo.com/technology/ai/articles/buy-2-ai-led-engineering-123000993.html",
           "publisher": "Zacks",
@@ -331,12 +337,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/quanta-services-pwr-fairly-valued-191528442.html",
           "publisher": "Simply Wall St.",
           "published": "2026-08-11T19:15:28Z"
-        },
-        {
-          "title": "Fluor's Profit Jump Was Borrowed From Its Own Second Half",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/fluors-profit-jump-borrowed-own-173446421.html",
-          "publisher": "Trefis",
-          "published": "2026-08-11T17:34:46Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 83.01,
-      "change_pct": -0.31
+      "price": 82.2,
+      "change_pct": -1.28
     },
     {
       "label": "Brent",
-      "price": 88.87,
-      "change_pct": -0.12
+      "price": 88.08,
+      "change_pct": -1.01
     },
     {
       "label": "NatGas",
-      "price": 2.79,
-      "change_pct": -0.64
+      "price": 2.8,
+      "change_pct": -0.32
     }
   ]
 }
