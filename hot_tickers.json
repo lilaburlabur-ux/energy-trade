@@ -1,27 +1,10 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-13T00:43:02+00:00",
+  "as_of": "2026-08-13T02:18:46+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": [
-  {
-   "rank": 1,
-   "ticker": "BE",
-   "company": "Bloom Energy Corporation",
-   "move_pct": 12.29,
-   "price": 237.16,
-   "volume": 14371370,
-   "volume_vs_avg": "~0.9x",
-   "heat_score": 72,
-   "direction": "up",
-   "why": "Nebius, CoreWeave, and Bloom Energy Lead AI Stock Gainers on Wednesday",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/nebius-coreweave-bloom-energy-lead-221531266.html",
-   "published": "2026-08-12T22:15:31Z",
-   "sector": "Grid, Storage & Electrification"
-  }
- ]
+ "hot_tickers": []
 }
