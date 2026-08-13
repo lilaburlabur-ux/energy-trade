@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-08-13T09:11:57+00:00",
-  "as_of_local": "2026-08-13 09:11:57 UTC",
+  "as_of_utc": "2026-08-13T10:10:35+00:00",
+  "as_of_local": "2026-08-13 10:10:35 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -293,6 +293,12 @@
       "market_cap": 106431577752.62791,
       "headlines": [
         {
+          "title": "Millions under hosepipe bans to be hit with higher water bills",
+          "url": "https://finance.yahoo.com/news/water-bills-increase-millions-watchdog-074742699.html",
+          "publisher": "The Telegraph",
+          "published": "2026-08-13T07:47:42Z"
+        },
+        {
           "title": "Southern (SO) Stock Stays Cheap On Earnings While Broader Checks Look Expensive",
           "url": "https://finance.yahoo.com/markets/stocks/articles/southern-stock-stays-cheap-earnings-101004538.html",
           "publisher": "Simply Wall St.",
@@ -303,12 +309,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/southern-completes-multiple-large-convertible-191019211.html",
           "publisher": "Simply Wall St.",
           "published": "2026-08-08T19:10:19Z"
-        },
-        {
-          "title": "Train operators to crack down on \u2018donutters\u2019 and other digital ticket cheats",
-          "url": "https://finance.yahoo.com/news/train-operators-crack-down-donutters-100042117.html",
-          "publisher": "The Guardian",
-          "published": "2026-08-08T10:00:42Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 81.69,
-      "change_pct": -1.9
-    },
-    {
-      "label": "Brent",
-      "price": 87.38,
+      "price": 81.77,
       "change_pct": -1.8
     },
     {
+      "label": "Brent",
+      "price": 87.41,
+      "change_pct": -1.76
+    },
+    {
       "label": "NatGas",
-      "price": 2.79,
-      "change_pct": -0.64
+      "price": 2.78,
+      "change_pct": -0.82
     }
   ]
 }
