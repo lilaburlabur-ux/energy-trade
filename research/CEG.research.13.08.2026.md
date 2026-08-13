@@ -74,7 +74,7 @@ Constellation Energy Corporation produces and sells energy products and services
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 86.23% |
+| Institutional ownership | 85.53% |
 | Insider ownership | 0.33% |
 | Short float | 3.29% |
 | Short ratio (days to cover) | 3.3 |
@@ -121,7 +121,7 @@ Constellation Energy Corporation produces and sells energy products and services
 | SMA50 dist | +6.84% | ROE | 15.06% |
 | SMA200 dist | -7.92% | Revenue (ttm) | $31.27B |
 | 52W high | $402.32 | Revenue growth y/y | 23.00% |
-| 52W low | $236.50 | Inst. ownership | 86.23% |
+| 52W low | $236.50 | Inst. ownership | 85.53% |
 | P/E (ttm) | 27.24 | Insider ownership | 0.33% |
 | Forward P/E | 20.92 | Short float | 3.29% |
 | PEG (trailing) | — | Avg volume | 3,577,541 |

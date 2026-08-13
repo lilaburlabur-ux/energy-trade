@@ -1,11 +1,11 @@
 # SU Research Report
-**Suncor Energy Inc.** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**Suncor Energy** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `SU.research.13.08.2026`
 
 | Field | Value |
 |---|---|
 | Current price | $65.43 (2026-08-13, ~15-min delayed) |
-| Market cap | $76.53B |
+| Market cap | $77.26B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
 | Current stance | High technical momentum, strong fundamentals, value: reasonable, risk: moderate. |
@@ -68,8 +68,8 @@ Suncor Energy Inc. operates as an integrated energy company in Canada, the Unite
 | Revenue (ttm) | $56.57B | Revenue growth 45.90% y/y |
 | Profitability | Gross 60.40%, operating 29.94%, net 15.78% | ROA 8.58%, ROE 19.25% |
 | Balance sheet | Cash $5.37B, debt $14.68B | Current ratio 1.65, debt/equity 30.48 |
-| Valuation | P/E 12.18, forward P/E 11.63, P/S 1.35, P/B 2.22 | EV/Sales 1.49, EV/EBITDA 4.31 |
-| Growth expectations | Earnings growth 241.90%, EPS q/q 229.10% | Analyst mean target $70.59 (3 analysts) |
+| Valuation | P/E 12.18, forward P/E 11.63, P/S 1.37, P/B 2.22 | EV/Sales 1.49, EV/EBITDA 4.31 |
+| Growth expectations | Earnings growth 241.90%, EPS q/q 229.10% | Analyst mean target $70.58 (3 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
@@ -111,7 +111,7 @@ Suncor Energy Inc. operates as an integrated energy company in Canada, the Unite
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $65.43 | EV/Sales | 1.49 |
-| Market cap | $76.53B | EV/EBITDA | 4.31 |
+| Market cap | $77.26B | EV/EBITDA | 4.31 |
 | Beta | 0.57 | Gross margin | 60.40% |
 | RSI(14) | 58.5 | Operating margin | 29.94% |
 | ATR(14) | 1.87 | Profit margin | 15.78% |
@@ -123,7 +123,7 @@ Suncor Energy Inc. operates as an integrated energy company in Canada, the Unite
 | P/E (ttm) | 12.18 | Insider ownership | 0.01% |
 | Forward P/E | 11.63 | Short float | — |
 | PEG (trailing) | — | Avg volume | 4,579,703 |
-| P/S | 1.35 | Employees | 15,424 |
+| P/S | 1.37 | Employees | 15,424 |
 | P/B | 2.22 | Analyst rec (1=buy..5=sell) | 1.9 |
 
 ## 8. Analyst Actions

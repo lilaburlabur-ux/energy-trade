@@ -1,5 +1,5 @@
 # APA Research Report
-**APA Corporation** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**APA Corp** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `APA.research.13.08.2026`
 
 | Field | Value |
@@ -69,12 +69,12 @@ APA Corporation, an independent energy company, explores for, develops, and prod
 | Profitability | Gross 78.25%, operating 56.33%, net 19.56% | ROA 11.60%, ROE 26.66% |
 | Balance sheet | Cash $444.00M, debt $3.88B | Current ratio 0.95, debt/equity 48.85 |
 | Valuation | P/E 8.44, forward P/E 9.50, P/S 1.63, P/B 2.00 | EV/Sales 2.14, EV/EBITDA 3.21 |
-| Growth expectations | Earnings growth 26.30%, EPS q/q 23.90% | Analyst mean target $43.58 (24 analysts) |
+| Growth expectations | Earnings growth 26.30%, EPS q/q 23.90% | Analyst mean target $42.04 (23 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 108.66% |
+| Institutional ownership | 107.56% |
 | Insider ownership | 0.44% |
 | Short float | 11.31% |
 | Short ratio (days to cover) | 5.7 |
@@ -120,12 +120,12 @@ APA Corporation, an independent energy company, explores for, develops, and prod
 | SMA50 dist | +13.07% | ROE | 26.66% |
 | SMA200 dist | +26.45% | Revenue (ttm) | $8.57B |
 | 52W high | $43.79 | Revenue growth y/y | 9.20% |
-| 52W low | $19.56 | Inst. ownership | 108.66% |
+| 52W low | $19.56 | Inst. ownership | 107.56% |
 | P/E (ttm) | 8.44 | Insider ownership | 0.44% |
 | Forward P/E | 9.50 | Short float | 11.31% |
 | PEG (trailing) | 0.78 | Avg volume | 5,655,233 |
 | P/S | 1.63 | Employees | 1,791 |
-| P/B | 2.00 | Analyst rec (1=buy..5=sell) | 2.6 |
+| P/B | 2.00 | Analyst rec (1=buy..5=sell) | 2.7 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

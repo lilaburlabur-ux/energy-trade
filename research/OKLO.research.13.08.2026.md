@@ -74,7 +74,7 @@ Oklo Inc. develops fission power plants to provide energy at scale to customers 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 46.55% |
+| Institutional ownership | 46.58% |
 | Insider ownership | 15.42% |
 | Short float | 18.60% |
 | Short ratio (days to cover) | 3.5 |
@@ -121,7 +121,7 @@ Oklo Inc. develops fission power plants to provide energy at scale to customers 
 | SMA50 dist | -6.04% | ROE | -7.70% |
 | SMA200 dist | -34.53% | Revenue (ttm) | $1.21M |
 | 52W high | $174.14 | Revenue growth y/y | — |
-| 52W low | $36.84 | Inst. ownership | 46.55% |
+| 52W low | $36.84 | Inst. ownership | 46.58% |
 | P/E (ttm) | — | Insider ownership | 15.42% |
 | Forward P/E | -46.26 | Short float | 18.60% |
 | PEG (trailing) | — | Avg volume | 11,380,227 |

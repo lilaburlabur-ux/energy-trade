@@ -15,7 +15,7 @@ Signed file: `FSLR.research.13.08.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-4.60%) with negative half-year (-1.78%). |
+| Technical momentum | Low | Below SMA200 (-4.67%) with negative half-year (-1.13%). |
 | Fresh setup quality | Poor / broken | -29.71% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 32.46%, revenue growth -3.70%. |
 | Value attractiveness | Reasonable | Forward P/E 9.62, EV/Sales 4.25. |
@@ -45,9 +45,9 @@ First Solar, Inc., a solar technology company, provides photovoltaic (PV) solar 
 | Technical item | Read |
 |---|---|
 | Price vs 52-week range | Close $223.69; 52w high $318.25 (-29.71%); 52w low $180.05 (+24.24%) |
-| Trend | -4.60% vs SMA200, -5.89% vs SMA50, +1.59% vs SMA20 |
-| Momentum | RSI(14) 47.5 (neutral) |
-| Volatility | ATR(14) 14.09 (~6.3% of price); beta 1.75 |
+| Trend | -4.67% vs SMA200, -6.69% vs SMA50, +1.52% vs SMA20 |
+| Momentum | RSI(14) 47.2 (neutral) |
+| Volatility | ATR(14) 14.19 (~6.3% of price); beta 1.75 |
 | Setup perspective | -29.71% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
@@ -55,10 +55,10 @@ First Solar, Inc., a solar technology company, provides photovoltaic (PV) solar 
 | Window | Return |
 |---|---|
 | Week | -8.4% |
-| Month | -0.1% |
-| Quarter | -4.7% |
-| Half Y | -1.8% |
-| 1Y | +21.1% |
+| Month | +1.4% |
+| Quarter | -1.9% |
+| Half Y | -1.1% |
+| 1Y | +22.8% |
 | YTD | -18.5% |
 
 ## 4. Fundamental Analysis
@@ -115,18 +115,18 @@ First Solar, Inc., a solar technology company, provides photovoltaic (PV) solar 
 | Price | $223.69 | EV/Sales | 4.25 |
 | Market cap | $24.04B | EV/EBITDA | 9.57 |
 | Beta | 1.75 | Gross margin | 44.02% |
-| RSI(14) | 47.5 | Operating margin | 42.64% |
-| ATR(14) | 14.09 | Profit margin | 32.46% |
-| SMA20 dist | +1.59% | ROA | 8.62% |
-| SMA50 dist | -5.89% | ROE | 18.51% |
-| SMA200 dist | -4.60% | Revenue (ttm) | $5.38B |
+| RSI(14) | 47.2 | Operating margin | 42.64% |
+| ATR(14) | 14.19 | Profit margin | 32.46% |
+| SMA20 dist | +1.52% | ROA | 8.62% |
+| SMA50 dist | -6.69% | ROE | 18.51% |
+| SMA200 dist | -4.67% | Revenue (ttm) | $5.38B |
 | 52W high | $318.25 | Revenue growth y/y | -3.70% |
 | 52W low | $180.05 | Inst. ownership | 96.72% |
 | P/E (ttm) | 22.83 | Insider ownership | 5.36% |
 | Forward P/E | 9.62 | Short float | 12.45% |
 | PEG (trailing) | 0.65 | Avg volume | 2,490,620 |
 | P/S | 4.47 | Employees | 7,900 |
-| P/B | 2.33 | Analyst rec (1=buy..5=sell) | 2.0 |
+| P/B | 2.33 | Analyst rec (1=buy..5=sell) | 2.1 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

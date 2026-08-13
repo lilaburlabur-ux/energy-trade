@@ -1,5 +1,5 @@
 # XOM Research Report
-**ExxonMobil Holdings Corporation** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**ExxonMobil** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `XOM.research.13.08.2026`
 
 | Field | Value |
@@ -69,12 +69,12 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 | Profitability | Gross 29.77%, operating 15.86%, net 9.07% | ROA 5.52%, ROE 12.58% |
 | Balance sheet | Cash $10.59B, debt $42.37B | Current ratio 1.14, debt/equity 15.92 |
 | Valuation | P/E 20.44, forward P/E 14.79, P/S 1.81, P/B 2.51 | EV/Sales 1.93, EV/EBITDA 10.24 |
-| Growth expectations | Earnings growth 112.80%, EPS q/q 105.10% | Analyst mean target $168.77 (22 analysts) |
+| Growth expectations | Earnings growth 112.80%, EPS q/q 105.10% | Analyst mean target $168.32 (22 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 67.19% |
+| Institutional ownership | 67.49% |
 | Insider ownership | 0.08% |
 | Short float | 1.15% |
 | Short ratio (days to cover) | 2.8 |
@@ -119,7 +119,7 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 | SMA50 dist | +7.59% | ROE | 12.58% |
 | SMA200 dist | +13.22% | Revenue (ttm) | $361.06B |
 | 52W high | $170.31 | Revenue growth y/y | 44.10% |
-| 52W low | $104.06 | Inst. ownership | 67.19% |
+| 52W low | $104.06 | Inst. ownership | 67.49% |
 | P/E (ttm) | 20.44 | Insider ownership | 0.08% |
 | Forward P/E | 14.79 | Short float | 1.15% |
 | PEG (trailing) | 1.25 | Avg volume | 16,400,095 |

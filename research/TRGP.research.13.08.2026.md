@@ -15,7 +15,7 @@ Signed file: `TRGP.research.13.08.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +62.23%; price +18.25% vs SMA200. |
+| Technical momentum | High | 1Y +65.13%; price +nan% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -6.11% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 13.54%, revenue growth 4.20%. |
 | Value attractiveness | Fair-to-demanding | Forward P/E 22.20, EV/Sales 4.61. |
@@ -45,9 +45,9 @@ Targa Resources Corp., together with its subsidiaries, owns, operates, acquires,
 | Technical item | Read |
 |---|---|
 | Price vs 52-week range | Close $266.88; 52w high $284.25 (-6.11%); 52w low $143.22 (+86.34%) |
-| Trend | +18.25% vs SMA200, -0.57% vs SMA50, -1.09% vs SMA20 |
-| Momentum | RSI(14) 49.0 (neutral) |
-| Volatility | ATR(14) 7.45 (~2.8% of price); beta 0.72 |
+| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
+| Momentum | RSI(14) 50.3 (neutral) |
+| Volatility | ATR(14) 7.44 (~2.8% of price); beta 0.72 |
 | Setup perspective | -6.11% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
@@ -55,10 +55,10 @@ Targa Resources Corp., together with its subsidiaries, owns, operates, acquires,
 | Window | Return |
 |---|---|
 | Week | -0.5% |
-| Month | -3.6% |
-| Quarter | +1.8% |
-| Half Y | +21.4% |
-| 1Y | +62.2% |
+| Month | -4.0% |
+| Quarter | +5.9% |
+| Half Y | +23.8% |
+| 1Y | +65.1% |
 | YTD | +45.0% |
 
 ## 4. Fundamental Analysis
@@ -69,7 +69,7 @@ Targa Resources Corp., together with its subsidiaries, owns, operates, acquires,
 | Profitability | Gross 43.19%, operating 27.80%, net 13.54% | ROA 9.24%, ROE 70.84% |
 | Balance sheet | Cash $132.30M, debt $19.58B | Current ratio 0.77, debt/equity 515.79 |
 | Valuation | P/E 25.54, forward P/E 22.20, P/S 3.42, P/B 18.27 | EV/Sales 4.61, EV/EBITDA 14.04 |
-| Growth expectations | Earnings growth 23.30%, EPS q/q 21.50% | Analyst mean target $300.05 (21 analysts) |
+| Growth expectations | Earnings growth 23.30%, EPS q/q 21.50% | Analyst mean target $299.00 (21 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
@@ -114,11 +114,11 @@ Targa Resources Corp., together with its subsidiaries, owns, operates, acquires,
 | Price | $266.88 | EV/Sales | 4.61 |
 | Market cap | $57.23B | EV/EBITDA | 14.04 |
 | Beta | 0.72 | Gross margin | 43.19% |
-| RSI(14) | 49.0 | Operating margin | 27.80% |
-| ATR(14) | 7.45 | Profit margin | 13.54% |
-| SMA20 dist | -1.09% | ROA | 9.24% |
-| SMA50 dist | -0.57% | ROE | 70.84% |
-| SMA200 dist | +18.25% | Revenue (ttm) | $16.74B |
+| RSI(14) | 50.3 | Operating margin | 27.80% |
+| ATR(14) | 7.44 | Profit margin | 13.54% |
+| SMA20 dist | +nan% | ROA | 9.24% |
+| SMA50 dist | +nan% | ROE | 70.84% |
+| SMA200 dist | +nan% | Revenue (ttm) | $16.74B |
 | 52W high | $284.25 | Revenue growth y/y | 4.20% |
 | 52W low | $143.22 | Inst. ownership | 98.45% |
 | P/E (ttm) | 25.54 | Insider ownership | 1.37% |

@@ -1,5 +1,5 @@
 # FTI Research Report
-**TechnipFMC plc** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**TechnipFMC** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `FTI.research.13.08.2026`
 
 | Field | Value |
@@ -15,11 +15,11 @@ Signed file: `FTI.research.13.08.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +119.20%; price +24.63% vs SMA200. |
+| Technical momentum | High | 1Y +119.20%; price +25.69% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -0.35% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 11.28%, revenue growth 9.00%. |
 | Value attractiveness | Fair-to-demanding | Forward P/E 21.44, EV/Sales 2.86. |
-| Risk level | Elevated | Beta 0.74, ATR 3.3% of price, short float 3.44%. |
+| Risk level | Elevated | Beta 0.74, ATR 3.2% of price, short float 3.44%. |
 
 **Bottom line:** High technical momentum, mixed fundamentals, value: fair-to-demanding, risk: elevated.
 
@@ -45,9 +45,9 @@ TechnipFMC plc engages in the oil and natural gas projects, technologies, system
 | Technical item | Read |
 |---|---|
 | Price vs 52-week range | Close $76.67; 52w high $76.94 (-0.35%); 52w low $34.67 (+121.15%) |
-| Trend | +24.63% vs SMA200, +9.28% vs SMA50, +5.36% vs SMA20 |
-| Momentum | RSI(14) 63.1 (neutral) |
-| Volatility | ATR(14) 2.51 (~3.3% of price); beta 0.74 |
+| Trend | +25.69% vs SMA200, +9.75% vs SMA50, +5.54% vs SMA20 |
+| Momentum | RSI(14) 64.6 (neutral) |
+| Volatility | ATR(14) 2.49 (~3.2% of price); beta 0.74 |
 | Setup perspective | -0.35% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
@@ -55,9 +55,9 @@ TechnipFMC plc engages in the oil and natural gas projects, technologies, system
 | Window | Return |
 |---|---|
 | Week | +10.1% |
-| Month | +6.1% |
-| Quarter | +5.6% |
-| Half Y | +24.2% |
+| Month | +6.7% |
+| Quarter | +9.4% |
+| Half Y | +30.0% |
 | 1Y | +119.2% |
 | YTD | +62.3% |
 
@@ -96,7 +96,7 @@ TechnipFMC plc engages in the oil and natural gas projects, technologies, system
 
 ## 6. Risk Review and Setup Plan
 - **Valuation risk:** Forward P/E 21.44, EV/Sales 2.86. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 0.74, ATR 3.3% of price, short float 3.44%. Size positions accordingly.
+- **Volatility risk:** Beta 0.74, ATR 3.2% of price, short float 3.44%. Size positions accordingly.
 - **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -115,11 +115,11 @@ TechnipFMC plc engages in the oil and natural gas projects, technologies, system
 | Price | $76.67 | EV/Sales | 2.86 |
 | Market cap | $30.07B | EV/EBITDA | 15.01 |
 | Beta | 0.74 | Gross margin | 22.97% |
-| RSI(14) | 63.1 | Operating margin | 17.69% |
-| ATR(14) | 2.51 | Profit margin | 11.28% |
-| SMA20 dist | +5.36% | ROA | 9.53% |
-| SMA50 dist | +9.28% | ROE | 35.81% |
-| SMA200 dist | +24.63% | Revenue (ttm) | $10.42B |
+| RSI(14) | 64.6 | Operating margin | 17.69% |
+| ATR(14) | 2.49 | Profit margin | 11.28% |
+| SMA20 dist | +5.54% | ROA | 9.53% |
+| SMA50 dist | +9.75% | ROE | 35.81% |
+| SMA200 dist | +25.69% | Revenue (ttm) | $10.42B |
 | 52W high | $76.94 | Revenue growth y/y | 9.00% |
 | 52W low | $34.67 | Inst. ownership | 108.15% |
 | P/E (ttm) | 26.81 | Insider ownership | 1.71% |

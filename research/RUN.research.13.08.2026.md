@@ -5,7 +5,7 @@ Signed file: `RUN.research.13.08.2026`
 | Field | Value |
 |---|---|
 | Current price | $9.86 (2026-08-13, ~15-min delayed) |
-| Market cap | $2.37B |
+| Market cap | $2.35B |
 | Sector / Industry | Technology / Solar |
 | Main theme | Solar — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: high. |
@@ -69,12 +69,12 @@ Sunrun Inc. designs, develops, installs, sells, owns, and maintains residential 
 | Profitability | Gross 35.29%, operating 4.00%, net 11.59% | ROA 0.26%, ROE -19.86% |
 | Balance sheet | Cash $726.43M, debt $15.23B | Current ratio 1.42, debt/equity 292.51 |
 | Valuation | P/E 6.71, forward P/E 10.00, P/S 0.68, P/B 0.70 | EV/Sales 5.35, EV/EBITDA 22.12 |
-| Growth expectations | Earnings growth -60.70%, EPS q/q -58.80% | Analyst mean target $16.39 (19 analysts) |
+| Growth expectations | Earnings growth -60.70%, EPS q/q -58.80% | Analyst mean target $16.71 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 108.72% |
+| Institutional ownership | 111.07% |
 | Insider ownership | 2.82% |
 | Short float | 32.19% |
 | Short ratio (days to cover) | 6.5 |
@@ -113,7 +113,7 @@ Sunrun Inc. designs, develops, installs, sells, owns, and maintains residential 
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $9.86 | EV/Sales | 5.35 |
-| Market cap | $2.37B | EV/EBITDA | 22.12 |
+| Market cap | $2.35B | EV/EBITDA | 22.12 |
 | Beta | 2.39 | Gross margin | 35.29% |
 | RSI(14) | 40.7 | Operating margin | 4.00% |
 | ATR(14) | 0.74 | Profit margin | 11.59% |
@@ -121,7 +121,7 @@ Sunrun Inc. designs, develops, installs, sells, owns, and maintains residential 
 | SMA50 dist | -17.27% | ROE | -19.86% |
 | SMA200 dist | -35.65% | Revenue (ttm) | $3.48B |
 | 52W high | $21.41 | Revenue growth y/y | 52.80% |
-| 52W low | $9.38 | Inst. ownership | 108.72% |
+| 52W low | $9.38 | Inst. ownership | 111.07% |
 | P/E (ttm) | 6.71 | Insider ownership | 2.82% |
 | Forward P/E | 10.00 | Short float | 32.19% |
 | PEG (trailing) | 3.07 | Avg volume | 10,191,441 |

@@ -15,7 +15,7 @@ Signed file: `TLN.research.13.08.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y -3.12%; price -1.58% vs SMA200. |
+| Technical momentum | Moderate | 1Y -4.57%; price -1.64% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -19.61% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Weak | Negative profit margin (-4.95%). |
 | Value attractiveness | Reasonable | Forward P/E 12.30, EV/Sales 7.18. |
@@ -45,20 +45,20 @@ Talen Energy Corporation, an independent power producer and infrastructure compa
 | Technical item | Read |
 |---|---|
 | Price vs 52-week range | Close $358.40; 52w high $445.84 (-19.61%); 52w low $302.97 (+18.30%) |
-| Trend | -1.58% vs SMA200, -3.56% vs SMA50, +2.30% vs SMA20 |
-| Momentum | RSI(14) 50.7 (neutral) |
-| Volatility | ATR(14) 19.88 (~5.5% of price); beta 1.67 |
+| Trend | -1.64% vs SMA200, -3.78% vs SMA50, +1.19% vs SMA20 |
+| Momentum | RSI(14) 50.1 (neutral) |
+| Volatility | ATR(14) 19.68 (~5.5% of price); beta 1.67 |
 | Setup perspective | -19.61% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +8.7% |
-| Month | -9.7% |
-| Quarter | -4.3% |
-| Half Y | +0.1% |
-| 1Y | -3.1% |
+| Week | +5.9% |
+| Month | -7.1% |
+| Quarter | -7.2% |
+| Half Y | +3.9% |
+| 1Y | -4.6% |
 | YTD | -9.7% |
 
 ## 4. Fundamental Analysis
@@ -115,11 +115,11 @@ Talen Energy Corporation, an independent power producer and infrastructure compa
 | Price | $358.40 | EV/Sales | 7.18 |
 | Market cap | $17.17B | EV/EBITDA | 46.15 |
 | Beta | 1.67 | Gross margin | 42.10% |
-| RSI(14) | 50.7 | Operating margin | -4.80% |
-| ATR(14) | 19.88 | Profit margin | -4.95% |
-| SMA20 dist | +2.30% | ROA | 0.92% |
-| SMA50 dist | -3.56% | ROE | -12.83% |
-| SMA200 dist | -1.58% | Revenue (ttm) | $3.74B |
+| RSI(14) | 50.1 | Operating margin | -4.80% |
+| ATR(14) | 19.68 | Profit margin | -4.95% |
+| SMA20 dist | +1.19% | ROA | 0.92% |
+| SMA50 dist | -3.78% | ROE | -12.83% |
+| SMA200 dist | -1.64% | Revenue (ttm) | $3.74B |
 | 52W high | $445.84 | Revenue growth y/y | 111.20% |
 | 52W low | $302.97 | Inst. ownership | 104.52% |
 | P/E (ttm) | — | Insider ownership | 1.36% |

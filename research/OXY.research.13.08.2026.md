@@ -69,7 +69,7 @@ Occidental Petroleum Corporation, together with its subsidiaries, engages in the
 | Profitability | Gross 73.32%, operating 45.44%, net 30.32% | ROA 4.68%, ROE 10.63% |
 | Balance sheet | Cash $4.15B, debt $14.63B | Current ratio 1.41, debt/equity 34.51 |
 | Valuation | P/E 17.02, forward P/E 14.50, P/S 2.41, P/B 1.72 | EV/Sales 3.26, EV/EBITDA 5.68 |
-| Growth expectations | Earnings growth 964.90%, EPS q/q 550.00% | Analyst mean target $66.35 (23 analysts) |
+| Growth expectations | Earnings growth 964.90%, EPS q/q 550.00% | Analyst mean target $66.09 (23 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |

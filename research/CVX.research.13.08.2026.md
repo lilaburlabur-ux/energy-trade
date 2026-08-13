@@ -47,7 +47,7 @@ Chevron Corporation, through its subsidiaries, engages in the integrated energy 
 | Price vs 52-week range | Close $197.70; 52w high $209.23 (-5.51%); 52w low $144.01 (+37.28%) |
 | Trend | +12.78% vs SMA200, +7.57% vs SMA50, +2.95% vs SMA20 |
 | Momentum | RSI(14) 62.2 (neutral) |
-| Volatility | ATR(14) 4.43 (~2.2% of price); beta 0.49 |
+| Volatility | ATR(14) 4.42 (~2.2% of price); beta 0.49 |
 | Setup perspective | -5.51% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
@@ -74,7 +74,7 @@ Chevron Corporation, through its subsidiaries, engages in the integrated energy 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 70.53% |
+| Institutional ownership | 71.03% |
 | Insider ownership | 4.77% |
 | Short float | 1.04% |
 | Short ratio (days to cover) | 2.5 |
@@ -114,12 +114,12 @@ Chevron Corporation, through its subsidiaries, engages in the integrated energy 
 | Market cap | $387.81B | EV/EBITDA | 8.29 |
 | Beta | 0.49 | Gross margin | 44.27% |
 | RSI(14) | 62.2 | Operating margin | 21.87% |
-| ATR(14) | 4.43 | Profit margin | 9.83% |
+| ATR(14) | 4.42 | Profit margin | 9.83% |
 | SMA20 dist | +2.95% | ROA | 5.86% |
 | SMA50 dist | +7.57% | ROE | 12.23% |
 | SMA200 dist | +12.78% | Revenue (ttm) | $209.38B |
 | 52W high | $209.23 | Revenue growth y/y | 53.50% |
-| 52W low | $144.01 | Inst. ownership | 70.53% |
+| 52W low | $144.01 | Inst. ownership | 71.03% |
 | P/E (ttm) | 19.05 | Insider ownership | 4.77% |
 | Forward P/E | 14.99 | Short float | 1.04% |
 | PEG (trailing) | 0.75 | Avg volume | 8,926,261 |

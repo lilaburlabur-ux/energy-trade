@@ -1,5 +1,5 @@
 # SO Research Report
-**The Southern Company** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**Southern Company** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `SO.research.13.08.2026`
 
 | Field | Value |
@@ -15,11 +15,11 @@ Signed file: `SO.research.13.08.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +1.98%; price +1.12% vs SMA200. |
+| Technical momentum | Moderate | 1Y +1.20%; price +1.13% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -5.60% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 15.43%, revenue growth 0.10%. |
 | Value attractiveness | Reasonable | Forward P/E 18.84, EV/Sales 6.07. |
-| Risk level | Moderate | Beta 0.33, ATR 1.9% of price, short float 3.16%. |
+| Risk level | Moderate | Beta 0.33, ATR 2.0% of price, short float 3.16%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
@@ -36,18 +36,18 @@ The Southern Company, through its subsidiaries, engages in the sale of electrici
 
 | Headline | Source | Date |
 |---|---|---|
+| How a 64-Year-Old Turned an $880,000 401(k) Rollover Into a $5,200 Monthly Paycheck Without Buying an Annuity | 24/7 Wall St. | 2026-08-13 |
 | Southern (SO) Stock Stays Cheap On Earnings While Broader Checks Look Expensive | Simply Wall St. | 2026-08-09 |
 | Southern (SO) Completes Multiple Large Convertible Debt Offerings | Simply Wall St. | 2026-08-08 |
 | Train operators to crack down on ‘donutters’ and other digital ticket cheats | The Guardian | 2026-08-08 |
-| What Are Wall Street Analysts' Target Price for Southern Company Stock? | Barchart | 2026-08-06 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
 | Price vs 52-week range | Close $92.79; 52w high $98.30 (-5.60%); 52w low $82.74 (+12.15%) |
-| Trend | +1.12% vs SMA200, -1.81% vs SMA50, -1.54% vs SMA20 |
-| Momentum | RSI(14) 43.7 (neutral) |
-| Volatility | ATR(14) 1.80 (~1.9% of price); beta 0.33 |
+| Trend | +1.13% vs SMA200, -1.60% vs SMA50, -1.60% vs SMA20 |
+| Momentum | RSI(14) 43.8 (neutral) |
+| Volatility | ATR(14) 1.81 (~2.0% of price); beta 0.33 |
 | Setup perspective | -5.60% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
@@ -55,10 +55,10 @@ The Southern Company, through its subsidiaries, engages in the sale of electrici
 | Window | Return |
 |---|---|
 | Week | -0.1% |
-| Month | -1.9% |
-| Quarter | +0.4% |
-| Half Y | +3.8% |
-| 1Y | +2.0% |
+| Month | -3.8% |
+| Quarter | +0.5% |
+| Half Y | +5.5% |
+| 1Y | +1.2% |
 | YTD | +8.2% |
 
 ## 4. Fundamental Analysis
@@ -69,7 +69,7 @@ The Southern Company, through its subsidiaries, engages in the sale of electrici
 | Profitability | Gross 48.29%, operating 29.61%, net 15.43% | ROA 3.27%, ROE 11.48% |
 | Balance sheet | Cash $2.98B, debt $77.09B | Current ratio 0.79, debt/equity 182.06 |
 | Valuation | P/E 22.36, forward P/E 18.84, P/S 3.54, P/B 2.70 | EV/Sales 6.07, EV/EBITDA 12.86 |
-| Growth expectations | Earnings growth 30.40%, EPS q/q 33.40% | Analyst mean target $100.53 (20 analysts) |
+| Growth expectations | Earnings growth 30.40%, EPS q/q 33.40% | Analyst mean target $100.67 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
@@ -113,11 +113,11 @@ The Southern Company, through its subsidiaries, engages in the sale of electrici
 | Price | $92.79 | EV/Sales | 6.07 |
 | Market cap | $106.74B | EV/EBITDA | 12.86 |
 | Beta | 0.33 | Gross margin | 48.29% |
-| RSI(14) | 43.7 | Operating margin | 29.61% |
-| ATR(14) | 1.80 | Profit margin | 15.43% |
-| SMA20 dist | -1.54% | ROA | 3.27% |
-| SMA50 dist | -1.81% | ROE | 11.48% |
-| SMA200 dist | +1.12% | Revenue (ttm) | $30.18B |
+| RSI(14) | 43.8 | Operating margin | 29.61% |
+| ATR(14) | 1.81 | Profit margin | 15.43% |
+| SMA20 dist | -1.60% | ROA | 3.27% |
+| SMA50 dist | -1.60% | ROE | 11.48% |
+| SMA200 dist | +1.13% | Revenue (ttm) | $30.18B |
 | 52W high | $98.30 | Revenue growth y/y | 0.10% |
 | 52W low | $82.74 | Inst. ownership | 71.84% |
 | P/E (ttm) | 22.36 | Insider ownership | 0.10% |

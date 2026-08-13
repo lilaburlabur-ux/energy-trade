@@ -1,11 +1,11 @@
 # ETN Research Report
-**Eaton Corporation plc** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**Eaton** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `ETN.research.13.08.2026`
 
 | Field | Value |
 |---|---|
 | Current price | $453.33 (2026-08-13, ~15-min delayed) |
-| Market cap | $176.03B |
+| Market cap | $176.07B |
 | Sector / Industry | Industrials / Specialty Industrial Machinery |
 | Main theme | Specialty Industrial Machinery — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: fair-to-demanding, risk: elevated. |
@@ -15,7 +15,7 @@ Signed file: `ETN.research.13.08.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +26.17%; price +20.70% vs SMA200. |
+| Technical momentum | Moderate | 1Y +26.33%; price +20.80% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -1.44% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 12.75%, revenue growth 21.40%. |
 | Value attractiveness | Fair-to-demanding | Forward P/E 28.29, EV/Sales 6.64. |
@@ -45,9 +45,9 @@ Eaton Corporation plc operates as a power management company in the United State
 | Technical item | Read |
 |---|---|
 | Price vs 52-week range | Close $453.33; 52w high $459.96 (-1.44%); 52w low $313.20 (+44.74%) |
-| Trend | +20.70% vs SMA200, +10.09% vs SMA50, +7.82% vs SMA20 |
-| Momentum | RSI(14) 62.1 (neutral) |
-| Volatility | ATR(14) 17.20 (~3.8% of price); beta 1.18 |
+| Trend | +20.80% vs SMA200, +10.05% vs SMA50, +7.83% vs SMA20 |
+| Momentum | RSI(14) 61.6 (neutral) |
+| Volatility | ATR(14) 17.41 (~3.8% of price); beta 1.18 |
 | Setup perspective | -1.44% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
@@ -55,10 +55,10 @@ Eaton Corporation plc operates as a power management company in the United State
 | Window | Return |
 |---|---|
 | Week | +1.4% |
-| Month | +10.1% |
-| Quarter | +11.7% |
-| Half Y | +15.4% |
-| 1Y | +26.2% |
+| Month | +12.8% |
+| Quarter | +8.5% |
+| Half Y | +21.2% |
+| 1Y | +26.3% |
 | YTD | +39.7% |
 
 ## 4. Fundamental Analysis
@@ -69,7 +69,7 @@ Eaton Corporation plc operates as a power management company in the United State
 | Profitability | Gross 36.02%, operating 16.56%, net 12.75% | ROA 7.05%, ROE 19.68% |
 | Balance sheet | Cash $695.00M, debt $21.33B | Current ratio 1.24, debt/equity 105.06 |
 | Valuation | P/E 46.26, forward P/E 28.29, P/S 5.86, P/B 8.69 | EV/Sales 6.64, EV/EBITDA 30.02 |
-| Growth expectations | Earnings growth -15.90%, EPS q/q -16.40% | Analyst mean target $476.43 (24 analysts) |
+| Growth expectations | Earnings growth -15.90%, EPS q/q -16.40% | Analyst mean target $471.98 (25 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
@@ -113,13 +113,13 @@ Eaton Corporation plc operates as a power management company in the United State
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $453.33 | EV/Sales | 6.64 |
-| Market cap | $176.03B | EV/EBITDA | 30.02 |
+| Market cap | $176.07B | EV/EBITDA | 30.02 |
 | Beta | 1.18 | Gross margin | 36.02% |
-| RSI(14) | 62.1 | Operating margin | 16.56% |
-| ATR(14) | 17.20 | Profit margin | 12.75% |
-| SMA20 dist | +7.82% | ROA | 7.05% |
-| SMA50 dist | +10.09% | ROE | 19.68% |
-| SMA200 dist | +20.70% | Revenue (ttm) | $30.03B |
+| RSI(14) | 61.6 | Operating margin | 16.56% |
+| ATR(14) | 17.41 | Profit margin | 12.75% |
+| SMA20 dist | +7.83% | ROA | 7.05% |
+| SMA50 dist | +10.05% | ROE | 19.68% |
+| SMA200 dist | +20.80% | Revenue (ttm) | $30.03B |
 | 52W high | $459.96 | Revenue growth y/y | 21.40% |
 | 52W low | $313.20 | Inst. ownership | 90.24% |
 | P/E (ttm) | 46.26 | Insider ownership | 0.07% |

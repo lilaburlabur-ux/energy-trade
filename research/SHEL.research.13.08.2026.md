@@ -37,7 +37,7 @@ Shell plc operates as an energy and petrochemical company in Europe, Asia, Ocean
 | Headline | Source | Date |
 |---|---|---|
 | Gulf Oil Giants Strike Offshore Gas Deal With Venezuela | The Wall Street Journal | 2026-08-13 |
-| Philips, Shell targeted by hacking group | Reuters | 2026-08-13 |
+| Hacking group claims mass data theft from Shell, Philips, GE, Fiserv and dozens of others | Reuters | 2026-08-13 |
 | C3.ai vs. CrowdStrike: Which Tech Stock Is a Better Buy in 2026? | Motley Fool | 2026-08-13 |
 | 5 LNG Megaprojects Poised to Power the Next Gas Boom | Oilprice.com | 2026-08-12 |
 
@@ -68,13 +68,13 @@ Shell plc operates as an energy and petrochemical company in Europe, Asia, Ocean
 | Revenue (ttm) | $296.60B | Revenue growth 44.70% y/y |
 | Profitability | Gross 26.09%, operating 16.69%, net 8.76% | ROA 6.40%, ROE 14.34% |
 | Balance sheet | Cash $31.37B, debt $73.08B | Current ratio 1.44, debt/equity 40.20 |
-| Valuation | P/E 9.95, forward P/E 10.20, P/S 0.84, P/B 1.46 | EV/Sales 0.99, EV/EBITDA 5.10 |
+| Valuation | P/E 9.95, forward P/E 10.20, P/S 0.84, P/B 1.39 | EV/Sales 0.99, EV/EBITDA 5.10 |
 | Growth expectations | Earnings growth 220.00%, EPS q/q 200.50% | Analyst mean target $98.03 (15 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 13.78% |
+| Institutional ownership | 13.83% |
 | Insider ownership | 0.01% |
 | Short float | 1.77% |
 | Short ratio (days to cover) | 4.0 |
@@ -119,12 +119,12 @@ Shell plc operates as an energy and petrochemical company in Europe, Asia, Ocean
 | SMA50 dist | +6.24% | ROE | 14.34% |
 | SMA200 dist | +11.11% | Revenue (ttm) | $296.60B |
 | 52W high | $93.30 | Revenue growth y/y | 44.70% |
-| 52W low | $68.85 | Inst. ownership | 13.78% |
+| 52W low | $68.85 | Inst. ownership | 13.83% |
 | P/E (ttm) | 9.95 | Insider ownership | 0.01% |
 | Forward P/E | 10.20 | Short float | 1.77% |
 | PEG (trailing) | 1.34 | Avg volume | 6,696,617 |
 | P/S | 0.84 | Employees | 84,000 |
-| P/B | 1.46 | Analyst rec (1=buy..5=sell) | 2.2 |
+| P/B | 1.39 | Analyst rec (1=buy..5=sell) | 2.2 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

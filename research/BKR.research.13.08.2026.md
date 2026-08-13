@@ -69,12 +69,12 @@ Baker Hughes Company provides a portfolio of technologies and services to energy
 | Profitability | Gross 23.66%, operating 12.83%, net 11.17% | ROA 4.85%, ROE 16.46% |
 | Balance sheet | Cash $17.02B, debt $16.25B | Current ratio 2.10, debt/equity 80.92 |
 | Valuation | P/E 20.40, forward P/E 20.32, P/S 2.27, P/B 3.16 | EV/Sales 2.28, EV/EBITDA 13.06 |
-| Growth expectations | Earnings growth -4.20%, EPS q/q -2.90% | Analyst mean target $71.52 (23 analysts) |
+| Growth expectations | Earnings growth -4.20%, EPS q/q -2.90% | Analyst mean target $71.39 (23 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 100.68% |
+| Institutional ownership | 100.15% |
 | Insider ownership | 0.15% |
 | Short float | 2.83% |
 | Short ratio (days to cover) | 2.4 |
@@ -119,7 +119,7 @@ Baker Hughes Company provides a portfolio of technologies and services to energy
 | SMA50 dist | +7.17% | ROE | 16.46% |
 | SMA200 dist | +11.57% | Revenue (ttm) | $27.73B |
 | 52W high | $69.18 | Revenue growth y/y | -2.40% |
-| 52W low | $42.14 | Inst. ownership | 100.68% |
+| 52W low | $42.14 | Inst. ownership | 100.15% |
 | P/E (ttm) | 20.40 | Insider ownership | 0.15% |
 | Forward P/E | 20.32 | Short float | 2.83% |
 | PEG (trailing) | 2.20 | Avg volume | 8,670,637 |

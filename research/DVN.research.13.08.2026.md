@@ -1,5 +1,5 @@
 # DVN Research Report
-**Devon Energy Corporation** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**Devon Energy** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `DVN.research.13.08.2026`
 
 | Field | Value |
@@ -69,7 +69,7 @@ Devon Energy Corporation, an independent energy company, engages in the explorat
 | Profitability | Gross 50.35%, operating 41.08%, net 17.46% | ROA 5.91%, ROE 11.52% |
 | Balance sheet | Cash $950.00M, debt $11.89B | Current ratio 0.72, debt/equity 28.49 |
 | Valuation | P/E 9.65, forward P/E 8.16, P/S 2.60, P/B 1.22 | EV/Sales 3.21, EV/EBITDA 6.76 |
-| Growth expectations | Earnings growth 44.00%, EPS q/q 112.60% | Analyst mean target $59.73 (26 analysts) |
+| Growth expectations | Earnings growth 44.00%, EPS q/q 112.60% | Analyst mean target $59.69 (26 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |

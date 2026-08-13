@@ -15,11 +15,11 @@ Signed file: `OVV.research.13.08.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +61.23%; price +24.25% vs SMA200. |
+| Technical momentum | High | 1Y +64.30%; price +25.15% vs SMA200. |
 | Fresh setup quality | Watch | -1.97% from 52w high and near SMA20 — check for a tight base. |
 | Fundamental quality | Mixed | Profit margin 9.66%, revenue growth 29.70%. |
 | Value attractiveness | Reasonable | Forward P/E 8.62, EV/Sales 2.28. |
-| Risk level | Elevated | Beta 0.54, ATR 3.2% of price, short float 5.58%. |
+| Risk level | Elevated | Beta 0.54, ATR 3.3% of price, short float 5.58%. |
 
 **Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
 
@@ -45,9 +45,9 @@ Ovintiv Inc., together with its subsidiaries, operates as an oil and natural gas
 | Technical item | Read |
 |---|---|
 | Price vs 52-week range | Close $62.31; 52w high $63.56 (-1.97%); 52w low $35.32 (+76.41%) |
-| Trend | +24.25% vs SMA200, +8.54% vs SMA50, +2.41% vs SMA20 |
-| Momentum | RSI(14) 57.7 (neutral) |
-| Volatility | ATR(14) 2.01 (~3.2% of price); beta 0.54 |
+| Trend | +25.15% vs SMA200, +8.94% vs SMA50, +3.56% vs SMA20 |
+| Momentum | RSI(14) 58.6 (neutral) |
+| Volatility | ATR(14) 2.07 (~3.3% of price); beta 0.54 |
 | Setup perspective | -1.97% from 52w high and near SMA20 — check for a tight base. |
 
 **Performance snapshot:**
@@ -55,10 +55,10 @@ Ovintiv Inc., together with its subsidiaries, operates as an oil and natural gas
 | Window | Return |
 |---|---|
 | Week | +4.1% |
-| Month | +11.2% |
-| Quarter | +8.4% |
-| Half Y | +31.8% |
-| 1Y | +61.2% |
+| Month | +12.2% |
+| Quarter | +8.3% |
+| Half Y | +35.4% |
+| 1Y | +64.3% |
 | YTD | +55.5% |
 
 ## 4. Fundamental Analysis
@@ -69,7 +69,7 @@ Ovintiv Inc., together with its subsidiaries, operates as an oil and natural gas
 | Profitability | Gross 53.86%, operating 36.18%, net 9.66% | ROA 8.64%, ROE 8.41% |
 | Balance sheet | Cash $700.00M, debt $5.03B | Current ratio 1.01, debt/equity 43.73 |
 | Valuation | P/E 17.41, forward P/E 8.62, P/S 1.81, P/B 1.50 | EV/Sales 2.28, EV/EBITDA 4.45 |
-| Growth expectations | Earnings growth 37.30%, EPS q/q 48.50% | Analyst mean target $72.86 (22 analysts) |
+| Growth expectations | Earnings growth 37.30%, EPS q/q 48.50% | Analyst mean target $73.09 (22 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
@@ -95,7 +95,7 @@ Ovintiv Inc., together with its subsidiaries, operates as an oil and natural gas
 | Invesco Ltd. | 6,931,418 | 2.52% | 2026-03-31 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 0.54, ATR 3.2% of price, short float 5.58%. Size positions accordingly.
+- **Volatility risk:** Beta 0.54, ATR 3.3% of price, short float 5.58%. Size positions accordingly.
 - **Short interest risk:** short float 5.58% can fuel squeezes both ways around news.
 - **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
@@ -115,11 +115,11 @@ Ovintiv Inc., together with its subsidiaries, operates as an oil and natural gas
 | Price | $62.31 | EV/Sales | 2.28 |
 | Market cap | $17.23B | EV/EBITDA | 4.45 |
 | Beta | 0.54 | Gross margin | 53.86% |
-| RSI(14) | 57.7 | Operating margin | 36.18% |
-| ATR(14) | 2.01 | Profit margin | 9.66% |
-| SMA20 dist | +2.41% | ROA | 8.64% |
-| SMA50 dist | +8.54% | ROE | 8.41% |
-| SMA200 dist | +24.25% | Revenue (ttm) | $9.52B |
+| RSI(14) | 58.6 | Operating margin | 36.18% |
+| ATR(14) | 2.07 | Profit margin | 9.66% |
+| SMA20 dist | +3.56% | ROA | 8.64% |
+| SMA50 dist | +8.94% | ROE | 8.41% |
+| SMA200 dist | +25.15% | Revenue (ttm) | $9.52B |
 | 52W high | $63.56 | Revenue growth y/y | 29.70% |
 | 52W low | $35.32 | Inst. ownership | 98.15% |
 | P/E (ttm) | 17.41 | Insider ownership | 0.47% |

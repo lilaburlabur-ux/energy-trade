@@ -74,7 +74,7 @@ Equinor ASA operates as an energy company in Norway and internationally. It oper
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 6.91% |
+| Institutional ownership | 6.88% |
 | Insider ownership | 0.00% |
 | Short float | 2.95% |
 | Short ratio (days to cover) | 4.9 |
@@ -120,7 +120,7 @@ Equinor ASA operates as an energy company in Norway and internationally. It oper
 | SMA50 dist | +11.31% | ROE | 21.27% |
 | SMA200 dist | +28.11% | Revenue (ttm) | $113.65B |
 | 52W high | $41.97 | Revenue growth y/y | 37.40% |
-| 52W low | $21.89 | Inst. ownership | 6.91% |
+| 52W low | $21.89 | Inst. ownership | 6.88% |
 | P/E (ttm) | 10.99 | Insider ownership | 0.00% |
 | Forward P/E | 11.07 | Short float | 2.95% |
 | PEG (trailing) | 1.03 | Avg volume | 3,783,435 |

@@ -74,7 +74,7 @@ Vertiv Holdings Co designs, manufactures, and services critical digital infrastr
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 85.88% |
+| Institutional ownership | 86.12% |
 | Insider ownership | 0.27% |
 | Short float | 3.21% |
 | Short ratio (days to cover) | 2.0 |
@@ -120,7 +120,7 @@ Vertiv Holdings Co designs, manufactures, and services critical digital infrastr
 | SMA50 dist | -3.50% | ROE | 43.94% |
 | SMA200 dist | +14.52% | Revenue (ttm) | $11.48B |
 | 52W high | $376.15 | Revenue growth y/y | 24.10% |
-| 52W low | $121.69 | Inst. ownership | 85.88% |
+| 52W low | $121.69 | Inst. ownership | 86.12% |
 | P/E (ttm) | 65.10 | Insider ownership | 0.27% |
 | Forward P/E | 31.56 | Short float | 3.21% |
 | PEG (trailing) | 1.27 | Avg volume | 6,340,235 |

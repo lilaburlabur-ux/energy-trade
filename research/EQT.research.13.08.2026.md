@@ -1,5 +1,5 @@
 # EQT Research Report
-**EQT Corporation** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**EQT Corp** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `EQT.research.13.08.2026`
 
 | Field | Value |
@@ -69,12 +69,12 @@ EQT Corporation engages in the exploration, production, gathering, and transmiss
 | Profitability | Gross 80.75%, operating 23.37%, net 29.18% | ROA 6.63%, ROE 11.08% |
 | Balance sheet | Cash $112.86M, debt $5.66B | Current ratio 0.67, debt/equity 19.59 |
 | Valuation | P/E 12.55, forward P/E 13.57, P/S 3.64, P/B 1.34 | EV/Sales 4.62, EV/EBITDA 6.14 |
-| Growth expectations | Earnings growth -74.00%, EPS q/q -73.00% | Analyst mean target $67.76 (25 analysts) |
+| Growth expectations | Earnings growth -74.00%, EPS q/q -73.00% | Analyst mean target $67.68 (25 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 94.25% |
+| Institutional ownership | 93.36% |
 | Insider ownership | 0.79% |
 | Short float | 3.32% |
 | Short ratio (days to cover) | 2.3 |
@@ -118,7 +118,7 @@ EQT Corporation engages in the exploration, production, gathering, and transmiss
 | SMA50 dist | +4.33% | ROE | 11.08% |
 | SMA200 dist | -3.40% | Revenue (ttm) | $9.29B |
 | 52W high | $67.53 | Revenue growth y/y | -3.90% |
-| 52W low | $48.62 | Inst. ownership | 94.25% |
+| 52W low | $48.62 | Inst. ownership | 93.36% |
 | P/E (ttm) | 12.55 | Insider ownership | 0.79% |
 | Forward P/E | 13.57 | Short float | 3.32% |
 | PEG (trailing) | 1.54 | Avg volume | 7,213,729 |

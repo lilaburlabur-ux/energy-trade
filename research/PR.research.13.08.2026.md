@@ -15,10 +15,10 @@ Signed file: `PR.research.13.08.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +68.90%; price +20.29% vs SMA200. |
+| Technical momentum | High | 1Y +63.97%; price +19.97% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -5.51% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 21.52%, revenue growth 55.10%. |
-| Value attractiveness | Reasonable | Forward P/E 9.76, EV/Sales 3.66. |
+| Value attractiveness | Reasonable | Forward P/E 9.75, EV/Sales 3.66. |
 | Risk level | Elevated | Beta 0.48, ATR 3.2% of price, short float 2.76%. |
 
 **Bottom line:** High technical momentum, strong fundamentals, value: reasonable, risk: elevated.
@@ -45,20 +45,20 @@ Permian Resources Corporation, an independent oil and natural gas company, focus
 | Technical item | Read |
 |---|---|
 | Price vs 52-week range | Close $21.10; 52w high $22.33 (-5.51%); 52w low $11.76 (+79.41%) |
-| Trend | +20.29% vs SMA200, +7.18% vs SMA50, +1.99% vs SMA20 |
-| Momentum | RSI(14) 56.7 (neutral) |
-| Volatility | ATR(14) 0.68 (~3.2% of price); beta 0.48 |
+| Trend | +19.97% vs SMA200, +6.98% vs SMA50, +1.57% vs SMA20 |
+| Momentum | RSI(14) 56.4 (neutral) |
+| Volatility | ATR(14) 0.67 (~3.2% of price); beta 0.48 |
 | Setup perspective | -5.51% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +6.6% |
+| Week | +4.0% |
 | Month | +7.7% |
-| Quarter | +5.5% |
-| Half Y | +27.3% |
-| 1Y | +68.9% |
+| Quarter | +5.1% |
+| Half Y | +24.9% |
+| 1Y | +64.0% |
 | YTD | +49.0% |
 
 ## 4. Fundamental Analysis
@@ -68,13 +68,13 @@ Permian Resources Corporation, an independent oil and natural gas company, focus
 | Revenue (ttm) | $5.74B | Revenue growth 55.10% y/y |
 | Profitability | Gross 75.85%, operating 57.44%, net 21.52% | ROA 7.54%, ROE 11.40% |
 | Balance sheet | Cash $131.72M, debt $3.15B | Current ratio 0.62, debt/equity 26.25 |
-| Valuation | P/E 13.61, forward P/E 9.76, P/S 3.08, P/B 1.47 | EV/Sales 3.66, EV/EBITDA 4.93 |
-| Growth expectations | Earnings growth 232.90%, EPS q/q 282.60% | Analyst mean target $25.58 (19 analysts) |
+| Valuation | P/E 13.61, forward P/E 9.75, P/S 3.08, P/B 1.47 | EV/Sales 3.66, EV/EBITDA 4.93 |
+| Growth expectations | Earnings growth 232.90%, EPS q/q 282.60% | Analyst mean target $25.37 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 88.98% |
+| Institutional ownership | 89.38% |
 | Insider ownership | 4.61% |
 | Short float | 2.76% |
 | Short ratio (days to cover) | 2.6 |
@@ -114,15 +114,15 @@ Permian Resources Corporation, an independent oil and natural gas company, focus
 | Price | $21.10 | EV/Sales | 3.66 |
 | Market cap | $17.67B | EV/EBITDA | 4.93 |
 | Beta | 0.48 | Gross margin | 75.85% |
-| RSI(14) | 56.7 | Operating margin | 57.44% |
-| ATR(14) | 0.68 | Profit margin | 21.52% |
-| SMA20 dist | +1.99% | ROA | 7.54% |
-| SMA50 dist | +7.18% | ROE | 11.40% |
-| SMA200 dist | +20.29% | Revenue (ttm) | $5.74B |
+| RSI(14) | 56.4 | Operating margin | 57.44% |
+| ATR(14) | 0.67 | Profit margin | 21.52% |
+| SMA20 dist | +1.57% | ROA | 7.54% |
+| SMA50 dist | +6.98% | ROE | 11.40% |
+| SMA200 dist | +19.97% | Revenue (ttm) | $5.74B |
 | 52W high | $22.33 | Revenue growth y/y | 55.10% |
-| 52W low | $11.76 | Inst. ownership | 88.98% |
+| 52W low | $11.76 | Inst. ownership | 89.38% |
 | P/E (ttm) | 13.61 | Insider ownership | 4.61% |
-| Forward P/E | 9.76 | Short float | 2.76% |
+| Forward P/E | 9.75 | Short float | 2.76% |
 | PEG (trailing) | 1.33 | Avg volume | 9,980,408 |
 | P/S | 3.08 | Employees | 515 |
 | P/B | 1.47 | Analyst rec (1=buy..5=sell) | 1.3 |

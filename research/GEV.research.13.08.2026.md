@@ -74,7 +74,7 @@ GE Vernova Inc., an energy company, engages in the provision of various products
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 82.47% |
+| Institutional ownership | 82.28% |
 | Insider ownership | 0.12% |
 | Short float | 3.20% |
 | Short ratio (days to cover) | 2.9 |
@@ -120,7 +120,7 @@ GE Vernova Inc., an energy company, engages in the provision of various products
 | SMA50 dist | +2.35% | ROE | 82.58% |
 | SMA200 dist | +22.81% | Revenue (ttm) | $41.37B |
 | 52W high | $1,174.86 | Revenue growth y/y | 21.90% |
-| 52W low | $546.95 | Inst. ownership | 82.47% |
+| 52W low | $546.95 | Inst. ownership | 82.28% |
 | P/E (ttm) | 30.12 | Insider ownership | 0.12% |
 | Forward P/E | 42.15 | Short float | 3.20% |
 | PEG (trailing) | 1.72 | Avg volume | 2,838,101 |

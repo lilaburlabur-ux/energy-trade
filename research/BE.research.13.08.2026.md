@@ -37,9 +37,9 @@ Bloom Energy Corporation designs, manufactures, sells, and installs solid oxide 
 | Headline | Source | Date |
 |---|---|---|
 | Dow Jones Futures: S&P 500 Hits High On Workday, Sandisk, Oil Prices; Applied Materials Earnings Late | Investor's Business Daily | 2026-08-13 |
+| Scandium Supply Chain Dispute Might Change The Case For Investing In Bloom Energy (BE) | Simply Wall St. | 2026-08-13 |
+| Brookfield Q2 Earnings Call Highlights | MarketBeat | 2026-08-13 |
 | Is Bloom Energy a Buy, Hold, or Sell After Its 1,920% Run? | Motley Fool | 2026-08-13 |
-| The Zacks Analyst Blog Highlights Bloom Energy, Talen Energy and Plug Power | Zacks | 2026-08-13 |
-| Dow Jones Futures: Cisco, Coherent Are Earnings Losers After Nebius, Lumentum, CoreWeave Lead AI Rally | Investor's Business Daily | 2026-08-13 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -74,8 +74,8 @@ Bloom Energy Corporation designs, manufactures, sells, and installs solid oxide 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 85.44% |
-| Insider ownership | 5.66% |
+| Institutional ownership | 85.06% |
+| Insider ownership | 5.64% |
 | Short float | 7.87% |
 | Short ratio (days to cover) | 1.2 |
 
@@ -122,8 +122,8 @@ Bloom Energy Corporation designs, manufactures, sells, and installs solid oxide 
 | SMA50 dist | -4.90% | ROE | 22.21% |
 | SMA200 dist | +28.41% | Revenue (ttm) | $3.11B |
 | 52W high | $345.85 | Revenue growth y/y | 165.50% |
-| 52W low | $43.10 | Inst. ownership | 85.44% |
-| P/E (ttm) | 310.82 | Insider ownership | 5.66% |
+| 52W low | $43.10 | Inst. ownership | 85.06% |
+| P/E (ttm) | 310.82 | Insider ownership | 5.64% |
 | Forward P/E | 48.35 | Short float | 7.87% |
 | PEG (trailing) | 0.88 | Avg volume | 14,361,638 |
 | P/S | 22.35 | Employees | 2,214 |

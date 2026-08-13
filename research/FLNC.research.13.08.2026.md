@@ -69,7 +69,7 @@ Fluence Energy, Inc., through its subsidiaries, provides energy storage and opti
 | Profitability | Gross 9.36%, operating -8.85%, net -3.07% | ROA -2.95%, ROE -23.54% |
 | Balance sheet | Cash $339.33M, debt $413.16M | Current ratio 1.34, debt/equity 95.81 |
 | Valuation | P/E —, forward P/E 56.69, P/S 1.14, P/B 5.07 | EV/Sales 0.77, EV/EBITDA -25.93 |
-| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $16.39 (18 analysts) |
+| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $16.83 (18 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |

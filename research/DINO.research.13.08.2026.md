@@ -69,7 +69,7 @@ HF Sinclair Corporation operates as an independent energy company in the United 
 | Profitability | Gross 12.89%, operating 11.69%, net 6.13% | ROA 9.16%, ROE 19.50% |
 | Balance sheet | Cash $2.26B, debt $3.34B | Current ratio 1.97, debt/equity 32.26 |
 | Valuation | P/E 8.76, forward P/E 10.01, P/S 0.52, P/B 1.59 | EV/Sales 0.54, EV/EBITDA 5.23 |
-| Growth expectations | Earnings growth 350.20%, EPS q/q 328.80% | Analyst mean target $91.27 (15 analysts) |
+| Growth expectations | Earnings growth 350.20%, EPS q/q 328.80% | Analyst mean target $89.33 (15 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |

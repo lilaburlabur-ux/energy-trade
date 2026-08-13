@@ -36,10 +36,10 @@ Energy Transfer LP, together with its subsidiaries, provides energy-related serv
 
 | Headline | Source | Date |
 |---|---|---|
-| Oil Is Up 86% in 2026. The 4% Toll-Collector Fund Beats Chasing Crude | 24/7 Wall St. | 2026-08-13 |
 | Nat-Gas Prices Close Higher on Warm Forecasts | Barchart | 2026-08-12 |
 | Energy Transfer Keeps Growing Its Dividend and Offers a 6.7% Yield Worth Considering | Motley Fool | 2026-08-11 |
 | Interest Rates Could Still Rise in September: 5 High-Yield Passive Income Stocks Will Benefit | 24/7 Wall St. | 2026-08-10 |
+| Can WMB's Momentum Deal Power 11% Growth Through 2030 and Beyond? | Zacks | 2026-08-07 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -69,7 +69,7 @@ Energy Transfer LP, together with its subsidiaries, provides energy-related serv
 | Profitability | Gross 17.51%, operating 10.41%, net 4.92% | ROA 5.06%, ROE 14.56% |
 | Balance sheet | Cash $1.02B, debt $70.24B | Current ratio 1.16, debt/equity 138.33 |
 | Valuation | P/E 14.22, forward P/E 11.86, P/S 0.67, P/B 2.24 | EV/Sales 1.49, EV/EBITDA 9.34 |
-| Growth expectations | Earnings growth 85.30%, EPS q/q 79.50% | Analyst mean target $24.29 (21 analysts) |
+| Growth expectations | Earnings growth 85.30%, EPS q/q 79.50% | Analyst mean target $24.39 (21 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |

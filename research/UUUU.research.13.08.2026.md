@@ -74,7 +74,7 @@ Energy Fuels Inc., together with its subsidiaries, engages in the exploration, r
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 76.14% |
+| Institutional ownership | 74.17% |
 | Insider ownership | 1.22% |
 | Short float | 20.50% |
 | Short ratio (days to cover) | 7.6 |
@@ -123,7 +123,7 @@ Energy Fuels Inc., together with its subsidiaries, engages in the exploration, r
 | SMA50 dist | +6.02% | ROE | -11.45% |
 | SMA200 dist | -17.10% | Revenue (ttm) | $105.76M |
 | 52W high | $27.72 | Revenue growth y/y | 496.10% |
-| 52W low | $8.47 | Inst. ownership | 76.14% |
+| 52W low | $8.47 | Inst. ownership | 74.17% |
 | P/E (ttm) | — | Insider ownership | 1.22% |
 | Forward P/E | 30.06 | Short float | 20.50% |
 | PEG (trailing) | — | Avg volume | 8,976,096 |

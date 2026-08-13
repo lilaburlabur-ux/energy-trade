@@ -15,7 +15,7 @@ Signed file: `WMB.research.13.08.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +30.47%; price +6.97% vs SMA200. |
+| Technical momentum | Moderate | 1Y +29.79%; price +7.11% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -7.33% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 24.94%, revenue growth 7.80%. |
 | Value attractiveness | Fair-to-demanding | Forward P/E 27.77, EV/Sales 9.98. |
@@ -45,9 +45,9 @@ The Williams Companies, Inc., together with its subsidiaries, operates as an ene
 | Technical item | Read |
 |---|---|
 | Price vs 52-week range | Close $73.04; 52w high $78.82 (-7.33%); 52w low $54.78 (+33.33%) |
-| Trend | +6.97% vs SMA200, -0.07% vs SMA50, +1.09% vs SMA20 |
+| Trend | +7.11% vs SMA200, +0.04% vs SMA50, +1.08% vs SMA20 |
 | Momentum | RSI(14) 51.8 (neutral) |
-| Volatility | ATR(14) 1.82 (~2.5% of price); beta 0.61 |
+| Volatility | ATR(14) 1.85 (~2.5% of price); beta 0.61 |
 | Setup perspective | -7.33% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
@@ -55,10 +55,10 @@ The Williams Companies, Inc., together with its subsidiaries, operates as an ene
 | Window | Return |
 |---|---|
 | Week | +1.8% |
-| Month | -1.8% |
-| Quarter | -2.8% |
-| Half Y | +4.2% |
-| 1Y | +30.5% |
+| Month | -3.9% |
+| Quarter | -1.5% |
+| Half Y | +7.7% |
+| 1Y | +29.8% |
 | YTD | +21.8% |
 
 ## 4. Fundamental Analysis
@@ -69,7 +69,7 @@ The Williams Companies, Inc., together with its subsidiaries, operates as an ene
 | Profitability | Gross 63.64%, operating 39.54%, net 24.94% | ROA 5.03%, ROE 21.50% |
 | Balance sheet | Cash $203.00M, debt $30.79B | Current ratio 0.48, debt/equity 200.37 |
 | Valuation | P/E 29.10, forward P/E 27.77, P/S 7.25, P/B 6.79 | EV/Sales 9.98, EV/EBITDA 17.48 |
-| Growth expectations | Earnings growth 51.20%, EPS q/q 51.50% | Analyst mean target $84.90 (20 analysts) |
+| Growth expectations | Earnings growth 51.20%, EPS q/q 51.50% | Analyst mean target $84.70 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
@@ -115,10 +115,10 @@ The Williams Companies, Inc., together with its subsidiaries, operates as an ene
 | Market cap | $89.34B | EV/EBITDA | 17.48 |
 | Beta | 0.61 | Gross margin | 63.64% |
 | RSI(14) | 51.8 | Operating margin | 39.54% |
-| ATR(14) | 1.82 | Profit margin | 24.94% |
-| SMA20 dist | +1.09% | ROA | 5.03% |
-| SMA50 dist | -0.07% | ROE | 21.50% |
-| SMA200 dist | +6.97% | Revenue (ttm) | $12.32B |
+| ATR(14) | 1.85 | Profit margin | 24.94% |
+| SMA20 dist | +1.08% | ROA | 5.03% |
+| SMA50 dist | +0.04% | ROE | 21.50% |
+| SMA200 dist | +7.11% | Revenue (ttm) | $12.32B |
 | 52W high | $78.82 | Revenue growth y/y | 7.80% |
 | 52W low | $54.78 | Inst. ownership | 89.95% |
 | P/E (ttm) | 29.10 | Insider ownership | 0.45% |

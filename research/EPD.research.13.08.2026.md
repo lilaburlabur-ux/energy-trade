@@ -69,7 +69,7 @@ Enterprise Products Partners L.P. provides midstream energy services to producer
 | Profitability | Gross 13.33%, operating 11.76%, net 10.79% | ROA 5.92%, ROE 20.85% |
 | Balance sheet | Cash $246.00M, debt $34.02B | Current ratio 0.93, debt/equity 109.36 |
 | Valuation | P/E 13.16, forward P/E 12.06, P/S 1.40, P/B 2.79 | EV/Sales 1.99, EV/EBITDA 11.30 |
-| Growth expectations | Earnings growth 28.50%, EPS q/q 28.20% | Analyst mean target $41.15 (20 analysts) |
+| Growth expectations | Earnings growth 28.50%, EPS q/q 28.20% | Analyst mean target $41.20 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |

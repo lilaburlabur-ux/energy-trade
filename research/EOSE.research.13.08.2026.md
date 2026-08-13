@@ -5,7 +5,7 @@ Signed file: `EOSE.research.13.08.2026`
 | Field | Value |
 |---|---|
 | Current price | $4.16 (2026-08-13, ~15-min delayed) |
-| Market cap | $1.51B |
+| Market cap | $1.50B |
 | Sector / Industry | Industrials / Electrical Equipment & Parts |
 | Main theme | Electrical Equipment & Parts — see catalysts below |
 | Current stance | Low technical momentum, weak fundamentals, value: reasonable, risk: high. |
@@ -68,13 +68,13 @@ Eos Energy Enterprises, Inc. designs, develops, manufactures, and markets energy
 | Revenue (ttm) | $214.25M | Revenue growth 351.40% y/y |
 | Profitability | Gross -84.75%, operating -121.86%, net -246.76% | ROA -30.03%, ROE — |
 | Balance sheet | Cash $305.49M, debt $640.83M | Current ratio 3.26, debt/equity — |
-| Valuation | P/E —, forward P/E -27.82, P/S 7.07, P/B -1.63 | EV/Sales 12.10, EV/EBITDA -9.11 |
+| Valuation | P/E —, forward P/E -27.82, P/S 7.02, P/B -1.63 | EV/Sales 12.10, EV/EBITDA -9.11 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $7.00 (9 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 60.24% |
+| Institutional ownership | 59.92% |
 | Insider ownership | 1.43% |
 | Short float | 32.31% |
 | Short ratio (days to cover) | 4.2 |
@@ -114,7 +114,7 @@ Eos Energy Enterprises, Inc. designs, develops, manufactures, and markets energy
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $4.16 | EV/Sales | 12.10 |
-| Market cap | $1.51B | EV/EBITDA | -9.11 |
+| Market cap | $1.50B | EV/EBITDA | -9.11 |
 | Beta | 2.80 | Gross margin | -84.75% |
 | RSI(14) | 47.7 | Operating margin | -121.86% |
 | ATR(14) | 0.44 | Profit margin | -246.76% |
@@ -122,11 +122,11 @@ Eos Energy Enterprises, Inc. designs, develops, manufactures, and markets energy
 | SMA50 dist | -18.56% | ROE | — |
 | SMA200 dist | -55.44% | Revenue (ttm) | $214.25M |
 | 52W high | $19.19 | Revenue growth y/y | 351.40% |
-| 52W low | $3.14 | Inst. ownership | 60.24% |
+| 52W low | $3.14 | Inst. ownership | 59.92% |
 | P/E (ttm) | — | Insider ownership | 1.43% |
 | Forward P/E | -27.82 | Short float | 32.31% |
 | PEG (trailing) | — | Avg volume | 26,140,566 |
-| P/S | 7.07 | Employees | 787 |
+| P/S | 7.02 | Employees | 787 |
 | P/B | -1.63 | Analyst rec (1=buy..5=sell) | 2.4 |
 
 ## 8. Analyst Actions

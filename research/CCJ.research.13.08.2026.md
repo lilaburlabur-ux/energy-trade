@@ -1,5 +1,5 @@
 # CCJ Research Report
-**Cameco Corporation** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**Cameco** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `CCJ.research.13.08.2026`
 
 | Field | Value |
