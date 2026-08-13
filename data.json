@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-08-13T21:03:38+00:00",
-  "as_of_local": "2026-08-13 21:03:38 UTC",
+  "as_of_utc": "2026-08-13T21:07:26+00:00",
+  "as_of_local": "2026-08-13 21:07:26 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -150,7 +150,7 @@
       "price": 86.01,
       "previous_close": 85.78,
       "change_pct": 0.27,
-      "market_cap": 179414990212.2202,
+      "market_cap": 179382921296.9137,
       "headlines": [
         {
           "title": "Sector Update: Energy Stocks Edge Lower Late Afternoon",
@@ -178,7 +178,7 @@
       "price": 453.33,
       "previous_close": 459.96,
       "change_pct": -1.44,
-      "market_cap": 176073366784.66797,
+      "market_cap": 176028033786.01074,
       "headlines": [
         {
           "title": "Better AI Infrastructure Stock: Vertiv vs. Eaton",
@@ -313,6 +313,34 @@
       ]
     },
     {
+      "symbol": "MPC",
+      "name": "Marathon Petroleum",
+      "price": 356.37,
+      "previous_close": 348.25,
+      "change_pct": 2.33,
+      "market_cap": 104037457189.47815,
+      "headlines": [
+        {
+          "title": "Reading Between The Lines Of XOM's Latest Call",
+          "url": "https://finance.yahoo.com/energy/articles/reading-between-lines-xoms-latest-185514982.html",
+          "publisher": "Trefis",
+          "published": "2026-08-13T18:55:14Z"
+        },
+        {
+          "title": "How Much Track Is Left For XOM Stock?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/much-track-left-xom-stock-183150602.html",
+          "publisher": "Trefis",
+          "published": "2026-08-13T18:31:50Z"
+        },
+        {
+          "title": "Marathon Petroleum (MPC) Could Be 19% Overvalued As Earnings Beat Expectations",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/marathon-petroleum-mpc-could-19-231438349.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-08-12T23:14:38Z"
+        }
+      ]
+    },
+    {
       "symbol": "PWR",
       "name": "Quanta Services",
       "price": 672.78,
@@ -337,34 +365,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/argan-stock-down-8-past-151200103.html",
           "publisher": "Zacks",
           "published": "2026-08-13T15:12:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "MPC",
-      "name": "Marathon Petroleum",
-      "price": 356.37,
-      "previous_close": 348.25,
-      "change_pct": 2.33,
-      "market_cap": 100077519419.09534,
-      "headlines": [
-        {
-          "title": "Reading Between The Lines Of XOM's Latest Call",
-          "url": "https://finance.yahoo.com/energy/articles/reading-between-lines-xoms-latest-185514982.html",
-          "publisher": "Trefis",
-          "published": "2026-08-13T18:55:14Z"
-        },
-        {
-          "title": "How Much Track Is Left For XOM Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/much-track-left-xom-stock-183150602.html",
-          "publisher": "Trefis",
-          "published": "2026-08-13T18:31:50Z"
-        },
-        {
-          "title": "Marathon Petroleum (MPC) Could Be 19% Overvalued As Earnings Beat Expectations",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/marathon-petroleum-mpc-could-19-231438349.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-08-12T23:14:38Z"
         }
       ]
     },
@@ -545,6 +545,12 @@
       "market_cap": 82103322953.9102,
       "headlines": [
         {
+          "title": "Oil Is Up 86% in 2026. The 4% Toll-Collector Fund Beats Chasing Crude",
+          "url": "https://finance.yahoo.com/energy/articles/oil-86-2026-4-toll-205101071.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-08-13T20:51:01Z"
+        },
+        {
           "title": "These 4 Dividend Stocks Yield 8%. Only Roth Owners Keep All of It",
           "url": "https://finance.yahoo.com/markets/stocks/articles/4-dividend-stocks-yield-8-130052778.html",
           "publisher": "24/7 Wall St.",
@@ -555,12 +561,6 @@
           "url": "https://finance.yahoo.com/energy/articles/forget-oil-majors-midstream-stock-065000866.html",
           "publisher": "Motley Fool",
           "published": "2026-08-11T06:50:00Z"
-        },
-        {
-          "title": "All It Takes Is $10,000 Invested in Equal Parts of These 3 High-Yield Dividend Stocks to Generate Over $1,500 in Yearly Dividends.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/takes-10-000-invested-equal-183500408.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-10T18:35:00Z"
         }
       ]
     },
@@ -626,7 +626,7 @@
       "price": 141.41,
       "previous_close": 143.14,
       "change_pct": -1.21,
-      "market_cap": 74173672699.04321,
+      "market_cap": 75319002377.84393,
       "headlines": [
         {
           "title": "SM Energy Slides 11.2% in One Week: Could the Dip Be an Opportunity?",
@@ -657,6 +657,12 @@
       "market_cap": 71482900504.86873,
       "headlines": [
         {
+          "title": "Oil Is Up 86% in 2026. The 4% Toll-Collector Fund Beats Chasing Crude",
+          "url": "https://finance.yahoo.com/energy/articles/oil-86-2026-4-toll-205101071.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-08-13T20:51:01Z"
+        },
+        {
           "title": "Nat-Gas Prices Close Higher on Warm Forecasts",
           "url": "https://finance.yahoo.com/energy/articles/nat-gas-prices-close-higher-193855618.html",
           "publisher": "Barchart",
@@ -667,12 +673,6 @@
           "url": "https://finance.yahoo.com/energy/articles/energy-transfer-keeps-growing-dividend-100500229.html",
           "publisher": "Motley Fool",
           "published": "2026-08-11T10:05:00Z"
-        },
-        {
-          "title": "Interest Rates Could Still Rise in September: 5 High-Yield Passive Income Stocks Will Benefit",
-          "url": "https://finance.yahoo.com/economy/policy/articles/interest-rates-could-still-rise-121506723.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-08-10T12:15:06Z"
         }
       ]
     },
@@ -685,6 +685,12 @@
       "market_cap": 71435815092.5164,
       "headlines": [
         {
+          "title": "Oil Is Up 86% in 2026. The 4% Toll-Collector Fund Beats Chasing Crude",
+          "url": "https://finance.yahoo.com/energy/articles/oil-86-2026-4-toll-205101071.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-08-13T20:51:01Z"
+        },
+        {
           "title": "LNG Q2 Earnings Beat Estimates on Higher Volumes and Margins",
           "url": "https://finance.yahoo.com/energy/articles/lng-q2-earnings-beat-estimates-144000186.html",
           "publisher": "Zacks",
@@ -695,12 +701,6 @@
           "url": "https://finance.yahoo.com/energy/articles/zacks-industry-outlook-highlights-kinder-130100640.html",
           "publisher": "Zacks",
           "published": "2026-08-13T13:01:00Z"
-        },
-        {
-          "title": "3 Oil & Gas Pipeline Stocks to Weather Industry Headwinds",
-          "url": "https://finance.yahoo.com/energy/articles/3-oil-gas-pipeline-stocks-140000281.html",
-          "publisher": "Zacks",
-          "published": "2026-08-12T14:00:00Z"
         }
       ]
     },
@@ -822,7 +822,7 @@
       "price": 92.64,
       "previous_close": 92.47,
       "change_pct": 0.18,
-      "market_cap": 58397445566.13289,
+      "market_cap": 58366243024.738464,
       "headlines": [
         {
           "title": "Are Wall Street Analysts Bullish on ONEOK Stock?",
@@ -1074,7 +1074,7 @@
       "price": 75.93,
       "previous_close": 75.87,
       "change_pct": 0.08,
-      "market_cap": 37845033030.00572,
+      "market_cap": 37837544205.93562,
       "headlines": [
         {
           "title": "Do Wall Street Analysts Like Public Service Enterprise Stock?",
@@ -1494,7 +1494,7 @@
       "price": 35.23,
       "previous_close": 34.41,
       "change_pct": 2.38,
-      "market_cap": 10572932446.5998,
+      "market_cap": 10684412108.12128,
       "headlines": [
         {
           "title": "The AI-adjacent portfolio: Six Canadian stocks that could benefit from the AI buildout",
@@ -1634,7 +1634,7 @@
       "price": 11.19,
       "previous_close": 11.36,
       "change_pct": -1.5,
-      "market_cap": 5537621567.883291,
+      "market_cap": 5485570356.065173,
       "headlines": [
         {
           "title": "Insider Sheds Over 55,000 Shares of North American Uranium Stock",
@@ -1662,7 +1662,7 @@
       "price": 40.78,
       "previous_close": 40.77,
       "change_pct": 0.02,
-      "market_cap": 5388858584.130615,
+      "market_cap": 5374731250.713501,
       "headlines": [
         {
           "title": "Redwire, Enphase, Core & Main, Republic Services, and Owens Corning Stocks Trade Up, What You Need To Know",
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 81.18,
-      "change_pct": -2.51
+      "price": 81.12,
+      "change_pct": -2.58
     },
     {
       "label": "Brent",
-      "price": 86.96,
-      "change_pct": -2.27
+      "price": 86.9,
+      "change_pct": -2.34
     },
     {
       "label": "NatGas",
       "price": 2.73,
-      "change_pct": -2.6
+      "change_pct": -2.57
     }
   ]
 }
