@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-08-14T22:55:21+00:00",
-  "as_of_local": "2026-08-14 22:55:21 UTC",
+  "as_of_utc": "2026-08-14T23:00:42+00:00",
+  "as_of_local": "2026-08-14 23:00:42 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "CCJ"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1039,6 +1037,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernovas-strong-q2-results-125000036.html",
           "publisher": "Zacks",
           "published": "2026-08-13T12:50:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "CCJ",
+      "name": "Cameco",
+      "price": 97.74,
+      "previous_close": 97.75,
+      "change_pct": -0.01,
+      "market_cap": 42568992437.06118,
+      "headlines": [
+        {
+          "title": "Should You Buy, Hold or Sell UUUU Stock Post Q2 Earnings?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/buy-hold-sell-uuuu-stock-172800526.html",
+          "publisher": "Zacks",
+          "published": "2026-08-12T17:28:00Z"
+        },
+        {
+          "title": "Cameco vs. Uranium Energy: Which Uranium Stock Wins the Nuclear Restart?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/cameco-vs-uranium-energy-uranium-192500294.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-10T19:25:00Z"
+        },
+        {
+          "title": "Cameco (TSX:CCO) Stock May Be 13% Overvalued Following UBS Upgrade",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/cameco-tsx-cco-stock-may-191557784.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-08-10T19:15:57Z"
         }
       ]
     },
