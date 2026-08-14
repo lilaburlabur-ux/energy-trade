@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-08-14T22:09:25+00:00",
-  "as_of_local": "2026-08-14 22:09:25 UTC",
+  "as_of_utc": "2026-08-14T22:33:50+00:00",
+  "as_of_local": "2026-08-14 22:33:50 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "D"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -155,6 +153,12 @@
       "market_cap": 179790466926.43024,
       "headlines": [
         {
+          "title": "PCG Passed Our Value-Trap Test. Now What?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/pcg-passed-value-trap-test-214630909.html",
+          "publisher": "Trefis",
+          "published": "2026-08-14T21:46:30Z"
+        },
+        {
           "title": "Utility ETFs to Buy as Rapid AI Buildout Sparks Energy Crisis",
           "url": "https://finance.yahoo.com/energy/articles/utility-etfs-buy-rapid-ai-152700941.html",
           "publisher": "Zacks",
@@ -165,12 +169,6 @@
           "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-edge-lower-194912275.html",
           "publisher": "MT Newswires",
           "published": "2026-08-13T19:49:12Z"
-        },
-        {
-          "title": "3 of the Best Dividend Stocks to Buy for Under $100 Right Now",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-best-dividend-stocks-buy-185908826.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-11T18:59:08Z"
         }
       ]
     },
@@ -295,6 +293,12 @@
       "market_cap": 106753686755.42917,
       "headlines": [
         {
+          "title": "PCG Passed Our Value-Trap Test. Now What?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/pcg-passed-value-trap-test-214630909.html",
+          "publisher": "Trefis",
+          "published": "2026-08-14T21:46:30Z"
+        },
+        {
           "title": "Utility ETFs to Buy as Rapid AI Buildout Sparks Energy Crisis",
           "url": "https://finance.yahoo.com/energy/articles/utility-etfs-buy-rapid-ai-152700941.html",
           "publisher": "Zacks",
@@ -305,12 +309,6 @@
           "url": "https://finance.yahoo.com/markets/options/articles/64-old-turned-880-000-210301202.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-08-13T21:03:01Z"
-        },
-        {
-          "title": "Southern (SO) Stock Stays Cheap On Earnings While Broader Checks Look Expensive",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/southern-stock-stays-cheap-earnings-101004538.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-08-09T10:10:04Z"
         }
       ]
     },
@@ -463,6 +461,12 @@
       "market_cap": 96620694328.88264,
       "headlines": [
         {
+          "title": "PCG Passed Our Value-Trap Test. Now What?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/pcg-passed-value-trap-test-214630909.html",
+          "publisher": "Trefis",
+          "published": "2026-08-14T21:46:30Z"
+        },
+        {
           "title": "Utility ETFs to Buy as Rapid AI Buildout Sparks Energy Crisis",
           "url": "https://finance.yahoo.com/energy/articles/utility-etfs-buy-rapid-ai-152700941.html",
           "publisher": "Zacks",
@@ -473,12 +477,6 @@
           "url": "https://finance.yahoo.com/energy/articles/cegs-nuclear-fleet-positioned-support-181300000.html",
           "publisher": "Zacks",
           "published": "2026-08-13T18:13:00Z"
-        },
-        {
-          "title": "New Study Reveals Strongest State Economies, Only 1 State Was Better Than Texas",
-          "url": "https://finance.yahoo.com/economy/articles/study-reveals-strongest-state-economies-181834728.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-08-13T15:35:35Z"
         }
       ]
     },
@@ -759,6 +757,34 @@
           "url": "https://finance.yahoo.com/energy/articles/baker-hughes-wins-koc-contract-092636018.html",
           "publisher": "Offshore Technology",
           "published": "2026-08-12T09:26:36Z"
+        }
+      ]
+    },
+    {
+      "symbol": "D",
+      "name": "Dominion Energy",
+      "price": 68.77,
+      "previous_close": 68.54,
+      "change_pct": 0.34,
+      "market_cap": 60484996560.219795,
+      "headlines": [
+        {
+          "title": "Utility ETFs to Buy as Rapid AI Buildout Sparks Energy Crisis",
+          "url": "https://finance.yahoo.com/energy/articles/utility-etfs-buy-rapid-ai-152700941.html",
+          "publisher": "Zacks",
+          "published": "2026-08-14T15:27:00Z"
+        },
+        {
+          "title": "Dominion ordered to directly assign some transmission costs to data centers",
+          "url": "https://finance.yahoo.com/energy/articles/dominion-ordered-directly-assign-transmission-110251708.html",
+          "publisher": "Utility Dive",
+          "published": "2026-08-12T11:02:51Z"
+        },
+        {
+          "title": "NextEra Energy (NEE) Stock Could Be 11% Overvalued Despite Fresh AI Data Center News",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nextera-energy-nee-stock-could-141050537.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-08-08T14:10:50Z"
         }
       ]
     },
