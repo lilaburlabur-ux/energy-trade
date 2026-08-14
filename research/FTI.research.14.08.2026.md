@@ -1,5 +1,5 @@
 # FTI Research Report
-**TechnipFMC** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**TechnipFMC plc** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `FTI.research.14.08.2026`
 
 | Field | Value |
@@ -15,7 +15,7 @@ Signed file: `FTI.research.14.08.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +125.84%; price +28.44% vs SMA200. |
+| Technical momentum | High | 1Y +125.39%; price +27.39% vs SMA200. |
 | Fresh setup quality | Moderate / wait | +0.00% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 11.28%, revenue growth 9.00%. |
 | Value attractiveness | Fair-to-demanding | Forward P/E 21.98, EV/Sales 2.91. |
@@ -45,9 +45,9 @@ TechnipFMC plc engages in the oil and natural gas projects, technologies, system
 | Technical item | Read |
 |---|---|
 | Price vs 52-week range | Close $78.61; 52w high $78.61 (+0.00%); 52w low $34.67 (+126.75%) |
-| Trend | +28.44% vs SMA200, +12.20% vs SMA50, +7.91% vs SMA20 |
-| Momentum | RSI(14) 68.3 (neutral) |
-| Volatility | ATR(14) 2.50 (~3.2% of price); beta 0.74 |
+| Trend | +27.39% vs SMA200, +11.70% vs SMA50, +7.54% vs SMA20 |
+| Momentum | RSI(14) 66.7 (neutral) |
+| Volatility | ATR(14) 2.52 (~3.2% of price); beta 0.74 |
 | Setup perspective | +0.00% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
@@ -55,10 +55,10 @@ TechnipFMC plc engages in the oil and natural gas projects, technologies, system
 | Window | Return |
 |---|---|
 | Week | +12.9% |
-| Month | +7.6% |
-| Quarter | +10.6% |
-| Half Y | +31.3% |
-| 1Y | +125.8% |
+| Month | +9.2% |
+| Quarter | +7.7% |
+| Half Y | +29.0% |
+| 1Y | +125.4% |
 | YTD | +66.4% |
 
 ## 4. Fundamental Analysis
@@ -115,11 +115,11 @@ TechnipFMC plc engages in the oil and natural gas projects, technologies, system
 | Price | $78.61 | EV/Sales | 2.91 |
 | Market cap | $30.83B | EV/EBITDA | 15.29 |
 | Beta | 0.74 | Gross margin | 22.97% |
-| RSI(14) | 68.3 | Operating margin | 17.69% |
-| ATR(14) | 2.50 | Profit margin | 11.28% |
-| SMA20 dist | +7.91% | ROA | 9.53% |
-| SMA50 dist | +12.20% | ROE | 35.81% |
-| SMA200 dist | +28.44% | Revenue (ttm) | $10.42B |
+| RSI(14) | 66.7 | Operating margin | 17.69% |
+| ATR(14) | 2.52 | Profit margin | 11.28% |
+| SMA20 dist | +7.54% | ROA | 9.53% |
+| SMA50 dist | +11.70% | ROE | 35.81% |
+| SMA200 dist | +27.39% | Revenue (ttm) | $10.42B |
 | 52W high | $78.61 | Revenue growth y/y | 9.00% |
 | 52W low | $34.67 | Inst. ownership | 107.70% |
 | P/E (ttm) | 27.49 | Insider ownership | 1.71% |

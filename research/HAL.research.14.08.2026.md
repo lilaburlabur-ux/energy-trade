@@ -5,7 +5,7 @@ Signed file: `HAL.research.14.08.2026`
 | Field | Value |
 |---|---|
 | Current price | $34.42 (2026-08-14, ~15-min delayed) |
-| Market cap | $28.68B |
+| Market cap | $28.75B |
 | Sector / Industry | Energy / Oil & Gas Equipment & Services |
 | Main theme | Oil & Gas Equipment & Services — see catalysts below |
 | Current stance | High technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -68,8 +68,8 @@ Halliburton Company provides products and services to the energy industry worldw
 | Revenue (ttm) | $22.37B | Revenue growth 3.70% y/y |
 | Profitability | Gross 15.08%, operating 12.79%, net 7.16% | ROA 7.26%, ROE 14.92% |
 | Balance sheet | Cash $2.05B, debt $8.20B | Current ratio 2.02, debt/equity 74.19 |
-| Valuation | P/E 18.02, forward P/E 11.84, P/S 1.28, P/B 2.61 | EV/Sales 1.50, EV/EBITDA 8.11 |
-| Growth expectations | Earnings growth 16.10%, EPS q/q 13.10% | Analyst mean target $43.52 (25 analysts) |
+| Valuation | P/E 18.02, forward P/E 11.84, P/S 1.29, P/B 2.61 | EV/Sales 1.50, EV/EBITDA 8.11 |
+| Growth expectations | Earnings growth 16.10%, EPS q/q 13.10% | Analyst mean target $43.36 (25 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
@@ -111,7 +111,7 @@ Halliburton Company provides products and services to the energy industry worldw
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $34.42 | EV/Sales | 1.50 |
-| Market cap | $28.68B | EV/EBITDA | 8.11 |
+| Market cap | $28.75B | EV/EBITDA | 8.11 |
 | Beta | 0.75 | Gross margin | 15.08% |
 | RSI(14) | 55.6 | Operating margin | 12.79% |
 | ATR(14) | 1.03 | Profit margin | 7.16% |
@@ -123,7 +123,7 @@ Halliburton Company provides products and services to the energy industry worldw
 | P/E (ttm) | 18.02 | Insider ownership | 0.43% |
 | Forward P/E | 11.84 | Short float | 5.76% |
 | PEG (trailing) | 0.82 | Avg volume | 11,974,098 |
-| P/S | 1.28 | Employees | 46,000 |
+| P/S | 1.29 | Employees | 46,000 |
 | P/B | 2.61 | Analyst rec (1=buy..5=sell) | 1.8 |
 
 ## 8. Analyst Actions

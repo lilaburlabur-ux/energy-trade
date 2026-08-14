@@ -1,5 +1,5 @@
 # NOV Research Report
-**NOV Inc** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**NOV Inc.** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `NOV.research.14.08.2026`
 
 | Field | Value |
@@ -15,7 +15,7 @@ Signed file: `NOV.research.14.08.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +78.20%; price +15.32% vs SMA200. |
+| Technical momentum | High | 1Y +75.45%; price +15.12% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -1.02% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 1.10%, revenue growth -2.50%. |
 | Value attractiveness | Reasonable | Forward P/E 16.26, EV/Sales 0.99. |
@@ -45,9 +45,9 @@ NOV Inc. designs, constructs, manufactures, and sells systems, components, and p
 | Technical item | Read |
 |---|---|
 | Price vs 52-week range | Close $21.14; 52w high $21.36 (-1.02%); 52w low $11.88 (+77.90%) |
-| Trend | +15.32% vs SMA200, +7.56% vs SMA50, +5.36% vs SMA20 |
+| Trend | +15.12% vs SMA200, +7.62% vs SMA50, +5.18% vs SMA20 |
 | Momentum | RSI(14) 62.1 (neutral) |
-| Volatility | ATR(14) 0.67 (~3.1% of price); beta 0.94 |
+| Volatility | ATR(14) 0.66 (~3.1% of price); beta 0.94 |
 | Setup perspective | -1.02% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
@@ -55,10 +55,10 @@ NOV Inc. designs, constructs, manufactures, and sells systems, components, and p
 | Window | Return |
 |---|---|
 | Week | +7.6% |
-| Month | +9.0% |
-| Quarter | +4.1% |
-| Half Y | +10.1% |
-| 1Y | +78.2% |
+| Month | +8.6% |
+| Quarter | +3.5% |
+| Half Y | +12.8% |
+| 1Y | +75.5% |
 | YTD | +30.6% |
 
 ## 4. Fundamental Analysis
@@ -66,7 +66,7 @@ NOV Inc. designs, constructs, manufactures, and sells systems, components, and p
 |---|---|---|
 | Next earnings | 2026-10-26 | Next scheduled report (Yahoo estimate) |
 | Revenue (ttm) | $8.64B | Revenue growth -2.50% y/y |
-| Profitability | Gross 21.65%, operating 7.17%, net 1.10% | ROA 3.45%, ROE 1.54% |
+| Profitability | Gross 21.65%, operating 9.04%, net 1.10% | ROA 3.45%, ROE 1.54% |
 | Balance sheet | Cash $1.16B, debt $2.33B | Current ratio 2.42, debt/equity 37.15 |
 | Valuation | P/E 78.30, forward P/E 16.26, P/S 0.87, P/B 1.21 | EV/Sales 0.99, EV/EBITDA 8.70 |
 | Growth expectations | Earnings growth 7.60%, EPS q/q 3.70% | Analyst mean target $22.07 (20 analysts) |
@@ -115,11 +115,11 @@ NOV Inc. designs, constructs, manufactures, and sells systems, components, and p
 | Price | $21.14 | EV/Sales | 0.99 |
 | Market cap | $7.54B | EV/EBITDA | 8.70 |
 | Beta | 0.94 | Gross margin | 21.65% |
-| RSI(14) | 62.1 | Operating margin | 7.17% |
-| ATR(14) | 0.67 | Profit margin | 1.10% |
-| SMA20 dist | +5.36% | ROA | 3.45% |
-| SMA50 dist | +7.56% | ROE | 1.54% |
-| SMA200 dist | +15.32% | Revenue (ttm) | $8.64B |
+| RSI(14) | 62.1 | Operating margin | 9.04% |
+| ATR(14) | 0.66 | Profit margin | 1.10% |
+| SMA20 dist | +5.18% | ROA | 3.45% |
+| SMA50 dist | +7.62% | ROE | 1.54% |
+| SMA200 dist | +15.12% | Revenue (ttm) | $8.64B |
 | 52W high | $21.36 | Revenue growth y/y | -2.50% |
 | 52W low | $11.88 | Inst. ownership | 105.22% |
 | P/E (ttm) | 78.30 | Insider ownership | 0.73% |

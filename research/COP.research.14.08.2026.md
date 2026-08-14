@@ -69,7 +69,7 @@ ConocoPhillips explores for, produces, transports, and markets crude oil, bitume
 | Profitability | Gross 47.57%, operating 31.51%, net 14.40% | ROA 7.53%, ROE 14.18% |
 | Balance sheet | Cash $7.69B, debt $23.29B | Current ratio 1.54, debt/equity 35.64 |
 | Valuation | P/E 16.77, forward P/E 13.47, P/S 2.36, P/B 2.33 | EV/Sales 2.56, EV/EBITDA 6.17 |
-| Growth expectations | Earnings growth 107.00%, EPS q/q 99.40% | Analyst mean target $143.83 (24 analysts) |
+| Growth expectations | Earnings growth 107.00%, EPS q/q 99.40% | Analyst mean target $144.71 (24 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |

@@ -5,7 +5,7 @@ Signed file: `NXE.research.14.08.2026`
 | Field | Value |
 |---|---|
 | Current price | $10.39 (2026-08-14, ~15-min delayed) |
-| Market cap | $6.97B |
+| Market cap | $6.88B |
 | Sector / Industry | Energy / Uranium |
 | Main theme | Uranium — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
@@ -15,11 +15,11 @@ Signed file: `NXE.research.14.08.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-2.70%) with negative half-year (-13.05%). |
+| Technical momentum | Low | Below SMA200 (-2.73%) with negative half-year (-9.97%). |
 | Fresh setup quality | Poor / broken | -25.36% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 0.00%, revenue growth —. |
 | Value attractiveness | Reasonable | Forward P/E -63.52, EV/Sales —. |
-| Risk level | Elevated | Beta 1.65, ATR 4.2% of price, short float —. |
+| Risk level | Elevated | Beta 1.65, ATR 4.1% of price, short float —. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
 
@@ -45,9 +45,9 @@ NexGen Energy Ltd., an exploration and development stage company, engages in the
 | Technical item | Read |
 |---|---|
 | Price vs 52-week range | Close $10.39; 52w high $13.92 (-25.36%); 52w low $6.46 (+60.84%) |
-| Trend | -2.70% vs SMA200, +5.99% vs SMA50, +7.33% vs SMA20 |
-| Momentum | RSI(14) 59.1 (neutral) |
-| Volatility | ATR(14) 0.44 (~4.2% of price); beta 1.65 |
+| Trend | -2.73% vs SMA200, +6.46% vs SMA50, +7.13% vs SMA20 |
+| Momentum | RSI(14) 59.6 (neutral) |
+| Volatility | ATR(14) 0.43 (~4.1% of price); beta 1.65 |
 | Setup perspective | -25.36% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
@@ -55,10 +55,10 @@ NexGen Energy Ltd., an exploration and development stage company, engages in the
 | Window | Return |
 |---|---|
 | Week | -0.4% |
-| Month | +12.3% |
-| Quarter | -14.7% |
-| Half Y | -13.1% |
-| 1Y | +50.1% |
+| Month | +17.3% |
+| Quarter | -13.2% |
+| Half Y | -10.0% |
+| 1Y | +53.2% |
 | YTD | +1.4% |
 
 ## 4. Fundamental Analysis
@@ -95,7 +95,7 @@ NexGen Energy Ltd., an exploration and development stage company, engages in the
 | Millennium Management Llc | 5,638,384 | 0.84% | 2026-03-31 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.65, ATR 4.2% of price, short float —. Size positions accordingly.
+- **Volatility risk:** Beta 1.65, ATR 4.1% of price, short float —. Size positions accordingly.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -112,13 +112,13 @@ NexGen Energy Ltd., an exploration and development stage company, engages in the
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $10.39 | EV/Sales | — |
-| Market cap | $6.97B | EV/EBITDA | -60.97 |
+| Market cap | $6.88B | EV/EBITDA | -60.97 |
 | Beta | 1.65 | Gross margin | 0.00% |
-| RSI(14) | 59.1 | Operating margin | 0.00% |
-| ATR(14) | 0.44 | Profit margin | 0.00% |
-| SMA20 dist | +7.33% | ROA | -3.39% |
-| SMA50 dist | +5.99% | ROE | -17.67% |
-| SMA200 dist | -2.70% | Revenue (ttm) | — |
+| RSI(14) | 59.6 | Operating margin | 0.00% |
+| ATR(14) | 0.43 | Profit margin | 0.00% |
+| SMA20 dist | +7.13% | ROA | -3.39% |
+| SMA50 dist | +6.46% | ROE | -17.67% |
+| SMA200 dist | -2.73% | Revenue (ttm) | — |
 | 52W high | $13.92 | Revenue growth y/y | — |
 | 52W low | $6.46 | Inst. ownership | 54.24% |
 | P/E (ttm) | — | Insider ownership | 6.39% |

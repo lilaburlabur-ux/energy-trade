@@ -69,7 +69,7 @@ Vistra Corp., together with its subsidiaries, operates as an integrated retail e
 | Profitability | Gross 38.31%, operating 13.77%, net 11.55% | ROA 5.89%, ROE 42.96% |
 | Balance sheet | Cash $435.00M, debt $20.51B | Current ratio 0.97, debt/equity 373.28 |
 | Valuation | P/E 24.98, forward P/E 14.29, P/S 2.59, P/B 16.05 | EV/Sales 3.73, EV/EBITDA 10.79 |
-| Growth expectations | Earnings growth -6.20%, EPS q/q -6.70% | Analyst mean target $221.74 (19 analysts) |
+| Growth expectations | Earnings growth -6.20%, EPS q/q -6.70% | Analyst mean target $221.58 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |

@@ -69,7 +69,7 @@ Energy Transfer LP, together with its subsidiaries, provides energy-related serv
 | Profitability | Gross 17.51%, operating 10.41%, net 4.92% | ROA 5.06%, ROE 14.56% |
 | Balance sheet | Cash $1.02B, debt $70.24B | Current ratio 1.16, debt/equity 138.33 |
 | Valuation | P/E 14.42, forward P/E 12.03, P/S 0.68, P/B 2.27 | EV/Sales 1.49, EV/EBITDA 9.30 |
-| Growth expectations | Earnings growth 85.30%, EPS q/q 79.50% | Analyst mean target $24.39 (21 analysts) |
+| Growth expectations | Earnings growth 85.30%, EPS q/q 79.50% | Analyst mean target $24.29 (21 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |

@@ -36,10 +36,10 @@ HF Sinclair Corporation operates as an independent energy company in the United 
 
 | Headline | Source | Date |
 |---|---|---|
+| S&P 500 Ekes Out Weekly Gain Amid Growing Probability of Fed Pause Extension | MT Newswires | 2026-08-14 |
 | PSX, KMI & DINO Advance $5B Western Gateway Pipeline Project | Zacks | 2026-08-14 |
 | HF Sinclair (DINO) Following Insider Buying And Supply Deals Looks Cheap On Earnings | Simply Wall St. | 2026-08-14 |
 | YPF Q2 Earnings Beat Estimates on Shale Growth & Strong Pricing | Zacks | 2026-08-13 |
-| Kinder Morgan Just Locked In a $5 Billion Pipeline Deal. Here's What It Means for KMI's Dividend. | Motley Fool | 2026-08-12 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -69,7 +69,7 @@ HF Sinclair Corporation operates as an independent energy company in the United 
 | Profitability | Gross 12.89%, operating 11.69%, net 6.13% | ROA 9.16%, ROE 19.50% |
 | Balance sheet | Cash $2.26B, debt $3.34B | Current ratio 1.97, debt/equity 32.26 |
 | Valuation | P/E 8.93, forward P/E 9.81, P/S 0.53, P/B 1.62 | EV/Sales 0.56, EV/EBITDA 5.45 |
-| Growth expectations | Earnings growth 350.20%, EPS q/q 328.80% | Analyst mean target $89.33 (15 analysts) |
+| Growth expectations | Earnings growth 350.20%, EPS q/q 328.80% | Analyst mean target $91.27 (15 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |

@@ -69,7 +69,7 @@ Valero Energy Corporation manufactures, markets, and sells petroleum-based and l
 | Profitability | Gross 16.12%, operating 12.27%, net 5.45% | ROA 10.56%, ROE 27.64% |
 | Balance sheet | Cash $7.87B, debt $11.35B | Current ratio 1.64, debt/equity 40.15 |
 | Valuation | P/E 14.25, forward P/E 12.09, P/S 0.74, P/B 4.25 | EV/Sales 0.80, EV/EBITDA 7.88 |
-| Growth expectations | Earnings growth 453.50%, EPS q/q 421.00% | Analyst mean target $309.79 (19 analysts) |
+| Growth expectations | Earnings growth 453.50%, EPS q/q 421.00% | Analyst mean target $315.26 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |

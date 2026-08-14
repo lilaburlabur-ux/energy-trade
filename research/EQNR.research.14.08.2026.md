@@ -5,7 +5,7 @@ Signed file: `EQNR.research.14.08.2026`
 | Field | Value |
 |---|---|
 | Current price | $40.77 (2026-08-14, ~15-min delayed) |
-| Market cap | $96.81B |
+| Market cap | $96.82B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
 | Current stance | High technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -111,7 +111,7 @@ Equinor ASA operates as an energy company in Norway and internationally. It oper
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $40.77 | EV/Sales | 1.81 |
-| Market cap | $96.81B | EV/EBITDA | 4.92 |
+| Market cap | $96.82B | EV/EBITDA | 4.92 |
 | Beta | -0.73 | Gross margin | 40.13% |
 | RSI(14) | 59.9 | Operating margin | 36.11% |
 | ATR(14) | 1.21 | Profit margin | 7.97% |

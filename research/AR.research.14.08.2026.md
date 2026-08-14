@@ -15,7 +15,7 @@ Signed file: `AR.research.14.08.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +15.52%; price +4.17% vs SMA200. |
+| Technical momentum | Moderate | 1Y +15.52%; price +4.23% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -17.23% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 18.75%, revenue growth 12.60%. |
 | Value attractiveness | Reasonable | Forward P/E 8.55, EV/Sales —. |
@@ -45,8 +45,8 @@ Antero Resources Corporation, an independent oil and natural gas company, engage
 | Technical item | Read |
 |---|---|
 | Price vs 52-week range | Close $37.37; 52w high $45.15 (-17.23%); 52w low $29.87 (+25.11%) |
-| Trend | +4.17% vs SMA200, +6.85% vs SMA50, +5.36% vs SMA20 |
-| Momentum | RSI(14) 59.5 (neutral) |
+| Trend | +4.23% vs SMA200, +7.09% vs SMA50, +5.95% vs SMA20 |
+| Momentum | RSI(14) 60.6 (neutral) |
 | Volatility | ATR(14) 1.15 (~3.1% of price); beta 0.34 |
 | Setup perspective | -17.23% from 52w high; no clean fresh pivot by default. |
 
@@ -54,7 +54,7 @@ Antero Resources Corporation, an independent oil and natural gas company, engage
 
 | Window | Return |
 |---|---|
-| Week | +7.7% |
+| Week | +7.1% |
 | Month | +11.3% |
 | Quarter | +1.7% |
 | Half Y | +6.4% |
@@ -69,7 +69,7 @@ Antero Resources Corporation, an independent oil and natural gas company, engage
 | Profitability | Gross 67.15%, operating 26.02%, net 18.75% | ROA 6.61%, ROE 14.22% |
 | Balance sheet | Cash —, debt $4.62B | Current ratio 0.40, debt/equity 55.49 |
 | Valuation | P/E 10.71, forward P/E 8.55, P/S 1.99, P/B 1.39 | EV/Sales —, EV/EBITDA — |
-| Growth expectations | Earnings growth 79.90%, EPS q/q 78.00% | Analyst mean target $49.10 (20 analysts) |
+| Growth expectations | Earnings growth 79.90%, EPS q/q 78.00% | Analyst mean target $49.35 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
@@ -113,11 +113,11 @@ Antero Resources Corporation, an independent oil and natural gas company, engage
 | Price | $37.37 | EV/Sales | — |
 | Market cap | $11.49B | EV/EBITDA | — |
 | Beta | 0.34 | Gross margin | 67.15% |
-| RSI(14) | 59.5 | Operating margin | 26.02% |
+| RSI(14) | 60.6 | Operating margin | 26.02% |
 | ATR(14) | 1.15 | Profit margin | 18.75% |
-| SMA20 dist | +5.36% | ROA | 6.61% |
-| SMA50 dist | +6.85% | ROE | 14.22% |
-| SMA200 dist | +4.17% | Revenue (ttm) | $5.78B |
+| SMA20 dist | +5.95% | ROA | 6.61% |
+| SMA50 dist | +7.09% | ROE | 14.22% |
+| SMA200 dist | +4.23% | Revenue (ttm) | $5.78B |
 | 52W high | $45.15 | Revenue growth y/y | 12.60% |
 | 52W low | $29.87 | Inst. ownership | 88.58% |
 | P/E (ttm) | 10.71 | Insider ownership | 4.41% |

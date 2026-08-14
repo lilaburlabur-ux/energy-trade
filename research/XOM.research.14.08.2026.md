@@ -1,5 +1,5 @@
 # XOM Research Report
-**ExxonMobil** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**ExxonMobil Holdings Corporation** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `XOM.research.14.08.2026`
 
 | Field | Value |
@@ -18,7 +18,7 @@ Signed file: `XOM.research.14.08.2026`
 | Technical momentum | Moderate | 1Y +53.53%; price +14.10% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -6.00% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 9.07%, revenue growth 44.10%. |
-| Value attractiveness | Reasonable | Forward P/E 14.97, EV/Sales 1.91. |
+| Value attractiveness | Reasonable | Forward P/E 14.93, EV/Sales 1.91. |
 | Risk level | Moderate | Beta 0.17, ATR 2.3% of price, short float 1.15%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -68,8 +68,8 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 | Revenue (ttm) | $361.06B | Revenue growth 44.10% y/y |
 | Profitability | Gross 29.77%, operating 15.86%, net 9.07% | ROA 5.52%, ROE 12.58% |
 | Balance sheet | Cash $10.59B, debt $42.37B | Current ratio 1.14, debt/equity 15.92 |
-| Valuation | P/E 20.60, forward P/E 14.97, P/S 1.82, P/B 2.54 | EV/Sales 1.91, EV/EBITDA 10.17 |
-| Growth expectations | Earnings growth 112.80%, EPS q/q 105.10% | Analyst mean target $168.32 (22 analysts) |
+| Valuation | P/E 20.60, forward P/E 14.93, P/S 1.82, P/B 2.54 | EV/Sales 1.91, EV/EBITDA 10.17 |
+| Growth expectations | Earnings growth 112.80%, EPS q/q 105.10% | Analyst mean target $168.77 (22 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
@@ -121,7 +121,7 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 | 52W high | $170.31 | Revenue growth y/y | 44.10% |
 | 52W low | $104.06 | Inst. ownership | 66.49% |
 | P/E (ttm) | 20.60 | Insider ownership | 0.08% |
-| Forward P/E | 14.97 | Short float | 1.15% |
+| Forward P/E | 14.93 | Short float | 1.15% |
 | PEG (trailing) | 1.25 | Avg volume | 16,391,243 |
 | P/S | 1.82 | Employees | 57,900 |
 | P/B | 2.54 | Analyst rec (1=buy..5=sell) | 2.4 |

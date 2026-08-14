@@ -15,7 +15,7 @@ Signed file: `ETR.research.14.08.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +23.50%; price +4.40% vs SMA200. |
+| Technical momentum | Moderate | 1Y +21.48%; price +4.21% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -7.56% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 13.33%, revenue growth 5.90%. |
 | Value attractiveness | Fair-to-demanding | Forward P/E 21.15, EV/Sales 6.01. |
@@ -45,9 +45,9 @@ Entergy Corporation, together with its subsidiaries, engages in the production a
 | Technical item | Read |
 |---|---|
 | Price vs 52-week range | Close $107.84; 52w high $116.66 (-7.56%); 52w low $84.72 (+27.29%) |
-| Trend | +4.40% vs SMA200, -2.68% vs SMA50, -1.15% vs SMA20 |
-| Momentum | RSI(14) 45.4 (neutral) |
-| Volatility | ATR(14) 2.32 (~2.1% of price); beta 0.49 |
+| Trend | +4.21% vs SMA200, -2.87% vs SMA50, -1.10% vs SMA20 |
+| Momentum | RSI(14) 45.2 (neutral) |
+| Volatility | ATR(14) 2.28 (~2.1% of price); beta 0.49 |
 | Setup perspective | -7.56% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
@@ -55,10 +55,10 @@ Entergy Corporation, together with its subsidiaries, engages in the production a
 | Window | Return |
 |---|---|
 | Week | +1.2% |
-| Month | -6.0% |
+| Month | -5.6% |
 | Quarter | -3.9% |
-| Half Y | +9.4% |
-| 1Y | +23.5% |
+| Half Y | +7.0% |
+| 1Y | +21.5% |
 | YTD | +17.0% |
 
 ## 4. Fundamental Analysis
@@ -69,7 +69,7 @@ Entergy Corporation, together with its subsidiaries, engages in the production a
 | Profitability | Gross 47.00%, operating 24.46%, net 13.33% | ROA 2.68%, ROE 10.25% |
 | Balance sheet | Cash $3.86B, debt $34.63B | Current ratio 0.91, debt/equity 186.77 |
 | Valuation | P/E 27.58, forward P/E 21.15, P/S 3.73, P/B 2.76 | EV/Sales 6.01, EV/EBITDA 14.62 |
-| Growth expectations | Earnings growth -1.90%, EPS q/q 3.10% | Analyst mean target $123.88 (21 analysts) |
+| Growth expectations | Earnings growth -1.90%, EPS q/q 3.10% | Analyst mean target $123.55 (21 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
@@ -114,11 +114,11 @@ Entergy Corporation, together with its subsidiaries, engages in the production a
 | Price | $107.84 | EV/Sales | 6.01 |
 | Market cap | $50.32B | EV/EBITDA | 14.62 |
 | Beta | 0.49 | Gross margin | 47.00% |
-| RSI(14) | 45.4 | Operating margin | 24.46% |
-| ATR(14) | 2.32 | Profit margin | 13.33% |
-| SMA20 dist | -1.15% | ROA | 2.68% |
-| SMA50 dist | -2.68% | ROE | 10.25% |
-| SMA200 dist | +4.40% | Revenue (ttm) | $13.48B |
+| RSI(14) | 45.2 | Operating margin | 24.46% |
+| ATR(14) | 2.28 | Profit margin | 13.33% |
+| SMA20 dist | -1.10% | ROA | 2.68% |
+| SMA50 dist | -2.87% | ROE | 10.25% |
+| SMA200 dist | +4.21% | Revenue (ttm) | $13.48B |
 | 52W high | $116.66 | Revenue growth y/y | 5.90% |
 | 52W low | $84.72 | Inst. ownership | 98.20% |
 | P/E (ttm) | 27.58 | Insider ownership | 0.22% |

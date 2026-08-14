@@ -15,8 +15,8 @@ Signed file: `TRGP.research.14.08.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +69.60%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -2.98% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +68.96%; price +21.86% vs SMA200. |
+| Fresh setup quality | Watch | -2.98% from 52w high and near SMA20 — check for a tight base. |
 | Fundamental quality | Mixed | Profit margin 13.54%, revenue growth 4.20%. |
 | Value attractiveness | Fair-to-demanding | Forward P/E 22.96, EV/Sales 4.59. |
 | Risk level | Moderate | Beta 0.72, ATR 2.8% of price, short float 2.51%. |
@@ -45,20 +45,20 @@ Targa Resources Corp., together with its subsidiaries, owns, operates, acquires,
 | Technical item | Read |
 |---|---|
 | Price vs 52-week range | Close $275.79; 52w high $284.25 (-2.98%); 52w low $143.22 (+92.56%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 56.9 (neutral) |
-| Volatility | ATR(14) 7.64 (~2.8% of price); beta 0.72 |
-| Setup perspective | -2.98% from 52w high; no clean fresh pivot by default. |
+| Trend | +21.86% vs SMA200, +2.64% vs SMA50, +2.32% vs SMA20 |
+| Momentum | RSI(14) 55.8 (neutral) |
+| Volatility | ATR(14) 7.65 (~2.8% of price); beta 0.72 |
+| Setup perspective | -2.98% from 52w high and near SMA20 — check for a tight base. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
 | Week | +7.4% |
-| Month | -1.6% |
-| Quarter | +8.6% |
-| Half Y | +28.3% |
-| 1Y | +69.6% |
+| Month | -1.1% |
+| Quarter | +3.6% |
+| Half Y | +27.6% |
+| 1Y | +69.0% |
 | YTD | +49.8% |
 
 ## 4. Fundamental Analysis
@@ -114,11 +114,11 @@ Targa Resources Corp., together with its subsidiaries, owns, operates, acquires,
 | Price | $275.79 | EV/Sales | 4.59 |
 | Market cap | $59.14B | EV/EBITDA | 13.97 |
 | Beta | 0.72 | Gross margin | 43.19% |
-| RSI(14) | 56.9 | Operating margin | 27.80% |
-| ATR(14) | 7.64 | Profit margin | 13.54% |
-| SMA20 dist | +nan% | ROA | 9.24% |
-| SMA50 dist | +nan% | ROE | 70.84% |
-| SMA200 dist | +nan% | Revenue (ttm) | $16.74B |
+| RSI(14) | 55.8 | Operating margin | 27.80% |
+| ATR(14) | 7.65 | Profit margin | 13.54% |
+| SMA20 dist | +2.32% | ROA | 9.24% |
+| SMA50 dist | +2.64% | ROE | 70.84% |
+| SMA200 dist | +21.86% | Revenue (ttm) | $16.74B |
 | 52W high | $284.25 | Revenue growth y/y | 4.20% |
 | 52W low | $143.22 | Inst. ownership | 98.81% |
 | P/E (ttm) | 26.37 | Insider ownership | 1.37% |

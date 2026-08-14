@@ -15,11 +15,11 @@ Signed file: `TLN.research.14.08.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y -3.19%; price -0.43% vs SMA200. |
+| Technical momentum | Moderate | 1Y -4.70%; price -0.33% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -18.64% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Weak | Negative profit margin (-4.95%). |
 | Value attractiveness | Reasonable | Forward P/E 12.45, EV/Sales 7.09. |
-| Risk level | High | Beta 1.67, ATR 5.3% of price, short float 5.32%. |
+| Risk level | High | Beta 1.67, ATR 5.4% of price, short float 5.32%. |
 
 **Bottom line:** Moderate technical momentum, weak fundamentals, value: reasonable, risk: high.
 
@@ -45,20 +45,20 @@ Talen Energy Corporation, an independent power producer and infrastructure compa
 | Technical item | Read |
 |---|---|
 | Price vs 52-week range | Close $362.74; 52w high $445.84 (-18.64%); 52w low $302.97 (+19.73%) |
-| Trend | -0.43% vs SMA200, -2.49% vs SMA50, +2.91% vs SMA20 |
-| Momentum | RSI(14) 51.6 (neutral) |
-| Volatility | ATR(14) 19.30 (~5.3% of price); beta 1.67 |
+| Trend | -0.33% vs SMA200, -2.27% vs SMA50, +3.62% vs SMA20 |
+| Momentum | RSI(14) 52.2 (neutral) |
+| Volatility | ATR(14) 19.49 (~5.4% of price); beta 1.67 |
 | Setup perspective | -18.64% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +4.3% |
-| Month | -8.5% |
-| Quarter | -5.4% |
-| Half Y | +2.6% |
-| 1Y | -3.2% |
+| Week | +7.2% |
+| Month | -9.3% |
+| Quarter | +3.3% |
+| Half Y | +2.3% |
+| 1Y | -4.7% |
 | YTD | -8.6% |
 
 ## 4. Fundamental Analysis
@@ -95,7 +95,7 @@ Talen Energy Corporation, an independent power producer and infrastructure compa
 | Fred Alger Management, LLC | 1,185,953 | 2.01% | 2026-03-31 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.67, ATR 5.3% of price, short float 5.32%. Size positions accordingly.
+- **Volatility risk:** Beta 1.67, ATR 5.4% of price, short float 5.32%. Size positions accordingly.
 - **Short interest risk:** short float 5.32% can fuel squeezes both ways around news.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
@@ -115,11 +115,11 @@ Talen Energy Corporation, an independent power producer and infrastructure compa
 | Price | $362.74 | EV/Sales | 7.09 |
 | Market cap | $17.38B | EV/EBITDA | 45.60 |
 | Beta | 1.67 | Gross margin | 42.10% |
-| RSI(14) | 51.6 | Operating margin | -4.80% |
-| ATR(14) | 19.30 | Profit margin | -4.95% |
-| SMA20 dist | +2.91% | ROA | 0.92% |
-| SMA50 dist | -2.49% | ROE | -12.83% |
-| SMA200 dist | -0.43% | Revenue (ttm) | $3.74B |
+| RSI(14) | 52.2 | Operating margin | -4.80% |
+| ATR(14) | 19.49 | Profit margin | -4.95% |
+| SMA20 dist | +3.62% | ROA | 0.92% |
+| SMA50 dist | -2.27% | ROE | -12.83% |
+| SMA200 dist | -0.33% | Revenue (ttm) | $3.74B |
 | 52W high | $445.84 | Revenue growth y/y | 111.20% |
 | 52W low | $302.97 | Inst. ownership | 104.63% |
 | P/E (ttm) | — | Insider ownership | 1.36% |

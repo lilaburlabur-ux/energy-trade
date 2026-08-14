@@ -18,7 +18,7 @@ Signed file: `OXY.research.14.08.2026`
 | Technical momentum | Moderate | 1Y +33.11%; price +15.14% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -11.49% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 30.32%, revenue growth 53.40%. |
-| Value attractiveness | Reasonable | Forward P/E 14.67, EV/Sales 3.22. |
+| Value attractiveness | Reasonable | Forward P/E 14.83, EV/Sales 3.22. |
 | Risk level | Moderate | Beta 0.16, ATR 2.9% of price, short float 0.01%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate.
@@ -68,7 +68,7 @@ Occidental Petroleum Corporation, together with its subsidiaries, engages in the
 | Revenue (ttm) | $23.93B | Revenue growth 53.40% y/y |
 | Profitability | Gross 73.32%, operating 45.44%, net 30.32% | ROA 4.68%, ROE 10.63% |
 | Balance sheet | Cash $4.15B, debt $14.63B | Current ratio 1.41, debt/equity 34.51 |
-| Valuation | P/E 17.22, forward P/E 14.67, P/S 2.44, P/B 1.74 | EV/Sales 3.22, EV/EBITDA 5.62 |
+| Valuation | P/E 17.22, forward P/E 14.83, P/S 2.44, P/B 1.74 | EV/Sales 3.22, EV/EBITDA 5.62 |
 | Growth expectations | Earnings growth 964.90%, EPS q/q 550.00% | Analyst mean target $66.09 (23 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -120,7 +120,7 @@ Occidental Petroleum Corporation, together with its subsidiaries, engages in the
 | 52W high | $65.94 | Revenue growth y/y | 53.40% |
 | 52W low | $38.56 | Inst. ownership | 55.41% |
 | P/E (ttm) | 17.22 | Insider ownership | 26.81% |
-| Forward P/E | 14.67 | Short float | 0.01% |
+| Forward P/E | 14.83 | Short float | 0.01% |
 | PEG (trailing) | 1.07 | Avg volume | 9,883,743 |
 | P/S | 2.44 | Employees | 10,412 |
 | P/B | 1.74 | Analyst rec (1=buy..5=sell) | 2.3 |

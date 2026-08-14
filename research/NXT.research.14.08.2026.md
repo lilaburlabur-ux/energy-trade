@@ -15,7 +15,7 @@ Signed file: `NXT.research.14.08.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +88.61%; price -7.26% vs SMA200. |
+| Technical momentum | High | 1Y +86.18%; price -7.29% vs SMA200. |
 | Fresh setup quality | Poor / broken | -35.12% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 16.36%, revenue growth 8.20%. |
 | Value attractiveness | Reasonable | Forward P/E 17.55, EV/Sales 4.05. |
@@ -45,20 +45,20 @@ Nextpower Inc. provides solar and energy technology solutions for utility-scale 
 | Technical item | Read |
 |---|---|
 | Price vs 52-week range | Close $101.47; 52w high $156.40 (-35.12%); 52w low $53.99 (+87.94%) |
-| Trend | -7.26% vs SMA200, -9.36% vs SMA50, +1.40% vs SMA20 |
-| Momentum | RSI(14) 47.2 (neutral) |
-| Volatility | ATR(14) 6.55 (~6.5% of price); beta 1.95 |
+| Trend | -7.29% vs SMA200, -8.60% vs SMA50, +1.46% vs SMA20 |
+| Momentum | RSI(14) 47.6 (neutral) |
+| Volatility | ATR(14) 6.59 (~6.5% of price); beta 1.95 |
 | Setup perspective | -35.12% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -1.7% |
-| Month | -3.0% |
-| Quarter | -19.1% |
-| Half Y | -14.0% |
-| 1Y | +88.6% |
+| Week | +3.1% |
+| Month | -7.0% |
+| Quarter | -25.6% |
+| Half Y | -15.4% |
+| 1Y | +86.2% |
 | YTD | +9.4% |
 
 ## 4. Fundamental Analysis
@@ -115,11 +115,11 @@ Nextpower Inc. provides solar and energy technology solutions for utility-scale 
 | Price | $101.47 | EV/Sales | 4.05 |
 | Market cap | $15.59B | EV/EBITDA | 19.61 |
 | Beta | 1.95 | Gross margin | 22.98% |
-| RSI(14) | 47.2 | Operating margin | 20.86% |
-| ATR(14) | 6.55 | Profit margin | 16.36% |
-| SMA20 dist | +1.40% | ROA | 11.68% |
-| SMA50 dist | -9.36% | ROE | 27.22% |
-| SMA200 dist | -7.26% | Revenue (ttm) | $3.63B |
+| RSI(14) | 47.6 | Operating margin | 20.86% |
+| ATR(14) | 6.59 | Profit margin | 16.36% |
+| SMA20 dist | +1.46% | ROA | 11.68% |
+| SMA50 dist | -8.60% | ROE | 27.22% |
+| SMA200 dist | -7.29% | Revenue (ttm) | $3.63B |
 | 52W high | $156.40 | Revenue growth y/y | 8.20% |
 | 52W low | $53.99 | Inst. ownership | 105.51% |
 | P/E (ttm) | 26.22 | Insider ownership | 0.63% |

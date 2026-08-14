@@ -5,7 +5,7 @@ Signed file: `MPC.research.14.08.2026`
 | Field | Value |
 |---|---|
 | Current price | $355.42 (2026-08-14, ~15-min delayed) |
-| Market cap | $99.81B |
+| Market cap | $103.76B |
 | Sector / Industry | Energy / Oil & Gas Refining & Marketing |
 | Main theme | Oil & Gas Refining & Marketing — see catalysts below |
 | Current stance | High technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
@@ -68,8 +68,8 @@ Marathon Petroleum Corporation, together with its subsidiaries, operates as an i
 | Revenue (ttm) | $154.15B | Revenue growth 53.70% y/y |
 | Profitability | Gross 12.82%, operating 13.56%, net 5.55% | ROA 8.74%, ROE 42.10% |
 | Balance sheet | Cash $7.77B, debt $34.29B | Current ratio 1.25, debt/equity 133.33 |
-| Valuation | P/E 12.33, forward P/E 10.78, P/S 0.65, P/B 5.27 | EV/Sales 0.86, EV/EBITDA 8.65 |
-| Growth expectations | Earnings growth 348.00%, EPS q/q 322.50% | Analyst mean target $322.11 (18 analysts) |
+| Valuation | P/E 12.33, forward P/E 10.78, P/S 0.67, P/B 6.22 | EV/Sales 0.86, EV/EBITDA 8.65 |
+| Growth expectations | Earnings growth 348.00%, EPS q/q 322.50% | Analyst mean target $317.72 (18 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
@@ -112,7 +112,7 @@ Marathon Petroleum Corporation, together with its subsidiaries, operates as an i
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $355.42 | EV/Sales | 0.86 |
-| Market cap | $99.81B | EV/EBITDA | 8.65 |
+| Market cap | $103.76B | EV/EBITDA | 8.65 |
 | Beta | 0.51 | Gross margin | 12.82% |
 | RSI(14) | 74.4 | Operating margin | 13.56% |
 | ATR(14) | 11.63 | Profit margin | 5.55% |
@@ -124,8 +124,8 @@ Marathon Petroleum Corporation, together with its subsidiaries, operates as an i
 | P/E (ttm) | 12.33 | Insider ownership | 0.33% |
 | Forward P/E | 10.78 | Short float | 2.81% |
 | PEG (trailing) | 1.59 | Avg volume | 2,339,938 |
-| P/S | 0.65 | Employees | 18,500 |
-| P/B | 5.27 | Analyst rec (1=buy..5=sell) | 2.3 |
+| P/S | 0.67 | Employees | 18,500 |
+| P/B | 6.22 | Analyst rec (1=buy..5=sell) | 2.2 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

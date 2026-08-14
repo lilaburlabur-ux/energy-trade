@@ -1,5 +1,5 @@
 # EQT Research Report
-**EQT Corp** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**EQT Corporation** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `EQT.research.14.08.2026`
 
 | Field | Value |
@@ -18,7 +18,7 @@ Signed file: `EQT.research.14.08.2026`
 | Technical momentum | Low | Below SMA200 (-2.81%) with negative half-year (-3.99%). |
 | Fresh setup quality | Moderate / wait | -19.41% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 29.18%, revenue growth -3.90%. |
-| Value attractiveness | Reasonable | Forward P/E 13.65, EV/Sales 4.62. |
+| Value attractiveness | Reasonable | Forward P/E 13.69, EV/Sales 4.62. |
 | Risk level | Moderate | Beta 0.58, ATR 2.4% of price, short float 3.32%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -68,8 +68,8 @@ EQT Corporation engages in the exploration, production, gathering, and transmiss
 | Revenue (ttm) | $9.29B | Revenue growth -3.90% y/y |
 | Profitability | Gross 80.75%, operating 23.37%, net 29.18% | ROA 6.63%, ROE 11.08% |
 | Balance sheet | Cash $112.86M, debt $5.66B | Current ratio 0.67, debt/equity 19.59 |
-| Valuation | P/E 12.63, forward P/E 13.65, P/S 3.66, P/B 1.35 | EV/Sales 4.62, EV/EBITDA 6.14 |
-| Growth expectations | Earnings growth -74.00%, EPS q/q -73.00% | Analyst mean target $67.68 (25 analysts) |
+| Valuation | P/E 12.63, forward P/E 13.69, P/S 3.66, P/B 1.35 | EV/Sales 4.62, EV/EBITDA 6.14 |
+| Growth expectations | Earnings growth -74.00%, EPS q/q -73.00% | Analyst mean target $67.76 (25 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
@@ -120,7 +120,7 @@ EQT Corporation engages in the exploration, production, gathering, and transmiss
 | 52W high | $67.53 | Revenue growth y/y | -3.90% |
 | 52W low | $48.62 | Inst. ownership | 94.79% |
 | P/E (ttm) | 12.63 | Insider ownership | 0.79% |
-| Forward P/E | 13.65 | Short float | 3.32% |
+| Forward P/E | 13.69 | Short float | 3.32% |
 | PEG (trailing) | 1.54 | Avg volume | 7,213,422 |
 | P/S | 3.66 | Employees | 1,523 |
 | P/B | 1.35 | Analyst rec (1=buy..5=sell) | 1.5 |

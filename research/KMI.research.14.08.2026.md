@@ -1,11 +1,11 @@
 # KMI Research Report
-**Kinder Morgan** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**Kinder Morgan, Inc.** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `KMI.research.14.08.2026`
 
 | Field | Value |
 |---|---|
 | Current price | $32.82 (2026-08-14, ~15-min delayed) |
-| Market cap | $73.08B |
+| Market cap | $73.02B |
 | Sector / Industry | Energy / Oil & Gas Midstream |
 | Main theme | Oil & Gas Midstream — see catalysts below |
 | Current stance | Moderate technical momentum, strong fundamentals, value: fair-to-demanding, risk: moderate. |
@@ -36,10 +36,10 @@ Kinder Morgan, Inc. operates as an energy infrastructure company primarily in No
 
 | Headline | Source | Date |
 |---|---|---|
+| S&P 500 Ekes Out Weekly Gain Amid Growing Probability of Fed Pause Extension | MT Newswires | 2026-08-14 |
 | CRC Q2 Earnings Miss on Takeaway Constraints, Revenues Beat | Zacks | 2026-08-14 |
 | The Global Gas Market Has Shifted. Now Wall Street Loves These 5 Energy Stocks For August | 24/7 Wall St. | 2026-08-14 |
 | PSX, KMI & DINO Advance $5B Western Gateway Pipeline Project | Zacks | 2026-08-14 |
-| 3 High-Yield Dividend Stocks Under $30 to Buy in August | 24/7 Wall St. | 2026-08-14 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -112,7 +112,7 @@ Kinder Morgan, Inc. operates as an energy infrastructure company primarily in No
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $32.82 | EV/Sales | 5.85 |
-| Market cap | $73.08B | EV/EBITDA | 13.76 |
+| Market cap | $73.02B | EV/EBITDA | 13.76 |
 | Beta | 0.55 | Gross margin | 49.41% |
 | RSI(14) | 62.2 | Operating margin | 30.06% |
 | ATR(14) | 0.67 | Profit margin | 19.30% |
