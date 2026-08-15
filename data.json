@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-08-15T01:10:44+00:00",
-  "as_of_local": "2026-08-15 01:10:44 UTC",
+  "as_of_utc": "2026-08-15T02:20:07+00:00",
+  "as_of_local": "2026-08-15 02:20:07 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -94,7 +94,7 @@
       "price": 90.47,
       "previous_close": 89.14,
       "change_pct": 1.49,
-      "market_cap": 249876659573.092,
+      "market_cap": 249803470337.27448,
       "headlines": [
         {
           "title": "Sector Update: Energy Stocks Rise Friday",
@@ -150,7 +150,7 @@
       "price": 86.19,
       "previous_close": 86.01,
       "change_pct": 0.21,
-      "market_cap": 179758330897.82996,
+      "market_cap": 179790466926.43024,
       "headlines": [
         {
           "title": "PCG Passed Our Value-Trap Test. Now What?",
@@ -178,7 +178,7 @@
       "price": 451.51,
       "previous_close": 453.33,
       "change_pct": -0.4,
-      "market_cap": 175321336791.9922,
+      "market_cap": 175366487792.96875,
       "headlines": [
         {
           "title": "Better AI Infrastructure Stock: Vertiv vs. Eaton",
@@ -260,8 +260,8 @@
       "symbol": "BP",
       "name": "BP",
       "price": 42.53,
-      "previous_close": 42.83,
-      "change_pct": -0.7,
+      "previous_close": 42.31,
+      "change_pct": 0.52,
       "market_cap": 109529304364.91162,
       "headlines": [
         {
@@ -313,34 +313,6 @@
       ]
     },
     {
-      "symbol": "MPC",
-      "name": "Marathon Petroleum",
-      "price": 355.42,
-      "previous_close": 356.37,
-      "change_pct": -0.27,
-      "market_cap": 103760122731.74759,
-      "headlines": [
-        {
-          "title": "Sector Update: Energy Stocks Rise Friday",
-          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-rise-friday-200618620.html",
-          "publisher": "MT Newswires",
-          "published": "2026-08-14T20:06:18Z"
-        },
-        {
-          "title": "Record Profits For Refiners. These 5 Oil Stocks Are Worthy Bets.",
-          "url": "https://www.investors.com/news/oil-stocks-record-profits-refiners/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-08-14T19:46:40Z"
-        },
-        {
-          "title": "Sector Update: Energy Stocks Rise Friday Afternoon",
-          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-rise-friday-175402569.html",
-          "publisher": "MT Newswires",
-          "published": "2026-08-14T17:54:02Z"
-        }
-      ]
-    },
-    {
       "symbol": "PWR",
       "name": "Quanta Services",
       "price": 685.78,
@@ -348,6 +320,12 @@
       "change_pct": 1.93,
       "market_cap": 103102496456.13159,
       "headlines": [
+        {
+          "title": "Will New Long-Term Debt and Stronger Free Cash Flow Outlook Change Quanta Services' (PWR) Narrative",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/long-term-debt-stronger-free-020932636.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-08-15T02:09:32Z"
+        },
         {
           "title": "Can Quanta Services (PWR) Run Higher on Rising Earnings Estimates?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/quanta-services-pwr-run-higher-162002441.html",
@@ -359,12 +337,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/dycom-stock-21-2-date-161700085.html",
           "publisher": "Zacks",
           "published": "2026-08-14T16:17:00Z"
-        },
-        {
-          "title": "Can MasTec's $21.4B Backlog Strengthen Revenue Visibility Ahead?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/mastecs-21-4b-backlog-strengthen-145400320.html",
-          "publisher": "Zacks",
-          "published": "2026-08-14T14:54:00Z"
         }
       ]
     },
@@ -393,6 +365,34 @@
           "url": "https://www.wsj.com/business/energy-oil/red-hot-power-stocks-are-losing-steam-a4677f03?siteid=yhoof2&yptr=yahoo",
           "publisher": "The Wall Street Journal",
           "published": "2026-08-12T09:30:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "MPC",
+      "name": "Marathon Petroleum",
+      "price": 355.42,
+      "previous_close": 356.37,
+      "change_pct": -0.27,
+      "market_cap": 99810741036.30032,
+      "headlines": [
+        {
+          "title": "Sector Update: Energy Stocks Rise Friday",
+          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-rise-friday-200618620.html",
+          "publisher": "MT Newswires",
+          "published": "2026-08-14T20:06:18Z"
+        },
+        {
+          "title": "Record Profits For Refiners. These 5 Oil Stocks Are Worthy Bets.",
+          "url": "https://www.investors.com/news/oil-stocks-record-profits-refiners/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-08-14T19:46:40Z"
+        },
+        {
+          "title": "Sector Update: Energy Stocks Rise Friday Afternoon",
+          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-rise-friday-175402569.html",
+          "publisher": "MT Newswires",
+          "published": "2026-08-14T17:54:02Z"
         }
       ]
     },
@@ -428,9 +428,9 @@
       "symbol": "EQNR",
       "name": "Equinor",
       "price": 40.77,
-      "previous_close": 40.54,
-      "change_pct": 0.57,
-      "market_cap": 96824017404.74557,
+      "previous_close": 40.15,
+      "change_pct": 1.54,
+      "market_cap": 96814361763.99716,
       "headlines": [
         {
           "title": "European Equities Traded in the US as American Depositary Receipts Track Lower in Friday Trading",
@@ -456,8 +456,8 @@
       "symbol": "DUK",
       "name": "Duke Energy",
       "price": 123.92,
-      "previous_close": 124.49,
-      "change_pct": -0.46,
+      "previous_close": 123.4,
+      "change_pct": 0.42,
       "market_cap": 96620694328.88264,
       "headlines": [
         {
@@ -626,7 +626,7 @@
       "price": 142.61,
       "previous_close": 141.41,
       "change_pct": 0.85,
-      "market_cap": 75958154988.39066,
+      "market_cap": 74803106109.5072,
       "headlines": [
         {
           "title": "SM Energy Slides 11.2% in One Week: Could the Dip Be an Opportunity?",
@@ -822,7 +822,7 @@
       "price": 94.99,
       "previous_close": 92.64,
       "change_pct": 2.54,
-      "market_cap": 59846819265.584625,
+      "market_cap": 59878813321.71511,
       "headlines": [
         {
           "title": "This Boring Pipeline Stock Just Signed a Deal to Power AI Data Centers",
@@ -1074,7 +1074,7 @@
       "price": 76.04,
       "previous_close": 75.93,
       "change_pct": 0.14,
-      "market_cap": 37892359864.30687,
+      "market_cap": 37899859537.517166,
       "headlines": [
         {
           "title": "Do Wall Street Analysts Like Public Service Enterprise Stock?",
@@ -1494,7 +1494,7 @@
       "price": 34.75,
       "previous_close": 35.23,
       "change_pct": -1.36,
-      "market_cap": 10538839783.75,
+      "market_cap": 10428879003.5,
       "headlines": [
         {
           "title": "The AI-adjacent portfolio: Six Canadian stocks that could benefit from the AI buildout",
@@ -1634,7 +1634,7 @@
       "price": 11.21,
       "previous_close": 11.19,
       "change_pct": 0.18,
-      "market_cap": 5495374996.130439,
+      "market_cap": 5547519241.737883,
       "headlines": [
         {
           "title": "Insider Sheds Over 55,000 Shares of North American Uranium Stock",
@@ -1662,7 +1662,7 @@
       "price": 40.48,
       "previous_close": 40.78,
       "change_pct": -0.74,
-      "market_cap": 5335191885.267563,
+      "market_cap": 5349215290.548981,
       "headlines": [
         {
           "title": "Redwire, Enphase, Core & Main, Republic Services, and Owens Corning Stocks Trade Up, What You Need To Know",
