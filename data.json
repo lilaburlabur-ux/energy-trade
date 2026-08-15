@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-08-15T20:33:47+00:00",
-  "as_of_local": "2026-08-15 20:33:47 UTC",
+  "as_of_utc": "2026-08-15T21:00:12+00:00",
+  "as_of_local": "2026-08-15 21:00:12 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "UEC"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1627,6 +1625,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/weatherford-wfrd-stock-looks-fairly-060929539.html",
           "publisher": "Simply Wall St.",
           "published": "2026-07-23T06:09:29Z"
+        }
+      ]
+    },
+    {
+      "symbol": "UEC",
+      "name": "Uranium Energy Corp",
+      "price": 11.21,
+      "previous_close": 11.19,
+      "change_pct": 0.18,
+      "market_cap": 5547519241.737883,
+      "headlines": [
+        {
+          "title": "Insider Sheds Over 55,000 Shares of North American Uranium Stock",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/insider-sheds-over-55-000-132501217.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-11T13:25:01Z"
+        },
+        {
+          "title": "Prediction: $1,000 in Uranium Energy Corp Will Be Worth This Much in 5 Years",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-1-000-uranium-energy-232500610.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-10T23:25:00Z"
+        },
+        {
+          "title": "Uranium Energy vs. Oklo: Which Nuclear Fuel Play Wins in 2026?",
+          "url": "https://finance.yahoo.com/energy/articles/uranium-energy-vs-oklo-nuclear-202500894.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-10T20:25:00Z"
         }
       ]
     },
