@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-08-16T14:22:01+00:00",
-  "as_of_local": "2026-08-16 14:22:01 UTC",
+  "as_of_utc": "2026-08-16T14:49:16+00:00",
+  "as_of_local": "2026-08-16 14:49:16 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -41,6 +41,12 @@
       "market_cap": 392320654800.0,
       "headlines": [
         {
+          "title": "2 Dow Jones Stocks to Target This Week and 1 We Avoid",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/2-dow-jones-stocks-target-144500619.html",
+          "publisher": "StockStory",
+          "published": "2026-08-16T14:45:00Z"
+        },
+        {
           "title": "PSX, MPC Reportedly Weighed A Giant Merger \u2014 What Sank The $180B Deal Between Phillips 66 And Marathon Petroleum",
           "url": "https://finance.yahoo.com/markets/stocks/articles/psx-mpc-reportedly-weighed-giant-172446341.html",
           "publisher": "Stocktwits",
@@ -51,12 +57,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/golar-lng-q2-earnings-revenues-154800799.html",
           "publisher": "Zacks",
           "published": "2026-08-14T15:48:00Z"
-        },
-        {
-          "title": "\u201cI Think You Have a Winner\u201d Cramer Excited About Hess Midstream\u2019s 7% Dividend Yield",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/think-winner-cramer-excited-hess-131002515.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-08-14T13:10:02Z"
         }
       ]
     },
@@ -150,7 +150,7 @@
       "price": 86.19,
       "previous_close": 86.01,
       "change_pct": 0.21,
-      "market_cap": 179790466926.43024,
+      "market_cap": 179758330897.82996,
       "headlines": [
         {
           "title": "3 Nuclear Energy Stocks Riding the AI Power Surge in August",
@@ -178,7 +178,7 @@
       "price": 451.51,
       "previous_close": 453.33,
       "change_pct": -0.4,
-      "market_cap": 175366487792.96875,
+      "market_cap": 175321336791.9922,
       "headlines": [
         {
           "title": "Infleqtion (INFQ) Lands Quantum Grid Reliability Subcontract",
@@ -313,6 +313,34 @@
       ]
     },
     {
+      "symbol": "MPC",
+      "name": "Marathon Petroleum",
+      "price": 355.42,
+      "previous_close": 356.37,
+      "change_pct": -0.27,
+      "market_cap": 103760122731.74759,
+      "headlines": [
+        {
+          "title": "Sector Update: Energy Stocks Rise Friday",
+          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-rise-friday-200618620.html",
+          "publisher": "MT Newswires",
+          "published": "2026-08-14T20:06:18Z"
+        },
+        {
+          "title": "Record Profits For Refiners. These 5 Oil Stocks Are Worthy Bets.",
+          "url": "https://www.investors.com/news/oil-stocks-record-profits-refiners/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-08-14T19:46:40Z"
+        },
+        {
+          "title": "Sector Update: Energy Stocks Rise Friday Afternoon",
+          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-rise-friday-175402569.html",
+          "publisher": "MT Newswires",
+          "published": "2026-08-14T17:54:02Z"
+        }
+      ]
+    },
+    {
       "symbol": "PWR",
       "name": "Quanta Services",
       "price": 685.78,
@@ -369,34 +397,6 @@
       ]
     },
     {
-      "symbol": "MPC",
-      "name": "Marathon Petroleum",
-      "price": 355.42,
-      "previous_close": 356.37,
-      "change_pct": -0.27,
-      "market_cap": 99810741036.30032,
-      "headlines": [
-        {
-          "title": "Sector Update: Energy Stocks Rise Friday",
-          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-rise-friday-200618620.html",
-          "publisher": "MT Newswires",
-          "published": "2026-08-14T20:06:18Z"
-        },
-        {
-          "title": "Record Profits For Refiners. These 5 Oil Stocks Are Worthy Bets.",
-          "url": "https://www.investors.com/news/oil-stocks-record-profits-refiners/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-08-14T19:46:40Z"
-        },
-        {
-          "title": "Sector Update: Energy Stocks Rise Friday Afternoon",
-          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-rise-friday-175402569.html",
-          "publisher": "MT Newswires",
-          "published": "2026-08-14T17:54:02Z"
-        }
-      ]
-    },
-    {
       "symbol": "VLO",
       "name": "Valero Energy",
       "price": 341.67,
@@ -430,7 +430,7 @@
       "price": 40.77,
       "previous_close": 40.15,
       "change_pct": 1.54,
-      "market_cap": 96814361763.99716,
+      "market_cap": 96824017404.74557,
       "headlines": [
         {
           "title": "European Equities Traded in the US as American Depositary Receipts Track Lower in Friday Trading",
@@ -626,7 +626,7 @@
       "price": 142.61,
       "previous_close": 141.41,
       "change_pct": 0.85,
-      "market_cap": 74803106109.5072,
+      "market_cap": 75958154988.39066,
       "headlines": [
         {
           "title": "SM Energy Slides 11.2% in One Week: Could the Dip Be an Opportunity?",
@@ -713,6 +713,12 @@
       "market_cap": 67723618658.3009,
       "headlines": [
         {
+          "title": "Bloom Energy Stock Has Surged 150% in 2026. Is It Still a Buy?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-stock-surged-150-142500309.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-16T14:25:00Z"
+        },
+        {
           "title": "Dow Jones Futures: Nvidia Leads 5 Stocks In Buy Areas, Walmart Due; Market Ready To Run?",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-run-sandisk-soars-nvidia-buy-walmart-target/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
@@ -723,12 +729,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/nebius-just-gave-bloom-energy-140002956.html",
           "publisher": "Barchart",
           "published": "2026-08-15T14:00:02Z"
-        },
-        {
-          "title": "Why We\u2019re Betting $10,000 on This Supplier Behind the SpaceX Data Center Boom",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-betting-10-000-supplier-133134101.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-08-15T13:31:34Z"
         }
       ]
     },
@@ -822,7 +822,7 @@
       "price": 94.99,
       "previous_close": 92.64,
       "change_pct": 2.54,
-      "market_cap": 59878813321.71511,
+      "market_cap": 59846819265.584625,
       "headlines": [
         {
           "title": "This Boring Pipeline Stock Just Signed a Deal to Power AI Data Centers",
@@ -1074,7 +1074,7 @@
       "price": 76.04,
       "previous_close": 75.93,
       "change_pct": 0.14,
-      "market_cap": 37899859537.517166,
+      "market_cap": 37892359864.30687,
       "headlines": [
         {
           "title": "Do Wall Street Analysts Like Public Service Enterprise Stock?",
@@ -1494,7 +1494,7 @@
       "price": 34.75,
       "previous_close": 35.23,
       "change_pct": -1.36,
-      "market_cap": 10428879003.5,
+      "market_cap": 10538839783.75,
       "headlines": [
         {
           "title": "The AI-adjacent portfolio: Six Canadian stocks that could benefit from the AI buildout",
@@ -1634,7 +1634,7 @@
       "price": 11.21,
       "previous_close": 11.19,
       "change_pct": 0.18,
-      "market_cap": 5547519241.737883,
+      "market_cap": 5495374996.130439,
       "headlines": [
         {
           "title": "Insider Sheds Over 55,000 Shares of North American Uranium Stock",
@@ -1662,7 +1662,7 @@
       "price": 40.48,
       "previous_close": 40.78,
       "change_pct": -0.74,
-      "market_cap": 5349215290.548981,
+      "market_cap": 5335191885.267563,
       "headlines": [
         {
           "title": "Redwire, Enphase, Core & Main, Republic Services, and Owens Corning Stocks Trade Up, What You Need To Know",
