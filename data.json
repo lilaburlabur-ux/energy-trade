@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-08-16T15:21:02+00:00",
-  "as_of_local": "2026-08-16 15:21:02 UTC",
+  "as_of_utc": "2026-08-16T15:47:32+00:00",
+  "as_of_local": "2026-08-16 15:47:32 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "OKLO"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1023,6 +1021,12 @@
       "market_cap": 49717643074.193726,
       "headlines": [
         {
+          "title": "Vistra (VST) Stock Looks Above Fair Value On Earnings Yet Supported By Demand",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-vst-stock-looks-above-150910618.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-08-16T15:09:10Z"
+        },
+        {
           "title": "Peter Thiel\u2019s Second-Biggest Bet is Not a Tech Stock Anymore",
           "url": "https://finance.yahoo.com/energy/articles/peter-thiel-second-biggest-bet-112439947.html",
           "publisher": "BeInCrypto",
@@ -1033,12 +1037,6 @@
           "url": "https://finance.yahoo.com/energy/articles/3-nuclear-energy-stocks-riding-110022153.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-08-16T11:00:22Z"
-        },
-        {
-          "title": "Billionaire Peter Thiel buys 1% stake in Argentine Vaca Muerta oil firm, filing shows",
-          "url": "https://finance.yahoo.com/energy/articles/billionaire-peter-thiel-buys-1-013411129.html",
-          "publisher": "Reuters",
-          "published": "2026-08-16T01:34:11Z"
         }
       ]
     },
@@ -1515,6 +1513,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/strong-sell-stocks-august-4th-093500523.html",
           "publisher": "Zacks",
           "published": "2026-08-04T09:35:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "OKLO",
+      "name": "Oklo",
+      "price": 44.38,
+      "previous_close": 46.45,
+      "change_pct": -4.46,
+      "market_cap": 8255463505.688286,
+      "headlines": [
+        {
+          "title": "Everyone's Watching Oklo and NuScale for Nuclear Exposure. This Overlooked Stock Is Building One Too.",
+          "url": "https://finance.yahoo.com/energy/articles/everyones-watching-oklo-nuscale-nuclear-170500813.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-15T17:05:00Z"
+        },
+        {
+          "title": "SCHG vs QQQ vs VUG: We Compared the Three Biggest Growth ETFs and One Is the Clear Winner for the Next Decade",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/schg-vs-qqq-vs-vug-121711599.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-08-15T12:17:11Z"
+        },
+        {
+          "title": "Could $5,000 in This Nuclear Stock Turn Into a Life-Changing Sum?",
+          "url": "https://finance.yahoo.com/energy/articles/could-5-000-nuclear-stock-070500394.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-15T07:05:00Z"
         }
       ]
     },
