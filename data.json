@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-08-17T12:17:30+00:00",
-  "as_of_local": "2026-08-17 12:17:30 UTC",
+  "as_of_utc": "2026-08-17T13:00:40+00:00",
+  "as_of_local": "2026-08-17 13:00:40 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -237,6 +237,12 @@
       "market_cap": 113124923344.4512,
       "headlines": [
         {
+          "title": "Vertiv (VRT) Stock Could Be 11% Overvalued After Fraud Probe News",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/vertiv-vrt-stock-could-11-120936867.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-08-17T12:09:36Z"
+        },
+        {
           "title": "EMCOR and Thor Industries have been highlighted as Zacks Bull and Bear of the Day",
           "url": "https://finance.yahoo.com/markets/stocks/articles/emcor-thor-industries-highlighted-zacks-084100302.html",
           "publisher": "Zacks",
@@ -247,12 +253,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/ai-infrastructure-stocks-billions-reasons-221200697.html",
           "publisher": "Zacks",
           "published": "2026-08-14T22:12:00Z"
-        },
-        {
-          "title": "Bloom Energy Stock Has Exploded. Here\u2019s What Could Drive It Even Higher.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-stock-exploded-could-170013154.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-08-14T17:00:13Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 82.4,
-      "change_pct": 0.0
+      "price": 83.01,
+      "change_pct": 0.74
     },
     {
       "label": "Brent",
-      "price": 88.76,
-      "change_pct": 0.27
+      "price": 89.36,
+      "change_pct": 0.95
     },
     {
       "label": "NatGas",
-      "price": 2.66,
-      "change_pct": -2.71
+      "price": 2.68,
+      "change_pct": -2.09
     }
   ]
 }
