@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-08-17T23:22:46+00:00",
-  "as_of_local": "2026-08-17 23:22:46 UTC",
+  "as_of_utc": "2026-08-17T23:26:13+00:00",
+  "as_of_local": "2026-08-17 23:26:13 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "FLNC"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1827,6 +1825,34 @@
       ]
     },
     {
+      "symbol": "FLNC",
+      "name": "Fluence Energy",
+      "price": 12.63,
+      "previous_close": 13.14,
+      "change_pct": -3.88,
+      "market_cap": 1677409133.8990688,
+      "headlines": [
+        {
+          "title": "Fluence Energy (FLNC) Q3 2026 Earnings Call Transcript",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/fluence-energy-flnc-q3-2026-010247993.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-13T01:02:47Z"
+        },
+        {
+          "title": "FLNC Q2 2026 Deep Dive: Production Delays and Guidance Revision Amid Record Backlog Growth",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/flnc-q2-2026-deep-dive-190922185.html",
+          "publisher": "StockStory",
+          "published": "2026-08-11T19:09:22Z"
+        },
+        {
+          "title": "FLNC Q3 Earnings Call Highlights Supply Delays, Data Center Demand",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/flnc-q3-earnings-call-highlights-140000316.html",
+          "publisher": "Zacks",
+          "published": "2026-08-10T14:00:00Z"
+        }
+      ]
+    },
+    {
       "symbol": "EOSE",
       "name": "Eos Energy",
       "price": 3.93,
@@ -2089,8 +2115,8 @@
     },
     {
       "label": "WTI",
-      "price": 85.04,
-      "change_pct": 3.2
+      "price": 85.02,
+      "change_pct": 3.18
     },
     {
       "label": "Brent",
@@ -2100,7 +2126,7 @@
     {
       "label": "NatGas",
       "price": 2.7,
-      "change_pct": -1.21
+      "change_pct": -1.24
     }
   ]
 }
