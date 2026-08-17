@@ -1,10 +1,43 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-17T23:00:09+00:00",
+  "as_of": "2026-08-17T23:26:37+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": []
+ "hot_tickers": [
+  {
+   "rank": 1,
+   "ticker": "PWR",
+   "company": "Quanta Services, Inc.",
+   "move_pct": 5.63,
+   "price": 724.4,
+   "volume": 1201695,
+   "volume_vs_avg": "~1.1x",
+   "heat_score": 40,
+   "direction": "up",
+   "why": "How To Bank 16% A Year On PWR Stock Without Selling A Share",
+   "catalyst_type": "regulatory",
+   "source_url": "https://finance.yahoo.com/markets/options/articles/bank-16-pwr-stock-without-222629757.html",
+   "published": "2026-08-17T22:26:29Z",
+   "sector": "Grid, Storage & Electrification"
+  },
+  {
+   "rank": 2,
+   "ticker": "NXE",
+   "company": "Nexgen Energy Ltd.",
+   "move_pct": 5.77,
+   "price": 10.99,
+   "volume": 14809308,
+   "volume_vs_avg": "~3x",
+   "heat_score": 36,
+   "direction": "up",
+   "why": "Moving up 5.8% on ~3x average volume with no fresh headline this cycle \u2014 attention without a story.",
+   "catalyst_type": "no_news_mover",
+   "source_url": "",
+   "published": "",
+   "sector": "Nuclear & Uranium"
+  }
+ ]
 }
