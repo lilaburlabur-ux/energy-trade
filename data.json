@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-08-17T22:24:03+00:00",
-  "as_of_local": "2026-08-17 22:24:03 UTC",
+  "as_of_utc": "2026-08-17T22:46:06+00:00",
+  "as_of_local": "2026-08-17 22:46:06 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -377,6 +377,12 @@
       "market_cap": 99965535887.5379,
       "headlines": [
         {
+          "title": "4 Refining Stocks to Buy as Gas Prices Top $4 a Gallon",
+          "url": "https://finance.yahoo.com/energy/articles/4-refining-stocks-buy-gas-213400182.html",
+          "publisher": "Zacks",
+          "published": "2026-08-17T21:34:00Z"
+        },
+        {
           "title": "Earnings Estimates Moving Higher for Valero Energy (VLO): Time to Buy?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/earnings-estimates-moving-higher-valero-162003164.html",
           "publisher": "Zacks",
@@ -387,12 +393,6 @@
           "url": "https://finance.yahoo.com/energy/articles/ypf-e-xrg-advance-argentina-151300666.html",
           "publisher": "Zacks",
           "published": "2026-08-17T15:13:00Z"
-        },
-        {
-          "title": "Hawaii Renewable Fuels Ramp-Up to Drive PARR's Long-Term Growth",
-          "url": "https://finance.yahoo.com/energy/articles/hawaii-renewable-fuels-ramp-drive-141000227.html",
-          "publisher": "Zacks",
-          "published": "2026-08-17T14:10:00Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 85.31,
-      "change_pct": 3.53
+      "price": 85.1,
+      "change_pct": 3.28
     },
     {
       "label": "Brent",
-      "price": 91.37,
-      "change_pct": 3.22
+      "price": 91.21,
+      "change_pct": 3.04
     },
     {
       "label": "NatGas",
       "price": 2.7,
-      "change_pct": -1.13
+      "change_pct": -1.17
     }
   ]
 }
