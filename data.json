@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-08-17T09:09:35+00:00",
-  "as_of_local": "2026-08-17 09:09:35 UTC",
+  "as_of_utc": "2026-08-17T09:54:45+00:00",
+  "as_of_local": "2026-08-17 09:54:45 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -1497,6 +1497,12 @@
       "market_cap": 10538839783.75,
       "headlines": [
         {
+          "title": "Brookfield, La Caisse close $6.5bn Boralex acquisition",
+          "url": "https://finance.yahoo.com/energy/articles/brookfield-la-caisse-close-6-091903622.html",
+          "publisher": "Power Technology",
+          "published": "2026-08-17T09:19:03Z"
+        },
+        {
           "title": "The AI-adjacent portfolio: Six Canadian stocks that could benefit from the AI buildout",
           "url": "https://finance.yahoo.com/news/ai-adjacent-portfolio-six-canadians-194519162.html",
           "publisher": "Financial Post",
@@ -1507,12 +1513,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/cameco-gains-7-despite-q2-171800118.html",
           "publisher": "Zacks",
           "published": "2026-08-06T17:18:00Z"
-        },
-        {
-          "title": "New Strong Sell Stocks for August 4th",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/strong-sell-stocks-august-4th-093500523.html",
-          "publisher": "Zacks",
-          "published": "2026-08-04T09:35:00Z"
         }
       ]
     },
@@ -1525,6 +1525,12 @@
       "market_cap": 8255463505.688286,
       "headlines": [
         {
+          "title": "Oklo (OKLO) Stock Trades At A Premium On Book Value Despite 351% Returns",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/oklo-oklo-stock-trades-premium-091059683.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-08-17T09:10:59Z"
+        },
+        {
           "title": "Everyone's Watching Oklo and NuScale for Nuclear Exposure. This Overlooked Stock Is Building One Too.",
           "url": "https://finance.yahoo.com/energy/articles/everyones-watching-oklo-nuscale-nuclear-170500813.html",
           "publisher": "Motley Fool",
@@ -1535,12 +1541,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/schg-vs-qqq-vs-vug-121711599.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-08-15T12:17:11Z"
-        },
-        {
-          "title": "Could $5,000 in This Nuclear Stock Turn Into a Life-Changing Sum?",
-          "url": "https://finance.yahoo.com/energy/articles/could-5-000-nuclear-stock-070500394.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-15T07:05:00Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 82.3,
-      "change_pct": -0.12
+      "price": 82.82,
+      "change_pct": 0.51
     },
     {
       "label": "Brent",
-      "price": 88.96,
-      "change_pct": 0.5
+      "price": 89.39,
+      "change_pct": 0.98
     },
     {
       "label": "NatGas",
-      "price": 2.65,
-      "change_pct": -3.18
+      "price": 2.64,
+      "change_pct": -3.26
     }
   ]
 }
