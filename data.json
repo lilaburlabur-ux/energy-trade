@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-08-17T23:48:17+00:00",
-  "as_of_local": "2026-08-17 23:48:17 UTC",
+  "as_of_utc": "2026-08-17T23:58:21+00:00",
+  "as_of_local": "2026-08-17 23:58:21 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -41,6 +41,12 @@
       "market_cap": 397616977653.4619,
       "headlines": [
         {
+          "title": "U.S. Shale Majors Cut Spending Despite Higher Oil Prices",
+          "url": "https://finance.yahoo.com/energy/articles/u-shale-majors-cut-spending-230000849.html",
+          "publisher": "Oilprice.com",
+          "published": "2026-08-17T23:00:00Z"
+        },
+        {
           "title": "Stock Market Today: Dow Falls As This Key Yield Hits 19-Year High; Warren Buffett Stock Falls (Live Coverage)",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-micron-stock-sandisk-stock-sndk/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
@@ -51,12 +57,6 @@
           "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-gain-afternoon-195324148.html",
           "publisher": "MT Newswires",
           "published": "2026-08-17T19:53:24Z"
-        },
-        {
-          "title": "Chevron (CVX) Discovers New Oil And Gas Condensate In Angola Block 0",
-          "url": "https://finance.yahoo.com/energy/articles/chevron-cvx-discovers-oil-gas-190928592.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-08-17T19:09:28Z"
         }
       ]
     },
@@ -209,6 +209,12 @@
       "market_cap": 155405580558.5694,
       "headlines": [
         {
+          "title": "U.S. Shale Majors Cut Spending Despite Higher Oil Prices",
+          "url": "https://finance.yahoo.com/energy/articles/u-shale-majors-cut-spending-230000849.html",
+          "publisher": "Oilprice.com",
+          "published": "2026-08-17T23:00:00Z"
+        },
+        {
           "title": "ConocoPhillips's Dividend Analysis",
           "url": "https://finance.yahoo.com/markets/stocks/articles/conocophillipss-dividend-analysis-110158967.html",
           "publisher": "GuruFocus.com",
@@ -219,12 +225,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-conocophillips-145300867.html",
           "publisher": "StockStory",
           "published": "2026-08-15T14:53:00Z"
-        },
-        {
-          "title": "ConocoPhillips (COP): Wall Street Sees More Upside Despite Leadership Shakeup",
-          "url": "https://finance.yahoo.com/energy/articles/conocophillips-cop-wall-street-sees-125243319.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-08-14T12:52:43Z"
         }
       ]
     },
@@ -1441,6 +1441,12 @@
       "market_cap": 14567616427.312775,
       "headlines": [
         {
+          "title": "U.S. Shale Majors Cut Spending Despite Higher Oil Prices",
+          "url": "https://finance.yahoo.com/energy/articles/u-shale-majors-cut-spending-230000849.html",
+          "publisher": "Oilprice.com",
+          "published": "2026-08-17T23:00:00Z"
+        },
+        {
           "title": "APA and Woodside Energy Have Fuel in the Tank to Go Higher",
           "url": "https://www.barrons.com/articles/apa-woodside-energy-stocks-technical-analysis-2cdc555e?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
@@ -1451,12 +1457,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-115700620.html",
           "publisher": "StockStory",
           "published": "2026-08-14T11:57:00Z"
-        },
-        {
-          "title": "APA (APA) Stock Fair Value Edges Higher After Q2 Analyst Revisions",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/apa-apa-stock-fair-value-021113364.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-08-14T02:11:13Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 84.97,
-      "change_pct": 3.12
+      "price": 84.83,
+      "change_pct": 2.95
     },
     {
       "label": "Brent",
-      "price": 91.17,
-      "change_pct": 2.99
+      "price": 91.12,
+      "change_pct": 2.94
     },
     {
       "label": "NatGas",
       "price": 2.7,
-      "change_pct": -1.13
+      "change_pct": -1.21
     }
   ]
 }
