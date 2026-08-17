@@ -5,7 +5,7 @@ Signed file: `UEC.research.17.08.2026`
 | Field | Value |
 |---|---|
 | Current price | $11.17 (2026-08-17, ~15-min delayed) |
-| Market cap | $5.48B |
+| Market cap | $5.53B |
 | Sector / Industry | Energy / Uranium |
 | Main theme | Uranium — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: high. |
@@ -68,13 +68,13 @@ Uranium Energy Corp., together with its subsidiaries, engages in exploration, pr
 | Revenue (ttm) | $20.20M | Revenue growth — y/y |
 | Profitability | Gross 0.00%, operating -629.66%, net 0.00% | ROA -6.25%, ROE -8.96% |
 | Balance sheet | Cash $488.05M, debt $1.91M | Current ratio 32.67, debt/equity 0.14 |
-| Valuation | P/E —, forward P/E -124.11, P/S 271.08, P/B 3.88 | EV/Sales 250.56, EV/EBITDA -41.91 |
+| Valuation | P/E —, forward P/E -124.11, P/S —, P/B 3.88 | EV/Sales 250.56, EV/EBITDA -41.91 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $18.03 (9 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 88.80% |
+| Institutional ownership | 88.40% |
 | Insider ownership | 1.86% |
 | Short float | 14.38% |
 | Short ratio (days to cover) | 7.6 |
@@ -113,7 +113,7 @@ Uranium Energy Corp., together with its subsidiaries, engages in exploration, pr
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $11.17 | EV/Sales | 250.56 |
-| Market cap | $5.48B | EV/EBITDA | -41.91 |
+| Market cap | $5.53B | EV/EBITDA | -41.91 |
 | Beta | 1.21 | Gross margin | 0.00% |
 | RSI(14) | 57.6 | Operating margin | -629.66% |
 | ATR(14) | 0.55 | Profit margin | 0.00% |
@@ -121,11 +121,11 @@ Uranium Energy Corp., together with its subsidiaries, engages in exploration, pr
 | SMA50 dist | +5.62% | ROE | -8.96% |
 | SMA200 dist | -16.20% | Revenue (ttm) | $20.20M |
 | 52W high | $20.14 | Revenue growth y/y | — |
-| 52W low | $9.04 | Inst. ownership | 88.80% |
+| 52W low | $9.04 | Inst. ownership | 88.40% |
 | P/E (ttm) | — | Insider ownership | 1.86% |
 | Forward P/E | -124.11 | Short float | 14.38% |
 | PEG (trailing) | — | Avg volume | 9,708,832 |
-| P/S | 271.08 | Employees | 171 |
+| P/S | — | Employees | 171 |
 | P/B | 3.88 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions

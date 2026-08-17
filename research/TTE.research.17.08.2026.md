@@ -36,10 +36,10 @@ TotalEnergies SE, an integrated energy company, produces and markets oil and bio
 
 | Headline | Source | Date |
 |---|---|---|
+| Energy Dominance Requires Commitments That Last | POWER Magazine | 2026-08-17 |
 | Chevron Strikes Oil and Gas Offshore Angola in Major Discovery | Oilprice.com | 2026-08-17 |
 | Chevron Stock Rises After Major 600-Meter Angola Oil Discovery | GuruFocus.com | 2026-08-17 |
 | Chevron confirms major oil and gas condensate discovery offshore Angola | InvestorsHub | 2026-08-17 |
-| Brent Crude Nears $89 As Hormuz Stays Disrupted – Exxon, Chevron And Shell Rack Up Record Cash Flow | Stocktwits | 2026-08-17 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -5,7 +5,7 @@ Signed file: `NEE.research.17.08.2026`
 | Field | Value |
 |---|---|
 | Current price | $86.22 (2026-08-17, ~15-min delayed) |
-| Market cap | $179.82B |
+| Market cap | $179.85B |
 | Sector / Industry | Utilities / Utilities - Regulated Electric |
 | Main theme | Utilities - Regulated Electric — see catalysts below |
 | Current stance | Low technical momentum, strong fundamentals, value: reasonable, risk: moderate. |
@@ -110,7 +110,7 @@ NextEra Energy, Inc., through its subsidiaries, generates, stores, transmits, di
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $86.22 | EV/Sales | 10.39 |
-| Market cap | $179.82B | EV/EBITDA | 20.43 |
+| Market cap | $179.85B | EV/EBITDA | 20.43 |
 | Beta | 0.65 | Gross margin | 61.02% |
 | RSI(14) | 45.4 | Operating margin | 31.52% |
 | ATR(14) | 1.53 | Profit margin | 32.40% |

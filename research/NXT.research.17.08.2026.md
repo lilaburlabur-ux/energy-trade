@@ -15,11 +15,11 @@ Signed file: `NXT.research.17.08.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +79.22%; price -9.47% vs SMA200. |
+| Technical momentum | High | 1Y +83.53%; price -9.50% vs SMA200. |
 | Fresh setup quality | Poor / broken | -36.64% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 16.36%, revenue growth 8.20%. |
 | Value attractiveness | Reasonable | Forward P/E 17.15, EV/Sales 3.92. |
-| Risk level | High | Beta 1.95, ATR 6.4% of price, short float 7.57%. |
+| Risk level | High | Beta 1.95, ATR 6.2% of price, short float 7.57%. |
 
 **Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: high.
 
@@ -36,29 +36,29 @@ Nextpower Inc. provides solar and energy technology solutions for utility-scale 
 
 | Headline | Source | Date |
 |---|---|---|
+| 2 Cash-Heavy Stocks on Our Watchlist and 1 Facing Headwinds | StockStory | 2026-08-17 |
 | Solar Power Hits Big Milestone, Trumping Wind For First Time | Investor's Business Daily | 2026-08-14 |
 | SolarEdge Stock Kicked the Week Off Strong. Why Today It’s Having Its Worst Session in 14 Months. | Barrons.com | 2026-08-05 |
 | First Solar Stock Powers to the Top of the S&P 500 as Regulatory Decision Approaches | Barrons.com | 2026-08-03 |
-| Data Center Adjacent Clean Energy Powers Nextpower’s (NXT) Growth | Insider Monkey | 2026-08-03 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $99.09; 52w high $156.40 (-36.64%); 52w low $53.99 (+83.53%) |
-| Trend | -9.47% vs SMA200, -9.98% vs SMA50, -0.72% vs SMA20 |
-| Momentum | RSI(14) 45.1 (neutral) |
-| Volatility | ATR(14) 6.35 (~6.4% of price); beta 1.95 |
+| Price vs 52-week range | Close $99.09; 52w high $156.40 (-36.64%); 52w low $60.58 (+63.57%) |
+| Trend | -9.50% vs SMA200, -9.23% vs SMA50, -0.95% vs SMA20 |
+| Momentum | RSI(14) 44.9 (neutral) |
+| Volatility | ATR(14) 6.16 (~6.2% of price); beta 1.95 |
 | Setup perspective | -36.64% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -4.0% |
-| Month | -7.3% |
-| Quarter | -30.6% |
-| Half Y | -13.3% |
-| 1Y | +79.2% |
+| Week | -3.7% |
+| Month | -3.9% |
+| Quarter | -31.3% |
+| Half Y | -14.9% |
+| 1Y | +83.5% |
 | YTD | +6.8% |
 
 ## 4. Fundamental Analysis
@@ -95,7 +95,7 @@ Nextpower Inc. provides solar and energy technology solutions for utility-scale 
 | Fundsmith LLP | 2,856,092 | 1.88% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.95, ATR 6.4% of price, short float 7.57%. Size positions accordingly.
+- **Volatility risk:** Beta 1.95, ATR 6.2% of price, short float 7.57%. Size positions accordingly.
 - **Short interest risk:** short float 7.57% can fuel squeezes both ways around news.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
@@ -115,13 +115,13 @@ Nextpower Inc. provides solar and energy technology solutions for utility-scale 
 | Price | $99.09 | EV/Sales | 3.92 |
 | Market cap | $15.22B | EV/EBITDA | 18.99 |
 | Beta | 1.95 | Gross margin | 22.98% |
-| RSI(14) | 45.1 | Operating margin | 20.86% |
-| ATR(14) | 6.35 | Profit margin | 16.36% |
-| SMA20 dist | -0.72% | ROA | 11.68% |
-| SMA50 dist | -9.98% | ROE | 27.22% |
-| SMA200 dist | -9.47% | Revenue (ttm) | $3.63B |
+| RSI(14) | 44.9 | Operating margin | 20.86% |
+| ATR(14) | 6.16 | Profit margin | 16.36% |
+| SMA20 dist | -0.95% | ROA | 11.68% |
+| SMA50 dist | -9.23% | ROE | 27.22% |
+| SMA200 dist | -9.50% | Revenue (ttm) | $3.63B |
 | 52W high | $156.40 | Revenue growth y/y | 8.20% |
-| 52W low | $53.99 | Inst. ownership | 109.67% |
+| 52W low | $60.58 | Inst. ownership | 109.67% |
 | P/E (ttm) | 25.60 | Insider ownership | 0.63% |
 | Forward P/E | 17.15 | Short float | 7.57% |
 | PEG (trailing) | 3.15 | Avg volume | 3,094,135 |

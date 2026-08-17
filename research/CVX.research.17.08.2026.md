@@ -36,9 +36,9 @@ Chevron Corporation, through its subsidiaries, engages in the integrated energy 
 
 | Headline | Source | Date |
 |---|---|---|
+| Stock Market Today: Dow Falls As This Key Yield Hits 19-Year High; Warren Buffett Stock Falls (Live Coverage) | Investor's Business Daily | 2026-08-17 |
 | Sector Update: Energy Stocks Gain Late Afternoon | MT Newswires | 2026-08-17 |
 | Chevron (CVX) Discovers New Oil And Gas Condensate In Angola Block 0 | Simply Wall St. | 2026-08-17 |
-| Stock Market Today: Dow Falls, Oil Up After Trump Oman Threat; This Peter Thiel Stock Jumps (Live Coverage) | Investor's Business Daily | 2026-08-17 |
 | Sector Update: Energy Stocks Gain Monday Afternoon | MT Newswires | 2026-08-17 |
 
 ## 3. Technical Analysis
