@@ -1,10 +1,59 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-18T21:27:29+00:00",
+  "as_of": "2026-08-18T21:46:55+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": []
+ "hot_tickers": [
+  {
+   "rank": 1,
+   "ticker": "TLN",
+   "company": "Talen Energy Corporation",
+   "move_pct": -10.66,
+   "price": 318.88,
+   "volume": 2166650,
+   "volume_vs_avg": "~3x",
+   "heat_score": 63,
+   "direction": "down",
+   "why": "Moving down 10.7% on ~3x average volume with no fresh headline this cycle \u2014 attention without a story.",
+   "catalyst_type": "no_news_mover",
+   "source_url": "",
+   "published": "",
+   "sector": "Power & IPPs"
+  },
+  {
+   "rank": 2,
+   "ticker": "NXT",
+   "company": "Nextpower Inc.",
+   "move_pct": -7.86,
+   "price": 91.3,
+   "volume": 3144794,
+   "volume_vs_avg": "~1.1x",
+   "heat_score": 48,
+   "direction": "down",
+   "why": "Powell, Sterling, Vertiv, Nextpower, and Hubbell Shares Are Falling, What You Need To Know",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/powell-sterling-vertiv-nextpower-hubbell-211733824.html",
+   "published": "2026-08-18T21:17:33Z",
+   "sector": "Renewables & Solar"
+  },
+  {
+   "rank": 3,
+   "ticker": "VRT",
+   "company": "Vertiv Holdings, LLC",
+   "move_pct": -7.21,
+   "price": 271.34,
+   "volume": 5073745,
+   "volume_vs_avg": "~0.9x",
+   "heat_score": 45,
+   "direction": "down",
+   "why": "Powell, Sterling, Vertiv, Nextpower, and Hubbell Shares Are Falling, What You Need To Know",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/powell-sterling-vertiv-nextpower-hubbell-211733824.html",
+   "published": "2026-08-18T21:17:33Z",
+   "sector": "Grid, Storage & Electrification"
+  }
+ ]
 }
