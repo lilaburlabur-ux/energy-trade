@@ -1,27 +1,10 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-18T01:24:29+00:00",
+  "as_of": "2026-08-18T08:24:48+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": [
-  {
-   "rank": 1,
-   "ticker": "PWR",
-   "company": "Quanta Services, Inc.",
-   "move_pct": 5.33,
-   "price": 722.31,
-   "volume": 1201695,
-   "volume_vs_avg": "~1.1x",
-   "heat_score": 39,
-   "direction": "up",
-   "why": "How To Bank 16% A Year On PWR Stock Without Selling A Share",
-   "catalyst_type": "regulatory",
-   "source_url": "https://finance.yahoo.com/markets/options/articles/bank-16-pwr-stock-without-222629757.html",
-   "published": "2026-08-17T22:26:29Z",
-   "sector": "Grid, Storage & Electrification"
-  }
- ]
+ "hot_tickers": []
 }
