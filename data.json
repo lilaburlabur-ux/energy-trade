@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-08-18T02:30:25+00:00",
-  "as_of_local": "2026-08-18 02:30:25 UTC",
+  "as_of_utc": "2026-08-18T03:25:23+00:00",
+  "as_of_local": "2026-08-18 03:25:23 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "VRT"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -41,6 +43,12 @@
       "market_cap": 397616977653.4619,
       "headlines": [
         {
+          "title": "CVX Stock Rises Overnight: Chevron Says It Has Discovered Oil, Gas Condensate Offshore In Angola",
+          "url": "https://finance.yahoo.com/energy/articles/cvx-stock-rises-overnight-chevron-024109384.html",
+          "publisher": "Stocktwits",
+          "published": "2026-08-18T02:41:09Z"
+        },
+        {
           "title": "Chevron Struck Oil Off Angola. Here's What CVX Investors Need to Know.",
           "url": "https://finance.yahoo.com/energy/articles/chevron-struck-oil-off-angola-001501687.html",
           "publisher": "Motley Fool",
@@ -51,12 +59,6 @@
           "url": "https://finance.yahoo.com/energy/articles/questions-decide-cvx-stock-234039951.html",
           "publisher": "Trefis",
           "published": "2026-08-17T23:40:39Z"
-        },
-        {
-          "title": "U.S. Shale Majors Cut Spending Despite Higher Oil Prices",
-          "url": "https://finance.yahoo.com/energy/articles/u-shale-majors-cut-spending-230000849.html",
-          "publisher": "Oilprice.com",
-          "published": "2026-08-17T23:00:00Z"
         }
       ]
     },
@@ -94,7 +96,7 @@
       "price": 91.62,
       "previous_close": 90.47,
       "change_pct": 1.27,
-      "market_cap": 252978825351.99255,
+      "market_cap": 252868980664.77966,
       "headlines": [
         {
           "title": "European Stocks Close Lower in Monday Trading Despite Tech, Mining Stocks Rally",
@@ -229,34 +231,6 @@
       ]
     },
     {
-      "symbol": "VRT",
-      "name": "Vertiv",
-      "price": 292.43,
-      "previous_close": 293.84,
-      "change_pct": -0.48,
-      "market_cap": 112582088610.6524,
-      "headlines": [
-        {
-          "title": "Vertiv vs. Teradyne: Which AI Infrastructure Stock Is the Better Buy?",
-          "url": "https://finance.yahoo.com/technology/ai/articles/vertiv-vs-teradyne-ai-infrastructure-174100711.html",
-          "publisher": "Zacks",
-          "published": "2026-08-17T17:41:00Z"
-        },
-        {
-          "title": "AI Infrastructure Boom: Who Should Buy Vertiv and Who Should Buy Super Micro Computer",
-          "url": "https://finance.yahoo.com/technology/ai/articles/ai-infrastructure-boom-buy-vertiv-150348719.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-08-17T15:03:48Z"
-        },
-        {
-          "title": "Vertiv (VRT) Stock Could Be 11% Overvalued After Fraud Probe News",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/vertiv-vrt-stock-could-11-120936867.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-08-17T12:09:36Z"
-        }
-      ]
-    },
-    {
       "symbol": "BP",
       "name": "BP",
       "price": 42.85,
@@ -377,6 +351,12 @@
       "market_cap": 99965535887.5379,
       "headlines": [
         {
+          "title": "Valero (VLO) Stock Could Be 8% Overvalued On Refining Cash Flow",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/valero-vlo-stock-could-8-021003271.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-08-18T02:10:03Z"
+        },
+        {
           "title": "The Questions That Decide CVX Stock",
           "url": "https://finance.yahoo.com/energy/articles/questions-decide-cvx-stock-234039951.html",
           "publisher": "Trefis",
@@ -387,12 +367,6 @@
           "url": "https://finance.yahoo.com/energy/articles/4-refining-stocks-buy-gas-213400182.html",
           "publisher": "Zacks",
           "published": "2026-08-17T21:34:00Z"
-        },
-        {
-          "title": "Earnings Estimates Moving Higher for Valero Energy (VLO): Time to Buy?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/earnings-estimates-moving-higher-valero-162003164.html",
-          "publisher": "Zacks",
-          "published": "2026-08-17T16:20:03Z"
         }
       ]
     },
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 84.93,
-      "change_pct": 3.07
+      "price": 85.16,
+      "change_pct": 3.35
     },
     {
       "label": "Brent",
-      "price": 91.16,
-      "change_pct": 2.98
+      "price": 91.41,
+      "change_pct": 3.26
     },
     {
       "label": "NatGas",
-      "price": 2.71,
-      "change_pct": -0.99
+      "price": 2.7,
+      "change_pct": -1.13
     }
   ]
 }
