@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-08-18T07:37:32+00:00",
-  "as_of_local": "2026-08-18 07:37:32 UTC",
+  "as_of_utc": "2026-08-18T08:15:45+00:00",
+  "as_of_local": "2026-08-18 08:15:45 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -433,6 +433,12 @@
       "market_cap": 98568312837.8,
       "headlines": [
         {
+          "title": "Prediction: Constellation Energy Reclaims Its $412 Record Before 2030",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-constellation-energy-reclaims-412-075801167.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-18T07:58:01Z"
+        },
+        {
           "title": "3 Nuclear Stocks With Real Revenue vs. 3 That Are Still Pre-Revenue. Here's Where the Money Actually Is.",
           "url": "https://finance.yahoo.com/markets/stocks/articles/3-nuclear-stocks-real-revenue-070500199.html",
           "publisher": "Motley Fool",
@@ -443,12 +449,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/2-best-nuclear-power-stocks-025000160.html",
           "publisher": "Motley Fool",
           "published": "2026-08-17T02:50:00Z"
-        },
-        {
-          "title": "3 Nuclear Energy Stocks Riding the AI Power Surge in August",
-          "url": "https://finance.yahoo.com/energy/articles/3-nuclear-energy-stocks-riding-110022153.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-08-16T11:00:22Z"
         }
       ]
     },
@@ -1523,7 +1523,26 @@
       "previous_close": 46.45,
       "change_pct": -4.46,
       "market_cap": 8162454482.0,
-      "headlines": []
+      "headlines": [
+        {
+          "title": "Oklo Built a Nuclear Reactor in 229 Days. Here's Why the CEO Calls It a World Record.",
+          "url": "https://finance.yahoo.com/energy/articles/oklo-built-nuclear-reactor-229-161000450.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-17T16:10:00Z"
+        },
+        {
+          "title": "Could Industrial Heat Unlock New Growth for NuScale Stock?",
+          "url": "https://finance.yahoo.com/energy/articles/could-industrial-heat-unlock-growth-125200078.html",
+          "publisher": "Zacks",
+          "published": "2026-08-17T12:52:00Z"
+        },
+        {
+          "title": "$10,000 in Oklo Stock at Its High Is Worth About $2,300 Today",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/10-000-oklo-stock-high-103800851.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-17T10:38:00Z"
+        }
+      ]
     },
     {
       "symbol": "NOV",
@@ -2096,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 84.89,
-      "change_pct": 0.46
+      "price": 84.39,
+      "change_pct": -0.13
     },
     {
       "label": "Brent",
-      "price": 90.96,
-      "change_pct": 0.1
+      "price": 91.25,
+      "change_pct": 0.42
     },
     {
       "label": "NatGas",
-      "price": 2.7,
-      "change_pct": 0.37
+      "price": 2.71,
+      "change_pct": 0.71
     }
   ]
 }
