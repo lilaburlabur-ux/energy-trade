@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-08-18T01:10:29+00:00",
-  "as_of_local": "2026-08-18 01:10:29 UTC",
+  "as_of_utc": "2026-08-18T02:30:25+00:00",
+  "as_of_local": "2026-08-18 02:30:25 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -8,10 +8,16 @@
       "symbol": "XOM",
       "name": "ExxonMobil",
       "price": 161.46,
-      "previous_close": 160.1,
-      "change_pct": 0.85,
+      "previous_close": 159.07,
+      "change_pct": 1.5,
       "market_cap": 663909332668.4308,
       "headlines": [
+        {
+          "title": "Exxon Awards $1.1 Billion in Contracts for Mozambique Rovuma LNG",
+          "url": "https://finance.yahoo.com/energy/articles/exxon-awards-1-1-billion-020000199.html",
+          "publisher": "Oilprice.com",
+          "published": "2026-08-18T02:00:00Z"
+        },
         {
           "title": "The Questions That Decide CVX Stock",
           "url": "https://finance.yahoo.com/energy/articles/questions-decide-cvx-stock-234039951.html",
@@ -23,12 +29,6 @@
           "url": "https://finance.yahoo.com/energy/articles/why-exxon-mobil-xom-expanding-194805744.html",
           "publisher": "Insider Monkey",
           "published": "2026-08-17T19:48:05Z"
-        },
-        {
-          "title": "APA and Woodside Energy Have Fuel in the Tank to Go Higher",
-          "url": "https://www.barrons.com/articles/apa-woodside-energy-stocks-technical-analysis-2cdc555e?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-08-17T17:33:00Z"
         }
       ]
     },
@@ -204,8 +204,8 @@
       "symbol": "COP",
       "name": "ConocoPhillips",
       "price": 127.56,
-      "previous_close": 126.78,
-      "change_pct": 0.62,
+      "previous_close": 125.94,
+      "change_pct": 1.29,
       "market_cap": 155405580558.5694,
       "headlines": [
         {
@@ -316,8 +316,8 @@
       "symbol": "SO",
       "name": "Southern Company",
       "price": 92.29,
-      "previous_close": 92.8,
-      "change_pct": -0.55,
+      "previous_close": 92.04,
+      "change_pct": 0.27,
       "market_cap": 106166999185.32875,
       "headlines": [
         {
@@ -657,6 +657,12 @@
       "market_cap": 72102695483.86038,
       "headlines": [
         {
+          "title": "Cooler US Weather Forecasts Weigh on Nat-Gas Prices",
+          "url": "https://finance.yahoo.com/markets/commodities/articles/cooler-us-weather-forecasts-weigh-191318279.html",
+          "publisher": "Barchart",
+          "published": "2026-08-17T19:13:18Z"
+        },
+        {
           "title": "Energy Transfer Just Raised Its 2026 Guidance. Is the Stock Still a Buy?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/energy-transfer-just-raised-2026-144300316.html",
           "publisher": "Motley Fool",
@@ -667,12 +673,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-oracle-stock-got-trounced-220245802.html",
           "publisher": "Motley Fool",
           "published": "2026-08-14T22:02:45Z"
-        },
-        {
-          "title": "ORCL Stock Drops After 6-Month Delay To Gas Pipeline Project Supporting New Mexico AI Data Center",
-          "url": "https://finance.yahoo.com/technology/ai/articles/orcl-stock-drops-6-month-220153314.html",
-          "publisher": "Stocktwits",
-          "published": "2026-08-14T22:01:53Z"
         }
       ]
     },
@@ -1921,7 +1921,7 @@
           "name": "ExxonMobil Holdings Corp",
           "short": "ExxonMobil",
           "weight_pct": 20.58,
-          "change_pct": 0.85,
+          "change_pct": 1.5,
           "price": 161.46,
           "currency": "USD"
         },
@@ -1939,7 +1939,7 @@
           "name": "ConocoPhillips",
           "short": "ConocoPhillips",
           "weight_pct": 6.08,
-          "change_pct": 0.62,
+          "change_pct": 1.29,
           "price": 127.56,
           "currency": "USD"
         },
@@ -2020,7 +2020,7 @@
         "name": "ExxonMobil Holdings Corp",
         "short": "ExxonMobil",
         "weight_pct": 20.58,
-        "change_pct": 0.85,
+        "change_pct": 1.5,
         "price": 161.46,
         "currency": "USD"
       },
@@ -2038,7 +2038,7 @@
         "name": "ConocoPhillips",
         "short": "ConocoPhillips",
         "weight_pct": 6.08,
-        "change_pct": 0.62,
+        "change_pct": 1.29,
         "price": 127.56,
         "currency": "USD"
       },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 84.76,
-      "change_pct": 2.86
+      "price": 84.93,
+      "change_pct": 3.07
     },
     {
       "label": "Brent",
-      "price": 90.91,
-      "change_pct": 2.7
+      "price": 91.16,
+      "change_pct": 2.98
     },
     {
       "label": "NatGas",
-      "price": 2.7,
-      "change_pct": -1.32
+      "price": 2.71,
+      "change_pct": -0.99
     }
   ]
 }
