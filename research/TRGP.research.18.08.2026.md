@@ -36,10 +36,10 @@ Targa Resources Corp., together with its subsidiaries, owns, operates, acquires,
 
 | Headline | Source | Date |
 |---|---|---|
+| Dow Jones Futures: Sandisk, Micron, Credo Lead AI Rug Pull; Indexes Near Critical Level | Investor's Business Daily | 2026-08-18 |
+| Update: Technology Leads US Equity Indexes Lower as 30-Year Yield Touches 19-Year High, Crude Oil Extends Gains | MT Newswires | 2026-08-18 |
+| Micron, Coherent, SpaceX, Klarna, Amylyx, and More Stocks That Explain Today’s Market | Barrons.com | 2026-08-18 |
 | Update: Equities Fall For Third Day as Oil Stretches Gains Amid Middle East Anxiety | MT Newswires | 2026-08-18 |
-| US Equity Markets End Lower Amid Rise in Government Bond Yields Following Deadlock in US-Iran Talks | MT Newswires | 2026-08-18 |
-| Sector Update: Energy Stocks Higher Late Afternoon | MT Newswires | 2026-08-18 |
-| Sector Update: Energy Stocks Higher Tuesday Afternoon | MT Newswires | 2026-08-18 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -68,7 +68,7 @@ Marathon Petroleum Corporation, together with its subsidiaries, operates as an i
 | Revenue (ttm) | $154.15B | Revenue growth 53.70% y/y |
 | Profitability | Gross 12.82%, operating 13.56%, net 5.55% | ROA 8.74%, ROE 42.10% |
 | Balance sheet | Cash $7.77B, debt $34.29B | Current ratio 1.25, debt/equity 133.33 |
-| Valuation | P/E 12.70, forward P/E 11.37, P/S 0.69, P/B 6.40 | EV/Sales 0.87, EV/EBITDA 8.69 |
+| Valuation | P/E 12.70, forward P/E 11.37, P/S 0.67, P/B 6.40 | EV/Sales 0.87, EV/EBITDA 8.69 |
 | Growth expectations | Earnings growth 348.00%, EPS q/q 322.50% | Analyst mean target $320.22 (18 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -124,7 +124,7 @@ Marathon Petroleum Corporation, together with its subsidiaries, operates as an i
 | P/E (ttm) | 12.70 | Insider ownership | 0.33% |
 | Forward P/E | 11.37 | Short float | 2.81% |
 | PEG (trailing) | 1.78 | Avg volume | 2,356,740 |
-| P/S | 0.69 | Employees | 18,500 |
+| P/S | 0.67 | Employees | 18,500 |
 | P/B | 6.40 | Analyst rec (1=buy..5=sell) | 2.3 |
 
 ## 8. Analyst Actions

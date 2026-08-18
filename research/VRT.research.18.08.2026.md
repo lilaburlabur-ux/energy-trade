@@ -36,10 +36,10 @@ Vertiv Holdings Co designs, manufactures, and services critical digital infrastr
 
 | Headline | Source | Date |
 |---|---|---|
+| Powell, Sterling, Vertiv, Nextpower, and Hubbell Shares Are Falling, What You Need To Know | StockStory | 2026-08-18 |
 | Ecolab's CoolIT Deal Raises AI Upside but Also Debt and Cost Risks | Zacks | 2026-08-18 |
 | Behind-the-Meter Energy Stocks Fall Tuesday: FTAI Aviation Down 7%, GE Vernova Down 6%, Caterpillar Down 4% | 24/7 Wall St. | 2026-08-18 |
 | Vertiv Holdings (VRT) is Well Positioned for Key Tech Transitions | Insider Monkey | 2026-08-18 |
-| Vertiv vs. Teradyne: Which AI Infrastructure Stock Is the Better Buy? | Zacks | 2026-08-17 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

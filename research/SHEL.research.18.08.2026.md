@@ -36,10 +36,10 @@ Shell plc operates as an energy and petrochemical company in Europe, Asia, Ocean
 
 | Headline | Source | Date |
 |---|---|---|
+| McDonald's has a way to save you money at the gas pump | TheStreet | 2026-08-18 |
 | Shell's Unit Signs EPC and O&M Contracts for Bataan Battery Project | Zacks | 2026-08-18 |
 | Shell taps McDonald’s loyalty base to drive fuel trips, rewards sign-ups | C-Store Dive | 2026-08-18 |
 | This ETF Is Outperforming by Avoiding the S&P 500’s Biggest Problem | MarketBeat | 2026-08-17 |
-| European Stocks Close Lower in Monday Trading Despite Tech, Mining Stocks Rally | MT Newswires | 2026-08-17 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

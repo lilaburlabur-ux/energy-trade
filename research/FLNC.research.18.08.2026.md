@@ -36,10 +36,10 @@ Fluence Energy, Inc., through its subsidiaries, provides energy storage and opti
 
 | Headline | Source | Date |
 |---|---|---|
+| Fluence Energy, Bloom Energy, Redwire, Ameresco, and GE Vernova Shares Plummet, What You Need To Know | StockStory | 2026-08-18 |
 | Latest News In Energy Transition - Germany's Energy Future: From Mining Lands to Power Hubs | Simply Wall St. | 2026-08-18 |
 | Fluence Energy (FLNC) Q3 2026 Earnings Call Transcript | Motley Fool | 2026-08-13 |
 | FLNC Q2 2026 Deep Dive: Production Delays and Guidance Revision Amid Record Backlog Growth | StockStory | 2026-08-11 |
-| FLNC Q3 Earnings Call Highlights Supply Delays, Data Center Demand | Zacks | 2026-08-10 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

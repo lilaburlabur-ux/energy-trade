@@ -36,8 +36,8 @@ Equinor ASA operates as an energy company in Norway and internationally. It oper
 
 | Headline | Source | Date |
 |---|---|---|
-| Sector Update: Energy Stocks Higher Late Afternoon | MT Newswires | 2026-08-18 |
 | Energy & Utilities Roundup: Market Talk | The Wall Street Journal | 2026-08-18 |
+| Sector Update: Energy Stocks Higher Late Afternoon | MT Newswires | 2026-08-18 |
 | Equinor Expands US Power Exposure With $940M Lackawanna Deal | Zacks | 2026-08-18 |
 | Latest News In Energy Transition - Germany's Energy Future: From Mining Lands to Power Hubs | Simply Wall St. | 2026-08-18 |
 

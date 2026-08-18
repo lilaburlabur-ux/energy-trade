@@ -36,10 +36,10 @@ Bloom Energy Corporation designs, manufactures, sells, and installs solid oxide 
 
 | Headline | Source | Date |
 |---|---|---|
+| Fluence Energy, Bloom Energy, Redwire, Ameresco, and GE Vernova Shares Plummet, What You Need To Know | StockStory | 2026-08-18 |
 | Behind-the-Meter Energy Stocks Fall Tuesday: FTAI Aviation Down 7%, GE Vernova Down 6%, Caterpillar Down 4% | 24/7 Wall St. | 2026-08-18 |
 | Bloom Energy (BE): 3 Reasons We Love This Stock | StockStory | 2026-08-18 |
 | Plug Power Falls 5%, Bloom Energy Sinks 8% With the 10-Year Yield Near a 52-Week High | 24/7 Wall St. | 2026-08-18 |
-| If You Invested $2,000 in Bloom Energy at Its 52-Week Low Here's How Much You'd Have Now | Motley Fool | 2026-08-18 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

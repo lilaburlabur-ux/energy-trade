@@ -36,10 +36,10 @@ Hubbell Incorporated, together with its subsidiaries, manufactures and sells ele
 
 | Headline | Source | Date |
 |---|---|---|
+| Powell, Sterling, Vertiv, Nextpower, and Hubbell Shares Are Falling, What You Need To Know | StockStory | 2026-08-18 |
 | 3 Cash-Producing Stocks to Consider Right Now | StockStory | 2026-08-16 |
 | Hubbell (HUBB) Is Quietly Winning From AI Infrastructure Growth | Insider Monkey | 2026-08-14 |
 | 5 Stocks to Grab as Manufacturing Activity Hits Four-Year High | Zacks | 2026-08-05 |
-| Atkore Stock Surged Because Prysmian Agreed To Buy It For Cash | Trefis | 2026-08-04 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

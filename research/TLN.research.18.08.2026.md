@@ -36,10 +36,10 @@ Talen Energy Corporation, an independent power producer and infrastructure compa
 
 | Headline | Source | Date |
 |---|---|---|
+| Chip Stocks and Data Center Plays Just Got Clobbered | The Wall Street Journal | 2026-08-18 |
 | Terrestrial Energy’s Lifetime Revenue Up 29%, Advancing in Texas A&M, DOE Fuel Program – Quarterly Update Report | Exec Edge | 2026-08-13 |
 | The Zacks Analyst Blog Highlights Bloom Energy, Talen Energy and Plug Power | Zacks | 2026-08-13 |
 | Talen Energy (TLN) Stock May Already Be Priced Rich On Raised 2026 Guidance | Simply Wall St. | 2026-08-12 |
-| Does Talen Energy’s (TLN) Aggressive Buyback and PJM Bets Redefine Its Post-Loss Investment Story? | Simply Wall St. | 2026-08-12 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

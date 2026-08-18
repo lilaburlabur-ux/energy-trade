@@ -36,10 +36,10 @@ Nextpower Inc. provides solar and energy technology solutions for utility-scale 
 
 | Headline | Source | Date |
 |---|---|---|
+| Powell, Sterling, Vertiv, Nextpower, and Hubbell Shares Are Falling, What You Need To Know | StockStory | 2026-08-18 |
 | 2 Cash-Heavy Stocks on Our Watchlist and 1 Facing Headwinds | StockStory | 2026-08-17 |
 | Solar Power Hits Big Milestone, Trumping Wind For First Time | Investor's Business Daily | 2026-08-14 |
 | SolarEdge Stock Kicked the Week Off Strong. Why Today It’s Having Its Worst Session in 14 Months. | Barrons.com | 2026-08-05 |
-| First Solar Stock Powers to the Top of the S&P 500 as Regulatory Decision Approaches | Barrons.com | 2026-08-03 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

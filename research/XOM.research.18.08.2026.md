@@ -36,10 +36,10 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 
 | Headline | Source | Date |
 |---|---|---|
+| Update: Technology Leads US Equity Indexes Lower as 30-Year Yield Touches 19-Year High, Crude Oil Extends Gains | MT Newswires | 2026-08-18 |
 | Update: Equities Fall For Third Day as Oil Stretches Gains Amid Middle East Anxiety | MT Newswires | 2026-08-18 |
 | US Equity Markets End Lower Amid Rise in Government Bond Yields Following Deadlock in US-Iran Talks | MT Newswires | 2026-08-18 |
 | Exxon Stock Surges 2.3% as Oil Breaks Above $91 | GuruFocus.com | 2026-08-18 |
-| Sector Update: Energy Stocks Higher Late Afternoon | MT Newswires | 2026-08-18 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

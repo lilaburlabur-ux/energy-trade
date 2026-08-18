@@ -123,7 +123,7 @@ Permian Resources Corporation, an independent oil and natural gas company, focus
 | 52W low | $11.76 | Inst. ownership | 92.72% |
 | P/E (ttm) | 14.42 | Insider ownership | 4.61% |
 | Forward P/E | 10.33 | Short float | 2.76% |
-| PEG (trailing) | 1.27 | Avg volume | 9,677,332 |
+| PEG (trailing) | 1.31 | Avg volume | 9,677,332 |
 | P/S | 3.26 | Employees | 515 |
 | P/B | 1.56 | Analyst rec (1=buy..5=sell) | 1.3 |
 

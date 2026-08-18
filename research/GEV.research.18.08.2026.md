@@ -36,10 +36,10 @@ GE Vernova Inc., an energy company, engages in the provision of various products
 
 | Headline | Source | Date |
 |---|---|---|
+| Fluence Energy, Bloom Energy, Redwire, Ameresco, and GE Vernova Shares Plummet, What You Need To Know | StockStory | 2026-08-18 |
 | Is This The Next CoreWeave Or Nebius Group? A Crusoe IPO Looms | Investor's Business Daily | 2026-08-18 |
 | Behind-the-Meter Energy Stocks Fall Tuesday: FTAI Aviation Down 7%, GE Vernova Down 6%, Caterpillar Down 4% | 24/7 Wall St. | 2026-08-18 |
 | GE Vernova (GEV) Is Up 8.9% After Backlog Surges To $176 Billion And Nuclear AI Deal | Simply Wall St. | 2026-08-18 |
-| AI Election Backlash Is Shaping Wall Street’s Stock Market Views | Bloomberg | 2026-08-18 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

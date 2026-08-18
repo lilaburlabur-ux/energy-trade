@@ -68,7 +68,7 @@ Kinder Morgan, Inc. operates as an energy infrastructure company primarily in No
 | Revenue (ttm) | $17.96B | Revenue growth 10.80% y/y |
 | Profitability | Gross 49.41%, operating 30.06%, net 19.30% | ROA 4.45%, ROE 10.99% |
 | Balance sheet | Cash $91.00M, debt $32.43B | Current ratio 0.46, debt/equity 98.62 |
-| Valuation | P/E 21.21, forward P/E 21.38, P/S 4.07, P/B 2.31 | EV/Sales 5.88, EV/EBITDA 13.83 |
+| Valuation | P/E 21.21, forward P/E 21.38, P/S 4.08, P/B 2.31 | EV/Sales 5.88, EV/EBITDA 13.83 |
 | Growth expectations | Earnings growth 21.20%, EPS q/q 21.30% | Analyst mean target $35.81 (21 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -124,7 +124,7 @@ Kinder Morgan, Inc. operates as an energy infrastructure company primarily in No
 | P/E (ttm) | 21.21 | Insider ownership | 12.70% |
 | Forward P/E | 21.38 | Short float | 2.34% |
 | PEG (trailing) | 3.51 | Avg volume | 9,936,554 |
-| P/S | 4.07 | Employees | 11,028 |
+| P/S | 4.08 | Employees | 11,028 |
 | P/B | 2.31 | Analyst rec (1=buy..5=sell) | 2.1 |
 
 ## 8. Analyst Actions
