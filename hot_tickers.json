@@ -1,43 +1,10 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-18T21:00:19+00:00",
+  "as_of": "2026-08-18T21:27:29+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": [
-  {
-   "rank": 1,
-   "ticker": "TLN",
-   "company": "Talen Energy Corporation",
-   "move_pct": -11.0,
-   "price": 317.65,
-   "volume": 2166650,
-   "volume_vs_avg": "~3x",
-   "heat_score": 64,
-   "direction": "down",
-   "why": "Moving down 11.0% on ~3x average volume with no fresh headline this cycle \u2014 attention without a story.",
-   "catalyst_type": "no_news_mover",
-   "source_url": "",
-   "published": "",
-   "sector": "Power & IPPs"
-  },
-  {
-   "rank": 2,
-   "ticker": "GEV",
-   "company": "GE Vernova Inc.",
-   "move_pct": -6.69,
-   "price": 1006.79,
-   "volume": 2322731,
-   "volume_vs_avg": "~0.9x",
-   "heat_score": 43,
-   "direction": "down",
-   "why": "Behind-the-Meter Energy Stocks Fall Tuesday: FTAI Aviation Down 7%, GE Vernova Down 6%, Caterpillar Down 4%",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/energy/articles/behind-meter-energy-stocks-fall-172353733.html",
-   "published": "2026-08-18T17:23:53Z",
-   "sector": "Grid, Storage & Electrification"
-  }
- ]
+ "hot_tickers": []
 }
