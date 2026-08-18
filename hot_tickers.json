@@ -1,10 +1,27 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-18T09:01:20+00:00",
+  "as_of": "2026-08-18T09:47:11+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": []
+ "hot_tickers": [
+  {
+   "rank": 1,
+   "ticker": "UUUU",
+   "company": "Energy Fuels Inc",
+   "move_pct": -5.93,
+   "price": 14.2,
+   "volume": 5182287,
+   "volume_vs_avg": "~0.7x",
+   "heat_score": 39,
+   "direction": "down",
+   "why": "Why Energy Fuels (TSX:EFR) Is Drawing Fresh Attention Today",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/energy/articles/why-energy-fuels-tsx-efr-061148164.html",
+   "published": "2026-08-18T06:11:48Z",
+   "sector": "Nuclear & Uranium"
+  }
+ ]
 }
