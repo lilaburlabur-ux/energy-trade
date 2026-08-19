@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-08-19T10:28:29+00:00",
-  "as_of_local": "2026-08-19 10:28:29 UTC",
+  "as_of_utc": "2026-08-19T10:32:38+00:00",
+  "as_of_local": "2026-08-19 10:32:38 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "NOV"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -252,7 +250,7 @@
         },
         {
           "title": "The \u2018tax on the City\u2019 fuelling the stock market\u2019s collapse",
-          "url": "https://finance.yahoo.com/economy/policy/articles/tax-city-fuelling-stock-market-050000661.html",
+          "url": "https://finance.yahoo.com/news/tax-city-fuelling-stock-market-050000219.html",
           "publisher": "The Telegraph",
           "published": "2026-08-19T05:00:00Z"
         }
@@ -746,7 +744,7 @@
           "title": "Dow Jones Futures Fall; After Sandisk, Micron, Credo Lead AI Losses, Market Rally Nears Key Test",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sandisk-micron-credo-ai-stocks-target-earnings/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
-          "published": "2026-08-19T10:04:47Z"
+          "published": "2026-08-19T10:23:08Z"
         },
         {
           "title": "US Stock Market Today: S&P 500 Futures Slip On Rising Yields And Costly Energy",
@@ -797,7 +795,26 @@
       "previous_close": 95.32,
       "change_pct": 1.84,
       "market_cap": 61189983383.316444,
-      "headlines": []
+      "headlines": [
+        {
+          "title": "Why Did AMLX, IOVA, OKE Stocks Hit 52-Week Highs Today?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-amlx-iova-oke-015400211.html",
+          "publisher": "Stocktwits",
+          "published": "2026-08-19T01:54:00Z"
+        },
+        {
+          "title": "This Boring Pipeline Stock Just Signed a Deal to Power AI Data Centers",
+          "url": "https://finance.yahoo.com/energy/articles/boring-pipeline-stock-just-signed-125000583.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-14T12:50:00Z"
+        },
+        {
+          "title": "Are Wall Street Analysts Bullish on ONEOK Stock?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-oneok-133834214.html",
+          "publisher": "Barchart",
+          "published": "2026-08-12T13:38:34Z"
+        }
+      ]
     },
     {
       "symbol": "D",
@@ -1394,7 +1411,26 @@
       "previous_close": 41.58,
       "change_pct": 1.9,
       "market_cap": 14844393104.484215,
-      "headlines": []
+      "headlines": [
+        {
+          "title": "APA Targets $700M Cost Cuts, 5% Oil Growth as Suriname Project Nears 2028 Start",
+          "url": "https://finance.yahoo.com/energy/articles/apa-targets-700m-cost-cuts-170203957.html",
+          "publisher": "MarketBeat",
+          "published": "2026-08-18T17:02:03Z"
+        },
+        {
+          "title": "1 Profitable Stock with Impressive Fundamentals and 2 We Question",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/1-profitable-stock-impressive-fundamentals-094933173.html",
+          "publisher": "StockStory",
+          "published": "2026-08-18T09:49:33Z"
+        },
+        {
+          "title": "U.S. Shale Majors Cut Spending Despite Higher Oil Prices",
+          "url": "https://finance.yahoo.com/energy/articles/u-shale-majors-cut-spending-230000849.html",
+          "publisher": "Oilprice.com",
+          "published": "2026-08-17T23:00:00Z"
+        }
+      ]
     },
     {
       "symbol": "NXT",
@@ -1505,6 +1541,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/nuscale-power-falls-6-q2-163346713.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-08-18T16:33:46Z"
+        }
+      ]
+    },
+    {
+      "symbol": "NOV",
+      "name": "NOV Inc",
+      "price": 20.99,
+      "previous_close": 21.6,
+      "change_pct": -2.82,
+      "market_cap": 7482475762.158632,
+      "headlines": [
+        {
+          "title": "Solaris Energy Q2 Earnings Beat Estimates on Power Solutions Growth",
+          "url": "https://finance.yahoo.com/energy/articles/solaris-energy-q2-earnings-beat-141500398.html",
+          "publisher": "Zacks",
+          "published": "2026-08-13T14:15:00Z"
+        },
+        {
+          "title": "APA Corp Q2 Earnings Beat Estimates on Higher Oil Prices",
+          "url": "https://finance.yahoo.com/energy/articles/apa-corp-q2-earnings-beat-160100062.html",
+          "publisher": "Zacks",
+          "published": "2026-08-12T16:01:00Z"
+        },
+        {
+          "title": "Permian Resources Beats Q2 Earnings on Strong Price Realizations",
+          "url": "https://finance.yahoo.com/energy/articles/permian-resources-beats-q2-earnings-155400675.html",
+          "publisher": "Zacks",
+          "published": "2026-08-12T15:54:00Z"
         }
       ]
     },
@@ -2051,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 84.95,
-      "change_pct": 0.01
+      "price": 84.99,
+      "change_pct": 0.06
     },
     {
       "label": "Brent",
-      "price": 91.93,
-      "change_pct": 1.0
+      "price": 91.97,
+      "change_pct": 1.04
     },
     {
       "label": "NatGas",
-      "price": 2.78,
-      "change_pct": 0.29
+      "price": 2.79,
+      "change_pct": 0.32
     }
   ]
 }
