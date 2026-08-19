@@ -8,20 +8,20 @@ Signed file: `NXT.research.19.08.2026`
 | Market cap | $14.15B |
 | Sector / Industry | Technology / Solar |
 | Main theme | Solar — see catalysts below |
-| Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: high. |
+| Current stance | High technical momentum, mixed fundamentals, value: reasonable, risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-08-19.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-15.77%) with negative half-year (-24.86%). |
+| Technical momentum | High | 1Y +70.62%; price -15.76% vs SMA200. |
 | Fresh setup quality | Poor / broken | -41.10% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 16.36%, revenue growth 8.20%. |
 | Value attractiveness | Reasonable | Forward P/E 15.94, EV/Sales 3.49. |
 | Risk level | High | Beta 1.95, ATR 6.9% of price, short float 7.57%. |
 
-**Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: high.
+**Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -44,10 +44,10 @@ Nextpower Inc. provides solar and energy technology solutions for utility-scale 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $92.12; 52w high $156.40 (-41.10%); 52w low $64.04 (+43.85%) |
-| Trend | -15.77% vs SMA200, -14.78% vs SMA50, -6.65% vs SMA20 |
-| Momentum | RSI(14) 39.3 (neutral) |
-| Volatility | ATR(14) 6.36 (~6.9% of price); beta 1.95 |
+| Price vs 52-week range | Close $92.12; 52w high $156.40 (-41.10%); 52w low $60.58 (+52.06%) |
+| Trend | -15.76% vs SMA200, -15.19% vs SMA50, -6.64% vs SMA20 |
+| Momentum | RSI(14) 39.1 (neutral) |
+| Volatility | ATR(14) 6.33 (~6.9% of price); beta 1.95 |
 | Setup perspective | -41.10% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
@@ -55,10 +55,10 @@ Nextpower Inc. provides solar and energy technology solutions for utility-scale 
 | Window | Return |
 |---|---|
 | Week | -11.1% |
-| Month | -8.1% |
-| Quarter | -31.5% |
-| Half Y | -24.9% |
-| 1Y | +52.1% |
+| Month | -10.6% |
+| Quarter | -36.2% |
+| Half Y | -20.9% |
+| 1Y | +70.6% |
 | YTD | -0.7% |
 
 ## 4. Fundamental Analysis
@@ -115,13 +115,13 @@ Nextpower Inc. provides solar and energy technology solutions for utility-scale 
 | Price | $92.12 | EV/Sales | 3.49 |
 | Market cap | $14.15B | EV/EBITDA | 16.90 |
 | Beta | 1.95 | Gross margin | 22.98% |
-| RSI(14) | 39.3 | Operating margin | 20.86% |
-| ATR(14) | 6.36 | Profit margin | 16.36% |
-| SMA20 dist | -6.65% | ROA | 11.68% |
-| SMA50 dist | -14.78% | ROE | 27.22% |
-| SMA200 dist | -15.77% | Revenue (ttm) | $3.63B |
+| RSI(14) | 39.1 | Operating margin | 20.86% |
+| ATR(14) | 6.33 | Profit margin | 16.36% |
+| SMA20 dist | -6.64% | ROA | 11.68% |
+| SMA50 dist | -15.19% | ROE | 27.22% |
+| SMA200 dist | -15.76% | Revenue (ttm) | $3.63B |
 | 52W high | $156.40 | Revenue growth y/y | 8.20% |
-| 52W low | $64.04 | Inst. ownership | 109.68% |
+| 52W low | $60.58 | Inst. ownership | 109.68% |
 | P/E (ttm) | 23.80 | Insider ownership | 0.63% |
 | Forward P/E | 15.94 | Short float | 7.57% |
 | PEG (trailing) | 3.15 | Avg volume | 3,084,614 |
@@ -141,7 +141,7 @@ Nextpower Inc. provides solar and energy technology solutions for utility-scale 
 | 2026-07-28 | reit | Roth Capital | Buy → Buy |
 
 ## 9. Conclusion
-NXT: Low momentum / mixed fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+NXT: High momentum / mixed fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

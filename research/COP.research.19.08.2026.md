@@ -36,10 +36,10 @@ ConocoPhillips explores for, produces, transports, and markets crude oil, bitume
 
 | Headline | Source | Date |
 |---|---|---|
+| Top Research Reports for NVIDIA, Applied Materials & ConocoPhillips | Zacks | 2026-08-19 |
 | ExxonMobil's Return Comes From Somewhere The Index Does Not Go | Trefis | 2026-08-19 |
 | ConocoPhillips (COP) Has Low-Cost Inventory and a Major Cash Flow Catalyst Ahead | Insider Monkey | 2026-08-19 |
 | XOM Runs One Of The Market's Biggest Cash-Return Machines | Trefis | 2026-08-18 |
-| The Questions That Decide CVX Stock | Trefis | 2026-08-17 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

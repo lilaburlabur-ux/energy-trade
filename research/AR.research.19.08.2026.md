@@ -15,7 +15,7 @@ Signed file: `AR.research.19.08.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +15.84%; price +3.18% vs SMA200. |
+| Technical momentum | Moderate | 1Y +15.84%; price +3.13% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -17.90% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 18.75%, revenue growth 12.60%. |
 | Value attractiveness | Reasonable | Forward P/E 8.56, EV/Sales —. |
@@ -45,8 +45,8 @@ Antero Resources Corporation, an independent oil and natural gas company, engage
 | Technical item | Read |
 |---|---|
 | Price vs 52-week range | Close $37.07; 52w high $45.15 (-17.90%); 52w low $29.87 (+24.10%) |
-| Trend | +3.18% vs SMA200, +6.15% vs SMA50, +3.65% vs SMA20 |
-| Momentum | RSI(14) 57.8 (neutral) |
+| Trend | +3.13% vs SMA200, +5.91% vs SMA50, +3.28% vs SMA20 |
+| Momentum | RSI(14) 56.9 (neutral) |
 | Volatility | ATR(14) 1.12 (~3.0% of price); beta 0.34 |
 | Setup perspective | -17.90% from 52w high; no clean fresh pivot by default. |
 
@@ -113,11 +113,11 @@ Antero Resources Corporation, an independent oil and natural gas company, engage
 | Price | $37.07 | EV/Sales | — |
 | Market cap | $11.40B | EV/EBITDA | — |
 | Beta | 0.34 | Gross margin | 67.15% |
-| RSI(14) | 57.8 | Operating margin | 26.02% |
+| RSI(14) | 56.9 | Operating margin | 26.02% |
 | ATR(14) | 1.12 | Profit margin | 18.75% |
-| SMA20 dist | +3.65% | ROA | 6.61% |
-| SMA50 dist | +6.15% | ROE | 14.22% |
-| SMA200 dist | +3.18% | Revenue (ttm) | $5.78B |
+| SMA20 dist | +3.28% | ROA | 6.61% |
+| SMA50 dist | +5.91% | ROE | 14.22% |
+| SMA200 dist | +3.13% | Revenue (ttm) | $5.78B |
 | 52W high | $45.15 | Revenue growth y/y | 12.60% |
 | 52W low | $29.87 | Inst. ownership | 91.55% |
 | P/E (ttm) | 10.62 | Insider ownership | 4.41% |

@@ -1,5 +1,5 @@
 # APA Research Report
-**APA Corporation** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**APA Corp** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `APA.research.19.08.2026`
 
 | Field | Value |

@@ -15,10 +15,10 @@ Signed file: `TRGP.research.19.08.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +88.44%; price +30.05% vs SMA200. |
+| Technical momentum | High | 1Y +83.36%; price +nan% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -0.23% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 13.54%, revenue growth 4.20%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 24.63, EV/Sales 4.98. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 24.69, EV/Sales 4.98. |
 | Risk level | Moderate | Beta 0.72, ATR 2.9% of price, short float 2.51%. |
 
 **Bottom line:** High technical momentum, mixed fundamentals, value: fair-to-demanding, risk: moderate.
@@ -45,9 +45,9 @@ Targa Resources Corp., together with its subsidiaries, owns, operates, acquires,
 | Technical item | Read |
 |---|---|
 | Price vs 52-week range | Close $297.09; 52w high $297.77 (-0.23%); 52w low $143.22 (+107.44%) |
-| Trend | +30.05% vs SMA200, +9.91% vs SMA50, +9.62% vs SMA20 |
-| Momentum | RSI(14) 67.4 (neutral) |
-| Volatility | ATR(14) 8.71 (~2.9% of price); beta 0.72 |
+| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
+| Momentum | RSI(14) 68.1 (neutral) |
+| Volatility | ATR(14) 8.70 (~2.9% of price); beta 0.72 |
 | Setup perspective | -0.23% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
@@ -55,10 +55,10 @@ Targa Resources Corp., together with its subsidiaries, owns, operates, acquires,
 | Window | Return |
 |---|---|
 | Week | +10.6% |
-| Month | +6.5% |
-| Quarter | +8.1% |
-| Half Y | +31.8% |
-| 1Y | +88.4% |
+| Month | +5.5% |
+| Quarter | +9.7% |
+| Half Y | +34.0% |
+| 1Y | +83.4% |
 | YTD | +61.4% |
 
 ## 4. Fundamental Analysis
@@ -68,7 +68,7 @@ Targa Resources Corp., together with its subsidiaries, owns, operates, acquires,
 | Revenue (ttm) | $16.74B | Revenue growth 4.20% y/y |
 | Profitability | Gross 43.19%, operating 27.80%, net 13.54% | ROA 9.24%, ROE 70.84% |
 | Balance sheet | Cash $132.30M, debt $19.58B | Current ratio 0.77, debt/equity 515.79 |
-| Valuation | P/E 28.43, forward P/E 24.63, P/S 3.81, P/B 20.34 | EV/Sales 4.98, EV/EBITDA 15.18 |
+| Valuation | P/E 28.43, forward P/E 24.69, P/S 3.81, P/B 20.34 | EV/Sales 4.98, EV/EBITDA 15.18 |
 | Growth expectations | Earnings growth 23.30%, EPS q/q 21.50% | Analyst mean target $301.81 (21 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ Targa Resources Corp., together with its subsidiaries, owns, operates, acquires,
 | Morgan Stanley | 3,559,424 | 1.66% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 24.63, EV/Sales 4.98. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 24.69, EV/Sales 4.98. Multiple compression is the main downside if growth disappoints.
 - **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -114,15 +114,15 @@ Targa Resources Corp., together with its subsidiaries, owns, operates, acquires,
 | Price | $297.09 | EV/Sales | 4.98 |
 | Market cap | $63.71B | EV/EBITDA | 15.18 |
 | Beta | 0.72 | Gross margin | 43.19% |
-| RSI(14) | 67.4 | Operating margin | 27.80% |
-| ATR(14) | 8.71 | Profit margin | 13.54% |
-| SMA20 dist | +9.62% | ROA | 9.24% |
-| SMA50 dist | +9.91% | ROE | 70.84% |
-| SMA200 dist | +30.05% | Revenue (ttm) | $16.74B |
+| RSI(14) | 68.1 | Operating margin | 27.80% |
+| ATR(14) | 8.70 | Profit margin | 13.54% |
+| SMA20 dist | +nan% | ROA | 9.24% |
+| SMA50 dist | +nan% | ROE | 70.84% |
+| SMA200 dist | +nan% | Revenue (ttm) | $16.74B |
 | 52W high | $297.77 | Revenue growth y/y | 4.20% |
 | 52W low | $143.22 | Inst. ownership | 97.49% |
 | P/E (ttm) | 28.43 | Insider ownership | 1.37% |
-| Forward P/E | 24.63 | Short float | 2.51% |
+| Forward P/E | 24.69 | Short float | 2.51% |
 | PEG (trailing) | — | Avg volume | 1,213,891 |
 | P/S | 3.81 | Employees | 3,570 |
 | P/B | 20.34 | Analyst rec (1=buy..5=sell) | 1.5 |

@@ -5,7 +5,7 @@ Signed file: `PEG.research.19.08.2026`
 | Field | Value |
 |---|---|
 | Current price | $75.33 (2026-08-19, ~15-min delayed) |
-| Market cap | $37.54B |
+| Market cap | $37.55B |
 | Sector / Industry | Utilities / Utilities - Regulated Electric |
 | Main theme | Utilities - Regulated Electric — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,7 +15,7 @@ Signed file: `PEG.research.19.08.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-5.34%) with negative half-year (-9.20%). |
+| Technical momentum | Low | Below SMA200 (-5.34%) with negative half-year (-11.32%). |
 | Fresh setup quality | Moderate / wait | -11.91% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 16.04%, revenue growth -8.90%. |
 | Value attractiveness | Reasonable | Forward P/E 16.12, EV/Sales 4.96. |
@@ -45,9 +45,9 @@ Public Service Enterprise Group Incorporated, through its subsidiaries, operates
 | Technical item | Read |
 |---|---|
 | Price vs 52-week range | Close $75.33; 52w high $85.51 (-11.91%); 52w low $74.56 (+1.03%) |
-| Trend | -5.34% vs SMA200, -4.49% vs SMA50, -1.72% vs SMA20 |
+| Trend | -5.34% vs SMA200, -4.46% vs SMA50, -1.72% vs SMA20 |
 | Momentum | RSI(14) 37.5 (neutral) |
-| Volatility | ATR(14) 1.32 (~1.8% of price); beta 0.53 |
+| Volatility | ATR(14) 1.34 (~1.8% of price); beta 0.53 |
 | Setup perspective | -11.91% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
@@ -55,10 +55,10 @@ Public Service Enterprise Group Incorporated, through its subsidiaries, operates
 | Window | Return |
 |---|---|
 | Week | -0.7% |
-| Month | -2.7% |
-| Quarter | -1.7% |
-| Half Y | -9.2% |
-| 1Y | -7.5% |
+| Month | -4.2% |
+| Quarter | -0.6% |
+| Half Y | -11.3% |
+| 1Y | -10.3% |
 | YTD | -5.4% |
 
 ## 4. Fundamental Analysis
@@ -110,12 +110,12 @@ Public Service Enterprise Group Incorporated, through its subsidiaries, operates
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $75.33 | EV/Sales | 4.96 |
-| Market cap | $37.54B | EV/EBITDA | 13.93 |
+| Market cap | $37.55B | EV/EBITDA | 13.93 |
 | Beta | 0.53 | Gross margin | 33.33% |
 | RSI(14) | 37.5 | Operating margin | 18.87% |
-| ATR(14) | 1.32 | Profit margin | 16.04% |
+| ATR(14) | 1.34 | Profit margin | 16.04% |
 | SMA20 dist | -1.72% | ROA | 3.24% |
-| SMA50 dist | -4.49% | ROE | 11.83% |
+| SMA50 dist | -4.46% | ROE | 11.83% |
 | SMA200 dist | -5.34% | Revenue (ttm) | $12.54B |
 | 52W high | $85.51 | Revenue growth y/y | -8.90% |
 | 52W low | $74.56 | Inst. ownership | 79.43% |

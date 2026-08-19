@@ -5,7 +5,7 @@ Signed file: `OKE.research.19.08.2026`
 | Field | Value |
 |---|---|
 | Current price | $96.01 (2026-08-19, ~15-min delayed) |
-| Market cap | $60.49B |
+| Market cap | $60.52B |
 | Sector / Industry | Energy / Oil & Gas Midstream |
 | Main theme | Oil & Gas Midstream — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,7 +15,7 @@ Signed file: `OKE.research.19.08.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +38.58%; price +17.77% vs SMA200. |
+| Technical momentum | Moderate | 1Y +35.32%; price +18.16% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -1.09% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 9.29%, revenue growth 52.80%. |
 | Value attractiveness | Reasonable | Forward P/E 15.26, EV/Sales 2.39. |
@@ -45,8 +45,8 @@ ONEOK, Inc. operates as a midstream service provider of gathering, processing, f
 | Technical item | Read |
 |---|---|
 | Price vs 52-week range | Close $96.01; 52w high $97.07 (-1.09%); 52w low $61.95 (+54.98%) |
-| Trend | +17.77% vs SMA200, +7.56% vs SMA50, +5.80% vs SMA20 |
-| Momentum | RSI(14) 64.9 (neutral) |
+| Trend | +18.16% vs SMA200, +7.74% vs SMA50, +5.80% vs SMA20 |
+| Momentum | RSI(14) 65.2 (neutral) |
 | Volatility | ATR(14) 2.35 (~2.4% of price); beta 0.71 |
 | Setup perspective | -1.09% from 52w high; no clean fresh pivot by default. |
 
@@ -55,10 +55,10 @@ ONEOK, Inc. operates as a midstream service provider of gathering, processing, f
 | Window | Return |
 |---|---|
 | Week | +3.8% |
-| Month | +5.8% |
-| Quarter | +2.0% |
-| Half Y | +13.3% |
-| 1Y | +38.6% |
+| Month | +3.9% |
+| Quarter | +5.2% |
+| Half Y | +14.2% |
+| 1Y | +35.3% |
 | YTD | +34.1% |
 
 ## 4. Fundamental Analysis
@@ -112,13 +112,13 @@ ONEOK, Inc. operates as a midstream service provider of gathering, processing, f
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $96.01 | EV/Sales | 2.39 |
-| Market cap | $60.49B | EV/EBITDA | 12.28 |
+| Market cap | $60.52B | EV/EBITDA | 12.28 |
 | Beta | 0.71 | Gross margin | 27.21% |
-| RSI(14) | 64.9 | Operating margin | 13.25% |
+| RSI(14) | 65.2 | Operating margin | 13.25% |
 | ATR(14) | 2.35 | Profit margin | 9.29% |
 | SMA20 dist | +5.80% | ROA | 5.77% |
-| SMA50 dist | +7.56% | ROE | 16.28% |
-| SMA200 dist | +17.77% | Revenue (ttm) | $39.37B |
+| SMA50 dist | +7.74% | ROE | 16.28% |
+| SMA200 dist | +18.16% | Revenue (ttm) | $39.37B |
 | 52W high | $97.07 | Revenue growth y/y | 52.80% |
 | 52W low | $61.95 | Inst. ownership | 84.81% |
 | P/E (ttm) | 16.58 | Insider ownership | 0.15% |

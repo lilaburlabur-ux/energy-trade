@@ -15,7 +15,7 @@ Signed file: `D.research.19.08.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +18.06%; price +8.43% vs SMA200. |
+| Technical momentum | Moderate | 1Y +16.55%; price +8.66% vs SMA200. |
 | Fresh setup quality | Watch | -4.74% from 52w high and near SMA20 — check for a tight base. |
 | Fundamental quality | Mixed | Profit margin 13.98%, revenue growth 17.60%. |
 | Value attractiveness | Reasonable | Forward P/E 17.90, EV/Sales 6.60. |
@@ -45,9 +45,9 @@ Dominion Energy, Inc. provides regulated electricity and natural gas services in
 | Technical item | Read |
 |---|---|
 | Price vs 52-week range | Close $68.29; 52w high $71.69 (-4.74%); 52w low $55.92 (+22.12%) |
-| Trend | +8.43% vs SMA200, -1.19% vs SMA50, -1.00% vs SMA20 |
-| Momentum | RSI(14) 45.8 (neutral) |
-| Volatility | ATR(14) 1.18 (~1.7% of price); beta 0.63 |
+| Trend | +8.66% vs SMA200, -0.94% vs SMA50, -1.00% vs SMA20 |
+| Momentum | RSI(14) 46.2 (neutral) |
+| Volatility | ATR(14) 1.19 (~1.7% of price); beta 0.63 |
 | Setup perspective | -4.74% from 52w high and near SMA20 — check for a tight base. |
 
 **Performance snapshot:**
@@ -55,10 +55,10 @@ Dominion Energy, Inc. provides regulated electricity and natural gas services in
 | Window | Return |
 |---|---|
 | Week | +0.4% |
-| Month | -2.2% |
-| Quarter | +1.2% |
-| Half Y | +7.7% |
-| 1Y | +18.1% |
+| Month | -3.9% |
+| Quarter | +11.7% |
+| Half Y | +4.8% |
+| 1Y | +16.6% |
 | YTD | +17.7% |
 
 ## 4. Fundamental Analysis
@@ -113,11 +113,11 @@ Dominion Energy, Inc. provides regulated electricity and natural gas services in
 | Price | $68.29 | EV/Sales | 6.60 |
 | Market cap | $60.06B | EV/EBITDA | 14.35 |
 | Beta | 0.63 | Gross margin | 46.22% |
-| RSI(14) | 45.8 | Operating margin | 29.22% |
-| ATR(14) | 1.18 | Profit margin | 13.98% |
+| RSI(14) | 46.2 | Operating margin | 29.22% |
+| ATR(14) | 1.19 | Profit margin | 13.98% |
 | SMA20 dist | -1.00% | ROA | 3.04% |
-| SMA50 dist | -1.19% | ROE | 8.28% |
-| SMA200 dist | +8.43% | Revenue (ttm) | $18.12B |
+| SMA50 dist | -0.94% | ROE | 8.28% |
+| SMA200 dist | +8.66% | Revenue (ttm) | $18.12B |
 | 52W high | $71.69 | Revenue growth y/y | 17.60% |
 | 52W low | $55.92 | Inst. ownership | 83.03% |
 | P/E (ttm) | 23.63 | Insider ownership | 0.13% |

@@ -1,5 +1,5 @@
 # EQT Research Report
-**EQT Corporation** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**EQT Corp** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `EQT.research.19.08.2026`
 
 | Field | Value |

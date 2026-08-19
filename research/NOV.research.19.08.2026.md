@@ -1,5 +1,5 @@
 # NOV Research Report
-**NOV Inc.** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**NOV Inc** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `NOV.research.19.08.2026`
 
 | Field | Value |
@@ -15,7 +15,7 @@ Signed file: `NOV.research.19.08.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +71.44%; price +12.09% vs SMA200. |
+| Technical momentum | High | 1Y +74.12%; price +12.26% vs SMA200. |
 | Fresh setup quality | Watch | -4.21% from 52w high and near SMA20 — check for a tight base. |
 | Fundamental quality | Mixed | Profit margin 1.10%, revenue growth -2.50%. |
 | Value attractiveness | Reasonable | Forward P/E 16.04, EV/Sales 1.01. |
@@ -45,8 +45,8 @@ NOV Inc. designs, constructs, manufactures, and sells systems, components, and p
 | Technical item | Read |
 |---|---|
 | Price vs 52-week range | Close $20.69; 52w high $21.60 (-4.21%); 52w low $11.90 (+73.83%) |
-| Trend | +12.09% vs SMA200, +5.24% vs SMA50, +2.13% vs SMA20 |
-| Momentum | RSI(14) 54.9 (neutral) |
+| Trend | +12.26% vs SMA200, +5.15% vs SMA50, +2.13% vs SMA20 |
+| Momentum | RSI(14) 55.0 (neutral) |
 | Volatility | ATR(14) 0.66 (~3.2% of price); beta 0.94 |
 | Setup perspective | -4.21% from 52w high and near SMA20 — check for a tight base. |
 
@@ -55,10 +55,10 @@ NOV Inc. designs, constructs, manufactures, and sells systems, components, and p
 | Window | Return |
 |---|---|
 | Week | -1.1% |
-| Month | +2.5% |
-| Quarter | -0.4% |
-| Half Y | +4.9% |
-| 1Y | +71.4% |
+| Month | +5.8% |
+| Quarter | -1.4% |
+| Half Y | +10.0% |
+| 1Y | +74.1% |
 | YTD | +27.8% |
 
 ## 4. Fundamental Analysis
@@ -115,11 +115,11 @@ NOV Inc. designs, constructs, manufactures, and sells systems, components, and p
 | Price | $20.69 | EV/Sales | 1.01 |
 | Market cap | $7.38B | EV/EBITDA | 8.82 |
 | Beta | 0.94 | Gross margin | 21.65% |
-| RSI(14) | 54.9 | Operating margin | 7.17% |
+| RSI(14) | 55.0 | Operating margin | 7.17% |
 | ATR(14) | 0.66 | Profit margin | 1.10% |
 | SMA20 dist | +2.13% | ROA | 3.45% |
-| SMA50 dist | +5.24% | ROE | 1.54% |
-| SMA200 dist | +12.09% | Revenue (ttm) | $8.64B |
+| SMA50 dist | +5.15% | ROE | 1.54% |
+| SMA200 dist | +12.26% | Revenue (ttm) | $8.64B |
 | 52W high | $21.60 | Revenue growth y/y | -2.50% |
 | 52W low | $11.90 | Inst. ownership | 108.46% |
 | P/E (ttm) | 76.63 | Insider ownership | 0.73% |

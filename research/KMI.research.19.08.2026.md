@@ -1,11 +1,11 @@
 # KMI Research Report
-**Kinder Morgan, Inc.** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**Kinder Morgan** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `KMI.research.19.08.2026`
 
 | Field | Value |
 |---|---|
 | Current price | $32.08 (2026-08-19, ~15-min delayed) |
-| Market cap | $71.37B |
+| Market cap | $71.44B |
 | Sector / Industry | Energy / Oil & Gas Midstream |
 | Main theme | Oil & Gas Midstream — see catalysts below |
 | Current stance | Moderate technical momentum, strong fundamentals, value: fair-to-demanding, risk: moderate. |
@@ -68,7 +68,7 @@ Kinder Morgan, Inc. operates as an energy infrastructure company primarily in No
 | Revenue (ttm) | $17.96B | Revenue growth 10.80% y/y |
 | Profitability | Gross 49.41%, operating 30.06%, net 19.30% | ROA 4.45%, ROE 10.99% |
 | Balance sheet | Cash $91.00M, debt $32.43B | Current ratio 0.46, debt/equity 98.62 |
-| Valuation | P/E 20.70, forward P/E 20.87, P/S 3.97, P/B 2.26 | EV/Sales 5.95, EV/EBITDA 13.98 |
+| Valuation | P/E 20.70, forward P/E 20.87, P/S 3.98, P/B 2.26 | EV/Sales 5.95, EV/EBITDA 13.98 |
 | Growth expectations | Earnings growth 21.20%, EPS q/q 21.30% | Analyst mean target $35.81 (21 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -112,7 +112,7 @@ Kinder Morgan, Inc. operates as an energy infrastructure company primarily in No
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $32.08 | EV/Sales | 5.95 |
-| Market cap | $71.37B | EV/EBITDA | 13.98 |
+| Market cap | $71.44B | EV/EBITDA | 13.98 |
 | Beta | 0.55 | Gross margin | 49.41% |
 | RSI(14) | 51.9 | Operating margin | 30.06% |
 | ATR(14) | 0.72 | Profit margin | 19.30% |
@@ -124,7 +124,7 @@ Kinder Morgan, Inc. operates as an energy infrastructure company primarily in No
 | P/E (ttm) | 20.70 | Insider ownership | 12.70% |
 | Forward P/E | 20.87 | Short float | 2.34% |
 | PEG (trailing) | 3.57 | Avg volume | 9,869,195 |
-| P/S | 3.97 | Employees | 11,028 |
+| P/S | 3.98 | Employees | 11,028 |
 | P/B | 2.26 | Analyst rec (1=buy..5=sell) | 2.1 |
 
 ## 8. Analyst Actions
