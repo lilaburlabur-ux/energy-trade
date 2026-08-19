@@ -1,27 +1,10 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-19T17:47:59+00:00",
+  "as_of": "2026-08-19T18:20:22+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": [
-  {
-   "rank": 1,
-   "ticker": "SMR",
-   "company": "NuScale Power Corporation",
-   "move_pct": 6.17,
-   "price": 9.17,
-   "volume": 21753210,
-   "volume_vs_avg": "~0.7x",
-   "heat_score": 40,
-   "direction": "up",
-   "why": "Can X-Energy's Fuel Strategy Accelerate SMR Commercialization?",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/energy/articles/x-energys-fuel-strategy-accelerate-140900269.html",
-   "published": "2026-08-19T14:09:00Z",
-   "sector": "Nuclear & Uranium"
-  }
- ]
+ "hot_tickers": []
 }
