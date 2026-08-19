@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-08-19T09:50:10+00:00",
-  "as_of_local": "2026-08-19 09:50:10 UTC",
+  "as_of_utc": "2026-08-19T10:01:55+00:00",
+  "as_of_local": "2026-08-19 10:01:55 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -741,16 +741,16 @@
       "market_cap": 63851122767.36044,
       "headlines": [
         {
-          "title": "US Stock Market Today: S&P 500 Futures Slip On Rising Yields And Costly Energy",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-081310712.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-08-19T08:13:10Z"
-        },
-        {
           "title": "Dow Jones Futures Fall; After Sandisk, Micron, Credo Lead AI Losses, Market Rally Nears Key Test",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sandisk-micron-credo-ai-stocks-target-earnings/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
           "published": "2026-08-19T09:47:58Z"
+        },
+        {
+          "title": "US Stock Market Today: S&P 500 Futures Slip On Rising Yields And Costly Energy",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-081310712.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-08-19T08:13:10Z"
         },
         {
           "title": "Update: Technology Leads US Equity Indexes Lower as 30-Year Yield Touches 19-Year High, Crude Oil Extends Gains",
@@ -2115,8 +2115,8 @@
     },
     {
       "label": "WTI",
-      "price": 84.86,
-      "change_pct": -0.09
+      "price": 84.85,
+      "change_pct": -0.11
     },
     {
       "label": "Brent",
@@ -2126,7 +2126,7 @@
     {
       "label": "NatGas",
       "price": 2.79,
-      "change_pct": 0.43
+      "change_pct": 0.32
     }
   ]
 }
