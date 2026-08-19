@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-08-19T08:16:50+00:00",
-  "as_of_local": "2026-08-19 08:16:50 UTC",
+  "as_of_utc": "2026-08-19T08:23:00+00:00",
+  "as_of_local": "2026-08-19 08:23:00 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -97,22 +97,22 @@
       "market_cap": 253851390300.68222,
       "headlines": [
         {
+          "title": "Can Shell (LSE:SHEL) Stay Undervalued After Its 187% Run?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/shell-lse-shel-stay-undervalued-081300083.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-08-19T08:13:00Z"
+        },
+        {
+          "title": "FTSE 100 Live: Blue-chips open higher as miners gain, UK inflation ticks up",
+          "url": "https://finance.yahoo.com/markets/world-indices/articles/ftse-100-live-blue-chips-061500435.html",
+          "publisher": "Proactive",
+          "published": "2026-08-19T06:15:00Z"
+        },
+        {
           "title": "C3.ai vs. Lumentum: What Recent Revenue Trajectories Tell Investors About These Artificial Intelligence Companies",
           "url": "https://finance.yahoo.com/technology/ai/articles/c3-ai-vs-lumentum-recent-052927346.html",
           "publisher": "Motley Fool",
           "published": "2026-08-19T05:29:27Z"
-        },
-        {
-          "title": "McDonald's puts a gas discount deal on its loyalty menu",
-          "url": "https://finance.yahoo.com/media-advertising/articles/mcdonalds-way-save-money-gas-210543842.html",
-          "publisher": "TheStreet",
-          "published": "2026-08-19T02:48:18Z"
-        },
-        {
-          "title": "Shell's Unit Signs EPC and O&M Contracts for Bataan Battery Project",
-          "url": "https://finance.yahoo.com/energy/articles/shells-unit-signs-epc-o-140200469.html",
-          "publisher": "Zacks",
-          "published": "2026-08-18T14:02:00Z"
         }
       ]
     },
@@ -237,6 +237,12 @@
       "market_cap": 111795608329.11395,
       "headlines": [
         {
+          "title": "FTSE 100 Live: Blue-chips open higher as miners gain, UK inflation ticks up",
+          "url": "https://finance.yahoo.com/markets/world-indices/articles/ftse-100-live-blue-chips-061500435.html",
+          "publisher": "Proactive",
+          "published": "2026-08-19T06:15:00Z"
+        },
+        {
           "title": "The \u2018tax on the City\u2019 fuelling the stock market\u2019s collapse",
           "url": "https://finance.yahoo.com/economy/policy/articles/tax-city-fuelling-stock-market-050000661.html",
           "publisher": "The Telegraph",
@@ -247,12 +253,6 @@
           "url": "https://finance.yahoo.com/energy/articles/chevrons-angola-discovery-could-open-142800027.html",
           "publisher": "Zacks",
           "published": "2026-08-18T14:28:00Z"
-        },
-        {
-          "title": "Big Oil\u2019s Liabilities Are Shrinking. What\u2019s Next?",
-          "url": "https://www.wsj.com/finance/stocks/big-oils-liabilities-are-shrinking-whats-next-c2242dbf?siteid=yhoof2&yptr=yahoo",
-          "publisher": "The Wall Street Journal",
-          "published": "2026-08-18T10:28:00Z"
         }
       ]
     },
@@ -2115,13 +2115,13 @@
     },
     {
       "label": "WTI",
-      "price": 84.65,
-      "change_pct": -0.34
+      "price": 84.6,
+      "change_pct": -0.4
     },
     {
       "label": "Brent",
-      "price": 91.6,
-      "change_pct": 0.64
+      "price": 91.52,
+      "change_pct": 0.55
     },
     {
       "label": "NatGas",
