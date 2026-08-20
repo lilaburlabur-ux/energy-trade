@@ -1,11 +1,11 @@
 # SU Research Report
-**Suncor Energy** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**Suncor Energy Inc.** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `SU.research.20.08.2026`
 
 | Field | Value |
 |---|---|
 | Current price | $67.94 (2026-08-20, ~15-min delayed) |
-| Market cap | $80.22B |
+| Market cap | $79.46B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
 | Current stance | High technical momentum, strong fundamentals, value: reasonable, risk: moderate. |
@@ -18,7 +18,7 @@ Signed file: `SU.research.20.08.2026`
 | Technical momentum | High | 1Y +79.67%; price +20.65% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -1.92% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 15.78%, revenue growth 45.90%. |
-| Value attractiveness | Reasonable | Forward P/E 12.03, EV/Sales 1.56. |
+| Value attractiveness | Reasonable | Forward P/E 11.95, EV/Sales 1.56. |
 | Risk level | Moderate | Beta 0.57, ATR 2.6% of price, short float —. |
 
 **Bottom line:** High technical momentum, strong fundamentals, value: reasonable, risk: moderate.
@@ -68,7 +68,7 @@ Suncor Energy Inc. operates as an integrated energy company in Canada, the Unite
 | Revenue (ttm) | $56.57B | Revenue growth 45.90% y/y |
 | Profitability | Gross 60.40%, operating 29.94%, net 15.78% | ROA 8.58%, ROE 19.25% |
 | Balance sheet | Cash $5.37B, debt $14.68B | Current ratio 1.65, debt/equity 30.48 |
-| Valuation | P/E 12.58, forward P/E 12.03, P/S 1.42, P/B 2.31 | EV/Sales 1.56, EV/EBITDA 4.52 |
+| Valuation | P/E 12.58, forward P/E 11.95, P/S 1.40, P/B 2.31 | EV/Sales 1.56, EV/EBITDA 4.52 |
 | Growth expectations | Earnings growth 241.90%, EPS q/q 229.10% | Analyst mean target $71.11 (3 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -111,7 +111,7 @@ Suncor Energy Inc. operates as an integrated energy company in Canada, the Unite
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $67.94 | EV/Sales | 1.56 |
-| Market cap | $80.22B | EV/EBITDA | 4.52 |
+| Market cap | $79.46B | EV/EBITDA | 4.52 |
 | Beta | 0.57 | Gross margin | 60.40% |
 | RSI(14) | 64.6 | Operating margin | 29.94% |
 | ATR(14) | 1.73 | Profit margin | 15.78% |
@@ -121,9 +121,9 @@ Suncor Energy Inc. operates as an integrated energy company in Canada, the Unite
 | 52W high | $69.27 | Revenue growth y/y | 45.90% |
 | 52W low | $37.63 | Inst. ownership | 73.02% |
 | P/E (ttm) | 12.58 | Insider ownership | 0.01% |
-| Forward P/E | 12.03 | Short float | — |
+| Forward P/E | 11.95 | Short float | — |
 | PEG (trailing) | — | Avg volume | 4,596,861 |
-| P/S | 1.42 | Employees | 15,424 |
+| P/S | 1.40 | Employees | 15,424 |
 | P/B | 2.31 | Analyst rec (1=buy..5=sell) | 1.9 |
 
 ## 8. Analyst Actions

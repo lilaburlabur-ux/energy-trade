@@ -15,7 +15,7 @@ Signed file: `AR.research.20.08.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +24.78%; price +4.66% vs SMA200. |
+| Technical momentum | Moderate | 1Y +24.78%; price +4.71% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -16.59% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 18.75%, revenue growth 12.60%. |
 | Value attractiveness | Reasonable | Forward P/E 8.69, EV/Sales —. |
@@ -45,8 +45,8 @@ Antero Resources Corporation, an independent oil and natural gas company, engage
 | Technical item | Read |
 |---|---|
 | Price vs 52-week range | Close $37.66; 52w high $45.15 (-16.59%); 52w low $29.87 (+26.08%) |
-| Trend | +4.66% vs SMA200, +7.46% vs SMA50, +4.55% vs SMA20 |
-| Momentum | RSI(14) 59.6 (neutral) |
+| Trend | +4.71% vs SMA200, +7.71% vs SMA50, +4.95% vs SMA20 |
+| Momentum | RSI(14) 60.5 (neutral) |
 | Volatility | ATR(14) 1.12 (~3.0% of price); beta 0.34 |
 | Setup perspective | -16.59% from 52w high; no clean fresh pivot by default. |
 
@@ -55,7 +55,7 @@ Antero Resources Corporation, an independent oil and natural gas company, engage
 | Window | Return |
 |---|---|
 | Week | +2.3% |
-| Month | +6.8% |
+| Month | +11.2% |
 | Quarter | -3.4% |
 | Half Y | +11.3% |
 | 1Y | +24.8% |
@@ -112,11 +112,11 @@ Antero Resources Corporation, an independent oil and natural gas company, engage
 | Price | $37.66 | EV/Sales | — |
 | Market cap | $11.58B | EV/EBITDA | — |
 | Beta | 0.34 | Gross margin | 67.15% |
-| RSI(14) | 59.6 | Operating margin | 26.02% |
+| RSI(14) | 60.5 | Operating margin | 26.02% |
 | ATR(14) | 1.12 | Profit margin | 18.75% |
-| SMA20 dist | +4.55% | ROA | 6.61% |
-| SMA50 dist | +7.46% | ROE | 14.22% |
-| SMA200 dist | +4.66% | Revenue (ttm) | $5.78B |
+| SMA20 dist | +4.95% | ROA | 6.61% |
+| SMA50 dist | +7.71% | ROE | 14.22% |
+| SMA200 dist | +4.71% | Revenue (ttm) | $5.78B |
 | 52W high | $45.15 | Revenue growth y/y | 12.60% |
 | 52W low | $29.87 | Inst. ownership | 91.55% |
 | P/E (ttm) | 10.79 | Insider ownership | 4.41% |

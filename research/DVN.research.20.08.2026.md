@@ -1,5 +1,5 @@
 # DVN Research Report
-**Devon Energy** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**Devon Energy Corporation** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `DVN.research.20.08.2026`
 
 | Field | Value |

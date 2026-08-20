@@ -15,7 +15,7 @@ Signed file: `TTE.research.20.08.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +52.33%; price +16.10% vs SMA200. |
+| Technical momentum | Moderate | 1Y +52.14%; price +15.74% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -2.88% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 9.08%, revenue growth 27.80%. |
 | Value attractiveness | Reasonable | Forward P/E 9.43, EV/Sales 1.19. |
@@ -45,9 +45,9 @@ TotalEnergies SE, an integrated energy company, produces and markets oil and bio
 | Technical item | Read |
 |---|---|
 | Price vs 52-week range | Close $90.90; 52w high $93.60 (-2.88%); 52w low $55.92 (+62.55%) |
-| Trend | +16.10% vs SMA200, +8.81% vs SMA50, +4.25% vs SMA20 |
-| Momentum | RSI(14) 67.6 (neutral) |
-| Volatility | ATR(14) 1.74 (~1.9% of price); beta 0.06 |
+| Trend | +15.74% vs SMA200, +9.03% vs SMA50, +4.25% vs SMA20 |
+| Momentum | RSI(14) 67.9 (neutral) |
+| Volatility | ATR(14) 1.69 (~1.9% of price); beta 0.06 |
 | Setup perspective | -2.88% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
@@ -55,10 +55,10 @@ TotalEnergies SE, an integrated energy company, produces and markets oil and bio
 | Window | Return |
 |---|---|
 | Week | +4.4% |
-| Month | +12.5% |
-| Quarter | -2.7% |
-| Half Y | +20.1% |
-| 1Y | +52.3% |
+| Month | +7.1% |
+| Quarter | -1.8% |
+| Half Y | +18.0% |
+| 1Y | +52.1% |
 | YTD | +38.1% |
 
 ## 4. Fundamental Analysis
@@ -113,11 +113,11 @@ TotalEnergies SE, an integrated energy company, produces and markets oil and bio
 | Price | $90.90 | EV/Sales | 1.19 |
 | Market cap | $201.54B | EV/EBITDA | 5.90 |
 | Beta | 0.06 | Gross margin | 37.68% |
-| RSI(14) | 67.6 | Operating margin | 12.79% |
-| ATR(14) | 1.74 | Profit margin | 9.08% |
+| RSI(14) | 67.9 | Operating margin | 12.79% |
+| ATR(14) | 1.69 | Profit margin | 9.08% |
 | SMA20 dist | +4.25% | ROA | 5.51% |
-| SMA50 dist | +8.81% | ROE | 14.48% |
-| SMA200 dist | +16.10% | Revenue (ttm) | $196.38B |
+| SMA50 dist | +9.03% | ROE | 14.48% |
+| SMA200 dist | +15.74% | Revenue (ttm) | $196.38B |
 | 52W high | $93.60 | Revenue growth y/y | 27.80% |
 | 52W low | $55.92 | Inst. ownership | 54.80% |
 | P/E (ttm) | 11.38 | Insider ownership | 8.86% |

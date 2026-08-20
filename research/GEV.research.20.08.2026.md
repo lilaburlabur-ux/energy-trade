@@ -36,10 +36,10 @@ GE Vernova Inc., an energy company, engages in the provision of various products
 
 | Headline | Source | Date |
 |---|---|---|
+| GE Vernova's AI Data Center Orders Just Doubled All of 2025 in 1 Half-Year. Is the Stock Still a Buy? | Motley Fool | 2026-08-20 |
 | Which Industrial Machinery Stock Has Dominated in 2026: GE Vernova, Cummins, or Eaton? | 24/7 Wall St. | 2026-08-19 |
 | Bloom Energy’s AI Surge Meets a Valuation Reality Check | MarketBeat | 2026-08-19 |
 | Fluence Energy, Bloom Energy, Redwire, Ameresco, and GE Vernova Shares Plummet, What You Need To Know | StockStory | 2026-08-18 |
-| Is This The Next CoreWeave Or Nebius Group? A Crusoe IPO Looms | Investor's Business Daily | 2026-08-18 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

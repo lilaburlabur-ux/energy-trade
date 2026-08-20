@@ -15,7 +15,7 @@ Signed file: `TLN.research.20.08.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-12.65%) with negative half-year (-15.85%). |
+| Technical momentum | Low | Below SMA200 (-12.56%) with negative half-year (-16.65%). |
 | Fresh setup quality | Poor / broken | -28.90% from 52w high — base needs to rebuild. |
 | Fundamental quality | Weak | Negative profit margin (-4.95%). |
 | Value attractiveness | Reasonable | Forward P/E 10.32, EV/Sales 6.63. |
@@ -45,9 +45,9 @@ Talen Energy Corporation, an independent power producer and infrastructure compa
 | Technical item | Read |
 |---|---|
 | Price vs 52-week range | Close $316.99; 52w high $445.84 (-28.90%); 52w low $302.97 (+4.63%) |
-| Trend | -12.65% vs SMA200, -13.84% vs SMA50, -7.62% vs SMA20 |
-| Momentum | RSI(14) 38.3 (neutral) |
-| Volatility | ATR(14) 20.20 (~6.4% of price); beta 1.67 |
+| Trend | -12.56% vs SMA200, -13.79% vs SMA50, -7.30% vs SMA20 |
+| Momentum | RSI(14) 38.6 (neutral) |
+| Volatility | ATR(14) 20.34 (~6.4% of price); beta 1.67 |
 | Setup perspective | -28.90% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
@@ -55,10 +55,10 @@ Talen Energy Corporation, an independent power producer and infrastructure compa
 | Window | Return |
 |---|---|
 | Week | -11.6% |
-| Month | -14.9% |
-| Quarter | -5.2% |
-| Half Y | -15.9% |
-| 1Y | -16.7% |
+| Month | -13.4% |
+| Quarter | +0.8% |
+| Half Y | -16.6% |
+| 1Y | -15.9% |
 | YTD | -20.1% |
 
 ## 4. Fundamental Analysis
@@ -116,11 +116,11 @@ Talen Energy Corporation, an independent power producer and infrastructure compa
 | Price | $316.99 | EV/Sales | 6.63 |
 | Market cap | $15.19B | EV/EBITDA | 42.63 |
 | Beta | 1.67 | Gross margin | 42.10% |
-| RSI(14) | 38.3 | Operating margin | -4.80% |
-| ATR(14) | 20.20 | Profit margin | -4.95% |
-| SMA20 dist | -7.62% | ROA | 0.92% |
-| SMA50 dist | -13.84% | ROE | -12.83% |
-| SMA200 dist | -12.65% | Revenue (ttm) | $3.74B |
+| RSI(14) | 38.6 | Operating margin | -4.80% |
+| ATR(14) | 20.34 | Profit margin | -4.95% |
+| SMA20 dist | -7.30% | ROA | 0.92% |
+| SMA50 dist | -13.79% | ROE | -12.83% |
+| SMA200 dist | -12.56% | Revenue (ttm) | $3.74B |
 | 52W high | $445.84 | Revenue growth y/y | 111.20% |
 | 52W low | $302.97 | Inst. ownership | 102.19% |
 | P/E (ttm) | — | Insider ownership | 1.36% |

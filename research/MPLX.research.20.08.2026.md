@@ -5,7 +5,7 @@ Signed file: `MPLX.research.20.08.2026`
 | Field | Value |
 |---|---|
 | Current price | $58.60 (2026-08-20, ~15-min delayed) |
-| Market cap | $59.41B |
+| Market cap | $59.46B |
 | Sector / Industry | Energy / Oil & Gas Midstream |
 | Main theme | Oil & Gas Midstream — see catalysts below |
 | Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate. |
@@ -111,7 +111,7 @@ MPLX LP owns and operates midstream energy infrastructure and logistics assets p
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $58.60 | EV/Sales | 7.05 |
-| Market cap | $59.41B | EV/EBITDA | 13.88 |
+| Market cap | $59.46B | EV/EBITDA | 13.88 |
 | Beta | 0.46 | Gross margin | 55.71% |
 | RSI(14) | 53.7 | Operating margin | 38.25% |
 | ATR(14) | 1.02 | Profit margin | 39.28% |

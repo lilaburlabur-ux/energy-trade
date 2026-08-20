@@ -15,7 +15,7 @@ Signed file: `FSLR.research.20.08.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-8.57%) with negative half-year (-10.27%). |
+| Technical momentum | Low | Below SMA200 (-8.46%) with negative half-year (-8.25%). |
 | Fresh setup quality | Poor / broken | -32.74% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 32.46%, revenue growth -3.70%. |
 | Value attractiveness | Reasonable | Forward P/E 9.27, EV/Sales 4.16. |
@@ -45,9 +45,9 @@ First Solar, Inc., a solar technology company, provides photovoltaic (PV) solar 
 | Technical item | Read |
 |---|---|
 | Price vs 52-week range | Close $214.06; 52w high $318.25 (-32.74%); 52w low $184.70 (+15.90%) |
-| Trend | -8.57% vs SMA200, -7.63% vs SMA50, -4.13% vs SMA20 |
-| Momentum | RSI(14) 42.5 (neutral) |
-| Volatility | ATR(14) 12.21 (~5.7% of price); beta 1.75 |
+| Trend | -8.46% vs SMA200, -7.21% vs SMA50, -4.13% vs SMA20 |
+| Momentum | RSI(14) 42.7 (neutral) |
+| Volatility | ATR(14) 12.15 (~5.7% of price); beta 1.75 |
 | Setup perspective | -32.74% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
@@ -55,10 +55,10 @@ First Solar, Inc., a solar technology company, provides photovoltaic (PV) solar 
 | Window | Return |
 |---|---|
 | Week | -4.3% |
-| Month | +3.9% |
-| Quarter | -3.5% |
-| Half Y | -10.3% |
-| 1Y | -2.4% |
+| Month | +2.5% |
+| Quarter | -10.0% |
+| Half Y | -8.2% |
+| 1Y | +1.5% |
 | YTD | -22.0% |
 
 ## 4. Fundamental Analysis
@@ -115,11 +115,11 @@ First Solar, Inc., a solar technology company, provides photovoltaic (PV) solar 
 | Price | $214.06 | EV/Sales | 4.16 |
 | Market cap | $23.00B | EV/EBITDA | 9.38 |
 | Beta | 1.75 | Gross margin | 44.02% |
-| RSI(14) | 42.5 | Operating margin | 42.64% |
-| ATR(14) | 12.21 | Profit margin | 32.46% |
+| RSI(14) | 42.7 | Operating margin | 42.64% |
+| ATR(14) | 12.15 | Profit margin | 32.46% |
 | SMA20 dist | -4.13% | ROA | 8.62% |
-| SMA50 dist | -7.63% | ROE | 18.51% |
-| SMA200 dist | -8.57% | Revenue (ttm) | $5.38B |
+| SMA50 dist | -7.21% | ROE | 18.51% |
+| SMA200 dist | -8.46% | Revenue (ttm) | $5.38B |
 | 52W high | $318.25 | Revenue growth y/y | -3.70% |
 | 52W low | $184.70 | Inst. ownership | 96.86% |
 | P/E (ttm) | 21.87 | Insider ownership | 5.36% |

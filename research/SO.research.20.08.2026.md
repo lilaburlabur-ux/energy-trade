@@ -1,5 +1,5 @@
 # SO Research Report
-**Southern Company** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**The Southern Company** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `SO.research.20.08.2026`
 
 | Field | Value |
@@ -15,7 +15,7 @@ Signed file: `SO.research.20.08.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +1.20%; price +0.47% vs SMA200. |
+| Technical momentum | Moderate | 1Y +0.29%; price +0.44% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -6.22% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 15.43%, revenue growth 0.10%. |
 | Value attractiveness | Reasonable | Forward P/E 18.57, EV/Sales 6.06. |
@@ -45,9 +45,9 @@ The Southern Company, through its subsidiaries, engages in the sale of electrici
 | Technical item | Read |
 |---|---|
 | Price vs 52-week range | Close $91.43; 52w high $97.49 (-6.22%); 52w low $82.06 (+11.42%) |
-| Trend | +0.47% vs SMA200, -2.44% vs SMA50, -1.55% vs SMA20 |
-| Momentum | RSI(14) 41.1 (neutral) |
-| Volatility | ATR(14) 1.62 (~1.8% of price); beta 0.33 |
+| Trend | +0.44% vs SMA200, -2.55% vs SMA50, -1.55% vs SMA20 |
+| Momentum | RSI(14) 40.9 (neutral) |
+| Volatility | ATR(14) 1.60 (~1.8% of price); beta 0.33 |
 | Setup perspective | -6.22% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
@@ -55,10 +55,10 @@ The Southern Company, through its subsidiaries, engages in the sale of electrici
 | Window | Return |
 |---|---|
 | Week | -0.7% |
-| Month | -2.4% |
-| Quarter | -1.6% |
-| Half Y | +1.0% |
-| 1Y | +1.2% |
+| Month | -3.8% |
+| Quarter | -1.5% |
+| Half Y | -2.2% |
+| 1Y | +0.3% |
 | YTD | +7.5% |
 
 ## 4. Fundamental Analysis
@@ -113,16 +113,16 @@ The Southern Company, through its subsidiaries, engages in the sale of electrici
 | Price | $91.43 | EV/Sales | 6.06 |
 | Market cap | $105.18B | EV/EBITDA | 12.83 |
 | Beta | 0.33 | Gross margin | 48.29% |
-| RSI(14) | 41.1 | Operating margin | 29.61% |
-| ATR(14) | 1.62 | Profit margin | 15.43% |
+| RSI(14) | 40.9 | Operating margin | 29.61% |
+| ATR(14) | 1.60 | Profit margin | 15.43% |
 | SMA20 dist | -1.55% | ROA | 3.27% |
-| SMA50 dist | -2.44% | ROE | 11.48% |
-| SMA200 dist | +0.47% | Revenue (ttm) | $30.18B |
+| SMA50 dist | -2.55% | ROE | 11.48% |
+| SMA200 dist | +0.44% | Revenue (ttm) | $30.18B |
 | 52W high | $97.49 | Revenue growth y/y | 0.10% |
 | 52W low | $82.06 | Inst. ownership | 74.17% |
 | P/E (ttm) | 22.03 | Insider ownership | 0.10% |
 | Forward P/E | 18.57 | Short float | 3.16% |
-| PEG (trailing) | 2.34 | Avg volume | 5,710,804 |
+| PEG (trailing) | 2.35 | Avg volume | 5,710,804 |
 | P/S | 3.49 | Employees | 29,502 |
 | P/B | 2.66 | Analyst rec (1=buy..5=sell) | 2.7 |
 

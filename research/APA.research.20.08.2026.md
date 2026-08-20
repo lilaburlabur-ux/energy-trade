@@ -1,5 +1,5 @@
 # APA Research Report
-**APA Corp** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**APA Corporation** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `APA.research.20.08.2026`
 
 | Field | Value |
@@ -124,7 +124,7 @@ APA Corporation, an independent energy company, explores for, develops, and prod
 | 52W low | $19.65 | Inst. ownership | 109.23% |
 | P/E (ttm) | 9.36 | Insider ownership | 0.44% |
 | Forward P/E | 10.57 | Short float | 11.31% |
-| PEG (trailing) | 0.81 | Avg volume | 5,549,050 |
+| PEG (trailing) | 0.83 | Avg volume | 5,549,050 |
 | P/S | 1.81 | Employees | 1,791 |
 | P/B | 2.22 | Analyst rec (1=buy..5=sell) | 2.6 |
 

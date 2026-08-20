@@ -15,7 +15,7 @@ Signed file: `OVV.research.20.08.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +71.72%; price +32.09% vs SMA200. |
+| Technical momentum | High | 1Y +77.56%; price +31.14% vs SMA200. |
 | Fresh setup quality | Moderate / wait | +0.00% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 9.66%, revenue growth 29.70%. |
 | Value attractiveness | Reasonable | Forward P/E 9.08, EV/Sales 2.35. |
@@ -45,9 +45,9 @@ Ovintiv Inc., together with its subsidiaries, operates as an oil and natural gas
 | Technical item | Read |
 |---|---|
 | Price vs 52-week range | Close $66.70; 52w high $66.70 (+0.00%); 52w low $35.32 (+88.83%) |
-| Trend | +32.09% vs SMA200, +15.23% vs SMA50, +7.31% vs SMA20 |
-| Momentum | RSI(14) 68.6 (neutral) |
-| Volatility | ATR(14) 1.89 (~2.8% of price); beta 0.54 |
+| Trend | +31.14% vs SMA200, +14.76% vs SMA50, +7.22% vs SMA20 |
+| Momentum | RSI(14) 68.2 (neutral) |
+| Volatility | ATR(14) 1.85 (~2.8% of price); beta 0.54 |
 | Setup perspective | +0.00% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
@@ -55,10 +55,10 @@ Ovintiv Inc., together with its subsidiaries, operates as an oil and natural gas
 | Window | Return |
 |---|---|
 | Week | +7.0% |
-| Month | +15.4% |
-| Quarter | +11.8% |
-| Half Y | +43.7% |
-| 1Y | +71.7% |
+| Month | +10.2% |
+| Quarter | +12.6% |
+| Half Y | +33.1% |
+| 1Y | +77.6% |
 | YTD | +66.5% |
 
 ## 4. Fundamental Analysis
@@ -114,11 +114,11 @@ Ovintiv Inc., together with its subsidiaries, operates as an oil and natural gas
 | Price | $66.70 | EV/Sales | 2.35 |
 | Market cap | $18.45B | EV/EBITDA | 4.59 |
 | Beta | 0.54 | Gross margin | 53.86% |
-| RSI(14) | 68.6 | Operating margin | 36.18% |
-| ATR(14) | 1.89 | Profit margin | 9.66% |
-| SMA20 dist | +7.31% | ROA | 8.64% |
-| SMA50 dist | +15.23% | ROE | 8.41% |
-| SMA200 dist | +32.09% | Revenue (ttm) | $9.52B |
+| RSI(14) | 68.2 | Operating margin | 36.18% |
+| ATR(14) | 1.85 | Profit margin | 9.66% |
+| SMA20 dist | +7.22% | ROA | 8.64% |
+| SMA50 dist | +14.76% | ROE | 8.41% |
+| SMA200 dist | +31.14% | Revenue (ttm) | $9.52B |
 | 52W high | $66.70 | Revenue growth y/y | 29.70% |
 | 52W low | $35.32 | Inst. ownership | 96.33% |
 | P/E (ttm) | 18.63 | Insider ownership | 0.46% |

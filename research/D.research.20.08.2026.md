@@ -15,11 +15,11 @@ Signed file: `D.research.20.08.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +15.23%; price +7.26% vs SMA200. |
+| Technical momentum | Moderate | 1Y +14.93%; price +7.04% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -5.89% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 13.98%, revenue growth 17.60%. |
 | Value attractiveness | Reasonable | Forward P/E 17.68, EV/Sales 6.59. |
-| Risk level | Moderate | Beta 0.63, ATR 1.8% of price, short float 3.63%. |
+| Risk level | Moderate | Beta 0.63, ATR 1.7% of price, short float 3.63%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
@@ -45,9 +45,9 @@ Dominion Energy, Inc. provides regulated electricity and natural gas services in
 | Technical item | Read |
 |---|---|
 | Price vs 52-week range | Close $67.47; 52w high $71.69 (-5.89%); 52w low $55.92 (+20.66%) |
-| Trend | +7.26% vs SMA200, -2.15% vs SMA50, -1.91% vs SMA20 |
-| Momentum | RSI(14) 40.9 (neutral) |
-| Volatility | ATR(14) 1.19 (~1.8% of price); beta 0.63 |
+| Trend | +7.04% vs SMA200, -2.41% vs SMA50, -1.91% vs SMA20 |
+| Momentum | RSI(14) 40.6 (neutral) |
+| Volatility | ATR(14) 1.18 (~1.7% of price); beta 0.63 |
 | Setup perspective | -5.89% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
@@ -55,10 +55,10 @@ Dominion Energy, Inc. provides regulated electricity and natural gas services in
 | Window | Return |
 |---|---|
 | Week | -1.6% |
-| Month | -4.1% |
-| Quarter | +0.9% |
-| Half Y | +4.9% |
-| 1Y | +15.2% |
+| Month | -5.1% |
+| Quarter | +0.6% |
+| Half Y | +5.2% |
+| 1Y | +14.9% |
 | YTD | +16.3% |
 
 ## 4. Fundamental Analysis
@@ -113,16 +113,16 @@ Dominion Energy, Inc. provides regulated electricity and natural gas services in
 | Price | $67.47 | EV/Sales | 6.59 |
 | Market cap | $59.34B | EV/EBITDA | 14.31 |
 | Beta | 0.63 | Gross margin | 46.22% |
-| RSI(14) | 40.9 | Operating margin | 29.22% |
-| ATR(14) | 1.19 | Profit margin | 13.98% |
+| RSI(14) | 40.6 | Operating margin | 29.22% |
+| ATR(14) | 1.18 | Profit margin | 13.98% |
 | SMA20 dist | -1.91% | ROA | 3.04% |
-| SMA50 dist | -2.15% | ROE | 8.28% |
-| SMA200 dist | +7.26% | Revenue (ttm) | $18.12B |
+| SMA50 dist | -2.41% | ROE | 8.28% |
+| SMA200 dist | +7.04% | Revenue (ttm) | $18.12B |
 | 52W high | $71.69 | Revenue growth y/y | 17.60% |
 | 52W low | $55.92 | Inst. ownership | 83.02% |
 | P/E (ttm) | 23.35 | Insider ownership | 0.13% |
 | Forward P/E | 17.68 | Short float | 3.63% |
-| PEG (trailing) | 2.92 | Avg volume | 5,688,070 |
+| PEG (trailing) | 2.91 | Avg volume | 5,688,070 |
 | P/S | 3.28 | Employees | 15,200 |
 | P/B | 2.13 | Analyst rec (1=buy..5=sell) | 2.7 |
 

@@ -15,11 +15,11 @@ Signed file: `WMB.research.20.08.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +30.85%; price +4.45% vs SMA200. |
+| Technical momentum | Moderate | 1Y +30.73%; price +4.31% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -9.06% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 24.94%, revenue growth 7.80%. |
 | Value attractiveness | Fair-to-demanding | Forward P/E 27.35, EV/Sales 9.93. |
-| Risk level | Moderate | Beta 0.61, ATR 2.9% of price, short float 2.44%. |
+| Risk level | Moderate | Beta 0.61, ATR 2.8% of price, short float 2.44%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: fair-to-demanding, risk: moderate.
 
@@ -44,10 +44,10 @@ The Williams Companies, Inc., together with its subsidiaries, operates as an ene
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $71.68; 52w high $78.82 (-9.06%); 52w low $54.83 (+30.73%) |
-| Trend | +4.45% vs SMA200, -2.16% vs SMA50, -0.65% vs SMA20 |
-| Momentum | RSI(14) 46.1 (neutral) |
-| Volatility | ATR(14) 2.04 (~2.9% of price); beta 0.61 |
+| Price vs 52-week range | Close $71.68; 52w high $78.82 (-9.06%); 52w low $55.08 (+30.13%) |
+| Trend | +4.31% vs SMA200, -2.25% vs SMA50, -0.65% vs SMA20 |
+| Momentum | RSI(14) 46.0 (neutral) |
+| Volatility | ATR(14) 2.02 (~2.8% of price); beta 0.61 |
 | Setup perspective | -9.06% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
@@ -55,10 +55,10 @@ The Williams Companies, Inc., together with its subsidiaries, operates as an ene
 | Window | Return |
 |---|---|
 | Week | -1.9% |
-| Month | -2.3% |
-| Quarter | -9.1% |
+| Month | -3.8% |
+| Quarter | -7.3% |
 | Half Y | +0.8% |
-| 1Y | +30.8% |
+| 1Y | +30.7% |
 | YTD | +19.5% |
 
 ## 4. Fundamental Analysis
@@ -113,16 +113,16 @@ The Williams Companies, Inc., together with its subsidiaries, operates as an ene
 | Price | $71.68 | EV/Sales | 9.93 |
 | Market cap | $87.68B | EV/EBITDA | 17.40 |
 | Beta | 0.61 | Gross margin | 63.64% |
-| RSI(14) | 46.1 | Operating margin | 39.54% |
-| ATR(14) | 2.04 | Profit margin | 24.94% |
+| RSI(14) | 46.0 | Operating margin | 39.54% |
+| ATR(14) | 2.02 | Profit margin | 24.94% |
 | SMA20 dist | -0.65% | ROA | 5.03% |
-| SMA50 dist | -2.16% | ROE | 21.50% |
-| SMA200 dist | +4.45% | Revenue (ttm) | $12.32B |
+| SMA50 dist | -2.25% | ROE | 21.50% |
+| SMA200 dist | +4.31% | Revenue (ttm) | $12.32B |
 | 52W high | $78.82 | Revenue growth y/y | 7.80% |
-| 52W low | $54.83 | Inst. ownership | 91.48% |
+| 52W low | $55.08 | Inst. ownership | 91.48% |
 | P/E (ttm) | 28.56 | Insider ownership | 0.45% |
 | Forward P/E | 27.35 | Short float | 2.44% |
-| PEG (trailing) | 2.51 | Avg volume | 6,884,496 |
+| PEG (trailing) | 2.45 | Avg volume | 6,884,496 |
 | P/S | 7.11 | Employees | 5,987 |
 | P/B | 6.66 | Analyst rec (1=buy..5=sell) | 1.5 |
 

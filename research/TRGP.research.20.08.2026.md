@@ -15,7 +15,7 @@ Signed file: `TRGP.research.20.08.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +89.20%; price +nan% vs SMA200. |
+| Technical momentum | High | 1Y +92.04%; price +31.87% vs SMA200. |
 | Fresh setup quality | Moderate / wait | +0.00% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 13.54%, revenue growth 4.20%. |
 | Value attractiveness | Fair-to-demanding | Forward P/E 25.02, EV/Sales 4.97. |
@@ -45,8 +45,8 @@ Targa Resources Corp., together with its subsidiaries, owns, operates, acquires,
 | Technical item | Read |
 |---|---|
 | Price vs 52-week range | Close $302.25; 52w high $302.25 (+0.00%); 52w low $143.22 (+111.04%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 70.3 (overbought) |
+| Trend | +31.87% vs SMA200, +11.49% vs SMA50, +11.15% vs SMA20 |
+| Momentum | RSI(14) 69.6 (neutral) |
 | Volatility | ATR(14) 8.77 (~2.9% of price); beta 0.72 |
 | Setup perspective | +0.00% from 52w high; no clean fresh pivot by default. |
 
@@ -55,10 +55,10 @@ Targa Resources Corp., together with its subsidiaries, owns, operates, acquires,
 | Window | Return |
 |---|---|
 | Week | +13.3% |
-| Month | +7.5% |
-| Quarter | +10.5% |
+| Month | +6.8% |
+| Quarter | +12.2% |
 | Half Y | +36.1% |
-| 1Y | +89.2% |
+| 1Y | +92.0% |
 | YTD | +64.2% |
 
 ## 4. Fundamental Analysis
@@ -114,11 +114,11 @@ Targa Resources Corp., together with its subsidiaries, owns, operates, acquires,
 | Price | $302.25 | EV/Sales | 4.97 |
 | Market cap | $64.81B | EV/EBITDA | 15.15 |
 | Beta | 0.72 | Gross margin | 43.19% |
-| RSI(14) | 70.3 | Operating margin | 27.80% |
+| RSI(14) | 69.6 | Operating margin | 27.80% |
 | ATR(14) | 8.77 | Profit margin | 13.54% |
-| SMA20 dist | +nan% | ROA | 9.24% |
-| SMA50 dist | +nan% | ROE | 70.84% |
-| SMA200 dist | +nan% | Revenue (ttm) | $16.74B |
+| SMA20 dist | +11.15% | ROA | 9.24% |
+| SMA50 dist | +11.49% | ROE | 70.84% |
+| SMA200 dist | +31.87% | Revenue (ttm) | $16.74B |
 | 52W high | $302.25 | Revenue growth y/y | 4.20% |
 | 52W low | $143.22 | Inst. ownership | 97.49% |
 | P/E (ttm) | 28.90 | Insider ownership | 1.37% |

@@ -124,7 +124,7 @@ Hubbell Incorporated, together with its subsidiaries, manufactures and sells ele
 | 52W low | $403.70 | Inst. ownership | 99.03% |
 | P/E (ttm) | 27.81 | Insider ownership | 0.34% |
 | Forward P/E | 20.54 | Short float | 5.93% |
-| PEG (trailing) | 2.24 | Avg volume | 617,709 |
+| PEG (trailing) | 2.21 | Avg volume | 617,709 |
 | P/S | 3.99 | Employees | 19,400 |
 | P/B | 6.34 | Analyst rec (1=buy..5=sell) | 2.0 |
 

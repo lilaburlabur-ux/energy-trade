@@ -1,5 +1,5 @@
 # XOM Research Report
-**ExxonMobil** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**ExxonMobil Holdings Corporation** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `XOM.research.20.08.2026`
 
 | Field | Value |
@@ -122,7 +122,7 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 | 52W low | $105.47 | Inst. ownership | 66.14% |
 | P/E (ttm) | 21.36 | Insider ownership | 0.08% |
 | Forward P/E | 15.56 | Short float | 1.15% |
-| PEG (trailing) | 1.30 | Avg volume | 15,883,256 |
+| PEG (trailing) | 1.29 | Avg volume | 15,883,256 |
 | P/S | 1.89 | Employees | 57,900 |
 | P/B | 2.63 | Analyst rec (1=buy..5=sell) | 2.3 |
 

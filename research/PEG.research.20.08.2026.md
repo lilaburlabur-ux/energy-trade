@@ -5,7 +5,7 @@ Signed file: `PEG.research.20.08.2026`
 | Field | Value |
 |---|---|
 | Current price | $74.62 (2026-08-20, ~15-min delayed) |
-| Market cap | $37.19B |
+| Market cap | $37.18B |
 | Sector / Industry | Utilities / Utilities - Regulated Electric |
 | Main theme | Utilities - Regulated Electric — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `PEG.research.20.08.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-6.21%) with negative half-year (-12.74%). |
+| Technical momentum | Low | Below SMA200 (-6.21%) with negative half-year (-11.45%). |
 | Fresh setup quality | Moderate / wait | -12.74% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 16.04%, revenue growth -8.90%. |
 | Value attractiveness | Reasonable | Forward P/E 15.97, EV/Sales 4.95. |
-| Risk level | Moderate | Beta 0.53, ATR 1.8% of price, short float 2.39%. |
+| Risk level | Moderate | Beta 0.53, ATR 1.7% of price, short float 2.39%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
@@ -45,9 +45,9 @@ Public Service Enterprise Group Incorporated, through its subsidiaries, operates
 | Technical item | Read |
 |---|---|
 | Price vs 52-week range | Close $74.62; 52w high $85.51 (-12.74%); 52w low $74.56 (+0.08%) |
-| Trend | -6.21% vs SMA200, -5.26% vs SMA50, -2.32% vs SMA20 |
-| Momentum | RSI(14) 34.0 (neutral) |
-| Volatility | ATR(14) 1.31 (~1.8% of price); beta 0.53 |
+| Trend | -6.21% vs SMA200, -5.29% vs SMA50, -2.32% vs SMA20 |
+| Momentum | RSI(14) 33.9 (neutral) |
+| Volatility | ATR(14) 1.29 (~1.7% of price); beta 0.53 |
 | Setup perspective | -12.74% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
@@ -55,10 +55,10 @@ Public Service Enterprise Group Incorporated, through its subsidiaries, operates
 | Window | Return |
 |---|---|
 | Week | -1.7% |
-| Month | -4.1% |
-| Quarter | -2.0% |
-| Half Y | -12.7% |
-| 1Y | -9.7% |
+| Month | -6.2% |
+| Quarter | -3.6% |
+| Half Y | -11.4% |
+| 1Y | -8.9% |
 | YTD | -6.3% |
 
 ## 4. Fundamental Analysis
@@ -68,7 +68,7 @@ Public Service Enterprise Group Incorporated, through its subsidiaries, operates
 | Revenue (ttm) | $12.54B | Revenue growth -8.90% y/y |
 | Profitability | Gross 33.33%, operating 18.87%, net 16.04% | ROA 3.24%, ROE 11.83% |
 | Balance sheet | Cash $192.00M, debt $24.68B | Current ratio 0.88, debt/equity 142.41 |
-| Valuation | P/E 18.56, forward P/E 15.97, P/S 2.97, P/B 2.14 | EV/Sales 4.95, EV/EBITDA 13.90 |
+| Valuation | P/E 18.56, forward P/E 15.97, P/S 2.96, P/B 2.14 | EV/Sales 4.95, EV/EBITDA 13.90 |
 | Growth expectations | Earnings growth -42.70%, EPS q/q -42.90% | Analyst mean target $85.58 (18 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -110,19 +110,19 @@ Public Service Enterprise Group Incorporated, through its subsidiaries, operates
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $74.62 | EV/Sales | 4.95 |
-| Market cap | $37.19B | EV/EBITDA | 13.90 |
+| Market cap | $37.18B | EV/EBITDA | 13.90 |
 | Beta | 0.53 | Gross margin | 33.33% |
-| RSI(14) | 34.0 | Operating margin | 18.87% |
-| ATR(14) | 1.31 | Profit margin | 16.04% |
+| RSI(14) | 33.9 | Operating margin | 18.87% |
+| ATR(14) | 1.29 | Profit margin | 16.04% |
 | SMA20 dist | -2.32% | ROA | 3.24% |
-| SMA50 dist | -5.26% | ROE | 11.83% |
+| SMA50 dist | -5.29% | ROE | 11.83% |
 | SMA200 dist | -6.21% | Revenue (ttm) | $12.54B |
 | 52W high | $85.51 | Revenue growth y/y | -8.90% |
 | 52W low | $74.56 | Inst. ownership | 79.44% |
 | P/E (ttm) | 18.56 | Insider ownership | 0.13% |
 | Forward P/E | 15.97 | Short float | 2.39% |
-| PEG (trailing) | 3.76 | Avg volume | 2,914,901 |
-| P/S | 2.97 | Employees | 13,189 |
+| PEG (trailing) | 3.74 | Avg volume | 2,914,901 |
+| P/S | 2.96 | Employees | 13,189 |
 | P/B | 2.14 | Analyst rec (1=buy..5=sell) | 2.3 |
 
 ## 8. Analyst Actions

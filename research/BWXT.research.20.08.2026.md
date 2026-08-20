@@ -15,7 +15,7 @@ Signed file: `BWXT.research.20.08.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-19.55%) with negative half-year (-22.32%). |
+| Technical momentum | Low | Below SMA200 (-19.47%) with negative half-year (-24.85%). |
 | Fresh setup quality | Poor / broken | -34.19% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 10.11%, revenue growth 18.00%. |
 | Value attractiveness | Fair-to-demanding | Forward P/E 29.78, EV/Sales 4.63. |
@@ -45,9 +45,9 @@ BWX Technologies, Inc. manufactures and sells nuclear components in the United S
 | Technical item | Read |
 |---|---|
 | Price vs 52-week range | Close $156.44; 52w high $237.73 (-34.19%); 52w low $156.44 (+0.00%) |
-| Trend | -19.55% vs SMA200, -13.61% vs SMA50, -7.13% vs SMA20 |
-| Momentum | RSI(14) 33.8 (neutral) |
-| Volatility | ATR(14) 6.62 (~4.2% of price); beta 0.76 |
+| Trend | -19.47% vs SMA200, -13.46% vs SMA50, -7.13% vs SMA20 |
+| Momentum | RSI(14) 33.7 (neutral) |
+| Volatility | ATR(14) 6.56 (~4.2% of price); beta 0.76 |
 | Setup perspective | -34.19% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
@@ -56,9 +56,9 @@ BWX Technologies, Inc. manufactures and sells nuclear components in the United S
 |---|---|
 | Week | -8.0% |
 | Month | -10.6% |
-| Quarter | -20.6% |
-| Half Y | -22.3% |
-| 1Y | -8.0% |
+| Quarter | -22.7% |
+| Half Y | -24.9% |
+| 1Y | -5.1% |
 | YTD | -13.6% |
 
 ## 4. Fundamental Analysis
@@ -115,11 +115,11 @@ BWX Technologies, Inc. manufactures and sells nuclear components in the United S
 | Price | $156.44 | EV/Sales | 4.63 |
 | Market cap | $14.33B | EV/EBITDA | 34.16 |
 | Beta | 0.76 | Gross margin | 22.08% |
-| RSI(14) | 33.8 | Operating margin | 10.39% |
-| ATR(14) | 6.62 | Profit margin | 10.11% |
+| RSI(14) | 33.7 | Operating margin | 10.39% |
+| ATR(14) | 6.56 | Profit margin | 10.11% |
 | SMA20 dist | -7.13% | ROA | 5.53% |
-| SMA50 dist | -13.61% | ROE | 28.29% |
-| SMA200 dist | -19.55% | Revenue (ttm) | $3.51B |
+| SMA50 dist | -13.46% | ROE | 28.29% |
+| SMA200 dist | -19.47% | Revenue (ttm) | $3.51B |
 | 52W high | $237.73 | Revenue growth y/y | 18.00% |
 | 52W low | $156.44 | Inst. ownership | 94.37% |
 | P/E (ttm) | 40.53 | Insider ownership | 0.35% |

@@ -1,11 +1,11 @@
 # ETN Research Report
-**Eaton** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**Eaton Corporation plc** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `ETN.research.20.08.2026`
 
 | Field | Value |
 |---|---|
 | Current price | $415.29 (2026-08-20, ~15-min delayed) |
-| Market cap | $161.30B |
+| Market cap | $161.26B |
 | Sector / Industry | Industrials / Specialty Industrial Machinery |
 | Main theme | Specialty Industrial Machinery — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: fair-to-demanding, risk: elevated. |
@@ -15,7 +15,7 @@ Signed file: `ETN.research.20.08.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +19.63%; price +10.22% vs SMA200. |
+| Technical momentum | Moderate | 1Y +20.32%; price +10.14% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -9.71% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 12.75%, revenue growth 21.40%. |
 | Value attractiveness | Fair-to-demanding | Forward P/E 25.90, EV/Sales 6.18. |
@@ -36,18 +36,18 @@ Eaton Corporation plc operates as a power management company in the United State
 
 | Headline | Source | Date |
 |---|---|---|
+| Top Stock Reports for Salesforce, Seagate Technology & AT&T | Zacks | 2026-08-20 |
 | 2 Under-the-Radar AI Data Center Stocks to Buy Now | Barchart | 2026-08-19 |
 | Which Industrial Machinery Stock Has Dominated in 2026: GE Vernova, Cummins, or Eaton? | 24/7 Wall St. | 2026-08-19 |
 | How To Bank 13% A Year On ETN Stock Without Selling A Share | Trefis | 2026-08-19 |
-| Eaton's Electrical Americas: Is it Capitalizing on Power Demand? | Zacks | 2026-08-18 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
 | Price vs 52-week range | Close $415.29; 52w high $459.96 (-9.71%); 52w low $313.20 (+32.60%) |
-| Trend | +10.22% vs SMA200, +0.18% vs SMA50, -3.03% vs SMA20 |
-| Momentum | RSI(14) 45.1 (neutral) |
-| Volatility | ATR(14) 16.67 (~4.0% of price); beta 1.18 |
+| Trend | +10.14% vs SMA200, +0.16% vs SMA50, -3.03% vs SMA20 |
+| Momentum | RSI(14) 45.0 (neutral) |
+| Volatility | ATR(14) 16.53 (~4.0% of price); beta 1.18 |
 | Setup perspective | -9.71% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
@@ -55,10 +55,10 @@ Eaton Corporation plc operates as a power management company in the United State
 | Window | Return |
 |---|---|
 | Week | -8.4% |
-| Month | +3.7% |
-| Quarter | +9.0% |
-| Half Y | +7.0% |
-| 1Y | +19.6% |
+| Month | +2.3% |
+| Quarter | +9.6% |
+| Half Y | +11.0% |
+| 1Y | +20.3% |
 | YTD | +27.9% |
 
 ## 4. Fundamental Analysis
@@ -112,18 +112,18 @@ Eaton Corporation plc operates as a power management company in the United State
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $415.29 | EV/Sales | 6.18 |
-| Market cap | $161.30B | EV/EBITDA | 27.96 |
+| Market cap | $161.26B | EV/EBITDA | 27.96 |
 | Beta | 1.18 | Gross margin | 36.02% |
-| RSI(14) | 45.1 | Operating margin | 16.56% |
-| ATR(14) | 16.67 | Profit margin | 12.75% |
+| RSI(14) | 45.0 | Operating margin | 16.56% |
+| ATR(14) | 16.53 | Profit margin | 12.75% |
 | SMA20 dist | -3.03% | ROA | 7.05% |
-| SMA50 dist | +0.18% | ROE | 19.68% |
-| SMA200 dist | +10.22% | Revenue (ttm) | $30.03B |
+| SMA50 dist | +0.16% | ROE | 19.68% |
+| SMA200 dist | +10.14% | Revenue (ttm) | $30.03B |
 | 52W high | $459.96 | Revenue growth y/y | 21.40% |
 | 52W low | $313.20 | Inst. ownership | 88.27% |
 | P/E (ttm) | 42.90 | Insider ownership | 0.07% |
 | Forward P/E | 25.90 | Short float | 1.76% |
-| PEG (trailing) | 3.10 | Avg volume | 2,365,187 |
+| PEG (trailing) | 3.04 | Avg volume | 2,365,187 |
 | P/S | 5.37 | Employees | 97,303 |
 | P/B | 7.96 | Analyst rec (1=buy..5=sell) | 1.6 |
 

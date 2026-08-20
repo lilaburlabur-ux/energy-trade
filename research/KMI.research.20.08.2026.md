@@ -1,11 +1,11 @@
 # KMI Research Report
-**Kinder Morgan** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**Kinder Morgan, Inc.** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `KMI.research.20.08.2026`
 
 | Field | Value |
 |---|---|
 | Current price | $31.61 (2026-08-20, ~15-min delayed) |
-| Market cap | $70.39B |
+| Market cap | $70.33B |
 | Sector / Industry | Energy / Oil & Gas Midstream |
 | Main theme | Oil & Gas Midstream — see catalysts below |
 | Current stance | Moderate technical momentum, strong fundamentals, value: fair-to-demanding, risk: moderate. |
@@ -112,7 +112,7 @@ Kinder Morgan, Inc. operates as an energy infrastructure company primarily in No
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $31.61 | EV/Sales | 5.85 |
-| Market cap | $70.39B | EV/EBITDA | 13.76 |
+| Market cap | $70.33B | EV/EBITDA | 13.76 |
 | Beta | 0.55 | Gross margin | 49.41% |
 | RSI(14) | 47.5 | Operating margin | 30.06% |
 | ATR(14) | 0.75 | Profit margin | 19.30% |
@@ -123,7 +123,7 @@ Kinder Morgan, Inc. operates as an energy infrastructure company primarily in No
 | 52W low | $24.86 | Inst. ownership | 70.86% |
 | P/E (ttm) | 20.39 | Insider ownership | 12.70% |
 | Forward P/E | 20.56 | Short float | 2.34% |
-| PEG (trailing) | 3.57 | Avg volume | 9,908,687 |
+| PEG (trailing) | 3.49 | Avg volume | 9,908,687 |
 | P/S | 3.92 | Employees | 11,028 |
 | P/B | 2.22 | Analyst rec (1=buy..5=sell) | 2.1 |
 

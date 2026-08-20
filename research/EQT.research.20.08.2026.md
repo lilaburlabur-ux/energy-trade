@@ -1,5 +1,5 @@
 # EQT Research Report
-**EQT Corp** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**EQT Corporation** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `EQT.research.20.08.2026`
 
 | Field | Value |
@@ -121,7 +121,7 @@ EQT Corporation engages in the exploration, production, gathering, and transmiss
 | 52W low | $48.62 | Inst. ownership | 96.89% |
 | P/E (ttm) | 12.50 | Insider ownership | 0.90% |
 | Forward P/E | 13.65 | Short float | 3.32% |
-| PEG (trailing) | 1.52 | Avg volume | 7,218,435 |
+| PEG (trailing) | 1.53 | Avg volume | 7,218,435 |
 | P/S | 3.63 | Employees | 1,523 |
 | P/B | 1.33 | Analyst rec (1=buy..5=sell) | 1.5 |
 

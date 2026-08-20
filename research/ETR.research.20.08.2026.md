@@ -15,7 +15,7 @@ Signed file: `ETR.research.20.08.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +23.44%; price +3.63% vs SMA200. |
+| Technical momentum | Moderate | 1Y +23.87%; price +3.44% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -7.99% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 13.33%, revenue growth 5.90%. |
 | Value attractiveness | Fair-to-demanding | Forward P/E 21.06, EV/Sales 6.04. |
@@ -45,9 +45,9 @@ Entergy Corporation, together with its subsidiaries, engages in the production a
 | Technical item | Read |
 |---|---|
 | Price vs 52-week range | Close $107.34; 52w high $116.66 (-7.99%); 52w low $84.72 (+26.70%) |
-| Trend | +3.63% vs SMA200, -3.10% vs SMA50, -0.64% vs SMA20 |
-| Momentum | RSI(14) 43.9 (neutral) |
-| Volatility | ATR(14) 2.24 (~2.1% of price); beta 0.49 |
+| Trend | +3.44% vs SMA200, -3.27% vs SMA50, -0.64% vs SMA20 |
+| Momentum | RSI(14) 43.6 (neutral) |
+| Volatility | ATR(14) 2.21 (~2.1% of price); beta 0.49 |
 | Setup perspective | -7.99% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
@@ -55,10 +55,10 @@ Entergy Corporation, together with its subsidiaries, engages in the production a
 | Window | Return |
 |---|---|
 | Week | +0.4% |
-| Month | -3.5% |
-| Quarter | -1.5% |
-| Half Y | +4.0% |
-| 1Y | +23.4% |
+| Month | -6.0% |
+| Quarter | -3.5% |
+| Half Y | +5.1% |
+| 1Y | +23.9% |
 | YTD | +16.4% |
 
 ## 4. Fundamental Analysis
@@ -114,16 +114,16 @@ Entergy Corporation, together with its subsidiaries, engages in the production a
 | Price | $107.34 | EV/Sales | 6.04 |
 | Market cap | $50.09B | EV/EBITDA | 14.71 |
 | Beta | 0.49 | Gross margin | 47.00% |
-| RSI(14) | 43.9 | Operating margin | 24.46% |
-| ATR(14) | 2.24 | Profit margin | 13.33% |
+| RSI(14) | 43.6 | Operating margin | 24.46% |
+| ATR(14) | 2.21 | Profit margin | 13.33% |
 | SMA20 dist | -0.64% | ROA | 2.68% |
-| SMA50 dist | -3.10% | ROE | 10.25% |
-| SMA200 dist | +3.63% | Revenue (ttm) | $13.48B |
+| SMA50 dist | -3.27% | ROE | 10.25% |
+| SMA200 dist | +3.44% | Revenue (ttm) | $13.48B |
 | 52W high | $116.66 | Revenue growth y/y | 5.90% |
 | 52W low | $84.72 | Inst. ownership | 100.11% |
 | P/E (ttm) | 27.45 | Insider ownership | 0.22% |
 | Forward P/E | 21.06 | Short float | 4.91% |
-| PEG (trailing) | 1.92 | Avg volume | 3,001,922 |
+| PEG (trailing) | 1.93 | Avg volume | 3,001,922 |
 | P/S | 3.72 | Employees | 12,000 |
 | P/B | 2.75 | Analyst rec (1=buy..5=sell) | 1.7 |
 

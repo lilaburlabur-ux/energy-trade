@@ -15,7 +15,7 @@ Signed file: `NXT.research.20.08.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-19.60%) with negative half-year (-28.33%). |
+| Technical momentum | Low | Below SMA200 (-19.63%) with negative half-year (-29.42%). |
 | Fresh setup quality | Poor / broken | -43.82% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 16.36%, revenue growth 8.20%. |
 | Value attractiveness | Reasonable | Forward P/E 15.21, EV/Sales 3.53. |
@@ -45,9 +45,9 @@ Nextpower Inc. provides solar and energy technology solutions for utility-scale 
 | Technical item | Read |
 |---|---|
 | Price vs 52-week range | Close $87.86; 52w high $156.40 (-43.82%); 52w low $64.04 (+37.20%) |
-| Trend | -19.60% vs SMA200, -18.46% vs SMA50, -10.20% vs SMA20 |
-| Momentum | RSI(14) 35.7 (neutral) |
-| Volatility | ATR(14) 6.24 (~7.1% of price); beta 1.95 |
+| Trend | -19.63% vs SMA200, -18.15% vs SMA50, -10.19% vs SMA20 |
+| Momentum | RSI(14) 35.9 (neutral) |
+| Volatility | ATR(14) 6.27 (~7.1% of price); beta 1.95 |
 | Setup perspective | -43.82% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
@@ -55,10 +55,10 @@ Nextpower Inc. provides solar and energy technology solutions for utility-scale 
 | Window | Return |
 |---|---|
 | Week | -16.0% |
-| Month | -12.3% |
-| Quarter | -34.7% |
-| Half Y | -28.3% |
-| 1Y | +45.0% |
+| Month | -16.9% |
+| Quarter | -30.9% |
+| Half Y | -29.4% |
+| 1Y | +29.8% |
 | YTD | -5.3% |
 
 ## 4. Fundamental Analysis
@@ -115,11 +115,11 @@ Nextpower Inc. provides solar and energy technology solutions for utility-scale 
 | Price | $87.86 | EV/Sales | 3.53 |
 | Market cap | $13.50B | EV/EBITDA | 17.09 |
 | Beta | 1.95 | Gross margin | 22.98% |
-| RSI(14) | 35.7 | Operating margin | 20.86% |
-| ATR(14) | 6.24 | Profit margin | 16.36% |
-| SMA20 dist | -10.20% | ROA | 11.68% |
-| SMA50 dist | -18.46% | ROE | 27.22% |
-| SMA200 dist | -19.60% | Revenue (ttm) | $3.63B |
+| RSI(14) | 35.9 | Operating margin | 20.86% |
+| ATR(14) | 6.27 | Profit margin | 16.36% |
+| SMA20 dist | -10.19% | ROA | 11.68% |
+| SMA50 dist | -18.15% | ROE | 27.22% |
+| SMA200 dist | -19.63% | Revenue (ttm) | $3.63B |
 | 52W high | $156.40 | Revenue growth y/y | 8.20% |
 | 52W low | $64.04 | Inst. ownership | 109.69% |
 | P/E (ttm) | 22.70 | Insider ownership | 0.63% |
