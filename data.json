@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-08-20T09:17:41+00:00",
-  "as_of_local": "2026-08-20 09:17:41 UTC",
+  "as_of_utc": "2026-08-20T09:39:27+00:00",
+  "as_of_local": "2026-08-20 09:39:27 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -487,26 +487,7 @@
       "previous_close": 123.99,
       "change_pct": -0.31,
       "market_cap": 96371189865.06888,
-      "headlines": [
-        {
-          "title": "3 Top Dividend Stocks That Are Trading Near Their 52-Week Lows",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-top-dividend-stocks-trading-153712602.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-18T15:37:12Z"
-        },
-        {
-          "title": "Duke Energy (DUK) Stock Could Be 27% Overvalued Following $10b Equity Plans",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/duke-energy-duk-stock-could-180837611.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-08-16T18:08:37Z"
-        },
-        {
-          "title": "Duke Energy (DUK) Completes $1.75 Billion Composite Units Offering",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/duke-energy-duk-completes-1-041651254.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-08-16T04:16:51Z"
-        }
-      ]
+      "headlines": []
     },
     {
       "symbol": "WMB",
@@ -2115,18 +2096,18 @@
     },
     {
       "label": "WTI",
-      "price": 86.39,
-      "change_pct": 0.65
+      "price": 86.55,
+      "change_pct": 0.84
     },
     {
       "label": "Brent",
-      "price": 93.73,
-      "change_pct": 2.3
+      "price": 93.97,
+      "change_pct": 2.56
     },
     {
       "label": "NatGas",
       "price": 2.76,
-      "change_pct": -2.1
+      "change_pct": -1.92
     }
   ]
 }
