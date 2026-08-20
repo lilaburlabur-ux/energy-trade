@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-08-20T22:46:04+00:00",
-  "as_of_local": "2026-08-20 22:46:04 UTC",
+  "as_of_utc": "2026-08-20T22:49:48+00:00",
+  "as_of_local": "2026-08-20 22:49:48 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "FANG"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -899,6 +897,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/moderna-upgraded-baidu-downgraded-wall-133822050.html",
           "publisher": "The Fly",
           "published": "2026-08-19T13:38:22Z"
+        }
+      ]
+    },
+    {
+      "symbol": "FANG",
+      "name": "Diamondback Energy",
+      "price": 211.02,
+      "previous_close": 208.55,
+      "change_pct": 1.18,
+      "market_cap": 59089777704.21362,
+      "headlines": [
+        {
+          "title": "How Diamondback\u2019s Permian\u2011to\u2011Katy Gas Pipeline Bet At Diamondback Energy (FANG) Has Changed Its Investment Story",
+          "url": "https://finance.yahoo.com/energy/articles/diamondback-permian-katy-gas-pipeline-181709770.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-08-18T18:17:09Z"
+        },
+        {
+          "title": "WhiteWater and partners approve FID for Solitude Pipeline System",
+          "url": "https://finance.yahoo.com/energy/articles/whitewater-partners-approve-fid-solitude-092126521.html",
+          "publisher": "Offshore Technology",
+          "published": "2026-08-18T09:21:26Z"
+        },
+        {
+          "title": "Is Diamondback Energy (FANG) Undervalued As It Joins The Solitude Pipeline Venture?",
+          "url": "https://finance.yahoo.com/energy/articles/diamondback-energy-fang-undervalued-joins-070931135.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-08-18T07:09:31Z"
         }
       ]
     },
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 86.26,
-      "change_pct": 0.5
+      "price": 86.32,
+      "change_pct": 0.57
     },
     {
       "label": "Brent",
-      "price": 93.25,
-      "change_pct": 1.78
+      "price": 93.29,
+      "change_pct": 1.82
     },
     {
       "label": "NatGas",
       "price": 2.76,
-      "change_pct": -1.85
+      "change_pct": -1.81
     }
   ]
 }
