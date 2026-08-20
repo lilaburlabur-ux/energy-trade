@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-08-20T09:39:27+00:00",
-  "as_of_local": "2026-08-20 09:39:27 UTC",
+  "as_of_utc": "2026-08-20T10:00:45+00:00",
+  "as_of_local": "2026-08-20 10:00:45 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -150,7 +150,7 @@
       "price": 85.91,
       "previous_close": 86.22,
       "change_pct": -0.36,
-      "market_cap": 179206395574.27036,
+      "market_cap": 179174363943.49493,
       "headlines": [
         {
           "title": "Moderna upgraded, Baidu downgraded: Wall Street's top analyst calls",
@@ -178,7 +178,7 @@
       "price": 424.67,
       "previous_close": 431.33,
       "change_pct": -1.54,
-      "market_cap": 164941833215.33203,
+      "market_cap": 164899366213.98926,
       "headlines": [
         {
           "title": "2 Under-the-Radar AI Data Center Stocks to Buy Now",
@@ -209,6 +209,12 @@
       "market_cap": 159084833664.82294,
       "headlines": [
         {
+          "title": "The Zacks Analyst Blog Highlights NVIDIA, Applied Materials and ConocoPhillips",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-nvidia-085200309.html",
+          "publisher": "Zacks",
+          "published": "2026-08-20T08:52:00Z"
+        },
+        {
           "title": "Top Research Reports for NVIDIA, Applied Materials & ConocoPhillips",
           "url": "https://finance.yahoo.com/markets/stocks/articles/top-research-reports-nvidia-applied-203000539.html",
           "publisher": "Zacks",
@@ -219,12 +225,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/exxonmobils-return-comes-somewhere-index-181607370.html",
           "publisher": "Trefis",
           "published": "2026-08-19T18:16:07Z"
-        },
-        {
-          "title": "ConocoPhillips (COP) Has Low-Cost Inventory and a Major Cash Flow Catalyst Ahead",
-          "url": "https://finance.yahoo.com/energy/articles/conocophillips-cop-low-cost-inventory-145705934.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-08-19T14:57:05Z"
         }
       ]
     },
@@ -237,12 +237,6 @@
       "market_cap": 112619717075.34186,
       "headlines": [
         {
-          "title": "Forget the Mag 7: The phase 2 AI trade is here",
-          "url": "https://finance.yahoo.com/video/forget-mag-7-phase-2-100000233.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-08-19T10:00:00Z"
-        },
-        {
           "title": "BP Just Returned to Venezuela. Brilliant Bet or a Big Mistake?",
           "url": "https://finance.yahoo.com/energy/articles/bp-just-returned-venezuela-brilliant-011123057.html",
           "publisher": "Insider Monkey",
@@ -253,6 +247,12 @@
           "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-mixed-afternoon-200134748.html",
           "publisher": "MT Newswires",
           "published": "2026-08-19T20:01:34Z"
+        },
+        {
+          "title": "Sector Update: Energy Stocks Advance in Afternoon Trading",
+          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-advance-afternoon-174027747.html",
+          "publisher": "MT Newswires",
+          "published": "2026-08-19T17:40:27Z"
         }
       ]
     },
@@ -285,6 +285,34 @@
       ]
     },
     {
+      "symbol": "MPC",
+      "name": "Marathon Petroleum",
+      "price": 360.75,
+      "previous_close": 365.21,
+      "change_pct": -1.22,
+      "market_cap": 105316141076.25,
+      "headlines": [
+        {
+          "title": "Marathon Petroleum (MPC) is Up 121% in 2026. Is There Still More Upside?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/marathon-petroleum-mpc-121-2026-012432439.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-08-20T01:24:32Z"
+        },
+        {
+          "title": "Marathon Petroleum (MPC) Stock Looks Fairly Valued On Its 7x Five Year Run",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/marathon-petroleum-mpc-stock-looks-200935720.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-08-19T20:09:35Z"
+        },
+        {
+          "title": "ExxonMobil's Return Comes From Somewhere The Index Does Not Go",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/exxonmobils-return-comes-somewhere-index-181607370.html",
+          "publisher": "Trefis",
+          "published": "2026-08-19T18:16:07Z"
+        }
+      ]
+    },
+    {
       "symbol": "PWR",
       "name": "Quanta Services",
       "price": 677.41,
@@ -309,34 +337,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/worth-investing-quanta-services-pwr-133003790.html",
           "publisher": "Zacks",
           "published": "2026-08-19T13:30:03Z"
-        }
-      ]
-    },
-    {
-      "symbol": "MPC",
-      "name": "Marathon Petroleum",
-      "price": 360.75,
-      "previous_close": 365.21,
-      "change_pct": -1.22,
-      "market_cap": 101307533252.25,
-      "headlines": [
-        {
-          "title": "Marathon Petroleum (MPC) is Up 121% in 2026. Is There Still More Upside?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/marathon-petroleum-mpc-121-2026-012432439.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-08-20T01:24:32Z"
-        },
-        {
-          "title": "Marathon Petroleum (MPC) Stock Looks Fairly Valued On Its 7x Five Year Run",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/marathon-petroleum-mpc-stock-looks-200935720.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-08-19T20:09:35Z"
-        },
-        {
-          "title": "ExxonMobil's Return Comes From Somewhere The Index Does Not Go",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/exxonmobils-return-comes-somewhere-index-181607370.html",
-          "publisher": "Trefis",
-          "published": "2026-08-19T18:16:07Z"
         }
       ]
     },
@@ -487,7 +487,26 @@
       "previous_close": 123.99,
       "change_pct": -0.31,
       "market_cap": 96371189865.06888,
-      "headlines": []
+      "headlines": [
+        {
+          "title": "3 Top Dividend Stocks That Are Trading Near Their 52-Week Lows",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-top-dividend-stocks-trading-153712602.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-18T15:37:12Z"
+        },
+        {
+          "title": "Duke Energy (DUK) Stock Could Be 27% Overvalued Following $10b Equity Plans",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/duke-energy-duk-stock-could-180837611.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-08-16T18:08:37Z"
+        },
+        {
+          "title": "Duke Energy (DUK) Completes $1.75 Billion Composite Units Offering",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/duke-energy-duk-completes-1-041651254.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-08-16T04:16:51Z"
+        }
+      ]
     },
     {
       "symbol": "WMB",
@@ -574,6 +593,34 @@
       ]
     },
     {
+      "symbol": "EOG",
+      "name": "EOG Resources",
+      "price": 149.48,
+      "previous_close": 148.7,
+      "change_pct": 0.52,
+      "market_cap": 79617310388.76541,
+      "headlines": [
+        {
+          "title": "SM Energy Slides 11.2% in One Week: Could the Dip Be an Opportunity?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/sm-energy-slides-11-2-131500414.html",
+          "publisher": "Zacks",
+          "published": "2026-08-12T13:15:00Z"
+        },
+        {
+          "title": "EOG Resources (EOG) Q2 2026 Earnings Call Transcript",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/eog-resources-eog-q2-2026-233042425.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-11T23:30:42Z"
+        },
+        {
+          "title": "EOG Resources Q2 Earnings Call Highlights",
+          "url": "https://finance.yahoo.com/energy/articles/eog-resources-q2-earnings-call-060352582.html",
+          "publisher": "MarketBeat",
+          "published": "2026-08-08T06:03:52Z"
+        }
+      ]
+    },
+    {
       "symbol": "SLB",
       "name": "SLB (Schlumberger)",
       "price": 53.55,
@@ -598,34 +645,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/slb-slb-considered-good-investment-133004601.html",
           "publisher": "Zacks",
           "published": "2026-08-13T13:30:04Z"
-        }
-      ]
-    },
-    {
-      "symbol": "EOG",
-      "name": "EOG Resources",
-      "price": 149.48,
-      "previous_close": 148.7,
-      "change_pct": 0.52,
-      "market_cap": 78406618987.44958,
-      "headlines": [
-        {
-          "title": "SM Energy Slides 11.2% in One Week: Could the Dip Be an Opportunity?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/sm-energy-slides-11-2-131500414.html",
-          "publisher": "Zacks",
-          "published": "2026-08-12T13:15:00Z"
-        },
-        {
-          "title": "EOG Resources (EOG) Q2 2026 Earnings Call Transcript",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/eog-resources-eog-q2-2026-233042425.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-11T23:30:42Z"
-        },
-        {
-          "title": "EOG Resources Q2 Earnings Call Highlights",
-          "url": "https://finance.yahoo.com/energy/articles/eog-resources-q2-earnings-call-060352582.html",
-          "publisher": "MarketBeat",
-          "published": "2026-08-08T06:03:52Z"
         }
       ]
     },
@@ -775,7 +794,7 @@
       "price": 96.01,
       "previous_close": 97.07,
       "change_pct": -1.09,
-      "market_cap": 60521793075.28489,
+      "market_cap": 60489455466.415375,
       "headlines": [
         {
           "title": "5 Energy Stocks Breaking Out As Iran Ceasefire Ends, Oil Prices Keep Rising",
@@ -1055,7 +1074,7 @@
       "price": 75.33,
       "previous_close": 75.6,
       "change_pct": -0.36,
-      "market_cap": 37545981772.53433,
+      "market_cap": 37538552125.11374,
       "headlines": [
         {
           "title": "Pennsylvania Sets New Data-Center Rules\u2014and Some Energy Companies Can Actually Benefit",
@@ -1475,7 +1494,7 @@
       "price": 33.52,
       "previous_close": 32.8,
       "change_pct": 2.2,
-      "market_cap": 10059741840.9002,
+      "market_cap": 10165810485.62872,
       "headlines": [
         {
           "title": "Brookfield, La Caisse close $6.5bn Boralex acquisition",
@@ -1534,6 +1553,12 @@
       "market_cap": 7375532596.629858,
       "headlines": [
         {
+          "title": "3 Overrated  Stocks We Keep Off Our Radar",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-overrated-stocks-keep-off-094715862.html",
+          "publisher": "StockStory",
+          "published": "2026-08-20T09:47:15Z"
+        },
+        {
           "title": "Solaris Energy Q2 Earnings Beat Estimates on Power Solutions Growth",
           "url": "https://finance.yahoo.com/energy/articles/solaris-energy-q2-earnings-beat-141500398.html",
           "publisher": "Zacks",
@@ -1544,12 +1569,6 @@
           "url": "https://finance.yahoo.com/energy/articles/apa-corp-q2-earnings-beat-160100062.html",
           "publisher": "Zacks",
           "published": "2026-08-12T16:01:00Z"
-        },
-        {
-          "title": "Permian Resources Beats Q2 Earnings on Strong Price Realizations",
-          "url": "https://finance.yahoo.com/energy/articles/permian-resources-beats-q2-earnings-155400675.html",
-          "publisher": "Zacks",
-          "published": "2026-08-12T15:54:00Z"
         }
       ]
     },
@@ -1615,7 +1634,7 @@
       "price": 11.63,
       "previous_close": 10.96,
       "change_pct": 6.11,
-      "market_cap": 5755365673.213648,
+      "market_cap": 5701267762.391316,
       "headlines": [
         {
           "title": "2 Nuclear Stocks to Buy and What Each One Needs to Go Right",
@@ -1643,7 +1662,7 @@
       "price": 39.37,
       "previous_close": 37.58,
       "change_pct": 4.76,
-      "market_cap": 5202534650.614288,
+      "market_cap": 5188895780.624313,
       "headlines": [
         {
           "title": "Zacks Industry Outlook Highlights First Solar, Enphase Energy and T1 Energy",
@@ -2096,13 +2115,13 @@
     },
     {
       "label": "WTI",
-      "price": 86.55,
-      "change_pct": 0.84
+      "price": 86.51,
+      "change_pct": 0.79
     },
     {
       "label": "Brent",
-      "price": 93.97,
-      "change_pct": 2.56
+      "price": 93.87,
+      "change_pct": 2.46
     },
     {
       "label": "NatGas",
