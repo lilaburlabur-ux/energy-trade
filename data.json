@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-08-21T20:45:26+00:00",
-  "as_of_local": "2026-08-21 20:45:26 UTC",
+  "as_of_utc": "2026-08-21T20:54:06+00:00",
+  "as_of_local": "2026-08-21 20:54:06 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -1217,6 +1217,12 @@
       "market_cap": 23776907860.432297,
       "headlines": [
         {
+          "title": "S&P 500 Posts First Weekly Loss Since July Amid US Warning to Iran",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-posts-first-weekly-204508360.html",
+          "publisher": "MT Newswires",
+          "published": "2026-08-21T20:45:08Z"
+        },
+        {
           "title": "AI Election Backlash Is Shaping Wall Street\u2019s Stock Market Views",
           "url": "https://finance.yahoo.com/markets/stocks/articles/ai-election-backlash-shaping-wall-115805981.html",
           "publisher": "Bloomberg",
@@ -1227,12 +1233,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-david-tepper-trimmed-micron-140913563.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-08-17T14:09:13Z"
-        },
-        {
-          "title": "Red-Hot Power Stocks Are Losing Steam",
-          "url": "https://www.wsj.com/business/energy-oil/red-hot-power-stocks-are-losing-steam-a4677f03?siteid=yhoof2&yptr=yahoo",
-          "publisher": "The Wall Street Journal",
-          "published": "2026-08-12T09:30:00Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 86.77,
-      "change_pct": -1.21
+      "price": 86.8,
+      "change_pct": -1.17
     },
     {
       "label": "Brent",
-      "price": 94.03,
-      "change_pct": 0.27
+      "price": 94.01,
+      "change_pct": 0.25
     },
     {
       "label": "NatGas",
       "price": 2.8,
-      "change_pct": 2.31
+      "change_pct": 2.27
     }
   ]
 }
