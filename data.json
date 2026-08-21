@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-08-21T20:55:58+00:00",
-  "as_of_local": "2026-08-21 20:55:58 UTC",
+  "as_of_utc": "2026-08-21T21:12:53+00:00",
+  "as_of_local": "2026-08-21 21:12:53 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -181,6 +181,12 @@
       "market_cap": 164311306775.3888,
       "headlines": [
         {
+          "title": "ConocoPhillips Snaps Five-Day Winning Streak",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026/card/conocophillips-fuels-up-for-record-closing-high-vnVD8ve4G2fvqhcGKZC7?siteid=yhoof2&yptr=yahoo",
+          "publisher": "The Wall Street Journal",
+          "published": "2026-08-21T21:06:57Z"
+        },
+        {
           "title": "What ExxonMobil Told You Before The Oil Shock Arrived",
           "url": "https://finance.yahoo.com/energy/articles/exxonmobil-told-oil-shock-arrived-195514042.html",
           "publisher": "Trefis",
@@ -191,12 +197,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/occidental-petroleum-stock-climb-without-194146402.html",
           "publisher": "Trefis",
           "published": "2026-08-21T19:41:46Z"
-        },
-        {
-          "title": "ConocoPhillips (COP) Beats Earnings and Names New CEO While Exxon Mobil (XOM)\u2019s Record Profit Falls Short",
-          "url": "https://finance.yahoo.com/energy/articles/conocophillips-cop-beats-earnings-names-193428889.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-08-21T19:34:28Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 86.83,
-      "change_pct": -1.14
+      "price": 86.64,
+      "change_pct": -1.35
     },
     {
       "label": "Brent",
-      "price": 94.07,
-      "change_pct": 0.31
+      "price": 93.87,
+      "change_pct": 0.1
     },
     {
       "label": "NatGas",
       "price": 2.8,
-      "change_pct": 2.31
+      "change_pct": 2.38
     }
   ]
 }
