@@ -36,10 +36,10 @@ Oklo Inc. develops fission power plants to provide energy at scale to customers 
 
 | Headline | Source | Date |
 |---|---|---|
+| A Major Short Squeeze Could Be Brewing in Oklo Stock | Barchart | 2026-08-21 |
 | Liberty Energy Targets 3 GW Data Center Power Buildout While Defending Frac Growth | MarketBeat | 2026-08-21 |
 | OKLO Vs SMR Vs NNE: All Three Nuclear Stocks Got A Price Target Cut – But Here’s The One This Analyst Still Favors | Stocktwits | 2026-08-21 |
 | NuScale Power and Oklo Drop 5%, Centrus Energy Sinks 6%: What’s Behind the Nuclear Stock Selloff? | 24/7 Wall St. | 2026-08-20 |
-| Oklo Vs. X-Energy: Is the New Nuclear IPO the Better Buy? | Motley Fool | 2026-08-19 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

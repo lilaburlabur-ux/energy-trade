@@ -36,10 +36,10 @@ ConocoPhillips explores for, produces, transports, and markets crude oil, bitume
 
 | Headline | Source | Date |
 |---|---|---|
+| ConocoPhillips Snaps Five-Day Winning Streak | The Wall Street Journal | 2026-08-21 |
 | What ExxonMobil Told You Before The Oil Shock Arrived | Trefis | 2026-08-21 |
 | Occidental Petroleum Stock Can Climb Without A Higher Oil Price | Trefis | 2026-08-21 |
 | ConocoPhillips (COP) Beats Earnings and Names New CEO While Exxon Mobil (XOM)’s Record Profit Falls Short | Insider Monkey | 2026-08-21 |
-| Cost Savings and Production Growth Strengthen ExxonMobil's Outlook | Zacks | 2026-08-21 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

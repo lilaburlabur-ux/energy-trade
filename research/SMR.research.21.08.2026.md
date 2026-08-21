@@ -36,10 +36,10 @@ NuScale Power Corporation provides small modular reactor technology solutions. I
 
 | Headline | Source | Date |
 |---|---|---|
+| A Major Short Squeeze Could Be Brewing in Oklo Stock | Barchart | 2026-08-21 |
 | OKLO Vs SMR Vs NNE: All Three Nuclear Stocks Got A Price Target Cut – But Here’s The One This Analyst Still Favors | Stocktwits | 2026-08-21 |
 | NuScale Power and Oklo Drop 5%, Centrus Energy Sinks 6%: What’s Behind the Nuclear Stock Selloff? | 24/7 Wall St. | 2026-08-20 |
 | Can X-Energy's Fuel Strategy Accelerate SMR Commercialization? | Zacks | 2026-08-19 |
-| Nuclear Stocks Plunge Tuesday: Oklo Down 5%, Constellation Energy Down 4%, NuScale Down 5% | 24/7 Wall St. | 2026-08-19 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

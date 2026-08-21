@@ -36,10 +36,10 @@ NRG Energy, Inc., together with its subsidiaries, operates as an energy and home
 
 | Headline | Source | Date |
 |---|---|---|
+| S&P 500 Posts First Weekly Loss Since July Amid US Warning to Iran | MT Newswires | 2026-08-21 |
 | AI Election Backlash Is Shaping Wall Street’s Stock Market Views | Bloomberg | 2026-08-18 |
 | Billionaire David Tepper Trimmed Micron and Sold out of SanDisk. Here’s the New AI Stocks He’s Buying | 24/7 Wall St. | 2026-08-17 |
 | Red-Hot Power Stocks Are Losing Steam | The Wall Street Journal | 2026-08-12 |
-| NRG Energy (NRG) Q2 2026 Earnings Call Transcript | Motley Fool | 2026-08-11 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

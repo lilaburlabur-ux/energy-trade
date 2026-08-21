@@ -36,10 +36,10 @@ Vistra Corp., together with its subsidiaries, operates as an integrated retail e
 
 | Headline | Source | Date |
 |---|---|---|
+| S&P 500 Posts First Weekly Loss Since July Amid US Warning to Iran | MT Newswires | 2026-08-21 |
 | Exchange-Traded Funds, Equity Futures Higher Pre-Bell Friday as Bitcoin Moves Past $77,000 | MT Newswires | 2026-08-21 |
 | Constellation Energy vs. Vistra: Who Leads the AI Power Revenue Race? | Motley Fool | 2026-08-21 |
 | KKR Data Center Chief Vaults to Prominence With Nvidia Pact | Bloomberg | 2026-08-20 |
-| Pennsylvania Sets New Data-Center Rules—and Some Energy Companies Can Actually Benefit | Barrons.com | 2026-08-19 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

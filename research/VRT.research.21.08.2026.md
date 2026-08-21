@@ -36,10 +36,10 @@ Vertiv Holdings Co designs, manufactures, and services critical digital infrastr
 
 | Headline | Source | Date |
 |---|---|---|
+| Is Vertiv Holdings Co (VRT) Fairly Valued On Its OCP APAC Summit Appearance? | Simply Wall St. | 2026-08-21 |
 | 3 Large-Cap Stocks on Our Buy List | StockStory | 2026-08-21 |
 | Vertiv Benefits From Margin Gains: Can It Outpace APH and SMCI? | Zacks | 2026-08-21 |
 | Can MOD Translate its Strong Sales Growth Into Higher Margins? | Zacks | 2026-08-21 |
-| Why Modine Stock Could Be One of AI's Overlooked Winners? | Zacks | 2026-08-21 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
