@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-08-21T20:54:06+00:00",
-  "as_of_local": "2026-08-21 20:54:06 UTC",
+  "as_of_utc": "2026-08-21T20:55:58+00:00",
+  "as_of_local": "2026-08-21 20:55:58 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -1021,6 +1021,12 @@
       "market_cap": 45716872164.36012,
       "headlines": [
         {
+          "title": "S&P 500 Posts First Weekly Loss Since July Amid US Warning to Iran",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-posts-first-weekly-204508360.html",
+          "publisher": "MT Newswires",
+          "published": "2026-08-21T20:45:08Z"
+        },
+        {
           "title": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Friday as Bitcoin Moves Past $77,000",
           "url": "https://finance.yahoo.com/markets/articles/exchange-traded-funds-equity-futures-131505482.html",
           "publisher": "MT Newswires",
@@ -1031,12 +1037,6 @@
           "url": "https://finance.yahoo.com/energy/articles/constellation-energy-vs-vistra-leads-121804679.html",
           "publisher": "Motley Fool",
           "published": "2026-08-21T12:18:04Z"
-        },
-        {
-          "title": "KKR Data Center Chief Vaults to Prominence With Nvidia Pact",
-          "url": "https://finance.yahoo.com/technology/ai/articles/kkr-data-center-chief-vaults-113000247.html",
-          "publisher": "Bloomberg",
-          "published": "2026-08-20T11:30:00Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 86.8,
-      "change_pct": -1.17
+      "price": 86.83,
+      "change_pct": -1.14
     },
     {
       "label": "Brent",
-      "price": 94.01,
-      "change_pct": 0.25
+      "price": 94.07,
+      "change_pct": 0.31
     },
     {
       "label": "NatGas",
       "price": 2.8,
-      "change_pct": 2.27
+      "change_pct": 2.31
     }
   ]
 }
