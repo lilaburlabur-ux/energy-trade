@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-08-21T10:07:22+00:00",
-  "as_of_local": "2026-08-21 10:07:22 UTC",
+  "as_of_utc": "2026-08-21T10:13:57+00:00",
+  "as_of_local": "2026-08-21 10:13:57 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -150,7 +150,7 @@
       "price": 85.03,
       "previous_close": 85.91,
       "change_pct": -1.02,
-      "market_cap": 177370724564.90988,
+      "market_cap": 177339021044.83502,
       "headlines": [
         {
           "title": "NextEra Energy (NEE) Faces Maryland Challenge In Federal Merger Review",
@@ -206,7 +206,7 @@
       "price": 415.29,
       "previous_close": 424.67,
       "change_pct": -2.21,
-      "market_cap": 161298639318.84766,
+      "market_cap": 161257110317.99316,
       "headlines": [
         {
           "title": "Eaton (ETN) Expands Its AI Data Center Push",
@@ -285,6 +285,34 @@
       ]
     },
     {
+      "symbol": "MPC",
+      "name": "Marathon Petroleum",
+      "price": 358.23,
+      "previous_close": 360.75,
+      "change_pct": -0.7,
+      "market_cap": 104580463963.36166,
+      "headlines": [
+        {
+          "title": "Is Phillips 66 (PSX) Stock Rich Or Reasonable After Pipeline Approval?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/phillips-66-psx-stock-rich-090919798.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-08-21T09:09:19Z"
+        },
+        {
+          "title": "Why Oil Refiner Stocks Can Keep Gaining",
+          "url": "https://www.barrons.com/articles/oil-refiner-stocks-e5f48566?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-08-21T06:00:00Z"
+        },
+        {
+          "title": "Will Surging Refining Margins and Failed Marathon Talks Change Phillips 66's (PSX) Narrative?",
+          "url": "https://finance.yahoo.com/energy/articles/surging-refining-margins-failed-marathon-043021401.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-08-21T04:30:21Z"
+        }
+      ]
+    },
+    {
       "symbol": "VRT",
       "name": "Vertiv",
       "price": 264.63,
@@ -337,34 +365,6 @@
           "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-rise-thursday-175442939.html",
           "publisher": "MT Newswires",
           "published": "2026-08-20T17:54:42Z"
-        }
-      ]
-    },
-    {
-      "symbol": "MPC",
-      "name": "Marathon Petroleum",
-      "price": 358.23,
-      "previous_close": 360.75,
-      "change_pct": -0.7,
-      "market_cap": 100599857934.72299,
-      "headlines": [
-        {
-          "title": "Is Phillips 66 (PSX) Stock Rich Or Reasonable After Pipeline Approval?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/phillips-66-psx-stock-rich-090919798.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-08-21T09:09:19Z"
-        },
-        {
-          "title": "Why Oil Refiner Stocks Can Keep Gaining",
-          "url": "https://www.barrons.com/articles/oil-refiner-stocks-e5f48566?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-08-21T06:00:00Z"
-        },
-        {
-          "title": "Will Surging Refining Margins and Failed Marathon Talks Change Phillips 66's (PSX) Narrative?",
-          "url": "https://finance.yahoo.com/energy/articles/surging-refining-margins-failed-marathon-043021401.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-08-21T04:30:21Z"
         }
       ]
     },
@@ -565,6 +565,34 @@
       ]
     },
     {
+      "symbol": "EOG",
+      "name": "EOG Resources",
+      "price": 152.19,
+      "previous_close": 149.48,
+      "change_pct": 1.81,
+      "market_cap": 81060737281.06262,
+      "headlines": [
+        {
+          "title": "MGY's $4.06B WildFire Deal Could Reshape Its Growth and Risk Profile",
+          "url": "https://finance.yahoo.com/energy/articles/mgys-4-06b-wildfire-deal-135400695.html",
+          "publisher": "Zacks",
+          "published": "2026-08-20T13:54:00Z"
+        },
+        {
+          "title": "SM Energy Slides 11.2% in One Week: Could the Dip Be an Opportunity?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/sm-energy-slides-11-2-131500414.html",
+          "publisher": "Zacks",
+          "published": "2026-08-12T13:15:00Z"
+        },
+        {
+          "title": "EOG Resources (EOG) Q2 2026 Earnings Call Transcript",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/eog-resources-eog-q2-2026-233042425.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-11T23:30:42Z"
+        }
+      ]
+    },
+    {
       "symbol": "SU",
       "name": "Suncor Energy",
       "price": 67.94,
@@ -589,34 +617,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/cve-rallies-13-7-past-121500594.html",
           "publisher": "Zacks",
           "published": "2026-08-19T12:15:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "EOG",
-      "name": "EOG Resources",
-      "price": 152.19,
-      "previous_close": 149.48,
-      "change_pct": 1.81,
-      "market_cap": 79828096576.02881,
-      "headlines": [
-        {
-          "title": "MGY's $4.06B WildFire Deal Could Reshape Its Growth and Risk Profile",
-          "url": "https://finance.yahoo.com/energy/articles/mgys-4-06b-wildfire-deal-135400695.html",
-          "publisher": "Zacks",
-          "published": "2026-08-20T13:54:00Z"
-        },
-        {
-          "title": "SM Energy Slides 11.2% in One Week: Could the Dip Be an Opportunity?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/sm-energy-slides-11-2-131500414.html",
-          "publisher": "Zacks",
-          "published": "2026-08-12T13:15:00Z"
-        },
-        {
-          "title": "EOG Resources (EOG) Q2 2026 Earnings Call Transcript",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/eog-resources-eog-q2-2026-233042425.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-11T23:30:42Z"
         }
       ]
     },
@@ -822,7 +822,7 @@
       "price": 94.6,
       "previous_close": 96.01,
       "change_pct": -1.47,
-      "market_cap": 59632969536.33222,
+      "market_cap": 59601106837.84616,
       "headlines": [
         {
           "title": "1 High-Yield Pipeline Stock Investors Keep Underestimating",
@@ -1074,7 +1074,7 @@
       "price": 74.62,
       "previous_close": 75.33,
       "change_pct": -0.94,
-      "market_cap": 37192104007.5515,
+      "market_cap": 37184744385.92061,
       "headlines": [
         {
           "title": "Pennsylvania Sets New Data-Center Rules\u2014and Some Energy Companies Can Actually Benefit",
@@ -1494,7 +1494,7 @@
       "price": 32.92,
       "previous_close": 33.52,
       "change_pct": -1.79,
-      "market_cap": 9879674178.3992,
+      "market_cap": 9983844212.485123,
       "headlines": [
         {
           "title": "Brookfield, La Caisse close $6.5bn Boralex acquisition",
@@ -1634,7 +1634,7 @@
       "price": 11.15,
       "previous_close": 11.63,
       "change_pct": -4.13,
-      "market_cap": 5517826692.121174,
+      "market_cap": 5465961543.445612,
       "headlines": [
         {
           "title": "2 Nuclear Stocks to Buy and What Each One Needs to Go Right",
@@ -1662,7 +1662,7 @@
       "price": 38.36,
       "previous_close": 39.37,
       "change_pct": -2.57,
-      "market_cap": 5069068777.934692,
+      "market_cap": 5055779799.6432495,
       "headlines": [
         {
           "title": "Zacks Industry Outlook Highlights First Solar, Enphase Energy and T1 Energy",
@@ -2115,13 +2115,13 @@
     },
     {
       "label": "WTI",
-      "price": 86.49,
-      "change_pct": -1.53
+      "price": 86.83,
+      "change_pct": -1.14
     },
     {
       "label": "Brent",
-      "price": 93.41,
-      "change_pct": -0.39
+      "price": 93.72,
+      "change_pct": -0.06
     },
     {
       "label": "NatGas",
