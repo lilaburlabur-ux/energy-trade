@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-08-21T11:05:10+00:00",
-  "as_of_local": "2026-08-21 11:05:10 UTC",
+  "as_of_utc": "2026-08-21T11:25:37+00:00",
+  "as_of_local": "2026-08-21 11:25:37 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -13,22 +13,22 @@
       "market_cap": 683194147056.8811,
       "headlines": [
         {
+          "title": "Corinth Pipeworks wins Rovuma LNG pipe contract",
+          "url": "https://finance.yahoo.com/energy/articles/corinth-pipeworks-wins-rovuma-lng-110950046.html",
+          "publisher": "Offshore Technology",
+          "published": "2026-08-21T11:09:50Z"
+        },
+        {
+          "title": "Targa Resources' Stock Near 52-Week High: Time to Lock in Gains? (Revised)",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/targa-resources-stock-near-52-101200020.html",
+          "publisher": "Zacks",
+          "published": "2026-08-21T10:12:00Z"
+        },
+        {
           "title": "Market Chatter: ExxonMobil-Backed Carbon Credits Project Found Suspicious by German Regulator",
           "url": "https://finance.yahoo.com/energy/articles/market-chatter-exxonmobil-backed-carbon-090937072.html",
           "publisher": "MT Newswires",
           "published": "2026-08-21T09:09:37Z"
-        },
-        {
-          "title": "Germany Revoked \u2018Suspicious\u2019 Carbon Credits Bought by ExxonMobil",
-          "url": "https://finance.yahoo.com/energy/articles/germany-revoked-suspicious-carbon-credits-040002480.html",
-          "publisher": "Bloomberg",
-          "published": "2026-08-21T04:00:02Z"
-        },
-        {
-          "title": "Sector Update: Energy Stocks Advance Late Afternoon",
-          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-advance-afternoon-195914100.html",
-          "publisher": "MT Newswires",
-          "published": "2026-08-20T19:59:14Z"
         }
       ]
     },
@@ -181,6 +181,12 @@
       "market_cap": 164335677860.64233,
       "headlines": [
         {
+          "title": "ConocoPhillips (COP) Gives Finance Chief Role To Insider Kontessa Haynes Welsh",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/conocophillips-cop-gives-finance-chief-111004297.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-08-21T11:10:04Z"
+        },
+        {
           "title": "Why Did IOVA, AMLX And COP Stocks Surge To 52-Week Highs Today?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-iova-amlx-cop-035742814.html",
           "publisher": "Stocktwits",
@@ -191,12 +197,6 @@
           "url": "https://finance.yahoo.com/energy/articles/high-oil-prices-tailwind-exxonmobils-150500886.html",
           "publisher": "Zacks",
           "published": "2026-08-20T15:05:00Z"
-        },
-        {
-          "title": "Is ConocoPhillips Stock a Buy as Growth Meets a Premium Valuation?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/conocophillips-stock-buy-growth-meets-122200594.html",
-          "publisher": "Zacks",
-          "published": "2026-08-20T12:22:00Z"
         }
       ]
     },
@@ -713,6 +713,12 @@
       "market_cap": 64811776097.25,
       "headlines": [
         {
+          "title": "Targa Resources' Stock Near 52-Week High: Time to Lock in Gains? (Revised)",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/targa-resources-stock-near-52-101200020.html",
+          "publisher": "Zacks",
+          "published": "2026-08-21T10:12:00Z"
+        },
+        {
           "title": "Targa Resources (TRGP) Stock Sees Modest Fair Value Lift After Bullish Analyst Revisions",
           "url": "https://finance.yahoo.com/markets/stocks/articles/targa-resources-trgp-stock-sees-032311869.html",
           "publisher": "Simply Wall St.",
@@ -723,12 +729,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/targa-resources-stock-near-52-151600478.html",
           "publisher": "Zacks",
           "published": "2026-08-19T15:16:00Z"
-        },
-        {
-          "title": "Dow Jones Futures Waver After Sandisk, Micron, Credo Lead AI Losses; Target Earnings Beat",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sandisk-micron-credo-ai-stocks-target-earnings/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-08-19T12:06:04Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 87.03,
-      "change_pct": -0.91
+      "price": 87.2,
+      "change_pct": -0.72
     },
     {
       "label": "Brent",
-      "price": 93.88,
-      "change_pct": 0.11
+      "price": 94.05,
+      "change_pct": 0.29
     },
     {
       "label": "NatGas",
-      "price": 2.79,
-      "change_pct": 2.01
+      "price": 2.8,
+      "change_pct": 2.34
     }
   ]
 }
