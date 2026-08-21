@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-08-21T03:02:10+00:00",
-  "as_of_local": "2026-08-21 03:02:10 UTC",
+  "as_of_utc": "2026-08-21T04:01:38+00:00",
+  "as_of_local": "2026-08-21 04:01:38 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -209,6 +209,12 @@
       "market_cap": 161298639318.84766,
       "headlines": [
         {
+          "title": "Eaton (ETN) Stock Looks To Trade At A Premium To Fair Value",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/eaton-etn-stock-looks-trade-031640696.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-08-21T03:16:40Z"
+        },
+        {
           "title": "Dana Targets $250M in Eaton Synergies as Cost Cuts and Buybacks Gain Speed",
           "url": "https://finance.yahoo.com/markets/stocks/articles/dana-targets-250m-eaton-synergies-020201677.html",
           "publisher": "MarketBeat",
@@ -219,12 +225,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/trane-technologies-plc-tt-eaton-225548421.html",
           "publisher": "Insider Monkey",
           "published": "2026-08-20T22:55:48Z"
-        },
-        {
-          "title": "Top Stock Reports for Salesforce, Seagate Technology & AT&T",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/top-stock-reports-salesforce-seagate-200700265.html",
-          "publisher": "Zacks",
-          "published": "2026-08-20T20:07:00Z"
         }
       ]
     },
@@ -371,10 +371,10 @@
     {
       "symbol": "PWR",
       "name": "Quanta Services",
-      "price": 662.47,
-      "previous_close": 677.41,
-      "change_pct": -2.21,
-      "market_cap": 99597983156.11841,
+      "price": 677.41,
+      "previous_close": 696.15,
+      "change_pct": -2.69,
+      "market_cap": 99597987560.71,
       "headlines": [
         {
           "title": "How Superior Strengthens MasTec's Data Center Opportunity",
@@ -539,10 +539,10 @@
     {
       "symbol": "EPD",
       "name": "Enterprise Products",
-      "price": 38.43,
-      "previous_close": 38.12,
-      "change_pct": 0.81,
-      "market_cap": 82988708263.69012,
+      "price": 38.12,
+      "previous_close": 38.64,
+      "change_pct": -1.35,
+      "market_cap": 82988707604.67,
       "headlines": [
         {
           "title": "Crude Hits $95 and Threatens the Inflation Cooldown: 3 Energy Stocks Turning the Oil Spike Into Bigger Shareholder Payouts",
@@ -1043,10 +1043,10 @@
     {
       "symbol": "CCJ",
       "name": "Cameco",
-      "price": 95.59,
-      "previous_close": 97.98,
-      "change_pct": -2.44,
-      "market_cap": 41632595867.640594,
+      "price": 97.98,
+      "previous_close": 96.03,
+      "change_pct": 2.03,
+      "market_cap": 41632597462.61,
       "headlines": [
         {
           "title": "Uranium ETFs Just Crashed 30 Percent While AI Power Demand Keeps Breaking Records",
@@ -1547,10 +1547,10 @@
     {
       "symbol": "NOV",
       "name": "NOV Inc",
-      "price": 20.27,
-      "previous_close": 20.69,
-      "change_pct": -2.03,
-      "market_cap": 7225811756.932735,
+      "price": 20.69,
+      "previous_close": 20.99,
+      "change_pct": -1.43,
+      "market_cap": 7225811593.75,
       "headlines": [
         {
           "title": "3 Overrated  Stocks We Keep Off Our Radar",
@@ -1715,10 +1715,10 @@
     {
       "symbol": "LEU",
       "name": "Centrus Energy",
-      "price": 176.13,
-      "previous_close": 183.68,
-      "change_pct": -4.11,
-      "market_cap": 3514296976.9660645,
+      "price": 183.68,
+      "previous_close": 175.7,
+      "change_pct": 4.54,
+      "market_cap": 3514296879.54,
       "headlines": [
         {
           "title": "NuScale Power and Oklo Drop 5%, Centrus Energy Sinks 6%: What\u2019s Behind the Nuclear Stock Selloff?",
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 86.68,
-      "change_pct": 0.99
+      "price": 85.83,
+      "change_pct": 1.05
     },
     {
       "label": "Brent",
-      "price": 93.71,
-      "change_pct": 2.28
+      "price": 91.62,
+      "change_pct": 0.66
     },
     {
       "label": "NatGas",
-      "price": 2.77,
-      "change_pct": -1.71
+      "price": 2.81,
+      "change_pct": 1.37
     }
   ]
 }
