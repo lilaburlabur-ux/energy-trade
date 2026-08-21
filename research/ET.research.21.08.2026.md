@@ -1,0 +1,152 @@
+# ET Research Report
+**Energy Transfer LP** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+Signed file: `ET.research.21.08.2026`
+
+| Field | Value |
+|---|---|
+| Current price | $21.19 (2026-08-21, ~15-min delayed) |
+| Market cap | $72.96B |
+| Sector / Industry | Energy / Oil & Gas Midstream |
+| Main theme | Oil & Gas Midstream — see catalysts below |
+| Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
+
+> Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-08-21.
+
+## 1. Executive Summary
+| Area | Score / Read | Reason |
+|---|---|---|
+| Technical momentum | Moderate | 1Y +31.43%; price +17.17% vs SMA200. |
+| Fresh setup quality | Watch | -1.07% from 52w high and near SMA20 — check for a tight base. |
+| Fundamental quality | Mixed | Profit margin 4.92%, revenue growth 78.40%. |
+| Value attractiveness | Reasonable | Forward P/E 12.11, EV/Sales 1.50. |
+| Risk level | Moderate | Beta 0.56, ATR 1.6% of price, short float 0.84%. |
+
+**Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
+
+**Key questions before any trade (standard):**
+- Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
+- Where is the actual invalidation level? If that level is too far away, the setup is not clean.
+- Is the move supported by new institutional demand or just retail/short-covering momentum?
+- Can earnings convert fast enough to justify the valuation?
+
+## 2. Company Overview and Recent Catalysts
+Energy Transfer LP, together with its subsidiaries, provides energy-related services in the United States. It operates through Intrastate Transportation and Storage; Interstate Transportation and Storage; Midstream; Natural Gas Liquid (NGL) and Refined Products Transportation and Services; Crude Oil Transportation and Services; Investment in Sunoco LP; Investment in USA Compression Partners, LP (USAC); and All Other segments.
+
+**Recent headlines (potential catalysts):**
+
+| Headline | Source | Date |
+|---|---|---|
+| This Energy Stock Pays an 8% Dividend, and Nobody's Talking About It | Motley Fool | 2026-08-21 |
+| Energy Transfer Co-Founder’s $15 Million Bet Near a 52-Week High Sends a Bullish Message | 24/7 Wall St. | 2026-08-21 |
+| 2 Midstream Dividend Stocks Actually Worth the Yield Right Now, Led By Energy Transfer | Motley Fool | 2026-08-20 |
+| Energy Transfer’s (ET) Natural Gas Opportunity is Huge. So are the Risks | Insider Monkey | 2026-08-20 |
+
+## 3. Technical Analysis
+| Technical item | Read |
+|---|---|
+| Price vs 52-week range | Close $21.19; 52w high $21.42 (-1.07%); 52w low $15.15 (+39.82%) |
+| Trend | +17.17% vs SMA200, +7.46% vs SMA50, +3.43% vs SMA20 |
+| Momentum | RSI(14) 66.5 (neutral) |
+| Volatility | ATR(14) 0.35 (~1.6% of price); beta 0.56 |
+| Setup perspective | -1.07% from 52w high and near SMA20 — check for a tight base. |
+
+**Performance snapshot:**
+
+| Window | Return |
+|---|---|
+| Week | +0.7% |
+| Month | +5.5% |
+| Quarter | +7.7% |
+| Half Y | +15.5% |
+| 1Y | +31.4% |
+| YTD | +34.6% |
+
+## 4. Fundamental Analysis
+| Factor | Observation | Implication / extra |
+|---|---|---|
+| Next earnings | 2026-11-04 | Next scheduled report (Yahoo estimate) |
+| Revenue (ttm) | $107.38B | Revenue growth 78.40% y/y |
+| Profitability | Gross 17.51%, operating 10.41%, net 4.92% | ROA 5.06%, ROE 14.56% |
+| Balance sheet | Cash $1.02B, debt $70.24B | Current ratio 1.16, debt/equity 138.33 |
+| Valuation | P/E 14.51, forward P/E 12.11, P/S 0.68, P/B 2.28 | EV/Sales 1.50, EV/EBITDA 9.39 |
+| Growth expectations | Earnings growth 85.30%, EPS q/q 79.50% | Analyst mean target $24.48 (21 analysts) |
+
+## 5. Institutional Investors and Ownership
+| Metric | Value |
+|---|---|
+| Institutional ownership | 32.50% |
+| Insider ownership | 10.29% |
+| Short float | 0.84% |
+| Short ratio (days to cover) | 3.1 |
+
+**Top institutional holders:**
+
+| Holder | Shares | % Out | Reported |
+|---|---|---|---|
+| Alps Advisors Inc. | 86,904,208 | 2.52% | 2026-06-30 |
+| Morgan Stanley | 85,614,431 | 2.49% | 2026-06-30 |
+| JPMORGAN CHASE & CO | 81,080,493 | 2.35% | 2026-06-30 |
+| Goldman Sachs Group Inc | 62,819,419 | 1.82% | 2026-06-30 |
+| Invesco Ltd. | 54,927,735 | 1.60% | 2026-06-30 |
+| Tortoise Capital Advisors, LLC | 37,997,055 | 1.10% | 2026-06-30 |
+| Blackstone Inc | 35,782,842 | 1.04% | 2026-06-30 |
+| UBS Group AG | 30,548,239 | 0.89% | 2026-06-30 |
+| Bank of America Corporation | 28,139,938 | 0.82% | 2026-06-30 |
+| Energy Income Partners, LLC | 25,654,536 | 0.75% | 2026-06-30 |
+
+## 6. Risk Review and Setup Plan
+- **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
+- **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
+
+### Setup checklist for your journal
+| Question | Pass condition |
+|---|---|
+| Is there a new base? | Tight sideways action near highs, declining volume, clear resistance. |
+| Is the pivot obvious? | A clean level that multiple traders can see; not a random candle high. |
+| Is risk defined? | Stop based on structure and less than the expected first upside target. |
+| Is volume confirming? | Breakout volume expands; pullback volume dries up. |
+| Is position size small enough? | A normal shakeout should not cause emotional decision-making. |
+
+## 7. Full Data Snapshot
+| Metric | Value | Metric | Value |
+|---|---|---|---|
+| Price | $21.19 | EV/Sales | 1.50 |
+| Market cap | $72.96B | EV/EBITDA | 9.39 |
+| Beta | 0.56 | Gross margin | 17.51% |
+| RSI(14) | 66.5 | Operating margin | 10.41% |
+| ATR(14) | 0.35 | Profit margin | 4.92% |
+| SMA20 dist | +3.43% | ROA | 5.06% |
+| SMA50 dist | +7.46% | ROE | 14.56% |
+| SMA200 dist | +17.17% | Revenue (ttm) | $107.38B |
+| 52W high | $21.42 | Revenue growth y/y | 78.40% |
+| 52W low | $15.15 | Inst. ownership | 32.50% |
+| P/E (ttm) | 14.51 | Insider ownership | 10.29% |
+| Forward P/E | 12.11 | Short float | 0.84% |
+| PEG (trailing) | 0.67 | Avg volume | 9,054,622 |
+| P/S | 0.68 | Employees | 22,311 |
+| P/B | 2.28 | Analyst rec (1=buy..5=sell) | 1.4 |
+
+## 8. Analyst Actions
+| Date | Action | Firm | Rating change |
+|---|---|---|---|
+| 2026-08-18 | main | Morgan Stanley | Equal-Weight → Equal-Weight |
+| 2026-08-12 | main | Truist Securities | Buy → Buy |
+| 2026-08-10 | main | TD Cowen | Buy → Buy |
+| 2026-08-07 | main | Citigroup | Buy → Buy |
+| 2026-08-05 | main | Barclays | Overweight → Overweight |
+| 2026-07-21 | main | RBC Capital | Outperform → Outperform |
+| 2026-07-16 | main | TD Cowen | Buy → Buy |
+| 2026-05-27 | main | Morgan Stanley | Equal-Weight → Equal-Weight |
+
+## 9. Conclusion
+ET: Moderate momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+
+## Sources
+| Source | URL | Used for |
+|---|---|---|
+| Yahoo Finance quote/profile/statistics for ET | https://finance.yahoo.com/quote/ET | Snapshot metrics, ownership, analyst data |
+| Yahoo Finance price history (via yfinance) | https://finance.yahoo.com/quote/ET/history | SMA/RSI/ATR/performance calculations |
+| Yahoo Finance news feed | https://finance.yahoo.com/quote/ET/news | Catalyst headlines |
+| Method template | AEHR.research.31.05.2026.pdf (user's Cowork method) | Report structure, scoring areas, checklist |
+
+_Note: the template's native Finviz/Fintel/ADVFN pages block automated retrieval; equivalent metrics above are computed from Yahoo Finance data instead and labeled accordingly._
