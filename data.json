@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-08-22T10:00:50+00:00",
-  "as_of_local": "2026-08-22 10:00:50 UTC",
+  "as_of_utc": "2026-08-22T10:34:02+00:00",
+  "as_of_local": "2026-08-22 10:34:02 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "HUBB"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -349,6 +351,12 @@
       "market_cap": 100847656616.91266,
       "headlines": [
         {
+          "title": "The veteran Fortune 500 CEO who turned an 80-year-old AC company into an AI darling",
+          "url": "https://finance.yahoo.com/technology/ai/articles/veteran-fortune-500-ceo-turned-080000432.html",
+          "publisher": "Fortune",
+          "published": "2026-08-22T08:00:00Z"
+        },
+        {
           "title": "The AI Spending Boom Is Outrunning Wall Street Estimates",
           "url": "https://www.barrons.com/articles/ai-spending-capex-vertiv-western-digital-coreweave-arista-8c3cf5b3?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
@@ -359,12 +367,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/vertiv-holdings-co-vrt-fairly-211135238.html",
           "publisher": "Simply Wall St.",
           "published": "2026-08-21T21:11:35Z"
-        },
-        {
-          "title": "3 Large-Cap Stocks on Our Buy List",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-large-cap-stocks-buy-153947019.html",
-          "publisher": "StockStory",
-          "published": "2026-08-21T15:39:47Z"
         }
       ]
     },
@@ -1177,34 +1179,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/liberty-energy-lbrt-down-1-153006117.html",
           "publisher": "Zacks",
           "published": "2026-08-21T15:30:06Z"
-        }
-      ]
-    },
-    {
-      "symbol": "HUBB",
-      "name": "Hubbell",
-      "price": 470.03,
-      "previous_close": 469.76,
-      "change_pct": 0.06,
-      "market_cap": 24832893282.637115,
-      "headlines": [
-        {
-          "title": "Eaton vs. Hubbell: Which Electrification Stock Has an Edge?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/eaton-vs-hubbell-electrification-stock-172000203.html",
-          "publisher": "Zacks",
-          "published": "2026-08-21T17:20:00Z"
-        },
-        {
-          "title": "2 Stocks for What\u2019s Next in AI",
-          "url": "https://www.barrons.com/articles/eaton-hubbell-stocks-ai-energy-03cad6d6?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-08-21T15:00:00Z"
-        },
-        {
-          "title": "Nvidia initiated, Teradyne downgraded: Wall Street's top analyst calls",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-initiated-teradyne-downgraded-wall-133824309.html",
-          "publisher": "The Fly",
-          "published": "2026-08-21T13:38:24Z"
         }
       ]
     },
