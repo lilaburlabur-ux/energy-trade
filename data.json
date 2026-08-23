@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-08-23T22:48:52+00:00",
-  "as_of_local": "2026-08-23 22:48:52 UTC",
+  "as_of_utc": "2026-08-23T23:20:18+00:00",
+  "as_of_local": "2026-08-23 23:20:18 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -1525,6 +1525,12 @@
       "market_cap": 7829482916.884041,
       "headlines": [
         {
+          "title": "Prediction: Oklo Won't Book Its First Commercial Power Revenue Before 2028",
+          "url": "https://finance.yahoo.com/energy/articles/prediction-oklo-wont-book-first-224601649.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-23T22:46:01Z"
+        },
+        {
           "title": "A Major Short Squeeze Could Be Brewing in Oklo Stock",
           "url": "https://finance.yahoo.com/markets/stocks/articles/major-short-squeeze-could-brewing-153145930.html",
           "publisher": "Barchart",
@@ -1535,12 +1541,6 @@
           "url": "https://finance.yahoo.com/energy/articles/liberty-energy-targets-3-gw-100159797.html",
           "publisher": "MarketBeat",
           "published": "2026-08-21T10:01:59Z"
-        },
-        {
-          "title": "OKLO Vs SMR Vs NNE: All Three Nuclear Stocks Got A Price Target Cut \u2013 But Here\u2019s The One This Analyst Still Favors",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/oklo-vs-smr-vs-nne-012437808.html",
-          "publisher": "Stocktwits",
-          "published": "2026-08-21T01:24:37Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 86.35,
-      "change_pct": -0.82
+      "price": 86.13,
+      "change_pct": -1.07
     },
     {
       "label": "Brent",
-      "price": 93.66,
-      "change_pct": -0.77
+      "price": 93.46,
+      "change_pct": -0.99
     },
     {
       "label": "NatGas",
-      "price": 2.78,
-      "change_pct": 0.25
+      "price": 2.77,
+      "change_pct": 0.0
     }
   ]
 }
