@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-08-23T12:38:17+00:00",
-  "as_of_local": "2026-08-23 12:38:17 UTC",
+  "as_of_utc": "2026-08-23T13:21:09+00:00",
+  "as_of_local": "2026-08-23 13:21:09 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "FSLR"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -97,6 +99,12 @@
       "market_cap": 254841280477.5653,
       "headlines": [
         {
+          "title": "Is GE Vernova Under $1,000 a Bargain or a Trap? Here's the Honest Answer.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-under-1-000-130300789.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-23T13:03:00Z"
+        },
+        {
           "title": "GE Vernova's Backlog Is Bigger Than Some Countries' GDP. Here's What's Actually Inside the $176 Billion.",
           "url": "https://finance.yahoo.com/energy/articles/ge-vernovas-backlog-bigger-countries-232500776.html",
           "publisher": "Motley Fool",
@@ -107,12 +115,6 @@
           "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-mixed-afternoon-195700798.html",
           "publisher": "MT Newswires",
           "published": "2026-08-21T19:57:00Z"
-        },
-        {
-          "title": "FLNC or GEV: Which Alternative Energy Stock Is Better-Placed Now?",
-          "url": "https://finance.yahoo.com/energy/articles/flnc-gev-alternative-energy-stock-171500611.html",
-          "publisher": "Zacks",
-          "published": "2026-08-21T17:15:00Z"
         }
       ]
     },
@@ -1233,34 +1235,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-david-tepper-trimmed-micron-140913563.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-08-17T14:09:13Z"
-        }
-      ]
-    },
-    {
-      "symbol": "FSLR",
-      "name": "First Solar",
-      "price": 214.28,
-      "previous_close": 214.06,
-      "change_pct": 0.1,
-      "market_cap": 23028626041.451294,
-      "headlines": [
-        {
-          "title": "Sustainable Development ETF (SDG) Touches New 52-Week High",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/sustainable-development-etf-sdg-touches-135600118.html",
-          "publisher": "Zacks",
-          "published": "2026-08-21T13:56:00Z"
-        },
-        {
-          "title": "One company stands to gain as bankruptcy wave hits solar sector",
-          "url": "https://finance.yahoo.com/energy/articles/one-company-stands-gain-bankruptcy-033300453.html",
-          "publisher": "TheStreet",
-          "published": "2026-08-20T03:33:00Z"
-        },
-        {
-          "title": "Zacks Industry Outlook Highlights First Solar, Enphase Energy and T1 Energy",
-          "url": "https://finance.yahoo.com/energy/articles/zacks-industry-outlook-highlights-first-074000072.html",
-          "publisher": "Zacks",
-          "published": "2026-08-19T07:40:00Z"
         }
       ]
     },
