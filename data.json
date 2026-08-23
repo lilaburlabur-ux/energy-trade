@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-08-23T02:45:14+00:00",
-  "as_of_local": "2026-08-23 02:45:14 UTC",
+  "as_of_utc": "2026-08-23T03:37:18+00:00",
+  "as_of_local": "2026-08-23 03:37:18 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "GEV"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -87,6 +85,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/european-equities-traded-us-american-151732710.html",
           "publisher": "MT Newswires",
           "published": "2026-08-20T15:17:32Z"
+        }
+      ]
+    },
+    {
+      "symbol": "GEV",
+      "name": "GE Vernova",
+      "price": 956.85,
+      "previous_close": 966.01,
+      "change_pct": -0.95,
+      "market_cap": 254841280477.5653,
+      "headlines": [
+        {
+          "title": "GE Vernova's Backlog Is Bigger Than Some Countries' GDP. Here's What's Actually Inside the $176 Billion.",
+          "url": "https://finance.yahoo.com/energy/articles/ge-vernovas-backlog-bigger-countries-232500776.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-22T23:25:00Z"
+        },
+        {
+          "title": "Sector Update: Energy Stocks Mixed Late Afternoon",
+          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-mixed-afternoon-195700798.html",
+          "publisher": "MT Newswires",
+          "published": "2026-08-21T19:57:00Z"
+        },
+        {
+          "title": "FLNC or GEV: Which Alternative Energy Stock Is Better-Placed Now?",
+          "url": "https://finance.yahoo.com/energy/articles/flnc-gev-alternative-energy-stock-171500611.html",
+          "publisher": "Zacks",
+          "published": "2026-08-21T17:15:00Z"
         }
       ]
     },
