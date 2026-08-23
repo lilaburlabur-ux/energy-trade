@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-08-23T16:52:08+00:00",
-  "as_of_local": "2026-08-23 16:52:08 UTC",
+  "as_of_utc": "2026-08-23T17:20:14+00:00",
+  "as_of_local": "2026-08-23 17:20:14 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "FLNC"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1821,34 +1823,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/solaredge-technologies-sedg-faces-financing-081110619.html",
           "publisher": "Simply Wall St.",
           "published": "2026-08-21T08:11:10Z"
-        }
-      ]
-    },
-    {
-      "symbol": "FLNC",
-      "name": "Fluence Energy",
-      "price": 11.34,
-      "previous_close": 11.39,
-      "change_pct": -0.44,
-      "market_cap": 1623475109.76503,
-      "headlines": [
-        {
-          "title": "Fluence Energy, Plug Power, Shoals, EVgo, and SolarEdge Stocks Trade Down, What You Need To Know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/fluence-energy-plug-power-shoals-001100303.html",
-          "publisher": "StockStory",
-          "published": "2026-08-21T00:11:00Z"
-        },
-        {
-          "title": "Fluence Energy, Bloom Energy, Redwire, Ameresco, and GE Vernova Shares Plummet, What You Need To Know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/fluence-energy-bloom-energy-redwire-212533946.html",
-          "publisher": "StockStory",
-          "published": "2026-08-18T21:25:33Z"
-        },
-        {
-          "title": "Latest News In Energy Transition - Germany's Energy Future: From Mining Lands to Power Hubs",
-          "url": "https://finance.yahoo.com/energy/articles/latest-news-energy-transition-germanys-113713744.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-08-18T11:37:13Z"
         }
       ]
     },
