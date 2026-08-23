@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-08-23T01:16:19+00:00",
-  "as_of_local": "2026-08-23 01:16:19 UTC",
+  "as_of_utc": "2026-08-23T02:45:14+00:00",
+  "as_of_local": "2026-08-23 02:45:14 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "LEU"
+    "GEV"
   ],
   "stocks": [
     {
@@ -87,34 +87,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/european-equities-traded-us-american-151732710.html",
           "publisher": "MT Newswires",
           "published": "2026-08-20T15:17:32Z"
-        }
-      ]
-    },
-    {
-      "symbol": "GEV",
-      "name": "GE Vernova",
-      "price": 956.85,
-      "previous_close": 966.01,
-      "change_pct": -0.95,
-      "market_cap": 254841280477.5653,
-      "headlines": [
-        {
-          "title": "GE Vernova's Backlog Is Bigger Than Some Countries' GDP. Here's What's Actually Inside the $176 Billion.",
-          "url": "https://finance.yahoo.com/energy/articles/ge-vernovas-backlog-bigger-countries-232500776.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-22T23:25:00Z"
-        },
-        {
-          "title": "Sector Update: Energy Stocks Mixed Late Afternoon",
-          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-mixed-afternoon-195700798.html",
-          "publisher": "MT Newswires",
-          "published": "2026-08-21T19:57:00Z"
-        },
-        {
-          "title": "FLNC or GEV: Which Alternative Energy Stock Is Better-Placed Now?",
-          "url": "https://finance.yahoo.com/energy/articles/flnc-gev-alternative-energy-stock-171500611.html",
-          "publisher": "Zacks",
-          "published": "2026-08-21T17:15:00Z"
         }
       ]
     },
@@ -1163,6 +1135,12 @@
       "market_cap": 29442827296.905605,
       "headlines": [
         {
+          "title": "How Strong Quarterly Results And New Tech Partnerships At Halliburton (HAL) Have Changed Its Investment Story",
+          "url": "https://finance.yahoo.com/energy/articles/strong-quarterly-results-tech-partnerships-011012799.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-08-23T01:10:12Z"
+        },
+        {
           "title": "Halliburton (HAL) Brings Three Startups Into Its Labs Push Beyond Oilfield Services",
           "url": "https://finance.yahoo.com/energy/articles/halliburton-hal-brings-three-startups-230938347.html",
           "publisher": "Simply Wall St.",
@@ -1173,12 +1151,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/halliburton-hal-beat-estimates-still-190922499.html",
           "publisher": "Simply Wall St.",
           "published": "2026-08-22T19:09:22Z"
-        },
-        {
-          "title": "Q2 Rundown: Halliburton (NYSE:HAL) Vs Other Oilfield Services Stocks",
-          "url": "https://finance.yahoo.com/energy/articles/q2-rundown-halliburton-nyse-hal-221147030.html",
-          "publisher": "StockStory",
-          "published": "2026-08-21T22:11:47Z"
         }
       ]
     },
@@ -1739,6 +1711,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/uuuu-stock-track-snap-3-073714887.html",
           "publisher": "Stocktwits",
           "published": "2026-08-20T07:37:14Z"
+        }
+      ]
+    },
+    {
+      "symbol": "LEU",
+      "name": "Centrus Energy",
+      "price": 186.26,
+      "previous_close": 176.13,
+      "change_pct": 5.75,
+      "market_cap": 3716419221.4756775,
+      "headlines": [
+        {
+          "title": "NuScale Power and Oklo Drop 5%, Centrus Energy Sinks 6%: What\u2019s Behind the Nuclear Stock Selloff?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nuscale-power-oklo-drop-5-173717296.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-08-20T17:37:17Z"
+        },
+        {
+          "title": "2 Nuclear Stocks to Buy and What Each One Needs to Go Right",
+          "url": "https://finance.yahoo.com/energy/articles/2-nuclear-stocks-buy-one-150500479.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-19T15:05:00Z"
+        },
+        {
+          "title": "Can X-Energy's Fuel Strategy Accelerate SMR Commercialization?",
+          "url": "https://finance.yahoo.com/energy/articles/x-energys-fuel-strategy-accelerate-140900269.html",
+          "publisher": "Zacks",
+          "published": "2026-08-19T14:09:00Z"
         }
       ]
     },
