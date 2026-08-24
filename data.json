@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-08-24T22:35:45+00:00",
-  "as_of_local": "2026-08-24 22:35:45 UTC",
+  "as_of_utc": "2026-08-24T22:54:21+00:00",
+  "as_of_local": "2026-08-24 22:54:21 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -571,7 +571,26 @@
       "previous_close": 53.87,
       "change_pct": 0.24,
       "market_cap": 80143734474.0,
-      "headlines": []
+      "headlines": [
+        {
+          "title": "Is RPC Stock Attractive as Margin Gains Meet Soft Industry Activity?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/rpc-stock-attractive-margin-gains-121000124.html",
+          "publisher": "Zacks",
+          "published": "2026-08-21T12:10:00Z"
+        },
+        {
+          "title": "Sector Update: Energy Stocks Rise Pre-Bell Tuesday",
+          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-rise-pre-132606759.html",
+          "publisher": "MT Newswires",
+          "published": "2026-08-18T13:26:06Z"
+        },
+        {
+          "title": "SLB (SLB) Stock May Trade At A Discount On Cash Flow But Fairly On Earnings",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/slb-slb-stock-may-trade-051134888.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-08-14T05:11:34Z"
+        }
+      ]
     },
     {
       "symbol": "SU",
@@ -2096,8 +2115,8 @@
     },
     {
       "label": "WTI",
-      "price": 85.02,
-      "change_pct": -2.34
+      "price": 85.08,
+      "change_pct": -2.27
     },
     {
       "label": "Brent",
@@ -2106,8 +2125,8 @@
     },
     {
       "label": "NatGas",
-      "price": 2.8,
-      "change_pct": 1.12
+      "price": 2.81,
+      "change_pct": 1.15
     }
   ]
 }
