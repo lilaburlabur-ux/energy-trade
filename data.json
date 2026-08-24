@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-08-24T10:09:58+00:00",
-  "as_of_local": "2026-08-24 10:09:58 UTC",
+  "as_of_utc": "2026-08-24T10:51:04+00:00",
+  "as_of_local": "2026-08-24 10:51:04 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -13,6 +13,12 @@
       "market_cap": 678917786225.3119,
       "headlines": [
         {
+          "title": "Morgan Stanley\u2019s Wilson Sees Higher Oil as Key Risk for Equities",
+          "url": "https://finance.yahoo.com/energy/articles/morgan-stanley-wilson-sees-higher-094619560.html",
+          "publisher": "Bloomberg",
+          "published": "2026-08-24T09:46:19Z"
+        },
+        {
           "title": "Exxon Eyes Shell\u2019s $8 Billion U.S. Chemicals Business",
           "url": "https://finance.yahoo.com/energy/articles/exxon-eyes-shell-8-billion-071500169.html",
           "publisher": "Oilprice.com",
@@ -23,12 +29,6 @@
           "url": "https://finance.yahoo.com/energy/articles/prediction-exxonmobil-raises-dividend-more-191600348.html",
           "publisher": "Motley Fool",
           "published": "2026-08-23T19:16:00Z"
-        },
-        {
-          "title": "One of Exxon's Biggest Oil Fields Is Running Out of Room to Grow. Here's Why That's Not a Crisis.",
-          "url": "https://finance.yahoo.com/energy/articles/one-exxons-biggest-oil-fields-160500654.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-23T16:05:00Z"
         }
       ]
     },
@@ -41,6 +41,12 @@
       "market_cap": 402658312434.8534,
       "headlines": [
         {
+          "title": "Morgan Stanley\u2019s Wilson Sees Higher Oil as Key Risk for Equities",
+          "url": "https://finance.yahoo.com/energy/articles/morgan-stanley-wilson-sees-higher-094619560.html",
+          "publisher": "Bloomberg",
+          "published": "2026-08-24T09:46:19Z"
+        },
+        {
           "title": "1 Energy Stock for Long-Term Investors and 2 We Avoid",
           "url": "https://finance.yahoo.com/energy/articles/1-energy-stock-long-term-074536360.html",
           "publisher": "StockStory",
@@ -51,12 +57,6 @@
           "url": "https://finance.yahoo.com/energy/articles/one-exxons-biggest-oil-fields-160500654.html",
           "publisher": "Motley Fool",
           "published": "2026-08-23T16:05:00Z"
-        },
-        {
-          "title": "Why Is Chevron (CVX) Naming A New Treasurer Worth Watching?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-chevron-cvx-naming-treasurer-100815088.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-08-23T10:08:15Z"
         }
       ]
     },
@@ -1105,6 +1105,12 @@
       "market_cap": 33602720283.569336,
       "headlines": [
         {
+          "title": "2 Energy Stocks with Impressive Fundamentals and 1 We Ignore",
+          "url": "https://finance.yahoo.com/energy/articles/2-energy-stocks-impressive-fundamentals-100936131.html",
+          "publisher": "StockStory",
+          "published": "2026-08-24T10:09:36Z"
+        },
+        {
           "title": "EQT (EQT) Down 0.7% Since Last Earnings Report: Can It Rebound?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/eqt-eqt-down-0-7-153004913.html",
           "publisher": "Zacks",
@@ -1115,12 +1121,6 @@
           "url": "https://finance.yahoo.com/energy/articles/could-eqt-eqt-major-winner-125543750.html",
           "publisher": "Insider Monkey",
           "published": "2026-08-20T12:55:43Z"
-        },
-        {
-          "title": "Q2 Rundown: EQT (NYSE:EQT) Vs Other Upstream Natural Gas E&P Stocks",
-          "url": "https://finance.yahoo.com/energy/articles/q2-rundown-eqt-nyse-eqt-095820730.html",
-          "publisher": "StockStory",
-          "published": "2026-08-17T09:58:20Z"
         }
       ]
     },
@@ -1357,6 +1357,12 @@
       "market_cap": 15201751805.062408,
       "headlines": [
         {
+          "title": "2 Energy Stocks with Impressive Fundamentals and 1 We Ignore",
+          "url": "https://finance.yahoo.com/energy/articles/2-energy-stocks-impressive-fundamentals-100936131.html",
+          "publisher": "StockStory",
+          "published": "2026-08-24T10:09:36Z"
+        },
+        {
           "title": "Is CRC Stock Worth Buying Despite Its Premium Valuation?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/crc-stock-worth-buying-despite-112100490.html",
           "publisher": "Zacks",
@@ -1367,12 +1373,6 @@
           "url": "https://finance.yahoo.com/energy/articles/apa-targets-700m-cost-cuts-170203957.html",
           "publisher": "MarketBeat",
           "published": "2026-08-18T17:02:03Z"
-        },
-        {
-          "title": "1 Profitable Stock with Impressive Fundamentals and 2 We Question",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/1-profitable-stock-impressive-fundamentals-094933173.html",
-          "publisher": "StockStory",
-          "published": "2026-08-18T09:49:33Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 85.05,
-      "change_pct": -2.31
+      "price": 84.99,
+      "change_pct": -2.38
     },
     {
       "label": "Brent",
-      "price": 92.78,
-      "change_pct": -1.71
+      "price": 92.71,
+      "change_pct": -1.78
     },
     {
       "label": "NatGas",
       "price": 2.83,
-      "change_pct": 2.2
+      "change_pct": 2.06
     }
   ]
 }
