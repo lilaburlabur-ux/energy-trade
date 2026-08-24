@@ -18,7 +18,7 @@ Signed file: `BP.research.24.08.2026`
 | Technical momentum | Moderate | 1Y +35.08%; price +10.64% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -5.98% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 2.55%, revenue growth 48.20%. |
-| Value attractiveness | Reasonable | Forward P/E 9.83, EV/Sales 2.40. |
+| Value attractiveness | Reasonable | Forward P/E 9.89, EV/Sales 2.40. |
 | Risk level | Moderate | Beta -0.21, ATR 2.3% of price, short float 0.41%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -68,7 +68,7 @@ BP p.l.c., an integrated energy company, engages in the oil and gas business wor
 | Revenue (ttm) | $215.47B | Revenue growth 48.20% y/y |
 | Profitability | Gross 28.30%, operating 13.15%, net 2.55% | ROA 5.04%, ROE 8.87% |
 | Balance sheet | Cash $37.23B, debt $72.69B | Current ratio 1.27, debt/equity 95.12 |
-| Valuation | P/E 20.93, forward P/E 9.83, P/S 0.52, P/B 7.75 | EV/Sales 2.40, EV/EBITDA 13.18 |
+| Valuation | P/E 20.93, forward P/E 9.89, P/S 0.52, P/B 7.75 | EV/Sales 2.40, EV/EBITDA 13.18 |
 | Growth expectations | Earnings growth 138.90%, EPS q/q 140.10% | Analyst mean target $47.63 (18 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -121,7 +121,7 @@ BP p.l.c., an integrated energy company, engages in the oil and gas business wor
 | 52W high | $46.52 | Revenue growth y/y | 48.20% |
 | 52W low | $31.17 | Inst. ownership | 14.09% |
 | P/E (ttm) | 20.93 | Insider ownership | 0.00% |
-| Forward P/E | 9.83 | Short float | 0.41% |
+| Forward P/E | 9.89 | Short float | 0.41% |
 | PEG (trailing) | 0.04 | Avg volume | 9,248,250 |
 | P/S | 0.52 | Employees | 93,700 |
 | P/B | 7.75 | Analyst rec (1=buy..5=sell) | 2.4 |

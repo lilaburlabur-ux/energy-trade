@@ -5,7 +5,7 @@ Signed file: `NXE.research.24.08.2026`
 | Field | Value |
 |---|---|
 | Current price | $10.93 (2026-08-24, ~15-min delayed) |
-| Market cap | $7.23B |
+| Market cap | $7.33B |
 | Sector / Industry | Energy / Uranium |
 | Main theme | Uranium — see catalysts below |
 | Current stance | High technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
@@ -36,10 +36,10 @@ NexGen Energy Ltd., an exploration and development stage company, engages in the
 
 | Headline | Source | Date |
 |---|---|---|
+| Uranium Energy Stock Is Priced On Pounds It Has Not Sold Yet | Trefis | 2026-08-24 |
 | How Much Upside is Left in NexGen Energy (NXE)? Wall Street Analysts Think 45.83% | Zacks | 2026-08-20 |
 | Stallion Uranium: How Drilling is “Delivering the Goods” | InvestorsHub | 2026-08-20 |
 | Is NexGen Energy (NXE) Stock Outpacing Its Basic Materials Peers This Year? | Zacks | 2026-08-18 |
-| BHP's Uranium Talks Could Open a New AI-Power Growth Lane | GuruFocus.com | 2026-08-17 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -69,7 +69,7 @@ NexGen Energy Ltd., an exploration and development stage company, engages in the
 | Profitability | Gross 0.00%, operating 0.00%, net 0.00% | ROA -3.39%, ROE -17.67% |
 | Balance sheet | Cash $970.25M, debt $619.11M | Current ratio 1.46, debt/equity 33.57 |
 | Valuation | P/E —, forward P/E -61.70, P/S —, P/B 5.47 | EV/Sales —, EV/EBITDA -63.88 |
-| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $19.42 (1 analysts) |
+| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $19.43 (1 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
@@ -111,7 +111,7 @@ NexGen Energy Ltd., an exploration and development stage company, engages in the
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $10.93 | EV/Sales | — |
-| Market cap | $7.23B | EV/EBITDA | -63.88 |
+| Market cap | $7.33B | EV/EBITDA | -63.88 |
 | Beta | 1.65 | Gross margin | 0.00% |
 | RSI(14) | 61.6 | Operating margin | 0.00% |
 | ATR(14) | 0.51 | Profit margin | 0.00% |

@@ -36,10 +36,10 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 
 | Headline | Source | Date |
 |---|---|---|
+| ExxonMobil Is Eyeing a Potential $8 Billion Bet on Shell's U.S. Chemical Plants. Here's What It Means for XOM Stock. | Motley Fool | 2026-08-24 |
 | Sector Update: Energy Stocks Decline Monday | MT Newswires | 2026-08-24 |
 | How to Build $3,100 a Month in Dividend Income Starting From Zero | 24/7 Wall St. | 2026-08-24 |
 | Exxon Drops as Oil Retreats From $94 | GuruFocus.com | 2026-08-24 |
-| 3 Dividend Stocks to Buy and Hold for the Next Decade, Starting With Chevron | Motley Fool | 2026-08-24 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -36,10 +36,10 @@ Shell plc operates as an energy and petrochemical company in Europe, Asia, Ocean
 
 | Headline | Source | Date |
 |---|---|---|
+| ExxonMobil Is Eyeing a Potential $8 Billion Bet on Shell's U.S. Chemical Plants. Here's What It Means for XOM Stock. | Motley Fool | 2026-08-24 |
 | Sector Update: Energy Stocks Decline Monday | MT Newswires | 2026-08-24 |
 | Shell seeking buyers for U.S. chemicals business at up to $8 billion | Quartz | 2026-08-24 |
 | Sector Update: Energy Stocks Decline Monday Afternoon | MT Newswires | 2026-08-24 |
-| Gas Price Watch: Bessent Details New 'Economic Onslaught' Against Iran | Investor's Business Daily | 2026-08-24 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

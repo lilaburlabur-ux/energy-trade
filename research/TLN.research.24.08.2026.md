@@ -18,7 +18,7 @@ Signed file: `TLN.research.24.08.2026`
 | Technical momentum | Low | Below SMA200 (-15.46%) with negative half-year (-16.94%). |
 | Fresh setup quality | Poor / broken | -31.47% from 52w high — base needs to rebuild. |
 | Fundamental quality | Weak | Negative profit margin (-4.95%). |
-| Value attractiveness | Reasonable | Forward P/E 9.94, EV/Sales 6.53. |
+| Value attractiveness | Reasonable | Forward P/E 9.93, EV/Sales 6.53. |
 | Risk level | High | Beta 1.67, ATR 6.1% of price, short float 5.32%. |
 
 **Bottom line:** Low technical momentum, weak fundamentals, value: reasonable, risk: high.
@@ -68,7 +68,7 @@ Talen Energy Corporation, an independent power producer and infrastructure compa
 | Revenue (ttm) | $3.74B | Revenue growth 111.20% y/y |
 | Profitability | Gross 42.10%, operating -4.80%, net -4.95% | ROA 0.92%, ROE -12.83% |
 | Balance sheet | Cash $232.00M, debt $9.57B | Current ratio 0.78, debt/equity 584.14 |
-| Valuation | P/E —, forward P/E 9.94, P/S 3.91, P/B 9.06 | EV/Sales 6.53, EV/EBITDA 41.98 |
+| Valuation | P/E —, forward P/E 9.93, P/S 3.91, P/B 9.06 | EV/Sales 6.53, EV/EBITDA 41.98 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $465.19 (16 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -124,7 +124,7 @@ Talen Energy Corporation, an independent power producer and infrastructure compa
 | 52W high | $445.84 | Revenue growth y/y | 111.20% |
 | 52W low | $302.97 | Inst. ownership | 102.19% |
 | P/E (ttm) | — | Insider ownership | 1.36% |
-| Forward P/E | 9.94 | Short float | 5.32% |
+| Forward P/E | 9.93 | Short float | 5.32% |
 | PEG (trailing) | — | Avg volume | 861,229 |
 | P/S | 3.91 | Employees | 1,880 |
 | P/B | 9.06 | Analyst rec (1=buy..5=sell) | 1.6 |

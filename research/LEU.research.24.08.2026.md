@@ -36,10 +36,10 @@ Centrus Energy Corp. supplies nuclear fuel components for the nuclear power indu
 
 | Headline | Source | Date |
 |---|---|---|
+| Green Plains, Liberty Energy, Nabors Industries, Centrus Energy, and Oceaneering Shares Are Falling, What You Need To Know | StockStory | 2026-08-24 |
 | Keep This Renewable Energy Stock Close Until November | Schaeffer's Investment Research | 2026-08-24 |
 | 3 Growth Stocks to Buy Before Wall Street Catches On | 24/7 Wall St. | 2026-08-24 |
 | NuScale Power and Oklo Drop 5%, Centrus Energy Sinks 6%: What’s Behind the Nuclear Stock Selloff? | 24/7 Wall St. | 2026-08-20 |
-| 2 Nuclear Stocks to Buy and What Each One Needs to Go Right | Motley Fool | 2026-08-19 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -36,10 +36,10 @@ Energy Fuels Inc., together with its subsidiaries, engages in the exploration, r
 
 | Headline | Source | Date |
 |---|---|---|
+| Uranium Energy Stock Is Priced On Pounds It Has Not Sold Yet | Trefis | 2026-08-24 |
 | MP Materials Stock Moved On The Theme, Not On Mountain Pass | Trefis | 2026-08-24 |
 | MP's Materials Segment 1H26 Revenues Jump 80%: Can This Momentum Last? | Zacks | 2026-08-20 |
 | US Rare Earth Pure Play: Fireside with Tactical Resources CEO Ranjeet Sundher | IPO-Edge.com | 2026-08-20 |
-| UUUU Stock On Track To Snap 3-Month Losing Streak: Energy Fuels’ Terbium Oxide Approved For Use By Major Japanese Magnet Maker | Stocktwits | 2026-08-20 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

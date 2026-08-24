@@ -36,10 +36,10 @@ TotalEnergies SE, an integrated energy company, produces and markets oil and bio
 
 | Headline | Source | Date |
 |---|---|---|
+| TotalEnergies (ENXTPA:TTE) CEO Reaffirms All Energy Plan As Hormuz Flows Hold Steady | Simply Wall St. | 2026-08-24 |
 | Sector Update: Energy Stocks Decline Monday Afternoon | MT Newswires | 2026-08-24 |
 | ADNOC Awards McDermott $1 Billion-Plus Contract for Major Offshore Gas Project | Oilprice.com | 2026-08-24 |
 | Shipping Oil Through Hormuz Costs $20 Million, Total CEO Says | Bloomberg | 2026-08-24 |
-| Sector Update: Energy Stocks Decline Premarket Monday | MT Newswires | 2026-08-24 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
