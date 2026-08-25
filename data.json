@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-08-25T11:13:05+00:00",
-  "as_of_local": "2026-08-25 11:13:05 UTC",
+  "as_of_utc": "2026-08-25T11:42:02+00:00",
+  "as_of_local": "2026-08-25 11:42:02 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -769,6 +769,12 @@
       "market_cap": 60089470389.27658,
       "headlines": [
         {
+          "title": "Bloom Energy Shares Jump After Nancy Pelosi Trade Disclosure",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-shares-jump-nancy-110446950.html",
+          "publisher": "InvestorsHub",
+          "published": "2026-08-25T11:04:46Z"
+        },
+        {
           "title": "Nancy Pelosi Made Millions On Nvidia Options. Now She\u2019s Betting $3 Million On 1 AI Energy Stock",
           "url": "https://finance.yahoo.com/markets/options/articles/nancy-pelosi-made-millions-nvidia-105705088.html",
           "publisher": "24/7 Wall St.",
@@ -779,12 +785,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/stock-climbs-overnight-retail-turns-050411817.html",
           "publisher": "Stocktwits",
           "published": "2026-08-25T05:04:11Z"
-        },
-        {
-          "title": "Nancy Pelosi Invested $3 Million in This AI Energy Play",
-          "url": "https://www.barrons.com/articles/bloom-energy-stock-nancy-pelosi-72bd90d5?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-08-24T21:14:00Z"
         }
       ]
     },
@@ -1833,6 +1833,12 @@
       "market_cap": 1554756516.5286827,
       "headlines": [
         {
+          "title": "Fluence Energy Shares Surge After UBS Upgrades Stock to Neutral",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/fluence-energy-shares-surge-ubs-105603676.html",
+          "publisher": "InvestorsHub",
+          "published": "2026-08-25T10:56:03Z"
+        },
+        {
           "title": "1 High-Flying Stock to Own for Decades and 2 Facing Challenges",
           "url": "https://finance.yahoo.com/markets/stocks/articles/1-high-flying-stock-own-075044982.html",
           "publisher": "StockStory",
@@ -1843,12 +1849,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/fluence-energy-plug-power-shoals-001100303.html",
           "publisher": "StockStory",
           "published": "2026-08-21T00:11:00Z"
-        },
-        {
-          "title": "Fluence Energy, Bloom Energy, Redwire, Ameresco, and GE Vernova Shares Plummet, What You Need To Know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/fluence-energy-bloom-energy-redwire-212533946.html",
-          "publisher": "StockStory",
-          "published": "2026-08-18T21:25:33Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 82.41,
-      "change_pct": -3.06
+      "price": 82.34,
+      "change_pct": -3.14
     },
     {
       "label": "Brent",
-      "price": 88.08,
-      "change_pct": -4.44
+      "price": 88.03,
+      "change_pct": -4.49
     },
     {
       "label": "NatGas",
-      "price": 2.81,
-      "change_pct": 0.9
+      "price": 2.8,
+      "change_pct": 0.54
     }
   ]
 }
