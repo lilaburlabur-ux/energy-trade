@@ -1,10 +1,27 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-25T11:04:08+00:00",
+  "as_of": "2026-08-25T11:40:34+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": []
+ "hot_tickers": [
+  {
+   "rank": 1,
+   "ticker": "FLNC",
+   "company": "Fluence Energy, Inc.",
+   "move_pct": 8.93,
+   "price": 11.83,
+   "volume": 6903700,
+   "volume_vs_avg": "~0.9x",
+   "heat_score": 61,
+   "direction": "up",
+   "why": "Fluence Energy Shares Surge After UBS Upgrades Stock to Neutral",
+   "catalyst_type": "analyst_action",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/fluence-energy-shares-surge-ubs-105603676.html",
+   "published": "2026-08-25T10:56:03Z",
+   "sector": "Grid, Storage & Electrification"
+  }
+ ]
 }
