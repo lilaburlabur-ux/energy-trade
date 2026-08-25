@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-08-25T05:48:47+00:00",
-  "as_of_local": "2026-08-25 05:48:47 UTC",
+  "as_of_utc": "2026-08-25T06:44:33+00:00",
+  "as_of_local": "2026-08-25 06:44:33 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -1525,6 +1525,12 @@
       "market_cap": 7383040273.0436325,
       "headlines": [
         {
+          "title": "Prediction: SpaceX's Power Needs Will Turn It Into Oklo's Biggest Customer",
+          "url": "https://finance.yahoo.com/energy/articles/prediction-spacexs-power-needs-turn-062500850.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-25T06:25:00Z"
+        },
+        {
           "title": "Oklo's CEO Says Used Nuclear Fuel in the U.S. Is Worth More Than Saudi Arabia's Oil Reserves. Here's His Case.",
           "url": "https://finance.yahoo.com/energy/articles/oklos-ceo-says-used-nuclear-002000629.html",
           "publisher": "Motley Fool",
@@ -1535,12 +1541,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/oklo-oklo-undervalued-first-revenue-140827868.html",
           "publisher": "Simply Wall St.",
           "published": "2026-08-24T14:08:27Z"
-        },
-        {
-          "title": "OKLO vs. TLN: Which Nuclear Energy Stock Looks Better Now?",
-          "url": "https://finance.yahoo.com/energy/articles/oklo-vs-tln-nuclear-energy-120000234.html",
-          "publisher": "Zacks",
-          "published": "2026-08-24T12:00:00Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 85.01,
-      "change_pct": 0.0
+      "price": 84.26,
+      "change_pct": -0.88
     },
     {
       "label": "Brent",
-      "price": 92.12,
-      "change_pct": -0.05
+      "price": 91.12,
+      "change_pct": -1.14
     },
     {
       "label": "NatGas",
-      "price": 2.8,
-      "change_pct": 0.68
+      "price": 2.79,
+      "change_pct": 0.25
     }
   ]
 }
