@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-08-25T20:38:58+00:00",
-  "as_of_local": "2026-08-25 20:38:58 UTC",
+  "as_of_utc": "2026-08-25T20:46:43+00:00",
+  "as_of_local": "2026-08-25 20:46:43 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -153,6 +153,12 @@
       "market_cap": 175649685796.66498,
       "headlines": [
         {
+          "title": "2 Dividend Stocks Compounding Quietly While Oil Headlines Distract Everyone",
+          "url": "https://finance.yahoo.com/energy/articles/2-dividend-stocks-compounding-quietly-203000300.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-25T20:30:00Z"
+        },
+        {
           "title": "PG&E Stock Runs On A Legislative Calendar, Not The Market's",
           "url": "https://finance.yahoo.com/markets/stocks/articles/pg-e-stock-runs-legislative-190112390.html",
           "publisher": "Trefis",
@@ -163,12 +169,6 @@
           "url": "https://finance.yahoo.com/energy/articles/customer-growth-support-alliant-energys-162300873.html",
           "publisher": "Zacks",
           "published": "2026-08-21T16:23:00Z"
-        },
-        {
-          "title": "NextEra Energy (NEE) Could Be 10% Undervalued After Merger Scrutiny Intensifies",
-          "url": "https://finance.yahoo.com/energy/articles/nextera-energy-nee-could-10-120847814.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-08-21T12:08:47Z"
         }
       ]
     },
@@ -2115,13 +2115,13 @@
     },
     {
       "label": "WTI",
-      "price": 80.73,
-      "change_pct": -5.03
+      "price": 80.69,
+      "change_pct": -5.08
     },
     {
       "label": "Brent",
-      "price": 85.57,
-      "change_pct": -7.16
+      "price": 85.48,
+      "change_pct": -7.26
     },
     {
       "label": "NatGas",
