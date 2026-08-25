@@ -38,8 +38,8 @@ Oklo Inc. develops fission power plants to provide energy at scale to customers 
 |---|---|---|
 | Oklo Isn't Exactly an AI Stock. Here's Why I Love It Anyway. | Motley Fool | 2026-08-25 |
 | Nuclear Stocks Rebound on an Oversold Bounce: Uranium Energy Jumps 6%, NuScale Power and Oklo Climb 5% | 24/7 Wall St. | 2026-08-25 |
+| Ahead of Okta Earnings, Here's What Barchart Data Says Comes Next for OKTA Stock | Barchart | 2026-08-25 |
 | Is Oklo the Next Great AI Story -- Or Just Nuclear Hype? | Motley Fool | 2026-08-25 |
-| Prediction: SpaceX's Power Needs Will Turn It Into Oklo's Biggest Customer | Motley Fool | 2026-08-25 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

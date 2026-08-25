@@ -36,10 +36,10 @@ Targa Resources Corp., together with its subsidiaries, owns, operates, acquires,
 
 | Headline | Source | Date |
 |---|---|---|
+| Targa grants new CFO hefty long-term incentive | CFO Dive | 2026-08-25 |
 | How Targa's ExxonMobil Deal Could Extend Its Permian Growth Runway | Zacks | 2026-08-21 |
 | Targa Resources' Stock Near 52-Week High: Time to Lock in Gains? (Revised) | Zacks | 2026-08-21 |
 | Targa Resources (TRGP) Stock Sees Modest Fair Value Lift After Bullish Analyst Revisions | Simply Wall St. | 2026-08-20 |
-| Targa Resources' Stock Near 52-Week High: Time to Lock in Gains? | Zacks | 2026-08-19 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

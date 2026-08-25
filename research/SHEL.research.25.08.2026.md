@@ -36,10 +36,10 @@ Shell plc operates as an energy and petrochemical company in Europe, Asia, Ocean
 
 | Headline | Source | Date |
 |---|---|---|
+| LyondellBasell Industries (LYB) Draws Shell Chemicals Bid Attention On An Undervalued View | Simply Wall St. | 2026-08-25 |
 | US Equity Markets Higher as Crude Oil Prices, Bond Yields Drop After US Treasury Threatens Economic Sanctions on Iran | MT Newswires | 2026-08-25 |
 | Sector Update: Energy Stocks Fall Tuesday | MT Newswires | 2026-08-25 |
 | Sector Update: Energy Stocks Fall Tuesday Afternoon | MT Newswires | 2026-08-25 |
-| Shell (LSE:SHEL) Weighs U.S. Chemicals Exit As Industry Bidders Circle | Simply Wall St. | 2026-08-25 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
