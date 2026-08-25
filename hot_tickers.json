@@ -1,43 +1,10 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-25T23:17:28+00:00",
+  "as_of": "2026-08-25T23:46:18+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": [
-  {
-   "rank": 1,
-   "ticker": "OKLO",
-   "company": "Oklo Inc.",
-   "move_pct": 13.62,
-   "price": 45.1,
-   "volume": 13846654,
-   "volume_vs_avg": "~2x",
-   "heat_score": 80,
-   "direction": "up",
-   "why": "Oklo Isn't Exactly an AI Stock. Here's Why I Love It Anyway.",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/energy/articles/oklo-isnt-exactly-ai-stock-192500357.html",
-   "published": "2026-08-25T19:25:00Z",
-   "sector": "Nuclear & Uranium"
-  },
-  {
-   "rank": 2,
-   "ticker": "BE",
-   "company": "Bloom Energy Corporation",
-   "move_pct": 6.69,
-   "price": 217.67,
-   "volume": 14828572,
-   "volume_vs_avg": "~0.9x",
-   "heat_score": 43,
-   "direction": "up",
-   "why": "What's the Deal With Nancy Pelosi and the Bloom Energy Stock Surge?",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/whats-deal-nancy-pelosi-bloom-194603635.html",
-   "published": "2026-08-25T19:46:03Z",
-   "sector": "Grid, Storage & Electrification"
-  }
- ]
+ "hot_tickers": []
 }
