@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-08-25T20:50:20+00:00",
-  "as_of_local": "2026-08-25 20:50:20 UTC",
+  "as_of_utc": "2026-08-25T21:00:48+00:00",
+  "as_of_local": "2026-08-25 21:00:48 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "OXY"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -741,6 +743,12 @@
       "market_cap": 61522405020.37985,
       "headlines": [
         {
+          "title": "Targa grants new CFO hefty long-term incentive",
+          "url": "https://finance.yahoo.com/energy/articles/targa-grants-cfo-hefty-long-140149081.html",
+          "publisher": "CFO Dive",
+          "published": "2026-08-25T14:01:49Z"
+        },
+        {
           "title": "How Targa's ExxonMobil Deal Could Extend Its Permian Growth Runway",
           "url": "https://finance.yahoo.com/energy/articles/targas-exxonmobil-deal-could-extend-165200325.html",
           "publisher": "Zacks",
@@ -751,12 +759,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/targa-resources-stock-near-52-101200020.html",
           "publisher": "Zacks",
           "published": "2026-08-21T10:12:00Z"
-        },
-        {
-          "title": "Targa Resources (TRGP) Stock Sees Modest Fair Value Lift After Bullish Analyst Revisions",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/targa-resources-trgp-stock-sees-032311869.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-08-20T03:23:11Z"
         }
       ]
     },
@@ -841,34 +843,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/td-cowen-just-upgraded-dominion-160420369.html",
           "publisher": "Barchart",
           "published": "2026-08-20T16:04:20Z"
-        }
-      ]
-    },
-    {
-      "symbol": "OXY",
-      "name": "Occidental Petroleum",
-      "price": 58.41,
-      "previous_close": 60.11,
-      "change_pct": -2.83,
-      "market_cap": 58388818687.57744,
-      "headlines": [
-        {
-          "title": "Which Oil and Gas Stock Has Dominated in 2026: ConocoPhillips, EOG Resources, or Occidental Petroleum?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/oil-gas-stock-dominated-2026-193624719.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-08-24T19:36:24Z"
-        },
-        {
-          "title": "Berkshire Hathaway (BRK.A) Holds Firm As A Top Portfolio Stake Lifts Its Dividend",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-brk-holds-firm-011143225.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-08-22T01:11:43Z"
-        },
-        {
-          "title": "What ExxonMobil Told You Before The Oil Shock Arrived",
-          "url": "https://finance.yahoo.com/energy/articles/exxonmobil-told-oil-shock-arrived-195514042.html",
-          "publisher": "Trefis",
-          "published": "2026-08-21T19:55:14Z"
         }
       ]
     },
@@ -1537,10 +1511,10 @@
           "published": "2026-08-25T15:14:18Z"
         },
         {
-          "title": "Is Oklo the Next Great AI Story -- Or Just Nuclear Hype?",
-          "url": "https://finance.yahoo.com/technology/ai/articles/oklo-next-great-ai-story-130500272.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-25T13:05:00Z"
+          "title": "Ahead of Okta Earnings, Here's What Barchart Data Says Comes Next for OKTA Stock",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ahead-okta-earnings-heres-barchart-145134960.html",
+          "publisher": "Barchart",
+          "published": "2026-08-25T14:51:34Z"
         }
       ]
     },
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 80.87,
-      "change_pct": -4.87
+      "price": 81.05,
+      "change_pct": -4.66
     },
     {
       "label": "Brent",
-      "price": 85.66,
-      "change_pct": -7.06
+      "price": 85.85,
+      "change_pct": -6.86
     },
     {
       "label": "NatGas",
       "price": 2.84,
-      "change_pct": 2.08
+      "change_pct": 2.19
     }
   ]
 }
