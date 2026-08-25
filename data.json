@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-08-25T23:29:03+00:00",
-  "as_of_local": "2026-08-25 23:29:03 UTC",
+  "as_of_utc": "2026-08-25T23:50:17+00:00",
+  "as_of_local": "2026-08-25 23:50:17 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -713,6 +713,12 @@
       "market_cap": 64044970488.87387,
       "headlines": [
         {
+          "title": "Nancy Pelosi makes intriguing first-ever bet on AI power stock",
+          "url": "https://finance.yahoo.com/technology/ai/articles/nancy-pelosi-makes-intriguing-first-231700719.html",
+          "publisher": "TheStreet",
+          "published": "2026-08-25T23:17:00Z"
+        },
+        {
           "title": "The Peer-Group Mispricing Sitting On BE Stock",
           "url": "https://finance.yahoo.com/markets/stocks/articles/peer-group-mispricing-sitting-stock-200231815.html",
           "publisher": "Trefis",
@@ -723,12 +729,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/whats-deal-nancy-pelosi-bloom-194603635.html",
           "publisher": "decrypt",
           "published": "2026-08-25T19:46:03Z"
-        },
-        {
-          "title": "Why Is Bloom Energy (BE) Stock Soaring Today",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-bloom-energy-stock-soaring-191844776.html",
-          "publisher": "StockStory",
-          "published": "2026-08-25T19:18:44Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 80.99,
-      "change_pct": -4.73
+      "price": 81.04,
+      "change_pct": -4.67
     },
     {
       "label": "Brent",
-      "price": 85.89,
-      "change_pct": -6.81
+      "price": 85.94,
+      "change_pct": -6.76
     },
     {
       "label": "NatGas",
       "price": 2.85,
-      "change_pct": 2.26
+      "change_pct": 2.37
     }
   ]
 }
