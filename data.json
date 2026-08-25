@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-08-25T11:05:32+00:00",
-  "as_of_local": "2026-08-25 11:05:32 UTC",
+  "as_of_utc": "2026-08-25T11:13:05+00:00",
+  "as_of_local": "2026-08-25 11:13:05 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -349,6 +349,12 @@
       "market_cap": 99622901506.0,
       "headlines": [
         {
+          "title": "Best Growth Stocks to Buy for August 25th",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/best-growth-stocks-buy-august-105800882.html",
+          "publisher": "Zacks",
+          "published": "2026-08-25T10:58:00Z"
+        },
+        {
           "title": "The Zacks Analyst Blog Highlights Nvidia's, Valero, Lumentum and Monolithic Power",
           "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-nvidias-090500754.html",
           "publisher": "Zacks",
@@ -359,12 +365,6 @@
           "url": "https://finance.yahoo.com/energy/articles/psx-gains-17-5-month-171000966.html",
           "publisher": "Zacks",
           "published": "2026-08-24T17:10:00Z"
-        },
-        {
-          "title": "Will Tight Product Inventories Boost PARR's Refining Outlook?",
-          "url": "https://finance.yahoo.com/energy/articles/tight-product-inventories-boost-parrs-170800535.html",
-          "publisher": "Zacks",
-          "published": "2026-08-24T17:08:00Z"
         }
       ]
     },
@@ -545,6 +545,12 @@
       "market_cap": 82837545520.88026,
       "headlines": [
         {
+          "title": "Why These 5 Dividend Stocks Are Worth More in a Roth Than a Brokerage Account",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-5-dividend-stocks-worth-110113931.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-08-25T11:01:13Z"
+        },
+        {
           "title": "These 4 Dividend Stocks Yield Over 7%. Roth Owners Keep Every Penny",
           "url": "https://finance.yahoo.com/markets/stocks/articles/4-dividend-stocks-yield-over-110122268.html",
           "publisher": "24/7 Wall St.",
@@ -555,12 +561,6 @@
           "url": "https://finance.yahoo.com/energy/articles/energy-stock-pays-8-dividend-202500817.html",
           "publisher": "Motley Fool",
           "published": "2026-08-21T20:25:00Z"
-        },
-        {
-          "title": "Will Enterprise' Expanding Infrastructure Support Long-Term Growth?",
-          "url": "https://finance.yahoo.com/energy/articles/enterprise-expanding-infrastructure-support-long-162800037.html",
-          "publisher": "Zacks",
-          "published": "2026-08-21T16:28:00Z"
         }
       ]
     },
@@ -825,6 +825,12 @@
       "market_cap": 59270152425.24505,
       "headlines": [
         {
+          "title": "Why These 5 Dividend Stocks Are Worth More in a Roth Than a Brokerage Account",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-5-dividend-stocks-worth-110113931.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-08-25T11:01:13Z"
+        },
+        {
           "title": "These 4 Dividend Stocks Yield Over 7%. Roth Owners Keep Every Penny",
           "url": "https://finance.yahoo.com/markets/stocks/articles/4-dividend-stocks-yield-over-110122268.html",
           "publisher": "24/7 Wall St.",
@@ -835,12 +841,6 @@
           "url": "https://finance.yahoo.com/energy/articles/mplx-set-stronger-2027-growth-152418350.html",
           "publisher": "MT Newswires",
           "published": "2026-08-21T15:24:18Z"
-        },
-        {
-          "title": "Why MPLX Stock Is Suddenly Trending on Wall Street",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-mplx-stock-suddenly-trending-015000339.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-21T01:50:00Z"
         }
       ]
     },
@@ -1357,6 +1357,12 @@
       "market_cap": 15051100548.843613,
       "headlines": [
         {
+          "title": "3 Cash-Producing Stocks Worth Investigating",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-cash-producing-stocks-worth-110244574.html",
+          "publisher": "StockStory",
+          "published": "2026-08-25T11:02:44Z"
+        },
+        {
           "title": "2 Energy Stocks with Impressive Fundamentals and 1 We Ignore",
           "url": "https://finance.yahoo.com/energy/articles/2-energy-stocks-impressive-fundamentals-100936131.html",
           "publisher": "StockStory",
@@ -1367,12 +1373,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/crc-stock-worth-buying-despite-112100490.html",
           "publisher": "Zacks",
           "published": "2026-08-19T11:21:00Z"
-        },
-        {
-          "title": "APA Targets $700M Cost Cuts, 5% Oil Growth as Suriname Project Nears 2028 Start",
-          "url": "https://finance.yahoo.com/energy/articles/apa-targets-700m-cost-cuts-170203957.html",
-          "publisher": "MarketBeat",
-          "published": "2026-08-18T17:02:03Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 82.5,
-      "change_pct": -2.95
+      "price": 82.41,
+      "change_pct": -3.06
     },
     {
       "label": "Brent",
-      "price": 88.14,
-      "change_pct": -4.37
+      "price": 88.08,
+      "change_pct": -4.44
     },
     {
       "label": "NatGas",
       "price": 2.81,
-      "change_pct": 0.83
+      "change_pct": 0.9
     }
   ]
 }
