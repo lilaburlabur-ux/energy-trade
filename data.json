@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-08-26T06:47:59+00:00",
-  "as_of_local": "2026-08-26 06:47:59 UTC",
+  "as_of_utc": "2026-08-26T07:46:08+00:00",
+  "as_of_local": "2026-08-26 07:46:08 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -69,6 +69,12 @@
       "market_cap": 253987760166.5001,
       "headlines": [
         {
+          "title": "European Indexes Mostly Gain, Tech Stocks Fall",
+          "url": "https://www.wsj.com/finance/stocks/nikkei-falls-0-4-dragged-by-chip-related-stocks-472365b8?siteid=yhoof2&yptr=yahoo",
+          "publisher": "The Wall Street Journal",
+          "published": "2026-08-26T07:26:00Z"
+        },
+        {
           "title": "Big Oil Is Betting Billions On Nuclear Fusion",
           "url": "https://finance.yahoo.com/energy/articles/big-oil-betting-billions-nuclear-000000256.html",
           "publisher": "Oilprice.com",
@@ -79,12 +85,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/lyondellbasell-industries-lyb-draws-shell-210701019.html",
           "publisher": "Simply Wall St.",
           "published": "2026-08-25T21:07:01Z"
-        },
-        {
-          "title": "US Equity Markets Higher as Crude Oil Prices, Bond Yields Drop After US Treasury Threatens Economic Sanctions on Iran",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-markets-higher-crude-201819661.html",
-          "publisher": "MT Newswires",
-          "published": "2026-08-25T20:18:19Z"
         }
       ]
     },
@@ -237,6 +237,12 @@
       "market_cap": 110379172035.54419,
       "headlines": [
         {
+          "title": "European Indexes Mostly Gain, Tech Stocks Fall",
+          "url": "https://www.wsj.com/finance/stocks/nikkei-falls-0-4-dragged-by-chip-related-stocks-472365b8?siteid=yhoof2&yptr=yahoo",
+          "publisher": "The Wall Street Journal",
+          "published": "2026-08-26T07:26:00Z"
+        },
+        {
           "title": "Sector Update: Energy Stocks Fall Tuesday",
           "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-fall-tuesday-200328287.html",
           "publisher": "MT Newswires",
@@ -247,12 +253,6 @@
           "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-fall-premarket-132758591.html",
           "publisher": "MT Newswires",
           "published": "2026-08-25T13:27:58Z"
-        },
-        {
-          "title": "What Does BP (LSE:BP.) Mean For Europe Fuel Supply And Venezuela Trading?",
-          "url": "https://finance.yahoo.com/energy/articles/does-bp-lse-bp-mean-090955992.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-08-21T09:09:55Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 80.77,
-      "change_pct": -1.93
+      "price": 80.11,
+      "change_pct": -2.73
     },
     {
       "label": "Brent",
-      "price": 85.78,
-      "change_pct": -3.16
+      "price": 85.26,
+      "change_pct": -3.75
     },
     {
       "label": "NatGas",
-      "price": 2.87,
-      "change_pct": 3.54
+      "price": 2.86,
+      "change_pct": 3.32
     }
   ]
 }
