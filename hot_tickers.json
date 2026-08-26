@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-26T13:39:41+00:00",
+  "as_of": "2026-08-26T14:24:36+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,16 +11,16 @@
    "rank": 1,
    "ticker": "SEDG",
    "company": "SolarEdge Technologies, Inc.",
-   "move_pct": 7.15,
-   "price": 32.01,
-   "volume": 1095940,
-   "volume_vs_avg": "~0.3x",
-   "heat_score": 42,
+   "move_pct": 6.46,
+   "price": 31.81,
+   "volume": 2069141,
+   "volume_vs_avg": "~0.6x",
+   "heat_score": 41,
    "direction": "up",
-   "why": "SEDG Stock Rises Premarket: UBS Sees 40% Upside Potential From US Inverter Curbs",
-   "catalyst_type": "regulatory",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/sedg-stock-rises-premarket-ubs-104215150.html",
-   "published": "2026-08-26T10:42:15Z",
+   "why": "Intuit downgraded, SolarEdge upgraded: Wall Street's top analyst calls",
+   "catalyst_type": "analyst_action",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/intuit-downgraded-solaredge-upgraded-wall-134109270.html",
+   "published": "2026-08-26T13:41:09Z",
    "sector": "Renewables & Solar"
   }
  ]
