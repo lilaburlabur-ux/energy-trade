@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-08-26T11:49:30+00:00",
-  "as_of_local": "2026-08-26 11:49:30 UTC",
+  "as_of_utc": "2026-08-26T12:19:00+00:00",
+  "as_of_local": "2026-08-26 12:19:00 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "ENPH"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -14,6 +12,12 @@
       "change_pct": -2.08,
       "market_cap": 660537534744.6881,
       "headlines": [
+        {
+          "title": "Arthur Hayes Says Bitcoin Can Hit $250,000 Without A Credit Crisis \u2013 But Warns Of 75% Crash",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/arthur-hayes-says-bitcoin-hit-114450538.html",
+          "publisher": "Stocktwits",
+          "published": "2026-08-26T11:44:50Z"
+        },
         {
           "title": "5 Blue-Chip Dividend Stocks to Buy Before August Ends",
           "url": "https://finance.yahoo.com/markets/stocks/articles/5-blue-chip-dividend-stocks-110039548.html",
@@ -25,12 +29,6 @@
           "url": "https://finance.yahoo.com/energy/articles/morgan-stanley-sees-exxonmobil-xom-014458079.html",
           "publisher": "Insider Monkey",
           "published": "2026-08-26T01:44:58Z"
-        },
-        {
-          "title": "ExxonMobil Has Raised Its Dividend 43 Years in a Row. But the Raises Used to Be Bigger.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/exxonmobil-raised-dividend-43-years-004301870.html",
-          "publisher": "Motley Fool",
-          "published": "2026-08-26T00:43:01Z"
         }
       ]
     },
@@ -1113,16 +1111,16 @@
           "published": "2026-08-25T17:28:00Z"
         },
         {
+          "title": "3 Contrarian Trades for a Market That Looks Too Hot",
+          "url": "https://finance.yahoo.com/markets/options/articles/3-contrarian-trades-market-looks-120000796.html",
+          "publisher": "MarketBeat",
+          "published": "2026-08-25T12:00:00Z"
+        },
+        {
           "title": "EQT (EQT) Stock May Be Undervalued After A 10 Year Gas Deal",
           "url": "https://finance.yahoo.com/markets/stocks/articles/eqt-eqt-stock-may-undervalued-160940429.html",
           "publisher": "Simply Wall St.",
           "published": "2026-08-24T16:09:40Z"
-        },
-        {
-          "title": "Why EQT (EQT) Is Getting Attention Today",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-eqt-eqt-getting-attention-151244460.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-08-24T15:12:44Z"
         }
       ]
     },
@@ -1471,6 +1469,12 @@
       "market_cap": 11667310284.557343,
       "headlines": [
         {
+          "title": "3 Contrarian Trades for a Market That Looks Too Hot",
+          "url": "https://finance.yahoo.com/markets/options/articles/3-contrarian-trades-market-looks-120000796.html",
+          "publisher": "MarketBeat",
+          "published": "2026-08-25T12:00:00Z"
+        },
+        {
           "title": "3 Cash-Producing Stocks That Fall Short",
           "url": "https://finance.yahoo.com/markets/stocks/articles/3-cash-producing-stocks-fall-190220475.html",
           "publisher": "StockStory",
@@ -1481,12 +1485,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/halliburton-technipfmc-antero-resources-apa-165322090.html",
           "publisher": "StockStory",
           "published": "2026-08-12T16:53:22Z"
-        },
-        {
-          "title": "Can Range Resources' Q2 Beat Sustain Momentum Through 2026 Growth?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/range-resources-q2-beat-sustain-125900168.html",
-          "publisher": "Zacks",
-          "published": "2026-08-11T12:59:00Z"
         }
       ]
     },
@@ -1659,6 +1657,34 @@
       ]
     },
     {
+      "symbol": "ENPH",
+      "name": "Enphase Energy",
+      "price": 37.35,
+      "previous_close": 37.18,
+      "change_pct": 0.46,
+      "market_cap": 4922663315.891876,
+      "headlines": [
+        {
+          "title": "1 Industrials Stock with Exciting Potential and 2 We Find Risky",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/1-industrials-stock-exciting-potential-100829713.html",
+          "publisher": "StockStory",
+          "published": "2026-08-21T10:08:29Z"
+        },
+        {
+          "title": "Zacks Industry Outlook Highlights First Solar, Enphase Energy and T1 Energy",
+          "url": "https://finance.yahoo.com/energy/articles/zacks-industry-outlook-highlights-first-074000072.html",
+          "publisher": "Zacks",
+          "published": "2026-08-19T07:40:00Z"
+        },
+        {
+          "title": "Enphase Energy Opens U.S. Pre-Orders for First Commercial Battery System",
+          "url": "https://finance.yahoo.com/energy/articles/enphase-energy-opens-u-pre-123214630.html",
+          "publisher": "InvestorsHub",
+          "published": "2026-08-18T12:32:14Z"
+        }
+      ]
+    },
+    {
       "symbol": "SMR",
       "name": "NuScale Power",
       "price": 9.81,
@@ -1666,6 +1692,12 @@
       "change_pct": 8.4,
       "market_cap": 4025921383.0262966,
       "headlines": [
+        {
+          "title": "Forget NuScale's Quarterly Numbers: Its TVA Deal Could Be the Biggest Nuclear Contract in U.S. History.",
+          "url": "https://finance.yahoo.com/energy/articles/forget-nuscales-quarterly-numbers-tva-120600685.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-26T12:06:00Z"
+        },
         {
           "title": "NuScale Stock Ticks Higher as AI Integration Promises 80% Efficiency Gain",
           "url": "https://finance.yahoo.com/technology/ai/articles/nuscale-stock-ticks-higher-ai-103245891.html",
@@ -1677,12 +1709,6 @@
           "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-fall-tuesday-200328287.html",
           "publisher": "MT Newswires",
           "published": "2026-08-25T20:03:28Z"
-        },
-        {
-          "title": "NuScale Power Short Seller Profits Send Stark Warning to Investors",
-          "url": "https://finance.yahoo.com/energy/articles/nuscale-power-short-seller-profits-154543569.html",
-          "publisher": "Barchart",
-          "published": "2026-08-25T15:45:43Z"
         }
       ]
     },
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 80.36,
-      "change_pct": -2.43
+      "price": 80.49,
+      "change_pct": -2.27
     },
     {
       "label": "Brent",
-      "price": 85.43,
-      "change_pct": -3.56
+      "price": 85.36,
+      "change_pct": -3.64
     },
     {
       "label": "NatGas",
-      "price": 2.89,
-      "change_pct": 4.48
+      "price": 2.88,
+      "change_pct": 3.97
     }
   ]
 }
