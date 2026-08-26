@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-08-26T22:09:58+00:00",
-  "as_of_local": "2026-08-26 22:09:58 UTC",
+  "as_of_utc": "2026-08-26T23:36:35+00:00",
+  "as_of_local": "2026-08-26 23:36:35 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -150,7 +150,7 @@
       "price": 84.22,
       "previous_close": 84.22,
       "change_pct": 0.0,
-      "market_cap": 175681087308.34012,
+      "market_cap": 175649685796.66498,
       "headlines": [
         {
           "title": "NextEra Outperforms Industry in a Year: Should You Buy the Stock?",
@@ -178,7 +178,7 @@
       "price": 419.44,
       "previous_close": 409.2,
       "change_pct": 2.5,
-      "market_cap": 162910496948.2422,
+      "market_cap": 162868552947.99805,
       "headlines": [
         {
           "title": "Is GE Vernova Emerging as a Key Beneficiary of the AI Power Boom?",
@@ -257,6 +257,34 @@
       ]
     },
     {
+      "symbol": "MPC",
+      "name": "Marathon Petroleum",
+      "price": 362.27,
+      "previous_close": 354.88,
+      "change_pct": 2.08,
+      "market_cap": 105759881554.13834,
+      "headlines": [
+        {
+          "title": "ExxonMobil Stock's Biggest Risk Is The Shortage Ending",
+          "url": "https://finance.yahoo.com/energy/articles/exxonmobil-stocks-biggest-risk-shortage-171942417.html",
+          "publisher": "Trefis",
+          "published": "2026-08-26T17:19:42Z"
+        },
+        {
+          "title": "Wall Street Analysts See Marathon Petroleum (MPC) as a Buy: Should You Invest?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-see-marathon-133002437.html",
+          "publisher": "Zacks",
+          "published": "2026-08-26T13:30:02Z"
+        },
+        {
+          "title": "Will Valero's Excess Cash Translate Into Higher Shareholder Returns?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/valeros-excess-cash-translate-higher-124200755.html",
+          "publisher": "Zacks",
+          "published": "2026-08-26T12:42:00Z"
+        }
+      ]
+    },
+    {
       "symbol": "SO",
       "name": "Southern Company",
       "price": 89.76,
@@ -285,34 +313,6 @@
       ]
     },
     {
-      "symbol": "MPC",
-      "name": "Marathon Petroleum",
-      "price": 362.27,
-      "previous_close": 354.88,
-      "change_pct": 2.08,
-      "market_cap": 101734383806.77701,
-      "headlines": [
-        {
-          "title": "ExxonMobil Stock's Biggest Risk Is The Shortage Ending",
-          "url": "https://finance.yahoo.com/energy/articles/exxonmobil-stocks-biggest-risk-shortage-171942417.html",
-          "publisher": "Trefis",
-          "published": "2026-08-26T17:19:42Z"
-        },
-        {
-          "title": "Wall Street Analysts See Marathon Petroleum (MPC) as a Buy: Should You Invest?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-see-marathon-133002437.html",
-          "publisher": "Zacks",
-          "published": "2026-08-26T13:30:02Z"
-        },
-        {
-          "title": "Will Valero's Excess Cash Translate Into Higher Shareholder Returns?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/valeros-excess-cash-translate-higher-124200755.html",
-          "publisher": "Zacks",
-          "published": "2026-08-26T12:42:00Z"
-        }
-      ]
-    },
-    {
       "symbol": "VRT",
       "name": "Vertiv",
       "price": 263.81,
@@ -320,6 +320,12 @@
       "change_pct": 3.15,
       "market_cap": 101563728979.21747,
       "headlines": [
+        {
+          "title": "How Vertiv\u2019s Strong Interest Coverage and Analyst Praise Will Impact Vertiv Holdings Co (VRT) Investors",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/vertiv-strong-interest-coverage-analyst-221840521.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-08-26T22:18:40Z"
+        },
         {
           "title": "Strong Datacenter Growth Boosts TER's Prospects Against CSCO & VRT",
           "url": "https://finance.yahoo.com/technology/articles/strong-datacenter-growth-boosts-ters-162600424.html",
@@ -331,12 +337,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/pengs-backlog-keeps-growing-revenue-150600326.html",
           "publisher": "Zacks",
           "published": "2026-08-26T15:06:00Z"
-        },
-        {
-          "title": "Zacks.com featured highlights Garrett Motion, Brinker, Vertiv and Mueller Water Products",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-com-featured-highlights-garrett-085300284.html",
-          "publisher": "Zacks",
-          "published": "2026-08-26T08:53:00Z"
         }
       ]
     },
@@ -405,6 +405,12 @@
       "market_cap": 98043757883.07237,
       "headlines": [
         {
+          "title": "Equinor Targets 27% International Production Growth by 2030",
+          "url": "https://finance.yahoo.com/energy/articles/equinor-targets-27-international-production-220000131.html",
+          "publisher": "Oilprice.com",
+          "published": "2026-08-26T22:00:00Z"
+        },
+        {
           "title": "Electrifying offshore: what is slowing rig electrification?",
           "url": "https://finance.yahoo.com/energy/articles/electrifying-offshore-slowing-rig-electrification-114454606.html",
           "publisher": "Mining Technology",
@@ -415,12 +421,6 @@
           "url": "https://finance.yahoo.com/energy/articles/equinor-starts-production-troll-phase-111146920.html",
           "publisher": "Offshore Technology",
           "published": "2026-08-26T11:11:46Z"
-        },
-        {
-          "title": "Norwegian company to spend nearly $1 billion on stake in Jessup power plant",
-          "url": "https://finance.yahoo.com/energy/articles/norwegian-company-spend-nearly-1-000400364.html",
-          "publisher": "The Times-Tribune, Scranton, Pa.",
-          "published": "2026-08-26T00:04:00Z"
         }
       ]
     },
@@ -626,7 +626,7 @@
       "price": 144.84,
       "previous_close": 146.83,
       "change_pct": -1.36,
-      "market_cap": 75972803930.95679,
+      "market_cap": 77145914334.65607,
       "headlines": [
         {
           "title": "Which Oil and Gas Stock Has Dominated in 2026: ConocoPhillips, EOG Resources, or Occidental Petroleum?",
@@ -822,7 +822,7 @@
       "price": 94.9,
       "previous_close": 91.7,
       "change_pct": 3.49,
-      "market_cap": 59822082360.16778,
+      "market_cap": 59790118616.15384,
       "headlines": [
         {
           "title": "1 High-Yield Pipeline Stock Investors Keep Underestimating",
@@ -1074,7 +1074,7 @@
       "price": 74.03,
       "previous_close": 73.28,
       "change_pct": 1.02,
-      "market_cap": 36898034212.47711,
+      "market_cap": 36890732781.75751,
       "headlines": [
         {
           "title": "Sector Update: Energy Stocks Rise Wednesday",
@@ -1161,6 +1161,12 @@
       "market_cap": 28693008695.349552,
       "headlines": [
         {
+          "title": "Halliburton (HAL) Rises As Market Takes a Dip: Key Facts",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/halliburton-hal-rises-market-takes-221502728.html",
+          "publisher": "Zacks",
+          "published": "2026-08-26T22:15:02Z"
+        },
+        {
           "title": "Halliburton Wins BP Contract for Bumerangue Field Appraisal",
           "url": "https://finance.yahoo.com/energy/articles/halliburton-wins-bp-contract-bumerangue-150300628.html",
           "publisher": "Zacks",
@@ -1171,12 +1177,6 @@
           "url": "https://finance.yahoo.com/energy/articles/halliburton-wins-integrated-contract-bp-082227020.html",
           "publisher": "Offshore Technology",
           "published": "2026-08-26T08:22:27Z"
-        },
-        {
-          "title": "Why Is Baker Hughes (BKR) Up 2.3% Since Last Earnings Report?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-baker-hughes-bkr-2-153002242.html",
-          "publisher": "Zacks",
-          "published": "2026-08-25T15:30:02Z"
         }
       ]
     },
@@ -1413,6 +1413,12 @@
       "market_cap": 14032822792.329712,
       "headlines": [
         {
+          "title": "Tiny Nuclear Reactors Are Coming to Army Bases. AI Data Centers Could Be Next.",
+          "url": "https://www.barrons.com/articles/nuclear-reactors-energy-army-ai-60cc308a?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-08-26T21:09:00Z"
+        },
+        {
           "title": "UUUU, LEU, CCJ, BWXT Stocks In Focus: Trump\u2019s Saudi Nuclear Push Reportedly Faces Congress Debate And Israel Hurdle",
           "url": "https://finance.yahoo.com/energy/articles/uuuu-leu-ccj-bwxt-stocks-045300343.html",
           "publisher": "Stocktwits",
@@ -1423,12 +1429,6 @@
           "url": "https://finance.yahoo.com/small-business/articles/bwxts-national-laboratory-role-expand-142000503.html",
           "publisher": "Zacks",
           "published": "2026-08-25T14:20:00Z"
-        },
-        {
-          "title": "Mercury Systems, BWX, Kratos, Parsons, and Huntington Ingalls Shares Plummet, What You Need To Know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/mercury-systems-bwx-kratos-parsons-221115869.html",
-          "publisher": "StockStory",
-          "published": "2026-08-20T22:11:15Z"
         }
       ]
     },
@@ -1494,7 +1494,7 @@
       "price": 32.49,
       "previous_close": 32.81,
       "change_pct": -0.98,
-      "market_cap": 9750627232.4674,
+      "market_cap": 9853436611.888638,
       "headlines": [
         {
           "title": "Is Brookfield Renewable a Better Buy Now Than It Was 6 Months Ago?",
@@ -1525,6 +1525,12 @@
       "market_cap": 7738333956.159592,
       "headlines": [
         {
+          "title": "Prediction: NuScale Hits a New High Before 2027",
+          "url": "https://finance.yahoo.com/energy/articles/prediction-nuscale-hits-high-2027-225500562.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-26T22:55:00Z"
+        },
+        {
           "title": "NuScale Power Tumbles 7% Despite Deploying AI Tools, Oklo Slides 6%, Uranium Energy Dips",
           "url": "https://finance.yahoo.com/markets/stocks/articles/nuscale-power-tumbles-7-despite-175425905.html",
           "publisher": "24/7 Wall St.",
@@ -1535,12 +1541,6 @@
           "url": "https://finance.yahoo.com/energy/articles/uuuu-vs-leu-uranium-stock-164000604.html",
           "publisher": "Zacks",
           "published": "2026-08-26T16:40:00Z"
-        },
-        {
-          "title": "OKLO's Aurora Reactor: New Design, Proven Nuclear Principles",
-          "url": "https://finance.yahoo.com/energy/articles/oklos-aurora-reactor-design-proven-125400671.html",
-          "publisher": "Zacks",
-          "published": "2026-08-26T12:54:00Z"
         }
       ]
     },
@@ -1553,6 +1553,12 @@
       "market_cap": 7422502333.447777,
       "headlines": [
         {
+          "title": "NexGen Energy (TSX:NXE) Looks Fully Priced As Special Call Puts Valuation In Focus",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nexgen-energy-tsx-nxe-looks-231210769.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-08-26T23:12:10Z"
+        },
+        {
           "title": "Uranium Energy Stock Is Priced On Pounds It Has Not Sold Yet",
           "url": "https://finance.yahoo.com/markets/stocks/articles/uranium-energy-stock-priced-pounds-212339551.html",
           "publisher": "Trefis",
@@ -1563,12 +1569,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/much-upside-left-nexgen-energy-135503417.html",
           "publisher": "Zacks",
           "published": "2026-08-20T13:55:03Z"
-        },
-        {
-          "title": "Stallion Uranium: How Drilling is \u201cDelivering the Goods\u201d",
-          "url": "https://finance.yahoo.com/markets/commodities/articles/stallion-uranium-drilling-delivering-goods-100000937.html",
-          "publisher": "InvestorsHub",
-          "published": "2026-08-20T10:00:00Z"
         }
       ]
     },
@@ -1606,7 +1606,7 @@
       "price": 13.13,
       "previous_close": 13.27,
       "change_pct": -1.06,
-      "market_cap": 6497674222.213648,
+      "market_cap": 6436598936.891316,
       "headlines": [
         {
           "title": "NuScale Power Tumbles 7% Despite Deploying AI Tools, Oklo Slides 6%, Uranium Energy Dips",
@@ -1662,7 +1662,7 @@
       "price": 38.42,
       "previous_close": 37.35,
       "change_pct": 2.85,
-      "market_cap": 5076336773.902039,
+      "market_cap": 5063028741.964874,
       "headlines": [
         {
           "title": "SolarEdge Stock Jumps After Upgrade. Why This Analyst Sees a 41% Gain.",
@@ -1721,6 +1721,12 @@
       "market_cap": 3804311056.8014145,
       "headlines": [
         {
+          "title": "Prediction: NuScale Hits a New High Before 2027",
+          "url": "https://finance.yahoo.com/energy/articles/prediction-nuscale-hits-high-2027-225500562.html",
+          "publisher": "Motley Fool",
+          "published": "2026-08-26T22:55:00Z"
+        },
+        {
           "title": "NuScale Power Tumbles 7% Despite Deploying AI Tools, Oklo Slides 6%, Uranium Energy Dips",
           "url": "https://finance.yahoo.com/markets/stocks/articles/nuscale-power-tumbles-7-despite-175425905.html",
           "publisher": "24/7 Wall St.",
@@ -1731,12 +1737,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/nuscale-power-deploys-ai-accelerate-130600353.html",
           "publisher": "Zacks",
           "published": "2026-08-26T13:06:00Z"
-        },
-        {
-          "title": "OKLO's Aurora Reactor: New Design, Proven Nuclear Principles",
-          "url": "https://finance.yahoo.com/energy/articles/oklos-aurora-reactor-design-proven-125400671.html",
-          "publisher": "Zacks",
-          "published": "2026-08-26T12:54:00Z"
         }
       ]
     },
@@ -2115,13 +2115,13 @@
     },
     {
       "label": "WTI",
-      "price": 81.91,
-      "change_pct": -0.55
+      "price": 81.83,
+      "change_pct": -0.64
     },
     {
       "label": "Brent",
-      "price": 86.56,
-      "change_pct": -2.28
+      "price": 86.59,
+      "change_pct": -2.25
     },
     {
       "label": "NatGas",
