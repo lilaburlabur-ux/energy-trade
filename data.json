@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-08-26T11:47:41+00:00",
-  "as_of_local": "2026-08-26 11:47:41 UTC",
+  "as_of_utc": "2026-08-26T11:49:30+00:00",
+  "as_of_local": "2026-08-26 11:49:30 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "ENPH"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1657,34 +1659,6 @@
       ]
     },
     {
-      "symbol": "ENPH",
-      "name": "Enphase Energy",
-      "price": 37.35,
-      "previous_close": 37.18,
-      "change_pct": 0.46,
-      "market_cap": 4922663315.891876,
-      "headlines": [
-        {
-          "title": "1 Industrials Stock with Exciting Potential and 2 We Find Risky",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/1-industrials-stock-exciting-potential-100829713.html",
-          "publisher": "StockStory",
-          "published": "2026-08-21T10:08:29Z"
-        },
-        {
-          "title": "Zacks Industry Outlook Highlights First Solar, Enphase Energy and T1 Energy",
-          "url": "https://finance.yahoo.com/energy/articles/zacks-industry-outlook-highlights-first-074000072.html",
-          "publisher": "Zacks",
-          "published": "2026-08-19T07:40:00Z"
-        },
-        {
-          "title": "Enphase Energy Opens U.S. Pre-Orders for First Commercial Battery System",
-          "url": "https://finance.yahoo.com/energy/articles/enphase-energy-opens-u-pre-123214630.html",
-          "publisher": "InvestorsHub",
-          "published": "2026-08-18T12:32:14Z"
-        }
-      ]
-    },
-    {
       "symbol": "SMR",
       "name": "NuScale Power",
       "price": 9.81,
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 80.3,
-      "change_pct": -2.5
+      "price": 80.36,
+      "change_pct": -2.43
     },
     {
       "label": "Brent",
-      "price": 85.31,
-      "change_pct": -3.69
+      "price": 85.43,
+      "change_pct": -3.56
     },
     {
       "label": "NatGas",
       "price": 2.89,
-      "change_pct": 4.4
+      "change_pct": 4.48
     }
   ]
 }
