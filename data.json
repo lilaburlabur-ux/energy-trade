@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-08-26T11:19:52+00:00",
-  "as_of_local": "2026-08-26 11:19:52 UTC",
+  "as_of_utc": "2026-08-26T11:47:41+00:00",
+  "as_of_local": "2026-08-26 11:47:41 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -69,6 +69,12 @@
       "market_cap": 253987760166.5001,
       "headlines": [
         {
+          "title": "Stocks gain as oil drops on Mideast hopes",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-edge-higher-oil-drops-023953523.html",
+          "publisher": "AFP",
+          "published": "2026-08-26T11:33:16Z"
+        },
+        {
           "title": "Equinor starts production at Troll phase three, stage two in North Sea",
           "url": "https://finance.yahoo.com/energy/articles/equinor-starts-production-troll-phase-111146920.html",
           "publisher": "Offshore Technology",
@@ -79,12 +85,6 @@
           "url": "https://finance.yahoo.com/markets/world-indices/articles/london-ftse-100-flat-sinking-074024740.html",
           "publisher": "Investing.com",
           "published": "2026-08-26T07:40:24Z"
-        },
-        {
-          "title": "Big Oil Is Betting Billions On Nuclear Fusion",
-          "url": "https://finance.yahoo.com/energy/articles/big-oil-betting-billions-nuclear-000000256.html",
-          "publisher": "Oilprice.com",
-          "published": "2026-08-26T00:00:00Z"
         }
       ]
     },
@@ -150,7 +150,7 @@
       "price": 84.22,
       "previous_close": 84.1,
       "change_pct": 0.14,
-      "market_cap": 175681087308.34012,
+      "market_cap": 175649685796.66498,
       "headlines": [
         {
           "title": "2 Dividend Stocks Compounding Quietly While Oil Headlines Distract Everyone",
@@ -206,7 +206,7 @@
       "price": 409.2,
       "previous_close": 408.67,
       "change_pct": 0.13,
-      "market_cap": 158933284741.21094,
+      "market_cap": 158892364739.99023,
       "headlines": [
         {
           "title": "Are Industrial Products Stocks Lagging  Eaton (ETN) This Year?",
@@ -237,6 +237,12 @@
       "market_cap": 110379172035.54419,
       "headlines": [
         {
+          "title": "Stocks gain as oil drops on Mideast hopes",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-edge-higher-oil-drops-023953523.html",
+          "publisher": "AFP",
+          "published": "2026-08-26T11:33:16Z"
+        },
+        {
           "title": "London\u2019s FTSE 100 slips as sinking crude weighs on oil majors",
           "url": "https://finance.yahoo.com/markets/world-indices/articles/london-ftse-100-flat-sinking-074024740.html",
           "publisher": "Investing.com",
@@ -247,12 +253,34 @@
           "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-fall-tuesday-200328287.html",
           "publisher": "MT Newswires",
           "published": "2026-08-25T20:03:28Z"
+        }
+      ]
+    },
+    {
+      "symbol": "MPC",
+      "name": "Marathon Petroleum",
+      "price": 354.88,
+      "previous_close": 362.52,
+      "change_pct": -2.11,
+      "market_cap": 103602474454.27185,
+      "headlines": [
+        {
+          "title": "Marathon Petroleum (MPC) and Valero Energy (VLO) Have Exploded in 2026. But Barron\u2019s Sees More Upside",
+          "url": "https://finance.yahoo.com/energy/articles/marathon-petroleum-mpc-valero-energy-020319205.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-08-26T02:03:19Z"
         },
         {
-          "title": "Sector Update: Energy Stocks Fall Premarket Tuesday",
-          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-fall-premarket-132758591.html",
-          "publisher": "MT Newswires",
-          "published": "2026-08-25T13:27:58Z"
+          "title": "Marathon vs. Valero: Which Refining Stock Is the Better Buy Now?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/marathon-vs-valero-refining-stock-143500157.html",
+          "publisher": "Zacks",
+          "published": "2026-08-25T14:35:00Z"
+        },
+        {
+          "title": "Are Investors Undervaluing Marathon Petroleum (MPC) Right Now?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/investors-undervaluing-marathon-petroleum-mpc-134002284.html",
+          "publisher": "Zacks",
+          "published": "2026-08-25T13:40:02Z"
         }
       ]
     },
@@ -281,34 +309,6 @@
           "url": "https://finance.yahoo.com/energy/articles/ge-vernovas-176b-backlog-sustain-144500676.html",
           "publisher": "Zacks",
           "published": "2026-08-17T14:45:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "MPC",
-      "name": "Marathon Petroleum",
-      "price": 354.88,
-      "previous_close": 362.52,
-      "change_pct": -2.11,
-      "market_cap": 99659093264.65466,
-      "headlines": [
-        {
-          "title": "Marathon Petroleum (MPC) and Valero Energy (VLO) Have Exploded in 2026. But Barron\u2019s Sees More Upside",
-          "url": "https://finance.yahoo.com/energy/articles/marathon-petroleum-mpc-valero-energy-020319205.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-08-26T02:03:19Z"
-        },
-        {
-          "title": "Marathon vs. Valero: Which Refining Stock Is the Better Buy Now?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/marathon-vs-valero-refining-stock-143500157.html",
-          "publisher": "Zacks",
-          "published": "2026-08-25T14:35:00Z"
-        },
-        {
-          "title": "Are Investors Undervaluing Marathon Petroleum (MPC) Right Now?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/investors-undervaluing-marathon-petroleum-mpc-134002284.html",
-          "publisher": "Zacks",
-          "published": "2026-08-25T13:40:02Z"
         }
       ]
     },
@@ -405,6 +405,12 @@
       "market_cap": 97806415838.36841,
       "headlines": [
         {
+          "title": "Electrifying offshore: what is slowing rig electrification?",
+          "url": "https://finance.yahoo.com/energy/articles/electrifying-offshore-slowing-rig-electrification-114454606.html",
+          "publisher": "Mining Technology",
+          "published": "2026-08-26T11:44:54Z"
+        },
+        {
           "title": "Equinor starts production at Troll phase three, stage two in North Sea",
           "url": "https://finance.yahoo.com/energy/articles/equinor-starts-production-troll-phase-111146920.html",
           "publisher": "Offshore Technology",
@@ -415,12 +421,6 @@
           "url": "https://finance.yahoo.com/energy/articles/norwegian-company-spend-nearly-1-000400364.html",
           "publisher": "The Times-Tribune, Scranton, Pa.",
           "published": "2026-08-26T00:04:00Z"
-        },
-        {
-          "title": "Norway\u2019s Troll Gas Expansion Buys Europe Time\u2014But Not New Supply",
-          "url": "https://finance.yahoo.com/energy/articles/norway-troll-gas-expansion-buys-190000531.html",
-          "publisher": "Oilprice.com",
-          "published": "2026-08-25T19:00:00Z"
         }
       ]
     },
@@ -593,6 +593,34 @@
       ]
     },
     {
+      "symbol": "EOG",
+      "name": "EOG Resources",
+      "price": 146.83,
+      "previous_close": 150.21,
+      "change_pct": -2.25,
+      "market_cap": 78205848035.17197,
+      "headlines": [
+        {
+          "title": "Which Oil and Gas Stock Has Dominated in 2026: ConocoPhillips, EOG Resources, or Occidental Petroleum?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/oil-gas-stock-dominated-2026-193624719.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-08-24T19:36:24Z"
+        },
+        {
+          "title": "EOG Stock Is Up 14.8% in 3 Months: Can Its Strong Rally Keep Going?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/eog-stock-14-8-3-141100423.html",
+          "publisher": "Zacks",
+          "published": "2026-08-24T14:11:00Z"
+        },
+        {
+          "title": "EOG Resources (EOG) Stock Still Looks A Bargain On Earnings Yet Fully Priced On Returns",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/eog-resources-eog-stock-still-140821856.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-08-22T14:08:21Z"
+        }
+      ]
+    },
+    {
       "symbol": "SU",
       "name": "Suncor Energy",
       "price": 65.36,
@@ -617,34 +645,6 @@
           "url": "https://www.investors.com/news/oil-prices-iran-us-hormuz-shell-suncor-ecopetrol-frontline-oneok/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
           "published": "2026-08-19T16:14:26Z"
-        }
-      ]
-    },
-    {
-      "symbol": "EOG",
-      "name": "EOG Resources",
-      "price": 146.83,
-      "previous_close": 150.21,
-      "change_pct": -2.25,
-      "market_cap": 77016619872.5216,
-      "headlines": [
-        {
-          "title": "Which Oil and Gas Stock Has Dominated in 2026: ConocoPhillips, EOG Resources, or Occidental Petroleum?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/oil-gas-stock-dominated-2026-193624719.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-08-24T19:36:24Z"
-        },
-        {
-          "title": "EOG Stock Is Up 14.8% in 3 Months: Can Its Strong Rally Keep Going?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/eog-stock-14-8-3-141100423.html",
-          "publisher": "Zacks",
-          "published": "2026-08-24T14:11:00Z"
-        },
-        {
-          "title": "EOG Resources (EOG) Stock Still Looks A Bargain On Earnings Yet Fully Priced On Returns",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/eog-resources-eog-stock-still-140821856.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-08-22T14:08:21Z"
         }
       ]
     },
@@ -878,7 +878,7 @@
       "price": 91.7,
       "previous_close": 93.02,
       "change_pct": -1.42,
-      "market_cap": 57804896540.164444,
+      "market_cap": 57774010605.69232,
       "headlines": [
         {
           "title": "1 High-Yield Pipeline Stock Investors Keep Underestimating",
@@ -1074,7 +1074,7 @@
       "price": 73.28,
       "previous_close": 73.53,
       "change_pct": -0.34,
-      "market_cap": 36524219189.97711,
+      "market_cap": 36516991730.25751,
       "headlines": [
         {
           "title": "Pennsylvania Sets New Data-Center Rules\u2014and Some Energy Companies Can Actually Benefit",
@@ -1494,7 +1494,7 @@
       "price": 32.81,
       "previous_close": 32.35,
       "change_pct": 1.42,
-      "market_cap": 9846662861.2006,
+      "market_cap": 9950484828.136158,
       "headlines": [
         {
           "title": "Is Brookfield Renewable a Better Buy Now Than It Was 6 Months Ago?",
@@ -1606,7 +1606,7 @@
       "price": 13.27,
       "previous_close": 12.51,
       "change_pct": 6.08,
-      "market_cap": 6566956523.354591,
+      "market_cap": 6505230014.815266,
       "headlines": [
         {
           "title": "Nuclear Stocks Rebound on an Oversold Bounce: Uranium Energy Jumps 6%, NuScale Power and Oklo Climb 5%",
@@ -1662,7 +1662,7 @@
       "price": 37.35,
       "previous_close": 37.18,
       "change_pct": 0.46,
-      "market_cap": 4935602401.163269,
+      "market_cap": 4922663315.891876,
       "headlines": [
         {
           "title": "1 Industrials Stock with Exciting Potential and 2 We Find Risky",
@@ -1693,6 +1693,12 @@
       "market_cap": 4025921383.0262966,
       "headlines": [
         {
+          "title": "NuScale Stock Ticks Higher as AI Integration Promises 80% Efficiency Gain",
+          "url": "https://finance.yahoo.com/technology/ai/articles/nuscale-stock-ticks-higher-ai-103245891.html",
+          "publisher": "Benzinga",
+          "published": "2026-08-26T10:32:45Z"
+        },
+        {
           "title": "Sector Update: Energy Stocks Fall Tuesday",
           "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-fall-tuesday-200328287.html",
           "publisher": "MT Newswires",
@@ -1703,12 +1709,6 @@
           "url": "https://finance.yahoo.com/energy/articles/nuscale-power-short-seller-profits-154543569.html",
           "publisher": "Barchart",
           "published": "2026-08-25T15:45:43Z"
-        },
-        {
-          "title": "Nuclear Stocks Rebound on an Oversold Bounce: Uranium Energy Jumps 6%, NuScale Power and Oklo Climb 5%",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nuclear-stocks-rebound-oversold-bounce-151418970.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-08-25T15:14:18Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 80.25,
-      "change_pct": -2.56
+      "price": 80.3,
+      "change_pct": -2.5
     },
     {
       "label": "Brent",
-      "price": 85.08,
-      "change_pct": -3.95
+      "price": 85.31,
+      "change_pct": -3.69
     },
     {
       "label": "NatGas",
       "price": 2.89,
-      "change_pct": 4.26
+      "change_pct": 4.4
     }
   ]
 }
