@@ -1,27 +1,10 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-08-26T21:29:10+00:00",
+  "as_of": "2026-08-27T00:58:10+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": [
-  {
-   "rank": 1,
-   "ticker": "OKLO",
-   "company": "Oklo Inc.",
-   "move_pct": -5.06,
-   "price": 42.03,
-   "volume": 18231940,
-   "volume_vs_avg": "~2x",
-   "heat_score": 42,
-   "direction": "down",
-   "why": "NuScale Power Tumbles 7% Despite Deploying AI Tools, Oklo Slides 6%, Uranium Energy Dips",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/nuscale-power-tumbles-7-despite-175425905.html",
-   "published": "2026-08-26T17:54:25Z",
-   "sector": "Nuclear & Uranium"
-  }
- ]
+ "hot_tickers": []
 }
