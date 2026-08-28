@@ -68,7 +68,7 @@ First Solar, Inc., a solar technology company, provides photovoltaic (PV) solar 
 | Revenue (ttm) | $5.38B | Revenue growth -3.70% y/y |
 | Profitability | Gross 44.02%, operating 42.64%, net 32.46% | ROA 8.62%, ROE 18.51% |
 | Balance sheet | Cash $1.73B, debt $194.01M | Current ratio 2.52, debt/equity 1.88 |
-| Valuation | P/E 12.95, forward P/E 9.09, P/S 4.20, P/B 2.19 | EV/Sales 3.91, EV/EBITDA 8.82 |
+| Valuation | P/E 12.69, forward P/E 9.09, P/S 4.20, P/B 2.19 | EV/Sales 3.91, EV/EBITDA 8.82 |
 | Growth expectations | Earnings growth 23.30%, EPS q/q 23.60% | Analyst mean target $274.44 (30 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -122,7 +122,7 @@ First Solar, Inc., a solar technology company, provides photovoltaic (PV) solar 
 | SMA200 dist | -9.57% | Revenue (ttm) | $5.38B |
 | 52W high | $318.25 | Revenue growth y/y | -3.70% |
 | 52W low | $184.70 | Inst. ownership | 96.88% |
-| P/E (ttm) | 12.95 | Insider ownership | 5.36% |
+| P/E (ttm) | 12.69 | Insider ownership | 5.36% |
 | Forward P/E | 9.09 | Short float | 11.86% |
 | PEG (trailing) | 0.56 | Avg volume | 2,295,544 |
 | P/S | 4.20 | Employees | 7,900 |

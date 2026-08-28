@@ -68,7 +68,7 @@ The Southern Company, through its subsidiaries, engages in the sale of electrici
 | Revenue (ttm) | $30.18B | Revenue growth 0.10% y/y |
 | Profitability | Gross 48.29%, operating 29.61%, net 15.43% | ROA 3.27%, ROE 11.48% |
 | Balance sheet | Cash $2.98B, debt $77.09B | Current ratio 0.79, debt/equity 182.06 |
-| Valuation | P/E 21.46, forward P/E 18.08, P/S 3.39, P/B 2.59 | EV/Sales 5.94, EV/EBITDA 12.58 |
+| Valuation | P/E 21.67, forward P/E 18.08, P/S 3.39, P/B 2.59 | EV/Sales 5.94, EV/EBITDA 12.58 |
 | Growth expectations | Earnings growth 30.40%, EPS q/q 33.40% | Analyst mean target $100.29 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -119,7 +119,7 @@ The Southern Company, through its subsidiaries, engages in the sale of electrici
 | SMA200 dist | -2.19% | Revenue (ttm) | $30.18B |
 | 52W high | $97.49 | Revenue growth y/y | 0.10% |
 | 52W low | $82.06 | Inst. ownership | 74.21% |
-| P/E (ttm) | 21.46 | Insider ownership | 0.10% |
+| P/E (ttm) | 21.67 | Insider ownership | 0.10% |
 | Forward P/E | 18.08 | Short float | 2.84% |
 | PEG (trailing) | 2.28 | Avg volume | 5,930,636 |
 | P/S | 3.39 | Employees | 29,502 |

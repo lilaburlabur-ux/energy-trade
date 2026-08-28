@@ -125,7 +125,7 @@ Centrus Energy Corp. supplies nuclear fuel components for the nuclear power indu
 | 52W low | $146.61 | Inst. ownership | 89.25% |
 | P/E (ttm) | 102.52 | Insider ownership | 4.31% |
 | Forward P/E | 50.96 | Short float | 29.16% |
-| PEG (trailing) | — | Avg volume | 791,155 |
+| PEG (trailing) | — | Avg volume | 788,854 |
 | P/S | 8.20 | Employees | 467 |
 | P/B | 4.60 | Analyst rec (1=buy..5=sell) | 1.8 |
 

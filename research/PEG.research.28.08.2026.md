@@ -5,7 +5,7 @@ Signed file: `PEG.research.28.08.2026`
 | Field | Value |
 |---|---|
 | Current price | $73.33 (2026-08-28, ~15-min delayed) |
-| Market cap | $36.55B |
+| Market cap | $36.54B |
 | Sector / Industry | Utilities / Utilities - Regulated Electric |
 | Main theme | Utilities - Regulated Electric — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -68,7 +68,7 @@ Public Service Enterprise Group Incorporated, through its subsidiaries, operates
 | Revenue (ttm) | $12.54B | Revenue growth -8.90% y/y |
 | Profitability | Gross 33.33%, operating 18.87%, net 16.04% | ROA 3.24%, ROE 11.83% |
 | Balance sheet | Cash $192.00M, debt $24.68B | Current ratio 0.88, debt/equity 142.41 |
-| Valuation | P/E 18.24, forward P/E 15.69, P/S 2.91, P/B 2.11 | EV/Sales 4.87, EV/EBITDA 13.68 |
+| Valuation | P/E 18.42, forward P/E 15.69, P/S 2.91, P/B 2.11 | EV/Sales 4.87, EV/EBITDA 13.68 |
 | Growth expectations | Earnings growth -42.70%, EPS q/q -42.90% | Analyst mean target $85.47 (18 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -110,7 +110,7 @@ Public Service Enterprise Group Incorporated, through its subsidiaries, operates
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $73.33 | EV/Sales | 4.87 |
-| Market cap | $36.55B | EV/EBITDA | 13.68 |
+| Market cap | $36.54B | EV/EBITDA | 13.68 |
 | Beta | 0.53 | Gross margin | 33.33% |
 | RSI(14) | 35.4 | Operating margin | 18.87% |
 | ATR(14) | 1.27 | Profit margin | 16.04% |
@@ -119,9 +119,9 @@ Public Service Enterprise Group Incorporated, through its subsidiaries, operates
 | SMA200 dist | -7.64% | Revenue (ttm) | $12.54B |
 | 52W high | $85.51 | Revenue growth y/y | -8.90% |
 | 52W low | $72.61 | Inst. ownership | 79.52% |
-| P/E (ttm) | 18.24 | Insider ownership | 0.13% |
+| P/E (ttm) | 18.42 | Insider ownership | 0.13% |
 | Forward P/E | 15.69 | Short float | 2.22% |
-| PEG (trailing) | 3.68 | Avg volume | 2,841,714 |
+| PEG (trailing) | 3.68 | Avg volume | 2,837,470 |
 | P/S | 2.91 | Employees | 13,189 |
 | P/B | 2.11 | Analyst rec (1=buy..5=sell) | 2.3 |
 

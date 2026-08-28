@@ -5,7 +5,7 @@ Signed file: `HAL.research.28.08.2026`
 | Field | Value |
 |---|---|
 | Current price | $35.49 (2026-08-28, ~15-min delayed) |
-| Market cap | $29.57B |
+| Market cap | $29.65B |
 | Sector / Industry | Energy / Oil & Gas Equipment & Services |
 | Main theme | Oil & Gas Equipment & Services — see catalysts below |
 | Current stance | High technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -68,7 +68,7 @@ Halliburton Company provides products and services to the energy industry worldw
 | Revenue (ttm) | $22.37B | Revenue growth 3.70% y/y |
 | Profitability | Gross 15.08%, operating 12.79%, net 7.16% | ROA 7.26%, ROE 14.92% |
 | Balance sheet | Cash $2.05B, debt $8.20B | Current ratio 2.02, debt/equity 74.19 |
-| Valuation | P/E 18.58, forward P/E 12.23, P/S 1.32, P/B 2.69 | EV/Sales 1.60, EV/EBITDA 8.64 |
+| Valuation | P/E 18.02, forward P/E 12.23, P/S 1.33, P/B 2.69 | EV/Sales 1.60, EV/EBITDA 8.64 |
 | Growth expectations | Earnings growth 16.10%, EPS q/q 13.10% | Analyst mean target $43.20 (25 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -111,7 +111,7 @@ Halliburton Company provides products and services to the energy industry worldw
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $35.49 | EV/Sales | 1.60 |
-| Market cap | $29.57B | EV/EBITDA | 8.64 |
+| Market cap | $29.65B | EV/EBITDA | 8.64 |
 | Beta | 0.75 | Gross margin | 15.08% |
 | RSI(14) | 58.2 | Operating margin | 12.79% |
 | ATR(14) | 1.06 | Profit margin | 7.16% |
@@ -120,10 +120,10 @@ Halliburton Company provides products and services to the energy industry worldw
 | SMA200 dist | +3.36% | Revenue (ttm) | $22.37B |
 | 52W high | $42.80 | Revenue growth y/y | 3.70% |
 | 52W low | $21.26 | Inst. ownership | 90.45% |
-| P/E (ttm) | 18.58 | Insider ownership | 0.40% |
+| P/E (ttm) | 18.02 | Insider ownership | 0.40% |
 | Forward P/E | 12.23 | Short float | 5.04% |
 | PEG (trailing) | 0.84 | Avg volume | 11,875,517 |
-| P/S | 1.32 | Employees | 46,000 |
+| P/S | 1.33 | Employees | 46,000 |
 | P/B | 2.69 | Analyst rec (1=buy..5=sell) | 1.8 |
 
 ## 8. Analyst Actions

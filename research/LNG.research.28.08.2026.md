@@ -68,7 +68,7 @@ Cheniere Energy, Inc., an energy infrastructure company, primarily engages in th
 | Revenue (ttm) | $20.92B | Revenue growth 22.70% y/y |
 | Profitability | Gross 36.85%, operating 75.00%, net 13.94% | ROA 8.63%, ROE 39.12% |
 | Balance sheet | Cash $1.12B, debt $27.97B | Current ratio 0.87, debt/equity 243.42 |
-| Valuation | P/E 21.26, forward P/E 13.52, P/S 2.77, P/B 9.43 | EV/Sales 4.31, EV/EBITDA 11.52 |
+| Valuation | P/E 21.50, forward P/E 13.52, P/S 2.77, P/B 9.43 | EV/Sales 4.31, EV/EBITDA 11.52 |
 | Growth expectations | Earnings growth 100.70%, EPS q/q 88.70% | Analyst mean target $308.90 (21 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -120,7 +120,7 @@ Cheniere Energy, Inc., an energy infrastructure company, primarily engages in th
 | SMA200 dist | +18.46% | Revenue (ttm) | $20.92B |
 | 52W high | $295.58 | Revenue growth y/y | 22.70% |
 | 52W low | $187.49 | Inst. ownership | 91.88% |
-| P/E (ttm) | 21.26 | Insider ownership | 0.66% |
+| P/E (ttm) | 21.50 | Insider ownership | 0.66% |
 | Forward P/E | 13.52 | Short float | 2.15% |
 | PEG (trailing) | — | Avg volume | 1,940,363 |
 | P/S | 2.77 | Employees | 1,717 |

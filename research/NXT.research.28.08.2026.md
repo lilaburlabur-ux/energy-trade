@@ -68,7 +68,7 @@ Nextpower Inc. provides solar and energy technology solutions for utility-scale 
 | Revenue (ttm) | $3.63B | Revenue growth 8.20% y/y |
 | Profitability | Gross 22.98%, operating 20.86%, net 16.36% | ROA 11.68%, ROE 27.22% |
 | Balance sheet | Cash $1.21B, debt $38.40M | Current ratio 2.69, debt/equity 1.50 |
-| Valuation | P/E 23.15, forward P/E 15.50, P/S 3.79, P/B 5.31 | EV/Sales 3.42, EV/EBITDA 16.58 |
+| Valuation | P/E 22.51, forward P/E 15.50, P/S 3.79, P/B 5.31 | EV/Sales 3.42, EV/EBITDA 16.58 |
 | Growth expectations | Earnings growth 2.90%, EPS q/q 5.20% | Analyst mean target $141.52 (27 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -122,7 +122,7 @@ Nextpower Inc. provides solar and energy technology solutions for utility-scale 
 | SMA200 dist | -17.72% | Revenue (ttm) | $3.63B |
 | 52W high | $156.40 | Revenue growth y/y | 8.20% |
 | 52W low | $64.33 | Inst. ownership | 109.56% |
-| P/E (ttm) | 23.15 | Insider ownership | 0.63% |
+| P/E (ttm) | 22.51 | Insider ownership | 0.63% |
 | Forward P/E | 15.50 | Short float | 8.04% |
 | PEG (trailing) | 3.15 | Avg volume | 3,051,625 |
 | P/S | 3.79 | Employees | 1,993 |

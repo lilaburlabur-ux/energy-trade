@@ -124,7 +124,7 @@ HF Sinclair Corporation operates as an independent energy company in the United 
 | 52W low | $44.83 | Inst. ownership | 89.64% |
 | P/E (ttm) | 9.25 | Insider ownership | 5.49% |
 | Forward P/E | 10.35 | Short float | 5.32% |
-| PEG (trailing) | 1.20 | Avg volume | 2,612,336 |
+| PEG (trailing) | 1.20 | Avg volume | 2,599,626 |
 | P/S | 0.55 | Employees | 5,165 |
 | P/B | 1.68 | Analyst rec (1=buy..5=sell) | 2.6 |
 

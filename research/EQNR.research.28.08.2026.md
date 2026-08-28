@@ -5,7 +5,7 @@ Signed file: `EQNR.research.28.08.2026`
 | Field | Value |
 |---|---|
 | Current price | $41.55 (2026-08-28, ~15-min delayed) |
-| Market cap | $98.61B |
+| Market cap | $98.64B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
 | Current stance | High technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -68,7 +68,7 @@ Equinor ASA operates as an energy company in Norway and internationally. It oper
 | Revenue (ttm) | $113.65B | Revenue growth 37.40% y/y |
 | Profitability | Gross 40.13%, operating 36.11%, net 7.97% | ROA 14.52%, ROE 21.27% |
 | Balance sheet | Cash $23.73B, debt $32.42B | Current ratio 1.18, debt/equity 75.16 |
-| Valuation | P/E 11.26, forward P/E 11.34, P/S 0.87, P/B 4.69 | EV/Sales 1.85, EV/EBITDA 5.03 |
+| Valuation | P/E 11.20, forward P/E 11.34, P/S 0.87, P/B 4.69 | EV/Sales 1.85, EV/EBITDA 5.03 |
 | Growth expectations | Earnings growth 298.00%, EPS q/q 269.20% | Analyst mean target $34.74 (6 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -111,7 +111,7 @@ Equinor ASA operates as an energy company in Norway and internationally. It oper
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $41.55 | EV/Sales | 1.85 |
-| Market cap | $98.61B | EV/EBITDA | 5.03 |
+| Market cap | $98.64B | EV/EBITDA | 5.03 |
 | Beta | -0.73 | Gross margin | 40.13% |
 | RSI(14) | 58.7 | Operating margin | 36.11% |
 | ATR(14) | 1.06 | Profit margin | 7.97% |
@@ -120,7 +120,7 @@ Equinor ASA operates as an energy company in Norway and internationally. It oper
 | SMA200 dist | +28.69% | Revenue (ttm) | $113.65B |
 | 52W high | $42.86 | Revenue growth y/y | 37.40% |
 | 52W low | $21.68 | Inst. ownership | 6.90% |
-| P/E (ttm) | 11.26 | Insider ownership | 0.00% |
+| P/E (ttm) | 11.20 | Insider ownership | 0.00% |
 | Forward P/E | 11.34 | Short float | 2.82% |
 | PEG (trailing) | 1.03 | Avg volume | 3,543,217 |
 | P/S | 0.87 | Employees | 23,545 |

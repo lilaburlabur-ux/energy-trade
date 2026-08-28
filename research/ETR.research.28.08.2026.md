@@ -123,7 +123,7 @@ Entergy Corporation, together with its subsidiaries, engages in the production a
 | 52W low | $84.72 | Inst. ownership | 100.19% |
 | P/E (ttm) | 27.24 | Insider ownership | 0.22% |
 | Forward P/E | 20.89 | Short float | 5.03% |
-| PEG (trailing) | 1.92 | Avg volume | 2,863,900 |
+| PEG (trailing) | 1.92 | Avg volume | 2,878,923 |
 | P/S | 3.69 | Employees | 12,000 |
 | P/B | 2.73 | Analyst rec (1=buy..5=sell) | 1.7 |
 

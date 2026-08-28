@@ -68,7 +68,7 @@ Devon Energy Corporation, an independent energy company, engages in the explorat
 | Revenue (ttm) | $18.78B | Revenue growth 64.20% y/y |
 | Profitability | Gross 50.35%, operating 41.08%, net 17.46% | ROA 5.91%, ROE 11.52% |
 | Balance sheet | Cash $950.00M, debt $11.89B | Current ratio 0.72, debt/equity 28.49 |
-| Valuation | P/E 10.24, forward P/E 8.62, P/S 2.76, P/B 1.30 | EV/Sales 3.34, EV/EBITDA 7.03 |
+| Valuation | P/E 10.18, forward P/E 8.62, P/S 2.76, P/B 1.30 | EV/Sales 3.34, EV/EBITDA 7.03 |
 | Growth expectations | Earnings growth 44.00%, EPS q/q 112.60% | Analyst mean target $59.46 (26 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -119,7 +119,7 @@ Devon Energy Corporation, an independent energy company, engages in the explorat
 | SMA200 dist | +10.17% | Revenue (ttm) | $18.78B |
 | 52W high | $51.70 | Revenue growth y/y | 64.20% |
 | 52W low | $31.15 | Inst. ownership | 94.72% |
-| P/E (ttm) | 10.24 | Insider ownership | 0.70% |
+| P/E (ttm) | 10.18 | Insider ownership | 0.70% |
 | Forward P/E | 8.62 | Short float | 2.33% |
 | PEG (trailing) | 2.92 | Avg volume | 12,549,480 |
 | P/S | 2.76 | Employees | 2,200 |

@@ -5,7 +5,7 @@ Signed file: `ARRY.research.28.08.2026`
 | Field | Value |
 |---|---|
 | Current price | $4.67 (2026-08-28, ~15-min delayed) |
-| Market cap | $718.37M |
+| Market cap | $719.22M |
 | Sector / Industry | Technology / Solar |
 | Main theme | Solar — see catalysts below |
 | Current stance | Low technical momentum, weak fundamentals, value: reasonable, risk: high. |
@@ -114,7 +114,7 @@ Array Technologies, Inc. engages in the manufacture and sale of solar tracking t
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $4.67 | EV/Sales | 1.40 |
-| Market cap | $718.37M | EV/EBITDA | 13.93 |
+| Market cap | $719.22M | EV/EBITDA | 13.93 |
 | Beta | 1.79 | Gross margin | 26.76% |
 | RSI(14) | 36.5 | Operating margin | 10.88% |
 | ATR(14) | 0.32 | Profit margin | -7.25% |
@@ -125,7 +125,7 @@ Array Technologies, Inc. engages in the manufacture and sale of solar tracking t
 | 52W low | $4.55 | Inst. ownership | 148.30% |
 | P/E (ttm) | — | Insider ownership | 0.66% |
 | Forward P/E | 5.25 | Short float | 24.55% |
-| PEG (trailing) | 0.56 | Avg volume | 6,665,196 |
+| PEG (trailing) | 0.56 | Avg volume | 6,672,801 |
 | P/S | 0.61 | Employees | 1,200 |
 | P/B | -3.56 | Analyst rec (1=buy..5=sell) | 2.0 |
 

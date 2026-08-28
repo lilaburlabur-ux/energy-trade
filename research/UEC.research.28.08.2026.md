@@ -5,7 +5,7 @@ Signed file: `UEC.research.28.08.2026`
 | Field | Value |
 |---|---|
 | Current price | $13.62 (2026-08-28, ~15-min delayed) |
-| Market cap | — |
+| Market cap | $6.68B |
 | Sector / Industry | Energy / Uranium |
 | Main theme | Uranium — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: high. |
@@ -68,7 +68,7 @@ Uranium Energy Corp., together with its subsidiaries, engages in exploration, pr
 | Revenue (ttm) | $20.20M | Revenue growth — y/y |
 | Profitability | Gross 0.00%, operating -629.66%, net 0.00% | ROA -6.25%, ROE -8.96% |
 | Balance sheet | Cash $488.05M, debt $1.91M | Current ratio 32.67, debt/equity 0.14 |
-| Valuation | P/E —, forward P/E -151.33, P/S —, P/B — | EV/Sales 309.61, EV/EBITDA -51.79 |
+| Valuation | P/E —, forward P/E -151.33, P/S 330.53, P/B 4.73 | EV/Sales 309.61, EV/EBITDA -51.79 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $18.03 (9 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -113,7 +113,7 @@ Uranium Energy Corp., together with its subsidiaries, engages in exploration, pr
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $13.62 | EV/Sales | 309.61 |
-| Market cap | — | EV/EBITDA | -51.79 |
+| Market cap | $6.68B | EV/EBITDA | -51.79 |
 | Beta | 1.21 | Gross margin | 0.00% |
 | RSI(14) | 70.7 | Operating margin | -629.66% |
 | ATR(14) | 0.69 | Profit margin | 0.00% |
@@ -125,8 +125,8 @@ Uranium Energy Corp., together with its subsidiaries, engages in exploration, pr
 | P/E (ttm) | — | Insider ownership | 1.86% |
 | Forward P/E | -151.33 | Short float | 14.55% |
 | PEG (trailing) | — | Avg volume | 9,666,420 |
-| P/S | — | Employees | 171 |
-| P/B | — | Analyst rec (1=buy..5=sell) | 1.4 |
+| P/S | 330.53 | Employees | 171 |
+| P/B | 4.73 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
