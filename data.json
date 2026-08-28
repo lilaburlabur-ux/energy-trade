@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-08-28T02:16:12+00:00",
-  "as_of_local": "2026-08-28 02:16:12 UTC",
+  "as_of_utc": "2026-08-28T04:25:01+00:00",
+  "as_of_local": "2026-08-28 04:25:01 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -1665,6 +1665,12 @@
       "market_cap": 5186677434.0,
       "headlines": [
         {
+          "title": "Enphase (ENPH) is Preparing for the End of Dutch Net Metering. Will It Boost Batteries or Hurt Solar Demand?",
+          "url": "https://finance.yahoo.com/energy/articles/enphase-enph-preparing-end-dutch-031544868.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-08-28T03:15:44Z"
+        },
+        {
           "title": "Enphase Energy (ENPH) Starts Dutch Net Metering Outreach Program",
           "url": "https://finance.yahoo.com/energy/articles/enphase-energy-enph-starts-dutch-001715823.html",
           "publisher": "Simply Wall St.",
@@ -1675,12 +1681,6 @@
           "url": "https://finance.yahoo.com/energy/articles/bull-case-enphase-energy-enph-221401899.html",
           "publisher": "Simply Wall St.",
           "published": "2026-08-27T22:14:01Z"
-        },
-        {
-          "title": "Why Did Enphase Energy (ENPH) Move Today?",
-          "url": "https://finance.yahoo.com/energy/articles/why-did-enphase-energy-enph-161737352.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-08-27T16:17:37Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 83.19,
-      "change_pct": 1.17
+      "price": 83.1,
+      "change_pct": -0.51
     },
     {
       "label": "Brent",
-      "price": 88.32,
-      "change_pct": 0.55
+      "price": 88.2,
+      "change_pct": -1.67
     },
     {
       "label": "NatGas",
-      "price": 2.91,
-      "change_pct": 2.46
+      "price": 2.92,
+      "change_pct": 0.52
     }
   ]
 }
