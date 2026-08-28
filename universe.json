@@ -1,7 +1,7 @@
 {
  "meta": {
   "source": "Energy Trade curated universe (seed_energy_universe.py)",
-  "as_of": "2026-08-28 23:13 UTC",
+  "as_of": "2026-08-28 23:41 UTC",
   "total_tickers": 68,
   "min_bubble_size": 7,
   "render_spec": {
@@ -32,7 +32,7 @@
      "industry": "Oil & Gas Integrated",
      "country": "United States",
      "market_cap_b": 649.5,
-     "pe": 20.17,
+     "pe": 20.14,
      "price": 156.71,
      "change_pct": 0.17,
      "volume": 11102309,
@@ -648,7 +648,7 @@
       47.35
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
-     "fwd_eps": 5.4
+     "fwd_eps": 5.47
     },
     {
      "ticker": "EQT",
@@ -1499,7 +1499,7 @@
      "industry": "Oil & Gas Midstream",
      "country": "United States",
      "market_cap_b": 60.15,
-     "pe": 12.69,
+     "pe": 12.74,
      "price": 59.25,
      "change_pct": -0.44,
      "volume": 672520,
