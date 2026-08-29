@@ -36,10 +36,10 @@ Bloom Energy Corporation designs, manufactures, sells, and installs solid oxide 
 
 | Headline | Source | Date |
 |---|---|---|
+| Nancy Pelosi’s Husband Bought Millions of This AI Power Stock. Nvidia Just Strengthened the Bull Case | Insider Monkey | 2026-08-29 |
 | Oracle's Data Center Spending Is Exploding. Here's the Power Stock That Actually Benefits. | Motley Fool | 2026-08-28 |
 | Bloom Energy vs. Eos Energy Enterprises: Which Energy Storage Stock Is a Better Buy in 2026? | Motley Fool | 2026-08-28 |
 | Bloom Energy vs. NuScale Power: Which Energy Innovator Stock Is a Better Buy in 2026? | Motley Fool | 2026-08-28 |
-| Nvidia Warns Of AI Power Bottleneck — And Bloom Energy Could Benefit | Benzinga Prediction Markets | 2026-08-28 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
