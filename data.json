@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-08-29T23:20:11+00:00",
-  "as_of_local": "2026-08-29 23:20:11 UTC",
+  "as_of_utc": "2026-08-30T01:28:06+00:00",
+  "as_of_local": "2026-08-30 01:28:06 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -13,6 +13,12 @@
       "market_cap": 644377750858.4308,
       "headlines": [
         {
+          "title": "ExxonMobil Stock: Is XOM Underperforming the Energy Sector?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/exxonmobil-stock-xom-underperforming-energy-173804479.html",
+          "publisher": "Barchart",
+          "published": "2026-08-29T17:38:04Z"
+        },
+        {
           "title": "The U.S. doesn\u2019t have a state-owned oil giant. But in Venezuela, the federal government will control a company with the world\u2019s 2nd largest reserves",
           "url": "https://finance.yahoo.com/energy/articles/u-doesn-t-state-owned-173125070.html",
           "publisher": "Fortune",
@@ -23,12 +29,6 @@
           "url": "https://finance.yahoo.com/energy/articles/prediction-pipeline-stocks-payout-grow-110700645.html",
           "publisher": "Motley Fool",
           "published": "2026-08-29T11:07:00Z"
-        },
-        {
-          "title": "ExxonMobil Holdings (XOM) Fined Over Scottish Gas Leaks And Revamps Inspection Standards",
-          "url": "https://finance.yahoo.com/energy/articles/exxonmobil-holdings-xom-fined-over-070936334.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-08-29T07:09:36Z"
         }
       ]
     },
@@ -993,6 +993,12 @@
       "market_cap": 49346280913.5,
       "headlines": [
         {
+          "title": "Entergy (ETR) Beat Estimates And Reaffirmed Guidance, Is The Stock Still Cheap?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/entergy-etr-beat-estimates-reaffirmed-010708095.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-08-30T01:07:08Z"
+        },
+        {
           "title": "Why Is Entergy (ETR) Down 1.4% Since Last Earnings Report?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-entergy-etr-down-1-153013478.html",
           "publisher": "Zacks",
@@ -1003,12 +1009,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/george-soros-betting-big-utility-184735423.html",
           "publisher": "Barchart",
           "published": "2026-08-27T18:47:35Z"
-        },
-        {
-          "title": "Can XEL's Strategic Capital Investments Drive Long-Term Growth?",
-          "url": "https://finance.yahoo.com/energy/articles/xels-strategic-capital-investments-drive-164500359.html",
-          "publisher": "Zacks",
-          "published": "2026-08-26T16:45:00Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 83.53,
-      "change_pct": 1.58
+      "price": 83.4,
+      "change_pct": -0.16
     },
     {
       "label": "Brent",
-      "price": 89.7,
-      "change_pct": 2.12
+      "price": 89.31,
+      "change_pct": -0.43
     },
     {
       "label": "NatGas",
-      "price": 2.91,
-      "change_pct": 2.29
+      "price": 2.89,
+      "change_pct": -0.65
     }
   ]
 }
