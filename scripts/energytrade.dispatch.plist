@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <!-- Energy Trade dispatcher — launchd fallback for unreliable cron.
+       Fires every 5 minutes; dispatch_all decides what to trigger per tick.
+       Install:  bash ~/energy-trade/scripts/install_dispatch_launchd.sh -->
+  <key>Label</key><string>online.energytrade.dispatch</string>
+  <key>ProgramArguments</key>
+  <array>
+    <string>/bin/bash</string>
+    <string>/Users/pierre/energy-trade/scripts/dispatch_all.sh</string>
+  </array>
+  <key>StartInterval</key><integer>300</integer>
+  <key>RunAtLoad</key><true/>
+  <key>StandardOutPath</key><string>/Users/pierre/energy-trade/logs/launchd.log</string>
+  <key>StandardErrorPath</key><string>/Users/pierre/energy-trade/logs/launchd.log</string>
+</dict>
+</plist>

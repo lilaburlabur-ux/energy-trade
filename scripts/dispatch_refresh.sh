@@ -10,6 +10,8 @@
 # dispatches (ours + GitHub's own cron) are safe.
 #
 # Cron installs (local time):  see `crontab -l`, block "energy-dispatch".
+# unconditional heartbeat FIRST — proves cron invoked us at all
+echo "$(date -u '+%F %T') invoked args=[$*] uid=$(id -u)" >> "$HOME/energy-trade/logs/dispatch.log" 2>/dev/null
 set -u
 WF="${1:?usage: dispatch_refresh.sh <workflow-file.yml>}"
 REPO="lilaburlabur-ux/energy-trade"
