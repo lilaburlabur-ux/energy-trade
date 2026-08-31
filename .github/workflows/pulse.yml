@@ -23,7 +23,7 @@ jobs:
     timeout-minutes: 70
     env:
       GH_TOKEN: ${{ secrets.DISPATCH_TOKEN }}
-      R: lilaburlabur-ux/santro-ai
+      R: lilaburlabur-ux/energy-trade
     steps:
       - name: Dispatch loop (11 ticks x 5 min)
         run: |
@@ -32,24 +32,18 @@ jobs:
             market=0
             if [ "$dow" -le 5 ] && { [ "$h" -ge 8 ] || [ "$h" -eq 0 ]; }; then market=1; fi
 
-            # tape/quotes (data.json carries BTC, a 24/7 asset): every 5 min
+            # tape/quotes (data.json carries WTI/Brent/NatGas futures): every 5 min
             # in-market, every 15 min off-market.
             if [ "$market" -eq 1 ] || [ $((i % 3)) -eq 0 ]; then
               gh workflow run refresh-data.yml -R "$R" || true
             fi
-            # crypto 24/7 ~15 min; hot tickers + takeaways in-market ~15 min
-            if [ $((i % 3)) -eq 0 ]; then
-              gh workflow run crypto-refresh.yml -R "$R" || true
-              if [ "$market" -eq 1 ]; then gh workflow run hot-refresh.yml -R "$R" || true; fi
+            # hot tickers + takeaways in-market ~15 min
+            if [ $((i % 3)) -eq 0 ] && [ "$market" -eq 1 ]; then
+              gh workflow run hot-refresh.yml -R "$R" || true
             fi
             # news 24/7 ~20 min
             if [ $((i % 4)) -eq 0 ]; then
               gh workflow run news-refresh.yml -R "$R" || true
-            fi
-            # AI bubble index — source updates daily ~00:02 UTC; dispatch a few
-            # times a day (idempotent, commits only if it changed).
-            if [ "$i" -eq 0 ] && { [ "$h" -eq 1 ] || [ "$h" -eq 9 ] || [ "$h" -eq 17 ]; }; then
-              gh workflow run bubble-refresh.yml -R "$R" || true
             fi
             # universe + ecosystem + OG + IPOs, ~3x/day weekdays (10-min windows;
             # a duplicate dispatch inside a window is harmless/idempotent)
