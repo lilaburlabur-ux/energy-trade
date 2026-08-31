@@ -18,7 +18,16 @@ REPO="lilaburlabur-ux/energy-trade"
 LOG="$HOME/energy-trade/logs/dispatch.log"
 mkdir -p "$(dirname "$LOG")"
 
-TOKEN=$(printf "protocol=https\nhost=github.com\n" | git credential fill 2>/dev/null | awk -F= '/^password=/{print $2}')
+# cron cannot open the login keychain, so prefer the 600-mode token file
+# (~/.config/energytrade/token, created by the owner); keychain is the
+# interactive fallback.
+TOKEN=""
+if [ -r "$HOME/.config/energytrade/token" ]; then
+  TOKEN=$(head -c 200 "$HOME/.config/energytrade/token" | tr -d '[:space:]')
+fi
+if [ -z "$TOKEN" ]; then
+  TOKEN=$(printf "protocol=https\nhost=github.com\n" | git credential fill 2>/dev/null | awk -F= '/^password=/{print $2}')
+fi
 if [ -z "$TOKEN" ]; then
   echo "$(date -u '+%F %T') $WF ERROR no-token" >> "$LOG"; exit 1
 fi
