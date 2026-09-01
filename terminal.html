@@ -1398,9 +1398,12 @@ function renderNews(){
   const secLabel = id => id&&id.startsWith("etf_") ? id.replace("etf_","").toUpperCase()+" ETF" : (UNI_SHORT[id]||"");
   // @wallstengine squawk — server-side filtered to universe cashtags only
   let squawk="";
-  if(tweets && tweets.items && tweets.items.length){
+  // honesty guard: a squawk item older than 48h is history, not news — hide it
+  const FRESH_MS = 48*3600*1000;
+  const freshTw = (tweets && tweets.items || []).filter(t=>t.time && (Date.now()-new Date(t.time).getTime()) < FRESH_MS);
+  if(freshTw.length){
     squawk = `<div class="spcx-srclbl">𝕏 ${tweets.meta.handle} · our tickers only</div>`
-      + tweets.items.slice(0,4).map(t=>`
+      + freshTw.slice(0,4).map(t=>`
       <div class="spcx-tweet"><a href="${t.url}" target="_blank" rel="noopener">${t.text.length>200?t.text.slice(0,200)+"…":t.text}</a>
         <div class="m">${(t.tickers||[]).map(k=>`<span class="chip">${k}</span>`).join("")} ${t.time?timeAgo(t.time):""}</div></div>`).join("")
       + `<div class="spcx-srclbl" style="margin:10px 0 4px">Headlines</div>`;
