@@ -4,8 +4,8 @@ Signed file: `BP.research.01.09.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $42.87 (2026-09-01, ~15-min delayed) |
-| Market cap | $110.40B |
+| Current price | $44.47 (2026-09-01, ~15-min delayed) |
+| Market cap | $114.53B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,10 +15,10 @@ Signed file: `BP.research.01.09.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +27.52%; price +7.90% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -7.85% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +32.28%; price +11.90% vs SMA200. |
+| Fresh setup quality | Watch | -4.41% from 52w high and near SMA20 — check for a tight base. |
 | Fundamental quality | Mixed | Profit margin 2.55%, revenue growth 48.20%. |
-| Value attractiveness | Reasonable | Forward P/E 9.67, EV/Sales 2.31. |
+| Value attractiveness | Reasonable | Forward P/E 10.03, EV/Sales 2.27. |
 | Risk level | Moderate | Beta -0.21, ATR 2.3% of price, short float 0.28%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -36,30 +36,30 @@ BP p.l.c., an integrated energy company, engages in the oil and gas business wor
 
 | Headline | Source | Date |
 |---|---|---|
+| Oil Stocks Hit New Highs After U.S. Resumes Strikes in Strait of Hormuz | Barrons.com | 2026-09-01 |
+| Oil Price Rally Helps Energy Stocks, Hurts Airlines | The Wall Street Journal | 2026-09-01 |
+| European Equities Traded in the US as American Depositary Receipts Edge Higher in Tuesday Trading | MT Newswires | 2026-09-01 |
 | Update: Market Chatter: Trump to Host Oil Company Executives on Tuesday | MT Newswires | 2026-08-31 |
-| Oil Prices Jump Above $90 As U.S. and Iran Trade Strikes. Is $100 Next? | 24/7 Wall St. | 2026-08-31 |
-| European Equities Traded in the US as American Depositary Receipts Edge Lower in Monday Trading | MT Newswires | 2026-08-31 |
-| Healey tax grab ‘would inflict lasting damage on North Sea’, business chiefs warn | The Telegraph | 2026-08-30 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $42.87; 52w high $46.52 (-7.85%); 52w low $31.17 (+37.52%) |
-| Trend | +7.90% vs SMA200, +4.29% vs SMA50, +0.39% vs SMA20 |
-| Momentum | RSI(14) 51.9 (neutral) |
-| Volatility | ATR(14) 0.97 (~2.3% of price); beta -0.21 |
-| Setup perspective | -7.85% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $44.47; 52w high $46.52 (-4.41%); 52w low $31.17 (+42.65%) |
+| Trend | +11.90% vs SMA200, +8.06% vs SMA50, +3.85% vs SMA20 |
+| Momentum | RSI(14) 59.4 (neutral) |
+| Volatility | ATR(14) 1.03 (~2.3% of price); beta -0.21 |
+| Setup perspective | -4.41% from 52w high and near SMA20 — check for a tight base. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -2.0% |
-| Month | -4.0% |
-| Quarter | +1.1% |
-| Half Y | +11.2% |
-| 1Y | +27.5% |
-| YTD | +24.1% |
+| Week | +1.7% |
+| Month | -0.4% |
+| Quarter | +4.8% |
+| Half Y | +15.4% |
+| 1Y | +32.3% |
+| YTD | +28.7% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ BP p.l.c., an integrated energy company, engages in the oil and gas business wor
 | Revenue (ttm) | $215.47B | Revenue growth 48.20% y/y |
 | Profitability | Gross 28.30%, operating 13.15%, net 2.55% | ROA 5.04%, ROE 8.87% |
 | Balance sheet | Cash $37.23B, debt $72.69B | Current ratio 1.27, debt/equity 95.12 |
-| Valuation | P/E 20.51, forward P/E 9.67, P/S 0.51, P/B 7.59 | EV/Sales 2.31, EV/EBITDA 12.68 |
+| Valuation | P/E 21.28, forward P/E 10.03, P/S 0.53, P/B 7.88 | EV/Sales 2.27, EV/EBITDA 12.49 |
 | Growth expectations | Earnings growth 138.90%, EPS q/q 140.10% | Analyst mean target $47.63 (18 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -110,21 +110,21 @@ BP p.l.c., an integrated energy company, engages in the oil and gas business wor
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $42.87 | EV/Sales | 2.31 |
-| Market cap | $110.40B | EV/EBITDA | 12.68 |
+| Price | $44.47 | EV/Sales | 2.27 |
+| Market cap | $114.53B | EV/EBITDA | 12.49 |
 | Beta | -0.21 | Gross margin | 28.30% |
-| RSI(14) | 51.9 | Operating margin | 13.15% |
-| ATR(14) | 0.97 | Profit margin | 2.55% |
-| SMA20 dist | +0.39% | ROA | 5.04% |
-| SMA50 dist | +4.29% | ROE | 8.87% |
-| SMA200 dist | +7.90% | Revenue (ttm) | $215.47B |
+| RSI(14) | 59.4 | Operating margin | 13.15% |
+| ATR(14) | 1.03 | Profit margin | 2.55% |
+| SMA20 dist | +3.85% | ROA | 5.04% |
+| SMA50 dist | +8.06% | ROE | 8.87% |
+| SMA200 dist | +11.90% | Revenue (ttm) | $215.47B |
 | 52W high | $46.52 | Revenue growth y/y | 48.20% |
 | 52W low | $31.17 | Inst. ownership | 14.09% |
-| P/E (ttm) | 20.51 | Insider ownership | 0.00% |
-| Forward P/E | 9.67 | Short float | 0.28% |
-| PEG (trailing) | 0.04 | Avg volume | 8,849,650 |
-| P/S | 0.51 | Employees | 93,700 |
-| P/B | 7.59 | Analyst rec (1=buy..5=sell) | 2.4 |
+| P/E (ttm) | 21.28 | Insider ownership | 0.00% |
+| Forward P/E | 10.03 | Short float | 0.28% |
+| PEG (trailing) | 0.04 | Avg volume | 8,905,280 |
+| P/S | 0.53 | Employees | 93,700 |
+| P/B | 7.88 | Analyst rec (1=buy..5=sell) | 2.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

@@ -4,8 +4,8 @@ Signed file: `SLB.research.01.09.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $60.10 (2026-09-01, ~15-min delayed) |
-| Market cap | $89.20B |
+| Current price | $57.15 (2026-09-01, ~15-min delayed) |
+| Market cap | $84.82B |
 | Sector / Industry | Energy / Oil & Gas Equipment & Services |
 | Main theme | Oil & Gas Equipment & Services — see catalysts below |
 | Current stance | High technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
@@ -15,11 +15,11 @@ Signed file: `SLB.research.01.09.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +69.25%; price +24.26% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +0.00% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +60.94%; price +18.16% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -4.91% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 8.53%, revenue growth 5.00%. |
-| Value attractiveness | Reasonable | Forward P/E 18.57, EV/Sales 2.61. |
-| Risk level | Elevated | Beta 0.75, ATR 3.0% of price, short float 4.28%. |
+| Value attractiveness | Reasonable | Forward P/E 17.68, EV/Sales 2.72. |
+| Risk level | Elevated | Beta 0.75, ATR 3.5% of price, short float 4.28%. |
 
 **Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
 
@@ -36,30 +36,30 @@ SLB N.V. engages in the provision of technology for the energy industry worldwid
 
 | Headline | Source | Date |
 |---|---|---|
-| SLB Stock Surged With Its Sector, But Its Fastest-Growing Line Was Not Drilling | Trefis | 2026-08-31 |
-| Stocks Decline to End August as War Fears Persist | The Wall Street Journal | 2026-08-31 |
-| Q2 Earnings Outperformers: SLB (NYSE:SLB) And The Rest Of The Oilfield Services Stocks | StockStory | 2026-08-31 |
-| Tesla, PG&E, Nvidia, SLB, Pinterest, and More Stocks That Explain Today’s Market | Barrons.com | 2026-08-31 |
+| SLB (SLB) Declines More Than Market: Some Information for Investors | Zacks | 2026-09-01 |
+| Solaris Energy Infrastructure, TETRA Technologies, SLB, and Weatherford Stocks Trade Down, What You Need To Know | StockStory | 2026-09-01 |
+| Energy ETFs to Watch as US-Venezuela Sign Historic Oil Deal | Zacks | 2026-09-01 |
+| SLB's Kelvion Deal Expands Its Data Center Growth Platform | Zacks | 2026-09-01 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $60.10; 52w high $60.10 (+0.00%); 52w low $31.12 (+93.10%) |
-| Trend | +24.26% vs SMA200, +20.25% vs SMA50, +12.39% vs SMA20 |
-| Momentum | RSI(14) 76.5 (overbought) |
-| Volatility | ATR(14) 1.80 (~3.0% of price); beta 0.75 |
-| Setup perspective | +0.00% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $57.15; 52w high $60.10 (-4.91%); 52w low $31.12 (+83.62%) |
+| Trend | +18.16% vs SMA200, +14.35% vs SMA50, +6.89% vs SMA20 |
+| Momentum | RSI(14) 63.0 (neutral) |
+| Volatility | ATR(14) 1.98 (~3.5% of price); beta 0.75 |
+| Setup perspective | -4.91% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +11.3% |
-| Month | +21.2% |
-| Quarter | +10.3% |
-| Half Y | +17.8% |
-| 1Y | +69.2% |
-| YTD | +51.2% |
+| Week | +5.8% |
+| Month | +15.2% |
+| Quarter | +4.9% |
+| Half Y | +12.1% |
+| 1Y | +60.9% |
+| YTD | +43.8% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ SLB N.V. engages in the provision of technology for the energy industry worldwid
 | Revenue (ttm) | $36.37B | Revenue growth 5.00% y/y |
 | Profitability | Gross 16.99%, operating 12.71%, net 8.53% | ROA 6.17%, ROE 12.91% |
 | Balance sheet | Cash $4.12B, debt $12.81B | Current ratio 1.44, debt/equity 47.00 |
-| Valuation | P/E 29.32, forward P/E 18.57, P/S 2.45, P/B 3.42 | EV/Sales 2.61, EV/EBITDA 12.86 |
+| Valuation | P/E 27.88, forward P/E 17.68, P/S 2.33, P/B 3.25 | EV/Sales 2.72, EV/EBITDA 13.42 |
 | Growth expectations | Earnings growth -29.70%, EPS q/q -22.50% | Analyst mean target $61.93 (29 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ SLB N.V. engages in the provision of technology for the energy industry worldwid
 | UBS Group AG | 31,447,572 | 2.12% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 0.75, ATR 3.0% of price, short float 4.28%. Size positions accordingly.
+- **Volatility risk:** Beta 0.75, ATR 3.5% of price, short float 4.28%. Size positions accordingly.
 - **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -111,21 +111,21 @@ SLB N.V. engages in the provision of technology for the energy industry worldwid
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $60.10 | EV/Sales | 2.61 |
-| Market cap | $89.20B | EV/EBITDA | 12.86 |
+| Price | $57.15 | EV/Sales | 2.72 |
+| Market cap | $84.82B | EV/EBITDA | 13.42 |
 | Beta | 0.75 | Gross margin | 16.99% |
-| RSI(14) | 76.5 | Operating margin | 12.71% |
-| ATR(14) | 1.80 | Profit margin | 8.53% |
-| SMA20 dist | +12.39% | ROA | 6.17% |
-| SMA50 dist | +20.25% | ROE | 12.91% |
-| SMA200 dist | +24.26% | Revenue (ttm) | $36.37B |
+| RSI(14) | 63.0 | Operating margin | 12.71% |
+| ATR(14) | 1.98 | Profit margin | 8.53% |
+| SMA20 dist | +6.89% | ROA | 6.17% |
+| SMA50 dist | +14.35% | ROE | 12.91% |
+| SMA200 dist | +18.16% | Revenue (ttm) | $36.37B |
 | 52W high | $60.10 | Revenue growth y/y | 5.00% |
 | 52W low | $31.12 | Inst. ownership | 92.84% |
-| P/E (ttm) | 29.32 | Insider ownership | 0.22% |
-| Forward P/E | 18.57 | Short float | 4.28% |
-| PEG (trailing) | 1.88 | Avg volume | 13,274,707 |
-| P/S | 2.45 | Employees | 109,000 |
-| P/B | 3.42 | Analyst rec (1=buy..5=sell) | 1.6 |
+| P/E (ttm) | 27.88 | Insider ownership | 0.22% |
+| Forward P/E | 17.68 | Short float | 4.28% |
+| PEG (trailing) | 2.05 | Avg volume | 13,627,307 |
+| P/S | 2.33 | Employees | 109,000 |
+| P/B | 3.25 | Analyst rec (1=buy..5=sell) | 1.6 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

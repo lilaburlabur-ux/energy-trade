@@ -4,8 +4,8 @@ Signed file: `XOM.research.01.09.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $160.95 (2026-09-01, ~15-min delayed) |
-| Market cap | $661.81B |
+| Current price | $164.55 (2026-09-01, ~15-min delayed) |
+| Market cap | $676.62B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,10 +15,10 @@ Signed file: `XOM.research.01.09.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +46.11%; price +13.24% vs SMA200. |
-| Fresh setup quality | Watch | -4.89% from 52w high and near SMA20 — check for a tight base. |
+| Technical momentum | Moderate | 1Y +49.38%; price +15.74% vs SMA200. |
+| Fresh setup quality | Watch | -2.76% from 52w high and near SMA20 — check for a tight base. |
 | Fundamental quality | Mixed | Profit margin 9.07%, revenue growth 44.10%. |
-| Value attractiveness | Reasonable | Forward P/E 15.12, EV/Sales 1.94. |
+| Value attractiveness | Reasonable | Forward P/E 15.46, EV/Sales 1.94. |
 | Risk level | Moderate | Beta 0.17, ATR 2.2% of price, short float 1.00%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -36,30 +36,30 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 
 | Headline | Source | Date |
 |---|---|---|
-| Energy stocks lead in subdued final trading day of August, utilities under pressure: AlphaCheck | Yahoo Finance | 2026-08-31 |
-| Trump Says Exxon Will Enter Venezuela as Oil Investment Ramps Up | Insider Monkey | 2026-08-31 |
-| How ExxonMobil’s Bid for Shell’s U.S. Chemicals Assets Could Reshape the XOM Investment Story | Simply Wall St. | 2026-08-31 |
-| Tesla, PG&E, Nvidia, SLB, Pinterest, and More Stocks That Explain Today’s Market | Barrons.com | 2026-08-31 |
+| Trump to meet with oil executives on lowering gas prices — and Exxon isn't invited | Yahoo Finance Video | 2026-09-01 |
+| Sector Update: Energy Stocks Rise Late Afternoon | MT Newswires | 2026-09-01 |
+| Energy ETFs to Watch as US-Venezuela Sign Historic Oil Deal | Zacks | 2026-09-01 |
+| Oil Price Rally Helps Energy Stocks, Hurts Airlines | The Wall Street Journal | 2026-09-01 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $160.95; 52w high $169.22 (-4.89%); 52w low $106.15 (+51.62%) |
-| Trend | +13.24% vs SMA200, +7.11% vs SMA50, +1.15% vs SMA20 |
-| Momentum | RSI(14) 57.1 (neutral) |
-| Volatility | ATR(14) 3.48 (~2.2% of price); beta 0.17 |
-| Setup perspective | -4.89% from 52w high and near SMA20 — check for a tight base. |
+| Price vs 52-week range | Close $164.55; 52w high $169.22 (-2.76%); 52w low $106.15 (+55.01%) |
+| Trend | +15.74% vs SMA200, +9.39% vs SMA50, +3.16% vs SMA20 |
+| Momentum | RSI(14) 61.7 (neutral) |
+| Volatility | ATR(14) 3.60 (~2.2% of price); beta 0.17 |
+| Setup perspective | -2.76% from 52w high and near SMA20 — check for a tight base. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -1.9% |
-| Month | +4.2% |
-| Quarter | +8.4% |
-| Half Y | +5.8% |
-| 1Y | +46.1% |
-| YTD | +33.9% |
+| Week | +0.3% |
+| Month | +6.5% |
+| Quarter | +10.9% |
+| Half Y | +8.1% |
+| 1Y | +49.4% |
+| YTD | +36.9% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 | Revenue (ttm) | $361.06B | Revenue growth 44.10% y/y |
 | Profitability | Gross 29.77%, operating 15.86%, net 9.07% | ROA 5.52%, ROE 12.58% |
 | Balance sheet | Cash $10.59B, debt $42.37B | Current ratio 1.14, debt/equity 15.92 |
-| Valuation | P/E 20.71, forward P/E 15.12, P/S 1.83, P/B 2.55 | EV/Sales 1.94, EV/EBITDA 10.31 |
+| Valuation | P/E 21.18, forward P/E 15.46, P/S 1.87, P/B 2.61 | EV/Sales 1.94, EV/EBITDA 10.31 |
 | Growth expectations | Earnings growth 112.80%, EPS q/q 105.10% | Analyst mean target $169.68 (22 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -110,21 +110,21 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $160.95 | EV/Sales | 1.94 |
-| Market cap | $661.81B | EV/EBITDA | 10.31 |
+| Price | $164.55 | EV/Sales | 1.94 |
+| Market cap | $676.62B | EV/EBITDA | 10.31 |
 | Beta | 0.17 | Gross margin | 29.77% |
-| RSI(14) | 57.1 | Operating margin | 15.86% |
-| ATR(14) | 3.48 | Profit margin | 9.07% |
-| SMA20 dist | +1.15% | ROA | 5.52% |
-| SMA50 dist | +7.11% | ROE | 12.58% |
-| SMA200 dist | +13.24% | Revenue (ttm) | $361.06B |
+| RSI(14) | 61.7 | Operating margin | 15.86% |
+| ATR(14) | 3.60 | Profit margin | 9.07% |
+| SMA20 dist | +3.16% | ROA | 5.52% |
+| SMA50 dist | +9.39% | ROE | 12.58% |
+| SMA200 dist | +15.74% | Revenue (ttm) | $361.06B |
 | 52W high | $169.22 | Revenue growth y/y | 44.10% |
 | 52W low | $106.15 | Inst. ownership | 67.02% |
-| P/E (ttm) | 20.71 | Insider ownership | 0.08% |
-| Forward P/E | 15.12 | Short float | 1.00% |
-| PEG (trailing) | 1.22 | Avg volume | 15,562,890 |
-| P/S | 1.83 | Employees | 57,900 |
-| P/B | 2.55 | Analyst rec (1=buy..5=sell) | 2.3 |
+| P/E (ttm) | 21.18 | Insider ownership | 0.08% |
+| Forward P/E | 15.46 | Short float | 1.00% |
+| PEG (trailing) | 1.26 | Avg volume | 15,588,784 |
+| P/S | 1.87 | Employees | 57,900 |
+| P/B | 2.61 | Analyst rec (1=buy..5=sell) | 2.3 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

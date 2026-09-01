@@ -4,8 +4,8 @@ Signed file: `PWR.research.01.09.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $607.09 (2026-09-01, ~15-min delayed) |
-| Market cap | $91.27B |
+| Current price | $611.39 (2026-09-01, ~15-min delayed) |
+| Market cap | $91.92B |
 | Sector / Industry | Industrials / Engineering & Construction |
 | Main theme | Engineering & Construction — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: fair-to-demanding, risk: elevated. |
@@ -15,10 +15,10 @@ Signed file: `PWR.research.01.09.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +57.43%; price +3.94% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -22.68% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +58.54%; price +4.67% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -22.13% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 4.03%, revenue growth 41.10%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 30.91, EV/Sales 2.94. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 31.13, EV/Sales 2.96. |
 | Risk level | Elevated | Beta 1.22, ATR 4.4% of price, short float 2.10%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: fair-to-demanding, risk: elevated.
@@ -36,30 +36,30 @@ Quanta Services, Inc. offers infrastructure solutions for the electric and gas u
 
 | Headline | Source | Date |
 |---|---|---|
-| Quanta vs. Jacobs: Which Infrastructure Stock is the Better Buy Now? | Zacks | 2026-08-31 |
-| 2 ‘Perfect 10’ Stocks Wall Street Is Betting On | TipRanks | 2026-08-30 |
-| Is Argan's 21% Margin Boost a Sign of Things to Come for Investors? | Zacks | 2026-08-28 |
-| What Is Drawing Fresh Attention To Quanta Services (PWR)? | Simply Wall St. | 2026-08-28 |
+| Can Comfort Systems Fund Expansion Without Financial Stress? | Zacks | 2026-09-01 |
+| Here's What Investors Must Know Ahead of Argan's Q2 Earnings Release | Zacks | 2026-09-01 |
+| The Zacks Analyst Blog Highlights Broadcom, Nvidia, Palantir, Fortinet and Quanta Services | Zacks | 2026-09-01 |
+| The Engine Behind GEV Stock Has Real Parts | Trefis | 2026-09-01 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $607.09; 52w high $785.12 (-22.68%); 52w low $372.18 (+63.12%) |
-| Trend | +3.94% vs SMA200, -8.03% vs SMA50, -7.67% vs SMA20 |
-| Momentum | RSI(14) 40.0 (neutral) |
-| Volatility | ATR(14) 26.46 (~4.4% of price); beta 1.22 |
-| Setup perspective | -22.68% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $611.39; 52w high $785.12 (-22.13%); 52w low $372.18 (+64.27%) |
+| Trend | +4.67% vs SMA200, -7.40% vs SMA50, -7.08% vs SMA20 |
+| Momentum | RSI(14) 40.7 (neutral) |
+| Volatility | ATR(14) 27.19 (~4.4% of price); beta 1.22 |
+| Setup perspective | -22.13% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -1.6% |
-| Month | -9.0% |
-| Quarter | -11.7% |
-| Half Y | +6.0% |
-| 1Y | +57.4% |
-| YTD | +38.1% |
+| Week | -0.9% |
+| Month | -8.4% |
+| Quarter | -11.1% |
+| Half Y | +6.8% |
+| 1Y | +58.5% |
+| YTD | +39.1% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ Quanta Services, Inc. offers infrastructure solutions for the electric and gas u
 | Revenue (ttm) | $32.91B | Revenue growth 41.10% y/y |
 | Profitability | Gross 15.46%, operating 7.22%, net 4.03% | ROA 5.23%, ROE 15.34% |
 | Balance sheet | Cash $506.43M, debt $6.60B | Current ratio 1.10, debt/equity 67.78 |
-| Valuation | P/E 68.99, forward P/E 30.91, P/S 2.77, P/B 9.47 | EV/Sales 2.94, EV/EBITDA 31.79 |
+| Valuation | P/E 69.95, forward P/E 31.13, P/S 2.79, P/B 9.53 | EV/Sales 2.96, EV/EBITDA 32.01 |
 | Growth expectations | Earnings growth 94.70%, EPS q/q 96.90% | Analyst mean target $770.04 (28 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 94.18% |
+| Institutional ownership | 94.20% |
 | Insider ownership | 0.67% |
 | Short float | 2.10% |
 | Short ratio (days to cover) | 2.5 |
@@ -95,7 +95,7 @@ Quanta Services, Inc. offers infrastructure solutions for the electric and gas u
 | Morgan Stanley | 2,311,374 | 1.54% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 30.91, EV/Sales 2.94. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 31.13, EV/Sales 2.96. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 1.22, ATR 4.4% of price, short float 2.10%. Size positions accordingly.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -111,21 +111,21 @@ Quanta Services, Inc. offers infrastructure solutions for the electric and gas u
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $607.09 | EV/Sales | 2.94 |
-| Market cap | $91.27B | EV/EBITDA | 31.79 |
+| Price | $611.39 | EV/Sales | 2.96 |
+| Market cap | $91.92B | EV/EBITDA | 32.01 |
 | Beta | 1.22 | Gross margin | 15.46% |
-| RSI(14) | 40.0 | Operating margin | 7.22% |
-| ATR(14) | 26.46 | Profit margin | 4.03% |
-| SMA20 dist | -7.67% | ROA | 5.23% |
-| SMA50 dist | -8.03% | ROE | 15.34% |
-| SMA200 dist | +3.94% | Revenue (ttm) | $32.91B |
+| RSI(14) | 40.7 | Operating margin | 7.22% |
+| ATR(14) | 27.19 | Profit margin | 4.03% |
+| SMA20 dist | -7.08% | ROA | 5.23% |
+| SMA50 dist | -7.40% | ROE | 15.34% |
+| SMA200 dist | +4.67% | Revenue (ttm) | $32.91B |
 | 52W high | $785.12 | Revenue growth y/y | 41.10% |
-| 52W low | $372.18 | Inst. ownership | 94.18% |
-| P/E (ttm) | 68.99 | Insider ownership | 0.67% |
-| Forward P/E | 30.91 | Short float | 2.10% |
-| PEG (trailing) | 1.71 | Avg volume | 1,234,314 |
-| P/S | 2.77 | Employees | 69,500 |
-| P/B | 9.47 | Analyst rec (1=buy..5=sell) | 1.5 |
+| 52W low | $372.18 | Inst. ownership | 94.20% |
+| P/E (ttm) | 69.95 | Insider ownership | 0.67% |
+| Forward P/E | 31.13 | Short float | 2.10% |
+| PEG (trailing) | 1.71 | Avg volume | 1,237,409 |
+| P/S | 2.79 | Employees | 69,500 |
+| P/B | 9.53 | Analyst rec (1=buy..5=sell) | 1.5 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

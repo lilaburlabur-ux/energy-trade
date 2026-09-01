@@ -4,8 +4,8 @@ Signed file: `PEG.research.01.09.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $73.33 (2026-09-01, ~15-min delayed) |
-| Market cap | $36.55B |
+| Current price | $73.48 (2026-09-01, ~15-min delayed) |
+| Market cap | $36.62B |
 | Sector / Industry | Utilities / Utilities - Regulated Electric |
 | Main theme | Utilities - Regulated Electric — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,10 +15,10 @@ Signed file: `PEG.research.01.09.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-7.55%) with negative half-year (-11.76%). |
-| Fresh setup quality | Moderate / wait | -14.25% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-7.36%) with negative half-year (-11.58%). |
+| Fresh setup quality | Moderate / wait | -14.07% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 16.04%, revenue growth -8.90%. |
-| Value attractiveness | Reasonable | Forward P/E 15.69, EV/Sales 4.87. |
+| Value attractiveness | Reasonable | Forward P/E 15.73, EV/Sales 4.87. |
 | Risk level | Moderate | Beta 0.53, ATR 1.7% of price, short float 2.22%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -44,22 +44,22 @@ Public Service Enterprise Group Incorporated, through its subsidiaries, operates
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $73.33; 52w high $85.51 (-14.25%); 52w low $72.61 (+0.99%) |
-| Trend | -7.55% vs SMA200, -5.88% vs SMA50, -1.87% vs SMA20 |
-| Momentum | RSI(14) 35.9 (neutral) |
-| Volatility | ATR(14) 1.25 (~1.7% of price); beta 0.53 |
-| Setup perspective | -14.25% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $73.48; 52w high $85.51 (-14.07%); 52w low $72.61 (+1.20%) |
+| Trend | -7.36% vs SMA200, -5.69% vs SMA50, -1.69% vs SMA20 |
+| Momentum | RSI(14) 36.6 (neutral) |
+| Volatility | ATR(14) 1.22 (~1.7% of price); beta 0.53 |
+| Setup perspective | -14.07% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -0.3% |
-| Month | -4.4% |
-| Quarter | -3.5% |
-| Half Y | -11.8% |
-| 1Y | -8.3% |
-| YTD | -7.9% |
+| Week | -0.1% |
+| Month | -4.2% |
+| Quarter | -3.3% |
+| Half Y | -11.6% |
+| 1Y | -8.1% |
+| YTD | -7.7% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ Public Service Enterprise Group Incorporated, through its subsidiaries, operates
 | Revenue (ttm) | $12.54B | Revenue growth -8.90% y/y |
 | Profitability | Gross 33.33%, operating 18.87%, net 16.04% | ROA 3.24%, ROE 11.83% |
 | Balance sheet | Cash $192.00M, debt $24.68B | Current ratio 0.88, debt/equity 142.41 |
-| Valuation | P/E 18.24, forward P/E 15.69, P/S 2.91, P/B 2.11 | EV/Sales 4.87, EV/EBITDA 13.68 |
+| Valuation | P/E 18.28, forward P/E 15.73, P/S 2.92, P/B 2.11 | EV/Sales 4.87, EV/EBITDA 13.68 |
 | Growth expectations | Earnings growth -42.70%, EPS q/q -42.90% | Analyst mean target $85.47 (18 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 79.50% |
+| Institutional ownership | 79.51% |
 | Insider ownership | 0.13% |
 | Short float | 2.22% |
 | Short ratio (days to cover) | 3.4 |
@@ -109,20 +109,20 @@ Public Service Enterprise Group Incorporated, through its subsidiaries, operates
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $73.33 | EV/Sales | 4.87 |
-| Market cap | $36.55B | EV/EBITDA | 13.68 |
+| Price | $73.48 | EV/Sales | 4.87 |
+| Market cap | $36.62B | EV/EBITDA | 13.68 |
 | Beta | 0.53 | Gross margin | 33.33% |
-| RSI(14) | 35.9 | Operating margin | 18.87% |
-| ATR(14) | 1.25 | Profit margin | 16.04% |
-| SMA20 dist | -1.87% | ROA | 3.24% |
-| SMA50 dist | -5.88% | ROE | 11.83% |
-| SMA200 dist | -7.55% | Revenue (ttm) | $12.54B |
+| RSI(14) | 36.6 | Operating margin | 18.87% |
+| ATR(14) | 1.22 | Profit margin | 16.04% |
+| SMA20 dist | -1.69% | ROA | 3.24% |
+| SMA50 dist | -5.69% | ROE | 11.83% |
+| SMA200 dist | -7.36% | Revenue (ttm) | $12.54B |
 | 52W high | $85.51 | Revenue growth y/y | -8.90% |
-| 52W low | $72.61 | Inst. ownership | 79.50% |
-| P/E (ttm) | 18.24 | Insider ownership | 0.13% |
-| Forward P/E | 15.69 | Short float | 2.22% |
-| PEG (trailing) | 3.64 | Avg volume | 2,800,046 |
-| P/S | 2.91 | Employees | 13,189 |
+| 52W low | $72.61 | Inst. ownership | 79.51% |
+| P/E (ttm) | 18.28 | Insider ownership | 0.13% |
+| Forward P/E | 15.73 | Short float | 2.22% |
+| PEG (trailing) | 3.64 | Avg volume | 2,877,104 |
+| P/S | 2.92 | Employees | 13,189 |
 | P/B | 2.11 | Analyst rec (1=buy..5=sell) | 2.3 |
 
 ## 8. Analyst Actions

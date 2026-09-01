@@ -4,8 +4,8 @@ Signed file: `COP.research.01.09.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $132.49 (2026-09-01, ~15-min delayed) |
-| Market cap | $159.17B |
+| Current price | $136.19 (2026-09-01, ~15-min delayed) |
+| Market cap | $163.61B |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `COP.research.01.09.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +38.82%; price +20.02% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -1.78% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +42.70%; price +23.34% vs SMA200. |
+| Fresh setup quality | Moderate / wait | +0.00% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 14.40%, revenue growth 35.50%. |
-| Value attractiveness | Reasonable | Forward P/E 13.90, EV/Sales 2.67. |
-| Risk level | Moderate | Beta 0.12, ATR 2.3% of price, short float 1.41%. |
+| Value attractiveness | Reasonable | Forward P/E 14.29, EV/Sales 2.71. |
+| Risk level | Moderate | Beta 0.12, ATR 2.4% of price, short float 1.41%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
@@ -36,30 +36,30 @@ ConocoPhillips explores for, produces, transports, and markets crude oil, bitume
 
 | Headline | Source | Date |
 |---|---|---|
-| Trump's Venezuela Deal Leaves $100 Billion Question Unanswered | Bloomberg | 2026-08-31 |
-| Can These 3 U.S. Integrated Energy Stocks Overcome Industry Headwinds? | Zacks | 2026-08-31 |
-| Chevron Leads Energy Stocks Rally as U.S.-Iran Conflict Sends Oil Prices Higher | GuruFocus.com | 2026-08-31 |
-| Chevron and Halliburton Near Billion-Dollar Venezuela Oil Deals | Zacks | 2026-08-31 |
+| Energy ETFs to Watch as US-Venezuela Sign Historic Oil Deal | Zacks | 2026-09-01 |
+| Oil Price Rally Helps Energy Stocks, Hurts Airlines | The Wall Street Journal | 2026-09-01 |
+| Goldman Sachs refreshes conviction lists on both sides of the Atlantic | Investing.com | 2026-09-01 |
+| Is ConocoPhillips Stock Outperforming the Dow? | Barchart | 2026-09-01 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $132.49; 52w high $134.89 (-1.78%); 52w low $83.04 (+59.55%) |
-| Trend | +20.02% vs SMA200, +12.88% vs SMA50, +4.59% vs SMA20 |
-| Momentum | RSI(14) 65.3 (neutral) |
-| Volatility | ATR(14) 3.07 (~2.3% of price); beta 0.12 |
-| Setup perspective | -1.78% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $136.19; 52w high $136.19 (+0.00%); 52w low $83.04 (+64.00%) |
+| Trend | +23.34% vs SMA200, +15.92% vs SMA50, +7.27% vs SMA20 |
+| Momentum | RSI(14) 69.6 (neutral) |
+| Volatility | ATR(14) 3.28 (~2.4% of price); beta 0.12 |
+| Setup perspective | +0.00% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -0.6% |
-| Month | +10.7% |
-| Quarter | +15.4% |
-| Half Y | +13.6% |
-| 1Y | +38.8% |
-| YTD | +40.0% |
+| Week | +2.1% |
+| Month | +13.8% |
+| Quarter | +18.6% |
+| Half Y | +16.8% |
+| 1Y | +42.7% |
+| YTD | +43.9% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ ConocoPhillips explores for, produces, transports, and markets crude oil, bitume
 | Revenue (ttm) | $64.46B | Revenue growth 35.50% y/y |
 | Profitability | Gross 47.57%, operating 31.51%, net 14.40% | ROA 7.53%, ROE 14.18% |
 | Balance sheet | Cash $7.69B, debt $23.29B | Current ratio 1.54, debt/equity 35.64 |
-| Valuation | P/E 17.25, forward P/E 13.90, P/S 2.47, P/B 2.44 | EV/Sales 2.67, EV/EBITDA 6.43 |
+| Valuation | P/E 17.99, forward P/E 14.29, P/S 2.54, P/B 2.50 | EV/Sales 2.71, EV/EBITDA 6.53 |
 | Growth expectations | Earnings growth 107.00%, EPS q/q 99.40% | Analyst mean target $145.33 (24 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 86.97% |
+| Institutional ownership | 86.96% |
 | Insider ownership | 0.10% |
 | Short float | 1.41% |
 | Short ratio (days to cover) | 2.6 |
@@ -110,21 +110,21 @@ ConocoPhillips explores for, produces, transports, and markets crude oil, bitume
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $132.49 | EV/Sales | 2.67 |
-| Market cap | $159.17B | EV/EBITDA | 6.43 |
+| Price | $136.19 | EV/Sales | 2.71 |
+| Market cap | $163.61B | EV/EBITDA | 6.53 |
 | Beta | 0.12 | Gross margin | 47.57% |
-| RSI(14) | 65.3 | Operating margin | 31.51% |
-| ATR(14) | 3.07 | Profit margin | 14.40% |
-| SMA20 dist | +4.59% | ROA | 7.53% |
-| SMA50 dist | +12.88% | ROE | 14.18% |
-| SMA200 dist | +20.02% | Revenue (ttm) | $64.46B |
-| 52W high | $134.89 | Revenue growth y/y | 35.50% |
-| 52W low | $83.04 | Inst. ownership | 86.97% |
-| P/E (ttm) | 17.25 | Insider ownership | 0.10% |
-| Forward P/E | 13.90 | Short float | 1.41% |
-| PEG (trailing) | 1.01 | Avg volume | 7,075,638 |
-| P/S | 2.47 | Employees | 9,600 |
-| P/B | 2.44 | Analyst rec (1=buy..5=sell) | 1.6 |
+| RSI(14) | 69.6 | Operating margin | 31.51% |
+| ATR(14) | 3.28 | Profit margin | 14.40% |
+| SMA20 dist | +7.27% | ROA | 7.53% |
+| SMA50 dist | +15.92% | ROE | 14.18% |
+| SMA200 dist | +23.34% | Revenue (ttm) | $64.46B |
+| 52W high | $136.19 | Revenue growth y/y | 35.50% |
+| 52W low | $83.04 | Inst. ownership | 86.96% |
+| P/E (ttm) | 17.99 | Insider ownership | 0.10% |
+| Forward P/E | 14.29 | Short float | 1.41% |
+| PEG (trailing) | 1.03 | Avg volume | 7,097,779 |
+| P/S | 2.54 | Employees | 9,600 |
+| P/B | 2.50 | Analyst rec (1=buy..5=sell) | 1.6 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

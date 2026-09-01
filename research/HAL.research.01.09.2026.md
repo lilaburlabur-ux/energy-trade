@@ -4,24 +4,24 @@ Signed file: `HAL.research.01.09.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $36.85 (2026-09-01, ~15-min delayed) |
-| Market cap | $30.70B |
+| Current price | $36.80 (2026-09-01, ~15-min delayed) |
+| Market cap | $30.66B |
 | Sector / Industry | Energy / Oil & Gas Equipment & Services |
 | Main theme | Oil & Gas Equipment & Services — see catalysts below |
-| Current stance | High technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
+| Current stance | High technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-09-01.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +66.61%; price +7.03% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -13.90% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +65.66%; price +6.73% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -14.01% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 7.16%, revenue growth 3.70%. |
-| Value attractiveness | Reasonable | Forward P/E 12.70, EV/Sales 1.65. |
-| Risk level | Elevated | Beta 0.75, ATR 3.0% of price, short float 5.04%. |
+| Value attractiveness | Reasonable | Forward P/E 12.68, EV/Sales 1.62. |
+| Risk level | Moderate | Beta 0.75, ATR 2.9% of price, short float 5.04%. |
 
-**Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
+**Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -36,30 +36,30 @@ Halliburton Company provides products and services to the energy industry worldw
 
 | Headline | Source | Date |
 |---|---|---|
+| Energy ETFs to Watch as US-Venezuela Sign Historic Oil Deal | Zacks | 2026-09-01 |
+| Chevron, Exxon and Other Oil Stocks Jump as Two Huge Energy Stories Collide | 24/7 Wall St. | 2026-09-01 |
+| New US, Iran Strikes Highlight Shrinking US Oil Reserves | The Daily Upside | 2026-09-01 |
 | SLB Stock Surged With Its Sector, But Its Fastest-Growing Line Was Not Drilling | Trefis | 2026-08-31 |
-| Tesla, PG&E, Nvidia, SLB, Pinterest, and More Stocks That Explain Today’s Market | Barrons.com | 2026-08-31 |
-| The Winners and Losers From Trump’s Venezuelan Oil Deal | Barrons.com | 2026-08-31 |
-| Chevron (CVX) Nears Venezuela Oil Field Deals That Could Expand Its Footprint | Simply Wall St. | 2026-08-31 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $36.85; 52w high $42.80 (-13.90%); 52w low $21.26 (+73.33%) |
-| Trend | +7.03% vs SMA200, +8.73% vs SMA50, +7.84% vs SMA20 |
-| Momentum | RSI(14) 64.3 (neutral) |
-| Volatility | ATR(14) 1.11 (~3.0% of price); beta 0.75 |
-| Setup perspective | -13.90% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $36.80; 52w high $42.80 (-14.01%); 52w low $21.26 (+73.10%) |
+| Trend | +6.73% vs SMA200, +8.48% vs SMA50, +7.00% vs SMA20 |
+| Momentum | RSI(14) 63.9 (neutral) |
+| Volatility | ATR(14) 1.06 (~2.9% of price); beta 0.75 |
+| Setup perspective | -14.01% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +6.4% |
-| Month | +14.3% |
-| Quarter | -6.0% |
-| Half Y | +3.4% |
-| 1Y | +66.6% |
-| YTD | +25.6% |
+| Week | +8.9% |
+| Month | +15.4% |
+| Quarter | -7.9% |
+| Half Y | +5.3% |
+| 1Y | +65.7% |
+| YTD | +25.5% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Halliburton Company provides products and services to the energy industry worldw
 | Revenue (ttm) | $22.37B | Revenue growth 3.70% y/y |
 | Profitability | Gross 15.08%, operating 12.79%, net 7.16% | ROA 7.26%, ROE 14.92% |
 | Balance sheet | Cash $2.05B, debt $8.20B | Current ratio 2.02, debt/equity 74.19 |
-| Valuation | P/E 19.29, forward P/E 12.70, P/S 1.37, P/B 2.79 | EV/Sales 1.65, EV/EBITDA 8.91 |
+| Valuation | P/E 19.27, forward P/E 12.68, P/S 1.37, P/B 2.79 | EV/Sales 1.62, EV/EBITDA 8.78 |
 | Growth expectations | Earnings growth 16.10%, EPS q/q 13.10% | Analyst mean target $43.12 (25 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,6 @@ Halliburton Company provides products and services to the energy industry worldw
 | Citigroup Inc. | 10,498,175 | 1.26% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 0.75, ATR 3.0% of price, short float 5.04%. Size positions accordingly.
 - **Short interest risk:** short float 5.04% can fuel squeezes both ways around news.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -111,19 +110,19 @@ Halliburton Company provides products and services to the energy industry worldw
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $36.85 | EV/Sales | 1.65 |
-| Market cap | $30.70B | EV/EBITDA | 8.91 |
+| Price | $36.80 | EV/Sales | 1.62 |
+| Market cap | $30.66B | EV/EBITDA | 8.78 |
 | Beta | 0.75 | Gross margin | 15.08% |
-| RSI(14) | 64.3 | Operating margin | 12.79% |
-| ATR(14) | 1.11 | Profit margin | 7.16% |
-| SMA20 dist | +7.84% | ROA | 7.26% |
-| SMA50 dist | +8.73% | ROE | 14.92% |
-| SMA200 dist | +7.03% | Revenue (ttm) | $22.37B |
+| RSI(14) | 63.9 | Operating margin | 12.79% |
+| ATR(14) | 1.06 | Profit margin | 7.16% |
+| SMA20 dist | +7.00% | ROA | 7.26% |
+| SMA50 dist | +8.48% | ROE | 14.92% |
+| SMA200 dist | +6.73% | Revenue (ttm) | $22.37B |
 | 52W high | $42.80 | Revenue growth y/y | 3.70% |
 | 52W low | $21.26 | Inst. ownership | 90.48% |
-| P/E (ttm) | 19.29 | Insider ownership | 0.40% |
-| Forward P/E | 12.70 | Short float | 5.04% |
-| PEG (trailing) | 0.87 | Avg volume | 11,694,453 |
+| P/E (ttm) | 19.27 | Insider ownership | 0.40% |
+| Forward P/E | 12.68 | Short float | 5.04% |
+| PEG (trailing) | 0.87 | Avg volume | 11,838,860 |
 | P/S | 1.37 | Employees | 46,000 |
 | P/B | 2.79 | Analyst rec (1=buy..5=sell) | 1.8 |
 
@@ -140,7 +139,7 @@ Halliburton Company provides products and services to the energy industry worldw
 | 2026-07-14 | up | Piper Sandler | Neutral → Overweight |
 
 ## 9. Conclusion
-HAL: High momentum / mixed fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+HAL: High momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

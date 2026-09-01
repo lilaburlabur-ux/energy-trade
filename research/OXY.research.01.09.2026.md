@@ -4,8 +4,8 @@ Signed file: `OXY.research.01.09.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $60.18 (2026-09-01, ~15-min delayed) |
-| Market cap | $60.16B |
+| Current price | $60.95 (2026-09-01, ~15-min delayed) |
+| Market cap | $60.93B |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
 | Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate. |
@@ -15,10 +15,10 @@ Signed file: `OXY.research.01.09.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +29.29%; price +16.27% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -8.73% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +30.94%; price +17.73% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -7.56% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 30.32%, revenue growth 53.40%. |
-| Value attractiveness | Reasonable | Forward P/E 15.70, EV/Sales 3.28. |
+| Value attractiveness | Reasonable | Forward P/E 15.90, EV/Sales 3.33. |
 | Risk level | Moderate | Beta 0.16, ATR 2.5% of price, short float 0.01%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate.
@@ -36,30 +36,30 @@ Occidental Petroleum Corporation, together with its subsidiaries, engages in the
 
 | Headline | Source | Date |
 |---|---|---|
+| Chevron, Exxon and Other Oil Stocks Jump as Two Huge Energy Stories Collide | 24/7 Wall St. | 2026-09-01 |
+| The Zacks Analyst Blog Highlights ConocoPhillips, Occidental and National Fuel Gas | Zacks | 2026-09-01 |
+| Why ExxonMobil, Chevron, SLB, and Other Energy Stocks Climbed Today | Motley Fool | 2026-09-01 |
 | Can These 3 U.S. Integrated Energy Stocks Overcome Industry Headwinds? | Zacks | 2026-08-31 |
-| Chevron Leads Energy Stocks Rally as U.S.-Iran Conflict Sends Oil Prices Higher | GuruFocus.com | 2026-08-31 |
-| Is Occidental Petroleum a Bargain or a Value Trap Right Now? | Motley Fool | 2026-08-31 |
-| Energy stocks rally as fresh U.S.-Iran attacks drive oil prices higher | Investing.com | 2026-08-31 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $60.18; 52w high $65.94 (-8.73%); 52w low $38.56 (+56.08%) |
-| Trend | +16.27% vs SMA200, +8.63% vs SMA50, +2.83% vs SMA20 |
-| Momentum | RSI(14) 59.5 (neutral) |
-| Volatility | ATR(14) 1.53 (~2.5% of price); beta 0.16 |
-| Setup perspective | -8.73% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $60.95; 52w high $65.94 (-7.56%); 52w low $38.56 (+58.07%) |
+| Trend | +17.73% vs SMA200, +9.95% vs SMA50, +3.98% vs SMA20 |
+| Momentum | RSI(14) 61.8 (neutral) |
+| Volatility | ATR(14) 1.54 (~2.5% of price); beta 0.16 |
+| Setup perspective | -7.56% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +0.1% |
-| Month | +5.4% |
-| Quarter | +2.6% |
-| Half Y | +12.1% |
-| 1Y | +29.3% |
-| YTD | +43.3% |
+| Week | +1.4% |
+| Month | +6.8% |
+| Quarter | +3.9% |
+| Half Y | +13.5% |
+| 1Y | +30.9% |
+| YTD | +45.2% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ Occidental Petroleum Corporation, together with its subsidiaries, engages in the
 | Revenue (ttm) | $23.93B | Revenue growth 53.40% y/y |
 | Profitability | Gross 73.32%, operating 45.44%, net 30.32% | ROA 4.68%, ROE 10.63% |
 | Balance sheet | Cash $4.15B, debt $14.63B | Current ratio 1.41, debt/equity 34.51 |
-| Valuation | P/E 17.44, forward P/E 15.70, P/S 2.51, P/B 1.80 | EV/Sales 3.28, EV/EBITDA 5.72 |
+| Valuation | P/E 17.98, forward P/E 15.90, P/S 2.55, P/B 1.82 | EV/Sales 3.33, EV/EBITDA 5.80 |
 | Growth expectations | Earnings growth 964.90%, EPS q/q 550.00% | Analyst mean target $66.83 (23 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 57.96% |
+| Institutional ownership | 57.98% |
 | Insider ownership | 26.81% |
 | Short float | 0.01% |
 | Short ratio (days to cover) | 0.0 |
@@ -95,6 +95,7 @@ Occidental Petroleum Corporation, together with its subsidiaries, engages in the
 | AQR Capital Management, LLC | 11,473,188 | 1.15% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
+- **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -109,21 +110,21 @@ Occidental Petroleum Corporation, together with its subsidiaries, engages in the
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $60.18 | EV/Sales | 3.28 |
-| Market cap | $60.16B | EV/EBITDA | 5.72 |
+| Price | $60.95 | EV/Sales | 3.33 |
+| Market cap | $60.93B | EV/EBITDA | 5.80 |
 | Beta | 0.16 | Gross margin | 73.32% |
-| RSI(14) | 59.5 | Operating margin | 45.44% |
-| ATR(14) | 1.53 | Profit margin | 30.32% |
-| SMA20 dist | +2.83% | ROA | 4.68% |
-| SMA50 dist | +8.63% | ROE | 10.63% |
-| SMA200 dist | +16.27% | Revenue (ttm) | $23.93B |
+| RSI(14) | 61.8 | Operating margin | 45.44% |
+| ATR(14) | 1.54 | Profit margin | 30.32% |
+| SMA20 dist | +3.98% | ROA | 4.68% |
+| SMA50 dist | +9.95% | ROE | 10.63% |
+| SMA200 dist | +17.73% | Revenue (ttm) | $23.93B |
 | 52W high | $65.94 | Revenue growth y/y | 53.40% |
-| 52W low | $38.56 | Inst. ownership | 57.96% |
-| P/E (ttm) | 17.44 | Insider ownership | 26.81% |
-| Forward P/E | 15.70 | Short float | 0.01% |
-| PEG (trailing) | 0.83 | Avg volume | 8,960,787 |
-| P/S | 2.51 | Employees | 10,412 |
-| P/B | 1.80 | Analyst rec (1=buy..5=sell) | 2.3 |
+| 52W low | $38.56 | Inst. ownership | 57.98% |
+| P/E (ttm) | 17.98 | Insider ownership | 26.81% |
+| Forward P/E | 15.90 | Short float | 0.01% |
+| PEG (trailing) | 0.84 | Avg volume | 8,905,926 |
+| P/S | 2.55 | Employees | 10,412 |
+| P/B | 1.82 | Analyst rec (1=buy..5=sell) | 2.3 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

@@ -4,8 +4,8 @@ Signed file: `EQNR.research.01.09.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $42.80 (2026-09-01, ~15-min delayed) |
-| Market cap | $101.58B |
+| Current price | $44.23 (2026-09-01, ~15-min delayed) |
+| Market cap | $104.97B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
 | Current stance | High technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,10 +15,10 @@ Signed file: `EQNR.research.01.09.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +83.43%; price +31.80% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -0.14% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +89.56%; price +36.14% vs SMA200. |
+| Fresh setup quality | Moderate / wait | +0.00% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 7.97%, revenue growth 37.40%. |
-| Value attractiveness | Reasonable | Forward P/E 11.68, EV/Sales 1.85. |
+| Value attractiveness | Reasonable | Forward P/E 12.07, EV/Sales 1.85. |
 | Risk level | Moderate | Beta -0.73, ATR 2.5% of price, short float 2.82%. |
 
 **Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -36,30 +36,30 @@ Equinor ASA operates as an energy company in Norway and internationally. It oper
 
 | Headline | Source | Date |
 |---|---|---|
+| European Equities Traded in the US as American Depositary Receipts Edge Higher in Tuesday Trading | MT Newswires | 2026-09-01 |
+| Energy Transition Today - AI Transforms Solar Energy With $13 Billion Investment | Simply Wall St. | 2026-09-01 |
+| LG Energy signs lithium carbonate deal with Smackover | Mining Technology | 2026-09-01 |
 | European Equities Traded in the US as American Depositary Receipts Edge Lower in Monday Trading | MT Newswires | 2026-08-31 |
-| BlackRock (BLK) Hands Off Jessup Power Plant Control As Data Center Demand Climbs | Simply Wall St. | 2026-08-29 |
-| Equinor and Partners Plan to Pursue High-Impact NCS Exploration | Zacks | 2026-08-28 |
-| Will Emerson’s New 13‑Year Equinor Deal Reshape Emerson Electric’s (EMR) Long‑Cycle Automation Narrative? | Simply Wall St. | 2026-08-27 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $42.80; 52w high $42.86 (-0.14%); 52w low $21.68 (+97.41%) |
-| Trend | +31.80% vs SMA200, +13.89% vs SMA50, +4.53% vs SMA20 |
-| Momentum | RSI(14) 64.2 (neutral) |
-| Volatility | ATR(14) 1.06 (~2.5% of price); beta -0.73 |
-| Setup perspective | -0.14% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $44.23; 52w high $44.23 (+0.00%); 52w low $21.68 (+104.01%) |
+| Trend | +36.14% vs SMA200, +17.51% vs SMA50, +7.65% vs SMA20 |
+| Momentum | RSI(14) 69.4 (neutral) |
+| Volatility | ATR(14) 1.13 (~2.5% of price); beta -0.73 |
+| Setup perspective | +0.00% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +1.0% |
-| Month | +5.1% |
-| Quarter | +15.8% |
-| Half Y | +36.1% |
-| 1Y | +83.4% |
-| YTD | +80.2% |
+| Week | +4.4% |
+| Month | +8.7% |
+| Quarter | +19.7% |
+| Half Y | +40.7% |
+| 1Y | +89.6% |
+| YTD | +86.2% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Equinor ASA operates as an energy company in Norway and internationally. It oper
 | Revenue (ttm) | $113.65B | Revenue growth 37.40% y/y |
 | Profitability | Gross 40.13%, operating 36.11%, net 7.97% | ROA 14.52%, ROE 21.27% |
 | Balance sheet | Cash $23.73B, debt $32.42B | Current ratio 1.18, debt/equity 75.16 |
-| Valuation | P/E 11.20, forward P/E 11.68, P/S 0.89, P/B 4.83 | EV/Sales 1.85, EV/EBITDA 5.01 |
+| Valuation | P/E 11.99, forward P/E 12.07, P/S 0.92, P/B 4.99 | EV/Sales 1.85, EV/EBITDA 5.01 |
 | Growth expectations | Earnings growth 298.00%, EPS q/q 269.20% | Analyst mean target $34.74 (6 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -110,21 +110,21 @@ Equinor ASA operates as an energy company in Norway and internationally. It oper
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $42.80 | EV/Sales | 1.85 |
-| Market cap | $101.58B | EV/EBITDA | 5.01 |
+| Price | $44.23 | EV/Sales | 1.85 |
+| Market cap | $104.97B | EV/EBITDA | 5.01 |
 | Beta | -0.73 | Gross margin | 40.13% |
-| RSI(14) | 64.2 | Operating margin | 36.11% |
-| ATR(14) | 1.06 | Profit margin | 7.97% |
-| SMA20 dist | +4.53% | ROA | 14.52% |
-| SMA50 dist | +13.89% | ROE | 21.27% |
-| SMA200 dist | +31.80% | Revenue (ttm) | $113.65B |
-| 52W high | $42.86 | Revenue growth y/y | 37.40% |
+| RSI(14) | 69.4 | Operating margin | 36.11% |
+| ATR(14) | 1.13 | Profit margin | 7.97% |
+| SMA20 dist | +7.65% | ROA | 14.52% |
+| SMA50 dist | +17.51% | ROE | 21.27% |
+| SMA200 dist | +36.14% | Revenue (ttm) | $113.65B |
+| 52W high | $44.23 | Revenue growth y/y | 37.40% |
 | 52W low | $21.68 | Inst. ownership | 6.90% |
-| P/E (ttm) | 11.20 | Insider ownership | 0.00% |
-| Forward P/E | 11.68 | Short float | 2.82% |
-| PEG (trailing) | 1.04 | Avg volume | 3,518,417 |
-| P/S | 0.89 | Employees | 23,545 |
-| P/B | 4.83 | Analyst rec (1=buy..5=sell) | — |
+| P/E (ttm) | 11.99 | Insider ownership | 0.00% |
+| Forward P/E | 12.07 | Short float | 2.82% |
+| PEG (trailing) | 1.08 | Avg volume | 3,487,550 |
+| P/S | 0.92 | Employees | 23,545 |
+| P/B | 4.99 | Analyst rec (1=buy..5=sell) | — |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

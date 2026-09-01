@@ -4,8 +4,8 @@ Signed file: `DUK.research.01.09.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $119.91 (2026-09-01, ~15-min delayed) |
-| Market cap | $93.49B |
+| Current price | $120.39 (2026-09-01, ~15-min delayed) |
+| Market cap | $93.87B |
 | Sector / Industry | Utilities / Utilities - Regulated Electric |
 | Main theme | Utilities - Regulated Electric — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,10 +15,10 @@ Signed file: `DUK.research.01.09.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-1.98%) with negative half-year (-7.31%). |
-| Fresh setup quality | Moderate / wait | -8.58% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-1.59%) with negative half-year (-6.94%). |
+| Fresh setup quality | Moderate / wait | -8.21% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 16.00%, revenue growth 1.10%. |
-| Value attractiveness | Reasonable | Forward P/E 16.72, EV/Sales 5.74. |
+| Value attractiveness | Reasonable | Forward P/E 16.79, EV/Sales 5.74. |
 | Risk level | Moderate | Beta 0.37, ATR 1.7% of price, short float 2.55%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -36,30 +36,30 @@ Duke Energy Corporation, through its subsidiaries, operates as an energy company
 
 | Headline | Source | Date |
 |---|---|---|
+| Lowe's Foundation launches skilled trades coalition with 75 companies | Quartz | 2026-09-01 |
+| Vistra Stock Is Down, But Is This Power Producer's Dip An Opportunity? | Trefis | 2026-09-01 |
 | How an 80-Year-Old Collects $7,100 a Month Without Selling a Single Share | 24/7 Wall St. | 2026-08-31 |
 | PG&E Stock Is Priced For A Decision It Does Not Make | Trefis | 2026-08-31 |
-| Forget XLU: These 3 Utility Dividend Stocks Offer More Exposure to AI | 24/7 Wall St. | 2026-08-31 |
-| Can Rising Operating Income Support PPL's Long-Term Earnings Growth? | Zacks | 2026-08-31 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $119.91; 52w high $131.16 (-8.58%); 52w low $111.09 (+7.94%) |
-| Trend | -1.98% vs SMA200, -3.53% vs SMA50, -1.88% vs SMA20 |
-| Momentum | RSI(14) 39.3 (neutral) |
+| Price vs 52-week range | Close $120.39; 52w high $131.16 (-8.21%); 52w low $111.09 (+8.37%) |
+| Trend | -1.59% vs SMA200, -3.15% vs SMA50, -1.49% vs SMA20 |
+| Momentum | RSI(14) 41.3 (neutral) |
 | Volatility | ATR(14) 2.01 (~1.7% of price); beta 0.37 |
-| Setup perspective | -8.58% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -8.21% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -1.7% |
-| Month | -3.6% |
-| Quarter | +0.9% |
-| Half Y | -7.3% |
-| 1Y | +1.4% |
-| YTD | +4.8% |
+| Week | -1.3% |
+| Month | -3.2% |
+| Quarter | +1.3% |
+| Half Y | -6.9% |
+| 1Y | +1.8% |
+| YTD | +5.2% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Duke Energy Corporation, through its subsidiaries, operates as an energy company
 | Revenue (ttm) | $32.80B | Revenue growth 1.10% y/y |
 | Profitability | Gross 51.97%, operating 27.50%, net 16.00% | ROA 2.84%, ROE 9.86% |
 | Balance sheet | Cash $673.00M, debt $92.21B | Current ratio 0.66, debt/equity 162.16 |
-| Valuation | P/E 18.06, forward P/E 16.72, P/S 2.85, P/B 1.74 | EV/Sales 5.74, EV/EBITDA 11.32 |
+| Valuation | P/E 18.13, forward P/E 16.79, P/S 2.86, P/B 1.75 | EV/Sales 5.74, EV/EBITDA 11.32 |
 | Growth expectations | Earnings growth 10.60%, EPS q/q 11.00% | Analyst mean target $137.28 (18 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -109,21 +109,21 @@ Duke Energy Corporation, through its subsidiaries, operates as an energy company
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $119.91 | EV/Sales | 5.74 |
-| Market cap | $93.49B | EV/EBITDA | 11.32 |
+| Price | $120.39 | EV/Sales | 5.74 |
+| Market cap | $93.87B | EV/EBITDA | 11.32 |
 | Beta | 0.37 | Gross margin | 51.97% |
-| RSI(14) | 39.3 | Operating margin | 27.50% |
+| RSI(14) | 41.3 | Operating margin | 27.50% |
 | ATR(14) | 2.01 | Profit margin | 16.00% |
-| SMA20 dist | -1.88% | ROA | 2.84% |
-| SMA50 dist | -3.53% | ROE | 9.86% |
-| SMA200 dist | -1.98% | Revenue (ttm) | $32.80B |
+| SMA20 dist | -1.49% | ROA | 2.84% |
+| SMA50 dist | -3.15% | ROE | 9.86% |
+| SMA200 dist | -1.59% | Revenue (ttm) | $32.80B |
 | 52W high | $131.16 | Revenue growth y/y | 1.10% |
 | 52W low | $111.09 | Inst. ownership | 71.14% |
-| P/E (ttm) | 18.06 | Insider ownership | 0.13% |
-| Forward P/E | 16.72 | Short float | 2.55% |
-| PEG (trailing) | 2.40 | Avg volume | 4,002,346 |
-| P/S | 2.85 | Employees | 26,441 |
-| P/B | 1.74 | Analyst rec (1=buy..5=sell) | 2.1 |
+| P/E (ttm) | 18.13 | Insider ownership | 0.13% |
+| Forward P/E | 16.79 | Short float | 2.55% |
+| PEG (trailing) | 2.39 | Avg volume | 4,019,288 |
+| P/S | 2.86 | Employees | 26,441 |
+| P/B | 1.75 | Analyst rec (1=buy..5=sell) | 2.1 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

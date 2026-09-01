@@ -4,8 +4,8 @@ Signed file: `ARRY.research.01.09.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $4.42 (2026-09-01, ~15-min delayed) |
-| Market cap | $679.91M |
+| Current price | $4.36 (2026-09-01, ~15-min delayed) |
+| Market cap | $670.68M |
 | Sector / Industry | Technology / Solar |
 | Main theme | Solar — see catalysts below |
 | Current stance | Low technical momentum, weak fundamentals, value: reasonable, risk: high. |
@@ -15,11 +15,11 @@ Signed file: `ARRY.research.01.09.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-44.08%) with negative half-year (-41.61%). |
-| Fresh setup quality | Poor / broken | -63.04% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-44.83%) with negative half-year (-42.40%). |
+| Fresh setup quality | Poor / broken | -63.55% from 52w high — base needs to rebuild. |
 | Fundamental quality | Weak | Negative profit margin (-7.25%). |
-| Value attractiveness | Reasonable | Forward P/E 4.97, EV/Sales 1.37. |
-| Risk level | High | Beta 1.79, ATR 6.9% of price, short float 24.55%. |
+| Value attractiveness | Reasonable | Forward P/E 4.86, EV/Sales 1.37. |
+| Risk level | High | Beta 1.79, ATR 7.0% of price, short float 24.55%. |
 
 **Bottom line:** Low technical momentum, weak fundamentals, value: reasonable, risk: high.
 
@@ -44,22 +44,22 @@ Array Technologies, Inc. engages in the manufacture and sale of solar tracking t
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $4.42; 52w high $11.96 (-63.04%); 52w low $4.42 (+0.00%) |
-| Trend | -44.08% vs SMA200, -24.31% vs SMA50, -11.72% vs SMA20 |
-| Momentum | RSI(14) 32.5 (neutral) |
-| Volatility | ATR(14) 0.31 (~6.9% of price); beta 1.79 |
-| Setup perspective | -63.04% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $4.36; 52w high $11.96 (-63.55%); 52w low $4.36 (+0.00%) |
+| Trend | -44.83% vs SMA200, -25.27% vs SMA50, -12.72% vs SMA20 |
+| Momentum | RSI(14) 31.8 (neutral) |
+| Volatility | ATR(14) 0.31 (~7.0% of price); beta 1.79 |
+| Setup perspective | -63.55% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -3.3% |
-| Month | -15.3% |
-| Quarter | -49.9% |
-| Half Y | -41.6% |
-| 1Y | -51.5% |
-| YTD | -54.3% |
+| Week | -4.6% |
+| Month | -16.5% |
+| Quarter | -50.6% |
+| Half Y | -42.4% |
+| 1Y | -52.1% |
+| YTD | -55.0% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ Array Technologies, Inc. engages in the manufacture and sale of solar tracking t
 | Revenue (ttm) | $1.19B | Revenue growth -5.60% y/y |
 | Profitability | Gross 26.76%, operating 10.88%, net -7.25% | ROA 3.33%, ROE -25.98% |
 | Balance sheet | Cash $307.30M, debt $752.89M | Current ratio 2.20, debt/equity 254.27 |
-| Valuation | P/E —, forward P/E 4.97, P/S 0.57, P/B -3.37 | EV/Sales 1.37, EV/EBITDA 13.62 |
+| Valuation | P/E —, forward P/E 4.86, P/S 0.57, P/B -3.32 | EV/Sales 1.37, EV/EBITDA 13.61 |
 | Growth expectations | Earnings growth -73.20%, EPS q/q -43.70% | Analyst mean target $9.11 (21 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 148.30% |
+| Institutional ownership | 148.52% |
 | Insider ownership | 0.66% |
 | Short float | 24.55% |
 | Short ratio (days to cover) | 4.1 |
@@ -95,7 +95,7 @@ Array Technologies, Inc. engages in the manufacture and sale of solar tracking t
 | Vanguard Capital Management LLC | 6,806,056 | 4.42% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.79, ATR 6.9% of price, short float 24.55%. Size positions accordingly.
+- **Volatility risk:** Beta 1.79, ATR 7.0% of price, short float 24.55%. Size positions accordingly.
 - **Short interest risk:** short float 24.55% can fuel squeezes both ways around news.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
@@ -113,21 +113,21 @@ Array Technologies, Inc. engages in the manufacture and sale of solar tracking t
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $4.42 | EV/Sales | 1.37 |
-| Market cap | $679.91M | EV/EBITDA | 13.62 |
+| Price | $4.36 | EV/Sales | 1.37 |
+| Market cap | $670.68M | EV/EBITDA | 13.61 |
 | Beta | 1.79 | Gross margin | 26.76% |
-| RSI(14) | 32.5 | Operating margin | 10.88% |
+| RSI(14) | 31.8 | Operating margin | 10.88% |
 | ATR(14) | 0.31 | Profit margin | -7.25% |
-| SMA20 dist | -11.72% | ROA | 3.33% |
-| SMA50 dist | -24.31% | ROE | -25.98% |
-| SMA200 dist | -44.08% | Revenue (ttm) | $1.19B |
+| SMA20 dist | -12.72% | ROA | 3.33% |
+| SMA50 dist | -25.27% | ROE | -25.98% |
+| SMA200 dist | -44.83% | Revenue (ttm) | $1.19B |
 | 52W high | $11.96 | Revenue growth y/y | -5.60% |
-| 52W low | $4.42 | Inst. ownership | 148.30% |
+| 52W low | $4.36 | Inst. ownership | 148.52% |
 | P/E (ttm) | — | Insider ownership | 0.66% |
-| Forward P/E | 4.97 | Short float | 24.55% |
-| PEG (trailing) | 0.56 | Avg volume | 6,698,711 |
+| Forward P/E | 4.86 | Short float | 24.55% |
+| PEG (trailing) | 0.56 | Avg volume | 6,748,168 |
 | P/S | 0.57 | Employees | 1,200 |
-| P/B | -3.37 | Analyst rec (1=buy..5=sell) | 2.0 |
+| P/B | -3.32 | Analyst rec (1=buy..5=sell) | 2.0 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

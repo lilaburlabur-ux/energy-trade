@@ -4,8 +4,8 @@ Signed file: `ETR.research.01.09.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $106.31 (2026-09-01, ~15-min delayed) |
-| Market cap | $49.61B |
+| Current price | $107.02 (2026-09-01, ~15-min delayed) |
+| Market cap | $49.94B |
 | Sector / Industry | Utilities / Utilities - Regulated Electric |
 | Main theme | Utilities - Regulated Electric — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: fair-to-demanding, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `ETR.research.01.09.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +23.63%; price +2.04% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -8.87% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +24.46%; price +2.71% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -8.27% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 13.33%, revenue growth 5.90%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 20.84, EV/Sales 5.99. |
-| Risk level | Moderate | Beta 0.49, ATR 2.0% of price, short float 5.03%. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 21.00, EV/Sales 5.99. |
+| Risk level | Moderate | Beta 0.49, ATR 1.9% of price, short float 5.03%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: fair-to-demanding, risk: moderate.
 
@@ -36,30 +36,30 @@ Entergy Corporation, together with its subsidiaries, engages in the production a
 
 | Headline | Source | Date |
 |---|---|---|
+| ONE Nuclear secures Louisiana site for 2.88GW Project Cayman in US | Energy Monitor | 2026-09-01 |
 | Should Entergy’s Earnings Beat Yet Lower EPS YoY Prompt Portfolio Changes From Entergy (ETR) Investors? | Simply Wall St. | 2026-08-30 |
 | Entergy (ETR) Stock May Trade At A 29% Premium As Dividend Growth Drives Value | Simply Wall St. | 2026-08-30 |
 | Entergy (ETR) Beat Estimates And Reaffirmed Guidance, Is The Stock Still Cheap? | Simply Wall St. | 2026-08-30 |
-| Why Is Entergy (ETR) Down 1.4% Since Last Earnings Report? | Zacks | 2026-08-28 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $106.31; 52w high $116.66 (-8.87%); 52w low $84.72 (+25.48%) |
-| Trend | +2.04% vs SMA200, -3.68% vs SMA50, -0.37% vs SMA20 |
-| Momentum | RSI(14) 44.1 (neutral) |
-| Volatility | ATR(14) 2.13 (~2.0% of price); beta 0.49 |
-| Setup perspective | -8.87% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $107.02; 52w high $116.66 (-8.27%); 52w low $84.72 (+26.32%) |
+| Trend | +2.71% vs SMA200, -3.05% vs SMA50, +0.24% vs SMA20 |
+| Momentum | RSI(14) 46.6 (neutral) |
+| Volatility | ATR(14) 2.07 (~1.9% of price); beta 0.49 |
+| Setup perspective | -8.27% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +0.5% |
-| Month | -0.6% |
-| Quarter | +1.9% |
-| Half Y | +0.8% |
-| 1Y | +23.6% |
-| YTD | +15.3% |
+| Week | +1.2% |
+| Month | +0.0% |
+| Quarter | +2.6% |
+| Half Y | +1.5% |
+| 1Y | +24.5% |
+| YTD | +16.1% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ Entergy Corporation, together with its subsidiaries, engages in the production a
 | Revenue (ttm) | $13.48B | Revenue growth 5.90% y/y |
 | Profitability | Gross 47.00%, operating 24.46%, net 13.33% | ROA 2.68%, ROE 10.25% |
 | Balance sheet | Cash $3.86B, debt $34.63B | Current ratio 0.91, debt/equity 186.77 |
-| Valuation | P/E 27.19, forward P/E 20.84, P/S 3.68, P/B 2.72 | EV/Sales 5.99, EV/EBITDA 14.57 |
+| Valuation | P/E 27.37, forward P/E 21.00, P/S 3.70, P/B 2.74 | EV/Sales 5.99, EV/EBITDA 14.57 |
 | Growth expectations | Earnings growth -1.90%, EPS q/q 3.10% | Analyst mean target $123.33 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 100.22% |
+| Institutional ownership | 100.24% |
 | Insider ownership | 0.22% |
 | Short float | 5.03% |
 | Short ratio (days to cover) | 7.9 |
@@ -95,7 +95,7 @@ Entergy Corporation, together with its subsidiaries, engages in the production a
 | Morgan Stanley | 9,808,504 | 2.10% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 20.84, EV/Sales 5.99. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 21.00, EV/Sales 5.99. Multiple compression is the main downside if growth disappoints.
 - **Short interest risk:** short float 5.03% can fuel squeezes both ways around news.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -111,21 +111,21 @@ Entergy Corporation, together with its subsidiaries, engages in the production a
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $106.31 | EV/Sales | 5.99 |
-| Market cap | $49.61B | EV/EBITDA | 14.57 |
+| Price | $107.02 | EV/Sales | 5.99 |
+| Market cap | $49.94B | EV/EBITDA | 14.57 |
 | Beta | 0.49 | Gross margin | 47.00% |
-| RSI(14) | 44.1 | Operating margin | 24.46% |
-| ATR(14) | 2.13 | Profit margin | 13.33% |
-| SMA20 dist | -0.37% | ROA | 2.68% |
-| SMA50 dist | -3.68% | ROE | 10.25% |
-| SMA200 dist | +2.04% | Revenue (ttm) | $13.48B |
+| RSI(14) | 46.6 | Operating margin | 24.46% |
+| ATR(14) | 2.07 | Profit margin | 13.33% |
+| SMA20 dist | +0.24% | ROA | 2.68% |
+| SMA50 dist | -3.05% | ROE | 10.25% |
+| SMA200 dist | +2.71% | Revenue (ttm) | $13.48B |
 | 52W high | $116.66 | Revenue growth y/y | 5.90% |
-| 52W low | $84.72 | Inst. ownership | 100.22% |
-| P/E (ttm) | 27.19 | Insider ownership | 0.22% |
-| Forward P/E | 20.84 | Short float | 5.03% |
-| PEG (trailing) | 1.90 | Avg volume | 2,807,779 |
-| P/S | 3.68 | Employees | 12,000 |
-| P/B | 2.72 | Analyst rec (1=buy..5=sell) | 1.7 |
+| 52W low | $84.72 | Inst. ownership | 100.24% |
+| P/E (ttm) | 27.37 | Insider ownership | 0.22% |
+| Forward P/E | 21.00 | Short float | 5.03% |
+| PEG (trailing) | 1.90 | Avg volume | 2,805,522 |
+| P/S | 3.70 | Employees | 12,000 |
+| P/B | 2.74 | Analyst rec (1=buy..5=sell) | 1.7 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

@@ -4,8 +4,8 @@ Signed file: `LNG.research.01.09.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $291.69 (2026-09-01, ~15-min delayed) |
-| Market cap | $60.24B |
+| Current price | $294.13 (2026-09-01, ~15-min delayed) |
+| Market cap | $60.75B |
 | Sector / Industry | Energy / Oil & Gas Midstream |
 | Main theme | Oil & Gas Midstream — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `LNG.research.01.09.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +21.65%; price +22.66% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -1.32% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +22.67%; price +23.65% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -0.49% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 13.94%, revenue growth 22.70%. |
-| Value attractiveness | Reasonable | Forward P/E 14.05, EV/Sales 4.32. |
-| Risk level | Moderate | Beta -0.01, ATR 2.5% of price, short float 2.15%. |
+| Value attractiveness | Reasonable | Forward P/E 14.16, EV/Sales 4.42. |
+| Risk level | Moderate | Beta -0.01, ATR 2.7% of price, short float 2.15%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
@@ -36,30 +36,30 @@ Cheniere Energy, Inc., an energy infrastructure company, primarily engages in th
 
 | Headline | Source | Date |
 |---|---|---|
+| UBS Sees Cheniere Raising Volume Guidance Again This Year | GuruFocus.com | 2026-09-01 |
+| Cheniere Energy Expands LNG Capacity With CCL Stage 3 Completion | Zacks | 2026-09-01 |
 | Cheniere Energy: Corpus Christi Expansion Strengthens Its LNG Growth Outlook | Insider Monkey | 2026-08-31 |
 | Cheniere Energy (LNG) Following Fresh LNG Capacity Outlook And The Valuation Debate | Simply Wall St. | 2026-08-25 |
-| Cheniere Energy (LNG) Stock Looks Reasonable Following LNG Capacity Growth News | Simply Wall St. | 2026-08-25 |
-| Cheniere Energy to Deliver Cash Flow Growth as LNG Capacity Expands, RBC Says | MT Newswires | 2026-08-24 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $291.69; 52w high $295.58 (-1.32%); 52w low $187.49 (+55.58%) |
-| Trend | +22.66% vs SMA200, +11.85% vs SMA50, +7.25% vs SMA20 |
-| Momentum | RSI(14) 68.4 (neutral) |
-| Volatility | ATR(14) 7.34 (~2.5% of price); beta -0.01 |
-| Setup perspective | -1.32% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $294.13; 52w high $295.58 (-0.49%); 52w low $187.49 (+56.88%) |
+| Trend | +23.65% vs SMA200, +12.69% vs SMA50, +7.92% vs SMA20 |
+| Momentum | RSI(14) 69.3 (neutral) |
+| Volatility | ATR(14) 8.01 (~2.7% of price); beta -0.01 |
+| Setup perspective | -0.49% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +3.9% |
-| Month | +10.9% |
-| Quarter | +28.3% |
-| Half Y | +17.7% |
-| 1Y | +21.6% |
-| YTD | +48.5% |
+| Week | +4.8% |
+| Month | +11.8% |
+| Quarter | +29.4% |
+| Half Y | +18.7% |
+| 1Y | +22.7% |
+| YTD | +49.8% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Cheniere Energy, Inc., an energy infrastructure company, primarily engages in th
 | Revenue (ttm) | $20.92B | Revenue growth 22.70% y/y |
 | Profitability | Gross 36.85%, operating 75.00%, net 13.94% | ROA 8.63%, ROE 39.12% |
 | Balance sheet | Cash $1.12B, debt $27.97B | Current ratio 0.87, debt/equity 243.42 |
-| Valuation | P/E 21.37, forward P/E 14.05, P/S 2.88, P/B 9.80 | EV/Sales 4.32, EV/EBITDA 11.56 |
+| Valuation | P/E 22.27, forward P/E 14.16, P/S 2.90, P/B 9.88 | EV/Sales 4.42, EV/EBITDA 11.80 |
 | Growth expectations | Earnings growth 100.70%, EPS q/q 88.70% | Analyst mean target $308.90 (21 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -110,21 +110,21 @@ Cheniere Energy, Inc., an energy infrastructure company, primarily engages in th
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $291.69 | EV/Sales | 4.32 |
-| Market cap | $60.24B | EV/EBITDA | 11.56 |
+| Price | $294.13 | EV/Sales | 4.42 |
+| Market cap | $60.75B | EV/EBITDA | 11.80 |
 | Beta | -0.01 | Gross margin | 36.85% |
-| RSI(14) | 68.4 | Operating margin | 75.00% |
-| ATR(14) | 7.34 | Profit margin | 13.94% |
-| SMA20 dist | +7.25% | ROA | 8.63% |
-| SMA50 dist | +11.85% | ROE | 39.12% |
-| SMA200 dist | +22.66% | Revenue (ttm) | $20.92B |
+| RSI(14) | 69.3 | Operating margin | 75.00% |
+| ATR(14) | 8.01 | Profit margin | 13.94% |
+| SMA20 dist | +7.92% | ROA | 8.63% |
+| SMA50 dist | +12.69% | ROE | 39.12% |
+| SMA200 dist | +23.65% | Revenue (ttm) | $20.92B |
 | 52W high | $295.58 | Revenue growth y/y | 22.70% |
 | 52W low | $187.49 | Inst. ownership | 91.89% |
-| P/E (ttm) | 21.37 | Insider ownership | 0.66% |
-| Forward P/E | 14.05 | Short float | 2.15% |
-| PEG (trailing) | — | Avg volume | 1,905,414 |
-| P/S | 2.88 | Employees | 1,717 |
-| P/B | 9.80 | Analyst rec (1=buy..5=sell) | 1.4 |
+| P/E (ttm) | 22.27 | Insider ownership | 0.66% |
+| Forward P/E | 14.16 | Short float | 2.15% |
+| PEG (trailing) | — | Avg volume | 1,904,009 |
+| P/S | 2.90 | Employees | 1,717 |
+| P/B | 9.88 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

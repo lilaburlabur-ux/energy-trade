@@ -4,8 +4,8 @@ Signed file: `MPC.research.01.09.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $373.32 (2026-09-01, ~15-min delayed) |
-| Market cap | $104.84B |
+| Current price | $383.00 (2026-09-01, ~15-min delayed) |
+| Market cap | $107.56B |
 | Sector / Industry | Energy / Oil & Gas Refining & Marketing |
 | Main theme | Oil & Gas Refining & Marketing — see catalysts below |
 | Current stance | High technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `MPC.research.01.09.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +111.69%; price +57.89% vs SMA200. |
+| Technical momentum | High | 1Y +117.18%; price +61.93% vs SMA200. |
 | Fresh setup quality | Moderate / wait | +0.00% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 5.55%, revenue growth 53.70%. |
-| Value attractiveness | Reasonable | Forward P/E 11.59, EV/Sales 0.90. |
-| Risk level | Moderate | Beta 0.51, ATR 2.8% of price, short float 2.70%. |
+| Value attractiveness | Reasonable | Forward P/E 11.89, EV/Sales 0.90. |
+| Risk level | Moderate | Beta 0.51, ATR 2.9% of price, short float 2.70%. |
 
 **Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
@@ -36,30 +36,30 @@ Marathon Petroleum Corporation, together with its subsidiaries, operates as an i
 
 | Headline | Source | Date |
 |---|---|---|
-| Can Refining & Logistics Projects Drive PARR's Next Growth Phase? | Zacks | 2026-08-31 |
-| Can Phillips 66 Reach Its $5.50 Refining Cost Target in 2027? | Zacks | 2026-08-31 |
-| Energy stocks rally as fresh U.S.-Iran attacks drive oil prices higher | Investing.com | 2026-08-31 |
-| Trump to Discuss High Fuel Prices With Oil Refiners Next Week | Bloomberg | 2026-08-28 |
+| Oil Stocks Hit New Highs After U.S. Resumes Strikes in Strait of Hormuz | Barrons.com | 2026-09-01 |
+| Goldman Sachs Sees Major Shift Coming for Oil Markets | GuruFocus.com | 2026-09-01 |
+| Canadian Oil Stock Edges Into Buy Zone After 200% Earnings Growth | Investor's Business Daily | 2026-09-01 |
+| Archer-Daniels-Midland (ADM) Bets Big On Oilseed Crush Capacity | Insider Monkey | 2026-09-01 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $373.32; 52w high $373.32 (+0.00%); 52w low $160.76 (+132.22%) |
-| Trend | +57.89% vs SMA200, +20.31% vs SMA50, +8.14% vs SMA20 |
-| Momentum | RSI(14) 73.3 (overbought) |
-| Volatility | ATR(14) 10.49 (~2.8% of price); beta 0.51 |
+| Price vs 52-week range | Close $383.00; 52w high $383.00 (+0.00%); 52w low $160.76 (+138.24%) |
+| Trend | +61.93% vs SMA200, +23.32% vs SMA50, +10.72% vs SMA20 |
+| Momentum | RSI(14) 76.2 (overbought) |
+| Volatility | ATR(14) 10.97 (~2.9% of price); beta 0.51 |
 | Setup perspective | +0.00% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +3.0% |
-| Month | +18.3% |
-| Quarter | +44.7% |
-| Half Y | +79.1% |
-| 1Y | +111.7% |
-| YTD | +128.7% |
+| Week | +5.6% |
+| Month | +21.4% |
+| Quarter | +48.5% |
+| Half Y | +83.7% |
+| 1Y | +117.2% |
+| YTD | +134.6% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ Marathon Petroleum Corporation, together with its subsidiaries, operates as an i
 | Revenue (ttm) | $154.15B | Revenue growth 53.70% y/y |
 | Profitability | Gross 12.82%, operating 13.56%, net 5.55% | ROA 8.74%, ROE 42.10% |
 | Balance sheet | Cash $7.77B, debt $34.29B | Current ratio 1.25, debt/equity 133.33 |
-| Valuation | P/E 12.79, forward P/E 11.59, P/S 0.68, P/B 5.54 | EV/Sales 0.90, EV/EBITDA 8.96 |
+| Valuation | P/E 13.28, forward P/E 11.89, P/S 0.70, P/B 5.68 | EV/Sales 0.90, EV/EBITDA 8.96 |
 | Growth expectations | Earnings growth 348.00%, EPS q/q 322.50% | Analyst mean target $324.56 (18 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 79.60% |
+| Institutional ownership | 79.66% |
 | Insider ownership | 0.33% |
 | Short float | 2.70% |
 | Short ratio (days to cover) | 2.9 |
@@ -110,21 +110,21 @@ Marathon Petroleum Corporation, together with its subsidiaries, operates as an i
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $373.32 | EV/Sales | 0.90 |
-| Market cap | $104.84B | EV/EBITDA | 8.96 |
+| Price | $383.00 | EV/Sales | 0.90 |
+| Market cap | $107.56B | EV/EBITDA | 8.96 |
 | Beta | 0.51 | Gross margin | 12.82% |
-| RSI(14) | 73.3 | Operating margin | 13.56% |
-| ATR(14) | 10.49 | Profit margin | 5.55% |
-| SMA20 dist | +8.14% | ROA | 8.74% |
-| SMA50 dist | +20.31% | ROE | 42.10% |
-| SMA200 dist | +57.89% | Revenue (ttm) | $154.15B |
-| 52W high | $373.32 | Revenue growth y/y | 53.70% |
-| 52W low | $160.76 | Inst. ownership | 79.60% |
-| P/E (ttm) | 12.79 | Insider ownership | 0.33% |
-| Forward P/E | 11.59 | Short float | 2.70% |
-| PEG (trailing) | 1.80 | Avg volume | 2,356,573 |
-| P/S | 0.68 | Employees | 18,500 |
-| P/B | 5.54 | Analyst rec (1=buy..5=sell) | 2.3 |
+| RSI(14) | 76.2 | Operating margin | 13.56% |
+| ATR(14) | 10.97 | Profit margin | 5.55% |
+| SMA20 dist | +10.72% | ROA | 8.74% |
+| SMA50 dist | +23.32% | ROE | 42.10% |
+| SMA200 dist | +61.93% | Revenue (ttm) | $154.15B |
+| 52W high | $383.00 | Revenue growth y/y | 53.70% |
+| 52W low | $160.76 | Inst. ownership | 79.66% |
+| P/E (ttm) | 13.28 | Insider ownership | 0.33% |
+| Forward P/E | 11.89 | Short float | 2.70% |
+| PEG (trailing) | 1.85 | Avg volume | 2,375,614 |
+| P/S | 0.70 | Employees | 18,500 |
+| P/B | 5.68 | Analyst rec (1=buy..5=sell) | 2.3 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

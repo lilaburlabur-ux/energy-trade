@@ -4,24 +4,24 @@ Signed file: `FSLR.research.01.09.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $201.90 (2026-09-01, ~15-min delayed) |
-| Market cap | $21.70B |
+| Current price | $199.65 (2026-09-01, ~15-min delayed) |
+| Market cap | $21.46B |
 | Sector / Industry | Technology / Solar |
 | Main theme | Solar — see catalysts below |
-| Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: high. |
+| Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-09-01.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +2.48%; price -12.85% vs SMA200. |
-| Fresh setup quality | Poor / broken | -36.56% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-13.82%) with negative half-year (-0.11%). |
+| Fresh setup quality | Poor / broken | -37.27% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 32.46%, revenue growth -3.70%. |
-| Value attractiveness | Reasonable | Forward P/E 8.74, EV/Sales 3.75. |
+| Value attractiveness | Reasonable | Forward P/E 8.64, EV/Sales 3.75. |
 | Risk level | High | Beta 1.75, ATR 5.0% of price, short float 11.86%. |
 
-**Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: high.
+**Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -44,22 +44,22 @@ First Solar, Inc., a solar technology company, provides photovoltaic (PV) solar 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $201.90; 52w high $318.25 (-36.56%); 52w low $184.70 (+9.31%) |
-| Trend | -12.85% vs SMA200, -9.45% vs SMA50, -9.40% vs SMA20 |
-| Momentum | RSI(14) 37.2 (neutral) |
-| Volatility | ATR(14) 10.06 (~5.0% of price); beta 1.75 |
-| Setup perspective | -36.56% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $199.65; 52w high $318.25 (-37.27%); 52w low $184.70 (+8.09%) |
+| Trend | -13.82% vs SMA200, -10.42% vs SMA50, -10.31% vs SMA20 |
+| Momentum | RSI(14) 36.1 (neutral) |
+| Volatility | ATR(14) 10.07 (~5.0% of price); beta 1.75 |
+| Setup perspective | -37.27% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -3.1% |
-| Month | -4.3% |
-| Quarter | -33.4% |
-| Half Y | +1.0% |
-| 1Y | +2.5% |
-| YTD | -26.4% |
+| Week | -4.2% |
+| Month | -5.4% |
+| Quarter | -34.1% |
+| Half Y | -0.1% |
+| 1Y | +1.3% |
+| YTD | -27.2% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ First Solar, Inc., a solar technology company, provides photovoltaic (PV) solar 
 | Revenue (ttm) | $5.38B | Revenue growth -3.70% y/y |
 | Profitability | Gross 44.02%, operating 42.64%, net 32.46% | ROA 8.62%, ROE 18.51% |
 | Balance sheet | Cash $1.73B, debt $194.01M | Current ratio 2.52, debt/equity 1.88 |
-| Valuation | P/E 12.46, forward P/E 8.74, P/S 4.03, P/B 2.10 | EV/Sales 3.75, EV/EBITDA 8.45 |
+| Valuation | P/E 12.32, forward P/E 8.64, P/S 3.99, P/B 2.08 | EV/Sales 3.75, EV/EBITDA 8.45 |
 | Growth expectations | Earnings growth 23.30%, EPS q/q 23.60% | Analyst mean target $275.30 (30 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 96.89% |
+| Institutional ownership | 96.83% |
 | Insider ownership | 5.36% |
 | Short float | 11.86% |
 | Short ratio (days to cover) | 3.9 |
@@ -112,21 +112,21 @@ First Solar, Inc., a solar technology company, provides photovoltaic (PV) solar 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $201.90 | EV/Sales | 3.75 |
-| Market cap | $21.70B | EV/EBITDA | 8.45 |
+| Price | $199.65 | EV/Sales | 3.75 |
+| Market cap | $21.46B | EV/EBITDA | 8.45 |
 | Beta | 1.75 | Gross margin | 44.02% |
-| RSI(14) | 37.2 | Operating margin | 42.64% |
-| ATR(14) | 10.06 | Profit margin | 32.46% |
-| SMA20 dist | -9.40% | ROA | 8.62% |
-| SMA50 dist | -9.45% | ROE | 18.51% |
-| SMA200 dist | -12.85% | Revenue (ttm) | $5.38B |
+| RSI(14) | 36.1 | Operating margin | 42.64% |
+| ATR(14) | 10.07 | Profit margin | 32.46% |
+| SMA20 dist | -10.31% | ROA | 8.62% |
+| SMA50 dist | -10.42% | ROE | 18.51% |
+| SMA200 dist | -13.82% | Revenue (ttm) | $5.38B |
 | 52W high | $318.25 | Revenue growth y/y | -3.70% |
-| 52W low | $184.70 | Inst. ownership | 96.89% |
-| P/E (ttm) | 12.46 | Insider ownership | 5.36% |
-| Forward P/E | 8.74 | Short float | 11.86% |
-| PEG (trailing) | 0.57 | Avg volume | 2,223,388 |
-| P/S | 4.03 | Employees | 7,900 |
-| P/B | 2.10 | Analyst rec (1=buy..5=sell) | 1.9 |
+| 52W low | $184.70 | Inst. ownership | 96.83% |
+| P/E (ttm) | 12.32 | Insider ownership | 5.36% |
+| Forward P/E | 8.64 | Short float | 11.86% |
+| PEG (trailing) | 0.55 | Avg volume | 2,214,161 |
+| P/S | 3.99 | Employees | 7,900 |
+| P/B | 2.08 | Analyst rec (1=buy..5=sell) | 1.9 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
@@ -141,7 +141,7 @@ First Solar, Inc., a solar technology company, provides photovoltaic (PV) solar 
 | 2026-07-31 | main | Bernstein | Underperform → Underperform |
 
 ## 9. Conclusion
-FSLR: Moderate momentum / mixed fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+FSLR: Low momentum / mixed fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

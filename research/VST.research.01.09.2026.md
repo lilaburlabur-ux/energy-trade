@@ -4,8 +4,8 @@ Signed file: `VST.research.01.09.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $137.37 (2026-09-01, ~15-min delayed) |
-| Market cap | $46.11B |
+| Current price | $138.08 (2026-09-01, ~15-min delayed) |
+| Market cap | $46.34B |
 | Sector / Industry | Utilities / Utilities - Independent Power Producers |
 | Main theme | Utilities - Independent Power Producers — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
@@ -15,10 +15,10 @@ Signed file: `VST.research.01.09.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-13.10%) with negative half-year (-17.01%). |
-| Fresh setup quality | Poor / broken | -36.70% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-12.55%) with negative half-year (-14.37%). |
+| Fresh setup quality | Poor / broken | -36.37% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 11.55%, revenue growth -5.50%. |
-| Value attractiveness | Reasonable | Forward P/E 13.25, EV/Sales 3.57. |
+| Value attractiveness | Reasonable | Forward P/E 13.32, EV/Sales 3.57. |
 | Risk level | Elevated | Beta 1.43, ATR 3.8% of price, short float 3.32%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
@@ -36,30 +36,30 @@ Vistra Corp., together with its subsidiaries, operates as an integrated retail e
 
 | Headline | Source | Date |
 |---|---|---|
+| Can Rising C&I Demand Drive Constellation Energy's Long-Term Growth? | Zacks | 2026-09-01 |
+| Vistra CEO James Burke Buys 2,000 Shares After 29% Stock Decline | Motley Fool | 2026-09-01 |
+| Vistra Stock Is Down, But Is This Power Producer's Dip An Opportunity? | Trefis | 2026-09-01 |
 | CEG vs. VST: Which Nuclear Utility Stock Stands Out for Investors? | Zacks | 2026-08-31 |
-| Vistra Won’t Stop Declining in 2026: Why Does This Prominent Wall Street Firm Expect 120% Returns? | 24/7 Wall St. | 2026-08-31 |
-| Thanks Nvidia, But These Power Stocks Have Other Ways to Win | Barrons.com | 2026-08-31 |
-| Vistra Stock Sits 37% Below Its High While Power Demand Keeps Climbing. Should You Buy It? | Motley Fool | 2026-08-31 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $137.37; 52w high $217.02 (-36.70%); 52w low $134.52 (+2.12%) |
-| Trend | -13.10% vs SMA200, -9.23% vs SMA50, -2.86% vs SMA20 |
-| Momentum | RSI(14) 40.2 (neutral) |
-| Volatility | ATR(14) 5.25 (~3.8% of price); beta 1.43 |
-| Setup perspective | -36.70% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $138.08; 52w high $217.02 (-36.37%); 52w low $134.52 (+2.65%) |
+| Trend | -12.55% vs SMA200, -8.41% vs SMA50, -2.18% vs SMA20 |
+| Momentum | RSI(14) 41.4 (neutral) |
+| Volatility | ATR(14) 5.19 (~3.8% of price); beta 1.43 |
+| Setup perspective | -36.37% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +1.3% |
-| Month | -7.3% |
-| Quarter | -11.1% |
-| Half Y | -17.0% |
-| 1Y | -29.8% |
-| YTD | -16.6% |
+| Week | -0.7% |
+| Month | -11.5% |
+| Quarter | -12.5% |
+| Half Y | -14.4% |
+| 1Y | -26.6% |
+| YTD | -16.2% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ Vistra Corp., together with its subsidiaries, operates as an integrated retail e
 | Revenue (ttm) | $19.21B | Revenue growth -5.50% y/y |
 | Profitability | Gross 38.31%, operating 13.77%, net 11.55% | ROA 5.89%, ROE 42.96% |
 | Balance sheet | Cash $435.00M, debt $20.51B | Current ratio 0.97, debt/equity 373.28 |
-| Valuation | P/E 23.09, forward P/E 13.25, P/S 2.40, P/B 15.35 | EV/Sales 3.57, EV/EBITDA 10.33 |
+| Valuation | P/E 23.25, forward P/E 13.32, P/S 2.41, P/B 15.43 | EV/Sales 3.57, EV/EBITDA 10.33 |
 | Growth expectations | Earnings growth -6.20%, EPS q/q -6.70% | Analyst mean target $217.42 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 92.05% |
+| Institutional ownership | 92.06% |
 | Insider ownership | 0.79% |
 | Short float | 3.32% |
 | Short ratio (days to cover) | 2.0 |
@@ -111,21 +111,21 @@ Vistra Corp., together with its subsidiaries, operates as an integrated retail e
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $137.37 | EV/Sales | 3.57 |
-| Market cap | $46.11B | EV/EBITDA | 10.33 |
+| Price | $138.08 | EV/Sales | 3.57 |
+| Market cap | $46.34B | EV/EBITDA | 10.33 |
 | Beta | 1.43 | Gross margin | 38.31% |
-| RSI(14) | 40.2 | Operating margin | 13.77% |
-| ATR(14) | 5.25 | Profit margin | 11.55% |
-| SMA20 dist | -2.86% | ROA | 5.89% |
-| SMA50 dist | -9.23% | ROE | 42.96% |
-| SMA200 dist | -13.10% | Revenue (ttm) | $19.21B |
+| RSI(14) | 41.4 | Operating margin | 13.77% |
+| ATR(14) | 5.19 | Profit margin | 11.55% |
+| SMA20 dist | -2.18% | ROA | 5.89% |
+| SMA50 dist | -8.41% | ROE | 42.96% |
+| SMA200 dist | -12.55% | Revenue (ttm) | $19.21B |
 | 52W high | $217.02 | Revenue growth y/y | -5.50% |
-| 52W low | $134.52 | Inst. ownership | 92.05% |
-| P/E (ttm) | 23.09 | Insider ownership | 0.79% |
-| Forward P/E | 13.25 | Short float | 3.32% |
-| PEG (trailing) | 0.40 | Avg volume | 4,356,136 |
-| P/S | 2.40 | Employees | 6,390 |
-| P/B | 15.35 | Analyst rec (1=buy..5=sell) | 1.4 |
+| 52W low | $134.52 | Inst. ownership | 92.06% |
+| P/E (ttm) | 23.25 | Insider ownership | 0.79% |
+| Forward P/E | 13.32 | Short float | 3.32% |
+| PEG (trailing) | 0.40 | Avg volume | 4,353,271 |
+| P/S | 2.41 | Employees | 6,390 |
+| P/B | 15.43 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

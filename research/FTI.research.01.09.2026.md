@@ -4,8 +4,8 @@ Signed file: `FTI.research.01.09.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $78.15 (2026-09-01, ~15-min delayed) |
-| Market cap | $30.65B |
+| Current price | $78.31 (2026-09-01, ~15-min delayed) |
+| Market cap | $30.71B |
 | Sector / Industry | Energy / Oil & Gas Equipment & Services |
 | Main theme | Oil & Gas Equipment & Services — see catalysts below |
 | Current stance | High technical momentum, mixed fundamentals, value: fair-to-demanding, risk: elevated. |
@@ -15,11 +15,11 @@ Signed file: `FTI.research.01.09.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +111.56%; price +22.89% vs SMA200. |
-| Fresh setup quality | Watch | -2.02% from 52w high and near SMA20 — check for a tight base. |
+| Technical momentum | High | 1Y +112.00%; price +23.12% vs SMA200. |
+| Fresh setup quality | Watch | -1.82% from 52w high and near SMA20 — check for a tight base. |
 | Fundamental quality | Mixed | Profit margin 11.28%, revenue growth 9.00%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 21.72, EV/Sales 2.88. |
-| Risk level | Elevated | Beta 0.74, ATR 3.1% of price, short float 3.35%. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 21.76, EV/Sales 2.97. |
+| Risk level | Elevated | Beta 0.74, ATR 3.0% of price, short float 3.35%. |
 
 **Bottom line:** High technical momentum, mixed fundamentals, value: fair-to-demanding, risk: elevated.
 
@@ -36,30 +36,30 @@ TechnipFMC plc engages in the oil and natural gas projects, technologies, system
 
 | Headline | Source | Date |
 |---|---|---|
+| 3 Oilfield Services Stocks Poised to Gain Despite Industry Challenges | Zacks | 2026-09-01 |
 | SLB Stock Surged With Its Sector, But Its Fastest-Growing Line Was Not Drilling | Trefis | 2026-08-31 |
 | Is Guyana Becoming an Even Bigger Cash Flow Engine for ExxonMobil? | Zacks | 2026-08-24 |
 | Gorgon stage three tie-back gets first TechnipFMC Subsea 2.0 tree | Offshore Technology | 2026-08-21 |
-| 2 Reasons FTI is Risky and 1 Stock to Buy Instead | StockStory | 2026-08-16 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $78.15; 52w high $79.76 (-2.02%); 52w low $35.45 (+120.43%) |
-| Trend | +22.89% vs SMA200, +8.17% vs SMA50, +3.83% vs SMA20 |
-| Momentum | RSI(14) 60.6 (neutral) |
-| Volatility | ATR(14) 2.43 (~3.1% of price); beta 0.74 |
-| Setup perspective | -2.02% from 52w high and near SMA20 — check for a tight base. |
+| Price vs 52-week range | Close $78.31; 52w high $79.76 (-1.82%); 52w low $35.45 (+120.88%) |
+| Trend | +23.12% vs SMA200, +8.32% vs SMA50, +3.87% vs SMA20 |
+| Momentum | RSI(14) 61.2 (neutral) |
+| Volatility | ATR(14) 2.38 (~3.0% of price); beta 0.74 |
+| Setup perspective | -1.82% from 52w high and near SMA20 — check for a tight base. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +3.0% |
-| Month | +9.1% |
-| Quarter | +14.3% |
-| Half Y | +16.0% |
-| 1Y | +111.6% |
-| YTD | +65.5% |
+| Week | +3.2% |
+| Month | +9.3% |
+| Quarter | +14.5% |
+| Half Y | +16.3% |
+| 1Y | +112.0% |
+| YTD | +65.9% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ TechnipFMC plc engages in the oil and natural gas projects, technologies, system
 | Revenue (ttm) | $10.42B | Revenue growth 9.00% y/y |
 | Profitability | Gross 22.97%, operating 17.69%, net 11.28% | ROA 9.53%, ROE 35.81% |
 | Balance sheet | Cash $991.80M, debt $1.24B | Current ratio 1.08, debt/equity 37.90 |
-| Valuation | P/E 26.49, forward P/E 21.72, P/S 2.94, P/B 9.38 | EV/Sales 2.88, EV/EBITDA 15.12 |
+| Valuation | P/E 27.38, forward P/E 21.76, P/S 2.95, P/B 9.40 | EV/Sales 2.97, EV/EBITDA 15.58 |
 | Growth expectations | Earnings growth 40.60%, EPS q/q 34.60% | Analyst mean target $75.81 (21 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 101.11% |
+| Institutional ownership | 101.13% |
 | Insider ownership | 1.49% |
 | Short float | 3.35% |
 | Short ratio (days to cover) | 3.9 |
@@ -95,8 +95,8 @@ TechnipFMC plc engages in the oil and natural gas projects, technologies, system
 | T. Rowe Price Investment Management, Inc. | 9,275,901 | 2.37% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 21.72, EV/Sales 2.88. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 0.74, ATR 3.1% of price, short float 3.35%. Size positions accordingly.
+- **Valuation risk:** Forward P/E 21.76, EV/Sales 2.97. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 0.74, ATR 3.0% of price, short float 3.35%. Size positions accordingly.
 - **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -112,21 +112,21 @@ TechnipFMC plc engages in the oil and natural gas projects, technologies, system
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $78.15 | EV/Sales | 2.88 |
-| Market cap | $30.65B | EV/EBITDA | 15.12 |
+| Price | $78.31 | EV/Sales | 2.97 |
+| Market cap | $30.71B | EV/EBITDA | 15.58 |
 | Beta | 0.74 | Gross margin | 22.97% |
-| RSI(14) | 60.6 | Operating margin | 17.69% |
-| ATR(14) | 2.43 | Profit margin | 11.28% |
-| SMA20 dist | +3.83% | ROA | 9.53% |
-| SMA50 dist | +8.17% | ROE | 35.81% |
-| SMA200 dist | +22.89% | Revenue (ttm) | $10.42B |
+| RSI(14) | 61.2 | Operating margin | 17.69% |
+| ATR(14) | 2.38 | Profit margin | 11.28% |
+| SMA20 dist | +3.87% | ROA | 9.53% |
+| SMA50 dist | +8.32% | ROE | 35.81% |
+| SMA200 dist | +23.12% | Revenue (ttm) | $10.42B |
 | 52W high | $79.76 | Revenue growth y/y | 9.00% |
-| 52W low | $35.45 | Inst. ownership | 101.11% |
-| P/E (ttm) | 26.49 | Insider ownership | 1.49% |
-| Forward P/E | 21.72 | Short float | 3.35% |
-| PEG (trailing) | — | Avg volume | 3,774,512 |
-| P/S | 2.94 | Employees | 22,000 |
-| P/B | 9.38 | Analyst rec (1=buy..5=sell) | 2.0 |
+| 52W low | $35.45 | Inst. ownership | 101.13% |
+| P/E (ttm) | 27.38 | Insider ownership | 1.49% |
+| Forward P/E | 21.76 | Short float | 3.35% |
+| PEG (trailing) | — | Avg volume | 3,744,144 |
+| P/S | 2.95 | Employees | 22,000 |
+| P/B | 9.40 | Analyst rec (1=buy..5=sell) | 2.0 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

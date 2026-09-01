@@ -4,8 +4,8 @@ Signed file: `BKR.research.01.09.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $63.55 (2026-09-01, ~15-min delayed) |
-| Market cap | $63.08B |
+| Current price | $63.65 (2026-09-01, ~15-min delayed) |
+| Market cap | $63.19B |
 | Sector / Industry | Energy / Oil & Gas Equipment & Services |
 | Main theme | Oil & Gas Equipment & Services — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: fair-to-demanding, risk: moderate. |
@@ -15,10 +15,10 @@ Signed file: `BKR.research.01.09.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +41.64%; price +9.92% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -8.14% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +41.87%; price +10.09% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -7.99% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 11.17%, revenue growth -2.40%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 20.11, EV/Sales 2.25. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 20.14, EV/Sales 2.25. |
 | Risk level | Moderate | Beta 0.96, ATR 2.6% of price, short float 2.74%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: fair-to-demanding, risk: moderate.
@@ -36,30 +36,30 @@ Baker Hughes Company provides a portfolio of technologies and services to energy
 
 | Headline | Source | Date |
 |---|---|---|
+| DTI vs. BKR: Which Stock Should Value Investors Buy Now? | Zacks | 2026-09-01 |
 | SLB Stock Surged With Its Sector, But Its Fastest-Growing Line Was Not Drilling | Trefis | 2026-08-31 |
 | C3.ai vs. Intuit: Which Software Stock Is a Better Investment in 2026 as Both Hover Near 52-Week Lows? | Motley Fool | 2026-08-30 |
 | Baker Hughes (BKR) Secures Order For 76 Gas Turbines | Simply Wall St. | 2026-08-29 |
-| C3.ai vs. UiPath: Which Artificial Intelligence Stock Is a Better Investment in 2026? | Motley Fool | 2026-08-29 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $63.55; 52w high $69.18 (-8.14%); 52w low $43.79 (+45.14%) |
-| Trend | +9.92% vs SMA200, +7.10% vs SMA50, +0.77% vs SMA20 |
-| Momentum | RSI(14) 59.1 (neutral) |
-| Volatility | ATR(14) 1.63 (~2.6% of price); beta 0.96 |
-| Setup perspective | -8.14% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $63.65; 52w high $69.18 (-7.99%); 52w low $43.79 (+45.38%) |
+| Trend | +10.09% vs SMA200, +7.23% vs SMA50, +0.84% vs SMA20 |
+| Momentum | RSI(14) 59.2 (neutral) |
+| Volatility | ATR(14) 1.66 (~2.6% of price); beta 0.96 |
+| Setup perspective | -7.99% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +2.5% |
-| Month | +5.4% |
-| Quarter | +1.3% |
-| Half Y | -1.3% |
-| 1Y | +41.6% |
-| YTD | +36.3% |
+| Week | +2.7% |
+| Month | +5.6% |
+| Quarter | +1.5% |
+| Half Y | -1.1% |
+| 1Y | +41.9% |
+| YTD | +36.5% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ Baker Hughes Company provides a portfolio of technologies and services to energy
 | Revenue (ttm) | $27.73B | Revenue growth -2.40% y/y |
 | Profitability | Gross 23.66%, operating 12.83%, net 11.17% | ROA 4.85%, ROE 16.46% |
 | Balance sheet | Cash $17.02B, debt $16.25B | Current ratio 2.10, debt/equity 80.92 |
-| Valuation | P/E 20.43, forward P/E 20.11, P/S 2.28, P/B 3.17 | EV/Sales 2.25, EV/EBITDA 12.91 |
+| Valuation | P/E 20.47, forward P/E 20.14, P/S 2.28, P/B 3.17 | EV/Sales 2.25, EV/EBITDA 12.91 |
 | Growth expectations | Earnings growth -4.20%, EPS q/q -2.90% | Analyst mean target $72.13 (23 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 100.16% |
+| Institutional ownership | 100.09% |
 | Insider ownership | 0.15% |
 | Short float | 2.74% |
 | Short ratio (days to cover) | 2.7 |
@@ -95,7 +95,8 @@ Baker Hughes Company provides a portfolio of technologies and services to energy
 | Capital Research Global Investors | 22,032,387 | 2.66% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 20.11, EV/Sales 2.25. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 20.14, EV/Sales 2.25. Multiple compression is the main downside if growth disappoints.
+- **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -110,19 +111,19 @@ Baker Hughes Company provides a portfolio of technologies and services to energy
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $63.55 | EV/Sales | 2.25 |
-| Market cap | $63.08B | EV/EBITDA | 12.91 |
+| Price | $63.65 | EV/Sales | 2.25 |
+| Market cap | $63.19B | EV/EBITDA | 12.91 |
 | Beta | 0.96 | Gross margin | 23.66% |
-| RSI(14) | 59.1 | Operating margin | 12.83% |
-| ATR(14) | 1.63 | Profit margin | 11.17% |
-| SMA20 dist | +0.77% | ROA | 4.85% |
-| SMA50 dist | +7.10% | ROE | 16.46% |
-| SMA200 dist | +9.92% | Revenue (ttm) | $27.73B |
+| RSI(14) | 59.2 | Operating margin | 12.83% |
+| ATR(14) | 1.66 | Profit margin | 11.17% |
+| SMA20 dist | +0.84% | ROA | 4.85% |
+| SMA50 dist | +7.23% | ROE | 16.46% |
+| SMA200 dist | +10.09% | Revenue (ttm) | $27.73B |
 | 52W high | $69.18 | Revenue growth y/y | -2.40% |
-| 52W low | $43.79 | Inst. ownership | 100.16% |
-| P/E (ttm) | 20.43 | Insider ownership | 0.15% |
-| Forward P/E | 20.11 | Short float | 2.74% |
-| PEG (trailing) | 2.14 | Avg volume | 8,199,866 |
+| 52W low | $43.79 | Inst. ownership | 100.09% |
+| P/E (ttm) | 20.47 | Insider ownership | 0.15% |
+| Forward P/E | 20.14 | Short float | 2.74% |
+| PEG (trailing) | 2.19 | Avg volume | 8,285,325 |
 | P/S | 2.28 | Employees | 54,000 |
 | P/B | 3.17 | Analyst rec (1=buy..5=sell) | 1.7 |
 

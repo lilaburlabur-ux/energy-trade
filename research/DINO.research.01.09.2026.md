@@ -4,8 +4,8 @@ Signed file: `DINO.research.01.09.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $101.61 (2026-09-01, ~15-min delayed) |
-| Market cap | $18.06B |
+| Current price | $103.97 (2026-09-01, ~15-min delayed) |
+| Market cap | $18.48B |
 | Sector / Industry | Energy / Oil & Gas Refining & Marketing |
 | Main theme | Oil & Gas Refining & Marketing — see catalysts below |
 | Current stance | High technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
@@ -15,10 +15,10 @@ Signed file: `DINO.research.01.09.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +107.61%; price +59.15% vs SMA200. |
+| Technical momentum | High | 1Y +112.43%; price +62.79% vs SMA200. |
 | Fresh setup quality | Moderate / wait | +0.00% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 6.13%, revenue growth 53.20%. |
-| Value attractiveness | Reasonable | Forward P/E 10.84, EV/Sales 0.60. |
+| Value attractiveness | Reasonable | Forward P/E 11.09, EV/Sales 0.61. |
 | Risk level | Elevated | Beta 0.69, ATR 3.7% of price, short float 5.32%. |
 
 **Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
@@ -36,30 +36,30 @@ HF Sinclair Corporation operates as an independent energy company in the United 
 
 | Headline | Source | Date |
 |---|---|---|
+| 3 Value Stocks to Buy as September Market Volatility Picks Up | Zacks | 2026-09-01 |
+| HF Sinclair Plans Lubricants Spin-Off: Is it a Value-Unlocking Move? | Zacks | 2026-09-01 |
 | Petrobras Eyes LNG Exports to Asia as Gas Demand Surges | Zacks | 2026-08-31 |
 | Why Is HF Sinclair (DINO) Up 7.2% Since Last Earnings Report? | Zacks | 2026-08-27 |
-| Phillips 66: Refining Upside Backed by Stable Midstream Operations | Zacks | 2026-08-27 |
-| Wayfair highlighted as Zacks Bull and Louisiana-Pacific Bear of the Day | Zacks | 2026-08-27 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $101.61; 52w high $101.61 (+0.00%); 52w low $44.83 (+126.66%) |
-| Trend | +59.15% vs SMA200, +19.84% vs SMA50, +10.70% vs SMA20 |
-| Momentum | RSI(14) 69.4 (neutral) |
-| Volatility | ATR(14) 3.75 (~3.7% of price); beta 0.69 |
+| Price vs 52-week range | Close $103.97; 52w high $103.97 (+0.00%); 52w low $44.83 (+131.92%) |
+| Trend | +62.79% vs SMA200, +22.50% vs SMA50, +13.01% vs SMA20 |
+| Momentum | RSI(14) 71.6 (overbought) |
+| Volatility | ATR(14) 3.83 (~3.7% of price); beta 0.69 |
 | Setup perspective | +0.00% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +6.8% |
-| Month | +11.8% |
-| Quarter | +44.4% |
-| Half Y | +91.3% |
-| 1Y | +107.6% |
-| YTD | +122.0% |
+| Week | +9.2% |
+| Month | +14.4% |
+| Quarter | +47.7% |
+| Half Y | +95.8% |
+| 1Y | +112.4% |
+| YTD | +127.1% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ HF Sinclair Corporation operates as an independent energy company in the United 
 | Revenue (ttm) | $31.23B | Revenue growth 53.20% y/y |
 | Profitability | Gross 12.89%, operating 11.69%, net 6.13% | ROA 9.16%, ROE 19.50% |
 | Balance sheet | Cash $2.26B, debt $3.34B | Current ratio 1.97, debt/equity 32.26 |
-| Valuation | P/E 9.69, forward P/E 10.84, P/S 0.58, P/B 1.76 | EV/Sales 0.60, EV/EBITDA 5.88 |
+| Valuation | P/E 9.91, forward P/E 11.09, P/S 0.59, P/B 1.80 | EV/Sales 0.61, EV/EBITDA 5.99 |
 | Growth expectations | Earnings growth 350.20%, EPS q/q 328.80% | Analyst mean target $90.80 (15 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -112,21 +112,21 @@ HF Sinclair Corporation operates as an independent energy company in the United 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $101.61 | EV/Sales | 0.60 |
-| Market cap | $18.06B | EV/EBITDA | 5.88 |
+| Price | $103.97 | EV/Sales | 0.61 |
+| Market cap | $18.48B | EV/EBITDA | 5.99 |
 | Beta | 0.69 | Gross margin | 12.89% |
-| RSI(14) | 69.4 | Operating margin | 11.69% |
-| ATR(14) | 3.75 | Profit margin | 6.13% |
-| SMA20 dist | +10.70% | ROA | 9.16% |
-| SMA50 dist | +19.84% | ROE | 19.50% |
-| SMA200 dist | +59.15% | Revenue (ttm) | $31.23B |
-| 52W high | $101.61 | Revenue growth y/y | 53.20% |
+| RSI(14) | 71.6 | Operating margin | 11.69% |
+| ATR(14) | 3.83 | Profit margin | 6.13% |
+| SMA20 dist | +13.01% | ROA | 9.16% |
+| SMA50 dist | +22.50% | ROE | 19.50% |
+| SMA200 dist | +62.79% | Revenue (ttm) | $31.23B |
+| 52W high | $103.97 | Revenue growth y/y | 53.20% |
 | 52W low | $44.83 | Inst. ownership | 89.66% |
-| P/E (ttm) | 9.69 | Insider ownership | 5.49% |
-| Forward P/E | 10.84 | Short float | 5.32% |
-| PEG (trailing) | 1.21 | Avg volume | 2,591,495 |
-| P/S | 0.58 | Employees | 5,165 |
-| P/B | 1.76 | Analyst rec (1=buy..5=sell) | 2.6 |
+| P/E (ttm) | 9.91 | Insider ownership | 5.49% |
+| Forward P/E | 11.09 | Short float | 5.32% |
+| PEG (trailing) | 1.21 | Avg volume | 2,626,668 |
+| P/S | 0.59 | Employees | 5,165 |
+| P/B | 1.80 | Analyst rec (1=buy..5=sell) | 2.6 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

@@ -4,8 +4,8 @@ Signed file: `CVX.research.01.09.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $206.14 (2026-09-01, ~15-min delayed) |
-| Market cap | $404.36B |
+| Current price | $211.05 (2026-09-01, ~15-min delayed) |
+| Market cap | $414.00B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `CVX.research.01.09.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +34.49%; price +16.46% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -0.62% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +36.59%; price +19.02% vs SMA200. |
+| Fresh setup quality | Moderate / wait | +0.00% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 9.83%, revenue growth 53.50%. |
-| Value attractiveness | Reasonable | Forward P/E 15.57, EV/Sales 2.10. |
-| Risk level | Moderate | Beta 0.49, ATR 2.0% of price, short float 0.81%. |
+| Value attractiveness | Reasonable | Forward P/E 15.94, EV/Sales 2.10. |
+| Risk level | Moderate | Beta 0.49, ATR 1.9% of price, short float 0.81%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
@@ -36,30 +36,30 @@ Chevron Corporation, through its subsidiaries, engages in the integrated energy 
 
 | Headline | Source | Date |
 |---|---|---|
-| Energy stocks lead in subdued final trading day of August, utilities under pressure: AlphaCheck | Yahoo Finance | 2026-08-31 |
-| Why Trump's Venezuelan oil deal is very politically risky | Yahoo Finance Video | 2026-08-31 |
-| Firms including Chevron, ONGC, GE Vernova on track to sign final pacts in Venezuela, sources say | Reuters | 2026-08-31 |
-| Venezuela’s Energy Reopening Could Benefit Chevron (CVX) and GE Vernova (GEV), But Risks Remain | Insider Monkey | 2026-08-31 |
+| Stock Market Today: Nasdaq Ends Lower As Oil Prices Top $90; Micron, Nvidia Shares Wrapped in Red | Investor's Business Daily | 2026-09-01 |
+| Dow Falls 419 Points as Bond Yields Rise: Stock Market Today | Kiplinger | 2026-09-01 |
+| Sector Update: Energy Stocks Rise Late Afternoon | MT Newswires | 2026-09-01 |
+| Venezuela's assembly backs oil deal announced with U.S | Reuters | 2026-09-01 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $206.14; 52w high $207.42 (-0.62%); 52w low $142.76 (+44.39%) |
-| Trend | +16.46% vs SMA200, +10.31% vs SMA50, +4.21% vs SMA20 |
-| Momentum | RSI(14) 66.8 (neutral) |
-| Volatility | ATR(14) 4.04 (~2.0% of price); beta 0.49 |
-| Setup perspective | -0.62% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $211.05; 52w high $211.05 (+0.00%); 52w low $142.76 (+47.83%) |
+| Trend | +19.02% vs SMA200, +12.48% vs SMA50, +6.10% vs SMA20 |
+| Momentum | RSI(14) 71.6 (overbought) |
+| Volatility | ATR(14) 4.10 (~1.9% of price); beta 0.49 |
+| Setup perspective | +0.00% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +1.5% |
-| Month | +5.6% |
-| Quarter | +11.9% |
-| Half Y | +10.7% |
-| 1Y | +34.5% |
-| YTD | +35.9% |
+| Week | +5.6% |
+| Month | +10.2% |
+| Quarter | +13.5% |
+| Half Y | +13.8% |
+| 1Y | +36.6% |
+| YTD | +39.2% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Chevron Corporation, through its subsidiaries, engages in the integrated energy 
 | Revenue (ttm) | $209.38B | Revenue growth 53.50% y/y |
 | Profitability | Gross 44.27%, operating 21.87%, net 9.83% | ROA 5.86%, ROE 12.23% |
 | Balance sheet | Cash $8.53B, debt $37.08B | Current ratio 1.25, debt/equity 18.96 |
-| Valuation | P/E 19.82, forward P/E 15.57, P/S 1.93, P/B 2.13 | EV/Sales 2.10, EV/EBITDA 8.66 |
+| Valuation | P/E 20.31, forward P/E 15.94, P/S 1.98, P/B 2.18 | EV/Sales 2.10, EV/EBITDA 8.66 |
 | Growth expectations | Earnings growth 321.90%, EPS q/q 384.80% | Analyst mean target $218.29 (24 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -110,21 +110,21 @@ Chevron Corporation, through its subsidiaries, engages in the integrated energy 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $206.14 | EV/Sales | 2.10 |
-| Market cap | $404.36B | EV/EBITDA | 8.66 |
+| Price | $211.05 | EV/Sales | 2.10 |
+| Market cap | $414.00B | EV/EBITDA | 8.66 |
 | Beta | 0.49 | Gross margin | 44.27% |
-| RSI(14) | 66.8 | Operating margin | 21.87% |
-| ATR(14) | 4.04 | Profit margin | 9.83% |
-| SMA20 dist | +4.21% | ROA | 5.86% |
-| SMA50 dist | +10.31% | ROE | 12.23% |
-| SMA200 dist | +16.46% | Revenue (ttm) | $209.38B |
-| 52W high | $207.42 | Revenue growth y/y | 53.50% |
+| RSI(14) | 71.6 | Operating margin | 21.87% |
+| ATR(14) | 4.10 | Profit margin | 9.83% |
+| SMA20 dist | +6.10% | ROA | 5.86% |
+| SMA50 dist | +12.48% | ROE | 12.23% |
+| SMA200 dist | +19.02% | Revenue (ttm) | $209.38B |
+| 52W high | $211.05 | Revenue growth y/y | 53.50% |
 | 52W low | $142.76 | Inst. ownership | 71.12% |
-| P/E (ttm) | 19.82 | Insider ownership | 4.77% |
-| Forward P/E | 15.57 | Short float | 0.81% |
-| PEG (trailing) | 0.77 | Avg volume | 8,366,680 |
-| P/S | 1.93 | Employees | 43,039 |
-| P/B | 2.13 | Analyst rec (1=buy..5=sell) | 1.7 |
+| P/E (ttm) | 20.31 | Insider ownership | 4.77% |
+| Forward P/E | 15.94 | Short float | 0.81% |
+| PEG (trailing) | 0.77 | Avg volume | 8,417,857 |
+| P/S | 1.98 | Employees | 43,039 |
+| P/B | 2.18 | Analyst rec (1=buy..5=sell) | 1.7 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

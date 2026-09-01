@@ -4,8 +4,8 @@ Signed file: `ET.research.01.09.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $21.51 (2026-09-01, ~15-min delayed) |
-| Market cap | $74.07B |
+| Current price | $21.42 (2026-09-01, ~15-min delayed) |
+| Market cap | $73.76B |
 | Sector / Industry | Energy / Oil & Gas Midstream |
 | Main theme | Oil & Gas Midstream — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,10 +15,10 @@ Signed file: `ET.research.01.09.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +30.92%; price +17.85% vs SMA200. |
-| Fresh setup quality | Watch | +0.00% from 52w high and near SMA20 — check for a tight base. |
+| Technical momentum | Moderate | 1Y +30.38%; price +17.35% vs SMA200. |
+| Fresh setup quality | Watch | -0.42% from 52w high and near SMA20 — check for a tight base. |
 | Fundamental quality | Mixed | Profit margin 4.92%, revenue growth 78.40%. |
-| Value attractiveness | Reasonable | Forward P/E 12.29, EV/Sales 1.51. |
+| Value attractiveness | Reasonable | Forward P/E 12.24, EV/Sales 1.50. |
 | Risk level | Moderate | Beta 0.56, ATR 1.6% of price, short float 0.93%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -36,30 +36,30 @@ Energy Transfer LP, together with its subsidiaries, provides energy-related serv
 
 | Headline | Source | Date |
 |---|---|---|
+| Got $10,000 to Invest This September? These Energy Stocks Could Turn It Into Over $600 in Annual Income. | Motley Fool | 2026-09-01 |
 | This Popular Energy ETF Has a Hidden Cost—Own These 3 Dividend Stocks Instead | 24/7 Wall St. | 2026-08-31 |
 | Energy Transfer Is Quietly Becoming One of the Biggest Natural Gas Suppliers to AI Data Centers | Motley Fool | 2026-08-30 |
 | This "Boring" Pipeline Stock Has Never Cut Its Dividend. Here's the 1 Number I'd Watch. | Motley Fool | 2026-08-30 |
-| Is Energy Transfer’s US$5.9 Billion Gas Buildout Altering The Investment Case For ET? | Simply Wall St. | 2026-08-28 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $21.51; 52w high $21.51 (+0.00%); 52w low $15.15 (+41.93%) |
-| Trend | +17.85% vs SMA200, +7.30% vs SMA50, +2.85% vs SMA20 |
-| Momentum | RSI(14) 67.6 (neutral) |
-| Volatility | ATR(14) 0.33 (~1.6% of price); beta 0.56 |
-| Setup perspective | +0.00% from 52w high and near SMA20 — check for a tight base. |
+| Price vs 52-week range | Close $21.42; 52w high $21.51 (-0.42%); 52w low $15.15 (+41.34%) |
+| Trend | +17.35% vs SMA200, +6.83% vs SMA50, +2.40% vs SMA20 |
+| Momentum | RSI(14) 65.7 (neutral) |
+| Volatility | ATR(14) 0.34 (~1.6% of price); beta 0.56 |
+| Setup perspective | -0.42% from 52w high and near SMA20 — check for a tight base. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +2.0% |
-| Month | +7.4% |
-| Quarter | +13.5% |
-| Half Y | +16.5% |
-| 1Y | +30.9% |
-| YTD | +36.6% |
+| Week | +1.6% |
+| Month | +7.0% |
+| Quarter | +13.0% |
+| Half Y | +16.0% |
+| 1Y | +30.4% |
+| YTD | +36.0% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Energy Transfer LP, together with its subsidiaries, provides energy-related serv
 | Revenue (ttm) | $107.38B | Revenue growth 78.40% y/y |
 | Profitability | Gross 17.51%, operating 10.41%, net 4.92% | ROA 5.06%, ROE 14.56% |
 | Balance sheet | Cash $1.02B, debt $70.24B | Current ratio 1.16, debt/equity 138.33 |
-| Valuation | P/E 14.73, forward P/E 12.29, P/S 0.69, P/B 2.32 | EV/Sales 1.51, EV/EBITDA 9.45 |
+| Valuation | P/E 14.67, forward P/E 12.24, P/S 0.69, P/B 2.31 | EV/Sales 1.50, EV/EBITDA 9.41 |
 | Growth expectations | Earnings growth 85.30%, EPS q/q 79.50% | Analyst mean target $24.53 (21 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -110,21 +110,21 @@ Energy Transfer LP, together with its subsidiaries, provides energy-related serv
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $21.51 | EV/Sales | 1.51 |
-| Market cap | $74.07B | EV/EBITDA | 9.45 |
+| Price | $21.42 | EV/Sales | 1.50 |
+| Market cap | $73.76B | EV/EBITDA | 9.41 |
 | Beta | 0.56 | Gross margin | 17.51% |
-| RSI(14) | 67.6 | Operating margin | 10.41% |
-| ATR(14) | 0.33 | Profit margin | 4.92% |
-| SMA20 dist | +2.85% | ROA | 5.06% |
-| SMA50 dist | +7.30% | ROE | 14.56% |
-| SMA200 dist | +17.85% | Revenue (ttm) | $107.38B |
+| RSI(14) | 65.7 | Operating margin | 10.41% |
+| ATR(14) | 0.34 | Profit margin | 4.92% |
+| SMA20 dist | +2.40% | ROA | 5.06% |
+| SMA50 dist | +6.83% | ROE | 14.56% |
+| SMA200 dist | +17.35% | Revenue (ttm) | $107.38B |
 | 52W high | $21.51 | Revenue growth y/y | 78.40% |
 | 52W low | $15.15 | Inst. ownership | 32.50% |
-| P/E (ttm) | 14.73 | Insider ownership | 10.29% |
-| Forward P/E | 12.29 | Short float | 0.93% |
-| PEG (trailing) | 0.68 | Avg volume | 8,872,638 |
+| P/E (ttm) | 14.67 | Insider ownership | 10.29% |
+| Forward P/E | 12.24 | Short float | 0.93% |
+| PEG (trailing) | 0.68 | Avg volume | 8,858,347 |
 | P/S | 0.69 | Employees | 22,311 |
-| P/B | 2.32 | Analyst rec (1=buy..5=sell) | 1.4 |
+| P/B | 2.31 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

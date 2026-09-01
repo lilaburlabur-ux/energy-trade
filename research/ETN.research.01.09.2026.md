@@ -4,8 +4,8 @@ Signed file: `ETN.research.01.09.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $401.88 (2026-09-01, ~15-min delayed) |
-| Market cap | $156.09B |
+| Current price | $390.71 (2026-09-01, ~15-min delayed) |
+| Market cap | $151.75B |
 | Sector / Industry | Industrials / Specialty Industrial Machinery |
 | Main theme | Specialty Industrial Machinery — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: fair-to-demanding, risk: elevated. |
@@ -15,11 +15,11 @@ Signed file: `ETN.research.01.09.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +14.36%; price +6.23% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -12.63% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +11.18%; price +3.29% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -15.06% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 12.75%, revenue growth 21.40%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 25.01, EV/Sales 5.90. |
-| Risk level | Elevated | Beta 1.18, ATR 3.6% of price, short float 1.65%. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 24.32, EV/Sales 5.89. |
+| Risk level | Elevated | Beta 1.18, ATR 3.9% of price, short float 1.65%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: fair-to-demanding, risk: elevated.
 
@@ -36,30 +36,30 @@ Eaton Corporation plc operates as a power management company in the United State
 
 | Headline | Source | Date |
 |---|---|---|
+| Is Eaton Corporation Stock Underperforming the Nasdaq? | Barchart | 2026-09-01 |
+| The Engine Behind GEV Stock Has Real Parts | Trefis | 2026-09-01 |
 | Vertiv Stock Nearly Doubled On The Same Projects That Delayed Its Revenue | Trefis | 2026-08-31 |
 | Top Analyst Reports for Microsoft, Intel & Bank of America | Zacks | 2026-08-31 |
-| Is Eaton Stock Riskier Than It Was A Year Ago? | Trefis | 2026-08-31 |
-| GE Vernova Slides 3%, Vertiv Holdings and Eaton Sit Out the Selloff: Is the Rivian CFO Handoff Still Driving the Drawdown? | 24/7 Wall St. | 2026-08-31 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $401.88; 52w high $459.96 (-12.63%); 52w low $313.20 (+28.31%) |
-| Trend | +6.23% vs SMA200, -3.44% vs SMA50, -7.17% vs SMA20 |
-| Momentum | RSI(14) 41.0 (neutral) |
-| Volatility | ATR(14) 14.56 (~3.6% of price); beta 1.18 |
-| Setup perspective | -12.63% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $390.71; 52w high $459.96 (-15.06%); 52w low $313.20 (+24.75%) |
+| Trend | +3.29% vs SMA200, -6.07% vs SMA50, -9.63% vs SMA20 |
+| Momentum | RSI(14) 37.3 (neutral) |
+| Volatility | ATR(14) 15.08 (~3.9% of price); beta 1.18 |
+| Setup perspective | -15.06% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -1.7% |
-| Month | -3.0% |
-| Quarter | +0.7% |
-| Half Y | +7.4% |
-| 1Y | +14.4% |
-| YTD | +23.8% |
+| Week | -4.4% |
+| Month | -5.7% |
+| Quarter | -2.1% |
+| Half Y | +4.4% |
+| 1Y | +11.2% |
+| YTD | +20.4% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Eaton Corporation plc operates as a power management company in the United State
 | Revenue (ttm) | $30.03B | Revenue growth 21.40% y/y |
 | Profitability | Gross 36.02%, operating 16.56%, net 12.75% | ROA 7.05%, ROE 19.68% |
 | Balance sheet | Cash $695.00M, debt $21.33B | Current ratio 1.24, debt/equity 105.06 |
-| Valuation | P/E 40.97, forward P/E 25.01, P/S 5.20, P/B 7.71 | EV/Sales 5.90, EV/EBITDA 26.68 |
+| Valuation | P/E 39.75, forward P/E 24.32, P/S 5.05, P/B 7.49 | EV/Sales 5.89, EV/EBITDA 26.62 |
 | Growth expectations | Earnings growth -15.90%, EPS q/q -16.40% | Analyst mean target $475.57 (25 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,8 +95,8 @@ Eaton Corporation plc operates as a power management company in the United State
 | Wellington Management Group, LLP | 6,827,266 | 1.76% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 25.01, EV/Sales 5.90. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 1.18, ATR 3.6% of price, short float 1.65%. Size positions accordingly.
+- **Valuation risk:** Forward P/E 24.32, EV/Sales 5.89. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 1.18, ATR 3.9% of price, short float 1.65%. Size positions accordingly.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -111,21 +111,21 @@ Eaton Corporation plc operates as a power management company in the United State
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $401.88 | EV/Sales | 5.90 |
-| Market cap | $156.09B | EV/EBITDA | 26.68 |
+| Price | $390.71 | EV/Sales | 5.89 |
+| Market cap | $151.75B | EV/EBITDA | 26.62 |
 | Beta | 1.18 | Gross margin | 36.02% |
-| RSI(14) | 41.0 | Operating margin | 16.56% |
-| ATR(14) | 14.56 | Profit margin | 12.75% |
-| SMA20 dist | -7.17% | ROA | 7.05% |
-| SMA50 dist | -3.44% | ROE | 19.68% |
-| SMA200 dist | +6.23% | Revenue (ttm) | $30.03B |
+| RSI(14) | 37.3 | Operating margin | 16.56% |
+| ATR(14) | 15.08 | Profit margin | 12.75% |
+| SMA20 dist | -9.63% | ROA | 7.05% |
+| SMA50 dist | -6.07% | ROE | 19.68% |
+| SMA200 dist | +3.29% | Revenue (ttm) | $30.03B |
 | 52W high | $459.96 | Revenue growth y/y | 21.40% |
 | 52W low | $313.20 | Inst. ownership | 88.11% |
-| P/E (ttm) | 40.97 | Insider ownership | 0.07% |
-| Forward P/E | 25.01 | Short float | 1.65% |
-| PEG (trailing) | 2.98 | Avg volume | 2,266,342 |
-| P/S | 5.20 | Employees | 97,303 |
-| P/B | 7.71 | Analyst rec (1=buy..5=sell) | 1.6 |
+| P/E (ttm) | 39.75 | Insider ownership | 0.07% |
+| Forward P/E | 24.32 | Short float | 1.65% |
+| PEG (trailing) | 2.88 | Avg volume | 2,263,590 |
+| P/S | 5.05 | Employees | 97,303 |
+| P/B | 7.49 | Analyst rec (1=buy..5=sell) | 1.6 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

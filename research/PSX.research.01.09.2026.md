@@ -4,8 +4,8 @@ Signed file: `PSX.research.01.09.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $246.58 (2026-09-01, ~15-min delayed) |
-| Market cap | $98.86B |
+| Current price | $252.02 (2026-09-01, ~15-min delayed) |
+| Market cap | $101.04B |
 | Sector / Industry | Energy / Oil & Gas Refining & Marketing |
 | Main theme | Oil & Gas Refining & Marketing — see catalysts below |
 | Current stance | High technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,10 +15,10 @@ Signed file: `PSX.research.01.09.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +91.13%; price +46.65% vs SMA200. |
+| Technical momentum | High | 1Y +95.35%; price +49.85% vs SMA200. |
 | Fresh setup quality | Moderate / wait | +0.00% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 4.66%, revenue growth 53.10%. |
-| Value attractiveness | Reasonable | Forward P/E 11.92, EV/Sales 0.76. |
+| Value attractiveness | Reasonable | Forward P/E 12.18, EV/Sales 0.76. |
 | Risk level | Moderate | Beta 0.69, ATR 2.8% of price, short float 1.43%. |
 
 **Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -36,30 +36,30 @@ Phillips 66 operates as an integrated downstream energy provider in the United S
 
 | Headline | Source | Date |
 |---|---|---|
-| Tesla, PG&E, Nvidia, SLB, Pinterest, and More Stocks That Explain Today’s Market | Barrons.com | 2026-08-31 |
-| Can Refining & Logistics Projects Drive PARR's Next Growth Phase? | Zacks | 2026-08-31 |
-| Can Phillips 66 Reach Its $5.50 Refining Cost Target in 2027? | Zacks | 2026-08-31 |
-| Energy stocks rally as fresh U.S.-Iran attacks drive oil prices higher | Investing.com | 2026-08-31 |
+| Goldman Sachs Sees Major Shift Coming for Oil Markets | GuruFocus.com | 2026-09-01 |
+| Oil Price Rally Helps Energy Stocks, Hurts Airlines | The Wall Street Journal | 2026-09-01 |
+| Phillips 66 (PSX) Nears Cost Target, Is The Upside Already Priced In? | Simply Wall St. | 2026-09-01 |
+| Where CVX's $119 Billion Of Shareholder Cash Came From | Trefis | 2026-09-01 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $246.58; 52w high $246.58 (+0.00%); 52w low $123.11 (+100.29%) |
-| Trend | +46.65% vs SMA200, +19.30% vs SMA50, +7.24% vs SMA20 |
-| Momentum | RSI(14) 72.1 (overbought) |
-| Volatility | ATR(14) 6.87 (~2.8% of price); beta 0.69 |
+| Price vs 52-week range | Close $252.02; 52w high $252.02 (+0.00%); 52w low $123.11 (+104.70%) |
+| Trend | +49.85% vs SMA200, +21.84% vs SMA50, +9.41% vs SMA20 |
+| Momentum | RSI(14) 74.8 (overbought) |
+| Volatility | ATR(14) 7.12 (~2.8% of price); beta 0.69 |
 | Setup perspective | +0.00% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +1.9% |
-| Month | +17.1% |
-| Quarter | +37.5% |
-| Half Y | +55.9% |
-| 1Y | +91.1% |
-| YTD | +92.8% |
+| Week | +4.2% |
+| Month | +19.7% |
+| Quarter | +40.6% |
+| Half Y | +59.3% |
+| 1Y | +95.3% |
+| YTD | +97.1% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ Phillips 66 operates as an integrated downstream energy provider in the United S
 | Revenue (ttm) | $152.17B | Revenue growth 53.10% y/y |
 | Profitability | Gross 13.10%, operating 8.53%, net 4.66% | ROA 6.04%, ROE 23.45% |
 | Balance sheet | Cash $4.10B, debt $20.57B | Current ratio 1.32, debt/equity 62.88 |
-| Valuation | P/E 13.93, forward P/E 11.92, P/S 0.65, P/B 3.12 | EV/Sales 0.76, EV/EBITDA 11.59 |
+| Valuation | P/E 14.38, forward P/E 12.18, P/S 0.66, P/B 3.19 | EV/Sales 0.76, EV/EBITDA 11.69 |
 | Growth expectations | Earnings growth 344.90%, EPS q/q 338.70% | Analyst mean target $222.00 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 80.56% |
+| Institutional ownership | 80.57% |
 | Insider ownership | 0.21% |
 | Short float | 1.43% |
 | Short ratio (days to cover) | 1.9 |
@@ -110,21 +110,21 @@ Phillips 66 operates as an integrated downstream energy provider in the United S
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $246.58 | EV/Sales | 0.76 |
-| Market cap | $98.86B | EV/EBITDA | 11.59 |
+| Price | $252.02 | EV/Sales | 0.76 |
+| Market cap | $101.04B | EV/EBITDA | 11.69 |
 | Beta | 0.69 | Gross margin | 13.10% |
-| RSI(14) | 72.1 | Operating margin | 8.53% |
-| ATR(14) | 6.87 | Profit margin | 4.66% |
-| SMA20 dist | +7.24% | ROA | 6.04% |
-| SMA50 dist | +19.30% | ROE | 23.45% |
-| SMA200 dist | +46.65% | Revenue (ttm) | $152.17B |
-| 52W high | $246.58 | Revenue growth y/y | 53.10% |
-| 52W low | $123.11 | Inst. ownership | 80.56% |
-| P/E (ttm) | 13.93 | Insider ownership | 0.21% |
-| Forward P/E | 11.92 | Short float | 1.43% |
-| PEG (trailing) | 1.14 | Avg volume | 2,639,628 |
-| P/S | 0.65 | Employees | 12,600 |
-| P/B | 3.12 | Analyst rec (1=buy..5=sell) | 2.1 |
+| RSI(14) | 74.8 | Operating margin | 8.53% |
+| ATR(14) | 7.12 | Profit margin | 4.66% |
+| SMA20 dist | +9.41% | ROA | 6.04% |
+| SMA50 dist | +21.84% | ROE | 23.45% |
+| SMA200 dist | +49.85% | Revenue (ttm) | $152.17B |
+| 52W high | $252.02 | Revenue growth y/y | 53.10% |
+| 52W low | $123.11 | Inst. ownership | 80.57% |
+| P/E (ttm) | 14.38 | Insider ownership | 0.21% |
+| Forward P/E | 12.18 | Short float | 1.43% |
+| PEG (trailing) | 1.17 | Avg volume | 2,680,219 |
+| P/S | 0.66 | Employees | 12,600 |
+| P/B | 3.19 | Analyst rec (1=buy..5=sell) | 2.1 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
