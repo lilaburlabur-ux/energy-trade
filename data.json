@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-01T22:39:30+00:00",
-  "as_of_local": "2026-09-01 22:39:30 UTC",
+  "as_of_utc": "2026-09-01T23:03:13+00:00",
+  "as_of_local": "2026-09-01 23:03:13 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -1777,6 +1777,12 @@
       "market_cap": 1998971655.7889252,
       "headlines": [
         {
+          "title": "Trump Just Gave SolarEdge Stock a Lift. How You Should Play SEDG Here.",
+          "url": "https://finance.yahoo.com/energy/articles/trump-just-gave-solaredge-stock-165255234.html",
+          "publisher": "Barchart",
+          "published": "2026-09-01T16:52:55Z"
+        },
+        {
           "title": "Canadian Solar Q2 Loss Wider Than Estimates, Revenues Fall Y/Y",
           "url": "https://finance.yahoo.com/markets/stocks/articles/canadian-solar-q2-loss-wider-154300876.html",
           "publisher": "Zacks",
@@ -1787,12 +1793,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-enph-fslr-arry-sedg-020339213.html",
           "publisher": "Stocktwits",
           "published": "2026-08-27T02:03:39Z"
-        },
-        {
-          "title": "UBS Just Upgraded SolarEdge Stock. Here's Why.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ubs-just-upgraded-solaredge-stock-205113594.html",
-          "publisher": "Barchart",
-          "published": "2026-08-26T20:51:13Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 90.98,
-      "change_pct": 6.09
+      "price": 90.81,
+      "change_pct": 5.89
     },
     {
       "label": "Brent",
-      "price": 95.41,
-      "change_pct": 5.44
+      "price": 95.28,
+      "change_pct": 5.29
     },
     {
       "label": "NatGas",
       "price": 2.95,
-      "change_pct": 0.55
+      "change_pct": 0.65
     }
   ]
 }
