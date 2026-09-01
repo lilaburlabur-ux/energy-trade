@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-01T23:21:49+00:00",
-  "as_of_local": "2026-09-01 23:21:49 UTC",
+  "as_of_utc": "2026-09-01T23:59:39+00:00",
+  "as_of_local": "2026-09-01 23:59:39 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -41,6 +41,12 @@
       "market_cap": 413996376964.0381,
       "headlines": [
         {
+          "title": "Chevron Will Grow Venezuelan Oil Production. It\u2019s Different Than Trump\u2019s Big Bet.",
+          "url": "https://www.barrons.com/articles/chevron-venezuela-oil-trump-b6a5ac28?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-09-01T21:53:00Z"
+        },
+        {
           "title": "Stock Market Today: Nasdaq Ends Lower As Oil Prices Top $90; Micron, Nvidia Shares Wrapped in Red",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-treasury-yields-nvidia-stock-micron-stock/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
@@ -51,12 +57,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/dow-falls-419-points-bond-201657396.html",
           "publisher": "Kiplinger",
           "published": "2026-09-01T20:16:57Z"
-        },
-        {
-          "title": "Sector Update: Energy Stocks Rise Late Afternoon",
-          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-rise-afternoon-195655132.html",
-          "publisher": "MT Newswires",
-          "published": "2026-09-01T19:56:55Z"
         }
       ]
     },
@@ -237,6 +237,12 @@
       "market_cap": 114525474691.08838,
       "headlines": [
         {
+          "title": "Chevron Will Grow Venezuelan Oil Production. It\u2019s Different Than Trump\u2019s Big Bet.",
+          "url": "https://www.barrons.com/articles/chevron-venezuela-oil-trump-b6a5ac28?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-09-01T21:53:00Z"
+        },
+        {
           "title": "Oil Stocks Hit New Highs After U.S. Resumes Strikes in Strait of Hormuz",
           "url": "https://www.barrons.com/articles/oil-stocks-jump-strikes-strait-of-hormuz-d440f751?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
@@ -247,12 +253,6 @@
           "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-01-2026/card/oil-price-rally-helps-energy-stocks-hurts-airlines-DPyLQTwzu2TucaLLdJuE?siteid=yhoof2&yptr=yahoo",
           "publisher": "The Wall Street Journal",
           "published": "2026-09-01T18:16:51Z"
-        },
-        {
-          "title": "European Equities Traded in the US as American Depositary Receipts Edge Higher in Tuesday Trading",
-          "url": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-american-151014832.html",
-          "publisher": "MT Newswires",
-          "published": "2026-09-01T15:10:14Z"
         }
       ]
     },
@@ -1693,6 +1693,12 @@
       "market_cap": 3779687513.275118,
       "headlines": [
         {
+          "title": "Major U.S. Oil Port Selected for Nuclear Power Project",
+          "url": "https://finance.yahoo.com/energy/articles/major-u-oil-port-selected-230000926.html",
+          "publisher": "Oilprice.com",
+          "published": "2026-09-01T23:00:00Z"
+        },
+        {
           "title": "Oklo Sinks 5% as PJM Pulls Its Meta-Backed Ohio Project, NuScale Power Barely Budges",
           "url": "https://finance.yahoo.com/energy/articles/oklo-sinks-5-pjm-pulls-175706211.html",
           "publisher": "24/7 Wall St.",
@@ -1703,12 +1709,6 @@
           "url": "https://finance.yahoo.com/energy/articles/nuscale-power-smr-reaches-key-141152434.html",
           "publisher": "Simply Wall St.",
           "published": "2026-09-01T14:11:52Z"
-        },
-        {
-          "title": "NuScale Power (SMR) Stock May Be Cheap On Fresh TVA Project Talks",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nuscale-power-smr-stock-may-130832843.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-09-01T13:08:32Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 90.81,
-      "change_pct": 5.89
+      "price": 90.75,
+      "change_pct": 5.82
     },
     {
       "label": "Brent",
-      "price": 95.25,
-      "change_pct": 5.26
+      "price": 95.24,
+      "change_pct": 5.25
     },
     {
       "label": "NatGas",
       "price": 2.95,
-      "change_pct": 0.68
+      "change_pct": 0.61
     }
   ]
 }
