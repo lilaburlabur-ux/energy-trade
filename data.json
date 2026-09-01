@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-01T00:00:05+00:00",
-  "as_of_local": "2026-09-01 00:00:05 UTC",
+  "as_of_utc": "2026-09-01T00:31:45+00:00",
+  "as_of_local": "2026-09-01 00:31:45 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -150,7 +150,7 @@
       "price": 82.34,
       "previous_close": 81.84,
       "change_pct": 0.61,
-      "market_cap": 171728737540.00507,
+      "market_cap": 171759438089.97964,
       "headlines": [
         {
           "title": "PG&E Stock Is Priced For A Decision It Does Not Make",
@@ -181,12 +181,6 @@
       "market_cap": 161411779679.71887,
       "headlines": [
         {
-          "title": "Energy Expert Warns Venezuela\u2019s 65 Billion-Barrel Oil Deal Won\u2019t Fix Supply Anytime Soon",
-          "url": "https://finance.yahoo.com/energy/articles/energy-expert-warns-venezuela-65-202413500.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-08-31T20:24:13Z"
-        },
-        {
           "title": "Trump's Venezuela Deal Leaves $100 Billion Question Unanswered",
           "url": "https://finance.yahoo.com/video/trumps-venezuela-deal-leaves-100-163430116.html",
           "publisher": "Bloomberg",
@@ -197,6 +191,12 @@
           "url": "https://finance.yahoo.com/energy/articles/3-u-integrated-energy-stocks-155800151.html",
           "publisher": "Zacks",
           "published": "2026-08-31T15:58:00Z"
+        },
+        {
+          "title": "Chevron Leads Energy Stocks Rally as U.S.-Iran Conflict Sends Oil Prices Higher",
+          "url": "https://finance.yahoo.com/energy/articles/chevron-leads-energy-stocks-rally-153138515.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-08-31T15:31:38Z"
         }
       ]
     },
@@ -206,7 +206,7 @@
       "price": 401.88,
       "previous_close": 402.78,
       "change_pct": -0.22,
-      "market_cap": 156050005895.9961,
+      "market_cap": 156090193896.48438,
       "headlines": [
         {
           "title": "Vertiv Stock Nearly Doubled On The Same Projects That Delayed Its Revenue",
@@ -262,7 +262,7 @@
       "price": 373.32,
       "previous_close": 368.83,
       "change_pct": 1.22,
-      "market_cap": 108985786716.40778,
+      "market_cap": 104837502579.982,
       "headlines": [
         {
           "title": "Can Refining & Logistics Projects Drive PARR's Next Growth Phase?",
@@ -626,7 +626,7 @@
       "price": 144.96,
       "previous_close": 143.35,
       "change_pct": 1.12,
-      "market_cap": 77209835284.79721,
+      "market_cap": 76035752874.57922,
       "headlines": [
         {
           "title": "S&P 500 Posts Slight Weekly Gain as Tech Earnings Top Expectations",
@@ -794,7 +794,7 @@
       "price": 96.01,
       "previous_close": 94.76,
       "change_pct": 1.32,
-      "market_cap": 60489455466.415375,
+      "market_cap": 60521793075.28489,
       "headlines": [
         {
           "title": "ONEOK (OKE) Doubles Down on the Permian with $4.43 Billion Brazos Acquisition",
@@ -825,6 +825,12 @@
       "market_cap": 60243949051.253784,
       "headlines": [
         {
+          "title": "Cheniere Energy: Corpus Christi Expansion Strengthens Its LNG Growth Outlook",
+          "url": "https://finance.yahoo.com/energy/articles/cheniere-energy-corpus-christi-expansion-234831212.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-08-31T23:48:31Z"
+        },
+        {
           "title": "Cheniere Energy (LNG) Following Fresh LNG Capacity Outlook And The Valuation Debate",
           "url": "https://finance.yahoo.com/energy/articles/cheniere-energy-lng-following-fresh-221930250.html",
           "publisher": "Simply Wall St.",
@@ -835,12 +841,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/cheniere-energy-lng-stock-looks-141456872.html",
           "publisher": "Simply Wall St.",
           "published": "2026-08-25T14:14:56Z"
-        },
-        {
-          "title": "Cheniere Energy to Deliver Cash Flow Growth as LNG Capacity Expands, RBC Says",
-          "url": "https://finance.yahoo.com/energy/articles/cheniere-energy-deliver-cash-flow-150807871.html",
-          "publisher": "MT Newswires",
-          "published": "2026-08-24T15:08:07Z"
         }
       ]
     },
@@ -1074,7 +1074,7 @@
       "price": 73.33,
       "previous_close": 73.19,
       "change_pct": 0.19,
-      "market_cap": 36541909321.11374,
+      "market_cap": 36549141712.53433,
       "headlines": [
         {
           "title": "Sector Update: Energy Stocks Rise Wednesday",
@@ -1494,7 +1494,7 @@
       "price": 31.62,
       "previous_close": 31.73,
       "change_pct": -0.35,
-      "market_cap": 9589586267.819319,
+      "market_cap": 9489529865.9837,
       "headlines": [
         {
           "title": "Brookfield Renewable Corp's Dividend Analysis",
@@ -1662,7 +1662,7 @@
       "price": 36.42,
       "previous_close": 37.25,
       "change_pct": -2.23,
-      "market_cap": 4800090931.070251,
+      "market_cap": 4812707838.195923,
       "headlines": [
         {
           "title": "Enphase (ENPH) is Preparing for the End of Dutch Net Metering. Will It Boost Batteries or Hurt Solar Demand?",
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 86.4,
-      "change_pct": 3.6
+      "price": 86.56,
+      "change_pct": 3.79
     },
     {
       "label": "Brent",
-      "price": 88.58,
-      "change_pct": -0.82
+      "price": 88.75,
+      "change_pct": -0.63
     },
     {
       "label": "NatGas",
-      "price": 2.93,
-      "change_pct": 1.52
+      "price": 2.94,
+      "change_pct": 1.7
     }
   ]
 }
