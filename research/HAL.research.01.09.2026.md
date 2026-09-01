@@ -18,7 +18,7 @@ Signed file: `HAL.research.01.09.2026`
 | Technical momentum | High | 1Y +65.66%; price +6.73% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -14.01% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 7.16%, revenue growth 3.70%. |
-| Value attractiveness | Reasonable | Forward P/E 12.68, EV/Sales 1.62. |
+| Value attractiveness | Reasonable | Forward P/E 12.68, EV/Sales 1.65. |
 | Risk level | Moderate | Beta 0.75, ATR 2.9% of price, short float 5.04%. |
 
 **Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -68,13 +68,13 @@ Halliburton Company provides products and services to the energy industry worldw
 | Revenue (ttm) | $22.37B | Revenue growth 3.70% y/y |
 | Profitability | Gross 15.08%, operating 12.79%, net 7.16% | ROA 7.26%, ROE 14.92% |
 | Balance sheet | Cash $2.05B, debt $8.20B | Current ratio 2.02, debt/equity 74.19 |
-| Valuation | P/E 19.27, forward P/E 12.68, P/S 1.37, P/B 2.79 | EV/Sales 1.62, EV/EBITDA 8.78 |
+| Valuation | P/E 19.27, forward P/E 12.68, P/S 1.37, P/B 2.79 | EV/Sales 1.65, EV/EBITDA 8.90 |
 | Growth expectations | Earnings growth 16.10%, EPS q/q 13.10% | Analyst mean target $43.12 (25 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 90.48% |
+| Institutional ownership | 90.54% |
 | Insider ownership | 0.40% |
 | Short float | 5.04% |
 | Short ratio (days to cover) | 2.6 |
@@ -110,8 +110,8 @@ Halliburton Company provides products and services to the energy industry worldw
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $36.80 | EV/Sales | 1.62 |
-| Market cap | $30.66B | EV/EBITDA | 8.78 |
+| Price | $36.80 | EV/Sales | 1.65 |
+| Market cap | $30.66B | EV/EBITDA | 8.90 |
 | Beta | 0.75 | Gross margin | 15.08% |
 | RSI(14) | 63.9 | Operating margin | 12.79% |
 | ATR(14) | 1.06 | Profit margin | 7.16% |
@@ -119,7 +119,7 @@ Halliburton Company provides products and services to the energy industry worldw
 | SMA50 dist | +8.48% | ROE | 14.92% |
 | SMA200 dist | +6.73% | Revenue (ttm) | $22.37B |
 | 52W high | $42.80 | Revenue growth y/y | 3.70% |
-| 52W low | $21.26 | Inst. ownership | 90.48% |
+| 52W low | $21.26 | Inst. ownership | 90.54% |
 | P/E (ttm) | 19.27 | Insider ownership | 0.40% |
 | Forward P/E | 12.68 | Short float | 5.04% |
 | PEG (trailing) | 0.87 | Avg volume | 11,838,860 |

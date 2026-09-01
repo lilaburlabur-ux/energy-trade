@@ -36,10 +36,10 @@ SolarEdge Technologies, Inc., together with its subsidiaries, operates as an ene
 
 | Headline | Source | Date |
 |---|---|---|
+| Trump Just Gave SolarEdge Stock a Lift. How You Should Play SEDG Here. | Barchart | 2026-09-01 |
 | Canadian Solar Q2 Loss Wider Than Estimates, Revenues Fall Y/Y | Zacks | 2026-08-27 |
 | Why Are ENPH, FSLR, ARRY, SEDG Stocks Rising Overnight? | Stocktwits | 2026-08-27 |
 | UBS Just Upgraded SolarEdge Stock. Here's Why. | Barchart | 2026-08-26 |
-| Why Is SolarEdge (SEDG) Stock Rocketing Higher Today | StockStory | 2026-08-26 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
