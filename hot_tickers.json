@@ -1,10 +1,27 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-02T16:43:31+00:00",
+  "as_of": "2026-09-02T19:30:32+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": []
+ "hot_tickers": [
+  {
+   "rank": 1,
+   "ticker": "RUN",
+   "company": "Sunrun Inc.",
+   "move_pct": 7.23,
+   "price": 8.98,
+   "volume": 6332943,
+   "volume_vs_avg": "~0.7x",
+   "heat_score": 44,
+   "direction": "up",
+   "why": "Most Active Options Report: DELL, CRDO, GTLB, RUN, ALLY",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/options/articles/most-active-options-report-dell-155239571.html",
+   "published": "2026-09-02T15:52:39Z",
+   "sector": "Renewables & Solar"
+  }
+ ]
 }
