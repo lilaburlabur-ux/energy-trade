@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-02T00:12:27+00:00",
+  "as_of": "2026-09-02T03:44:02+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,18 +9,18 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "BWXT",
-   "company": "BWX Technologies, Inc.",
-   "move_pct": 6.07,
-   "price": 161.54,
-   "volume": 1964235,
-   "volume_vs_avg": "~2x",
-   "heat_score": 46,
-   "direction": "up",
-   "why": "Why BWX Technologies (BWXT) Is Up 7.9% After Army Janus Microreactor Win And Leadership Shift",
+   "ticker": "NXE",
+   "company": "Nexgen Energy Ltd.",
+   "move_pct": -5.16,
+   "price": 9.93,
+   "volume": 5478429,
+   "volume_vs_avg": "~1.1x",
+   "heat_score": 38,
+   "direction": "down",
+   "why": "NexGen Energy Targets 2030 First Ore as Rook I Eyes $1.3B Annual Cash Flow",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/why-bwx-technologies-bwxt-7-221221352.html",
-   "published": "2026-09-01T22:12:21Z",
+   "source_url": "https://finance.yahoo.com/energy/articles/nexgen-energy-targets-2030-first-000245392.html",
+   "published": "2026-09-02T00:02:45Z",
    "sector": "Nuclear & Uranium"
   }
  ]
