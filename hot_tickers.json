@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-01T22:12:19+00:00",
+  "as_of": "2026-09-02T00:12:27+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,16 +11,16 @@
    "rank": 1,
    "ticker": "BWXT",
    "company": "BWX Technologies, Inc.",
-   "move_pct": 6.62,
-   "price": 162.37,
+   "move_pct": 6.07,
+   "price": 161.54,
    "volume": 1964235,
    "volume_vs_avg": "~2x",
-   "heat_score": 48,
+   "heat_score": 46,
    "direction": "up",
-   "why": "BWX Technologies (BWXT) Lands Army Microreactor Role At Fort Campbell",
+   "why": "Why BWX Technologies (BWXT) Is Up 7.9% After Army Janus Microreactor Win And Leadership Shift",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/energy/articles/bwx-technologies-bwxt-lands-army-210625175.html",
-   "published": "2026-09-01T21:06:25Z",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/why-bwx-technologies-bwxt-7-221221352.html",
+   "published": "2026-09-01T22:12:21Z",
    "sector": "Nuclear & Uranium"
   }
  ]
