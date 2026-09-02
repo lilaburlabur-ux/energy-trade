@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-01T23:59:39+00:00",
-  "as_of_local": "2026-09-01 23:59:39 UTC",
+  "as_of_utc": "2026-09-02T01:02:09+00:00",
+  "as_of_local": "2026-09-02 01:02:09 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -433,6 +433,12 @@
       "market_cap": 98545423112.76627,
       "headlines": [
         {
+          "title": "3 AI Stocks With At Least 18% Earnings Growth",
+          "url": "https://finance.yahoo.com/technology/ai/articles/3-ai-stocks-least-18-002235800.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-09-02T00:22:35Z"
+        },
+        {
           "title": "Vertiv Plunges 20% in Three Months: Buy, Sell, or Hold the Stock?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/vertiv-plunges-20-three-months-170700476.html",
           "publisher": "Zacks",
@@ -443,12 +449,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/vertiv-vrt-stock-may-fairly-010750913.html",
           "publisher": "Simply Wall St.",
           "published": "2026-09-01T01:07:50Z"
-        },
-        {
-          "title": "Vertiv Stock Nearly Doubled On The Same Projects That Delayed Its Revenue",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/vertiv-stock-nearly-doubled-same-204026780.html",
-          "publisher": "Trefis",
-          "published": "2026-08-31T20:40:26Z"
         }
       ]
     },
@@ -1609,6 +1609,12 @@
       "market_cap": 6658125787.552223,
       "headlines": [
         {
+          "title": "NexGen Energy Targets 2030 First Ore as Rook I Eyes $1.3B Annual Cash Flow",
+          "url": "https://finance.yahoo.com/energy/articles/nexgen-energy-targets-2030-first-000245392.html",
+          "publisher": "MarketBeat",
+          "published": "2026-09-02T00:02:45Z"
+        },
+        {
           "title": "Is BHP Group (BHP) the Missing Piece in NexGen Energy (NXE)\u2019s $1 Billion Financing Plan?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/bhp-group-bhp-missing-piece-202645157.html",
           "publisher": "Insider Monkey",
@@ -1619,12 +1625,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/nexgen-energy-tsx-nxe-looks-231210769.html",
           "publisher": "Simply Wall St.",
           "published": "2026-08-26T23:12:10Z"
-        },
-        {
-          "title": "Uranium Energy Stock Is Priced On Pounds It Has Not Sold Yet",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/uranium-energy-stock-priced-pounds-212339551.html",
-          "publisher": "Trefis",
-          "published": "2026-08-24T21:23:39Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 90.75,
-      "change_pct": 5.82
+      "price": 91.7,
+      "change_pct": 6.93
     },
     {
       "label": "Brent",
-      "price": 95.24,
-      "change_pct": 5.25
+      "price": 96.27,
+      "change_pct": 6.39
     },
     {
       "label": "NatGas",
-      "price": 2.95,
-      "change_pct": 0.61
+      "price": 2.96,
+      "change_pct": 0.75
     }
   ]
 }
