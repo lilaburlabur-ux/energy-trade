@@ -5,7 +5,7 @@ Signed file: `SHEL.research.02.09.2026`
 | Field | Value |
 |---|---|
 | Current price | $92.80 (2026-09-02, ~15-min delayed) |
-| Market cap | $255.33B |
+| Market cap | $255.24B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -111,7 +111,7 @@ Shell plc operates as an energy and petrochemical company in Europe, Asia, Ocean
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $92.80 | EV/Sales | 1.02 |
-| Market cap | $255.33B | EV/EBITDA | 5.26 |
+| Market cap | $255.24B | EV/EBITDA | 5.26 |
 | Beta | -0.22 | Gross margin | 26.09% |
 | RSI(14) | 61.1 | Operating margin | 16.69% |
 | ATR(14) | 1.43 | Profit margin | 8.76% |

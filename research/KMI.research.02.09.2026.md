@@ -5,7 +5,7 @@ Signed file: `KMI.research.02.09.2026`
 | Field | Value |
 |---|---|
 | Current price | $31.97 (2026-09-02, ~15-min delayed) |
-| Market cap | $71.13B |
+| Market cap | $71.19B |
 | Sector / Industry | Energy / Oil & Gas Midstream |
 | Main theme | Oil & Gas Midstream — see catalysts below |
 | Current stance | Moderate technical momentum, strong fundamentals, value: fair-to-demanding, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `KMI.research.02.09.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +24.37%; price +4.63% vs SMA200. |
+| Technical momentum | Moderate | 1Y +23.26%; price +4.72% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -5.95% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 19.30%, revenue growth 10.80%. |
 | Value attractiveness | Fair-to-demanding | Forward P/E 20.79, EV/Sales 5.85. |
-| Risk level | Moderate | Beta 0.55, ATR 2.4% of price, short float 2.37%. |
+| Risk level | Moderate | Beta 0.55, ATR 2.5% of price, short float 2.37%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: fair-to-demanding, risk: moderate.
 
@@ -45,20 +45,20 @@ Kinder Morgan, Inc. operates as an energy infrastructure company primarily in No
 | Technical item | Read |
 |---|---|
 | Price vs 52-week range | Close $31.97; 52w high $33.99 (-5.95%); 52w low $24.86 (+28.60%) |
-| Trend | +4.63% vs SMA200, +0.37% vs SMA50, +0.71% vs SMA20 |
-| Momentum | RSI(14) 52.0 (neutral) |
-| Volatility | ATR(14) 0.77 (~2.4% of price); beta 0.55 |
+| Trend | +4.72% vs SMA200, +0.33% vs SMA50, +0.78% vs SMA20 |
+| Momentum | RSI(14) 51.8 (neutral) |
+| Volatility | ATR(14) 0.80 (~2.5% of price); beta 0.55 |
 | Setup perspective | -5.95% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -0.2% |
-| Month | +1.9% |
-| Quarter | +2.9% |
-| Half Y | -4.0% |
-| 1Y | +24.4% |
+| Week | +3.3% |
+| Month | +1.8% |
+| Quarter | +2.6% |
+| Half Y | -4.1% |
+| 1Y | +23.3% |
 | YTD | +18.7% |
 
 ## 4. Fundamental Analysis
@@ -112,13 +112,13 @@ Kinder Morgan, Inc. operates as an energy infrastructure company primarily in No
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $31.97 | EV/Sales | 5.85 |
-| Market cap | $71.13B | EV/EBITDA | 13.76 |
+| Market cap | $71.19B | EV/EBITDA | 13.76 |
 | Beta | 0.55 | Gross margin | 49.41% |
-| RSI(14) | 52.0 | Operating margin | 30.06% |
-| ATR(14) | 0.77 | Profit margin | 19.30% |
-| SMA20 dist | +0.71% | ROA | 4.45% |
-| SMA50 dist | +0.37% | ROE | 10.99% |
-| SMA200 dist | +4.63% | Revenue (ttm) | $17.96B |
+| RSI(14) | 51.8 | Operating margin | 30.06% |
+| ATR(14) | 0.80 | Profit margin | 19.30% |
+| SMA20 dist | +0.78% | ROA | 4.45% |
+| SMA50 dist | +0.33% | ROE | 10.99% |
+| SMA200 dist | +4.72% | Revenue (ttm) | $17.96B |
 | 52W high | $33.99 | Revenue growth y/y | 10.80% |
 | 52W low | $24.86 | Inst. ownership | 70.92% |
 | P/E (ttm) | 20.63 | Insider ownership | 12.70% |

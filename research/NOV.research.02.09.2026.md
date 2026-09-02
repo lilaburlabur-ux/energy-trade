@@ -15,11 +15,11 @@ Signed file: `NOV.research.02.09.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +69.73%; price +15.82% vs SMA200. |
+| Technical momentum | High | 1Y +67.30%; price +16.01% vs SMA200. |
 | Fresh setup quality | Moderate / wait | +0.00% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 1.10%, revenue growth -2.50%. |
 | Value attractiveness | Reasonable | Forward P/E 16.96, EV/Sales 1.02. |
-| Risk level | High | Beta 0.94, ATR 3.2% of price, short float 13.31%. |
+| Risk level | High | Beta 0.94, ATR 3.3% of price, short float 13.31%. |
 
 **Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: high.
 
@@ -45,20 +45,20 @@ NOV Inc. designs, constructs, manufactures, and sells systems, components, and p
 | Technical item | Read |
 |---|---|
 | Price vs 52-week range | Close $21.71; 52w high $21.71 (+0.00%); 52w low $12.09 (+79.60%) |
-| Trend | +15.82% vs SMA200, +9.65% vs SMA50, +4.89% vs SMA20 |
-| Momentum | RSI(14) 63.4 (neutral) |
-| Volatility | ATR(14) 0.69 (~3.2% of price); beta 0.94 |
+| Trend | +16.01% vs SMA200, +9.90% vs SMA50, +5.27% vs SMA20 |
+| Momentum | RSI(14) 63.0 (neutral) |
+| Volatility | ATR(14) 0.71 (~3.3% of price); beta 0.94 |
 | Setup perspective | +0.00% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +7.3% |
-| Month | +8.6% |
-| Quarter | +4.7% |
-| Half Y | +12.8% |
-| 1Y | +69.7% |
+| Week | +8.9% |
+| Month | +11.4% |
+| Quarter | +6.6% |
+| Half Y | +13.2% |
+| 1Y | +67.3% |
 | YTD | +34.1% |
 
 ## 4. Fundamental Analysis
@@ -95,7 +95,7 @@ NOV Inc. designs, constructs, manufactures, and sells systems, components, and p
 | American Century Companies Inc | 10,367,359 | 2.91% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 0.94, ATR 3.2% of price, short float 13.31%. Size positions accordingly.
+- **Volatility risk:** Beta 0.94, ATR 3.3% of price, short float 13.31%. Size positions accordingly.
 - **Short interest risk:** short float 13.31% can fuel squeezes both ways around news.
 - **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
@@ -115,11 +115,11 @@ NOV Inc. designs, constructs, manufactures, and sells systems, components, and p
 | Price | $21.71 | EV/Sales | 1.02 |
 | Market cap | $7.74B | EV/EBITDA | 8.96 |
 | Beta | 0.94 | Gross margin | 21.65% |
-| RSI(14) | 63.4 | Operating margin | 7.17% |
-| ATR(14) | 0.69 | Profit margin | 1.10% |
-| SMA20 dist | +4.89% | ROA | 3.45% |
-| SMA50 dist | +9.65% | ROE | 1.54% |
-| SMA200 dist | +15.82% | Revenue (ttm) | $8.64B |
+| RSI(14) | 63.0 | Operating margin | 7.17% |
+| ATR(14) | 0.71 | Profit margin | 1.10% |
+| SMA20 dist | +5.27% | ROA | 3.45% |
+| SMA50 dist | +9.90% | ROE | 1.54% |
+| SMA200 dist | +16.01% | Revenue (ttm) | $8.64B |
 | 52W high | $21.71 | Revenue growth y/y | -2.50% |
 | 52W low | $12.09 | Inst. ownership | 108.47% |
 | P/E (ttm) | 80.41 | Insider ownership | 0.73% |

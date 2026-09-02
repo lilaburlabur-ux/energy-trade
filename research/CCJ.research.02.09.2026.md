@@ -15,11 +15,11 @@ Signed file: `CCJ.research.02.09.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-8.38%) with negative half-year (-19.84%). |
+| Technical momentum | Low | Below SMA200 (-8.32%) with negative half-year (-18.18%). |
 | Fresh setup quality | Poor / broken | -28.12% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 10.21%, revenue growth -7.20%. |
 | Value attractiveness | Low (expensive) | Forward P/E 51.29, EV/Sales 12.10. |
-| Risk level | Elevated | Beta 0.99, ATR 4.2% of price, short float —. |
+| Risk level | Elevated | Beta 0.99, ATR 4.4% of price, short float —. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: low (expensive), risk: elevated.
 
@@ -44,21 +44,21 @@ Cameco Corporation provides uranium for the generation of electricity in the Ame
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $96.38; 52w high $134.09 (-28.12%); 52w low $75.70 (+27.31%) |
-| Trend | -8.38% vs SMA200, +0.85% vs SMA50, -2.97% vs SMA20 |
-| Momentum | RSI(14) 46.7 (neutral) |
-| Volatility | ATR(14) 4.06 (~4.2% of price); beta 0.99 |
+| Price vs 52-week range | Close $96.38; 52w high $134.09 (-28.12%); 52w low $75.27 (+28.04%) |
+| Trend | -8.32% vs SMA200, +0.66% vs SMA50, -2.69% vs SMA20 |
+| Momentum | RSI(14) 47.1 (neutral) |
+| Volatility | ATR(14) 4.28 (~4.4% of price); beta 0.99 |
 | Setup perspective | -28.12% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -10.2% |
-| Month | +3.5% |
-| Quarter | -15.9% |
-| Half Y | -19.8% |
-| 1Y | +28.0% |
+| Week | -9.9% |
+| Month | +7.4% |
+| Quarter | -20.0% |
+| Half Y | -18.2% |
+| 1Y | +24.8% |
 | YTD | -2.2% |
 
 ## 4. Fundamental Analysis
@@ -69,7 +69,7 @@ Cameco Corporation provides uranium for the generation of electricity in the Ame
 | Profitability | Gross 35.11%, operating 9.11%, net 10.21% | ROA 2.98%, ROE 5.11% |
 | Balance sheet | Cash $1.11B, debt $1.22B | Current ratio 3.06, debt/equity 17.13 |
 | Valuation | P/E 163.36, forward P/E 51.29, P/S 12.08, P/B 8.15 | EV/Sales 12.10, EV/EBITDA 52.64 |
-| Growth expectations | Earnings growth -92.10%, EPS q/q -92.10% | Analyst mean target $130.20 (11 analysts) |
+| Growth expectations | Earnings growth -92.10%, EPS q/q -92.10% | Analyst mean target $130.15 (11 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
@@ -96,7 +96,7 @@ Cameco Corporation provides uranium for the generation of electricity in the Ame
 
 ## 6. Risk Review and Setup Plan
 - **Valuation risk:** Forward P/E 51.29, EV/Sales 12.10. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 0.99, ATR 4.2% of price, short float —. Size positions accordingly.
+- **Volatility risk:** Beta 0.99, ATR 4.4% of price, short float —. Size positions accordingly.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -115,13 +115,13 @@ Cameco Corporation provides uranium for the generation of electricity in the Ame
 | Price | $96.38 | EV/Sales | 12.10 |
 | Market cap | $41.98B | EV/EBITDA | 52.64 |
 | Beta | 0.99 | Gross margin | 35.11% |
-| RSI(14) | 46.7 | Operating margin | 9.11% |
-| ATR(14) | 4.06 | Profit margin | 10.21% |
-| SMA20 dist | -2.97% | ROA | 2.98% |
-| SMA50 dist | +0.85% | ROE | 5.11% |
-| SMA200 dist | -8.38% | Revenue (ttm) | $3.47B |
+| RSI(14) | 47.1 | Operating margin | 9.11% |
+| ATR(14) | 4.28 | Profit margin | 10.21% |
+| SMA20 dist | -2.69% | ROA | 2.98% |
+| SMA50 dist | +0.66% | ROE | 5.11% |
+| SMA200 dist | -8.32% | Revenue (ttm) | $3.47B |
 | 52W high | $134.09 | Revenue growth y/y | -7.20% |
-| 52W low | $75.70 | Inst. ownership | 69.82% |
+| 52W low | $75.27 | Inst. ownership | 69.82% |
 | P/E (ttm) | 163.36 | Insider ownership | 0.14% |
 | Forward P/E | 51.29 | Short float | — |
 | PEG (trailing) | — | Avg volume | 3,346,476 |

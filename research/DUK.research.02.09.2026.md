@@ -15,11 +15,11 @@ Signed file: `DUK.research.02.09.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-1.45%) with negative half-year (-6.98%). |
+| Technical momentum | Low | Below SMA200 (-1.45%) with negative half-year (-6.66%). |
 | Fresh setup quality | Moderate / wait | -8.08% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 16.00%, revenue growth 1.10%. |
 | Value attractiveness | Reasonable | Forward P/E 16.81, EV/Sales 5.75. |
-| Risk level | Moderate | Beta 0.37, ATR 1.6% of price, short float 2.55%. |
+| Risk level | Moderate | Beta 0.37, ATR 1.7% of price, short float 2.55%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
@@ -45,20 +45,20 @@ Duke Energy Corporation, through its subsidiaries, operates as an energy company
 | Technical item | Read |
 |---|---|
 | Price vs 52-week range | Close $120.56; 52w high $131.16 (-8.08%); 52w low $111.09 (+8.52%) |
-| Trend | -1.45% vs SMA200, -2.92% vs SMA50, -1.17% vs SMA20 |
-| Momentum | RSI(14) 42.2 (neutral) |
-| Volatility | ATR(14) 1.97 (~1.6% of price); beta 0.37 |
+| Trend | -1.45% vs SMA200, -2.98% vs SMA50, -1.25% vs SMA20 |
+| Momentum | RSI(14) 42.1 (neutral) |
+| Volatility | ATR(14) 2.00 (~1.7% of price); beta 0.37 |
 | Setup perspective | -8.08% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -1.1% |
+| Week | -0.8% |
 | Month | -2.1% |
-| Quarter | +0.5% |
-| Half Y | -7.0% |
-| 1Y | +2.4% |
+| Quarter | +0.4% |
+| Half Y | -6.7% |
+| 1Y | +1.9% |
 | YTD | +5.3% |
 
 ## 4. Fundamental Analysis
@@ -112,10 +112,10 @@ Duke Energy Corporation, through its subsidiaries, operates as an energy company
 | Price | $120.56 | EV/Sales | 5.75 |
 | Market cap | $94.00B | EV/EBITDA | 11.34 |
 | Beta | 0.37 | Gross margin | 51.97% |
-| RSI(14) | 42.2 | Operating margin | 27.50% |
-| ATR(14) | 1.97 | Profit margin | 16.00% |
-| SMA20 dist | -1.17% | ROA | 2.84% |
-| SMA50 dist | -2.92% | ROE | 9.86% |
+| RSI(14) | 42.1 | Operating margin | 27.50% |
+| ATR(14) | 2.00 | Profit margin | 16.00% |
+| SMA20 dist | -1.25% | ROA | 2.84% |
+| SMA50 dist | -2.98% | ROE | 9.86% |
 | SMA200 dist | -1.45% | Revenue (ttm) | $32.80B |
 | 52W high | $131.16 | Revenue growth y/y | 1.10% |
 | 52W low | $111.09 | Inst. ownership | 71.14% |

@@ -15,7 +15,7 @@ Signed file: `WMB.research.02.09.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +35.14%; price +8.27% vs SMA200. |
+| Technical momentum | Moderate | 1Y +33.97%; price +8.39% vs SMA200. |
 | Fresh setup quality | Watch | -4.64% from 52w high and near SMA20 — check for a tight base. |
 | Fundamental quality | Mixed | Profit margin 24.94%, revenue growth 7.80%. |
 | Value attractiveness | Fair-to-demanding | Forward P/E 28.68, EV/Sales 10.13. |
@@ -45,20 +45,20 @@ The Williams Companies, Inc., together with its subsidiaries, operates as an ene
 | Technical item | Read |
 |---|---|
 | Price vs 52-week range | Close $75.16; 52w high $78.82 (-4.64%); 52w low $55.10 (+36.40%) |
-| Trend | +8.27% vs SMA200, +2.29% vs SMA50, +2.81% vs SMA20 |
-| Momentum | RSI(14) 57.3 (neutral) |
-| Volatility | ATR(14) 2.07 (~2.8% of price); beta 0.61 |
+| Trend | +8.39% vs SMA200, +2.23% vs SMA50, +2.95% vs SMA20 |
+| Momentum | RSI(14) 57.4 (neutral) |
+| Volatility | ATR(14) 2.12 (~2.8% of price); beta 0.61 |
 | Setup perspective | -4.64% from 52w high and near SMA20 — check for a tight base. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +1.0% |
-| Month | +5.1% |
-| Quarter | +5.7% |
-| Half Y | +0.6% |
-| 1Y | +35.1% |
+| Week | +5.7% |
+| Month | +6.7% |
+| Quarter | +6.2% |
+| Half Y | +0.5% |
+| 1Y | +34.0% |
 | YTD | +25.3% |
 
 ## 4. Fundamental Analysis
@@ -114,11 +114,11 @@ The Williams Companies, Inc., together with its subsidiaries, operates as an ene
 | Price | $75.16 | EV/Sales | 10.13 |
 | Market cap | $91.93B | EV/EBITDA | 17.75 |
 | Beta | 0.61 | Gross margin | 63.64% |
-| RSI(14) | 57.3 | Operating margin | 39.54% |
-| ATR(14) | 2.07 | Profit margin | 24.94% |
-| SMA20 dist | +2.81% | ROA | 5.03% |
-| SMA50 dist | +2.29% | ROE | 21.50% |
-| SMA200 dist | +8.27% | Revenue (ttm) | $12.32B |
+| RSI(14) | 57.4 | Operating margin | 39.54% |
+| ATR(14) | 2.12 | Profit margin | 24.94% |
+| SMA20 dist | +2.95% | ROA | 5.03% |
+| SMA50 dist | +2.23% | ROE | 21.50% |
+| SMA200 dist | +8.39% | Revenue (ttm) | $12.32B |
 | 52W high | $78.82 | Revenue growth y/y | 7.80% |
 | 52W low | $55.10 | Inst. ownership | 91.43% |
 | P/E (ttm) | 29.94 | Insider ownership | 0.45% |

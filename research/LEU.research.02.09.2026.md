@@ -15,11 +15,11 @@ Signed file: `LEU.research.02.09.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-18.86%) with negative half-year (-15.56%). |
+| Technical momentum | Low | Below SMA200 (-19.01%) with negative half-year (-13.10%). |
 | Fresh setup quality | Poor / broken | -60.67% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 10.23%, revenue growth 14.00%. |
 | Value attractiveness | Low (expensive) | Forward P/E 44.86, EV/Sales 5.63. |
-| Risk level | High | Beta 1.35, ATR 7.2% of price, short float 29.16%. |
+| Risk level | High | Beta 1.35, ATR 7.5% of price, short float 29.16%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: low (expensive), risk: high.
 
@@ -45,20 +45,20 @@ Centrus Energy Corp. supplies nuclear fuel components for the nuclear power indu
 | Technical item | Read |
 |---|---|
 | Price vs 52-week range | Close $171.49; 52w high $436.00 (-60.67%); 52w low $146.61 (+16.97%) |
-| Trend | -18.86% vs SMA200, -1.53% vs SMA50, -6.31% vs SMA20 |
-| Momentum | RSI(14) 45.9 (neutral) |
-| Volatility | ATR(14) 12.36 (~7.2% of price); beta 1.35 |
+| Trend | -19.01% vs SMA200, -1.55% vs SMA50, -6.61% vs SMA20 |
+| Momentum | RSI(14) 46.0 (neutral) |
+| Volatility | ATR(14) 12.86 (~7.5% of price); beta 1.35 |
 | Setup perspective | -60.67% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -8.6% |
-| Month | -9.4% |
-| Quarter | -5.6% |
-| Half Y | -15.6% |
-| 1Y | -15.9% |
+| Week | -11.3% |
+| Month | -7.2% |
+| Quarter | -13.9% |
+| Half Y | -13.1% |
+| 1Y | -15.0% |
 | YTD | -37.1% |
 
 ## 4. Fundamental Analysis
@@ -96,7 +96,7 @@ Centrus Energy Corp. supplies nuclear fuel components for the nuclear power indu
 
 ## 6. Risk Review and Setup Plan
 - **Valuation risk:** Forward P/E 44.86, EV/Sales 5.63. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 1.35, ATR 7.2% of price, short float 29.16%. Size positions accordingly.
+- **Volatility risk:** Beta 1.35, ATR 7.5% of price, short float 29.16%. Size positions accordingly.
 - **Short interest risk:** short float 29.16% can fuel squeezes both ways around news.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
@@ -116,11 +116,11 @@ Centrus Energy Corp. supplies nuclear fuel components for the nuclear power indu
 | Price | $171.49 | EV/Sales | 5.63 |
 | Market cap | $3.42B | EV/EBITDA | 264.09 |
 | Beta | 1.35 | Gross margin | 23.66% |
-| RSI(14) | 45.9 | Operating margin | 5.34% |
-| ATR(14) | 12.36 | Profit margin | 10.23% |
-| SMA20 dist | -6.31% | ROA | 0.02% |
-| SMA50 dist | -1.53% | ROE | 8.05% |
-| SMA200 dist | -18.86% | Revenue (ttm) | $473.90M |
+| RSI(14) | 46.0 | Operating margin | 5.34% |
+| ATR(14) | 12.86 | Profit margin | 10.23% |
+| SMA20 dist | -6.61% | ROA | 0.02% |
+| SMA50 dist | -1.55% | ROE | 8.05% |
+| SMA200 dist | -19.01% | Revenue (ttm) | $473.90M |
 | 52W high | $436.00 | Revenue growth y/y | 14.00% |
 | 52W low | $146.61 | Inst. ownership | 89.21% |
 | P/E (ttm) | 90.74 | Insider ownership | 4.31% |

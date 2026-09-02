@@ -5,7 +5,7 @@ Signed file: `SU.research.02.09.2026`
 | Field | Value |
 |---|---|
 | Current price | $68.39 (2026-09-02, ~15-min delayed) |
-| Market cap | $79.99B |
+| Market cap | $80.75B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
 | Current stance | High technical momentum, strong fundamentals, value: reasonable, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `SU.research.02.09.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +67.94%; price +19.04% vs SMA200. |
-| Fresh setup quality | Watch | -1.27% from 52w high and near SMA20 — check for a tight base. |
+| Technical momentum | High | 1Y +67.98%; price +19.27% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -1.27% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 15.78%, revenue growth 45.90%. |
 | Value attractiveness | Reasonable | Forward P/E 11.89, EV/Sales 1.59. |
-| Risk level | Moderate | Beta 0.57, ATR 2.5% of price, short float —. |
+| Risk level | Moderate | Beta 0.57, ATR 2.4% of price, short float —. |
 
 **Bottom line:** High technical momentum, strong fundamentals, value: reasonable, risk: moderate.
 
@@ -45,20 +45,20 @@ Suncor Energy Inc. operates as an integrated energy company in Canada, the Unite
 | Technical item | Read |
 |---|---|
 | Price vs 52-week range | Close $68.39; 52w high $69.27 (-1.27%); 52w low $37.63 (+81.76%) |
-| Trend | +19.04% vs SMA200, +9.17% vs SMA50, +4.00% vs SMA20 |
-| Momentum | RSI(14) 60.3 (neutral) |
-| Volatility | ATR(14) 1.70 (~2.5% of price); beta 0.57 |
-| Setup perspective | -1.27% from 52w high and near SMA20 — check for a tight base. |
+| Trend | +19.27% vs SMA200, +9.48% vs SMA50, +4.21% vs SMA20 |
+| Momentum | RSI(14) 61.1 (neutral) |
+| Volatility | ATR(14) 1.67 (~2.4% of price); beta 0.57 |
+| Setup perspective | -1.27% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +4.1% |
-| Month | +6.1% |
-| Quarter | +5.0% |
-| Half Y | +20.1% |
-| 1Y | +67.9% |
+| Week | +4.6% |
+| Month | +3.7% |
+| Quarter | +5.4% |
+| Half Y | +21.4% |
+| 1Y | +68.0% |
 | YTD | +52.2% |
 
 ## 4. Fundamental Analysis
@@ -68,7 +68,7 @@ Suncor Energy Inc. operates as an integrated energy company in Canada, the Unite
 | Revenue (ttm) | $56.57B | Revenue growth 45.90% y/y |
 | Profitability | Gross 60.40%, operating 29.94%, net 15.78% | ROA 8.58%, ROE 19.25% |
 | Balance sheet | Cash $5.37B, debt $14.68B | Current ratio 1.65, debt/equity 30.48 |
-| Valuation | P/E 12.69, forward P/E 11.89, P/S 1.41, P/B 2.32 | EV/Sales 1.59, EV/EBITDA 4.61 |
+| Valuation | P/E 12.69, forward P/E 11.89, P/S 1.43, P/B 2.32 | EV/Sales 1.59, EV/EBITDA 4.61 |
 | Growth expectations | Earnings growth 241.90%, EPS q/q 229.10% | Analyst mean target $70.72 (3 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -111,19 +111,19 @@ Suncor Energy Inc. operates as an integrated energy company in Canada, the Unite
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $68.39 | EV/Sales | 1.59 |
-| Market cap | $79.99B | EV/EBITDA | 4.61 |
+| Market cap | $80.75B | EV/EBITDA | 4.61 |
 | Beta | 0.57 | Gross margin | 60.40% |
-| RSI(14) | 60.3 | Operating margin | 29.94% |
-| ATR(14) | 1.70 | Profit margin | 15.78% |
-| SMA20 dist | +4.00% | ROA | 8.58% |
-| SMA50 dist | +9.17% | ROE | 19.25% |
-| SMA200 dist | +19.04% | Revenue (ttm) | $56.57B |
+| RSI(14) | 61.1 | Operating margin | 29.94% |
+| ATR(14) | 1.67 | Profit margin | 15.78% |
+| SMA20 dist | +4.21% | ROA | 8.58% |
+| SMA50 dist | +9.48% | ROE | 19.25% |
+| SMA200 dist | +19.27% | Revenue (ttm) | $56.57B |
 | 52W high | $69.27 | Revenue growth y/y | 45.90% |
 | 52W low | $37.63 | Inst. ownership | 72.95% |
 | P/E (ttm) | 12.69 | Insider ownership | 0.01% |
 | Forward P/E | 11.89 | Short float | — |
 | PEG (trailing) | — | Avg volume | 4,600,961 |
-| P/S | 1.41 | Employees | 15,424 |
+| P/S | 1.43 | Employees | 15,424 |
 | P/B | 2.32 | Analyst rec (1=buy..5=sell) | 1.9 |
 
 ## 8. Analyst Actions

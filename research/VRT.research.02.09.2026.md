@@ -15,11 +15,11 @@ Signed file: `VRT.research.02.09.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +107.23%; price +0.16% vs SMA200. |
+| Technical momentum | High | 1Y +101.48%; price +0.34% vs SMA200. |
 | Fresh setup quality | Poor / broken | -31.76% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 15.09%, revenue growth 24.10%. |
 | Value attractiveness | Fair-to-demanding | Forward P/E 28.21, EV/Sales 8.60. |
-| Risk level | High | Beta 2.08, ATR 5.5% of price, short float 3.40%. |
+| Risk level | High | Beta 2.08, ATR 5.7% of price, short float 3.40%. |
 
 **Bottom line:** High technical momentum, strong fundamentals, value: fair-to-demanding, risk: high.
 
@@ -45,20 +45,20 @@ Vertiv Holdings Co designs, manufactures, and services critical digital infrastr
 | Technical item | Read |
 |---|---|
 | Price vs 52-week range | Close $256.70; 52w high $376.15 (-31.76%); 52w low $121.69 (+110.95%) |
-| Trend | +0.16% vs SMA200, -9.79% vs SMA50, -4.81% vs SMA20 |
-| Momentum | RSI(14) 42.3 (neutral) |
-| Volatility | ATR(14) 14.02 (~5.5% of price); beta 2.08 |
+| Trend | +0.34% vs SMA200, -10.17% vs SMA50, -5.18% vs SMA20 |
+| Momentum | RSI(14) 42.1 (neutral) |
+| Volatility | ATR(14) 14.54 (~5.7% of price); beta 2.08 |
 | Setup perspective | -31.76% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -2.7% |
-| Month | -4.9% |
-| Quarter | -22.5% |
-| Half Y | +2.2% |
-| 1Y | +107.2% |
+| Week | +0.4% |
+| Month | -2.4% |
+| Quarter | -23.2% |
+| Half Y | +5.1% |
+| 1Y | +101.5% |
 | YTD | +46.2% |
 
 ## 4. Fundamental Analysis
@@ -96,7 +96,7 @@ Vertiv Holdings Co designs, manufactures, and services critical digital infrastr
 
 ## 6. Risk Review and Setup Plan
 - **Valuation risk:** Forward P/E 28.21, EV/Sales 8.60. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 2.08, ATR 5.5% of price, short float 3.40%. Size positions accordingly.
+- **Volatility risk:** Beta 2.08, ATR 5.7% of price, short float 3.40%. Size positions accordingly.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -115,11 +115,11 @@ Vertiv Holdings Co designs, manufactures, and services critical digital infrastr
 | Price | $256.70 | EV/Sales | 8.60 |
 | Market cap | $98.83B | EV/EBITDA | 36.87 |
 | Beta | 2.08 | Gross margin | 38.04% |
-| RSI(14) | 42.3 | Operating margin | 20.36% |
-| ATR(14) | 14.02 | Profit margin | 15.09% |
-| SMA20 dist | -4.81% | ROA | 10.89% |
-| SMA50 dist | -9.79% | ROE | 43.94% |
-| SMA200 dist | +0.16% | Revenue (ttm) | $11.48B |
+| RSI(14) | 42.1 | Operating margin | 20.36% |
+| ATR(14) | 14.54 | Profit margin | 15.09% |
+| SMA20 dist | -5.18% | ROA | 10.89% |
+| SMA50 dist | -10.17% | ROE | 43.94% |
+| SMA200 dist | +0.34% | Revenue (ttm) | $11.48B |
 | 52W high | $376.15 | Revenue growth y/y | 24.10% |
 | 52W low | $121.69 | Inst. ownership | 84.46% |
 | P/E (ttm) | 57.95 | Insider ownership | 0.27% |

@@ -15,11 +15,11 @@ Signed file: `AR.research.02.09.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +22.00%; price +9.31% vs SMA200. |
+| Technical momentum | Moderate | 1Y +24.03%; price +9.37% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -12.31% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 18.75%, revenue growth 12.60%. |
 | Value attractiveness | Reasonable | Forward P/E 9.16, EV/Sales —. |
-| Risk level | Moderate | Beta 0.34, ATR 2.7% of price, short float 4.44%. |
+| Risk level | Moderate | Beta 0.34, ATR 2.8% of price, short float 4.44%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate.
 
@@ -45,20 +45,20 @@ Antero Resources Corporation, an independent oil and natural gas company, engage
 | Technical item | Read |
 |---|---|
 | Price vs 52-week range | Close $39.59; 52w high $45.15 (-12.31%); 52w low $30.03 (+31.83%) |
-| Trend | +9.31% vs SMA200, +10.57% vs SMA50, +5.36% vs SMA20 |
-| Momentum | RSI(14) 67.9 (neutral) |
-| Volatility | ATR(14) 1.07 (~2.7% of price); beta 0.34 |
+| Trend | +9.37% vs SMA200, +10.81% vs SMA50, +5.94% vs SMA20 |
+| Momentum | RSI(14) 67.8 (neutral) |
+| Volatility | ATR(14) 1.09 (~2.8% of price); beta 0.34 |
 | Setup perspective | -12.31% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +2.8% |
-| Month | +10.9% |
-| Quarter | +8.4% |
-| Half Y | +4.8% |
-| 1Y | +22.0% |
+| Week | +4.3% |
+| Month | +8.5% |
+| Quarter | +9.2% |
+| Half Y | +5.3% |
+| 1Y | +24.0% |
 | YTD | +15.7% |
 
 ## 4. Fundamental Analysis
@@ -112,11 +112,11 @@ Antero Resources Corporation, an independent oil and natural gas company, engage
 | Price | $39.59 | EV/Sales | — |
 | Market cap | $12.17B | EV/EBITDA | — |
 | Beta | 0.34 | Gross margin | 67.15% |
-| RSI(14) | 67.9 | Operating margin | 26.02% |
-| ATR(14) | 1.07 | Profit margin | 18.75% |
-| SMA20 dist | +5.36% | ROA | 6.61% |
-| SMA50 dist | +10.57% | ROE | 14.22% |
-| SMA200 dist | +9.31% | Revenue (ttm) | $5.78B |
+| RSI(14) | 67.8 | Operating margin | 26.02% |
+| ATR(14) | 1.09 | Profit margin | 18.75% |
+| SMA20 dist | +5.94% | ROA | 6.61% |
+| SMA50 dist | +10.81% | ROE | 14.22% |
+| SMA200 dist | +9.37% | Revenue (ttm) | $5.78B |
 | 52W high | $45.15 | Revenue growth y/y | 12.60% |
 | 52W low | $30.03 | Inst. ownership | 91.54% |
 | P/E (ttm) | 11.34 | Insider ownership | 4.41% |

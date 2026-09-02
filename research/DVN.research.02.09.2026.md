@@ -15,7 +15,7 @@ Signed file: `DVN.research.02.09.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +38.12%; price +13.87% vs SMA200. |
+| Technical momentum | Moderate | 1Y +39.34%; price +14.04% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -5.17% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 17.46%, revenue growth 64.20%. |
 | Value attractiveness | Reasonable | Forward P/E 9.03, EV/Sales 3.46. |
@@ -45,20 +45,20 @@ Devon Energy Corporation, an independent energy company, engages in the explorat
 | Technical item | Read |
 |---|---|
 | Price vs 52-week range | Close $49.03; 52w high $51.70 (-5.17%); 52w low $31.15 (+57.39%) |
-| Trend | +13.87% vs SMA200, +9.97% vs SMA50, +4.66% vs SMA20 |
-| Momentum | RSI(14) 63.9 (neutral) |
-| Volatility | ATR(14) 1.25 (~2.6% of price); beta 0.42 |
+| Trend | +14.04% vs SMA200, +10.17% vs SMA50, +5.25% vs SMA20 |
+| Momentum | RSI(14) 63.5 (neutral) |
+| Volatility | ATR(14) 1.29 (~2.6% of price); beta 0.42 |
 | Setup perspective | -5.17% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +4.7% |
-| Month | +11.3% |
-| Quarter | +6.9% |
-| Half Y | +14.1% |
-| 1Y | +38.1% |
+| Week | +4.5% |
+| Month | +10.0% |
+| Quarter | +6.8% |
+| Half Y | +12.8% |
+| 1Y | +39.3% |
 | YTD | +31.1% |
 
 ## 4. Fundamental Analysis
@@ -113,11 +113,11 @@ Devon Energy Corporation, an independent energy company, engages in the explorat
 | Price | $49.03 | EV/Sales | 3.46 |
 | Market cap | $53.93B | EV/EBITDA | 7.27 |
 | Beta | 0.42 | Gross margin | 50.35% |
-| RSI(14) | 63.9 | Operating margin | 41.08% |
-| ATR(14) | 1.25 | Profit margin | 17.46% |
-| SMA20 dist | +4.66% | ROA | 5.91% |
-| SMA50 dist | +9.97% | ROE | 11.52% |
-| SMA200 dist | +13.87% | Revenue (ttm) | $18.78B |
+| RSI(14) | 63.5 | Operating margin | 41.08% |
+| ATR(14) | 1.29 | Profit margin | 17.46% |
+| SMA20 dist | +5.25% | ROA | 5.91% |
+| SMA50 dist | +10.17% | ROE | 11.52% |
+| SMA200 dist | +14.04% | Revenue (ttm) | $18.78B |
 | 52W high | $51.70 | Revenue growth y/y | 64.20% |
 | 52W low | $31.15 | Inst. ownership | 94.70% |
 | P/E (ttm) | 10.66 | Insider ownership | 0.70% |

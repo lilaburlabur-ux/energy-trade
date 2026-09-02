@@ -15,11 +15,11 @@ Signed file: `FTI.research.02.09.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +112.86%; price +24.58% vs SMA200. |
+| Technical momentum | High | 1Y +117.44%; price +24.90% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -0.11% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 11.28%, revenue growth 9.00%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 22.14, EV/Sales 2.97. |
-| Risk level | Elevated | Beta 0.74, ATR 3.0% of price, short float 3.35%. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 22.14, EV/Sales 3.02. |
+| Risk level | Elevated | Beta 0.74, ATR 3.1% of price, short float 3.35%. |
 
 **Bottom line:** High technical momentum, mixed fundamentals, value: fair-to-demanding, risk: elevated.
 
@@ -45,20 +45,20 @@ TechnipFMC plc engages in the oil and natural gas projects, technologies, system
 | Technical item | Read |
 |---|---|
 | Price vs 52-week range | Close $79.67; 52w high $79.76 (-0.11%); 52w low $35.45 (+124.71%) |
-| Trend | +24.58% vs SMA200, +9.53% vs SMA50, +4.55% vs SMA20 |
-| Momentum | RSI(14) 64.4 (neutral) |
-| Volatility | ATR(14) 2.42 (~3.0% of price); beta 0.74 |
+| Trend | +24.90% vs SMA200, +9.83% vs SMA50, +5.00% vs SMA20 |
+| Momentum | RSI(14) 64.5 (neutral) |
+| Volatility | ATR(14) 2.44 (~3.1% of price); beta 0.74 |
 | Setup perspective | -0.11% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +5.2% |
-| Month | +13.9% |
-| Quarter | +17.3% |
-| Half Y | +22.3% |
-| 1Y | +112.9% |
+| Week | +5.9% |
+| Month | +15.2% |
+| Quarter | +14.8% |
+| Half Y | +20.7% |
+| 1Y | +117.4% |
 | YTD | +68.8% |
 
 ## 4. Fundamental Analysis
@@ -68,7 +68,7 @@ TechnipFMC plc engages in the oil and natural gas projects, technologies, system
 | Revenue (ttm) | $10.42B | Revenue growth 9.00% y/y |
 | Profitability | Gross 22.97%, operating 17.69%, net 11.28% | ROA 9.53%, ROE 35.81% |
 | Balance sheet | Cash $991.80M, debt $1.24B | Current ratio 1.08, debt/equity 37.90 |
-| Valuation | P/E 27.86, forward P/E 22.14, P/S 3.00, P/B 9.57 | EV/Sales 2.97, EV/EBITDA 15.61 |
+| Valuation | P/E 27.86, forward P/E 22.14, P/S 3.00, P/B 9.57 | EV/Sales 3.02, EV/EBITDA 15.88 |
 | Growth expectations | Earnings growth 40.60%, EPS q/q 34.60% | Analyst mean target $75.81 (21 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,8 +95,8 @@ TechnipFMC plc engages in the oil and natural gas projects, technologies, system
 | T. Rowe Price Investment Management, Inc. | 9,275,901 | 2.37% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 22.14, EV/Sales 2.97. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 0.74, ATR 3.0% of price, short float 3.35%. Size positions accordingly.
+- **Valuation risk:** Forward P/E 22.14, EV/Sales 3.02. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 0.74, ATR 3.1% of price, short float 3.35%. Size positions accordingly.
 - **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -112,14 +112,14 @@ TechnipFMC plc engages in the oil and natural gas projects, technologies, system
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $79.67 | EV/Sales | 2.97 |
-| Market cap | $31.24B | EV/EBITDA | 15.61 |
+| Price | $79.67 | EV/Sales | 3.02 |
+| Market cap | $31.24B | EV/EBITDA | 15.88 |
 | Beta | 0.74 | Gross margin | 22.97% |
-| RSI(14) | 64.4 | Operating margin | 17.69% |
-| ATR(14) | 2.42 | Profit margin | 11.28% |
-| SMA20 dist | +4.55% | ROA | 9.53% |
-| SMA50 dist | +9.53% | ROE | 35.81% |
-| SMA200 dist | +24.58% | Revenue (ttm) | $10.42B |
+| RSI(14) | 64.5 | Operating margin | 17.69% |
+| ATR(14) | 2.44 | Profit margin | 11.28% |
+| SMA20 dist | +5.00% | ROA | 9.53% |
+| SMA50 dist | +9.83% | ROE | 35.81% |
+| SMA200 dist | +24.90% | Revenue (ttm) | $10.42B |
 | 52W high | $79.76 | Revenue growth y/y | 9.00% |
 | 52W low | $35.45 | Inst. ownership | 101.13% |
 | P/E (ttm) | 27.86 | Insider ownership | 1.49% |

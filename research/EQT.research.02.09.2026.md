@@ -15,11 +15,11 @@ Signed file: `EQT.research.02.09.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-0.25%) with negative half-year (-8.53%). |
+| Technical momentum | Low | Below SMA200 (-0.29%) with negative half-year (-8.97%). |
 | Fresh setup quality | Moderate / wait | -17.44% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 29.18%, revenue growth -3.90%. |
 | Value attractiveness | Reasonable | Forward P/E 14.17, EV/Sales 4.73. |
-| Risk level | Moderate | Beta 0.58, ATR 2.5% of price, short float 3.51%. |
+| Risk level | Moderate | Beta 0.58, ATR 2.6% of price, short float 3.51%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
@@ -45,20 +45,20 @@ EQT Corporation engages in the exploration, production, gathering, and transmiss
 | Technical item | Read |
 |---|---|
 | Price vs 52-week range | Close $55.75; 52w high $67.53 (-17.44%); 52w low $48.62 (+14.67%) |
-| Trend | -0.25% vs SMA200, +6.35% vs SMA50, +3.32% vs SMA20 |
-| Momentum | RSI(14) 64.9 (neutral) |
-| Volatility | ATR(14) 1.41 (~2.5% of price); beta 0.58 |
+| Trend | -0.29% vs SMA200, +6.48% vs SMA50, +3.64% vs SMA20 |
+| Momentum | RSI(14) 64.6 (neutral) |
+| Volatility | ATR(14) 1.44 (~2.6% of price); beta 0.58 |
 | Setup perspective | -17.44% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +1.8% |
-| Month | +6.0% |
-| Quarter | +2.7% |
-| Half Y | -8.5% |
-| 1Y | +7.7% |
+| Week | +3.2% |
+| Month | +4.4% |
+| Quarter | +2.3% |
+| Half Y | -9.0% |
+| 1Y | +8.8% |
 | YTD | +5.2% |
 
 ## 4. Fundamental Analysis
@@ -112,11 +112,11 @@ EQT Corporation engages in the exploration, production, gathering, and transmiss
 | Price | $55.75 | EV/Sales | 4.73 |
 | Market cap | $34.87B | EV/EBITDA | 6.28 |
 | Beta | 0.58 | Gross margin | 80.75% |
-| RSI(14) | 64.9 | Operating margin | 23.37% |
-| ATR(14) | 1.41 | Profit margin | 29.18% |
-| SMA20 dist | +3.32% | ROA | 6.63% |
-| SMA50 dist | +6.35% | ROE | 11.08% |
-| SMA200 dist | -0.25% | Revenue (ttm) | $9.29B |
+| RSI(14) | 64.6 | Operating margin | 23.37% |
+| ATR(14) | 1.44 | Profit margin | 29.18% |
+| SMA20 dist | +3.64% | ROA | 6.63% |
+| SMA50 dist | +6.48% | ROE | 11.08% |
+| SMA200 dist | -0.29% | Revenue (ttm) | $9.29B |
 | 52W high | $67.53 | Revenue growth y/y | -3.90% |
 | 52W low | $48.62 | Inst. ownership | 95.86% |
 | P/E (ttm) | 12.94 | Insider ownership | 0.90% |

@@ -15,11 +15,11 @@ Signed file: `COP.research.02.09.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +42.97%; price +23.73% vs SMA200. |
+| Technical momentum | Moderate | 1Y +43.00%; price +23.97% vs SMA200. |
 | Fresh setup quality | Moderate / wait | +0.00% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 14.40%, revenue growth 35.50%. |
 | Value attractiveness | Reasonable | Forward P/E 14.40, EV/Sales 2.78. |
-| Risk level | Moderate | Beta 0.12, ATR 2.3% of price, short float 1.41%. |
+| Risk level | Moderate | Beta 0.12, ATR 2.4% of price, short float 1.41%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
@@ -45,19 +45,19 @@ ConocoPhillips explores for, produces, transports, and markets crude oil, bitume
 | Technical item | Read |
 |---|---|
 | Price vs 52-week range | Close $137.20; 52w high $137.20 (+0.00%); 52w low $83.04 (+65.22%) |
-| Trend | +23.73% vs SMA200, +15.80% vs SMA50, +6.55% vs SMA20 |
-| Momentum | RSI(14) 71.2 (overbought) |
-| Volatility | ATR(14) 3.10 (~2.3% of price); beta 0.12 |
+| Trend | +23.97% vs SMA200, +16.22% vs SMA50, +7.22% vs SMA20 |
+| Momentum | RSI(14) 70.7 (overbought) |
+| Volatility | ATR(14) 3.24 (~2.4% of price); beta 0.12 |
 | Setup perspective | +0.00% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +5.0% |
-| Month | +17.1% |
-| Quarter | +16.0% |
-| Half Y | +20.3% |
+| Week | +4.1% |
+| Month | +15.9% |
+| Quarter | +18.2% |
+| Half Y | +17.4% |
 | 1Y | +43.0% |
 | YTD | +45.0% |
 
@@ -113,11 +113,11 @@ ConocoPhillips explores for, produces, transports, and markets crude oil, bitume
 | Price | $137.20 | EV/Sales | 2.78 |
 | Market cap | $164.82B | EV/EBITDA | 6.69 |
 | Beta | 0.12 | Gross margin | 47.57% |
-| RSI(14) | 71.2 | Operating margin | 31.51% |
-| ATR(14) | 3.10 | Profit margin | 14.40% |
-| SMA20 dist | +6.55% | ROA | 7.53% |
-| SMA50 dist | +15.80% | ROE | 14.18% |
-| SMA200 dist | +23.73% | Revenue (ttm) | $64.46B |
+| RSI(14) | 70.7 | Operating margin | 31.51% |
+| ATR(14) | 3.24 | Profit margin | 14.40% |
+| SMA20 dist | +7.22% | ROA | 7.53% |
+| SMA50 dist | +16.22% | ROE | 14.18% |
+| SMA200 dist | +23.97% | Revenue (ttm) | $64.46B |
 | 52W high | $137.20 | Revenue growth y/y | 35.50% |
 | 52W low | $83.04 | Inst. ownership | 86.96% |
 | P/E (ttm) | 18.15 | Insider ownership | 0.10% |

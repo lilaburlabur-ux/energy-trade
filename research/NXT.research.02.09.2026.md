@@ -15,11 +15,11 @@ Signed file: `NXT.research.02.09.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-23.95%) with negative half-year (-20.53%). |
+| Technical momentum | Low | Below SMA200 (-23.96%) with negative half-year (-18.40%). |
 | Fresh setup quality | Poor / broken | -47.22% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 16.36%, revenue growth 8.20%. |
 | Value attractiveness | Reasonable | Forward P/E 14.29, EV/Sales 3.15. |
-| Risk level | High | Beta 1.95, ATR 6.0% of price, short float 8.04%. |
+| Risk level | High | Beta 1.95, ATR 6.3% of price, short float 8.04%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: high.
 
@@ -45,20 +45,20 @@ Nextpower Inc. provides solar and energy technology solutions for utility-scale 
 | Technical item | Read |
 |---|---|
 | Price vs 52-week range | Close $82.55; 52w high $156.40 (-47.22%); 52w low $64.33 (+28.32%) |
-| Trend | -23.95% vs SMA200, -17.69% vs SMA50, -11.00% vs SMA20 |
-| Momentum | RSI(14) 35.1 (neutral) |
-| Volatility | ATR(14) 4.91 (~6.0% of price); beta 1.95 |
+| Trend | -23.96% vs SMA200, -18.26% vs SMA50, -11.68% vs SMA20 |
+| Momentum | RSI(14) 35.2 (neutral) |
+| Volatility | ATR(14) 5.20 (~6.3% of price); beta 1.95 |
 | Setup perspective | -47.22% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -5.4% |
-| Month | -16.1% |
-| Quarter | -43.6% |
-| Half Y | -20.5% |
-| 1Y | +23.7% |
+| Week | -2.7% |
+| Month | -9.0% |
+| Quarter | -45.8% |
+| Half Y | -18.4% |
+| 1Y | +22.7% |
 | YTD | -11.0% |
 
 ## 4. Fundamental Analysis
@@ -95,7 +95,7 @@ Nextpower Inc. provides solar and energy technology solutions for utility-scale 
 | Fundsmith LLP | 2,856,092 | 1.88% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.95, ATR 6.0% of price, short float 8.04%. Size positions accordingly.
+- **Volatility risk:** Beta 1.95, ATR 6.3% of price, short float 8.04%. Size positions accordingly.
 - **Short interest risk:** short float 8.04% can fuel squeezes both ways around news.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
@@ -115,11 +115,11 @@ Nextpower Inc. provides solar and energy technology solutions for utility-scale 
 | Price | $82.55 | EV/Sales | 3.15 |
 | Market cap | $12.68B | EV/EBITDA | 15.26 |
 | Beta | 1.95 | Gross margin | 22.98% |
-| RSI(14) | 35.1 | Operating margin | 20.86% |
-| ATR(14) | 4.91 | Profit margin | 16.36% |
-| SMA20 dist | -11.00% | ROA | 11.68% |
-| SMA50 dist | -17.69% | ROE | 27.22% |
-| SMA200 dist | -23.95% | Revenue (ttm) | $3.63B |
+| RSI(14) | 35.2 | Operating margin | 20.86% |
+| ATR(14) | 5.20 | Profit margin | 16.36% |
+| SMA20 dist | -11.68% | ROA | 11.68% |
+| SMA50 dist | -18.26% | ROE | 27.22% |
+| SMA200 dist | -23.96% | Revenue (ttm) | $3.63B |
 | 52W high | $156.40 | Revenue growth y/y | 8.20% |
 | 52W low | $64.33 | Inst. ownership | 109.61% |
 | P/E (ttm) | 21.33 | Insider ownership | 0.63% |

@@ -15,11 +15,11 @@ Signed file: `PR.research.02.09.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +70.70%; price +29.93% vs SMA200. |
+| Technical momentum | High | 1Y +73.32%; price +30.27% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -0.21% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 21.52%, revenue growth 55.10%. |
 | Value attractiveness | Reasonable | Forward P/E 10.83, EV/Sales 4.00. |
-| Risk level | Moderate | Beta 0.48, ATR 2.8% of price, short float 2.27%. |
+| Risk level | Moderate | Beta 0.48, ATR 2.7% of price, short float 2.27%. |
 
 **Bottom line:** High technical momentum, strong fundamentals, value: reasonable, risk: moderate.
 
@@ -45,20 +45,20 @@ Permian Resources Corporation, an independent oil and natural gas company, focus
 | Technical item | Read |
 |---|---|
 | Price vs 52-week range | Close $23.82; 52w high $23.87 (-0.21%); 52w low $11.76 (+102.54%) |
-| Trend | +29.93% vs SMA200, +14.37% vs SMA50, +6.14% vs SMA20 |
-| Momentum | RSI(14) 65.2 (neutral) |
-| Volatility | ATR(14) 0.67 (~2.8% of price); beta 0.48 |
+| Trend | +30.27% vs SMA200, +14.76% vs SMA50, +6.83% vs SMA20 |
+| Momentum | RSI(14) 67.2 (neutral) |
+| Volatility | ATR(14) 0.64 (~2.7% of price); beta 0.48 |
 | Setup perspective | -0.21% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +4.7% |
-| Month | +16.2% |
-| Quarter | +19.0% |
-| Half Y | +30.7% |
-| 1Y | +70.7% |
+| Week | +2.2% |
+| Month | +14.0% |
+| Quarter | +21.8% |
+| Half Y | +31.7% |
+| 1Y | +73.3% |
 | YTD | +68.2% |
 
 ## 4. Fundamental Analysis
@@ -113,11 +113,11 @@ Permian Resources Corporation, an independent oil and natural gas company, focus
 | Price | $23.82 | EV/Sales | 4.00 |
 | Market cap | $19.95B | EV/EBITDA | 5.39 |
 | Beta | 0.48 | Gross margin | 75.85% |
-| RSI(14) | 65.2 | Operating margin | 57.44% |
-| ATR(14) | 0.67 | Profit margin | 21.52% |
-| SMA20 dist | +6.14% | ROA | 7.54% |
-| SMA50 dist | +14.37% | ROE | 11.40% |
-| SMA200 dist | +29.93% | Revenue (ttm) | $5.74B |
+| RSI(14) | 67.2 | Operating margin | 57.44% |
+| ATR(14) | 0.64 | Profit margin | 21.52% |
+| SMA20 dist | +6.83% | ROA | 7.54% |
+| SMA50 dist | +14.76% | ROE | 11.40% |
+| SMA200 dist | +30.27% | Revenue (ttm) | $5.74B |
 | 52W high | $23.87 | Revenue growth y/y | 55.10% |
 | 52W low | $11.76 | Inst. ownership | 92.74% |
 | P/E (ttm) | 15.37 | Insider ownership | 4.61% |

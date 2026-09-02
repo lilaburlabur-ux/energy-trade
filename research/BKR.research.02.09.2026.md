@@ -15,11 +15,11 @@ Signed file: `BKR.research.02.09.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +44.71%; price +11.46% vs SMA200. |
+| Technical momentum | Moderate | 1Y +44.58%; price +11.60% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -6.58% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 11.17%, revenue growth -2.40%. |
 | Value attractiveness | Fair-to-demanding | Forward P/E 20.45, EV/Sales 2.26. |
-| Risk level | Moderate | Beta 0.96, ATR 2.6% of price, short float 2.74%. |
+| Risk level | Moderate | Beta 0.96, ATR 2.7% of price, short float 2.74%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: fair-to-demanding, risk: moderate.
 
@@ -45,20 +45,20 @@ Baker Hughes Company provides a portfolio of technologies and services to energy
 | Technical item | Read |
 |---|---|
 | Price vs 52-week range | Close $64.63; 52w high $69.18 (-6.58%); 52w low $43.79 (+47.61%) |
-| Trend | +11.46% vs SMA200, +8.52% vs SMA50, +2.05% vs SMA20 |
-| Momentum | RSI(14) 63.7 (neutral) |
-| Volatility | ATR(14) 1.66 (~2.6% of price); beta 0.96 |
+| Trend | +11.60% vs SMA200, +8.67% vs SMA50, +2.13% vs SMA20 |
+| Momentum | RSI(14) 63.1 (neutral) |
+| Volatility | ATR(14) 1.72 (~2.7% of price); beta 0.96 |
 | Setup perspective | -6.58% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +4.2% |
-| Month | +5.1% |
-| Quarter | +0.9% |
-| Half Y | +6.9% |
-| 1Y | +44.7% |
+| Week | +4.5% |
+| Month | +6.7% |
+| Quarter | +0.5% |
+| Half Y | +4.1% |
+| 1Y | +44.6% |
 | YTD | +38.6% |
 
 ## 4. Fundamental Analysis
@@ -114,11 +114,11 @@ Baker Hughes Company provides a portfolio of technologies and services to energy
 | Price | $64.63 | EV/Sales | 2.26 |
 | Market cap | $64.16B | EV/EBITDA | 12.94 |
 | Beta | 0.96 | Gross margin | 23.66% |
-| RSI(14) | 63.7 | Operating margin | 12.83% |
-| ATR(14) | 1.66 | Profit margin | 11.17% |
-| SMA20 dist | +2.05% | ROA | 4.85% |
-| SMA50 dist | +8.52% | ROE | 16.46% |
-| SMA200 dist | +11.46% | Revenue (ttm) | $27.73B |
+| RSI(14) | 63.1 | Operating margin | 12.83% |
+| ATR(14) | 1.72 | Profit margin | 11.17% |
+| SMA20 dist | +2.13% | ROA | 4.85% |
+| SMA50 dist | +8.67% | ROE | 16.46% |
+| SMA200 dist | +11.60% | Revenue (ttm) | $27.73B |
 | 52W high | $69.18 | Revenue growth y/y | -2.40% |
 | 52W low | $43.79 | Inst. ownership | 100.09% |
 | P/E (ttm) | 20.78 | Insider ownership | 0.15% |

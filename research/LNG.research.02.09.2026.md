@@ -15,11 +15,11 @@ Signed file: `LNG.research.02.09.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +24.04%; price +23.98% vs SMA200. |
+| Technical momentum | Moderate | 1Y +23.55%; price +24.16% vs SMA200. |
 | Fresh setup quality | Moderate / wait | +0.00% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 13.94%, revenue growth 22.70%. |
 | Value attractiveness | Reasonable | Forward P/E 14.25, EV/Sales 4.44. |
-| Risk level | Moderate | Beta -0.01, ATR 2.6% of price, short float 2.15%. |
+| Risk level | Moderate | Beta -0.01, ATR 2.8% of price, short float 2.15%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
@@ -45,20 +45,20 @@ Cheniere Energy, Inc., an energy infrastructure company, primarily engages in th
 | Technical item | Read |
 |---|---|
 | Price vs 52-week range | Close $295.86; 52w high $295.86 (+0.00%); 52w low $187.49 (+57.80%) |
-| Trend | +23.98% vs SMA200, +12.37% vs SMA50, +7.23% vs SMA20 |
-| Momentum | RSI(14) 70.6 (overbought) |
-| Volatility | ATR(14) 7.84 (~2.6% of price); beta -0.01 |
+| Trend | +24.16% vs SMA200, +12.78% vs SMA50, +7.78% vs SMA20 |
+| Momentum | RSI(14) 70.2 (overbought) |
+| Volatility | ATR(14) 8.18 (~2.8% of price); beta -0.01 |
 | Setup perspective | +0.00% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +4.1% |
-| Month | +15.2% |
-| Quarter | +26.0% |
-| Half Y | +19.4% |
-| 1Y | +24.0% |
+| Week | +6.1% |
+| Month | +14.9% |
+| Quarter | +25.6% |
+| Half Y | +20.8% |
+| 1Y | +23.6% |
 | YTD | +50.6% |
 
 ## 4. Fundamental Analysis
@@ -113,11 +113,11 @@ Cheniere Energy, Inc., an energy infrastructure company, primarily engages in th
 | Price | $295.86 | EV/Sales | 4.44 |
 | Market cap | $61.11B | EV/EBITDA | 11.87 |
 | Beta | -0.01 | Gross margin | 36.85% |
-| RSI(14) | 70.6 | Operating margin | 75.00% |
-| ATR(14) | 7.84 | Profit margin | 13.94% |
-| SMA20 dist | +7.23% | ROA | 8.63% |
-| SMA50 dist | +12.37% | ROE | 39.12% |
-| SMA200 dist | +23.98% | Revenue (ttm) | $20.92B |
+| RSI(14) | 70.2 | Operating margin | 75.00% |
+| ATR(14) | 8.18 | Profit margin | 13.94% |
+| SMA20 dist | +7.78% | ROA | 8.63% |
+| SMA50 dist | +12.78% | ROE | 39.12% |
+| SMA200 dist | +24.16% | Revenue (ttm) | $20.92B |
 | 52W high | $295.86 | Revenue growth y/y | 22.70% |
 | 52W low | $187.49 | Inst. ownership | 91.89% |
 | P/E (ttm) | 22.40 | Insider ownership | 0.66% |

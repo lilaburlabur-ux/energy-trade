@@ -5,23 +5,23 @@ Signed file: `BEP.research.02.09.2026`
 | Field | Value |
 |---|---|
 | Current price | $31.03 (2026-09-02, ~15-min delayed) |
-| Market cap | $15.13B |
+| Market cap | $15.10B |
 | Sector / Industry | Utilities / Utilities - Renewable |
 | Main theme | Utilities - Renewable — see catalysts below |
-| Current stance | Moderate technical momentum, weak fundamentals, value: reasonable, risk: moderate. |
+| Current stance | Moderate technical momentum, weak fundamentals, value: reasonable, risk: elevated. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-09-02.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +28.51%; price -0.19% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -15.29% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +25.07%; price -1.35% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -16.34% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Weak | Negative profit margin (-1.26%). |
 | Value attractiveness | Reasonable | Forward P/E -16.60, EV/Sales 13.05. |
-| Risk level | Moderate | Beta 0.99, ATR 2.9% of price, short float 0.67%. |
+| Risk level | Elevated | Beta 0.99, ATR 3.1% of price, short float 0.67%. |
 
-**Bottom line:** Moderate technical momentum, weak fundamentals, value: reasonable, risk: moderate.
+**Bottom line:** Moderate technical momentum, weak fundamentals, value: reasonable, risk: elevated.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -44,22 +44,22 @@ Brookfield Renewable Partners L.P. owns a portfolio of renewable power generatin
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $31.03; 52w high $36.63 (-15.29%); 52w low $23.81 (+30.34%) |
-| Trend | -0.19% vs SMA200, -4.97% vs SMA50, -4.88% vs SMA20 |
-| Momentum | RSI(14) 38.7 (neutral) |
-| Volatility | ATR(14) 0.91 (~2.9% of price); beta 0.99 |
-| Setup perspective | -15.29% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $31.03; 52w high $37.09 (-16.34%); 52w low $24.11 (+28.72%) |
+| Trend | -1.35% vs SMA200, -6.29% vs SMA50, -6.03% vs SMA20 |
+| Momentum | RSI(14) 36.1 (neutral) |
+| Volatility | ATR(14) 0.97 (~3.1% of price); beta 0.99 |
+| Setup perspective | -16.34% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -3.3% |
-| Month | -4.9% |
-| Quarter | -14.0% |
-| Half Y | +4.4% |
-| 1Y | +28.5% |
-| YTD | +15.1% |
+| Week | -5.4% |
+| Month | -7.9% |
+| Quarter | -16.0% |
+| Half Y | +1.7% |
+| 1Y | +25.1% |
+| YTD | +13.7% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Brookfield Renewable Partners L.P. owns a portfolio of renewable power generatin
 | Revenue (ttm) | $6.36B | Revenue growth 1.10% y/y |
 | Profitability | Gross 51.39%, operating 17.08%, net -1.26% | ROA 0.42%, ROE 0.40% |
 | Balance sheet | Cash $2.69B, debt $37.72B | Current ratio 0.80, debt/equity 105.23 |
-| Valuation | P/E —, forward P/E -16.60, P/S 2.38, P/B 2.49 | EV/Sales 13.05, EV/EBITDA 27.67 |
+| Valuation | P/E —, forward P/E -16.60, P/S 2.37, P/B 2.49 | EV/Sales 13.05, EV/EBITDA 27.67 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $35.62 (13 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,6 +95,7 @@ Brookfield Renewable Partners L.P. owns a portfolio of renewable power generatin
 | TD Asset Management, Inc | 3,041,490 | 1.01% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
+- **Volatility risk:** Beta 0.99, ATR 3.1% of price, short float 0.67%. Size positions accordingly.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -111,19 +112,19 @@ Brookfield Renewable Partners L.P. owns a portfolio of renewable power generatin
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $31.03 | EV/Sales | 13.05 |
-| Market cap | $15.13B | EV/EBITDA | 27.67 |
+| Market cap | $15.10B | EV/EBITDA | 27.67 |
 | Beta | 0.99 | Gross margin | 51.39% |
-| RSI(14) | 38.7 | Operating margin | 17.08% |
-| ATR(14) | 0.91 | Profit margin | -1.26% |
-| SMA20 dist | -4.88% | ROA | 0.42% |
-| SMA50 dist | -4.97% | ROE | 0.40% |
-| SMA200 dist | -0.19% | Revenue (ttm) | $6.36B |
-| 52W high | $36.63 | Revenue growth y/y | 1.10% |
-| 52W low | $23.81 | Inst. ownership | 65.30% |
+| RSI(14) | 36.1 | Operating margin | 17.08% |
+| ATR(14) | 0.97 | Profit margin | -1.26% |
+| SMA20 dist | -6.03% | ROA | 0.42% |
+| SMA50 dist | -6.29% | ROE | 0.40% |
+| SMA200 dist | -1.35% | Revenue (ttm) | $6.36B |
+| 52W high | $37.09 | Revenue growth y/y | 1.10% |
+| 52W low | $24.11 | Inst. ownership | 65.30% |
 | P/E (ttm) | — | Insider ownership | 0.02% |
 | Forward P/E | -16.60 | Short float | 0.67% |
 | PEG (trailing) | — | Avg volume | 873,501 |
-| P/S | 2.38 | Employees | 5,870 |
+| P/S | 2.37 | Employees | 5,870 |
 | P/B | 2.49 | Analyst rec (1=buy..5=sell) | 2.3 |
 
 ## 8. Analyst Actions
@@ -139,7 +140,7 @@ Brookfield Renewable Partners L.P. owns a portfolio of renewable power generatin
 | 2026-01-23 | main | Barclays | Equal-Weight → Equal-Weight |
 
 ## 9. Conclusion
-BEP: Moderate momentum / weak fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+BEP: Moderate momentum / weak fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

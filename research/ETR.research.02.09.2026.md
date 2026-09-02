@@ -15,11 +15,11 @@ Signed file: `ETR.research.02.09.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +25.17%; price +2.33% vs SMA200. |
+| Technical momentum | Moderate | 1Y +24.20%; price +2.39% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -8.50% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 13.33%, revenue growth 5.90%. |
 | Value attractiveness | Fair-to-demanding | Forward P/E 20.92, EV/Sales 6.01. |
-| Risk level | Moderate | Beta 0.49, ATR 2.0% of price, short float 5.03%. |
+| Risk level | Moderate | Beta 0.49, ATR 1.9% of price, short float 5.03%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: fair-to-demanding, risk: moderate.
 
@@ -45,20 +45,20 @@ Entergy Corporation, together with its subsidiaries, engages in the production a
 | Technical item | Read |
 |---|---|
 | Price vs 52-week range | Close $106.75; 52w high $116.66 (-8.50%); 52w low $84.72 (+26.00%) |
-| Trend | +2.33% vs SMA200, -3.09% vs SMA50, +0.07% vs SMA20 |
-| Momentum | RSI(14) 46.2 (neutral) |
-| Volatility | ATR(14) 2.08 (~2.0% of price); beta 0.49 |
+| Trend | +2.39% vs SMA200, -3.22% vs SMA50, +0.05% vs SMA20 |
+| Momentum | RSI(14) 45.6 (neutral) |
+| Volatility | ATR(14) 2.06 (~1.9% of price); beta 0.49 |
 | Setup perspective | -8.50% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -0.4% |
-| Month | -1.4% |
-| Quarter | -1.2% |
-| Half Y | +1.4% |
-| 1Y | +25.2% |
+| Week | +0.5% |
+| Month | -0.6% |
+| Quarter | -0.2% |
+| Half Y | +2.0% |
+| 1Y | +24.2% |
 | YTD | +15.8% |
 
 ## 4. Fundamental Analysis
@@ -114,11 +114,11 @@ Entergy Corporation, together with its subsidiaries, engages in the production a
 | Price | $106.75 | EV/Sales | 6.01 |
 | Market cap | $49.81B | EV/EBITDA | 14.63 |
 | Beta | 0.49 | Gross margin | 47.00% |
-| RSI(14) | 46.2 | Operating margin | 24.46% |
-| ATR(14) | 2.08 | Profit margin | 13.33% |
-| SMA20 dist | +0.07% | ROA | 2.68% |
-| SMA50 dist | -3.09% | ROE | 10.25% |
-| SMA200 dist | +2.33% | Revenue (ttm) | $13.48B |
+| RSI(14) | 45.6 | Operating margin | 24.46% |
+| ATR(14) | 2.06 | Profit margin | 13.33% |
+| SMA20 dist | +0.05% | ROA | 2.68% |
+| SMA50 dist | -3.22% | ROE | 10.25% |
+| SMA200 dist | +2.39% | Revenue (ttm) | $13.48B |
 | 52W high | $116.66 | Revenue growth y/y | 5.90% |
 | 52W low | $84.72 | Inst. ownership | 100.24% |
 | P/E (ttm) | 27.30 | Insider ownership | 0.22% |

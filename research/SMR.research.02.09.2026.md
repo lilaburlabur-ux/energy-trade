@@ -68,7 +68,7 @@ NuScale Power Corporation provides small modular reactor technology solutions. I
 | Revenue (ttm) | $10.69M | Revenue growth -99.10% y/y |
 | Profitability | Gross 23.54%, operating -85337.33%, net 0.00% | ROA -10.60%, ROE -55.18% |
 | Balance sheet | Cash $1.07B, debt $6.69M | Current ratio 37.88, debt/equity 0.33 |
-| Valuation | P/E —, forward P/E -14.67, P/S 367.01, P/B 1.90 | EV/Sales 249.45, EV/EBITDA -11.90 |
+| Valuation | P/E —, forward P/E -14.67, P/S 367.01, P/B 2.60 | EV/Sales 249.45, EV/EBITDA -11.90 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $12.63 (15 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -126,7 +126,7 @@ NuScale Power Corporation provides small modular reactor technology solutions. I
 | Forward P/E | -14.67 | Short float | 18.40% |
 | PEG (trailing) | — | Avg volume | 32,659,174 |
 | P/S | 367.01 | Employees | 428 |
-| P/B | 1.90 | Analyst rec (1=buy..5=sell) | 2.6 |
+| P/B | 2.60 | Analyst rec (1=buy..5=sell) | 2.6 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

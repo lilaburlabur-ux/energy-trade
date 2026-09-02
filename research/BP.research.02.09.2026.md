@@ -5,7 +5,7 @@ Signed file: `BP.research.02.09.2026`
 | Field | Value |
 |---|---|
 | Current price | $43.93 (2026-09-02, ~15-min delayed) |
-| Market cap | $113.13B |
+| Market cap | $113.14B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,7 +15,7 @@ Signed file: `BP.research.02.09.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +31.12%; price +10.31% vs SMA200. |
+| Technical momentum | Moderate | 1Y +31.12%; price +10.41% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -5.57% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 2.55%, revenue growth 48.20%. |
 | Value attractiveness | Reasonable | Forward P/E 9.91, EV/Sales 2.38. |
@@ -45,19 +45,19 @@ BP p.l.c., an integrated energy company, engages in the oil and gas business wor
 | Technical item | Read |
 |---|---|
 | Price vs 52-week range | Close $43.93; 52w high $46.52 (-5.57%); 52w low $31.17 (+40.92%) |
-| Trend | +10.31% vs SMA200, +6.34% vs SMA50, +2.18% vs SMA20 |
-| Momentum | RSI(14) 56.4 (neutral) |
-| Volatility | ATR(14) 1.02 (~2.3% of price); beta -0.21 |
+| Trend | +10.41% vs SMA200, +6.51% vs SMA50, +2.35% vs SMA20 |
+| Momentum | RSI(14) 56.1 (neutral) |
+| Volatility | ATR(14) 1.03 (~2.3% of price); beta -0.21 |
 | Setup perspective | -5.57% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +3.4% |
-| Month | +4.8% |
-| Quarter | +1.8% |
-| Half Y | +15.8% |
+| Week | +2.5% |
+| Month | +0.5% |
+| Quarter | +2.5% |
+| Half Y | +15.7% |
 | 1Y | +31.1% |
 | YTD | +27.2% |
 
@@ -111,13 +111,13 @@ BP p.l.c., an integrated energy company, engages in the oil and gas business wor
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $43.93 | EV/Sales | 2.38 |
-| Market cap | $113.13B | EV/EBITDA | 13.10 |
+| Market cap | $113.14B | EV/EBITDA | 13.10 |
 | Beta | -0.21 | Gross margin | 28.30% |
-| RSI(14) | 56.4 | Operating margin | 13.15% |
-| ATR(14) | 1.02 | Profit margin | 2.55% |
-| SMA20 dist | +2.18% | ROA | 5.04% |
-| SMA50 dist | +6.34% | ROE | 8.87% |
-| SMA200 dist | +10.31% | Revenue (ttm) | $215.47B |
+| RSI(14) | 56.1 | Operating margin | 13.15% |
+| ATR(14) | 1.03 | Profit margin | 2.55% |
+| SMA20 dist | +2.35% | ROA | 5.04% |
+| SMA50 dist | +6.51% | ROE | 8.87% |
+| SMA200 dist | +10.41% | Revenue (ttm) | $215.47B |
 | 52W high | $46.52 | Revenue growth y/y | 48.20% |
 | 52W low | $31.17 | Inst. ownership | 14.09% |
 | P/E (ttm) | 21.02 | Insider ownership | 0.00% |

@@ -15,7 +15,7 @@ Signed file: `PEG.research.02.09.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-7.47%) with negative half-year (-11.15%). |
+| Technical momentum | Low | Below SMA200 (-7.52%) with negative half-year (-11.21%). |
 | Fresh setup quality | Moderate / wait | -14.26% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 16.04%, revenue growth -8.90%. |
 | Value attractiveness | Reasonable | Forward P/E 15.69, EV/Sales 4.87. |
@@ -45,8 +45,8 @@ Public Service Enterprise Group Incorporated, through its subsidiaries, operates
 | Technical item | Read |
 |---|---|
 | Price vs 52-week range | Close $73.32; 52w high $85.51 (-14.26%); 52w low $72.61 (+0.98%) |
-| Trend | -7.47% vs SMA200, -5.52% vs SMA50, -1.56% vs SMA20 |
-| Momentum | RSI(14) 36.4 (neutral) |
+| Trend | -7.52% vs SMA200, -5.72% vs SMA50, -1.71% vs SMA20 |
+| Momentum | RSI(14) 35.8 (neutral) |
 | Volatility | ATR(14) 1.20 (~1.6% of price); beta 0.53 |
 | Setup perspective | -14.26% from 52w high; no clean fresh pivot by default. |
 
@@ -54,11 +54,11 @@ Public Service Enterprise Group Incorporated, through its subsidiaries, operates
 
 | Window | Return |
 |---|---|
-| Week | -1.0% |
-| Month | -3.9% |
-| Quarter | -4.9% |
+| Week | +0.1% |
+| Month | -4.3% |
+| Quarter | -5.6% |
 | Half Y | -11.2% |
-| 1Y | -7.4% |
+| 1Y | -8.0% |
 | YTD | -7.9% |
 
 ## 4. Fundamental Analysis
@@ -112,11 +112,11 @@ Public Service Enterprise Group Incorporated, through its subsidiaries, operates
 | Price | $73.32 | EV/Sales | 4.87 |
 | Market cap | $36.54B | EV/EBITDA | 13.69 |
 | Beta | 0.53 | Gross margin | 33.33% |
-| RSI(14) | 36.4 | Operating margin | 18.87% |
+| RSI(14) | 35.8 | Operating margin | 18.87% |
 | ATR(14) | 1.20 | Profit margin | 16.04% |
-| SMA20 dist | -1.56% | ROA | 3.24% |
-| SMA50 dist | -5.52% | ROE | 11.83% |
-| SMA200 dist | -7.47% | Revenue (ttm) | $12.54B |
+| SMA20 dist | -1.71% | ROA | 3.24% |
+| SMA50 dist | -5.72% | ROE | 11.83% |
+| SMA200 dist | -7.52% | Revenue (ttm) | $12.54B |
 | 52W high | $85.51 | Revenue growth y/y | -8.90% |
 | 52W low | $72.61 | Inst. ownership | 79.51% |
 | P/E (ttm) | 18.24 | Insider ownership | 0.13% |
