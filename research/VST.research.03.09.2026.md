@@ -36,10 +36,10 @@ Vistra Corp., together with its subsidiaries, operates as an integrated retail e
 
 | Headline | Source | Date |
 |---|---|---|
+| Can Vistra (VST) Still Look Cheap After a Very Large Run? | Simply Wall St. | 2026-09-03 |
 | Peter Thiel’s Fund Disclosed $59 Million in This Beaten-Down Power Stock | Insider Monkey | 2026-09-03 |
 | Bridgewater Cut Nvidia 18% and More Than Doubled Vistra. Is It Rotating From Chips to Power? | Insider Monkey | 2026-09-03 |
 | Can Hedging and Long-Term PPAs Strengthen Vistra's Growth? | Zacks | 2026-09-02 |
-| Can Rising C&I Demand Drive Constellation Energy's Long-Term Growth? | Zacks | 2026-09-01 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

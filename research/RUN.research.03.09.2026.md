@@ -68,7 +68,7 @@ Sunrun Inc. designs, develops, installs, sells, owns, and maintains residential 
 | Revenue (ttm) | $3.48B | Revenue growth 52.80% y/y |
 | Profitability | Gross 35.29%, operating 4.00%, net 11.59% | ROA 0.26%, ROE -19.86% |
 | Balance sheet | Cash $726.43M, debt $15.23B | Current ratio 1.42, debt/equity 292.51 |
-| Valuation | P/E 6.07, forward P/E 8.80, P/S 0.62, P/B 0.61 | EV/Sales 5.29, EV/EBITDA 21.87 |
+| Valuation | P/E 6.07, forward P/E 8.80, P/S 0.61, P/B 0.61 | EV/Sales 5.29, EV/EBITDA 21.87 |
 | Growth expectations | Earnings growth -60.70%, EPS q/q -58.80% | Analyst mean target $15.97 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -125,7 +125,7 @@ Sunrun Inc. designs, develops, installs, sells, owns, and maintains residential 
 | P/E (ttm) | 6.07 | Insider ownership | 2.82% |
 | Forward P/E | 8.80 | Short float | 32.34% |
 | PEG (trailing) | 3.07 | Avg volume | 9,898,990 |
-| P/S | 0.62 | Employees | 9,059 |
+| P/S | 0.61 | Employees | 9,059 |
 | P/B | 0.61 | Analyst rec (1=buy..5=sell) | 2.0 |
 
 ## 8. Analyst Actions

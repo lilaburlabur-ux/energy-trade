@@ -37,9 +37,9 @@ GE Vernova Inc., an energy company, engages in the provision of various products
 | Headline | Source | Date |
 |---|---|---|
 | GE Vernova (GEV) Laps the Stock Market: Here's Why | Zacks | 2026-09-03 |
-| Rivian Announced That Its CFO Is Stepping Down. How Investors Should View the Departure. | Barchart | 2026-09-03 |
 | Energy Transition Update - Malaysia's Largest Solar Initiative Boosts Renewable Energy Prospects | Simply Wall St. | 2026-09-03 |
 | Where Will GE Vernova Be in 10 Years? | Motley Fool | 2026-09-03 |
+| 3 AI Power Stocks With Revenue Over $4B | Simply Wall St. | 2026-09-03 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

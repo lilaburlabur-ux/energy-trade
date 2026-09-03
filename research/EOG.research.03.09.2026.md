@@ -68,7 +68,7 @@ EOG Resources, Inc., together with its subsidiaries, explores for, develops, pro
 | Revenue (ttm) | $26.72B | Revenue growth 58.70% y/y |
 | Profitability | Gross 62.64%, operating 40.72%, net 25.73% | ROA 11.02%, ROE 22.51% |
 | Balance sheet | Cash $4.91B, debt $8.25B | Current ratio 1.85, debt/equity 25.89 |
-| Valuation | P/E 11.35, forward P/E 10.17, P/S 2.91, P/B 2.41 | EV/Sales 3.05, EV/EBITDA 5.62 |
+| Valuation | P/E 11.35, forward P/E 10.17, P/S 2.87, P/B 2.41 | EV/Sales 3.05, EV/EBITDA 5.62 |
 | Growth expectations | Earnings growth 109.40%, EPS q/q 102.50% | Analyst mean target $159.96 (27 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -123,7 +123,7 @@ EOG Resources, Inc., together with its subsidiaries, explores for, develops, pro
 | P/E (ttm) | 11.35 | Insider ownership | 0.28% |
 | Forward P/E | 10.17 | Short float | 3.11% |
 | PEG (trailing) | 1.38 | Avg volume | 3,357,207 |
-| P/S | 2.91 | Employees | 3,400 |
+| P/S | 2.87 | Employees | 3,400 |
 | P/B | 2.41 | Analyst rec (1=buy..5=sell) | 2.3 |
 
 ## 8. Analyst Actions

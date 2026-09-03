@@ -68,7 +68,7 @@ Enphase Energy, Inc., together with its subsidiaries, designs, develops, manufac
 | Revenue (ttm) | $1.33B | Revenue growth -19.60% y/y |
 | Profitability | Gross 30.04%, operating 17.98%, net 10.09% | ROA 2.38%, ROE 13.00% |
 | Balance sheet | Cash $937.71M, debt $613.36M | Current ratio 3.45, debt/equity 51.90 |
-| Valuation | P/E 35.95, forward P/E 15.97, P/S 3.60, P/B 4.06 | EV/Sales 3.29, EV/EBITDA 22.78 |
+| Valuation | P/E 35.95, forward P/E 15.97, P/S 3.61, P/B 4.06 | EV/Sales 3.29, EV/EBITDA 22.78 |
 | Growth expectations | Earnings growth -3.50%, EPS q/q -2.60% | Analyst mean target $47.13 (26 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -125,7 +125,7 @@ Enphase Energy, Inc., together with its subsidiaries, designs, develops, manufac
 | P/E (ttm) | 35.95 | Insider ownership | 3.03% |
 | Forward P/E | 15.97 | Short float | 19.63% |
 | PEG (trailing) | 0.76 | Avg volume | 5,367,860 |
-| P/S | 3.60 | Employees | 2,872 |
+| P/S | 3.61 | Employees | 2,872 |
 | P/B | 4.06 | Analyst rec (1=buy..5=sell) | 2.4 |
 
 ## 8. Analyst Actions

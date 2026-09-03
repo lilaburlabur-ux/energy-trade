@@ -36,10 +36,10 @@ Hubbell Incorporated, together with its subsidiaries, manufactures and sells ele
 
 | Headline | Source | Date |
 |---|---|---|
+| Eaton Stock Looks Expensive Until You Price The Factory Ramp | Trefis | 2026-09-03 |
 | Can Power Utility Demand Boost nVent Electric's Long-Term Growth? | Zacks | 2026-09-03 |
 | Hubbell Inc's Dividend Analysis | GuruFocus.com | 2026-08-31 |
 | Eaton Stock Can Swing Far More Than Its Steady Story Suggests | Trefis | 2026-08-28 |
-| Hubbell (HUBB) Issued Higher Full Year Guidance, Is The Upside Already Priced In? | Simply Wall St. | 2026-08-28 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

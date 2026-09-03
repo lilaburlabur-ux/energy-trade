@@ -68,7 +68,7 @@ Eos Energy Enterprises, Inc. designs, develops, manufactures, and markets energy
 | Revenue (ttm) | $214.25M | Revenue growth 351.40% y/y |
 | Profitability | Gross -84.75%, operating -121.86%, net -246.76% | ROA -30.03%, ROE — |
 | Balance sheet | Cash $305.49M, debt $640.83M | Current ratio 3.26, debt/equity — |
-| Valuation | P/E —, forward P/E -23.40, P/S 5.95, P/B -1.16 | EV/Sales 11.03, EV/EBITDA -8.31 |
+| Valuation | P/E —, forward P/E -23.40, P/S 5.91, P/B -1.16 | EV/Sales 11.03, EV/EBITDA -8.31 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $6.67 (9 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -126,7 +126,7 @@ Eos Energy Enterprises, Inc. designs, develops, manufactures, and markets energy
 | P/E (ttm) | — | Insider ownership | 1.43% |
 | Forward P/E | -23.40 | Short float | 31.27% |
 | PEG (trailing) | — | Avg volume | 25,830,338 |
-| P/S | 5.95 | Employees | 787 |
+| P/S | 5.91 | Employees | 787 |
 | P/B | -1.16 | Analyst rec (1=buy..5=sell) | 2.4 |
 
 ## 8. Analyst Actions

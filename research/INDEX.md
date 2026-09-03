@@ -6,7 +6,7 @@
 | XOM | $666.99B | +49% | 15.0 | 9% | Moderate | Reasonable | Moderate |
 | CVX | $414.53B | +39% | 15.7 | 10% | Moderate | Reasonable | Moderate |
 | SHEL | $253.91B | +32% | 10.5 | 9% | Moderate | Reasonable | Moderate |
-| TTE | $197.48B | +51% | 9.2 | 9% | Moderate | Reasonable | Moderate |
+| TTE | $197.48B | +51% | 9.0 | 9% | Moderate | Reasonable | Moderate |
 | BP | $112.23B | +33% | 9.6 | 3% | Moderate | Reasonable | Moderate |
 | COP | $163.05B | +48% | 14.3 | 14% | Moderate | Reasonable | Moderate |
 | EQNR | $101.25B | +89% | 11.6 | 8% | High | Reasonable | Moderate |
