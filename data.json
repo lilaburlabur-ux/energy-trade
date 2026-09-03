@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-03T23:25:46+00:00",
-  "as_of_local": "2026-09-03 23:25:46 UTC",
+  "as_of_utc": "2026-09-03T23:32:49+00:00",
+  "as_of_local": "2026-09-03 23:32:49 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -41,6 +41,12 @@
       "market_cap": 414526018228.8915,
       "headlines": [
         {
+          "title": "147-year-old oil giant just made high-stakes bet in Venezuela",
+          "url": "https://finance.yahoo.com/energy/articles/147-old-oil-giant-just-231700418.html",
+          "publisher": "TheStreet",
+          "published": "2026-09-03T23:17:00Z"
+        },
+        {
           "title": "Chevron's Ghana Option Is Big Enough to Matter--and Still Nonbinding",
           "url": "https://finance.yahoo.com/energy/articles/chevrons-ghana-option-big-enough-213559643.html",
           "publisher": "GuruFocus.com",
@@ -51,12 +57,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/3-sector-stocks-gain-oil-190000500.html",
           "publisher": "Zacks",
           "published": "2026-09-03T19:00:00Z"
-        },
-        {
-          "title": "Bloomberg Economist: \u2018This Was All About Oil\u2019 and Compares Chevron\u2019s Venezuela Deal to 1953 Iran Coup",
-          "url": "https://finance.yahoo.com/energy/articles/bloomberg-economist-oil-compares-chevron-185151291.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-09-03T18:51:51Z"
         }
       ]
     },
@@ -1861,6 +1861,12 @@
       "market_cap": 1274587104.0,
       "headlines": [
         {
+          "title": "Eos Energy Enterprises (EOSE) Stock Dropped, So What Is Driving Attention Now?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/eos-energy-enterprises-eose-stock-230945001.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-09-03T23:09:45Z"
+        },
+        {
           "title": "Eos Energy Enterprises (EOSE) Is Up 8.1% After Google-Backed Long-Duration Storage Debut in West Virginia",
           "url": "https://finance.yahoo.com/markets/stocks/articles/eos-energy-enterprises-eose-8-181531978.html",
           "publisher": "Simply Wall St.",
@@ -1871,12 +1877,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/eos-energy-enterprises-eose-fallen-170651479.html",
           "publisher": "Simply Wall St.",
           "published": "2026-09-03T17:06:51Z"
-        },
-        {
-          "title": "MN8, Google and Eos launch clean energy project in West Virginia",
-          "url": "https://finance.yahoo.com/energy/articles/mn8-google-eos-launch-clean-111120673.html",
-          "publisher": "Energy Monitor",
-          "published": "2026-09-03T11:11:20Z"
         }
       ]
     },
@@ -2115,13 +2115,13 @@
     },
     {
       "label": "WTI",
-      "price": 91.85,
-      "change_pct": 0.92
+      "price": 91.84,
+      "change_pct": 0.91
     },
     {
       "label": "Brent",
-      "price": 95.89,
-      "change_pct": 0.27
+      "price": 95.93,
+      "change_pct": 0.31
     },
     {
       "label": "NatGas",
