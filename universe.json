@@ -6,7 +6,7 @@
   "min_bubble_size": 7,
   "render_spec": {
    "bubble_size": "sqrt(total_market_cap_b) \u2014 sqrt scale so megacaps don't drown the map",
-   "bubble_color": "avg_change_pct (red<0<green) or fixed category color",
+   "bubble_color": "cap-weighted avg_change_pct (red<0<green) or fixed category color",
    "drilldown": "click bubble -> packed circles of member tickers, ticker circle size = sqrt(market_cap_b), color = change_pct",
    "tooltip": "company, industry, cap, P/E, price, day %"
   },
@@ -19,7 +19,7 @@
    "color": "#E8A33D",
    "count": 8,
    "total_market_cap_b": 2032.3,
-   "avg_change_pct": 0.31,
+   "avg_change_pct": 0.45,
    "industries_included": [
     "Oil & Gas E&P",
     "Oil & Gas Integrated"
@@ -433,7 +433,9 @@
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
      "fwd_eps": 5.75
     }
-   ]
+   ],
+   "median_change_pct": 0.42,
+   "pe_hm": 16.2
   },
   {
    "id": "shale_ep",
@@ -441,7 +443,7 @@
    "color": "#D97742",
    "count": 9,
    "total_market_cap_b": 358.4,
-   "avg_change_pct": 0.66,
+   "avg_change_pct": 0.73,
    "industries_included": [
     "Oil & Gas E&P"
    ],
@@ -905,7 +907,9 @@
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
      "fwd_eps": 4.32
     }
-   ]
+   ],
+   "median_change_pct": 0.61,
+   "pe_hm": 14.4
   },
   {
    "id": "oilfield_services",
@@ -913,7 +917,7 @@
    "color": "#A67C52",
    "count": 6,
    "total_market_cap_b": 229.23,
-   "avg_change_pct": 0.6,
+   "avg_change_pct": 0.63,
    "industries_included": [
     "Oil & Gas Equipment & Services"
    ],
@@ -1224,7 +1228,9 @@
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
      "fwd_eps": 7.06
     }
-   ]
+   ],
+   "median_change_pct": 0.54,
+   "pe_hm": 24.5
   },
   {
    "id": "midstream_lng",
@@ -1232,7 +1238,7 @@
    "color": "#C9A227",
    "count": 8,
    "total_market_cap_b": 568.73,
-   "avg_change_pct": 0.18,
+   "avg_change_pct": 0.17,
    "industries_included": [
     "Oil & Gas Midstream"
    ],
@@ -1645,7 +1651,9 @@
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
      "fwd_eps": 4.85
     }
-   ]
+   ],
+   "median_change_pct": 0.43,
+   "pe_hm": 18.2
   },
   {
    "id": "refining_downstream",
@@ -1862,7 +1870,9 @@
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
      "fwd_eps": 9.62
     }
-   ]
+   ],
+   "median_change_pct": 0.9,
+   "pe_hm": 14.0
   },
   {
    "id": "nuclear_uranium",
@@ -1870,7 +1880,7 @@
    "color": "#F2D43D",
    "count": 9,
    "total_market_cap_b": 190.83,
-   "avg_change_pct": 0.64,
+   "avg_change_pct": 0.73,
    "industries_included": [
     "Aerospace & Defense",
     "Specialty Industrial Machinery",
@@ -2337,7 +2347,9 @@
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
      "fwd_eps": -0.65
     }
-   ]
+   ],
+   "median_change_pct": 0.35,
+   "pe_hm": 38.0
   },
   {
    "id": "renewables_solar",
@@ -2345,7 +2357,7 @@
    "color": "#9CC65A",
    "count": 8,
    "total_market_cap_b": 231.61,
-   "avg_change_pct": -0.05,
+   "avg_change_pct": -0.37,
    "industries_included": [
     "Solar",
     "Utilities - Regulated Electric",
@@ -2760,7 +2772,9 @@
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
      "fwd_eps": 0.9
     }
-   ]
+   ],
+   "median_change_pct": 0.07,
+   "pe_hm": 17.7
   },
   {
    "id": "grid_storage",
@@ -2768,7 +2782,7 @@
    "color": "#F08C4A",
    "count": 8,
    "total_market_cap_b": 679.7,
-   "avg_change_pct": -0.94,
+   "avg_change_pct": 0.08,
    "industries_included": [
     "Electrical Equipment & Parts",
     "Engineering & Construction",
@@ -3184,7 +3198,9 @@
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
      "fwd_eps": -0.15
     }
-   ]
+   ],
+   "median_change_pct": -0.03,
+   "pe_hm": 39.2
   },
   {
    "id": "power_utilities_ipp",
@@ -3192,7 +3208,7 @@
    "color": "#CB9E6E",
    "count": 8,
    "total_market_cap_b": 426.85,
-   "avg_change_pct": 0.22,
+   "avg_change_pct": 0.15,
    "industries_included": [
     "Utilities - Independent Power Producers",
     "Utilities - Regulated Electric"
@@ -3606,7 +3622,9 @@
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
      "fwd_eps": 30.77
     }
-   ]
+   ],
+   "median_change_pct": 0.16,
+   "pe_hm": 21.5
   }
  ]
 }
