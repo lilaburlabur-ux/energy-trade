@@ -26,6 +26,30 @@ import yfinance as yf
 PATH = os.path.join(HERE, "universe.json")
 
 
+def bucket_aggregates(members):
+    """Bucket stats: cap-weighted day move (a real index — XOM moves the
+    Majors bubble more than SU), median move (robust check), and the bucket's
+    true P/E as the cap-weighted HARMONIC mean (simple-averaging P/E ratios
+    overstates them; the harmonic form equals total cap / total earnings).
+    Harmonic mean is NOT used for day moves — undefined for negatives."""
+    import statistics
+    known = [(t.get("change_pct"), t.get("market_cap_b") or 0)
+             for t in members if t.get("change_pct") is not None]
+    wsum = sum(w for _, w in known)
+    if wsum:
+        avg = sum(c * w for c, w in known) / wsum
+    elif known:
+        avg = sum(c for c, _ in known) / len(known)
+    else:
+        avg = 0.0
+    med = statistics.median([c for c, _ in known]) if known else None
+    pes = [(t["pe"], t.get("market_cap_b") or 0) for t in members
+           if isinstance(t.get("pe"), (int, float)) and t["pe"] > 0 and (t.get("market_cap_b") or 0) > 0]
+    pe_hm = (sum(w for _, w in pes) / sum(w / p for p, w in pes)) if pes else None
+    return (round(avg, 2), round(med, 2) if med is not None else None,
+            round(pe_hm, 1) if pe_hm else None)
+
+
 def main():
     d = json.load(open(PATH))
     ok = fail = 0
@@ -159,7 +183,8 @@ def main():
             b["tickers"] = list(dedup.values())
         b["count"] = len(b["tickers"])   # self-heal: merge races have corrupted counts
         b["total_market_cap_b"] = round(sum(t.get("market_cap_b") or 0 for t in b["tickers"]), 1)
-        b["avg_change_pct"] = round(sum(t.get("change_pct") or 0 for t in b["tickers"]) / len(b["tickers"]), 2)
+        (b["avg_change_pct"], b["median_change_pct"],
+         b["pe_hm"]) = bucket_aggregates(b["tickers"])
         b["tickers"].sort(key=lambda t: t.get("market_cap_b") or 0, reverse=True)
         print(f"  bubble {b['id']}: cap ${b['total_market_cap_b']}B, avg {b['avg_change_pct']:+.2f}%")
 

@@ -1322,10 +1322,12 @@ function showGroupDetail(g){
         <td class="num">${t.market_cap_b?fmtCap(t.market_cap_b*1e9):"—"}</td></tr>`).join("");
   document.getElementById("detail").innerHTML=`
     <div class="d-head"><span class="d-sym" style="font-size:19px">${g.label}</span>
-      <span class="d-pct ${pctClass(g.avg_change_pct)}">${fmtPct(g.avg_change_pct)} avg</span></div>
+      <span class="d-pct ${pctClass(g.avg_change_pct)}">${fmtPct(g.avg_change_pct)} cap-weighted</span></div>
     <div class="d-stats">
       <div class="d-stat"><div class="k">Combined market cap</div><div class="v">${fmtCap(g.total_market_cap_b*1e9)}</div></div>
       <div class="d-stat"><div class="k">Members</div><div class="v">${g.count} tickers</div></div>
+      <div class="d-stat"><div class="k">Median move</div><div class="v ${g.median_change_pct!=null?pctClass(g.median_change_pct):""}">${g.median_change_pct!=null?fmtPct(g.median_change_pct):"—"}</div></div>
+      <div class="d-stat" title="Cap-weighted harmonic mean — the statistically correct way to average P/E ratios"><div class="k">Bucket P/E</div><div class="v">${g.pe_hm!=null?g.pe_hm:"—"}</div></div>
     </div>
     <div class="sec-label">Members · ticker opens its page</div>
     <table class="sect-tbl"><thead>

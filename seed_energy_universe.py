@@ -43,6 +43,30 @@ BUCKETS = [
 SEED_NOTE = "seeded {} by seed_energy_universe.py; live fields maintained by update_quotes.py"
 
 
+def bucket_aggregates(members):
+    """Bucket stats: cap-weighted day move (a real index — XOM moves the
+    Majors bubble more than SU), median move (robust check), and the bucket's
+    true P/E as the cap-weighted HARMONIC mean (simple-averaging P/E ratios
+    overstates them; the harmonic form equals total cap / total earnings).
+    Harmonic mean is NOT used for day moves — undefined for negatives."""
+    import statistics
+    known = [(t.get("change_pct"), t.get("market_cap_b") or 0)
+             for t in members if t.get("change_pct") is not None]
+    wsum = sum(w for _, w in known)
+    if wsum:
+        avg = sum(c * w for c, w in known) / wsum
+    elif known:
+        avg = sum(c for c, _ in known) / len(known)
+    else:
+        avg = 0.0
+    med = statistics.median([c for c, _ in known]) if known else None
+    pes = [(t["pe"], t.get("market_cap_b") or 0) for t in members
+           if isinstance(t.get("pe"), (int, float)) and t["pe"] > 0 and (t.get("market_cap_b") or 0) > 0]
+    pe_hm = (sum(w for _, w in pes) / sum(w / p for p, w in pes)) if pes else None
+    return (round(avg, 2), round(med, 2) if med is not None else None,
+            round(pe_hm, 1) if pe_hm else None)
+
+
 def pct(closes, days):
     if len(closes) <= days:
         return None
@@ -103,11 +127,11 @@ def main():
                 failures.append(f"{s}: {e}")
                 print(f"  {s:6} FAILED — {e}")
         caps = [t["market_cap_b"] for t in tickers if t["market_cap_b"]]
-        moves = [t["change_pct"] for t in tickers]
+        avg, med, pe_hm = bucket_aggregates(tickers)
         bubbles.append({
             "id": bid, "label": label, "color": color, "count": len(tickers),
             "total_market_cap_b": round(sum(caps), 2),
-            "avg_change_pct": round(sum(moves) / len(moves), 2) if moves else 0,
+            "avg_change_pct": avg, "median_change_pct": med, "pe_hm": pe_hm,
             "industries_included": sorted(industries),
             "tickers": tickers,
         })
@@ -120,7 +144,7 @@ def main():
             "min_bubble_size": 7,
             "render_spec": {
                 "bubble_size": "sqrt(total_market_cap_b) — sqrt scale so megacaps don't drown the map",
-                "bubble_color": "avg_change_pct (red<0<green) or fixed category color",
+                "bubble_color": "cap-weighted avg_change_pct (red<0<green) or fixed category color",
                 "drilldown": "click bubble -> packed circles of member tickers, ticker circle size = sqrt(market_cap_b), color = change_pct",
                 "tooltip": "company, industry, cap, P/E, price, day %",
             },
