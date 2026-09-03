@@ -1,0 +1,151 @@
+# SO Research Report
+**The Southern Company** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+Signed file: `SO.research.03.09.2026`
+
+| Field | Value |
+|---|---|
+| Current price | $88.77 (2026-09-03, ~15-min delayed) |
+| Market cap | $102.12B |
+| Sector / Industry | Utilities / Utilities - Regulated Electric |
+| Main theme | Utilities - Regulated Electric — see catalysts below |
+| Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
+
+> Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-09-03.
+
+## 1. Executive Summary
+| Area | Score / Read | Reason |
+|---|---|---|
+| Technical momentum | Low | Below SMA200 (-2.50%) with negative half-year (-7.16%). |
+| Fresh setup quality | Moderate / wait | -8.95% from 52w high; no clean fresh pivot by default. |
+| Fundamental quality | Mixed | Profit margin 15.43%, revenue growth 0.10%. |
+| Value attractiveness | Reasonable | Forward P/E 18.03, EV/Sales 5.91. |
+| Risk level | Moderate | Beta 0.33, ATR 1.6% of price, short float 2.84%. |
+
+**Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
+
+**Key questions before any trade (standard):**
+- Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
+- Where is the actual invalidation level? If that level is too far away, the setup is not clean.
+- Is the move supported by new institutional demand or just retail/short-covering momentum?
+- Can earnings convert fast enough to justify the valuation?
+
+## 2. Company Overview and Recent Catalysts
+The Southern Company, through its subsidiaries, engages in the sale of electricity. The company offers electric service to retail customers and wholesale customers; and energy-related products and services to natural gas choice markets. It also develops, constructs, acquires, owns, operates, and manages power generation assets, as well as battery energy storage projects; sells electricity at market-based rates in the wholesale market; and deploys microgrids for commercial, industrial, governmental, and utility customers.
+
+**Recent headlines (potential catalysts):**
+
+| Headline | Source | Date |
+|---|---|---|
+| Is Southern Company Stock Underperforming the Dow? | Barchart | 2026-09-03 |
+| Why High-Yield Baby Bonds Offer Income Investors a Rare Opportunity | Barrons.com | 2026-09-02 |
+| No ETFs Required: How a 64-Year-Old Built a $5,700 Monthly Paycheck From Five Dividend Stocks | 24/7 Wall St. | 2026-09-02 |
+| Vistra Stock Is Down, But Is This Power Producer's Dip An Opportunity? | Trefis | 2026-09-01 |
+
+## 3. Technical Analysis
+| Technical item | Read |
+|---|---|
+| Price vs 52-week range | Close $88.77; 52w high $97.49 (-8.95%); 52w low $82.06 (+8.17%) |
+| Trend | -2.50% vs SMA200, -4.53% vs SMA50, -1.73% vs SMA20 |
+| Momentum | RSI(14) 37.0 (neutral) |
+| Volatility | ATR(14) 1.46 (~1.6% of price); beta 0.33 |
+| Setup perspective | -8.95% from 52w high; no clean fresh pivot by default. |
+
+**Performance snapshot:**
+
+| Window | Return |
+|---|---|
+| Week | -0.3% |
+| Month | -3.9% |
+| Quarter | -2.3% |
+| Half Y | -7.2% |
+| 1Y | +0.0% |
+| YTD | +4.3% |
+
+## 4. Fundamental Analysis
+| Factor | Observation | Implication / extra |
+|---|---|---|
+| Next earnings | 2026-10-29 | Next scheduled report (Yahoo estimate) |
+| Revenue (ttm) | $30.18B | Revenue growth 0.10% y/y |
+| Profitability | Gross 48.29%, operating 29.61%, net 15.43% | ROA 3.27%, ROE 11.48% |
+| Balance sheet | Cash $2.98B, debt $77.09B | Current ratio 0.79, debt/equity 182.06 |
+| Valuation | P/E 21.39, forward P/E 18.03, P/S 3.38, P/B 2.58 | EV/Sales 5.91, EV/EBITDA 12.52 |
+| Growth expectations | Earnings growth 30.40%, EPS q/q 33.40% | Analyst mean target $99.97 (19 analysts) |
+
+## 5. Institutional Investors and Ownership
+| Metric | Value |
+|---|---|
+| Institutional ownership | 74.25% |
+| Insider ownership | 0.10% |
+| Short float | 2.84% |
+| Short ratio (days to cover) | 6.3 |
+
+**Top institutional holders:**
+
+| Holder | Shares | % Out | Reported |
+|---|---|---|---|
+| Blackrock Inc. | 92,990,716 | 8.08% | 2026-06-30 |
+| Vanguard Capital Management LLC | 73,665,124 | 6.40% | 2026-06-30 |
+| State Street Corporation | 64,809,708 | 5.63% | 2026-06-30 |
+| Capital World Investors | 62,518,698 | 5.43% | 2026-06-30 |
+| Price (T.Rowe) Associates Inc | 46,415,904 | 4.03% | 2026-06-30 |
+| JPMORGAN CHASE & CO | 32,778,201 | 2.85% | 2026-06-30 |
+| Geode Capital Management, LLC | 29,315,285 | 2.55% | 2026-06-30 |
+| Vanguard Portfolio Management LLC | 27,023,691 | 2.35% | 2026-06-30 |
+| FMR, LLC | 22,537,244 | 1.96% | 2026-06-30 |
+| Franklin Resources, Inc. | 16,561,908 | 1.44% | 2026-06-30 |
+
+## 6. Risk Review and Setup Plan
+- **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
+
+### Setup checklist for your journal
+| Question | Pass condition |
+|---|---|
+| Is there a new base? | Tight sideways action near highs, declining volume, clear resistance. |
+| Is the pivot obvious? | A clean level that multiple traders can see; not a random candle high. |
+| Is risk defined? | Stop based on structure and less than the expected first upside target. |
+| Is volume confirming? | Breakout volume expands; pullback volume dries up. |
+| Is position size small enough? | A normal shakeout should not cause emotional decision-making. |
+
+## 7. Full Data Snapshot
+| Metric | Value | Metric | Value |
+|---|---|---|---|
+| Price | $88.77 | EV/Sales | 5.91 |
+| Market cap | $102.12B | EV/EBITDA | 12.52 |
+| Beta | 0.33 | Gross margin | 48.29% |
+| RSI(14) | 37.0 | Operating margin | 29.61% |
+| ATR(14) | 1.46 | Profit margin | 15.43% |
+| SMA20 dist | -1.73% | ROA | 3.27% |
+| SMA50 dist | -4.53% | ROE | 11.48% |
+| SMA200 dist | -2.50% | Revenue (ttm) | $30.18B |
+| 52W high | $97.49 | Revenue growth y/y | 0.10% |
+| 52W low | $82.06 | Inst. ownership | 74.25% |
+| P/E (ttm) | 21.39 | Insider ownership | 0.10% |
+| Forward P/E | 18.03 | Short float | 2.84% |
+| PEG (trailing) | 2.08 | Avg volume | 5,820,806 |
+| P/S | 3.38 | Employees | 29,502 |
+| P/B | 2.58 | Analyst rec (1=buy..5=sell) | 2.7 |
+
+## 8. Analyst Actions
+| Date | Action | Firm | Rating change |
+|---|---|---|---|
+| 2026-08-21 | main | Morgan Stanley | Underweight → Underweight |
+| 2026-08-13 | main | Truist Securities | Hold → Hold |
+| 2026-07-27 | main | BMO Capital | Outperform → Outperform |
+| 2026-07-23 | down | Keybanc | Sector Weight → Underweight |
+| 2026-07-22 | main | BMO Capital | Outperform → Outperform |
+| 2026-07-16 | main | JP Morgan | Neutral → Neutral |
+| 2026-06-18 | main | Barclays | Equal-Weight → Equal-Weight |
+| 2026-05-29 | main | Truist Securities | Hold → Hold |
+
+## 9. Conclusion
+SO: Low momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+
+## Sources
+| Source | URL | Used for |
+|---|---|---|
+| Yahoo Finance quote/profile/statistics for SO | https://finance.yahoo.com/quote/SO | Snapshot metrics, ownership, analyst data |
+| Yahoo Finance price history (via yfinance) | https://finance.yahoo.com/quote/SO/history | SMA/RSI/ATR/performance calculations |
+| Yahoo Finance news feed | https://finance.yahoo.com/quote/SO/news | Catalyst headlines |
+| Method template | AEHR.research.31.05.2026.pdf (user's Cowork method) | Report structure, scoring areas, checklist |
+
+_Note: the template's native Finviz/Fintel/ADVFN pages block automated retrieval; equivalent metrics above are computed from Yahoo Finance data instead and labeled accordingly._
