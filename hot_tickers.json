@@ -1,27 +1,10 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-04T01:22:14+00:00",
+  "as_of": "2026-09-04T03:44:19+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": [
-  {
-   "rank": 1,
-   "ticker": "EOSE",
-   "company": "Eos Energy Enterprises, Inc.",
-   "move_pct": 18.75,
-   "price": 3.61,
-   "volume": 23279373,
-   "volume_vs_avg": "~0.9x",
-   "heat_score": 82,
-   "direction": "up",
-   "why": "Eos Energy Enterprises (EOSE) Stock Dropped, So What Is Driving Attention Now?",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/eos-energy-enterprises-eose-stock-230945001.html",
-   "published": "2026-09-03T23:09:45Z",
-   "sector": "Grid, Storage & Electrification"
-  }
- ]
+ "hot_tickers": []
 }
