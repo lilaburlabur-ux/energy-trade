@@ -121,7 +121,7 @@ Public Service Enterprise Group Incorporated, through its subsidiaries, operates
 | 52W low | $72.61 | Inst. ownership | 79.31% |
 | P/E (ttm) | 18.33 | Insider ownership | 0.13% |
 | Forward P/E | 15.77 | Short float | 2.22% |
-| PEG (trailing) | 3.44 | Avg volume | 2,903,519 |
+| PEG (trailing) | 3.64 | Avg volume | 2,903,519 |
 | P/S | 2.93 | Employees | 13,189 |
 | P/B | 2.12 | Analyst rec (1=buy..5=sell) | 2.3 |
 

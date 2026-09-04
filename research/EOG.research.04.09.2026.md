@@ -36,10 +36,10 @@ EOG Resources, Inc., together with its subsidiaries, explores for, develops, pro
 
 | Headline | Source | Date |
 |---|---|---|
+| How Is EOG Resources' Stock Performance Compared to Other Oil & Gas E&P Stocks? | Barchart | 2026-09-04 |
 | Chord Energy Corporation (CHRD) Up 11.7% Since Last Earnings Report: Can It Continue? | Zacks | 2026-09-04 |
 | Why Is EOG Resources (EOG) Up 11% Since Last Earnings Report? | Zacks | 2026-09-03 |
 | S&P 500 Posts Slight Weekly Gain as Tech Earnings Top Expectations | MT Newswires | 2026-08-28 |
-| Why ExxonMobil's Financial Strength Matters for Investors | Zacks | 2026-08-27 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

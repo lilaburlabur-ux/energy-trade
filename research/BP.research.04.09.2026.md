@@ -19,7 +19,7 @@ Signed file: `BP.research.04.09.2026`
 | Fresh setup quality | Moderate / wait | -5.82% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 2.55%, revenue growth 48.20%. |
 | Value attractiveness | Reasonable | Forward P/E 9.22, EV/Sales 2.34. |
-| Risk level | Moderate | Beta -0.21, ATR 2.2% of price, short float 0.28%. |
+| Risk level | Moderate | Beta -0.22, ATR 2.2% of price, short float 0.28%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
@@ -47,7 +47,7 @@ BP p.l.c., an integrated energy company, engages in the oil and gas business wor
 | Price vs 52-week range | Close $43.81; 52w high $46.52 (-5.82%); 52w low $31.17 (+40.53%) |
 | Trend | +9.77% vs SMA200, +5.40% vs SMA50, +1.37% vs SMA20 |
 | Momentum | RSI(14) 55.5 (neutral) |
-| Volatility | ATR(14) 0.98 (~2.2% of price); beta -0.21 |
+| Volatility | ATR(14) 0.98 (~2.2% of price); beta -0.22 |
 | Setup perspective | -5.82% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
@@ -112,7 +112,7 @@ BP p.l.c., an integrated energy company, engages in the oil and gas business wor
 |---|---|---|---|
 | Price | $43.81 | EV/Sales | 2.34 |
 | Market cap | $112.83B | EV/EBITDA | 12.87 |
-| Beta | -0.21 | Gross margin | 28.30% |
+| Beta | -0.22 | Gross margin | 28.30% |
 | RSI(14) | 55.5 | Operating margin | 13.15% |
 | ATR(14) | 0.98 | Profit margin | 2.55% |
 | SMA20 dist | +1.37% | ROA | 5.04% |

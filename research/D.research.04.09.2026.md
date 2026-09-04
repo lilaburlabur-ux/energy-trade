@@ -121,7 +121,7 @@ Dominion Energy, Inc. provides regulated electricity and natural gas services in
 | 52W low | $55.92 | Inst. ownership | 83.08% |
 | P/E (ttm) | 22.78 | Insider ownership | 0.13% |
 | Forward P/E | 17.26 | Short float | 2.59% |
-| PEG (trailing) | 2.64 | Avg volume | 4,911,628 |
+| PEG (trailing) | 2.83 | Avg volume | 4,911,628 |
 | P/S | 3.20 | Employees | 15,200 |
 | P/B | 2.07 | Analyst rec (1=buy..5=sell) | 2.7 |
 

@@ -19,7 +19,7 @@ Signed file: `CCJ.research.04.09.2026`
 | Fresh setup quality | Moderate / wait | -24.87% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 10.21%, revenue growth -7.20%. |
 | Value attractiveness | Low (expensive) | Forward P/E 53.27, EV/Sales 12.64. |
-| Risk level | Elevated | Beta 0.99, ATR 4.0% of price, short float —. |
+| Risk level | Elevated | Beta 1.01, ATR 4.0% of price, short float —. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: low (expensive), risk: elevated.
 
@@ -47,7 +47,7 @@ Cameco Corporation provides uranium for the generation of electricity in the Ame
 | Price vs 52-week range | Close $100.74; 52w high $134.09 (-24.87%); 52w low $75.70 (+33.07%) |
 | Trend | -4.39% vs SMA200, +5.60% vs SMA50, +0.89% vs SMA20 |
 | Momentum | RSI(14) 54.1 (neutral) |
-| Volatility | ATR(14) 3.98 (~4.0% of price); beta 0.99 |
+| Volatility | ATR(14) 3.98 (~4.0% of price); beta 1.01 |
 | Setup perspective | -24.87% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
@@ -96,7 +96,7 @@ Cameco Corporation provides uranium for the generation of electricity in the Ame
 
 ## 6. Risk Review and Setup Plan
 - **Valuation risk:** Forward P/E 53.27, EV/Sales 12.64. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 0.99, ATR 4.0% of price, short float —. Size positions accordingly.
+- **Volatility risk:** Beta 1.01, ATR 4.0% of price, short float —. Size positions accordingly.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -113,7 +113,7 @@ Cameco Corporation provides uranium for the generation of electricity in the Ame
 |---|---|---|---|
 | Price | $100.74 | EV/Sales | 12.64 |
 | Market cap | $43.88B | EV/EBITDA | 55.02 |
-| Beta | 0.99 | Gross margin | 35.11% |
+| Beta | 1.01 | Gross margin | 35.11% |
 | RSI(14) | 54.1 | Operating margin | 9.11% |
 | ATR(14) | 3.98 | Profit margin | 10.21% |
 | SMA20 dist | +0.89% | ROA | 2.98% |

@@ -36,10 +36,10 @@ Bloom Energy Corporation designs, manufactures, sells, and installs solid oxide 
 
 | Headline | Source | Date |
 |---|---|---|
+| Dow Jones Futures: Nvidia, Micron, Sandisk Flash Buy Signals; Apple, Inflation Reports Ahead | Investor's Business Daily | 2026-09-04 |
+| Bloom Energy, Illumina, Everpure Rise On S&P 500 Inclusion | Investor's Business Daily | 2026-09-04 |
 | Bloom Energy, Illumina, and Everpure set to join S&P 500 in quarterly rebalance | Investing.com | 2026-09-04 |
 | Bloom Energy, Astera Rally On Hopes They Will Join S&P Friday; Who Else Could Be Added | Barrons.com | 2026-09-04 |
-| Zacks Investment Ideas feature highlights: Bloom Energy and Tesla | Zacks | 2026-09-04 |
-| Watch These 2 Energy Stocks — S&P 500 Addition Could Come Before Quarter's End | Stocktwits | 2026-09-04 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
