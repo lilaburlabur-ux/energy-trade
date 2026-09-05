@@ -1,10 +1,27 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-04T23:07:55+00:00",
+  "as_of": "2026-09-05T00:55:42+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": []
+ "hot_tickers": [
+  {
+   "rank": 1,
+   "ticker": "BE",
+   "company": "Bloom Energy Corporation",
+   "move_pct": 8.41,
+   "price": 235.55,
+   "volume": 14783982,
+   "volume_vs_avg": "~1.0x",
+   "heat_score": 59,
+   "direction": "up",
+   "why": "Bloom Energy, Illumina, Everpure Rise On S&P 500 Inclusion",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://www.investors.com/news/bloom-energy-illumina-everpure-rise-sp-500-index-inclusion/?src=A00220&yptr=yahoo",
+   "published": "2026-09-04T22:39:06Z",
+   "sector": "Grid, Storage & Electrification"
+  }
+ ]
 }
