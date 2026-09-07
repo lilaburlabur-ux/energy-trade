@@ -5,7 +5,7 @@ Signed file: `HUBB.research.07.09.2026`
 | Field | Value |
 |---|---|
 | Current price | $460.72 (2026-09-07, ~15-min delayed) |
-| Market cap | $24.34B |
+| Market cap | $24.35B |
 | Sector / Industry | Industrials / Electrical Equipment & Parts |
 | Main theme | Electrical Equipment & Parts — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: fair-to-demanding, risk: moderate. |
@@ -74,7 +74,7 @@ Hubbell Incorporated, together with its subsidiaries, manufactures and sells ele
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 99.19% |
+| Institutional ownership | 99.15% |
 | Insider ownership | 0.34% |
 | Short float | 5.83% |
 | Short ratio (days to cover) | 4.6 |
@@ -112,7 +112,7 @@ Hubbell Incorporated, together with its subsidiaries, manufactures and sells ele
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $460.72 | EV/Sales | 4.74 |
-| Market cap | $24.34B | EV/EBITDA | 19.48 |
+| Market cap | $24.35B | EV/EBITDA | 19.48 |
 | Beta | 0.89 | Gross margin | 35.34% |
 | RSI(14) | 43.2 | Operating margin | 21.67% |
 | ATR(14) | 13.14 | Profit margin | 14.49% |
@@ -120,7 +120,7 @@ Hubbell Incorporated, together with its subsidiaries, manufactures and sells ele
 | SMA50 dist | -4.75% | ROE | 24.44% |
 | SMA200 dist | -4.54% | Revenue (ttm) | $6.22B |
 | 52W high | $554.46 | Revenue growth y/y | 15.30% |
-| 52W low | $402.45 | Inst. ownership | 99.19% |
+| 52W low | $402.45 | Inst. ownership | 99.15% |
 | P/E (ttm) | 27.25 | Insider ownership | 0.34% |
 | Forward P/E | 20.11 | Short float | 5.83% |
 | PEG (trailing) | 1.93 | Avg volume | 573,754 |

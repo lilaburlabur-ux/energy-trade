@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-07T22:54:13+00:00",
-  "as_of_local": "2026-09-07 22:54:13 UTC",
+  "as_of_utc": "2026-09-07T23:33:00+00:00",
+  "as_of_local": "2026-09-07 23:33:00 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -41,6 +41,12 @@
       "market_cap": 409190454929.07623,
       "headlines": [
         {
+          "title": "Chevron (CVX) Doubles Down on Venezuela with a $7 Billion Oil Bet",
+          "url": "https://finance.yahoo.com/energy/articles/chevron-cvx-doubles-down-venezuela-231939575.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-09-07T23:19:39Z"
+        },
+        {
           "title": "Chevron\u2019s Record Run Isn\u2019t Over Yet, BMO Says",
           "url": "https://finance.yahoo.com/energy/articles/chevron-record-run-isn-t-201647397.html",
           "publisher": "Insider Monkey",
@@ -51,12 +57,6 @@
           "url": "https://finance.yahoo.com/energy/articles/2-safe-high-yield-energy-175000575.html",
           "publisher": "Motley Fool",
           "published": "2026-09-07T17:50:00Z"
-        },
-        {
-          "title": "Chevron Is Expanding Operations in Venezuela. How to Play CVX Stock Now.",
-          "url": "https://finance.yahoo.com/energy/articles/chevron-expanding-operations-venezuela-play-153002599.html",
-          "publisher": "Barchart",
-          "published": "2026-09-07T15:30:02Z"
         }
       ]
     },
@@ -150,7 +150,7 @@
       "price": 83.43,
       "previous_close": 84.06,
       "change_pct": -0.75,
-      "market_cap": 174033162613.46002,
+      "market_cap": 174002055654.41626,
       "headlines": [
         {
           "title": "EXC vs. NEE: Which Stock Is the Better Value Option?",
@@ -206,7 +206,7 @@
       "price": 410.85,
       "previous_close": 397.12,
       "change_pct": 3.46,
-      "market_cap": 159574142370.60547,
+      "market_cap": 159533057369.99512,
       "headlines": [
         {
           "title": "VWDRY vs. ETN: Which Stock Is the Better Value Option?",
@@ -225,6 +225,34 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/vertiv-uig-deal-targets-next-142000177.html",
           "publisher": "MarketBeat",
           "published": "2026-09-04T14:20:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "MPC",
+      "name": "Marathon Petroleum",
+      "price": 388.9,
+      "previous_close": 387.71,
+      "change_pct": 0.31,
+      "market_cap": 113534155569.66019,
+      "headlines": [
+        {
+          "title": "Can Marathon Petroleum (MPC) Keep Rallying? Wells Fargo Says Yes",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/marathon-petroleum-mpc-keep-rallying-203402101.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-09-07T20:34:02Z"
+        },
+        {
+          "title": "PBF Energy Rises 168% in a Year: Is This the Right Time to Buy?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/pbf-energy-rises-168-time-170400499.html",
+          "publisher": "Zacks",
+          "published": "2026-09-07T17:04:00Z"
+        },
+        {
+          "title": "Here is What to Know Beyond Why Marathon Petroleum Corporation (MPC) is a Trending Stock",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/know-beyond-why-marathon-petroleum-130002567.html",
+          "publisher": "Zacks",
+          "published": "2026-09-07T13:00:02Z"
         }
       ]
     },
@@ -253,34 +281,6 @@
           "url": "https://finance.yahoo.com/energy/articles/oil-majors-seek-bigger-bargaining-210000743.html",
           "publisher": "Oilprice.com",
           "published": "2026-09-06T21:00:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "MPC",
-      "name": "Marathon Petroleum",
-      "price": 388.9,
-      "previous_close": 387.71,
-      "change_pct": 0.31,
-      "market_cap": 109212748616.68167,
-      "headlines": [
-        {
-          "title": "Can Marathon Petroleum (MPC) Keep Rallying? Wells Fargo Says Yes",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/marathon-petroleum-mpc-keep-rallying-203402101.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-09-07T20:34:02Z"
-        },
-        {
-          "title": "PBF Energy Rises 168% in a Year: Is This the Right Time to Buy?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/pbf-energy-rises-168-time-170400499.html",
-          "publisher": "Zacks",
-          "published": "2026-09-07T17:04:00Z"
-        },
-        {
-          "title": "Here is What to Know Beyond Why Marathon Petroleum Corporation (MPC) is a Trending Stock",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/know-beyond-why-marathon-petroleum-130002567.html",
-          "publisher": "Zacks",
-          "published": "2026-09-07T13:00:02Z"
         }
       ]
     },
@@ -626,7 +626,7 @@
       "price": 145.19,
       "previous_close": 145.96,
       "change_pct": -0.53,
-      "market_cap": 76156392344.02881,
+      "market_cap": 77332337571.06262,
       "headlines": [
         {
           "title": "How Is EOG Resources' Stock Performance Compared to Other Oil & Gas E&P Stocks?",
@@ -741,6 +741,12 @@
       "market_cap": 63034803508.5,
       "headlines": [
         {
+          "title": "Baker Hughes (BKR) Lands Multi-Year Contract with Pakistan\u2019s OGDC",
+          "url": "https://finance.yahoo.com/energy/articles/baker-hughes-bkr-lands-multi-232500809.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-09-07T23:25:00Z"
+        },
+        {
           "title": "Baker Hughes to provide stimulation services for bp in UK North Sea",
           "url": "https://finance.yahoo.com/energy/articles/baker-hughes-stimulation-services-bp-081608146.html",
           "publisher": "Offshore Technology",
@@ -751,12 +757,6 @@
           "url": "https://finance.yahoo.com/energy/articles/basin-rig-count-one-prices-000100672.html",
           "publisher": "Odessa American, Texas",
           "published": "2026-09-05T00:01:00Z"
-        },
-        {
-          "title": "2 Reasons to Avoid BKR and 1 Stock to Buy Instead",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/2-reasons-avoid-bkr-1-183810140.html",
-          "publisher": "StockStory",
-          "published": "2026-09-04T18:38:10Z"
         }
       ]
     },
@@ -850,7 +850,7 @@
       "price": 95.43,
       "previous_close": 95.75,
       "change_pct": -0.33,
-      "market_cap": 60156177514.183556,
+      "market_cap": 60124035258.63077,
       "headlines": [
         {
           "title": "ONEOK (OKE) is Funding a $4.4B Acquisition With a $9B Minority Investment. Is the 7% Capped Return Attractive?",
@@ -1074,7 +1074,7 @@
       "price": 73.7,
       "previous_close": 73.81,
       "change_pct": -0.15,
-      "market_cap": 36733554689.94278,
+      "market_cap": 36726285806.64377,
       "headlines": [
         {
           "title": "PSEG (PEG) Down 2.9% Since Last Earnings Report: Can It Rebound?",
@@ -1494,7 +1494,7 @@
       "price": 31.41,
       "previous_close": 31.1,
       "change_pct": 1.0,
-      "market_cap": 9426506126.8666,
+      "market_cap": 9525898014.37376,
       "headlines": [
         {
           "title": "Forget AI Stocks: This Clean-Power Play Is the Real Winner",
@@ -1606,7 +1606,7 @@
       "price": 95.88,
       "previous_close": 96.43,
       "change_pct": -0.57,
-      "market_cap": 6856580335.10614,
+      "market_cap": 6873200077.95005,
       "headlines": [
         {
           "title": "Solaris Energy Infrastructure, TETRA Technologies, SLB, and Weatherford Stocks Trade Down, What You Need To Know",
@@ -1662,7 +1662,7 @@
       "price": 36.37,
       "previous_close": 36.31,
       "change_pct": 0.17,
-      "market_cap": 4806100706.614288,
+      "market_cap": 4793501120.624313,
       "headlines": [
         {
           "title": "Which Solar Stock Has Dominated in 2026: SolarEdge, Enphase Energy, or First Solar?",
@@ -1718,7 +1718,7 @@
       "price": 14.47,
       "previous_close": 14.35,
       "change_pct": 0.84,
-      "market_cap": 3831273657.5421715,
+      "market_cap": 3616993616.747856,
       "headlines": [
         {
           "title": "Energy Fuels' Q2 Loss Widens: Is a Recovery on the Horizon?",
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 92.61,
-      "change_pct": 1.24
+      "price": 92.59,
+      "change_pct": 1.21
     },
     {
       "label": "Brent",
-      "price": 97.23,
-      "change_pct": 0.99
+      "price": 97.2,
+      "change_pct": 0.96
     },
     {
       "label": "NatGas",
       "price": 2.98,
-      "change_pct": 0.03
+      "change_pct": 0.17
     }
   ]
 }

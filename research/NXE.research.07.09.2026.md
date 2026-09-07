@@ -5,7 +5,7 @@ Signed file: `NXE.research.07.09.2026`
 | Field | Value |
 |---|---|
 | Current price | $10.73 (2026-09-07, ~15-min delayed) |
-| Market cap | $7.19B |
+| Market cap | $7.10B |
 | Sector / Industry | Energy / Uranium |
 | Main theme | Uranium — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
@@ -69,7 +69,7 @@ NexGen Energy Ltd., an exploration and development stage company, engages in the
 | Profitability | Gross 0.00%, operating 0.00%, net 0.00% | ROA -3.39%, ROE -17.67% |
 | Balance sheet | Cash $970.25M, debt $619.11M | Current ratio 1.46, debt/equity 33.57 |
 | Valuation | P/E —, forward P/E -57.44, P/S —, P/B 5.37 | EV/Sales —, EV/EBITDA -63.08 |
-| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $19.46 (1 analysts) |
+| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $19.47 (1 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
@@ -111,7 +111,7 @@ NexGen Energy Ltd., an exploration and development stage company, engages in the
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $10.73 | EV/Sales | — |
-| Market cap | $7.19B | EV/EBITDA | -63.08 |
+| Market cap | $7.10B | EV/EBITDA | -63.08 |
 | Beta | 1.67 | Gross margin | 0.00% |
 | RSI(14) | 54.9 | Operating margin | 0.00% |
 | ATR(14) | 0.48 | Profit margin | 0.00% |

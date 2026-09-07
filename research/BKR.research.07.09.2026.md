@@ -36,10 +36,10 @@ Baker Hughes Company provides a portfolio of technologies and services to energy
 
 | Headline | Source | Date |
 |---|---|---|
+| Baker Hughes (BKR) Lands Multi-Year Contract with Pakistan’s OGDC | Insider Monkey | 2026-09-07 |
 | Baker Hughes to provide stimulation services for bp in UK North Sea | Offshore Technology | 2026-09-07 |
 | Basin rig count up one as prices surge | Odessa American, Texas | 2026-09-05 |
 | 2 Reasons to Avoid BKR and 1 Stock to Buy Instead | StockStory | 2026-09-04 |
-| U.S. Oil Rig Count Rises as Gas Rig Activity Declines | Oilprice.com | 2026-09-04 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

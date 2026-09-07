@@ -36,10 +36,10 @@ Chevron Corporation, through its subsidiaries, engages in the integrated energy 
 
 | Headline | Source | Date |
 |---|---|---|
+| Chevron (CVX) Doubles Down on Venezuela with a $7 Billion Oil Bet | Insider Monkey | 2026-09-07 |
 | Chevron’s Record Run Isn’t Over Yet, BMO Says | Insider Monkey | 2026-09-07 |
 | 2 Safe High-Yield Energy Dividend Stocks You've Probably Never Heard Of | Motley Fool | 2026-09-07 |
 | Chevron Is Expanding Operations in Venezuela. How to Play CVX Stock Now. | Barchart | 2026-09-07 |
-| Chevron Targets $7B Investment in Venezuela | The Daily Upside | 2026-09-07 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -74,7 +74,7 @@ Chevron Corporation, through its subsidiaries, engages in the integrated energy 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 71.17% |
+| Institutional ownership | 71.21% |
 | Insider ownership | 4.77% |
 | Short float | 0.81% |
 | Short ratio (days to cover) | 2.0 |
@@ -119,7 +119,7 @@ Chevron Corporation, through its subsidiaries, engages in the integrated energy 
 | SMA50 dist | +9.81% | ROE | 12.23% |
 | SMA200 dist | +17.04% | Revenue (ttm) | $209.38B |
 | 52W high | $211.78 | Revenue growth y/y | 53.50% |
-| 52W low | $142.76 | Inst. ownership | 71.17% |
+| 52W low | $142.76 | Inst. ownership | 71.21% |
 | P/E (ttm) | 20.08 | Insider ownership | 4.77% |
 | Forward P/E | 15.53 | Short float | 0.81% |
 | PEG (trailing) | 0.93 | Avg volume | 8,454,115 |
