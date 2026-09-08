@@ -1,14 +1,14 @@
 # NEE Research Report
-**NextEra Energy** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**NextEra Energy, Inc.** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `NEE.research.08.09.2026`
 
 | Field | Value |
 |---|---|
 | Current price | $83.83 (2026-09-08, ~15-min delayed) |
-| Market cap | — |
-| Sector / Industry | — / — |
-| Main theme | Semiconductors — see catalysts below |
-| Current stance | Low technical momentum, mixed fundamentals, value: low (expensive), risk: moderate. |
+| Market cap | $174.87B |
+| Sector / Industry | Utilities / Utilities - Regulated Electric |
+| Main theme | Utilities - Regulated Electric — see catalysts below |
+| Current stance | Low technical momentum, strong fundamentals, value: reasonable, risk: moderate. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-09-08.
 
@@ -17,11 +17,11 @@ Signed file: `NEE.research.08.09.2026`
 |---|---|---|
 | Technical momentum | Low | Below SMA200 (-3.14%) with negative half-year (-7.53%). |
 | Fresh setup quality | Moderate / wait | -13.08% from 52w high; no clean fresh pivot by default. |
-| Fundamental quality | Mixed | Profit margin —, revenue growth —. |
-| Value attractiveness | Low (expensive) | Forward P/E —, EV/Sales —. |
-| Risk level | Moderate | Beta —, ATR 1.6% of price, short float —. |
+| Fundamental quality | Strong | Profit margin 32.40%, revenue growth 12.40%. |
+| Value attractiveness | Reasonable | Forward P/E 19.10, EV/Sales 10.19. |
+| Risk level | Moderate | Beta 0.64, ATR 1.6% of price, short float 0.00%. |
 
-**Bottom line:** Low technical momentum, mixed fundamentals, value: low (expensive), risk: moderate.
+**Bottom line:** Low technical momentum, strong fundamentals, value: reasonable, risk: moderate.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -30,7 +30,7 @@ Signed file: `NEE.research.08.09.2026`
 - Can earnings convert fast enough to justify the valuation?
 
 ## 2. Company Overview and Recent Catalysts
-—
+NextEra Energy, Inc., through its subsidiaries, generates, stores, transmits, distributes, and sells electric power to retail and wholesale customers in North America. It operates through Florida Power & Light Company (FPL) and NEER segments. The company generates electricity from wind, solar, nuclear, natural gas, and other clean energy assets.
 
 **Recent headlines (potential catalysts):**
 
@@ -47,7 +47,7 @@ Signed file: `NEE.research.08.09.2026`
 | Price vs 52-week range | Close $83.83; 52w high $96.44 (-13.08%); 52w low $67.82 (+23.60%) |
 | Trend | -3.14% vs SMA200, -2.41% vs SMA50, -0.20% vs SMA20 |
 | Momentum | RSI(14) 46.3 (neutral) |
-| Volatility | ATR(14) 1.31 (~1.6% of price); beta — |
+| Volatility | ATR(14) 1.31 (~1.6% of price); beta 0.64 |
 | Setup perspective | -13.08% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
@@ -64,23 +64,37 @@ Signed file: `NEE.research.08.09.2026`
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
-| Next earnings | — | Next scheduled report (Yahoo estimate) |
-| Revenue (ttm) | — | Revenue growth — y/y |
-| Profitability | Gross —, operating —, net — | ROA —, ROE — |
-| Balance sheet | Cash —, debt — | Current ratio —, debt/equity — |
-| Valuation | P/E —, forward P/E —, P/S —, P/B — | EV/Sales —, EV/EBITDA — |
-| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $— (— analysts) |
+| Next earnings | 2026-10-27 | Next scheduled report (Yahoo estimate) |
+| Revenue (ttm) | $28.70B | Revenue growth 12.40% y/y |
+| Profitability | Gross 61.02%, operating 31.52%, net 32.40% | ROA 2.44%, ROE 11.68% |
+| Balance sheet | Cash $2.87B, debt $110.20B | Current ratio 0.53, debt/equity 161.68 |
+| Valuation | P/E 18.84, forward P/E 19.10, P/S 6.09, P/B 3.06 | EV/Sales 10.19, EV/EBITDA 20.04 |
+| Growth expectations | Earnings growth 53.10%, EPS q/q 55.00% | Analyst mean target $98.39 (18 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | — |
-| Insider ownership | — |
-| Short float | — |
-| Short ratio (days to cover) | — |
+| Institutional ownership | 87.10% |
+| Insider ownership | 0.12% |
+| Short float | 0.00% |
+| Short ratio (days to cover) | 0.0 |
+
+**Top institutional holders:**
+
+| Holder | Shares | % Out | Reported |
+|---|---|---|---|
+| Blackrock Inc. | 186,838,459 | 8.96% | 2026-06-30 |
+| Vanguard Capital Management LLC | 136,210,944 | 6.53% | 2026-06-30 |
+| State Street Corporation | 118,952,736 | 5.70% | 2026-06-30 |
+| JPMORGAN CHASE & CO | 116,048,771 | 5.56% | 2026-06-30 |
+| Morgan Stanley | 63,514,030 | 3.04% | 2026-06-30 |
+| Vanguard Portfolio Management LLC | 62,243,168 | 2.98% | 2026-06-30 |
+| Geode Capital Management, LLC | 49,963,310 | 2.40% | 2026-06-30 |
+| Franklin Resources, Inc. | 44,455,018 | 2.13% | 2026-06-30 |
+| NORGES BANK | 32,117,624 | 1.54% | 2026-06-30 |
+| Bank of America Corporation | 29,669,707 | 1.42% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E —, EV/Sales —. Multiple compression is the main downside if growth disappoints.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -95,27 +109,36 @@ Signed file: `NEE.research.08.09.2026`
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $83.83 | EV/Sales | — |
-| Market cap | — | EV/EBITDA | — |
-| Beta | — | Gross margin | — |
-| RSI(14) | 46.3 | Operating margin | — |
-| ATR(14) | 1.31 | Profit margin | — |
-| SMA20 dist | -0.20% | ROA | — |
-| SMA50 dist | -2.41% | ROE | — |
-| SMA200 dist | -3.14% | Revenue (ttm) | — |
-| 52W high | $96.44 | Revenue growth y/y | — |
-| 52W low | $67.82 | Inst. ownership | — |
-| P/E (ttm) | — | Insider ownership | — |
-| Forward P/E | — | Short float | — |
-| PEG (trailing) | 1.68 | Avg volume | 0 |
-| P/S | — | Employees | 0 |
-| P/B | — | Analyst rec (1=buy..5=sell) | — |
+| Price | $83.83 | EV/Sales | 10.19 |
+| Market cap | $174.87B | EV/EBITDA | 20.04 |
+| Beta | 0.64 | Gross margin | 61.02% |
+| RSI(14) | 46.3 | Operating margin | 31.52% |
+| ATR(14) | 1.31 | Profit margin | 32.40% |
+| SMA20 dist | -0.20% | ROA | 2.44% |
+| SMA50 dist | -2.41% | ROE | 11.68% |
+| SMA200 dist | -3.14% | Revenue (ttm) | $28.70B |
+| 52W high | $96.44 | Revenue growth y/y | 12.40% |
+| 52W low | $67.82 | Inst. ownership | 87.10% |
+| P/E (ttm) | 18.84 | Insider ownership | 0.12% |
+| Forward P/E | 19.10 | Short float | 0.00% |
+| PEG (trailing) | 1.68 | Avg volume | 11,052,995 |
+| P/S | 6.09 | Employees | 17,400 |
+| P/B | 3.06 | Analyst rec (1=buy..5=sell) | 2.0 |
 
 ## 8. Analyst Actions
-_No recent analyst actions available from Yahoo._
+| Date | Action | Firm | Rating change |
+|---|---|---|---|
+| 2026-08-21 | main | Morgan Stanley | Overweight → Overweight |
+| 2026-07-27 | main | BMO Capital | Outperform → Outperform |
+| 2026-07-20 | main | BMO Capital | Outperform → Outperform |
+| 2026-07-13 | main | B of A Securities | Neutral → Neutral |
+| 2026-07-07 | main | Barclays | Equal-Weight → Equal-Weight |
+| 2026-06-17 | init | Bernstein | — → Outperform |
+| 2026-05-26 | main | Barclays | Equal-Weight → Equal-Weight |
+| 2026-05-19 | main | Morgan Stanley | Overweight → Overweight |
 
 ## 9. Conclusion
-NEE: Low momentum / mixed fundamentals / low (expensive) value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+NEE: Low momentum / strong fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

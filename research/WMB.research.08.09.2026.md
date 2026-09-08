@@ -1,14 +1,14 @@
 # WMB Research Report
-**Williams Companies** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**The Williams Companies, Inc.** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `WMB.research.08.09.2026`
 
 | Field | Value |
 |---|---|
 | Current price | $75.83 (2026-09-08, ~15-min delayed) |
-| Market cap | — |
-| Sector / Industry | — / — |
-| Main theme | Semiconductors — see catalysts below |
-| Current stance | Moderate technical momentum, mixed fundamentals, value: low (expensive), risk: moderate. |
+| Market cap | $92.75B |
+| Sector / Industry | Energy / Oil & Gas Midstream |
+| Main theme | Oil & Gas Midstream — see catalysts below |
+| Current stance | Moderate technical momentum, mixed fundamentals, value: fair-to-demanding, risk: moderate. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-09-08.
 
@@ -17,11 +17,11 @@ Signed file: `WMB.research.08.09.2026`
 |---|---|---|
 | Technical momentum | Moderate | 1Y +36.78%; price +8.86% vs SMA200. |
 | Fresh setup quality | Watch | -3.79% from 52w high and near SMA20 — check for a tight base. |
-| Fundamental quality | Mixed | Profit margin —, revenue growth —. |
-| Value attractiveness | Low (expensive) | Forward P/E —, EV/Sales —. |
-| Risk level | Moderate | Beta —, ATR 2.7% of price, short float —. |
+| Fundamental quality | Mixed | Profit margin 24.94%, revenue growth 7.80%. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 29.16, EV/Sales 10.02. |
+| Risk level | Moderate | Beta 0.62, ATR 2.7% of price, short float 2.22%. |
 
-**Bottom line:** Moderate technical momentum, mixed fundamentals, value: low (expensive), risk: moderate.
+**Bottom line:** Moderate technical momentum, mixed fundamentals, value: fair-to-demanding, risk: moderate.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -30,7 +30,7 @@ Signed file: `WMB.research.08.09.2026`
 - Can earnings convert fast enough to justify the valuation?
 
 ## 2. Company Overview and Recent Catalysts
-—
+The Williams Companies, Inc., together with its subsidiaries, operates as an energy infrastructure company primarily in the United States. It operates through Transmission, Power & Gulf, Northeast G&P, West, and Gas & NGL Marketing Services segments. The Transmission, Power & Gulf segment comprises Transco, NWP, and Mountain West interstate natural gas pipelines, and their related natural gas storage facilities, as well as natural gas gathering and processing; and crude oil production handling and transportation assets in the Gulf Coast region.
 
 **Recent headlines (potential catalysts):**
 
@@ -47,7 +47,7 @@ Signed file: `WMB.research.08.09.2026`
 | Price vs 52-week range | Close $75.83; 52w high $78.82 (-3.79%); 52w low $55.10 (+37.62%) |
 | Trend | +8.86% vs SMA200, +3.41% vs SMA50, +3.02% vs SMA20 |
 | Momentum | RSI(14) 58.8 (neutral) |
-| Volatility | ATR(14) 2.03 (~2.7% of price); beta — |
+| Volatility | ATR(14) 2.03 (~2.7% of price); beta 0.62 |
 | Setup perspective | -3.79% from 52w high and near SMA20 — check for a tight base. |
 
 **Performance snapshot:**
@@ -64,23 +64,38 @@ Signed file: `WMB.research.08.09.2026`
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
-| Next earnings | — | Next scheduled report (Yahoo estimate) |
-| Revenue (ttm) | — | Revenue growth — y/y |
-| Profitability | Gross —, operating —, net — | ROA —, ROE — |
-| Balance sheet | Cash —, debt — | Current ratio —, debt/equity — |
-| Valuation | P/E —, forward P/E —, P/S —, P/B — | EV/Sales —, EV/EBITDA — |
-| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $— (— analysts) |
+| Next earnings | 2026-11-02 | Next scheduled report (Yahoo estimate) |
+| Revenue (ttm) | $12.32B | Revenue growth 7.80% y/y |
+| Profitability | Gross 63.64%, operating 39.54%, net 24.94% | ROA 5.03%, ROE 21.50% |
+| Balance sheet | Cash $203.00M, debt $30.79B | Current ratio 0.48, debt/equity 200.37 |
+| Valuation | P/E 30.21, forward P/E 29.16, P/S 7.53, P/B 7.05 | EV/Sales 10.02, EV/EBITDA 17.56 |
+| Growth expectations | Earnings growth 51.20%, EPS q/q 51.50% | Analyst mean target $85.47 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | — |
-| Insider ownership | — |
-| Short float | — |
-| Short ratio (days to cover) | — |
+| Institutional ownership | 91.56% |
+| Insider ownership | 0.45% |
+| Short float | 2.22% |
+| Short ratio (days to cover) | 3.8 |
+
+**Top institutional holders:**
+
+| Holder | Shares | % Out | Reported |
+|---|---|---|---|
+| Blackrock Inc. | 115,500,312 | 9.44% | 2026-06-30 |
+| Vanguard Capital Management LLC | 79,848,153 | 6.53% | 2026-06-30 |
+| State Street Corporation | 72,015,506 | 5.89% | 2026-06-30 |
+| Bank of America Corporation | 44,667,824 | 3.65% | 2026-06-30 |
+| Vanguard Portfolio Management LLC | 43,513,739 | 3.56% | 2026-06-30 |
+| Wellington Management Group, LLP | 33,097,208 | 2.71% | 2026-06-30 |
+| Morgan Stanley | 31,813,505 | 2.60% | 2026-06-30 |
+| Geode Capital Management, LLC | 29,911,265 | 2.45% | 2026-06-30 |
+| ClearBridge Investments, LLC | 24,212,067 | 1.98% | 2026-06-30 |
+| JPMORGAN CHASE & CO | 21,379,796 | 1.75% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E —, EV/Sales —. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 29.16, EV/Sales 10.02. Multiple compression is the main downside if growth disappoints.
 - **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -96,27 +111,36 @@ Signed file: `WMB.research.08.09.2026`
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $75.83 | EV/Sales | — |
-| Market cap | — | EV/EBITDA | — |
-| Beta | — | Gross margin | — |
-| RSI(14) | 58.8 | Operating margin | — |
-| ATR(14) | 2.03 | Profit margin | — |
-| SMA20 dist | +3.02% | ROA | — |
-| SMA50 dist | +3.41% | ROE | — |
-| SMA200 dist | +8.86% | Revenue (ttm) | — |
-| 52W high | $78.82 | Revenue growth y/y | — |
-| 52W low | $55.10 | Inst. ownership | — |
-| P/E (ttm) | — | Insider ownership | — |
-| Forward P/E | — | Short float | — |
-| PEG (trailing) | — | Avg volume | 0 |
-| P/S | — | Employees | 0 |
-| P/B | — | Analyst rec (1=buy..5=sell) | — |
+| Price | $75.83 | EV/Sales | 10.02 |
+| Market cap | $92.75B | EV/EBITDA | 17.56 |
+| Beta | 0.62 | Gross margin | 63.64% |
+| RSI(14) | 58.8 | Operating margin | 39.54% |
+| ATR(14) | 2.03 | Profit margin | 24.94% |
+| SMA20 dist | +3.02% | ROA | 5.03% |
+| SMA50 dist | +3.41% | ROE | 21.50% |
+| SMA200 dist | +8.86% | Revenue (ttm) | $12.32B |
+| 52W high | $78.82 | Revenue growth y/y | 7.80% |
+| 52W low | $55.10 | Inst. ownership | 91.56% |
+| P/E (ttm) | 30.21 | Insider ownership | 0.45% |
+| Forward P/E | 29.16 | Short float | 2.22% |
+| PEG (trailing) | 2.14 | Avg volume | 7,197,577 |
+| P/S | 7.53 | Employees | 5,987 |
+| P/B | 7.05 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions
-_No recent analyst actions available from Yahoo._
+| Date | Action | Firm | Rating change |
+|---|---|---|---|
+| 2026-08-18 | main | Morgan Stanley | Overweight → Overweight |
+| 2026-08-12 | main | Truist Securities | Buy → Buy |
+| 2026-08-10 | main | RBC Capital | Outperform → Outperform |
+| 2026-08-05 | main | Wells Fargo | Overweight → Overweight |
+| 2026-07-14 | main | Morgan Stanley | Overweight → Overweight |
+| 2026-07-08 | main | Barclays | Equal-Weight → Equal-Weight |
+| 2026-07-01 | main | JP Morgan | Overweight → Overweight |
+| 2026-07-01 | main | Jefferies | Buy → Buy |
 
 ## 9. Conclusion
-WMB: Moderate momentum / mixed fundamentals / low (expensive) value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+WMB: Moderate momentum / mixed fundamentals / fair-to-demanding value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

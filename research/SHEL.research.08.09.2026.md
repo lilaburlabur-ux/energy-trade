@@ -1,14 +1,14 @@
 # SHEL Research Report
-**Shell** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**Shell plc** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `SHEL.research.08.09.2026`
 
 | Field | Value |
 |---|---|
 | Current price | $95.32 (2026-09-08, ~15-min delayed) |
-| Market cap | — |
-| Sector / Industry | — / — |
-| Main theme | Semiconductors — see catalysts below |
-| Current stance | Moderate technical momentum, mixed fundamentals, value: low (expensive), risk: moderate. |
+| Market cap | $272.79B |
+| Sector / Industry | Energy / Oil & Gas Integrated |
+| Main theme | Oil & Gas Integrated — see catalysts below |
+| Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-09-08.
 
@@ -17,11 +17,11 @@ Signed file: `SHEL.research.08.09.2026`
 |---|---|---|
 | Technical momentum | Moderate | 1Y +38.08%; price +16.40% vs SMA200. |
 | Fresh setup quality | Watch | +0.00% from 52w high and near SMA20 — check for a tight base. |
-| Fundamental quality | Mixed | Profit margin —, revenue growth —. |
-| Value attractiveness | Low (expensive) | Forward P/E —, EV/Sales —. |
-| Risk level | Moderate | Beta —, ATR 1.6% of price, short float —. |
+| Fundamental quality | Mixed | Profit margin 8.76%, revenue growth 44.70%. |
+| Value attractiveness | Reasonable | Forward P/E 9.61, EV/Sales 1.02. |
+| Risk level | Moderate | Beta -0.22, ATR 1.6% of price, short float 1.57%. |
 
-**Bottom line:** Moderate technical momentum, mixed fundamentals, value: low (expensive), risk: moderate.
+**Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -30,7 +30,7 @@ Signed file: `SHEL.research.08.09.2026`
 - Can earnings convert fast enough to justify the valuation?
 
 ## 2. Company Overview and Recent Catalysts
-—
+Shell plc operates as an energy and petrochemical company in Europe, Asia, Oceania, Africa, the United States, and other parts of the Americas. It operates through the following segments: Integrated Gas, Upstream, Marketing, Chemicals and Products, and Renewables and Energy Solutions.
 
 **Recent headlines (potential catalysts):**
 
@@ -47,7 +47,7 @@ Signed file: `SHEL.research.08.09.2026`
 | Price vs 52-week range | Close $95.32; 52w high $95.32 (+0.00%); 52w low $68.25 (+39.66%) |
 | Trend | +16.40% vs SMA200, +8.96% vs SMA50, +3.71% vs SMA20 |
 | Momentum | RSI(14) 67.8 (neutral) |
-| Volatility | ATR(14) 1.52 (~1.6% of price); beta — |
+| Volatility | ATR(14) 1.52 (~1.6% of price); beta -0.22 |
 | Setup perspective | +0.00% from 52w high and near SMA20 — check for a tight base. |
 
 **Performance snapshot:**
@@ -64,23 +64,37 @@ Signed file: `SHEL.research.08.09.2026`
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
-| Next earnings | — | Next scheduled report (Yahoo estimate) |
-| Revenue (ttm) | — | Revenue growth — y/y |
-| Profitability | Gross —, operating —, net — | ROA —, ROE — |
-| Balance sheet | Cash —, debt — | Current ratio —, debt/equity — |
-| Valuation | P/E —, forward P/E —, P/S —, P/B — | EV/Sales —, EV/EBITDA — |
-| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $— (— analysts) |
+| Next earnings | 2026-10-29 | Next scheduled report (Yahoo estimate) |
+| Revenue (ttm) | $296.60B | Revenue growth 44.70% y/y |
+| Profitability | Gross 26.09%, operating 16.69%, net 8.76% | ROA 6.40%, ROE 14.34% |
+| Balance sheet | Cash $31.37B, debt $73.08B | Current ratio 1.44, debt/equity 40.20 |
+| Valuation | P/E 10.54, forward P/E 9.61, P/S 0.92, P/B 1.47 | EV/Sales 1.02, EV/EBITDA 5.24 |
+| Growth expectations | Earnings growth 220.00%, EPS q/q 200.50% | Analyst mean target $99.81 (15 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | — |
-| Insider ownership | — |
-| Short float | — |
-| Short ratio (days to cover) | — |
+| Institutional ownership | 13.33% |
+| Insider ownership | 0.01% |
+| Short float | 1.57% |
+| Short ratio (days to cover) | 3.6 |
+
+**Top institutional holders:**
+
+| Holder | Shares | % Out | Reported |
+|---|---|---|---|
+| FMR, LLC | 87,332,346 | 3.14% | 2026-06-30 |
+| Fisher Asset Management, LLC | 27,633,155 | 0.99% | 2026-06-30 |
+| Dimensional Fund Advisors LP | 25,363,810 | 0.91% | 2026-06-30 |
+| Morgan Stanley | 10,779,129 | 0.39% | 2026-06-30 |
+| Goldman Sachs Group Inc | 10,560,692 | 0.38% | 2026-06-30 |
+| Price (T.Rowe) Associates Inc | 9,835,553 | 0.35% | 2026-06-30 |
+| Orbis Allan Gray Ltd | 8,847,436 | 0.32% | 2026-06-30 |
+| Mawer Investment Management Ltd. | 8,013,792 | 0.29% | 2026-06-30 |
+| Bank of America Corporation | 7,709,715 | 0.28% | 2026-06-30 |
+| Arrowstreet Capital, Limited Partnership | 6,727,122 | 0.24% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E —, EV/Sales —. Multiple compression is the main downside if growth disappoints.
 - **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -96,27 +110,36 @@ Signed file: `SHEL.research.08.09.2026`
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $95.32 | EV/Sales | — |
-| Market cap | — | EV/EBITDA | — |
-| Beta | — | Gross margin | — |
-| RSI(14) | 67.8 | Operating margin | — |
-| ATR(14) | 1.52 | Profit margin | — |
-| SMA20 dist | +3.71% | ROA | — |
-| SMA50 dist | +8.96% | ROE | — |
-| SMA200 dist | +16.40% | Revenue (ttm) | — |
-| 52W high | $95.32 | Revenue growth y/y | — |
-| 52W low | $68.25 | Inst. ownership | — |
-| P/E (ttm) | — | Insider ownership | — |
-| Forward P/E | — | Short float | — |
-| PEG (trailing) | 1.57 | Avg volume | 0 |
-| P/S | — | Employees | 0 |
-| P/B | — | Analyst rec (1=buy..5=sell) | — |
+| Price | $95.32 | EV/Sales | 1.02 |
+| Market cap | $272.79B | EV/EBITDA | 5.24 |
+| Beta | -0.22 | Gross margin | 26.09% |
+| RSI(14) | 67.8 | Operating margin | 16.69% |
+| ATR(14) | 1.52 | Profit margin | 8.76% |
+| SMA20 dist | +3.71% | ROA | 6.40% |
+| SMA50 dist | +8.96% | ROE | 14.34% |
+| SMA200 dist | +16.40% | Revenue (ttm) | $296.60B |
+| 52W high | $95.32 | Revenue growth y/y | 44.70% |
+| 52W low | $68.25 | Inst. ownership | 13.33% |
+| P/E (ttm) | 10.54 | Insider ownership | 0.01% |
+| Forward P/E | 9.61 | Short float | 1.57% |
+| PEG (trailing) | 1.57 | Avg volume | 6,398,541 |
+| P/S | 0.92 | Employees | 84,000 |
+| P/B | 1.47 | Analyst rec (1=buy..5=sell) | 2.2 |
 
 ## 8. Analyst Actions
-_No recent analyst actions available from Yahoo._
+| Date | Action | Firm | Rating change |
+|---|---|---|---|
+| 2026-09-03 | main | Piper Sandler | Neutral → Neutral |
+| 2026-08-03 | main | Piper Sandler | Neutral → Neutral |
+| 2026-07-31 | main | Wells Fargo | Equal-Weight → Equal-Weight |
+| 2026-07-20 | init | Mizuho | — → Neutral |
+| 2026-05-21 | main | Jefferies | Buy → Buy |
+| 2026-04-22 | main | Scotiabank | Sector Outperform → Sector Outperform |
+| 2026-04-10 | main | TD Cowen | Buy → Buy |
+| 2026-04-09 | main | Wells Fargo | Equal-Weight → Equal-Weight |
 
 ## 9. Conclusion
-SHEL: Moderate momentum / mixed fundamentals / low (expensive) value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+SHEL: Moderate momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

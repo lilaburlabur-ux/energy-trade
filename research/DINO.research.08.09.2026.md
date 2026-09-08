@@ -1,14 +1,14 @@
 # DINO Research Report
-**HF Sinclair** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**HF Sinclair Corporation** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `DINO.research.08.09.2026`
 
 | Field | Value |
 |---|---|
 | Current price | $108.31 (2026-09-08, ~15-min delayed) |
-| Market cap | — |
-| Sector / Industry | — / — |
-| Main theme | Semiconductors — see catalysts below |
-| Current stance | High technical momentum, mixed fundamentals, value: low (expensive), risk: elevated. |
+| Market cap | $19.26B |
+| Sector / Industry | Energy / Oil & Gas Refining & Marketing |
+| Main theme | Oil & Gas Refining & Marketing — see catalysts below |
+| Current stance | High technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-09-08.
 
@@ -17,11 +17,11 @@ Signed file: `DINO.research.08.09.2026`
 |---|---|---|
 | Technical momentum | High | 1Y +118.87%; price +66.22% vs SMA200. |
 | Fresh setup quality | Moderate / wait | +0.00% from 52w high; no clean fresh pivot by default. |
-| Fundamental quality | Mixed | Profit margin —, revenue growth —. |
-| Value attractiveness | Low (expensive) | Forward P/E —, EV/Sales —. |
-| Risk level | Elevated | Beta —, ATR 3.5% of price, short float —. |
+| Fundamental quality | Mixed | Profit margin 6.13%, revenue growth 53.20%. |
+| Value attractiveness | Reasonable | Forward P/E 10.79, EV/Sales 0.64. |
+| Risk level | Elevated | Beta 0.69, ATR 3.5% of price, short float 5.32%. |
 
-**Bottom line:** High technical momentum, mixed fundamentals, value: low (expensive), risk: elevated.
+**Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -30,7 +30,7 @@ Signed file: `DINO.research.08.09.2026`
 - Can earnings convert fast enough to justify the valuation?
 
 ## 2. Company Overview and Recent Catalysts
-—
+HF Sinclair Corporation operates as an independent energy company in the United States. It operates through five segments: Refining, Renewables, Marketing, Lubricants & Specialties, and Midstream. The company produces and markets gasoline, diesel fuel, jet fuel, renewable diesel, specialty lubricant products, specialty chemicals, commodity and modified asphalt products, and others.
 
 **Recent headlines (potential catalysts):**
 
@@ -47,7 +47,7 @@ Signed file: `DINO.research.08.09.2026`
 | Price vs 52-week range | Close $108.31; 52w high $108.31 (+0.00%); 52w low $44.83 (+141.60%) |
 | Trend | +66.22% vs SMA200, +22.02% vs SMA50, +11.23% vs SMA20 |
 | Momentum | RSI(14) 75.0 (overbought) |
-| Volatility | ATR(14) 3.75 (~3.5% of price); beta — |
+| Volatility | ATR(14) 3.75 (~3.5% of price); beta 0.69 |
 | Setup perspective | +0.00% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
@@ -64,24 +64,39 @@ Signed file: `DINO.research.08.09.2026`
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
-| Next earnings | — | Next scheduled report (Yahoo estimate) |
-| Revenue (ttm) | — | Revenue growth — y/y |
-| Profitability | Gross —, operating —, net — | ROA —, ROE — |
-| Balance sheet | Cash —, debt — | Current ratio —, debt/equity — |
-| Valuation | P/E —, forward P/E —, P/S —, P/B — | EV/Sales —, EV/EBITDA — |
-| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $— (— analysts) |
+| Next earnings | 2026-10-29 | Next scheduled report (Yahoo estimate) |
+| Revenue (ttm) | $31.23B | Revenue growth 53.20% y/y |
+| Profitability | Gross 12.89%, operating 11.69%, net 6.13% | ROA 9.16%, ROE 19.50% |
+| Balance sheet | Cash $2.26B, debt $3.34B | Current ratio 1.97, debt/equity 32.26 |
+| Valuation | P/E 10.33, forward P/E 10.79, P/S 0.62, P/B 1.87 | EV/Sales 0.64, EV/EBITDA 6.20 |
+| Growth expectations | Earnings growth 350.20%, EPS q/q 328.80% | Analyst mean target $92.53 (15 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | — |
-| Insider ownership | — |
-| Short float | — |
-| Short ratio (days to cover) | — |
+| Institutional ownership | 89.72% |
+| Insider ownership | 5.49% |
+| Short float | 5.32% |
+| Short ratio (days to cover) | 2.8 |
+
+**Top institutional holders:**
+
+| Holder | Shares | % Out | Reported |
+|---|---|---|---|
+| Blackrock Inc. | 18,544,173 | 10.43% | 2026-06-30 |
+| TCTC Holdings, LLC | 12,330,782 | 6.94% | 2026-06-30 |
+| Dimensional Fund Advisors LP | 9,532,887 | 5.36% | 2026-06-30 |
+| Vanguard Portfolio Management LLC | 8,856,765 | 4.98% | 2026-06-30 |
+| Vanguard Capital Management LLC | 6,906,593 | 3.88% | 2026-06-30 |
+| State Street Corporation | 6,422,156 | 3.61% | 2026-06-30 |
+| Charles Schwab Investment Management, Inc. | 5,574,305 | 3.14% | 2026-06-30 |
+| Victory Capital Management Inc. | 4,636,623 | 2.61% | 2026-06-30 |
+| AQR Capital Management, LLC | 4,644,694 | 2.61% | 2026-06-30 |
+| Citadel Advisors Llc | 4,263,228 | 2.40% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E —, EV/Sales —. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta —, ATR 3.5% of price, short float —. Size positions accordingly.
+- **Volatility risk:** Beta 0.69, ATR 3.5% of price, short float 5.32%. Size positions accordingly.
+- **Short interest risk:** short float 5.32% can fuel squeezes both ways around news.
 - **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -97,27 +112,36 @@ Signed file: `DINO.research.08.09.2026`
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $108.31 | EV/Sales | — |
-| Market cap | — | EV/EBITDA | — |
-| Beta | — | Gross margin | — |
-| RSI(14) | 75.0 | Operating margin | — |
-| ATR(14) | 3.75 | Profit margin | — |
-| SMA20 dist | +11.23% | ROA | — |
-| SMA50 dist | +22.02% | ROE | — |
-| SMA200 dist | +66.22% | Revenue (ttm) | — |
-| 52W high | $108.31 | Revenue growth y/y | — |
-| 52W low | $44.83 | Inst. ownership | — |
-| P/E (ttm) | — | Insider ownership | — |
-| Forward P/E | — | Short float | — |
-| PEG (trailing) | 1.75 | Avg volume | 0 |
-| P/S | — | Employees | 0 |
-| P/B | — | Analyst rec (1=buy..5=sell) | — |
+| Price | $108.31 | EV/Sales | 0.64 |
+| Market cap | $19.26B | EV/EBITDA | 6.20 |
+| Beta | 0.69 | Gross margin | 12.89% |
+| RSI(14) | 75.0 | Operating margin | 11.69% |
+| ATR(14) | 3.75 | Profit margin | 6.13% |
+| SMA20 dist | +11.23% | ROA | 9.16% |
+| SMA50 dist | +22.02% | ROE | 19.50% |
+| SMA200 dist | +66.22% | Revenue (ttm) | $31.23B |
+| 52W high | $108.31 | Revenue growth y/y | 53.20% |
+| 52W low | $44.83 | Inst. ownership | 89.72% |
+| P/E (ttm) | 10.33 | Insider ownership | 5.49% |
+| Forward P/E | 10.79 | Short float | 5.32% |
+| PEG (trailing) | 1.75 | Avg volume | 2,642,932 |
+| P/S | 0.62 | Employees | 5,165 |
+| P/B | 1.87 | Analyst rec (1=buy..5=sell) | 2.6 |
 
 ## 8. Analyst Actions
-_No recent analyst actions available from Yahoo._
+| Date | Action | Firm | Rating change |
+|---|---|---|---|
+| 2026-09-08 | main | UBS | Buy → Buy |
+| 2026-09-01 | main | Wells Fargo | Equal-Weight → Equal-Weight |
+| 2026-08-04 | main | Mizuho | Neutral → Neutral |
+| 2026-07-29 | main | Barclays | Equal-Weight → Equal-Weight |
+| 2026-07-22 | main | Goldman Sachs | Buy → Buy |
+| 2026-07-21 | main | TD Cowen | Hold → Hold |
+| 2026-07-17 | init | Evercore ISI Group | — → In-Line |
+| 2026-07-13 | main | Raymond James | Strong Buy → Strong Buy |
 
 ## 9. Conclusion
-DINO: High momentum / mixed fundamentals / low (expensive) value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+DINO: High momentum / mixed fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

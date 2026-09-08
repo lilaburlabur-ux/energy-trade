@@ -1,14 +1,14 @@
 # TTE Research Report
-**TotalEnergies** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**TotalEnergies SE** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `TTE.research.08.09.2026`
 
 | Field | Value |
 |---|---|
 | Current price | $90.10 (2026-09-08, ~15-min delayed) |
-| Market cap | — |
-| Sector / Industry | — / — |
-| Main theme | Semiconductors — see catalysts below |
-| Current stance | Moderate technical momentum, mixed fundamentals, value: low (expensive), risk: moderate. |
+| Market cap | $199.36B |
+| Sector / Industry | Energy / Oil & Gas Integrated |
+| Main theme | Oil & Gas Integrated — see catalysts below |
+| Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-09-08.
 
@@ -17,11 +17,11 @@ Signed file: `TTE.research.08.09.2026`
 |---|---|---|
 | Technical momentum | Moderate | 1Y +54.19%; price +12.39% vs SMA200. |
 | Fresh setup quality | Watch | -3.74% from 52w high and near SMA20 — check for a tight base. |
-| Fundamental quality | Mixed | Profit margin —, revenue growth —. |
-| Value attractiveness | Low (expensive) | Forward P/E —, EV/Sales —. |
-| Risk level | Moderate | Beta —, ATR 1.9% of price, short float —. |
+| Fundamental quality | Mixed | Profit margin 9.08%, revenue growth 27.80%. |
+| Value attractiveness | Reasonable | Forward P/E 8.86, EV/Sales 1.18. |
+| Risk level | Moderate | Beta 0.06, ATR 1.9% of price, short float 0.19%. |
 
-**Bottom line:** Moderate technical momentum, mixed fundamentals, value: low (expensive), risk: moderate.
+**Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -30,7 +30,7 @@ Signed file: `TTE.research.08.09.2026`
 - Can earnings convert fast enough to justify the valuation?
 
 ## 2. Company Overview and Recent Catalysts
-—
+TotalEnergies SE, an integrated energy company, produces and markets oil and biofuels, natural gas, biogas and low-carbon hydrogen, renewables, and electricity in France, the United States, Europe, Africa, and internationally. It operates through Exploration & Production, Integrated LNG, Integrated Power, Refining & Chemicals, and Marketing & Services segments. The Exploration & Production segment engages in the activities of exploration and production of oil and natural gas, as well as carbon storage.
 
 **Recent headlines (potential catalysts):**
 
@@ -47,7 +47,7 @@ Signed file: `TTE.research.08.09.2026`
 | Price vs 52-week range | Close $90.10; 52w high $93.60 (-3.74%); 52w low $55.92 (+61.12%) |
 | Trend | +12.39% vs SMA200, +6.16% vs SMA50, +1.54% vs SMA20 |
 | Momentum | RSI(14) 58.8 (neutral) |
-| Volatility | ATR(14) 1.71 (~1.9% of price); beta — |
+| Volatility | ATR(14) 1.71 (~1.9% of price); beta 0.06 |
 | Setup perspective | -3.74% from 52w high and near SMA20 — check for a tight base. |
 
 **Performance snapshot:**
@@ -64,23 +64,37 @@ Signed file: `TTE.research.08.09.2026`
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
-| Next earnings | — | Next scheduled report (Yahoo estimate) |
-| Revenue (ttm) | — | Revenue growth — y/y |
-| Profitability | Gross —, operating —, net — | ROA —, ROE — |
-| Balance sheet | Cash —, debt — | Current ratio —, debt/equity — |
-| Valuation | P/E —, forward P/E —, P/S —, P/B — | EV/Sales —, EV/EBITDA — |
-| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $— (— analysts) |
+| Next earnings | 2026-10-29 | Next scheduled report (Yahoo estimate) |
+| Revenue (ttm) | $196.38B | Revenue growth 27.80% y/y |
+| Profitability | Gross 37.68%, operating 12.79%, net 9.08% | ROA 5.51%, ROE 14.48% |
+| Balance sheet | Cash $31.72B, debt $62.92B | Current ratio 1.06, debt/equity 48.05 |
+| Valuation | P/E 11.28, forward P/E 8.86, P/S 1.02, P/B 1.56 | EV/Sales 1.18, EV/EBITDA 5.82 |
+| Growth expectations | Earnings growth 106.00%, EPS q/q 102.40% | Analyst mean target $96.20 (10 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | — |
-| Insider ownership | — |
-| Short float | — |
-| Short ratio (days to cover) | — |
+| Institutional ownership | 54.13% |
+| Insider ownership | 8.86% |
+| Short float | 0.19% |
+| Short ratio (days to cover) | 2.6 |
+
+**Top institutional holders:**
+
+| Holder | Shares | % Out | Reported |
+|---|---|---|---|
+| Amundi | 206,119,140 | 8.25% | 2026-06-30 |
+| Vanguard Capital Management LLC | 59,951,626 | 2.40% | 2026-06-30 |
+| Capital World Investors | 49,898,874 | 2.00% | 2026-06-30 |
+| Capital International Investors | 47,370,538 | 1.90% | 2026-06-30 |
+| Deutsche Bank AG | 43,577,836 | 1.74% | 2026-06-30 |
+| NORGES BANK | 40,546,835 | 1.62% | 2026-06-30 |
+| JPMORGAN CHASE & CO | 37,495,795 | 1.50% | 2026-06-30 |
+| Caisse Des Depots Et Consignations | 30,368,297 | 1.22% | 2026-06-30 |
+| Wellington Management Group, LLP | 26,300,651 | 1.05% | 2026-06-30 |
+| Goldman Sachs Group Inc | 26,079,768 | 1.04% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E —, EV/Sales —. Multiple compression is the main downside if growth disappoints.
 - **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -96,27 +110,36 @@ Signed file: `TTE.research.08.09.2026`
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $90.10 | EV/Sales | — |
-| Market cap | — | EV/EBITDA | — |
-| Beta | — | Gross margin | — |
-| RSI(14) | 58.8 | Operating margin | — |
-| ATR(14) | 1.71 | Profit margin | — |
-| SMA20 dist | +1.54% | ROA | — |
-| SMA50 dist | +6.16% | ROE | — |
-| SMA200 dist | +12.39% | Revenue (ttm) | — |
-| 52W high | $93.60 | Revenue growth y/y | — |
-| 52W low | $55.92 | Inst. ownership | — |
-| P/E (ttm) | — | Insider ownership | — |
-| Forward P/E | — | Short float | — |
-| PEG (trailing) | 0.82 | Avg volume | 0 |
-| P/S | — | Employees | 0 |
-| P/B | — | Analyst rec (1=buy..5=sell) | — |
+| Price | $90.10 | EV/Sales | 1.18 |
+| Market cap | $199.36B | EV/EBITDA | 5.82 |
+| Beta | 0.06 | Gross margin | 37.68% |
+| RSI(14) | 58.8 | Operating margin | 12.79% |
+| ATR(14) | 1.71 | Profit margin | 9.08% |
+| SMA20 dist | +1.54% | ROA | 5.51% |
+| SMA50 dist | +6.16% | ROE | 14.48% |
+| SMA200 dist | +12.39% | Revenue (ttm) | $196.38B |
+| 52W high | $93.60 | Revenue growth y/y | 27.80% |
+| 52W low | $55.92 | Inst. ownership | 54.13% |
+| P/E (ttm) | 11.28 | Insider ownership | 8.86% |
+| Forward P/E | 8.86 | Short float | 0.19% |
+| PEG (trailing) | 0.82 | Avg volume | 1,675,087 |
+| P/S | 1.02 | Employees | 94,847 |
+| P/B | 1.56 | Analyst rec (1=buy..5=sell) | 2.3 |
 
 ## 8. Analyst Actions
-_No recent analyst actions available from Yahoo._
+| Date | Action | Firm | Rating change |
+|---|---|---|---|
+| 2026-09-03 | main | Piper Sandler | Neutral → Neutral |
+| 2026-07-20 | init | Mizuho | — → Outperform |
+| 2026-06-23 | init | CICC | — → Outperform |
+| 2026-04-22 | main | Scotiabank | Sector Perform → Sector Perform |
+| 2026-03-12 | main | Piper Sandler | Neutral → Neutral |
+| 2026-03-02 | up | JP Morgan | Neutral → Overweight |
+| 2026-02-13 | down | Freedom Broker | Buy → Sell |
+| 2026-01-22 | main | TD Cowen | Hold → Hold |
 
 ## 9. Conclusion
-TTE: Moderate momentum / mixed fundamentals / low (expensive) value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+TTE: Moderate momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

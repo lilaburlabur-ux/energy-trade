@@ -1,14 +1,14 @@
 # MPC Research Report
-**Marathon Petroleum** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**Marathon Petroleum Corporation** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `MPC.research.08.09.2026`
 
 | Field | Value |
 |---|---|
 | Current price | $397.77 (2026-09-08, ~15-min delayed) |
-| Market cap | — |
-| Sector / Industry | — / — |
-| Main theme | Semiconductors — see catalysts below |
-| Current stance | High technical momentum, mixed fundamentals, value: low (expensive), risk: moderate. |
+| Market cap | $111.70B |
+| Sector / Industry | Energy / Oil & Gas Refining & Marketing |
+| Main theme | Oil & Gas Refining & Marketing — see catalysts below |
+| Current stance | High technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-09-08.
 
@@ -17,11 +17,11 @@ Signed file: `MPC.research.08.09.2026`
 |---|---|---|
 | Technical momentum | High | 1Y +124.33%; price +64.83% vs SMA200. |
 | Fresh setup quality | Moderate / wait | +0.00% from 52w high; no clean fresh pivot by default. |
-| Fundamental quality | Mixed | Profit margin —, revenue growth —. |
-| Value attractiveness | Low (expensive) | Forward P/E —, EV/Sales —. |
-| Risk level | Moderate | Beta —, ATR 2.8% of price, short float —. |
+| Fundamental quality | Mixed | Profit margin 5.55%, revenue growth 53.70%. |
+| Value attractiveness | Reasonable | Forward P/E 12.52, EV/Sales 0.92. |
+| Risk level | Moderate | Beta 0.53, ATR 2.8% of price, short float 2.70%. |
 
-**Bottom line:** High technical momentum, mixed fundamentals, value: low (expensive), risk: moderate.
+**Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -30,7 +30,7 @@ Signed file: `MPC.research.08.09.2026`
 - Can earnings convert fast enough to justify the valuation?
 
 ## 2. Company Overview and Recent Catalysts
-—
+Marathon Petroleum Corporation, together with its subsidiaries, operates as an integrated downstream energy company in the United States. The company operates through three segments: Refining & Marketing; Midstream; and Renewable Diesel. The Refining & Marketing segment refines crude oil and other feedstocks at its refineries in the Gulf Coast, Mid-Continent, and West Coast regions of the United States; and purchases refined products and ethanol for resale and distributes refined products through transportation, storage, distribution, and marketing services.
 
 **Recent headlines (potential catalysts):**
 
@@ -47,7 +47,7 @@ Signed file: `MPC.research.08.09.2026`
 | Price vs 52-week range | Close $397.77; 52w high $397.77 (+0.00%); 52w low $160.76 (+147.43%) |
 | Trend | +64.83% vs SMA200, +22.67% vs SMA50, +8.61% vs SMA20 |
 | Momentum | RSI(14) 80.8 (overbought) |
-| Volatility | ATR(14) 10.97 (~2.8% of price); beta — |
+| Volatility | ATR(14) 10.97 (~2.8% of price); beta 0.53 |
 | Setup perspective | +0.00% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
@@ -64,23 +64,37 @@ Signed file: `MPC.research.08.09.2026`
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
-| Next earnings | — | Next scheduled report (Yahoo estimate) |
-| Revenue (ttm) | — | Revenue growth — y/y |
-| Profitability | Gross —, operating —, net — | ROA —, ROE — |
-| Balance sheet | Cash —, debt — | Current ratio —, debt/equity — |
-| Valuation | P/E —, forward P/E —, P/S —, P/B — | EV/Sales —, EV/EBITDA — |
-| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $— (— analysts) |
+| Next earnings | 2026-11-03 | Next scheduled report (Yahoo estimate) |
+| Revenue (ttm) | $154.15B | Revenue growth 53.70% y/y |
+| Profitability | Gross 12.82%, operating 13.56%, net 5.55% | ROA 8.74%, ROE 42.10% |
+| Balance sheet | Cash $7.77B, debt $34.29B | Current ratio 1.25, debt/equity 133.33 |
+| Valuation | P/E 13.78, forward P/E 12.52, P/S 0.72, P/B 5.90 | EV/Sales 0.92, EV/EBITDA 9.25 |
+| Growth expectations | Earnings growth 348.00%, EPS q/q 322.50% | Analyst mean target $333.39 (18 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | — |
-| Insider ownership | — |
-| Short float | — |
-| Short ratio (days to cover) | — |
+| Institutional ownership | 79.58% |
+| Insider ownership | 0.33% |
+| Short float | 2.70% |
+| Short ratio (days to cover) | 2.9 |
+
+**Top institutional holders:**
+
+| Holder | Shares | % Out | Reported |
+|---|---|---|---|
+| Blackrock Inc. | 26,006,017 | 8.91% | 2026-06-30 |
+| Vanguard Capital Management LLC | 19,074,289 | 6.53% | 2026-06-30 |
+| State Street Corporation | 18,471,905 | 6.33% | 2026-06-30 |
+| Vanguard Portfolio Management LLC | 15,631,265 | 5.35% | 2026-06-30 |
+| Geode Capital Management, LLC | 8,351,157 | 2.86% | 2026-06-30 |
+| Morgan Stanley | 5,887,382 | 2.02% | 2026-06-30 |
+| Raymond James Financial, Inc. | 5,684,963 | 1.95% | 2026-06-30 |
+| FMR, LLC | 5,419,718 | 1.86% | 2026-06-30 |
+| Bank Of New York Mellon Corporation | 4,027,107 | 1.38% | 2026-06-30 |
+| Boston Partners | 3,515,417 | 1.20% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E —, EV/Sales —. Multiple compression is the main downside if growth disappoints.
 - **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -96,27 +110,36 @@ Signed file: `MPC.research.08.09.2026`
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $397.77 | EV/Sales | — |
-| Market cap | — | EV/EBITDA | — |
-| Beta | — | Gross margin | — |
-| RSI(14) | 80.8 | Operating margin | — |
-| ATR(14) | 10.97 | Profit margin | — |
-| SMA20 dist | +8.61% | ROA | — |
-| SMA50 dist | +22.67% | ROE | — |
-| SMA200 dist | +64.83% | Revenue (ttm) | — |
-| 52W high | $397.77 | Revenue growth y/y | — |
-| 52W low | $160.76 | Inst. ownership | — |
-| P/E (ttm) | — | Insider ownership | — |
-| Forward P/E | — | Short float | — |
-| PEG (trailing) | 1.89 | Avg volume | 0 |
-| P/S | — | Employees | 0 |
-| P/B | — | Analyst rec (1=buy..5=sell) | — |
+| Price | $397.77 | EV/Sales | 0.92 |
+| Market cap | $111.70B | EV/EBITDA | 9.25 |
+| Beta | 0.53 | Gross margin | 12.82% |
+| RSI(14) | 80.8 | Operating margin | 13.56% |
+| ATR(14) | 10.97 | Profit margin | 5.55% |
+| SMA20 dist | +8.61% | ROA | 8.74% |
+| SMA50 dist | +22.67% | ROE | 42.10% |
+| SMA200 dist | +64.83% | Revenue (ttm) | $154.15B |
+| 52W high | $397.77 | Revenue growth y/y | 53.70% |
+| 52W low | $160.76 | Inst. ownership | 79.58% |
+| P/E (ttm) | 13.78 | Insider ownership | 0.33% |
+| Forward P/E | 12.52 | Short float | 2.70% |
+| PEG (trailing) | 1.89 | Avg volume | 2,381,704 |
+| P/S | 0.72 | Employees | 18,500 |
+| P/B | 5.90 | Analyst rec (1=buy..5=sell) | 2.3 |
 
 ## 8. Analyst Actions
-_No recent analyst actions available from Yahoo._
+| Date | Action | Firm | Rating change |
+|---|---|---|---|
+| 2026-09-08 | main | UBS | Buy → Buy |
+| 2026-09-03 | main | Piper Sandler | Overweight → Overweight |
+| 2026-09-01 | main | Wells Fargo | Overweight → Overweight |
+| 2026-08-11 | main | Mizuho | Neutral → Neutral |
+| 2026-08-06 | main | Piper Sandler | Overweight → Overweight |
+| 2026-08-06 | main | Barclays | Overweight → Overweight |
+| 2026-08-05 | main | TD Cowen | Buy → Buy |
+| 2026-08-05 | main | Citigroup | Neutral → Neutral |
 
 ## 9. Conclusion
-MPC: High momentum / mixed fundamentals / low (expensive) value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+MPC: High momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

@@ -5,10 +5,10 @@ Signed file: `COP.research.08.09.2026`
 | Field | Value |
 |---|---|
 | Current price | $135.04 (2026-09-08, ~15-min delayed) |
-| Market cap | — |
-| Sector / Industry | — / — |
-| Main theme | Semiconductors — see catalysts below |
-| Current stance | Moderate technical momentum, mixed fundamentals, value: low (expensive), risk: moderate. |
+| Market cap | $162.23B |
+| Sector / Industry | Energy / Oil & Gas E&P |
+| Main theme | Oil & Gas E&P — see catalysts below |
+| Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-09-08.
 
@@ -17,11 +17,11 @@ Signed file: `COP.research.08.09.2026`
 |---|---|---|
 | Technical momentum | Moderate | 1Y +49.86%; price +21.01% vs SMA200. |
 | Fresh setup quality | Watch | -1.57% from 52w high and near SMA20 — check for a tight base. |
-| Fundamental quality | Mixed | Profit margin —, revenue growth —. |
-| Value attractiveness | Low (expensive) | Forward P/E —, EV/Sales —. |
-| Risk level | Moderate | Beta —, ATR 2.3% of price, short float —. |
+| Fundamental quality | Mixed | Profit margin 14.40%, revenue growth 35.50%. |
+| Value attractiveness | Reasonable | Forward P/E 14.20, EV/Sales 2.74. |
+| Risk level | Moderate | Beta 0.13, ATR 2.3% of price, short float 1.41%. |
 
-**Bottom line:** Moderate technical momentum, mixed fundamentals, value: low (expensive), risk: moderate.
+**Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -30,7 +30,7 @@ Signed file: `COP.research.08.09.2026`
 - Can earnings convert fast enough to justify the valuation?
 
 ## 2. Company Overview and Recent Catalysts
-—
+ConocoPhillips explores for, produces, transports, and markets crude oil, bitumen, natural gas, liquefied natural gas (LNG), and natural gas liquids. It operates in five segments: Alaska; Lower 48; Canada; Europe, Middle East and North Africa; and Asia Pacific. The company's portfolio includes unconventional plays in North America; conventional assets in North America, Europe, Asia, and Australia; global LNG developments; oil sands assets in Canada; and an inventory of global exploration prospects.
 
 **Recent headlines (potential catalysts):**
 
@@ -47,7 +47,7 @@ Signed file: `COP.research.08.09.2026`
 | Price vs 52-week range | Close $135.04; 52w high $137.20 (-1.57%); 52w low $83.04 (+62.62%) |
 | Trend | +21.01% vs SMA200, +12.32% vs SMA50, +2.87% vs SMA20 |
 | Momentum | RSI(14) 64.4 (neutral) |
-| Volatility | ATR(14) 3.05 (~2.3% of price); beta — |
+| Volatility | ATR(14) 3.05 (~2.3% of price); beta 0.13 |
 | Setup perspective | -1.57% from 52w high and near SMA20 — check for a tight base. |
 
 **Performance snapshot:**
@@ -64,23 +64,37 @@ Signed file: `COP.research.08.09.2026`
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
-| Next earnings | — | Next scheduled report (Yahoo estimate) |
-| Revenue (ttm) | — | Revenue growth — y/y |
-| Profitability | Gross —, operating —, net — | ROA —, ROE — |
-| Balance sheet | Cash —, debt — | Current ratio —, debt/equity — |
-| Valuation | P/E —, forward P/E —, P/S —, P/B — | EV/Sales —, EV/EBITDA — |
-| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $— (— analysts) |
+| Next earnings | 2026-11-05 | Next scheduled report (Yahoo estimate) |
+| Revenue (ttm) | $64.46B | Revenue growth 35.50% y/y |
+| Profitability | Gross 47.57%, operating 31.51%, net 14.40% | ROA 7.53%, ROE 14.18% |
+| Balance sheet | Cash $7.69B, debt $23.29B | Current ratio 1.54, debt/equity 35.64 |
+| Valuation | P/E 17.86, forward P/E 14.20, P/S 2.52, P/B 2.48 | EV/Sales 2.74, EV/EBITDA 6.61 |
+| Growth expectations | Earnings growth 107.00%, EPS q/q 99.40% | Analyst mean target $145.33 (24 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | — |
-| Insider ownership | — |
-| Short float | — |
-| Short ratio (days to cover) | — |
+| Institutional ownership | 87.00% |
+| Insider ownership | 0.10% |
+| Short float | 1.41% |
+| Short ratio (days to cover) | 2.6 |
+
+**Top institutional holders:**
+
+| Holder | Shares | % Out | Reported |
+|---|---|---|---|
+| Blackrock Inc. | 93,886,457 | 7.82% | 2026-06-30 |
+| Vanguard Capital Management LLC | 79,600,198 | 6.63% | 2026-06-30 |
+| State Street Corporation | 65,828,184 | 5.48% | 2026-06-30 |
+| Price (T.Rowe) Associates Inc | 44,817,455 | 3.73% | 2026-06-30 |
+| Charles Schwab Investment Management, Inc. | 41,476,189 | 3.45% | 2026-06-30 |
+| JPMORGAN CHASE & CO | 38,047,399 | 3.17% | 2026-06-30 |
+| Capital International Investors | 28,905,122 | 2.41% | 2026-06-30 |
+| Geode Capital Management, LLC | 28,693,740 | 2.39% | 2026-06-30 |
+| FMR, LLC | 28,697,376 | 2.39% | 2026-06-30 |
+| Vanguard Portfolio Management LLC | 28,503,663 | 2.37% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E —, EV/Sales —. Multiple compression is the main downside if growth disappoints.
 - **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -96,27 +110,36 @@ Signed file: `COP.research.08.09.2026`
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $135.04 | EV/Sales | — |
-| Market cap | — | EV/EBITDA | — |
-| Beta | — | Gross margin | — |
-| RSI(14) | 64.4 | Operating margin | — |
-| ATR(14) | 3.05 | Profit margin | — |
-| SMA20 dist | +2.87% | ROA | — |
-| SMA50 dist | +12.32% | ROE | — |
-| SMA200 dist | +21.01% | Revenue (ttm) | — |
-| 52W high | $137.20 | Revenue growth y/y | — |
-| 52W low | $83.04 | Inst. ownership | — |
-| P/E (ttm) | — | Insider ownership | — |
-| Forward P/E | — | Short float | — |
-| PEG (trailing) | 1.21 | Avg volume | 0 |
-| P/S | — | Employees | 0 |
-| P/B | — | Analyst rec (1=buy..5=sell) | — |
+| Price | $135.04 | EV/Sales | 2.74 |
+| Market cap | $162.23B | EV/EBITDA | 6.61 |
+| Beta | 0.13 | Gross margin | 47.57% |
+| RSI(14) | 64.4 | Operating margin | 31.51% |
+| ATR(14) | 3.05 | Profit margin | 14.40% |
+| SMA20 dist | +2.87% | ROA | 7.53% |
+| SMA50 dist | +12.32% | ROE | 14.18% |
+| SMA200 dist | +21.01% | Revenue (ttm) | $64.46B |
+| 52W high | $137.20 | Revenue growth y/y | 35.50% |
+| 52W low | $83.04 | Inst. ownership | 87.00% |
+| P/E (ttm) | 17.86 | Insider ownership | 0.10% |
+| Forward P/E | 14.20 | Short float | 1.41% |
+| PEG (trailing) | 1.21 | Avg volume | 7,117,866 |
+| P/S | 2.52 | Employees | 9,600 |
+| P/B | 2.48 | Analyst rec (1=buy..5=sell) | 1.7 |
 
 ## 8. Analyst Actions
-_No recent analyst actions available from Yahoo._
+| Date | Action | Firm | Rating change |
+|---|---|---|---|
+| 2026-09-03 | init | Seaport Global | — → Neutral |
+| 2026-08-19 | main | Morgan Stanley | Overweight → Overweight |
+| 2026-08-19 | main | Argus Research | Buy → Buy |
+| 2026-08-17 | main | Barclays | Overweight → Overweight |
+| 2026-08-12 | main | UBS | Buy → Buy |
+| 2026-08-11 | main | Susquehanna | Positive → Positive |
+| 2026-08-10 | main | Truist Securities | Hold → Hold |
+| 2026-08-07 | main | Wells Fargo | Overweight → Overweight |
 
 ## 9. Conclusion
-COP: Moderate momentum / mixed fundamentals / low (expensive) value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+COP: Moderate momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

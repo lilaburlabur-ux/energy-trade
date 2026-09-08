@@ -1,14 +1,14 @@
 # EQT Research Report
-**EQT Corp** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**EQT Corporation** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `EQT.research.08.09.2026`
 
 | Field | Value |
 |---|---|
 | Current price | $55.12 (2026-09-08, ~15-min delayed) |
-| Market cap | — |
-| Sector / Industry | — / — |
-| Main theme | Semiconductors — see catalysts below |
-| Current stance | Low technical momentum, mixed fundamentals, value: low (expensive), risk: moderate. |
+| Market cap | $34.48B |
+| Sector / Industry | Energy / Oil & Gas E&P |
+| Main theme | Oil & Gas E&P — see catalysts below |
+| Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-09-08.
 
@@ -17,11 +17,11 @@ Signed file: `EQT.research.08.09.2026`
 |---|---|---|
 | Technical momentum | Low | Below SMA200 (-1.28%) with negative half-year (-10.90%). |
 | Fresh setup quality | Moderate / wait | -18.37% from 52w high; no clean fresh pivot by default. |
-| Fundamental quality | Mixed | Profit margin —, revenue growth —. |
-| Value attractiveness | Low (expensive) | Forward P/E —, EV/Sales —. |
-| Risk level | Moderate | Beta —, ATR 2.5% of price, short float —. |
+| Fundamental quality | Mixed | Profit margin 29.18%, revenue growth -3.90%. |
+| Value attractiveness | Reasonable | Forward P/E 14.00, EV/Sales 4.70. |
+| Risk level | Moderate | Beta 0.58, ATR 2.5% of price, short float 3.51%. |
 
-**Bottom line:** Low technical momentum, mixed fundamentals, value: low (expensive), risk: moderate.
+**Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -30,7 +30,7 @@ Signed file: `EQT.research.08.09.2026`
 - Can earnings convert fast enough to justify the valuation?
 
 ## 2. Company Overview and Recent Catalysts
-—
+EQT Corporation engages in the exploration, production, gathering, and transmission of hydrocarbons and natural gas. The company sells natural gas, natural gas liquids, and oil to marketers, utilities, and industrial customers located in the Appalachian Basin. It also provides marketing services and contractual pipeline capacity management services, as well as engages in risk management and hedging activities. In addition, it owns and operates propane storage and distribution terminals. The company was formerly known as Equitable Resources Inc.
 
 **Recent headlines (potential catalysts):**
 
@@ -47,7 +47,7 @@ Signed file: `EQT.research.08.09.2026`
 | Price vs 52-week range | Close $55.12; 52w high $67.53 (-18.37%); 52w low $48.62 (+13.38%) |
 | Trend | -1.28% vs SMA200, +4.73% vs SMA50, +1.35% vs SMA20 |
 | Momentum | RSI(14) 59.1 (neutral) |
-| Volatility | ATR(14) 1.36 (~2.5% of price); beta — |
+| Volatility | ATR(14) 1.36 (~2.5% of price); beta 0.58 |
 | Setup perspective | -18.37% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
@@ -64,23 +64,37 @@ Signed file: `EQT.research.08.09.2026`
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
-| Next earnings | — | Next scheduled report (Yahoo estimate) |
-| Revenue (ttm) | — | Revenue growth — y/y |
-| Profitability | Gross —, operating —, net — | ROA —, ROE — |
-| Balance sheet | Cash —, debt — | Current ratio —, debt/equity — |
-| Valuation | P/E —, forward P/E —, P/S —, P/B — | EV/Sales —, EV/EBITDA — |
-| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $— (— analysts) |
+| Next earnings | 2026-10-20 | Next scheduled report (Yahoo estimate) |
+| Revenue (ttm) | $9.29B | Revenue growth -3.90% y/y |
+| Profitability | Gross 80.75%, operating 23.37%, net 29.18% | ROA 6.63%, ROE 11.08% |
+| Balance sheet | Cash $112.86M, debt $5.66B | Current ratio 0.67, debt/equity 19.59 |
+| Valuation | P/E 12.79, forward P/E 14.00, P/S 3.71, P/B 1.36 | EV/Sales 4.70, EV/EBITDA 6.24 |
+| Growth expectations | Earnings growth -74.00%, EPS q/q -73.00% | Analyst mean target $67.44 (25 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | — |
-| Insider ownership | — |
-| Short float | — |
-| Short ratio (days to cover) | — |
+| Institutional ownership | 95.85% |
+| Insider ownership | 0.90% |
+| Short float | 3.51% |
+| Short ratio (days to cover) | 2.8 |
+
+**Top institutional holders:**
+
+| Holder | Shares | % Out | Reported |
+|---|---|---|---|
+| Blackrock Inc. | 60,261,896 | 9.63% | 2026-06-30 |
+| Vanguard Capital Management LLC | 40,864,324 | 6.53% | 2026-06-30 |
+| State Street Corporation | 39,679,249 | 6.34% | 2026-06-30 |
+| Vanguard Portfolio Management LLC | 32,757,657 | 5.24% | 2026-06-30 |
+| Morgan Stanley | 24,345,547 | 3.89% | 2026-06-30 |
+| Wellington Management Group, LLP | 22,565,479 | 3.61% | 2026-06-30 |
+| JPMORGAN CHASE & CO | 20,541,701 | 3.28% | 2026-06-30 |
+| Geode Capital Management, LLC | 17,026,838 | 2.72% | 2026-06-30 |
+| Orbis Allan Gray Ltd | 15,706,047 | 2.51% | 2026-06-30 |
+| Eagle Capital Management LLC | 15,356,952 | 2.46% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E —, EV/Sales —. Multiple compression is the main downside if growth disappoints.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -95,27 +109,36 @@ Signed file: `EQT.research.08.09.2026`
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $55.12 | EV/Sales | — |
-| Market cap | — | EV/EBITDA | — |
-| Beta | — | Gross margin | — |
-| RSI(14) | 59.1 | Operating margin | — |
-| ATR(14) | 1.36 | Profit margin | — |
-| SMA20 dist | +1.35% | ROA | — |
-| SMA50 dist | +4.73% | ROE | — |
-| SMA200 dist | -1.28% | Revenue (ttm) | — |
-| 52W high | $67.53 | Revenue growth y/y | — |
-| 52W low | $48.62 | Inst. ownership | — |
-| P/E (ttm) | — | Insider ownership | — |
-| Forward P/E | — | Short float | — |
-| PEG (trailing) | 1.81 | Avg volume | 0 |
-| P/S | — | Employees | 0 |
-| P/B | — | Analyst rec (1=buy..5=sell) | — |
+| Price | $55.12 | EV/Sales | 4.70 |
+| Market cap | $34.48B | EV/EBITDA | 6.24 |
+| Beta | 0.58 | Gross margin | 80.75% |
+| RSI(14) | 59.1 | Operating margin | 23.37% |
+| ATR(14) | 1.36 | Profit margin | 29.18% |
+| SMA20 dist | +1.35% | ROA | 6.63% |
+| SMA50 dist | +4.73% | ROE | 11.08% |
+| SMA200 dist | -1.28% | Revenue (ttm) | $9.29B |
+| 52W high | $67.53 | Revenue growth y/y | -3.90% |
+| 52W low | $48.62 | Inst. ownership | 95.85% |
+| P/E (ttm) | 12.79 | Insider ownership | 0.90% |
+| Forward P/E | 14.00 | Short float | 3.51% |
+| PEG (trailing) | 1.81 | Avg volume | 7,254,001 |
+| P/S | 3.71 | Employees | 1,523 |
+| P/B | 1.36 | Analyst rec (1=buy..5=sell) | 1.5 |
 
 ## 8. Analyst Actions
-_No recent analyst actions available from Yahoo._
+| Date | Action | Firm | Rating change |
+|---|---|---|---|
+| 2026-08-19 | main | Morgan Stanley | Overweight → Overweight |
+| 2026-08-17 | main | Barclays | Overweight → Overweight |
+| 2026-07-28 | main | Citigroup | Buy → Buy |
+| 2026-07-22 | main | Stephens & Co. | Overweight → Overweight |
+| 2026-07-22 | main | Barclays | Overweight → Overweight |
+| 2026-07-15 | main | Stephens & Co. | Overweight → Overweight |
+| 2026-07-08 | main | UBS | Buy → Buy |
+| 2026-07-02 | main | Jefferies | Buy → Buy |
 
 ## 9. Conclusion
-EQT: Low momentum / mixed fundamentals / low (expensive) value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+EQT: Low momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

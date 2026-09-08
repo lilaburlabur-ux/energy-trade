@@ -6,9 +6,9 @@ Signed file: `SEDG.research.08.09.2026`
 |---|---|
 | Current price | $36.43 (2026-09-08, ~15-min delayed) |
 | Market cap | $2.24B |
-| Sector / Industry | — / — |
-| Main theme | Semiconductors — see catalysts below |
-| Current stance | Moderate technical momentum, mixed fundamentals, value: low (expensive), risk: high. |
+| Sector / Industry | Technology / Solar |
+| Main theme | Solar — see catalysts below |
+| Current stance | Moderate technical momentum, weak fundamentals, value: low (expensive), risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-09-08.
 
@@ -17,11 +17,11 @@ Signed file: `SEDG.research.08.09.2026`
 |---|---|---|
 | Technical momentum | Moderate | 1Y +5.84%; price -13.37% vs SMA200. |
 | Fresh setup quality | Poor / broken | -53.60% from 52w high — base needs to rebuild. |
-| Fundamental quality | Mixed | Profit margin —, revenue growth —. |
-| Value attractiveness | Low (expensive) | Forward P/E 37.57, EV/Sales —. |
-| Risk level | High | Beta —, ATR 7.0% of price, short float —. |
+| Fundamental quality | Weak | Negative profit margin (-20.29%). |
+| Value attractiveness | Low (expensive) | Forward P/E 37.57, EV/Sales 1.48. |
+| Risk level | High | Beta 1.44, ATR 7.0% of price, short float 23.21%. |
 
-**Bottom line:** Moderate technical momentum, mixed fundamentals, value: low (expensive), risk: high.
+**Bottom line:** Moderate technical momentum, weak fundamentals, value: low (expensive), risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -30,7 +30,7 @@ Signed file: `SEDG.research.08.09.2026`
 - Can earnings convert fast enough to justify the valuation?
 
 ## 2. Company Overview and Recent Catalysts
-—
+SolarEdge Technologies, Inc., together with its subsidiaries, operates as an energy technology company in the United States, Europe, and internationally. The company offers power optimizers and DC-to-AC inverters; Storage Solutions, such as home battery 400V and CSS-OD solution; EV chargers for residential and commercial applications; SolarEdge ONE, an energy optimization system; and cloud-based monitoring platform.
 
 **Recent headlines (potential catalysts):**
 
@@ -47,7 +47,7 @@ Signed file: `SEDG.research.08.09.2026`
 | Price vs 52-week range | Close $36.43; 52w high $78.51 (-53.60%); 52w low $28.47 (+27.96%) |
 | Trend | -13.37% vs SMA200, -12.11% vs SMA50, +12.80% vs SMA20 |
 | Momentum | RSI(14) 52.6 (neutral) |
-| Volatility | ATR(14) 2.54 (~7.0% of price); beta — |
+| Volatility | ATR(14) 2.54 (~7.0% of price); beta 1.44 |
 | Setup perspective | -53.60% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
@@ -65,19 +65,19 @@ Signed file: `SEDG.research.08.09.2026`
 | Factor | Observation | Implication / extra |
 |---|---|---|
 | Next earnings | 2026-11-04 | Next scheduled report (Yahoo estimate) |
-| Revenue (ttm) | — | Revenue growth — y/y |
-| Profitability | Gross —, operating —, net — | ROA —, ROE — |
-| Balance sheet | Cash —, debt — | Current ratio —, debt/equity — |
-| Valuation | P/E —, forward P/E 37.57, P/S —, P/B 5.44 | EV/Sales —, EV/EBITDA — |
-| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $— (— analysts) |
+| Revenue (ttm) | $1.33B | Revenue growth 19.60% y/y |
+| Profitability | Gross 21.25%, operating -6.51%, net -20.29% | ROA -3.84%, ROE -58.42% |
+| Balance sheet | Cash $546.94M, debt $407.35M | Current ratio 2.03, debt/equity 98.85 |
+| Valuation | P/E —, forward P/E 37.57, P/S 1.68, P/B 5.44 | EV/Sales 1.48, EV/EBITDA -16.22 |
+| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $38.45 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | — |
-| Insider ownership | — |
-| Short float | — |
-| Short ratio (days to cover) | — |
+| Institutional ownership | 101.98% |
+| Insider ownership | 1.20% |
+| Short float | 23.21% |
+| Short ratio (days to cover) | 3.7 |
 
 **Top institutional holders:**
 
@@ -95,8 +95,10 @@ Signed file: `SEDG.research.08.09.2026`
 | Legal & General Group PLC | 1,302,103 | 2.12% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 37.57, EV/Sales —. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta —, ATR 7.0% of price, short float —. Size positions accordingly.
+- **Valuation risk:** Forward P/E 37.57, EV/Sales 1.48. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 1.44, ATR 7.0% of price, short float 23.21%. Size positions accordingly.
+- **Short interest risk:** short float 23.21% can fuel squeezes both ways around news.
+- **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -112,21 +114,21 @@ Signed file: `SEDG.research.08.09.2026`
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $36.43 | EV/Sales | — |
-| Market cap | $2.24B | EV/EBITDA | — |
-| Beta | — | Gross margin | — |
-| RSI(14) | 52.6 | Operating margin | — |
-| ATR(14) | 2.54 | Profit margin | — |
-| SMA20 dist | +12.80% | ROA | — |
-| SMA50 dist | -12.11% | ROE | — |
-| SMA200 dist | -13.37% | Revenue (ttm) | — |
-| 52W high | $78.51 | Revenue growth y/y | — |
-| 52W low | $28.47 | Inst. ownership | — |
-| P/E (ttm) | — | Insider ownership | — |
-| Forward P/E | 37.57 | Short float | — |
-| PEG (trailing) | — | Avg volume | 0 |
-| P/S | — | Employees | 0 |
-| P/B | 5.44 | Analyst rec (1=buy..5=sell) | — |
+| Price | $36.43 | EV/Sales | 1.48 |
+| Market cap | $2.24B | EV/EBITDA | -16.22 |
+| Beta | 1.44 | Gross margin | 21.25% |
+| RSI(14) | 52.6 | Operating margin | -6.51% |
+| ATR(14) | 2.54 | Profit margin | -20.29% |
+| SMA20 dist | +12.80% | ROA | -3.84% |
+| SMA50 dist | -12.11% | ROE | -58.42% |
+| SMA200 dist | -13.37% | Revenue (ttm) | $1.33B |
+| 52W high | $78.51 | Revenue growth y/y | 19.60% |
+| 52W low | $28.47 | Inst. ownership | 101.98% |
+| P/E (ttm) | — | Insider ownership | 1.20% |
+| Forward P/E | 37.57 | Short float | 23.21% |
+| PEG (trailing) | — | Avg volume | 2,943,120 |
+| P/S | 1.68 | Employees | 3,576 |
+| P/B | 5.44 | Analyst rec (1=buy..5=sell) | 3.0 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
@@ -141,7 +143,7 @@ Signed file: `SEDG.research.08.09.2026`
 | 2026-07-10 | main | Susquehanna | Neutral → Neutral |
 
 ## 9. Conclusion
-SEDG: Moderate momentum / mixed fundamentals / low (expensive) value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+SEDG: Moderate momentum / weak fundamentals / low (expensive) value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

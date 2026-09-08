@@ -1,13 +1,13 @@
 # CCJ Research Report
-**Cameco** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**Cameco Corporation** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `CCJ.research.08.09.2026`
 
 | Field | Value |
 |---|---|
 | Current price | $101.97 (2026-09-08, ~15-min delayed) |
-| Market cap | — |
-| Sector / Industry | — / — |
-| Main theme | Semiconductors — see catalysts below |
+| Market cap | $44.41B |
+| Sector / Industry | Energy / Uranium |
+| Main theme | Uranium — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: low (expensive), risk: elevated. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-09-08.
@@ -17,9 +17,9 @@ Signed file: `CCJ.research.08.09.2026`
 |---|---|---|
 | Technical momentum | Low | Below SMA200 (-3.31%) with negative half-year (-12.20%). |
 | Fresh setup quality | Moderate / wait | -23.95% from 52w high; no clean fresh pivot by default. |
-| Fundamental quality | Mixed | Profit margin —, revenue growth —. |
-| Value attractiveness | Low (expensive) | Forward P/E —, EV/Sales —. |
-| Risk level | Elevated | Beta —, ATR 3.9% of price, short float —. |
+| Fundamental quality | Mixed | Profit margin 10.21%, revenue growth -7.20%. |
+| Value attractiveness | Low (expensive) | Forward P/E 53.77, EV/Sales 12.66. |
+| Risk level | Elevated | Beta 1.01, ATR 3.9% of price, short float —. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: low (expensive), risk: elevated.
 
@@ -30,7 +30,7 @@ Signed file: `CCJ.research.08.09.2026`
 - Can earnings convert fast enough to justify the valuation?
 
 ## 2. Company Overview and Recent Catalysts
-—
+Cameco Corporation provides uranium for the generation of electricity in the Americas, Europe, and Asia. It operates in three segments: Uranium, Fuel Services, and Westinghouse. The Uranium segment engages in the exploration for, mining, milling, purchase, and sale of uranium concentrate. Its Fuel Services segment is involved in the refining, conversion, and fabrication of uranium concentrate, as well as purchase and sale of conversion services.
 
 **Recent headlines (potential catalysts):**
 
@@ -47,7 +47,7 @@ Signed file: `CCJ.research.08.09.2026`
 | Price vs 52-week range | Close $101.97; 52w high $134.09 (-23.95%); 52w low $77.09 (+32.27%) |
 | Trend | -3.31% vs SMA200, +6.95% vs SMA50, +1.89% vs SMA20 |
 | Momentum | RSI(14) 56.0 (neutral) |
-| Volatility | ATR(14) 3.94 (~3.9% of price); beta — |
+| Volatility | ATR(14) 3.94 (~3.9% of price); beta 1.01 |
 | Setup perspective | -23.95% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
@@ -64,24 +64,39 @@ Signed file: `CCJ.research.08.09.2026`
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
-| Next earnings | — | Next scheduled report (Yahoo estimate) |
-| Revenue (ttm) | — | Revenue growth — y/y |
-| Profitability | Gross —, operating —, net — | ROA —, ROE — |
-| Balance sheet | Cash —, debt — | Current ratio —, debt/equity — |
-| Valuation | P/E —, forward P/E —, P/S —, P/B — | EV/Sales —, EV/EBITDA — |
-| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $— (— analysts) |
+| Next earnings | 2026-10-30 | Next scheduled report (Yahoo estimate) |
+| Revenue (ttm) | $3.47B | Revenue growth -7.20% y/y |
+| Profitability | Gross 35.11%, operating 9.11%, net 10.21% | ROA 2.98%, ROE 5.11% |
+| Balance sheet | Cash $1.11B, debt $1.22B | Current ratio 3.06, debt/equity 17.13 |
+| Valuation | P/E 175.81, forward P/E 53.77, P/S 12.78, P/B 8.61 | EV/Sales 12.66, EV/EBITDA 55.09 |
+| Growth expectations | Earnings growth -92.10%, EPS q/q -92.10% | Analyst mean target $131.40 (12 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | — |
-| Insider ownership | — |
+| Institutional ownership | 69.92% |
+| Insider ownership | 0.14% |
 | Short float | — |
-| Short ratio (days to cover) | — |
+| Short ratio (days to cover) | 2.3 |
+
+**Top institutional holders:**
+
+| Holder | Shares | % Out | Reported |
+|---|---|---|---|
+| Mirae Asset Global ETFs Holdings Ltd. | 15,550,064 | 3.57% | 2026-06-30 |
+| Capital World Investors | 13,365,106 | 3.07% | 2026-06-30 |
+| Vanguard Capital Management LLC | 12,015,804 | 2.76% | 2026-06-30 |
+| Royal Bank of Canada | 10,910,330 | 2.51% | 2026-06-30 |
+| FIL LTD | 8,433,160 | 1.94% | 2026-06-30 |
+| FMR, LLC | 7,976,686 | 1.83% | 2026-06-30 |
+| Van Eck Associates Corporation | 7,541,479 | 1.73% | 2026-06-30 |
+| Bank of Montreal /CAN/ | 7,363,367 | 1.69% | 2026-06-30 |
+| Bank of America Corporation | 7,220,673 | 1.66% | 2026-06-30 |
+| Morgan Stanley | 5,211,568 | 1.20% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E —, EV/Sales —. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta —, ATR 3.9% of price, short float —. Size positions accordingly.
+- **Valuation risk:** Forward P/E 53.77, EV/Sales 12.66. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 1.01, ATR 3.9% of price, short float —. Size positions accordingly.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -96,24 +111,33 @@ Signed file: `CCJ.research.08.09.2026`
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $101.97 | EV/Sales | — |
-| Market cap | — | EV/EBITDA | — |
-| Beta | — | Gross margin | — |
-| RSI(14) | 56.0 | Operating margin | — |
-| ATR(14) | 3.94 | Profit margin | — |
-| SMA20 dist | +1.89% | ROA | — |
-| SMA50 dist | +6.95% | ROE | — |
-| SMA200 dist | -3.31% | Revenue (ttm) | — |
-| 52W high | $134.09 | Revenue growth y/y | — |
-| 52W low | $77.09 | Inst. ownership | — |
-| P/E (ttm) | — | Insider ownership | — |
-| Forward P/E | — | Short float | — |
-| PEG (trailing) | — | Avg volume | 0 |
-| P/S | — | Employees | 0 |
-| P/B | — | Analyst rec (1=buy..5=sell) | — |
+| Price | $101.97 | EV/Sales | 12.66 |
+| Market cap | $44.41B | EV/EBITDA | 55.09 |
+| Beta | 1.01 | Gross margin | 35.11% |
+| RSI(14) | 56.0 | Operating margin | 9.11% |
+| ATR(14) | 3.94 | Profit margin | 10.21% |
+| SMA20 dist | +1.89% | ROA | 2.98% |
+| SMA50 dist | +6.95% | ROE | 5.11% |
+| SMA200 dist | -3.31% | Revenue (ttm) | $3.47B |
+| 52W high | $134.09 | Revenue growth y/y | -7.20% |
+| 52W low | $77.09 | Inst. ownership | 69.92% |
+| P/E (ttm) | 175.81 | Insider ownership | 0.14% |
+| Forward P/E | 53.77 | Short float | — |
+| PEG (trailing) | — | Avg volume | 3,322,456 |
+| P/S | 12.78 | Employees | 0 |
+| P/B | 8.61 | Analyst rec (1=buy..5=sell) | 1.5 |
 
 ## 8. Analyst Actions
-_No recent analyst actions available from Yahoo._
+| Date | Action | Firm | Rating change |
+|---|---|---|---|
+| 2026-08-12 | main | Truist Securities | Buy → Buy |
+| 2026-08-04 | main | Barclays | Equal-Weight → Equal-Weight |
+| 2026-07-16 | main | Barclays | Equal-Weight → Equal-Weight |
+| 2026-07-14 | init | Truist Securities | — → Buy |
+| 2026-07-09 | main | B of A Securities | Buy → Buy |
+| 2026-06-29 | main | RBC Capital | Outperform → Outperform |
+| 2026-05-22 | init | Barclays | — → Equal-Weight |
+| 2026-04-20 | init | William Blair | — → Outperform |
 
 ## 9. Conclusion
 CCJ: Low momentum / mixed fundamentals / low (expensive) value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

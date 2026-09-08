@@ -1,14 +1,14 @@
 # CEG Research Report
-**Constellation Energy** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**Constellation Energy Corporation** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `CEG.research.08.09.2026`
 
 | Field | Value |
 |---|---|
 | Current price | $299.05 (2026-09-08, ~15-min delayed) |
-| Market cap | — |
-| Sector / Industry | — / — |
-| Main theme | Semiconductors — see catalysts below |
-| Current stance | Moderate technical momentum, mixed fundamentals, value: low (expensive), risk: elevated. |
+| Market cap | $105.96B |
+| Sector / Industry | Utilities / Utilities - Independent Power Producers |
+| Main theme | Utilities - Independent Power Producers — see catalysts below |
+| Current stance | Moderate technical momentum, mixed fundamentals, value: fair-to-demanding, risk: elevated. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-09-08.
 
@@ -17,11 +17,11 @@ Signed file: `CEG.research.08.09.2026`
 |---|---|---|
 | Technical momentum | Moderate | 1Y -0.28%; price +1.28% vs SMA200. |
 | Fresh setup quality | Poor / broken | -25.55% from 52w high — base needs to rebuild. |
-| Fundamental quality | Mixed | Profit margin —, revenue growth —. |
-| Value attractiveness | Low (expensive) | Forward P/E —, EV/Sales —. |
-| Risk level | Elevated | Beta —, ATR 3.4% of price, short float —. |
+| Fundamental quality | Mixed | Profit margin 11.08%, revenue growth 23.00%. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 22.41, EV/Sales 4.17. |
+| Risk level | Elevated | Beta 1.12, ATR 3.4% of price, short float 2.97%. |
 
-**Bottom line:** Moderate technical momentum, mixed fundamentals, value: low (expensive), risk: elevated.
+**Bottom line:** Moderate technical momentum, mixed fundamentals, value: fair-to-demanding, risk: elevated.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -30,7 +30,7 @@ Signed file: `CEG.research.08.09.2026`
 - Can earnings convert fast enough to justify the valuation?
 
 ## 2. Company Overview and Recent Catalysts
-—
+Constellation Energy Corporation produces and sells energy products and services in the United States. The company operates through five segments: Mid-Atlantic, Midwest, New York, ERCOT, and Other Power Regions. It offers electricity, natural gas, energy-related products, and sustainable solutions. The company has approximately 31,676 megawatts of generating capacity consisting of nuclear, wind, solar, natural gas, and hydroelectric assets. It serves distribution utilities, municipalities, cooperatives, and commercial, industrial, public sector, and residential customers.
 
 **Recent headlines (potential catalysts):**
 
@@ -47,7 +47,7 @@ Signed file: `CEG.research.08.09.2026`
 | Price vs 52-week range | Close $299.05; 52w high $401.70 (-25.55%); 52w low $236.14 (+26.64%) |
 | Trend | +1.28% vs SMA200, +12.07% vs SMA50, +6.81% vs SMA20 |
 | Momentum | RSI(14) 66.9 (neutral) |
-| Volatility | ATR(14) 10.07 (~3.4% of price); beta — |
+| Volatility | ATR(14) 10.07 (~3.4% of price); beta 1.12 |
 | Setup perspective | -25.55% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
@@ -64,24 +64,39 @@ Signed file: `CEG.research.08.09.2026`
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
-| Next earnings | — | Next scheduled report (Yahoo estimate) |
-| Revenue (ttm) | — | Revenue growth — y/y |
-| Profitability | Gross —, operating —, net — | ROA —, ROE — |
-| Balance sheet | Cash —, debt — | Current ratio —, debt/equity — |
-| Valuation | P/E —, forward P/E —, P/S —, P/B — | EV/Sales —, EV/EBITDA — |
-| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $— (— analysts) |
+| Next earnings | 2026-11-09 | Next scheduled report (Yahoo estimate) |
+| Revenue (ttm) | $31.27B | Revenue growth 23.00% y/y |
+| Profitability | Gross 22.11%, operating 8.66%, net 11.08% | ROA 3.89%, ROE 15.06% |
+| Balance sheet | Cash $697.00M, debt $24.70B | Current ratio 1.46, debt/equity 76.42 |
+| Valuation | P/E 29.26, forward P/E 22.41, P/S 3.39, P/B 3.32 | EV/Sales 4.17, EV/EBITDA 16.38 |
+| Growth expectations | Earnings growth -46.80%, EPS q/q -38.90% | Analyst mean target $348.30 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | — |
-| Insider ownership | — |
-| Short float | — |
-| Short ratio (days to cover) | — |
+| Institutional ownership | 83.03% |
+| Insider ownership | 0.34% |
+| Short float | 2.97% |
+| Short ratio (days to cover) | 3.4 |
+
+**Top institutional holders:**
+
+| Holder | Shares | % Out | Reported |
+|---|---|---|---|
+| Blackrock Inc. | 24,555,970 | 6.93% | 2026-06-30 |
+| Vanguard Capital Management LLC | 21,037,547 | 5.94% | 2026-06-30 |
+| State Street Corporation | 19,411,636 | 5.48% | 2026-06-30 |
+| Vanguard Portfolio Management LLC | 15,831,891 | 4.47% | 2026-06-30 |
+| ECP ControlCo, LLC | 14,370,227 | 4.06% | 2026-06-30 |
+| Capital International Investors | 12,657,149 | 3.57% | 2026-06-30 |
+| Invesco Ltd. | 11,109,902 | 3.14% | 2026-06-30 |
+| Morgan Stanley | 9,050,555 | 2.55% | 2026-06-30 |
+| Geode Capital Management, LLC | 7,515,854 | 2.12% | 2026-06-30 |
+| FMR, LLC | 6,538,601 | 1.85% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E —, EV/Sales —. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta —, ATR 3.4% of price, short float —. Size positions accordingly.
+- **Valuation risk:** Forward P/E 22.41, EV/Sales 4.17. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 1.12, ATR 3.4% of price, short float 2.97%. Size positions accordingly.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -97,27 +112,36 @@ Signed file: `CEG.research.08.09.2026`
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $299.05 | EV/Sales | — |
-| Market cap | — | EV/EBITDA | — |
-| Beta | — | Gross margin | — |
-| RSI(14) | 66.9 | Operating margin | — |
-| ATR(14) | 10.07 | Profit margin | — |
-| SMA20 dist | +6.81% | ROA | — |
-| SMA50 dist | +12.07% | ROE | — |
-| SMA200 dist | +1.28% | Revenue (ttm) | — |
-| 52W high | $401.70 | Revenue growth y/y | — |
-| 52W low | $236.14 | Inst. ownership | — |
-| P/E (ttm) | — | Insider ownership | — |
-| Forward P/E | — | Short float | — |
-| PEG (trailing) | — | Avg volume | 0 |
-| P/S | — | Employees | 0 |
-| P/B | — | Analyst rec (1=buy..5=sell) | — |
+| Price | $299.05 | EV/Sales | 4.17 |
+| Market cap | $105.96B | EV/EBITDA | 16.38 |
+| Beta | 1.12 | Gross margin | 22.11% |
+| RSI(14) | 66.9 | Operating margin | 8.66% |
+| ATR(14) | 10.07 | Profit margin | 11.08% |
+| SMA20 dist | +6.81% | ROA | 3.89% |
+| SMA50 dist | +12.07% | ROE | 15.06% |
+| SMA200 dist | +1.28% | Revenue (ttm) | $31.27B |
+| 52W high | $401.70 | Revenue growth y/y | 23.00% |
+| 52W low | $236.14 | Inst. ownership | 83.03% |
+| P/E (ttm) | 29.26 | Insider ownership | 0.34% |
+| Forward P/E | 22.41 | Short float | 2.97% |
+| PEG (trailing) | — | Avg volume | 3,102,945 |
+| P/S | 3.39 | Employees | 15,291 |
+| P/B | 3.32 | Analyst rec (1=buy..5=sell) | 1.5 |
 
 ## 8. Analyst Actions
-_No recent analyst actions available from Yahoo._
+| Date | Action | Firm | Rating change |
+|---|---|---|---|
+| 2026-08-21 | main | Morgan Stanley | Overweight → Overweight |
+| 2026-08-11 | main | Argus Research | Buy → Buy |
+| 2026-07-28 | main | UBS | Buy → Buy |
+| 2026-07-28 | main | Barclays | Overweight → Overweight |
+| 2026-07-27 | main | TD Cowen | Buy → Buy |
+| 2026-07-27 | main | Wells Fargo | Overweight → Overweight |
+| 2026-07-01 | main | Citigroup | Neutral → Neutral |
+| 2026-06-18 | init | Goldman Sachs | Buy → Neutral |
 
 ## 9. Conclusion
-CEG: Moderate momentum / mixed fundamentals / low (expensive) value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+CEG: Moderate momentum / mixed fundamentals / fair-to-demanding value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

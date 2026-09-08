@@ -1,14 +1,14 @@
 # CVX Research Report
-**Chevron** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**Chevron Corporation** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `CVX.research.08.09.2026`
 
 | Field | Value |
 |---|---|
 | Current price | $209.80 (2026-09-08, ~15-min delayed) |
-| Market cap | — |
-| Sector / Industry | — / — |
-| Main theme | Semiconductors — see catalysts below |
-| Current stance | Moderate technical momentum, mixed fundamentals, value: low (expensive), risk: moderate. |
+| Market cap | $411.54B |
+| Sector / Industry | Energy / Oil & Gas Integrated |
+| Main theme | Oil & Gas Integrated — see catalysts below |
+| Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-09-08.
 
@@ -17,11 +17,11 @@ Signed file: `CVX.research.08.09.2026`
 |---|---|---|
 | Technical momentum | Moderate | 1Y +41.92%; price +17.52% vs SMA200. |
 | Fresh setup quality | Watch | -0.93% from 52w high and near SMA20 — check for a tight base. |
-| Fundamental quality | Mixed | Profit margin —, revenue growth —. |
-| Value attractiveness | Low (expensive) | Forward P/E —, EV/Sales —. |
-| Risk level | Moderate | Beta —, ATR 1.9% of price, short float —. |
+| Fundamental quality | Mixed | Profit margin 9.83%, revenue growth 53.50%. |
+| Value attractiveness | Reasonable | Forward P/E 15.57, EV/Sales 2.12. |
+| Risk level | Moderate | Beta 0.49, ATR 1.9% of price, short float 0.81%. |
 
-**Bottom line:** Moderate technical momentum, mixed fundamentals, value: low (expensive), risk: moderate.
+**Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -30,7 +30,7 @@ Signed file: `CVX.research.08.09.2026`
 - Can earnings convert fast enough to justify the valuation?
 
 ## 2. Company Overview and Recent Catalysts
-—
+Chevron Corporation, through its subsidiaries, engages in the integrated energy and chemicals operations. It operates through Upstream and Downstream segments. The Upstream segment engages in the exploration for, development, production, and transportation of crude oil and natural gas; processing, liquefaction, transportation, and regasification of liquefied natural gas; transportation of crude oil through pipelines; transportation, storage, and marketing of natural gas; carbon capture and storage; and operation of a gas-to-liquids plant.
 
 **Recent headlines (potential catalysts):**
 
@@ -47,7 +47,7 @@ Signed file: `CVX.research.08.09.2026`
 | Price vs 52-week range | Close $209.80; 52w high $211.78 (-0.93%); 52w low $142.76 (+46.96%) |
 | Trend | +17.52% vs SMA200, +9.98% vs SMA50, +3.11% vs SMA20 |
 | Momentum | RSI(14) 66.3 (neutral) |
-| Volatility | ATR(14) 3.98 (~1.9% of price); beta — |
+| Volatility | ATR(14) 3.98 (~1.9% of price); beta 0.49 |
 | Setup perspective | -0.93% from 52w high and near SMA20 — check for a tight base. |
 
 **Performance snapshot:**
@@ -64,23 +64,37 @@ Signed file: `CVX.research.08.09.2026`
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
-| Next earnings | — | Next scheduled report (Yahoo estimate) |
-| Revenue (ttm) | — | Revenue growth — y/y |
-| Profitability | Gross —, operating —, net — | ROA —, ROE — |
-| Balance sheet | Cash —, debt — | Current ratio —, debt/equity — |
-| Valuation | P/E —, forward P/E —, P/S —, P/B — | EV/Sales —, EV/EBITDA — |
-| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $— (— analysts) |
+| Next earnings | 2026-10-30 | Next scheduled report (Yahoo estimate) |
+| Revenue (ttm) | $209.38B | Revenue growth 53.50% y/y |
+| Profitability | Gross 44.27%, operating 21.87%, net 9.83% | ROA 5.86%, ROE 12.23% |
+| Balance sheet | Cash $8.53B, debt $37.08B | Current ratio 1.25, debt/equity 18.96 |
+| Valuation | P/E 20.19, forward P/E 15.57, P/S 1.97, P/B 2.17 | EV/Sales 2.12, EV/EBITDA 8.75 |
+| Growth expectations | Earnings growth 321.90%, EPS q/q 384.80% | Analyst mean target $221.21 (24 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | — |
-| Insider ownership | — |
-| Short float | — |
-| Short ratio (days to cover) | — |
+| Institutional ownership | 71.21% |
+| Insider ownership | 4.77% |
+| Short float | 0.81% |
+| Short ratio (days to cover) | 2.0 |
+
+**Top institutional holders:**
+
+| Holder | Shares | % Out | Reported |
+|---|---|---|---|
+| Blackrock Inc. | 154,824,622 | 7.84% | 2026-06-30 |
+| State Street Corporation | 148,447,634 | 7.51% | 2026-06-30 |
+| Vanguard Capital Management LLC | 122,899,830 | 6.22% | 2026-06-30 |
+| Berkshire Hathaway, Inc | 84,375,856 | 4.27% | 2026-06-30 |
+| Geode Capital Management, LLC | 44,535,812 | 2.25% | 2026-06-30 |
+| Vanguard Portfolio Management LLC | 42,476,901 | 2.15% | 2026-06-30 |
+| Charles Schwab Investment Management, Inc. | 37,714,808 | 1.91% | 2026-06-30 |
+| Morgan Stanley | 36,051,004 | 1.82% | 2026-06-30 |
+| Bank of America Corporation | 27,205,457 | 1.38% | 2026-06-30 |
+| NORGES BANK | 22,964,061 | 1.16% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E —, EV/Sales —. Multiple compression is the main downside if growth disappoints.
 - **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -96,27 +110,36 @@ Signed file: `CVX.research.08.09.2026`
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $209.80 | EV/Sales | — |
-| Market cap | — | EV/EBITDA | — |
-| Beta | — | Gross margin | — |
-| RSI(14) | 66.3 | Operating margin | — |
-| ATR(14) | 3.98 | Profit margin | — |
-| SMA20 dist | +3.11% | ROA | — |
-| SMA50 dist | +9.98% | ROE | — |
-| SMA200 dist | +17.52% | Revenue (ttm) | — |
-| 52W high | $211.78 | Revenue growth y/y | — |
-| 52W low | $142.76 | Inst. ownership | — |
-| P/E (ttm) | — | Insider ownership | — |
-| Forward P/E | — | Short float | — |
-| PEG (trailing) | 0.92 | Avg volume | 0 |
-| P/S | — | Employees | 0 |
-| P/B | — | Analyst rec (1=buy..5=sell) | — |
+| Price | $209.80 | EV/Sales | 2.12 |
+| Market cap | $411.54B | EV/EBITDA | 8.75 |
+| Beta | 0.49 | Gross margin | 44.27% |
+| RSI(14) | 66.3 | Operating margin | 21.87% |
+| ATR(14) | 3.98 | Profit margin | 9.83% |
+| SMA20 dist | +3.11% | ROA | 5.86% |
+| SMA50 dist | +9.98% | ROE | 12.23% |
+| SMA200 dist | +17.52% | Revenue (ttm) | $209.38B |
+| 52W high | $211.78 | Revenue growth y/y | 53.50% |
+| 52W low | $142.76 | Inst. ownership | 71.21% |
+| P/E (ttm) | 20.19 | Insider ownership | 4.77% |
+| Forward P/E | 15.57 | Short float | 0.81% |
+| PEG (trailing) | 0.92 | Avg volume | 8,491,875 |
+| P/S | 1.97 | Employees | 43,039 |
+| P/B | 2.17 | Analyst rec (1=buy..5=sell) | 1.7 |
 
 ## 8. Analyst Actions
-_No recent analyst actions available from Yahoo._
+| Date | Action | Firm | Rating change |
+|---|---|---|---|
+| 2026-09-03 | main | BMO Capital | Outperform → Outperform |
+| 2026-09-03 | main | Piper Sandler | Overweight → Overweight |
+| 2026-09-03 | main | Wells Fargo | Overweight → Overweight |
+| 2026-08-19 | main | Morgan Stanley | Overweight → Overweight |
+| 2026-08-17 | main | Barclays | Equal-Weight → Equal-Weight |
+| 2026-08-05 | main | TD Cowen | Hold → Hold |
+| 2026-08-03 | main | Bernstein | Market Perform → Market Perform |
+| 2026-08-03 | main | Barclays | Equal-Weight → Equal-Weight |
 
 ## 9. Conclusion
-CVX: Moderate momentum / mixed fundamentals / low (expensive) value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+CVX: Moderate momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

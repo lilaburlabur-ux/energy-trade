@@ -1,14 +1,14 @@
 # OVV Research Report
-**Ovintiv** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**Ovintiv Inc.** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `OVV.research.08.09.2026`
 
 | Field | Value |
 |---|---|
 | Current price | $64.10 (2026-09-08, ~15-min delayed) |
-| Market cap | — |
-| Sector / Industry | — / — |
-| Main theme | Semiconductors — see catalysts below |
-| Current stance | High technical momentum, mixed fundamentals, value: low (expensive), risk: moderate. |
+| Market cap | $17.73B |
+| Sector / Industry | Energy / Oil & Gas E&P |
+| Main theme | Oil & Gas E&P — see catalysts below |
+| Current stance | High technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-09-08.
 
@@ -17,11 +17,11 @@ Signed file: `OVV.research.08.09.2026`
 |---|---|---|
 | Technical momentum | High | 1Y +60.01%; price +22.03% vs SMA200. |
 | Fresh setup quality | Watch | -4.20% from 52w high and near SMA20 — check for a tight base. |
-| Fundamental quality | Mixed | Profit margin —, revenue growth —. |
-| Value attractiveness | Low (expensive) | Forward P/E —, EV/Sales —. |
-| Risk level | Moderate | Beta —, ATR 2.8% of price, short float —. |
+| Fundamental quality | Mixed | Profit margin 9.66%, revenue growth 29.70%. |
+| Value attractiveness | Reasonable | Forward P/E 8.78, EV/Sales 2.33. |
+| Risk level | Moderate | Beta 0.54, ATR 2.8% of price, short float 4.84%. |
 
-**Bottom line:** High technical momentum, mixed fundamentals, value: low (expensive), risk: moderate.
+**Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -30,7 +30,7 @@ Signed file: `OVV.research.08.09.2026`
 - Can earnings convert fast enough to justify the valuation?
 
 ## 2. Company Overview and Recent Catalysts
-—
+Ovintiv Inc., together with its subsidiaries, operates as an oil and natural gas exploration and production company in North America. The company operates through USA Operations and Canadian Operations segments. It is involved in the exploration, development, production, and marketing of oil, NGLs, natural gas and other related activities in the Permian in West Texas and Anadarko in West-central Oklahoma in the United States, as well as in the Montney in northwest Alberta and northeast British Columbia. The company was formerly known as Encana Corporation and changed its name to Ovintiv Inc.
 
 **Recent headlines (potential catalysts):**
 
@@ -47,7 +47,7 @@ Signed file: `OVV.research.08.09.2026`
 | Price vs 52-week range | Close $64.10; 52w high $66.91 (-4.20%); 52w low $35.32 (+81.47%) |
 | Trend | +22.03% vs SMA200, +5.51% vs SMA50, -1.27% vs SMA20 |
 | Momentum | RSI(14) 51.3 (neutral) |
-| Volatility | ATR(14) 1.80 (~2.8% of price); beta — |
+| Volatility | ATR(14) 1.80 (~2.8% of price); beta 0.54 |
 | Setup perspective | -4.20% from 52w high and near SMA20 — check for a tight base. |
 
 **Performance snapshot:**
@@ -64,23 +64,37 @@ Signed file: `OVV.research.08.09.2026`
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
-| Next earnings | — | Next scheduled report (Yahoo estimate) |
-| Revenue (ttm) | — | Revenue growth — y/y |
-| Profitability | Gross —, operating —, net — | ROA —, ROE — |
-| Balance sheet | Cash —, debt — | Current ratio —, debt/equity — |
-| Valuation | P/E —, forward P/E —, P/S —, P/B — | EV/Sales —, EV/EBITDA — |
-| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $— (— analysts) |
+| Next earnings | 2026-11-04 | Next scheduled report (Yahoo estimate) |
+| Revenue (ttm) | $9.52B | Revenue growth 29.70% y/y |
+| Profitability | Gross 53.86%, operating 36.18%, net 9.66% | ROA 8.64%, ROE 8.41% |
+| Balance sheet | Cash $700.00M, debt $5.03B | Current ratio 1.01, debt/equity 43.73 |
+| Valuation | P/E 17.91, forward P/E 8.78, P/S 1.86, P/B 1.54 | EV/Sales 2.33, EV/EBITDA 4.54 |
+| Growth expectations | Earnings growth 37.30%, EPS q/q 48.50% | Analyst mean target $74.43 (23 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | — |
-| Insider ownership | — |
-| Short float | — |
-| Short ratio (days to cover) | — |
+| Institutional ownership | 96.93% |
+| Insider ownership | 0.47% |
+| Short float | 4.84% |
+| Short ratio (days to cover) | 3.4 |
+
+**Top institutional holders:**
+
+| Holder | Shares | % Out | Reported |
+|---|---|---|---|
+| Blackrock Inc. | 27,026,767 | 9.81% | 2026-06-30 |
+| FMR, LLC | 25,750,709 | 9.35% | 2026-06-30 |
+| Capital Research Global Investors | 19,445,689 | 7.06% | 2026-06-30 |
+| Vanguard Portfolio Management LLC | 14,459,194 | 5.25% | 2026-06-30 |
+| Vanguard Capital Management LLC | 12,630,606 | 4.58% | 2026-06-30 |
+| Dimensional Fund Advisors LP | 10,406,046 | 3.78% | 2026-06-30 |
+| State Street Corporation | 10,034,609 | 3.64% | 2026-06-30 |
+| Price (T.Rowe) Associates Inc | 9,104,690 | 3.30% | 2026-06-30 |
+| Hotchkis & Wiley Capital Management, LLC | 8,695,301 | 3.16% | 2026-06-30 |
+| Invesco Ltd. | 6,961,851 | 2.53% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E —, EV/Sales —. Multiple compression is the main downside if growth disappoints.
 - **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -96,27 +110,36 @@ Signed file: `OVV.research.08.09.2026`
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $64.10 | EV/Sales | — |
-| Market cap | — | EV/EBITDA | — |
-| Beta | — | Gross margin | — |
-| RSI(14) | 51.3 | Operating margin | — |
-| ATR(14) | 1.80 | Profit margin | — |
-| SMA20 dist | -1.27% | ROA | — |
-| SMA50 dist | +5.51% | ROE | — |
-| SMA200 dist | +22.03% | Revenue (ttm) | — |
-| 52W high | $66.91 | Revenue growth y/y | — |
-| 52W low | $35.32 | Inst. ownership | — |
-| P/E (ttm) | — | Insider ownership | — |
-| Forward P/E | — | Short float | — |
-| PEG (trailing) | — | Avg volume | 0 |
-| P/S | — | Employees | 0 |
-| P/B | — | Analyst rec (1=buy..5=sell) | — |
+| Price | $64.10 | EV/Sales | 2.33 |
+| Market cap | $17.73B | EV/EBITDA | 4.54 |
+| Beta | 0.54 | Gross margin | 53.86% |
+| RSI(14) | 51.3 | Operating margin | 36.18% |
+| ATR(14) | 1.80 | Profit margin | 9.66% |
+| SMA20 dist | -1.27% | ROA | 8.64% |
+| SMA50 dist | +5.51% | ROE | 8.41% |
+| SMA200 dist | +22.03% | Revenue (ttm) | $9.52B |
+| 52W high | $66.91 | Revenue growth y/y | 29.70% |
+| 52W low | $35.32 | Inst. ownership | 96.93% |
+| P/E (ttm) | 17.91 | Insider ownership | 0.47% |
+| Forward P/E | 8.78 | Short float | 4.84% |
+| PEG (trailing) | — | Avg volume | 3,314,335 |
+| P/S | 1.86 | Employees | 1,465 |
+| P/B | 1.54 | Analyst rec (1=buy..5=sell) | 1.6 |
 
 ## 8. Analyst Actions
-_No recent analyst actions available from Yahoo._
+| Date | Action | Firm | Rating change |
+|---|---|---|---|
+| 2026-09-03 | init | Seaport Global | — → Neutral |
+| 2026-09-02 | main | Wells Fargo | Overweight → Overweight |
+| 2026-08-13 | main | Wells Fargo | Overweight → Overweight |
+| 2026-07-28 | main | UBS | Buy → Buy |
+| 2026-07-27 | main | RBC Capital | Outperform → Outperform |
+| 2026-07-27 | reit | Truist Securities | Buy → Buy |
+| 2026-07-17 | main | Citigroup | Buy → Buy |
+| 2026-07-17 | main | Stephens & Co. | Equal-Weight → Equal-Weight |
 
 ## 9. Conclusion
-OVV: High momentum / mixed fundamentals / low (expensive) value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+OVV: High momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

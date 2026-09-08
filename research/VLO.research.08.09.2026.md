@@ -1,14 +1,14 @@
 # VLO Research Report
-**Valero Energy** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**Valero Energy Corporation** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `VLO.research.08.09.2026`
 
 | Field | Value |
 |---|---|
 | Current price | $382.85 (2026-09-08, ~15-min delayed) |
-| Market cap | — |
-| Sector / Industry | — / — |
-| Main theme | Semiconductors — see catalysts below |
-| Current stance | High technical momentum, mixed fundamentals, value: low (expensive), risk: moderate. |
+| Market cap | $110.23B |
+| Sector / Industry | Energy / Oil & Gas Refining & Marketing |
+| Main theme | Oil & Gas Refining & Marketing — see catalysts below |
+| Current stance | High technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-09-08.
 
@@ -17,11 +17,11 @@ Signed file: `VLO.research.08.09.2026`
 |---|---|---|
 | Technical momentum | High | 1Y +149.39%; price +60.18% vs SMA200. |
 | Fresh setup quality | Moderate / wait | +0.00% from 52w high; no clean fresh pivot by default. |
-| Fundamental quality | Mixed | Profit margin —, revenue growth —. |
-| Value attractiveness | Low (expensive) | Forward P/E —, EV/Sales —. |
-| Risk level | Moderate | Beta —, ATR 2.8% of price, short float —. |
+| Fundamental quality | Mixed | Profit margin 5.45%, revenue growth 51.70%. |
+| Value attractiveness | Reasonable | Forward P/E 12.27, EV/Sales 0.86. |
+| Risk level | Moderate | Beta 0.57, ATR 2.8% of price, short float 3.89%. |
 
-**Bottom line:** High technical momentum, mixed fundamentals, value: low (expensive), risk: moderate.
+**Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -30,7 +30,7 @@ Signed file: `VLO.research.08.09.2026`
 - Can earnings convert fast enough to justify the valuation?
 
 ## 2. Company Overview and Recent Catalysts
-—
+Valero Energy Corporation manufactures, markets, and sells petroleum-based and low-carbon liquid transportation fuels and petrochemical products in the United States, Canada, the United Kingdom, Ireland, Latin America, Mexico, Peru, and internationally. It operates through three segments: Refining, Renewable Diesel, and Ethanol.
 
 **Recent headlines (potential catalysts):**
 
@@ -44,10 +44,10 @@ Signed file: `VLO.research.08.09.2026`
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $382.85; 52w high $382.85 (+0.00%); 52w low $153.14 (+150.00%) |
+| Price vs 52-week range | Close $382.85; 52w high $382.85 (+0.00%); 52w low $153.14 (+149.99%) |
 | Trend | +60.18% vs SMA200, +20.79% vs SMA50, +9.12% vs SMA20 |
 | Momentum | RSI(14) 79.3 (overbought) |
-| Volatility | ATR(14) 10.88 (~2.8% of price); beta — |
+| Volatility | ATR(14) 10.88 (~2.8% of price); beta 0.57 |
 | Setup perspective | +0.00% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
@@ -64,23 +64,37 @@ Signed file: `VLO.research.08.09.2026`
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
-| Next earnings | — | Next scheduled report (Yahoo estimate) |
-| Revenue (ttm) | — | Revenue growth — y/y |
-| Profitability | Gross —, operating —, net — | ROA —, ROE — |
-| Balance sheet | Cash —, debt — | Current ratio —, debt/equity — |
-| Valuation | P/E —, forward P/E —, P/S —, P/B — | EV/Sales —, EV/EBITDA — |
-| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $— (— analysts) |
+| Next earnings | 2026-10-22 | Next scheduled report (Yahoo estimate) |
+| Revenue (ttm) | $132.43B | Revenue growth 51.70% y/y |
+| Profitability | Gross 16.12%, operating 12.27%, net 5.45% | ROA 10.56%, ROE 27.64% |
+| Balance sheet | Cash $7.87B, debt $11.35B | Current ratio 1.64, debt/equity 40.15 |
+| Valuation | P/E 15.96, forward P/E 12.27, P/S 0.83, P/B 4.41 | EV/Sales 0.86, EV/EBITDA 8.48 |
+| Growth expectations | Earnings growth 453.50%, EPS q/q 421.00% | Analyst mean target $325.21 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | — |
-| Insider ownership | — |
-| Short float | — |
-| Short ratio (days to cover) | — |
+| Institutional ownership | 87.12% |
+| Insider ownership | 0.42% |
+| Short float | 3.89% |
+| Short ratio (days to cover) | 3.4 |
+
+**Top institutional holders:**
+
+| Holder | Shares | % Out | Reported |
+|---|---|---|---|
+| Blackrock Inc. | 25,143,225 | 8.73% | 2026-06-30 |
+| Vanguard Capital Management LLC | 19,393,258 | 6.74% | 2026-06-30 |
+| State Street Corporation | 18,903,012 | 6.57% | 2026-06-30 |
+| Vanguard Portfolio Management LLC | 14,845,028 | 5.16% | 2026-06-30 |
+| FMR, LLC | 8,504,389 | 2.95% | 2026-06-30 |
+| Morgan Stanley | 8,039,331 | 2.79% | 2026-06-30 |
+| Geode Capital Management, LLC | 7,269,612 | 2.52% | 2026-06-30 |
+| NORGES BANK | 6,402,941 | 2.22% | 2026-06-30 |
+| Franklin Resources, Inc. | 6,328,819 | 2.20% | 2026-06-30 |
+| Ameriprise Financial, Inc. | 5,223,386 | 1.81% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E —, EV/Sales —. Multiple compression is the main downside if growth disappoints.
 - **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -96,27 +110,36 @@ Signed file: `VLO.research.08.09.2026`
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $382.85 | EV/Sales | — |
-| Market cap | — | EV/EBITDA | — |
-| Beta | — | Gross margin | — |
-| RSI(14) | 79.3 | Operating margin | — |
-| ATR(14) | 10.88 | Profit margin | — |
-| SMA20 dist | +9.12% | ROA | — |
-| SMA50 dist | +20.79% | ROE | — |
-| SMA200 dist | +60.18% | Revenue (ttm) | — |
-| 52W high | $382.85 | Revenue growth y/y | — |
-| 52W low | $153.14 | Inst. ownership | — |
-| P/E (ttm) | — | Insider ownership | — |
-| Forward P/E | — | Short float | — |
-| PEG (trailing) | 4.08 | Avg volume | 0 |
-| P/S | — | Employees | 0 |
-| P/B | — | Analyst rec (1=buy..5=sell) | — |
+| Price | $382.85 | EV/Sales | 0.86 |
+| Market cap | $110.23B | EV/EBITDA | 8.48 |
+| Beta | 0.57 | Gross margin | 16.12% |
+| RSI(14) | 79.3 | Operating margin | 12.27% |
+| ATR(14) | 10.88 | Profit margin | 5.45% |
+| SMA20 dist | +9.12% | ROA | 10.56% |
+| SMA50 dist | +20.79% | ROE | 27.64% |
+| SMA200 dist | +60.18% | Revenue (ttm) | $132.43B |
+| 52W high | $382.85 | Revenue growth y/y | 51.70% |
+| 52W low | $153.14 | Inst. ownership | 87.12% |
+| P/E (ttm) | 15.96 | Insider ownership | 0.42% |
+| Forward P/E | 12.27 | Short float | 3.89% |
+| PEG (trailing) | 4.08 | Avg volume | 2,845,996 |
+| P/S | 0.83 | Employees | 9,785 |
+| P/B | 4.41 | Analyst rec (1=buy..5=sell) | 2.4 |
 
 ## 8. Analyst Actions
-_No recent analyst actions available from Yahoo._
+| Date | Action | Firm | Rating change |
+|---|---|---|---|
+| 2026-09-08 | main | UBS | Buy → Buy |
+| 2026-09-03 | main | Piper Sandler | Overweight → Overweight |
+| 2026-09-01 | main | Wells Fargo | Overweight → Overweight |
+| 2026-08-04 | main | Mizuho | Neutral → Neutral |
+| 2026-08-03 | main | TD Cowen | Hold → Hold |
+| 2026-07-31 | main | UBS | Buy → Buy |
+| 2026-07-31 | main | Wells Fargo | Overweight → Overweight |
+| 2026-07-31 | main | Barclays | Overweight → Overweight |
 
 ## 9. Conclusion
-VLO: High momentum / mixed fundamentals / low (expensive) value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+VLO: High momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

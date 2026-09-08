@@ -18,7 +18,7 @@ Signed file: `GEV.research.08.09.2026`
 | Technical momentum | High | 1Y +67.25%; price +9.42% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -17.33% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 23.04%, revenue growth 21.90%. |
-| Value attractiveness | Low (expensive) | Forward P/E 38.43, EV/Sales 5.88. |
+| Value attractiveness | Low (expensive) | Forward P/E 38.43, EV/Sales 6.06. |
 | Risk level | Elevated | Beta 0.97, ATR 4.3% of price, short float 2.98%. |
 
 **Bottom line:** High technical momentum, strong fundamentals, value: low (expensive), risk: elevated.
@@ -36,10 +36,10 @@ GE Vernova Inc., an energy company, engages in the provision of various products
 
 | Headline | Source | Date |
 |---|---|---|
+| Jim Cramer Weighs In on GE Vernova (GEV) and NuScale Power (SMR) | Insider Monkey | 2026-09-08 |
 | GE’s $12 Billion Bet on the Unsexy Industry SpaceX Is Trying to Disrupt | Barrons.com | 2026-09-08 |
 | Is GE Vernova Stock Outperforming the Dow? | Barchart | 2026-09-08 |
 | Rivian (RIVN) Loses its CFO to GE Vernova (GEV) Right in the Middle of its Biggest Bet Yet | Insider Monkey | 2026-09-07 |
-| BWX Technologies Already Builds Reactors for the Navy. Why Is It Still the Cheapest Nuclear Stock? | Motley Fool | 2026-09-06 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ GE Vernova Inc., an energy company, engages in the provision of various products
 | Revenue (ttm) | $41.37B | Revenue growth 21.90% y/y |
 | Profitability | Gross 20.57%, operating 7.47%, net 23.04% | ROA 2.54%, ROE 82.58% |
 | Balance sheet | Cash $12.72B, debt $3.72B | Current ratio 0.85, debt/equity 28.36 |
-| Valuation | P/E 27.87, forward P/E 38.43, P/S 6.25, P/B 21.64 | EV/Sales 5.88, EV/EBITDA 61.89 |
+| Valuation | P/E 27.87, forward P/E 38.43, P/S 6.25, P/B 21.64 | EV/Sales 6.06, EV/EBITDA 63.88 |
 | Growth expectations | Earnings growth 32.80%, EPS q/q 30.00% | Analyst mean target $1,236.43 (33 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ GE Vernova Inc., an energy company, engages in the provision of various products
 | Fisher Asset Management, LLC | 3,559,479 | 1.34% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 38.43, EV/Sales 5.88. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 38.43, EV/Sales 6.06. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 0.97, ATR 4.3% of price, short float 2.98%. Size positions accordingly.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -111,8 +111,8 @@ GE Vernova Inc., an energy company, engages in the provision of various products
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $971.31 | EV/Sales | 5.88 |
-| Market cap | $258.69B | EV/EBITDA | 61.89 |
+| Price | $971.31 | EV/Sales | 6.06 |
+| Market cap | $258.69B | EV/EBITDA | 63.88 |
 | Beta | 0.97 | Gross margin | 20.57% |
 | RSI(14) | 50.4 | Operating margin | 7.47% |
 | ATR(14) | 41.46 | Profit margin | 23.04% |

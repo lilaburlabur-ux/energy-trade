@@ -1,14 +1,14 @@
 # OKLO Research Report
-**Oklo** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**Oklo Inc.** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `OKLO.research.08.09.2026`
 
 | Field | Value |
 |---|---|
 | Current price | $43.31 (2026-09-08, ~15-min delayed) |
-| Market cap | — |
-| Sector / Industry | — / — |
-| Main theme | Semiconductors — see catalysts below |
-| Current stance | Low technical momentum, mixed fundamentals, value: low (expensive), risk: high. |
+| Market cap | $8.06B |
+| Sector / Industry | Utilities / Utilities - Independent Power Producers |
+| Main theme | Utilities - Independent Power Producers — see catalysts below |
+| Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-09-08.
 
@@ -17,11 +17,11 @@ Signed file: `OKLO.research.08.09.2026`
 |---|---|---|
 | Technical momentum | Low | Below SMA200 (-32.94%) with negative half-year (-29.90%). |
 | Fresh setup quality | Poor / broken | -75.13% from 52w high — base needs to rebuild. |
-| Fundamental quality | Mixed | Profit margin —, revenue growth —. |
-| Value attractiveness | Low (expensive) | Forward P/E —, EV/Sales —. |
-| Risk level | High | Beta —, ATR 6.8% of price, short float —. |
+| Fundamental quality | Mixed | Profit margin 0.00%, revenue growth —. |
+| Value attractiveness | Reasonable | Forward P/E -43.13, EV/Sales 4,310.69. |
+| Risk level | High | Beta 1.20, ATR 6.8% of price, short float 15.86%. |
 
-**Bottom line:** Low technical momentum, mixed fundamentals, value: low (expensive), risk: high.
+**Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -30,7 +30,7 @@ Signed file: `OKLO.research.08.09.2026`
 - Can earnings convert fast enough to justify the valuation?
 
 ## 2. Company Overview and Recent Catalysts
-—
+Oklo Inc. develops fission power plants to provide energy at scale to customers in the United States. The company offers Aurora Powerhouse, which is designed to produce between 15 and up to 75 megawatts of electricity. It is also commercializing nuclear fuel recycling and fuel fabrication technology that can convert used nuclear fuel into usable fuel for its reactors. The company was formerly known as AltC Acquisition Corp. and changed its name to Oklo Inc. in May 2024. Oklo Inc. was founded in 2013 and is headquartered in Santa Clara, California.
 
 **Recent headlines (potential catalysts):**
 
@@ -47,7 +47,7 @@ Signed file: `OKLO.research.08.09.2026`
 | Price vs 52-week range | Close $43.31; 52w high $174.14 (-75.13%); 52w low $36.84 (+17.56%) |
 | Trend | -32.94% vs SMA200, -1.43% vs SMA50, +2.37% vs SMA20 |
 | Momentum | RSI(14) 51.7 (neutral) |
-| Volatility | ATR(14) 2.93 (~6.8% of price); beta — |
+| Volatility | ATR(14) 2.93 (~6.8% of price); beta 1.20 |
 | Setup perspective | -75.13% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
@@ -64,24 +64,39 @@ Signed file: `OKLO.research.08.09.2026`
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
-| Next earnings | — | Next scheduled report (Yahoo estimate) |
-| Revenue (ttm) | — | Revenue growth — y/y |
-| Profitability | Gross —, operating —, net — | ROA —, ROE — |
-| Balance sheet | Cash —, debt — | Current ratio —, debt/equity — |
-| Valuation | P/E —, forward P/E —, P/S —, P/B — | EV/Sales —, EV/EBITDA — |
-| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $— (— analysts) |
+| Next earnings | 2026-11-10 | Next scheduled report (Yahoo estimate) |
+| Revenue (ttm) | $1.21M | Revenue growth — y/y |
+| Profitability | Gross 40.41%, operating -6048.76%, net 0.00% | ROA -6.65%, ROE -7.70% |
+| Balance sheet | Cash $2.47B, debt $4.15M | Current ratio 48.46, debt/equity 0.13 |
+| Valuation | P/E —, forward P/E -43.13, P/S 6,658.20, P/B 2.45 | EV/Sales 4,310.69, EV/EBITDA -24.06 |
+| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $79.88 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | — |
-| Insider ownership | — |
-| Short float | — |
-| Short ratio (days to cover) | — |
+| Institutional ownership | 47.50% |
+| Insider ownership | 15.38% |
+| Short float | 15.86% |
+| Short ratio (days to cover) | 2.7 |
+
+**Top institutional holders:**
+
+| Holder | Shares | % Out | Reported |
+|---|---|---|---|
+| Mirae Asset Global ETFs Holdings Ltd. | 8,935,822 | 4.80% | 2026-06-30 |
+| Van Eck Associates Corporation | 7,912,353 | 4.25% | 2026-06-30 |
+| Blackrock Inc. | 7,311,968 | 3.93% | 2026-06-30 |
+| Vanguard Capital Management LLC | 6,539,334 | 3.52% | 2026-06-30 |
+| Vanguard Portfolio Management LLC | 6,425,515 | 3.45% | 2026-06-30 |
+| Morgan Stanley | 3,262,878 | 1.75% | 2026-06-30 |
+| State Street Corporation | 2,378,058 | 1.28% | 2026-06-30 |
+| Geode Capital Management, LLC | 2,364,428 | 1.27% | 2026-06-30 |
+| UBS Group AG | 2,095,153 | 1.13% | 2026-06-30 |
+| NORGES BANK | 1,758,267 | 0.95% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E —, EV/Sales —. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta —, ATR 6.8% of price, short float —. Size positions accordingly.
+- **Volatility risk:** Beta 1.20, ATR 6.8% of price, short float 15.86%. Size positions accordingly.
+- **Short interest risk:** short float 15.86% can fuel squeezes both ways around news.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -97,27 +112,36 @@ Signed file: `OKLO.research.08.09.2026`
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $43.31 | EV/Sales | — |
-| Market cap | — | EV/EBITDA | — |
-| Beta | — | Gross margin | — |
-| RSI(14) | 51.7 | Operating margin | — |
-| ATR(14) | 2.93 | Profit margin | — |
-| SMA20 dist | +2.37% | ROA | — |
-| SMA50 dist | -1.43% | ROE | — |
-| SMA200 dist | -32.94% | Revenue (ttm) | — |
+| Price | $43.31 | EV/Sales | 4,310.69 |
+| Market cap | $8.06B | EV/EBITDA | -24.06 |
+| Beta | 1.20 | Gross margin | 40.41% |
+| RSI(14) | 51.7 | Operating margin | -6048.76% |
+| ATR(14) | 2.93 | Profit margin | 0.00% |
+| SMA20 dist | +2.37% | ROA | -6.65% |
+| SMA50 dist | -1.43% | ROE | -7.70% |
+| SMA200 dist | -32.94% | Revenue (ttm) | $1.21M |
 | 52W high | $174.14 | Revenue growth y/y | — |
-| 52W low | $36.84 | Inst. ownership | — |
-| P/E (ttm) | — | Insider ownership | — |
-| Forward P/E | — | Short float | — |
-| PEG (trailing) | — | Avg volume | 0 |
-| P/S | — | Employees | 0 |
-| P/B | — | Analyst rec (1=buy..5=sell) | — |
+| 52W low | $36.84 | Inst. ownership | 47.50% |
+| P/E (ttm) | — | Insider ownership | 15.38% |
+| Forward P/E | -43.13 | Short float | 15.86% |
+| PEG (trailing) | — | Avg volume | 9,539,780 |
+| P/S | 6,658.20 | Employees | 215 |
+| P/B | 2.45 | Analyst rec (1=buy..5=sell) | — |
 
 ## 8. Analyst Actions
-_No recent analyst actions available from Yahoo._
+| Date | Action | Firm | Rating change |
+|---|---|---|---|
+| 2026-08-10 | main | Truist Securities | Hold → Hold |
+| 2026-08-10 | main | Citigroup | Neutral → Neutral |
+| 2026-08-10 | reit | HC Wainwright & Co. | Buy → Buy |
+| 2026-08-10 | main | Canaccord Genuity | Buy → Buy |
+| 2026-07-23 | main | Barclays | Overweight → Overweight |
+| 2026-07-14 | init | Truist Securities | — → Hold |
+| 2026-06-25 | init | Guggenheim | — → Neutral |
+| 2026-06-11 | main | UBS | Neutral → Neutral |
 
 ## 9. Conclusion
-OKLO: Low momentum / mixed fundamentals / low (expensive) value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+OKLO: Low momentum / mixed fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

@@ -1,14 +1,14 @@
 # SMR Research Report
-**NuScale Power** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**NuScale Power Corporation** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `SMR.research.08.09.2026`
 
 | Field | Value |
 |---|---|
 | Current price | $11.18 (2026-09-08, ~15-min delayed) |
-| Market cap | — |
-| Sector / Industry | — / — |
-| Main theme | Semiconductors — see catalysts below |
-| Current stance | Low technical momentum, mixed fundamentals, value: low (expensive), risk: high. |
+| Market cap | $4.59B |
+| Sector / Industry | Industrials / Specialty Industrial Machinery |
+| Main theme | Specialty Industrial Machinery — see catalysts below |
+| Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-09-08.
 
@@ -17,11 +17,11 @@ Signed file: `SMR.research.08.09.2026`
 |---|---|---|
 | Technical momentum | Low | Below SMA200 (-13.74%) with negative half-year (-8.06%). |
 | Fresh setup quality | Poor / broken | -79.08% from 52w high — base needs to rebuild. |
-| Fundamental quality | Mixed | Profit margin —, revenue growth —. |
-| Value attractiveness | Low (expensive) | Forward P/E —, EV/Sales —. |
-| Risk level | High | Beta —, ATR 6.3% of price, short float —. |
+| Fundamental quality | Mixed | Profit margin 0.00%, revenue growth -99.10%. |
+| Value attractiveness | Reasonable | Forward P/E -17.15, EV/Sales 268.26. |
+| Risk level | High | Beta 2.31, ATR 6.3% of price, short float 18.40%. |
 
-**Bottom line:** Low technical momentum, mixed fundamentals, value: low (expensive), risk: high.
+**Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -30,16 +30,16 @@ Signed file: `SMR.research.08.09.2026`
 - Can earnings convert fast enough to justify the valuation?
 
 ## 2. Company Overview and Recent Catalysts
-—
+NuScale Power Corporation provides small modular reactor technology solutions. It offers NuScale Power Module (NPM), a light water nuclear reactor that can generate 77 megawatts of electricity (MWe). The company also provides design and nuclear regulatory licensing basis information to construct and operate the power plant; and licensing, design, development, construction, operation, and maintenance of the power plant.
 
 **Recent headlines (potential catalysts):**
 
 | Headline | Source | Date |
 |---|---|---|
+| Jim Cramer Weighs In on GE Vernova (GEV) and NuScale Power (SMR) | Insider Monkey | 2026-09-08 |
 | NuScale Power Stock Broke Out in August. Is It a Buy? | Motley Fool | 2026-09-08 |
 | NuScale Power Spikes 13%, Oklo Climbs 7%: Is the Nuclear Selloff Finally Exhausted? | 24/7 Wall St. | 2026-09-08 |
 | Can Hydrogen Become a Key Growth Driver for NuScale Power? | Zacks | 2026-09-08 |
-| NuScale Power (SMR) Could Be 90% Undervalued After Commercialization Progress | Simply Wall St. | 2026-09-06 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -47,7 +47,7 @@ Signed file: `SMR.research.08.09.2026`
 | Price vs 52-week range | Close $11.18; 52w high $53.43 (-79.08%); 52w low $7.59 (+47.30%) |
 | Trend | -13.74% vs SMA200, +22.49% vs SMA50, +17.60% vs SMA20 |
 | Momentum | RSI(14) 65.3 (neutral) |
-| Volatility | ATR(14) 0.71 (~6.3% of price); beta — |
+| Volatility | ATR(14) 0.71 (~6.3% of price); beta 2.31 |
 | Setup perspective | -79.08% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
@@ -64,24 +64,39 @@ Signed file: `SMR.research.08.09.2026`
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
-| Next earnings | — | Next scheduled report (Yahoo estimate) |
-| Revenue (ttm) | — | Revenue growth — y/y |
-| Profitability | Gross —, operating —, net — | ROA —, ROE — |
-| Balance sheet | Cash —, debt — | Current ratio —, debt/equity — |
-| Valuation | P/E —, forward P/E —, P/S —, P/B — | EV/Sales —, EV/EBITDA — |
-| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $— (— analysts) |
+| Next earnings | 2026-11-05 | Next scheduled report (Yahoo estimate) |
+| Revenue (ttm) | $10.69M | Revenue growth -99.10% y/y |
+| Profitability | Gross 23.54%, operating -85337.33%, net 0.00% | ROA -10.60%, ROE -55.18% |
+| Balance sheet | Cash $1.07B, debt $6.69M | Current ratio 37.88, debt/equity 0.33 |
+| Valuation | P/E —, forward P/E -17.15, P/S 429.20, P/B 3.05 | EV/Sales 268.26, EV/EBITDA -12.80 |
+| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $12.63 (15 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | — |
-| Insider ownership | — |
-| Short float | — |
-| Short ratio (days to cover) | — |
+| Institutional ownership | 59.39% |
+| Insider ownership | 1.70% |
+| Short float | 18.40% |
+| Short ratio (days to cover) | 2.2 |
+
+**Top institutional holders:**
+
+| Holder | Shares | % Out | Reported |
+|---|---|---|---|
+| Van Eck Associates Corporation | 29,311,762 | 7.14% | 2026-06-30 |
+| Blackrock Inc. | 25,857,274 | 6.30% | 2026-06-30 |
+| Vanguard Portfolio Management LLC | 15,151,963 | 3.69% | 2026-06-30 |
+| Vanguard Capital Management LLC | 14,079,030 | 3.43% | 2026-06-30 |
+| Marex Group Ltd. | 12,711,180 | 3.10% | 2026-06-30 |
+| Mirae Asset Global ETFs Holdings Ltd. | 11,769,071 | 2.87% | 2026-06-30 |
+| Two Sigma Investments, LP | 11,655,351 | 2.84% | 2026-06-30 |
+| Morgan Stanley | 9,138,597 | 2.23% | 2026-06-30 |
+| Geode Capital Management, LLC | 6,830,134 | 1.66% | 2026-06-30 |
+| State Street Corporation | 6,662,750 | 1.62% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E —, EV/Sales —. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta —, ATR 6.3% of price, short float —. Size positions accordingly.
+- **Volatility risk:** Beta 2.31, ATR 6.3% of price, short float 18.40%. Size positions accordingly.
+- **Short interest risk:** short float 18.40% can fuel squeezes both ways around news.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -97,27 +112,36 @@ Signed file: `SMR.research.08.09.2026`
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $11.18 | EV/Sales | — |
-| Market cap | — | EV/EBITDA | — |
-| Beta | — | Gross margin | — |
-| RSI(14) | 65.3 | Operating margin | — |
-| ATR(14) | 0.71 | Profit margin | — |
-| SMA20 dist | +17.60% | ROA | — |
-| SMA50 dist | +22.49% | ROE | — |
-| SMA200 dist | -13.74% | Revenue (ttm) | — |
-| 52W high | $53.43 | Revenue growth y/y | — |
-| 52W low | $7.59 | Inst. ownership | — |
-| P/E (ttm) | — | Insider ownership | — |
-| Forward P/E | — | Short float | — |
-| PEG (trailing) | — | Avg volume | 0 |
-| P/S | — | Employees | 0 |
-| P/B | — | Analyst rec (1=buy..5=sell) | — |
+| Price | $11.18 | EV/Sales | 268.26 |
+| Market cap | $4.59B | EV/EBITDA | -12.80 |
+| Beta | 2.31 | Gross margin | 23.54% |
+| RSI(14) | 65.3 | Operating margin | -85337.33% |
+| ATR(14) | 0.71 | Profit margin | 0.00% |
+| SMA20 dist | +17.60% | ROA | -10.60% |
+| SMA50 dist | +22.49% | ROE | -55.18% |
+| SMA200 dist | -13.74% | Revenue (ttm) | $10.69M |
+| 52W high | $53.43 | Revenue growth y/y | -99.10% |
+| 52W low | $7.59 | Inst. ownership | 59.39% |
+| P/E (ttm) | — | Insider ownership | 1.70% |
+| Forward P/E | -17.15 | Short float | 18.40% |
+| PEG (trailing) | — | Avg volume | 31,876,561 |
+| P/S | 429.20 | Employees | 428 |
+| P/B | 3.05 | Analyst rec (1=buy..5=sell) | 2.6 |
 
 ## 8. Analyst Actions
-_No recent analyst actions available from Yahoo._
+| Date | Action | Firm | Rating change |
+|---|---|---|---|
+| 2026-08-14 | main | B. Riley Securities | Buy → Buy |
+| 2026-08-11 | main | RBC Capital | Sector Perform → Sector Perform |
+| 2026-08-06 | main | Canaccord Genuity | Buy → Buy |
+| 2026-08-06 | main | Citigroup | Sell → Sell |
+| 2026-07-23 | main | Barclays | Equal-Weight → Equal-Weight |
+| 2026-07-14 | init | Truist Securities | — → Hold |
+| 2026-05-11 | main | Citigroup | Sell → Sell |
+| 2026-04-24 | main | B. Riley Securities | Buy → Buy |
 
 ## 9. Conclusion
-SMR: Low momentum / mixed fundamentals / low (expensive) value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+SMR: Low momentum / mixed fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

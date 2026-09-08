@@ -1,14 +1,14 @@
 # LNG Research Report
-**Cheniere Energy** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**Cheniere Energy, Inc.** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `LNG.research.08.09.2026`
 
 | Field | Value |
 |---|---|
 | Current price | $276.02 (2026-09-08, ~15-min delayed) |
-| Market cap | — |
-| Sector / Industry | — / — |
-| Main theme | Semiconductors — see catalysts below |
-| Current stance | Moderate technical momentum, mixed fundamentals, value: low (expensive), risk: elevated. |
+| Market cap | $57.01B |
+| Sector / Industry | Energy / Oil & Gas Midstream |
+| Main theme | Oil & Gas Midstream — see catalysts below |
+| Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-09-08.
 
@@ -17,11 +17,11 @@ Signed file: `LNG.research.08.09.2026`
 |---|---|---|
 | Technical momentum | Moderate | 1Y +18.22%; price +15.13% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -6.71% from 52w high; no clean fresh pivot by default. |
-| Fundamental quality | Mixed | Profit margin —, revenue growth —. |
-| Value attractiveness | Low (expensive) | Forward P/E —, EV/Sales —. |
-| Risk level | Elevated | Beta —, ATR 3.0% of price, short float —. |
+| Fundamental quality | Mixed | Profit margin 13.94%, revenue growth 22.70%. |
+| Value attractiveness | Reasonable | Forward P/E 13.29, EV/Sales 4.42. |
+| Risk level | Elevated | Beta -0.00, ATR 3.0% of price, short float 2.15%. |
 
-**Bottom line:** Moderate technical momentum, mixed fundamentals, value: low (expensive), risk: elevated.
+**Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -30,7 +30,7 @@ Signed file: `LNG.research.08.09.2026`
 - Can earnings convert fast enough to justify the valuation?
 
 ## 2. Company Overview and Recent Catalysts
-—
+Cheniere Energy, Inc., an energy infrastructure company, primarily engages in the liquefied natural gas (LNG) related businesses in the United States. The company owns and operates the Sabine Pass LNG terminal in Cameron Parish, Louisiana; and the Corpus Christi LNG terminal near Corpus Christi, Texas.
 
 **Recent headlines (potential catalysts):**
 
@@ -47,7 +47,7 @@ Signed file: `LNG.research.08.09.2026`
 | Price vs 52-week range | Close $276.02; 52w high $295.86 (-6.71%); 52w low $187.49 (+47.22%) |
 | Trend | +15.13% vs SMA200, +3.63% vs SMA50, -1.26% vs SMA20 |
 | Momentum | RSI(14) 49.4 (neutral) |
-| Volatility | ATR(14) 8.31 (~3.0% of price); beta — |
+| Volatility | ATR(14) 8.31 (~3.0% of price); beta -0.00 |
 | Setup perspective | -6.71% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
@@ -64,24 +64,38 @@ Signed file: `LNG.research.08.09.2026`
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
-| Next earnings | — | Next scheduled report (Yahoo estimate) |
-| Revenue (ttm) | — | Revenue growth — y/y |
-| Profitability | Gross —, operating —, net — | ROA —, ROE — |
-| Balance sheet | Cash —, debt — | Current ratio —, debt/equity — |
-| Valuation | P/E —, forward P/E —, P/S —, P/B — | EV/Sales —, EV/EBITDA — |
-| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $— (— analysts) |
+| Next earnings | 2026-10-29 | Next scheduled report (Yahoo estimate) |
+| Revenue (ttm) | $20.92B | Revenue growth 22.70% y/y |
+| Profitability | Gross 36.85%, operating 75.00%, net 13.94% | ROA 8.63%, ROE 39.12% |
+| Balance sheet | Cash $1.12B, debt $27.97B | Current ratio 0.87, debt/equity 243.42 |
+| Valuation | P/E 20.91, forward P/E 13.29, P/S 2.73, P/B 9.27 | EV/Sales 4.42, EV/EBITDA 11.81 |
+| Growth expectations | Earnings growth 100.70%, EPS q/q 88.70% | Analyst mean target $308.90 (21 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | — |
-| Insider ownership | — |
-| Short float | — |
-| Short ratio (days to cover) | — |
+| Institutional ownership | 91.73% |
+| Insider ownership | 0.66% |
+| Short float | 2.15% |
+| Short ratio (days to cover) | 2.6 |
+
+**Top institutional holders:**
+
+| Holder | Shares | % Out | Reported |
+|---|---|---|---|
+| Blackrock Inc. | 17,712,080 | 8.58% | 2026-06-30 |
+| Vanguard Portfolio Management LLC | 9,603,722 | 4.65% | 2026-06-30 |
+| Vanguard Capital Management LLC | 9,476,116 | 4.59% | 2026-06-30 |
+| State Street Corporation | 5,938,476 | 2.88% | 2026-06-30 |
+| FMR, LLC | 4,938,766 | 2.39% | 2026-06-30 |
+| Morgan Stanley | 4,573,650 | 2.21% | 2026-06-30 |
+| Geode Capital Management, LLC | 3,717,072 | 1.80% | 2026-06-30 |
+| NORGES BANK | 3,581,124 | 1.73% | 2026-06-30 |
+| Canada Pension Plan Investment Board | 3,112,696 | 1.51% | 2026-06-30 |
+| JPMORGAN CHASE & CO | 3,109,949 | 1.51% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E —, EV/Sales —. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta —, ATR 3.0% of price, short float —. Size positions accordingly.
+- **Volatility risk:** Beta -0.00, ATR 3.0% of price, short float 2.15%. Size positions accordingly.
 - **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -97,27 +111,36 @@ Signed file: `LNG.research.08.09.2026`
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $276.02 | EV/Sales | — |
-| Market cap | — | EV/EBITDA | — |
-| Beta | — | Gross margin | — |
-| RSI(14) | 49.4 | Operating margin | — |
-| ATR(14) | 8.31 | Profit margin | — |
-| SMA20 dist | -1.26% | ROA | — |
-| SMA50 dist | +3.63% | ROE | — |
-| SMA200 dist | +15.13% | Revenue (ttm) | — |
-| 52W high | $295.86 | Revenue growth y/y | — |
-| 52W low | $187.49 | Inst. ownership | — |
-| P/E (ttm) | — | Insider ownership | — |
-| Forward P/E | — | Short float | — |
-| PEG (trailing) | — | Avg volume | 0 |
-| P/S | — | Employees | 0 |
-| P/B | — | Analyst rec (1=buy..5=sell) | — |
+| Price | $276.02 | EV/Sales | 4.42 |
+| Market cap | $57.01B | EV/EBITDA | 11.81 |
+| Beta | -0.00 | Gross margin | 36.85% |
+| RSI(14) | 49.4 | Operating margin | 75.00% |
+| ATR(14) | 8.31 | Profit margin | 13.94% |
+| SMA20 dist | -1.26% | ROA | 8.63% |
+| SMA50 dist | +3.63% | ROE | 39.12% |
+| SMA200 dist | +15.13% | Revenue (ttm) | $20.92B |
+| 52W high | $295.86 | Revenue growth y/y | 22.70% |
+| 52W low | $187.49 | Inst. ownership | 91.73% |
+| P/E (ttm) | 20.91 | Insider ownership | 0.66% |
+| Forward P/E | 13.29 | Short float | 2.15% |
+| PEG (trailing) | — | Avg volume | 1,936,712 |
+| P/S | 2.73 | Employees | 1,717 |
+| P/B | 9.27 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions
-_No recent analyst actions available from Yahoo._
+| Date | Action | Firm | Rating change |
+|---|---|---|---|
+| 2026-08-24 | main | RBC Capital | Outperform → Outperform |
+| 2026-08-11 | main | TD Cowen | Buy → Buy |
+| 2026-08-07 | main | Barclays | Overweight → Overweight |
+| 2026-07-24 | main | JP Morgan | Overweight → Overweight |
+| 2026-07-16 | main | TD Cowen | Buy → Buy |
+| 2026-07-15 | main | Barclays | Overweight → Overweight |
+| 2026-06-17 | init | Bernstein | — → Market Outperform |
+| 2026-06-03 | main | JP Morgan | Overweight → Overweight |
 
 ## 9. Conclusion
-LNG: Moderate momentum / mixed fundamentals / low (expensive) value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+LNG: Moderate momentum / mixed fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

@@ -1,14 +1,14 @@
 # OKE Research Report
-**ONEOK** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**ONEOK, Inc.** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `OKE.research.08.09.2026`
 
 | Field | Value |
 |---|---|
 | Current price | $97.51 (2026-09-08, ~15-min delayed) |
-| Market cap | — |
-| Sector / Industry | — / — |
-| Main theme | Semiconductors — see catalysts below |
-| Current stance | Moderate technical momentum, mixed fundamentals, value: low (expensive), risk: moderate. |
+| Market cap | $61.47B |
+| Sector / Industry | Energy / Oil & Gas Midstream |
+| Main theme | Oil & Gas Midstream — see catalysts below |
+| Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-09-08.
 
@@ -17,11 +17,11 @@ Signed file: `OKE.research.08.09.2026`
 |---|---|---|
 | Technical momentum | Moderate | 1Y +41.54%; price +16.86% vs SMA200. |
 | Fresh setup quality | Watch | +0.00% from 52w high and near SMA20 — check for a tight base. |
-| Fundamental quality | Mixed | Profit margin —, revenue growth —. |
-| Value attractiveness | Low (expensive) | Forward P/E —, EV/Sales —. |
-| Risk level | Moderate | Beta —, ATR 2.5% of price, short float —. |
+| Fundamental quality | Mixed | Profit margin 9.29%, revenue growth 52.80%. |
+| Value attractiveness | Reasonable | Forward P/E 15.68, EV/Sales 2.37. |
+| Risk level | Moderate | Beta 0.72, ATR 2.5% of price, short float 4.48%. |
 
-**Bottom line:** Moderate technical momentum, mixed fundamentals, value: low (expensive), risk: moderate.
+**Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -30,7 +30,7 @@ Signed file: `OKE.research.08.09.2026`
 - Can earnings convert fast enough to justify the valuation?
 
 ## 2. Company Overview and Recent Catalysts
-—
+ONEOK, Inc. operates as a midstream service provider of gathering, processing, fractionation, transportation, storage, and marine export services in the United States. It operates in four segments: Natural Gas Gathering and Processing; Natural Gas Liquids; Natural Gas Pipelines; and Refined Products and Crude. The company owns natural gas gathering pipelines and processing plants in the Mid-Continent, Permian Basin, North Texas, Gulf Coast region, and Rocky Mountain regions; and provides midstream services to producers of NGLs.
 
 **Recent headlines (potential catalysts):**
 
@@ -47,7 +47,7 @@ Signed file: `OKE.research.08.09.2026`
 | Price vs 52-week range | Close $97.51; 52w high $97.51 (+0.00%); 52w low $61.95 (+57.40%) |
 | Trend | +16.86% vs SMA200, +6.76% vs SMA50, +3.00% vs SMA20 |
 | Momentum | RSI(14) 64.3 (neutral) |
-| Volatility | ATR(14) 2.42 (~2.5% of price); beta — |
+| Volatility | ATR(14) 2.42 (~2.5% of price); beta 0.72 |
 | Setup perspective | +0.00% from 52w high and near SMA20 — check for a tight base. |
 
 **Performance snapshot:**
@@ -64,23 +64,37 @@ Signed file: `OKE.research.08.09.2026`
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
-| Next earnings | — | Next scheduled report (Yahoo estimate) |
-| Revenue (ttm) | — | Revenue growth — y/y |
-| Profitability | Gross —, operating —, net — | ROA —, ROE — |
-| Balance sheet | Cash —, debt — | Current ratio —, debt/equity — |
-| Valuation | P/E —, forward P/E —, P/S —, P/B — | EV/Sales —, EV/EBITDA — |
-| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $— (— analysts) |
+| Next earnings | 2026-10-27 | Next scheduled report (Yahoo estimate) |
+| Revenue (ttm) | $39.37B | Revenue growth 52.80% y/y |
+| Profitability | Gross 27.21%, operating 13.25%, net 9.29% | ROA 5.77%, ROE 16.28% |
+| Balance sheet | Cash $161.00M, debt $33.02B | Current ratio 0.74, debt/equity 143.07 |
+| Valuation | P/E 16.84, forward P/E 15.68, P/S 1.56, P/B 2.68 | EV/Sales 2.37, EV/EBITDA 12.15 |
+| Growth expectations | Earnings growth 14.20%, EPS q/q 14.90% | Analyst mean target $99.94 (18 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | — |
-| Insider ownership | — |
-| Short float | — |
-| Short ratio (days to cover) | — |
+| Institutional ownership | 84.93% |
+| Insider ownership | 0.15% |
+| Short float | 4.48% |
+| Short ratio (days to cover) | 6.7 |
+
+**Top institutional holders:**
+
+| Holder | Shares | % Out | Reported |
+|---|---|---|---|
+| Blackrock Inc. | 64,537,467 | 10.24% | 2026-06-30 |
+| State Street Corporation | 43,633,749 | 6.92% | 2026-06-30 |
+| Vanguard Capital Management LLC | 41,112,675 | 6.52% | 2026-06-30 |
+| Vanguard Portfolio Management LLC | 30,904,162 | 4.90% | 2026-06-30 |
+| Charles Schwab Investment Management, Inc. | 20,373,418 | 3.23% | 2026-06-30 |
+| Geode Capital Management, LLC | 17,439,867 | 2.77% | 2026-06-30 |
+| Capital International Investors | 17,204,063 | 2.73% | 2026-06-30 |
+| Morgan Stanley | 11,886,409 | 1.89% | 2026-06-30 |
+| First Eagle Investment Management, LLC | 11,834,827 | 1.88% | 2026-06-30 |
+| UBS Group AG | 11,588,291 | 1.84% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E —, EV/Sales —. Multiple compression is the main downside if growth disappoints.
 - **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -96,27 +110,36 @@ Signed file: `OKE.research.08.09.2026`
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $97.51 | EV/Sales | — |
-| Market cap | — | EV/EBITDA | — |
-| Beta | — | Gross margin | — |
-| RSI(14) | 64.3 | Operating margin | — |
-| ATR(14) | 2.42 | Profit margin | — |
-| SMA20 dist | +3.00% | ROA | — |
-| SMA50 dist | +6.76% | ROE | — |
-| SMA200 dist | +16.86% | Revenue (ttm) | — |
-| 52W high | $97.51 | Revenue growth y/y | — |
-| 52W low | $61.95 | Inst. ownership | — |
-| P/E (ttm) | — | Insider ownership | — |
-| Forward P/E | — | Short float | — |
-| PEG (trailing) | 1.78 | Avg volume | 0 |
-| P/S | — | Employees | 0 |
-| P/B | — | Analyst rec (1=buy..5=sell) | — |
+| Price | $97.51 | EV/Sales | 2.37 |
+| Market cap | $61.47B | EV/EBITDA | 12.15 |
+| Beta | 0.72 | Gross margin | 27.21% |
+| RSI(14) | 64.3 | Operating margin | 13.25% |
+| ATR(14) | 2.42 | Profit margin | 9.29% |
+| SMA20 dist | +3.00% | ROA | 5.77% |
+| SMA50 dist | +6.76% | ROE | 16.28% |
+| SMA200 dist | +16.86% | Revenue (ttm) | $39.37B |
+| 52W high | $97.51 | Revenue growth y/y | 52.80% |
+| 52W low | $61.95 | Inst. ownership | 84.93% |
+| P/E (ttm) | 16.84 | Insider ownership | 0.15% |
+| Forward P/E | 15.68 | Short float | 4.48% |
+| PEG (trailing) | 1.78 | Avg volume | 3,702,061 |
+| P/S | 1.56 | Employees | 6,326 |
+| P/B | 2.68 | Analyst rec (1=buy..5=sell) | 2.3 |
 
 ## 8. Analyst Actions
-_No recent analyst actions available from Yahoo._
+| Date | Action | Firm | Rating change |
+|---|---|---|---|
+| 2026-09-03 | main | Citigroup | Buy → Buy |
+| 2026-09-02 | main | Jefferies | Hold → Hold |
+| 2026-09-02 | main | Truist Securities | Hold → Hold |
+| 2026-09-02 | main | Wells Fargo | Overweight → Overweight |
+| 2026-09-01 | main | Scotiabank | Sector Perform → Sector Perform |
+| 2026-09-01 | main | JP Morgan | Neutral → Neutral |
+| 2026-08-18 | main | Morgan Stanley | Equal-Weight → Equal-Weight |
+| 2026-07-29 | down | Morgan Stanley | Overweight → Equal-Weight |
 
 ## 9. Conclusion
-OKE: Moderate momentum / mixed fundamentals / low (expensive) value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+OKE: Moderate momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |
