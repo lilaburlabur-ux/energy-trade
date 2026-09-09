@@ -5,7 +5,7 @@ Signed file: `ENPH.research.09.09.2026`
 | Field | Value |
 |---|---|
 | Current price | $36.72 (2026-09-09, ~15-min delayed) |
-| Market cap | $4.85B |
+| Market cap | $4.84B |
 | Sector / Industry | Technology / Solar |
 | Main theme | Solar — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: high. |
@@ -68,7 +68,7 @@ Enphase Energy, Inc., together with its subsidiaries, designs, develops, manufac
 | Revenue (ttm) | $1.33B | Revenue growth -19.60% y/y |
 | Profitability | Gross 30.04%, operating 17.98%, net 10.09% | ROA 2.38%, ROE 13.00% |
 | Balance sheet | Cash $937.71M, debt $613.36M | Current ratio 3.45, debt/equity 51.90 |
-| Valuation | P/E 36.36, forward P/E 16.15, P/S 3.65, P/B 4.11 | EV/Sales 3.62, EV/EBITDA 25.06 |
+| Valuation | P/E 36.36, forward P/E 16.15, P/S 3.64, P/B 4.11 | EV/Sales 3.62, EV/EBITDA 25.06 |
 | Growth expectations | Earnings growth -3.50%, EPS q/q -2.60% | Analyst mean target $53.23 (27 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -113,7 +113,7 @@ Enphase Energy, Inc., together with its subsidiaries, designs, develops, manufac
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $36.72 | EV/Sales | 3.62 |
-| Market cap | $4.85B | EV/EBITDA | 25.06 |
+| Market cap | $4.84B | EV/EBITDA | 25.06 |
 | Beta | 1.64 | Gross margin | 30.04% |
 | RSI(14) | 44.5 | Operating margin | 17.98% |
 | ATR(14) | 2.07 | Profit margin | 10.09% |
@@ -125,7 +125,7 @@ Enphase Energy, Inc., together with its subsidiaries, designs, develops, manufac
 | P/E (ttm) | 36.36 | Insider ownership | 3.03% |
 | Forward P/E | 16.15 | Short float | 19.63% |
 | PEG (trailing) | 0.84 | Avg volume | 5,128,956 |
-| P/S | 3.65 | Employees | 2,872 |
+| P/S | 3.64 | Employees | 2,872 |
 | P/B | 4.11 | Analyst rec (1=buy..5=sell) | 2.4 |
 
 ## 8. Analyst Actions

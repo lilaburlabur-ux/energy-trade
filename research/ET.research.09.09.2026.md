@@ -127,7 +127,16 @@ Energy Transfer LP, together with its subsidiaries, provides energy-related serv
 | P/B | 2.33 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions
-_No recent analyst actions available from Yahoo._
+| Date | Action | Firm | Rating change |
+|---|---|---|---|
+| 2026-09-04 | main | JP Morgan | Overweight → Overweight |
+| 2026-08-18 | main | Morgan Stanley | Equal-Weight → Equal-Weight |
+| 2026-08-12 | main | Truist Securities | Buy → Buy |
+| 2026-08-10 | main | TD Cowen | Buy → Buy |
+| 2026-08-07 | main | Citigroup | Buy → Buy |
+| 2026-08-05 | main | Barclays | Overweight → Overweight |
+| 2026-07-21 | main | RBC Capital | Outperform → Outperform |
+| 2026-07-16 | main | TD Cowen | Buy → Buy |
 
 ## 9. Conclusion
 ET: Moderate momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

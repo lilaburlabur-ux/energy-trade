@@ -5,7 +5,7 @@ Signed file: `HAL.research.09.09.2026`
 | Field | Value |
 |---|---|
 | Current price | $37.13 (2026-09-09, ~15-min delayed) |
-| Market cap | $30.93B |
+| Market cap | $31.02B |
 | Sector / Industry | Energy / Oil & Gas Equipment & Services |
 | Main theme | Oil & Gas Equipment & Services — see catalysts below |
 | Current stance | High technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -68,7 +68,7 @@ Halliburton Company provides products and services to the energy industry worldw
 | Revenue (ttm) | $22.37B | Revenue growth 3.70% y/y |
 | Profitability | Gross 15.08%, operating 12.79%, net 7.16% | ROA 7.26%, ROE 14.92% |
 | Balance sheet | Cash $2.05B, debt $8.20B | Current ratio 2.02, debt/equity 74.19 |
-| Valuation | P/E 19.44, forward P/E 12.79, P/S 1.38, P/B 2.81 | EV/Sales 1.65, EV/EBITDA 8.90 |
+| Valuation | P/E 19.44, forward P/E 12.79, P/S 1.39, P/B 2.81 | EV/Sales 1.65, EV/EBITDA 8.90 |
 | Growth expectations | Earnings growth 16.10%, EPS q/q 13.10% | Analyst mean target $43.12 (25 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -78,6 +78,21 @@ Halliburton Company provides products and services to the energy industry worldw
 | Insider ownership | 0.40% |
 | Short float | 5.04% |
 | Short ratio (days to cover) | 2.6 |
+
+**Top institutional holders:**
+
+| Holder | Shares | % Out | Reported |
+|---|---|---|---|
+| Blackrock Inc. | 82,837,333 | 9.94% | 2026-06-30 |
+| State Street Corporation | 56,870,444 | 6.83% | 2026-06-30 |
+| Vanguard Capital Management LLC | 51,872,053 | 6.23% | 2026-06-30 |
+| Vanguard Portfolio Management LLC | 40,080,854 | 4.81% | 2026-06-30 |
+| Geode Capital Management, LLC | 22,485,453 | 2.70% | 2026-06-30 |
+| Morgan Stanley | 16,656,929 | 2.00% | 2026-06-30 |
+| AQR Capital Management, LLC | 11,869,743 | 1.42% | 2026-06-30 |
+| Qube Research & Technologies Ltd | 11,127,397 | 1.34% | 2026-06-30 |
+| Goldman Sachs Group Inc | 10,620,902 | 1.27% | 2026-06-30 |
+| Citigroup Inc. | 10,498,175 | 1.26% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
 - **Short interest risk:** short float 5.04% can fuel squeezes both ways around news.
@@ -96,7 +111,7 @@ Halliburton Company provides products and services to the energy industry worldw
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $37.13 | EV/Sales | 1.65 |
-| Market cap | $30.93B | EV/EBITDA | 8.90 |
+| Market cap | $31.02B | EV/EBITDA | 8.90 |
 | Beta | 0.77 | Gross margin | 15.08% |
 | RSI(14) | 63.0 | Operating margin | 12.79% |
 | ATR(14) | 1.04 | Profit margin | 7.16% |
@@ -108,11 +123,20 @@ Halliburton Company provides products and services to the energy industry worldw
 | P/E (ttm) | 19.44 | Insider ownership | 0.40% |
 | Forward P/E | 12.79 | Short float | 5.04% |
 | PEG (trailing) | 0.76 | Avg volume | 11,894,172 |
-| P/S | 1.38 | Employees | 46,000 |
+| P/S | 1.39 | Employees | 46,000 |
 | P/B | 2.81 | Analyst rec (1=buy..5=sell) | 1.8 |
 
 ## 8. Analyst Actions
-_No recent analyst actions available from Yahoo._
+| Date | Action | Firm | Rating change |
+|---|---|---|---|
+| 2026-07-27 | main | UBS | Neutral → Neutral |
+| 2026-07-23 | main | Argus Research | Buy → Buy |
+| 2026-07-22 | main | Morgan Stanley | Overweight → Overweight |
+| 2026-07-22 | main | TD Cowen | Buy → Buy |
+| 2026-07-22 | up | Freedom Broker | Sell → Hold |
+| 2026-07-22 | main | Evercore ISI Group | Outperform → Outperform |
+| 2026-07-22 | main | Barclays | Overweight → Overweight |
+| 2026-07-14 | up | Piper Sandler | Neutral → Overweight |
 
 ## 9. Conclusion
 HAL: High momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
