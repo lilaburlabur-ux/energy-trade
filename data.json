@@ -1,11 +1,8 @@
 {
-  "as_of_utc": "2026-09-09T22:19:31+00:00",
-  "as_of_local": "2026-09-09 22:19:31 UTC",
+  "as_of_utc": "2026-09-09T22:24:36+00:00",
+  "as_of_local": "2026-09-09 22:24:36 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "FANG",
-    "ENPH"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -932,6 +929,34 @@
       ]
     },
     {
+      "symbol": "FANG",
+      "name": "Diamondback Energy",
+      "price": 202.63,
+      "previous_close": 199.65,
+      "change_pct": 1.49,
+      "market_cap": 56740411820.24414,
+      "headlines": [
+        {
+          "title": "Diamondback Energy (FANG) Rises As Market Takes a Dip: Key Facts",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/diamondback-energy-fang-rises-market-221502534.html",
+          "publisher": "Zacks",
+          "published": "2026-09-09T22:15:02Z"
+        },
+        {
+          "title": "WTI Crude Not Too Far From $100: Are Permian Stocks a Smart Watch Now?",
+          "url": "https://finance.yahoo.com/energy/articles/wti-crude-not-too-far-152900906.html",
+          "publisher": "Zacks",
+          "published": "2026-09-09T15:29:00Z"
+        },
+        {
+          "title": "2 Value Stocks with Impressive Fundamentals and 1 Facing Challenges",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/2-value-stocks-impressive-fundamentals-231918296.html",
+          "publisher": "StockStory",
+          "published": "2026-09-08T23:19:18Z"
+        }
+      ]
+    },
+    {
       "symbol": "DVN",
       "name": "Devon Energy",
       "price": 48.98,
@@ -1164,6 +1189,12 @@
       "market_cap": 24251984001.070335,
       "headlines": [
         {
+          "title": "Why Clearway Energy (CWEN) Dipped More Than Broader Market Today",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-clearway-energy-cwen-dipped-221503582.html",
+          "publisher": "Zacks",
+          "published": "2026-09-09T22:15:03Z"
+        },
+        {
           "title": "Vistra Has Edged Lower Throughout 2026: One Bank Says It\u2019s On The Verge of Doubling",
           "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-edged-lower-throughout-2026-112610310.html",
           "publisher": "24/7 Wall St.",
@@ -1174,12 +1205,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/2-ai-power-stocks-jumped-150120214.html",
           "publisher": "Insider Monkey",
           "published": "2026-09-07T15:01:20Z"
-        },
-        {
-          "title": "Why Is NRG (NRG) Down 8% Since Last Earnings Report?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-nrg-nrg-down-8-153020278.html",
-          "publisher": "Zacks",
-          "published": "2026-09-03T15:30:20Z"
         }
       ]
     },
@@ -1632,6 +1657,34 @@
       ]
     },
     {
+      "symbol": "ENPH",
+      "name": "Enphase Energy",
+      "price": 36.72,
+      "previous_close": 38.83,
+      "change_pct": -5.43,
+      "market_cap": 4852351635.869385,
+      "headlines": [
+        {
+          "title": "Enphase Energy (ENPH) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/enphase-energy-enph-sees-more-215004772.html",
+          "publisher": "Zacks",
+          "published": "2026-09-09T21:50:04Z"
+        },
+        {
+          "title": "Enphase Energy Rises 5% as Solid-State Transformer Modules Enter Texas Production, SolarEdge Jumps 6%",
+          "url": "https://finance.yahoo.com/energy/articles/enphase-energy-rises-5-solid-164923843.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-09-08T16:49:23Z"
+        },
+        {
+          "title": "Enphase Energy, Inc. (ENPH) Is a Trending Stock: Facts to Know Before Betting on It",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/enphase-energy-inc-enph-trending-130004754.html",
+          "publisher": "Zacks",
+          "published": "2026-09-08T13:00:04Z"
+        }
+      ]
+    },
+    {
       "symbol": "SMR",
       "name": "NuScale Power",
       "price": 10.81,
@@ -2062,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 97.35,
-      "change_pct": 4.64
+      "price": 97.22,
+      "change_pct": 4.5
     },
     {
       "label": "Brent",
-      "price": 102.34,
-      "change_pct": 4.51
+      "price": 102.09,
+      "change_pct": 4.26
     },
     {
       "label": "NatGas",
-      "price": 2.81,
-      "change_pct": -3.81
+      "price": 2.8,
+      "change_pct": -3.84
     }
   ]
 }
