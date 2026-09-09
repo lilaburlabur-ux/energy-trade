@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-09-09T13:02:43+00:00",
-  "as_of_local": "2026-09-09 13:02:43 UTC",
+  "as_of_utc": "2026-09-09T13:07:48+00:00",
+  "as_of_local": "2026-09-09 13:07:48 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "DUK"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -43,6 +41,12 @@
       "market_cap": 411544372871.5381,
       "headlines": [
         {
+          "title": "Stock Market Today: Dow Falls Amid Rising Oil Prices; Apple Shares Drop Ahead Of iPhone Event (Live Coverage)",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-apple-stock-aapl-iphone-event/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-09-09T12:54:56Z"
+        },
+        {
           "title": "Trump oil and gas holdings gained up to $4.4M during Iran war",
           "url": "https://finance.yahoo.com/energy/articles/trump-oil-gas-holdings-gained-115846187.html",
           "publisher": "Quartz",
@@ -53,12 +57,6 @@
           "url": "https://finance.yahoo.com/energy/articles/chevron-wants-600-000-barrels-112000432.html",
           "publisher": "Motley Fool",
           "published": "2026-09-09T11:20:00Z"
-        },
-        {
-          "title": "Here's How Many Shares of Chevron You'd Need for $5,000 in Annual Passive Income",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/heres-many-shares-chevron-youd-232500144.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-08T23:25:00Z"
         }
       ]
     },
@@ -479,6 +477,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/argan-worth-buying-growth-surges-153400727.html",
           "publisher": "Zacks",
           "published": "2026-09-08T15:34:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "DUK",
+      "name": "Duke Energy",
+      "price": 121.24,
+      "previous_close": 120.22,
+      "change_pct": 0.85,
+      "market_cap": 94531092213.69641,
+      "headlines": [
+        {
+          "title": "Passive Income Investors Are Buying 5 Well-Known High-Yield Stocks Near 52-Week Lows",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/passive-income-investors-buying-5-121247879.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-09-09T12:12:47Z"
+        },
+        {
+          "title": "New Study Reveals Strongest State Economies, Only 1 State Was Better Than Texas",
+          "url": "https://finance.yahoo.com/economy/articles/study-reveals-strongest-state-economies-181834728.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-09-08T03:00:18Z"
+        },
+        {
+          "title": "BWX Technologies Already Builds Reactors for the Navy. Why Is It Still the Cheapest Nuclear Stock?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bwx-technologies-already-builds-reactors-132500675.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-06T13:25:00Z"
         }
       ]
     },
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 95.75,
-      "change_pct": 2.92
+      "price": 95.76,
+      "change_pct": 2.93
     },
     {
       "label": "Brent",
-      "price": 100.65,
-      "change_pct": 2.79
+      "price": 100.67,
+      "change_pct": 2.81
     },
     {
       "label": "NatGas",
       "price": 2.85,
-      "change_pct": -2.33
+      "change_pct": -2.26
     }
   ]
 }
