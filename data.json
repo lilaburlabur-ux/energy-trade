@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-09T20:52:57+00:00",
-  "as_of_local": "2026-09-09 20:52:57 UTC",
+  "as_of_utc": "2026-09-09T20:58:03+00:00",
+  "as_of_local": "2026-09-09 20:58:03 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -237,6 +237,12 @@
       "market_cap": 117641636501.7721,
       "headlines": [
         {
+          "title": "Top Analyst Reports for Eli Lilly, Palo Alto Networks & Texas Instruments",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/top-analyst-reports-eli-lilly-204300330.html",
+          "publisher": "Zacks",
+          "published": "2026-09-09T20:43:00Z"
+        },
+        {
           "title": "Sector Update: Energy Stocks Gain Late Afternoon",
           "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-gain-afternoon-195617705.html",
           "publisher": "MT Newswires",
@@ -247,12 +253,6 @@
           "url": "https://finance.yahoo.com/energy/articles/exxonmobil-40-2026-rising-oil-190811096.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-09-09T19:08:11Z"
-        },
-        {
-          "title": "Sector Update: Energy Stocks Gain Wednesday Afternoon",
-          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-gain-wednesday-174508614.html",
-          "publisher": "MT Newswires",
-          "published": "2026-09-09T17:45:08Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 96.65,
-      "change_pct": 3.89
+      "price": 96.68,
+      "change_pct": 3.92
     },
     {
       "label": "Brent",
-      "price": 101.62,
-      "change_pct": 3.78
+      "price": 101.6,
+      "change_pct": 3.76
     },
     {
       "label": "NatGas",
-      "price": 2.81,
-      "change_pct": -3.81
+      "price": 2.8,
+      "change_pct": -3.91
     }
   ]
 }
