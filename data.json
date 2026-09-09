@@ -1,11 +1,8 @@
 {
-  "as_of_utc": "2026-09-09T20:48:07+00:00",
-  "as_of_local": "2026-09-09 20:48:07 UTC",
+  "as_of_utc": "2026-09-09T20:52:57+00:00",
+  "as_of_local": "2026-09-09 20:52:57 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "BKR",
-    "UEC"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -442,16 +439,16 @@
           "published": "2026-09-09T15:46:39Z"
         },
         {
+          "title": "Is Vertiv Stock Outperforming the Nasdaq?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/vertiv-stock-outperforming-nasdaq-144302424.html",
+          "publisher": "Barchart",
+          "published": "2026-09-09T14:43:02Z"
+        },
+        {
           "title": "Is Vertiv (VRT) a Buy as Wall Street Analysts Look Optimistic?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/vertiv-vrt-buy-wall-street-133005010.html",
           "publisher": "Zacks",
           "published": "2026-09-09T13:30:05Z"
-        },
-        {
-          "title": "Eaton vs. Vertiv: Which Industrials Stock Is a Better Buy in 2026?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/eaton-vs-vertiv-industrials-stock-130501410.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-09T13:05:01Z"
         }
       ]
     },
@@ -732,6 +729,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/5-pipeline-stocks-built-money-152845169.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-09-08T15:28:45Z"
+        }
+      ]
+    },
+    {
+      "symbol": "BKR",
+      "name": "Baker Hughes",
+      "price": 63.64,
+      "previous_close": 63.92,
+      "change_pct": -0.44,
+      "market_cap": 63173777272.55983,
+      "headlines": [
+        {
+          "title": "Sector Update: Energy Stocks Gain Late Afternoon",
+          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-gain-afternoon-195617705.html",
+          "publisher": "MT Newswires",
+          "published": "2026-09-09T19:56:17Z"
+        },
+        {
+          "title": "Sector Update: Energy Stocks Gain Wednesday Afternoon",
+          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-gain-wednesday-174508614.html",
+          "publisher": "MT Newswires",
+          "published": "2026-09-09T17:45:08Z"
+        },
+        {
+          "title": "Baker Hughes (BKR) Lands Multi-Year Contract with Pakistan\u2019s OGDC",
+          "url": "https://finance.yahoo.com/energy/articles/baker-hughes-bkr-lands-multi-232500809.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-09-07T23:25:00Z"
         }
       ]
     },
@@ -1192,6 +1217,12 @@
       "market_cap": 24037234892.362885,
       "headlines": [
         {
+          "title": "Is Vertiv Stock Outperforming the Nasdaq?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/vertiv-stock-outperforming-nasdaq-144302424.html",
+          "publisher": "Barchart",
+          "published": "2026-09-09T14:43:02Z"
+        },
+        {
           "title": "Eaton Stock Looks Expensive Until You Price The Factory Ramp",
           "url": "https://finance.yahoo.com/markets/stocks/articles/eaton-stock-looks-expensive-until-222901628.html",
           "publisher": "Trefis",
@@ -1202,12 +1233,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/power-utility-demand-boost-nvent-141700911.html",
           "publisher": "Zacks",
           "published": "2026-09-03T14:17:00Z"
-        },
-        {
-          "title": "Hubbell Inc's Dividend Analysis",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/hubbell-incs-dividend-analysis-110536644.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-08-31T11:05:36Z"
         }
       ]
     },
@@ -1600,6 +1625,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/weatherford-wfrd-5-9-since-153009328.html",
           "publisher": "Zacks",
           "published": "2026-08-20T15:30:09Z"
+        }
+      ]
+    },
+    {
+      "symbol": "UEC",
+      "name": "Uranium Energy Corp",
+      "price": 11.6,
+      "previous_close": 11.89,
+      "change_pct": -2.44,
+      "market_cap": 5740519634.378826,
+      "headlines": [
+        {
+          "title": "BWX Technologies Already Builds Reactors for the Navy. Why Is It Still the Cheapest Nuclear Stock?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bwx-technologies-already-builds-reactors-132500675.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-06T13:25:00Z"
+        },
+        {
+          "title": "Uranium Energy Rose as Jefferies Started Coverage",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/uranium-energy-rose-jefferies-started-121900247.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-09-03T12:19:00Z"
+        },
+        {
+          "title": "NuScale Advances Key Safety Component Toward SMR Commercialization",
+          "url": "https://finance.yahoo.com/energy/articles/nuscale-advances-key-safety-component-163000127.html",
+          "publisher": "Zacks",
+          "published": "2026-09-02T16:30:00Z"
         }
       ]
     },
@@ -2062,13 +2115,13 @@
     },
     {
       "label": "WTI",
-      "price": 96.62,
-      "change_pct": 3.86
+      "price": 96.65,
+      "change_pct": 3.89
     },
     {
       "label": "Brent",
-      "price": 101.58,
-      "change_pct": 3.74
+      "price": 101.62,
+      "change_pct": 3.78
     },
     {
       "label": "NatGas",
