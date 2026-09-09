@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-09-09T22:39:36+00:00",
-  "as_of_local": "2026-09-09 22:39:36 UTC",
+  "as_of_utc": "2026-09-09T22:45:02+00:00",
+  "as_of_local": "2026-09-09 22:45:02 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "VST"
+    "NOV"
   ],
   "stocks": [
     {
@@ -1015,6 +1015,34 @@
       ]
     },
     {
+      "symbol": "VST",
+      "name": "Vistra",
+      "price": 151.1,
+      "previous_close": 151.72,
+      "change_pct": -0.41,
+      "market_cap": 50714480013.05466,
+      "headlines": [
+        {
+          "title": "Vistra CEO Burke Buys 6,665 Shares",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-ceo-burke-buys-6-212001832.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-09T21:20:01Z"
+        },
+        {
+          "title": "Can VST's Diversified Power Generation Fleet Drive Long-Term Growth?",
+          "url": "https://finance.yahoo.com/energy/articles/vsts-diversified-power-generation-fleet-155600067.html",
+          "publisher": "Zacks",
+          "published": "2026-09-09T15:56:00Z"
+        },
+        {
+          "title": "Vistra Has Edged Lower Throughout 2026: One Bank Says It\u2019s On The Verge of Doubling",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-edged-lower-throughout-2026-112610310.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-09-09T11:26:10Z"
+        }
+      ]
+    },
+    {
       "symbol": "CCJ",
       "name": "Cameco",
       "price": 100.41,
@@ -1515,34 +1543,6 @@
           "url": "https://finance.yahoo.com/energy/articles/forget-oklo-nuclear-stock-could-122000495.html",
           "publisher": "Motley Fool",
           "published": "2026-09-09T12:20:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "NOV",
-      "name": "NOV Inc",
-      "price": 21.52,
-      "previous_close": 21.39,
-      "change_pct": 0.61,
-      "market_cap": 7671409413.182735,
-      "headlines": [
-        {
-          "title": "3 Profitable Stocks We Approach with Caution",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-profitable-stocks-approach-caution-193518971.html",
-          "publisher": "StockStory",
-          "published": "2026-09-08T19:35:18Z"
-        },
-        {
-          "title": "Should Investors Buy FET Stock After Its Massive 207% One-Year Run?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/investors-buy-fet-stock-massive-143200373.html",
-          "publisher": "Zacks",
-          "published": "2026-09-07T14:32:00Z"
-        },
-        {
-          "title": "How NESR's 3B3 Strategy Offers a Clear Path to Long-Term Expansion",
-          "url": "https://finance.yahoo.com/energy/articles/nesrs-3b3-strategy-offers-clear-162600910.html",
-          "publisher": "Zacks",
-          "published": "2026-09-03T16:26:00Z"
         }
       ]
     },
@@ -2089,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 97.04,
-      "change_pct": 4.31
+      "price": 97.02,
+      "change_pct": 4.29
     },
     {
       "label": "Brent",
-      "price": 101.93,
-      "change_pct": 4.1
+      "price": 101.98,
+      "change_pct": 4.15
     },
     {
       "label": "NatGas",
-      "price": 2.81,
-      "change_pct": -3.81
+      "price": 2.8,
+      "change_pct": -3.84
     }
   ]
 }
