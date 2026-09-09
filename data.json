@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-09-09T22:45:02+00:00",
-  "as_of_local": "2026-09-09 22:45:02 UTC",
+  "as_of_utc": "2026-09-09T22:49:57+00:00",
+  "as_of_local": "2026-09-09 22:49:57 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "NOV"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1547,6 +1545,34 @@
       ]
     },
     {
+      "symbol": "NOV",
+      "name": "NOV Inc",
+      "price": 21.52,
+      "previous_close": 21.39,
+      "change_pct": 0.61,
+      "market_cap": 7671409413.182735,
+      "headlines": [
+        {
+          "title": "3 Profitable Stocks We Approach with Caution",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-profitable-stocks-approach-caution-193518971.html",
+          "publisher": "StockStory",
+          "published": "2026-09-08T19:35:18Z"
+        },
+        {
+          "title": "Should Investors Buy FET Stock After Its Massive 207% One-Year Run?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/investors-buy-fet-stock-massive-143200373.html",
+          "publisher": "Zacks",
+          "published": "2026-09-07T14:32:00Z"
+        },
+        {
+          "title": "How NESR's 3B3 Strategy Offers a Clear Path to Long-Term Expansion",
+          "url": "https://finance.yahoo.com/energy/articles/nesrs-3b3-strategy-offers-clear-162600910.html",
+          "publisher": "Zacks",
+          "published": "2026-09-03T16:26:00Z"
+        }
+      ]
+    },
+    {
       "symbol": "NXE",
       "name": "NexGen Energy",
       "price": 10.64,
@@ -2089,13 +2115,13 @@
     },
     {
       "label": "WTI",
-      "price": 97.02,
-      "change_pct": 4.29
+      "price": 97.06,
+      "change_pct": 4.33
     },
     {
       "label": "Brent",
-      "price": 101.98,
-      "change_pct": 4.15
+      "price": 102.05,
+      "change_pct": 4.22
     },
     {
       "label": "NatGas",
