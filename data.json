@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-09T01:23:13+00:00",
-  "as_of_local": "2026-09-09 01:23:13 UTC",
+  "as_of_utc": "2026-09-09T01:38:09+00:00",
+  "as_of_local": "2026-09-09 01:38:09 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -97,6 +97,12 @@
       "market_cap": 258692470561.11,
       "headlines": [
         {
+          "title": "SMR Stock Clocks Best Day In Over 4 Months: Retail Feels \u2018Something Is Cooking\u2019",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/smr-stock-clocks-best-day-012351366.html",
+          "publisher": "Stocktwits",
+          "published": "2026-09-09T01:23:51Z"
+        },
+        {
           "title": "The EV Brain Drain: Lucid Is Bleeding Talent While Rivian Is Evolving",
           "url": "https://finance.yahoo.com/markets/stocks/articles/ev-brain-drain-lucid-bleeding-005000580.html",
           "publisher": "Motley Fool",
@@ -107,12 +113,6 @@
           "url": "https://finance.yahoo.com/energy/articles/jim-cramer-weighs-ge-vernova-230639655.html",
           "publisher": "Insider Monkey",
           "published": "2026-09-08T23:06:39Z"
-        },
-        {
-          "title": "GE\u2019s $12 Billion Bet on the Unsexy Industry SpaceX Is Trying to Disrupt",
-          "url": "https://www.barrons.com/articles/ge-12-billion-deal-casting-sapcex-disruption-df230ef8?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-09-08T20:28:00Z"
         }
       ]
     },
@@ -137,10 +137,10 @@
           "published": "2026-09-08T17:52:56Z"
         },
         {
-          "title": "Oil Prices Are Once Again on the Brink of $100",
-          "url": "https://finance.yahoo.com/energy/articles/oil-prices-once-again-brink-151318211.html",
-          "publisher": "Oilprice.com",
-          "published": "2026-09-08T15:13:18Z"
+          "title": "TotalEnergies, Galp Complete Swap Involving Mopane, Venus Discoveries",
+          "url": "https://finance.yahoo.com/energy/articles/totalenergies-galp-complete-swap-involving-162422239.html",
+          "publisher": "Rigzone.com",
+          "published": "2026-09-08T16:24:22Z"
         }
       ]
     },
@@ -1525,6 +1525,12 @@
       "market_cap": 8056424421.5,
       "headlines": [
         {
+          "title": "SMR Stock Clocks Best Day In Over 4 Months: Retail Feels \u2018Something Is Cooking\u2019",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/smr-stock-clocks-best-day-012351366.html",
+          "publisher": "Stocktwits",
+          "published": "2026-09-09T01:23:51Z"
+        },
+        {
           "title": "Holtec Launches One of the Largest Nuclear IPOs Yet",
           "url": "https://www.barrons.com/articles/holtec-nuclear-ipo-stock-hnuc-74f49c0f?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
@@ -1535,12 +1541,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/nuscale-power-spikes-13-oklo-151349633.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-09-08T15:13:49Z"
-        },
-        {
-          "title": "OKLO Stock Rises Premarket: Here's Why This Strategist Sees A 'Bigger Opportunity'",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/oklo-stock-rises-premarket-heres-080323089.html",
-          "publisher": "Stocktwits",
-          "published": "2026-09-08T08:03:23Z"
         }
       ]
     },
@@ -1693,6 +1693,12 @@
       "market_cap": 4588154855.96,
       "headlines": [
         {
+          "title": "SMR Stock Clocks Best Day In Over 4 Months: Retail Feels \u2018Something Is Cooking\u2019",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/smr-stock-clocks-best-day-012351366.html",
+          "publisher": "Stocktwits",
+          "published": "2026-09-09T01:23:51Z"
+        },
+        {
           "title": "Jim Cramer Weighs In on GE Vernova (GEV) and NuScale Power (SMR)",
           "url": "https://finance.yahoo.com/energy/articles/jim-cramer-weighs-ge-vernova-230639655.html",
           "publisher": "Insider Monkey",
@@ -1703,12 +1709,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/nuscale-power-stock-broke-august-163958159.html",
           "publisher": "Motley Fool",
           "published": "2026-09-08T16:39:58Z"
-        },
-        {
-          "title": "NuScale Power Spikes 13%, Oklo Climbs 7%: Is the Nuclear Selloff Finally Exhausted?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nuscale-power-spikes-13-oklo-151349633.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-09-08T15:13:49Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 94.48,
-      "change_pct": 3.28
+      "price": 94.46,
+      "change_pct": 3.26
     },
     {
       "label": "Brent",
-      "price": 99.29,
-      "change_pct": 3.13
+      "price": 99.35,
+      "change_pct": 3.19
     },
     {
       "label": "NatGas",
       "price": 2.89,
-      "change_pct": -2.92
+      "change_pct": -2.69
     }
   ]
 }
