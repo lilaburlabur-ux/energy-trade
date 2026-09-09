@@ -36,10 +36,10 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 
 | Headline | Source | Date |
 |---|---|---|
+| Exxon Mobil Holdings (XOM) Rises As Market Takes a Dip: Key Facts | Zacks | 2026-09-09 |
 | ExxonMobil Is Up 40% in 2026: Can Rising Oil Prices and Strong Earnings Boost XOM Stock to $200? | 24/7 Wall St. | 2026-09-09 |
 | CVX's Operations & FCF Are Improving: Why Isn't ROIC Keeping Up? | Zacks | 2026-09-09 |
 | ExxonMobil, ANPG Notch 20th Discovery in Angola's Block 15 | Oilprice.com | 2026-09-09 |
-| WTI Crude Not Too Far From $100: Are Permian Stocks a Smart Watch Now? | Zacks | 2026-09-09 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

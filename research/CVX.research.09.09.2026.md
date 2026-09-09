@@ -36,10 +36,10 @@ Chevron Corporation, through its subsidiaries, engages in the integrated energy 
 
 | Headline | Source | Date |
 |---|---|---|
+| Chevron (CVX) Ascends While Market Falls: Some Facts to Note | Zacks | 2026-09-09 |
 | Stock Market Today: Dow Falls 400 Points; Sellers Whack This AI Software Firm | Investor's Business Daily | 2026-09-09 |
 | ExxonMobil Is Up 40% in 2026: Can Rising Oil Prices and Strong Earnings Boost XOM Stock to $200? | 24/7 Wall St. | 2026-09-09 |
 | Chevron Jumps 1.5% as $100 Oil Meets a 2.67-Gigawatt AI Hedge | GuruFocus.com | 2026-09-09 |
-| CVX's Operations & FCF Are Improving: Why Isn't ROIC Keeping Up? | Zacks | 2026-09-09 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

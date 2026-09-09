@@ -5,7 +5,7 @@ Signed file: `NEE.research.09.09.2026`
 | Field | Value |
 |---|---|
 | Current price | $82.65 (2026-09-09, ~15-min delayed) |
-| Market cap | $172.41B |
+| Market cap | $172.38B |
 | Sector / Industry | Utilities / Utilities - Regulated Electric |
 | Main theme | Utilities - Regulated Electric — see catalysts below |
 | Current stance | Low technical momentum, strong fundamentals, value: reasonable, risk: moderate. |
@@ -36,10 +36,10 @@ NextEra Energy, Inc., through its subsidiaries, generates, stores, transmits, di
 
 | Headline | Source | Date |
 |---|---|---|
+| NextEra Energy (NEE) Falls More Steeply Than Broader Market: What Investors Need to Know | Zacks | 2026-09-09 |
 | Can Clean-Energy Initiatives Support PPL's Long-Term Growth? | Zacks | 2026-09-09 |
 | Can VST's Diversified Power Generation Fleet Drive Long-Term Growth? | Zacks | 2026-09-09 |
 | NextEra Energy, Inc. (NEE) Is a Trending Stock: Facts to Know Before Betting on It | Zacks | 2026-09-09 |
-| NEE Stock Rises Overnight: NextEra Energy Secures Up To $1.9B DOE Loan To Restart Iowa Nuclear Plant | Stocktwits | 2026-09-09 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -110,7 +110,7 @@ NextEra Energy, Inc., through its subsidiaries, generates, stores, transmits, di
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $82.65 | EV/Sales | 10.22 |
-| Market cap | $172.41B | EV/EBITDA | 20.09 |
+| Market cap | $172.38B | EV/EBITDA | 20.09 |
 | Beta | 0.64 | Gross margin | 61.02% |
 | RSI(14) | 39.8 | Operating margin | 31.52% |
 | ATR(14) | 1.34 | Profit margin | 32.40% |

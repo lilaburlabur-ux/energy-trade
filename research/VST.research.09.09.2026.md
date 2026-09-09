@@ -36,10 +36,10 @@ Vistra Corp., together with its subsidiaries, operates as an integrated retail e
 
 | Headline | Source | Date |
 |---|---|---|
+| Vistra CEO Burke Buys 6,665 Shares | Motley Fool | 2026-09-09 |
 | Can VST's Diversified Power Generation Fleet Drive Long-Term Growth? | Zacks | 2026-09-09 |
 | Vistra Has Edged Lower Throughout 2026: One Bank Says It’s On The Verge of Doubling | 24/7 Wall St. | 2026-09-09 |
 | Vistra Is Down 30% From Its High. Here's What I'd Do Now. | Motley Fool | 2026-09-08 |
-| Investors Heavily Search Vistra Corp. (VST): Here is What You Need to Know | Zacks | 2026-09-08 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

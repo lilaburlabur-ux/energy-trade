@@ -36,10 +36,10 @@ Nextpower Inc. provides solar and energy technology solutions for utility-scale 
 
 | Headline | Source | Date |
 |---|---|---|
+| Nextpower (NXT) Falls More Steeply Than Broader Market: What Investors Need to Know | Zacks | 2026-09-09 |
 | Investors Heavily Search Nextpower Inc. (NXT): Here is What You Need to Know | Zacks | 2026-09-08 |
 | Nextpower (NXT) Outpaces Stock Market Gains: What You Should Know | Zacks | 2026-09-03 |
 | Frontier Energy locks in major Waroona Stage One contracts ahead of September construction | Proactive | 2026-09-01 |
-| Nextpower (NXT) Registers a Bigger Fall Than the Market: Important Facts to Note | Zacks | 2026-08-28 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -123,7 +123,7 @@ Weatherford International plc, an energy services company, provides equipment an
 | 52W low | $60.68 | Inst. ownership | 106.68% |
 | P/E (ttm) | 18.36 | Insider ownership | 2.12% |
 | Forward P/E | 13.18 | Short float | 6.33% |
-| PEG (trailing) | 1.46 | Avg volume | 1,246,240 |
+| PEG (trailing) | 1.43 | Avg volume | 1,246,240 |
 | P/S | 1.39 | Employees | 16,700 |
 | P/B | 3.74 | Analyst rec (1=buy..5=sell) | 1.7 |
 

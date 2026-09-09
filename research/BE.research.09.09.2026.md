@@ -36,10 +36,10 @@ Bloom Energy Corporation designs, manufactures, sells, and installs solid oxide 
 
 | Headline | Source | Date |
 |---|---|---|
+| Why's Everyone Talking About Bloom Energy Now? | Motley Fool | 2026-09-09 |
 | S&P Dow Jones Indices CEO on Index Restructuring | Bloomberg | 2026-09-09 |
 | Stocks to Consider Before the Fed's September Decision: JPM, EOG, BE | Zacks | 2026-09-09 |
 | Stocks making big moves yesterday: ProPetro, Bloom Energy, ABM, Accenture, and Cable One | StockStory | 2026-09-09 |
-| Prediction: Bloom Energy Has Limited Upside Despite 223% Year-to-Date Surge | 24/7 Wall St. | 2026-09-09 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

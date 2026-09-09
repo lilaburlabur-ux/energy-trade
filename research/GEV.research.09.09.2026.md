@@ -36,10 +36,10 @@ GE Vernova Inc., an energy company, engages in the provision of various products
 
 | Headline | Source | Date |
 |---|---|---|
+| GE Vernova (GEV) Suffers a Larger Drop Than the General Market: Key Insights | Zacks | 2026-09-09 |
 | Prediction: Bloom Energy Has Limited Upside Despite 223% Year-to-Date Surge | 24/7 Wall St. | 2026-09-09 |
 | FLNC Stock Trades at a Discount: Should You Buy, Sell or Hold? | Zacks | 2026-09-09 |
 | SMR Stock Clocks Best Day In Over 4 Months: Retail Feels ‘Something Is Cooking’ | Stocktwits | 2026-09-09 |
-| The EV Brain Drain: Lucid Is Bleeding Talent While Rivian Is Evolving | Motley Fool | 2026-09-09 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

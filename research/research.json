@@ -1,9 +1,9 @@
 {
  "signed": "09.09.2026",
- "generated_utc": "2026-09-09T21:24:50+00:00",
+ "generated_utc": "2026-09-09T22:36:05+00:00",
  "macro": {
   "score": "Neutral",
-  "note": "Watchlist median 1Y +34%; 53/67 names positive. Sector-level proxy."
+  "note": "Watchlist median 1Y +33%; 52/67 names positive. Sector-level proxy."
  },
  "stocks": {
   "XOM": {
@@ -90,7 +90,7 @@
    "pe_ttm": 21.85646,
    "fwd_pe": 9.471205,
    "short_float": 0.28,
-   "market_cap": 117644476416,
+   "market_cap": 117641641984,
    "target": 48.15,
    "analysts": 18,
    "scores": {
@@ -147,8 +147,8 @@
    "pe_ttm": 12.757855,
    "fwd_pe": 11.956922,
    "short_float": null,
-   "market_cap": 81495031808,
-   "target": 70.931984,
+   "market_cap": 80727826432,
+   "target": 70.94226,
    "analysts": 3,
    "scores": {
     "technical": "High",
@@ -166,7 +166,7 @@
    "pe_ttm": 11.440466,
    "fwd_pe": 10.202552,
    "short_float": 3.11,
-   "market_cap": 77111033856,
+   "market_cap": 78301716480,
    "target": 159.88889,
    "analysts": 27,
    "scores": {
@@ -185,7 +185,7 @@
    "pe_ttm": 38.59619,
    "fwd_pe": 11.196079,
    "short_float": 3.92,
-   "market_cap": 56740409344,
+   "market_cap": 57002516480,
    "target": 232.5357,
    "analysts": 28,
    "scores": {
@@ -356,7 +356,7 @@
    "pe_ttm": 19.43979,
    "fwd_pe": 12.794316,
    "short_float": 5.04,
-   "market_cap": 30934130688,
+   "market_cap": 31018319872,
    "target": 43.12,
    "analysts": 25,
    "scores": {
@@ -470,7 +470,7 @@
    "pe_ttm": 20.264517,
    "fwd_pe": 20.442564,
    "short_float": 2.37,
-   "market_cap": 69943853056,
+   "market_cap": 69881782272,
    "target": 36.05263,
    "analysts": 19,
    "scores": {
@@ -565,7 +565,7 @@
    "pe_ttm": 16.549223,
    "fwd_pe": 15.411166,
    "short_float": 4.48,
-   "market_cap": 60402020352,
+   "market_cap": 60369743872,
    "target": 100.33333,
    "analysts": 18,
    "scores": {
@@ -584,7 +584,7 @@
    "pe_ttm": 12.952688,
    "fwd_pe": 12.426551,
    "short_float": 2.04,
-   "market_cap": 61064679424,
+   "market_cap": 61117411328,
    "target": 62.66667,
    "analysts": 12,
    "scores": {
@@ -603,7 +603,7 @@
    "pe_ttm": 13.850208,
    "fwd_pe": 12.184643,
    "short_float": 2.7,
-   "market_cap": 112172646400,
+   "market_cap": 116611170304,
    "target": 340.55557,
    "analysts": 18,
    "scores": {
@@ -622,7 +622,7 @@
    "pe_ttm": 14.884703,
    "fwd_pe": 12.246164,
    "short_float": 1.43,
-   "market_cap": 104555831296,
+   "market_cap": 104056676352,
    "target": 235.57895,
    "analysts": 19,
    "scores": {
@@ -680,7 +680,7 @@
    "fwd_pe": 52.943844,
    "short_float": null,
    "market_cap": 43731869696,
-   "target": 131.19821,
+   "target": 131.21532,
    "analysts": 12,
    "scores": {
     "technical": "Low",
@@ -689,6 +689,25 @@
     "rr": 4.7
    },
    "report": "CCJ.research.09.09.2026.md"
+  },
+  "CEG": {
+   "name": "Constellation Energy Corporation",
+   "thesis": "Mixed fundamentals (11% net margin, 23% growth) at 22x forward; low momentum \u2014 broken \u2014 no zone.",
+   "close": 299.05,
+   "close_date": "2026-09-08",
+   "pe_ttm": 28.729717,
+   "fwd_pe": 22.029135,
+   "short_float": 2.97,
+   "market_cap": 104132714496,
+   "target": 348.304,
+   "analysts": 20,
+   "scores": {
+    "technical": "Low",
+    "narrative": "Strong",
+    "entry_zone": "Broken \u2014 no zone",
+    "rr": 1.9
+   },
+   "report": "CEG.research.09.09.2026.md"
   },
   "OKLO": {
    "name": "Oklo Inc.",
@@ -747,25 +766,6 @@
    },
    "report": "LEU.research.09.09.2026.md"
   },
-  "NXE": {
-   "name": "NexGen Energy Ltd.",
-   "thesis": "Mixed fundamentals (0% net margin, \u2014 growth) at -55x forward; low momentum \u2014 broken \u2014 no zone.",
-   "close": 10.69,
-   "close_date": "2026-09-08",
-   "pe_ttm": null,
-   "fwd_pe": -55.085464,
-   "short_float": null,
-   "market_cap": 7134185472,
-   "target": 19.486845,
-   "analysts": 1,
-   "scores": {
-    "technical": "Low",
-    "narrative": "Strong",
-    "entry_zone": "Broken \u2014 no zone",
-    "rr": "10+"
-   },
-   "report": "NXE.research.09.09.2026.md"
-  },
   "UEC": {
    "name": "Uranium Energy Corp.",
    "thesis": "Mixed fundamentals (0% net margin, \u2014 growth) at -129x forward; low momentum \u2014 broken \u2014 no zone.",
@@ -775,13 +775,13 @@
    "fwd_pe": -128.88889,
    "short_float": 14.55,
    "market_cap": 5740519424,
-   "target": 18.02778,
-   "analysts": 9,
+   "target": 17.375,
+   "analysts": 10,
    "scores": {
     "technical": "Low",
     "narrative": "Strong",
     "entry_zone": "Broken \u2014 no zone",
-    "rr": 6.2
+    "rr": 5.6
    },
    "report": "UEC.research.09.09.2026.md"
   },
@@ -850,7 +850,7 @@
    "pe_ttm": 36.356438,
    "fwd_pe": 16.14577,
    "short_float": 19.63,
-   "market_cap": 4852351488,
+   "market_cap": 4839630848,
    "target": 53.23333,
    "analysts": 27,
    "scores": {
@@ -869,7 +869,7 @@
    "pe_ttm": 18.573034,
    "fwd_pe": 18.832844,
    "short_float": 0.0,
-   "market_cap": 172406112256,
+   "market_cap": 172375293952,
    "target": 98.38889,
    "analysts": 18,
    "scores": {
@@ -888,7 +888,7 @@
    "pe_ttm": 5.9863944,
    "fwd_pe": 8.671575,
    "short_float": 32.34,
-   "market_cap": 2099233664,
+   "market_cap": 2119453440,
    "target": 15.97368,
    "analysts": 19,
    "scores": {
@@ -945,7 +945,7 @@
    "pe_ttm": null,
    "fwd_pe": 4.995874,
    "short_float": 24.55,
-   "market_cap": 689142208,
+   "market_cap": 689954496,
    "target": 8.92045,
    "analysts": 22,
    "scores": {
@@ -964,7 +964,7 @@
    "pe_ttm": null,
    "fwd_pe": -16.68958,
    "short_float": 0.67,
-   "market_cap": 15177878528,
+   "market_cap": 15209790464,
    "target": 35.64286,
    "analysts": 14,
    "scores": {
@@ -1002,7 +1002,7 @@
    "pe_ttm": 42.197155,
    "fwd_pe": 25.737724,
    "short_float": 1.65,
-   "market_cap": 161271447552,
+   "market_cap": 161229930496,
    "target": 478.1708,
    "analysts": 25,
    "scores": {
@@ -1097,7 +1097,7 @@
    "pe_ttm": null,
    "fwd_pe": -27.749916,
    "short_float": 31.27,
-   "market_cap": 1501002496,
+   "market_cap": 1511296128,
    "target": 6.66667,
    "analysts": 9,
    "scores": {
@@ -1116,7 +1116,7 @@
    "pe_ttm": 26.969175,
    "fwd_pe": 19.856266,
    "short_float": 5.83,
-   "market_cap": 24037234688,
+   "market_cap": 24041422848,
    "target": 565.7273,
    "analysts": 11,
    "scores": {
@@ -1249,7 +1249,7 @@
    "pe_ttm": 18.059702,
    "fwd_pe": 15.537987,
    "short_float": 2.22,
-   "market_cap": 36185292800,
+   "market_cap": 36178132992,
    "target": 85.47222,
    "analysts": 18,
    "scores": {

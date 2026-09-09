@@ -36,10 +36,10 @@ Energy Transfer LP, together with its subsidiaries, provides energy-related serv
 
 | Headline | Source | Date |
 |---|---|---|
+| Market Chatter: Energy Transfer set to Switch Primary Listing To TXSE From NYSE | MT Newswires | 2026-09-09 |
 | Texas Stock Exchange Is Close to Winning Its First Major Listing From New York | The Wall Street Journal | 2026-09-09 |
 | Energy Transfer's Payout Is Covered Twice Over. Here's Why That Matters More Than the Yield Itself. | Motley Fool | 2026-09-09 |
 | 5 Pipeline Stocks Built to Make Money at Any Oil Price | 24/7 Wall St. | 2026-09-08 |
-| Energy Transfer Just Delayed a New Mexico Pipeline. Here's Why I'm Not Worried Yet. | Motley Fool | 2026-09-07 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

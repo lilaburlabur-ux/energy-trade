@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-09T22:34:40+00:00",
-  "as_of_local": "2026-09-09 22:34:40 UTC",
+  "as_of_utc": "2026-09-09T22:36:42+00:00",
+  "as_of_local": "2026-09-09 22:36:42 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -629,6 +629,12 @@
       "market_cap": 79310323371.34955,
       "headlines": [
         {
+          "title": "Why's Everyone Talking About Bloom Energy Now?",
+          "url": "https://finance.yahoo.com/energy/articles/whys-everyone-talking-bloom-energy-222500792.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-09T22:25:00Z"
+        },
+        {
           "title": "S&P Dow Jones Indices CEO on Index Restructuring",
           "url": "https://finance.yahoo.com/video/p-dow-jones-indices-ceo-203458306.html",
           "publisher": "Bloomberg",
@@ -639,12 +645,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-consider-feds-september-decision-190000988.html",
           "publisher": "Zacks",
           "published": "2026-09-09T19:00:00Z"
-        },
-        {
-          "title": "Stocks making big moves yesterday: ProPetro, Bloom Energy, ABM, Accenture, and Cable One",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-making-big-moves-yesterday-173038410.html",
-          "publisher": "StockStory",
-          "published": "2026-09-09T17:30:38Z"
         }
       ]
     },
@@ -2096,18 +2096,18 @@
     },
     {
       "label": "WTI",
-      "price": 97.01,
-      "change_pct": 4.28
+      "price": 96.99,
+      "change_pct": 4.26
     },
     {
       "label": "Brent",
-      "price": 101.98,
-      "change_pct": 4.15
+      "price": 101.93,
+      "change_pct": 4.1
     },
     {
       "label": "NatGas",
-      "price": 2.8,
-      "change_pct": -3.88
+      "price": 2.81,
+      "change_pct": -3.81
     }
   ]
 }

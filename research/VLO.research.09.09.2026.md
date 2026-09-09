@@ -36,10 +36,10 @@ Valero Energy Corporation manufactures, markets, and sells petroleum-based and l
 
 | Headline | Source | Date |
 |---|---|---|
+| Valero Energy (VLO) Rises As Market Takes a Dip: Key Facts | Zacks | 2026-09-09 |
 | Saipem Expands Sakarya Involvement With New Commissioning Award | Zacks | 2026-09-09 |
 | How High-Return Refinery Investment Strengthens MPC's Long-Term Margins | Zacks | 2026-09-09 |
 | Best Growth Stocks to Buy for September 9th | Zacks | 2026-09-09 |
-| Trump oil and gas holdings gained up to $4.4M during Iran war | Quartz | 2026-09-09 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

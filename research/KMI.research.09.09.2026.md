@@ -5,7 +5,7 @@ Signed file: `KMI.research.09.09.2026`
 | Field | Value |
 |---|---|
 | Current price | $31.41 (2026-09-09, ~15-min delayed) |
-| Market cap | $69.94B |
+| Market cap | $69.88B |
 | Sector / Industry | Energy / Oil & Gas Midstream |
 | Main theme | Oil & Gas Midstream — see catalysts below |
 | Current stance | Moderate technical momentum, strong fundamentals, value: fair-to-demanding, risk: moderate. |
@@ -36,10 +36,10 @@ Kinder Morgan, Inc. operates as an energy infrastructure company primarily in No
 
 | Headline | Source | Date |
 |---|---|---|
+| Kinder Morgan (KMI) Declines More Than Market: Some Information for Investors | Zacks | 2026-09-09 |
 | Trump oil and gas holdings gained up to $4.4M during Iran war | Quartz | 2026-09-09 |
 | How Is Kinder Morgan’s Stock Performance Compared to Other Energy Infrastructure Stocks? | Barchart | 2026-09-09 |
 | 5 Pipeline Stocks Built to Make Money at Any Oil Price | 24/7 Wall St. | 2026-09-08 |
-| Kinder Morgan, Inc. (KMI) is Attracting Investor Attention: Here is What You Should Know | Zacks | 2026-09-07 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -112,7 +112,7 @@ Kinder Morgan, Inc. operates as an energy infrastructure company primarily in No
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $31.41 | EV/Sales | 5.83 |
-| Market cap | $69.94B | EV/EBITDA | 13.73 |
+| Market cap | $69.88B | EV/EBITDA | 13.73 |
 | Beta | 0.55 | Gross margin | 49.41% |
 | RSI(14) | 46.9 | Operating margin | 30.06% |
 | ATR(14) | 0.78 | Profit margin | 19.30% |

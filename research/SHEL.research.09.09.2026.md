@@ -37,9 +37,9 @@ Shell plc operates as an energy and petrochemical company in Europe, Asia, Ocean
 | Headline | Source | Date |
 |---|---|---|
 | Why oil prices are climbing again & what it means for everyday Americans | Yahoo Finance Video | 2026-09-09 |
+| SCHD Has an International Twin. It Returned 28% in a Year, Yields 3.7%, and Charges 0.08% | 24/7 Wall St. | 2026-09-09 |
+| Could Shell (SHEL)’s Superior Cash Flow Make It a Better Bet Than BP (BP)? | Insider Monkey | 2026-09-09 |
 | Stock Market Today: Dow Falls 400 Points; Sellers Whack This AI Software Firm | Investor's Business Daily | 2026-09-09 |
-| Sector Update: Energy Stocks Gain Late Afternoon | MT Newswires | 2026-09-09 |
-| ExxonMobil Is Up 40% in 2026: Can Rising Oil Prices and Strong Earnings Boost XOM Stock to $200? | 24/7 Wall St. | 2026-09-09 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
