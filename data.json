@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-09-09T22:36:42+00:00",
-  "as_of_local": "2026-09-09 22:36:42 UTC",
+  "as_of_utc": "2026-09-09T22:39:36+00:00",
+  "as_of_local": "2026-09-09 22:39:36 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "VST"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -150,7 +152,7 @@
       "price": 82.65,
       "previous_close": 83.83,
       "change_pct": -1.41,
-      "market_cap": 172375286021.08124,
+      "market_cap": 172406102156.80014,
       "headlines": [
         {
           "title": "NextEra Energy (NEE) Falls More Steeply Than Broader Market: What Investors Need to Know",
@@ -206,7 +208,7 @@
       "price": 415.22,
       "previous_close": 422.13,
       "change_pct": -1.64,
-      "market_cap": 161229926473.99902,
+      "market_cap": 161271448474.1211,
       "headlines": [
         {
           "title": "Eaton (ETN) Suffers a Larger Drop Than the General Market: Key Insights",
@@ -262,7 +264,7 @@
       "price": 399.44,
       "previous_close": 397.77,
       "change_pct": 0.42,
-      "market_cap": 116611170197.13593,
+      "market_cap": 112172644018.32733,
       "headlines": [
         {
           "title": "How High-Return Refinery Investment Strengthens MPC's Long-Term Margins",
@@ -654,7 +656,7 @@
       "price": 147.01,
       "previous_close": 145.36,
       "change_pct": 1.14,
-      "market_cap": 78301717269.4841,
+      "market_cap": 77111031282.43518,
       "headlines": [
         {
           "title": "Stocks to Consider Before the Fed's September Decision: JPM, EOG, BE",
@@ -850,7 +852,7 @@
       "price": 95.82,
       "previous_close": 97.51,
       "change_pct": -1.73,
-      "market_cap": 60369747686.36923,
+      "market_cap": 60402021299.566444,
       "headlines": [
         {
           "title": "Why the Market Dipped But Oneok Inc. (OKE) Gained Today",
@@ -1013,34 +1015,6 @@
       ]
     },
     {
-      "symbol": "VST",
-      "name": "Vistra",
-      "price": 151.1,
-      "previous_close": 151.72,
-      "change_pct": -0.41,
-      "market_cap": 50714480013.05466,
-      "headlines": [
-        {
-          "title": "Vistra CEO Burke Buys 6,665 Shares",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-ceo-burke-buys-6-212001832.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-09T21:20:01Z"
-        },
-        {
-          "title": "Can VST's Diversified Power Generation Fleet Drive Long-Term Growth?",
-          "url": "https://finance.yahoo.com/energy/articles/vsts-diversified-power-generation-fleet-155600067.html",
-          "publisher": "Zacks",
-          "published": "2026-09-09T15:56:00Z"
-        },
-        {
-          "title": "Vistra Has Edged Lower Throughout 2026: One Bank Says It\u2019s On The Verge of Doubling",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-edged-lower-throughout-2026-112610310.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-09-09T11:26:10Z"
-        }
-      ]
-    },
-    {
       "symbol": "CCJ",
       "name": "Cameco",
       "price": 100.41,
@@ -1074,7 +1048,7 @@
       "price": 72.6,
       "previous_close": 74.24,
       "change_pct": -2.21,
-      "market_cap": 36178133024.821884,
+      "market_cap": 36185293417.47139,
       "headlines": [
         {
           "title": "Public Service Enterprise Group Inc's Dividend Analysis",
@@ -1467,7 +1441,26 @@
       "previous_close": 39.08,
       "change_pct": 0.1,
       "market_cap": 12027013351.61972,
-      "headlines": []
+      "headlines": [
+        {
+          "title": "Antero Resources (AR) Stock Looks Like A Bargain On Earnings",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/antero-resources-ar-stock-looks-001357158.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-09-06T00:13:57Z"
+        },
+        {
+          "title": "Why Is W&T (WTI) Up 16.5% Since Last Earnings Report?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-w-t-wti-16-153035625.html",
+          "publisher": "Zacks",
+          "published": "2026-09-04T15:30:35Z"
+        },
+        {
+          "title": "1 Growth Stock Set to Flourishand 2 That Underwhelm",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/1-growth-stock-set-flourishand-135918627.html",
+          "publisher": "StockStory",
+          "published": "2026-09-03T13:59:18Z"
+        }
+      ]
     },
     {
       "symbol": "BEP",
@@ -1475,7 +1468,7 @@
       "price": 31.2,
       "previous_close": 32.13,
       "change_pct": -2.89,
-      "market_cap": 9462210339.381199,
+      "market_cap": 9363482960.167,
       "headlines": [
         {
           "title": "Forget AI Stocks: This Clean-Power Play Is the Real Winner",
@@ -1587,7 +1580,7 @@
       "price": 93.06,
       "previous_close": 93.7,
       "change_pct": -0.68,
-      "market_cap": 6671047150.566711,
+      "market_cap": 6654916223.649902,
       "headlines": [
         {
           "title": "Solaris Energy Infrastructure, TETRA Technologies, SLB, and Weatherford Stocks Trade Down, What You Need To Know",
@@ -1643,7 +1636,7 @@
       "price": 36.72,
       "previous_close": 38.83,
       "change_pct": -5.43,
-      "market_cap": 4839630799.286499,
+      "market_cap": 4852351635.869385,
       "headlines": [
         {
           "title": "Enphase Energy (ENPH) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
@@ -1699,7 +1692,7 @@
       "price": 14.55,
       "previous_close": 14.62,
       "change_pct": -0.48,
-      "market_cap": 3636990797.67704,
+      "market_cap": 3852455523.101551,
       "headlines": [
         {
           "title": "Energy Fuels Down 28% in the Past 6 Months: How to Play the Stock?",
@@ -2096,8 +2089,8 @@
     },
     {
       "label": "WTI",
-      "price": 96.99,
-      "change_pct": 4.26
+      "price": 97.04,
+      "change_pct": 4.31
     },
     {
       "label": "Brent",
