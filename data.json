@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-09-09T11:02:09+00:00",
-  "as_of_local": "2026-09-09 11:02:09 UTC",
+  "as_of_utc": "2026-09-09T11:07:08+00:00",
+  "as_of_local": "2026-09-09 11:07:08 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "EOG"
+    "OXY"
   ],
   "stocks": [
     {
@@ -651,6 +651,34 @@
       ]
     },
     {
+      "symbol": "EOG",
+      "name": "EOG Resources",
+      "price": 145.36,
+      "previous_close": 145.19,
+      "change_pct": 0.12,
+      "market_cap": 77422883445.89066,
+      "headlines": [
+        {
+          "title": "How Is EOG Resources' Stock Performance Compared to Other Oil & Gas E&P Stocks?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/eog-resources-stock-performance-compared-163919197.html",
+          "publisher": "Barchart",
+          "published": "2026-09-04T16:39:19Z"
+        },
+        {
+          "title": "Chord Energy Corporation (CHRD) Up 11.7% Since Last Earnings Report: Can It Continue?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/chord-energy-corporation-chrd-11-153036886.html",
+          "publisher": "Zacks",
+          "published": "2026-09-04T15:30:36Z"
+        },
+        {
+          "title": "Why Is EOG Resources (EOG) Up 11% Since Last Earnings Report?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-eog-resources-eog-11-153012782.html",
+          "publisher": "Zacks",
+          "published": "2026-09-03T15:30:12Z"
+        }
+      ]
+    },
+    {
       "symbol": "ET",
       "name": "Energy Transfer",
       "price": 21.51,
@@ -815,34 +843,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/3-pipeline-stocks-paying-huge-142508620.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-09-04T14:25:08Z"
-        }
-      ]
-    },
-    {
-      "symbol": "OXY",
-      "name": "Occidental Petroleum",
-      "price": 60.65,
-      "previous_close": 60.04,
-      "change_pct": 1.02,
-      "market_cap": 60628008076.47558,
-      "headlines": [
-        {
-          "title": "Forget Occidental Petroleum. Buy This Pipeline Stock in September Instead.",
-          "url": "https://finance.yahoo.com/energy/articles/forget-occidental-petroleum-buy-pipeline-173500134.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-08T17:35:00Z"
-        },
-        {
-          "title": "Is Occidental Petroleum Stock Outperforming the Nasdaq?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/occidental-petroleum-stock-outperforming-nasdaq-144429014.html",
-          "publisher": "Barchart",
-          "published": "2026-09-07T14:44:29Z"
-        },
-        {
-          "title": "Occidental (OXY) Up 8.2% Since Last Earnings Report: Can It Continue?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/occidental-oxy-8-2-since-153034680.html",
-          "publisher": "Zacks",
-          "published": "2026-09-04T15:30:34Z"
         }
       ]
     },
@@ -1051,6 +1051,12 @@
       "market_cap": 36995379819.95064,
       "headlines": [
         {
+          "title": "Public Service Enterprise Group Inc's Dividend Analysis",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/public-enterprise-group-incs-dividend-110223369.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-09-09T11:02:23Z"
+        },
+        {
           "title": "PSEG (PEG) Down 2.9% Since Last Earnings Report: Can It Rebound?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/pseg-peg-down-2-9-153021289.html",
           "publisher": "Zacks",
@@ -1061,12 +1067,6 @@
           "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-rise-wednesday-200642126.html",
           "publisher": "MT Newswires",
           "published": "2026-08-26T20:06:42Z"
-        },
-        {
-          "title": "Pennsylvania Sets New Data-Center Rules\u2014and Some Energy Companies Can Actually Benefit",
-          "url": "https://www.barrons.com/articles/pennsylvanias-new-data-center-rules-arent-all-bad-for-power-companies-3ef9661a?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-08-19T21:19:00Z"
         }
       ]
     },
@@ -1958,8 +1958,8 @@
           "name": "EOG Resources Inc",
           "short": "EOG Resources",
           "weight_pct": 4.13,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": 0.12,
+          "price": 145.36,
           "currency": "USD"
         },
         {
@@ -2057,8 +2057,8 @@
         "name": "EOG Resources Inc",
         "short": "EOG Resources",
         "weight_pct": 4.13,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": 0.12,
+        "price": 145.36,
         "currency": "USD"
       },
       {
@@ -2089,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 95.01,
-      "change_pct": 2.13
+      "price": 94.95,
+      "change_pct": 2.06
     },
     {
       "label": "Brent",
-      "price": 100.4,
-      "change_pct": 2.53
+      "price": 100.34,
+      "change_pct": 2.47
     },
     {
       "label": "NatGas",
       "price": 2.89,
-      "change_pct": -0.82
+      "change_pct": -0.86
     }
   ]
 }
