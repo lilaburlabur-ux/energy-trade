@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-09-09T12:57:37+00:00",
-  "as_of_local": "2026-09-09 12:57:37 UTC",
+  "as_of_utc": "2026-09-09T13:02:43+00:00",
+  "as_of_local": "2026-09-09 13:02:43 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "FSLR"
+    "DUK"
   ],
   "stocks": [
     {
@@ -152,7 +152,7 @@
       "price": 83.83,
       "previous_close": 83.43,
       "change_pct": 0.48,
-      "market_cap": 174836300979.99747,
+      "market_cap": 174867557080.0102,
       "headlines": [
         {
           "title": "NEE Stock Rises Overnight: NextEra Energy Secures Up To $1.9B DOE Loan To Restart Iowa Nuclear Plant",
@@ -208,7 +208,7 @@
       "price": 422.13,
       "previous_close": 410.85,
       "change_pct": 2.75,
-      "market_cap": 163913080895.9961,
+      "market_cap": 163955293896.48438,
       "headlines": [
         {
           "title": "Here Are Tuesday\u2019s Top Wall Street Analyst Research Calls: Amgen, Baidu, Best Buy, Circle Internet, Corning, Intel, Lockheed Martin SpaceX, TeraWulf and More",
@@ -227,34 +227,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/premarket-movers-energy-stocks-rise-095904641.html",
           "publisher": "Investing.com",
           "published": "2026-09-08T09:59:04Z"
-        }
-      ]
-    },
-    {
-      "symbol": "MPC",
-      "name": "Marathon Petroleum",
-      "price": 397.77,
-      "previous_close": 388.9,
-      "change_pct": 2.28,
-      "market_cap": 116123632096.63834,
-      "headlines": [
-        {
-          "title": "Trump oil and gas holdings gained up to $4.4M during Iran war",
-          "url": "https://finance.yahoo.com/energy/articles/trump-oil-gas-holdings-gained-115846187.html",
-          "publisher": "Quartz",
-          "published": "2026-09-09T11:58:46Z"
-        },
-        {
-          "title": "The Best \"Strong Buy\" Momentum Stocks to Buy Now in September",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/best-strong-buy-momentum-stocks-185700470.html",
-          "publisher": "Zacks",
-          "published": "2026-09-08T18:57:00Z"
-        },
-        {
-          "title": "Iran Just Raised the Stakes in the Gulf\u2014These 5 Stocks Stand to Benefit",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/iran-just-raised-stakes-gulf-141323681.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-09-08T14:13:23Z"
         }
       ]
     },
@@ -311,6 +283,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/q2-earnings-roundup-vertiv-nyse-164718114.html",
           "publisher": "StockStory",
           "published": "2026-09-08T16:47:18Z"
+        }
+      ]
+    },
+    {
+      "symbol": "MPC",
+      "name": "Marathon Petroleum",
+      "price": 397.77,
+      "previous_close": 388.9,
+      "change_pct": 2.28,
+      "market_cap": 111703662893.27701,
+      "headlines": [
+        {
+          "title": "Trump oil and gas holdings gained up to $4.4M during Iran war",
+          "url": "https://finance.yahoo.com/energy/articles/trump-oil-gas-holdings-gained-115846187.html",
+          "publisher": "Quartz",
+          "published": "2026-09-09T11:58:46Z"
+        },
+        {
+          "title": "The Best \"Strong Buy\" Momentum Stocks to Buy Now in September",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/best-strong-buy-momentum-stocks-185700470.html",
+          "publisher": "Zacks",
+          "published": "2026-09-08T18:57:00Z"
+        },
+        {
+          "title": "Iran Just Raised the Stakes in the Gulf\u2014These 5 Stocks Stand to Benefit",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/iran-just-raised-stakes-gulf-141323681.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-09-08T14:13:23Z"
         }
       ]
     },
@@ -483,34 +483,6 @@
       ]
     },
     {
-      "symbol": "DUK",
-      "name": "Duke Energy",
-      "price": 121.24,
-      "previous_close": 120.22,
-      "change_pct": 0.85,
-      "market_cap": 94531092213.69641,
-      "headlines": [
-        {
-          "title": "Passive Income Investors Are Buying 5 Well-Known High-Yield Stocks Near 52-Week Lows",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/passive-income-investors-buying-5-121247879.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-09-09T12:12:47Z"
-        },
-        {
-          "title": "New Study Reveals Strongest State Economies, Only 1 State Was Better Than Texas",
-          "url": "https://finance.yahoo.com/economy/articles/study-reveals-strongest-state-economies-181834728.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-09-08T03:00:18Z"
-        },
-        {
-          "title": "BWX Technologies Already Builds Reactors for the Navy. Why Is It Still the Cheapest Nuclear Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bwx-technologies-already-builds-reactors-132500675.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-06T13:25:00Z"
-        }
-      ]
-    },
-    {
       "symbol": "WMB",
       "name": "Williams Companies",
       "price": 75.83,
@@ -656,7 +628,7 @@
       "price": 145.36,
       "previous_close": 145.19,
       "change_pct": 0.12,
-      "market_cap": 77422883445.89066,
+      "market_cap": 76245561343.5072,
       "headlines": [
         {
           "title": "How Is EOG Resources' Stock Performance Compared to Other Oil & Gas E&P Stocks?",
@@ -796,7 +768,7 @@
       "price": 97.51,
       "previous_close": 95.43,
       "change_pct": 2.18,
-      "market_cap": 61434504744.415375,
+      "market_cap": 61467347575.78489,
       "headlines": [
         {
           "title": "Why the Market Dipped But Oneok Inc. (OKE) Gained Today",
@@ -1076,7 +1048,7 @@
       "price": 74.24,
       "previous_close": 73.7,
       "change_pct": 0.73,
-      "market_cap": 36995379819.95064,
+      "market_cap": 37002701962.459946,
       "headlines": [
         {
           "title": "Public Service Enterprise Group Inc's Dividend Analysis",
@@ -1235,6 +1207,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/hubbell-incs-dividend-analysis-110536644.html",
           "publisher": "GuruFocus.com",
           "published": "2026-08-31T11:05:36Z"
+        }
+      ]
+    },
+    {
+      "symbol": "FSLR",
+      "name": "First Solar",
+      "price": 213.25,
+      "previous_close": 204.45,
+      "change_pct": 4.3,
+      "market_cap": 22917932291.0,
+      "headlines": [
+        {
+          "title": "Enphase Energy Rises 5% as Solid-State Transformer Modules Enter Texas Production, SolarEdge Jumps 6%",
+          "url": "https://finance.yahoo.com/energy/articles/enphase-energy-rises-5-solid-164923843.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-09-08T16:49:23Z"
+        },
+        {
+          "title": "Which Solar Stock Has Dominated in 2026: SolarEdge, Enphase Energy, or First Solar?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/solar-stock-dominated-2026-solaredge-143043029.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-09-07T14:30:43Z"
+        },
+        {
+          "title": "Barclays sees a $3.6 trillion annual investment opportunity in this sector",
+          "url": "https://finance.yahoo.com/energy/articles/barclays-sees-3-6-trillion-082816148.html",
+          "publisher": "Investing.com",
+          "published": "2026-09-05T08:28:16Z"
         }
       ]
     },
@@ -1468,7 +1468,7 @@
       "price": 32.13,
       "previous_close": 31.41,
       "change_pct": 2.29,
-      "market_cap": 9744257079.383678,
+      "market_cap": 9642586863.9338,
       "headlines": [
         {
           "title": "Forget AI Stocks: This Clean-Power Play Is the Real Winner",
@@ -1580,7 +1580,7 @@
       "price": 93.7,
       "previous_close": 95.88,
       "change_pct": -2.27,
-      "market_cap": 6716925790.333389,
+      "market_cap": 6700683926.562378,
       "headlines": [
         {
           "title": "Solaris Energy Infrastructure, TETRA Technologies, SLB, and Weatherford Stocks Trade Down, What You Need To Know",
@@ -1636,7 +1636,7 @@
       "price": 38.83,
       "previous_close": 36.37,
       "change_pct": 6.76,
-      "market_cap": 5117725123.929749,
+      "market_cap": 5131176923.804077,
       "headlines": [
         {
           "title": "Enphase Energy Rises 5% as Solid-State Transformer Modules Enter Texas Production, SolarEdge Jumps 6%",
@@ -1687,6 +1687,34 @@
       ]
     },
     {
+      "symbol": "UUUU",
+      "name": "Energy Fuels",
+      "price": 14.62,
+      "previous_close": 14.47,
+      "change_pct": 1.04,
+      "market_cap": 3870989592.3390694,
+      "headlines": [
+        {
+          "title": "Energy Fuels (UUUU) Rises As Market Takes a Dip: Key Facts",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/energy-fuels-uuuu-rises-market-214507343.html",
+          "publisher": "Zacks",
+          "published": "2026-09-08T21:45:07Z"
+        },
+        {
+          "title": "Energy Fuels' Q2 Loss Widens: Is a Recovery on the Horizon?",
+          "url": "https://finance.yahoo.com/energy/articles/energy-fuels-q2-loss-widens-165700473.html",
+          "publisher": "Zacks",
+          "published": "2026-09-04T16:57:00Z"
+        },
+        {
+          "title": "Why Is Energy Fuels (UUUU) Up 11.2% Since Last Earnings Report?",
+          "url": "https://finance.yahoo.com/energy/articles/why-energy-fuels-uuuu-11-153021925.html",
+          "publisher": "Zacks",
+          "published": "2026-09-04T15:30:21Z"
+        }
+      ]
+    },
+    {
       "symbol": "LEU",
       "name": "Centrus Energy",
       "price": 185.53,
@@ -1711,34 +1739,6 @@
           "url": "https://finance.yahoo.com/energy/articles/energy-fuels-q2-revenues-surge-180000222.html",
           "publisher": "Zacks",
           "published": "2026-09-02T18:00:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "UUUU",
-      "name": "Energy Fuels",
-      "price": 14.62,
-      "previous_close": 14.47,
-      "change_pct": 1.04,
-      "market_cap": 3654488271.393776,
-      "headlines": [
-        {
-          "title": "Energy Fuels (UUUU) Rises As Market Takes a Dip: Key Facts",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/energy-fuels-uuuu-rises-market-214507343.html",
-          "publisher": "Zacks",
-          "published": "2026-09-08T21:45:07Z"
-        },
-        {
-          "title": "Energy Fuels' Q2 Loss Widens: Is a Recovery on the Horizon?",
-          "url": "https://finance.yahoo.com/energy/articles/energy-fuels-q2-loss-widens-165700473.html",
-          "publisher": "Zacks",
-          "published": "2026-09-04T16:57:00Z"
-        },
-        {
-          "title": "Why Is Energy Fuels (UUUU) Up 11.2% Since Last Earnings Report?",
-          "url": "https://finance.yahoo.com/energy/articles/why-energy-fuels-uuuu-11-153021925.html",
-          "publisher": "Zacks",
-          "published": "2026-09-04T15:30:21Z"
         }
       ]
     },
@@ -2089,13 +2089,13 @@
     },
     {
       "label": "WTI",
-      "price": 95.79,
-      "change_pct": 2.97
+      "price": 95.75,
+      "change_pct": 2.92
     },
     {
       "label": "Brent",
-      "price": 100.78,
-      "change_pct": 2.92
+      "price": 100.65,
+      "change_pct": 2.79
     },
     {
       "label": "NatGas",
