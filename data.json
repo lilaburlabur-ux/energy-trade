@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-09T12:42:34+00:00",
-  "as_of_local": "2026-09-09 12:42:34 UTC",
+  "as_of_utc": "2026-09-09T12:47:25+00:00",
+  "as_of_local": "2026-09-09 12:47:25 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -601,6 +601,12 @@
       "market_cap": 81648871217.65045,
       "headlines": [
         {
+          "title": "FCEL Q3 Loss Wider Than Expected on Fit Energy Charges",
+          "url": "https://finance.yahoo.com/energy/articles/fcel-q3-loss-wider-expected-124300234.html",
+          "publisher": "Zacks",
+          "published": "2026-09-09T12:43:00Z"
+        },
+        {
           "title": "Dow Jones Futures Fall As Oil Prices Push Stocks Toward Breaking Point; Apple iPhone Event Due",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-amd-hpe-new-buys-apple-iphone-event/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
@@ -611,12 +617,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/company-news-sep-9-2026-111500913.html",
           "publisher": "Zacks",
           "published": "2026-09-09T11:15:00Z"
-        },
-        {
-          "title": "Bloom Energy Delivered Power to an Oracle Data Center in 55 Days. Here's Why That Number Matters More Than the Revenue Beat.",
-          "url": "https://finance.yahoo.com/energy/articles/bloom-energy-delivered-power-oracle-100500731.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-09T10:05:00Z"
         }
       ]
     },
@@ -1075,7 +1075,26 @@
       "previous_close": 73.7,
       "change_pct": 0.73,
       "market_cap": 37002701962.459946,
-      "headlines": []
+      "headlines": [
+        {
+          "title": "Public Service Enterprise Group Inc's Dividend Analysis",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/public-enterprise-group-incs-dividend-110223369.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-09-09T11:02:23Z"
+        },
+        {
+          "title": "PSEG (PEG) Down 2.9% Since Last Earnings Report: Can It Rebound?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/pseg-peg-down-2-9-153021289.html",
+          "publisher": "Zacks",
+          "published": "2026-09-03T15:30:21Z"
+        },
+        {
+          "title": "Sector Update: Energy Stocks Rise Wednesday",
+          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-rise-wednesday-200642126.html",
+          "publisher": "MT Newswires",
+          "published": "2026-08-26T20:06:42Z"
+        }
+      ]
     },
     {
       "symbol": "EQT",
@@ -2096,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 95.89,
-      "change_pct": 3.07
+      "price": 95.83,
+      "change_pct": 3.01
     },
     {
       "label": "Brent",
-      "price": 100.85,
-      "change_pct": 2.99
+      "price": 100.72,
+      "change_pct": 2.86
     },
     {
       "label": "NatGas",
-      "price": 2.87,
-      "change_pct": -1.61
+      "price": 2.86,
+      "change_pct": -1.89
     }
   ]
 }
