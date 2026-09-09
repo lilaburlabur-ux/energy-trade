@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-09-09T20:17:09+00:00",
-  "as_of_local": "2026-09-09 20:17:09 UTC",
+  "as_of_utc": "2026-09-09T20:18:27+00:00",
+  "as_of_local": "2026-09-09 20:18:27 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NRG"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1181,34 +1183,6 @@
       ]
     },
     {
-      "symbol": "NRG",
-      "name": "NRG Energy",
-      "price": 115.37,
-      "previous_close": 119.64,
-      "change_pct": -3.57,
-      "market_cap": 24251984001.070335,
-      "headlines": [
-        {
-          "title": "Vistra Has Edged Lower Throughout 2026: One Bank Says It\u2019s On The Verge of Doubling",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-edged-lower-throughout-2026-112610310.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-09-09T11:26:10Z"
-        },
-        {
-          "title": "These 2 AI Power Stocks Jumped While the S&P 500 Fell",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/2-ai-power-stocks-jumped-150120214.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-09-07T15:01:20Z"
-        },
-        {
-          "title": "Why Is NRG (NRG) Down 8% Since Last Earnings Report?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-nrg-nrg-down-8-153020278.html",
-          "publisher": "Zacks",
-          "published": "2026-09-03T15:30:20Z"
-        }
-      ]
-    },
-    {
       "symbol": "HUBB",
       "name": "Hubbell",
       "price": 454.97,
@@ -2115,13 +2089,13 @@
     },
     {
       "label": "WTI",
-      "price": 96.71,
-      "change_pct": 3.96
+      "price": 96.83,
+      "change_pct": 4.08
     },
     {
       "label": "Brent",
-      "price": 101.57,
-      "change_pct": 3.73
+      "price": 101.66,
+      "change_pct": 3.82
     },
     {
       "label": "NatGas",
