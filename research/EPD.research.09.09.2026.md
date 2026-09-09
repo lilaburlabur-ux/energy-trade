@@ -79,21 +79,6 @@ Enterprise Products Partners L.P. provides midstream energy services to producer
 | Short float | 2.61% |
 | Short ratio (days to cover) | 5.7 |
 
-**Top institutional holders:**
-
-| Holder | Shares | % Out | Reported |
-|---|---|---|---|
-| Alps Advisors Inc. | 43,655,056 | 2.02% | 2026-06-30 |
-| Invesco Ltd. | 26,616,875 | 1.23% | 2026-06-30 |
-| Blackstone Inc | 23,760,341 | 1.10% | 2026-06-30 |
-| Morgan Stanley | 22,249,198 | 1.03% | 2026-06-30 |
-| Tortoise Capital Advisors, LLC | 18,636,746 | 0.86% | 2026-06-30 |
-| Goldman Sachs Group Inc | 17,515,453 | 0.81% | 2026-06-30 |
-| Sarofim, Fayez & Co | 15,998,982 | 0.74% | 2026-06-30 |
-| Energy Income Partners, LLC | 13,831,913 | 0.64% | 2026-06-30 |
-| Neuberger Berman Group, LLC | 13,560,232 | 0.63% | 2026-06-30 |
-| Kayne Anderson Capital Advisors, L.P. | 12,869,425 | 0.60% | 2026-06-30 |
-
 ## 6. Risk Review and Setup Plan
 - **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.

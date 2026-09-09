@@ -127,16 +127,7 @@ Brookfield Renewable Partners L.P. owns a portfolio of renewable power generatin
 | P/B | 2.50 | Analyst rec (1=buy..5=sell) | 2.2 |
 
 ## 8. Analyst Actions
-| Date | Action | Firm | Rating change |
-|---|---|---|---|
-| 2026-07-22 | main | Barclays | Equal-Weight → Equal-Weight |
-| 2026-07-21 | down | JP Morgan | Overweight → Neutral |
-| 2026-06-12 | main | UBS | Buy → Buy |
-| 2026-05-29 | main | Scotiabank | Sector Outperform → Sector Outperform |
-| 2026-04-20 | main | CIBC | Outperformer → Outperformer |
-| 2026-04-16 | main | JP Morgan | Overweight → Overweight |
-| 2026-03-23 | main | Morgan Stanley | Overweight → Overweight |
-| 2026-01-23 | main | Barclays | Equal-Weight → Equal-Weight |
+_No recent analyst actions available from Yahoo._
 
 ## 9. Conclusion
 BEP: Moderate momentum / weak fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

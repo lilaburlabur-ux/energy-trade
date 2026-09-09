@@ -127,16 +127,7 @@ ConocoPhillips explores for, produces, transports, and markets crude oil, bitume
 | P/B | 2.51 | Analyst rec (1=buy..5=sell) | 1.7 |
 
 ## 8. Analyst Actions
-| Date | Action | Firm | Rating change |
-|---|---|---|---|
-| 2026-09-03 | init | Seaport Global | — → Neutral |
-| 2026-08-19 | main | Morgan Stanley | Overweight → Overweight |
-| 2026-08-19 | main | Argus Research | Buy → Buy |
-| 2026-08-17 | main | Barclays | Overweight → Overweight |
-| 2026-08-12 | main | UBS | Buy → Buy |
-| 2026-08-11 | main | Susquehanna | Positive → Positive |
-| 2026-08-10 | main | Truist Securities | Hold → Hold |
-| 2026-08-07 | main | Wells Fargo | Overweight → Overweight |
+_No recent analyst actions available from Yahoo._
 
 ## 9. Conclusion
 COP: Moderate momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
