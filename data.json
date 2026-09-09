@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-09-09T23:34:06+00:00",
-  "as_of_local": "2026-09-09 23:34:06 UTC",
+  "as_of_utc": "2026-09-09T23:35:46+00:00",
+  "as_of_local": "2026-09-09 23:35:46 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "SO"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -150,7 +152,7 @@
       "price": 82.65,
       "previous_close": 83.83,
       "change_pct": -1.41,
-      "market_cap": 172406102156.80014,
+      "market_cap": 172375286021.08124,
       "headlines": [
         {
           "title": "NextEra Energy (NEE) Falls More Steeply Than Broader Market: What Investors Need to Know",
@@ -206,7 +208,7 @@
       "price": 415.22,
       "previous_close": 422.13,
       "change_pct": -1.64,
-      "market_cap": 161271448474.1211,
+      "market_cap": 161229926473.99902,
       "headlines": [
         {
           "title": "Eaton (ETN) Suffers a Larger Drop Than the General Market: Key Insights",
@@ -262,7 +264,7 @@
       "price": 399.44,
       "previous_close": 397.77,
       "change_pct": 0.42,
-      "market_cap": 112172644018.32733,
+      "market_cap": 116611170197.13593,
       "headlines": [
         {
           "title": "How High-Return Refinery Investment Strengthens MPC's Long-Term Margins",
@@ -393,34 +395,6 @@
           "url": "https://finance.yahoo.com/energy/articles/trump-oil-gas-holdings-gained-115846187.html",
           "publisher": "Quartz",
           "published": "2026-09-09T11:58:46Z"
-        }
-      ]
-    },
-    {
-      "symbol": "SO",
-      "name": "Southern Company",
-      "price": 88.34,
-      "previous_close": 88.99,
-      "change_pct": -0.73,
-      "market_cap": 101623060203.685,
-      "headlines": [
-        {
-          "title": "KEEL Stock On Track To Break 4-Day Rally: PowerSecure AI Data Center Deal Fails To Prevent Pull Back",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/keel-stock-track-break-4-162631290.html",
-          "publisher": "Stocktwits",
-          "published": "2026-09-09T16:26:31Z"
-        },
-        {
-          "title": "Here's Why a Hold Strategy Is Apt for Southern Company Stock Now",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/heres-why-hold-strategy-apt-130500149.html",
-          "publisher": "Zacks",
-          "published": "2026-09-08T13:05:00Z"
-        },
-        {
-          "title": "XLU\u2019s AI Power Story Crumbles as Texas Freezes Data-Center Demand",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/xlu-ai-power-story-crumbles-142205667.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-09-07T14:22:05Z"
         }
       ]
     },
@@ -654,7 +628,7 @@
       "price": 147.01,
       "previous_close": 145.36,
       "change_pct": 1.14,
-      "market_cap": 77111031282.43518,
+      "market_cap": 78301717269.4841,
       "headlines": [
         {
           "title": "Stocks to Consider Before the Fed's September Decision: JPM, EOG, BE",
@@ -850,7 +824,7 @@
       "price": 95.82,
       "previous_close": 97.51,
       "change_pct": -1.73,
-      "market_cap": 60402021299.566444,
+      "market_cap": 60369747686.36923,
       "headlines": [
         {
           "title": "Why the Market Dipped But Oneok Inc. (OKE) Gained Today",
@@ -1074,7 +1048,7 @@
       "price": 72.6,
       "previous_close": 74.24,
       "change_pct": -2.21,
-      "market_cap": 36185293417.47139,
+      "market_cap": 36178133024.821884,
       "headlines": [
         {
           "title": "Public Service Enterprise Group Inc's Dividend Analysis",
@@ -1494,7 +1468,7 @@
       "price": 31.2,
       "previous_close": 32.13,
       "change_pct": -2.89,
-      "market_cap": 9363482960.167,
+      "market_cap": 9462210339.381199,
       "headlines": [
         {
           "title": "Forget AI Stocks: This Clean-Power Play Is the Real Winner",
@@ -1606,7 +1580,7 @@
       "price": 93.06,
       "previous_close": 93.7,
       "change_pct": -0.68,
-      "market_cap": 6654916223.649902,
+      "market_cap": 6671047150.566711,
       "headlines": [
         {
           "title": "Solaris Energy Infrastructure, TETRA Technologies, SLB, and Weatherford Stocks Trade Down, What You Need To Know",
@@ -1662,7 +1636,7 @@
       "price": 36.72,
       "previous_close": 38.83,
       "change_pct": -5.43,
-      "market_cap": 4852351635.869385,
+      "market_cap": 4839630799.286499,
       "headlines": [
         {
           "title": "Enphase Energy (ENPH) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
@@ -1718,7 +1692,7 @@
       "price": 14.55,
       "previous_close": 14.62,
       "change_pct": -0.48,
-      "market_cap": 3852455523.101551,
+      "market_cap": 3636990797.67704,
       "headlines": [
         {
           "title": "Energy Fuels Down 28% in the Past 6 Months: How to Play the Stock?",
@@ -2115,13 +2089,13 @@
     },
     {
       "label": "WTI",
-      "price": 97.12,
-      "change_pct": 4.4
+      "price": 97.13,
+      "change_pct": 4.41
     },
     {
       "label": "Brent",
-      "price": 102.09,
-      "change_pct": 4.26
+      "price": 102.1,
+      "change_pct": 4.27
     },
     {
       "label": "NatGas",
