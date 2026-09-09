@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-09-09T06:24:47+00:00",
-  "as_of_local": "2026-09-09 06:24:47 UTC",
+  "as_of_utc": "2026-09-09T10:54:23+00:00",
+  "as_of_local": "2026-09-09 10:54:23 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "DUK"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -150,7 +152,7 @@
       "price": 83.83,
       "previous_close": 83.43,
       "change_pct": 0.48,
-      "market_cap": 174867557080.0102,
+      "market_cap": 174836300979.99747,
       "headlines": [
         {
           "title": "NEE Stock Rises Overnight: NextEra Energy Secures Up To $1.9B DOE Loan To Restart Iowa Nuclear Plant",
@@ -206,7 +208,7 @@
       "price": 422.13,
       "previous_close": 410.85,
       "change_pct": 2.75,
-      "market_cap": 163955293896.48438,
+      "market_cap": 163913080895.9961,
       "headlines": [
         {
           "title": "Here Are Tuesday\u2019s Top Wall Street Analyst Research Calls: Amgen, Baidu, Best Buy, Circle Internet, Corning, Intel, Lockheed Martin SpaceX, TeraWulf and More",
@@ -229,6 +231,34 @@
       ]
     },
     {
+      "symbol": "MPC",
+      "name": "Marathon Petroleum",
+      "price": 397.77,
+      "previous_close": 388.9,
+      "change_pct": 2.28,
+      "market_cap": 116123632096.63834,
+      "headlines": [
+        {
+          "title": "The Best \"Strong Buy\" Momentum Stocks to Buy Now in September",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/best-strong-buy-momentum-stocks-185700470.html",
+          "publisher": "Zacks",
+          "published": "2026-09-08T18:57:00Z"
+        },
+        {
+          "title": "Iran Just Raised the Stakes in the Gulf\u2014These 5 Stocks Stand to Benefit",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/iran-just-raised-stakes-gulf-141323681.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-09-08T14:13:23Z"
+        },
+        {
+          "title": "Marathon Petroleum and Campbell's have been highlighted as Zacks Bull and Bear of the Day",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/marathon-petroleum-campbells-highlighted-zacks-132200243.html",
+          "publisher": "Zacks",
+          "published": "2026-09-08T13:22:00Z"
+        }
+      ]
+    },
+    {
       "symbol": "BP",
       "name": "BP",
       "price": 44.88,
@@ -237,22 +267,22 @@
       "market_cap": 115581364636.20233,
       "headlines": [
         {
+          "title": "Best Income Stocks to Buy for September 9th",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/best-income-stocks-buy-september-103300545.html",
+          "publisher": "Zacks",
+          "published": "2026-09-09T10:33:00Z"
+        },
+        {
+          "title": "New Strong Buy Stocks for September 9th",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/strong-buy-stocks-september-9th-084200429.html",
+          "publisher": "Zacks",
+          "published": "2026-09-09T08:42:00Z"
+        },
+        {
           "title": "BP (BP) Ascends While Market Falls: Some Facts to Note",
           "url": "https://finance.yahoo.com/markets/stocks/articles/bp-bp-ascends-while-market-220002964.html",
           "publisher": "Zacks",
           "published": "2026-09-08T22:00:02Z"
-        },
-        {
-          "title": "European Equities Traded in the US as American Depositary Receipts Fall in Tuesday Trading",
-          "url": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-american-152848017.html",
-          "publisher": "MT Newswires",
-          "published": "2026-09-08T15:28:48Z"
-        },
-        {
-          "title": "Shares edge down as Iran tensions push oil higher",
-          "url": "https://finance.yahoo.com/news/shares-edge-down-iran-tensions-162804586.html",
-          "publisher": "PA Media: Money",
-          "published": "2026-09-07T16:28:04Z"
         }
       ]
     },
@@ -281,34 +311,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/q2-earnings-roundup-vertiv-nyse-164718114.html",
           "publisher": "StockStory",
           "published": "2026-09-08T16:47:18Z"
-        }
-      ]
-    },
-    {
-      "symbol": "MPC",
-      "name": "Marathon Petroleum",
-      "price": 397.77,
-      "previous_close": 388.9,
-      "change_pct": 2.28,
-      "market_cap": 111703662893.27701,
-      "headlines": [
-        {
-          "title": "The Best \"Strong Buy\" Momentum Stocks to Buy Now in September",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/best-strong-buy-momentum-stocks-185700470.html",
-          "publisher": "Zacks",
-          "published": "2026-09-08T18:57:00Z"
-        },
-        {
-          "title": "Iran Just Raised the Stakes in the Gulf\u2014These 5 Stocks Stand to Benefit",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/iran-just-raised-stakes-gulf-141323681.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-09-08T14:13:23Z"
-        },
-        {
-          "title": "Marathon Petroleum and Campbell's have been highlighted as Zacks Bull and Bear of the Day",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/marathon-petroleum-campbells-highlighted-zacks-132200243.html",
-          "publisher": "Zacks",
-          "published": "2026-09-08T13:22:00Z"
         }
       ]
     },
@@ -405,6 +407,12 @@
       "market_cap": 102918718526.78929,
       "headlines": [
         {
+          "title": "Oil and gas electrification: why the sector\u2019s big shift has a power problem",
+          "url": "https://finance.yahoo.com/energy/articles/oil-gas-electrification-why-sector-103613731.html",
+          "publisher": "Offshore Technology",
+          "published": "2026-09-09T10:36:13Z"
+        },
+        {
           "title": "Sector Update: Energy Stocks Gain Late Afternoon",
           "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-gain-afternoon-195721683.html",
           "publisher": "MT Newswires",
@@ -415,12 +423,6 @@
           "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-rise-tuesday-175256522.html",
           "publisher": "MT Newswires",
           "published": "2026-09-08T17:52:56Z"
-        },
-        {
-          "title": "European Equities Traded in the US as American Depositary Receipts Fall in Tuesday Trading",
-          "url": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-american-152848017.html",
-          "publisher": "MT Newswires",
-          "published": "2026-09-08T15:28:48Z"
         }
       ]
     },
@@ -477,34 +479,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/argan-worth-buying-growth-surges-153400727.html",
           "publisher": "Zacks",
           "published": "2026-09-08T15:34:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "DUK",
-      "name": "Duke Energy",
-      "price": 121.24,
-      "previous_close": 120.22,
-      "change_pct": 0.85,
-      "market_cap": 94531092213.69641,
-      "headlines": [
-        {
-          "title": "New Study Reveals Strongest State Economies, Only 1 State Was Better Than Texas",
-          "url": "https://finance.yahoo.com/economy/articles/study-reveals-strongest-state-economies-181834728.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-09-08T03:00:18Z"
-        },
-        {
-          "title": "BWX Technologies Already Builds Reactors for the Navy. Why Is It Still the Cheapest Nuclear Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bwx-technologies-already-builds-reactors-132500675.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-06T13:25:00Z"
-        },
-        {
-          "title": "Dividends vs. Annuity: Which Turns $930,000 Into More Monthly Income for Life?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/dividends-vs-annuity-turns-930-220124502.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-09-05T22:01:24Z"
         }
       ]
     },
@@ -601,22 +575,22 @@
       "market_cap": 81648871217.65045,
       "headlines": [
         {
-          "title": "Dow Jones Futures: Dow Skids But AMD, HPE Are New Buys; Apple iPhone Event Due",
+          "title": "Dow Jones Futures Fall As Oil Prices Push Stocks Toward Breaking Point; Apple iPhone Event Due",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-amd-hpe-new-buys-apple-iphone-event/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
-          "published": "2026-09-09T03:09:58Z"
+          "published": "2026-09-09T10:43:40Z"
+        },
+        {
+          "title": "Bloom Energy Delivered Power to an Oracle Data Center in 55 Days. Here's Why That Number Matters More Than the Revenue Beat.",
+          "url": "https://finance.yahoo.com/energy/articles/bloom-energy-delivered-power-oracle-100500731.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-09T10:05:00Z"
         },
         {
           "title": "3 Stocks Soon Joining the S&P 500",
           "url": "https://finance.yahoo.com/markets/stocks/articles/3-stocks-soon-joining-p-003800655.html",
           "publisher": "Zacks",
           "published": "2026-09-09T00:38:00Z"
-        },
-        {
-          "title": "Why Bloom Energy (BE) Stock Is Trading Up Today",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-bloom-energy-stock-trading-003118317.html",
-          "publisher": "StockStory",
-          "published": "2026-09-09T00:31:18Z"
         }
       ]
     },
@@ -654,7 +628,7 @@
       "price": 145.36,
       "previous_close": 145.19,
       "change_pct": 0.12,
-      "market_cap": 76245561343.5072,
+      "market_cap": 77422883445.89066,
       "headlines": [
         {
           "title": "How Is EOG Resources' Stock Performance Compared to Other Oil & Gas E&P Stocks?",
@@ -794,7 +768,7 @@
       "price": 97.51,
       "previous_close": 95.43,
       "change_pct": 2.18,
-      "market_cap": 61467347575.78489,
+      "market_cap": 61434504744.415375,
       "headlines": [
         {
           "title": "Why the Market Dipped But Oneok Inc. (OKE) Gained Today",
@@ -1049,6 +1023,12 @@
       "market_cap": 44411298400.28647,
       "headlines": [
         {
+          "title": "Cameco Controls the Uranium Refinery That Canada Cannot Afford to Lose",
+          "url": "https://finance.yahoo.com/energy/articles/cameco-controls-uranium-refinery-canada-073000083.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-09T07:30:00Z"
+        },
+        {
           "title": "Jefferies Sees Cameco (CCJ) and BWXT as Winners in the Nuclear Boom",
           "url": "https://finance.yahoo.com/energy/articles/jefferies-sees-cameco-ccj-bwxt-222909210.html",
           "publisher": "Insider Monkey",
@@ -1059,12 +1039,6 @@
           "url": "https://finance.yahoo.com/energy/articles/powering-ai-boom-uranium-95-120500472.html",
           "publisher": "MarketBeat",
           "published": "2026-09-07T12:05:00Z"
-        },
-        {
-          "title": "BWX Technologies Already Builds Reactors for the Navy. Why Is It Still the Cheapest Nuclear Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bwx-technologies-already-builds-reactors-132500675.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-06T13:25:00Z"
         }
       ]
     },
@@ -1074,7 +1048,7 @@
       "price": 74.24,
       "previous_close": 73.7,
       "change_pct": 0.73,
-      "market_cap": 37002701962.459946,
+      "market_cap": 36995379819.95064,
       "headlines": [
         {
           "title": "PSEG (PEG) Down 2.9% Since Last Earnings Report: Can It Rebound?",
@@ -1494,7 +1468,7 @@
       "price": 32.13,
       "previous_close": 31.41,
       "change_pct": 2.29,
-      "market_cap": 9642586863.9338,
+      "market_cap": 9744257079.383678,
       "headlines": [
         {
           "title": "Forget AI Stocks: This Clean-Power Play Is the Real Winner",
@@ -1606,7 +1580,7 @@
       "price": 93.7,
       "previous_close": 95.88,
       "change_pct": -2.27,
-      "market_cap": 6700683926.562378,
+      "market_cap": 6716925790.333389,
       "headlines": [
         {
           "title": "Solaris Energy Infrastructure, TETRA Technologies, SLB, and Weatherford Stocks Trade Down, What You Need To Know",
@@ -1662,7 +1636,7 @@
       "price": 38.83,
       "previous_close": 36.37,
       "change_pct": 6.76,
-      "market_cap": 5131176923.804077,
+      "market_cap": 5117725123.929749,
       "headlines": [
         {
           "title": "Enphase Energy Rises 5% as Solid-State Transformer Modules Enter Texas Production, SolarEdge Jumps 6%",
@@ -1693,6 +1667,12 @@
       "market_cap": 4588154981.200943,
       "headlines": [
         {
+          "title": "NuScale Is Already Down 70%. Here's the Price I'd Actually Start Buying.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nuscale-already-down-70-heres-065000962.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-09T06:50:00Z"
+        },
+        {
           "title": "SMR Stock Clocks Best Day In Over 4 Months: Retail Feels \u2018Something Is Cooking\u2019",
           "url": "https://finance.yahoo.com/markets/stocks/articles/smr-stock-clocks-best-day-012351366.html",
           "publisher": "Stocktwits",
@@ -1703,40 +1683,6 @@
           "url": "https://finance.yahoo.com/energy/articles/jim-cramer-weighs-ge-vernova-230639655.html",
           "publisher": "Insider Monkey",
           "published": "2026-09-08T23:06:39Z"
-        },
-        {
-          "title": "NuScale Power Stock Broke Out in August. Is It a Buy?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nuscale-power-stock-broke-august-163958159.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-08T16:39:58Z"
-        }
-      ]
-    },
-    {
-      "symbol": "UUUU",
-      "name": "Energy Fuels",
-      "price": 14.62,
-      "previous_close": 14.47,
-      "change_pct": 1.04,
-      "market_cap": 3870989592.3390694,
-      "headlines": [
-        {
-          "title": "Energy Fuels (UUUU) Rises As Market Takes a Dip: Key Facts",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/energy-fuels-uuuu-rises-market-214507343.html",
-          "publisher": "Zacks",
-          "published": "2026-09-08T21:45:07Z"
-        },
-        {
-          "title": "Energy Fuels' Q2 Loss Widens: Is a Recovery on the Horizon?",
-          "url": "https://finance.yahoo.com/energy/articles/energy-fuels-q2-loss-widens-165700473.html",
-          "publisher": "Zacks",
-          "published": "2026-09-04T16:57:00Z"
-        },
-        {
-          "title": "Why Is Energy Fuels (UUUU) Up 11.2% Since Last Earnings Report?",
-          "url": "https://finance.yahoo.com/energy/articles/why-energy-fuels-uuuu-11-153021925.html",
-          "publisher": "Zacks",
-          "published": "2026-09-04T15:30:21Z"
         }
       ]
     },
@@ -1765,6 +1711,34 @@
           "url": "https://finance.yahoo.com/energy/articles/energy-fuels-q2-revenues-surge-180000222.html",
           "publisher": "Zacks",
           "published": "2026-09-02T18:00:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "UUUU",
+      "name": "Energy Fuels",
+      "price": 14.62,
+      "previous_close": 14.47,
+      "change_pct": 1.04,
+      "market_cap": 3654488271.393776,
+      "headlines": [
+        {
+          "title": "Energy Fuels (UUUU) Rises As Market Takes a Dip: Key Facts",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/energy-fuels-uuuu-rises-market-214507343.html",
+          "publisher": "Zacks",
+          "published": "2026-09-08T21:45:07Z"
+        },
+        {
+          "title": "Energy Fuels' Q2 Loss Widens: Is a Recovery on the Horizon?",
+          "url": "https://finance.yahoo.com/energy/articles/energy-fuels-q2-loss-widens-165700473.html",
+          "publisher": "Zacks",
+          "published": "2026-09-04T16:57:00Z"
+        },
+        {
+          "title": "Why Is Energy Fuels (UUUU) Up 11.2% Since Last Earnings Report?",
+          "url": "https://finance.yahoo.com/energy/articles/why-energy-fuels-uuuu-11-153021925.html",
+          "publisher": "Zacks",
+          "published": "2026-09-04T15:30:21Z"
         }
       ]
     },
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 94.09,
-      "change_pct": 1.14
+      "price": 95.27,
+      "change_pct": 2.41
     },
     {
       "label": "Brent",
-      "price": 99.18,
-      "change_pct": 1.29
+      "price": 100.72,
+      "change_pct": 2.86
     },
     {
       "label": "NatGas",
-      "price": 2.88,
-      "change_pct": -1.23
+      "price": 2.89,
+      "change_pct": -0.93
     }
   ]
 }
