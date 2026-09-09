@@ -1,8 +1,11 @@
 {
-  "as_of_utc": "2026-09-09T20:42:52+00:00",
-  "as_of_local": "2026-09-09 20:42:52 UTC",
+  "as_of_utc": "2026-09-09T20:48:07+00:00",
+  "as_of_local": "2026-09-09 20:48:07 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "BKR",
+    "UEC"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -729,34 +732,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/5-pipeline-stocks-built-money-152845169.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-09-08T15:28:45Z"
-        }
-      ]
-    },
-    {
-      "symbol": "BKR",
-      "name": "Baker Hughes",
-      "price": 63.64,
-      "previous_close": 63.92,
-      "change_pct": -0.44,
-      "market_cap": 63173777272.55983,
-      "headlines": [
-        {
-          "title": "Sector Update: Energy Stocks Gain Late Afternoon",
-          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-gain-afternoon-195617705.html",
-          "publisher": "MT Newswires",
-          "published": "2026-09-09T19:56:17Z"
-        },
-        {
-          "title": "Sector Update: Energy Stocks Gain Wednesday Afternoon",
-          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-gain-wednesday-174508614.html",
-          "publisher": "MT Newswires",
-          "published": "2026-09-09T17:45:08Z"
-        },
-        {
-          "title": "Baker Hughes (BKR) Lands Multi-Year Contract with Pakistan\u2019s OGDC",
-          "url": "https://finance.yahoo.com/energy/articles/baker-hughes-bkr-lands-multi-232500809.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-09-07T23:25:00Z"
         }
       ]
     },
@@ -1629,34 +1604,6 @@
       ]
     },
     {
-      "symbol": "UEC",
-      "name": "Uranium Energy Corp",
-      "price": 11.6,
-      "previous_close": 11.89,
-      "change_pct": -2.44,
-      "market_cap": 5740519634.378826,
-      "headlines": [
-        {
-          "title": "BWX Technologies Already Builds Reactors for the Navy. Why Is It Still the Cheapest Nuclear Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bwx-technologies-already-builds-reactors-132500675.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-06T13:25:00Z"
-        },
-        {
-          "title": "Uranium Energy Rose as Jefferies Started Coverage",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/uranium-energy-rose-jefferies-started-121900247.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-09-03T12:19:00Z"
-        },
-        {
-          "title": "NuScale Advances Key Safety Component Toward SMR Commercialization",
-          "url": "https://finance.yahoo.com/energy/articles/nuscale-advances-key-safety-component-163000127.html",
-          "publisher": "Zacks",
-          "published": "2026-09-02T16:30:00Z"
-        }
-      ]
-    },
-    {
       "symbol": "ENPH",
       "name": "Enphase Energy",
       "price": 36.72,
@@ -2115,18 +2062,18 @@
     },
     {
       "label": "WTI",
-      "price": 96.7,
-      "change_pct": 3.94
+      "price": 96.62,
+      "change_pct": 3.86
     },
     {
       "label": "Brent",
-      "price": 101.65,
-      "change_pct": 3.81
+      "price": 101.58,
+      "change_pct": 3.74
     },
     {
       "label": "NatGas",
       "price": 2.81,
-      "change_pct": -3.7
+      "change_pct": -3.81
     }
   ]
 }
