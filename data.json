@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-09-09T22:59:58+00:00",
-  "as_of_local": "2026-09-09 22:59:58 UTC",
+  "as_of_utc": "2026-09-09T23:05:04+00:00",
+  "as_of_local": "2026-09-09 23:05:04 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "GEV"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -85,34 +87,6 @@
           "url": "https://finance.yahoo.com/energy/articles/could-shell-shel-superior-cash-214318408.html",
           "publisher": "Insider Monkey",
           "published": "2026-09-09T21:43:18Z"
-        }
-      ]
-    },
-    {
-      "symbol": "GEV",
-      "name": "GE Vernova",
-      "price": 951.04,
-      "previous_close": 971.31,
-      "change_pct": -2.09,
-      "market_cap": 253293883022.18378,
-      "headlines": [
-        {
-          "title": "GE Vernova (GEV) Suffers a Larger Drop Than the General Market: Key Insights",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-gev-suffers-larger-220004035.html",
-          "publisher": "Zacks",
-          "published": "2026-09-09T22:00:04Z"
-        },
-        {
-          "title": "Prediction: Bloom Energy Has Limited Upside Despite 223% Year-to-Date Surge",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-bloom-energy-limited-upside-170000614.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-09-09T17:00:00Z"
-        },
-        {
-          "title": "FLNC Stock Trades at a Discount: Should You Buy, Sell or Hold?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/flnc-stock-trades-discount-buy-155500177.html",
-          "publisher": "Zacks",
-          "published": "2026-09-09T15:55:00Z"
         }
       ]
     },
@@ -2115,8 +2089,8 @@
     },
     {
       "label": "WTI",
-      "price": 97.0,
-      "change_pct": 4.27
+      "price": 96.99,
+      "change_pct": 4.26
     },
     {
       "label": "Brent",
@@ -2125,8 +2099,8 @@
     },
     {
       "label": "NatGas",
-      "price": 2.8,
-      "change_pct": -3.84
+      "price": 2.81,
+      "change_pct": -3.77
     }
   ]
 }
