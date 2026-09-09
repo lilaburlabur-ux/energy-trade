@@ -37,8 +37,8 @@ Shell plc operates as an energy and petrochemical company in Europe, Asia, Ocean
 | Headline | Source | Date |
 |---|---|---|
 | Why oil prices are climbing again & what it means for everyday Americans | Yahoo Finance Video | 2026-09-09 |
+| Stock Market Today: Dow Falls 400 Points; Sellers Whack This AI Software Firm | Investor's Business Daily | 2026-09-09 |
 | Sector Update: Energy Stocks Gain Late Afternoon | MT Newswires | 2026-09-09 |
-| Stock Market Today: Dow Cuts Losses; Apple Moves Off Lows, AI Stock Tops Entry (Live Coverage) | Investor's Business Daily | 2026-09-09 |
 | ExxonMobil Is Up 40% in 2026: Can Rising Oil Prices and Strong Earnings Boost XOM Stock to $200? | 24/7 Wall St. | 2026-09-09 |
 
 ## 3. Technical Analysis

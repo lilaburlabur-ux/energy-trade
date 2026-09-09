@@ -18,7 +18,7 @@ Signed file: `BKR.research.09.09.2026`
 | Technical momentum | Moderate | 1Y +41.62%; price +9.15% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -8.01% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 11.17%, revenue growth -2.40%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 20.13, EV/Sales 2.27. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 20.08, EV/Sales 2.27. |
 | Risk level | Moderate | Beta 0.96, ATR 2.6% of price, short float 2.74%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: fair-to-demanding, risk: moderate.
@@ -68,7 +68,7 @@ Baker Hughes Company provides a portfolio of technologies and services to energy
 | Revenue (ttm) | $27.73B | Revenue growth -2.40% y/y |
 | Profitability | Gross 23.66%, operating 12.83%, net 11.17% | ROA 4.85%, ROE 16.46% |
 | Balance sheet | Cash $17.02B, debt $16.25B | Current ratio 2.10, debt/equity 80.92 |
-| Valuation | P/E 20.46, forward P/E 20.13, P/S 2.28, P/B 3.17 | EV/Sales 2.27, EV/EBITDA 12.99 |
+| Valuation | P/E 20.46, forward P/E 20.08, P/S 2.28, P/B 3.17 | EV/Sales 2.27, EV/EBITDA 12.99 |
 | Growth expectations | Earnings growth -4.20%, EPS q/q -2.90% | Analyst mean target $72.13 (23 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ Baker Hughes Company provides a portfolio of technologies and services to energy
 | Capital Research Global Investors | 22,032,387 | 2.66% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 20.13, EV/Sales 2.27. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 20.08, EV/Sales 2.27. Multiple compression is the main downside if growth disappoints.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -121,7 +121,7 @@ Baker Hughes Company provides a portfolio of technologies and services to energy
 | 52W high | $69.18 | Revenue growth y/y | -2.40% |
 | 52W low | $43.79 | Inst. ownership | 100.16% |
 | P/E (ttm) | 20.46 | Insider ownership | 0.15% |
-| Forward P/E | 20.13 | Short float | 2.74% |
+| Forward P/E | 20.08 | Short float | 2.74% |
 | PEG (trailing) | 1.78 | Avg volume | 8,250,550 |
 | P/S | 2.28 | Employees | 54,000 |
 | P/B | 3.17 | Analyst rec (1=buy..5=sell) | 1.7 |

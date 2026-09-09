@@ -36,7 +36,7 @@
 | MPLX | $61.12B | +30% | 12.4 | 39% | Moderate | Reasonable | Moderate |
 | MPC | $116.61B | +124% | 12.2 | 6% | High | Reasonable | Moderate |
 | PSX | $104.06B | +106% | 12.2 | 5% | High | Reasonable | Moderate |
-| VLO | $111.99B | +152% | 12.1 | 5% | High | Reasonable | Moderate |
+| VLO | $111.99B | +152% | 11.9 | 5% | High | Reasonable | Moderate |
 | DINO | $19.23B | +119% | 10.8 | 6% | High | Reasonable | Elevated |
 | CCJ | $43.73B | +30% | 52.9 | 10% | Low | Low (expensive) | Elevated |
 | CEG | $104.13B | -1% | 22.0 | 11% | Low | Fair-to-demanding | Elevated |

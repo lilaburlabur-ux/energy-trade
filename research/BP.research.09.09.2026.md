@@ -36,10 +36,10 @@ BP p.l.c., an integrated energy company, engages in the oil and gas business wor
 
 | Headline | Source | Date |
 |---|---|---|
+| Top Analyst Reports for Eli Lilly, Palo Alto Networks & Texas Instruments | Zacks | 2026-09-09 |
 | Sector Update: Energy Stocks Gain Late Afternoon | MT Newswires | 2026-09-09 |
 | ExxonMobil Is Up 40% in 2026: Can Rising Oil Prices and Strong Earnings Boost XOM Stock to $200? | 24/7 Wall St. | 2026-09-09 |
 | Sector Update: Energy Stocks Gain Wednesday Afternoon | MT Newswires | 2026-09-09 |
-| BP (BP) is a Great Momentum Stock: Should You Buy? | Zacks | 2026-09-09 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
