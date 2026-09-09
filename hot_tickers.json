@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-09T16:39:54+00:00",
+  "as_of": "2026-09-09T16:53:15+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,9 +11,9 @@
    "rank": 1,
    "ticker": "VRT",
    "company": "Vertiv Holdings, LLC",
-   "move_pct": -8.41,
-   "price": 266.38,
-   "volume": 3936618,
+   "move_pct": -8.33,
+   "price": 266.6,
+   "volume": 4105892,
    "volume_vs_avg": "~0.7x",
    "heat_score": 58,
    "direction": "down",
