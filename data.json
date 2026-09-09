@@ -1,10 +1,9 @@
 {
-  "as_of_utc": "2026-09-09T12:52:20+00:00",
-  "as_of_local": "2026-09-09 12:52:20 UTC",
+  "as_of_utc": "2026-09-09T12:57:37+00:00",
+  "as_of_local": "2026-09-09 12:57:37 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "PSX",
-    "VLO"
+    "FSLR"
   ],
   "stocks": [
     {
@@ -268,22 +267,22 @@
       "market_cap": 115581364636.20233,
       "headlines": [
         {
+          "title": "Update: US Equity Futures Fall Pre-Bell as Brent Crude Surpasses $100 per Barrel",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-fall-pre-124959546.html",
+          "publisher": "MT Newswires",
+          "published": "2026-09-09T12:49:59Z"
+        },
+        {
+          "title": "Best Value Stocks to Buy for September 9th",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/best-value-stocks-buy-september-124700196.html",
+          "publisher": "Zacks",
+          "published": "2026-09-09T12:47:00Z"
+        },
+        {
           "title": "Best Income Stocks to Buy for September 9th",
           "url": "https://finance.yahoo.com/markets/stocks/articles/best-income-stocks-buy-september-103300545.html",
           "publisher": "Zacks",
           "published": "2026-09-09T10:33:00Z"
-        },
-        {
-          "title": "New Strong Buy Stocks for September 9th",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/strong-buy-stocks-september-9th-084200429.html",
-          "publisher": "Zacks",
-          "published": "2026-09-09T08:42:00Z"
-        },
-        {
-          "title": "BP (BP) Ascends While Market Falls: Some Facts to Note",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bp-bp-ascends-while-market-220002964.html",
-          "publisher": "Zacks",
-          "published": "2026-09-08T22:00:02Z"
         }
       ]
     },
@@ -316,6 +315,34 @@
       ]
     },
     {
+      "symbol": "VLO",
+      "name": "Valero Energy",
+      "price": 382.85,
+      "previous_close": 370.72,
+      "change_pct": 3.27,
+      "market_cap": 110233030201.21976,
+      "headlines": [
+        {
+          "title": "Trump oil and gas holdings gained up to $4.4M during Iran war",
+          "url": "https://finance.yahoo.com/energy/articles/trump-oil-gas-holdings-gained-115846187.html",
+          "publisher": "Quartz",
+          "published": "2026-09-09T11:58:46Z"
+        },
+        {
+          "title": "Eni Partners With PETRONAS to Explore New Bio-Gasoline Production",
+          "url": "https://finance.yahoo.com/energy/articles/eni-partners-petronas-explore-bio-143200912.html",
+          "publisher": "Zacks",
+          "published": "2026-09-08T14:32:00Z"
+        },
+        {
+          "title": "Keep Portfolio Volatility in Check With VLO, PBF, FET & DCTH",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/keep-portfolio-volatility-check-vlo-134100644.html",
+          "publisher": "Zacks",
+          "published": "2026-09-08T13:41:00Z"
+        }
+      ]
+    },
+    {
       "symbol": "CEG",
       "name": "Constellation Energy",
       "price": 299.05,
@@ -340,6 +367,34 @@
           "url": "https://finance.yahoo.com/energy/articles/google-revived-nuclear-power-plant-152535672.html",
           "publisher": "TechCrunch",
           "published": "2026-09-08T15:25:35Z"
+        }
+      ]
+    },
+    {
+      "symbol": "PSX",
+      "name": "Phillips 66",
+      "price": 259.14,
+      "previous_close": 255.09,
+      "change_pct": 1.59,
+      "market_cap": 103402286017.27295,
+      "headlines": [
+        {
+          "title": "Trump oil and gas holdings gained up to $4.4M during Iran war",
+          "url": "https://finance.yahoo.com/energy/articles/trump-oil-gas-holdings-gained-115846187.html",
+          "publisher": "Quartz",
+          "published": "2026-09-09T11:58:46Z"
+        },
+        {
+          "title": "Top Stock Reports for Oracle, Merck & Union Pacific",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/top-stock-reports-oracle-merck-231300457.html",
+          "publisher": "Zacks",
+          "published": "2026-09-08T23:13:00Z"
+        },
+        {
+          "title": "New Strong Buy Stocks for September 8th",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/strong-buy-stocks-september-8th-100000173.html",
+          "publisher": "Zacks",
+          "published": "2026-09-08T10:00:00Z"
         }
       ]
     },
@@ -1180,34 +1235,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/hubbell-incs-dividend-analysis-110536644.html",
           "publisher": "GuruFocus.com",
           "published": "2026-08-31T11:05:36Z"
-        }
-      ]
-    },
-    {
-      "symbol": "FSLR",
-      "name": "First Solar",
-      "price": 213.25,
-      "previous_close": 204.45,
-      "change_pct": 4.3,
-      "market_cap": 22917932291.0,
-      "headlines": [
-        {
-          "title": "Enphase Energy Rises 5% as Solid-State Transformer Modules Enter Texas Production, SolarEdge Jumps 6%",
-          "url": "https://finance.yahoo.com/energy/articles/enphase-energy-rises-5-solid-164923843.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-09-08T16:49:23Z"
-        },
-        {
-          "title": "Which Solar Stock Has Dominated in 2026: SolarEdge, Enphase Energy, or First Solar?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/solar-stock-dominated-2026-solaredge-143043029.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-09-07T14:30:43Z"
-        },
-        {
-          "title": "Barclays sees a $3.6 trillion annual investment opportunity in this sector",
-          "url": "https://finance.yahoo.com/energy/articles/barclays-sees-3-6-trillion-082816148.html",
-          "publisher": "Investing.com",
-          "published": "2026-09-05T08:28:16Z"
         }
       ]
     },
@@ -2062,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 95.93,
-      "change_pct": 3.12
+      "price": 95.79,
+      "change_pct": 2.97
     },
     {
       "label": "Brent",
-      "price": 100.83,
-      "change_pct": 2.97
+      "price": 100.78,
+      "change_pct": 2.92
     },
     {
       "label": "NatGas",
       "price": 2.85,
-      "change_pct": -2.19
+      "change_pct": -2.33
     }
   ]
 }
