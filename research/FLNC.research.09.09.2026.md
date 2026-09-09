@@ -79,6 +79,21 @@ Fluence Energy, Inc., through its subsidiaries, provides energy storage and opti
 | Short float | 33.35% |
 | Short ratio (days to cover) | 3.2 |
 
+**Top institutional holders:**
+
+| Holder | Shares | % Out | Reported |
+|---|---|---|---|
+| Siemens Pension Trust E.V. | 21,694,717 | 15.15% | 2026-06-30 |
+| Siemens Ag | 19,738,064 | 13.79% | 2026-06-30 |
+| Blackrock Inc. | 7,409,061 | 5.18% | 2026-06-30 |
+| Two Sigma Investments, LP | 5,338,779 | 3.73% | 2026-06-30 |
+| Vanguard Portfolio Management LLC | 3,656,312 | 2.55% | 2026-06-30 |
+| Vanguard Capital Management LLC | 3,589,624 | 2.51% | 2026-06-30 |
+| Driehaus Capital Management, LLC | 3,575,964 | 2.50% | 2026-06-30 |
+| Morgan Stanley | 3,201,307 | 2.24% | 2026-06-30 |
+| Shaw D.E. & Co., Inc. | 3,194,735 | 2.23% | 2026-06-30 |
+| State Street Corporation | 2,627,213 | 1.84% | 2026-06-30 |
+
 ## 6. Risk Review and Setup Plan
 - **Valuation risk:** Forward P/E 79.09, EV/Sales 0.65. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 2.74, ATR 8.4% of price, short float 33.35%. Size positions accordingly.

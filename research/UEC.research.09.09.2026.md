@@ -69,7 +69,7 @@ Uranium Energy Corp., together with its subsidiaries, engages in exploration, pr
 | Profitability | Gross 0.00%, operating -629.66%, net 0.00% | ROA -6.25%, ROE -8.96% |
 | Balance sheet | Cash $488.05M, debt $1.91M | Current ratio 32.67, debt/equity 0.14 |
 | Valuation | P/E —, forward P/E -128.89, P/S 284.18, P/B 4.03 | EV/Sales 267.22, EV/EBITDA -44.70 |
-| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $17.38 (10 analysts) |
+| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $18.03 (9 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
@@ -126,7 +126,7 @@ Uranium Energy Corp., together with its subsidiaries, engages in exploration, pr
 | Forward P/E | -128.89 | Short float | 14.55% |
 | PEG (trailing) | — | Avg volume | 9,134,325 |
 | P/S | 284.18 | Employees | 171 |
-| P/B | 4.03 | Analyst rec (1=buy..5=sell) | 1.6 |
+| P/B | 4.03 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
