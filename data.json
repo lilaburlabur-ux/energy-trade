@@ -1,8 +1,11 @@
 {
-  "as_of_utc": "2026-09-09T20:27:54+00:00",
-  "as_of_local": "2026-09-09 20:27:54 UTC",
+  "as_of_utc": "2026-09-09T20:33:04+00:00",
+  "as_of_local": "2026-09-09 20:33:04 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "CEG",
+    "SO"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -181,6 +184,12 @@
       "market_cap": 166333679288.5347,
       "headlines": [
         {
+          "title": "Stocks Pressured as Inflation Fears Boost Bond Yields",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-pressured-inflation-fears-boost-142039912.html",
+          "publisher": "Barchart",
+          "published": "2026-09-09T14:20:39Z"
+        },
+        {
           "title": "Trump oil and gas holdings gained up to $4.4M during Iran war",
           "url": "https://finance.yahoo.com/energy/articles/trump-oil-gas-holdings-gained-115846187.html",
           "publisher": "Quartz",
@@ -191,12 +200,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/2-cash-producing-stocks-research-214318492.html",
           "publisher": "StockStory",
           "published": "2026-09-08T21:43:18Z"
-        },
-        {
-          "title": "Chevron Stock Is Near a Record High. Here\u2019s Why the Rally May Not Be Over",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/chevron-stock-near-record-high-123048571.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-09-08T12:30:48Z"
         }
       ]
     },
@@ -277,10 +280,10 @@
           "published": "2026-09-09T16:00:04Z"
         },
         {
-          "title": "Trump oil and gas holdings gained up to $4.4M during Iran war",
-          "url": "https://finance.yahoo.com/energy/articles/trump-oil-gas-holdings-gained-115846187.html",
-          "publisher": "Quartz",
-          "published": "2026-09-09T11:58:46Z"
+          "title": "Stocks Pressured as Inflation Fears Boost Bond Yields",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-pressured-inflation-fears-boost-142039912.html",
+          "publisher": "Barchart",
+          "published": "2026-09-09T14:20:39Z"
         }
       ]
     },
@@ -341,34 +344,6 @@
       ]
     },
     {
-      "symbol": "CEG",
-      "name": "Constellation Energy",
-      "price": 293.9,
-      "previous_close": 299.05,
-      "change_pct": -1.72,
-      "market_cap": 104132709792.49088,
-      "headlines": [
-        {
-          "title": "Vistra Has Edged Lower Throughout 2026: One Bank Says It\u2019s On The Verge of Doubling",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-edged-lower-throughout-2026-112610310.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-09-09T11:26:10Z"
-        },
-        {
-          "title": "Constellation Energy's Biggest AI Power Deal Doesn't Start Paying Until June 2027",
-          "url": "https://finance.yahoo.com/energy/articles/constellation-energys-biggest-ai-power-235801730.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-08T23:58:01Z"
-        },
-        {
-          "title": "Google\u2019s revived nuclear power plant gets $1.9B loan from US government",
-          "url": "https://finance.yahoo.com/energy/articles/google-revived-nuclear-power-plant-152535672.html",
-          "publisher": "TechCrunch",
-          "published": "2026-09-08T15:25:35Z"
-        }
-      ]
-    },
-    {
       "symbol": "PSX",
       "name": "Phillips 66",
       "price": 260.78,
@@ -393,34 +368,6 @@
           "url": "https://finance.yahoo.com/energy/articles/trump-oil-gas-holdings-gained-115846187.html",
           "publisher": "Quartz",
           "published": "2026-09-09T11:58:46Z"
-        }
-      ]
-    },
-    {
-      "symbol": "SO",
-      "name": "Southern Company",
-      "price": 88.34,
-      "previous_close": 88.99,
-      "change_pct": -0.73,
-      "market_cap": 101623060203.685,
-      "headlines": [
-        {
-          "title": "KEEL Stock On Track To Break 4-Day Rally: PowerSecure AI Data Center Deal Fails To Prevent Pull Back",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/keel-stock-track-break-4-162631290.html",
-          "publisher": "Stocktwits",
-          "published": "2026-09-09T16:26:31Z"
-        },
-        {
-          "title": "Here's Why a Hold Strategy Is Apt for Southern Company Stock Now",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/heres-why-hold-strategy-apt-130500149.html",
-          "publisher": "Zacks",
-          "published": "2026-09-08T13:05:00Z"
-        },
-        {
-          "title": "XLU\u2019s AI Power Story Crumbles as Texas Freezes Data-Center Demand",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/xlu-ai-power-story-crumbles-142205667.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-09-07T14:22:05Z"
         }
       ]
     },
@@ -573,6 +520,12 @@
       "market_cap": 84670370196.23857,
       "headlines": [
         {
+          "title": "Stocks Pressured as Inflation Fears Boost Bond Yields",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-pressured-inflation-fears-boost-142039912.html",
+          "publisher": "Barchart",
+          "published": "2026-09-09T14:20:39Z"
+        },
+        {
           "title": "CEO of Legendary Energy Stock Sells 5,000 Shares for $300,000",
           "url": "https://finance.yahoo.com/markets/stocks/articles/ceo-legendary-energy-stock-sells-144001966.html",
           "publisher": "Motley Fool",
@@ -583,12 +536,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/slb-bets-4-1-billion-202013359.html",
           "publisher": "Insider Monkey",
           "published": "2026-09-07T20:19:27Z"
-        },
-        {
-          "title": "Is SLB Stock Underperforming the S&P 500?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/slb-stock-underperforming-p-500-065214396.html",
-          "publisher": "Barchart",
-          "published": "2026-09-07T06:52:14Z"
         }
       ]
     },
@@ -753,10 +700,10 @@
           "published": "2026-09-09T17:45:08Z"
         },
         {
-          "title": "Baker Hughes (BKR) Lands Multi-Year Contract with Pakistan\u2019s OGDC",
-          "url": "https://finance.yahoo.com/energy/articles/baker-hughes-bkr-lands-multi-232500809.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-09-07T23:25:00Z"
+          "title": "Stocks Pressured as Inflation Fears Boost Bond Yields",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-pressured-inflation-fears-boost-142039912.html",
+          "publisher": "Barchart",
+          "published": "2026-09-09T14:20:39Z"
         }
       ]
     },
@@ -797,6 +744,12 @@
       "market_cap": 61277770079.63721,
       "headlines": [
         {
+          "title": "Stocks Pressured as Inflation Fears Boost Bond Yields",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-pressured-inflation-fears-boost-142039912.html",
+          "publisher": "Barchart",
+          "published": "2026-09-09T14:20:39Z"
+        },
+        {
           "title": "Trump oil and gas holdings gained up to $4.4M during Iran war",
           "url": "https://finance.yahoo.com/energy/articles/trump-oil-gas-holdings-gained-115846187.html",
           "publisher": "Quartz",
@@ -807,12 +760,6 @@
           "url": "https://finance.yahoo.com/energy/articles/forget-occidental-petroleum-buy-pipeline-173500134.html",
           "publisher": "Motley Fool",
           "published": "2026-09-08T17:35:00Z"
-        },
-        {
-          "title": "Is Occidental Petroleum Stock Outperforming the Nasdaq?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/occidental-petroleum-stock-outperforming-nasdaq-144429014.html",
-          "publisher": "Barchart",
-          "published": "2026-09-07T14:44:29Z"
         }
       ]
     },
@@ -943,16 +890,16 @@
           "published": "2026-09-09T15:29:00Z"
         },
         {
+          "title": "Stocks Pressured as Inflation Fears Boost Bond Yields",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-pressured-inflation-fears-boost-142039912.html",
+          "publisher": "Barchart",
+          "published": "2026-09-09T14:20:39Z"
+        },
+        {
           "title": "2 Value Stocks with Impressive Fundamentals and 1 Facing Challenges",
           "url": "https://finance.yahoo.com/markets/stocks/articles/2-value-stocks-impressive-fundamentals-231918296.html",
           "publisher": "StockStory",
           "published": "2026-09-08T23:19:18Z"
-        },
-        {
-          "title": "Iran Just Raised the Stakes in the Gulf\u2014These 5 Stocks Stand to Benefit",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/iran-just-raised-stakes-gulf-141323681.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-09-08T14:13:23Z"
         }
       ]
     },
@@ -965,6 +912,12 @@
       "market_cap": 53877999496.45996,
       "headlines": [
         {
+          "title": "Stocks Pressured as Inflation Fears Boost Bond Yields",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-pressured-inflation-fears-boost-142039912.html",
+          "publisher": "Barchart",
+          "published": "2026-09-09T14:20:39Z"
+        },
+        {
           "title": "Permian Resources (PR) Up 17.1% Since Last Earnings Report: Can It Continue?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/permian-resources-pr-17-1-153022360.html",
           "publisher": "Zacks",
@@ -975,12 +928,6 @@
           "url": "https://finance.yahoo.com/energy/articles/goldman-energy-dividend-picks-why-013009416.html",
           "publisher": "Insider Monkey",
           "published": "2026-09-04T01:30:09Z"
-        },
-        {
-          "title": "Devon Energy (DVN) Up 16.5% Since Last Earnings Report: Can It Continue?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/devon-energy-dvn-16-5-153011675.html",
-          "publisher": "Zacks",
-          "published": "2026-09-03T15:30:11Z"
         }
       ]
     },
@@ -1133,6 +1080,12 @@
       "market_cap": 30934131416.589237,
       "headlines": [
         {
+          "title": "Stocks Pressured as Inflation Fears Boost Bond Yields",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-pressured-inflation-fears-boost-142039912.html",
+          "publisher": "Barchart",
+          "published": "2026-09-09T14:20:39Z"
+        },
+        {
           "title": "Barclays sees a $3.6 trillion annual investment opportunity in this sector",
           "url": "https://finance.yahoo.com/energy/articles/barclays-sees-3-6-trillion-082816148.html",
           "publisher": "Investing.com",
@@ -1143,12 +1096,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/halliburton-hal-rises-higher-market-221502276.html",
           "publisher": "Zacks",
           "published": "2026-09-02T22:15:02Z"
-        },
-        {
-          "title": "Striking Oil: How the U.S. Play for Venezuela Fuels Supermajors",
-          "url": "https://finance.yahoo.com/energy/articles/striking-oil-u-play-venezuela-175500812.html",
-          "publisher": "MarketBeat",
-          "published": "2026-09-02T17:55:00Z"
         }
       ]
     },
@@ -1357,6 +1304,12 @@
       "market_cap": 15709761761.859398,
       "headlines": [
         {
+          "title": "Stocks Pressured as Inflation Fears Boost Bond Yields",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-pressured-inflation-fears-boost-142039912.html",
+          "publisher": "Barchart",
+          "published": "2026-09-09T14:20:39Z"
+        },
+        {
           "title": "Eni (E) Bets Big on Uruguay with Stakes in Two Offshore Blocks",
           "url": "https://finance.yahoo.com/energy/articles/eni-e-bets-big-uruguay-232640086.html",
           "publisher": "Insider Monkey",
@@ -1367,12 +1320,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/apa-apa-20-9-since-153024526.html",
           "publisher": "Zacks",
           "published": "2026-09-04T15:30:24Z"
-        },
-        {
-          "title": "2 Value Stocks on Our Watchlist and 1 We Find Risky",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/2-value-stocks-watchlist-1-105020821.html",
-          "publisher": "StockStory",
-          "published": "2026-09-01T10:50:20Z"
         }
       ]
     },
@@ -2115,18 +2062,18 @@
     },
     {
       "label": "WTI",
-      "price": 96.85,
-      "change_pct": 4.11
+      "price": 96.84,
+      "change_pct": 4.1
     },
     {
       "label": "Brent",
-      "price": 101.64,
-      "change_pct": 3.8
+      "price": 101.66,
+      "change_pct": 3.82
     },
     {
       "label": "NatGas",
       "price": 2.81,
-      "change_pct": -3.6
+      "change_pct": -3.7
     }
   ]
 }
