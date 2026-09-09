@@ -1,12 +1,8 @@
 {
-  "as_of_utc": "2026-09-09T23:40:46+00:00",
-  "as_of_local": "2026-09-09 23:40:46 UTC",
+  "as_of_utc": "2026-09-09T23:45:48+00:00",
+  "as_of_local": "2026-09-09 23:45:48 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "COP",
-    "EQT",
-    "AR"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -173,6 +169,34 @@
           "url": "https://finance.yahoo.com/energy/articles/vsts-diversified-power-generation-fleet-155600067.html",
           "publisher": "Zacks",
           "published": "2026-09-09T15:56:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "COP",
+      "name": "ConocoPhillips",
+      "price": 136.53,
+      "previous_close": 135.04,
+      "change_pct": 1.1,
+      "market_cap": 166333679288.5347,
+      "headlines": [
+        {
+          "title": "Trump oil and gas holdings gained up to $4.4M during Iran war",
+          "url": "https://finance.yahoo.com/energy/articles/trump-oil-gas-holdings-gained-115846187.html",
+          "publisher": "Quartz",
+          "published": "2026-09-09T11:58:46Z"
+        },
+        {
+          "title": "2 Cash-Producing Stocks to Research Further and 1 We Avoid",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/2-cash-producing-stocks-research-214318492.html",
+          "publisher": "StockStory",
+          "published": "2026-09-08T21:43:18Z"
+        },
+        {
+          "title": "Chevron Stock Is Near a Record High. Here\u2019s Why the Rally May Not Be Over",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/chevron-stock-near-record-high-123048571.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-09-08T12:30:48Z"
         }
       ]
     },
@@ -1073,6 +1097,34 @@
       ]
     },
     {
+      "symbol": "EQT",
+      "name": "EQT Corp",
+      "price": 54.63,
+      "previous_close": 55.12,
+      "change_pct": -0.89,
+      "market_cap": 34171939748.12317,
+      "headlines": [
+        {
+          "title": "Why Is EOG Resources (EOG) Up 11% Since Last Earnings Report?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-eog-resources-eog-11-153012782.html",
+          "publisher": "Zacks",
+          "published": "2026-09-03T15:30:12Z"
+        },
+        {
+          "title": "EQT (EQT): 3 Reasons We Love This Stock",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/eqt-eqt-3-reasons-love-163824978.html",
+          "publisher": "StockStory",
+          "published": "2026-08-31T16:38:24Z"
+        },
+        {
+          "title": "Comstock (CRK) Up 15.1% Since Last Earnings Report: Can It Continue?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/comstock-crk-15-1-since-153005516.html",
+          "publisher": "Zacks",
+          "published": "2026-08-28T15:30:05Z"
+        }
+      ]
+    },
+    {
       "symbol": "HAL",
       "name": "Halliburton",
       "price": 37.13,
@@ -1405,6 +1457,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/nextpower-nxt-outpaces-stock-market-214502933.html",
           "publisher": "Zacks",
           "published": "2026-09-03T21:45:02Z"
+        }
+      ]
+    },
+    {
+      "symbol": "AR",
+      "name": "Antero Resources",
+      "price": 39.12,
+      "previous_close": 39.08,
+      "change_pct": 0.1,
+      "market_cap": 12027013351.61972,
+      "headlines": [
+        {
+          "title": "Antero Resources (AR) Stock Looks Like A Bargain On Earnings",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/antero-resources-ar-stock-looks-001357158.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-09-06T00:13:57Z"
+        },
+        {
+          "title": "Why Is W&T (WTI) Up 16.5% Since Last Earnings Report?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-w-t-wti-16-153035625.html",
+          "publisher": "Zacks",
+          "published": "2026-09-04T15:30:35Z"
+        },
+        {
+          "title": "1 Growth Stock Set to Flourishand 2 That Underwhelm",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/1-growth-stock-set-flourishand-135918627.html",
+          "publisher": "StockStory",
+          "published": "2026-09-03T13:59:18Z"
         }
       ]
     },
@@ -2035,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 97.1,
-      "change_pct": 4.37
+      "price": 97.13,
+      "change_pct": 4.41
     },
     {
       "label": "Brent",
-      "price": 102.11,
-      "change_pct": 4.28
+      "price": 102.05,
+      "change_pct": 4.22
     },
     {
       "label": "NatGas",
       "price": 2.81,
-      "change_pct": -3.77
+      "change_pct": -3.74
     }
   ]
 }
