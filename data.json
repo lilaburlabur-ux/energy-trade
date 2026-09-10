@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-09-10T06:08:54+00:00",
-  "as_of_local": "2026-09-10 06:08:54 UTC",
+  "as_of_utc": "2026-09-10T06:23:52+00:00",
+  "as_of_local": "2026-09-10 06:23:52 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "OKLO"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1519,6 +1517,34 @@
       ]
     },
     {
+      "symbol": "OKLO",
+      "name": "Oklo",
+      "price": 42.57,
+      "previous_close": 43.31,
+      "change_pct": -1.71,
+      "market_cap": 7918771303.731918,
+      "headlines": [
+        {
+          "title": "OKLO Stock Slips Overnight: This Analyst Sees 29% Upside, But Retail Turns Bearish",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/oklo-stock-slips-overnight-analyst-035748717.html",
+          "publisher": "Stocktwits",
+          "published": "2026-09-10T03:57:48Z"
+        },
+        {
+          "title": "Oklo Trades at $43. Wall Street's Average Target Is $75. Here's What I Think It's Actually Worth.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/oklo-trades-43-wall-streets-194000567.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-09T19:40:00Z"
+        },
+        {
+          "title": "Uber initiated, Thermo Fisher upgraded: Wall Street's top analyst calls",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-upgraded-okta-downgraded-134312557.html",
+          "publisher": "The Fly",
+          "published": "2026-09-09T13:51:16Z"
+        }
+      ]
+    },
+    {
       "symbol": "NOV",
       "name": "NOV Inc",
       "price": 21.52,
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 95.65,
-      "change_pct": -0.42
+      "price": 95.52,
+      "change_pct": -0.55
     },
     {
       "label": "Brent",
-      "price": 100.48,
-      "change_pct": -0.72
+      "price": 100.4,
+      "change_pct": -0.8
     },
     {
       "label": "NatGas",
-      "price": 2.79,
-      "change_pct": -1.06
+      "price": 2.78,
+      "change_pct": -1.38
     }
   ]
 }
