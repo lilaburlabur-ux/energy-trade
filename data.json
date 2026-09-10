@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-10T11:54:22+00:00",
-  "as_of_local": "2026-09-10 11:54:22 UTC",
+  "as_of_utc": "2026-09-10T11:59:11+00:00",
+  "as_of_local": "2026-09-10 11:59:11 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -209,6 +209,12 @@
       "market_cap": 161271448474.1211,
       "headlines": [
         {
+          "title": "Vertiv Has Cooled For 3 Months: A Wall Street Strategist Says It Will Rebound 45% Very Soon",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/vertiv-cooled-3-months-wall-114456669.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-09-10T11:44:56Z"
+        },
+        {
           "title": "Eaton (ETN) Suffers a Larger Drop Than the General Market: Key Insights",
           "url": "https://finance.yahoo.com/markets/stocks/articles/eaton-etn-suffers-larger-drop-215004943.html",
           "publisher": "Zacks",
@@ -219,12 +225,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/eaton-vs-vertiv-industrials-stock-130501410.html",
           "publisher": "Motley Fool",
           "published": "2026-09-09T13:05:01Z"
-        },
-        {
-          "title": "Here Are Tuesday\u2019s Top Wall Street Analyst Research Calls: Amgen, Baidu, Best Buy, Circle Internet, Corning, Intel, Lockheed Martin SpaceX, TeraWulf and More",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/tuesday-top-wall-street-analyst-121528209.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-09-08T12:15:28Z"
         }
       ]
     },
@@ -1217,6 +1217,12 @@
       "market_cap": 24037234892.362885,
       "headlines": [
         {
+          "title": "Vertiv Has Cooled For 3 Months: A Wall Street Strategist Says It Will Rebound 45% Very Soon",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/vertiv-cooled-3-months-wall-114456669.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-09-10T11:44:56Z"
+        },
+        {
           "title": "Eaton Stock Looks Expensive Until You Price The Factory Ramp",
           "url": "https://finance.yahoo.com/markets/stocks/articles/eaton-stock-looks-expensive-until-222901628.html",
           "publisher": "Trefis",
@@ -1227,12 +1233,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/power-utility-demand-boost-nvent-141700911.html",
           "publisher": "Zacks",
           "published": "2026-09-03T14:17:00Z"
-        },
-        {
-          "title": "Hubbell Inc's Dividend Analysis",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/hubbell-incs-dividend-analysis-110536644.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-08-31T11:05:36Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 97.46,
-      "change_pct": 1.47
+      "price": 97.49,
+      "change_pct": 1.5
     },
     {
       "label": "Brent",
-      "price": 102.4,
-      "change_pct": 1.18
+      "price": 102.42,
+      "change_pct": 1.2
     },
     {
       "label": "NatGas",
       "price": 2.8,
-      "change_pct": -0.96
+      "change_pct": -0.74
     }
   ]
 }
