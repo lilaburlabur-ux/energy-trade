@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-10T20:57:40+00:00",
-  "as_of_local": "2026-09-10 20:57:40 UTC",
+  "as_of_utc": "2026-09-10T21:02:17+00:00",
+  "as_of_local": "2026-09-10 21:02:17 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -41,6 +41,12 @@
       "market_cap": 417350701800.8314,
       "headlines": [
         {
+          "title": "This Is the First Oil Dividend Stock I'd Buy in September",
+          "url": "https://finance.yahoo.com/energy/articles/first-oil-dividend-stock-id-205000257.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-10T20:50:00Z"
+        },
+        {
           "title": "Stock Market Today: Dow Drops 300 Points As Oil, Yields Pop; Nvidia Slides While Apple Gains",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-inflation-data-nvidia-chipmaker-tsmc/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
@@ -51,12 +57,6 @@
           "url": "https://www.barrons.com/articles/oil-energy-stocks-dividends-10a8c73e?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
           "published": "2026-09-10T17:01:00Z"
-        },
-        {
-          "title": "ExxonMobil Stock at a Premium: Opportunity or Reason to Stay Cautious?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/exxonmobil-stock-premium-opportunity-reason-151000910.html",
-          "publisher": "Zacks",
-          "published": "2026-09-10T15:10:00Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 103.81,
-      "change_pct": 8.08
+      "price": 103.86,
+      "change_pct": 8.13
     },
     {
       "label": "Brent",
-      "price": 108.93,
-      "change_pct": 7.63
+      "price": 108.88,
+      "change_pct": 7.58
     },
     {
       "label": "NatGas",
       "price": 2.84,
-      "change_pct": 0.6
+      "change_pct": 0.67
     }
   ]
 }
