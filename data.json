@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-10T08:04:18+00:00",
-  "as_of_local": "2026-09-10 08:04:18 UTC",
+  "as_of_utc": "2026-09-10T08:09:19+00:00",
+  "as_of_local": "2026-09-10 08:09:19 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -629,6 +629,12 @@
       "market_cap": 79310323371.34955,
       "headlines": [
         {
+          "title": "The Zacks Analyst Blog Highlights  JPMorgan Chase, EOG Resources and Bloom Energy",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-jpmorgan-075800004.html",
+          "publisher": "Zacks",
+          "published": "2026-09-10T07:58:00Z"
+        },
+        {
           "title": "Bloom Energy Has More Room to Run Amid the AI Supercycle, and Its S&P 500 Inclusion Could Add to the Momentum",
           "url": "https://finance.yahoo.com/energy/articles/bloom-energy-more-room-run-073500780.html",
           "publisher": "Motley Fool",
@@ -639,12 +645,6 @@
           "url": "https://finance.yahoo.com/energy/articles/whys-everyone-talking-bloom-energy-222500792.html",
           "publisher": "Motley Fool",
           "published": "2026-09-09T22:25:00Z"
-        },
-        {
-          "title": "S&P Dow Jones Indices CEO on Index Restructuring",
-          "url": "https://finance.yahoo.com/video/p-dow-jones-indices-ceo-203458306.html",
-          "publisher": "Bloomberg",
-          "published": "2026-09-09T20:34:58Z"
         }
       ]
     },
@@ -657,6 +657,12 @@
       "market_cap": 77111031282.43518,
       "headlines": [
         {
+          "title": "The Zacks Analyst Blog Highlights  JPMorgan Chase, EOG Resources and Bloom Energy",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-jpmorgan-075800004.html",
+          "publisher": "Zacks",
+          "published": "2026-09-10T07:58:00Z"
+        },
+        {
           "title": "Stocks to Consider Before the Fed's September Decision: JPM, EOG, BE",
           "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-consider-feds-september-decision-190000988.html",
           "publisher": "Zacks",
@@ -667,12 +673,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/eog-resources-stock-performance-compared-163919197.html",
           "publisher": "Barchart",
           "published": "2026-09-04T16:39:19Z"
-        },
-        {
-          "title": "Chord Energy Corporation (CHRD) Up 11.7% Since Last Earnings Report: Can It Continue?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/chord-energy-corporation-chrd-11-153036886.html",
-          "publisher": "Zacks",
-          "published": "2026-09-04T15:30:36Z"
         }
       ]
     },
@@ -739,26 +739,7 @@
       "previous_close": 63.92,
       "change_pct": -0.44,
       "market_cap": 63173777272.55983,
-      "headlines": [
-        {
-          "title": "Sector Update: Energy Stocks Gain Late Afternoon",
-          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-gain-afternoon-195617705.html",
-          "publisher": "MT Newswires",
-          "published": "2026-09-09T19:56:17Z"
-        },
-        {
-          "title": "Sector Update: Energy Stocks Gain Wednesday Afternoon",
-          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-gain-wednesday-174508614.html",
-          "publisher": "MT Newswires",
-          "published": "2026-09-09T17:45:08Z"
-        },
-        {
-          "title": "Baker Hughes (BKR) Lands Multi-Year Contract with Pakistan\u2019s OGDC",
-          "url": "https://finance.yahoo.com/energy/articles/baker-hughes-bkr-lands-multi-232500809.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-09-07T23:25:00Z"
-        }
-      ]
+      "headlines": []
     },
     {
       "symbol": "TRGP",
@@ -1607,7 +1588,26 @@
       "previous_close": 93.7,
       "change_pct": -0.68,
       "market_cap": 6654916223.649902,
-      "headlines": []
+      "headlines": [
+        {
+          "title": "Solaris Energy Infrastructure, TETRA Technologies, SLB, and Weatherford Stocks Trade Down, What You Need To Know",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/solaris-energy-infrastructure-tetra-technologies-212220800.html",
+          "publisher": "StockStory",
+          "published": "2026-09-01T21:22:20Z"
+        },
+        {
+          "title": "Weatherford International\u2019s (WFRD) Remarkable Recovery",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/weatherford-international-wfrd-remarkable-recovery-165317884.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-08-27T16:53:17Z"
+        },
+        {
+          "title": "Weatherford (WFRD) Up 5.9% Since Last Earnings Report: Can It Continue?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/weatherford-wfrd-5-9-since-153009328.html",
+          "publisher": "Zacks",
+          "published": "2026-08-20T15:30:09Z"
+        }
+      ]
     },
     {
       "symbol": "UEC",
@@ -2096,13 +2096,13 @@
     },
     {
       "label": "WTI",
-      "price": 96.34,
-      "change_pct": 0.3
+      "price": 96.22,
+      "change_pct": 0.18
     },
     {
       "label": "Brent",
-      "price": 101.37,
-      "change_pct": 0.16
+      "price": 101.24,
+      "change_pct": 0.03
     },
     {
       "label": "NatGas",
