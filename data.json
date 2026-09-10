@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-09-10T02:27:08+00:00",
-  "as_of_local": "2026-09-10 02:27:08 UTC",
+  "as_of_utc": "2026-09-10T02:32:37+00:00",
+  "as_of_local": "2026-09-10 02:32:37 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "KMI"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -701,34 +703,6 @@
           "url": "https://finance.yahoo.com/energy/articles/energy-transfers-payout-covered-twice-195000239.html",
           "publisher": "Motley Fool",
           "published": "2026-09-09T19:50:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "KMI",
-      "name": "Kinder Morgan",
-      "price": 31.41,
-      "previous_close": 31.98,
-      "change_pct": -1.78,
-      "market_cap": 69943853275.70697,
-      "headlines": [
-        {
-          "title": "Kinder Morgan (KMI) Declines More Than Market: Some Information for Investors",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/kinder-morgan-kmi-declines-more-215004445.html",
-          "publisher": "Zacks",
-          "published": "2026-09-09T21:50:04Z"
-        },
-        {
-          "title": "Trump oil and gas holdings gained up to $4.4M during Iran war",
-          "url": "https://finance.yahoo.com/energy/articles/trump-oil-gas-holdings-gained-115846187.html",
-          "publisher": "Quartz",
-          "published": "2026-09-09T11:58:46Z"
-        },
-        {
-          "title": "How Is Kinder Morgan\u2019s Stock Performance Compared to Other Energy Infrastructure Stocks?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/kinder-morgan-stock-performance-compared-111245107.html",
-          "publisher": "Barchart",
-          "published": "2026-09-09T11:12:45Z"
         }
       ]
     },
@@ -2002,8 +1976,8 @@
           "name": "Kinder Morgan Inc Class P",
           "short": "Kinder",
           "weight_pct": 3.65,
-          "change_pct": -1.78,
-          "price": 31.41,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         }
       ]
@@ -2101,8 +2075,8 @@
         "name": "Kinder Morgan Inc Class P",
         "short": "Kinder",
         "weight_pct": 3.65,
-        "change_pct": -1.78,
-        "price": 31.41,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       }
     ]
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 96.4,
-      "change_pct": 3.62
+      "price": 96.45,
+      "change_pct": 3.68
     },
     {
       "label": "Brent",
-      "price": 101.19,
-      "change_pct": 3.34
+      "price": 101.27,
+      "change_pct": 3.42
     },
     {
       "label": "NatGas",
       "price": 2.79,
-      "change_pct": -4.22
+      "change_pct": -4.29
     }
   ]
 }
