@@ -36,10 +36,10 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 
 | Headline | Source | Date |
 |---|---|---|
+| ExxonMobil Holdings Corporation (XOM): Can a $14B Budget Unlock Papua LNG? | Insider Monkey | 2026-09-10 |
 | Exxon Rally Fades as Brent Crude Jumps 4% Above $105 | GuruFocus.com | 2026-09-10 |
 | 12 Energy Stocks for Dividend Investors as Oil Prices Rise | Barrons.com | 2026-09-10 |
 | ExxonMobil Stock at a Premium: Opportunity or Reason to Stay Cautious? | Zacks | 2026-09-10 |
-| ‘I Am the House Now,’ Bessent Warns — But Bond Traders Keep Raising Yields Anyway | 24/7 Wall St. | 2026-09-10 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

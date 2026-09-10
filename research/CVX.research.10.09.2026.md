@@ -36,7 +36,7 @@ Chevron Corporation, through its subsidiaries, engages in the integrated energy 
 
 | Headline | Source | Date |
 |---|---|---|
-| Stock Market Today: Dow Drops 350 Points As Oil, Yields Pop; Macy's Extends Losses (Live Coverage) | Investor's Business Daily | 2026-09-10 |
+| This Is the First Oil Dividend Stock I'd Buy in September | Motley Fool | 2026-09-10 |
 | 12 Energy Stocks for Dividend Investors as Oil Prices Rise | Barrons.com | 2026-09-10 |
 | ExxonMobil Stock at a Premium: Opportunity or Reason to Stay Cautious? | Zacks | 2026-09-10 |
 | Permian Gas Has Been Worth Less Than Nothing for 118 Days This Year | Oilprice.com | 2026-09-10 |

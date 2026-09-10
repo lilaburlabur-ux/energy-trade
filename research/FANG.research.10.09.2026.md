@@ -36,10 +36,10 @@ Diamondback Energy, Inc., an independent oil and natural gas company, acquires, 
 
 | Headline | Source | Date |
 |---|---|---|
-| Stock Market Today: Dow Drops 350 Points As Oil, Yields Pop; Macy's Extends Losses (Live Coverage) | Investor's Business Daily | 2026-09-10 |
 | Diamondback Energy (FANG) Rises As Market Takes a Dip: Key Facts | Zacks | 2026-09-09 |
 | WTI Crude Not Too Far From $100: Are Permian Stocks a Smart Watch Now? | Zacks | 2026-09-09 |
 | 2 Value Stocks with Impressive Fundamentals and 1 Facing Challenges | StockStory | 2026-09-08 |
+| Iran Just Raised the Stakes in the Gulf—These 5 Stocks Stand to Benefit | 24/7 Wall St. | 2026-09-08 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

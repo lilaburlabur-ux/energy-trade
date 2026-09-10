@@ -36,10 +36,10 @@ TotalEnergies SE, an integrated energy company, produces and markets oil and bio
 
 | Headline | Source | Date |
 |---|---|---|
+| ExxonMobil Holdings Corporation (XOM): Can a $14B Budget Unlock Papua LNG? | Insider Monkey | 2026-09-10 |
 | Sector Update: Energy Stocks Decline Late Afternoon | MT Newswires | 2026-09-10 |
 | Sector Update: Energy Stocks Mixed Thursday Afternoon | MT Newswires | 2026-09-10 |
 | Sector Update: Energy Stocks Advance Premarket Thursday | MT Newswires | 2026-09-10 |
-| TotalEnergies to Bring New Angola Discovery Online in Just Three Months | Oilprice.com | 2026-09-10 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
