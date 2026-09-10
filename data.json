@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-09-10T02:32:37+00:00",
-  "as_of_local": "2026-09-10 02:32:37 UTC",
+  "as_of_utc": "2026-09-10T02:47:19+00:00",
+  "as_of_local": "2026-09-10 02:47:19 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "KMI"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -152,7 +150,7 @@
       "price": 82.65,
       "previous_close": 83.83,
       "change_pct": -1.41,
-      "market_cap": 172406102156.80014,
+      "market_cap": 172375286021.08124,
       "headlines": [
         {
           "title": "NextEra Energy (NEE) Falls More Steeply Than Broader Market: What Investors Need to Know",
@@ -208,7 +206,7 @@
       "price": 415.22,
       "previous_close": 422.13,
       "change_pct": -1.64,
-      "market_cap": 161271448474.1211,
+      "market_cap": 161229926473.99902,
       "headlines": [
         {
           "title": "Eaton (ETN) Suffers a Larger Drop Than the General Market: Key Insights",
@@ -264,7 +262,7 @@
       "price": 399.44,
       "previous_close": 397.77,
       "change_pct": 0.42,
-      "market_cap": 112172644018.32733,
+      "market_cap": 116611170197.13593,
       "headlines": [
         {
           "title": "Why Is ExxonMobil Priced Above Peers With Fatter Margins?",
@@ -656,7 +654,7 @@
       "price": 147.01,
       "previous_close": 145.36,
       "change_pct": 1.14,
-      "market_cap": 77111031282.43518,
+      "market_cap": 78301717269.4841,
       "headlines": [
         {
           "title": "Stocks to Consider Before the Fed's September Decision: JPM, EOG, BE",
@@ -703,6 +701,34 @@
           "url": "https://finance.yahoo.com/energy/articles/energy-transfers-payout-covered-twice-195000239.html",
           "publisher": "Motley Fool",
           "published": "2026-09-09T19:50:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "KMI",
+      "name": "Kinder Morgan",
+      "price": 31.41,
+      "previous_close": 31.98,
+      "change_pct": -1.78,
+      "market_cap": 69943853275.70697,
+      "headlines": [
+        {
+          "title": "Kinder Morgan (KMI) Declines More Than Market: Some Information for Investors",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/kinder-morgan-kmi-declines-more-215004445.html",
+          "publisher": "Zacks",
+          "published": "2026-09-09T21:50:04Z"
+        },
+        {
+          "title": "Trump oil and gas holdings gained up to $4.4M during Iran war",
+          "url": "https://finance.yahoo.com/energy/articles/trump-oil-gas-holdings-gained-115846187.html",
+          "publisher": "Quartz",
+          "published": "2026-09-09T11:58:46Z"
+        },
+        {
+          "title": "How Is Kinder Morgan\u2019s Stock Performance Compared to Other Energy Infrastructure Stocks?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/kinder-morgan-stock-performance-compared-111245107.html",
+          "publisher": "Barchart",
+          "published": "2026-09-09T11:12:45Z"
         }
       ]
     },
@@ -824,7 +850,7 @@
       "price": 95.82,
       "previous_close": 97.51,
       "change_pct": -1.73,
-      "market_cap": 60402021299.566444,
+      "market_cap": 60369747686.36923,
       "headlines": [
         {
           "title": "Why the Market Dipped But Oneok Inc. (OKE) Gained Today",
@@ -917,16 +943,16 @@
           "published": "2026-09-09T22:15:02Z"
         },
         {
+          "title": "Stocks Fall as Crude Prices Soar and Bond Yields Climb",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-fall-crude-prices-soar-203943156.html",
+          "publisher": "Barchart",
+          "published": "2026-09-09T20:39:43Z"
+        },
+        {
           "title": "WTI Crude Not Too Far From $100: Are Permian Stocks a Smart Watch Now?",
           "url": "https://finance.yahoo.com/energy/articles/wti-crude-not-too-far-152900906.html",
           "publisher": "Zacks",
           "published": "2026-09-09T15:29:00Z"
-        },
-        {
-          "title": "2 Value Stocks with Impressive Fundamentals and 1 Facing Challenges",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/2-value-stocks-impressive-fundamentals-231918296.html",
-          "publisher": "StockStory",
-          "published": "2026-09-08T23:19:18Z"
         }
       ]
     },
@@ -1048,7 +1074,7 @@
       "price": 72.6,
       "previous_close": 73.57,
       "change_pct": -1.32,
-      "market_cap": 36185293417.47139,
+      "market_cap": 36178133024.821884,
       "headlines": [
         {
           "title": "Public Service Enterprise Group Inc's Dividend Analysis",
@@ -1331,6 +1357,12 @@
       "market_cap": 15709761761.859398,
       "headlines": [
         {
+          "title": "Stocks Fall as Crude Prices Soar and Bond Yields Climb",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-fall-crude-prices-soar-203943156.html",
+          "publisher": "Barchart",
+          "published": "2026-09-09T20:39:43Z"
+        },
+        {
           "title": "Eni (E) Bets Big on Uruguay with Stakes in Two Offshore Blocks",
           "url": "https://finance.yahoo.com/energy/articles/eni-e-bets-big-uruguay-232640086.html",
           "publisher": "Insider Monkey",
@@ -1341,12 +1373,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/apa-apa-20-9-since-153024526.html",
           "publisher": "Zacks",
           "published": "2026-09-04T15:30:24Z"
-        },
-        {
-          "title": "2 Value Stocks on Our Watchlist and 1 We Find Risky",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/2-value-stocks-watchlist-1-105020821.html",
-          "publisher": "StockStory",
-          "published": "2026-09-01T10:50:20Z"
         }
       ]
     },
@@ -1468,7 +1494,7 @@
       "price": 31.2,
       "previous_close": 32.13,
       "change_pct": -2.89,
-      "market_cap": 9363482960.167,
+      "market_cap": 9462210339.381199,
       "headlines": [
         {
           "title": "Forget AI Stocks: This Clean-Power Play Is the Real Winner",
@@ -1580,7 +1606,7 @@
       "price": 93.06,
       "previous_close": 93.7,
       "change_pct": -0.68,
-      "market_cap": 6654916223.649902,
+      "market_cap": 6671047150.566711,
       "headlines": [
         {
           "title": "Solaris Energy Infrastructure, TETRA Technologies, SLB, and Weatherford Stocks Trade Down, What You Need To Know",
@@ -1636,7 +1662,7 @@
       "price": 36.72,
       "previous_close": 38.83,
       "change_pct": -5.43,
-      "market_cap": 4852351635.869385,
+      "market_cap": 4839630799.286499,
       "headlines": [
         {
           "title": "Enphase Energy (ENPH) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
@@ -1692,7 +1718,7 @@
       "price": 14.55,
       "previous_close": 14.62,
       "change_pct": -0.48,
-      "market_cap": 3852455523.101551,
+      "market_cap": 3636990797.67704,
       "headlines": [
         {
           "title": "Energy Fuels Down 28% in the Past 6 Months: How to Play the Stock?",
@@ -1976,8 +2002,8 @@
           "name": "Kinder Morgan Inc Class P",
           "short": "Kinder",
           "weight_pct": 3.65,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": -1.78,
+          "price": 31.41,
           "currency": "USD"
         }
       ]
@@ -2075,8 +2101,8 @@
         "name": "Kinder Morgan Inc Class P",
         "short": "Kinder",
         "weight_pct": 3.65,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": -1.78,
+        "price": 31.41,
         "currency": "USD"
       }
     ]
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 96.45,
-      "change_pct": 3.68
+      "price": 96.37,
+      "change_pct": 3.59
     },
     {
       "label": "Brent",
-      "price": 101.27,
-      "change_pct": 3.42
+      "price": 101.18,
+      "change_pct": 3.33
     },
     {
       "label": "NatGas",
       "price": 2.79,
-      "change_pct": -4.29
+      "change_pct": -4.32
     }
   ]
 }
