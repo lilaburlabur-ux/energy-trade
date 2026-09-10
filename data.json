@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-09-10T03:02:23+00:00",
-  "as_of_local": "2026-09-10 03:02:23 UTC",
+  "as_of_utc": "2026-09-10T03:17:24+00:00",
+  "as_of_local": "2026-09-10 03:17:24 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "PEG"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -150,7 +152,7 @@
       "price": 82.65,
       "previous_close": 83.83,
       "change_pct": -1.41,
-      "market_cap": 172406102156.80014,
+      "market_cap": 172375286021.08124,
       "headlines": [
         {
           "title": "Should You Buy Vistra Stock For Its Shrinking Share Count?",
@@ -206,7 +208,7 @@
       "price": 415.22,
       "previous_close": 422.13,
       "change_pct": -1.64,
-      "market_cap": 161271448474.1211,
+      "market_cap": 161229926473.99902,
       "headlines": [
         {
           "title": "Eaton (ETN) Suffers a Larger Drop Than the General Market: Key Insights",
@@ -262,7 +264,7 @@
       "price": 399.44,
       "previous_close": 397.77,
       "change_pct": 0.42,
-      "market_cap": 112172644018.32733,
+      "market_cap": 116611170197.13593,
       "headlines": [
         {
           "title": "Why Is ExxonMobil Priced Above Peers With Fatter Margins?",
@@ -654,7 +656,7 @@
       "price": 147.01,
       "previous_close": 145.36,
       "change_pct": 1.14,
-      "market_cap": 77111031282.43518,
+      "market_cap": 78301717269.4841,
       "headlines": [
         {
           "title": "Stocks to Consider Before the Fed's September Decision: JPM, EOG, BE",
@@ -850,7 +852,7 @@
       "price": 95.82,
       "previous_close": 97.51,
       "change_pct": -1.73,
-      "market_cap": 60402021299.566444,
+      "market_cap": 60369747686.36923,
       "headlines": [
         {
           "title": "Why the Market Dipped But Oneok Inc. (OKE) Gained Today",
@@ -1065,34 +1067,6 @@
           "url": "https://finance.yahoo.com/energy/articles/jefferies-sees-cameco-ccj-bwxt-222909210.html",
           "publisher": "Insider Monkey",
           "published": "2026-09-07T22:29:09Z"
-        }
-      ]
-    },
-    {
-      "symbol": "PEG",
-      "name": "Public Service Enterprise",
-      "price": 72.6,
-      "previous_close": 73.57,
-      "change_pct": -1.32,
-      "market_cap": 36185293417.47139,
-      "headlines": [
-        {
-          "title": "Public Service Enterprise Group Inc's Dividend Analysis",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/public-enterprise-group-incs-dividend-110223369.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-09-09T11:02:23Z"
-        },
-        {
-          "title": "PSEG (PEG) Down 2.9% Since Last Earnings Report: Can It Rebound?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/pseg-peg-down-2-9-153021289.html",
-          "publisher": "Zacks",
-          "published": "2026-09-03T15:30:21Z"
-        },
-        {
-          "title": "Sector Update: Energy Stocks Rise Wednesday",
-          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-rise-wednesday-200642126.html",
-          "publisher": "MT Newswires",
-          "published": "2026-08-26T20:06:42Z"
         }
       ]
     },
@@ -1494,7 +1468,7 @@
       "price": 31.2,
       "previous_close": 32.13,
       "change_pct": -2.89,
-      "market_cap": 9363482960.167,
+      "market_cap": 9462210339.381199,
       "headlines": [
         {
           "title": "Forget AI Stocks: This Clean-Power Play Is the Real Winner",
@@ -1606,7 +1580,7 @@
       "price": 93.06,
       "previous_close": 93.7,
       "change_pct": -0.68,
-      "market_cap": 6654916223.649902,
+      "market_cap": 6671047150.566711,
       "headlines": [
         {
           "title": "Solaris Energy Infrastructure, TETRA Technologies, SLB, and Weatherford Stocks Trade Down, What You Need To Know",
@@ -1662,7 +1636,7 @@
       "price": 36.72,
       "previous_close": 38.83,
       "change_pct": -5.43,
-      "market_cap": 4852351635.869385,
+      "market_cap": 4839630799.286499,
       "headlines": [
         {
           "title": "Enphase Energy (ENPH) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
@@ -1718,7 +1692,7 @@
       "price": 14.55,
       "previous_close": 14.62,
       "change_pct": -0.48,
-      "market_cap": 3852455523.101551,
+      "market_cap": 3636990797.67704,
       "headlines": [
         {
           "title": "Energy Fuels Down 28% in the Past 6 Months: How to Play the Stock?",
@@ -1889,6 +1863,12 @@
       "market_cap": 689142176.3740053,
       "headlines": [
         {
+          "title": "Array Technologies opens new Albuquerque plant amid volatile solar market",
+          "url": "https://finance.yahoo.com/energy/articles/array-technologies-opens-albuquerque-plant-030100385.html",
+          "publisher": "Albuquerque Journal, N.M.",
+          "published": "2026-09-10T03:01:00Z"
+        },
+        {
           "title": "Array (ARRY) Says its AWM Acquisition Will Be High-Single-Digit Accretive. How Much Depends on Cross-Selling?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/array-arry-says-awm-acquisition-183234182.html",
           "publisher": "Insider Monkey",
@@ -1899,12 +1879,6 @@
           "url": "https://finance.yahoo.com/energy/articles/spotting-winners-array-nasdaq-arry-025223702.html",
           "publisher": "StockStory",
           "published": "2026-09-03T02:52:23Z"
-        },
-        {
-          "title": "1 of Wall Street\u2019s Favorite Stocks to Research Further and 2 We Avoid",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/1-wall-street-favorite-stocks-144907480.html",
-          "publisher": "StockStory",
-          "published": "2026-08-27T14:49:07Z"
         }
       ]
     }
@@ -2115,13 +2089,13 @@
     },
     {
       "label": "WTI",
-      "price": 96.26,
-      "change_pct": 3.47
+      "price": 96.07,
+      "change_pct": 3.27
     },
     {
       "label": "Brent",
-      "price": 101.07,
-      "change_pct": 3.22
+      "price": 100.94,
+      "change_pct": 3.08
     },
     {
       "label": "NatGas",
