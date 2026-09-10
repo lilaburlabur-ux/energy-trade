@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-10T13:05:13+00:00",
-  "as_of_local": "2026-09-10 13:05:13 UTC",
+  "as_of_utc": "2026-09-10T13:10:07+00:00",
+  "as_of_local": "2026-09-10 13:10:07 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -13,6 +13,12 @@
       "market_cap": 675299283622.8168,
       "headlines": [
         {
+          "title": "Update: US Equity Futures Lower Pre-Bell Thursday as Traders Assess Inflation Data Amid Higher Oil Prices",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-lower-pre-125840949.html",
+          "publisher": "MT Newswires",
+          "published": "2026-09-10T12:58:40Z"
+        },
+        {
           "title": "ExxonMobil Just Made Its 20th Discovery in a Block That's Produced 2.7 Billion Barrels. Here's What It Means for XOM Stock.",
           "url": "https://finance.yahoo.com/energy/articles/exxonmobil-just-made-20th-discovery-080727321.html",
           "publisher": "Motley Fool",
@@ -23,12 +29,6 @@
           "url": "https://finance.yahoo.com/energy/articles/why-exxonmobil-priced-above-peers-013457448.html",
           "publisher": "Trefis",
           "published": "2026-09-10T01:34:57Z"
-        },
-        {
-          "title": "Why BP Is One of the Best Oil Stocks to Buy Right Now",
-          "url": "https://finance.yahoo.com/energy/articles/why-bp-one-best-oil-224500140.html",
-          "publisher": "Zacks",
-          "published": "2026-09-09T22:45:00Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 100.24,
-      "change_pct": 4.36
+      "price": 100.16,
+      "change_pct": 4.28
     },
     {
       "label": "Brent",
-      "price": 105.11,
-      "change_pct": 3.85
+      "price": 105.25,
+      "change_pct": 3.99
     },
     {
       "label": "NatGas",
-      "price": 2.78,
-      "change_pct": -1.49
+      "price": 2.77,
+      "change_pct": -1.7
     }
   ]
 }
