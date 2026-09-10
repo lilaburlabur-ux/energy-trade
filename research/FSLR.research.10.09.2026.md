@@ -36,10 +36,10 @@ First Solar, Inc., a solar technology company, provides photovoltaic (PV) solar 
 
 | Headline | Source | Date |
 |---|---|---|
+| First Solar (FSLR) Gains As Market Dips: What You Should Know | Zacks | 2026-09-10 |
 | 'Clean' Energy And Tech Spending Slides 17%. New Report Blames China, But Doesn't Tell The Whole Story. | Investor's Business Daily | 2026-09-10 |
 | SolarEdge Falls 4% on Analyst Day Despite Joint NVIDIA 800 VDC Paper; Enphase Energy and First Solar Edge Higher | 24/7 Wall St. | 2026-09-10 |
 | Uber initiated, Thermo Fisher upgraded: Wall Street's top analyst calls | The Fly | 2026-09-09 |
-| Enphase Energy Rises 5% as Solid-State Transformer Modules Enter Texas Production, SolarEdge Jumps 6% | 24/7 Wall St. | 2026-09-08 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

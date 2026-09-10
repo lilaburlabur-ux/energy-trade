@@ -36,10 +36,10 @@ Devon Energy Corporation, an independent energy company, engages in the explorat
 
 | Headline | Source | Date |
 |---|---|---|
+| Devon Energy (DVN) Ascends While Market Falls: Some Facts to Note | Zacks | 2026-09-10 |
 | Permian Resources (PR) Up 17.1% Since Last Earnings Report: Can It Continue? | Zacks | 2026-09-04 |
 | Goldman’s Energy Dividend Picks: Why Devon and HF Sinclair Still Offer Upside | Insider Monkey | 2026-09-04 |
 | Devon Energy (DVN) Up 16.5% Since Last Earnings Report: Can It Continue? | Zacks | 2026-09-03 |
-| Here Are Thursday’s Top Wall Street Analyst Research Calls: Broadcom, Deere & Company, Dell Technologies, Devon Energy, Moderna, Permian Resources, PG&E, Thermo Fisher, Viper Energy, and More | 24/7 Wall St. | 2026-09-03 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

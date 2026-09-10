@@ -5,7 +5,7 @@ Signed file: `ARRY.research.10.09.2026`
 | Field | Value |
 |---|---|
 | Current price | $4.55 (2026-09-10, ~15-min delayed) |
-| Market cap | $700.74M |
+| Market cap | $699.91M |
 | Sector / Industry | Technology / Solar |
 | Main theme | Solar — see catalysts below |
 | Current stance | Low technical momentum, weak fundamentals, value: reasonable, risk: high. |
@@ -36,10 +36,10 @@ Array Technologies, Inc. engages in the manufacture and sale of solar tracking t
 
 | Headline | Source | Date |
 |---|---|---|
+| Array Technologies, Inc. (ARRY) Advances While Market Declines: Some Information for Investors | Zacks | 2026-09-10 |
 | 3 Stocks Under $10 with Open Questions | StockStory | 2026-09-10 |
 | Array Technologies opens new Albuquerque plant amid volatile solar market | Albuquerque Journal, N.M. | 2026-09-10 |
 | Array (ARRY) Says its AWM Acquisition Will Be High-Single-Digit Accretive. How Much Depends on Cross-Selling? | Insider Monkey | 2026-09-04 |
-| Spotting Winners: Array (NASDAQ:ARRY) And Renewable Energy Stocks In Q2 | StockStory | 2026-09-03 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -114,7 +114,7 @@ Array Technologies, Inc. engages in the manufacture and sale of solar tracking t
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $4.55 | EV/Sales | 1.38 |
-| Market cap | $700.74M | EV/EBITDA | 13.69 |
+| Market cap | $699.91M | EV/EBITDA | 13.69 |
 | Beta | 1.77 | Gross margin | 26.76% |
 | RSI(14) | 40.2 | Operating margin | 10.88% |
 | ATR(14) | 0.28 | Profit margin | -7.25% |

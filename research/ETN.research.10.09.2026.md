@@ -5,7 +5,7 @@ Signed file: `ETN.research.10.09.2026`
 | Field | Value |
 |---|---|
 | Current price | $409.15 (2026-09-10, ~15-min delayed) |
-| Market cap | $158.87B |
+| Market cap | $158.91B |
 | Sector / Industry | Industrials / Specialty Industrial Machinery |
 | Main theme | Specialty Industrial Machinery — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: fair-to-demanding, risk: elevated. |
@@ -36,10 +36,10 @@ Eaton Corporation plc operates as a power management company in the United State
 
 | Headline | Source | Date |
 |---|---|---|
+| Why Eaton (ETN) Dipped More Than Broader Market Today | Zacks | 2026-09-10 |
 | Palantir Touts 'Sovereign AI,' Nvidia Pact At Customer Forum | Investor's Business Daily | 2026-09-10 |
 | CAT Could Be the Best AI Infrastructure Stock You’re Overlooking | 24/7 Wall St. | 2026-09-10 |
 | Vertiv Has Cooled For 3 Months: A Wall Street Strategist Says It Will Rebound 45% Very Soon | 24/7 Wall St. | 2026-09-10 |
-| Eaton (ETN) Suffers a Larger Drop Than the General Market: Key Insights | Zacks | 2026-09-09 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -112,7 +112,7 @@ Eaton Corporation plc operates as a power management company in the United State
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $409.15 | EV/Sales | 6.06 |
-| Market cap | $158.87B | EV/EBITDA | 27.41 |
+| Market cap | $158.91B | EV/EBITDA | 27.41 |
 | Beta | 1.17 | Gross margin | 36.02% |
 | RSI(14) | 47.3 | Operating margin | 16.56% |
 | ATR(14) | 13.76 | Profit margin | 12.75% |

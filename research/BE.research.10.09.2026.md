@@ -36,10 +36,10 @@ Bloom Energy Corporation designs, manufactures, sells, and installs solid oxide 
 
 | Headline | Source | Date |
 |---|---|---|
+| Bloom Energy vs. FuelCell Energy: Which Data Center Fuel Cell Maker Is the Better Buy Right Now? | Motley Fool | 2026-09-10 |
 | Bloom Energy's New Power Connect System Could Cut Installation Time by Over 40%. Here's Why That Matters More Than the Backlog. | Motley Fool | 2026-09-10 |
 | Is Sluggish Equipment Demand a Concern for Plug Power Stock? | Zacks | 2026-09-10 |
 | Nearly $350 Million in Bloom Energy Options Traded in One Session. Pelosi’s Household Bought In Six Weeks Earlier. | 24/7 Wall St. | 2026-09-10 |
-| Bloom Energy Has Fallen 28% From Its Peak and May Only Deliver a 15% Return by September 2027 | Motley Fool | 2026-09-10 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

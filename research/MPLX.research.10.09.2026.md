@@ -5,7 +5,7 @@ Signed file: `MPLX.research.10.09.2026`
 | Field | Value |
 |---|---|
 | Current price | $59.63 (2026-09-10, ~15-min delayed) |
-| Market cap | $60.51B |
+| Market cap | $60.46B |
 | Sector / Industry | Energy / Oil & Gas Midstream |
 | Main theme | Oil & Gas Midstream — see catalysts below |
 | Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate. |
@@ -68,7 +68,7 @@ MPLX LP owns and operates midstream energy infrastructure and logistics assets p
 | Revenue (ttm) | $12.03B | Revenue growth 10.60% y/y |
 | Profitability | Gross 55.71%, operating 38.25%, net 39.28% | ROA 7.25%, ROE 33.69% |
 | Balance sheet | Cash $1.03B, debt $26.13B | Current ratio 0.89, debt/equity 183.36 |
-| Valuation | P/E 12.82, forward P/E 12.30, P/S 5.03, P/B 4.31 | EV/Sales 7.18, EV/EBITDA 14.13 |
+| Valuation | P/E 12.82, forward P/E 12.30, P/S 5.02, P/B 4.31 | EV/Sales 7.18, EV/EBITDA 14.13 |
 | Growth expectations | Earnings growth 3.20%, EPS q/q 2.80% | Analyst mean target $62.67 (12 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -111,7 +111,7 @@ MPLX LP owns and operates midstream energy infrastructure and logistics assets p
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $59.63 | EV/Sales | 7.18 |
-| Market cap | $60.51B | EV/EBITDA | 14.13 |
+| Market cap | $60.46B | EV/EBITDA | 14.13 |
 | Beta | 0.46 | Gross margin | 55.71% |
 | RSI(14) | 57.2 | Operating margin | 38.25% |
 | ATR(14) | 0.91 | Profit margin | 39.28% |
@@ -123,7 +123,7 @@ MPLX LP owns and operates midstream energy infrastructure and logistics assets p
 | P/E (ttm) | 12.82 | Insider ownership | 64.03% |
 | Forward P/E | 12.30 | Short float | 2.04% |
 | PEG (trailing) | 3.09 | Avg volume | 1,399,459 |
-| P/S | 5.03 | Employees | 0 |
+| P/S | 5.02 | Employees | 0 |
 | P/B | 4.31 | Analyst rec (1=buy..5=sell) | 2.4 |
 
 ## 8. Analyst Actions

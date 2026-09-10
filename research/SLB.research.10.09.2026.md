@@ -36,10 +36,10 @@ SLB N.V. engages in the provision of technology for the energy industry worldwid
 
 | Headline | Source | Date |
 |---|---|---|
+| SLB (SLB) Registers a Bigger Fall Than the Market: Important Facts to Note | Zacks | 2026-09-10 |
 | CEO of Legendary Energy Stock Sells 5,000 Shares for $300,000 | Motley Fool | 2026-09-08 |
 | SLB Bets $4.1 Billion on the AI Data Center Boom | Insider Monkey | 2026-09-07 |
 | Is SLB Stock Underperforming the S&P 500? | Barchart | 2026-09-07 |
-| How Could SLB (SLB) Change After Its Upstream Software Deal? | Simply Wall St. | 2026-09-04 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
