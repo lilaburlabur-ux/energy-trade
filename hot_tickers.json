@@ -1,27 +1,10 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-10T15:58:43+00:00",
+  "as_of": "2026-09-10T16:04:15+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": [
-  {
-   "rank": 1,
-   "ticker": "VRT",
-   "company": "Vertiv Holdings, LLC",
-   "move_pct": -5.09,
-   "price": 249.51,
-   "volume": 5371197,
-   "volume_vs_avg": "~0.9x",
-   "heat_score": 38,
-   "direction": "down",
-   "why": "Veteran analyst says buy Vertiv despite huge gains already",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/veteran-analyst-says-buy-vertiv-153300535.html",
-   "published": "2026-09-10T15:33:00Z",
-   "sector": "Grid, Storage & Electrification"
-  }
- ]
+ "hot_tickers": []
 }
