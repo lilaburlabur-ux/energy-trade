@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-09-10T11:03:44+00:00",
-  "as_of_local": "2026-09-10 11:03:44 UTC",
+  "as_of_utc": "2026-09-10T11:08:33+00:00",
+  "as_of_local": "2026-09-10 11:08:33 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "TTE"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -119,12 +117,40 @@
       ]
     },
     {
+      "symbol": "TTE",
+      "name": "TotalEnergies",
+      "price": 91.64,
+      "previous_close": 90.1,
+      "change_pct": 1.71,
+      "market_cap": 202509915590.69952,
+      "headlines": [
+        {
+          "title": "European Stocks Tumble in Wednesday Trading as Intensified Middle East Conflict Drives Up Oil Prices",
+          "url": "https://finance.yahoo.com/markets/world-indices/articles/european-stocks-tumble-wednesday-trading-155236345.html",
+          "publisher": "MT Newswires",
+          "published": "2026-09-09T15:52:36Z"
+        },
+        {
+          "title": "Update: Market Chatter: BP North Sea Operations Garner Interest From Potential Buyers",
+          "url": "https://finance.yahoo.com/energy/articles/market-chatter-bp-north-sea-154353818.html",
+          "publisher": "MT Newswires",
+          "published": "2026-09-09T15:43:53Z"
+        },
+        {
+          "title": "Exchange-Traded Funds, Equity Futures Down Pre-Bell Wednesday as Brent Crude Exceeds $100 a Barrel",
+          "url": "https://finance.yahoo.com/markets/articles/exchange-traded-funds-equity-futures-130653743.html",
+          "publisher": "MT Newswires",
+          "published": "2026-09-09T13:06:53Z"
+        }
+      ]
+    },
+    {
       "symbol": "NEE",
       "name": "NextEra Energy",
       "price": 82.65,
       "previous_close": 83.83,
       "change_pct": -1.41,
-      "market_cap": 172375286021.08124,
+      "market_cap": 172406102156.80014,
       "headlines": [
         {
           "title": "Should You Buy Vistra Stock For Its Shrinking Share Count?",
@@ -180,7 +206,7 @@
       "price": 415.22,
       "previous_close": 422.13,
       "change_pct": -1.64,
-      "market_cap": 161229926473.99902,
+      "market_cap": 161271448474.1211,
       "headlines": [
         {
           "title": "Eaton (ETN) Suffers a Larger Drop Than the General Market: Key Insights",
@@ -236,7 +262,7 @@
       "price": 399.44,
       "previous_close": 397.77,
       "change_pct": 0.42,
-      "market_cap": 116611170197.13593,
+      "market_cap": 112172644018.32733,
       "headlines": [
         {
           "title": "Why Is ExxonMobil Priced Above Peers With Fatter Margins?",
@@ -628,7 +654,7 @@
       "price": 147.01,
       "previous_close": 145.36,
       "change_pct": 1.14,
-      "market_cap": 78301717269.4841,
+      "market_cap": 77111031282.43518,
       "headlines": [
         {
           "title": "The Zacks Analyst Blog Highlights  JPMorgan Chase, EOG Resources and Bloom Energy",
@@ -824,7 +850,7 @@
       "price": 95.82,
       "previous_close": 97.51,
       "change_pct": -1.73,
-      "market_cap": 60369747686.36923,
+      "market_cap": 60402021299.566444,
       "headlines": [
         {
           "title": "Why the Market Dipped But Oneok Inc. (OKE) Gained Today",
@@ -1048,7 +1074,7 @@
       "price": 72.6,
       "previous_close": 73.57,
       "change_pct": -1.32,
-      "market_cap": 36178133024.821884,
+      "market_cap": 36185293417.47139,
       "headlines": [
         {
           "title": "Public Service Enterprise Group Inc's Dividend Analysis",
@@ -1468,7 +1494,7 @@
       "price": 31.2,
       "previous_close": 32.13,
       "change_pct": -2.89,
-      "market_cap": 9462210339.381199,
+      "market_cap": 9363482960.167,
       "headlines": [
         {
           "title": "Forget AI Stocks: This Clean-Power Play Is the Real Winner",
@@ -1580,7 +1606,7 @@
       "price": 93.06,
       "previous_close": 93.7,
       "change_pct": -0.68,
-      "market_cap": 6671047150.566711,
+      "market_cap": 6654916223.649902,
       "headlines": [
         {
           "title": "Solaris Energy Infrastructure, TETRA Technologies, SLB, and Weatherford Stocks Trade Down, What You Need To Know",
@@ -1636,7 +1662,7 @@
       "price": 36.72,
       "previous_close": 38.83,
       "change_pct": -5.43,
-      "market_cap": 4839630799.286499,
+      "market_cap": 4852351635.869385,
       "headlines": [
         {
           "title": "Enphase Energy (ENPH) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
@@ -1692,7 +1718,7 @@
       "price": 14.55,
       "previous_close": 14.62,
       "change_pct": -0.48,
-      "market_cap": 3636990797.67704,
+      "market_cap": 3852455523.101551,
       "headlines": [
         {
           "title": "Energy Fuels Down 28% in the Past 6 Months: How to Play the Stock?",
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 97.12,
-      "change_pct": 1.11
+      "price": 96.97,
+      "change_pct": 0.96
     },
     {
       "label": "Brent",
-      "price": 101.77,
-      "change_pct": 0.55
+      "price": 101.62,
+      "change_pct": 0.41
     },
     {
       "label": "NatGas",
-      "price": 2.79,
-      "change_pct": -0.99
+      "price": 2.8,
+      "change_pct": -0.96
     }
   ]
 }
