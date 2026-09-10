@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-10T23:36:48+00:00",
-  "as_of_local": "2026-09-10 23:36:48 UTC",
+  "as_of_utc": "2026-09-10T23:41:55+00:00",
+  "as_of_local": "2026-09-10 23:41:55 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -769,6 +769,12 @@
       "market_cap": 61137821457.82744,
       "headlines": [
         {
+          "title": "Unusual Options Activity Points to Big Institutional Bets on These 3 Industries",
+          "url": "https://finance.yahoo.com/markets/options/articles/unusual-options-activity-points-big-173003826.html",
+          "publisher": "Barchart",
+          "published": "2026-09-10T17:30:03Z"
+        },
+        {
           "title": "Why Is ExxonMobil Priced Above Peers With Fatter Margins?",
           "url": "https://finance.yahoo.com/energy/articles/why-exxonmobil-priced-above-peers-013457448.html",
           "publisher": "Trefis",
@@ -779,12 +785,6 @@
           "url": "https://finance.yahoo.com/energy/articles/trump-oil-gas-holdings-gained-115846187.html",
           "publisher": "Quartz",
           "published": "2026-09-09T11:58:46Z"
-        },
-        {
-          "title": "Forget Occidental Petroleum. Buy This Pipeline Stock in September Instead.",
-          "url": "https://finance.yahoo.com/energy/articles/forget-occidental-petroleum-buy-pipeline-173500134.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-08T17:35:00Z"
         }
       ]
     },
@@ -2115,13 +2115,13 @@
     },
     {
       "label": "WTI",
-      "price": 103.81,
-      "change_pct": 8.08
+      "price": 103.8,
+      "change_pct": 8.07
     },
     {
       "label": "Brent",
-      "price": 108.88,
-      "change_pct": 7.58
+      "price": 108.94,
+      "change_pct": 7.64
     },
     {
       "label": "NatGas",
