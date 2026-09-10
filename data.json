@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-10T20:16:30+00:00",
-  "as_of_local": "2026-09-10 20:16:30 UTC",
+  "as_of_utc": "2026-09-10T20:18:47+00:00",
+  "as_of_local": "2026-09-10 20:18:47 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -150,7 +150,7 @@
       "price": 82.44,
       "previous_close": 82.65,
       "change_pct": -0.25,
-      "market_cap": 171937310805.32996,
+      "market_cap": 171968048642.68024,
       "headlines": [
         {
           "title": "Can EXC's Rising Revenues Support Sustainable Earnings Growth?",
@@ -206,7 +206,7 @@
       "price": 409.15,
       "previous_close": 415.22,
       "change_pct": -1.46,
-      "market_cap": 158872942630.00488,
+      "market_cap": 158913857629.39453,
       "headlines": [
         {
           "title": "Palantir Touts 'Sovereign AI,' Nvidia Pact At Customer Forum",
@@ -257,12 +257,40 @@
       ]
     },
     {
+      "symbol": "VLO",
+      "name": "Valero Energy",
+      "price": 385.43,
+      "previous_close": 388.95,
+      "change_pct": -0.91,
+      "market_cap": 110975879184.38629,
+      "headlines": [
+        {
+          "title": "What Does the Future Hold for Par Pacific's Refining Business?",
+          "url": "https://finance.yahoo.com/energy/articles/does-future-hold-par-pacifics-174500720.html",
+          "publisher": "Zacks",
+          "published": "2026-09-10T17:45:00Z"
+        },
+        {
+          "title": "Can Par Pacific's Diversified Downstream Platform Drive Growth?",
+          "url": "https://finance.yahoo.com/energy/articles/par-pacifics-diversified-downstream-platform-154900582.html",
+          "publisher": "Zacks",
+          "published": "2026-09-10T15:49:00Z"
+        },
+        {
+          "title": "Delek's Margin Capture Improves Sharply: Is This More Than a Cycle?",
+          "url": "https://finance.yahoo.com/energy/articles/deleks-margin-capture-improves-sharply-143200687.html",
+          "publisher": "Zacks",
+          "published": "2026-09-10T14:32:00Z"
+        }
+      ]
+    },
+    {
       "symbol": "MPC",
       "name": "Marathon Petroleum",
       "price": 392.42,
       "previous_close": 399.44,
       "change_pct": -1.76,
-      "market_cap": 114561778226.74759,
+      "market_cap": 110201257267.30032,
       "headlines": [
         {
           "title": "Delek's Margin Capture Improves Sharply: Is This More Than a Cycle?",
@@ -626,7 +654,7 @@
       "price": 147.46,
       "previous_close": 147.01,
       "change_pct": 0.31,
-      "market_cap": 78541406609.79721,
+      "market_cap": 77347075814.57922,
       "headlines": [
         {
           "title": "The Zacks Analyst Blog Highlights  JPMorgan Chase, EOG Resources and Bloom Energy",
@@ -934,7 +962,7 @@
       "price": 65.07,
       "previous_close": 65.1,
       "change_pct": -0.05,
-      "market_cap": 57226358018.96515,
+      "market_cap": 57213165666.550186,
       "headlines": [
         {
           "title": "Dominion Energy (D) Suffers a Larger Drop Than the General Market: Key Insights",
@@ -1074,7 +1102,7 @@
       "price": 72.48,
       "previous_close": 72.6,
       "change_pct": -0.17,
-      "market_cap": 36118336889.791855,
+      "market_cap": 36125485447.56294,
       "headlines": [
         {
           "title": "Public Service Enterprise Group Stock: Is PEG Underperforming the Utilities Sector?",
@@ -1494,7 +1522,7 @@
       "price": 30.51,
       "previous_close": 31.2,
       "change_pct": -2.21,
-      "market_cap": 9252949761.56436,
+      "market_cap": 9156405777.9501,
       "headlines": [
         {
           "title": "Could Buying Brookfield Renewable Today Set You Up for Life?",
@@ -2115,18 +2143,18 @@
     },
     {
       "label": "WTI",
-      "price": 102.93,
-      "change_pct": 7.16
+      "price": 102.86,
+      "change_pct": 7.09
     },
     {
       "label": "Brent",
-      "price": 108.18,
-      "change_pct": 6.89
+      "price": 108.2,
+      "change_pct": 6.91
     },
     {
       "label": "NatGas",
-      "price": 2.83,
-      "change_pct": 0.43
+      "price": 2.84,
+      "change_pct": 0.5
     }
   ]
 }
