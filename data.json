@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-10T06:59:04+00:00",
-  "as_of_local": "2026-09-10 06:59:04 UTC",
+  "as_of_utc": "2026-09-10T07:14:00+00:00",
+  "as_of_local": "2026-09-10 07:14:00 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -377,6 +377,12 @@
       "market_cap": 104056673987.39392,
       "headlines": [
         {
+          "title": "Phillips 66 and Tyson Foods have been highlighted as Zacks Bull and Bear of the Day",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/phillips-66-tyson-foods-highlighted-065600743.html",
+          "publisher": "Zacks",
+          "published": "2026-09-10T06:56:00Z"
+        },
+        {
           "title": "Are Oils-Energy Stocks Lagging  Par Pacific (PARR) This Year?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/oils-energy-stocks-lagging-par-195428828.html",
           "publisher": "Zacks",
@@ -387,12 +393,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/phillips-66-psx-hit-52-195336656.html",
           "publisher": "Zacks",
           "published": "2026-09-09T19:53:36Z"
-        },
-        {
-          "title": "Trump oil and gas holdings gained up to $4.4M during Iran war",
-          "url": "https://finance.yahoo.com/energy/articles/trump-oil-gas-holdings-gained-115846187.html",
-          "publisher": "Quartz",
-          "published": "2026-09-09T11:58:46Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 95.49,
-      "change_pct": -0.58
+      "price": 95.7,
+      "change_pct": -0.36
     },
     {
       "label": "Brent",
-      "price": 100.43,
-      "change_pct": -0.77
+      "price": 100.71,
+      "change_pct": -0.49
     },
     {
       "label": "NatGas",
-      "price": 2.79,
-      "change_pct": -1.2
+      "price": 2.8,
+      "change_pct": -0.89
     }
   ]
 }
