@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-10T22:05:58+00:00",
-  "as_of_local": "2026-09-10 22:05:58 UTC",
+  "as_of_utc": "2026-09-10T22:10:58+00:00",
+  "as_of_local": "2026-09-10 22:10:58 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -95,7 +95,26 @@
       "previous_close": 951.04,
       "change_pct": -2.85,
       "market_cap": 246068251669.19684,
-      "headlines": []
+      "headlines": [
+        {
+          "title": "EXCLUSIVE: Kevin Warsh\u2019s Hawkishness Is a \u2018Distraction From His Dovishness,\u2019 Truflation CEO Says",
+          "url": "https://finance.yahoo.com/economy/policy/articles/exclusive-kevin-warsh-hawkishness-distraction-144339437.html",
+          "publisher": "Benzinga Prediction Markets",
+          "published": "2026-09-10T14:43:39Z"
+        },
+        {
+          "title": "Gas Turbine And Grid Backlog Powers GE Vernova (GEV)",
+          "url": "https://finance.yahoo.com/energy/articles/gas-turbine-grid-backlog-powers-121945090.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-09-10T12:19:45Z"
+        },
+        {
+          "title": "GE Vernova (GEV) Suffers a Larger Drop Than the General Market: Key Insights",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-gev-suffers-larger-220004035.html",
+          "publisher": "Zacks",
+          "published": "2026-09-09T22:00:04Z"
+        }
+      ]
     },
     {
       "symbol": "TTE",
@@ -554,6 +573,12 @@
       "market_cap": 83126859877.22487,
       "headlines": [
         {
+          "title": "SLB (SLB) Registers a Bigger Fall Than the Market: Important Facts to Note",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/slb-slb-registers-bigger-fall-220006813.html",
+          "publisher": "Zacks",
+          "published": "2026-09-10T22:00:06Z"
+        },
+        {
           "title": "CEO of Legendary Energy Stock Sells 5,000 Shares for $300,000",
           "url": "https://finance.yahoo.com/markets/stocks/articles/ceo-legendary-energy-stock-sells-144001966.html",
           "publisher": "Motley Fool",
@@ -564,12 +589,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/slb-bets-4-1-billion-202013359.html",
           "publisher": "Insider Monkey",
           "published": "2026-09-07T20:19:27Z"
-        },
-        {
-          "title": "Is SLB Stock Underperforming the S&P 500?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/slb-stock-underperforming-p-500-065214396.html",
-          "publisher": "Barchart",
-          "published": "2026-09-07T06:52:14Z"
         }
       ]
     },
@@ -2096,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 103.93,
-      "change_pct": 8.2
+      "price": 104.28,
+      "change_pct": 8.57
     },
     {
       "label": "Brent",
-      "price": 108.95,
-      "change_pct": 7.65
+      "price": 109.41,
+      "change_pct": 8.1
     },
     {
       "label": "NatGas",
       "price": 2.84,
-      "change_pct": 0.64
+      "change_pct": 0.57
     }
   ]
 }
