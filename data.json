@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-09-10T03:17:24+00:00",
-  "as_of_local": "2026-09-10 03:17:24 UTC",
+  "as_of_utc": "2026-09-10T03:22:48+00:00",
+  "as_of_local": "2026-09-10 03:22:48 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "PEG"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1071,6 +1069,34 @@
       ]
     },
     {
+      "symbol": "PEG",
+      "name": "Public Service Enterprise",
+      "price": 72.6,
+      "previous_close": 73.57,
+      "change_pct": -1.32,
+      "market_cap": 36178133024.821884,
+      "headlines": [
+        {
+          "title": "Public Service Enterprise Group Inc's Dividend Analysis",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/public-enterprise-group-incs-dividend-110223369.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-09-09T11:02:23Z"
+        },
+        {
+          "title": "PSEG (PEG) Down 2.9% Since Last Earnings Report: Can It Rebound?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/pseg-peg-down-2-9-153021289.html",
+          "publisher": "Zacks",
+          "published": "2026-09-03T15:30:21Z"
+        },
+        {
+          "title": "Sector Update: Energy Stocks Rise Wednesday",
+          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-rise-wednesday-200642126.html",
+          "publisher": "MT Newswires",
+          "published": "2026-08-26T20:06:42Z"
+        }
+      ]
+    },
+    {
       "symbol": "EQT",
       "name": "EQT Corp",
       "price": 54.63,
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 96.07,
-      "change_pct": 3.27
+      "price": 96.05,
+      "change_pct": 3.25
     },
     {
       "label": "Brent",
-      "price": 100.94,
-      "change_pct": 3.08
+      "price": 100.93,
+      "change_pct": 3.07
     },
     {
       "label": "NatGas",
       "price": 2.79,
-      "change_pct": -4.29
+      "change_pct": -4.25
     }
   ]
 }
