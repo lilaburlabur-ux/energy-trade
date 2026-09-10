@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-10T13:15:17+00:00",
-  "as_of_local": "2026-09-10 13:15:17 UTC",
+  "as_of_utc": "2026-09-10T13:21:37+00:00",
+  "as_of_local": "2026-09-10 13:21:37 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -41,6 +41,12 @@
       "market_cap": 419410391224.8695,
       "headlines": [
         {
+          "title": "TotalEnergies to Bring New Angola Discovery Online in Just Three Months",
+          "url": "https://finance.yahoo.com/energy/articles/totalenergies-bring-angola-discovery-online-123000285.html",
+          "publisher": "Oilprice.com",
+          "published": "2026-09-10T12:30:00Z"
+        },
+        {
           "title": "Why Did CVX, COP, VLO Stocks Jump To 52-Week Highs?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-cvx-cop-vlo-051120247.html",
           "publisher": "Stocktwits",
@@ -51,12 +57,6 @@
           "url": "https://finance.yahoo.com/energy/articles/why-exxonmobil-priced-above-peers-013457448.html",
           "publisher": "Trefis",
           "published": "2026-09-10T01:34:57Z"
-        },
-        {
-          "title": "Why BP Is One of the Best Oil Stocks to Buy Right Now",
-          "url": "https://finance.yahoo.com/energy/articles/why-bp-one-best-oil-224500140.html",
-          "publisher": "Zacks",
-          "published": "2026-09-09T22:45:00Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 99.72,
-      "change_pct": 3.82
+      "price": 100.12,
+      "change_pct": 4.24
     },
     {
       "label": "Brent",
-      "price": 104.8,
-      "change_pct": 3.55
+      "price": 105.22,
+      "change_pct": 3.96
     },
     {
       "label": "NatGas",
-      "price": 2.78,
-      "change_pct": -1.59
+      "price": 2.77,
+      "change_pct": -1.77
     }
   ]
 }
