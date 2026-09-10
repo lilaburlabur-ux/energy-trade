@@ -47,7 +47,7 @@ Shell plc operates as an energy and petrochemical company in Europe, Asia, Ocean
 | Price vs 52-week range | Close $95.96; 52w high $95.96 (+0.00%); 52w low $68.25 (+40.60%) |
 | Trend | +16.83% vs SMA200, +8.73% vs SMA50, +3.69% vs SMA20 |
 | Momentum | RSI(14) 69.5 (neutral) |
-| Volatility | ATR(14) 1.49 (~1.5% of price); beta -0.22 |
+| Volatility | ATR(14) 1.48 (~1.5% of price); beta -0.22 |
 | Setup perspective | +0.00% from 52w high and near SMA20 — check for a tight base. |
 
 **Performance snapshot:**
@@ -114,7 +114,7 @@ Shell plc operates as an energy and petrochemical company in Europe, Asia, Ocean
 | Market cap | $274.52B | EV/EBITDA | 5.36 |
 | Beta | -0.22 | Gross margin | 26.09% |
 | RSI(14) | 69.5 | Operating margin | 16.69% |
-| ATR(14) | 1.49 | Profit margin | 8.76% |
+| ATR(14) | 1.48 | Profit margin | 8.76% |
 | SMA20 dist | +3.69% | ROA | 6.40% |
 | SMA50 dist | +8.73% | ROE | 14.34% |
 | SMA200 dist | +16.83% | Revenue (ttm) | $296.60B |

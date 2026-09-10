@@ -4,8 +4,8 @@ Signed file: `EQT.research.10.09.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $54.95 (2026-09-10, ~15-min delayed) |
-| Market cap | $34.37B |
+| Current price | $54.96 (2026-09-10, ~15-min delayed) |
+| Market cap | $34.38B |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,8 +15,8 @@ Signed file: `EQT.research.10.09.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-1.55%) with negative half-year (-13.40%). |
-| Fresh setup quality | Moderate / wait | -18.63% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-1.53%) with negative half-year (-13.38%). |
+| Fresh setup quality | Moderate / wait | -18.61% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 29.18%, revenue growth -3.90%. |
 | Value attractiveness | Reasonable | Forward P/E 14.03, EV/Sales 4.66. |
 | Risk level | Moderate | Beta 0.58, ATR 2.5% of price, short float 3.51%. |
@@ -44,11 +44,11 @@ EQT Corporation engages in the exploration, production, gathering, and transmiss
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $54.95; 52w high $67.53 (-18.63%); 52w low $48.62 (+13.03%) |
-| Trend | -1.55% vs SMA200, +4.22% vs SMA50, +0.93% vs SMA20 |
-| Momentum | RSI(14) 56.9 (neutral) |
+| Price vs 52-week range | Close $54.96; 52w high $67.53 (-18.61%); 52w low $48.62 (+13.05%) |
+| Trend | -1.53% vs SMA200, +4.24% vs SMA50, +0.95% vs SMA20 |
+| Momentum | RSI(14) 57.0 (neutral) |
 | Volatility | ATR(14) 1.40 (~2.5% of price); beta 0.58 |
-| Setup perspective | -18.63% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -18.61% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
@@ -58,7 +58,7 @@ EQT Corporation engages in the exploration, production, gathering, and transmiss
 | Month | +1.1% |
 | Quarter | +4.8% |
 | Half Y | -13.4% |
-| 1Y | +10.6% |
+| 1Y | +10.7% |
 | YTD | +3.7% |
 
 ## 4. Fundamental Analysis
@@ -109,14 +109,14 @@ EQT Corporation engages in the exploration, production, gathering, and transmiss
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $54.95 | EV/Sales | 4.66 |
-| Market cap | $34.37B | EV/EBITDA | 6.19 |
+| Price | $54.96 | EV/Sales | 4.66 |
+| Market cap | $34.38B | EV/EBITDA | 6.19 |
 | Beta | 0.58 | Gross margin | 80.75% |
-| RSI(14) | 56.9 | Operating margin | 23.37% |
+| RSI(14) | 57.0 | Operating margin | 23.37% |
 | ATR(14) | 1.40 | Profit margin | 29.18% |
-| SMA20 dist | +0.93% | ROA | 6.63% |
-| SMA50 dist | +4.22% | ROE | 11.08% |
-| SMA200 dist | -1.55% | Revenue (ttm) | $9.29B |
+| SMA20 dist | +0.95% | ROA | 6.63% |
+| SMA50 dist | +4.24% | ROE | 11.08% |
+| SMA200 dist | -1.53% | Revenue (ttm) | $9.29B |
 | 52W high | $67.53 | Revenue growth y/y | -3.90% |
 | 52W low | $48.62 | Inst. ownership | 95.85% |
 | P/E (ttm) | 12.75 | Insider ownership | 0.90% |
