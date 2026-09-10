@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-09-10T11:39:52+00:00",
-  "as_of_local": "2026-09-10 11:39:52 UTC",
+  "as_of_utc": "2026-09-10T11:40:59+00:00",
+  "as_of_local": "2026-09-10 11:40:59 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "ARRY"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1879,34 +1881,6 @@
           "published": "2026-09-03T20:47:18Z"
         }
       ]
-    },
-    {
-      "symbol": "ARRY",
-      "name": "Array Technologies",
-      "price": 4.48,
-      "previous_close": 4.7,
-      "change_pct": -4.68,
-      "market_cap": 689142176.3740053,
-      "headlines": [
-        {
-          "title": "Array Technologies opens new Albuquerque plant amid volatile solar market",
-          "url": "https://finance.yahoo.com/energy/articles/array-technologies-opens-albuquerque-plant-030100385.html",
-          "publisher": "Albuquerque Journal, N.M.",
-          "published": "2026-09-10T03:01:00Z"
-        },
-        {
-          "title": "Array (ARRY) Says its AWM Acquisition Will Be High-Single-Digit Accretive. How Much Depends on Cross-Selling?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/array-arry-says-awm-acquisition-183234182.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-09-04T18:32:34Z"
-        },
-        {
-          "title": "Spotting Winners: Array (NASDAQ:ARRY) And Renewable Energy Stocks In Q2",
-          "url": "https://finance.yahoo.com/energy/articles/spotting-winners-array-nasdaq-arry-025223702.html",
-          "publisher": "StockStory",
-          "published": "2026-09-03T02:52:23Z"
-        }
-      ]
     }
   ],
   "etfs": [
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 97.47,
-      "change_pct": 1.48
+      "price": 97.4,
+      "change_pct": 1.41
     },
     {
       "label": "Brent",
-      "price": 102.11,
-      "change_pct": 0.89
+      "price": 102.09,
+      "change_pct": 0.87
     },
     {
       "label": "NatGas",
       "price": 2.79,
-      "change_pct": -1.06
+      "change_pct": -1.03
     }
   ]
 }
