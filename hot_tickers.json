@@ -1,27 +1,10 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-10T22:05:07+00:00",
+  "as_of": "2026-09-10T22:20:16+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": [
-  {
-   "rank": 1,
-   "ticker": "BKR",
-   "company": "Baker Hughes Company",
-   "move_pct": -6.9,
-   "price": 59.25,
-   "volume": 11181829,
-   "volume_vs_avg": "~2x",
-   "heat_score": 47,
-   "direction": "down",
-   "why": "Why Baker Hughes Stock Is Having Its Worst Day in More Than a Year",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://www.barrons.com/articles/baker-hughes-stock-energy-oil-f0b3bfbc?siteid=yhoof2&yptr=yahoo",
-   "published": "2026-09-10T18:13:00Z",
-   "sector": "Oilfield Services"
-  }
- ]
+ "hot_tickers": []
 }
