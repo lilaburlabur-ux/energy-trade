@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-10T11:49:17+00:00",
-  "as_of_local": "2026-09-10 11:49:17 UTC",
+  "as_of_utc": "2026-09-10T11:54:22+00:00",
+  "as_of_local": "2026-09-10 11:54:22 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -433,6 +433,12 @@
       "market_cap": 101209546439.44519,
       "headlines": [
         {
+          "title": "Vertiv Has Cooled For 3 Months: A Wall Street Strategist Says It Will Rebound 45% Very Soon",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/vertiv-cooled-3-months-wall-114456669.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-09-10T11:44:56Z"
+        },
+        {
           "title": "Why Vertiv Holdings Co. (VRT) Dipped More Than Broader Market Today",
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-vertiv-holdings-co-vrt-214501852.html",
           "publisher": "Zacks",
@@ -443,12 +449,6 @@
           "url": "https://www.investors.com/research/options/vertiv-stock-vrt-bull-put-spread-options/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
           "published": "2026-09-09T15:46:39Z"
-        },
-        {
-          "title": "Is Vertiv Stock Outperforming the Nasdaq?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/vertiv-stock-outperforming-nasdaq-144302424.html",
-          "publisher": "Barchart",
-          "published": "2026-09-09T14:43:02Z"
         }
       ]
     },
@@ -1497,6 +1497,12 @@
       "market_cap": 9363482960.167,
       "headlines": [
         {
+          "title": "Could Buying Brookfield Renewable Today Set You Up for Life?",
+          "url": "https://finance.yahoo.com/energy/articles/could-buying-brookfield-renewable-today-115000822.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-10T11:50:00Z"
+        },
+        {
           "title": "Forget AI Stocks: This Clean-Power Play Is the Real Winner",
           "url": "https://finance.yahoo.com/energy/articles/forget-ai-stocks-clean-power-203500183.html",
           "publisher": "Motley Fool",
@@ -1507,12 +1513,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/brookfield-renewable-corps-dividend-analysis-111556591.html",
           "publisher": "GuruFocus.com",
           "published": "2026-08-31T11:15:56Z"
-        },
-        {
-          "title": "Brookfield Renewable Partners LP's Dividend Analysis",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/brookfield-renewable-partners-lps-dividend-111312452.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-08-31T11:13:12Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 97.15,
-      "change_pct": 1.15
+      "price": 97.46,
+      "change_pct": 1.47
     },
     {
       "label": "Brent",
-      "price": 101.92,
-      "change_pct": 0.7
+      "price": 102.4,
+      "change_pct": 1.18
     },
     {
       "label": "NatGas",
-      "price": 2.79,
-      "change_pct": -1.13
+      "price": 2.8,
+      "change_pct": -0.96
     }
   ]
 }
