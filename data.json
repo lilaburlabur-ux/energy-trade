@@ -1,11 +1,37 @@
 {
-  "as_of_utc": "2026-09-10T12:44:52+00:00",
-  "as_of_local": "2026-09-10 12:44:52 UTC",
+  "as_of_utc": "2026-09-10T12:49:57+00:00",
+  "as_of_local": "2026-09-10 12:49:57 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "XOM"
-  ],
+  "errors": [],
   "stocks": [
+    {
+      "symbol": "XOM",
+      "name": "ExxonMobil",
+      "price": 164.23,
+      "previous_close": 160.66,
+      "change_pct": 2.22,
+      "market_cap": 675299283622.8168,
+      "headlines": [
+        {
+          "title": "ExxonMobil Just Made Its 20th Discovery in a Block That's Produced 2.7 Billion Barrels. Here's What It Means for XOM Stock.",
+          "url": "https://finance.yahoo.com/energy/articles/exxonmobil-just-made-20th-discovery-080727321.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-10T08:07:27Z"
+        },
+        {
+          "title": "Why Is ExxonMobil Priced Above Peers With Fatter Margins?",
+          "url": "https://finance.yahoo.com/energy/articles/why-exxonmobil-priced-above-peers-013457448.html",
+          "publisher": "Trefis",
+          "published": "2026-09-10T01:34:57Z"
+        },
+        {
+          "title": "Why BP Is One of the Best Oil Stocks to Buy Right Now",
+          "url": "https://finance.yahoo.com/energy/articles/why-bp-one-best-oil-224500140.html",
+          "publisher": "Zacks",
+          "published": "2026-09-09T22:45:00Z"
+        }
+      ]
+    },
     {
       "symbol": "CVX",
       "name": "Chevron",
@@ -127,6 +153,12 @@
       "market_cap": 172375286021.08124,
       "headlines": [
         {
+          "title": "Forget Overvalued Tech: Build an AI Fortress Portfolio With These 5 Dividend Aristocrats",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/forget-overvalued-tech-build-ai-124349937.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-09-10T12:43:49Z"
+        },
+        {
           "title": "Should You Buy Vistra Stock For Its Shrinking Share Count?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/buy-vistra-stock-shrinking-share-024226260.html",
           "publisher": "Trefis",
@@ -137,12 +169,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/nextera-energy-nee-falls-more-214506457.html",
           "publisher": "Zacks",
           "published": "2026-09-09T21:45:06Z"
-        },
-        {
-          "title": "Can Clean-Energy Initiatives Support PPL's Long-Term Growth?",
-          "url": "https://finance.yahoo.com/energy/articles/clean-energy-initiatives-support-ppls-161500479.html",
-          "publisher": "Zacks",
-          "published": "2026-09-09T16:15:00Z"
         }
       ]
     },
@@ -1835,6 +1861,12 @@
       "market_cap": 1448815494.1762276,
       "headlines": [
         {
+          "title": "Why Analysts Are Bearish On This Tesla Energy Rival",
+          "url": "https://www.investors.com/news/battery-energy-storage-fluence-tesla-gm-ford-barclays-piper/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-09-10T12:30:49Z"
+        },
+        {
           "title": "FLNC Stock Trades at a Discount: Should You Buy, Sell or Hold?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/flnc-stock-trades-discount-buy-155500177.html",
           "publisher": "Zacks",
@@ -1845,12 +1877,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/fluence-6-4-billion-backlog-055813259.html",
           "publisher": "Insider Monkey",
           "published": "2026-09-05T05:58:13Z"
-        },
-        {
-          "title": "Fluence Energy (FLNC) Stock Trades Down, Here Is Why",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/fluence-energy-flnc-stock-trades-204718860.html",
-          "publisher": "StockStory",
-          "published": "2026-09-03T20:47:18Z"
         }
       ]
     },
@@ -1895,8 +1921,8 @@
           "name": "ExxonMobil Holdings Corp",
           "short": "ExxonMobil",
           "weight_pct": 19.86,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": 2.22,
+          "price": 164.23,
           "currency": "USD"
         },
         {
@@ -1994,8 +2020,8 @@
         "name": "ExxonMobil Holdings Corp",
         "short": "ExxonMobil",
         "weight_pct": 19.86,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": 2.22,
+        "price": 164.23,
         "currency": "USD"
       },
       {
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 100.35,
-      "change_pct": 4.48
+      "price": 100.59,
+      "change_pct": 4.73
     },
     {
       "label": "Brent",
-      "price": 105.72,
-      "change_pct": 4.46
+      "price": 105.73,
+      "change_pct": 4.47
     },
     {
       "label": "NatGas",
       "price": 2.78,
-      "change_pct": -1.35
+      "change_pct": -1.52
     }
   ]
 }
