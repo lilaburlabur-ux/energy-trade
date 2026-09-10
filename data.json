@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-10T08:09:19+00:00",
-  "as_of_local": "2026-09-10 08:09:19 UTC",
+  "as_of_utc": "2026-09-10T08:14:42+00:00",
+  "as_of_local": "2026-09-10 08:14:42 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -13,6 +13,12 @@
       "market_cap": 675299283622.8168,
       "headlines": [
         {
+          "title": "ExxonMobil Just Made Its 20th Discovery in a Block That's Produced 2.7 Billion Barrels. Here's What It Means for XOM Stock.",
+          "url": "https://finance.yahoo.com/energy/articles/exxonmobil-just-made-20th-discovery-080727321.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-10T08:07:27Z"
+        },
+        {
           "title": "Why Is ExxonMobil Priced Above Peers With Fatter Margins?",
           "url": "https://finance.yahoo.com/energy/articles/why-exxonmobil-priced-above-peers-013457448.html",
           "publisher": "Trefis",
@@ -23,12 +29,6 @@
           "url": "https://finance.yahoo.com/energy/articles/why-bp-one-best-oil-224500140.html",
           "publisher": "Zacks",
           "published": "2026-09-09T22:45:00Z"
-        },
-        {
-          "title": "Exxon Mobil Holdings (XOM) Rises As Market Takes a Dip: Key Facts",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/exxon-mobil-holdings-xom-rises-214502935.html",
-          "publisher": "Zacks",
-          "published": "2026-09-09T21:45:02Z"
         }
       ]
     },
@@ -739,7 +739,26 @@
       "previous_close": 63.92,
       "change_pct": -0.44,
       "market_cap": 63173777272.55983,
-      "headlines": []
+      "headlines": [
+        {
+          "title": "Sector Update: Energy Stocks Gain Late Afternoon",
+          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-gain-afternoon-195617705.html",
+          "publisher": "MT Newswires",
+          "published": "2026-09-09T19:56:17Z"
+        },
+        {
+          "title": "Sector Update: Energy Stocks Gain Wednesday Afternoon",
+          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-gain-wednesday-174508614.html",
+          "publisher": "MT Newswires",
+          "published": "2026-09-09T17:45:08Z"
+        },
+        {
+          "title": "Baker Hughes (BKR) Lands Multi-Year Contract with Pakistan\u2019s OGDC",
+          "url": "https://finance.yahoo.com/energy/articles/baker-hughes-bkr-lands-multi-232500809.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-09-07T23:25:00Z"
+        }
+      ]
     },
     {
       "symbol": "TRGP",
@@ -2096,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 96.22,
-      "change_pct": 0.18
+      "price": 96.35,
+      "change_pct": 0.31
     },
     {
       "label": "Brent",
-      "price": 101.24,
-      "change_pct": 0.03
+      "price": 101.41,
+      "change_pct": 0.2
     },
     {
       "label": "NatGas",
       "price": 2.79,
-      "change_pct": -1.03
+      "change_pct": -1.17
     }
   ]
 }
