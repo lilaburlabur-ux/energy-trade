@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-11T19:05:07+00:00",
+  "as_of": "2026-09-11T19:17:13+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,11 +11,11 @@
    "rank": 1,
    "ticker": "SMR",
    "company": "NuScale Power Corporation",
-   "move_pct": -13.66,
-   "price": 8.81,
-   "volume": 75766066,
+   "move_pct": -14.05,
+   "price": 8.77,
+   "volume": 77054888,
    "volume_vs_avg": "~2x",
-   "heat_score": 84,
+   "heat_score": 86,
    "direction": "down",
    "why": "Why NuScale Power Stock Just Crashed",
    "catalyst_type": "momentum_narrative",
@@ -27,17 +27,33 @@
    "rank": 2,
    "ticker": "OKLO",
    "company": "Oklo Inc.",
-   "move_pct": -7.8,
-   "price": 36.77,
-   "volume": 16542857,
+   "move_pct": -8.05,
+   "price": 36.67,
+   "volume": 16843605,
    "volume_vs_avg": "~2x",
-   "heat_score": 51,
+   "heat_score": 62,
    "direction": "down",
    "why": "Oklo CEO Jacob Dewitte Sells 120,000 Shares for $4.6 Million",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/oklo-ceo-jacob-dewitte-sells-180501371.html",
    "published": "2026-09-11T18:05:01Z",
    "sector": "Nuclear & Uranium"
+  },
+  {
+   "rank": 3,
+   "ticker": "BE",
+   "company": "Bloom Energy Corporation",
+   "move_pct": 6.71,
+   "price": 275.83,
+   "volume": 11320260,
+   "volume_vs_avg": "~0.8x",
+   "heat_score": 42,
+   "direction": "up",
+   "why": "Stock Of The Day: AI Energy Play Bloom Energy Nears Buy Point, S&P 500 Entry",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://www.investors.com/research/ibd-stock-of-the-day/bloom-energy-stock-buy-point-sp-500/?src=A00220&yptr=yahoo",
+   "published": "2026-09-11T16:03:43Z",
+   "sector": "Grid, Storage & Electrification"
   }
  ]
 }
