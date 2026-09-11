@@ -36,10 +36,10 @@ Quanta Services, Inc. offers infrastructure solutions for the electric and gas u
 
 | Headline | Source | Date |
 |---|---|---|
+| 3 Big Reasons to Love Quanta (PWR) | StockStory | 2026-09-11 |
 | Will EMCOR's 19.6% Organic Growth Stay Elevated Into 2027? | Zacks | 2026-09-11 |
 | Will Comfort Systems' Modular Expansion Strengthen Growth and Returns? | Zacks | 2026-09-11 |
 | 3 AI Power Stocks to Buy Now for Growth, Value and Breakout Potential | Zacks | 2026-09-11 |
-| Q2 Energy Products and Services Earnings: Quanta (NYSE:PWR) Earns Top Marks | StockStory | 2026-09-10 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
