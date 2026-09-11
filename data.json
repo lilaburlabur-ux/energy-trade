@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-11T11:57:15+00:00",
-  "as_of_local": "2026-09-11 11:57:15 UTC",
+  "as_of_utc": "2026-09-11T12:02:06+00:00",
+  "as_of_local": "2026-09-11 12:02:06 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -13,6 +13,12 @@
       "market_cap": 679411195582.8168,
       "headlines": [
         {
+          "title": "How Much Dividend Income Can You Buy With $250,000?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/much-dividend-income-buy-250-114741945.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-09-11T11:47:41Z"
+        },
+        {
           "title": "TotalEnergies makes new oil discovery in Angola\u2019s Block 17",
           "url": "https://finance.yahoo.com/energy/articles/totalenergies-makes-oil-discovery-angola-104404554.html",
           "publisher": "Offshore Technology",
@@ -23,12 +29,6 @@
           "url": "https://www.barrons.com/articles/diesel-prices-fed-rate-decision-c9076122?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
           "published": "2026-09-11T09:50:00Z"
-        },
-        {
-          "title": "Saipem, Jan De Nul sign LoI for Mozambique Rovuma LNG project",
-          "url": "https://finance.yahoo.com/energy/articles/saipem-jan-nul-sign-loi-085447482.html",
-          "publisher": "Offshore Technology",
-          "published": "2026-09-11T08:54:47Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 99.19,
-      "change_pct": -3.21
+      "price": 99.2,
+      "change_pct": -3.2
     },
     {
       "label": "Brent",
-      "price": 103.88,
-      "change_pct": -3.48
+      "price": 103.95,
+      "change_pct": -3.42
     },
     {
       "label": "NatGas",
-      "price": 2.79,
-      "change_pct": -1.41
+      "price": 2.8,
+      "change_pct": -1.38
     }
   ]
 }
