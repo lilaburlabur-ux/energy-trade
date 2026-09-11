@@ -1,43 +1,10 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-11T03:50:14+00:00",
+  "as_of": "2026-09-11T08:03:28+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": [
-  {
-   "rank": 1,
-   "ticker": "LEU",
-   "company": "Centrus Energy Corp.",
-   "move_pct": -8.61,
-   "price": 165.87,
-   "volume": 995900,
-   "volume_vs_avg": "~2x",
-   "heat_score": 63,
-   "direction": "down",
-   "why": "Centrus Energy (LEU) Stock Trades Down, Here Is Why",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/centrus-energy-leu-stock-trades-024904901.html",
-   "published": "2026-09-11T02:49:04Z",
-   "sector": "Nuclear & Uranium"
-  },
-  {
-   "rank": 2,
-   "ticker": "BKR",
-   "company": "Baker Hughes Company",
-   "move_pct": -6.66,
-   "price": 59.4,
-   "volume": 11193900,
-   "volume_vs_avg": "~2x",
-   "heat_score": 47,
-   "direction": "down",
-   "why": "Baker Hughes (BKR) Stock Trades Down, Here Is Why",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/baker-hughes-bkr-stock-trades-020904725.html",
-   "published": "2026-09-11T02:09:04Z",
-   "sector": "Oilfield Services"
-  }
- ]
+ "hot_tickers": []
 }
