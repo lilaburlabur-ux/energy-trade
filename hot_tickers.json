@@ -1,10 +1,43 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-11T13:29:31+00:00",
+  "as_of": "2026-09-11T13:44:30+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": []
+ "hot_tickers": [
+  {
+   "rank": 1,
+   "ticker": "SMR",
+   "company": "NuScale Power Corporation",
+   "move_pct": -9.21,
+   "price": 9.27,
+   "volume": 9481849,
+   "volume_vs_avg": "~0.3x",
+   "heat_score": 59,
+   "direction": "down",
+   "why": "NuScale Power Shares Fall 3.3% as UBS Cuts Rating to Sell",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/nuscale-power-shares-fall-3-122033275.html",
+   "published": "2026-09-11T12:20:33Z",
+   "sector": "Nuclear & Uranium"
+  },
+  {
+   "rank": 2,
+   "ticker": "OKLO",
+   "company": "Oklo Inc.",
+   "move_pct": -6.92,
+   "price": 37.12,
+   "volume": 3933191,
+   "volume_vs_avg": "~0.4x",
+   "heat_score": 41,
+   "direction": "down",
+   "why": "Oklo Stock Declines Following Launch Of $1B Share-Sale Program",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/oklo-stock-declines-following-launch-125904033.html",
+   "published": "2026-09-11T12:59:04Z",
+   "sector": "Nuclear & Uranium"
+  }
+ ]
 }
