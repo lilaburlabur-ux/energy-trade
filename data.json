@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-11T02:08:26+00:00",
-  "as_of_local": "2026-09-11 02:08:26 UTC",
+  "as_of_utc": "2026-09-11T02:22:50+00:00",
+  "as_of_local": "2026-09-11 02:22:50 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -853,6 +853,12 @@
       "market_cap": 58964841332.100426,
       "headlines": [
         {
+          "title": "Baker Hughes (BKR) Stock Trades Down, Here Is Why",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/baker-hughes-bkr-stock-trades-020904725.html",
+          "publisher": "StockStory",
+          "published": "2026-09-11T02:09:04Z"
+        },
+        {
           "title": "Why Baker Hughes Stock Is Having Its Worst Day in More Than a Year",
           "url": "https://www.barrons.com/articles/baker-hughes-stock-energy-oil-f0b3bfbc?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
@@ -863,12 +869,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/c3-ai-vs-atlassian-technology-180805290.html",
           "publisher": "Motley Fool",
           "published": "2026-09-10T18:08:05Z"
-        },
-        {
-          "title": "Sector Update: Energy Stocks Gain Late Afternoon",
-          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-gain-afternoon-195617705.html",
-          "publisher": "MT Newswires",
-          "published": "2026-09-09T19:56:17Z"
         }
       ]
     },
@@ -1746,7 +1746,7 @@
       "price": 165.87,
       "previous_close": 181.49,
       "change_pct": -8.61,
-      "market_cap": 3309580459.0339355,
+      "market_cap": 3309621926.532715,
       "headlines": [
         {
           "title": "Exchange-Traded Funds Lower, Equity Futures Mixed Pre-Bell Thursday Amid Producer Price Inflation Data Release",
@@ -2115,8 +2115,8 @@
     },
     {
       "label": "WTI",
-      "price": 102.85,
-      "change_pct": 7.08
+      "price": 102.93,
+      "change_pct": 7.16
     },
     {
       "label": "Brent",
