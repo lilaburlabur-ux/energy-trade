@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-11T09:50:24+00:00",
-  "as_of_local": "2026-09-11 09:50:24 UTC",
+  "as_of_utc": "2026-09-11T09:55:53+00:00",
+  "as_of_local": "2026-09-11 09:55:53 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -97,6 +97,12 @@
       "market_cap": 246068251669.19684,
       "headlines": [
         {
+          "title": "Elon Musk\u2019s gas turbines could shake up the backlogged sector",
+          "url": "https://finance.yahoo.com/energy/articles/elon-musk-gas-turbines-could-040029538.html",
+          "publisher": "Financial Times",
+          "published": "2026-09-11T04:00:29Z"
+        },
+        {
           "title": "EXCLUSIVE: Kevin Warsh\u2019s Hawkishness Is a \u2018Distraction From His Dovishness,\u2019 Truflation CEO Says",
           "url": "https://finance.yahoo.com/economy/policy/articles/exclusive-kevin-warsh-hawkishness-distraction-144339437.html",
           "publisher": "Benzinga Prediction Markets",
@@ -107,12 +113,6 @@
           "url": "https://finance.yahoo.com/energy/articles/gas-turbine-grid-backlog-powers-121945090.html",
           "publisher": "Insider Monkey",
           "published": "2026-09-10T12:19:45Z"
-        },
-        {
-          "title": "GE Vernova (GEV) Suffers a Larger Drop Than the General Market: Key Insights",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-gev-suffers-larger-220004035.html",
-          "publisher": "Zacks",
-          "published": "2026-09-09T22:00:04Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 99.67,
-      "change_pct": -2.74
+      "price": 99.81,
+      "change_pct": -2.61
     },
     {
       "label": "Brent",
-      "price": 104.19,
-      "change_pct": -3.2
+      "price": 104.23,
+      "change_pct": -3.16
     },
     {
       "label": "NatGas",
       "price": 2.81,
-      "change_pct": -0.92
+      "change_pct": -1.02
     }
   ]
 }
