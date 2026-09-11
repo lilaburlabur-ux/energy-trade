@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-11T06:23:06+00:00",
-  "as_of_local": "2026-09-11 06:23:06 UTC",
+  "as_of_utc": "2026-09-11T06:38:14+00:00",
+  "as_of_local": "2026-09-11 06:38:14 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -433,6 +433,12 @@
       "market_cap": 95527117246.31506,
       "headlines": [
         {
+          "title": "1 Big Reason Vertiv's New Acquisition Could Supercharge Its AI Dominance",
+          "url": "https://finance.yahoo.com/technology/ai/articles/1-big-reason-vertivs-acquisition-062500023.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-11T06:25:00Z"
+        },
+        {
           "title": "What Does Buying A Vertiv Dip Cost You Before It Pays?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/does-buying-vertiv-dip-cost-224406496.html",
           "publisher": "Trefis",
@@ -443,12 +449,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/3-stocks-powering-ai-boom-170219071.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-09-10T17:02:19Z"
-        },
-        {
-          "title": "Want to Make a Fortune From the AI Power Boom? Buy These 2 Industrial Stocks",
-          "url": "https://finance.yahoo.com/technology/ai/articles/want-fortune-ai-power-boom-163500791.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-10T16:35:00Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 101.02,
-      "change_pct": -1.42
+      "price": 101.2,
+      "change_pct": -1.25
     },
     {
       "label": "Brent",
-      "price": 106.04,
-      "change_pct": -1.48
+      "price": 106.12,
+      "change_pct": -1.4
     },
     {
       "label": "NatGas",
       "price": 2.82,
-      "change_pct": -0.53
+      "change_pct": -0.39
     }
   ]
 }
