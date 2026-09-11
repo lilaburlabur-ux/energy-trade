@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-09-11T23:33:01+00:00",
-  "as_of_local": "2026-09-11 23:33:01 UTC",
+  "as_of_utc": "2026-09-11T23:35:03+00:00",
+  "as_of_local": "2026-09-11 23:35:03 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "BKR"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -843,6 +841,34 @@
           "url": "https://finance.yahoo.com/energy/articles/got-10-000-invest-september-085500628.html",
           "publisher": "Motley Fool",
           "published": "2026-09-06T08:55:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "BKR",
+      "name": "Baker Hughes",
+      "price": 59.06,
+      "previous_close": 59.4,
+      "change_pct": -0.57,
+      "market_cap": 58627331996.49039,
+      "headlines": [
+        {
+          "title": "U.S. Oil Rig Count Rises as Oil Tops $100",
+          "url": "https://finance.yahoo.com/energy/articles/u-oil-rig-count-rises-171917717.html",
+          "publisher": "Oilprice.com",
+          "published": "2026-09-11T17:19:17Z"
+        },
+        {
+          "title": "Baker Hughes (BKR) Stock Trades Down, Here Is Why",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/baker-hughes-bkr-stock-trades-020904725.html",
+          "publisher": "StockStory",
+          "published": "2026-09-11T02:09:04Z"
+        },
+        {
+          "title": "Why Baker Hughes Stock Is Having Its Worst Day in More Than a Year",
+          "url": "https://www.barrons.com/articles/baker-hughes-stock-energy-oil-f0b3bfbc?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-09-10T18:13:00Z"
         }
       ]
     },
