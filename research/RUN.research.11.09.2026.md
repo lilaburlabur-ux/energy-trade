@@ -5,7 +5,7 @@ Signed file: `RUN.research.11.09.2026`
 | Field | Value |
 |---|---|
 | Current price | $8.56 (2026-09-11, ~15-min delayed) |
-| Market cap | $2.06B |
+| Market cap | $2.04B |
 | Sector / Industry | Technology / Solar |
 | Main theme | Solar — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: high. |
@@ -36,10 +36,10 @@ Sunrun Inc. designs, develops, installs, sells, owns, and maintains residential 
 
 | Headline | Source | Date |
 |---|---|---|
+| 2 Small-Cap Stocks to Keep an Eye On and 1 We Turn Down | StockStory | 2026-09-11 |
 | Is Tesla Stock Priced For Its Earnings Or Its Robots? | Trefis | 2026-09-11 |
 | Should You Pay A Growth Price For Tesla's Thin Profits? | Trefis | 2026-09-03 |
 | SunPower Soars 60% on $26.2M Raise: Is This a Short Squeeze in Progress? | 24/7 Wall St. | 2026-09-03 |
-| PG&E, Google, Rewiring America Launch VPP in California | POWER Magazine | 2026-09-03 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -113,7 +113,7 @@ Sunrun Inc. designs, develops, installs, sells, owns, and maintains residential 
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $8.56 | EV/Sales | 5.27 |
-| Market cap | $2.06B | EV/EBITDA | 21.77 |
+| Market cap | $2.04B | EV/EBITDA | 21.77 |
 | Beta | 2.36 | Gross margin | 35.29% |
 | RSI(14) | 38.7 | Operating margin | 4.00% |
 | ATR(14) | 0.51 | Profit margin | 11.59% |

@@ -5,7 +5,7 @@ Signed file: `BEP.research.11.09.2026`
 | Field | Value |
 |---|---|
 | Current price | $30.39 (2026-09-11, ~15-min delayed) |
-| Market cap | $14.81B |
+| Market cap | $14.78B |
 | Sector / Industry | Utilities / Utilities - Renewable |
 | Main theme | Utilities - Renewable — see catalysts below |
 | Current stance | Moderate technical momentum, weak fundamentals, value: reasonable, risk: moderate. |
@@ -68,7 +68,7 @@ Brookfield Renewable Partners L.P. owns a portfolio of renewable power generatin
 | Revenue (ttm) | $6.36B | Revenue growth 1.10% y/y |
 | Profitability | Gross 51.39%, operating 17.08%, net -1.26% | ROA 0.42%, ROE 0.40% |
 | Balance sheet | Cash $2.69B, debt $37.72B | Current ratio 0.80, debt/equity 105.23 |
-| Valuation | P/E —, forward P/E -16.26, P/S 2.33, P/B 2.44 | EV/Sales 12.97, EV/EBITDA 27.50 |
+| Valuation | P/E —, forward P/E -16.26, P/S 2.32, P/B 2.44 | EV/Sales 12.97, EV/EBITDA 27.50 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $35.64 (14 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -111,7 +111,7 @@ Brookfield Renewable Partners L.P. owns a portfolio of renewable power generatin
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $30.39 | EV/Sales | 12.97 |
-| Market cap | $14.81B | EV/EBITDA | 27.50 |
+| Market cap | $14.78B | EV/EBITDA | 27.50 |
 | Beta | 0.98 | Gross margin | 51.39% |
 | RSI(14) | 37.5 | Operating margin | 17.08% |
 | ATR(14) | 0.89 | Profit margin | -1.26% |
@@ -123,7 +123,7 @@ Brookfield Renewable Partners L.P. owns a portfolio of renewable power generatin
 | P/E (ttm) | — | Insider ownership | 0.02% |
 | Forward P/E | -16.26 | Short float | 0.61% |
 | PEG (trailing) | — | Avg volume | 900,837 |
-| P/S | 2.33 | Employees | 5,870 |
+| P/S | 2.32 | Employees | 5,870 |
 | P/B | 2.44 | Analyst rec (1=buy..5=sell) | 2.2 |
 
 ## 8. Analyst Actions

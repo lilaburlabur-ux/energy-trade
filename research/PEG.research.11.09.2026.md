@@ -5,7 +5,7 @@ Signed file: `PEG.research.11.09.2026`
 | Field | Value |
 |---|---|
 | Current price | $72.39 (2026-09-11, ~15-min delayed) |
-| Market cap | $36.07B |
+| Market cap | $36.08B |
 | Sector / Industry | Utilities / Utilities - Regulated Electric |
 | Main theme | Utilities - Regulated Electric — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -36,10 +36,10 @@ Public Service Enterprise Group Incorporated, through its subsidiaries, operates
 
 | Headline | Source | Date |
 |---|---|---|
+| Public Service Enterprise Group CEO Sells 2,083 Shares | Motley Fool | 2026-09-11 |
 | Public Service Enterprise Group Stock: Is PEG Underperforming the Utilities Sector? | Barchart | 2026-09-10 |
 | Public Service Enterprise Group Inc's Dividend Analysis | GuruFocus.com | 2026-09-09 |
 | PSEG (PEG) Down 2.9% Since Last Earnings Report: Can It Rebound? | Zacks | 2026-09-03 |
-| Sector Update: Energy Stocks Rise Wednesday | MT Newswires | 2026-08-26 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -110,7 +110,7 @@ Public Service Enterprise Group Incorporated, through its subsidiaries, operates
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $72.39 | EV/Sales | 4.83 |
-| Market cap | $36.07B | EV/EBITDA | 13.58 |
+| Market cap | $36.08B | EV/EBITDA | 13.58 |
 | Beta | 0.52 | Gross margin | 33.33% |
 | RSI(14) | 37.6 | Operating margin | 18.87% |
 | ATR(14) | 1.14 | Profit margin | 16.04% |

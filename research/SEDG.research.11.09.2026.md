@@ -36,10 +36,10 @@ SolarEdge Technologies, Inc., together with its subsidiaries, operates as an ene
 
 | Headline | Source | Date |
 |---|---|---|
+| SolarEdge Technologies (SEDG) Stock Sinks As Market Gains: What You Should Know | Zacks | 2026-09-11 |
 | SolarEdge Technologies to See Continued Solar Revenue, Margin Growth, RBC Capital Markets Says | MT Newswires | 2026-09-11 |
 | SolarEdge Targets $2.4B Revenue By 2029 – A Look At Some Highlights From Its 2026 Investor Day | Stocktwits | 2026-09-10 |
 | SolarEdge Falls 4% on Analyst Day Despite Joint NVIDIA 800 VDC Paper; Enphase Energy and First Solar Edge Higher | 24/7 Wall St. | 2026-09-10 |
-| Defense, Solar, and Refining Stocks Split as the Iran Conflict Raises Energy Risk | MarketBeat | 2026-09-09 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -133,14 +133,14 @@ SolarEdge Technologies, Inc., together with its subsidiaries, operates as an ene
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-09-11 | main | Morgan Stanley | Equal-Weight → Equal-Weight |
+| 2026-09-11 | main | Mizuho | Neutral → Neutral |
 | 2026-09-11 | main | JP Morgan | Neutral → Neutral |
 | 2026-09-11 | main | RBC Capital | Sector Perform → Sector Perform |
 | 2026-08-26 | up | UBS | Neutral → Buy |
 | 2026-08-06 | main | RBC Capital | Sector Perform → Sector Perform |
 | 2026-08-06 | main | Barclays | Equal-Weight → Equal-Weight |
 | 2026-08-06 | main | Susquehanna | Neutral → Neutral |
-| 2026-08-06 | main | Goldman Sachs | Sell → Sell |
-| 2026-07-20 | main | TD Cowen | Buy → Buy |
 
 ## 9. Conclusion
 SEDG: Low momentum / weak fundamentals / low (expensive) value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

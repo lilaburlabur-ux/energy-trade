@@ -36,10 +36,10 @@ Vistra Corp., together with its subsidiaries, operates as an integrated retail e
 
 | Headline | Source | Date |
 |---|---|---|
+| Forget NVDA: Peter Thiel's New $419 Million Portfolio Bets Big on the Power Behind AI | Benzinga | 2026-09-11 |
 | What's Going On With Vistra Stock Friday? | Benzinga | 2026-09-11 |
 | Sector Update: Energy Stocks Decline Late Afternoon | MT Newswires | 2026-09-10 |
 | Sector Update: Energy Stocks Mixed Thursday Afternoon | MT Newswires | 2026-09-10 |
-| VST Stock Outperforms Industry in the Past 3 Months: Time to Buy? | Zacks | 2026-09-10 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -36,10 +36,10 @@ ConocoPhillips explores for, produces, transports, and markets crude oil, bitume
 
 | Headline | Source | Date |
 |---|---|---|
+| Saudi Arabia Shuts Key Pipeline, Adding Pressure to Oil Supplies | Barrons.com | 2026-09-11 |
 | Update: US Equity Futures Lower Pre-Bell Thursday as Traders Assess Inflation Data Amid Higher Oil Prices | MT Newswires | 2026-09-10 |
 | Why Did CVX, COP, VLO Stocks Jump To 52-Week Highs? | Stocktwits | 2026-09-10 |
 | Why Is ExxonMobil Priced Above Peers With Fatter Margins? | Trefis | 2026-09-10 |
-| Trump oil and gas holdings gained up to $4.4M during Iran war | Quartz | 2026-09-09 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

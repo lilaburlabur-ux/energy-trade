@@ -36,10 +36,10 @@ Chevron Corporation, through its subsidiaries, engages in the integrated energy 
 
 | Headline | Source | Date |
 |---|---|---|
+| Saudi Arabia Shuts Key Pipeline, Adding Pressure to Oil Supplies | Barrons.com | 2026-09-11 |
 | Jim Cramer Praises Microsoft (MSFT) for Its Permian Power Plan with Chevron (CVX) | Insider Monkey | 2026-09-11 |
 | The Top 3 Value Stocks to Buy in Berkshire Hathaway's Portfolio | Zacks | 2026-09-11 |
 | Oracle, Kroger, Adobe, and More Stocks That Explain Today’s Market | Barrons.com | 2026-09-11 |
-| Sector Update: Energy Stocks Mixed Late Afternoon | MT Newswires | 2026-09-11 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -74,7 +74,7 @@ Chevron Corporation, through its subsidiaries, engages in the integrated energy 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 71.17% |
+| Institutional ownership | 71.21% |
 | Insider ownership | 4.77% |
 | Short float | 1.05% |
 | Short ratio (days to cover) | 2.5 |
@@ -119,7 +119,7 @@ Chevron Corporation, through its subsidiaries, engages in the integrated energy 
 | SMA50 dist | +10.53% | ROE | 12.23% |
 | SMA200 dist | +19.23% | Revenue (ttm) | $209.38B |
 | 52W high | $214.06 | Revenue growth y/y | 53.50% |
-| 52W low | $142.76 | Inst. ownership | 71.17% |
+| 52W low | $142.76 | Inst. ownership | 71.21% |
 | P/E (ttm) | 20.62 | Insider ownership | 4.77% |
 | Forward P/E | 15.89 | Short float | 1.05% |
 | PEG (trailing) | 0.94 | Avg volume | 8,458,456 |

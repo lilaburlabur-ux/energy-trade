@@ -36,10 +36,10 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 
 | Headline | Source | Date |
 |---|---|---|
+| Forget VYM: HDV’s 3.42% Yield and 8-Point Year-to-Date Lead Deserve a Hard Look | 24/7 Wall St. | 2026-09-11 |
 | Exxon Edged Higher as IEA Sees a 5.7 Million-Barrel Supply Drop | GuruFocus.com | 2026-09-11 |
 | Update: Market Chatter: White House Looking to Expand US Oil Refining Capacity | MT Newswires | 2026-09-11 |
 | ExxonMobil Finds More Hydrocarbons in Angola's Offshore Block 15 | Zacks | 2026-09-11 |
-| 3 Top Dividend Aristocrats To Own Near All-Time Highs | Zacks | 2026-09-11 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -74,7 +74,7 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 67.04% |
+| Institutional ownership | 67.10% |
 | Insider ownership | 0.08% |
 | Short float | 1.08% |
 | Short ratio (days to cover) | 2.8 |
@@ -119,7 +119,7 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 | SMA50 dist | +7.39% | ROE | 12.58% |
 | SMA200 dist | +15.23% | Revenue (ttm) | $361.06B |
 | 52W high | $169.22 | Revenue growth y/y | 44.10% |
-| 52W low | $107.52 | Inst. ownership | 67.04% |
+| 52W low | $107.52 | Inst. ownership | 67.10% |
 | P/E (ttm) | 21.36 | Insider ownership | 0.08% |
 | Forward P/E | 15.38 | Short float | 1.08% |
 | PEG (trailing) | 1.42 | Avg volume | 15,482,825 |
