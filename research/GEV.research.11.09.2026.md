@@ -36,10 +36,10 @@ GE Vernova Inc., an energy company, engages in the provision of various products
 
 | Headline | Source | Date |
 |---|---|---|
+| GE Vernova Stock Isn’t All About Orders | Barrons.com | 2026-09-11 |
 | Elon Musk's gas turbines could shake up the backlogged sector | Financial Times | 2026-09-11 |
 | EXCLUSIVE: Kevin Warsh’s Hawkishness Is a ‘Distraction From His Dovishness,’ Truflation CEO Says | Benzinga Prediction Markets | 2026-09-10 |
 | Gas Turbine And Grid Backlog Powers GE Vernova (GEV) | Insider Monkey | 2026-09-10 |
-| GE Vernova (GEV) Suffers a Larger Drop Than the General Market: Key Insights | Zacks | 2026-09-09 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -74,7 +74,7 @@ GE Vernova Inc., an energy company, engages in the provision of various products
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 81.66% |
+| Institutional ownership | 81.73% |
 | Insider ownership | 0.13% |
 | Short float | 3.29% |
 | Short ratio (days to cover) | 4.3 |
@@ -120,7 +120,7 @@ GE Vernova Inc., an energy company, engages in the provision of various products
 | SMA50 dist | -4.50% | ROE | 82.58% |
 | SMA200 dist | +7.16% | Revenue (ttm) | $41.37B |
 | 52W high | $1,174.86 | Revenue growth y/y | 21.90% |
-| 52W low | $546.95 | Inst. ownership | 81.66% |
+| 52W low | $546.95 | Inst. ownership | 81.73% |
 | P/E (ttm) | 27.41 | Insider ownership | 0.13% |
 | Forward P/E | 37.97 | Short float | 3.29% |
 | PEG (trailing) | 1.80 | Avg volume | 2,601,019 |

@@ -5,7 +5,7 @@ Signed file: `MPC.research.11.09.2026`
 | Field | Value |
 |---|---|
 | Current price | $395.93 (2026-09-11, ~15-min delayed) |
-| Market cap | $115.59B |
+| Market cap | $111.19B |
 | Sector / Industry | Energy / Oil & Gas Refining & Marketing |
 | Main theme | Oil & Gas Refining & Marketing — see catalysts below |
 | Current stance | High technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -68,7 +68,7 @@ Marathon Petroleum Corporation, together with its subsidiaries, operates as an i
 | Revenue (ttm) | $154.15B | Revenue growth 53.70% y/y |
 | Profitability | Gross 12.82%, operating 13.56%, net 5.55% | ROA 8.74%, ROE 42.10% |
 | Balance sheet | Cash $7.77B, debt $34.29B | Current ratio 1.25, debt/equity 133.33 |
-| Valuation | P/E 13.73, forward P/E 11.66, P/S 0.75, P/B 5.87 | EV/Sales 0.93, EV/EBITDA 9.31 |
+| Valuation | P/E 13.73, forward P/E 11.66, P/S 0.72, P/B 5.87 | EV/Sales 0.93, EV/EBITDA 9.31 |
 | Growth expectations | Earnings growth 348.00%, EPS q/q 322.50% | Analyst mean target $351.67 (18 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -111,7 +111,7 @@ Marathon Petroleum Corporation, together with its subsidiaries, operates as an i
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $395.93 | EV/Sales | 0.93 |
-| Market cap | $115.59B | EV/EBITDA | 9.31 |
+| Market cap | $111.19B | EV/EBITDA | 9.31 |
 | Beta | 0.53 | Gross margin | 12.82% |
 | RSI(14) | 74.7 | Operating margin | 13.56% |
 | ATR(14) | 11.35 | Profit margin | 5.55% |
@@ -123,7 +123,7 @@ Marathon Petroleum Corporation, together with its subsidiaries, operates as an i
 | P/E (ttm) | 13.73 | Insider ownership | 0.33% |
 | Forward P/E | 11.66 | Short float | 3.14% |
 | PEG (trailing) | 1.90 | Avg volume | 2,365,093 |
-| P/S | 0.75 | Employees | 18,500 |
+| P/S | 0.72 | Employees | 18,500 |
 | P/B | 5.87 | Analyst rec (1=buy..5=sell) | 2.3 |
 
 ## 8. Analyst Actions

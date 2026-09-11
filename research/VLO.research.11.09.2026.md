@@ -36,10 +36,10 @@ Valero Energy Corporation manufactures, markets, and sells petroleum-based and l
 
 | Headline | Source | Date |
 |---|---|---|
+| S&P 500 Index Slips Weekly as Health Care, Materials Weigh | MT Newswires | 2026-09-11 |
+| Jim Cramer Explains Why Enbridge (ENB) Offers a Secure Play During Market Volatility | Insider Monkey | 2026-09-11 |
 | Update: Market Chatter: White House Looking to Expand US Oil Refining Capacity | MT Newswires | 2026-09-11 |
 | Will Tight Refined Product Markets Support Valero's Profitability? | Zacks | 2026-09-11 |
-| Eni, Vitol Pursue New Offshore Opportunities in Ghana's Tano Basin | Zacks | 2026-09-11 |
-| ExxonMobil Finds More Hydrocarbons in Angola's Offshore Block 15 | Zacks | 2026-09-11 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

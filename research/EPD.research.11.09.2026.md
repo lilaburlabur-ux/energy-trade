@@ -36,10 +36,10 @@ Enterprise Products Partners L.P. provides midstream energy services to producer
 
 | Headline | Source | Date |
 |---|---|---|
+| Jim Cramer Sees Enterprise Products Partners (EPD) as a Pipeline Winner | Insider Monkey | 2026-09-11 |
 | The 10-Year Treasury Pays Nearly 5% These 6 Dividend Stocks Still Pay More | 24/7 Wall St. | 2026-09-11 |
 | Not All Pipeline Dividends Are Created Equal—Especially at Tax Time | 24/7 Wall St. | 2026-09-11 |
 | Before You Buy Energy Transfer or Enterprise Products for the Yield, Here's the Complication Nobody Mentions. | Motley Fool | 2026-09-10 |
-| Enterprise Products Partners (EPD) Gains As Market Dips: What You Should Know | Zacks | 2026-09-09 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -36,10 +36,10 @@ Bloom Energy Corporation designs, manufactures, sells, and installs solid oxide 
 
 | Headline | Source | Date |
 |---|---|---|
+| Former OpenAI Researcher Bets on AI Stocks After $35 Billion Wipeout | BeInCrypto | 2026-09-11 |
 | Do You Have the Guts to Buy the AI Stocks Right Now? | Zacks | 2026-09-11 |
 | Stock Of The Day: AI Energy Play Bloom Energy Nears Buy Point, S&P 500 Entry | Investor's Business Daily | 2026-09-11 |
 | Bloom Energy Climbs 7% as Fuel Cell Bid Spreads Beyond Its S&P 500 Add, FuelCell Energy Rises 4%, Plug Power Inches Higher | 24/7 Wall St. | 2026-09-11 |
-| AMD, BE, CRWV In Focus: Situational Awareness Has Been Reportedly Buying Options Tied To These Stocks | Stocktwits | 2026-09-11 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

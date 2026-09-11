@@ -36,10 +36,10 @@ APA Corporation, an independent energy company, explores for, develops, and prod
 
 | Headline | Source | Date |
 |---|---|---|
+| S&P 500 Index Slips Weekly as Health Care, Materials Weigh | MT Newswires | 2026-09-11 |
 | 3 U.S. E&P Stocks That Look Well Placed for the Road Ahead | Zacks | 2026-09-11 |
 | Eni (E) Bets Big on Uruguay with Stakes in Two Offshore Blocks | Insider Monkey | 2026-09-07 |
 | APA (APA) Up 20.9% Since Last Earnings Report: Can It Continue? | Zacks | 2026-09-04 |
-| 2 Value Stocks on Our Watchlist and 1 We Find Risky | StockStory | 2026-09-01 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -74,7 +74,7 @@ APA Corporation, an independent energy company, explores for, develops, and prod
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 109.87% |
+| Institutional ownership | 109.93% |
 | Insider ownership | 0.44% |
 | Short float | 9.10% |
 | Short ratio (days to cover) | 4.2 |
@@ -121,7 +121,7 @@ APA Corporation, an independent energy company, explores for, develops, and prod
 | SMA50 dist | +15.54% | ROE | 26.66% |
 | SMA200 dist | +32.93% | Revenue (ttm) | $8.57B |
 | 52W high | $44.84 | Revenue growth y/y | 9.20% |
-| 52W low | $21.16 | Inst. ownership | 109.87% |
+| 52W low | $21.16 | Inst. ownership | 109.93% |
 | P/E (ttm) | 9.44 | Insider ownership | 0.44% |
 | Forward P/E | 10.28 | Short float | 9.10% |
 | PEG (trailing) | 1.20 | Avg volume | 5,576,604 |

@@ -19,7 +19,7 @@ Signed file: `CVX.research.11.09.2026`
 | Fresh setup quality | Watch | +0.00% from 52w high and near SMA20 — check for a tight base. |
 | Fundamental quality | Mixed | Profit margin 9.83%, revenue growth 53.50%. |
 | Value attractiveness | Reasonable | Forward P/E 15.89, EV/Sales 2.16. |
-| Risk level | Moderate | Beta 0.49, ATR 2.0% of price, short float 1.05%. |
+| Risk level | Moderate | Beta 0.49, ATR 1.9% of price, short float 1.05%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
@@ -36,10 +36,10 @@ Chevron Corporation, through its subsidiaries, engages in the integrated energy 
 
 | Headline | Source | Date |
 |---|---|---|
+| Jim Cramer Praises Microsoft (MSFT) for Its Permian Power Plan with Chevron (CVX) | Insider Monkey | 2026-09-11 |
+| The Top 3 Value Stocks to Buy in Berkshire Hathaway's Portfolio | Zacks | 2026-09-11 |
 | Oracle, Kroger, Adobe, and More Stocks That Explain Today’s Market | Barrons.com | 2026-09-11 |
 | Sector Update: Energy Stocks Mixed Late Afternoon | MT Newswires | 2026-09-11 |
-| Sector Update: Energy | MT Newswires | 2026-09-11 |
-| Chevron CEO Mike Wirth warns oil price buffers are depleted | Quartz | 2026-09-11 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -47,7 +47,7 @@ Chevron Corporation, through its subsidiaries, engages in the integrated energy 
 | Price vs 52-week range | Close $214.06; 52w high $214.06 (+0.00%); 52w low $142.76 (+49.94%) |
 | Trend | +19.23% vs SMA200, +10.53% vs SMA50, +3.81% vs SMA20 |
 | Momentum | RSI(14) 69.5 (neutral) |
-| Volatility | ATR(14) 4.18 (~2.0% of price); beta 0.49 |
+| Volatility | ATR(14) 4.15 (~1.9% of price); beta 0.49 |
 | Setup perspective | +0.00% from 52w high and near SMA20 — check for a tight base. |
 
 **Performance snapshot:**
@@ -74,7 +74,7 @@ Chevron Corporation, through its subsidiaries, engages in the integrated energy 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 71.17% |
+| Institutional ownership | 71.21% |
 | Insider ownership | 4.77% |
 | Short float | 1.05% |
 | Short ratio (days to cover) | 2.5 |
@@ -114,12 +114,12 @@ Chevron Corporation, through its subsidiaries, engages in the integrated energy 
 | Market cap | $419.90B | EV/EBITDA | 8.91 |
 | Beta | 0.49 | Gross margin | 44.27% |
 | RSI(14) | 69.5 | Operating margin | 21.87% |
-| ATR(14) | 4.18 | Profit margin | 9.83% |
+| ATR(14) | 4.15 | Profit margin | 9.83% |
 | SMA20 dist | +3.81% | ROA | 5.86% |
 | SMA50 dist | +10.53% | ROE | 12.23% |
 | SMA200 dist | +19.23% | Revenue (ttm) | $209.38B |
 | 52W high | $214.06 | Revenue growth y/y | 53.50% |
-| 52W low | $142.76 | Inst. ownership | 71.17% |
+| 52W low | $142.76 | Inst. ownership | 71.21% |
 | P/E (ttm) | 20.62 | Insider ownership | 4.77% |
 | Forward P/E | 15.89 | Short float | 1.05% |
 | PEG (trailing) | 0.94 | Avg volume | 8,458,456 |
