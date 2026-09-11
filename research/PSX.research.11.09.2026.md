@@ -18,7 +18,7 @@ Signed file: `PSX.research.11.09.2026`
 | Technical momentum | High | 1Y +103.28%; price +49.92% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -0.50% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 4.66%, revenue growth 53.10%. |
-| Value attractiveness | Reasonable | Forward P/E 11.90, EV/Sales 0.79. |
+| Value attractiveness | Reasonable | Forward P/E 11.90, EV/Sales 0.80. |
 | Risk level | Moderate | Beta 0.70, ATR 2.6% of price, short float 1.61%. |
 
 **Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -68,7 +68,7 @@ Phillips 66 operates as an integrated downstream energy provider in the United S
 | Revenue (ttm) | $152.17B | Revenue growth 53.10% y/y |
 | Profitability | Gross 13.10%, operating 8.53%, net 4.66% | ROA 6.04%, ROE 23.45% |
 | Balance sheet | Cash $4.10B, debt $20.57B | Current ratio 1.32, debt/equity 62.88 |
-| Valuation | P/E 14.80, forward P/E 11.90, P/S 0.68, P/B 3.29 | EV/Sales 0.79, EV/EBITDA 12.17 |
+| Valuation | P/E 14.80, forward P/E 11.90, P/S 0.68, P/B 3.29 | EV/Sales 0.80, EV/EBITDA 12.21 |
 | Growth expectations | Earnings growth 344.90%, EPS q/q 338.70% | Analyst mean target $240.05 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -110,8 +110,8 @@ Phillips 66 operates as an integrated downstream energy provider in the United S
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $259.47 | EV/Sales | 0.79 |
-| Market cap | $104.03B | EV/EBITDA | 12.17 |
+| Price | $259.47 | EV/Sales | 0.80 |
+| Market cap | $104.03B | EV/EBITDA | 12.21 |
 | Beta | 0.70 | Gross margin | 13.10% |
 | RSI(14) | 74.6 | Operating margin | 8.53% |
 | ATR(14) | 6.82 | Profit margin | 4.66% |

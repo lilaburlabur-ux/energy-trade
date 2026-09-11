@@ -36,10 +36,10 @@ Vertiv Holdings Co designs, manufactures, and services critical digital infrastr
 
 | Headline | Source | Date |
 |---|---|---|
+| Oracle Is Spending Tens of Billions on AI Infrastructure. Where Does the Physical Money Go? | Insider Monkey | 2026-09-11 |
 | AI Capex Creates New Investment Cycle: NVIDIA & 2 Other Stocks to Buy | Zacks | 2026-09-11 |
 | Prediction: This Underrated AI Infrastructure Stock Will Continue Soaring Despite Doubling in a Year | Motley Fool | 2026-09-11 |
 | 1 Big Reason Vertiv's New Acquisition Could Supercharge Its AI Dominance | Motley Fool | 2026-09-11 |
-| What Does Buying A Vertiv Dip Cost You Before It Pays? | Trefis | 2026-09-10 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

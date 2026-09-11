@@ -68,7 +68,7 @@ NexGen Energy Ltd., an exploration and development stage company, engages in the
 | Revenue (ttm) | — | Revenue growth — y/y |
 | Profitability | Gross 0.00%, operating 0.00%, net 0.00% | ROA -3.39%, ROE -17.67% |
 | Balance sheet | Cash $970.25M, debt $619.11M | Current ratio 1.46, debt/equity 33.57 |
-| Valuation | P/E —, forward P/E -50.99, P/S —, P/B 4.93 | EV/Sales —, EV/EBITDA -59.86 |
+| Valuation | P/E —, forward P/E -50.99, P/S —, P/B 4.93 | EV/Sales —, EV/EBITDA -57.64 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $19.39 (1 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -112,7 +112,7 @@ NexGen Energy Ltd., an exploration and development stage company, engages in the
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $9.85 | EV/Sales | — |
-| Market cap | $6.60B | EV/EBITDA | -59.86 |
+| Market cap | $6.60B | EV/EBITDA | -57.64 |
 | Beta | 1.67 | Gross margin | 0.00% |
 | RSI(14) | 42.7 | Operating margin | 0.00% |
 | ATR(14) | 0.46 | Profit margin | 0.00% |
