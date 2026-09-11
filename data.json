@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-11T10:40:55+00:00",
-  "as_of_local": "2026-09-11 10:40:55 UTC",
+  "as_of_utc": "2026-09-11T10:46:32+00:00",
+  "as_of_local": "2026-09-11 10:46:32 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -41,6 +41,12 @@
       "market_cap": 417350701800.8314,
       "headlines": [
         {
+          "title": "TotalEnergies makes new oil discovery in Angola\u2019s Block 17",
+          "url": "https://finance.yahoo.com/energy/articles/totalenergies-makes-oil-discovery-angola-104404554.html",
+          "publisher": "Offshore Technology",
+          "published": "2026-09-11T10:44:04Z"
+        },
+        {
           "title": "The Zacks Analyst Blog Highlights ExxonMobil, BP and Chevron",
           "url": "https://finance.yahoo.com/energy/articles/zacks-analyst-blog-highlights-exxonmobil-083600201.html",
           "publisher": "Zacks",
@@ -51,12 +57,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/only-handful-dow-stocks-yield-072500602.html",
           "publisher": "Motley Fool",
           "published": "2026-09-11T07:25:00Z"
-        },
-        {
-          "title": "Berkshire Hathaway Has a New Top Holding, and It Dominates Its Market",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-top-holding-dominates-053500406.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-11T05:35:00Z"
         }
       ]
     },
@@ -125,6 +125,12 @@
       "market_cap": 201603889155.4027,
       "headlines": [
         {
+          "title": "TotalEnergies makes new oil discovery in Angola\u2019s Block 17",
+          "url": "https://finance.yahoo.com/energy/articles/totalenergies-makes-oil-discovery-angola-104404554.html",
+          "publisher": "Offshore Technology",
+          "published": "2026-09-11T10:44:04Z"
+        },
+        {
           "title": "ExxonMobil Holdings Corporation (XOM): Can a $14B Budget Unlock Papua LNG?",
           "url": "https://finance.yahoo.com/energy/articles/exxonmobil-holdings-corporation-xom-14b-203914029.html",
           "publisher": "Insider Monkey",
@@ -135,12 +141,6 @@
           "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-decline-afternoon-195829985.html",
           "publisher": "MT Newswires",
           "published": "2026-09-10T19:58:29Z"
-        },
-        {
-          "title": "Sector Update: Energy Stocks Mixed Thursday Afternoon",
-          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-mixed-thursday-175034796.html",
-          "publisher": "MT Newswires",
-          "published": "2026-09-10T17:50:34Z"
         }
       ]
     },
@@ -321,6 +321,12 @@
       "market_cap": 106998467869.71071,
       "headlines": [
         {
+          "title": "TotalEnergies makes new oil discovery in Angola\u2019s Block 17",
+          "url": "https://finance.yahoo.com/energy/articles/totalenergies-makes-oil-discovery-angola-104404554.html",
+          "publisher": "Offshore Technology",
+          "published": "2026-09-11T10:44:04Z"
+        },
+        {
           "title": "European Natural Gas Surges to 4-Year High, Lifting These Energy Stocks",
           "url": "https://www.barrons.com/articles/europe-natural-gas-prices-lng-stocks-af31a6f9?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
@@ -331,12 +337,6 @@
           "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-gain-afternoon-195617705.html",
           "publisher": "MT Newswires",
           "published": "2026-09-09T19:56:17Z"
-        },
-        {
-          "title": "European Stocks Tumble in Wednesday Trading as Intensified Middle East Conflict Drives Up Oil Prices",
-          "url": "https://finance.yahoo.com/markets/world-indices/articles/european-stocks-tumble-wednesday-trading-155236345.html",
-          "publisher": "MT Newswires",
-          "published": "2026-09-09T15:52:36Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 99.09,
-      "change_pct": -3.31
+      "price": 98.93,
+      "change_pct": -3.46
     },
     {
       "label": "Brent",
-      "price": 103.68,
-      "change_pct": -3.67
+      "price": 103.55,
+      "change_pct": -3.79
     },
     {
       "label": "NatGas",
       "price": 2.8,
-      "change_pct": -1.16
+      "change_pct": -1.34
     }
   ]
 }
