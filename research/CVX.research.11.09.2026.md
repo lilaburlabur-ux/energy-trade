@@ -74,7 +74,7 @@ Chevron Corporation, through its subsidiaries, engages in the integrated energy 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 71.21% |
+| Institutional ownership | 71.17% |
 | Insider ownership | 4.77% |
 | Short float | 1.05% |
 | Short ratio (days to cover) | 2.5 |
@@ -119,7 +119,7 @@ Chevron Corporation, through its subsidiaries, engages in the integrated energy 
 | SMA50 dist | +10.53% | ROE | 12.23% |
 | SMA200 dist | +19.23% | Revenue (ttm) | $209.38B |
 | 52W high | $214.06 | Revenue growth y/y | 53.50% |
-| 52W low | $142.76 | Inst. ownership | 71.21% |
+| 52W low | $142.76 | Inst. ownership | 71.17% |
 | P/E (ttm) | 20.62 | Insider ownership | 4.77% |
 | Forward P/E | 15.89 | Short float | 1.05% |
 | PEG (trailing) | 0.94 | Avg volume | 8,458,456 |

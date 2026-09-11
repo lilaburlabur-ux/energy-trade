@@ -5,7 +5,7 @@ Signed file: `FANG.research.11.09.2026`
 | Field | Value |
 |---|---|
 | Current price | $204.97 (2026-09-11, ~15-min delayed) |
-| Market cap | $57.40B |
+| Market cap | $57.66B |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -68,13 +68,13 @@ Diamondback Energy, Inc., an independent oil and natural gas company, acquires, 
 | Revenue (ttm) | $16.25B | Revenue growth 52.50% y/y |
 | Profitability | Gross 72.35%, operating 48.47%, net 9.03% | ROA 1.31%, ROE 3.49% |
 | Balance sheet | Cash $462.00M, debt $12.61B | Current ratio 0.47, debt/equity 28.68 |
-| Valuation | P/E 38.97, forward P/E 11.12, P/S 3.53, P/B 1.52 | EV/Sales 4.66, EV/EBITDA 6.43 |
+| Valuation | P/E 38.97, forward P/E 11.12, P/S 3.55, P/B 1.52 | EV/Sales 4.66, EV/EBITDA 6.43 |
 | Growth expectations | Earnings growth 179.50%, EPS q/q 169.20% | Analyst mean target $233.45 (29 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 73.44% |
+| Institutional ownership | 73.39% |
 | Insider ownership | 27.11% |
 | Short float | 4.23% |
 | Short ratio (days to cover) | 4.4 |
@@ -111,7 +111,7 @@ Diamondback Energy, Inc., an independent oil and natural gas company, acquires, 
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $204.97 | EV/Sales | 4.66 |
-| Market cap | $57.40B | EV/EBITDA | 6.43 |
+| Market cap | $57.66B | EV/EBITDA | 6.43 |
 | Beta | 0.41 | Gross margin | 72.35% |
 | RSI(14) | 56.3 | Operating margin | 48.47% |
 | ATR(14) | 5.56 | Profit margin | 9.03% |
@@ -119,11 +119,11 @@ Diamondback Energy, Inc., an independent oil and natural gas company, acquires, 
 | SMA50 dist | +4.24% | ROE | 3.49% |
 | SMA200 dist | +13.73% | Revenue (ttm) | $16.25B |
 | 52W high | $211.36 | Revenue growth y/y | 52.50% |
-| 52W low | $131.37 | Inst. ownership | 73.44% |
+| 52W low | $131.37 | Inst. ownership | 73.39% |
 | P/E (ttm) | 38.97 | Insider ownership | 27.11% |
 | Forward P/E | 11.12 | Short float | 4.23% |
 | PEG (trailing) | 25.24 | Avg volume | 2,071,148 |
-| P/S | 3.53 | Employees | 1,762 |
+| P/S | 3.55 | Employees | 1,762 |
 | P/B | 1.52 | Analyst rec (1=buy..5=sell) | 1.5 |
 
 ## 8. Analyst Actions

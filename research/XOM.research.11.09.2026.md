@@ -74,7 +74,7 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 67.10% |
+| Institutional ownership | 67.04% |
 | Insider ownership | 0.08% |
 | Short float | 1.08% |
 | Short ratio (days to cover) | 2.8 |
@@ -119,7 +119,7 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 | SMA50 dist | +7.39% | ROE | 12.58% |
 | SMA200 dist | +15.23% | Revenue (ttm) | $361.06B |
 | 52W high | $169.22 | Revenue growth y/y | 44.10% |
-| 52W low | $107.52 | Inst. ownership | 67.10% |
+| 52W low | $107.52 | Inst. ownership | 67.04% |
 | P/E (ttm) | 21.36 | Insider ownership | 0.08% |
 | Forward P/E | 15.38 | Short float | 1.08% |
 | PEG (trailing) | 1.42 | Avg volume | 15,482,825 |

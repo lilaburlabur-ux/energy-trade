@@ -74,7 +74,7 @@ Weatherford International plc, an energy services company, provides equipment an
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 106.68% |
+| Institutional ownership | 106.60% |
 | Insider ownership | 2.12% |
 | Short float | 6.87% |
 | Short ratio (days to cover) | 5.0 |
@@ -120,7 +120,7 @@ Weatherford International plc, an energy services company, provides equipment an
 | SMA50 dist | +0.65% | ROE | 22.79% |
 | SMA200 dist | -3.73% | Revenue (ttm) | $4.78B |
 | 52W high | $111.07 | Revenue growth y/y | -8.20% |
-| 52W low | $60.68 | Inst. ownership | 106.68% |
+| 52W low | $60.68 | Inst. ownership | 106.60% |
 | P/E (ttm) | 17.52 | Insider ownership | 2.12% |
 | Forward P/E | 12.59 | Short float | 6.87% |
 | PEG (trailing) | 1.37 | Avg volume | 1,241,332 |

@@ -68,7 +68,7 @@ Energy Fuels Inc., together with its subsidiaries, engages in the exploration, r
 | Revenue (ttm) | $105.76M | Revenue growth 496.10% y/y |
 | Profitability | Gross 40.85%, operating -79.03%, net -77.30% | ROA -4.65%, ROE -11.45% |
 | Balance sheet | Cash $936.75M, debt $678.34M | Current ratio 27.90, debt/equity 85.13 |
-| Valuation | P/E —, forward P/E 26.70, P/S 32.42, P/B 4.38 | EV/Sales 29.81, EV/EBITDA -43.99 |
+| Valuation | P/E —, forward P/E 26.70, P/S 32.42, P/B 4.08 | EV/Sales 29.81, EV/EBITDA -43.99 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $24.15 (5 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -128,7 +128,7 @@ Energy Fuels Inc., together with its subsidiaries, engages in the exploration, r
 | Forward P/E | 26.70 | Short float | 20.62% |
 | PEG (trailing) | — | Avg volume | 7,591,454 |
 | P/S | 32.42 | Employees | 1,069 |
-| P/B | 4.38 | Analyst rec (1=buy..5=sell) | 1.1 |
+| P/B | 4.08 | Analyst rec (1=buy..5=sell) | 1.1 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
