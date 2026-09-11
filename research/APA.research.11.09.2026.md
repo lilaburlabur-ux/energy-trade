@@ -74,7 +74,7 @@ APA Corporation, an independent energy company, explores for, develops, and prod
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 109.93% |
+| Institutional ownership | 109.87% |
 | Insider ownership | 0.44% |
 | Short float | 9.10% |
 | Short ratio (days to cover) | 4.2 |
@@ -121,7 +121,7 @@ APA Corporation, an independent energy company, explores for, develops, and prod
 | SMA50 dist | +15.54% | ROE | 26.66% |
 | SMA200 dist | +32.93% | Revenue (ttm) | $8.57B |
 | 52W high | $44.84 | Revenue growth y/y | 9.20% |
-| 52W low | $21.16 | Inst. ownership | 109.93% |
+| 52W low | $21.16 | Inst. ownership | 109.87% |
 | P/E (ttm) | 9.44 | Insider ownership | 0.44% |
 | Forward P/E | 10.28 | Short float | 9.10% |
 | PEG (trailing) | 1.20 | Avg volume | 5,576,604 |

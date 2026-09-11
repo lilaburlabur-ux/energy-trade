@@ -74,7 +74,7 @@ Centrus Energy Corp. supplies nuclear fuel components for the nuclear power indu
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 90.90% |
+| Institutional ownership | 90.80% |
 | Insider ownership | 4.31% |
 | Short float | 28.54% |
 | Short ratio (days to cover) | 9.2 |
@@ -122,7 +122,7 @@ Centrus Energy Corp. supplies nuclear fuel components for the nuclear power indu
 | SMA50 dist | -12.82% | ROE | 8.05% |
 | SMA200 dist | -27.14% | Revenue (ttm) | $473.90M |
 | 52W high | $436.00 | Revenue growth y/y | 14.00% |
-| 52W low | $146.61 | Inst. ownership | 90.90% |
+| 52W low | $146.61 | Inst. ownership | 90.80% |
 | P/E (ttm) | 80.59 | Insider ownership | 4.31% |
 | Forward P/E | 40.51 | Short float | 28.54% |
 | PEG (trailing) | — | Avg volume | 747,464 |

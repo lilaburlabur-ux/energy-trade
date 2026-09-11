@@ -133,7 +133,6 @@ Fluence Energy, Inc., through its subsidiaries, provides energy storage and opti
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
-| 2026-09-11 | main | Mizuho | Underperform → Underperform |
 | 2026-09-09 | init | Piper Sandler | — → Underweight |
 | 2026-09-03 | down | Barclays | Equal-Weight → Underweight |
 | 2026-08-25 | up | UBS | Sell → Neutral |
@@ -141,6 +140,7 @@ Fluence Energy, Inc., through its subsidiaries, provides energy storage and opti
 | 2026-08-14 | main | Citigroup | Buy → Buy |
 | 2026-08-07 | main | RBC Capital | Sector Perform → Sector Perform |
 | 2026-07-22 | up | Citigroup | Neutral → Buy |
+| 2026-07-14 | init | Truist Securities | Buy → Hold |
 
 ## 9. Conclusion
 FLNC: Low momentum / weak fundamentals / low (expensive) value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
