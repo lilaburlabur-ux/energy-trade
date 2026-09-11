@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-11T07:33:53+00:00",
-  "as_of_local": "2026-09-11 07:33:53 UTC",
+  "as_of_utc": "2026-09-11T07:49:10+00:00",
+  "as_of_local": "2026-09-11 07:49:10 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -41,6 +41,12 @@
       "market_cap": 417350701800.8314,
       "headlines": [
         {
+          "title": "There Are Only a Handful of Dow Stocks That Yield Over 3%. Here's My Top Pick to Buy Before September Ends.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/only-handful-dow-stocks-yield-072500602.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-11T07:25:00Z"
+        },
+        {
           "title": "Berkshire Hathaway Has a New Top Holding, and It Dominates Its Market",
           "url": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-top-holding-dominates-053500406.html",
           "publisher": "Motley Fool",
@@ -51,12 +57,6 @@
           "url": "https://finance.yahoo.com/energy/articles/jim-cramer-adds-chevron-cvx-044850014.html",
           "publisher": "Insider Monkey",
           "published": "2026-09-11T04:48:50Z"
-        },
-        {
-          "title": "Oil Just Topped $109. Is It Too Late to Buy Chevron (CVX)? History Has a Clear Answer.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/oil-just-topped-109-too-225901786.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-10T22:59:01Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 100.95,
-      "change_pct": -1.49
+      "price": 101.05,
+      "change_pct": -1.4
     },
     {
       "label": "Brent",
-      "price": 105.57,
-      "change_pct": -1.91
+      "price": 106.06,
+      "change_pct": -1.46
     },
     {
       "label": "NatGas",
-      "price": 2.82,
-      "change_pct": -0.6
+      "price": 2.81,
+      "change_pct": -0.78
     }
   ]
 }
