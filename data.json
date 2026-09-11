@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-09-11T23:29:53+00:00",
-  "as_of_local": "2026-09-11 23:29:53 UTC",
+  "as_of_utc": "2026-09-11T23:33:01+00:00",
+  "as_of_local": "2026-09-11 23:33:01 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "BKR"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -487,7 +489,26 @@
       "previous_close": 119.37,
       "change_pct": 0.04,
       "market_cap": 93112034460.38264,
-      "headlines": []
+      "headlines": [
+        {
+          "title": "NEE Stock Trades at a Premium Valuation: Buy, Hold or Stay Away?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nee-stock-trades-premium-valuation-164900931.html",
+          "publisher": "Zacks",
+          "published": "2026-09-11T16:49:00Z"
+        },
+        {
+          "title": "AI Data Centers Need Enormous Amounts of Power: These 5 Dividend Stocks Provide It",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ai-data-centers-enormous-amounts-153701811.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-09-11T15:37:01Z"
+        },
+        {
+          "title": "OpenAI meets with utility leaders on grid risks from rogue AI - report",
+          "url": "https://finance.yahoo.com/technology/ai/articles/openai-meets-utility-leaders-grid-150032272.html",
+          "publisher": "Investing.com",
+          "published": "2026-09-10T15:00:32Z"
+        }
+      ]
     },
     {
       "symbol": "WMB",
@@ -822,34 +843,6 @@
           "url": "https://finance.yahoo.com/energy/articles/got-10-000-invest-september-085500628.html",
           "publisher": "Motley Fool",
           "published": "2026-09-06T08:55:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "BKR",
-      "name": "Baker Hughes",
-      "price": 59.06,
-      "previous_close": 59.4,
-      "change_pct": -0.57,
-      "market_cap": 58627331996.49039,
-      "headlines": [
-        {
-          "title": "U.S. Oil Rig Count Rises as Oil Tops $100",
-          "url": "https://finance.yahoo.com/energy/articles/u-oil-rig-count-rises-171917717.html",
-          "publisher": "Oilprice.com",
-          "published": "2026-09-11T17:19:17Z"
-        },
-        {
-          "title": "Baker Hughes (BKR) Stock Trades Down, Here Is Why",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/baker-hughes-bkr-stock-trades-020904725.html",
-          "publisher": "StockStory",
-          "published": "2026-09-11T02:09:04Z"
-        },
-        {
-          "title": "Why Baker Hughes Stock Is Having Its Worst Day in More Than a Year",
-          "url": "https://www.barrons.com/articles/baker-hughes-stock-energy-oil-f0b3bfbc?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-09-10T18:13:00Z"
         }
       ]
     },
@@ -1890,8 +1883,204 @@
       ]
     }
   ],
-  "etfs": [],
-  "etf": null,
+  "etfs": [
+    {
+      "symbol": "XLE",
+      "name": "Energy Select Sector SPDR",
+      "price": null,
+      "change_pct": 0.0,
+      "holdings": [
+        {
+          "symbol": "XOM",
+          "name": "ExxonMobil Holdings Corp",
+          "short": "ExxonMobil",
+          "weight_pct": 19.86,
+          "change_pct": 0.46,
+          "price": 165.99,
+          "currency": "USD"
+        },
+        {
+          "symbol": "CVX",
+          "name": "Chevron Corp",
+          "short": "Chevron",
+          "weight_pct": 14.89,
+          "change_pct": 0.61,
+          "price": 214.06,
+          "currency": "USD"
+        },
+        {
+          "symbol": "COP",
+          "name": "ConocoPhillips",
+          "short": "ConocoPhillips",
+          "weight_pct": 6.23,
+          "change_pct": 0.23,
+          "price": 137.35,
+          "currency": "USD"
+        },
+        {
+          "symbol": "MPC",
+          "name": "Marathon Petroleum Corp",
+          "short": "Marathon",
+          "weight_pct": 5.42,
+          "change_pct": 0.89,
+          "price": 395.93,
+          "currency": "USD"
+        },
+        {
+          "symbol": "PSX",
+          "name": "Phillips 66",
+          "short": "Phillips",
+          "weight_pct": 5.33,
+          "change_pct": 0.37,
+          "price": 259.47,
+          "currency": "USD"
+        },
+        {
+          "symbol": "VLO",
+          "name": "Valero Energy Corp",
+          "short": "Valero",
+          "weight_pct": 5.07,
+          "change_pct": 1.29,
+          "price": 390.42,
+          "currency": "USD"
+        },
+        {
+          "symbol": "SLB",
+          "name": "SLB Ltd",
+          "short": "SLB",
+          "weight_pct": 4.88,
+          "change_pct": 0.09,
+          "price": 56.06,
+          "currency": "USD"
+        },
+        {
+          "symbol": "EOG",
+          "name": "EOG Resources Inc",
+          "short": "EOG Resources",
+          "weight_pct": 4.13,
+          "change_pct": -0.07,
+          "price": 147.36,
+          "currency": "USD"
+        },
+        {
+          "symbol": "WMB",
+          "name": "Williams Companies Inc",
+          "short": "Williams",
+          "weight_pct": 3.78,
+          "change_pct": 0.04,
+          "price": 72.85,
+          "currency": "USD"
+        },
+        {
+          "symbol": "KMI",
+          "name": "Kinder Morgan Inc Class P",
+          "short": "Kinder",
+          "weight_pct": 3.65,
+          "change_pct": -0.29,
+          "price": 30.86,
+          "currency": "USD"
+        }
+      ]
+    }
+  ],
+  "etf": {
+    "symbol": "XLE",
+    "name": "Energy Select Sector SPDR",
+    "price": null,
+    "change_pct": 0.0,
+    "holdings": [
+      {
+        "symbol": "XOM",
+        "name": "ExxonMobil Holdings Corp",
+        "short": "ExxonMobil",
+        "weight_pct": 19.86,
+        "change_pct": 0.46,
+        "price": 165.99,
+        "currency": "USD"
+      },
+      {
+        "symbol": "CVX",
+        "name": "Chevron Corp",
+        "short": "Chevron",
+        "weight_pct": 14.89,
+        "change_pct": 0.61,
+        "price": 214.06,
+        "currency": "USD"
+      },
+      {
+        "symbol": "COP",
+        "name": "ConocoPhillips",
+        "short": "ConocoPhillips",
+        "weight_pct": 6.23,
+        "change_pct": 0.23,
+        "price": 137.35,
+        "currency": "USD"
+      },
+      {
+        "symbol": "MPC",
+        "name": "Marathon Petroleum Corp",
+        "short": "Marathon",
+        "weight_pct": 5.42,
+        "change_pct": 0.89,
+        "price": 395.93,
+        "currency": "USD"
+      },
+      {
+        "symbol": "PSX",
+        "name": "Phillips 66",
+        "short": "Phillips",
+        "weight_pct": 5.33,
+        "change_pct": 0.37,
+        "price": 259.47,
+        "currency": "USD"
+      },
+      {
+        "symbol": "VLO",
+        "name": "Valero Energy Corp",
+        "short": "Valero",
+        "weight_pct": 5.07,
+        "change_pct": 1.29,
+        "price": 390.42,
+        "currency": "USD"
+      },
+      {
+        "symbol": "SLB",
+        "name": "SLB Ltd",
+        "short": "SLB",
+        "weight_pct": 4.88,
+        "change_pct": 0.09,
+        "price": 56.06,
+        "currency": "USD"
+      },
+      {
+        "symbol": "EOG",
+        "name": "EOG Resources Inc",
+        "short": "EOG Resources",
+        "weight_pct": 4.13,
+        "change_pct": -0.07,
+        "price": 147.36,
+        "currency": "USD"
+      },
+      {
+        "symbol": "WMB",
+        "name": "Williams Companies Inc",
+        "short": "Williams",
+        "weight_pct": 3.78,
+        "change_pct": 0.04,
+        "price": 72.85,
+        "currency": "USD"
+      },
+      {
+        "symbol": "KMI",
+        "name": "Kinder Morgan Inc Class P",
+        "short": "Kinder",
+        "weight_pct": 3.65,
+        "change_pct": -0.29,
+        "price": 30.86,
+        "currency": "USD"
+      }
+    ]
+  },
   "tape": [
     {
       "label": "SPX",
