@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-11T01:52:53+00:00",
-  "as_of_local": "2026-09-11 01:52:53 UTC",
+  "as_of_utc": "2026-09-11T02:08:26+00:00",
+  "as_of_local": "2026-09-11 02:08:26 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -69,6 +69,12 @@
       "market_cap": 274520129896.7207,
       "headlines": [
         {
+          "title": "Shell Sells U.S. Gas Plant for $715 Million in Power Portfolio Shake-Up",
+          "url": "https://finance.yahoo.com/energy/articles/shell-sells-u-gas-plant-020138867.html",
+          "publisher": "Oilprice.com",
+          "published": "2026-09-11T02:01:38Z"
+        },
+        {
           "title": "CEG, SHEL Stocks Rise Overnight: Constellation Energy To Acquire Rhode Island State Energy Center From Shell For $715M",
           "url": "https://finance.yahoo.com/energy/articles/ceg-shel-stocks-rise-overnight-012023144.html",
           "publisher": "Stocktwits",
@@ -79,12 +85,6 @@
           "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-decline-afternoon-195829985.html",
           "publisher": "MT Newswires",
           "published": "2026-09-10T19:58:29Z"
-        },
-        {
-          "title": "Shell (SHEL) Signs Deal to Take Full Ownership of Tri Star and Add 320 Sites",
-          "url": "https://finance.yahoo.com/energy/articles/shell-shel-signs-deal-full-161119087.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-09-10T16:11:19Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 102.46,
-      "change_pct": 6.67
+      "price": 102.85,
+      "change_pct": 7.08
     },
     {
       "label": "Brent",
-      "price": 107.69,
-      "change_pct": 6.4
+      "price": 108.03,
+      "change_pct": 6.74
     },
     {
       "label": "NatGas",
-      "price": 2.84,
-      "change_pct": 0.46
+      "price": 2.83,
+      "change_pct": 0.39
     }
   ]
 }
