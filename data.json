@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-11T20:07:55+00:00",
-  "as_of_local": "2026-09-11 20:07:55 UTC",
+  "as_of_utc": "2026-09-11T20:12:56+00:00",
+  "as_of_local": "2026-09-11 20:12:56 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -69,6 +69,12 @@
       "market_cap": 276722940181.3574,
       "headlines": [
         {
+          "title": "Shell's Troubled Project Faces Another Major Blow",
+          "url": "https://finance.yahoo.com/energy/articles/shells-troubled-project-faces-another-200953447.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-09-11T20:09:53Z"
+        },
+        {
           "title": "Sector Update: Energy Stocks Mixed Late Afternoon",
           "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-mixed-afternoon-194920218.html",
           "publisher": "MT Newswires",
@@ -79,12 +85,6 @@
           "url": "https://finance.yahoo.com/energy/articles/cegs-expanding-generation-portfolio-drive-164000250.html",
           "publisher": "Zacks",
           "published": "2026-09-11T16:40:00Z"
-        },
-        {
-          "title": "Update: Equinor, Shell Adura JV Awaits UK Decision on Jackdaw, Rosebank Projects",
-          "url": "https://finance.yahoo.com/energy/articles/equinor-shell-adura-jv-awaits-140913053.html",
-          "publisher": "MT Newswires",
-          "published": "2026-09-11T14:09:13Z"
         }
       ]
     },
@@ -1439,26 +1439,7 @@
       "previous_close": 81.35,
       "change_pct": 1.89,
       "market_cap": 12576859820.19165,
-      "headlines": [
-        {
-          "title": "Nextpower (NXT) Falls More Steeply Than Broader Market: What Investors Need to Know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nextpower-nxt-falls-more-steeply-214502137.html",
-          "publisher": "Zacks",
-          "published": "2026-09-09T21:45:02Z"
-        },
-        {
-          "title": "Investors Heavily Search Nextpower Inc. (NXT): Here is What You Need to Know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/investors-heavily-search-nextpower-inc-130004877.html",
-          "publisher": "Zacks",
-          "published": "2026-09-08T13:00:04Z"
-        },
-        {
-          "title": "Nextpower (NXT) Outpaces Stock Market Gains: What You Should Know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nextpower-nxt-outpaces-stock-market-214502933.html",
-          "publisher": "Zacks",
-          "published": "2026-09-03T21:45:02Z"
-        }
-      ]
+      "headlines": []
     },
     {
       "symbol": "AR",
@@ -2115,18 +2096,18 @@
     },
     {
       "label": "WTI",
-      "price": 100.57,
-      "change_pct": -1.86
+      "price": 100.44,
+      "change_pct": -1.99
     },
     {
       "label": "Brent",
-      "price": 104.89,
-      "change_pct": -2.55
+      "price": 104.81,
+      "change_pct": -2.62
     },
     {
       "label": "NatGas",
       "price": 2.83,
-      "change_pct": -0.28
+      "change_pct": -0.32
     }
   ]
 }
