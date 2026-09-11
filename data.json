@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-11T20:25:32+00:00",
-  "as_of_local": "2026-09-11 20:25:32 UTC",
+  "as_of_utc": "2026-09-11T20:28:31+00:00",
+  "as_of_local": "2026-09-11 20:28:31 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -545,6 +545,12 @@
       "market_cap": 84003665169.20065,
       "headlines": [
         {
+          "title": "Jim Cramer Sees Enterprise Products Partners (EPD) as a Pipeline Winner",
+          "url": "https://finance.yahoo.com/energy/articles/jim-cramer-sees-enterprise-products-202320899.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-09-11T20:23:20Z"
+        },
+        {
           "title": "The 10-Year Treasury Pays Nearly 5% These 6 Dividend Stocks Still Pay More",
           "url": "https://finance.yahoo.com/markets/stocks/articles/10-treasury-pays-nearly-5-124744815.html",
           "publisher": "24/7 Wall St.",
@@ -555,12 +561,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/not-pipeline-dividends-created-equal-121049240.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-09-11T12:10:49Z"
-        },
-        {
-          "title": "Before You Buy Energy Transfer or Enterprise Products for the Yield, Here's the Complication Nobody Mentions.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/buy-energy-transfer-enterprise-products-171500130.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-10T17:15:00Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 100.24,
-      "change_pct": -2.19
+      "price": 100.28,
+      "change_pct": -2.15
     },
     {
       "label": "Brent",
-      "price": 104.65,
-      "change_pct": -2.77
+      "price": 104.66,
+      "change_pct": -2.76
     },
     {
       "label": "NatGas",
       "price": 2.83,
-      "change_pct": -0.18
+      "change_pct": -0.21
     }
   ]
 }
