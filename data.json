@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-09-11T10:21:03+00:00",
-  "as_of_local": "2026-09-11 10:21:03 UTC",
+  "as_of_utc": "2026-09-11T10:25:52+00:00",
+  "as_of_local": "2026-09-11 10:25:52 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "OKE"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -815,6 +813,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/3-pipeline-stocks-paying-huge-142508620.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-09-04T14:25:08Z"
+        }
+      ]
+    },
+    {
+      "symbol": "OKE",
+      "name": "ONEOK",
+      "price": 95.72,
+      "previous_close": 95.82,
+      "change_pct": -0.1,
+      "market_cap": 60306745362.52307,
+      "headlines": [
+        {
+          "title": "Why the Market Dipped But Oneok Inc. (OKE) Gained Today",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-market-dipped-oneok-inc-221504683.html",
+          "publisher": "Zacks",
+          "published": "2026-09-08T22:15:04Z"
+        },
+        {
+          "title": "5 Pipeline Stocks Built to Make Money at Any Oil Price",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/5-pipeline-stocks-built-money-152845169.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-09-08T15:28:45Z"
+        },
+        {
+          "title": "Is ONEOK Stock Outperforming the Dow?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/oneok-stock-outperforming-dow-121904160.html",
+          "publisher": "Barchart",
+          "published": "2026-09-08T12:19:04Z"
         }
       ]
     },
@@ -2099,8 +2125,8 @@
     },
     {
       "label": "NatGas",
-      "price": 2.81,
-      "change_pct": -0.92
+      "price": 2.8,
+      "change_pct": -1.06
     }
   ]
 }
