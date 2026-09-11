@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-11T20:18:17+00:00",
-  "as_of_local": "2026-09-11 20:18:17 UTC",
+  "as_of_utc": "2026-09-11T20:20:14+00:00",
+  "as_of_local": "2026-09-11 20:20:14 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -9,8 +9,8 @@
       "name": "ExxonMobil",
       "price": 166.02,
       "previous_close": 165.23,
-      "change_pct": 0.48,
-      "market_cap": 682659641167.1832,
+      "change_pct": 0.46,
+      "market_cap": 682536288827.807,
       "headlines": [
         {
           "title": "Update: Market Chatter: White House Looking to Expand US Oil Refining Capacity",
@@ -35,10 +35,10 @@
     {
       "symbol": "CVX",
       "name": "Chevron",
-      "price": 214.01,
+      "price": 214.06,
       "previous_close": 212.76,
-      "change_pct": 0.59,
-      "market_cap": 419802705893.3314,
+      "change_pct": 0.61,
+      "market_cap": 419900792043.3695,
       "headlines": [
         {
           "title": "Sector Update: Energy Stocks Mixed Late Afternoon",
@@ -931,10 +931,10 @@
     {
       "symbol": "D",
       "name": "Dominion Energy",
-      "price": 64.52,
+      "price": 64.36,
       "previous_close": 65.05,
-      "change_pct": -0.81,
-      "market_cap": 56747011276.969795,
+      "change_pct": -1.06,
+      "market_cap": 56606290614.46004,
       "headlines": [
         {
           "title": "Dominion Energy (D) Suffers a Larger Drop Than the General Market: Key Insights",
@@ -1930,8 +1930,8 @@
           "name": "Chevron Corp",
           "short": "Chevron",
           "weight_pct": 14.89,
-          "change_pct": 0.59,
-          "price": 214.01,
+          "change_pct": 0.61,
+          "price": 214.06,
           "currency": "USD"
         },
         {
@@ -2029,8 +2029,8 @@
         "name": "Chevron Corp",
         "short": "Chevron",
         "weight_pct": 14.89,
-        "change_pct": 0.59,
-        "price": 214.01,
+        "change_pct": 0.61,
+        "price": 214.06,
         "currency": "USD"
       },
       {
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 100.42,
-      "change_pct": -2.01
+      "price": 100.32,
+      "change_pct": -2.11
     },
     {
       "label": "Brent",
-      "price": 104.8,
-      "change_pct": -2.63
+      "price": 104.74,
+      "change_pct": -2.69
     },
     {
       "label": "NatGas",
       "price": 2.83,
-      "change_pct": -0.28
+      "change_pct": -0.25
     }
   ]
 }
