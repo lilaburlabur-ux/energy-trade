@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-11T11:01:20+00:00",
-  "as_of_local": "2026-09-11 11:01:20 UTC",
+  "as_of_utc": "2026-09-11T11:06:25+00:00",
+  "as_of_local": "2026-09-11 11:06:25 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -517,6 +517,12 @@
       "market_cap": 89071054937.75891,
       "headlines": [
         {
+          "title": "Williams Companies Inc's Dividend Analysis",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/williams-companies-incs-dividend-analysis-110209954.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-09-11T11:02:09Z"
+        },
+        {
           "title": "Williams' NESE Pipeline Faces New Challenge From Court Ruling",
           "url": "https://finance.yahoo.com/energy/articles/williams-nese-pipeline-faces-challenge-140700370.html",
           "publisher": "Zacks",
@@ -527,12 +533,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/thursday-top-wall-street-analyst-120959369.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-09-10T12:09:59Z"
-        },
-        {
-          "title": "Trump-Backed Pipeline Into New York Blocked by Court",
-          "url": "https://www.barrons.com/articles/williams-companies-natural-gas-energy-trump-d996d88b?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-09-09T17:11:00Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 98.89,
-      "change_pct": -3.5
+      "price": 98.86,
+      "change_pct": -3.53
     },
     {
       "label": "Brent",
-      "price": 103.6,
-      "change_pct": -3.74
+      "price": 103.57,
+      "change_pct": -3.77
     },
     {
       "label": "NatGas",
-      "price": 2.79,
-      "change_pct": -1.41
+      "price": 2.8,
+      "change_pct": -1.27
     }
   ]
 }
