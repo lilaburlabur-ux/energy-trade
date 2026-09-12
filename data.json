@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-12T14:44:02+00:00",
-  "as_of_local": "2026-09-12 14:44:02 UTC",
+  "as_of_utc": "2026-09-12T14:59:02+00:00",
+  "as_of_local": "2026-09-12 14:59:02 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -515,7 +515,26 @@
       "previous_close": 72.29,
       "change_pct": 0.77,
       "market_cap": 89107748468.79456,
-      "headlines": []
+      "headlines": [
+        {
+          "title": "Magnolia Oil & Gas Closes Transformative WildFire Energy Deal",
+          "url": "https://finance.yahoo.com/energy/articles/magnolia-oil-gas-closes-transformative-132100465.html",
+          "publisher": "Zacks",
+          "published": "2026-09-11T13:21:00Z"
+        },
+        {
+          "title": "Not All Pipeline Dividends Are Created Equal\u2014Especially at Tax Time",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/not-pipeline-dividends-created-equal-121049240.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-09-11T12:10:49Z"
+        },
+        {
+          "title": "Williams Companies Inc's Dividend Analysis",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/williams-companies-incs-dividend-analysis-110209954.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-09-11T11:02:09Z"
+        }
+      ]
     },
     {
       "symbol": "EPD",
@@ -610,6 +629,12 @@
       "market_cap": 81215915659.5,
       "headlines": [
         {
+          "title": "Cramer Asked Who Was Buying Gigantic Bloom Energy Calls. A Pelosi Filing Named Two of the Same Stocks Weeks Earlier.",
+          "url": "https://finance.yahoo.com/markets/options/articles/cramer-asked-buying-gigantic-bloom-145041797.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-09-12T14:50:41Z"
+        },
+        {
           "title": "Former OpenAI Researcher Bets on AI Stocks After $35 Billion Wipeout",
           "url": "https://finance.yahoo.com/markets/stocks/articles/former-openai-researcher-bets-ai-201641481.html",
           "publisher": "BeInCrypto",
@@ -620,12 +645,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/guts-buy-ai-stocks-now-173900651.html",
           "publisher": "Zacks",
           "published": "2026-09-11T17:39:00Z"
-        },
-        {
-          "title": "Stock Of The Day: AI Energy Play Bloom Energy Nears Buy Point, S&P 500 Entry",
-          "url": "https://www.investors.com/research/ibd-stock-of-the-day/bloom-energy-stock-buy-point-sp-500/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-09-11T16:03:43Z"
         }
       ]
     },
@@ -1868,26 +1887,7 @@
       "previous_close": 4.55,
       "change_pct": 1.54,
       "market_cap": 710677848.7559681,
-      "headlines": [
-        {
-          "title": "Array Technologies, Inc. (ARRY) Advances While Market Declines: Some Information for Investors",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/array-technologies-inc-arry-advances-221502840.html",
-          "publisher": "Zacks",
-          "published": "2026-09-10T22:15:02Z"
-        },
-        {
-          "title": "3 Stocks Under $10 with Open Questions",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-stocks-under-10-open-172104879.html",
-          "publisher": "StockStory",
-          "published": "2026-09-10T17:21:04Z"
-        },
-        {
-          "title": "Array Technologies opens new Albuquerque plant amid volatile solar market",
-          "url": "https://finance.yahoo.com/energy/articles/array-technologies-opens-albuquerque-plant-030100385.html",
-          "publisher": "Albuquerque Journal, N.M.",
-          "published": "2026-09-10T03:01:00Z"
-        }
-      ]
+      "headlines": []
     }
   ],
   "etfs": [
