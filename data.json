@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-09-12T01:08:54+00:00",
-  "as_of_local": "2026-09-12 01:08:54 UTC",
+  "as_of_utc": "2026-09-12T01:23:45+00:00",
+  "as_of_local": "2026-09-12 01:23:45 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "PSX"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -66,7 +68,7 @@
       "price": 96.77,
       "previous_close": 95.96,
       "change_pct": 0.84,
-      "market_cap": 276837352042.6426,
+      "market_cap": 276704816435.8602,
       "headlines": [
         {
           "title": "Shell's Troubled Project Faces Another Major Blow",
@@ -150,7 +152,7 @@
       "price": 82.44,
       "previous_close": 82.65,
       "change_pct": -0.25,
-      "market_cap": 171696866382.79,
+      "market_cap": 171666177016.98,
       "headlines": [
         {
           "title": "NEE Stock Trades at a Premium Valuation: Buy, Hold or Stay Away?",
@@ -206,7 +208,7 @@
       "price": 409.15,
       "previous_close": 415.22,
       "change_pct": -1.46,
-      "market_cap": 165213708000.0,
+      "market_cap": 165171171000.0,
       "headlines": [
         {
           "title": "GE Vernova Stock Isn\u2019t All About Orders",
@@ -257,6 +259,34 @@
       ]
     },
     {
+      "symbol": "MPC",
+      "name": "Marathon Petroleum",
+      "price": 392.42,
+      "previous_close": 399.44,
+      "change_pct": -1.76,
+      "market_cap": 115586471895.55,
+      "headlines": [
+        {
+          "title": "Update: Market Chatter: White House Looking to Expand US Oil Refining Capacity",
+          "url": "https://finance.yahoo.com/energy/articles/market-chatter-white-house-looking-181141019.html",
+          "publisher": "MT Newswires",
+          "published": "2026-09-11T18:11:41Z"
+        },
+        {
+          "title": "Marathon Petroleum (MPC) Is Considered a Good Investment by Brokers: Is That True?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/marathon-petroleum-mpc-considered-good-133002700.html",
+          "publisher": "Zacks",
+          "published": "2026-09-11T13:30:02Z"
+        },
+        {
+          "title": "Marathon Petroleum (MPC) Dips More Than Broader Market: What You Should Know",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/marathon-petroleum-mpc-dips-more-214504606.html",
+          "publisher": "Zacks",
+          "published": "2026-09-10T21:45:04Z"
+        }
+      ]
+    },
+    {
       "symbol": "VLO",
       "name": "Valero Energy",
       "price": 385.43,
@@ -285,34 +315,6 @@
       ]
     },
     {
-      "symbol": "MPC",
-      "name": "Marathon Petroleum",
-      "price": 392.42,
-      "previous_close": 399.44,
-      "change_pct": -1.76,
-      "market_cap": 111186948414.59,
-      "headlines": [
-        {
-          "title": "Update: Market Chatter: White House Looking to Expand US Oil Refining Capacity",
-          "url": "https://finance.yahoo.com/energy/articles/market-chatter-white-house-looking-181141019.html",
-          "publisher": "MT Newswires",
-          "published": "2026-09-11T18:11:41Z"
-        },
-        {
-          "title": "Marathon Petroleum (MPC) Is Considered a Good Investment by Brokers: Is That True?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/marathon-petroleum-mpc-considered-good-133002700.html",
-          "publisher": "Zacks",
-          "published": "2026-09-11T13:30:02Z"
-        },
-        {
-          "title": "Marathon Petroleum (MPC) Dips More Than Broader Market: What You Should Know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/marathon-petroleum-mpc-dips-more-214504606.html",
-          "publisher": "Zacks",
-          "published": "2026-09-10T21:45:04Z"
-        }
-      ]
-    },
-    {
       "symbol": "EQNR",
       "name": "Equinor",
       "price": 45.11,
@@ -337,34 +339,6 @@
           "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-decline-premarket-132850294.html",
           "publisher": "MT Newswires",
           "published": "2026-09-11T13:28:50Z"
-        }
-      ]
-    },
-    {
-      "symbol": "PSX",
-      "name": "Phillips 66",
-      "price": 258.51,
-      "previous_close": 260.78,
-      "change_pct": -0.87,
-      "market_cap": 103533957074.52,
-      "headlines": [
-        {
-          "title": "Update: Market Chatter: White House Looking to Expand US Oil Refining Capacity",
-          "url": "https://finance.yahoo.com/energy/articles/market-chatter-white-house-looking-181141019.html",
-          "publisher": "MT Newswires",
-          "published": "2026-09-11T18:11:41Z"
-        },
-        {
-          "title": "Par Pacific Surges 148% in a Year: Should You Bet on the Momentum?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/par-pacific-surges-148-bet-161500137.html",
-          "publisher": "Zacks",
-          "published": "2026-09-11T16:15:00Z"
-        },
-        {
-          "title": "What Does the Future Hold for Par Pacific's Refining Business?",
-          "url": "https://finance.yahoo.com/energy/articles/does-future-hold-par-pacifics-174500720.html",
-          "publisher": "Zacks",
-          "published": "2026-09-10T17:45:00Z"
         }
       ]
     },
@@ -654,7 +628,7 @@
       "price": 147.46,
       "previous_close": 147.01,
       "change_pct": 0.31,
-      "market_cap": 77294619375.36,
+      "market_cap": 78488140180.8,
       "headlines": [
         {
           "title": "The Zacks Analyst Blog Highlights  JPMorgan Chase, EOG Resources and Bloom Energy",
@@ -794,7 +768,7 @@
       "price": 95.72,
       "previous_close": 95.82,
       "change_pct": -0.1,
-      "market_cap": 60906317225.54,
+      "market_cap": 60873774160.240005,
       "headlines": [
         {
           "title": "Why the Market Dipped But Oneok Inc. (OKE) Gained Today",
@@ -1074,7 +1048,7 @@
       "price": 72.48,
       "previous_close": 72.6,
       "change_pct": -0.17,
-      "market_cap": 36080625971.7,
+      "market_cap": 36073486290.78,
       "headlines": [
         {
           "title": "Public Service Enterprise Group CEO Sells 2,083 Shares",
@@ -1494,7 +1468,7 @@
       "price": 30.51,
       "previous_close": 31.2,
       "change_pct": -2.21,
-      "market_cap": 9120392314.14,
+      "market_cap": 9216556576.35,
       "headlines": [
         {
           "title": "Could Buying Brookfield Renewable Today Set You Up for Life?",
@@ -1606,7 +1580,7 @@
       "price": 89.92,
       "previous_close": 93.06,
       "change_pct": -3.37,
-      "market_cap": 6353850440.4,
+      "market_cap": 6369251610.549999,
       "headlines": [
         {
           "title": "Solaris Energy Infrastructure, TETRA Technologies, SLB, and Weatherford Stocks Trade Down, What You Need To Know",
@@ -1662,7 +1636,7 @@
       "price": 36.86,
       "previous_close": 36.72,
       "change_pct": 0.38,
-      "market_cap": 4803457954.8,
+      "market_cap": 4790865297.0,
       "headlines": [
         {
           "title": "SolarEdge Falls 4% on Analyst Day Despite Joint NVIDIA 800 VDC Paper; Enphase Energy and First Solar Edge Higher",
@@ -1718,7 +1692,7 @@
       "price": 13.63,
       "previous_close": 14.55,
       "change_pct": -6.32,
-      "market_cap": 3428817757.3999996,
+      "market_cap": 3237046750.0,
       "headlines": [
         {
           "title": "Energy Fuels Down 28% in the Past 6 Months: How to Play the Stock?",
@@ -1746,7 +1720,7 @@
       "price": 165.87,
       "previous_close": 181.49,
       "change_pct": -8.61,
-      "market_cap": 3039057879.48,
+      "market_cap": 3115212879.48,
       "headlines": [
         {
           "title": "Centrus Energy (LEU) Stock Trades Down, Here Is Why",
@@ -1957,8 +1931,8 @@
           "name": "Phillips 66",
           "short": "Phillips",
           "weight_pct": 5.33,
-          "change_pct": -0.87,
-          "price": 258.51,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -2056,8 +2030,8 @@
         "name": "Phillips 66",
         "short": "Phillips",
         "weight_pct": 5.33,
-        "change_pct": -0.87,
-        "price": 258.51,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
