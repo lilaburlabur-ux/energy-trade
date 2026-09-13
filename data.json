@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-09-13T23:19:49+00:00",
-  "as_of_local": "2026-09-13 23:19:49 UTC",
+  "as_of_utc": "2026-09-13T23:27:34+00:00",
+  "as_of_local": "2026-09-13 23:27:34 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "OVV"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -683,7 +685,26 @@
       "previous_close": 21.73,
       "change_pct": -0.83,
       "market_cap": 74203103774.52089,
-      "headlines": []
+      "headlines": [
+        {
+          "title": "5 Stocks Yielding More Than 5%. What You\u2019re Actually Trading for That Income",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/5-stocks-yielding-more-5-120001897.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-09-13T12:00:01Z"
+        },
+        {
+          "title": "Want $1,000 a Year in Passive Income from Energy Transfer LP (ET) Stock? Here's How Many Shares You'd Need.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/want-1-000-passive-income-073500018.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-13T07:35:00Z"
+        },
+        {
+          "title": "5 Dividend Powerhouses Yielding Above 5% That Wall Street Still Backs",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/5-dividend-powerhouses-yielding-above-160216115.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-09-12T16:02:16Z"
+        }
+      ]
     },
     {
       "symbol": "KMI",
@@ -1298,34 +1319,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/5-low-leverage-stocks-buy-144100208.html",
           "publisher": "Zacks",
           "published": "2026-09-10T14:41:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "OVV",
-      "name": "Ovintiv",
-      "price": 63.69,
-      "previous_close": 64.0,
-      "change_pct": -0.48,
-      "market_cap": 17616653620.147705,
-      "headlines": [
-        {
-          "title": "Ovintiv Expands Drilling Inventory With $460 Million Deal Spree",
-          "url": "https://finance.yahoo.com/energy/articles/ovintiv-expands-drilling-inventory-460-150300542.html",
-          "publisher": "Zacks",
-          "published": "2026-08-27T15:03:00Z"
-        },
-        {
-          "title": "Ovintiv Stock Up 62% in a Year: Should Investors Buy or Hold?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ovintiv-stock-62-investors-buy-145200521.html",
-          "publisher": "Zacks",
-          "published": "2026-08-24T14:52:00Z"
-        },
-        {
-          "title": "Ovintiv (OVV) Earnings And 2026 Guidance Put Its Valuation Back In Focus",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ovintiv-ovv-earnings-2026-guidance-050750504.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-08-04T05:07:50Z"
         }
       ]
     },
@@ -2096,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 102.38,
-      "change_pct": 2.33
+      "price": 102.31,
+      "change_pct": 2.26
     },
     {
       "label": "Brent",
-      "price": 107.6,
-      "change_pct": 2.86
+      "price": 107.51,
+      "change_pct": 2.77
     },
     {
       "label": "NatGas",
       "price": 2.86,
-      "change_pct": 1.13
+      "change_pct": 1.06
     }
   ]
 }
