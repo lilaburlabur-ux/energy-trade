@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-09-13T00:49:30+00:00",
-  "as_of_local": "2026-09-13 00:49:30 UTC",
+  "as_of_utc": "2026-09-13T00:54:52+00:00",
+  "as_of_local": "2026-09-13 00:54:52 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "DVN"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -957,34 +959,6 @@
       ]
     },
     {
-      "symbol": "DVN",
-      "name": "Devon Energy",
-      "price": 50.23,
-      "previous_close": 50.02,
-      "change_pct": 0.42,
-      "market_cap": 55252999496.45996,
-      "headlines": [
-        {
-          "title": "DVN Stock Clocks 3 Straight Days In Green: Retail Eyes Further Upside",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/dvn-stock-clocks-3-straight-035959916.html",
-          "publisher": "Stocktwits",
-          "published": "2026-09-11T03:59:59Z"
-        },
-        {
-          "title": "Devon Energy (DVN) Ascends While Market Falls: Some Facts to Note",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/devon-energy-dvn-ascends-while-215003557.html",
-          "publisher": "Zacks",
-          "published": "2026-09-10T21:50:03Z"
-        },
-        {
-          "title": "Permian Resources (PR) Up 17.1% Since Last Earnings Report: Can It Continue?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/permian-resources-pr-17-1-153022360.html",
-          "publisher": "Zacks",
-          "published": "2026-09-04T15:30:22Z"
-        }
-      ]
-    },
-    {
       "symbol": "ETR",
       "name": "Entergy",
       "price": 105.33,
@@ -1859,7 +1833,26 @@
       "previous_close": 9.69,
       "change_pct": 2.48,
       "market_cap": 1421614472.5300598,
-      "headlines": []
+      "headlines": [
+        {
+          "title": "Spotting Winners: Fluence Energy (NASDAQ:FLNC) And Renewable Energy Stocks In Q2",
+          "url": "https://finance.yahoo.com/energy/articles/spotting-winners-fluence-energy-nasdaq-125905736.html",
+          "publisher": "StockStory",
+          "published": "2026-09-11T12:59:05Z"
+        },
+        {
+          "title": "1 Russell 2000 Stock with Exciting Potential and 2 Facing Challenges",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/1-russell-2000-stock-exciting-002504271.html",
+          "publisher": "StockStory",
+          "published": "2026-09-11T00:25:04Z"
+        },
+        {
+          "title": "Why Analysts Are Bearish On This Tesla Energy Rival",
+          "url": "https://www.investors.com/news/battery-energy-storage-fluence-tesla-gm-ford-barclays-piper/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-09-10T12:30:49Z"
+        }
+      ]
     },
     {
       "symbol": "ARRY",
