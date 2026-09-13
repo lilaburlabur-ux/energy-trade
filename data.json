@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-09-13T11:09:38+00:00",
-  "as_of_local": "2026-09-13 11:09:38 UTC",
+  "as_of_utc": "2026-09-13T11:24:36+00:00",
+  "as_of_local": "2026-09-13 11:24:36 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "OXY"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -757,34 +759,6 @@
           "url": "https://finance.yahoo.com/energy/articles/targa-grants-cfo-hefty-long-140149081.html",
           "publisher": "CFO Dive",
           "published": "2026-08-25T14:01:49Z"
-        }
-      ]
-    },
-    {
-      "symbol": "OXY",
-      "name": "Occidental Petroleum",
-      "price": 61.46,
-      "previous_close": 61.16,
-      "change_pct": 0.49,
-      "market_cap": 61437711906.46465,
-      "headlines": [
-        {
-          "title": "I'm Buying Occidental on This Dip -- Not Because of Oil, but Because of This",
-          "url": "https://finance.yahoo.com/energy/articles/im-buying-occidental-dip-not-133500605.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-11T13:35:00Z"
-        },
-        {
-          "title": "Record Diesel Prices Make Fed\u2019s Rate Decision for It",
-          "url": "https://www.barrons.com/articles/diesel-prices-fed-rate-decision-c9076122?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-09-11T12:27:00Z"
-        },
-        {
-          "title": "Why Is ExxonMobil Priced Above Peers With Fatter Margins?",
-          "url": "https://finance.yahoo.com/energy/articles/why-exxonmobil-priced-above-peers-013457448.html",
-          "publisher": "Trefis",
-          "published": "2026-09-10T01:34:57Z"
         }
       ]
     },
