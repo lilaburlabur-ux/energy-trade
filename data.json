@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-09-13T15:11:02+00:00",
-  "as_of_local": "2026-09-13 15:11:02 UTC",
+  "as_of_utc": "2026-09-13T15:26:11+00:00",
+  "as_of_local": "2026-09-13 15:26:11 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "OVV"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1319,6 +1317,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/5-low-leverage-stocks-buy-144100208.html",
           "publisher": "Zacks",
           "published": "2026-09-10T14:41:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "OVV",
+      "name": "Ovintiv",
+      "price": 63.69,
+      "previous_close": 64.0,
+      "change_pct": -0.48,
+      "market_cap": 17616653620.147705,
+      "headlines": [
+        {
+          "title": "Ovintiv Expands Drilling Inventory With $460 Million Deal Spree",
+          "url": "https://finance.yahoo.com/energy/articles/ovintiv-expands-drilling-inventory-460-150300542.html",
+          "publisher": "Zacks",
+          "published": "2026-08-27T15:03:00Z"
+        },
+        {
+          "title": "Ovintiv Stock Up 62% in a Year: Should Investors Buy or Hold?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ovintiv-stock-62-investors-buy-145200521.html",
+          "publisher": "Zacks",
+          "published": "2026-08-24T14:52:00Z"
+        },
+        {
+          "title": "Ovintiv (OVV) Earnings And 2026 Guidance Put Its Valuation Back In Focus",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ovintiv-ovv-earnings-2026-guidance-050750504.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-08-04T05:07:50Z"
         }
       ]
     },
