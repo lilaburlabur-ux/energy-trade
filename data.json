@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-09-13T19:07:29+00:00",
-  "as_of_local": "2026-09-13 19:07:29 UTC",
+  "as_of_utc": "2026-09-13T19:16:54+00:00",
+  "as_of_local": "2026-09-13 19:16:54 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "BKR"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -841,34 +843,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/bull-day-marathon-petroleum-mpc-101400320.html",
           "publisher": "Zacks",
           "published": "2026-09-08T10:14:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "BKR",
-      "name": "Baker Hughes",
-      "price": 59.06,
-      "previous_close": 59.4,
-      "change_pct": -0.57,
-      "market_cap": 58627331996.49039,
-      "headlines": [
-        {
-          "title": "US rig count up three as prices soar",
-          "url": "https://finance.yahoo.com/energy/articles/us-rig-count-three-prices-000000443.html",
-          "publisher": "Odessa American, Texas",
-          "published": "2026-09-12T00:00:00Z"
-        },
-        {
-          "title": "U.S. Oil Rig Count Rises as Oil Tops $100",
-          "url": "https://finance.yahoo.com/energy/articles/u-oil-rig-count-rises-171917717.html",
-          "publisher": "Oilprice.com",
-          "published": "2026-09-11T17:19:17Z"
-        },
-        {
-          "title": "Baker Hughes (BKR) Stock Trades Down, Here Is Why",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/baker-hughes-bkr-stock-trades-020904725.html",
-          "publisher": "StockStory",
-          "published": "2026-09-11T02:09:04Z"
         }
       ]
     },
