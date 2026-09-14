@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-14T20:26:08+00:00",
-  "as_of_local": "2026-09-14 20:26:08 UTC",
+  "as_of_utc": "2026-09-14T20:28:54+00:00",
+  "as_of_local": "2026-09-14 20:28:54 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -13,6 +13,12 @@
       "market_cap": 678794433885.9357,
       "headlines": [
         {
+          "title": "\u26a1 Flash Heard | Another Risk to Fuel Prices: U.S. Refinery Outages",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-14-2026/card/-flash-heard-another-risk-to-fuel-prices-u-s-refinery-outages-8OnrUCQG5nsP9lsjehKc?siteid=yhoof2&yptr=yahoo",
+          "publisher": "The Wall Street Journal",
+          "published": "2026-09-14T20:14:06Z"
+        },
+        {
           "title": "Wood Lands $200 Million Contract for ExxonMobil\u2019s PNG LNG Project",
           "url": "https://finance.yahoo.com/energy/articles/wood-lands-200-million-contract-154243611.html",
           "publisher": "Oilprice.com",
@@ -23,12 +29,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-fall-ai-slowdown-fears-141007739.html",
           "publisher": "Barchart",
           "published": "2026-09-14T14:10:07Z"
-        },
-        {
-          "title": "Sector Update: Energy Stocks Advance Premarket Monday",
-          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-advance-premarket-132912222.html",
-          "publisher": "MT Newswires",
-          "published": "2026-09-14T13:29:12Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 101.81,
-      "change_pct": 1.76
+      "price": 101.86,
+      "change_pct": 1.81
     },
     {
       "label": "Brent",
-      "price": 106.09,
-      "change_pct": 1.41
+      "price": 106.16,
+      "change_pct": 1.48
     },
     {
       "label": "NatGas",
       "price": 2.88,
-      "change_pct": 1.66
+      "change_pct": 1.7
     }
   ]
 }
