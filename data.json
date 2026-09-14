@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-14T03:10:17+00:00",
-  "as_of_local": "2026-09-14 03:10:17 UTC",
+  "as_of_utc": "2026-09-14T03:25:28+00:00",
+  "as_of_local": "2026-09-14 03:25:28 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -1553,6 +1553,12 @@
       "market_cap": 6737559510.072327,
       "headlines": [
         {
+          "title": "Why Did OPEN, OKLO, MCD Stocks Plunge To 52-Week Lows?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-open-oklo-mcd-030353034.html",
+          "publisher": "Stocktwits",
+          "published": "2026-09-14T03:03:53Z"
+        },
+        {
           "title": "Oklo vs. NuScale vs. TMC: 3 Speculative Bets, Ranked By Which One Pays Off First.",
           "url": "https://finance.yahoo.com/markets/stocks/articles/oklo-vs-nuscale-vs-tmc-133500554.html",
           "publisher": "Motley Fool",
@@ -1563,12 +1569,6 @@
           "url": "https://finance.yahoo.com/energy/articles/nuscale-power-stock-jumps-15-151500537.html",
           "publisher": "Motley Fool",
           "published": "2026-09-12T15:15:00Z"
-        },
-        {
-          "title": "Oklo Stock Falls 7% on a Fresh $1 Billion Equity Program",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/oklo-stock-falls-7-fresh-193755357.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-09-11T19:37:55Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 102.82,
-      "change_pct": 2.77
+      "price": 103.04,
+      "change_pct": 2.99
     },
     {
       "label": "Brent",
-      "price": 107.55,
-      "change_pct": 2.81
+      "price": 107.78,
+      "change_pct": 3.03
     },
     {
       "label": "NatGas",
       "price": 2.88,
-      "change_pct": 1.8
+      "change_pct": 1.77
     }
   ]
 }
