@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-14T20:33:17+00:00",
+  "as_of": "2026-09-14T20:48:26+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -17,42 +17,10 @@
    "volume_vs_avg": "~2x",
    "heat_score": 62,
    "direction": "down",
-   "why": "GE Vernova Falls 8.6% as $470 Target Challenges Its Power-Boom Valuation",
+   "why": "Oracle, Corning, Alphabet, GE Vernova, CrowdStrike, SpaceX, and More Stocks That Explain Today\u2019s Market",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-falls-8-6-172719200.html",
-   "published": "2026-09-14T17:27:19Z",
-   "sector": "Grid, Storage & Electrification"
-  },
-  {
-   "rank": 2,
-   "ticker": "VRT",
-   "company": "Vertiv Holdings, LLC",
-   "move_pct": -7.42,
-   "price": 237.99,
-   "volume": 10849212,
-   "volume_vs_avg": "~2x",
-   "heat_score": 52,
-   "direction": "down",
-   "why": "Vertiv vs. Broadcom: Which AI Infrastructure Stock Has More Upside?",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/technology/ai/articles/vertiv-vs-broadcom-ai-infrastructure-164700745.html",
-   "published": "2026-09-14T16:47:00Z",
-   "sector": "Grid, Storage & Electrification"
-  },
-  {
-   "rank": 3,
-   "ticker": "ETN",
-   "company": "Eaton Corporation, PLC",
-   "move_pct": -7.36,
-   "price": 394.05,
-   "volume": 3181675,
-   "volume_vs_avg": "~2x",
-   "heat_score": 49,
-   "direction": "down",
-   "why": "GE Vernova Sinks 9% as GLJ Research Starts at Sell With $470 Target; Eaton Drops 7%, Quanta Services Falls 4%",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-sinks-9-glj-164102241.html",
-   "published": "2026-09-14T16:41:02Z",
+   "source_url": "https://www.barrons.com/articles/stock-movers-259d1f80?siteid=yhoof2&yptr=yahoo",
+   "published": "2026-09-14T20:25:00Z",
    "sector": "Grid, Storage & Electrification"
   }
  ]
