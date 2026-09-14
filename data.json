@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-14T09:15:29+00:00",
-  "as_of_local": "2026-09-14 09:15:29 UTC",
+  "as_of_utc": "2026-09-14T09:20:35+00:00",
+  "as_of_local": "2026-09-14 09:20:35 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -11,7 +11,26 @@
       "previous_close": 165.23,
       "change_pct": 0.46,
       "market_cap": 682536288827.807,
-      "headlines": []
+      "headlines": [
+        {
+          "title": "Zacks Investment Ideas feature highlights: Johnson & Johnson, Coca-Cola and Exxon Mobil",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-080000918.html",
+          "publisher": "Zacks",
+          "published": "2026-09-14T08:00:00Z"
+        },
+        {
+          "title": "Oil Above $100 Is Creating a New Opportunity Beyond the Major Producers",
+          "url": "https://finance.yahoo.com/energy/articles/oil-above-100-creating-opportunity-134500021.html",
+          "publisher": "MarketBeat",
+          "published": "2026-09-12T13:45:00Z"
+        },
+        {
+          "title": "Chevron Already Committed $7 Billion to Venezuela. Trump Says Exxon Is Next. Here's the Big Difference Between the 2.",
+          "url": "https://finance.yahoo.com/energy/articles/chevron-already-committed-7-billion-123500207.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-12T12:35:00Z"
+        }
+      ]
     },
     {
       "symbol": "CVX",
@@ -1084,7 +1103,26 @@
       "previous_close": 54.96,
       "change_pct": -1.62,
       "market_cap": 33821649929.107666,
-      "headlines": []
+      "headlines": [
+        {
+          "title": "Why Is EOG Resources (EOG) Up 11% Since Last Earnings Report?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-eog-resources-eog-11-153012782.html",
+          "publisher": "Zacks",
+          "published": "2026-09-03T15:30:12Z"
+        },
+        {
+          "title": "EQT (EQT): 3 Reasons We Love This Stock",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/eqt-eqt-3-reasons-love-163824978.html",
+          "publisher": "StockStory",
+          "published": "2026-08-31T16:38:24Z"
+        },
+        {
+          "title": "Comstock (CRK) Up 15.1% Since Last Earnings Report: Can It Continue?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/comstock-crk-15-1-since-153005516.html",
+          "publisher": "Zacks",
+          "published": "2026-08-28T15:30:05Z"
+        }
+      ]
     },
     {
       "symbol": "FTI",
@@ -1401,26 +1439,7 @@
       "previous_close": 81.35,
       "change_pct": 1.89,
       "market_cap": 12576859820.19165,
-      "headlines": [
-        {
-          "title": "Nextpower (NXT) Falls More Steeply Than Broader Market: What Investors Need to Know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nextpower-nxt-falls-more-steeply-214502137.html",
-          "publisher": "Zacks",
-          "published": "2026-09-09T21:45:02Z"
-        },
-        {
-          "title": "Investors Heavily Search Nextpower Inc. (NXT): Here is What You Need to Know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/investors-heavily-search-nextpower-inc-130004877.html",
-          "publisher": "Zacks",
-          "published": "2026-09-08T13:00:04Z"
-        },
-        {
-          "title": "Nextpower (NXT) Outpaces Stock Market Gains: What You Should Know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nextpower-nxt-outpaces-stock-market-214502933.html",
-          "publisher": "Zacks",
-          "published": "2026-09-03T21:45:02Z"
-        }
-      ]
+      "headlines": []
     },
     {
       "symbol": "AR",
@@ -2077,18 +2096,18 @@
     },
     {
       "label": "WTI",
-      "price": 103.29,
-      "change_pct": 3.24
+      "price": 103.27,
+      "change_pct": 3.22
     },
     {
       "label": "Brent",
-      "price": 107.92,
-      "change_pct": 3.16
+      "price": 107.9,
+      "change_pct": 3.15
     },
     {
       "label": "NatGas",
       "price": 2.9,
-      "change_pct": 2.47
+      "change_pct": 2.51
     }
   ]
 }
