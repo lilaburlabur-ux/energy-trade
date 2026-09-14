@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-14T22:14:31+00:00",
+  "as_of": "2026-09-14T22:30:02+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,8 +11,8 @@
    "rank": 1,
    "ticker": "GEV",
    "company": "GE Vernova Inc.",
-   "move_pct": -8.3,
-   "price": 877.8,
+   "move_pct": -8.21,
+   "price": 878.69,
    "volume": 3293817,
    "volume_vs_avg": "~2x",
    "heat_score": 62,
@@ -27,8 +27,8 @@
    "rank": 2,
    "ticker": "CEG",
    "company": "Constellation Energy Corporatio",
-   "move_pct": -6.81,
-   "price": 265.35,
+   "move_pct": -6.8,
+   "price": 265.38,
    "volume": 3651176,
    "volume_vs_avg": "~1.4x",
    "heat_score": 46,
@@ -38,6 +38,22 @@
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/heres-why-constellation-energy-corporation-214505410.html",
    "published": "2026-09-14T21:45:05Z",
    "sector": "Nuclear & Uranium"
+  },
+  {
+   "rank": 3,
+   "ticker": "BE",
+   "company": "Bloom Energy Corporation",
+   "move_pct": -6.63,
+   "price": 257.48,
+   "volume": 14778529,
+   "volume_vs_avg": "~1.1x",
+   "heat_score": 44,
+   "direction": "down",
+   "why": "Bloom Energy (BE) Declines More Than Market: Some Information for Investors",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-declines-more-market-220002546.html",
+   "published": "2026-09-14T22:00:02Z",
+   "sector": "Grid, Storage & Electrification"
   }
  ]
 }
