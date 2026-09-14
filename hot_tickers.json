@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-14T21:23:52+00:00",
+  "as_of": "2026-09-14T21:39:08+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,16 +11,16 @@
    "rank": 1,
    "ticker": "GEV",
    "company": "GE Vernova Inc.",
-   "move_pct": -8.17,
-   "price": 879.08,
+   "move_pct": -8.29,
+   "price": 877.89,
    "volume": 3293817,
    "volume_vs_avg": "~2x",
    "heat_score": 62,
    "direction": "down",
-   "why": "Oracle, Corning, Alphabet, GE Vernova, CrowdStrike, SpaceX, and More Stocks That Explain Today\u2019s Market",
+   "why": "Why Did GE Vernova Stock Fall Today?",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://www.barrons.com/articles/stock-movers-259d1f80?siteid=yhoof2&yptr=yahoo",
-   "published": "2026-09-14T20:25:00Z",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/why-did-ge-vernova-stock-210648140.html",
+   "published": "2026-09-14T21:06:48Z",
    "sector": "Grid, Storage & Electrification"
   }
  ]
