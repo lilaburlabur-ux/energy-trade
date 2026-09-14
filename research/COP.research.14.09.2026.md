@@ -36,10 +36,10 @@ ConocoPhillips explores for, produces, transports, and markets crude oil, bitume
 
 | Headline | Source | Date |
 |---|---|---|
-| Stocks Fall on AI Slowdown Fears and Rising Crude Oil Prices | Barchart | 2026-09-14 |
 | Is ConocoPhillips Stock Worth Buying Here? - Shorting COP Puts and Credit Spreads are Better Plays | Barchart | 2026-09-13 |
 | Saudi Arabia Shuts Key Pipeline, Adding Pressure to Oil Supplies | Barrons.com | 2026-09-11 |
 | Update: US Equity Futures Lower Pre-Bell Thursday as Traders Assess Inflation Data Amid Higher Oil Prices | MT Newswires | 2026-09-10 |
+| Why Did CVX, COP, VLO Stocks Jump To 52-Week Highs? | Stocktwits | 2026-09-10 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -129,6 +129,7 @@ ConocoPhillips explores for, produces, transports, and markets crude oil, bitume
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-09-14 | main | UBS | Buy → Buy |
 | 2026-09-03 | init | Seaport Global | — → Neutral |
 | 2026-08-19 | main | Morgan Stanley | Overweight → Overweight |
 | 2026-08-19 | main | Argus Research | Buy → Buy |
@@ -136,7 +137,6 @@ ConocoPhillips explores for, produces, transports, and markets crude oil, bitume
 | 2026-08-12 | main | UBS | Buy → Buy |
 | 2026-08-11 | main | Susquehanna | Positive → Positive |
 | 2026-08-10 | main | Truist Securities | Hold → Hold |
-| 2026-08-07 | main | Wells Fargo | Overweight → Overweight |
 
 ## 9. Conclusion
 COP: Moderate momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

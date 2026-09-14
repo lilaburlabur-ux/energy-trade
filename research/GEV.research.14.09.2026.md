@@ -36,10 +36,10 @@ GE Vernova Inc., an energy company, engages in the provision of various products
 
 | Headline | Source | Date |
 |---|---|---|
-| Nasdaq Recovers, but Industrial Stocks Are Still Struggling | The Wall Street Journal | 2026-09-14 |
-| GE Vernova Falls 8.6% as $470 Target Challenges Its Power-Boom Valuation | GuruFocus.com | 2026-09-14 |
+| Why Did GE Vernova Stock Fall Today? | Motley Fool | 2026-09-14 |
 | Oracle, Corning, Alphabet, GE Vernova, CrowdStrike, SpaceX, and More Stocks That Explain Today’s Market | Barrons.com | 2026-09-14 |
-| GE Vernova Sinks 9% as GLJ Research Starts at Sell With $470 Target; Eaton Drops 7%, Quanta Services Falls 4% | 24/7 Wall St. | 2026-09-14 |
+| Boy, We Were Wrong About SpaceX | Barrons.com | 2026-09-14 |
+| GE Vernova Stock Can Fall 50%, According to New Sell Rating | Barrons.com | 2026-09-14 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -131,6 +131,7 @@ GE Vernova Inc., an energy company, engages in the provision of various products
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-09-14 | init | GLJ Research | — → Sell |
 | 2026-07-27 | main | Mizuho | Neutral → Neutral |
 | 2026-07-23 | main | Bernstein | Outperform → Outperform |
 | 2026-07-23 | main | JP Morgan | Overweight → Overweight |
@@ -138,7 +139,6 @@ GE Vernova Inc., an energy company, engages in the provision of various products
 | 2026-07-23 | main | TD Cowen | Buy → Buy |
 | 2026-07-23 | main | RBC Capital | Outperform → Outperform |
 | 2026-07-23 | main | Oppenheimer | Outperform → Outperform |
-| 2026-07-23 | main | Guggenheim | Buy → Buy |
 
 ## 9. Conclusion
 GEV: Moderate momentum / strong fundamentals / fair-to-demanding value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

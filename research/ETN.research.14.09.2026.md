@@ -5,7 +5,7 @@ Signed file: `ETN.research.14.09.2026`
 | Field | Value |
 |---|---|
 | Current price | $393.16 (2026-09-14, ~15-min delayed) |
-| Market cap | $152.66B |
+| Market cap | $152.70B |
 | Sector / Industry | Industrials / Specialty Industrial Machinery |
 | Main theme | Specialty Industrial Machinery — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: fair-to-demanding, risk: elevated. |
@@ -36,10 +36,10 @@ Eaton Corporation plc operates as a power management company in the United State
 
 | Headline | Source | Date |
 |---|---|---|
+| GE Vernova Stock Can Fall 50%, According to New Sell Rating | Barrons.com | 2026-09-14 |
 | FCEL's Microgrids Strengthen Power Reliability and Resilience | Zacks | 2026-09-14 |
 | Eaton vs. Rivian Automotive: Which Industrials Stock Is a Better Buy in 2026? | Motley Fool | 2026-09-14 |
 | GE Vernova Stock Isn’t All About Orders | Barrons.com | 2026-09-11 |
-| Why Is Eaton Priced Above Peers That Earn More Per Sale? | Trefis | 2026-09-11 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,13 +68,13 @@ Eaton Corporation plc operates as a power management company in the United State
 | Revenue (ttm) | $30.03B | Revenue growth 21.40% y/y |
 | Profitability | Gross 36.02%, operating 16.56%, net 12.75% | ROA 7.05%, ROE 19.68% |
 | Balance sheet | Cash $695.00M, debt $21.33B | Current ratio 1.24, debt/equity 105.06 |
-| Valuation | P/E 40.00, forward P/E 24.37, P/S 5.08, P/B 7.54 | EV/Sales 6.19, EV/EBITDA 28.00 |
+| Valuation | P/E 40.00, forward P/E 24.37, P/S 5.09, P/B 7.54 | EV/Sales 6.19, EV/EBITDA 28.00 |
 | Growth expectations | Earnings growth -15.90%, EPS q/q -16.40% | Analyst mean target $478.17 (25 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 87.90% |
+| Institutional ownership | 87.89% |
 | Insider ownership | 0.07% |
 | Short float | 1.86% |
 | Short ratio (days to cover) | 3.6 |
@@ -112,7 +112,7 @@ Eaton Corporation plc operates as a power management company in the United State
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $393.16 | EV/Sales | 6.19 |
-| Market cap | $152.66B | EV/EBITDA | 28.00 |
+| Market cap | $152.70B | EV/EBITDA | 28.00 |
 | Beta | 1.17 | Gross margin | 36.02% |
 | RSI(14) | 42.2 | Operating margin | 16.56% |
 | ATR(14) | 15.81 | Profit margin | 12.75% |
@@ -120,11 +120,11 @@ Eaton Corporation plc operates as a power management company in the United State
 | SMA50 dist | -5.30% | ROE | 19.68% |
 | SMA200 dist | +3.12% | Revenue (ttm) | $30.03B |
 | 52W high | $459.96 | Revenue growth y/y | 21.40% |
-| 52W low | $313.20 | Inst. ownership | 87.90% |
+| 52W low | $313.20 | Inst. ownership | 87.89% |
 | P/E (ttm) | 40.00 | Insider ownership | 0.07% |
 | Forward P/E | 24.37 | Short float | 1.86% |
 | PEG (trailing) | 2.58 | Avg volume | 2,179,606 |
-| P/S | 5.08 | Employees | 97,303 |
+| P/S | 5.09 | Employees | 97,303 |
 | P/B | 7.54 | Analyst rec (1=buy..5=sell) | 1.5 |
 
 ## 8. Analyst Actions

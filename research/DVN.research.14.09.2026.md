@@ -36,7 +36,7 @@ Devon Energy Corporation, an independent energy company, engages in the explorat
 
 | Headline | Source | Date |
 |---|---|---|
-| Stocks Fall on AI Slowdown Fears and Rising Crude Oil Prices | Barchart | 2026-09-14 |
+| Is Devon Energy Stock Outperforming the S&P 500? | Barchart | 2026-09-14 |
 | DVN Stock Clocks 3 Straight Days In Green: Retail Eyes Further Upside | Stocktwits | 2026-09-11 |
 | Devon Energy (DVN) Ascends While Market Falls: Some Facts to Note | Zacks | 2026-09-10 |
 | Permian Resources (PR) Up 17.1% Since Last Earnings Report: Can It Continue? | Zacks | 2026-09-04 |
@@ -74,8 +74,8 @@ Devon Energy Corporation, an independent energy company, engages in the explorat
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 94.73% |
-| Insider ownership | 0.70% |
+| Institutional ownership | 94.74% |
+| Insider ownership | 0.80% |
 | Short float | 2.62% |
 | Short ratio (days to cover) | 2.7 |
 
@@ -119,8 +119,8 @@ Devon Energy Corporation, an independent energy company, engages in the explorat
 | SMA50 dist | +8.97% | ROE | 11.52% |
 | SMA200 dist | +14.17% | Revenue (ttm) | $18.78B |
 | 52W high | $51.70 | Revenue growth y/y | 64.20% |
-| 52W low | $31.15 | Inst. ownership | 94.73% |
-| P/E (ttm) | 10.81 | Insider ownership | 0.70% |
+| 52W low | $31.15 | Inst. ownership | 94.74% |
+| P/E (ttm) | 10.81 | Insider ownership | 0.80% |
 | Forward P/E | 9.21 | Short float | 2.62% |
 | PEG (trailing) | 2.92 | Avg volume | 11,789,859 |
 | P/S | 2.91 | Employees | 2,200 |
@@ -129,14 +129,14 @@ Devon Energy Corporation, an independent energy company, engages in the explorat
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-09-14 | main | Raymond James | Strong Buy → Strong Buy |
+| 2026-09-14 | main | UBS | Buy → Buy |
 | 2026-09-03 | init | Seaport Global | — → Buy |
 | 2026-08-31 | main | Citigroup | Buy → Buy |
 | 2026-08-17 | reit | Argus Research | Buy → Buy |
 | 2026-08-17 | main | Barclays | Overweight → Overweight |
 | 2026-08-13 | main | Wells Fargo | Overweight → Overweight |
 | 2026-08-06 | main | Truist Securities | Buy → Buy |
-| 2026-07-21 | main | Susquehanna | Positive → Positive |
-| 2026-07-16 | main | Raymond James | Strong Buy → Strong Buy |
 
 ## 9. Conclusion
 DVN: Moderate momentum / strong fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

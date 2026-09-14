@@ -18,7 +18,7 @@ Signed file: `APA.research.14.09.2026`
 | Technical momentum | High | 1Y +102.79%; price +33.40% vs SMA200. |
 | Fresh setup quality | Watch | +0.00% from 52w high and near SMA20 — check for a tight base. |
 | Fundamental quality | Mixed | Profit margin 19.56%, revenue growth 9.20%. |
-| Value attractiveness | Reasonable | Forward P/E 10.24, EV/Sales 2.34. |
+| Value attractiveness | Reasonable | Forward P/E 10.25, EV/Sales 2.34. |
 | Risk level | Elevated | Beta 0.37, ATR 3.3% of price, short float 9.10%. |
 
 **Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
@@ -36,10 +36,10 @@ APA Corporation, an independent energy company, explores for, develops, and prod
 
 | Headline | Source | Date |
 |---|---|---|
-| Stocks Fall on AI Slowdown Fears and Rising Crude Oil Prices | Barchart | 2026-09-14 |
 | Zacks Industry Outlook W&T Offshore, APA and Diamondback | Zacks | 2026-09-14 |
 | S&P 500 Index Slips Weekly as Health Care, Materials Weigh | MT Newswires | 2026-09-11 |
 | 3 U.S. E&P Stocks That Look Well Placed for the Road Ahead | Zacks | 2026-09-11 |
+| Eni (E) Bets Big on Uruguay with Stakes in Two Offshore Blocks | Insider Monkey | 2026-09-07 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ APA Corporation, an independent energy company, explores for, develops, and prod
 | Revenue (ttm) | $8.57B | Revenue growth 9.20% y/y |
 | Profitability | Gross 78.25%, operating 56.33%, net 19.56% | ROA 11.60%, ROE 26.66% |
 | Balance sheet | Cash $444.00M, debt $3.88B | Current ratio 0.95, debt/equity 48.85 |
-| Valuation | P/E 9.50, forward P/E 10.24, P/S 1.84, P/B 2.25 | EV/Sales 2.34, EV/EBITDA 3.50 |
+| Valuation | P/E 9.50, forward P/E 10.25, P/S 1.84, P/B 2.25 | EV/Sales 2.34, EV/EBITDA 3.50 |
 | Growth expectations | Earnings growth 26.30%, EPS q/q 23.90% | Analyst mean target $45.52 (25 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -123,7 +123,7 @@ APA Corporation, an independent energy company, explores for, develops, and prod
 | 52W high | $45.03 | Revenue growth y/y | 9.20% |
 | 52W low | $21.16 | Inst. ownership | 109.90% |
 | P/E (ttm) | 9.50 | Insider ownership | 0.44% |
-| Forward P/E | 10.24 | Short float | 9.10% |
+| Forward P/E | 10.25 | Short float | 9.10% |
 | PEG (trailing) | 1.20 | Avg volume | 5,573,150 |
 | P/S | 1.84 | Employees | 1,791 |
 | P/B | 2.25 | Analyst rec (1=buy..5=sell) | 2.6 |
@@ -131,6 +131,7 @@ APA Corporation, an independent energy company, explores for, develops, and prod
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-09-14 | main | UBS | Neutral → Neutral |
 | 2026-09-03 | init | Seaport Global | — → Neutral |
 | 2026-09-02 | main | Raymond James | Outperform → Outperform |
 | 2026-09-02 | main | Wells Fargo | Equal-Weight → Equal-Weight |
@@ -138,7 +139,6 @@ APA Corporation, an independent energy company, explores for, develops, and prod
 | 2026-08-19 | up | Argus Research | Hold → Buy |
 | 2026-08-17 | main | Barclays | Equal-Weight → Equal-Weight |
 | 2026-08-13 | main | Wells Fargo | Equal-Weight → Equal-Weight |
-| 2026-08-12 | main | Benchmark | Buy → Buy |
 
 ## 9. Conclusion
 APA: High momentum / mixed fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

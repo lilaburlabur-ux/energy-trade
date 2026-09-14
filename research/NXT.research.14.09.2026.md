@@ -74,7 +74,7 @@ Nextpower Inc. provides solar and energy technology solutions for utility-scale 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 109.57% |
+| Institutional ownership | 109.56% |
 | Insider ownership | 0.64% |
 | Short float | 8.14% |
 | Short ratio (days to cover) | 3.6 |
@@ -121,7 +121,7 @@ Nextpower Inc. provides solar and energy technology solutions for utility-scale 
 | SMA50 dist | -13.97% | ROE | 27.22% |
 | SMA200 dist | -23.75% | Revenue (ttm) | $3.63B |
 | 52W high | $156.40 | Revenue growth y/y | 8.20% |
-| 52W low | $66.70 | Inst. ownership | 109.57% |
+| 52W low | $66.70 | Inst. ownership | 109.56% |
 | P/E (ttm) | 21.35 | Insider ownership | 0.64% |
 | Forward P/E | 14.31 | Short float | 8.14% |
 | PEG (trailing) | 3.15 | Avg volume | 2,961,537 |

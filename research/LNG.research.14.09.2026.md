@@ -74,7 +74,7 @@ Cheniere Energy, Inc., an energy infrastructure company, primarily engages in th
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 91.56% |
+| Institutional ownership | 91.54% |
 | Insider ownership | 0.66% |
 | Short float | 2.03% |
 | Short ratio (days to cover) | 2.7 |
@@ -119,7 +119,7 @@ Cheniere Energy, Inc., an energy infrastructure company, primarily engages in th
 | SMA50 dist | +1.94% | ROE | 39.12% |
 | SMA200 dist | +13.73% | Revenue (ttm) | $20.92B |
 | 52W high | $295.86 | Revenue growth y/y | 22.70% |
-| 52W low | $187.49 | Inst. ownership | 91.56% |
+| 52W low | $187.49 | Inst. ownership | 91.54% |
 | P/E (ttm) | 20.79 | Insider ownership | 0.66% |
 | Forward P/E | 13.21 | Short float | 2.03% |
 | PEG (trailing) | — | Avg volume | 1,991,751 |

@@ -36,10 +36,10 @@ Bloom Energy Corporation designs, manufactures, sells, and installs solid oxide 
 
 | Headline | Source | Date |
 |---|---|---|
+| Dow Jones Futures: Nvidia, Micron, Sandisk Dive On AI Fears; Fed Rate Hike Looms | Investor's Business Daily | 2026-09-14 |
 | FCEL's Microgrids Strengthen Power Reliability and Resilience | Zacks | 2026-09-14 |
 | Bloom Energy Is Up Big This Year. Is It Too Late to Buy? | Motley Fool | 2026-09-14 |
 | Bloom Energy Falls 8% as AI Power Bid Unwinds Days Before Bloom’s S&P 500 Add; FuelCell Energy Drops 5%, Plug Power Dips | 24/7 Wall St. | 2026-09-14 |
-| Bloom Energy Is Up 190% This Year. Here's The Math Behind the Move. | Motley Fool | 2026-09-14 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -132,6 +132,7 @@ Bloom Energy Corporation designs, manufactures, sells, and installs solid oxide 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-09-14 | main | Mizuho | Outperform → Outperform |
 | 2026-08-27 | reit | Bernstein | Market Perform → Market Perform |
 | 2026-08-14 | main | Jefferies | Hold → Hold |
 | 2026-07-30 | main | Wells Fargo | Equal-Weight → Equal-Weight |
@@ -139,7 +140,6 @@ Bloom Energy Corporation designs, manufactures, sells, and installs solid oxide 
 | 2026-07-30 | main | Truist Securities | Hold → Hold |
 | 2026-07-29 | main | JP Morgan | Overweight → Overweight |
 | 2026-07-29 | main | UBS | Buy → Buy |
-| 2026-07-29 | main | BMO Capital | Market Perform → Market Perform |
 
 ## 9. Conclusion
 BE: High momentum / mixed fundamentals / low (expensive) value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

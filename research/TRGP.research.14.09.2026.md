@@ -130,6 +130,7 @@ Targa Resources Corp., together with its subsidiaries, owns, operates, acquires,
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-09-11 | main | Mizuho | Outperform → Outperform |
 | 2026-09-10 | main | Scotiabank | Sector Outperform → Sector Outperform |
 | 2026-09-02 | main | Wells Fargo | Overweight → Overweight |
 | 2026-08-27 | main | RBC Capital | Outperform → Outperform |
@@ -137,7 +138,6 @@ Targa Resources Corp., together with its subsidiaries, owns, operates, acquires,
 | 2026-08-18 | main | Morgan Stanley | Overweight → Overweight |
 | 2026-08-11 | main | RBC Capital | Outperform → Outperform |
 | 2026-08-07 | main | TD Cowen | Hold → Hold |
-| 2026-08-07 | main | Barclays | Overweight → Overweight |
 
 ## 9. Conclusion
 TRGP: High momentum / mixed fundamentals / fair-to-demanding value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

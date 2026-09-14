@@ -36,10 +36,10 @@ Occidental Petroleum Corporation, together with its subsidiaries, engages in the
 
 | Headline | Source | Date |
 |---|---|---|
-| Stocks Fall on AI Slowdown Fears and Rising Crude Oil Prices | Barchart | 2026-09-14 |
 | Exchange-Traded Funds, Equity Futures Lower Pre-Bell Monday Amid AI Pullback | MT Newswires | 2026-09-14 |
 | I'm Buying Occidental on This Dip -- Not Because of Oil, but Because of This | Motley Fool | 2026-09-11 |
 | Record Diesel Prices Make Fed’s Rate Decision for It | Barrons.com | 2026-09-11 |
+| Why Is ExxonMobil Priced Above Peers With Fatter Margins? | Trefis | 2026-09-10 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -129,6 +129,7 @@ Occidental Petroleum Corporation, together with its subsidiaries, engages in the
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-09-14 | main | Wells Fargo | Overweight → Overweight |
 | 2026-09-11 | main | Evercore ISI Group | Outperform → Outperform |
 | 2026-09-03 | init | Seaport Global | — → Buy |
 | 2026-08-17 | main | Barclays | Overweight → Overweight |
@@ -136,7 +137,6 @@ Occidental Petroleum Corporation, together with its subsidiaries, engages in the
 | 2026-08-10 | main | Truist Securities | Hold → Hold |
 | 2026-08-07 | main | Wells Fargo | Overweight → Overweight |
 | 2026-08-06 | main | Barclays | Overweight → Overweight |
-| 2026-07-17 | main | Citigroup | Neutral → Neutral |
 
 ## 9. Conclusion
 OXY: Moderate momentum / strong fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

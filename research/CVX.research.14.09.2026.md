@@ -36,10 +36,10 @@ Chevron Corporation, through its subsidiaries, engages in the integrated energy 
 
 | Headline | Source | Date |
 |---|---|---|
+| Chevron Expands LNG Ambitions as Global Energy Security Returns to Center Stage | GuruFocus.com | 2026-09-14 |
 | Sector Update: Energy Stocks Fall Monday | MT Newswires | 2026-09-14 |
 | Sector Update: Energy Stocks Decline Monday Afternoon | MT Newswires | 2026-09-14 |
 | Chevron Targets Four Continents in New LNG Expansion Drive | Oilprice.com | 2026-09-14 |
-| The Saudi Arabia Pipeline Attacks Just Redefined Middle East Oil Risk | Barrons.com | 2026-09-14 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

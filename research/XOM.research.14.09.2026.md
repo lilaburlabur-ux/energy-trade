@@ -36,8 +36,8 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 
 | Headline | Source | Date |
 |---|---|---|
+| ⚡ Flash Heard | Another Risk to Fuel Prices: U.S. Refinery Outages | The Wall Street Journal | 2026-09-14 |
 | Wood Lands $200 Million Contract for ExxonMobil’s PNG LNG Project | Oilprice.com | 2026-09-14 |
-| Stocks Fall on AI Slowdown Fears and Rising Crude Oil Prices | Barchart | 2026-09-14 |
 | Sector Update: Energy Stocks Advance Premarket Monday | MT Newswires | 2026-09-14 |
 | Correction: Update: US Equity Futures Lower Pre-Bell as Traders Assess Call for AI Advancement Slowdown, Upcoming Fed Decision | MT Newswires | 2026-09-14 |
 
