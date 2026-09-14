@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-14T01:29:44+00:00",
-  "as_of_local": "2026-09-14 01:29:44 UTC",
+  "as_of_utc": "2026-09-14T01:45:07+00:00",
+  "as_of_local": "2026-09-14 01:45:07 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -1693,6 +1693,12 @@
       "market_cap": 3533453643.523939,
       "headlines": [
         {
+          "title": "NuScale Has One Overlooked Quality Worth Buying Into",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nuscale-one-overlooked-quality-worth-013500213.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-14T01:35:00Z"
+        },
+        {
           "title": "Oklo vs. NuScale vs. TMC: 3 Speculative Bets, Ranked By Which One Pays Off First.",
           "url": "https://finance.yahoo.com/markets/stocks/articles/oklo-vs-nuscale-vs-tmc-133500554.html",
           "publisher": "Motley Fool",
@@ -1703,12 +1709,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-nuscale-power-stock-doesnt-092901509.html",
           "publisher": "Motley Fool",
           "published": "2026-09-13T09:29:01Z"
-        },
-        {
-          "title": "Prediction: $1,000 in NuScale Power Today Could Be Worth This Much by 2030",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-1-000-nuscale-power-062500412.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-13T06:25:00Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 103.52,
-      "change_pct": 3.47
+      "price": 103.11,
+      "change_pct": 3.06
     },
     {
       "label": "Brent",
-      "price": 108.35,
-      "change_pct": 3.58
+      "price": 108.02,
+      "change_pct": 3.26
     },
     {
       "label": "NatGas",
       "price": 2.89,
-      "change_pct": 2.01
+      "change_pct": 1.98
     }
   ]
 }
