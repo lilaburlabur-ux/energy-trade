@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-09-14T23:17:24+00:00",
-  "as_of_local": "2026-09-14 23:17:24 UTC",
+  "as_of_utc": "2026-09-14T23:22:30+00:00",
+  "as_of_local": "2026-09-14 23:22:30 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NOV"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1517,34 +1519,6 @@
       ]
     },
     {
-      "symbol": "NOV",
-      "name": "NOV Inc",
-      "price": 20.54,
-      "previous_close": 21.1,
-      "change_pct": -2.65,
-      "market_cap": 7322061013.865471,
-      "headlines": [
-        {
-          "title": "Is FET's \"Beat the Market\" Strategy Its Key to Faster Growth?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/fets-beat-market-strategy-key-152400712.html",
-          "publisher": "Zacks",
-          "published": "2026-09-14T15:24:00Z"
-        },
-        {
-          "title": "NOV Inc's Dividend Analysis",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nov-incs-dividend-analysis-110953720.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-09-11T11:09:53Z"
-        },
-        {
-          "title": "3 Profitable Stocks We Approach with Caution",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-profitable-stocks-approach-caution-193518971.html",
-          "publisher": "StockStory",
-          "published": "2026-09-08T19:35:18Z"
-        }
-      ]
-    },
-    {
       "symbol": "OKLO",
       "name": "Oklo",
       "price": 36.21,
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 101.97,
-      "change_pct": 1.92
+      "price": 101.96,
+      "change_pct": 1.91
     },
     {
       "label": "Brent",
-      "price": 106.36,
-      "change_pct": 1.67
+      "price": 106.32,
+      "change_pct": 1.63
     },
     {
       "label": "NatGas",
       "price": 2.88,
-      "change_pct": 1.84
+      "change_pct": 1.8
     }
   ]
 }
