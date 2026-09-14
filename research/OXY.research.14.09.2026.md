@@ -36,10 +36,10 @@ Occidental Petroleum Corporation, together with its subsidiaries, engages in the
 
 | Headline | Source | Date |
 |---|---|---|
+| Stocks Fall on AI Slowdown Fears and Rising Crude Oil Prices | Barchart | 2026-09-14 |
 | Exchange-Traded Funds, Equity Futures Lower Pre-Bell Monday Amid AI Pullback | MT Newswires | 2026-09-14 |
 | I'm Buying Occidental on This Dip -- Not Because of Oil, but Because of This | Motley Fool | 2026-09-11 |
 | Record Diesel Prices Make Fed’s Rate Decision for It | Barrons.com | 2026-09-11 |
-| Why Is ExxonMobil Priced Above Peers With Fatter Margins? | Trefis | 2026-09-10 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -4,8 +4,8 @@ Signed file: `CVX.research.14.09.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $212.16 (2026-09-14, ~15-min delayed) |
-| Market cap | $416.18B |
+| Current price | $212.17 (2026-09-14, ~15-min delayed) |
+| Market cap | $416.19B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,8 +15,8 @@ Signed file: `CVX.research.14.09.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +39.35%; price +17.96% vs SMA200. |
-| Fresh setup quality | Watch | -0.89% from 52w high and near SMA20 — check for a tight base. |
+| Technical momentum | Moderate | 1Y +39.36%; price +17.96% vs SMA200. |
+| Fresh setup quality | Watch | -0.88% from 52w high and near SMA20 — check for a tight base. |
 | Fundamental quality | Mixed | Profit margin 9.83%, revenue growth 53.50%. |
 | Value attractiveness | Reasonable | Forward P/E 15.75, EV/Sales 2.17. |
 | Risk level | Moderate | Beta 0.49, ATR 2.0% of price, short float 1.05%. |
@@ -36,19 +36,19 @@ Chevron Corporation, through its subsidiaries, engages in the integrated energy 
 
 | Headline | Source | Date |
 |---|---|---|
+| Sector Update: Energy Stocks Fall Monday | MT Newswires | 2026-09-14 |
 | Sector Update: Energy Stocks Decline Monday Afternoon | MT Newswires | 2026-09-14 |
 | Chevron Targets Four Continents in New LNG Expansion Drive | Oilprice.com | 2026-09-14 |
 | The Saudi Arabia Pipeline Attacks Just Redefined Middle East Oil Risk | Barrons.com | 2026-09-14 |
-| Sector Update: Energy Stocks Advance Premarket Monday | MT Newswires | 2026-09-14 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $212.16; 52w high $214.06 (-0.89%); 52w low $142.76 (+48.61%) |
-| Trend | +17.96% vs SMA200, +9.05% vs SMA50, +2.54% vs SMA20 |
+| Price vs 52-week range | Close $212.17; 52w high $214.06 (-0.88%); 52w low $142.76 (+48.62%) |
+| Trend | +17.96% vs SMA200, +9.05% vs SMA50, +2.55% vs SMA20 |
 | Momentum | RSI(14) 65.0 (neutral) |
 | Volatility | ATR(14) 4.34 (~2.0% of price); beta 0.49 |
-| Setup perspective | -0.89% from 52w high and near SMA20 — check for a tight base. |
+| Setup perspective | -0.88% from 52w high and near SMA20 — check for a tight base. |
 
 **Performance snapshot:**
 
@@ -110,12 +110,12 @@ Chevron Corporation, through its subsidiaries, engages in the integrated energy 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $212.16 | EV/Sales | 2.17 |
-| Market cap | $416.18B | EV/EBITDA | 8.96 |
+| Price | $212.17 | EV/Sales | 2.17 |
+| Market cap | $416.19B | EV/EBITDA | 8.96 |
 | Beta | 0.49 | Gross margin | 44.27% |
 | RSI(14) | 65.0 | Operating margin | 21.87% |
 | ATR(14) | 4.34 | Profit margin | 9.83% |
-| SMA20 dist | +2.54% | ROA | 5.86% |
+| SMA20 dist | +2.55% | ROA | 5.86% |
 | SMA50 dist | +9.05% | ROE | 12.23% |
 | SMA200 dist | +17.96% | Revenue (ttm) | $209.38B |
 | 52W high | $214.06 | Revenue growth y/y | 53.50% |

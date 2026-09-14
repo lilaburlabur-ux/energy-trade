@@ -36,10 +36,10 @@ Diamondback Energy, Inc., an independent oil and natural gas company, acquires, 
 
 | Headline | Source | Date |
 |---|---|---|
+| Stocks Fall on AI Slowdown Fears and Rising Crude Oil Prices | Barchart | 2026-09-14 |
 | Zacks Industry Outlook W&T Offshore, APA and Diamondback | Zacks | 2026-09-14 |
 | Is Diamondback Energy Stock Outperforming the Dow? | Barchart | 2026-09-11 |
 | Record Diesel Prices Make Fed’s Rate Decision for It | Barrons.com | 2026-09-11 |
-| Diamondback Energy (FANG) Rises As Market Takes a Dip: Key Facts | Zacks | 2026-09-09 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

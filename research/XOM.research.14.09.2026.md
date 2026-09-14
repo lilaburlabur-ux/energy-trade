@@ -4,8 +4,8 @@ Signed file: `XOM.research.14.09.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $165.07 (2026-09-14, ~15-min delayed) |
-| Market cap | $678.75B |
+| Current price | $165.08 (2026-09-14, ~15-min delayed) |
+| Market cap | $678.79B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,7 +15,7 @@ Signed file: `XOM.research.14.09.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +51.47%; price +14.39% vs SMA200. |
+| Technical momentum | Moderate | 1Y +51.48%; price +14.40% vs SMA200. |
 | Fresh setup quality | Watch | -2.45% from 52w high and near SMA20 — check for a tight base. |
 | Fundamental quality | Mixed | Profit margin 9.07%, revenue growth 44.10%. |
 | Value attractiveness | Reasonable | Forward P/E 15.30, EV/Sales 2.00. |
@@ -37,16 +37,16 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 | Headline | Source | Date |
 |---|---|---|
 | Wood Lands $200 Million Contract for ExxonMobil’s PNG LNG Project | Oilprice.com | 2026-09-14 |
+| Stocks Fall on AI Slowdown Fears and Rising Crude Oil Prices | Barchart | 2026-09-14 |
 | Sector Update: Energy Stocks Advance Premarket Monday | MT Newswires | 2026-09-14 |
 | Correction: Update: US Equity Futures Lower Pre-Bell as Traders Assess Call for AI Advancement Slowdown, Upcoming Fed Decision | MT Newswires | 2026-09-14 |
-| Update: US Equity Futures Lower Pre-Bell as Traders Assess Call for AI Advancement Slowdown, Upcoming Fed Decision | MT Newswires | 2026-09-14 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $165.07; 52w high $169.22 (-2.45%); 52w low $107.52 (+53.52%) |
-| Trend | +14.39% vs SMA200, +6.40% vs SMA50, +1.53% vs SMA20 |
-| Momentum | RSI(14) 59.7 (neutral) |
+| Price vs 52-week range | Close $165.08; 52w high $169.22 (-2.45%); 52w low $107.52 (+53.53%) |
+| Trend | +14.40% vs SMA200, +6.40% vs SMA50, +1.54% vs SMA20 |
+| Momentum | RSI(14) 59.8 (neutral) |
 | Volatility | ATR(14) 3.68 (~2.2% of price); beta 0.17 |
 | Setup perspective | -2.45% from 52w high and near SMA20 — check for a tight base. |
 
@@ -55,7 +55,7 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 | Window | Return |
 |---|---|
 | Week | +3.5% |
-| Month | +4.7% |
+| Month | +4.8% |
 | Quarter | +13.0% |
 | Half Y | +7.1% |
 | 1Y | +51.5% |
@@ -68,7 +68,7 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 | Revenue (ttm) | $361.06B | Revenue growth 44.10% y/y |
 | Profitability | Gross 29.77%, operating 15.86%, net 9.07% | ROA 5.52%, ROE 12.58% |
 | Balance sheet | Cash $10.59B, debt $42.37B | Current ratio 1.14, debt/equity 15.92 |
-| Valuation | P/E 21.24, forward P/E 15.30, P/S 1.88, P/B 2.62 | EV/Sales 2.00, EV/EBITDA 10.61 |
+| Valuation | P/E 21.25, forward P/E 15.30, P/S 1.88, P/B 2.62 | EV/Sales 2.00, EV/EBITDA 10.61 |
 | Growth expectations | Earnings growth 112.80%, EPS q/q 105.10% | Analyst mean target $170.91 (22 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -110,17 +110,17 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $165.07 | EV/Sales | 2.00 |
-| Market cap | $678.75B | EV/EBITDA | 10.61 |
+| Price | $165.08 | EV/Sales | 2.00 |
+| Market cap | $678.79B | EV/EBITDA | 10.61 |
 | Beta | 0.17 | Gross margin | 29.77% |
-| RSI(14) | 59.7 | Operating margin | 15.86% |
+| RSI(14) | 59.8 | Operating margin | 15.86% |
 | ATR(14) | 3.68 | Profit margin | 9.07% |
-| SMA20 dist | +1.53% | ROA | 5.52% |
+| SMA20 dist | +1.54% | ROA | 5.52% |
 | SMA50 dist | +6.40% | ROE | 12.58% |
-| SMA200 dist | +14.39% | Revenue (ttm) | $361.06B |
+| SMA200 dist | +14.40% | Revenue (ttm) | $361.06B |
 | 52W high | $169.22 | Revenue growth y/y | 44.10% |
 | 52W low | $107.52 | Inst. ownership | 67.06% |
-| P/E (ttm) | 21.24 | Insider ownership | 0.08% |
+| P/E (ttm) | 21.25 | Insider ownership | 0.08% |
 | Forward P/E | 15.30 | Short float | 1.08% |
 | PEG (trailing) | 1.42 | Avg volume | 15,380,395 |
 | P/S | 1.88 | Employees | 57,900 |

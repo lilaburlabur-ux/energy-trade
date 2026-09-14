@@ -36,10 +36,10 @@ APA Corporation, an independent energy company, explores for, develops, and prod
 
 | Headline | Source | Date |
 |---|---|---|
+| Stocks Fall on AI Slowdown Fears and Rising Crude Oil Prices | Barchart | 2026-09-14 |
 | Zacks Industry Outlook W&T Offshore, APA and Diamondback | Zacks | 2026-09-14 |
 | S&P 500 Index Slips Weekly as Health Care, Materials Weigh | MT Newswires | 2026-09-11 |
 | 3 U.S. E&P Stocks That Look Well Placed for the Road Ahead | Zacks | 2026-09-11 |
-| Eni (E) Bets Big on Uruguay with Stakes in Two Offshore Blocks | Insider Monkey | 2026-09-07 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

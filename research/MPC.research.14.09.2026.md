@@ -38,8 +38,8 @@ Marathon Petroleum Corporation, together with its subsidiaries, operates as an i
 |---|---|---|
 | HF Sinclair Rises 113.9% in a Year: Should You Buy, Hold or Sell? | Zacks | 2026-09-14 |
 | Can Par Pacific's Distillate-Focused Refining Model Drive Growth? | Zacks | 2026-09-14 |
+| Stocks Fall on AI Slowdown Fears and Rising Crude Oil Prices | Barchart | 2026-09-14 |
 | Is Marathon Petroleum (MPC) Outperforming Other Oils-Energy Stocks This Year? | Zacks | 2026-09-14 |
-| Oil Above $100 Is Creating a New Opportunity Beyond the Major Producers | MarketBeat | 2026-09-12 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

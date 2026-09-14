@@ -36,10 +36,10 @@ Devon Energy Corporation, an independent energy company, engages in the explorat
 
 | Headline | Source | Date |
 |---|---|---|
+| Stocks Fall on AI Slowdown Fears and Rising Crude Oil Prices | Barchart | 2026-09-14 |
 | DVN Stock Clocks 3 Straight Days In Green: Retail Eyes Further Upside | Stocktwits | 2026-09-11 |
 | Devon Energy (DVN) Ascends While Market Falls: Some Facts to Note | Zacks | 2026-09-10 |
 | Permian Resources (PR) Up 17.1% Since Last Earnings Report: Can It Continue? | Zacks | 2026-09-04 |
-| Goldman’s Energy Dividend Picks: Why Devon and HF Sinclair Still Offer Upside | Insider Monkey | 2026-09-04 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

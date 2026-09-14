@@ -36,10 +36,10 @@ NextEra Energy, Inc., through its subsidiaries, generates, stores, transmits, di
 
 | Headline | Source | Date |
 |---|---|---|
+| Sector Update: Energy Stocks Fall Monday | MT Newswires | 2026-09-14 |
 | Can Kentucky's Economic Development Drive PPL's Long-Term Growth? | Zacks | 2026-09-14 |
 | Can GE Vernova's Rising Free Cash Flow Strengthen Its Growth Story? | Zacks | 2026-09-14 |
 | NextEra Energy Reaffirms 2026 Guidance at Top End of Range as $67 Billion Dominion Merger Progresses | The Wall Street Journal | 2026-09-14 |
-| SO vs. NEE: Which Dividend Stock Actually Wins for Retirement Income in 2026? | 24/7 Wall St. | 2026-09-14 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
