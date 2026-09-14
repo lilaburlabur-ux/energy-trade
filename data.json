@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-14T20:33:53+00:00",
-  "as_of_local": "2026-09-14 20:33:53 UTC",
+  "as_of_utc": "2026-09-14T20:38:57+00:00",
+  "as_of_local": "2026-09-14 20:38:57 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -97,22 +97,22 @@
       "market_cap": 232977965916.47388,
       "headlines": [
         {
-          "title": "Nasdaq Recovers, but Industrial Stocks Are Still Struggling",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-14-2026/card/nasdaq-recovers-but-industrial-stocks-are-still-struggling-wD171wDdrnMOF98iKMMQ?siteid=yhoof2&yptr=yahoo",
-          "publisher": "The Wall Street Journal",
-          "published": "2026-09-14T17:41:06Z"
-        },
-        {
-          "title": "GE Vernova Falls 8.6% as $470 Target Challenges Its Power-Boom Valuation",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-falls-8-6-172719200.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-09-14T17:27:19Z"
-        },
-        {
           "title": "Oracle, Corning, Alphabet, GE Vernova, CrowdStrike, SpaceX, and More Stocks That Explain Today\u2019s Market",
           "url": "https://www.barrons.com/articles/stock-movers-259d1f80?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
-          "published": "2026-09-14T16:53:00Z"
+          "published": "2026-09-14T20:25:00Z"
+        },
+        {
+          "title": "Boy, We Were Wrong About SpaceX",
+          "url": "https://www.barrons.com/articles/spacex-stock-valuation-ai-e1607713?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-09-14T20:09:00Z"
+        },
+        {
+          "title": "GE Vernova Stock Can Fall 50%, According to New Sell Rating",
+          "url": "https://www.barrons.com/articles/ge-vernova-stock-price-sell-rating-e9efd969?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-09-14T20:05:00Z"
         }
       ]
     },
@@ -209,6 +209,12 @@
       "market_cap": 152703345422.36328,
       "headlines": [
         {
+          "title": "GE Vernova Stock Can Fall 50%, According to New Sell Rating",
+          "url": "https://www.barrons.com/articles/ge-vernova-stock-price-sell-rating-e9efd969?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-09-14T20:05:00Z"
+        },
+        {
           "title": "FCEL's Microgrids Strengthen Power Reliability and Resilience",
           "url": "https://finance.yahoo.com/energy/articles/fcels-microgrids-strengthen-power-reliability-175700137.html",
           "publisher": "Zacks",
@@ -219,12 +225,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/eaton-vs-rivian-automotive-industrials-124856402.html",
           "publisher": "Motley Fool",
           "published": "2026-09-14T12:48:56Z"
-        },
-        {
-          "title": "GE Vernova Stock Isn\u2019t All About Orders",
-          "url": "https://www.barrons.com/articles/ge-vernova-stock-ai-26619760?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-09-11T20:19:00Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 101.84,
-      "change_pct": 1.79
+      "price": 101.85,
+      "change_pct": 1.8
     },
     {
       "label": "Brent",
-      "price": 106.22,
-      "change_pct": 1.54
+      "price": 106.19,
+      "change_pct": 1.51
     },
     {
       "label": "NatGas",
       "price": 2.88,
-      "change_pct": 1.66
+      "change_pct": 1.73
     }
   ]
 }
