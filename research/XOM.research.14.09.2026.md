@@ -36,10 +36,10 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 
 | Headline | Source | Date |
 |---|---|---|
+| Global Fuel Squeeze Triggers U.S. Refiners Stocks Rally | Oilprice.com | 2026-09-14 |
+| Should You Buy ExxonMobil Stock For What Guyana Pays Next? | Trefis | 2026-09-14 |
+| Oil Executives Say the Great Fuel Crisis Is Here | The Wall Street Journal | 2026-09-14 |
 | ⚡ Flash Heard | Another Risk to Fuel Prices: U.S. Refinery Outages | The Wall Street Journal | 2026-09-14 |
-| Wood Lands $200 Million Contract for ExxonMobil’s PNG LNG Project | Oilprice.com | 2026-09-14 |
-| Sector Update: Energy Stocks Advance Premarket Monday | MT Newswires | 2026-09-14 |
-| Correction: Update: US Equity Futures Lower Pre-Bell as Traders Assess Call for AI Advancement Slowdown, Upcoming Fed Decision | MT Newswires | 2026-09-14 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

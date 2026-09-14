@@ -36,10 +36,10 @@ Oklo Inc. develops fission power plants to provide energy at scale to customers 
 
 | Headline | Source | Date |
 |---|---|---|
+| Oklo Has Massive Potential Due to Artificial Intelligence, but the Stock Is Sinking. Here's What I'd Do | Motley Fool | 2026-09-14 |
 | Oklo Stock Drops After Announcing $1 Billion Share Sale. Should Investors Panic? | Motley Fool | 2026-09-14 |
 | Not Oklo. Not NuScale. This Nuclear Stock Is Going to Be the Biggest Winner of the AI Power Boom. | Motley Fool | 2026-09-14 |
 | This Nuclear Stock Is Down This Month. Time to Buy the Dip? | Motley Fool | 2026-09-14 |
-| OKLO Stock Dips Premarket: Retail Bulls Undeterred As They Eye Nuclear Future | Stocktwits | 2026-09-14 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -14,7 +14,7 @@
 | EOG | $79.12B | +28% | 10.3 | 26% | Moderate | Reasonable | Moderate |
 | FANG | $57.87B | +52% | 11.2 | 9% | Moderate | Reasonable | Moderate |
 | DVN | $54.70B | +45% | 9.3 | 17% | Moderate | Reasonable | Moderate |
-| OXY | $61.76B | +37% | 15.4 | 30% | Moderate | Reasonable | Moderate |
+| OXY | $61.76B | +37% | 15.3 | 30% | Moderate | Reasonable | Moderate |
 | APA | $15.78B | +103% | 10.2 | 20% | High | Reasonable | Elevated |
 | EQT | $33.28B | +6% | 13.8 | 29% | Low | Reasonable | Moderate |
 | AR | $11.71B | +16% | 8.9 | 19% | Moderate | Reasonable | Moderate |

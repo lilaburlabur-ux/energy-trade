@@ -36,10 +36,10 @@ Energy Fuels Inc., together with its subsidiaries, engages in the exploration, r
 
 | Headline | Source | Date |
 |---|---|---|
+| Why Energy Fuels (UUUU) Dipped More Than Broader Market Today | Zacks | 2026-09-14 |
 | USAR, MP, UUUU, CRML Stocks Drop Overnight: Why China's Threat To Scrap Trump-Xi Summit Matters | Stocktwits | 2026-09-14 |
 | Energy Fuels Down 28% in the Past 6 Months: How to Play the Stock? | Zacks | 2026-09-09 |
 | Energy Fuels (UUUU) Rises As Market Takes a Dip: Key Facts | Zacks | 2026-09-08 |
-| Energy Fuels' Q2 Loss Widens: Is a Recovery on the Horizon? | Zacks | 2026-09-04 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

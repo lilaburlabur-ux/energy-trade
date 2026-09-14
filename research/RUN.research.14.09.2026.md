@@ -36,10 +36,10 @@ Sunrun Inc. designs, develops, installs, sells, owns, and maintains residential 
 
 | Headline | Source | Date |
 |---|---|---|
+| Sunrun (RUN) Suffers a Larger Drop Than the General Market: Key Insights | Zacks | 2026-09-14 |
 | 2 Small-Cap Stocks to Keep an Eye On and 1 We Turn Down | StockStory | 2026-09-11 |
 | Is Tesla Stock Priced For Its Earnings Or Its Robots? | Trefis | 2026-09-11 |
 | Should You Pay A Growth Price For Tesla's Thin Profits? | Trefis | 2026-09-03 |
-| SunPower Soars 60% on $26.2M Raise: Is This a Short Squeeze in Progress? | 24/7 Wall St. | 2026-09-03 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -36,10 +36,10 @@ Vistra Corp., together with its subsidiaries, operates as an integrated retail e
 
 | Headline | Source | Date |
 |---|---|---|
+| Vistra Corp. (VST) Suffers a Larger Drop Than the General Market: Key Insights | Zacks | 2026-09-14 |
 | Elon Musk Says AI Data Centers Are Lowering Electricity Prices for Consumers. Here’s What We Found When We Ran the Numbers. | 24/7 Wall St. | 2026-09-14 |
 | Can GE Vernova's Rising Free Cash Flow Strengthen Its Growth Story? | Zacks | 2026-09-14 |
 | Vistra’s Price Has Edged Downward Throught 2026: One Analyst Says It’s Due to Double Soon. | 24/7 Wall St. | 2026-09-14 |
-| Forget NVDA: Peter Thiel's New $419 Million Portfolio Bets Big on the Power Behind AI | Benzinga | 2026-09-11 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

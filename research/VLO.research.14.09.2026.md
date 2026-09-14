@@ -36,10 +36,10 @@ Valero Energy Corporation manufactures, markets, and sells petroleum-based and l
 
 | Headline | Source | Date |
 |---|---|---|
+| Global Fuel Squeeze Triggers U.S. Refiners Stocks Rally | Oilprice.com | 2026-09-14 |
+| Should You Buy ExxonMobil Stock For What Guyana Pays Next? | Trefis | 2026-09-14 |
 | Valero Energy Rallies 148% in a Year: Time to Buy the Refining Stock? | Zacks | 2026-09-14 |
 | VLO Stock Heads For Best Year Since 1982 — Michael Burry Says It Has Become A ‘Huge Position’ | Stocktwits | 2026-09-14 |
-| Why Did HPQ, DELL, VLO Stocks Surge To 52-Week Highs Last Week? | Stocktwits | 2026-09-14 |
-| Oil Above $100 Is Creating a New Opportunity Beyond the Major Producers | MarketBeat | 2026-09-12 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

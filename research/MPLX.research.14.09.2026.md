@@ -36,10 +36,10 @@ MPLX LP owns and operates midstream energy infrastructure and logistics assets p
 
 | Headline | Source | Date |
 |---|---|---|
+| MPLX LP (MPLX) Suffers a Larger Drop Than the General Market: Key Insights | Zacks | 2026-09-14 |
 | 5 Dividend Powerhouses Yielding Above 5% That Wall Street Still Backs | 24/7 Wall St. | 2026-09-12 |
 | Not All Pipeline Dividends Are Created Equal—Especially at Tax Time | 24/7 Wall St. | 2026-09-11 |
 | Bull of the Day: Marathon Petroleum (MPC) | Zacks | 2026-09-08 |
-| Got $10,000 to Invest This September? These Energy Stocks Could Turn It Into $639 in Annual Income. | Motley Fool | 2026-09-06 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -18,7 +18,7 @@ Signed file: `OXY.research.14.09.2026`
 | Technical momentum | Moderate | 1Y +36.92%; price +17.87% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -5.87% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 30.32%, revenue growth 53.40%. |
-| Value attractiveness | Reasonable | Forward P/E 15.39, EV/Sales 3.38. |
+| Value attractiveness | Reasonable | Forward P/E 15.31, EV/Sales 3.38. |
 | Risk level | Moderate | Beta 0.16, ATR 2.4% of price, short float 0.01%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate.
@@ -36,10 +36,10 @@ Occidental Petroleum Corporation, together with its subsidiaries, engages in the
 
 | Headline | Source | Date |
 |---|---|---|
+| Should You Buy ExxonMobil Stock For What Guyana Pays Next? | Trefis | 2026-09-14 |
 | Exchange-Traded Funds, Equity Futures Lower Pre-Bell Monday Amid AI Pullback | MT Newswires | 2026-09-14 |
 | I'm Buying Occidental on This Dip -- Not Because of Oil, but Because of This | Motley Fool | 2026-09-11 |
 | Record Diesel Prices Make Fed’s Rate Decision for It | Barrons.com | 2026-09-11 |
-| Why Is ExxonMobil Priced Above Peers With Fatter Margins? | Trefis | 2026-09-10 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ Occidental Petroleum Corporation, together with its subsidiaries, engages in the
 | Revenue (ttm) | $23.93B | Revenue growth 53.40% y/y |
 | Profitability | Gross 73.32%, operating 45.44%, net 30.32% | ROA 4.68%, ROE 10.63% |
 | Balance sheet | Cash $4.15B, debt $14.63B | Current ratio 1.41, debt/equity 34.51 |
-| Valuation | P/E 18.22, forward P/E 15.39, P/S 2.58, P/B 1.85 | EV/Sales 3.38, EV/EBITDA 5.89 |
+| Valuation | P/E 18.22, forward P/E 15.31, P/S 2.58, P/B 1.85 | EV/Sales 3.38, EV/EBITDA 5.89 |
 | Growth expectations | Earnings growth 964.90%, EPS q/q 550.00% | Analyst mean target $67.56 (25 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -121,7 +121,7 @@ Occidental Petroleum Corporation, together with its subsidiaries, engages in the
 | 52W high | $65.63 | Revenue growth y/y | 53.40% |
 | 52W low | $38.38 | Inst. ownership | 58.02% |
 | P/E (ttm) | 18.22 | Insider ownership | 26.81% |
-| Forward P/E | 15.39 | Short float | 0.01% |
+| Forward P/E | 15.31 | Short float | 0.01% |
 | PEG (trailing) | 1.24 | Avg volume | 8,583,703 |
 | P/S | 2.58 | Employees | 10,412 |
 | P/B | 1.85 | Analyst rec (1=buy..5=sell) | 2.3 |

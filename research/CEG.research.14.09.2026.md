@@ -36,10 +36,10 @@ Constellation Energy Corporation produces and sells energy products and services
 
 | Headline | Source | Date |
 |---|---|---|
+| Here's Why Constellation Energy Corporation (CEG) Fell More Than Broader Market | Zacks | 2026-09-14 |
 | Vistra’s Price Has Edged Downward Throught 2026: One Analyst Says It’s Due to Double Soon. | 24/7 Wall St. | 2026-09-14 |
 | Constellation Energy in deal to buy 609-MW Rhode Island gas plant from Shell | Utility Dive | 2026-09-14 |
 | Shell Just Sold a $715 Million Stake in a Major New England Asset to Constellation Energy. Here's What Investors Need to Know. | Motley Fool | 2026-09-12 |
-| Sector Update: Energy Stocks Mixed Late Afternoon | MT Newswires | 2026-09-11 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

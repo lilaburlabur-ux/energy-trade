@@ -37,9 +37,9 @@ Bloom Energy Corporation designs, manufactures, sells, and installs solid oxide 
 | Headline | Source | Date |
 |---|---|---|
 | Dow Jones Futures: Nvidia, Micron, Sandisk Dive On AI Fears; Fed Rate Hike Looms | Investor's Business Daily | 2026-09-14 |
+| Bloom Energy (BE) Declines More Than Market: Some Information for Investors | Zacks | 2026-09-14 |
 | FCEL's Microgrids Strengthen Power Reliability and Resilience | Zacks | 2026-09-14 |
 | Bloom Energy Is Up Big This Year. Is It Too Late to Buy? | Motley Fool | 2026-09-14 |
-| Bloom Energy Falls 8% as AI Power Bid Unwinds Days Before Bloom’s S&P 500 Add; FuelCell Energy Drops 5%, Plug Power Dips | 24/7 Wall St. | 2026-09-14 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

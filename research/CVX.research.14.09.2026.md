@@ -36,10 +36,10 @@ Chevron Corporation, through its subsidiaries, engages in the integrated energy 
 
 | Headline | Source | Date |
 |---|---|---|
-| Chevron Expands LNG Ambitions as Global Energy Security Returns to Center Stage | GuruFocus.com | 2026-09-14 |
-| Sector Update: Energy Stocks Fall Monday | MT Newswires | 2026-09-14 |
-| Sector Update: Energy Stocks Decline Monday Afternoon | MT Newswires | 2026-09-14 |
-| Chevron Targets Four Continents in New LNG Expansion Drive | Oilprice.com | 2026-09-14 |
+| Diversified Upstream E&P Stocks Q2 Teardown: Chevron (NYSE:CVX) Vs The Rest | StockStory | 2026-09-14 |
+| 💬 Money Quote: Higher for Longer Oil Prices | The Wall Street Journal | 2026-09-14 |
+| Global Fuel Squeeze Triggers U.S. Refiners Stocks Rally | Oilprice.com | 2026-09-14 |
+| Should You Buy ExxonMobil Stock For What Guyana Pays Next? | Trefis | 2026-09-14 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

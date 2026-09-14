@@ -36,10 +36,10 @@ GE Vernova Inc., an energy company, engages in the provision of various products
 
 | Headline | Source | Date |
 |---|---|---|
+| EXCLUSIVE: Kevin Warsh’s Hawkishness Is a ‘Distraction From His Dovishness,’ Truflation CEO Says | Benzinga | 2026-09-14 |
 | Why Did GE Vernova Stock Fall Today? | Motley Fool | 2026-09-14 |
 | Oracle, Corning, Alphabet, GE Vernova, CrowdStrike, SpaceX, and More Stocks That Explain Today’s Market | Barrons.com | 2026-09-14 |
 | Boy, We Were Wrong About SpaceX | Barrons.com | 2026-09-14 |
-| GE Vernova Stock Can Fall 50%, According to New Sell Rating | Barrons.com | 2026-09-14 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

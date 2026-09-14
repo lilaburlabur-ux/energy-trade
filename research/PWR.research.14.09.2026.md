@@ -36,10 +36,10 @@ Quanta Services, Inc. offers infrastructure solutions for the electric and gas u
 
 | Headline | Source | Date |
 |---|---|---|
+| Quanta Services (PWR) Declines More Than Market: Some Information for Investors | Zacks | 2026-09-14 |
 | Tetra Tech's Board Approves Additional Share Buyback Program | Zacks | 2026-09-14 |
 | GE Vernova Sinks 9% as GLJ Research Starts at Sell With $470 Target; Eaton Drops 7%, Quanta Services Falls 4% | 24/7 Wall St. | 2026-09-14 |
 | Why Quanta (PWR) Stock Is Up Today | StockStory | 2026-09-12 |
-| 3 Big Reasons to Love Quanta (PWR) | StockStory | 2026-09-11 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

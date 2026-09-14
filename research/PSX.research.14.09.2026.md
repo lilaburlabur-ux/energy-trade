@@ -36,10 +36,10 @@ Phillips 66 operates as an integrated downstream energy provider in the United S
 
 | Headline | Source | Date |
 |---|---|---|
+| Global Fuel Squeeze Triggers U.S. Refiners Stocks Rally | Oilprice.com | 2026-09-14 |
 | HF Sinclair Rises 113.9% in a Year: Should You Buy, Hold or Sell? | Zacks | 2026-09-14 |
 | Valero Energy Rallies 148% in a Year: Time to Buy the Refining Stock? | Zacks | 2026-09-14 |
 | Can Par Pacific's Distillate-Focused Refining Model Drive Growth? | Zacks | 2026-09-14 |
-| Oil Above $100 Is Creating a New Opportunity Beyond the Major Producers | MarketBeat | 2026-09-12 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
