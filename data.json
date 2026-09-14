@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-14T11:12:10+00:00",
-  "as_of_local": "2026-09-14 11:12:10 UTC",
+  "as_of_utc": "2026-09-14T11:17:18+00:00",
+  "as_of_local": "2026-09-14 11:17:18 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -1553,6 +1553,12 @@
       "market_cap": 6737559510.072327,
       "headlines": [
         {
+          "title": "This Nuclear Stock Is Down This Month. Time to Buy the Dip?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nuclear-stock-down-month-time-110400376.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-14T11:04:00Z"
+        },
+        {
           "title": "OKLO Stock Dips Premarket: Retail Bulls Undeterred As They Eye Nuclear Future",
           "url": "https://finance.yahoo.com/markets/stocks/articles/oklo-stock-dips-premarket-retail-081451603.html",
           "publisher": "Stocktwits",
@@ -1563,12 +1569,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-open-oklo-mcd-030353034.html",
           "publisher": "Stocktwits",
           "published": "2026-09-14T03:03:53Z"
-        },
-        {
-          "title": "Oklo vs. NuScale vs. TMC: 3 Speculative Bets, Ranked By Which One Pays Off First.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/oklo-vs-nuscale-vs-tmc-133500554.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-13T13:35:00Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 102.41,
-      "change_pct": 2.36
+      "price": 102.58,
+      "change_pct": 2.53
     },
     {
       "label": "Brent",
-      "price": 107.38,
-      "change_pct": 2.65
+      "price": 107.55,
+      "change_pct": 2.81
     },
     {
       "label": "NatGas",
       "price": 2.9,
-      "change_pct": 2.37
+      "change_pct": 2.4
     }
   ]
 }
