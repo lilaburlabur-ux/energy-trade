@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-14T22:43:03+00:00",
-  "as_of_local": "2026-09-14 22:43:03 UTC",
+  "as_of_utc": "2026-09-14T22:47:13+00:00",
+  "as_of_local": "2026-09-14 22:47:13 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -41,6 +41,12 @@
       "market_cap": 416193363052.7771,
       "headlines": [
         {
+          "title": "Diversified Upstream E&P Stocks Q2 Teardown: Chevron (NYSE:CVX) Vs The Rest",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/diversified-upstream-e-p-stocks-223530349.html",
+          "publisher": "StockStory",
+          "published": "2026-09-14T22:35:30Z"
+        },
+        {
           "title": "\ud83d\udcac Money Quote: Higher for Longer Oil Prices",
           "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-14-2026/card/-money-quote-higher-for-longer-oil-prices-xm6edQLdzCYzX0XP9ndS?siteid=yhoof2&yptr=yahoo",
           "publisher": "The Wall Street Journal",
@@ -51,12 +57,6 @@
           "url": "https://finance.yahoo.com/energy/articles/buy-exxonmobil-stock-guyana-pays-212835945.html",
           "publisher": "Trefis",
           "published": "2026-09-14T21:28:35Z"
-        },
-        {
-          "title": "Chevron Expands LNG Ambitions as Global Energy Security Returns to Center Stage",
-          "url": "https://finance.yahoo.com/energy/articles/chevron-expands-lng-ambitions-global-210732937.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-09-14T21:07:32Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 101.91,
-      "change_pct": 1.86
+      "price": 101.88,
+      "change_pct": 1.83
     },
     {
       "label": "Brent",
-      "price": 106.41,
-      "change_pct": 1.72
+      "price": 106.24,
+      "change_pct": 1.56
     },
     {
       "label": "NatGas",
       "price": 2.89,
-      "change_pct": 1.98
+      "change_pct": 1.94
     }
   ]
 }
