@@ -1,16 +1,16 @@
 {
-  "as_of_utc": "2026-09-14T20:18:46+00:00",
-  "as_of_local": "2026-09-14 20:18:46 UTC",
+  "as_of_utc": "2026-09-14T20:20:57+00:00",
+  "as_of_local": "2026-09-14 20:20:57 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
       "name": "ExxonMobil",
-      "price": 165.07,
+      "price": 165.08,
       "previous_close": 165.99,
       "change_pct": -0.55,
-      "market_cap": 678753337353.7427,
+      "market_cap": 678794433885.9357,
       "headlines": [
         {
           "title": "Wood Lands $200 Million Contract for ExxonMobil\u2019s PNG LNG Project",
@@ -35,10 +35,10 @@
     {
       "symbol": "CVX",
       "name": "Chevron",
-      "price": 212.16,
+      "price": 212.17,
       "previous_close": 214.06,
-      "change_pct": -0.89,
-      "market_cap": 416183545458.2661,
+      "change_pct": -0.88,
+      "market_cap": 416193363052.7771,
       "headlines": [
         {
           "title": "Sector Update: Energy Stocks Decline Monday Afternoon",
@@ -153,6 +153,12 @@
       "market_cap": 170247959645.25378,
       "headlines": [
         {
+          "title": "Sector Update: Energy Stocks Fall Monday",
+          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-fall-monday-201333930.html",
+          "publisher": "MT Newswires",
+          "published": "2026-09-14T20:13:33Z"
+        },
+        {
           "title": "Can Kentucky's Economic Development Drive PPL's Long-Term Growth?",
           "url": "https://finance.yahoo.com/economy/articles/kentuckys-economic-development-drive-ppls-164100268.html",
           "publisher": "Zacks",
@@ -163,12 +169,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernovas-rising-free-cash-141000232.html",
           "publisher": "Zacks",
           "published": "2026-09-14T14:10:00Z"
-        },
-        {
-          "title": "NextEra Energy Reaffirms 2026 Guidance at Top End of Range as $67 Billion Dominion Merger Progresses",
-          "url": "https://www.wsj.com/business/energy-oil/nextera-energy-dominion-energy-propose-expanded-state-benefits-to-support-merger-94a4f2d2?siteid=yhoof2&yptr=yahoo",
-          "publisher": "The Wall Street Journal",
-          "published": "2026-09-14T13:59:00Z"
         }
       ]
     },
@@ -299,16 +299,16 @@
           "published": "2026-09-14T15:00:00Z"
         },
         {
+          "title": "Stocks Fall on AI Slowdown Fears and Rising Crude Oil Prices",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-fall-ai-slowdown-fears-141007739.html",
+          "publisher": "Barchart",
+          "published": "2026-09-14T14:10:07Z"
+        },
+        {
           "title": "VLO Stock Heads For Best Year Since 1982 \u2014 Michael Burry Says It Has Become A \u2018Huge Position\u2019",
           "url": "https://finance.yahoo.com/markets/stocks/articles/vlo-stock-heads-best-since-085744200.html",
           "publisher": "Stocktwits",
           "published": "2026-09-14T08:57:44Z"
-        },
-        {
-          "title": "Why Did HPQ, DELL, VLO Stocks Surge To 52-Week Highs Last Week?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-hpq-dell-vlo-044309275.html",
-          "publisher": "Stocktwits",
-          "published": "2026-09-14T04:43:09Z"
         }
       ]
     },
@@ -875,9 +875,9 @@
     {
       "symbol": "D",
       "name": "Dominion Energy",
-      "price": 64.48,
+      "price": 64.46,
       "previous_close": 64.36,
-      "change_pct": 0.19,
+      "change_pct": 0.16,
       "market_cap": 56694241867.309944,
       "headlines": [
         {
@@ -1099,10 +1099,10 @@
     {
       "symbol": "EQT",
       "name": "EQT Corp",
-      "price": 53.22,
+      "price": 53.21,
       "previous_close": 54.07,
-      "change_pct": -1.57,
-      "market_cap": 33289962283.569336,
+      "change_pct": -1.59,
+      "market_cap": 33283705787.322998,
       "headlines": [
         {
           "title": "Why Is EOG Resources (EOG) Up 11% Since Last Earnings Report?",
@@ -1689,7 +1689,7 @@
       "name": "NuScale Power",
       "price": 8.51,
       "previous_close": 8.61,
-      "change_pct": -1.22,
+      "change_pct": -1.16,
       "market_cap": 3492414926.1507072,
       "headlines": [
         {
@@ -1922,7 +1922,7 @@
           "short": "ExxonMobil",
           "weight_pct": 19.86,
           "change_pct": -0.55,
-          "price": 165.07,
+          "price": 165.08,
           "currency": "USD"
         },
         {
@@ -1930,8 +1930,8 @@
           "name": "Chevron Corp",
           "short": "Chevron",
           "weight_pct": 14.89,
-          "change_pct": -0.89,
-          "price": 212.16,
+          "change_pct": -0.88,
+          "price": 212.17,
           "currency": "USD"
         },
         {
@@ -2021,7 +2021,7 @@
         "short": "ExxonMobil",
         "weight_pct": 19.86,
         "change_pct": -0.55,
-        "price": 165.07,
+        "price": 165.08,
         "currency": "USD"
       },
       {
@@ -2029,8 +2029,8 @@
         "name": "Chevron Corp",
         "short": "Chevron",
         "weight_pct": 14.89,
-        "change_pct": -0.89,
-        "price": 212.16,
+        "change_pct": -0.88,
+        "price": 212.17,
         "currency": "USD"
       },
       {
@@ -2115,13 +2115,13 @@
     },
     {
       "label": "WTI",
-      "price": 101.76,
-      "change_pct": 1.71
+      "price": 101.85,
+      "change_pct": 1.8
     },
     {
       "label": "Brent",
-      "price": 106.15,
-      "change_pct": 1.47
+      "price": 106.18,
+      "change_pct": 1.5
     },
     {
       "label": "NatGas",
