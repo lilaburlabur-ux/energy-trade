@@ -128,7 +128,6 @@ EQT Corporation engages in the exploration, production, gathering, and transmiss
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
-| 2026-09-14 | main | UBS | Buy → Buy |
 | 2026-08-19 | main | Morgan Stanley | Overweight → Overweight |
 | 2026-08-17 | main | Barclays | Overweight → Overweight |
 | 2026-07-28 | main | Citigroup | Buy → Buy |
@@ -136,6 +135,7 @@ EQT Corporation engages in the exploration, production, gathering, and transmiss
 | 2026-07-22 | main | Barclays | Overweight → Overweight |
 | 2026-07-15 | main | Stephens & Co. | Overweight → Overweight |
 | 2026-07-08 | main | UBS | Buy → Buy |
+| 2026-07-02 | main | Jefferies | Buy → Buy |
 
 ## 9. Conclusion
 EQT: Low momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

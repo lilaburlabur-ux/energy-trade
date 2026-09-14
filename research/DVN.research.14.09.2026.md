@@ -18,7 +18,7 @@ Signed file: `DVN.research.14.09.2026`
 | Technical momentum | Moderate | 1Y +44.58%; price +14.17% vs SMA200. |
 | Fresh setup quality | Watch | -3.81% from 52w high and near SMA20 — check for a tight base. |
 | Fundamental quality | Strong | Profit margin 17.46%, revenue growth 64.20%. |
-| Value attractiveness | Reasonable | Forward P/E 9.21, EV/Sales 3.52. |
+| Value attractiveness | Reasonable | Forward P/E 9.28, EV/Sales 3.52. |
 | Risk level | Moderate | Beta 0.43, ATR 2.6% of price, short float 2.62%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate.
@@ -68,14 +68,14 @@ Devon Energy Corporation, an independent energy company, engages in the explorat
 | Revenue (ttm) | $18.78B | Revenue growth 64.20% y/y |
 | Profitability | Gross 50.35%, operating 41.08%, net 17.46% | ROA 5.91%, ROE 11.52% |
 | Balance sheet | Cash $950.00M, debt $11.89B | Current ratio 0.72, debt/equity 28.49 |
-| Valuation | P/E 10.81, forward P/E 9.21, P/S 2.91, P/B 1.37 | EV/Sales 3.52, EV/EBITDA 7.42 |
+| Valuation | P/E 10.81, forward P/E 9.28, P/S 2.91, P/B 1.37 | EV/Sales 3.52, EV/EBITDA 7.42 |
 | Growth expectations | Earnings growth 44.00%, EPS q/q 112.60% | Analyst mean target $59.96 (28 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 94.74% |
-| Insider ownership | 0.80% |
+| Institutional ownership | 94.73% |
+| Insider ownership | 0.70% |
 | Short float | 2.62% |
 | Short ratio (days to cover) | 2.7 |
 
@@ -119,9 +119,9 @@ Devon Energy Corporation, an independent energy company, engages in the explorat
 | SMA50 dist | +8.97% | ROE | 11.52% |
 | SMA200 dist | +14.17% | Revenue (ttm) | $18.78B |
 | 52W high | $51.70 | Revenue growth y/y | 64.20% |
-| 52W low | $31.15 | Inst. ownership | 94.74% |
-| P/E (ttm) | 10.81 | Insider ownership | 0.80% |
-| Forward P/E | 9.21 | Short float | 2.62% |
+| 52W low | $31.15 | Inst. ownership | 94.73% |
+| P/E (ttm) | 10.81 | Insider ownership | 0.70% |
+| Forward P/E | 9.28 | Short float | 2.62% |
 | PEG (trailing) | 2.92 | Avg volume | 11,789,859 |
 | P/S | 2.91 | Employees | 2,200 |
 | P/B | 1.37 | Analyst rec (1=buy..5=sell) | 1.3 |
@@ -129,14 +129,14 @@ Devon Energy Corporation, an independent energy company, engages in the explorat
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
-| 2026-09-14 | main | Raymond James | Strong Buy → Strong Buy |
-| 2026-09-14 | main | UBS | Buy → Buy |
 | 2026-09-03 | init | Seaport Global | — → Buy |
 | 2026-08-31 | main | Citigroup | Buy → Buy |
 | 2026-08-17 | reit | Argus Research | Buy → Buy |
 | 2026-08-17 | main | Barclays | Overweight → Overweight |
 | 2026-08-13 | main | Wells Fargo | Overweight → Overweight |
 | 2026-08-06 | main | Truist Securities | Buy → Buy |
+| 2026-07-21 | main | Susquehanna | Positive → Positive |
+| 2026-07-16 | main | Raymond James | Strong Buy → Strong Buy |
 
 ## 9. Conclusion
 DVN: Moderate momentum / strong fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

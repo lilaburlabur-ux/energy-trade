@@ -131,7 +131,6 @@ GE Vernova Inc., an energy company, engages in the provision of various products
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
-| 2026-09-14 | init | GLJ Research | — → Sell |
 | 2026-07-27 | main | Mizuho | Neutral → Neutral |
 | 2026-07-23 | main | Bernstein | Outperform → Outperform |
 | 2026-07-23 | main | JP Morgan | Overweight → Overweight |
@@ -139,6 +138,7 @@ GE Vernova Inc., an energy company, engages in the provision of various products
 | 2026-07-23 | main | TD Cowen | Buy → Buy |
 | 2026-07-23 | main | RBC Capital | Outperform → Outperform |
 | 2026-07-23 | main | Oppenheimer | Outperform → Outperform |
+| 2026-07-23 | main | Guggenheim | Buy → Buy |
 
 ## 9. Conclusion
 GEV: Moderate momentum / strong fundamentals / fair-to-demanding value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

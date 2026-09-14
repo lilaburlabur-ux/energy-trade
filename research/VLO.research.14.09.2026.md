@@ -130,14 +130,14 @@ Valero Energy Corporation manufactures, markets, and sells petroleum-based and l
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
-| 2026-09-14 | main | Raymond James | Strong Buy → Strong Buy |
-| 2026-09-14 | main | Morgan Stanley | Equal-Weight → Equal-Weight |
 | 2026-09-08 | main | UBS | Buy → Buy |
 | 2026-09-03 | main | Piper Sandler | Overweight → Overweight |
 | 2026-09-01 | main | Wells Fargo | Overweight → Overweight |
 | 2026-08-04 | main | Mizuho | Neutral → Neutral |
 | 2026-08-03 | main | TD Cowen | Hold → Hold |
 | 2026-07-31 | main | UBS | Buy → Buy |
+| 2026-07-31 | main | Wells Fargo | Overweight → Overweight |
+| 2026-07-31 | main | Barclays | Overweight → Overweight |
 
 ## 9. Conclusion
 VLO: High momentum / mixed fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

@@ -129,7 +129,6 @@ Occidental Petroleum Corporation, together with its subsidiaries, engages in the
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
-| 2026-09-14 | main | Wells Fargo | Overweight → Overweight |
 | 2026-09-11 | main | Evercore ISI Group | Outperform → Outperform |
 | 2026-09-03 | init | Seaport Global | — → Buy |
 | 2026-08-17 | main | Barclays | Overweight → Overweight |
@@ -137,6 +136,7 @@ Occidental Petroleum Corporation, together with its subsidiaries, engages in the
 | 2026-08-10 | main | Truist Securities | Hold → Hold |
 | 2026-08-07 | main | Wells Fargo | Overweight → Overweight |
 | 2026-08-06 | main | Barclays | Overweight → Overweight |
+| 2026-07-17 | main | Citigroup | Neutral → Neutral |
 
 ## 9. Conclusion
 OXY: Moderate momentum / strong fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

@@ -5,7 +5,7 @@ Signed file: `HAL.research.14.09.2026`
 | Field | Value |
 |---|---|
 | Current price | $35.01 (2026-09-14, ~15-min delayed) |
-| Market cap | $29.17B |
+| Market cap | $29.25B |
 | Sector / Industry | Energy / Oil & Gas Equipment & Services |
 | Main theme | Oil & Gas Equipment & Services — see catalysts below |
 | Current stance | High technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
@@ -68,7 +68,7 @@ Halliburton Company provides products and services to the energy industry worldw
 | Revenue (ttm) | $22.37B | Revenue growth 3.70% y/y |
 | Profitability | Gross 15.08%, operating 12.79%, net 7.16% | ROA 7.26%, ROE 14.92% |
 | Balance sheet | Cash $2.05B, debt $8.20B | Current ratio 2.02, debt/equity 74.19 |
-| Valuation | P/E 18.33, forward P/E 12.06, P/S 1.30, P/B 2.65 | EV/Sales 1.61, EV/EBITDA 8.71 |
+| Valuation | P/E 18.33, forward P/E 12.06, P/S 1.31, P/B 2.65 | EV/Sales 1.61, EV/EBITDA 8.71 |
 | Growth expectations | Earnings growth 16.10%, EPS q/q 13.10% | Analyst mean target $43.12 (25 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -112,7 +112,7 @@ Halliburton Company provides products and services to the energy industry worldw
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $35.01 | EV/Sales | 1.61 |
-| Market cap | $29.17B | EV/EBITDA | 8.71 |
+| Market cap | $29.25B | EV/EBITDA | 8.71 |
 | Beta | 0.77 | Gross margin | 15.08% |
 | RSI(14) | 47.6 | Operating margin | 12.79% |
 | ATR(14) | 1.12 | Profit margin | 7.16% |
@@ -124,13 +124,12 @@ Halliburton Company provides products and services to the energy industry worldw
 | P/E (ttm) | 18.33 | Insider ownership | 0.40% |
 | Forward P/E | 12.06 | Short float | 5.57% |
 | PEG (trailing) | 0.74 | Avg volume | 11,709,198 |
-| P/S | 1.30 | Employees | 46,000 |
+| P/S | 1.31 | Employees | 46,000 |
 | P/B | 2.65 | Analyst rec (1=buy..5=sell) | 1.8 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
-| 2026-09-14 | main | UBS | Neutral → Neutral |
 | 2026-07-27 | main | UBS | Neutral → Neutral |
 | 2026-07-23 | main | Argus Research | Buy → Buy |
 | 2026-07-22 | main | Morgan Stanley | Overweight → Overweight |
@@ -138,6 +137,7 @@ Halliburton Company provides products and services to the energy industry worldw
 | 2026-07-22 | up | Freedom Broker | Sell → Hold |
 | 2026-07-22 | main | Evercore ISI Group | Outperform → Outperform |
 | 2026-07-22 | main | Barclays | Overweight → Overweight |
+| 2026-07-14 | up | Piper Sandler | Neutral → Overweight |
 
 ## 9. Conclusion
 HAL: High momentum / mixed fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
