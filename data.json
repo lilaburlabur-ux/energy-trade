@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-14T20:54:19+00:00",
-  "as_of_local": "2026-09-14 20:54:19 UTC",
+  "as_of_utc": "2026-09-14T20:59:06+00:00",
+  "as_of_local": "2026-09-14 20:59:06 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -1553,6 +1553,12 @@
       "market_cap": 6735698936.195755,
       "headlines": [
         {
+          "title": "Oklo Stock Drops After Announcing $1 Billion Share Sale. Should Investors Panic?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/oklo-stock-drops-announcing-1-204924079.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-14T20:49:24Z"
+        },
+        {
           "title": "Not Oklo. Not NuScale. This Nuclear Stock Is Going to Be the Biggest Winner of the AI Power Boom.",
           "url": "https://finance.yahoo.com/energy/articles/not-oklo-not-nuscale-nuclear-180500769.html",
           "publisher": "Motley Fool",
@@ -1563,12 +1569,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/nuclear-stock-down-month-time-110400376.html",
           "publisher": "Motley Fool",
           "published": "2026-09-14T11:04:00Z"
-        },
-        {
-          "title": "OKLO Stock Dips Premarket: Retail Bulls Undeterred As They Eye Nuclear Future",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/oklo-stock-dips-premarket-retail-081451603.html",
-          "publisher": "Stocktwits",
-          "published": "2026-09-14T08:14:51Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 102.02,
-      "change_pct": 1.97
+      "price": 101.99,
+      "change_pct": 1.94
     },
     {
       "label": "Brent",
-      "price": 106.35,
-      "change_pct": 1.66
+      "price": 106.3,
+      "change_pct": 1.62
     },
     {
       "label": "NatGas",
       "price": 2.88,
-      "change_pct": 1.73
+      "change_pct": 1.7
     }
   ]
 }
