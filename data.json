@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-09-14T23:22:30+00:00",
-  "as_of_local": "2026-09-14 23:22:30 UTC",
+  "as_of_utc": "2026-09-14T23:27:29+00:00",
+  "as_of_local": "2026-09-14 23:27:29 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "NOV"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -152,7 +150,7 @@
       "price": 81.63,
       "previous_close": 82.31,
       "change_pct": -0.83,
-      "market_cap": 170278395471.35974,
+      "market_cap": 170247959645.25378,
       "headlines": [
         {
           "title": "Energy giants seeking to merge say they'll extend Virginia residents' bill credits and add jobs",
@@ -208,7 +206,7 @@
       "price": 393.16,
       "previous_close": 425.37,
       "change_pct": -7.57,
-      "market_cap": 152703345422.36328,
+      "market_cap": 152664029421.99707,
       "headlines": [
         {
           "title": "Vertiv Has Guided Itself Into A Steep Second Half",
@@ -264,7 +262,7 @@
       "price": 396.45,
       "previous_close": 395.93,
       "change_pct": 0.13,
-      "market_cap": 111332980719.38666,
+      "market_cap": 115738282509.42963,
       "headlines": [
         {
           "title": "Global Fuel Squeeze Triggers U.S. Refiners Stocks Rally",
@@ -628,7 +626,7 @@
       "price": 148.54,
       "previous_close": 147.36,
       "change_pct": 0.8,
-      "market_cap": 77913560281.42078,
+      "market_cap": 79116638270.20279,
       "headlines": [
         {
           "title": "The Zacks Analyst Blog Highlights  JPMorgan Chase, EOG Resources and Bloom Energy",
@@ -796,7 +794,7 @@
       "price": 96.97,
       "previous_close": 96.62,
       "change_pct": 0.36,
-      "market_cap": 61126947378.48422,
+      "market_cap": 61094286427.52307,
       "headlines": [
         {
           "title": "These 3 Pipeline Stocks Pay High Yields Without the K-1 Headache",
@@ -1076,7 +1074,7 @@
       "price": 70.92,
       "previous_close": 72.39,
       "change_pct": -2.03,
-      "market_cap": 35347947614.96567,
+      "market_cap": 35340952917.38626,
       "headlines": [
         {
           "title": "Public Service Enterprise Group CEO Sells 2,083 Shares",
@@ -1496,7 +1494,7 @@
       "price": 29.43,
       "previous_close": 30.39,
       "change_pct": -3.16,
-      "market_cap": 8832285244.7668,
+      "market_cap": 8925411742.50248,
       "headlines": [
         {
           "title": "Could Buying Brookfield Renewable Today Set You Up for Life?",
@@ -1515,6 +1513,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/brookfield-renewable-corps-dividend-analysis-111556591.html",
           "publisher": "GuruFocus.com",
           "published": "2026-08-31T11:15:56Z"
+        }
+      ]
+    },
+    {
+      "symbol": "NOV",
+      "name": "NOV Inc",
+      "price": 20.54,
+      "previous_close": 21.1,
+      "change_pct": -2.65,
+      "market_cap": 7322061013.865471,
+      "headlines": [
+        {
+          "title": "Is FET's \"Beat the Market\" Strategy Its Key to Faster Growth?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/fets-beat-market-strategy-key-152400712.html",
+          "publisher": "Zacks",
+          "published": "2026-09-14T15:24:00Z"
+        },
+        {
+          "title": "NOV Inc's Dividend Analysis",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nov-incs-dividend-analysis-110953720.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-09-11T11:09:53Z"
+        },
+        {
+          "title": "3 Profitable Stocks We Approach with Caution",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-profitable-stocks-approach-caution-193518971.html",
+          "publisher": "StockStory",
+          "published": "2026-09-08T19:35:18Z"
         }
       ]
     },
@@ -1580,7 +1606,7 @@
       "price": 84.46,
       "previous_close": 88.85,
       "change_pct": -4.94,
-      "market_cap": 6039912238.368713,
+      "market_cap": 6054552450.150017,
       "headlines": [
         {
           "title": "Solaris Energy Infrastructure, TETRA Technologies, SLB, and Weatherford Stocks Trade Down, What You Need To Know",
@@ -1636,7 +1662,7 @@
       "price": 36.66,
       "previous_close": 36.35,
       "change_pct": 0.85,
-      "market_cap": 4844422775.516327,
+      "market_cap": 4831722725.089188,
       "headlines": [
         {
           "title": "SolarEdge Falls 4% on Analyst Day Despite Joint NVIDIA 800 VDC Paper; Enphase Energy and First Solar Edge Higher",
@@ -1692,7 +1718,7 @@
       "price": 12.34,
       "previous_close": 12.95,
       "change_pct": -4.71,
-      "market_cap": 3267305918.881241,
+      "market_cap": 3084568138.141632,
       "headlines": [
         {
           "title": "Why Energy Fuels (UUUU) Dipped More Than Broader Market Today",
@@ -2089,8 +2115,8 @@
     },
     {
       "label": "WTI",
-      "price": 101.96,
-      "change_pct": 1.91
+      "price": 102.01,
+      "change_pct": 1.96
     },
     {
       "label": "Brent",
