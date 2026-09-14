@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-14T00:08:03+00:00",
-  "as_of_local": "2026-09-14 00:08:03 UTC",
+  "as_of_utc": "2026-09-14T00:12:49+00:00",
+  "as_of_local": "2026-09-14 00:12:49 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -123,26 +123,7 @@
       "previous_close": 91.23,
       "change_pct": 0.72,
       "market_cap": 203062376079.94952,
-      "headlines": [
-        {
-          "title": "Sector Update: Energy Stocks Mixed Late Afternoon",
-          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-mixed-afternoon-194920218.html",
-          "publisher": "MT Newswires",
-          "published": "2026-09-11T19:49:20Z"
-        },
-        {
-          "title": "Sector Update: Energy Stocks Advance Friday Afternoon",
-          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-advance-friday-180102714.html",
-          "publisher": "MT Newswires",
-          "published": "2026-09-11T18:01:02Z"
-        },
-        {
-          "title": "Sector Update: Energy Stocks Decline Premarket Friday",
-          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-decline-premarket-132850294.html",
-          "publisher": "MT Newswires",
-          "published": "2026-09-11T13:28:50Z"
-        }
-      ]
+      "headlines": []
     },
     {
       "symbol": "NEE",
@@ -2115,18 +2096,18 @@
     },
     {
       "label": "WTI",
-      "price": 102.56,
-      "change_pct": 2.51
+      "price": 102.51,
+      "change_pct": 2.46
     },
     {
       "label": "Brent",
-      "price": 107.64,
-      "change_pct": 2.9
+      "price": 107.61,
+      "change_pct": 2.87
     },
     {
       "label": "NatGas",
       "price": 2.87,
-      "change_pct": 1.27
+      "change_pct": 1.34
     }
   ]
 }
