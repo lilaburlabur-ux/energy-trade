@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-09-14T08:45:33+00:00",
-  "as_of_local": "2026-09-14 08:45:33 UTC",
+  "as_of_utc": "2026-09-14T08:50:13+00:00",
+  "as_of_local": "2026-09-14 08:50:13 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "PWR"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -69,26 +67,7 @@
       "previous_close": 95.96,
       "change_pct": 0.84,
       "market_cap": 276704816435.8602,
-      "headlines": [
-        {
-          "title": "Shell Just Sold a $715 Million Stake in a Major New England Asset to Constellation Energy. Here's What Investors Need to Know.",
-          "url": "https://finance.yahoo.com/energy/articles/shell-just-sold-715-million-101251258.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-12T10:12:51Z"
-        },
-        {
-          "title": "Shell's Troubled Project Faces Another Major Blow",
-          "url": "https://finance.yahoo.com/energy/articles/shells-troubled-project-faces-another-200953447.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-09-11T20:09:53Z"
-        },
-        {
-          "title": "Sector Update: Energy Stocks Mixed Late Afternoon",
-          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-mixed-afternoon-194920218.html",
-          "publisher": "MT Newswires",
-          "published": "2026-09-11T19:49:20Z"
-        }
-      ]
+      "headlines": []
     },
     {
       "symbol": "GEV",
@@ -455,6 +434,34 @@
       ]
     },
     {
+      "symbol": "PWR",
+      "name": "Quanta Services",
+      "price": 650.58,
+      "previous_close": 618.73,
+      "change_pct": 5.15,
+      "market_cap": 97810407187.2851,
+      "headlines": [
+        {
+          "title": "Why Quanta (PWR) Stock Is Up Today",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-quanta-pwr-stock-today-051505450.html",
+          "publisher": "StockStory",
+          "published": "2026-09-12T05:15:05Z"
+        },
+        {
+          "title": "3 Big Reasons to Love Quanta (PWR)",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-big-reasons-love-quanta-211505537.html",
+          "publisher": "StockStory",
+          "published": "2026-09-11T21:15:05Z"
+        },
+        {
+          "title": "Will EMCOR's 19.6% Organic Growth Stay Elevated Into 2027?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/emcors-19-6-organic-growth-151700275.html",
+          "publisher": "Zacks",
+          "published": "2026-09-11T15:17:00Z"
+        }
+      ]
+    },
+    {
       "symbol": "DUK",
       "name": "Duke Energy",
       "price": 119.42,
@@ -741,26 +748,7 @@
       "previous_close": 61.16,
       "change_pct": 0.49,
       "market_cap": 61437711906.46465,
-      "headlines": [
-        {
-          "title": "I'm Buying Occidental on This Dip -- Not Because of Oil, but Because of This",
-          "url": "https://finance.yahoo.com/energy/articles/im-buying-occidental-dip-not-133500605.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-11T13:35:00Z"
-        },
-        {
-          "title": "Record Diesel Prices Make Fed\u2019s Rate Decision for It",
-          "url": "https://www.barrons.com/articles/diesel-prices-fed-rate-decision-c9076122?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-09-11T12:27:00Z"
-        },
-        {
-          "title": "Why Is ExxonMobil Priced Above Peers With Fatter Margins?",
-          "url": "https://finance.yahoo.com/energy/articles/why-exxonmobil-priced-above-peers-013457448.html",
-          "publisher": "Trefis",
-          "published": "2026-09-10T01:34:57Z"
-        }
-      ]
+      "headlines": []
     },
     {
       "symbol": "OKE",
@@ -1609,26 +1597,7 @@
       "previous_close": 11.02,
       "change_pct": -5.17,
       "market_cap": 5171416130.310587,
-      "headlines": [
-        {
-          "title": "Russia accuses Ukraine of Zaporizhzhia fuel attack as Odesa strikes continue",
-          "url": "https://www.yahoo.com/news/world/articles/russia-accuses-ukraine-zaporizhzhia-fuel-090755823.html",
-          "publisher": "Investing.com",
-          "published": "2026-09-13T09:07:55Z"
-        },
-        {
-          "title": "Is Uranium Energy (UEC) a Buy as Wall Street Analysts Look Optimistic?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/uranium-energy-uec-buy-wall-133004333.html",
-          "publisher": "Zacks",
-          "published": "2026-09-10T13:30:04Z"
-        },
-        {
-          "title": "BWX Technologies Already Builds Reactors for the Navy. Why Is It Still the Cheapest Nuclear Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bwx-technologies-already-builds-reactors-132500675.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-06T13:25:00Z"
-        }
-      ]
+      "headlines": []
     },
     {
       "symbol": "ENPH",
@@ -2089,18 +2058,18 @@
     },
     {
       "label": "WTI",
-      "price": 103.52,
-      "change_pct": 3.47
+      "price": 103.17,
+      "change_pct": 3.12
     },
     {
       "label": "Brent",
-      "price": 108.17,
-      "change_pct": 3.4
+      "price": 107.9,
+      "change_pct": 3.15
     },
     {
       "label": "NatGas",
       "price": 2.9,
-      "change_pct": 2.54
+      "change_pct": 2.58
     }
   ]
 }
