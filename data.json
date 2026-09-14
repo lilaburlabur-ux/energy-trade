@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-14T08:04:51+00:00",
-  "as_of_local": "2026-09-14 08:04:51 UTC",
+  "as_of_utc": "2026-09-14T08:10:09+00:00",
+  "as_of_local": "2026-09-14 08:10:09 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -13,6 +13,12 @@
       "market_cap": 682536288827.807,
       "headlines": [
         {
+          "title": "Zacks Investment Ideas feature highlights: Johnson & Johnson, Coca-Cola and Exxon Mobil",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-080000918.html",
+          "publisher": "Zacks",
+          "published": "2026-09-14T08:00:00Z"
+        },
+        {
           "title": "Oil Above $100 Is Creating a New Opportunity Beyond the Major Producers",
           "url": "https://finance.yahoo.com/energy/articles/oil-above-100-creating-opportunity-134500021.html",
           "publisher": "MarketBeat",
@@ -23,12 +29,6 @@
           "url": "https://finance.yahoo.com/energy/articles/chevron-already-committed-7-billion-123500207.html",
           "publisher": "Motley Fool",
           "published": "2026-09-12T12:35:00Z"
-        },
-        {
-          "title": "How Much Do You Really Need Invested in Dividend Stocks to Replace a $25,000 Income?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/much-really-invested-dividend-stocks-115031676.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-09-12T11:50:31Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 103.06,
-      "change_pct": 3.01
+      "price": 102.66,
+      "change_pct": 2.61
     },
     {
       "label": "Brent",
-      "price": 107.83,
-      "change_pct": 3.08
+      "price": 107.61,
+      "change_pct": 2.87
     },
     {
       "label": "NatGas",
       "price": 2.91,
-      "change_pct": 2.68
+      "change_pct": 2.76
     }
   ]
 }
