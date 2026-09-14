@@ -18,7 +18,7 @@ Signed file: `FLNC.research.14.09.2026`
 | Technical momentum | Low | Below SMA200 (-47.44%) with negative half-year (-42.55%). |
 | Fresh setup quality | Poor / broken | -70.80% from 52w high — base needs to rebuild. |
 | Fundamental quality | Weak | Negative profit margin (-3.07%). |
-| Value attractiveness | Low (expensive) | Forward P/E 73.54, EV/Sales 0.59. |
+| Value attractiveness | Low (expensive) | Forward P/E 73.54, EV/Sales 0.56. |
 | Risk level | High | Beta 2.74, ATR 8.4% of price, short float 34.01%. |
 
 **Bottom line:** Low technical momentum, weak fundamentals, value: low (expensive), risk: high.
@@ -68,13 +68,13 @@ Fluence Energy, Inc., through its subsidiaries, provides energy storage and opti
 | Revenue (ttm) | $2.63B | Revenue growth 7.90% y/y |
 | Profitability | Gross 9.36%, operating -8.85%, net -3.07% | ROA -2.95%, ROE -23.54% |
 | Balance sheet | Cash $339.33M, debt $413.16M | Current ratio 1.34, debt/equity 95.81 |
-| Valuation | P/E —, forward P/E 73.54, P/S 0.66, P/B 3.61 | EV/Sales 0.59, EV/EBITDA -19.92 |
+| Valuation | P/E —, forward P/E 73.54, P/S 0.66, P/B 3.61 | EV/Sales 0.56, EV/EBITDA -18.97 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $15.11 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 85.01% |
+| Institutional ownership | 85.12% |
 | Insider ownership | 14.42% |
 | Short float | 34.01% |
 | Short ratio (days to cover) | 3.4 |
@@ -95,7 +95,7 @@ Fluence Energy, Inc., through its subsidiaries, provides energy storage and opti
 | State Street Corporation | 2,627,213 | 1.84% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 73.54, EV/Sales 0.59. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 73.54, EV/Sales 0.56. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 2.74, ATR 8.4% of price, short float 34.01%. Size positions accordingly.
 - **Short interest risk:** short float 34.01% can fuel squeezes both ways around news.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
@@ -114,8 +114,8 @@ Fluence Energy, Inc., through its subsidiaries, provides energy storage and opti
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $9.41 | EV/Sales | 0.59 |
-| Market cap | $1.75B | EV/EBITDA | -19.92 |
+| Price | $9.41 | EV/Sales | 0.56 |
+| Market cap | $1.75B | EV/EBITDA | -18.97 |
 | Beta | 2.74 | Gross margin | 9.36% |
 | RSI(14) | 33.1 | Operating margin | -8.85% |
 | ATR(14) | 0.79 | Profit margin | -3.07% |
@@ -123,7 +123,7 @@ Fluence Energy, Inc., through its subsidiaries, provides energy storage and opti
 | SMA50 dist | -27.37% | ROE | -23.54% |
 | SMA200 dist | -47.44% | Revenue (ttm) | $2.63B |
 | 52W high | $32.23 | Revenue growth y/y | 7.90% |
-| 52W low | $7.00 | Inst. ownership | 85.01% |
+| 52W low | $7.00 | Inst. ownership | 85.12% |
 | P/E (ttm) | — | Insider ownership | 14.42% |
 | Forward P/E | 73.54 | Short float | 34.01% |
 | PEG (trailing) | — | Avg volume | 7,808,183 |
@@ -133,6 +133,7 @@ Fluence Energy, Inc., through its subsidiaries, provides energy storage and opti
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-09-11 | main | Mizuho | Underperform → Underperform |
 | 2026-09-09 | init | Piper Sandler | — → Underweight |
 | 2026-09-03 | down | Barclays | Equal-Weight → Underweight |
 | 2026-08-25 | up | UBS | Sell → Neutral |
@@ -140,7 +141,6 @@ Fluence Energy, Inc., through its subsidiaries, provides energy storage and opti
 | 2026-08-14 | main | Citigroup | Buy → Buy |
 | 2026-08-07 | main | RBC Capital | Sector Perform → Sector Perform |
 | 2026-07-22 | up | Citigroup | Neutral → Buy |
-| 2026-07-14 | init | Truist Securities | Buy → Hold |
 
 ## 9. Conclusion
 FLNC: Low momentum / weak fundamentals / low (expensive) value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

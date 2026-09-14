@@ -18,7 +18,7 @@ Signed file: `FANG.research.14.09.2026`
 | Technical momentum | Moderate | 1Y +52.20%; price +13.95% vs SMA200. |
 | Fresh setup quality | Watch | -2.67% from 52w high and near SMA20 — check for a tight base. |
 | Fundamental quality | Mixed | Profit margin 9.03%, revenue growth 52.50%. |
-| Value attractiveness | Reasonable | Forward P/E 11.17, EV/Sales 4.66. |
+| Value attractiveness | Reasonable | Forward P/E 11.17, EV/Sales 4.67. |
 | Risk level | Moderate | Beta 0.41, ATR 2.7% of price, short float 4.23%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -68,7 +68,7 @@ Diamondback Energy, Inc., an independent oil and natural gas company, acquires, 
 | Revenue (ttm) | $16.25B | Revenue growth 52.50% y/y |
 | Profitability | Gross 72.35%, operating 48.47%, net 9.03% | ROA 1.31%, ROE 3.49% |
 | Balance sheet | Cash $462.00M, debt $12.61B | Current ratio 0.47, debt/equity 28.68 |
-| Valuation | P/E 39.18, forward P/E 11.17, P/S 3.56, P/B 1.52 | EV/Sales 4.66, EV/EBITDA 6.42 |
+| Valuation | P/E 39.18, forward P/E 11.17, P/S 3.56, P/B 1.52 | EV/Sales 4.67, EV/EBITDA 6.44 |
 | Growth expectations | Earnings growth 179.50%, EPS q/q 169.20% | Analyst mean target $233.45 (29 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -110,8 +110,8 @@ Diamondback Energy, Inc., an independent oil and natural gas company, acquires, 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $205.72 | EV/Sales | 4.66 |
-| Market cap | $57.87B | EV/EBITDA | 6.42 |
+| Price | $205.72 | EV/Sales | 4.67 |
+| Market cap | $57.87B | EV/EBITDA | 6.44 |
 | Beta | 0.41 | Gross margin | 72.35% |
 | RSI(14) | 57.3 | Operating margin | 48.47% |
 | ATR(14) | 5.65 | Profit margin | 9.03% |

@@ -18,7 +18,7 @@ Signed file: `OXY.research.14.09.2026`
 | Technical momentum | Moderate | 1Y +36.92%; price +17.87% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -5.87% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 30.32%, revenue growth 53.40%. |
-| Value attractiveness | Reasonable | Forward P/E 15.31, EV/Sales 3.38. |
+| Value attractiveness | Reasonable | Forward P/E 15.31, EV/Sales 3.39. |
 | Risk level | Moderate | Beta 0.16, ATR 2.4% of price, short float 0.01%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate.
@@ -68,7 +68,7 @@ Occidental Petroleum Corporation, together with its subsidiaries, engages in the
 | Revenue (ttm) | $23.93B | Revenue growth 53.40% y/y |
 | Profitability | Gross 73.32%, operating 45.44%, net 30.32% | ROA 4.68%, ROE 10.63% |
 | Balance sheet | Cash $4.15B, debt $14.63B | Current ratio 1.41, debt/equity 34.51 |
-| Valuation | P/E 18.22, forward P/E 15.31, P/S 2.58, P/B 1.85 | EV/Sales 3.38, EV/EBITDA 5.89 |
+| Valuation | P/E 18.22, forward P/E 15.31, P/S 2.58, P/B 1.85 | EV/Sales 3.39, EV/EBITDA 5.92 |
 | Growth expectations | Earnings growth 964.90%, EPS q/q 550.00% | Analyst mean target $67.56 (25 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -110,8 +110,8 @@ Occidental Petroleum Corporation, together with its subsidiaries, engages in the
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $61.78 | EV/Sales | 3.38 |
-| Market cap | $61.76B | EV/EBITDA | 5.89 |
+| Price | $61.78 | EV/Sales | 3.39 |
+| Market cap | $61.76B | EV/EBITDA | 5.92 |
 | Beta | 0.16 | Gross margin | 73.32% |
 | RSI(14) | 65.1 | Operating margin | 45.44% |
 | ATR(14) | 1.46 | Profit margin | 30.32% |
@@ -129,14 +129,14 @@ Occidental Petroleum Corporation, together with its subsidiaries, engages in the
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-09-14 | main | UBS | Neutral → Neutral |
+| 2026-09-14 | main | Wells Fargo | Overweight → Overweight |
 | 2026-09-11 | main | Evercore ISI Group | Outperform → Outperform |
 | 2026-09-03 | init | Seaport Global | — → Buy |
 | 2026-08-17 | main | Barclays | Overweight → Overweight |
 | 2026-08-11 | main | Susquehanna | Positive → Positive |
 | 2026-08-10 | main | Truist Securities | Hold → Hold |
 | 2026-08-07 | main | Wells Fargo | Overweight → Overweight |
-| 2026-08-06 | main | Barclays | Overweight → Overweight |
-| 2026-07-17 | main | Citigroup | Neutral → Neutral |
 
 ## 9. Conclusion
 OXY: Moderate momentum / strong fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

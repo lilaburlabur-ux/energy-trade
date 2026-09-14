@@ -18,7 +18,7 @@ Signed file: `APA.research.14.09.2026`
 | Technical momentum | High | 1Y +102.79%; price +33.40% vs SMA200. |
 | Fresh setup quality | Watch | +0.00% from 52w high and near SMA20 — check for a tight base. |
 | Fundamental quality | Mixed | Profit margin 19.56%, revenue growth 9.20%. |
-| Value attractiveness | Reasonable | Forward P/E 10.24, EV/Sales 2.34. |
+| Value attractiveness | Reasonable | Forward P/E 10.24, EV/Sales 2.35. |
 | Risk level | Elevated | Beta 0.37, ATR 3.3% of price, short float 9.10%. |
 
 **Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
@@ -68,7 +68,7 @@ APA Corporation, an independent energy company, explores for, develops, and prod
 | Revenue (ttm) | $8.57B | Revenue growth 9.20% y/y |
 | Profitability | Gross 78.25%, operating 56.33%, net 19.56% | ROA 11.60%, ROE 26.66% |
 | Balance sheet | Cash $444.00M, debt $3.88B | Current ratio 0.95, debt/equity 48.85 |
-| Valuation | P/E 9.50, forward P/E 10.24, P/S 1.84, P/B 2.25 | EV/Sales 2.34, EV/EBITDA 3.50 |
+| Valuation | P/E 9.50, forward P/E 10.24, P/S 1.84, P/B 2.25 | EV/Sales 2.35, EV/EBITDA 3.52 |
 | Growth expectations | Earnings growth 26.30%, EPS q/q 23.90% | Analyst mean target $45.52 (25 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -112,8 +112,8 @@ APA Corporation, an independent energy company, explores for, develops, and prod
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $45.03 | EV/Sales | 2.34 |
-| Market cap | $15.78B | EV/EBITDA | 3.50 |
+| Price | $45.03 | EV/Sales | 2.35 |
+| Market cap | $15.78B | EV/EBITDA | 3.52 |
 | Beta | 0.37 | Gross margin | 78.25% |
 | RSI(14) | 64.7 | Operating margin | 56.33% |
 | ATR(14) | 1.47 | Profit margin | 19.56% |
@@ -131,6 +131,7 @@ APA Corporation, an independent energy company, explores for, develops, and prod
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-09-14 | main | UBS | Neutral → Neutral |
 | 2026-09-03 | init | Seaport Global | — → Neutral |
 | 2026-09-02 | main | Raymond James | Outperform → Outperform |
 | 2026-09-02 | main | Wells Fargo | Equal-Weight → Equal-Weight |
@@ -138,7 +139,6 @@ APA Corporation, an independent energy company, explores for, develops, and prod
 | 2026-08-19 | up | Argus Research | Hold → Buy |
 | 2026-08-17 | main | Barclays | Equal-Weight → Equal-Weight |
 | 2026-08-13 | main | Wells Fargo | Equal-Weight → Equal-Weight |
-| 2026-08-12 | main | Benchmark | Buy → Buy |
 
 ## 9. Conclusion
 APA: High momentum / mixed fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

@@ -18,7 +18,7 @@ Signed file: `CVX.research.14.09.2026`
 | Technical momentum | Moderate | 1Y +39.36%; price +17.96% vs SMA200. |
 | Fresh setup quality | Watch | -0.88% from 52w high and near SMA20 — check for a tight base. |
 | Fundamental quality | Mixed | Profit margin 9.83%, revenue growth 53.50%. |
-| Value attractiveness | Reasonable | Forward P/E 15.75, EV/Sales 2.17. |
+| Value attractiveness | Reasonable | Forward P/E 15.75, EV/Sales 2.15. |
 | Risk level | Moderate | Beta 0.49, ATR 2.0% of price, short float 1.05%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -68,7 +68,7 @@ Chevron Corporation, through its subsidiaries, engages in the integrated energy 
 | Revenue (ttm) | $209.38B | Revenue growth 53.50% y/y |
 | Profitability | Gross 44.27%, operating 21.87%, net 9.83% | ROA 5.86%, ROE 12.23% |
 | Balance sheet | Cash $8.53B, debt $37.08B | Current ratio 1.25, debt/equity 18.96 |
-| Valuation | P/E 20.44, forward P/E 15.75, P/S 1.99, P/B 2.19 | EV/Sales 2.17, EV/EBITDA 8.96 |
+| Valuation | P/E 20.44, forward P/E 15.75, P/S 1.99, P/B 2.19 | EV/Sales 2.15, EV/EBITDA 8.89 |
 | Growth expectations | Earnings growth 321.90%, EPS q/q 384.80% | Analyst mean target $221.21 (24 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -110,8 +110,8 @@ Chevron Corporation, through its subsidiaries, engages in the integrated energy 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $212.17 | EV/Sales | 2.17 |
-| Market cap | $416.19B | EV/EBITDA | 8.96 |
+| Price | $212.17 | EV/Sales | 2.15 |
+| Market cap | $416.19B | EV/EBITDA | 8.89 |
 | Beta | 0.49 | Gross margin | 44.27% |
 | RSI(14) | 65.0 | Operating margin | 21.87% |
 | ATR(14) | 4.34 | Profit margin | 9.83% |

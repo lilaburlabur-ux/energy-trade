@@ -18,7 +18,7 @@ Signed file: `RUN.research.14.09.2026`
 | Technical momentum | Low | Below SMA200 (-41.56%) with negative half-year (-31.38%). |
 | Fresh setup quality | Poor / broken | -61.09% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 11.59%, revenue growth 52.80%. |
-| Value attractiveness | Reasonable | Forward P/E 8.21, EV/Sales 5.26. |
+| Value attractiveness | Reasonable | Forward P/E 8.21, EV/Sales 5.25. |
 | Risk level | High | Beta 2.36, ATR 6.0% of price, short float 34.08%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: high.
@@ -68,7 +68,7 @@ Sunrun Inc. designs, develops, installs, sells, owns, and maintains residential 
 | Revenue (ttm) | $3.48B | Revenue growth 52.80% y/y |
 | Profitability | Gross 35.29%, operating 4.00%, net 11.59% | ROA 0.26%, ROE -19.86% |
 | Balance sheet | Cash $726.43M, debt $15.23B | Current ratio 1.42, debt/equity 292.51 |
-| Valuation | P/E 5.67, forward P/E 8.21, P/S 0.58, P/B 0.57 | EV/Sales 5.26, EV/EBITDA 21.75 |
+| Valuation | P/E 5.67, forward P/E 8.21, P/S 0.58, P/B 0.57 | EV/Sales 5.25, EV/EBITDA 21.69 |
 | Growth expectations | Earnings growth -60.70%, EPS q/q -58.80% | Analyst mean target $15.97 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -112,8 +112,8 @@ Sunrun Inc. designs, develops, installs, sells, owns, and maintains residential 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $8.33 | EV/Sales | 5.26 |
-| Market cap | $2.01B | EV/EBITDA | 21.75 |
+| Price | $8.33 | EV/Sales | 5.25 |
+| Market cap | $2.01B | EV/EBITDA | 21.69 |
 | Beta | 2.36 | Gross margin | 35.29% |
 | RSI(14) | 36.4 | Operating margin | 4.00% |
 | ATR(14) | 0.50 | Profit margin | 11.59% |

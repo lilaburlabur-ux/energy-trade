@@ -68,13 +68,13 @@ HF Sinclair Corporation operates as an independent energy company in the United 
 | Revenue (ttm) | $31.23B | Revenue growth 53.20% y/y |
 | Profitability | Gross 12.89%, operating 11.69%, net 6.13% | ROA 9.16%, ROE 19.50% |
 | Balance sheet | Cash $2.26B, debt $3.34B | Current ratio 1.97, debt/equity 32.26 |
-| Valuation | P/E 10.19, forward P/E 9.59, P/S 0.61, P/B 1.85 | EV/Sales 0.65, EV/EBITDA 6.34 |
+| Valuation | P/E 10.19, forward P/E 9.59, P/S 0.61, P/B 1.85 | EV/Sales 0.65, EV/EBITDA 6.29 |
 | Growth expectations | Earnings growth 350.20%, EPS q/q 328.80% | Analyst mean target $95.60 (15 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 89.66% |
+| Institutional ownership | 89.69% |
 | Insider ownership | 5.49% |
 | Short float | 6.41% |
 | Short ratio (days to cover) | 3.9 |
@@ -113,7 +113,7 @@ HF Sinclair Corporation operates as an independent energy company in the United 
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $106.91 | EV/Sales | 0.65 |
-| Market cap | $19.01B | EV/EBITDA | 6.34 |
+| Market cap | $19.01B | EV/EBITDA | 6.29 |
 | Beta | 0.69 | Gross margin | 12.89% |
 | RSI(14) | 70.1 | Operating margin | 11.69% |
 | ATR(14) | 3.91 | Profit margin | 6.13% |
@@ -121,7 +121,7 @@ HF Sinclair Corporation operates as an independent energy company in the United 
 | SMA50 dist | +16.59% | ROE | 19.50% |
 | SMA200 dist | +61.31% | Revenue (ttm) | $31.23B |
 | 52W high | $108.31 | Revenue growth y/y | 53.20% |
-| 52W low | $44.83 | Inst. ownership | 89.66% |
+| 52W low | $44.83 | Inst. ownership | 89.69% |
 | P/E (ttm) | 10.19 | Insider ownership | 5.49% |
 | Forward P/E | 9.59 | Short float | 6.41% |
 | PEG (trailing) | 1.79 | Avg volume | 2,658,104 |
@@ -131,14 +131,14 @@ HF Sinclair Corporation operates as an independent energy company in the United 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-09-14 | main | Raymond James | Strong Buy → Strong Buy |
+| 2026-09-14 | main | Morgan Stanley | Overweight → Overweight |
 | 2026-09-08 | main | UBS | Buy → Buy |
 | 2026-09-01 | main | Wells Fargo | Equal-Weight → Equal-Weight |
 | 2026-08-04 | main | Mizuho | Neutral → Neutral |
 | 2026-07-29 | main | Barclays | Equal-Weight → Equal-Weight |
 | 2026-07-22 | main | Goldman Sachs | Buy → Buy |
 | 2026-07-21 | main | TD Cowen | Hold → Hold |
-| 2026-07-17 | init | Evercore ISI Group | — → In-Line |
-| 2026-07-13 | main | Raymond James | Strong Buy → Strong Buy |
 
 ## 9. Conclusion
 DINO: High momentum / mixed fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

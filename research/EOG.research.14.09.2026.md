@@ -18,7 +18,7 @@ Signed file: `EOG.research.14.09.2026`
 | Technical momentum | Moderate | 1Y +28.09%; price +15.74% vs SMA200. |
 | Fresh setup quality | Watch | -2.95% from 52w high and near SMA20 — check for a tight base. |
 | Fundamental quality | Strong | Profit margin 25.73%, revenue growth 58.70%. |
-| Value attractiveness | Reasonable | Forward P/E 10.30, EV/Sales 3.02. |
+| Value attractiveness | Reasonable | Forward P/E 10.30, EV/Sales 3.04. |
 | Risk level | Moderate | Beta 0.27, ATR 2.4% of price, short float 3.15%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate.
@@ -68,7 +68,7 @@ EOG Resources, Inc., together with its subsidiaries, explores for, develops, pro
 | Revenue (ttm) | $26.72B | Revenue growth 58.70% y/y |
 | Profitability | Gross 62.64%, operating 40.72%, net 25.73% | ROA 11.02%, ROE 22.51% |
 | Balance sheet | Cash $4.91B, debt $8.25B | Current ratio 1.85, debt/equity 25.89 |
-| Valuation | P/E 11.56, forward P/E 10.30, P/S 2.96, P/B 2.45 | EV/Sales 3.02, EV/EBITDA 5.56 |
+| Valuation | P/E 11.56, forward P/E 10.30, P/S 2.96, P/B 2.45 | EV/Sales 3.04, EV/EBITDA 5.61 |
 | Growth expectations | Earnings growth 109.40%, EPS q/q 102.50% | Analyst mean target $160.50 (28 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -110,8 +110,8 @@ EOG Resources, Inc., together with its subsidiaries, explores for, develops, pro
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $148.54 | EV/Sales | 3.02 |
-| Market cap | $79.12B | EV/EBITDA | 5.56 |
+| Price | $148.54 | EV/Sales | 3.04 |
+| Market cap | $79.12B | EV/EBITDA | 5.61 |
 | Beta | 0.27 | Gross margin | 62.64% |
 | RSI(14) | 56.8 | Operating margin | 40.72% |
 | ATR(14) | 3.57 | Profit margin | 25.73% |
@@ -129,6 +129,7 @@ EOG Resources, Inc., together with its subsidiaries, explores for, develops, pro
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-09-14 | main | UBS | Buy → Buy |
 | 2026-09-03 | init | Seaport Global | — → Neutral |
 | 2026-08-27 | main | Citigroup | Neutral → Neutral |
 | 2026-08-24 | main | Goldman Sachs | Neutral → Neutral |
@@ -136,7 +137,6 @@ EOG Resources, Inc., together with its subsidiaries, explores for, develops, pro
 | 2026-08-17 | main | Barclays | Equal-Weight → Equal-Weight |
 | 2026-08-13 | main | Wells Fargo | Overweight → Overweight |
 | 2026-08-06 | main | Truist Securities | Hold → Hold |
-| 2026-07-21 | main | Susquehanna | Positive → Positive |
 
 ## 9. Conclusion
 EOG: Moderate momentum / strong fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

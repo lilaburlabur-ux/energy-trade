@@ -18,7 +18,7 @@ Signed file: `BEP.research.14.09.2026`
 | Technical momentum | Low | Below SMA200 (-5.68%) with negative half-year (-0.18%). |
 | Fresh setup quality | Moderate / wait | -19.66% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Weak | Negative profit margin (-1.26%). |
-| Value attractiveness | Reasonable | Forward P/E -15.74, EV/Sales 12.96. |
+| Value attractiveness | Reasonable | Forward P/E -15.74, EV/Sales 12.86. |
 | Risk level | Elevated | Beta 0.98, ATR 3.1% of price, short float 0.61%. |
 
 **Bottom line:** Low technical momentum, weak fundamentals, value: reasonable, risk: elevated.
@@ -68,7 +68,7 @@ Brookfield Renewable Partners L.P. owns a portfolio of renewable power generatin
 | Revenue (ttm) | $6.36B | Revenue growth 1.10% y/y |
 | Profitability | Gross 51.39%, operating 17.08%, net -1.26% | ROA 0.42%, ROE 0.40% |
 | Balance sheet | Cash $2.69B, debt $37.72B | Current ratio 0.80, debt/equity 105.23 |
-| Valuation | P/E —, forward P/E -15.74, P/S 2.26, P/B 2.36 | EV/Sales 12.96, EV/EBITDA 27.47 |
+| Valuation | P/E —, forward P/E -15.74, P/S 2.26, P/B 2.36 | EV/Sales 12.86, EV/EBITDA 27.25 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $35.64 (14 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -111,8 +111,8 @@ Brookfield Renewable Partners L.P. owns a portfolio of renewable power generatin
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $29.43 | EV/Sales | 12.96 |
-| Market cap | $14.35B | EV/EBITDA | 27.47 |
+| Price | $29.43 | EV/Sales | 12.86 |
+| Market cap | $14.35B | EV/EBITDA | 27.25 |
 | Beta | 0.98 | Gross margin | 51.39% |
 | RSI(14) | 32.4 | Operating margin | 17.08% |
 | ATR(14) | 0.90 | Profit margin | -1.26% |

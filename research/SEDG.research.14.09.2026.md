@@ -18,7 +18,7 @@ Signed file: `SEDG.research.14.09.2026`
 | Technical momentum | Low | Below SMA200 (-16.05%) with negative half-year (-5.64%). |
 | Fresh setup quality | Poor / broken | -55.00% from 52w high — base needs to rebuild. |
 | Fundamental quality | Weak | Negative profit margin (-20.29%). |
-| Value attractiveness | Low (expensive) | Forward P/E 40.27, EV/Sales 1.50. |
+| Value attractiveness | Low (expensive) | Forward P/E 40.27, EV/Sales 1.53. |
 | Risk level | High | Beta 1.44, ATR 8.5% of price, short float 25.50%. |
 
 **Bottom line:** Low technical momentum, weak fundamentals, value: low (expensive), risk: high.
@@ -68,7 +68,7 @@ SolarEdge Technologies, Inc., together with its subsidiaries, operates as an ene
 | Revenue (ttm) | $1.33B | Revenue growth 19.60% y/y |
 | Profitability | Gross 21.25%, operating -6.51%, net -20.29% | ROA -3.84%, ROE -58.42% |
 | Balance sheet | Cash $546.94M, debt $407.35M | Current ratio 2.03, debt/equity 98.85 |
-| Valuation | P/E —, forward P/E 40.27, P/S 1.63, P/B 5.27 | EV/Sales 1.50, EV/EBITDA -16.47 |
+| Valuation | P/E —, forward P/E 40.27, P/S 1.63, P/B 5.27 | EV/Sales 1.53, EV/EBITDA -16.80 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $39.10 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ SolarEdge Technologies, Inc., together with its subsidiaries, operates as an ene
 | Legal & General Group PLC | 1,302,103 | 2.12% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 40.27, EV/Sales 1.50. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 40.27, EV/Sales 1.53. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 1.44, ATR 8.5% of price, short float 25.50%. Size positions accordingly.
 - **Short interest risk:** short float 25.50% can fuel squeezes both ways around news.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
@@ -114,8 +114,8 @@ SolarEdge Technologies, Inc., together with its subsidiaries, operates as an ene
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $35.33 | EV/Sales | 1.50 |
-| Market cap | $2.17B | EV/EBITDA | -16.47 |
+| Price | $35.33 | EV/Sales | 1.53 |
+| Market cap | $2.17B | EV/EBITDA | -16.80 |
 | Beta | 1.44 | Gross margin | 21.25% |
 | RSI(14) | 49.7 | Operating margin | -6.51% |
 | ATR(14) | 3.00 | Profit margin | -20.29% |
@@ -133,14 +133,14 @@ SolarEdge Technologies, Inc., together with its subsidiaries, operates as an ene
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-09-11 | main | Morgan Stanley | Equal-Weight → Equal-Weight |
+| 2026-09-11 | main | Mizuho | Neutral → Neutral |
 | 2026-09-11 | main | JP Morgan | Neutral → Neutral |
 | 2026-09-11 | main | RBC Capital | Sector Perform → Sector Perform |
 | 2026-08-26 | up | UBS | Neutral → Buy |
 | 2026-08-06 | main | RBC Capital | Sector Perform → Sector Perform |
 | 2026-08-06 | main | Barclays | Equal-Weight → Equal-Weight |
 | 2026-08-06 | main | Susquehanna | Neutral → Neutral |
-| 2026-08-06 | main | Goldman Sachs | Sell → Sell |
-| 2026-07-20 | main | TD Cowen | Buy → Buy |
 
 ## 9. Conclusion
 SEDG: Low momentum / weak fundamentals / low (expensive) value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

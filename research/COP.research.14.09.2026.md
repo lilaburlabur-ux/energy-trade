@@ -18,7 +18,7 @@ Signed file: `COP.research.14.09.2026`
 | Technical momentum | Moderate | 1Y +49.77%; price +21.35% vs SMA200. |
 | Fresh setup quality | Watch | -0.50% from 52w high and near SMA20 — check for a tight base. |
 | Fundamental quality | Mixed | Profit margin 14.40%, revenue growth 35.50%. |
-| Value attractiveness | Reasonable | Forward P/E 14.10, EV/Sales 2.80. |
+| Value attractiveness | Reasonable | Forward P/E 14.10, EV/Sales 2.79. |
 | Risk level | Moderate | Beta 0.13, ATR 2.3% of price, short float 1.40%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -68,7 +68,7 @@ ConocoPhillips explores for, produces, transports, and markets crude oil, bitume
 | Revenue (ttm) | $64.46B | Revenue growth 35.50% y/y |
 | Profitability | Gross 47.57%, operating 31.51%, net 14.40% | ROA 7.53%, ROE 14.18% |
 | Balance sheet | Cash $7.69B, debt $23.29B | Current ratio 1.54, debt/equity 35.64 |
-| Valuation | P/E 18.10, forward P/E 14.10, P/S 2.55, P/B 2.51 | EV/Sales 2.80, EV/EBITDA 6.74 |
+| Valuation | P/E 18.10, forward P/E 14.10, P/S 2.55, P/B 2.51 | EV/Sales 2.79, EV/EBITDA 6.71 |
 | Growth expectations | Earnings growth 107.00%, EPS q/q 99.40% | Analyst mean target $145.44 (25 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -110,8 +110,8 @@ ConocoPhillips explores for, produces, transports, and markets crude oil, bitume
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $136.67 | EV/Sales | 2.80 |
-| Market cap | $164.19B | EV/EBITDA | 6.74 |
+| Price | $136.67 | EV/Sales | 2.79 |
+| Market cap | $164.19B | EV/EBITDA | 6.71 |
 | Beta | 0.13 | Gross margin | 47.57% |
 | RSI(14) | 65.6 | Operating margin | 31.51% |
 | ATR(14) | 3.10 | Profit margin | 14.40% |
@@ -129,6 +129,7 @@ ConocoPhillips explores for, produces, transports, and markets crude oil, bitume
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-09-14 | main | UBS | Buy → Buy |
 | 2026-09-03 | init | Seaport Global | — → Neutral |
 | 2026-08-19 | main | Morgan Stanley | Overweight → Overweight |
 | 2026-08-19 | main | Argus Research | Buy → Buy |
@@ -136,7 +137,6 @@ ConocoPhillips explores for, produces, transports, and markets crude oil, bitume
 | 2026-08-12 | main | UBS | Buy → Buy |
 | 2026-08-11 | main | Susquehanna | Positive → Positive |
 | 2026-08-10 | main | Truist Securities | Hold → Hold |
-| 2026-08-07 | main | Wells Fargo | Overweight → Overweight |
 
 ## 9. Conclusion
 COP: Moderate momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

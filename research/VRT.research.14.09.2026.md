@@ -18,7 +18,7 @@ Signed file: `VRT.research.14.09.2026`
 | Technical momentum | High | 1Y +75.12%; price -8.59% vs SMA200. |
 | Fresh setup quality | Poor / broken | -36.89% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 15.09%, revenue growth 24.10%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 26.02, EV/Sales 8.64. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 26.02, EV/Sales 7.98. |
 | Risk level | High | Beta 2.08, ATR 6.8% of price, short float 3.58%. |
 
 **Bottom line:** High technical momentum, strong fundamentals, value: fair-to-demanding, risk: high.
@@ -36,10 +36,10 @@ Vertiv Holdings Co designs, manufactures, and services critical digital infrastr
 
 | Headline | Source | Date |
 |---|---|---|
+| 3 Stocks That Offer AI Exposure and Dividends | Zacks | 2026-09-14 |
 | Vertiv Has Guided Itself Into A Steep Second Half | Trefis | 2026-09-14 |
 | Nasdaq Recovers, but Industrial Stocks Are Still Struggling | The Wall Street Journal | 2026-09-14 |
-| Vertiv vs. Broadcom: Which AI Infrastructure Stock Has More Upside? | Zacks | 2026-09-14 |
-| Is Vertiv (VRT) a Solid Growth Stock? 3 Reasons to Think "Yes" | Zacks | 2026-09-14 |
+| Unusually High Volume in Deep Out-of-the-Money Vertiv Call Options Shows Investors Bullish on VRT | Barchart | 2026-09-14 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ Vertiv Holdings Co designs, manufactures, and services critical digital infrastr
 | Revenue (ttm) | $11.48B | Revenue growth 24.10% y/y |
 | Profitability | Gross 38.04%, operating 20.36%, net 15.09% | ROA 10.89%, ROE 43.94% |
 | Balance sheet | Cash $3.11B, debt $3.34B | Current ratio 1.38, debt/equity 70.17 |
-| Valuation | P/E 53.71, forward P/E 26.02, P/S 7.96, P/B 19.21 | EV/Sales 8.64, EV/EBITDA 37.03 |
+| Valuation | P/E 53.71, forward P/E 26.02, P/S 7.96, P/B 19.21 | EV/Sales 7.98, EV/EBITDA 34.20 |
 | Growth expectations | Earnings growth 53.00%, EPS q/q 53.50% | Analyst mean target $338.15 (26 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ Vertiv Holdings Co designs, manufactures, and services critical digital infrastr
 | Invesco Ltd. | 5,537,463 | 1.44% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 26.02, EV/Sales 8.64. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 26.02, EV/Sales 7.98. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 2.08, ATR 6.8% of price, short float 3.58%. Size positions accordingly.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
@@ -112,8 +112,8 @@ Vertiv Holdings Co designs, manufactures, and services critical digital infrastr
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $237.39 | EV/Sales | 8.64 |
-| Market cap | $91.39B | EV/EBITDA | 37.03 |
+| Price | $237.39 | EV/Sales | 7.98 |
+| Market cap | $91.39B | EV/EBITDA | 34.20 |
 | Beta | 2.08 | Gross margin | 38.04% |
 | RSI(14) | 39.0 | Operating margin | 20.36% |
 | ATR(14) | 16.22 | Profit margin | 15.09% |

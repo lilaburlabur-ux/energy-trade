@@ -18,7 +18,7 @@ Signed file: `NXT.research.14.09.2026`
 | Technical momentum | Low | Below SMA200 (-23.75%) with negative half-year (-30.94%). |
 | Fresh setup quality | Poor / broken | -47.17% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 16.36%, revenue growth 8.20%. |
-| Value attractiveness | Reasonable | Forward P/E 14.31, EV/Sales 3.14. |
+| Value attractiveness | Reasonable | Forward P/E 14.31, EV/Sales 3.13. |
 | Risk level | High | Beta 1.92, ATR 5.4% of price, short float 8.14%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: high.
@@ -68,13 +68,13 @@ Nextpower Inc. provides solar and energy technology solutions for utility-scale 
 | Revenue (ttm) | $3.63B | Revenue growth 8.20% y/y |
 | Profitability | Gross 22.98%, operating 20.86%, net 16.36% | ROA 11.68%, ROE 27.22% |
 | Balance sheet | Cash $1.21B, debt $38.40M | Current ratio 2.69, debt/equity 1.50 |
-| Valuation | P/E 21.35, forward P/E 14.31, P/S 3.50, P/B 4.90 | EV/Sales 3.14, EV/EBITDA 15.22 |
+| Valuation | P/E 21.35, forward P/E 14.31, P/S 3.50, P/B 4.90 | EV/Sales 3.13, EV/EBITDA 15.17 |
 | Growth expectations | Earnings growth 2.90%, EPS q/q 5.20% | Analyst mean target $140.61 (28 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 109.57% |
+| Institutional ownership | 109.56% |
 | Insider ownership | 0.64% |
 | Short float | 8.14% |
 | Short ratio (days to cover) | 3.6 |
@@ -112,8 +112,8 @@ Nextpower Inc. provides solar and energy technology solutions for utility-scale 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $82.62 | EV/Sales | 3.14 |
-| Market cap | $12.69B | EV/EBITDA | 15.22 |
+| Price | $82.62 | EV/Sales | 3.13 |
+| Market cap | $12.69B | EV/EBITDA | 15.17 |
 | Beta | 1.92 | Gross margin | 22.98% |
 | RSI(14) | 38.3 | Operating margin | 20.86% |
 | ATR(14) | 4.49 | Profit margin | 16.36% |
@@ -121,7 +121,7 @@ Nextpower Inc. provides solar and energy technology solutions for utility-scale 
 | SMA50 dist | -13.97% | ROE | 27.22% |
 | SMA200 dist | -23.75% | Revenue (ttm) | $3.63B |
 | 52W high | $156.40 | Revenue growth y/y | 8.20% |
-| 52W low | $66.70 | Inst. ownership | 109.57% |
+| 52W low | $66.70 | Inst. ownership | 109.56% |
 | P/E (ttm) | 21.35 | Insider ownership | 0.64% |
 | Forward P/E | 14.31 | Short float | 8.14% |
 | PEG (trailing) | 3.15 | Avg volume | 2,961,537 |

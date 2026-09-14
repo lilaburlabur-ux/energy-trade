@@ -18,7 +18,7 @@ Signed file: `VLO.research.14.09.2026`
 | Technical momentum | High | 1Y +148.16%; price +57.39% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -1.91% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 5.45%, revenue growth 51.70%. |
-| Value attractiveness | Reasonable | Forward P/E 11.41, EV/Sales 0.90. |
+| Value attractiveness | Reasonable | Forward P/E 11.41, EV/Sales 0.88. |
 | Risk level | Elevated | Beta 0.57, ATR 3.1% of price, short float 3.99%. |
 
 **Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
@@ -68,7 +68,7 @@ Valero Energy Corporation manufactures, markets, and sells petroleum-based and l
 | Revenue (ttm) | $132.43B | Revenue growth 51.70% y/y |
 | Profitability | Gross 16.12%, operating 12.27%, net 5.45% | ROA 10.56%, ROE 27.64% |
 | Balance sheet | Cash $7.87B, debt $11.35B | Current ratio 1.64, debt/equity 40.15 |
-| Valuation | P/E 15.98, forward P/E 11.41, P/S 0.83, P/B 4.41 | EV/Sales 0.90, EV/EBITDA 8.91 |
+| Valuation | P/E 15.98, forward P/E 11.41, P/S 0.83, P/B 4.41 | EV/Sales 0.88, EV/EBITDA 8.74 |
 | Growth expectations | Earnings growth 453.50%, EPS q/q 421.00% | Analyst mean target $339.47 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -111,8 +111,8 @@ Valero Energy Corporation manufactures, markets, and sells petroleum-based and l
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $382.95 | EV/Sales | 0.90 |
-| Market cap | $110.26B | EV/EBITDA | 8.91 |
+| Price | $382.95 | EV/Sales | 0.88 |
+| Market cap | $110.26B | EV/EBITDA | 8.74 |
 | Beta | 0.57 | Gross margin | 16.12% |
 | RSI(14) | 70.9 | Operating margin | 12.27% |
 | ATR(14) | 12.00 | Profit margin | 5.45% |
@@ -130,14 +130,14 @@ Valero Energy Corporation manufactures, markets, and sells petroleum-based and l
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-09-14 | main | Raymond James | Strong Buy → Strong Buy |
+| 2026-09-14 | main | Morgan Stanley | Equal-Weight → Equal-Weight |
 | 2026-09-08 | main | UBS | Buy → Buy |
 | 2026-09-03 | main | Piper Sandler | Overweight → Overweight |
 | 2026-09-01 | main | Wells Fargo | Overweight → Overweight |
 | 2026-08-04 | main | Mizuho | Neutral → Neutral |
 | 2026-08-03 | main | TD Cowen | Hold → Hold |
 | 2026-07-31 | main | UBS | Buy → Buy |
-| 2026-07-31 | main | Wells Fargo | Overweight → Overweight |
-| 2026-07-31 | main | Barclays | Overweight → Overweight |
 
 ## 9. Conclusion
 VLO: High momentum / mixed fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

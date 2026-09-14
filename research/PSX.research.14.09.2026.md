@@ -18,7 +18,7 @@ Signed file: `PSX.research.14.09.2026`
 | Technical momentum | High | 1Y +99.72%; price +47.98% vs SMA200. |
 | Fresh setup quality | Watch | -1.43% from 52w high and near SMA20 — check for a tight base. |
 | Fundamental quality | Mixed | Profit margin 4.66%, revenue growth 53.10%. |
-| Value attractiveness | Reasonable | Forward P/E 11.27, EV/Sales 0.80. |
+| Value attractiveness | Reasonable | Forward P/E 11.27, EV/Sales 0.79. |
 | Risk level | Moderate | Beta 0.70, ATR 2.8% of price, short float 1.61%. |
 
 **Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -68,7 +68,7 @@ Phillips 66 operates as an integrated downstream energy provider in the United S
 | Revenue (ttm) | $152.17B | Revenue growth 53.10% y/y |
 | Profitability | Gross 13.10%, operating 8.53%, net 4.66% | ROA 6.04%, ROE 23.45% |
 | Balance sheet | Cash $4.10B, debt $20.57B | Current ratio 1.32, debt/equity 62.88 |
-| Valuation | P/E 14.68, forward P/E 11.27, P/S 0.67, P/B 3.26 | EV/Sales 0.80, EV/EBITDA 12.21 |
+| Valuation | P/E 14.68, forward P/E 11.27, P/S 0.67, P/B 3.26 | EV/Sales 0.79, EV/EBITDA 12.11 |
 | Growth expectations | Earnings growth 344.90%, EPS q/q 338.70% | Analyst mean target $240.05 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -110,8 +110,8 @@ Phillips 66 operates as an integrated downstream energy provider in the United S
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $257.06 | EV/Sales | 0.80 |
-| Market cap | $102.57B | EV/EBITDA | 12.21 |
+| Price | $257.06 | EV/Sales | 0.79 |
+| Market cap | $102.57B | EV/EBITDA | 12.11 |
 | Beta | 0.70 | Gross margin | 13.10% |
 | RSI(14) | 70.3 | Operating margin | 8.53% |
 | ATR(14) | 7.16 | Profit margin | 4.66% |
@@ -129,14 +129,14 @@ Phillips 66 operates as an integrated downstream energy provider in the United S
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-09-14 | main | Raymond James | Outperform → Outperform |
+| 2026-09-14 | main | Morgan Stanley | Overweight → Overweight |
 | 2026-09-08 | main | UBS | Buy → Buy |
 | 2026-09-03 | main | Piper Sandler | Neutral → Neutral |
 | 2026-09-01 | main | Wells Fargo | Overweight → Overweight |
 | 2026-08-10 | main | Piper Sandler | Neutral → Neutral |
 | 2026-08-06 | main | TD Cowen | Buy → Buy |
 | 2026-08-06 | main | Wells Fargo | Overweight → Overweight |
-| 2026-08-06 | main | Evercore ISI Group | Outperform → Outperform |
-| 2026-08-06 | main | Barclays | Equal-Weight → Equal-Weight |
 
 ## 9. Conclusion
 PSX: High momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

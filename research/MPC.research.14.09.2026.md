@@ -130,14 +130,14 @@ Marathon Petroleum Corporation, together with its subsidiaries, operates as an i
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-09-14 | main | Raymond James | Outperform → Outperform |
+| 2026-09-14 | main | Morgan Stanley | Overweight → Overweight |
 | 2026-09-08 | main | UBS | Buy → Buy |
 | 2026-09-03 | main | Piper Sandler | Overweight → Overweight |
 | 2026-09-01 | main | Wells Fargo | Overweight → Overweight |
 | 2026-08-11 | main | Mizuho | Neutral → Neutral |
 | 2026-08-06 | main | Piper Sandler | Overweight → Overweight |
 | 2026-08-06 | main | Barclays | Overweight → Overweight |
-| 2026-08-05 | main | TD Cowen | Buy → Buy |
-| 2026-08-05 | main | Citigroup | Neutral → Neutral |
 
 ## 9. Conclusion
 MPC: High momentum / mixed fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
