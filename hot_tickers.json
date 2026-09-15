@@ -1,10 +1,27 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-15T21:13:26+00:00",
+  "as_of": "2026-09-15T21:28:44+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": []
+ "hot_tickers": [
+  {
+   "rank": 1,
+   "ticker": "APA",
+   "company": "APA Corporation",
+   "move_pct": 5.49,
+   "price": 47.5,
+   "volume": 6425080,
+   "volume_vs_avg": "~1.2x",
+   "heat_score": 40,
+   "direction": "up",
+   "why": "Riley Exploration Permian, Atlas Energy Solutions, Texas Pacific Land, APA Corporation, and Murphy Oil Shares Skyrocket, What You Need To Know",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/energy/articles/riley-exploration-permian-atlas-energy-205531247.html",
+   "published": "2026-09-15T20:55:31Z",
+   "sector": "Shale & E&P"
+  }
+ ]
 }
