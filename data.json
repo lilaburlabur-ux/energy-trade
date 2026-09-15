@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-15T08:32:15+00:00",
-  "as_of_local": "2026-09-15 08:32:15 UTC",
+  "as_of_utc": "2026-09-15T08:37:18+00:00",
+  "as_of_local": "2026-09-15 08:37:18 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -1665,6 +1665,12 @@
       "market_cap": 4844422775.516327,
       "headlines": [
         {
+          "title": "How Enphase\u2019s New U.S.-Built IQ SST AI Data Center Modules Will Impact Enphase Energy (ENPH) Investors",
+          "url": "https://finance.yahoo.com/energy/articles/enphase-u-built-iq-sst-081259929.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-09-15T08:12:59Z"
+        },
+        {
           "title": "SolarEdge Falls 4% on Analyst Day Despite Joint NVIDIA 800 VDC Paper; Enphase Energy and First Solar Edge Higher",
           "url": "https://finance.yahoo.com/markets/stocks/articles/solaredge-falls-4-analyst-day-160728979.html",
           "publisher": "24/7 Wall St.",
@@ -1675,12 +1681,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/enphase-energy-enph-sees-more-215004772.html",
           "publisher": "Zacks",
           "published": "2026-09-09T21:50:04Z"
-        },
-        {
-          "title": "Enphase Energy Rises 5% as Solid-State Transformer Modules Enter Texas Production, SolarEdge Jumps 6%",
-          "url": "https://finance.yahoo.com/energy/articles/enphase-energy-rises-5-solid-164923843.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-09-08T16:49:23Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 103.42,
-      "change_pct": 2.0
+      "price": 103.38,
+      "change_pct": 1.96
     },
     {
       "label": "Brent",
-      "price": 102.63,
-      "change_pct": -2.89
+      "price": 102.6,
+      "change_pct": -2.91
     },
     {
       "label": "NatGas",
-      "price": 2.89,
-      "change_pct": -0.14
+      "price": 2.9,
+      "change_pct": 0.17
     }
   ]
 }
