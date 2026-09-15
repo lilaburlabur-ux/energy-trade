@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-15T03:01:08+00:00",
-  "as_of_local": "2026-09-15 03:01:08 UTC",
+  "as_of_utc": "2026-09-15T03:15:49+00:00",
+  "as_of_local": "2026-09-15 03:15:49 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -405,6 +405,12 @@
       "market_cap": 93739105857.05475,
       "headlines": [
         {
+          "title": "Constellation Energy (CEG) Stock May Be Below Fair Value Despite $715 Million Power Plant Deal",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/constellation-energy-ceg-stock-may-232007724.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-09-14T23:20:07Z"
+        },
+        {
           "title": "Here's Why Constellation Energy Corporation (CEG) Fell More Than Broader Market",
           "url": "https://finance.yahoo.com/markets/stocks/articles/heres-why-constellation-energy-corporation-214505410.html",
           "publisher": "Zacks",
@@ -415,12 +421,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-price-edged-downward-throught-114906277.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-09-14T11:49:06Z"
-        },
-        {
-          "title": "Constellation Energy in deal to buy 609-MW Rhode Island gas plant from Shell",
-          "url": "https://finance.yahoo.com/energy/articles/constellation-energy-deal-buy-609-101637710.html",
-          "publisher": "Utility Dive",
-          "published": "2026-09-14T10:16:37Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 103.02,
-      "change_pct": 2.97
+      "price": 102.82,
+      "change_pct": 2.77
     },
     {
       "label": "Brent",
-      "price": 107.32,
-      "change_pct": 2.59
+      "price": 106.95,
+      "change_pct": 2.24
     },
     {
       "label": "NatGas",
       "price": 2.88,
-      "change_pct": 1.62
+      "change_pct": 1.73
     }
   ]
 }
