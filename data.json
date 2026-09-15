@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-15T04:41:21+00:00",
-  "as_of_local": "2026-09-15 04:41:21 UTC",
+  "as_of_utc": "2026-09-15T04:56:35+00:00",
+  "as_of_local": "2026-09-15 04:56:35 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -97,6 +97,12 @@
       "market_cap": 232977965916.47388,
       "headlines": [
         {
+          "title": "GEV Stock Plunges After New Sell Rating, But Retail Investors Smell A Buying Opportunity",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/gev-stock-plunges-sell-rating-044852357.html",
+          "publisher": "Stocktwits",
+          "published": "2026-09-15T04:48:52Z"
+        },
+        {
           "title": "Why GE Vernova (GEV) Stock Is Nosediving",
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-ge-vernova-gev-stock-024330692.html",
           "publisher": "StockStory",
@@ -107,12 +113,6 @@
           "url": "https://finance.yahoo.com/economy/policy/articles/exclusive-kevin-warsh-hawkishness-distraction-220008979.html",
           "publisher": "Benzinga",
           "published": "2026-09-14T22:00:08Z"
-        },
-        {
-          "title": "Why Did GE Vernova Stock Fall Today?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-ge-vernova-stock-210648140.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-14T21:06:48Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 103.24,
-      "change_pct": 1.82
+      "price": 103.3,
+      "change_pct": 1.88
     },
     {
       "label": "Brent",
-      "price": 107.32,
-      "change_pct": 1.55
+      "price": 107.46,
+      "change_pct": 1.68
     },
     {
       "label": "NatGas",
       "price": 2.88,
-      "change_pct": -0.45
+      "change_pct": -0.48
     }
   ]
 }
