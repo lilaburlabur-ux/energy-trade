@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-15T07:41:35+00:00",
-  "as_of_local": "2026-09-15 07:41:35 UTC",
+  "as_of_utc": "2026-09-15T07:56:40+00:00",
+  "as_of_local": "2026-09-15 07:56:40 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -150,7 +150,7 @@
       "price": 81.63,
       "previous_close": 82.31,
       "change_pct": -0.83,
-      "market_cap": 170247959645.25378,
+      "market_cap": 170278395471.35974,
       "headlines": [
         {
           "title": "NextEra and Dominion Sweeten Merger Deal With Bill Credits and New Jobs",
@@ -206,7 +206,7 @@
       "price": 393.16,
       "previous_close": 425.37,
       "change_pct": -7.57,
-      "market_cap": 152664029421.99707,
+      "market_cap": 152703345422.36328,
       "headlines": [
         {
           "title": "Vertiv Has Guided Itself Into A Steep Second Half",
@@ -262,7 +262,7 @@
       "price": 396.45,
       "previous_close": 395.93,
       "change_pct": 0.13,
-      "market_cap": 115738282509.42963,
+      "market_cap": 111332980719.38666,
       "headlines": [
         {
           "title": "Global Fuel Squeeze Triggers U.S. Refiners Stocks Rally",
@@ -626,7 +626,7 @@
       "price": 148.54,
       "previous_close": 147.36,
       "change_pct": 0.8,
-      "market_cap": 79116638270.20279,
+      "market_cap": 77913560281.42078,
       "headlines": [
         {
           "title": "The Zacks Analyst Blog Highlights  JPMorgan Chase, EOG Resources and Bloom Energy",
@@ -794,7 +794,7 @@
       "price": 96.97,
       "previous_close": 96.62,
       "change_pct": 0.36,
-      "market_cap": 61094286427.52307,
+      "market_cap": 61126947378.48422,
       "headlines": [
         {
           "title": "These 3 Pipeline Stocks Pay High Yields Without the K-1 Headache",
@@ -1074,7 +1074,7 @@
       "price": 70.92,
       "previous_close": 72.39,
       "change_pct": -2.03,
-      "market_cap": 35340952917.38626,
+      "market_cap": 35347947614.96567,
       "headlines": [
         {
           "title": "Public Service Enterprise Group CEO Sells 2,083 Shares",
@@ -1494,7 +1494,7 @@
       "price": 29.43,
       "previous_close": 30.39,
       "change_pct": -3.16,
-      "market_cap": 8925411742.50248,
+      "market_cap": 8832285244.7668,
       "headlines": [
         {
           "title": "Could Buying Brookfield Renewable Today Set You Up for Life?",
@@ -1606,7 +1606,7 @@
       "price": 84.46,
       "previous_close": 88.85,
       "change_pct": -4.94,
-      "market_cap": 6054552450.150017,
+      "market_cap": 6039912238.368713,
       "headlines": [
         {
           "title": "Solaris Energy Infrastructure, TETRA Technologies, SLB, and Weatherford Stocks Trade Down, What You Need To Know",
@@ -1662,7 +1662,7 @@
       "price": 36.66,
       "previous_close": 36.35,
       "change_pct": 0.85,
-      "market_cap": 4831722725.089188,
+      "market_cap": 4844422775.516327,
       "headlines": [
         {
           "title": "SolarEdge Falls 4% on Analyst Day Despite Joint NVIDIA 800 VDC Paper; Enphase Energy and First Solar Edge Higher",
@@ -1693,6 +1693,12 @@
       "market_cap": 3492414926.1507072,
       "headlines": [
         {
+          "title": "NuScale Power Is Closing In on a Deal That Could Transform the Small Modular Reactor Industry",
+          "url": "https://finance.yahoo.com/energy/articles/nuscale-power-closing-deal-could-073900724.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-15T07:39:00Z"
+        },
+        {
           "title": "Not Oklo. Not NuScale. This Nuclear Stock Is Going to Be the Biggest Winner of the AI Power Boom.",
           "url": "https://finance.yahoo.com/energy/articles/not-oklo-not-nuscale-nuclear-180500769.html",
           "publisher": "Motley Fool",
@@ -1703,12 +1709,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/youre-still-holding-nuscale-heres-123600659.html",
           "publisher": "Motley Fool",
           "published": "2026-09-14T12:36:00Z"
-        },
-        {
-          "title": "NuScale Has One Overlooked Quality Worth Buying Into",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nuscale-one-overlooked-quality-worth-013500213.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-14T01:35:00Z"
         }
       ]
     },
@@ -1718,7 +1718,7 @@
       "price": 12.34,
       "previous_close": 12.95,
       "change_pct": -4.71,
-      "market_cap": 3084568138.141632,
+      "market_cap": 3267305918.881241,
       "headlines": [
         {
           "title": "Why Energy Fuels (UUUU) Dipped More Than Broader Market Today",
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 103.15,
-      "change_pct": 1.74
+      "price": 103.28,
+      "change_pct": 1.86
     },
     {
       "label": "Brent",
-      "price": 102.36,
-      "change_pct": -3.14
+      "price": 102.49,
+      "change_pct": -3.02
     },
     {
       "label": "NatGas",
       "price": 2.9,
-      "change_pct": 0.07
+      "change_pct": 0.1
     }
   ]
 }
