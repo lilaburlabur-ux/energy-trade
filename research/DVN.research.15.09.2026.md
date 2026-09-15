@@ -37,9 +37,9 @@ Devon Energy Corporation, an independent energy company, engages in the explorat
 | Headline | Source | Date |
 |---|---|---|
 | Sunoco Stock Breaks Out; Oil Prices Rise With No Clear End To Hormuz Closure | Investor's Business Daily | 2026-09-15 |
-| Stocks Pressured as the 10-Year T-Note Yield Climbs to a 19-Year High | Barchart | 2026-09-15 |
 | Devon Energy Corporation (DVN) is Attracting Investor Attention: Here is What You Should Know | Zacks | 2026-09-15 |
 | Devon Energy Corp's Dividend Analysis | GuruFocus.com | 2026-09-15 |
+| Wealthy Investors Flock To Oil & Gas Assets Amid Energy Crisis | Oilprice.com | 2026-09-15 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

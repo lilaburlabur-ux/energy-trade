@@ -37,9 +37,9 @@ Diamondback Energy, Inc., an independent oil and natural gas company, acquires, 
 | Headline | Source | Date |
 |---|---|---|
 | Bloom Energy vs. Diamondback Energy: Which Industrials Stock Is a Better Buy in 2026? | Motley Fool | 2026-09-15 |
-| Stocks Pressured as the 10-Year T-Note Yield Climbs to a 19-Year High | Barchart | 2026-09-15 |
 | Zacks Industry Outlook W&T Offshore, APA and Diamondback | Zacks | 2026-09-14 |
 | Is Diamondback Energy Stock Outperforming the Dow? | Barchart | 2026-09-11 |
+| Record Diesel Prices Make Fed’s Rate Decision for It | Barrons.com | 2026-09-11 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

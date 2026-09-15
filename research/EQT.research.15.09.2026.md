@@ -19,7 +19,7 @@ Signed file: `EQT.research.15.09.2026`
 | Fresh setup quality | Moderate / wait | -21.34% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 29.18%, revenue growth -3.90%. |
 | Value attractiveness | Reasonable | Forward P/E 13.77, EV/Sales 4.57. |
-| Risk level | Moderate | Beta 0.58, ATR 2.7% of price, short float 3.73%. |
+| Risk level | Moderate | Beta 0.58, ATR 2.6% of price, short float 3.73%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
@@ -47,7 +47,7 @@ EQT Corporation engages in the exploration, production, gathering, and transmiss
 | Price vs 52-week range | Close $53.12; 52w high $67.53 (-21.34%); 52w low $48.62 (+9.26%) |
 | Trend | -4.75% vs SMA200, +0.59% vs SMA50, -2.33% vs SMA20 |
 | Momentum | RSI(14) 43.0 (neutral) |
-| Volatility | ATR(14) 1.41 (~2.7% of price); beta 0.58 |
+| Volatility | ATR(14) 1.41 (~2.6% of price); beta 0.58 |
 | Setup perspective | -21.34% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**

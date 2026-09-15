@@ -38,8 +38,8 @@ Phillips 66 operates as an integrated downstream energy provider in the United S
 |---|---|---|
 | Sunoco Stock Breaks Out; Oil Prices Rise With No Clear End To Hormuz Closure | Investor's Business Daily | 2026-09-15 |
 | What Does the Future Hold for Valero Energy's Refining Business? | Zacks | 2026-09-15 |
-| Stocks Pressured as the 10-Year T-Note Yield Climbs to a 19-Year High | Barchart | 2026-09-15 |
 | Global Fuel Squeeze Triggers U.S. Refiners Stocks Rally | Oilprice.com | 2026-09-14 |
+| HF Sinclair Rises 113.9% in a Year: Should You Buy, Hold or Sell? | Zacks | 2026-09-14 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ Phillips 66 operates as an integrated downstream energy provider in the United S
 | Revenue (ttm) | $152.17B | Revenue growth 53.10% y/y |
 | Profitability | Gross 13.10%, operating 8.53%, net 4.66% | ROA 6.04%, ROE 23.45% |
 | Balance sheet | Cash $4.10B, debt $20.57B | Current ratio 1.32, debt/equity 62.88 |
-| Valuation | P/E 15.13, forward P/E 10.78, P/S 0.69, P/B 3.36 | EV/Sales 0.79, EV/EBITDA 12.11 |
+| Valuation | P/E 15.11, forward P/E 10.78, P/S 0.69, P/B 3.36 | EV/Sales 0.79, EV/EBITDA 12.11 |
 | Growth expectations | Earnings growth 344.90%, EPS q/q 338.70% | Analyst mean target $249.32 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -120,7 +120,7 @@ Phillips 66 operates as an integrated downstream energy provider in the United S
 | SMA200 dist | +51.93% | Revenue (ttm) | $152.17B |
 | 52W high | $264.93 | Revenue growth y/y | 53.10% |
 | 52W low | $123.11 | Inst. ownership | 80.52% |
-| P/E (ttm) | 15.13 | Insider ownership | 0.21% |
+| P/E (ttm) | 15.11 | Insider ownership | 0.21% |
 | Forward P/E | 10.78 | Short float | 1.61% |
 | PEG (trailing) | 1.23 | Avg volume | 2,797,909 |
 | P/S | 0.69 | Employees | 12,600 |

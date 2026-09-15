@@ -36,10 +36,10 @@ Chevron Corporation, through its subsidiaries, engages in the integrated energy 
 
 | Headline | Source | Date |
 |---|---|---|
+| Chevron CEO warns a global fuel crisis is already here | GuruFocus.com | 2026-09-15 |
+| Stock Market Today: Dow Dives With Fed Seen Doing This; Senate Vote Hits These Crypto Stocks | Investor's Business Daily | 2026-09-15 |
 | Chevron Jumps 2.1% as $109 Oil Funds Its AI-Power Pivot | GuruFocus.com | 2026-09-15 |
-| Stock Market Today: Dow Dives, This Loan Play Craters; Bessent Says This On Trump Payments (Live Coverage) | Investor's Business Daily | 2026-09-15 |
 | Chevron (CVX) Plans Global LNG Expansion Across Four Continents | Simply Wall St. | 2026-09-15 |
-| Chevron’s CEO Thinks the World Is Out of Spare Oil. He Is Betting $7 Billion on Being Right. | 24/7 Wall St. | 2026-09-15 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

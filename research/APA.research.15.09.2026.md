@@ -36,10 +36,10 @@ APA Corporation, an independent energy company, explores for, develops, and prod
 
 | Headline | Source | Date |
 |---|---|---|
-| Stocks Pressured as the 10-Year T-Note Yield Climbs to a 19-Year High | Barchart | 2026-09-15 |
+| Dow Jones Futures: S&P 500, Nasdaq Break Support; How Will Bonds React To Fed Rate Hike, Outlook? | Investor's Business Daily | 2026-09-15 |
+| Riley Exploration Permian, Atlas Energy Solutions, Texas Pacific Land, APA Corporation, and Murphy Oil Shares Skyrocket, What You Need To Know | StockStory | 2026-09-15 |
 | Improving Industry Backdrop and Suriname Pipeline Expansion Could Be A Game Changer For APA (APA) | Simply Wall St. | 2026-09-14 |
 | Zacks Industry Outlook W&T Offshore, APA and Diamondback | Zacks | 2026-09-14 |
-| S&P 500 Index Slips Weekly as Health Care, Materials Weigh | MT Newswires | 2026-09-11 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -36,10 +36,10 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 
 | Headline | Source | Date |
 |---|---|---|
+| Exxon Rises as $6 Diesel Meets a Refinery Shutdown | GuruFocus.com | 2026-09-15 |
+| Chevron CEO warns a global fuel crisis is already here | GuruFocus.com | 2026-09-15 |
 | Sector Update: Energy Stocks Gain Late Afternoon | MT Newswires | 2026-09-15 |
 | Sector Update: Energy Stocks Gain Tuesday Afternoon | MT Newswires | 2026-09-15 |
-| Stocks Pressured as the 10-Year T-Note Yield Climbs to a 19-Year High | Barchart | 2026-09-15 |
-| Wood secures $200m contract from ExxonMobil for PNG LNG project | Offshore Technology | 2026-09-15 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

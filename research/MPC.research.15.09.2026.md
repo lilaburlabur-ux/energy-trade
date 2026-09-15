@@ -39,7 +39,7 @@ Marathon Petroleum Corporation, together with its subsidiaries, operates as an i
 | Sunoco Stock Breaks Out; Oil Prices Rise With No Clear End To Hormuz Closure | Investor's Business Daily | 2026-09-15 |
 | Will UK interest rates fall in 2026? | Moneyweek | 2026-09-15 |
 | Stocks to Watch: UBS, Dave & Buster’s, Coinbase, CrowdStrike | The Wall Street Journal | 2026-09-15 |
-| Stocks Pressured as the 10-Year T-Note Yield Climbs to a 19-Year High | Barchart | 2026-09-15 |
+| The Only ETF I’d Buy Today and Not Look At Again Until 2036 | 24/7 Wall St. | 2026-09-15 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
