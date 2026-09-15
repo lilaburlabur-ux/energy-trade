@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-15T20:43:37+00:00",
-  "as_of_local": "2026-09-15 20:43:37 UTC",
+  "as_of_utc": "2026-09-15T20:48:42+00:00",
+  "as_of_local": "2026-09-15 20:48:42 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -41,16 +41,16 @@
       "market_cap": 427178353359.8534,
       "headlines": [
         {
+          "title": "Stock Market Today: Dow Dives With Fed Seen Doing This; Senate Vote Hits These Crypto Stocks (Live Coverage)",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-treasury-yields-oil-prices-nvidia-stock/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-09-15T20:38:10Z"
+        },
+        {
           "title": "Chevron Jumps 2.1% as $109 Oil Funds Its AI-Power Pivot",
           "url": "https://finance.yahoo.com/energy/articles/chevron-jumps-2-1-109-200803126.html",
           "publisher": "GuruFocus.com",
           "published": "2026-09-15T20:08:03Z"
-        },
-        {
-          "title": "Stock Market Today: Dow Dives, This Loan Play Craters; Bessent Says This On Trump Payments (Live Coverage)",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-treasury-yields-oil-prices-nvidia-stock/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-09-15T19:29:36Z"
         },
         {
           "title": "Chevron (CVX) Plans Global LNG Expansion Across Four Continents",
@@ -207,7 +207,26 @@
       "previous_close": 393.16,
       "change_pct": -0.19,
       "market_cap": 152408157629.39453,
-      "headlines": []
+      "headlines": [
+        {
+          "title": "Vertiv Has Guided Itself Into A Steep Second Half",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/vertiv-guided-itself-steep-second-223056530.html",
+          "publisher": "Trefis",
+          "published": "2026-09-14T22:30:56Z"
+        },
+        {
+          "title": "GE Vernova Stock Can Fall 50%, According to New Sell Rating",
+          "url": "https://www.barrons.com/articles/ge-vernova-stock-price-sell-rating-e9efd969?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-09-14T20:05:00Z"
+        },
+        {
+          "title": "FCEL's Microgrids Strengthen Power Reliability and Resilience",
+          "url": "https://finance.yahoo.com/energy/articles/fcels-microgrids-strengthen-power-reliability-175700137.html",
+          "publisher": "Zacks",
+          "published": "2026-09-14T17:57:00Z"
+        }
+      ]
     },
     {
       "symbol": "BP",
@@ -638,6 +657,12 @@
       "market_cap": 76385668982.75226,
       "headlines": [
         {
+          "title": "Dow Jones Tech Titan Apple, Nvidia Chipmaker TSMC, AMD, Bloom Energy In Or Near Buy Zones",
+          "url": "https://www.investors.com/stock-lists/stocks-near-a-buy-zone/dow-jones-apple-stock-aapl-nvidia-chipmaker-tsm-amd-bloom/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-09-15T20:38:46Z"
+        },
+        {
           "title": "Bloom Energy (BE) Stock Looks Cheap As Its 17x Three Year Run Continues",
           "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-stock-looks-cheap-191906384.html",
           "publisher": "Simply Wall St.",
@@ -648,12 +673,6 @@
           "url": "https://finance.yahoo.com/energy/articles/bloom-energy-gains-another-meaningful-173525957.html",
           "publisher": "Stocktwits",
           "published": "2026-09-15T17:35:25Z"
-        },
-        {
-          "title": "Bloom Energy vs. NANO Nuclear Energy: Which Stock Is a Better Buy in 2026?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-vs-nano-nuclear-150922901.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-15T15:09:22Z"
         }
       ]
     },
@@ -2096,13 +2115,13 @@
     },
     {
       "label": "WTI",
-      "price": 105.53,
-      "change_pct": 4.08
+      "price": 105.49,
+      "change_pct": 4.04
     },
     {
       "label": "Brent",
-      "price": 108.29,
-      "change_pct": 2.47
+      "price": 108.27,
+      "change_pct": 2.45
     },
     {
       "label": "NatGas",
