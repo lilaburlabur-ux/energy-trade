@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-09-15T22:17:06+00:00",
-  "as_of_local": "2026-09-15 22:17:06 UTC",
+  "as_of_utc": "2026-09-15T22:19:58+00:00",
+  "as_of_local": "2026-09-15 22:19:58 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "FLNC"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1853,34 +1855,6 @@
       ]
     },
     {
-      "symbol": "FLNC",
-      "name": "Fluence Energy",
-      "price": 9.3,
-      "previous_close": 9.41,
-      "change_pct": -1.17,
-      "market_cap": 1331421395.7062874,
-      "headlines": [
-        {
-          "title": "Spotting Winners: Fluence Energy (NASDAQ:FLNC) And Renewable Energy Stocks In Q2",
-          "url": "https://finance.yahoo.com/energy/articles/spotting-winners-fluence-energy-nasdaq-125905736.html",
-          "publisher": "StockStory",
-          "published": "2026-09-11T12:59:05Z"
-        },
-        {
-          "title": "1 Russell 2000 Stock with Exciting Potential and 2 Facing Challenges",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/1-russell-2000-stock-exciting-002504271.html",
-          "publisher": "StockStory",
-          "published": "2026-09-11T00:25:04Z"
-        },
-        {
-          "title": "Why Analysts Are Bearish On This Tesla Energy Rival",
-          "url": "https://www.investors.com/news/battery-energy-storage-fluence-tesla-gm-ford-barclays-piper/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-09-10T12:30:49Z"
-        }
-      ]
-    },
-    {
       "symbol": "ARRY",
       "name": "Array Technologies",
       "price": 4.38,
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 105.28,
-      "change_pct": 3.84
+      "price": 105.45,
+      "change_pct": 4.0
     },
     {
       "label": "Brent",
-      "price": 108.55,
-      "change_pct": 2.72
+      "price": 108.32,
+      "change_pct": 2.5
     },
     {
       "label": "NatGas",
       "price": 2.94,
-      "change_pct": 1.69
+      "change_pct": 1.66
     }
   ]
 }
