@@ -1,10 +1,27 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-15T18:06:14+00:00",
+  "as_of": "2026-09-15T18:21:18+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": []
+ "hot_tickers": [
+  {
+   "rank": 1,
+   "ticker": "DINO",
+   "company": "HF Sinclair Corporation",
+   "move_pct": 5.2,
+   "price": 112.47,
+   "volume": 1547042,
+   "volume_vs_avg": "~0.6x",
+   "heat_score": 36,
+   "direction": "up",
+   "why": "Are You Looking for a Top Momentum Pick? Why HF Sinclair (DINO) is a Great Choice",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/looking-top-momentum-pick-why-160002394.html",
+   "published": "2026-09-15T16:00:02Z",
+   "sector": "Refining & Downstream"
+  }
+ ]
 }
