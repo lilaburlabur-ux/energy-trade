@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-15T11:05:23+00:00",
-  "as_of_local": "2026-09-15 11:05:23 UTC",
+  "as_of_utc": "2026-09-15T11:09:15+00:00",
+  "as_of_local": "2026-09-15 11:09:15 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -965,6 +965,12 @@
       "market_cap": 54702999496.45996,
       "headlines": [
         {
+          "title": "Devon Energy Corp's Dividend Analysis",
+          "url": "https://finance.yahoo.com/energy/articles/devon-energy-corps-dividend-analysis-110326648.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-09-15T11:03:26Z"
+        },
+        {
           "title": "Wealthy Investors Flock To Oil & Gas Assets Amid Energy Crisis",
           "url": "https://finance.yahoo.com/energy/articles/wealthy-investors-flock-oil-gas-000000966.html",
           "publisher": "Oilprice.com",
@@ -975,12 +981,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/devon-energy-stock-outperforming-p-142950910.html",
           "publisher": "Barchart",
           "published": "2026-09-14T14:29:50Z"
-        },
-        {
-          "title": "DVN Stock Clocks 3 Straight Days In Green: Retail Eyes Further Upside",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/dvn-stock-clocks-3-straight-035959916.html",
-          "publisher": "Stocktwits",
-          "published": "2026-09-11T03:59:59Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 102.77,
-      "change_pct": 1.36
+      "price": 102.59,
+      "change_pct": 1.18
     },
     {
       "label": "Brent",
-      "price": 101.68,
-      "change_pct": -3.79
+      "price": 101.43,
+      "change_pct": -4.02
     },
     {
       "label": "NatGas",
       "price": 2.88,
-      "change_pct": -0.55
+      "change_pct": -0.41
     }
   ]
 }
