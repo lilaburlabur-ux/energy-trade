@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-15T00:48:41+00:00",
-  "as_of_local": "2026-09-15 00:48:41 UTC",
+  "as_of_utc": "2026-09-15T00:53:36+00:00",
+  "as_of_local": "2026-09-15 00:53:36 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -69,6 +69,12 @@
       "market_cap": 275789815759.5,
       "headlines": [
         {
+          "title": "Wealthy Investors Flock To Oil & Gas Assets Amid Energy Crisis",
+          "url": "https://finance.yahoo.com/energy/articles/wealthy-investors-flock-oil-gas-000000966.html",
+          "publisher": "Oilprice.com",
+          "published": "2026-09-15T00:00:00Z"
+        },
+        {
           "title": "Energy & Utilities Roundup: Market Talk",
           "url": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-d53eec27?siteid=yhoof2&yptr=yahoo",
           "publisher": "The Wall Street Journal",
@@ -79,12 +85,6 @@
           "url": "https://finance.yahoo.com/energy/articles/constellation-energy-deal-buy-609-101637710.html",
           "publisher": "Utility Dive",
           "published": "2026-09-14T10:16:37Z"
-        },
-        {
-          "title": "Shell Just Sold a $715 Million Stake in a Major New England Asset to Constellation Energy. Here's What Investors Need to Know.",
-          "url": "https://finance.yahoo.com/energy/articles/shell-just-sold-715-million-101251258.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-12T10:12:51Z"
         }
       ]
     },
@@ -965,6 +965,12 @@
       "market_cap": 54703000000.0,
       "headlines": [
         {
+          "title": "Wealthy Investors Flock To Oil & Gas Assets Amid Energy Crisis",
+          "url": "https://finance.yahoo.com/energy/articles/wealthy-investors-flock-oil-gas-000000966.html",
+          "publisher": "Oilprice.com",
+          "published": "2026-09-15T00:00:00Z"
+        },
+        {
           "title": "Is Devon Energy Stock Outperforming the S&P 500?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/devon-energy-stock-outperforming-p-142950910.html",
           "publisher": "Barchart",
@@ -975,12 +981,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/dvn-stock-clocks-3-straight-035959916.html",
           "publisher": "Stocktwits",
           "published": "2026-09-11T03:59:59Z"
-        },
-        {
-          "title": "Devon Energy (DVN) Ascends While Market Falls: Some Facts to Note",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/devon-energy-dvn-ascends-while-215003557.html",
-          "publisher": "Zacks",
-          "published": "2026-09-10T21:50:03Z"
         }
       ]
     },
@@ -1187,7 +1187,26 @@
       "previous_close": 452.41,
       "change_pct": 1.77,
       "market_cap": 23372072758.98,
-      "headlines": []
+      "headlines": [
+        {
+          "title": "Why Is Eaton Priced Above Peers That Earn More Per Sale?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-eaton-priced-above-peers-191832890.html",
+          "publisher": "Trefis",
+          "published": "2026-09-11T19:18:32Z"
+        },
+        {
+          "title": "Is Eaton Stock Amplifying A Risk You Already Own?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/eaton-stock-amplifying-risk-already-011655422.html",
+          "publisher": "Trefis",
+          "published": "2026-09-11T01:16:55Z"
+        },
+        {
+          "title": "Vertiv Has Cooled For 3 Months: A Wall Street Strategist Says It Will Rebound 45% Very Soon",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/vertiv-cooled-3-months-wall-114456669.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-09-10T11:44:56Z"
+        }
+      ]
     },
     {
       "symbol": "NRG",
@@ -2096,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 102.72,
-      "change_pct": 2.67
+      "price": 102.73,
+      "change_pct": 2.68
     },
     {
       "label": "Brent",
-      "price": 106.97,
-      "change_pct": 2.26
+      "price": 107.04,
+      "change_pct": 2.32
     },
     {
       "label": "NatGas",
       "price": 2.88,
-      "change_pct": 1.77
+      "change_pct": 1.8
     }
   ]
 }
