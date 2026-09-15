@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-09-15T00:58:47+00:00",
-  "as_of_local": "2026-09-15 00:58:47 UTC",
+  "as_of_utc": "2026-09-15T01:08:53+00:00",
+  "as_of_local": "2026-09-15 01:08:53 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "MPC"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -253,34 +255,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/best-growth-stocks-buy-september-102700545.html",
           "publisher": "Zacks",
           "published": "2026-09-14T10:27:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "MPC",
-      "name": "Marathon Petroleum",
-      "price": 395.93,
-      "previous_close": 392.42,
-      "change_pct": 0.89,
-      "market_cap": 115738278945.75,
-      "headlines": [
-        {
-          "title": "Global Fuel Squeeze Triggers U.S. Refiners Stocks Rally",
-          "url": "https://finance.yahoo.com/energy/articles/global-fuel-squeeze-triggers-u-220000201.html",
-          "publisher": "Oilprice.com",
-          "published": "2026-09-14T22:00:00Z"
-        },
-        {
-          "title": "Should You Buy ExxonMobil Stock For What Guyana Pays Next?",
-          "url": "https://finance.yahoo.com/energy/articles/buy-exxonmobil-stock-guyana-pays-212835945.html",
-          "publisher": "Trefis",
-          "published": "2026-09-14T21:28:35Z"
-        },
-        {
-          "title": "HF Sinclair Rises 113.9% in a Year: Should You Buy, Hold or Sell?",
-          "url": "https://finance.yahoo.com/energy/articles/hf-sinclair-rises-113-9-164300568.html",
-          "publisher": "Zacks",
-          "published": "2026-09-14T16:43:00Z"
         }
       ]
     },
@@ -1131,7 +1105,26 @@
       "previous_close": 36.07,
       "change_pct": -0.64,
       "market_cap": 29167894148.67,
-      "headlines": []
+      "headlines": [
+        {
+          "title": "2 S&P 500 Stocks with Impressive Fundamentals and 1 We Turn Down",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/2-p-500-stocks-impressive-185130142.html",
+          "publisher": "StockStory",
+          "published": "2026-09-14T18:51:30Z"
+        },
+        {
+          "title": "Halliburton (HAL) Suffers a Larger Drop Than the General Market: Key Insights",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/halliburton-hal-suffers-larger-drop-221504598.html",
+          "publisher": "Zacks",
+          "published": "2026-09-10T22:15:04Z"
+        },
+        {
+          "title": "Halliburton CFO Eric Carre Sells 24,777 Shares for $929,138",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/halliburton-cfo-eric-carre-sells-125901418.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-10T12:59:01Z"
+        }
+      ]
     },
     {
       "symbol": "FTI",
@@ -1929,8 +1922,8 @@
           "name": "Marathon Petroleum Corp",
           "short": "Marathon",
           "weight_pct": 5.42,
-          "change_pct": 0.89,
-          "price": 395.93,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -2028,8 +2021,8 @@
         "name": "Marathon Petroleum Corp",
         "short": "Marathon",
         "weight_pct": 5.42,
-        "change_pct": 0.89,
-        "price": 395.93,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -2096,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 102.65,
-      "change_pct": 2.6
+      "price": 102.57,
+      "change_pct": 2.52
     },
     {
       "label": "Brent",
-      "price": 107.0,
-      "change_pct": 2.28
+      "price": 106.87,
+      "change_pct": 2.16
     },
     {
       "label": "NatGas",
       "price": 2.88,
-      "change_pct": 1.73
+      "change_pct": 1.66
     }
   ]
 }
