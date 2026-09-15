@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-15T10:13:42+00:00",
-  "as_of_local": "2026-09-15 10:13:42 UTC",
+  "as_of_utc": "2026-09-15T10:18:35+00:00",
+  "as_of_local": "2026-09-15 10:18:35 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -291,7 +291,26 @@
       "previous_close": 390.42,
       "change_pct": -1.91,
       "market_cap": 110261824704.68951,
-      "headlines": []
+      "headlines": [
+        {
+          "title": "Best Growth Stocks to Buy for September 15th",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/best-growth-stocks-buy-september-091000585.html",
+          "publisher": "Zacks",
+          "published": "2026-09-15T09:10:00Z"
+        },
+        {
+          "title": "Global Fuel Squeeze Triggers U.S. Refiners Stocks Rally",
+          "url": "https://finance.yahoo.com/energy/articles/global-fuel-squeeze-triggers-u-220000201.html",
+          "publisher": "Oilprice.com",
+          "published": "2026-09-14T22:00:00Z"
+        },
+        {
+          "title": "Should You Buy ExxonMobil Stock For What Guyana Pays Next?",
+          "url": "https://finance.yahoo.com/energy/articles/buy-exxonmobil-stock-guyana-pays-212835945.html",
+          "publisher": "Trefis",
+          "published": "2026-09-14T21:28:35Z"
+        }
+      ]
     },
     {
       "symbol": "EQNR",
@@ -498,6 +517,12 @@
       "market_cap": 88006895877.58911,
       "headlines": [
         {
+          "title": "Williams (WMB) Stock Looks Reasonable Despite Its Haynesville Deal",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/williams-wmb-stock-looks-reasonable-101008914.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-09-15T10:10:08Z"
+        },
+        {
           "title": "These 3 Pipeline Stocks Pay High Yields Without the K-1 Headache",
           "url": "https://finance.yahoo.com/markets/stocks/articles/3-pipeline-stocks-pay-high-121115255.html",
           "publisher": "24/7 Wall St.",
@@ -508,12 +533,6 @@
           "url": "https://finance.yahoo.com/energy/articles/magnolia-oil-gas-closes-transformative-132100465.html",
           "publisher": "Zacks",
           "published": "2026-09-11T13:21:00Z"
-        },
-        {
-          "title": "Not All Pipeline Dividends Are Created Equal\u2014Especially at Tax Time",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/not-pipeline-dividends-created-equal-121049240.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-09-11T12:10:49Z"
         }
       ]
     },
@@ -2096,13 +2115,13 @@
     },
     {
       "label": "WTI",
-      "price": 103.59,
-      "change_pct": 2.17
+      "price": 103.57,
+      "change_pct": 2.15
     },
     {
       "label": "Brent",
-      "price": 102.38,
-      "change_pct": -3.12
+      "price": 102.4,
+      "change_pct": -3.1
     },
     {
       "label": "NatGas",
