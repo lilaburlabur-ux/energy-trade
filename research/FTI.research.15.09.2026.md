@@ -18,7 +18,7 @@ Signed file: `FTI.research.15.09.2026`
 | Technical momentum | High | 1Y +88.75%; price +14.85% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -6.38% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 11.28%, revenue growth 9.00%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 20.83, EV/Sales 2.77. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 20.83, EV/Sales 2.85. |
 | Risk level | Elevated | Beta 0.74, ATR 3.3% of price, short float 3.28%. |
 
 **Bottom line:** High technical momentum, mixed fundamentals, value: fair-to-demanding, risk: elevated.
@@ -68,7 +68,7 @@ TechnipFMC plc engages in the oil and natural gas projects, technologies, system
 | Revenue (ttm) | $10.42B | Revenue growth 9.00% y/y |
 | Profitability | Gross 22.97%, operating 17.69%, net 11.28% | ROA 9.53%, ROE 35.81% |
 | Balance sheet | Cash $991.80M, debt $1.24B | Current ratio 1.08, debt/equity 37.90 |
-| Valuation | P/E 26.21, forward P/E 20.83, P/S 2.82, P/B 9.00 | EV/Sales 2.77, EV/EBITDA 14.54 |
+| Valuation | P/E 26.21, forward P/E 20.83, P/S 2.82, P/B 9.00 | EV/Sales 2.85, EV/EBITDA 14.95 |
 | Growth expectations | Earnings growth 40.60%, EPS q/q 34.60% | Analyst mean target $76.05 (21 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ TechnipFMC plc engages in the oil and natural gas projects, technologies, system
 | T. Rowe Price Investment Management, Inc. | 9,275,901 | 2.37% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 20.83, EV/Sales 2.77. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 20.83, EV/Sales 2.85. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 0.74, ATR 3.3% of price, short float 3.28%. Size positions accordingly.
 - **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
@@ -112,8 +112,8 @@ TechnipFMC plc engages in the oil and natural gas projects, technologies, system
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $74.97 | EV/Sales | 2.77 |
-| Market cap | $29.40B | EV/EBITDA | 14.54 |
+| Price | $74.97 | EV/Sales | 2.85 |
+| Market cap | $29.40B | EV/EBITDA | 14.95 |
 | Beta | 0.74 | Gross margin | 22.97% |
 | RSI(14) | 47.0 | Operating margin | 17.69% |
 | ATR(14) | 2.50 | Profit margin | 11.28% |
