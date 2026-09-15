@@ -5,7 +5,7 @@ Signed file: `OKE.research.15.09.2026`
 | Field | Value |
 |---|---|
 | Current price | $94.72 (2026-09-15, ~15-min delayed) |
-| Market cap | $59.68B |
+| Market cap | $59.71B |
 | Sector / Industry | Energy / Oil & Gas Midstream |
 | Main theme | Oil & Gas Midstream — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -111,7 +111,7 @@ ONEOK, Inc. operates as a midstream service provider of gathering, processing, f
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $94.72 | EV/Sales | 2.39 |
-| Market cap | $59.68B | EV/EBITDA | 12.27 |
+| Market cap | $59.71B | EV/EBITDA | 12.27 |
 | Beta | 0.72 | Gross margin | 27.21% |
 | RSI(14) | 51.3 | Operating margin | 13.25% |
 | ATR(14) | 2.53 | Profit margin | 9.29% |

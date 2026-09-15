@@ -5,7 +5,7 @@ Signed file: `HAL.research.15.09.2026`
 | Field | Value |
 |---|---|
 | Current price | $35.67 (2026-09-15, ~15-min delayed) |
-| Market cap | $29.80B |
+| Market cap | $29.72B |
 | Sector / Industry | Energy / Oil & Gas Equipment & Services |
 | Main theme | Oil & Gas Equipment & Services — see catalysts below |
 | Current stance | High technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
@@ -112,7 +112,7 @@ Halliburton Company provides products and services to the energy industry worldw
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $35.67 | EV/Sales | 1.58 |
-| Market cap | $29.80B | EV/EBITDA | 8.54 |
+| Market cap | $29.72B | EV/EBITDA | 8.54 |
 | Beta | 0.77 | Gross margin | 15.08% |
 | RSI(14) | 51.9 | Operating margin | 12.79% |
 | ATR(14) | 1.10 | Profit margin | 7.16% |
