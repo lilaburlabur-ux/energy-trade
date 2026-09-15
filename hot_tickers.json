@@ -1,27 +1,10 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-15T04:08:59+00:00",
+  "as_of": "2026-09-15T08:11:20+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": [
-  {
-   "rank": 1,
-   "ticker": "GEV",
-   "company": "GE Vernova Inc.",
-   "move_pct": -8.62,
-   "price": 874.76,
-   "volume": 3299400,
-   "volume_vs_avg": "~2x",
-   "heat_score": 64,
-   "direction": "down",
-   "why": "Why GE Vernova (GEV) Stock Is Nosediving",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/why-ge-vernova-gev-stock-024330692.html",
-   "published": "2026-09-15T02:43:30Z",
-   "sector": "Grid, Storage & Electrification"
-  }
- ]
+ "hot_tickers": []
 }
