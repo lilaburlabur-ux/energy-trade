@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-15T11:54:56+00:00",
-  "as_of_local": "2026-09-15 11:54:56 UTC",
+  "as_of_utc": "2026-09-15T12:00:01+00:00",
+  "as_of_local": "2026-09-15 12:00:01 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -405,6 +405,12 @@
       "market_cap": 93739105857.05475,
       "headlines": [
         {
+          "title": "Energy Transition Today - Alternative Energy Growth Driven By Innovation And Investment",
+          "url": "https://finance.yahoo.com/energy/articles/energy-transition-today-alternative-energy-113713565.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-09-15T11:37:13Z"
+        },
+        {
           "title": "Constellation Energy (CEG) Stock May Be Below Fair Value Despite $715 Million Power Plant Deal",
           "url": "https://finance.yahoo.com/markets/stocks/articles/constellation-energy-ceg-stock-may-232007724.html",
           "publisher": "Simply Wall St.",
@@ -415,12 +421,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/heres-why-constellation-energy-corporation-214505410.html",
           "publisher": "Zacks",
           "published": "2026-09-14T21:45:05Z"
-        },
-        {
-          "title": "Vistra\u2019s Price Has Edged Downward Throught 2026: One Analyst Says It\u2019s Due to Double Soon.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-price-edged-downward-throught-114906277.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-09-14T11:49:06Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 102.41,
-      "change_pct": 1.01
+      "price": 102.33,
+      "change_pct": 0.93
     },
     {
       "label": "Brent",
-      "price": 101.23,
-      "change_pct": -4.21
+      "price": 101.13,
+      "change_pct": -4.31
     },
     {
       "label": "NatGas",
-      "price": 2.88,
-      "change_pct": -0.66
+      "price": 2.89,
+      "change_pct": -0.14
     }
   ]
 }
