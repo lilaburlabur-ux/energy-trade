@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-15T12:08:35+00:00",
-  "as_of_local": "2026-09-15 12:08:35 UTC",
+  "as_of_utc": "2026-09-15T12:13:41+00:00",
+  "as_of_local": "2026-09-15 12:13:41 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -41,6 +41,12 @@
       "market_cap": 416193363052.7771,
       "headlines": [
         {
+          "title": "Chevron Targets Argentina, Mediterranean in Global LNG Push",
+          "url": "https://finance.yahoo.com/energy/articles/chevron-targets-argentina-mediterranean-global-120200752.html",
+          "publisher": "Zacks",
+          "published": "2026-09-15T12:02:00Z"
+        },
+        {
           "title": "Diversified Upstream E&P Stocks Q2 Teardown: Chevron (NYSE:CVX) Vs The Rest",
           "url": "https://finance.yahoo.com/markets/stocks/articles/diversified-upstream-e-p-stocks-223530349.html",
           "publisher": "StockStory",
@@ -51,12 +57,6 @@
           "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-14-2026/card/-money-quote-higher-for-longer-oil-prices-xm6edQLdzCYzX0XP9ndS?siteid=yhoof2&yptr=yahoo",
           "publisher": "The Wall Street Journal",
           "published": "2026-09-14T22:00:02Z"
-        },
-        {
-          "title": "Global Fuel Squeeze Triggers U.S. Refiners Stocks Rally",
-          "url": "https://finance.yahoo.com/energy/articles/global-fuel-squeeze-triggers-u-220000201.html",
-          "publisher": "Oilprice.com",
-          "published": "2026-09-14T22:00:00Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 102.2,
-      "change_pct": 0.8
+      "price": 102.49,
+      "change_pct": 1.08
     },
     {
       "label": "Brent",
-      "price": 100.99,
-      "change_pct": -4.44
+      "price": 101.32,
+      "change_pct": -4.13
     },
     {
       "label": "NatGas",
-      "price": 2.9,
-      "change_pct": 0.1
+      "price": 2.91,
+      "change_pct": 0.59
     }
   ]
 }
