@@ -36,10 +36,10 @@ Cameco Corporation provides uranium for the generation of electricity in the Ame
 
 | Headline | Source | Date |
 |---|---|---|
+| Cameco vs. USA Rare Earth: Which Renewable Energy Stock Is a Better Buy in 2026? | Motley Fool | 2026-09-15 |
+| Jim Cramer Favors BWX Technologies (BWXT) Over Cameco (CCJ) | Insider Monkey | 2026-09-15 |
 | Wall Street Analysts Think Cameco (CCJ) Is a Good Investment: Is It? | Zacks | 2026-09-14 |
 | Russia accuses Ukraine of Zaporizhzhia fuel attack as Odesa strikes continue | Investing.com | 2026-09-13 |
-| Cameco Controls the Uranium Refinery That Puts Canada in the Driver's Seat | Motley Fool | 2026-09-13 |
-| Cameco (CCJ) Registers a Bigger Fall Than the Market: Important Facts to Note | Zacks | 2026-09-10 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -69,7 +69,7 @@ Cameco Corporation provides uranium for the generation of electricity in the Ame
 | Profitability | Gross 35.11%, operating 9.11%, net 10.21% | ROA 2.98%, ROE 5.11% |
 | Balance sheet | Cash $1.11B, debt $1.22B | Current ratio 3.06, debt/equity 17.13 |
 | Valuation | P/E 154.59, forward P/E 48.31, P/S 11.43, P/B 7.72 | EV/Sales 11.72, EV/EBITDA 51.01 |
-| Growth expectations | Earnings growth -92.10%, EPS q/q -92.10% | Analyst mean target $129.95 (12 analysts) |
+| Growth expectations | Earnings growth -92.10%, EPS q/q -92.10% | Analyst mean target $129.88 (12 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |

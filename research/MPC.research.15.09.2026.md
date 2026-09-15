@@ -36,10 +36,10 @@ Marathon Petroleum Corporation, together with its subsidiaries, operates as an i
 
 | Headline | Source | Date |
 |---|---|---|
+| Stocks to Watch: UBS, Vera Bradley, Dave & Buster’s, Coinbase | The Wall Street Journal | 2026-09-15 |
 | Sunoco Stock Breaks Out; Oil Prices Rise With No Clear End To Hormuz Closure | Investor's Business Daily | 2026-09-15 |
 | Will UK interest rates fall in 2026? | Moneyweek | 2026-09-15 |
-| Stocks Fall as Crude Prices and Bond Yields Jump | Barchart | 2026-09-15 |
-| Stocks to Watch: UBS, Dave & Buster’s, Coinbase, CrowdStrike | The Wall Street Journal | 2026-09-15 |
+| Marathon Petroleum Stock Just Hit New Highs, But Oil Price Risks Remain | Barchart | 2026-09-15 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

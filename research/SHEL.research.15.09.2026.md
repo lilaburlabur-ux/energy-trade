@@ -36,10 +36,10 @@ Shell plc operates as an energy and petrochemical company in Europe, Asia, Ocean
 
 | Headline | Source | Date |
 |---|---|---|
+| Shell (SHEL) Ascends While Market Falls: Some Facts to Note | Zacks | 2026-09-15 |
 | Sector Update: Energy Stocks Gain Late Afternoon | MT Newswires | 2026-09-15 |
 | Shell Surges 2.6% as Asia's Missing LNG Demand Waits Offshore | GuruFocus.com | 2026-09-15 |
 | Sector Update: Energy Stocks Gain Tuesday Afternoon | MT Newswires | 2026-09-15 |
-| European Equities Traded in the US as American Depositary Receipts Decline in Tuesday Trading | MT Newswires | 2026-09-15 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

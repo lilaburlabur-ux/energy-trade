@@ -36,10 +36,10 @@ ConocoPhillips explores for, produces, transports, and markets crude oil, bitume
 
 | Headline | Source | Date |
 |---|---|---|
-| Stocks Fall as Crude Prices and Bond Yields Jump | Barchart | 2026-09-15 |
 | Should You Buy ExxonMobil Stock For What Guyana Pays Next? | Trefis | 2026-09-14 |
 | Oil Executives Say the Great Fuel Crisis Is Here | The Wall Street Journal | 2026-09-14 |
 | Is ConocoPhillips Stock Worth Buying Here? - Shorting COP Puts and Credit Spreads are Better Plays | Barchart | 2026-09-13 |
+| Saudi Arabia Shuts Key Pipeline, Adding Pressure to Oil Supplies | Barrons.com | 2026-09-11 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

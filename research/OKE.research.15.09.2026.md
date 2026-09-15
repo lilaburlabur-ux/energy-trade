@@ -36,10 +36,10 @@ ONEOK, Inc. operates as a midstream service provider of gathering, processing, f
 
 | Headline | Source | Date |
 |---|---|---|
+| Oneok Inc. (OKE) Sees a More Significant Dip Than Broader Market: Some Facts to Know | Zacks | 2026-09-15 |
 | These 3 Pipeline Stocks Pay High Yields Without the K-1 Headache | 24/7 Wall St. | 2026-09-14 |
 | Why the Market Dipped But Oneok Inc. (OKE) Gained Today | Zacks | 2026-09-08 |
 | 5 Pipeline Stocks Built to Make Money at Any Oil Price | 24/7 Wall St. | 2026-09-08 |
-| Is ONEOK Stock Outperforming the Dow? | Barchart | 2026-09-08 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

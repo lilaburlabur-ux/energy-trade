@@ -36,10 +36,10 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 
 | Headline | Source | Date |
 |---|---|---|
+| You Handle the Money and if Something Happens to You, Your Spouse Inherits 40 Years of Statements. These 3 ETFs Are the Portfolio They Can Run Alone | 24/7 Wall St. | 2026-09-15 |
+| Market Chatter: Exxon Mobil Wins Approval For Texas Carbon Capture Project | MT Newswires | 2026-09-15 |
+| Why the Market Dipped But Exxon Mobil Holdings (XOM) Gained Today | Zacks | 2026-09-15 |
 | Exxon Rises as $6 Diesel Meets a Refinery Shutdown | GuruFocus.com | 2026-09-15 |
-| Chevron CEO warns a global fuel crisis is already here | GuruFocus.com | 2026-09-15 |
-| Sector Update: Energy Stocks Gain Late Afternoon | MT Newswires | 2026-09-15 |
-| Sector Update: Energy Stocks Gain Tuesday Afternoon | MT Newswires | 2026-09-15 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

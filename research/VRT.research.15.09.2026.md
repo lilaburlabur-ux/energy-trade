@@ -36,10 +36,10 @@ Vertiv Holdings Co designs, manufactures, and services critical digital infrastr
 
 | Headline | Source | Date |
 |---|---|---|
+| Here's Why Vertiv Holdings Co. (VRT) Fell More Than Broader Market | Zacks | 2026-09-15 |
 | Vertiv (VRT) Stock Stays Fairly Priced Following Its $2.6B AI Power Deal | Simply Wall St. | 2026-09-15 |
 | 3 Stocks That Offer AI Exposure and Dividends | Zacks | 2026-09-14 |
 | Vertiv Has Guided Itself Into A Steep Second Half | Trefis | 2026-09-14 |
-| Nasdaq Recovers, but Industrial Stocks Are Still Struggling | The Wall Street Journal | 2026-09-14 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

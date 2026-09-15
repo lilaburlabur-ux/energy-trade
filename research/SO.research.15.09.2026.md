@@ -36,10 +36,10 @@ The Southern Company, through its subsidiaries, engages in the sale of electrici
 
 | Headline | Source | Date |
 |---|---|---|
+| Southern Co. (SO) Falls More Steeply Than Broader Market: What Investors Need to Know | Zacks | 2026-09-15 |
 | Co-op could face full-scale probe into Southern Co-op deal over competition fears | PA Media: Money | 2026-09-15 |
 | Southern (SO) Stock Seems Fully Priced As New Solar Plans Expand | Simply Wall St. | 2026-09-15 |
 | Elon Musk Says AI Data Centers Are Lowering Electricity Prices for Consumers. Here’s What We Found When We Ran the Numbers. | 24/7 Wall St. | 2026-09-14 |
-| SO vs. NEE: Which Dividend Stock Actually Wins for Retirement Income in 2026? | 24/7 Wall St. | 2026-09-14 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

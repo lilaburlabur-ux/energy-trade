@@ -36,8 +36,8 @@ Occidental Petroleum Corporation, together with its subsidiaries, engages in the
 
 | Headline | Source | Date |
 |---|---|---|
-| Stocks Fall as Crude Prices and Bond Yields Jump | Barchart | 2026-09-15 |
-| Stocks to Watch: UBS, Dave & Buster’s, Coinbase, CrowdStrike | The Wall Street Journal | 2026-09-15 |
+| Occidental Petroleum (OXY) Gains As Market Dips: What You Should Know | Zacks | 2026-09-15 |
+| Stocks to Watch: UBS, Vera Bradley, Dave & Buster’s, Coinbase | The Wall Street Journal | 2026-09-15 |
 | Occidental Petroleum Corporation (OXY) is Attracting Investor Attention: Here is What You Should Know | Zacks | 2026-09-15 |
 | Should You Buy ExxonMobil Stock For What Guyana Pays Next? | Trefis | 2026-09-14 |
 

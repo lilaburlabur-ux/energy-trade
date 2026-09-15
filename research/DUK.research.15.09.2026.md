@@ -36,10 +36,10 @@ Duke Energy Corporation, through its subsidiaries, operates as an energy company
 
 | Headline | Source | Date |
 |---|---|---|
+| Here's Why Duke Energy (DUK) Fell More Than Broader Market | Zacks | 2026-09-15 |
 | Can Kentucky's Economic Development Drive PPL's Long-Term Growth? | Zacks | 2026-09-14 |
 | How Much Does a 61-Year-Old Need Invested to Collect $8,600 a Month for Life? | 24/7 Wall St. | 2026-09-12 |
 | The Boring Stock That Delivered 127% Returns While Proving Slow and Steady Loses the Race | 24/7 Wall St. | 2026-09-12 |
-| NEE Stock Trades at a Premium Valuation: Buy, Hold or Stay Away? | Zacks | 2026-09-11 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

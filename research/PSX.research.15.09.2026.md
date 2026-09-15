@@ -36,9 +36,9 @@ Phillips 66 operates as an integrated downstream energy provider in the United S
 
 | Headline | Source | Date |
 |---|---|---|
+| Phillips 66 (PSX) Rises As Market Takes a Dip: Key Facts | Zacks | 2026-09-15 |
 | Sunoco Stock Breaks Out; Oil Prices Rise With No Clear End To Hormuz Closure | Investor's Business Daily | 2026-09-15 |
 | What Does the Future Hold for Valero Energy's Refining Business? | Zacks | 2026-09-15 |
-| Stocks Fall as Crude Prices and Bond Yields Jump | Barchart | 2026-09-15 |
 | Global Fuel Squeeze Triggers U.S. Refiners Stocks Rally | Oilprice.com | 2026-09-14 |
 
 ## 3. Technical Analysis

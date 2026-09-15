@@ -36,10 +36,10 @@ BWX Technologies, Inc. manufactures and sells nuclear components in the United S
 
 | Headline | Source | Date |
 |---|---|---|
+| Jim Cramer Favors BWX Technologies (BWXT) Over Cameco (CCJ) | Insider Monkey | 2026-09-15 |
 | This Stock Can Rise 150%, Plus 12 More Aerospace Buys | Barrons.com | 2026-09-15 |
 | Can BWXT's Canadian Lab Role Strengthen Nuclear Services Growth? | Zacks | 2026-09-10 |
 | Jefferies Sees Cameco (CCJ) and BWXT as Winners in the Nuclear Boom | Insider Monkey | 2026-09-07 |
-| Powering the AI Boom: Uranium’s $95 Spark | MarketBeat | 2026-09-07 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
