@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-09-16T07:26:20+00:00",
-  "as_of_local": "2026-09-16 07:26:20 UTC",
+  "as_of_utc": "2026-09-16T07:41:12+00:00",
+  "as_of_local": "2026-09-16 07:41:12 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "CVX"
+    "UEC"
   ],
   "stocks": [
     {
@@ -31,6 +31,34 @@
           "url": "https://finance.yahoo.com/energy/articles/market-chatter-exxon-mobil-wins-215021473.html",
           "publisher": "MT Newswires",
           "published": "2026-09-15T21:50:21Z"
+        }
+      ]
+    },
+    {
+      "symbol": "CVX",
+      "name": "Chevron",
+      "price": 217.77,
+      "previous_close": 212.17,
+      "change_pct": 2.64,
+      "market_cap": 427178353359.8534,
+      "headlines": [
+        {
+          "title": "Why Did DELL, CRWD, CVX Stocks Jump To 52-Week Highs Today?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-dell-crwd-cvx-035157909.html",
+          "publisher": "Stocktwits",
+          "published": "2026-09-16T03:51:57Z"
+        },
+        {
+          "title": "Chevron (CVX) Rises As Market Takes a Dip: Key Facts",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/chevron-cvx-rises-market-takes-214507489.html",
+          "publisher": "Zacks",
+          "published": "2026-09-15T21:45:07Z"
+        },
+        {
+          "title": "U.S. Stocks Down as Oil, Yield Shock Continues",
+          "url": "https://www.wsj.com/finance/stocks/u-s-stocks-down-as-oil-yield-shock-continues-866478de?siteid=yhoof2&yptr=yahoo",
+          "publisher": "The Wall Street Journal",
+          "published": "2026-09-15T20:54:00Z"
         }
       ]
     },
@@ -1603,34 +1631,6 @@
       ]
     },
     {
-      "symbol": "UEC",
-      "name": "Uranium Energy Corp",
-      "price": 10.18,
-      "previous_close": 10.26,
-      "change_pct": -0.78,
-      "market_cap": 5037800836.903061,
-      "headlines": [
-        {
-          "title": "Russia accuses Ukraine of Zaporizhzhia fuel attack as Odesa strikes continue",
-          "url": "https://www.yahoo.com/news/world/articles/russia-accuses-ukraine-zaporizhzhia-fuel-090755823.html",
-          "publisher": "Investing.com",
-          "published": "2026-09-13T09:07:55Z"
-        },
-        {
-          "title": "Is Uranium Energy (UEC) a Buy as Wall Street Analysts Look Optimistic?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/uranium-energy-uec-buy-wall-133004333.html",
-          "publisher": "Zacks",
-          "published": "2026-09-10T13:30:04Z"
-        },
-        {
-          "title": "BWX Technologies Already Builds Reactors for the Navy. Why Is It Still the Cheapest Nuclear Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bwx-technologies-already-builds-reactors-132500675.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-06T13:25:00Z"
-        }
-      ]
-    },
-    {
       "symbol": "ENPH",
       "name": "Enphase Energy",
       "price": 36.72,
@@ -1904,8 +1904,8 @@
           "name": "Chevron Corp",
           "short": "Chevron",
           "weight_pct": 14.89,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": 2.64,
+          "price": 217.77,
           "currency": "USD"
         },
         {
@@ -2003,8 +2003,8 @@
         "name": "Chevron Corp",
         "short": "Chevron",
         "weight_pct": 14.89,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": 2.64,
+        "price": 217.77,
         "currency": "USD"
       },
       {
@@ -2089,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 103.94,
-      "change_pct": -1.79
+      "price": 104.1,
+      "change_pct": -1.63
     },
     {
       "label": "Brent",
-      "price": 107.44,
-      "change_pct": -1.2
+      "price": 107.6,
+      "change_pct": -1.06
     },
     {
       "label": "NatGas",
       "price": 2.9,
-      "change_pct": -0.55
+      "change_pct": -0.48
     }
   ]
 }
