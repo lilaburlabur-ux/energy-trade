@@ -39,7 +39,7 @@ Occidental Petroleum Corporation, together with its subsidiaries, engages in the
 | Diversified Upstream E&P Stocks Q2 Earnings: Occidental Petroleum (NYSE:OXY) Firing on All Cylinders | StockStory | 2026-09-16 |
 | Oil Producers Slide as Crude Retreats: EOG Resources Drops 6%, ConocoPhillips and Occidental Petroleum Fall 5% | 24/7 Wall St. | 2026-09-16 |
 | Occidental Petroleum Stock Slides Wednesday: What's Happening? | Benzinga | 2026-09-16 |
-| Will ExxonMobil's Guyana & Permian Assets Power Its Upstream Business? | Zacks | 2026-09-16 |
+| Stocks Hold Gains After Fed Hikes Key Rate | Barchart | 2026-09-16 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
