@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-16T10:33:17+00:00",
-  "as_of_local": "2026-09-16 10:33:17 UTC",
+  "as_of_utc": "2026-09-16T10:38:41+00:00",
+  "as_of_local": "2026-09-16 10:38:41 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -13,6 +13,12 @@
       "market_cap": 696228963183.7427,
       "headlines": [
         {
+          "title": "ExxonMobil secures regulatory approval for Rose CCS project in Texas",
+          "url": "https://finance.yahoo.com/energy/articles/exxonmobil-secures-regulatory-approval-rose-103235232.html",
+          "publisher": "Energy Monitor",
+          "published": "2026-09-16T10:32:35Z"
+        },
+        {
           "title": "ExxonMobil Holdings (XOM) Shares Moved, What Is Drawing Fresh Attention?",
           "url": "https://finance.yahoo.com/energy/articles/exxonmobil-holdings-xom-shares-moved-101041381.html",
           "publisher": "Simply Wall St.",
@@ -23,12 +29,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-us-vietnam-firms-082219584.html",
           "publisher": "MT Newswires",
           "published": "2026-09-16T08:22:19Z"
-        },
-        {
-          "title": "ExxonMobil\u2019s LNG Ambitions Just Got A Major Upgrade",
-          "url": "https://finance.yahoo.com/energy/articles/exxonmobil-lng-ambitions-just-got-034636221.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-09-16T03:46:36Z"
         }
       ]
     },
@@ -2115,13 +2115,13 @@
     },
     {
       "label": "WTI",
-      "price": 103.68,
-      "change_pct": -2.03
+      "price": 103.91,
+      "change_pct": -1.81
     },
     {
       "label": "Brent",
-      "price": 107.68,
-      "change_pct": -0.98
+      "price": 107.91,
+      "change_pct": -0.77
     },
     {
       "label": "NatGas",
