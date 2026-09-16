@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-16T00:33:16+00:00",
+  "as_of": "2026-09-16T00:48:26+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -21,22 +21,6 @@
    "catalyst_type": "momentum_narrative",
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/intuitive-machines-vs-vertiv-industrials-233201697.html",
    "published": "2026-09-15T23:32:01Z",
-   "sector": "Grid, Storage & Electrification"
-  },
-  {
-   "rank": 2,
-   "ticker": "BE",
-   "company": "Bloom Energy Corporation",
-   "move_pct": -6.78,
-   "price": 257.05,
-   "volume": 10707016,
-   "volume_vs_avg": "~0.8x",
-   "heat_score": 43,
-   "direction": "down",
-   "why": "Dow Jones Tech Titan Apple, Nvidia Chipmaker TSMC, AMD, Bloom Energy In Or Near Buy Zones",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://www.investors.com/stock-lists/stocks-near-a-buy-zone/dow-jones-apple-stock-aapl-nvidia-chipmaker-tsm-amd-bloom/?src=A00220&yptr=yahoo",
-   "published": "2026-09-15T20:38:46Z",
    "sector": "Grid, Storage & Electrification"
   }
  ]
