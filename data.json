@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-16T20:08:03+00:00",
-  "as_of_local": "2026-09-16 20:08:03 UTC",
+  "as_of_utc": "2026-09-16T20:12:56+00:00",
+  "as_of_local": "2026-09-16 20:12:56 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -13,6 +13,12 @@
       "market_cap": 671557491423.7427,
       "headlines": [
         {
+          "title": "Sector Update: Energy Stocks Fall Late Afternoon",
+          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-fall-afternoon-200001097.html",
+          "publisher": "MT Newswires",
+          "published": "2026-09-16T20:00:01Z"
+        },
+        {
           "title": "Sector Update: Energy Stocks Fall in Afternoon Trading",
           "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-fall-afternoon-180100130.html",
           "publisher": "MT Newswires",
@@ -23,12 +29,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/chevron-doesn-t-oil-hit-173012308.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-09-16T17:30:12Z"
-        },
-        {
-          "title": "Will ExxonMobil's Guyana & Permian Assets Power Its Upstream Business?",
-          "url": "https://finance.yahoo.com/energy/articles/exxonmobils-guyana-permian-assets-power-150600361.html",
-          "publisher": "Zacks",
-          "published": "2026-09-16T15:06:00Z"
         }
       ]
     },
@@ -126,7 +126,7 @@
       "headlines": [
         {
           "title": "France: TotalEnergies cut-price fuel spikes controversy among rivals",
-          "url": "https://finance.yahoo.com/energy/articles/france-totalenergies-cut-price-fuel-160054566.html",
+          "url": "https://finance.yahoo.com/video/france-totalenergies-cut-price-fuel-160054752.html",
           "publisher": "Euronews",
           "published": "2026-09-16T16:00:54Z"
         },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 101.95,
-      "change_pct": -3.67
+      "price": 102.28,
+      "change_pct": -3.35
     },
     {
       "label": "Brent",
-      "price": 105.38,
-      "change_pct": -3.1
+      "price": 105.75,
+      "change_pct": -2.76
     },
     {
       "label": "NatGas",
       "price": 2.89,
-      "change_pct": -1.1
+      "change_pct": -0.99
     }
   ]
 }
