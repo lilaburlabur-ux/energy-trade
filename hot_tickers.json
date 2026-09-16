@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-16T18:14:43+00:00",
+  "as_of": "2026-09-16T18:19:53+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,17 +11,33 @@
    "rank": 1,
    "ticker": "FANG",
    "company": "Diamondback Energy, Inc.",
-   "move_pct": -6.92,
-   "price": 196.9,
-   "volume": 9846734,
+   "move_pct": -6.77,
+   "price": 197.21,
+   "volume": 10057821,
    "volume_vs_avg": "~5x",
    "heat_score": 51,
    "direction": "down",
-   "why": "Moving down 6.9% on ~5x average volume with no fresh headline this cycle \u2014 attention without a story.",
+   "why": "Moving down 6.8% on ~5x average volume with no fresh headline this cycle \u2014 attention without a story.",
    "catalyst_type": "no_news_mover",
    "source_url": "",
    "published": "",
    "sector": "Shale & E&P"
+  },
+  {
+   "rank": 2,
+   "ticker": "GEV",
+   "company": "GE Vernova Inc.",
+   "move_pct": 5.56,
+   "price": 931.92,
+   "volume": 2296315,
+   "volume_vs_avg": "~1.2x",
+   "heat_score": 40,
+   "direction": "up",
+   "why": "GE Vernova Climbs 5% as CEO Sees Backlog Hitting $200B Early; Eaton and Quanta Services Edge Higher",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-climbs-5-ceo-175610084.html",
+   "published": "2026-09-16T17:56:10Z",
+   "sector": "Grid, Storage & Electrification"
   }
  ]
 }
