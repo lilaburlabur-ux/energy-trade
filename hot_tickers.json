@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-16T23:04:41+00:00",
+  "as_of": "2026-09-16T23:05:17+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -89,22 +89,6 @@
   },
   {
    "rank": 6,
-   "ticker": "DVN",
-   "company": "Devon Energy Corporation",
-   "move_pct": -5.59,
-   "price": 48.46,
-   "volume": 14976497,
-   "volume_vs_avg": "~1.4x",
-   "heat_score": 42,
-   "direction": "down",
-   "why": "Devon Energy (DVN) Declines More Than Market: Some Information for Investors",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/devon-energy-dvn-declines-more-215003296.html",
-   "published": "2026-09-16T21:50:03Z",
-   "sector": "Shale & E&P"
-  },
-  {
-   "rank": 7,
    "ticker": "APA",
    "company": "APA Corporation",
    "move_pct": -5.29,
@@ -117,6 +101,22 @@
    "catalyst_type": "momentum_narrative",
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/heres-why-apa-apa-fell-221502110.html",
    "published": "2026-09-16T22:15:02Z",
+   "sector": "Shale & E&P"
+  },
+  {
+   "rank": 7,
+   "ticker": "DVN",
+   "company": "Devon Energy Corporation",
+   "move_pct": -5.49,
+   "price": 48.51,
+   "volume": 14976497,
+   "volume_vs_avg": "~1.4x",
+   "heat_score": 41,
+   "direction": "down",
+   "why": "Devon Energy (DVN) Declines More Than Market: Some Information for Investors",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/devon-energy-dvn-declines-more-215003296.html",
+   "published": "2026-09-16T21:50:03Z",
    "sector": "Shale & E&P"
   },
   {
