@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-09-16T03:26:13+00:00",
-  "as_of_local": "2026-09-16 03:26:13 UTC",
+  "as_of_utc": "2026-09-16T03:40:52+00:00",
+  "as_of_local": "2026-09-16 03:40:52 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "FSLR"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1239,6 +1237,34 @@
       ]
     },
     {
+      "symbol": "FSLR",
+      "name": "First Solar",
+      "price": 202.34,
+      "previous_close": 207.04,
+      "change_pct": -2.27,
+      "market_cap": 21745436510.35388,
+      "headlines": [
+        {
+          "title": "First Solar (FSLR) Gets Bullish Coverage Despite Recent Stock Weakness",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/first-solar-fslr-gets-bullish-224337468.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-09-11T22:43:37Z"
+        },
+        {
+          "title": "First Solar (FSLR) Gains As Market Dips: What You Should Know",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/first-solar-fslr-gains-market-214504227.html",
+          "publisher": "Zacks",
+          "published": "2026-09-10T21:45:04Z"
+        },
+        {
+          "title": "'Clean' Energy And Tech Spending Slides 17%. New Report Blames China, But Doesn't Tell The Whole Story.",
+          "url": "https://www.investors.com/news/clean-energy-stocks-clean-investment-slides-17-percent-blames-china/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-09-10T17:28:30Z"
+        }
+      ]
+    },
+    {
       "symbol": "PR",
       "name": "Permian Resources",
       "price": 24.49,
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 104.36,
-      "change_pct": 2.93
+      "price": 104.61,
+      "change_pct": 3.18
     },
     {
       "label": "Brent",
-      "price": 107.6,
-      "change_pct": 1.82
+      "price": 107.83,
+      "change_pct": 2.03
     },
     {
       "label": "NatGas",
-      "price": 2.93,
-      "change_pct": 1.28
+      "price": 2.92,
+      "change_pct": 0.93
     }
   ]
 }
