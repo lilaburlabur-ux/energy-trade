@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-16T20:18:06+00:00",
-  "as_of_local": "2026-09-16 20:18:06 UTC",
+  "as_of_utc": "2026-09-16T20:19:35+00:00",
+  "as_of_local": "2026-09-16 20:19:35 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -35,10 +35,10 @@
     {
       "symbol": "CVX",
       "name": "Chevron",
-      "price": 211.52,
+      "price": 211.54,
       "previous_close": 217.77,
-      "change_pct": -2.87,
-      "market_cap": 414918332897.3534,
+      "change_pct": -2.86,
+      "market_cap": 414957543412.0161,
       "headlines": [
         {
           "title": "Two Low-Profile AI Data-Center Innovators That Investors Should Watch",
@@ -629,6 +629,12 @@
       "market_cap": 77620689848.98857,
       "headlines": [
         {
+          "title": "Stocks Supported by Lower Oil Prices and Strength in US Retail Sales",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-supported-lower-oil-prices-140636535.html",
+          "publisher": "Barchart",
+          "published": "2026-09-16T14:06:36Z"
+        },
+        {
           "title": "1 S&P 500 Stock Worth Your Attention and 2 We Turn Down",
           "url": "https://finance.yahoo.com/markets/stocks/articles/1-p-500-stock-worth-093949978.html",
           "publisher": "StockStory",
@@ -639,12 +645,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-slb-stock-slumped-today-220238220.html",
           "publisher": "Motley Fool",
           "published": "2026-09-14T22:02:38Z"
-        },
-        {
-          "title": "SLB (SLB) Registers a Bigger Fall Than the Market: Important Facts to Note",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/slb-slb-registers-bigger-fall-220006813.html",
-          "publisher": "Zacks",
-          "published": "2026-09-10T22:00:06Z"
         }
       ]
     },
@@ -1930,8 +1930,8 @@
           "name": "Chevron Corp",
           "short": "Chevron",
           "weight_pct": 14.89,
-          "change_pct": -2.87,
-          "price": 211.52,
+          "change_pct": -2.86,
+          "price": 211.54,
           "currency": "USD"
         },
         {
@@ -2029,8 +2029,8 @@
         "name": "Chevron Corp",
         "short": "Chevron",
         "weight_pct": 14.89,
-        "change_pct": -2.87,
-        "price": 211.52,
+        "change_pct": -2.86,
+        "price": 211.54,
         "currency": "USD"
       },
       {
@@ -2115,8 +2115,8 @@
     },
     {
       "label": "WTI",
-      "price": 102.1,
-      "change_pct": -3.52
+      "price": 102.02,
+      "change_pct": -3.6
     },
     {
       "label": "Brent",
@@ -2126,7 +2126,7 @@
     {
       "label": "NatGas",
       "price": 2.89,
-      "change_pct": -0.96
+      "change_pct": -1.06
     }
   ]
 }
