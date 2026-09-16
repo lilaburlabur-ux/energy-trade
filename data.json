@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-16T11:04:00+00:00",
-  "as_of_local": "2026-09-16 11:04:00 UTC",
+  "as_of_utc": "2026-09-16T11:09:01+00:00",
+  "as_of_local": "2026-09-16 11:09:01 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -1273,6 +1273,12 @@
       "market_cap": 20511771448.508408,
       "headlines": [
         {
+          "title": "Permian Resources Corp's Dividend Analysis",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/permian-resources-corps-dividend-analysis-110522136.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-09-16T11:05:22Z"
+        },
+        {
           "title": "1 Value Stock with Exciting Potential and 2 We Brush Off",
           "url": "https://finance.yahoo.com/markets/stocks/articles/1-value-stock-exciting-potential-194318059.html",
           "publisher": "StockStory",
@@ -1283,12 +1289,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/permian-resources-pr-17-1-153022360.html",
           "publisher": "Zacks",
           "published": "2026-09-04T15:30:22Z"
-        },
-        {
-          "title": "Here Are Thursday\u2019s Top Wall Street Analyst Research Calls: Broadcom, Deere & Company, Dell Technologies, Devon Energy, Moderna, Permian Resources, PG&E, Thermo Fisher, Viper Energy, and More",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/thursday-top-wall-street-analyst-120546364.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-09-03T12:05:46Z"
         }
       ]
     },
@@ -1693,6 +1693,12 @@
       "market_cap": 3459583795.700943,
       "headlines": [
         {
+          "title": "Wall Street sounds alarm on nuclear stock with 40% downside",
+          "url": "https://finance.yahoo.com/energy/articles/wall-street-sounds-alarm-nuclear-110300612.html",
+          "publisher": "TheStreet",
+          "published": "2026-09-16T11:03:00Z"
+        },
+        {
           "title": "Is NuScale Power (SMR) Facing A Bigger Threat From Costs And Customer Delays?",
           "url": "https://finance.yahoo.com/energy/articles/nuscale-power-smr-facing-bigger-091209183.html",
           "publisher": "Simply Wall St.",
@@ -1703,12 +1709,6 @@
           "url": "https://finance.yahoo.com/energy/articles/europe-bets-big-small-modular-193800592.html",
           "publisher": "Motley Fool",
           "published": "2026-09-15T19:38:00Z"
-        },
-        {
-          "title": "Why UBS Just Turned Bearish on NuScale Power Stock",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-ubs-just-turned-bearish-184337599.html",
-          "publisher": "Barchart",
-          "published": "2026-09-15T18:43:37Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 103.74,
-      "change_pct": -1.97
+      "price": 103.69,
+      "change_pct": -2.02
     },
     {
       "label": "Brent",
-      "price": 107.64,
-      "change_pct": -1.02
+      "price": 107.58,
+      "change_pct": -1.08
     },
     {
       "label": "NatGas",
       "price": 2.93,
-      "change_pct": 0.38
+      "change_pct": 0.24
     }
   ]
 }
