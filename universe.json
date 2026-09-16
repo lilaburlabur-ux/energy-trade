@@ -1,7 +1,7 @@
 {
  "meta": {
   "source": "Energy Trade curated universe (seed_energy_universe.py)",
-  "as_of": "2026-09-16 01:04 UTC",
+  "as_of": "2026-09-16 01:15 UTC",
   "total_tickers": 68,
   "min_bubble_size": 7,
   "render_spec": {
@@ -18,8 +18,8 @@
    "label": "Oil & Gas Majors",
    "color": "#E8A33D",
    "count": 8,
-   "total_market_cap_b": 2048.14,
-   "avg_change_pct": -0.59,
+   "total_market_cap_b": 2055.05,
+   "avg_change_pct": -0.2,
    "industries_included": [
     "Oil & Gas E&P",
     "Oil & Gas Integrated"
@@ -133,11 +133,11 @@
      "sector": "Energy",
      "industry": "Oil & Gas Integrated",
      "country": "United Kingdom",
-     "market_cap_b": 266.61,
+     "market_cap_b": 273.52,
      "pe": 10.95,
-     "price": 96.45,
-     "change_pct": -0.33,
-     "volume": 4718154,
+     "price": 98.95,
+     "change_pct": 2.59,
+     "volume": 4717657,
      "perf": {
       "1W": 3.8,
       "1M": 9.4,
@@ -435,7 +435,7 @@
     }
    ],
    "median_change_pct": -0.53,
-   "pe_hm": 16.8
+   "pe_hm": 16.7
   },
   {
    "id": "shale_ep",

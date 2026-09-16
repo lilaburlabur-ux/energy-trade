@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-09-16T01:04:06+00:00",
-  "as_of_local": "2026-09-16 01:04:06 UTC",
+  "as_of_utc": "2026-09-16T01:15:14+00:00",
+  "as_of_local": "2026-09-16 01:15:14 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "BWXT"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -63,10 +65,10 @@
     {
       "symbol": "SHEL",
       "name": "Shell",
-      "price": 96.45,
-      "previous_close": 96.77,
-      "change_pct": -0.33,
-      "market_cap": 282938333534.5,
+      "price": 98.95,
+      "previous_close": 96.45,
+      "change_pct": 2.59,
+      "market_cap": 282819337436.9518,
       "headlines": [
         {
           "title": "Shell (SHEL) Ascends While Market Falls: Some Facts to Note",
@@ -318,7 +320,7 @@
       "price": 44.54,
       "previous_close": 44.8,
       "change_pct": -0.58,
-      "market_cap": 108516511611.75,
+      "market_cap": 108485353299.75,
       "headlines": [
         {
           "title": "European Equities Traded in the US as American Depositary Receipts Decline in Tuesday Trading",
@@ -1360,7 +1362,7 @@
           "title": "Dow Jones Futures Rise As ServiceNow, Twilio Lead 8 New Buys; How Will Bonds React To Fed Hike?",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-nasdaq-how-will-bonds-react-to-fed-rate-hike/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
-          "published": "2026-09-16T00:58:22Z"
+          "published": "2026-09-16T01:09:18Z"
         },
         {
           "title": "Riley Exploration Permian, Atlas Energy Solutions, Texas Pacific Land, APA Corporation, and Murphy Oil Shares Skyrocket, What You Need To Know",
@@ -1401,34 +1403,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-outpaces-industry-month-132900695.html",
           "publisher": "Zacks",
           "published": "2026-09-08T13:29:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "BWXT",
-      "name": "BWX Technologies",
-      "price": 148.53,
-      "previous_close": 150.12,
-      "change_pct": -1.06,
-      "market_cap": 13440944465.999998,
-      "headlines": [
-        {
-          "title": "Jim Cramer Favors BWX Technologies (BWXT) Over Cameco (CCJ)",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-favors-bwx-technologies-212632352.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-09-15T21:26:32Z"
-        },
-        {
-          "title": "This Stock Can Rise 150%, Plus 12 More Aerospace Buys",
-          "url": "https://www.barrons.com/articles/defense-stock-buys-guggenheim-northrop-grumman-8b568e43?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-09-15T15:57:00Z"
-        },
-        {
-          "title": "Can BWXT's Canadian Lab Role Strengthen Nuclear Services Growth?",
-          "url": "https://finance.yahoo.com/energy/articles/bwxts-canadian-lab-role-strengthen-142700236.html",
-          "publisher": "Zacks",
-          "published": "2026-09-10T14:27:00Z"
         }
       ]
     },
@@ -1691,26 +1665,7 @@
       "previous_close": 8.61,
       "change_pct": -1.16,
       "market_cap": 3459583670.46,
-      "headlines": [
-        {
-          "title": "Europe Bets Big on Small Modular Reactors. Here's How NuScale Power and Oklo Will Benefit.",
-          "url": "https://finance.yahoo.com/energy/articles/europe-bets-big-small-modular-193800592.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-15T19:38:00Z"
-        },
-        {
-          "title": "Why UBS Just Turned Bearish on NuScale Power Stock",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-ubs-just-turned-bearish-184337599.html",
-          "publisher": "Barchart",
-          "published": "2026-09-15T18:43:37Z"
-        },
-        {
-          "title": "A Word of Caution on NuScale Power Before You Buy the Dip",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/word-caution-nuscale-power-buy-165000043.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-15T16:50:00Z"
-        }
-      ]
+      "headlines": []
     },
     {
       "symbol": "UUUU",
@@ -2115,18 +2070,18 @@
     },
     {
       "label": "WTI",
-      "price": 105.11,
-      "change_pct": 3.67
+      "price": 104.98,
+      "change_pct": 3.54
     },
     {
       "label": "Brent",
-      "price": 108.23,
-      "change_pct": 2.41
+      "price": 108.1,
+      "change_pct": 2.29
     },
     {
       "label": "NatGas",
       "price": 2.93,
-      "change_pct": 1.35
+      "change_pct": 1.31
     }
   ]
 }
