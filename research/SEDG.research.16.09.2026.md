@@ -36,10 +36,10 @@ SolarEdge Technologies, Inc., together with its subsidiaries, operates as an ene
 
 | Headline | Source | Date |
 |---|---|---|
+| Is Infineon’s 800 VDC AI Data Center Breaker Role Altering The Investment Case For Infineon Technologies (XTRA:IFX)? | Simply Wall St. | 2026-09-16 |
 | Q2 Rundown: SolarEdge (NASDAQ:SEDG) Vs Other Renewable Energy Stocks | StockStory | 2026-09-16 |
 | SolarEdge’s (SEDG) 800 Volt Data Center Push Just Got Real | Insider Monkey | 2026-09-16 |
 | SolarEdge Targets $2.4B by 2029, Bets on AI Data Center Power Growth | MarketBeat | 2026-09-13 |
-| SolarEdge Technologies (SEDG) Stock Sinks As Market Gains: What You Should Know | Zacks | 2026-09-11 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

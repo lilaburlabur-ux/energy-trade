@@ -68,7 +68,7 @@ Halliburton Company provides products and services to the energy industry worldw
 | Revenue (ttm) | $22.37B | Revenue growth 3.70% y/y |
 | Profitability | Gross 15.08%, operating 12.79%, net 7.16% | ROA 7.26%, ROE 14.92% |
 | Balance sheet | Cash $2.05B, debt $8.20B | Current ratio 2.02, debt/equity 74.19 |
-| Valuation | P/E 18.07, forward P/E 11.89, P/S 1.29, P/B 2.61 | EV/Sales 1.60, EV/EBITDA 8.68 |
+| Valuation | P/E 18.65, forward P/E 11.89, P/S 1.29, P/B 2.61 | EV/Sales 1.60, EV/EBITDA 8.68 |
 | Growth expectations | Earnings growth 16.10%, EPS q/q 13.10% | Analyst mean target $43.24 (25 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -121,7 +121,7 @@ Halliburton Company provides products and services to the energy industry worldw
 | SMA200 dist | -0.97% | Revenue (ttm) | $22.37B |
 | 52W high | $42.60 | Revenue growth y/y | 3.70% |
 | 52W low | $21.39 | Inst. ownership | 90.43% |
-| P/E (ttm) | 18.07 | Insider ownership | 0.40% |
+| P/E (ttm) | 18.65 | Insider ownership | 0.40% |
 | Forward P/E | 11.89 | Short float | 5.57% |
 | PEG (trailing) | 0.74 | Avg volume | 11,616,632 |
 | P/S | 1.29 | Employees | 46,000 |

@@ -18,7 +18,7 @@ Signed file: `SHEL.research.16.09.2026`
 | Technical momentum | Moderate | 1Y +38.50%; price +15.79% vs SMA200. |
 | Fresh setup quality | Watch | -3.28% from 52w high and near SMA20 — check for a tight base. |
 | Fundamental quality | Mixed | Profit margin 8.76%, revenue growth 44.70%. |
-| Value attractiveness | Reasonable | Forward P/E 9.26, EV/Sales 1.07. |
+| Value attractiveness | Reasonable | Forward P/E 9.26, EV/Sales 1.04. |
 | Risk level | Moderate | Beta -0.22, ATR 1.8% of price, short float 1.54%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -36,10 +36,10 @@ Shell plc operates as an energy and petrochemical company in Europe, Asia, Ocean
 
 | Headline | Source | Date |
 |---|---|---|
+| T Mobile US (TMUS) Sets Up A Long Term CFO Succession Plan | Simply Wall St. | 2026-09-16 |
 | Shell Falls 2.5% as 36 Million Missing Tons Reprice LNG Demand | GuruFocus.com | 2026-09-16 |
 | European Equities Traded in US as ADRs Rise in Wednesday Trading | MT Newswires | 2026-09-16 |
 | Europe’s Fortune 500 2026: Record revenue, shrinking margins, and a new No. 1 country | Fortune | 2026-09-16 |
-| Shell and Constellation Energy Strike a $715 Million Power Deal | Insider Monkey | 2026-09-16 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ Shell plc operates as an energy and petrochemical company in Europe, Asia, Ocean
 | Revenue (ttm) | $296.60B | Revenue growth 44.70% y/y |
 | Profitability | Gross 26.09%, operating 16.69%, net 8.76% | ROA 6.40%, ROE 14.34% |
 | Balance sheet | Cash $31.37B, debt $73.08B | Current ratio 1.44, debt/equity 40.20 |
-| Valuation | P/E 10.59, forward P/E 9.26, P/S 0.92, P/B 1.47 | EV/Sales 1.07, EV/EBITDA 5.53 |
+| Valuation | P/E 10.59, forward P/E 9.26, P/S 0.92, P/B 1.47 | EV/Sales 1.04, EV/EBITDA 5.37 |
 | Growth expectations | Earnings growth 220.00%, EPS q/q 200.50% | Analyst mean target $100.35 (15 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -110,8 +110,8 @@ Shell plc operates as an energy and petrochemical company in Europe, Asia, Ocean
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $95.70 | EV/Sales | 1.07 |
-| Market cap | $273.53B | EV/EBITDA | 5.53 |
+| Price | $95.70 | EV/Sales | 1.04 |
+| Market cap | $273.53B | EV/EBITDA | 5.37 |
 | Beta | -0.22 | Gross margin | 26.09% |
 | RSI(14) | 59.5 | Operating margin | 16.69% |
 | ATR(14) | 1.70 | Profit margin | 8.76% |
