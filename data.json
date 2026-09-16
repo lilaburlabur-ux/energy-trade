@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-09-16T03:10:46+00:00",
-  "as_of_local": "2026-09-16 03:10:46 UTC",
+  "as_of_utc": "2026-09-16T03:26:13+00:00",
+  "as_of_local": "2026-09-16 03:26:13 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "FSLR"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -263,7 +265,26 @@
       "previous_close": 396.45,
       "change_pct": 3.63,
       "market_cap": 115374044602.509,
-      "headlines": []
+      "headlines": [
+        {
+          "title": "Stocks to Watch Recap: UBS, Vera Bradley, Dave & Buster\u2019s, Coinbase",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-15-2026/card/stocks-to-watch-ubs-dave-buster-s-coinbase-jtr1rDqgMUIB3BssUa1U?siteid=yhoof2&yptr=yahoo",
+          "publisher": "The Wall Street Journal",
+          "published": "2026-09-15T21:25:47Z"
+        },
+        {
+          "title": "Sunoco Stock Breaks Out; Oil Prices Rise With No Clear End To Hormuz Closure",
+          "url": "https://www.investors.com/news/sunoco-oil-prices-stocks-iran-war-hormuz/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-09-15T18:19:37Z"
+        },
+        {
+          "title": "Will UK interest rates fall in 2026?",
+          "url": "https://finance.yahoo.com/economy/policy/articles/uk-interest-rates-fall-2026-160348987.html",
+          "publisher": "Moneyweek",
+          "published": "2026-09-15T15:53:30Z"
+        }
+      ]
     },
     {
       "symbol": "VLO",
@@ -1218,34 +1239,6 @@
       ]
     },
     {
-      "symbol": "FSLR",
-      "name": "First Solar",
-      "price": 202.34,
-      "previous_close": 207.04,
-      "change_pct": -2.27,
-      "market_cap": 21745436510.35388,
-      "headlines": [
-        {
-          "title": "First Solar (FSLR) Gets Bullish Coverage Despite Recent Stock Weakness",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/first-solar-fslr-gets-bullish-224337468.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-09-11T22:43:37Z"
-        },
-        {
-          "title": "First Solar (FSLR) Gains As Market Dips: What You Should Know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/first-solar-fslr-gains-market-214504227.html",
-          "publisher": "Zacks",
-          "published": "2026-09-10T21:45:04Z"
-        },
-        {
-          "title": "'Clean' Energy And Tech Spending Slides 17%. New Report Blames China, But Doesn't Tell The Whole Story.",
-          "url": "https://www.investors.com/news/clean-energy-stocks-clean-investment-slides-17-percent-blames-china/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-09-10T17:28:30Z"
-        }
-      ]
-    },
-    {
       "symbol": "PR",
       "name": "Permian Resources",
       "price": 24.49,
@@ -1341,7 +1334,7 @@
           "title": "Dow Jones Futures Rise As ServiceNow, Twilio Lead 8 New Buys; How Will Bonds React To Fed Hike?",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-nasdaq-how-will-bonds-react-to-fed-rate-hike/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
-          "published": "2026-09-16T02:52:55Z"
+          "published": "2026-09-16T03:14:33Z"
         },
         {
           "title": "Riley Exploration Permian, Atlas Energy Solutions, Texas Pacific Land, APA Corporation, and Murphy Oil Shares Skyrocket, What You Need To Know",
@@ -2096,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 104.66,
-      "change_pct": 3.23
+      "price": 104.36,
+      "change_pct": 2.93
     },
     {
       "label": "Brent",
-      "price": 107.89,
-      "change_pct": 2.09
+      "price": 107.6,
+      "change_pct": 1.82
     },
     {
       "label": "NatGas",
       "price": 2.93,
-      "change_pct": 1.21
+      "change_pct": 1.28
     }
   ]
 }
