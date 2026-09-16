@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-16T22:34:59+00:00",
-  "as_of_local": "2026-09-16 22:34:59 UTC",
+  "as_of_utc": "2026-09-16T22:39:56+00:00",
+  "as_of_local": "2026-09-16 22:39:56 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -150,7 +150,7 @@
       "price": 80.37,
       "previous_close": 81.07,
       "change_pct": -0.86,
-      "market_cap": 167650074386.64026,
+      "market_cap": 167620108350.74622,
       "headlines": [
         {
           "title": "CEG Stock Trails Industry in 6 Months: Should You Buy, Hold or Sell?",
@@ -206,7 +206,7 @@
       "price": 397.8,
       "previous_close": 392.4,
       "change_pct": 1.38,
-      "market_cap": 154505515258.78906,
+      "market_cap": 154465735260.00977,
       "headlines": [
         {
           "title": "Eaton (ETN) Advances While Market Declines: Some Information for Investors",
@@ -225,6 +225,34 @@
           "url": "https://finance.yahoo.com/markets/options/articles/paid-while-eaton-finishes-factories-023716247.html",
           "publisher": "Trefis",
           "published": "2026-09-16T02:37:16Z"
+        }
+      ]
+    },
+    {
+      "symbol": "MPC",
+      "name": "Marathon Petroleum",
+      "price": 413.92,
+      "previous_close": 410.84,
+      "change_pct": 0.75,
+      "market_cap": 120838415879.24759,
+      "headlines": [
+        {
+          "title": "This ETF Should Rise as Interest Rates Go Up. Is It Too Late to Get In on the Fun Now?",
+          "url": "https://www.barrons.com/articles/etf-federal-reserve-interest-rates-5f58f767?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-09-16T06:00:00Z"
+        },
+        {
+          "title": "Stocks to Watch Recap: UBS, Vera Bradley, Dave & Buster\u2019s, Coinbase",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-15-2026/card/stocks-to-watch-ubs-dave-buster-s-coinbase-jtr1rDqgMUIB3BssUa1U?siteid=yhoof2&yptr=yahoo",
+          "publisher": "The Wall Street Journal",
+          "published": "2026-09-15T21:25:47Z"
+        },
+        {
+          "title": "Sunoco Stock Breaks Out; Oil Prices Rise With No Clear End To Hormuz Closure",
+          "url": "https://www.investors.com/news/sunoco-oil-prices-stocks-iran-war-hormuz/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-09-15T18:19:37Z"
         }
       ]
     },
@@ -257,34 +285,6 @@
       ]
     },
     {
-      "symbol": "MPC",
-      "name": "Marathon Petroleum",
-      "price": 413.92,
-      "previous_close": 410.84,
-      "change_pct": 0.75,
-      "market_cap": 116238989671.80032,
-      "headlines": [
-        {
-          "title": "Diesel Price Predictions: How Much Higher Prices Can Go as Diesel Prices Top Record $6 Per Gallon",
-          "url": "https://finance.yahoo.com/energy/articles/diesel-price-predictions-much-higher-161226017.html",
-          "publisher": "Barchart",
-          "published": "2026-09-16T16:12:26Z"
-        },
-        {
-          "title": "This ETF Should Rise as Interest Rates Go Up. Is It Too Late to Get In on the Fun Now?",
-          "url": "https://www.barrons.com/articles/etf-federal-reserve-interest-rates-5f58f767?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-09-16T06:00:00Z"
-        },
-        {
-          "title": "Stocks to Watch Recap: UBS, Vera Bradley, Dave & Buster\u2019s, Coinbase",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-15-2026/card/stocks-to-watch-ubs-dave-buster-s-coinbase-jtr1rDqgMUIB3BssUa1U?siteid=yhoof2&yptr=yahoo",
-          "publisher": "The Wall Street Journal",
-          "published": "2026-09-15T21:25:47Z"
-        }
-      ]
-    },
-    {
       "symbol": "VLO",
       "name": "Valero Energy",
       "price": 403.28,
@@ -299,16 +299,16 @@
           "published": "2026-09-16T22:00:06Z"
         },
         {
-          "title": "Diesel Price Predictions: How Much Higher Prices Can Go as Diesel Prices Top Record $6 Per Gallon",
-          "url": "https://finance.yahoo.com/energy/articles/diesel-price-predictions-much-higher-161226017.html",
-          "publisher": "Barchart",
-          "published": "2026-09-16T16:12:26Z"
-        },
-        {
           "title": "Valero Energy (VLO) is a Great Momentum Stock: Should You Buy?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/valero-energy-vlo-great-momentum-160003692.html",
           "publisher": "Zacks",
           "published": "2026-09-16T16:00:03Z"
+        },
+        {
+          "title": "Can Crude Flexibility and Gulf Coast Exposure Aid VLO's Outlook?",
+          "url": "https://finance.yahoo.com/energy/articles/crude-flexibility-gulf-coast-exposure-154800923.html",
+          "publisher": "Zacks",
+          "published": "2026-09-16T15:48:00Z"
         }
       ]
     },
@@ -321,12 +321,6 @@
       "market_cap": 105592906949.42432,
       "headlines": [
         {
-          "title": "Diesel Price Predictions: How Much Higher Prices Can Go as Diesel Prices Top Record $6 Per Gallon",
-          "url": "https://finance.yahoo.com/energy/articles/diesel-price-predictions-much-higher-161226017.html",
-          "publisher": "Barchart",
-          "published": "2026-09-16T16:12:26Z"
-        },
-        {
           "title": "Phillips 66 (PSX) Faces Bayway Labor Questions, Is The Stock Now Too Expensive?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/phillips-66-psx-faces-bayway-021146923.html",
           "publisher": "Simply Wall St.",
@@ -337,6 +331,12 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/phillips-66-psx-rises-market-221504218.html",
           "publisher": "Zacks",
           "published": "2026-09-15T22:15:04Z"
+        },
+        {
+          "title": "Sunoco Stock Breaks Out; Oil Prices Rise With No Clear End To Hormuz Closure",
+          "url": "https://www.investors.com/news/sunoco-oil-prices-stocks-iran-war-hormuz/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-09-15T18:19:37Z"
         }
       ]
     },
@@ -654,7 +654,7 @@
       "price": 144.93,
       "previous_close": 153.74,
       "change_pct": -5.73,
-      "market_cap": 76020009635.91357,
+      "market_cap": 77193848951.81213,
       "headlines": [
         {
           "title": "Oil Producers Slide as Crude Retreats: EOG Resources Drops 6%, ConocoPhillips and Occidental Petroleum Fall 5%",
@@ -822,8 +822,14 @@
       "price": 92.7,
       "previous_close": 94.72,
       "change_pct": -2.13,
-      "market_cap": 58435266207.164444,
+      "market_cap": 58404043457.69232,
       "headlines": [
+        {
+          "title": "ONEOK (OKE) Completed Its Corporate Reorganization On September 10",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/oneok-oke-completed-corporate-reorganization-221413626.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-09-16T22:14:13Z"
+        },
         {
           "title": "ONEOK (OKE) Stock May Be 46% Undervalued Following Debt Tender Pricing",
           "url": "https://finance.yahoo.com/markets/stocks/articles/oneok-oke-stock-may-46-190825137.html",
@@ -835,12 +841,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/oneok-inc-oke-sees-more-221504085.html",
           "publisher": "Zacks",
           "published": "2026-09-15T22:15:04Z"
-        },
-        {
-          "title": "These 3 Pipeline Stocks Pay High Yields Without the K-1 Headache",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-pipeline-stocks-pay-high-121115255.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-09-14T12:11:15Z"
         }
       ]
     },
@@ -1074,7 +1074,7 @@
       "price": 70.39,
       "previous_close": 70.42,
       "change_pct": -0.04,
-      "market_cap": 35083785607.488556,
+      "market_cap": 35076843182.62875,
       "headlines": [
         {
           "title": "Public Service Enterprise Group CEO Sells 2,083 Shares",
@@ -1494,7 +1494,7 @@
       "price": 29.09,
       "previous_close": 28.81,
       "change_pct": 0.97,
-      "market_cap": 8730247246.1334,
+      "market_cap": 8822297868.12624,
       "headlines": [
         {
           "title": "3 Nuclear Energy Stocks to Buy Before 2026 Ends",
@@ -1606,7 +1606,7 @@
       "price": 82.3,
       "previous_close": 85.39,
       "change_pct": -3.62,
-      "market_cap": 5885446377.437622,
+      "market_cap": 5899712177.666611,
       "headlines": [
         {
           "title": "Solaris Energy Infrastructure, TETRA Technologies, SLB, and Weatherford Stocks Trade Down, What You Need To Know",
@@ -1662,7 +1662,7 @@
       "price": 35.56,
       "previous_close": 36.72,
       "change_pct": -3.16,
-      "market_cap": 4699063864.353058,
+      "market_cap": 4686744884.197311,
       "headlines": [
         {
           "title": "Enphase Energy (ENPH) Registers a Bigger Fall Than the Market: Important Facts to Note",
@@ -1718,7 +1718,7 @@
       "price": 11.73,
       "previous_close": 11.86,
       "change_pct": -1.1,
-      "market_cap": 3105793878.3562775,
+      "market_cap": 2932089335.5751038,
       "headlines": [
         {
           "title": "UEC Gears Up to Report Q4 Earnings: What's in Store for the Stock?",
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 101.94,
-      "change_pct": -3.68
+      "price": 101.91,
+      "change_pct": -3.7
     },
     {
       "label": "Brent",
-      "price": 105.58,
-      "change_pct": -2.91
+      "price": 105.52,
+      "change_pct": -2.97
     },
     {
       "label": "NatGas",
       "price": 2.89,
-      "change_pct": -0.92
+      "change_pct": -0.89
     }
   ]
 }
