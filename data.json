@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-16T09:32:35+00:00",
-  "as_of_local": "2026-09-16 09:32:35 UTC",
+  "as_of_utc": "2026-09-16T09:38:04+00:00",
+  "as_of_local": "2026-09-16 09:38:04 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -1693,6 +1693,12 @@
       "market_cap": 3459583795.700943,
       "headlines": [
         {
+          "title": "Is NuScale Power (SMR) Facing A Bigger Threat From Costs And Customer Delays?",
+          "url": "https://finance.yahoo.com/energy/articles/nuscale-power-smr-facing-bigger-091209183.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-09-16T09:12:09Z"
+        },
+        {
           "title": "Europe Bets Big on Small Modular Reactors. Here's How NuScale Power and Oklo Will Benefit.",
           "url": "https://finance.yahoo.com/energy/articles/europe-bets-big-small-modular-193800592.html",
           "publisher": "Motley Fool",
@@ -1703,12 +1709,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-ubs-just-turned-bearish-184337599.html",
           "publisher": "Barchart",
           "published": "2026-09-15T18:43:37Z"
-        },
-        {
-          "title": "A Word of Caution on NuScale Power Before You Buy the Dip",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/word-caution-nuscale-power-buy-165000043.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-15T16:50:00Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 104.81,
-      "change_pct": -0.96
+      "price": 104.48,
+      "change_pct": -1.28
     },
     {
       "label": "Brent",
-      "price": 108.41,
-      "change_pct": -0.31
+      "price": 108.02,
+      "change_pct": -0.67
     },
     {
       "label": "NatGas",
       "price": 2.92,
-      "change_pct": 0.0
+      "change_pct": 0.07
     }
   ]
 }
