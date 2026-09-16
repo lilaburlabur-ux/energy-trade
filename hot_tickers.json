@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-16T15:01:59+00:00",
+  "as_of": "2026-09-16T15:17:11+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,32 +11,16 @@
    "rank": 1,
    "ticker": "FANG",
    "company": "Diamondback Energy, Inc.",
-   "move_pct": -8.79,
-   "price": 192.94,
-   "volume": 5625745,
+   "move_pct": -9.15,
+   "price": 192.17,
+   "volume": 6069576,
    "volume_vs_avg": "~3x",
-   "heat_score": 56,
+   "heat_score": 58,
    "direction": "down",
-   "why": "Moving down 8.8% on ~3x average volume with no fresh headline this cycle \u2014 attention without a story.",
+   "why": "Moving down 9.2% on ~3x average volume with no fresh headline this cycle \u2014 attention without a story.",
    "catalyst_type": "no_news_mover",
    "source_url": "",
    "published": "",
-   "sector": "Shale & E&P"
-  },
-  {
-   "rank": 2,
-   "ticker": "PR",
-   "company": "Permian Resources Corporation",
-   "move_pct": -6.25,
-   "price": 22.96,
-   "volume": 3801815,
-   "volume_vs_avg": "~0.4x",
-   "heat_score": 39,
-   "direction": "down",
-   "why": "Permian Resources Corp's Dividend Analysis",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/permian-resources-corps-dividend-analysis-110522136.html",
-   "published": "2026-09-16T11:05:22Z",
    "sector": "Shale & E&P"
   }
  ]
