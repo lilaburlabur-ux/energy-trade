@@ -36,10 +36,10 @@ Enterprise Products Partners L.P. provides midstream energy services to producer
 
 | Headline | Source | Date |
 |---|---|---|
+| Enterprise Products Partners (EPD) Suffers a Larger Drop Than the General Market: Key Insights | Zacks | 2026-09-16 |
 | Investors Heavily Search Enterprise Products Partners L.P. (EPD): Here is What You Need to Know | Zacks | 2026-09-16 |
 | 5 Dividend Powerhouses Yielding Above 5% That Wall Street Still Backs | 24/7 Wall St. | 2026-09-12 |
 | 3 High-Yield Dividend Stocks Worth Loading Up On This Month | Motley Fool | 2026-09-12 |
-| Meet Wall Street’s 3 Safest High-Yield Dividend Stocks | 24/7 Wall St. | 2026-09-12 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

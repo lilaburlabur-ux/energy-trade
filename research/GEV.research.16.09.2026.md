@@ -36,10 +36,10 @@ GE Vernova Inc., an energy company, engages in the provision of various products
 
 | Headline | Source | Date |
 |---|---|---|
+| GE Vernova (GEV) Stock Is Up, What You Need To Know | StockStory | 2026-09-16 |
+| GEV Stock Jumps After GE Vernova CEO Touts This Milestone | Investor's Business Daily | 2026-09-16 |
 | GE Vernova rebounds 6% after earlier sell-off | Proactive | 2026-09-16 |
 | GE Vernova Climbs 5% as CEO Sees Backlog Hitting $200B Early; Eaton and Quanta Services Edge Higher | 24/7 Wall St. | 2026-09-16 |
-| Billionaire Harold Hamm Makes Deal to Explore for Venezuela Oil | Bloomberg | 2026-09-16 |
-| GEV Stock Gains After CEO Signals ‘Durable Demand’, Says 2030-2040 Could Be An ‘Even Better Decade’ | Stocktwits | 2026-09-16 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

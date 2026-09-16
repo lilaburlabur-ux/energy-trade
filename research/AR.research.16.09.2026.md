@@ -18,7 +18,7 @@ Signed file: `AR.research.16.09.2026`
 | Technical momentum | Low | Below SMA200 (-2.02%) with negative half-year (-13.25%). |
 | Fresh setup quality | Moderate / wait | -20.97% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 18.75%, revenue growth 12.60%. |
-| Value attractiveness | Reasonable | Forward P/E 8.34, EV/Sales —. |
+| Value attractiveness | Reasonable | Forward P/E 8.43, EV/Sales —. |
 | Risk level | Elevated | Beta 0.35, ATR 3.4% of price, short float 4.81%. |
 
 **Bottom line:** Low technical momentum, strong fundamentals, value: reasonable, risk: elevated.
@@ -68,7 +68,7 @@ Antero Resources Corporation, an independent oil and natural gas company, engage
 | Revenue (ttm) | $5.78B | Revenue growth 12.60% y/y |
 | Profitability | Gross 67.15%, operating 26.02%, net 18.75% | ROA 6.61%, ROE 14.22% |
 | Balance sheet | Cash —, debt $4.62B | Current ratio 0.40, debt/equity 55.49 |
-| Valuation | P/E 10.22, forward P/E 8.34, P/S 1.90, P/B 1.32 | EV/Sales —, EV/EBITDA — |
+| Valuation | P/E 10.22, forward P/E 8.43, P/S 1.90, P/B 1.32 | EV/Sales —, EV/EBITDA — |
 | Growth expectations | Earnings growth 79.90%, EPS q/q 78.00% | Analyst mean target $49.86 (21 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -121,7 +121,7 @@ Antero Resources Corporation, an independent oil and natural gas company, engage
 | 52W high | $45.15 | Revenue growth y/y | 12.60% |
 | 52W low | $30.03 | Inst. ownership | 91.48% |
 | P/E (ttm) | 10.22 | Insider ownership | 4.41% |
-| Forward P/E | 8.34 | Short float | 4.81% |
+| Forward P/E | 8.43 | Short float | 4.81% |
 | PEG (trailing) | 0.49 | Avg volume | 4,270,737 |
 | P/S | 1.90 | Employees | 632 |
 | P/B | 1.32 | Analyst rec (1=buy..5=sell) | 1.8 |

@@ -36,10 +36,10 @@ Diamondback Energy, Inc., an independent oil and natural gas company, acquires, 
 
 | Headline | Source | Date |
 |---|---|---|
+| Diamondback Energy, Permian Resources, APA Corporation, Viper Energy, and Comstock Resources Shares Are Falling, What You Need To Know | StockStory | 2026-09-16 |
 | Diamondback Energy (FANG) Gains As Market Dips: What You Should Know | Zacks | 2026-09-15 |
 | Bloom Energy vs. Diamondback Energy: Which Industrials Stock Is a Better Buy in 2026? | Motley Fool | 2026-09-15 |
 | Zacks Industry Outlook W&T Offshore, APA and Diamondback | Zacks | 2026-09-14 |
-| Is Diamondback Energy Stock Outperforming the Dow? | Barchart | 2026-09-11 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

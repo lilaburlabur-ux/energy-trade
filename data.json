@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-09-16T22:56:04+00:00",
-  "as_of_local": "2026-09-16 22:56:04 UTC",
+  "as_of_utc": "2026-09-16T23:00:13+00:00",
+  "as_of_local": "2026-09-16 23:00:13 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "NXE"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1575,6 +1573,34 @@
       ]
     },
     {
+      "symbol": "NXE",
+      "name": "NexGen Energy",
+      "price": 9.38,
+      "previous_close": 9.46,
+      "change_pct": -0.85,
+      "market_cap": 6289347304.113334,
+      "headlines": [
+        {
+          "title": "Powering the AI Boom: Uranium\u2019s $95 Spark",
+          "url": "https://finance.yahoo.com/energy/articles/powering-ai-boom-uranium-95-120500472.html",
+          "publisher": "MarketBeat",
+          "published": "2026-09-07T12:05:00Z"
+        },
+        {
+          "title": "NexGen Energy Targets 2030 First Ore as Rook I Eyes $1.3B Annual Cash Flow",
+          "url": "https://finance.yahoo.com/energy/articles/nexgen-energy-targets-2030-first-000245392.html",
+          "publisher": "MarketBeat",
+          "published": "2026-09-02T00:02:45Z"
+        },
+        {
+          "title": "Is BHP Group (BHP) the Missing Piece in NexGen Energy (NXE)\u2019s $1 Billion Financing Plan?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bhp-group-bhp-missing-piece-202645157.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-08-28T20:26:45Z"
+        }
+      ]
+    },
+    {
       "symbol": "WFRD",
       "name": "Weatherford",
       "price": 82.3,
@@ -2089,8 +2115,8 @@
     },
     {
       "label": "WTI",
-      "price": 101.95,
-      "change_pct": -3.67
+      "price": 101.97,
+      "change_pct": -3.65
     },
     {
       "label": "Brent",
@@ -2100,7 +2126,7 @@
     {
       "label": "NatGas",
       "price": 2.89,
-      "change_pct": -0.82
+      "change_pct": -0.86
     }
   ]
 }

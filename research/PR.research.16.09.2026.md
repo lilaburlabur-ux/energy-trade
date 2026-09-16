@@ -36,10 +36,10 @@ Permian Resources Corporation, an independent oil and natural gas company, focus
 
 | Headline | Source | Date |
 |---|---|---|
+| Diamondback Energy, Permian Resources, APA Corporation, Viper Energy, and Comstock Resources Shares Are Falling, What You Need To Know | StockStory | 2026-09-16 |
 | Permian Resources Corp's Dividend Analysis | GuruFocus.com | 2026-09-16 |
 | 1 Value Stock with Exciting Potential and 2 We Brush Off | StockStory | 2026-09-08 |
 | Permian Resources (PR) Up 17.1% Since Last Earnings Report: Can It Continue? | Zacks | 2026-09-04 |
-| Here Are Thursday’s Top Wall Street Analyst Research Calls: Broadcom, Deere & Company, Dell Technologies, Devon Energy, Moderna, Permian Resources, PG&E, Thermo Fisher, Viper Energy, and More | 24/7 Wall St. | 2026-09-03 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

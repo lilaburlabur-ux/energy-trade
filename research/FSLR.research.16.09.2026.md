@@ -36,10 +36,10 @@ First Solar, Inc., a solar technology company, provides photovoltaic (PV) solar 
 
 | Headline | Source | Date |
 |---|---|---|
+| First Solar (FSLR) Declines More Than Market: Some Information for Investors | Zacks | 2026-09-16 |
 | First Solar Retreats 5% After Dropping ITC Patent Case It Calls Procedural; Enphase Energy Slips, Sunrun Holds Steady | 24/7 Wall St. | 2026-09-16 |
 | Here is What to Know Beyond Why First Solar, Inc. (FSLR) is a Trending Stock | Zacks | 2026-09-16 |
 | First Solar (FSLR) Gets Bullish Coverage Despite Recent Stock Weakness | Insider Monkey | 2026-09-11 |
-| First Solar (FSLR) Gains As Market Dips: What You Should Know | Zacks | 2026-09-10 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

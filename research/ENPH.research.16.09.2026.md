@@ -36,10 +36,10 @@ Enphase Energy, Inc., together with its subsidiaries, designs, develops, manufac
 
 | Headline | Source | Date |
 |---|---|---|
+| Enphase Energy (ENPH) Registers a Bigger Fall Than the Market: Important Facts to Note | Zacks | 2026-09-16 |
 | First Solar Retreats 5% After Dropping ITC Patent Case It Calls Procedural; Enphase Energy Slips, Sunrun Holds Steady | 24/7 Wall St. | 2026-09-16 |
 | How Enphase’s New U.S.-Built IQ SST AI Data Center Modules Will Impact Enphase Energy (ENPH) Investors | Simply Wall St. | 2026-09-15 |
 | SolarEdge Falls 4% on Analyst Day Despite Joint NVIDIA 800 VDC Paper; Enphase Energy and First Solar Edge Higher | 24/7 Wall St. | 2026-09-10 |
-| Enphase Energy (ENPH) Sees a More Significant Dip Than Broader Market: Some Facts to Know | Zacks | 2026-09-09 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

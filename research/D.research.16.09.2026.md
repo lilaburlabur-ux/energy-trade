@@ -18,7 +18,7 @@ Signed file: `D.research.16.09.2026`
 | Technical momentum | Moderate | 1Y +9.32%; price +0.76% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -10.52% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 13.98%, revenue growth 17.60%. |
-| Value attractiveness | Reasonable | Forward P/E 16.65, EV/Sales 6.37. |
+| Value attractiveness | Reasonable | Forward P/E 16.65, EV/Sales 6.36. |
 | Risk level | Moderate | Beta 0.62, ATR 1.7% of price, short float 3.09%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -68,7 +68,7 @@ Dominion Energy, Inc. provides regulated electricity and natural gas services in
 | Revenue (ttm) | $18.12B | Revenue growth 17.60% y/y |
 | Profitability | Gross 46.22%, operating 29.22%, net 13.98% | ROA 3.04%, ROE 8.28% |
 | Balance sheet | Cash $298.00M, debt $53.93B | Current ratio 0.81, debt/equity 160.46 |
-| Valuation | P/E 21.98, forward P/E 16.65, P/S 3.08, P/B 2.00 | EV/Sales 6.37, EV/EBITDA 13.85 |
+| Valuation | P/E 21.98, forward P/E 16.65, P/S 3.08, P/B 2.00 | EV/Sales 6.36, EV/EBITDA 13.81 |
 | Growth expectations | Earnings growth -58.00%, EPS q/q -55.30% | Analyst mean target $71.82 (11 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -109,8 +109,8 @@ Dominion Energy, Inc. provides regulated electricity and natural gas services in
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $63.51 | EV/Sales | 6.37 |
-| Market cap | $55.86B | EV/EBITDA | 13.85 |
+| Price | $63.51 | EV/Sales | 6.36 |
+| Market cap | $55.86B | EV/EBITDA | 13.81 |
 | Beta | 0.62 | Gross margin | 46.22% |
 | RSI(14) | 30.5 | Operating margin | 29.22% |
 | ATR(14) | 1.10 | Profit margin | 13.98% |

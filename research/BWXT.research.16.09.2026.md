@@ -18,7 +18,7 @@ Signed file: `BWXT.research.16.09.2026`
 | Technical momentum | Low | Below SMA200 (-23.90%) with negative half-year (-29.59%). |
 | Fresh setup quality | Poor / broken | -38.73% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 10.11%, revenue growth 18.00%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 27.67, EV/Sales 4.23. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 27.65, EV/Sales 4.23. |
 | Risk level | Elevated | Beta 0.74, ATR 3.8% of price, short float 4.10%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: fair-to-demanding, risk: elevated.
@@ -68,7 +68,7 @@ BWX Technologies, Inc. manufactures and sells nuclear components in the United S
 | Revenue (ttm) | $3.51B | Revenue growth 18.00% y/y |
 | Profitability | Gross 22.08%, operating 10.39%, net 10.11% | ROA 5.53%, ROE 28.29% |
 | Balance sheet | Cash $608.20M, debt $2.02B | Current ratio 2.40, debt/equity 151.40 |
-| Valuation | P/E 37.74, forward P/E 27.67, P/S 3.80, P/B 10.00 | EV/Sales 4.23, EV/EBITDA 31.17 |
+| Valuation | P/E 37.74, forward P/E 27.65, P/S 3.80, P/B 10.00 | EV/Sales 4.23, EV/EBITDA 31.17 |
 | Growth expectations | Earnings growth 14.10%, EPS q/q 13.60% | Analyst mean target $226.58 (16 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ BWX Technologies, Inc. manufactures and sells nuclear components in the United S
 | Invesco Ltd. | 1,835,328 | 2.00% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 27.67, EV/Sales 4.23. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 27.65, EV/Sales 4.23. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 0.74, ATR 3.8% of price, short float 4.10%. Size positions accordingly.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** defense/aerospace names live and die on government budgets, appropriations timing, and program/contract awards — revenue is policy-driven and lumpy.
@@ -123,7 +123,7 @@ BWX Technologies, Inc. manufactures and sells nuclear components in the United S
 | 52W high | $237.73 | Revenue growth y/y | 18.00% |
 | 52W low | $145.66 | Inst. ownership | 94.33% |
 | P/E (ttm) | 37.74 | Insider ownership | 0.35% |
-| Forward P/E | 27.67 | Short float | 4.10% |
+| Forward P/E | 27.65 | Short float | 4.10% |
 | PEG (trailing) | — | Avg volume | 1,018,980 |
 | P/S | 3.80 | Employees | 11,000 |
 | P/B | 10.00 | Analyst rec (1=buy..5=sell) | 1.6 |

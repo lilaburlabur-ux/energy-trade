@@ -17,7 +17,7 @@
 | OXY | $59.34B | +33% | 14.7 | 30% | Moderate | Reasonable | Moderate |
 | APA | $15.69B | +102% | 10.2 | 20% | High | Reasonable | Elevated |
 | EQT | $31.53B | +2% | 13.1 | 29% | Low | Reasonable | Elevated |
-| AR | $10.97B | +10% | 8.3 | 19% | Low | Reasonable | Elevated |
+| AR | $10.97B | +10% | 8.4 | 19% | Low | Reasonable | Elevated |
 | PR | $19.22B | +80% | 10.3 | 22% | High | Reasonable | Elevated |
 | OVV | $17.36B | +58% | 8.5 | 10% | Moderate | Reasonable | Elevated |
 | SLB | $77.62B | +54% | 16.2 | 9% | Moderate | Reasonable | Elevated |

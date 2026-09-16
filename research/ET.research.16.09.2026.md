@@ -36,10 +36,10 @@ Energy Transfer LP, together with its subsidiaries, provides energy-related serv
 
 | Headline | Source | Date |
 |---|---|---|
+| Energy Transfer LP (ET) Falls More Steeply Than Broader Market: What Investors Need to Know | Zacks | 2026-09-16 |
 | Energy Transfer’s (ET) Strong 2026 Run Gets a Fresh Vote from Stifel | Insider Monkey | 2026-09-16 |
 | 1 ‘Strong Buy’ Dividend Stock Offering a 6.3% Yield Right Now | Barchart | 2026-09-14 |
 | Energy Transfer’s Texas Listing Could Boost Visibility, but Risks Remain | Insider Monkey | 2026-09-14 |
-| Energy Transfer LP (ET) Is a Trending Stock: Facts to Know Before Betting on It | Zacks | 2026-09-14 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

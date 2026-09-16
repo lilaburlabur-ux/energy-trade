@@ -36,10 +36,10 @@ Entergy Corporation, together with its subsidiaries, engages in the production a
 
 | Headline | Source | Date |
 |---|---|---|
+| How Is Entergy's Stock Performance Compared to Other Utility Stocks? | Barchart | 2026-09-16 |
 | Entergy Says Google’s Arkansas Solar Payments Could Total $2.1 Billion. Is Power Becoming Alphabet’s New Bottleneck? | Insider Monkey | 2026-09-04 |
 | Google’s Arkansas Data Center Reveals the Huge Power Bill Behind AI. Entergy Stands to Benefit | Insider Monkey | 2026-09-03 |
 | One Nuclear Signs Deal for 2.88-GW Gas-Fired Plant, Large BESS for Louisiana Data Center Campus | POWER Magazine | 2026-09-02 |
-| ONE Nuclear secures Louisiana site for 2.88GW Project Cayman in US | Energy Monitor | 2026-09-01 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

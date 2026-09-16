@@ -36,10 +36,10 @@ Array Technologies, Inc. engages in the manufacture and sale of solar tracking t
 
 | Headline | Source | Date |
 |---|---|---|
+| Why Array Technologies, Inc. (ARRY) Dipped More Than Broader Market Today | Zacks | 2026-09-16 |
 | Array Technologies, Inc. (ARRY) Advances While Market Declines: Some Information for Investors | Zacks | 2026-09-10 |
 | 3 Stocks Under $10 with Open Questions | StockStory | 2026-09-10 |
 | Array Technologies opens new Albuquerque plant amid volatile solar market | Albuquerque Journal, N.M. | 2026-09-10 |
-| Array (ARRY) Says its AWM Acquisition Will Be High-Single-Digit Accretive. How Much Depends on Cross-Selling? | Insider Monkey | 2026-09-04 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

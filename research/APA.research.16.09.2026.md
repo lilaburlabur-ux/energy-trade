@@ -36,10 +36,10 @@ APA Corporation, an independent energy company, explores for, develops, and prod
 
 | Headline | Source | Date |
 |---|---|---|
+| Here's Why APA (APA) Fell More Than Broader Market | Zacks | 2026-09-16 |
+| Diamondback Energy, Permian Resources, APA Corporation, Viper Energy, and Comstock Resources Shares Are Falling, What You Need To Know | StockStory | 2026-09-16 |
 | Dow Jones Futures Rise As Oil Prices, Yields Fall Before Fed Rate Hike; Will Market Rally Bid Bond Voyage? | Investor's Business Daily | 2026-09-16 |
 | Riley Exploration Permian, Atlas Energy Solutions, Texas Pacific Land, APA Corporation, and Murphy Oil Shares Skyrocket, What You Need To Know | StockStory | 2026-09-15 |
-| Improving Industry Backdrop and Suriname Pipeline Expansion Could Be A Game Changer For APA (APA) | Simply Wall St. | 2026-09-14 |
-| Zacks Industry Outlook W&T Offshore, APA and Diamondback | Zacks | 2026-09-14 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

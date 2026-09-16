@@ -64,7 +64,7 @@ Phillips 66 operates as an integrated downstream energy provider in the United S
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
-| Next earnings | 2026-10-29 | Next scheduled report (Yahoo estimate) |
+| Next earnings | 2026-10-28 | Next scheduled report (Yahoo estimate) |
 | Revenue (ttm) | $152.17B | Revenue growth 53.10% y/y |
 | Profitability | Gross 13.10%, operating 8.53%, net 4.66% | ROA 6.04%, ROE 23.45% |
 | Balance sheet | Cash $4.10B, debt $20.57B | Current ratio 1.32, debt/equity 62.88 |

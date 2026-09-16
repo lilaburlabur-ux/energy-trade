@@ -36,10 +36,10 @@ Valero Energy Corporation manufactures, markets, and sells petroleum-based and l
 
 | Headline | Source | Date |
 |---|---|---|
+| Valero Energy (VLO) Rises As Market Takes a Dip: Key Facts | Zacks | 2026-09-16 |
 | Valero Energy (VLO) is a Great Momentum Stock: Should You Buy? | Zacks | 2026-09-16 |
 | Can Crude Flexibility and Gulf Coast Exposure Aid VLO's Outlook? | Zacks | 2026-09-16 |
 | Company News for Sep 16, 2026 | Zacks | 2026-09-16 |
-| UBS Bets on Valero Energy (VLO) to Shatter its Record High | Insider Monkey | 2026-09-16 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

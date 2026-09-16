@@ -36,10 +36,10 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 
 | Headline | Source | Date |
 |---|---|---|
+| Exxonmobil in talks to return to Venezuela, Bloomberg reports | Investing.com | 2026-09-16 |
+| Exxon Is Nearing a Preliminary Deal to Invest in Venezuela’s Oil Fields | The Wall Street Journal | 2026-09-16 |
 | Sector Update: Energy Stocks Fall Late Afternoon | MT Newswires | 2026-09-16 |
 | Sector Update: Energy Stocks Fall in Afternoon Trading | MT Newswires | 2026-09-16 |
-| Chevron Doesn’t Need Oil to Hit New Highs. Here’s What Could Drive the Stock Instead | 24/7 Wall St. | 2026-09-16 |
-| Stocks Hold Gains After Fed Hikes Key Rate | Barchart | 2026-09-16 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

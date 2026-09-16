@@ -36,10 +36,10 @@ ConocoPhillips explores for, produces, transports, and markets crude oil, bitume
 
 | Headline | Source | Date |
 |---|---|---|
+| Why ConocoPhillips (COP) Dipped More Than Broader Market Today | Zacks | 2026-09-16 |
 | Only 11 of 237 Active Dividend Funds Beat SCHD’s Index | 24/7 Wall St. | 2026-09-16 |
 | Chevron Doesn’t Need Oil to Hit New Highs. Here’s What Could Drive the Stock Instead | 24/7 Wall St. | 2026-09-16 |
 | Oil Producers Slide as Crude Retreats: EOG Resources Drops 6%, ConocoPhillips and Occidental Petroleum Fall 5% | 24/7 Wall St. | 2026-09-16 |
-| Stocks Hold Gains After Fed Hikes Key Rate | Barchart | 2026-09-16 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
