@@ -36,10 +36,10 @@ HF Sinclair Corporation operates as an independent energy company in the United 
 
 | Headline | Source | Date |
 |---|---|---|
+| Top Stock Reports for Cisco, Lam Research & Thermo Fisher | Zacks | 2026-09-16 |
 | Are You Looking for a Top Momentum Pick? Why HF Sinclair (DINO) is a Great Choice | Zacks | 2026-09-15 |
 | Chevron Targets Argentina, Mediterranean in Global LNG Push | Zacks | 2026-09-15 |
 | HF Sinclair Rises 113.9% in a Year: Should You Buy, Hold or Sell? | Zacks | 2026-09-14 |
-| Oil Prices are High, But These 2 Refining Stocks are Still Crushing It | Zacks | 2026-09-11 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

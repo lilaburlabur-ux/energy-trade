@@ -36,10 +36,10 @@ Bloom Energy Corporation designs, manufactures, sells, and installs solid oxide 
 
 | Headline | Source | Date |
 |---|---|---|
-| Bloom Energy Stock Jumps On 'Meaningful' Data-Center Catalyst | Investor's Business Daily | 2026-09-16 |
+| Dow Jones Futures: S&P 500 Falls After Fed Rate Hike, Hawkish Warsh; Trump Fumes As AMD, Bloom Energy Lead Stocks To Watch | Investor's Business Daily | 2026-09-16 |
+| Bloom Energy Stock Jumps On This 'Meaningful' Data-Center Catalyst | Investor's Business Daily | 2026-09-16 |
 | Bloom Energy Gains 4% as S&P 500 Entry Nears; FuelCell Energy Ticks Up, Plug Power Slips | 24/7 Wall St. | 2026-09-16 |
 | PLUG's Margins Show Signs of Recovery: Can It Sustain the Momentum? | Zacks | 2026-09-16 |
-| Dow Jones Tech Titan Apple, Nvidia Chipmaker TSMC, AMD, Bloom Energy In Or Near Buy Zones | Investor's Business Daily | 2026-09-16 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -36,10 +36,10 @@ Shell plc operates as an energy and petrochemical company in Europe, Asia, Ocean
 
 | Headline | Source | Date |
 |---|---|---|
+| Shell Falls 2.5% as 36 Million Missing Tons Reprice LNG Demand | GuruFocus.com | 2026-09-16 |
 | European Equities Traded in US as ADRs Rise in Wednesday Trading | MT Newswires | 2026-09-16 |
 | Europe’s Fortune 500 2026: Record revenue, shrinking margins, and a new No. 1 country | Fortune | 2026-09-16 |
 | Shell and Constellation Energy Strike a $715 Million Power Deal | Insider Monkey | 2026-09-16 |
-| Shell (SHEL) Ascends While Market Falls: Some Facts to Note | Zacks | 2026-09-15 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

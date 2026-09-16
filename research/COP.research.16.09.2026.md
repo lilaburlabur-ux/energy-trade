@@ -39,7 +39,7 @@ ConocoPhillips explores for, produces, transports, and markets crude oil, bitume
 | Only 11 of 237 Active Dividend Funds Beat SCHD’s Index | 24/7 Wall St. | 2026-09-16 |
 | Chevron Doesn’t Need Oil to Hit New Highs. Here’s What Could Drive the Stock Instead | 24/7 Wall St. | 2026-09-16 |
 | Oil Producers Slide as Crude Retreats: EOG Resources Drops 6%, ConocoPhillips and Occidental Petroleum Fall 5% | 24/7 Wall St. | 2026-09-16 |
-| Stocks Supported by Lower Oil Prices and Strength in US Retail Sales | Barchart | 2026-09-16 |
+| Should You Buy ExxonMobil Stock For What Guyana Pays Next? | Trefis | 2026-09-14 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
