@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-16T21:53:55+00:00",
+  "as_of": "2026-09-16T22:08:57+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,8 +11,8 @@
    "rank": 1,
    "ticker": "FLNC",
    "company": "Fluence Energy, Inc.",
-   "move_pct": -19.08,
-   "price": 7.53,
+   "move_pct": -18.92,
+   "price": 7.54,
    "volume": 8060681,
    "volume_vs_avg": "~1.1x",
    "heat_score": 83,
@@ -41,26 +41,10 @@
   },
   {
    "rank": 3,
-   "ticker": "APA",
-   "company": "APA Corporation",
-   "move_pct": -5.55,
-   "price": 44.78,
-   "volume": 9160080,
-   "volume_vs_avg": "~2x",
-   "heat_score": 43,
-   "direction": "down",
-   "why": "Diamondback Energy, Permian Resources, APA Corporation, Viper Energy, and Comstock Resources Shares Are Falling, What You Need To Know",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/diamondback-energy-permian-resources-apa-211652011.html",
-   "published": "2026-09-16T21:16:52Z",
-   "sector": "Shale & E&P"
-  },
-  {
-   "rank": 4,
    "ticker": "GEV",
    "company": "GE Vernova Inc.",
-   "move_pct": 5.45,
-   "price": 930.88,
+   "move_pct": 5.41,
+   "price": 930.55,
    "volume": 3549620,
    "volume_vs_avg": "~2x",
    "heat_score": 43,
@@ -72,7 +56,7 @@
    "sector": "Grid, Storage & Electrification"
   },
   {
-   "rank": 5,
+   "rank": 4,
    "ticker": "PR",
    "company": "Permian Resources Corporation",
    "move_pct": -5.09,
@@ -88,19 +72,35 @@
    "sector": "Shale & E&P"
   },
   {
+   "rank": 5,
+   "ticker": "APA",
+   "company": "APA Corporation",
+   "move_pct": -5.22,
+   "price": 44.93,
+   "volume": 9160080,
+   "volume_vs_avg": "~2x",
+   "heat_score": 42,
+   "direction": "down",
+   "why": "Diamondback Energy, Permian Resources, APA Corporation, Viper Energy, and Comstock Resources Shares Are Falling, What You Need To Know",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/diamondback-energy-permian-resources-apa-211652011.html",
+   "published": "2026-09-16T21:16:52Z",
+   "sector": "Shale & E&P"
+  },
+  {
    "rank": 6,
    "ticker": "BE",
    "company": "Bloom Energy Corporation",
-   "move_pct": 5.15,
-   "price": 272.7,
+   "move_pct": 5.1,
+   "price": 272.57,
    "volume": 13224109,
    "volume_vs_avg": "~1.0x",
    "heat_score": 38,
    "direction": "up",
-   "why": "Bloom Energy (BE) Stock Trades Up, Here Is Why",
+   "why": "Dow Jones Futures: S&P 500 Falls After Fed Rate Hike, Hawkish Warsh; Trump Fumes As AMD, Bloom Energy Lead Stocks To Watch",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-stock-trades-why-212452263.html",
-   "published": "2026-09-16T21:24:52Z",
+   "source_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp-500-fed-rate-hike-warsh-amd-bloom-energy-stocks-to-watch/?src=A00220&yptr=yahoo",
+   "published": "2026-09-16T21:40:32Z",
    "sector": "Grid, Storage & Electrification"
   }
  ]
