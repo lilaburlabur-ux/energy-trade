@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-16T08:31:51+00:00",
-  "as_of_local": "2026-09-16 08:31:51 UTC",
+  "as_of_utc": "2026-09-16T08:36:59+00:00",
+  "as_of_local": "2026-09-16 08:36:59 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -13,6 +13,12 @@
       "market_cap": 696228963183.7427,
       "headlines": [
         {
+          "title": "Market Chatter: US, Vietnam Firms Set to Announce Deals During To Lam Visit",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-us-vietnam-firms-082219584.html",
+          "publisher": "MT Newswires",
+          "published": "2026-09-16T08:22:19Z"
+        },
+        {
           "title": "ExxonMobil\u2019s LNG Ambitions Just Got A Major Upgrade",
           "url": "https://finance.yahoo.com/energy/articles/exxonmobil-lng-ambitions-just-got-034636221.html",
           "publisher": "Insider Monkey",
@@ -23,12 +29,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/handle-money-something-happens-spouse-220525302.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-09-15T22:05:25Z"
-        },
-        {
-          "title": "Market Chatter: Exxon Mobil Wins Approval For Texas Carbon Capture Project",
-          "url": "https://finance.yahoo.com/energy/articles/market-chatter-exxon-mobil-wins-215021473.html",
-          "publisher": "MT Newswires",
-          "published": "2026-09-15T21:50:21Z"
         }
       ]
     },
@@ -41,6 +41,12 @@
       "market_cap": 427178353359.8534,
       "headlines": [
         {
+          "title": "Market Chatter: US, Vietnam Firms Set to Announce Deals During To Lam Visit",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-us-vietnam-firms-082219584.html",
+          "publisher": "MT Newswires",
+          "published": "2026-09-16T08:22:19Z"
+        },
+        {
           "title": "Why Did DELL, CRWD, CVX Stocks Jump To 52-Week Highs Today?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-dell-crwd-cvx-035157909.html",
           "publisher": "Stocktwits",
@@ -51,12 +57,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/chevron-cvx-rises-market-takes-214507489.html",
           "publisher": "Zacks",
           "published": "2026-09-15T21:45:07Z"
-        },
-        {
-          "title": "U.S. Stocks Down as Oil, Yield Shock Continues",
-          "url": "https://www.wsj.com/finance/stocks/u-s-stocks-down-as-oil-yield-shock-continues-866478de?siteid=yhoof2&yptr=yahoo",
-          "publisher": "The Wall Street Journal",
-          "published": "2026-09-15T20:54:00Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 104.57,
-      "change_pct": -1.19
+      "price": 104.37,
+      "change_pct": -1.38
     },
     {
       "label": "Brent",
-      "price": 107.98,
-      "change_pct": -0.71
+      "price": 107.88,
+      "change_pct": -0.8
     },
     {
       "label": "NatGas",
       "price": 2.9,
-      "change_pct": -0.65
+      "change_pct": -0.75
     }
   ]
 }
