@@ -74,7 +74,7 @@ Uranium Energy Corp., together with its subsidiaries, engages in exploration, pr
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 89.25% |
+| Institutional ownership | 89.26% |
 | Insider ownership | 1.86% |
 | Short float | 14.73% |
 | Short ratio (days to cover) | 7.3 |
@@ -121,7 +121,7 @@ Uranium Energy Corp., together with its subsidiaries, engages in exploration, pr
 | SMA50 dist | -7.00% | ROE | -8.96% |
 | SMA200 dist | -23.84% | Revenue (ttm) | $20.20M |
 | 52W high | $20.14 | Revenue growth y/y | — |
-| 52W low | $9.04 | Inst. ownership | 89.25% |
+| 52W low | $9.04 | Inst. ownership | 89.26% |
 | P/E (ttm) | — | Insider ownership | 1.86% |
 | Forward P/E | -112.00 | Short float | 14.73% |
 | PEG (trailing) | — | Avg volume | 8,546,195 |
