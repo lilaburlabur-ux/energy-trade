@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-16T01:30:16+00:00",
-  "as_of_local": "2026-09-16 01:30:16 UTC",
+  "as_of_utc": "2026-09-16T01:45:20+00:00",
+  "as_of_local": "2026-09-16 01:45:20 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -209,6 +209,12 @@
       "market_cap": 152368920000.0,
       "headlines": [
         {
+          "title": "Should You Buy Donaldson Stock While Its Share Count Stops Shrinking?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/buy-donaldson-stock-while-share-011914627.html",
+          "publisher": "Trefis",
+          "published": "2026-09-16T01:19:14Z"
+        },
+        {
           "title": "Vertiv Has Guided Itself Into A Steep Second Half",
           "url": "https://finance.yahoo.com/markets/stocks/articles/vertiv-guided-itself-steep-second-223056530.html",
           "publisher": "Trefis",
@@ -219,12 +225,6 @@
           "url": "https://www.barrons.com/articles/ge-vernova-stock-price-sell-rating-e9efd969?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
           "published": "2026-09-14T20:05:00Z"
-        },
-        {
-          "title": "FCEL's Microgrids Strengthen Power Reliability and Resilience",
-          "url": "https://finance.yahoo.com/energy/articles/fcels-microgrids-strengthen-power-reliability-175700137.html",
-          "publisher": "Zacks",
-          "published": "2026-09-14T17:57:00Z"
         }
       ]
     },
@@ -2115,13 +2115,13 @@
     },
     {
       "label": "WTI",
-      "price": 104.96,
-      "change_pct": 3.52
+      "price": 105.0,
+      "change_pct": 3.56
     },
     {
       "label": "Brent",
-      "price": 108.27,
-      "change_pct": 2.45
+      "price": 108.23,
+      "change_pct": 2.41
     },
     {
       "label": "NatGas",
