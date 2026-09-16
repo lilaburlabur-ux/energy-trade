@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-09-16T07:20:58+00:00",
-  "as_of_local": "2026-09-16 07:20:58 UTC",
+  "as_of_utc": "2026-09-16T07:26:20+00:00",
+  "as_of_local": "2026-09-16 07:26:20 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "CVX"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -29,34 +31,6 @@
           "url": "https://finance.yahoo.com/energy/articles/market-chatter-exxon-mobil-wins-215021473.html",
           "publisher": "MT Newswires",
           "published": "2026-09-15T21:50:21Z"
-        }
-      ]
-    },
-    {
-      "symbol": "CVX",
-      "name": "Chevron",
-      "price": 217.77,
-      "previous_close": 212.17,
-      "change_pct": 2.64,
-      "market_cap": 427178353359.8534,
-      "headlines": [
-        {
-          "title": "Why Did DELL, CRWD, CVX Stocks Jump To 52-Week Highs Today?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-dell-crwd-cvx-035157909.html",
-          "publisher": "Stocktwits",
-          "published": "2026-09-16T03:51:57Z"
-        },
-        {
-          "title": "Chevron (CVX) Rises As Market Takes a Dip: Key Facts",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/chevron-cvx-rises-market-takes-214507489.html",
-          "publisher": "Zacks",
-          "published": "2026-09-15T21:45:07Z"
-        },
-        {
-          "title": "U.S. Stocks Down as Oil, Yield Shock Continues",
-          "url": "https://www.wsj.com/finance/stocks/u-s-stocks-down-as-oil-yield-shock-continues-866478de?siteid=yhoof2&yptr=yahoo",
-          "publisher": "The Wall Street Journal",
-          "published": "2026-09-15T20:54:00Z"
         }
       ]
     },
@@ -1930,8 +1904,8 @@
           "name": "Chevron Corp",
           "short": "Chevron",
           "weight_pct": 14.89,
-          "change_pct": 2.64,
-          "price": 217.77,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -2029,8 +2003,8 @@
         "name": "Chevron Corp",
         "short": "Chevron",
         "weight_pct": 14.89,
-        "change_pct": 2.64,
-        "price": 217.77,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 104.24,
-      "change_pct": -1.5
+      "price": 103.94,
+      "change_pct": -1.79
     },
     {
       "label": "Brent",
-      "price": 107.6,
-      "change_pct": -1.06
+      "price": 107.44,
+      "change_pct": -1.2
     },
     {
       "label": "NatGas",
-      "price": 2.91,
-      "change_pct": -0.45
+      "price": 2.9,
+      "change_pct": -0.55
     }
   ]
 }
