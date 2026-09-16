@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-16T10:38:41+00:00",
-  "as_of_local": "2026-09-16 10:38:41 UTC",
+  "as_of_utc": "2026-09-16T10:43:49+00:00",
+  "as_of_local": "2026-09-16 10:43:49 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -125,6 +125,12 @@
       "market_cap": 205780489105.3522,
       "headlines": [
         {
+          "title": "TotalEnergies and Mistral launch oil and gas AI partnership",
+          "url": "https://finance.yahoo.com/energy/articles/totalenergies-mistral-launch-oil-gas-103748512.html",
+          "publisher": "Offshore Technology",
+          "published": "2026-09-16T10:37:48Z"
+        },
+        {
           "title": "Europe\u2019s Fortune 500 2026: Record revenue, shrinking margins, and a new No. 1 country",
           "url": "https://finance.yahoo.com/markets/stocks/articles/europe-fortune-500-2026-record-040600982.html",
           "publisher": "Fortune",
@@ -135,12 +141,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/totalenergies-se-sponsored-adr-tte-160002871.html",
           "publisher": "Zacks",
           "published": "2026-09-15T16:00:02Z"
-        },
-        {
-          "title": "TotalEnergies Bets Over $115 Million on AI to Hunt for Oil With Mistral",
-          "url": "https://finance.yahoo.com/energy/articles/totalenergies-bets-over-115-million-134309049.html",
-          "publisher": "Benzinga",
-          "published": "2026-09-15T13:43:09Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 103.91,
-      "change_pct": -1.81
+      "price": 103.94,
+      "change_pct": -1.79
     },
     {
       "label": "Brent",
-      "price": 107.91,
-      "change_pct": -0.77
+      "price": 107.8,
+      "change_pct": -0.87
     },
     {
       "label": "NatGas",
       "price": 2.93,
-      "change_pct": 0.27
+      "change_pct": 0.31
     }
   ]
 }
