@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-16T12:00:34+00:00",
-  "as_of_local": "2026-09-16 12:00:34 UTC",
+  "as_of_utc": "2026-09-16T12:05:09+00:00",
+  "as_of_local": "2026-09-16 12:05:09 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -657,6 +657,12 @@
       "market_cap": 76385668982.75226,
       "headlines": [
         {
+          "title": "Prediction: Bloom Energy Could Be the Power Stock Nobody Saw Coming",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-bloom-energy-could-power-120008003.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-09-16T12:00:08Z"
+        },
+        {
           "title": "Should You Buy Bloom Energy Stock Before It Joins the S&P 500 on Sept. 21?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/buy-bloom-energy-stock-joins-024601954.html",
           "publisher": "Motley Fool",
@@ -667,12 +673,6 @@
           "url": "https://www.investors.com/stock-lists/stocks-near-a-buy-zone/dow-jones-apple-stock-aapl-nvidia-chipmaker-tsm-amd-bloom/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
           "published": "2026-09-15T20:38:46Z"
-        },
-        {
-          "title": "Bloom Energy (BE) Stock Looks Cheap As Its 17x Three Year Run Continues",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-stock-looks-cheap-191906384.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-09-15T19:19:06Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 103.42,
-      "change_pct": -2.28
+      "price": 103.39,
+      "change_pct": -2.31
     },
     {
       "label": "Brent",
-      "price": 107.26,
-      "change_pct": -1.37
+      "price": 107.16,
+      "change_pct": -1.46
     },
     {
       "label": "NatGas",
       "price": 2.94,
-      "change_pct": 0.82
+      "change_pct": 0.86
     }
   ]
 }
