@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-16T09:02:04+00:00",
-  "as_of_local": "2026-09-16 09:02:04 UTC",
+  "as_of_utc": "2026-09-16T09:07:41+00:00",
+  "as_of_local": "2026-09-16 09:07:41 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -1413,6 +1413,12 @@
       "market_cap": 13440944186.391907,
       "headlines": [
         {
+          "title": "1 Mid-Cap Stock with Exciting Potential and 2 We Question",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/1-mid-cap-stock-exciting-085949770.html",
+          "publisher": "StockStory",
+          "published": "2026-09-16T08:59:49Z"
+        },
+        {
           "title": "BWXT\u2019s Latest NNSA Win Signals Bigger Nuclear Opportunity",
           "url": "https://finance.yahoo.com/energy/articles/bwxt-latest-nnsa-win-signals-033451358.html",
           "publisher": "Insider Monkey",
@@ -1423,12 +1429,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-favors-bwx-technologies-212632352.html",
           "publisher": "Insider Monkey",
           "published": "2026-09-15T21:26:32Z"
-        },
-        {
-          "title": "This Stock Can Rise 150%, Plus 12 More Aerospace Buys",
-          "url": "https://www.barrons.com/articles/defense-stock-buys-guggenheim-northrop-grumman-8b568e43?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-09-15T15:57:00Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 104.5,
-      "change_pct": -1.26
+      "price": 104.59,
+      "change_pct": -1.17
     },
     {
       "label": "Brent",
-      "price": 107.99,
-      "change_pct": -0.7
+      "price": 107.97,
+      "change_pct": -0.72
     },
     {
       "label": "NatGas",
       "price": 2.9,
-      "change_pct": -0.58
+      "change_pct": -0.55
     }
   ]
 }
