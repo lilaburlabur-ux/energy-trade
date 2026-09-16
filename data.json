@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-16T09:52:46+00:00",
-  "as_of_local": "2026-09-16 09:52:46 UTC",
+  "as_of_utc": "2026-09-16T09:59:31+00:00",
+  "as_of_local": "2026-09-16 09:59:31 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -319,7 +319,26 @@
       "previous_close": 44.54,
       "change_pct": 2.72,
       "market_cap": 108485353299.75,
-      "headlines": []
+      "headlines": [
+        {
+          "title": "European Equities Traded in the US as American Depositary Receipts Decline in Tuesday Trading",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/european-equities-traded-us-american-151836030.html",
+          "publisher": "MT Newswires",
+          "published": "2026-09-15T15:18:36Z"
+        },
+        {
+          "title": "Techstep ASA (OSL:TECH) Q2 2026 Earnings Call Highlights: Revenue Growth Meets Margin Pressure",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/techstep-asa-osl-tech-q2-030047612.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-09-12T03:00:47Z"
+        },
+        {
+          "title": "Shell's Troubled Project Faces Another Major Blow",
+          "url": "https://finance.yahoo.com/energy/articles/shells-troubled-project-faces-another-200953447.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-09-11T20:09:53Z"
+        }
+      ]
     },
     {
       "symbol": "PSX",
@@ -1868,26 +1887,7 @@
       "previous_close": 4.41,
       "change_pct": -0.68,
       "market_cap": 673759553.2440319,
-      "headlines": [
-        {
-          "title": "Array Technologies, Inc. (ARRY) Advances While Market Declines: Some Information for Investors",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/array-technologies-inc-arry-advances-221502840.html",
-          "publisher": "Zacks",
-          "published": "2026-09-10T22:15:02Z"
-        },
-        {
-          "title": "3 Stocks Under $10 with Open Questions",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-stocks-under-10-open-172104879.html",
-          "publisher": "StockStory",
-          "published": "2026-09-10T17:21:04Z"
-        },
-        {
-          "title": "Array Technologies opens new Albuquerque plant amid volatile solar market",
-          "url": "https://finance.yahoo.com/energy/articles/array-technologies-opens-albuquerque-plant-030100385.html",
-          "publisher": "Albuquerque Journal, N.M.",
-          "published": "2026-09-10T03:01:00Z"
-        }
-      ]
+      "headlines": []
     }
   ],
   "etfs": [
@@ -2096,18 +2096,18 @@
     },
     {
       "label": "WTI",
-      "price": 104.22,
-      "change_pct": -1.52
+      "price": 104.23,
+      "change_pct": -1.51
     },
     {
       "label": "Brent",
-      "price": 107.69,
-      "change_pct": -0.97
+      "price": 107.8,
+      "change_pct": -0.87
     },
     {
       "label": "NatGas",
-      "price": 2.93,
-      "change_pct": 0.31
+      "price": 2.92,
+      "change_pct": 0.21
     }
   ]
 }
