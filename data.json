@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-16T12:45:26+00:00",
-  "as_of_local": "2026-09-16 12:45:26 UTC",
+  "as_of_utc": "2026-09-16T12:50:29+00:00",
+  "as_of_local": "2026-09-16 12:50:29 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -1693,6 +1693,12 @@
       "market_cap": 3459583795.700943,
       "headlines": [
         {
+          "title": "NuScale Power Just Solved a Major Engineering Hurdle: Is the Stock a Buy?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nuscale-power-just-solved-major-124600015.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-16T12:46:00Z"
+        },
+        {
           "title": "Wall Street sounds alarm on nuclear stock with 40% downside",
           "url": "https://finance.yahoo.com/energy/articles/wall-street-sounds-alarm-nuclear-110300612.html",
           "publisher": "TheStreet",
@@ -1703,12 +1709,6 @@
           "url": "https://finance.yahoo.com/energy/articles/nuscale-power-smr-facing-bigger-091209183.html",
           "publisher": "Simply Wall St.",
           "published": "2026-09-16T09:12:09Z"
-        },
-        {
-          "title": "Europe Bets Big on Small Modular Reactors. Here's How NuScale Power and Oklo Will Benefit.",
-          "url": "https://finance.yahoo.com/energy/articles/europe-bets-big-small-modular-193800592.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-15T19:38:00Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 103.7,
-      "change_pct": -2.01
+      "price": 103.82,
+      "change_pct": -1.9
     },
     {
       "label": "Brent",
-      "price": 107.35,
-      "change_pct": -1.29
+      "price": 107.44,
+      "change_pct": -1.2
     },
     {
       "label": "NatGas",
-      "price": 2.97,
-      "change_pct": 1.75
+      "price": 2.96,
+      "change_pct": 1.37
     }
   ]
 }
