@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-16T09:47:47+00:00",
-  "as_of_local": "2026-09-16 09:47:47 UTC",
+  "as_of_utc": "2026-09-16T09:52:46+00:00",
+  "as_of_local": "2026-09-16 09:52:46 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -319,26 +319,7 @@
       "previous_close": 44.54,
       "change_pct": 2.72,
       "market_cap": 108485353299.75,
-      "headlines": [
-        {
-          "title": "European Equities Traded in the US as American Depositary Receipts Decline in Tuesday Trading",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/european-equities-traded-us-american-151836030.html",
-          "publisher": "MT Newswires",
-          "published": "2026-09-15T15:18:36Z"
-        },
-        {
-          "title": "Techstep ASA (OSL:TECH) Q2 2026 Earnings Call Highlights: Revenue Growth Meets Margin Pressure",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/techstep-asa-osl-tech-q2-030047612.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-09-12T03:00:47Z"
-        },
-        {
-          "title": "Shell's Troubled Project Faces Another Major Blow",
-          "url": "https://finance.yahoo.com/energy/articles/shells-troubled-project-faces-another-200953447.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-09-11T20:09:53Z"
-        }
-      ]
+      "headlines": []
     },
     {
       "symbol": "PSX",
@@ -629,6 +610,12 @@
       "market_cap": 80440564252.51143,
       "headlines": [
         {
+          "title": "1 S&P 500 Stock Worth Your Attention and 2 We Turn Down",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/1-p-500-stock-worth-093949978.html",
+          "publisher": "StockStory",
+          "published": "2026-09-16T09:39:49Z"
+        },
+        {
           "title": "Why SLB Stock Slumped Today",
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-slb-stock-slumped-today-220238220.html",
           "publisher": "Motley Fool",
@@ -639,12 +626,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/slb-slb-registers-bigger-fall-220006813.html",
           "publisher": "Zacks",
           "published": "2026-09-10T22:00:06Z"
-        },
-        {
-          "title": "CEO of Legendary Energy Stock Sells 5,000 Shares for $300,000",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ceo-legendary-energy-stock-sells-144001966.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-08T14:40:01Z"
         }
       ]
     },
@@ -2115,18 +2096,18 @@
     },
     {
       "label": "WTI",
-      "price": 104.05,
-      "change_pct": -1.68
+      "price": 104.22,
+      "change_pct": -1.52
     },
     {
       "label": "Brent",
-      "price": 107.58,
-      "change_pct": -1.08
+      "price": 107.69,
+      "change_pct": -0.97
     },
     {
       "label": "NatGas",
-      "price": 2.92,
-      "change_pct": 0.14
+      "price": 2.93,
+      "change_pct": 0.31
     }
   ]
 }
