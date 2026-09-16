@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-16T20:25:25+00:00",
-  "as_of_local": "2026-09-16 20:25:25 UTC",
+  "as_of_utc": "2026-09-16T20:28:20+00:00",
+  "as_of_local": "2026-09-16 20:28:20 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -69,6 +69,12 @@
       "market_cap": 273530172454.45175,
       "headlines": [
         {
+          "title": "Shell Falls 2.5% as 36 Million Missing Tons Reprice LNG Demand",
+          "url": "https://finance.yahoo.com/energy/articles/shell-falls-2-5-36-202627845.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-09-16T20:26:27Z"
+        },
+        {
           "title": "European Equities Traded in US as ADRs Rise in Wednesday Trading",
           "url": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-adrs-150836727.html",
           "publisher": "MT Newswires",
@@ -79,12 +85,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/europe-fortune-500-2026-record-040600982.html",
           "publisher": "Fortune",
           "published": "2026-09-16T04:06:00Z"
-        },
-        {
-          "title": "Shell and Constellation Energy Strike a $715 Million Power Deal",
-          "url": "https://finance.yahoo.com/energy/articles/shell-constellation-energy-strike-715-040351474.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-09-16T04:03:51Z"
         }
       ]
     },
@@ -2115,13 +2115,13 @@
     },
     {
       "label": "WTI",
-      "price": 102.09,
-      "change_pct": -3.53
+      "price": 102.13,
+      "change_pct": -3.5
     },
     {
       "label": "Brent",
-      "price": 105.5,
-      "change_pct": -2.99
+      "price": 105.49,
+      "change_pct": -3.0
     },
     {
       "label": "NatGas",
