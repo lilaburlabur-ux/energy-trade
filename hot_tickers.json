@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-16T14:11:24+00:00",
+  "as_of": "2026-09-16T14:26:18+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,19 +9,19 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "BE",
-   "company": "Bloom Energy Corporation",
-   "move_pct": 5.3,
-   "price": 273.1,
-   "volume": 3780664,
+   "ticker": "PR",
+   "company": "Permian Resources Corporation",
+   "move_pct": -5.14,
+   "price": 23.23,
+   "volume": 2874291,
    "volume_vs_avg": "~0.3x",
    "heat_score": 35,
-   "direction": "up",
-   "why": "Bloom Energy Corp. (BE) Short Position Weighs on Performance Amid Small-Cap AI Rally",
+   "direction": "down",
+   "why": "Permian Resources Corp's Dividend Analysis",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-corp-short-position-130509545.html",
-   "published": "2026-09-16T13:05:09Z",
-   "sector": "Grid, Storage & Electrification"
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/permian-resources-corps-dividend-analysis-110522136.html",
+   "published": "2026-09-16T11:05:22Z",
+   "sector": "Shale & E&P"
   }
  ]
 }
