@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-17T09:10:48+00:00",
-  "as_of_local": "2026-09-17 09:10:48 UTC",
+  "as_of_utc": "2026-09-17T09:16:02+00:00",
+  "as_of_local": "2026-09-17 09:16:02 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -150,7 +150,7 @@
       "price": 80.37,
       "previous_close": 81.07,
       "change_pct": -0.86,
-      "market_cap": 167650074386.64026,
+      "market_cap": 167620108350.74622,
       "headlines": [
         {
           "title": "CEG Stock Trails Industry in 6 Months: Should You Buy, Hold or Sell?",
@@ -206,8 +206,14 @@
       "price": 397.8,
       "previous_close": 392.4,
       "change_pct": 1.38,
-      "market_cap": 154505515258.78906,
+      "market_cap": 154465735260.00977,
       "headlines": [
+        {
+          "title": "Eaton Sees Best Years Ahead as Data Center Demand Powers Growth",
+          "url": "https://finance.yahoo.com/technology/articles/eaton-sees-best-years-ahead-090210065.html",
+          "publisher": "MarketBeat",
+          "published": "2026-09-17T09:02:10Z"
+        },
         {
           "title": "Should You Get Paid To Wait Out Vertiv's Learning Curve?",
           "url": "https://finance.yahoo.com/markets/options/articles/paid-wait-vertivs-learning-curve-013527715.html",
@@ -219,12 +225,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/eaton-etn-advances-while-market-214504537.html",
           "publisher": "Zacks",
           "published": "2026-09-16T21:45:04Z"
+        }
+      ]
+    },
+    {
+      "symbol": "MPC",
+      "name": "Marathon Petroleum",
+      "price": 413.92,
+      "previous_close": 410.84,
+      "change_pct": 0.75,
+      "market_cap": 120838415879.24759,
+      "headlines": [
+        {
+          "title": "XOM Keeps Climbing. Should You Climb On?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/xom-keeps-climbing-climb-232922566.html",
+          "publisher": "Trefis",
+          "published": "2026-09-16T23:29:22Z"
         },
         {
-          "title": "UBS Delivers Bullish Call on 10 Stocks With Up to 62% Upside",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ubs-delivers-bullish-call-10-201937289.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-09-16T20:19:37Z"
+          "title": "This ETF Should Rise as Interest Rates Go Up. Is It Too Late to Get In on the Fun Now?",
+          "url": "https://www.barrons.com/articles/etf-federal-reserve-interest-rates-5f58f767?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-09-16T06:00:00Z"
+        },
+        {
+          "title": "Stocks to Watch Recap: UBS, Vera Bradley, Dave & Buster\u2019s, Coinbase",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-15-2026/card/stocks-to-watch-ubs-dave-buster-s-coinbase-jtr1rDqgMUIB3BssUa1U?siteid=yhoof2&yptr=yahoo",
+          "publisher": "The Wall Street Journal",
+          "published": "2026-09-15T21:25:47Z"
         }
       ]
     },
@@ -253,34 +281,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/europe-fortune-500-2026-record-040600982.html",
           "publisher": "Fortune",
           "published": "2026-09-16T04:06:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "MPC",
-      "name": "Marathon Petroleum",
-      "price": 413.92,
-      "previous_close": 410.84,
-      "change_pct": 0.75,
-      "market_cap": 116238989671.80032,
-      "headlines": [
-        {
-          "title": "XOM Keeps Climbing. Should You Climb On?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/xom-keeps-climbing-climb-232922566.html",
-          "publisher": "Trefis",
-          "published": "2026-09-16T23:29:22Z"
-        },
-        {
-          "title": "This ETF Should Rise as Interest Rates Go Up. Is It Too Late to Get In on the Fun Now?",
-          "url": "https://www.barrons.com/articles/etf-federal-reserve-interest-rates-5f58f767?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-09-16T06:00:00Z"
-        },
-        {
-          "title": "Stocks to Watch Recap: UBS, Vera Bradley, Dave & Buster\u2019s, Coinbase",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-15-2026/card/stocks-to-watch-ubs-dave-buster-s-coinbase-jtr1rDqgMUIB3BssUa1U?siteid=yhoof2&yptr=yahoo",
-          "publisher": "The Wall Street Journal",
-          "published": "2026-09-15T21:25:47Z"
         }
       ]
     },
@@ -433,6 +433,12 @@
       "market_cap": 92170019907.7988,
       "headlines": [
         {
+          "title": "Eaton Sees Best Years Ahead as Data Center Demand Powers Growth",
+          "url": "https://finance.yahoo.com/technology/articles/eaton-sees-best-years-ahead-090210065.html",
+          "publisher": "MarketBeat",
+          "published": "2026-09-17T09:02:10Z"
+        },
+        {
           "title": "Zacks.com featured highlights DiamondRock, Vertiv, Mueller Water Products and Phibro",
           "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-com-featured-highlights-diamondrock-071000800.html",
           "publisher": "Zacks",
@@ -443,12 +449,6 @@
           "url": "https://finance.yahoo.com/markets/options/articles/paid-wait-vertivs-learning-curve-013527715.html",
           "publisher": "Trefis",
           "published": "2026-09-17T01:35:27Z"
-        },
-        {
-          "title": "4 Stocks With Strong Interest Coverage to Buy as Yields Rise",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/4-stocks-strong-interest-coverage-125000967.html",
-          "publisher": "Zacks",
-          "published": "2026-09-16T12:50:00Z"
         }
       ]
     },
@@ -654,7 +654,7 @@
       "price": 144.93,
       "previous_close": 153.74,
       "change_pct": -5.73,
-      "market_cap": 76020009635.91357,
+      "market_cap": 77193848951.81213,
       "headlines": [
         {
           "title": "Oil Producers Slide as Crude Retreats: EOG Resources Drops 6%, ConocoPhillips and Occidental Petroleum Fall 5%",
@@ -1074,7 +1074,7 @@
       "price": 70.39,
       "previous_close": 70.42,
       "change_pct": -0.04,
-      "market_cap": 35083785607.488556,
+      "market_cap": 35076843182.62875,
       "headlines": [
         {
           "title": "Public Service Enterprise Group CEO Sells 2,083 Shares",
@@ -1494,7 +1494,7 @@
       "price": 29.09,
       "previous_close": 28.81,
       "change_pct": 0.97,
-      "market_cap": 8730247246.1334,
+      "market_cap": 8822297868.12624,
       "headlines": [
         {
           "title": "3 Nuclear Energy Stocks to Buy Before 2026 Ends",
@@ -1606,7 +1606,7 @@
       "price": 82.3,
       "previous_close": 85.39,
       "change_pct": -3.62,
-      "market_cap": 5885446377.437622,
+      "market_cap": 5899712177.666611,
       "headlines": [
         {
           "title": "Solaris Energy Infrastructure, TETRA Technologies, SLB, and Weatherford Stocks Trade Down, What You Need To Know",
@@ -1662,7 +1662,7 @@
       "price": 35.56,
       "previous_close": 36.72,
       "change_pct": -3.16,
-      "market_cap": 4699063864.353058,
+      "market_cap": 4686744884.197311,
       "headlines": [
         {
           "title": "Enphase Energy (ENPH) Registers a Bigger Fall Than the Market: Important Facts to Note",
@@ -1718,7 +1718,7 @@
       "price": 11.73,
       "previous_close": 11.86,
       "change_pct": -1.1,
-      "market_cap": 3105793878.3562775,
+      "market_cap": 2932089335.5751038,
       "headlines": [
         {
           "title": "UEC Gears Up to Report Q4 Earnings: What's in Store for the Stock?",
@@ -2114,14 +2114,9 @@
       "change_pct": -0.45
     },
     {
-      "label": "WTI",
-      "price": 101.39,
-      "change_pct": -1.02
-    },
-    {
       "label": "Brent",
-      "price": 104.3,
-      "change_pct": -1.45
+      "price": 104.41,
+      "change_pct": -1.34
     },
     {
       "label": "NatGas",
