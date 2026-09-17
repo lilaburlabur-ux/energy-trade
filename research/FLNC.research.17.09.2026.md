@@ -18,7 +18,7 @@ Signed file: `FLNC.research.17.09.2026`
 | Technical momentum | Low | Below SMA200 (-56.86%) with negative half-year (-52.10%). |
 | Fresh setup quality | Poor / broken | -76.23% from 52w high — base needs to rebuild. |
 | Fundamental quality | Weak | Negative profit margin (-3.07%). |
-| Value attractiveness | Low (expensive) | Forward P/E 43.13, EV/Sales 0.54. |
+| Value attractiveness | Low (expensive) | Forward P/E 43.13, EV/Sales 0.47. |
 | Risk level | High | Beta 2.74, ATR 11.0% of price, short float 34.01%. |
 
 **Bottom line:** Low technical momentum, weak fundamentals, value: low (expensive), risk: high.
@@ -68,7 +68,7 @@ Fluence Energy, Inc., through its subsidiaries, provides energy storage and opti
 | Revenue (ttm) | $2.63B | Revenue growth 7.90% y/y |
 | Profitability | Gross 9.36%, operating -8.85%, net -3.07% | ROA -2.95%, ROE -23.54% |
 | Balance sheet | Cash $339.33M, debt $413.16M | Current ratio 1.34, debt/equity 95.81 |
-| Valuation | P/E —, forward P/E 43.13, P/S 0.54, P/B 2.94 | EV/Sales 0.54, EV/EBITDA -18.31 |
+| Valuation | P/E —, forward P/E 43.13, P/S 0.54, P/B 2.94 | EV/Sales 0.47, EV/EBITDA -15.76 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $11.42 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ Fluence Energy, Inc., through its subsidiaries, provides energy storage and opti
 | State Street Corporation | 2,627,213 | 1.84% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 43.13, EV/Sales 0.54. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 43.13, EV/Sales 0.47. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 2.74, ATR 11.0% of price, short float 34.01%. Size positions accordingly.
 - **Short interest risk:** short float 34.01% can fuel squeezes both ways around news.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
@@ -114,8 +114,8 @@ Fluence Energy, Inc., through its subsidiaries, provides energy storage and opti
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $7.66 | EV/Sales | 0.54 |
-| Market cap | $1.42B | EV/EBITDA | -18.31 |
+| Price | $7.66 | EV/Sales | 0.47 |
+| Market cap | $1.42B | EV/EBITDA | -15.76 |
 | Beta | 2.74 | Gross margin | 9.36% |
 | RSI(14) | 24.9 | Operating margin | -8.85% |
 | ATR(14) | 0.84 | Profit margin | -3.07% |

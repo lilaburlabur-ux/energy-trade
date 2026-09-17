@@ -36,10 +36,10 @@ Energy Transfer LP, together with its subsidiaries, provides energy-related serv
 
 | Headline | Source | Date |
 |---|---|---|
+| Energy Transfer’s Free Cash Flow Nearly Vanished in Q4. Six Months Later, It Doubled. Here’s What’s Actually Driving It | TIKR | 2026-09-17 |
 | Boomers Are Piling Into These 5 High-Yield Dividend Stocks, and None Are Yield Traps | 24/7 Wall St. | 2026-09-17 |
 | Energy Transfer LP (ET) Falls More Steeply Than Broader Market: What Investors Need to Know | Zacks | 2026-09-16 |
 | Energy Transfer’s (ET) Strong 2026 Run Gets a Fresh Vote from Stifel | Insider Monkey | 2026-09-16 |
-| 1 ‘Strong Buy’ Dividend Stock Offering a 6.3% Yield Right Now | Barchart | 2026-09-14 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -18,7 +18,7 @@ Signed file: `SMR.research.17.09.2026`
 | Technical momentum | Low | Below SMA200 (-28.26%) with negative half-year (-24.85%). |
 | Fresh setup quality | Poor / broken | -83.08% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 0.00%, revenue growth -99.10%. |
-| Value attractiveness | Reasonable | Forward P/E -13.69, EV/Sales 214.51. |
+| Value attractiveness | Reasonable | Forward P/E -13.75, EV/Sales 242.92. |
 | Risk level | High | Beta 2.31, ATR 8.1% of price, short float 17.60%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: high.
@@ -68,7 +68,7 @@ NuScale Power Corporation provides small modular reactor technology solutions. I
 | Revenue (ttm) | $10.69M | Revenue growth -99.10% y/y |
 | Profitability | Gross 23.54%, operating -85337.33%, net 0.00% | ROA -10.60%, ROE -55.18% |
 | Balance sheet | Cash $1.07B, debt $6.69M | Current ratio 37.88, debt/equity 0.33 |
-| Valuation | P/E —, forward P/E -13.69, P/S 347.05, P/B 1.80 | EV/Sales 214.51, EV/EBITDA -10.23 |
+| Valuation | P/E —, forward P/E -13.75, P/S 347.05, P/B 1.80 | EV/Sales 242.92, EV/EBITDA -11.59 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $11.97 (15 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -112,8 +112,8 @@ NuScale Power Corporation provides small modular reactor technology solutions. I
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $9.04 | EV/Sales | 214.51 |
-| Market cap | $3.71B | EV/EBITDA | -10.23 |
+| Price | $9.04 | EV/Sales | 242.92 |
+| Market cap | $3.71B | EV/EBITDA | -11.59 |
 | Beta | 2.31 | Gross margin | 23.54% |
 | RSI(14) | 47.8 | Operating margin | -85337.33% |
 | ATR(14) | 0.73 | Profit margin | 0.00% |
@@ -123,7 +123,7 @@ NuScale Power Corporation provides small modular reactor technology solutions. I
 | 52W high | $53.43 | Revenue growth y/y | -99.10% |
 | 52W low | $7.59 | Inst. ownership | 59.47% |
 | P/E (ttm) | — | Insider ownership | 1.70% |
-| Forward P/E | -13.69 | Short float | 17.60% |
+| Forward P/E | -13.75 | Short float | 17.60% |
 | PEG (trailing) | — | Avg volume | 32,770,011 |
 | P/S | 347.05 | Employees | 428 |
 | P/B | 1.80 | Analyst rec (1=buy..5=sell) | 2.7 |
