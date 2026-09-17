@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-17T10:47:12+00:00",
-  "as_of_local": "2026-09-17 10:47:12 UTC",
+  "as_of_utc": "2026-09-17T10:52:30+00:00",
+  "as_of_local": "2026-09-17 10:52:30 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -1861,6 +1861,12 @@
       "market_cap": 1295630498.7062874,
       "headlines": [
         {
+          "title": "FLNC Stock Heads For 52-Week Lows: Baird Turns \u2018Incrementally Negative\u2019 After Fluence Cuts FY26 Guidance Again",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/flnc-stock-heads-52-week-104113054.html",
+          "publisher": "Stocktwits",
+          "published": "2026-09-17T10:41:13Z"
+        },
+        {
           "title": "1 Stock Under $10 to Own for Decades and 2 We Find Risky",
           "url": "https://finance.yahoo.com/markets/stocks/articles/1-stock-under-10-own-071204220.html",
           "publisher": "StockStory",
@@ -1871,12 +1877,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/flnc-stock-tumbles-hours-houston-211902009.html",
           "publisher": "Stocktwits",
           "published": "2026-09-16T21:19:02Z"
-        },
-        {
-          "title": "Spotting Winners: Fluence Energy (NASDAQ:FLNC) And Renewable Energy Stocks In Q2",
-          "url": "https://finance.yahoo.com/energy/articles/spotting-winners-fluence-energy-nasdaq-125905736.html",
-          "publisher": "StockStory",
-          "published": "2026-09-11T12:59:05Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 100.77,
-      "change_pct": -1.62
+      "price": 100.71,
+      "change_pct": -1.68
     },
     {
       "label": "Brent",
-      "price": 99.5,
-      "change_pct": -5.98
+      "price": 99.42,
+      "change_pct": -6.06
     },
     {
       "label": "NatGas",
       "price": 2.89,
-      "change_pct": 0.07
+      "change_pct": -0.1
     }
   ]
 }
