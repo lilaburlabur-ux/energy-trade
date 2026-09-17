@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-17T04:53:12+00:00",
-  "as_of_local": "2026-09-17 04:53:12 UTC",
+  "as_of_utc": "2026-09-17T05:06:58+00:00",
+  "as_of_local": "2026-09-17 05:06:58 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -711,26 +711,7 @@
       "previous_close": 30.77,
       "change_pct": -0.13,
       "market_cap": 68429627175.620895,
-      "headlines": [
-        {
-          "title": "Iran-War Uncertainty Puts These 3 Midstream Stocks in Focus",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/iran-war-uncertainty-puts-3-160700323.html",
-          "publisher": "Zacks",
-          "published": "2026-09-16T16:07:00Z"
-        },
-        {
-          "title": "Kinder Morgan (KMI) Stock May Be 43% Undervalued As Cash Flows Stay Strong",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/kinder-morgan-kmi-stock-may-021146705.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-09-16T02:11:46Z"
-        },
-        {
-          "title": "These 3 Pipeline Stocks Pay High Yields Without the K-1 Headache",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-pipeline-stocks-pay-high-121115255.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-09-14T12:11:15Z"
-        }
-      ]
+      "headlines": []
     },
     {
       "symbol": "TRGP",
@@ -2115,18 +2096,18 @@
     },
     {
       "label": "WTI",
-      "price": 102.39,
-      "change_pct": -0.04
+      "price": 102.21,
+      "change_pct": -0.21
     },
     {
       "label": "Brent",
-      "price": 105.9,
-      "change_pct": 0.07
+      "price": 105.7,
+      "change_pct": -0.12
     },
     {
       "label": "NatGas",
-      "price": 2.91,
-      "change_pct": 0.59
+      "price": 2.9,
+      "change_pct": 0.48
     }
   ]
 }
