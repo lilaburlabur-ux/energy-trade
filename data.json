@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-17T22:05:45+00:00",
-  "as_of_local": "2026-09-17 22:05:45 UTC",
+  "as_of_utc": "2026-09-17T22:10:47+00:00",
+  "as_of_local": "2026-09-17 22:10:47 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -853,6 +853,12 @@
       "market_cap": 56544724066.440056,
       "headlines": [
         {
+          "title": "Dominion Energy (D) Beats Stock Market Upswing: What Investors Need to Know",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/dominion-energy-d-beats-stock-220003197.html",
+          "publisher": "Zacks",
+          "published": "2026-09-17T22:00:03Z"
+        },
+        {
           "title": "NextEra Energy (NEE) Stock Looks Fairly Priced As Merger Approval Looms Large",
           "url": "https://finance.yahoo.com/markets/stocks/articles/nextera-energy-nee-stock-looks-161627191.html",
           "publisher": "Simply Wall St.",
@@ -863,12 +869,6 @@
           "url": "https://finance.yahoo.com/energy/articles/nextera-dominion-sweeten-merger-deal-013000843.html",
           "publisher": "Oilprice.com",
           "published": "2026-09-15T01:30:00Z"
-        },
-        {
-          "title": "Energy giants seeking to merge say they'll extend Virginia residents' bill credits and add jobs",
-          "url": "https://finance.yahoo.com/energy/articles/energy-giants-seeking-merge-theyll-213123306.html",
-          "publisher": "Associated Press",
-          "published": "2026-09-14T21:31:23Z"
         }
       ]
     },
@@ -2115,8 +2115,8 @@
     },
     {
       "label": "WTI",
-      "price": 101.09,
-      "change_pct": -1.31
+      "price": 101.14,
+      "change_pct": -1.26
     },
     {
       "label": "Brent",
@@ -2126,7 +2126,7 @@
     {
       "label": "NatGas",
       "price": 2.87,
-      "change_pct": -0.76
+      "change_pct": -0.69
     }
   ]
 }
