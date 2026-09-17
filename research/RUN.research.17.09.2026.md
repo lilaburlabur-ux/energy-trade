@@ -36,10 +36,10 @@ Sunrun Inc. designs, develops, installs, sells, owns, and maintains residential 
 
 | Headline | Source | Date |
 |---|---|---|
+| Sunrun (RUN) Could Be 49% Undervalued After Its $100 Million Private Placement | Simply Wall St. | 2026-09-17 |
 | Sunrun and First Solar Rise 6% as Solar Selloff Unwinds; SolarEdge Climbs 4% | 24/7 Wall St. | 2026-09-17 |
 | First Solar Retreats 5% After Dropping ITC Patent Case It Calls Procedural; Enphase Energy Slips, Sunrun Holds Steady | 24/7 Wall St. | 2026-09-16 |
 | Sunrun (RUN) Suffers a Larger Drop Than the General Market: Key Insights | Zacks | 2026-09-14 |
-| 2 Small-Cap Stocks to Keep an Eye On and 1 We Turn Down | StockStory | 2026-09-11 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -36,10 +36,10 @@ Kinder Morgan, Inc. operates as an energy infrastructure company primarily in No
 
 | Headline | Source | Date |
 |---|---|---|
+| Why Kinder Morgan (KMI) Outpaced the Stock Market Today | Zacks | 2026-09-17 |
 | Constellium highlighted as Zacks Bull and AGCO Bear of the Day | Zacks | 2026-09-17 |
 | Iran-War Uncertainty Puts These 3 Midstream Stocks in Focus | Zacks | 2026-09-16 |
 | Kinder Morgan (KMI) Stock May Be 43% Undervalued As Cash Flows Stay Strong | Simply Wall St. | 2026-09-16 |
-| These 3 Pipeline Stocks Pay High Yields Without the K-1 Headache | 24/7 Wall St. | 2026-09-14 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

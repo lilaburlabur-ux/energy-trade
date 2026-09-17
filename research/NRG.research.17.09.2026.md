@@ -36,10 +36,10 @@ NRG Energy, Inc., together with its subsidiaries, operates as an energy and home
 
 | Headline | Source | Date |
 |---|---|---|
+| NRG Energy (NRG) Stock Sinks As Market Gains: Here's Why | Zacks | 2026-09-17 |
 | The Nuclear Stock Boom Could Keep Decaying | The Wall Street Journal | 2026-09-17 |
 | Clearway Energy (CWEN) Dips More Than Broader Market: What You Should Know | Zacks | 2026-09-15 |
 | Vistra’s Price Has Edged Downward Throught 2026: One Analyst Says It’s Due to Double Soon. | 24/7 Wall St. | 2026-09-14 |
-| NRG Energy (NRG) Laps the Stock Market: Here's Why | Zacks | 2026-09-11 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

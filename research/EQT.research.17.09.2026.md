@@ -36,10 +36,10 @@ EQT Corporation engages in the exploration, production, gathering, and transmiss
 
 | Headline | Source | Date |
 |---|---|---|
+| EQT Stock Is Down 26% From Its 2026 Highs. Here’s What Could Turn It Around | TIKR | 2026-09-16 |
 | Why Is EOG Resources (EOG) Up 11% Since Last Earnings Report? | Zacks | 2026-09-03 |
 | EQT (EQT): 3 Reasons We Love This Stock | StockStory | 2026-08-31 |
 | Comstock (CRK) Up 15.1% Since Last Earnings Report: Can It Continue? | Zacks | 2026-08-28 |
-| Is CRK Stock Worth Buying Despite Heavy Spending and Weak Estimates? | Zacks | 2026-08-25 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

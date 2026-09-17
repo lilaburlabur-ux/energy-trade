@@ -36,10 +36,10 @@ Dominion Energy, Inc. provides regulated electricity and natural gas services in
 
 | Headline | Source | Date |
 |---|---|---|
+| Dominion Energy (D) Beats Stock Market Upswing: What Investors Need to Know | Zacks | 2026-09-17 |
 | NextEra Energy (NEE) Stock Looks Fairly Priced As Merger Approval Looms Large | Simply Wall St. | 2026-09-16 |
 | NextEra and Dominion Sweeten Merger Deal With Bill Credits and New Jobs | Oilprice.com | 2026-09-15 |
 | Energy giants seeking to merge say they'll extend Virginia residents' bill credits and add jobs | Associated Press | 2026-09-14 |
-| Dominion Energy vs. GE Vernova: Which Utilities Stock Is a Better Buy in 2026? | Motley Fool | 2026-09-14 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

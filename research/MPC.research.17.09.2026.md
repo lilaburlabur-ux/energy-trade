@@ -36,10 +36,10 @@ Marathon Petroleum Corporation, together with its subsidiaries, operates as an i
 
 | Headline | Source | Date |
 |---|---|---|
+| Marathon Petroleum (MPC) Exceeds Market Returns: Some Facts to Consider | Zacks | 2026-09-17 |
 | Think It’s Too Late to Buy Marathon and Valero? Here’s Why Analysts Say Wait Instead | 24/7 Wall St. | 2026-09-17 |
 | Valero Energy Corporation (VLO) Hit a 52 Week High, Can the Run Continue? | Zacks | 2026-09-17 |
 | 5 Relative Price Strength Stocks to Buy Amid Rising Rates | Zacks | 2026-09-17 |
-| Bank of England holds rates at 3.75% as U.K. inflation hits 3.1% | Quartz | 2026-09-17 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

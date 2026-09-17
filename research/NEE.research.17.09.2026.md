@@ -36,10 +36,10 @@ NextEra Energy, Inc., through its subsidiaries, generates, stores, transmits, di
 
 | Headline | Source | Date |
 |---|---|---|
+| NextEra Energy (NEE) Gains But Lags Market: What You Should Know | Zacks | 2026-09-17 |
 | The AI Boom Has a Power Problem. These 3 Utilities Are Getting Paid to Solve It. | 24/7 Wall St. | 2026-09-17 |
 | CEG Stock Trails Industry in 6 Months: Should You Buy, Hold or Sell? | Zacks | 2026-09-16 |
 | NextEra Energy (NEE) Stock Looks Fairly Priced As Merger Approval Looms Large | Simply Wall St. | 2026-09-16 |
-| How a Trade Deal With Japan Could Change the Face of U.S. Energy | Barrons.com | 2026-09-16 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
