@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-17T12:10:56+00:00",
-  "as_of_local": "2026-09-17 12:10:56 UTC",
+  "as_of_utc": "2026-09-17T12:15:49+00:00",
+  "as_of_local": "2026-09-17 12:15:49 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -97,6 +97,12 @@
       "market_cap": 246382539599.80316,
       "headlines": [
         {
+          "title": "Stock Market Today: Dow Rises In Fed Aftermath; Generac, Nebius, Bloom, SpaceX Are Early Movers (Live Coverage)",
+          "url": "https://www.investors.com/market-trend/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-fed-reaction-generac-nebius-bloom-energy-spacex/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-09-17T12:08:50Z"
+        },
+        {
           "title": "Latest News In Energy Transition - Lake Energy Bridges Real-World Assets With Digital Finance",
           "url": "https://finance.yahoo.com/energy/articles/latest-news-energy-transition-lake-113704581.html",
           "publisher": "Simply Wall St.",
@@ -107,12 +113,6 @@
           "url": "https://www.barrons.com/articles/generac-stock-amazon-generator-deal-553403ff?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
           "published": "2026-09-17T11:16:00Z"
-        },
-        {
-          "title": "Vineyard Wind, GE Vernova end legal conflict over Massachusetts wind farm",
-          "url": "https://finance.yahoo.com/energy/articles/vineyard-wind-ge-vernova-end-090030111.html",
-          "publisher": "Power Technology",
-          "published": "2026-09-17T09:00:30Z"
         }
       ]
     },
@@ -604,19 +604,19 @@
           "title": "Dow Jones Futures Rise After Hawkish Fed, Warsh Hit Stocks, Trump Fumes; AMD, Bloom Energy Eye Buy Points",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp-500-fed-rate-hike-warsh-amd-bloom-energy-stocks-to-watch/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
-          "published": "2026-09-17T11:58:09Z"
+          "published": "2026-09-17T12:08:58Z"
+        },
+        {
+          "title": "Stock Market Today: Dow Rises In Fed Aftermath; Generac, Nebius, Bloom, SpaceX Are Early Movers (Live Coverage)",
+          "url": "https://www.investors.com/market-trend/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-fed-reaction-generac-nebius-bloom-energy-spacex/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-09-17T12:08:50Z"
         },
         {
           "title": "Why Could Bloom Energy (BE) Change AI Data Center Power Economics?",
           "url": "https://finance.yahoo.com/technology/ai/articles/why-could-bloom-energy-change-111318400.html",
           "publisher": "Simply Wall St.",
           "published": "2026-09-17T11:13:18Z"
-        },
-        {
-          "title": "Why Are BE, FCEL, GEV Stocks Rising Overnight?",
-          "url": "https://finance.yahoo.com/energy/articles/why-fcel-gev-stocks-rising-020833326.html",
-          "publisher": "Stocktwits",
-          "published": "2026-09-17T02:08:33Z"
         }
       ]
     },
@@ -635,16 +635,16 @@
           "published": "2026-09-16T22:00:05Z"
         },
         {
+          "title": "15 stocks that have grown dividends the most \u2014 and nearly all have beaten the S&P 500",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/15-stocks-grown-dividends-most-160000858.html",
+          "publisher": "MarketWatch",
+          "published": "2026-09-16T16:00:00Z"
+        },
+        {
           "title": "1 S&P 500 Stock Worth Your Attention and 2 We Turn Down",
           "url": "https://finance.yahoo.com/markets/stocks/articles/1-p-500-stock-worth-093949978.html",
           "publisher": "StockStory",
           "published": "2026-09-16T09:39:49Z"
-        },
-        {
-          "title": "Why SLB Stock Slumped Today",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-slb-stock-slumped-today-220238220.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-14T22:02:38Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 99.96,
-      "change_pct": -2.41
+      "price": 100.0,
+      "change_pct": -2.37
     },
     {
       "label": "Brent",
-      "price": 98.81,
-      "change_pct": -6.63
+      "price": 98.89,
+      "change_pct": -6.56
     },
     {
       "label": "NatGas",
       "price": 2.88,
-      "change_pct": -0.42
+      "change_pct": -0.31
     }
   ]
 }
