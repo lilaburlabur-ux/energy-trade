@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-17T12:01:10+00:00",
-  "as_of_local": "2026-09-17 12:01:10 UTC",
+  "as_of_utc": "2026-09-17T12:05:53+00:00",
+  "as_of_local": "2026-09-17 12:05:53 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -604,7 +604,7 @@
           "title": "Dow Jones Futures Rise After Hawkish Fed, Warsh Hit Stocks, Trump Fumes; AMD, Bloom Energy Eye Buy Points",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp-500-fed-rate-hike-warsh-amd-bloom-energy-stocks-to-watch/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
-          "published": "2026-09-17T11:44:19Z"
+          "published": "2026-09-17T11:58:09Z"
         },
         {
           "title": "Why Could Bloom Energy (BE) Change AI Data Center Power Economics?",
@@ -683,7 +683,26 @@
       "previous_close": 21.33,
       "change_pct": -1.03,
       "market_cap": 72688056678.73329,
-      "headlines": []
+      "headlines": [
+        {
+          "title": "Energy Transfer LP (ET) Falls More Steeply Than Broader Market: What Investors Need to Know",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/energy-transfer-lp-et-falls-214504266.html",
+          "publisher": "Zacks",
+          "published": "2026-09-16T21:45:04Z"
+        },
+        {
+          "title": "Energy Transfer\u2019s (ET) Strong 2026 Run Gets a Fresh Vote from Stifel",
+          "url": "https://finance.yahoo.com/energy/articles/energy-transfer-et-strong-2026-040237602.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-09-16T04:00:11Z"
+        },
+        {
+          "title": "1 \u2018Strong Buy\u2019 Dividend Stock Offering a 6.3% Yield Right Now",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/1-strong-buy-dividend-stock-233002620.html",
+          "publisher": "Barchart",
+          "published": "2026-09-14T23:30:02Z"
+        }
+      ]
     },
     {
       "symbol": "KMI",
@@ -2096,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 100.76,
-      "change_pct": -1.63
+      "price": 100.43,
+      "change_pct": -1.95
     },
     {
       "label": "Brent",
-      "price": 99.44,
-      "change_pct": -6.04
+      "price": 99.07,
+      "change_pct": -6.39
     },
     {
       "label": "NatGas",
-      "price": 2.87,
-      "change_pct": -0.59
+      "price": 2.88,
+      "change_pct": -0.48
     }
   ]
 }
