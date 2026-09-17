@@ -1,43 +1,10 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-17T04:12:20+00:00",
+  "as_of": "2026-09-17T08:09:30+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": [
-  {
-   "rank": 1,
-   "ticker": "FANG",
-   "company": "Diamondback Energy, Inc.",
-   "move_pct": -8.03,
-   "price": 194.54,
-   "volume": 15401000,
-   "volume_vs_avg": "~8x",
-   "heat_score": 78,
-   "direction": "down",
-   "why": "Moving down 8.0% on ~8x average volume with no fresh headline this cycle \u2014 attention without a story.",
-   "catalyst_type": "no_news_mover",
-   "source_url": "",
-   "published": "",
-   "sector": "Shale & E&P"
-  },
-  {
-   "rank": 2,
-   "ticker": "PR",
-   "company": "Permian Resources Corporation",
-   "move_pct": -5.67,
-   "price": 22.95,
-   "volume": 17507500,
-   "volume_vs_avg": "~2x",
-   "heat_score": 44,
-   "direction": "down",
-   "why": "Permian Resources (PR) Stock Still Looks Cheap As Its 371% Run Continues",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/permian-resources-pr-stock-still-021302998.html",
-   "published": "2026-09-17T02:13:02Z",
-   "sector": "Shale & E&P"
-  }
- ]
+ "hot_tickers": []
 }
