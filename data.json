@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-17T10:06:36+00:00",
-  "as_of_local": "2026-09-17 10:06:36 UTC",
+  "as_of_utc": "2026-09-17T10:11:32+00:00",
+  "as_of_local": "2026-09-17 10:11:32 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -13,6 +13,12 @@
       "market_cap": 671557491423.7427,
       "headlines": [
         {
+          "title": "Stocks to Watch: Lennar, Generac, Volvo",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-17-2026/card/stocks-to-watch-lennar-generac-volvo-DAol7UnkE6rwaNoVAkBo?siteid=yhoof2&yptr=yahoo",
+          "publisher": "The Wall Street Journal",
+          "published": "2026-09-17T09:14:09Z"
+        },
+        {
           "title": "XOM Keeps Climbing. Should You Climb On?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/xom-keeps-climbing-climb-232922566.html",
           "publisher": "Trefis",
@@ -23,12 +29,6 @@
           "url": "https://finance.yahoo.com/energy/articles/exxonmobil-talks-return-venezuela-bloomberg-215635505.html",
           "publisher": "Investing.com",
           "published": "2026-09-16T21:56:35Z"
-        },
-        {
-          "title": "Exxon Is Nearing Preliminary Deal to Invest in Venezuela\u2019s Oil Fields",
-          "url": "https://www.wsj.com/business/energy-oil/exxon-is-nearing-a-preliminary-deal-to-invest-in-venezuelas-oil-fields-8c02126b?siteid=yhoof2&yptr=yahoo",
-          "publisher": "The Wall Street Journal",
-          "published": "2026-09-16T21:05:00Z"
         }
       ]
     },
@@ -937,6 +937,12 @@
       "market_cap": 54475048455.66431,
       "headlines": [
         {
+          "title": "Stocks to Watch: Lennar, Generac, Volvo",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-17-2026/card/stocks-to-watch-lennar-generac-volvo-DAol7UnkE6rwaNoVAkBo?siteid=yhoof2&yptr=yahoo",
+          "publisher": "The Wall Street Journal",
+          "published": "2026-09-17T09:14:09Z"
+        },
+        {
           "title": "US Stock Market Today: S&P 500 Futures Edge Higher As Fed Rate Decision Looms",
           "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-081238094.html",
           "publisher": "Simply Wall St.",
@@ -947,12 +953,6 @@
           "url": "https://www.wsj.com/livecoverage/fed-meeting-warsh-interest-rate-09-16-2026/card/oil-heiress-s-1-9-billion-stock-sale-sinks-diamondback-shares-bVA2RW6NHvd8S99uNhF7?siteid=yhoof2&yptr=yahoo",
           "publisher": "The Wall Street Journal",
           "published": "2026-09-16T21:39:51Z"
-        },
-        {
-          "title": "Diamondback Energy, Permian Resources, APA Corporation, Viper Energy, and Comstock Resources Shares Are Falling, What You Need To Know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/diamondback-energy-permian-resources-apa-211652011.html",
-          "publisher": "StockStory",
-          "published": "2026-09-16T21:16:52Z"
         }
       ]
     },
@@ -2120,13 +2120,13 @@
     },
     {
       "label": "Brent",
-      "price": 99.94,
-      "change_pct": -5.57
+      "price": 99.92,
+      "change_pct": -5.58
     },
     {
       "label": "NatGas",
       "price": 2.89,
-      "change_pct": 0.0
+      "change_pct": -0.07
     }
   ]
 }
