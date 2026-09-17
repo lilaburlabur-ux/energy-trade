@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-09-17T00:36:21+00:00",
-  "as_of_local": "2026-09-17 00:36:21 UTC",
+  "as_of_utc": "2026-09-17T00:41:24+00:00",
+  "as_of_local": "2026-09-17 00:41:24 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "BWXT"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -150,7 +152,7 @@
       "price": 81.07,
       "previous_close": 81.63,
       "change_pct": -0.69,
-      "market_cap": 167620102622.46002,
+      "market_cap": 167650068657.33002,
       "headlines": [
         {
           "title": "CEG Stock Trails Industry in 6 Months: Should You Buy, Hold or Sell?",
@@ -206,7 +208,7 @@
       "price": 392.4,
       "previous_close": 393.16,
       "change_pct": -0.19,
-      "market_cap": 154465740000.0,
+      "market_cap": 154505520000.0,
       "headlines": [
         {
           "title": "Eaton (ETN) Advances While Market Declines: Some Information for Investors",
@@ -225,34 +227,6 @@
           "url": "https://finance.yahoo.com/markets/options/articles/paid-while-eaton-finishes-factories-023716247.html",
           "publisher": "Trefis",
           "published": "2026-09-16T02:37:16Z"
-        }
-      ]
-    },
-    {
-      "symbol": "MPC",
-      "name": "Marathon Petroleum",
-      "price": 410.84,
-      "previous_close": 396.45,
-      "change_pct": 3.63,
-      "market_cap": 120838411959.20001,
-      "headlines": [
-        {
-          "title": "XOM Keeps Climbing. Should You Climb On?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/xom-keeps-climbing-climb-232922566.html",
-          "publisher": "Trefis",
-          "published": "2026-09-16T23:29:22Z"
-        },
-        {
-          "title": "This ETF Should Rise as Interest Rates Go Up. Is It Too Late to Get In on the Fun Now?",
-          "url": "https://www.barrons.com/articles/etf-federal-reserve-interest-rates-5f58f767?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-09-16T06:00:00Z"
-        },
-        {
-          "title": "Stocks to Watch Recap: UBS, Vera Bradley, Dave & Buster\u2019s, Coinbase",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-15-2026/card/stocks-to-watch-ubs-dave-buster-s-coinbase-jtr1rDqgMUIB3BssUa1U?siteid=yhoof2&yptr=yahoo",
-          "publisher": "The Wall Street Journal",
-          "published": "2026-09-15T21:25:47Z"
         }
       ]
     },
@@ -281,6 +255,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/europe-fortune-500-2026-record-040600982.html",
           "publisher": "Fortune",
           "published": "2026-09-16T04:06:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "MPC",
+      "name": "Marathon Petroleum",
+      "price": 410.84,
+      "previous_close": 396.45,
+      "change_pct": 3.63,
+      "market_cap": 116238985900.96,
+      "headlines": [
+        {
+          "title": "XOM Keeps Climbing. Should You Climb On?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/xom-keeps-climbing-climb-232922566.html",
+          "publisher": "Trefis",
+          "published": "2026-09-16T23:29:22Z"
+        },
+        {
+          "title": "This ETF Should Rise as Interest Rates Go Up. Is It Too Late to Get In on the Fun Now?",
+          "url": "https://www.barrons.com/articles/etf-federal-reserve-interest-rates-5f58f767?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-09-16T06:00:00Z"
+        },
+        {
+          "title": "Stocks to Watch Recap: UBS, Vera Bradley, Dave & Buster\u2019s, Coinbase",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-15-2026/card/stocks-to-watch-ubs-dave-buster-s-coinbase-jtr1rDqgMUIB3BssUa1U?siteid=yhoof2&yptr=yahoo",
+          "publisher": "The Wall Street Journal",
+          "published": "2026-09-15T21:25:47Z"
         }
       ]
     },
@@ -654,7 +656,7 @@
       "price": 153.74,
       "previous_close": 148.54,
       "change_pct": 3.5,
-      "market_cap": 77193852852.90001,
+      "market_cap": 76020013477.68001,
       "headlines": [
         {
           "title": "Oil Producers Slide as Crude Retreats: EOG Resources Drops 6%, ConocoPhillips and Occidental Petroleum Fall 5%",
@@ -822,7 +824,7 @@
       "price": 94.72,
       "previous_close": 96.97,
       "change_pct": -2.32,
-      "market_cap": 58404045380.4,
+      "market_cap": 58435268130.9,
       "headlines": [
         {
           "title": "ONEOK (OKE) Completed Its Corporate Reorganization On September 10",
@@ -1074,7 +1076,7 @@
       "price": 70.42,
       "previous_close": 70.92,
       "change_pct": -0.71,
-      "market_cap": 35076843486.78,
+      "market_cap": 35083785911.7,
       "headlines": [
         {
           "title": "Public Service Enterprise Group CEO Sells 2,083 Shares",
@@ -1405,34 +1407,6 @@
       ]
     },
     {
-      "symbol": "BWXT",
-      "name": "BWX Technologies",
-      "price": 146.7,
-      "previous_close": 148.53,
-      "change_pct": -1.23,
-      "market_cap": 13345657606.8,
-      "headlines": [
-        {
-          "title": "BWX Technologies (BWXT) Lands Key Y 12 Nuclear Design Role",
-          "url": "https://finance.yahoo.com/technology/articles/bwx-technologies-bwxt-lands-key-131250415.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-09-16T13:12:50Z"
-        },
-        {
-          "title": "1 Mid-Cap Stock with Exciting Potential and 2 We Question",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/1-mid-cap-stock-exciting-085949770.html",
-          "publisher": "StockStory",
-          "published": "2026-09-16T08:59:49Z"
-        },
-        {
-          "title": "BWXT\u2019s Latest NNSA Win Signals Bigger Nuclear Opportunity",
-          "url": "https://finance.yahoo.com/energy/articles/bwxt-latest-nnsa-win-signals-033451358.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-09-16T03:34:51Z"
-        }
-      ]
-    },
-    {
       "symbol": "NXT",
       "name": "Nextracker",
       "price": 79.79,
@@ -1494,7 +1468,7 @@
       "price": 28.81,
       "previous_close": 29.43,
       "change_pct": -2.11,
-      "market_cap": 8822297821.85,
+      "market_cap": 8730247200.34,
       "headlines": [
         {
           "title": "3 Nuclear Energy Stocks to Buy Before 2026 Ends",
@@ -1606,7 +1580,7 @@
       "price": 85.39,
       "previous_close": 84.46,
       "change_pct": 1.1,
-      "market_cap": 5899711958.9,
+      "market_cap": 5885446159.2,
       "headlines": [
         {
           "title": "Solaris Energy Infrastructure, TETRA Technologies, SLB, and Weatherford Stocks Trade Down, What You Need To Know",
@@ -1662,7 +1636,7 @@
       "price": 36.72,
       "previous_close": 36.66,
       "change_pct": 0.16,
-      "market_cap": 4686744703.200001,
+      "market_cap": 4699063682.88,
       "headlines": [
         {
           "title": "Enphase Energy (ENPH) Registers a Bigger Fall Than the Market: Important Facts to Note",
@@ -1718,7 +1692,7 @@
       "price": 11.86,
       "previous_close": 12.34,
       "change_pct": -3.89,
-      "market_cap": 2932089450.0,
+      "market_cap": 3105793999.56,
       "headlines": [
         {
           "title": "UEC Gears Up to Report Q4 Earnings: What's in Store for the Stock?",
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 101.52,
-      "change_pct": -4.07
+      "price": 101.47,
+      "change_pct": -4.12
     },
     {
       "label": "Brent",
-      "price": 105.0,
-      "change_pct": -3.45
+      "price": 104.95,
+      "change_pct": -3.49
     },
     {
       "label": "NatGas",
-      "price": 2.9,
-      "change_pct": -0.79
+      "price": 2.89,
+      "change_pct": -0.82
     }
   ]
 }
