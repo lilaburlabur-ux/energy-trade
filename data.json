@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-17T00:07:50+00:00",
-  "as_of_local": "2026-09-17 00:07:50 UTC",
+  "as_of_utc": "2026-09-17T00:11:00+00:00",
+  "as_of_local": "2026-09-17 00:11:00 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -235,7 +235,26 @@
       "previous_close": 45.93,
       "change_pct": 2.24,
       "market_cap": 116869033029.44,
-      "headlines": []
+      "headlines": [
+        {
+          "title": "VF Corporation Cut Its Dividend 82%. Five Historical Cases Show What Could Happen Next",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/vf-corporation-cut-dividend-82-184652448.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-09-16T18:46:52Z"
+        },
+        {
+          "title": "European Equities Traded in US as ADRs Rise in Wednesday Trading",
+          "url": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-adrs-150836727.html",
+          "publisher": "MT Newswires",
+          "published": "2026-09-16T15:08:36Z"
+        },
+        {
+          "title": "Europe\u2019s Fortune 500 2026: Record revenue, shrinking margins, and a new No. 1 country",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/europe-fortune-500-2026-record-040600982.html",
+          "publisher": "Fortune",
+          "published": "2026-09-16T04:06:00Z"
+        }
+      ]
     },
     {
       "symbol": "MPC",
@@ -2096,8 +2115,8 @@
     },
     {
       "label": "WTI",
-      "price": 101.7,
-      "change_pct": -3.9
+      "price": 101.63,
+      "change_pct": -3.97
     },
     {
       "label": "Brent",
@@ -2107,7 +2126,7 @@
     {
       "label": "NatGas",
       "price": 2.89,
-      "change_pct": -0.92
+      "change_pct": -0.86
     }
   ]
 }
