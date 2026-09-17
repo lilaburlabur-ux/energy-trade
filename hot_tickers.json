@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-17T17:22:51+00:00",
+  "as_of": "2026-09-17T17:30:58+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,17 +11,49 @@
    "rank": 1,
    "ticker": "FLNC",
    "company": "Fluence Energy, Inc.",
-   "move_pct": -14.2,
-   "price": 7.76,
-   "volume": 24826439,
+   "move_pct": -14.64,
+   "price": 7.72,
+   "volume": 25112181,
    "volume_vs_avg": "~4x",
-   "heat_score": 92,
+   "heat_score": 94,
    "direction": "down",
    "why": "Fluence Energy Faces Multi-Year Recovery From Manufacturing Issues, RBC Says",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://finance.yahoo.com/energy/articles/fluence-energy-faces-multi-recovery-152550512.html",
    "published": "2026-09-17T15:25:50Z",
    "sector": "Grid, Storage & Electrification"
+  },
+  {
+   "rank": 2,
+   "ticker": "OKLO",
+   "company": "Oklo Inc.",
+   "move_pct": 12.8,
+   "price": 40.18,
+   "volume": 11827514,
+   "volume_vs_avg": "~1.2x",
+   "heat_score": 76,
+   "direction": "up",
+   "why": "Oklo Jumps 13%, NuScale Power Climbs 10%: Does the House Data Center Power Vote Reach Nuclear?",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/economy/policy/articles/oklo-jumps-13-nuscale-power-170527575.html",
+   "published": "2026-09-17T17:05:27Z",
+   "sector": "Nuclear & Uranium"
+  },
+  {
+   "rank": 3,
+   "ticker": "SMR",
+   "company": "NuScale Power Corporation",
+   "move_pct": 8.92,
+   "price": 9.04,
+   "volume": 26217292,
+   "volume_vs_avg": "~0.7x",
+   "heat_score": 60,
+   "direction": "up",
+   "why": "Oklo Jumps 13%, NuScale Power Climbs 10%: Does the House Data Center Power Vote Reach Nuclear?",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/economy/policy/articles/oklo-jumps-13-nuscale-power-170527575.html",
+   "published": "2026-09-17T17:05:27Z",
+   "sector": "Nuclear & Uranium"
   }
  ]
 }
