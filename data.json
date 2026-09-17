@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-17T20:21:18+00:00",
-  "as_of_local": "2026-09-17 20:21:18 UTC",
+  "as_of_utc": "2026-09-17T20:22:46+00:00",
+  "as_of_local": "2026-09-17 20:22:46 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -963,7 +963,26 @@
       "previous_close": 48.44,
       "change_pct": 0.58,
       "market_cap": 53592001342.77344,
-      "headlines": []
+      "headlines": [
+        {
+          "title": "Devon Energy (DVN) Declines More Than Market: Some Information for Investors",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/devon-energy-dvn-declines-more-215003296.html",
+          "publisher": "Zacks",
+          "published": "2026-09-16T21:50:03Z"
+        },
+        {
+          "title": "Sunoco Stock Breaks Out; Oil Prices Rise With No Clear End To Hormuz Closure",
+          "url": "https://www.investors.com/news/sunoco-oil-prices-stocks-iran-war-hormuz/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-09-15T18:19:37Z"
+        },
+        {
+          "title": "Devon Energy Corporation (DVN) is Attracting Investor Attention: Here is What You Should Know",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/devon-energy-corporation-dvn-attracting-130005047.html",
+          "publisher": "Zacks",
+          "published": "2026-09-15T13:00:05Z"
+        }
+      ]
     },
     {
       "symbol": "ETR",
@@ -2096,8 +2115,8 @@
     },
     {
       "label": "WTI",
-      "price": 101.17,
-      "change_pct": -1.23
+      "price": 101.15,
+      "change_pct": -1.25
     },
     {
       "label": "Brent",
@@ -2107,7 +2126,7 @@
     {
       "label": "NatGas",
       "price": 2.86,
-      "change_pct": -1.07
+      "change_pct": -1.0
     }
   ]
 }
