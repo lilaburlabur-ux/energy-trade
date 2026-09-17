@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-17T13:01:42+00:00",
-  "as_of_local": "2026-09-17 13:01:42 UTC",
+  "as_of_utc": "2026-09-17T13:06:40+00:00",
+  "as_of_local": "2026-09-17 13:06:40 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -797,6 +797,12 @@
       "market_cap": 58732808789.834984,
       "headlines": [
         {
+          "title": "Constellium highlighted as Zacks Bull and AGCO Bear of the Day",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/constellium-highlighted-zacks-bull-agco-125400291.html",
+          "publisher": "Zacks",
+          "published": "2026-09-17T12:54:00Z"
+        },
+        {
           "title": "2 Midstream Dividend Stocks Nobody's Talking About Right Now",
           "url": "https://finance.yahoo.com/energy/articles/2-midstream-dividend-stocks-nobodys-023500381.html",
           "publisher": "Motley Fool",
@@ -807,12 +813,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/iran-war-uncertainty-puts-3-160700323.html",
           "publisher": "Zacks",
           "published": "2026-09-16T16:07:00Z"
-        },
-        {
-          "title": "Is MPLX (MPLX) Undervalued As Earnings Expectations Weigh On Sentiment?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/mplx-mplx-undervalued-earnings-expectations-181548175.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-09-15T18:15:48Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 99.91,
-      "change_pct": -2.46
+      "price": 99.85,
+      "change_pct": -2.52
     },
     {
       "label": "Brent",
-      "price": 102.35,
-      "change_pct": -3.29
+      "price": 102.26,
+      "change_pct": -3.37
     },
     {
       "label": "NatGas",
       "price": 2.88,
-      "change_pct": -0.45
+      "change_pct": -0.52
     }
   ]
 }
