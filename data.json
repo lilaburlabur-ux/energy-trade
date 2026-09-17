@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-09-17T20:22:46+00:00",
-  "as_of_local": "2026-09-17 20:22:46 UTC",
+  "as_of_utc": "2026-09-17T20:24:27+00:00",
+  "as_of_local": "2026-09-17 20:24:27 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "BP"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -150,7 +152,7 @@
       "price": 81.28,
       "previous_close": 80.37,
       "change_pct": 1.13,
-      "market_cap": 169548306281.15988,
+      "market_cap": 169518000952.33502,
       "headlines": [
         {
           "title": "The AI Boom Has a Power Problem. These 3 Utilities Are Getting Paid to Solve It.",
@@ -206,7 +208,7 @@
       "price": 409.46,
       "previous_close": 397.8,
       "change_pct": 2.93,
-      "market_cap": 159034260681.15234,
+      "market_cap": 158993314682.00684,
       "headlines": [
         {
           "title": "Jim Cramer Presses OpenAI CFO on AI Spending. 6 Stocks Are Riding on What Happens Next",
@@ -225,6 +227,34 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/jim-cramer-turns-two-kings-181847481.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-09-17T18:18:47Z"
+        }
+      ]
+    },
+    {
+      "symbol": "MPC",
+      "name": "Marathon Petroleum",
+      "price": 421.96,
+      "previous_close": 413.92,
+      "change_pct": 1.94,
+      "market_cap": 123185580010.02426,
+      "headlines": [
+        {
+          "title": "Think It\u2019s Too Late to Buy Marathon and Valero? Here\u2019s Why Analysts Say Wait Instead",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/think-too-buy-marathon-valero-131550836.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-09-17T13:15:50Z"
+        },
+        {
+          "title": "Valero Energy Corporation (VLO) Hit a 52 Week High, Can the Run Continue?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/valero-energy-corporation-vlo-hit-131502713.html",
+          "publisher": "Zacks",
+          "published": "2026-09-17T13:15:02Z"
+        },
+        {
+          "title": "5 Relative Price Strength Stocks to Buy Amid Rising Rates",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/5-relative-price-strength-stocks-124100557.html",
+          "publisher": "Zacks",
+          "published": "2026-09-17T12:41:00Z"
         }
       ]
     },
@@ -253,62 +283,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/think-too-buy-marathon-valero-131550836.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-09-17T13:15:50Z"
-        }
-      ]
-    },
-    {
-      "symbol": "MPC",
-      "name": "Marathon Petroleum",
-      "price": 421.96,
-      "previous_close": 413.92,
-      "change_pct": 1.94,
-      "market_cap": 118496814595.85434,
-      "headlines": [
-        {
-          "title": "Think It\u2019s Too Late to Buy Marathon and Valero? Here\u2019s Why Analysts Say Wait Instead",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/think-too-buy-marathon-valero-131550836.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-09-17T13:15:50Z"
-        },
-        {
-          "title": "Valero Energy Corporation (VLO) Hit a 52 Week High, Can the Run Continue?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/valero-energy-corporation-vlo-hit-131502713.html",
-          "publisher": "Zacks",
-          "published": "2026-09-17T13:15:02Z"
-        },
-        {
-          "title": "5 Relative Price Strength Stocks to Buy Amid Rising Rates",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/5-relative-price-strength-stocks-124100557.html",
-          "publisher": "Zacks",
-          "published": "2026-09-17T12:41:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "BP",
-      "name": "BP",
-      "price": 45.42,
-      "previous_close": 45.38,
-      "change_pct": 0.09,
-      "market_cap": 116972042005.36743,
-      "headlines": [
-        {
-          "title": "European Equities Traded in the US as American Depositary Receipts Rise Sharply in Thursday Trading",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/european-equities-traded-us-american-150918927.html",
-          "publisher": "MT Newswires",
-          "published": "2026-09-17T15:09:18Z"
-        },
-        {
-          "title": "Revolut eyes stock market listings in London and New York",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/revolut-eyes-stock-market-listings-150042295.html",
-          "publisher": "The Telegraph",
-          "published": "2026-09-17T15:00:42Z"
-        },
-        {
-          "title": "VF Corporation Cut Its Dividend 82%. Five Historical Cases Show What Could Happen Next",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/vf-corporation-cut-dividend-82-184652448.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-09-16T18:46:52Z"
         }
       ]
     },
@@ -621,6 +595,34 @@
       ]
     },
     {
+      "symbol": "EOG",
+      "name": "EOG Resources",
+      "price": 145.47,
+      "previous_close": 144.93,
+      "change_pct": 0.37,
+      "market_cap": 77481472909.28131,
+      "headlines": [
+        {
+          "title": "Oil Producers Slide as Crude Retreats: EOG Resources Drops 6%, ConocoPhillips and Occidental Petroleum Fall 5%",
+          "url": "https://finance.yahoo.com/energy/articles/oil-producers-slide-crude-retreats-160306957.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-09-16T16:03:06Z"
+        },
+        {
+          "title": "The Zacks Analyst Blog Highlights  JPMorgan Chase, EOG Resources and Bloom Energy",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-jpmorgan-075800004.html",
+          "publisher": "Zacks",
+          "published": "2026-09-10T07:58:00Z"
+        },
+        {
+          "title": "Stocks to Consider Before the Fed's September Decision: JPM, EOG, BE",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-consider-feds-september-decision-190000988.html",
+          "publisher": "Zacks",
+          "published": "2026-09-09T19:00:00Z"
+        }
+      ]
+    },
+    {
       "symbol": "SLB",
       "name": "SLB (Schlumberger)",
       "price": 52.08,
@@ -645,34 +647,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/slb-slb-falls-more-steeply-220005178.html",
           "publisher": "Zacks",
           "published": "2026-09-16T22:00:05Z"
-        }
-      ]
-    },
-    {
-      "symbol": "EOG",
-      "name": "EOG Resources",
-      "price": 145.47,
-      "previous_close": 144.93,
-      "change_pct": 0.37,
-      "market_cap": 76303259873.0144,
-      "headlines": [
-        {
-          "title": "Oil Producers Slide as Crude Retreats: EOG Resources Drops 6%, ConocoPhillips and Occidental Petroleum Fall 5%",
-          "url": "https://finance.yahoo.com/energy/articles/oil-producers-slide-crude-retreats-160306957.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-09-16T16:03:06Z"
-        },
-        {
-          "title": "The Zacks Analyst Blog Highlights  JPMorgan Chase, EOG Resources and Bloom Energy",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-jpmorgan-075800004.html",
-          "publisher": "Zacks",
-          "published": "2026-09-10T07:58:00Z"
-        },
-        {
-          "title": "Stocks to Consider Before the Fed's September Decision: JPM, EOG, BE",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-consider-feds-september-decision-190000988.html",
-          "publisher": "Zacks",
-          "published": "2026-09-09T19:00:00Z"
         }
       ]
     },
@@ -1074,7 +1048,7 @@
       "price": 70.98,
       "previous_close": 70.39,
       "change_pct": 0.84,
-      "market_cap": 35377855402.56294,
+      "market_cap": 35370854786.791855,
       "headlines": [
         {
           "title": "Public Service Enterprise Group CEO Sells 2,083 Shares",
@@ -1494,7 +1468,7 @@
       "price": 29.66,
       "previous_close": 29.09,
       "change_pct": 1.96,
-      "market_cap": 8901310781.3666,
+      "market_cap": 8995165075.62376,
       "headlines": [
         {
           "title": "3 Nuclear Energy Stocks to Buy Before 2026 Ends",
@@ -1606,7 +1580,7 @@
       "price": 82.05,
       "previous_close": 82.3,
       "change_pct": -0.3,
-      "market_cap": 5867568351.437622,
+      "market_cap": 5881790816.916611,
       "headlines": [
         {
           "title": "Solaris Energy Infrastructure, TETRA Technologies, SLB, and Weatherford Stocks Trade Down, What You Need To Know",
@@ -1662,7 +1636,7 @@
       "price": 36.02,
       "previous_close": 35.56,
       "change_pct": 1.29,
-      "market_cap": 4759850281.451019,
+      "market_cap": 4747371944.732437,
       "headlines": [
         {
           "title": "3 of Wall Street\u2019s Favorite Stocks We Approach with Caution",
@@ -1713,34 +1687,6 @@
       ]
     },
     {
-      "symbol": "UUUU",
-      "name": "Energy Fuels",
-      "price": 11.98,
-      "previous_close": 11.73,
-      "change_pct": 2.13,
-      "market_cap": 3171987271.3562775,
-      "headlines": [
-        {
-          "title": "MP's Operating Losses Continue in Q2: Can It Revert to Profitability?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/mps-operating-losses-continue-q2-151900509.html",
-          "publisher": "Zacks",
-          "published": "2026-09-17T15:19:00Z"
-        },
-        {
-          "title": "UEC Gears Up to Report Q4 Earnings: What's in Store for the Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/uec-gears-report-q4-earnings-163200407.html",
-          "publisher": "Zacks",
-          "published": "2026-09-16T16:32:00Z"
-        },
-        {
-          "title": "Energy Fuels Inc (UUUU) is Attracting Investor Attention: Here is What You Should Know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/energy-fuels-inc-uuuu-attracting-130001777.html",
-          "publisher": "Zacks",
-          "published": "2026-09-16T13:00:01Z"
-        }
-      ]
-    },
-    {
       "symbol": "LEU",
       "name": "Centrus Energy",
       "price": 149.85,
@@ -1765,6 +1711,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/centrus-energy-leu-stock-trades-024904901.html",
           "publisher": "StockStory",
           "published": "2026-09-11T02:49:04Z"
+        }
+      ]
+    },
+    {
+      "symbol": "UUUU",
+      "name": "Energy Fuels",
+      "price": 11.98,
+      "previous_close": 11.73,
+      "change_pct": 2.13,
+      "market_cap": 2994580585.5751038,
+      "headlines": [
+        {
+          "title": "MP's Operating Losses Continue in Q2: Can It Revert to Profitability?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/mps-operating-losses-continue-q2-151900509.html",
+          "publisher": "Zacks",
+          "published": "2026-09-17T15:19:00Z"
+        },
+        {
+          "title": "UEC Gears Up to Report Q4 Earnings: What's in Store for the Stock?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/uec-gears-report-q4-earnings-163200407.html",
+          "publisher": "Zacks",
+          "published": "2026-09-16T16:32:00Z"
+        },
+        {
+          "title": "Energy Fuels Inc (UUUU) is Attracting Investor Attention: Here is What You Should Know",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/energy-fuels-inc-uuuu-attracting-130001777.html",
+          "publisher": "Zacks",
+          "published": "2026-09-16T13:00:01Z"
         }
       ]
     },
@@ -2120,13 +2094,13 @@
     },
     {
       "label": "Brent",
-      "price": 104.05,
-      "change_pct": -1.68
+      "price": 104.06,
+      "change_pct": -1.67
     },
     {
       "label": "NatGas",
-      "price": 2.86,
-      "change_pct": -1.0
+      "price": 2.87,
+      "change_pct": -0.86
     }
   ]
 }
