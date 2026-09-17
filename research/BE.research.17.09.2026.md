@@ -36,7 +36,7 @@ Bloom Energy Corporation designs, manufactures, sells, and installs solid oxide 
 
 | Headline | Source | Date |
 |---|---|---|
-| Stock Market Today: Nasdaq Retakes Key Level; Ad Platform Provider Hits Highs (Live Coverage) | Investor's Business Daily | 2026-09-17 |
+| Stock Market Today: Nasdaq Snaps Losing Streak; Nvidia Gains As This Stock Soars On Amazon Deal | Investor's Business Daily | 2026-09-17 |
 | Stocks making big moves yesterday: FTAI Aviation, Bloom Energy, Semtech, Sabre, and Solaris Energy Infrastructure | StockStory | 2026-09-17 |
 | Dow Jones Futures Rise After Hawkish Fed, Warsh Hit Stocks, Trump Fumes; AMD, Bloom Energy Eye Buy Points | Investor's Business Daily | 2026-09-17 |
 | Why Could Bloom Energy (BE) Change AI Data Center Power Economics? | Simply Wall St. | 2026-09-17 |

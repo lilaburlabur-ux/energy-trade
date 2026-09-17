@@ -36,8 +36,8 @@ Vertiv Holdings Co designs, manufactures, and services critical digital infrastr
 
 | Headline | Source | Date |
 |---|---|---|
+| AI Power Stocks Rally After Generac's Deal For Amazon Data Centers | Investor's Business Daily | 2026-09-17 |
 | Jim Cramer Presses OpenAI CFO on AI Spending. 6 Stocks Are Riding on What Happens Next | 24/7 Wall St. | 2026-09-17 |
-| Generac's Amazon Win Recharges Its Electrical Peers. This Is Why. | Investor's Business Daily | 2026-09-17 |
 | Jim Cramer Turns on the Two Kings of AI: “If You Want to Destroy Trust, You Couldn’t Find a Better Way” | 24/7 Wall St. | 2026-09-17 |
 | Vertiv's Product Revenue Accelerates: Can It Outpace APH & SMCI? | Zacks | 2026-09-17 |
 

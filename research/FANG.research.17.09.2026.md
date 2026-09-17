@@ -36,7 +36,7 @@ Diamondback Energy, Inc., an independent oil and natural gas company, acquires, 
 
 | Headline | Source | Date |
 |---|---|---|
-| Stocks to Watch: Lennar, Generac, Volvo | The Wall Street Journal | 2026-09-17 |
+| Stocks to Watch Recap: Lennar, Generac, Volvo | The Wall Street Journal | 2026-09-17 |
 | Company News for Sep 17, 2026 | Zacks | 2026-09-17 |
 | US Stock Market Today: S&P 500 Futures Edge Higher As Fed Rate Decision Looms | Simply Wall St. | 2026-09-17 |
 | Oil Heiress’s $1.9 Billion Stock Sale Sinks Diamondback Shares | The Wall Street Journal | 2026-09-16 |

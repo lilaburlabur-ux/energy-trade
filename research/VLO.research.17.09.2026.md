@@ -36,10 +36,10 @@ Valero Energy Corporation manufactures, markets, and sells petroleum-based and l
 
 | Headline | Source | Date |
 |---|---|---|
+| Top Analyst Reports for Applied Materials, Philip Morris & Valero Energy | Zacks | 2026-09-17 |
 | Equinor Eyes LNG Expansion Amid Global Supply Disruptions | Zacks | 2026-09-17 |
 | Surging Earnings Estimates Signal Upside for Valero Energy (VLO) Stock | Zacks | 2026-09-17 |
 | Think It’s Too Late to Buy Marathon and Valero? Here’s Why Analysts Say Wait Instead | 24/7 Wall St. | 2026-09-17 |
-| Valero Energy Corporation (VLO) Hit a 52 Week High, Can the Run Continue? | Zacks | 2026-09-17 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

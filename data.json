@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-17T21:20:11+00:00",
-  "as_of_local": "2026-09-17 21:20:11 UTC",
+  "as_of_utc": "2026-09-17T21:22:10+00:00",
+  "as_of_local": "2026-09-17 21:22:10 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -123,26 +123,7 @@
       "previous_close": 90.84,
       "change_pct": 0.83,
       "market_cap": 202325511040.69208,
-      "headlines": [
-        {
-          "title": "France: TotalEnergies cut-price fuel spikes controversy among rivals",
-          "url": "https://finance.yahoo.com/video/france-totalenergies-cut-price-fuel-160054752.html",
-          "publisher": "Euronews",
-          "published": "2026-09-16T16:00:54Z"
-        },
-        {
-          "title": "TotalEnergies pumps up controversy in France with cut-price gas",
-          "url": "https://finance.yahoo.com/energy/articles/totalenergies-pumps-controversy-france-cut-132800201.html",
-          "publisher": "AFP",
-          "published": "2026-09-16T13:28:00Z"
-        },
-        {
-          "title": "TotalEnergies and Mistral launch oil and gas AI partnership",
-          "url": "https://finance.yahoo.com/energy/articles/totalenergies-mistral-launch-oil-gas-103748512.html",
-          "publisher": "Offshore Technology",
-          "published": "2026-09-16T10:37:48Z"
-        }
-      ]
+      "headlines": []
     },
     {
       "symbol": "NEE",
@@ -150,7 +131,7 @@
       "price": 81.28,
       "previous_close": 80.37,
       "change_pct": 1.13,
-      "market_cap": 169518000952.33502,
+      "market_cap": 169548306281.15988,
       "headlines": [
         {
           "title": "The AI Boom Has a Power Problem. These 3 Utilities Are Getting Paid to Solve It.",
@@ -206,7 +187,7 @@
       "price": 409.46,
       "previous_close": 397.8,
       "change_pct": 2.93,
-      "market_cap": 158993314682.00684,
+      "market_cap": 159034260681.15234,
       "headlines": [
         {
           "title": "AI Power Stocks Rally After Generac's Deal For Amazon Data Centers",
@@ -225,34 +206,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/jim-cramer-turns-two-kings-181847481.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-09-17T18:18:47Z"
-        }
-      ]
-    },
-    {
-      "symbol": "MPC",
-      "name": "Marathon Petroleum",
-      "price": 421.96,
-      "previous_close": 413.92,
-      "change_pct": 1.94,
-      "market_cap": 123185580010.02426,
-      "headlines": [
-        {
-          "title": "Think It\u2019s Too Late to Buy Marathon and Valero? Here\u2019s Why Analysts Say Wait Instead",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/think-too-buy-marathon-valero-131550836.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-09-17T13:15:50Z"
-        },
-        {
-          "title": "Valero Energy Corporation (VLO) Hit a 52 Week High, Can the Run Continue?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/valero-energy-corporation-vlo-hit-131502713.html",
-          "publisher": "Zacks",
-          "published": "2026-09-17T13:15:02Z"
-        },
-        {
-          "title": "5 Relative Price Strength Stocks to Buy Amid Rising Rates",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/5-relative-price-strength-stocks-124100557.html",
-          "publisher": "Zacks",
-          "published": "2026-09-17T12:41:00Z"
         }
       ]
     },
@@ -281,6 +234,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/surging-earnings-estimates-signal-upside-162001140.html",
           "publisher": "Zacks",
           "published": "2026-09-17T16:20:01Z"
+        }
+      ]
+    },
+    {
+      "symbol": "MPC",
+      "name": "Marathon Petroleum",
+      "price": 421.96,
+      "previous_close": 413.92,
+      "change_pct": 1.94,
+      "market_cap": 118496814595.85434,
+      "headlines": [
+        {
+          "title": "Think It\u2019s Too Late to Buy Marathon and Valero? Here\u2019s Why Analysts Say Wait Instead",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/think-too-buy-marathon-valero-131550836.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-09-17T13:15:50Z"
+        },
+        {
+          "title": "Valero Energy Corporation (VLO) Hit a 52 Week High, Can the Run Continue?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/valero-energy-corporation-vlo-hit-131502713.html",
+          "publisher": "Zacks",
+          "published": "2026-09-17T13:15:02Z"
+        },
+        {
+          "title": "5 Relative Price Strength Stocks to Buy Amid Rising Rates",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/5-relative-price-strength-stocks-124100557.html",
+          "publisher": "Zacks",
+          "published": "2026-09-17T12:41:00Z"
         }
       ]
     },
@@ -621,34 +602,6 @@
       ]
     },
     {
-      "symbol": "EOG",
-      "name": "EOG Resources",
-      "price": 145.47,
-      "previous_close": 144.93,
-      "change_pct": 0.37,
-      "market_cap": 77481472909.28131,
-      "headlines": [
-        {
-          "title": "Oil Producers Slide as Crude Retreats: EOG Resources Drops 6%, ConocoPhillips and Occidental Petroleum Fall 5%",
-          "url": "https://finance.yahoo.com/energy/articles/oil-producers-slide-crude-retreats-160306957.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-09-16T16:03:06Z"
-        },
-        {
-          "title": "The Zacks Analyst Blog Highlights  JPMorgan Chase, EOG Resources and Bloom Energy",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-jpmorgan-075800004.html",
-          "publisher": "Zacks",
-          "published": "2026-09-10T07:58:00Z"
-        },
-        {
-          "title": "Stocks to Consider Before the Fed's September Decision: JPM, EOG, BE",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-consider-feds-september-decision-190000988.html",
-          "publisher": "Zacks",
-          "published": "2026-09-09T19:00:00Z"
-        }
-      ]
-    },
-    {
       "symbol": "SLB",
       "name": "SLB (Schlumberger)",
       "price": 52.08,
@@ -673,6 +626,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/slb-slb-falls-more-steeply-220005178.html",
           "publisher": "Zacks",
           "published": "2026-09-16T22:00:05Z"
+        }
+      ]
+    },
+    {
+      "symbol": "EOG",
+      "name": "EOG Resources",
+      "price": 145.47,
+      "previous_close": 144.93,
+      "change_pct": 0.37,
+      "market_cap": 76303259873.0144,
+      "headlines": [
+        {
+          "title": "Oil Producers Slide as Crude Retreats: EOG Resources Drops 6%, ConocoPhillips and Occidental Petroleum Fall 5%",
+          "url": "https://finance.yahoo.com/energy/articles/oil-producers-slide-crude-retreats-160306957.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-09-16T16:03:06Z"
+        },
+        {
+          "title": "The Zacks Analyst Blog Highlights  JPMorgan Chase, EOG Resources and Bloom Energy",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-jpmorgan-075800004.html",
+          "publisher": "Zacks",
+          "published": "2026-09-10T07:58:00Z"
+        },
+        {
+          "title": "Stocks to Consider Before the Fed's September Decision: JPM, EOG, BE",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-consider-feds-september-decision-190000988.html",
+          "publisher": "Zacks",
+          "published": "2026-09-09T19:00:00Z"
         }
       ]
     },
@@ -1074,7 +1055,7 @@
       "price": 70.98,
       "previous_close": 70.39,
       "change_pct": 0.84,
-      "market_cap": 35370854786.791855,
+      "market_cap": 35377855402.56294,
       "headlines": [
         {
           "title": "Public Service Enterprise Group CEO Sells 2,083 Shares",
@@ -1494,7 +1475,7 @@
       "price": 29.66,
       "previous_close": 29.09,
       "change_pct": 1.96,
-      "market_cap": 8995165075.62376,
+      "market_cap": 8901310781.3666,
       "headlines": [
         {
           "title": "3 Nuclear Energy Stocks to Buy Before 2026 Ends",
@@ -1606,7 +1587,7 @@
       "price": 82.05,
       "previous_close": 82.3,
       "change_pct": -0.3,
-      "market_cap": 5881790816.916611,
+      "market_cap": 5867568351.437622,
       "headlines": [
         {
           "title": "Solaris Energy Infrastructure, TETRA Technologies, SLB, and Weatherford Stocks Trade Down, What You Need To Know",
@@ -1662,7 +1643,7 @@
       "price": 36.02,
       "previous_close": 35.56,
       "change_pct": 1.29,
-      "market_cap": 4747371944.732437,
+      "market_cap": 4759850281.451019,
       "headlines": [
         {
           "title": "3 of Wall Street\u2019s Favorite Stocks We Approach with Caution",
@@ -1713,6 +1694,34 @@
       ]
     },
     {
+      "symbol": "UUUU",
+      "name": "Energy Fuels",
+      "price": 11.98,
+      "previous_close": 11.73,
+      "change_pct": 2.13,
+      "market_cap": 3171987271.3562775,
+      "headlines": [
+        {
+          "title": "MP's Operating Losses Continue in Q2: Can It Revert to Profitability?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/mps-operating-losses-continue-q2-151900509.html",
+          "publisher": "Zacks",
+          "published": "2026-09-17T15:19:00Z"
+        },
+        {
+          "title": "UEC Gears Up to Report Q4 Earnings: What's in Store for the Stock?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/uec-gears-report-q4-earnings-163200407.html",
+          "publisher": "Zacks",
+          "published": "2026-09-16T16:32:00Z"
+        },
+        {
+          "title": "Energy Fuels Inc (UUUU) is Attracting Investor Attention: Here is What You Should Know",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/energy-fuels-inc-uuuu-attracting-130001777.html",
+          "publisher": "Zacks",
+          "published": "2026-09-16T13:00:01Z"
+        }
+      ]
+    },
+    {
       "symbol": "LEU",
       "name": "Centrus Energy",
       "price": 149.85,
@@ -1737,34 +1746,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/centrus-energy-leu-stock-trades-024904901.html",
           "publisher": "StockStory",
           "published": "2026-09-11T02:49:04Z"
-        }
-      ]
-    },
-    {
-      "symbol": "UUUU",
-      "name": "Energy Fuels",
-      "price": 11.98,
-      "previous_close": 11.73,
-      "change_pct": 2.13,
-      "market_cap": 2994580585.5751038,
-      "headlines": [
-        {
-          "title": "MP's Operating Losses Continue in Q2: Can It Revert to Profitability?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/mps-operating-losses-continue-q2-151900509.html",
-          "publisher": "Zacks",
-          "published": "2026-09-17T15:19:00Z"
-        },
-        {
-          "title": "UEC Gears Up to Report Q4 Earnings: What's in Store for the Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/uec-gears-report-q4-earnings-163200407.html",
-          "publisher": "Zacks",
-          "published": "2026-09-16T16:32:00Z"
-        },
-        {
-          "title": "Energy Fuels Inc (UUUU) is Attracting Investor Attention: Here is What You Should Know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/energy-fuels-inc-uuuu-attracting-130001777.html",
-          "publisher": "Zacks",
-          "published": "2026-09-16T13:00:01Z"
         }
       ]
     },

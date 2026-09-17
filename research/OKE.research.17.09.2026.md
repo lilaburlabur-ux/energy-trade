@@ -36,10 +36,10 @@ ONEOK, Inc. operates as a midstream service provider of gathering, processing, f
 
 | Headline | Source | Date |
 |---|---|---|
+| Top Analyst Reports for Applied Materials, Philip Morris & Valero Energy | Zacks | 2026-09-17 |
 | 2 Midstream Dividend Stocks Nobody's Talking About Right Now | Motley Fool | 2026-09-17 |
 | ONEOK (OKE) Completed Its Corporate Reorganization On September 10 | Simply Wall St. | 2026-09-16 |
 | ONEOK (OKE) Stock May Be 46% Undervalued Following Debt Tender Pricing | Simply Wall St. | 2026-09-16 |
-| Oneok Inc. (OKE) Sees a More Significant Dip Than Broader Market: Some Facts to Know | Zacks | 2026-09-15 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

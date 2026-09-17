@@ -32,6 +32,15 @@ Signed file: `TLN.research.17.09.2026`
 ## 2. Company Overview and Recent Catalysts
 Talen Energy Corporation, an independent power producer and infrastructure company, produces and sells electricity, capacity, and ancillary services into wholesale power markets in the United States. The company's plants generate power using a variety of fuels, such as nuclear, fossil, oil, natural gas, and coal power plants. It owns and operates approximately 13.1 GW of power infrastructure. Talen Energy Corporation was incorporated in 2014 and is headquartered in Houston, Texas.
 
+**Recent headlines (potential catalysts):**
+
+| Headline | Source | Date |
+|---|---|---|
+| The AI Boom Has a Power Problem. These 3 Utilities Are Getting Paid to Solve It. | 24/7 Wall St. | 2026-09-17 |
+| Talen Energy (TLN) Gains as Regulatory Progress Enhances Data Center Framework | Insider Monkey | 2026-09-17 |
+| Vistra vs. Constellation vs. Talen Energy: Which Nuclear-Heavy Stock Is the Better AI-Power Bet? | Motley Fool | 2026-09-17 |
+| Vistra’s Price Has Edged Downward Throught 2026: One Analyst Says It’s Due to Double Soon. | 24/7 Wall St. | 2026-09-14 |
+
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|

@@ -37,9 +37,9 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 | Headline | Source | Date |
 |---|---|---|
 | Exxon eyes a return to Venezuela oil market | Yahoo Finance Video | 2026-09-17 |
+| Stocks to Watch Recap: Lennar, Generac, Volvo | The Wall Street Journal | 2026-09-17 |
 | Even With $262,000 in VYM, You Wouldn’t Get a $500 Check Every Month | 24/7 Wall St. | 2026-09-17 |
 | ExxonMobil (XOM) Holds Early Talks On A Return To Venezuela | Simply Wall St. | 2026-09-17 |
-| Exxon Nears Venezuelan Oil Deal, After Trump Says U.S. Secured 65 Billion Barrel Agreement With Country | 24/7 Wall St. | 2026-09-17 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

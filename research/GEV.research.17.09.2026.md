@@ -36,7 +36,7 @@ GE Vernova Inc., an energy company, engages in the provision of various products
 
 | Headline | Source | Date |
 |---|---|---|
-| Stock Market Today: Nasdaq Retakes Key Level; Ad Platform Provider Hits Highs (Live Coverage) | Investor's Business Daily | 2026-09-17 |
+| Stock Market Today: Nasdaq Snaps Losing Streak; Nvidia Gains As This Stock Soars On Amazon Deal | Investor's Business Daily | 2026-09-17 |
 | GE Vernova Gains 2.3% as $1.3 Billion Wind Fight Ends | GuruFocus.com | 2026-09-17 |
 | Generac Stock Surges on Amazon Data Center Deal. Why It’s a Game-Changer. | Barrons.com | 2026-09-17 |
 | Latest News In Energy Transition - Lake Energy Bridges Real-World Assets With Digital Finance | Simply Wall St. | 2026-09-17 |
