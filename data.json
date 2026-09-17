@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-17T05:27:04+00:00",
-  "as_of_local": "2026-09-17 05:27:04 UTC",
+  "as_of_utc": "2026-09-17T05:41:51+00:00",
+  "as_of_local": "2026-09-17 05:41:51 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -1329,6 +1329,12 @@
       "market_cap": 17362182126.61743,
       "headlines": [
         {
+          "title": "3 U.S. Energy Stocks With Oil Linked Cash Flow Potential",
+          "url": "https://finance.yahoo.com/energy/articles/3-u-energy-stocks-oil-051704386.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-09-17T05:17:04Z"
+        },
+        {
           "title": "Ovintiv Inc's Dividend Analysis",
           "url": "https://finance.yahoo.com/markets/stocks/articles/ovintiv-incs-dividend-analysis-110925880.html",
           "publisher": "GuruFocus.com",
@@ -1339,12 +1345,6 @@
           "url": "https://finance.yahoo.com/energy/articles/ovintiv-expands-drilling-inventory-460-150300542.html",
           "publisher": "Zacks",
           "published": "2026-08-27T15:03:00Z"
-        },
-        {
-          "title": "Ovintiv Stock Up 62% in a Year: Should Investors Buy or Hold?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ovintiv-stock-62-investors-buy-145200521.html",
-          "publisher": "Zacks",
-          "published": "2026-08-24T14:52:00Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 102.26,
-      "change_pct": -0.17
+      "price": 102.05,
+      "change_pct": -0.37
     },
     {
       "label": "Brent",
-      "price": 105.73,
-      "change_pct": -0.09
+      "price": 105.59,
+      "change_pct": -0.23
     },
     {
       "label": "NatGas",
       "price": 2.91,
-      "change_pct": 0.66
+      "change_pct": 0.59
     }
   ]
 }
