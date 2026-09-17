@@ -15,7 +15,7 @@ Signed file: `EQT.research.17.09.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-9.58%) with negative half-year (-20.27%). |
+| Technical momentum | Low | Below SMA200 (-9.57%) with negative half-year (-20.26%). |
 | Fresh setup quality | Poor / broken | -25.44% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 29.18%, revenue growth -3.90%. |
 | Value attractiveness | Reasonable | Forward P/E 13.01, EV/Sales 4.38. |
@@ -44,8 +44,8 @@ EQT Corporation engages in the exploration, production, gathering, and transmiss
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $50.35; 52w high $67.53 (-25.44%); 52w low $48.62 (+3.55%) |
-| Trend | -9.58% vs SMA200, -4.60% vs SMA50, -6.91% vs SMA20 |
+| Price vs 52-week range | Close $50.35; 52w high $67.53 (-25.44%); 52w low $48.62 (+3.56%) |
+| Trend | -9.57% vs SMA200, -4.59% vs SMA50, -6.91% vs SMA20 |
 | Momentum | RSI(14) 29.7 (oversold) |
 | Volatility | ATR(14) 1.48 (~2.9% of price); beta 0.58 |
 | Setup perspective | -25.44% from 52w high — base needs to rebuild. |
@@ -116,8 +116,8 @@ EQT Corporation engages in the exploration, production, gathering, and transmiss
 | RSI(14) | 29.7 | Operating margin | 23.37% |
 | ATR(14) | 1.48 | Profit margin | 29.18% |
 | SMA20 dist | -6.91% | ROA | 6.63% |
-| SMA50 dist | -4.60% | ROE | 11.08% |
-| SMA200 dist | -9.58% | Revenue (ttm) | $9.29B |
+| SMA50 dist | -4.59% | ROE | 11.08% |
+| SMA200 dist | -9.57% | Revenue (ttm) | $9.29B |
 | 52W high | $67.53 | Revenue growth y/y | -3.90% |
 | 52W low | $48.62 | Inst. ownership | 95.81% |
 | P/E (ttm) | 11.68 | Insider ownership | 0.90% |

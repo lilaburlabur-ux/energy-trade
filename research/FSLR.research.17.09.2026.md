@@ -32,6 +32,15 @@ Signed file: `FSLR.research.17.09.2026`
 ## 2. Company Overview and Recent Catalysts
 First Solar, Inc., a solar technology company, provides photovoltaic (PV) solar energy solutions in the United States, France, India, Chile, and internationally. The company manufactures and sells PV solar modules with thin film semiconductor technology that provides conventional crystalline silicon PV solar modules. It also designs, manufactures, and sells cadmium telluride solar modules that convert sunlight into electricity.
 
+**Recent headlines (potential catalysts):**
+
+| Headline | Source | Date |
+|---|---|---|
+| Sunrun and First Solar Rise 6% as Solar Selloff Unwinds; SolarEdge Climbs 4% | 24/7 Wall St. | 2026-09-17 |
+| 2 Cash-Producing Stocks to Consider Right Now and 1 We Question | StockStory | 2026-09-17 |
+| First Solar (FSLR) Declines More Than Market: Some Information for Investors | Zacks | 2026-09-16 |
+| First Solar Retreats 5% After Dropping ITC Patent Case It Calls Procedural; Enphase Energy Slips, Sunrun Holds Steady | 24/7 Wall St. | 2026-09-16 |
+
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|

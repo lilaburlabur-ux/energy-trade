@@ -3,8 +3,8 @@
 
 | Ticker | Mkt cap | 1Y | Fwd P/E | Net margin | Momentum | Value | Risk |
 |---|---|---|---|---|---|---|---|
-| XOM | $671.31B | +46% | 15.1 | 9% | Moderate | Reasonable | Moderate |
-| CVX | $415.05B | +38% | 15.6 | 10% | Moderate | Reasonable | Moderate |
+| XOM | $671.35B | +46% | 15.1 | 9% | Moderate | Reasonable | Moderate |
+| CVX | $415.02B | +38% | 15.6 | 10% | Moderate | Reasonable | Moderate |
 | SHEL | $273.81B | +37% | 9.3 | 9% | Moderate | Reasonable | Moderate |
 | TTE | $202.33B | +54% | 8.8 | 9% | Moderate | Reasonable | Moderate |
 | BP | $116.97B | +39% | 9.3 | 3% | Moderate | Reasonable | Moderate |
