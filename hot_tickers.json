@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-17T13:56:52+00:00",
+  "as_of": "2026-09-17T14:12:04+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,11 +11,11 @@
    "rank": 1,
    "ticker": "FLNC",
    "company": "Fluence Energy, Inc.",
-   "move_pct": -17.46,
-   "price": 7.47,
-   "volume": 13218993,
+   "move_pct": -17.35,
+   "price": 7.48,
+   "volume": 14872720,
    "volume_vs_avg": "~2x",
-   "heat_score": 87,
+   "heat_score": 88,
    "direction": "down",
    "why": "FLNC Stock Heads For 52-Week Lows: Baird Turns \u2018Incrementally Negative\u2019 After Fluence Cuts FY26 Guidance Again",
    "catalyst_type": "earnings",
