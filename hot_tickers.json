@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-17T16:29:01+00:00",
+  "as_of": "2026-09-17T16:44:19+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,33 +11,17 @@
    "rank": 1,
    "ticker": "FLNC",
    "company": "Fluence Energy, Inc.",
-   "move_pct": -13.54,
-   "price": 7.82,
-   "volume": 23440514,
+   "move_pct": -14.09,
+   "price": 7.78,
+   "volume": 23808114,
    "volume_vs_avg": "~3x",
-   "heat_score": 89,
+   "heat_score": 91,
    "direction": "down",
    "why": "Fluence Energy Faces Multi-Year Recovery From Manufacturing Issues, RBC Says",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://finance.yahoo.com/energy/articles/fluence-energy-faces-multi-recovery-152550512.html",
    "published": "2026-09-17T15:25:50Z",
    "sector": "Grid, Storage & Electrification"
-  },
-  {
-   "rank": 2,
-   "ticker": "TLN",
-   "company": "Talen Energy Corporation",
-   "move_pct": 5.02,
-   "price": 302.03,
-   "volume": 286112,
-   "volume_vs_avg": "~0.3x",
-   "heat_score": 34,
-   "direction": "up",
-   "why": "Talen Energy (TLN) Gains as Regulatory Progress Enhances Data Center Framework",
-   "catalyst_type": "regulatory",
-   "source_url": "https://finance.yahoo.com/energy/articles/talen-energy-tln-gains-regulatory-145925718.html",
-   "published": "2026-09-17T14:59:25Z",
-   "sector": "Power & IPPs"
   }
  ]
 }
