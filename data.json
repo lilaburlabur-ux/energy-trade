@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-17T11:53:02+00:00",
-  "as_of_local": "2026-09-17 11:53:02 UTC",
+  "as_of_utc": "2026-09-17T11:58:09+00:00",
+  "as_of_local": "2026-09-17 11:58:09 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -1217,6 +1217,12 @@
       "market_cap": 22572401087.179665,
       "headlines": [
         {
+          "title": "The Nuclear Stock Boom Could Keep Decaying",
+          "url": "https://www.wsj.com/finance/stocks/the-nuclear-stock-boom-could-keep-decaying-67d78958?siteid=yhoof2&yptr=yahoo",
+          "publisher": "The Wall Street Journal",
+          "published": "2026-09-17T10:34:00Z"
+        },
+        {
           "title": "Clearway Energy (CWEN) Dips More Than Broader Market: What You Should Know",
           "url": "https://finance.yahoo.com/markets/stocks/articles/clearway-energy-cwen-dips-more-221504280.html",
           "publisher": "Zacks",
@@ -1227,12 +1233,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-price-edged-downward-throught-114906277.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-09-14T11:49:06Z"
-        },
-        {
-          "title": "NRG Energy (NRG) Laps the Stock Market: Here's Why",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nrg-energy-nrg-laps-stock-215003187.html",
-          "publisher": "Zacks",
-          "published": "2026-09-11T21:50:03Z"
         }
       ]
     },
@@ -2120,13 +2120,13 @@
     },
     {
       "label": "Brent",
-      "price": 99.52,
-      "change_pct": -5.96
+      "price": 99.36,
+      "change_pct": -6.11
     },
     {
       "label": "NatGas",
       "price": 2.87,
-      "change_pct": -0.59
+      "change_pct": -0.73
     }
   ]
 }
