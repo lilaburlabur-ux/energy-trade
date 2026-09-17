@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-17T12:46:10+00:00",
-  "as_of_local": "2026-09-17 12:46:10 UTC",
+  "as_of_utc": "2026-09-17T12:51:34+00:00",
+  "as_of_local": "2026-09-17 12:51:34 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -150,7 +150,7 @@
       "price": 80.37,
       "previous_close": 81.07,
       "change_pct": -0.86,
-      "market_cap": 167650074386.64026,
+      "market_cap": 167620108350.74622,
       "headlines": [
         {
           "title": "CEG Stock Trails Industry in 6 Months: Should You Buy, Hold or Sell?",
@@ -206,7 +206,7 @@
       "price": 397.8,
       "previous_close": 392.4,
       "change_pct": 1.38,
-      "market_cap": 154505515258.78906,
+      "market_cap": 154465735260.00977,
       "headlines": [
         {
           "title": "Eaton Sees Best Years Ahead as Data Center Demand Powers Growth",
@@ -225,6 +225,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/eaton-etn-advances-while-market-214504537.html",
           "publisher": "Zacks",
           "published": "2026-09-16T21:45:04Z"
+        }
+      ]
+    },
+    {
+      "symbol": "MPC",
+      "name": "Marathon Petroleum",
+      "price": 413.92,
+      "previous_close": 410.84,
+      "change_pct": 0.75,
+      "market_cap": 120838415879.24759,
+      "headlines": [
+        {
+          "title": "Bank of England holds rates at 3.75% as U.K. inflation hits 3.1%",
+          "url": "https://finance.yahoo.com/economy/policy/articles/bank-england-holds-rates-3-113240336.html",
+          "publisher": "Quartz",
+          "published": "2026-09-17T11:32:40Z"
+        },
+        {
+          "title": "XOM Keeps Climbing. Should You Climb On?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/xom-keeps-climbing-climb-232922566.html",
+          "publisher": "Trefis",
+          "published": "2026-09-16T23:29:22Z"
+        },
+        {
+          "title": "This ETF Should Rise as Interest Rates Go Up. Is It Too Late to Get In on the Fun Now?",
+          "url": "https://www.barrons.com/articles/etf-federal-reserve-interest-rates-5f58f767?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-09-16T06:00:00Z"
         }
       ]
     },
@@ -253,34 +281,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/europe-fortune-500-2026-record-040600982.html",
           "publisher": "Fortune",
           "published": "2026-09-16T04:06:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "MPC",
-      "name": "Marathon Petroleum",
-      "price": 413.92,
-      "previous_close": 410.84,
-      "change_pct": 0.75,
-      "market_cap": 116238989671.80032,
-      "headlines": [
-        {
-          "title": "Bank of England holds rates at 3.75% as U.K. inflation hits 3.1%",
-          "url": "https://finance.yahoo.com/economy/policy/articles/bank-england-holds-rates-3-113240336.html",
-          "publisher": "Quartz",
-          "published": "2026-09-17T11:32:40Z"
-        },
-        {
-          "title": "XOM Keeps Climbing. Should You Climb On?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/xom-keeps-climbing-climb-232922566.html",
-          "publisher": "Trefis",
-          "published": "2026-09-16T23:29:22Z"
-        },
-        {
-          "title": "This ETF Should Rise as Interest Rates Go Up. Is It Too Late to Get In on the Fun Now?",
-          "url": "https://www.barrons.com/articles/etf-federal-reserve-interest-rates-5f58f767?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-09-16T06:00:00Z"
         }
       ]
     },
@@ -545,6 +545,12 @@
       "market_cap": 82254485696.72006,
       "headlines": [
         {
+          "title": "Boomers Are Piling Into These 5 High-Yield Dividend Stocks, and None Are Yield Traps",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/boomers-piling-5-high-yield-124027526.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-09-17T12:40:27Z"
+        },
+        {
           "title": "2 Midstream Dividend Stocks Nobody's Talking About Right Now",
           "url": "https://finance.yahoo.com/energy/articles/2-midstream-dividend-stocks-nobodys-023500381.html",
           "publisher": "Motley Fool",
@@ -555,12 +561,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/enterprise-products-partners-epd-suffers-214504388.html",
           "publisher": "Zacks",
           "published": "2026-09-16T21:45:04Z"
-        },
-        {
-          "title": "Investors Heavily Search Enterprise Products Partners L.P. (EPD): Here is What You Need to Know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/investors-heavily-search-enterprise-products-130002483.html",
-          "publisher": "Zacks",
-          "published": "2026-09-16T13:00:02Z"
         }
       ]
     },
@@ -654,7 +654,7 @@
       "price": 144.93,
       "previous_close": 153.74,
       "change_pct": -5.73,
-      "market_cap": 76020009635.91357,
+      "market_cap": 77193848951.81213,
       "headlines": [
         {
           "title": "Oil Producers Slide as Crude Retreats: EOG Resources Drops 6%, ConocoPhillips and Occidental Petroleum Fall 5%",
@@ -1074,7 +1074,7 @@
       "price": 70.39,
       "previous_close": 70.42,
       "change_pct": -0.04,
-      "market_cap": 35083785607.488556,
+      "market_cap": 35076843182.62875,
       "headlines": [
         {
           "title": "Public Service Enterprise Group CEO Sells 2,083 Shares",
@@ -1494,7 +1494,7 @@
       "price": 29.09,
       "previous_close": 28.81,
       "change_pct": 0.97,
-      "market_cap": 8730247246.1334,
+      "market_cap": 8822297868.12624,
       "headlines": [
         {
           "title": "3 Nuclear Energy Stocks to Buy Before 2026 Ends",
@@ -1606,7 +1606,7 @@
       "price": 82.3,
       "previous_close": 85.39,
       "change_pct": -3.62,
-      "market_cap": 5885446377.437622,
+      "market_cap": 5899712177.666611,
       "headlines": [
         {
           "title": "Solaris Energy Infrastructure, TETRA Technologies, SLB, and Weatherford Stocks Trade Down, What You Need To Know",
@@ -1662,7 +1662,7 @@
       "price": 35.56,
       "previous_close": 36.72,
       "change_pct": -3.16,
-      "market_cap": 4699063864.353058,
+      "market_cap": 4686744884.197311,
       "headlines": [
         {
           "title": "3 of Wall Street\u2019s Favorite Stocks We Approach with Caution",
@@ -1718,7 +1718,7 @@
       "price": 11.73,
       "previous_close": 11.86,
       "change_pct": -1.1,
-      "market_cap": 3105793878.3562775,
+      "market_cap": 2932089335.5751038,
       "headlines": [
         {
           "title": "UEC Gears Up to Report Q4 Earnings: What's in Store for the Stock?",
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 99.47,
-      "change_pct": -2.89
+      "price": 99.65,
+      "change_pct": -2.71
     },
     {
       "label": "Brent",
-      "price": 101.73,
-      "change_pct": -3.87
+      "price": 102.15,
+      "change_pct": -3.48
     },
     {
       "label": "NatGas",
-      "price": 2.87,
-      "change_pct": -0.59
+      "price": 2.88,
+      "change_pct": -0.24
     }
   ]
 }
