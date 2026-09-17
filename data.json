@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-17T20:34:25+00:00",
-  "as_of_local": "2026-09-17 20:34:25 UTC",
+  "as_of_utc": "2026-09-17T20:39:24+00:00",
+  "as_of_local": "2026-09-17 20:39:24 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -711,7 +711,26 @@
       "previous_close": 30.73,
       "change_pct": 1.89,
       "market_cap": 69721172217.34938,
-      "headlines": []
+      "headlines": [
+        {
+          "title": "Constellium highlighted as Zacks Bull and AGCO Bear of the Day",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/constellium-highlighted-zacks-bull-agco-125400291.html",
+          "publisher": "Zacks",
+          "published": "2026-09-17T12:54:00Z"
+        },
+        {
+          "title": "Iran-War Uncertainty Puts These 3 Midstream Stocks in Focus",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/iran-war-uncertainty-puts-3-160700323.html",
+          "publisher": "Zacks",
+          "published": "2026-09-16T16:07:00Z"
+        },
+        {
+          "title": "Kinder Morgan (KMI) Stock May Be 43% Undervalued As Cash Flows Stay Strong",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/kinder-morgan-kmi-stock-may-021146705.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-09-16T02:11:46Z"
+        }
+      ]
     },
     {
       "symbol": "TRGP",
@@ -2096,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 101.28,
-      "change_pct": -1.12
+      "price": 101.2,
+      "change_pct": -1.2
     },
     {
       "label": "Brent",
-      "price": 104.1,
-      "change_pct": -1.63
+      "price": 104.13,
+      "change_pct": -1.61
     },
     {
       "label": "NatGas",
       "price": 2.87,
-      "change_pct": -0.86
+      "change_pct": -0.83
     }
   ]
 }
