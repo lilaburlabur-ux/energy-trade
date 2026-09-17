@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-17T22:55:48+00:00",
+  "as_of": "2026-09-17T22:57:55+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -43,11 +43,11 @@
    "rank": 3,
    "ticker": "SMR",
    "company": "NuScale Power Corporation",
-   "move_pct": 8.31,
-   "price": 8.99,
+   "move_pct": 8.55,
+   "price": 9.01,
    "volume": 49191252,
    "volume_vs_avg": "~1.4x",
-   "heat_score": 61,
+   "heat_score": 62,
    "direction": "up",
    "why": "SMR Developer Holtec Just Cancelled Its IPO. Should NuScale Power and Oklo Investors Panic?",
    "catalyst_type": "momentum_narrative",
