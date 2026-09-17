@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-17T02:50:35+00:00",
-  "as_of_local": "2026-09-17 02:50:35 UTC",
+  "as_of_utc": "2026-09-17T02:55:47+00:00",
+  "as_of_local": "2026-09-17 02:55:47 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -97,6 +97,12 @@
       "market_cap": 246382539599.80316,
       "headlines": [
         {
+          "title": "GE Vernova and Vineyard Wind Settle $300M-Plus Offshore Wind Dispute",
+          "url": "https://finance.yahoo.com/energy/articles/ge-vernova-vineyard-wind-settle-024435837.html",
+          "publisher": "Oilprice.com",
+          "published": "2026-09-17T02:44:35Z"
+        },
+        {
           "title": "Why Are BE, FCEL, GEV Stocks Rising Overnight?",
           "url": "https://finance.yahoo.com/energy/articles/why-fcel-gev-stocks-rising-020833326.html",
           "publisher": "Stocktwits",
@@ -107,12 +113,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-ge-vernova-stock-crushed-235602049.html",
           "publisher": "Motley Fool",
           "published": "2026-09-16T23:56:02Z"
-        },
-        {
-          "title": "GE Vernova (GEV) Stock Is Up, What You Need To Know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-gev-stock-know-222052205.html",
-          "publisher": "StockStory",
-          "published": "2026-09-16T22:20:52Z"
         }
       ]
     },
@@ -604,7 +604,7 @@
           "title": "Dow Jones Futures Rise After Hawkish Fed, Warsh Hit Stocks, Trump Fumes; AMD, Bloom Energy Eye Buy Points",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp-500-fed-rate-hike-warsh-amd-bloom-energy-stocks-to-watch/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
-          "published": "2026-09-17T02:27:29Z"
+          "published": "2026-09-17T02:40:27Z"
         },
         {
           "title": "Why Are BE, FCEL, GEV Stocks Rising Overnight?",
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 102.02,
-      "change_pct": -3.6
+      "price": 102.23,
+      "change_pct": -3.4
     },
     {
       "label": "Brent",
-      "price": 105.42,
-      "change_pct": -3.06
+      "price": 105.61,
+      "change_pct": -2.89
     },
     {
       "label": "NatGas",
       "price": 2.9,
-      "change_pct": -0.69
+      "change_pct": -0.65
     }
   ]
 }
