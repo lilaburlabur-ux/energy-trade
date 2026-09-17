@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-17T22:46:39+00:00",
-  "as_of_local": "2026-09-17 22:46:39 UTC",
+  "as_of_utc": "2026-09-17T22:51:25+00:00",
+  "as_of_local": "2026-09-17 22:51:25 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -1105,6 +1105,12 @@
       "market_cap": 31494729645.53833,
       "headlines": [
         {
+          "title": "EQT Stock Is Down 26% From Its 2026 Highs. Here\u2019s What Could Turn It Around",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/eqt-stock-down-26-2026-235603885.html",
+          "publisher": "TIKR",
+          "published": "2026-09-16T23:56:03Z"
+        },
+        {
           "title": "Why Is EOG Resources (EOG) Up 11% Since Last Earnings Report?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-eog-resources-eog-11-153012782.html",
           "publisher": "Zacks",
@@ -1115,12 +1121,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/eqt-eqt-3-reasons-love-163824978.html",
           "publisher": "StockStory",
           "published": "2026-08-31T16:38:24Z"
-        },
-        {
-          "title": "Comstock (CRK) Up 15.1% Since Last Earnings Report: Can It Continue?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/comstock-crk-15-1-since-153005516.html",
-          "publisher": "Zacks",
-          "published": "2026-08-28T15:30:05Z"
         }
       ]
     },
@@ -2115,8 +2115,8 @@
     },
     {
       "label": "WTI",
-      "price": 101.19,
-      "change_pct": -1.21
+      "price": 101.2,
+      "change_pct": -1.2
     },
     {
       "label": "Brent",
@@ -2125,8 +2125,8 @@
     },
     {
       "label": "NatGas",
-      "price": 2.86,
-      "change_pct": -0.97
+      "price": 2.87,
+      "change_pct": -0.9
     }
   ]
 }
