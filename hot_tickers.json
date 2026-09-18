@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-18T22:34:17+00:00",
+  "as_of": "2026-09-18T22:39:25+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,6 +9,22 @@
  "hot_tickers": [
   {
    "rank": 1,
+   "ticker": "MPC",
+   "company": "Marathon Petroleum Corporation",
+   "move_pct": 0.69,
+   "price": 424.89,
+   "volume": 9850034,
+   "volume_vs_avg": "~4x",
+   "heat_score": 37,
+   "direction": "up",
+   "why": "Marathon Petroleum (MPC) Is Up 7.3% After Analyst Upgrades And Earnings Beat - Has The Bull Case Changed?",
+   "catalyst_type": "analyst_action",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/marathon-petroleum-mpc-7-3-221421115.html",
+   "published": "2026-09-18T22:14:21Z",
+   "sector": "Refining & Downstream"
+  },
+  {
+   "rank": 2,
    "ticker": "CCJ",
    "company": "Cameco Corporation",
    "move_pct": -0.59,
