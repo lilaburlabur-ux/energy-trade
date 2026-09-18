@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-18T00:01:56+00:00",
-  "as_of_local": "2026-09-18 00:01:56 UTC",
+  "as_of_utc": "2026-09-18T00:07:00+00:00",
+  "as_of_local": "2026-09-18 00:07:00 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -347,7 +347,26 @@
       "previous_close": 45.75,
       "change_pct": -3.39,
       "market_cap": 105118157634.48999,
-      "headlines": []
+      "headlines": [
+        {
+          "title": "Equinor Eyes LNG Expansion Amid Global Supply Disruptions",
+          "url": "https://finance.yahoo.com/energy/articles/equinor-eyes-lng-expansion-amid-164600948.html",
+          "publisher": "Zacks",
+          "published": "2026-09-17T16:46:00Z"
+        },
+        {
+          "title": "European Equities Traded in US as ADRs Rise in Wednesday Trading",
+          "url": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-adrs-150836727.html",
+          "publisher": "MT Newswires",
+          "published": "2026-09-16T15:08:36Z"
+        },
+        {
+          "title": "Running on Empty: 3 Energy Plays for Europe's Deep Freeze",
+          "url": "https://finance.yahoo.com/energy/articles/running-empty-3-energy-plays-184000131.html",
+          "publisher": "MarketBeat",
+          "published": "2026-09-15T18:40:00Z"
+        }
+      ]
     },
     {
       "symbol": "SO",
@@ -2096,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 101.17,
-      "change_pct": -1.23
+      "price": 101.22,
+      "change_pct": -1.18
     },
     {
       "label": "Brent",
-      "price": 104.07,
-      "change_pct": -1.66
+      "price": 104.16,
+      "change_pct": -1.58
     },
     {
       "label": "NatGas",
       "price": 2.86,
-      "change_pct": -1.0
+      "change_pct": -1.04
     }
   ]
 }
