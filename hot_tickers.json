@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-18T16:13:59+00:00",
+  "as_of": "2026-09-18T16:29:01+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,11 +9,27 @@
  "hot_tickers": [
   {
    "rank": 1,
+   "ticker": "SMR",
+   "company": "NuScale Power Corporation",
+   "move_pct": -8.02,
+   "price": 8.31,
+   "volume": 19814775,
+   "volume_vs_avg": "~0.6x",
+   "heat_score": 56,
+   "direction": "down",
+   "why": "NuScale Power Drops 7% as Nuclear Stocks Hand Back the Vote Rally; Oklo Falls 5%, Centrus Energy Slides 3%",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/energy/articles/nuscale-power-drops-7-nuclear-154947830.html",
+   "published": "2026-09-18T15:49:47Z",
+   "sector": "Nuclear & Uranium"
+  },
+  {
+   "rank": 2,
    "ticker": "FLNC",
    "company": "Fluence Energy, Inc.",
-   "move_pct": -5.47,
+   "move_pct": -5.42,
    "price": 7.24,
-   "volume": 7288401,
+   "volume": 7652181,
    "volume_vs_avg": "~1.0x",
    "heat_score": 39,
    "direction": "down",
