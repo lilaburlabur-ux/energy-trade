@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-18T20:51:41+00:00",
-  "as_of_local": "2026-09-18 20:51:41 UTC",
+  "as_of_utc": "2026-09-18T20:55:58+00:00",
+  "as_of_local": "2026-09-18 20:55:58 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -150,7 +150,7 @@
       "price": 80.47,
       "previous_close": 81.28,
       "change_pct": -1.0,
-      "market_cap": 167858669024.59012,
+      "market_cap": 167828665704.16498,
       "headlines": [
         {
           "title": "JPMorgan Sees Investment Banking and Trading Powering Q3 Growth",
@@ -178,7 +178,7 @@
       "price": 424.77,
       "previous_close": 409.46,
       "change_pct": 3.74,
-      "market_cap": 164980663732.91016,
+      "market_cap": 164938186734.0088,
       "headlines": [
         {
           "title": "Eaton Corporation, PLC (ETN) Is a Trending Stock: Facts to Know Before Betting on It",
@@ -234,7 +234,7 @@
       "price": 424.89,
       "previous_close": 421.96,
       "change_pct": 0.69,
-      "market_cap": 119319637664.71399,
+      "market_cap": 124040961121.56555,
       "headlines": [
         {
           "title": "Marathon Petroleum\u2019s (MPC) Pivotal Role in the Evolving LNG Supply Chain",
@@ -489,6 +489,12 @@
       "market_cap": 90245634883.86269,
       "headlines": [
         {
+          "title": "S&P 500 Posts Slight Weekly Decline as Utilities Weigh",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-posts-slight-weekly-204640571.html",
+          "publisher": "MT Newswires",
+          "published": "2026-09-18T20:46:40Z"
+        },
+        {
           "title": "DTE Could Be One of the Quiet Winners of the Data Center Boom",
           "url": "https://finance.yahoo.com/markets/stocks/articles/dte-could-one-quiet-winners-173028126.html",
           "publisher": "24/7 Wall St.",
@@ -499,12 +505,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/equity-overhang-weighs-constellation-energy-125043483.html",
           "publisher": "Insider Monkey",
           "published": "2026-09-18T12:50:43Z"
-        },
-        {
-          "title": "Constellation Energy Is Down 29% From Its Peak. Is the Nuclear Bull Case Still Intact?",
-          "url": "https://finance.yahoo.com/energy/articles/constellation-energy-down-29-peak-212604846.html",
-          "publisher": "TIKR",
-          "published": "2026-09-17T21:26:04Z"
         }
       ]
     },
@@ -621,6 +621,34 @@
       ]
     },
     {
+      "symbol": "EOG",
+      "name": "EOG Resources",
+      "price": 144.23,
+      "previous_close": 145.47,
+      "change_pct": -0.85,
+      "market_cap": 76821010606.26541,
+      "headlines": [
+        {
+          "title": "Oil Producers Slide as Crude Retreats: EOG Resources Drops 6%, ConocoPhillips and Occidental Petroleum Fall 5%",
+          "url": "https://finance.yahoo.com/energy/articles/oil-producers-slide-crude-retreats-160306957.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-09-16T16:03:06Z"
+        },
+        {
+          "title": "The Zacks Analyst Blog Highlights  JPMorgan Chase, EOG Resources and Bloom Energy",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-jpmorgan-075800004.html",
+          "publisher": "Zacks",
+          "published": "2026-09-10T07:58:00Z"
+        },
+        {
+          "title": "Stocks to Consider Before the Fed's September Decision: JPM, EOG, BE",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-consider-feds-september-decision-190000988.html",
+          "publisher": "Zacks",
+          "published": "2026-09-09T19:00:00Z"
+        }
+      ]
+    },
+    {
       "symbol": "SLB",
       "name": "SLB (Schlumberger)",
       "price": 51.12,
@@ -649,34 +677,6 @@
       ]
     },
     {
-      "symbol": "EOG",
-      "name": "EOG Resources",
-      "price": 144.23,
-      "previous_close": 145.47,
-      "change_pct": -0.85,
-      "market_cap": 75652840813.44958,
-      "headlines": [
-        {
-          "title": "Oil Producers Slide as Crude Retreats: EOG Resources Drops 6%, ConocoPhillips and Occidental Petroleum Fall 5%",
-          "url": "https://finance.yahoo.com/energy/articles/oil-producers-slide-crude-retreats-160306957.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-09-16T16:03:06Z"
-        },
-        {
-          "title": "The Zacks Analyst Blog Highlights  JPMorgan Chase, EOG Resources and Bloom Energy",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-jpmorgan-075800004.html",
-          "publisher": "Zacks",
-          "published": "2026-09-10T07:58:00Z"
-        },
-        {
-          "title": "Stocks to Consider Before the Fed's September Decision: JPM, EOG, BE",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-consider-feds-september-decision-190000988.html",
-          "publisher": "Zacks",
-          "published": "2026-09-09T19:00:00Z"
-        }
-      ]
-    },
-    {
       "symbol": "ET",
       "name": "Energy Transfer",
       "price": 21.14,
@@ -684,6 +684,12 @@
       "change_pct": 0.43,
       "market_cap": 72791351463.51671,
       "headlines": [
+        {
+          "title": "2 High-Yield Dividend Stocks to Buy and 1 to Avoid",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/2-high-yield-dividend-stocks-205000071.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-18T20:50:00Z"
+        },
         {
           "title": "Energy Transfer vs. Williams Companies: Which Natural Gas Giant Wins the AI Power Buildout?",
           "url": "https://finance.yahoo.com/energy/articles/energy-transfer-vs-williams-companies-165000205.html",
@@ -695,12 +701,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/et-stock-outperforms-industry-past-150200769.html",
           "publisher": "Zacks",
           "published": "2026-09-18T15:02:00Z"
-        },
-        {
-          "title": "Jim Cramer on Energy Transfer (ET): \u201cBuy, Buy, Buy\u201d",
-          "url": "https://finance.yahoo.com/energy/articles/jim-cramer-energy-transfer-et-121234614.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-09-18T12:12:34Z"
         }
       ]
     },
@@ -859,16 +859,16 @@
           "published": "2026-09-18T17:18:56Z"
         },
         {
+          "title": "Halliburton Stock: Is HAL Underperforming the Energy Sector?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/halliburton-stock-hal-underperforming-energy-144737958.html",
+          "publisher": "Barchart",
+          "published": "2026-09-18T14:47:37Z"
+        },
+        {
           "title": "Why Is Baker Hughes (BKR) Winning One Of America\u2019s Biggest LNG Compression Orders?",
           "url": "https://finance.yahoo.com/energy/articles/why-baker-hughes-bkr-winning-051457961.html",
           "publisher": "Simply Wall St.",
           "published": "2026-09-18T05:14:57Z"
-        },
-        {
-          "title": "NESR Stock Trades at a Premium: Still an Attractive Opportunity?",
-          "url": "https://finance.yahoo.com/energy/articles/nesr-stock-trades-premium-still-141900886.html",
-          "publisher": "Zacks",
-          "published": "2026-09-16T14:19:00Z"
         }
       ]
     },
@@ -1074,7 +1074,7 @@
       "price": 69.77,
       "previous_close": 70.98,
       "change_pct": -1.7,
-      "market_cap": 34774763819.93706,
+      "market_cap": 34767882544.708145,
       "headlines": [
         {
           "title": "Public Service Enterprise Group CEO Sells 2,083 Shares",
@@ -1494,7 +1494,7 @@
       "price": 29.83,
       "previous_close": 29.66,
       "change_pct": 0.57,
-      "market_cap": 8952329780.6833,
+      "market_cap": 9046722012.81188,
       "headlines": [
         {
           "title": "Ranking the Safest Dividend Stocks in the Energy Sector Right Now",
@@ -1606,7 +1606,7 @@
       "price": 82.03,
       "previous_close": 82.05,
       "change_pct": -0.02,
-      "market_cap": 5866137803.824951,
+      "market_cap": 5880356801.783356,
       "headlines": [
         {
           "title": "Q2 Earnings Highs And Lows: Weatherford (NASDAQ:WFRD) Vs The Rest Of The Mixed or Offshore Upstream E&P Stocks",
@@ -1662,7 +1662,7 @@
       "price": 34.64,
       "previous_close": 36.02,
       "change_pct": -3.83,
-      "market_cap": 4577490526.065308,
+      "market_cap": 4565490260.3567505,
       "headlines": [
         {
           "title": "Enphase Energy Drops 5% as Solar Selling Resumes; First Solar and Sunrun Fall 4%",
@@ -1713,34 +1713,6 @@
       ]
     },
     {
-      "symbol": "UUUU",
-      "name": "Energy Fuels",
-      "price": 11.7,
-      "previous_close": 11.98,
-      "change_pct": -2.34,
-      "market_cap": 3097850741.898449,
-      "headlines": [
-        {
-          "title": "Will USAR's AI-Driven Approach Enhance Rare-Earth Processing?",
-          "url": "https://finance.yahoo.com/technology/ai/articles/usars-ai-driven-approach-enhance-135500779.html",
-          "publisher": "Zacks",
-          "published": "2026-09-18T13:55:00Z"
-        },
-        {
-          "title": "MP's Operating Losses Continue in Q2: Can It Revert to Profitability?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/mps-operating-losses-continue-q2-151900509.html",
-          "publisher": "Zacks",
-          "published": "2026-09-17T15:19:00Z"
-        },
-        {
-          "title": "UEC Gears Up to Report Q4 Earnings: What's in Store for the Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/uec-gears-report-q4-earnings-163200407.html",
-          "publisher": "Zacks",
-          "published": "2026-09-16T16:32:00Z"
-        }
-      ]
-    },
-    {
       "symbol": "LEU",
       "name": "Centrus Energy",
       "price": 145.23,
@@ -1765,6 +1737,34 @@
           "url": "https://finance.yahoo.com/energy/articles/why-did-nuclear-stocks-oklo-012102981.html",
           "publisher": "Stocktwits",
           "published": "2026-09-18T01:21:02Z"
+        }
+      ]
+    },
+    {
+      "symbol": "UUUU",
+      "name": "Energy Fuels",
+      "price": 11.7,
+      "previous_close": 11.98,
+      "change_pct": -2.34,
+      "market_cap": 2924590452.32296,
+      "headlines": [
+        {
+          "title": "Will USAR's AI-Driven Approach Enhance Rare-Earth Processing?",
+          "url": "https://finance.yahoo.com/technology/ai/articles/usars-ai-driven-approach-enhance-135500779.html",
+          "publisher": "Zacks",
+          "published": "2026-09-18T13:55:00Z"
+        },
+        {
+          "title": "MP's Operating Losses Continue in Q2: Can It Revert to Profitability?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/mps-operating-losses-continue-q2-151900509.html",
+          "publisher": "Zacks",
+          "published": "2026-09-17T15:19:00Z"
+        },
+        {
+          "title": "UEC Gears Up to Report Q4 Earnings: What's in Store for the Stock?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/uec-gears-report-q4-earnings-163200407.html",
+          "publisher": "Zacks",
+          "published": "2026-09-16T16:32:00Z"
         }
       ]
     },
@@ -1859,7 +1859,26 @@
       "previous_close": 7.66,
       "change_pct": -4.44,
       "market_cap": 1047957488.7356586,
-      "headlines": []
+      "headlines": [
+        {
+          "title": "FLNC Revises FY2026 Outlook on Manufacturing Delays: What's Ahead?",
+          "url": "https://finance.yahoo.com/energy/articles/flnc-revises-fy2026-outlook-manufacturing-144700098.html",
+          "publisher": "Zacks",
+          "published": "2026-09-18T14:47:00Z"
+        },
+        {
+          "title": "1 Industrials Stock with Promising Prospects and 2 Facing Headwinds",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/1-industrials-stock-promising-prospects-080120329.html",
+          "publisher": "StockStory",
+          "published": "2026-09-18T08:01:20Z"
+        },
+        {
+          "title": "NKE, FLNC, CPRT, ULTA, JBHT: Top Wall Street Calls And Target Changes Making Waves This Week",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nke-flnc-cprt-ulta-jbht-023101333.html",
+          "publisher": "Stocktwits",
+          "published": "2026-09-18T02:31:01Z"
+        }
+      ]
     },
     {
       "symbol": "ARRY",
@@ -2096,13 +2115,13 @@
     },
     {
       "label": "WTI",
-      "price": 95.37,
-      "change_pct": -6.42
+      "price": 95.39,
+      "change_pct": -6.4
     },
     {
       "label": "Brent",
-      "price": 98.7,
-      "change_pct": -5.84
+      "price": 98.68,
+      "change_pct": -5.86
     },
     {
       "label": "NatGas",
