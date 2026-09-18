@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-09-18T09:57:11+00:00",
-  "as_of_local": "2026-09-18 09:57:11 UTC",
+  "as_of_utc": "2026-09-18T10:01:56+00:00",
+  "as_of_local": "2026-09-18 10:01:56 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "EOSE"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1827,6 +1825,34 @@
       ]
     },
     {
+      "symbol": "EOSE",
+      "name": "Eos Energy",
+      "price": 3.98,
+      "previous_close": 3.93,
+      "change_pct": 1.14,
+      "market_cap": 1449387628.0659485,
+      "headlines": [
+        {
+          "title": "QuantumScape Is Down 51% This Year. Is QS Stock Dead Money or Due for a Bounce?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/quantumscape-down-51-qs-stock-191639034.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-09-15T19:16:39Z"
+        },
+        {
+          "title": "Google Plans to Build Mammoth Solar Farm on an Abandoned Coal Mine. This Penny Stock Just Won the Deal.",
+          "url": "https://finance.yahoo.com/energy/articles/google-plans-build-mammoth-solar-155428096.html",
+          "publisher": "Barchart",
+          "published": "2026-09-10T15:54:28Z"
+        },
+        {
+          "title": "Google backs solar-storage project at former West Virginia coal mine",
+          "url": "https://finance.yahoo.com/energy/articles/google-backs-solar-storage-project-120038104.html",
+          "publisher": "Utility Dive",
+          "published": "2026-09-08T12:00:38Z"
+        }
+      ]
+    },
+    {
       "symbol": "FLNC",
       "name": "Fluence Energy",
       "price": 7.66,
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 96.42,
-      "change_pct": -5.39
+      "price": 96.25,
+      "change_pct": -5.55
     },
     {
       "label": "Brent",
-      "price": 98.98,
-      "change_pct": -5.57
+      "price": 98.78,
+      "change_pct": -5.76
     },
     {
       "label": "NatGas",
-      "price": 2.85,
-      "change_pct": -1.62
+      "price": 2.86,
+      "change_pct": -1.55
     }
   ]
 }
