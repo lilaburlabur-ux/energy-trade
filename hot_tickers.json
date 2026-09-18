@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-18T23:34:30+00:00",
+  "as_of": "2026-09-18T23:45:06+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,8 +11,8 @@
    "rank": 1,
    "ticker": "CVX",
    "company": "Chevron Corporation",
-   "move_pct": -1.19,
-   "price": 209.06,
+   "move_pct": -1.03,
+   "price": 209.39,
    "volume": 47248591,
    "volume_vs_avg": "~6x",
    "heat_score": 49,
@@ -25,10 +25,26 @@
   },
   {
    "rank": 2,
+   "ticker": "FLNC",
+   "company": "Fluence Energy, Inc.",
+   "move_pct": -5.09,
+   "price": 7.27,
+   "volume": 15186751,
+   "volume_vs_avg": "~2x",
+   "heat_score": 43,
+   "direction": "down",
+   "why": "Fluence Energy (FLNC) Stock Trades Down, Here Is Why",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/fluence-energy-flnc-stock-trades-230440942.html",
+   "published": "2026-09-18T23:04:40Z",
+   "sector": "Grid, Storage & Electrification"
+  },
+  {
+   "rank": 3,
    "ticker": "MPC",
    "company": "Marathon Petroleum Corporation",
-   "move_pct": 0.86,
-   "price": 425.6,
+   "move_pct": 0.85,
+   "price": 425.54,
    "volume": 9850034,
    "volume_vs_avg": "~4x",
    "heat_score": 37,
@@ -40,11 +56,11 @@
    "sector": "Refining & Downstream"
   },
   {
-   "rank": 3,
+   "rank": 4,
    "ticker": "CCJ",
    "company": "Cameco Corporation",
-   "move_pct": -0.86,
-   "price": 92.0,
+   "move_pct": -1.05,
+   "price": 91.83,
    "volume": 8101775,
    "volume_vs_avg": "~3x",
    "heat_score": 34,
