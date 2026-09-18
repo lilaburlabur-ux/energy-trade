@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-18T21:54:22+00:00",
-  "as_of_local": "2026-09-18 21:54:22 UTC",
+  "as_of_utc": "2026-09-18T21:59:29+00:00",
+  "as_of_local": "2026-09-18 21:59:29 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -879,7 +879,26 @@
       "previous_close": 64.29,
       "change_pct": -1.1,
       "market_cap": 55920261447.88011,
-      "headlines": []
+      "headlines": [
+        {
+          "title": "JPMorgan Sees Investment Banking and Trading Powering Q3 Growth",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-sees-investment-banking-trading-164740809.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-09-18T16:47:40Z"
+        },
+        {
+          "title": "Microsoft \u2018preserving its ability\u2019 to challenge data center transmission costs decision",
+          "url": "https://finance.yahoo.com/energy/articles/microsoft-preserving-ability-challenge-data-100913669.html",
+          "publisher": "Utility Dive",
+          "published": "2026-09-18T10:09:13Z"
+        },
+        {
+          "title": "Dominion Energy (D) Beats Stock Market Upswing: What Investors Need to Know",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/dominion-energy-d-beats-stock-220003197.html",
+          "publisher": "Zacks",
+          "published": "2026-09-17T22:00:03Z"
+        }
+      ]
     },
     {
       "symbol": "LNG",
@@ -1030,6 +1049,12 @@
       "market_cap": 39903532732.207054,
       "headlines": [
         {
+          "title": "Cameco (CCJ) Stock Declines While Market Improves: Some Information for Investors",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/cameco-ccj-stock-declines-while-214502517.html",
+          "publisher": "Zacks",
+          "published": "2026-09-18T21:45:02Z"
+        },
+        {
           "title": "Sector Update: Energy Stocks Fall Late Afternoon",
           "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-fall-afternoon-200621416.html",
           "publisher": "MT Newswires",
@@ -1040,12 +1065,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-camecos-westinghouse-stake-becomes-192500378.html",
           "publisher": "Motley Fool",
           "published": "2026-09-18T19:25:00Z"
-        },
-        {
-          "title": "Westinghouse said to seek over $50 billion valuation in planned IPO",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/westinghouse-said-seek-over-50-182132333.html",
-          "publisher": "Investing.com",
-          "published": "2026-09-18T18:21:32Z"
         }
       ]
     },
