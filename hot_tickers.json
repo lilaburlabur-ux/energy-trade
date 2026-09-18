@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-18T23:30:06+00:00",
+  "as_of": "2026-09-18T23:34:30+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,6 +9,22 @@
  "hot_tickers": [
   {
    "rank": 1,
+   "ticker": "CVX",
+   "company": "Chevron Corporation",
+   "move_pct": -1.19,
+   "price": 209.06,
+   "volume": 47248591,
+   "volume_vs_avg": "~6x",
+   "heat_score": 49,
+   "direction": "down",
+   "why": "Jim Cramer Believes Chevron Corporation (NYSE:CVX)\u2019s CEO Is A \u201cBeacon\u201d",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/energy/articles/jim-cramer-believes-chevron-corporation-231552841.html",
+   "published": "2026-09-18T23:15:52Z",
+   "sector": "Oil & Gas Majors"
+  },
+  {
+   "rank": 2,
    "ticker": "MPC",
    "company": "Marathon Petroleum Corporation",
    "move_pct": 0.86,
@@ -24,7 +40,7 @@
    "sector": "Refining & Downstream"
   },
   {
-   "rank": 2,
+   "rank": 3,
    "ticker": "CCJ",
    "company": "Cameco Corporation",
    "move_pct": -0.86,
