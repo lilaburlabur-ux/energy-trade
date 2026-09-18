@@ -36,10 +36,10 @@ Phillips 66 operates as an integrated downstream energy provider in the United S
 
 | Headline | Source | Date |
 |---|---|---|
+| Top Research Reports for AMD, Linde & Amgen | Zacks | 2026-09-18 |
 | Phillips 66: Resilient Refining Meets Midstream Stability | Zacks | 2026-09-17 |
 | 5 Relative Price Strength Stocks to Buy Amid Rising Rates | Zacks | 2026-09-17 |
 | Phillips 66 (PSX) Faces Bayway Labor Questions, Is The Stock Now Too Expensive? | Simply Wall St. | 2026-09-16 |
-| Phillips 66 (PSX) Rises As Market Takes a Dip: Key Facts | Zacks | 2026-09-15 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

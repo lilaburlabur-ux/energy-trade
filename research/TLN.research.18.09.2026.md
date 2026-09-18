@@ -36,10 +36,10 @@ Talen Energy Corporation, an independent power producer and infrastructure compa
 
 | Headline | Source | Date |
 |---|---|---|
+| Talen Energy (TLN) Stock Looks Below Fair Value On Its 3 Year Surge | Simply Wall St. | 2026-09-18 |
 | The AI Boom Has a Power Problem. These 3 Utilities Are Getting Paid to Solve It. | 24/7 Wall St. | 2026-09-17 |
 | Talen Energy (TLN) Gains as Regulatory Progress Enhances Data Center Framework | Insider Monkey | 2026-09-17 |
 | Vistra vs. Constellation vs. Talen Energy: Which Nuclear-Heavy Stock Is the Better AI-Power Bet? | Motley Fool | 2026-09-17 |
-| Vistra’s Price Has Edged Downward Throught 2026: One Analyst Says It’s Due to Double Soon. | 24/7 Wall St. | 2026-09-14 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

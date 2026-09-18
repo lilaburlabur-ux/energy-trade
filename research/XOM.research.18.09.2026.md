@@ -36,10 +36,10 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 
 | Headline | Source | Date |
 |---|---|---|
+| Ranking the Safest Dividend Stocks in the Energy Sector Right Now | Motley Fool | 2026-09-18 |
 | 500th Episode: Investing Tips from 11 Years of Podcasting About Stocks | Zacks | 2026-09-18 |
 | ExxonMobil's Advantaged Assets and Refining Strength Drive Outlook | Zacks | 2026-09-18 |
 | Exxon’s 11 Million-Gallon Refinery Goes Dark. How High Can Midwest Gas Prices Go? | 24/7 Wall St. | 2026-09-18 |
-| Chevron vs. Exxon: Which Dividend Survives the Downturn | 24/7 Wall St. | 2026-09-18 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

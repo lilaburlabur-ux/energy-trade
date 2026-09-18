@@ -36,10 +36,10 @@ Enterprise Products Partners L.P. provides midstream energy services to producer
 
 | Headline | Source | Date |
 |---|---|---|
+| Ranking the Safest Dividend Stocks in the Energy Sector Right Now | Motley Fool | 2026-09-18 |
 | Oil Prices Rise and Fall. These 4 High-Yield Pipeline Stocks Keep Paying | 24/7 Wall St. | 2026-09-18 |
 | Boomers Are Piling Into These 5 High-Yield Dividend Stocks, and None Are Yield Traps | 24/7 Wall St. | 2026-09-17 |
 | 2 Midstream Dividend Stocks Nobody's Talking About Right Now | Motley Fool | 2026-09-17 |
-| Enterprise Products Partners (EPD) Suffers a Larger Drop Than the General Market: Key Insights | Zacks | 2026-09-16 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -36,10 +36,10 @@ Brookfield Renewable Partners L.P. owns a portfolio of renewable power generatin
 
 | Headline | Source | Date |
 |---|---|---|
+| Ranking the Safest Dividend Stocks in the Energy Sector Right Now | Motley Fool | 2026-09-18 |
 | Sector Update: Energy Stocks Fall Late Afternoon | MT Newswires | 2026-09-18 |
 | Prediction: Cameco's Westinghouse Stake Becomes the Real Growth Story by 2028 | Motley Fool | 2026-09-18 |
 | Westinghouse said to seek over $50 billion valuation in planned IPO | Investing.com | 2026-09-18 |
-| Westinghouse Targeting Over $50 Billion Valuation in US IPO | Bloomberg | 2026-09-18 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

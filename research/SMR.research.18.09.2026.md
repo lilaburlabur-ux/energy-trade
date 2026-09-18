@@ -19,7 +19,7 @@ Signed file: `SMR.research.18.09.2026`
 | Fresh setup quality | Poor / broken | -84.52% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 0.00%, revenue growth -99.10%. |
 | Value attractiveness | Reasonable | Forward P/E -12.53, EV/Sales 242.92. |
-| Risk level | High | Beta 2.31, ATR 9.1% of price, short float 17.60%. |
+| Risk level | High | Beta 2.31, ATR 9.0% of price, short float 17.60%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: high.
 
@@ -47,7 +47,7 @@ NuScale Power Corporation provides small modular reactor technology solutions. I
 | Price vs 52-week range | Close $8.27; 52w high $53.43 (-84.52%); 52w low $7.59 (+8.96%) |
 | Trend | -34.11% vs SMA200, -8.52% vs SMA50, -11.74% vs SMA20 |
 | Momentum | RSI(14) 42.3 (neutral) |
-| Volatility | ATR(14) 0.75 (~9.1% of price); beta 2.31 |
+| Volatility | ATR(14) 0.75 (~9.0% of price); beta 2.31 |
 | Setup perspective | -84.52% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
@@ -95,7 +95,7 @@ NuScale Power Corporation provides small modular reactor technology solutions. I
 | State Street Corporation | 6,662,750 | 1.62% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 2.31, ATR 9.1% of price, short float 17.60%. Size positions accordingly.
+- **Volatility risk:** Beta 2.31, ATR 9.0% of price, short float 17.60%. Size positions accordingly.
 - **Short interest risk:** short float 17.60% can fuel squeezes both ways around news.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.

@@ -36,10 +36,10 @@ Energy Transfer LP, together with its subsidiaries, provides energy-related serv
 
 | Headline | Source | Date |
 |---|---|---|
+| 2 High-Yield Dividend Stocks to Buy and 1 to Avoid | Motley Fool | 2026-09-18 |
 | Energy Transfer vs. Williams Companies: Which Natural Gas Giant Wins the AI Power Buildout? | Motley Fool | 2026-09-18 |
 | ET Stock Outperforms Industry in the Past 6 Months:  How to Play? | Zacks | 2026-09-18 |
 | Jim Cramer on Energy Transfer (ET): “Buy, Buy, Buy” | Insider Monkey | 2026-09-18 |
-| Energy Transfer’s Free Cash Flow Nearly Vanished in Q4. Six Months Later, It Doubled. Here’s What’s Actually Driving It | TIKR | 2026-09-17 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

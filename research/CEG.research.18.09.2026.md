@@ -36,10 +36,10 @@ Constellation Energy Corporation produces and sells energy products and services
 
 | Headline | Source | Date |
 |---|---|---|
+| S&P 500 Posts Slight Weekly Decline as Utilities Weigh | MT Newswires | 2026-09-18 |
 | DTE Could Be One of the Quiet Winners of the Data Center Boom | 24/7 Wall St. | 2026-09-18 |
 | Equity Overhang Weighs on Constellation Energy (CEG) Despite Solid Core Fundamentals | Insider Monkey | 2026-09-18 |
 | Constellation Energy Is Down 29% From Its Peak. Is the Nuclear Bull Case Still Intact? | TIKR | 2026-09-17 |
-| Jim Cramer Turns on the Two Kings of AI: “If You Want to Destroy Trust, You Couldn’t Find a Better Way” | 24/7 Wall St. | 2026-09-17 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
