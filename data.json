@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-18T12:27:59+00:00",
-  "as_of_local": "2026-09-18 12:27:59 UTC",
+  "as_of_utc": "2026-09-18T12:33:08+00:00",
+  "as_of_local": "2026-09-18 12:33:08 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -573,6 +573,12 @@
       "market_cap": 82691500539.20361,
       "headlines": [
         {
+          "title": "One stock is up 540%, and it's not alone",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/one-stock-540-not-alone-122738308.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-09-18T12:27:38Z"
+        },
+        {
           "title": "The Anthropic IPO Could Be Bigger Than SpaceX. Here's What That Means for Vistra, Bloom Energy, and Oklo.",
           "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-ipo-could-bigger-spacex-102000686.html",
           "publisher": "Motley Fool",
@@ -583,12 +589,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/5-green-stocks-crushed-clean-061807153.html",
           "publisher": "Stocktwits",
           "published": "2026-09-18T06:18:07Z"
-        },
-        {
-          "title": "Stock Market Today: Nasdaq Snaps Losing Streak; Nvidia Gains As This Stock Soars On Amazon Deal",
-          "url": "https://www.investors.com/market-trend/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-fed-reaction-generac-nebius-bloom-energy-spacex/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-09-17T20:24:27Z"
         }
       ]
     },
@@ -1749,6 +1749,12 @@
       "market_cap": 3064898358.6358643,
       "headlines": [
         {
+          "title": "1 High-Flying Stock Worth Your Attention and 2 We Ignore",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/1-high-flying-stock-worth-121640156.html",
+          "publisher": "StockStory",
+          "published": "2026-09-18T12:16:40Z"
+        },
+        {
           "title": "Why Did Nuclear Stocks OKLO, SMR, NNE, LEU, XE Jump On Thursday?",
           "url": "https://finance.yahoo.com/energy/articles/why-did-nuclear-stocks-oklo-012102981.html",
           "publisher": "Stocktwits",
@@ -1759,12 +1765,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-centrus-energy-leu-stock-222617816.html",
           "publisher": "StockStory",
           "published": "2026-09-17T22:26:17Z"
-        },
-        {
-          "title": "The Nuclear Stock Boom Could Keep Decaying",
-          "url": "https://www.wsj.com/finance/stocks/the-nuclear-stock-boom-could-keep-decaying-67d78958?siteid=yhoof2&yptr=yahoo",
-          "publisher": "The Wall Street Journal",
-          "published": "2026-09-17T10:34:00Z"
         }
       ]
     },
@@ -2115,13 +2115,13 @@
     },
     {
       "label": "WTI",
-      "price": 96.41,
-      "change_pct": -5.4
+      "price": 96.56,
+      "change_pct": -5.25
     },
     {
       "label": "Brent",
-      "price": 98.82,
-      "change_pct": -5.72
+      "price": 98.94,
+      "change_pct": -5.61
     },
     {
       "label": "NatGas",
