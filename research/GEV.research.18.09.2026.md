@@ -36,10 +36,10 @@ GE Vernova Inc., an energy company, engages in the provision of various products
 
 | Headline | Source | Date |
 |---|---|---|
+| GE Vernova (GEV) Surpasses Market Returns: Some Facts Worth Knowing | Zacks | 2026-09-18 |
 | GE Vernova vs. NextEra Energy: Which Industrials Stock Is a Better Buy in 2026? | Motley Fool | 2026-09-18 |
 | Bernstein’s Defense of GE Vernova Doesn’t Answer the Valuation Question | Insider Monkey | 2026-09-18 |
 | U.S. AI-Related Stocks Extend Rally Premarket | The Wall Street Journal | 2026-09-18 |
-| GE Vernova Eyes $200B Backlog Early in 2027 as Power Demand Surges | MarketBeat | 2026-09-18 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

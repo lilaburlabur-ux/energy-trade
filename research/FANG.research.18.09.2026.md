@@ -36,10 +36,10 @@ Diamondback Energy, Inc., an independent oil and natural gas company, acquires, 
 
 | Headline | Source | Date |
 |---|---|---|
+| 2 Energy Stocks with Impressive Fundamentals and 1 We Find Risky | StockStory | 2026-09-18 |
 | This Diamondback Insider Is One of the World’s Richest People. She Just Sold $2 Billion of Stock. | Barrons.com | 2026-09-18 |
 | 3 Oil And Gas Stocks For Higher Energy Prices On Russia Sanctions | Simply Wall St. | 2026-09-18 |
 | Stocks to Watch Recap: Lennar, Generac, Volvo | The Wall Street Journal | 2026-09-17 |
-| Company News for Sep 17, 2026 | Zacks | 2026-09-17 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

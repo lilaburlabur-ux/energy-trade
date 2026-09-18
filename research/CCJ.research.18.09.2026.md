@@ -36,10 +36,10 @@ Cameco Corporation provides uranium for the generation of electricity in the Ame
 
 | Headline | Source | Date |
 |---|---|---|
+| Cameco (CCJ) Stock Declines While Market Improves: Some Information for Investors | Zacks | 2026-09-18 |
 | Sector Update: Energy Stocks Fall Late Afternoon | MT Newswires | 2026-09-18 |
 | Prediction: Cameco's Westinghouse Stake Becomes the Real Growth Story by 2028 | Motley Fool | 2026-09-18 |
 | Westinghouse said to seek over $50 billion valuation in planned IPO | Investing.com | 2026-09-18 |
-| Westinghouse Targeting Over $50 Billion Valuation in US IPO | Bloomberg | 2026-09-18 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -69,7 +69,7 @@ Cameco Corporation provides uranium for the generation of electricity in the Ame
 | Profitability | Gross 35.11%, operating 9.11%, net 10.21% | ROA 2.98%, ROE 5.11% |
 | Balance sheet | Cash $1.11B, debt $1.22B | Current ratio 3.06, debt/equity 17.13 |
 | Valuation | P/E 157.97, forward P/E 48.95, P/S 11.48, P/B 7.83 | EV/Sales 11.66, EV/EBITDA 50.76 |
-| Growth expectations | Earnings growth -92.10%, EPS q/q -92.10% | Analyst mean target $129.25 (12 analysts) |
+| Growth expectations | Earnings growth -92.10%, EPS q/q -92.10% | Analyst mean target $129.30 (12 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |

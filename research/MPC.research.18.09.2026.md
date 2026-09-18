@@ -36,10 +36,10 @@ Marathon Petroleum Corporation, together with its subsidiaries, operates as an i
 
 | Headline | Source | Date |
 |---|---|---|
+| Marathon Petroleum (MPC) Is Up 7.3% After Analyst Upgrades And Earnings Beat - Has The Bull Case Changed? | Simply Wall St. | 2026-09-18 |
 | Marathon Petroleum’s (MPC) Pivotal Role in the Evolving LNG Supply Chain | Insider Monkey | 2026-09-18 |
 | Here's How Much You'd Have If You Invested $1000 in Marathon Petroleum a Decade Ago | Zacks | 2026-09-18 |
 | Why Is the BoE Holding Rates While the US Fed Hikes? | BeInCrypto | 2026-09-18 |
-| Marathon Petroleum (MPC) Exceeds Market Returns: Some Facts to Consider | Zacks | 2026-09-17 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

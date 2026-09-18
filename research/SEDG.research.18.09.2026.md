@@ -36,10 +36,10 @@ SolarEdge Technologies, Inc., together with its subsidiaries, operates as an ene
 
 | Headline | Source | Date |
 |---|---|---|
+| SolarEdge Technologies (SEDG) Stock Dips While Market Gains: Key Facts | Zacks | 2026-09-18 |
 | 3 Industrials Stocks We’re Skeptical Of | StockStory | 2026-09-18 |
 | Sunrun and First Solar Rise 6% as Solar Selloff Unwinds; SolarEdge Climbs 4% | 24/7 Wall St. | 2026-09-17 |
 | Is Infineon’s 800 VDC AI Data Center Breaker Role Altering The Investment Case For Infineon Technologies (XTRA:IFX)? | Simply Wall St. | 2026-09-16 |
-| Q2 Rundown: SolarEdge (NASDAQ:SEDG) Vs Other Renewable Energy Stocks | StockStory | 2026-09-16 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

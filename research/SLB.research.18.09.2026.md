@@ -36,10 +36,10 @@ SLB N.V. engages in the provision of technology for the energy industry worldwid
 
 | Headline | Source | Date |
 |---|---|---|
+| SLB (SLB) Stock Dips While Market Gains: Key Facts | Zacks | 2026-09-18 |
 | NESR Targets Bigger Middle East Contracts: Will They Accelerate 3B3? | Zacks | 2026-09-17 |
 | Is Trending Stock SLB Limited (SLB) a Buy Now? | Zacks | 2026-09-17 |
 | SLB (SLB) Falls More Steeply Than Broader Market: What Investors Need to Know | Zacks | 2026-09-16 |
-| 1 S&P 500 Stock Worth Your Attention and 2 We Turn Down | StockStory | 2026-09-16 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
