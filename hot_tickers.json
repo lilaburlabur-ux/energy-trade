@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-18T18:45:45+00:00",
+  "as_of": "2026-09-18T19:00:54+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,11 +11,11 @@
    "rank": 1,
    "ticker": "SMR",
    "company": "NuScale Power Corporation",
-   "move_pct": -8.41,
-   "price": 8.28,
-   "volume": 29261538,
+   "move_pct": -8.74,
+   "price": 8.25,
+   "volume": 30201862,
    "volume_vs_avg": "~0.8x",
-   "heat_score": 59,
+   "heat_score": 60,
    "direction": "down",
    "why": "NuScale Power Drops 7% as Nuclear Stocks Hand Back the Vote Rally; Oklo Falls 5%, Centrus Energy Slides 3%",
    "catalyst_type": "momentum_narrative",
@@ -27,33 +27,17 @@
    "rank": 2,
    "ticker": "ARRY",
    "company": "Array Technologies, Inc.",
-   "move_pct": -6.25,
-   "price": 3.97,
-   "volume": 8337305,
-   "volume_vs_avg": "~1.3x",
-   "heat_score": 43,
+   "move_pct": -5.31,
+   "price": 4.01,
+   "volume": 8726998,
+   "volume_vs_avg": "~1.4x",
+   "heat_score": 40,
    "direction": "down",
    "why": "LEN, ARRY Stocks Hit New Lows As Price Target Cuts Pile Up \u2014 What\u2019s Driving The Selloff?",
    "catalyst_type": "analyst_action",
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/len-arry-stocks-hit-lows-181614273.html",
    "published": "2026-09-18T18:16:14Z",
    "sector": "Renewables & Solar"
-  },
-  {
-   "rank": 3,
-   "ticker": "FLNC",
-   "company": "Fluence Energy, Inc.",
-   "move_pct": -5.03,
-   "price": 7.28,
-   "volume": 9393844,
-   "volume_vs_avg": "~1.2x",
-   "heat_score": 39,
-   "direction": "down",
-   "why": "FLNC Revises FY2026 Outlook on Manufacturing Delays: What's Ahead?",
-   "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/energy/articles/flnc-revises-fy2026-outlook-manufacturing-144700098.html",
-   "published": "2026-09-18T14:47:00Z",
-   "sector": "Grid, Storage & Electrification"
   }
  ]
 }
