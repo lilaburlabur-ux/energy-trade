@@ -1,75 +1,10 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-18T03:57:15+00:00",
+  "as_of": "2026-09-18T08:04:51+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": [
-  {
-   "rank": 1,
-   "ticker": "FLNC",
-   "company": "Fluence Energy, Inc.",
-   "move_pct": -15.36,
-   "price": 7.66,
-   "volume": 33713700,
-   "volume_vs_avg": "~5x",
-   "heat_score": 99,
-   "direction": "down",
-   "why": "NKE, FLNC, CPRT, ULTA, JBHT: Top Wall Street Calls And Target Changes Making Waves This Week",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/nke-flnc-cprt-ulta-jbht-023101333.html",
-   "published": "2026-09-18T02:31:01Z",
-   "sector": "Grid, Storage & Electrification"
-  },
-  {
-   "rank": 2,
-   "ticker": "OKLO",
-   "company": "Oklo Inc.",
-   "move_pct": 11.31,
-   "price": 39.65,
-   "volume": 17390800,
-   "volume_vs_avg": "~2x",
-   "heat_score": 73,
-   "direction": "up",
-   "why": "Why Did Nuclear Stocks OKLO, SMR, NNE, LEU, XE Jump On Thursday?",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/energy/articles/why-did-nuclear-stocks-oklo-012102981.html",
-   "published": "2026-09-18T01:21:02Z",
-   "sector": "Nuclear & Uranium"
-  },
-  {
-   "rank": 3,
-   "ticker": "SMR",
-   "company": "NuScale Power Corporation",
-   "move_pct": 8.92,
-   "price": 9.04,
-   "volume": 49283100,
-   "volume_vs_avg": "~1.4x",
-   "heat_score": 63,
-   "direction": "up",
-   "why": "Why Did Nuclear Stocks OKLO, SMR, NNE, LEU, XE Jump On Thursday?",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/energy/articles/why-did-nuclear-stocks-oklo-012102981.html",
-   "published": "2026-09-18T01:21:02Z",
-   "sector": "Nuclear & Uranium"
-  },
-  {
-   "rank": 4,
-   "ticker": "LEU",
-   "company": "Centrus Energy Corp.",
-   "move_pct": 7.8,
-   "price": 149.85,
-   "volume": 841000,
-   "volume_vs_avg": "~1.3x",
-   "heat_score": 49,
-   "direction": "up",
-   "why": "Why Did Nuclear Stocks OKLO, SMR, NNE, LEU, XE Jump On Thursday?",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/energy/articles/why-did-nuclear-stocks-oklo-012102981.html",
-   "published": "2026-09-18T01:21:02Z",
-   "sector": "Nuclear & Uranium"
-  }
- ]
+ "hot_tickers": []
 }
