@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-18T22:03:55+00:00",
+  "as_of": "2026-09-18T22:19:06+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,19 +9,19 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "ARRY",
-   "company": "Array Technologies, Inc.",
-   "move_pct": -5.66,
-   "price": 4.0,
-   "volume": 17272955,
-   "volume_vs_avg": "~3x",
-   "heat_score": 48,
+   "ticker": "BE",
+   "company": "Bloom Energy Corporation",
+   "move_pct": -5.01,
+   "price": 266.68,
+   "volume": 73325656,
+   "volume_vs_avg": "~6x",
+   "heat_score": 46,
    "direction": "down",
-   "why": "LEN, ARRY Stocks Hit New Lows As Price Target Cuts Pile Up \u2014 What\u2019s Driving The Selloff?",
-   "catalyst_type": "analyst_action",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/len-arry-stocks-hit-lows-181614273.html",
-   "published": "2026-09-18T18:16:14Z",
-   "sector": "Renewables & Solar"
+   "why": "Moving down 5.0% on ~6x average volume with no fresh headline this cycle \u2014 attention without a story.",
+   "catalyst_type": "no_news_mover",
+   "source_url": "",
+   "published": "",
+   "sector": "Grid, Storage & Electrification"
   },
   {
    "rank": 2,
@@ -33,10 +33,10 @@
    "volume_vs_avg": "~3x",
    "heat_score": 34,
    "direction": "down",
-   "why": "Prediction: Cameco's Westinghouse Stake Becomes the Real Growth Story by 2028",
+   "why": "Cameco (CCJ) Stock Declines While Market Improves: Some Information for Investors",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/prediction-camecos-westinghouse-stake-becomes-192500378.html",
-   "published": "2026-09-18T19:25:00Z",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/cameco-ccj-stock-declines-while-214502517.html",
+   "published": "2026-09-18T21:45:02Z",
    "sector": "Nuclear & Uranium"
   }
  ]
