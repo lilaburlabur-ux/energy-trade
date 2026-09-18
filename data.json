@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-18T11:02:39+00:00",
-  "as_of_local": "2026-09-18 11:02:39 UTC",
+  "as_of_utc": "2026-09-18T11:07:47+00:00",
+  "as_of_local": "2026-09-18 11:07:47 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -153,6 +153,12 @@
       "market_cap": 169548306281.15988,
       "headlines": [
         {
+          "title": "Jim Cramer says 'take the money and run' on energy titan, up 18%",
+          "url": "https://finance.yahoo.com/energy/articles/jim-cramer-says-money-run-110300376.html",
+          "publisher": "TheStreet",
+          "published": "2026-09-18T11:03:00Z"
+        },
+        {
           "title": "NextEra Energy (NEE) Gains But Lags Market: What You Should Know",
           "url": "https://finance.yahoo.com/markets/stocks/articles/nextera-energy-nee-gains-lags-214503888.html",
           "publisher": "Zacks",
@@ -163,12 +169,6 @@
           "url": "https://finance.yahoo.com/energy/articles/ai-boom-power-problem-3-150644881.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-09-17T15:06:44Z"
-        },
-        {
-          "title": "CEG Stock Trails Industry in 6 Months: Should You Buy, Hold or Sell?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ceg-stock-trails-industry-6-165500041.html",
-          "publisher": "Zacks",
-          "published": "2026-09-16T16:55:00Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 95.7,
-      "change_pct": -6.09
+      "price": 95.55,
+      "change_pct": -6.24
     },
     {
       "label": "Brent",
-      "price": 98.49,
-      "change_pct": -6.04
+      "price": 98.39,
+      "change_pct": -6.13
     },
     {
       "label": "NatGas",
-      "price": 2.86,
-      "change_pct": -1.52
+      "price": 2.85,
+      "change_pct": -1.65
     }
   ]
 }
