@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-18T05:22:18+00:00",
-  "as_of_local": "2026-09-18 05:22:18 UTC",
+  "as_of_utc": "2026-09-18T05:37:34+00:00",
+  "as_of_local": "2026-09-18 05:37:34 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -237,6 +237,12 @@
       "market_cap": 123185580010.02426,
       "headlines": [
         {
+          "title": "Why Is the BoE Holding Rates While the US Fed Hikes?",
+          "url": "https://finance.yahoo.com/economy/policy/articles/why-boe-holding-rates-while-045113013.html",
+          "publisher": "BeInCrypto",
+          "published": "2026-09-18T04:51:13Z"
+        },
+        {
           "title": "Marathon Petroleum (MPC) Exceeds Market Returns: Some Facts to Consider",
           "url": "https://finance.yahoo.com/markets/stocks/articles/marathon-petroleum-mpc-exceeds-market-214505144.html",
           "publisher": "Zacks",
@@ -247,12 +253,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/think-too-buy-marathon-valero-131550836.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-09-17T13:15:50Z"
-        },
-        {
-          "title": "Valero Energy Corporation (VLO) Hit a 52 Week High, Can the Run Continue?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/valero-energy-corporation-vlo-hit-131502713.html",
-          "publisher": "Zacks",
-          "published": "2026-09-17T13:15:02Z"
         }
       ]
     },
@@ -881,6 +881,12 @@
       "market_cap": 56155571893.529915,
       "headlines": [
         {
+          "title": "Why Is Baker Hughes (BKR) Winning One Of America\u2019s Biggest LNG Compression Orders?",
+          "url": "https://finance.yahoo.com/energy/articles/why-baker-hughes-bkr-winning-051457961.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-09-18T05:14:57Z"
+        },
+        {
           "title": "NESR Stock Trades at a Premium: Still an Attractive Opportunity?",
           "url": "https://finance.yahoo.com/energy/articles/nesr-stock-trades-premium-still-141900886.html",
           "publisher": "Zacks",
@@ -891,12 +897,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/baker-hughes-stock-outperforming-dow-112123678.html",
           "publisher": "Barchart",
           "published": "2026-09-16T11:21:23Z"
-        },
-        {
-          "title": "Baker Hughes (BKR) and Venture Global (VG) Team Up for the Next LNG Wave",
-          "url": "https://finance.yahoo.com/energy/articles/baker-hughes-bkr-venture-global-042026260.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-09-16T04:20:26Z"
         }
       ]
     },
@@ -2115,13 +2115,13 @@
     },
     {
       "label": "WTI",
-      "price": 101.03,
-      "change_pct": -0.86
+      "price": 101.02,
+      "change_pct": -0.87
     },
     {
       "label": "Brent",
-      "price": 103.7,
-      "change_pct": -1.07
+      "price": 103.67,
+      "change_pct": -1.1
     },
     {
       "label": "NatGas",
