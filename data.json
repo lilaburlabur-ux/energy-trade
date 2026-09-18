@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-18T12:17:21+00:00",
-  "as_of_local": "2026-09-18 12:17:21 UTC",
+  "as_of_utc": "2026-09-18T12:22:16+00:00",
+  "as_of_local": "2026-09-18 12:22:16 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -685,6 +685,12 @@
       "market_cap": 72481453974.02089,
       "headlines": [
         {
+          "title": "Jim Cramer on Energy Transfer (ET): \u201cBuy, Buy, Buy\u201d",
+          "url": "https://finance.yahoo.com/energy/articles/jim-cramer-energy-transfer-et-121234614.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-09-18T12:12:34Z"
+        },
+        {
           "title": "Energy Transfer\u2019s Free Cash Flow Nearly Vanished in Q4. Six Months Later, It Doubled. Here\u2019s What\u2019s Actually Driving It",
           "url": "https://finance.yahoo.com/energy/articles/energy-transfer-free-cash-flow-220628008.html",
           "publisher": "TIKR",
@@ -695,12 +701,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/boomers-piling-5-high-yield-124027526.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-09-17T12:40:27Z"
-        },
-        {
-          "title": "Energy Transfer LP (ET) Falls More Steeply Than Broader Market: What Investors Need to Know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/energy-transfer-lp-et-falls-214504266.html",
-          "publisher": "Zacks",
-          "published": "2026-09-16T21:45:04Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 96.36,
-      "change_pct": -5.45
+      "price": 96.51,
+      "change_pct": -5.3
     },
     {
       "label": "Brent",
-      "price": 98.68,
-      "change_pct": -5.86
+      "price": 98.85,
+      "change_pct": -5.7
     },
     {
       "label": "NatGas",
-      "price": 2.87,
-      "change_pct": -0.93
+      "price": 2.88,
+      "change_pct": -0.79
     }
   ]
 }
