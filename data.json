@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-09-18T10:17:29+00:00",
-  "as_of_local": "2026-09-18 10:17:29 UTC",
+  "as_of_utc": "2026-09-18T10:22:08+00:00",
+  "as_of_local": "2026-09-18 10:22:08 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "GEV"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -85,34 +87,6 @@
           "url": "https://finance.yahoo.com/energy/articles/shell-falls-2-5-36-202627845.html",
           "publisher": "GuruFocus.com",
           "published": "2026-09-16T20:26:27Z"
-        }
-      ]
-    },
-    {
-      "symbol": "GEV",
-      "name": "GE Vernova",
-      "price": 924.93,
-      "previous_close": 925.09,
-      "change_pct": -0.02,
-      "market_cap": 246339917123.6446,
-      "headlines": [
-        {
-          "title": "GE Vernova Eyes $200B Backlog Early in 2027 as Power Demand Surges",
-          "url": "https://finance.yahoo.com/energy/articles/ge-vernova-eyes-200b-backlog-080209388.html",
-          "publisher": "MarketBeat",
-          "published": "2026-09-18T08:02:09Z"
-        },
-        {
-          "title": "The Anthropic IPO Is Coming Soon. These 3 Industrial Stocks Will Profit Whether You Can Get Shares or Not.",
-          "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-ipo-coming-soon-3-015000226.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-18T01:50:00Z"
-        },
-        {
-          "title": "Why GE Vernova Stock Bumped Higher Today",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-ge-vernova-stock-bumped-002448626.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-18T00:24:48Z"
         }
       ]
     },
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 96.26,
-      "change_pct": -5.54
+      "price": 96.34,
+      "change_pct": -5.47
     },
     {
       "label": "Brent",
-      "price": 98.74,
-      "change_pct": -5.8
+      "price": 98.76,
+      "change_pct": -5.78
     },
     {
       "label": "NatGas",
       "price": 2.86,
-      "change_pct": -1.45
+      "change_pct": -1.38
     }
   ]
 }
