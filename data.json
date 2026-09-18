@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-18T10:12:17+00:00",
-  "as_of_local": "2026-09-18 10:12:17 UTC",
+  "as_of_utc": "2026-09-18T10:17:29+00:00",
+  "as_of_local": "2026-09-18 10:17:29 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -237,6 +237,12 @@
       "market_cap": 118778715134.85605,
       "headlines": [
         {
+          "title": "The Zacks Analyst Blog Highlights Applied Materials, Philip Morris, Valero Energy, Crimson Wine and Global Self Storage",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-applied-100800550.html",
+          "publisher": "Zacks",
+          "published": "2026-09-18T10:08:00Z"
+        },
+        {
           "title": "Top Analyst Reports for Applied Materials, Philip Morris & Valero Energy",
           "url": "https://finance.yahoo.com/markets/stocks/articles/top-analyst-reports-applied-materials-203200211.html",
           "publisher": "Zacks",
@@ -247,12 +253,6 @@
           "url": "https://finance.yahoo.com/energy/articles/equinor-eyes-lng-expansion-amid-164600948.html",
           "publisher": "Zacks",
           "published": "2026-09-17T16:46:00Z"
-        },
-        {
-          "title": "MoneyMasters Podcast 9-17-26- Energy Markets Decoded - $100 Oil  Where to Invest NOW",
-          "url": "https://finance.yahoo.com/energy/articles/moneymasters-podcast-9-17-26-163200447.html",
-          "publisher": "MoneyShow",
-          "published": "2026-09-17T16:32:00Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 96.34,
-      "change_pct": -5.47
+      "price": 96.26,
+      "change_pct": -5.54
     },
     {
       "label": "Brent",
-      "price": 98.92,
-      "change_pct": -5.63
+      "price": 98.74,
+      "change_pct": -5.8
     },
     {
       "label": "NatGas",
       "price": 2.86,
-      "change_pct": -1.48
+      "change_pct": -1.45
     }
   ]
 }
