@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-09-18T11:12:42+00:00",
-  "as_of_local": "2026-09-18 11:12:42 UTC",
+  "as_of_utc": "2026-09-18T11:17:47+00:00",
+  "as_of_local": "2026-09-18 11:17:47 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "TRGP"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -729,34 +731,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/iran-war-uncertainty-puts-3-160700323.html",
           "publisher": "Zacks",
           "published": "2026-09-16T16:07:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "TRGP",
-      "name": "Targa Resources",
-      "price": 285.07,
-      "previous_close": 284.77,
-      "change_pct": 0.11,
-      "market_cap": 61127852727.009705,
-      "headlines": [
-        {
-          "title": "Is Targa Resources Stock Outperforming the S&P 500?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/targa-resources-stock-outperforming-p-130106466.html",
-          "publisher": "Barchart",
-          "published": "2026-09-15T13:01:06Z"
-        },
-        {
-          "title": "Targa Resources (TRGP) vs. ExxonMobil (XOM): Which Stock Is the Better Energy Bet?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/targa-resources-trgp-vs-exxonmobil-200425525.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-08-28T20:04:25Z"
-        },
-        {
-          "title": "Targa Resources Extends Growth Runway With New Permian Projects, RBC Says",
-          "url": "https://finance.yahoo.com/energy/articles/targa-resources-extends-growth-runway-155238071.html",
-          "publisher": "MT Newswires",
-          "published": "2026-08-27T15:52:38Z"
         }
       ]
     },
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 95.52,
-      "change_pct": -6.27
+      "price": 95.92,
+      "change_pct": -5.88
     },
     {
       "label": "Brent",
-      "price": 98.44,
-      "change_pct": -6.09
+      "price": 98.7,
+      "change_pct": -5.84
     },
     {
       "label": "NatGas",
       "price": 2.85,
-      "change_pct": -1.65
+      "change_pct": -1.69
     }
   ]
 }
