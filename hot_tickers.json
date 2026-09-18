@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-18T23:09:47+00:00",
+  "as_of": "2026-09-18T23:24:47+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,10 +9,26 @@
  "hot_tickers": [
   {
    "rank": 1,
+   "ticker": "BE",
+   "company": "Bloom Energy Corporation",
+   "move_pct": -5.0,
+   "price": 266.71,
+   "volume": 73325656,
+   "volume_vs_avg": "~6x",
+   "heat_score": 46,
+   "direction": "down",
+   "why": "Moving down 5.0% on ~6x average volume with no fresh headline this cycle \u2014 attention without a story.",
+   "catalyst_type": "no_news_mover",
+   "source_url": "",
+   "published": "",
+   "sector": "Grid, Storage & Electrification"
+  },
+  {
+   "rank": 2,
    "ticker": "MPC",
    "company": "Marathon Petroleum Corporation",
    "move_pct": 0.86,
-   "price": 425.57,
+   "price": 425.6,
    "volume": 9850034,
    "volume_vs_avg": "~4x",
    "heat_score": 37,
@@ -24,14 +40,14 @@
    "sector": "Refining & Downstream"
   },
   {
-   "rank": 2,
+   "rank": 3,
    "ticker": "CCJ",
    "company": "Cameco Corporation",
-   "move_pct": -0.66,
-   "price": 92.19,
+   "move_pct": -0.84,
+   "price": 92.02,
    "volume": 8101775,
    "volume_vs_avg": "~3x",
-   "heat_score": 33,
+   "heat_score": 34,
    "direction": "down",
    "why": "Cameco (CCJ) Stock Declines While Market Improves: Some Information for Investors",
    "catalyst_type": "momentum_narrative",
