@@ -36,10 +36,10 @@ Hubbell Incorporated, together with its subsidiaries, manufactures and sells ele
 
 | Headline | Source | Date |
 |---|---|---|
+| Hubbell (HUBB) Stock Looks Fully Priced After Its 163% Run | Simply Wall St. | 2026-09-18 |
 | This Overlooked Grid-Technology Stock Could Be Your Ticket to Millionaire Status | Motley Fool | 2026-09-18 |
 | Could Eaton Stock Lose A Third Or Gain Half In A Year? | Trefis | 2026-09-17 |
 | Is Hubbell Stock Underperforming the Nasdaq? | Barchart | 2026-09-17 |
-| 1 Profitable Stock to Own for Decades and 2 We Brush Off | StockStory | 2026-09-17 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -36,10 +36,10 @@ Duke Energy Corporation, through its subsidiaries, operates as an energy company
 
 | Headline | Source | Date |
 |---|---|---|
+| How Investors May Respond To Duke Energy (DUK) Winning an Emergency Recovery Award for Storm Resilience | Simply Wall St. | 2026-09-18 |
 | Is PG&E Stock Cheap, Or Just Waiting On California? | Trefis | 2026-09-16 |
 | Here's Why Duke Energy (DUK) Fell More Than Broader Market | Zacks | 2026-09-15 |
 | Can Kentucky's Economic Development Drive PPL's Long-Term Growth? | Zacks | 2026-09-14 |
-| How Much Does a 61-Year-Old Need Invested to Collect $8,600 a Month for Life? | 24/7 Wall St. | 2026-09-12 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
