@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-18T20:35:16+00:00",
-  "as_of_local": "2026-09-18 20:35:16 UTC",
+  "as_of_utc": "2026-09-18T20:40:26+00:00",
+  "as_of_local": "2026-09-18 20:40:26 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -321,6 +321,12 @@
       "market_cap": 108984584735.42432,
       "headlines": [
         {
+          "title": "Top Research Reports for AMD, Linde & Amgen",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/top-research-reports-amd-linde-202800486.html",
+          "publisher": "Zacks",
+          "published": "2026-09-18T20:28:00Z"
+        },
+        {
           "title": "Phillips 66: Resilient Refining Meets Midstream Stability",
           "url": "https://finance.yahoo.com/energy/articles/phillips-66-resilient-refining-meets-162100419.html",
           "publisher": "Zacks",
@@ -331,12 +337,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/5-relative-price-strength-stocks-124100557.html",
           "publisher": "Zacks",
           "published": "2026-09-17T12:41:00Z"
-        },
-        {
-          "title": "Phillips 66 (PSX) Faces Bayway Labor Questions, Is The Stock Now Too Expensive?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/phillips-66-psx-faces-bayway-021146923.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-09-16T02:11:46Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 95.5,
-      "change_pct": -6.29
+      "price": 95.3,
+      "change_pct": -6.49
     },
     {
       "label": "Brent",
-      "price": 98.76,
-      "change_pct": -5.78
+      "price": 98.59,
+      "change_pct": -5.94
     },
     {
       "label": "NatGas",
       "price": 2.9,
-      "change_pct": 0.0
+      "change_pct": -0.07
     }
   ]
 }
