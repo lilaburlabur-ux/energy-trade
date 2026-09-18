@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-18T21:41:14+00:00",
+  "as_of": "2026-09-18T21:48:47+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,6 +9,22 @@
  "hot_tickers": [
   {
    "rank": 1,
+   "ticker": "ARRY",
+   "company": "Array Technologies, Inc.",
+   "move_pct": -5.66,
+   "price": 4.0,
+   "volume": 17272955,
+   "volume_vs_avg": "~3x",
+   "heat_score": 48,
+   "direction": "down",
+   "why": "LEN, ARRY Stocks Hit New Lows As Price Target Cuts Pile Up \u2014 What\u2019s Driving The Selloff?",
+   "catalyst_type": "analyst_action",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/len-arry-stocks-hit-lows-181614273.html",
+   "published": "2026-09-18T18:16:14Z",
+   "sector": "Renewables & Solar"
+  },
+  {
+   "rank": 2,
    "ticker": "CCJ",
    "company": "Cameco Corporation",
    "move_pct": -1.03,
