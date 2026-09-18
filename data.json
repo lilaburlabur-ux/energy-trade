@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-18T12:33:08+00:00",
-  "as_of_local": "2026-09-18 12:33:08 UTC",
+  "as_of_utc": "2026-09-18T12:37:48+00:00",
+  "as_of_local": "2026-09-18 12:37:48 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -69,6 +69,12 @@
       "market_cap": 273726660102.85178,
       "headlines": [
         {
+          "title": "Market Chatter: Saudi Aramco May Cut Crude Oil Supply to European Refiners After Pipeline Attacks",
+          "url": "https://finance.yahoo.com/energy/articles/market-chatter-saudi-aramco-may-123135207.html",
+          "publisher": "MT Newswires",
+          "published": "2026-09-18T12:31:35Z"
+        },
+        {
           "title": "Shell Warns 36 Million Lost LNG Tons Are Exhausting Market Buffers",
           "url": "https://finance.yahoo.com/energy/articles/shell-warns-36-million-lost-190931685.html",
           "publisher": "GuruFocus.com",
@@ -79,12 +85,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/t-mobile-us-tmus-sets-231400745.html",
           "publisher": "Simply Wall St.",
           "published": "2026-09-16T23:14:00Z"
-        },
-        {
-          "title": "Shell Falls 2.5% as 36 Million Missing Tons Reprice LNG Demand",
-          "url": "https://finance.yahoo.com/energy/articles/shell-falls-2-5-36-202627845.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-09-16T20:26:27Z"
         }
       ]
     },
@@ -125,6 +125,12 @@
       "market_cap": 202325511040.69208,
       "headlines": [
         {
+          "title": "Market Chatter: Saudi Aramco May Cut Crude Oil Supply to European Refiners After Pipeline Attacks",
+          "url": "https://finance.yahoo.com/energy/articles/market-chatter-saudi-aramco-may-123135207.html",
+          "publisher": "MT Newswires",
+          "published": "2026-09-18T12:31:35Z"
+        },
+        {
           "title": "Daimler Truck brings NextGenH2 to IAA as hydrogen pact forms",
           "url": "https://finance.yahoo.com/energy/articles/daimler-truck-brings-nextgenh2-iaa-034737617.html",
           "publisher": "FreightWaves",
@@ -135,12 +141,6 @@
           "url": "https://finance.yahoo.com/video/france-totalenergies-cut-price-fuel-160054752.html",
           "publisher": "Euronews",
           "published": "2026-09-16T16:00:54Z"
-        },
-        {
-          "title": "TotalEnergies pumps up controversy in France with cut-price gas",
-          "url": "https://finance.yahoo.com/energy/articles/totalenergies-pumps-controversy-france-cut-132800201.html",
-          "publisher": "AFP",
-          "published": "2026-09-16T13:28:00Z"
         }
       ]
     },
@@ -293,6 +293,12 @@
       "market_cap": 116972042005.36743,
       "headlines": [
         {
+          "title": "Market Chatter: Saudi Aramco May Cut Crude Oil Supply to European Refiners After Pipeline Attacks",
+          "url": "https://finance.yahoo.com/energy/articles/market-chatter-saudi-aramco-may-123135207.html",
+          "publisher": "MT Newswires",
+          "published": "2026-09-18T12:31:35Z"
+        },
+        {
           "title": "European Equities Traded in the US as American Depositary Receipts Rise Sharply in Thursday Trading",
           "url": "https://finance.yahoo.com/markets/stocks/articles/european-equities-traded-us-american-150918927.html",
           "publisher": "MT Newswires",
@@ -303,12 +309,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/revolut-eyes-stock-market-listings-150042295.html",
           "publisher": "The Telegraph",
           "published": "2026-09-17T15:00:42Z"
-        },
-        {
-          "title": "VF Corporation Cut Its Dividend 82%. Five Historical Cases Show What Could Happen Next",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/vf-corporation-cut-dividend-82-184652448.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-09-16T18:46:52Z"
         }
       ]
     },
@@ -349,6 +349,12 @@
       "market_cap": 105118161976.40508,
       "headlines": [
         {
+          "title": "Market Chatter: Saudi Aramco May Cut Crude Oil Supply to European Refiners After Pipeline Attacks",
+          "url": "https://finance.yahoo.com/energy/articles/market-chatter-saudi-aramco-may-123135207.html",
+          "publisher": "MT Newswires",
+          "published": "2026-09-18T12:31:35Z"
+        },
+        {
           "title": "Equinor Eyes LNG Expansion Amid Global Supply Disruptions",
           "url": "https://finance.yahoo.com/energy/articles/equinor-eyes-lng-expansion-amid-164600948.html",
           "publisher": "Zacks",
@@ -359,12 +365,6 @@
           "url": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-adrs-150836727.html",
           "publisher": "MT Newswires",
           "published": "2026-09-16T15:08:36Z"
-        },
-        {
-          "title": "Running on Empty: 3 Energy Plays for Europe's Deep Freeze",
-          "url": "https://finance.yahoo.com/energy/articles/running-empty-3-energy-plays-184000131.html",
-          "publisher": "MarketBeat",
-          "published": "2026-09-15T18:40:00Z"
         }
       ]
     },
@@ -2115,8 +2115,8 @@
     },
     {
       "label": "WTI",
-      "price": 96.56,
-      "change_pct": -5.25
+      "price": 96.69,
+      "change_pct": -5.12
     },
     {
       "label": "Brent",
@@ -2126,7 +2126,7 @@
     {
       "label": "NatGas",
       "price": 2.91,
-      "change_pct": 0.41
+      "change_pct": 0.31
     }
   ]
 }
