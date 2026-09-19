@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-19T00:21:29+00:00",
-  "as_of_local": "2026-09-19 00:21:29 UTC",
+  "as_of_utc": "2026-09-19T00:36:39+00:00",
+  "as_of_local": "2026-09-19 00:36:39 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -150,7 +150,7 @@
       "price": 81.28,
       "previous_close": 80.37,
       "change_pct": 1.13,
-      "market_cap": 167858666478.23,
+      "market_cap": 167828663158.26,
       "headlines": [
         {
           "title": "JPMorgan Sees Investment Banking and Trading Powering Q3 Growth",
@@ -178,7 +178,7 @@
       "price": 409.46,
       "previous_close": 397.8,
       "change_pct": 2.93,
-      "market_cap": 164980668000.0,
+      "market_cap": 164938191000.0,
       "headlines": [
         {
           "title": "Eaton (ETN) Launches Workbench 360 As Investors Ask If The Valuation Is Already Priced In",
@@ -234,7 +234,7 @@
       "price": 421.96,
       "previous_close": 413.92,
       "change_pct": 1.94,
-      "market_cap": 119319633551.06999,
+      "market_cap": 124040956845.15,
       "headlines": [
         {
           "title": "Marathon Petroleum (MPC) Is Up 7.3% After Analyst Upgrades And Earnings Beat - Has The Bull Case Changed?",
@@ -467,16 +467,16 @@
           "published": "2026-09-18T23:11:43Z"
         },
         {
+          "title": "Is CenterPoint Energy Underperforming the Nasdaq?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/centerpoint-energy-underperforming-nasdaq-182622146.html",
+          "publisher": "Barchart",
+          "published": "2026-09-18T18:26:22Z"
+        },
+        {
           "title": "Is PG&E Stock Cheap, Or Just Waiting On California?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/pg-e-stock-cheap-just-021833043.html",
           "publisher": "Trefis",
           "published": "2026-09-16T02:18:33Z"
-        },
-        {
-          "title": "Here's Why Duke Energy (DUK) Fell More Than Broader Market",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/heres-why-duke-energy-duk-220003868.html",
-          "publisher": "Zacks",
-          "published": "2026-09-15T22:00:03Z"
         }
       ]
     },
@@ -621,6 +621,34 @@
       ]
     },
     {
+      "symbol": "EOG",
+      "name": "EOG Resources",
+      "price": 145.47,
+      "previous_close": 144.93,
+      "change_pct": 0.37,
+      "market_cap": 76821012881.9,
+      "headlines": [
+        {
+          "title": "Oil Producers Slide as Crude Retreats: EOG Resources Drops 6%, ConocoPhillips and Occidental Petroleum Fall 5%",
+          "url": "https://finance.yahoo.com/energy/articles/oil-producers-slide-crude-retreats-160306957.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-09-16T16:03:06Z"
+        },
+        {
+          "title": "The Zacks Analyst Blog Highlights  JPMorgan Chase, EOG Resources and Bloom Energy",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-jpmorgan-075800004.html",
+          "publisher": "Zacks",
+          "published": "2026-09-10T07:58:00Z"
+        },
+        {
+          "title": "Stocks to Consider Before the Fed's September Decision: JPM, EOG, BE",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-consider-feds-september-decision-190000988.html",
+          "publisher": "Zacks",
+          "published": "2026-09-09T19:00:00Z"
+        }
+      ]
+    },
+    {
       "symbol": "SLB",
       "name": "SLB (Schlumberger)",
       "price": 52.08,
@@ -645,34 +673,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/trending-stock-slb-limited-slb-130003653.html",
           "publisher": "Zacks",
           "published": "2026-09-17T13:00:03Z"
-        }
-      ]
-    },
-    {
-      "symbol": "EOG",
-      "name": "EOG Resources",
-      "price": 145.47,
-      "previous_close": 144.93,
-      "change_pct": 0.37,
-      "market_cap": 75652843054.48,
-      "headlines": [
-        {
-          "title": "Oil Producers Slide as Crude Retreats: EOG Resources Drops 6%, ConocoPhillips and Occidental Petroleum Fall 5%",
-          "url": "https://finance.yahoo.com/energy/articles/oil-producers-slide-crude-retreats-160306957.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-09-16T16:03:06Z"
-        },
-        {
-          "title": "The Zacks Analyst Blog Highlights  JPMorgan Chase, EOG Resources and Bloom Energy",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-jpmorgan-075800004.html",
-          "publisher": "Zacks",
-          "published": "2026-09-10T07:58:00Z"
-        },
-        {
-          "title": "Stocks to Consider Before the Fed's September Decision: JPM, EOG, BE",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-consider-feds-september-decision-190000988.html",
-          "publisher": "Zacks",
-          "published": "2026-09-09T19:00:00Z"
         }
       ]
     },
@@ -1074,7 +1074,7 @@
       "price": 70.98,
       "previous_close": 70.39,
       "change_pct": 0.84,
-      "market_cap": 34774765493.1,
+      "market_cap": 34767884217.54,
       "headlines": [
         {
           "title": "Public Service Enterprise Group CEO Sells 2,083 Shares",
@@ -1245,6 +1245,12 @@
       "market_cap": 21059779656.48,
       "headlines": [
         {
+          "title": "Is First Solar Stock Underperforming the Nasdaq?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/first-solar-stock-underperforming-nasdaq-182115801.html",
+          "publisher": "Barchart",
+          "published": "2026-09-18T18:21:15Z"
+        },
+        {
           "title": "Enphase Energy Drops 5% as Solar Selling Resumes; First Solar and Sunrun Fall 4%",
           "url": "https://finance.yahoo.com/energy/articles/enphase-energy-drops-5-solar-170151130.html",
           "publisher": "24/7 Wall St.",
@@ -1255,12 +1261,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/first-solar-cto-markus-gloeckler-165001923.html",
           "publisher": "Motley Fool",
           "published": "2026-09-18T16:50:01Z"
-        },
-        {
-          "title": "First Solar (FSLR) Slides On Mixed Expectations, Is It Still 26% Below Fair Value?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/first-solar-fslr-slides-mixed-131514237.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-09-18T13:15:14Z"
         }
       ]
     },
@@ -1441,6 +1441,12 @@
       "market_cap": 12209674474.4,
       "headlines": [
         {
+          "title": "Is First Solar Stock Underperforming the Nasdaq?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/first-solar-stock-underperforming-nasdaq-182115801.html",
+          "publisher": "Barchart",
+          "published": "2026-09-18T18:21:15Z"
+        },
+        {
           "title": "Nextpower (NXT): Buy, Sell, or Hold Post Q2 Earnings?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/nextpower-nxt-buy-sell-hold-154052819.html",
           "publisher": "StockStory",
@@ -1451,12 +1457,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/nextpower-nxt-dips-more-broader-214505951.html",
           "publisher": "Zacks",
           "published": "2026-09-15T21:45:05Z"
-        },
-        {
-          "title": "Nextpower (NXT) Falls More Steeply Than Broader Market: What Investors Need to Know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nextpower-nxt-falls-more-steeply-214502137.html",
-          "publisher": "Zacks",
-          "published": "2026-09-09T21:45:02Z"
         }
       ]
     },
@@ -1494,7 +1494,7 @@
       "price": 29.66,
       "previous_close": 29.09,
       "change_pct": 1.96,
-      "market_cap": 8952329803.58,
+      "market_cap": 9046722035.949999,
       "headlines": [
         {
           "title": "Ranking the Safest Dividend Stocks in the Energy Sector Right Now",
@@ -1606,7 +1606,7 @@
       "price": 82.05,
       "previous_close": 82.3,
       "change_pct": -0.3,
-      "market_cap": 5866137891.12,
+      "market_cap": 5880356889.29,
       "headlines": [
         {
           "title": "Q2 Earnings Highs And Lows: Weatherford (NASDAQ:WFRD) Vs The Rest Of The Mixed or Offshore Upstream E&P Stocks",
@@ -1662,7 +1662,7 @@
       "price": 36.02,
       "previous_close": 35.56,
       "change_pct": 1.29,
-      "market_cap": 4577490606.72,
+      "market_cap": 4565490340.8,
       "headlines": [
         {
           "title": "Enphase Energy Drops 5% as Solar Selling Resumes; First Solar and Sunrun Fall 4%",
@@ -1713,34 +1713,6 @@
       ]
     },
     {
-      "symbol": "UUUU",
-      "name": "Energy Fuels",
-      "price": 11.98,
-      "previous_close": 11.73,
-      "change_pct": 2.13,
-      "market_cap": 3097850792.3999996,
-      "headlines": [
-        {
-          "title": "Will USAR's AI-Driven Approach Enhance Rare-Earth Processing?",
-          "url": "https://finance.yahoo.com/technology/ai/articles/usars-ai-driven-approach-enhance-135500779.html",
-          "publisher": "Zacks",
-          "published": "2026-09-18T13:55:00Z"
-        },
-        {
-          "title": "MP's Operating Losses Continue in Q2: Can It Revert to Profitability?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/mps-operating-losses-continue-q2-151900509.html",
-          "publisher": "Zacks",
-          "published": "2026-09-17T15:19:00Z"
-        },
-        {
-          "title": "UEC Gears Up to Report Q4 Earnings: What's in Store for the Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/uec-gears-report-q4-earnings-163200407.html",
-          "publisher": "Zacks",
-          "published": "2026-09-16T16:32:00Z"
-        }
-      ]
-    },
-    {
       "symbol": "LEU",
       "name": "Centrus Energy",
       "price": 149.85,
@@ -1765,6 +1737,34 @@
           "url": "https://finance.yahoo.com/energy/articles/why-did-nuclear-stocks-oklo-012102981.html",
           "publisher": "Stocktwits",
           "published": "2026-09-18T01:21:02Z"
+        }
+      ]
+    },
+    {
+      "symbol": "UUUU",
+      "name": "Energy Fuels",
+      "price": 11.98,
+      "previous_close": 11.73,
+      "change_pct": 2.13,
+      "market_cap": 2924590500.0,
+      "headlines": [
+        {
+          "title": "Will USAR's AI-Driven Approach Enhance Rare-Earth Processing?",
+          "url": "https://finance.yahoo.com/technology/ai/articles/usars-ai-driven-approach-enhance-135500779.html",
+          "publisher": "Zacks",
+          "published": "2026-09-18T13:55:00Z"
+        },
+        {
+          "title": "MP's Operating Losses Continue in Q2: Can It Revert to Profitability?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/mps-operating-losses-continue-q2-151900509.html",
+          "publisher": "Zacks",
+          "published": "2026-09-17T15:19:00Z"
+        },
+        {
+          "title": "UEC Gears Up to Report Q4 Earnings: What's in Store for the Stock?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/uec-gears-report-q4-earnings-163200407.html",
+          "publisher": "Zacks",
+          "published": "2026-09-16T16:32:00Z"
         }
       ]
     },
