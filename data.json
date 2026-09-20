@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-09-20T08:31:27+00:00",
-  "as_of_local": "2026-09-20 08:31:27 UTC",
+  "as_of_utc": "2026-09-20T08:46:32+00:00",
+  "as_of_local": "2026-09-20 08:46:32 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "ETR"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -99,6 +97,12 @@
       "market_cap": 250441460773.32928,
       "headlines": [
         {
+          "title": "How GE\u2019s Vineyard Wind Truce and Engine Supply Deal Will Impact General Electric (GE) Investors",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ge-vineyard-wind-truce-engine-080920257.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-09-20T08:09:20Z"
+        },
+        {
           "title": "Jim Cramer Revealed GE Vernova Inc. (NYSE:GEV)\u2019s Saying There\u2019s An Order Acceleration",
           "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-revealed-ge-vernova-232155534.html",
           "publisher": "Insider Monkey",
@@ -109,12 +113,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-gev-surpasses-market-215005032.html",
           "publisher": "Zacks",
           "published": "2026-09-18T21:50:05Z"
-        },
-        {
-          "title": "GE Vernova vs. NextEra Energy: Which Industrials Stock Is a Better Buy in 2026?",
-          "url": "https://finance.yahoo.com/energy/articles/ge-vernova-vs-nextera-energy-140501925.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-18T14:05:01Z"
         }
       ]
     },
@@ -983,6 +981,34 @@
           "url": "https://www.investors.com/news/sunoco-oil-prices-stocks-iran-war-hormuz/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
           "published": "2026-09-15T18:19:37Z"
+        }
+      ]
+    },
+    {
+      "symbol": "ETR",
+      "name": "Entergy",
+      "price": 102.01,
+      "previous_close": 103.31,
+      "change_pct": -1.26,
+      "market_cap": 48738081959.462814,
+      "headlines": [
+        {
+          "title": "How Is Entergy's Stock Performance Compared to Other Utility Stocks?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/entergys-stock-performance-compared-other-152737113.html",
+          "publisher": "Barchart",
+          "published": "2026-09-16T15:27:37Z"
+        },
+        {
+          "title": "Entergy Says Google\u2019s Arkansas Solar Payments Could Total $2.1 Billion. Is Power Becoming Alphabet\u2019s New Bottleneck?",
+          "url": "https://finance.yahoo.com/energy/articles/entergy-says-google-arkansas-solar-230127052.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-09-04T23:01:27Z"
+        },
+        {
+          "title": "Google\u2019s Arkansas Data Center Reveals the Huge Power Bill Behind AI. Entergy Stands to Benefit",
+          "url": "https://finance.yahoo.com/technology/ai/articles/google-arkansas-data-center-reveals-200631272.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-09-03T20:06:31Z"
         }
       ]
     },
