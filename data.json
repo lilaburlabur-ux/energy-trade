@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-09-20T20:42:33+00:00",
-  "as_of_local": "2026-09-20 20:42:33 UTC",
+  "as_of_utc": "2026-09-20T20:56:21+00:00",
+  "as_of_local": "2026-09-20 20:56:21 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "OVV"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1163,6 +1161,12 @@
       "market_cap": 28026505037.37758,
       "headlines": [
         {
+          "title": "Halliburton (HAL) Wins Integrated Cyprus Contract. Can Broader Services Improve Returns?",
+          "url": "https://finance.yahoo.com/energy/articles/halliburton-hal-wins-integrated-cyprus-203555402.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-09-20T20:35:55Z"
+        },
+        {
           "title": "Halliburton Stock: Is HAL Underperforming the Energy Sector?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/halliburton-stock-hal-underperforming-energy-144737958.html",
           "publisher": "Barchart",
@@ -1173,12 +1177,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/halliburton-hal-dips-more-broader-221503382.html",
           "publisher": "Zacks",
           "published": "2026-09-16T22:15:03Z"
-        },
-        {
-          "title": "Halliburton Wins Eni Contract for Cyprus Deepwater Gas Project",
-          "url": "https://finance.yahoo.com/energy/articles/halliburton-wins-eni-contract-cyprus-150100030.html",
-          "publisher": "Zacks",
-          "published": "2026-09-16T15:20:00Z"
         }
       ]
     },
@@ -1319,6 +1317,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/permian-resources-corps-dividend-analysis-110522136.html",
           "publisher": "GuruFocus.com",
           "published": "2026-09-16T11:05:22Z"
+        }
+      ]
+    },
+    {
+      "symbol": "OVV",
+      "name": "Ovintiv",
+      "price": 62.37,
+      "previous_close": 62.99,
+      "change_pct": -0.98,
+      "market_cap": 17251541704.559326,
+      "headlines": [
+        {
+          "title": "3 U.S. Energy Stocks With Oil Linked Cash Flow Potential",
+          "url": "https://finance.yahoo.com/energy/articles/3-u-energy-stocks-oil-051704386.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-09-17T05:17:04Z"
+        },
+        {
+          "title": "Ovintiv Inc's Dividend Analysis",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ovintiv-incs-dividend-analysis-110925880.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-09-15T11:09:25Z"
+        },
+        {
+          "title": "Ovintiv Expands Drilling Inventory With $460 Million Deal Spree",
+          "url": "https://finance.yahoo.com/energy/articles/ovintiv-expands-drilling-inventory-460-150300542.html",
+          "publisher": "Zacks",
+          "published": "2026-08-27T15:03:00Z"
         }
       ]
     },
