@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-09-20T18:22:00+00:00",
-  "as_of_local": "2026-09-20 18:22:00 UTC",
+  "as_of_utc": "2026-09-20T18:37:11+00:00",
+  "as_of_local": "2026-09-20 18:37:11 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "BKR"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -295,6 +293,12 @@
       "market_cap": 114808763914.63257,
       "headlines": [
         {
+          "title": "Why Is BP (LSE:BP.) Reshaping Its Business And Investment Approach Now?",
+          "url": "https://finance.yahoo.com/energy/articles/why-bp-lse-bp-reshaping-180828419.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-09-20T18:08:28Z"
+        },
+        {
           "title": "Sector Update: Energy Stocks Fall Late Afternoon",
           "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-fall-afternoon-200621416.html",
           "publisher": "MT Newswires",
@@ -305,12 +309,6 @@
           "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-lower-afternoon-175755773.html",
           "publisher": "MT Newswires",
           "published": "2026-09-18T17:57:55Z"
-        },
-        {
-          "title": "Sector Update: Energy Stocks Fall Pre-Bell Friday",
-          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-fall-pre-132853353.html",
-          "publisher": "MT Newswires",
-          "published": "2026-09-18T13:28:53Z"
         }
       ]
     },
@@ -843,6 +841,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/xom-keeps-climbing-climb-232922566.html",
           "publisher": "Trefis",
           "published": "2026-09-16T23:29:22Z"
+        }
+      ]
+    },
+    {
+      "symbol": "BKR",
+      "name": "Baker Hughes",
+      "price": 57.25,
+      "previous_close": 56.57,
+      "change_pct": 1.2,
+      "market_cap": 56830590564.75,
+      "headlines": [
+        {
+          "title": "Baker Hughes (BKR) Raises 2026 Guidance. But Investors Aren\u2019t Impressed",
+          "url": "https://finance.yahoo.com/energy/articles/baker-hughes-bkr-raises-2026-150954006.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-09-20T15:09:54Z"
+        },
+        {
+          "title": "US rig count up four as prices tick up",
+          "url": "https://finance.yahoo.com/energy/articles/us-rig-count-four-prices-000100800.html",
+          "publisher": "Odessa American, Texas",
+          "published": "2026-09-19T00:01:00Z"
+        },
+        {
+          "title": "U.S. Oil, Gas Rig Count Creeps Up With Strong Prices",
+          "url": "https://finance.yahoo.com/energy/articles/u-oil-gas-rig-count-171856841.html",
+          "publisher": "Oilprice.com",
+          "published": "2026-09-18T17:18:56Z"
         }
       ]
     },
