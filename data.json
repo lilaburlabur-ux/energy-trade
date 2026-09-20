@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-09-20T16:18:36+00:00",
-  "as_of_local": "2026-09-20 16:18:36 UTC",
+  "as_of_utc": "2026-09-20T16:23:46+00:00",
+  "as_of_local": "2026-09-20 16:23:46 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "VST"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1009,34 +1011,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/google-arkansas-data-center-reveals-200631272.html",
           "publisher": "Insider Monkey",
           "published": "2026-09-03T20:06:31Z"
-        }
-      ]
-    },
-    {
-      "symbol": "VST",
-      "name": "Vistra",
-      "price": 140.67,
-      "previous_close": 143.56,
-      "change_pct": -2.01,
-      "market_cap": 47213802266.0836,
-      "headlines": [
-        {
-          "title": "3 Stocks to Buy Before Wall Street Catches On Before September Ends",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-stocks-buy-wall-street-100133170.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-09-19T10:01:33Z"
-        },
-        {
-          "title": "The Anthropic IPO Could Be Bigger Than SpaceX. Here's What That Means for Vistra, Bloom Energy, and Oklo.",
-          "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-ipo-could-bigger-spacex-102000686.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-18T10:20:00Z"
-        },
-        {
-          "title": "Vistra (VST) Stock Fair Value Edges Lower As Analysts Weigh AI Demand And Risks",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-vst-stock-fair-value-071633715.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-09-18T07:16:33Z"
         }
       ]
     },
