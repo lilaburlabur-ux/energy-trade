@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-09-20T07:41:24+00:00",
-  "as_of_local": "2026-09-20 07:41:24 UTC",
+  "as_of_utc": "2026-09-20T07:56:40+00:00",
+  "as_of_local": "2026-09-20 07:56:40 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "SEDG"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1765,34 +1767,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/1-high-flying-stock-worth-121640156.html",
           "publisher": "StockStory",
           "published": "2026-09-18T12:16:40Z"
-        }
-      ]
-    },
-    {
-      "symbol": "SEDG",
-      "name": "SolarEdge",
-      "price": 34.68,
-      "previous_close": 36.0,
-      "change_pct": -3.67,
-      "market_cap": 2133712959.4161682,
-      "headlines": [
-        {
-          "title": "SolarEdge Technologies (SEDG) Stock Dips While Market Gains: Key Facts",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/solaredge-technologies-sedg-stock-dips-221503239.html",
-          "publisher": "Zacks",
-          "published": "2026-09-18T22:15:03Z"
-        },
-        {
-          "title": "3 Industrials Stocks We\u2019re Skeptical Of",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-industrials-stocks-skeptical-080920253.html",
-          "publisher": "StockStory",
-          "published": "2026-09-18T08:09:20Z"
-        },
-        {
-          "title": "Sunrun and First Solar Rise 6% as Solar Selloff Unwinds; SolarEdge Climbs 4%",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/sunrun-first-solar-rise-6-175600036.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-09-17T17:56:00Z"
         }
       ]
     },
