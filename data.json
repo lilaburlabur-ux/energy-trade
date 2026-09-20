@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-09-20T17:11:41+00:00",
-  "as_of_local": "2026-09-20 17:11:41 UTC",
+  "as_of_utc": "2026-09-20T17:16:41+00:00",
+  "as_of_local": "2026-09-20 17:16:41 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "D"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -871,6 +869,34 @@
           "url": "https://finance.yahoo.com/energy/articles/u-oil-gas-rig-count-171856841.html",
           "publisher": "Oilprice.com",
           "published": "2026-09-18T17:18:56Z"
+        }
+      ]
+    },
+    {
+      "symbol": "D",
+      "name": "Dominion Energy",
+      "price": 63.58,
+      "previous_close": 64.29,
+      "change_pct": -1.1,
+      "market_cap": 55920261447.88011,
+      "headlines": [
+        {
+          "title": "NextEra (NEE) and Dominion (D) Unveil a Bigger Pitch for Virginia",
+          "url": "https://finance.yahoo.com/energy/articles/nextera-nee-dominion-d-unveil-153356972.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-09-20T15:33:56Z"
+        },
+        {
+          "title": "Jim Cramer Suggests Against Holding Dominion (D) Through the NextEra (NEE) Share Conversion",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-suggests-against-holding-192955385.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-09-19T19:29:55Z"
+        },
+        {
+          "title": "How AI concerns moved to the center of the midterm debate",
+          "url": "https://finance.yahoo.com/technology/ai/articles/ai-concerns-moved-center-midterm-085642768.html",
+          "publisher": "Investing.com",
+          "published": "2026-09-19T08:56:42Z"
         }
       ]
     },
