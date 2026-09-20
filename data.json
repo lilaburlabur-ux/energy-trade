@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-20T13:17:21+00:00",
-  "as_of_local": "2026-09-20 13:17:21 UTC",
+  "as_of_utc": "2026-09-20T13:32:24+00:00",
+  "as_of_local": "2026-09-20 13:32:24 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -69,12 +69,6 @@
       "market_cap": 269986214504.63214,
       "headlines": [
         {
-          "title": "A sudden end to the Iran war would strike a blow against oil prices and energy stocks. Yet company insiders are buying.",
-          "url": "https://finance.yahoo.com/energy/articles/sudden-end-iran-war-strike-120000404.html",
-          "publisher": "MarketWatch",
-          "published": "2026-09-19T12:00:00Z"
-        },
-        {
           "title": "Correction: Market Chatter: Saudi Aramco May Cut Crude Oil Supply to European Refiners After Pipeline Attacks",
           "url": "https://finance.yahoo.com/energy/articles/correction-market-chatter-saudi-aramco-132727566.html",
           "publisher": "MT Newswires",
@@ -85,6 +79,12 @@
           "url": "https://finance.yahoo.com/energy/articles/market-chatter-saudi-aramco-may-124046318.html",
           "publisher": "MT Newswires",
           "published": "2026-09-18T12:40:46Z"
+        },
+        {
+          "title": "Market Chatter: Saudi Aramco May Cut Crude Oil Supply to European Refiners After Pipeline Attacks",
+          "url": "https://finance.yahoo.com/energy/articles/market-chatter-saudi-aramco-may-123135207.html",
+          "publisher": "MT Newswires",
+          "published": "2026-09-18T12:31:35Z"
         }
       ]
     },
@@ -327,16 +327,16 @@
           "published": "2026-09-20T10:11:23Z"
         },
         {
+          "title": "Priced for a Pullback or More Gains? These 3 Stocks Are Testing the Limits",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/priced-pullback-more-gains-3-132500180.html",
+          "publisher": "MarketBeat",
+          "published": "2026-09-19T13:25:00Z"
+        },
+        {
           "title": "Top Research Reports for AMD, Linde & Amgen",
           "url": "https://finance.yahoo.com/markets/stocks/articles/top-research-reports-amd-linde-202800486.html",
           "publisher": "Zacks",
           "published": "2026-09-18T20:28:00Z"
-        },
-        {
-          "title": "Phillips 66: Resilient Refining Meets Midstream Stability",
-          "url": "https://finance.yahoo.com/energy/articles/phillips-66-resilient-refining-meets-162100419.html",
-          "publisher": "Zacks",
-          "published": "2026-09-17T16:21:00Z"
         }
       ]
     },
@@ -1159,7 +1159,26 @@
       "previous_close": 34.03,
       "change_pct": -1.15,
       "market_cap": 28026505037.37758,
-      "headlines": []
+      "headlines": [
+        {
+          "title": "Halliburton Stock: Is HAL Underperforming the Energy Sector?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/halliburton-stock-hal-underperforming-energy-144737958.html",
+          "publisher": "Barchart",
+          "published": "2026-09-18T14:47:37Z"
+        },
+        {
+          "title": "Halliburton (HAL) Dips More Than Broader Market: What You Should Know",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/halliburton-hal-dips-more-broader-221503382.html",
+          "publisher": "Zacks",
+          "published": "2026-09-16T22:15:03Z"
+        },
+        {
+          "title": "Halliburton Wins Eni Contract for Cyprus Deepwater Gas Project",
+          "url": "https://finance.yahoo.com/energy/articles/halliburton-wins-eni-contract-cyprus-150100030.html",
+          "publisher": "Zacks",
+          "published": "2026-09-16T15:20:00Z"
+        }
+      ]
     },
     {
       "symbol": "HUBB",
@@ -1254,12 +1273,6 @@
       "market_cap": 20605148370.376625,
       "headlines": [
         {
-          "title": "A sudden end to the Iran war would strike a blow against oil prices and energy stocks. Yet company insiders are buying.",
-          "url": "https://finance.yahoo.com/energy/articles/sudden-end-iran-war-strike-120000404.html",
-          "publisher": "MarketWatch",
-          "published": "2026-09-19T12:00:00Z"
-        },
-        {
           "title": "National Fuel Evaluates Split to Strengthen Regulated Business Focus",
           "url": "https://finance.yahoo.com/markets/stocks/articles/national-fuel-evaluates-split-strengthen-171100003.html",
           "publisher": "Zacks",
@@ -1270,6 +1283,12 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/hf-sinclair-dino-stock-fair-091438479.html",
           "publisher": "Simply Wall St.",
           "published": "2026-09-18T09:14:38Z"
+        },
+        {
+          "title": "Phillips 66: Resilient Refining Meets Midstream Stability",
+          "url": "https://finance.yahoo.com/energy/articles/phillips-66-resilient-refining-meets-162100419.html",
+          "publisher": "Zacks",
+          "published": "2026-09-17T16:21:00Z"
         }
       ]
     },
