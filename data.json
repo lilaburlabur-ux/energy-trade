@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-21T01:01:47+00:00",
-  "as_of_local": "2026-09-21 01:01:47 UTC",
+  "as_of_utc": "2026-09-21T01:06:34+00:00",
+  "as_of_local": "2026-09-21 01:06:34 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -489,6 +489,12 @@
       "market_cap": 90245634883.86269,
       "headlines": [
         {
+          "title": "CEG Shares Climb Overnight: This Analyst Sees Nearly 45% Upside From Here",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ceg-shares-climb-overnight-analyst-005222187.html",
+          "publisher": "Stocktwits",
+          "published": "2026-09-21T00:52:22Z"
+        },
+        {
           "title": "I Own Constellation for the Nuclear Fleet, Not the AI Headlines. Here's Why That Matters Now.",
           "url": "https://finance.yahoo.com/energy/articles/own-constellation-nuclear-fleet-not-185000512.html",
           "publisher": "Motley Fool",
@@ -499,12 +505,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/3-stocks-buy-wall-street-100133170.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-09-19T10:01:33Z"
-        },
-        {
-          "title": "S&P 500 Posts Slight Weekly Decline as Utilities Weigh",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-posts-slight-weekly-204640571.html",
-          "publisher": "MT Newswires",
-          "published": "2026-09-18T20:46:40Z"
         }
       ]
     },
@@ -571,7 +571,26 @@
       "previous_close": 69.49,
       "change_pct": -0.12,
       "market_cap": 81955527892.50803,
-      "headlines": []
+      "headlines": [
+        {
+          "title": "Should You Buy Suncor Energy Stock After Its 63% Surge in a Year?",
+          "url": "https://finance.yahoo.com/energy/articles/buy-suncor-energy-stock-63-124600871.html",
+          "publisher": "Zacks",
+          "published": "2026-09-14T12:46:00Z"
+        },
+        {
+          "title": "Imperial Oil Stock Rises 49% YTD: Time to Hold or Lock in Profits?",
+          "url": "https://finance.yahoo.com/energy/articles/imperial-oil-stock-rises-49-150300019.html",
+          "publisher": "Zacks",
+          "published": "2026-09-08T15:03:00Z"
+        },
+        {
+          "title": "Which TSX stocks investors will be watching next week?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tsx-stocks-investors-watching-next-115208497.html",
+          "publisher": "Investing.com",
+          "published": "2026-09-06T11:52:08Z"
+        }
+      ]
     },
     {
       "symbol": "BE",
@@ -2096,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 94.62,
-      "change_pct": -5.66
+      "price": 94.64,
+      "change_pct": -5.64
     },
     {
       "label": "Brent",
-      "price": 98.18,
-      "change_pct": -5.48
+      "price": 98.07,
+      "change_pct": -5.58
     },
     {
       "label": "NatGas",
       "price": 2.88,
-      "change_pct": -1.2
+      "change_pct": -1.17
     }
   ]
 }
