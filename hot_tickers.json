@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-21T19:11:04+00:00",
+  "as_of": "2026-09-21T19:13:47+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,9 +11,9 @@
    "rank": 1,
    "ticker": "OKLO",
    "company": "Oklo Inc.",
-   "move_pct": 6.12,
-   "price": 40.33,
-   "volume": 7689825,
+   "move_pct": 6.24,
+   "price": 40.37,
+   "volume": 7719709,
    "volume_vs_avg": "~0.7x",
    "heat_score": 40,
    "direction": "up",
@@ -21,6 +21,22 @@
    "catalyst_type": "momentum_narrative",
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-vs-oklo-industrials-163208164.html",
    "published": "2026-09-21T16:32:08Z",
+   "sector": "Nuclear & Uranium"
+  },
+  {
+   "rank": 2,
+   "ticker": "NXE",
+   "company": "Nexgen Energy Ltd.",
+   "move_pct": 5.08,
+   "price": 9.82,
+   "volume": 3296268,
+   "volume_vs_avg": "~0.7x",
+   "heat_score": 36,
+   "direction": "up",
+   "why": "Uranium Stocks Are Rallying. Why NXE Got Initiated At Overweight.",
+   "catalyst_type": "analyst_action",
+   "source_url": "https://www.investors.com/news/nuclear-smr-stocks-rally-nexgen-energy-nxe-initiated-overweight/?src=A00220&yptr=yahoo",
+   "published": "2026-09-21T17:44:11Z",
    "sector": "Nuclear & Uranium"
   }
  ]
