@@ -36,8 +36,8 @@ Chevron Corporation, through its subsidiaries, engages in the integrated energy 
 
 | Headline | Source | Date |
 |---|---|---|
+| Stock Market Today: Dow Up, Nasdaq Roars To Record As Micron Does This; AMD Hits New High (Live Coverage) | Investor's Business Daily | 2026-09-21 |
 | XLE Is 91% Oil and Gas. Investors Buying “Energy” May Own Less Than They Think | 24/7 Wall St. | 2026-09-21 |
-| Stock Market Today: Nasdaq Roars As Micron Tests Entry; AMD In Buy Zone As It Eyes New High (Live Coverage) | Investor's Business Daily | 2026-09-21 |
 | 2 High-Yield Energy Dividend Stocks to Buy in September With Dividends You Can Count On | Motley Fool | 2026-09-21 |
 | U.S. Oil Imports From Venezuela Just Exploded to a 9-Year High — Chevron Could Be the Biggest Winner | 24/7 Wall St. | 2026-09-21 |
 

@@ -69,7 +69,7 @@ APA Corporation, an independent energy company, explores for, develops, and prod
 | Profitability | Gross 78.25%, operating 56.33%, net 19.56% | ROA 11.60%, ROE 26.66% |
 | Balance sheet | Cash $444.00M, debt $3.88B | Current ratio 0.95, debt/equity 48.85 |
 | Valuation | P/E 9.24, forward P/E 9.98, P/S 1.79, P/B 2.19 | EV/Sales 2.34, EV/EBITDA 3.51 |
-| Growth expectations | Earnings growth 26.30%, EPS q/q 23.90% | Analyst mean target $45.88 (25 analysts) |
+| Growth expectations | Earnings growth 26.30%, EPS q/q 23.90% | Analyst mean target $45.96 (25 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |

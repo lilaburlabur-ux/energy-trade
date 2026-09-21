@@ -36,10 +36,10 @@ Eaton Corporation plc operates as a power management company in the United State
 
 | Headline | Source | Date |
 |---|---|---|
+| Why Is Vertiv Stock Up Sharply Over The Past Year Yet Well Below Its Peak? | Trefis | 2026-09-21 |
 | Industrial CEO drops staggering take on AI energy | TheStreet | 2026-09-21 |
 | Eaton (ETN) Surges 3.7%: Is This an Indication of Further Gains? | Zacks | 2026-09-21 |
 | 3 AI Infrastructure Stocks To Watch As Data Center Spending Reshapes Demand | Simply Wall St. | 2026-09-21 |
-| BofA cuts to the chase on AI data center demand | TheStreet | 2026-09-21 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -69,7 +69,7 @@ Dominion Energy, Inc. provides regulated electricity and natural gas services in
 | Profitability | Gross 46.22%, operating 29.22%, net 13.98% | ROA 3.04%, ROE 8.28% |
 | Balance sheet | Cash $298.00M, debt $53.93B | Current ratio 0.81, debt/equity 160.46 |
 | Valuation | P/E 21.74, forward P/E 16.46, P/S 3.05, P/B 1.98 | EV/Sales 6.36, EV/EBITDA 13.81 |
-| Growth expectations | Earnings growth -58.00%, EPS q/q -55.30% | Analyst mean target $71.64 (11 analysts) |
+| Growth expectations | Earnings growth -58.00%, EPS q/q -55.30% | Analyst mean target $70.91 (11 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
@@ -123,7 +123,7 @@ Dominion Energy, Inc. provides regulated electricity and natural gas services in
 | Forward P/E | 16.46 | Short float | 3.09% |
 | PEG (trailing) | 2.47 | Avg volume | 4,455,909 |
 | P/S | 3.05 | Employees | 15,200 |
-| P/B | 1.98 | Analyst rec (1=buy..5=sell) | 2.6 |
+| P/B | 1.98 | Analyst rec (1=buy..5=sell) | 2.9 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

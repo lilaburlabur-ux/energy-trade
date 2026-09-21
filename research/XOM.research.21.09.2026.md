@@ -36,10 +36,10 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 
 | Headline | Source | Date |
 |---|---|---|
+| Exxon Could Return to the Venezuelan Field It Was Forced Out of in 2007. Here's What Changed. | Motley Fool | 2026-09-21 |
 | Sector Update: Energy Stocks Fall Late Afternoon | MT Newswires | 2026-09-21 |
 | XLE Is 91% Oil and Gas. Investors Buying “Energy” May Own Less Than They Think | 24/7 Wall St. | 2026-09-21 |
 | How to Earn $250 a Month From Exxon Stock | Motley Fool | 2026-09-21 |
-| Can ExxonMobil Turn Carbon Capture Into a Major Growth Market? | Zacks | 2026-09-21 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

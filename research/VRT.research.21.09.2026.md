@@ -36,10 +36,10 @@ Vertiv Holdings Co designs, manufactures, and services critical digital infrastr
 
 | Headline | Source | Date |
 |---|---|---|
+| Why Is Vertiv Stock Up Sharply Over The Past Year Yet Well Below Its Peak? | Trefis | 2026-09-21 |
 | Beyond NVIDIA: 2 AI Data Center Stocks to Buy for More Upside | Zacks | 2026-09-21 |
 | 3 AI Infrastructure Stocks To Watch As Data Center Spending Reshapes Demand | Simply Wall St. | 2026-09-21 |
 | What Higher Interest Rates Mean for Caterpillar, GE Vernova, and Vertiv | Motley Fool | 2026-09-21 |
-| 2 Superior AI Infrastructure Stocks to Buy and Hold for 10 Years | Motley Fool | 2026-09-20 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
