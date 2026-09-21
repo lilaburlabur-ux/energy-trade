@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-21T09:19:19+00:00",
-  "as_of_local": "2026-09-21 09:19:19 UTC",
+  "as_of_utc": "2026-09-21T09:24:24+00:00",
+  "as_of_local": "2026-09-21 09:24:24 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -97,6 +97,12 @@
       "market_cap": 250441460773.32928,
       "headlines": [
         {
+          "title": "Wall Street Just Got More Bullish on GE Vernova. Consensus Now Puts the Target at $1,237.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-just-got-more-091106433.html",
+          "publisher": "TIKR",
+          "published": "2026-09-21T09:11:06Z"
+        },
+        {
           "title": "What Higher Interest Rates Mean for Caterpillar, GE Vernova, and Vertiv",
           "url": "https://finance.yahoo.com/markets/stocks/articles/higher-interest-rates-mean-caterpillar-085500295.html",
           "publisher": "Motley Fool",
@@ -107,12 +113,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/bofa-cuts-chase-ai-data-013700947.html",
           "publisher": "TheStreet",
           "published": "2026-09-21T01:37:00Z"
-        },
-        {
-          "title": "Eos Energy Enterprises vs. GE Vernova: Which Stock Is a Better Buy in 2026?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/eos-energy-enterprises-vs-ge-172909972.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-20T17:29:09Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 94.22,
-      "change_pct": -6.06
+      "price": 94.38,
+      "change_pct": -5.9
     },
     {
       "label": "Brent",
-      "price": 97.67,
-      "change_pct": -5.97
+      "price": 97.89,
+      "change_pct": -5.76
     },
     {
       "label": "NatGas",
       "price": 2.88,
-      "change_pct": -1.13
+      "change_pct": -1.2
     }
   ]
 }
