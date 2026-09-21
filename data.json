@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-09-21T20:06:14+00:00",
-  "as_of_local": "2026-09-21 20:06:14 UTC",
+  "as_of_utc": "2026-09-21T20:10:38+00:00",
+  "as_of_local": "2026-09-21 20:10:38 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "OKLO"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -152,7 +150,7 @@
       "price": 435.39,
       "previous_close": 424.77,
       "change_pct": 2.5,
-      "market_cap": 169063874234.0088,
+      "market_cap": 169107413732.91016,
       "headlines": [
         {
           "title": "Industrial CEO drops staggering take on AI energy",
@@ -180,7 +178,7 @@
       "price": 79.63,
       "previous_close": 80.47,
       "change_pct": -1.04,
-      "market_cap": 166076748929.25378,
+      "market_cap": 166106439053.35974,
       "headlines": [
         {
           "title": "2 Big Trump Breakthroughs Can Power Stock Markets Higher",
@@ -231,34 +229,6 @@
       ]
     },
     {
-      "symbol": "MPC",
-      "name": "Marathon Petroleum",
-      "price": 402.15,
-      "previous_close": 424.89,
-      "change_pct": -5.35,
-      "market_cap": 117402315983.41019,
-      "headlines": [
-        {
-          "title": "Will UK interest rates fall in 2026?",
-          "url": "https://finance.yahoo.com/economy/policy/articles/uk-interest-rates-fall-2026-160348987.html",
-          "publisher": "Moneyweek",
-          "published": "2026-09-21T14:34:41Z"
-        },
-        {
-          "title": "Phillips 66 Is Minting Money on $102 Diesel Margins. How Long Can It Last?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/phillips-66-minting-money-102-134040343.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-09-21T13:40:40Z"
-        },
-        {
-          "title": "MPC vs. PSX: A Closer Look at Two Strong Refining Powerhouses",
-          "url": "https://finance.yahoo.com/energy/articles/mpc-vs-psx-closer-look-132600811.html",
-          "publisher": "Zacks",
-          "published": "2026-09-21T13:26:00Z"
-        }
-      ]
-    },
-    {
       "symbol": "VLO",
       "name": "Valero Energy",
       "price": 393.26,
@@ -283,6 +253,34 @@
           "url": "https://finance.yahoo.com/energy/articles/energy-stock-could-exxonmobil-run-151000907.html",
           "publisher": "Zacks",
           "published": "2026-09-21T15:10:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "MPC",
+      "name": "Marathon Petroleum",
+      "price": 402.15,
+      "previous_close": 424.89,
+      "change_pct": -5.35,
+      "market_cap": 112933676726.43167,
+      "headlines": [
+        {
+          "title": "Will UK interest rates fall in 2026?",
+          "url": "https://finance.yahoo.com/economy/policy/articles/uk-interest-rates-fall-2026-160348987.html",
+          "publisher": "Moneyweek",
+          "published": "2026-09-21T14:34:41Z"
+        },
+        {
+          "title": "Phillips 66 Is Minting Money on $102 Diesel Margins. How Long Can It Last?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/phillips-66-minting-money-102-134040343.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-09-21T13:40:40Z"
+        },
+        {
+          "title": "MPC vs. PSX: A Closer Look at Two Strong Refining Powerhouses",
+          "url": "https://finance.yahoo.com/energy/articles/mpc-vs-psx-closer-look-132600811.html",
+          "publisher": "Zacks",
+          "published": "2026-09-21T13:26:00Z"
         }
       ]
     },
@@ -656,7 +654,7 @@
       "price": 141.38,
       "previous_close": 144.23,
       "change_pct": -1.98,
-      "market_cap": 75303024172.12524,
+      "market_cap": 74157937464.05762,
       "headlines": [
         {
           "title": "EOG Resources (EOG) Stock May Be Undervalued On Earnings Power",
@@ -1076,7 +1074,7 @@
       "price": 69.32,
       "previous_close": 69.77,
       "change_pct": -0.64,
-      "market_cap": 34543639434.56438,
+      "market_cap": 34550476327.49428,
       "headlines": [
         {
           "title": "Public Service Enterprise Group CEO Sells 2,083 Shares",
@@ -1496,7 +1494,7 @@
       "price": 29.73,
       "previous_close": 29.83,
       "change_pct": -0.34,
-      "market_cap": 9016394300.62128,
+      "market_cap": 8922318503.5998,
       "headlines": [
         {
           "title": "Westinghouse Could IPO at a $50 Billion Valuation. Cameco's Stake Alone Would Be Worth $24.5 Billion.",
@@ -1608,7 +1606,7 @@
       "price": 82.2,
       "previous_close": 82.03,
       "change_pct": 0.21,
-      "market_cap": 5892543195.833389,
+      "market_cap": 5878294730.562378,
       "headlines": [
         {
           "title": "1 of Wall Street\u2019s Favorite Stocks to Own for Decades and 2 We Ignore",
@@ -1664,7 +1662,7 @@
       "price": 34.76,
       "previous_close": 34.64,
       "change_pct": 0.35,
-      "market_cap": 4581305905.981064,
+      "market_cap": 4593347742.679596,
       "headlines": [
         {
           "title": "Enphase Energy, Inc. (ENPH) is Attracting Investor Attention: Here is What You Should Know",
@@ -1715,6 +1713,34 @@
       ]
     },
     {
+      "symbol": "UUUU",
+      "name": "Energy Fuels",
+      "price": 12.28,
+      "previous_close": 11.7,
+      "change_pct": 4.96,
+      "market_cap": 3251419393.4578285,
+      "headlines": [
+        {
+          "title": "UUUU vs. MP: Which Rare Earth Stock is a Better Pick Now?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/uuuu-vs-mp-rare-earth-151400381.html",
+          "publisher": "Zacks",
+          "published": "2026-09-21T15:14:00Z"
+        },
+        {
+          "title": "Energy Fuels (TSX:EFR) Could Be 60% Undervalued After Its September Investor Call",
+          "url": "https://finance.yahoo.com/energy/articles/energy-fuels-tsx-efr-could-051430939.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-09-20T05:14:30Z"
+        },
+        {
+          "title": "Will USAR's AI-Driven Approach Enhance Rare-Earth Processing?",
+          "url": "https://finance.yahoo.com/technology/ai/articles/usars-ai-driven-approach-enhance-135500779.html",
+          "publisher": "Zacks",
+          "published": "2026-09-18T13:55:00Z"
+        }
+      ]
+    },
+    {
       "symbol": "LEU",
       "name": "Centrus Energy",
       "price": 154.82,
@@ -1739,34 +1765,6 @@
           "url": "https://finance.yahoo.com/energy/articles/centrus-energy-leu-lands-haleu-163159900.html",
           "publisher": "Insider Monkey",
           "published": "2026-09-20T16:31:59Z"
-        }
-      ]
-    },
-    {
-      "symbol": "UUUU",
-      "name": "Energy Fuels",
-      "price": 12.28,
-      "previous_close": 11.7,
-      "change_pct": 4.96,
-      "market_cap": 3069570133.252144,
-      "headlines": [
-        {
-          "title": "UUUU vs. MP: Which Rare Earth Stock is a Better Pick Now?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/uuuu-vs-mp-rare-earth-151400381.html",
-          "publisher": "Zacks",
-          "published": "2026-09-21T15:14:00Z"
-        },
-        {
-          "title": "Energy Fuels (TSX:EFR) Could Be 60% Undervalued After Its September Investor Call",
-          "url": "https://finance.yahoo.com/energy/articles/energy-fuels-tsx-efr-could-051430939.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-09-20T05:14:30Z"
-        },
-        {
-          "title": "Will USAR's AI-Driven Approach Enhance Rare-Earth Processing?",
-          "url": "https://finance.yahoo.com/technology/ai/articles/usars-ai-driven-approach-enhance-135500779.html",
-          "publisher": "Zacks",
-          "published": "2026-09-18T13:55:00Z"
         }
       ]
     },
@@ -2117,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 92.17,
-      "change_pct": -8.11
+      "price": 92.13,
+      "change_pct": -8.15
     },
     {
       "label": "Brent",
-      "price": 96.19,
-      "change_pct": -7.39
+      "price": 96.17,
+      "change_pct": -7.41
     },
     {
       "label": "NatGas",
       "price": 2.83,
-      "change_pct": -2.85
+      "change_pct": -2.78
     }
   ]
 }
