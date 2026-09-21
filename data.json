@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-21T20:04:52+00:00",
-  "as_of_local": "2026-09-21 20:04:52 UTC",
+  "as_of_utc": "2026-09-21T20:06:14+00:00",
+  "as_of_local": "2026-09-21 20:06:14 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
     "OKLO"
@@ -1519,6 +1519,34 @@
       ]
     },
     {
+      "symbol": "OKLO",
+      "name": "Oklo",
+      "price": 40.16,
+      "previous_close": 38.0,
+      "change_pct": 5.68,
+      "market_cap": 7470468795.615959,
+      "headlines": [
+        {
+          "title": "This Energy Stock Has 130% Upside Potential",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/energy-stock-130-upside-potential-180054906.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-09-21T18:00:54Z"
+        },
+        {
+          "title": "Uranium Stocks Are Rallying. Why NXE Got Initiated At Overweight.",
+          "url": "https://www.investors.com/news/nuclear-smr-stocks-rally-nexgen-energy-nxe-initiated-overweight/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-09-21T17:44:11Z"
+        },
+        {
+          "title": "GE Vernova vs. Oklo: Which Industrials Stock Is a Better Buy in 2026?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-vs-oklo-industrials-163208164.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-21T16:32:08Z"
+        }
+      ]
+    },
+    {
       "symbol": "NOV",
       "name": "NOV Inc",
       "price": 20.14,
@@ -2084,18 +2112,18 @@
   "tape": [
     {
       "label": "SPX",
-      "price": 7764.76,
+      "price": 7764.7,
       "change_pct": 1.49
     },
     {
       "label": "WTI",
-      "price": 92.14,
-      "change_pct": -8.14
+      "price": 92.17,
+      "change_pct": -8.11
     },
     {
       "label": "Brent",
-      "price": 96.14,
-      "change_pct": -7.44
+      "price": 96.19,
+      "change_pct": -7.39
     },
     {
       "label": "NatGas",
