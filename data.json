@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-09-21T00:16:17+00:00",
-  "as_of_local": "2026-09-21 00:16:17 UTC",
+  "as_of_utc": "2026-09-21T00:21:30+00:00",
+  "as_of_local": "2026-09-21 00:21:30 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "HUBB"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1183,6 +1181,34 @@
       ]
     },
     {
+      "symbol": "HUBB",
+      "name": "Hubbell",
+      "price": 446.92,
+      "previous_close": 443.23,
+      "change_pct": 0.83,
+      "market_cap": 23611933340.74173,
+      "headlines": [
+        {
+          "title": "Hubbell (HUBB) Faces A Valuation Test As Morgan Stanley Conference Puts Growth In Focus",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/hubbell-hubb-faces-valuation-test-111511298.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-09-19T11:15:11Z"
+        },
+        {
+          "title": "The Bull Case For Hubbell (HUBB) Could Change Following Backlog\u2011Driven Data Center Demand Signals \u2013 Learn Why",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bull-case-hubbell-hubb-could-011040964.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-09-19T01:10:40Z"
+        },
+        {
+          "title": "Hubbell (HUBB) Stock Looks Fully Priced After Its 163% Run",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/hubbell-hubb-stock-looks-fully-231107744.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-09-18T23:11:07Z"
+        }
+      ]
+    },
+    {
       "symbol": "NRG",
       "name": "NRG Energy",
       "price": 103.66,
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 95.81,
-      "change_pct": -4.48
+      "price": 95.74,
+      "change_pct": -4.55
     },
     {
       "label": "Brent",
-      "price": 99.2,
-      "change_pct": -4.5
+      "price": 99.13,
+      "change_pct": -4.56
     },
     {
       "label": "NatGas",
       "price": 2.89,
-      "change_pct": -0.89
+      "change_pct": -0.82
     }
   ]
 }
