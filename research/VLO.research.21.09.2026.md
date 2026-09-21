@@ -38,8 +38,8 @@ Valero Energy Corporation manufactures, markets, and sells petroleum-based and l
 |---|---|---|
 | XLE Is 91% Oil and Gas. Investors Buying “Energy” May Own Less Than They Think | 24/7 Wall St. | 2026-09-21 |
 | Equinor Expands LNG Reach in Asia With PTT Trading Supply Agreement | Zacks | 2026-09-21 |
+| Stocks and Bonds Climb as Slumping Crude Prices Ease Inflation Risks | Barchart | 2026-09-21 |
 | This Energy Stock Could Give ExxonMobil a Run: Should You Buy? | Zacks | 2026-09-21 |
-| Phillips 66 Is Minting Money on $102 Diesel Margins. How Long Can It Last? | 24/7 Wall St. | 2026-09-21 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

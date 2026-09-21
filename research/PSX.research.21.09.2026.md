@@ -36,10 +36,10 @@ Phillips 66 operates as an integrated downstream energy provider in the United S
 
 | Headline | Source | Date |
 |---|---|---|
+| Stocks and Bonds Climb as Slumping Crude Prices Ease Inflation Risks | Barchart | 2026-09-21 |
 | Phillips 66 Is Minting Money on $102 Diesel Margins. How Long Can It Last? | 24/7 Wall St. | 2026-09-21 |
 | MPC vs. PSX: A Closer Look at Two Strong Refining Powerhouses | Zacks | 2026-09-21 |
 | BMO Sees Phillips 66 (PSX) Breaking into New Highs | Insider Monkey | 2026-09-20 |
-| UBS Sees Phillips 66 (PSX) Blazing Past its Record High | Insider Monkey | 2026-09-20 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
