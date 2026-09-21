@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-09-21T00:56:40+00:00",
-  "as_of_local": "2026-09-21 00:56:40 UTC",
+  "as_of_utc": "2026-09-21T01:01:47+00:00",
+  "as_of_local": "2026-09-21 01:01:47 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "BE"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -573,24 +571,33 @@
       "previous_close": 69.49,
       "change_pct": -0.12,
       "market_cap": 81955527892.50803,
+      "headlines": []
+    },
+    {
+      "symbol": "BE",
+      "name": "Bloom Energy",
+      "price": 265.63,
+      "previous_close": 280.76,
+      "change_pct": -5.39,
+      "market_cap": 78235300356.1018,
       "headlines": [
         {
-          "title": "Should You Buy Suncor Energy Stock After Its 63% Surge in a Year?",
-          "url": "https://finance.yahoo.com/energy/articles/buy-suncor-energy-stock-63-124600871.html",
-          "publisher": "Zacks",
-          "published": "2026-09-14T12:46:00Z"
+          "title": "Bloom Energy\u2019s \u201cTime-to-Power\u201d Moat",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-time-power-moat-192646408.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-20T19:26:46Z"
         },
         {
-          "title": "Imperial Oil Stock Rises 49% YTD: Time to Hold or Lock in Profits?",
-          "url": "https://finance.yahoo.com/energy/articles/imperial-oil-stock-rises-49-150300019.html",
-          "publisher": "Zacks",
-          "published": "2026-09-08T15:03:00Z"
+          "title": "Bloom Energy (BE) Unveils a New Power Play for the AI Boom",
+          "url": "https://finance.yahoo.com/technology/ai/articles/bloom-energy-unveils-power-play-164510735.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-09-20T16:45:10Z"
         },
         {
-          "title": "Which TSX stocks investors will be watching next week?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/tsx-stocks-investors-watching-next-115208497.html",
-          "publisher": "Investing.com",
-          "published": "2026-09-06T11:52:08Z"
+          "title": "Plug Power vs. Bloom Energy: Which Hydrogen-Adjacent Stock Actually Has a Real Business Model?",
+          "url": "https://finance.yahoo.com/energy/articles/plug-power-vs-bloom-energy-062500270.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-20T06:25:00Z"
         }
       ]
     },
@@ -2094,13 +2101,13 @@
     },
     {
       "label": "Brent",
-      "price": 98.25,
-      "change_pct": -5.41
+      "price": 98.18,
+      "change_pct": -5.48
     },
     {
       "label": "NatGas",
       "price": 2.88,
-      "change_pct": -1.13
+      "change_pct": -1.2
     }
   ]
 }
