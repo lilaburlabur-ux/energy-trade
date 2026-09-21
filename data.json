@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-21T10:20:11+00:00",
-  "as_of_local": "2026-09-21 10:20:11 UTC",
+  "as_of_utc": "2026-09-21T10:25:15+00:00",
+  "as_of_local": "2026-09-21 10:25:15 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -41,6 +41,12 @@
       "market_cap": 410975491160.3314,
       "headlines": [
         {
+          "title": "Chevron vs. Occidental Petroleum: Which Oil Stock Is a Better Buy in 2026?",
+          "url": "https://finance.yahoo.com/energy/articles/chevron-vs-occidental-petroleum-oil-101350145.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-21T10:13:50Z"
+        },
+        {
           "title": "Same Conference, Same Day, Same Bet: Chevron and ExxonMobil Double Down on LNG",
           "url": "https://finance.yahoo.com/energy/articles/same-conference-same-day-same-094121233.html",
           "publisher": "Insider Monkey",
@@ -51,12 +57,6 @@
           "url": "https://finance.yahoo.com/energy/articles/big-oil-production-keeps-soaring-230000062.html",
           "publisher": "Oilprice.com",
           "published": "2026-09-20T23:00:00Z"
-        },
-        {
-          "title": "Chevron CEO sends a strong message on oil price and the economy",
-          "url": "https://finance.yahoo.com/energy/articles/chevron-ceo-sends-strong-message-164700338.html",
-          "publisher": "TheStreet",
-          "published": "2026-09-20T16:47:00Z"
         }
       ]
     },
@@ -69,6 +69,12 @@
       "market_cap": 269986214504.63214,
       "headlines": [
         {
+          "title": "Canadian oil and gas industry on track for biggest dealmaking boom in a decade, analysts say",
+          "url": "https://finance.yahoo.com/news/canadian-oil-gas-industry-track-100045520.html",
+          "publisher": "Financial Post",
+          "published": "2026-09-21T10:00:45Z"
+        },
+        {
           "title": "Big Oil\u2019s Production Keeps Soaring Despite Deep Spending Cuts",
           "url": "https://finance.yahoo.com/energy/articles/big-oil-production-keeps-soaring-230000062.html",
           "publisher": "Oilprice.com",
@@ -79,12 +85,6 @@
           "url": "https://finance.yahoo.com/energy/articles/morgan-stanley-sees-shell-shel-152036523.html",
           "publisher": "Insider Monkey",
           "published": "2026-09-20T15:20:36Z"
-        },
-        {
-          "title": "Correction: Market Chatter: Saudi Aramco May Cut Crude Oil Supply to European Refiners After Pipeline Attacks",
-          "url": "https://finance.yahoo.com/energy/articles/correction-market-chatter-saudi-aramco-132727566.html",
-          "publisher": "MT Newswires",
-          "published": "2026-09-18T13:27:27Z"
         }
       ]
     },
@@ -825,6 +825,12 @@
       "market_cap": 58818663062.17256,
       "headlines": [
         {
+          "title": "Chevron vs. Occidental Petroleum: Which Oil Stock Is a Better Buy in 2026?",
+          "url": "https://finance.yahoo.com/energy/articles/chevron-vs-occidental-petroleum-oil-101350145.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-21T10:13:50Z"
+        },
+        {
           "title": "3 Market-Beating Stocks Worth Your Attention",
           "url": "https://finance.yahoo.com/markets/stocks/articles/3-market-beating-stocks-worth-094225663.html",
           "publisher": "StockStory",
@@ -835,12 +841,6 @@
           "url": "https://finance.yahoo.com/energy/articles/2-stocks-buy-think-100-183500185.html",
           "publisher": "Motley Fool",
           "published": "2026-09-18T18:35:00Z"
-        },
-        {
-          "title": "Using A Limit Order To Buy Occidental Petroleum At A Discount",
-          "url": "https://www.investors.com/research/options/occidental-petroleum-stock-oxy-limit-order-options/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-09-18T16:34:34Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 93.7,
-      "change_pct": -6.58
+      "price": 93.55,
+      "change_pct": -6.73
     },
     {
       "label": "Brent",
-      "price": 97.3,
-      "change_pct": -6.33
+      "price": 97.11,
+      "change_pct": -6.51
     },
     {
       "label": "NatGas",
       "price": 2.88,
-      "change_pct": -1.13
+      "change_pct": -1.17
     }
   ]
 }
