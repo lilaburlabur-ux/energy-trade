@@ -1,16 +1,18 @@
 {
-  "as_of_utc": "2026-09-21T15:18:39+00:00",
-  "as_of_local": "2026-09-21 15:18:39 UTC",
+  "as_of_utc": "2026-09-21T15:23:23+00:00",
+  "as_of_local": "2026-09-21 15:23:23 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AR"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
       "name": "ExxonMobil",
-      "price": 158.99,
+      "price": 159.14,
       "previous_close": 163.54,
-      "change_pct": -2.78,
-      "market_cap": 653588393493.4406,
+      "change_pct": -2.69,
+      "market_cap": 654369666804.6881,
       "headlines": [
         {
           "title": "3 Inflated  Stocks We Think Twice About",
@@ -35,11 +37,17 @@
     {
       "symbol": "CVX",
       "name": "Chevron",
-      "price": 205.53,
+      "price": 205.64,
       "previous_close": 209.51,
-      "change_pct": -1.9,
-      "market_cap": 403129078064.3314,
+      "change_pct": -1.85,
+      "market_cap": 403384096068.0924,
       "headlines": [
+        {
+          "title": "Stock Market Today: Dow Up As Alphabet Shines, Tech Fund Offers Entry; Oil Dips On Iran Hopes (Live Coverage)",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-treasury-yields-nvidia-stock-nvda-buy-point/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-09-21T15:07:46Z"
+        },
         {
           "title": "Chevron vs. Occidental Petroleum: Which Oil Stock Is a Better Buy in 2026?",
           "url": "https://finance.yahoo.com/energy/articles/chevron-vs-occidental-petroleum-oil-101350145.html",
@@ -51,22 +59,16 @@
           "url": "https://finance.yahoo.com/energy/articles/same-conference-same-day-same-094121233.html",
           "publisher": "Insider Monkey",
           "published": "2026-09-21T09:41:21Z"
-        },
-        {
-          "title": "Big Oil\u2019s Production Keeps Soaring Despite Deep Spending Cuts",
-          "url": "https://finance.yahoo.com/energy/articles/big-oil-production-keeps-soaring-230000062.html",
-          "publisher": "Oilprice.com",
-          "published": "2026-09-20T23:00:00Z"
         }
       ]
     },
     {
       "symbol": "SHEL",
       "name": "Shell",
-      "price": 93.76,
+      "price": 93.81,
       "previous_close": 94.54,
-      "change_pct": -0.82,
-      "market_cap": 267772974329.24524,
+      "change_pct": -0.77,
+      "market_cap": 267872937372.7738,
       "headlines": [
         {
           "title": "Shell Eyes Major LNG Canada Phase 2 Expansion to Boost Global Supply",
@@ -91,10 +93,10 @@
     {
       "symbol": "GEV",
       "name": "GE Vernova",
-      "price": 955.77,
+      "price": 954.1,
       "previous_close": 940.33,
-      "change_pct": 1.64,
-      "market_cap": 254668173403.34235,
+      "change_pct": 1.46,
+      "market_cap": 254131507336.25653,
       "headlines": [
         {
           "title": "Wall Street Can't Agree on GE Vernova. Price Targets Range From $470 to $1,450. Here's Why the Gap Is So Wide.",
@@ -119,10 +121,10 @@
     {
       "symbol": "TTE",
       "name": "TotalEnergies",
-      "price": 90.24,
+      "price": 90.1,
       "previous_close": 90.82,
-      "change_pct": -0.64,
-      "market_cap": 199332278002.218,
+      "change_pct": -0.79,
+      "market_cap": 199034053553.08002,
       "headlines": [
         {
           "title": "Petrobras Expands Africa Footprint With 8 New Offshore Blocks",
@@ -147,10 +149,10 @@
     {
       "symbol": "ETN",
       "name": "Eaton",
-      "price": 432.75,
+      "price": 432.81,
       "previous_close": 424.77,
-      "change_pct": 1.88,
-      "market_cap": 168083419104.0039,
+      "change_pct": 1.89,
+      "market_cap": 168189227536.01074,
       "headlines": [
         {
           "title": "Eaton (ETN) Surges 3.7%: Is This an Indication of Further Gains?",
@@ -175,10 +177,10 @@
     {
       "symbol": "NEE",
       "name": "NextEra Energy",
-      "price": 80.16,
+      "price": 80.13,
       "previous_close": 80.47,
-      "change_pct": -0.39,
-      "market_cap": 167182133134.99493,
+      "change_pct": -0.42,
+      "market_cap": 167088268800.8363,
       "headlines": [
         {
           "title": "2 Big Trump Breakthroughs Can Power Stock Markets Higher",
@@ -203,10 +205,10 @@
     {
       "symbol": "COP",
       "name": "ConocoPhillips",
-      "price": 127.81,
+      "price": 127.95,
       "previous_close": 131.83,
-      "change_pct": -3.05,
-      "market_cap": 155679704146.0209,
+      "change_pct": -2.94,
+      "market_cap": 155886811896.44794,
       "headlines": [
         {
           "title": "Like \u2018a rabbi buying a church\u2019: Delta once bought an entire oil refinery because it got tired of guessing at fuel prices",
@@ -231,10 +233,10 @@
     {
       "symbol": "MPC",
       "name": "Marathon Petroleum",
-      "price": 414.45,
+      "price": 415.12,
       "previous_close": 424.89,
-      "change_pct": -2.46,
-      "market_cap": 121056637801.17416,
+      "change_pct": -2.3,
+      "market_cap": 121283644193.37997,
       "headlines": [
         {
           "title": "Phillips 66 Is Minting Money on $102 Diesel Margins. How Long Can It Last?",
@@ -259,10 +261,10 @@
     {
       "symbol": "VLO",
       "name": "Valero Energy",
-      "price": 404.85,
+      "price": 405.65,
       "previous_close": 413.28,
-      "change_pct": -2.04,
-      "market_cap": 116625014563.31049,
+      "change_pct": -1.85,
+      "market_cap": 116751703349.09839,
       "headlines": [
         {
           "title": "Phillips 66 Is Minting Money on $102 Diesel Margins. How Long Can It Last?",
@@ -287,10 +289,10 @@
     {
       "symbol": "BP",
       "name": "BP",
-      "price": 43.6,
+      "price": 43.65,
       "previous_close": 44.58,
-      "change_pct": -2.2,
-      "market_cap": 112272050189.08838,
+      "change_pct": -2.09,
+      "market_cap": 112413694800.86047,
       "headlines": [
         {
           "title": "Energy & Utilities Roundup: Market Talk",
@@ -315,10 +317,10 @@
     {
       "symbol": "PSX",
       "name": "Phillips 66",
-      "price": 266.71,
+      "price": 267.15,
       "previous_close": 273.13,
-      "change_pct": -2.35,
-      "market_cap": 106450799483.39392,
+      "change_pct": -2.19,
+      "market_cap": 106600432326.89392,
       "headlines": [
         {
           "title": "Phillips 66 Is Minting Money on $102 Diesel Margins. How Long Can It Last?",
@@ -343,10 +345,10 @@
     {
       "symbol": "EQNR",
       "name": "Equinor",
-      "price": 42.85,
+      "price": 42.88,
       "previous_close": 44.09,
-      "change_pct": -2.82,
-      "market_cap": 101583364855.90134,
+      "change_pct": -2.74,
+      "market_cap": 101666347751.64804,
       "headlines": [
         {
           "title": "Equinor (OB:EQNR) Posted A Positive PEA For Its Texas Lithium Project",
@@ -371,10 +373,10 @@
     {
       "symbol": "SO",
       "name": "Southern Company",
-      "price": 85.97,
+      "price": 85.94,
       "previous_close": 85.52,
-      "change_pct": 0.53,
-      "market_cap": 98885199504.17125,
+      "change_pct": 0.5,
+      "market_cap": 98858053564.12427,
       "headlines": [
         {
           "title": "High-Yield Dividend Stocks Throw Off Serious Income. Where You Hold Them Matters",
@@ -399,10 +401,10 @@
     {
       "symbol": "VRT",
       "name": "Vertiv",
-      "price": 251.51,
+      "price": 252.13,
       "previous_close": 249.39,
-      "change_pct": 0.85,
-      "market_cap": 96844545646.42603,
+      "change_pct": 1.1,
+      "market_cap": 97099790643.3262,
       "headlines": [
         {
           "title": "3 AI Infrastructure Stocks To Watch As Data Center Spending Reshapes Demand",
@@ -427,10 +429,10 @@
     {
       "symbol": "PWR",
       "name": "Quanta Services",
-      "price": 640.27,
+      "price": 641.6,
       "previous_close": 636.71,
-      "change_pct": 0.56,
-      "market_cap": 96294943216.5,
+      "change_pct": 0.77,
+      "market_cap": 96461069729.3706,
       "headlines": [
         {
           "title": "What an AI Slowdown Would Mean for Energy Stocks",
@@ -455,10 +457,10 @@
     {
       "symbol": "CEG",
       "name": "Constellation Energy",
-      "price": 262.64,
+      "price": 262.78,
       "previous_close": 254.71,
-      "change_pct": 3.11,
-      "market_cap": 93161583099.26825,
+      "change_pct": 3.17,
+      "market_cap": 93092425689.71979,
       "headlines": [
         {
           "title": "Constellation Energy Stock Fell 13% Last Week. Analysts Still See 37% Upside From Here.",
@@ -483,10 +485,10 @@
     {
       "symbol": "DUK",
       "name": "Duke Energy",
-      "price": 117.58,
+      "price": 117.5,
       "previous_close": 117.53,
-      "change_pct": 0.04,
-      "market_cap": 91634501422.05612,
+      "change_pct": -0.03,
+      "market_cap": 91599416251.0485,
       "headlines": [
         {
           "title": "How Investors May Respond To Duke Energy (DUK) Winning an Emergency Recovery Award for Storm Resilience",
@@ -511,10 +513,10 @@
     {
       "symbol": "WMB",
       "name": "Williams Companies",
-      "price": 71.68,
+      "price": 71.63,
       "previous_close": 72.05,
-      "change_pct": -0.51,
-      "market_cap": 87676644766.24109,
+      "change_pct": -0.58,
+      "market_cap": 87621604469.68762,
       "headlines": [
         {
           "title": "Natural Gas Gains 2.9% for the Week: What's Driving the Rise?",
@@ -539,10 +541,10 @@
     {
       "symbol": "EPD",
       "name": "Enterprise Products",
-      "price": 38.74,
+      "price": 38.76,
       "previous_close": 38.89,
-      "change_pct": -0.37,
-      "market_cap": 83668940606.33453,
+      "change_pct": -0.35,
+      "market_cap": 83690539991.16547,
       "headlines": [
         {
           "title": "The AI Bottleneck Is Not Chips Anymore and 3 Pipeline Stocks Are Cashing In",
@@ -567,10 +569,10 @@
     {
       "symbol": "BE",
       "name": "Bloom Energy",
-      "price": 278.99,
+      "price": 279.02,
       "previous_close": 265.63,
-      "change_pct": 5.03,
-      "market_cap": 82193748605.40271,
+      "change_pct": 5.04,
+      "market_cap": 82084774925.50452,
       "headlines": [
         {
           "title": "Bloom Energy (BE) Surges as AI Hyperscalers Adopt Solid Oxide Fuel Cells",
@@ -595,10 +597,10 @@
     {
       "symbol": "SU",
       "name": "Suncor Energy",
-      "price": 67.68,
+      "price": 67.75,
       "previous_close": 69.41,
-      "change_pct": -2.49,
-      "market_cap": 79903979523.27217,
+      "change_pct": -2.4,
+      "market_cap": 79989586071.81851,
       "headlines": [
         {
           "title": "Should You Buy Suncor Energy Stock After Its 63% Surge in a Year?",
@@ -623,10 +625,10 @@
     {
       "symbol": "SLB",
       "name": "SLB (Schlumberger)",
-      "price": 50.78,
+      "price": 50.76,
       "previous_close": 51.12,
-      "change_pct": -0.67,
-      "market_cap": 75364349857.02597,
+      "change_pct": -0.69,
+      "market_cap": 75387052701.09758,
       "headlines": [
         {
           "title": "SLB (SLB) Stock Dips While Market Gains: Key Facts",
@@ -651,10 +653,10 @@
     {
       "symbol": "EOG",
       "name": "EOG Resources",
-      "price": 140.77,
+      "price": 140.87,
       "previous_close": 144.23,
-      "change_pct": -2.4,
-      "market_cap": 74986109546.59393,
+      "change_pct": -2.33,
+      "market_cap": 75031378420.37476,
       "headlines": [
         {
           "title": "EOG Resources (EOG) Stock May Be Undervalued On Earnings Power",
@@ -682,7 +684,7 @@
       "price": 20.81,
       "previous_close": 21.14,
       "change_pct": -1.58,
-      "market_cap": 71625108158.41116,
+      "market_cap": 71620629073.77089,
       "headlines": [
         {
           "title": "The AI Bottleneck Is Not Chips Anymore and 3 Pipeline Stocks Are Cashing In",
@@ -735,10 +737,10 @@
     {
       "symbol": "TRGP",
       "name": "Targa Resources",
-      "price": 289.25,
+      "price": 288.77,
       "previous_close": 292.19,
-      "change_pct": -1.01,
-      "market_cap": 61970565069.0,
+      "change_pct": -1.17,
+      "market_cap": 61942687989.24353,
       "headlines": [
         {
           "title": "Targa Resources (TRGP) Gets a Fresh Vote of Confidence from TD Cowen",
@@ -763,10 +765,10 @@
     {
       "symbol": "MPLX",
       "name": "MPLX",
-      "price": 59.07,
+      "price": 59.03,
       "previous_close": 59.44,
-      "change_pct": -0.62,
-      "market_cap": 59888606577.165016,
+      "change_pct": -0.7,
+      "market_cap": 59844806434.1422,
       "headlines": [
         {
           "title": "This Overlooked Pipeline Stock Just Became a Rival's Joint-Venture Partner Without Anyone Noticing",
@@ -791,10 +793,10 @@
     {
       "symbol": "OKE",
       "name": "ONEOK",
-      "price": 91.82,
+      "price": 91.85,
       "previous_close": 93.46,
-      "change_pct": -1.75,
-      "market_cap": 57884172827.07438,
+      "change_pct": -1.72,
+      "market_cap": 57903084333.621895,
       "headlines": [
         {
           "title": "Oil Prices Rise and Fall. These 4 High-Yield Pipeline Stocks Keep Paying",
@@ -819,10 +821,10 @@
     {
       "symbol": "OXY",
       "name": "Occidental Petroleum",
-      "price": 57.19,
+      "price": 57.26,
       "previous_close": 58.84,
-      "change_pct": -2.8,
-      "market_cap": 57164264433.428024,
+      "change_pct": -2.69,
+      "market_cap": 57234238744.3329,
       "headlines": [
         {
           "title": "Chevron vs. Occidental Petroleum: Which Oil Stock Is a Better Buy in 2026?",
@@ -847,10 +849,10 @@
     {
       "symbol": "BKR",
       "name": "Baker Hughes",
-      "price": 57.26,
+      "price": 57.28,
       "previous_close": 57.25,
-      "change_pct": 0.02,
-      "market_cap": 56845480069.93483,
+      "change_pct": 0.06,
+      "market_cap": 56895113016.13461,
       "headlines": [
         {
           "title": "Baker Hughes (BKR) Raises 2026 Guidance. But Investors Aren\u2019t Impressed",
@@ -875,10 +877,10 @@
     {
       "symbol": "LNG",
       "name": "Cheniere Energy",
-      "price": 270.04,
+      "price": 270.15,
       "previous_close": 268.34,
-      "change_pct": 0.63,
-      "market_cap": 55795201523.11554,
+      "change_pct": 0.68,
+      "market_cap": 55747702700.64581,
       "headlines": [
         {
           "title": "3 U.S. Energy Stocks Retail Investors Are Watching for Inflation Resilience",
@@ -903,10 +905,10 @@
     {
       "symbol": "D",
       "name": "Dominion Energy",
-      "price": 63.38,
+      "price": 63.35,
       "previous_close": 63.58,
-      "change_pct": -0.32,
-      "market_cap": 55726764665.46004,
+      "change_pct": -0.36,
+      "market_cap": 55709173743.865005,
       "headlines": [
         {
           "title": "NextEra (NEE) and Dominion (D) Unveil a Bigger Pitch for Virginia",
@@ -931,10 +933,10 @@
     {
       "symbol": "FANG",
       "name": "Diamondback Energy",
-      "price": 188.31,
+      "price": 188.68,
       "previous_close": 192.42,
-      "change_pct": -2.14,
-      "market_cap": 52740328066.061035,
+      "change_pct": -1.94,
+      "market_cap": 52826014054.04883,
       "headlines": [
         {
           "title": "Diamondback Energy Is Down 11% This Year While the Permian Basin Keeps Pumping. Is FANG Stock a Buy?",
@@ -962,7 +964,7 @@
       "price": 47.27,
       "previous_close": 48.61,
       "change_pct": -2.76,
-      "market_cap": 52007998657.22656,
+      "market_cap": 52002501678.4668,
       "headlines": [
         {
           "title": "This Overlooked Pipeline Stock Just Became a Rival's Joint-Venture Partner Without Anyone Noticing",
@@ -987,10 +989,10 @@
     {
       "symbol": "ETR",
       "name": "Entergy",
-      "price": 101.72,
+      "price": 101.64,
       "previous_close": 102.01,
-      "change_pct": -0.28,
-      "market_cap": 48599526052.264465,
+      "change_pct": -0.37,
+      "market_cap": 48546970237.63223,
       "headlines": [
         {
           "title": "How Is Entergy's Stock Performance Compared to Other Utility Stocks?",
@@ -1015,10 +1017,10 @@
     {
       "symbol": "VST",
       "name": "Vistra",
-      "price": 141.11,
+      "price": 141.09,
       "previous_close": 140.67,
-      "change_pct": 0.31,
-      "market_cap": 47374905725.69534,
+      "change_pct": 0.3,
+      "market_cap": 47341345279.02733,
       "headlines": [
         {
           "title": "New Era jumps 30% after signing 207 MW Vistra PPA",
@@ -1043,10 +1045,10 @@
     {
       "symbol": "CCJ",
       "name": "Cameco",
-      "price": 92.77,
+      "price": 92.7,
       "previous_close": 91.62,
-      "change_pct": 1.26,
-      "market_cap": 40417461780.34117,
+      "change_pct": 1.18,
+      "market_cap": 40384794813.204414,
       "headlines": [
         {
           "title": "Westinghouse Could IPO at a $50 Billion Valuation. Cameco's Stake Alone Would Be Worth $24.5 Billion.",
@@ -1071,10 +1073,10 @@
     {
       "symbol": "PEG",
       "name": "Public Service Enterprise",
-      "price": 69.75,
+      "price": 69.72,
       "previous_close": 69.77,
-      "change_pct": -0.03,
-      "market_cap": 34755427551.17061,
+      "change_pct": -0.07,
+      "market_cap": 34742968755.74249,
       "headlines": [
         {
           "title": "Public Service Enterprise Group CEO Sells 2,083 Shares",
@@ -1099,10 +1101,10 @@
     {
       "symbol": "EQT",
       "name": "EQT Corp",
-      "price": 49.03,
+      "price": 49.08,
       "previous_close": 50.0,
-      "change_pct": -1.93,
-      "market_cap": 30669048716.430664,
+      "change_pct": -1.84,
+      "market_cap": 30703452287.322998,
       "headlines": [
         {
           "title": "My Top Natural Gas Stock Pick for 2027 and Beyond: EQT Corporation",
@@ -1127,10 +1129,10 @@
     {
       "symbol": "FTI",
       "name": "TechnipFMC",
-      "price": 71.14,
+      "price": 71.07,
       "previous_close": 72.02,
-      "change_pct": -1.22,
-      "market_cap": 27898574322.961853,
+      "change_pct": -1.31,
+      "market_cap": 27873082680.309265,
       "headlines": [
         {
           "title": "TechnipFMC Wins PETRONAS Limbayong Deepwater Project Contract",
@@ -1155,10 +1157,10 @@
     {
       "symbol": "HAL",
       "name": "Halliburton",
-      "price": 33.06,
+      "price": 33.1,
       "previous_close": 33.64,
-      "change_pct": -1.71,
-      "market_cap": 27547454440.724552,
+      "change_pct": -1.61,
+      "market_cap": 27589612469.587524,
       "headlines": [
         {
           "title": "Halliburton (HAL) Wins Integrated Cyprus Contract. Can Broader Services Improve Returns?",
@@ -1183,10 +1185,10 @@
     {
       "symbol": "HUBB",
       "name": "Hubbell",
-      "price": 450.06,
+      "price": 450.3,
       "previous_close": 446.92,
-      "change_pct": 0.7,
-      "market_cap": 23777826775.27423,
+      "change_pct": 0.76,
+      "market_cap": 23796054076.762115,
       "headlines": [
         {
           "title": "Hubbell (HUBB) Faces A Valuation Test As Morgan Stanley Conference Puts Growth In Focus",
@@ -1214,7 +1216,7 @@
       "price": 103.15,
       "previous_close": 103.66,
       "change_pct": -0.49,
-      "market_cap": 21700028865.752632,
+      "market_cap": 21685314196.09378,
       "headlines": [
         {
           "title": "Talen Raises 2026 Guidance as Cornerstone Boosts Cash Flow",
@@ -1239,10 +1241,10 @@
     {
       "symbol": "FSLR",
       "name": "First Solar",
-      "price": 197.31,
+      "price": 196.94,
       "previous_close": 195.96,
-      "change_pct": 0.69,
-      "market_cap": 21204863607.902588,
+      "change_pct": 0.5,
+      "market_cap": 21155428423.74353,
       "headlines": [
         {
           "title": "First Solar (FSLR) Stock Still Looks Below Fair Value Following Its 115% Run",
@@ -1267,10 +1269,10 @@
     {
       "symbol": "DINO",
       "name": "HF Sinclair",
-      "price": 113.6,
+      "price": 113.82,
       "previous_close": 115.9,
-      "change_pct": -1.99,
-      "market_cap": 20210468008.575325,
+      "change_pct": -1.79,
+      "market_cap": 20221134605.472725,
       "headlines": [
         {
           "title": "HF Sinclair Corporation (DINO) Hit a 52 Week High, Can the Run Continue?",
@@ -1295,10 +1297,10 @@
     {
       "symbol": "PR",
       "name": "Permian Resources",
-      "price": 22.06,
+      "price": 22.08,
       "previous_close": 22.76,
-      "change_pct": -3.08,
-      "market_cap": 18476507612.436287,
+      "change_pct": -3.01,
+      "market_cap": 18489072054.1803,
       "headlines": [
         {
           "title": "Permian Resources (PR) Stock Still Looks Cheap As Its 371% Run Continues",
@@ -1323,10 +1325,10 @@
     {
       "symbol": "OVV",
       "name": "Ovintiv",
-      "price": 60.34,
+      "price": 60.47,
       "previous_close": 62.37,
-      "change_pct": -3.25,
-      "market_cap": 16690044042.20581,
+      "change_pct": -3.05,
+      "market_cap": 16726002337.646484,
       "headlines": [
         {
           "title": "3 U.S. Energy Stocks With Oil Linked Cash Flow Potential",
@@ -1351,10 +1353,10 @@
     {
       "symbol": "APA",
       "name": "APA Corp",
-      "price": 43.87,
+      "price": 43.9,
       "previous_close": 44.87,
-      "change_pct": -2.24,
-      "market_cap": 15366417442.437592,
+      "change_pct": -2.15,
+      "market_cap": 15383900002.031975,
       "headlines": [
         {
           "title": "APA Corp. (APA) Cuts Rigs In Half And Still Raises Its Oil Forecast",
@@ -1379,10 +1381,10 @@
     {
       "symbol": "TLN",
       "name": "Talen Energy",
-      "price": 295.75,
+      "price": 295.65,
       "previous_close": 292.3,
-      "change_pct": 1.18,
-      "market_cap": 14170642099.25,
+      "change_pct": 1.15,
+      "market_cap": 14204182665.440857,
       "headlines": [
         {
           "title": "TLN Drops 33.3% in 3 Months as Risks Test Its Cash Flow Story",
@@ -1407,10 +1409,10 @@
     {
       "symbol": "BWXT",
       "name": "BWX Technologies",
-      "price": 148.62,
+      "price": 148.5,
       "previous_close": 147.52,
-      "change_pct": 0.74,
-      "market_cap": 13622355315.340576,
+      "change_pct": 0.66,
+      "market_cap": 13605864030.0,
       "headlines": [
         {
           "title": "1 Industrials Stock for Long-Term Investors and 2 We Question",
@@ -1435,10 +1437,10 @@
     {
       "symbol": "NXT",
       "name": "Nextracker",
-      "price": 82.37,
+      "price": 82.21,
       "previous_close": 80.47,
-      "change_pct": 2.36,
-      "market_cap": 12478235400.670776,
+      "change_pct": 2.16,
+      "market_cap": 12499477440.862427,
       "headlines": [
         {
           "title": "3 Stocks Linked To California Wealth Tax Spending Investors Should Watch",
@@ -1461,40 +1463,12 @@
       ]
     },
     {
-      "symbol": "AR",
-      "name": "Antero Resources",
-      "price": 33.81,
-      "previous_close": 34.86,
-      "change_pct": -3.03,
-      "market_cap": 10392975488.822937,
-      "headlines": [
-        {
-          "title": "Antero Resources (AR): Buy, Sell, or Hold Post Q2 Earnings?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/antero-resources-ar-buy-sell-180731566.html",
-          "publisher": "StockStory",
-          "published": "2026-09-15T18:07:31Z"
-        },
-        {
-          "title": "Natural Gas Ends Week Lower, but LNG Demand Offers Support",
-          "url": "https://finance.yahoo.com/energy/articles/natural-gas-ends-week-lower-133200131.html",
-          "publisher": "Zacks",
-          "published": "2026-09-14T13:32:00Z"
-        },
-        {
-          "title": "Antero Resources (AR) Stock Looks Like A Bargain On Earnings",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/antero-resources-ar-stock-looks-001357158.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-09-06T00:13:57Z"
-        }
-      ]
-    },
-    {
       "symbol": "BEP",
       "name": "Brookfield Renewable",
       "price": 29.98,
       "previous_close": 29.83,
-      "change_pct": 0.49,
-      "market_cap": 9090697166.5656,
+      "change_pct": 0.5,
+      "market_cap": 9092213291.87128,
       "headlines": [
         {
           "title": "Westinghouse Could IPO at a $50 Billion Valuation. Cameco's Stake Alone Would Be Worth $24.5 Billion.",
@@ -1519,10 +1493,10 @@
     {
       "symbol": "OKLO",
       "name": "Oklo",
-      "price": 40.62,
+      "price": 40.51,
       "previous_close": 38.0,
-      "change_pct": 6.91,
-      "market_cap": 7550456441.884041,
+      "change_pct": 6.61,
+      "market_cap": 7546736003.731918,
       "headlines": [
         {
           "title": "Oklo Climbs 5% as Nuclear Names Bounce Back From Last Week\u2019s Selloff; NuScale Power Gains 4%, Uranium Energy Rises 3%",
@@ -1547,10 +1521,10 @@
     {
       "symbol": "NOV",
       "name": "NOV Inc",
-      "price": 19.81,
+      "price": 19.82,
       "previous_close": 20.07,
-      "change_pct": -1.32,
-      "market_cap": 7060049374.41349,
+      "change_pct": -1.27,
+      "market_cap": 7067179100.096226,
       "headlines": [
         {
           "title": "Here's Why Investors Should Take a Wait-and-See Approach to NOV Stock",
@@ -1577,8 +1551,8 @@
       "name": "NexGen Energy",
       "price": 9.73,
       "previous_close": 9.35,
-      "change_pct": 4.06,
-      "market_cap": 6524024055.796665,
+      "change_pct": 4.12,
+      "market_cap": 6530729270.273333,
       "headlines": [
         {
           "title": "Every New Reactor Needs Fuel: 3 Uranium Stocks Positioned for the Nuclear Buildout",
@@ -1603,10 +1577,10 @@
     {
       "symbol": "WFRD",
       "name": "Weatherford",
-      "price": 79.59,
+      "price": 79.66,
       "previous_close": 82.03,
-      "change_pct": -2.97,
-      "market_cap": 5705444145.850067,
+      "change_pct": -2.89,
+      "market_cap": 5716197071.6833725,
       "headlines": [
         {
           "title": "1 of Wall Street\u2019s Favorite Stocks to Own for Decades and 2 We Ignore",
@@ -1631,10 +1605,10 @@
     {
       "symbol": "UEC",
       "name": "Uranium Energy Corp",
-      "price": 10.07,
+      "price": 10.09,
       "previous_close": 9.81,
-      "change_pct": 2.65,
-      "market_cap": 4985838993.060587,
+      "change_pct": 2.8,
+      "market_cap": 4990787829.987883,
       "headlines": [
         {
           "title": "Oklo Climbs 5% as Nuclear Names Bounce Back From Last Week\u2019s Selloff; NuScale Power Gains 4%, Uranium Energy Rises 3%",
@@ -1659,10 +1633,10 @@
     {
       "symbol": "ENPH",
       "name": "Enphase Energy",
-      "price": 34.57,
+      "price": 34.45,
       "previous_close": 34.64,
-      "change_pct": -0.2,
-      "market_cap": 4547038590.0,
+      "change_pct": -0.55,
+      "market_cap": 4543084804.286499,
       "headlines": [
         {
           "title": "Enphase Energy, Inc. (ENPH) is Attracting Investor Attention: Here is What You Should Know",
@@ -1687,10 +1661,10 @@
     {
       "symbol": "SMR",
       "name": "NuScale Power",
-      "price": 8.87,
+      "price": 8.89,
       "previous_close": 8.27,
-      "change_pct": 7.3,
-      "market_cap": 3638595763.4343815,
+      "change_pct": 7.44,
+      "market_cap": 3650414986.0514145,
       "headlines": [
         {
           "title": "Oklo Climbs 5% as Nuclear Names Bounce Back From Last Week\u2019s Selloff; NuScale Power Gains 4%, Uranium Energy Rises 3%",
@@ -1715,10 +1689,10 @@
     {
       "symbol": "LEU",
       "name": "Centrus Energy",
-      "price": 154.0,
+      "price": 154.45,
       "previous_close": 145.23,
-      "change_pct": 6.04,
-      "market_cap": 3155914626.817932,
+      "change_pct": 6.35,
+      "market_cap": 3156528195.0907593,
       "headlines": [
         {
           "title": "1 Small-Cap Stock with Exciting Potential and 2 We Find Risky",
@@ -1743,10 +1717,10 @@
     {
       "symbol": "UUUU",
       "name": "Energy Fuels",
-      "price": 12.12,
+      "price": 12.15,
       "previous_close": 11.7,
-      "change_pct": 3.56,
-      "market_cap": 3038324508.252144,
+      "change_pct": 3.85,
+      "market_cap": 3040824215.464592,
       "headlines": [
         {
           "title": "Energy Fuels (TSX:EFR) Could Be 60% Undervalued After Its September Investor Call",
@@ -1771,10 +1745,10 @@
     {
       "symbol": "SEDG",
       "name": "SolarEdge",
-      "price": 34.44,
+      "price": 34.37,
       "previous_close": 34.68,
-      "change_pct": -0.71,
-      "market_cap": 2118639216.872757,
+      "change_pct": -0.89,
+      "market_cap": 2110948498.372757,
       "headlines": [
         {
           "title": "SolarEdge Technologies (SEDG) Stock Dips While Market Gains: Key Facts",
@@ -1799,10 +1773,10 @@
     {
       "symbol": "RUN",
       "name": "Sunrun",
-      "price": 8.88,
+      "price": 8.84,
       "previous_close": 8.53,
-      "change_pct": 4.04,
-      "market_cap": 2117124922.125,
+      "change_pct": 3.63,
+      "market_cap": 2107582959.7449331,
       "headlines": [
         {
           "title": "2 Industrials Stocks to Consider Right Now and 1 That Underwhelm",
@@ -1829,8 +1803,8 @@
       "name": "Eos Energy",
       "price": 4.12,
       "previous_close": 3.96,
-      "change_pct": 4.12,
-      "market_cap": 1500662446.1433105,
+      "change_pct": 4.17,
+      "market_cap": 1498550183.2086182,
       "headlines": [
         {
           "title": "Eos Energy Enterprises vs. NANO Nuclear Energy: Which Stock Is a Better Buy in 2026?",
@@ -1857,8 +1831,8 @@
       "name": "Fluence Energy",
       "price": 7.34,
       "previous_close": 7.32,
-      "change_pct": 0.34,
-      "market_cap": 1050820757.7650299,
+      "change_pct": 0.2,
+      "market_cap": 1047957488.7356586,
       "headlines": [
         {
           "title": "What an AI Slowdown Would Mean for Energy Stocks",
@@ -1883,10 +1857,10 @@
     {
       "symbol": "ARRY",
       "name": "Array Technologies",
-      "price": 4.12,
+      "price": 4.11,
       "previous_close": 4.06,
-      "change_pct": 1.48,
-      "market_cap": 633764659.7559681,
+      "change_pct": 1.24,
+      "market_cap": 632995510.2619362,
       "headlines": [
         {
           "title": "Why Array (ARRY) Shares Are Plunging Today",
@@ -1921,8 +1895,8 @@
           "name": "ExxonMobil Holdings Corp",
           "short": "ExxonMobil",
           "weight_pct": 19.86,
-          "change_pct": -2.78,
-          "price": 158.99,
+          "change_pct": -2.69,
+          "price": 159.14,
           "currency": "USD"
         },
         {
@@ -1930,8 +1904,8 @@
           "name": "Chevron Corp",
           "short": "Chevron",
           "weight_pct": 14.89,
-          "change_pct": -1.9,
-          "price": 205.53,
+          "change_pct": -1.85,
+          "price": 205.64,
           "currency": "USD"
         },
         {
@@ -1939,8 +1913,8 @@
           "name": "ConocoPhillips",
           "short": "ConocoPhillips",
           "weight_pct": 6.23,
-          "change_pct": -3.05,
-          "price": 127.81,
+          "change_pct": -2.94,
+          "price": 127.95,
           "currency": "USD"
         },
         {
@@ -1948,8 +1922,8 @@
           "name": "Marathon Petroleum Corp",
           "short": "Marathon",
           "weight_pct": 5.42,
-          "change_pct": -2.46,
-          "price": 414.45,
+          "change_pct": -2.3,
+          "price": 415.12,
           "currency": "USD"
         },
         {
@@ -1957,8 +1931,8 @@
           "name": "Phillips 66",
           "short": "Phillips",
           "weight_pct": 5.33,
-          "change_pct": -2.35,
-          "price": 266.71,
+          "change_pct": -2.19,
+          "price": 267.15,
           "currency": "USD"
         },
         {
@@ -1966,8 +1940,8 @@
           "name": "Valero Energy Corp",
           "short": "Valero",
           "weight_pct": 5.07,
-          "change_pct": -2.04,
-          "price": 404.85,
+          "change_pct": -1.85,
+          "price": 405.65,
           "currency": "USD"
         },
         {
@@ -1975,8 +1949,8 @@
           "name": "SLB Ltd",
           "short": "SLB",
           "weight_pct": 4.88,
-          "change_pct": -0.67,
-          "price": 50.78,
+          "change_pct": -0.69,
+          "price": 50.76,
           "currency": "USD"
         },
         {
@@ -1984,8 +1958,8 @@
           "name": "EOG Resources Inc",
           "short": "EOG Resources",
           "weight_pct": 4.13,
-          "change_pct": -2.4,
-          "price": 140.77,
+          "change_pct": -2.33,
+          "price": 140.87,
           "currency": "USD"
         },
         {
@@ -1993,8 +1967,8 @@
           "name": "Williams Companies Inc",
           "short": "Williams",
           "weight_pct": 3.78,
-          "change_pct": -0.51,
-          "price": 71.68,
+          "change_pct": -0.58,
+          "price": 71.63,
           "currency": "USD"
         },
         {
@@ -2020,8 +1994,8 @@
         "name": "ExxonMobil Holdings Corp",
         "short": "ExxonMobil",
         "weight_pct": 19.86,
-        "change_pct": -2.78,
-        "price": 158.99,
+        "change_pct": -2.69,
+        "price": 159.14,
         "currency": "USD"
       },
       {
@@ -2029,8 +2003,8 @@
         "name": "Chevron Corp",
         "short": "Chevron",
         "weight_pct": 14.89,
-        "change_pct": -1.9,
-        "price": 205.53,
+        "change_pct": -1.85,
+        "price": 205.64,
         "currency": "USD"
       },
       {
@@ -2038,8 +2012,8 @@
         "name": "ConocoPhillips",
         "short": "ConocoPhillips",
         "weight_pct": 6.23,
-        "change_pct": -3.05,
-        "price": 127.81,
+        "change_pct": -2.94,
+        "price": 127.95,
         "currency": "USD"
       },
       {
@@ -2047,8 +2021,8 @@
         "name": "Marathon Petroleum Corp",
         "short": "Marathon",
         "weight_pct": 5.42,
-        "change_pct": -2.46,
-        "price": 414.45,
+        "change_pct": -2.3,
+        "price": 415.12,
         "currency": "USD"
       },
       {
@@ -2056,8 +2030,8 @@
         "name": "Phillips 66",
         "short": "Phillips",
         "weight_pct": 5.33,
-        "change_pct": -2.35,
-        "price": 266.71,
+        "change_pct": -2.19,
+        "price": 267.15,
         "currency": "USD"
       },
       {
@@ -2065,8 +2039,8 @@
         "name": "Valero Energy Corp",
         "short": "Valero",
         "weight_pct": 5.07,
-        "change_pct": -2.04,
-        "price": 404.85,
+        "change_pct": -1.85,
+        "price": 405.65,
         "currency": "USD"
       },
       {
@@ -2074,8 +2048,8 @@
         "name": "SLB Ltd",
         "short": "SLB",
         "weight_pct": 4.88,
-        "change_pct": -0.67,
-        "price": 50.78,
+        "change_pct": -0.69,
+        "price": 50.76,
         "currency": "USD"
       },
       {
@@ -2083,8 +2057,8 @@
         "name": "EOG Resources Inc",
         "short": "EOG Resources",
         "weight_pct": 4.13,
-        "change_pct": -2.4,
-        "price": 140.77,
+        "change_pct": -2.33,
+        "price": 140.87,
         "currency": "USD"
       },
       {
@@ -2092,8 +2066,8 @@
         "name": "Williams Companies Inc",
         "short": "Williams",
         "weight_pct": 3.78,
-        "change_pct": -0.51,
-        "price": 71.68,
+        "change_pct": -0.58,
+        "price": 71.63,
         "currency": "USD"
       },
       {
@@ -2110,8 +2084,8 @@
   "tape": [
     {
       "label": "SPX",
-      "price": 7730.61,
-      "change_pct": 1.05
+      "price": 7729.97,
+      "change_pct": 1.04
     },
     {
       "label": "WTI",
@@ -2120,8 +2094,8 @@
     },
     {
       "label": "Brent",
-      "price": 100.36,
-      "change_pct": -3.38
+      "price": 100.41,
+      "change_pct": -3.33
     },
     {
       "label": "NatGas",
