@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-21T12:57:20+00:00",
-  "as_of_local": "2026-09-21 12:57:20 UTC",
+  "as_of_utc": "2026-09-21T13:02:18+00:00",
+  "as_of_local": "2026-09-21 13:02:18 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -181,6 +181,12 @@
       "market_cap": 164980663732.91016,
       "headlines": [
         {
+          "title": "Eaton (ETN) Surges 3.7%: Is This an Indication of Further Gains?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/eaton-etn-surges-3-7-124500040.html",
+          "publisher": "Zacks",
+          "published": "2026-09-21T12:45:00Z"
+        },
+        {
           "title": "3 AI Infrastructure Stocks To Watch As Data Center Spending Reshapes Demand",
           "url": "https://finance.yahoo.com/technology/ai/articles/3-ai-infrastructure-stocks-watch-101238783.html",
           "publisher": "Simply Wall St.",
@@ -191,12 +197,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/bofa-cuts-chase-ai-data-013700947.html",
           "publisher": "TheStreet",
           "published": "2026-09-21T01:37:00Z"
-        },
-        {
-          "title": "Eaton (ETN) Launches Workbench 360 As Investors Ask If The Valuation Is Already Priced In",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/eaton-etn-launches-workbench-360-221423040.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-09-18T22:14:23Z"
         }
       ]
     },
@@ -319,7 +319,26 @@
       "previous_close": 274.21,
       "change_pct": -0.39,
       "market_cap": 108984584735.42432,
-      "headlines": []
+      "headlines": [
+        {
+          "title": "BMO Sees Phillips 66 (PSX) Breaking into New Highs",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bmo-sees-phillips-66-psx-163523482.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-09-20T16:35:23Z"
+        },
+        {
+          "title": "UBS Sees Phillips 66 (PSX) Blazing Past its Record High",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ubs-sees-phillips-66-psx-151252128.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-09-20T15:12:52Z"
+        },
+        {
+          "title": "ExxonMobil Stock And Oil Majors Facing New Pressure On Global Supply Routes",
+          "url": "https://finance.yahoo.com/energy/articles/exxonmobil-stock-oil-majors-facing-101123454.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-09-20T10:11:23Z"
+        }
+      ]
     },
     {
       "symbol": "EQNR",
@@ -2096,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 93.16,
-      "change_pct": -7.12
+      "price": 93.45,
+      "change_pct": -6.83
     },
     {
       "label": "Brent",
-      "price": 100.88,
-      "change_pct": -2.88
+      "price": 101.1,
+      "change_pct": -2.67
     },
     {
       "label": "NatGas",
       "price": 2.84,
-      "change_pct": -2.54
+      "change_pct": -2.37
     }
   ]
 }
