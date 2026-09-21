@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-21T11:21:07+00:00",
-  "as_of_local": "2026-09-21 11:21:07 UTC",
+  "as_of_utc": "2026-09-21T11:25:57+00:00",
+  "as_of_local": "2026-09-21 11:25:57 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -909,6 +909,12 @@
       "market_cap": 55421375201.36932,
       "headlines": [
         {
+          "title": "3 U.S. Energy Stocks Retail Investors Are Watching for Inflation Resilience",
+          "url": "https://finance.yahoo.com/energy/articles/3-u-energy-stocks-retail-111458824.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-09-21T11:14:58Z"
+        },
+        {
           "title": "Why Did Cheniere Energy (LNG) Swing To A Quarterly Loss?",
           "url": "https://finance.yahoo.com/energy/articles/why-did-cheniere-energy-lng-051330626.html",
           "publisher": "Simply Wall St.",
@@ -919,12 +925,6 @@
           "url": "https://finance.yahoo.com/energy/articles/optimistic-cheniere-energy-lng-long-124338134.html",
           "publisher": "Insider Monkey",
           "published": "2026-09-18T12:43:38Z"
-        },
-        {
-          "title": "Running on Empty: 3 Energy Plays for Europe's Deep Freeze",
-          "url": "https://finance.yahoo.com/energy/articles/running-empty-3-energy-plays-184000131.html",
-          "publisher": "MarketBeat",
-          "published": "2026-09-15T18:40:00Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 93.61,
-      "change_pct": -6.67
+      "price": 93.54,
+      "change_pct": -6.74
     },
     {
       "label": "Brent",
-      "price": 97.13,
-      "change_pct": -6.49
+      "price": 97.11,
+      "change_pct": -6.51
     },
     {
       "label": "NatGas",
       "price": 2.86,
-      "change_pct": -1.79
+      "change_pct": -1.68
     }
   ]
 }
