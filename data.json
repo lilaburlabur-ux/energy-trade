@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-21T12:26:37+00:00",
-  "as_of_local": "2026-09-21 12:26:37 UTC",
+  "as_of_utc": "2026-09-21T12:31:43+00:00",
+  "as_of_local": "2026-09-21 12:31:43 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -1803,26 +1803,7 @@
       "previous_close": 8.73,
       "change_pct": -2.23,
       "market_cap": 2034825354.410468,
-      "headlines": [
-        {
-          "title": "Enphase Energy Drops 5% as Solar Selling Resumes; First Solar and Sunrun Fall 4%",
-          "url": "https://finance.yahoo.com/energy/articles/enphase-energy-drops-5-solar-170151130.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-09-18T17:01:51Z"
-        },
-        {
-          "title": "Should Sunrun\u2019s (RUN) New Capital Raise and Outage Messaging Reframe Its Resilience-Focused Investment Story?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/sunrun-run-capital-raise-outage-161148612.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-09-18T16:11:48Z"
-        },
-        {
-          "title": "Sunrun (RUN) Could Be 49% Undervalued After Its $100 Million Private Placement",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/sunrun-run-could-49-undervalued-221552881.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-09-17T22:15:52Z"
-        }
-      ]
+      "headlines": []
     },
     {
       "symbol": "EOSE",
@@ -2115,18 +2096,18 @@
     },
     {
       "label": "WTI",
-      "price": 93.3,
-      "change_pct": -6.98
+      "price": 93.14,
+      "change_pct": -7.14
     },
     {
       "label": "Brent",
-      "price": 97.0,
-      "change_pct": -6.61
+      "price": 96.89,
+      "change_pct": -6.72
     },
     {
       "label": "NatGas",
       "price": 2.85,
-      "change_pct": -2.16
+      "change_pct": -2.27
     }
   ]
 }
