@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-21T11:56:10+00:00",
-  "as_of_local": "2026-09-21 11:56:10 UTC",
+  "as_of_utc": "2026-09-21T12:01:36+00:00",
+  "as_of_local": "2026-09-21 12:01:36 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -151,7 +151,26 @@
       "previous_close": 81.28,
       "change_pct": -1.0,
       "market_cap": 167858669024.59012,
-      "headlines": []
+      "headlines": [
+        {
+          "title": "NextEra (NEE) and Dominion (D) Unveil a Bigger Pitch for Virginia",
+          "url": "https://finance.yahoo.com/energy/articles/nextera-nee-dominion-d-unveil-153356972.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-09-20T15:33:56Z"
+        },
+        {
+          "title": "NextEra\u2019s Nuclear Bet Just Got a $1.9 Billion Boost",
+          "url": "https://finance.yahoo.com/energy/articles/nextera-nuclear-bet-just-got-152438612.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-09-20T15:24:38Z"
+        },
+        {
+          "title": "Brookfield Asset Management Targets Doubling Fee-Bearing Capital by 2031",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/brookfield-asset-management-targets-doubling-000200712.html",
+          "publisher": "MarketBeat",
+          "published": "2026-09-20T00:02:00Z"
+        }
+      ]
     },
     {
       "symbol": "ETN",
@@ -2096,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 93.39,
-      "change_pct": -6.89
+      "price": 93.5,
+      "change_pct": -6.78
     },
     {
       "label": "Brent",
-      "price": 96.99,
-      "change_pct": -6.62
+      "price": 97.06,
+      "change_pct": -6.56
     },
     {
       "label": "NatGas",
-      "price": 2.83,
-      "change_pct": -2.68
+      "price": 2.84,
+      "change_pct": -2.54
     }
   ]
 }
