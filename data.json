@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-21T13:07:18+00:00",
-  "as_of_local": "2026-09-21 13:07:18 UTC",
+  "as_of_utc": "2026-09-21T13:12:19+00:00",
+  "as_of_local": "2026-09-21 13:12:19 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -13,6 +13,12 @@
       "market_cap": 672462054331.5692,
       "headlines": [
         {
+          "title": "Zacks Market Edge Highlights: ExxonMobil, JPMorgan Chase and NVIDIA",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-market-edge-highlights-exxonmobil-130200702.html",
+          "publisher": "Zacks",
+          "published": "2026-09-21T13:02:00Z"
+        },
+        {
           "title": "Same Conference, Same Day, Same Bet: Chevron and ExxonMobil Double Down on LNG",
           "url": "https://finance.yahoo.com/energy/articles/same-conference-same-day-same-094121233.html",
           "publisher": "Insider Monkey",
@@ -23,12 +29,6 @@
           "url": "https://finance.yahoo.com/energy/articles/big-oil-production-keeps-soaring-230000062.html",
           "publisher": "Oilprice.com",
           "published": "2026-09-20T23:00:00Z"
-        },
-        {
-          "title": "Exxon (XOM) Eyes a Return to Venezuela After Nearly Two Decades Away",
-          "url": "https://finance.yahoo.com/energy/articles/exxon-xom-eyes-return-venezuela-164059135.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-09-20T16:40:59Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 93.56,
-      "change_pct": -6.72
+      "price": 93.2,
+      "change_pct": -7.08
     },
     {
       "label": "Brent",
-      "price": 101.25,
-      "change_pct": -2.52
+      "price": 101.0,
+      "change_pct": -2.76
     },
     {
       "label": "NatGas",
       "price": 2.85,
-      "change_pct": -2.03
+      "change_pct": -2.09
     }
   ]
 }
