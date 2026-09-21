@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-21T09:59:41+00:00",
-  "as_of_local": "2026-09-21 09:59:41 UTC",
+  "as_of_utc": "2026-09-21T10:04:57+00:00",
+  "as_of_local": "2026-09-21 10:04:57 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -293,12 +293,6 @@
       "market_cap": 114808763914.63257,
       "headlines": [
         {
-          "title": "European Stocks Open Week Higher as Tech, Banks Gain",
-          "url": "https://www.wsj.com/finance/stocks/chip-boom-to-boost-korean-companies-cash-goldman-sachs-says-8862719a?siteid=yhoof2&yptr=yahoo",
-          "publisher": "The Wall Street Journal",
-          "published": "2026-09-21T07:30:00Z"
-        },
-        {
           "title": "Big Oil\u2019s Production Keeps Soaring Despite Deep Spending Cuts",
           "url": "https://finance.yahoo.com/energy/articles/big-oil-production-keeps-soaring-230000062.html",
           "publisher": "Oilprice.com",
@@ -309,6 +303,12 @@
           "url": "https://finance.yahoo.com/energy/articles/why-bp-lse-bp-reshaping-180828419.html",
           "publisher": "Simply Wall St.",
           "published": "2026-09-20T18:08:28Z"
+        },
+        {
+          "title": "Sector Update: Energy Stocks Fall Late Afternoon",
+          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-fall-afternoon-200621416.html",
+          "publisher": "MT Newswires",
+          "published": "2026-09-18T20:06:21Z"
         }
       ]
     },
@@ -1749,22 +1749,22 @@
       "market_cap": 2970404787.454895,
       "headlines": [
         {
+          "title": "1 Small-Cap Stock with Exciting Potential and 2 We Find Risky",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/1-small-cap-stock-exciting-095825470.html",
+          "publisher": "StockStory",
+          "published": "2026-09-21T09:58:25Z"
+        },
+        {
+          "title": "A Safer Way to Bet on Nuclear",
+          "url": "https://www.wsj.com/finance/investing/a-safer-way-to-bet-on-nuclear-2d9064f6?siteid=yhoof2&yptr=yahoo",
+          "publisher": "The Wall Street Journal",
+          "published": "2026-09-21T09:30:00Z"
+        },
+        {
           "title": "Centrus Energy (LEU) Lands New HALEU Deal with Antares",
           "url": "https://finance.yahoo.com/energy/articles/centrus-energy-leu-lands-haleu-163159900.html",
           "publisher": "Insider Monkey",
           "published": "2026-09-20T16:31:59Z"
-        },
-        {
-          "title": "Centrus Energy (LEU) Signs Two HALEU Supply Agreements Backing Reactor And Security Demand",
-          "url": "https://finance.yahoo.com/energy/articles/centrus-energy-leu-signs-two-161308308.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-09-19T16:13:08Z"
-        },
-        {
-          "title": "NuScale Power Drops 7% as Nuclear Stocks Hand Back the Vote Rally; Oklo Falls 5%, Centrus Energy Slides 3%",
-          "url": "https://finance.yahoo.com/energy/articles/nuscale-power-drops-7-nuclear-154947830.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-09-18T15:49:47Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 94.02,
-      "change_pct": -6.26
+      "price": 93.68,
+      "change_pct": -6.6
     },
     {
       "label": "Brent",
-      "price": 97.52,
-      "change_pct": -6.11
+      "price": 97.34,
+      "change_pct": -6.29
     },
     {
       "label": "NatGas",
       "price": 2.88,
-      "change_pct": -1.2
+      "change_pct": -1.06
     }
   ]
 }
