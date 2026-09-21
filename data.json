@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-21T08:13:16+00:00",
-  "as_of_local": "2026-09-21 08:13:16 UTC",
+  "as_of_utc": "2026-09-21T08:18:15+00:00",
+  "as_of_local": "2026-09-21 08:18:15 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -293,6 +293,12 @@
       "market_cap": 114808763914.63257,
       "headlines": [
         {
+          "title": "European Stocks Open Week Higher as Tech, Banks Gain",
+          "url": "https://www.wsj.com/finance/stocks/chip-boom-to-boost-korean-companies-cash-goldman-sachs-says-8862719a?siteid=yhoof2&yptr=yahoo",
+          "publisher": "The Wall Street Journal",
+          "published": "2026-09-21T07:30:00Z"
+        },
+        {
           "title": "Big Oil\u2019s Production Keeps Soaring Despite Deep Spending Cuts",
           "url": "https://finance.yahoo.com/energy/articles/big-oil-production-keeps-soaring-230000062.html",
           "publisher": "Oilprice.com",
@@ -303,12 +309,6 @@
           "url": "https://finance.yahoo.com/energy/articles/why-bp-lse-bp-reshaping-180828419.html",
           "publisher": "Simply Wall St.",
           "published": "2026-09-20T18:08:28Z"
-        },
-        {
-          "title": "Sector Update: Energy Stocks Fall Late Afternoon",
-          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-fall-afternoon-200621416.html",
-          "publisher": "MT Newswires",
-          "published": "2026-09-18T20:06:21Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 94.18,
-      "change_pct": -6.1
+      "price": 94.17,
+      "change_pct": -6.11
     },
     {
       "label": "Brent",
-      "price": 97.61,
-      "change_pct": -6.03
+      "price": 97.6,
+      "change_pct": -6.04
     },
     {
       "label": "NatGas",
       "price": 2.88,
-      "change_pct": -1.2
+      "change_pct": -0.96
     }
   ]
 }
