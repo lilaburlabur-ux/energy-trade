@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-09-21T12:01:36+00:00",
-  "as_of_local": "2026-09-21 12:01:36 UTC",
+  "as_of_utc": "2026-09-21T12:06:25+00:00",
+  "as_of_local": "2026-09-21 12:06:25 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NOV"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -265,6 +267,12 @@
       "market_cap": 118994660730.60605,
       "headlines": [
         {
+          "title": "5 Top-Ranked Stocks Likely to Deliver Earnings Beats",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/5-top-ranked-stocks-likely-115600550.html",
+          "publisher": "Zacks",
+          "published": "2026-09-21T11:56:00Z"
+        },
+        {
           "title": "3 U.S. Refining Stocks With Diesel And Jet Fuel Margin Upside",
           "url": "https://finance.yahoo.com/energy/articles/3-u-refining-stocks-diesel-021557403.html",
           "publisher": "Simply Wall St.",
@@ -275,12 +283,6 @@
           "url": "https://finance.yahoo.com/energy/articles/morgan-stanley-sees-more-fuel-153825351.html",
           "publisher": "Insider Monkey",
           "published": "2026-09-20T15:38:25Z"
-        },
-        {
-          "title": "What Does Valero Energy (VLO) Gain From Adding Matt Audette To Its Board?",
-          "url": "https://finance.yahoo.com/energy/articles/does-valero-energy-vlo-gain-041756939.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-09-20T04:17:56Z"
         }
       ]
     },
@@ -1517,34 +1519,6 @@
       ]
     },
     {
-      "symbol": "NOV",
-      "name": "NOV Inc",
-      "price": 20.07,
-      "previous_close": 20.53,
-      "change_pct": -2.24,
-      "market_cap": 7154515859.96151,
-      "headlines": [
-        {
-          "title": "FET vs. NOV: Which Energy Equipment Company Has an Edge?",
-          "url": "https://finance.yahoo.com/energy/articles/fet-vs-nov-energy-equipment-140800878.html",
-          "publisher": "Zacks",
-          "published": "2026-09-18T14:08:00Z"
-        },
-        {
-          "title": "Q2 Earnings Outperformers: NOV (NYSE:NOV) And The Rest Of The Oilfield Services Stocks",
-          "url": "https://finance.yahoo.com/energy/articles/q2-earnings-outperformers-nov-nyse-155131290.html",
-          "publisher": "StockStory",
-          "published": "2026-09-15T15:51:31Z"
-        },
-        {
-          "title": "Is FET's \"Beat the Market\" Strategy Its Key to Faster Growth?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/fets-beat-market-strategy-key-152400712.html",
-          "publisher": "Zacks",
-          "published": "2026-09-14T15:24:00Z"
-        }
-      ]
-    },
-    {
       "symbol": "OKLO",
       "name": "Oklo",
       "price": 38.0,
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 93.5,
-      "change_pct": -6.78
+      "price": 93.37,
+      "change_pct": -6.91
     },
     {
       "label": "Brent",
-      "price": 97.06,
-      "change_pct": -6.56
+      "price": 96.91,
+      "change_pct": -6.7
     },
     {
       "label": "NatGas",
-      "price": 2.84,
-      "change_pct": -2.54
+      "price": 2.85,
+      "change_pct": -2.13
     }
   ]
 }
