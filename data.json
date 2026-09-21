@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-21T09:03:50+00:00",
-  "as_of_local": "2026-09-21 09:03:50 UTC",
+  "as_of_utc": "2026-09-21T09:08:57+00:00",
+  "as_of_local": "2026-09-21 09:08:57 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -97,6 +97,12 @@
       "market_cap": 250441460773.32928,
       "headlines": [
         {
+          "title": "What Higher Interest Rates Mean for Caterpillar, GE Vernova, and Vertiv",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/higher-interest-rates-mean-caterpillar-085500295.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-21T08:55:00Z"
+        },
+        {
           "title": "BofA cuts to the chase on AI data center demand",
           "url": "https://finance.yahoo.com/technology/ai/articles/bofa-cuts-chase-ai-data-013700947.html",
           "publisher": "TheStreet",
@@ -107,12 +113,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/eos-energy-enterprises-vs-ge-172909972.html",
           "publisher": "Motley Fool",
           "published": "2026-09-20T17:29:09Z"
-        },
-        {
-          "title": "GE Vernova\u2019s (GEV) $200 Billion Backlog is Coming Sooner than Expected",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-gev-200-billion-154331999.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-09-20T15:43:31Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 94.1,
-      "change_pct": -6.18
+      "price": 94.16,
+      "change_pct": -6.12
     },
     {
       "label": "Brent",
-      "price": 97.5,
-      "change_pct": -6.13
+      "price": 97.68,
+      "change_pct": -5.96
     },
     {
       "label": "NatGas",
       "price": 2.88,
-      "change_pct": -1.0
+      "change_pct": -1.06
     }
   ]
 }
