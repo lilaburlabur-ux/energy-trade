@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-21T10:40:10+00:00",
-  "as_of_local": "2026-09-21 10:40:10 UTC",
+  "as_of_utc": "2026-09-21T10:45:16+00:00",
+  "as_of_local": "2026-09-21 10:45:16 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -125,6 +125,12 @@
       "market_cap": 200624561477.016,
       "headlines": [
         {
+          "title": "TotalEnergies partners with GIP for African oil and gas assets",
+          "url": "https://finance.yahoo.com/energy/articles/totalenergies-partners-gip-african-oil-103910968.html",
+          "publisher": "Offshore Technology",
+          "published": "2026-09-21T10:39:10Z"
+        },
+        {
           "title": "Big Oil\u2019s Production Keeps Soaring Despite Deep Spending Cuts",
           "url": "https://finance.yahoo.com/energy/articles/big-oil-production-keeps-soaring-230000062.html",
           "publisher": "Oilprice.com",
@@ -135,12 +141,6 @@
           "url": "https://finance.yahoo.com/energy/articles/totalenergies-enxtpa-tte-ties-1-011302595.html",
           "publisher": "Simply Wall St.",
           "published": "2026-09-20T01:13:02Z"
-        },
-        {
-          "title": "Sector Update: Energy Stocks Fall Late Afternoon",
-          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-fall-afternoon-200621416.html",
-          "publisher": "MT Newswires",
-          "published": "2026-09-18T20:06:21Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 93.09,
-      "change_pct": -7.19
+      "price": 92.92,
+      "change_pct": -7.36
     },
     {
       "label": "Brent",
-      "price": 96.69,
-      "change_pct": -6.91
+      "price": 96.48,
+      "change_pct": -7.11
     },
     {
       "label": "NatGas",
       "price": 2.87,
-      "change_pct": -1.3
+      "change_pct": -1.55
     }
   ]
 }
