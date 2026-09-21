@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-09-21T12:06:25+00:00",
-  "as_of_local": "2026-09-21 12:06:25 UTC",
+  "as_of_utc": "2026-09-21T12:11:34+00:00",
+  "as_of_local": "2026-09-21 12:11:34 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "NOV"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1519,6 +1517,34 @@
       ]
     },
     {
+      "symbol": "NOV",
+      "name": "NOV Inc",
+      "price": 20.07,
+      "previous_close": 20.53,
+      "change_pct": -2.24,
+      "market_cap": 7154515859.96151,
+      "headlines": [
+        {
+          "title": "FET vs. NOV: Which Energy Equipment Company Has an Edge?",
+          "url": "https://finance.yahoo.com/energy/articles/fet-vs-nov-energy-equipment-140800878.html",
+          "publisher": "Zacks",
+          "published": "2026-09-18T14:08:00Z"
+        },
+        {
+          "title": "Q2 Earnings Outperformers: NOV (NYSE:NOV) And The Rest Of The Oilfield Services Stocks",
+          "url": "https://finance.yahoo.com/energy/articles/q2-earnings-outperformers-nov-nyse-155131290.html",
+          "publisher": "StockStory",
+          "published": "2026-09-15T15:51:31Z"
+        },
+        {
+          "title": "Is FET's \"Beat the Market\" Strategy Its Key to Faster Growth?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/fets-beat-market-strategy-key-152400712.html",
+          "publisher": "Zacks",
+          "published": "2026-09-14T15:24:00Z"
+        }
+      ]
+    },
+    {
       "symbol": "OKLO",
       "name": "Oklo",
       "price": 38.0,
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 93.37,
-      "change_pct": -6.91
+      "price": 93.56,
+      "change_pct": -6.72
     },
     {
       "label": "Brent",
-      "price": 96.91,
-      "change_pct": -6.7
+      "price": 97.1,
+      "change_pct": -6.52
     },
     {
       "label": "NatGas",
       "price": 2.85,
-      "change_pct": -2.13
+      "change_pct": -2.27
     }
   ]
 }
