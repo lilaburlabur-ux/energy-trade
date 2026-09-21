@@ -37,9 +37,9 @@ Occidental Petroleum Corporation, together with its subsidiaries, engages in the
 | Headline | Source | Date |
 |---|---|---|
 | Can ExxonMobil Turn Carbon Capture Into a Major Growth Market? | Zacks | 2026-09-21 |
-| Stocks Supported by Lower Crude Prices and Bond Yields | Barchart | 2026-09-21 |
 | Chevron vs. Occidental Petroleum: Which Oil Stock Is a Better Buy in 2026? | Motley Fool | 2026-09-21 |
 | 3 Market-Beating Stocks Worth Your Attention | StockStory | 2026-09-21 |
+| 2 Stocks to Buy if You Think $100 Oil Will Last | Motley Fool | 2026-09-18 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

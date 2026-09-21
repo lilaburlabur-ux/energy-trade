@@ -37,9 +37,9 @@ Devon Energy Corporation, an independent energy company, engages in the explorat
 | Headline | Source | Date |
 |---|---|---|
 | Energy Stock CEO Liquidates Nearly 4,000 Shares Valued at Almost $200,000 | Motley Fool | 2026-09-21 |
-| Stocks Supported by Lower Crude Prices and Bond Yields | Barchart | 2026-09-21 |
 | This Overlooked Pipeline Stock Just Became a Rival's Joint-Venture Partner Without Anyone Noticing | Motley Fool | 2026-09-20 |
 | Devon Energy (DVN) Declines More Than Market: Some Information for Investors | Zacks | 2026-09-16 |
+| Sunoco Stock Breaks Out; Oil Prices Rise With No Clear End To Hormuz Closure | Investor's Business Daily | 2026-09-15 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
