@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-21T13:02:18+00:00",
-  "as_of_local": "2026-09-21 13:02:18 UTC",
+  "as_of_utc": "2026-09-21T13:07:18+00:00",
+  "as_of_local": "2026-09-21 13:07:18 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -153,6 +153,12 @@
       "market_cap": 167858669024.59012,
       "headlines": [
         {
+          "title": "2 Big Trump Breakthroughs Can Power Stock Markets Higher",
+          "url": "https://www.barrons.com/articles/stock-market-trump-china-ai-things-to-know-today-c54dc1d4?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-09-21T11:44:00Z"
+        },
+        {
           "title": "NextEra (NEE) and Dominion (D) Unveil a Bigger Pitch for Virginia",
           "url": "https://finance.yahoo.com/energy/articles/nextera-nee-dominion-d-unveil-153356972.html",
           "publisher": "Insider Monkey",
@@ -163,12 +169,6 @@
           "url": "https://finance.yahoo.com/energy/articles/nextera-nuclear-bet-just-got-152438612.html",
           "publisher": "Insider Monkey",
           "published": "2026-09-20T15:24:38Z"
-        },
-        {
-          "title": "Brookfield Asset Management Targets Doubling Fee-Bearing Capital by 2031",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/brookfield-asset-management-targets-doubling-000200712.html",
-          "publisher": "MarketBeat",
-          "published": "2026-09-20T00:02:00Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 93.45,
-      "change_pct": -6.83
+      "price": 93.56,
+      "change_pct": -6.72
     },
     {
       "label": "Brent",
-      "price": 101.1,
-      "change_pct": -2.67
+      "price": 101.25,
+      "change_pct": -2.52
     },
     {
       "label": "NatGas",
-      "price": 2.84,
-      "change_pct": -2.37
+      "price": 2.85,
+      "change_pct": -2.03
     }
   ]
 }
