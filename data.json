@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-09-21T22:48:35+00:00",
-  "as_of_local": "2026-09-21 22:48:35 UTC",
+  "as_of_utc": "2026-09-21T22:50:25+00:00",
+  "as_of_local": "2026-09-21 22:50:25 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "FANG"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -927,6 +925,34 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/ai-concerns-moved-center-midterm-085642768.html",
           "publisher": "Investing.com",
           "published": "2026-09-19T08:56:42Z"
+        }
+      ]
+    },
+    {
+      "symbol": "FANG",
+      "name": "Diamondback Energy",
+      "price": 189.27,
+      "previous_close": 192.42,
+      "change_pct": -1.64,
+      "market_cap": 52999347228.21362,
+      "headlines": [
+        {
+          "title": "Diamondback Energy (FANG) Stock Drops Despite Market Gains: Important Facts to Note",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/diamondback-energy-fang-stock-drops-221502011.html",
+          "publisher": "Zacks",
+          "published": "2026-09-21T22:15:02Z"
+        },
+        {
+          "title": "Diamondback Energy Is Down 11% This Year While the Permian Basin Keeps Pumping. Is FANG Stock a Buy?",
+          "url": "https://finance.yahoo.com/energy/articles/diamondback-energy-down-11-while-165946740.html",
+          "publisher": "TIKR",
+          "published": "2026-09-20T16:59:46Z"
+        },
+        {
+          "title": "This Overlooked Pipeline Stock Just Became a Rival's Joint-Venture Partner Without Anyone Noticing",
+          "url": "https://finance.yahoo.com/energy/articles/overlooked-pipeline-stock-just-became-053500681.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-20T05:35:00Z"
         }
       ]
     },
@@ -2089,8 +2115,8 @@
     },
     {
       "label": "WTI",
-      "price": 92.01,
-      "change_pct": -8.27
+      "price": 92.04,
+      "change_pct": -8.24
     },
     {
       "label": "Brent",
