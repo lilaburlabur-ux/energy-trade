@@ -18,7 +18,7 @@ Signed file: `KMI.research.21.09.2026`
 | Technical momentum | Moderate | 1Y +19.25%; price +2.79% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -6.68% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 19.30%, revenue growth 10.80%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 20.51, EV/Sales 5.82. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 20.51, EV/Sales 5.80. |
 | Risk level | Moderate | Beta 0.55, ATR 2.3% of price, short float 2.50%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: fair-to-demanding, risk: moderate.
@@ -68,7 +68,7 @@ Kinder Morgan, Inc. operates as an energy infrastructure company primarily in No
 | Revenue (ttm) | $17.96B | Revenue growth 10.80% y/y |
 | Profitability | Gross 49.41%, operating 30.06%, net 19.30% | ROA 4.45%, ROE 10.99% |
 | Balance sheet | Cash $91.00M, debt $32.43B | Current ratio 0.46, debt/equity 98.62 |
-| Valuation | P/E 20.46, forward P/E 20.51, P/S 3.93, P/B 2.23 | EV/Sales 5.82, EV/EBITDA 13.69 |
+| Valuation | P/E 20.46, forward P/E 20.51, P/S 3.93, P/B 2.23 | EV/Sales 5.80, EV/EBITDA 13.65 |
 | Growth expectations | Earnings growth 21.20%, EPS q/q 21.30% | Analyst mean target $35.90 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ Kinder Morgan, Inc. operates as an energy infrastructure company primarily in No
 | Charles Schwab Investment Management, Inc. | 29,766,795 | 1.34% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 20.51, EV/Sales 5.82. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 20.51, EV/Sales 5.80. Multiple compression is the main downside if growth disappoints.
 - **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -111,8 +111,8 @@ Kinder Morgan, Inc. operates as an energy infrastructure company primarily in No
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $31.72 | EV/Sales | 5.82 |
-| Market cap | $70.63B | EV/EBITDA | 13.69 |
+| Price | $31.72 | EV/Sales | 5.80 |
+| Market cap | $70.63B | EV/EBITDA | 13.65 |
 | Beta | 0.55 | Gross margin | 49.41% |
 | RSI(14) | 52.6 | Operating margin | 30.06% |
 | ATR(14) | 0.74 | Profit margin | 19.30% |

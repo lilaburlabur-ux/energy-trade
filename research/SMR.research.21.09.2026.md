@@ -36,10 +36,10 @@ NuScale Power Corporation provides small modular reactor technology solutions. I
 
 | Headline | Source | Date |
 |---|---|---|
+| Should You Forget Nvidia and Buy These 3 Millionaire-Maker AI Infrastructure Stocks Instead? | Motley Fool | 2026-09-21 |
 | This Energy Stock Has 130% Upside Potential | 24/7 Wall St. | 2026-09-21 |
 | Oklo Climbs 5% as Nuclear Names Bounce Back From Last Week’s Selloff; NuScale Power Gains 4%, Uranium Energy Rises 3% | 24/7 Wall St. | 2026-09-21 |
 | Stock Market Midday, Sept. 18: Stocks Slip, Crypto Gains | Motley Fool | 2026-09-18 |
-| NuScale Power Drops 7% as Nuclear Stocks Hand Back the Vote Rally; Oklo Falls 5%, Centrus Energy Slides 3% | 24/7 Wall St. | 2026-09-18 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

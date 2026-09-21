@@ -18,7 +18,7 @@ Signed file: `NXT.research.21.09.2026`
 | Technical momentum | Low | Below SMA200 (-23.11%) with negative half-year (-27.31%). |
 | Fresh setup quality | Poor / broken | -46.84% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 16.36%, revenue growth 8.20%. |
-| Value attractiveness | Reasonable | Forward P/E 14.40, EV/Sales 3.04. |
+| Value attractiveness | Reasonable | Forward P/E 14.40, EV/Sales 3.15. |
 | Risk level | High | Beta 1.92, ATR 5.5% of price, short float 8.14%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: high.
@@ -36,10 +36,10 @@ Nextpower Inc. provides solar and energy technology solutions for utility-scale 
 
 | Headline | Source | Date |
 |---|---|---|
+| Why Nextpower (NXT) Outpaced the Stock Market Today | Zacks | 2026-09-21 |
 | 3 Stocks Linked To California Wealth Tax Spending Investors Should Watch | Simply Wall St. | 2026-09-19 |
 | Nextpower (NXT): Buy, Sell, or Hold Post Q2 Earnings? | StockStory | 2026-09-16 |
 | Nextpower (NXT) Dips More Than Broader Market: What You Should Know | Zacks | 2026-09-15 |
-| Nextpower (NXT) Falls More Steeply Than Broader Market: What Investors Need to Know | Zacks | 2026-09-09 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ Nextpower Inc. provides solar and energy technology solutions for utility-scale 
 | Revenue (ttm) | $3.63B | Revenue growth 8.20% y/y |
 | Profitability | Gross 22.98%, operating 20.86%, net 16.36% | ROA 11.68%, ROE 27.22% |
 | Balance sheet | Cash $1.21B, debt $38.40M | Current ratio 2.69, debt/equity 1.50 |
-| Valuation | P/E 21.49, forward P/E 14.40, P/S 3.52, P/B 4.93 | EV/Sales 3.04, EV/EBITDA 14.73 |
+| Valuation | P/E 21.49, forward P/E 14.40, P/S 3.52, P/B 4.93 | EV/Sales 3.15, EV/EBITDA 15.28 |
 | Growth expectations | Earnings growth 2.90%, EPS q/q 5.20% | Analyst mean target $140.61 (28 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -112,8 +112,8 @@ Nextpower Inc. provides solar and energy technology solutions for utility-scale 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $83.15 | EV/Sales | 3.04 |
-| Market cap | $12.78B | EV/EBITDA | 14.73 |
+| Price | $83.15 | EV/Sales | 3.15 |
+| Market cap | $12.78B | EV/EBITDA | 15.28 |
 | Beta | 1.92 | Gross margin | 22.98% |
 | RSI(14) | 44.6 | Operating margin | 20.86% |
 | ATR(14) | 4.58 | Profit margin | 16.36% |

@@ -36,10 +36,10 @@ Oklo Inc. develops fission power plants to provide energy at scale to customers 
 
 | Headline | Source | Date |
 |---|---|---|
+| Should You Forget Nvidia and Buy These 3 Millionaire-Maker AI Infrastructure Stocks Instead? | Motley Fool | 2026-09-21 |
 | This Energy Stock Has 130% Upside Potential | 24/7 Wall St. | 2026-09-21 |
 | Uranium Stocks Are Rallying. Why NXE Got Initiated At Overweight. | Investor's Business Daily | 2026-09-21 |
 | GE Vernova vs. Oklo: Which Industrials Stock Is a Better Buy in 2026? | Motley Fool | 2026-09-21 |
-| Oklo Climbs 5% as Nuclear Names Bounce Back From Last Week’s Selloff; NuScale Power Gains 4%, Uranium Energy Rises 3% | 24/7 Wall St. | 2026-09-21 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

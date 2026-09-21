@@ -18,7 +18,7 @@ Signed file: `FANG.research.21.09.2026`
 | Technical momentum | Moderate | 1Y +37.82%; price +4.16% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -10.52% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 9.03%, revenue growth 52.50%. |
-| Value attractiveness | Reasonable | Forward P/E 10.14, EV/Sales 4.44. |
+| Value attractiveness | Reasonable | Forward P/E 10.14, EV/Sales 4.38. |
 | Risk level | Elevated | Beta 0.41, ATR 3.4% of price, short float 4.23%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
@@ -36,10 +36,10 @@ Diamondback Energy, Inc., an independent oil and natural gas company, acquires, 
 
 | Headline | Source | Date |
 |---|---|---|
+| Diamondback Energy (FANG) Stock Drops Despite Market Gains: Important Facts to Note | Zacks | 2026-09-21 |
 | Diamondback Energy Is Down 11% This Year While the Permian Basin Keeps Pumping. Is FANG Stock a Buy? | TIKR | 2026-09-20 |
 | This Overlooked Pipeline Stock Just Became a Rival's Joint-Venture Partner Without Anyone Noticing | Motley Fool | 2026-09-20 |
 | 2 Energy Stocks with Impressive Fundamentals and 1 We Find Risky | StockStory | 2026-09-18 |
-| This Diamondback Insider Is One of the World’s Richest People. She Just Sold $2 Billion of Stock. | Barrons.com | 2026-09-18 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ Diamondback Energy, Inc., an independent oil and natural gas company, acquires, 
 | Revenue (ttm) | $16.25B | Revenue growth 52.50% y/y |
 | Profitability | Gross 72.35%, operating 48.47%, net 9.03% | ROA 1.31%, ROE 3.49% |
 | Balance sheet | Cash $462.00M, debt $12.61B | Current ratio 0.47, debt/equity 28.68 |
-| Valuation | P/E 36.05, forward P/E 10.14, P/S 3.26, P/B 1.40 | EV/Sales 4.44, EV/EBITDA 6.12 |
+| Valuation | P/E 36.05, forward P/E 10.14, P/S 3.26, P/B 1.40 | EV/Sales 4.38, EV/EBITDA 6.05 |
 | Growth expectations | Earnings growth 179.50%, EPS q/q 169.20% | Analyst mean target $234.38 (29 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -110,8 +110,8 @@ Diamondback Energy, Inc., an independent oil and natural gas company, acquires, 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $189.27 | EV/Sales | 4.44 |
-| Market cap | $53.00B | EV/EBITDA | 6.12 |
+| Price | $189.27 | EV/Sales | 4.38 |
+| Market cap | $53.00B | EV/EBITDA | 6.05 |
 | Beta | 0.41 | Gross margin | 72.35% |
 | RSI(14) | 38.7 | Operating margin | 48.47% |
 | ATR(14) | 6.52 | Profit margin | 9.03% |

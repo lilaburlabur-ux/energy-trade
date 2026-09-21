@@ -36,10 +36,10 @@ ONEOK, Inc. operates as a midstream service provider of gathering, processing, f
 
 | Headline | Source | Date |
 |---|---|---|
+| Oneok Inc. (OKE) Stock Drops Despite Market Gains: Important Facts to Note | Zacks | 2026-09-21 |
 | Oil Prices Rise and Fall. These 4 High-Yield Pipeline Stocks Keep Paying | 24/7 Wall St. | 2026-09-18 |
 | Top Analyst Reports for Applied Materials, Philip Morris & Valero Energy | Zacks | 2026-09-17 |
 | 2 Midstream Dividend Stocks Nobody's Talking About Right Now | Motley Fool | 2026-09-17 |
-| ONEOK (OKE) Completed Its Corporate Reorganization On September 10 | Simply Wall St. | 2026-09-16 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

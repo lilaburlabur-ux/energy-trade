@@ -18,7 +18,7 @@ Signed file: `ETR.research.21.09.2026`
 | Technical momentum | Moderate | 1Y +18.54%; price -3.27% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -12.93% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 13.33%, revenue growth 5.90%. |
-| Value attractiveness | Reasonable | Forward P/E 19.90, EV/Sales 5.84. |
+| Value attractiveness | Reasonable | Forward P/E 19.90, EV/Sales 5.82. |
 | Risk level | Moderate | Beta 0.48, ATR 1.9% of price, short float 4.96%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -68,7 +68,7 @@ Entergy Corporation, together with its subsidiaries, engages in the production a
 | Revenue (ttm) | $13.48B | Revenue growth 5.90% y/y |
 | Profitability | Gross 47.00%, operating 24.46%, net 13.33% | ROA 2.68%, ROE 10.25% |
 | Balance sheet | Cash $3.86B, debt $34.63B | Current ratio 0.91, debt/equity 186.77 |
-| Valuation | P/E 25.98, forward P/E 19.90, P/S 3.60, P/B 2.60 | EV/Sales 5.84, EV/EBITDA 14.21 |
+| Valuation | P/E 25.98, forward P/E 19.90, P/S 3.60, P/B 2.60 | EV/Sales 5.82, EV/EBITDA 14.17 |
 | Growth expectations | Earnings growth -1.90%, EPS q/q 3.10% | Analyst mean target $122.67 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -109,8 +109,8 @@ Entergy Corporation, together with its subsidiaries, engages in the production a
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $101.58 | EV/Sales | 5.84 |
-| Market cap | $48.53B | EV/EBITDA | 14.21 |
+| Price | $101.58 | EV/Sales | 5.82 |
+| Market cap | $48.53B | EV/EBITDA | 14.17 |
 | Beta | 0.48 | Gross margin | 47.00% |
 | RSI(14) | 33.2 | Operating margin | 24.46% |
 | ATR(14) | 1.93 | Profit margin | 13.33% |

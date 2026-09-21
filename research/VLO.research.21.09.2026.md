@@ -18,7 +18,7 @@ Signed file: `VLO.research.21.09.2026`
 | Technical momentum | High | 1Y +145.11%; price +57.91% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -4.84% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 5.45%, revenue growth 51.70%. |
-| Value attractiveness | Reasonable | Forward P/E 10.54, EV/Sales 0.95. |
+| Value attractiveness | Reasonable | Forward P/E 10.54, EV/Sales 0.91. |
 | Risk level | Elevated | Beta 0.57, ATR 3.6% of price, short float 3.99%. |
 
 **Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
@@ -38,8 +38,8 @@ Valero Energy Corporation manufactures, markets, and sells petroleum-based and l
 |---|---|---|
 | XLE Is 91% Oil and Gas. Investors Buying “Energy” May Own Less Than They Think | 24/7 Wall St. | 2026-09-21 |
 | Equinor Expands LNG Reach in Asia With PTT Trading Supply Agreement | Zacks | 2026-09-21 |
-| Stocks and Bonds Climb as Slumping Crude Prices Ease Inflation Risks | Barchart | 2026-09-21 |
 | This Energy Stock Could Give ExxonMobil a Run: Should You Buy? | Zacks | 2026-09-21 |
+| Phillips 66 Is Minting Money on $102 Diesel Margins. How Long Can It Last? | 24/7 Wall St. | 2026-09-21 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ Valero Energy Corporation manufactures, markets, and sells petroleum-based and l
 | Revenue (ttm) | $132.43B | Revenue growth 51.70% y/y |
 | Profitability | Gross 16.12%, operating 12.27%, net 5.45% | ROA 10.56%, ROE 27.64% |
 | Balance sheet | Cash $7.87B, debt $11.35B | Current ratio 1.64, debt/equity 40.15 |
-| Valuation | P/E 16.41, forward P/E 10.54, P/S 0.86, P/B 4.53 | EV/Sales 0.95, EV/EBITDA 9.40 |
+| Valuation | P/E 16.41, forward P/E 10.54, P/S 0.86, P/B 4.53 | EV/Sales 0.91, EV/EBITDA 8.97 |
 | Growth expectations | Earnings growth 453.50%, EPS q/q 421.00% | Analyst mean target $355.47 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -111,8 +111,8 @@ Valero Energy Corporation manufactures, markets, and sells petroleum-based and l
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $393.27 | EV/Sales | 0.95 |
-| Market cap | $113.23B | EV/EBITDA | 9.40 |
+| Price | $393.27 | EV/Sales | 0.91 |
+| Market cap | $113.23B | EV/EBITDA | 8.97 |
 | Beta | 0.57 | Gross margin | 16.12% |
 | RSI(14) | 63.4 | Operating margin | 12.27% |
 | ATR(14) | 14.01 | Profit margin | 5.45% |

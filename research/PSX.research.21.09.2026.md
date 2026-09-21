@@ -18,7 +18,7 @@ Signed file: `PSX.research.21.09.2026`
 | Technical momentum | High | 1Y +105.18%; price +47.83% vs SMA200. |
 | Fresh setup quality | Watch | -4.54% from 52w high and near SMA20 — check for a tight base. |
 | Fundamental quality | Mixed | Profit margin 4.66%, revenue growth 53.10%. |
-| Value attractiveness | Reasonable | Forward P/E 10.51, EV/Sales 0.83. |
+| Value attractiveness | Reasonable | Forward P/E 10.51, EV/Sales 0.80. |
 | Risk level | Elevated | Beta 0.70, ATR 3.2% of price, short float 1.61%. |
 
 **Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
@@ -36,7 +36,7 @@ Phillips 66 operates as an integrated downstream energy provider in the United S
 
 | Headline | Source | Date |
 |---|---|---|
-| Stocks and Bonds Climb as Slumping Crude Prices Ease Inflation Risks | Barchart | 2026-09-21 |
+| Phillips 66 (PSX) Stock Slides as Market Rises: Facts to Know Before You Trade | Zacks | 2026-09-21 |
 | Phillips 66 Is Minting Money on $102 Diesel Margins. How Long Can It Last? | 24/7 Wall St. | 2026-09-21 |
 | MPC vs. PSX: A Closer Look at Two Strong Refining Powerhouses | Zacks | 2026-09-21 |
 | BMO Sees Phillips 66 (PSX) Breaking into New Highs | Insider Monkey | 2026-09-20 |
@@ -68,7 +68,7 @@ Phillips 66 operates as an integrated downstream energy provider in the United S
 | Revenue (ttm) | $152.17B | Revenue growth 53.10% y/y |
 | Profitability | Gross 13.10%, operating 8.53%, net 4.66% | ROA 6.04%, ROE 23.45% |
 | Balance sheet | Cash $4.10B, debt $20.57B | Current ratio 1.32, debt/equity 62.88 |
-| Valuation | P/E 14.95, forward P/E 10.51, P/S 0.69, P/B 3.32 | EV/Sales 0.83, EV/EBITDA 12.76 |
+| Valuation | P/E 14.95, forward P/E 10.51, P/S 0.69, P/B 3.32 | EV/Sales 0.80, EV/EBITDA 12.30 |
 | Growth expectations | Earnings growth 344.90%, EPS q/q 338.70% | Analyst mean target $251.95 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -111,8 +111,8 @@ Phillips 66 operates as an integrated downstream energy provider in the United S
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $261.75 | EV/Sales | 0.83 |
-| Market cap | $104.94B | EV/EBITDA | 12.76 |
+| Price | $261.75 | EV/Sales | 0.80 |
+| Market cap | $104.94B | EV/EBITDA | 12.30 |
 | Beta | 0.70 | Gross margin | 13.10% |
 | RSI(14) | 61.8 | Operating margin | 8.53% |
 | ATR(14) | 8.31 | Profit margin | 4.66% |

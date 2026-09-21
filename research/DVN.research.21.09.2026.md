@@ -18,7 +18,7 @@ Signed file: `DVN.research.21.09.2026`
 | Technical momentum | Moderate | 1Y +39.40%; price +9.15% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -7.36% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 17.46%, revenue growth 64.20%. |
-| Value attractiveness | Reasonable | Forward P/E 8.88, EV/Sales 3.43. |
+| Value attractiveness | Reasonable | Forward P/E 8.89, EV/Sales 3.37. |
 | Risk level | Moderate | Beta 0.43, ATR 2.9% of price, short float 2.62%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate.
@@ -68,7 +68,7 @@ Devon Energy Corporation, an independent energy company, engages in the explorat
 | Revenue (ttm) | $18.78B | Revenue growth 64.20% y/y |
 | Profitability | Gross 50.35%, operating 41.08%, net 17.46% | ROA 5.91%, ROE 11.52% |
 | Balance sheet | Cash $950.00M, debt $11.89B | Current ratio 0.72, debt/equity 28.49 |
-| Valuation | P/E 10.35, forward P/E 8.88, P/S 2.79, P/B 1.31 | EV/Sales 3.43, EV/EBITDA 7.22 |
+| Valuation | P/E 10.35, forward P/E 8.89, P/S 2.79, P/B 1.31 | EV/Sales 3.37, EV/EBITDA 7.09 |
 | Growth expectations | Earnings growth 44.00%, EPS q/q 112.60% | Analyst mean target $60.43 (28 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -110,8 +110,8 @@ Devon Energy Corporation, an independent energy company, engages in the explorat
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $47.59 | EV/Sales | 3.43 |
-| Market cap | $52.35B | EV/EBITDA | 7.22 |
+| Price | $47.59 | EV/Sales | 3.37 |
+| Market cap | $52.35B | EV/EBITDA | 7.09 |
 | Beta | 0.43 | Gross margin | 50.35% |
 | RSI(14) | 48.9 | Operating margin | 41.08% |
 | ATR(14) | 1.39 | Profit margin | 17.46% |
@@ -121,7 +121,7 @@ Devon Energy Corporation, an independent energy company, engages in the explorat
 | 52W high | $51.37 | Revenue growth y/y | 64.20% |
 | 52W low | $30.95 | Inst. ownership | 94.74% |
 | P/E (ttm) | 10.35 | Insider ownership | 0.80% |
-| Forward P/E | 8.88 | Short float | 2.62% |
+| Forward P/E | 8.89 | Short float | 2.62% |
 | PEG (trailing) | 2.92 | Avg volume | 11,714,409 |
 | P/S | 2.79 | Employees | 2,200 |
 | P/B | 1.31 | Analyst rec (1=buy..5=sell) | 1.3 |

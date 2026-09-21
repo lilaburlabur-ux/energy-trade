@@ -18,7 +18,7 @@ Signed file: `BP.research.21.09.2026`
 | Technical momentum | Moderate | 1Y +31.32%; price +6.73% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -8.09% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 2.55%, revenue growth 48.20%. |
-| Value attractiveness | Reasonable | Forward P/E 8.84, EV/Sales 2.39. |
+| Value attractiveness | Reasonable | Forward P/E 8.84, EV/Sales 2.32. |
 | Risk level | Moderate | Beta -0.22, ATR 2.5% of price, short float 0.29%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -36,10 +36,10 @@ BP p.l.c., an integrated energy company, engages in the oil and gas business wor
 
 | Headline | Source | Date |
 |---|---|---|
+| BP (BP) Stock Slides as Market Rises: Facts to Know Before You Trade | Zacks | 2026-09-21 |
 | Energy & Utilities Roundup: Market Talk | The Wall Street Journal | 2026-09-21 |
 | XLE Is 91% Oil and Gas. Investors Buying “Energy” May Own Less Than They Think | 24/7 Wall St. | 2026-09-21 |
 | BP Trims Browse Stake as Portfolio Discipline Takes Center Stage | Zacks | 2026-09-21 |
-| European Equities Traded in the US as American depositary Receipts Rise in Monday Trading | MT Newswires | 2026-09-21 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ BP p.l.c., an integrated energy company, engages in the oil and gas business wor
 | Revenue (ttm) | $215.47B | Revenue growth 48.20% y/y |
 | Profitability | Gross 28.30%, operating 13.15%, net 2.55% | ROA 5.04%, ROE 8.87% |
 | Balance sheet | Cash $37.23B, debt $72.69B | Current ratio 1.27, debt/equity 95.12 |
-| Valuation | P/E 20.55, forward P/E 8.84, P/S 0.52, P/B 7.64 | EV/Sales 2.39, EV/EBITDA 13.13 |
+| Valuation | P/E 20.55, forward P/E 8.84, P/S 0.52, P/B 7.64 | EV/Sales 2.32, EV/EBITDA 12.76 |
 | Growth expectations | Earnings growth 138.90%, EPS q/q 140.10% | Analyst mean target $48.59 (18 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -109,8 +109,8 @@ BP p.l.c., an integrated energy company, engages in the oil and gas business wor
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $43.16 | EV/Sales | 2.39 |
-| Market cap | $111.15B | EV/EBITDA | 13.13 |
+| Price | $43.16 | EV/Sales | 2.32 |
+| Market cap | $111.15B | EV/EBITDA | 12.76 |
 | Beta | -0.22 | Gross margin | 28.30% |
 | RSI(14) | 44.5 | Operating margin | 13.15% |
 | ATR(14) | 1.06 | Profit margin | 2.55% |

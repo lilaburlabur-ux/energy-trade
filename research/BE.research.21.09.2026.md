@@ -36,10 +36,10 @@ Bloom Energy Corporation designs, manufactures, sells, and installs solid oxide 
 
 | Headline | Source | Date |
 |---|---|---|
+| Why Bloom Energy (BE) Outpaced the Stock Market Today | Zacks | 2026-09-21 |
+| Test Your ETF Knowledge In Our IQ Test | Bloomberg | 2026-09-21 |
 | Why Did Bloom Energy Stock More Than Triple In A Year? | Trefis | 2026-09-21 |
 | Loren Finegold, Ed Comber Join Vinson & Elkins NY Practice, Finance & Infrastructure Growth | CorpGov.com | 2026-09-21 |
-| Bloom Energy (BE) Surges as AI Hyperscalers Adopt Solid Oxide Fuel Cells | Insider Monkey | 2026-09-21 |
-| BE Stock Jumps Premarket Ahead Of S&P 500 Inclusion: US Army Awards Power Leases To Indelible-Bloom Coalition | Stocktwits | 2026-09-21 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

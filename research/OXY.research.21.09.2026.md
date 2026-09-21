@@ -18,7 +18,7 @@ Signed file: `OXY.research.21.09.2026`
 | Technical momentum | Moderate | 1Y +23.29%; price +8.26% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -12.77% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 30.32%, revenue growth 53.40%. |
-| Value attractiveness | Reasonable | Forward P/E 14.25, EV/Sales 3.27. |
+| Value attractiveness | Reasonable | Forward P/E 14.25, EV/Sales 3.20. |
 | Risk level | Moderate | Beta 0.16, ATR 2.8% of price, short float 0.01%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate.
@@ -36,10 +36,10 @@ Occidental Petroleum Corporation, together with its subsidiaries, engages in the
 
 | Headline | Source | Date |
 |---|---|---|
+| Occidental Petroleum (OXY) Stock Declines While Market Improves: Some Information for Investors | Zacks | 2026-09-21 |
 | Can ExxonMobil Turn Carbon Capture Into a Major Growth Market? | Zacks | 2026-09-21 |
 | Chevron vs. Occidental Petroleum: Which Oil Stock Is a Better Buy in 2026? | Motley Fool | 2026-09-21 |
 | 3 Market-Beating Stocks Worth Your Attention | StockStory | 2026-09-21 |
-| 2 Stocks to Buy if You Think $100 Oil Will Last | Motley Fool | 2026-09-18 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ Occidental Petroleum Corporation, together with its subsidiaries, engages in the
 | Revenue (ttm) | $23.93B | Revenue growth 53.40% y/y |
 | Profitability | Gross 73.32%, operating 45.44%, net 30.32% | ROA 4.68%, ROE 10.63% |
 | Balance sheet | Cash $4.15B, debt $14.63B | Current ratio 1.41, debt/equity 34.51 |
-| Valuation | P/E 16.89, forward P/E 14.25, P/S 2.39, P/B 1.71 | EV/Sales 3.27, EV/EBITDA 5.70 |
+| Valuation | P/E 16.89, forward P/E 14.25, P/S 2.39, P/B 1.71 | EV/Sales 3.20, EV/EBITDA 5.59 |
 | Growth expectations | Earnings growth 964.90%, EPS q/q 550.00% | Analyst mean target $68.00 (25 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -109,8 +109,8 @@ Occidental Petroleum Corporation, together with its subsidiaries, engages in the
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $57.25 | EV/Sales | 3.27 |
-| Market cap | $57.23B | EV/EBITDA | 5.70 |
+| Price | $57.25 | EV/Sales | 3.20 |
+| Market cap | $57.23B | EV/EBITDA | 5.59 |
 | Beta | 0.16 | Gross margin | 73.32% |
 | RSI(14) | 41.2 | Operating margin | 45.44% |
 | ATR(14) | 1.60 | Profit margin | 30.32% |

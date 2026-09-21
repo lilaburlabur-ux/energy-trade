@@ -18,7 +18,7 @@ Signed file: `WMB.research.21.09.2026`
 | Technical momentum | Moderate | 1Y +22.28%; price +2.66% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -8.43% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 24.94%, revenue growth 7.80%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 27.59, EV/Sales 9.81. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 27.59, EV/Sales 9.77. |
 | Risk level | Moderate | Beta 0.62, ATR 2.7% of price, short float 2.41%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: fair-to-demanding, risk: moderate.
@@ -68,7 +68,7 @@ The Williams Companies, Inc., together with its subsidiaries, operates as an ene
 | Revenue (ttm) | $12.32B | Revenue growth 7.80% y/y |
 | Profitability | Gross 63.64%, operating 39.54%, net 24.94% | ROA 5.03%, ROE 21.50% |
 | Balance sheet | Cash $203.00M, debt $30.79B | Current ratio 0.48, debt/equity 200.37 |
-| Valuation | P/E 28.55, forward P/E 27.59, P/S 7.11, P/B 6.66 | EV/Sales 9.81, EV/EBITDA 17.20 |
+| Valuation | P/E 28.55, forward P/E 27.59, P/S 7.11, P/B 6.66 | EV/Sales 9.77, EV/EBITDA 17.12 |
 | Growth expectations | Earnings growth 51.20%, EPS q/q 51.50% | Analyst mean target $85.38 (21 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ The Williams Companies, Inc., together with its subsidiaries, operates as an ene
 | JPMORGAN CHASE & CO | 21,379,796 | 1.75% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 27.59, EV/Sales 9.81. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 27.59, EV/Sales 9.77. Multiple compression is the main downside if growth disappoints.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -110,8 +110,8 @@ The Williams Companies, Inc., together with its subsidiaries, operates as an ene
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $71.65 | EV/Sales | 9.81 |
-| Market cap | $87.64B | EV/EBITDA | 17.20 |
+| Price | $71.65 | EV/Sales | 9.77 |
+| Market cap | $87.64B | EV/EBITDA | 17.12 |
 | Beta | 0.62 | Gross margin | 63.64% |
 | RSI(14) | 45.9 | Operating margin | 39.54% |
 | ATR(14) | 1.92 | Profit margin | 24.94% |

@@ -36,10 +36,10 @@ Shell plc operates as an energy and petrochemical company in Europe, Asia, Ocean
 
 | Headline | Source | Date |
 |---|---|---|
+| Shell (SHEL) Stock Dips While Market Gains: Key Facts | Zacks | 2026-09-21 |
 | Energy & Utilities Roundup: Market Talk | The Wall Street Journal | 2026-09-21 |
 | XLE Is 91% Oil and Gas. Investors Buying “Energy” May Own Less Than They Think | 24/7 Wall St. | 2026-09-21 |
 | Shell Falls as Europe Revives Windfall-Tax Politics | GuruFocus.com | 2026-09-21 |
-| European Equities Traded in the US as American depositary Receipts Rise in Monday Trading | MT Newswires | 2026-09-21 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -18,7 +18,7 @@ Signed file: `MPC.research.21.09.2026`
 | Technical momentum | High | 1Y +121.10%; price +60.27% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -5.30% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 5.55%, revenue growth 53.70%. |
-| Value attractiveness | Reasonable | Forward P/E 9.25, EV/Sales 0.99. |
+| Value attractiveness | Reasonable | Forward P/E 9.25, EV/Sales 0.95. |
 | Risk level | Elevated | Beta 0.53, ATR 3.5% of price, short float 3.14%. |
 
 **Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
@@ -68,7 +68,7 @@ Marathon Petroleum Corporation, together with its subsidiaries, operates as an i
 | Revenue (ttm) | $154.15B | Revenue growth 53.70% y/y |
 | Profitability | Gross 12.82%, operating 13.56%, net 5.55% | ROA 8.74%, ROE 42.10% |
 | Balance sheet | Cash $7.77B, debt $34.29B | Current ratio 1.25, debt/equity 133.33 |
-| Valuation | P/E 13.95, forward P/E 9.25, P/S 0.73, P/B 5.97 | EV/Sales 0.99, EV/EBITDA 9.90 |
+| Valuation | P/E 13.95, forward P/E 9.25, P/S 0.73, P/B 5.97 | EV/Sales 0.95, EV/EBITDA 9.49 |
 | Growth expectations | Earnings growth 348.00%, EPS q/q 322.50% | Analyst mean target $375.50 (18 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -111,8 +111,8 @@ Marathon Petroleum Corporation, together with its subsidiaries, operates as an i
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $402.38 | EV/Sales | 0.99 |
-| Market cap | $113.00B | EV/EBITDA | 9.90 |
+| Price | $402.38 | EV/Sales | 0.95 |
+| Market cap | $113.00B | EV/EBITDA | 9.49 |
 | Beta | 0.53 | Gross margin | 12.82% |
 | RSI(14) | 62.7 | Operating margin | 13.56% |
 | ATR(14) | 14.06 | Profit margin | 5.55% |

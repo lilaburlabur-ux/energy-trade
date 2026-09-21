@@ -18,7 +18,7 @@ Signed file: `XOM.research.21.09.2026`
 | Technical momentum | Moderate | 1Y +42.97%; price +8.75% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -6.51% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 9.07%, revenue growth 44.10%. |
-| Value attractiveness | Reasonable | Forward P/E 14.67, EV/Sales 1.97. |
+| Value attractiveness | Reasonable | Forward P/E 14.67, EV/Sales 1.91. |
 | Risk level | Moderate | Beta 0.17, ATR 2.4% of price, short float 1.08%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -36,10 +36,10 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 
 | Headline | Source | Date |
 |---|---|---|
+| Exxon Mobil Holdings (XOM) Stock Drops Despite Market Gains: Important Facts to Note | Zacks | 2026-09-21 |
 | Exxon Could Return to the Venezuelan Field It Was Forced Out of in 2007. Here's What Changed. | Motley Fool | 2026-09-21 |
 | Sector Update: Energy Stocks Fall Late Afternoon | MT Newswires | 2026-09-21 |
 | XLE Is 91% Oil and Gas. Investors Buying “Energy” May Own Less Than They Think | 24/7 Wall St. | 2026-09-21 |
-| How to Earn $250 a Month From Exxon Stock | Motley Fool | 2026-09-21 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 | Revenue (ttm) | $361.06B | Revenue growth 44.10% y/y |
 | Profitability | Gross 29.77%, operating 15.86%, net 9.07% | ROA 5.52%, ROE 12.58% |
 | Balance sheet | Cash $10.59B, debt $42.37B | Current ratio 1.14, debt/equity 15.92 |
-| Valuation | P/E 20.37, forward P/E 14.67, P/S 1.80, P/B 2.51 | EV/Sales 1.97, EV/EBITDA 10.46 |
+| Valuation | P/E 20.37, forward P/E 14.67, P/S 1.80, P/B 2.51 | EV/Sales 1.91, EV/EBITDA 10.15 |
 | Growth expectations | Earnings growth 112.80%, EPS q/q 105.10% | Analyst mean target $170.91 (22 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -110,8 +110,8 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $158.30 | EV/Sales | 1.97 |
-| Market cap | $650.92B | EV/EBITDA | 10.46 |
+| Price | $158.30 | EV/Sales | 1.91 |
+| Market cap | $650.92B | EV/EBITDA | 10.15 |
 | Beta | 0.17 | Gross margin | 29.77% |
 | RSI(14) | 44.9 | Operating margin | 15.86% |
 | ATR(14) | 3.83 | Profit margin | 9.07% |

@@ -18,7 +18,7 @@ Signed file: `NXE.research.21.09.2026`
 | Technical momentum | Low | Below SMA200 (-10.04%) with negative half-year (-12.97%). |
 | Fresh setup quality | Poor / broken | -29.60% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 0.00%, revenue growth —. |
-| Value attractiveness | Reasonable | Forward P/E -61.25, EV/Sales —. |
+| Value attractiveness | Reasonable | Forward P/E -61.23, EV/Sales —. |
 | Risk level | Elevated | Beta 1.67, ATR 4.5% of price, short float —. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
@@ -68,7 +68,7 @@ NexGen Energy Ltd., an exploration and development stage company, engages in the
 | Revenue (ttm) | — | Revenue growth — y/y |
 | Profitability | Gross 0.00%, operating 0.00%, net 0.00% | ROA -3.39%, ROE -17.67% |
 | Balance sheet | Cash $970.25M, debt $619.11M | Current ratio 1.46, debt/equity 33.57 |
-| Valuation | P/E —, forward P/E -61.25, P/S —, P/B 4.91 | EV/Sales —, EV/EBITDA -54.55 |
+| Valuation | P/E —, forward P/E -61.23, P/S —, P/B 4.91 | EV/Sales —, EV/EBITDA -57.33 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $16.57 (2 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -112,7 +112,7 @@ NexGen Energy Ltd., an exploration and development stage company, engages in the
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $9.80 | EV/Sales | — |
-| Market cap | $6.57B | EV/EBITDA | -54.55 |
+| Market cap | $6.57B | EV/EBITDA | -57.33 |
 | Beta | 1.67 | Gross margin | 0.00% |
 | RSI(14) | 46.0 | Operating margin | 0.00% |
 | ATR(14) | 0.44 | Profit margin | 0.00% |
@@ -122,7 +122,7 @@ NexGen Energy Ltd., an exploration and development stage company, engages in the
 | 52W high | $13.92 | Revenue growth y/y | — |
 | 52W low | $7.56 | Inst. ownership | 55.22% |
 | P/E (ttm) | — | Insider ownership | 6.40% |
-| Forward P/E | -61.25 | Short float | — |
+| Forward P/E | -61.23 | Short float | — |
 | PEG (trailing) | — | Avg volume | 4,715,474 |
 | P/S | — | Employees | 142 |
 | P/B | 4.91 | Analyst rec (1=buy..5=sell) | 1.5 |

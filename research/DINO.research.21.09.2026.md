@@ -18,7 +18,7 @@ Signed file: `DINO.research.21.09.2026`
 | Technical momentum | High | 1Y +112.49%; price +61.12% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -6.29% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 6.13%, revenue growth 53.20%. |
-| Value attractiveness | Reasonable | Forward P/E 9.24, EV/Sales 0.70. |
+| Value attractiveness | Reasonable | Forward P/E 9.24, EV/Sales 0.66. |
 | Risk level | Elevated | Beta 0.69, ATR 4.2% of price, short float 6.41%. |
 
 **Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
@@ -68,7 +68,7 @@ HF Sinclair Corporation operates as an independent energy company in the United 
 | Revenue (ttm) | $31.23B | Revenue growth 53.20% y/y |
 | Profitability | Gross 12.89%, operating 11.69%, net 6.13% | ROA 9.16%, ROE 19.50% |
 | Balance sheet | Cash $2.26B, debt $3.34B | Current ratio 1.97, debt/equity 32.26 |
-| Valuation | P/E 10.42, forward P/E 9.24, P/S 0.62, P/B 1.89 | EV/Sales 0.70, EV/EBITDA 6.78 |
+| Valuation | P/E 10.42, forward P/E 9.24, P/S 0.62, P/B 1.89 | EV/Sales 0.66, EV/EBITDA 6.42 |
 | Growth expectations | Earnings growth 350.20%, EPS q/q 328.80% | Analyst mean target $102.33 (15 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -112,8 +112,8 @@ HF Sinclair Corporation operates as an independent energy company in the United 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $109.29 | EV/Sales | 0.70 |
-| Market cap | $19.43B | EV/EBITDA | 6.78 |
+| Price | $109.29 | EV/Sales | 0.66 |
+| Market cap | $19.43B | EV/EBITDA | 6.42 |
 | Beta | 0.69 | Gross margin | 12.89% |
 | RSI(14) | 60.5 | Operating margin | 11.69% |
 | ATR(14) | 4.62 | Profit margin | 6.13% |

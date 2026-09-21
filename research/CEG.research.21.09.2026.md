@@ -36,10 +36,10 @@ Constellation Energy Corporation produces and sells energy products and services
 
 | Headline | Source | Date |
 |---|---|---|
+| Constellation Energy Corporation (CEG) Beats Stock Market Upswing: What Investors Need to Know | Zacks | 2026-09-21 |
 | Sector Update: Energy Stocks Fall Late Afternoon | MT Newswires | 2026-09-21 |
 | Sector Update: Energy Stocks Fall Monday Afternoon | MT Newswires | 2026-09-21 |
 | Constellation Energy Stock Fell 13% Last Week. Analysts Still See 37% Upside From Here. | TIKR | 2026-09-21 |
-| CEG Shares Climb Overnight: This Analyst Sees Nearly 45% Upside From Here | Stocktwits | 2026-09-21 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
