@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-21T02:19:58+00:00",
-  "as_of_local": "2026-09-21 02:19:58 UTC",
+  "as_of_utc": "2026-09-21T02:35:12+00:00",
+  "as_of_local": "2026-09-21 02:35:12 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -237,6 +237,12 @@
       "market_cap": 119319637664.71399,
       "headlines": [
         {
+          "title": "3 U.S. Refining Stocks With Diesel And Jet Fuel Margin Upside",
+          "url": "https://finance.yahoo.com/energy/articles/3-u-refining-stocks-diesel-021557403.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-09-21T02:15:57Z"
+        },
+        {
           "title": "Morgan Stanley Sees Marathon Petroleum (MPC) Breaking into New Highs",
           "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-sees-marathon-petroleum-154726182.html",
           "publisher": "Insider Monkey",
@@ -247,12 +253,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/marathon-petroleum-mpc-could-smash-150634017.html",
           "publisher": "Insider Monkey",
           "published": "2026-09-20T15:06:34Z"
-        },
-        {
-          "title": "Marathon Petroleum (MPC) Is Up 7.3% After Analyst Upgrades And Earnings Beat - Has The Bull Case Changed?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/marathon-petroleum-mpc-7-3-221421115.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-09-18T22:14:21Z"
         }
       ]
     },
@@ -265,6 +265,12 @@
       "market_cap": 118994660730.60605,
       "headlines": [
         {
+          "title": "3 U.S. Refining Stocks With Diesel And Jet Fuel Margin Upside",
+          "url": "https://finance.yahoo.com/energy/articles/3-u-refining-stocks-diesel-021557403.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-09-21T02:15:57Z"
+        },
+        {
           "title": "Morgan Stanley Sees More Fuel for Valero\u2019s (VLO) Rally",
           "url": "https://finance.yahoo.com/energy/articles/morgan-stanley-sees-more-fuel-153825351.html",
           "publisher": "Insider Monkey",
@@ -275,12 +281,6 @@
           "url": "https://finance.yahoo.com/energy/articles/does-valero-energy-vlo-gain-041756939.html",
           "publisher": "Simply Wall St.",
           "published": "2026-09-20T04:17:56Z"
-        },
-        {
-          "title": "Jim Cramer Wished He\u2019d Worked At This Firm Instead Of Goldman Sachs",
-          "url": "https://finance.yahoo.com/energy/articles/jim-cramer-wished-d-worked-231818524.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-09-18T23:18:18Z"
         }
       ]
     },
@@ -1187,7 +1187,26 @@
       "previous_close": 443.23,
       "change_pct": 0.83,
       "market_cap": 23611933340.74173,
-      "headlines": []
+      "headlines": [
+        {
+          "title": "Hubbell (HUBB) Faces A Valuation Test As Morgan Stanley Conference Puts Growth In Focus",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/hubbell-hubb-faces-valuation-test-111511298.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-09-19T11:15:11Z"
+        },
+        {
+          "title": "The Bull Case For Hubbell (HUBB) Could Change Following Backlog\u2011Driven Data Center Demand Signals \u2013 Learn Why",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bull-case-hubbell-hubb-could-011040964.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-09-19T01:10:40Z"
+        },
+        {
+          "title": "Hubbell (HUBB) Stock Looks Fully Priced After Its 163% Run",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/hubbell-hubb-stock-looks-fully-231107744.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-09-18T23:11:07Z"
+        }
+      ]
     },
     {
       "symbol": "NRG",
@@ -2096,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 94.04,
-      "change_pct": -6.24
+      "price": 94.09,
+      "change_pct": -6.19
     },
     {
       "label": "Brent",
-      "price": 97.49,
-      "change_pct": -6.14
+      "price": 97.53,
+      "change_pct": -6.1
     },
     {
       "label": "NatGas",
       "price": 2.87,
-      "change_pct": -1.34
+      "change_pct": -1.3
     }
   ]
 }
