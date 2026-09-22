@@ -36,10 +36,10 @@ Quanta Services, Inc. offers infrastructure solutions for the electric and gas u
 
 | Headline | Source | Date |
 |---|---|---|
+| America’s Power Buildout Is Accelerating. These 3 ETFs Invest in the Infrastructure | 24/7 Wall St. | 2026-09-22 |
 | Sterling vs. Quanta: Which Infrastructure Stock Is the Better Buy? | Zacks | 2026-09-22 |
 | Will Favorable Project Revisions Support Comfort Systems' Execution? | Zacks | 2026-09-22 |
 | Construction Partners Expands Florida Presence With Roads Acquisition | Zacks | 2026-09-22 |
-| Quanta Services (PWR) Is Considered a Good Investment by Brokers: Is That True? | Zacks | 2026-09-22 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

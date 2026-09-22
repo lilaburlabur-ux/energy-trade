@@ -36,10 +36,10 @@ ConocoPhillips explores for, produces, transports, and markets crude oil, bitume
 
 | Headline | Source | Date |
 |---|---|---|
+| ConocoPhillips (COP) Stock Moves -1.77%: What You Should Know | Zacks | 2026-09-22 |
 | Update: US Equity Futures Slightly Higher Pre-Bell as Oil Prices Drop Amid Optimism for Diplomacy in US-Iran Conflict | MT Newswires | 2026-09-22 |
 | XLE Is 91% Oil and Gas. Investors Buying “Energy” May Own Less Than They Think | 24/7 Wall St. | 2026-09-21 |
 | Like ‘a rabbi buying a church’: Delta once bought an entire oil refinery because it got tired of guessing at fuel prices | Moneywise | 2026-09-20 |
-| ExxonMobil's Advantaged Assets and Refining Strength Drive Outlook | Zacks | 2026-09-18 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

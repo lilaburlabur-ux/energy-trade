@@ -64,7 +64,7 @@ HF Sinclair Corporation operates as an independent energy company in the United 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
-| Next earnings | 2026-10-29 | Next scheduled report (Yahoo estimate) |
+| Next earnings | 2026-10-28 | Next scheduled report (Yahoo estimate) |
 | Revenue (ttm) | $31.23B | Revenue growth 53.20% y/y |
 | Profitability | Gross 12.89%, operating 11.69%, net 6.13% | ROA 9.16%, ROE 19.50% |
 | Balance sheet | Cash $2.26B, debt $3.34B | Current ratio 1.97, debt/equity 32.26 |

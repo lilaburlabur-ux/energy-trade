@@ -36,10 +36,10 @@ Array Technologies, Inc. engages in the manufacture and sale of solar tracking t
 
 | Headline | Source | Date |
 |---|---|---|
+| Array Technologies, Inc. (ARRY) Stock Moves -2.70%: What You Should Know | Zacks | 2026-09-22 |
 | Why Array (ARRY) Shares Are Plunging Today | StockStory | 2026-09-19 |
 | This Analyst Just Downgraded Array Technologies. Here's Why. | Barchart | 2026-09-18 |
 | LEN, ARRY Stocks Hit New Lows As Price Target Cuts Pile Up — What’s Driving The Selloff? | Stocktwits | 2026-09-18 |
-| Netflix downgraded, Etsy upgraded: Wall Street's top analyst calls | The Fly | 2026-09-18 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

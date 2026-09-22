@@ -32,15 +32,6 @@ Signed file: `NOV.research.22.09.2026`
 ## 2. Company Overview and Recent Catalysts
 NOV Inc. designs, constructs, manufactures, and sells systems, components, and products for oil and gas drilling and production, and industrial and renewable energy sectors in the United States and internationally. It operates in two segments, Energy Equipment, and Energy Products and Services.
 
-**Recent headlines (potential catalysts):**
-
-| Headline | Source | Date |
-|---|---|---|
-| NESR Leverages Technology Portfolio and Scale to Drive Growth | Zacks | 2026-09-22 |
-| Here's Why Investors Should Take a Wait-and-See Approach to NOV Stock | Zacks | 2026-09-21 |
-| FET vs. NOV: Which Energy Equipment Company Has an Edge? | Zacks | 2026-09-18 |
-| Q2 Earnings Outperformers: NOV (NYSE:NOV) And The Rest Of The Oilfield Services Stocks | StockStory | 2026-09-15 |
-
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|

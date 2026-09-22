@@ -36,10 +36,10 @@ NextEra Energy, Inc., through its subsidiaries, generates, stores, transmits, di
 
 | Headline | Source | Date |
 |---|---|---|
+| Bloom Energy vs. NextEra Energy: Which Renewable Energy Stock Is a Better Buy in 2026? | Motley Fool | 2026-09-22 |
 | Should NextEra’s US$1.9 Billion Google-Backed Nuclear Restart Require Action From NextEra Energy (NEE) Investors? | Simply Wall St. | 2026-09-22 |
 | Is It Worth Investing in NextEra (NEE) Based on Wall Street's Bullish Views? | Zacks | 2026-09-22 |
 | 2 Big Trump Breakthroughs Can Power Stock Markets Higher | Barrons.com | 2026-09-21 |
-| NextEra (NEE) and Dominion (D) Unveil a Bigger Pitch for Virginia | Insider Monkey | 2026-09-20 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

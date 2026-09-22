@@ -32,15 +32,6 @@ Signed file: `DUK.research.22.09.2026`
 ## 2. Company Overview and Recent Catalysts
 Duke Energy Corporation, through its subsidiaries, operates as an energy company in the United States. The company operates through two segments: Electric Utilities and Infrastructure (EU&I); and Gas Utilities and Infrastructure (GU&I). The EU&I segment generates, transmits, distributes, and sells electricity to customers in the Southeast and Midwest regions. It generates electricity through coal, hydroelectric, natural gas, oil, renewables, and nuclear fuel.
 
-**Recent headlines (potential catalysts):**
-
-| Headline | Source | Date |
-|---|---|---|
-| IDACORP Hikes Dividend 2.3% to Strengthen Shareholder Returns | Zacks | 2026-09-21 |
-| How Investors May Respond To Duke Energy (DUK) Winning an Emergency Recovery Award for Storm Resilience | Simply Wall St. | 2026-09-18 |
-| Is PG&E Stock Cheap, Or Just Waiting On California? | Trefis | 2026-09-16 |
-| Here's Why Duke Energy (DUK) Fell More Than Broader Market | Zacks | 2026-09-15 |
-
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|

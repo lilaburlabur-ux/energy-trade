@@ -32,15 +32,6 @@ Signed file: `WFRD.research.22.09.2026`
 ## 2. Company Overview and Recent Catalysts
 Weatherford International plc, an energy services company, provides equipment and services for the drilling, evaluation, completion, production, and intervention of oil, geothermal, and natural gas wells worldwide. The company operates through three segments: Drilling and Evaluation; Well Construction and Completions; and Production and Intervention.
 
-**Recent headlines (potential catalysts):**
-
-| Headline | Source | Date |
-|---|---|---|
-| 1 of Wall Street’s Favorite Stocks to Own for Decades and 2 We Ignore | StockStory | 2026-09-21 |
-| Q2 Earnings Highs And Lows: Weatherford (NASDAQ:WFRD) Vs The Rest Of The Mixed or Offshore Upstream E&P Stocks | StockStory | 2026-09-18 |
-| Solaris Energy Infrastructure, TETRA Technologies, SLB, and Weatherford Stocks Trade Down, What You Need To Know | StockStory | 2026-09-01 |
-| Weatherford International’s (WFRD) Remarkable Recovery | Insider Monkey | 2026-08-27 |
-
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|

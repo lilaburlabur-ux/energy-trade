@@ -32,15 +32,6 @@ Signed file: `CVX.research.22.09.2026`
 ## 2. Company Overview and Recent Catalysts
 Chevron Corporation, through its subsidiaries, engages in the integrated energy and chemicals operations. It operates through Upstream and Downstream segments. The Upstream segment engages in the exploration for, development, production, and transportation of crude oil and natural gas; processing, liquefaction, transportation, and regasification of liquefied natural gas; transportation of crude oil through pipelines; transportation, storage, and marketing of natural gas; carbon capture and storage; and operation of a gas-to-liquids plant.
 
-**Recent headlines (potential catalysts):**
-
-| Headline | Source | Date |
-|---|---|---|
-| 4 Integrated Energy Stocks to Benefit From Industry Tailwinds | Zacks | 2026-09-22 |
-| Update: US Equity Futures Slightly Higher Pre-Bell as Oil Prices Drop Amid Optimism for Diplomacy in US-Iran Conflict | MT Newswires | 2026-09-22 |
-| Chevron (CVX) Stock Drops Despite Market Gains: Important Facts to Note | Zacks | 2026-09-21 |
-| Stock Market Today: Dow Up, Nasdaq Roars To Record As Micron Does This; AMD Hits New High | Investor's Business Daily | 2026-09-21 |
-
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|

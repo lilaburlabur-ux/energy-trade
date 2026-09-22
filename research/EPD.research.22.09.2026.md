@@ -36,10 +36,10 @@ Enterprise Products Partners L.P. provides midstream energy services to producer
 
 | Headline | Source | Date |
 |---|---|---|
+| Enterprise Products Partners (EPD) Stock Moves -1.20%: What You Should Know | Zacks | 2026-09-22 |
 | HESM Q2 Beat Masks Lower Volumes as Second-Half Costs Move Higher | Zacks | 2026-09-22 |
 | Is HESM Worth Buying as Free Cash Flow Rises but Volume Growth Slows? | Zacks | 2026-09-22 |
 | Enterprise Products Partners Seen Supported by Export Demand, Permian Growth, RBC Says | MT Newswires | 2026-09-22 |
-| How Much Do You Really Need Invested to Replace a $200,000 Salary With Dividends? | 24/7 Wall St. | 2026-09-21 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

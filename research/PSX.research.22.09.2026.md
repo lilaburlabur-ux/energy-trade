@@ -68,7 +68,7 @@ Phillips 66 operates as an integrated downstream energy provider in the United S
 | Revenue (ttm) | $152.17B | Revenue growth 53.10% y/y |
 | Profitability | Gross 13.10%, operating 8.53%, net 4.66% | ROA 6.04%, ROE 23.45% |
 | Balance sheet | Cash $4.10B, debt $20.57B | Current ratio 1.32, debt/equity 62.88 |
-| Valuation | P/E 14.66, forward P/E 10.31, P/S 0.67, P/B 3.25 | EV/Sales 0.80, EV/EBITDA 12.30 |
+| Valuation | P/E 14.66, forward P/E 10.31, P/S 0.68, P/B 3.25 | EV/Sales 0.80, EV/EBITDA 12.30 |
 | Growth expectations | Earnings growth 344.90%, EPS q/q 338.70% | Analyst mean target $251.95 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -124,7 +124,7 @@ Phillips 66 operates as an integrated downstream energy provider in the United S
 | P/E (ttm) | 14.66 | Insider ownership | 0.21% |
 | Forward P/E | 10.31 | Short float | 1.61% |
 | PEG (trailing) | 1.25 | Avg volume | 2,866,887 |
-| P/S | 0.67 | Employees | 12,600 |
+| P/S | 0.68 | Employees | 12,600 |
 | P/B | 3.25 | Analyst rec (1=buy..5=sell) | 2.1 |
 
 ## 8. Analyst Actions

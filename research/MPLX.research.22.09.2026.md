@@ -32,15 +32,6 @@ Signed file: `MPLX.research.22.09.2026`
 ## 2. Company Overview and Recent Catalysts
 MPLX LP owns and operates midstream energy infrastructure and logistics assets primarily in the United States. It operates in two segments, Crude Oil and Products Logistics; and Natural Gas and NGL Services. The company is involved in the gathering, processing, and transportation of natural gas; gathering, transportation, fractionation, storage, and marketing of natural gas liquids; gathering, storage, transportation, and distribution of crude oil and refined products, as well as other hydrocarbon-based products and renewables; and sale of residue gas and condensate.
 
-**Recent headlines (potential catalysts):**
-
-| Headline | Source | Date |
-|---|---|---|
-| This Overlooked Pipeline Stock Just Became a Rival's Joint-Venture Partner Without Anyone Noticing | Motley Fool | 2026-09-20 |
-| Oil Prices Rise and Fall. These 4 High-Yield Pipeline Stocks Keep Paying | 24/7 Wall St. | 2026-09-18 |
-| MPLX Targets Another 12.5% Distribution Raise Through 2027. Here’s What Could Mean For The Stock. | TIKR | 2026-09-17 |
-| Constellium highlighted as Zacks Bull and AGCO Bear of the Day | Zacks | 2026-09-17 |
-
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
@@ -68,7 +59,7 @@ MPLX LP owns and operates midstream energy infrastructure and logistics assets p
 | Revenue (ttm) | $12.03B | Revenue growth 10.60% y/y |
 | Profitability | Gross 55.71%, operating 38.25%, net 39.28% | ROA 7.25%, ROE 33.69% |
 | Balance sheet | Cash $1.03B, debt $26.13B | Current ratio 0.89, debt/equity 183.36 |
-| Valuation | P/E 12.72, forward P/E 12.26, P/S 4.99, P/B 4.28 | EV/Sales 7.08, EV/EBITDA 13.94 |
+| Valuation | P/E 12.72, forward P/E 12.26, P/S 4.98, P/B 4.28 | EV/Sales 7.08, EV/EBITDA 13.94 |
 | Growth expectations | Earnings growth 3.20%, EPS q/q 2.80% | Analyst mean target $62.85 (13 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -123,7 +114,7 @@ MPLX LP owns and operates midstream energy infrastructure and logistics assets p
 | P/E (ttm) | 12.72 | Insider ownership | 64.03% |
 | Forward P/E | 12.26 | Short float | 2.01% |
 | PEG (trailing) | 3.10 | Avg volume | 1,360,758 |
-| P/S | 4.99 | Employees | 0 |
+| P/S | 4.98 | Employees | 0 |
 | P/B | 4.28 | Analyst rec (1=buy..5=sell) | 2.4 |
 
 ## 8. Analyst Actions

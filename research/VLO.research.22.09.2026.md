@@ -36,10 +36,10 @@ Valero Energy Corporation manufactures, markets, and sells petroleum-based and l
 
 | Headline | Source | Date |
 |---|---|---|
+| Valero Energy (VLO) Stock Moves -4.10%: What You Should Know | Zacks | 2026-09-22 |
 | Diesel Hits a Record. Why Valero and Marathon Stock Could Be Running Out of Gas. | Barrons.com | 2026-09-22 |
 | Netflix downgraded, SanDisk initiated: Wall Street's top analyst calls | The Fly | 2026-09-22 |
 | The Zacks Analyst Blog Highlights Valero, Phillips 66 and Eni | Zacks | 2026-09-22 |
-| XLE Is 91% Oil and Gas. Investors Buying “Energy” May Own Less Than They Think | 24/7 Wall St. | 2026-09-21 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

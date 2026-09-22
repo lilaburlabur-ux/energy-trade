@@ -32,15 +32,6 @@ Signed file: `PEG.research.22.09.2026`
 ## 2. Company Overview and Recent Catalysts
 Public Service Enterprise Group Incorporated, through its subsidiaries, operates in electric and gas utility, and nuclear generation businesses in the United States. It operates through PSE&G and PSEG Power segments. The PSE&G segment transmits electricity; distributes electricity and natural gas to residential, commercial, and industrial customers; and appliance services and repairs to customers through its service territory, as well as invests in solar generation projects, and energy efficiency and related programs.
 
-**Recent headlines (potential catalysts):**
-
-| Headline | Source | Date |
-|---|---|---|
-| Public Service Enterprise Group CEO Sells 2,083 Shares | Motley Fool | 2026-09-11 |
-| Public Service Enterprise Group Stock: Is PEG Underperforming the Utilities Sector? | Barchart | 2026-09-10 |
-| Public Service Enterprise Group Inc's Dividend Analysis | GuruFocus.com | 2026-09-09 |
-| PSEG (PEG) Down 2.9% Since Last Earnings Report: Can It Rebound? | Zacks | 2026-09-03 |
-
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
