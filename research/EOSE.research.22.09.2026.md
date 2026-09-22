@@ -5,7 +5,7 @@ Signed file: `EOSE.research.22.09.2026`
 | Field | Value |
 |---|---|
 | Current price | $4.06 (2026-09-22, ~15-min delayed) |
-| Market cap | $1.48B |
+| Market cap | $1.47B |
 | Sector / Industry | Industrials / Electrical Equipment & Parts |
 | Main theme | Electrical Equipment & Parts — see catalysts below |
 | Current stance | Low technical momentum, weak fundamentals, value: reasonable, risk: high. |
@@ -36,10 +36,10 @@ Eos Energy Enterprises, Inc. designs, develops, manufactures, and markets energy
 
 | Headline | Source | Date |
 |---|---|---|
+| Bloom Energy vs. Eos Energy Enterprises: Which Energy Storage Stock Is a Better Buy in 2026? | Motley Fool | 2026-09-22 |
 | Eos Energy Enterprises vs. NANO Nuclear Energy: Which Stock Is a Better Buy in 2026? | Motley Fool | 2026-09-20 |
 | Eos Energy Enterprises vs. GE Vernova: Which Stock Is a Better Buy in 2026? | Motley Fool | 2026-09-20 |
 | QuantumScape Is Down 51% This Year. Is QS Stock Dead Money or Due for a Bounce? | 24/7 Wall St. | 2026-09-15 |
-| Google Plans to Build Mammoth Solar Farm on an Abandoned Coal Mine. This Penny Stock Just Won the Deal. | Barchart | 2026-09-10 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -114,7 +114,7 @@ Eos Energy Enterprises, Inc. designs, develops, manufactures, and markets energy
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $4.06 | EV/Sales | 11.81 |
-| Market cap | $1.48B | EV/EBITDA | -8.90 |
+| Market cap | $1.47B | EV/EBITDA | -8.90 |
 | Beta | 2.78 | Gross margin | -84.75% |
 | RSI(14) | 53.7 | Operating margin | -121.86% |
 | ATR(14) | 0.32 | Profit margin | -246.76% |

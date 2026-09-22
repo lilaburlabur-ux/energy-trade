@@ -36,10 +36,10 @@ The Williams Companies, Inc., together with its subsidiaries, operates as an ene
 
 | Headline | Source | Date |
 |---|---|---|
+| Kinder Morgan Poised to Benefit From Higher Commodity Prices, RBC Says | MT Newswires | 2026-09-22 |
 | 3 Stocks Put Traders Are Targeting Today: EXE, APH, WMB | Schaeffer's Investment Research | 2026-09-22 |
 | Williams Companies (WMB) Debt Deal Puts Its Valuation Story Back In Focus | Simply Wall St. | 2026-09-22 |
 | XLE Is 91% Oil and Gas. Investors Buying “Energy” May Own Less Than They Think | 24/7 Wall St. | 2026-09-21 |
-| Natural Gas Gains 2.9% for the Week: What's Driving the Rise? | Zacks | 2026-09-21 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -5,7 +5,7 @@ Signed file: `FANG.research.22.09.2026`
 | Field | Value |
 |---|---|
 | Current price | $184.50 (2026-09-22, ~15-min delayed) |
-| Market cap | $51.90B |
+| Market cap | $51.66B |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
@@ -36,10 +36,10 @@ Diamondback Energy, Inc., an independent oil and natural gas company, acquires, 
 
 | Headline | Source | Date |
 |---|---|---|
-| Stocks Supported as Crude Oil Prices Ease | Barchart | 2026-09-22 |
 | Diamondback Energy (FANG) Stock Drops Despite Market Gains: Important Facts to Note | Zacks | 2026-09-21 |
 | Diamondback Energy Is Down 11% This Year While the Permian Basin Keeps Pumping. Is FANG Stock a Buy? | TIKR | 2026-09-20 |
 | This Overlooked Pipeline Stock Just Became a Rival's Joint-Venture Partner Without Anyone Noticing | Motley Fool | 2026-09-20 |
+| 2 Energy Stocks with Impressive Fundamentals and 1 We Find Risky | StockStory | 2026-09-18 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -111,7 +111,7 @@ Diamondback Energy, Inc., an independent oil and natural gas company, acquires, 
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $184.50 | EV/Sales | 4.38 |
-| Market cap | $51.90B | EV/EBITDA | 6.05 |
+| Market cap | $51.66B | EV/EBITDA | 6.05 |
 | Beta | 0.41 | Gross margin | 72.35% |
 | RSI(14) | 35.1 | Operating margin | 48.47% |
 | ATR(14) | 6.41 | Profit margin | 9.03% |

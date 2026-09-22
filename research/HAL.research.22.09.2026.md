@@ -5,7 +5,7 @@ Signed file: `HAL.research.22.09.2026`
 | Field | Value |
 |---|---|
 | Current price | $32.85 (2026-09-22, ~15-min delayed) |
-| Market cap | $27.44B |
+| Market cap | $27.37B |
 | Sector / Industry | Energy / Oil & Gas Equipment & Services |
 | Main theme | Oil & Gas Equipment & Services — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
@@ -38,8 +38,8 @@ Halliburton Company provides products and services to the energy industry worldw
 |---|---|---|
 | CLB Declines 35% in the Past Six Months: How to Play the Stock? | Zacks | 2026-09-22 |
 | Halliburton Expands Venezuela Push With Eneva & WESCA Agreements | Zacks | 2026-09-22 |
-| Stocks Supported as Crude Oil Prices Ease | Barchart | 2026-09-22 |
 | Halliburton and SLB Are 2 Energy Stocks Riding the Oilfield Recovery. 1 Is Clearly the Better Buy. | Barchart | 2026-09-22 |
+| Halliburton signs new MoUs to support Venezuelan oil and gas sector | Offshore Technology | 2026-09-22 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -112,7 +112,7 @@ Halliburton Company provides products and services to the energy industry worldw
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $32.85 | EV/Sales | 1.52 |
-| Market cap | $27.44B | EV/EBITDA | 8.22 |
+| Market cap | $27.37B | EV/EBITDA | 8.22 |
 | Beta | 0.77 | Gross margin | 15.08% |
 | RSI(14) | 36.5 | Operating margin | 12.79% |
 | ATR(14) | 1.03 | Profit margin | 7.16% |

@@ -36,10 +36,10 @@ Bloom Energy Corporation designs, manufactures, sells, and installs solid oxide 
 
 | Headline | Source | Date |
 |---|---|---|
+| Bloom Energy vs. Eos Energy Enterprises: Which Energy Storage Stock Is a Better Buy in 2026? | Motley Fool | 2026-09-22 |
+| Bloom Energy (BE) Back In Focus Following Index Reshuffle As Undervalued Narrative Builds | Simply Wall St. | 2026-09-22 |
 | Bloom Energy vs. Plug Power: Which Fuel Cell Stock Is a Better Buy in 2026? | Motley Fool | 2026-09-22 |
 | Bloom Energy Just Ripped 38% in a Month: Take Profits, or Buy More? | 24/7 Wall St. | 2026-09-22 |
-| BE vs. BLDP: Which Clean Energy Stock Has Stronger Growth Potential? | Zacks | 2026-09-22 |
-| 1 Momentum  Stock to Target This Week and 2 That Underwhelm | StockStory | 2026-09-22 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ Bloom Energy Corporation designs, manufactures, sells, and installs solid oxide 
 | Revenue (ttm) | $3.11B | Revenue growth 165.50% y/y |
 | Profitability | Gross 31.65%, operating 17.11%, net 7.87% | ROA 5.60%, ROE 22.21% |
 | Balance sheet | Cash $2.72B, debt $2.82B | Current ratio 4.09, debt/equity 171.58 |
-| Valuation | P/E 359.13, forward P/E 56.11, P/S 26.16, P/B 50.32 | EV/Sales 25.86, EV/EBITDA 192.36 |
+| Valuation | P/E 363.86, forward P/E 56.11, P/S 26.16, P/B 50.32 | EV/Sales 25.86, EV/EBITDA 192.36 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $280.24 (26 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -122,7 +122,7 @@ Bloom Energy Corporation designs, manufactures, sells, and installs solid oxide 
 | SMA200 dist | +37.89% | Revenue (ttm) | $3.11B |
 | 52W high | $345.85 | Revenue growth y/y | 165.50% |
 | 52W low | $68.69 | Inst. ownership | 86.08% |
-| P/E (ttm) | 359.13 | Insider ownership | 5.54% |
+| P/E (ttm) | 363.86 | Insider ownership | 5.54% |
 | Forward P/E | 56.11 | Short float | 7.43% |
 | PEG (trailing) | 0.62 | Avg volume | 16,267,726 |
 | P/S | 26.16 | Employees | 2,214 |

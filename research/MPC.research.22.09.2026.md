@@ -5,7 +5,7 @@ Signed file: `MPC.research.22.09.2026`
 | Field | Value |
 |---|---|
 | Current price | $389.68 (2026-09-22, ~15-min delayed) |
-| Market cap | $113.76B |
+| Market cap | $109.43B |
 | Sector / Industry | Energy / Oil & Gas Refining & Marketing |
 | Main theme | Oil & Gas Refining & Marketing — see catalysts below |
 | Current stance | High technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
@@ -37,7 +37,7 @@ Marathon Petroleum Corporation, together with its subsidiaries, operates as an i
 | Headline | Source | Date |
 |---|---|---|
 | Sector Update: Energy Stocks Decline Late Afternoon | MT Newswires | 2026-09-22 |
-| Stocks Supported as Crude Oil Prices Ease | Barchart | 2026-09-22 |
+| Diesel Hits a Record. Why Valero and Marathon Stock Could Be Running Out of Gas. | Barrons.com | 2026-09-22 |
 | Does HF Sinclair's Diversified Refining Base Enhance Its Resilience? | Zacks | 2026-09-22 |
 | Investors Heavily Search Marathon Petroleum Corporation (MPC): Here is What You Need to Know | Zacks | 2026-09-22 |
 
@@ -111,7 +111,7 @@ Marathon Petroleum Corporation, together with its subsidiaries, operates as an i
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $389.68 | EV/Sales | 0.95 |
-| Market cap | $113.76B | EV/EBITDA | 9.49 |
+| Market cap | $109.43B | EV/EBITDA | 9.49 |
 | Beta | 0.53 | Gross margin | 12.82% |
 | RSI(14) | 54.5 | Operating margin | 13.56% |
 | ATR(14) | 14.32 | Profit margin | 5.55% |

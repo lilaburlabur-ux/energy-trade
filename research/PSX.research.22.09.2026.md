@@ -5,7 +5,7 @@ Signed file: `PSX.research.22.09.2026`
 | Field | Value |
 |---|---|
 | Current price | $256.78 (2026-09-22, ~15-min delayed) |
-| Market cap | $102.46B |
+| Market cap | $102.95B |
 | Sector / Industry | Energy / Oil & Gas Refining & Marketing |
 | Main theme | Oil & Gas Refining & Marketing — see catalysts below |
 | Current stance | High technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
@@ -37,9 +37,9 @@ Phillips 66 operates as an integrated downstream energy provider in the United S
 | Headline | Source | Date |
 |---|---|---|
 | Will Par Pacific's Retail Expansion Boost Earnings Stability Ahead? | Zacks | 2026-09-22 |
-| Stocks Supported as Crude Oil Prices Ease | Barchart | 2026-09-22 |
 | Does HF Sinclair's Diversified Refining Base Enhance Its Resilience? | Zacks | 2026-09-22 |
 | The Zacks Analyst Blog Highlights Valero, Phillips 66 and Eni | Zacks | 2026-09-22 |
+| Phillips 66 (PSX) Stock Slides as Market Rises: Facts to Know Before You Trade | Zacks | 2026-09-21 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -112,7 +112,7 @@ Phillips 66 operates as an integrated downstream energy provider in the United S
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $256.78 | EV/Sales | 0.80 |
-| Market cap | $102.46B | EV/EBITDA | 12.30 |
+| Market cap | $102.95B | EV/EBITDA | 12.30 |
 | Beta | 0.70 | Gross margin | 13.10% |
 | RSI(14) | 56.4 | Operating margin | 8.53% |
 | ATR(14) | 8.43 | Profit margin | 4.66% |

@@ -5,7 +5,7 @@ Signed file: `KMI.research.22.09.2026`
 | Field | Value |
 |---|---|
 | Current price | $31.27 (2026-09-22, ~15-min delayed) |
-| Market cap | $69.57B |
+| Market cap | $69.63B |
 | Sector / Industry | Energy / Oil & Gas Midstream |
 | Main theme | Oil & Gas Midstream — see catalysts below |
 | Current stance | Moderate technical momentum, strong fundamentals, value: fair-to-demanding, risk: moderate. |
@@ -36,10 +36,10 @@ Kinder Morgan, Inc. operates as an energy infrastructure company primarily in No
 
 | Headline | Source | Date |
 |---|---|---|
+| Kinder Morgan Poised to Benefit From Higher Commodity Prices, RBC Says | MT Newswires | 2026-09-22 |
 | XLE Is 91% Oil and Gas. Investors Buying “Energy” May Own Less Than They Think | 24/7 Wall St. | 2026-09-21 |
 | 2 High-Yield Energy Dividend Stocks to Buy in September With Dividends You Can Count On | Motley Fool | 2026-09-21 |
 | Kinder Morgan, Inc. (KMI) is Attracting Investor Attention: Here is What You Should Know | Zacks | 2026-09-21 |
-| Why Kinder Morgan Stock’s Payout Ratio Rebound to 77% Matters for Future Raises | TIKR | 2026-09-20 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -111,7 +111,7 @@ Kinder Morgan, Inc. operates as an energy infrastructure company primarily in No
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $31.27 | EV/Sales | 5.80 |
-| Market cap | $69.57B | EV/EBITDA | 13.65 |
+| Market cap | $69.63B | EV/EBITDA | 13.65 |
 | Beta | 0.55 | Gross margin | 49.41% |
 | RSI(14) | 47.7 | Operating margin | 30.06% |
 | ATR(14) | 0.74 | Profit margin | 19.30% |
