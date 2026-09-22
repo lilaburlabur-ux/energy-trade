@@ -32,6 +32,15 @@ Signed file: `NOV.research.22.09.2026`
 ## 2. Company Overview and Recent Catalysts
 NOV Inc. designs, constructs, manufactures, and sells systems, components, and products for oil and gas drilling and production, and industrial and renewable energy sectors in the United States and internationally. It operates in two segments, Energy Equipment, and Energy Products and Services.
 
+**Recent headlines (potential catalysts):**
+
+| Headline | Source | Date |
+|---|---|---|
+| NESR Leverages Technology Portfolio and Scale to Drive Growth | Zacks | 2026-09-22 |
+| Here's Why Investors Should Take a Wait-and-See Approach to NOV Stock | Zacks | 2026-09-21 |
+| FET vs. NOV: Which Energy Equipment Company Has an Edge? | Zacks | 2026-09-18 |
+| Q2 Earnings Outperformers: NOV (NYSE:NOV) And The Rest Of The Oilfield Services Stocks | StockStory | 2026-09-15 |
+
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
@@ -59,7 +68,7 @@ NOV Inc. designs, constructs, manufactures, and sells systems, components, and p
 | Revenue (ttm) | $8.64B | Revenue growth -2.50% y/y |
 | Profitability | Gross 21.65%, operating 7.17%, net 1.10% | ROA 3.45%, ROE 1.54% |
 | Balance sheet | Cash $1.16B, debt $2.33B | Current ratio 2.42, debt/equity 37.15 |
-| Valuation | P/E 74.74, forward P/E 15.77, P/S 0.83, P/B 1.16 | EV/Sales 0.97, EV/EBITDA 8.52 |
+| Valuation | P/E 74.74, forward P/E 15.77, P/S 0.83, P/B 1.16 | EV/Sales 0.97, EV/EBITDA 8.53 |
 | Growth expectations | Earnings growth 7.60%, EPS q/q 3.70% | Analyst mean target $22.24 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -104,7 +113,7 @@ NOV Inc. designs, constructs, manufactures, and sells systems, components, and p
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $20.18 | EV/Sales | 0.97 |
-| Market cap | $7.19B | EV/EBITDA | 8.52 |
+| Market cap | $7.19B | EV/EBITDA | 8.53 |
 | Beta | 0.94 | Gross margin | 21.65% |
 | RSI(14) | 44.0 | Operating margin | 7.17% |
 | ATR(14) | 0.65 | Profit margin | 1.10% |

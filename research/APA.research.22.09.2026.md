@@ -18,7 +18,7 @@ Signed file: `APA.research.22.09.2026`
 | Technical momentum | High | 1Y +86.44%; price +23.11% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -10.78% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 19.56%, revenue growth 9.20%. |
-| Value attractiveness | Reasonable | Forward P/E 9.46, EV/Sales 2.30. |
+| Value attractiveness | Reasonable | Forward P/E 9.64, EV/Sales 2.24. |
 | Risk level | Elevated | Beta 0.37, ATR 3.7% of price, short float 9.10%. |
 
 **Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
@@ -68,7 +68,7 @@ APA Corporation, an independent energy company, explores for, develops, and prod
 | Revenue (ttm) | $8.57B | Revenue growth 9.20% y/y |
 | Profitability | Gross 78.25%, operating 56.33%, net 19.56% | ROA 11.60%, ROE 26.66% |
 | Balance sheet | Cash $444.00M, debt $3.88B | Current ratio 0.95, debt/equity 48.85 |
-| Valuation | P/E 8.92, forward P/E 9.46, P/S 1.73, P/B 2.11 | EV/Sales 2.30, EV/EBITDA 3.45 |
+| Valuation | P/E 8.92, forward P/E 9.64, P/S 1.73, P/B 2.11 | EV/Sales 2.24, EV/EBITDA 3.35 |
 | Growth expectations | Earnings growth 26.30%, EPS q/q 23.90% | Analyst mean target $45.96 (25 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -111,8 +111,8 @@ APA Corporation, an independent energy company, explores for, develops, and prod
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $42.30 | EV/Sales | 2.30 |
-| Market cap | $14.82B | EV/EBITDA | 3.45 |
+| Price | $42.30 | EV/Sales | 2.24 |
+| Market cap | $14.82B | EV/EBITDA | 3.35 |
 | Beta | 0.37 | Gross margin | 78.25% |
 | RSI(14) | 47.1 | Operating margin | 56.33% |
 | ATR(14) | 1.55 | Profit margin | 19.56% |
@@ -122,7 +122,7 @@ APA Corporation, an independent energy company, explores for, develops, and prod
 | 52W high | $47.41 | Revenue growth y/y | 9.20% |
 | 52W low | $21.16 | Inst. ownership | 110.16% |
 | P/E (ttm) | 8.92 | Insider ownership | 0.44% |
-| Forward P/E | 9.46 | Short float | 9.10% |
+| Forward P/E | 9.64 | Short float | 9.10% |
 | PEG (trailing) | 1.18 | Avg volume | 5,577,038 |
 | P/S | 1.73 | Employees | 1,791 |
 | P/B | 2.11 | Analyst rec (1=buy..5=sell) | 2.6 |

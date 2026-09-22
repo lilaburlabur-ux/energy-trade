@@ -5,7 +5,7 @@ Signed file: `HAL.research.22.09.2026`
 | Field | Value |
 |---|---|
 | Current price | $32.85 (2026-09-22, ~15-min delayed) |
-| Market cap | $27.37B |
+| Market cap | $27.44B |
 | Sector / Industry | Energy / Oil & Gas Equipment & Services |
 | Main theme | Oil & Gas Equipment & Services — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
@@ -68,7 +68,7 @@ Halliburton Company provides products and services to the energy industry worldw
 | Revenue (ttm) | $22.37B | Revenue growth 3.70% y/y |
 | Profitability | Gross 15.08%, operating 12.79%, net 7.16% | ROA 7.26%, ROE 14.92% |
 | Balance sheet | Cash $2.05B, debt $8.20B | Current ratio 2.02, debt/equity 74.19 |
-| Valuation | P/E 17.20, forward P/E 11.32, P/S 1.22, P/B 2.49 | EV/Sales 1.52, EV/EBITDA 8.22 |
+| Valuation | P/E 17.20, forward P/E 11.32, P/S 1.23, P/B 2.49 | EV/Sales 1.52, EV/EBITDA 8.22 |
 | Growth expectations | Earnings growth 16.10%, EPS q/q 13.10% | Analyst mean target $43.24 (25 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -112,7 +112,7 @@ Halliburton Company provides products and services to the energy industry worldw
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $32.85 | EV/Sales | 1.52 |
-| Market cap | $27.37B | EV/EBITDA | 8.22 |
+| Market cap | $27.44B | EV/EBITDA | 8.22 |
 | Beta | 0.77 | Gross margin | 15.08% |
 | RSI(14) | 36.5 | Operating margin | 12.79% |
 | ATR(14) | 1.03 | Profit margin | 7.16% |
@@ -124,7 +124,7 @@ Halliburton Company provides products and services to the energy industry worldw
 | P/E (ttm) | 17.20 | Insider ownership | 0.40% |
 | Forward P/E | 11.32 | Short float | 5.57% |
 | PEG (trailing) | 0.69 | Avg volume | 11,518,701 |
-| P/S | 1.22 | Employees | 46,000 |
+| P/S | 1.23 | Employees | 46,000 |
 | P/B | 2.49 | Analyst rec (1=buy..5=sell) | 1.8 |
 
 ## 8. Analyst Actions

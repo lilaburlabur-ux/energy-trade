@@ -18,7 +18,7 @@ Signed file: `SHEL.research.22.09.2026`
 | Technical momentum | Moderate | 1Y +37.62%; price +13.05% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -5.07% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 8.76%, revenue growth 44.70%. |
-| Value attractiveness | Reasonable | Forward P/E 9.19, EV/Sales 1.02. |
+| Value attractiveness | Reasonable | Forward P/E 9.07, EV/Sales 1.03. |
 | Risk level | Moderate | Beta -0.22, ATR 1.8% of price, short float 1.54%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -68,7 +68,7 @@ Shell plc operates as an energy and petrochemical company in Europe, Asia, Ocean
 | Revenue (ttm) | $296.60B | Revenue growth 44.70% y/y |
 | Profitability | Gross 26.09%, operating 16.69%, net 8.76% | ROA 6.40%, ROE 14.34% |
 | Balance sheet | Cash $31.37B, debt $73.08B | Current ratio 1.44, debt/equity 40.20 |
-| Valuation | P/E 10.39, forward P/E 9.19, P/S 0.90, P/B 1.45 | EV/Sales 1.02, EV/EBITDA 5.25 |
+| Valuation | P/E 10.39, forward P/E 9.07, P/S 0.90, P/B 1.45 | EV/Sales 1.03, EV/EBITDA 5.28 |
 | Growth expectations | Earnings growth 220.00%, EPS q/q 200.50% | Analyst mean target $100.68 (15 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -110,8 +110,8 @@ Shell plc operates as an energy and petrochemical company in Europe, Asia, Ocean
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $93.93 | EV/Sales | 1.02 |
-| Market cap | $268.24B | EV/EBITDA | 5.25 |
+| Price | $93.93 | EV/Sales | 1.03 |
+| Market cap | $268.24B | EV/EBITDA | 5.28 |
 | Beta | -0.22 | Gross margin | 26.09% |
 | RSI(14) | 52.3 | Operating margin | 16.69% |
 | ATR(14) | 1.65 | Profit margin | 8.76% |
@@ -121,7 +121,7 @@ Shell plc operates as an energy and petrochemical company in Europe, Asia, Ocean
 | 52W high | $98.95 | Revenue growth y/y | 44.70% |
 | 52W low | $68.43 | Inst. ownership | 13.38% |
 | P/E (ttm) | 10.39 | Insider ownership | 0.01% |
-| Forward P/E | 9.19 | Short float | 1.54% |
+| Forward P/E | 9.07 | Short float | 1.54% |
 | PEG (trailing) | 1.58 | Avg volume | 6,310,573 |
 | P/S | 0.90 | Employees | 84,000 |
 | P/B | 1.45 | Analyst rec (1=buy..5=sell) | 2.2 |

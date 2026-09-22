@@ -18,7 +18,7 @@ Signed file: `WFRD.research.22.09.2026`
 | Technical momentum | Low | Below SMA200 (-9.30%) with negative half-year (-7.72%). |
 | Fresh setup quality | Moderate / wait | -24.37% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 7.66%, revenue growth -8.20%. |
-| Value attractiveness | Reasonable | Forward P/E 11.90, EV/Sales 1.34. |
+| Value attractiveness | Reasonable | Forward P/E 11.90, EV/Sales 1.37. |
 | Risk level | Elevated | Beta 0.90, ATR 4.3% of price, short float 6.87%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
@@ -31,6 +31,15 @@ Signed file: `WFRD.research.22.09.2026`
 
 ## 2. Company Overview and Recent Catalysts
 Weatherford International plc, an energy services company, provides equipment and services for the drilling, evaluation, completion, production, and intervention of oil, geothermal, and natural gas wells worldwide. The company operates through three segments: Drilling and Evaluation; Well Construction and Completions; and Production and Intervention.
+
+**Recent headlines (potential catalysts):**
+
+| Headline | Source | Date |
+|---|---|---|
+| 1 of Wall Street’s Favorite Stocks to Own for Decades and 2 We Ignore | StockStory | 2026-09-21 |
+| Q2 Earnings Highs And Lows: Weatherford (NASDAQ:WFRD) Vs The Rest Of The Mixed or Offshore Upstream E&P Stocks | StockStory | 2026-09-18 |
+| Solaris Energy Infrastructure, TETRA Technologies, SLB, and Weatherford Stocks Trade Down, What You Need To Know | StockStory | 2026-09-01 |
+| Weatherford International’s (WFRD) Remarkable Recovery | Insider Monkey | 2026-08-27 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -59,7 +68,7 @@ Weatherford International plc, an energy services company, provides equipment an
 | Revenue (ttm) | $4.78B | Revenue growth -8.20% y/y |
 | Profitability | Gross 30.51%, operating 10.50%, net 7.66% | ROA 7.90%, ROE 22.79% |
 | Balance sheet | Cash $1.10B, debt $1.62B | Current ratio 2.34, debt/equity 90.67 |
-| Valuation | P/E 16.57, forward P/E 11.90, P/S 1.26, P/B 3.37 | EV/Sales 1.34, EV/EBITDA 6.91 |
+| Valuation | P/E 16.57, forward P/E 11.90, P/S 1.26, P/B 3.37 | EV/Sales 1.37, EV/EBITDA 7.04 |
 | Growth expectations | Earnings growth -71.00%, EPS q/q -71.30% | Analyst mean target $117.42 (12 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -102,8 +111,8 @@ Weatherford International plc, an energy services company, provides equipment an
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $84.00 | EV/Sales | 1.34 |
-| Market cap | $6.01B | EV/EBITDA | 6.91 |
+| Price | $84.00 | EV/Sales | 1.37 |
+| Market cap | $6.01B | EV/EBITDA | 7.04 |
 | Beta | 0.90 | Gross margin | 30.51% |
 | RSI(14) | 40.3 | Operating margin | 10.50% |
 | ATR(14) | 3.59 | Profit margin | 7.66% |

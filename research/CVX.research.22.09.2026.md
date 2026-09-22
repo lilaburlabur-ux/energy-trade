@@ -18,7 +18,7 @@ Signed file: `CVX.research.22.09.2026`
 | Technical momentum | Moderate | 1Y +34.68%; price +11.37% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -7.05% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 9.83%, revenue growth 53.50%. |
-| Value attractiveness | Reasonable | Forward P/E 14.92, EV/Sales 2.07. |
+| Value attractiveness | Reasonable | Forward P/E 14.92, EV/Sales 2.06. |
 | Risk level | Moderate | Beta 0.49, ATR 2.2% of price, short float 1.05%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -31,6 +31,15 @@ Signed file: `CVX.research.22.09.2026`
 
 ## 2. Company Overview and Recent Catalysts
 Chevron Corporation, through its subsidiaries, engages in the integrated energy and chemicals operations. It operates through Upstream and Downstream segments. The Upstream segment engages in the exploration for, development, production, and transportation of crude oil and natural gas; processing, liquefaction, transportation, and regasification of liquefied natural gas; transportation of crude oil through pipelines; transportation, storage, and marketing of natural gas; carbon capture and storage; and operation of a gas-to-liquids plant.
+
+**Recent headlines (potential catalysts):**
+
+| Headline | Source | Date |
+|---|---|---|
+| 4 Integrated Energy Stocks to Benefit From Industry Tailwinds | Zacks | 2026-09-22 |
+| Update: US Equity Futures Slightly Higher Pre-Bell as Oil Prices Drop Amid Optimism for Diplomacy in US-Iran Conflict | MT Newswires | 2026-09-22 |
+| Chevron (CVX) Stock Drops Despite Market Gains: Important Facts to Note | Zacks | 2026-09-21 |
+| Stock Market Today: Dow Up, Nasdaq Roars To Record As Micron Does This; AMD Hits New High | Investor's Business Daily | 2026-09-21 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -59,7 +68,7 @@ Chevron Corporation, through its subsidiaries, engages in the integrated energy 
 | Revenue (ttm) | $209.38B | Revenue growth 53.50% y/y |
 | Profitability | Gross 44.27%, operating 21.87%, net 9.83% | ROA 5.86%, ROE 12.23% |
 | Balance sheet | Cash $8.53B, debt $37.08B | Current ratio 1.25, debt/equity 18.96 |
-| Valuation | P/E 19.48, forward P/E 14.92, P/S 1.90, P/B 2.09 | EV/Sales 2.07, EV/EBITDA 8.56 |
+| Valuation | P/E 19.48, forward P/E 14.92, P/S 1.90, P/B 2.09 | EV/Sales 2.06, EV/EBITDA 8.51 |
 | Growth expectations | Earnings growth 321.90%, EPS q/q 384.80% | Analyst mean target $222.17 (24 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -101,8 +110,8 @@ Chevron Corporation, through its subsidiaries, engages in the integrated energy 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $202.41 | EV/Sales | 2.07 |
-| Market cap | $397.05B | EV/EBITDA | 8.56 |
+| Price | $202.41 | EV/Sales | 2.06 |
+| Market cap | $397.05B | EV/EBITDA | 8.51 |
 | Beta | 0.49 | Gross margin | 44.27% |
 | RSI(14) | 45.1 | Operating margin | 21.87% |
 | ATR(14) | 4.54 | Profit margin | 9.83% |

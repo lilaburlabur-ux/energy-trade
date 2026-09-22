@@ -5,7 +5,7 @@ Signed file: `PEG.research.22.09.2026`
 | Field | Value |
 |---|---|
 | Current price | $69.12 (2026-09-22, ~15-min delayed) |
-| Market cap | $34.45B |
+| Market cap | $34.44B |
 | Sector / Industry | Utilities / Utilities - Regulated Electric |
 | Main theme | Utilities - Regulated Electric — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -18,7 +18,7 @@ Signed file: `PEG.research.22.09.2026`
 | Technical momentum | Low | Below SMA200 (-11.41%) with negative half-year (-11.86%). |
 | Fresh setup quality | Moderate / wait | -18.43% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 16.04%, revenue growth -8.90%. |
-| Value attractiveness | Reasonable | Forward P/E 14.79, EV/Sales 4.71. |
+| Value attractiveness | Reasonable | Forward P/E 14.79, EV/Sales 4.70. |
 | Risk level | Moderate | Beta 0.52, ATR 1.6% of price, short float 2.41%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -31,6 +31,15 @@ Signed file: `PEG.research.22.09.2026`
 
 ## 2. Company Overview and Recent Catalysts
 Public Service Enterprise Group Incorporated, through its subsidiaries, operates in electric and gas utility, and nuclear generation businesses in the United States. It operates through PSE&G and PSEG Power segments. The PSE&G segment transmits electricity; distributes electricity and natural gas to residential, commercial, and industrial customers; and appliance services and repairs to customers through its service territory, as well as invests in solar generation projects, and energy efficiency and related programs.
+
+**Recent headlines (potential catalysts):**
+
+| Headline | Source | Date |
+|---|---|---|
+| Public Service Enterprise Group CEO Sells 2,083 Shares | Motley Fool | 2026-09-11 |
+| Public Service Enterprise Group Stock: Is PEG Underperforming the Utilities Sector? | Barchart | 2026-09-10 |
+| Public Service Enterprise Group Inc's Dividend Analysis | GuruFocus.com | 2026-09-09 |
+| PSEG (PEG) Down 2.9% Since Last Earnings Report: Can It Rebound? | Zacks | 2026-09-03 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -59,7 +68,7 @@ Public Service Enterprise Group Incorporated, through its subsidiaries, operates
 | Revenue (ttm) | $12.54B | Revenue growth -8.90% y/y |
 | Profitability | Gross 33.33%, operating 18.87%, net 16.04% | ROA 3.24%, ROE 11.83% |
 | Balance sheet | Cash $192.00M, debt $24.68B | Current ratio 0.88, debt/equity 142.41 |
-| Valuation | P/E 17.19, forward P/E 14.79, P/S 2.75, P/B 1.99 | EV/Sales 4.71, EV/EBITDA 13.23 |
+| Valuation | P/E 17.19, forward P/E 14.79, P/S 2.75, P/B 1.99 | EV/Sales 4.70, EV/EBITDA 13.21 |
 | Growth expectations | Earnings growth -42.70%, EPS q/q -42.90% | Analyst mean target $85.31 (18 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -100,8 +109,8 @@ Public Service Enterprise Group Incorporated, through its subsidiaries, operates
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $69.12 | EV/Sales | 4.71 |
-| Market cap | $34.45B | EV/EBITDA | 13.23 |
+| Price | $69.12 | EV/Sales | 4.70 |
+| Market cap | $34.44B | EV/EBITDA | 13.21 |
 | Beta | 0.52 | Gross margin | 33.33% |
 | RSI(14) | 26.3 | Operating margin | 18.87% |
 | ATR(14) | 1.09 | Profit margin | 16.04% |

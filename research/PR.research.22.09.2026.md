@@ -18,7 +18,7 @@ Signed file: `PR.research.22.09.2026`
 | Technical momentum | High | 1Y +66.27%; price +13.05% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -12.49% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 21.52%, revenue growth 55.10%. |
-| Value attractiveness | Reasonable | Forward P/E 9.58, EV/Sales 3.73. |
+| Value attractiveness | Reasonable | Forward P/E 9.58, EV/Sales 3.63. |
 | Risk level | Elevated | Beta 0.48, ATR 3.4% of price, short float 2.47%. |
 
 **Bottom line:** High technical momentum, strong fundamentals, value: reasonable, risk: elevated.
@@ -68,7 +68,7 @@ Permian Resources Corporation, an independent oil and natural gas company, focus
 | Revenue (ttm) | $5.74B | Revenue growth 55.10% y/y |
 | Profitability | Gross 75.85%, operating 57.44%, net 21.52% | ROA 7.54%, ROE 11.40% |
 | Balance sheet | Cash $131.72M, debt $3.15B | Current ratio 0.62, debt/equity 26.25 |
-| Valuation | P/E 13.74, forward P/E 9.58, P/S 3.11, P/B 1.49 | EV/Sales 3.73, EV/EBITDA 5.03 |
+| Valuation | P/E 13.74, forward P/E 9.58, P/S 3.11, P/B 1.49 | EV/Sales 3.63, EV/EBITDA 4.90 |
 | Growth expectations | Earnings growth 232.90%, EPS q/q 282.60% | Analyst mean target $27.00 (21 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -110,8 +110,8 @@ Permian Resources Corporation, an independent oil and natural gas company, focus
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $21.29 | EV/Sales | 3.73 |
-| Market cap | $17.83B | EV/EBITDA | 5.03 |
+| Price | $21.29 | EV/Sales | 3.63 |
+| Market cap | $17.83B | EV/EBITDA | 4.90 |
 | Beta | 0.48 | Gross margin | 75.85% |
 | RSI(14) | 38.0 | Operating margin | 57.44% |
 | ATR(14) | 0.72 | Profit margin | 21.52% |

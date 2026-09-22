@@ -32,6 +32,15 @@ Signed file: `SO.research.22.09.2026`
 ## 2. Company Overview and Recent Catalysts
 The Southern Company, through its subsidiaries, engages in the sale of electricity. The company offers electric service to retail customers and wholesale customers; and energy-related products and services to natural gas choice markets. It also develops, constructs, acquires, owns, operates, and manages power generation assets, as well as battery energy storage projects; sells electricity at market-based rates in the wholesale market; and deploys microgrids for commercial, industrial, governmental, and utility customers.
 
+**Recent headlines (potential catalysts):**
+
+| Headline | Source | Date |
+|---|---|---|
+| Sector Update: Energy Stocks Decline Late Afternoon | MT Newswires | 2026-09-22 |
+| Sector Update: Energy Stocks Mixed Tuesday Afternoon | MT Newswires | 2026-09-22 |
+| Top Midday Stories: Goldman Reportedly in Talks to Acquire $37 Billion Credit Firm Palmer Square; Viking Obesity Drug Candidate Showed 'Superior' Results in Study | MT Newswires | 2026-09-22 |
+| High-Yield Dividend Stocks Throw Off Serious Income. Where You Hold Them Matters | 24/7 Wall St. | 2026-09-19 |
+
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
