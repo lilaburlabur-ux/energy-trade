@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-22T20:48:18+00:00",
-  "as_of_local": "2026-09-22 20:48:18 UTC",
+  "as_of_utc": "2026-09-22T20:53:27+00:00",
+  "as_of_local": "2026-09-22 20:53:27 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -150,7 +150,7 @@
       "price": 442.49,
       "previous_close": 435.43,
       "change_pct": 1.62,
-      "market_cap": 171863112207.03125,
+      "market_cap": 171818863208.0078,
       "headlines": [
         {
           "title": "Eaton vs. Vertiv: Which Data Center Power Stock Has an Edge?",
@@ -178,7 +178,7 @@
       "price": 79.26,
       "previous_close": 79.63,
       "change_pct": -0.46,
-      "market_cap": 165334637301.4702,
+      "market_cap": 165305085130.4137,
       "headlines": [
         {
           "title": "Should NextEra\u2019s US$1.9 Billion Google-Backed Nuclear Restart Require Action From NextEra Energy (NEE) Investors?",
@@ -229,6 +229,34 @@
       ]
     },
     {
+      "symbol": "MPC",
+      "name": "Marathon Petroleum",
+      "price": 389.68,
+      "previous_close": 402.38,
+      "change_pct": -3.16,
+      "market_cap": 113761865788.59222,
+      "headlines": [
+        {
+          "title": "Sector Update: Energy Stocks Decline Late Afternoon",
+          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-decline-afternoon-200356035.html",
+          "publisher": "MT Newswires",
+          "published": "2026-09-22T20:03:56Z"
+        },
+        {
+          "title": "Does HF Sinclair's Diversified Refining Base Enhance Its Resilience?",
+          "url": "https://finance.yahoo.com/energy/articles/does-hf-sinclairs-diversified-refining-134600967.html",
+          "publisher": "Zacks",
+          "published": "2026-09-22T13:46:00Z"
+        },
+        {
+          "title": "Investors Heavily Search Marathon Petroleum Corporation (MPC): Here is What You Need to Know",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/investors-heavily-search-marathon-petroleum-130002662.html",
+          "publisher": "Zacks",
+          "published": "2026-09-22T13:00:02Z"
+        }
+      ]
+    },
+    {
       "symbol": "BP",
       "name": "BP",
       "price": 43.1,
@@ -253,34 +281,6 @@
           "url": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-31b0c987?siteid=yhoof2&yptr=yahoo",
           "publisher": "The Wall Street Journal",
           "published": "2026-09-21T20:55:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "MPC",
-      "name": "Marathon Petroleum",
-      "price": 389.68,
-      "previous_close": 402.38,
-      "change_pct": -3.16,
-      "market_cap": 109431791589.018,
-      "headlines": [
-        {
-          "title": "Sector Update: Energy Stocks Decline Late Afternoon",
-          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-decline-afternoon-200356035.html",
-          "publisher": "MT Newswires",
-          "published": "2026-09-22T20:03:56Z"
-        },
-        {
-          "title": "Does HF Sinclair's Diversified Refining Base Enhance Its Resilience?",
-          "url": "https://finance.yahoo.com/energy/articles/does-hf-sinclairs-diversified-refining-134600967.html",
-          "publisher": "Zacks",
-          "published": "2026-09-22T13:46:00Z"
-        },
-        {
-          "title": "Investors Heavily Search Marathon Petroleum Corporation (MPC): Here is What You Need to Know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/investors-heavily-search-marathon-petroleum-130002662.html",
-          "publisher": "Zacks",
-          "published": "2026-09-22T13:00:02Z"
         }
       ]
     },
@@ -517,6 +517,12 @@
       "market_cap": 86820431268.65198,
       "headlines": [
         {
+          "title": "Kinder Morgan Poised to Benefit From Higher Commodity Prices, RBC Says",
+          "url": "https://finance.yahoo.com/markets/commodities/articles/kinder-morgan-poised-benefit-higher-204157718.html",
+          "publisher": "MT Newswires",
+          "published": "2026-09-22T20:41:57Z"
+        },
+        {
           "title": "3 Stocks Put Traders Are Targeting Today: EXE, APH, WMB",
           "url": "https://finance.yahoo.com/markets/options/articles/3-stocks-put-traders-targeting-160338868.html",
           "publisher": "Schaeffer's Investment Research",
@@ -527,12 +533,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/williams-companies-wmb-debt-deal-151904419.html",
           "publisher": "Simply Wall St.",
           "published": "2026-09-22T15:19:04Z"
-        },
-        {
-          "title": "XLE Is 91% Oil and Gas. Investors Buying \u201cEnergy\u201d May Own Less Than They Think",
-          "url": "https://finance.yahoo.com/energy/articles/xle-91-oil-gas-investors-195501253.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-09-21T19:55:01Z"
         }
       ]
     },
@@ -654,7 +654,7 @@
       "price": 139.52,
       "previous_close": 141.38,
       "change_pct": -1.32,
-      "market_cap": 73182312876.55042,
+      "market_cap": 74312334781.23459,
       "headlines": [
         {
           "title": "Energy Stock CEO Waves Goodbye to Nearly 12,000 Shares Valued at $1.8 Million",
@@ -713,6 +713,12 @@
       "market_cap": 69632102342.3791,
       "headlines": [
         {
+          "title": "Kinder Morgan Poised to Benefit From Higher Commodity Prices, RBC Says",
+          "url": "https://finance.yahoo.com/markets/commodities/articles/kinder-morgan-poised-benefit-higher-204157718.html",
+          "publisher": "MT Newswires",
+          "published": "2026-09-22T20:41:57Z"
+        },
+        {
           "title": "XLE Is 91% Oil and Gas. Investors Buying \u201cEnergy\u201d May Own Less Than They Think",
           "url": "https://finance.yahoo.com/energy/articles/xle-91-oil-gas-investors-195501253.html",
           "publisher": "24/7 Wall St.",
@@ -723,12 +729,6 @@
           "url": "https://finance.yahoo.com/energy/articles/2-high-yield-energy-dividend-180500565.html",
           "publisher": "Motley Fool",
           "published": "2026-09-21T18:05:00Z"
-        },
-        {
-          "title": "Kinder Morgan, Inc. (KMI) is Attracting Investor Attention: Here is What You Should Know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/kinder-morgan-inc-kmi-attracting-130004385.html",
-          "publisher": "Zacks",
-          "published": "2026-09-21T13:00:04Z"
         }
       ]
     },
@@ -1074,7 +1074,7 @@
       "price": 69.12,
       "previous_close": 69.31,
       "change_pct": -0.27,
-      "market_cap": 34450793842.5515,
+      "market_cap": 34443976674.92061,
       "headlines": [
         {
           "title": "Public Service Enterprise Group CEO Sells 2,083 Shares",
@@ -1494,7 +1494,7 @@
       "price": 29.78,
       "previous_close": 29.72,
       "change_pct": 0.2,
-      "market_cap": 8937324428.3503,
+      "market_cap": 9031558445.943079,
       "headlines": [
         {
           "title": "Westinghouse Electric Is Taking Nuclear Back to the Stock Market. At 63, Where He Buys the IPO Decides How Much of His Social Security Turns Taxable.",
@@ -1606,7 +1606,7 @@
       "price": 84.0,
       "previous_close": 82.2,
       "change_pct": 2.19,
-      "market_cap": 6007016736.0,
+      "market_cap": 6021577212.0,
       "headlines": [
         {
           "title": "1 of Wall Street\u2019s Favorite Stocks to Own for Decades and 2 We Ignore",
@@ -1662,7 +1662,7 @@
       "price": 34.42,
       "previous_close": 34.76,
       "change_pct": -0.98,
-      "market_cap": 4548418542.195923,
+      "market_cap": 4536494491.070251,
       "headlines": [
         {
           "title": "Enphase Energy, Inc. (ENPH) is Attracting Investor Attention: Here is What You Should Know",
@@ -1746,7 +1746,7 @@
       "price": 12.14,
       "previous_close": 12.3,
       "change_pct": -1.3,
-      "market_cap": 3214351254.982792,
+      "market_cap": 3034575185.818672,
       "headlines": [
         {
           "title": "UUUU vs. MP: Which Rare Earth Stock is a Better Pick Now?",
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 89.92,
-      "change_pct": -6.12
+      "price": 89.83,
+      "change_pct": -6.21
     },
     {
       "label": "Brent",
-      "price": 98.7,
-      "change_pct": -1.63
+      "price": 98.62,
+      "change_pct": -1.71
     },
     {
       "label": "NatGas",
-      "price": 3.17,
-      "change_pct": 11.64
+      "price": 3.16,
+      "change_pct": 11.53
     }
   ]
 }
