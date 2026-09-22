@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-22T11:07:08+00:00",
-  "as_of_local": "2026-09-22 11:07:08 UTC",
+  "as_of_utc": "2026-09-22T11:12:07+00:00",
+  "as_of_local": "2026-09-22 11:12:07 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -69,12 +69,6 @@
       "market_cap": 266359351350.34882,
       "headlines": [
         {
-          "title": "European Energy Stocks Gain After Oil Prices Rise",
-          "url": "https://www.wsj.com/finance/stocks/nikkei-could-rally-on-modest-catalysts-as-shorts-pile-up-39640022?siteid=yhoof2&yptr=yahoo",
-          "publisher": "The Wall Street Journal",
-          "published": "2026-09-22T08:32:00Z"
-        },
-        {
           "title": "Shell (SHEL) Stock Dips While Market Gains: Key Facts",
           "url": "https://finance.yahoo.com/markets/stocks/articles/shell-shel-stock-dips-while-221504627.html",
           "publisher": "Zacks",
@@ -85,6 +79,12 @@
           "url": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-31b0c987?siteid=yhoof2&yptr=yahoo",
           "publisher": "The Wall Street Journal",
           "published": "2026-09-21T20:55:00Z"
+        },
+        {
+          "title": "XLE Is 91% Oil and Gas. Investors Buying \u201cEnergy\u201d May Own Less Than They Think",
+          "url": "https://finance.yahoo.com/energy/articles/xle-91-oil-gas-investors-195501253.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-09-21T19:55:01Z"
         }
       ]
     },
@@ -125,10 +125,10 @@
       "market_cap": 198945690129.12805,
       "headlines": [
         {
-          "title": "European Energy Stocks Gain After Oil Prices Rise",
+          "title": "European Utilities to Gain From Higher Natural Gas Prices",
           "url": "https://www.wsj.com/finance/stocks/nikkei-could-rally-on-modest-catalysts-as-shorts-pile-up-39640022?siteid=yhoof2&yptr=yahoo",
           "publisher": "The Wall Street Journal",
-          "published": "2026-09-22T08:32:00Z"
+          "published": "2026-09-22T11:06:00Z"
         },
         {
           "title": "Galp (ENXTLS:GALP) Stock Still Looks Undervalued On Its 187% Five Year Run",
@@ -293,10 +293,10 @@
       "market_cap": 111151772757.11395,
       "headlines": [
         {
-          "title": "European Energy Stocks Gain After Oil Prices Rise",
+          "title": "European Utilities to Gain From Higher Natural Gas Prices",
           "url": "https://www.wsj.com/finance/stocks/nikkei-could-rally-on-modest-catalysts-as-shorts-pile-up-39640022?siteid=yhoof2&yptr=yahoo",
           "publisher": "The Wall Street Journal",
-          "published": "2026-09-22T08:32:00Z"
+          "published": "2026-09-22T11:06:00Z"
         },
         {
           "title": "BP (BP) Stock Slides as Market Rises: Facts to Know Before You Trade",
@@ -349,12 +349,6 @@
       "market_cap": 100741678614.91121,
       "headlines": [
         {
-          "title": "European Energy Stocks Gain After Oil Prices Rise",
-          "url": "https://www.wsj.com/finance/stocks/nikkei-could-rally-on-modest-catalysts-as-shorts-pile-up-39640022?siteid=yhoof2&yptr=yahoo",
-          "publisher": "The Wall Street Journal",
-          "published": "2026-09-22T08:32:00Z"
-        },
-        {
           "title": "Equinor Expands LNG Reach in Asia With PTT Trading Supply Agreement",
           "url": "https://finance.yahoo.com/energy/articles/equinor-expands-lng-reach-asia-163600168.html",
           "publisher": "Zacks",
@@ -365,6 +359,12 @@
           "url": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-american-152908906.html",
           "publisher": "MT Newswires",
           "published": "2026-09-21T15:29:08Z"
+        },
+        {
+          "title": "Equinor (OB:EQNR) Posted A Positive PEA For Its Texas Lithium Project",
+          "url": "https://finance.yahoo.com/energy/articles/equinor-ob-eqnr-posted-positive-001853429.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-09-20T00:18:53Z"
         }
       ]
     },
@@ -1021,6 +1021,12 @@
       "market_cap": 47250722342.38907,
       "headlines": [
         {
+          "title": "New Era signs 20-year PPA with Vistra for Texas data centre project",
+          "url": "https://finance.yahoo.com/energy/articles/era-signs-20-ppa-vistra-110612608.html",
+          "publisher": "Energy Monitor",
+          "published": "2026-09-22T11:06:12Z"
+        },
+        {
           "title": "New Era Energy & Digital, Inc. (NUAI) Moves 30.6% Higher: Will This Strength Last?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/era-energy-digital-inc-nuai-063800243.html",
           "publisher": "Zacks",
@@ -1031,12 +1037,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/nuai-stock-soars-era-energy-184054970.html",
           "publisher": "Barchart",
           "published": "2026-09-21T18:40:54Z"
-        },
-        {
-          "title": "Vistra Is Down 36% From Its All-Time High. Is the AI Power Trade Still Worth Owning?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-down-36-time-high-154136921.html",
-          "publisher": "TIKR",
-          "published": "2026-09-21T15:41:36Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 89.37,
-      "change_pct": -6.69
+      "price": 89.76,
+      "change_pct": -6.29
     },
     {
       "label": "Brent",
-      "price": 97.56,
-      "change_pct": -2.77
+      "price": 97.96,
+      "change_pct": -2.37
     },
     {
       "label": "NatGas",
-      "price": 2.99,
-      "change_pct": 5.57
+      "price": 3.0,
+      "change_pct": 5.68
     }
   ]
 }
