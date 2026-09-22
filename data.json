@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-22T10:51:25+00:00",
-  "as_of_local": "2026-09-22 10:51:25 UTC",
+  "as_of_utc": "2026-09-22T10:56:43+00:00",
+  "as_of_local": "2026-09-22 10:56:43 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -1413,6 +1413,12 @@
       "market_cap": 13511493502.443237,
       "headlines": [
         {
+          "title": "BWX Technologies (BWXT) Wins $4 Million Y-12 Design Contract. Could Construction Follow?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bwx-technologies-bwxt-wins-4-104356882.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-09-22T10:43:56Z"
+        },
+        {
           "title": "This Energy Stock Has 130% Upside Potential",
           "url": "https://finance.yahoo.com/markets/stocks/articles/energy-stock-130-upside-potential-180054906.html",
           "publisher": "24/7 Wall St.",
@@ -1423,12 +1429,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/1-industrials-stock-long-term-125640994.html",
           "publisher": "StockStory",
           "published": "2026-09-18T12:56:40Z"
-        },
-        {
-          "title": "Jim Cramer Picks Nokia as AI Supercycle Winner While Dumping on BWX Technologies\u2019 30x Multiple",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-picks-nokia-ai-174038456.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-09-17T17:40:38Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 89.61,
-      "change_pct": -6.44
+      "price": 89.5,
+      "change_pct": -6.56
     },
     {
       "label": "Brent",
-      "price": 97.83,
-      "change_pct": -2.5
+      "price": 97.81,
+      "change_pct": -2.52
     },
     {
       "label": "NatGas",
-      "price": 3.0,
-      "change_pct": 5.64
+      "price": 2.99,
+      "change_pct": 5.61
     }
   ]
 }
