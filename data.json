@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-22T23:14:19+00:00",
-  "as_of_local": "2026-09-22 23:14:19 UTC",
+  "as_of_utc": "2026-09-22T23:19:22+00:00",
+  "as_of_local": "2026-09-22 23:19:22 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -1103,7 +1103,26 @@
       "previous_close": 50.13,
       "change_pct": 1.36,
       "market_cap": 31782468819.015503,
-      "headlines": []
+      "headlines": [
+        {
+          "title": "My Top Natural Gas Stock Pick for 2027 and Beyond: EQT Corporation",
+          "url": "https://finance.yahoo.com/energy/articles/top-natural-gas-stock-pick-112600027.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-18T11:26:00Z"
+        },
+        {
+          "title": "EQT Stock Is Down 26% From Its 2026 Highs. Here\u2019s What Could Turn It Around",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/eqt-stock-down-26-2026-235603885.html",
+          "publisher": "TIKR",
+          "published": "2026-09-16T23:56:03Z"
+        },
+        {
+          "title": "Why Is EOG Resources (EOG) Up 11% Since Last Earnings Report?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-eog-resources-eog-11-153012782.html",
+          "publisher": "Zacks",
+          "published": "2026-09-03T15:30:12Z"
+        }
+      ]
     },
     {
       "symbol": "FTI",
@@ -2096,13 +2115,13 @@
     },
     {
       "label": "WTI",
-      "price": 89.66,
-      "change_pct": -6.39
+      "price": 89.71,
+      "change_pct": -6.34
     },
     {
       "label": "Brent",
-      "price": 98.44,
-      "change_pct": -1.89
+      "price": 98.58,
+      "change_pct": -1.75
     },
     {
       "label": "NatGas",
