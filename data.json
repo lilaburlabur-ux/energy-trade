@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-09-22T10:56:43+00:00",
-  "as_of_local": "2026-09-22 10:56:43 UTC",
+  "as_of_utc": "2026-09-22T11:02:12+00:00",
+  "as_of_local": "2026-09-22 11:02:12 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "SU"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -589,34 +591,6 @@
           "url": "https://finance.yahoo.com/video/test-etf-knowledge-iq-test-214145764.html",
           "publisher": "Bloomberg",
           "published": "2026-09-21T21:41:45Z"
-        }
-      ]
-    },
-    {
-      "symbol": "SU",
-      "name": "Suncor Energy",
-      "price": 67.24,
-      "previous_close": 69.41,
-      "change_pct": -3.13,
-      "market_cap": 79393303986.01614,
-      "headlines": [
-        {
-          "title": "Should You Buy Suncor Energy Stock After Its 63% Surge in a Year?",
-          "url": "https://finance.yahoo.com/energy/articles/buy-suncor-energy-stock-63-124600871.html",
-          "publisher": "Zacks",
-          "published": "2026-09-14T12:46:00Z"
-        },
-        {
-          "title": "Imperial Oil Stock Rises 49% YTD: Time to Hold or Lock in Profits?",
-          "url": "https://finance.yahoo.com/energy/articles/imperial-oil-stock-rises-49-150300019.html",
-          "publisher": "Zacks",
-          "published": "2026-09-08T15:03:00Z"
-        },
-        {
-          "title": "Which TSX stocks investors will be watching next week?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/tsx-stocks-investors-watching-next-115208497.html",
-          "publisher": "Investing.com",
-          "published": "2026-09-06T11:52:08Z"
         }
       ]
     },
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 89.5,
-      "change_pct": -6.56
+      "price": 89.39,
+      "change_pct": -6.67
     },
     {
       "label": "Brent",
-      "price": 97.81,
-      "change_pct": -2.52
+      "price": 97.63,
+      "change_pct": -2.7
     },
     {
       "label": "NatGas",
-      "price": 2.99,
-      "change_pct": 5.61
+      "price": 3.0,
+      "change_pct": 5.64
     }
   ]
 }
