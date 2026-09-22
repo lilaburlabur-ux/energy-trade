@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-22T07:34:13+00:00",
-  "as_of_local": "2026-09-22 07:34:13 UTC",
+  "as_of_utc": "2026-09-22T07:49:19+00:00",
+  "as_of_local": "2026-09-22 07:49:19 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -573,6 +573,12 @@
       "market_cap": 80373571764.30542,
       "headlines": [
         {
+          "title": "1 Momentum  Stock to Target This Week and 2 That Underwhelm",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/1-momentum-stock-target-week-072546370.html",
+          "publisher": "StockStory",
+          "published": "2026-09-22T07:25:46Z"
+        },
+        {
           "title": "Why Bloom Energy (BE) Outpaced the Stock Market Today",
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-bloom-energy-outpaced-stock-220002455.html",
           "publisher": "Zacks",
@@ -583,12 +589,6 @@
           "url": "https://finance.yahoo.com/video/test-etf-knowledge-iq-test-214145764.html",
           "publisher": "Bloomberg",
           "published": "2026-09-21T21:41:45Z"
-        },
-        {
-          "title": "Why Did Bloom Energy Stock More Than Triple In A Year?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-bloom-energy-stock-185137646.html",
-          "publisher": "Trefis",
-          "published": "2026-09-21T18:51:37Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 93.21,
-      "change_pct": -2.68
+      "price": 92.97,
+      "change_pct": -2.93
     },
     {
       "label": "Brent",
-      "price": 97.3,
-      "change_pct": -3.03
+      "price": 101.26,
+      "change_pct": 0.92
     },
     {
       "label": "NatGas",
-      "price": 2.84,
-      "change_pct": 0.28
+      "price": 3.0,
+      "change_pct": 5.75
     }
   ]
 }
