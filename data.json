@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-22T22:11:12+00:00",
-  "as_of_local": "2026-09-22 22:11:12 UTC",
+  "as_of_utc": "2026-09-22T22:14:44+00:00",
+  "as_of_local": "2026-09-22 22:14:44 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -209,6 +209,12 @@
       "market_cap": 152615686167.15793,
       "headlines": [
         {
+          "title": "ConocoPhillips (COP) Stock Moves -1.77%: What You Should Know",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/conocophillips-cop-stock-moves-1-220007861.html",
+          "publisher": "Zacks",
+          "published": "2026-09-22T22:00:07Z"
+        },
+        {
           "title": "Update: US Equity Futures Slightly Higher Pre-Bell as Oil Prices Drop Amid Optimism for Diplomacy in US-Iran Conflict",
           "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-slightly-higher-124246820.html",
           "publisher": "MT Newswires",
@@ -219,12 +225,6 @@
           "url": "https://finance.yahoo.com/energy/articles/xle-91-oil-gas-investors-195501253.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-09-21T19:55:01Z"
-        },
-        {
-          "title": "Like \u2018a rabbi buying a church\u2019: Delta once bought an entire oil refinery because it got tired of guessing at fuel prices",
-          "url": "https://finance.yahoo.com/energy/articles/rabbi-buying-church-delta-once-094500330.html",
-          "publisher": "Moneywise",
-          "published": "2026-09-20T09:45:00Z"
         }
       ]
     },
@@ -293,6 +293,12 @@
       "market_cap": 108588966859.22742,
       "headlines": [
         {
+          "title": "Valero Energy (VLO) Stock Moves -4.10%: What You Should Know",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/valero-energy-vlo-stock-moves-220008518.html",
+          "publisher": "Zacks",
+          "published": "2026-09-22T22:00:08Z"
+        },
+        {
           "title": "Diesel Hits a Record. Why Valero and Marathon Stock Could Be Running Out of Gas.",
           "url": "https://www.barrons.com/articles/diesel-prices-valero-marathon-refining-stocks-4487b345?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
@@ -303,12 +309,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/netflix-downgraded-sandisk-initiated-wall-134453114.html",
           "publisher": "The Fly",
           "published": "2026-09-22T13:44:53Z"
-        },
-        {
-          "title": "The Zacks Analyst Blog Highlights Valero, Phillips 66 and Eni",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-valero-130100771.html",
-          "publisher": "Zacks",
-          "published": "2026-09-22T13:01:00Z"
         }
       ]
     },
@@ -2115,13 +2115,13 @@
     },
     {
       "label": "WTI",
-      "price": 89.99,
-      "change_pct": -6.05
+      "price": 89.91,
+      "change_pct": -6.13
     },
     {
       "label": "Brent",
-      "price": 98.87,
-      "change_pct": -1.47
+      "price": 98.71,
+      "change_pct": -1.62
     },
     {
       "label": "NatGas",
