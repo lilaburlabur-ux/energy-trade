@@ -32,15 +32,6 @@ Signed file: `D.research.22.09.2026`
 ## 2. Company Overview and Recent Catalysts
 Dominion Energy, Inc. provides regulated electricity and natural gas services in the United States. It operates through Dominion Energy Virginia, Dominion Energy South Carolina, and Contracted Energy segments. The Dominion Energy Virginia segment engages in the generation, distribution, and transmission of electricity to approximately 2.8 million residential, commercial, industrial, and governmental customers in Virginia and North Carolina.
 
-**Recent headlines (potential catalysts):**
-
-| Headline | Source | Date |
-|---|---|---|
-| NextEra (NEE) and Dominion (D) Unveil a Bigger Pitch for Virginia | Insider Monkey | 2026-09-20 |
-| Jim Cramer Suggests Against Holding Dominion (D) Through the NextEra (NEE) Share Conversion | Insider Monkey | 2026-09-19 |
-| How AI concerns moved to the center of the midterm debate | Investing.com | 2026-09-19 |
-| Can NextEra (NEE) Preserve Its Earnings and Dividend Growth While Adding Dominion? | Insider Monkey | 2026-09-19 |
-
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
