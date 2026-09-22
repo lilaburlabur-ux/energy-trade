@@ -4,8 +4,8 @@ Signed file: `FSLR.research.22.09.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-09-22, ~15-min delayed) |
-| Market cap | $21.48B |
+| Current price | $200.78 (2026-09-22, ~15-min delayed) |
+| Market cap | $21.58B |
 | Sector / Industry | Technology / Solar |
 | Main theme | Solar — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: high. |
@@ -15,11 +15,11 @@ Signed file: `FSLR.research.22.09.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y -5.51%; price -11.75% vs SMA200. |
+| Fresh setup quality | Poor / broken | -36.91% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 32.46%, revenue growth -3.70%. |
-| Value attractiveness | Reasonable | Forward P/E 8.60, EV/Sales 3.71. |
-| Risk level | High | Beta 1.73, ATR nan% of price, short float 11.47%. |
+| Value attractiveness | Reasonable | Forward P/E 8.64, EV/Sales 3.71. |
+| Risk level | High | Beta 1.73, ATR 4.7% of price, short float 11.47%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: high.
 
@@ -44,22 +44,22 @@ First Solar, Inc., a solar technology company, provides photovoltaic (PV) solar 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $318.25 (+nan%); 52w low $184.70 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 41.1 (neutral) |
-| Volatility | ATR(14) 10.14 (~nan% of price); beta 1.73 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $200.78; 52w high $318.25 (-36.91%); 52w low $184.70 (+8.71%) |
+| Trend | -11.75% vs SMA200, -5.80% vs SMA50, -1.44% vs SMA20 |
+| Momentum | RSI(14) 44.9 (neutral) |
+| Volatility | ATR(14) 9.52 (~4.7% of price); beta 1.73 |
+| Setup perspective | -36.91% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -0.8% |
+| Month | -6.3% |
+| Quarter | -19.4% |
+| Half Y | +5.7% |
+| 1Y | -5.5% |
+| YTD | -26.8% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ First Solar, Inc., a solar technology company, provides photovoltaic (PV) solar 
 | Revenue (ttm) | $5.38B | Revenue growth -3.70% y/y |
 | Profitability | Gross 44.02%, operating 42.64%, net 32.46% | ROA 8.62%, ROE 18.51% |
 | Balance sheet | Cash $1.73B, debt $194.01M | Current ratio 2.52, debt/equity 1.88 |
-| Valuation | P/E 12.31, forward P/E 8.60, P/S 3.99, P/B 2.08 | EV/Sales 3.71, EV/EBITDA 8.36 |
+| Valuation | P/E 12.37, forward P/E 8.64, P/S 4.01, P/B 2.09 | EV/Sales 3.71, EV/EBITDA 8.36 |
 | Growth expectations | Earnings growth 23.30%, EPS q/q 23.60% | Analyst mean target $273.00 (31 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,8 +95,9 @@ First Solar, Inc., a solar technology company, provides photovoltaic (PV) solar 
 | Morgan Stanley | 1,790,509 | 1.67% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.73, ATR nan% of price, short float 11.47%. Size positions accordingly.
+- **Volatility risk:** Beta 1.73, ATR 4.7% of price, short float 11.47%. Size positions accordingly.
 - **Short interest risk:** short float 11.47% can fuel squeezes both ways around news.
+- **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -111,21 +112,21 @@ First Solar, Inc., a solar technology company, provides photovoltaic (PV) solar 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 3.71 |
-| Market cap | $21.48B | EV/EBITDA | 8.36 |
+| Price | $200.78 | EV/Sales | 3.71 |
+| Market cap | $21.58B | EV/EBITDA | 8.36 |
 | Beta | 1.73 | Gross margin | 44.02% |
-| RSI(14) | 41.1 | Operating margin | 42.64% |
-| ATR(14) | 10.14 | Profit margin | 32.46% |
-| SMA20 dist | +nan% | ROA | 8.62% |
-| SMA50 dist | +nan% | ROE | 18.51% |
-| SMA200 dist | +nan% | Revenue (ttm) | $5.38B |
+| RSI(14) | 44.9 | Operating margin | 42.64% |
+| ATR(14) | 9.52 | Profit margin | 32.46% |
+| SMA20 dist | -1.44% | ROA | 8.62% |
+| SMA50 dist | -5.80% | ROE | 18.51% |
+| SMA200 dist | -11.75% | Revenue (ttm) | $5.38B |
 | 52W high | $318.25 | Revenue growth y/y | -3.70% |
 | 52W low | $184.70 | Inst. ownership | 96.45% |
-| P/E (ttm) | 12.31 | Insider ownership | 5.36% |
-| Forward P/E | 8.60 | Short float | 11.47% |
-| PEG (trailing) | 0.36 | Avg volume | 2,136,014 |
-| P/S | 3.99 | Employees | 7,900 |
-| P/B | 2.08 | Analyst rec (1=buy..5=sell) | 1.9 |
+| P/E (ttm) | 12.37 | Insider ownership | 5.36% |
+| Forward P/E | 8.64 | Short float | 11.47% |
+| PEG (trailing) | 0.37 | Avg volume | 2,132,107 |
+| P/S | 4.01 | Employees | 7,900 |
+| P/B | 2.09 | Analyst rec (1=buy..5=sell) | 1.9 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

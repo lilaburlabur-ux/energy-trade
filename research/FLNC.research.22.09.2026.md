@@ -4,24 +4,24 @@ Signed file: `FLNC.research.22.09.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-09-22, ~15-min delayed) |
-| Market cap | $1.37B |
+| Current price | $7.27 (2026-09-22, ~15-min delayed) |
+| Market cap | $1.35B |
 | Sector / Industry | Utilities / Utilities - Renewable |
 | Main theme | Utilities - Renewable — see catalysts below |
-| Current stance | Moderate technical momentum, weak fundamentals, value: reasonable, risk: high. |
+| Current stance | Low technical momentum, weak fundamentals, value: reasonable, risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-09-22.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-58.63%) with negative half-year (-52.67%). |
+| Fresh setup quality | Poor / broken | -77.44% from 52w high — base needs to rebuild. |
 | Fundamental quality | Weak | Negative profit margin (-3.07%). |
-| Value attractiveness | Reasonable | Forward P/E -27.75, EV/Sales 0.45. |
-| Risk level | High | Beta 2.74, ATR nan% of price, short float 34.01%. |
+| Value attractiveness | Reasonable | Forward P/E -27.30, EV/Sales 0.45. |
+| Risk level | High | Beta 2.74, ATR 10.4% of price, short float 34.01%. |
 
-**Bottom line:** Moderate technical momentum, weak fundamentals, value: reasonable, risk: high.
+**Bottom line:** Low technical momentum, weak fundamentals, value: reasonable, risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -36,30 +36,30 @@ Fluence Energy, Inc., through its subsidiaries, provides energy storage and opti
 
 | Headline | Source | Date |
 |---|---|---|
+| AI Pick-And-Shovel Stocks To Watch As Xi And Trump Meet | Investor's Business Daily | 2026-09-22 |
 | What an AI Slowdown Would Mean for Energy Stocks | Barrons.com | 2026-09-21 |
 | Fluence Energy (FLNC) Stock Trades Down, Here Is Why | StockStory | 2026-09-18 |
 | FLNC Revises FY2026 Outlook on Manufacturing Delays: What's Ahead? | Zacks | 2026-09-18 |
-| 1 Industrials Stock with Promising Prospects and 2 Facing Headwinds | StockStory | 2026-09-18 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $32.23 (+nan%); 52w low $7.32 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 23.7 (oversold) |
-| Volatility | ATR(14) 0.82 (~nan% of price); beta 2.74 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $7.27; 52w high $32.23 (-77.44%); 52w low $7.27 (+0.00%) |
+| Trend | -58.63% vs SMA200, -39.25% vs SMA50, -25.49% vs SMA20 |
+| Momentum | RSI(14) 24.0 (oversold) |
+| Volatility | ATR(14) 0.75 (~10.4% of price); beta 2.74 |
+| Setup perspective | -77.44% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -21.8% |
+| Month | -35.9% |
+| Quarter | -65.7% |
+| Half Y | -52.7% |
+| 1Y | -22.3% |
+| YTD | -68.4% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ Fluence Energy, Inc., through its subsidiaries, provides energy storage and opti
 | Revenue (ttm) | $2.63B | Revenue growth 7.90% y/y |
 | Profitability | Gross 9.36%, operating -8.85%, net -3.07% | ROA -2.95%, ROE -23.54% |
 | Balance sheet | Cash $339.33M, debt $413.16M | Current ratio 1.34, debt/equity 95.81 |
-| Valuation | P/E —, forward P/E -27.75, P/S 0.52, P/B 2.83 | EV/Sales 0.45, EV/EBITDA -15.26 |
+| Valuation | P/E —, forward P/E -27.30, P/S 0.51, P/B 2.79 | EV/Sales 0.45, EV/EBITDA -15.26 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $10.11 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 84.59% |
+| Institutional ownership | 84.60% |
 | Insider ownership | 14.42% |
 | Short float | 34.01% |
 | Short ratio (days to cover) | 3.4 |
@@ -95,9 +95,10 @@ Fluence Energy, Inc., through its subsidiaries, provides energy storage and opti
 | State Street Corporation | 2,627,213 | 1.84% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 2.74, ATR nan% of price, short float 34.01%. Size positions accordingly.
+- **Volatility risk:** Beta 2.74, ATR 10.4% of price, short float 34.01%. Size positions accordingly.
 - **Short interest risk:** short float 34.01% can fuel squeezes both ways around news.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
+- **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -112,21 +113,21 @@ Fluence Energy, Inc., through its subsidiaries, provides energy storage and opti
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 0.45 |
-| Market cap | $1.37B | EV/EBITDA | -15.26 |
+| Price | $7.27 | EV/Sales | 0.45 |
+| Market cap | $1.35B | EV/EBITDA | -15.26 |
 | Beta | 2.74 | Gross margin | 9.36% |
-| RSI(14) | 23.7 | Operating margin | -8.85% |
-| ATR(14) | 0.82 | Profit margin | -3.07% |
-| SMA20 dist | +nan% | ROA | -2.95% |
-| SMA50 dist | +nan% | ROE | -23.54% |
-| SMA200 dist | +nan% | Revenue (ttm) | $2.63B |
+| RSI(14) | 24.0 | Operating margin | -8.85% |
+| ATR(14) | 0.75 | Profit margin | -3.07% |
+| SMA20 dist | -25.49% | ROA | -2.95% |
+| SMA50 dist | -39.25% | ROE | -23.54% |
+| SMA200 dist | -58.63% | Revenue (ttm) | $2.63B |
 | 52W high | $32.23 | Revenue growth y/y | 7.90% |
-| 52W low | $7.32 | Inst. ownership | 84.59% |
+| 52W low | $7.27 | Inst. ownership | 84.60% |
 | P/E (ttm) | — | Insider ownership | 14.42% |
-| Forward P/E | -27.75 | Short float | 34.01% |
-| PEG (trailing) | — | Avg volume | 8,144,063 |
-| P/S | 0.52 | Employees | 1,670 |
-| P/B | 2.83 | Analyst rec (1=buy..5=sell) | 3.0 |
+| Forward P/E | -27.30 | Short float | 34.01% |
+| PEG (trailing) | — | Avg volume | 8,175,895 |
+| P/S | 0.51 | Employees | 1,670 |
+| P/B | 2.79 | Analyst rec (1=buy..5=sell) | 3.0 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
@@ -141,7 +142,7 @@ Fluence Energy, Inc., through its subsidiaries, provides energy storage and opti
 | 2026-09-17 | main | RBC Capital | Sector Perform → Sector Perform |
 
 ## 9. Conclusion
-FLNC: Moderate momentum / weak fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+FLNC: Low momentum / weak fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

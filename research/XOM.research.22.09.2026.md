@@ -4,8 +4,8 @@ Signed file: `XOM.research.22.09.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-09-22, ~15-min delayed) |
-| Market cap | $650.92B |
+| Current price | $158.71 (2026-09-22, ~15-min delayed) |
+| Market cap | $652.60B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `XOM.research.22.09.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +44.75%; price +8.87% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -6.27% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 9.07%, revenue growth 44.10%. |
-| Value attractiveness | Reasonable | Forward P/E 14.67, EV/Sales 1.91. |
-| Risk level | Moderate | Beta 0.17, ATR nan% of price, short float 1.08%. |
+| Value attractiveness | Reasonable | Forward P/E 14.68, EV/Sales 1.91. |
+| Risk level | Moderate | Beta 0.17, ATR 2.4% of price, short float 1.08%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
@@ -36,30 +36,30 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 
 | Headline | Source | Date |
 |---|---|---|
-| ExxonMobil Nears a Venezuela Return After 19 Years. Here’s Where the Stock Could Go | TIKR | 2026-09-21 |
-| Exxon Mobil Holdings (XOM) Stock Drops Despite Market Gains: Important Facts to Note | Zacks | 2026-09-21 |
-| Exxon Could Return to the Venezuelan Field It Was Forced Out of in 2007. Here's What Changed. | Motley Fool | 2026-09-21 |
-| Sector Update: Energy Stocks Fall Late Afternoon | MT Newswires | 2026-09-21 |
+| 3 High-Yielding Dividend Stocks That Are No-Brainer Buys for Retirees and Risk-Averse Investors | Motley Fool | 2026-09-22 |
+| 4 Integrated Energy Stocks to Benefit From Industry Tailwinds | Zacks | 2026-09-22 |
+| Exxon Just Set a Bold 2030 Target for LNG Sales. Here's What 50 Million Tons Actually Means. | Motley Fool | 2026-09-22 |
+| Exchange-Traded Funds Mixed, Equity Futures Up Pre-Bell Tuesday as Oil Prices Drop Due to Possible Diplomacy in US-Iran Conflict | MT Newswires | 2026-09-22 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $169.32 (+nan%); 52w low $107.52 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 53.9 (neutral) |
-| Volatility | ATR(14) 3.70 (~nan% of price); beta 0.17 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $158.71; 52w high $169.32 (-6.27%); 52w low $107.52 (+47.60%) |
+| Trend | +8.87% vs SMA200, +0.46% vs SMA50, -2.06% vs SMA20 |
+| Momentum | RSI(14) 45.6 (neutral) |
+| Volatility | ATR(14) 3.85 (~2.4% of price); beta 0.17 |
+| Setup perspective | -6.27% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -6.3% |
+| Month | -3.9% |
+| Quarter | +14.3% |
+| Half Y | -0.2% |
+| 1Y | +44.8% |
+| YTD | +32.0% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,8 +68,8 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 | Revenue (ttm) | $361.06B | Revenue growth 44.10% y/y |
 | Profitability | Gross 29.77%, operating 15.86%, net 9.07% | ROA 5.52%, ROE 12.58% |
 | Balance sheet | Cash $10.59B, debt $42.37B | Current ratio 1.14, debt/equity 15.92 |
-| Valuation | P/E 20.37, forward P/E 14.67, P/S 1.80, P/B 2.51 | EV/Sales 1.91, EV/EBITDA 10.15 |
-| Growth expectations | Earnings growth 112.80%, EPS q/q 105.10% | Analyst mean target $170.91 (22 analysts) |
+| Valuation | P/E 20.43, forward P/E 14.68, P/S 1.81, P/B 2.52 | EV/Sales 1.91, EV/EBITDA 10.15 |
+| Growth expectations | Earnings growth 112.80%, EPS q/q 105.10% | Analyst mean target $171.91 (22 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
@@ -95,6 +95,7 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 | NORGES BANK | 60,999,693 | 1.47% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
+- **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -109,21 +110,21 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 1.91 |
-| Market cap | $650.92B | EV/EBITDA | 10.15 |
+| Price | $158.71 | EV/Sales | 1.91 |
+| Market cap | $652.60B | EV/EBITDA | 10.15 |
 | Beta | 0.17 | Gross margin | 29.77% |
-| RSI(14) | 53.9 | Operating margin | 15.86% |
-| ATR(14) | 3.70 | Profit margin | 9.07% |
-| SMA20 dist | +nan% | ROA | 5.52% |
-| SMA50 dist | +nan% | ROE | 12.58% |
-| SMA200 dist | +nan% | Revenue (ttm) | $361.06B |
+| RSI(14) | 45.6 | Operating margin | 15.86% |
+| ATR(14) | 3.85 | Profit margin | 9.07% |
+| SMA20 dist | -2.06% | ROA | 5.52% |
+| SMA50 dist | +0.46% | ROE | 12.58% |
+| SMA200 dist | +8.87% | Revenue (ttm) | $361.06B |
 | 52W high | $169.32 | Revenue growth y/y | 44.10% |
 | 52W low | $107.52 | Inst. ownership | 67.06% |
-| P/E (ttm) | 20.37 | Insider ownership | 0.08% |
-| Forward P/E | 14.67 | Short float | 1.08% |
-| PEG (trailing) | 1.40 | Avg volume | 14,834,790 |
-| P/S | 1.80 | Employees | 57,900 |
-| P/B | 2.51 | Analyst rec (1=buy..5=sell) | 2.3 |
+| P/E (ttm) | 20.43 | Insider ownership | 0.08% |
+| Forward P/E | 14.68 | Short float | 1.08% |
+| PEG (trailing) | 1.36 | Avg volume | 14,834,647 |
+| P/S | 1.81 | Employees | 57,900 |
+| P/B | 2.52 | Analyst rec (1=buy..5=sell) | 2.3 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

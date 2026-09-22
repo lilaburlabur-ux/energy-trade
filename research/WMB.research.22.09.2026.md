@@ -4,8 +4,8 @@ Signed file: `WMB.research.22.09.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-09-22, ~15-min delayed) |
-| Market cap | $87.64B |
+| Current price | $70.98 (2026-09-22, ~15-min delayed) |
+| Market cap | $86.82B |
 | Sector / Industry | Energy / Oil & Gas Midstream |
 | Main theme | Oil & Gas Midstream — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: fair-to-demanding, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `WMB.research.22.09.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +21.68%; price +1.62% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -9.29% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 24.94%, revenue growth 7.80%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 27.59, EV/Sales 9.77. |
-| Risk level | Moderate | Beta 0.62, ATR nan% of price, short float 2.41%. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 27.33, EV/Sales 9.77. |
+| Risk level | Moderate | Beta 0.62, ATR 2.7% of price, short float 2.41%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: fair-to-demanding, risk: moderate.
 
@@ -36,30 +36,30 @@ The Williams Companies, Inc., together with its subsidiaries, operates as an ene
 
 | Headline | Source | Date |
 |---|---|---|
+| 3 Stocks Put Traders Are Targeting Today: EXE, APH, WMB | Schaeffer's Investment Research | 2026-09-22 |
+| Williams Companies (WMB) Debt Deal Puts Its Valuation Story Back In Focus | Simply Wall St. | 2026-09-22 |
 | XLE Is 91% Oil and Gas. Investors Buying “Energy” May Own Less Than They Think | 24/7 Wall St. | 2026-09-21 |
 | Natural Gas Gains 2.9% for the Week: What's Driving the Rise? | Zacks | 2026-09-21 |
-| The AI Bottleneck Is Not Chips Anymore and 3 Pipeline Stocks Are Cashing In | MarketBeat | 2026-09-20 |
-| Energy Transfer vs. Williams Companies: Which Natural Gas Giant Wins the AI Power Buildout? | Motley Fool | 2026-09-18 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $78.25 (+nan%); 52w low $54.84 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 47.4 (neutral) |
-| Volatility | ATR(14) 1.99 (~nan% of price); beta 0.62 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $70.98; 52w high $78.25 (-9.29%); 52w low $54.84 (+29.43%) |
+| Trend | +1.62% vs SMA200, -2.04% vs SMA50, -2.65% vs SMA20 |
+| Momentum | RSI(14) 43.2 (neutral) |
+| Volatility | ATR(14) 1.90 (~2.7% of price); beta 0.62 |
+| Setup perspective | -9.29% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -0.9% |
+| Month | +1.4% |
+| Quarter | -5.7% |
+| Half Y | -2.1% |
+| 1Y | +21.7% |
+| YTD | +19.2% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,8 +68,8 @@ The Williams Companies, Inc., together with its subsidiaries, operates as an ene
 | Revenue (ttm) | $12.32B | Revenue growth 7.80% y/y |
 | Profitability | Gross 63.64%, operating 39.54%, net 24.94% | ROA 5.03%, ROE 21.50% |
 | Balance sheet | Cash $203.00M, debt $30.79B | Current ratio 0.48, debt/equity 200.37 |
-| Valuation | P/E 28.55, forward P/E 27.59, P/S 7.11, P/B 6.66 | EV/Sales 9.77, EV/EBITDA 17.12 |
-| Growth expectations | Earnings growth 51.20%, EPS q/q 51.50% | Analyst mean target $85.38 (21 analysts) |
+| Valuation | P/E 28.28, forward P/E 27.33, P/S 7.05, P/B 6.60 | EV/Sales 9.77, EV/EBITDA 17.12 |
+| Growth expectations | Earnings growth 51.20%, EPS q/q 51.50% | Analyst mean target $85.61 (23 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
@@ -95,7 +95,7 @@ The Williams Companies, Inc., together with its subsidiaries, operates as an ene
 | JPMORGAN CHASE & CO | 21,379,796 | 1.75% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 27.59, EV/Sales 9.77. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 27.33, EV/Sales 9.77. Multiple compression is the main downside if growth disappoints.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -110,21 +110,21 @@ The Williams Companies, Inc., together with its subsidiaries, operates as an ene
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 9.77 |
-| Market cap | $87.64B | EV/EBITDA | 17.12 |
+| Price | $70.98 | EV/Sales | 9.77 |
+| Market cap | $86.82B | EV/EBITDA | 17.12 |
 | Beta | 0.62 | Gross margin | 63.64% |
-| RSI(14) | 47.4 | Operating margin | 39.54% |
-| ATR(14) | 1.99 | Profit margin | 24.94% |
-| SMA20 dist | +nan% | ROA | 5.03% |
-| SMA50 dist | +nan% | ROE | 21.50% |
-| SMA200 dist | +nan% | Revenue (ttm) | $12.32B |
+| RSI(14) | 43.2 | Operating margin | 39.54% |
+| ATR(14) | 1.90 | Profit margin | 24.94% |
+| SMA20 dist | -2.65% | ROA | 5.03% |
+| SMA50 dist | -2.04% | ROE | 21.50% |
+| SMA200 dist | +1.62% | Revenue (ttm) | $12.32B |
 | 52W high | $78.25 | Revenue growth y/y | 7.80% |
 | 52W low | $54.84 | Inst. ownership | 91.46% |
-| P/E (ttm) | 28.55 | Insider ownership | 0.45% |
-| Forward P/E | 27.59 | Short float | 2.41% |
-| PEG (trailing) | 2.07 | Avg volume | 7,511,560 |
-| P/S | 7.11 | Employees | 5,987 |
-| P/B | 6.66 | Analyst rec (1=buy..5=sell) | 1.4 |
+| P/E (ttm) | 28.28 | Insider ownership | 0.45% |
+| Forward P/E | 27.33 | Short float | 2.41% |
+| PEG (trailing) | 2.06 | Avg volume | 7,415,228 |
+| P/S | 7.05 | Employees | 5,987 |
+| P/B | 6.60 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

@@ -4,8 +4,8 @@ Signed file: `EPD.research.22.09.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-09-22, ~15-min delayed) |
-| Market cap | $83.08B |
+| Current price | $38.01 (2026-09-22, ~15-min delayed) |
+| Market cap | $82.08B |
 | Sector / Industry | Energy / Oil & Gas Midstream |
 | Main theme | Oil & Gas Midstream — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `EPD.research.22.09.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +27.71%; price +5.93% vs SMA200. |
+| Fresh setup quality | Watch | -3.43% from 52w high and near SMA20 — check for a tight base. |
 | Fundamental quality | Mixed | Profit margin 10.79%, revenue growth 60.80%. |
-| Value attractiveness | Reasonable | Forward P/E 12.14, EV/Sales 2.02. |
-| Risk level | Moderate | Beta 0.48, ATR nan% of price, short float 3.09%. |
+| Value attractiveness | Reasonable | Forward P/E 12.00, EV/Sales 2.02. |
+| Risk level | Moderate | Beta 0.48, ATR 1.6% of price, short float 3.09%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
@@ -36,30 +36,30 @@ Enterprise Products Partners L.P. provides midstream energy services to producer
 
 | Headline | Source | Date |
 |---|---|---|
+| HESM Q2 Beat Masks Lower Volumes as Second-Half Costs Move Higher | Zacks | 2026-09-22 |
+| Is HESM Worth Buying as Free Cash Flow Rises but Volume Growth Slows? | Zacks | 2026-09-22 |
+| Enterprise Products Partners Seen Supported by Export Demand, Permian Growth, RBC Says | MT Newswires | 2026-09-22 |
 | How Much Do You Really Need Invested to Replace a $200,000 Salary With Dividends? | 24/7 Wall St. | 2026-09-21 |
-| The AI Bottleneck Is Not Chips Anymore and 3 Pipeline Stocks Are Cashing In | MarketBeat | 2026-09-20 |
-| 3 Dividend Stocks Sitting Outside the AI Power Trade -- And Still Winning | Motley Fool | 2026-09-20 |
-| This High-Yield Dividend Stock's 28-Year Dividend Growth Track Record Proves It Can Deliver a Lifetime of Passive Income | Motley Fool | 2026-09-19 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $39.36 (+nan%); 52w low $28.35 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 53.2 (neutral) |
-| Volatility | ATR(14) 0.59 (~nan% of price); beta 0.48 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $38.01; 52w high $39.36 (-3.43%); 52w low $28.35 (+34.06%) |
+| Trend | +5.93% vs SMA200, -0.84% vs SMA50, -2.14% vs SMA20 |
+| Momentum | RSI(14) 43.4 (neutral) |
+| Volatility | ATR(14) 0.59 (~1.6% of price); beta 0.48 |
+| Setup perspective | -3.43% from 52w high and near SMA20 — check for a tight base. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -2.1% |
+| Month | +0.0% |
+| Quarter | +3.9% |
+| Half Y | +2.7% |
+| 1Y | +27.7% |
+| YTD | +23.7% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,8 +68,8 @@ Enterprise Products Partners L.P. provides midstream energy services to producer
 | Revenue (ttm) | $58.47B | Revenue growth 60.80% y/y |
 | Profitability | Gross 13.33%, operating 11.76%, net 10.79% | ROA 5.92%, ROE 20.85% |
 | Balance sheet | Cash $246.00M, debt $34.21B | Current ratio 0.93, debt/equity 109.97 |
-| Valuation | P/E 13.31, forward P/E 12.14, P/S 1.42, P/B 2.75 | EV/Sales 2.02, EV/EBITDA 11.44 |
-| Growth expectations | Earnings growth 28.50%, EPS q/q 28.20% | Analyst mean target $41.42 (19 analysts) |
+| Valuation | P/E 13.15, forward P/E 12.00, P/S 1.40, P/B 2.71 | EV/Sales 2.02, EV/EBITDA 11.44 |
+| Growth expectations | Earnings growth 28.50%, EPS q/q 28.20% | Analyst mean target $41.48 (21 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
@@ -95,6 +95,7 @@ Enterprise Products Partners L.P. provides midstream energy services to producer
 | Kayne Anderson Capital Advisors, L.P. | 12,869,425 | 0.60% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
+- **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -109,25 +110,26 @@ Enterprise Products Partners L.P. provides midstream energy services to producer
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 2.02 |
-| Market cap | $83.08B | EV/EBITDA | 11.44 |
+| Price | $38.01 | EV/Sales | 2.02 |
+| Market cap | $82.08B | EV/EBITDA | 11.44 |
 | Beta | 0.48 | Gross margin | 13.33% |
-| RSI(14) | 53.2 | Operating margin | 11.76% |
+| RSI(14) | 43.4 | Operating margin | 11.76% |
 | ATR(14) | 0.59 | Profit margin | 10.79% |
-| SMA20 dist | +nan% | ROA | 5.92% |
-| SMA50 dist | +nan% | ROE | 20.85% |
-| SMA200 dist | +nan% | Revenue (ttm) | $58.47B |
+| SMA20 dist | -2.14% | ROA | 5.92% |
+| SMA50 dist | -0.84% | ROE | 20.85% |
+| SMA200 dist | +5.93% | Revenue (ttm) | $58.47B |
 | 52W high | $39.36 | Revenue growth y/y | 60.80% |
 | 52W low | $28.35 | Inst. ownership | 25.64% |
-| P/E (ttm) | 13.31 | Insider ownership | 33.04% |
-| Forward P/E | 12.14 | Short float | 3.09% |
-| PEG (trailing) | 1.38 | Avg volume | 2,907,590 |
-| P/S | 1.42 | Employees | 0 |
-| P/B | 2.75 | Analyst rec (1=buy..5=sell) | 2.3 |
+| P/E (ttm) | 13.15 | Insider ownership | 33.04% |
+| Forward P/E | 12.00 | Short float | 3.09% |
+| PEG (trailing) | 1.37 | Avg volume | 2,887,847 |
+| P/S | 1.40 | Employees | 0 |
+| P/B | 2.71 | Analyst rec (1=buy..5=sell) | 2.3 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-09-22 | reit | RBC Capital | Outperform → Outperform |
 | 2026-08-18 | main | Morgan Stanley | Underweight → Underweight |
 | 2026-08-03 | main | TD Cowen | Hold → Hold |
 | 2026-07-21 | main | Morgan Stanley | Underweight → Underweight |
@@ -135,7 +137,6 @@ Enterprise Products Partners L.P. provides midstream energy services to producer
 | 2026-05-20 | main | Morgan Stanley | Underweight → Underweight |
 | 2026-05-12 | main | Scotiabank | Sector Perform → Sector Perform |
 | 2026-05-12 | main | JP Morgan | Neutral → Neutral |
-| 2026-05-04 | main | Truist Securities | Hold → Hold |
 
 ## 9. Conclusion
 EPD: Moderate momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

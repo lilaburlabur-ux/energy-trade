@@ -4,8 +4,8 @@ Signed file: `OKE.research.22.09.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-09-22, ~15-min delayed) |
-| Market cap | $57.87B |
+| Current price | $90.09 (2026-09-22, ~15-min delayed) |
+| Market cap | $56.79B |
 | Sector / Industry | Energy / Oil & Gas Midstream |
 | Main theme | Oil & Gas Midstream — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `OKE.research.22.09.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +32.75%; price +6.37% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -7.61% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 9.29%, revenue growth 52.80%. |
-| Value attractiveness | Reasonable | Forward P/E 14.72, EV/Sales 2.31. |
-| Risk level | Moderate | Beta 0.72, ATR nan% of price, short float 4.65%. |
+| Value attractiveness | Reasonable | Forward P/E 14.45, EV/Sales 2.31. |
+| Risk level | Moderate | Beta 0.72, ATR 2.8% of price, short float 4.65%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
@@ -44,22 +44,22 @@ ONEOK, Inc. operates as a midstream service provider of gathering, processing, f
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $97.51 (+nan%); 52w low $61.95 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 47.5 (neutral) |
-| Volatility | ATR(14) 2.55 (~nan% of price); beta 0.72 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $90.09; 52w high $97.51 (-7.61%); 52w low $61.95 (+45.42%) |
+| Trend | +6.37% vs SMA200, -2.68% vs SMA50, -4.85% vs SMA20 |
+| Momentum | RSI(14) 37.6 (neutral) |
+| Volatility | ATR(14) 2.51 (~2.8% of price); beta 0.72 |
+| Setup perspective | -7.61% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -4.9% |
+| Month | -3.5% |
+| Quarter | +3.5% |
+| Half Y | +2.6% |
+| 1Y | +32.7% |
+| YTD | +25.8% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,8 +68,8 @@ ONEOK, Inc. operates as a midstream service provider of gathering, processing, f
 | Revenue (ttm) | $39.37B | Revenue growth 52.80% y/y |
 | Profitability | Gross 27.21%, operating 13.25%, net 9.29% | ROA 5.77%, ROE 16.28% |
 | Balance sheet | Cash $161.00M, debt $33.02B | Current ratio 0.74, debt/equity 143.07 |
-| Valuation | P/E 15.85, forward P/E 14.72, P/S 1.47, P/B 2.52 | EV/Sales 2.31, EV/EBITDA 11.85 |
-| Growth expectations | Earnings growth 14.20%, EPS q/q 14.90% | Analyst mean target $101.05 (19 analysts) |
+| Valuation | P/E 15.56, forward P/E 14.45, P/S 1.44, P/B 2.48 | EV/Sales 2.31, EV/EBITDA 11.85 |
+| Growth expectations | Earnings growth 14.20%, EPS q/q 14.90% | Analyst mean target $101.50 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
@@ -95,6 +95,7 @@ ONEOK, Inc. operates as a midstream service provider of gathering, processing, f
 | UBS Group AG | 11,588,291 | 0.00% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
+- **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -109,21 +110,21 @@ ONEOK, Inc. operates as a midstream service provider of gathering, processing, f
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 2.31 |
-| Market cap | $57.87B | EV/EBITDA | 11.85 |
+| Price | $90.09 | EV/Sales | 2.31 |
+| Market cap | $56.79B | EV/EBITDA | 11.85 |
 | Beta | 0.72 | Gross margin | 27.21% |
-| RSI(14) | 47.5 | Operating margin | 13.25% |
-| ATR(14) | 2.55 | Profit margin | 9.29% |
-| SMA20 dist | +nan% | ROA | 5.77% |
-| SMA50 dist | +nan% | ROE | 16.28% |
-| SMA200 dist | +nan% | Revenue (ttm) | $39.37B |
+| RSI(14) | 37.6 | Operating margin | 13.25% |
+| ATR(14) | 2.51 | Profit margin | 9.29% |
+| SMA20 dist | -4.85% | ROA | 5.77% |
+| SMA50 dist | -2.68% | ROE | 16.28% |
+| SMA200 dist | +6.37% | Revenue (ttm) | $39.37B |
 | 52W high | $97.51 | Revenue growth y/y | 52.80% |
 | 52W low | $61.95 | Inst. ownership | 84.82% |
-| P/E (ttm) | 15.85 | Insider ownership | 0.15% |
-| Forward P/E | 14.72 | Short float | 4.65% |
-| PEG (trailing) | 1.77 | Avg volume | 3,741,703 |
-| P/S | 1.47 | Employees | 6,326 |
-| P/B | 2.52 | Analyst rec (1=buy..5=sell) | 2.3 |
+| P/E (ttm) | 15.56 | Insider ownership | 0.15% |
+| Forward P/E | 14.45 | Short float | 4.65% |
+| PEG (trailing) | 1.73 | Avg volume | 3,713,849 |
+| P/S | 1.44 | Employees | 6,326 |
+| P/B | 2.48 | Analyst rec (1=buy..5=sell) | 2.3 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

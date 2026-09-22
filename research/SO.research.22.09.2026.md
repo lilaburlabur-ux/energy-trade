@@ -4,24 +4,24 @@ Signed file: `SO.research.22.09.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-09-22, ~15-min delayed) |
-| Market cap | $98.31B |
+| Current price | $85.15 (2026-09-22, ~15-min delayed) |
+| Market cap | $97.95B |
 | Sector / Industry | Utilities / Utilities - Regulated Electric |
 | Main theme | Utilities - Regulated Electric — see catalysts below |
-| Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
+| Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-09-22.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-6.44%) with negative half-year (-7.67%). |
+| Fresh setup quality | Moderate / wait | -12.66% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 15.43%, revenue growth 0.10%. |
-| Value attractiveness | Reasonable | Forward P/E 17.36, EV/Sales 5.80. |
-| Risk level | Moderate | Beta 0.32, ATR nan% of price, short float 3.06%. |
+| Value attractiveness | Reasonable | Forward P/E 17.29, EV/Sales 5.80. |
+| Risk level | Moderate | Beta 0.32, ATR 1.5% of price, short float 3.06%. |
 
-**Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
+**Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -36,30 +36,30 @@ The Southern Company, through its subsidiaries, engages in the sale of electrici
 
 | Headline | Source | Date |
 |---|---|---|
+| Sector Update: Energy Stocks Decline Late Afternoon | MT Newswires | 2026-09-22 |
+| Sector Update: Energy Stocks Mixed Tuesday Afternoon | MT Newswires | 2026-09-22 |
+| Top Midday Stories: Goldman Reportedly in Talks to Acquire $37 Billion Credit Firm Palmer Square; Viking Obesity Drug Candidate Showed 'Superior' Results in Study | MT Newswires | 2026-09-22 |
 | High-Yield Dividend Stocks Throw Off Serious Income. Where You Hold Them Matters | 24/7 Wall St. | 2026-09-19 |
-| Academy Sports (ASO) Is Up 12.8% After Earnings Beat, Higher EPS Outlook And Hoka Rollout | Simply Wall St. | 2026-09-16 |
-| Is PG&E Stock Cheap, Or Just Waiting On California? | Trefis | 2026-09-16 |
-| Southern Co. (SO) Falls More Steeply Than Broader Market: What Investors Need to Know | Zacks | 2026-09-15 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $97.49 (+nan%); 52w low $82.06 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 30.2 (neutral) |
-| Volatility | ATR(14) 1.34 (~nan% of price); beta 0.32 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $85.15; 52w high $97.49 (-12.66%); 52w low $82.06 (+3.76%) |
+| Trend | -6.44% vs SMA200, -6.33% vs SMA50, -2.83% vs SMA20 |
+| Momentum | RSI(14) 28.8 (oversold) |
+| Volatility | ATR(14) 1.29 (~1.5% of price); beta 0.32 |
+| Setup perspective | -12.66% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -0.9% |
+| Month | -4.3% |
+| Quarter | -9.6% |
+| Half Y | -7.7% |
+| 1Y | -4.2% |
+| YTD | +0.1% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ The Southern Company, through its subsidiaries, engages in the sale of electrici
 | Revenue (ttm) | $30.18B | Revenue growth 0.10% y/y |
 | Profitability | Gross 48.29%, operating 29.61%, net 15.43% | ROA 3.27%, ROE 11.48% |
 | Balance sheet | Cash $2.98B, debt $77.09B | Current ratio 0.79, debt/equity 182.06 |
-| Valuation | P/E 20.59, forward P/E 17.36, P/S 3.26, P/B 2.48 | EV/Sales 5.80, EV/EBITDA 12.29 |
+| Valuation | P/E 20.52, forward P/E 17.29, P/S 3.25, P/B 2.48 | EV/Sales 5.80, EV/EBITDA 12.29 |
 | Growth expectations | Earnings growth 30.40%, EPS q/q 33.40% | Analyst mean target $99.76 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -109,20 +109,20 @@ The Southern Company, through its subsidiaries, engages in the sale of electrici
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 5.80 |
-| Market cap | $98.31B | EV/EBITDA | 12.29 |
+| Price | $85.15 | EV/Sales | 5.80 |
+| Market cap | $97.95B | EV/EBITDA | 12.29 |
 | Beta | 0.32 | Gross margin | 48.29% |
-| RSI(14) | 30.2 | Operating margin | 29.61% |
-| ATR(14) | 1.34 | Profit margin | 15.43% |
-| SMA20 dist | +nan% | ROA | 3.27% |
-| SMA50 dist | +nan% | ROE | 11.48% |
-| SMA200 dist | +nan% | Revenue (ttm) | $30.18B |
+| RSI(14) | 28.8 | Operating margin | 29.61% |
+| ATR(14) | 1.29 | Profit margin | 15.43% |
+| SMA20 dist | -2.83% | ROA | 3.27% |
+| SMA50 dist | -6.33% | ROE | 11.48% |
+| SMA200 dist | -6.44% | Revenue (ttm) | $30.18B |
 | 52W high | $97.49 | Revenue growth y/y | 0.10% |
 | 52W low | $82.06 | Inst. ownership | 74.23% |
-| P/E (ttm) | 20.59 | Insider ownership | 0.10% |
-| Forward P/E | 17.36 | Short float | 3.06% |
-| PEG (trailing) | 2.02 | Avg volume | 5,651,974 |
-| P/S | 3.26 | Employees | 29,502 |
+| P/E (ttm) | 20.52 | Insider ownership | 0.10% |
+| Forward P/E | 17.29 | Short float | 3.06% |
+| PEG (trailing) | 2.02 | Avg volume | 5,661,125 |
+| P/S | 3.25 | Employees | 29,502 |
 | P/B | 2.48 | Analyst rec (1=buy..5=sell) | 2.7 |
 
 ## 8. Analyst Actions
@@ -138,7 +138,7 @@ The Southern Company, through its subsidiaries, engages in the sale of electrici
 | 2026-06-18 | main | Barclays | Equal-Weight → Equal-Weight |
 
 ## 9. Conclusion
-SO: Moderate momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+SO: Low momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

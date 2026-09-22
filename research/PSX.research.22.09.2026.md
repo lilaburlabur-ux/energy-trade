@@ -4,24 +4,24 @@ Signed file: `PSX.research.22.09.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-09-22, ~15-min delayed) |
-| Market cap | $104.94B |
+| Current price | $256.78 (2026-09-22, ~15-min delayed) |
+| Market cap | $102.95B |
 | Sector / Industry | Energy / Oil & Gas Refining & Marketing |
 | Main theme | Oil & Gas Refining & Marketing — see catalysts below |
-| Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
+| Current stance | High technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-09-22.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +103.81%; price +44.54% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -6.36% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 4.66%, revenue growth 53.10%. |
-| Value attractiveness | Reasonable | Forward P/E 10.51, EV/Sales 0.80. |
-| Risk level | Moderate | Beta 0.70, ATR nan% of price, short float 1.61%. |
+| Value attractiveness | Reasonable | Forward P/E 10.31, EV/Sales 0.80. |
+| Risk level | Elevated | Beta 0.70, ATR 3.3% of price, short float 1.61%. |
 
-**Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
+**Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -36,30 +36,30 @@ Phillips 66 operates as an integrated downstream energy provider in the United S
 
 | Headline | Source | Date |
 |---|---|---|
-| Phillips 66 (PSX) Stock Slides as Market Rises: Facts to Know Before You Trade | Zacks | 2026-09-21 |
-| Phillips 66 Is Minting Money on $102 Diesel Margins. How Long Can It Last? | 24/7 Wall St. | 2026-09-21 |
-| MPC vs. PSX: A Closer Look at Two Strong Refining Powerhouses | Zacks | 2026-09-21 |
-| BMO Sees Phillips 66 (PSX) Breaking into New Highs | Insider Monkey | 2026-09-20 |
+| Will Par Pacific's Retail Expansion Boost Earnings Stability Ahead? | Zacks | 2026-09-22 |
+| Stocks Supported as Crude Oil Prices Ease | Barchart | 2026-09-22 |
+| Does HF Sinclair's Diversified Refining Base Enhance Its Resilience? | Zacks | 2026-09-22 |
+| The Zacks Analyst Blog Highlights Valero, Phillips 66 and Eni | Zacks | 2026-09-22 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $274.21 (+nan%); 52w low $123.11 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 77.8 (overbought) |
-| Volatility | ATR(14) 7.68 (~nan% of price); beta 0.70 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $256.78; 52w high $274.21 (-6.36%); 52w low $123.11 (+108.57%) |
+| Trend | +44.54% vs SMA200, +10.76% vs SMA50, +0.35% vs SMA20 |
+| Momentum | RSI(14) 56.4 (neutral) |
+| Volatility | ATR(14) 8.43 (~3.3% of price); beta 0.70 |
+| Setup perspective | -6.36% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -3.1% |
+| Month | +5.7% |
+| Quarter | +51.5% |
+| Half Y | +47.1% |
+| 1Y | +103.8% |
+| YTD | +100.8% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Phillips 66 operates as an integrated downstream energy provider in the United S
 | Revenue (ttm) | $152.17B | Revenue growth 53.10% y/y |
 | Profitability | Gross 13.10%, operating 8.53%, net 4.66% | ROA 6.04%, ROE 23.45% |
 | Balance sheet | Cash $4.10B, debt $20.57B | Current ratio 1.32, debt/equity 62.88 |
-| Valuation | P/E 14.95, forward P/E 10.51, P/S 0.69, P/B 3.32 | EV/Sales 0.80, EV/EBITDA 12.30 |
+| Valuation | P/E 14.66, forward P/E 10.31, P/S 0.68, P/B 3.25 | EV/Sales 0.80, EV/EBITDA 12.30 |
 | Growth expectations | Earnings growth 344.90%, EPS q/q 338.70% | Analyst mean target $251.95 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,6 +95,8 @@ Phillips 66 operates as an integrated downstream energy provider in the United S
 | Goldman Sachs Group Inc | 5,613,271 | 1.41% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
+- **Volatility risk:** Beta 0.70, ATR 3.3% of price, short float 1.61%. Size positions accordingly.
+- **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -109,21 +111,21 @@ Phillips 66 operates as an integrated downstream energy provider in the United S
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 0.80 |
-| Market cap | $104.94B | EV/EBITDA | 12.30 |
+| Price | $256.78 | EV/Sales | 0.80 |
+| Market cap | $102.95B | EV/EBITDA | 12.30 |
 | Beta | 0.70 | Gross margin | 13.10% |
-| RSI(14) | 77.8 | Operating margin | 8.53% |
-| ATR(14) | 7.68 | Profit margin | 4.66% |
-| SMA20 dist | +nan% | ROA | 6.04% |
-| SMA50 dist | +nan% | ROE | 23.45% |
-| SMA200 dist | +nan% | Revenue (ttm) | $152.17B |
+| RSI(14) | 56.4 | Operating margin | 8.53% |
+| ATR(14) | 8.43 | Profit margin | 4.66% |
+| SMA20 dist | +0.35% | ROA | 6.04% |
+| SMA50 dist | +10.76% | ROE | 23.45% |
+| SMA200 dist | +44.54% | Revenue (ttm) | $152.17B |
 | 52W high | $274.21 | Revenue growth y/y | 53.10% |
 | 52W low | $123.11 | Inst. ownership | 80.52% |
-| P/E (ttm) | 14.95 | Insider ownership | 0.21% |
-| Forward P/E | 10.51 | Short float | 1.61% |
-| PEG (trailing) | 1.30 | Avg volume | 2,873,387 |
-| P/S | 0.69 | Employees | 12,600 |
-| P/B | 3.32 | Analyst rec (1=buy..5=sell) | 2.1 |
+| P/E (ttm) | 14.66 | Insider ownership | 0.21% |
+| Forward P/E | 10.31 | Short float | 1.61% |
+| PEG (trailing) | 1.25 | Avg volume | 2,866,887 |
+| P/S | 0.68 | Employees | 12,600 |
+| P/B | 3.25 | Analyst rec (1=buy..5=sell) | 2.1 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
@@ -138,7 +140,7 @@ Phillips 66 operates as an integrated downstream energy provider in the United S
 | 2026-08-06 | main | TD Cowen | Buy → Buy |
 
 ## 9. Conclusion
-PSX: Moderate momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+PSX: High momentum / mixed fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

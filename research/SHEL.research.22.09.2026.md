@@ -4,8 +4,8 @@ Signed file: `SHEL.research.22.09.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-09-22, ~15-min delayed) |
-| Market cap | $266.36B |
+| Current price | $93.93 (2026-09-22, ~15-min delayed) |
+| Market cap | $268.24B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `SHEL.research.22.09.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +37.62%; price +13.05% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -5.07% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 8.76%, revenue growth 44.70%. |
-| Value attractiveness | Reasonable | Forward P/E 9.13, EV/Sales 1.02. |
-| Risk level | Moderate | Beta -0.22, ATR nan% of price, short float 1.54%. |
+| Value attractiveness | Reasonable | Forward P/E 9.19, EV/Sales 1.02. |
+| Risk level | Moderate | Beta -0.22, ATR 1.8% of price, short float 1.54%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
@@ -36,30 +36,30 @@ Shell plc operates as an energy and petrochemical company in Europe, Asia, Ocean
 
 | Headline | Source | Date |
 |---|---|---|
+| Sector Update: Energy Stocks Decline Late Afternoon | MT Newswires | 2026-09-22 |
+| Sector Update: Energy Stocks Mixed Tuesday Afternoon | MT Newswires | 2026-09-22 |
+| Exxon Just Set a Bold 2030 Target for LNG Sales. Here's What 50 Million Tons Actually Means. | Motley Fool | 2026-09-22 |
 | Shell (SHEL) Stock Dips While Market Gains: Key Facts | Zacks | 2026-09-21 |
-| Energy & Utilities Roundup: Market Talk | The Wall Street Journal | 2026-09-21 |
-| XLE Is 91% Oil and Gas. Investors Buying “Energy” May Own Less Than They Think | 24/7 Wall St. | 2026-09-21 |
-| Shell Falls as Europe Revives Windfall-Tax Politics | GuruFocus.com | 2026-09-21 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $98.95 (+nan%); 52w low $68.25 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 54.6 (neutral) |
-| Volatility | ATR(14) 1.63 (~nan% of price); beta -0.22 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $93.93; 52w high $98.95 (-5.07%); 52w low $68.43 (+37.26%) |
+| Trend | +13.05% vs SMA200, +3.47% vs SMA50, -0.09% vs SMA20 |
+| Momentum | RSI(14) 52.3 (neutral) |
+| Volatility | ATR(14) 1.65 (~1.8% of price); beta -0.22 |
+| Setup perspective | -5.07% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -5.1% |
+| Month | +0.6% |
+| Quarter | +19.2% |
+| Half Y | +5.4% |
+| 1Y | +37.6% |
+| YTD | +27.9% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ Shell plc operates as an energy and petrochemical company in Europe, Asia, Ocean
 | Revenue (ttm) | $296.60B | Revenue growth 44.70% y/y |
 | Profitability | Gross 26.09%, operating 16.69%, net 8.76% | ROA 6.40%, ROE 14.34% |
 | Balance sheet | Cash $31.37B, debt $73.08B | Current ratio 1.44, debt/equity 40.20 |
-| Valuation | P/E 10.32, forward P/E 9.13, P/S 0.90, P/B 1.44 | EV/Sales 1.02, EV/EBITDA 5.25 |
+| Valuation | P/E 10.39, forward P/E 9.19, P/S 0.90, P/B 1.45 | EV/Sales 1.02, EV/EBITDA 5.25 |
 | Growth expectations | Earnings growth 220.00%, EPS q/q 200.50% | Analyst mean target $100.35 (15 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 13.36% |
+| Institutional ownership | 13.38% |
 | Insider ownership | 0.01% |
 | Short float | 1.54% |
 | Short ratio (days to cover) | 4.1 |
@@ -95,6 +95,7 @@ Shell plc operates as an energy and petrochemical company in Europe, Asia, Ocean
 | Arrowstreet Capital, Limited Partnership | 6,727,122 | 0.23% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
+- **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -109,21 +110,21 @@ Shell plc operates as an energy and petrochemical company in Europe, Asia, Ocean
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 1.02 |
-| Market cap | $266.36B | EV/EBITDA | 5.25 |
+| Price | $93.93 | EV/Sales | 1.02 |
+| Market cap | $268.24B | EV/EBITDA | 5.25 |
 | Beta | -0.22 | Gross margin | 26.09% |
-| RSI(14) | 54.6 | Operating margin | 16.69% |
-| ATR(14) | 1.63 | Profit margin | 8.76% |
-| SMA20 dist | +nan% | ROA | 6.40% |
-| SMA50 dist | +nan% | ROE | 14.34% |
-| SMA200 dist | +nan% | Revenue (ttm) | $296.60B |
+| RSI(14) | 52.3 | Operating margin | 16.69% |
+| ATR(14) | 1.65 | Profit margin | 8.76% |
+| SMA20 dist | -0.09% | ROA | 6.40% |
+| SMA50 dist | +3.47% | ROE | 14.34% |
+| SMA200 dist | +13.05% | Revenue (ttm) | $296.60B |
 | 52W high | $98.95 | Revenue growth y/y | 44.70% |
-| 52W low | $68.25 | Inst. ownership | 13.36% |
-| P/E (ttm) | 10.32 | Insider ownership | 0.01% |
-| Forward P/E | 9.13 | Short float | 1.54% |
-| PEG (trailing) | 1.60 | Avg volume | 6,317,156 |
+| 52W low | $68.43 | Inst. ownership | 13.38% |
+| P/E (ttm) | 10.39 | Insider ownership | 0.01% |
+| Forward P/E | 9.19 | Short float | 1.54% |
+| PEG (trailing) | 1.58 | Avg volume | 6,310,573 |
 | P/S | 0.90 | Employees | 84,000 |
-| P/B | 1.44 | Analyst rec (1=buy..5=sell) | 2.2 |
+| P/B | 1.45 | Analyst rec (1=buy..5=sell) | 2.2 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
