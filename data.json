@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-22T06:43:55+00:00",
-  "as_of_local": "2026-09-22 06:43:55 UTC",
+  "as_of_utc": "2026-09-22T06:59:00+00:00",
+  "as_of_local": "2026-09-22 06:59:00 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -1021,6 +1021,12 @@
       "market_cap": 47250722342.38907,
       "headlines": [
         {
+          "title": "New Era Energy & Digital, Inc. (NUAI) Moves 30.6% Higher: Will This Strength Last?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/era-energy-digital-inc-nuai-063800243.html",
+          "publisher": "Zacks",
+          "published": "2026-09-22T06:38:00Z"
+        },
+        {
           "title": "NUAI Stock Soars as New Era Energy Strikes Power Deal With Vistra",
           "url": "https://finance.yahoo.com/markets/stocks/articles/nuai-stock-soars-era-energy-184054970.html",
           "publisher": "Barchart",
@@ -1031,12 +1037,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-down-36-time-high-154136921.html",
           "publisher": "TIKR",
           "published": "2026-09-21T15:41:36Z"
-        },
-        {
-          "title": "New Era jumps 30% after signing 207 MW Vistra PPA",
-          "url": "https://finance.yahoo.com/energy/articles/era-jumps-30-signing-207-142704464.html",
-          "publisher": "Blockspace",
-          "published": "2026-09-21T14:27:04Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 93.7,
-      "change_pct": -2.17
+      "price": 93.43,
+      "change_pct": -2.45
     },
     {
       "label": "Brent",
-      "price": 97.79,
-      "change_pct": -2.54
+      "price": 97.52,
+      "change_pct": -2.81
     },
     {
       "label": "NatGas",
       "price": 2.85,
-      "change_pct": 0.35
+      "change_pct": 0.39
     }
   ]
 }
