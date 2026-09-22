@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-22T23:10:22+00:00",
-  "as_of_local": "2026-09-22 23:10:22 UTC",
+  "as_of_utc": "2026-09-22T23:14:19+00:00",
+  "as_of_local": "2026-09-22 23:14:19 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -11,7 +11,26 @@
       "previous_close": 158.3,
       "change_pct": 0.26,
       "market_cap": 652601574778.4308,
-      "headlines": []
+      "headlines": [
+        {
+          "title": "3 High-Yielding Dividend Stocks That Are No-Brainer Buys for Retirees and Risk-Averse Investors",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-high-yielding-dividend-stocks-172330076.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-22T17:23:30Z"
+        },
+        {
+          "title": "4 Integrated Energy Stocks to Benefit From Industry Tailwinds",
+          "url": "https://finance.yahoo.com/energy/articles/4-integrated-energy-stocks-benefit-160600799.html",
+          "publisher": "Zacks",
+          "published": "2026-09-22T16:06:00Z"
+        },
+        {
+          "title": "Exxon Just Set a Bold 2030 Target for LNG Sales. Here's What 50 Million Tons Actually Means.",
+          "url": "https://finance.yahoo.com/energy/articles/exxon-just-set-bold-2030-160501222.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-22T16:05:01Z"
+        }
+      ]
     },
     {
       "symbol": "CVX",
@@ -1084,26 +1103,7 @@
       "previous_close": 50.13,
       "change_pct": 1.36,
       "market_cap": 31782468819.015503,
-      "headlines": [
-        {
-          "title": "My Top Natural Gas Stock Pick for 2027 and Beyond: EQT Corporation",
-          "url": "https://finance.yahoo.com/energy/articles/top-natural-gas-stock-pick-112600027.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-18T11:26:00Z"
-        },
-        {
-          "title": "EQT Stock Is Down 26% From Its 2026 Highs. Here\u2019s What Could Turn It Around",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/eqt-stock-down-26-2026-235603885.html",
-          "publisher": "TIKR",
-          "published": "2026-09-16T23:56:03Z"
-        },
-        {
-          "title": "Why Is EOG Resources (EOG) Up 11% Since Last Earnings Report?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-eog-resources-eog-11-153012782.html",
-          "publisher": "Zacks",
-          "published": "2026-09-03T15:30:12Z"
-        }
-      ]
+      "headlines": []
     },
     {
       "symbol": "FTI",
@@ -1112,7 +1112,26 @@
       "previous_close": 71.31,
       "change_pct": -0.69,
       "market_cap": 27773081838.480927,
-      "headlines": []
+      "headlines": [
+        {
+          "title": "1 Mid-Cap Stock to Consider Right Now and 2 Facing Challenges",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/1-mid-cap-stock-consider-112546766.html",
+          "publisher": "StockStory",
+          "published": "2026-09-22T11:25:46Z"
+        },
+        {
+          "title": "Q2 Earnings Highlights: TechnipFMC (NYSE:FTI) Vs The Rest Of The Oilfield Services Stocks",
+          "url": "https://finance.yahoo.com/energy/articles/q2-earnings-highlights-technipfmc-nyse-182225255.html",
+          "publisher": "StockStory",
+          "published": "2026-09-21T18:22:25Z"
+        },
+        {
+          "title": "TechnipFMC Wins PETRONAS Limbayong Deepwater Project Contract",
+          "url": "https://finance.yahoo.com/energy/articles/technipfmc-wins-petronas-limbayong-deepwater-141800132.html",
+          "publisher": "Zacks",
+          "published": "2026-09-16T14:18:00Z"
+        }
+      ]
     },
     {
       "symbol": "HAL",
@@ -2077,8 +2096,8 @@
     },
     {
       "label": "WTI",
-      "price": 89.63,
-      "change_pct": -6.42
+      "price": 89.66,
+      "change_pct": -6.39
     },
     {
       "label": "Brent",
@@ -2088,7 +2107,7 @@
     {
       "label": "NatGas",
       "price": 3.17,
-      "change_pct": 11.85
+      "change_pct": 11.92
     }
   ]
 }
