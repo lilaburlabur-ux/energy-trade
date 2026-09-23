@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-23T23:20:49+00:00",
-  "as_of_local": "2026-09-23 23:20:49 UTC",
+  "as_of_utc": "2026-09-23T23:25:40+00:00",
+  "as_of_local": "2026-09-23 23:25:40 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -13,6 +13,12 @@
       "market_cap": 662963547742.8168,
       "headlines": [
         {
+          "title": "3 Companies With a Strong History of Dividend Growth",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-companies-strong-history-dividend-231500498.html",
+          "publisher": "Zacks",
+          "published": "2026-09-23T23:15:00Z"
+        },
+        {
           "title": "Lincoln Property to repurpose north Houston eyesore Greenspoint Mall into industrial park",
           "url": "https://finance.yahoo.com/real-estate/articles/lincoln-property-repurpose-north-houston-184500075.html",
           "publisher": "The Real Deal",
@@ -23,12 +29,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/hormuz-stays-shut-high-exxon-155030688.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-09-23T15:50:30Z"
-        },
-        {
-          "title": "How ExxonMobil's Balance Sheet Helps Navigate Oil Volatility",
-          "url": "https://finance.yahoo.com/energy/articles/exxonmobils-balance-sheet-helps-navigate-150800332.html",
-          "publisher": "Zacks",
-          "published": "2026-09-23T15:08:00Z"
         }
       ]
     },
@@ -150,7 +150,7 @@
       "price": 438.76,
       "previous_close": 435.43,
       "change_pct": 0.76,
-      "market_cap": 170370511791.9922,
+      "market_cap": 170414387792.96875,
       "headlines": [
         {
           "title": "Why Does Vertiv Cost The Most In A Group It Does Not Out-Grow?",
@@ -178,7 +178,7 @@
       "price": 77.02,
       "previous_close": 79.63,
       "change_pct": -3.28,
-      "market_cap": 160633317671.92133,
+      "market_cap": 160662034654.68967,
       "headlines": [
         {
           "title": "NextEra Energy, Inc. (NEE) is Attracting Investor Attention: Here is What You Should Know",
@@ -262,7 +262,7 @@
       "price": 388.38,
       "previous_close": 402.38,
       "change_pct": -3.48,
-      "market_cap": 113382351726.77185,
+      "market_cap": 109066722825.15466,
       "headlines": [
         {
           "title": "Bloom Energy vs. Marathon Petroleum: Which Popular Energy Stock Is the Better Buy?",
@@ -654,7 +654,7 @@
       "price": 141.84,
       "previous_close": 141.38,
       "change_pct": 0.33,
-      "market_cap": 75548028744.65607,
+      "market_cap": 74399216402.95679,
       "headlines": [
         {
           "title": "Is EOG Resources Stock A Buy For Its Shrinking Share Count?",
@@ -1074,7 +1074,7 @@
       "price": 67.31,
       "previous_close": 69.31,
       "change_pct": -2.89,
-      "market_cap": 33542012352.015015,
+      "market_cap": 33548651002.454224,
       "headlines": [
         {
           "title": "Public Service Enterprise Group CEO Sells 2,083 Shares",
@@ -1494,7 +1494,7 @@
       "price": 29.08,
       "previous_close": 29.72,
       "change_pct": -2.15,
-      "market_cap": 8819265039.06188,
+      "market_cap": 8727246061.1833,
       "headlines": [
         {
           "title": "3 Reasons to Buy Brookfield Renewable Before September Ends",
@@ -1606,7 +1606,7 @@
       "price": 84.66,
       "previous_close": 82.2,
       "change_pct": 2.99,
-      "market_cap": 6068889866.899933,
+      "market_cap": 6054214986.5251465,
       "headlines": [
         {
           "title": "1 of Wall Street\u2019s Favorite Stocks to Own for Decades and 2 We Ignore",
@@ -1662,7 +1662,7 @@
       "price": 33.07,
       "previous_close": 34.42,
       "change_pct": -3.92,
-      "market_cap": 4358567095.178375,
+      "market_cap": 4370023469.032654,
       "headlines": [
         {
           "title": "Enphase Energy (ENPH) Registers a Bigger Fall Than the Market: Important Facts to Note",
@@ -1746,7 +1746,7 @@
       "price": 11.6,
       "previous_close": 12.14,
       "change_pct": -4.45,
-      "market_cap": 2899594095.35408,
+      "market_cap": 3071373536.203102,
       "headlines": [
         {
           "title": "Here's Why Energy Fuels (UUUU) Fell More Than Broader Market",
@@ -2120,8 +2120,8 @@
     },
     {
       "label": "Brent",
-      "price": 97.86,
-      "change_pct": -1.4
+      "price": 97.92,
+      "change_pct": -1.34
     },
     {
       "label": "NatGas",
