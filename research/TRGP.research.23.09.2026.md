@@ -68,7 +68,7 @@ Targa Resources Corp., together with its subsidiaries, owns, operates, acquires,
 | Revenue (ttm) | $16.74B | Revenue growth 4.20% y/y |
 | Profitability | Gross 43.19%, operating 27.80%, net 13.54% | ROA 9.24%, ROE 70.84% |
 | Balance sheet | Cash $132.30M, debt $19.58B | Current ratio 0.77, debt/equity 515.79 |
-| Valuation | P/E 27.77, forward P/E 23.43, P/S 3.62, P/B 19.37 | EV/Sales 4.78, EV/EBITDA 14.57 |
+| Valuation | P/E 27.03, forward P/E 23.43, P/S 3.62, P/B 19.37 | EV/Sales 4.78, EV/EBITDA 14.57 |
 | Growth expectations | Earnings growth 23.30%, EPS q/q 21.50% | Analyst mean target $325.14 (21 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -121,7 +121,7 @@ Targa Resources Corp., together with its subsidiaries, owns, operates, acquires,
 | SMA200 dist | +16.58% | Revenue (ttm) | $16.74B |
 | 52W high | $302.25 | Revenue growth y/y | 4.20% |
 | 52W low | $143.22 | Inst. ownership | 97.48% |
-| P/E (ttm) | 27.77 | Insider ownership | 1.38% |
+| P/E (ttm) | 27.03 | Insider ownership | 1.38% |
 | Forward P/E | 23.43 | Short float | 2.93% |
 | PEG (trailing) | — | Avg volume | 1,247,304 |
 | P/S | 3.62 | Employees | 3,570 |

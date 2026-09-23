@@ -68,7 +68,7 @@ Valero Energy Corporation manufactures, markets, and sells petroleum-based and l
 | Revenue (ttm) | $132.43B | Revenue growth 51.70% y/y |
 | Profitability | Gross 16.12%, operating 12.27%, net 5.45% | ROA 10.56%, ROE 27.64% |
 | Balance sheet | Cash $7.87B, debt $11.35B | Current ratio 1.64, debt/equity 40.15 |
-| Valuation | P/E 15.67, forward P/E 9.88, P/S 0.82, P/B 4.33 | EV/Sales 0.87, EV/EBITDA 8.62 |
+| Valuation | P/E 16.33, forward P/E 9.88, P/S 0.82, P/B 4.33 | EV/Sales 0.87, EV/EBITDA 8.62 |
 | Growth expectations | Earnings growth 453.50%, EPS q/q 421.00% | Analyst mean target $360.32 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -120,7 +120,7 @@ Valero Energy Corporation manufactures, markets, and sells petroleum-based and l
 | SMA200 dist | +50.30% | Revenue (ttm) | $132.43B |
 | 52W high | $413.28 | Revenue growth y/y | 51.70% |
 | 52W low | $153.14 | Inst. ownership | 87.04% |
-| P/E (ttm) | 15.67 | Insider ownership | 0.42% |
+| P/E (ttm) | 16.33 | Insider ownership | 0.42% |
 | Forward P/E | 9.88 | Short float | 3.99% |
 | PEG (trailing) | 1.86 | Avg volume | 3,037,698 |
 | P/S | 0.82 | Employees | 9,785 |
