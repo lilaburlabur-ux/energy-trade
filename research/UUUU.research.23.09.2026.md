@@ -18,7 +18,7 @@ Signed file: `UUUU.research.23.09.2026`
 | Technical momentum | Low | Below SMA200 (-32.83%) with negative half-year (-35.77%). |
 | Fresh setup quality | Poor / broken | -58.15% from 52w high — base needs to rebuild. |
 | Fundamental quality | Weak | Negative profit margin (-77.30%). |
-| Value attractiveness | Fair-to-demanding | Forward P/E 23.92, EV/Sales 26.29. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 23.92, EV/Sales 25.01. |
 | Risk level | High | Beta 1.63, ATR 6.5% of price, short float 20.62%. |
 
 **Bottom line:** Low technical momentum, weak fundamentals, value: fair-to-demanding, risk: high.
@@ -36,10 +36,10 @@ Energy Fuels Inc., together with its subsidiaries, engages in the exploration, r
 
 | Headline | Source | Date |
 |---|---|---|
+| Here's Why Energy Fuels (UUUU) Fell More Than Broader Market | Zacks | 2026-09-23 |
 | Cameco And 2 Canadian Nuclear Stocks To Watch | Simply Wall St. | 2026-09-23 |
 | UUUU vs. MP: Which Rare Earth Stock is a Better Pick Now? | Zacks | 2026-09-21 |
 | Energy Fuels (TSX:EFR) Could Be 60% Undervalued After Its September Investor Call | Simply Wall St. | 2026-09-20 |
-| Will USAR's AI-Driven Approach Enhance Rare-Earth Processing? | Zacks | 2026-09-18 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ Energy Fuels Inc., together with its subsidiaries, engages in the exploration, r
 | Revenue (ttm) | $105.76M | Revenue growth 496.10% y/y |
 | Profitability | Gross 40.85%, operating -79.03%, net -77.30% | ROA -4.65%, ROE -11.45% |
 | Balance sheet | Cash $936.75M, debt $678.34M | Current ratio 27.90, debt/equity 85.13 |
-| Valuation | P/E —, forward P/E 23.92, P/S 29.04, P/B 3.66 | EV/Sales 26.29, EV/EBITDA -38.80 |
+| Valuation | P/E —, forward P/E 23.92, P/S 29.04, P/B 3.66 | EV/Sales 25.01, EV/EBITDA -36.91 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $24.15 (5 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ Energy Fuels Inc., together with its subsidiaries, engages in the exploration, r
 | American Century Companies Inc | 4,226,355 | 1.60% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 23.92, EV/Sales 26.29. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 23.92, EV/Sales 25.01. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 1.63, ATR 6.5% of price, short float 20.62%. Size positions accordingly.
 - **Short interest risk:** short float 20.62% can fuel squeezes both ways around news.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
@@ -114,8 +114,8 @@ Energy Fuels Inc., together with its subsidiaries, engages in the exploration, r
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $11.60 | EV/Sales | 26.29 |
-| Market cap | $3.07B | EV/EBITDA | -38.80 |
+| Price | $11.60 | EV/Sales | 25.01 |
+| Market cap | $3.07B | EV/EBITDA | -36.91 |
 | Beta | 1.63 | Gross margin | 40.85% |
 | RSI(14) | 35.5 | Operating margin | -79.03% |
 | ATR(14) | 0.75 | Profit margin | -77.30% |

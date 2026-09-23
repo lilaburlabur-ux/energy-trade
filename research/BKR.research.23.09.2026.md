@@ -36,10 +36,10 @@ Baker Hughes Company provides a portfolio of technologies and services to energy
 
 | Headline | Source | Date |
 |---|---|---|
+| NeoVolta, Inc. (NEOV) Reports Q4 Loss, Lags Revenue Estimates | Zacks | 2026-09-23 |
 | Baker Hughes (BKR) Raises 2026 Guidance. But Investors Aren’t Impressed | Insider Monkey | 2026-09-20 |
 | US rig count up four as prices tick up | Odessa American, Texas | 2026-09-19 |
 | U.S. Oil, Gas Rig Count Creeps Up With Strong Prices | Oilprice.com | 2026-09-18 |
-| Why Is Baker Hughes (BKR) Winning One Of America’s Biggest LNG Compression Orders? | Simply Wall St. | 2026-09-18 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

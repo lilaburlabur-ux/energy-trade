@@ -36,10 +36,10 @@ Sunrun Inc. designs, develops, installs, sells, owns, and maintains residential 
 
 | Headline | Source | Date |
 |---|---|---|
+| Sunrun (RUN) Dips More Than Broader Market: What You Should Know | Zacks | 2026-09-23 |
 | Why Sunrun’s (RUN) Virtual Power Plant Strategy Changes Everything For Its Valuation | Insider Monkey | 2026-09-23 |
 | Tesla (TSLA) Heads To Civil Rights Trial After Record 580 Megawatt Battery Dispatch | Simply Wall St. | 2026-09-22 |
 | TSLA, RUN Stocks In Focus — 580 MW Heat-Wave Battery Drop Lifts Tesla And Sunrun Despite 2026 Losses | Stocktwits | 2026-09-21 |
-| 2 Industrials Stocks to Consider Right Now and 1 That Underwhelm | StockStory | 2026-09-21 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

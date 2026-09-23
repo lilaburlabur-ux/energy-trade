@@ -36,10 +36,10 @@ Valero Energy Corporation manufactures, markets, and sells petroleum-based and l
 
 | Headline | Source | Date |
 |---|---|---|
+| Steve Weiss Dumped an Energy Stock That Tripled the S&P 500 Over a Decade | 24/7 Wall St. | 2026-09-23 |
 | The Great U.S. Existing Home Mortgage Lock-in | Zacks | 2026-09-23 |
 | Why Wall Street Is Aggressively Upgrading These 5 Stocks Right Now | Investor's Business Daily | 2026-09-23 |
 | The Market Screams For More. Why Refiners Don't Plan To Provide It. | Investor's Business Daily | 2026-09-23 |
-| White House calls report of 90-day diesel exports ban "fake news" | Investing.com | 2026-09-23 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ Valero Energy Corporation manufactures, markets, and sells petroleum-based and l
 | Revenue (ttm) | $132.43B | Revenue growth 51.70% y/y |
 | Profitability | Gross 16.12%, operating 12.27%, net 5.45% | ROA 10.56%, ROE 27.64% |
 | Balance sheet | Cash $7.87B, debt $11.35B | Current ratio 1.64, debt/equity 40.15 |
-| Valuation | P/E 16.33, forward P/E 9.88, P/S 0.82, P/B 4.33 | EV/Sales 0.87, EV/EBITDA 8.62 |
+| Valuation | P/E 16.33, forward P/E 9.88, P/S 0.82, P/B 4.33 | EV/Sales 0.87, EV/EBITDA 8.59 |
 | Growth expectations | Earnings growth 453.50%, EPS q/q 421.00% | Analyst mean target $360.32 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -111,7 +111,7 @@ Valero Energy Corporation manufactures, markets, and sells petroleum-based and l
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $375.84 | EV/Sales | 0.87 |
-| Market cap | $108.21B | EV/EBITDA | 8.62 |
+| Market cap | $108.21B | EV/EBITDA | 8.59 |
 | Beta | 0.57 | Gross margin | 16.12% |
 | RSI(14) | 53.1 | Operating margin | 12.27% |
 | ATR(14) | 15.03 | Profit margin | 5.45% |

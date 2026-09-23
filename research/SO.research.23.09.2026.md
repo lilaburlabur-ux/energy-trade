@@ -18,7 +18,7 @@ Signed file: `SO.research.23.09.2026`
 | Technical momentum | Low | Below SMA200 (-8.28%) with negative half-year (-9.49%). |
 | Fresh setup quality | Moderate / wait | -14.38% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 15.43%, revenue growth 0.10%. |
-| Value attractiveness | Reasonable | Forward P/E 16.95, EV/Sales 5.79. |
+| Value attractiveness | Reasonable | Forward P/E 16.95, EV/Sales 5.73. |
 | Risk level | Moderate | Beta 0.32, ATR 1.6% of price, short float 3.06%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -36,10 +36,10 @@ The Southern Company, through its subsidiaries, engages in the sale of electrici
 
 | Headline | Source | Date |
 |---|---|---|
+| Southern Co. (SO) Falls More Steeply Than Broader Market: What Investors Need to Know | Zacks | 2026-09-23 |
 | Google Is Helping Upgrade Southern’s Nuclear Plants. Can 96 MW Ease Its AI Power Bottleneck? | Insider Monkey | 2026-09-23 |
 | England’s first new reservoir in 30 years delayed despite drought warnings | The Telegraph | 2026-09-23 |
 | Southern Company or Duke Energy: Only One Offers the Combination of Yield, Growth, and Safety You Need | 24/7 Wall St. | 2026-09-23 |
-| SO's Georgia Power Signs Google Deal to Boost Nuclear Capacity | Zacks | 2026-09-23 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ The Southern Company, through its subsidiaries, engages in the sale of electrici
 | Revenue (ttm) | $30.18B | Revenue growth 0.10% y/y |
 | Profitability | Gross 48.29%, operating 29.61%, net 15.43% | ROA 3.27%, ROE 11.48% |
 | Balance sheet | Cash $2.98B, debt $77.09B | Current ratio 0.79, debt/equity 182.06 |
-| Valuation | P/E 20.11, forward P/E 16.95, P/S 3.18, P/B 2.43 | EV/Sales 5.79, EV/EBITDA 12.26 |
+| Valuation | P/E 20.11, forward P/E 16.95, P/S 3.18, P/B 2.43 | EV/Sales 5.73, EV/EBITDA 12.13 |
 | Growth expectations | Earnings growth 30.40%, EPS q/q 33.40% | Analyst mean target $99.76 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -109,8 +109,8 @@ The Southern Company, through its subsidiaries, engages in the sale of electrici
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $83.47 | EV/Sales | 5.79 |
-| Market cap | $96.02B | EV/EBITDA | 12.26 |
+| Price | $83.47 | EV/Sales | 5.73 |
+| Market cap | $96.02B | EV/EBITDA | 12.13 |
 | Beta | 0.32 | Gross margin | 48.29% |
 | RSI(14) | 23.8 | Operating margin | 29.61% |
 | ATR(14) | 1.38 | Profit margin | 15.43% |

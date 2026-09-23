@@ -36,10 +36,10 @@ BP p.l.c., an integrated energy company, engages in the oil and gas business wor
 
 | Headline | Source | Date |
 |---|---|---|
+| 11 Dividend Stocks for a Rocky Market, From Investment Pros | Barrons.com | 2026-09-23 |
 | Shell Completes $840 Million Gulf Oil Asset Sale | Oilprice.com | 2026-09-23 |
 | European Equities Traded in the US as American Depositary Receipts Fall in Wednesday Trading | MT Newswires | 2026-09-23 |
 | Zacks Industry Outlook Highlights ExxonMobil, Chevron, BP and Eni SpA | Zacks | 2026-09-23 |
-| 4 Integrated Energy Stocks to Benefit From Industry Tailwinds | Zacks | 2026-09-22 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

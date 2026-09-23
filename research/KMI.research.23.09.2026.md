@@ -36,10 +36,10 @@ Kinder Morgan, Inc. operates as an energy infrastructure company primarily in No
 
 | Headline | Source | Date |
 |---|---|---|
+| Pipelines Are Pumping AI’s Power. 2 Winning Stocks to Buy. | Barrons.com | 2026-09-23 |
 | Kinder Morgan Poised to Benefit From Higher Commodity Prices, RBC Says | MT Newswires | 2026-09-22 |
 | XLE Is 91% Oil and Gas. Investors Buying “Energy” May Own Less Than They Think | 24/7 Wall St. | 2026-09-21 |
 | 2 High-Yield Energy Dividend Stocks to Buy in September With Dividends You Can Count On | Motley Fool | 2026-09-21 |
-| Kinder Morgan, Inc. (KMI) is Attracting Investor Attention: Here is What You Should Know | Zacks | 2026-09-21 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

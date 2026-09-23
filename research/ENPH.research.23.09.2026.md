@@ -36,10 +36,10 @@ Enphase Energy, Inc., together with its subsidiaries, designs, develops, manufac
 
 | Headline | Source | Date |
 |---|---|---|
+| Enphase Energy (ENPH) Registers a Bigger Fall Than the Market: Important Facts to Note | Zacks | 2026-09-23 |
 | Enphase Energy, Inc. (ENPH) is Attracting Investor Attention: Here is What You Should Know | Zacks | 2026-09-21 |
 | Bloom Energy’s “Time-to-Power” Moat | Motley Fool | 2026-09-20 |
 | Enphase Energy Drops 5% as Solar Selling Resumes; First Solar and Sunrun Fall 4% | 24/7 Wall St. | 2026-09-18 |
-| 3 of Wall Street’s Favorite Stocks We Approach with Caution | StockStory | 2026-09-17 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

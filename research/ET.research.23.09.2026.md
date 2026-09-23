@@ -36,10 +36,10 @@ Energy Transfer LP, together with its subsidiaries, provides energy-related serv
 
 | Headline | Source | Date |
 |---|---|---|
+| Pipelines Are Pumping AI’s Power. 2 Winning Stocks to Buy. | Barrons.com | 2026-09-23 |
 | Energy Transfer LP (ET) Stock Moves -2.39%: What You Should Know | Zacks | 2026-09-22 |
 | 2 High-Yield Energy Dividend Stocks to Buy in September With Dividends You Can Count On | Motley Fool | 2026-09-21 |
 | The AI Bottleneck Is Not Chips Anymore and 3 Pipeline Stocks Are Cashing In | MarketBeat | 2026-09-20 |
-| 3 Dividend Stocks Sitting Outside the AI Power Trade -- And Still Winning | Motley Fool | 2026-09-20 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -18,7 +18,7 @@ Signed file: `DUK.research.23.09.2026`
 | Technical momentum | Low | Below SMA200 (-6.66%) with negative half-year (-8.77%). |
 | Fresh setup quality | Moderate / wait | -12.96% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 16.00%, revenue growth 1.10%. |
-| Value attractiveness | Reasonable | Forward P/E 15.92, EV/Sales 5.65. |
+| Value attractiveness | Reasonable | Forward P/E 15.92, EV/Sales 5.60. |
 | Risk level | Moderate | Beta 0.36, ATR 1.5% of price, short float 2.44%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -36,10 +36,10 @@ Duke Energy Corporation, through its subsidiaries, operates as an energy company
 
 | Headline | Source | Date |
 |---|---|---|
+| Duke Energy (DUK) Dips More Than Broader Market: What You Should Know | Zacks | 2026-09-23 |
 | Southern Company or Duke Energy: Only One Offers the Combination of Yield, Growth, and Safety You Need | 24/7 Wall St. | 2026-09-23 |
 | Duke Energy Corporation (DUK) is Attracting Investor Attention: Here is What You Should Know | Zacks | 2026-09-23 |
 | How Low Can PG&E Stock Go When The Risk Is Its Own? | Trefis | 2026-09-22 |
-| IDACORP Hikes Dividend 2.3% to Strengthen Shareholder Returns | Zacks | 2026-09-21 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ Duke Energy Corporation, through its subsidiaries, operates as an energy company
 | Revenue (ttm) | $32.80B | Revenue growth 1.10% y/y |
 | Profitability | Gross 51.97%, operating 27.50%, net 16.00% | ROA 2.84%, ROE 9.86% |
 | Balance sheet | Cash $673.00M, debt $92.21B | Current ratio 0.66, debt/equity 162.16 |
-| Valuation | P/E 17.19, forward P/E 15.92, P/S 2.71, P/B 1.66 | EV/Sales 5.65, EV/EBITDA 11.15 |
+| Valuation | P/E 17.19, forward P/E 15.92, P/S 2.71, P/B 1.66 | EV/Sales 5.60, EV/EBITDA 11.05 |
 | Growth expectations | Earnings growth 10.60%, EPS q/q 11.00% | Analyst mean target $136.94 (18 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -109,8 +109,8 @@ Duke Energy Corporation, through its subsidiaries, operates as an energy company
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $114.17 | EV/Sales | 5.65 |
-| Market cap | $89.02B | EV/EBITDA | 11.15 |
+| Price | $114.17 | EV/Sales | 5.60 |
+| Market cap | $89.02B | EV/EBITDA | 11.05 |
 | Beta | 0.36 | Gross margin | 51.97% |
 | RSI(14) | 26.8 | Operating margin | 27.50% |
 | ATR(14) | 1.77 | Profit margin | 16.00% |

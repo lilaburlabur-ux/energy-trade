@@ -18,7 +18,7 @@ Signed file: `NRG.research.23.09.2026`
 | Technical momentum | Low | Below SMA200 (-29.46%) with negative half-year (-33.20%). |
 | Fresh setup quality | Poor / broken | -44.91% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 2.56%, revenue growth 11.00%. |
-| Value attractiveness | Reasonable | Forward P/E 9.00, EV/Sales 1.38. |
+| Value attractiveness | Reasonable | Forward P/E 9.00, EV/Sales 1.36. |
 | Risk level | Elevated | Beta 1.17, ATR 4.5% of price, short float 3.81%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
@@ -36,10 +36,10 @@ NRG Energy, Inc., together with its subsidiaries, operates as an energy and home
 
 | Headline | Source | Date |
 |---|---|---|
+| NRG Energy (NRG) Falls More Steeply Than Broader Market: What Investors Need to Know | Zacks | 2026-09-23 |
 | NRG Energy, Inc. (NRG) is Attracting Investor Attention: Here is What You Should Know | Zacks | 2026-09-23 |
 | Is NRG Energy Stock Underperforming the S&P 500? | Barchart | 2026-09-23 |
 | Talen Raises 2026 Guidance as Cornerstone Boosts Cash Flow | Zacks | 2026-09-21 |
-| NRG Energy (NRG) Stock Sinks As Market Gains: Here's Why | Zacks | 2026-09-17 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ NRG Energy, Inc., together with its subsidiaries, operates as an energy and home
 | Revenue (ttm) | $33.12B | Revenue growth 11.00% y/y |
 | Profitability | Gross 18.80%, operating 12.77%, net 2.56% | ROA 4.06%, ROE 23.77% |
 | Balance sheet | Cash $162.00M, debt $23.47B | Current ratio 0.97, debt/equity 483.36 |
-| Valuation | P/E 26.23, forward P/E 9.00, P/S 0.64, P/B 5.04 | EV/Sales 1.38, EV/EBITDA 14.00 |
+| Valuation | P/E 26.23, forward P/E 9.00, P/S 0.64, P/B 5.04 | EV/Sales 1.36, EV/EBITDA 13.87 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $188.56 (16 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -111,8 +111,8 @@ NRG Energy, Inc., together with its subsidiaries, operates as an energy and home
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $100.72 | EV/Sales | 1.38 |
-| Market cap | $21.17B | EV/EBITDA | 14.00 |
+| Price | $100.72 | EV/Sales | 1.36 |
+| Market cap | $21.17B | EV/EBITDA | 13.87 |
 | Beta | 1.17 | Gross margin | 18.80% |
 | RSI(14) | 32.9 | Operating margin | 12.77% |
 | ATR(14) | 4.52 | Profit margin | 2.56% |

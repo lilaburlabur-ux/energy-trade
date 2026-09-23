@@ -36,10 +36,10 @@ Dominion Energy, Inc. provides regulated electricity and natural gas services in
 
 | Headline | Source | Date |
 |---|---|---|
+| Dominion Energy (D) Registers a Bigger Fall Than the Market: Important Facts to Note | Zacks | 2026-09-23 |
 | NextEra (NEE) and Dominion (D) Unveil a Bigger Pitch for Virginia | Insider Monkey | 2026-09-20 |
 | Jim Cramer Suggests Against Holding Dominion (D) Through the NextEra (NEE) Share Conversion | Insider Monkey | 2026-09-19 |
 | How AI concerns moved to the center of the midterm debate | Investing.com | 2026-09-19 |
-| Can NextEra (NEE) Preserve Its Earnings and Dividend Growth While Adding Dominion? | Insider Monkey | 2026-09-19 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

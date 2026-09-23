@@ -36,10 +36,10 @@ Vistra Corp., together with its subsidiaries, operates as an integrated retail e
 
 | Headline | Source | Date |
 |---|---|---|
+| Vistra Corp. (VST) Sees a More Significant Dip Than Broader Market: Some Facts to Know | Zacks | 2026-09-23 |
 | New Era Energy & Digital Is Up by More Than 60% This Month. Here's What's Fueling the Rally. | Motley Fool | 2026-09-23 |
 | Can Constellation Energy Reduce EFOF and Improve Fleet Performance? | Zacks | 2026-09-22 |
 | Is Vistra (VST) A Bargain Or Fully Priced After New Power Deals? | Simply Wall St. | 2026-09-22 |
-| Bet on These Nuclear ETFs to Ride the AI Data Center Boom Now | Zacks | 2026-09-22 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

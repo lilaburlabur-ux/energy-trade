@@ -18,7 +18,7 @@ Signed file: `WMB.research.23.09.2026`
 | Technical momentum | Moderate | 1Y +21.90%; price +1.81% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -9.12% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 24.94%, revenue growth 7.80%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 27.57, EV/Sales 9.71. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 27.57, EV/Sales 9.72. |
 | Risk level | Moderate | Beta 0.62, ATR 2.7% of price, short float 2.41%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: fair-to-demanding, risk: moderate.
@@ -36,10 +36,10 @@ The Williams Companies, Inc., together with its subsidiaries, operates as an ene
 
 | Headline | Source | Date |
 |---|---|---|
+| Pipelines Are Pumping AI’s Power. 2 Winning Stocks to Buy. | Barrons.com | 2026-09-23 |
 | Kinder Morgan Poised to Benefit From Higher Commodity Prices, RBC Says | MT Newswires | 2026-09-22 |
 | 3 Stocks Put Traders Are Targeting Today: EXE, APH, WMB | Schaeffer's Investment Research | 2026-09-22 |
 | Williams Companies (WMB) Debt Deal Puts Its Valuation Story Back In Focus | Simply Wall St. | 2026-09-22 |
-| XLE Is 91% Oil and Gas. Investors Buying “Energy” May Own Less Than They Think | 24/7 Wall St. | 2026-09-21 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ The Williams Companies, Inc., together with its subsidiaries, operates as an ene
 | Revenue (ttm) | $12.32B | Revenue growth 7.80% y/y |
 | Profitability | Gross 63.64%, operating 39.54%, net 24.94% | ROA 5.03%, ROE 21.50% |
 | Balance sheet | Cash $203.00M, debt $30.79B | Current ratio 0.48, debt/equity 200.37 |
-| Valuation | P/E 28.33, forward P/E 27.57, P/S 7.06, P/B 6.61 | EV/Sales 9.71, EV/EBITDA 17.01 |
+| Valuation | P/E 28.33, forward P/E 27.57, P/S 7.06, P/B 6.61 | EV/Sales 9.72, EV/EBITDA 17.03 |
 | Growth expectations | Earnings growth 51.20%, EPS q/q 51.50% | Analyst mean target $85.65 (23 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ The Williams Companies, Inc., together with its subsidiaries, operates as an ene
 | JPMORGAN CHASE & CO | 21,379,796 | 1.75% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 27.57, EV/Sales 9.71. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 27.57, EV/Sales 9.72. Multiple compression is the main downside if growth disappoints.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -110,8 +110,8 @@ The Williams Companies, Inc., together with its subsidiaries, operates as an ene
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $71.11 | EV/Sales | 9.71 |
-| Market cap | $86.98B | EV/EBITDA | 17.01 |
+| Price | $71.11 | EV/Sales | 9.72 |
+| Market cap | $86.98B | EV/EBITDA | 17.03 |
 | Beta | 0.62 | Gross margin | 63.64% |
 | RSI(14) | 43.7 | Operating margin | 39.54% |
 | ATR(14) | 1.90 | Profit margin | 24.94% |

@@ -36,10 +36,10 @@ First Solar, Inc., a solar technology company, provides photovoltaic (PV) solar 
 
 | Headline | Source | Date |
 |---|---|---|
+| Why First Solar (FSLR) Dipped More Than Broader Market Today | Zacks | 2026-09-23 |
 | First Solar (FSLR) Stock Still Looks Below Fair Value Following Its 115% Run | Simply Wall St. | 2026-09-19 |
 | Is First Solar Stock Underperforming the Nasdaq? | Barchart | 2026-09-18 |
 | Enphase Energy Drops 5% as Solar Selling Resumes; First Solar and Sunrun Fall 4% | 24/7 Wall St. | 2026-09-18 |
-| First Solar CTO Markus Gloeckler Sells 800 Shares for $160,000 | Motley Fool | 2026-09-18 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
