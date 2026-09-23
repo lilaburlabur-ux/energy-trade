@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-23T08:31:34+00:00",
-  "as_of_local": "2026-09-23 08:31:34 UTC",
+  "as_of_utc": "2026-09-23T08:35:45+00:00",
+  "as_of_local": "2026-09-23 08:35:45 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -1553,6 +1553,12 @@
       "market_cap": 7193728562.5,
       "headlines": [
         {
+          "title": "3 Low-Volatility Stocks That Concern Us",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-low-volatility-stocks-concern-082902243.html",
+          "publisher": "StockStory",
+          "published": "2026-09-23T08:29:02Z"
+        },
+        {
           "title": "3 Stocks Linked To Middle East Pipeline Spending Investors Should Watch",
           "url": "https://finance.yahoo.com/energy/articles/3-stocks-linked-middle-east-002122231.html",
           "publisher": "Simply Wall St.",
@@ -1563,12 +1569,6 @@
           "url": "https://finance.yahoo.com/energy/articles/nesr-leverages-technology-portfolio-scale-161400111.html",
           "publisher": "Zacks",
           "published": "2026-09-22T16:14:00Z"
-        },
-        {
-          "title": "Here's Why Investors Should Take a Wait-and-See Approach to NOV Stock",
-          "url": "https://finance.yahoo.com/energy/articles/heres-why-investors-wait-see-145700206.html",
-          "publisher": "Zacks",
-          "published": "2026-09-21T14:57:00Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 90.09,
-      "change_pct": -4.76
+      "price": 90.12,
+      "change_pct": -4.73
     },
     {
       "label": "Brent",
-      "price": 95.64,
-      "change_pct": -3.64
+      "price": 95.66,
+      "change_pct": -3.62
     },
     {
       "label": "NatGas",
       "price": 3.17,
-      "change_pct": 6.98
+      "change_pct": 7.02
     }
   ]
 }
