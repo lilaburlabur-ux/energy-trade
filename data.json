@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-09-23T20:04:17+00:00",
-  "as_of_local": "2026-09-23 20:04:17 UTC",
+  "as_of_utc": "2026-09-23T20:09:09+00:00",
+  "as_of_local": "2026-09-23 20:09:09 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "LNG"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -125,6 +127,12 @@
       "market_cap": 202546428027.37195,
       "headlines": [
         {
+          "title": "Sector Update: Energy Stocks Rise Late Afternoon",
+          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-rise-afternoon-195603421.html",
+          "publisher": "MT Newswires",
+          "published": "2026-09-23T19:56:03Z"
+        },
+        {
           "title": "Sector Update: Energy Stocks Rise Wednesday Afternoon",
           "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-rise-wednesday-180336346.html",
           "publisher": "MT Newswires",
@@ -135,12 +143,6 @@
           "url": "https://finance.yahoo.com/energy/articles/totalenergies-amni-fid-nigeria-ima-142007359.html",
           "publisher": "Offshore Technology",
           "published": "2026-09-23T14:20:07Z"
-        },
-        {
-          "title": "TotalEnergies to Develop Offshore Gas Field to Boost Nigeria LNG Supply",
-          "url": "https://finance.yahoo.com/energy/articles/totalenergies-develop-offshore-gas-field-120000351.html",
-          "publisher": "Oilprice.com",
-          "published": "2026-09-23T12:00:00Z"
         }
       ]
     },
@@ -873,34 +875,6 @@
       ]
     },
     {
-      "symbol": "LNG",
-      "name": "Cheniere Energy",
-      "price": 273.75,
-      "previous_close": 274.98,
-      "change_pct": -0.45,
-      "market_cap": 56538725752.5,
-      "headlines": [
-        {
-          "title": "Equinor Expands LNG Reach in Asia With PTT Trading Supply Agreement",
-          "url": "https://finance.yahoo.com/energy/articles/equinor-expands-lng-reach-asia-163600168.html",
-          "publisher": "Zacks",
-          "published": "2026-09-21T16:36:00Z"
-        },
-        {
-          "title": "3 U.S. Energy Stocks Retail Investors Are Watching for Inflation Resilience",
-          "url": "https://finance.yahoo.com/energy/articles/3-u-energy-stocks-retail-111458824.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-09-21T11:14:58Z"
-        },
-        {
-          "title": "Why Did Cheniere Energy (LNG) Swing To A Quarterly Loss?",
-          "url": "https://finance.yahoo.com/energy/articles/why-did-cheniere-energy-lng-051330626.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-09-20T05:13:30Z"
-        }
-      ]
-    },
-    {
       "symbol": "D",
       "name": "Dominion Energy",
       "price": 61.13,
@@ -1161,6 +1135,12 @@
       "market_cap": 27493302111.0,
       "headlines": [
         {
+          "title": "Halliburton on track to meet street expectations in Q3, UBS says",
+          "url": "https://finance.yahoo.com/energy/articles/halliburton-track-meet-street-expectations-195400724.html",
+          "publisher": "Proactive",
+          "published": "2026-09-23T19:54:00Z"
+        },
+        {
           "title": "3 Value Stocks We Think Twice About",
           "url": "https://finance.yahoo.com/markets/stocks/articles/3-value-stocks-think-twice-110902803.html",
           "publisher": "StockStory",
@@ -1171,12 +1151,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/halliburton-hal-stock-moves-1-221505330.html",
           "publisher": "Zacks",
           "published": "2026-09-22T22:15:05Z"
-        },
-        {
-          "title": "CLB Declines 35% in the Past Six Months: How to Play the Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/clb-declines-35-past-six-144400730.html",
-          "publisher": "Zacks",
-          "published": "2026-09-22T14:44:00Z"
         }
       ]
     },
@@ -2110,23 +2084,23 @@
   "tape": [
     {
       "label": "SPX",
-      "price": 7706.35,
-      "change_pct": -0.75
+      "price": 7706.03,
+      "change_pct": -0.76
     },
     {
       "label": "WTI",
-      "price": 92.49,
-      "change_pct": -2.22
+      "price": 92.56,
+      "change_pct": -2.15
     },
     {
       "label": "Brent",
-      "price": 98.38,
-      "change_pct": -0.88
+      "price": 98.46,
+      "change_pct": -0.8
     },
     {
       "label": "NatGas",
       "price": 3.16,
-      "change_pct": 6.64
+      "change_pct": 6.61
     }
   ]
 }
