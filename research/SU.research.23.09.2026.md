@@ -18,7 +18,7 @@ Signed file: `SU.research.23.09.2026`
 | Technical momentum | High | 1Y +67.04%; price +15.78% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -5.41% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 15.78%, revenue growth 45.90%. |
-| Value attractiveness | Reasonable | Forward P/E 11.87, EV/Sales 1.55. |
+| Value attractiveness | Reasonable | Forward P/E 11.87, EV/Sales 1.57. |
 | Risk level | Moderate | Beta 0.56, ATR 2.6% of price, short float —. |
 
 **Bottom line:** High technical momentum, strong fundamentals, value: reasonable, risk: moderate.
@@ -68,7 +68,7 @@ Suncor Energy Inc. operates as an integrated energy company in Canada, the Unite
 | Revenue (ttm) | $56.57B | Revenue growth 45.90% y/y |
 | Profitability | Gross 60.40%, operating 29.94%, net 15.78% | ROA 8.58%, ROE 19.25% |
 | Balance sheet | Cash $5.37B, debt $14.68B | Current ratio 1.65, debt/equity 30.48 |
-| Valuation | P/E 12.71, forward P/E 11.87, P/S 1.42, P/B 2.31 | EV/Sales 1.55, EV/EBITDA 4.49 |
+| Valuation | P/E 12.71, forward P/E 11.87, P/S 1.42, P/B 2.31 | EV/Sales 1.57, EV/EBITDA 4.55 |
 | Growth expectations | Earnings growth 241.90%, EPS q/q 229.10% | Analyst mean target $69.43 (3 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -110,8 +110,8 @@ Suncor Energy Inc. operates as an integrated energy company in Canada, the Unite
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $67.98 | EV/Sales | 1.55 |
-| Market cap | $80.27B | EV/EBITDA | 4.49 |
+| Price | $67.98 | EV/Sales | 1.57 |
+| Market cap | $80.27B | EV/EBITDA | 4.55 |
 | Beta | 0.56 | Gross margin | 60.40% |
 | RSI(14) | 52.2 | Operating margin | 29.94% |
 | ATR(14) | 1.78 | Profit margin | 15.78% |

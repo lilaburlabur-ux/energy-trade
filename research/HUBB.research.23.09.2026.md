@@ -18,7 +18,7 @@ Signed file: `HUBB.research.23.09.2026`
 | Technical momentum | Low | Below SMA200 (-4.30%) with negative half-year (-7.73%). |
 | Fresh setup quality | Moderate / wait | -16.37% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 14.49%, revenue growth 15.30%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 20.24, EV/Sales 4.73. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 20.24, EV/Sales 4.77. |
 | Risk level | Moderate | Beta 0.89, ATR 2.7% of price, short float 6.63%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: fair-to-demanding, risk: moderate.
@@ -68,7 +68,7 @@ Hubbell Incorporated, together with its subsidiaries, manufactures and sells ele
 | Revenue (ttm) | $6.22B | Revenue growth 15.30% y/y |
 | Profitability | Gross 35.34%, operating 21.67%, net 14.49% | ROA 8.43%, ROE 24.44% |
 | Balance sheet | Cash $394.70M, debt $5.56B | Current ratio 1.61, debt/equity 141.64 |
-| Valuation | P/E 27.47, forward P/E 20.24, P/S 3.94, P/B 6.26 | EV/Sales 4.73, EV/EBITDA 19.41 |
+| Valuation | P/E 27.47, forward P/E 20.24, P/S 3.94, P/B 6.26 | EV/Sales 4.77, EV/EBITDA 19.58 |
 | Growth expectations | Earnings growth -0.90%, EPS q/q -1.60% | Analyst mean target $565.73 (11 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ Hubbell Incorporated, together with its subsidiaries, manufactures and sells ele
 | Parnassus Investments, LLC | 1,072,570 | 2.03% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 20.24, EV/Sales 4.73. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 20.24, EV/Sales 4.77. Multiple compression is the main downside if growth disappoints.
 - **Short interest risk:** short float 6.63% can fuel squeezes both ways around news.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -111,8 +111,8 @@ Hubbell Incorporated, together with its subsidiaries, manufactures and sells ele
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $463.70 | EV/Sales | 4.73 |
-| Market cap | $24.50B | EV/EBITDA | 19.41 |
+| Price | $463.70 | EV/Sales | 4.77 |
+| Market cap | $24.50B | EV/EBITDA | 19.58 |
 | Beta | 0.89 | Gross margin | 35.34% |
 | RSI(14) | 51.7 | Operating margin | 21.67% |
 | ATR(14) | 12.54 | Profit margin | 14.49% |

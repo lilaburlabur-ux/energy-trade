@@ -18,7 +18,7 @@ Signed file: `XOM.research.23.09.2026`
 | Technical momentum | Moderate | 1Y +47.05%; price +10.59% vs SMA200. |
 | Fresh setup quality | Watch | -4.78% from 52w high and near SMA20 — check for a tight base. |
 | Fundamental quality | Mixed | Profit margin 9.07%, revenue growth 44.10%. |
-| Value attractiveness | Reasonable | Forward P/E 14.88, EV/Sales 1.91. |
+| Value attractiveness | Reasonable | Forward P/E 14.88, EV/Sales 1.94. |
 | Risk level | Moderate | Beta 0.17, ATR 2.4% of price, short float 1.08%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -36,10 +36,10 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 
 | Headline | Source | Date |
 |---|---|---|
+| 3 Companies With a Strong History of Dividend Growth | Zacks | 2026-09-23 |
 | Lincoln Property to repurpose north Houston eyesore Greenspoint Mall into industrial park | The Real Deal | 2026-09-23 |
 | If Hormuz Stays Shut, How High Can Exxon Go? | 24/7 Wall St. | 2026-09-23 |
 | How ExxonMobil's Balance Sheet Helps Navigate Oil Volatility | Zacks | 2026-09-23 |
-| Can ExxonMobil Keep Rewarding Shareholders While Investing for Growth? | Zacks | 2026-09-23 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 | Revenue (ttm) | $361.06B | Revenue growth 44.10% y/y |
 | Profitability | Gross 29.77%, operating 15.86%, net 9.07% | ROA 5.52%, ROE 12.58% |
 | Balance sheet | Cash $10.59B, debt $42.37B | Current ratio 1.14, debt/equity 15.92 |
-| Valuation | P/E 20.72, forward P/E 14.88, P/S 1.84, P/B 2.56 | EV/Sales 1.91, EV/EBITDA 10.17 |
+| Valuation | P/E 20.72, forward P/E 14.88, P/S 1.84, P/B 2.56 | EV/Sales 1.94, EV/EBITDA 10.32 |
 | Growth expectations | Earnings growth 112.80%, EPS q/q 105.10% | Analyst mean target $171.91 (22 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -110,8 +110,8 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $161.23 | EV/Sales | 1.91 |
-| Market cap | $662.96B | EV/EBITDA | 10.17 |
+| Price | $161.23 | EV/Sales | 1.94 |
+| Market cap | $662.96B | EV/EBITDA | 10.32 |
 | Beta | 0.17 | Gross margin | 29.77% |
 | RSI(14) | 49.9 | Operating margin | 15.86% |
 | ATR(14) | 3.83 | Profit margin | 9.07% |
