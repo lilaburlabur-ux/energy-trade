@@ -1,16 +1,16 @@
 {
-  "as_of_utc": "2026-09-23T20:19:13+00:00",
-  "as_of_local": "2026-09-23 20:19:13 UTC",
+  "as_of_utc": "2026-09-23T20:21:11+00:00",
+  "as_of_local": "2026-09-23 20:21:11 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
       "name": "ExxonMobil",
-      "price": 161.28,
+      "price": 161.23,
       "previous_close": 158.3,
-      "change_pct": 1.88,
-      "market_cap": 663169155889.3762,
+      "change_pct": 1.85,
+      "market_cap": 662963547742.8168,
       "headlines": [
         {
           "title": "Lincoln Property to repurpose north Houston eyesore Greenspoint Mall into industrial park",
@@ -35,10 +35,10 @@
     {
       "symbol": "CVX",
       "name": "Chevron",
-      "price": 205.52,
+      "price": 205.51,
       "previous_close": 203.67,
-      "change_pct": 0.91,
-      "market_cap": 403148713253.3534,
+      "change_pct": 0.9,
+      "market_cap": 403129078064.3314,
       "headlines": [
         {
           "title": "How Chevron\u2019s CFO Leads Through Volatility: \u2018You Plan for It\u2019",
@@ -903,9 +903,9 @@
     {
       "symbol": "D",
       "name": "Dominion Energy",
-      "price": 61.18,
+      "price": 61.17,
       "previous_close": 62.82,
-      "change_pct": -2.61,
+      "change_pct": -2.63,
       "market_cap": 53800600689.86989,
       "headlines": [
         {
@@ -1099,9 +1099,9 @@
     {
       "symbol": "EQT",
       "name": "EQT Corp",
-      "price": 51.08,
+      "price": 51.06,
       "previous_close": 50.13,
-      "change_pct": 1.89,
+      "change_pct": 1.86,
       "market_cap": 31938847819.015503,
       "headlines": [
         {
@@ -1921,8 +1921,8 @@
           "name": "ExxonMobil Holdings Corp",
           "short": "ExxonMobil",
           "weight_pct": 19.86,
-          "change_pct": 1.88,
-          "price": 161.28,
+          "change_pct": 1.85,
+          "price": 161.23,
           "currency": "USD"
         },
         {
@@ -1930,8 +1930,8 @@
           "name": "Chevron Corp",
           "short": "Chevron",
           "weight_pct": 14.89,
-          "change_pct": 0.91,
-          "price": 205.52,
+          "change_pct": 0.9,
+          "price": 205.51,
           "currency": "USD"
         },
         {
@@ -2020,8 +2020,8 @@
         "name": "ExxonMobil Holdings Corp",
         "short": "ExxonMobil",
         "weight_pct": 19.86,
-        "change_pct": 1.88,
-        "price": 161.28,
+        "change_pct": 1.85,
+        "price": 161.23,
         "currency": "USD"
       },
       {
@@ -2029,8 +2029,8 @@
         "name": "Chevron Corp",
         "short": "Chevron",
         "weight_pct": 14.89,
-        "change_pct": 0.91,
-        "price": 205.52,
+        "change_pct": 0.9,
+        "price": 205.51,
         "currency": "USD"
       },
       {
@@ -2120,8 +2120,8 @@
     },
     {
       "label": "Brent",
-      "price": 98.5,
-      "change_pct": -0.76
+      "price": 98.54,
+      "change_pct": -0.72
     },
     {
       "label": "NatGas",
