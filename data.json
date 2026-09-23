@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-09-23T20:43:38+00:00",
-  "as_of_local": "2026-09-23 20:43:38 UTC",
+  "as_of_utc": "2026-09-23T20:44:57+00:00",
+  "as_of_local": "2026-09-23 20:44:57 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "ETN"
+    "FANG"
   ],
   "stocks": [
     {
@@ -931,34 +931,6 @@
       ]
     },
     {
-      "symbol": "FANG",
-      "name": "Diamondback Energy",
-      "price": 185.65,
-      "previous_close": 189.27,
-      "change_pct": -1.91,
-      "market_cap": 51985672675.694824,
-      "headlines": [
-        {
-          "title": "Is EOG Resources Stock A Buy For Its Shrinking Share Count?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/eog-resources-stock-buy-shrinking-174822273.html",
-          "publisher": "Trefis",
-          "published": "2026-09-23T17:48:22Z"
-        },
-        {
-          "title": "Diamondback Energy (FANG) Stock Drops Despite Market Gains: Important Facts to Note",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/diamondback-energy-fang-stock-drops-221502011.html",
-          "publisher": "Zacks",
-          "published": "2026-09-21T22:15:02Z"
-        },
-        {
-          "title": "Diamondback Energy Is Down 11% This Year While the Permian Basin Keeps Pumping. Is FANG Stock a Buy?",
-          "url": "https://finance.yahoo.com/energy/articles/diamondback-energy-down-11-while-165946740.html",
-          "publisher": "TIKR",
-          "published": "2026-09-20T16:59:46Z"
-        }
-      ]
-    },
-    {
       "symbol": "ETR",
       "name": "Entergy",
       "price": 99.23,
@@ -1659,6 +1631,34 @@
       ]
     },
     {
+      "symbol": "SMR",
+      "name": "NuScale Power",
+      "price": 8.68,
+      "previous_close": 8.89,
+      "change_pct": -2.36,
+      "market_cap": 3562181176.200943,
+      "headlines": [
+        {
+          "title": "Is X-Energy Building a New Model for Industrial Nuclear Power?",
+          "url": "https://finance.yahoo.com/energy/articles/x-energy-building-model-industrial-152100893.html",
+          "publisher": "Zacks",
+          "published": "2026-09-23T15:21:00Z"
+        },
+        {
+          "title": "Oklo vs. NuScale vs. BWX Technologies: Ranking the 3 Popular Nuclear Stocks From Worst to First",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/oklo-vs-nuscale-vs-bwx-110500181.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-23T11:05:00Z"
+        },
+        {
+          "title": "NuScale's E2 Centers Turn SMR Learning Into Hands-On Training",
+          "url": "https://finance.yahoo.com/energy/articles/nuscales-e2-centers-turn-smr-132400727.html",
+          "publisher": "Zacks",
+          "published": "2026-09-22T13:24:00Z"
+        }
+      ]
+    },
+    {
       "symbol": "LEU",
       "name": "Centrus Energy",
       "price": 151.31,
@@ -2066,13 +2066,13 @@
     },
     {
       "label": "Brent",
-      "price": 98.7,
-      "change_pct": -0.55
+      "price": 98.73,
+      "change_pct": -0.52
     },
     {
       "label": "NatGas",
       "price": 3.17,
-      "change_pct": 7.02
+      "change_pct": 6.95
     }
   ]
 }
