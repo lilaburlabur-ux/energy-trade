@@ -5,7 +5,7 @@ Signed file: `ETN.research.23.09.2026`
 | Field | Value |
 |---|---|
 | Current price | $438.76 (2026-09-23, ~15-min delayed) |
-| Market cap | $170.41B |
+| Market cap | $170.37B |
 | Sector / Industry | Industrials / Specialty Industrial Machinery |
 | Main theme | Specialty Industrial Machinery — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: fair-to-demanding, risk: elevated. |
@@ -68,7 +68,7 @@ Eaton Corporation plc operates as a power management company in the United State
 | Revenue (ttm) | $30.03B | Revenue growth 21.40% y/y |
 | Profitability | Gross 36.02%, operating 16.56%, net 12.75% | ROA 7.05%, ROE 19.68% |
 | Balance sheet | Cash $695.00M, debt $21.33B | Current ratio 1.24, debt/equity 105.06 |
-| Valuation | P/E 44.68, forward P/E 27.20, P/S 5.68, P/B 8.41 | EV/Sales 6.41, EV/EBITDA 29.00 |
+| Valuation | P/E 44.68, forward P/E 27.20, P/S 5.67, P/B 8.41 | EV/Sales 6.41, EV/EBITDA 29.00 |
 | Growth expectations | Earnings growth -15.90%, EPS q/q -16.40% | Analyst mean target $479.57 (25 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -113,7 +113,7 @@ Eaton Corporation plc operates as a power management company in the United State
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $438.76 | EV/Sales | 6.41 |
-| Market cap | $170.41B | EV/EBITDA | 29.00 |
+| Market cap | $170.37B | EV/EBITDA | 29.00 |
 | Beta | 1.17 | Gross margin | 36.02% |
 | RSI(14) | 59.4 | Operating margin | 16.56% |
 | ATR(14) | 14.90 | Profit margin | 12.75% |
@@ -125,7 +125,7 @@ Eaton Corporation plc operates as a power management company in the United State
 | P/E (ttm) | 44.68 | Insider ownership | 0.07% |
 | Forward P/E | 27.20 | Short float | 1.86% |
 | PEG (trailing) | 2.69 | Avg volume | 2,206,260 |
-| P/S | 5.68 | Employees | 97,303 |
+| P/S | 5.67 | Employees | 97,303 |
 | P/B | 8.41 | Analyst rec (1=buy..5=sell) | 1.5 |
 
 ## 8. Analyst Actions

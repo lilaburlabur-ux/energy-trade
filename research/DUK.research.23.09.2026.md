@@ -68,7 +68,7 @@ Duke Energy Corporation, through its subsidiaries, operates as an energy company
 | Revenue (ttm) | $32.80B | Revenue growth 1.10% y/y |
 | Profitability | Gross 51.97%, operating 27.50%, net 16.00% | ROA 2.84%, ROE 9.86% |
 | Balance sheet | Cash $673.00M, debt $92.21B | Current ratio 0.66, debt/equity 162.16 |
-| Valuation | P/E 17.19, forward P/E 15.92, P/S 2.71, P/B 1.66 | EV/Sales 5.65, EV/EBITDA 11.15 |
+| Valuation | P/E 17.25, forward P/E 15.92, P/S 2.71, P/B 1.66 | EV/Sales 5.65, EV/EBITDA 11.15 |
 | Growth expectations | Earnings growth 10.60%, EPS q/q 11.00% | Analyst mean target $136.94 (18 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -119,7 +119,7 @@ Duke Energy Corporation, through its subsidiaries, operates as an energy company
 | SMA200 dist | -6.66% | Revenue (ttm) | $32.80B |
 | 52W high | $131.16 | Revenue growth y/y | 1.10% |
 | 52W low | $111.09 | Inst. ownership | 71.15% |
-| P/E (ttm) | 17.19 | Insider ownership | 0.13% |
+| P/E (ttm) | 17.25 | Insider ownership | 0.13% |
 | Forward P/E | 15.92 | Short float | 2.44% |
 | PEG (trailing) | 2.17 | Avg volume | 4,069,068 |
 | P/S | 2.71 | Employees | 26,441 |

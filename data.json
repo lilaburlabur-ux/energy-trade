@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-09-23T20:24:16+00:00",
-  "as_of_local": "2026-09-23 20:24:16 UTC",
+  "as_of_utc": "2026-09-23T20:26:49+00:00",
+  "as_of_local": "2026-09-23 20:26:49 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "FSLR"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -150,7 +152,7 @@
       "price": 438.76,
       "previous_close": 435.43,
       "change_pct": 0.76,
-      "market_cap": 170414387792.96875,
+      "market_cap": 170370511791.9922,
       "headlines": [
         {
           "title": "VWDRY or ETN: Which Is the Better Value Stock Right Now?",
@@ -178,7 +180,7 @@
       "price": 77.02,
       "previous_close": 79.63,
       "change_pct": -3.28,
-      "market_cap": 160662034654.68967,
+      "market_cap": 160633317671.92133,
       "headlines": [
         {
           "title": "NextEra Energy, Inc. (NEE) is Attracting Investor Attention: Here is What You Should Know",
@@ -262,13 +264,13 @@
       "price": 388.38,
       "previous_close": 402.38,
       "change_pct": -3.48,
-      "market_cap": 109066722825.15466,
+      "market_cap": 113382351726.77185,
       "headlines": [
         {
           "title": "Why Wall Street Is Aggressively Upgrading These 5 Stocks Right Now",
           "url": "https://www.investors.com/news/dell-stock-cien-mpc-vlo-psx-biggest-eps-estimate-upgrades/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
-          "published": "2026-09-23T18:15:23Z"
+          "published": "2026-09-23T20:25:00Z"
         },
         {
           "title": "White House calls report of 90-day diesel exports ban \"fake news\"",
@@ -293,16 +295,16 @@
       "market_cap": 108214655887.81815,
       "headlines": [
         {
+          "title": "Why Wall Street Is Aggressively Upgrading These 5 Stocks Right Now",
+          "url": "https://www.investors.com/news/dell-stock-cien-mpc-vlo-psx-biggest-eps-estimate-upgrades/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-09-23T20:25:00Z"
+        },
+        {
           "title": "The Market Screams For More. Why Refiners Don't Plan To Provide It.",
           "url": "https://www.investors.com/news/gas-prices-and-diesel-prices-soar-aaa-refiners-in-us-arent-building-new-refineries/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
           "published": "2026-09-23T20:05:56Z"
-        },
-        {
-          "title": "Why Wall Street Is Aggressively Upgrading These 5 Stocks Right Now",
-          "url": "https://www.investors.com/news/dell-stock-cien-mpc-vlo-psx-biggest-eps-estimate-upgrades/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-09-23T18:15:23Z"
         },
         {
           "title": "White House calls report of 90-day diesel exports ban \"fake news\"",
@@ -321,16 +323,16 @@
       "market_cap": 102340888919.45471,
       "headlines": [
         {
+          "title": "Why Wall Street Is Aggressively Upgrading These 5 Stocks Right Now",
+          "url": "https://www.investors.com/news/dell-stock-cien-mpc-vlo-psx-biggest-eps-estimate-upgrades/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-09-23T20:25:00Z"
+        },
+        {
           "title": "The Market Screams For More. Why Refiners Don't Plan To Provide It.",
           "url": "https://www.investors.com/news/gas-prices-and-diesel-prices-soar-aaa-refiners-in-us-arent-building-new-refineries/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
           "published": "2026-09-23T20:05:56Z"
-        },
-        {
-          "title": "Why Wall Street Is Aggressively Upgrading These 5 Stocks Right Now",
-          "url": "https://www.investors.com/news/dell-stock-cien-mpc-vlo-psx-biggest-eps-estimate-upgrades/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-09-23T18:15:23Z"
         },
         {
           "title": "Stocks Slip on Higher Bond Yields and Weakness in Chipmakers",
@@ -654,7 +656,7 @@
       "price": 141.84,
       "previous_close": 141.38,
       "change_pct": 0.33,
-      "market_cap": 74399216402.95679,
+      "market_cap": 75548028744.65607,
       "headlines": [
         {
           "title": "Is EOG Resources Stock A Buy For Its Shrinking Share Count?",
@@ -1074,7 +1076,7 @@
       "price": 67.31,
       "previous_close": 69.31,
       "change_pct": -2.89,
-      "market_cap": 33548651002.454224,
+      "market_cap": 33542012352.015015,
       "headlines": [
         {
           "title": "Public Service Enterprise Group CEO Sells 2,083 Shares",
@@ -1233,34 +1235,6 @@
           "url": "https://finance.yahoo.com/energy/articles/talen-raises-2026-guidance-cornerstone-131500998.html",
           "publisher": "Zacks",
           "published": "2026-09-21T13:15:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "FSLR",
-      "name": "First Solar",
-      "price": 191.97,
-      "previous_close": 199.84,
-      "change_pct": -3.94,
-      "market_cap": 20630975333.548706,
-      "headlines": [
-        {
-          "title": "First Solar (FSLR) Stock Still Looks Below Fair Value Following Its 115% Run",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/first-solar-fslr-stock-still-011048484.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-09-19T01:10:48Z"
-        },
-        {
-          "title": "Is First Solar Stock Underperforming the Nasdaq?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/first-solar-stock-underperforming-nasdaq-182115801.html",
-          "publisher": "Barchart",
-          "published": "2026-09-18T18:21:15Z"
-        },
-        {
-          "title": "Enphase Energy Drops 5% as Solar Selling Resumes; First Solar and Sunrun Fall 4%",
-          "url": "https://finance.yahoo.com/energy/articles/enphase-energy-drops-5-solar-170151130.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-09-18T17:01:51Z"
         }
       ]
     },
@@ -1494,7 +1468,7 @@
       "price": 29.08,
       "previous_close": 29.72,
       "change_pct": -2.15,
-      "market_cap": 8727246061.1833,
+      "market_cap": 8819265039.06188,
       "headlines": [
         {
           "title": "Westinghouse Electric Is Taking Nuclear Back to the Stock Market. At 63, Where He Buys the IPO Decides How Much of His Social Security Turns Taxable.",
@@ -1606,7 +1580,7 @@
       "price": 84.66,
       "previous_close": 82.2,
       "change_pct": 2.99,
-      "market_cap": 6054214986.5251465,
+      "market_cap": 6068889866.899933,
       "headlines": [
         {
           "title": "1 of Wall Street\u2019s Favorite Stocks to Own for Decades and 2 We Ignore",
@@ -1662,7 +1636,7 @@
       "price": 33.07,
       "previous_close": 34.42,
       "change_pct": -3.92,
-      "market_cap": 4370023469.032654,
+      "market_cap": 4358567095.178375,
       "headlines": [
         {
           "title": "Enphase Energy, Inc. (ENPH) is Attracting Investor Attention: Here is What You Should Know",
@@ -1746,7 +1720,7 @@
       "price": 11.6,
       "previous_close": 12.14,
       "change_pct": -4.45,
-      "market_cap": 3071373536.203102,
+      "market_cap": 2899594095.35408,
       "headlines": [
         {
           "title": "Cameco And 2 Canadian Nuclear Stocks To Watch",
@@ -2115,8 +2089,8 @@
     },
     {
       "label": "WTI",
-      "price": 92.72,
-      "change_pct": -1.98
+      "price": 92.7,
+      "change_pct": -2.0
     },
     {
       "label": "Brent",
@@ -2126,7 +2100,7 @@
     {
       "label": "NatGas",
       "price": 3.17,
-      "change_pct": 6.91
+      "change_pct": 6.88
     }
   ]
 }
