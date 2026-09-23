@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-23T20:54:45+00:00",
-  "as_of_local": "2026-09-23 20:54:45 UTC",
+  "as_of_utc": "2026-09-23T20:59:46+00:00",
+  "as_of_local": "2026-09-23 20:59:46 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -1497,6 +1497,12 @@
       "market_cap": 8727246061.1833,
       "headlines": [
         {
+          "title": "3 Reasons to Buy Brookfield Renewable Before September Ends",
+          "url": "https://finance.yahoo.com/energy/articles/3-reasons-buy-brookfield-renewable-205000849.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-23T20:50:00Z"
+        },
+        {
           "title": "Westinghouse Electric Is Taking Nuclear Back to the Stock Market. At 63, Where He Buys the IPO Decides How Much of His Social Security Turns Taxable.",
           "url": "https://finance.yahoo.com/markets/stocks/articles/westinghouse-electric-taking-nuclear-back-140458745.html",
           "publisher": "24/7 Wall St.",
@@ -1507,12 +1513,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/westinghouse-could-ipo-50-billion-130501237.html",
           "publisher": "Motley Fool",
           "published": "2026-09-21T13:05:01Z"
-        },
-        {
-          "title": "Ranking the Safest Dividend Stocks in the Energy Sector Right Now",
-          "url": "https://finance.yahoo.com/energy/articles/ranking-safest-dividend-stocks-energy-203500770.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-18T20:35:00Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 93.06,
-      "change_pct": -1.62
+      "price": 92.79,
+      "change_pct": -1.9
     },
     {
       "label": "Brent",
-      "price": 98.68,
-      "change_pct": -0.57
+      "price": 98.45,
+      "change_pct": -0.81
     },
     {
       "label": "NatGas",
       "price": 3.17,
-      "change_pct": 6.98
+      "change_pct": 6.95
     }
   ]
 }
