@@ -36,10 +36,10 @@ Valero Energy Corporation manufactures, markets, and sells petroleum-based and l
 
 | Headline | Source | Date |
 |---|---|---|
-| The Market Screams For More. Why Refiners Don't Plan To Provide It. | Investor's Business Daily | 2026-09-23 |
+| The Great U.S. Existing Home Mortgage Lock-in | Zacks | 2026-09-23 |
 | Why Wall Street Is Aggressively Upgrading These 5 Stocks Right Now | Investor's Business Daily | 2026-09-23 |
+| The Market Screams For More. Why Refiners Don't Plan To Provide It. | Investor's Business Daily | 2026-09-23 |
 | White House calls report of 90-day diesel exports ban "fake news" | Investing.com | 2026-09-23 |
-| Gulf Coast Advantage and Strong Balance Sheet Aid Valero Energy | Zacks | 2026-09-23 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

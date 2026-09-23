@@ -36,10 +36,10 @@ Brookfield Renewable Partners L.P. owns a portfolio of renewable power generatin
 
 | Headline | Source | Date |
 |---|---|---|
+| 3 Reasons to Buy Brookfield Renewable Before September Ends | Motley Fool | 2026-09-23 |
 | Westinghouse Electric Is Taking Nuclear Back to the Stock Market. At 63, Where He Buys the IPO Decides How Much of His Social Security Turns Taxable. | 24/7 Wall St. | 2026-09-22 |
 | Westinghouse Could IPO at a $50 Billion Valuation. Cameco's Stake Alone Would Be Worth $24.5 Billion. | Motley Fool | 2026-09-21 |
 | Ranking the Safest Dividend Stocks in the Energy Sector Right Now | Motley Fool | 2026-09-18 |
-| Sector Update: Energy Stocks Fall Late Afternoon | MT Newswires | 2026-09-18 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

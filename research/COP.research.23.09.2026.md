@@ -38,8 +38,8 @@ ConocoPhillips explores for, produces, transports, and markets crude oil, bitume
 |---|---|---|
 | Is EOG Resources Stock A Buy For Its Shrinking Share Count? | Trefis | 2026-09-23 |
 | Can ExxonMobil Keep Rewarding Shareholders While Investing for Growth? | Zacks | 2026-09-23 |
-| Stocks Slip on Higher Bond Yields and Weakness in Chipmakers | Barchart | 2026-09-23 |
 | ConocoPhillips (COP) Stock Moves -1.77%: What You Should Know | Zacks | 2026-09-22 |
+| Update: US Equity Futures Slightly Higher Pre-Bell as Oil Prices Drop Amid Optimism for Diplomacy in US-Iran Conflict | MT Newswires | 2026-09-22 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -36,9 +36,9 @@ Phillips 66 operates as an integrated downstream energy provider in the United S
 
 | Headline | Source | Date |
 |---|---|---|
-| The Market Screams For More. Why Refiners Don't Plan To Provide It. | Investor's Business Daily | 2026-09-23 |
+| The Great U.S. Existing Home Mortgage Lock-in | Zacks | 2026-09-23 |
 | Why Wall Street Is Aggressively Upgrading These 5 Stocks Right Now | Investor's Business Daily | 2026-09-23 |
-| Stocks Slip on Higher Bond Yields and Weakness in Chipmakers | Barchart | 2026-09-23 |
+| The Market Screams For More. Why Refiners Don't Plan To Provide It. | Investor's Business Daily | 2026-09-23 |
 | Will Par Pacific's Retail Expansion Boost Earnings Stability Ahead? | Zacks | 2026-09-22 |
 
 ## 3. Technical Analysis

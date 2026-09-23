@@ -38,8 +38,8 @@ Marathon Petroleum Corporation, together with its subsidiaries, operates as an i
 |---|---|---|
 | Why Wall Street Is Aggressively Upgrading These 5 Stocks Right Now | Investor's Business Daily | 2026-09-23 |
 | White House calls report of 90-day diesel exports ban "fake news" | Investing.com | 2026-09-23 |
-| Stocks Slip on Higher Bond Yields and Weakness in Chipmakers | Barchart | 2026-09-23 |
 | Why Marathon Petroleum Stock Slipped Today | Motley Fool | 2026-09-23 |
+| Trump Supports Diesel Export Ban, Knocking Refining Stocks | Barrons.com | 2026-09-22 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -36,10 +36,10 @@ SLB N.V. engages in the provision of technology for the energy industry worldwid
 
 | Headline | Source | Date |
 |---|---|---|
-| Stocks Slip on Higher Bond Yields and Weakness in Chipmakers | Barchart | 2026-09-23 |
 | Do New SLB (SLB) Digital Wins Clarify Its Long‑Term Competitive Edge in Energy Services? | Simply Wall St. | 2026-09-23 |
 | SLB (SLB) Could Be 16% Undervalued After Brazil Seismic Survey Launch | Simply Wall St. | 2026-09-22 |
 | SLB (SLB) Started A Major 3D Seismic Survey Off Brazil | Simply Wall St. | 2026-09-22 |
+| Halliburton and SLB Are 2 Energy Stocks Riding the Oilfield Recovery. 1 Is Clearly the Better Buy. | Barchart | 2026-09-22 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

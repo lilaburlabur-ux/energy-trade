@@ -68,7 +68,7 @@
 | TLN | $14.39B | -29% | 9.8 | -5% | Low | Reasonable | Elevated |
 | DUK | $89.02B | -2% | 15.9 | 16% | Low | Reasonable | Moderate |
 | SO | $96.02B | -6% | 17.0 | 15% | Low | Reasonable | Moderate |
-| D | $53.80B | +7% | 16.0 | — | Moderate | Reasonable | Moderate |
+| D | $53.80B | +7% | 16.0 | 14% | Moderate | Reasonable | Moderate |
 | PEG | $33.54B | -15% | 14.4 | 16% | Low | Reasonable | Moderate |
 | ETR | $47.41B | +15% | 19.4 | 13% | Low | Reasonable | Moderate |
 
