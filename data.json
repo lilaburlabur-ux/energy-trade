@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-23T23:11:52+00:00",
-  "as_of_local": "2026-09-23 23:11:52 UTC",
+  "as_of_utc": "2026-09-23T23:15:34+00:00",
+  "as_of_local": "2026-09-23 23:15:34 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -711,7 +711,26 @@
       "previous_close": 31.72,
       "change_pct": -1.1,
       "market_cap": 69854783400.73668,
-      "headlines": []
+      "headlines": [
+        {
+          "title": "Pipelines Are Pumping AI\u2019s Power. 2 Winning Stocks to Buy.",
+          "url": "https://www.barrons.com/articles/pipelines-ai-williams-kinder-morgan-gas-4295e103?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-09-23T20:07:00Z"
+        },
+        {
+          "title": "Kinder Morgan Poised to Benefit From Higher Commodity Prices, RBC Says",
+          "url": "https://finance.yahoo.com/markets/commodities/articles/kinder-morgan-poised-benefit-higher-204157718.html",
+          "publisher": "MT Newswires",
+          "published": "2026-09-22T20:41:57Z"
+        },
+        {
+          "title": "XLE Is 91% Oil and Gas. Investors Buying \u201cEnergy\u201d May Own Less Than They Think",
+          "url": "https://finance.yahoo.com/energy/articles/xle-91-oil-gas-investors-195501253.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-09-21T19:55:01Z"
+        }
+      ]
     },
     {
       "symbol": "TRGP",
@@ -2096,13 +2115,13 @@
     },
     {
       "label": "WTI",
-      "price": 92.21,
-      "change_pct": -2.52
+      "price": 92.22,
+      "change_pct": -2.51
     },
     {
       "label": "Brent",
-      "price": 97.87,
-      "change_pct": -1.39
+      "price": 97.86,
+      "change_pct": -1.4
     },
     {
       "label": "NatGas",
