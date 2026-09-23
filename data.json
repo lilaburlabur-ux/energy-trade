@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-09-23T20:26:49+00:00",
-  "as_of_local": "2026-09-23 20:26:49 UTC",
+  "as_of_utc": "2026-09-23T20:29:38+00:00",
+  "as_of_local": "2026-09-23 20:29:38 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "FSLR"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1239,6 +1237,34 @@
       ]
     },
     {
+      "symbol": "FSLR",
+      "name": "First Solar",
+      "price": 191.97,
+      "previous_close": 199.84,
+      "change_pct": -3.94,
+      "market_cap": 20630975333.548706,
+      "headlines": [
+        {
+          "title": "First Solar (FSLR) Stock Still Looks Below Fair Value Following Its 115% Run",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/first-solar-fslr-stock-still-011048484.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-09-19T01:10:48Z"
+        },
+        {
+          "title": "Is First Solar Stock Underperforming the Nasdaq?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/first-solar-stock-underperforming-nasdaq-182115801.html",
+          "publisher": "Barchart",
+          "published": "2026-09-18T18:21:15Z"
+        },
+        {
+          "title": "Enphase Energy Drops 5% as Solar Selling Resumes; First Solar and Sunrun Fall 4%",
+          "url": "https://finance.yahoo.com/energy/articles/enphase-energy-drops-5-solar-170151130.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-09-18T17:01:51Z"
+        }
+      ]
+    },
+    {
       "symbol": "DINO",
       "name": "HF Sinclair",
       "price": 106.14,
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 92.7,
-      "change_pct": -2.0
+      "price": 92.82,
+      "change_pct": -1.87
     },
     {
       "label": "Brent",
-      "price": 98.54,
-      "change_pct": -0.72
+      "price": 98.63,
+      "change_pct": -0.62
     },
     {
       "label": "NatGas",
       "price": 3.17,
-      "change_pct": 6.88
+      "change_pct": 6.85
     }
   ]
 }
