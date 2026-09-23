@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-23T07:40:08+00:00",
-  "as_of_local": "2026-09-23 07:40:08 UTC",
+  "as_of_utc": "2026-09-23T07:55:17+00:00",
+  "as_of_local": "2026-09-23 07:55:17 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -265,6 +265,12 @@
       "market_cap": 110997252612.8,
       "headlines": [
         {
+          "title": "Anthropic Is Booming. How to Buy in Before the IPO.",
+          "url": "https://www.barrons.com/articles/anthropic-ai-stocks-amazon-alphabet-f40be6bc?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-09-23T07:00:00Z"
+        },
+        {
           "title": "4 Integrated Energy Stocks to Benefit From Industry Tailwinds",
           "url": "https://finance.yahoo.com/energy/articles/4-integrated-energy-stocks-benefit-160600799.html",
           "publisher": "Zacks",
@@ -275,12 +281,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/bp-bp-stock-slides-market-220002081.html",
           "publisher": "Zacks",
           "published": "2026-09-21T22:00:02Z"
-        },
-        {
-          "title": "Energy & Utilities Roundup: Market Talk",
-          "url": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-31b0c987?siteid=yhoof2&yptr=yahoo",
-          "publisher": "The Wall Street Journal",
-          "published": "2026-09-21T20:55:00Z"
         }
       ]
     },
@@ -347,7 +347,26 @@
       "previous_close": 44.09,
       "change_pct": -3.63,
       "market_cap": 99112549750.34001,
-      "headlines": []
+      "headlines": [
+        {
+          "title": "Equinor Expands LNG Reach in Asia With PTT Trading Supply Agreement",
+          "url": "https://finance.yahoo.com/energy/articles/equinor-expands-lng-reach-asia-163600168.html",
+          "publisher": "Zacks",
+          "published": "2026-09-21T16:36:00Z"
+        },
+        {
+          "title": "European Equities Traded in the US as American depositary Receipts Rise in Monday Trading",
+          "url": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-american-152908906.html",
+          "publisher": "MT Newswires",
+          "published": "2026-09-21T15:29:08Z"
+        },
+        {
+          "title": "Equinor (OB:EQNR) Posted A Positive PEA For Its Texas Lithium Project",
+          "url": "https://finance.yahoo.com/energy/articles/equinor-ob-eqnr-posted-positive-001853429.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-09-20T00:18:53Z"
+        }
+      ]
     },
     {
       "symbol": "SO",
@@ -2096,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 89.77,
-      "change_pct": -5.1
+      "price": 89.67,
+      "change_pct": -5.2
     },
     {
       "label": "Brent",
-      "price": 99.18,
-      "change_pct": -0.07
+      "price": 95.21,
+      "change_pct": -4.07
     },
     {
       "label": "NatGas",
-      "price": 3.17,
-      "change_pct": 6.88
+      "price": 3.16,
+      "change_pct": 6.71
     }
   ]
 }
