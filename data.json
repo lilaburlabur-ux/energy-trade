@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-09-23T20:09:09+00:00",
-  "as_of_local": "2026-09-23 20:09:09 UTC",
+  "as_of_utc": "2026-09-23T20:14:10+00:00",
+  "as_of_local": "2026-09-23 20:14:10 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "LNG"
+    "OKLO"
   ],
   "stocks": [
     {
@@ -875,6 +875,34 @@
       ]
     },
     {
+      "symbol": "LNG",
+      "name": "Cheniere Energy",
+      "price": 273.75,
+      "previous_close": 274.98,
+      "change_pct": -0.45,
+      "market_cap": 56538725752.5,
+      "headlines": [
+        {
+          "title": "Equinor Expands LNG Reach in Asia With PTT Trading Supply Agreement",
+          "url": "https://finance.yahoo.com/energy/articles/equinor-expands-lng-reach-asia-163600168.html",
+          "publisher": "Zacks",
+          "published": "2026-09-21T16:36:00Z"
+        },
+        {
+          "title": "3 U.S. Energy Stocks Retail Investors Are Watching for Inflation Resilience",
+          "url": "https://finance.yahoo.com/energy/articles/3-u-energy-stocks-retail-111458824.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-09-21T11:14:58Z"
+        },
+        {
+          "title": "Why Did Cheniere Energy (LNG) Swing To A Quarterly Loss?",
+          "url": "https://finance.yahoo.com/energy/articles/why-did-cheniere-energy-lng-051330626.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-09-20T05:13:30Z"
+        }
+      ]
+    },
+    {
       "symbol": "D",
       "name": "Dominion Energy",
       "price": 61.13,
@@ -1519,34 +1547,6 @@
       ]
     },
     {
-      "symbol": "OKLO",
-      "name": "Oklo",
-      "price": 38.81,
-      "previous_close": 40.45,
-      "change_pct": -4.07,
-      "market_cap": 7218414965.018082,
-      "headlines": [
-        {
-          "title": "Is X-Energy Building a New Model for Industrial Nuclear Power?",
-          "url": "https://finance.yahoo.com/energy/articles/x-energy-building-model-industrial-152100893.html",
-          "publisher": "Zacks",
-          "published": "2026-09-23T15:21:00Z"
-        },
-        {
-          "title": "Oklo vs. NuScale vs. BWX Technologies: Ranking the 3 Popular Nuclear Stocks From Worst to First",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/oklo-vs-nuscale-vs-bwx-110500181.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-23T11:05:00Z"
-        },
-        {
-          "title": "Top 3 Nuclear Power Stocks To Watch In September 2026",
-          "url": "https://finance.yahoo.com/energy/articles/top-3-nuclear-power-stocks-101737350.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-09-23T10:17:37Z"
-        }
-      ]
-    },
-    {
       "symbol": "NXE",
       "name": "NexGen Energy",
       "price": 9.64,
@@ -2089,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 92.56,
-      "change_pct": -2.15
+      "price": 92.64,
+      "change_pct": -2.06
     },
     {
       "label": "Brent",
-      "price": 98.46,
-      "change_pct": -0.8
+      "price": 98.6,
+      "change_pct": -0.65
     },
     {
       "label": "NatGas",
       "price": 3.16,
-      "change_pct": 6.61
+      "change_pct": 6.58
     }
   ]
 }
