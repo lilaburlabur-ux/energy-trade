@@ -5,7 +5,7 @@ Signed file: `PSX.research.24.09.2026`
 | Field | Value |
 |---|---|
 | Current price | $255.87 (2026-09-24, ~15-min delayed) |
-| Market cap | $102.10B |
+| Market cap | $102.59B |
 | Sector / Industry | Energy / Oil & Gas Refining & Marketing |
 | Main theme | Oil & Gas Refining & Marketing — see catalysts below |
 | Current stance | High technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
@@ -37,9 +37,9 @@ Phillips 66 operates as an integrated downstream energy provider in the United S
 | Headline | Source | Date |
 |---|---|---|
 | Why These S&P 500 Stocks Are Earning The Biggest EPS Upgrades | Investor's Business Daily | 2026-09-24 |
+| Stocks Pressured by Rising Crude Prices | Barchart | 2026-09-24 |
 | Exchange-Traded Funds, Equity Futures Lower Pre-Bell Thursday Amid Ongoing Middle East Tensions Before US-China Talks | MT Newswires | 2026-09-24 |
 | How Bright is the Outlook for Par Pacific's Refining Business? | Zacks | 2026-09-24 |
-| Trump Wants to Ban Diesel Exports. Refiners Are Selling Off. | 24/7 Wall St. | 2026-09-24 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -112,7 +112,7 @@ Phillips 66 operates as an integrated downstream energy provider in the United S
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $255.87 | EV/Sales | 0.79 |
-| Market cap | $102.10B | EV/EBITDA | 12.09 |
+| Market cap | $102.59B | EV/EBITDA | 12.09 |
 | Beta | 0.70 | Gross margin | 13.10% |
 | RSI(14) | 55.4 | Operating margin | 8.53% |
 | ATR(14) | 8.62 | Profit margin | 4.66% |
