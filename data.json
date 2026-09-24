@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-24T08:07:10+00:00",
-  "as_of_local": "2026-09-24 08:07:10 UTC",
+  "as_of_utc": "2026-09-24T08:12:10+00:00",
+  "as_of_local": "2026-09-24 08:12:10 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -1215,26 +1215,7 @@
       "previous_close": 103.28,
       "change_pct": -2.48,
       "market_cap": 21172400104.364594,
-      "headlines": [
-        {
-          "title": "NRG Energy (NRG) Falls More Steeply Than Broader Market: What Investors Need to Know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nrg-energy-nrg-falls-more-220004026.html",
-          "publisher": "Zacks",
-          "published": "2026-09-23T22:00:04Z"
-        },
-        {
-          "title": "NRG Energy, Inc. (NRG) is Attracting Investor Attention: Here is What You Should Know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nrg-energy-inc-nrg-attracting-130005099.html",
-          "publisher": "Zacks",
-          "published": "2026-09-23T13:00:05Z"
-        },
-        {
-          "title": "Is NRG Energy Stock Underperforming the S&P 500?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nrg-energy-stock-underperforming-p-115257078.html",
-          "publisher": "Barchart",
-          "published": "2026-09-23T11:52:57Z"
-        }
-      ]
+      "headlines": []
     },
     {
       "symbol": "FSLR",
@@ -1635,7 +1616,26 @@
       "previous_close": 10.33,
       "change_pct": -3.68,
       "market_cap": 4923979947.310587,
-      "headlines": []
+      "headlines": [
+        {
+          "title": "Nuclear Energy Stocks Rally as Demand for Reliable Clean Power Grows",
+          "url": "https://finance.yahoo.com/energy/articles/nuclear-energy-stocks-rally-demand-150400417.html",
+          "publisher": "Zacks",
+          "published": "2026-09-23T15:04:00Z"
+        },
+        {
+          "title": "Why Did Uranium Energy (UEC) Move Today?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-uranium-energy-uec-131949501.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-09-23T13:19:49Z"
+        },
+        {
+          "title": "Oklo Climbs 5% as Nuclear Names Bounce Back From Last Week\u2019s Selloff; NuScale Power Gains 4%, Uranium Energy Rises 3%",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/oklo-climbs-5-nuclear-names-141418370.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-09-21T14:14:18Z"
+        }
+      ]
     },
     {
       "symbol": "ENPH",
@@ -2096,18 +2096,18 @@
     },
     {
       "label": "WTI",
-      "price": 92.43,
-      "change_pct": 0.29
+      "price": 92.94,
+      "change_pct": 0.85
     },
     {
       "label": "Brent",
-      "price": 98.61,
-      "change_pct": -4.34
+      "price": 99.1,
+      "change_pct": -3.86
     },
     {
       "label": "NatGas",
       "price": 3.19,
-      "change_pct": 5.46
+      "change_pct": 5.56
     }
   ]
 }
