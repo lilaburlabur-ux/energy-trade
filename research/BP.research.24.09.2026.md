@@ -36,10 +36,10 @@ BP p.l.c., an integrated energy company, engages in the oil and gas business wor
 
 | Headline | Source | Date |
 |---|---|---|
+| BP (LSE:BP.) Stock Could Be A Bargain Despite Its 115% Run | Simply Wall St. | 2026-09-24 |
 | Sector Update: Energy Stocks Rise Late Afternoon | MT Newswires | 2026-09-24 |
 | European Equities Traded in the US as American Depositary Receipts Edge Lower in Thursday Trading | MT Newswires | 2026-09-24 |
 | Shell Reshapes Upstream Portfolio With Gulf Asset Divestment | Zacks | 2026-09-24 |
-| BP p.l.c. (BP) is Attracting Investor Attention: Here is What You Should Know | Zacks | 2026-09-24 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

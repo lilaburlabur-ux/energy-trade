@@ -36,10 +36,10 @@ Dominion Energy, Inc. provides regulated electricity and natural gas services in
 
 | Headline | Source | Date |
 |---|---|---|
+| Dominion Energy (D) Dips More Than Broader Market: What You Should Know | Zacks | 2026-09-24 |
 | NextEra Stock Has Fallen 22% From Its High. Is the Selloff a Buying Opportunity? | TIKR | 2026-09-24 |
 | Dominion Energy (D) Registers a Bigger Fall Than the Market: Important Facts to Note | Zacks | 2026-09-23 |
 | NextEra (NEE) and Dominion (D) Unveil a Bigger Pitch for Virginia | Insider Monkey | 2026-09-20 |
-| Jim Cramer Suggests Against Holding Dominion (D) Through the NextEra (NEE) Share Conversion | Insider Monkey | 2026-09-19 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ Dominion Energy, Inc. provides regulated electricity and natural gas services in
 | Revenue (ttm) | $18.12B | Revenue growth 17.60% y/y |
 | Profitability | Gross 46.22%, operating 29.22%, net 13.98% | ROA 3.04%, ROE 8.28% |
 | Balance sheet | Cash $298.00M, debt $53.93B | Current ratio 0.81, debt/equity 160.46 |
-| Valuation | P/E 21.05, forward P/E 15.84, P/S 2.93, P/B 1.90 | EV/Sales 6.24, EV/EBITDA 13.56 |
+| Valuation | P/E 20.90, forward P/E 15.84, P/S 2.93, P/B 1.90 | EV/Sales 6.24, EV/EBITDA 13.56 |
 | Growth expectations | Earnings growth -58.00%, EPS q/q -55.30% | Analyst mean target $70.91 (11 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -119,7 +119,7 @@ Dominion Energy, Inc. provides regulated electricity and natural gas services in
 | SMA200 dist | -4.33% | Revenue (ttm) | $18.12B |
 | 52W high | $70.97 | Revenue growth y/y | 17.60% |
 | 52W low | $55.36 | Inst. ownership | 83.03% |
-| P/E (ttm) | 21.05 | Insider ownership | 0.13% |
+| P/E (ttm) | 20.90 | Insider ownership | 0.13% |
 | Forward P/E | 15.84 | Short float | 3.09% |
 | PEG (trailing) | 2.38 | Avg volume | 4,445,830 |
 | P/S | 2.93 | Employees | 15,200 |

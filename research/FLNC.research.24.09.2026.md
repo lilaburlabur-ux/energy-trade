@@ -36,10 +36,10 @@ Fluence Energy, Inc., through its subsidiaries, provides energy storage and opti
 
 | Headline | Source | Date |
 |---|---|---|
+| Fluence Energy, Richardson Electronics, Plug Power, Sunrun, and Methode Electronics Shares Plummet, What You Need To Know | StockStory | 2026-09-24 |
 | Fluence Energy (FLNC) Names New COO and Director After Product Chief Exit | Simply Wall St. | 2026-09-24 |
 | Is Fluence Energy (FLNC) Undervalued After Cutting Its 2026 Outlook? | Simply Wall St. | 2026-09-24 |
 | Morgan Stanley Sees a 33-GW AI Power Shortfall. These 2 Stocks Could Help Fill It | Insider Monkey | 2026-09-23 |
-| FLNC or BE: Which Alternative Energy Stock Is Worth Buying Now? | Zacks | 2026-09-23 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

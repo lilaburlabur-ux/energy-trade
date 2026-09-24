@@ -36,10 +36,10 @@ Quanta Services, Inc. offers infrastructure solutions for the electric and gas u
 
 | Headline | Source | Date |
 |---|---|---|
+| Why the Market Dipped But Quanta Services (PWR) Gained Today | Zacks | 2026-09-24 |
 | Quanta Services Stock Rises on Upgrade. Here’s Why Labor Is the Key. | Barrons.com | 2026-09-24 |
 | Will MYR Group's Net Income Continue Its Eight-Quarter Growth Streak? | Zacks | 2026-09-24 |
 | Can Quanta Convert Record Demand Into Sustainable Shareholder Wins? | Zacks | 2026-09-24 |
-| CoreWeave upgraded, Etsy downgraded: Wall Street's top analyst calls | The Fly | 2026-09-24 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -36,10 +36,10 @@ NextEra Energy, Inc., through its subsidiaries, generates, stores, transmits, di
 
 | Headline | Source | Date |
 |---|---|---|
+| NextEra Energy (NEE) Dips More Than Broader Market: What You Should Know | Zacks | 2026-09-24 |
 | NextEra Stock Has Fallen 22% From Its High. Is the Selloff a Buying Opportunity? | TIKR | 2026-09-24 |
 | NextEra Energy vs. Duke Energy: Which Utility Stock Looks Stronger? | Zacks | 2026-09-24 |
 | 2 Monster Dividend Stocks to Buy Now and Hold for Decades | Motley Fool | 2026-09-24 |
-| How a Trade Deal With Japan Could Change the Face of U.S. Energy | Barrons.com | 2026-09-23 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

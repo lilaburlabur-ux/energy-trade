@@ -36,10 +36,10 @@ Constellation Energy Corporation produces and sells energy products and services
 
 | Headline | Source | Date |
 |---|---|---|
+| Could Constellation Energy (CEG)’s $715 Million Shell (SHEL) Deal Accelerate its Power Growth? | Insider Monkey | 2026-09-24 |
 | NuScale Power Stock Is Just One Of 3 Top Nuclear Stocks | Simply Wall St. | 2026-09-24 |
 | Top 3 Nuclear Power Stocks To Watch In September 2026 | Simply Wall St. | 2026-09-23 |
 | GE Vernova is The AI Energy Bottleneck Player I Won’t Stop Buying | 24/7 Wall St. | 2026-09-22 |
-| Can Constellation Energy Reduce EFOF and Improve Fleet Performance? | Zacks | 2026-09-22 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

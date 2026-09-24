@@ -36,10 +36,10 @@ MPLX LP owns and operates midstream energy infrastructure and logistics assets p
 
 | Headline | Source | Date |
 |---|---|---|
+| Why MPLX LP (MPLX) Dipped More Than Broader Market Today | Zacks | 2026-09-24 |
 | Bloom Energy vs. Marathon Petroleum: Which Popular Energy Stock Is the Better Buy? | Zacks | 2026-09-23 |
 | This Overlooked Pipeline Stock Just Became a Rival's Joint-Venture Partner Without Anyone Noticing | Motley Fool | 2026-09-20 |
 | Oil Prices Rise and Fall. These 4 High-Yield Pipeline Stocks Keep Paying | 24/7 Wall St. | 2026-09-18 |
-| MPLX Targets Another 12.5% Distribution Raise Through 2027. Here’s What Could Mean For The Stock. | TIKR | 2026-09-17 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -36,10 +36,10 @@ NRG Energy, Inc., together with its subsidiaries, operates as an energy and home
 
 | Headline | Source | Date |
 |---|---|---|
+| Clearway Energy (CWEN) Suffers a Larger Drop Than the General Market: Key Insights | Zacks | 2026-09-24 |
 | NRG Energy (NRG) Falls More Steeply Than Broader Market: What Investors Need to Know | Zacks | 2026-09-23 |
 | NRG Energy, Inc. (NRG) is Attracting Investor Attention: Here is What You Should Know | Zacks | 2026-09-23 |
 | Is NRG Energy Stock Underperforming the S&P 500? | Barchart | 2026-09-23 |
-| Talen Raises 2026 Guidance as Cornerstone Boosts Cash Flow | Zacks | 2026-09-21 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

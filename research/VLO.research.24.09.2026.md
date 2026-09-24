@@ -36,10 +36,10 @@ Valero Energy Corporation manufactures, markets, and sells petroleum-based and l
 
 | Headline | Source | Date |
 |---|---|---|
+| LPL Financial (LPLA) Drops 7.5%. Is the Stock a Bargain After the Drop? | Insider Monkey | 2026-09-24 |
 | Why These S&P 500 Stocks Are Earning The Biggest EPS Upgrades | Investor's Business Daily | 2026-09-24 |
 | Exchange-Traded Funds, Equity Futures Lower Pre-Bell Thursday Amid Ongoing Middle East Tensions Before US-China Talks | MT Newswires | 2026-09-24 |
 | How Bright is the Outlook for Par Pacific's Refining Business? | Zacks | 2026-09-24 |
-| Trump Wants to Ban Diesel Exports. Refiners Are Selling Off. | 24/7 Wall St. | 2026-09-24 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -36,10 +36,10 @@ SolarEdge Technologies, Inc., together with its subsidiaries, operates as an ene
 
 | Headline | Source | Date |
 |---|---|---|
+| Why SolarEdge Technologies (SEDG) Dipped More Than Broader Market Today | Zacks | 2026-09-24 |
 | FSLR Stock Hits Fresh 52-Week Low As Target Cuts, Slower Booking Visibility Weigh — Peers Enphase, SolarEdge Also Down | Stocktwits | 2026-09-24 |
 | Solar Stocks Slide as High Borrowing Costs Weigh on Project Financing: First Solar Sinks 8%, SolarEdge Falls 5%, Enphase Energy Drops 4% | 24/7 Wall St. | 2026-09-24 |
 | SolarEdge Technologies (SEDG) Stock Dips While Market Gains: Key Facts | Zacks | 2026-09-18 |
-| 3 Industrials Stocks We’re Skeptical Of | StockStory | 2026-09-18 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

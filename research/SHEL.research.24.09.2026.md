@@ -36,10 +36,10 @@ Shell plc operates as an energy and petrochemical company in Europe, Asia, Ocean
 
 | Headline | Source | Date |
 |---|---|---|
+| Could Constellation Energy (CEG)’s $715 Million Shell (SHEL) Deal Accelerate its Power Growth? | Insider Monkey | 2026-09-24 |
 | European Markets Close Lower in Thursday Trading as Bond Yields, Oil Prices Rise | MT Newswires | 2026-09-24 |
 | Chevron Eyes Egyptian Export Route for Cyprus Gas | Oilprice.com | 2026-09-24 |
 | European Equities Traded in the US as American Depositary Receipts Edge Lower in Thursday Trading | MT Newswires | 2026-09-24 |
-| Is Shell (LSE:SHEL) Still A Bargain After Its 163% Run? | Simply Wall St. | 2026-09-24 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
