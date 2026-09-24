@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-24T11:11:01+00:00",
-  "as_of_local": "2026-09-24 11:11:01 UTC",
+  "as_of_utc": "2026-09-24T11:14:58+00:00",
+  "as_of_local": "2026-09-24 11:14:58 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -97,6 +97,12 @@
       "market_cap": 253501631018.1054,
       "headlines": [
         {
+          "title": "A Kill Switch for AI? Microsoft\u2019s Brad Smith Says Yes",
+          "url": "https://www.wsj.com/business/a-kill-switch-for-ai-microsofts-brad-smith-says-yes-8be7866e?siteid=yhoof2&yptr=yahoo",
+          "publisher": "The Wall Street Journal",
+          "published": "2026-09-24T09:58:00Z"
+        },
+        {
           "title": "GE Vernova, Hitachi, and Samsung Are Bringing Small Modular Reactors to Europe",
           "url": "https://finance.yahoo.com/energy/articles/ge-vernova-hitachi-samsung-bringing-081014635.html",
           "publisher": "Motley Fool",
@@ -107,12 +113,6 @@
           "url": "https://www.barrons.com/articles/ai-stock-trade-risks-spacex-nvidia-fb2a642f?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
           "published": "2026-09-24T06:00:00Z"
-        },
-        {
-          "title": "How a Trade Deal With Japan Could Change the Face of U.S. Energy",
-          "url": "https://www.barrons.com/articles/natural-gas-energy-trump-japan-data-centers-22c7a2ed?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-09-23T23:25:00Z"
         }
       ]
     },
@@ -2115,13 +2115,13 @@
     },
     {
       "label": "WTI",
-      "price": 93.15,
-      "change_pct": 1.07
+      "price": 93.13,
+      "change_pct": 1.05
     },
     {
       "label": "Brent",
-      "price": 104.63,
-      "change_pct": 1.5
+      "price": 104.6,
+      "change_pct": 1.47
     },
     {
       "label": "NatGas",
