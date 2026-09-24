@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-09-24T02:42:12+00:00",
-  "as_of_local": "2026-09-24 02:42:12 UTC",
+  "as_of_utc": "2026-09-24T02:57:15+00:00",
+  "as_of_local": "2026-09-24 02:57:15 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "SLB"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -619,6 +617,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/tsx-stocks-investors-watching-next-115208497.html",
           "publisher": "Investing.com",
           "published": "2026-09-06T11:52:08Z"
+        }
+      ]
+    },
+    {
+      "symbol": "SLB",
+      "name": "SLB (Schlumberger)",
+      "price": 51.87,
+      "previous_close": 51.76,
+      "change_pct": 0.21,
+      "market_cap": 76982507806.73401,
+      "headlines": [
+        {
+          "title": "Do New SLB (SLB) Digital Wins Clarify Its Long\u2011Term Competitive Edge in Energy Services?",
+          "url": "https://finance.yahoo.com/energy/articles/slb-slb-digital-wins-clarify-091600795.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-09-23T09:16:00Z"
+        },
+        {
+          "title": "SLB (SLB) Could Be 16% Undervalued After Brazil Seismic Survey Launch",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/slb-slb-could-16-undervalued-161405815.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-09-22T16:14:05Z"
+        },
+        {
+          "title": "SLB (SLB) Started A Major 3D Seismic Survey Off Brazil",
+          "url": "https://finance.yahoo.com/energy/articles/slb-slb-started-major-3d-141230820.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-09-22T14:12:30Z"
         }
       ]
     },
@@ -1949,8 +1975,8 @@
           "name": "SLB Ltd",
           "short": "SLB",
           "weight_pct": 4.88,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": 0.21,
+          "price": 51.87,
           "currency": "USD"
         },
         {
@@ -2048,8 +2074,8 @@
         "name": "SLB Ltd",
         "short": "SLB",
         "weight_pct": 4.88,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": 0.21,
+        "price": 51.87,
         "currency": "USD"
       },
       {
@@ -2089,13 +2115,13 @@
     },
     {
       "label": "WTI",
-      "price": 91.47,
-      "change_pct": -3.3
+      "price": 91.43,
+      "change_pct": -3.34
     },
     {
       "label": "Brent",
-      "price": 97.34,
-      "change_pct": -1.92
+      "price": 97.39,
+      "change_pct": -1.87
     },
     {
       "label": "NatGas",
