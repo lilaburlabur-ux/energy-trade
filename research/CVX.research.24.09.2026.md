@@ -68,7 +68,7 @@ Chevron Corporation, through its subsidiaries, engages in the integrated energy 
 | Revenue (ttm) | $209.38B | Revenue growth 53.50% y/y |
 | Profitability | Gross 44.27%, operating 21.87%, net 9.83% | ROA 5.86%, ROE 12.23% |
 | Balance sheet | Cash $8.53B, debt $37.08B | Current ratio 1.25, debt/equity 18.96 |
-| Valuation | P/E 19.77, forward P/E 15.16, P/S 1.93, P/B 2.12 | EV/Sales 2.09, EV/EBITDA 8.63 |
+| Valuation | P/E 19.77, forward P/E 15.16, P/S 1.93, P/B 2.12 | EV/Sales 2.09, EV/EBITDA 8.64 |
 | Growth expectations | Earnings growth 321.90%, EPS q/q 384.80% | Analyst mean target $222.17 (24 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -111,7 +111,7 @@ Chevron Corporation, through its subsidiaries, engages in the integrated energy 
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $205.65 | EV/Sales | 2.09 |
-| Market cap | $403.40B | EV/EBITDA | 8.63 |
+| Market cap | $403.40B | EV/EBITDA | 8.64 |
 | Beta | 0.49 | Gross margin | 44.27% |
 | RSI(14) | 49.6 | Operating margin | 21.87% |
 | ATR(14) | 4.44 | Profit margin | 9.83% |

@@ -18,7 +18,7 @@ Signed file: `DUK.research.24.09.2026`
 | Technical momentum | Low | Below SMA200 (-7.42%) with negative half-year (-9.55%). |
 | Fresh setup quality | Moderate / wait | -13.67% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 16.00%, revenue growth 1.10%. |
-| Value attractiveness | Reasonable | Forward P/E 15.79, EV/Sales 5.60. |
+| Value attractiveness | Reasonable | Forward P/E 15.79, EV/Sales 5.58. |
 | Risk level | Moderate | Beta 0.36, ATR 1.6% of price, short float 2.44%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -68,7 +68,7 @@ Duke Energy Corporation, through its subsidiaries, operates as an energy company
 | Revenue (ttm) | $32.80B | Revenue growth 1.10% y/y |
 | Profitability | Gross 51.97%, operating 27.50%, net 16.00% | ROA 2.84%, ROE 9.86% |
 | Balance sheet | Cash $673.00M, debt $92.21B | Current ratio 0.66, debt/equity 162.16 |
-| Valuation | P/E 17.05, forward P/E 15.79, P/S 2.69, P/B 1.64 | EV/Sales 5.60, EV/EBITDA 11.05 |
+| Valuation | P/E 17.05, forward P/E 15.79, P/S 2.69, P/B 1.64 | EV/Sales 5.58, EV/EBITDA 11.01 |
 | Growth expectations | Earnings growth 10.60%, EPS q/q 11.00% | Analyst mean target $136.94 (18 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -109,8 +109,8 @@ Duke Energy Corporation, through its subsidiaries, operates as an energy company
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $113.23 | EV/Sales | 5.60 |
-| Market cap | $88.29B | EV/EBITDA | 11.05 |
+| Price | $113.23 | EV/Sales | 5.58 |
+| Market cap | $88.29B | EV/EBITDA | 11.01 |
 | Beta | 0.36 | Gross margin | 51.97% |
 | RSI(14) | 24.9 | Operating margin | 27.50% |
 | ATR(14) | 1.77 | Profit margin | 16.00% |

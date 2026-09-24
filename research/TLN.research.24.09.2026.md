@@ -68,7 +68,7 @@ Talen Energy Corporation, an independent power producer and infrastructure compa
 | Revenue (ttm) | $3.74B | Revenue growth 111.20% y/y |
 | Profitability | Gross 42.10%, operating -4.80%, net -4.95% | ROA 0.92%, ROE -12.83% |
 | Balance sheet | Cash $232.00M, debt $9.57B | Current ratio 0.78, debt/equity 584.14 |
-| Valuation | P/E —, forward P/E 9.75, P/S 3.84, P/B 8.89 | EV/Sales 6.35, EV/EBITDA 40.82 |
+| Valuation | P/E —, forward P/E 9.75, P/S 3.84, P/B 8.89 | EV/Sales 6.35, EV/EBITDA 40.79 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $460.59 (17 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -114,7 +114,7 @@ Talen Energy Corporation, an independent power producer and infrastructure compa
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $300.01 | EV/Sales | 6.35 |
-| Market cap | $14.37B | EV/EBITDA | 40.82 |
+| Market cap | $14.37B | EV/EBITDA | 40.79 |
 | Beta | 1.63 | Gross margin | 42.10% |
 | RSI(14) | 44.2 | Operating margin | -4.80% |
 | ATR(14) | 13.91 | Profit margin | -4.95% |

@@ -42,7 +42,7 @@
 | CEG | $92.69B | -24% | 19.6 | 11% | Low | Reasonable | Elevated |
 | OKLO | $7.12B | -73% | -37.9 | 0% | Low | Reasonable | High |
 | SMR | $3.48B | -80% | -12.8 | 0% | Low | Reasonable | High |
-| LEU | $3.01B | -52% | 39.2 | 10% | Low | Low (expensive) | High |
+| LEU | $3.01B | -52% | 38.5 | 10% | Low | Low (expensive) | High |
 | NXE | $6.14B | +4% | -58.4 | 0% | Low | Reasonable | Elevated |
 | UEC | $4.69B | -32% | -105.2 | 0% | Low | Reasonable | High |
 | UUUU | $3.00B | -32% | 23.3 | -77% | Low | Fair-to-demanding | High |

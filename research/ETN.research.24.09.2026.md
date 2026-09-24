@@ -18,7 +18,7 @@ Signed file: `ETN.research.24.09.2026`
 | Technical momentum | Moderate | 1Y +17.60%; price +14.53% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -4.34% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 12.75%, revenue growth 21.40%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 27.27, EV/Sales 6.36. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 27.27, EV/Sales 6.38. |
 | Risk level | Elevated | Beta 1.17, ATR 3.4% of price, short float 1.86%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: fair-to-demanding, risk: elevated.
@@ -68,7 +68,7 @@ Eaton Corporation plc operates as a power management company in the United State
 | Revenue (ttm) | $30.03B | Revenue growth 21.40% y/y |
 | Profitability | Gross 36.02%, operating 16.56%, net 12.75% | ROA 7.05%, ROE 19.68% |
 | Balance sheet | Cash $695.00M, debt $21.33B | Current ratio 1.24, debt/equity 105.06 |
-| Valuation | P/E 44.76, forward P/E 27.27, P/S 5.69, P/B 8.44 | EV/Sales 6.36, EV/EBITDA 28.78 |
+| Valuation | P/E 44.76, forward P/E 27.27, P/S 5.69, P/B 8.44 | EV/Sales 6.38, EV/EBITDA 28.86 |
 | Growth expectations | Earnings growth -15.90%, EPS q/q -16.40% | Analyst mean target $479.57 (25 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ Eaton Corporation plc operates as a power management company in the United State
 | Wellington Management Group, LLP | 6,827,266 | 1.76% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 27.27, EV/Sales 6.36. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 27.27, EV/Sales 6.38. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 1.17, ATR 3.4% of price, short float 1.86%. Size positions accordingly.
 - **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
@@ -112,8 +112,8 @@ Eaton Corporation plc operates as a power management company in the United State
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $440.00 | EV/Sales | 6.36 |
-| Market cap | $170.85B | EV/EBITDA | 28.78 |
+| Price | $440.00 | EV/Sales | 6.38 |
+| Market cap | $170.85B | EV/EBITDA | 28.86 |
 | Beta | 1.17 | Gross margin | 36.02% |
 | RSI(14) | 59.8 | Operating margin | 16.56% |
 | ATR(14) | 14.80 | Profit margin | 12.75% |

@@ -18,7 +18,7 @@ Signed file: `UEC.research.24.09.2026`
 | Technical momentum | Low | Below SMA200 (-27.98%) with negative half-year (-29.54%). |
 | Fresh setup quality | Poor / broken | -52.98% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 0.00%, revenue growth —. |
-| Value attractiveness | Reasonable | Forward P/E -105.22, EV/Sales 219.69. |
+| Value attractiveness | Reasonable | Forward P/E -105.22, EV/Sales 207.94. |
 | Risk level | High | Beta 1.24, ATR 6.4% of price, short float 14.73%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: high.
@@ -68,7 +68,7 @@ Uranium Energy Corp., together with its subsidiaries, engages in exploration, pr
 | Revenue (ttm) | $20.20M | Revenue growth — y/y |
 | Profitability | Gross 0.00%, operating -629.66%, net 0.00% | ROA -6.25%, ROE -8.96% |
 | Balance sheet | Cash $488.05M, debt $1.91M | Current ratio 32.67, debt/equity 0.14 |
-| Valuation | P/E —, forward P/E -105.22, P/S 232.00, P/B 3.29 | EV/Sales 219.69, EV/EBITDA -36.75 |
+| Valuation | P/E —, forward P/E -105.22, P/S 232.00, P/B 3.29 | EV/Sales 207.94, EV/EBITDA -34.78 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $17.38 (10 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -112,8 +112,8 @@ Uranium Energy Corp., together with its subsidiaries, engages in exploration, pr
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $9.47 | EV/Sales | 219.69 |
-| Market cap | $4.69B | EV/EBITDA | -36.75 |
+| Price | $9.47 | EV/Sales | 207.94 |
+| Market cap | $4.69B | EV/EBITDA | -34.78 |
 | Beta | 1.24 | Gross margin | 0.00% |
 | RSI(14) | 34.6 | Operating margin | -629.66% |
 | ATR(14) | 0.61 | Profit margin | 0.00% |
