@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-24T02:07:02+00:00",
-  "as_of_local": "2026-09-24 02:07:02 UTC",
+  "as_of_utc": "2026-09-24T02:22:02+00:00",
+  "as_of_local": "2026-09-24 02:22:02 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -41,6 +41,12 @@
       "market_cap": 403129078064.3314,
       "headlines": [
         {
+          "title": "Behind the Oil-and-Gas Industry\u2019s Blitz to Try to Defeat a Diesel Export Ban",
+          "url": "https://www.wsj.com/politics/policy/behind-the-oil-and-gas-industrys-blitz-to-try-to-defeat-a-diesel-export-ban-4e64d7f5?siteid=yhoof2&yptr=yahoo",
+          "publisher": "The Wall Street Journal",
+          "published": "2026-09-24T01:00:00Z"
+        },
+        {
           "title": "How Chevron\u2019s CFO Leads Through Volatility: \u2018You Plan for It\u2019",
           "url": "https://finance.yahoo.com/video/chevron-cfo-leads-volatility-plan-160600098.html",
           "publisher": "WSJ",
@@ -51,12 +57,6 @@
           "url": "https://finance.yahoo.com/energy/articles/exxonmobils-balance-sheet-helps-navigate-150800332.html",
           "publisher": "Zacks",
           "published": "2026-09-23T15:08:00Z"
-        },
-        {
-          "title": "Can ExxonMobil Keep Rewarding Shareholders While Investing for Growth?",
-          "url": "https://finance.yahoo.com/energy/articles/exxonmobil-keep-rewarding-shareholders-while-150300657.html",
-          "publisher": "Zacks",
-          "published": "2026-09-23T15:03:00Z"
         }
       ]
     },
@@ -321,6 +321,12 @@
       "market_cap": 102340888919.45471,
       "headlines": [
         {
+          "title": "Behind the Oil-and-Gas Industry\u2019s Blitz to Try to Defeat a Diesel Export Ban",
+          "url": "https://www.wsj.com/politics/policy/behind-the-oil-and-gas-industrys-blitz-to-try-to-defeat-a-diesel-export-ban-4e64d7f5?siteid=yhoof2&yptr=yahoo",
+          "publisher": "The Wall Street Journal",
+          "published": "2026-09-24T01:00:00Z"
+        },
+        {
           "title": "The Great U.S. Existing Home Mortgage Lock-in",
           "url": "https://finance.yahoo.com/real-estate/articles/great-u-existing-home-mortgage-203800225.html",
           "publisher": "Zacks",
@@ -331,12 +337,6 @@
           "url": "https://www.investors.com/news/dell-stock-cien-mpc-vlo-psx-biggest-eps-estimate-upgrades/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
           "published": "2026-09-23T20:25:00Z"
-        },
-        {
-          "title": "The Market Screams For More. Why Refiners Don't Plan To Provide It.",
-          "url": "https://www.investors.com/news/gas-prices-and-diesel-prices-soar-aaa-refiners-in-us-arent-building-new-refineries/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-09-23T20:05:56Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 91.89,
-      "change_pct": -2.85
+      "price": 91.88,
+      "change_pct": -2.86
     },
     {
       "label": "Brent",
-      "price": 97.78,
-      "change_pct": -1.48
+      "price": 97.74,
+      "change_pct": -1.52
     },
     {
       "label": "NatGas",
       "price": 3.18,
-      "change_pct": 7.39
+      "change_pct": 7.42
     }
   ]
 }
