@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-24T11:55:24+00:00",
-  "as_of_local": "2026-09-24 11:55:24 UTC",
+  "as_of_utc": "2026-09-24T12:00:37+00:00",
+  "as_of_local": "2026-09-24 12:00:37 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -1049,6 +1049,12 @@
       "market_cap": 39546395822.34117,
       "headlines": [
         {
+          "title": "Is the Options Market Predicting a Spike in Cameco Stock?",
+          "url": "https://finance.yahoo.com/markets/options/articles/options-market-predicting-spike-cameco-105200638.html",
+          "publisher": "Zacks",
+          "published": "2026-09-24T10:52:00Z"
+        },
+        {
           "title": "2 \u2018Strong Buy\u2019 Nuclear Power Stocks Offering Compelling Value",
           "url": "https://finance.yahoo.com/energy/articles/2-strong-buy-nuclear-power-180000287.html",
           "publisher": "TipRanks",
@@ -1059,12 +1065,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/cameco-vs-mp-materials-does-141901901.html",
           "publisher": "Motley Fool",
           "published": "2026-09-23T14:19:01Z"
-        },
-        {
-          "title": "Cameco And 2 Canadian Nuclear Stocks To Watch",
-          "url": "https://finance.yahoo.com/energy/articles/cameco-2-canadian-nuclear-stocks-091650924.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-09-23T09:16:50Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 93.71,
-      "change_pct": 1.68
+      "price": 93.66,
+      "change_pct": 1.63
     },
     {
       "label": "Brent",
-      "price": 105.2,
-      "change_pct": 2.06
+      "price": 105.05,
+      "change_pct": 1.91
     },
     {
       "label": "NatGas",
-      "price": 3.18,
-      "change_pct": 5.16
+      "price": 3.17,
+      "change_pct": 4.96
     }
   ]
 }
