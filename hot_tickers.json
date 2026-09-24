@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-24T15:27:56+00:00",
+  "as_of": "2026-09-24T15:43:08+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,33 +11,17 @@
    "rank": 1,
    "ticker": "BE",
    "company": "Bloom Energy Corporation",
-   "move_pct": -6.7,
-   "price": 256.75,
-   "volume": 9537411,
-   "volume_vs_avg": "~0.6x",
-   "heat_score": 42,
+   "move_pct": -6.53,
+   "price": 257.23,
+   "volume": 9892181,
+   "volume_vs_avg": "~0.7x",
+   "heat_score": 41,
    "direction": "down",
-   "why": "Bloom Energy Corporation (BE): A Critical Player in AI Buildout",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/technology/ai/articles/bloom-energy-corporation-critical-player-144259726.html",
-   "published": "2026-09-24T14:42:59Z",
+   "why": "Fuel Cell Stocks Slide as High Treasury Yields Pressure Clean Energy Financing: FuelCell Drops 6%, Plug Power Falls 4%, Bloom Energy Sinks 8%",
+   "catalyst_type": "financing",
+   "source_url": "https://finance.yahoo.com/energy/articles/fuel-cell-stocks-slide-high-152034081.html",
+   "published": "2026-09-24T15:20:34Z",
    "sector": "Grid, Storage & Electrification"
-  },
-  {
-   "rank": 2,
-   "ticker": "NXT",
-   "company": "Nextpower Inc.",
-   "move_pct": -5.04,
-   "price": 77.69,
-   "volume": 628371,
-   "volume_vs_avg": "~0.3x",
-   "heat_score": 34,
-   "direction": "down",
-   "why": "Nextpower Inc. (NXT) Is a Trending Stock: Facts to Know Before Betting on It",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/nextpower-inc-nxt-trending-stock-120004854.html",
-   "published": "2026-09-24T12:00:04Z",
-   "sector": "Renewables & Solar"
   }
  ]
 }
