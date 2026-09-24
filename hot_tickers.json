@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-24T22:17:04+00:00",
+  "as_of": "2026-09-24T22:31:37+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -21,6 +21,22 @@
    "catalyst_type": "momentum_narrative",
    "source_url": "https://finance.yahoo.com/markets/stocks/articles/first-solar-fslr-suffers-larger-204503545.html",
    "published": "2026-09-24T20:45:03Z",
+   "sector": "Renewables & Solar"
+  },
+  {
+   "rank": 2,
+   "ticker": "RUN",
+   "company": "Sunrun Inc.",
+   "move_pct": -6.47,
+   "price": 7.81,
+   "volume": 11811024,
+   "volume_vs_avg": "~2x",
+   "heat_score": 46,
+   "direction": "down",
+   "why": "Why Sunrun (RUN) Dipped More Than Broader Market Today",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/why-sunrun-run-dipped-more-210005731.html",
+   "published": "2026-09-24T21:00:05Z",
    "sector": "Renewables & Solar"
   }
  ]
