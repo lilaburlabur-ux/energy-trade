@@ -36,10 +36,10 @@ Bloom Energy Corporation designs, manufactures, sells, and installs solid oxide 
 
 | Headline | Source | Date |
 |---|---|---|
+| Dow Jones Futures: Market Rally Resilient As Yields, Oil Prices Keep Rising; Tesla Event On Deck | Investor's Business Daily | 2026-09-24 |
 | Oracle, Qualcomm, Meta, Everpure, BlackBerry, MGM, Nebius, and More Stocks That Explain Today’s Market | Barrons.com | 2026-09-24 |
 | Oracle Flags Fresh Risk for Massive AI Project | GuruFocus.com | 2026-09-24 |
 | This $267 Stock Could Be Your Ticket to Millionaire Status | Motley Fool | 2026-09-24 |
-| Oracle Seeks ‘Force Majeure’ on Data Center. Why It’s Sinking the Stock. | Barrons.com | 2026-09-24 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ Bloom Energy Corporation designs, manufactures, sells, and installs solid oxide 
 | Revenue (ttm) | $3.11B | Revenue growth 165.50% y/y |
 | Profitability | Gross 31.65%, operating 17.11%, net 7.87% | ROA 5.60%, ROE 22.21% |
 | Balance sheet | Cash $2.72B, debt $2.82B | Current ratio 4.09, debt/equity 171.58 |
-| Valuation | P/E 346.30, forward P/E 54.10, P/S 25.23, P/B 48.53 | EV/Sales 26.08, EV/EBITDA 193.98 |
+| Valuation | P/E 350.86, forward P/E 54.10, P/S 25.23, P/B 48.53 | EV/Sales 26.08, EV/EBITDA 193.98 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $280.24 (26 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -122,7 +122,7 @@ Bloom Energy Corporation designs, manufactures, sells, and installs solid oxide 
 | SMA200 dist | +31.96% | Revenue (ttm) | $3.11B |
 | 52W high | $345.85 | Revenue growth y/y | 165.50% |
 | 52W low | $68.69 | Inst. ownership | 86.11% |
-| P/E (ttm) | 346.30 | Insider ownership | 5.54% |
+| P/E (ttm) | 350.86 | Insider ownership | 5.54% |
 | Forward P/E | 54.10 | Short float | 7.43% |
 | PEG (trailing) | 0.62 | Avg volume | 16,208,741 |
 | P/S | 25.23 | Employees | 2,214 |

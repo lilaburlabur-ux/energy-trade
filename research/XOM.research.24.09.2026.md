@@ -36,10 +36,10 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 
 | Headline | Source | Date |
 |---|---|---|
+| Could TotalEnergies (TTE)’ LNG Growth Give it an Edge Over ExxonMobil (XOM)? | Insider Monkey | 2026-09-24 |
 | Did ExxonMobil’s (XOM) 2076 Floating‑Rate Notes Just Quietly Redefine Its Long‑Term Funding Playbook? | Simply Wall St. | 2026-09-24 |
 | Caterpillar or Exxon: Which Dividend Has More Room to Grow? | 24/7 Wall St. | 2026-09-24 |
 | Exchange-Traded Funds, Equity Futures Lower Pre-Bell Thursday Amid Ongoing Middle East Tensions Before US-China Talks | MT Newswires | 2026-09-24 |
-| Update: Rising Treasury Yields, Oil Prices Drag Down US Equity Futures Pre-Bell | MT Newswires | 2026-09-24 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

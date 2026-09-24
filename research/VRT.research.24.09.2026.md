@@ -68,7 +68,7 @@ Vertiv Holdings Co designs, manufactures, and services critical digital infrastr
 | Revenue (ttm) | $11.48B | Revenue growth 24.10% y/y |
 | Profitability | Gross 38.04%, operating 20.36%, net 15.09% | ROA 10.89%, ROE 43.94% |
 | Balance sheet | Cash $3.11B, debt $3.34B | Current ratio 1.38, debt/equity 70.17 |
-| Valuation | P/E 55.00, forward P/E 26.89, P/S 8.23, P/B 19.85 | EV/Sales 8.36, EV/EBITDA 35.84 |
+| Valuation | P/E 55.37, forward P/E 26.89, P/S 8.23, P/B 19.85 | EV/Sales 8.36, EV/EBITDA 35.84 |
 | Growth expectations | Earnings growth 53.00%, EPS q/q 53.50% | Analyst mean target $338.15 (26 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -122,7 +122,7 @@ Vertiv Holdings Co designs, manufactures, and services critical digital infrastr
 | SMA200 dist | -6.37% | Revenue (ttm) | $11.48B |
 | 52W high | $376.06 | Revenue growth y/y | 24.10% |
 | 52W low | $138.47 | Inst. ownership | 84.56% |
-| P/E (ttm) | 55.00 | Insider ownership | 0.24% |
+| P/E (ttm) | 55.37 | Insider ownership | 0.24% |
 | Forward P/E | 26.89 | Short float | 3.58% |
 | PEG (trailing) | 0.84 | Avg volume | 5,774,461 |
 | P/S | 8.23 | Employees | 34,000 |

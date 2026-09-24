@@ -36,10 +36,10 @@ TotalEnergies SE, an integrated energy company, produces and markets oil and bio
 
 | Headline | Source | Date |
 |---|---|---|
+| Could TotalEnergies (TTE)’ LNG Growth Give it an Edge Over ExxonMobil (XOM)? | Insider Monkey | 2026-09-24 |
 | CVX vs. TTE: Which Energy Major Has the Stronger LNG Growth Story? | Zacks | 2026-09-24 |
 | Sector Update: Energy Stocks Rise Late Afternoon | MT Newswires | 2026-09-23 |
 | Sector Update: Energy Stocks Rise Wednesday Afternoon | MT Newswires | 2026-09-23 |
-| TotalEnergies, AMNI take FID on Nigeria’s Ima gas field | Offshore Technology | 2026-09-23 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -122,7 +122,7 @@ TotalEnergies SE, an integrated energy company, produces and markets oil and bio
 | 52W low | $55.92 | Inst. ownership | 54.20% |
 | P/E (ttm) | 11.50 | Insider ownership | 8.86% |
 | Forward P/E | 8.62 | Short float | 0.22% |
-| PEG (trailing) | — | Avg volume | 1,591,822 |
+| PEG (trailing) | 0.71 | Avg volume | 1,591,822 |
 | P/S | 1.03 | Employees | 94,847 |
 | P/B | 1.59 | Analyst rec (1=buy..5=sell) | 1.7 |
 
