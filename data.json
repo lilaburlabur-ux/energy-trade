@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-09-24T12:02:01+00:00",
-  "as_of_local": "2026-09-24 12:02:01 UTC",
+  "as_of_utc": "2026-09-24T12:05:46+00:00",
+  "as_of_local": "2026-09-24 12:05:46 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "MPLX"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -763,6 +761,34 @@
       ]
     },
     {
+      "symbol": "MPLX",
+      "name": "MPLX",
+      "price": 58.81,
+      "previous_close": 59.09,
+      "change_pct": -0.47,
+      "market_cap": 59625005133.63243,
+      "headlines": [
+        {
+          "title": "Bloom Energy vs. Marathon Petroleum: Which Popular Energy Stock Is the Better Buy?",
+          "url": "https://finance.yahoo.com/energy/articles/bloom-energy-vs-marathon-petroleum-220700133.html",
+          "publisher": "Zacks",
+          "published": "2026-09-23T22:07:00Z"
+        },
+        {
+          "title": "This Overlooked Pipeline Stock Just Became a Rival's Joint-Venture Partner Without Anyone Noticing",
+          "url": "https://finance.yahoo.com/energy/articles/overlooked-pipeline-stock-just-became-053500681.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-20T05:35:00Z"
+        },
+        {
+          "title": "Oil Prices Rise and Fall. These 4 High-Yield Pipeline Stocks Keep Paying",
+          "url": "https://finance.yahoo.com/energy/articles/oil-prices-rise-fall-4-135338492.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-09-18T13:53:38Z"
+        }
+      ]
+    },
+    {
       "symbol": "BKR",
       "name": "Baker Hughes",
       "price": 58.03,
@@ -1023,6 +1049,12 @@
       "market_cap": 39546395822.34117,
       "headlines": [
         {
+          "title": "Uranium Royalty (UROY) Posts Strong Q1, But One-Off Gains Complicate the Earnings Picture",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/uranium-royalty-uroy-posts-strong-115755436.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-09-24T11:57:55Z"
+        },
+        {
           "title": "Is the Options Market Predicting a Spike in Cameco Stock?",
           "url": "https://finance.yahoo.com/markets/options/articles/options-market-predicting-spike-cameco-105200638.html",
           "publisher": "Zacks",
@@ -1033,12 +1065,6 @@
           "url": "https://finance.yahoo.com/energy/articles/2-strong-buy-nuclear-power-180000287.html",
           "publisher": "TipRanks",
           "published": "2026-09-23T18:00:00Z"
-        },
-        {
-          "title": "Cameco vs. MP Materials: Does Uranium or Rare Earths Make a Better Stock Buy in 2026?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/cameco-vs-mp-materials-does-141901901.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-23T14:19:01Z"
         }
       ]
     },
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 93.74,
-      "change_pct": 1.71
+      "price": 93.68,
+      "change_pct": 1.65
     },
     {
       "label": "Brent",
-      "price": 105.05,
-      "change_pct": 1.91
+      "price": 104.94,
+      "change_pct": 1.8
     },
     {
       "label": "NatGas",
       "price": 3.17,
-      "change_pct": 5.0
+      "change_pct": 4.9
     }
   ]
 }
