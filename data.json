@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-24T20:32:05+00:00",
-  "as_of_local": "2026-09-24 20:32:05 UTC",
+  "as_of_utc": "2026-09-24T20:35:56+00:00",
+  "as_of_local": "2026-09-24 20:35:56 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -281,6 +281,34 @@
           "url": "https://finance.yahoo.com/energy/articles/chevron-deepen-greece-bet-offshore-135200635.html",
           "publisher": "Zacks",
           "published": "2026-09-24T13:52:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "VLO",
+      "name": "Valero Energy",
+      "price": 382.86,
+      "previous_close": 375.84,
+      "change_pct": 1.87,
+      "market_cap": 110235903500.77258,
+      "headlines": [
+        {
+          "title": "Why These S&P 500 Stocks Are Earning The Biggest EPS Upgrades",
+          "url": "https://www.investors.com/news/dell-stock-cien-mpc-vlo-psx-biggest-eps-estimate-upgrades/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-09-24T18:05:13Z"
+        },
+        {
+          "title": "Stocks Pressured by Rising Crude Prices",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-pressured-rising-crude-prices-140859176.html",
+          "publisher": "Barchart",
+          "published": "2026-09-24T14:08:59Z"
+        },
+        {
+          "title": "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Thursday Amid Ongoing Middle East Tensions Before US-China Talks",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-131757956.html",
+          "publisher": "MT Newswires",
+          "published": "2026-09-24T13:17:57Z"
         }
       ]
     },
@@ -2087,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 95.32,
-      "change_pct": 3.43
+      "price": 95.3,
+      "change_pct": 3.41
     },
     {
       "label": "Brent",
-      "price": 107.52,
-      "change_pct": 4.31
+      "price": 107.51,
+      "change_pct": 4.3
     },
     {
       "label": "NatGas",
       "price": 3.32,
-      "change_pct": 9.76
+      "change_pct": 9.66
     }
   ]
 }
