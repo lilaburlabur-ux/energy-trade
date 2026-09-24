@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-24T14:52:21+00:00",
+  "as_of": "2026-09-24T15:07:35+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,16 +11,16 @@
    "rank": 1,
    "ticker": "BE",
    "company": "Bloom Energy Corporation",
-   "move_pct": -7.24,
-   "price": 255.28,
-   "volume": 8053188,
-   "volume_vs_avg": "~0.5x",
+   "move_pct": -7.11,
+   "price": 255.62,
+   "volume": 8919278,
+   "volume_vs_avg": "~0.6x",
    "heat_score": 43,
    "direction": "down",
-   "why": "Bloom Energy Sinks 6% as Traders Take Profits on a 190% YTD Run; Generac and Cummins Pull Back",
+   "why": "Bloom Energy Corporation (BE): A Critical Player in AI Buildout",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-sinks-6-traders-141248843.html",
-   "published": "2026-09-24T14:12:48Z",
+   "source_url": "https://finance.yahoo.com/technology/ai/articles/bloom-energy-corporation-critical-player-144259726.html",
+   "published": "2026-09-24T14:42:59Z",
    "sector": "Grid, Storage & Electrification"
   }
  ]
