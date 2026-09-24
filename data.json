@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-24T20:05:28+00:00",
-  "as_of_local": "2026-09-24 20:05:28 UTC",
+  "as_of_utc": "2026-09-24T20:10:33+00:00",
+  "as_of_local": "2026-09-24 20:10:33 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -237,6 +237,12 @@
       "market_cap": 114370950617.11395,
       "headlines": [
         {
+          "title": "Sector Update: Energy Stocks Rise Late Afternoon",
+          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-rise-afternoon-195809963.html",
+          "publisher": "MT Newswires",
+          "published": "2026-09-24T19:58:09Z"
+        },
+        {
           "title": "European Equities Traded in the US as American Depositary Receipts Edge Lower in Thursday Trading",
           "url": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-american-151042797.html",
           "publisher": "MT Newswires",
@@ -247,12 +253,6 @@
           "url": "https://finance.yahoo.com/energy/articles/shell-reshapes-upstream-portfolio-gulf-123900041.html",
           "publisher": "Zacks",
           "published": "2026-09-24T12:39:00Z"
-        },
-        {
-          "title": "BP p.l.c. (BP) is Attracting Investor Attention: Here is What You Should Know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bp-p-l-c-bp-120005439.html",
-          "publisher": "Zacks",
-          "published": "2026-09-24T12:00:05Z"
         }
       ]
     },
@@ -629,6 +629,12 @@
       "market_cap": 76351748065.87042,
       "headlines": [
         {
+          "title": "Sector Update: Energy Stocks Rise Late Afternoon",
+          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-rise-afternoon-195809963.html",
+          "publisher": "MT Newswires",
+          "published": "2026-09-24T19:58:09Z"
+        },
+        {
           "title": "Sector Update: Energy Stocks Rise Thursday Afternoon",
           "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-rise-thursday-180651243.html",
           "publisher": "MT Newswires",
@@ -639,12 +645,6 @@
           "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-rise-premarket-132622226.html",
           "publisher": "MT Newswires",
           "published": "2026-09-24T13:26:22Z"
-        },
-        {
-          "title": "SLB Wins Oman Contract, Strengthening Its Middle East Growth Story",
-          "url": "https://finance.yahoo.com/energy/articles/slb-wins-oman-contract-strengthening-103900743.html",
-          "publisher": "Zacks",
-          "published": "2026-09-24T10:39:00Z"
         }
       ]
     },
@@ -657,6 +657,12 @@
       "market_cap": 76107290326.60934,
       "headlines": [
         {
+          "title": "Sector Update: Energy Stocks Rise Late Afternoon",
+          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-rise-afternoon-195809963.html",
+          "publisher": "MT Newswires",
+          "published": "2026-09-24T19:58:09Z"
+        },
+        {
           "title": "Sector Update: Energy Stocks Rise Thursday Afternoon",
           "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-rise-thursday-180651243.html",
           "publisher": "MT Newswires",
@@ -667,12 +673,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/eog-resources-stock-buy-shrinking-174822273.html",
           "publisher": "Trefis",
           "published": "2026-09-23T17:48:22Z"
-        },
-        {
-          "title": "How ExxonMobil's Balance Sheet Helps Navigate Oil Volatility",
-          "url": "https://finance.yahoo.com/energy/articles/exxonmobils-balance-sheet-helps-navigate-150800332.html",
-          "publisher": "Zacks",
-          "published": "2026-09-23T15:08:00Z"
         }
       ]
     },
@@ -910,9 +910,9 @@
       "headlines": [
         {
           "title": "Sector Update: Energy Stocks Rise Late Afternoon",
-          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-rise-afternoon-195603421.html",
+          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-rise-afternoon-195809963.html",
           "publisher": "MT Newswires",
-          "published": "2026-09-23T19:56:03Z"
+          "published": "2026-09-24T19:58:09Z"
         },
         {
           "title": "Sector Update: Energy Stocks Rise Wednesday Afternoon",
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 95.12,
-      "change_pct": 3.21
+      "price": 95.25,
+      "change_pct": 3.35
     },
     {
       "label": "Brent",
-      "price": 107.32,
-      "change_pct": 4.11
+      "price": 107.44,
+      "change_pct": 4.23
     },
     {
       "label": "NatGas",
-      "price": 3.38,
-      "change_pct": 11.78
+      "price": 3.36,
+      "change_pct": 11.15
     }
   ]
 }
