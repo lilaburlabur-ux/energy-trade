@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-24T13:06:37+00:00",
-  "as_of_local": "2026-09-24 13:06:37 UTC",
+  "as_of_utc": "2026-09-24T13:11:27+00:00",
+  "as_of_local": "2026-09-24 13:11:27 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -13,6 +13,12 @@
       "market_cap": 662963547742.8168,
       "headlines": [
         {
+          "title": "Update: Rising Treasury Yields, Oil Prices Drag Down US Equity Futures Pre-Bell",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/rising-treasury-yields-oil-prices-130200426.html",
+          "publisher": "MT Newswires",
+          "published": "2026-09-24T13:02:00Z"
+        },
+        {
           "title": "Update: Market Chatter: US Oil Executives Push Back Against Donald Trump's Potential Ban on Diesel Exports",
           "url": "https://finance.yahoo.com/energy/articles/market-chatter-us-oil-executives-124058792.html",
           "publisher": "MT Newswires",
@@ -23,12 +29,6 @@
           "url": "https://finance.yahoo.com/energy/articles/market-chatter-us-oil-executives-112235250.html",
           "publisher": "MT Newswires",
           "published": "2026-09-24T11:22:35Z"
-        },
-        {
-          "title": "3 Companies With a Strong History of Dividend Growth",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-companies-strong-history-dividend-231500498.html",
-          "publisher": "Zacks",
-          "published": "2026-09-23T23:15:00Z"
         }
       ]
     },
@@ -41,6 +41,12 @@
       "market_cap": 403129078064.3314,
       "headlines": [
         {
+          "title": "You Only Need $2,000 and 1 Fund to Start Building a Dividend Portfolio. Here\u2019s the ETF to Use",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/only-2-000-1-fund-130014059.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-09-24T13:00:14Z"
+        },
+        {
           "title": "Update: Market Chatter: US Oil Executives Push Back Against Donald Trump's Potential Ban on Diesel Exports",
           "url": "https://finance.yahoo.com/energy/articles/market-chatter-us-oil-executives-124058792.html",
           "publisher": "MT Newswires",
@@ -51,12 +57,6 @@
           "url": "https://finance.yahoo.com/energy/articles/market-chatter-us-oil-executives-112235250.html",
           "publisher": "MT Newswires",
           "published": "2026-09-24T11:22:35Z"
-        },
-        {
-          "title": "Behind the Oil-and-Gas Industry\u2019s Blitz to Try to Defeat a Diesel Export Ban",
-          "url": "https://www.wsj.com/politics/policy/behind-the-oil-and-gas-industrys-blitz-to-try-to-defeat-a-diesel-export-ban-4e64d7f5?siteid=yhoof2&yptr=yahoo",
-          "publisher": "The Wall Street Journal",
-          "published": "2026-09-24T01:00:00Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 93.57,
-      "change_pct": 1.53
+      "price": 93.78,
+      "change_pct": 1.76
     },
     {
       "label": "Brent",
-      "price": 99.64,
-      "change_pct": -3.34
+      "price": 99.8,
+      "change_pct": -3.18
     },
     {
       "label": "NatGas",
       "price": 3.14,
-      "change_pct": 3.84
+      "change_pct": 3.87
     }
   ]
 }
