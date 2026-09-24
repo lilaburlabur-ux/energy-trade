@@ -36,10 +36,10 @@ ConocoPhillips explores for, produces, transports, and markets crude oil, bitume
 
 | Headline | Source | Date |
 |---|---|---|
-| Stocks Pressured by Rising Crude Prices | Barchart | 2026-09-24 |
 | Does COP’s Low Forward P/E and Rising Estimates Change The Bull Case For ConocoPhillips (COP)? | Simply Wall St. | 2026-09-24 |
 | Update: Rising Treasury Yields, Oil Prices Drag Down US Equity Futures Pre-Bell | MT Newswires | 2026-09-24 |
 | Canada’s Oil Patch On Track For Biggest M&A Wave In A Decade | Oilprice.com | 2026-09-23 |
+| Is EOG Resources Stock A Buy For Its Shrinking Share Count? | Trefis | 2026-09-23 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -121,7 +121,7 @@ ConocoPhillips explores for, produces, transports, and markets crude oil, bitume
 | 52W low | $83.04 | Inst. ownership | 86.93% |
 | P/E (ttm) | 17.11 | Insider ownership | 0.10% |
 | Forward P/E | 13.39 | Short float | 1.40% |
-| PEG (trailing) | 1.06 | Avg volume | 6,869,244 |
+| PEG (trailing) | 1.08 | Avg volume | 6,869,244 |
 | P/S | 2.41 | Employees | 9,600 |
 | P/B | 2.38 | Analyst rec (1=buy..5=sell) | 1.7 |
 

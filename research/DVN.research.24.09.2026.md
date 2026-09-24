@@ -37,9 +37,9 @@ Devon Energy Corporation, an independent energy company, engages in the explorat
 | Headline | Source | Date |
 |---|---|---|
 | Sector Update: Energy Stocks Rise Late Afternoon | MT Newswires | 2026-09-24 |
-| Stocks Pressured by Rising Crude Prices | Barchart | 2026-09-24 |
 | Sector Update: Energy Stocks Rise Wednesday Afternoon | MT Newswires | 2026-09-23 |
 | Is EOG Resources Stock A Buy For Its Shrinking Share Count? | Trefis | 2026-09-23 |
+| Top Midday Stories: McDonald's Plans $8.5 Billion in Franchisee Support; Morgan Stanley Staffer Accidentally Leaks Investment-Bank Deal List | MT Newswires | 2026-09-23 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

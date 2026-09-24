@@ -36,10 +36,10 @@ Vertiv Holdings Co designs, manufactures, and services critical digital infrastr
 
 | Headline | Source | Date |
 |---|---|---|
+| Will Vertiv Holdings (VRT)’s $1.45 Billion UIG Deal Accelerate its AI Infrastructure Growth? | Insider Monkey | 2026-09-24 |
 | Vertiv’s Serial M&A Trail: What $1.5B in ‘Immaterial’ Deals Is Doing to Its Margins | TIKR | 2026-09-24 |
 | Exchange-Traded Funds, Equity Futures Lower Pre-Bell Thursday Amid Ongoing Middle East Tensions Before US-China Talks | MT Newswires | 2026-09-24 |
 | Vertiv To Acquire King Environmental As AI Drives Demand For Liquid-Cooling Services | Stocktwits | 2026-09-24 |
-| 2 Industrials Stocks to Keep an Eye On and 1 We Turn Down | StockStory | 2026-09-24 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

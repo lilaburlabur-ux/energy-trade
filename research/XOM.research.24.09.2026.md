@@ -37,9 +37,9 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 | Headline | Source | Date |
 |---|---|---|
 | Did ExxonMobil’s (XOM) 2076 Floating‑Rate Notes Just Quietly Redefine Its Long‑Term Funding Playbook? | Simply Wall St. | 2026-09-24 |
-| Stocks Pressured by Rising Crude Prices | Barchart | 2026-09-24 |
 | Caterpillar or Exxon: Which Dividend Has More Room to Grow? | 24/7 Wall St. | 2026-09-24 |
 | Exchange-Traded Funds, Equity Futures Lower Pre-Bell Thursday Amid Ongoing Middle East Tensions Before US-China Talks | MT Newswires | 2026-09-24 |
+| Update: Rising Treasury Yields, Oil Prices Drag Down US Equity Futures Pre-Bell | MT Newswires | 2026-09-24 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -122,7 +122,7 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 | 52W low | $107.52 | Inst. ownership | 67.21% |
 | P/E (ttm) | 20.87 | Insider ownership | 0.08% |
 | Forward P/E | 14.96 | Short float | 1.08% |
-| PEG (trailing) | 1.36 | Avg volume | 14,784,807 |
+| PEG (trailing) | 1.38 | Avg volume | 14,784,807 |
 | P/S | 1.85 | Employees | 57,900 |
 | P/B | 2.57 | Analyst rec (1=buy..5=sell) | 2.3 |
 

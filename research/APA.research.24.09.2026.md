@@ -36,10 +36,10 @@ APA Corporation, an independent energy company, explores for, develops, and prod
 
 | Headline | Source | Date |
 |---|---|---|
-| Stocks Pressured by Rising Crude Prices | Barchart | 2026-09-24 |
 | Is APA Corporation Stock Outperforming the Dow? | Barchart | 2026-09-24 |
 | Is EOG Resources Stock A Buy For Its Shrinking Share Count? | Trefis | 2026-09-23 |
 | Should Value Investors Buy APA (APA) Stock? | Zacks | 2026-09-23 |
+| APA (APA) Stock Moves -3.45%: What You Should Know | Zacks | 2026-09-22 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -124,7 +124,7 @@ APA Corporation, an independent energy company, explores for, develops, and prod
 | 52W low | $21.16 | Inst. ownership | 110.14% |
 | P/E (ttm) | 9.54 | Insider ownership | 0.44% |
 | Forward P/E | 9.77 | Short float | 9.10% |
-| PEG (trailing) | 1.14 | Avg volume | 5,596,052 |
+| PEG (trailing) | 1.18 | Avg volume | 5,596,052 |
 | P/S | 1.79 | Employees | 1,791 |
 | P/B | 2.18 | Analyst rec (1=buy..5=sell) | 2.6 |
 

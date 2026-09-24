@@ -121,7 +121,7 @@ The Southern Company, through its subsidiaries, engages in the sale of electrici
 | 52W low | $82.06 | Inst. ownership | 74.23% |
 | P/E (ttm) | 19.97 | Insider ownership | 0.10% |
 | Forward P/E | 16.83 | Short float | 3.06% |
-| PEG (trailing) | 2.01 | Avg volume | 5,579,395 |
+| PEG (trailing) | 1.97 | Avg volume | 5,579,395 |
 | P/S | 3.16 | Employees | 29,502 |
 | P/B | 2.41 | Analyst rec (1=buy..5=sell) | 2.6 |
 

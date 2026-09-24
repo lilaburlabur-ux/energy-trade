@@ -36,10 +36,10 @@ Eaton Corporation plc operates as a power management company in the United State
 
 | Headline | Source | Date |
 |---|---|---|
+| Could Eaton Corporation (ETN)’s $242 Million Expansion Power its Next Data Center Growth Phase? | Insider Monkey | 2026-09-24 |
 | 4 Manufacturing Electronics Stocks to Watch on Promising Industry Trends | Zacks | 2026-09-24 |
 | Why Does Vertiv Cost The Most In A Group It Does Not Out-Grow? | Trefis | 2026-09-23 |
 | VWDRY or ETN: Which Is the Better Value Stock Right Now? | Zacks | 2026-09-23 |
-| Eaton (ETN) Stock Moves 1.82%: What You Should Know | Zacks | 2026-09-22 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -124,7 +124,7 @@ Eaton Corporation plc operates as a power management company in the United State
 | 52W low | $313.20 | Inst. ownership | 87.90% |
 | P/E (ttm) | 44.76 | Insider ownership | 0.07% |
 | Forward P/E | 27.27 | Short float | 1.86% |
-| PEG (trailing) | 2.69 | Avg volume | 2,196,579 |
+| PEG (trailing) | 2.67 | Avg volume | 2,196,579 |
 | P/S | 5.69 | Employees | 97,303 |
 | P/B | 8.44 | Analyst rec (1=buy..5=sell) | 1.5 |
 

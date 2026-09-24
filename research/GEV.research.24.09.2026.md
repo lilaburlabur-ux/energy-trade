@@ -36,8 +36,8 @@ GE Vernova Inc., an energy company, engages in the provision of various products
 
 | Headline | Source | Date |
 |---|---|---|
-| GE Vernova Falls 1.3% as $200 Billion Backlog Test Approaches | GuruFocus.com | 2026-09-24 |
 | Why Oracle’s Data Center Issue Is a Problem for GE Vernova | Barrons.com | 2026-09-24 |
+| GE Vernova Falls 1.3% as $200 Billion Backlog Test Approaches | GuruFocus.com | 2026-09-24 |
 | GE Vernova vs. Duke Energy: Which Power Stock Is a Better Pick Today? | Zacks | 2026-09-24 |
 | UBS sees rising reliance on AI capex as a key growth risk | Investing.com | 2026-09-24 |
 

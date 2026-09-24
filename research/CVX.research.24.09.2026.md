@@ -122,7 +122,7 @@ Chevron Corporation, through its subsidiaries, engages in the integrated energy 
 | 52W low | $142.76 | Inst. ownership | 71.18% |
 | P/E (ttm) | 19.93 | Insider ownership | 4.77% |
 | Forward P/E | 15.16 | Short float | 1.05% |
-| PEG (trailing) | 0.89 | Avg volume | 8,845,849 |
+| PEG (trailing) | 0.90 | Avg volume | 8,845,849 |
 | P/S | 1.93 | Employees | 43,039 |
 | P/B | 2.12 | Analyst rec (1=buy..5=sell) | 1.7 |
 

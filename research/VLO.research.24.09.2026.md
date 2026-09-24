@@ -37,9 +37,9 @@ Valero Energy Corporation manufactures, markets, and sells petroleum-based and l
 | Headline | Source | Date |
 |---|---|---|
 | Why These S&P 500 Stocks Are Earning The Biggest EPS Upgrades | Investor's Business Daily | 2026-09-24 |
-| Stocks Pressured by Rising Crude Prices | Barchart | 2026-09-24 |
 | Exchange-Traded Funds, Equity Futures Lower Pre-Bell Thursday Amid Ongoing Middle East Tensions Before US-China Talks | MT Newswires | 2026-09-24 |
 | How Bright is the Outlook for Par Pacific's Refining Business? | Zacks | 2026-09-24 |
+| Trump Wants to Ban Diesel Exports. Refiners Are Selling Off. | 24/7 Wall St. | 2026-09-24 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -123,7 +123,7 @@ Valero Energy Corporation manufactures, markets, and sells petroleum-based and l
 | 52W low | $153.14 | Inst. ownership | 87.05% |
 | P/E (ttm) | 15.97 | Insider ownership | 0.42% |
 | Forward P/E | 10.06 | Short float | 3.99% |
-| PEG (trailing) | 1.86 | Avg volume | 3,094,990 |
+| PEG (trailing) | 1.85 | Avg volume | 3,094,990 |
 | P/S | 0.83 | Employees | 9,785 |
 | P/B | 4.41 | Analyst rec (1=buy..5=sell) | 2.4 |
 

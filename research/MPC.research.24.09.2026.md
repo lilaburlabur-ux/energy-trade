@@ -37,9 +37,9 @@ Marathon Petroleum Corporation, together with its subsidiaries, operates as an i
 | Headline | Source | Date |
 |---|---|---|
 | Why These S&P 500 Stocks Are Earning The Biggest EPS Upgrades | Investor's Business Daily | 2026-09-24 |
-| Stocks Pressured by Rising Crude Prices | Barchart | 2026-09-24 |
 | Chevron to Deepen Greece Bet With Offshore Seismic Exploration | Zacks | 2026-09-24 |
 | Trump Wants to Ban Diesel Exports. Refiners Are Selling Off. | 24/7 Wall St. | 2026-09-24 |
+| Tight Global Markets Drive Refining Sector: 3 Stocks to Consider | Zacks | 2026-09-24 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

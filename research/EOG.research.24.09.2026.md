@@ -122,7 +122,7 @@ EOG Resources, Inc., together with its subsidiaries, explores for, develops, pro
 | 52W low | $99.31 | Inst. ownership | 98.14% |
 | P/E (ttm) | 11.12 | Insider ownership | 0.27% |
 | Forward P/E | 9.58 | Short float | 3.15% |
-| PEG (trailing) | 1.33 | Avg volume | 3,154,868 |
+| PEG (trailing) | 1.35 | Avg volume | 3,154,868 |
 | P/S | 2.80 | Employees | 3,400 |
 | P/B | 2.36 | Analyst rec (1=buy..5=sell) | 2.3 |
 
