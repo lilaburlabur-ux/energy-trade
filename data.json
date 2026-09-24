@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-24T13:21:48+00:00",
-  "as_of_local": "2026-09-24 13:21:48 UTC",
+  "as_of_utc": "2026-09-24T13:26:36+00:00",
+  "as_of_local": "2026-09-24 13:26:36 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -293,6 +293,12 @@
       "market_cap": 108214655887.81815,
       "headlines": [
         {
+          "title": "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Thursday Amid Ongoing Middle East Tensions Before US-China Talks",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-131757956.html",
+          "publisher": "MT Newswires",
+          "published": "2026-09-24T13:17:57Z"
+        },
+        {
           "title": "Trump Wants to Ban Diesel Exports. Refiners Are Selling Off.",
           "url": "https://finance.yahoo.com/energy/articles/trump-wants-ban-diesel-exports-124543134.html",
           "publisher": "24/7 Wall St.",
@@ -303,12 +309,6 @@
           "url": "https://finance.yahoo.com/energy/articles/market-chatter-us-oil-executives-124058792.html",
           "publisher": "MT Newswires",
           "published": "2026-09-24T12:40:58Z"
-        },
-        {
-          "title": "Market Chatter: US Oil Executives Push Back Against Donald Trump's Potential Ban on Diesel Exports",
-          "url": "https://finance.yahoo.com/energy/articles/market-chatter-us-oil-executives-112235250.html",
-          "publisher": "MT Newswires",
-          "published": "2026-09-24T11:22:35Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 93.7,
-      "change_pct": 1.67
+      "price": 93.67,
+      "change_pct": 1.64
     },
     {
       "label": "Brent",
-      "price": 99.78,
-      "change_pct": -3.2
+      "price": 99.77,
+      "change_pct": -3.21
     },
     {
       "label": "NatGas",
-      "price": 3.15,
-      "change_pct": 4.07
+      "price": 3.14,
+      "change_pct": 4.04
     }
   ]
 }
