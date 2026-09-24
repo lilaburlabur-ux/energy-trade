@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-24T11:45:19+00:00",
-  "as_of_local": "2026-09-24 11:45:19 UTC",
+  "as_of_utc": "2026-09-24T11:50:16+00:00",
+  "as_of_local": "2026-09-24 11:50:16 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -97,6 +97,12 @@
       "market_cap": 253501631018.1054,
       "headlines": [
         {
+          "title": "Energy Transition Update - Fashion Industry Joins Forces For Renewable Energy Revolution",
+          "url": "https://finance.yahoo.com/energy/articles/energy-transition-fashion-industry-joins-113702372.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-09-24T11:37:02Z"
+        },
+        {
           "title": "A Kill Switch for AI? Microsoft\u2019s Brad Smith Says Yes",
           "url": "https://www.wsj.com/business/a-kill-switch-for-ai-microsofts-brad-smith-says-yes-8be7866e?siteid=yhoof2&yptr=yahoo",
           "publisher": "The Wall Street Journal",
@@ -107,12 +113,6 @@
           "url": "https://finance.yahoo.com/energy/articles/ge-vernova-hitachi-samsung-bringing-081014635.html",
           "publisher": "Motley Fool",
           "published": "2026-09-24T08:10:14Z"
-        },
-        {
-          "title": "4 Risks That Could Derail the AI Trade",
-          "url": "https://www.barrons.com/articles/ai-stock-trade-risks-spacex-nvidia-fb2a642f?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-09-24T06:00:00Z"
         }
       ]
     },
@@ -629,6 +629,12 @@
       "market_cap": 76982507806.73401,
       "headlines": [
         {
+          "title": "SLB Wins Oman Contract, Strengthening Its Middle East Growth Story",
+          "url": "https://finance.yahoo.com/energy/articles/slb-wins-oman-contract-strengthening-103900743.html",
+          "publisher": "Zacks",
+          "published": "2026-09-24T10:39:00Z"
+        },
+        {
           "title": "Do New SLB (SLB) Digital Wins Clarify Its Long\u2011Term Competitive Edge in Energy Services?",
           "url": "https://finance.yahoo.com/energy/articles/slb-slb-digital-wins-clarify-091600795.html",
           "publisher": "Simply Wall St.",
@@ -639,12 +645,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/slb-slb-could-16-undervalued-161405815.html",
           "publisher": "Simply Wall St.",
           "published": "2026-09-22T16:14:05Z"
-        },
-        {
-          "title": "SLB (SLB) Started A Major 3D Seismic Survey Off Brazil",
-          "url": "https://finance.yahoo.com/energy/articles/slb-slb-started-major-3d-141230820.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-09-22T14:12:30Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 93.35,
-      "change_pct": 1.29
+      "price": 93.67,
+      "change_pct": 1.64
     },
     {
       "label": "Brent",
-      "price": 104.81,
-      "change_pct": 1.68
+      "price": 105.15,
+      "change_pct": 2.01
     },
     {
       "label": "NatGas",
       "price": 3.18,
-      "change_pct": 5.23
+      "change_pct": 5.13
     }
   ]
 }
