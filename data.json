@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-24T01:01:42+00:00",
-  "as_of_local": "2026-09-24 01:01:42 UTC",
+  "as_of_utc": "2026-09-24T01:16:44+00:00",
+  "as_of_local": "2026-09-24 01:16:44 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -97,6 +97,12 @@
       "market_cap": 253501629067.42,
       "headlines": [
         {
+          "title": "How a Trade Deal With Japan Could Change the Face of U.S. Energy",
+          "url": "https://www.barrons.com/articles/natural-gas-energy-trump-japan-data-centers-22c7a2ed?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-09-23T23:25:00Z"
+        },
+        {
           "title": "Morgan Stanley Sees a 33-GW AI Power Shortfall. These 2 Stocks Could Help Fill It",
           "url": "https://finance.yahoo.com/energy/articles/morgan-stanley-sees-33-gw-184007932.html",
           "publisher": "Insider Monkey",
@@ -107,12 +113,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-stock-down-20-160500650.html",
           "publisher": "Motley Fool",
           "published": "2026-09-23T16:05:00Z"
-        },
-        {
-          "title": "GE Vernova CEO on Energy Demand and Economic Stability",
-          "url": "https://finance.yahoo.com/video/ge-vernova-ceo-energy-demand-133700424.html",
-          "publisher": "WSJ",
-          "published": "2026-09-23T13:37:00Z"
         }
       ]
     },
@@ -187,16 +187,16 @@
           "published": "2026-09-24T00:25:00Z"
         },
         {
+          "title": "How a Trade Deal With Japan Could Change the Face of U.S. Energy",
+          "url": "https://www.barrons.com/articles/natural-gas-energy-trump-japan-data-centers-22c7a2ed?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-09-23T23:25:00Z"
+        },
+        {
           "title": "NextEra Energy, Inc. (NEE) is Attracting Investor Attention: Here is What You Should Know",
           "url": "https://finance.yahoo.com/markets/stocks/articles/nextera-energy-inc-nee-attracting-130005665.html",
           "publisher": "Zacks",
           "published": "2026-09-23T13:00:05Z"
-        },
-        {
-          "title": "Bloom Energy vs. NextEra Energy: Which Renewable Energy Stock Is a Better Buy in 2026?",
-          "url": "https://finance.yahoo.com/energy/articles/bloom-energy-vs-nextera-energy-213801226.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-22T21:38:01Z"
         }
       ]
     },
@@ -1635,26 +1635,7 @@
       "previous_close": 10.08,
       "change_pct": 2.48,
       "market_cap": 4923980041.7,
-      "headlines": [
-        {
-          "title": "Nuclear Energy Stocks Rally as Demand for Reliable Clean Power Grows",
-          "url": "https://finance.yahoo.com/energy/articles/nuclear-energy-stocks-rally-demand-150400417.html",
-          "publisher": "Zacks",
-          "published": "2026-09-23T15:04:00Z"
-        },
-        {
-          "title": "Why Did Uranium Energy (UEC) Move Today?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-uranium-energy-uec-131949501.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-09-23T13:19:49Z"
-        },
-        {
-          "title": "Oklo Climbs 5% as Nuclear Names Bounce Back From Last Week\u2019s Selloff; NuScale Power Gains 4%, Uranium Energy Rises 3%",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/oklo-climbs-5-nuclear-names-141418370.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-09-21T14:14:18Z"
-        }
-      ]
+      "headlines": []
     },
     {
       "symbol": "ENPH",
@@ -2115,18 +2096,18 @@
     },
     {
       "label": "WTI",
-      "price": 91.56,
-      "change_pct": -3.2
+      "price": 91.47,
+      "change_pct": -3.3
     },
     {
       "label": "Brent",
-      "price": 97.35,
-      "change_pct": -1.91
+      "price": 97.25,
+      "change_pct": -2.02
     },
     {
       "label": "NatGas",
       "price": 3.18,
-      "change_pct": 7.35
+      "change_pct": 7.42
     }
   ]
 }
