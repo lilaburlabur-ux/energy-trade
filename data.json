@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-25T20:35:53+00:00",
-  "as_of_local": "2026-09-25 20:35:53 UTC",
+  "as_of_utc": "2026-09-25T20:40:36+00:00",
+  "as_of_local": "2026-09-25 20:40:36 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
     "ET",
@@ -1555,7 +1555,26 @@
       "previous_close": 9.47,
       "change_pct": -0.63,
       "market_cap": 4656748888.54847,
-      "headlines": []
+      "headlines": [
+        {
+          "title": "Nuclear Energy Stocks Rally as Demand for Reliable Clean Power Grows",
+          "url": "https://finance.yahoo.com/energy/articles/nuclear-energy-stocks-rally-demand-150400417.html",
+          "publisher": "Zacks",
+          "published": "2026-09-23T15:04:00Z"
+        },
+        {
+          "title": "Why Did Uranium Energy (UEC) Move Today?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-uranium-energy-uec-131949501.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-09-23T13:19:49Z"
+        },
+        {
+          "title": "Oklo Climbs 5% as Nuclear Names Bounce Back From Last Week\u2019s Selloff; NuScale Power Gains 4%, Uranium Energy Rises 3%",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/oklo-climbs-5-nuclear-names-141418370.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-09-21T14:14:18Z"
+        }
+      ]
     },
     {
       "symbol": "ENPH",
@@ -2016,8 +2035,8 @@
     },
     {
       "label": "WTI",
-      "price": 92.59,
-      "change_pct": -2.14
+      "price": 92.7,
+      "change_pct": -2.02
     },
     {
       "label": "Brent",
@@ -2027,7 +2046,7 @@
     {
       "label": "NatGas",
       "price": 3.24,
-      "change_pct": -1.7
+      "change_pct": -1.73
     }
   ]
 }
