@@ -18,7 +18,7 @@ Signed file: `OVV.research.25.09.2026`
 | Technical momentum | Moderate | 1Y +43.76%; price +11.84% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -10.21% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 9.66%, revenue growth 29.70%. |
-| Value attractiveness | Reasonable | Forward P/E 8.07, EV/Sales 2.21. |
+| Value attractiveness | Reasonable | Forward P/E 8.07, EV/Sales 2.19. |
 | Risk level | Elevated | Beta 0.54, ATR 3.1% of price, short float 4.57%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
@@ -68,7 +68,7 @@ Ovintiv Inc., together with its subsidiaries, operates as an oil and natural gas
 | Revenue (ttm) | $9.52B | Revenue growth 29.70% y/y |
 | Profitability | Gross 53.86%, operating 36.18%, net 9.66% | ROA 8.64%, ROE 8.41% |
 | Balance sheet | Cash $700.00M, debt $5.03B | Current ratio 1.01, debt/equity 43.73 |
-| Valuation | P/E 16.80, forward P/E 8.07, P/S 1.75, P/B 1.45 | EV/Sales 2.21, EV/EBITDA 4.30 |
+| Valuation | P/E 16.80, forward P/E 8.07, P/S 1.75, P/B 1.45 | EV/Sales 2.19, EV/EBITDA 4.28 |
 | Growth expectations | Earnings growth 37.30%, EPS q/q 48.50% | Analyst mean target $76.17 (24 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -110,8 +110,8 @@ Ovintiv Inc., together with its subsidiaries, operates as an oil and natural gas
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $60.13 | EV/Sales | 2.21 |
-| Market cap | $16.63B | EV/EBITDA | 4.30 |
+| Price | $60.13 | EV/Sales | 2.19 |
+| Market cap | $16.63B | EV/EBITDA | 4.28 |
 | Beta | 0.54 | Gross margin | 53.86% |
 | RSI(14) | 41.5 | Operating margin | 36.18% |
 | ATR(14) | 1.85 | Profit margin | 9.66% |

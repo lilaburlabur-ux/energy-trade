@@ -18,7 +18,7 @@ Signed file: `SLB.research.25.09.2026`
 | Technical momentum | Moderate | 1Y +52.56%; price +3.51% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -13.80% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 8.53%, revenue growth 5.00%. |
-| Value attractiveness | Reasonable | Forward P/E 15.92, EV/Sales 2.37. |
+| Value attractiveness | Reasonable | Forward P/E 15.92, EV/Sales 2.38. |
 | Risk level | Elevated | Beta 0.77, ATR 3.4% of price, short float 4.67%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
@@ -68,7 +68,7 @@ SLB N.V. engages in the provision of technology for the energy industry worldwid
 | Revenue (ttm) | $36.37B | Revenue growth 5.00% y/y |
 | Profitability | Gross 16.99%, operating 12.71%, net 8.53% | ROA 6.17%, ROE 12.91% |
 | Balance sheet | Cash $4.12B, debt $12.81B | Current ratio 1.44, debt/equity 47.00 |
-| Valuation | P/E 25.14, forward P/E 15.92, P/S 2.10, P/B 2.93 | EV/Sales 2.37, EV/EBITDA 11.68 |
+| Valuation | P/E 25.39, forward P/E 15.92, P/S 2.10, P/B 2.93 | EV/Sales 2.38, EV/EBITDA 11.70 |
 | Growth expectations | Earnings growth -29.70%, EPS q/q -22.50% | Analyst mean target $62.41 (29 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -110,8 +110,8 @@ SLB N.V. engages in the provision of technology for the energy industry worldwid
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $51.54 | EV/Sales | 2.37 |
-| Market cap | $76.49B | EV/EBITDA | 11.68 |
+| Price | $51.54 | EV/Sales | 2.38 |
+| Market cap | $76.49B | EV/EBITDA | 11.70 |
 | Beta | 0.77 | Gross margin | 16.99% |
 | RSI(14) | 41.7 | Operating margin | 12.71% |
 | ATR(14) | 1.74 | Profit margin | 8.53% |
@@ -120,7 +120,7 @@ SLB N.V. engages in the provision of technology for the energy industry worldwid
 | SMA200 dist | +3.51% | Revenue (ttm) | $36.37B |
 | 52W high | $59.79 | Revenue growth y/y | 5.00% |
 | 52W low | $30.96 | Inst. ownership | 92.53% |
-| P/E (ttm) | 25.14 | Insider ownership | 0.22% |
+| P/E (ttm) | 25.39 | Insider ownership | 0.22% |
 | Forward P/E | 15.92 | Short float | 4.67% |
 | PEG (trailing) | 1.37 | Avg volume | 12,531,869 |
 | P/S | 2.10 | Employees | 109,000 |

@@ -5,7 +5,7 @@ Signed file: `MPLX.research.25.09.2026`
 | Field | Value |
 |---|---|
 | Current price | $56.80 (2026-09-25, ~15-min delayed) |
-| Market cap | $57.59B |
+| Market cap | $57.64B |
 | Sector / Industry | Energy / Oil & Gas Midstream |
 | Main theme | Oil & Gas Midstream — see catalysts below |
 | Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate. |
@@ -18,7 +18,7 @@ Signed file: `MPLX.research.25.09.2026`
 | Technical momentum | Moderate | 1Y +20.11%; price +2.95% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -5.69% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 39.28%, revenue growth 10.60%. |
-| Value attractiveness | Reasonable | Forward P/E 11.77, EV/Sales 6.99. |
+| Value attractiveness | Reasonable | Forward P/E 11.77, EV/Sales 6.89. |
 | Risk level | Moderate | Beta 0.46, ATR 1.9% of price, short float 1.81%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate.
@@ -68,7 +68,7 @@ MPLX LP owns and operates midstream energy infrastructure and logistics assets p
 | Revenue (ttm) | $12.03B | Revenue growth 10.60% y/y |
 | Profitability | Gross 55.71%, operating 38.25%, net 39.28% | ROA 7.25%, ROE 33.69% |
 | Balance sheet | Cash $1.03B, debt $26.13B | Current ratio 0.89, debt/equity 183.36 |
-| Valuation | P/E 12.22, forward P/E 11.77, P/S 4.79, P/B 4.11 | EV/Sales 6.99, EV/EBITDA 13.76 |
+| Valuation | P/E 12.22, forward P/E 11.77, P/S 4.79, P/B 4.11 | EV/Sales 6.89, EV/EBITDA 13.56 |
 | Growth expectations | Earnings growth 3.20%, EPS q/q 2.80% | Analyst mean target $62.85 (13 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -110,8 +110,8 @@ MPLX LP owns and operates midstream energy infrastructure and logistics assets p
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $56.80 | EV/Sales | 6.99 |
-| Market cap | $57.59B | EV/EBITDA | 13.76 |
+| Price | $56.80 | EV/Sales | 6.89 |
+| Market cap | $57.64B | EV/EBITDA | 13.56 |
 | Beta | 0.46 | Gross margin | 55.71% |
 | RSI(14) | 35.8 | Operating margin | 38.25% |
 | ATR(14) | 1.06 | Profit margin | 39.28% |

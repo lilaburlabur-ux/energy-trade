@@ -18,7 +18,7 @@ Signed file: `BE.research.25.09.2026`
 | Technical momentum | High | 1Y +317.32%; price +42.25% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -16.52% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 7.87%, revenue growth 165.50%. |
-| Value attractiveness | Low (expensive) | Forward P/E 58.58, EV/Sales 25.27. |
+| Value attractiveness | Low (expensive) | Forward P/E 58.58, EV/Sales 27.35. |
 | Risk level | High | Beta 3.81, ATR 6.6% of price, short float 7.34%. |
 
 **Bottom line:** High technical momentum, mixed fundamentals, value: low (expensive), risk: high.
@@ -36,10 +36,10 @@ Bloom Energy Corporation designs, manufactures, sells, and installs solid oxide 
 
 | Headline | Source | Date |
 |---|---|---|
+| Bloom Energy (BE) Is Up 8.7% After Oracle Reaffirms 2.4 GW AI Fuel Cell Deal Commitment – Has The Bull Case Changed? | Simply Wall St. | 2026-09-25 |
+| Is Bloom Energy Stock's Drop A Chance To Buy? | Trefis | 2026-09-25 |
 | Bloom Energy Stock Is Today’s Top S&P 500 Performer. It Has a Lot to Do With Oracle. | Barrons.com | 2026-09-25 |
 | Prediction: These 4 Stocks Will 4x in the Next 10 Years | Motley Fool | 2026-09-25 |
-| Bloom Energy Jumps 8% as Oracle Reaffirms 2.4 GW Fuel Cell Contract After Force Majeure Notice | 24/7 Wall St. | 2026-09-25 |
-| Dow Jones Futures Signal Rebound For Resilient Market; Tesla, Akamai, Taiwan Semi In Focus | Investor's Business Daily | 2026-09-25 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ Bloom Energy Corporation designs, manufactures, sells, and installs solid oxide 
 | Revenue (ttm) | $3.11B | Revenue growth 165.50% y/y |
 | Profitability | Gross 31.65%, operating 17.11%, net 7.87% | ROA 5.60%, ROE 22.21% |
 | Balance sheet | Cash $2.72B, debt $2.82B | Current ratio 4.09, debt/equity 171.58 |
-| Valuation | P/E 384.93, forward P/E 58.58, P/S 27.31, P/B 52.54 | EV/Sales 25.27, EV/EBITDA 187.97 |
+| Valuation | P/E 374.94, forward P/E 58.58, P/S 27.31, P/B 52.54 | EV/Sales 27.35, EV/EBITDA 203.49 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $280.24 (26 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ Bloom Energy Corporation designs, manufactures, sells, and installs solid oxide 
 | Value Aligned Research Advisors, LLC                           | 5,585,179 | 1.90% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 58.58, EV/Sales 25.27. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 58.58, EV/Sales 27.35. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 3.81, ATR 6.6% of price, short float 7.34%. Size positions accordingly.
 - **Short interest risk:** short float 7.34% can fuel squeezes both ways around news.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
@@ -112,8 +112,8 @@ Bloom Energy Corporation designs, manufactures, sells, and installs solid oxide 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $288.70 | EV/Sales | 25.27 |
-| Market cap | $85.03B | EV/EBITDA | 187.97 |
+| Price | $288.70 | EV/Sales | 27.35 |
+| Market cap | $85.03B | EV/EBITDA | 203.49 |
 | Beta | 3.81 | Gross margin | 31.65% |
 | RSI(14) | 62.8 | Operating margin | 17.11% |
 | ATR(14) | 19.20 | Profit margin | 7.87% |
@@ -122,7 +122,7 @@ Bloom Energy Corporation designs, manufactures, sells, and installs solid oxide 
 | SMA200 dist | +42.25% | Revenue (ttm) | $3.11B |
 | 52W high | $345.85 | Revenue growth y/y | 165.50% |
 | 52W low | $68.69 | Inst. ownership | 86.11% |
-| P/E (ttm) | 384.93 | Insider ownership | 5.54% |
+| P/E (ttm) | 374.94 | Insider ownership | 5.54% |
 | Forward P/E | 58.58 | Short float | 7.34% |
 | PEG (trailing) | 0.62 | Avg volume | 16,287,246 |
 | P/S | 27.31 | Employees | 2,214 |

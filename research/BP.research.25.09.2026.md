@@ -36,10 +36,10 @@ BP p.l.c., an integrated energy company, engages in the oil and gas business wor
 
 | Headline | Source | Date |
 |---|---|---|
-| Week’s Best: Top Dividend Stocks for a Rocky Market | Barrons.com | 2026-09-25 |
+| BP Walked Away From a Potential $4.5 Billion Bet on Devon Energy's Eagle Ford Shale. Here's What It Means for BP and DVN Stock. | Motley Fool | 2026-09-25 |
 | Energy & Utilities Roundup: Market Talk | The Wall Street Journal | 2026-09-25 |
+| Week’s Best: Top Dividend Stocks for a Rocky Market | Barrons.com | 2026-09-25 |
 | Is BP (LSE:BP.) Cheap On Eagle Ford Deal Talk? | Simply Wall St. | 2026-09-25 |
-| Morning Minute: BlackRock Leans Deeper Into Tokenization with Ondo | decrypt | 2026-09-25 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

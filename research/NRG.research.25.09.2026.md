@@ -18,7 +18,7 @@ Signed file: `NRG.research.25.09.2026`
 | Technical momentum | Low | Below SMA200 (-29.23%) with negative half-year (-30.86%). |
 | Fresh setup quality | Poor / broken | -45.10% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 2.56%, revenue growth 11.00%. |
-| Value attractiveness | Reasonable | Forward P/E 8.97, EV/Sales 1.34. |
+| Value attractiveness | Reasonable | Forward P/E 8.97, EV/Sales 1.36. |
 | Risk level | Elevated | Beta 1.17, ATR 4.2% of price, short float 3.71%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
@@ -36,10 +36,10 @@ NRG Energy, Inc., together with its subsidiaries, operates as an energy and home
 
 | Headline | Source | Date |
 |---|---|---|
+| NRG Energy (NRG) Outpaces Stock Market Gains: What You Should Know | Zacks | 2026-09-25 |
 | VST Keeps Writing Checks To Its Shareholders | Trefis | 2026-09-25 |
 | Clearway Energy (CWEN) Suffers a Larger Drop Than the General Market: Key Insights | Zacks | 2026-09-24 |
 | NRG Energy (NRG) Falls More Steeply Than Broader Market: What Investors Need to Know | Zacks | 2026-09-23 |
-| NRG Energy, Inc. (NRG) is Attracting Investor Attention: Here is What You Should Know | Zacks | 2026-09-23 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ NRG Energy, Inc., together with its subsidiaries, operates as an energy and home
 | Revenue (ttm) | $33.12B | Revenue growth 11.00% y/y |
 | Profitability | Gross 18.80%, operating 12.77%, net 2.56% | ROA 4.06%, ROE 23.77% |
 | Balance sheet | Cash $162.00M, debt $23.47B | Current ratio 0.97, debt/equity 483.36 |
-| Valuation | P/E 26.14, forward P/E 8.97, P/S 0.64, P/B 5.02 | EV/Sales 1.34, EV/EBITDA 13.69 |
+| Valuation | P/E 26.14, forward P/E 8.97, P/S 0.64, P/B 5.02 | EV/Sales 1.36, EV/EBITDA 13.85 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $188.56 (16 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -111,8 +111,8 @@ NRG Energy, Inc., together with its subsidiaries, operates as an energy and home
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $100.37 | EV/Sales | 1.34 |
-| Market cap | $21.10B | EV/EBITDA | 13.69 |
+| Price | $100.37 | EV/Sales | 1.36 |
+| Market cap | $21.10B | EV/EBITDA | 13.85 |
 | Beta | 1.17 | Gross margin | 18.80% |
 | RSI(14) | 35.1 | Operating margin | 12.77% |
 | ATR(14) | 4.17 | Profit margin | 2.56% |

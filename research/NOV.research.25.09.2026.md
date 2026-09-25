@@ -68,7 +68,7 @@ NOV Inc. designs, constructs, manufactures, and sells systems, components, and p
 | Revenue (ttm) | $8.64B | Revenue growth -2.50% y/y |
 | Profitability | Gross 21.65%, operating 7.17%, net 1.10% | ROA 3.45%, ROE 1.54% |
 | Balance sheet | Cash $1.16B, debt $2.33B | Current ratio 2.42, debt/equity 37.15 |
-| Valuation | P/E 76.38, forward P/E 15.52, P/S 0.82, P/B 1.14 | EV/Sales 0.96, EV/EBITDA 8.43 |
+| Valuation | P/E 73.56, forward P/E 15.52, P/S 0.82, P/B 1.14 | EV/Sales 0.96, EV/EBITDA 8.41 |
 | Growth expectations | Earnings growth 7.60%, EPS q/q 3.70% | Analyst mean target $22.24 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -112,7 +112,7 @@ NOV Inc. designs, constructs, manufactures, and sells systems, components, and p
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $19.86 | EV/Sales | 0.96 |
-| Market cap | $7.08B | EV/EBITDA | 8.43 |
+| Market cap | $7.08B | EV/EBITDA | 8.41 |
 | Beta | 0.94 | Gross margin | 21.65% |
 | RSI(14) | 40.4 | Operating margin | 7.17% |
 | ATR(14) | 0.64 | Profit margin | 1.10% |
@@ -121,7 +121,7 @@ NOV Inc. designs, constructs, manufactures, and sells systems, components, and p
 | SMA200 dist | +3.91% | Revenue (ttm) | $8.64B |
 | 52W high | $21.62 | Revenue growth y/y | -2.50% |
 | 52W low | $12.04 | Inst. ownership | 108.43% |
-| P/E (ttm) | 76.38 | Insider ownership | 0.73% |
+| P/E (ttm) | 73.56 | Insider ownership | 0.73% |
 | Forward P/E | 15.52 | Short float | 14.14% |
 | PEG (trailing) | 0.82 | Avg volume | 3,326,803 |
 | P/S | 0.82 | Employees | 31,605 |

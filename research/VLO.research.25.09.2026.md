@@ -18,7 +18,7 @@ Signed file: `VLO.research.25.09.2026`
 | Technical momentum | High | 1Y +131.45%; price +52.90% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -6.32% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 5.45%, revenue growth 51.70%. |
-| Value attractiveness | Reasonable | Forward P/E 10.18, EV/Sales 0.88. |
+| Value attractiveness | Reasonable | Forward P/E 10.18, EV/Sales 0.89. |
 | Risk level | Elevated | Beta 0.57, ATR 4.0% of price, short float 3.91%. |
 
 **Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
@@ -38,6 +38,8 @@ Valero Energy Corporation manufactures, markets, and sells petroleum-based and l
 |---|---|---|
 | What Happens To ExxonMobil Stock If Refining Profits Fade? | Trefis | 2026-09-25 |
 | What Does Valero Energy (VLO) Face If Diesel Exports Are Curbed? | Simply Wall St. | 2026-09-25 |
+| Eni Advances Indonesia Offshore Exploration With Sapukala Block | Zacks | 2026-09-25 |
+| Keep Portfolio Swings in Check With VLO, PBF, FET & E | Zacks | 2026-09-25 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -66,7 +68,7 @@ Valero Energy Corporation manufactures, markets, and sells petroleum-based and l
 | Revenue (ttm) | $132.43B | Revenue growth 51.70% y/y |
 | Profitability | Gross 16.12%, operating 12.27%, net 5.45% | ROA 10.56%, ROE 27.64% |
 | Balance sheet | Cash $7.87B, debt $11.35B | Current ratio 1.64, debt/equity 40.15 |
-| Valuation | P/E 16.15, forward P/E 10.18, P/S 0.84, P/B 4.46 | EV/Sales 0.88, EV/EBITDA 8.74 |
+| Valuation | P/E 16.15, forward P/E 10.18, P/S 0.84, P/B 4.46 | EV/Sales 0.89, EV/EBITDA 8.84 |
 | Growth expectations | Earnings growth 453.50%, EPS q/q 421.00% | Analyst mean target $360.32 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -109,8 +111,8 @@ Valero Energy Corporation manufactures, markets, and sells petroleum-based and l
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $387.18 | EV/Sales | 0.88 |
-| Market cap | $111.48B | EV/EBITDA | 8.74 |
+| Price | $387.18 | EV/Sales | 0.89 |
+| Market cap | $111.48B | EV/EBITDA | 8.84 |
 | Beta | 0.57 | Gross margin | 16.12% |
 | RSI(14) | 58.3 | Operating margin | 12.27% |
 | ATR(14) | 15.67 | Profit margin | 5.45% |

@@ -18,7 +18,7 @@ Signed file: `OKLO.research.25.09.2026`
 | Technical momentum | Low | Below SMA200 (-37.56%) with negative half-year (-26.58%). |
 | Fresh setup quality | Poor / broken | -78.16% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 0.00%, revenue growth —. |
-| Value attractiveness | Reasonable | Forward P/E -36.78, EV/Sales 3,852.57. |
+| Value attractiveness | Reasonable | Forward P/E -37.69, EV/Sales 3,814.13. |
 | Risk level | High | Beta 1.20, ATR 6.7% of price, short float 20.52%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: high.
@@ -68,7 +68,7 @@ Oklo Inc. develops fission power plants to provide energy at scale to customers 
 | Revenue (ttm) | $1.21M | Revenue growth — y/y |
 | Profitability | Gross 40.41%, operating -6048.76%, net 0.00% | ROA -6.65%, ROE -7.70% |
 | Balance sheet | Cash $2.47B, debt $4.15M | Current ratio 48.46, debt/equity 0.13 |
-| Valuation | P/E —, forward P/E -36.78, P/S 5,848.03, P/B 2.15 | EV/Sales 3,852.57, EV/EBITDA -21.50 |
+| Valuation | P/E —, forward P/E -37.69, P/S 5,848.03, P/B 2.15 | EV/Sales 3,814.13, EV/EBITDA -21.29 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $76.42 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -112,8 +112,8 @@ Oklo Inc. develops fission power plants to provide energy at scale to customers 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $38.04 | EV/Sales | 3,852.57 |
-| Market cap | $7.08B | EV/EBITDA | -21.50 |
+| Price | $38.04 | EV/Sales | 3,814.13 |
+| Market cap | $7.08B | EV/EBITDA | -21.29 |
 | Beta | 1.20 | Gross margin | 40.41% |
 | RSI(14) | 44.9 | Operating margin | -6048.76% |
 | ATR(14) | 2.54 | Profit margin | 0.00% |
@@ -123,7 +123,7 @@ Oklo Inc. develops fission power plants to provide energy at scale to customers 
 | 52W high | $174.14 | Revenue growth y/y | — |
 | 52W low | $35.62 | Inst. ownership | 47.55% |
 | P/E (ttm) | — | Insider ownership | 15.38% |
-| Forward P/E | -36.78 | Short float | 20.52% |
+| Forward P/E | -37.69 | Short float | 20.52% |
 | PEG (trailing) | — | Avg volume | 9,825,360 |
 | P/S | 5,848.03 | Employees | 215 |
 | P/B | 2.15 | Analyst rec (1=buy..5=sell) | 2.1 |

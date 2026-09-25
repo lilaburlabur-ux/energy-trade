@@ -32,6 +32,15 @@ Signed file: `ET.research.25.09.2026`
 ## 2. Company Overview and Recent Catalysts
 Energy Transfer LP, together with its subsidiaries, provides energy-related services in the United States. It operates through Intrastate Transportation and Storage; Interstate Transportation and Storage; Midstream; Natural Gas Liquid (NGL) and Refined Products Transportation and Services; Crude Oil Transportation and Services; Investment in Sunoco LP; Investment in USA Compression Partners, LP (USAC); and All Other segments.
 
+**Recent headlines (potential catalysts):**
+
+| Headline | Source | Date |
+|---|---|---|
+| 3 Reasons Why Energy Transfer Is One of My Largest Positions | Motley Fool | 2026-09-25 |
+| ET vs. KMI: Which Energy Infrastructure Stock Offers More Potential? | Zacks | 2026-09-25 |
+| 5 Midstream Giants That Raised Dividends Through Market Cycles: Your Guide to Recession-Resistant Income | 24/7 Wall St. | 2026-09-25 |
+| Energy Transfer (ET) And The Growth Backlog Narrative Behind Its Valuation | Simply Wall St. | 2026-09-25 |
+
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|

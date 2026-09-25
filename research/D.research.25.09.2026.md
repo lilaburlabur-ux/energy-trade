@@ -18,7 +18,7 @@ Signed file: `D.research.25.09.2026`
 | Technical momentum | Moderate | 1Y +3.69%; price -3.96% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -14.50% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 13.98%, revenue growth 17.60%. |
-| Value attractiveness | Reasonable | Forward P/E 15.91, EV/Sales 6.21. |
+| Value attractiveness | Reasonable | Forward P/E 15.91, EV/Sales 6.22. |
 | Risk level | Moderate | Beta 0.62, ATR 1.8% of price, short float 2.54%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -68,7 +68,7 @@ Dominion Energy, Inc. provides regulated electricity and natural gas services in
 | Revenue (ttm) | $18.12B | Revenue growth 17.60% y/y |
 | Profitability | Gross 46.22%, operating 29.22%, net 13.98% | ROA 3.04%, ROE 8.28% |
 | Balance sheet | Cash $298.00M, debt $53.93B | Current ratio 0.81, debt/equity 160.46 |
-| Valuation | P/E 21.29, forward P/E 15.91, P/S 2.95, P/B 1.91 | EV/Sales 6.21, EV/EBITDA 13.48 |
+| Valuation | P/E 21.00, forward P/E 15.91, P/S 2.95, P/B 1.91 | EV/Sales 6.22, EV/EBITDA 13.51 |
 | Growth expectations | Earnings growth -58.00%, EPS q/q -55.30% | Analyst mean target $70.91 (11 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -109,8 +109,8 @@ Dominion Energy, Inc. provides regulated electricity and natural gas services in
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $60.68 | EV/Sales | 6.21 |
-| Market cap | $53.37B | EV/EBITDA | 13.48 |
+| Price | $60.68 | EV/Sales | 6.22 |
+| Market cap | $53.37B | EV/EBITDA | 13.51 |
 | Beta | 0.62 | Gross margin | 46.22% |
 | RSI(14) | 25.1 | Operating margin | 29.22% |
 | ATR(14) | 1.07 | Profit margin | 13.98% |
@@ -119,7 +119,7 @@ Dominion Energy, Inc. provides regulated electricity and natural gas services in
 | SMA200 dist | -3.96% | Revenue (ttm) | $18.12B |
 | 52W high | $70.97 | Revenue growth y/y | 17.60% |
 | 52W low | $55.36 | Inst. ownership | 83.03% |
-| P/E (ttm) | 21.29 | Insider ownership | 0.13% |
+| P/E (ttm) | 21.00 | Insider ownership | 0.13% |
 | Forward P/E | 15.91 | Short float | 2.54% |
 | PEG (trailing) | 2.38 | Avg volume | 4,459,171 |
 | P/S | 2.95 | Employees | 15,200 |

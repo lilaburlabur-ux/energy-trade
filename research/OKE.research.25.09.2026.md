@@ -18,7 +18,7 @@ Signed file: `OKE.research.25.09.2026`
 | Technical momentum | Moderate | 1Y +26.84%; price +4.33% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -9.11% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 9.29%, revenue growth 52.80%. |
-| Value attractiveness | Reasonable | Forward P/E 14.21, EV/Sales 2.30. |
+| Value attractiveness | Reasonable | Forward P/E 14.21, EV/Sales 2.26. |
 | Risk level | Moderate | Beta 0.72, ATR 2.8% of price, short float 4.88%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -68,7 +68,7 @@ ONEOK, Inc. operates as a midstream service provider of gathering, processing, f
 | Revenue (ttm) | $39.37B | Revenue growth 52.80% y/y |
 | Profitability | Gross 27.21%, operating 13.25%, net 9.29% | ROA 5.77%, ROE 16.28% |
 | Balance sheet | Cash $161.00M, debt $33.02B | Current ratio 0.74, debt/equity 143.07 |
-| Valuation | P/E 15.20, forward P/E 14.21, P/S 1.42, P/B 2.44 | EV/Sales 2.30, EV/EBITDA 11.80 |
+| Valuation | P/E 15.31, forward P/E 14.21, P/S 1.42, P/B 2.44 | EV/Sales 2.26, EV/EBITDA 11.59 |
 | Growth expectations | Earnings growth 14.20%, EPS q/q 14.90% | Analyst mean target $101.50 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -109,8 +109,8 @@ ONEOK, Inc. operates as a midstream service provider of gathering, processing, f
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $88.63 | EV/Sales | 2.30 |
-| Market cap | $55.87B | EV/EBITDA | 11.80 |
+| Price | $88.63 | EV/Sales | 2.26 |
+| Market cap | $55.87B | EV/EBITDA | 11.59 |
 | Beta | 0.72 | Gross margin | 27.21% |
 | RSI(14) | 35.4 | Operating margin | 13.25% |
 | ATR(14) | 2.50 | Profit margin | 9.29% |
@@ -119,7 +119,7 @@ ONEOK, Inc. operates as a midstream service provider of gathering, processing, f
 | SMA200 dist | +4.33% | Revenue (ttm) | $39.37B |
 | 52W high | $97.51 | Revenue growth y/y | 52.80% |
 | 52W low | $61.95 | Inst. ownership | 84.82% |
-| P/E (ttm) | 15.20 | Insider ownership | 0.15% |
+| P/E (ttm) | 15.31 | Insider ownership | 0.15% |
 | Forward P/E | 14.21 | Short float | 4.88% |
 | PEG (trailing) | 1.71 | Avg volume | 3,695,723 |
 | P/S | 1.42 | Employees | 6,326 |
