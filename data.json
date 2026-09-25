@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-25T01:00:50+00:00",
-  "as_of_local": "2026-09-25 01:00:50 UTC",
+  "as_of_utc": "2026-09-25T01:10:43+00:00",
+  "as_of_local": "2026-09-25 01:10:43 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -153,6 +153,12 @@
       "market_cap": 170852000000.0,
       "headlines": [
         {
+          "title": "What Could Go Wrong With Eaton Stock?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/could-wrong-eaton-stock-004824023.html",
+          "publisher": "Trefis",
+          "published": "2026-09-25T00:48:24Z"
+        },
+        {
           "title": "Could Eaton Corporation (ETN)\u2019s $242 Million Expansion Power its Next Data Center Growth Phase?",
           "url": "https://finance.yahoo.com/technology/articles/could-eaton-corporation-etn-242-203059824.html",
           "publisher": "Insider Monkey",
@@ -163,12 +169,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/4-manufacturing-electronics-stocks-watch-131700010.html",
           "publisher": "Zacks",
           "published": "2026-09-24T13:17:00Z"
-        },
-        {
-          "title": "Why Does Vertiv Cost The Most In A Group It Does Not Out-Grow?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-does-vertiv-cost-most-205622069.html",
-          "publisher": "Trefis",
-          "published": "2026-09-23T20:56:22Z"
         }
       ]
     },
@@ -1189,6 +1189,12 @@
       "market_cap": 24613638177.48,
       "headlines": [
         {
+          "title": "What Could Go Wrong With Eaton Stock?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/could-wrong-eaton-stock-004824023.html",
+          "publisher": "Trefis",
+          "published": "2026-09-25T00:48:24Z"
+        },
+        {
           "title": "Hubbell (HUBB) Faces A Valuation Test As Morgan Stanley Conference Puts Growth In Focus",
           "url": "https://finance.yahoo.com/markets/stocks/articles/hubbell-hubb-faces-valuation-test-111511298.html",
           "publisher": "Simply Wall St.",
@@ -1199,12 +1205,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/bull-case-hubbell-hubb-could-011040964.html",
           "publisher": "Simply Wall St.",
           "published": "2026-09-19T01:10:40Z"
-        },
-        {
-          "title": "Hubbell (HUBB) Stock Looks Fully Priced After Its 163% Run",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/hubbell-hubb-stock-looks-fully-231107744.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-09-18T23:11:07Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 93.75,
-      "change_pct": 1.73
+      "price": 93.61,
+      "change_pct": 1.57
     },
     {
       "label": "Brent",
-      "price": 106.1,
-      "change_pct": 2.93
+      "price": 105.82,
+      "change_pct": 2.66
     },
     {
       "label": "NatGas",
       "price": 3.26,
-      "change_pct": 7.87
+      "change_pct": 7.84
     }
   ]
 }
