@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-25T10:59:03+00:00",
-  "as_of_local": "2026-09-25 10:59:03 UTC",
+  "as_of_utc": "2026-09-25T11:04:11+00:00",
+  "as_of_local": "2026-09-25 11:04:11 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -150,7 +150,7 @@
       "price": 440.0,
       "previous_close": 438.76,
       "change_pct": 0.28,
-      "market_cap": 170896000000.0,
+      "market_cap": 170852000000.0,
       "headlines": [
         {
           "title": "Zacks Industry Outlook Highlights Eaton, Emerson Electric, A. O. Smith and EnerSys",
@@ -178,7 +178,7 @@
       "price": 75.62,
       "previous_close": 77.02,
       "change_pct": -1.82,
-      "market_cap": 157741677893.89026,
+      "market_cap": 157713482900.24622,
       "headlines": [
         {
           "title": "VST Keeps Writing Checks To Its Shareholders",
@@ -257,6 +257,34 @@
       ]
     },
     {
+      "symbol": "MPC",
+      "name": "Marathon Petroleum",
+      "price": 390.95,
+      "previous_close": 388.38,
+      "change_pct": 0.66,
+      "market_cap": 114132631016.92963,
+      "headlines": [
+        {
+          "title": "AMD, Marvell, Akamai, Chevron, and More Stocks That Explain Today\u2019s Market",
+          "url": "https://www.barrons.com/articles/stock-movers-4d9aad60?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-09-25T10:14:00Z"
+        },
+        {
+          "title": "5 Energy Stocks Positioned for a Prolonged Iran War",
+          "url": "https://finance.yahoo.com/energy/articles/5-energy-stocks-positioned-prolonged-000000170.html",
+          "publisher": "Oilprice.com",
+          "published": "2026-09-25T00:00:00Z"
+        },
+        {
+          "title": "Why These S&P 500 Stocks Are Earning The Biggest EPS Upgrades",
+          "url": "https://www.investors.com/news/dell-stock-cien-mpc-vlo-psx-biggest-eps-estimate-upgrades/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-09-24T18:05:13Z"
+        }
+      ]
+    },
+    {
       "symbol": "VLO",
       "name": "Valero Energy",
       "price": 382.86,
@@ -281,34 +309,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-131757956.html",
           "publisher": "MT Newswires",
           "published": "2026-09-24T13:17:57Z"
-        }
-      ]
-    },
-    {
-      "symbol": "MPC",
-      "name": "Marathon Petroleum",
-      "price": 390.95,
-      "previous_close": 388.38,
-      "change_pct": 0.66,
-      "market_cap": 109788444522.88666,
-      "headlines": [
-        {
-          "title": "AMD, Marvell, Akamai, Chevron, and More Stocks That Explain Today\u2019s Market",
-          "url": "https://www.barrons.com/articles/stock-movers-4d9aad60?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-09-25T10:14:00Z"
-        },
-        {
-          "title": "5 Energy Stocks Positioned for a Prolonged Iran War",
-          "url": "https://finance.yahoo.com/energy/articles/5-energy-stocks-positioned-prolonged-000000170.html",
-          "publisher": "Oilprice.com",
-          "published": "2026-09-25T00:00:00Z"
-        },
-        {
-          "title": "Why These S&P 500 Stocks Are Earning The Biggest EPS Upgrades",
-          "url": "https://www.investors.com/news/dell-stock-cien-mpc-vlo-psx-biggest-eps-estimate-upgrades/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-09-24T18:05:13Z"
         }
       ]
     },
@@ -654,7 +654,7 @@
       "price": 142.86,
       "previous_close": 141.84,
       "change_pct": 0.72,
-      "market_cap": 74934238403.5072,
+      "market_cap": 76091312120.89066,
       "headlines": [
         {
           "title": "Sector Update: Energy Stocks Rise Late Afternoon",
@@ -741,6 +741,12 @@
       "market_cap": 60716142287.36691,
       "headlines": [
         {
+          "title": "Targa Resources (TRGP) Secures 230 Megawatts Of Long Term Power Capacity",
+          "url": "https://finance.yahoo.com/energy/articles/targa-resources-trgp-secures-230-090930410.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-09-25T09:09:30Z"
+        },
+        {
           "title": "ProPetro's PROPWR Expands Power Footprint With Targa Deal",
           "url": "https://finance.yahoo.com/energy/articles/propetros-propwr-expands-power-footprint-145700129.html",
           "publisher": "Zacks",
@@ -751,12 +757,6 @@
           "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-fall-pre-132701797.html",
           "publisher": "MT Newswires",
           "published": "2026-09-22T13:27:01Z"
-        },
-        {
-          "title": "Targa Resources (TRGP) Gets a Fresh Vote of Confidence from TD Cowen",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/targa-resources-trgp-gets-fresh-155123097.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-09-20T15:51:23Z"
         }
       ]
     },
@@ -1074,7 +1074,7 @@
       "price": 66.56,
       "previous_close": 67.31,
       "change_pct": -1.11,
-      "market_cap": 33174835979.954224,
+      "market_cap": 33168271300.515015,
       "headlines": [
         {
           "title": "Public Service Enterprise Group CEO Sells 2,083 Shares",
@@ -1494,7 +1494,7 @@
       "price": 28.27,
       "previous_close": 29.08,
       "change_pct": -2.79,
-      "market_cap": 8484155804.4002,
+      "market_cap": 8573611669.378719,
       "headlines": [
         {
           "title": "3 Reasons to Buy Brookfield Renewable Before September Ends",
@@ -1606,7 +1606,7 @@
       "price": 84.13,
       "previous_close": 84.66,
       "change_pct": -0.63,
-      "market_cap": 6016313113.10614,
+      "market_cap": 6030896122.70005,
       "headlines": [
         {
           "title": "Weatherford International (WFRD) Heads To TD Cowen As Fair Value Narrative Stays In Focus",
@@ -1662,7 +1662,7 @@
       "price": 32.82,
       "previous_close": 33.07,
       "change_pct": -0.76,
-      "market_cap": 4336987307.032654,
+      "market_cap": 4325617540.178375,
       "headlines": [
         {
           "title": "First Solar, Enphase, SolarEdge, Alight, and Goodyear Shares Are Falling, What You Need To Know",
@@ -1746,7 +1746,7 @@
       "price": 11.32,
       "previous_close": 11.6,
       "change_pct": -2.41,
-      "market_cap": 2997236754.2375183,
+      "market_cap": 2829603723.716736,
       "headlines": [
         {
           "title": "Here's Why Energy Fuels (UUUU) Fell More Than Broader Market",
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 92.96,
-      "change_pct": -1.74
+      "price": 93.04,
+      "change_pct": -1.66
     },
     {
       "label": "Brent",
-      "price": 98.85,
-      "change_pct": -7.27
+      "price": 98.88,
+      "change_pct": -7.24
     },
     {
       "label": "NatGas",
-      "price": 3.24,
-      "change_pct": -1.64
+      "price": 3.25,
+      "change_pct": -1.46
     }
   ]
 }
