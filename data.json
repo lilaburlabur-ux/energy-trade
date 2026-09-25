@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-25T07:47:48+00:00",
-  "as_of_local": "2026-09-25 07:47:48 UTC",
+  "as_of_utc": "2026-09-25T08:03:00+00:00",
+  "as_of_local": "2026-09-25 08:03:00 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -125,6 +125,12 @@
       "market_cap": 202988228293.532,
       "headlines": [
         {
+          "title": "HSBC shuffles oil stocks ratings, upgrades BP and TotalEnergies to Buy",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/hsbc-shuffles-oil-stocks-ratings-074201093.html",
+          "publisher": "Investing.com",
+          "published": "2026-09-25T07:42:01Z"
+        },
+        {
           "title": "Could TotalEnergies (TTE)\u2019 LNG Growth Give it an Edge Over ExxonMobil (XOM)?",
           "url": "https://finance.yahoo.com/energy/articles/could-totalenergies-tte-lng-growth-210805612.html",
           "publisher": "Insider Monkey",
@@ -135,12 +141,6 @@
           "url": "https://finance.yahoo.com/energy/articles/cvx-vs-tte-energy-major-124200758.html",
           "publisher": "Zacks",
           "published": "2026-09-24T12:42:00Z"
-        },
-        {
-          "title": "Sector Update: Energy Stocks Rise Late Afternoon",
-          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-rise-afternoon-195603421.html",
-          "publisher": "MT Newswires",
-          "published": "2026-09-23T19:56:03Z"
         }
       ]
     },
@@ -237,6 +237,12 @@
       "market_cap": 114370950617.11395,
       "headlines": [
         {
+          "title": "HSBC shuffles oil stocks ratings, upgrades BP and TotalEnergies to Buy",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/hsbc-shuffles-oil-stocks-ratings-074201093.html",
+          "publisher": "Investing.com",
+          "published": "2026-09-25T07:42:01Z"
+        },
+        {
           "title": "BP (LSE:BP.) Stock Could Be A Bargain Despite Its 115% Run",
           "url": "https://finance.yahoo.com/markets/stocks/articles/bp-lse-bp-stock-could-211843773.html",
           "publisher": "Simply Wall St.",
@@ -247,12 +253,6 @@
           "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-rise-afternoon-195809963.html",
           "publisher": "MT Newswires",
           "published": "2026-09-24T19:58:09Z"
-        },
-        {
-          "title": "European Equities Traded in the US as American Depositary Receipts Edge Lower in Thursday Trading",
-          "url": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-american-151042797.html",
-          "publisher": "MT Newswires",
-          "published": "2026-09-24T15:10:42Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 93.38,
-      "change_pct": -1.3
+      "price": 93.66,
+      "change_pct": -1.0
     },
     {
       "label": "Brent",
-      "price": 99.12,
-      "change_pct": -7.02
+      "price": 99.41,
+      "change_pct": -6.74
     },
     {
       "label": "NatGas",
       "price": 3.27,
-      "change_pct": -0.76
+      "change_pct": -0.91
     }
   ]
 }
