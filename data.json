@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-25T10:33:52+00:00",
-  "as_of_local": "2026-09-25 10:33:52 UTC",
+  "as_of_utc": "2026-09-25T10:38:55+00:00",
+  "as_of_local": "2026-09-25 10:38:55 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -1105,6 +1105,12 @@
       "market_cap": 32445514251.87683,
       "headlines": [
         {
+          "title": "Update: WhiteHawk Minerals Closes $111.8 Million in Acquisitions",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/whitehawk-minerals-closes-111-8-103017880.html",
+          "publisher": "MT Newswires",
+          "published": "2026-09-25T10:30:17Z"
+        },
+        {
           "title": "EQT Corporation Stock: Is EQT Underperforming the Energy Sector?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/eqt-corporation-stock-eqt-underperforming-102427643.html",
           "publisher": "Barchart",
@@ -1115,12 +1121,6 @@
           "url": "https://finance.yahoo.com/energy/articles/top-natural-gas-stock-pick-112600027.html",
           "publisher": "Motley Fool",
           "published": "2026-09-18T11:26:00Z"
-        },
-        {
-          "title": "EQT Stock Is Down 26% From Its 2026 Highs. Here\u2019s What Could Turn It Around",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/eqt-stock-down-26-2026-235603885.html",
-          "publisher": "TIKR",
-          "published": "2026-09-16T23:56:03Z"
         }
       ]
     },
@@ -1469,6 +1469,12 @@
       "market_cap": 11095473556.911469,
       "headlines": [
         {
+          "title": "Update: WhiteHawk Minerals Closes $111.8 Million in Acquisitions",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/whitehawk-minerals-closes-111-8-103017880.html",
+          "publisher": "MT Newswires",
+          "published": "2026-09-25T10:30:17Z"
+        },
+        {
           "title": "Data Center Buildout Boosts Natural Gas Use: WMB, AR & KMI to Gain?",
           "url": "https://finance.yahoo.com/energy/articles/data-center-buildout-boosts-natural-125600245.html",
           "publisher": "Zacks",
@@ -1479,12 +1485,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/antero-resources-ar-buy-sell-180731566.html",
           "publisher": "StockStory",
           "published": "2026-09-15T18:07:31Z"
-        },
-        {
-          "title": "Natural Gas Ends Week Lower, but LNG Demand Offers Support",
-          "url": "https://finance.yahoo.com/energy/articles/natural-gas-ends-week-lower-133200131.html",
-          "publisher": "Zacks",
-          "published": "2026-09-14T13:32:00Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 92.93,
-      "change_pct": -1.78
+      "price": 92.86,
+      "change_pct": -1.85
     },
     {
       "label": "Brent",
-      "price": 98.87,
-      "change_pct": -7.25
+      "price": 98.82,
+      "change_pct": -7.3
     },
     {
       "label": "NatGas",
       "price": 3.24,
-      "change_pct": -1.61
+      "change_pct": -1.73
     }
   ]
 }
