@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-25T13:16:07+00:00",
-  "as_of_local": "2026-09-25 13:16:07 UTC",
+  "as_of_utc": "2026-09-25T13:21:08+00:00",
+  "as_of_local": "2026-09-25 13:21:08 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -69,6 +69,12 @@
       "market_cap": 272713397978.40054,
       "headlines": [
         {
+          "title": "Shell & NGC Reach Gas Deal to Advance Trinidad's Aphrodite Project",
+          "url": "https://finance.yahoo.com/energy/articles/shell-ngc-reach-gas-deal-120900485.html",
+          "publisher": "Zacks",
+          "published": "2026-09-25T12:09:00Z"
+        },
+        {
           "title": "5 Energy Stocks Positioned for a Prolonged Iran War",
           "url": "https://finance.yahoo.com/energy/articles/5-energy-stocks-positioned-prolonged-000000170.html",
           "publisher": "Oilprice.com",
@@ -79,12 +85,6 @@
           "url": "https://finance.yahoo.com/energy/articles/could-constellation-energy-ceg-715-221615563.html",
           "publisher": "Insider Monkey",
           "published": "2026-09-24T22:16:15Z"
-        },
-        {
-          "title": "European Markets Close Lower in Thursday Trading as Bond Yields, Oil Prices Rise",
-          "url": "https://finance.yahoo.com/markets/world-indices/articles/european-markets-close-lower-thursday-155012981.html",
-          "publisher": "MT Newswires",
-          "published": "2026-09-24T15:50:12Z"
         }
       ]
     },
@@ -265,6 +265,12 @@
       "market_cap": 114132631016.92963,
       "headlines": [
         {
+          "title": "Shell & NGC Reach Gas Deal to Advance Trinidad's Aphrodite Project",
+          "url": "https://finance.yahoo.com/energy/articles/shell-ngc-reach-gas-deal-120900485.html",
+          "publisher": "Zacks",
+          "published": "2026-09-25T12:09:00Z"
+        },
+        {
           "title": "Buy These 3 Momentum Stocks to Profit From the Oil Surge",
           "url": "https://finance.yahoo.com/energy/articles/buy-3-momentum-stocks-profit-105900759.html",
           "publisher": "Zacks",
@@ -275,12 +281,6 @@
           "url": "https://www.barrons.com/articles/stock-movers-4d9aad60?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
           "published": "2026-09-25T10:14:00Z"
-        },
-        {
-          "title": "5 Energy Stocks Positioned for a Prolonged Iran War",
-          "url": "https://finance.yahoo.com/energy/articles/5-energy-stocks-positioned-prolonged-000000170.html",
-          "publisher": "Oilprice.com",
-          "published": "2026-09-25T00:00:00Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 92.76,
-      "change_pct": -1.96
+      "price": 92.47,
+      "change_pct": -2.26
     },
     {
       "label": "Brent",
-      "price": 98.43,
-      "change_pct": -7.66
+      "price": 98.19,
+      "change_pct": -7.89
     },
     {
       "label": "NatGas",
-      "price": 3.27,
-      "change_pct": -0.94
+      "price": 3.25,
+      "change_pct": -1.4
     }
   ]
 }
