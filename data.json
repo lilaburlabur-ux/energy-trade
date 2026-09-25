@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-25T06:22:28+00:00",
-  "as_of_local": "2026-09-25 06:22:28 UTC",
+  "as_of_utc": "2026-09-25T06:37:30+00:00",
+  "as_of_local": "2026-09-25 06:37:30 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -571,26 +571,7 @@
       "previous_close": 37.57,
       "change_pct": -0.8,
       "market_cap": 80483715077.1602,
-      "headlines": [
-        {
-          "title": "This Stock Pays a 6% Yield \u2014 and Has Raised Its Dividend for 28 Straight Years",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-pays-6-yield-raised-233002098.html",
-          "publisher": "Barchart",
-          "published": "2026-09-24T23:30:02Z"
-        },
-        {
-          "title": "Why ONEOK\u2019s Dividend Raise Matters More Than Its Eye-Catching Yield",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-oneok-dividend-raise-matters-143233868.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-09-24T14:32:33Z"
-        },
-        {
-          "title": "Enterprise Products Partners (EPD) Stock Moves -1.20%: What You Should Know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/enterprise-products-partners-epd-stock-214504643.html",
-          "publisher": "Zacks",
-          "published": "2026-09-22T21:45:04Z"
-        }
-      ]
+      "headlines": []
     },
     {
       "symbol": "BE",
@@ -1525,6 +1506,12 @@
       "market_cap": 7122615988.804245,
       "headlines": [
         {
+          "title": "The Math Doesn't Lie: What Oklo's Stock Sales Actually Cost Investors",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/math-doesnt-lie-oklos-stock-062500253.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-25T06:25:00Z"
+        },
+        {
           "title": "NuScale Power Stock Is Just One Of 3 Top Nuclear Stocks",
           "url": "https://finance.yahoo.com/energy/articles/nuscale-power-stock-just-one-011715369.html",
           "publisher": "Simply Wall St.",
@@ -1535,12 +1522,6 @@
           "url": "https://finance.yahoo.com/energy/articles/x-energy-building-model-industrial-152100893.html",
           "publisher": "Zacks",
           "published": "2026-09-23T15:21:00Z"
-        },
-        {
-          "title": "Oklo vs. NuScale vs. BWX Technologies: Ranking the 3 Popular Nuclear Stocks From Worst to First",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/oklo-vs-nuscale-vs-bwx-110500181.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-23T11:05:00Z"
         }
       ]
     },
@@ -2115,18 +2096,18 @@
     },
     {
       "label": "WTI",
-      "price": 92.4,
-      "change_pct": -2.34
+      "price": 93.03,
+      "change_pct": -1.67
     },
     {
       "label": "Brent",
-      "price": 105.06,
-      "change_pct": -1.44
+      "price": 105.67,
+      "change_pct": -0.87
     },
     {
       "label": "NatGas",
-      "price": 3.27,
-      "change_pct": -0.7
+      "price": 3.26,
+      "change_pct": -1.18
     }
   ]
 }
