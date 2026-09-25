@@ -36,10 +36,10 @@ Devon Energy Corporation, an independent energy company, engages in the explorat
 
 | Headline | Source | Date |
 |---|---|---|
-| Stocks Rise as Crude Prices Fall and Bond Yields Stabilize | Barchart | 2026-09-25 |
 | Is BP (LSE:BP.) Cheap On Eagle Ford Deal Talk? | Simply Wall St. | 2026-09-25 |
 | Sector Update: Energy Stocks Rise Late Afternoon | MT Newswires | 2026-09-24 |
 | Sector Update: Energy Stocks Rise Wednesday Afternoon | MT Newswires | 2026-09-23 |
+| Is EOG Resources Stock A Buy For Its Shrinking Share Count? | Trefis | 2026-09-23 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

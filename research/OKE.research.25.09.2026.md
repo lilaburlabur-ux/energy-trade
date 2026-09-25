@@ -68,7 +68,7 @@ ONEOK, Inc. operates as a midstream service provider of gathering, processing, f
 | Revenue (ttm) | $39.37B | Revenue growth 52.80% y/y |
 | Profitability | Gross 27.21%, operating 13.25%, net 9.29% | ROA 5.77%, ROE 16.28% |
 | Balance sheet | Cash $161.00M, debt $33.02B | Current ratio 0.74, debt/equity 143.07 |
-| Valuation | P/E 15.31, forward P/E 14.21, P/S 1.42, P/B 2.44 | EV/Sales 2.30, EV/EBITDA 11.80 |
+| Valuation | P/E 15.20, forward P/E 14.21, P/S 1.42, P/B 2.44 | EV/Sales 2.30, EV/EBITDA 11.80 |
 | Growth expectations | Earnings growth 14.20%, EPS q/q 14.90% | Analyst mean target $101.50 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -119,7 +119,7 @@ ONEOK, Inc. operates as a midstream service provider of gathering, processing, f
 | SMA200 dist | +4.33% | Revenue (ttm) | $39.37B |
 | 52W high | $97.51 | Revenue growth y/y | 52.80% |
 | 52W low | $61.95 | Inst. ownership | 84.82% |
-| P/E (ttm) | 15.31 | Insider ownership | 0.15% |
+| P/E (ttm) | 15.20 | Insider ownership | 0.15% |
 | Forward P/E | 14.21 | Short float | 4.88% |
 | PEG (trailing) | 1.71 | Avg volume | 3,695,723 |
 | P/S | 1.42 | Employees | 6,326 |
