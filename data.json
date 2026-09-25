@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-09-25T10:44:08+00:00",
-  "as_of_local": "2026-09-25 10:44:08 UTC",
+  "as_of_utc": "2026-09-25T10:48:57+00:00",
+  "as_of_local": "2026-09-25 10:48:57 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "SHEL"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -59,6 +57,34 @@
           "url": "https://www.investors.com/news/dow-jones-industrial-average-msft-aapl-cvx-ko-stock/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
           "published": "2026-09-24T18:14:59Z"
+        }
+      ]
+    },
+    {
+      "symbol": "SHEL",
+      "name": "Shell",
+      "price": 95.6,
+      "previous_close": 95.41,
+      "change_pct": 0.2,
+      "market_cap": 272713397978.40054,
+      "headlines": [
+        {
+          "title": "5 Energy Stocks Positioned for a Prolonged Iran War",
+          "url": "https://finance.yahoo.com/energy/articles/5-energy-stocks-positioned-prolonged-000000170.html",
+          "publisher": "Oilprice.com",
+          "published": "2026-09-25T00:00:00Z"
+        },
+        {
+          "title": "Could Constellation Energy (CEG)\u2019s $715 Million Shell (SHEL) Deal Accelerate its Power Growth?",
+          "url": "https://finance.yahoo.com/energy/articles/could-constellation-energy-ceg-715-221615563.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-09-24T22:16:15Z"
+        },
+        {
+          "title": "European Markets Close Lower in Thursday Trading as Bond Yields, Oil Prices Rise",
+          "url": "https://finance.yahoo.com/markets/world-indices/articles/european-markets-close-lower-thursday-155012981.html",
+          "publisher": "MT Newswires",
+          "published": "2026-09-24T15:50:12Z"
         }
       ]
     },
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 93.01,
-      "change_pct": -1.69
+      "price": 92.92,
+      "change_pct": -1.79
     },
     {
       "label": "Brent",
-      "price": 98.92,
-      "change_pct": -7.2
+      "price": 98.82,
+      "change_pct": -7.3
     },
     {
       "label": "NatGas",
       "price": 3.24,
-      "change_pct": -1.64
+      "change_pct": -1.73
     }
   ]
 }
