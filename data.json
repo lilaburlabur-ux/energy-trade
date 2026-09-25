@@ -1,8 +1,13 @@
 {
-  "as_of_utc": "2026-09-25T20:05:05+00:00",
-  "as_of_local": "2026-09-25 20:05:05 UTC",
+  "as_of_utc": "2026-09-25T20:10:14+00:00",
+  "as_of_local": "2026-09-25 20:10:14 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "ET",
+    "MPC",
+    "VLO",
+    "VRT"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -150,7 +155,7 @@
       "price": 439.88,
       "previous_close": 440.0,
       "change_pct": -0.03,
-      "market_cap": 170805405895.9961,
+      "market_cap": 170849393896.48438,
       "headlines": [
         {
           "title": "How Much Further Could Vertiv Stock Fall?",
@@ -178,7 +183,7 @@
       "price": 76.09,
       "previous_close": 75.62,
       "change_pct": 0.62,
-      "market_cap": 158693704052.50507,
+      "market_cap": 158722074283.72964,
       "headlines": [
         {
           "title": "Why Dominion Energy Halted Dividend Growth Despite Strong Operating Performance",
@@ -229,34 +234,6 @@
       ]
     },
     {
-      "symbol": "MPC",
-      "name": "Marathon Petroleum",
-      "price": 393.26,
-      "previous_close": 390.95,
-      "change_pct": 0.59,
-      "market_cap": 114807003931.0437,
-      "headlines": [
-        {
-          "title": "Marathon Petroleum (MPC) Could Be 20% Overvalued Following Diesel Export Ban Review",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/marathon-petroleum-mpc-could-20-191005280.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-09-25T19:10:05Z"
-        },
-        {
-          "title": "Marathon Petroleum (MPC) Faces Fresh Uncertainty After Trump Backs Diesel Export Ban",
-          "url": "https://finance.yahoo.com/energy/articles/marathon-petroleum-mpc-faces-fresh-160843977.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-09-25T16:08:43Z"
-        },
-        {
-          "title": "Marathon Petroleum (MPC) Is Up 7.31% in One Week: What You Should Know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/marathon-petroleum-mpc-7-31-150002268.html",
-          "publisher": "Zacks",
-          "published": "2026-09-25T15:00:02Z"
-        }
-      ]
-    },
-    {
       "symbol": "BP",
       "name": "BP",
       "price": 44.15,
@@ -281,34 +258,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/bp-lse-bp-cheap-eagle-131302203.html",
           "publisher": "Simply Wall St.",
           "published": "2026-09-25T13:13:02Z"
-        }
-      ]
-    },
-    {
-      "symbol": "VLO",
-      "name": "Valero Energy",
-      "price": 387.14,
-      "previous_close": 382.86,
-      "change_pct": 1.12,
-      "market_cap": 111469673725.57944,
-      "headlines": [
-        {
-          "title": "What Does Valero Energy (VLO) Face If Diesel Exports Are Curbed?",
-          "url": "https://finance.yahoo.com/energy/articles/does-valero-energy-vlo-face-181114647.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-09-25T18:11:14Z"
-        },
-        {
-          "title": "Eni Advances Indonesia Offshore Exploration With Sapukala Block",
-          "url": "https://finance.yahoo.com/energy/articles/eni-advances-indonesia-offshore-exploration-144000060.html",
-          "publisher": "Zacks",
-          "published": "2026-09-25T14:40:00Z"
-        },
-        {
-          "title": "Keep Portfolio Swings in Check With VLO, PBF, FET & E",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/keep-portfolio-swings-check-vlo-140400467.html",
-          "publisher": "Zacks",
-          "published": "2026-09-25T14:04:00Z"
         }
       ]
     },
@@ -393,34 +342,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/quanta-services-pwr-outperforming-other-124005833.html",
           "publisher": "Zacks",
           "published": "2026-09-25T12:40:05Z"
-        }
-      ]
-    },
-    {
-      "symbol": "VRT",
-      "name": "Vertiv",
-      "price": 253.3,
-      "previous_close": 245.3,
-      "change_pct": 3.26,
-      "market_cap": 97517505395.79066,
-      "headlines": [
-        {
-          "title": "How Much Further Could Vertiv Stock Fall?",
-          "url": "https://finance.yahoo.com/markets/options/articles/much-further-could-vertiv-stock-191945039.html",
-          "publisher": "Trefis",
-          "published": "2026-09-25T19:19:45Z"
-        },
-        {
-          "title": "Vertiv and 6 More AI Industrial Stocks to Buy Now",
-          "url": "https://www.barrons.com/articles/vertiv-carrier-trane-ai-industrial-stocks-buy-06322bd0?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-09-25T15:10:00Z"
-        },
-        {
-          "title": "Vertiv Holdings Co (VRT) Shares Drop Into Securities Probe After Q2 Miss",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/vertiv-holdings-co-vrt-shares-141241310.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-09-25T14:12:41Z"
         }
       ]
     },
@@ -654,7 +575,7 @@
       "price": 140.34,
       "previous_close": 142.86,
       "change_pct": -1.76,
-      "market_cap": 74749622349.23767,
+      "market_cap": 73612950881.84033,
       "headlines": [
         {
           "title": "COP vs. EOG: Which Energy Dividend Actually Survives the Next Oil Crash?",
@@ -673,34 +594,6 @@
           "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-rise-thursday-180651243.html",
           "publisher": "MT Newswires",
           "published": "2026-09-24T18:06:51Z"
-        }
-      ]
-    },
-    {
-      "symbol": "ET",
-      "name": "Energy Transfer",
-      "price": 20.2,
-      "previous_close": 20.33,
-      "change_pct": -0.64,
-      "market_cap": 69554654567.22911,
-      "headlines": [
-        {
-          "title": "3 Reasons Why Energy Transfer Is One of My Largest Positions",
-          "url": "https://finance.yahoo.com/energy/articles/3-reasons-why-energy-transfer-155000295.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-25T15:50:00Z"
-        },
-        {
-          "title": "ET vs. KMI: Which Energy Infrastructure Stock Offers More Potential?",
-          "url": "https://finance.yahoo.com/energy/articles/et-vs-kmi-energy-infrastructure-140000303.html",
-          "publisher": "Zacks",
-          "published": "2026-09-25T14:00:00Z"
-        },
-        {
-          "title": "5 Midstream Giants That Raised Dividends Through Market Cycles: Your Guide to Recession-Resistant Income",
-          "url": "https://finance.yahoo.com/energy/articles/5-midstream-giants-raised-dividends-135505637.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-09-25T13:55:05Z"
         }
       ]
     },
@@ -1074,7 +967,7 @@
       "price": 67.02,
       "previous_close": 66.56,
       "change_pct": 0.69,
-      "market_cap": 33397498689.208145,
+      "market_cap": 33404108737.437057,
       "headlines": [
         {
           "title": "Public Service Enterprise Group CEO Sells 2,083 Shares",
@@ -1494,7 +1387,7 @@
       "price": 28.35,
       "previous_close": 28.27,
       "change_pct": 0.28,
-      "market_cap": 8597873723.4406,
+      "market_cap": 8508164711.5835,
       "headlines": [
         {
           "title": "3 Reasons to Buy Brookfield Renewable Before September Ends",
@@ -1606,7 +1499,7 @@
       "price": 85.08,
       "previous_close": 84.13,
       "change_pct": 1.13,
-      "market_cap": 6098997621.699966,
+      "market_cap": 6084249939.262573,
       "headlines": [
         {
           "title": "Weatherford International (WFRD) Heads To TD Cowen As Fair Value Narrative Stays In Focus",
@@ -1662,7 +1555,7 @@
       "price": 32.4,
       "previous_close": 32.82,
       "change_pct": -1.28,
-      "market_cap": 4270262529.108124,
+      "market_cap": 4281486796.836731,
       "headlines": [
         {
           "title": "First Solar, Enphase, SolarEdge, Alight, and Goodyear Shares Are Falling, What You Need To Know",
@@ -1713,6 +1606,34 @@
       ]
     },
     {
+      "symbol": "UUUU",
+      "name": "Energy Fuels",
+      "price": 11.37,
+      "previous_close": 11.32,
+      "change_pct": 0.44,
+      "market_cap": 3010475483.3390694,
+      "headlines": [
+        {
+          "title": "Can Energy Fuels Build a Strong Rare Earth Growth Platform?",
+          "url": "https://finance.yahoo.com/energy/articles/energy-fuels-build-strong-rare-150700130.html",
+          "publisher": "Zacks",
+          "published": "2026-09-25T15:07:00Z"
+        },
+        {
+          "title": "Here's Why Energy Fuels (UUUU) Fell More Than Broader Market",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/heres-why-energy-fuels-uuuu-214502276.html",
+          "publisher": "Zacks",
+          "published": "2026-09-23T21:45:02Z"
+        },
+        {
+          "title": "Cameco And 2 Canadian Nuclear Stocks To Watch",
+          "url": "https://finance.yahoo.com/energy/articles/cameco-2-canadian-nuclear-stocks-091650924.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-09-23T09:16:50Z"
+        }
+      ]
+    },
+    {
       "symbol": "LEU",
       "name": "Centrus Energy",
       "price": 147.1,
@@ -1737,34 +1658,6 @@
           "url": "https://finance.yahoo.com/energy/articles/nuclear-energy-stocks-rally-demand-150400417.html",
           "publisher": "Zacks",
           "published": "2026-09-23T15:04:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "UUUU",
-      "name": "Energy Fuels",
-      "price": 11.37,
-      "previous_close": 11.32,
-      "change_pct": 0.44,
-      "market_cap": 2842102021.393776,
-      "headlines": [
-        {
-          "title": "Can Energy Fuels Build a Strong Rare Earth Growth Platform?",
-          "url": "https://finance.yahoo.com/energy/articles/energy-fuels-build-strong-rare-150700130.html",
-          "publisher": "Zacks",
-          "published": "2026-09-25T15:07:00Z"
-        },
-        {
-          "title": "Here's Why Energy Fuels (UUUU) Fell More Than Broader Market",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/heres-why-energy-fuels-uuuu-214502276.html",
-          "publisher": "Zacks",
-          "published": "2026-09-23T21:45:02Z"
-        },
-        {
-          "title": "Cameco And 2 Canadian Nuclear Stocks To Watch",
-          "url": "https://finance.yahoo.com/energy/articles/cameco-2-canadian-nuclear-stocks-091650924.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-09-23T09:16:50Z"
         }
       ]
     },
@@ -2110,23 +2003,23 @@
   "tape": [
     {
       "label": "SPX",
-      "price": 7743.43,
+      "price": 7743.41,
       "change_pct": 0.51
     },
     {
       "label": "WTI",
-      "price": 92.3,
-      "change_pct": -2.44
+      "price": 92.2,
+      "change_pct": -2.55
     },
     {
       "label": "Brent",
-      "price": 97.42,
-      "change_pct": -8.61
+      "price": 97.33,
+      "change_pct": -8.7
     },
     {
       "label": "NatGas",
       "price": 3.23,
-      "change_pct": -2.03
+      "change_pct": -1.88
     }
   ]
 }
