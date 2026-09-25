@@ -18,7 +18,7 @@ Signed file: `PWR.research.25.09.2026`
 | Technical momentum | High | 1Y +61.26%; price +8.11% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -17.32% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 4.03%, revenue growth 41.10%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 32.83, EV/Sales 3.13. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 32.93, EV/Sales 3.13. |
 | Risk level | Elevated | Beta 1.20, ATR 3.4% of price, short float 2.40%. |
 
 **Bottom line:** High technical momentum, mixed fundamentals, value: fair-to-demanding, risk: elevated.
@@ -68,7 +68,7 @@ Quanta Services, Inc. offers infrastructure solutions for the electric and gas u
 | Revenue (ttm) | $32.91B | Revenue growth 41.10% y/y |
 | Profitability | Gross 15.46%, operating 7.22%, net 4.03% | ROA 5.23%, ROE 15.34% |
 | Balance sheet | Cash $506.43M, debt $6.60B | Current ratio 1.10, debt/equity 67.78 |
-| Valuation | P/E 74.19, forward P/E 32.83, P/S 2.97, P/B 10.12 | EV/Sales 3.13, EV/EBITDA 33.81 |
+| Valuation | P/E 74.19, forward P/E 32.93, P/S 2.97, P/B 10.12 | EV/Sales 3.13, EV/EBITDA 33.81 |
 | Growth expectations | Earnings growth 94.70%, EPS q/q 96.90% | Analyst mean target $769.63 (29 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ Quanta Services, Inc. offers infrastructure solutions for the electric and gas u
 | Morgan Stanley | 2,311,374 | 1.54% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 32.83, EV/Sales 3.13. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 32.93, EV/Sales 3.13. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 1.20, ATR 3.4% of price, short float 2.40%. Size positions accordingly.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -122,7 +122,7 @@ Quanta Services, Inc. offers infrastructure solutions for the electric and gas u
 | 52W high | $785.12 | Revenue growth y/y | 41.10% |
 | 52W low | $400.07 | Inst. ownership | 94.07% |
 | P/E (ttm) | 74.19 | Insider ownership | 0.67% |
-| Forward P/E | 32.83 | Short float | 2.40% |
+| Forward P/E | 32.93 | Short float | 2.40% |
 | PEG (trailing) | 1.45 | Avg volume | 1,134,817 |
 | P/S | 2.97 | Employees | 69,500 |
 | P/B | 10.12 | Analyst rec (1=buy..5=sell) | 1.5 |
