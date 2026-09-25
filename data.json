@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-25T09:39:18+00:00",
-  "as_of_local": "2026-09-25 09:39:18 UTC",
+  "as_of_utc": "2026-09-25T09:44:20+00:00",
+  "as_of_local": "2026-09-25 09:44:20 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -1243,7 +1243,26 @@
       "previous_close": 106.14,
       "change_pct": -0.33,
       "market_cap": 18807753548.475975,
-      "headlines": []
+      "headlines": [
+        {
+          "title": "5 Low Price-to-Sales Stocks That Deserve Investor Attention",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/5-low-price-sales-stocks-143300451.html",
+          "publisher": "Zacks",
+          "published": "2026-09-23T14:33:00Z"
+        },
+        {
+          "title": "Will Par Pacific's Retail Expansion Boost Earnings Stability Ahead?",
+          "url": "https://finance.yahoo.com/energy/articles/par-pacifics-retail-expansion-boost-151000760.html",
+          "publisher": "Zacks",
+          "published": "2026-09-22T15:10:00Z"
+        },
+        {
+          "title": "Delek vs. HF Sinclair: Which Refining Stock Has More Upside Potential?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/delek-vs-hf-sinclair-refining-142800715.html",
+          "publisher": "Zacks",
+          "published": "2026-09-22T14:28:00Z"
+        }
+      ]
     },
     {
       "symbol": "FSLR",
@@ -2096,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 93.02,
-      "change_pct": -1.68
+      "price": 92.84,
+      "change_pct": -1.87
     },
     {
       "label": "Brent",
-      "price": 98.77,
-      "change_pct": -7.35
+      "price": 98.64,
+      "change_pct": -7.47
     },
     {
       "label": "NatGas",
       "price": 3.26,
-      "change_pct": -1.12
+      "change_pct": -1.27
     }
   ]
 }
