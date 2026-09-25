@@ -37,9 +37,9 @@ APA Corporation, an independent energy company, explores for, develops, and prod
 | Headline | Source | Date |
 |---|---|---|
 | APA (APA) Just Gave Investors Something To Think About | Simply Wall St. | 2026-09-25 |
-| Stocks Rise as Crude Prices Fall and Bond Yields Stabilize | Barchart | 2026-09-25 |
 | Is Plains Group (PAGP) Outperforming Other Oils-Energy Stocks This Year? | Zacks | 2026-09-25 |
 | Is APA Corporation Stock Outperforming the Dow? | Barchart | 2026-09-24 |
+| Is EOG Resources Stock A Buy For Its Shrinking Share Count? | Trefis | 2026-09-23 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

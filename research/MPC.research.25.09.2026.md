@@ -38,6 +38,8 @@ Marathon Petroleum Corporation, together with its subsidiaries, operates as an i
 |---|---|---|
 | Marathon Petroleum (MPC) Could Be 20% Overvalued Following Diesel Export Ban Review | Simply Wall St. | 2026-09-25 |
 | Marathon Petroleum (MPC) Faces Fresh Uncertainty After Trump Backs Diesel Export Ban | Simply Wall St. | 2026-09-25 |
+| Marathon Petroleum (MPC) Is Up 7.31% in One Week: What You Should Know | Zacks | 2026-09-25 |
+| Update: US Equity Futures Higher Pre-Bell as Treasury Yields Remain Elevated, Oil Prices Decline | MT Newswires | 2026-09-25 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
