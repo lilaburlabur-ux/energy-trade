@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-25T20:20:00+00:00",
+  "as_of": "2026-09-25T20:35:12+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,16 +11,16 @@
    "rank": 1,
    "ticker": "BE",
    "company": "Bloom Energy Corporation",
-   "move_pct": 8.19,
-   "price": 288.5,
+   "move_pct": 8.38,
+   "price": 289.0,
    "volume": 17278112,
    "volume_vs_avg": "~1.2x",
-   "heat_score": 59,
+   "heat_score": 60,
    "direction": "up",
-   "why": "Bloom Energy Jumps 8% as Oracle Reaffirms 2.4 GW Fuel Cell Contract After Force Majeure Notice",
-   "catalyst_type": "contract_win",
-   "source_url": "https://finance.yahoo.com/energy/articles/bloom-energy-jumps-8-oracle-165523316.html",
-   "published": "2026-09-25T16:55:23Z",
+   "why": "Bloom Energy Stock Is Today\u2019s Top S&P 500 Performer. It Has a Lot to Do With Oracle.",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://www.barrons.com/articles/bloom-energy-stock-oracle-ai-50802d99?siteid=yhoof2&yptr=yahoo",
+   "published": "2026-09-25T18:41:00Z",
    "sector": "Grid, Storage & Electrification"
   }
  ]
