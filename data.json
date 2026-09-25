@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-25T09:34:24+00:00",
-  "as_of_local": "2026-09-25 09:34:24 UTC",
+  "as_of_utc": "2026-09-25T09:39:18+00:00",
+  "as_of_local": "2026-09-25 09:39:18 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -39,7 +39,26 @@
       "previous_close": 205.51,
       "change_pct": 0.07,
       "market_cap": 403403701325.42377,
-      "headlines": []
+      "headlines": [
+        {
+          "title": "5 Energy Stocks Positioned for a Prolonged Iran War",
+          "url": "https://finance.yahoo.com/energy/articles/5-energy-stocks-positioned-prolonged-000000170.html",
+          "publisher": "Oilprice.com",
+          "published": "2026-09-25T00:00:00Z"
+        },
+        {
+          "title": "These Dow Jones Stocks Buck Index's Dud Performance",
+          "url": "https://www.investors.com/news/dow-jones-industrial-average-msft-aapl-cvx-ko-stock/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-09-24T18:14:59Z"
+        },
+        {
+          "title": "How a Roth IRA Can Keep Thousands More of Your DJIA Dividend Income Compounding",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/roth-ira-keep-thousands-more-155857248.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-09-24T15:58:57Z"
+        }
+      ]
     },
     {
       "symbol": "SHEL",
@@ -1224,26 +1243,7 @@
       "previous_close": 106.14,
       "change_pct": -0.33,
       "market_cap": 18807753548.475975,
-      "headlines": [
-        {
-          "title": "5 Low Price-to-Sales Stocks That Deserve Investor Attention",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/5-low-price-sales-stocks-143300451.html",
-          "publisher": "Zacks",
-          "published": "2026-09-23T14:33:00Z"
-        },
-        {
-          "title": "Will Par Pacific's Retail Expansion Boost Earnings Stability Ahead?",
-          "url": "https://finance.yahoo.com/energy/articles/par-pacifics-retail-expansion-boost-151000760.html",
-          "publisher": "Zacks",
-          "published": "2026-09-22T15:10:00Z"
-        },
-        {
-          "title": "Delek vs. HF Sinclair: Which Refining Stock Has More Upside Potential?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/delek-vs-hf-sinclair-refining-142800715.html",
-          "publisher": "Zacks",
-          "published": "2026-09-22T14:28:00Z"
-        }
-      ]
+      "headlines": []
     },
     {
       "symbol": "FSLR",
@@ -2096,13 +2096,13 @@
     },
     {
       "label": "WTI",
-      "price": 92.95,
-      "change_pct": -1.75
+      "price": 93.02,
+      "change_pct": -1.68
     },
     {
       "label": "Brent",
-      "price": 98.66,
-      "change_pct": -7.45
+      "price": 98.77,
+      "change_pct": -7.35
     },
     {
       "label": "NatGas",
