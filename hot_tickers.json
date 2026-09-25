@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-25T01:55:13+00:00",
+  "as_of": "2026-09-25T04:12:04+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -15,28 +15,12 @@
    "price": 172.16,
    "volume": 6351300,
    "volume_vs_avg": "~3x",
-   "heat_score": 77,
+   "heat_score": 62,
    "direction": "down",
-   "why": "First Solar, Enphase, SolarEdge, Alight, and Goodyear Shares Are Falling, What You Need To Know",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/first-solar-enphase-solaredge-alight-235258458.html",
-   "published": "2026-09-24T23:52:58Z",
-   "sector": "Renewables & Solar"
-  },
-  {
-   "rank": 2,
-   "ticker": "RUN",
-   "company": "Sunrun Inc.",
-   "move_pct": -6.83,
-   "price": 7.78,
-   "volume": 11837500,
-   "volume_vs_avg": "~2x",
-   "heat_score": 47,
-   "direction": "down",
-   "why": "Fluence Energy, Richardson Electronics, Plug Power, Sunrun, and Methode Electronics Shares Plummet, What You Need To Know",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/fluence-energy-richardson-electronics-plug-224858146.html",
-   "published": "2026-09-24T22:48:58Z",
+   "why": "Moving down 10.3% on ~3x average volume with no fresh headline this cycle \u2014 attention without a story.",
+   "catalyst_type": "no_news_mover",
+   "source_url": "",
+   "published": "",
    "sector": "Renewables & Solar"
   }
  ]
