@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-25T09:44:20+00:00",
-  "as_of_local": "2026-09-25 09:44:20 UTC",
+  "as_of_utc": "2026-09-25T09:49:26+00:00",
+  "as_of_local": "2026-09-25 09:49:26 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -153,6 +153,12 @@
       "market_cap": 170896000000.0,
       "headlines": [
         {
+          "title": "Zacks Industry Outlook Highlights Eaton, Emerson Electric, A. O. Smith and EnerSys",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-industry-outlook-highlights-eaton-084200235.html",
+          "publisher": "Zacks",
+          "published": "2026-09-25T08:42:00Z"
+        },
+        {
           "title": "Is Eaton (ETN) Priced Beyond What Its Cash Flow Can Support?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/eaton-etn-priced-beyond-cash-031134642.html",
           "publisher": "Simply Wall St.",
@@ -163,12 +169,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/could-wrong-eaton-stock-004824023.html",
           "publisher": "Trefis",
           "published": "2026-09-25T00:48:24Z"
-        },
-        {
-          "title": "Could Eaton Corporation (ETN)\u2019s $242 Million Expansion Power its Next Data Center Growth Phase?",
-          "url": "https://finance.yahoo.com/technology/articles/could-eaton-corporation-etn-242-203059824.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-09-24T20:30:59Z"
         }
       ]
     },
@@ -2115,13 +2115,13 @@
     },
     {
       "label": "WTI",
-      "price": 92.84,
-      "change_pct": -1.87
+      "price": 92.82,
+      "change_pct": -1.89
     },
     {
       "label": "Brent",
-      "price": 98.64,
-      "change_pct": -7.47
+      "price": 98.63,
+      "change_pct": -7.48
     },
     {
       "label": "NatGas",
