@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-25T00:03:25+00:00",
-  "as_of_local": "2026-09-25 00:03:25 UTC",
+  "as_of_utc": "2026-09-25T00:08:36+00:00",
+  "as_of_local": "2026-09-25 00:08:36 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -150,7 +150,7 @@
       "price": 438.76,
       "previous_close": 435.43,
       "change_pct": 0.76,
-      "market_cap": 170896000000.0,
+      "market_cap": 170852000000.0,
       "headlines": [
         {
           "title": "Could Eaton Corporation (ETN)\u2019s $242 Million Expansion Power its Next Data Center Growth Phase?",
@@ -178,7 +178,7 @@
       "price": 77.02,
       "previous_close": 79.63,
       "change_pct": -3.28,
-      "market_cap": 157741672164.58002,
+      "market_cap": 157713477171.96002,
       "headlines": [
         {
           "title": "NextEra Energy (NEE) Dips More Than Broader Market: What You Should Know",
@@ -257,6 +257,34 @@
       ]
     },
     {
+      "symbol": "MPC",
+      "name": "Marathon Petroleum",
+      "price": 388.38,
+      "previous_close": 402.38,
+      "change_pct": -3.48,
+      "market_cap": 114132627453.25,
+      "headlines": [
+        {
+          "title": "Why These S&P 500 Stocks Are Earning The Biggest EPS Upgrades",
+          "url": "https://www.investors.com/news/dell-stock-cien-mpc-vlo-psx-biggest-eps-estimate-upgrades/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-09-24T18:05:13Z"
+        },
+        {
+          "title": "Chevron to Deepen Greece Bet With Offshore Seismic Exploration",
+          "url": "https://finance.yahoo.com/energy/articles/chevron-deepen-greece-bet-offshore-135200635.html",
+          "publisher": "Zacks",
+          "published": "2026-09-24T13:52:00Z"
+        },
+        {
+          "title": "Trump Wants to Ban Diesel Exports. Refiners Are Selling Off.",
+          "url": "https://finance.yahoo.com/energy/articles/trump-wants-ban-diesel-exports-124543134.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-09-24T12:45:43Z"
+        }
+      ]
+    },
+    {
       "symbol": "VLO",
       "name": "Valero Energy",
       "price": 375.84,
@@ -281,34 +309,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-131757956.html",
           "publisher": "MT Newswires",
           "published": "2026-09-24T13:17:57Z"
-        }
-      ]
-    },
-    {
-      "symbol": "MPC",
-      "name": "Marathon Petroleum",
-      "price": 388.38,
-      "previous_close": 402.38,
-      "change_pct": -3.48,
-      "market_cap": 109788441094.84999,
-      "headlines": [
-        {
-          "title": "Why These S&P 500 Stocks Are Earning The Biggest EPS Upgrades",
-          "url": "https://www.investors.com/news/dell-stock-cien-mpc-vlo-psx-biggest-eps-estimate-upgrades/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-09-24T18:05:13Z"
-        },
-        {
-          "title": "Chevron to Deepen Greece Bet With Offshore Seismic Exploration",
-          "url": "https://finance.yahoo.com/energy/articles/chevron-deepen-greece-bet-offshore-135200635.html",
-          "publisher": "Zacks",
-          "published": "2026-09-24T13:52:00Z"
-        },
-        {
-          "title": "Trump Wants to Ban Diesel Exports. Refiners Are Selling Off.",
-          "url": "https://finance.yahoo.com/energy/articles/trump-wants-ban-diesel-exports-124543134.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-09-24T12:45:43Z"
         }
       ]
     },
@@ -601,6 +601,12 @@
       "market_cap": 78535716810.9,
       "headlines": [
         {
+          "title": "Dow Jones Futures: Market Rally Resilient As Yields, Oil Prices Keep Rising; Tesla Event On Deck",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-resilient-yields-oil-prices-rising-tesla-semi-event/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-09-24T23:58:17Z"
+        },
+        {
           "title": "Oracle\u2019s Data Center Delay Warning Rattles AI Partners Like Bloom Energy",
           "url": "https://www.barrons.com/articles/oracle-stock-bloom-energy-data-center-delay-ai-372fe7aa?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
@@ -611,12 +617,6 @@
           "url": "https://www.barrons.com/articles/stock-movers-45e41551?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
           "published": "2026-09-24T20:32:00Z"
-        },
-        {
-          "title": "Oracle Flags Fresh Risk for Massive AI Project",
-          "url": "https://finance.yahoo.com/technology/ai/articles/oracle-flags-fresh-risk-massive-200306604.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-09-24T20:03:06Z"
         }
       ]
     },
@@ -654,7 +654,7 @@
       "price": 141.84,
       "previous_close": 141.38,
       "change_pct": 0.33,
-      "market_cap": 74934238083.36,
+      "market_cap": 76091311795.8,
       "headlines": [
         {
           "title": "Sector Update: Energy Stocks Rise Late Afternoon",
@@ -1074,7 +1074,7 @@
       "price": 67.31,
       "previous_close": 69.31,
       "change_pct": -2.89,
-      "market_cap": 33174837196.8,
+      "market_cap": 33168272517.120003,
       "headlines": [
         {
           "title": "Public Service Enterprise Group CEO Sells 2,083 Shares",
@@ -1494,7 +1494,7 @@
       "price": 29.08,
       "previous_close": 29.72,
       "change_pct": -2.15,
-      "market_cap": 8484155667.0199995,
+      "market_cap": 8573611530.55,
       "headlines": [
         {
           "title": "3 Reasons to Buy Brookfield Renewable Before September Ends",
@@ -1606,7 +1606,7 @@
       "price": 84.66,
       "previous_close": 82.2,
       "change_pct": 2.99,
-      "market_cap": 6016313309.5199995,
+      "market_cap": 6030896319.589999,
       "headlines": [
         {
           "title": "1 Profitable Stock to Research Further and 2 We Ignore",
@@ -1662,7 +1662,7 @@
       "price": 33.07,
       "previous_close": 34.42,
       "change_pct": -3.92,
-      "market_cap": 4336987347.36,
+      "market_cap": 4325617580.4,
       "headlines": [
         {
           "title": "First Solar, Enphase, SolarEdge, Alight, and Goodyear Shares Are Falling, What You Need To Know",
@@ -1746,7 +1746,7 @@
       "price": 11.6,
       "previous_close": 12.14,
       "change_pct": -4.45,
-      "market_cap": 2997236835.04,
+      "market_cap": 2829603800.0,
       "headlines": [
         {
           "title": "Here's Why Energy Fuels (UUUU) Fell More Than Broader Market",
@@ -2120,13 +2120,13 @@
     },
     {
       "label": "Brent",
-      "price": 106.08,
-      "change_pct": 2.91
+      "price": 106.16,
+      "change_pct": 2.99
     },
     {
       "label": "NatGas",
       "price": 3.27,
-      "change_pct": 8.3
+      "change_pct": 8.14
     }
   ]
 }
