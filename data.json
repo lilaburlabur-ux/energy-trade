@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-25T03:11:49+00:00",
-  "as_of_local": "2026-09-25 03:11:49 UTC",
+  "as_of_utc": "2026-09-25T03:26:38+00:00",
+  "as_of_local": "2026-09-25 03:26:38 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -150,8 +150,14 @@
       "price": 440.0,
       "previous_close": 438.76,
       "change_pct": 0.28,
-      "market_cap": 170896000000.0,
+      "market_cap": 170852000000.0,
       "headlines": [
+        {
+          "title": "Is Eaton (ETN) Priced Beyond What Its Cash Flow Can Support?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/eaton-etn-priced-beyond-cash-031134642.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-09-25T03:11:34Z"
+        },
         {
           "title": "What Could Go Wrong With Eaton Stock?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/could-wrong-eaton-stock-004824023.html",
@@ -163,12 +169,6 @@
           "url": "https://finance.yahoo.com/technology/articles/could-eaton-corporation-etn-242-203059824.html",
           "publisher": "Insider Monkey",
           "published": "2026-09-24T20:30:59Z"
-        },
-        {
-          "title": "4 Manufacturing Electronics Stocks to Watch on Promising Industry Trends",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/4-manufacturing-electronics-stocks-watch-131700010.html",
-          "publisher": "Zacks",
-          "published": "2026-09-24T13:17:00Z"
         }
       ]
     },
@@ -178,7 +178,7 @@
       "price": 75.62,
       "previous_close": 77.02,
       "change_pct": -1.82,
-      "market_cap": 157741677893.89026,
+      "market_cap": 157713482900.24622,
       "headlines": [
         {
           "title": "VST Keeps Writing Checks To Its Shareholders",
@@ -257,6 +257,34 @@
       ]
     },
     {
+      "symbol": "MPC",
+      "name": "Marathon Petroleum",
+      "price": 390.95,
+      "previous_close": 388.38,
+      "change_pct": 0.66,
+      "market_cap": 114132631016.92963,
+      "headlines": [
+        {
+          "title": "5 Energy Stocks Positioned for a Prolonged Iran War",
+          "url": "https://finance.yahoo.com/energy/articles/5-energy-stocks-positioned-prolonged-000000170.html",
+          "publisher": "Oilprice.com",
+          "published": "2026-09-25T00:00:00Z"
+        },
+        {
+          "title": "Why These S&P 500 Stocks Are Earning The Biggest EPS Upgrades",
+          "url": "https://www.investors.com/news/dell-stock-cien-mpc-vlo-psx-biggest-eps-estimate-upgrades/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-09-24T18:05:13Z"
+        },
+        {
+          "title": "Chevron to Deepen Greece Bet With Offshore Seismic Exploration",
+          "url": "https://finance.yahoo.com/energy/articles/chevron-deepen-greece-bet-offshore-135200635.html",
+          "publisher": "Zacks",
+          "published": "2026-09-24T13:52:00Z"
+        }
+      ]
+    },
+    {
       "symbol": "VLO",
       "name": "Valero Energy",
       "price": 382.86,
@@ -281,34 +309,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-131757956.html",
           "publisher": "MT Newswires",
           "published": "2026-09-24T13:17:57Z"
-        }
-      ]
-    },
-    {
-      "symbol": "MPC",
-      "name": "Marathon Petroleum",
-      "price": 390.95,
-      "previous_close": 388.38,
-      "change_pct": 0.66,
-      "market_cap": 109788444522.88666,
-      "headlines": [
-        {
-          "title": "5 Energy Stocks Positioned for a Prolonged Iran War",
-          "url": "https://finance.yahoo.com/energy/articles/5-energy-stocks-positioned-prolonged-000000170.html",
-          "publisher": "Oilprice.com",
-          "published": "2026-09-25T00:00:00Z"
-        },
-        {
-          "title": "Why These S&P 500 Stocks Are Earning The Biggest EPS Upgrades",
-          "url": "https://www.investors.com/news/dell-stock-cien-mpc-vlo-psx-biggest-eps-estimate-upgrades/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-09-24T18:05:13Z"
-        },
-        {
-          "title": "Chevron to Deepen Greece Bet With Offshore Seismic Exploration",
-          "url": "https://finance.yahoo.com/energy/articles/chevron-deepen-greece-bet-offshore-135200635.html",
-          "publisher": "Zacks",
-          "published": "2026-09-24T13:52:00Z"
         }
       ]
     },
@@ -604,7 +604,7 @@
           "title": "Dow Jones Futures: Market Rally Resilient As Yields, Oil Prices Keep Rising; Tesla Holds Semi Event",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-resilient-yields-oil-prices-rising-tesla-semi-event/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
-          "published": "2026-09-25T02:55:33Z"
+          "published": "2026-09-25T03:07:06Z"
         },
         {
           "title": "Bloom Energy's Backlog Is 5 Times This Year's Expected Revenue. Here's How Fast It Can Actually Build.",
@@ -654,7 +654,7 @@
       "price": 142.86,
       "previous_close": 141.84,
       "change_pct": 0.72,
-      "market_cap": 74934238403.5072,
+      "market_cap": 76091312120.89066,
       "headlines": [
         {
           "title": "Sector Update: Energy Stocks Rise Late Afternoon",
@@ -1074,7 +1074,7 @@
       "price": 66.56,
       "previous_close": 67.31,
       "change_pct": -1.11,
-      "market_cap": 33174835979.954224,
+      "market_cap": 33168271300.515015,
       "headlines": [
         {
           "title": "Public Service Enterprise Group CEO Sells 2,083 Shares",
@@ -1494,7 +1494,7 @@
       "price": 28.27,
       "previous_close": 29.08,
       "change_pct": -2.79,
-      "market_cap": 8484155804.4002,
+      "market_cap": 8573611669.378719,
       "headlines": [
         {
           "title": "3 Reasons to Buy Brookfield Renewable Before September Ends",
@@ -1606,8 +1606,14 @@
       "price": 84.13,
       "previous_close": 84.66,
       "change_pct": -0.63,
-      "market_cap": 6016313113.10614,
+      "market_cap": 6030896122.70005,
       "headlines": [
+        {
+          "title": "Weatherford International (WFRD) Heads To TD Cowen As Fair Value Narrative Stays In Focus",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/weatherford-international-wfrd-heads-td-031234584.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-09-25T03:12:34Z"
+        },
         {
           "title": "1 Profitable Stock to Research Further and 2 We Ignore",
           "url": "https://finance.yahoo.com/markets/stocks/articles/1-profitable-stock-research-further-093654898.html",
@@ -1619,12 +1625,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/1-wall-street-favorite-stocks-082225693.html",
           "publisher": "StockStory",
           "published": "2026-09-21T08:22:25Z"
-        },
-        {
-          "title": "Q2 Earnings Highs And Lows: Weatherford (NASDAQ:WFRD) Vs The Rest Of The Mixed or Offshore Upstream E&P Stocks",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/q2-earnings-highs-lows-weatherford-152840973.html",
-          "publisher": "StockStory",
-          "published": "2026-09-18T15:28:40Z"
         }
       ]
     },
@@ -1662,7 +1662,7 @@
       "price": 32.82,
       "previous_close": 33.07,
       "change_pct": -0.76,
-      "market_cap": 4336987307.032654,
+      "market_cap": 4325617540.178375,
       "headlines": [
         {
           "title": "First Solar, Enphase, SolarEdge, Alight, and Goodyear Shares Are Falling, What You Need To Know",
@@ -1746,7 +1746,7 @@
       "price": 11.32,
       "previous_close": 11.6,
       "change_pct": -2.41,
-      "market_cap": 2997236754.2375183,
+      "market_cap": 2829603723.716736,
       "headlines": [
         {
           "title": "Here's Why Energy Fuels (UUUU) Fell More Than Broader Market",
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 92.92,
-      "change_pct": -1.79
+      "price": 92.88,
+      "change_pct": 0.78
     },
     {
       "label": "Brent",
-      "price": 105.6,
-      "change_pct": -0.94
+      "price": 105.43,
+      "change_pct": 2.28
     },
     {
       "label": "NatGas",
-      "price": 3.27,
-      "change_pct": -0.94
+      "price": 3.26,
+      "change_pct": 7.87
     }
   ]
 }
