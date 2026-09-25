@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-09-25T11:59:54+00:00",
-  "as_of_local": "2026-09-25 11:59:54 UTC",
+  "as_of_utc": "2026-09-25T12:05:04+00:00",
+  "as_of_local": "2026-09-25 12:05:04 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "UEC"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1629,34 +1631,6 @@
       ]
     },
     {
-      "symbol": "UEC",
-      "name": "Uranium Energy Corp",
-      "price": 9.47,
-      "previous_close": 9.95,
-      "change_pct": -4.82,
-      "market_cap": 4686441438.165178,
-      "headlines": [
-        {
-          "title": "Nuclear Energy Stocks Rally as Demand for Reliable Clean Power Grows",
-          "url": "https://finance.yahoo.com/energy/articles/nuclear-energy-stocks-rally-demand-150400417.html",
-          "publisher": "Zacks",
-          "published": "2026-09-23T15:04:00Z"
-        },
-        {
-          "title": "Why Did Uranium Energy (UEC) Move Today?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-uranium-energy-uec-131949501.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-09-23T13:19:49Z"
-        },
-        {
-          "title": "Oklo Climbs 5% as Nuclear Names Bounce Back From Last Week\u2019s Selloff; NuScale Power Gains 4%, Uranium Energy Rises 3%",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/oklo-climbs-5-nuclear-names-141418370.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-09-21T14:14:18Z"
-        }
-      ]
-    },
-    {
       "symbol": "ENPH",
       "name": "Enphase Energy",
       "price": 32.82,
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 92.43,
-      "change_pct": -2.3
+      "price": 92.37,
+      "change_pct": -2.37
     },
     {
       "label": "Brent",
-      "price": 98.27,
-      "change_pct": -7.81
+      "price": 98.25,
+      "change_pct": -7.83
     },
     {
       "label": "NatGas",
-      "price": 3.24,
-      "change_pct": -1.73
+      "price": 3.23,
+      "change_pct": -1.94
     }
   ]
 }
