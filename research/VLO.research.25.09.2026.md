@@ -36,10 +36,10 @@ Valero Energy Corporation manufactures, markets, and sells petroleum-based and l
 
 | Headline | Source | Date |
 |---|---|---|
+| What Happens To ExxonMobil Stock If Refining Profits Fade? | Trefis | 2026-09-25 |
 | What Does Valero Energy (VLO) Face If Diesel Exports Are Curbed? | Simply Wall St. | 2026-09-25 |
 | Eni Advances Indonesia Offshore Exploration With Sapukala Block | Zacks | 2026-09-25 |
 | Keep Portfolio Swings in Check With VLO, PBF, FET & E | Zacks | 2026-09-25 |
-| PBF Energy Gains From Refining Scale & Cost Efficiency Efforts | Zacks | 2026-09-25 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

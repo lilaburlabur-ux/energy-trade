@@ -36,10 +36,10 @@ Chevron Corporation, through its subsidiaries, engages in the integrated energy 
 
 | Headline | Source | Date |
 |---|---|---|
+| What Happens To ExxonMobil Stock If Refining Profits Fade? | Trefis | 2026-09-25 |
 | Chevron (CVX) Accelerates Cyprus Gas Export Plans Through Egypt | Simply Wall St. | 2026-09-25 |
 | Chevron's Cost Discipline: Turning Efficiency Into Lasting Value | Zacks | 2026-09-25 |
 | Update: US Equity Futures Higher Pre-Bell as Treasury Yields Remain Elevated, Oil Prices Decline | MT Newswires | 2026-09-25 |
-| Chevron or IBM: One of These Dividends Costs $17 Billion a Year to Protect | 24/7 Wall St. | 2026-09-25 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -47,7 +47,7 @@ Chevron Corporation, through its subsidiaries, engages in the integrated energy 
 | Price vs 52-week range | Close $204.45; 52w high $217.77 (-6.12%); 52w low $142.76 (+43.21%) |
 | Trend | +11.94% vs SMA200, +2.06% vs SMA50, -2.30% vs SMA20 |
 | Momentum | RSI(14) 48.1 (neutral) |
-| Volatility | ATR(14) 4.36 (~2.1% of price); beta 0.49 |
+| Volatility | ATR(14) 4.35 (~2.1% of price); beta 0.49 |
 | Setup perspective | -6.12% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
@@ -68,7 +68,7 @@ Chevron Corporation, through its subsidiaries, engages in the integrated energy 
 | Revenue (ttm) | $209.38B | Revenue growth 53.50% y/y |
 | Profitability | Gross 44.27%, operating 21.87%, net 9.83% | ROA 5.86%, ROE 12.23% |
 | Balance sheet | Cash $8.53B, debt $37.08B | Current ratio 1.25, debt/equity 18.96 |
-| Valuation | P/E 19.64, forward P/E 15.07, P/S 1.92, P/B 2.11 | EV/Sales 2.09, EV/EBITDA 8.64 |
+| Valuation | P/E 19.66, forward P/E 15.07, P/S 1.92, P/B 2.11 | EV/Sales 2.09, EV/EBITDA 8.64 |
 | Growth expectations | Earnings growth 321.90%, EPS q/q 384.80% | Analyst mean target $223.92 (24 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -114,13 +114,13 @@ Chevron Corporation, through its subsidiaries, engages in the integrated energy 
 | Market cap | $401.05B | EV/EBITDA | 8.64 |
 | Beta | 0.49 | Gross margin | 44.27% |
 | RSI(14) | 48.1 | Operating margin | 21.87% |
-| ATR(14) | 4.36 | Profit margin | 9.83% |
+| ATR(14) | 4.35 | Profit margin | 9.83% |
 | SMA20 dist | -2.30% | ROA | 5.86% |
 | SMA50 dist | +2.06% | ROE | 12.23% |
 | SMA200 dist | +11.94% | Revenue (ttm) | $209.38B |
 | 52W high | $217.77 | Revenue growth y/y | 53.50% |
 | 52W low | $142.76 | Inst. ownership | 71.18% |
-| P/E (ttm) | 19.64 | Insider ownership | 4.77% |
+| P/E (ttm) | 19.66 | Insider ownership | 4.77% |
 | Forward P/E | 15.07 | Short float | 1.06% |
 | PEG (trailing) | 0.90 | Avg volume | 8,868,525 |
 | P/S | 1.92 | Employees | 43,039 |

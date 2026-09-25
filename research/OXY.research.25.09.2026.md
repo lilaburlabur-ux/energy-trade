@@ -36,10 +36,10 @@ Occidental Petroleum Corporation, together with its subsidiaries, engages in the
 
 | Headline | Source | Date |
 |---|---|---|
+| What Happens To ExxonMobil Stock If Refining Profits Fade? | Trefis | 2026-09-25 |
 | Is EOG Resources Stock A Buy For Its Shrinking Share Count? | Trefis | 2026-09-23 |
 | 5 of Warren Buffett’s Largest Berkshire Hathaway Stocks Are Raising Their Dividends Every Year | 24/7 Wall St. | 2026-09-23 |
 | Occidental Now Trades Below Wall Street’s Raised Targets. Here’s Where the Stock Could Go | TIKR | 2026-09-21 |
-| Occidental Petroleum (OXY) Stock Declines While Market Improves: Some Information for Investors | Zacks | 2026-09-21 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

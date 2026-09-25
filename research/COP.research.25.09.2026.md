@@ -36,10 +36,10 @@ ConocoPhillips explores for, produces, transports, and markets crude oil, bitume
 
 | Headline | Source | Date |
 |---|---|---|
+| What Happens To ExxonMobil Stock If Refining Profits Fade? | Trefis | 2026-09-25 |
 | COP vs. EOG: Which Energy Dividend Actually Survives the Next Oil Crash? | 24/7 Wall St. | 2026-09-25 |
 | 5 Energy Stocks Positioned for a Prolonged Iran War | Oilprice.com | 2026-09-25 |
 | Does COP’s Low Forward P/E and Rising Estimates Change The Bull Case For ConocoPhillips (COP)? | Simply Wall St. | 2026-09-24 |
-| 3 Energy ETFs Built for Oil’s New $100-Plus Reality | MarketBeat | 2026-09-24 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

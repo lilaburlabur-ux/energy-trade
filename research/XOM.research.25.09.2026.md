@@ -37,9 +37,9 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 | Headline | Source | Date |
 |---|---|---|
 | The 8:30: Trump-Xi summit takeaways, an interview with Microsoft CEO Satya Nadella | Yahoo Finance Video | 2026-09-25 |
+| What Happens To ExxonMobil Stock If Refining Profits Fade? | Trefis | 2026-09-25 |
 | Chevron's Cost Discipline: Turning Efficiency Into Lasting Value | Zacks | 2026-09-25 |
 | Vietnam’s BSR inks crude oil supply agreement with ExxonMobil | Offshore Technology | 2026-09-25 |
-| Could TotalEnergies (TTE)’ LNG Growth Give it an Edge Over ExxonMobil (XOM)? | Insider Monkey | 2026-09-24 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
