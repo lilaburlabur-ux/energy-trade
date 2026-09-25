@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-09-25T07:12:44+00:00",
-  "as_of_local": "2026-09-25 07:12:44 UTC",
+  "as_of_utc": "2026-09-25T07:27:45+00:00",
+  "as_of_local": "2026-09-25 07:27:45 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "NXT"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1435,6 +1433,34 @@
       ]
     },
     {
+      "symbol": "NXT",
+      "name": "Nextracker",
+      "price": 79.97,
+      "previous_close": 81.81,
+      "change_pct": -2.25,
+      "market_cap": 12133809899.6167,
+      "headlines": [
+        {
+          "title": "Sterling, Axon, Herc, Nextpower, and FTAI Aviation Shares Plummet, What You Need To Know",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/sterling-axon-herc-nextpower-ftai-001658544.html",
+          "publisher": "StockStory",
+          "published": "2026-09-25T00:16:58Z"
+        },
+        {
+          "title": "Nextpower Inc. (NXT) Is a Trending Stock: Facts to Know Before Betting on It",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nextpower-inc-nxt-trending-stock-120004854.html",
+          "publisher": "Zacks",
+          "published": "2026-09-24T12:00:04Z"
+        },
+        {
+          "title": "AI Pick-And-Shovel Stocks To Watch As Xi And Trump Meet",
+          "url": "https://www.investors.com/news/data-center-stocks-watch-xi-trump-meet-sep-24-ai/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-09-22T13:57:39Z"
+        }
+      ]
+    },
+    {
       "symbol": "AR",
       "name": "Antero Resources",
       "price": 36.09,
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 93.13,
-      "change_pct": -1.56
+      "price": 93.2,
+      "change_pct": -1.49
     },
     {
       "label": "Brent",
-      "price": 105.69,
-      "change_pct": -0.85
+      "price": 105.87,
+      "change_pct": -0.68
     },
     {
       "label": "NatGas",
-      "price": 3.26,
-      "change_pct": -1.21
+      "price": 3.27,
+      "change_pct": -0.88
     }
   ]
 }
