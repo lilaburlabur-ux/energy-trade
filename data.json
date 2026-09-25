@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-25T08:23:28+00:00",
-  "as_of_local": "2026-09-25 08:23:28 UTC",
+  "as_of_utc": "2026-09-25T08:28:10+00:00",
+  "as_of_local": "2026-09-25 08:28:10 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -1273,6 +1273,12 @@
       "market_cap": 18501999095.64612,
       "headlines": [
         {
+          "title": "US Stock Market Today: S&P 500 Futures Slip As Hot Growth Keeps Rate Fears High",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-080952587.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-09-25T08:09:52Z"
+        },
+        {
           "title": "First Solar, Enphase, SolarEdge, Alight, and Goodyear Shares Are Falling, What You Need To Know",
           "url": "https://finance.yahoo.com/markets/stocks/articles/first-solar-enphase-solaredge-alight-235258458.html",
           "publisher": "StockStory",
@@ -1283,12 +1289,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/first-solar-fslr-suffers-larger-204503545.html",
           "publisher": "Zacks",
           "published": "2026-09-24T20:45:03Z"
-        },
-        {
-          "title": "FSLR Stock Hits Fresh 52-Week Low As Target Cuts, Slower Booking Visibility Weigh \u2014 Peers Enphase, SolarEdge Also Down",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/fslr-stock-hits-fresh-52-201312995.html",
-          "publisher": "Stocktwits",
-          "published": "2026-09-24T20:13:12Z"
         }
       ]
     },
@@ -2115,8 +2115,8 @@
     },
     {
       "label": "WTI",
-      "price": 93.55,
-      "change_pct": -1.12
+      "price": 93.53,
+      "change_pct": -1.14
     },
     {
       "label": "Brent",
@@ -2125,8 +2125,8 @@
     },
     {
       "label": "NatGas",
-      "price": 3.27,
-      "change_pct": -0.94
+      "price": 3.26,
+      "change_pct": -1.21
     }
   ]
 }
