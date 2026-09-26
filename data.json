@@ -1,10 +1,9 @@
 {
-  "as_of_utc": "2026-09-26T04:25:07+00:00",
-  "as_of_local": "2026-09-26 04:25:07 UTC",
+  "as_of_utc": "2026-09-26T04:40:24+00:00",
+  "as_of_local": "2026-09-26 04:40:24 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
     "ET",
-    "VLO",
     "VRT"
   ],
   "stocks": [
@@ -257,6 +256,34 @@
           "url": "https://www.barrons.com/advisor/articles/weeks-best-dividend-stocks-for-a-rocky-market-a7f11131?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
           "published": "2026-09-25T19:31:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "VLO",
+      "name": "Valero Energy",
+      "price": 387.18,
+      "previous_close": 382.86,
+      "change_pct": 1.13,
+      "market_cap": 111479752241.13629,
+      "headlines": [
+        {
+          "title": "Valero (VLO) Stock Looks Expensive As Its 5x Run Draws Scrutiny",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/valero-vlo-stock-looks-expensive-041558703.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-09-26T04:15:58Z"
+        },
+        {
+          "title": "What Happens To ExxonMobil Stock If Refining Profits Fade?",
+          "url": "https://finance.yahoo.com/energy/articles/happens-exxonmobil-stock-refining-profits-200928133.html",
+          "publisher": "Trefis",
+          "published": "2026-09-25T20:09:28Z"
+        },
+        {
+          "title": "What Does Valero Energy (VLO) Face If Diesel Exports Are Curbed?",
+          "url": "https://finance.yahoo.com/energy/articles/does-valero-energy-vlo-face-181114647.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-09-25T18:11:14Z"
         }
       ]
     },
