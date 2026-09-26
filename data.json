@@ -1,8 +1,12 @@
 {
-  "as_of_utc": "2026-09-26T01:09:55+00:00",
-  "as_of_local": "2026-09-26 01:09:55 UTC",
+  "as_of_utc": "2026-09-26T01:14:58+00:00",
+  "as_of_local": "2026-09-26 01:14:58 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "ET",
+    "VLO",
+    "VRT"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -150,7 +154,7 @@
       "price": 440.0,
       "previous_close": 438.76,
       "change_pct": 0.28,
-      "market_cap": 170844234000.0,
+      "market_cap": 170888232000.0,
       "headlines": [
         {
           "title": "How Much Further Could Vertiv Stock Fall?",
@@ -178,7 +182,7 @@
       "price": 75.62,
       "previous_close": 77.02,
       "change_pct": -1.82,
-      "market_cap": 158672855636.63998,
+      "market_cap": 158701222140.72,
       "headlines": [
         {
           "title": "2 Green Flags and 2 Red Flags for Nuclear Stocks After This Year's Sell-Off",
@@ -229,34 +233,6 @@
       ]
     },
     {
-      "symbol": "MPC",
-      "name": "Marathon Petroleum",
-      "price": 390.95,
-      "previous_close": 388.38,
-      "change_pct": 0.66,
-      "market_cap": 114882904605.2,
-      "headlines": [
-        {
-          "title": "What Happens To ExxonMobil Stock If Refining Profits Fade?",
-          "url": "https://finance.yahoo.com/energy/articles/happens-exxonmobil-stock-refining-profits-200928133.html",
-          "publisher": "Trefis",
-          "published": "2026-09-25T20:09:28Z"
-        },
-        {
-          "title": "Marathon Petroleum (MPC) Could Be 20% Overvalued Following Diesel Export Ban Review",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/marathon-petroleum-mpc-could-20-191005280.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-09-25T19:10:05Z"
-        },
-        {
-          "title": "Marathon Petroleum (MPC) Faces Fresh Uncertainty After Trump Backs Diesel Export Ban",
-          "url": "https://finance.yahoo.com/energy/articles/marathon-petroleum-mpc-faces-fresh-160843977.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-09-25T16:08:43Z"
-        }
-      ]
-    },
-    {
       "symbol": "BP",
       "name": "BP",
       "price": 44.41,
@@ -285,12 +261,12 @@
       ]
     },
     {
-      "symbol": "VLO",
-      "name": "Valero Energy",
-      "price": 382.86,
-      "previous_close": 375.84,
-      "change_pct": 1.87,
-      "market_cap": 111479754349.98,
+      "symbol": "MPC",
+      "name": "Marathon Petroleum",
+      "price": 390.95,
+      "previous_close": 388.38,
+      "change_pct": 0.66,
+      "market_cap": 110510160735.76,
       "headlines": [
         {
           "title": "What Happens To ExxonMobil Stock If Refining Profits Fade?",
@@ -299,16 +275,16 @@
           "published": "2026-09-25T20:09:28Z"
         },
         {
-          "title": "What Does Valero Energy (VLO) Face If Diesel Exports Are Curbed?",
-          "url": "https://finance.yahoo.com/energy/articles/does-valero-energy-vlo-face-181114647.html",
+          "title": "Marathon Petroleum (MPC) Could Be 20% Overvalued Following Diesel Export Ban Review",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/marathon-petroleum-mpc-could-20-191005280.html",
           "publisher": "Simply Wall St.",
-          "published": "2026-09-25T18:11:14Z"
+          "published": "2026-09-25T19:10:05Z"
         },
         {
-          "title": "Eni Advances Indonesia Offshore Exploration With Sapukala Block",
-          "url": "https://finance.yahoo.com/energy/articles/eni-advances-indonesia-offshore-exploration-144000060.html",
-          "publisher": "Zacks",
-          "published": "2026-09-25T14:40:00Z"
+          "title": "Marathon Petroleum (MPC) Faces Fresh Uncertainty After Trump Backs Diesel Export Ban",
+          "url": "https://finance.yahoo.com/energy/articles/marathon-petroleum-mpc-faces-fresh-160843977.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-09-25T16:08:43Z"
         }
       ]
     },
@@ -393,34 +369,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/quanta-services-pwr-outperforming-other-124005833.html",
           "publisher": "Zacks",
           "published": "2026-09-25T12:40:05Z"
-        }
-      ]
-    },
-    {
-      "symbol": "VRT",
-      "name": "Vertiv",
-      "price": 245.3,
-      "previous_close": 248.78,
-      "change_pct": -1.4,
-      "market_cap": 97509804457.44,
-      "headlines": [
-        {
-          "title": "How Much Further Could Vertiv Stock Fall?",
-          "url": "https://finance.yahoo.com/markets/options/articles/much-further-could-vertiv-stock-191945039.html",
-          "publisher": "Trefis",
-          "published": "2026-09-25T19:19:45Z"
-        },
-        {
-          "title": "How to Play VRT Stock as Vertiv Acquires King Environmental Services",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/play-vrt-stock-vertiv-acquires-183918550.html",
-          "publisher": "Barchart",
-          "published": "2026-09-25T18:39:18Z"
-        },
-        {
-          "title": "Vertiv and 6 More AI Industrial Stocks to Buy Now",
-          "url": "https://www.barrons.com/articles/vertiv-carrier-trane-ai-industrial-stocks-buy-06322bd0?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-09-25T15:10:00Z"
         }
       ]
     },
@@ -654,7 +602,7 @@
       "price": 142.86,
       "previous_close": 141.84,
       "change_pct": 0.72,
-      "market_cap": 74754414185.5,
+      "market_cap": 73617669851.59999,
       "headlines": [
         {
           "title": "COP vs. EOG: Which Energy Dividend Actually Survives the Next Oil Crash?",
@@ -673,34 +621,6 @@
           "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-rise-thursday-180651243.html",
           "publisher": "MT Newswires",
           "published": "2026-09-24T18:06:51Z"
-        }
-      ]
-    },
-    {
-      "symbol": "ET",
-      "name": "Energy Transfer",
-      "price": 20.33,
-      "previous_close": 20.49,
-      "change_pct": -0.78,
-      "market_cap": 69520218944.19,
-      "headlines": [
-        {
-          "title": "3 Reasons Why Energy Transfer Is One of My Largest Positions",
-          "url": "https://finance.yahoo.com/energy/articles/3-reasons-why-energy-transfer-155000295.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-25T15:50:00Z"
-        },
-        {
-          "title": "ET vs. KMI: Which Energy Infrastructure Stock Offers More Potential?",
-          "url": "https://finance.yahoo.com/energy/articles/et-vs-kmi-energy-infrastructure-140000303.html",
-          "publisher": "Zacks",
-          "published": "2026-09-25T14:00:00Z"
-        },
-        {
-          "title": "5 Midstream Giants That Raised Dividends Through Market Cycles: Your Guide to Recession-Resistant Income",
-          "url": "https://finance.yahoo.com/energy/articles/5-midstream-giants-raised-dividends-135505637.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-09-25T13:55:05Z"
         }
       ]
     },
@@ -1074,7 +994,7 @@
       "price": 66.56,
       "previous_close": 67.31,
       "change_pct": -1.11,
-      "market_cap": 33397500362.039997,
+      "market_cap": 33404110410.6,
       "headlines": [
         {
           "title": "Public Service Enterprise Group CEO Sells 2,083 Shares",
@@ -1494,7 +1414,7 @@
       "price": 28.27,
       "previous_close": 29.08,
       "change_pct": -2.79,
-      "market_cap": 8597873607.75,
+      "market_cap": 8508164597.1,
       "headlines": [
         {
           "title": "3 Reasons to Buy Brookfield Renewable Before September Ends",
@@ -1606,7 +1526,7 @@
       "price": 84.13,
       "previous_close": 84.66,
       "change_pct": -0.63,
-      "market_cap": 6098997490.44,
+      "market_cap": 6084249808.32,
       "headlines": [
         {
           "title": "Weatherford International (WFRD) Heads To TD Cowen As Fair Value Narrative Stays In Focus",
@@ -1662,7 +1582,7 @@
       "price": 32.82,
       "previous_close": 33.07,
       "change_pct": -0.76,
-      "market_cap": 4270262328.0,
+      "market_cap": 4281486595.2,
       "headlines": [
         {
           "title": "First Solar, Enphase, SolarEdge, Alight, and Goodyear Shares Are Falling, What You Need To Know",
@@ -1746,7 +1666,7 @@
       "price": 11.32,
       "previous_close": 11.6,
       "change_pct": -2.41,
-      "market_cap": 2837102750.0,
+      "market_cap": 3005180042.2,
       "headlines": [
         {
           "title": "Can Energy Fuels Build a Strong Rare Earth Growth Platform?",
