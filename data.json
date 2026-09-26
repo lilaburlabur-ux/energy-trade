@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-09-26T14:59:43+00:00",
-  "as_of_local": "2026-09-26 14:59:43 UTC",
+  "as_of_utc": "2026-09-26T15:05:07+00:00",
+  "as_of_local": "2026-09-26 15:05:07 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "ET"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -152,7 +150,7 @@
       "price": 439.98,
       "previous_close": 440.0,
       "change_pct": -0.0,
-      "market_cap": 170888236267.08984,
+      "market_cap": 170844238265.9912,
       "headlines": [
         {
           "title": "How Much Further Could Vertiv Stock Fall?",
@@ -180,7 +178,7 @@
       "price": 76.08,
       "previous_close": 75.62,
       "change_pct": 0.61,
-      "market_cap": 158701225960.2602,
+      "market_cap": 158672859455.49747,
       "headlines": [
         {
           "title": "Anthropic Needs Gigawatts of Power It Doesn't Have. This Dividend-Paying Industrial Sells It.",
@@ -227,6 +225,34 @@
           "url": "https://finance.yahoo.com/energy/articles/5-energy-stocks-positioned-prolonged-000000170.html",
           "publisher": "Oilprice.com",
           "published": "2026-09-25T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "MPC",
+      "name": "Marathon Petroleum",
+      "price": 393.52,
+      "previous_close": 390.95,
+      "change_pct": 0.66,
+      "market_cap": 114882901397.88834,
+      "headlines": [
+        {
+          "title": "Goldman Sachs Bets this Refining Stock Will Soar Past its Record High",
+          "url": "https://finance.yahoo.com/energy/articles/goldman-sachs-bets-refining-stock-050239726.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-09-26T05:02:39Z"
+        },
+        {
+          "title": "What Happens To ExxonMobil Stock If Refining Profits Fade?",
+          "url": "https://finance.yahoo.com/energy/articles/happens-exxonmobil-stock-refining-profits-200928133.html",
+          "publisher": "Trefis",
+          "published": "2026-09-25T20:09:28Z"
+        },
+        {
+          "title": "Marathon Petroleum (MPC) Could Be 20% Overvalued Following Diesel Export Ban Review",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/marathon-petroleum-mpc-could-20-191005280.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-09-25T19:10:05Z"
         }
       ]
     },
@@ -283,34 +309,6 @@
           "url": "https://finance.yahoo.com/energy/articles/does-valero-energy-vlo-face-181114647.html",
           "publisher": "Simply Wall St.",
           "published": "2026-09-25T18:11:14Z"
-        }
-      ]
-    },
-    {
-      "symbol": "MPC",
-      "name": "Marathon Petroleum",
-      "price": 393.52,
-      "previous_close": 390.95,
-      "change_pct": 0.66,
-      "market_cap": 110510157650.52701,
-      "headlines": [
-        {
-          "title": "Goldman Sachs Bets this Refining Stock Will Soar Past its Record High",
-          "url": "https://finance.yahoo.com/energy/articles/goldman-sachs-bets-refining-stock-050239726.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-09-26T05:02:39Z"
-        },
-        {
-          "title": "What Happens To ExxonMobil Stock If Refining Profits Fade?",
-          "url": "https://finance.yahoo.com/energy/articles/happens-exxonmobil-stock-refining-profits-200928133.html",
-          "publisher": "Trefis",
-          "published": "2026-09-25T20:09:28Z"
-        },
-        {
-          "title": "Marathon Petroleum (MPC) Could Be 20% Overvalued Following Diesel Export Ban Review",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/marathon-petroleum-mpc-could-20-191005280.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-09-25T19:10:05Z"
         }
       ]
     },
@@ -656,7 +654,7 @@
       "price": 140.35,
       "previous_close": 142.86,
       "change_pct": -1.76,
-      "market_cap": 73617673053.07202,
+      "market_cap": 74754417436.40656,
       "headlines": [
         {
           "title": "COP vs. EOG: Which Energy Dividend Actually Survives the Next Oil Crash?",
@@ -675,6 +673,34 @@
           "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-rise-thursday-180651243.html",
           "publisher": "MT Newswires",
           "published": "2026-09-24T18:06:51Z"
+        }
+      ]
+    },
+    {
+      "symbol": "ET",
+      "name": "Energy Transfer",
+      "price": 20.19,
+      "previous_close": 20.33,
+      "change_pct": -0.69,
+      "market_cap": 69520220783.11038,
+      "headlines": [
+        {
+          "title": "Energy Transfer (ET) Stock May Be Undervalued On Current Earnings",
+          "url": "https://finance.yahoo.com/energy/articles/energy-transfer-et-stock-may-020812775.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-09-26T02:08:12Z"
+        },
+        {
+          "title": "3 Reasons Why Energy Transfer Is One of My Largest Positions",
+          "url": "https://finance.yahoo.com/energy/articles/3-reasons-why-energy-transfer-155000295.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-25T15:50:00Z"
+        },
+        {
+          "title": "ET vs. KMI: Which Energy Infrastructure Stock Offers More Potential?",
+          "url": "https://finance.yahoo.com/energy/articles/et-vs-kmi-energy-infrastructure-140000303.html",
+          "publisher": "Zacks",
+          "published": "2026-09-25T14:00:00Z"
         }
       ]
     },
@@ -911,6 +937,12 @@
       "market_cap": 52271294059.90845,
       "headlines": [
         {
+          "title": "Oil May Be Stronger Than It Looks\u2014And Diamondback Is on Sale",
+          "url": "https://finance.yahoo.com/energy/articles/oil-may-stronger-looks-diamondback-150000436.html",
+          "publisher": "MarketBeat",
+          "published": "2026-09-25T15:00:00Z"
+        },
+        {
           "title": "3 Oil Stocks Investors May Revisit As Supply Worries Lift Crude",
           "url": "https://finance.yahoo.com/energy/articles/3-oil-stocks-investors-may-141134464.html",
           "publisher": "Simply Wall St.",
@@ -921,12 +953,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/eog-resources-stock-buy-shrinking-174822273.html",
           "publisher": "Trefis",
           "published": "2026-09-23T17:48:22Z"
-        },
-        {
-          "title": "Diamondback Energy (FANG) Stock Drops Despite Market Gains: Important Facts to Note",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/diamondback-energy-fang-stock-drops-221502011.html",
-          "publisher": "Zacks",
-          "published": "2026-09-21T22:15:02Z"
         }
       ]
     },
@@ -1048,7 +1074,7 @@
       "price": 67.02,
       "previous_close": 66.56,
       "change_pct": 0.69,
-      "market_cap": 33404108737.437057,
+      "market_cap": 33397498689.208145,
       "headlines": [
         {
           "title": "Public Service Enterprise Group CEO Sells 2,083 Shares",
@@ -1468,7 +1494,7 @@
       "price": 28.35,
       "previous_close": 28.27,
       "change_pct": 0.28,
-      "market_cap": 8508164711.5835,
+      "market_cap": 8597873723.4406,
       "headlines": [
         {
           "title": "3 Reasons to Buy Brookfield Renewable Before September Ends",
@@ -1580,7 +1606,7 @@
       "price": 85.08,
       "previous_close": 84.13,
       "change_pct": 1.13,
-      "market_cap": 6084249939.262573,
+      "market_cap": 6098997621.699966,
       "headlines": [
         {
           "title": "Weatherford International (WFRD) Heads To TD Cowen As Fair Value Narrative Stays In Focus",
@@ -1636,7 +1662,7 @@
       "price": 32.4,
       "previous_close": 32.82,
       "change_pct": -1.28,
-      "market_cap": 4281486796.836731,
+      "market_cap": 4270262529.108124,
       "headlines": [
         {
           "title": "Enphase (ENPH) Wins 80 Utility Approvals. Can Easier Installation Boost Battery Sales?",
@@ -1720,7 +1746,7 @@
       "price": 11.35,
       "previous_close": 11.32,
       "change_pct": 0.27,
-      "market_cap": 3005180143.203102,
+      "market_cap": 2837102845.35408,
       "headlines": [
         {
           "title": "Can Energy Fuels Build a Strong Rare Earth Growth Platform?",
