@@ -18,7 +18,7 @@ Signed file: `XOM.research.25.09.2026`
 | Technical momentum | Moderate | 1Y +44.24%; price +9.63% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -5.16% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 9.07%, revenue growth 44.10%. |
-| Value attractiveness | Reasonable | Forward P/E 14.50, EV/Sales 1.95. |
+| Value attractiveness | Reasonable | Forward P/E 14.50, EV/Sales 1.94. |
 | Risk level | Moderate | Beta 0.17, ATR 2.3% of price, short float 1.08%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -68,7 +68,7 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 | Revenue (ttm) | $361.06B | Revenue growth 44.10% y/y |
 | Profitability | Gross 29.77%, operating 15.86%, net 9.07% | ROA 5.52%, ROE 12.58% |
 | Balance sheet | Cash $10.59B, debt $42.37B | Current ratio 1.14, debt/equity 15.92 |
-| Valuation | P/E 20.67, forward P/E 14.50, P/S 1.83, P/B 2.55 | EV/Sales 1.95, EV/EBITDA 10.38 |
+| Valuation | P/E 20.67, forward P/E 14.50, P/S 1.83, P/B 2.55 | EV/Sales 1.94, EV/EBITDA 10.29 |
 | Growth expectations | Earnings growth 112.80%, EPS q/q 105.10% | Analyst mean target $172.55 (22 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -110,8 +110,8 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $160.59 | EV/Sales | 1.95 |
-| Market cap | $660.33B | EV/EBITDA | 10.38 |
+| Price | $160.59 | EV/Sales | 1.94 |
+| Market cap | $660.33B | EV/EBITDA | 10.29 |
 | Beta | 0.17 | Gross margin | 29.77% |
 | RSI(14) | 48.9 | Operating margin | 15.86% |
 | ATR(14) | 3.71 | Profit margin | 9.07% |

@@ -5,7 +5,7 @@ Signed file: `KMI.research.25.09.2026`
 | Field | Value |
 |---|---|
 | Current price | $30.75 (2026-09-25, ~15-min delayed) |
-| Market cap | $68.41B |
+| Market cap | $68.47B |
 | Sector / Industry | Energy / Oil & Gas Midstream |
 | Main theme | Oil & Gas Midstream — see catalysts below |
 | Current stance | Low technical momentum, strong fundamentals, value: reasonable, risk: moderate. |
@@ -18,7 +18,7 @@ Signed file: `KMI.research.25.09.2026`
 | Technical momentum | Low | Below SMA200 (-0.64%) with negative half-year (-8.06%). |
 | Fresh setup quality | Moderate / wait | -9.54% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 19.30%, revenue growth 10.80%. |
-| Value attractiveness | Reasonable | Forward P/E 19.91, EV/Sales 5.75. |
+| Value attractiveness | Reasonable | Forward P/E 19.91, EV/Sales 5.68. |
 | Risk level | Moderate | Beta 0.55, ATR 2.3% of price, short float 2.39%. |
 
 **Bottom line:** Low technical momentum, strong fundamentals, value: reasonable, risk: moderate.
@@ -68,7 +68,7 @@ Kinder Morgan, Inc. operates as an energy infrastructure company primarily in No
 | Revenue (ttm) | $17.96B | Revenue growth 10.80% y/y |
 | Profitability | Gross 49.41%, operating 30.06%, net 19.30% | ROA 4.45%, ROE 10.99% |
 | Balance sheet | Cash $91.00M, debt $32.43B | Current ratio 0.46, debt/equity 98.62 |
-| Valuation | P/E 19.84, forward P/E 19.91, P/S 3.81, P/B 2.16 | EV/Sales 5.75, EV/EBITDA 13.51 |
+| Valuation | P/E 19.84, forward P/E 19.91, P/S 3.81, P/B 2.16 | EV/Sales 5.68, EV/EBITDA 13.37 |
 | Growth expectations | Earnings growth 21.20%, EPS q/q 21.30% | Analyst mean target $36.05 (22 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -109,8 +109,8 @@ Kinder Morgan, Inc. operates as an energy infrastructure company primarily in No
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $30.75 | EV/Sales | 5.75 |
-| Market cap | $68.41B | EV/EBITDA | 13.51 |
+| Price | $30.75 | EV/Sales | 5.68 |
+| Market cap | $68.47B | EV/EBITDA | 13.37 |
 | Beta | 0.55 | Gross margin | 49.41% |
 | RSI(14) | 42.3 | Operating margin | 30.06% |
 | ATR(14) | 0.71 | Profit margin | 19.30% |

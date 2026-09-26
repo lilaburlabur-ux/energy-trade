@@ -18,7 +18,7 @@ Signed file: `APA.research.25.09.2026`
 | Technical momentum | High | 1Y +81.12%; price +23.46% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -9.85% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 19.56%, revenue growth 9.20%. |
-| Value attractiveness | Reasonable | Forward P/E 9.56, EV/Sales 2.29. |
+| Value attractiveness | Reasonable | Forward P/E 9.56, EV/Sales 2.25. |
 | Risk level | Elevated | Beta 0.37, ATR 3.6% of price, short float 9.21%. |
 
 **Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
@@ -68,7 +68,7 @@ APA Corporation, an independent energy company, explores for, develops, and prod
 | Revenue (ttm) | $8.57B | Revenue growth 9.20% y/y |
 | Profitability | Gross 78.25%, operating 56.33%, net 19.56% | ROA 11.60%, ROE 26.66% |
 | Balance sheet | Cash $444.00M, debt $3.88B | Current ratio 0.95, debt/equity 48.85 |
-| Valuation | P/E 9.02, forward P/E 9.56, P/S 1.75, P/B 2.13 | EV/Sales 2.29, EV/EBITDA 3.44 |
+| Valuation | P/E 9.02, forward P/E 9.56, P/S 1.75, P/B 2.13 | EV/Sales 2.25, EV/EBITDA 3.38 |
 | Growth expectations | Earnings growth 26.30%, EPS q/q 23.90% | Analyst mean target $45.96 (25 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -111,8 +111,8 @@ APA Corporation, an independent energy company, explores for, develops, and prod
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $42.74 | EV/Sales | 2.29 |
-| Market cap | $14.97B | EV/EBITDA | 3.44 |
+| Price | $42.74 | EV/Sales | 2.25 |
+| Market cap | $14.97B | EV/EBITDA | 3.38 |
 | Beta | 0.37 | Gross margin | 78.25% |
 | RSI(14) | 48.5 | Operating margin | 56.33% |
 | ATR(14) | 1.54 | Profit margin | 19.56% |

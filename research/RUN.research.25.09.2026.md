@@ -5,7 +5,7 @@ Signed file: `RUN.research.25.09.2026`
 | Field | Value |
 |---|---|
 | Current price | $8.11 (2026-09-25, ~15-min delayed) |
-| Market cap | $1.95B |
+| Market cap | $1.93B |
 | Sector / Industry | Technology / Solar |
 | Main theme | Solar — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: high. |
@@ -18,7 +18,7 @@ Signed file: `RUN.research.25.09.2026`
 | Technical momentum | Low | Below SMA200 (-41.23%) with negative half-year (-34.60%). |
 | Fresh setup quality | Poor / broken | -62.12% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 11.59%, revenue growth 52.80%. |
-| Value attractiveness | Reasonable | Forward P/E 7.99, EV/Sales 5.21. |
+| Value attractiveness | Reasonable | Forward P/E 7.99, EV/Sales 5.23. |
 | Risk level | High | Beta 2.36, ATR 5.9% of price, short float 35.38%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: high.
@@ -68,7 +68,7 @@ Sunrun Inc. designs, develops, installs, sells, owns, and maintains residential 
 | Revenue (ttm) | $3.48B | Revenue growth 52.80% y/y |
 | Profitability | Gross 35.29%, operating 4.00%, net 11.59% | ROA 0.26%, ROE -19.86% |
 | Balance sheet | Cash $726.43M, debt $15.23B | Current ratio 1.42, debt/equity 292.51 |
-| Valuation | P/E 5.52, forward P/E 7.99, P/S 0.56, P/B 0.56 | EV/Sales 5.21, EV/EBITDA 21.53 |
+| Valuation | P/E 5.52, forward P/E 7.99, P/S 0.56, P/B 0.56 | EV/Sales 5.23, EV/EBITDA 21.62 |
 | Growth expectations | Earnings growth -60.70%, EPS q/q -58.80% | Analyst mean target $15.87 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -112,8 +112,8 @@ Sunrun Inc. designs, develops, installs, sells, owns, and maintains residential 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $8.11 | EV/Sales | 5.21 |
-| Market cap | $1.95B | EV/EBITDA | 21.53 |
+| Price | $8.11 | EV/Sales | 5.23 |
+| Market cap | $1.93B | EV/EBITDA | 21.62 |
 | Beta | 2.36 | Gross margin | 35.29% |
 | RSI(14) | 39.8 | Operating margin | 4.00% |
 | ATR(14) | 0.48 | Profit margin | 11.59% |

@@ -18,7 +18,7 @@ Signed file: `EQT.research.25.09.2026`
 | Technical momentum | Low | Below SMA200 (-8.31%) with negative half-year (-23.55%). |
 | Fresh setup quality | Moderate / wait | -24.76% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 29.18%, revenue growth -3.90%. |
-| Value attractiveness | Reasonable | Forward P/E 13.30, EV/Sales 4.47. |
+| Value attractiveness | Reasonable | Forward P/E 13.30, EV/Sales 4.40. |
 | Risk level | Moderate | Beta 0.58, ATR 2.8% of price, short float 4.09%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -68,7 +68,7 @@ EQT Corporation engages in the exploration, production, gathering, and transmiss
 | Revenue (ttm) | $9.29B | Revenue growth -3.90% y/y |
 | Profitability | Gross 80.75%, operating 23.37%, net 29.18% | ROA 6.63%, ROE 11.08% |
 | Balance sheet | Cash $112.86M, debt $5.66B | Current ratio 0.67, debt/equity 19.59 |
-| Valuation | P/E 11.79, forward P/E 13.30, P/S 3.42, P/B 1.26 | EV/Sales 4.47, EV/EBITDA 5.95 |
+| Valuation | P/E 11.79, forward P/E 13.30, P/S 3.42, P/B 1.26 | EV/Sales 4.40, EV/EBITDA 5.85 |
 | Growth expectations | Earnings growth -74.00%, EPS q/q -73.00% | Analyst mean target $67.58 (26 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -109,8 +109,8 @@ EQT Corporation engages in the exploration, production, gathering, and transmiss
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $50.81 | EV/Sales | 4.47 |
-| Market cap | $31.78B | EV/EBITDA | 5.95 |
+| Price | $50.81 | EV/Sales | 4.40 |
+| Market cap | $31.78B | EV/EBITDA | 5.85 |
 | Beta | 0.58 | Gross margin | 80.75% |
 | RSI(14) | 38.7 | Operating margin | 23.37% |
 | ATR(14) | 1.42 | Profit margin | 29.18% |

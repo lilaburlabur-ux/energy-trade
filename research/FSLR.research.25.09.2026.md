@@ -18,7 +18,7 @@ Signed file: `FSLR.research.25.09.2026`
 | Technical momentum | Low | Below SMA200 (-21.50%) with negative half-year (-4.37%). |
 | Fresh setup quality | Poor / broken | -44.16% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 32.46%, revenue growth -3.70%. |
-| Value attractiveness | Reasonable | Forward P/E 7.64, EV/Sales 3.15. |
+| Value attractiveness | Reasonable | Forward P/E 7.64, EV/Sales 3.26. |
 | Risk level | High | Beta 1.73, ATR 5.8% of price, short float 12.80%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: high.
@@ -68,7 +68,7 @@ First Solar, Inc., a solar technology company, provides photovoltaic (PV) solar 
 | Revenue (ttm) | $5.38B | Revenue growth -3.70% y/y |
 | Profitability | Gross 44.02%, operating 42.64%, net 32.46% | ROA 8.62%, ROE 18.51% |
 | Balance sheet | Cash $1.73B, debt $194.01M | Current ratio 2.52, debt/equity 1.88 |
-| Valuation | P/E 10.96, forward P/E 7.64, P/S 3.55, P/B 1.85 | EV/Sales 3.15, EV/EBITDA 7.11 |
+| Valuation | P/E 10.96, forward P/E 7.64, P/S 3.55, P/B 1.85 | EV/Sales 3.26, EV/EBITDA 7.36 |
 | Growth expectations | Earnings growth 23.30%, EPS q/q 23.60% | Analyst mean target $272.10 (31 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -112,8 +112,8 @@ First Solar, Inc., a solar technology company, provides photovoltaic (PV) solar 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $177.71 | EV/Sales | 3.15 |
-| Market cap | $19.10B | EV/EBITDA | 7.11 |
+| Price | $177.71 | EV/Sales | 3.26 |
+| Market cap | $19.10B | EV/EBITDA | 7.36 |
 | Beta | 1.73 | Gross margin | 44.02% |
 | RSI(14) | 35.1 | Operating margin | 42.64% |
 | ATR(14) | 10.29 | Profit margin | 32.46% |

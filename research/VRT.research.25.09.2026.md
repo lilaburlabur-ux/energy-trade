@@ -37,9 +37,6 @@ Vertiv Holdings Co designs, manufactures, and services critical digital infrastr
 | Headline | Source | Date |
 |---|---|---|
 | How Much Further Could Vertiv Stock Fall? | Trefis | 2026-09-25 |
-| Vertiv and 6 More AI Industrial Stocks to Buy Now | Barrons.com | 2026-09-25 |
-| Vertiv Holdings Co (VRT) Shares Drop Into Securities Probe After Q2 Miss | Simply Wall St. | 2026-09-25 |
-| Why Vertiv Holdings Co (VRT) Is Back In The Spotlight | Simply Wall St. | 2026-09-25 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

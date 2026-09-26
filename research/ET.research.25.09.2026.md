@@ -32,15 +32,6 @@ Signed file: `ET.research.25.09.2026`
 ## 2. Company Overview and Recent Catalysts
 Energy Transfer LP, together with its subsidiaries, provides energy-related services in the United States. It operates through Intrastate Transportation and Storage; Interstate Transportation and Storage; Midstream; Natural Gas Liquid (NGL) and Refined Products Transportation and Services; Crude Oil Transportation and Services; Investment in Sunoco LP; Investment in USA Compression Partners, LP (USAC); and All Other segments.
 
-**Recent headlines (potential catalysts):**
-
-| Headline | Source | Date |
-|---|---|---|
-| 3 Reasons Why Energy Transfer Is One of My Largest Positions | Motley Fool | 2026-09-25 |
-| ET vs. KMI: Which Energy Infrastructure Stock Offers More Potential? | Zacks | 2026-09-25 |
-| 5 Midstream Giants That Raised Dividends Through Market Cycles: Your Guide to Recession-Resistant Income | 24/7 Wall St. | 2026-09-25 |
-| Energy Transfer (ET) And The Growth Backlog Narrative Behind Its Valuation | Simply Wall St. | 2026-09-25 |
-
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
@@ -68,7 +59,7 @@ Energy Transfer LP, together with its subsidiaries, provides energy-related serv
 | Revenue (ttm) | $107.38B | Revenue growth 78.40% y/y |
 | Profitability | Gross 17.51%, operating 10.41%, net 4.92% | ROA 5.06%, ROE 14.56% |
 | Balance sheet | Cash $1.02B, debt $70.24B | Current ratio 1.16, debt/equity 138.33 |
-| Valuation | P/E 13.83, forward P/E 11.58, P/S 0.65, P/B 2.17 | EV/Sales 1.47, EV/EBITDA 9.21 |
+| Valuation | P/E 13.83, forward P/E 11.58, P/S 0.65, P/B 2.17 | EV/Sales 1.47, EV/EBITDA 9.19 |
 | Growth expectations | Earnings growth 85.30%, EPS q/q 79.50% | Analyst mean target $24.70 (23 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -111,7 +102,7 @@ Energy Transfer LP, together with its subsidiaries, provides energy-related serv
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $20.19 | EV/Sales | 1.47 |
-| Market cap | $69.52B | EV/EBITDA | 9.21 |
+| Market cap | $69.52B | EV/EBITDA | 9.19 |
 | Beta | 0.57 | Gross margin | 17.51% |
 | RSI(14) | 32.1 | Operating margin | 10.41% |
 | ATR(14) | 0.34 | Profit margin | 4.92% |

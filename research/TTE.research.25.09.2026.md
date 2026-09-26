@@ -18,7 +18,7 @@ Signed file: `TTE.research.25.09.2026`
 | Technical momentum | Moderate | 1Y +51.84%; price +10.95% vs SMA200. |
 | Fresh setup quality | Watch | -2.84% from 52w high and near SMA20 — check for a tight base. |
 | Fundamental quality | Mixed | Profit margin 9.08%, revenue growth 27.80%. |
-| Value attractiveness | Reasonable | Forward P/E 8.53, EV/Sales 1.21. |
+| Value attractiveness | Reasonable | Forward P/E 8.53, EV/Sales 1.20. |
 | Risk level | Moderate | Beta 0.06, ATR 1.7% of price, short float 0.22%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -68,7 +68,7 @@ TotalEnergies SE, an integrated energy company, produces and markets oil and bio
 | Revenue (ttm) | $196.38B | Revenue growth 27.80% y/y |
 | Profitability | Gross 37.68%, operating 12.79%, net 9.08% | ROA 5.51%, ROE 14.48% |
 | Balance sheet | Cash $31.72B, debt $62.92B | Current ratio 1.06, debt/equity 48.05 |
-| Valuation | P/E 11.38, forward P/E 8.53, P/S 1.02, P/B 1.58 | EV/Sales 1.21, EV/EBITDA 6.01 |
+| Valuation | P/E 11.35, forward P/E 8.53, P/S 1.02, P/B 1.58 | EV/Sales 1.20, EV/EBITDA 5.95 |
 | Growth expectations | Earnings growth 106.00%, EPS q/q 102.40% | Analyst mean target $96.70 (10 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -110,8 +110,8 @@ TotalEnergies SE, an integrated energy company, produces and markets oil and bio
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $90.94 | EV/Sales | 1.21 |
-| Market cap | $200.89B | EV/EBITDA | 6.01 |
+| Price | $90.94 | EV/Sales | 1.20 |
+| Market cap | $200.89B | EV/EBITDA | 5.95 |
 | Beta | 0.06 | Gross margin | 37.68% |
 | RSI(14) | 54.0 | Operating margin | 12.79% |
 | ATR(14) | 1.55 | Profit margin | 9.08% |
@@ -120,9 +120,9 @@ TotalEnergies SE, an integrated energy company, produces and markets oil and bio
 | SMA200 dist | +10.95% | Revenue (ttm) | $196.38B |
 | 52W high | $93.60 | Revenue growth y/y | 27.80% |
 | 52W low | $55.92 | Inst. ownership | 54.22% |
-| P/E (ttm) | 11.38 | Insider ownership | 8.86% |
+| P/E (ttm) | 11.35 | Insider ownership | 8.86% |
 | Forward P/E | 8.53 | Short float | 0.22% |
-| PEG (trailing) | 0.71 | Avg volume | 1,595,104 |
+| PEG (trailing) | — | Avg volume | 1,595,104 |
 | P/S | 1.02 | Employees | 94,847 |
 | P/B | 1.58 | Analyst rec (1=buy..5=sell) | 1.7 |
 
