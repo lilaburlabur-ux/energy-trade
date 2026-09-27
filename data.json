@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-27T22:17:54+00:00",
-  "as_of_local": "2026-09-27 22:17:54 UTC",
+  "as_of_utc": "2026-09-27T22:33:06+00:00",
+  "as_of_local": "2026-09-27 22:33:06 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -489,6 +489,12 @@
       "market_cap": 88379242386.81888,
       "headlines": [
         {
+          "title": "How to Build a $6,850 Monthly Paycheck From Dividends",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/build-6-850-monthly-paycheck-222415396.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-09-27T22:24:15Z"
+        },
+        {
           "title": "What Is Duke Energy (DUK) Changing With Joyce Mullen And Great Falls?",
           "url": "https://finance.yahoo.com/energy/articles/duke-energy-duk-changing-joyce-151350972.html",
           "publisher": "Simply Wall St.",
@@ -499,12 +505,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/duke-energy-duk-hits-52-034849950.html",
           "publisher": "Insider Monkey",
           "published": "2026-09-26T03:48:49Z"
-        },
-        {
-          "title": "Why Dominion Energy Halted Dividend Growth Despite Strong Operating Performance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-dominion-energy-halted-dividend-154806015.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-09-25T15:48:06Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 92.41,
-      "change_pct": 0.0
+      "price": 93.3,
+      "change_pct": 0.96
     },
     {
       "label": "Brent",
-      "price": 97.44,
-      "change_pct": -6.6
+      "price": 98.72,
+      "change_pct": -5.37
     },
     {
       "label": "NatGas",
-      "price": 3.22,
-      "change_pct": 0.91
+      "price": 3.12,
+      "change_pct": -2.53
     }
   ]
 }
