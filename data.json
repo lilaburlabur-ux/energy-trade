@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-09-27T15:24:54+00:00",
-  "as_of_local": "2026-09-27 15:24:54 UTC",
+  "as_of_utc": "2026-09-27T15:40:00+00:00",
+  "as_of_local": "2026-09-27 15:40:00 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "CCJ"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -603,6 +601,12 @@
       "market_cap": 79360785960.75,
       "headlines": [
         {
+          "title": "5 Dividend Stocks Yielding Over 5% With Fortress Financial Profiles to Buy Now",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/5-dividend-stocks-yielding-over-152001701.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-27T15:20:01Z"
+        },
+        {
           "title": "SCHD Is Up 20% and Offers Investors a Compelling Yield. But These 3 Dividend Stocks Could Be Even Better Buys Now.",
           "url": "https://finance.yahoo.com/markets/stocks/articles/schd-20-offers-investors-compelling-193500725.html",
           "publisher": "Motley Fool",
@@ -613,12 +617,6 @@
           "url": "https://finance.yahoo.com/energy/articles/5-midstream-giants-raised-dividends-135505637.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-09-25T13:55:05Z"
-        },
-        {
-          "title": "Enterprise Products Partners (EPD) Pullback Puts Its Undervalued Narrative To The Test",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/enterprise-products-partners-epd-pullback-091001748.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-09-25T09:10:01Z"
         }
       ]
     },
@@ -1039,6 +1037,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/vst-keeps-writing-checks-shareholders-003014479.html",
           "publisher": "Trefis",
           "published": "2026-09-25T00:30:14Z"
+        }
+      ]
+    },
+    {
+      "symbol": "CCJ",
+      "name": "Cameco",
+      "price": 88.07,
+      "previous_close": 88.12,
+      "change_pct": -0.06,
+      "market_cap": 38357389327.61588,
+      "headlines": [
+        {
+          "title": "3 Canadian Growth Stocks With Earnings Growth Over 34%",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-canadian-growth-stocks-earnings-190931017.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-09-26T19:09:31Z"
+        },
+        {
+          "title": "Cameco\u2019s Westinghouse Stake Could Be Worth More Than $24.5 Billion",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/cameco-westinghouse-stake-could-worth-143934106.html",
+          "publisher": "TIKR",
+          "published": "2026-09-26T14:39:34Z"
+        },
+        {
+          "title": "Here's Why Cameco (CCJ) Fell More Than Broader Market",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/heres-why-cameco-ccj-fell-205003239.html",
+          "publisher": "Zacks",
+          "published": "2026-09-24T20:50:03Z"
         }
       ]
     },
