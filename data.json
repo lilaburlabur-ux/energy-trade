@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-09-27T16:50:35+00:00",
-  "as_of_local": "2026-09-27 16:50:35 UTC",
+  "as_of_utc": "2026-09-27T17:05:40+00:00",
+  "as_of_local": "2026-09-27 17:05:40 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "SU"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -561,34 +563,6 @@
           "url": "https://finance.yahoo.com/energy/articles/data-center-buildout-boosts-natural-125600245.html",
           "publisher": "Zacks",
           "published": "2026-09-24T12:56:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "SU",
-      "name": "Suncor Energy",
-      "price": 68.19,
-      "previous_close": 68.65,
-      "change_pct": -0.67,
-      "market_cap": 80515017320.58868,
-      "headlines": [
-        {
-          "title": "Pan American Silver And 2 Canadian Undervalued Stocks To Watch",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/pan-american-silver-2-canadian-230813027.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-09-26T23:08:13Z"
-        },
-        {
-          "title": "Should You Buy Suncor Energy Stock After Its 63% Surge in a Year?",
-          "url": "https://finance.yahoo.com/energy/articles/buy-suncor-energy-stock-63-124600871.html",
-          "publisher": "Zacks",
-          "published": "2026-09-14T12:46:00Z"
-        },
-        {
-          "title": "Imperial Oil Stock Rises 49% YTD: Time to Hold or Lock in Profits?",
-          "url": "https://finance.yahoo.com/energy/articles/imperial-oil-stock-rises-49-150300019.html",
-          "publisher": "Zacks",
-          "published": "2026-09-08T15:03:00Z"
         }
       ]
     },
@@ -1413,6 +1387,12 @@
       "market_cap": 12686895682.443237,
       "headlines": [
         {
+          "title": "3 Defense Stocks Riding Nuclear, Missile, and Aerospace Demand",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-defense-stocks-riding-nuclear-165000680.html",
+          "publisher": "MarketBeat",
+          "published": "2026-09-26T16:50:00Z"
+        },
+        {
           "title": "Nuclear Energy Stocks Rally as Demand for Reliable Clean Power Grows",
           "url": "https://finance.yahoo.com/energy/articles/nuclear-energy-stocks-rally-demand-150400417.html",
           "publisher": "Zacks",
@@ -1423,12 +1403,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/oklo-vs-nuscale-vs-bwx-110500181.html",
           "publisher": "Motley Fool",
           "published": "2026-09-23T11:05:00Z"
-        },
-        {
-          "title": "BWX Technologies (BWXT) Wins $4 Million Y-12 Design Contract. Could Construction Follow?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bwx-technologies-bwxt-wins-4-104356882.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-09-22T10:43:56Z"
         }
       ]
     },
