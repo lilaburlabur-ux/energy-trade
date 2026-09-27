@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-09-27T16:35:38+00:00",
-  "as_of_local": "2026-09-27 16:35:38 UTC",
+  "as_of_utc": "2026-09-27T16:50:35+00:00",
+  "as_of_local": "2026-09-27 16:50:35 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "DINO"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -573,7 +571,26 @@
       "previous_close": 68.65,
       "change_pct": -0.67,
       "market_cap": 80515017320.58868,
-      "headlines": []
+      "headlines": [
+        {
+          "title": "Pan American Silver And 2 Canadian Undervalued Stocks To Watch",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/pan-american-silver-2-canadian-230813027.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-09-26T23:08:13Z"
+        },
+        {
+          "title": "Should You Buy Suncor Energy Stock After Its 63% Surge in a Year?",
+          "url": "https://finance.yahoo.com/energy/articles/buy-suncor-energy-stock-63-124600871.html",
+          "publisher": "Zacks",
+          "published": "2026-09-14T12:46:00Z"
+        },
+        {
+          "title": "Imperial Oil Stock Rises 49% YTD: Time to Hold or Lock in Profits?",
+          "url": "https://finance.yahoo.com/energy/articles/imperial-oil-stock-rises-49-150300019.html",
+          "publisher": "Zacks",
+          "published": "2026-09-08T15:03:00Z"
+        }
+      ]
     },
     {
       "symbol": "EPD",
@@ -1244,6 +1261,34 @@
           "url": "https://finance.yahoo.com/energy/articles/solar-stocks-tumble-30-treasury-125942781.html",
           "publisher": "GuruFocus.com",
           "published": "2026-09-25T12:59:42Z"
+        }
+      ]
+    },
+    {
+      "symbol": "DINO",
+      "name": "HF Sinclair",
+      "price": 106.82,
+      "previous_close": 105.79,
+      "change_pct": 0.97,
+      "market_cap": 18990870695.924675,
+      "headlines": [
+        {
+          "title": "Oil Prices Remain High, But These 2 Refiners Keep Outperforming",
+          "url": "https://finance.yahoo.com/energy/articles/oil-prices-remain-high-2-140100078.html",
+          "publisher": "Zacks",
+          "published": "2026-09-25T14:01:00Z"
+        },
+        {
+          "title": "5 Low Price-to-Sales Stocks That Deserve Investor Attention",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/5-low-price-sales-stocks-143300451.html",
+          "publisher": "Zacks",
+          "published": "2026-09-23T14:33:00Z"
+        },
+        {
+          "title": "Will Par Pacific's Retail Expansion Boost Earnings Stability Ahead?",
+          "url": "https://finance.yahoo.com/energy/articles/par-pacifics-retail-expansion-boost-151000760.html",
+          "publisher": "Zacks",
+          "published": "2026-09-22T15:10:00Z"
         }
       ]
     },
