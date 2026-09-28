@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-28T21:03:20+00:00",
-  "as_of_local": "2026-09-28 21:03:20 UTC",
+  "as_of_utc": "2026-09-28T21:08:24+00:00",
+  "as_of_local": "2026-09-28 21:08:24 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -349,6 +349,12 @@
       "market_cap": 100203002231.93008,
       "headlines": [
         {
+          "title": "Top Research Reports for Alphabet, Mastercard & AbbVie",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/top-research-reports-alphabet-mastercard-194900973.html",
+          "publisher": "Zacks",
+          "published": "2026-09-28T19:49:00Z"
+        },
+        {
           "title": "TD Cowen highlights top oil stocks ahead of earnings season",
           "url": "https://finance.yahoo.com/energy/articles/td-cowen-highlights-top-oil-181901328.html",
           "publisher": "Investing.com",
@@ -359,12 +365,6 @@
           "url": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-american-152148371.html",
           "publisher": "MT Newswires",
           "published": "2026-09-28T15:21:48Z"
-        },
-        {
-          "title": "What Makes Equinor (EQNR) a New Strong Buy Stock",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/makes-equinor-eqnr-strong-buy-150002294.html",
-          "publisher": "Zacks",
-          "published": "2026-09-28T15:00:02Z"
         }
       ]
     },
@@ -2115,13 +2115,13 @@
     },
     {
       "label": "WTI",
-      "price": 93.43,
-      "change_pct": 1.1
+      "price": 93.27,
+      "change_pct": 0.93
     },
     {
       "label": "Brent",
-      "price": 98.68,
-      "change_pct": -5.41
+      "price": 98.55,
+      "change_pct": -5.53
     },
     {
       "label": "NatGas",
