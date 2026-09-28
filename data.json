@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-28T08:30:23+00:00",
-  "as_of_local": "2026-09-28 08:30:23 UTC",
+  "as_of_utc": "2026-09-28T08:33:00+00:00",
+  "as_of_local": "2026-09-28 08:33:00 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -1775,7 +1775,26 @@
       "previous_close": 31.91,
       "change_pct": 2.41,
       "market_cap": 2010661463.4161682,
-      "headlines": []
+      "headlines": [
+        {
+          "title": "Solar Stocks Tumble After 30-Year Treasury Yield Hits 2004 High",
+          "url": "https://finance.yahoo.com/energy/articles/solar-stocks-tumble-30-treasury-125942781.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-09-25T12:59:42Z"
+        },
+        {
+          "title": "First Solar, Enphase, SolarEdge, Alight, and Goodyear Shares Are Falling, What You Need To Know",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/first-solar-enphase-solaredge-alight-235258458.html",
+          "publisher": "StockStory",
+          "published": "2026-09-24T23:52:58Z"
+        },
+        {
+          "title": "Why SolarEdge Technologies (SEDG) Dipped More Than Broader Market Today",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-solaredge-technologies-sedg-dipped-211502520.html",
+          "publisher": "Zacks",
+          "published": "2026-09-24T21:15:02Z"
+        }
+      ]
     },
     {
       "symbol": "RUN",
@@ -2096,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 94.7,
-      "change_pct": 2.48
+      "price": 94.8,
+      "change_pct": 2.59
     },
     {
       "label": "Brent",
-      "price": 99.76,
-      "change_pct": -4.37
+      "price": 99.99,
+      "change_pct": -4.15
     },
     {
       "label": "NatGas",
-      "price": 3.11,
-      "change_pct": -2.63
+      "price": 3.12,
+      "change_pct": -2.5
     }
   ]
 }
