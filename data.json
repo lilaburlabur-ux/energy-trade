@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-28T01:17:06+00:00",
-  "as_of_local": "2026-09-28 01:17:06 UTC",
+  "as_of_utc": "2026-09-28T01:32:06+00:00",
+  "as_of_local": "2026-09-28 01:32:06 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -405,6 +405,12 @@
       "market_cap": 97509803987.48373,
       "headlines": [
         {
+          "title": "Western Digital Stock Is Just One Of 3 Top AI Infrastructure Picks",
+          "url": "https://finance.yahoo.com/technology/ai/articles/western-digital-stock-just-one-010948739.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-09-28T01:09:48Z"
+        },
+        {
           "title": "2 Data Center Stocks That Could Help Make You a Fortune",
           "url": "https://finance.yahoo.com/technology/articles/2-data-center-stocks-could-103500035.html",
           "publisher": "Motley Fool",
@@ -415,12 +421,6 @@
           "url": "https://finance.yahoo.com/markets/options/articles/much-further-could-vertiv-stock-191945039.html",
           "publisher": "Trefis",
           "published": "2026-09-25T19:19:45Z"
-        },
-        {
-          "title": "How to Play VRT Stock as Vertiv Acquires King Environmental Services",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/play-vrt-stock-vertiv-acquires-183918550.html",
-          "publisher": "Barchart",
-          "published": "2026-09-25T18:39:18Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 92.92,
-      "change_pct": 0.55
+      "price": 93.32,
+      "change_pct": 0.98
     },
     {
       "label": "Brent",
-      "price": 97.9,
-      "change_pct": -6.15
+      "price": 98.27,
+      "change_pct": -5.8
     },
     {
       "label": "NatGas",
       "price": 3.12,
-      "change_pct": -2.53
+      "change_pct": -2.41
     }
   ]
 }
