@@ -1,10 +1,27 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-28T21:07:55+00:00",
+  "as_of": "2026-09-28T21:13:19+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": []
+ "hot_tickers": [
+  {
+   "rank": 1,
+   "ticker": "BE",
+   "company": "Bloom Energy Corporation",
+   "move_pct": -8.1,
+   "price": 265.32,
+   "volume": 15498318,
+   "volume_vs_avg": "~1.0x",
+   "heat_score": 58,
+   "direction": "down",
+   "why": "Can the AI Power Boom Justify Bloom Energy\u2019s (BE) $85 Billion Valuation?",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/technology/ai/articles/ai-power-boom-justify-bloom-204558114.html",
+   "published": "2026-09-28T20:45:58Z",
+   "sector": "Grid, Storage & Electrification"
+  }
+ ]
 }
