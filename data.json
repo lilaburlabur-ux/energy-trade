@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-09-28T12:56:45+00:00",
-  "as_of_local": "2026-09-28 12:56:45 UTC",
+  "as_of_utc": "2026-09-28T13:01:48+00:00",
+  "as_of_local": "2026-09-28 13:01:48 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "OKE"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -349,6 +351,12 @@
       "market_cap": 100013354170.20978,
       "headlines": [
         {
+          "title": "Best Income Stocks to Buy for September 28th",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/best-income-stocks-buy-september-115100773.html",
+          "publisher": "Zacks",
+          "published": "2026-09-28T11:51:00Z"
+        },
+        {
           "title": "New Strong Buy Stocks for September 28th",
           "url": "https://finance.yahoo.com/markets/stocks/articles/strong-buy-stocks-september-28th-080000751.html",
           "publisher": "Zacks",
@@ -359,12 +367,6 @@
           "url": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-american-151522482.html",
           "publisher": "MT Newswires",
           "published": "2026-09-25T15:15:22Z"
-        },
-        {
-          "title": "Aker BP and partners upgrade Verdandi and Lillefix resource size",
-          "url": "https://finance.yahoo.com/energy/articles/aker-bp-partners-upgrade-verdandi-145829766.html",
-          "publisher": "Offshore Technology",
-          "published": "2026-09-25T14:58:29Z"
         }
       ]
     },
@@ -375,26 +377,7 @@
       "previous_close": 643.5,
       "change_pct": 0.87,
       "market_cap": 97592407432.1886,
-      "headlines": [
-        {
-          "title": "2 Profitable Stocks Worth Your Attention and 1 We Avoid",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/2-profitable-stocks-worth-attention-080623388.html",
-          "publisher": "StockStory",
-          "published": "2026-09-28T08:06:23Z"
-        },
-        {
-          "title": "2 S&P 500 Stocks Worth Your Attention and 1 We Turn Down",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/2-p-500-stocks-worth-172037008.html",
-          "publisher": "StockStory",
-          "published": "2026-09-25T17:20:37Z"
-        },
-        {
-          "title": "Quanta Services (PWR) Stock Looks Pricey Against Its Cash Flow Outlook",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/quanta-services-pwr-stock-looks-171315072.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-09-25T17:13:15Z"
-        }
-      ]
+      "headlines": []
     },
     {
       "symbol": "VRT",
@@ -841,34 +824,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/5-warren-buffett-largest-berkshire-125030896.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-09-23T12:50:30Z"
-        }
-      ]
-    },
-    {
-      "symbol": "OKE",
-      "name": "ONEOK",
-      "price": 88.63,
-      "previous_close": 91.18,
-      "change_pct": -2.8,
-      "market_cap": 55873165930.41941,
-      "headlines": [
-        {
-          "title": "Why ONEOK\u2019s Dividend Raise Matters More Than Its Eye-Catching Yield",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-oneok-dividend-raise-matters-143233868.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-09-24T14:32:33Z"
-        },
-        {
-          "title": "Oneok Inc. (OKE) Stock Drops Despite Market Gains: Important Facts to Note",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/oneok-inc-oke-stock-drops-221504604.html",
-          "publisher": "Zacks",
-          "published": "2026-09-21T22:15:04Z"
-        },
-        {
-          "title": "Oil Prices Rise and Fall. These 4 High-Yield Pipeline Stocks Keep Paying",
-          "url": "https://finance.yahoo.com/energy/articles/oil-prices-rise-fall-4-135338492.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-09-18T13:53:38Z"
         }
       ]
     },
@@ -2115,18 +2070,18 @@
     },
     {
       "label": "WTI",
-      "price": 94.51,
-      "change_pct": 2.27
+      "price": 94.31,
+      "change_pct": 2.06
     },
     {
       "label": "Brent",
-      "price": 99.32,
-      "change_pct": -4.79
+      "price": 99.13,
+      "change_pct": -4.98
     },
     {
       "label": "NatGas",
       "price": 3.13,
-      "change_pct": -2.1
+      "change_pct": -2.16
     }
   ]
 }
