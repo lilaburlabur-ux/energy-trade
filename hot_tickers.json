@@ -1,10 +1,27 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-28T17:14:18+00:00",
+  "as_of": "2026-09-28T17:29:28+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": []
+ "hot_tickers": [
+  {
+   "rank": 1,
+   "ticker": "BE",
+   "company": "Bloom Energy Corporation",
+   "move_pct": -8.14,
+   "price": 265.21,
+   "volume": 10889351,
+   "volume_vs_avg": "~0.7x",
+   "heat_score": 57,
+   "direction": "down",
+   "why": "Bloom Energy Sinks 8% as Sharp Run Unwinds; Plug Power Drops 6%, FuelCell Eases",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-sinks-8-sharp-171245218.html",
+   "published": "2026-09-28T17:12:45Z",
+   "sector": "Grid, Storage & Electrification"
+  }
+ ]
 }
