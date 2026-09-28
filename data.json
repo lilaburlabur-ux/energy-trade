@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-28T09:38:55+00:00",
-  "as_of_local": "2026-09-28 09:38:55 UTC",
+  "as_of_utc": "2026-09-28T09:43:58+00:00",
+  "as_of_local": "2026-09-28 09:43:58 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -97,6 +97,12 @@
       "market_cap": 255049028473.48694,
       "headlines": [
         {
+          "title": "1 High-Flying Stock for Long-Term Investors and 2 We Brush Off",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/1-high-flying-stock-long-093436792.html",
+          "publisher": "StockStory",
+          "published": "2026-09-28T09:34:36Z"
+        },
+        {
           "title": "X-Energy vs. GE Vernova: Is the New IPO the Better Buy?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/x-energy-vs-ge-vernova-025000431.html",
           "publisher": "Motley Fool",
@@ -107,12 +113,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/470-sell-rating-calls-ge-113937749.html",
           "publisher": "TIKR",
           "published": "2026-09-27T11:39:37Z"
-        },
-        {
-          "title": "Anthropic and OpenAI Are Both Racing to IPO. GE Vernova Wins Either Way.",
-          "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-openai-both-racing-ipo-090400839.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-27T09:04:00Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 95.47,
-      "change_pct": 3.31
+      "price": 95.45,
+      "change_pct": 3.29
     },
     {
       "label": "Brent",
-      "price": 100.58,
-      "change_pct": -3.59
+      "price": 100.54,
+      "change_pct": -3.62
     },
     {
       "label": "NatGas",
       "price": 3.12,
-      "change_pct": -2.47
+      "change_pct": -2.44
     }
   ]
 }
