@@ -5,7 +5,7 @@ Signed file: `NEE.research.28.09.2026`
 | Field | Value |
 |---|---|
 | Current price | $75.49 (2026-09-28, ~15-min delayed) |
-| Market cap | $157.47B |
+| Market cap | $157.44B |
 | Sector / Industry | Utilities / Utilities - Regulated Electric |
 | Main theme | Utilities - Regulated Electric — see catalysts below |
 | Current stance | Low technical momentum, strong fundamentals, value: reasonable, risk: moderate. |
@@ -36,10 +36,10 @@ NextEra Energy, Inc., through its subsidiaries, generates, stores, transmits, di
 
 | Headline | Source | Date |
 |---|---|---|
+| Dominion Energy (D) Stock Still Looks Discounted Following Its 65% Three Year Run | Simply Wall St. | 2026-09-28 |
 | Rolls Royce Stock And 2 Top Nuclear Power Stocks | Simply Wall St. | 2026-09-28 |
 | Can Improving Operating Efficiency Support PPL's Earnings Growth? | Zacks | 2026-09-28 |
 | 3 Great Nuclear Stocks To Own In September 2026 | Simply Wall St. | 2026-09-28 |
-| NextEra Energy (NEE), What Is Behind The Fresh Attention? | Simply Wall St. | 2026-09-27 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -110,7 +110,7 @@ NextEra Energy, Inc., through its subsidiaries, generates, stores, transmits, di
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $75.49 | EV/Sales | 9.65 |
-| Market cap | $157.47B | EV/EBITDA | 18.98 |
+| Market cap | $157.44B | EV/EBITDA | 18.98 |
 | Beta | 0.64 | Gross margin | 61.02% |
 | RSI(14) | 21.8 | Operating margin | 31.52% |
 | ATR(14) | 1.29 | Profit margin | 32.40% |
