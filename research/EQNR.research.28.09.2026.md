@@ -36,10 +36,10 @@ Equinor ASA operates as an energy company in Norway and internationally. It oper
 
 | Headline | Source | Date |
 |---|---|---|
+| Top Research Reports for Alphabet, Mastercard & AbbVie | Zacks | 2026-09-28 |
 | TD Cowen highlights top oil stocks ahead of earnings season | Investing.com | 2026-09-28 |
 | European Equities Traded in the US as American Depositary Receipts Start Week Slightly Lower in Monday Trading | MT Newswires | 2026-09-28 |
 | What Makes Equinor (EQNR) a New Strong Buy Stock | Zacks | 2026-09-28 |
-| Sector Update: Energy Stocks Rise Premarket Monday | MT Newswires | 2026-09-28 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

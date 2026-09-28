@@ -36,10 +36,10 @@ Dominion Energy, Inc. provides regulated electricity and natural gas services in
 
 | Headline | Source | Date |
 |---|---|---|
+| Dominion Energy (D) Stock Still Looks Discounted Following Its 65% Three Year Run | Simply Wall St. | 2026-09-28 |
 | CEG vs. D: Which Energy Stock Has Better Long-Term Upside Potential? | Zacks | 2026-09-28 |
 | Before September Ends, $150,000 in These 2 Dividend Stocks Could Set Up $500 a Month | 24/7 Wall St. | 2026-09-28 |
 | 2 Green Flags and 2 Red Flags for Nuclear Stocks After This Year's Sell-Off | Motley Fool | 2026-09-26 |
-| Why Dominion Energy Halted Dividend Growth Despite Strong Operating Performance | 24/7 Wall St. | 2026-09-25 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

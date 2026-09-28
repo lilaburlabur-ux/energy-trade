@@ -36,10 +36,10 @@ Bloom Energy Corporation designs, manufactures, sells, and installs solid oxide 
 
 | Headline | Source | Date |
 |---|---|---|
+| Can the AI Power Boom Justify Bloom Energy’s (BE) $85 Billion Valuation? | Insider Monkey | 2026-09-28 |
 | AI Hardware Fatigue Is Spreading to Sandisk and Marvell | Barrons.com | 2026-09-28 |
 | Weight of Evidence Points Higher for US Stocks, Led by AI | Zacks | 2026-09-28 |
 | Bloom Energy Sinks 8% as Sharp Run Unwinds; Plug Power Drops 6%, FuelCell Eases | 24/7 Wall St. | 2026-09-28 |
-| Take the Zacks Approach to Beat the Markets: Bloom Energy, Microsoft & Amgen in Focus | Zacks | 2026-09-28 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -131,6 +131,7 @@ Bloom Energy Corporation designs, manufactures, sells, and installs solid oxide 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-09-28 | main | RBC Capital | Outperform → Outperform |
 | 2026-09-14 | main | Mizuho | Outperform → Outperform |
 | 2026-08-27 | reit | Bernstein | Market Perform → Market Perform |
 | 2026-08-14 | main | Jefferies | Hold → Hold |
@@ -138,7 +139,6 @@ Bloom Energy Corporation designs, manufactures, sells, and installs solid oxide 
 | 2026-07-30 | up | Mizuho | Neutral → Outperform |
 | 2026-07-30 | main | Truist Securities | Hold → Hold |
 | 2026-07-29 | main | JP Morgan | Overweight → Overweight |
-| 2026-07-29 | main | UBS | Buy → Buy |
 
 ## 9. Conclusion
 BE: High momentum / mixed fundamentals / low (expensive) value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
