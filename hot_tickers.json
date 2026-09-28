@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-28T23:35:35+00:00",
+  "as_of": "2026-09-28T23:50:35+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,11 +11,11 @@
    "rank": 1,
    "ticker": "BE",
    "company": "Bloom Energy Corporation",
-   "move_pct": -8.1,
-   "price": 265.3,
+   "move_pct": -8.25,
+   "price": 264.89,
    "volume": 15498318,
    "volume_vs_avg": "~1.0x",
-   "heat_score": 58,
+   "heat_score": 59,
    "direction": "down",
    "why": "Bloom Energy (BE) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
    "catalyst_type": "momentum_narrative",
