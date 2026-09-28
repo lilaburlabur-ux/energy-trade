@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-28T09:08:38+00:00",
-  "as_of_local": "2026-09-28 09:08:38 UTC",
+  "as_of_utc": "2026-09-28T09:13:26+00:00",
+  "as_of_local": "2026-09-28 09:13:26 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -349,6 +349,12 @@
       "market_cap": 100013354170.20978,
       "headlines": [
         {
+          "title": "New Strong Buy Stocks for September 28th",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/strong-buy-stocks-september-28th-080000751.html",
+          "publisher": "Zacks",
+          "published": "2026-09-28T08:00:00Z"
+        },
+        {
           "title": "European Equities Traded in the US as American Depositary Receipts Edge Higher in Friday Trading; Down for Week",
           "url": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-american-151522482.html",
           "publisher": "MT Newswires",
@@ -359,12 +365,6 @@
           "url": "https://finance.yahoo.com/energy/articles/aker-bp-partners-upgrade-verdandi-145829766.html",
           "publisher": "Offshore Technology",
           "published": "2026-09-25T14:58:29Z"
-        },
-        {
-          "title": "European Equities Traded in the US as American Depositary Receipts Edge Lower in Thursday Trading",
-          "url": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-american-151042797.html",
-          "publisher": "MT Newswires",
-          "published": "2026-09-24T15:10:42Z"
         }
       ]
     },
@@ -2115,13 +2115,13 @@
     },
     {
       "label": "WTI",
-      "price": 95.49,
-      "change_pct": 3.33
+      "price": 95.58,
+      "change_pct": 3.43
     },
     {
       "label": "Brent",
-      "price": 100.64,
-      "change_pct": -3.53
+      "price": 100.75,
+      "change_pct": -3.42
     },
     {
       "label": "NatGas",
