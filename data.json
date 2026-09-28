@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-09-28T03:54:06+00:00",
-  "as_of_local": "2026-09-28 03:54:06 UTC",
+  "as_of_utc": "2026-09-28T04:08:28+00:00",
+  "as_of_local": "2026-09-28 04:08:28 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "FANG"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -925,34 +927,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/dominion-energy-d-dips-more-210006527.html",
           "publisher": "Zacks",
           "published": "2026-09-24T21:00:06Z"
-        }
-      ]
-    },
-    {
-      "symbol": "FANG",
-      "name": "Diamondback Energy",
-      "price": 186.67,
-      "previous_close": 189.01,
-      "change_pct": -1.24,
-      "market_cap": 52271294059.90845,
-      "headlines": [
-        {
-          "title": "Oil May Be Stronger Than It Looks\u2014And Diamondback Is on Sale",
-          "url": "https://finance.yahoo.com/energy/articles/oil-may-stronger-looks-diamondback-150000436.html",
-          "publisher": "MarketBeat",
-          "published": "2026-09-25T15:00:00Z"
-        },
-        {
-          "title": "3 Oil Stocks Investors May Revisit As Supply Worries Lift Crude",
-          "url": "https://finance.yahoo.com/energy/articles/3-oil-stocks-investors-may-141134464.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-09-25T14:11:34Z"
-        },
-        {
-          "title": "Is EOG Resources Stock A Buy For Its Shrinking Share Count?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/eog-resources-stock-buy-shrinking-174822273.html",
-          "publisher": "Trefis",
-          "published": "2026-09-23T17:48:22Z"
         }
       ]
     },
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 93.78,
-      "change_pct": 1.48
+      "price": 92.41,
+      "change_pct": -2.33
     },
     {
       "label": "Brent",
-      "price": 98.72,
-      "change_pct": -5.37
+      "price": 104.32,
+      "change_pct": -2.14
     },
     {
       "label": "NatGas",
-      "price": 3.11,
-      "change_pct": -2.69
+      "price": 3.2,
+      "change_pct": -3.06
     }
   ]
 }
