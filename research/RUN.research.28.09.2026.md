@@ -5,7 +5,7 @@ Signed file: `RUN.research.28.09.2026`
 | Field | Value |
 |---|---|
 | Current price | $7.67 (2026-09-28, ~15-min delayed) |
-| Market cap | $1.85B |
+| Market cap | $1.83B |
 | Sector / Industry | Technology / Solar |
 | Main theme | Solar — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: high. |
@@ -113,7 +113,7 @@ Sunrun Inc. designs, develops, installs, sells, owns, and maintains residential 
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $7.67 | EV/Sales | 5.23 |
-| Market cap | $1.85B | EV/EBITDA | 21.62 |
+| Market cap | $1.83B | EV/EBITDA | 21.62 |
 | Beta | 2.36 | Gross margin | 35.29% |
 | RSI(14) | 35.5 | Operating margin | 4.00% |
 | ATR(14) | 0.48 | Profit margin | 11.59% |
