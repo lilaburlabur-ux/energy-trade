@@ -1,16 +1,16 @@
 {
-  "as_of_utc": "2026-09-28T20:19:11+00:00",
-  "as_of_local": "2026-09-28 20:19:11 UTC",
+  "as_of_utc": "2026-09-28T20:22:54+00:00",
+  "as_of_local": "2026-09-28 20:22:54 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
       "name": "ExxonMobil",
-      "price": 162.53,
+      "price": 162.52,
       "previous_close": 160.59,
-      "change_pct": 1.21,
-      "market_cap": 668309045839.3762,
+      "change_pct": 1.2,
+      "market_cap": 668267949307.1832,
       "headlines": [
         {
           "title": "TD Cowen highlights top oil stocks ahead of earnings season",
@@ -35,10 +35,10 @@
     {
       "symbol": "CVX",
       "name": "Chevron",
-      "price": 206.25,
+      "price": 206.37,
       "previous_close": 204.45,
-      "change_pct": 0.88,
-      "market_cap": 404580675262.5,
+      "change_pct": 0.94,
+      "market_cap": 404816058077.239,
       "headlines": [
         {
           "title": "Stock Market Today: Dow Off Lows After Iran Report; Leisure Play Tests Entry, MongoDB Dives (Live Coverage)",
@@ -153,6 +153,12 @@
       "market_cap": 167516504421.99707,
       "headlines": [
         {
+          "title": "Vertiv (VRT) vs. Eaton (ETN): Which AI Power Stock Is the Better Buy?",
+          "url": "https://finance.yahoo.com/technology/ai/articles/vertiv-vrt-vs-eaton-etn-201146738.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-09-28T20:11:46Z"
+        },
+        {
           "title": "9 Green Days In A Row: nVent Electric Stock Is Up 12%",
           "url": "https://finance.yahoo.com/markets/stocks/articles/9-green-days-row-nvent-175742311.html",
           "publisher": "Trefis",
@@ -163,12 +169,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/did-vertiv-stock-took-off-162154471.html",
           "publisher": "Trefis",
           "published": "2026-09-28T16:21:54Z"
-        },
-        {
-          "title": "Can Eaton's Strategic Acquisitions Boost Further Long-Term Growth?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/eatons-strategic-acquisitions-boost-further-160700410.html",
-          "publisher": "Zacks",
-          "published": "2026-09-28T16:07:00Z"
         }
       ]
     },
@@ -903,10 +903,10 @@
     {
       "symbol": "D",
       "name": "Dominion Energy",
-      "price": 60.26,
+      "price": 60.28,
       "previous_close": 60.68,
-      "change_pct": -0.69,
-      "market_cap": 53000232210.48489,
+      "change_pct": -0.66,
+      "market_cap": 53017823132.079926,
       "headlines": [
         {
           "title": "CEG vs. D: Which Energy Stock Has Better Long-Term Upside Potential?",
@@ -1803,7 +1803,26 @@
       "previous_close": 8.11,
       "change_pct": -5.43,
       "market_cap": 1829673049.4898663,
-      "headlines": []
+      "headlines": [
+        {
+          "title": "Can This Number Push Tesla Stock Higher?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/number-push-tesla-stock-higher-142740248.html",
+          "publisher": "Trefis",
+          "published": "2026-09-28T14:27:40Z"
+        },
+        {
+          "title": "What Would It Take For Tesla Stock To Move Higher?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-move-higher-133711359.html",
+          "publisher": "Trefis",
+          "published": "2026-09-25T13:37:11Z"
+        },
+        {
+          "title": "Solar Stocks Tumble After 30-Year Treasury Yield Hits 2004 High",
+          "url": "https://finance.yahoo.com/energy/articles/solar-stocks-tumble-30-treasury-125942781.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-09-25T12:59:42Z"
+        }
+      ]
     },
     {
       "symbol": "EOSE",
@@ -1902,8 +1921,8 @@
           "name": "ExxonMobil Holdings Corp",
           "short": "ExxonMobil",
           "weight_pct": 19.86,
-          "change_pct": 1.21,
-          "price": 162.53,
+          "change_pct": 1.2,
+          "price": 162.52,
           "currency": "USD"
         },
         {
@@ -1911,8 +1930,8 @@
           "name": "Chevron Corp",
           "short": "Chevron",
           "weight_pct": 14.89,
-          "change_pct": 0.88,
-          "price": 206.25,
+          "change_pct": 0.94,
+          "price": 206.37,
           "currency": "USD"
         },
         {
@@ -2001,8 +2020,8 @@
         "name": "ExxonMobil Holdings Corp",
         "short": "ExxonMobil",
         "weight_pct": 19.86,
-        "change_pct": 1.21,
-        "price": 162.53,
+        "change_pct": 1.2,
+        "price": 162.52,
         "currency": "USD"
       },
       {
@@ -2010,8 +2029,8 @@
         "name": "Chevron Corp",
         "short": "Chevron",
         "weight_pct": 14.89,
-        "change_pct": 0.88,
-        "price": 206.25,
+        "change_pct": 0.94,
+        "price": 206.37,
         "currency": "USD"
       },
       {
@@ -2096,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 92.93,
-      "change_pct": 0.56
+      "price": 92.88,
+      "change_pct": 0.51
     },
     {
       "label": "Brent",
-      "price": 98.23,
-      "change_pct": -5.84
+      "price": 98.2,
+      "change_pct": -5.87
     },
     {
       "label": "NatGas",
-      "price": 3.15,
-      "change_pct": -1.53
+      "price": 3.14,
+      "change_pct": -1.85
     }
   ]
 }
