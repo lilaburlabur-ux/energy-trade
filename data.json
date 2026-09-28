@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-28T06:24:22+00:00",
-  "as_of_local": "2026-09-28 06:24:22 UTC",
+  "as_of_utc": "2026-09-28T06:39:28+00:00",
+  "as_of_local": "2026-09-28 06:39:28 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -545,6 +545,12 @@
       "market_cap": 84716581723.68762,
       "headlines": [
         {
+          "title": "I Keep Adding to This Pipeline Stock. Here's Why the Yield Isn't the Only Reason.",
+          "url": "https://finance.yahoo.com/energy/articles/keep-adding-pipeline-stock-heres-062000494.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-28T06:20:00Z"
+        },
+        {
           "title": "5 Midstream Giants That Raised Dividends Through Market Cycles: Your Guide to Recession-Resistant Income",
           "url": "https://finance.yahoo.com/energy/articles/5-midstream-giants-raised-dividends-135505637.html",
           "publisher": "24/7 Wall St.",
@@ -555,12 +561,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-oneok-dividend-raise-matters-143233868.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-09-24T14:32:33Z"
-        },
-        {
-          "title": "Data Center Buildout Boosts Natural Gas Use: WMB, AR & KMI to Gain?",
-          "url": "https://finance.yahoo.com/energy/articles/data-center-buildout-boosts-natural-125600245.html",
-          "publisher": "Zacks",
-          "published": "2026-09-24T12:56:00Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 93.95,
-      "change_pct": 1.67
+      "price": 94.07,
+      "change_pct": 1.8
     },
     {
       "label": "Brent",
-      "price": 98.81,
-      "change_pct": -5.28
+      "price": 98.96,
+      "change_pct": -5.14
     },
     {
       "label": "NatGas",
-      "price": 3.11,
-      "change_pct": -2.57
+      "price": 3.12,
+      "change_pct": -2.44
     }
   ]
 }
