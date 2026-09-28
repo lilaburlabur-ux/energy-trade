@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-28T20:53:35+00:00",
-  "as_of_local": "2026-09-28 20:53:35 UTC",
+  "as_of_utc": "2026-09-28T20:58:15+00:00",
+  "as_of_local": "2026-09-28 20:58:15 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -601,6 +601,12 @@
       "market_cap": 77422402004.8982,
       "headlines": [
         {
+          "title": "Can the AI Power Boom Justify Bloom Energy\u2019s (BE) $85 Billion Valuation?",
+          "url": "https://finance.yahoo.com/technology/ai/articles/ai-power-boom-justify-bloom-204558114.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-09-28T20:45:58Z"
+        },
+        {
           "title": "AI Hardware Fatigue Is Spreading to Sandisk and Marvell",
           "url": "https://www.barrons.com/articles/ai-stocks-intel-bloom-energy-openai-training-pause-1308f308?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
@@ -611,12 +617,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/weight-evidence-points-higher-us-175300571.html",
           "publisher": "Zacks",
           "published": "2026-09-28T17:53:00Z"
-        },
-        {
-          "title": "Bloom Energy Sinks 8% as Sharp Run Unwinds; Plug Power Drops 6%, FuelCell Eases",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-sinks-8-sharp-171245218.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-09-28T17:12:45Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 93.37,
-      "change_pct": 1.04
+      "price": 93.35,
+      "change_pct": 1.02
     },
     {
       "label": "Brent",
-      "price": 98.67,
-      "change_pct": -5.42
+      "price": 98.6,
+      "change_pct": -5.48
     },
     {
       "label": "NatGas",
       "price": 3.14,
-      "change_pct": -1.63
+      "change_pct": -1.72
     }
   ]
 }
