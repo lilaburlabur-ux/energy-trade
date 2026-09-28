@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-09-28T08:05:20+00:00",
-  "as_of_local": "2026-09-28 08:05:20 UTC",
+  "as_of_utc": "2026-09-28T08:10:01+00:00",
+  "as_of_local": "2026-09-28 08:10:01 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "BKR"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -787,6 +785,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-mplx-lp-mplx-dipped-210005196.html",
           "publisher": "Zacks",
           "published": "2026-09-24T21:00:05Z"
+        }
+      ]
+    },
+    {
+      "symbol": "BKR",
+      "name": "Baker Hughes",
+      "price": 57.83,
+      "previous_close": 57.29,
+      "change_pct": 0.94,
+      "market_cap": 57406343343.57051,
+      "headlines": [
+        {
+          "title": "Cactus (WHD) Tests Its Baker Hughes Narrative On A Valuation That Looks Nearly Fair",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/cactus-whd-tests-baker-hughes-200556815.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-09-27T20:05:56Z"
+        },
+        {
+          "title": "US rig count up four as prices decline",
+          "url": "https://finance.yahoo.com/energy/articles/us-rig-count-four-prices-000100627.html",
+          "publisher": "Odessa American, Texas",
+          "published": "2026-09-26T00:01:00Z"
+        },
+        {
+          "title": "U.S. Oil, Gas Drilling Perks Up As Pressure Mounts",
+          "url": "https://finance.yahoo.com/energy/articles/u-oil-gas-drilling-perks-171500350.html",
+          "publisher": "Oilprice.com",
+          "published": "2026-09-25T17:15:00Z"
         }
       ]
     },
@@ -2094,13 +2120,13 @@
     },
     {
       "label": "Brent",
-      "price": 99.26,
-      "change_pct": -4.85
+      "price": 99.15,
+      "change_pct": -4.96
     },
     {
       "label": "NatGas",
       "price": 3.12,
-      "change_pct": -2.44
+      "change_pct": -2.41
     }
   ]
 }
