@@ -36,10 +36,10 @@ GE Vernova Inc., an energy company, engages in the provision of various products
 
 | Headline | Source | Date |
 |---|---|---|
+| Rolls Royce Stock And 2 Top Nuclear Power Stocks | Simply Wall St. | 2026-09-28 |
 | Why GE Vernova (GEV) Is Back In The Spotlight | Simply Wall St. | 2026-09-28 |
 | 1 High-Flying Stock for Long-Term Investors and 2 We Brush Off | StockStory | 2026-09-28 |
 | X-Energy vs. GE Vernova: Is the New IPO the Better Buy? | Motley Fool | 2026-09-28 |
-| A $470 Sell Rating Calls GE Vernova a Cyclical Turbine Maker. Its CEO Says 2032 Slots Are Already Selling | TIKR | 2026-09-27 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -36,10 +36,10 @@ NextEra Energy, Inc., through its subsidiaries, generates, stores, transmits, di
 
 | Headline | Source | Date |
 |---|---|---|
+| Rolls Royce Stock And 2 Top Nuclear Power Stocks | Simply Wall St. | 2026-09-28 |
 | Can Improving Operating Efficiency Support PPL's Earnings Growth? | Zacks | 2026-09-28 |
 | 3 Great Nuclear Stocks To Own In September 2026 | Simply Wall St. | 2026-09-28 |
 | NextEra Energy (NEE), What Is Behind The Fresh Attention? | Simply Wall St. | 2026-09-27 |
-| Anthropic Needs Gigawatts of Power It Doesn't Have. This Dividend-Paying Industrial Sells It. | Motley Fool | 2026-09-26 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

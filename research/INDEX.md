@@ -4,7 +4,7 @@
 | Ticker | Mkt cap | 1Y | Fwd P/E | Net margin | Momentum | Value | Risk |
 |---|---|---|---|---|---|---|---|
 | XOM | $668.27B | +45% | 14.7 | 9% | Moderate | Reasonable | Moderate |
-| CVX | $404.82B | +33% | 14.6 | 10% | Moderate | Reasonable | Moderate |
+| CVX | $404.82B | +33% | 15.2 | 10% | Moderate | Reasonable | Moderate |
 | SHEL | $275.16B | +37% | 9.3 | 9% | Moderate | Reasonable | Moderate |
 | TTE | $199.50B | +51% | 8.7 | 9% | Moderate | Reasonable | Moderate |
 | BP | $114.43B | +32% | 8.7 | 3% | Moderate | Reasonable | Moderate |
@@ -69,7 +69,7 @@
 | DUK | $88.43B | -4% | 15.8 | 16% | Low | Reasonable | Moderate |
 | SO | $94.73B | -9% | 16.7 | 15% | Low | Reasonable | Moderate |
 | D | $53.02B | +5% | 15.8 | 14% | Moderate | Reasonable | Moderate |
-| PEG | $33.26B | -15% | 14.3 | 16% | Low | Reasonable | Moderate |
+| PEG | $33.25B | -15% | 14.3 | 16% | Low | Reasonable | Moderate |
 | ETR | $46.87B | +11% | 19.2 | 13% | Low | Reasonable | Moderate |
 
 68 reports generated; failed: none.
