@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-28T01:57:48+00:00",
-  "as_of_local": "2026-09-28 01:57:48 UTC",
+  "as_of_utc": "2026-09-28T02:12:52+00:00",
+  "as_of_local": "2026-09-28 02:12:52 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -459,7 +459,26 @@
       "previous_close": 261.62,
       "change_pct": 0.63,
       "market_cap": 93278499776.79288,
-      "headlines": []
+      "headlines": [
+        {
+          "title": "US tech giants could spark a European nuclear revival",
+          "url": "https://finance.yahoo.com/energy/articles/us-tech-giants-could-spark-150400903.html",
+          "publisher": "Proactive",
+          "published": "2026-09-25T15:04:00Z"
+        },
+        {
+          "title": "Constellation vs. Vistra: Which AI Power Stock Is the Better Buy?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/constellation-vs-vistra-ai-power-041142956.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-09-25T04:11:42Z"
+        },
+        {
+          "title": "VST Keeps Writing Checks To Its Shareholders",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/vst-keeps-writing-checks-shareholders-003014479.html",
+          "publisher": "Trefis",
+          "published": "2026-09-25T00:30:14Z"
+        }
+      ]
     },
     {
       "symbol": "DUK",
@@ -2096,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 93.51,
-      "change_pct": 1.19
+      "price": 93.5,
+      "change_pct": 1.18
     },
     {
       "label": "Brent",
-      "price": 98.53,
-      "change_pct": -5.55
+      "price": 98.4,
+      "change_pct": -5.67
     },
     {
       "label": "NatGas",
-      "price": 3.12,
-      "change_pct": -2.53
+      "price": 3.11,
+      "change_pct": -2.75
     }
   ]
 }
