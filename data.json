@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-29T02:15:20+00:00",
-  "as_of_local": "2026-09-29 02:15:20 UTC",
+  "as_of_utc": "2026-09-29T02:30:21+00:00",
+  "as_of_local": "2026-09-29 02:30:21 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -1273,6 +1273,12 @@
       "market_cap": 18589049361.548706,
       "headlines": [
         {
+          "title": "KeyBanc Just Upgraded First Solar Stock. Here's Why.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/keybanc-just-upgraded-first-solar-200836653.html",
+          "publisher": "Barchart",
+          "published": "2026-09-28T20:08:36Z"
+        },
+        {
           "title": "First Solar Faces Pricing Pressure Amid High Inventory, Slow Project Starts, KeyBanc Says",
           "url": "https://finance.yahoo.com/energy/articles/first-solar-faces-pricing-pressure-174532715.html",
           "publisher": "MT Newswires",
@@ -1283,12 +1289,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/dicks-sporting-upgraded-trade-desk-134706727.html",
           "publisher": "The Fly",
           "published": "2026-09-28T13:39:21Z"
-        },
-        {
-          "title": "Here Are Monday\u2019s Top Wall Street Analyst Research Calls: Applied Digital, Autodesk, Datadog, First Solar, L3Harris Technologies, PepsiCo, Roblox, Snowflake, TeraWulf and More",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/monday-top-wall-street-analyst-121206803.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-09-28T12:12:06Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 93.55,
-      "change_pct": 1.23
+      "price": 93.51,
+      "change_pct": 1.19
     },
     {
       "label": "Brent",
-      "price": 99.26,
-      "change_pct": -4.85
+      "price": 99.19,
+      "change_pct": -4.92
     },
     {
       "label": "NatGas",
       "price": 3.13,
-      "change_pct": -1.94
+      "change_pct": -1.91
     }
   ]
 }
