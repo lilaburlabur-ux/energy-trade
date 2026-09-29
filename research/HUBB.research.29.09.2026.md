@@ -5,7 +5,7 @@ Signed file: `HUBB.research.29.09.2026`
 | Field | Value |
 |---|---|
 | Current price | $459.09 (2026-09-29, ~15-min delayed) |
-| Market cap | $24.25B |
+| Market cap | $24.26B |
 | Sector / Industry | Industrials / Electrical Equipment & Parts |
 | Main theme | Electrical Equipment & Parts — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: fair-to-demanding, risk: moderate. |
@@ -18,7 +18,7 @@ Signed file: `HUBB.research.29.09.2026`
 | Technical momentum | Low | Below SMA200 (-5.35%) with negative half-year (-2.16%). |
 | Fresh setup quality | Moderate / wait | -17.20% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 14.49%, revenue growth 15.30%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 20.03, EV/Sales 4.79. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 20.01, EV/Sales 4.73. |
 | Risk level | Moderate | Beta 0.89, ATR 2.7% of price, short float 6.21%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: fair-to-demanding, risk: moderate.
@@ -59,7 +59,7 @@ Hubbell Incorporated, together with its subsidiaries, manufactures and sells ele
 | Revenue (ttm) | $6.22B | Revenue growth 15.30% y/y |
 | Profitability | Gross 35.34%, operating 21.67%, net 14.49% | ROA 8.43%, ROE 24.44% |
 | Balance sheet | Cash $394.70M, debt $5.56B | Current ratio 1.61, debt/equity 141.64 |
-| Valuation | P/E 27.15, forward P/E 20.03, P/S 3.90, P/B 6.20 | EV/Sales 4.79, EV/EBITDA 19.65 |
+| Valuation | P/E 27.15, forward P/E 20.01, P/S 3.90, P/B 6.20 | EV/Sales 4.73, EV/EBITDA 19.42 |
 | Growth expectations | Earnings growth -0.90%, EPS q/q -1.60% | Analyst mean target $562.83 (12 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -86,7 +86,7 @@ Hubbell Incorporated, together with its subsidiaries, manufactures and sells ele
 | Parnassus Investments, LLC | 1,072,570 | 2.03% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 20.03, EV/Sales 4.79. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 20.01, EV/Sales 4.73. Multiple compression is the main downside if growth disappoints.
 - **Short interest risk:** short float 6.21% can fuel squeezes both ways around news.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -102,8 +102,8 @@ Hubbell Incorporated, together with its subsidiaries, manufactures and sells ele
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $459.09 | EV/Sales | 4.79 |
-| Market cap | $24.25B | EV/EBITDA | 19.65 |
+| Price | $459.09 | EV/Sales | 4.73 |
+| Market cap | $24.26B | EV/EBITDA | 19.42 |
 | Beta | 0.89 | Gross margin | 35.34% |
 | RSI(14) | 48.1 | Operating margin | 21.67% |
 | ATR(14) | 12.50 | Profit margin | 14.49% |
@@ -113,7 +113,7 @@ Hubbell Incorporated, together with its subsidiaries, manufactures and sells ele
 | 52W high | $554.46 | Revenue growth y/y | 15.30% |
 | 52W low | $402.45 | Inst. ownership | 99.17% |
 | P/E (ttm) | 27.15 | Insider ownership | 0.35% |
-| Forward P/E | 20.03 | Short float | 6.21% |
+| Forward P/E | 20.01 | Short float | 6.21% |
 | PEG (trailing) | 1.95 | Avg volume | 522,642 |
 | P/S | 3.90 | Employees | 19,400 |
 | P/B | 6.20 | Analyst rec (1=buy..5=sell) | 2.0 |

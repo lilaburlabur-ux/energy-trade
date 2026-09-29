@@ -18,7 +18,7 @@ Signed file: `VLO.research.29.09.2026`
 | Technical momentum | High | 1Y +125.44%; price +51.83% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -6.18% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 5.45%, revenue growth 51.70%. |
-| Value attractiveness | Reasonable | Forward P/E 10.19, EV/Sales 0.90. |
+| Value attractiveness | Reasonable | Forward P/E 10.19, EV/Sales 0.89. |
 | Risk level | Elevated | Beta 0.57, ATR 3.9% of price, short float 3.91%. |
 
 **Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
@@ -59,7 +59,7 @@ Valero Energy Corporation manufactures, markets, and sells petroleum-based and l
 | Revenue (ttm) | $132.43B | Revenue growth 51.70% y/y |
 | Profitability | Gross 16.12%, operating 12.27%, net 5.45% | ROA 10.56%, ROE 27.64% |
 | Balance sheet | Cash $7.87B, debt $11.35B | Current ratio 1.64, debt/equity 40.15 |
-| Valuation | P/E 16.16, forward P/E 10.19, P/S 0.84, P/B 4.47 | EV/Sales 0.90, EV/EBITDA 8.89 |
+| Valuation | P/E 16.18, forward P/E 10.19, P/S 0.84, P/B 4.47 | EV/Sales 0.89, EV/EBITDA 8.85 |
 | Growth expectations | Earnings growth 453.50%, EPS q/q 421.00% | Analyst mean target $360.32 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -102,8 +102,8 @@ Valero Energy Corporation manufactures, markets, and sells petroleum-based and l
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $387.72 | EV/Sales | 0.90 |
-| Market cap | $111.64B | EV/EBITDA | 8.89 |
+| Price | $387.72 | EV/Sales | 0.89 |
+| Market cap | $111.64B | EV/EBITDA | 8.85 |
 | Beta | 0.57 | Gross margin | 16.12% |
 | RSI(14) | 58.1 | Operating margin | 12.27% |
 | ATR(14) | 14.95 | Profit margin | 5.45% |
@@ -112,7 +112,7 @@ Valero Energy Corporation manufactures, markets, and sells petroleum-based and l
 | SMA200 dist | +51.83% | Revenue (ttm) | $132.43B |
 | 52W high | $413.28 | Revenue growth y/y | 51.70% |
 | 52W low | $153.14 | Inst. ownership | 87.04% |
-| P/E (ttm) | 16.16 | Insider ownership | 0.42% |
+| P/E (ttm) | 16.18 | Insider ownership | 0.42% |
 | Forward P/E | 10.19 | Short float | 3.91% |
 | PEG (trailing) | 1.85 | Avg volume | 3,035,287 |
 | P/S | 0.84 | Employees | 9,785 |

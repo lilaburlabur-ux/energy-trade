@@ -18,7 +18,7 @@ Signed file: `DUK.research.29.09.2026`
 | Technical momentum | Low | Below SMA200 (-6.65%) with negative half-year (-11.77%). |
 | Fresh setup quality | Moderate / wait | -12.93% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 16.00%, revenue growth 1.10%. |
-| Value attractiveness | Reasonable | Forward P/E 15.93, EV/Sales 5.58. |
+| Value attractiveness | Reasonable | Forward P/E 15.93, EV/Sales 5.60. |
 | Risk level | Moderate | Beta 0.36, ATR 1.4% of price, short float 2.71%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -59,7 +59,7 @@ Duke Energy Corporation, through its subsidiaries, operates as an energy company
 | Revenue (ttm) | $32.80B | Revenue growth 1.10% y/y |
 | Profitability | Gross 51.97%, operating 27.50%, net 16.00% | ROA 2.84%, ROE 9.86% |
 | Balance sheet | Cash $673.00M, debt $92.21B | Current ratio 0.66, debt/equity 162.16 |
-| Valuation | P/E 17.23, forward P/E 15.93, P/S 2.71, P/B 1.66 | EV/Sales 5.58, EV/EBITDA 11.02 |
+| Valuation | P/E 17.20, forward P/E 15.93, P/S 2.71, P/B 1.66 | EV/Sales 5.60, EV/EBITDA 11.05 |
 | Growth expectations | Earnings growth 10.60%, EPS q/q 11.00% | Analyst mean target $136.94 (18 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -100,8 +100,8 @@ Duke Energy Corporation, through its subsidiaries, operates as an energy company
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $114.21 | EV/Sales | 5.58 |
-| Market cap | $89.05B | EV/EBITDA | 11.02 |
+| Price | $114.21 | EV/Sales | 5.60 |
+| Market cap | $89.05B | EV/EBITDA | 11.05 |
 | Beta | 0.36 | Gross margin | 51.97% |
 | RSI(14) | 31.1 | Operating margin | 27.50% |
 | ATR(14) | 1.64 | Profit margin | 16.00% |
@@ -110,7 +110,7 @@ Duke Energy Corporation, through its subsidiaries, operates as an energy company
 | SMA200 dist | -6.65% | Revenue (ttm) | $32.80B |
 | 52W high | $131.16 | Revenue growth y/y | 1.10% |
 | 52W low | $111.09 | Inst. ownership | 71.15% |
-| P/E (ttm) | 17.23 | Insider ownership | 0.13% |
+| P/E (ttm) | 17.20 | Insider ownership | 0.13% |
 | Forward P/E | 15.93 | Short float | 2.71% |
 | PEG (trailing) | 2.13 | Avg volume | 4,067,619 |
 | P/S | 2.71 | Employees | 26,441 |

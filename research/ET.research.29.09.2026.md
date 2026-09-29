@@ -59,7 +59,7 @@ Energy Transfer LP, together with its subsidiaries, provides energy-related serv
 | Revenue (ttm) | $107.38B | Revenue growth 78.40% y/y |
 | Profitability | Gross 17.51%, operating 10.41%, net 4.92% | ROA 5.06%, ROE 14.56% |
 | Balance sheet | Cash $1.02B, debt $70.24B | Current ratio 1.16, debt/equity 138.33 |
-| Valuation | P/E 13.64, forward P/E 11.42, P/S 0.64, P/B 2.14 | EV/Sales 1.46, EV/EBITDA 9.17 |
+| Valuation | P/E 13.64, forward P/E 11.42, P/S 0.64, P/B 2.14 | EV/Sales 1.46, EV/EBITDA 9.13 |
 | Growth expectations | Earnings growth 85.30%, EPS q/q 79.50% | Analyst mean target $24.70 (23 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -101,7 +101,7 @@ Energy Transfer LP, together with its subsidiaries, provides energy-related serv
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $19.91 | EV/Sales | 1.46 |
-| Market cap | $68.56B | EV/EBITDA | 9.17 |
+| Market cap | $68.56B | EV/EBITDA | 9.13 |
 | Beta | 0.57 | Gross margin | 17.51% |
 | RSI(14) | 28.1 | Operating margin | 10.41% |
 | ATR(14) | 0.34 | Profit margin | 4.92% |

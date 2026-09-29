@@ -18,7 +18,7 @@ Signed file: `TLN.research.29.09.2026`
 | Technical momentum | Moderate | 1Y -23.44%; price -10.68% vs SMA200. |
 | Fresh setup quality | Poor / broken | -29.38% from 52w high — base needs to rebuild. |
 | Fundamental quality | Weak | Negative profit margin (-4.95%). |
-| Value attractiveness | Reasonable | Forward P/E 10.24, EV/Sales 6.39. |
+| Value attractiveness | Reasonable | Forward P/E 10.24, EV/Sales 6.54. |
 | Risk level | Elevated | Beta 1.63, ATR 4.2% of price, short float 6.33%. |
 
 **Bottom line:** Moderate technical momentum, weak fundamentals, value: reasonable, risk: elevated.
@@ -59,7 +59,7 @@ Talen Energy Corporation, an independent power producer and infrastructure compa
 | Revenue (ttm) | $3.74B | Revenue growth 111.20% y/y |
 | Profitability | Gross 42.10%, operating -4.80%, net -4.95% | ROA 0.92%, ROE -12.83% |
 | Balance sheet | Cash $232.00M, debt $9.57B | Current ratio 0.78, debt/equity 584.14 |
-| Valuation | P/E —, forward P/E 10.24, P/S 4.03, P/B 9.33 | EV/Sales 6.39, EV/EBITDA 41.08 |
+| Valuation | P/E —, forward P/E 10.24, P/S 4.03, P/B 9.33 | EV/Sales 6.54, EV/EBITDA 42.02 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $460.59 (17 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -104,8 +104,8 @@ Talen Energy Corporation, an independent power producer and infrastructure compa
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $314.84 | EV/Sales | 6.39 |
-| Market cap | $15.09B | EV/EBITDA | 41.08 |
+| Price | $314.84 | EV/Sales | 6.54 |
+| Market cap | $15.09B | EV/EBITDA | 42.02 |
 | Beta | 1.63 | Gross margin | 42.10% |
 | RSI(14) | 53.8 | Operating margin | -4.80% |
 | ATR(14) | 13.14 | Profit margin | -4.95% |
