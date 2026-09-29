@@ -1,511 +1,511 @@
 {
-  "as_of_utc": "2026-09-29T14:33:33+00:00",
-  "as_of_local": "2026-09-29 14:33:33 UTC",
+  "as_of_utc": "2026-09-29T14:38:32+00:00",
+  "as_of_local": "2026-09-29 14:38:32 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
       "name": "ExxonMobil",
-      "price": 160.88,
+      "price": 161.07,
       "previous_close": 162.52,
-      "change_pct": -1.01,
-      "market_cap": 661503836565.0,
+      "change_pct": -0.89,
+      "market_cap": 662141177899.3762,
       "headlines": []
     },
     {
       "symbol": "CVX",
       "name": "Chevron",
-      "price": 204.45,
+      "price": 204.68,
       "previous_close": 206.37,
-      "change_pct": -0.93,
-      "market_cap": 401128264275.6686,
+      "change_pct": -0.82,
+      "market_cap": 401510761349.6195,
       "headlines": []
     },
     {
       "symbol": "SHEL",
       "name": "Shell",
-      "price": 95.65,
+      "price": 95.66,
       "previous_close": 96.47,
-      "change_pct": -0.85,
+      "change_pct": -0.84,
       "market_cap": 272819105116.31024,
       "headlines": []
     },
     {
       "symbol": "GEV",
       "name": "GE Vernova",
-      "price": 968.46,
+      "price": 966.87,
       "previous_close": 949.77,
-      "change_pct": 1.97,
-      "market_cap": 257762968314.1054,
+      "change_pct": 1.8,
+      "market_cap": 257438032892.3153,
       "headlines": []
     },
     {
       "symbol": "TTE",
       "name": "TotalEnergies",
-      "price": 89.14,
+      "price": 89.12,
       "previous_close": 90.34,
-      "change_pct": -1.33,
-      "market_cap": 196845162473.5191,
+      "change_pct": -1.34,
+      "market_cap": 196812039775.375,
       "headlines": []
     },
     {
       "symbol": "ETN",
       "name": "Eaton",
-      "price": 432.9,
+      "price": 432.65,
       "previous_close": 431.41,
-      "change_pct": 0.35,
-      "market_cap": 168016010681.15234,
+      "change_pct": 0.29,
+      "market_cap": 168141661734.0088,
       "headlines": []
     },
     {
       "symbol": "NEE",
       "name": "NextEra Energy",
-      "price": 75.71,
+      "price": 75.72,
       "previous_close": 75.49,
-      "change_pct": 0.29,
-      "market_cap": 158054561893.43967,
+      "change_pct": 0.31,
+      "market_cap": 157942900762.57867,
       "headlines": []
     },
     {
       "symbol": "COP",
       "name": "ConocoPhillips",
-      "price": 125.51,
+      "price": 125.43,
       "previous_close": 126.04,
-      "change_pct": -0.42,
-      "market_cap": 152908083421.12677,
-      "headlines": []
-    },
-    {
-      "symbol": "BP",
-      "name": "BP",
-      "price": 43.88,
-      "previous_close": 44.43,
-      "change_pct": -1.24,
-      "market_cap": 113006022348.20233,
-      "headlines": []
-    },
-    {
-      "symbol": "VLO",
-      "name": "Valero Energy",
-      "price": 384.21,
-      "previous_close": 389.57,
-      "change_pct": -1.38,
-      "market_cap": 110623201434.68668,
+      "change_pct": -0.48,
+      "market_cap": 152847165002.83853,
       "headlines": []
     },
     {
       "symbol": "MPC",
       "name": "Marathon Petroleum",
-      "price": 389.7,
+      "price": 390.27,
       "previous_close": 389.44,
-      "change_pct": 0.07,
-      "market_cap": 109438810494.07468,
+      "change_pct": 0.21,
+      "market_cap": 114061660337.16858,
+      "headlines": []
+    },
+    {
+      "symbol": "BP",
+      "name": "BP",
+      "price": 43.89,
+      "previous_close": 44.43,
+      "change_pct": -1.22,
+      "market_cap": 113018891986.25348,
+      "headlines": []
+    },
+    {
+      "symbol": "VLO",
+      "name": "Valero Energy",
+      "price": 385.56,
+      "previous_close": 389.57,
+      "change_pct": -1.03,
+      "market_cap": 111086734068.6629,
       "headlines": []
     },
     {
       "symbol": "PSX",
       "name": "Phillips 66",
-      "price": 251.27,
+      "price": 251.8,
       "previous_close": 253.55,
-      "change_pct": -0.9,
-      "market_cap": 100327823040.28784,
+      "change_pct": -0.69,
+      "market_cap": 100633073797.4848,
       "headlines": []
     },
     {
       "symbol": "EQNR",
       "name": "Equinor",
-      "price": 41.62,
+      "price": 41.68,
       "previous_close": 42.27,
-      "change_pct": -1.54,
-      "market_cap": 98662143380.66315,
+      "change_pct": -1.4,
+      "market_cap": 98756967411.52332,
       "headlines": []
     },
     {
       "symbol": "PWR",
       "name": "Quanta Services",
-      "price": 649.94,
+      "price": 650.36,
       "previous_close": 644.36,
-      "change_pct": 0.87,
-      "market_cap": 97662311971.24341,
+      "change_pct": 0.93,
+      "market_cap": 97778079320.2478,
       "headlines": []
     },
     {
       "symbol": "VRT",
       "name": "Vertiv",
-      "price": 252.43,
+      "price": 252.7,
       "previous_close": 244.04,
-      "change_pct": 3.44,
-      "market_cap": 97248014849.58133,
+      "change_pct": 3.55,
+      "market_cap": 97332630475.25107,
       "headlines": []
     },
     {
       "symbol": "SO",
       "name": "Southern Company",
-      "price": 82.5,
+      "price": 82.49,
       "previous_close": 82.35,
-      "change_pct": 0.18,
-      "market_cap": 94956708922.0925,
+      "change_pct": 0.16,
+      "market_cap": 94870435210.27167,
       "headlines": []
     },
     {
       "symbol": "CEG",
       "name": "Constellation Energy",
-      "price": 266.59,
+      "price": 265.49,
       "previous_close": 260.43,
-      "change_pct": 2.37,
-      "market_cap": 94423089505.1499,
+      "change_pct": 1.94,
+      "market_cap": 94066197914.00449,
       "headlines": []
     },
     {
       "symbol": "DUK",
       "name": "Duke Energy",
-      "price": 113.42,
+      "price": 113.29,
       "previous_close": 113.41,
-      "change_pct": 0.01,
-      "market_cap": 88472808791.4949,
+      "change_pct": -0.11,
+      "market_cap": 88316864783.7015,
       "headlines": []
     },
     {
       "symbol": "BE",
       "name": "Bloom Energy",
-      "price": 300.97,
+      "price": 299.47,
       "previous_close": 262.87,
-      "change_pct": 14.49,
-      "market_cap": 88440671097.34955,
+      "change_pct": 13.92,
+      "market_cap": 88046005532.3009,
       "headlines": []
     },
     {
       "symbol": "WMB",
       "name": "Williams Companies",
-      "price": 68.71,
+      "price": 68.74,
       "previous_close": 68.98,
-      "change_pct": -0.39,
-      "market_cap": 84111110465.51782,
+      "change_pct": -0.35,
+      "market_cap": 84043835881.27673,
       "headlines": []
     },
     {
       "symbol": "SU",
       "name": "Suncor Energy",
-      "price": 67.93,
+      "price": 67.96,
       "previous_close": 68.77,
-      "change_pct": -1.21,
-      "market_cap": 80213921532.03632,
+      "change_pct": -1.18,
+      "market_cap": 80243441963.43549,
       "headlines": []
     },
     {
       "symbol": "EPD",
       "name": "Enterprise Products",
-      "price": 36.74,
+      "price": 36.73,
       "previous_close": 36.65,
-      "change_pct": 0.25,
-      "market_cap": 79360571779.20706,
-      "headlines": []
-    },
-    {
-      "symbol": "SLB",
-      "name": "SLB (Schlumberger)",
-      "price": 49.94,
-      "previous_close": 51.49,
-      "change_pct": -3.02,
-      "market_cap": 74140377822.15242,
+      "change_pct": 0.22,
+      "market_cap": 79274404896.9296,
       "headlines": []
     },
     {
       "symbol": "EOG",
       "name": "EOG Resources",
-      "price": 139.68,
+      "price": 139.73,
       "previous_close": 140.63,
-      "change_pct": -0.68,
-      "market_cap": 73266231461.91357,
+      "change_pct": -0.64,
+      "market_cap": 74429513708.0159,
+      "headlines": []
+    },
+    {
+      "symbol": "SLB",
+      "name": "SLB (Schlumberger)",
+      "price": 49.99,
+      "previous_close": 51.49,
+      "change_pct": -2.9,
+      "market_cap": 74199739248.60901,
       "headlines": []
     },
     {
       "symbol": "ET",
       "name": "Energy Transfer",
-      "price": 19.95,
+      "price": 19.94,
       "previous_close": 20.1,
-      "change_pct": -0.77,
-      "market_cap": 68676609491.133354,
+      "change_pct": -0.8,
+      "market_cap": 68642175707.01462,
       "headlines": []
     },
     {
       "symbol": "KMI",
       "name": "Kinder Morgan",
-      "price": 30.48,
+      "price": 30.47,
       "previous_close": 30.63,
-      "change_pct": -0.51,
-      "market_cap": 67906331572.86169,
+      "change_pct": -0.54,
+      "market_cap": 67817257450.603485,
       "headlines": []
     },
     {
       "symbol": "TRGP",
       "name": "Targa Resources",
-      "price": 277.02,
+      "price": 276.79,
       "previous_close": 277.43,
-      "change_pct": -0.15,
-      "market_cap": 59403825485.87338,
+      "change_pct": -0.23,
+      "market_cap": 59353437337.01779,
       "headlines": []
     },
     {
       "symbol": "MPLX",
       "name": "MPLX",
-      "price": 57.3,
+      "price": 57.31,
       "previous_close": 57.66,
-      "change_pct": -0.62,
-      "market_cap": 58185324406.08003,
+      "change_pct": -0.61,
+      "market_cap": 58089006634.6151,
       "headlines": []
     },
     {
       "symbol": "BKR",
       "name": "Baker Hughes",
-      "price": 56.43,
+      "price": 56.37,
       "previous_close": 57.12,
-      "change_pct": -1.21,
-      "market_cap": 56021562560.11539,
-      "headlines": []
-    },
-    {
-      "symbol": "OXY",
-      "name": "Occidental Petroleum",
-      "price": 55.57,
-      "previous_close": 56.1,
-      "change_pct": -0.94,
-      "market_cap": 55539853705.553024,
+      "change_pct": -1.31,
+      "market_cap": 55947111247.44017,
       "headlines": []
     },
     {
       "symbol": "LNG",
       "name": "Cheniere Energy",
-      "price": 268.74,
+      "price": 269.13,
       "previous_close": 269.65,
-      "change_pct": -0.34,
-      "market_cap": 55527743318.14203,
+      "change_pct": -0.19,
+      "market_cap": 55638239849.022705,
+      "headlines": []
+    },
+    {
+      "symbol": "OXY",
+      "name": "Occidental Petroleum",
+      "price": 55.58,
+      "previous_close": 56.1,
+      "change_pct": -0.93,
+      "market_cap": 55539853705.553024,
       "headlines": []
     },
     {
       "symbol": "OKE",
       "name": "ONEOK",
-      "price": 87.55,
+      "price": 87.52,
       "previous_close": 88.62,
-      "change_pct": -1.21,
-      "market_cap": 55204933714.32438,
+      "change_pct": -1.24,
+      "market_cap": 55173411330.31817,
       "headlines": []
     },
     {
       "symbol": "D",
       "name": "Dominion Energy",
-      "price": 60.28,
+      "price": 60.32,
       "previous_close": 60.28,
-      "change_pct": -0.01,
-      "market_cap": 53061802113.63011,
+      "change_pct": 0.07,
+      "market_cap": 53026620270.440056,
       "headlines": []
     },
     {
       "symbol": "FANG",
       "name": "Diamondback Energy",
-      "price": 183.85,
+      "price": 183.71,
       "previous_close": 185.23,
-      "change_pct": -0.75,
-      "market_cap": 51481640468.305176,
+      "change_pct": -0.82,
+      "market_cap": 51443835061.816895,
       "headlines": []
     },
     {
       "symbol": "DVN",
       "name": "Devon Energy",
-      "price": 46.71,
+      "price": 46.72,
       "previous_close": 46.73,
-      "change_pct": -0.05,
-      "market_cap": 51375502014.16016,
+      "change_pct": -0.01,
+      "market_cap": 51380998992.91992,
       "headlines": []
     },
     {
       "symbol": "VST",
       "name": "Vistra",
-      "price": 141.61,
+      "price": 140.85,
       "previous_close": 138.02,
-      "change_pct": 2.6,
-      "market_cap": 47473922615.04059,
+      "change_pct": 2.05,
+      "market_cap": 47274219264.30466,
       "headlines": []
     },
     {
       "symbol": "ETR",
       "name": "Entergy",
-      "price": 98.06,
+      "price": 98.08,
       "previous_close": 98.1,
-      "change_pct": -0.04,
-      "market_cap": 46886694216.712814,
+      "change_pct": -0.02,
+      "market_cap": 46846083568.16116,
       "headlines": []
     },
     {
       "symbol": "CCJ",
       "name": "Cameco",
-      "price": 87.17,
+      "price": 87.24,
       "previous_close": 87.04,
-      "change_pct": 0.15,
-      "market_cap": 37965149799.4169,
+      "change_pct": 0.22,
+      "market_cap": 37993719688.893234,
       "headlines": []
     },
     {
       "symbol": "PEG",
       "name": "Public Service Enterprise",
-      "price": 67.08,
+      "price": 67.05,
       "previous_close": 66.73,
-      "change_pct": 0.52,
-      "market_cap": 33443983252.47139,
+      "change_pct": 0.48,
+      "market_cap": 33392518212.549362,
       "headlines": []
     },
     {
       "symbol": "EQT",
       "name": "EQT Corp",
-      "price": 49.48,
+      "price": 49.39,
       "previous_close": 49.87,
-      "change_pct": -0.78,
-      "market_cap": 30950531393.6615,
+      "change_pct": -0.96,
+      "market_cap": 30894234858.215332,
       "headlines": []
     },
     {
       "symbol": "FTI",
       "name": "TechnipFMC",
-      "price": 68.92,
+      "price": 68.87,
       "previous_close": 70.62,
-      "change_pct": -2.41,
-      "market_cap": 27000517515.404633,
+      "change_pct": -2.48,
+      "market_cap": 27008362478.67166,
       "headlines": []
     },
     {
       "symbol": "HAL",
       "name": "Halliburton",
-      "price": 31.97,
+      "price": 31.95,
       "previous_close": 32.43,
-      "change_pct": -1.43,
-      "market_cap": 26631012308.280605,
+      "change_pct": -1.48,
+      "market_cap": 26610184366.919617,
       "headlines": []
     },
     {
       "symbol": "HUBB",
       "name": "Hubbell",
-      "price": 464.12,
+      "price": 463.02,
       "previous_close": 465.72,
-      "change_pct": -0.34,
-      "market_cap": 24520917015.375,
+      "change_pct": -0.58,
+      "market_cap": 24462536443.98404,
       "headlines": []
     },
     {
       "symbol": "NRG",
       "name": "NRG Energy",
-      "price": 98.19,
+      "price": 97.98,
       "previous_close": 97.0,
-      "change_pct": 1.23,
-      "market_cap": 20630056673.317703,
+      "change_pct": 1.01,
+      "market_cap": 20594321276.114594,
       "headlines": []
     },
     {
       "symbol": "DINO",
       "name": "HF Sinclair",
-      "price": 106.12,
+      "price": 106.36,
       "previous_close": 106.19,
-      "change_pct": -0.07,
-      "market_cap": 18866422544.177925,
+      "change_pct": 0.16,
+      "market_cap": 18909090288.15065,
       "headlines": []
     },
     {
       "symbol": "FSLR",
       "name": "First Solar",
-      "price": 174.23,
+      "price": 173.99,
       "previous_close": 172.97,
-      "change_pct": 0.73,
-      "market_cap": 18735746212.517883,
+      "change_pct": 0.59,
+      "market_cap": 18697593257.07953,
       "headlines": []
     },
     {
       "symbol": "PR",
       "name": "Permian Resources",
-      "price": 21.21,
+      "price": 21.2,
       "previous_close": 21.3,
-      "change_pct": -0.42,
-      "market_cap": 17760479806.73369,
+      "change_pct": -0.45,
+      "market_cap": 17760396736.04447,
       "headlines": []
     },
     {
       "symbol": "OVV",
       "name": "Ovintiv",
-      "price": 59.12,
+      "price": 59.01,
       "previous_close": 59.53,
-      "change_pct": -0.69,
-      "market_cap": 16349826168.823242,
+      "change_pct": -0.87,
+      "market_cap": 16323548831.176758,
       "headlines": []
     },
     {
       "symbol": "TLN",
       "name": "Talen Energy",
-      "price": 312.88,
+      "price": 312.59,
       "previous_close": 303.5,
-      "change_pct": 3.09,
-      "market_cap": 14986142261.028229,
+      "change_pct": 3.0,
+      "market_cap": 14973205937.5,
       "headlines": []
     },
     {
       "symbol": "APA",
       "name": "APA Corp",
-      "price": 42.36,
+      "price": 42.4,
       "previous_close": 42.33,
-      "change_pct": 0.07,
-      "market_cap": 14844393104.484215,
+      "change_pct": 0.17,
+      "market_cap": 14847897368.015785,
       "headlines": []
     },
     {
       "symbol": "BWXT",
       "name": "BWX Technologies",
-      "price": 139.19,
+      "price": 139.15,
       "previous_close": 134.35,
-      "change_pct": 3.6,
-      "market_cap": 12740952315.113525,
+      "change_pct": 3.57,
+      "market_cap": 12738203767.556763,
       "headlines": []
     },
     {
       "symbol": "NXT",
       "name": "Nextracker",
-      "price": 79.02,
+      "price": 79.1,
       "previous_close": 79.13,
-      "change_pct": -0.14,
-      "market_cap": 11989666161.054077,
+      "change_pct": -0.04,
+      "market_cap": 11971459359.520874,
       "headlines": []
     },
     {
       "symbol": "AR",
       "name": "Antero Resources",
-      "price": 34.11,
+      "price": 34.08,
       "previous_close": 34.34,
-      "change_pct": -0.67,
-      "market_cap": 10486744477.645874,
+      "change_pct": -0.76,
+      "market_cap": 10474446636.177063,
       "headlines": []
     },
     {
       "symbol": "BEP",
       "name": "Brookfield Renewable",
-      "price": 27.74,
+      "price": 27.68,
       "previous_close": 27.87,
-      "change_pct": -0.47,
-      "market_cap": 8325096436.5499,
+      "change_pct": -0.68,
+      "market_cap": 8394678803.75248,
       "headlines": []
     },
     {
       "symbol": "OKLO",
       "name": "Oklo",
-      "price": 38.06,
+      "price": 37.98,
       "previous_close": 37.11,
-      "change_pct": 2.56,
-      "market_cap": 7084482029.945755,
+      "change_pct": 2.34,
+      "market_cap": 7065880548.786163,
       "headlines": []
     },
     {
       "symbol": "NOV",
       "name": "NOV Inc",
-      "price": 19.07,
+      "price": 19.1,
       "previous_close": 19.5,
-      "change_pct": -2.21,
-      "market_cap": 6798037734.96151,
+      "change_pct": -2.05,
+      "market_cap": 6808732323.485613,
       "headlines": []
     },
     {
@@ -513,107 +513,107 @@
       "name": "NexGen Energy",
       "price": 9.1,
       "previous_close": 8.99,
-      "change_pct": 1.28,
-      "market_cap": 6094900560.401112,
+      "change_pct": 1.17,
+      "market_cap": 6099794868.20241,
       "headlines": []
     },
     {
       "symbol": "WFRD",
       "name": "Weatherford",
-      "price": 82.13,
+      "price": 81.82,
       "previous_close": 82.8,
-      "change_pct": -0.81,
-      "market_cap": 5873288905.10614,
+      "change_pct": -1.18,
+      "market_cap": 5865661154.708389,
       "headlines": []
     },
     {
       "symbol": "UEC",
       "name": "Uranium Energy Corp",
-      "price": 9.15,
+      "price": 9.14,
       "previous_close": 9.21,
-      "change_pct": -0.65,
-      "market_cap": 4518184758.213648,
+      "change_pct": -0.76,
+      "market_cap": 4520659176.677296,
       "headlines": []
     },
     {
       "symbol": "ENPH",
       "name": "Enphase Energy",
-      "price": 31.25,
+      "price": 31.22,
       "previous_close": 30.91,
-      "change_pct": 1.1,
-      "market_cap": 4126216684.2091827,
+      "change_pct": 1.0,
+      "market_cap": 4110786552.1878433,
       "headlines": []
     },
     {
       "symbol": "SMR",
       "name": "NuScale Power",
-      "price": 8.09,
+      "price": 8.06,
       "previous_close": 7.91,
-      "change_pct": 2.21,
-      "market_cap": 3320051295.6004715,
-      "headlines": []
-    },
-    {
-      "symbol": "UUUU",
-      "name": "Energy Fuels",
-      "price": 11.09,
-      "previous_close": 11.03,
-      "change_pct": 0.5,
-      "market_cap": 2933717670.873684,
+      "change_pct": 1.83,
+      "market_cap": 3305687724.950943,
       "headlines": []
     },
     {
       "symbol": "LEU",
       "name": "Centrus Energy",
-      "price": 140.84,
+      "price": 140.56,
       "previous_close": 140.37,
-      "change_pct": 0.33,
-      "market_cap": 2880615655.8184814,
+      "change_pct": 0.14,
+      "market_cap": 2874888810.5456543,
+      "headlines": []
+    },
+    {
+      "symbol": "UUUU",
+      "name": "Energy Fuels",
+      "price": 11.08,
+      "previous_close": 11.03,
+      "change_pct": 0.45,
+      "market_cap": 2769612180.929184,
       "headlines": []
     },
     {
       "symbol": "SEDG",
       "name": "SolarEdge",
-      "price": 31.73,
+      "price": 31.55,
       "previous_close": 31.53,
-      "change_pct": 0.63,
-      "market_cap": 1943905965.8136215,
+      "change_pct": 0.06,
+      "market_cap": 1938061062.0,
       "headlines": []
     },
     {
       "symbol": "RUN",
       "name": "Sunrun",
-      "price": 7.76,
+      "price": 7.74,
       "previous_close": 7.67,
-      "change_pct": 1.11,
-      "market_cap": 1849949747.9847994,
+      "change_pct": 0.98,
+      "market_cap": 1845178766.794766,
       "headlines": []
     },
     {
       "symbol": "EOSE",
       "name": "Eos Energy",
-      "price": 3.23,
+      "price": 3.22,
       "previous_close": 3.07,
-      "change_pct": 5.21,
-      "market_cap": 1176261820.0659485,
+      "change_pct": 4.95,
+      "market_cap": 1172947908.0431213,
       "headlines": []
     },
     {
       "symbol": "FLNC",
       "name": "Fluence Energy",
-      "price": 7.81,
+      "price": 7.78,
       "previous_close": 7.5,
-      "change_pct": 4.11,
-      "market_cap": 1114585785.672758,
+      "change_pct": 3.8,
+      "market_cap": 1115101191.8471317,
       "headlines": []
     },
     {
       "symbol": "ARRY",
       "name": "Array Technologies",
-      "price": 3.94,
+      "price": 3.96,
       "previous_close": 3.83,
-      "change_pct": 3.0,
-      "market_cap": 606845050.9409814,
+      "change_pct": 3.39,
+      "market_cap": 608383313.2539787,
       "headlines": []
     }
   ],
@@ -629,8 +629,8 @@
           "name": "ExxonMobil Holdings Corp",
           "short": "ExxonMobil",
           "weight_pct": 19.86,
-          "change_pct": -1.01,
-          "price": 160.88,
+          "change_pct": -0.89,
+          "price": 161.07,
           "currency": "USD"
         },
         {
@@ -638,8 +638,8 @@
           "name": "Chevron Corp",
           "short": "Chevron",
           "weight_pct": 14.89,
-          "change_pct": -0.93,
-          "price": 204.45,
+          "change_pct": -0.82,
+          "price": 204.68,
           "currency": "USD"
         },
         {
@@ -647,8 +647,8 @@
           "name": "ConocoPhillips",
           "short": "ConocoPhillips",
           "weight_pct": 6.23,
-          "change_pct": -0.42,
-          "price": 125.51,
+          "change_pct": -0.48,
+          "price": 125.43,
           "currency": "USD"
         },
         {
@@ -656,8 +656,8 @@
           "name": "Marathon Petroleum Corp",
           "short": "Marathon",
           "weight_pct": 5.42,
-          "change_pct": 0.07,
-          "price": 389.7,
+          "change_pct": 0.21,
+          "price": 390.27,
           "currency": "USD"
         },
         {
@@ -665,8 +665,8 @@
           "name": "Phillips 66",
           "short": "Phillips",
           "weight_pct": 5.33,
-          "change_pct": -0.9,
-          "price": 251.27,
+          "change_pct": -0.69,
+          "price": 251.8,
           "currency": "USD"
         },
         {
@@ -674,8 +674,8 @@
           "name": "Valero Energy Corp",
           "short": "Valero",
           "weight_pct": 5.07,
-          "change_pct": -1.38,
-          "price": 384.21,
+          "change_pct": -1.03,
+          "price": 385.56,
           "currency": "USD"
         },
         {
@@ -683,8 +683,8 @@
           "name": "SLB Ltd",
           "short": "SLB",
           "weight_pct": 4.88,
-          "change_pct": -3.02,
-          "price": 49.94,
+          "change_pct": -2.9,
+          "price": 49.99,
           "currency": "USD"
         },
         {
@@ -692,8 +692,8 @@
           "name": "EOG Resources Inc",
           "short": "EOG Resources",
           "weight_pct": 4.13,
-          "change_pct": -0.68,
-          "price": 139.68,
+          "change_pct": -0.64,
+          "price": 139.73,
           "currency": "USD"
         },
         {
@@ -701,8 +701,8 @@
           "name": "Williams Companies Inc",
           "short": "Williams",
           "weight_pct": 3.78,
-          "change_pct": -0.39,
-          "price": 68.71,
+          "change_pct": -0.35,
+          "price": 68.74,
           "currency": "USD"
         },
         {
@@ -710,8 +710,8 @@
           "name": "Kinder Morgan Inc Class P",
           "short": "Kinder",
           "weight_pct": 3.65,
-          "change_pct": -0.51,
-          "price": 30.48,
+          "change_pct": -0.54,
+          "price": 30.47,
           "currency": "USD"
         }
       ]
@@ -728,8 +728,8 @@
         "name": "ExxonMobil Holdings Corp",
         "short": "ExxonMobil",
         "weight_pct": 19.86,
-        "change_pct": -1.01,
-        "price": 160.88,
+        "change_pct": -0.89,
+        "price": 161.07,
         "currency": "USD"
       },
       {
@@ -737,8 +737,8 @@
         "name": "Chevron Corp",
         "short": "Chevron",
         "weight_pct": 14.89,
-        "change_pct": -0.93,
-        "price": 204.45,
+        "change_pct": -0.82,
+        "price": 204.68,
         "currency": "USD"
       },
       {
@@ -746,8 +746,8 @@
         "name": "ConocoPhillips",
         "short": "ConocoPhillips",
         "weight_pct": 6.23,
-        "change_pct": -0.42,
-        "price": 125.51,
+        "change_pct": -0.48,
+        "price": 125.43,
         "currency": "USD"
       },
       {
@@ -755,8 +755,8 @@
         "name": "Marathon Petroleum Corp",
         "short": "Marathon",
         "weight_pct": 5.42,
-        "change_pct": 0.07,
-        "price": 389.7,
+        "change_pct": 0.21,
+        "price": 390.27,
         "currency": "USD"
       },
       {
@@ -764,8 +764,8 @@
         "name": "Phillips 66",
         "short": "Phillips",
         "weight_pct": 5.33,
-        "change_pct": -0.9,
-        "price": 251.27,
+        "change_pct": -0.69,
+        "price": 251.8,
         "currency": "USD"
       },
       {
@@ -773,8 +773,8 @@
         "name": "Valero Energy Corp",
         "short": "Valero",
         "weight_pct": 5.07,
-        "change_pct": -1.38,
-        "price": 384.21,
+        "change_pct": -1.03,
+        "price": 385.56,
         "currency": "USD"
       },
       {
@@ -782,8 +782,8 @@
         "name": "SLB Ltd",
         "short": "SLB",
         "weight_pct": 4.88,
-        "change_pct": -3.02,
-        "price": 49.94,
+        "change_pct": -2.9,
+        "price": 49.99,
         "currency": "USD"
       },
       {
@@ -791,8 +791,8 @@
         "name": "EOG Resources Inc",
         "short": "EOG Resources",
         "weight_pct": 4.13,
-        "change_pct": -0.68,
-        "price": 139.68,
+        "change_pct": -0.64,
+        "price": 139.73,
         "currency": "USD"
       },
       {
@@ -800,8 +800,8 @@
         "name": "Williams Companies Inc",
         "short": "Williams",
         "weight_pct": 3.78,
-        "change_pct": -0.39,
-        "price": 68.71,
+        "change_pct": -0.35,
+        "price": 68.74,
         "currency": "USD"
       },
       {
@@ -809,8 +809,8 @@
         "name": "Kinder Morgan Inc Class P",
         "short": "Kinder",
         "weight_pct": 3.65,
-        "change_pct": -0.51,
-        "price": 30.48,
+        "change_pct": -0.54,
+        "price": 30.47,
         "currency": "USD"
       }
     ]
@@ -818,23 +818,23 @@
   "tape": [
     {
       "label": "SPX",
-      "price": 7680.27,
+      "price": 7680.46,
       "change_pct": -0.04
     },
     {
       "label": "WTI",
-      "price": 91.32,
-      "change_pct": -1.38
+      "price": 91.15,
+      "change_pct": -1.57
     },
     {
       "label": "Brent",
-      "price": 96.59,
-      "change_pct": -8.25
+      "price": 96.44,
+      "change_pct": -8.4
     },
     {
       "label": "NatGas",
-      "price": 3.05,
-      "change_pct": 1.63
+      "price": 3.04,
+      "change_pct": 1.47
     }
   ]
 }
