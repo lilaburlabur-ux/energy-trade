@@ -18,7 +18,7 @@ Signed file: `EQT.research.29.09.2026`
 | Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
 | Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 29.18%, revenue growth -3.90%. |
-| Value attractiveness | Reasonable | Forward P/E 13.05, EV/Sales 4.34. |
+| Value attractiveness | Reasonable | Forward P/E 13.06, EV/Sales 4.34. |
 | Risk level | Moderate | Beta 0.58, ATR nan% of price, short float 4.09%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -68,7 +68,7 @@ EQT Corporation engages in the exploration, production, gathering, and transmiss
 | Revenue (ttm) | $9.29B | Revenue growth -3.90% y/y |
 | Profitability | Gross 80.75%, operating 23.37%, net 29.18% | ROA 6.63%, ROE 11.08% |
 | Balance sheet | Cash $112.86M, debt $5.66B | Current ratio 0.67, debt/equity 19.59 |
-| Valuation | P/E 11.57, forward P/E 13.05, P/S 3.36, P/B 1.23 | EV/Sales 4.34, EV/EBITDA 5.77 |
+| Valuation | P/E 11.79, forward P/E 13.06, P/S 3.36, P/B 1.23 | EV/Sales 4.34, EV/EBITDA 5.77 |
 | Growth expectations | Earnings growth -74.00%, EPS q/q -73.00% | Analyst mean target $67.58 (26 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -119,8 +119,8 @@ EQT Corporation engages in the exploration, production, gathering, and transmiss
 | SMA200 dist | +nan% | Revenue (ttm) | $9.29B |
 | 52W high | $67.53 | Revenue growth y/y | -3.90% |
 | 52W low | $48.70 | Inst. ownership | 95.89% |
-| P/E (ttm) | 11.57 | Insider ownership | 0.90% |
-| Forward P/E | 13.05 | Short float | 4.09% |
+| P/E (ttm) | 11.79 | Insider ownership | 0.90% |
+| Forward P/E | 13.06 | Short float | 4.09% |
 | PEG (trailing) | 1.49 | Avg volume | 7,213,768 |
 | P/S | 3.36 | Employees | 1,523 |
 | P/B | 1.23 | Analyst rec (1=buy..5=sell) | 1.5 |

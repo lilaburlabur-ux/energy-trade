@@ -18,7 +18,7 @@ Signed file: `TTE.research.29.09.2026`
 | Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
 | Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 9.08%, revenue growth 27.80%. |
-| Value attractiveness | Reasonable | Forward P/E 8.44, EV/Sales 1.20. |
+| Value attractiveness | Reasonable | Forward P/E 8.72, EV/Sales 1.20. |
 | Risk level | Moderate | Beta 0.06, ATR nan% of price, short float 0.22%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -68,7 +68,7 @@ TotalEnergies SE, an integrated energy company, produces and markets oil and bio
 | Revenue (ttm) | $196.38B | Revenue growth 27.80% y/y |
 | Profitability | Gross 37.68%, operating 12.79%, net 9.08% | ROA 5.51%, ROE 14.48% |
 | Balance sheet | Cash $31.72B, debt $62.92B | Current ratio 1.06, debt/equity 48.05 |
-| Valuation | P/E 11.31, forward P/E 8.44, P/S 1.02, P/B 1.56 | EV/Sales 1.20, EV/EBITDA 5.92 |
+| Valuation | P/E 11.31, forward P/E 8.72, P/S 1.02, P/B 1.56 | EV/Sales 1.20, EV/EBITDA 5.92 |
 | Growth expectations | Earnings growth 106.00%, EPS q/q 102.40% | Analyst mean target $96.80 (10 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -120,8 +120,8 @@ TotalEnergies SE, an integrated energy company, produces and markets oil and bio
 | 52W high | $93.60 | Revenue growth y/y | 27.80% |
 | 52W low | $55.92 | Inst. ownership | 54.22% |
 | P/E (ttm) | 11.31 | Insider ownership | 8.86% |
-| Forward P/E | 8.44 | Short float | 0.22% |
-| PEG (trailing) | 0.71 | Avg volume | 1,575,744 |
+| Forward P/E | 8.72 | Short float | 0.22% |
+| PEG (trailing) | — | Avg volume | 1,575,744 |
 | P/S | 1.02 | Employees | 94,847 |
 | P/B | 1.56 | Analyst rec (1=buy..5=sell) | 1.7 |
 

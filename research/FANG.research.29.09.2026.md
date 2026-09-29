@@ -5,7 +5,7 @@ Signed file: `FANG.research.29.09.2026`
 | Field | Value |
 |---|---|
 | Current price | $nan (2026-09-29, ~15-min delayed) |
-| Market cap | $52.11B |
+| Market cap | $51.87B |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -68,7 +68,7 @@ Diamondback Energy, Inc., an independent oil and natural gas company, acquires, 
 | Revenue (ttm) | $16.25B | Revenue growth 52.50% y/y |
 | Profitability | Gross 72.35%, operating 48.47%, net 9.03% | ROA 1.31%, ROE 3.49% |
 | Balance sheet | Cash $462.00M, debt $12.61B | Current ratio 0.47, debt/equity 28.68 |
-| Valuation | P/E 35.28, forward P/E 9.87, P/S 3.21, P/B 1.37 | EV/Sales 4.32, EV/EBITDA 5.95 |
+| Valuation | P/E 35.28, forward P/E 9.87, P/S 3.19, P/B 1.37 | EV/Sales 4.32, EV/EBITDA 5.95 |
 | Growth expectations | Earnings growth 179.50%, EPS q/q 169.20% | Analyst mean target $234.52 (29 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -110,7 +110,7 @@ Diamondback Energy, Inc., an independent oil and natural gas company, acquires, 
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $nan | EV/Sales | 4.32 |
-| Market cap | $52.11B | EV/EBITDA | 5.95 |
+| Market cap | $51.87B | EV/EBITDA | 5.95 |
 | Beta | 0.41 | Gross margin | 72.35% |
 | RSI(14) | 39.0 | Operating margin | 48.47% |
 | ATR(14) | 6.06 | Profit margin | 9.03% |
@@ -122,7 +122,7 @@ Diamondback Energy, Inc., an independent oil and natural gas company, acquires, 
 | P/E (ttm) | 35.28 | Insider ownership | 23.88% |
 | Forward P/E | 9.87 | Short float | 3.93% |
 | PEG (trailing) | 22.29 | Avg volume | 2,377,896 |
-| P/S | 3.21 | Employees | 1,762 |
+| P/S | 3.19 | Employees | 1,762 |
 | P/B | 1.37 | Analyst rec (1=buy..5=sell) | 1.5 |
 
 ## 8. Analyst Actions

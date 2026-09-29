@@ -36,10 +36,10 @@ Vistra Corp., together with its subsidiaries, operates as an integrated retail e
 
 | Headline | Source | Date |
 |---|---|---|
+| Samsung, affiliates to invest $1 billion in AI infrastructure firm Helix | Investing.com | 2026-09-29 |
+| Samsung Commits $1.0 Billion to AI Infrastructure Firm Backed by KKR, Nvidia | The Wall Street Journal | 2026-09-28 |
 | Samsung to Invest $1 Billion in KKR’s AI Infrastructure Company | Bloomberg | 2026-09-28 |
 | Vistra Stock Is Down 31% Over the Last Year. Is It Time to Buy the Dip? | TIKR | 2026-09-26 |
-| Constellation vs. Vistra: Which AI Power Stock Is the Better Buy? | Insider Monkey | 2026-09-25 |
-| VST Keeps Writing Checks To Its Shareholders | Trefis | 2026-09-25 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
