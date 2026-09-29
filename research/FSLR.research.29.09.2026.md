@@ -4,24 +4,24 @@ Signed file: `FSLR.research.29.09.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-09-29, ~15-min delayed) |
-| Market cap | $18.59B |
+| Current price | $176.93 (2026-09-29, ~15-min delayed) |
+| Market cap | $19.01B |
 | Sector / Industry | Technology / Solar |
 | Main theme | Solar — see catalysts below |
-| Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: high. |
+| Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-09-29.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-21.55%) with negative half-year (-4.21%). |
+| Fresh setup quality | Poor / broken | -44.41% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 32.46%, revenue growth -3.70%. |
-| Value attractiveness | Reasonable | Forward P/E 7.44, EV/Sales 3.17. |
-| Risk level | High | Beta 1.73, ATR nan% of price, short float 12.80%. |
+| Value attractiveness | Reasonable | Forward P/E 7.61, EV/Sales 3.17. |
+| Risk level | High | Beta 1.73, ATR 5.4% of price, short float 12.80%. |
 
-**Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: high.
+**Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -32,34 +32,25 @@ Signed file: `FSLR.research.29.09.2026`
 ## 2. Company Overview and Recent Catalysts
 First Solar, Inc., a solar technology company, provides photovoltaic (PV) solar energy solutions in the United States, France, India, Chile, and internationally. The company manufactures and sells PV solar modules with thin film semiconductor technology that provides conventional crystalline silicon PV solar modules. It also designs, manufactures, and sells cadmium telluride solar modules that convert sunlight into electricity.
 
-**Recent headlines (potential catalysts):**
-
-| Headline | Source | Date |
-|---|---|---|
-| First Solar Faces Pricing Pressure Amid High Inventory, Slow Project Starts, KeyBanc Says | MT Newswires | 2026-09-28 |
-| Roblox downgraded, Royal Caribbean upgraded: Wall Street's top analyst calls | The Fly | 2026-09-28 |
-| Here Are Monday’s Top Wall Street Analyst Research Calls: Applied Digital, Autodesk, Datadog, First Solar, L3Harris Technologies, PepsiCo, Roblox, Snowflake, TeraWulf and More | 24/7 Wall St. | 2026-09-28 |
-| First Solar Shares Rise After KeyBanc Removes Underweight Rating | InvestorsHub | 2026-09-28 |
-
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $318.25 (+nan%); 52w low $172.16 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 35.1 (neutral) |
-| Volatility | ATR(14) 10.29 (~nan% of price); beta 1.73 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $176.93; 52w high $318.25 (-44.41%); 52w low $172.16 (+2.77%) |
+| Trend | -21.55% vs SMA200, -15.54% vs SMA50, -10.11% vs SMA20 |
+| Momentum | RSI(14) 36.3 (neutral) |
+| Volatility | ATR(14) 9.63 (~5.4% of price); beta 1.73 |
+| Setup perspective | -44.41% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -11.9% |
+| Month | -13.5% |
+| Quarter | -25.0% |
+| Half Y | -4.2% |
+| 1Y | -19.6% |
+| YTD | -35.5% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +59,13 @@ First Solar, Inc., a solar technology company, provides photovoltaic (PV) solar 
 | Revenue (ttm) | $5.38B | Revenue growth -3.70% y/y |
 | Profitability | Gross 44.02%, operating 42.64%, net 32.46% | ROA 8.62%, ROE 18.51% |
 | Balance sheet | Cash $1.73B, debt $194.01M | Current ratio 2.52, debt/equity 1.88 |
-| Valuation | P/E 10.95, forward P/E 7.44, P/S 3.46, P/B 1.80 | EV/Sales 3.17, EV/EBITDA 7.15 |
+| Valuation | P/E 10.91, forward P/E 7.61, P/S 3.54, P/B 1.84 | EV/Sales 3.17, EV/EBITDA 7.15 |
 | Growth expectations | Earnings growth 23.30%, EPS q/q 23.60% | Analyst mean target $276.17 (30 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 96.44% |
+| Institutional ownership | 96.42% |
 | Insider ownership | 5.36% |
 | Short float | 12.80% |
 | Short ratio (days to cover) | 5.7 |
@@ -95,8 +86,9 @@ First Solar, Inc., a solar technology company, provides photovoltaic (PV) solar 
 | Morgan Stanley | 1,790,509 | 1.67% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.73, ATR nan% of price, short float 12.80%. Size positions accordingly.
+- **Volatility risk:** Beta 1.73, ATR 5.4% of price, short float 12.80%. Size positions accordingly.
 - **Short interest risk:** short float 12.80% can fuel squeezes both ways around news.
+- **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -111,21 +103,21 @@ First Solar, Inc., a solar technology company, provides photovoltaic (PV) solar 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 3.17 |
-| Market cap | $18.59B | EV/EBITDA | 7.15 |
+| Price | $176.93 | EV/Sales | 3.17 |
+| Market cap | $19.01B | EV/EBITDA | 7.15 |
 | Beta | 1.73 | Gross margin | 44.02% |
-| RSI(14) | 35.1 | Operating margin | 42.64% |
-| ATR(14) | 10.29 | Profit margin | 32.46% |
-| SMA20 dist | +nan% | ROA | 8.62% |
-| SMA50 dist | +nan% | ROE | 18.51% |
-| SMA200 dist | +nan% | Revenue (ttm) | $5.38B |
+| RSI(14) | 36.3 | Operating margin | 42.64% |
+| ATR(14) | 9.63 | Profit margin | 32.46% |
+| SMA20 dist | -10.11% | ROA | 8.62% |
+| SMA50 dist | -15.54% | ROE | 18.51% |
+| SMA200 dist | -21.55% | Revenue (ttm) | $5.38B |
 | 52W high | $318.25 | Revenue growth y/y | -3.70% |
-| 52W low | $172.16 | Inst. ownership | 96.44% |
-| P/E (ttm) | 10.95 | Insider ownership | 5.36% |
-| Forward P/E | 7.44 | Short float | 12.80% |
-| PEG (trailing) | 0.36 | Avg volume | 2,248,666 |
-| P/S | 3.46 | Employees | 7,900 |
-| P/B | 1.80 | Analyst rec (1=buy..5=sell) | 1.9 |
+| 52W low | $172.16 | Inst. ownership | 96.42% |
+| P/E (ttm) | 10.91 | Insider ownership | 5.36% |
+| Forward P/E | 7.61 | Short float | 12.80% |
+| PEG (trailing) | 0.36 | Avg volume | 2,254,269 |
+| P/S | 3.54 | Employees | 7,900 |
+| P/B | 1.84 | Analyst rec (1=buy..5=sell) | 1.9 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
@@ -140,7 +132,7 @@ First Solar, Inc., a solar technology company, provides photovoltaic (PV) solar 
 | 2026-08-17 | main | Evercore ISI Group | In-Line → In-Line |
 
 ## 9. Conclusion
-FSLR: Moderate momentum / mixed fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+FSLR: Low momentum / mixed fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

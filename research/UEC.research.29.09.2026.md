@@ -4,24 +4,24 @@ Signed file: `UEC.research.29.09.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-09-29, ~15-min delayed) |
-| Market cap | $4.56B |
+| Current price | $9.29 (2026-09-29, ~15-min delayed) |
+| Market cap | $4.60B |
 | Sector / Industry | Energy / Uranium |
 | Main theme | Uranium — see catalysts below |
-| Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: high. |
+| Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-09-29.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-29.01%) with negative half-year (-25.80%). |
+| Fresh setup quality | Poor / broken | -53.87% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 0.00%, revenue growth —. |
-| Value attractiveness | Reasonable | Forward P/E -102.33, EV/Sales 201.57. |
-| Risk level | High | Beta 1.24, ATR nan% of price, short float 14.60%. |
+| Value attractiveness | Reasonable | Forward P/E -61.93, EV/Sales 201.57. |
+| Risk level | High | Beta 1.24, ATR 6.5% of price, short float 14.60%. |
 
-**Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: high.
+**Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -32,34 +32,25 @@ Signed file: `UEC.research.29.09.2026`
 ## 2. Company Overview and Recent Catalysts
 Uranium Energy Corp., together with its subsidiaries, engages in exploration, pre-extraction, extraction, and processing of uranium and titanium concentrates properties in the United States, Canada, and the Republic of Paraguay. The company was formerly known as Carlin Gold Inc. and changed its name to Uranium Energy Corp. in January 2005. The company was incorporated in 2003 and is headquartered in Corpus Christi, Texas.
 
-**Recent headlines (potential catalysts):**
-
-| Headline | Source | Date |
-|---|---|---|
-| Nuclear Energy Stocks Rally as Demand for Reliable Clean Power Grows | Zacks | 2026-09-23 |
-| Why Did Uranium Energy (UEC) Move Today? | Simply Wall St. | 2026-09-23 |
-| Oklo Climbs 5% as Nuclear Names Bounce Back From Last Week’s Selloff; NuScale Power Gains 4%, Uranium Energy Rises 3% | 24/7 Wall St. | 2026-09-21 |
-| Uranium Energy vs. Cameco: If I Could Only Own 1 Uranium Stock for the Next Decade, I'd Buy This 1 | Motley Fool | 2026-09-20 |
-
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $20.14 (+nan%); 52w low $9.04 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 34.2 (neutral) |
-| Volatility | ATR(14) 0.59 (~nan% of price); beta 1.24 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $9.29; 52w high $20.14 (-53.87%); 52w low $9.04 (+2.77%) |
+| Trend | -29.01% vs SMA200, -14.05% vs SMA50, -11.27% vs SMA20 |
+| Momentum | RSI(14) 33.9 (neutral) |
+| Volatility | ATR(14) 0.60 (~6.5% of price); beta 1.24 |
+| Setup perspective | -53.87% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -10.1% |
+| Month | -25.1% |
+| Quarter | -12.9% |
+| Half Y | -25.8% |
+| 1Y | -32.0% |
+| YTD | -29.1% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +59,13 @@ Uranium Energy Corp., together with its subsidiaries, engages in exploration, pr
 | Revenue (ttm) | $20.20M | Revenue growth — y/y |
 | Profitability | Gross 0.00%, operating -629.66%, net 0.00% | ROA -6.25%, ROE -8.96% |
 | Balance sheet | Cash $488.05M, debt $1.91M | Current ratio 32.67, debt/equity 0.14 |
-| Valuation | P/E —, forward P/E -102.33, P/S 225.63, P/B 3.20 | EV/Sales 201.57, EV/EBITDA -33.72 |
-| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $17.38 (10 analysts) |
+| Valuation | P/E —, forward P/E -61.93, P/S 227.59, P/B 3.22 | EV/Sales 201.57, EV/EBITDA -33.72 |
+| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $17.27 (10 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 89.45% |
+| Institutional ownership | 89.47% |
 | Insider ownership | 1.86% |
 | Short float | 14.60% |
 | Short ratio (days to cover) | 7.0 |
@@ -95,8 +86,9 @@ Uranium Energy Corp., together with its subsidiaries, engages in exploration, pr
 | Alps Advisors Inc. | 9,829,329 | 1.99% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.24, ATR nan% of price, short float 14.60%. Size positions accordingly.
+- **Volatility risk:** Beta 1.24, ATR 6.5% of price, short float 14.60%. Size positions accordingly.
 - **Short interest risk:** short float 14.60% can fuel squeezes both ways around news.
+- **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -111,21 +103,21 @@ Uranium Energy Corp., together with its subsidiaries, engages in exploration, pr
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 201.57 |
-| Market cap | $4.56B | EV/EBITDA | -33.72 |
+| Price | $9.29 | EV/Sales | 201.57 |
+| Market cap | $4.60B | EV/EBITDA | -33.72 |
 | Beta | 1.24 | Gross margin | 0.00% |
-| RSI(14) | 34.2 | Operating margin | -629.66% |
-| ATR(14) | 0.59 | Profit margin | 0.00% |
-| SMA20 dist | +nan% | ROA | -6.25% |
-| SMA50 dist | +nan% | ROE | -8.96% |
-| SMA200 dist | +nan% | Revenue (ttm) | $20.20M |
+| RSI(14) | 33.9 | Operating margin | -629.66% |
+| ATR(14) | 0.60 | Profit margin | 0.00% |
+| SMA20 dist | -11.27% | ROA | -6.25% |
+| SMA50 dist | -14.05% | ROE | -8.96% |
+| SMA200 dist | -29.01% | Revenue (ttm) | $20.20M |
 | 52W high | $20.14 | Revenue growth y/y | — |
-| 52W low | $9.04 | Inst. ownership | 89.45% |
+| 52W low | $9.04 | Inst. ownership | 89.47% |
 | P/E (ttm) | — | Insider ownership | 1.86% |
-| Forward P/E | -102.33 | Short float | 14.60% |
-| PEG (trailing) | — | Avg volume | 8,118,368 |
-| P/S | 225.63 | Employees | 171 |
-| P/B | 3.20 | Analyst rec (1=buy..5=sell) | — |
+| Forward P/E | -61.93 | Short float | 14.60% |
+| PEG (trailing) | — | Avg volume | 8,158,334 |
+| P/S | 227.59 | Employees | 171 |
+| P/B | 3.22 | Analyst rec (1=buy..5=sell) | 1.6 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
@@ -140,7 +132,7 @@ Uranium Energy Corp., together with its subsidiaries, engages in exploration, pr
 | 2025-09-25 | main | Roth Capital | Buy → Buy |
 
 ## 9. Conclusion
-UEC: Moderate momentum / mixed fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+UEC: Low momentum / mixed fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

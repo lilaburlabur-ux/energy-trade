@@ -4,8 +4,8 @@ Signed file: `ET.research.29.09.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-09-29, ~15-min delayed) |
-| Market cap | $69.21B |
+| Current price | $19.91 (2026-09-29, ~15-min delayed) |
+| Market cap | $68.56B |
 | Sector / Industry | Energy / Oil & Gas Midstream |
 | Main theme | Oil & Gas Midstream — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `ET.research.29.09.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +22.57%; price +6.06% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -8.38% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 4.92%, revenue growth 78.40%. |
-| Value attractiveness | Reasonable | Forward P/E 11.52, EV/Sales 1.46. |
-| Risk level | Moderate | Beta 0.57, ATR nan% of price, short float 1.01%. |
+| Value attractiveness | Reasonable | Forward P/E 11.42, EV/Sales 1.46. |
+| Risk level | Moderate | Beta 0.57, ATR 1.7% of price, short float 1.01%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
@@ -32,34 +32,25 @@ Signed file: `ET.research.29.09.2026`
 ## 2. Company Overview and Recent Catalysts
 Energy Transfer LP, together with its subsidiaries, provides energy-related services in the United States. It operates through Intrastate Transportation and Storage; Interstate Transportation and Storage; Midstream; Natural Gas Liquid (NGL) and Refined Products Transportation and Services; Crude Oil Transportation and Services; Investment in Sunoco LP; Investment in USA Compression Partners, LP (USAC); and All Other segments.
 
-**Recent headlines (potential catalysts):**
-
-| Headline | Source | Date |
-|---|---|---|
-| Energy Transfer vs. MPLX: Which Pipeline Giant's High-Yield Dividend Is Actually Safer? | Motley Fool | 2026-09-26 |
-| MarketBeat Week in Review – 09/21 - 09/25 | MarketBeat | 2026-09-26 |
-| Energy Transfer (ET) Stock May Be Undervalued On Current Earnings | Simply Wall St. | 2026-09-26 |
-| 3 Reasons Why Energy Transfer Is One of My Largest Positions | Motley Fool | 2026-09-25 |
-
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $21.73 (+nan%); 52w low $15.15 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 32.1 (neutral) |
-| Volatility | ATR(14) 0.34 (~nan% of price); beta 0.57 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $19.91; 52w high $21.73 (-8.38%); 52w low $15.15 (+31.38%) |
+| Trend | +6.06% vs SMA200, -4.12% vs SMA50, -5.37% vs SMA20 |
+| Momentum | RSI(14) 28.1 (oversold) |
+| Volatility | ATR(14) 0.34 (~1.7% of price); beta 0.57 |
+| Setup perspective | -8.38% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -2.4% |
+| Month | -6.6% |
+| Quarter | +5.9% |
+| Half Y | +5.1% |
+| 1Y | +22.6% |
+| YTD | +26.5% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +59,7 @@ Energy Transfer LP, together with its subsidiaries, provides energy-related serv
 | Revenue (ttm) | $107.38B | Revenue growth 78.40% y/y |
 | Profitability | Gross 17.51%, operating 10.41%, net 4.92% | ROA 5.06%, ROE 14.56% |
 | Balance sheet | Cash $1.02B, debt $70.24B | Current ratio 1.16, debt/equity 138.33 |
-| Valuation | P/E 13.77, forward P/E 11.52, P/S 0.64, P/B 2.16 | EV/Sales 1.46, EV/EBITDA 9.17 |
+| Valuation | P/E 13.64, forward P/E 11.42, P/S 0.64, P/B 2.14 | EV/Sales 1.46, EV/EBITDA 9.17 |
 | Growth expectations | Earnings growth 85.30%, EPS q/q 79.50% | Analyst mean target $24.70 (23 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -109,21 +100,21 @@ Energy Transfer LP, together with its subsidiaries, provides energy-related serv
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 1.46 |
-| Market cap | $69.21B | EV/EBITDA | 9.17 |
+| Price | $19.91 | EV/Sales | 1.46 |
+| Market cap | $68.56B | EV/EBITDA | 9.17 |
 | Beta | 0.57 | Gross margin | 17.51% |
-| RSI(14) | 32.1 | Operating margin | 10.41% |
+| RSI(14) | 28.1 | Operating margin | 10.41% |
 | ATR(14) | 0.34 | Profit margin | 4.92% |
-| SMA20 dist | +nan% | ROA | 5.06% |
-| SMA50 dist | +nan% | ROE | 14.56% |
-| SMA200 dist | +nan% | Revenue (ttm) | $107.38B |
+| SMA20 dist | -5.37% | ROA | 5.06% |
+| SMA50 dist | -4.12% | ROE | 14.56% |
+| SMA200 dist | +6.06% | Revenue (ttm) | $107.38B |
 | 52W high | $21.73 | Revenue growth y/y | 78.40% |
 | 52W low | $15.15 | Inst. ownership | 32.52% |
-| P/E (ttm) | 13.77 | Insider ownership | 10.29% |
-| Forward P/E | 11.52 | Short float | 1.01% |
-| PEG (trailing) | 0.62 | Avg volume | 8,752,069 |
+| P/E (ttm) | 13.64 | Insider ownership | 10.29% |
+| Forward P/E | 11.42 | Short float | 1.01% |
+| PEG (trailing) | 0.62 | Avg volume | 8,775,446 |
 | P/S | 0.64 | Employees | 22,311 |
-| P/B | 2.16 | Analyst rec (1=buy..5=sell) | 1.5 |
+| P/B | 2.14 | Analyst rec (1=buy..5=sell) | 1.5 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

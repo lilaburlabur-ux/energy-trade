@@ -4,8 +4,8 @@ Signed file: `SHEL.research.29.09.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $96.47 (2026-09-29, ~15-min delayed) |
-| Market cap | $275.16B |
+| Current price | $95.14 (2026-09-29, ~15-min delayed) |
+| Market cap | $271.33B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `SHEL.research.29.09.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +37.27%; price +15.42% vs SMA200. |
-| Fresh setup quality | Watch | -2.51% from 52w high and near SMA20 — check for a tight base. |
+| Technical momentum | Moderate | 1Y +34.44%; price +13.66% vs SMA200. |
+| Fresh setup quality | Watch | -3.85% from 52w high and near SMA20 — check for a tight base. |
 | Fundamental quality | Mixed | Profit margin 8.76%, revenue growth 44.70%. |
-| Value attractiveness | Reasonable | Forward P/E 9.28, EV/Sales 1.05. |
-| Risk level | Moderate | Beta -0.22, ATR 1.6% of price, short float 1.24%. |
+| Value attractiveness | Reasonable | Forward P/E 9.15, EV/Sales 1.05. |
+| Risk level | Moderate | Beta -0.22, ATR 1.7% of price, short float 1.24%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
@@ -32,34 +32,25 @@ Signed file: `SHEL.research.29.09.2026`
 ## 2. Company Overview and Recent Catalysts
 Shell plc operates as an energy and petrochemical company in Europe, Asia, Oceania, Africa, the United States, and other parts of the Americas. It operates through the following segments: Integrated Gas, Upstream, Marketing, Chemicals and Products, and Renewables and Energy Solutions.
 
-**Recent headlines (potential catalysts):**
-
-| Headline | Source | Date |
-|---|---|---|
-| European Equities Traded in the US as American Depositary Receipts Start Week Slightly Lower in Monday Trading | MT Newswires | 2026-09-28 |
-| Update: US Equity Futures Drop Pre-Bell as Oil Prices Rise Amid US Rejection of Iran's Proposal to Reopen Strait of Hormuz | MT Newswires | 2026-09-28 |
-| U.S. Pressure Is Awakening an Energy Giant in Canada | The Wall Street Journal | 2026-09-28 |
-| Buybacks, Balance Sheet Strength and Portfolio Strategy in Focus for Shell (SHEL) | Insider Monkey | 2026-09-27 |
-
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $96.47; 52w high $98.95 (-2.51%); 52w low $68.43 (+40.97%) |
-| Trend | +15.42% vs SMA200, +5.23% vs SMA50, +1.62% vs SMA20 |
-| Momentum | RSI(14) 60.4 (neutral) |
-| Volatility | ATR(14) 1.59 (~1.6% of price); beta -0.22 |
-| Setup perspective | -2.51% from 52w high and near SMA20 — check for a tight base. |
+| Price vs 52-week range | Close $95.14; 52w high $98.95 (-3.85%); 52w low $68.43 (+39.03%) |
+| Trend | +13.66% vs SMA200, +3.56% vs SMA50, +0.03% vs SMA20 |
+| Momentum | RSI(14) 54.4 (neutral) |
+| Volatility | ATR(14) 1.60 (~1.7% of price); beta -0.22 |
+| Setup perspective | -3.85% from 52w high and near SMA20 — check for a tight base. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +3.4% |
-| Month | +6.4% |
-| Quarter | +26.6% |
-| Half Y | +6.5% |
-| 1Y | +37.3% |
-| YTD | +31.4% |
+| Week | +1.3% |
+| Month | +4.7% |
+| Quarter | +23.8% |
+| Half Y | +4.4% |
+| 1Y | +34.4% |
+| YTD | +29.6% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +59,7 @@ Shell plc operates as an energy and petrochemical company in Europe, Asia, Ocean
 | Revenue (ttm) | $296.60B | Revenue growth 44.70% y/y |
 | Profitability | Gross 26.09%, operating 16.69%, net 8.76% | ROA 6.40%, ROE 14.34% |
 | Balance sheet | Cash $31.37B, debt $73.08B | Current ratio 1.44, debt/equity 40.20 |
-| Valuation | P/E 10.67, forward P/E 9.28, P/S 0.93, P/B 1.49 | EV/Sales 1.05, EV/EBITDA 5.41 |
+| Valuation | P/E 10.52, forward P/E 9.15, P/S 0.91, P/B 1.47 | EV/Sales 1.05, EV/EBITDA 5.41 |
 | Growth expectations | Earnings growth 220.00%, EPS q/q 200.50% | Analyst mean target $102.41 (15 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -110,21 +101,21 @@ Shell plc operates as an energy and petrochemical company in Europe, Asia, Ocean
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $96.47 | EV/Sales | 1.05 |
-| Market cap | $275.16B | EV/EBITDA | 5.41 |
+| Price | $95.14 | EV/Sales | 1.05 |
+| Market cap | $271.33B | EV/EBITDA | 5.41 |
 | Beta | -0.22 | Gross margin | 26.09% |
-| RSI(14) | 60.4 | Operating margin | 16.69% |
-| ATR(14) | 1.59 | Profit margin | 8.76% |
-| SMA20 dist | +1.62% | ROA | 6.40% |
-| SMA50 dist | +5.23% | ROE | 14.34% |
-| SMA200 dist | +15.42% | Revenue (ttm) | $296.60B |
+| RSI(14) | 54.4 | Operating margin | 16.69% |
+| ATR(14) | 1.60 | Profit margin | 8.76% |
+| SMA20 dist | +0.03% | ROA | 6.40% |
+| SMA50 dist | +3.56% | ROE | 14.34% |
+| SMA200 dist | +13.66% | Revenue (ttm) | $296.60B |
 | 52W high | $98.95 | Revenue growth y/y | 44.70% |
 | 52W low | $68.43 | Inst. ownership | 13.39% |
-| P/E (ttm) | 10.67 | Insider ownership | 0.01% |
-| Forward P/E | 9.28 | Short float | 1.24% |
-| PEG (trailing) | 1.59 | Avg volume | 6,252,288 |
-| P/S | 0.93 | Employees | 84,000 |
-| P/B | 1.49 | Analyst rec (1=buy..5=sell) | 2.2 |
+| P/E (ttm) | 10.52 | Insider ownership | 0.01% |
+| Forward P/E | 9.15 | Short float | 1.24% |
+| PEG (trailing) | 1.59 | Avg volume | 6,246,322 |
+| P/S | 0.91 | Employees | 84,000 |
+| P/B | 1.47 | Analyst rec (1=buy..5=sell) | 2.2 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

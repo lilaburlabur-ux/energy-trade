@@ -4,8 +4,8 @@ Signed file: `TTE.research.29.09.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-09-29, ~15-min delayed) |
-| Market cap | $199.50B |
+| Current price | $87.71 (2026-09-29, ~15-min delayed) |
+| Market cap | $193.69B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `TTE.research.29.09.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +44.87%; price +6.69% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -6.29% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 9.08%, revenue growth 27.80%. |
-| Value attractiveness | Reasonable | Forward P/E 8.72, EV/Sales 1.20. |
-| Risk level | Moderate | Beta 0.06, ATR nan% of price, short float 0.22%. |
+| Value attractiveness | Reasonable | Forward P/E 8.47, EV/Sales 1.20. |
+| Risk level | Moderate | Beta 0.06, ATR 1.9% of price, short float 0.22%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
@@ -32,34 +32,25 @@ Signed file: `TTE.research.29.09.2026`
 ## 2. Company Overview and Recent Catalysts
 TotalEnergies SE, an integrated energy company, produces and markets oil and biofuels, natural gas, biogas and low-carbon hydrogen, renewables, and electricity in France, the United States, Europe, Africa, and internationally. It operates through Exploration & Production, Integrated LNG, Integrated Power, Refining & Chemicals, and Marketing & Services segments. The Exploration & Production segment engages in the activities of exploration and production of oil and natural gas, as well as carbon storage.
 
-**Recent headlines (potential catalysts):**
-
-| Headline | Source | Date |
-|---|---|---|
-| Sector Update: Energy Stocks Higher Late Afternoon | MT Newswires | 2026-09-28 |
-| TD Cowen highlights top oil stocks ahead of earnings season | Investing.com | 2026-09-28 |
-| Sector Update: Energy Stocks Rise Monday Afternoon | MT Newswires | 2026-09-28 |
-| TotalEnergies Targets $10B Cash Flow Boost, 5% Dividend Growth by 2030 | MarketBeat | 2026-09-28 |
-
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $93.60 (+nan%); 52w low $55.92 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 54.0 (neutral) |
-| Volatility | ATR(14) 1.55 (~nan% of price); beta 0.06 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $87.71; 52w high $93.60 (-6.29%); 52w low $55.92 (+56.84%) |
+| Trend | +6.69% vs SMA200, -0.96% vs SMA50, -3.26% vs SMA20 |
+| Momentum | RSI(14) 42.5 (neutral) |
+| Volatility | ATR(14) 1.64 (~1.9% of price); beta 0.06 |
+| Setup perspective | -6.29% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -2.4% |
+| Month | +1.6% |
+| Quarter | +12.8% |
+| Half Y | -3.2% |
+| 1Y | +44.9% |
+| YTD | +33.3% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +59,7 @@ TotalEnergies SE, an integrated energy company, produces and markets oil and bio
 | Revenue (ttm) | $196.38B | Revenue growth 27.80% y/y |
 | Profitability | Gross 37.68%, operating 12.79%, net 9.08% | ROA 5.51%, ROE 14.48% |
 | Balance sheet | Cash $31.72B, debt $62.92B | Current ratio 1.06, debt/equity 48.05 |
-| Valuation | P/E 11.31, forward P/E 8.72, P/S 1.02, P/B 1.56 | EV/Sales 1.20, EV/EBITDA 5.92 |
+| Valuation | P/E 10.98, forward P/E 8.47, P/S 0.99, P/B 1.52 | EV/Sales 1.20, EV/EBITDA 5.92 |
 | Growth expectations | Earnings growth 106.00%, EPS q/q 102.40% | Analyst mean target $96.80 (10 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,6 +86,7 @@ TotalEnergies SE, an integrated energy company, produces and markets oil and bio
 | Goldman Sachs Group Inc | 26,079,768 | 1.04% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
+- **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -109,21 +101,21 @@ TotalEnergies SE, an integrated energy company, produces and markets oil and bio
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 1.20 |
-| Market cap | $199.50B | EV/EBITDA | 5.92 |
+| Price | $87.71 | EV/Sales | 1.20 |
+| Market cap | $193.69B | EV/EBITDA | 5.92 |
 | Beta | 0.06 | Gross margin | 37.68% |
-| RSI(14) | 54.0 | Operating margin | 12.79% |
-| ATR(14) | 1.55 | Profit margin | 9.08% |
-| SMA20 dist | +nan% | ROA | 5.51% |
-| SMA50 dist | +nan% | ROE | 14.48% |
-| SMA200 dist | +nan% | Revenue (ttm) | $196.38B |
+| RSI(14) | 42.5 | Operating margin | 12.79% |
+| ATR(14) | 1.64 | Profit margin | 9.08% |
+| SMA20 dist | -3.26% | ROA | 5.51% |
+| SMA50 dist | -0.96% | ROE | 14.48% |
+| SMA200 dist | +6.69% | Revenue (ttm) | $196.38B |
 | 52W high | $93.60 | Revenue growth y/y | 27.80% |
 | 52W low | $55.92 | Inst. ownership | 54.22% |
-| P/E (ttm) | 11.31 | Insider ownership | 8.86% |
-| Forward P/E | 8.72 | Short float | 0.22% |
-| PEG (trailing) | — | Avg volume | 1,575,744 |
-| P/S | 1.02 | Employees | 94,847 |
-| P/B | 1.56 | Analyst rec (1=buy..5=sell) | 1.7 |
+| P/E (ttm) | 10.98 | Insider ownership | 8.86% |
+| Forward P/E | 8.47 | Short float | 0.22% |
+| PEG (trailing) | — | Avg volume | 1,570,811 |
+| P/S | 0.99 | Employees | 94,847 |
+| P/B | 1.52 | Analyst rec (1=buy..5=sell) | 1.7 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

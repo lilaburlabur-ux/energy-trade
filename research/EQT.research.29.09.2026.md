@@ -4,24 +4,24 @@ Signed file: `EQT.research.29.09.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-09-29, ~15-min delayed) |
-| Market cap | $31.19B |
+| Current price | $48.90 (2026-09-29, ~15-min delayed) |
+| Market cap | $30.59B |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
-| Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
+| Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-09-29.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-11.63%) with negative half-year (-23.66%). |
+| Fresh setup quality | Poor / broken | -27.58% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 29.18%, revenue growth -3.90%. |
-| Value attractiveness | Reasonable | Forward P/E 13.06, EV/Sales 4.34. |
-| Risk level | Moderate | Beta 0.58, ATR nan% of price, short float 4.09%. |
+| Value attractiveness | Reasonable | Forward P/E 13.00, EV/Sales 4.34. |
+| Risk level | Moderate | Beta 0.58, ATR 2.8% of price, short float 4.09%. |
 
-**Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
+**Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -32,34 +32,25 @@ Signed file: `EQT.research.29.09.2026`
 ## 2. Company Overview and Recent Catalysts
 EQT Corporation engages in the exploration, production, gathering, and transmission of hydrocarbons and natural gas. The company sells natural gas, natural gas liquids, and oil to marketers, utilities, and industrial customers located in the Appalachian Basin. It also provides marketing services and contractual pipeline capacity management services, as well as engages in risk management and hedging activities. In addition, it owns and operates propane storage and distribution terminals. The company was formerly known as Equitable Resources Inc.
 
-**Recent headlines (potential catalysts):**
-
-| Headline | Source | Date |
-|---|---|---|
-| Forget LNG Exporters: EQT Is the Natural Gas Stock I'd Buy Today | Motley Fool | 2026-09-28 |
-| EQT (EQT) Sets A Record Well Length, Is It Still A Bargain? | Simply Wall St. | 2026-09-26 |
-| What Does EQT (EQT) Record Lateral Mean For Its Gas Recovery Plans? | Simply Wall St. | 2026-09-26 |
-| WhiteHawk Completes Acquisition of Appalachia, Haynesville Gas Assets | Rigzone.com | 2026-09-25 |
-
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $67.53 (+nan%); 52w low $48.70 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 38.7 (neutral) |
-| Volatility | ATR(14) 1.42 (~nan% of price); beta 0.58 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $48.90; 52w high $67.53 (-27.58%); 52w low $48.70 (+0.42%) |
+| Trend | -11.63% vs SMA200, -7.65% vs SMA50, -6.98% vs SMA20 |
+| Momentum | RSI(14) 30.8 (neutral) |
+| Volatility | ATR(14) 1.39 (~2.8% of price); beta 0.58 |
+| Setup perspective | -27.58% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -3.8% |
+| Month | -10.4% |
+| Quarter | -7.7% |
+| Half Y | -23.7% |
+| 1Y | -8.5% |
+| YTD | -7.7% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,8 +59,8 @@ EQT Corporation engages in the exploration, production, gathering, and transmiss
 | Revenue (ttm) | $9.29B | Revenue growth -3.90% y/y |
 | Profitability | Gross 80.75%, operating 23.37%, net 29.18% | ROA 6.63%, ROE 11.08% |
 | Balance sheet | Cash $112.86M, debt $5.66B | Current ratio 0.67, debt/equity 19.59 |
-| Valuation | P/E 11.79, forward P/E 13.06, P/S 3.36, P/B 1.23 | EV/Sales 4.34, EV/EBITDA 5.77 |
-| Growth expectations | Earnings growth -74.00%, EPS q/q -73.00% | Analyst mean target $67.58 (26 analysts) |
+| Valuation | P/E 11.35, forward P/E 13.00, P/S 3.29, P/B 1.21 | EV/Sales 4.34, EV/EBITDA 5.77 |
+| Growth expectations | Earnings growth -74.00%, EPS q/q -73.00% | Analyst mean target $67.50 (26 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
@@ -95,6 +86,7 @@ EQT Corporation engages in the exploration, production, gathering, and transmiss
 | Eagle Capital Management LLC | 15,356,952 | 2.46% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
+- **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -109,25 +101,26 @@ EQT Corporation engages in the exploration, production, gathering, and transmiss
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 4.34 |
-| Market cap | $31.19B | EV/EBITDA | 5.77 |
+| Price | $48.90 | EV/Sales | 4.34 |
+| Market cap | $30.59B | EV/EBITDA | 5.77 |
 | Beta | 0.58 | Gross margin | 80.75% |
-| RSI(14) | 38.7 | Operating margin | 23.37% |
-| ATR(14) | 1.42 | Profit margin | 29.18% |
-| SMA20 dist | +nan% | ROA | 6.63% |
-| SMA50 dist | +nan% | ROE | 11.08% |
-| SMA200 dist | +nan% | Revenue (ttm) | $9.29B |
+| RSI(14) | 30.8 | Operating margin | 23.37% |
+| ATR(14) | 1.39 | Profit margin | 29.18% |
+| SMA20 dist | -6.98% | ROA | 6.63% |
+| SMA50 dist | -7.65% | ROE | 11.08% |
+| SMA200 dist | -11.63% | Revenue (ttm) | $9.29B |
 | 52W high | $67.53 | Revenue growth y/y | -3.90% |
 | 52W low | $48.70 | Inst. ownership | 95.89% |
-| P/E (ttm) | 11.79 | Insider ownership | 0.90% |
-| Forward P/E | 13.06 | Short float | 4.09% |
-| PEG (trailing) | 1.49 | Avg volume | 7,213,768 |
-| P/S | 3.36 | Employees | 1,523 |
-| P/B | 1.23 | Analyst rec (1=buy..5=sell) | 1.5 |
+| P/E (ttm) | 11.35 | Insider ownership | 0.90% |
+| Forward P/E | 13.00 | Short float | 4.09% |
+| PEG (trailing) | 1.49 | Avg volume | 7,197,526 |
+| P/S | 3.29 | Employees | 1,523 |
+| P/B | 1.21 | Analyst rec (1=buy..5=sell) | 1.5 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-09-29 | main | Jefferies | Buy → Buy |
 | 2026-09-23 | main | Citigroup | Buy → Buy |
 | 2026-09-17 | reit | Stephens & Co. | Overweight → Overweight |
 | 2026-09-14 | main | UBS | Buy → Buy |
@@ -135,10 +128,9 @@ EQT Corporation engages in the exploration, production, gathering, and transmiss
 | 2026-08-17 | main | Barclays | Overweight → Overweight |
 | 2026-07-28 | main | Citigroup | Buy → Buy |
 | 2026-07-22 | main | Stephens & Co. | Overweight → Overweight |
-| 2026-07-22 | main | Barclays | Overweight → Overweight |
 
 ## 9. Conclusion
-EQT: Moderate momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+EQT: Low momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

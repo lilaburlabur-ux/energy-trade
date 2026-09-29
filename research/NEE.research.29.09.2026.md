@@ -4,24 +4,24 @@ Signed file: `NEE.research.29.09.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-09-29, ~15-min delayed) |
-| Market cap | $157.47B |
+| Current price | $75.89 (2026-09-29, ~15-min delayed) |
+| Market cap | $158.30B |
 | Sector / Industry | Utilities / Utilities - Regulated Electric |
 | Main theme | Utilities - Regulated Electric — see catalysts below |
-| Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate. |
+| Current stance | Low technical momentum, strong fundamentals, value: reasonable, risk: moderate. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-09-29.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-12.13%) with negative half-year (-16.33%). |
+| Fresh setup quality | Moderate / wait | -21.31% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 32.40%, revenue growth 12.40%. |
-| Value attractiveness | Reasonable | Forward P/E 17.18, EV/Sales 9.61. |
-| Risk level | Moderate | Beta 0.64, ATR nan% of price, short float 0.00%. |
+| Value attractiveness | Reasonable | Forward P/E 17.27, EV/Sales 9.61. |
+| Risk level | Moderate | Beta 0.64, ATR 1.7% of price, short float 0.00%. |
 
-**Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate.
+**Bottom line:** Low technical momentum, strong fundamentals, value: reasonable, risk: moderate.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -32,34 +32,25 @@ Signed file: `NEE.research.29.09.2026`
 ## 2. Company Overview and Recent Catalysts
 NextEra Energy, Inc., through its subsidiaries, generates, stores, transmits, distributes, and sells electric power to retail and wholesale customers in North America. It operates through Florida Power & Light Company (FPL) and NEER segments. The company generates electricity from wind, solar, nuclear, natural gas, and other clean energy assets.
 
-**Recent headlines (potential catalysts):**
-
-| Headline | Source | Date |
-|---|---|---|
-| Dominion Energy (D) Stock Still Looks Discounted Following Its 65% Three Year Run | Simply Wall St. | 2026-09-28 |
-| Rolls Royce Stock And 2 Top Nuclear Power Stocks | Simply Wall St. | 2026-09-28 |
-| Can Improving Operating Efficiency Support PPL's Earnings Growth? | Zacks | 2026-09-28 |
-| 3 Great Nuclear Stocks To Own In September 2026 | Simply Wall St. | 2026-09-28 |
-
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $96.44 (+nan%); 52w low $73.38 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 23.1 (oversold) |
-| Volatility | ATR(14) 1.31 (~nan% of price); beta 0.64 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $75.89; 52w high $96.44 (-21.31%); 52w low $73.38 (+3.42%) |
+| Trend | -12.13% vs SMA200, -9.08% vs SMA50, -5.64% vs SMA20 |
+| Momentum | RSI(14) 24.9 (oversold) |
+| Volatility | ATR(14) 1.30 (~1.7% of price); beta 0.64 |
+| Setup perspective | -21.31% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -4.3% |
+| Month | -7.3% |
+| Quarter | -12.9% |
+| Half Y | -16.3% |
+| 1Y | +2.9% |
+| YTD | -4.2% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +59,13 @@ NextEra Energy, Inc., through its subsidiaries, generates, stores, transmits, di
 | Revenue (ttm) | $28.70B | Revenue growth 12.40% y/y |
 | Profitability | Gross 61.02%, operating 31.52%, net 32.40% | ROA 2.44%, ROE 11.68% |
 | Balance sheet | Cash $2.87B, debt $110.20B | Current ratio 0.53, debt/equity 161.68 |
-| Valuation | P/E 16.96, forward P/E 17.18, P/S 5.49, P/B 2.76 | EV/Sales 9.61, EV/EBITDA 18.90 |
+| Valuation | P/E 17.05, forward P/E 17.27, P/S 5.52, P/B 2.77 | EV/Sales 9.61, EV/EBITDA 18.90 |
 | Growth expectations | Earnings growth 53.10%, EPS q/q 55.00% | Analyst mean target $98.74 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 87.02% |
+| Institutional ownership | 87.03% |
 | Insider ownership | 0.12% |
 | Short float | 0.00% |
 | Short ratio (days to cover) | 0.0 |
@@ -109,21 +100,21 @@ NextEra Energy, Inc., through its subsidiaries, generates, stores, transmits, di
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 9.61 |
-| Market cap | $157.47B | EV/EBITDA | 18.90 |
+| Price | $75.89 | EV/Sales | 9.61 |
+| Market cap | $158.30B | EV/EBITDA | 18.90 |
 | Beta | 0.64 | Gross margin | 61.02% |
-| RSI(14) | 23.1 | Operating margin | 31.52% |
-| ATR(14) | 1.31 | Profit margin | 32.40% |
-| SMA20 dist | +nan% | ROA | 2.44% |
-| SMA50 dist | +nan% | ROE | 11.68% |
-| SMA200 dist | +nan% | Revenue (ttm) | $28.70B |
+| RSI(14) | 24.9 | Operating margin | 31.52% |
+| ATR(14) | 1.30 | Profit margin | 32.40% |
+| SMA20 dist | -5.64% | ROA | 2.44% |
+| SMA50 dist | -9.08% | ROE | 11.68% |
+| SMA200 dist | -12.13% | Revenue (ttm) | $28.70B |
 | 52W high | $96.44 | Revenue growth y/y | 12.40% |
-| 52W low | $73.38 | Inst. ownership | 87.02% |
-| P/E (ttm) | 16.96 | Insider ownership | 0.12% |
-| Forward P/E | 17.18 | Short float | 0.00% |
-| PEG (trailing) | 1.55 | Avg volume | 11,015,206 |
-| P/S | 5.49 | Employees | 17,400 |
-| P/B | 2.76 | Analyst rec (1=buy..5=sell) | 1.9 |
+| 52W low | $73.38 | Inst. ownership | 87.03% |
+| P/E (ttm) | 17.05 | Insider ownership | 0.12% |
+| Forward P/E | 17.27 | Short float | 0.00% |
+| PEG (trailing) | 1.55 | Avg volume | 11,055,085 |
+| P/S | 5.52 | Employees | 17,400 |
+| P/B | 2.77 | Analyst rec (1=buy..5=sell) | 1.9 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
@@ -138,7 +129,7 @@ NextEra Energy, Inc., through its subsidiaries, generates, stores, transmits, di
 | 2026-05-26 | main | Barclays | Equal-Weight → Equal-Weight |
 
 ## 9. Conclusion
-NEE: Moderate momentum / strong fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+NEE: Low momentum / strong fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

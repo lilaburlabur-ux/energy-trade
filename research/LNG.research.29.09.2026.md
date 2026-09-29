@@ -4,8 +4,8 @@ Signed file: `LNG.research.29.09.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-09-29, ~15-min delayed) |
-| Market cap | $55.69B |
+| Current price | $267.29 (2026-09-29, ~15-min delayed) |
+| Market cap | $55.20B |
 | Sector / Industry | Energy / Oil & Gas Midstream |
 | Main theme | Oil & Gas Midstream — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `LNG.research.29.09.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +13.21%; price +9.15% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -9.66% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 13.94%, revenue growth 22.70%. |
-| Value attractiveness | Reasonable | Forward P/E 12.80, EV/Sales 4.20. |
-| Risk level | Moderate | Beta -0.00, ATR nan% of price, short float 1.89%. |
+| Value attractiveness | Reasonable | Forward P/E 12.69, EV/Sales 4.20. |
+| Risk level | Moderate | Beta -0.00, ATR 2.8% of price, short float 1.89%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
@@ -32,34 +32,25 @@ Signed file: `LNG.research.29.09.2026`
 ## 2. Company Overview and Recent Catalysts
 Cheniere Energy, Inc., an energy infrastructure company, primarily engages in the liquefied natural gas (LNG) related businesses in the United States. The company owns and operates the Sabine Pass LNG terminal in Cameron Parish, Louisiana; and the Corpus Christi LNG terminal near Corpus Christi, Texas.
 
-**Recent headlines (potential catalysts):**
-
-| Headline | Source | Date |
-|---|---|---|
-| 5 Energy Stocks Positioned for a Prolonged Iran War | Oilprice.com | 2026-09-25 |
-| APA vs. LNG: Which Stock Should Value Investors Buy Now? | Zacks | 2026-09-24 |
-| Equinor Expands LNG Reach in Asia With PTT Trading Supply Agreement | Zacks | 2026-09-21 |
-| 3 U.S. Energy Stocks Retail Investors Are Watching for Inflation Resilience | Simply Wall St. | 2026-09-21 |
-
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $295.86 (+nan%); 52w low $187.49 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 44.0 (neutral) |
-| Volatility | ATR(14) 7.88 (~nan% of price); beta -0.00 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $267.29; 52w high $295.86 (-9.66%); 52w low $187.49 (+42.56%) |
+| Trend | +9.15% vs SMA200, -1.64% vs SMA50, -3.43% vs SMA20 |
+| Momentum | RSI(14) 43.1 (neutral) |
+| Volatility | ATR(14) 7.45 (~2.8% of price); beta -0.00 |
+| Setup perspective | -9.66% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -2.1% |
+| Month | -5.3% |
+| Quarter | +12.1% |
+| Half Y | -8.6% |
+| 1Y | +13.2% |
+| YTD | +36.1% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +59,13 @@ Cheniere Energy, Inc., an energy infrastructure company, primarily engages in th
 | Revenue (ttm) | $20.92B | Revenue growth 22.70% y/y |
 | Profitability | Gross 36.85%, operating 75.00%, net 13.94% | ROA 8.63%, ROE 39.12% |
 | Balance sheet | Cash $1.12B, debt $27.97B | Current ratio 0.87, debt/equity 243.42 |
-| Valuation | P/E 20.41, forward P/E 12.80, P/S 2.66, P/B 9.06 | EV/Sales 4.20, EV/EBITDA 11.22 |
+| Valuation | P/E 20.23, forward P/E 12.69, P/S 2.64, P/B 8.98 | EV/Sales 4.20, EV/EBITDA 11.22 |
 | Growth expectations | Earnings growth 100.70%, EPS q/q 88.70% | Analyst mean target $310.19 (21 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 91.52% |
+| Institutional ownership | 91.51% |
 | Insider ownership | 0.66% |
 | Short float | 1.89% |
 | Short ratio (days to cover) | 2.0 |
@@ -109,21 +100,21 @@ Cheniere Energy, Inc., an energy infrastructure company, primarily engages in th
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 4.20 |
-| Market cap | $55.69B | EV/EBITDA | 11.22 |
+| Price | $267.29 | EV/Sales | 4.20 |
+| Market cap | $55.20B | EV/EBITDA | 11.22 |
 | Beta | -0.00 | Gross margin | 36.85% |
-| RSI(14) | 44.0 | Operating margin | 75.00% |
-| ATR(14) | 7.88 | Profit margin | 13.94% |
-| SMA20 dist | +nan% | ROA | 8.63% |
-| SMA50 dist | +nan% | ROE | 39.12% |
-| SMA200 dist | +nan% | Revenue (ttm) | $20.92B |
+| RSI(14) | 43.1 | Operating margin | 75.00% |
+| ATR(14) | 7.45 | Profit margin | 13.94% |
+| SMA20 dist | -3.43% | ROA | 8.63% |
+| SMA50 dist | -1.64% | ROE | 39.12% |
+| SMA200 dist | +9.15% | Revenue (ttm) | $20.92B |
 | 52W high | $295.86 | Revenue growth y/y | 22.70% |
-| 52W low | $187.49 | Inst. ownership | 91.52% |
-| P/E (ttm) | 20.41 | Insider ownership | 0.66% |
-| Forward P/E | 12.80 | Short float | 1.89% |
-| PEG (trailing) | — | Avg volume | 1,892,738 |
-| P/S | 2.66 | Employees | 1,717 |
-| P/B | 9.06 | Analyst rec (1=buy..5=sell) | 1.4 |
+| 52W low | $187.49 | Inst. ownership | 91.51% |
+| P/E (ttm) | 20.23 | Insider ownership | 0.66% |
+| Forward P/E | 12.69 | Short float | 1.89% |
+| PEG (trailing) | — | Avg volume | 1,885,693 |
+| P/S | 2.64 | Employees | 1,717 |
+| P/B | 8.98 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

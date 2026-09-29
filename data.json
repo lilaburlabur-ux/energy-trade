@@ -1,25 +1,25 @@
 {
-  "as_of_utc": "2026-09-29T20:19:04+00:00",
-  "as_of_local": "2026-09-29 20:19:04 UTC",
+  "as_of_utc": "2026-09-29T20:20:53+00:00",
+  "as_of_local": "2026-09-29 20:20:53 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
       "name": "ExxonMobil",
-      "price": 161.39,
+      "price": 161.35,
       "previous_close": 162.52,
-      "change_pct": -0.7,
-      "market_cap": 663621468714.6881,
+      "change_pct": -0.72,
+      "market_cap": 663457019843.1189,
       "headlines": []
     },
     {
       "symbol": "CVX",
       "name": "Chevron",
-      "price": 204.39,
+      "price": 204.38,
       "previous_close": 206.37,
       "change_pct": -0.96,
-      "market_cap": 400932091975.5924,
+      "market_cap": 400912486718.261,
       "headlines": []
     },
     {
@@ -55,7 +55,7 @@
       "price": 433.27,
       "previous_close": 431.41,
       "change_pct": 0.43,
-      "market_cap": 168238736734.0088,
+      "market_cap": 168282063732.91016,
       "headlines": []
     },
     {
@@ -77,15 +77,6 @@
       "headlines": []
     },
     {
-      "symbol": "MPC",
-      "name": "Marathon Petroleum",
-      "price": 392.03,
-      "previous_close": 389.44,
-      "change_pct": 0.67,
-      "market_cap": 114447918662.68204,
-      "headlines": []
-    },
-    {
       "symbol": "BP",
       "name": "BP",
       "price": 43.52,
@@ -101,6 +92,15 @@
       "previous_close": 389.57,
       "change_pct": -0.47,
       "market_cap": 111635235530.39395,
+      "headlines": []
+    },
+    {
+      "symbol": "MPC",
+      "name": "Marathon Petroleum",
+      "price": 392.03,
+      "previous_close": 389.44,
+      "change_pct": 0.67,
+      "market_cap": 110091731496.08633,
       "headlines": []
     },
     {
@@ -203,21 +203,21 @@
       "headlines": []
     },
     {
-      "symbol": "EOG",
-      "name": "EOG Resources",
-      "price": 139.66,
-      "previous_close": 140.63,
-      "change_pct": -0.69,
-      "market_cap": 74386902450.34393,
-      "headlines": []
-    },
-    {
       "symbol": "SLB",
       "name": "SLB (Schlumberger)",
       "price": 49.87,
       "previous_close": 51.49,
       "change_pct": -3.15,
       "market_cap": 74014221344.73401,
+      "headlines": []
+    },
+    {
+      "symbol": "EOG",
+      "name": "EOG Resources",
+      "price": 139.66,
+      "previous_close": 140.63,
+      "change_pct": -0.69,
+      "market_cap": 73255746641.04321,
       "headlines": []
     },
     {
@@ -295,9 +295,9 @@
     {
       "symbol": "D",
       "name": "Dominion Energy",
-      "price": 60.65,
+      "price": 60.64,
       "previous_close": 60.28,
-      "change_pct": 0.62,
+      "change_pct": 0.6,
       "market_cap": 53334453010.53996,
       "headlines": []
     },
@@ -358,10 +358,10 @@
     {
       "symbol": "EQT",
       "name": "EQT Corp",
-      "price": 48.9,
+      "price": 48.88,
       "previous_close": 49.87,
-      "change_pct": -1.95,
-      "market_cap": 30587733354.46167,
+      "change_pct": -1.99,
+      "market_cap": 30575222748.12317,
       "headlines": []
     },
     {
@@ -554,21 +554,21 @@
       "headlines": []
     },
     {
+      "symbol": "UUUU",
+      "name": "Energy Fuels",
+      "price": 10.99,
+      "previous_close": 11.03,
+      "change_pct": -0.36,
+      "market_cap": 2909861495.6781387,
+      "headlines": []
+    },
+    {
       "symbol": "LEU",
       "name": "Centrus Energy",
       "price": 138.18,
       "previous_close": 140.37,
       "change_pct": -1.56,
       "market_cap": 2826210313.636963,
-      "headlines": []
-    },
-    {
-      "symbol": "UUUU",
-      "name": "Energy Fuels",
-      "price": 10.99,
-      "previous_close": 11.03,
-      "change_pct": -0.36,
-      "market_cap": 2747115292.787552,
       "headlines": []
     },
     {
@@ -629,8 +629,8 @@
           "name": "ExxonMobil Holdings Corp",
           "short": "ExxonMobil",
           "weight_pct": 19.86,
-          "change_pct": -0.7,
-          "price": 161.39,
+          "change_pct": -0.72,
+          "price": 161.35,
           "currency": "USD"
         },
         {
@@ -639,7 +639,7 @@
           "short": "Chevron",
           "weight_pct": 14.89,
           "change_pct": -0.96,
-          "price": 204.39,
+          "price": 204.38,
           "currency": "USD"
         },
         {
@@ -728,8 +728,8 @@
         "name": "ExxonMobil Holdings Corp",
         "short": "ExxonMobil",
         "weight_pct": 19.86,
-        "change_pct": -0.7,
-        "price": 161.39,
+        "change_pct": -0.72,
+        "price": 161.35,
         "currency": "USD"
       },
       {
@@ -738,7 +738,7 @@
         "short": "Chevron",
         "weight_pct": 14.89,
         "change_pct": -0.96,
-        "price": 204.39,
+        "price": 204.38,
         "currency": "USD"
       },
       {
@@ -823,18 +823,18 @@
     },
     {
       "label": "WTI",
-      "price": 89.03,
-      "change_pct": -3.86
+      "price": 89.13,
+      "change_pct": -3.75
     },
     {
       "label": "Brent",
-      "price": 95.73,
-      "change_pct": -9.07
+      "price": 95.77,
+      "change_pct": -9.03
     },
     {
       "label": "NatGas",
       "price": 3.01,
-      "change_pct": 0.4
+      "change_pct": 0.43
     }
   ]
 }
