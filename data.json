@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-29T05:01:34+00:00",
-  "as_of_local": "2026-09-29 05:01:34 UTC",
+  "as_of_utc": "2026-09-29T05:17:52+00:00",
+  "as_of_local": "2026-09-29 05:17:52 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -935,26 +935,7 @@
       "previous_close": 186.67,
       "change_pct": -0.77,
       "market_cap": 51868064875.78638,
-      "headlines": [
-        {
-          "title": "Oil Companies Enter 2027 With Their Strongest Balance Sheets in Years. Here's What to Expect Next Year.",
-          "url": "https://finance.yahoo.com/energy/articles/oil-companies-enter-2027-strongest-023500499.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-29T02:35:00Z"
-        },
-        {
-          "title": "Oil May Be Stronger Than It Looks\u2014And Diamondback Is on Sale",
-          "url": "https://finance.yahoo.com/energy/articles/oil-may-stronger-looks-diamondback-150000436.html",
-          "publisher": "MarketBeat",
-          "published": "2026-09-25T15:00:00Z"
-        },
-        {
-          "title": "3 Oil Stocks Investors May Revisit As Supply Worries Lift Crude",
-          "url": "https://finance.yahoo.com/energy/articles/3-oil-stocks-investors-may-141134464.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-09-25T14:11:34Z"
-        }
-      ]
+      "headlines": []
     },
     {
       "symbol": "DVN",
@@ -1581,6 +1562,12 @@
       "market_cap": 6027849694.523333,
       "headlines": [
         {
+          "title": "NexGen Energy Sees Uranium Supply Crunch Lasting for Decades",
+          "url": "https://finance.yahoo.com/energy/articles/nexgen-energy-sees-uranium-supply-050207965.html",
+          "publisher": "MarketBeat",
+          "published": "2026-09-29T05:02:07Z"
+        },
+        {
           "title": "3 Canadian Uranium Stocks With Revenue Growth Up To 58%",
           "url": "https://finance.yahoo.com/energy/articles/3-canadian-uranium-stocks-revenue-190841370.html",
           "publisher": "Simply Wall St.",
@@ -1591,12 +1578,6 @@
           "url": "https://finance.yahoo.com/energy/articles/jpmorgan-strongly-recommends-buying-tumbling-220700519.html",
           "publisher": "TheStreet",
           "published": "2026-09-22T22:07:00Z"
-        },
-        {
-          "title": "Uranium Stocks Are Rallying. Why NXE Got Initiated At Overweight.",
-          "url": "https://www.investors.com/news/nuclear-smr-stocks-rally-nexgen-energy-nxe-initiated-overweight/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-09-21T17:44:11Z"
         }
       ]
     },
@@ -2115,18 +2096,18 @@
     },
     {
       "label": "WTI",
-      "price": 94.3,
-      "change_pct": 1.84
+      "price": 94.29,
+      "change_pct": 1.83
     },
     {
       "label": "Brent",
-      "price": 99.85,
-      "change_pct": -5.16
+      "price": 99.81,
+      "change_pct": -5.2
     },
     {
       "label": "NatGas",
       "price": 3.13,
-      "change_pct": 4.33
+      "change_pct": 4.3
     }
   ]
 }
