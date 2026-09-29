@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-09-29T09:34:06+00:00",
-  "as_of_local": "2026-09-29 09:34:06 UTC",
+  "as_of_utc": "2026-09-29T09:39:09+00:00",
+  "as_of_local": "2026-09-29 09:39:09 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "EOG"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -211,6 +209,15 @@
       "previous_close": 51.54,
       "change_pct": -0.1,
       "market_cap": 76418537455.27513,
+      "headlines": []
+    },
+    {
+      "symbol": "EOG",
+      "name": "EOG Resources",
+      "price": 140.63,
+      "previous_close": 140.35,
+      "change_pct": 0.2,
+      "market_cap": 74903552774.62524,
       "headlines": []
     },
     {
@@ -685,8 +692,8 @@
           "name": "EOG Resources Inc",
           "short": "EOG Resources",
           "weight_pct": 4.13,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": 0.2,
+          "price": 140.63,
           "currency": "USD"
         },
         {
@@ -784,8 +791,8 @@
         "name": "EOG Resources Inc",
         "short": "EOG Resources",
         "weight_pct": 4.13,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": 0.2,
+        "price": 140.63,
         "currency": "USD"
       },
       {
@@ -816,18 +823,18 @@
     },
     {
       "label": "WTI",
-      "price": 92.67,
-      "change_pct": 0.08
+      "price": 92.66,
+      "change_pct": 0.06
     },
     {
       "label": "Brent",
-      "price": 97.9,
-      "change_pct": -7.01
+      "price": 97.86,
+      "change_pct": -7.05
     },
     {
       "label": "NatGas",
       "price": 3.09,
-      "change_pct": 3.03
+      "change_pct": 2.87
     }
   ]
 }
