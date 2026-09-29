@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-29T00:06:23+00:00",
-  "as_of_local": "2026-09-29 00:06:23 UTC",
+  "as_of_utc": "2026-09-29T00:11:22+00:00",
+  "as_of_local": "2026-09-29 00:11:22 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -601,6 +601,12 @@
       "market_cap": 77422403443.02,
       "headlines": [
         {
+          "title": "Why Bloom Energy (BE) Shares Are Sliding Today",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-bloom-energy-shares-sliding-000636170.html",
+          "publisher": "StockStory",
+          "published": "2026-09-29T00:06:36Z"
+        },
+        {
           "title": "S&P 500's Newest Member Is Monday's Biggest Loser",
           "url": "https://www.investors.com/news/sp-500-stocks-bloom-energy-stock-biggest-loser/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
@@ -611,12 +617,6 @@
           "url": "https://www.barrons.com/articles/why-midterm-elections-matter-stock-market-5bb45c97?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
           "published": "2026-09-28T21:22:00Z"
-        },
-        {
-          "title": "Bloom Energy (BE) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-sees-more-significant-210002478.html",
-          "publisher": "Zacks",
-          "published": "2026-09-28T21:00:02Z"
         }
       ]
     },
@@ -1021,6 +1021,12 @@
       "market_cap": 46324369613.9,
       "headlines": [
         {
+          "title": "Samsung to Invest $1 Billion in KKR\u2019s AI Infrastructure Company",
+          "url": "https://finance.yahoo.com/technology/ai/articles/samsung-invest-1-billion-kkr-232103234.html",
+          "publisher": "Bloomberg",
+          "published": "2026-09-28T23:21:03Z"
+        },
+        {
           "title": "Vistra Stock Is Down 31% Over the Last Year. Is It Time to Buy the Dip?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-stock-down-31-over-150449892.html",
           "publisher": "TIKR",
@@ -1031,12 +1037,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/constellation-vs-vistra-ai-power-041142956.html",
           "publisher": "Insider Monkey",
           "published": "2026-09-25T04:11:42Z"
-        },
-        {
-          "title": "VST Keeps Writing Checks To Its Shareholders",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/vst-keeps-writing-checks-shareholders-003014479.html",
-          "publisher": "Trefis",
-          "published": "2026-09-25T00:30:14Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 93.25,
-      "change_pct": 0.91
+      "price": 93.24,
+      "change_pct": 0.9
     },
     {
       "label": "Brent",
-      "price": 98.65,
-      "change_pct": -5.44
+      "price": 98.69,
+      "change_pct": -5.4
     },
     {
       "label": "NatGas",
       "price": 3.14,
-      "change_pct": -1.88
+      "change_pct": -1.75
     }
   ]
 }
