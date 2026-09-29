@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-29T04:41:13+00:00",
-  "as_of_local": "2026-09-29 04:41:13 UTC",
+  "as_of_utc": "2026-09-29T04:46:24+00:00",
+  "as_of_local": "2026-09-29 04:46:24 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -13,6 +13,12 @@
       "market_cap": 668267949307.1832,
       "headlines": [
         {
+          "title": "Can ExxonMobil Holdings (XOM) Stay Cheap With Cash Flow Growing?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/exxonmobil-holdings-xom-stay-cheap-042708728.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-09-29T04:27:08Z"
+        },
+        {
           "title": "Oil Companies Enter 2027 With Their Strongest Balance Sheets in Years. Here's What to Expect Next Year.",
           "url": "https://finance.yahoo.com/energy/articles/oil-companies-enter-2027-strongest-023500499.html",
           "publisher": "Motley Fool",
@@ -23,12 +29,6 @@
           "url": "https://finance.yahoo.com/energy/articles/crescent-energy-kosmos-energy-stocks-223036276.html",
           "publisher": "StockStory",
           "published": "2026-09-28T22:30:36Z"
-        },
-        {
-          "title": "Exxon Mobil Holdings (XOM) Gains As Market Dips: What You Should Know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/exxon-mobil-holdings-xom-gains-204504735.html",
-          "publisher": "Zacks",
-          "published": "2026-09-28T20:45:04Z"
         }
       ]
     },
@@ -95,26 +95,7 @@
       "previous_close": 957.63,
       "change_pct": -0.82,
       "market_cap": 252955650428.19775,
-      "headlines": [
-        {
-          "title": "GE Vernova (GEV) Has a $176 Billion Backlog. Can It Turn Demand Into Durable Growth?",
-          "url": "https://finance.yahoo.com/energy/articles/ge-vernova-gev-176-billion-012212886.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-09-29T01:22:12Z"
-        },
-        {
-          "title": "Rolls Royce Stock And 2 Top Nuclear Power Stocks",
-          "url": "https://finance.yahoo.com/energy/articles/rolls-royce-stock-2-top-201353418.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-09-28T20:13:53Z"
-        },
-        {
-          "title": "Rivian controller follows CFO out door",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/rivian-controller-follows-cfo-door-194057960.html",
-          "publisher": "CFO Dive",
-          "published": "2026-09-28T19:40:57Z"
-        }
-      ]
+      "headlines": []
     },
     {
       "symbol": "TTE",
@@ -2115,18 +2096,18 @@
     },
     {
       "label": "WTI",
-      "price": 94.24,
-      "change_pct": 1.77
+      "price": 94.31,
+      "change_pct": 1.85
     },
     {
       "label": "Brent",
-      "price": 99.78,
-      "change_pct": -5.22
+      "price": 99.88,
+      "change_pct": -5.13
     },
     {
       "label": "NatGas",
       "price": 3.13,
-      "change_pct": 4.4
+      "change_pct": 4.47
     }
   ]
 }
