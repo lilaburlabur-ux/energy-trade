@@ -60,7 +60,7 @@ Shell plc operates as an energy and petrochemical company in Europe, Asia, Ocean
 | Profitability | Gross 26.09%, operating 16.69%, net 8.76% | ROA 6.40%, ROE 14.34% |
 | Balance sheet | Cash $31.37B, debt $73.08B | Current ratio 1.44, debt/equity 40.20 |
 | Valuation | P/E 10.52, forward P/E 9.15, P/S 0.91, P/B 1.47 | EV/Sales 1.05, EV/EBITDA 5.41 |
-| Growth expectations | Earnings growth 220.00%, EPS q/q 200.50% | Analyst mean target $102.41 (15 analysts) |
+| Growth expectations | Earnings growth 220.00%, EPS q/q 200.50% | Analyst mean target $103.68 (15 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |

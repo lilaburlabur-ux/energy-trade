@@ -60,7 +60,7 @@ Ovintiv Inc., together with its subsidiaries, operates as an oil and natural gas
 | Profitability | Gross 53.86%, operating 36.18%, net 9.66% | ROA 8.64%, ROE 8.41% |
 | Balance sheet | Cash $700.00M, debt $5.03B | Current ratio 1.01, debt/equity 43.73 |
 | Valuation | P/E 16.43, forward P/E 7.94, P/S 1.71, P/B 1.42 | EV/Sales 2.18, EV/EBITDA 4.25 |
-| Growth expectations | Earnings growth 37.30%, EPS q/q 48.50% | Analyst mean target $76.17 (24 analysts) |
+| Growth expectations | Earnings growth 37.30%, EPS q/q 48.50% | Analyst mean target $76.50 (24 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
