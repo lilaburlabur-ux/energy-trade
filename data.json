@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-29T04:46:24+00:00",
-  "as_of_local": "2026-09-29 04:46:24 UTC",
+  "as_of_utc": "2026-09-29T05:01:34+00:00",
+  "as_of_local": "2026-09-29 05:01:34 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -95,7 +95,26 @@
       "previous_close": 957.63,
       "change_pct": -0.82,
       "market_cap": 252955650428.19775,
-      "headlines": []
+      "headlines": [
+        {
+          "title": "GE Vernova (GEV) Has a $176 Billion Backlog. Can It Turn Demand Into Durable Growth?",
+          "url": "https://finance.yahoo.com/energy/articles/ge-vernova-gev-176-billion-012212886.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-09-29T01:22:12Z"
+        },
+        {
+          "title": "Rolls Royce Stock And 2 Top Nuclear Power Stocks",
+          "url": "https://finance.yahoo.com/energy/articles/rolls-royce-stock-2-top-201353418.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-09-28T20:13:53Z"
+        },
+        {
+          "title": "Rivian controller follows CFO out door",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/rivian-controller-follows-cfo-door-194057960.html",
+          "publisher": "CFO Dive",
+          "published": "2026-09-28T19:40:57Z"
+        }
+      ]
     },
     {
       "symbol": "TTE",
@@ -2096,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 94.31,
-      "change_pct": 1.85
+      "price": 94.3,
+      "change_pct": 1.84
     },
     {
       "label": "Brent",
-      "price": 99.88,
-      "change_pct": -5.13
+      "price": 99.85,
+      "change_pct": -5.16
     },
     {
       "label": "NatGas",
       "price": 3.13,
-      "change_pct": 4.47
+      "change_pct": 4.33
     }
   ]
 }
