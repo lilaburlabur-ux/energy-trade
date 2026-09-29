@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-29T03:05:58+00:00",
-  "as_of_local": "2026-09-29 03:05:58 UTC",
+  "as_of_utc": "2026-09-29T03:20:58+00:00",
+  "as_of_local": "2026-09-29 03:20:58 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -125,6 +125,12 @@
       "market_cap": 199495079411.61472,
       "headlines": [
         {
+          "title": "TotalEnergies (TTE) Raises Buybacks as It Makes a Bigger Post-2030 Growth Bet",
+          "url": "https://finance.yahoo.com/energy/articles/totalenergies-tte-raises-buybacks-makes-030732663.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-09-29T03:07:32Z"
+        },
+        {
           "title": "Sector Update: Energy Stocks Higher Late Afternoon",
           "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-higher-afternoon-195954136.html",
           "publisher": "MT Newswires",
@@ -135,12 +141,6 @@
           "url": "https://finance.yahoo.com/energy/articles/td-cowen-highlights-top-oil-181901328.html",
           "publisher": "Investing.com",
           "published": "2026-09-28T18:19:01Z"
-        },
-        {
-          "title": "Sector Update: Energy Stocks Rise Monday Afternoon",
-          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-rise-monday-180541807.html",
-          "publisher": "MT Newswires",
-          "published": "2026-09-28T18:05:41Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 93.92,
-      "change_pct": 1.63
+      "price": 93.98,
+      "change_pct": 1.7
     },
     {
       "label": "Brent",
-      "price": 99.43,
-      "change_pct": -4.69
+      "price": 99.54,
+      "change_pct": -4.58
     },
     {
       "label": "NatGas",
       "price": 3.14,
-      "change_pct": -1.63
+      "change_pct": -1.81
     }
   ]
 }
