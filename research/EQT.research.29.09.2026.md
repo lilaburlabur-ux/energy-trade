@@ -4,8 +4,8 @@ Signed file: `EQT.research.29.09.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $48.90 (2026-09-29, ~15-min delayed) |
-| Market cap | $30.59B |
+| Current price | $48.88 (2026-09-29, ~15-min delayed) |
+| Market cap | $30.58B |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,8 +15,8 @@ Signed file: `EQT.research.29.09.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-11.63%) with negative half-year (-23.66%). |
-| Fresh setup quality | Poor / broken | -27.58% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-11.67%) with negative half-year (-23.69%). |
+| Fresh setup quality | Poor / broken | -27.61% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 29.18%, revenue growth -3.90%. |
 | Value attractiveness | Reasonable | Forward P/E 13.00, EV/Sales 4.34. |
 | Risk level | Moderate | Beta 0.58, ATR 2.8% of price, short float 4.09%. |
@@ -35,11 +35,11 @@ EQT Corporation engages in the exploration, production, gathering, and transmiss
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $48.90; 52w high $67.53 (-27.58%); 52w low $48.70 (+0.42%) |
-| Trend | -11.63% vs SMA200, -7.65% vs SMA50, -6.98% vs SMA20 |
-| Momentum | RSI(14) 30.8 (neutral) |
+| Price vs 52-week range | Close $48.88; 52w high $67.53 (-27.61%); 52w low $48.70 (+0.38%) |
+| Trend | -11.67% vs SMA200, -7.68% vs SMA50, -7.02% vs SMA20 |
+| Momentum | RSI(14) 30.7 (neutral) |
 | Volatility | ATR(14) 1.39 (~2.8% of price); beta 0.58 |
-| Setup perspective | -27.58% from 52w high — base needs to rebuild. |
+| Setup perspective | -27.61% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
@@ -47,10 +47,10 @@ EQT Corporation engages in the exploration, production, gathering, and transmiss
 |---|---|
 | Week | -3.8% |
 | Month | -10.4% |
-| Quarter | -7.7% |
+| Quarter | -7.8% |
 | Half Y | -23.7% |
 | 1Y | -8.5% |
-| YTD | -7.7% |
+| YTD | -7.8% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -59,7 +59,7 @@ EQT Corporation engages in the exploration, production, gathering, and transmiss
 | Revenue (ttm) | $9.29B | Revenue growth -3.90% y/y |
 | Profitability | Gross 80.75%, operating 23.37%, net 29.18% | ROA 6.63%, ROE 11.08% |
 | Balance sheet | Cash $112.86M, debt $5.66B | Current ratio 0.67, debt/equity 19.59 |
-| Valuation | P/E 11.35, forward P/E 13.00, P/S 3.29, P/B 1.21 | EV/Sales 4.34, EV/EBITDA 5.77 |
+| Valuation | P/E 11.34, forward P/E 13.00, P/S 3.29, P/B 1.21 | EV/Sales 4.34, EV/EBITDA 5.77 |
 | Growth expectations | Earnings growth -74.00%, EPS q/q -73.00% | Analyst mean target $67.50 (26 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -101,17 +101,17 @@ EQT Corporation engages in the exploration, production, gathering, and transmiss
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $48.90 | EV/Sales | 4.34 |
-| Market cap | $30.59B | EV/EBITDA | 5.77 |
+| Price | $48.88 | EV/Sales | 4.34 |
+| Market cap | $30.58B | EV/EBITDA | 5.77 |
 | Beta | 0.58 | Gross margin | 80.75% |
-| RSI(14) | 30.8 | Operating margin | 23.37% |
+| RSI(14) | 30.7 | Operating margin | 23.37% |
 | ATR(14) | 1.39 | Profit margin | 29.18% |
-| SMA20 dist | -6.98% | ROA | 6.63% |
-| SMA50 dist | -7.65% | ROE | 11.08% |
-| SMA200 dist | -11.63% | Revenue (ttm) | $9.29B |
+| SMA20 dist | -7.02% | ROA | 6.63% |
+| SMA50 dist | -7.68% | ROE | 11.08% |
+| SMA200 dist | -11.67% | Revenue (ttm) | $9.29B |
 | 52W high | $67.53 | Revenue growth y/y | -3.90% |
 | 52W low | $48.70 | Inst. ownership | 95.89% |
-| P/E (ttm) | 11.35 | Insider ownership | 0.90% |
+| P/E (ttm) | 11.34 | Insider ownership | 0.90% |
 | Forward P/E | 13.00 | Short float | 4.09% |
 | PEG (trailing) | 1.49 | Avg volume | 7,197,526 |
 | P/S | 3.29 | Employees | 1,523 |
