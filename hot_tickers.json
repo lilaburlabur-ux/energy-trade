@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-09-29T00:11:00+00:00",
+  "as_of": "2026-09-29T00:26:12+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -17,10 +17,10 @@
    "volume_vs_avg": "~1.0x",
    "heat_score": 59,
    "direction": "up",
-   "why": "Bloom Energy (BE) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
+   "why": "Why Bloom Energy (BE) Shares Are Sliding Today",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-sees-more-significant-210002478.html",
-   "published": "2026-09-28T21:00:02Z",
+   "source_url": "https://finance.yahoo.com/markets/stocks/articles/why-bloom-energy-shares-sliding-000636170.html",
+   "published": "2026-09-29T00:06:36Z",
    "sector": "Grid, Storage & Electrification"
   }
  ]
