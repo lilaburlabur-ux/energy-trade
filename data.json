@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-29T13:12:01+00:00",
-  "as_of_local": "2026-09-29 13:12:01 UTC",
+  "as_of_utc": "2026-09-29T13:13:18+00:00",
+  "as_of_local": "2026-09-29 13:13:18 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -55,7 +55,7 @@
       "price": 431.41,
       "previous_close": 439.98,
       "change_pct": -1.95,
-      "market_cap": 167559645422.36328,
+      "market_cap": 167516504421.99707,
       "headlines": []
     },
     {
@@ -64,7 +64,7 @@
       "price": 75.49,
       "previous_close": 76.08,
       "change_pct": -0.78,
-      "market_cap": 157470490541.2798,
+      "market_cap": 157442344020.0863,
       "headlines": []
     },
     {
@@ -86,21 +86,21 @@
       "headlines": []
     },
     {
+      "symbol": "MPC",
+      "name": "Marathon Petroleum",
+      "price": 389.44,
+      "previous_close": 393.52,
+      "change_pct": -1.04,
+      "market_cap": 113691803847.13593,
+      "headlines": []
+    },
+    {
       "symbol": "VLO",
       "name": "Valero Energy",
       "price": 389.57,
       "previous_close": 387.18,
       "change_pct": 0.62,
       "market_cap": 112167903090.61371,
-      "headlines": []
-    },
-    {
-      "symbol": "MPC",
-      "name": "Marathon Petroleum",
-      "price": 389.44,
-      "previous_close": 393.52,
-      "change_pct": -1.04,
-      "market_cap": 109364396388.32733,
       "headlines": []
     },
     {
@@ -217,7 +217,7 @@
       "price": 140.63,
       "previous_close": 140.35,
       "change_pct": 0.2,
-      "market_cap": 73764540582.05762,
+      "market_cap": 74903552774.62524,
       "headlines": []
     },
     {
@@ -352,7 +352,7 @@
       "price": 66.73,
       "previous_close": 67.02,
       "change_pct": -0.43,
-      "market_cap": 33259570275.062943,
+      "market_cap": 33252988828.291855,
       "headlines": []
     },
     {
@@ -487,7 +487,7 @@
       "price": 27.87,
       "previous_close": 28.35,
       "change_pct": -1.69,
-      "market_cap": 8364111268.4837,
+      "market_cap": 8452301399.069319,
       "headlines": []
     },
     {
@@ -523,7 +523,7 @@
       "price": 82.8,
       "previous_close": 85.08,
       "change_pct": -2.68,
-      "market_cap": 5921202429.437622,
+      "market_cap": 5935554899.166611,
       "headlines": []
     },
     {
@@ -541,7 +541,7 @@
       "price": 30.91,
       "previous_close": 32.4,
       "change_pct": -4.6,
-      "market_cap": 4084591049.516327,
+      "market_cap": 4073882960.0891876,
       "headlines": []
     },
     {
@@ -554,21 +554,21 @@
       "headlines": []
     },
     {
-      "symbol": "UUUU",
-      "name": "Energy Fuels",
-      "price": 11.03,
-      "previous_close": 11.35,
-      "change_pct": -2.82,
-      "market_cap": 2920452428.4578285,
-      "headlines": []
-    },
-    {
       "symbol": "LEU",
       "name": "Centrus Energy",
       "price": 140.37,
       "previous_close": 147.07,
       "change_pct": -4.56,
       "market_cap": 2871002670.0913086,
+      "headlines": []
+    },
+    {
+      "symbol": "UUUU",
+      "name": "Energy Fuels",
+      "price": 11.03,
+      "previous_close": 11.35,
+      "change_pct": -2.82,
+      "market_cap": 2757113883.252144,
       "headlines": []
     },
     {
@@ -823,18 +823,18 @@
     },
     {
       "label": "WTI",
-      "price": 90.64,
-      "change_pct": -2.12
+      "price": 90.79,
+      "change_pct": -1.95
     },
     {
       "label": "Brent",
-      "price": 96.13,
-      "change_pct": -8.69
+      "price": 96.24,
+      "change_pct": -8.59
     },
     {
       "label": "NatGas",
-      "price": 3.06,
-      "change_pct": 2.13
+      "price": 3.07,
+      "change_pct": 2.3
     }
   ]
 }
