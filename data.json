@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-29T00:57:01+00:00",
-  "as_of_local": "2026-09-29 00:57:01 UTC",
+  "as_of_utc": "2026-09-29T01:02:12+00:00",
+  "as_of_local": "2026-09-29 01:02:12 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -1021,6 +1021,12 @@
       "market_cap": 46324369613.9,
       "headlines": [
         {
+          "title": "Samsung, affiliates to invest $1 billion in AI infrastructure firm Helix",
+          "url": "https://finance.yahoo.com/technology/ai/articles/samsung-affiliates-invest-1-billion-005118034.html",
+          "publisher": "Investing.com",
+          "published": "2026-09-29T00:51:18Z"
+        },
+        {
           "title": "Samsung Commits $1.0 Billion to AI Infrastructure Firm Backed by KKR, Nvidia",
           "url": "https://www.wsj.com/tech/ai/samsung-commits-1-billion-to-ai-infrastructure-firm-backed-by-kkr-nvidia-d1039c57?siteid=yhoof2&yptr=yahoo",
           "publisher": "The Wall Street Journal",
@@ -1031,12 +1037,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/samsung-invest-1-billion-kkr-232103234.html",
           "publisher": "Bloomberg",
           "published": "2026-09-28T23:21:03Z"
-        },
-        {
-          "title": "Vistra Stock Is Down 31% Over the Last Year. Is It Time to Buy the Dip?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-stock-down-31-over-150449892.html",
-          "publisher": "TIKR",
-          "published": "2026-09-26T15:04:49Z"
         }
       ]
     },
@@ -1355,26 +1355,7 @@
       "previous_close": 43.68,
       "change_pct": -2.15,
       "market_cap": 14830379418.3,
-      "headlines": [
-        {
-          "title": "APA (APA) Just Gave Investors Something To Think About",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/apa-apa-just-gave-investors-151327221.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-09-25T15:13:27Z"
-        },
-        {
-          "title": "Is Plains Group (PAGP) Outperforming Other Oils-Energy Stocks This Year?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/plains-group-pagp-outperforming-other-124005502.html",
-          "publisher": "Zacks",
-          "published": "2026-09-25T12:40:05Z"
-        },
-        {
-          "title": "Is APA Corporation Stock Outperforming the Dow?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/apa-corporation-stock-outperforming-dow-113504958.html",
-          "publisher": "Barchart",
-          "published": "2026-09-24T11:35:04Z"
-        }
-      ]
+      "headlines": []
     },
     {
       "symbol": "TLN",
@@ -2115,13 +2096,13 @@
     },
     {
       "label": "WTI",
-      "price": 93.15,
-      "change_pct": 0.8
+      "price": 93.42,
+      "change_pct": 1.09
     },
     {
       "label": "Brent",
-      "price": 98.61,
-      "change_pct": -5.47
+      "price": 98.84,
+      "change_pct": -5.25
     },
     {
       "label": "NatGas",
