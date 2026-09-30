@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-09-30T01:38:18+00:00",
-  "as_of_local": "2026-09-30 01:38:18 UTC",
+  "as_of_utc": "2026-09-30T01:53:33+00:00",
+  "as_of_local": "2026-09-30 01:53:33 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "TLN"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -439,6 +437,15 @@
       "headlines": []
     },
     {
+      "symbol": "TLN",
+      "name": "Talen Energy",
+      "price": 314.84,
+      "previous_close": 303.5,
+      "change_pct": 3.74,
+      "market_cap": 15085325128.092743,
+      "headlines": []
+    },
+    {
       "symbol": "APA",
       "name": "APA Corp",
       "price": 42.19,
@@ -816,18 +823,18 @@
     },
     {
       "label": "WTI",
-      "price": 89.78,
-      "change_pct": -3.05
+      "price": 89.51,
+      "change_pct": -3.34
     },
     {
       "label": "Brent",
-      "price": 96.81,
-      "change_pct": -8.05
+      "price": 96.45,
+      "change_pct": -8.39
     },
     {
       "label": "NatGas",
-      "price": 3.03,
-      "change_pct": 0.83
+      "price": 3.02,
+      "change_pct": 0.63
     }
   ]
 }
