@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-30T11:18:40+00:00",
-  "as_of_local": "2026-09-30 11:18:40 UTC",
+  "as_of_utc": "2026-09-30T11:21:04+00:00",
+  "as_of_local": "2026-09-30 11:21:04 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -97,6 +97,12 @@
       "market_cap": 256343405775.77612,
       "headlines": [
         {
+          "title": "AI Infrastructure Firm Accelevation Prices IPO Below Target Range",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ai-infrastructure-firm-accelevation-prices-111206196.html",
+          "publisher": "MT Newswires",
+          "published": "2026-09-30T11:12:06Z"
+        },
+        {
           "title": "1 Cash-Heavy Stock with Exciting Potential and 2 We Turn Down",
           "url": "https://finance.yahoo.com/markets/stocks/articles/1-cash-heavy-stock-exciting-083713155.html",
           "publisher": "StockStory",
@@ -107,12 +113,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-gev-gains-market-210003190.html",
           "publisher": "Zacks",
           "published": "2026-09-29T21:00:03Z"
-        },
-        {
-          "title": "How GE Vernova Has Jumped Into the Lead in the Nuclear Race",
-          "url": "https://www.barrons.com/articles/ge-vernova-stock-hitachi-nuclear-energy-10815e0a?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-09-29T20:55:00Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 90.67,
-      "change_pct": 1.44
+      "price": 90.7,
+      "change_pct": 1.48
     },
     {
       "label": "Brent",
-      "price": 97.66,
-      "change_pct": -4.81
+      "price": 97.67,
+      "change_pct": -4.8
     },
     {
       "label": "NatGas",
       "price": 3.04,
-      "change_pct": 0.93
+      "change_pct": 0.9
     }
   ]
 }
