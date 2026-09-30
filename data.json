@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-30T13:23:09+00:00",
-  "as_of_local": "2026-09-30 13:23:09 UTC",
+  "as_of_utc": "2026-09-30T13:28:04+00:00",
+  "as_of_local": "2026-09-30 13:28:04 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -237,6 +237,12 @@
       "market_cap": 114447918662.68204,
       "headlines": [
         {
+          "title": "Marathon Petroleum (MPC) Stock Still Looks Like A Bargain On Cash Flow",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/marathon-petroleum-mpc-stock-still-131022187.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-09-30T13:10:22Z"
+        },
+        {
           "title": "Is ExxonMobil Stock Increasing Your Market Risk?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/exxonmobil-stock-increasing-market-risk-215118428.html",
           "publisher": "Trefis",
@@ -247,12 +253,6 @@
           "url": "https://finance.yahoo.com/energy/articles/hf-sinclairs-west-initiative-drive-134700565.html",
           "publisher": "Zacks",
           "published": "2026-09-29T13:47:00Z"
-        },
-        {
-          "title": "Can a Tight Global Refining Market Keep MPC's Margins Elevated?",
-          "url": "https://finance.yahoo.com/energy/articles/tight-global-refining-market-keep-112700223.html",
-          "publisher": "Zacks",
-          "published": "2026-09-29T11:27:00Z"
         }
       ]
     },
@@ -2109,24 +2109,19 @@
   },
   "tape": [
     {
-      "label": "SPX",
-      "price": 7670.84,
-      "change_pct": -0.17
-    },
-    {
       "label": "WTI",
-      "price": 90.77,
-      "change_pct": 1.56
+      "price": 90.96,
+      "change_pct": 1.77
     },
     {
       "label": "Brent",
-      "price": 98.08,
-      "change_pct": -4.4
+      "price": 98.34,
+      "change_pct": -4.14
     },
     {
       "label": "NatGas",
-      "price": 3.01,
-      "change_pct": -0.13
+      "price": 3.0,
+      "change_pct": -0.23
     }
   ]
 }
