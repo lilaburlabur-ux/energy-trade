@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-30T08:41:05+00:00",
-  "as_of_local": "2026-09-30 08:41:05 UTC",
+  "as_of_utc": "2026-09-30T08:46:12+00:00",
+  "as_of_local": "2026-09-30 08:46:12 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -97,6 +97,12 @@
       "market_cap": 256343405775.77612,
       "headlines": [
         {
+          "title": "1 Cash-Heavy Stock with Exciting Potential and 2 We Turn Down",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/1-cash-heavy-stock-exciting-083713155.html",
+          "publisher": "StockStory",
+          "published": "2026-09-30T08:37:13Z"
+        },
+        {
           "title": "GE Vernova (GEV) Gains As Market Dips: What You Should Know",
           "url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-gev-gains-market-210003190.html",
           "publisher": "Zacks",
@@ -107,12 +113,6 @@
           "url": "https://www.barrons.com/articles/ge-vernova-stock-hitachi-nuclear-energy-10815e0a?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
           "published": "2026-09-29T20:55:00Z"
-        },
-        {
-          "title": "The Coming AI Blackout: $10 Trillion Data Center Surge Threatens to Break the Grid",
-          "url": "https://finance.yahoo.com/technology/ai/articles/coming-ai-blackout-10-trillion-151952055.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-09-29T15:19:52Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 89.83,
-      "change_pct": 0.5
+      "price": 89.57,
+      "change_pct": 0.21
     },
     {
       "label": "Brent",
-      "price": 96.82,
-      "change_pct": -5.62
+      "price": 96.32,
+      "change_pct": -6.11
     },
     {
       "label": "NatGas",
       "price": 3.03,
-      "change_pct": 0.56
+      "change_pct": 0.5
     }
   ]
 }
