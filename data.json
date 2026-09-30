@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-30T08:15:28+00:00",
-  "as_of_local": "2026-09-30 08:15:28 UTC",
+  "as_of_utc": "2026-09-30T08:20:38+00:00",
+  "as_of_local": "2026-09-30 08:20:38 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -1693,6 +1693,12 @@
       "market_cap": 3184622784.6507072,
       "headlines": [
         {
+          "title": "NuScale\u2019s Diluted Share Count Is Up About 173% in a Year. Here\u2019s Why That Matters, A Lot.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nuscale-diluted-share-count-173-080310896.html",
+          "publisher": "TIKR",
+          "published": "2026-09-30T08:03:10Z"
+        },
+        {
           "title": "3 Things Smart Investors Know About the Nuclear Power Comeback",
           "url": "https://finance.yahoo.com/energy/articles/3-things-smart-investors-know-190500726.html",
           "publisher": "Motley Fool",
@@ -1703,12 +1709,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/nuscale-vs-oklo-nuclear-stock-162500687.html",
           "publisher": "Motley Fool",
           "published": "2026-09-29T16:25:00Z"
-        },
-        {
-          "title": "Uranium Energy Surges 6% as Multi-Mine Ramp Delivers $93.13 Realized Uranium Price; Oklo and NuScale Power Tick Up",
-          "url": "https://finance.yahoo.com/markets/commodities/articles/uranium-energy-surges-6-multi-124514020.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-09-29T12:45:14Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 89.29,
-      "change_pct": -0.1
+      "price": 89.39,
+      "change_pct": 0.01
     },
     {
       "label": "Brent",
-      "price": 95.75,
-      "change_pct": -6.67
+      "price": 95.99,
+      "change_pct": -6.43
     },
     {
       "label": "NatGas",
       "price": 3.02,
-      "change_pct": 0.27
+      "change_pct": 0.23
     }
   ]
 }
