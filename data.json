@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-30T08:25:39+00:00",
-  "as_of_local": "2026-09-30 08:25:39 UTC",
+  "as_of_utc": "2026-09-30T08:32:18+00:00",
+  "as_of_local": "2026-09-30 08:32:18 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -13,6 +13,12 @@
       "market_cap": 663457019843.1189,
       "headlines": [
         {
+          "title": "Nvidia is trading like an oil stock \u2014 and taking advantage of the moment",
+          "url": "https://finance.yahoo.com/technology/article/nvidia-is-trading-like-an-oil-stock--and-taking-advantage-of-the-moment-100000909.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-09-29T10:00:00Z"
+        },
+        {
           "title": "Is ExxonMobil Stock Increasing Your Market Risk?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/exxonmobil-stock-increasing-market-risk-215118428.html",
           "publisher": "Trefis",
@@ -23,12 +29,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/sec-clears-teslas-retail-voting-175835903.html",
           "publisher": "BeInCrypto",
           "published": "2026-09-29T17:58:35Z"
-        },
-        {
-          "title": "ExxonMobil Taps SLB Venture for Giant African LNG Project",
-          "url": "https://finance.yahoo.com/energy/articles/exxonmobil-taps-slb-venture-giant-174550992.html",
-          "publisher": "Oilprice.com",
-          "published": "2026-09-29T17:45:50Z"
         }
       ]
     },
@@ -517,6 +517,12 @@
       "market_cap": 85781089522.5,
       "headlines": [
         {
+          "title": "US Stock Market Today: S&P 500 Futures Inch Higher As Rate Pressures Linger",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-081252937.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-09-30T08:12:52Z"
+        },
+        {
           "title": "Dow Jones Futures Rise With Micron, Inflation Data Due; Yields Pressure Stocks But Bloom Energy Soars",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-treasury-yields-rise-bloom-energy-soars-micron-inflation-data/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
@@ -527,12 +533,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-stock-rose-16-031101536.html",
           "publisher": "Motley Fool",
           "published": "2026-09-30T03:11:01Z"
-        },
-        {
-          "title": "Bloom Energy (BE) Stock Still Looks Undervalued After a 24x Run",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-stock-still-looks-030900510.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-09-30T03:09:00Z"
         }
       ]
     },
@@ -881,6 +881,12 @@
       "market_cap": 54757343757.35124,
       "headlines": [
         {
+          "title": "3 High Dividend US Stocks Facing The Treasury Yield Test",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-high-dividend-us-stocks-081146654.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-09-30T08:11:46Z"
+        },
+        {
           "title": "Oneok Inc. (OKE) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
           "url": "https://finance.yahoo.com/markets/stocks/articles/oneok-inc-oke-sees-more-211504722.html",
           "publisher": "Zacks",
@@ -891,12 +897,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-oneok-dividend-raise-matters-143233868.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-09-24T14:32:33Z"
-        },
-        {
-          "title": "Oneok Inc. (OKE) Stock Drops Despite Market Gains: Important Facts to Note",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/oneok-inc-oke-stock-drops-221504604.html",
-          "publisher": "Zacks",
-          "published": "2026-09-21T22:15:04Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 89.46,
-      "change_pct": 0.09
+      "price": 89.48,
+      "change_pct": 0.11
     },
     {
       "label": "Brent",
-      "price": 96.08,
-      "change_pct": -6.35
+      "price": 96.39,
+      "change_pct": -6.04
     },
     {
       "label": "NatGas",
-      "price": 3.02,
-      "change_pct": 0.3
+      "price": 3.03,
+      "change_pct": 0.46
     }
   ]
 }
