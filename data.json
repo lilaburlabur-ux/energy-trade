@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-30T02:23:23+00:00",
-  "as_of_local": "2026-09-30 02:23:23 UTC",
+  "as_of_utc": "2026-09-30T02:28:48+00:00",
+  "as_of_local": "2026-09-30 02:28:48 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -55,7 +55,7 @@
       "price": 433.27,
       "previous_close": 431.41,
       "change_pct": 0.43,
-      "market_cap": 168282063732.91016,
+      "market_cap": 168238736734.0088,
       "headlines": []
     },
     {
@@ -64,7 +64,7 @@
       "price": 75.89,
       "previous_close": 75.49,
       "change_pct": 0.53,
-      "market_cap": 158304885007.82996,
+      "market_cap": 158276589345.6675,
       "headlines": []
     },
     {
@@ -74,6 +74,15 @@
       "previous_close": 126.04,
       "change_pct": -0.48,
       "market_cap": 152822803212.4306,
+      "headlines": []
+    },
+    {
+      "symbol": "MPC",
+      "name": "Marathon Petroleum",
+      "price": 392.03,
+      "previous_close": 389.44,
+      "change_pct": 0.67,
+      "market_cap": 114447918662.68204,
       "headlines": []
     },
     {
@@ -92,15 +101,6 @@
       "previous_close": 389.57,
       "change_pct": -0.47,
       "market_cap": 111635235530.39395,
-      "headlines": []
-    },
-    {
-      "symbol": "MPC",
-      "name": "Marathon Petroleum",
-      "price": 392.03,
-      "previous_close": 389.44,
-      "change_pct": 0.67,
-      "market_cap": 110091731496.08633,
       "headlines": []
     },
     {
@@ -203,21 +203,21 @@
       "headlines": []
     },
     {
+      "symbol": "EOG",
+      "name": "EOG Resources",
+      "price": 139.66,
+      "previous_close": 140.63,
+      "change_pct": -0.69,
+      "market_cap": 74386902450.34393,
+      "headlines": []
+    },
+    {
       "symbol": "SLB",
       "name": "SLB (Schlumberger)",
       "price": 49.87,
       "previous_close": 51.49,
       "change_pct": -3.15,
       "market_cap": 74014221344.73401,
-      "headlines": []
-    },
-    {
-      "symbol": "EOG",
-      "name": "EOG Resources",
-      "price": 139.66,
-      "previous_close": 140.63,
-      "change_pct": -0.69,
-      "market_cap": 73255746641.04321,
       "headlines": []
     },
     {
@@ -352,7 +352,7 @@
       "price": 67.68,
       "previous_close": 66.73,
       "change_pct": 1.42,
-      "market_cap": 33733067782.505722,
+      "market_cap": 33726392639.435623,
       "headlines": []
     },
     {
@@ -487,7 +487,7 @@
       "price": 28.0,
       "previous_close": 27.87,
       "change_pct": 0.47,
-      "market_cap": 8403125528.0,
+      "market_cap": 8491727020.0,
       "headlines": []
     },
     {
@@ -523,7 +523,7 @@
       "price": 80.41,
       "previous_close": 82.8,
       "change_pct": -2.89,
-      "market_cap": 5750288544.5251465,
+      "market_cap": 5764226734.149933,
       "headlines": []
     },
     {
@@ -541,7 +541,7 @@
       "price": 31.83,
       "previous_close": 30.91,
       "change_pct": 2.98,
-      "market_cap": 4206164135.7581635,
+      "market_cap": 4195137332.544594,
       "headlines": []
     },
     {
@@ -554,21 +554,21 @@
       "headlines": []
     },
     {
-      "symbol": "UUUU",
-      "name": "Energy Fuels",
-      "price": 10.99,
-      "previous_close": 11.03,
-      "change_pct": -0.36,
-      "market_cap": 2909861495.6781387,
-      "headlines": []
-    },
-    {
       "symbol": "LEU",
       "name": "Centrus Energy",
       "price": 138.18,
       "previous_close": 140.37,
       "change_pct": -1.56,
       "market_cap": 2826210313.636963,
+      "headlines": []
+    },
+    {
+      "symbol": "UUUU",
+      "name": "Energy Fuels",
+      "price": 10.99,
+      "previous_close": 11.03,
+      "change_pct": -0.36,
+      "market_cap": 2747115292.787552,
       "headlines": []
     },
     {
@@ -823,18 +823,18 @@
     },
     {
       "label": "WTI",
-      "price": 89.52,
-      "change_pct": -3.33
+      "price": 89.26,
+      "change_pct": -3.61
     },
     {
       "label": "Brent",
-      "price": 96.32,
-      "change_pct": -8.51
+      "price": 96.0,
+      "change_pct": -8.81
     },
     {
       "label": "NatGas",
       "price": 3.02,
-      "change_pct": 0.67
+      "change_pct": 0.53
     }
   ]
 }
