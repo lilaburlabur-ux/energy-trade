@@ -4,8 +4,8 @@ Signed file: `COP.research.30.09.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-09-30, ~15-min delayed) |
-| Market cap | $150.70B |
+| Current price | $125.15 (2026-09-30, ~15-min delayed) |
+| Market cap | $150.35B |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `COP.research.30.09.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +34.68%; price +8.82% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -11.38% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 14.40%, revenue growth 35.50%. |
-| Value attractiveness | Reasonable | Forward P/E 12.98, EV/Sales 2.58. |
-| Risk level | Moderate | Beta 0.13, ATR nan% of price, short float 1.34%. |
+| Value attractiveness | Reasonable | Forward P/E 12.95, EV/Sales 2.58. |
+| Risk level | Moderate | Beta 0.13, ATR 2.6% of price, short float 1.34%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
@@ -32,25 +32,34 @@ Signed file: `COP.research.30.09.2026`
 ## 2. Company Overview and Recent Catalysts
 ConocoPhillips explores for, produces, transports, and markets crude oil, bitumen, natural gas, liquefied natural gas (LNG), and natural gas liquids. It operates in five segments: Alaska; Lower 48; Canada; Europe, Middle East and North Africa; and Asia Pacific. The company's portfolio includes unconventional plays in North America; conventional assets in North America, Europe, Asia, and Australia; global LNG developments; oil sands assets in Canada; and an inventory of global exploration prospects.
 
+**Recent headlines (potential catalysts):**
+
+| Headline | Source | Date |
+|---|---|---|
+| South Korea Set to Invest $200 Billion in the U.S. These 4 Companies Should Benefit. | Barrons.com | 2026-09-30 |
+| Is ExxonMobil Stock Increasing Your Market Risk? | Trefis | 2026-09-29 |
+| Are Current Oil Prices High Enough to Fuel ExxonMobil's Growth? | Zacks | 2026-09-29 |
+| What Happens To ExxonMobil Stock If Refining Profits Fade? | Trefis | 2026-09-25 |
+
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $141.22 (+nan%); 52w low $83.04 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 42.6 (neutral) |
-| Volatility | ATR(14) 3.43 (~nan% of price); beta 0.13 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $125.15; 52w high $141.22 (-11.38%); 52w low $83.04 (+50.71%) |
+| Trend | +8.82% vs SMA200, -1.78% vs SMA50, -5.29% vs SMA20 |
+| Momentum | RSI(14) 41.2 (neutral) |
+| Volatility | ATR(14) 3.25 (~2.6% of price); beta 0.13 |
+| Setup perspective | -11.38% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -2.3% |
+| Month | -5.5% |
+| Quarter | +22.1% |
+| Half Y | -3.8% |
+| 1Y | +34.7% |
+| YTD | +32.3% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -59,7 +68,7 @@ ConocoPhillips explores for, produces, transports, and markets crude oil, bitume
 | Revenue (ttm) | $64.46B | Revenue growth 35.50% y/y |
 | Profitability | Gross 47.57%, operating 31.51%, net 14.40% | ROA 7.53%, ROE 14.18% |
 | Balance sheet | Cash $7.69B, debt $23.29B | Current ratio 1.54, debt/equity 35.64 |
-| Valuation | P/E 16.59, forward P/E 12.98, P/S 2.34, P/B 2.31 | EV/Sales 2.58, EV/EBITDA 6.21 |
+| Valuation | P/E 16.55, forward P/E 12.95, P/S 2.33, P/B 2.30 | EV/Sales 2.58, EV/EBITDA 6.21 |
 | Growth expectations | Earnings growth 107.00%, EPS q/q 99.40% | Analyst mean target $146.08 (25 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -100,21 +109,21 @@ ConocoPhillips explores for, produces, transports, and markets crude oil, bitume
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 2.58 |
-| Market cap | $150.70B | EV/EBITDA | 6.21 |
+| Price | $125.15 | EV/Sales | 2.58 |
+| Market cap | $150.35B | EV/EBITDA | 6.21 |
 | Beta | 0.13 | Gross margin | 47.57% |
-| RSI(14) | 42.6 | Operating margin | 31.51% |
-| ATR(14) | 3.43 | Profit margin | 14.40% |
-| SMA20 dist | +nan% | ROA | 7.53% |
-| SMA50 dist | +nan% | ROE | 14.18% |
-| SMA200 dist | +nan% | Revenue (ttm) | $64.46B |
+| RSI(14) | 41.2 | Operating margin | 31.51% |
+| ATR(14) | 3.25 | Profit margin | 14.40% |
+| SMA20 dist | -5.29% | ROA | 7.53% |
+| SMA50 dist | -1.78% | ROE | 14.18% |
+| SMA200 dist | +8.82% | Revenue (ttm) | $64.46B |
 | 52W high | $141.22 | Revenue growth y/y | 35.50% |
 | 52W low | $83.04 | Inst. ownership | 86.93% |
-| P/E (ttm) | 16.59 | Insider ownership | 0.10% |
-| Forward P/E | 12.98 | Short float | 1.34% |
-| PEG (trailing) | 1.08 | Avg volume | 6,736,450 |
-| P/S | 2.34 | Employees | 9,600 |
-| P/B | 2.31 | Analyst rec (1=buy..5=sell) | 1.7 |
+| P/E (ttm) | 16.55 | Insider ownership | 0.10% |
+| Forward P/E | 12.95 | Short float | 1.34% |
+| PEG (trailing) | 1.08 | Avg volume | 6,692,314 |
+| P/S | 2.33 | Employees | 9,600 |
+| P/B | 2.30 | Analyst rec (1=buy..5=sell) | 1.7 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

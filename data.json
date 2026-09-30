@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-30T20:17:42+00:00",
-  "as_of_local": "2026-09-30 20:17:42 UTC",
+  "as_of_utc": "2026-09-30T20:19:45+00:00",
+  "as_of_local": "2026-09-30 20:19:45 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -35,10 +35,10 @@
     {
       "symbol": "CVX",
       "name": "Chevron",
-      "price": 204.41,
+      "price": 204.44,
       "previous_close": 204.38,
-      "change_pct": 0.01,
-      "market_cap": 400971332421.94574,
+      "change_pct": 0.03,
+      "market_cap": 401030178125.6305,
       "headlines": [
         {
           "title": "Chevron Has More Going for It Than Higher Oil Prices",
@@ -399,10 +399,10 @@
     {
       "symbol": "SO",
       "name": "Southern Company",
-      "price": 82.93,
+      "price": 82.89,
       "previous_close": 83.45,
-      "change_pct": -0.62,
-      "market_cap": 95399601121.44292,
+      "change_pct": -0.67,
+      "market_cap": 95353585549.61417,
       "headlines": [
         {
           "title": "Southern or Duke: Which Utility Dividend Holds Up Against the Data Center Buildout",
@@ -1080,10 +1080,10 @@
     {
       "symbol": "EQT",
       "name": "EQT Corp",
-      "price": 48.55,
+      "price": 48.56,
       "previous_close": 48.88,
-      "change_pct": -0.68,
-      "market_cap": 30368801322.769165,
+      "change_pct": -0.65,
+      "market_cap": 30375057819.015503,
       "headlines": [
         {
           "title": "Forget LNG Exporters: EQT Is the Natural Gas Stock I'd Buy Today",
@@ -1911,8 +1911,8 @@
           "name": "Chevron Corp",
           "short": "Chevron",
           "weight_pct": 14.89,
-          "change_pct": 0.01,
-          "price": 204.41,
+          "change_pct": 0.03,
+          "price": 204.44,
           "currency": "USD"
         },
         {
@@ -2010,8 +2010,8 @@
         "name": "Chevron Corp",
         "short": "Chevron",
         "weight_pct": 14.89,
-        "change_pct": 0.01,
-        "price": 204.41,
+        "change_pct": 0.03,
+        "price": 204.44,
         "currency": "USD"
       },
       {
@@ -2096,18 +2096,18 @@
     },
     {
       "label": "WTI",
-      "price": 90.62,
-      "change_pct": 1.39
+      "price": 90.58,
+      "change_pct": 1.34
     },
     {
       "label": "Brent",
-      "price": 98.14,
-      "change_pct": -4.34
+      "price": 98.15,
+      "change_pct": -4.33
     },
     {
       "label": "NatGas",
       "price": 3.02,
-      "change_pct": 0.17
+      "change_pct": 0.23
     }
   ]
 }

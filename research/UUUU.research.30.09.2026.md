@@ -4,24 +4,24 @@ Signed file: `UUUU.research.30.09.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-09-30, ~15-min delayed) |
-| Market cap | $2.91B |
+| Current price | $11.03 (2026-09-30, ~15-min delayed) |
+| Market cap | $2.92B |
 | Sector / Industry | Energy / Uranium |
 | Main theme | Uranium — see catalysts below |
-| Current stance | Moderate technical momentum, weak fundamentals, value: fair-to-demanding, risk: high. |
+| Current stance | Low technical momentum, weak fundamentals, value: fair-to-demanding, risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-09-30.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-35.73%) with negative half-year (-39.56%). |
+| Fresh setup quality | Poor / broken | -60.21% from 52w high — base needs to rebuild. |
 | Fundamental quality | Weak | Negative profit margin (-77.30%). |
-| Value attractiveness | Fair-to-demanding | Forward P/E 22.66, EV/Sales 23.57. |
-| Risk level | High | Beta 1.63, ATR nan% of price, short float 21.23%. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 22.74, EV/Sales 23.57. |
+| Risk level | High | Beta 1.63, ATR 6.0% of price, short float 21.23%. |
 
-**Bottom line:** Moderate technical momentum, weak fundamentals, value: fair-to-demanding, risk: high.
+**Bottom line:** Low technical momentum, weak fundamentals, value: fair-to-demanding, risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -32,25 +32,34 @@ Signed file: `UUUU.research.30.09.2026`
 ## 2. Company Overview and Recent Catalysts
 Energy Fuels Inc., together with its subsidiaries, engages in the exploration, recovery, recycling, exploration, operation, development, permitting, evaluation, and sale of uranium mineral properties in the United States. It operates through three segments: Uranium, REE, and HMS. It produces and sells vanadium pentoxide, rare earth elements, carbonate, and heavy mineral sands, such as ilmenite, rutile, zircon, and monazite. The company was formerly known as Volcanic Metals Exploration Inc. and changed its name to Energy Fuels Inc. in May 2006. Energy Fuels Inc.
 
+**Recent headlines (potential catalysts):**
+
+| Headline | Source | Date |
+|---|---|---|
+| Struggling Energy Stock to Avoid in October | Schaeffer's Investment Research | 2026-09-30 |
+| UUUU's Cash Flow Deficit Narrows in 1H26: What's Next? | Zacks | 2026-09-29 |
+| Investors Heavily Search Energy Fuels Inc (UUUU): Here is What You Need to Know | Zacks | 2026-09-28 |
+| 3 Canadian Growth Stocks With Earnings Growth Over 34% | Simply Wall St. | 2026-09-26 |
+
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $27.72 (+nan%); 52w low $10.74 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 32.1 (neutral) |
-| Volatility | ATR(14) 0.68 (~nan% of price); beta 1.63 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $11.03; 52w high $27.72 (-60.21%); 52w low $10.74 (+2.70%) |
+| Trend | -35.73% vs SMA200, -16.34% vs SMA50, -11.84% vs SMA20 |
+| Momentum | RSI(14) 32.4 (neutral) |
+| Volatility | ATR(14) 0.66 (~6.0% of price); beta 1.63 |
+| Setup perspective | -60.21% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -4.9% |
+| Month | -25.2% |
+| Quarter | -22.4% |
+| Half Y | -39.6% |
+| 1Y | -33.2% |
+| YTD | -33.9% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -59,13 +68,13 @@ Energy Fuels Inc., together with its subsidiaries, engages in the exploration, r
 | Revenue (ttm) | $105.76M | Revenue growth 496.10% y/y |
 | Profitability | Gross 40.85%, operating -79.03%, net -77.30% | ROA -4.65%, ROE -11.45% |
 | Balance sheet | Cash $936.75M, debt $678.34M | Current ratio 27.90, debt/equity 85.13 |
-| Valuation | P/E —, forward P/E 22.66, P/S 27.51, P/B 3.47 | EV/Sales 23.57, EV/EBITDA -34.79 |
+| Valuation | P/E —, forward P/E 22.74, P/S 27.61, P/B 3.48 | EV/Sales 23.57, EV/EBITDA -34.79 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $24.15 (5 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 74.67% |
+| Institutional ownership | 74.79% |
 | Insider ownership | 1.16% |
 | Short float | 21.23% |
 | Short ratio (days to cover) | 8.5 |
@@ -86,10 +95,11 @@ Energy Fuels Inc., together with its subsidiaries, engages in the exploration, r
 | American Century Companies Inc | 4,226,355 | 1.60% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 22.66, EV/Sales 23.57. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 1.63, ATR nan% of price, short float 21.23%. Size positions accordingly.
+- **Valuation risk:** Forward P/E 22.74, EV/Sales 23.57. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 1.63, ATR 6.0% of price, short float 21.23%. Size positions accordingly.
 - **Short interest risk:** short float 21.23% can fuel squeezes both ways around news.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
+- **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -104,21 +114,21 @@ Energy Fuels Inc., together with its subsidiaries, engages in the exploration, r
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 23.57 |
-| Market cap | $2.91B | EV/EBITDA | -34.79 |
+| Price | $11.03 | EV/Sales | 23.57 |
+| Market cap | $2.92B | EV/EBITDA | -34.79 |
 | Beta | 1.63 | Gross margin | 40.85% |
-| RSI(14) | 32.1 | Operating margin | -79.03% |
-| ATR(14) | 0.68 | Profit margin | -77.30% |
-| SMA20 dist | +nan% | ROA | -4.65% |
-| SMA50 dist | +nan% | ROE | -11.45% |
-| SMA200 dist | +nan% | Revenue (ttm) | $105.76M |
+| RSI(14) | 32.4 | Operating margin | -79.03% |
+| ATR(14) | 0.66 | Profit margin | -77.30% |
+| SMA20 dist | -11.84% | ROA | -4.65% |
+| SMA50 dist | -16.34% | ROE | -11.45% |
+| SMA200 dist | -35.73% | Revenue (ttm) | $105.76M |
 | 52W high | $27.72 | Revenue growth y/y | 496.10% |
-| 52W low | $10.74 | Inst. ownership | 74.67% |
+| 52W low | $10.74 | Inst. ownership | 74.79% |
 | P/E (ttm) | — | Insider ownership | 1.16% |
-| Forward P/E | 22.66 | Short float | 21.23% |
-| PEG (trailing) | — | Avg volume | 6,915,969 |
-| P/S | 27.51 | Employees | 1,069 |
-| P/B | 3.47 | Analyst rec (1=buy..5=sell) | 1.1 |
+| Forward P/E | 22.74 | Short float | 21.23% |
+| PEG (trailing) | — | Avg volume | 6,926,292 |
+| P/S | 27.61 | Employees | 1,069 |
+| P/B | 3.48 | Analyst rec (1=buy..5=sell) | 1.1 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
@@ -133,7 +143,7 @@ Energy Fuels Inc., together with its subsidiaries, engages in the exploration, r
 | 2026-02-11 | init | Goldman Sachs | — → Buy |
 
 ## 9. Conclusion
-UUUU: Moderate momentum / weak fundamentals / fair-to-demanding value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+UUUU: Low momentum / weak fundamentals / fair-to-demanding value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |
