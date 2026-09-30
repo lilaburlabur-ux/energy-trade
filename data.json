@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-30T09:57:07+00:00",
-  "as_of_local": "2026-09-30 09:57:07 UTC",
+  "as_of_utc": "2026-09-30T10:02:10+00:00",
+  "as_of_local": "2026-09-30 10:02:10 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -13,12 +13,6 @@
       "market_cap": 663457019843.1189,
       "headlines": [
         {
-          "title": "Nvidia is trading like an oil stock \u2014 and taking advantage of the moment",
-          "url": "https://finance.yahoo.com/technology/article/nvidia-is-trading-like-an-oil-stock--and-taking-advantage-of-the-moment-100000909.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-09-29T10:00:00Z"
-        },
-        {
           "title": "Market Chatter: Shell, TotalEnergies, ExxonMobil Face $5.2 Billion Kazakhstan Fine",
           "url": "https://finance.yahoo.com/energy/articles/market-chatter-shell-totalenergies-exxonmobil-090956683.html",
           "publisher": "MT Newswires",
@@ -29,6 +23,12 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/exxonmobil-stock-increasing-market-risk-215118428.html",
           "publisher": "Trefis",
           "published": "2026-09-29T21:51:18Z"
+        },
+        {
+          "title": "SEC Clears Tesla's New Retail Voting System. What Changes for Investors?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/sec-clears-teslas-retail-voting-175835903.html",
+          "publisher": "BeInCrypto",
+          "published": "2026-09-29T17:58:35Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 90.16,
-      "change_pct": 0.87
+      "price": 90.2,
+      "change_pct": 0.92
     },
     {
       "label": "Brent",
-      "price": 97.05,
-      "change_pct": -5.4
+      "price": 97.17,
+      "change_pct": -5.28
     },
     {
       "label": "NatGas",
       "price": 3.02,
-      "change_pct": 0.37
+      "change_pct": 0.33
     }
   ]
 }
