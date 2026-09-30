@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-09-30T10:07:15+00:00",
-  "as_of_local": "2026-09-30 10:07:15 UTC",
+  "as_of_utc": "2026-09-30T10:12:19+00:00",
+  "as_of_local": "2026-09-30 10:12:19 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "CEG"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -451,6 +449,34 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/coming-ai-blackout-10-trillion-151952055.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-09-29T15:19:52Z"
+        }
+      ]
+    },
+    {
+      "symbol": "CEG",
+      "name": "Constellation Energy",
+      "price": 264.58,
+      "previous_close": 260.43,
+      "change_pct": 1.59,
+      "market_cap": 93742641578.27463,
+      "headlines": [
+        {
+          "title": "Constellation Energy (CEG) Stock Still Looks Like It Trades Below Fair Value",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/constellation-energy-ceg-stock-still-090652033.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-09-30T09:06:52Z"
+        },
+        {
+          "title": "3 Stocks to Buy Now Before Wall Street Catches On",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-stocks-buy-now-wall-150053004.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-09-29T15:00:53Z"
+        },
+        {
+          "title": "3 Stocks to Buy Before the End of September",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-stocks-buy-end-september-143000391.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-09-29T14:30:00Z"
         }
       ]
     },
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 90.24,
-      "change_pct": 0.96
+      "price": 90.21,
+      "change_pct": 0.93
     },
     {
       "label": "Brent",
-      "price": 97.23,
-      "change_pct": -5.22
+      "price": 97.11,
+      "change_pct": -5.34
     },
     {
       "label": "NatGas",
       "price": 3.03,
-      "change_pct": 0.53
+      "change_pct": 0.76
     }
   ]
 }
