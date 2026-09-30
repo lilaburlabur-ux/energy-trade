@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-30T10:37:52+00:00",
-  "as_of_local": "2026-09-30 10:37:52 UTC",
+  "as_of_utc": "2026-09-30T10:43:05+00:00",
+  "as_of_local": "2026-09-30 10:43:05 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -69,6 +69,12 @@
       "market_cap": 271327519050.4928,
       "headlines": [
         {
+          "title": "Fluor-JGC JV receives NTP for LNG Canada phase two expansion",
+          "url": "https://finance.yahoo.com/energy/articles/fluor-jgc-jv-receives-ntp-103803050.html",
+          "publisher": "Offshore Technology",
+          "published": "2026-09-30T10:38:03Z"
+        },
+        {
           "title": "Market Chatter: Shell, TotalEnergies, ExxonMobil Face $5.2 Billion Kazakhstan Fine",
           "url": "https://finance.yahoo.com/energy/articles/market-chatter-shell-totalenergies-exxonmobil-090956683.html",
           "publisher": "MT Newswires",
@@ -79,12 +85,6 @@
           "url": "https://finance.yahoo.com/news/news-day-lng-canada-expansion-213623820.html",
           "publisher": "Financial Post",
           "published": "2026-09-29T21:36:23Z"
-        },
-        {
-          "title": "Shell (SHEL) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/shell-shel-sees-more-significant-211504412.html",
-          "publisher": "Zacks",
-          "published": "2026-09-29T21:15:04Z"
         }
       ]
     },
@@ -520,7 +520,7 @@
           "title": "Dow Jones Futures Rise With Micron, Inflation Data Due After Bloom Energy Leads AI Rebound",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-treasury-yields-rise-bloom-energy-soars-micron-inflation-data/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
-          "published": "2026-09-30T10:14:24Z"
+          "published": "2026-09-30T10:34:11Z"
         },
         {
           "title": "US Stock Market Today: S&P 500 Futures Inch Higher As Rate Pressures Linger",
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 90.44,
-      "change_pct": 1.19
+      "price": 90.35,
+      "change_pct": 1.09
     },
     {
       "label": "Brent",
-      "price": 97.41,
-      "change_pct": -5.05
+      "price": 97.28,
+      "change_pct": -5.18
     },
     {
       "label": "NatGas",
       "price": 3.04,
-      "change_pct": 0.96
+      "change_pct": 0.93
     }
   ]
 }
