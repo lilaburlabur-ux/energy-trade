@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-09-30T20:33:20+00:00",
-  "as_of_local": "2026-09-30 20:33:20 UTC",
+  "as_of_utc": "2026-09-30T20:38:19+00:00",
+  "as_of_local": "2026-09-30 20:38:19 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -907,7 +907,26 @@
       "previous_close": 60.64,
       "change_pct": -0.2,
       "market_cap": 53228910836.09503,
-      "headlines": []
+      "headlines": [
+        {
+          "title": "NEE vs. SO: Which Utility Stock Wins for Retirement Income in 2026?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nee-vs-utility-stock-wins-123219895.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-09-30T12:32:19Z"
+        },
+        {
+          "title": "Dominion Energy (D) Stock Still Looks Discounted Following Its 65% Three Year Run",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/dominion-energy-d-stock-still-210940048.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-09-28T21:09:40Z"
+        },
+        {
+          "title": "CEG vs. D: Which Energy Stock Has Better Long-Term Upside Potential?",
+          "url": "https://finance.yahoo.com/energy/articles/ceg-vs-d-energy-stock-163200691.html",
+          "publisher": "Zacks",
+          "published": "2026-09-28T16:32:00Z"
+        }
+      ]
     },
     {
       "symbol": "FANG",
@@ -2096,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 90.55,
-      "change_pct": 1.31
+      "price": 90.52,
+      "change_pct": 1.28
     },
     {
       "label": "Brent",
-      "price": 98.11,
-      "change_pct": -4.37
+      "price": 98.1,
+      "change_pct": -4.38
     },
     {
       "label": "NatGas",
       "price": 3.02,
-      "change_pct": 0.23
+      "change_pct": 0.17
     }
   ]
 }
