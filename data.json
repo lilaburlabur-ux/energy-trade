@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-09-30T12:12:57+00:00",
-  "as_of_local": "2026-09-30 12:12:57 UTC",
+  "as_of_utc": "2026-09-30T12:17:03+00:00",
+  "as_of_local": "2026-09-30 12:17:03 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "MPC"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -281,34 +283,6 @@
           "url": "https://finance.yahoo.com/energy/articles/crescent-energy-kosmos-energy-stocks-223036276.html",
           "publisher": "StockStory",
           "published": "2026-09-28T22:30:36Z"
-        }
-      ]
-    },
-    {
-      "symbol": "MPC",
-      "name": "Marathon Petroleum",
-      "price": 392.03,
-      "previous_close": 389.44,
-      "change_pct": 0.67,
-      "market_cap": 110091731496.08633,
-      "headlines": [
-        {
-          "title": "Is ExxonMobil Stock Increasing Your Market Risk?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/exxonmobil-stock-increasing-market-risk-215118428.html",
-          "publisher": "Trefis",
-          "published": "2026-09-29T21:51:18Z"
-        },
-        {
-          "title": "Can HF Sinclair's Go-West Initiative Drive Long-Term Midstream Growth?",
-          "url": "https://finance.yahoo.com/energy/articles/hf-sinclairs-west-initiative-drive-134700565.html",
-          "publisher": "Zacks",
-          "published": "2026-09-29T13:47:00Z"
-        },
-        {
-          "title": "Can a Tight Global Refining Market Keep MPC's Margins Elevated?",
-          "url": "https://finance.yahoo.com/energy/articles/tight-global-refining-market-keep-112700223.html",
-          "publisher": "Zacks",
-          "published": "2026-09-29T11:27:00Z"
         }
       ]
     },
@@ -1948,8 +1922,8 @@
           "name": "Marathon Petroleum Corp",
           "short": "Marathon",
           "weight_pct": 5.42,
-          "change_pct": 0.67,
-          "price": 392.03,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -2047,8 +2021,8 @@
         "name": "Marathon Petroleum Corp",
         "short": "Marathon",
         "weight_pct": 5.42,
-        "change_pct": 0.67,
-        "price": 392.03,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 90.7,
-      "change_pct": 1.48
+      "price": 90.66,
+      "change_pct": 1.43
     },
     {
       "label": "Brent",
-      "price": 97.78,
-      "change_pct": -4.69
+      "price": 97.74,
+      "change_pct": -4.73
     },
     {
       "label": "NatGas",
       "price": 3.02,
-      "change_pct": 0.23
+      "change_pct": 0.13
     }
   ]
 }
