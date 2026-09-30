@@ -1,16 +1,16 @@
 {
-  "as_of_utc": "2026-09-30T20:19:45+00:00",
-  "as_of_local": "2026-09-30 20:19:45 UTC",
+  "as_of_utc": "2026-09-30T20:24:14+00:00",
+  "as_of_local": "2026-09-30 20:24:14 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
       "name": "ExxonMobil",
-      "price": 162.87,
+      "price": 162.75,
       "previous_close": 161.35,
-      "change_pct": 0.94,
-      "market_cap": 669707080847.5049,
+      "change_pct": 0.87,
+      "market_cap": 669213671490.0,
       "headlines": [
         {
           "title": "America\u2019s Strategic Oil Reserves Are at 44-Year Lows \u2014 And Trump Just Gave Away Another 40 Million Barrels",
@@ -35,10 +35,10 @@
     {
       "symbol": "CVX",
       "name": "Chevron",
-      "price": 204.44,
+      "price": 204.21,
       "previous_close": 204.38,
-      "change_pct": 0.03,
-      "market_cap": 401030178125.6305,
+      "change_pct": -0.08,
+      "market_cap": 400579017753.4839,
       "headlines": [
         {
           "title": "Chevron Has More Going for It Than Higher Oil Prices",
@@ -903,11 +903,30 @@
     {
       "symbol": "D",
       "name": "Dominion Energy",
-      "price": 60.53,
+      "price": 60.52,
       "previous_close": 60.64,
-      "change_pct": -0.19,
-      "market_cap": 53233309405.27509,
-      "headlines": []
+      "change_pct": -0.2,
+      "market_cap": 53228910836.09503,
+      "headlines": [
+        {
+          "title": "NEE vs. SO: Which Utility Stock Wins for Retirement Income in 2026?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nee-vs-utility-stock-wins-123219895.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-09-30T12:32:19Z"
+        },
+        {
+          "title": "Dominion Energy (D) Stock Still Looks Discounted Following Its 65% Three Year Run",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/dominion-energy-d-stock-still-210940048.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-09-28T21:09:40Z"
+        },
+        {
+          "title": "CEG vs. D: Which Energy Stock Has Better Long-Term Upside Potential?",
+          "url": "https://finance.yahoo.com/energy/articles/ceg-vs-d-energy-stock-163200691.html",
+          "publisher": "Zacks",
+          "published": "2026-09-28T16:32:00Z"
+        }
+      ]
     },
     {
       "symbol": "FANG",
@@ -1532,26 +1551,7 @@
       "previous_close": 18.98,
       "change_pct": -1.32,
       "market_cap": 6676835118.067265,
-      "headlines": [
-        {
-          "title": "3 Low-Volatility Stocks That Concern Us",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-low-volatility-stocks-concern-082902243.html",
-          "publisher": "StockStory",
-          "published": "2026-09-23T08:29:02Z"
-        },
-        {
-          "title": "3 Stocks Linked To Middle East Pipeline Spending Investors Should Watch",
-          "url": "https://finance.yahoo.com/energy/articles/3-stocks-linked-middle-east-002122231.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-09-23T00:21:22Z"
-        },
-        {
-          "title": "NESR Leverages Technology Portfolio and Scale to Drive Growth",
-          "url": "https://finance.yahoo.com/energy/articles/nesr-leverages-technology-portfolio-scale-161400111.html",
-          "publisher": "Zacks",
-          "published": "2026-09-22T16:14:00Z"
-        }
-      ]
+      "headlines": []
     },
     {
       "symbol": "NXE",
@@ -1902,8 +1902,8 @@
           "name": "ExxonMobil Holdings Corp",
           "short": "ExxonMobil",
           "weight_pct": 19.86,
-          "change_pct": 0.94,
-          "price": 162.87,
+          "change_pct": 0.87,
+          "price": 162.75,
           "currency": "USD"
         },
         {
@@ -1911,8 +1911,8 @@
           "name": "Chevron Corp",
           "short": "Chevron",
           "weight_pct": 14.89,
-          "change_pct": 0.03,
-          "price": 204.44,
+          "change_pct": -0.08,
+          "price": 204.21,
           "currency": "USD"
         },
         {
@@ -2001,8 +2001,8 @@
         "name": "ExxonMobil Holdings Corp",
         "short": "ExxonMobil",
         "weight_pct": 19.86,
-        "change_pct": 0.94,
-        "price": 162.87,
+        "change_pct": 0.87,
+        "price": 162.75,
         "currency": "USD"
       },
       {
@@ -2010,8 +2010,8 @@
         "name": "Chevron Corp",
         "short": "Chevron",
         "weight_pct": 14.89,
-        "change_pct": 0.03,
-        "price": 204.44,
+        "change_pct": -0.08,
+        "price": 204.21,
         "currency": "USD"
       },
       {
@@ -2096,13 +2096,13 @@
     },
     {
       "label": "WTI",
-      "price": 90.58,
-      "change_pct": 1.34
+      "price": 90.52,
+      "change_pct": 1.28
     },
     {
       "label": "Brent",
-      "price": 98.15,
-      "change_pct": -4.33
+      "price": 98.06,
+      "change_pct": -4.42
     },
     {
       "label": "NatGas",
