@@ -5,7 +5,7 @@ Signed file: `HUBB.research.30.09.2026`
 | Field | Value |
 |---|---|
 | Current price | $453.60 (2026-09-30, ~15-min delayed) |
-| Market cap | $23.97B |
+| Market cap | $23.96B |
 | Sector / Industry | Industrials / Electrical Equipment & Parts |
 | Main theme | Electrical Equipment & Parts — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -18,7 +18,7 @@ Signed file: `HUBB.research.30.09.2026`
 | Technical momentum | Low | Below SMA200 (-6.48%) with negative half-year (-7.00%). |
 | Fresh setup quality | Moderate / wait | -18.19% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 14.49%, revenue growth 15.30%. |
-| Value attractiveness | Reasonable | Forward P/E 19.76, EV/Sales 4.73. |
+| Value attractiveness | Reasonable | Forward P/E 19.76, EV/Sales 4.68. |
 | Risk level | Moderate | Beta 0.89, ATR 2.7% of price, short float 6.21%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -68,7 +68,7 @@ Hubbell Incorporated, together with its subsidiaries, manufactures and sells ele
 | Revenue (ttm) | $6.22B | Revenue growth 15.30% y/y |
 | Profitability | Gross 35.34%, operating 21.67%, net 14.49% | ROA 8.43%, ROE 24.44% |
 | Balance sheet | Cash $394.70M, debt $5.56B | Current ratio 1.61, debt/equity 141.64 |
-| Valuation | P/E 26.86, forward P/E 19.76, P/S 3.85, P/B 6.13 | EV/Sales 4.73, EV/EBITDA 19.42 |
+| Valuation | P/E 26.86, forward P/E 19.76, P/S 3.85, P/B 6.13 | EV/Sales 4.68, EV/EBITDA 19.23 |
 | Growth expectations | Earnings growth -0.90%, EPS q/q -1.60% | Analyst mean target $563.50 (12 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -110,8 +110,8 @@ Hubbell Incorporated, together with its subsidiaries, manufactures and sells ele
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $453.60 | EV/Sales | 4.73 |
-| Market cap | $23.97B | EV/EBITDA | 19.42 |
+| Price | $453.60 | EV/Sales | 4.68 |
+| Market cap | $23.96B | EV/EBITDA | 19.23 |
 | Beta | 0.89 | Gross margin | 35.34% |
 | RSI(14) | 44.6 | Operating margin | 21.67% |
 | ATR(14) | 12.32 | Profit margin | 14.49% |

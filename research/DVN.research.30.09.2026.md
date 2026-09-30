@@ -18,7 +18,7 @@ Signed file: `DVN.research.30.09.2026`
 | Technical momentum | Moderate | 1Y +32.92%; price +4.71% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -10.37% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 17.46%, revenue growth 64.20%. |
-| Value attractiveness | Reasonable | Forward P/E 8.55, EV/Sales 3.31. |
+| Value attractiveness | Reasonable | Forward P/E 8.55, EV/Sales 3.28. |
 | Risk level | Elevated | Beta 0.43, ATR 3.1% of price, short float 3.02%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated.
@@ -36,10 +36,10 @@ Devon Energy Corporation, an independent energy company, engages in the explorat
 
 | Headline | Source | Date |
 |---|---|---|
+| Devon Energy (DVN) Declines More Than Market: Some Information for Investors | Zacks | 2026-09-30 |
 | Oil Companies Enter 2027 With Their Strongest Balance Sheets in Years. Here's What to Expect Next Year. | Motley Fool | 2026-09-29 |
 | BP vs. Devon (DVN): A Shale Deal That Never Happened Shows Two Different Reset Stories | Insider Monkey | 2026-09-29 |
 | Is Trending Stock Devon Energy Corporation (DVN) a Buy Now? | Zacks | 2026-09-28 |
-| Stocktwits M&A Watch: PSKY, WBD, BP, DVN, RKLB, IRDM Stocks In Focus | Stocktwits | 2026-09-28 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ Devon Energy Corporation, an independent energy company, engages in the explorat
 | Revenue (ttm) | $18.78B | Revenue growth 64.20% y/y |
 | Profitability | Gross 50.35%, operating 41.08%, net 17.46% | ROA 5.91%, ROE 11.52% |
 | Balance sheet | Cash $950.00M, debt $11.89B | Current ratio 0.72, debt/equity 28.49 |
-| Valuation | P/E 10.01, forward P/E 8.55, P/S 2.70, P/B 1.27 | EV/Sales 3.31, EV/EBITDA 6.97 |
+| Valuation | P/E 10.01, forward P/E 8.55, P/S 2.70, P/B 1.27 | EV/Sales 3.28, EV/EBITDA 6.90 |
 | Growth expectations | Earnings growth 44.00%, EPS q/q 112.60% | Analyst mean target $60.39 (28 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -110,8 +110,8 @@ Devon Energy Corporation, an independent energy company, engages in the explorat
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $46.04 | EV/Sales | 3.31 |
-| Market cap | $50.64B | EV/EBITDA | 6.97 |
+| Price | $46.04 | EV/Sales | 3.28 |
+| Market cap | $50.64B | EV/EBITDA | 6.90 |
 | Beta | 0.43 | Gross margin | 50.35% |
 | RSI(14) | 42.6 | Operating margin | 41.08% |
 | ATR(14) | 1.41 | Profit margin | 17.46% |

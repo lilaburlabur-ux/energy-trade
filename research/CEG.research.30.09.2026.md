@@ -18,7 +18,7 @@ Signed file: `CEG.research.30.09.2026`
 | Technical momentum | Low | Below SMA200 (-11.80%) with negative half-year (-8.75%). |
 | Fresh setup quality | Poor / broken | -36.76% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 11.08%, revenue growth 23.00%. |
-| Value attractiveness | Reasonable | Forward P/E 19.07, EV/Sales 3.78. |
+| Value attractiveness | Reasonable | Forward P/E 19.07, EV/Sales 3.66. |
 | Risk level | Elevated | Beta 1.12, ATR 3.8% of price, short float 3.70%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
@@ -36,10 +36,10 @@ Constellation Energy Corporation produces and sells energy products and services
 
 | Headline | Source | Date |
 |---|---|---|
+| Constellation Stock Rises as Amazon Backs Nuclear Plant Expansion | Barrons.com | 2026-09-30 |
 | Constellation Energy stock climbs on Amazon nuclear power deal | Investing.com | 2026-09-30 |
 | Amazon Tries to Boost Nuclear Power in Maryland After Scrapping Data Center Deal | The Wall Street Journal | 2026-09-30 |
 | Constellation Energy (CEG) Stock Still Looks Like It Trades Below Fair Value | Simply Wall St. | 2026-09-30 |
-| 3 Stocks to Buy Now Before Wall Street Catches On | 24/7 Wall St. | 2026-09-29 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ Constellation Energy Corporation produces and sells energy products and services
 | Revenue (ttm) | $31.27B | Revenue growth 23.00% y/y |
 | Profitability | Gross 22.11%, operating 8.66%, net 11.08% | ROA 3.89%, ROE 15.06% |
 | Balance sheet | Cash $697.00M, debt $24.70B | Current ratio 1.46, debt/equity 76.42 |
-| Valuation | P/E 24.83, forward P/E 19.07, P/S 2.88, P/B 2.82 | EV/Sales 3.78, EV/EBITDA 14.85 |
+| Valuation | P/E 24.81, forward P/E 19.07, P/S 2.88, P/B 2.82 | EV/Sales 3.66, EV/EBITDA 14.38 |
 | Growth expectations | Earnings growth -46.80%, EPS q/q -38.90% | Analyst mean target $347.28 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -111,8 +111,8 @@ Constellation Energy Corporation produces and sells energy products and services
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $254.02 | EV/Sales | 3.78 |
-| Market cap | $90.00B | EV/EBITDA | 14.85 |
+| Price | $254.02 | EV/Sales | 3.66 |
+| Market cap | $90.00B | EV/EBITDA | 14.38 |
 | Beta | 1.12 | Gross margin | 22.11% |
 | RSI(14) | 38.6 | Operating margin | 8.66% |
 | ATR(14) | 9.59 | Profit margin | 11.08% |
@@ -121,7 +121,7 @@ Constellation Energy Corporation produces and sells energy products and services
 | SMA200 dist | -11.80% | Revenue (ttm) | $31.27B |
 | 52W high | $401.70 | Revenue growth y/y | 23.00% |
 | 52W low | $236.14 | Inst. ownership | 82.97% |
-| P/E (ttm) | 24.83 | Insider ownership | 0.34% |
+| P/E (ttm) | 24.81 | Insider ownership | 0.34% |
 | Forward P/E | 19.07 | Short float | 3.70% |
 | PEG (trailing) | — | Avg volume | 2,854,793 |
 | P/S | 2.88 | Employees | 15,291 |

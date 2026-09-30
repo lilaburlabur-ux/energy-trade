@@ -18,7 +18,7 @@ Signed file: `SLB.research.30.09.2026`
 | Technical momentum | Low | Below SMA200 (-2.48%) with negative half-year (-4.20%). |
 | Fresh setup quality | Moderate / wait | -18.51% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 8.53%, revenue growth 5.00%. |
-| Value attractiveness | Reasonable | Forward P/E 15.06, EV/Sales 2.31. |
+| Value attractiveness | Reasonable | Forward P/E 15.07, EV/Sales 2.26. |
 | Risk level | Elevated | Beta 0.77, ATR 3.5% of price, short float 4.67%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
@@ -68,7 +68,7 @@ SLB N.V. engages in the provision of technology for the energy industry worldwid
 | Revenue (ttm) | $36.37B | Revenue growth 5.00% y/y |
 | Profitability | Gross 16.99%, operating 12.71%, net 8.53% | ROA 6.17%, ROE 12.91% |
 | Balance sheet | Cash $4.12B, debt $12.81B | Current ratio 1.44, debt/equity 47.00 |
-| Valuation | P/E 23.77, forward P/E 15.06, P/S 1.99, P/B 2.77 | EV/Sales 2.31, EV/EBITDA 11.36 |
+| Valuation | P/E 23.77, forward P/E 15.07, P/S 1.99, P/B 2.77 | EV/Sales 2.26, EV/EBITDA 11.13 |
 | Growth expectations | Earnings growth -29.70%, EPS q/q -22.50% | Analyst mean target $62.52 (29 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -110,8 +110,8 @@ SLB N.V. engages in the provision of technology for the energy industry worldwid
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $48.72 | EV/Sales | 2.31 |
-| Market cap | $72.31B | EV/EBITDA | 11.36 |
+| Price | $48.72 | EV/Sales | 2.26 |
+| Market cap | $72.31B | EV/EBITDA | 11.13 |
 | Beta | 0.77 | Gross margin | 16.99% |
 | RSI(14) | 32.0 | Operating margin | 12.71% |
 | ATR(14) | 1.71 | Profit margin | 8.53% |
@@ -121,7 +121,7 @@ SLB N.V. engages in the provision of technology for the energy industry worldwid
 | 52W high | $59.79 | Revenue growth y/y | 5.00% |
 | 52W low | $30.96 | Inst. ownership | 92.54% |
 | P/E (ttm) | 23.77 | Insider ownership | 0.22% |
-| Forward P/E | 15.06 | Short float | 4.67% |
+| Forward P/E | 15.07 | Short float | 4.67% |
 | PEG (trailing) | 1.37 | Avg volume | 12,697,128 |
 | P/S | 1.99 | Employees | 109,000 |
 | P/B | 2.77 | Analyst rec (1=buy..5=sell) | 1.6 |

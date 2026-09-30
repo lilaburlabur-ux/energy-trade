@@ -5,7 +5,7 @@ Signed file: `KMI.research.30.09.2026`
 | Field | Value |
 |---|---|
 | Current price | $30.15 (2026-09-30, ~15-min delayed) |
-| Market cap | $67.08B |
+| Market cap | $67.14B |
 | Sector / Industry | Energy / Oil & Gas Midstream |
 | Main theme | Oil & Gas Midstream — see catalysts below |
 | Current stance | Low technical momentum, strong fundamentals, value: reasonable, risk: moderate. |
@@ -18,7 +18,7 @@ Signed file: `KMI.research.30.09.2026`
 | Technical momentum | Low | Below SMA200 (-2.78%) with negative half-year (-8.40%). |
 | Fresh setup quality | Moderate / wait | -11.30% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 19.30%, revenue growth 10.80%. |
-| Value attractiveness | Reasonable | Forward P/E 19.52, EV/Sales 5.65. |
+| Value attractiveness | Reasonable | Forward P/E 19.52, EV/Sales 5.61. |
 | Risk level | Moderate | Beta 0.55, ATR 2.2% of price, short float 2.39%. |
 
 **Bottom line:** Low technical momentum, strong fundamentals, value: reasonable, risk: moderate.
@@ -36,10 +36,10 @@ Kinder Morgan, Inc. operates as an energy infrastructure company primarily in No
 
 | Headline | Source | Date |
 |---|---|---|
+| Chevron And 2 Other Pipeline Stocks To Own | Simply Wall St. | 2026-09-30 |
 | Kinder Morgan Sees $6B–$7B Growth Runway as Southeast Gas Demand Surges | MarketBeat | 2026-09-30 |
 | Two Pipeline Giants, Two Dividend Strategies: Which Cash Flow Model Wins for Income Investors | 24/7 Wall St. | 2026-09-30 |
 | 3 Market-Beating Stocks for Long-Term Investors | StockStory | 2026-09-28 |
-| Kinder Morgan (KMI) Could Be 14% Undervalued Following Its Recent Pullback | Simply Wall St. | 2026-09-27 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ Kinder Morgan, Inc. operates as an energy infrastructure company primarily in No
 | Revenue (ttm) | $17.96B | Revenue growth 10.80% y/y |
 | Profitability | Gross 49.41%, operating 30.06%, net 19.30% | ROA 4.45%, ROE 10.99% |
 | Balance sheet | Cash $91.00M, debt $32.43B | Current ratio 0.46, debt/equity 98.62 |
-| Valuation | P/E 19.45, forward P/E 19.52, P/S 3.74, P/B 2.12 | EV/Sales 5.65, EV/EBITDA 13.28 |
+| Valuation | P/E 19.45, forward P/E 19.52, P/S 3.74, P/B 2.12 | EV/Sales 5.61, EV/EBITDA 13.19 |
 | Growth expectations | Earnings growth 21.20%, EPS q/q 21.30% | Analyst mean target $36.09 (22 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -109,8 +109,8 @@ Kinder Morgan, Inc. operates as an energy infrastructure company primarily in No
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $30.15 | EV/Sales | 5.65 |
-| Market cap | $67.08B | EV/EBITDA | 13.28 |
+| Price | $30.15 | EV/Sales | 5.61 |
+| Market cap | $67.14B | EV/EBITDA | 13.19 |
 | Beta | 0.55 | Gross margin | 49.41% |
 | RSI(14) | 36.6 | Operating margin | 30.06% |
 | ATR(14) | 0.67 | Profit margin | 19.30% |

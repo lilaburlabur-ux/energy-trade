@@ -18,7 +18,7 @@ Signed file: `NXT.research.30.09.2026`
 | Technical momentum | Low | Below SMA200 (-27.71%) with negative half-year (-35.35%). |
 | Fresh setup quality | Poor / broken | -50.17% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 16.36%, revenue growth 8.20%. |
-| Value attractiveness | Reasonable | Forward P/E 13.50, EV/Sales 2.99. |
+| Value attractiveness | Reasonable | Forward P/E 13.51, EV/Sales 2.93. |
 | Risk level | Elevated | Beta 1.92, ATR 4.8% of price, short float 7.96%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
@@ -68,7 +68,7 @@ Nextpower Inc. provides solar and energy technology solutions for utility-scale 
 | Revenue (ttm) | $3.63B | Revenue growth 8.20% y/y |
 | Profitability | Gross 22.98%, operating 20.86%, net 16.36% | ROA 11.68%, ROE 27.22% |
 | Balance sheet | Cash $1.21B, debt $38.40M | Current ratio 2.69, debt/equity 1.50 |
-| Valuation | P/E 20.09, forward P/E 13.50, P/S 3.30, P/B 4.62 | EV/Sales 2.99, EV/EBITDA 14.50 |
+| Valuation | P/E 20.14, forward P/E 13.51, P/S 3.30, P/B 4.62 | EV/Sales 2.93, EV/EBITDA 14.21 |
 | Growth expectations | Earnings growth 2.90%, EPS q/q 5.20% | Analyst mean target $139.18 (28 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -112,8 +112,8 @@ Nextpower Inc. provides solar and energy technology solutions for utility-scale 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $77.93 | EV/Sales | 2.99 |
-| Market cap | $11.97B | EV/EBITDA | 14.50 |
+| Price | $77.93 | EV/Sales | 2.93 |
+| Market cap | $11.97B | EV/EBITDA | 14.21 |
 | Beta | 1.92 | Gross margin | 22.98% |
 | RSI(14) | 37.7 | Operating margin | 20.86% |
 | ATR(14) | 3.77 | Profit margin | 16.36% |
@@ -122,8 +122,8 @@ Nextpower Inc. provides solar and energy technology solutions for utility-scale 
 | SMA200 dist | -27.71% | Revenue (ttm) | $3.63B |
 | 52W high | $156.40 | Revenue growth y/y | 8.20% |
 | 52W low | $73.99 | Inst. ownership | 109.80% |
-| P/E (ttm) | 20.09 | Insider ownership | 0.64% |
-| Forward P/E | 13.50 | Short float | 7.96% |
+| P/E (ttm) | 20.14 | Insider ownership | 0.64% |
+| Forward P/E | 13.51 | Short float | 7.96% |
 | PEG (trailing) | 3.15 | Avg volume | 2,499,380 |
 | P/S | 3.30 | Employees | 1,993 |
 | P/B | 4.62 | Analyst rec (1=buy..5=sell) | 1.4 |

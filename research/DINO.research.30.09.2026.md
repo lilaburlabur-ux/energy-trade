@@ -18,7 +18,7 @@ Signed file: `DINO.research.30.09.2026`
 | Technical momentum | High | 1Y +111.17%; price +53.67% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -7.97% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 6.13%, revenue growth 53.20%. |
-| Value attractiveness | Reasonable | Forward P/E 9.08, EV/Sales 0.64. |
+| Value attractiveness | Reasonable | Forward P/E 9.08, EV/Sales 0.65. |
 | Risk level | Elevated | Beta 0.69, ATR 4.2% of price, short float 6.20%. |
 
 **Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
@@ -31,6 +31,15 @@ Signed file: `DINO.research.30.09.2026`
 
 ## 2. Company Overview and Recent Catalysts
 HF Sinclair Corporation operates as an independent energy company in the United States. It operates through five segments: Refining, Renewables, Marketing, Lubricants & Specialties, and Midstream. The company produces and markets gasoline, diesel fuel, jet fuel, renewable diesel, specialty lubricant products, specialty chemicals, commodity and modified asphalt products, and others.
+
+**Recent headlines (potential catalysts):**
+
+| Headline | Source | Date |
+|---|---|---|
+| The Zacks Analyst Blog Highlights Phillips 66, HF Sinclair and Eni | Zacks | 2026-09-30 |
+| Can HF Sinclair's Go-West Initiative Drive Long-Term Midstream Growth? | Zacks | 2026-09-29 |
+| Can a Tight Global Refining Market Keep MPC's Margins Elevated? | Zacks | 2026-09-29 |
+| 3 Energy Stocks to Buy as Share Buybacks Gather Momentum | Zacks | 2026-09-29 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -59,7 +68,7 @@ HF Sinclair Corporation operates as an independent energy company in the United 
 | Revenue (ttm) | $31.23B | Revenue growth 53.20% y/y |
 | Profitability | Gross 12.89%, operating 11.69%, net 6.13% | ROA 9.16%, ROE 19.50% |
 | Balance sheet | Cash $2.26B, debt $3.34B | Current ratio 1.97, debt/equity 32.26 |
-| Valuation | P/E 10.23, forward P/E 9.08, P/S 0.61, P/B 1.86 | EV/Sales 0.64, EV/EBITDA 6.21 |
+| Valuation | P/E 10.23, forward P/E 9.08, P/S 0.61, P/B 1.86 | EV/Sales 0.65, EV/EBITDA 6.31 |
 | Growth expectations | Earnings growth 350.20%, EPS q/q 328.80% | Analyst mean target $102.33 (15 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -103,8 +112,8 @@ HF Sinclair Corporation operates as an independent energy company in the United 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $107.32 | EV/Sales | 0.64 |
-| Market cap | $19.08B | EV/EBITDA | 6.21 |
+| Price | $107.32 | EV/Sales | 0.65 |
+| Market cap | $19.08B | EV/EBITDA | 6.31 |
 | Beta | 0.69 | Gross margin | 12.89% |
 | RSI(14) | 56.1 | Operating margin | 11.69% |
 | ATR(14) | 4.52 | Profit margin | 6.13% |
