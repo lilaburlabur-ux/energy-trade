@@ -4,7 +4,7 @@ Signed file: `D.research.30.09.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $60.53 (2026-09-30, ~15-min delayed) |
+| Current price | $60.52 (2026-09-30, ~15-min delayed) |
 | Market cap | $53.23B |
 | Sector / Industry | Utilities / Utilities - Regulated Electric |
 | Main theme | Utilities - Regulated Electric — see catalysts below |
@@ -15,8 +15,8 @@ Signed file: `D.research.30.09.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-4.30%) with negative half-year (-0.12%). |
-| Fresh setup quality | Moderate / wait | -14.72% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-4.31%) with negative half-year (-0.12%). |
+| Fresh setup quality | Moderate / wait | -14.73% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 13.98%, revenue growth 17.60%. |
 | Value attractiveness | Reasonable | Forward P/E 15.87, EV/Sales 6.22. |
 | Risk level | Moderate | Beta 0.62, ATR 1.7% of price, short float 2.54%. |
@@ -44,11 +44,11 @@ Dominion Energy, Inc. provides regulated electricity and natural gas services in
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $60.53; 52w high $70.97 (-14.72%); 52w low $55.36 (+9.33%) |
-| Trend | -4.30% vs SMA200, -8.18% vs SMA50, -4.44% vs SMA20 |
+| Price vs 52-week range | Close $60.52; 52w high $70.97 (-14.73%); 52w low $55.36 (+9.32%) |
+| Trend | -4.31% vs SMA200, -8.19% vs SMA50, -4.45% vs SMA20 |
 | Momentum | RSI(14) 27.0 (oversold) |
 | Volatility | ATR(14) 1.06 (~1.7% of price); beta 0.62 |
-| Setup perspective | -14.72% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -14.73% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
@@ -109,14 +109,14 @@ Dominion Energy, Inc. provides regulated electricity and natural gas services in
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $60.53 | EV/Sales | 6.22 |
+| Price | $60.52 | EV/Sales | 6.22 |
 | Market cap | $53.23B | EV/EBITDA | 13.51 |
 | Beta | 0.62 | Gross margin | 46.22% |
 | RSI(14) | 27.0 | Operating margin | 29.22% |
 | ATR(14) | 1.06 | Profit margin | 13.98% |
-| SMA20 dist | -4.44% | ROA | 3.04% |
-| SMA50 dist | -8.18% | ROE | 8.28% |
-| SMA200 dist | -4.30% | Revenue (ttm) | $18.12B |
+| SMA20 dist | -4.45% | ROA | 3.04% |
+| SMA50 dist | -8.19% | ROE | 8.28% |
+| SMA200 dist | -4.31% | Revenue (ttm) | $18.12B |
 | 52W high | $70.97 | Revenue growth y/y | 17.60% |
 | 52W low | $55.36 | Inst. ownership | 83.04% |
 | P/E (ttm) | 20.94 | Insider ownership | 0.13% |

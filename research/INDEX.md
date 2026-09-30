@@ -3,8 +3,8 @@
 
 | Ticker | Mkt cap | 1Y | Fwd P/E | Net margin | Momentum | Value | Risk |
 |---|---|---|---|---|---|---|---|
-| XOM | $669.71B | +47% | 14.4 | 9% | Moderate | Reasonable | Moderate |
-| CVX | $400.97B | +36% | 14.5 | 10% | Moderate | Reasonable | Moderate |
+| XOM | $669.21B | +47% | 14.4 | 9% | Moderate | Reasonable | Moderate |
+| CVX | $400.58B | +36% | 14.4 | 10% | Moderate | Reasonable | Moderate |
 | SHEL | $270.98B | +36% | 9.1 | 9% | Moderate | Reasonable | Moderate |
 | TTE | $188.81B | +44% | 8.1 | 9% | Moderate | Reasonable | Moderate |
 | BP | $113.29B | +33% | 8.5 | 3% | Moderate | Reasonable | Moderate |
@@ -16,7 +16,7 @@
 | DVN | $50.64B | +33% | 8.5 | 17% | Moderate | Reasonable | Elevated |
 | OXY | $55.30B | +17% | 13.8 | 30% | Moderate | Reasonable | Moderate |
 | APA | $14.55B | +77% | 9.3 | 20% | High | Reasonable | Elevated |
-| EQT | $30.37B | -10% | 12.9 | 29% | Low | Reasonable | Moderate |
+| EQT | $30.38B | -10% | 12.9 | 29% | Low | Reasonable | Moderate |
 | AR | $10.27B | -0% | 7.7 | 19% | Low | Reasonable | Elevated |
 | PR | $17.69B | +68% | 9.5 | 22% | High | Reasonable | Elevated |
 | OVV | $15.99B | +46% | 7.8 | 10% | Moderate | Reasonable | Elevated |
