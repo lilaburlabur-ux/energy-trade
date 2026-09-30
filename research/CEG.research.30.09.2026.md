@@ -36,10 +36,10 @@ Constellation Energy Corporation produces and sells energy products and services
 
 | Headline | Source | Date |
 |---|---|---|
+| Constellation Energy stock climbs on Amazon nuclear power deal | Investing.com | 2026-09-30 |
 | Amazon Tries to Boost Nuclear Power in Maryland After Scrapping Data Center Deal | The Wall Street Journal | 2026-09-30 |
 | Constellation Energy (CEG) Stock Still Looks Like It Trades Below Fair Value | Simply Wall St. | 2026-09-30 |
 | 3 Stocks to Buy Now Before Wall Street Catches On | 24/7 Wall St. | 2026-09-29 |
-| 3 Stocks to Buy Before the End of September | 24/7 Wall St. | 2026-09-29 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

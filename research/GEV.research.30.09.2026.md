@@ -36,10 +36,10 @@ GE Vernova Inc., an energy company, engages in the provision of various products
 
 | Headline | Source | Date |
 |---|---|---|
+| GE Vernova (GEV) Secures NRC Permit For New Reactor Design | Simply Wall St. | 2026-09-30 |
 | GE Vernova Stocks Slip as Data Centers Choose Faster Turbines | GuruFocus.com | 2026-09-30 |
 | Here is What to Know Beyond Why GE Vernova Inc. (GEV) is a Trending Stock | Zacks | 2026-09-30 |
 | It’s Inflation Day and the Stock Market Is on Edge | Barrons.com | 2026-09-30 |
-| AI Infrastructure Firm Accelevation Prices IPO Below Target Range | MT Newswires | 2026-09-30 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -18,7 +18,7 @@ Signed file: `NXT.research.30.09.2026`
 | Technical momentum | Low | Below SMA200 (-27.71%) with negative half-year (-35.35%). |
 | Fresh setup quality | Poor / broken | -50.17% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 16.36%, revenue growth 8.20%. |
-| Value attractiveness | Reasonable | Forward P/E 13.51, EV/Sales 2.99. |
+| Value attractiveness | Reasonable | Forward P/E 13.50, EV/Sales 2.99. |
 | Risk level | Elevated | Beta 1.92, ATR 4.8% of price, short float 7.96%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated.

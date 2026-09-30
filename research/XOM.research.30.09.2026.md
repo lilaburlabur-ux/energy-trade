@@ -36,10 +36,10 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 
 | Headline | Source | Date |
 |---|---|---|
+| Diesel Prices Are Surging and ExxonMobil Stock Could Benefit | Simply Wall St. | 2026-09-30 |
 | America’s Strategic Oil Reserves Are at 44-Year Lows — And Trump Just Gave Away Another 40 Million Barrels | 24/7 Wall St. | 2026-09-30 |
 | Why Is SLB (SLB) Expanding Its LNG Footprint With A Mozambique Subsea Win? | Simply Wall St. | 2026-09-30 |
 | Sector Update: Energy Stocks Advance Pre-Bell Wednesday | MT Newswires | 2026-09-30 |
-| Chevron & ExxonMobil Ink Potential Crude Supply Deals With Vietnam | Zacks | 2026-09-30 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

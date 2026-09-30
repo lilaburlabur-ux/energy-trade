@@ -68,7 +68,7 @@ MPLX LP owns and operates midstream energy infrastructure and logistics assets p
 | Revenue (ttm) | $12.03B | Revenue growth 10.60% y/y |
 | Profitability | Gross 55.71%, operating 38.25%, net 39.28% | ROA 7.25%, ROE 33.69% |
 | Balance sheet | Cash $1.03B, debt $26.13B | Current ratio 0.89, debt/equity 183.36 |
-| Valuation | P/E 12.24, forward P/E 11.68, P/S 4.75, P/B 4.07 | EV/Sales 6.91, EV/EBITDA 13.61 |
+| Valuation | P/E 12.11, forward P/E 11.68, P/S 4.75, P/B 4.07 | EV/Sales 6.91, EV/EBITDA 13.61 |
 | Growth expectations | Earnings growth 3.20%, EPS q/q 2.80% | Analyst mean target $62.85 (13 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -120,7 +120,7 @@ MPLX LP owns and operates midstream energy infrastructure and logistics assets p
 | SMA200 dist | +1.94% | Revenue (ttm) | $12.03B |
 | 52W high | $60.23 | Revenue growth y/y | 10.60% |
 | 52W low | $44.22 | Inst. ownership | 19.71% |
-| P/E (ttm) | 12.24 | Insider ownership | 64.03% |
+| P/E (ttm) | 12.11 | Insider ownership | 64.03% |
 | Forward P/E | 11.68 | Short float | 1.81% |
 | PEG (trailing) | 3.09 | Avg volume | 1,403,980 |
 | P/S | 4.75 | Employees | 0 |

@@ -36,10 +36,10 @@ Phillips 66 operates as an integrated downstream energy provider in the United S
 
 | Headline | Source | Date |
 |---|---|---|
+| Diesel Prices Are Surging and ExxonMobil Stock Could Benefit | Simply Wall St. | 2026-09-30 |
 | The Zacks Analyst Blog Highlights Phillips 66, HF Sinclair and Eni | Zacks | 2026-09-30 |
 | Why Phillips 66 (PSX) is a Great Dividend Stock Right Now | Zacks | 2026-09-29 |
 | Can HF Sinclair's Go-West Initiative Drive Long-Term Midstream Growth? | Zacks | 2026-09-29 |
-| What are the Prospects for Valero Energy's Refining Operations? | Zacks | 2026-09-29 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
