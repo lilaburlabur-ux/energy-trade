@@ -32,15 +32,6 @@ Signed file: `DINO.research.30.09.2026`
 ## 2. Company Overview and Recent Catalysts
 HF Sinclair Corporation operates as an independent energy company in the United States. It operates through five segments: Refining, Renewables, Marketing, Lubricants & Specialties, and Midstream. The company produces and markets gasoline, diesel fuel, jet fuel, renewable diesel, specialty lubricant products, specialty chemicals, commodity and modified asphalt products, and others.
 
-**Recent headlines (potential catalysts):**
-
-| Headline | Source | Date |
-|---|---|---|
-| The Zacks Analyst Blog Highlights Phillips 66, HF Sinclair and Eni | Zacks | 2026-09-30 |
-| Can HF Sinclair's Go-West Initiative Drive Long-Term Midstream Growth? | Zacks | 2026-09-29 |
-| Can a Tight Global Refining Market Keep MPC's Margins Elevated? | Zacks | 2026-09-29 |
-| 3 Energy Stocks to Buy as Share Buybacks Gather Momentum | Zacks | 2026-09-29 |
-
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
