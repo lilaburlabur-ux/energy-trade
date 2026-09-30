@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-09-30T22:14:57+00:00",
-  "as_of_local": "2026-09-30 22:14:57 UTC",
+  "as_of_utc": "2026-09-30T22:18:55+00:00",
+  "as_of_local": "2026-09-30 22:18:55 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "FLNC"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1805,6 +1807,12 @@
       "market_cap": 1853527955.4400334,
       "headlines": [
         {
+          "title": "AI-Native Services Roll-Up to Shape OTOVO\u2019s Path to Profitable Scale \u2013 Initiation Report",
+          "url": "https://finance.yahoo.com/energy/articles/ai-native-services-roll-shape-220226055.html",
+          "publisher": "Exec Edge",
+          "published": "2026-09-30T22:02:26Z"
+        },
+        {
           "title": "Can This Number Push Tesla Stock Higher?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/number-push-tesla-stock-higher-142740248.html",
           "publisher": "Trefis",
@@ -1815,12 +1823,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-move-higher-133711359.html",
           "publisher": "Trefis",
           "published": "2026-09-25T13:37:11Z"
-        },
-        {
-          "title": "Solar Stocks Tumble After 30-Year Treasury Yield Hits 2004 High",
-          "url": "https://finance.yahoo.com/energy/articles/solar-stocks-tumble-30-treasury-125942781.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-09-25T12:59:42Z"
         }
       ]
     },
@@ -1849,34 +1851,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/tiny-ai-infrastructure-stock-large-100100953.html",
           "publisher": "Motley Fool",
           "published": "2026-09-27T10:01:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "FLNC",
-      "name": "Fluence Energy",
-      "price": 7.68,
-      "previous_close": 7.82,
-      "change_pct": -1.79,
-      "market_cap": 1099496331.2643414,
-      "headlines": [
-        {
-          "title": "3 Reasons FLNC is Risky and 1 Stock to Buy Instead",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-flnc-risky-1-144002402.html",
-          "publisher": "StockStory",
-          "published": "2026-09-29T14:40:02Z"
-        },
-        {
-          "title": "Is FLNC's Long-Term Agreement on Battery Supply a Game Changer?",
-          "url": "https://finance.yahoo.com/energy/articles/flncs-long-term-agreement-battery-125700288.html",
-          "publisher": "Zacks",
-          "published": "2026-09-29T12:57:00Z"
-        },
-        {
-          "title": "Fluence Energy, Generac, Bloom Energy, Columbus McKinnon, and Viavi Solutions Shares Are Soaring, What You Need To Know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/fluence-energy-generac-bloom-energy-033637199.html",
-          "publisher": "StockStory",
-          "published": "2026-09-26T03:36:37Z"
         }
       ]
     },
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 90.36,
-      "change_pct": 1.1
+      "price": 90.25,
+      "change_pct": 0.97
     },
     {
       "label": "Brent",
-      "price": 97.94,
-      "change_pct": -4.53
+      "price": 97.77,
+      "change_pct": -4.7
     },
     {
       "label": "NatGas",
       "price": 3.01,
-      "change_pct": -0.13
+      "change_pct": 0.0
     }
   ]
 }
