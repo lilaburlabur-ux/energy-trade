@@ -1,7 +1,7 @@
 {
  "meta": {
   "source": "Energy Trade curated universe (seed_energy_universe.py)",
-  "as_of": "2026-09-30 12:11 UTC",
+  "as_of": "2026-09-30 12:13 UTC",
   "total_tickers": 68,
   "min_bubble_size": 7,
   "render_spec": {
@@ -18,8 +18,8 @@
    "label": "Oil & Gas Majors",
    "color": "#E8A33D",
    "count": 8,
-   "total_market_cap_b": 1983.0,
-   "avg_change_pct": 0.23,
+   "total_market_cap_b": 1982.6,
+   "avg_change_pct": 0.21,
    "industries_included": [
     "Oil & Gas E&P",
     "Oil & Gas Integrated"
@@ -31,10 +31,10 @@
      "sector": "Energy",
      "industry": "Oil & Gas Integrated",
      "country": "United States",
-     "market_cap_b": 676.39,
+     "market_cap_b": 675.97,
      "pe": 20.92,
-     "price": 162.5,
-     "change_pct": 0.71,
+     "price": 162.4,
+     "change_pct": 0.65,
      "volume": 9160000,
      "perf": {
       "1W": 2.7,
@@ -286,10 +286,10 @@
      "sector": "Energy",
      "industry": "Oil & Gas Integrated",
      "country": "United Kingdom",
-     "market_cap_b": 109.86,
+     "market_cap_b": 109.88,
      "pe": 21.26,
-     "price": 43.45,
-     "change_pct": -0.16,
+     "price": 43.46,
+     "change_pct": -0.14,
      "volume": 5155400,
      "perf": {
       "1W": 2.9,
@@ -434,7 +434,7 @@
      "fwd_eps": 5.79
     }
    ],
-   "median_change_pct": 0.16,
+   "median_change_pct": 0.17,
    "pe_hm": 16.0
   },
   {
@@ -1879,8 +1879,8 @@
    "label": "Nuclear & Uranium",
    "color": "#F2D43D",
    "count": 9,
-   "total_market_cap_b": 168.81,
-   "avg_change_pct": -0.58,
+   "total_market_cap_b": 168.94,
+   "avg_change_pct": -0.51,
    "industries_included": [
     "Aerospace & Defense",
     "Specialty Industrial Machinery",
@@ -1894,10 +1894,10 @@
      "sector": "Utilities",
      "industry": "Utilities - Independent Power Producers",
      "country": "United States",
-     "market_cap_b": 93.48,
+     "market_cap_b": 93.61,
      "pe": 25.46,
-     "price": 261.25,
-     "change_pct": -1.26,
+     "price": 261.62,
+     "change_pct": -1.12,
      "volume": 1879900,
      "perf": {
       "1W": -0.6,
@@ -2304,8 +2304,8 @@
      "country": "United States",
      "market_cap_b": 2.52,
      "pe": null,
-     "price": 7.78,
-     "change_pct": 0.26,
+     "price": 7.77,
+     "change_pct": 0.1,
      "volume": 29552500,
      "perf": {
       "1W": -10.0,
@@ -2348,7 +2348,7 @@
      "fwd_eps": -0.67
     }
    ],
-   "median_change_pct": 0.11,
+   "median_change_pct": 0.1,
    "pe_hm": 34.0
   },
   {
@@ -3208,7 +3208,7 @@
    "color": "#CB9E6E",
    "count": 8,
    "total_market_cap_b": 401.29,
-   "avg_change_pct": 0.02,
+   "avg_change_pct": 0.01,
    "industries_included": [
     "Utilities - Independent Power Producers",
     "Utilities - Regulated Electric"
@@ -3375,8 +3375,8 @@
      "country": "United States",
      "market_cap_b": 46.76,
      "pe": 23.27,
-     "price": 139.52,
-     "change_pct": -0.93,
+     "price": 139.5,
+     "change_pct": -0.94,
      "volume": 4840700,
      "perf": {
       "1W": -2.0,
