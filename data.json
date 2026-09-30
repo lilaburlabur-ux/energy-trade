@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-09-30T09:26:50+00:00",
-  "as_of_local": "2026-09-30 09:26:50 UTC",
+  "as_of_utc": "2026-09-30T09:31:51+00:00",
+  "as_of_local": "2026-09-30 09:31:51 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "PR"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1293,34 +1295,6 @@
       ]
     },
     {
-      "symbol": "PR",
-      "name": "Permian Resources",
-      "price": 21.2,
-      "previous_close": 21.3,
-      "change_pct": -0.47,
-      "market_cap": 17756209653.8053,
-      "headlines": [
-        {
-          "title": "Permian Resources (PR): Buy, Sell, or Hold Post Q2 Earnings?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/permian-resources-pr-buy-sell-173436494.html",
-          "publisher": "StockStory",
-          "published": "2026-09-28T17:34:36Z"
-        },
-        {
-          "title": "Permian Resources (PR): Is Its Record Free Cash Flow Sustainable?",
-          "url": "https://finance.yahoo.com/energy/articles/permian-resources-pr-record-free-001110930.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-09-28T00:11:10Z"
-        },
-        {
-          "title": "Permian Resources (PR) Stock Still Looks Cheap As Its 371% Run Continues",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/permian-resources-pr-stock-still-021302998.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-09-17T02:13:02Z"
-        }
-      ]
-    },
-    {
       "symbol": "OVV",
       "name": "Ovintiv",
       "price": 58.83,
@@ -2115,8 +2089,8 @@
     },
     {
       "label": "WTI",
-      "price": 90.35,
-      "change_pct": 1.09
+      "price": 90.31,
+      "change_pct": 1.04
     },
     {
       "label": "Brent",
@@ -2126,7 +2100,7 @@
     {
       "label": "NatGas",
       "price": 3.03,
-      "change_pct": 0.53
+      "change_pct": 0.5
     }
   ]
 }
