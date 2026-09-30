@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-09-30T12:17:03+00:00",
-  "as_of_local": "2026-09-30 12:17:03 UTC",
+  "as_of_utc": "2026-09-30T12:22:05+00:00",
+  "as_of_local": "2026-09-30 12:22:05 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "MPC"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -152,7 +150,7 @@
       "price": 433.27,
       "previous_close": 431.41,
       "change_pct": 0.43,
-      "market_cap": 168282063732.91016,
+      "market_cap": 168238736734.0088,
       "headlines": [
         {
           "title": "AI Infrastructure Firm Accelevation Prices IPO Below Target Range",
@@ -180,7 +178,7 @@
       "price": 75.89,
       "previous_close": 75.49,
       "change_pct": 0.53,
-      "market_cap": 158304885007.82996,
+      "market_cap": 158276589345.6675,
       "headlines": [
         {
           "title": "Can Rising Customer Demand Enhance Xcel Energy's Growth Prospects?",
@@ -227,6 +225,34 @@
           "url": "https://finance.yahoo.com/energy/articles/happens-exxonmobil-stock-refining-profits-200928133.html",
           "publisher": "Trefis",
           "published": "2026-09-25T20:09:28Z"
+        }
+      ]
+    },
+    {
+      "symbol": "MPC",
+      "name": "Marathon Petroleum",
+      "price": 392.03,
+      "previous_close": 389.44,
+      "change_pct": 0.67,
+      "market_cap": 114447918662.68204,
+      "headlines": [
+        {
+          "title": "Is ExxonMobil Stock Increasing Your Market Risk?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/exxonmobil-stock-increasing-market-risk-215118428.html",
+          "publisher": "Trefis",
+          "published": "2026-09-29T21:51:18Z"
+        },
+        {
+          "title": "Can HF Sinclair's Go-West Initiative Drive Long-Term Midstream Growth?",
+          "url": "https://finance.yahoo.com/energy/articles/hf-sinclairs-west-initiative-drive-134700565.html",
+          "publisher": "Zacks",
+          "published": "2026-09-29T13:47:00Z"
+        },
+        {
+          "title": "Can a Tight Global Refining Market Keep MPC's Margins Elevated?",
+          "url": "https://finance.yahoo.com/energy/articles/tight-global-refining-market-keep-112700223.html",
+          "publisher": "Zacks",
+          "published": "2026-09-29T11:27:00Z"
         }
       ]
     },
@@ -595,6 +621,34 @@
       ]
     },
     {
+      "symbol": "EOG",
+      "name": "EOG Resources",
+      "price": 139.66,
+      "previous_close": 140.63,
+      "change_pct": -0.69,
+      "market_cap": 74386902450.34393,
+      "headlines": [
+        {
+          "title": "COP vs. EOG: Which Energy Dividend Actually Survives the Next Oil Crash?",
+          "url": "https://finance.yahoo.com/energy/articles/cop-vs-eog-energy-dividend-120118644.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-09-25T12:01:18Z"
+        },
+        {
+          "title": "Sector Update: Energy Stocks Rise Late Afternoon",
+          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-rise-afternoon-195809963.html",
+          "publisher": "MT Newswires",
+          "published": "2026-09-24T19:58:09Z"
+        },
+        {
+          "title": "Sector Update: Energy Stocks Rise Thursday Afternoon",
+          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-rise-thursday-180651243.html",
+          "publisher": "MT Newswires",
+          "published": "2026-09-24T18:06:51Z"
+        }
+      ]
+    },
+    {
       "symbol": "SLB",
       "name": "SLB (Schlumberger)",
       "price": 49.87,
@@ -619,34 +673,6 @@
           "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-softer-tuesday-175902711.html",
           "publisher": "MT Newswires",
           "published": "2026-09-29T17:59:02Z"
-        }
-      ]
-    },
-    {
-      "symbol": "EOG",
-      "name": "EOG Resources",
-      "price": 139.66,
-      "previous_close": 140.63,
-      "change_pct": -0.69,
-      "market_cap": 73255746641.04321,
-      "headlines": [
-        {
-          "title": "COP vs. EOG: Which Energy Dividend Actually Survives the Next Oil Crash?",
-          "url": "https://finance.yahoo.com/energy/articles/cop-vs-eog-energy-dividend-120118644.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-09-25T12:01:18Z"
-        },
-        {
-          "title": "Sector Update: Energy Stocks Rise Late Afternoon",
-          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-rise-afternoon-195809963.html",
-          "publisher": "MT Newswires",
-          "published": "2026-09-24T19:58:09Z"
-        },
-        {
-          "title": "Sector Update: Energy Stocks Rise Thursday Afternoon",
-          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-rise-thursday-180651243.html",
-          "publisher": "MT Newswires",
-          "published": "2026-09-24T18:06:51Z"
         }
       ]
     },
@@ -1048,7 +1074,7 @@
       "price": 67.68,
       "previous_close": 66.73,
       "change_pct": 1.42,
-      "market_cap": 33733067782.505722,
+      "market_cap": 33726392639.435623,
       "headlines": [
         {
           "title": "Does PSE&G\u2019s New High\u2011Capacity Stations Mark a Deeper Shift in PEG\u2019s Regulated Investment Strategy?",
@@ -1468,7 +1494,7 @@
       "price": 28.0,
       "previous_close": 27.87,
       "change_pct": 0.47,
-      "market_cap": 8403125528.0,
+      "market_cap": 8491727020.0,
       "headlines": [
         {
           "title": "3 Reasons to Buy Brookfield Renewable Before September Ends",
@@ -1580,7 +1606,7 @@
       "price": 80.41,
       "previous_close": 82.8,
       "change_pct": -2.89,
-      "market_cap": 5750288544.5251465,
+      "market_cap": 5764226734.149933,
       "headlines": [
         {
           "title": "Weatherford International (WFRD) Heads To TD Cowen As Fair Value Narrative Stays In Focus",
@@ -1636,7 +1662,7 @@
       "price": 31.83,
       "previous_close": 30.91,
       "change_pct": 2.98,
-      "market_cap": 4206164135.7581635,
+      "market_cap": 4195137332.544594,
       "headlines": [
         {
           "title": "Enphase Energy (ENPH) Increases Despite Market Slip: Here's What You Need to Know",
@@ -1687,34 +1713,6 @@
       ]
     },
     {
-      "symbol": "UUUU",
-      "name": "Energy Fuels",
-      "price": 10.99,
-      "previous_close": 11.03,
-      "change_pct": -0.36,
-      "market_cap": 2909861495.6781387,
-      "headlines": [
-        {
-          "title": "UUUU's Cash Flow Deficit Narrows in 1H26: What's Next?",
-          "url": "https://finance.yahoo.com/energy/articles/uuuus-cash-flow-deficit-narrows-144500861.html",
-          "publisher": "Zacks",
-          "published": "2026-09-29T14:45:00Z"
-        },
-        {
-          "title": "Investors Heavily Search Energy Fuels Inc (UUUU): Here is What You Need to Know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/investors-heavily-search-energy-fuels-120002236.html",
-          "publisher": "Zacks",
-          "published": "2026-09-28T12:00:02Z"
-        },
-        {
-          "title": "3 Canadian Growth Stocks With Earnings Growth Over 34%",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-canadian-growth-stocks-earnings-190931017.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-09-26T19:09:31Z"
-        }
-      ]
-    },
-    {
       "symbol": "LEU",
       "name": "Centrus Energy",
       "price": 138.18,
@@ -1739,6 +1737,34 @@
           "url": "https://finance.yahoo.com/energy/articles/centrus-energy-ultimate-pick-shovel-150500233.html",
           "publisher": "Motley Fool",
           "published": "2026-09-24T15:05:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "UUUU",
+      "name": "Energy Fuels",
+      "price": 10.99,
+      "previous_close": 11.03,
+      "change_pct": -0.36,
+      "market_cap": 2747115292.787552,
+      "headlines": [
+        {
+          "title": "UUUU's Cash Flow Deficit Narrows in 1H26: What's Next?",
+          "url": "https://finance.yahoo.com/energy/articles/uuuus-cash-flow-deficit-narrows-144500861.html",
+          "publisher": "Zacks",
+          "published": "2026-09-29T14:45:00Z"
+        },
+        {
+          "title": "Investors Heavily Search Energy Fuels Inc (UUUU): Here is What You Need to Know",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/investors-heavily-search-energy-fuels-120002236.html",
+          "publisher": "Zacks",
+          "published": "2026-09-28T12:00:02Z"
+        },
+        {
+          "title": "3 Canadian Growth Stocks With Earnings Growth Over 34%",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-canadian-growth-stocks-earnings-190931017.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-09-26T19:09:31Z"
         }
       ]
     },
@@ -1922,8 +1948,8 @@
           "name": "Marathon Petroleum Corp",
           "short": "Marathon",
           "weight_pct": 5.42,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": 0.67,
+          "price": 392.03,
           "currency": "USD"
         },
         {
@@ -2021,8 +2047,8 @@
         "name": "Marathon Petroleum Corp",
         "short": "Marathon",
         "weight_pct": 5.42,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": 0.67,
+        "price": 392.03,
         "currency": "USD"
       },
       {
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 90.66,
-      "change_pct": 1.43
+      "price": 90.51,
+      "change_pct": 1.26
     },
     {
       "label": "Brent",
-      "price": 97.74,
-      "change_pct": -4.73
+      "price": 97.6,
+      "change_pct": -4.86
     },
     {
       "label": "NatGas",
-      "price": 3.02,
-      "change_pct": 0.13
+      "price": 3.04,
+      "change_pct": 1.06
     }
   ]
 }
