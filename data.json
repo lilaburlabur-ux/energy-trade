@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-10-01T00:10:18+00:00",
-  "as_of_local": "2026-10-01 00:10:18 UTC",
+  "as_of_utc": "2026-10-01T00:15:16+00:00",
+  "as_of_local": "2026-10-01 00:15:16 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "VLO"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -253,34 +255,6 @@
           "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-higher-afternoon-195954136.html",
           "publisher": "MT Newswires",
           "published": "2026-09-28T19:59:54Z"
-        }
-      ]
-    },
-    {
-      "symbol": "VLO",
-      "name": "Valero Energy",
-      "price": 387.72,
-      "previous_close": 389.57,
-      "change_pct": -0.47,
-      "market_cap": 111603563158.21,
-      "headlines": [
-        {
-          "title": "Eni Launches 30% Power & Gas Discount Amid Rising Energy Costs",
-          "url": "https://finance.yahoo.com/energy/articles/eni-launches-30-power-gas-145100050.html",
-          "publisher": "Zacks",
-          "published": "2026-09-30T14:51:00Z"
-        },
-        {
-          "title": "Best Growth Stocks to Buy for September 30th",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/best-growth-stocks-buy-september-113800131.html",
-          "publisher": "Zacks",
-          "published": "2026-09-30T11:38:00Z"
-        },
-        {
-          "title": "Is ExxonMobil Stock Increasing Your Market Risk?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/exxonmobil-stock-increasing-market-risk-215118428.html",
-          "publisher": "Trefis",
-          "published": "2026-09-29T21:51:18Z"
         }
       ]
     },
@@ -1966,8 +1940,8 @@
           "name": "Valero Energy Corp",
           "short": "Valero",
           "weight_pct": 5.07,
-          "change_pct": -0.47,
-          "price": 387.72,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -2065,8 +2039,8 @@
         "name": "Valero Energy Corp",
         "short": "Valero",
         "weight_pct": 5.07,
-        "change_pct": -0.47,
-        "price": 387.72,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 89.98,
-      "change_pct": 0.67
+      "price": 90.13,
+      "change_pct": 0.84
     },
     {
       "label": "Brent",
-      "price": 97.62,
-      "change_pct": -4.84
+      "price": 97.8,
+      "change_pct": -4.67
     },
     {
       "label": "NatGas",
       "price": 3.0,
-      "change_pct": -0.3
+      "change_pct": -0.27
     }
   ]
 }
