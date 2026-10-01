@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-10-01T02:08:45+00:00",
-  "as_of_local": "2026-10-01 02:08:45 UTC",
+  "as_of_utc": "2026-10-01T02:23:46+00:00",
+  "as_of_local": "2026-10-01 02:23:46 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -1497,6 +1497,12 @@
       "market_cap": 8534185469.995041,
       "headlines": [
         {
+          "title": "Brookfield Renewable Targets AI Power Boom With Storage, Nuclear Expansion",
+          "url": "https://finance.yahoo.com/energy/articles/brookfield-renewable-targets-ai-power-020208239.html",
+          "publisher": "MarketBeat",
+          "published": "2026-10-01T02:02:08Z"
+        },
+        {
           "title": "3 Reasons to Buy Brookfield Renewable Before September Ends",
           "url": "https://finance.yahoo.com/energy/articles/3-reasons-buy-brookfield-renewable-205000849.html",
           "publisher": "Motley Fool",
@@ -1507,12 +1513,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/westinghouse-electric-taking-nuclear-back-140458745.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-09-22T14:04:58Z"
-        },
-        {
-          "title": "Westinghouse Could IPO at a $50 Billion Valuation. Cameco's Stake Alone Would Be Worth $24.5 Billion.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/westinghouse-could-ipo-50-billion-130501237.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-21T13:05:01Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 90.36,
-      "change_pct": 1.1
+      "price": 90.32,
+      "change_pct": 1.05
     },
     {
       "label": "Brent",
-      "price": 98.15,
-      "change_pct": -4.33
+      "price": 98.09,
+      "change_pct": -4.39
     },
     {
       "label": "NatGas",
       "price": 2.99,
-      "change_pct": -0.56
+      "change_pct": -0.6
     }
   ]
 }
