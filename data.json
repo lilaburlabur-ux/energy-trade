@@ -1,18 +1,16 @@
 {
-  "as_of_utc": "2026-10-01T18:09:27+00:00",
-  "as_of_local": "2026-10-01 18:09:27 UTC",
+  "as_of_utc": "2026-10-01T18:14:30+00:00",
+  "as_of_local": "2026-10-01 18:14:30 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "TTE"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
       "name": "ExxonMobil",
-      "price": 163.72,
+      "price": 163.84,
       "previous_close": 162.75,
-      "change_pct": 0.6,
-      "market_cap": 673202231110.6238,
+      "change_pct": 0.67,
+      "market_cap": 673675123573.4308,
       "headlines": [
         {
           "title": "Marathon Petroleum Climbs 5%, Valero Energy Gains 4% as Refiners Outrun Integrated Majors; Exxon Mobil Stays Flat",
@@ -37,10 +35,10 @@
     {
       "symbol": "CVX",
       "name": "Chevron",
-      "price": 206.99,
+      "price": 206.84,
       "previous_close": 204.21,
-      "change_pct": 1.36,
-      "market_cap": 406032272460.6686,
+      "change_pct": 1.29,
+      "market_cap": 405728226347.7339,
       "headlines": [
         {
           "title": "Marathon Petroleum Climbs 5%, Valero Energy Gains 4% as Refiners Outrun Integrated Majors; Exxon Mobil Stays Flat",
@@ -65,10 +63,10 @@
     {
       "symbol": "SHEL",
       "name": "Shell",
-      "price": 95.49,
+      "price": 95.52,
       "previous_close": 95.05,
-      "change_pct": 0.46,
-      "market_cap": 272090036671.6485,
+      "change_pct": 0.49,
+      "market_cap": 272261083795.5,
       "headlines": [
         {
           "title": "Can Robotics Reshape How Chevron Runs Its Global Operations?",
@@ -93,10 +91,10 @@
     {
       "symbol": "GEV",
       "name": "GE Vernova",
-      "price": 986.12,
+      "price": 989.23,
       "previous_close": 950.49,
-      "change_pct": 3.75,
-      "market_cap": 262841951654.46082,
+      "change_pct": 4.08,
+      "market_cap": 263435870338.26306,
       "headlines": [
         {
           "title": "Latest News In Energy Transition - Wind Power's Surge: Driving Global Renewable Energy Growth",
@@ -119,12 +117,40 @@
       ]
     },
     {
+      "symbol": "TTE",
+      "name": "TotalEnergies",
+      "price": 84.3,
+      "previous_close": 85.5,
+      "change_pct": -1.4,
+      "market_cap": 186157145062.40442,
+      "headlines": [
+        {
+          "title": "Can Robotics Reshape How Chevron Runs Its Global Operations?",
+          "url": "https://finance.yahoo.com/energy/articles/robotics-reshape-chevron-runs-global-130200483.html",
+          "publisher": "Zacks",
+          "published": "2026-10-01T13:02:00Z"
+        },
+        {
+          "title": "Sector Update: Energy Stocks Advance Pre-Bell Wednesday",
+          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-advance-pre-132904056.html",
+          "publisher": "MT Newswires",
+          "published": "2026-09-30T13:29:04Z"
+        },
+        {
+          "title": "Market Chatter: Shell, TotalEnergies, ExxonMobil Face $5.2 Billion Kazakhstan Fine",
+          "url": "https://finance.yahoo.com/energy/articles/market-chatter-shell-totalenergies-exxonmobil-090956683.html",
+          "publisher": "MT Newswires",
+          "published": "2026-09-30T09:09:56Z"
+        }
+      ]
+    },
+    {
       "symbol": "ETN",
       "name": "Eaton",
-      "price": 435.42,
+      "price": 436.84,
       "previous_close": 429.71,
-      "change_pct": 1.33,
-      "market_cap": 169170666213.98926,
+      "change_pct": 1.66,
+      "market_cap": 169664766784.66797,
       "headlines": [
         {
           "title": "What Are Vertiv Investors Betting On?",
@@ -149,10 +175,10 @@
     {
       "symbol": "NEE",
       "name": "NextEra Energy",
-      "price": 76.41,
+      "price": 76.45,
       "previous_close": 75.74,
-      "change_pct": 0.88,
-      "market_cap": 159465383763.25128,
+      "change_pct": 0.93,
+      "market_cap": 159389602588.77036,
       "headlines": [
         {
           "title": "Can OKLO Turn Used Nuclear Fuel Into a Scalable Business?",
@@ -177,10 +203,10 @@
     {
       "symbol": "COP",
       "name": "ConocoPhillips",
-      "price": 127.06,
+      "price": 127.03,
       "previous_close": 125.15,
-      "change_pct": 1.53,
-      "market_cap": 154796433555.0694,
+      "change_pct": 1.5,
+      "market_cap": 154759886222.0347,
       "headlines": [
         {
           "title": "ExxonMobil's Advantageous Upstream Assets to Fuel Long-Term Growth",
@@ -205,10 +231,10 @@
     {
       "symbol": "MPC",
       "name": "Marathon Petroleum",
-      "price": 415.81,
+      "price": 416.64,
       "previous_close": 395.42,
-      "change_pct": 5.16,
-      "market_cap": 121438343525.96481,
+      "change_pct": 5.37,
+      "market_cap": 117007041284.96133,
       "headlines": [
         {
           "title": "Marathon Petroleum Climbs 5%, Valero Energy Gains 4% as Refiners Outrun Integrated Majors; Exxon Mobil Stays Flat",
@@ -233,10 +259,10 @@
     {
       "symbol": "VLO",
       "name": "Valero Energy",
-      "price": 405.33,
+      "price": 405.83,
       "previous_close": 387.61,
-      "change_pct": 4.57,
-      "market_cap": 116547277312.10605,
+      "change_pct": 4.7,
+      "market_cap": 116766104994.25766,
       "headlines": [
         {
           "title": "Marathon Petroleum Climbs 5%, Valero Energy Gains 4% as Refiners Outrun Integrated Majors; Exxon Mobil Stays Flat",
@@ -261,10 +287,10 @@
     {
       "symbol": "BP",
       "name": "BP",
-      "price": 44.54,
+      "price": 44.56,
       "previous_close": 43.99,
-      "change_pct": 1.25,
-      "market_cap": 114679988940.91162,
+      "change_pct": 1.3,
+      "market_cap": 114757255889.97443,
       "headlines": [
         {
           "title": "Wells Fargo bullish on BP, downgrades Exxon Mobil amid valuation gap",
@@ -289,10 +315,10 @@
     {
       "symbol": "PSX",
       "name": "Phillips 66",
-      "price": 263.13,
+      "price": 263.39,
       "previous_close": 255.31,
-      "change_pct": 3.06,
-      "market_cap": 105094094272.96838,
+      "change_pct": 3.17,
+      "market_cap": 105106100944.81824,
       "headlines": [
         {
           "title": "Petrobras' P-80 Platform Begins Journey to Buzios Field",
@@ -317,10 +343,10 @@
     {
       "symbol": "EQNR",
       "name": "Equinor",
-      "price": 42.12,
+      "price": 42.15,
       "previous_close": 41.6,
-      "change_pct": 1.25,
-      "market_cap": 99817879482.97218,
+      "change_pct": 1.32,
+      "market_cap": 99853425715.31343,
       "headlines": [
         {
           "title": "SLB OneSubsea Secures Rovuma Basin Subsea Production Systems Deal",
@@ -345,10 +371,10 @@
     {
       "symbol": "PWR",
       "name": "Quanta Services",
-      "price": 656.19,
+      "price": 657.69,
       "previous_close": 642.51,
-      "change_pct": 2.13,
-      "market_cap": 98682397031.4386,
+      "change_pct": 2.36,
+      "market_cap": 98879346509.2193,
       "headlines": [
         {
           "title": "Can Quanta's Electric Business Drive Further Margin Expansion?",
@@ -373,10 +399,10 @@
     {
       "symbol": "SO",
       "name": "Southern Company",
-      "price": 83.32,
+      "price": 83.37,
       "previous_close": 82.89,
-      "change_pct": 0.52,
-      "market_cap": 95905763634.98625,
+      "change_pct": 0.57,
+      "market_cap": 95894257547.88583,
       "headlines": [
         {
           "title": "Southern or Duke: Which Utility Dividend Holds Up Against the Data Center Buildout",
@@ -401,10 +427,10 @@
     {
       "symbol": "VRT",
       "name": "Vertiv",
-      "price": 246.31,
+      "price": 246.73,
       "previous_close": 241.31,
-      "change_pct": 2.07,
-      "market_cap": 94824509131.0274,
+      "change_pct": 2.25,
+      "market_cap": 94920756174.2774,
       "headlines": [
         {
           "title": "What Are Vertiv Investors Betting On?",
@@ -429,10 +455,10 @@
     {
       "symbol": "CEG",
       "name": "Constellation Energy",
-      "price": 258.54,
+      "price": 259.39,
       "previous_close": 254.02,
-      "change_pct": 1.78,
-      "market_cap": 91673487782.427,
+      "change_pct": 2.12,
+      "market_cap": 91905558683.16788,
       "headlines": [
         {
           "title": "Amazon Nuke Deal Fuels Constellation Energy After Axed Data Center",
@@ -457,10 +483,10 @@
     {
       "symbol": "DUK",
       "name": "Duke Energy",
-      "price": 113.83,
+      "price": 113.89,
       "previous_close": 114.01,
-      "change_pct": -0.16,
-      "market_cap": 88800282284.87755,
+      "change_pct": -0.1,
+      "market_cap": 88784690858.42603,
       "headlines": [
         {
           "title": "Southern or Duke: Which Utility Dividend Holds Up Against the Data Center Buildout",
@@ -485,10 +511,10 @@
     {
       "symbol": "WMB",
       "name": "Williams Companies",
-      "price": 69.25,
+      "price": 69.19,
       "previous_close": 67.97,
-      "change_pct": 1.88,
-      "market_cap": 84716581723.68762,
+      "change_pct": 1.79,
+      "market_cap": 84630960373.92871,
       "headlines": [
         {
           "title": "National Fuel Acquires CenterPoint's Ohio Gas Utility for $2.62B",
@@ -513,10 +539,10 @@
     {
       "symbol": "SU",
       "name": "Suncor Energy",
-      "price": 69.37,
+      "price": 69.35,
       "previous_close": 67.87,
-      "change_pct": 2.21,
-      "market_cap": 81931907944.04033,
+      "change_pct": 2.18,
+      "market_cap": 81884677055.47583,
       "headlines": [
         {
           "title": "Cenovus Energy And 2 Canadian Oil Stocks To Watch",
@@ -541,10 +567,10 @@
     {
       "symbol": "BE",
       "name": "Bloom Energy",
-      "price": 274.02,
+      "price": 273.85,
       "previous_close": 276.98,
-      "change_pct": -1.07,
-      "market_cap": 80653457232.66156,
+      "change_pct": -1.13,
+      "market_cap": 80628335042.3518,
       "headlines": [
         {
           "title": "Should Bloom Energy Stock Investors Worry About Its Record Quarter?",
@@ -571,8 +597,8 @@
       "name": "Enterprise Products",
       "price": 35.89,
       "previous_close": 35.61,
-      "change_pct": 0.79,
-      "market_cap": 77482043130.29047,
+      "change_pct": 0.77,
+      "market_cap": 77493057004.24887,
       "headlines": [
         {
           "title": "Enterprise Products Partners L.P. (EPD) Is a Trending Stock: Facts to Know Before Betting on It",
@@ -600,7 +626,7 @@
       "price": 141.78,
       "previous_close": 137.76,
       "change_pct": 2.92,
-      "market_cap": 75529384795.56213,
+      "market_cap": 74367745932.9856,
       "headlines": [
         {
           "title": "ExxonMobil's Advantageous Upstream Assets to Fuel Long-Term Growth",
@@ -625,9 +651,9 @@
     {
       "symbol": "SLB",
       "name": "SLB (Schlumberger)",
-      "price": 48.21,
+      "price": 48.19,
       "previous_close": 48.72,
-      "change_pct": -1.04,
+      "change_pct": -1.1,
       "market_cap": 71513443623.89557,
       "headlines": [
         {
@@ -653,10 +679,10 @@
     {
       "symbol": "ET",
       "name": "Energy Transfer",
-      "price": 20.06,
+      "price": 20.05,
       "previous_close": 19.77,
-      "change_pct": 1.44,
-      "market_cap": 69072588157.13962,
+      "change_pct": 1.42,
+      "market_cap": 69055374548.86664,
       "headlines": [
         {
           "title": "3 Dividend Stocks That Don't Care Whether Oil Is $70 or $100",
@@ -681,10 +707,10 @@
     {
       "symbol": "KMI",
       "name": "Kinder Morgan",
-      "price": 30.6,
+      "price": 30.56,
       "previous_close": 30.15,
-      "change_pct": 1.49,
-      "market_cap": 68140811597.06102,
+      "change_pct": 1.36,
+      "market_cap": 68095386852.756645,
       "headlines": [
         {
           "title": "Better Recession-Proof Dividend Stock: KMI or OKE?",
@@ -709,10 +735,10 @@
     {
       "symbol": "TRGP",
       "name": "Targa Resources",
-      "price": 277.01,
+      "price": 277.2,
       "previous_close": 270.31,
-      "change_pct": 2.48,
-      "market_cap": 59451000572.25,
+      "change_pct": 2.55,
+      "market_cap": 59441348296.98221,
       "headlines": [
         {
           "title": "Is Targa Resources Stock a Smart Hold in Today's Market?",
@@ -735,40 +761,12 @@
       ]
     },
     {
-      "symbol": "OXY",
-      "name": "Occidental Petroleum",
-      "price": 57.51,
-      "previous_close": 55.32,
-      "change_pct": 3.96,
-      "market_cap": 57489143528.35187,
-      "headlines": [
-        {
-          "title": "3 Reasons We Love Occidental Petroleum (OXY)",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-love-occidental-petroleum-164507023.html",
-          "publisher": "StockStory",
-          "published": "2026-10-01T16:45:07Z"
-        },
-        {
-          "title": "Exxon Mobil downgraded, BP upgraded: Wall Street's top analyst calls",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/exxon-mobil-downgraded-bp-upgraded-133806114.html",
-          "publisher": "The Fly",
-          "published": "2026-10-01T13:38:06Z"
-        },
-        {
-          "title": "Here Are Thursday\u2019s Top Wall Street Analyst Research Calls: BP, Dollar Tree, Exxon Mobil, Lennar, Occidental Petroleum, Rocket Lab, Teva Pharmaceuticals, United Therapeutics, and More",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/thursday-top-wall-street-analyst-121720654.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-10-01T12:17:20Z"
-        }
-      ]
-    },
-    {
       "symbol": "MPLX",
       "name": "MPLX",
-      "price": 56.6,
+      "price": 56.71,
       "previous_close": 56.32,
-      "change_pct": 0.5,
-      "market_cap": 57384375459.57508,
+      "change_pct": 0.68,
+      "market_cap": 57490833979.3849,
       "headlines": [
         {
           "title": "Beyond Oil Price Swings: 3 Midstream Stocks Built for Resilience",
@@ -791,12 +789,40 @@
       ]
     },
     {
+      "symbol": "OXY",
+      "name": "Occidental Petroleum",
+      "price": 57.49,
+      "previous_close": 55.32,
+      "change_pct": 3.92,
+      "market_cap": 57474149577.9171,
+      "headlines": [
+        {
+          "title": "3 Reasons We Love Occidental Petroleum (OXY)",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-love-occidental-petroleum-164507023.html",
+          "publisher": "StockStory",
+          "published": "2026-10-01T16:45:07Z"
+        },
+        {
+          "title": "Exxon Mobil downgraded, BP upgraded: Wall Street's top analyst calls",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/exxon-mobil-downgraded-bp-upgraded-133806114.html",
+          "publisher": "The Fly",
+          "published": "2026-10-01T13:38:06Z"
+        },
+        {
+          "title": "Here Are Thursday\u2019s Top Wall Street Analyst Research Calls: BP, Dollar Tree, Exxon Mobil, Lennar, Occidental Petroleum, Rocket Lab, Teva Pharmaceuticals, United Therapeutics, and More",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/thursday-top-wall-street-analyst-121720654.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-10-01T12:17:20Z"
+        }
+      ]
+    },
+    {
       "symbol": "LNG",
       "name": "Cheniere Energy",
-      "price": 273.3,
+      "price": 273.28,
       "previous_close": 269.03,
-      "change_pct": 1.59,
-      "market_cap": 56464376481.022705,
+      "change_pct": 1.58,
+      "market_cap": 56432357635.727295,
       "headlines": [
         {
           "title": "Cheniere Energy's Petrobras LNG Deal Supports Long-Term Growth",
@@ -821,10 +847,10 @@
     {
       "symbol": "BKR",
       "name": "Baker Hughes",
-      "price": 55.77,
+      "price": 55.71,
       "previous_close": 54.9,
-      "change_pct": 1.58,
-      "market_cap": 55351504532.789536,
+      "change_pct": 1.48,
+      "market_cap": 55301871586.589745,
       "headlines": [
         {
           "title": "1 of Wall Street\u2019s Favorite Stocks to Research Further and 2 We Brush Off",
@@ -849,10 +875,10 @@
     {
       "symbol": "OKE",
       "name": "ONEOK",
-      "price": 87.23,
+      "price": 87.27,
       "previous_close": 85.27,
-      "change_pct": 2.3,
-      "market_cap": 54990596893.93183,
+      "change_pct": 2.35,
+      "market_cap": 55006353276.29441,
       "headlines": [
         {
           "title": "Better Recession-Proof Dividend Stock: KMI or OKE?",
@@ -877,10 +903,10 @@
     {
       "symbol": "D",
       "name": "Dominion Energy",
-      "price": 60.84,
+      "price": 60.85,
       "previous_close": 60.52,
-      "change_pct": 0.53,
-      "market_cap": 53536743576.19493,
+      "change_pct": 0.55,
+      "market_cap": 53497166518.95004,
       "headlines": [
         {
           "title": "NEE vs. SO: Which Utility Stock Wins for Retirement Income in 2026?",
@@ -905,10 +931,10 @@
     {
       "symbol": "FANG",
       "name": "Diamondback Energy",
-      "price": 185.63,
+      "price": 185.5,
       "previous_close": 183.81,
-      "change_pct": 0.99,
-      "market_cap": 51981472549.72534,
+      "change_pct": 0.92,
+      "market_cap": 51943671416.0,
       "headlines": [
         {
           "title": "Oil Hovers Around $90: Are Permian Stocks Well Poised to Gain?",
@@ -933,10 +959,10 @@
     {
       "symbol": "DVN",
       "name": "Devon Energy",
-      "price": 47.03,
+      "price": 46.98,
       "previous_close": 46.04,
-      "change_pct": 2.14,
-      "market_cap": 51732998657.22656,
+      "change_pct": 2.04,
+      "market_cap": 51667001342.77344,
       "headlines": [
         {
           "title": "The Senate Just Voted Down a Ban on Congressional Stock Trading",
@@ -961,10 +987,10 @@
     {
       "symbol": "ETR",
       "name": "Entergy",
-      "price": 100.04,
+      "price": 100.25,
       "previous_close": 99.26,
-      "change_pct": 0.79,
-      "market_cap": 47820746423.706604,
+      "change_pct": 1.0,
+      "market_cap": 47894804995.34505,
       "headlines": [
         {
           "title": "Can OKLO Turn Used Nuclear Fuel Into a Scalable Business?",
@@ -989,10 +1015,10 @@
     {
       "symbol": "VST",
       "name": "Vistra",
-      "price": 139.64,
+      "price": 139.86,
       "previous_close": 138.35,
-      "change_pct": 0.93,
-      "market_cap": 46847961132.6664,
+      "change_pct": 1.09,
+      "market_cap": 46941938577.555466,
       "headlines": [
         {
           "title": "Latest News In Energy Transition - Wind Power's Surge: Driving Global Renewable Energy Growth",
@@ -1017,10 +1043,10 @@
     {
       "symbol": "CCJ",
       "name": "Cameco",
-      "price": 85.07,
+      "price": 85.03,
       "previous_close": 86.67,
-      "change_pct": -1.85,
-      "market_cap": 37048613921.94794,
+      "change_pct": -1.89,
+      "market_cap": 37033368672.71353,
       "headlines": [
         {
           "title": "South Korea Set to Invest $200 Billion in the U.S. These 4 Companies Should Benefit.",
@@ -1045,10 +1071,10 @@
     {
       "symbol": "PEG",
       "name": "Public Service Enterprise",
-      "price": 67.72,
+      "price": 67.75,
       "previous_close": 67.34,
-      "change_pct": 0.56,
-      "market_cap": 33751310230.291855,
+      "change_pct": 0.62,
+      "market_cap": 33762971767.459946,
       "headlines": [
         {
           "title": "3 U.S. Utility Stocks Riding the Gas and Nuclear Buildout",
@@ -1076,7 +1102,7 @@
       "price": 49.87,
       "previous_close": 48.56,
       "change_pct": 2.7,
-      "market_cap": 31197610500.0,
+      "market_cap": 31175717535.446167,
       "headlines": [
         {
           "title": "Forget LNG Exporters: EQT Is the Natural Gas Stock I'd Buy Today",
@@ -1101,10 +1127,10 @@
     {
       "symbol": "FTI",
       "name": "TechnipFMC",
-      "price": 68.65,
+      "price": 68.57,
       "previous_close": 67.92,
-      "change_pct": 1.07,
-      "market_cap": 26911730602.761963,
+      "change_pct": 0.95,
+      "market_cap": 26888752220.652588,
       "headlines": [
         {
           "title": "1 Cash-Heavy Stock to Own for Decades and 2 Facing Headwinds",
@@ -1129,10 +1155,10 @@
     {
       "symbol": "HAL",
       "name": "Halliburton",
-      "price": 31.82,
+      "price": 31.8,
       "previous_close": 31.8,
-      "change_pct": 0.06,
-      "market_cap": 26506043071.044617,
+      "change_pct": -0.02,
+      "market_cap": 26476883635.325226,
       "headlines": [
         {
           "title": "Is NESR a Buy as Rapid Growth Collides With a Much Richer Valuation?",
@@ -1157,10 +1183,10 @@
     {
       "symbol": "HUBB",
       "name": "Hubbell",
-      "price": 461.58,
+      "price": 462.42,
       "previous_close": 453.6,
-      "change_pct": 1.76,
-      "market_cap": 24386721833.58481,
+      "change_pct": 1.94,
+      "market_cap": 24430838191.24173,
       "headlines": [
         {
           "title": "3 Reasons We\u2019re Fans of Hubbell (HUBB)",
@@ -1185,10 +1211,10 @@
     {
       "symbol": "NRG",
       "name": "NRG Energy",
-      "price": 96.31,
+      "price": 96.47,
       "previous_close": 95.65,
-      "change_pct": 0.69,
-      "market_cap": 20250626687.351555,
+      "change_pct": 0.86,
+      "market_cap": 20280056026.66926,
       "headlines": [
         {
           "title": "Vistra\u2019s Price Dropped 30% in 1 Year: Why One Wall Street Analyst Predicts 115% Returns From Here",
@@ -1213,10 +1239,10 @@
     {
       "symbol": "DINO",
       "name": "HF Sinclair",
-      "price": 111.79,
+      "price": 111.97,
       "previous_close": 107.32,
-      "change_pct": 4.17,
-      "market_cap": 19852233661.350975,
+      "change_pct": 4.33,
+      "market_cap": 19906457789.5513,
       "headlines": [
         {
           "title": "The Zacks Analyst Blog Highlights Phillips 66, HF Sinclair and Eni",
@@ -1241,10 +1267,10 @@
     {
       "symbol": "FSLR",
       "name": "First Solar",
-      "price": 173.55,
+      "price": 173.96,
       "previous_close": 175.16,
-      "change_pct": -0.92,
-      "market_cap": 18650306287.982117,
+      "change_pct": -0.69,
+      "market_cap": 18694907168.32306,
       "headlines": [
         {
           "title": "First Solar (FSLR) Faces 15% Tariff And Inventory Glut As Solar Pricing Stays Tight",
@@ -1269,10 +1295,10 @@
     {
       "symbol": "PR",
       "name": "Permian Resources",
-      "price": 21.86,
+      "price": 21.85,
       "previous_close": 21.12,
-      "change_pct": 3.51,
-      "market_cap": 18310337478.76449,
+      "change_pct": 3.46,
+      "market_cap": 18296432723.40023,
       "headlines": [
         {
           "title": "Permian Resources (PR): Buy, Sell, or Hold Post Q2 Earnings?",
@@ -1297,10 +1323,10 @@
     {
       "symbol": "OVV",
       "name": "Ovintiv",
-      "price": 60.12,
+      "price": 60.03,
       "previous_close": 57.82,
-      "change_pct": 3.98,
-      "market_cap": 16629191704.559326,
+      "change_pct": 3.82,
+      "market_cap": 16591851168.823242,
       "headlines": [
         {
           "title": "3 Oil And Gas Stocks With High Free Cash Flow Exposure",
@@ -1325,10 +1351,10 @@
     {
       "symbol": "TLN",
       "name": "Talen Energy",
-      "price": 322.77,
+      "price": 324.44,
       "previous_close": 312.69,
-      "change_pct": 3.23,
-      "market_cap": 15267730673.217773,
+      "change_pct": 3.76,
+      "market_cap": 15346012115.478516,
       "headlines": [
         {
           "title": "Vistra\u2019s Price Dropped 30% in 1 Year: Why One Wall Street Analyst Predicts 115% Returns From Here",
@@ -1353,10 +1379,10 @@
     {
       "symbol": "APA",
       "name": "APA Corp",
-      "price": 43.29,
+      "price": 43.28,
       "previous_close": 41.54,
-      "change_pct": 4.21,
-      "market_cap": 15177227306.281204,
+      "change_pct": 4.18,
+      "market_cap": 15156205734.546623,
       "headlines": [
         {
           "title": "APA Stock Surges 74% in a Year: Should Investors Lock In Profits?",
@@ -1381,10 +1407,10 @@
     {
       "symbol": "BWXT",
       "name": "BWX Technologies",
-      "price": 136.65,
+      "price": 137.14,
       "previous_close": 137.0,
-      "change_pct": -0.26,
-      "market_cap": 12519685848.55133,
+      "change_pct": 0.1,
+      "market_cap": 12552211260.0,
       "headlines": [
         {
           "title": "3 Nuclear Power Stocks Worth Owning as the AI Power Crunch Builds",
@@ -1409,10 +1435,10 @@
     {
       "symbol": "NXT",
       "name": "Nextracker",
-      "price": 79.75,
+      "price": 79.79,
       "previous_close": 77.93,
-      "change_pct": 2.34,
-      "market_cap": 12100429220.0,
+      "change_pct": 2.38,
+      "market_cap": 12103463301.054077,
       "headlines": [
         {
           "title": "Nextpower (NXT) Declines More Than Market: Some Information for Investors",
@@ -1437,10 +1463,10 @@
     {
       "symbol": "AR",
       "name": "Antero Resources",
-      "price": 34.01,
+      "price": 34.04,
       "previous_close": 33.39,
-      "change_pct": 1.85,
-      "market_cap": 10455999873.973846,
+      "change_pct": 1.96,
+      "market_cap": 10462148794.708252,
       "headlines": [
         {
           "title": "2 of Wall Street\u2019s Favorite Stocks for Long-Term Investors and 1 That Underwhelm",
@@ -1465,10 +1491,10 @@
     {
       "symbol": "BEP",
       "name": "Brookfield Renewable",
-      "price": 28.57,
+      "price": 28.59,
       "previous_close": 28.14,
-      "change_pct": 1.51,
-      "market_cap": 8664594227.49752,
+      "change_pct": 1.62,
+      "market_cap": 8577190248.1833,
       "headlines": [
         {
           "title": "Brookfield Renewable Targets AI Power Boom With Storage, Nuclear Expansion",
@@ -1493,10 +1519,10 @@
     {
       "symbol": "OKLO",
       "name": "Oklo",
-      "price": 36.2,
+      "price": 36.22,
       "previous_close": 37.02,
-      "change_pct": -2.22,
-      "market_cap": 6737447393.111038,
+      "change_pct": -2.16,
+      "market_cap": 6739419374.3478775,
       "headlines": [
         {
           "title": "3 Nuclear Power Stocks Worth Owning as the AI Power Crunch Builds",
@@ -1523,8 +1549,8 @@
       "name": "NOV Inc",
       "price": 18.75,
       "previous_close": 18.73,
-      "change_pct": 0.11,
-      "market_cap": 6685746935.206652,
+      "change_pct": 0.13,
+      "market_cap": 6683964843.75,
       "headlines": [
         {
           "title": "3 Low-Volatility Stocks That Concern Us",
@@ -1549,9 +1575,9 @@
     {
       "symbol": "NXE",
       "name": "NexGen Energy",
-      "price": 8.8,
+      "price": 8.81,
       "previous_close": 9.12,
-      "change_pct": -3.51,
+      "change_pct": -3.45,
       "market_cap": 5903806423.927223,
       "headlines": [
         {
@@ -1577,10 +1603,10 @@
     {
       "symbol": "WFRD",
       "name": "Weatherford",
-      "price": 78.17,
+      "price": 78.21,
       "previous_close": 78.68,
-      "change_pct": -0.65,
-      "market_cap": 5609027684.42495,
+      "change_pct": -0.6,
+      "market_cap": 5592961588.368713,
       "headlines": [
         {
           "title": "Weatherford International (WFRD) Heads To TD Cowen As Fair Value Narrative Stays In Focus",
@@ -1605,10 +1631,10 @@
     {
       "symbol": "UEC",
       "name": "Uranium Energy Corp",
-      "price": 9.27,
+      "price": 9.28,
       "previous_close": 9.45,
-      "change_pct": -1.9,
-      "market_cap": 4598034461.373825,
+      "change_pct": -1.75,
+      "market_cap": 4601503538.904781,
       "headlines": [
         {
           "title": "Uranium Energy (UEC) Is Down 5.0% After Wider 2026 Loss But Stronger Operations - What's Changed",
@@ -1633,10 +1659,10 @@
     {
       "symbol": "ENPH",
       "name": "Enphase Energy",
-      "price": 32.78,
+      "price": 32.79,
       "previous_close": 32.99,
-      "change_pct": -0.64,
-      "market_cap": 4319027729.732437,
+      "change_pct": -0.61,
+      "market_cap": 4334265211.164734,
       "headlines": [
         {
           "title": "1 Cash-Heavy Stock Worth Your Attention and 2 We Question",
@@ -1663,8 +1689,8 @@
       "name": "NuScale Power",
       "price": 7.91,
       "previous_close": 7.9,
-      "change_pct": 0.19,
-      "market_cap": 3248233050.974882,
+      "change_pct": 0.13,
+      "market_cap": 3250285045.5502357,
       "headlines": [
         {
           "title": "NuScale Power Rises 4% Despite Dilution Concerns; Uranium Energy Advances 4%, Oklo Gains 2%",
@@ -1687,40 +1713,12 @@
       ]
     },
     {
-      "symbol": "LEU",
-      "name": "Centrus Energy",
-      "price": 138.82,
-      "previous_close": 139.49,
-      "change_pct": -0.48,
-      "market_cap": 2839300602.363037,
-      "headlines": [
-        {
-          "title": "3 Things Smart Investors Know About the Nuclear Power Comeback",
-          "url": "https://finance.yahoo.com/energy/articles/3-things-smart-investors-know-190500726.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-29T19:05:00Z"
-        },
-        {
-          "title": "UUUU's Cash Flow Deficit Narrows in 1H26: What's Next?",
-          "url": "https://finance.yahoo.com/energy/articles/uuuus-cash-flow-deficit-narrows-144500861.html",
-          "publisher": "Zacks",
-          "published": "2026-09-29T14:45:00Z"
-        },
-        {
-          "title": "Is Centrus Energy the Ultimate Pick-and-Shovel Play on the Nuclear Technology Boom?",
-          "url": "https://finance.yahoo.com/energy/articles/centrus-energy-ultimate-pick-shovel-150500233.html",
-          "publisher": "Motley Fool",
-          "published": "2026-09-24T15:05:00Z"
-        }
-      ]
-    },
-    {
       "symbol": "UUUU",
       "name": "Energy Fuels",
-      "price": 10.75,
+      "price": 10.77,
       "previous_close": 11.03,
-      "change_pct": -2.54,
-      "market_cap": 2687123750.0,
+      "change_pct": -2.38,
+      "market_cap": 2851611491.6437225,
       "headlines": [
         {
           "title": "Struggling Energy Stock to Avoid in October",
@@ -1743,12 +1741,40 @@
       ]
     },
     {
+      "symbol": "LEU",
+      "name": "Centrus Energy",
+      "price": 139.0,
+      "previous_close": 139.49,
+      "change_pct": -0.35,
+      "market_cap": 2842982012.0,
+      "headlines": [
+        {
+          "title": "3 Things Smart Investors Know About the Nuclear Power Comeback",
+          "url": "https://finance.yahoo.com/energy/articles/3-things-smart-investors-know-190500726.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-29T19:05:00Z"
+        },
+        {
+          "title": "UUUU's Cash Flow Deficit Narrows in 1H26: What's Next?",
+          "url": "https://finance.yahoo.com/energy/articles/uuuus-cash-flow-deficit-narrows-144500861.html",
+          "publisher": "Zacks",
+          "published": "2026-09-29T14:45:00Z"
+        },
+        {
+          "title": "Is Centrus Energy the Ultimate Pick-and-Shovel Play on the Nuclear Technology Boom?",
+          "url": "https://finance.yahoo.com/energy/articles/centrus-energy-ultimate-pick-shovel-150500233.html",
+          "publisher": "Motley Fool",
+          "published": "2026-09-24T15:05:00Z"
+        }
+      ]
+    },
+    {
       "symbol": "SEDG",
       "name": "SolarEdge",
-      "price": 31.06,
+      "price": 31.12,
       "previous_close": 31.87,
-      "change_pct": -2.56,
-      "market_cap": 1912527820.2514954,
+      "change_pct": -2.35,
+      "market_cap": 1914681329.3944626,
       "headlines": [
         {
           "title": "First Solar Faces Pricing Pressure Amid High Inventory, Slow Project Starts, KeyBanc Says",
@@ -1773,10 +1799,10 @@
     {
       "symbol": "RUN",
       "name": "Sunrun",
-      "price": 7.86,
+      "price": 7.87,
       "previous_close": 7.77,
-      "change_pct": 1.22,
-      "market_cap": 1876190087.6554012,
+      "change_pct": 1.31,
+      "market_cap": 1877382861.3902006,
       "headlines": [
         {
           "title": "AI-Native Services Roll-Up to Shape OTOVO\u2019s Path to Profitable Scale \u2013 Initiation Report",
@@ -1804,7 +1830,7 @@
       "price": 3.14,
       "previous_close": 3.07,
       "change_pct": 2.45,
-      "market_cap": 1143486754.3627167,
+      "market_cap": 1143450288.1331635,
       "headlines": [
         {
           "title": "3 Battery Stocks Trading At Least 15% Below Fair Value",
@@ -1859,28 +1885,9 @@
       "name": "Array Technologies",
       "price": 3.9,
       "previous_close": 4.03,
-      "change_pct": -3.23,
-      "market_cap": 599922888.8700266,
-      "headlines": [
-        {
-          "title": "3 Reasons to Avoid ARRY and 1 Stock to Buy Instead",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-avoid-arry-1-165602865.html",
-          "publisher": "StockStory",
-          "published": "2026-09-29T16:56:02Z"
-        },
-        {
-          "title": "Netflix upgraded, PepsiCo downgraded: Wall Street's top analyst calls",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/netflix-upgraded-carvana-downgraded-wall-135411903.html",
-          "publisher": "The Fly",
-          "published": "2026-09-29T13:52:32Z"
-        },
-        {
-          "title": "Tariff Driven Supply Chain Shift Puts Flex Stock And Factory Reshoring In Focus",
-          "url": "https://finance.yahoo.com/economy/policy/articles/tariff-driven-supply-chain-shift-130836058.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-09-29T13:08:36Z"
-        }
-      ]
+      "change_pct": -3.1,
+      "market_cap": 601461151.1830239,
+      "headlines": []
     }
   ],
   "etfs": [
@@ -1895,8 +1902,8 @@
           "name": "ExxonMobil Holdings Corp",
           "short": "ExxonMobil",
           "weight_pct": 19.86,
-          "change_pct": 0.6,
-          "price": 163.72,
+          "change_pct": 0.67,
+          "price": 163.84,
           "currency": "USD"
         },
         {
@@ -1904,8 +1911,8 @@
           "name": "Chevron Corp",
           "short": "Chevron",
           "weight_pct": 14.89,
-          "change_pct": 1.36,
-          "price": 206.99,
+          "change_pct": 1.29,
+          "price": 206.84,
           "currency": "USD"
         },
         {
@@ -1913,8 +1920,8 @@
           "name": "ConocoPhillips",
           "short": "ConocoPhillips",
           "weight_pct": 6.23,
-          "change_pct": 1.53,
-          "price": 127.06,
+          "change_pct": 1.5,
+          "price": 127.03,
           "currency": "USD"
         },
         {
@@ -1922,8 +1929,8 @@
           "name": "Marathon Petroleum Corp",
           "short": "Marathon",
           "weight_pct": 5.42,
-          "change_pct": 5.16,
-          "price": 415.81,
+          "change_pct": 5.37,
+          "price": 416.64,
           "currency": "USD"
         },
         {
@@ -1931,8 +1938,8 @@
           "name": "Phillips 66",
           "short": "Phillips",
           "weight_pct": 5.33,
-          "change_pct": 3.06,
-          "price": 263.13,
+          "change_pct": 3.17,
+          "price": 263.39,
           "currency": "USD"
         },
         {
@@ -1940,8 +1947,8 @@
           "name": "Valero Energy Corp",
           "short": "Valero",
           "weight_pct": 5.07,
-          "change_pct": 4.57,
-          "price": 405.33,
+          "change_pct": 4.7,
+          "price": 405.83,
           "currency": "USD"
         },
         {
@@ -1949,8 +1956,8 @@
           "name": "SLB Ltd",
           "short": "SLB",
           "weight_pct": 4.88,
-          "change_pct": -1.04,
-          "price": 48.21,
+          "change_pct": -1.1,
+          "price": 48.19,
           "currency": "USD"
         },
         {
@@ -1967,8 +1974,8 @@
           "name": "Williams Companies Inc",
           "short": "Williams",
           "weight_pct": 3.78,
-          "change_pct": 1.88,
-          "price": 69.25,
+          "change_pct": 1.79,
+          "price": 69.19,
           "currency": "USD"
         },
         {
@@ -1976,8 +1983,8 @@
           "name": "Kinder Morgan Inc Class P",
           "short": "Kinder",
           "weight_pct": 3.65,
-          "change_pct": 1.49,
-          "price": 30.6,
+          "change_pct": 1.36,
+          "price": 30.56,
           "currency": "USD"
         }
       ]
@@ -1994,8 +2001,8 @@
         "name": "ExxonMobil Holdings Corp",
         "short": "ExxonMobil",
         "weight_pct": 19.86,
-        "change_pct": 0.6,
-        "price": 163.72,
+        "change_pct": 0.67,
+        "price": 163.84,
         "currency": "USD"
       },
       {
@@ -2003,8 +2010,8 @@
         "name": "Chevron Corp",
         "short": "Chevron",
         "weight_pct": 14.89,
-        "change_pct": 1.36,
-        "price": 206.99,
+        "change_pct": 1.29,
+        "price": 206.84,
         "currency": "USD"
       },
       {
@@ -2012,8 +2019,8 @@
         "name": "ConocoPhillips",
         "short": "ConocoPhillips",
         "weight_pct": 6.23,
-        "change_pct": 1.53,
-        "price": 127.06,
+        "change_pct": 1.5,
+        "price": 127.03,
         "currency": "USD"
       },
       {
@@ -2021,8 +2028,8 @@
         "name": "Marathon Petroleum Corp",
         "short": "Marathon",
         "weight_pct": 5.42,
-        "change_pct": 5.16,
-        "price": 415.81,
+        "change_pct": 5.37,
+        "price": 416.64,
         "currency": "USD"
       },
       {
@@ -2030,8 +2037,8 @@
         "name": "Phillips 66",
         "short": "Phillips",
         "weight_pct": 5.33,
-        "change_pct": 3.06,
-        "price": 263.13,
+        "change_pct": 3.17,
+        "price": 263.39,
         "currency": "USD"
       },
       {
@@ -2039,8 +2046,8 @@
         "name": "Valero Energy Corp",
         "short": "Valero",
         "weight_pct": 5.07,
-        "change_pct": 4.57,
-        "price": 405.33,
+        "change_pct": 4.7,
+        "price": 405.83,
         "currency": "USD"
       },
       {
@@ -2048,8 +2055,8 @@
         "name": "SLB Ltd",
         "short": "SLB",
         "weight_pct": 4.88,
-        "change_pct": -1.04,
-        "price": 48.21,
+        "change_pct": -1.1,
+        "price": 48.19,
         "currency": "USD"
       },
       {
@@ -2066,8 +2073,8 @@
         "name": "Williams Companies Inc",
         "short": "Williams",
         "weight_pct": 3.78,
-        "change_pct": 1.88,
-        "price": 69.25,
+        "change_pct": 1.79,
+        "price": 69.19,
         "currency": "USD"
       },
       {
@@ -2075,8 +2082,8 @@
         "name": "Kinder Morgan Inc Class P",
         "short": "Kinder",
         "weight_pct": 3.65,
-        "change_pct": 1.49,
-        "price": 30.6,
+        "change_pct": 1.36,
+        "price": 30.56,
         "currency": "USD"
       }
     ]
@@ -2084,23 +2091,23 @@
   "tape": [
     {
       "label": "SPX",
-      "price": 7654.15,
-      "change_pct": 0.03
+      "price": 7662.24,
+      "change_pct": 0.14
     },
     {
       "label": "WTI",
-      "price": 93.2,
-      "change_pct": 3.07
+      "price": 93.02,
+      "change_pct": 2.88
     },
     {
       "label": "Brent",
-      "price": 102.59,
-      "change_pct": -0.91
+      "price": 102.49,
+      "change_pct": -1.0
     },
     {
       "label": "NatGas",
-      "price": 2.97,
-      "change_pct": -1.85
+      "price": 2.98,
+      "change_pct": -1.49
     }
   ]
 }
