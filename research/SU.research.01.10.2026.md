@@ -18,7 +18,7 @@ Signed file: `SU.research.01.10.2026`
 | Technical momentum | High | 1Y +68.73%; price +15.97% vs SMA200. |
 | Fresh setup quality | Watch | -3.85% from 52w high and near SMA20 — check for a tight base. |
 | Fundamental quality | Strong | Profit margin 15.78%, revenue growth 45.90%. |
-| Value attractiveness | Reasonable | Forward P/E 11.87, EV/Sales 1.57. |
+| Value attractiveness | Reasonable | Forward P/E 11.91, EV/Sales 1.59. |
 | Risk level | Moderate | Beta 0.56, ATR 2.5% of price, short float —. |
 
 **Bottom line:** High technical momentum, strong fundamentals, value: reasonable, risk: moderate.
@@ -59,8 +59,8 @@ Suncor Energy Inc. operates as an integrated energy company in Canada, the Unite
 | Revenue (ttm) | $56.57B | Revenue growth 45.90% y/y |
 | Profitability | Gross 60.40%, operating 29.94%, net 15.78% | ROA 8.58%, ROE 19.25% |
 | Balance sheet | Cash $5.37B, debt $14.68B | Current ratio 1.65, debt/equity 30.48 |
-| Valuation | P/E 13.09, forward P/E 11.87, P/S 1.43, P/B 2.35 | EV/Sales 1.57, EV/EBITDA 4.55 |
-| Growth expectations | Earnings growth 241.90%, EPS q/q 229.10% | Analyst mean target $69.93 (3 analysts) |
+| Valuation | P/E 13.09, forward P/E 11.91, P/S 1.43, P/B 2.35 | EV/Sales 1.59, EV/EBITDA 4.62 |
+| Growth expectations | Earnings growth 241.90%, EPS q/q 229.10% | Analyst mean target $69.92 (3 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
@@ -101,8 +101,8 @@ Suncor Energy Inc. operates as an integrated energy company in Canada, the Unite
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $69.10 | EV/Sales | 1.57 |
-| Market cap | $80.82B | EV/EBITDA | 4.55 |
+| Price | $69.10 | EV/Sales | 1.59 |
+| Market cap | $80.82B | EV/EBITDA | 4.62 |
 | Beta | 0.56 | Gross margin | 60.40% |
 | RSI(14) | 55.7 | Operating margin | 29.94% |
 | ATR(14) | 1.75 | Profit margin | 15.78% |
@@ -112,7 +112,7 @@ Suncor Energy Inc. operates as an integrated energy company in Canada, the Unite
 | 52W high | $71.87 | Revenue growth y/y | 45.90% |
 | 52W low | $37.39 | Inst. ownership | 72.22% |
 | P/E (ttm) | 13.09 | Insider ownership | 0.01% |
-| Forward P/E | 11.87 | Short float | — |
+| Forward P/E | 11.91 | Short float | — |
 | PEG (trailing) | — | Avg volume | 4,321,715 |
 | P/S | 1.43 | Employees | 15,424 |
 | P/B | 2.35 | Analyst rec (1=buy..5=sell) | 1.9 |

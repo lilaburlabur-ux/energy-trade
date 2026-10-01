@@ -18,7 +18,7 @@ Signed file: `NEE.research.01.10.2026`
 | Technical momentum | Low | Below SMA200 (-11.56%) with negative half-year (-16.55%). |
 | Fresh setup quality | Moderate / wait | -20.83% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 32.40%, revenue growth 12.40%. |
-| Value attractiveness | Reasonable | Forward P/E 17.38, EV/Sales 9.63. |
+| Value attractiveness | Reasonable | Forward P/E 17.38, EV/Sales 9.67. |
 | Risk level | Moderate | Beta 0.64, ATR 1.7% of price, short float 0.00%. |
 
 **Bottom line:** Low technical momentum, strong fundamentals, value: reasonable, risk: moderate.
@@ -59,7 +59,7 @@ NextEra Energy, Inc., through its subsidiaries, generates, stores, transmits, di
 | Revenue (ttm) | $28.70B | Revenue growth 12.40% y/y |
 | Profitability | Gross 61.02%, operating 31.52%, net 32.40% | ROA 2.44%, ROE 11.68% |
 | Balance sheet | Cash $2.87B, debt $110.20B | Current ratio 0.53, debt/equity 161.68 |
-| Valuation | P/E 17.16, forward P/E 17.38, P/S 5.55, P/B 2.79 | EV/Sales 9.63, EV/EBITDA 18.94 |
+| Valuation | P/E 17.16, forward P/E 17.38, P/S 5.55, P/B 2.79 | EV/Sales 9.67, EV/EBITDA 19.02 |
 | Growth expectations | Earnings growth 53.10%, EPS q/q 55.00% | Analyst mean target $98.16 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -100,8 +100,8 @@ NextEra Energy, Inc., through its subsidiaries, generates, stores, transmits, di
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $76.35 | EV/Sales | 9.63 |
-| Market cap | $159.24B | EV/EBITDA | 18.94 |
+| Price | $76.35 | EV/Sales | 9.67 |
+| Market cap | $159.24B | EV/EBITDA | 19.02 |
 | Beta | 0.64 | Gross margin | 61.02% |
 | RSI(14) | 29.5 | Operating margin | 31.52% |
 | ATR(14) | 1.33 | Profit margin | 32.40% |
