@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-10-01T12:11:59+00:00",
-  "as_of_local": "2026-10-01 12:11:59 UTC",
+  "as_of_utc": "2026-10-01T12:16:26+00:00",
+  "as_of_local": "2026-10-01 12:16:26 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -337,6 +337,34 @@
           "url": "https://finance.yahoo.com/energy/articles/diesel-prices-surging-exxonmobil-stock-201130153.html",
           "publisher": "Simply Wall St.",
           "published": "2026-09-30T20:11:30Z"
+        }
+      ]
+    },
+    {
+      "symbol": "EQNR",
+      "name": "Equinor",
+      "price": 41.6,
+      "previous_close": 41.34,
+      "change_pct": 0.63,
+      "market_cap": 98585558867.10312,
+      "headlines": [
+        {
+          "title": "Is Equinor (OB:EQNR) Expensive As Lithium Offtake Progress Lifts The Story?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/equinor-ob-eqnr-expensive-lithium-111118030.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-09-30T11:11:18Z"
+        },
+        {
+          "title": "CRK Advances $1.65B SOCAR Partnership by Signing Framework Agreement",
+          "url": "https://finance.yahoo.com/energy/articles/crk-advances-1-65b-socar-132700295.html",
+          "publisher": "Zacks",
+          "published": "2026-09-29T13:27:00Z"
+        },
+        {
+          "title": "Top Research Reports for Alphabet, Mastercard & AbbVie",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/top-research-reports-alphabet-mastercard-194900973.html",
+          "publisher": "Zacks",
+          "published": "2026-09-28T19:49:00Z"
         }
       ]
     },
@@ -2087,13 +2115,13 @@
     },
     {
       "label": "WTI",
-      "price": 91.66,
-      "change_pct": 1.37
+      "price": 91.77,
+      "change_pct": 1.49
     },
     {
       "label": "Brent",
-      "price": 99.95,
-      "change_pct": -3.46
+      "price": 99.98,
+      "change_pct": -3.43
     },
     {
       "label": "NatGas",
