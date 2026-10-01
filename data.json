@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-10-01T11:35:35+00:00",
-  "as_of_local": "2026-10-01 11:35:35 UTC",
+  "as_of_utc": "2026-10-01T11:40:34+00:00",
+  "as_of_local": "2026-10-01 11:40:34 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "HUBB"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -267,6 +265,12 @@
       "market_cap": 113289311571.74652,
       "headlines": [
         {
+          "title": "Best Value Stocks to Buy for October 1st",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/best-value-stocks-buy-october-102900397.html",
+          "publisher": "Zacks",
+          "published": "2026-10-01T10:29:00Z"
+        },
+        {
           "title": "Best Income Stocks to Buy for October 1st",
           "url": "https://finance.yahoo.com/markets/stocks/articles/best-income-stocks-buy-october-101600795.html",
           "publisher": "Zacks",
@@ -277,12 +281,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/best-momentum-stock-buy-october-100200482.html",
           "publisher": "Zacks",
           "published": "2026-10-01T10:02:00Z"
-        },
-        {
-          "title": "New Strong Buy Stocks for October 1st",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/strong-buy-stocks-october-1st-081400971.html",
-          "publisher": "Zacks",
-          "published": "2026-10-01T08:14:00Z"
         }
       ]
     },
@@ -1179,6 +1177,34 @@
           "url": "https://finance.yahoo.com/energy/articles/halliburton-hal-enters-venezuela-oil-050928239.html",
           "publisher": "Insider Monkey",
           "published": "2026-09-26T05:09:28Z"
+        }
+      ]
+    },
+    {
+      "symbol": "HUBB",
+      "name": "Hubbell",
+      "price": 453.6,
+      "previous_close": 459.09,
+      "change_pct": -1.2,
+      "market_cap": 23964854528.064423,
+      "headlines": [
+        {
+          "title": "3 Reasons We\u2019re Fans of Hubbell (HUBB)",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-fans-hubbell-hubb-162113217.html",
+          "publisher": "StockStory",
+          "published": "2026-09-30T16:21:13Z"
+        },
+        {
+          "title": "9 Green Days In A Row: nVent Electric Stock Is Up 12%",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/9-green-days-row-nvent-175742311.html",
+          "publisher": "Trefis",
+          "published": "2026-09-28T17:57:42Z"
+        },
+        {
+          "title": "What Could Go Wrong With Eaton Stock?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/could-wrong-eaton-stock-004824023.html",
+          "publisher": "Trefis",
+          "published": "2026-09-25T00:48:24Z"
         }
       ]
     },
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 92.24,
-      "change_pct": 2.01
+      "price": 92.19,
+      "change_pct": 1.96
     },
     {
       "label": "Brent",
-      "price": 100.65,
-      "change_pct": -2.78
+      "price": 100.56,
+      "change_pct": -2.87
     },
     {
       "label": "NatGas",
       "price": 2.96,
-      "change_pct": -2.15
+      "change_pct": -2.21
     }
   ]
 }
