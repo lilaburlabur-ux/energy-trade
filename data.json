@@ -1,11 +1,37 @@
 {
-  "as_of_utc": "2026-10-01T10:14:18+00:00",
-  "as_of_local": "2026-10-01 10:14:18 UTC",
+  "as_of_utc": "2026-10-01T10:19:23+00:00",
+  "as_of_local": "2026-10-01 10:19:23 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "XOM"
-  ],
+  "errors": [],
   "stocks": [
+    {
+      "symbol": "XOM",
+      "name": "ExxonMobil",
+      "price": 162.75,
+      "previous_close": 161.35,
+      "change_pct": 0.87,
+      "market_cap": 669213671490.0,
+      "headlines": [
+        {
+          "title": "Diesel Prices Are Surging and ExxonMobil Stock Could Benefit",
+          "url": "https://finance.yahoo.com/energy/articles/diesel-prices-surging-exxonmobil-stock-201130153.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-09-30T20:11:30Z"
+        },
+        {
+          "title": "America\u2019s Strategic Oil Reserves Are at 44-Year Lows \u2014 And Trump Just Gave Away Another 40 Million Barrels",
+          "url": "https://finance.yahoo.com/energy/articles/america-strategic-oil-reserves-44-154116745.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-09-30T15:41:16Z"
+        },
+        {
+          "title": "Why Is SLB (SLB) Expanding Its LNG Footprint With A Mozambique Subsea Win?",
+          "url": "https://finance.yahoo.com/energy/articles/why-slb-slb-expanding-lng-141148026.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-09-30T14:11:48Z"
+        }
+      ]
+    },
     {
       "symbol": "CVX",
       "name": "Chevron",
@@ -1895,8 +1921,8 @@
           "name": "ExxonMobil Holdings Corp",
           "short": "ExxonMobil",
           "weight_pct": 19.86,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": 0.87,
+          "price": 162.75,
           "currency": "USD"
         },
         {
@@ -1994,8 +2020,8 @@
         "name": "ExxonMobil Holdings Corp",
         "short": "ExxonMobil",
         "weight_pct": 19.86,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": 0.87,
+        "price": 162.75,
         "currency": "USD"
       },
       {
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 92.5,
-      "change_pct": 2.3
+      "price": 92.19,
+      "change_pct": 1.96
     },
     {
       "label": "Brent",
-      "price": 100.78,
-      "change_pct": -2.66
+      "price": 100.39,
+      "change_pct": -3.03
     },
     {
       "label": "NatGas",
       "price": 2.95,
-      "change_pct": -2.41
+      "change_pct": -2.51
     }
   ]
 }
