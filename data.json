@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-10-01T01:53:33+00:00",
-  "as_of_local": "2026-10-01 01:53:33 UTC",
+  "as_of_utc": "2026-10-01T02:04:03+00:00",
+  "as_of_local": "2026-10-01 02:04:03 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -1467,7 +1467,26 @@
       "previous_close": 33.57,
       "change_pct": -0.54,
       "market_cap": 10265388022.354126,
-      "headlines": []
+      "headlines": [
+        {
+          "title": "2 of Wall Street\u2019s Favorite Stocks for Long-Term Investors and 1 That Underwhelm",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/2-wall-street-favorite-stocks-101313485.html",
+          "publisher": "StockStory",
+          "published": "2026-09-30T10:13:13Z"
+        },
+        {
+          "title": "WhiteHawk Completes Acquisition of Appalachia, Haynesville Gas Assets",
+          "url": "https://finance.yahoo.com/energy/articles/whitehawk-completes-acquisition-appalachia-haynesville-180342100.html",
+          "publisher": "Rigzone.com",
+          "published": "2026-09-25T18:03:42Z"
+        },
+        {
+          "title": "Update: WhiteHawk Minerals Closes $111.8 Million in Acquisitions",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/whitehawk-minerals-closes-111-8-103017880.html",
+          "publisher": "MT Newswires",
+          "published": "2026-09-25T10:30:17Z"
+        }
+      ]
     },
     {
       "symbol": "BEP",
@@ -2101,13 +2120,13 @@
     },
     {
       "label": "Brent",
-      "price": 97.89,
-      "change_pct": -4.58
+      "price": 97.99,
+      "change_pct": -4.48
     },
     {
       "label": "NatGas",
       "price": 2.99,
-      "change_pct": -0.53
+      "change_pct": -0.56
     }
   ]
 }
