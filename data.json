@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-10-01T10:04:06+00:00",
-  "as_of_local": "2026-10-01 10:04:06 UTC",
+  "as_of_utc": "2026-10-01T10:10:45+00:00",
+  "as_of_local": "2026-10-01 10:10:45 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "COP"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -199,6 +197,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/dominion-energy-d-stock-still-210940048.html",
           "publisher": "Simply Wall St.",
           "published": "2026-09-28T21:09:40Z"
+        }
+      ]
+    },
+    {
+      "symbol": "COP",
+      "name": "ConocoPhillips",
+      "price": 125.15,
+      "previous_close": 125.44,
+      "change_pct": -0.23,
+      "market_cap": 152469496835.01913,
+      "headlines": [
+        {
+          "title": "South Korea Set to Invest $200 Billion in the U.S. These 4 Companies Should Benefit.",
+          "url": "https://www.barrons.com/articles/conocophillips-baker-hughes-energy-korea-c9b25fa1?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-09-30T21:36:00Z"
+        },
+        {
+          "title": "Is ExxonMobil Stock Increasing Your Market Risk?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/exxonmobil-stock-increasing-market-risk-215118428.html",
+          "publisher": "Trefis",
+          "published": "2026-09-29T21:51:18Z"
+        },
+        {
+          "title": "Are Current Oil Prices High Enough to Fuel ExxonMobil's Growth?",
+          "url": "https://finance.yahoo.com/energy/articles/current-oil-prices-high-enough-120100404.html",
+          "publisher": "Zacks",
+          "published": "2026-09-29T12:01:00Z"
         }
       ]
     },
@@ -1913,8 +1939,8 @@
           "name": "ConocoPhillips",
           "short": "ConocoPhillips",
           "weight_pct": 6.23,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": -0.23,
+          "price": 125.15,
           "currency": "USD"
         },
         {
@@ -2012,8 +2038,8 @@
         "name": "ConocoPhillips",
         "short": "ConocoPhillips",
         "weight_pct": 6.23,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": -0.23,
+        "price": 125.15,
         "currency": "USD"
       },
       {
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 92.31,
-      "change_pct": 2.09
+      "price": 92.26,
+      "change_pct": 2.03
     },
     {
       "label": "Brent",
-      "price": 100.58,
-      "change_pct": -2.85
+      "price": 100.5,
+      "change_pct": -2.93
     },
     {
       "label": "NatGas",
-      "price": 2.96,
-      "change_pct": -2.31
+      "price": 2.95,
+      "change_pct": -2.41
     }
   ]
 }
