@@ -59,7 +59,7 @@ Centrus Energy Corp. supplies nuclear fuel components for the nuclear power indu
 | Revenue (ttm) | $473.90M | Revenue growth 14.00% y/y |
 | Profitability | Gross 23.66%, operating 5.34%, net 10.23% | ROA 0.02%, ROE 8.05% |
 | Balance sheet | Cash $1.87B, debt $1.18B | Current ratio 5.39, debt/equity 139.28 |
-| Valuation | P/E 76.86, forward P/E 36.39, P/S 6.00, P/B 3.28 | EV/Sales 4.42, EV/EBITDA 207.15 |
+| Valuation | P/E 73.22, forward P/E 36.39, P/S 6.00, P/B 3.28 | EV/Sales 4.42, EV/EBITDA 207.15 |
 | Growth expectations | Earnings growth -51.60%, EPS q/q -41.90% | Analyst mean target $247.40 (17 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -114,7 +114,7 @@ Centrus Energy Corp. supplies nuclear fuel components for the nuclear power indu
 | SMA200 dist | -30.77% | Revenue (ttm) | $473.90M |
 | 52W high | $436.00 | Revenue growth y/y | 14.00% |
 | 52W low | $138.18 | Inst. ownership | 89.52% |
-| P/E (ttm) | 76.86 | Insider ownership | 1.04% |
+| P/E (ttm) | 73.22 | Insider ownership | 1.04% |
 | Forward P/E | 36.39 | Short float | 27.66% |
 | PEG (trailing) | — | Avg volume | 727,060 |
 | P/S | 6.00 | Employees | 467 |

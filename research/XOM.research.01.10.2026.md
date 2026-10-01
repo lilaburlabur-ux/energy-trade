@@ -4,8 +4,8 @@ Signed file: `XOM.research.01.10.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $163.87 (2026-10-01, ~15-min delayed) |
-| Market cap | $673.82B |
+| Current price | $163.82 (2026-10-01, ~15-min delayed) |
+| Market cap | $673.61B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,8 +15,8 @@ Signed file: `XOM.research.01.10.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +49.55%; price +11.17% vs SMA200. |
-| Fresh setup quality | Watch | -3.22% from 52w high and near SMA20 — check for a tight base. |
+| Technical momentum | Moderate | 1Y +49.51%; price +11.14% vs SMA200. |
+| Fresh setup quality | Watch | -3.25% from 52w high and near SMA20 — check for a tight base. |
 | Fundamental quality | Mixed | Profit margin 9.07%, revenue growth 44.10%. |
 | Value attractiveness | Reasonable | Forward P/E 14.53, EV/Sales 1.96. |
 | Risk level | Moderate | Beta 0.17, ATR 2.2% of price, short float 1.08%. |
@@ -35,22 +35,22 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $163.87; 52w high $169.32 (-3.22%); 52w low $107.52 (+52.40%) |
-| Trend | +11.17% vs SMA200, +2.38% vs SMA50, +0.73% vs SMA20 |
-| Momentum | RSI(14) 54.9 (neutral) |
+| Price vs 52-week range | Close $163.82; 52w high $169.32 (-3.25%); 52w low $107.52 (+52.36%) |
+| Trend | +11.14% vs SMA200, +2.35% vs SMA50, +0.70% vs SMA20 |
+| Momentum | RSI(14) 54.8 (neutral) |
 | Volatility | ATR(14) 3.56 (~2.2% of price); beta 0.17 |
-| Setup perspective | -3.22% from 52w high and near SMA20 — check for a tight base. |
+| Setup perspective | -3.25% from 52w high and near SMA20 — check for a tight base. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +1.1% |
+| Week | +1.0% |
 | Month | -0.4% |
 | Quarter | +20.3% |
-| Half Y | +3.3% |
-| 1Y | +49.6% |
-| YTD | +36.3% |
+| Half Y | +3.2% |
+| 1Y | +49.5% |
+| YTD | +36.2% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -59,7 +59,7 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 | Revenue (ttm) | $361.06B | Revenue growth 44.10% y/y |
 | Profitability | Gross 29.77%, operating 15.86%, net 9.07% | ROA 5.52%, ROE 12.58% |
 | Balance sheet | Cash $10.59B, debt $42.37B | Current ratio 1.14, debt/equity 15.92 |
-| Valuation | P/E 21.12, forward P/E 14.53, P/S 1.87, P/B 2.60 | EV/Sales 1.96, EV/EBITDA 10.42 |
+| Valuation | P/E 21.11, forward P/E 14.53, P/S 1.87, P/B 2.60 | EV/Sales 1.96, EV/EBITDA 10.42 |
 | Growth expectations | Earnings growth 112.80%, EPS q/q 105.10% | Analyst mean target $173.05 (22 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -101,17 +101,17 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $163.87 | EV/Sales | 1.96 |
-| Market cap | $673.82B | EV/EBITDA | 10.42 |
+| Price | $163.82 | EV/Sales | 1.96 |
+| Market cap | $673.61B | EV/EBITDA | 10.42 |
 | Beta | 0.17 | Gross margin | 29.77% |
-| RSI(14) | 54.9 | Operating margin | 15.86% |
+| RSI(14) | 54.8 | Operating margin | 15.86% |
 | ATR(14) | 3.56 | Profit margin | 9.07% |
-| SMA20 dist | +0.73% | ROA | 5.52% |
-| SMA50 dist | +2.38% | ROE | 12.58% |
-| SMA200 dist | +11.17% | Revenue (ttm) | $361.06B |
+| SMA20 dist | +0.70% | ROA | 5.52% |
+| SMA50 dist | +2.35% | ROE | 12.58% |
+| SMA200 dist | +11.14% | Revenue (ttm) | $361.06B |
 | 52W high | $169.32 | Revenue growth y/y | 44.10% |
 | 52W low | $107.52 | Inst. ownership | 67.20% |
-| P/E (ttm) | 21.12 | Insider ownership | 0.08% |
+| P/E (ttm) | 21.11 | Insider ownership | 0.08% |
 | Forward P/E | 14.53 | Short float | 1.08% |
 | PEG (trailing) | 1.38 | Avg volume | 14,298,715 |
 | P/S | 1.87 | Employees | 57,900 |

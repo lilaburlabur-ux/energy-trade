@@ -5,7 +5,7 @@ Signed file: `BP.research.01.10.2026`
 | Field | Value |
 |---|---|
 | Current price | $44.50 (2026-10-01, ~15-min delayed) |
-| Market cap | $114.60B |
+| Market cap | $114.61B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -102,7 +102,7 @@ BP p.l.c., an integrated energy company, engages in the oil and gas business wor
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $44.50 | EV/Sales | 2.36 |
-| Market cap | $114.60B | EV/EBITDA | 12.98 |
+| Market cap | $114.61B | EV/EBITDA | 12.98 |
 | Beta | -0.22 | Gross margin | 28.30% |
 | RSI(14) | 52.3 | Operating margin | 13.15% |
 | ATR(14) | 1.07 | Profit margin | 2.55% |

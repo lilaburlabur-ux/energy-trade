@@ -5,7 +5,7 @@ Signed file: `NXE.research.01.10.2026`
 | Field | Value |
 |---|---|
 | Current price | $8.87 (2026-10-01, ~15-min delayed) |
-| Market cap | $5.87B |
+| Market cap | $5.95B |
 | Sector / Industry | Energy / Uranium |
 | Main theme | Uranium — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
@@ -103,7 +103,7 @@ NexGen Energy Ltd., an exploration and development stage company, engages in the
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $8.87 | EV/Sales | — |
-| Market cap | $5.87B | EV/EBITDA | -53.12 |
+| Market cap | $5.95B | EV/EBITDA | -53.12 |
 | Beta | 1.67 | Gross margin | 0.00% |
 | RSI(14) | 35.6 | Operating margin | 0.00% |
 | ATR(14) | 0.39 | Profit margin | 0.00% |
