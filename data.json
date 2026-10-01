@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-10-01T07:52:24+00:00",
-  "as_of_local": "2026-10-01 07:52:24 UTC",
+  "as_of_utc": "2026-10-01T07:57:33+00:00",
+  "as_of_local": "2026-10-01 07:57:33 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -237,6 +237,12 @@
       "market_cap": 115437588131.74759,
       "headlines": [
         {
+          "title": "Zacks.com featured highlights include Marathon Petroleum, PBF Energy, Ultrapar Participacoes and Repsol",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-com-featured-highlights-marathon-064800707.html",
+          "publisher": "Zacks",
+          "published": "2026-10-01T06:48:00Z"
+        },
+        {
           "title": "4 Low-PEG GARP Stocks to Boost Your Portfolio Amid Rising Market Risks",
           "url": "https://finance.yahoo.com/markets/stocks/articles/4-low-peg-garp-stocks-180000062.html",
           "publisher": "Zacks",
@@ -247,12 +253,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/marathon-petroleum-mpc-stock-still-131022187.html",
           "publisher": "Simply Wall St.",
           "published": "2026-09-30T13:10:22Z"
-        },
-        {
-          "title": "Is Marathon Petroleum (MPC) Stock Outpacing Its Oils-Energy Peers This Year?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/marathon-petroleum-mpc-stock-outpacing-124004781.html",
-          "publisher": "Zacks",
-          "published": "2026-09-30T12:40:04Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 92.13,
-      "change_pct": 1.89
+      "price": 91.89,
+      "change_pct": 1.63
     },
     {
       "label": "Brent",
-      "price": 99.55,
-      "change_pct": -3.84
+      "price": 99.36,
+      "change_pct": -4.03
     },
     {
       "label": "NatGas",
       "price": 2.97,
-      "change_pct": -1.82
+      "change_pct": -1.72
     }
   ]
 }
