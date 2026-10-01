@@ -1,59 +1,10 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-01T19:30:08+00:00",
+  "as_of": "2026-10-01T19:45:44+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": [
-  {
-   "rank": 1,
-   "ticker": "MPC",
-   "company": "Marathon Petroleum Corporation",
-   "move_pct": 5.74,
-   "price": 418.1,
-   "volume": 1434654,
-   "volume_vs_avg": "~0.5x",
-   "heat_score": 38,
-   "direction": "up",
-   "why": "Marathon Petroleum Climbs 5%, Valero Energy Gains 4% as Refiners Outrun Integrated Majors; Exxon Mobil Stays Flat",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/energy/articles/marathon-petroleum-climbs-5-valero-175313853.html",
-   "published": "2026-10-01T17:53:13Z",
-   "sector": "Refining & Downstream"
-  },
-  {
-   "rank": 2,
-   "ticker": "DINO",
-   "company": "HF Sinclair Corporation",
-   "move_pct": 5.13,
-   "price": 112.83,
-   "volume": 1583423,
-   "volume_vs_avg": "~0.6x",
-   "heat_score": 36,
-   "direction": "up",
-   "why": "HF Sinclair's Refining Strength, Strategic Portfolio Moves Aid Outlook",
-   "catalyst_type": "earnings",
-   "source_url": "https://finance.yahoo.com/energy/articles/hf-sinclairs-refining-strength-strategic-170400639.html",
-   "published": "2026-10-01T17:04:00Z",
-   "sector": "Refining & Downstream"
-  },
-  {
-   "rank": 3,
-   "ticker": "VLO",
-   "company": "Valero Energy Corporation",
-   "move_pct": 5.02,
-   "price": 407.07,
-   "volume": 1817279,
-   "volume_vs_avg": "~0.5x",
-   "heat_score": 35,
-   "direction": "up",
-   "why": "Marathon Petroleum Climbs 5%, Valero Energy Gains 4% as Refiners Outrun Integrated Majors; Exxon Mobil Stays Flat",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://finance.yahoo.com/energy/articles/marathon-petroleum-climbs-5-valero-175313853.html",
-   "published": "2026-10-01T17:53:13Z",
-   "sector": "Refining & Downstream"
-  }
- ]
+ "hot_tickers": []
 }
