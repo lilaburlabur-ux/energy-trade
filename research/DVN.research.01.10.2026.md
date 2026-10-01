@@ -4,8 +4,8 @@ Signed file: `DVN.research.01.10.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-10-01, ~15-min delayed) |
-| Market cap | $50.64B |
+| Current price | $47.16 (2026-10-01, ~15-min delayed) |
+| Market cap | $51.88B |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
 | Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `DVN.research.01.10.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +37.94%; price +7.13% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -8.19% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 17.46%, revenue growth 64.20%. |
-| Value attractiveness | Reasonable | Forward P/E 8.55, EV/Sales 3.28. |
-| Risk level | Moderate | Beta 0.43, ATR nan% of price, short float 3.02%. |
+| Value attractiveness | Reasonable | Forward P/E 8.75, EV/Sales 3.28. |
+| Risk level | Moderate | Beta 0.43, ATR 3.0% of price, short float 3.02%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate.
 
@@ -32,34 +32,25 @@ Signed file: `DVN.research.01.10.2026`
 ## 2. Company Overview and Recent Catalysts
 Devon Energy Corporation, an independent energy company, engages in the exploration, development, and production of oil, natural gas, and natural gas liquids in the United States. The company operates in Delaware Basin located in southeast New Mexico and west Texas, Eagle Ford located in North America, Anadarko Basin located in western Oklahoma, Williston Basin located in North Dakota, and Powder River Basin located in Wyoming. Devon Energy Corporation was founded in 1971 and is headquartered in Houston, Texas.
 
-**Recent headlines (potential catalysts):**
-
-| Headline | Source | Date |
-|---|---|---|
-| Devon Energy (DVN) Declines More Than Market: Some Information for Investors | Zacks | 2026-09-30 |
-| Oil Companies Enter 2027 With Their Strongest Balance Sheets in Years. Here's What to Expect Next Year. | Motley Fool | 2026-09-29 |
-| BP vs. Devon (DVN): A Shale Deal That Never Happened Shows Two Different Reset Stories | Insider Monkey | 2026-09-29 |
-| Is Trending Stock Devon Energy Corporation (DVN) a Buy Now? | Zacks | 2026-09-28 |
-
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $51.37 (+nan%); 52w low $30.95 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 44.9 (neutral) |
-| Volatility | ATR(14) 1.45 (~nan% of price); beta 0.43 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $47.16; 52w high $51.37 (-8.19%); 52w low $30.95 (+52.37%) |
+| Trend | +7.13% vs SMA200, +1.08% vs SMA50, -2.17% vs SMA20 |
+| Momentum | RSI(14) 48.4 (neutral) |
+| Volatility | ATR(14) 1.41 (~3.0% of price); beta 0.43 |
+| Setup perspective | -8.19% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -3.6% |
+| Month | -3.2% |
+| Quarter | +17.3% |
+| Half Y | -1.6% |
+| 1Y | +37.9% |
+| YTD | +26.9% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,14 +59,14 @@ Devon Energy Corporation, an independent energy company, engages in the explorat
 | Revenue (ttm) | $18.78B | Revenue growth 64.20% y/y |
 | Profitability | Gross 50.35%, operating 41.08%, net 17.46% | ROA 5.91%, ROE 11.52% |
 | Balance sheet | Cash $950.00M, debt $11.89B | Current ratio 0.72, debt/equity 28.49 |
-| Valuation | P/E 10.01, forward P/E 8.55, P/S 2.70, P/B 1.27 | EV/Sales 3.28, EV/EBITDA 6.90 |
+| Valuation | P/E 10.25, forward P/E 8.75, P/S 2.76, P/B 1.30 | EV/Sales 3.28, EV/EBITDA 6.90 |
 | Growth expectations | Earnings growth 44.00%, EPS q/q 112.60% | Analyst mean target $60.39 (28 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 94.79% |
-| Insider ownership | 0.80% |
+| Institutional ownership | 94.77% |
+| Insider ownership | 0.77% |
 | Short float | 3.02% |
 | Short ratio (days to cover) | 2.9 |
 
@@ -109,21 +100,21 @@ Devon Energy Corporation, an independent energy company, engages in the explorat
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 3.28 |
-| Market cap | $50.64B | EV/EBITDA | 6.90 |
+| Price | $47.16 | EV/Sales | 3.28 |
+| Market cap | $51.88B | EV/EBITDA | 6.90 |
 | Beta | 0.43 | Gross margin | 50.35% |
-| RSI(14) | 44.9 | Operating margin | 41.08% |
-| ATR(14) | 1.45 | Profit margin | 17.46% |
-| SMA20 dist | +nan% | ROA | 5.91% |
-| SMA50 dist | +nan% | ROE | 11.52% |
-| SMA200 dist | +nan% | Revenue (ttm) | $18.78B |
+| RSI(14) | 48.4 | Operating margin | 41.08% |
+| ATR(14) | 1.41 | Profit margin | 17.46% |
+| SMA20 dist | -2.17% | ROA | 5.91% |
+| SMA50 dist | +1.08% | ROE | 11.52% |
+| SMA200 dist | +7.13% | Revenue (ttm) | $18.78B |
 | 52W high | $51.37 | Revenue growth y/y | 64.20% |
-| 52W low | $30.95 | Inst. ownership | 94.79% |
-| P/E (ttm) | 10.01 | Insider ownership | 0.80% |
-| Forward P/E | 8.55 | Short float | 3.02% |
-| PEG (trailing) | 2.92 | Avg volume | 11,545,722 |
-| P/S | 2.70 | Employees | 2,200 |
-| P/B | 1.27 | Analyst rec (1=buy..5=sell) | 1.3 |
+| 52W low | $30.95 | Inst. ownership | 94.77% |
+| P/E (ttm) | 10.25 | Insider ownership | 0.77% |
+| Forward P/E | 8.75 | Short float | 3.02% |
+| PEG (trailing) | 2.92 | Avg volume | 11,512,239 |
+| P/S | 2.76 | Employees | 2,200 |
+| P/B | 1.30 | Analyst rec (1=buy..5=sell) | 1.3 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

@@ -4,8 +4,8 @@ Signed file: `FANG.research.01.10.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-10-01, ~15-min delayed) |
-| Market cap | $51.47B |
+| Current price | $185.51 (2026-10-01, ~15-min delayed) |
+| Market cap | $52.19B |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `FANG.research.01.10.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +32.76%; price +1.42% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -12.30% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 9.03%, revenue growth 52.50%. |
-| Value attractiveness | Reasonable | Forward P/E 9.80, EV/Sales 4.29. |
-| Risk level | Moderate | Beta 0.41, ATR nan% of price, short float 3.93%. |
+| Value attractiveness | Reasonable | Forward P/E 9.89, EV/Sales 4.29. |
+| Risk level | Moderate | Beta 0.41, ATR 2.9% of price, short float 3.93%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
@@ -32,34 +32,25 @@ Signed file: `FANG.research.01.10.2026`
 ## 2. Company Overview and Recent Catalysts
 Diamondback Energy, Inc., an independent oil and natural gas company, acquires, develops, explores, and exploits unconventional, onshore oil and natural gas reserves in the Permian Basin in West Texas, the United States. The company primarily focuses on the development of the Spraberry and Wolfcamp formations of the Midland Basin; and the Wolfcamp and Bone Spring formations of the Delaware Basin, both of which are part of the Permian Basin in West Texas and New Mexico. Diamondback Energy, Inc. was founded in 2007 and is headquartered in Midland, Texas.
 
-**Recent headlines (potential catalysts):**
-
-| Headline | Source | Date |
-|---|---|---|
-| Oil Hovers Around $90: Are Permian Stocks Well Poised to Gain? | Zacks | 2026-09-30 |
-| 1 Growth Stock with All-Star Potential and 2 We Ignore | StockStory | 2026-09-29 |
-| Oil Companies Enter 2027 With Their Strongest Balance Sheets in Years. Here's What to Expect Next Year. | Motley Fool | 2026-09-29 |
-| Oil May Be Stronger Than It Looks—And Diamondback Is on Sale | MarketBeat | 2026-09-25 |
-
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $211.53 (+nan%); 52w low $134.06 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 36.6 (neutral) |
-| Volatility | ATR(14) 5.86 (~nan% of price); beta 0.41 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $185.51; 52w high $211.53 (-12.30%); 52w low $134.06 (+38.38%) |
+| Trend | +1.42% vs SMA200, -6.18% vs SMA50, -4.61% vs SMA20 |
+| Momentum | RSI(14) 39.2 (neutral) |
+| Volatility | ATR(14) 5.43 (~2.9% of price); beta 0.41 |
+| Setup perspective | -12.30% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -1.9% |
+| Month | -8.7% |
+| Quarter | +8.4% |
+| Half Y | -1.6% |
+| 1Y | +32.8% |
+| YTD | +23.9% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +59,13 @@ Diamondback Energy, Inc., an independent oil and natural gas company, acquires, 
 | Revenue (ttm) | $16.25B | Revenue growth 52.50% y/y |
 | Profitability | Gross 72.35%, operating 48.47%, net 9.03% | ROA 1.31%, ROE 3.49% |
 | Balance sheet | Cash $462.00M, debt $12.61B | Current ratio 0.47, debt/equity 28.68 |
-| Valuation | P/E 35.01, forward P/E 9.80, P/S 3.17, P/B 1.36 | EV/Sales 4.29, EV/EBITDA 5.92 |
-| Growth expectations | Earnings growth 179.50%, EPS q/q 169.20% | Analyst mean target $234.52 (29 analysts) |
+| Valuation | P/E 35.40, forward P/E 9.89, P/S 3.21, P/B 1.37 | EV/Sales 4.29, EV/EBITDA 5.92 |
+| Growth expectations | Earnings growth 179.50%, EPS q/q 169.20% | Analyst mean target $234.34 (29 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 73.38% |
+| Institutional ownership | 73.35% |
 | Insider ownership | 23.88% |
 | Short float | 3.93% |
 | Short ratio (days to cover) | 4.0 |
@@ -109,21 +100,21 @@ Diamondback Energy, Inc., an independent oil and natural gas company, acquires, 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 4.29 |
-| Market cap | $51.47B | EV/EBITDA | 5.92 |
+| Price | $185.51 | EV/Sales | 4.29 |
+| Market cap | $52.19B | EV/EBITDA | 5.92 |
 | Beta | 0.41 | Gross margin | 72.35% |
-| RSI(14) | 36.6 | Operating margin | 48.47% |
-| ATR(14) | 5.86 | Profit margin | 9.03% |
-| SMA20 dist | +nan% | ROA | 1.31% |
-| SMA50 dist | +nan% | ROE | 3.49% |
-| SMA200 dist | +nan% | Revenue (ttm) | $16.25B |
+| RSI(14) | 39.2 | Operating margin | 48.47% |
+| ATR(14) | 5.43 | Profit margin | 9.03% |
+| SMA20 dist | -4.61% | ROA | 1.31% |
+| SMA50 dist | -6.18% | ROE | 3.49% |
+| SMA200 dist | +1.42% | Revenue (ttm) | $16.25B |
 | 52W high | $211.53 | Revenue growth y/y | 52.50% |
-| 52W low | $134.06 | Inst. ownership | 73.38% |
-| P/E (ttm) | 35.01 | Insider ownership | 23.88% |
-| Forward P/E | 9.80 | Short float | 3.93% |
-| PEG (trailing) | 22.29 | Avg volume | 2,352,530 |
-| P/S | 3.17 | Employees | 1,762 |
-| P/B | 1.36 | Analyst rec (1=buy..5=sell) | 1.5 |
+| 52W low | $134.06 | Inst. ownership | 73.35% |
+| P/E (ttm) | 35.40 | Insider ownership | 23.88% |
+| Forward P/E | 9.89 | Short float | 3.93% |
+| PEG (trailing) | 22.29 | Avg volume | 2,331,825 |
+| P/S | 3.21 | Employees | 1,762 |
+| P/B | 1.37 | Analyst rec (1=buy..5=sell) | 1.5 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

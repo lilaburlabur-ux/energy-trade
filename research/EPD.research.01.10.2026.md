@@ -4,24 +4,24 @@ Signed file: `EPD.research.01.10.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-10-01, ~15-min delayed) |
-| Market cap | $76.90B |
+| Current price | $35.67 (2026-10-01, ~15-min delayed) |
+| Market cap | $77.03B |
 | Sector / Industry | Energy / Oil & Gas Midstream |
 | Main theme | Oil & Gas Midstream — see catalysts below |
-| Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
+| Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-10-01.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-1.12%) with negative half-year (-1.89%). |
+| Fresh setup quality | Moderate / wait | -9.38% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 10.79%, revenue growth 60.80%. |
-| Value attractiveness | Reasonable | Forward P/E 11.19, EV/Sales 1.91. |
-| Risk level | Moderate | Beta 0.48, ATR nan% of price, short float 2.40%. |
+| Value attractiveness | Reasonable | Forward P/E 11.21, EV/Sales 1.91. |
+| Risk level | Moderate | Beta 0.48, ATR 1.8% of price, short float 2.40%. |
 
-**Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
+**Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -32,34 +32,25 @@ Signed file: `EPD.research.01.10.2026`
 ## 2. Company Overview and Recent Catalysts
 Enterprise Products Partners L.P. provides midstream energy services to producers and consumers of natural gas, natural gas liquids (NGLs), crude oil, petrochemicals, and refined products. It operates in four segments: NGL Pipelines & Services; Crude Oil Pipelines & Services; Natural Gas Pipelines & Services; and Petrochemical & Refined Products Services. The NGL Pipelines & Services segment offers natural gas processing and related NGL marketing activities.
 
-**Recent headlines (potential catalysts):**
-
-| Headline | Source | Date |
-|---|---|---|
-| Enterprise Products Partners (EPD) Suffers a Larger Drop Than the General Market: Key Insights | Zacks | 2026-09-29 |
-| 3 Dividend Stocks That Don't Care Whether Oil Is $70 or $100 | Motley Fool | 2026-09-29 |
-| 5 Dividend Stocks Yielding Over 5% With Fortress Financial Profiles to Buy Now | Motley Fool | 2026-09-27 |
-| SCHD Is Up 20% and Offers Investors a Compelling Yield. But These 3 Dividend Stocks Could Be Even Better Buys Now. | Motley Fool | 2026-09-26 |
-
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $39.36 (+nan%); 52w low $28.35 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 28.1 (oversold) |
-| Volatility | ATR(14) 0.64 (~nan% of price); beta 0.48 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $35.67; 52w high $39.36 (-9.38%); 52w low $28.35 (+25.80%) |
+| Trend | -1.12% vs SMA200, -6.55% vs SMA50, -6.06% vs SMA20 |
+| Momentum | RSI(14) 26.7 (oversold) |
+| Volatility | ATR(14) 0.64 (~1.8% of price); beta 0.48 |
+| Setup perspective | -9.38% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -4.3% |
+| Month | -9.2% |
+| Quarter | -1.5% |
+| Half Y | -1.9% |
+| 1Y | +21.5% |
+| YTD | +16.1% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +59,7 @@ Enterprise Products Partners L.P. provides midstream energy services to producer
 | Revenue (ttm) | $58.47B | Revenue growth 60.80% y/y |
 | Profitability | Gross 13.33%, operating 11.76%, net 10.79% | ROA 5.92%, ROE 20.85% |
 | Balance sheet | Cash $246.00M, debt $34.21B | Current ratio 0.93, debt/equity 109.97 |
-| Valuation | P/E 12.32, forward P/E 11.19, P/S 1.32, P/B 2.54 | EV/Sales 1.91, EV/EBITDA 10.84 |
+| Valuation | P/E 12.34, forward P/E 11.21, P/S 1.32, P/B 2.55 | EV/Sales 1.91, EV/EBITDA 10.84 |
 | Growth expectations | Earnings growth 28.50%, EPS q/q 28.20% | Analyst mean target $41.48 (21 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -109,21 +100,21 @@ Enterprise Products Partners L.P. provides midstream energy services to producer
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 1.91 |
-| Market cap | $76.90B | EV/EBITDA | 10.84 |
+| Price | $35.67 | EV/Sales | 1.91 |
+| Market cap | $77.03B | EV/EBITDA | 10.84 |
 | Beta | 0.48 | Gross margin | 13.33% |
-| RSI(14) | 28.1 | Operating margin | 11.76% |
+| RSI(14) | 26.7 | Operating margin | 11.76% |
 | ATR(14) | 0.64 | Profit margin | 10.79% |
-| SMA20 dist | +nan% | ROA | 5.92% |
-| SMA50 dist | +nan% | ROE | 20.85% |
-| SMA200 dist | +nan% | Revenue (ttm) | $58.47B |
+| SMA20 dist | -6.06% | ROA | 5.92% |
+| SMA50 dist | -6.55% | ROE | 20.85% |
+| SMA200 dist | -1.12% | Revenue (ttm) | $58.47B |
 | 52W high | $39.36 | Revenue growth y/y | 60.80% |
 | 52W low | $28.35 | Inst. ownership | 25.64% |
-| P/E (ttm) | 12.32 | Insider ownership | 33.04% |
-| Forward P/E | 11.19 | Short float | 2.40% |
-| PEG (trailing) | 1.33 | Avg volume | 2,944,612 |
+| P/E (ttm) | 12.34 | Insider ownership | 33.04% |
+| Forward P/E | 11.21 | Short float | 2.40% |
+| PEG (trailing) | 1.33 | Avg volume | 3,002,714 |
 | P/S | 1.32 | Employees | 0 |
-| P/B | 2.54 | Analyst rec (1=buy..5=sell) | 2.3 |
+| P/B | 2.55 | Analyst rec (1=buy..5=sell) | 2.3 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
@@ -138,7 +129,7 @@ Enterprise Products Partners L.P. provides midstream energy services to producer
 | 2026-05-12 | main | JP Morgan | Neutral → Neutral |
 
 ## 9. Conclusion
-EPD: Moderate momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+EPD: Low momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

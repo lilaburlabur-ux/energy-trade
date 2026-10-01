@@ -4,8 +4,8 @@ Signed file: `XOM.research.01.10.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-10-01, ~15-min delayed) |
-| Market cap | $669.21B |
+| Current price | $163.87 (2026-10-01, ~15-min delayed) |
+| Market cap | $673.82B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `XOM.research.01.10.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +49.55%; price +11.17% vs SMA200. |
+| Fresh setup quality | Watch | -3.22% from 52w high and near SMA20 — check for a tight base. |
 | Fundamental quality | Mixed | Profit margin 9.07%, revenue growth 44.10%. |
-| Value attractiveness | Reasonable | Forward P/E 14.43, EV/Sales 1.96. |
-| Risk level | Moderate | Beta 0.17, ATR nan% of price, short float 1.08%. |
+| Value attractiveness | Reasonable | Forward P/E 14.53, EV/Sales 1.96. |
+| Risk level | Moderate | Beta 0.17, ATR 2.2% of price, short float 1.08%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
@@ -32,34 +32,25 @@ Signed file: `XOM.research.01.10.2026`
 ## 2. Company Overview and Recent Catalysts
 ExxonMobil Holdings Corporation engages in the exploration and production of crude oil and natural gas in the United States, Canada, and internationally. The company operates through Upstream, Energy Products, Chemical Products, and Specialty Products segments. Its Upstream segment explores for and produces crude oil and natural gas. The Energy Products segment offers fuels, aromatics, and catalysts, as well as licensing services. Its Chemical Products segment manufactures and sells olefins, polyolefins, and intermediates.
 
-**Recent headlines (potential catalysts):**
-
-| Headline | Source | Date |
-|---|---|---|
-| Diesel Prices Are Surging and ExxonMobil Stock Could Benefit | Simply Wall St. | 2026-09-30 |
-| America’s Strategic Oil Reserves Are at 44-Year Lows — And Trump Just Gave Away Another 40 Million Barrels | 24/7 Wall St. | 2026-09-30 |
-| Why Is SLB (SLB) Expanding Its LNG Footprint With A Mozambique Subsea Win? | Simply Wall St. | 2026-09-30 |
-| Sector Update: Energy Stocks Advance Pre-Bell Wednesday | MT Newswires | 2026-09-30 |
-
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $169.32 (+nan%); 52w low $107.52 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 50.2 (neutral) |
-| Volatility | ATR(14) 3.63 (~nan% of price); beta 0.17 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $163.87; 52w high $169.32 (-3.22%); 52w low $107.52 (+52.40%) |
+| Trend | +11.17% vs SMA200, +2.38% vs SMA50, +0.73% vs SMA20 |
+| Momentum | RSI(14) 54.9 (neutral) |
+| Volatility | ATR(14) 3.56 (~2.2% of price); beta 0.17 |
+| Setup perspective | -3.22% from 52w high and near SMA20 — check for a tight base. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | +1.1% |
+| Month | -0.4% |
+| Quarter | +20.3% |
+| Half Y | +3.3% |
+| 1Y | +49.6% |
+| YTD | +36.3% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +59,13 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 | Revenue (ttm) | $361.06B | Revenue growth 44.10% y/y |
 | Profitability | Gross 29.77%, operating 15.86%, net 9.07% | ROA 5.52%, ROE 12.58% |
 | Balance sheet | Cash $10.59B, debt $42.37B | Current ratio 1.14, debt/equity 15.92 |
-| Valuation | P/E 20.92, forward P/E 14.43, P/S 1.85, P/B 2.58 | EV/Sales 1.96, EV/EBITDA 10.42 |
-| Growth expectations | Earnings growth 112.80%, EPS q/q 105.10% | Analyst mean target $173.09 (22 analysts) |
+| Valuation | P/E 21.12, forward P/E 14.53, P/S 1.87, P/B 2.60 | EV/Sales 1.96, EV/EBITDA 10.42 |
+| Growth expectations | Earnings growth 112.80%, EPS q/q 105.10% | Analyst mean target $173.05 (22 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 67.21% |
+| Institutional ownership | 67.20% |
 | Insider ownership | 0.08% |
 | Short float | 1.08% |
 | Short ratio (days to cover) | 2.8 |
@@ -95,6 +86,7 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 | NORGES BANK | 60,999,693 | 1.47% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
+- **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -109,25 +101,26 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 1.96 |
-| Market cap | $669.21B | EV/EBITDA | 10.42 |
+| Price | $163.87 | EV/Sales | 1.96 |
+| Market cap | $673.82B | EV/EBITDA | 10.42 |
 | Beta | 0.17 | Gross margin | 29.77% |
-| RSI(14) | 50.2 | Operating margin | 15.86% |
-| ATR(14) | 3.63 | Profit margin | 9.07% |
-| SMA20 dist | +nan% | ROA | 5.52% |
-| SMA50 dist | +nan% | ROE | 12.58% |
-| SMA200 dist | +nan% | Revenue (ttm) | $361.06B |
+| RSI(14) | 54.9 | Operating margin | 15.86% |
+| ATR(14) | 3.56 | Profit margin | 9.07% |
+| SMA20 dist | +0.73% | ROA | 5.52% |
+| SMA50 dist | +2.38% | ROE | 12.58% |
+| SMA200 dist | +11.17% | Revenue (ttm) | $361.06B |
 | 52W high | $169.32 | Revenue growth y/y | 44.10% |
-| 52W low | $107.52 | Inst. ownership | 67.21% |
-| P/E (ttm) | 20.92 | Insider ownership | 0.08% |
-| Forward P/E | 14.43 | Short float | 1.08% |
-| PEG (trailing) | 1.38 | Avg volume | 14,288,322 |
-| P/S | 1.85 | Employees | 57,900 |
-| P/B | 2.58 | Analyst rec (1=buy..5=sell) | 2.3 |
+| 52W low | $107.52 | Inst. ownership | 67.20% |
+| P/E (ttm) | 21.12 | Insider ownership | 0.08% |
+| Forward P/E | 14.53 | Short float | 1.08% |
+| PEG (trailing) | 1.38 | Avg volume | 14,298,715 |
+| P/S | 1.87 | Employees | 57,900 |
+| P/B | 2.60 | Analyst rec (1=buy..5=sell) | 2.3 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-10-01 | down | Wells Fargo | Overweight → Equal-Weight |
 | 2026-09-28 | main | TD Cowen | Buy → Buy |
 | 2026-09-03 | main | Piper Sandler | Neutral → Neutral |
 | 2026-08-19 | main | Morgan Stanley | Overweight → Overweight |
@@ -135,7 +128,6 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 | 2026-08-07 | main | TD Cowen | Buy → Buy |
 | 2026-08-04 | up | Freedom Broker | Sell → Hold |
 | 2026-07-28 | down | B of A Securities | Buy → Neutral |
-| 2026-07-09 | main | Mizuho | Neutral → Neutral |
 
 ## 9. Conclusion
 XOM: Moderate momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

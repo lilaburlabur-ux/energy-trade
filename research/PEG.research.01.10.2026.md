@@ -4,24 +4,24 @@ Signed file: `PEG.research.01.10.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-10-01, ~15-min delayed) |
-| Market cap | $33.56B |
+| Current price | $67.89 (2026-10-01, ~15-min delayed) |
+| Market cap | $33.83B |
 | Sector / Industry | Utilities / Utilities - Regulated Electric |
 | Main theme | Utilities - Regulated Electric — see catalysts below |
-| Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
+| Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-10-01.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-12.60%) with negative half-year (-14.93%). |
+| Fresh setup quality | Moderate / wait | -19.89% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 16.04%, revenue growth -8.90%. |
-| Value attractiveness | Reasonable | Forward P/E 14.41, EV/Sales 4.63. |
-| Risk level | Moderate | Beta 0.52, ATR nan% of price, short float 2.50%. |
+| Value attractiveness | Reasonable | Forward P/E 14.53, EV/Sales 4.63. |
+| Risk level | Moderate | Beta 0.52, ATR 1.7% of price, short float 2.50%. |
 
-**Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
+**Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -32,34 +32,25 @@ Signed file: `PEG.research.01.10.2026`
 ## 2. Company Overview and Recent Catalysts
 Public Service Enterprise Group Incorporated, through its subsidiaries, operates in electric and gas utility, and nuclear generation businesses in the United States. It operates through PSE&G and PSEG Power segments. The PSE&G segment transmits electricity; distributes electricity and natural gas to residential, commercial, and industrial customers; and appliance services and repairs to customers through its service territory, as well as invests in solar generation projects, and energy efficiency and related programs.
 
-**Recent headlines (potential catalysts):**
-
-| Headline | Source | Date |
-|---|---|---|
-| Does PSE&G’s New High‑Capacity Stations Mark a Deeper Shift in PEG’s Regulated Investment Strategy? | Simply Wall St. | 2026-09-26 |
-| Public Service Enterprise Group CEO Sells 2,083 Shares | Motley Fool | 2026-09-11 |
-| Public Service Enterprise Group Stock: Is PEG Underperforming the Utilities Sector? | Barchart | 2026-09-10 |
-| Public Service Enterprise Group Inc's Dividend Analysis | GuruFocus.com | 2026-09-09 |
-
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $84.74 (+nan%); 52w low $66.56 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 31.1 (neutral) |
-| Volatility | ATR(14) 1.15 (~nan% of price); beta 0.52 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $67.89; 52w high $84.74 (-19.89%); 52w low $66.56 (+2.00%) |
+| Trend | -12.60% vs SMA200, -6.90% vs SMA50, -2.92% vs SMA20 |
+| Momentum | RSI(14) 34.5 (neutral) |
+| Volatility | ATR(14) 1.15 (~1.7% of price); beta 0.52 |
+| Setup perspective | -19.89% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | +2.0% |
+| Month | -6.8% |
+| Quarter | -16.1% |
+| Half Y | -14.9% |
+| 1Y | -15.9% |
+| YTD | -14.0% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,8 +59,8 @@ Public Service Enterprise Group Incorporated, through its subsidiaries, operates
 | Revenue (ttm) | $12.54B | Revenue growth -8.90% y/y |
 | Profitability | Gross 33.33%, operating 18.87%, net 16.04% | ROA 3.24%, ROE 11.83% |
 | Balance sheet | Cash $192.00M, debt $24.68B | Current ratio 0.88, debt/equity 142.41 |
-| Valuation | P/E 16.75, forward P/E 14.41, P/S 2.68, P/B 1.94 | EV/Sales 4.63, EV/EBITDA 13.01 |
-| Growth expectations | Earnings growth -42.70%, EPS q/q -42.90% | Analyst mean target $85.31 (18 analysts) |
+| Valuation | P/E 16.89, forward P/E 14.53, P/S 2.70, P/B 1.95 | EV/Sales 4.63, EV/EBITDA 13.01 |
+| Growth expectations | Earnings growth -42.70%, EPS q/q -42.90% | Analyst mean target $84.47 (18 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
@@ -109,21 +100,21 @@ Public Service Enterprise Group Incorporated, through its subsidiaries, operates
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 4.63 |
-| Market cap | $33.56B | EV/EBITDA | 13.01 |
+| Price | $67.89 | EV/Sales | 4.63 |
+| Market cap | $33.83B | EV/EBITDA | 13.01 |
 | Beta | 0.52 | Gross margin | 33.33% |
-| RSI(14) | 31.1 | Operating margin | 18.87% |
+| RSI(14) | 34.5 | Operating margin | 18.87% |
 | ATR(14) | 1.15 | Profit margin | 16.04% |
-| SMA20 dist | +nan% | ROA | 3.24% |
-| SMA50 dist | +nan% | ROE | 11.83% |
-| SMA200 dist | +nan% | Revenue (ttm) | $12.54B |
+| SMA20 dist | -2.92% | ROA | 3.24% |
+| SMA50 dist | -6.90% | ROE | 11.83% |
+| SMA200 dist | -12.60% | Revenue (ttm) | $12.54B |
 | 52W high | $84.74 | Revenue growth y/y | -8.90% |
 | 52W low | $66.56 | Inst. ownership | 79.36% |
-| P/E (ttm) | 16.75 | Insider ownership | 0.13% |
-| Forward P/E | 14.41 | Short float | 2.50% |
-| PEG (trailing) | 3.27 | Avg volume | 3,010,577 |
-| P/S | 2.68 | Employees | 13,189 |
-| P/B | 1.94 | Analyst rec (1=buy..5=sell) | 2.3 |
+| P/E (ttm) | 16.89 | Insider ownership | 0.13% |
+| Forward P/E | 14.53 | Short float | 2.50% |
+| PEG (trailing) | 3.27 | Avg volume | 3,019,361 |
+| P/S | 2.70 | Employees | 13,189 |
+| P/B | 1.95 | Analyst rec (1=buy..5=sell) | 2.3 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
@@ -138,7 +129,7 @@ Public Service Enterprise Group Incorporated, through its subsidiaries, operates
 | 2026-07-16 | main | Truist Securities | Hold → Hold |
 
 ## 9. Conclusion
-PEG: Moderate momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+PEG: Low momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

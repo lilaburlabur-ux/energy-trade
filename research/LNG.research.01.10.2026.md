@@ -4,8 +4,8 @@ Signed file: `LNG.research.01.10.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-10-01, ~15-min delayed) |
-| Market cap | $55.56B |
+| Current price | $272.40 (2026-10-01, ~15-min delayed) |
+| Market cap | $56.26B |
 | Sector / Industry | Energy / Oil & Gas Midstream |
 | Main theme | Oil & Gas Midstream — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `LNG.research.01.10.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +17.07%; price +10.87% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -7.93% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 13.94%, revenue growth 22.70%. |
-| Value attractiveness | Reasonable | Forward P/E 12.77, EV/Sales 4.19. |
-| Risk level | Moderate | Beta -0.00, ATR nan% of price, short float 1.89%. |
+| Value attractiveness | Reasonable | Forward P/E 12.93, EV/Sales 4.19. |
+| Risk level | Moderate | Beta -0.00, ATR 2.6% of price, short float 1.89%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
@@ -32,34 +32,25 @@ Signed file: `LNG.research.01.10.2026`
 ## 2. Company Overview and Recent Catalysts
 Cheniere Energy, Inc., an energy infrastructure company, primarily engages in the liquefied natural gas (LNG) related businesses in the United States. The company owns and operates the Sabine Pass LNG terminal in Cameron Parish, Louisiana; and the Corpus Christi LNG terminal near Corpus Christi, Texas.
 
-**Recent headlines (potential catalysts):**
-
-| Headline | Source | Date |
-|---|---|---|
-| Cheniere Energy's Petrobras LNG Deal Supports Long-Term Growth | Zacks | 2026-09-30 |
-| Sector Update: Energy Stocks Fall Late Afternoon | MT Newswires | 2026-09-29 |
-| Sector Update: Energy Stocks Softer Tuesday Afternoon | MT Newswires | 2026-09-29 |
-| 5 Energy Stocks Positioned for a Prolonged Iran War | Oilprice.com | 2026-09-25 |
-
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $295.86 (+nan%); 52w low $187.49 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 43.1 (neutral) |
-| Volatility | ATR(14) 7.45 (~nan% of price); beta -0.00 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $272.40; 52w high $295.86 (-7.93%); 52w low $187.49 (+45.29%) |
+| Trend | +10.87% vs SMA200, +0.15% vs SMA50, -0.71% vs SMA20 |
+| Momentum | RSI(14) 49.2 (neutral) |
+| Volatility | ATR(14) 7.12 (~2.6% of price); beta -0.00 |
+| Setup perspective | -7.93% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -1.4% |
+| Month | -7.4% |
+| Quarter | +11.0% |
+| Half Y | -0.8% |
+| 1Y | +17.1% |
+| YTD | +38.7% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,14 +59,14 @@ Cheniere Energy, Inc., an energy infrastructure company, primarily engages in th
 | Revenue (ttm) | $20.92B | Revenue growth 22.70% y/y |
 | Profitability | Gross 36.85%, operating 75.00%, net 13.94% | ROA 8.63%, ROE 39.12% |
 | Balance sheet | Cash $1.12B, debt $27.97B | Current ratio 0.87, debt/equity 243.42 |
-| Valuation | P/E 20.38, forward P/E 12.77, P/S 2.66, P/B 9.03 | EV/Sales 4.19, EV/EBITDA 11.21 |
+| Valuation | P/E 20.62, forward P/E 12.93, P/S 2.69, P/B 9.15 | EV/Sales 4.19, EV/EBITDA 11.21 |
 | Growth expectations | Earnings growth 100.70%, EPS q/q 88.70% | Analyst mean target $310.19 (21 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 91.54% |
-| Insider ownership | 0.66% |
+| Institutional ownership | 91.53% |
+| Insider ownership | 0.63% |
 | Short float | 1.89% |
 | Short ratio (days to cover) | 2.0 |
 
@@ -95,6 +86,7 @@ Cheniere Energy, Inc., an energy infrastructure company, primarily engages in th
 | JPMORGAN CHASE & CO | 3,109,949 | 1.51% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
+- **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -109,21 +101,21 @@ Cheniere Energy, Inc., an energy infrastructure company, primarily engages in th
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 4.19 |
-| Market cap | $55.56B | EV/EBITDA | 11.21 |
+| Price | $272.40 | EV/Sales | 4.19 |
+| Market cap | $56.26B | EV/EBITDA | 11.21 |
 | Beta | -0.00 | Gross margin | 36.85% |
-| RSI(14) | 43.1 | Operating margin | 75.00% |
-| ATR(14) | 7.45 | Profit margin | 13.94% |
-| SMA20 dist | +nan% | ROA | 8.63% |
-| SMA50 dist | +nan% | ROE | 39.12% |
-| SMA200 dist | +nan% | Revenue (ttm) | $20.92B |
+| RSI(14) | 49.2 | Operating margin | 75.00% |
+| ATR(14) | 7.12 | Profit margin | 13.94% |
+| SMA20 dist | -0.71% | ROA | 8.63% |
+| SMA50 dist | +0.15% | ROE | 39.12% |
+| SMA200 dist | +10.87% | Revenue (ttm) | $20.92B |
 | 52W high | $295.86 | Revenue growth y/y | 22.70% |
-| 52W low | $187.49 | Inst. ownership | 91.54% |
-| P/E (ttm) | 20.38 | Insider ownership | 0.66% |
-| Forward P/E | 12.77 | Short float | 1.89% |
-| PEG (trailing) | — | Avg volume | 1,868,992 |
-| P/S | 2.66 | Employees | 1,717 |
-| P/B | 9.03 | Analyst rec (1=buy..5=sell) | 1.4 |
+| 52W low | $187.49 | Inst. ownership | 91.53% |
+| P/E (ttm) | 20.62 | Insider ownership | 0.63% |
+| Forward P/E | 12.93 | Short float | 1.89% |
+| PEG (trailing) | — | Avg volume | 1,867,946 |
+| P/S | 2.69 | Employees | 1,717 |
+| P/B | 9.15 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
