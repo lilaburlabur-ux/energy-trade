@@ -59,7 +59,7 @@ NRG Energy, Inc., together with its subsidiaries, operates as an energy and home
 | Revenue (ttm) | $33.12B | Revenue growth 11.00% y/y |
 | Profitability | Gross 18.80%, operating 12.77%, net 2.56% | ROA 4.06%, ROE 23.77% |
 | Balance sheet | Cash $162.00M, debt $23.47B | Current ratio 0.97, debt/equity 483.36 |
-| Valuation | P/E 25.24, forward P/E 8.66, P/S 0.62, P/B 4.85 | EV/Sales 1.33, EV/EBITDA 13.54 |
+| Valuation | P/E 25.18, forward P/E 8.66, P/S 0.62, P/B 4.85 | EV/Sales 1.33, EV/EBITDA 13.54 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $185.50 (16 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -112,7 +112,7 @@ NRG Energy, Inc., together with its subsidiaries, operates as an energy and home
 | SMA200 dist | -30.99% | Revenue (ttm) | $33.12B |
 | 52W high | $182.82 | Revenue growth y/y | 11.00% |
 | 52W low | $95.65 | Inst. ownership | 95.70% |
-| P/E (ttm) | 25.24 | Insider ownership | 4.46% |
+| P/E (ttm) | 25.18 | Insider ownership | 4.46% |
 | Forward P/E | 8.66 | Short float | 3.71% |
 | PEG (trailing) | 0.39 | Avg volume | 2,778,255 |
 | P/S | 0.62 | Employees | 16,702 |

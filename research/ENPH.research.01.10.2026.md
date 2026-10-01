@@ -5,7 +5,7 @@ Signed file: `ENPH.research.01.10.2026`
 | Field | Value |
 |---|---|
 | Current price | $32.82 (2026-10-01, ~15-min delayed) |
-| Market cap | $4.34B |
+| Market cap | $4.33B |
 | Sector / Industry | Technology / Solar |
 | Main theme | Solar — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: high. |
@@ -104,7 +104,7 @@ Enphase Energy, Inc., together with its subsidiaries, designs, develops, manufac
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $32.82 | EV/Sales | 3.04 |
-| Market cap | $4.34B | EV/EBITDA | 21.04 |
+| Market cap | $4.33B | EV/EBITDA | 21.04 |
 | Beta | 1.64 | Gross margin | 30.04% |
 | RSI(14) | 39.2 | Operating margin | 17.98% |
 | ATR(14) | 1.78 | Profit margin | 10.09% |
