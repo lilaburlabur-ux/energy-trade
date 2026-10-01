@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-10-01T02:28:51+00:00",
-  "as_of_local": "2026-10-01 02:28:51 UTC",
+  "as_of_utc": "2026-10-01T02:44:03+00:00",
+  "as_of_local": "2026-10-01 02:44:03 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -63,10 +63,10 @@
     {
       "symbol": "SHEL",
       "name": "Shell",
-      "price": 95.14,
-      "previous_close": 96.47,
-      "change_pct": -1.38,
-      "market_cap": 270978178165.05,
+      "price": 95.05,
+      "previous_close": 95.14,
+      "change_pct": -0.09,
+      "market_cap": 270978186865.3106,
       "headlines": [
         {
           "title": "TC Energy Advances Coastal GasLink Phase 2 Expansion Plans",
@@ -1183,10 +1183,10 @@
     {
       "symbol": "HUBB",
       "name": "Hubbell",
-      "price": 459.09,
-      "previous_close": 465.72,
-      "change_pct": -1.42,
-      "market_cap": 23964854205.600002,
+      "price": 453.6,
+      "previous_close": 459.09,
+      "change_pct": -1.2,
+      "market_cap": 23964854528.064423,
       "headlines": [
         {
           "title": "3 Reasons We\u2019re Fans of Hubbell (HUBB)",
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 90.3,
-      "change_pct": 1.03
+      "price": 89.92,
+      "change_pct": 0.6
     },
     {
       "label": "Brent",
-      "price": 98.09,
-      "change_pct": -4.39
+      "price": 97.72,
+      "change_pct": -4.75
     },
     {
       "label": "NatGas",
       "price": 2.99,
-      "change_pct": -0.53
+      "change_pct": -0.6
     }
   ]
 }
