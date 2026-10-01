@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-10-01T11:45:39+00:00",
-  "as_of_local": "2026-10-01 11:45:39 UTC",
+  "as_of_utc": "2026-10-01T11:50:41+00:00",
+  "as_of_local": "2026-10-01 11:50:41 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -237,6 +237,12 @@
       "market_cap": 113289311571.74652,
       "headlines": [
         {
+          "title": "Best Growth Stocks to Buy for October 1st",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/best-growth-stocks-buy-october-104300313.html",
+          "publisher": "Zacks",
+          "published": "2026-10-01T10:43:00Z"
+        },
+        {
           "title": "Best Value Stocks to Buy for October 1st",
           "url": "https://finance.yahoo.com/markets/stocks/articles/best-value-stocks-buy-october-102900397.html",
           "publisher": "Zacks",
@@ -247,12 +253,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/best-income-stocks-buy-october-101600795.html",
           "publisher": "Zacks",
           "published": "2026-10-01T10:16:00Z"
-        },
-        {
-          "title": "Best Momentum Stock to Buy for October 1st",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/best-momentum-stock-buy-october-100200482.html",
-          "publisher": "Zacks",
-          "published": "2026-10-01T10:02:00Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 92.23,
-      "change_pct": 2.0
+      "price": 92.22,
+      "change_pct": 1.99
     },
     {
       "label": "Brent",
-      "price": 100.6,
-      "change_pct": -2.83
+      "price": 100.59,
+      "change_pct": -2.84
     },
     {
       "label": "NatGas",
-      "price": 2.96,
-      "change_pct": -2.05
+      "price": 2.97,
+      "change_pct": -1.78
     }
   ]
 }
