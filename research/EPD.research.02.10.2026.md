@@ -18,7 +18,7 @@ Signed file: `EPD.research.02.10.2026`
 | Technical momentum | Moderate | 1Y +23.67%; price +0.22% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -8.08% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 10.79%, revenue growth 60.80%. |
-| Value attractiveness | Reasonable | Forward P/E 11.37, EV/Sales 1.91. |
+| Value attractiveness | Reasonable | Forward P/E 11.37, EV/Sales 1.93. |
 | Risk level | Moderate | Beta 0.48, ATR 1.8% of price, short float 2.40%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -59,7 +59,7 @@ Enterprise Products Partners L.P. provides midstream energy services to producer
 | Revenue (ttm) | $58.47B | Revenue growth 60.80% y/y |
 | Profitability | Gross 13.33%, operating 11.76%, net 10.79% | ROA 5.92%, ROE 20.85% |
 | Balance sheet | Cash $246.00M, debt $34.21B | Current ratio 0.93, debt/equity 109.97 |
-| Valuation | P/E 12.52, forward P/E 11.37, P/S 1.34, P/B 2.58 | EV/Sales 1.91, EV/EBITDA 10.85 |
+| Valuation | P/E 12.52, forward P/E 11.37, P/S 1.34, P/B 2.58 | EV/Sales 1.93, EV/EBITDA 10.96 |
 | Growth expectations | Earnings growth 28.50%, EPS q/q 28.20% | Analyst mean target $41.48 (21 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -100,8 +100,8 @@ Enterprise Products Partners L.P. provides midstream energy services to producer
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $36.18 | EV/Sales | 1.91 |
-| Market cap | $78.13B | EV/EBITDA | 10.85 |
+| Price | $36.18 | EV/Sales | 1.93 |
+| Market cap | $78.13B | EV/EBITDA | 10.96 |
 | Beta | 0.48 | Gross margin | 13.33% |
 | RSI(14) | 34.4 | Operating margin | 11.76% |
 | ATR(14) | 0.65 | Profit margin | 10.79% |
