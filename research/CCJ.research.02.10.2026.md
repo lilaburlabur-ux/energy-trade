@@ -60,7 +60,7 @@ Cameco Corporation provides uranium for the generation of electricity in the Ame
 | Profitability | Gross 35.11%, operating 9.11%, net 10.21% | ROA 2.98%, ROE 5.11% |
 | Balance sheet | Cash $1.11B, debt $1.22B | Current ratio 3.06, debt/equity 17.13 |
 | Valuation | P/E 149.44, forward P/E 46.64, P/S 10.68, P/B 7.28 | EV/Sales 10.77, EV/EBITDA 46.88 |
-| Growth expectations | Earnings growth -92.10%, EPS q/q -92.10% | Analyst mean target $126.75 (11 analysts) |
+| Growth expectations | Earnings growth -92.10%, EPS q/q -92.10% | Analyst mean target $126.76 (11 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
