@@ -4,24 +4,24 @@ Signed file: `PWR.research.02.10.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-10-02, ~15-min delayed) |
-| Market cap | $99.62B |
+| Current price | $676.56 (2026-10-02, ~15-min delayed) |
+| Market cap | $101.72B |
 | Sector / Industry | Industrials / Engineering & Construction |
 | Main theme | Engineering & Construction — see catalysts below |
-| Current stance | Moderate technical momentum, mixed fundamentals, value: fair-to-demanding, risk: moderate. |
+| Current stance | High technical momentum, mixed fundamentals, value: fair-to-demanding, risk: elevated. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-10-02.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +60.96%; price +11.75% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -13.81% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 4.03%, revenue growth 41.10%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 33.51, EV/Sales 3.22. |
-| Risk level | Moderate | Beta 1.20, ATR nan% of price, short float 2.40%. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 34.21, EV/Sales 3.22. |
+| Risk level | Elevated | Beta 1.20, ATR 3.2% of price, short float 2.40%. |
 
-**Bottom line:** Moderate technical momentum, mixed fundamentals, value: fair-to-demanding, risk: moderate.
+**Bottom line:** High technical momentum, mixed fundamentals, value: fair-to-demanding, risk: elevated.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -35,22 +35,22 @@ Quanta Services, Inc. offers infrastructure solutions for the electric and gas u
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $785.12 (+nan%); 52w low $411.96 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 51.6 (neutral) |
-| Volatility | ATR(14) 21.25 (~nan% of price); beta 1.20 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $676.56; 52w high $784.99 (-13.81%); 52w low $411.89 (+64.26%) |
+| Trend | +11.75% vs SMA200, +5.23% vs SMA50, +6.07% vs SMA20 |
+| Momentum | RSI(14) 61.6 (neutral) |
+| Volatility | ATR(14) 21.53 (~3.2% of price); beta 1.20 |
+| Setup perspective | -13.81% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | +4.2% |
+| Month | +10.8% |
+| Quarter | +0.4% |
+| Half Y | +20.7% |
+| 1Y | +61.0% |
+| YTD | +54.0% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -59,13 +59,13 @@ Quanta Services, Inc. offers infrastructure solutions for the electric and gas u
 | Revenue (ttm) | $32.91B | Revenue growth 41.10% y/y |
 | Profitability | Gross 15.46%, operating 7.22%, net 4.03% | ROA 5.23%, ROE 15.34% |
 | Balance sheet | Cash $506.43M, debt $6.60B | Current ratio 1.10, debt/equity 67.78 |
-| Valuation | P/E 75.81, forward P/E 33.51, P/S 3.03, P/B 10.33 | EV/Sales 3.22, EV/EBITDA 34.75 |
+| Valuation | P/E 77.32, forward P/E 34.21, P/S 3.09, P/B 10.55 | EV/Sales 3.22, EV/EBITDA 34.75 |
 | Growth expectations | Earnings growth 94.70%, EPS q/q 96.90% | Analyst mean target $769.04 (29 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 94.10% |
+| Institutional ownership | 94.07% |
 | Insider ownership | 0.67% |
 | Short float | 2.40% |
 | Short ratio (days to cover) | 3.0 |
@@ -86,7 +86,8 @@ Quanta Services, Inc. offers infrastructure solutions for the electric and gas u
 | Morgan Stanley | 2,311,374 | 1.54% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 33.51, EV/Sales 3.22. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 34.21, EV/Sales 3.22. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 1.20, ATR 3.2% of price, short float 2.40%. Size positions accordingly.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -101,21 +102,21 @@ Quanta Services, Inc. offers infrastructure solutions for the electric and gas u
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 3.22 |
-| Market cap | $99.62B | EV/EBITDA | 34.75 |
+| Price | $676.56 | EV/Sales | 3.22 |
+| Market cap | $101.72B | EV/EBITDA | 34.75 |
 | Beta | 1.20 | Gross margin | 15.46% |
-| RSI(14) | 51.6 | Operating margin | 7.22% |
-| ATR(14) | 21.25 | Profit margin | 4.03% |
-| SMA20 dist | +nan% | ROA | 5.23% |
-| SMA50 dist | +nan% | ROE | 15.34% |
-| SMA200 dist | +nan% | Revenue (ttm) | $32.91B |
-| 52W high | $785.12 | Revenue growth y/y | 41.10% |
-| 52W low | $411.96 | Inst. ownership | 94.10% |
-| P/E (ttm) | 75.81 | Insider ownership | 0.67% |
-| Forward P/E | 33.51 | Short float | 2.40% |
-| PEG (trailing) | 1.45 | Avg volume | 1,026,639 |
-| P/S | 3.03 | Employees | 69,500 |
-| P/B | 10.33 | Analyst rec (1=buy..5=sell) | 1.5 |
+| RSI(14) | 61.6 | Operating margin | 7.22% |
+| ATR(14) | 21.53 | Profit margin | 4.03% |
+| SMA20 dist | +6.07% | ROA | 5.23% |
+| SMA50 dist | +5.23% | ROE | 15.34% |
+| SMA200 dist | +11.75% | Revenue (ttm) | $32.91B |
+| 52W high | $784.99 | Revenue growth y/y | 41.10% |
+| 52W low | $411.89 | Inst. ownership | 94.07% |
+| P/E (ttm) | 77.32 | Insider ownership | 0.67% |
+| Forward P/E | 34.21 | Short float | 2.40% |
+| PEG (trailing) | 1.45 | Avg volume | 1,020,777 |
+| P/S | 3.09 | Employees | 69,500 |
+| P/B | 10.55 | Analyst rec (1=buy..5=sell) | 1.5 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
@@ -130,7 +131,7 @@ Quanta Services, Inc. offers infrastructure solutions for the electric and gas u
 | 2026-07-31 | main | Citigroup | Buy → Buy |
 
 ## 9. Conclusion
-PWR: Moderate momentum / mixed fundamentals / fair-to-demanding value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+PWR: High momentum / mixed fundamentals / fair-to-demanding value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

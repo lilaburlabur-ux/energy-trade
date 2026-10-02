@@ -1,25 +1,25 @@
 {
-  "as_of_utc": "2026-10-02T20:17:10+00:00",
-  "as_of_local": "2026-10-02 20:17:10 UTC",
+  "as_of_utc": "2026-10-02T20:18:55+00:00",
+  "as_of_local": "2026-10-02 20:18:55 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
       "name": "ExxonMobil",
-      "price": 164.12,
+      "price": 164.01,
       "previous_close": 163.82,
-      "change_pct": 0.18,
-      "market_cap": 674826453902.807,
+      "change_pct": 0.12,
+      "market_cap": 674394657972.193,
       "headlines": []
     },
     {
       "symbol": "CVX",
       "name": "Chevron",
-      "price": 206.77,
+      "price": 206.69,
       "previous_close": 207.1,
-      "change_pct": -0.16,
-      "market_cap": 405600717345.8534,
+      "change_pct": -0.2,
+      "market_cap": 405443785492.1305,
       "headlines": []
     },
     {
@@ -360,17 +360,17 @@
       "name": "EQT Corp",
       "price": 50.18,
       "previous_close": 50.09,
-      "change_pct": 0.18,
-      "market_cap": 31388393070.892334,
+      "change_pct": 0.16,
+      "market_cap": 31382136574.645996,
       "headlines": []
     },
     {
       "symbol": "FTI",
       "name": "TechnipFMC",
-      "price": 68.81,
+      "price": 68.82,
       "previous_close": 68.85,
-      "change_pct": -0.06,
-      "market_cap": 26984830580.847412,
+      "change_pct": -0.04,
+      "market_cap": 26988753062.480927,
       "headlines": []
     },
     {
@@ -629,8 +629,8 @@
           "name": "ExxonMobil Holdings Corp",
           "short": "ExxonMobil",
           "weight_pct": 19.86,
-          "change_pct": 0.18,
-          "price": 164.12,
+          "change_pct": 0.12,
+          "price": 164.01,
           "currency": "USD"
         },
         {
@@ -638,8 +638,8 @@
           "name": "Chevron Corp",
           "short": "Chevron",
           "weight_pct": 14.89,
-          "change_pct": -0.16,
-          "price": 206.77,
+          "change_pct": -0.2,
+          "price": 206.69,
           "currency": "USD"
         },
         {
@@ -728,8 +728,8 @@
         "name": "ExxonMobil Holdings Corp",
         "short": "ExxonMobil",
         "weight_pct": 19.86,
-        "change_pct": 0.18,
-        "price": 164.12,
+        "change_pct": 0.12,
+        "price": 164.01,
         "currency": "USD"
       },
       {
@@ -737,8 +737,8 @@
         "name": "Chevron Corp",
         "short": "Chevron",
         "weight_pct": 14.89,
-        "change_pct": -0.16,
-        "price": 206.77,
+        "change_pct": -0.2,
+        "price": 206.69,
         "currency": "USD"
       },
       {
@@ -823,13 +823,13 @@
     },
     {
       "label": "WTI",
-      "price": 91.46,
-      "change_pct": -1.52
+      "price": 91.51,
+      "change_pct": -1.46
     },
     {
       "label": "Brent",
-      "price": 102.83,
-      "change_pct": 0.51
+      "price": 102.92,
+      "change_pct": 0.6
     },
     {
       "label": "NatGas",

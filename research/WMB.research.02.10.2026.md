@@ -4,8 +4,8 @@ Signed file: `WMB.research.02.10.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-10-02, ~15-min delayed) |
-| Market cap | $84.67B |
+| Current price | $70.54 (2026-10-02, ~15-min delayed) |
+| Market cap | $86.28B |
 | Sector / Industry | Energy / Oil & Gas Midstream |
 | Main theme | Oil & Gas Midstream — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: fair-to-demanding, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `WMB.research.02.10.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +14.13%; price +0.42% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -9.85% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 24.94%, revenue growth 7.80%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 26.16, EV/Sales 9.53. |
-| Risk level | Moderate | Beta 0.62, ATR nan% of price, short float 2.22%. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 26.66, EV/Sales 9.53. |
+| Risk level | Moderate | Beta 0.62, ATR 2.5% of price, short float 2.22%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: fair-to-demanding, risk: moderate.
 
@@ -35,22 +35,22 @@ The Williams Companies, Inc., together with its subsidiaries, operates as an ene
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $78.25 (+nan%); 52w low $54.84 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 32.5 (neutral) |
-| Volatility | ATR(14) 1.74 (~nan% of price); beta 0.62 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $70.54; 52w high $78.25 (-9.85%); 52w low $54.84 (+28.63%) |
+| Trend | +0.42% vs SMA200, -1.69% vs SMA50, -1.06% vs SMA20 |
+| Momentum | RSI(14) 47.2 (neutral) |
+| Volatility | ATR(14) 1.77 (~2.5% of price); beta 0.62 |
+| Setup perspective | -9.85% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | +1.8% |
+| Month | -5.5% |
+| Quarter | -2.4% |
+| Half Y | -0.6% |
+| 1Y | +14.1% |
+| YTD | +18.5% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -59,13 +59,13 @@ The Williams Companies, Inc., together with its subsidiaries, operates as an ene
 | Revenue (ttm) | $12.32B | Revenue growth 7.80% y/y |
 | Profitability | Gross 63.64%, operating 39.54%, net 24.94% | ROA 5.03%, ROE 21.50% |
 | Balance sheet | Cash $203.00M, debt $30.79B | Current ratio 0.48, debt/equity 200.37 |
-| Valuation | P/E 27.58, forward P/E 26.16, P/S 6.87, P/B 6.44 | EV/Sales 9.53, EV/EBITDA 16.70 |
+| Valuation | P/E 28.10, forward P/E 26.66, P/S 7.00, P/B 6.56 | EV/Sales 9.53, EV/EBITDA 16.70 |
 | Growth expectations | Earnings growth 51.20%, EPS q/q 51.50% | Analyst mean target $85.46 (24 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 91.41% |
+| Institutional ownership | 91.45% |
 | Insider ownership | 0.45% |
 | Short float | 2.22% |
 | Short ratio (days to cover) | 3.1 |
@@ -86,7 +86,7 @@ The Williams Companies, Inc., together with its subsidiaries, operates as an ene
 | JPMORGAN CHASE & CO | 21,379,796 | 1.75% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 26.16, EV/Sales 9.53. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 26.66, EV/Sales 9.53. Multiple compression is the main downside if growth disappoints.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -101,21 +101,21 @@ The Williams Companies, Inc., together with its subsidiaries, operates as an ene
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 9.53 |
-| Market cap | $84.67B | EV/EBITDA | 16.70 |
+| Price | $70.54 | EV/Sales | 9.53 |
+| Market cap | $86.28B | EV/EBITDA | 16.70 |
 | Beta | 0.62 | Gross margin | 63.64% |
-| RSI(14) | 32.5 | Operating margin | 39.54% |
-| ATR(14) | 1.74 | Profit margin | 24.94% |
-| SMA20 dist | +nan% | ROA | 5.03% |
-| SMA50 dist | +nan% | ROE | 21.50% |
-| SMA200 dist | +nan% | Revenue (ttm) | $12.32B |
+| RSI(14) | 47.2 | Operating margin | 39.54% |
+| ATR(14) | 1.77 | Profit margin | 24.94% |
+| SMA20 dist | -1.06% | ROA | 5.03% |
+| SMA50 dist | -1.69% | ROE | 21.50% |
+| SMA200 dist | +0.42% | Revenue (ttm) | $12.32B |
 | 52W high | $78.25 | Revenue growth y/y | 7.80% |
-| 52W low | $54.84 | Inst. ownership | 91.41% |
-| P/E (ttm) | 27.58 | Insider ownership | 0.45% |
-| Forward P/E | 26.16 | Short float | 2.22% |
-| PEG (trailing) | 2.07 | Avg volume | 7,001,185 |
-| P/S | 6.87 | Employees | 5,987 |
-| P/B | 6.44 | Analyst rec (1=buy..5=sell) | 1.4 |
+| 52W low | $54.84 | Inst. ownership | 91.45% |
+| P/E (ttm) | 28.10 | Insider ownership | 0.45% |
+| Forward P/E | 26.66 | Short float | 2.22% |
+| PEG (trailing) | 2.07 | Avg volume | 7,011,547 |
+| P/S | 7.00 | Employees | 5,987 |
+| P/B | 6.56 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
