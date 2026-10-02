@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-10-02T01:27:07+00:00",
-  "as_of_local": "2026-10-02 01:27:07 UTC",
+  "as_of_utc": "2026-10-02T01:32:21+00:00",
+  "as_of_local": "2026-10-02 01:32:21 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -124,8 +124,8 @@
     {
       "symbol": "PWR",
       "name": "Quanta Services",
-      "price": 642.51,
-      "previous_close": 651.79,
+      "price": 642.4,
+      "previous_close": 651.68,
       "change_pct": -1.42,
       "market_cap": 99617532201.8,
       "headlines": []
@@ -823,18 +823,18 @@
     },
     {
       "label": "WTI",
-      "price": 92.84,
-      "change_pct": 2.68
+      "price": 92.94,
+      "change_pct": 2.79
     },
     {
       "label": "Brent",
-      "price": 102.39,
-      "change_pct": -1.1
+      "price": 102.61,
+      "change_pct": -0.89
     },
     {
       "label": "NatGas",
       "price": 2.93,
-      "change_pct": -3.14
+      "change_pct": -3.07
     }
   ]
 }
