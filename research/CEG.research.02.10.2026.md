@@ -59,7 +59,7 @@ Constellation Energy Corporation produces and sells energy products and services
 | Revenue (ttm) | $31.27B | Revenue growth 23.00% y/y |
 | Profitability | Gross 22.11%, operating 8.66%, net 11.08% | ROA 3.89%, ROE 15.06% |
 | Balance sheet | Cash $697.00M, debt $24.70B | Current ratio 1.46, debt/equity 76.42 |
-| Valuation | P/E 25.15, forward P/E 19.33, P/S 2.92, P/B 2.86 | EV/Sales 3.71, EV/EBITDA 14.60 |
+| Valuation | P/E 25.17, forward P/E 19.33, P/S 2.92, P/B 2.86 | EV/Sales 3.71, EV/EBITDA 14.60 |
 | Growth expectations | Earnings growth -46.80%, EPS q/q -38.90% | Analyst mean target $342.98 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -112,7 +112,7 @@ Constellation Energy Corporation produces and sells energy products and services
 | SMA200 dist | -10.30% | Revenue (ttm) | $31.27B |
 | 52W high | $401.70 | Revenue growth y/y | 23.00% |
 | 52W low | $236.14 | Inst. ownership | 82.96% |
-| P/E (ttm) | 25.15 | Insider ownership | 0.34% |
+| P/E (ttm) | 25.17 | Insider ownership | 0.34% |
 | Forward P/E | 19.33 | Short float | 3.70% |
 | PEG (trailing) | — | Avg volume | 2,786,561 |
 | P/S | 2.92 | Employees | 15,291 |

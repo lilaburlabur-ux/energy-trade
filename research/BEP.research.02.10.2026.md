@@ -5,7 +5,7 @@ Signed file: `BEP.research.02.10.2026`
 | Field | Value |
 |---|---|
 | Current price | $28.35 (2026-10-02, ~15-min delayed) |
-| Market cap | $13.82B |
+| Market cap | $13.79B |
 | Sector / Industry | Utilities / Utilities - Renewable |
 | Main theme | Utilities - Renewable — see catalysts below |
 | Current stance | Low technical momentum, weak fundamentals, value: reasonable, risk: moderate. |
@@ -102,7 +102,7 @@ Brookfield Renewable Partners L.P. owns a portfolio of renewable power generatin
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $28.35 | EV/Sales | 12.75 |
-| Market cap | $13.82B | EV/EBITDA | 27.02 |
+| Market cap | $13.79B | EV/EBITDA | 27.02 |
 | Beta | 0.98 | Gross margin | 51.39% |
 | RSI(14) | 35.4 | Operating margin | 17.08% |
 | ATR(14) | 0.79 | Profit margin | -1.26% |

@@ -5,7 +5,7 @@ Signed file: `PEG.research.02.10.2026`
 | Field | Value |
 |---|---|
 | Current price | $68.07 (2026-10-02, ~15-min delayed) |
-| Market cap | $33.92B |
+| Market cap | $33.93B |
 | Sector / Industry | Utilities / Utilities - Regulated Electric |
 | Main theme | Utilities - Regulated Electric — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,8 +15,8 @@ Signed file: `PEG.research.02.10.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-12.32%) with negative half-year (-15.32%). |
-| Fresh setup quality | Moderate / wait | -19.68% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-12.31%) with negative half-year (-15.32%). |
+| Fresh setup quality | Moderate / wait | -19.67% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 16.04%, revenue growth -8.90%. |
 | Value attractiveness | Reasonable | Forward P/E 14.57, EV/Sales 4.65. |
 | Risk level | Moderate | Beta 0.52, ATR 1.7% of price, short float 2.50%. |
@@ -35,11 +35,11 @@ Public Service Enterprise Group Incorporated, through its subsidiaries, operates
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $68.07; 52w high $84.74 (-19.68%); 52w low $66.56 (+2.26%) |
-| Trend | -12.32% vs SMA200, -6.37% vs SMA50, -2.32% vs SMA20 |
-| Momentum | RSI(14) 35.9 (neutral) |
+| Price vs 52-week range | Close $68.07; 52w high $84.74 (-19.67%); 52w low $66.56 (+2.27%) |
+| Trend | -12.31% vs SMA200, -6.37% vs SMA50, -2.31% vs SMA20 |
+| Momentum | RSI(14) 36.0 (neutral) |
 | Volatility | ATR(14) 1.14 (~1.7% of price); beta 0.52 |
-| Setup perspective | -19.68% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -19.67% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
@@ -101,13 +101,13 @@ Public Service Enterprise Group Incorporated, through its subsidiaries, operates
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $68.07 | EV/Sales | 4.65 |
-| Market cap | $33.92B | EV/EBITDA | 13.07 |
+| Market cap | $33.93B | EV/EBITDA | 13.07 |
 | Beta | 0.52 | Gross margin | 33.33% |
-| RSI(14) | 35.9 | Operating margin | 18.87% |
+| RSI(14) | 36.0 | Operating margin | 18.87% |
 | ATR(14) | 1.14 | Profit margin | 16.04% |
-| SMA20 dist | -2.32% | ROA | 3.24% |
+| SMA20 dist | -2.31% | ROA | 3.24% |
 | SMA50 dist | -6.37% | ROE | 11.83% |
-| SMA200 dist | -12.32% | Revenue (ttm) | $12.54B |
+| SMA200 dist | -12.31% | Revenue (ttm) | $12.54B |
 | 52W high | $84.74 | Revenue growth y/y | -8.90% |
 | 52W low | $66.56 | Inst. ownership | 79.36% |
 | P/E (ttm) | 16.93 | Insider ownership | 0.13% |
