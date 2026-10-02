@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-10-02T23:39:22+00:00",
-  "as_of_local": "2026-10-02 23:39:22 UTC",
+  "as_of_utc": "2026-10-02T23:43:48+00:00",
+  "as_of_local": "2026-10-02 23:43:48 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "MPC"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -74,15 +76,6 @@
       "previous_close": 127.06,
       "change_pct": -0.24,
       "market_cap": 154418765387.25,
-      "headlines": []
-    },
-    {
-      "symbol": "MPC",
-      "name": "Marathon Petroleum",
-      "price": 422.33,
-      "previous_close": 420.15,
-      "change_pct": 0.52,
-      "market_cap": 118600718386.94968,
       "headlines": []
     },
     {
@@ -656,8 +649,8 @@
           "name": "Marathon Petroleum Corp",
           "short": "Marathon",
           "weight_pct": 5.42,
-          "change_pct": 0.52,
-          "price": 422.33,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -755,8 +748,8 @@
         "name": "Marathon Petroleum Corp",
         "short": "Marathon",
         "weight_pct": 5.42,
-        "change_pct": 0.52,
-        "price": 422.33,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
