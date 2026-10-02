@@ -43,7 +43,7 @@
 | OKLO | $6.67B | -69% | -34.2 | 0% | Low | Reasonable | High |
 | SMR | $3.18B | -79% | -11.7 | 0% | Low | Reasonable | High |
 | LEU | $2.85B | -58% | 36.4 | 10% | Low | Low (expensive) | High |
-| NXE | $6.03B | -1% | -58.8 | 0% | Low | Reasonable | Elevated |
+| NXE | $6.03B | -1% | -58.7 | 0% | Low | Reasonable | Elevated |
 | UEC | $4.61B | -28% | -310.0 | 0% | Low | Reasonable | High |
 | UUUU | $2.84B | -32% | 22.1 | -77% | Low | Fair-to-demanding | High |
 | BWXT | $12.36B | -28% | 25.7 | 10% | Low | Fair-to-demanding | Elevated |
