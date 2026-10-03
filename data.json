@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-10-03T23:28:46+00:00",
-  "as_of_local": "2026-10-03 23:28:46 UTC",
+  "as_of_utc": "2026-10-03T23:43:47+00:00",
+  "as_of_local": "2026-10-03 23:43:47 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "VRT"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -128,15 +130,6 @@
       "previous_close": 42.17,
       "change_pct": 0.92,
       "market_cap": 100860617179.6072,
-      "headlines": []
-    },
-    {
-      "symbol": "VRT",
-      "name": "Vertiv",
-      "price": 252.18,
-      "previous_close": 246.12,
-      "change_pct": 2.46,
-      "market_cap": 97086314647.4024,
       "headlines": []
     },
     {
