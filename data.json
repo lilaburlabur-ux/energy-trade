@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-10-03T20:46:25+00:00",
-  "as_of_local": "2026-10-03 20:46:25 UTC",
+  "as_of_utc": "2026-10-03T20:51:34+00:00",
+  "as_of_local": "2026-10-03 20:51:34 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "DUK"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -155,15 +157,6 @@
       "previous_close": 258.92,
       "change_pct": -0.55,
       "market_cap": 91230603558.677,
-      "headlines": []
-    },
-    {
-      "symbol": "DUK",
-      "name": "Duke Energy",
-      "price": 114.13,
-      "previous_close": 113.74,
-      "change_pct": 0.34,
-      "market_cap": 88987409145.57397,
       "headlines": []
     },
     {
