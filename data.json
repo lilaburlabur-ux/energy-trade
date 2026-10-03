@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-10-03T17:10:40+00:00",
-  "as_of_local": "2026-10-03 17:10:40 UTC",
+  "as_of_utc": "2026-10-03T17:25:37+00:00",
+  "as_of_local": "2026-10-03 17:25:37 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NXE"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -506,15 +508,6 @@
       "previous_close": 36.14,
       "change_pct": -0.75,
       "market_cap": 6672452906.811714,
-      "headlines": []
-    },
-    {
-      "symbol": "NXE",
-      "name": "NexGen Energy",
-      "price": 9.0,
-      "previous_close": 8.87,
-      "change_pct": 1.47,
-      "market_cap": 6034554909.0,
       "headlines": []
     },
     {
