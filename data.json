@@ -1,12 +1,8 @@
 {
-  "as_of_utc": "2026-10-03T23:13:54+00:00",
-  "as_of_local": "2026-10-03 23:13:54 UTC",
+  "as_of_utc": "2026-10-03T23:28:46+00:00",
+  "as_of_local": "2026-10-03 23:28:46 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "UUUU",
-    "BWXT",
-    "FSLR"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -414,6 +410,15 @@
       "headlines": []
     },
     {
+      "symbol": "FSLR",
+      "name": "First Solar",
+      "price": 174.61,
+      "previous_close": 172.11,
+      "change_pct": 1.45,
+      "market_cap": 18765299748.274353,
+      "headlines": []
+    },
+    {
       "symbol": "PR",
       "name": "Permian Resources",
       "price": 22.12,
@@ -456,6 +461,15 @@
       "previous_close": 79.48,
       "change_pct": 6.06,
       "market_cap": 12790798999.041748,
+      "headlines": []
+    },
+    {
+      "symbol": "BWXT",
+      "name": "BWX Technologies",
+      "price": 134.86,
+      "previous_close": 136.79,
+      "change_pct": -1.41,
+      "market_cap": 12356140278.721619,
       "headlines": []
     },
     {
@@ -546,6 +560,15 @@
       "previous_close": 139.11,
       "change_pct": 0.12,
       "market_cap": 2848504438.545105,
+      "headlines": []
+    },
+    {
+      "symbol": "UUUU",
+      "name": "Energy Fuels",
+      "price": 10.73,
+      "previous_close": 10.71,
+      "change_pct": 0.19,
+      "market_cap": 2841020306.3562775,
       "headlines": []
     },
     {
