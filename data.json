@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-10-04T01:25:03+00:00",
-  "as_of_local": "2026-10-04 01:25:03 UTC",
+  "as_of_utc": "2026-10-04T01:40:05+00:00",
+  "as_of_local": "2026-10-04 01:40:05 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "UEC"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -526,6 +524,15 @@
       "previous_close": 78.44,
       "change_pct": 1.63,
       "market_cap": 5700945018.175049,
+      "headlines": []
+    },
+    {
+      "symbol": "UEC",
+      "name": "Uranium Energy Corp",
+      "price": 9.3,
+      "previous_close": 9.36,
+      "change_pct": -0.64,
+      "market_cap": 4608937479.025273,
       "headlines": []
     },
     {
