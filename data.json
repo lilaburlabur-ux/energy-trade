@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-10-04T07:43:44+00:00",
-  "as_of_local": "2026-10-04 07:43:44 UTC",
+  "as_of_utc": "2026-10-04T07:49:00+00:00",
+  "as_of_local": "2026-10-04 07:49:00 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "KMI"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -229,6 +227,15 @@
       "previous_close": 20.1,
       "change_pct": 1.84,
       "market_cap": 70484340468.1438,
+      "headlines": []
+    },
+    {
+      "symbol": "KMI",
+      "name": "Kinder Morgan",
+      "price": 31.07,
+      "previous_close": 30.53,
+      "change_pct": 1.77,
+      "market_cap": 69186740225.66394,
       "headlines": []
     },
     {
@@ -703,8 +710,8 @@
           "name": "Kinder Morgan Inc Class P",
           "short": "Kinder",
           "weight_pct": 3.65,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": 1.77,
+          "price": 31.07,
           "currency": "USD"
         }
       ]
@@ -802,8 +809,8 @@
         "name": "Kinder Morgan Inc Class P",
         "short": "Kinder",
         "weight_pct": 3.65,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": 1.77,
+        "price": 31.07,
         "currency": "USD"
       }
     ]
