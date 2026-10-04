@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-10-04T07:28:34+00:00",
-  "as_of_local": "2026-10-04 07:28:34 UTC",
+  "as_of_utc": "2026-10-04T07:43:44+00:00",
+  "as_of_local": "2026-10-04 07:43:44 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "KMI"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -55,7 +57,7 @@
       "price": 436.11,
       "previous_close": 437.28,
       "change_pct": -0.27,
-      "market_cap": 169385118310.54688,
+      "market_cap": 169341507312.01172,
       "headlines": []
     },
     {
@@ -64,7 +66,7 @@
       "price": 76.83,
       "previous_close": 76.35,
       "change_pct": 0.63,
-      "market_cap": 160265709617.0102,
+      "market_cap": 160237063473.99747,
       "headlines": []
     },
     {
@@ -82,7 +84,7 @@
       "price": 422.33,
       "previous_close": 420.15,
       "change_pct": 0.52,
-      "market_cap": 118600718386.94968,
+      "market_cap": 123293595139.50241,
       "headlines": []
     },
     {
@@ -208,7 +210,7 @@
       "price": 141.38,
       "previous_close": 141.31,
       "change_pct": 0.05,
-      "market_cap": 74157937464.05762,
+      "market_cap": 75303024172.12524,
       "headlines": []
     },
     {
@@ -227,15 +229,6 @@
       "previous_close": 20.1,
       "change_pct": 1.84,
       "market_cap": 70484340468.1438,
-      "headlines": []
-    },
-    {
-      "symbol": "KMI",
-      "name": "Kinder Morgan",
-      "price": 31.07,
-      "previous_close": 30.53,
-      "change_pct": 1.77,
-      "market_cap": 69186740225.66394,
       "headlines": []
     },
     {
@@ -352,7 +345,7 @@
       "price": 68.07,
       "previous_close": 67.89,
       "change_pct": 0.27,
-      "market_cap": 33927451289.994278,
+      "market_cap": 33920737682.064377,
       "headlines": []
     },
     {
@@ -487,7 +480,7 @@
       "price": 28.35,
       "previous_close": 28.42,
       "change_pct": -0.25,
-      "market_cap": 8508164711.5835,
+      "market_cap": 8597873723.4406,
       "headlines": []
     },
     {
@@ -523,7 +516,7 @@
       "price": 79.72,
       "previous_close": 78.44,
       "change_pct": 1.63,
-      "market_cap": 5700945018.175049,
+      "market_cap": 5714763603.466644,
       "headlines": []
     },
     {
@@ -541,7 +534,7 @@
       "price": 33.47,
       "previous_close": 32.82,
       "change_pct": 1.98,
-      "market_cap": 4422881529.869385,
+      "market_cap": 4411286584.286499,
       "headlines": []
     },
     {
@@ -568,7 +561,7 @@
       "price": 10.73,
       "previous_close": 10.71,
       "change_pct": 0.19,
-      "market_cap": 2841020306.3562775,
+      "market_cap": 2682124335.5751038,
       "headlines": []
     },
     {
@@ -710,8 +703,8 @@
           "name": "Kinder Morgan Inc Class P",
           "short": "Kinder",
           "weight_pct": 3.65,
-          "change_pct": 1.77,
-          "price": 31.07,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         }
       ]
@@ -809,8 +802,8 @@
         "name": "Kinder Morgan Inc Class P",
         "short": "Kinder",
         "weight_pct": 3.65,
-        "change_pct": 1.77,
-        "price": 31.07,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       }
     ]
