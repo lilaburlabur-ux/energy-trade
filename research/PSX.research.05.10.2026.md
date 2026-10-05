@@ -1,0 +1,144 @@
+# PSX Research Report
+**Phillips 66** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+Signed file: `PSX.research.05.10.2026`
+
+| Field | Value |
+|---|---|
+| Current price | $269.72 (2026-10-05, ~15-min delayed) |
+| Market cap | $107.62B |
+| Sector / Industry | Energy / Oil & Gas Refining & Marketing |
+| Main theme | Oil & Gas Refining & Marketing — see catalysts below |
+| Current stance | High technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
+
+> Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-10-05.
+
+## 1. Executive Summary
+| Area | Score / Read | Reason |
+|---|---|---|
+| Technical momentum | High | 1Y +105.80%; price +47.29% vs SMA200. |
+| Fresh setup quality | Watch | -1.64% from 52w high and near SMA20 — check for a tight base. |
+| Fundamental quality | Mixed | Profit margin 4.66%, revenue growth 53.10%. |
+| Value attractiveness | Reasonable | Forward P/E 10.11, EV/Sales 0.81. |
+| Risk level | Elevated | Beta 0.70, ATR 3.3% of price, short float 1.96%. |
+
+**Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
+
+**Key questions before any trade (standard):**
+- Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
+- Where is the actual invalidation level? If that level is too far away, the setup is not clean.
+- Is the move supported by new institutional demand or just retail/short-covering momentum?
+- Can earnings convert fast enough to justify the valuation?
+
+## 2. Company Overview and Recent Catalysts
+Phillips 66 operates as an integrated downstream energy provider in the United States, the United Kingdom, Germany, and internationally. It operates through five segments: Midstream, Chemicals, Refining, Marketing and Specialties (M&S), and Renewable Fuels. The Midstream segment provides crude oil and refined petroleum product transportation, terminaling, and storage services, as well as natural gas and natural gas liquids (NGL) gathering, processing, transportation, fractionation, storage and marketing services. It also exports liquefied petroleum gas.
+
+## 3. Technical Analysis
+| Technical item | Read |
+|---|---|
+| Price vs 52-week range | Close $269.72; 52w high $274.21 (-1.64%); 52w low $123.11 (+119.08%) |
+| Trend | +47.29% vs SMA200, +11.67% vs SMA50, +3.38% vs SMA20 |
+| Momentum | RSI(14) 67.0 (neutral) |
+| Volatility | ATR(14) 8.79 (~3.3% of price); beta 0.70 |
+| Setup perspective | -1.64% from 52w high and near SMA20 — check for a tight base. |
+
+**Performance snapshot:**
+
+| Window | Return |
+|---|---|
+| Week | +6.4% |
+| Month | +5.9% |
+| Quarter | +51.6% |
+| Half Y | +54.0% |
+| 1Y | +105.8% |
+| YTD | +110.9% |
+
+## 4. Fundamental Analysis
+| Factor | Observation | Implication / extra |
+|---|---|---|
+| Next earnings | 2026-10-28 | Next scheduled report (Yahoo estimate) |
+| Revenue (ttm) | $152.17B | Revenue growth 53.10% y/y |
+| Profitability | Gross 13.10%, operating 8.53%, net 4.66% | ROA 6.04%, ROE 23.45% |
+| Balance sheet | Cash $4.10B, debt $20.57B | Current ratio 1.32, debt/equity 62.88 |
+| Valuation | P/E 15.41, forward P/E 10.11, P/S 0.71, P/B 3.42 | EV/Sales 0.81, EV/EBITDA 12.42 |
+| Growth expectations | Earnings growth 344.90%, EPS q/q 338.70% | Analyst mean target $257.16 (19 analysts) |
+
+## 5. Institutional Investors and Ownership
+| Metric | Value |
+|---|---|
+| Institutional ownership | 80.53% |
+| Insider ownership | 0.21% |
+| Short float | 1.96% |
+| Short ratio (days to cover) | 2.4 |
+
+**Top institutional holders:**
+
+| Holder | Shares | % Out | Reported |
+|---|---|---|---|
+| Blackrock Inc. | 34,112,861 | 8.55% | 2026-06-30 |
+| Vanguard Capital Management LLC | 26,183,335 | 6.56% | 2026-06-30 |
+| State Street Corporation | 26,044,694 | 6.53% | 2026-06-30 |
+| Vanguard Portfolio Management LLC | 22,214,319 | 5.57% | 2026-06-30 |
+| Elliott Investment Management L.P. | 19,251,000 | 4.82% | 2026-06-30 |
+| Wells Fargo & Company | 12,479,393 | 3.13% | 2026-06-30 |
+| Geode Capital Management, LLC | 11,122,010 | 2.79% | 2026-06-30 |
+| Morgan Stanley | 7,206,592 | 1.81% | 2026-06-30 |
+| Bank Of New York Mellon Corporation | 6,466,764 | 1.62% | 2026-06-30 |
+| Goldman Sachs Group Inc | 5,613,271 | 1.41% | 2026-06-30 |
+
+## 6. Risk Review and Setup Plan
+- **Volatility risk:** Beta 0.70, ATR 3.3% of price, short float 1.96%. Size positions accordingly.
+- **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
+- **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
+
+### Setup checklist for your journal
+| Question | Pass condition |
+|---|---|
+| Is there a new base? | Tight sideways action near highs, declining volume, clear resistance. |
+| Is the pivot obvious? | A clean level that multiple traders can see; not a random candle high. |
+| Is risk defined? | Stop based on structure and less than the expected first upside target. |
+| Is volume confirming? | Breakout volume expands; pullback volume dries up. |
+| Is position size small enough? | A normal shakeout should not cause emotional decision-making. |
+
+## 7. Full Data Snapshot
+| Metric | Value | Metric | Value |
+|---|---|---|---|
+| Price | $269.72 | EV/Sales | 0.81 |
+| Market cap | $107.62B | EV/EBITDA | 12.42 |
+| Beta | 0.70 | Gross margin | 13.10% |
+| RSI(14) | 67.0 | Operating margin | 8.53% |
+| ATR(14) | 8.79 | Profit margin | 4.66% |
+| SMA20 dist | +3.38% | ROA | 6.04% |
+| SMA50 dist | +11.67% | ROE | 23.45% |
+| SMA200 dist | +47.29% | Revenue (ttm) | $152.17B |
+| 52W high | $274.21 | Revenue growth y/y | 53.10% |
+| 52W low | $123.11 | Inst. ownership | 80.53% |
+| P/E (ttm) | 15.41 | Insider ownership | 0.21% |
+| Forward P/E | 10.11 | Short float | 1.96% |
+| PEG (trailing) | 0.82 | Avg volume | 2,887,862 |
+| P/S | 0.71 | Employees | 12,600 |
+| P/B | 3.42 | Analyst rec (1=buy..5=sell) | 2.1 |
+
+## 8. Analyst Actions
+| Date | Action | Firm | Rating change |
+|---|---|---|---|
+| 2026-10-01 | main | Goldman Sachs | Neutral → Neutral |
+| 2026-09-30 | main | TD Cowen | Buy → Buy |
+| 2026-09-17 | main | BMO Capital | Outperform → Outperform |
+| 2026-09-14 | main | Raymond James | Outperform → Outperform |
+| 2026-09-14 | main | Morgan Stanley | Overweight → Overweight |
+| 2026-09-08 | main | UBS | Buy → Buy |
+| 2026-09-03 | main | Piper Sandler | Neutral → Neutral |
+| 2026-09-01 | main | Wells Fargo | Overweight → Overweight |
+
+## 9. Conclusion
+PSX: High momentum / mixed fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+
+## Sources
+| Source | URL | Used for |
+|---|---|---|
+| Yahoo Finance quote/profile/statistics for PSX | https://finance.yahoo.com/quote/PSX | Snapshot metrics, ownership, analyst data |
+| Yahoo Finance price history (via yfinance) | https://finance.yahoo.com/quote/PSX/history | SMA/RSI/ATR/performance calculations |
+| Yahoo Finance news feed | https://finance.yahoo.com/quote/PSX/news | Catalyst headlines |
+| Method template | AEHR.research.31.05.2026.pdf (user's Cowork method) | Report structure, scoring areas, checklist |
+
+_Note: the template's native Finviz/Fintel/ADVFN pages block automated retrieval; equivalent metrics above are computed from Yahoo Finance data instead and labeled accordingly._
