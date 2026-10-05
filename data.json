@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-10-05T21:57:20+00:00",
-  "as_of_local": "2026-10-05 21:57:20 UTC",
+  "as_of_utc": "2026-10-05T22:02:21+00:00",
+  "as_of_local": "2026-10-05 22:02:21 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "WFRD"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -515,15 +517,6 @@
       "previous_close": 9.0,
       "change_pct": 0.78,
       "market_cap": 6081490131.447777,
-      "headlines": []
-    },
-    {
-      "symbol": "WFRD",
-      "name": "Weatherford",
-      "price": 82.32,
-      "previous_close": 79.72,
-      "change_pct": 3.26,
-      "market_cap": 5886876379.456238,
       "headlines": []
     },
     {
