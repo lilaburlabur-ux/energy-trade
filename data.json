@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-10-05T11:31:01+00:00",
-  "as_of_local": "2026-10-05 11:31:01 UTC",
+  "as_of_utc": "2026-10-05T11:35:47+00:00",
+  "as_of_local": "2026-10-05 11:35:47 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "OKLO"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -500,15 +502,6 @@
       "headlines": []
     },
     {
-      "symbol": "OKLO",
-      "name": "Oklo",
-      "price": 35.87,
-      "previous_close": 36.14,
-      "change_pct": -0.75,
-      "market_cap": 6672452906.811714,
-      "headlines": []
-    },
-    {
       "symbol": "NXE",
       "name": "NexGen Energy",
       "price": 9.0,
@@ -823,18 +816,18 @@
     },
     {
       "label": "WTI",
-      "price": 90.24,
-      "change_pct": -0.95
+      "price": 90.11,
+      "change_pct": -1.1
     },
     {
       "label": "Brent",
-      "price": 102.43,
-      "change_pct": 0.18
+      "price": 102.32,
+      "change_pct": 0.07
     },
     {
       "label": "NatGas",
-      "price": 3.03,
-      "change_pct": -0.2
+      "price": 3.02,
+      "change_pct": -0.46
     }
   ]
 }
