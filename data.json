@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-10-05T08:02:52+00:00",
-  "as_of_local": "2026-10-05 08:02:52 UTC",
+  "as_of_utc": "2026-10-05T08:08:07+00:00",
+  "as_of_local": "2026-10-05 08:08:07 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "VRT"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -130,6 +128,15 @@
       "previous_close": 42.17,
       "change_pct": 0.92,
       "market_cap": 100860617179.6072,
+      "headlines": []
+    },
+    {
+      "symbol": "VRT",
+      "name": "Vertiv",
+      "price": 252.18,
+      "previous_close": 246.12,
+      "change_pct": 2.46,
+      "market_cap": 97086314647.4024,
       "headlines": []
     },
     {
@@ -816,18 +823,18 @@
     },
     {
       "label": "WTI",
-      "price": 89.59,
-      "change_pct": -1.67
+      "price": 89.75,
+      "change_pct": -1.49
     },
     {
       "label": "Brent",
-      "price": 101.09,
-      "change_pct": -1.13
+      "price": 101.27,
+      "change_pct": -0.96
     },
     {
       "label": "NatGas",
       "price": 3.02,
-      "change_pct": -0.46
+      "change_pct": -0.43
     }
   ]
 }
