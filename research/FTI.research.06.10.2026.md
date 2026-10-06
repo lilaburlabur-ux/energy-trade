@@ -19,7 +19,7 @@ Signed file: `FTI.research.06.10.2026`
 | Fresh setup quality | Moderate / wait | -12.72% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 11.28%, revenue growth 9.00%. |
 | Value attractiveness | Reasonable | Forward P/E 19.32, EV/Sales 2.67. |
-| Risk level | Elevated | Beta 0.83, ATR 3.1% of price, short float 3.26%. |
+| Risk level | Elevated | Beta 0.83, ATR 3.0% of price, short float 3.26%. |
 
 **Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
 
@@ -38,7 +38,7 @@ TechnipFMC plc engages in the oil and natural gas projects, technologies, system
 | Price vs 52-week range | Close $69.89; 52w high $80.08 (-12.72%); 52w low $35.45 (+97.13%) |
 | Trend | +4.08% vs SMA200, -5.32% vs SMA50, -2.63% vs SMA20 |
 | Momentum | RSI(14) 40.6 (neutral) |
-| Volatility | ATR(14) 2.13 (~3.1% of price); beta 0.83 |
+| Volatility | ATR(14) 2.13 (~3.0% of price); beta 0.83 |
 | Setup perspective | -12.72% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
@@ -86,7 +86,7 @@ TechnipFMC plc engages in the oil and natural gas projects, technologies, system
 | T. Rowe Price Investment Management, Inc. | 9,275,901 | 2.37% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 0.83, ATR 3.1% of price, short float 3.26%. Size positions accordingly.
+- **Volatility risk:** Beta 0.83, ATR 3.0% of price, short float 3.26%. Size positions accordingly.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
