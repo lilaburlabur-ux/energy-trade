@@ -1,16 +1,16 @@
 {
- "signed": "05.10.2026",
- "generated_utc": "2026-10-05T21:32:18+00:00",
+ "signed": "06.10.2026",
+ "generated_utc": "2026-10-06T01:20:36+00:00",
  "macro": {
-  "score": "Neutral",
-  "note": "Watchlist median 1Y +20%; 47/68 names positive. Sector-level proxy."
+  "score": "Headwind",
+  "note": "Watchlist median 1Y +nan%; 0/67 names positive. Sector-level proxy."
  },
  "stocks": {
   "XOM": {
    "name": "ExxonMobil Holdings Corporation",
-   "thesis": "Mixed fundamentals (9% net margin, 44% growth) at 14x forward; moderate momentum \u2014 near-high pivot watch.",
-   "close": 164.01,
-   "close_date": "2026-10-02",
+   "thesis": "Mixed fundamentals (9% net margin, 44% growth) at 14x forward; moderate momentum \u2014 extended \u2014 wait.",
+   "close": NaN,
+   "close_date": "2026-10-05",
    "pe_ttm": 21.106821,
    "fwd_pe": 14.451936,
    "short_float": 1.08,
@@ -20,18 +20,18 @@
    "scores": {
     "technical": "Moderate",
     "narrative": "Supportive",
-    "entry_zone": "Near-high pivot watch",
-    "rr": 1.2
+    "entry_zone": "Extended \u2014 wait",
+    "rr": null
    },
-   "report": "XOM.research.05.10.2026.md"
+   "report": "XOM.research.06.10.2026.md"
   },
   "CVX": {
    "name": "Chevron Corporation",
-   "thesis": "Mixed fundamentals (10% net margin, 54% growth) at 14x forward; moderate momentum \u2014 pullback zone forming.",
-   "close": 206.69,
-   "close_date": "2026-10-02",
+   "thesis": "Mixed fundamentals (10% net margin, 54% growth) at 14x forward; moderate momentum \u2014 extended \u2014 wait.",
+   "close": NaN,
+   "close_date": "2026-10-05",
    "pe_ttm": 19.871992,
-   "fwd_pe": 14.203381,
+   "fwd_pe": 14.159742,
    "short_float": 1.06,
    "market_cap": 405012250624,
    "target": 224.625,
@@ -39,18 +39,18 @@
    "scores": {
     "technical": "Moderate",
     "narrative": "Supportive",
-    "entry_zone": "Pullback zone forming",
-    "rr": 3.2
+    "entry_zone": "Extended \u2014 wait",
+    "rr": null
    },
-   "report": "CVX.research.05.10.2026.md"
+   "report": "CVX.research.06.10.2026.md"
   },
   "SHEL": {
    "name": "Shell plc",
-   "thesis": "Mixed fundamentals (9% net margin, 45% growth) at 9x forward; moderate momentum \u2014 near-high pivot watch.",
-   "close": 96.23,
-   "close_date": "2026-10-02",
+   "thesis": "Mixed fundamentals (9% net margin, 45% growth) at 9x forward; moderate momentum \u2014 extended \u2014 wait.",
+   "close": NaN,
+   "close_date": "2026-10-05",
    "pe_ttm": 10.65342,
-   "fwd_pe": 9.299627,
+   "fwd_pe": 9.25948,
    "short_float": 1.24,
    "market_cap": 274975096832,
    "target": 103.81333,
@@ -58,16 +58,16 @@
    "scores": {
     "technical": "Moderate",
     "narrative": "Supportive",
-    "entry_zone": "Near-high pivot watch",
-    "rr": 1.8
+    "entry_zone": "Extended \u2014 wait",
+    "rr": null
    },
-   "report": "SHEL.research.05.10.2026.md"
+   "report": "SHEL.research.06.10.2026.md"
   },
   "TTE": {
    "name": "TotalEnergies SE",
-   "thesis": "Mixed fundamentals (9% net margin, 28% growth) at 8x forward; moderate momentum \u2014 pullback zone forming.",
-   "close": 84.4,
-   "close_date": "2026-10-02",
+   "thesis": "Mixed fundamentals (9% net margin, 28% growth) at 8x forward; moderate momentum \u2014 extended \u2014 wait.",
+   "close": NaN,
+   "close_date": "2026-10-05",
    "pe_ttm": 10.55945,
    "fwd_pe": 7.8548164,
    "short_float": 0.22,
@@ -76,17 +76,17 @@
    "analysts": 10,
    "scores": {
     "technical": "Moderate",
-    "narrative": "Strong",
-    "entry_zone": "Pullback zone forming",
-    "rr": 8.2
+    "narrative": "Supportive",
+    "entry_zone": "Extended \u2014 wait",
+    "rr": null
    },
-   "report": "TTE.research.05.10.2026.md"
+   "report": "TTE.research.06.10.2026.md"
   },
   "BP": {
    "name": "BP p.l.c.",
-   "thesis": "Mixed fundamentals (3% net margin, 48% growth) at 8x forward; moderate momentum \u2014 near-high pivot watch.",
-   "close": 44.79,
-   "close_date": "2026-10-02",
+   "thesis": "Mixed fundamentals (3% net margin, 48% growth) at 8x forward; moderate momentum \u2014 extended \u2014 wait.",
+   "close": NaN,
+   "close_date": "2026-10-05",
    "pe_ttm": 21.765854,
    "fwd_pe": 8.456443,
    "short_float": 0.28,
@@ -96,16 +96,16 @@
    "scores": {
     "technical": "Moderate",
     "narrative": "Supportive",
-    "entry_zone": "Near-high pivot watch",
-    "rr": 3.2
+    "entry_zone": "Extended \u2014 wait",
+    "rr": null
    },
-   "report": "BP.research.05.10.2026.md"
+   "report": "BP.research.06.10.2026.md"
   },
   "COP": {
    "name": "ConocoPhillips",
-   "thesis": "Mixed fundamentals (14% net margin, 36% growth) at 13x forward; moderate momentum \u2014 pullback zone forming.",
-   "close": 126.75,
-   "close_date": "2026-10-02",
+   "thesis": "Mixed fundamentals (14% net margin, 36% growth) at 13x forward; moderate momentum \u2014 extended \u2014 wait.",
+   "close": NaN,
+   "close_date": "2026-10-05",
    "pe_ttm": 17.00662,
    "fwd_pe": 13.274871,
    "short_float": 1.34,
@@ -114,17 +114,17 @@
    "analysts": 26,
    "scores": {
     "technical": "Moderate",
-    "narrative": "Strong",
-    "entry_zone": "Pullback zone forming",
-    "rr": 3.5
+    "narrative": "Supportive",
+    "entry_zone": "Extended \u2014 wait",
+    "rr": null
    },
-   "report": "COP.research.05.10.2026.md"
+   "report": "COP.research.06.10.2026.md"
   },
   "EQNR": {
    "name": "Equinor ASA",
-   "thesis": "Mixed fundamentals (8% net margin, 37% growth) at 9x forward; high momentum \u2014 pullback zone forming.",
-   "close": 42.56,
-   "close_date": "2026-10-02",
+   "thesis": "Mixed fundamentals (8% net margin, 37% growth) at 9x forward; moderate momentum \u2014 extended \u2014 wait.",
+   "close": NaN,
+   "close_date": "2026-10-05",
    "pe_ttm": 11.571037,
    "fwd_pe": 9.377477,
    "short_float": 2.39,
@@ -132,75 +132,75 @@
    "target": 38.56429,
    "analysts": 7,
    "scores": {
-    "technical": "High",
+    "technical": "Moderate",
     "narrative": "Neutral",
-    "entry_zone": "Pullback zone forming",
-    "rr": 2.4
+    "entry_zone": "Extended \u2014 wait",
+    "rr": null
    },
-   "report": "EQNR.research.05.10.2026.md"
+   "report": "EQNR.research.06.10.2026.md"
   },
   "SU": {
    "name": "Suncor Energy Inc.",
-   "thesis": "Strong fundamentals (16% net margin, 46% growth) at 12x forward; high momentum \u2014 near-high pivot watch.",
-   "close": 69.56,
-   "close_date": "2026-10-02",
+   "thesis": "Strong fundamentals (16% net margin, 46% growth) at 12x forward; moderate momentum \u2014 extended \u2014 wait.",
+   "close": NaN,
+   "close_date": "2026-10-05",
    "pe_ttm": 12.688191,
-   "fwd_pe": 11.864111,
+   "fwd_pe": 11.869252,
    "short_float": null,
-   "market_cap": 80435421184,
-   "target": 69.782074,
+   "market_cap": 81199841280,
+   "target": 69.72092,
    "analysts": 3,
    "scores": {
-    "technical": "High",
+    "technical": "Moderate",
     "narrative": "Supportive",
-    "entry_zone": "Near-high pivot watch",
-    "rr": 0.3
+    "entry_zone": "Extended \u2014 wait",
+    "rr": null
    },
-   "report": "SU.research.05.10.2026.md"
+   "report": "SU.research.06.10.2026.md"
   },
   "EOG": {
    "name": "EOG Resources, Inc.",
-   "thesis": "Strong fundamentals (26% net margin, 59% growth) at 9x forward; moderate momentum \u2014 pullback zone forming.",
-   "close": 141.38,
-   "close_date": "2026-10-02",
+   "thesis": "Strong fundamentals (26% net margin, 59% growth) at 9x forward; moderate momentum \u2014 extended \u2014 wait.",
+   "close": NaN,
+   "close_date": "2026-10-05",
    "pe_ttm": 11.212451,
    "fwd_pe": 9.397228,
    "short_float": 3.3,
-   "market_cap": 76741124096,
+   "market_cap": 75574165504,
    "target": 164.0,
    "analysts": 28,
    "scores": {
     "technical": "Moderate",
     "narrative": "Supportive",
-    "entry_zone": "Pullback zone forming",
-    "rr": 3.0
+    "entry_zone": "Extended \u2014 wait",
+    "rr": null
    },
-   "report": "EOG.research.05.10.2026.md"
+   "report": "EOG.research.06.10.2026.md"
   },
   "FANG": {
    "name": "Diamondback Energy, Inc.",
    "thesis": "Mixed fundamentals (9% net margin, 52% growth) at 10x forward; moderate momentum \u2014 extended \u2014 wait.",
-   "close": 184.71,
-   "close_date": "2026-10-02",
+   "close": NaN,
+   "close_date": "2026-10-05",
    "pe_ttm": 35.06286,
-   "fwd_pe": 9.8188095,
+   "fwd_pe": 9.82133,
    "short_float": 3.93,
-   "market_cap": 51784155136,
+   "market_cap": 51546042368,
    "target": 234.65517,
    "analysts": 29,
    "scores": {
     "technical": "Moderate",
-    "narrative": "Strong",
+    "narrative": "Supportive",
     "entry_zone": "Extended \u2014 wait",
-    "rr": 9.9
+    "rr": null
    },
-   "report": "FANG.research.05.10.2026.md"
+   "report": "FANG.research.06.10.2026.md"
   },
   "DVN": {
    "name": "Devon Energy Corporation",
-   "thesis": "Strong fundamentals (17% net margin, 64% growth) at 9x forward; moderate momentum \u2014 pullback zone forming.",
-   "close": 47.65,
-   "close_date": "2026-10-02",
+   "thesis": "Strong fundamentals (17% net margin, 64% growth) at 9x forward; moderate momentum \u2014 extended \u2014 wait.",
+   "close": NaN,
+   "close_date": "2026-10-05",
    "pe_ttm": 10.453158,
    "fwd_pe": 8.834306,
    "short_float": 3.02,
@@ -209,17 +209,17 @@
    "analysts": 28,
    "scores": {
     "technical": "Moderate",
-    "narrative": "Strong",
-    "entry_zone": "Pullback zone forming",
-    "rr": 5.2
+    "narrative": "Supportive",
+    "entry_zone": "Extended \u2014 wait",
+    "rr": null
    },
-   "report": "DVN.research.05.10.2026.md"
+   "report": "DVN.research.06.10.2026.md"
   },
   "OXY": {
    "name": "Occidental Petroleum Corporation",
-   "thesis": "Strong fundamentals (30% net margin, 53% growth) at 14x forward; moderate momentum \u2014 pullback zone forming.",
-   "close": 58.08,
-   "close_date": "2026-10-02",
+   "thesis": "Strong fundamentals (30% net margin, 53% growth) at 14x forward; moderate momentum \u2014 extended \u2014 wait.",
+   "close": NaN,
+   "close_date": "2026-10-05",
    "pe_ttm": 16.565342,
    "fwd_pe": 14.270051,
    "short_float": 2.96,
@@ -229,35 +229,35 @@
    "scores": {
     "technical": "Moderate",
     "narrative": "Supportive",
-    "entry_zone": "Pullback zone forming",
-    "rr": 2.8
+    "entry_zone": "Extended \u2014 wait",
+    "rr": null
    },
-   "report": "OXY.research.05.10.2026.md"
+   "report": "OXY.research.06.10.2026.md"
   },
   "APA": {
    "name": "APA Corporation",
-   "thesis": "Mixed fundamentals (20% net margin, 9% growth) at 10x forward; high momentum \u2014 pullback zone forming.",
-   "close": 43.68,
-   "close_date": "2026-10-02",
+   "thesis": "Mixed fundamentals (20% net margin, 9% growth) at 10x forward; moderate momentum \u2014 extended \u2014 wait.",
+   "close": NaN,
+   "close_date": "2026-10-05",
    "pe_ttm": 9.270613,
-   "fwd_pe": 9.565464,
+   "fwd_pe": 9.553793,
    "short_float": 9.21,
    "market_cap": 15362913280,
    "target": 46.2,
    "analysts": 25,
    "scores": {
-    "technical": "High",
+    "technical": "Moderate",
     "narrative": "Neutral",
-    "entry_zone": "Pullback zone forming",
-    "rr": 0.9
+    "entry_zone": "Extended \u2014 wait",
+    "rr": null
    },
-   "report": "APA.research.05.10.2026.md"
+   "report": "APA.research.06.10.2026.md"
   },
   "EQT": {
    "name": "EQT Corporation",
-   "thesis": "Mixed fundamentals (29% net margin, -4% growth) at 14x forward; low momentum \u2014 broken \u2014 no zone.",
-   "close": 50.17,
-   "close_date": "2026-10-02",
+   "thesis": "Mixed fundamentals (29% net margin, -4% growth) at 14x forward; moderate momentum \u2014 extended \u2014 wait.",
+   "close": NaN,
+   "close_date": "2026-10-05",
    "pe_ttm": 11.860788,
    "fwd_pe": 13.555942,
    "short_float": 4.09,
@@ -265,18 +265,18 @@
    "target": 67.19231,
    "analysts": 26,
    "scores": {
-    "technical": "Low",
-    "narrative": "Strong",
-    "entry_zone": "Broken \u2014 no zone",
-    "rr": 5.4
+    "technical": "Moderate",
+    "narrative": "Supportive",
+    "entry_zone": "Extended \u2014 wait",
+    "rr": null
    },
-   "report": "EQT.research.05.10.2026.md"
+   "report": "EQT.research.06.10.2026.md"
   },
   "AR": {
    "name": "Antero Resources Corporation",
-   "thesis": "Strong fundamentals (19% net margin, 13% growth) at 8x forward; low momentum \u2014 broken \u2014 no zone.",
-   "close": 34.08,
-   "close_date": "2026-10-02",
+   "thesis": "Strong fundamentals (19% net margin, 13% growth) at 8x forward; moderate momentum \u2014 extended \u2014 wait.",
+   "close": NaN,
+   "close_date": "2026-10-05",
    "pe_ttm": 9.96839,
    "fwd_pe": 7.943959,
    "short_float": 4.46,
@@ -284,37 +284,37 @@
    "target": 49.90476,
    "analysts": 21,
    "scores": {
-    "technical": "Low",
-    "narrative": "Strong",
-    "entry_zone": "Broken \u2014 no zone",
-    "rr": 9.7
+    "technical": "Moderate",
+    "narrative": "Supportive",
+    "entry_zone": "Extended \u2014 wait",
+    "rr": null
    },
-   "report": "AR.research.05.10.2026.md"
+   "report": "AR.research.06.10.2026.md"
   },
   "PR": {
    "name": "Permian Resources Corporation",
-   "thesis": "Strong fundamentals (22% net margin, 55% growth) at 10x forward; high momentum \u2014 pullback zone forming.",
-   "close": 22.12,
-   "close_date": "2026-10-02",
+   "thesis": "Strong fundamentals (22% net margin, 55% growth) at 10x forward; moderate momentum \u2014 extended \u2014 wait.",
+   "close": NaN,
+   "close_date": "2026-10-05",
    "pe_ttm": 14.625,
-   "fwd_pe": 9.921228,
+   "fwd_pe": 9.927874,
    "short_float": 2.54,
    "market_cap": 18618892288,
    "target": 27.19048,
    "analysts": 21,
    "scores": {
-    "technical": "High",
-    "narrative": "Strong",
-    "entry_zone": "Pullback zone forming",
-    "rr": 3.6
+    "technical": "Moderate",
+    "narrative": "Supportive",
+    "entry_zone": "Extended \u2014 wait",
+    "rr": null
    },
-   "report": "PR.research.05.10.2026.md"
+   "report": "PR.research.06.10.2026.md"
   },
   "OVV": {
    "name": "Ovintiv Inc.",
-   "thesis": "Mixed fundamentals (10% net margin, 30% growth) at 8x forward; moderate momentum \u2014 pullback zone forming.",
-   "close": 60.34,
-   "close_date": "2026-10-02",
+   "thesis": "Mixed fundamentals (10% net margin, 30% growth) at 8x forward; moderate momentum \u2014 extended \u2014 wait.",
+   "close": NaN,
+   "close_date": "2026-10-05",
    "pe_ttm": 16.977716,
    "fwd_pe": 8.157546,
    "short_float": 4.57,
@@ -323,55 +323,55 @@
    "analysts": 24,
    "scores": {
     "technical": "Moderate",
-    "narrative": "Strong",
-    "entry_zone": "Pullback zone forming",
-    "rr": 4.5
+    "narrative": "Supportive",
+    "entry_zone": "Extended \u2014 wait",
+    "rr": null
    },
-   "report": "OVV.research.05.10.2026.md"
+   "report": "OVV.research.06.10.2026.md"
   },
   "SLB": {
    "name": "SLB N.V.",
-   "thesis": "Mixed fundamentals (9% net margin, 5% growth) at 16x forward; moderate momentum \u2014 pullback zone forming.",
-   "close": 48.74,
-   "close_date": "2026-10-02",
+   "thesis": "Mixed fundamentals (9% net margin, 5% growth) at 16x forward; moderate momentum \u2014 extended \u2014 wait.",
+   "close": NaN,
+   "close_date": "2026-10-05",
    "pe_ttm": 24.289856,
-   "fwd_pe": 15.666333,
+   "fwd_pe": 15.648049,
    "short_float": 4.67,
    "market_cap": 74622722048,
    "target": 62.48276,
    "analysts": 29,
    "scores": {
     "technical": "Moderate",
-    "narrative": "Strong",
-    "entry_zone": "Pullback zone forming",
-    "rr": 4.8
+    "narrative": "Supportive",
+    "entry_zone": "Extended \u2014 wait",
+    "rr": null
    },
-   "report": "SLB.research.05.10.2026.md"
+   "report": "SLB.research.06.10.2026.md"
   },
   "HAL": {
    "name": "Halliburton Company",
-   "thesis": "Mixed fundamentals (7% net margin, 4% growth) at 11x forward; low momentum \u2014 broken \u2014 no zone.",
-   "close": 31.85,
-   "close_date": "2026-10-02",
+   "thesis": "Mixed fundamentals (7% net margin, 4% growth) at 11x forward; moderate momentum \u2014 extended \u2014 wait.",
+   "close": NaN,
+   "close_date": "2026-10-05",
    "pe_ttm": 17.25263,
    "fwd_pe": 11.300643,
    "short_float": 5.67,
-   "market_cap": 27384338432,
+   "market_cap": 27310012416,
    "target": 43.44,
    "analysts": 25,
    "scores": {
-    "technical": "Low",
-    "narrative": "Strong",
-    "entry_zone": "Broken \u2014 no zone",
-    "rr": 7.0
+    "technical": "Moderate",
+    "narrative": "Supportive",
+    "entry_zone": "Extended \u2014 wait",
+    "rr": null
    },
-   "report": "HAL.research.05.10.2026.md"
+   "report": "HAL.research.06.10.2026.md"
   },
   "BKR": {
    "name": "Baker Hughes Company",
-   "thesis": "Mixed fundamentals (11% net margin, -2% growth) at 19x forward; low momentum \u2014 broken \u2014 no zone.",
-   "close": 56.0,
-   "close_date": "2026-10-02",
+   "thesis": "Mixed fundamentals (11% net margin, -2% growth) at 19x forward; moderate momentum \u2014 extended \u2014 wait.",
+   "close": NaN,
+   "close_date": "2026-10-05",
    "pe_ttm": 18.450161,
    "fwd_pe": 19.064264,
    "short_float": 2.83,
@@ -379,18 +379,18 @@
    "target": 71.20833,
    "analysts": 24,
    "scores": {
-    "technical": "Low",
-    "narrative": "Strong",
-    "entry_zone": "Broken \u2014 no zone",
-    "rr": 4.6
+    "technical": "Moderate",
+    "narrative": "Supportive",
+    "entry_zone": "Extended \u2014 wait",
+    "rr": null
    },
-   "report": "BKR.research.05.10.2026.md"
+   "report": "BKR.research.06.10.2026.md"
   },
   "NOV": {
    "name": "NOV Inc.",
-   "thesis": "Mixed fundamentals (1% net margin, -2% growth) at 15x forward; moderate momentum \u2014 pullback zone forming.",
-   "close": 18.8,
-   "close_date": "2026-10-02",
+   "thesis": "Mixed fundamentals (1% net margin, -2% growth) at 15x forward; moderate momentum \u2014 extended \u2014 wait.",
+   "close": NaN,
+   "close_date": "2026-10-05",
    "pe_ttm": 72.259254,
    "fwd_pe": 15.210697,
    "short_float": 14.14,
@@ -400,16 +400,16 @@
    "scores": {
     "technical": "Moderate",
     "narrative": "Neutral",
-    "entry_zone": "Pullback zone forming",
-    "rr": 2.5
+    "entry_zone": "Extended \u2014 wait",
+    "rr": null
    },
-   "report": "NOV.research.05.10.2026.md"
+   "report": "NOV.research.06.10.2026.md"
   },
   "FTI": {
    "name": "TechnipFMC plc",
-   "thesis": "Mixed fundamentals (11% net margin, 9% growth) at 19x forward; high momentum \u2014 pullback zone forming.",
-   "close": 68.82,
-   "close_date": "2026-10-02",
+   "thesis": "Mixed fundamentals (11% net margin, 9% growth) at 19x forward; moderate momentum \u2014 extended \u2014 wait.",
+   "close": NaN,
+   "close_date": "2026-10-05",
    "pe_ttm": 24.477352,
    "fwd_pe": 19.421368,
    "short_float": 3.26,
@@ -417,18 +417,18 @@
    "target": 75.95238,
    "analysts": 21,
    "scores": {
-    "technical": "High",
+    "technical": "Moderate",
     "narrative": "Supportive",
-    "entry_zone": "Pullback zone forming",
-    "rr": 1.9
+    "entry_zone": "Extended \u2014 wait",
+    "rr": null
    },
-   "report": "FTI.research.05.10.2026.md"
+   "report": "FTI.research.06.10.2026.md"
   },
   "WFRD": {
    "name": "Weatherford International plc",
-   "thesis": "Mixed fundamentals (8% net margin, -8% growth) at 12x forward; low momentum \u2014 broken \u2014 no zone.",
-   "close": 79.72,
-   "close_date": "2026-10-02",
+   "thesis": "Mixed fundamentals (8% net margin, -8% growth) at 12x forward; moderate momentum \u2014 extended \u2014 wait.",
+   "close": NaN,
+   "close_date": "2026-10-05",
    "pe_ttm": 16.236687,
    "fwd_pe": 11.6302395,
    "short_float": 6.59,
@@ -436,18 +436,18 @@
    "target": 117.08333,
    "analysts": 12,
    "scores": {
-    "technical": "Low",
-    "narrative": "Strong",
-    "entry_zone": "Broken \u2014 no zone",
-    "rr": 7.1
+    "technical": "Moderate",
+    "narrative": "Supportive",
+    "entry_zone": "Extended \u2014 wait",
+    "rr": null
    },
-   "report": "WFRD.research.05.10.2026.md"
+   "report": "WFRD.research.06.10.2026.md"
   },
   "LNG": {
    "name": "Cheniere Energy, Inc.",
-   "thesis": "Mixed fundamentals (14% net margin, 23% growth) at 13x forward; moderate momentum \u2014 pullback zone forming.",
-   "close": 269.95,
-   "close_date": "2026-10-02",
+   "thesis": "Mixed fundamentals (14% net margin, 23% growth) at 13x forward; moderate momentum \u2014 extended \u2014 wait.",
+   "close": NaN,
+   "close_date": "2026-10-05",
    "pe_ttm": 20.812263,
    "fwd_pe": 13.054506,
    "short_float": 1.89,
@@ -456,36 +456,36 @@
    "analysts": 21,
    "scores": {
     "technical": "Moderate",
-    "narrative": "Strong",
-    "entry_zone": "Pullback zone forming",
-    "rr": 2.3
+    "narrative": "Supportive",
+    "entry_zone": "Extended \u2014 wait",
+    "rr": null
    },
-   "report": "LNG.research.05.10.2026.md"
+   "report": "LNG.research.06.10.2026.md"
   },
   "KMI": {
    "name": "Kinder Morgan, Inc.",
-   "thesis": "Strong fundamentals (19% net margin, 11% growth) at 20x forward; moderate momentum \u2014 pullback zone forming.",
-   "close": 31.07,
-   "close_date": "2026-10-02",
+   "thesis": "Strong fundamentals (19% net margin, 11% growth) at 20x forward; moderate momentum \u2014 extended \u2014 wait.",
+   "close": NaN,
+   "close_date": "2026-10-05",
    "pe_ttm": 20.264517,
    "fwd_pe": 20.336151,
    "short_float": 2.39,
-   "market_cap": 69881782272,
+   "market_cap": 69943853056,
    "target": 36.09091,
    "analysts": 22,
    "scores": {
     "technical": "Moderate",
     "narrative": "Supportive",
-    "entry_zone": "Pullback zone forming",
-    "rr": 2.4
+    "entry_zone": "Extended \u2014 wait",
+    "rr": null
    },
-   "report": "KMI.research.05.10.2026.md"
+   "report": "KMI.research.06.10.2026.md"
   },
   "WMB": {
    "name": "The Williams Companies, Inc.",
-   "thesis": "Mixed fundamentals (25% net margin, 8% growth) at 27x forward; moderate momentum \u2014 pullback zone forming.",
-   "close": 70.54,
-   "close_date": "2026-10-02",
+   "thesis": "Mixed fundamentals (25% net margin, 8% growth) at 27x forward; moderate momentum \u2014 extended \u2014 wait.",
+   "close": NaN,
+   "close_date": "2026-10-05",
    "pe_ttm": 28.211155,
    "fwd_pe": 26.765396,
    "short_float": 2.22,
@@ -494,17 +494,17 @@
    "analysts": 24,
    "scores": {
     "technical": "Moderate",
-    "narrative": "Strong",
-    "entry_zone": "Pullback zone forming",
-    "rr": 4.3
+    "narrative": "Supportive",
+    "entry_zone": "Extended \u2014 wait",
+    "rr": null
    },
-   "report": "WMB.research.05.10.2026.md"
+   "report": "WMB.research.06.10.2026.md"
   },
   "ET": {
    "name": "Energy Transfer LP",
    "thesis": "Mixed fundamentals (5% net margin, 78% growth) at 12x forward; moderate momentum \u2014 near-high pivot watch.",
-   "close": 20.47,
-   "close_date": "2026-10-02",
+   "close": 20.72,
+   "close_date": "2026-10-05",
    "pe_ttm": 14.19178,
    "fwd_pe": 11.879711,
    "short_float": 1.01,
@@ -515,15 +515,15 @@
     "technical": "Moderate",
     "narrative": "Strong",
     "entry_zone": "Near-high pivot watch",
-    "rr": 3.6
+    "rr": "10+"
    },
-   "report": "ET.research.05.10.2026.md"
+   "report": "ET.research.06.10.2026.md"
   },
   "EPD": {
    "name": "Enterprise Products Partners L.P.",
-   "thesis": "Mixed fundamentals (11% net margin, 61% growth) at 12x forward; moderate momentum \u2014 pullback zone forming.",
-   "close": 36.18,
-   "close_date": "2026-10-02",
+   "thesis": "Mixed fundamentals (11% net margin, 61% growth) at 12x forward; moderate momentum \u2014 extended \u2014 wait.",
+   "close": NaN,
+   "close_date": "2026-10-05",
    "pe_ttm": 12.777777,
    "fwd_pe": 11.56618,
    "short_float": 2.4,
@@ -533,16 +533,16 @@
    "scores": {
     "technical": "Moderate",
     "narrative": "Supportive",
-    "entry_zone": "Pullback zone forming",
-    "rr": 3.2
+    "entry_zone": "Extended \u2014 wait",
+    "rr": null
    },
-   "report": "EPD.research.05.10.2026.md"
+   "report": "EPD.research.06.10.2026.md"
   },
   "TRGP": {
    "name": "Targa Resources Corp.",
-   "thesis": "Mixed fundamentals (14% net margin, 4% growth) at 24x forward; high momentum \u2014 near-high pivot watch.",
-   "close": 281.74,
-   "close_date": "2026-10-02",
+   "thesis": "Mixed fundamentals (14% net margin, 4% growth) at 24x forward; moderate momentum \u2014 extended \u2014 wait.",
+   "close": NaN,
+   "close_date": "2026-10-05",
    "pe_ttm": 27.476099,
    "fwd_pe": 23.792198,
    "short_float": 3.09,
@@ -550,18 +550,18 @@
    "target": 325.14285,
    "analysts": 21,
    "scores": {
-    "technical": "High",
-    "narrative": "Strong",
-    "entry_zone": "Near-high pivot watch",
-    "rr": 1.9
+    "technical": "Moderate",
+    "narrative": "Supportive",
+    "entry_zone": "Extended \u2014 wait",
+    "rr": null
    },
-   "report": "TRGP.research.05.10.2026.md"
+   "report": "TRGP.research.06.10.2026.md"
   },
   "OKE": {
    "name": "ONEOK, Inc.",
-   "thesis": "Mixed fundamentals (9% net margin, 53% growth) at 14x forward; moderate momentum \u2014 pullback zone forming.",
-   "close": 87.88,
-   "close_date": "2026-10-02",
+   "thesis": "Mixed fundamentals (9% net margin, 53% growth) at 14x forward; moderate momentum \u2014 extended \u2014 wait.",
+   "close": NaN,
+   "close_date": "2026-10-05",
    "pe_ttm": 15.298792,
    "fwd_pe": 14.20291,
    "short_float": 4.88,
@@ -571,130 +571,130 @@
    "scores": {
     "technical": "Moderate",
     "narrative": "Supportive",
-    "entry_zone": "Pullback zone forming",
-    "rr": 2.9
+    "entry_zone": "Extended \u2014 wait",
+    "rr": null
    },
-   "report": "OKE.research.05.10.2026.md"
+   "report": "OKE.research.06.10.2026.md"
   },
   "MPLX": {
    "name": "MPLX LP",
-   "thesis": "Strong fundamentals (39% net margin, 11% growth) at 12x forward; moderate momentum \u2014 near-high pivot watch.",
-   "close": 56.38,
-   "close_date": "2026-10-02",
+   "thesis": "Strong fundamentals (39% net margin, 11% growth) at 12x forward; moderate momentum \u2014 extended \u2014 wait.",
+   "close": NaN,
+   "close_date": "2026-10-05",
    "pe_ttm": 12.337634,
    "fwd_pe": 11.901872,
    "short_float": 1.81,
-   "market_cap": 58215272448,
+   "market_cap": 58165047296,
    "target": 62.84615,
    "analysts": 13,
    "scores": {
     "technical": "Moderate",
     "narrative": "Supportive",
-    "entry_zone": "Near-high pivot watch",
-    "rr": 3.9
+    "entry_zone": "Extended \u2014 wait",
+    "rr": null
    },
-   "report": "MPLX.research.05.10.2026.md"
+   "report": "MPLX.research.06.10.2026.md"
   },
   "MPC": {
    "name": "Marathon Petroleum Corporation",
-   "thesis": "Mixed fundamentals (6% net margin, 54% growth) at 9x forward; high momentum \u2014 extended \u2014 wait.",
-   "close": 422.33,
-   "close_date": "2026-10-02",
+   "thesis": "Mixed fundamentals (6% net margin, 54% growth) at 9x forward; moderate momentum \u2014 extended \u2014 wait.",
+   "close": NaN,
+   "close_date": "2026-10-05",
    "pe_ttm": 15.00935,
-   "fwd_pe": 8.739681,
+   "fwd_pe": 8.551921,
    "short_float": 3.19,
-   "market_cap": 126545772544,
+   "market_cap": 121729114112,
    "target": 385.55557,
    "analysts": 18,
    "scores": {
-    "technical": "High",
+    "technical": "Moderate",
     "narrative": "Supportive",
     "entry_zone": "Extended \u2014 wait",
     "rr": null
    },
-   "report": "MPC.research.05.10.2026.md"
+   "report": "MPC.research.06.10.2026.md"
   },
   "PSX": {
    "name": "Phillips 66",
-   "thesis": "Mixed fundamentals (5% net margin, 53% growth) at 10x forward; high momentum \u2014 near-high pivot watch.",
-   "close": 264.58,
-   "close_date": "2026-10-02",
+   "thesis": "Mixed fundamentals (5% net margin, 53% growth) at 10x forward; moderate momentum \u2014 extended \u2014 wait.",
+   "close": NaN,
+   "close_date": "2026-10-05",
    "pe_ttm": 15.412572,
    "fwd_pe": 10.110108,
    "short_float": 1.96,
-   "market_cap": 107623923712,
+   "market_cap": 108140191744,
    "target": 257.1579,
    "analysts": 19,
    "scores": {
-    "technical": "High",
+    "technical": "Moderate",
     "narrative": "Supportive",
-    "entry_zone": "Near-high pivot watch",
-    "rr": 0.2
+    "entry_zone": "Extended \u2014 wait",
+    "rr": null
    },
-   "report": "PSX.research.05.10.2026.md"
+   "report": "PSX.research.06.10.2026.md"
   },
   "VLO": {
    "name": "Valero Energy Corporation",
-   "thesis": "Mixed fundamentals (5% net margin, 52% growth) at 10x forward; high momentum \u2014 extended \u2014 wait.",
-   "close": 406.3,
-   "close_date": "2026-10-02",
+   "thesis": "Mixed fundamentals (5% net margin, 52% growth) at 10x forward; moderate momentum \u2014 extended \u2014 wait.",
+   "close": NaN,
+   "close_date": "2026-10-05",
    "pe_ttm": 17.479366,
-   "fwd_pe": 10.4330015,
+   "fwd_pe": 10.244945,
    "short_float": 3.91,
    "market_cap": 120736612352,
    "target": 367.6316,
    "analysts": 19,
    "scores": {
-    "technical": "High",
+    "technical": "Moderate",
     "narrative": "Supportive",
     "entry_zone": "Extended \u2014 wait",
     "rr": null
    },
-   "report": "VLO.research.05.10.2026.md"
+   "report": "VLO.research.06.10.2026.md"
   },
   "DINO": {
    "name": "HF Sinclair Corporation",
-   "thesis": "Mixed fundamentals (6% net margin, 53% growth) at 9x forward; high momentum \u2014 extended \u2014 wait.",
-   "close": 113.36,
-   "close_date": "2026-10-02",
+   "thesis": "Mixed fundamentals (6% net margin, 53% growth) at 9x forward; moderate momentum \u2014 extended \u2014 wait.",
+   "close": NaN,
+   "close_date": "2026-10-05",
    "pe_ttm": 10.973333,
-   "fwd_pe": 9.04133,
+   "fwd_pe": 8.715187,
    "short_float": 6.2,
    "market_cap": 20484255744,
    "target": 105.13333,
    "analysts": 15,
    "scores": {
-    "technical": "High",
+    "technical": "Moderate",
     "narrative": "Neutral",
     "entry_zone": "Extended \u2014 wait",
-    "rr": 0.1
+    "rr": null
    },
-   "report": "DINO.research.05.10.2026.md"
+   "report": "DINO.research.06.10.2026.md"
   },
   "CCJ": {
    "name": "Cameco Corporation",
-   "thesis": "Mixed fundamentals (10% net margin, -7% growth) at 48x forward; low momentum \u2014 broken \u2014 no zone.",
-   "close": 85.18,
-   "close_date": "2026-10-02",
+   "thesis": "Mixed fundamentals (10% net margin, -7% growth) at 48x forward; moderate momentum \u2014 extended \u2014 wait.",
+   "close": NaN,
+   "close_date": "2026-10-05",
    "pe_ttm": 148.25424,
    "fwd_pe": 48.143734,
    "short_float": null,
    "market_cap": 38096072704,
-   "target": 126.81442,
+   "target": 126.70861,
    "analysts": 11,
    "scores": {
-    "technical": "Low",
-    "narrative": "Strong",
-    "entry_zone": "Broken \u2014 no zone",
-    "rr": "10+"
+    "technical": "Moderate",
+    "narrative": "Supportive",
+    "entry_zone": "Extended \u2014 wait",
+    "rr": null
    },
-   "report": "CCJ.research.05.10.2026.md"
+   "report": "CCJ.research.06.10.2026.md"
   },
   "CEG": {
    "name": "Constellation Energy Corporation",
-   "thesis": "Mixed fundamentals (11% net margin, 23% growth) at 20x forward; low momentum \u2014 broken \u2014 no zone.",
-   "close": 257.49,
-   "close_date": "2026-10-02",
+   "thesis": "Mixed fundamentals (11% net margin, 23% growth) at 20x forward; moderate momentum \u2014 extended \u2014 wait.",
+   "close": NaN,
+   "close_date": "2026-10-05",
    "pe_ttm": 26.160313,
    "fwd_pe": 20.09135,
    "short_float": 3.7,
@@ -702,18 +702,18 @@
    "target": 341.532,
    "analysts": 20,
    "scores": {
-    "technical": "Low",
-    "narrative": "Strong",
-    "entry_zone": "Broken \u2014 no zone",
-    "rr": 3.6
+    "technical": "Moderate",
+    "narrative": "Supportive",
+    "entry_zone": "Extended \u2014 wait",
+    "rr": null
    },
-   "report": "CEG.research.05.10.2026.md"
+   "report": "CEG.research.06.10.2026.md"
   },
   "OKLO": {
    "name": "Oklo Inc.",
-   "thesis": "Mixed fundamentals (0% net margin, \u2014 growth) at -34x forward; low momentum \u2014 broken \u2014 no zone.",
-   "close": 35.87,
-   "close_date": "2026-10-02",
+   "thesis": "Mixed fundamentals (0% net margin, \u2014 growth) at -34x forward; moderate momentum \u2014 extended \u2014 wait.",
+   "close": NaN,
+   "close_date": "2026-10-05",
    "pe_ttm": null,
    "fwd_pe": -34.25225,
    "short_float": 20.52,
@@ -721,18 +721,18 @@
    "target": 75.775,
    "analysts": 20,
    "scores": {
-    "technical": "Low",
+    "technical": "Moderate",
     "narrative": "Supportive",
-    "entry_zone": "Broken \u2014 no zone",
-    "rr": "10+"
+    "entry_zone": "Extended \u2014 wait",
+    "rr": null
    },
-   "report": "OKLO.research.05.10.2026.md"
+   "report": "OKLO.research.06.10.2026.md"
   },
   "SMR": {
    "name": "NuScale Power Corporation",
-   "thesis": "Mixed fundamentals (0% net margin, -99% growth) at -12x forward; low momentum \u2014 broken \u2014 no zone.",
-   "close": 7.75,
-   "close_date": "2026-10-02",
+   "thesis": "Mixed fundamentals (0% net margin, -99% growth) at -12x forward; moderate momentum \u2014 extended \u2014 wait.",
+   "close": NaN,
+   "close_date": "2026-10-05",
    "pe_ttm": null,
    "fwd_pe": -11.634601,
    "short_float": 20.64,
@@ -740,18 +740,18 @@
    "target": 11.96667,
    "analysts": 15,
    "scores": {
-    "technical": "Low",
+    "technical": "Moderate",
     "narrative": "Neutral",
-    "entry_zone": "Broken \u2014 no zone",
-    "rr": 7.7
+    "entry_zone": "Extended \u2014 wait",
+    "rr": null
    },
-   "report": "SMR.research.05.10.2026.md"
+   "report": "SMR.research.06.10.2026.md"
   },
   "LEU": {
    "name": "Centrus Energy Corp.",
-   "thesis": "Mixed fundamentals (10% net margin, 14% growth) at 37x forward; low momentum \u2014 broken \u2014 no zone.",
-   "close": 139.27,
-   "close_date": "2026-10-02",
+   "thesis": "Mixed fundamentals (10% net margin, 14% growth) at 37x forward; moderate momentum \u2014 extended \u2014 wait.",
+   "close": NaN,
+   "close_date": "2026-10-05",
    "pe_ttm": 66.09345,
    "fwd_pe": 37.001286,
    "short_float": 27.66,
@@ -759,37 +759,37 @@
    "target": 247.39824,
    "analysts": 17,
    "scores": {
-    "technical": "Low",
+    "technical": "Moderate",
     "narrative": "\u2014",
-    "entry_zone": "Broken \u2014 no zone",
-    "rr": "10+"
+    "entry_zone": "Extended \u2014 wait",
+    "rr": null
    },
-   "report": "LEU.research.05.10.2026.md"
+   "report": "LEU.research.06.10.2026.md"
   },
   "NXE": {
    "name": "NexGen Energy Ltd.",
-   "thesis": "Mixed fundamentals (0% net margin, \u2014 growth) at -59x forward; low momentum \u2014 broken \u2014 no zone.",
-   "close": 9.0,
-   "close_date": "2026-10-02",
+   "thesis": "Mixed fundamentals (0% net margin, \u2014 growth) at -59x forward; moderate momentum \u2014 extended \u2014 wait.",
+   "close": NaN,
+   "close_date": "2026-10-05",
    "pe_ttm": null,
    "fwd_pe": -59.30934,
    "short_float": null,
-   "market_cap": 6003518464,
-   "target": 16.313944,
+   "market_cap": 6081490432,
+   "target": 16.30113,
    "analysts": 2,
    "scores": {
-    "technical": "Low",
-    "narrative": "Strong",
-    "entry_zone": "Broken \u2014 no zone",
-    "rr": "10+"
+    "technical": "Moderate",
+    "narrative": "Supportive",
+    "entry_zone": "Extended \u2014 wait",
+    "rr": null
    },
-   "report": "NXE.research.05.10.2026.md"
+   "report": "NXE.research.06.10.2026.md"
   },
   "UEC": {
    "name": "Uranium Energy Corp.",
-   "thesis": "Mixed fundamentals (0% net margin, \u2014 growth) at -312x forward; low momentum \u2014 broken \u2014 no zone.",
-   "close": 9.3,
-   "close_date": "2026-10-02",
+   "thesis": "Mixed fundamentals (0% net margin, \u2014 growth) at -312x forward; moderate momentum \u2014 extended \u2014 wait.",
+   "close": NaN,
+   "close_date": "2026-10-05",
    "pe_ttm": null,
    "fwd_pe": -311.6667,
    "short_float": 14.57,
@@ -797,18 +797,18 @@
    "target": 16.11818,
    "analysts": 11,
    "scores": {
-    "technical": "Low",
-    "narrative": "Strong",
-    "entry_zone": "Broken \u2014 no zone",
-    "rr": "10+"
+    "technical": "Moderate",
+    "narrative": "Supportive",
+    "entry_zone": "Extended \u2014 wait",
+    "rr": null
    },
-   "report": "UEC.research.05.10.2026.md"
+   "report": "UEC.research.06.10.2026.md"
   },
   "UUUU": {
    "name": "Energy Fuels Inc.",
-   "thesis": "Weak fundamentals (-77% net margin, 496% growth) at 22x forward; low momentum \u2014 broken \u2014 no zone.",
-   "close": 10.73,
-   "close_date": "2026-10-02",
+   "thesis": "Weak fundamentals (-77% net margin, 496% growth) at 22x forward; moderate momentum \u2014 extended \u2014 wait.",
+   "close": NaN,
+   "close_date": "2026-10-05",
    "pe_ttm": null,
    "fwd_pe": 22.309277,
    "short_float": 21.23,
@@ -816,37 +816,37 @@
    "target": 24.15,
    "analysts": 5,
    "scores": {
-    "technical": "Low",
-    "narrative": "Strong",
-    "entry_zone": "Broken \u2014 no zone",
-    "rr": "10+"
+    "technical": "Moderate",
+    "narrative": "Supportive",
+    "entry_zone": "Extended \u2014 wait",
+    "rr": null
    },
-   "report": "UUUU.research.05.10.2026.md"
+   "report": "UUUU.research.06.10.2026.md"
   },
   "BWXT": {
    "name": "BWX Technologies, Inc.",
-   "thesis": "Mixed fundamentals (10% net margin, 18% growth) at 26x forward; low momentum \u2014 broken \u2014 no zone.",
-   "close": 134.86,
-   "close_date": "2026-10-02",
+   "thesis": "Mixed fundamentals (10% net margin, 18% growth) at 26x forward; moderate momentum \u2014 extended \u2014 wait.",
+   "close": NaN,
+   "close_date": "2026-10-05",
    "pe_ttm": 35.06477,
-   "fwd_pe": 25.838192,
+   "fwd_pe": 25.878899,
    "short_float": 4.42,
    "market_cap": 12401036288,
    "target": 217.69438,
    "analysts": 16,
    "scores": {
-    "technical": "Low",
-    "narrative": "Strong",
-    "entry_zone": "Broken \u2014 no zone",
-    "rr": "10+"
+    "technical": "Moderate",
+    "narrative": "Supportive",
+    "entry_zone": "Extended \u2014 wait",
+    "rr": null
    },
-   "report": "BWXT.research.05.10.2026.md"
+   "report": "BWXT.research.06.10.2026.md"
   },
   "FSLR": {
    "name": "First Solar, Inc.",
-   "thesis": "Mixed fundamentals (32% net margin, -4% growth) at 8x forward; low momentum \u2014 broken \u2014 no zone.",
-   "close": 174.61,
-   "close_date": "2026-10-02",
+   "thesis": "Mixed fundamentals (32% net margin, -4% growth) at 8x forward; moderate momentum \u2014 extended \u2014 wait.",
+   "close": NaN,
+   "close_date": "2026-10-05",
    "pe_ttm": 10.860666,
    "fwd_pe": 7.588426,
    "short_float": 12.8,
@@ -854,75 +854,75 @@
    "target": 275.87134,
    "analysts": 30,
    "scores": {
-    "technical": "Low",
-    "narrative": "Strong",
-    "entry_zone": "Broken \u2014 no zone",
-    "rr": "10+"
+    "technical": "Moderate",
+    "narrative": "Supportive",
+    "entry_zone": "Extended \u2014 wait",
+    "rr": null
    },
-   "report": "FSLR.research.05.10.2026.md"
+   "report": "FSLR.research.06.10.2026.md"
   },
   "ENPH": {
    "name": "Enphase Energy, Inc.",
-   "thesis": "Mixed fundamentals (10% net margin, -20% growth) at 15x forward; low momentum \u2014 broken \u2014 no zone.",
-   "close": 33.47,
-   "close_date": "2026-10-02",
+   "thesis": "Mixed fundamentals (10% net margin, -20% growth) at 15x forward; moderate momentum \u2014 extended \u2014 wait.",
+   "close": NaN,
+   "close_date": "2026-10-05",
    "pe_ttm": 33.45,
    "fwd_pe": 15.198605,
    "short_float": 21.74,
-   "market_cap": 4408650752,
+   "market_cap": 4420238336,
    "target": 51.74231,
    "analysts": 26,
    "scores": {
-    "technical": "Low",
+    "technical": "Moderate",
     "narrative": "Supportive",
-    "entry_zone": "Broken \u2014 no zone",
-    "rr": 6.3
+    "entry_zone": "Extended \u2014 wait",
+    "rr": null
    },
-   "report": "ENPH.research.05.10.2026.md"
+   "report": "ENPH.research.06.10.2026.md"
   },
   "NEE": {
    "name": "NextEra Energy, Inc.",
-   "thesis": "Strong fundamentals (32% net margin, 12% growth) at 17x forward; low momentum \u2014 broken \u2014 no zone.",
-   "close": 76.83,
-   "close_date": "2026-10-02",
+   "thesis": "Strong fundamentals (32% net margin, 12% growth) at 17x forward; moderate momentum \u2014 extended \u2014 wait.",
+   "close": NaN,
+   "close_date": "2026-10-05",
    "pe_ttm": 17.141573,
    "fwd_pe": 17.375935,
    "short_float": 2.71,
-   "market_cap": 159089983488,
+   "market_cap": 159118409728,
    "target": 98.21053,
    "analysts": 19,
    "scores": {
-    "technical": "Low",
+    "technical": "Moderate",
     "narrative": "Supportive",
-    "entry_zone": "Broken \u2014 no zone",
-    "rr": "10+"
+    "entry_zone": "Extended \u2014 wait",
+    "rr": null
    },
-   "report": "NEE.research.05.10.2026.md"
+   "report": "NEE.research.06.10.2026.md"
   },
   "RUN": {
    "name": "Sunrun Inc.",
-   "thesis": "Mixed fundamentals (12% net margin, 53% growth) at 8x forward; low momentum \u2014 broken \u2014 no zone.",
-   "close": 7.71,
-   "close_date": "2026-10-02",
+   "thesis": "Mixed fundamentals (12% net margin, 53% growth) at 8x forward; moderate momentum \u2014 extended \u2014 wait.",
+   "close": NaN,
+   "close_date": "2026-10-05",
    "pe_ttm": 5.141892,
    "fwd_pe": 7.669129,
    "short_float": 35.38,
-   "market_cap": 1832845568,
+   "market_cap": 1815360000,
    "target": 15.86111,
    "analysts": 18,
    "scores": {
-    "technical": "Low",
+    "technical": "Moderate",
     "narrative": "Supportive",
-    "entry_zone": "Broken \u2014 no zone",
-    "rr": "10+"
+    "entry_zone": "Extended \u2014 wait",
+    "rr": null
    },
-   "report": "RUN.research.05.10.2026.md"
+   "report": "RUN.research.06.10.2026.md"
   },
   "SEDG": {
    "name": "SolarEdge Technologies, Inc.",
-   "thesis": "Weak fundamentals (-20% net margin, 20% growth) at 41x forward; low momentum \u2014 broken \u2014 no zone.",
-   "close": 33.09,
-   "close_date": "2026-10-02",
+   "thesis": "Weak fundamentals (-20% net margin, 20% growth) at 41x forward; moderate momentum \u2014 extended \u2014 wait.",
+   "close": NaN,
+   "close_date": "2026-10-05",
    "pe_ttm": null,
    "fwd_pe": 40.91883,
    "short_float": 21.99,
@@ -930,18 +930,18 @@
    "target": 38.15789,
    "analysts": 19,
    "scores": {
-    "technical": "Low",
+    "technical": "Moderate",
     "narrative": "Weak",
-    "entry_zone": "Broken \u2014 no zone",
-    "rr": 0.8
+    "entry_zone": "Extended \u2014 wait",
+    "rr": null
    },
-   "report": "SEDG.research.05.10.2026.md"
+   "report": "SEDG.research.06.10.2026.md"
   },
   "NXT": {
    "name": "Nextpower Inc.",
-   "thesis": "Mixed fundamentals (16% net margin, 8% growth) at 14x forward; low momentum \u2014 broken \u2014 no zone.",
-   "close": 84.3,
-   "close_date": "2026-10-02",
+   "thesis": "Mixed fundamentals (16% net margin, 8% growth) at 14x forward; moderate momentum \u2014 extended \u2014 wait.",
+   "close": NaN,
+   "close_date": "2026-10-05",
    "pe_ttm": 21.439278,
    "fwd_pe": 14.379251,
    "short_float": 7.96,
@@ -949,56 +949,56 @@
    "target": 138.9643,
    "analysts": 28,
    "scores": {
-    "technical": "Low",
-    "narrative": "Strong",
-    "entry_zone": "Broken \u2014 no zone",
-    "rr": 9.0
+    "technical": "Moderate",
+    "narrative": "Supportive",
+    "entry_zone": "Extended \u2014 wait",
+    "rr": null
    },
-   "report": "NXT.research.05.10.2026.md"
+   "report": "NXT.research.06.10.2026.md"
   },
   "ARRY": {
    "name": "Array Technologies, Inc.",
-   "thesis": "Weak fundamentals (-7% net margin, -6% growth) at 4x forward; low momentum \u2014 broken \u2014 no zone.",
-   "close": 4.08,
-   "close_date": "2026-10-02",
+   "thesis": "Weak fundamentals (-7% net margin, -6% growth) at 4x forward; moderate momentum \u2014 extended \u2014 wait.",
+   "close": NaN,
+   "close_date": "2026-10-05",
    "pe_ttm": null,
    "fwd_pe": 4.056964,
    "short_float": 29.11,
-   "market_cap": 600630016,
+   "market_cap": 599922944,
    "target": 8.32955,
    "analysts": 22,
    "scores": {
-    "technical": "Low",
+    "technical": "Moderate",
     "narrative": "Supportive",
-    "entry_zone": "Broken \u2014 no zone",
-    "rr": "10+"
+    "entry_zone": "Extended \u2014 wait",
+    "rr": null
    },
-   "report": "ARRY.research.05.10.2026.md"
+   "report": "ARRY.research.06.10.2026.md"
   },
   "BEP": {
    "name": "Brookfield Renewable Partners L.P.",
-   "thesis": "Weak fundamentals (-1% net margin, 1% growth) at -15x forward; low momentum \u2014 broken \u2014 no zone.",
-   "close": 28.35,
-   "close_date": "2026-10-02",
+   "thesis": "Weak fundamentals (-1% net margin, 1% growth) at -15x forward; moderate momentum \u2014 extended \u2014 wait.",
+   "close": NaN,
+   "close_date": "2026-10-05",
    "pe_ttm": null,
    "fwd_pe": -15.172288,
    "short_float": 0.46,
-   "market_cap": 13757060096,
+   "market_cap": 13728196608,
    "target": 34.61538,
    "analysts": 13,
    "scores": {
-    "technical": "Low",
+    "technical": "Moderate",
     "narrative": "Supportive",
-    "entry_zone": "Broken \u2014 no zone",
-    "rr": 8.3
+    "entry_zone": "Extended \u2014 wait",
+    "rr": null
    },
-   "report": "BEP.research.05.10.2026.md"
+   "report": "BEP.research.06.10.2026.md"
   },
   "GEV": {
    "name": "GE Vernova Inc.",
-   "thesis": "Strong fundamentals (23% net margin, 22% growth) at 39x forward; high momentum \u2014 pullback zone forming.",
-   "close": 988.7,
-   "close_date": "2026-10-02",
+   "thesis": "Strong fundamentals (23% net margin, 22% growth) at 39x forward; moderate momentum \u2014 extended \u2014 wait.",
+   "close": NaN,
+   "close_date": "2026-10-05",
    "pe_ttm": 28.383026,
    "fwd_pe": 39.3251,
    "short_float": 3.29,
@@ -1006,37 +1006,37 @@
    "target": 1230.341,
    "analysts": 33,
    "scores": {
-    "technical": "High",
-    "narrative": "Strong",
-    "entry_zone": "Pullback zone forming",
-    "rr": 2.0
+    "technical": "Moderate",
+    "narrative": "Supportive",
+    "entry_zone": "Extended \u2014 wait",
+    "rr": null
    },
-   "report": "GEV.research.05.10.2026.md"
+   "report": "GEV.research.06.10.2026.md"
   },
   "ETN": {
    "name": "Eaton Corporation plc",
-   "thesis": "Mixed fundamentals (13% net margin, 21% growth) at 27x forward; moderate momentum \u2014 pullback zone forming.",
-   "close": 436.11,
-   "close_date": "2026-10-02",
+   "thesis": "Mixed fundamentals (13% net margin, 21% growth) at 27x forward; moderate momentum \u2014 extended \u2014 wait.",
+   "close": NaN,
+   "close_date": "2026-10-05",
    "pe_ttm": 44.00814,
    "fwd_pe": 26.672388,
    "short_float": 2.0,
-   "market_cap": 167978582016,
+   "market_cap": 168021835776,
    "target": 481.1642,
    "analysts": 26,
    "scores": {
     "technical": "Moderate",
-    "narrative": "Strong",
-    "entry_zone": "Pullback zone forming",
-    "rr": 1.1
+    "narrative": "Supportive",
+    "entry_zone": "Extended \u2014 wait",
+    "rr": null
    },
-   "report": "ETN.research.05.10.2026.md"
+   "report": "ETN.research.06.10.2026.md"
   },
   "VRT": {
    "name": "Vertiv Holdings Co",
-   "thesis": "Strong fundamentals (15% net margin, 24% growth) at 28x forward; low momentum \u2014 broken \u2014 no zone.",
-   "close": 252.18,
-   "close_date": "2026-10-02",
+   "thesis": "Strong fundamentals (15% net margin, 24% growth) at 28x forward; moderate momentum \u2014 extended \u2014 wait.",
+   "close": NaN,
+   "close_date": "2026-10-05",
    "pe_ttm": 57.38009,
    "fwd_pe": 27.631937,
    "short_float": 3.68,
@@ -1044,18 +1044,18 @@
    "target": 337.42856,
    "analysts": 28,
    "scores": {
-    "technical": "Low",
-    "narrative": "Strong",
-    "entry_zone": "Broken \u2014 no zone",
-    "rr": 3.1
+    "technical": "Moderate",
+    "narrative": "Supportive",
+    "entry_zone": "Extended \u2014 wait",
+    "rr": null
    },
-   "report": "VRT.research.05.10.2026.md"
+   "report": "VRT.research.06.10.2026.md"
   },
   "PWR": {
    "name": "Quanta Services, Inc.",
-   "thesis": "Mixed fundamentals (4% net margin, 41% growth) at 35x forward; high momentum \u2014 extended \u2014 wait.",
-   "close": 676.56,
-   "close_date": "2026-10-02",
+   "thesis": "Mixed fundamentals (4% net margin, 41% growth) at 35x forward; moderate momentum \u2014 extended \u2014 wait.",
+   "close": NaN,
+   "close_date": "2026-10-05",
    "pe_ttm": 78.28408,
    "fwd_pe": 34.56165,
    "short_float": 2.4,
@@ -1063,18 +1063,18 @@
    "target": 769.0407,
    "analysts": 29,
    "scores": {
-    "technical": "High",
-    "narrative": "Strong",
+    "technical": "Moderate",
+    "narrative": "Supportive",
     "entry_zone": "Extended \u2014 wait",
-    "rr": 1.1
+    "rr": null
    },
-   "report": "PWR.research.05.10.2026.md"
+   "report": "PWR.research.06.10.2026.md"
   },
   "FLNC": {
    "name": "Fluence Energy, Inc.",
-   "thesis": "Weak fundamentals (-3% net margin, 8% growth) at -29x forward; low momentum \u2014 broken \u2014 no zone.",
-   "close": 7.61,
-   "close_date": "2026-10-02",
+   "thesis": "Weak fundamentals (-3% net margin, 8% growth) at -29x forward; moderate momentum \u2014 extended \u2014 wait.",
+   "close": NaN,
+   "close_date": "2026-10-05",
    "pe_ttm": null,
    "fwd_pe": -28.722687,
    "short_float": 36.54,
@@ -1082,18 +1082,18 @@
    "target": 10.0,
    "analysts": 20,
    "scores": {
-    "technical": "Low",
+    "technical": "Moderate",
     "narrative": "Neutral",
-    "entry_zone": "Broken \u2014 no zone",
-    "rr": 3.7
+    "entry_zone": "Extended \u2014 wait",
+    "rr": null
    },
-   "report": "FLNC.research.05.10.2026.md"
+   "report": "FLNC.research.06.10.2026.md"
   },
   "BE": {
    "name": "Bloom Energy Corporation",
-   "thesis": "Mixed fundamentals (8% net margin, 166% growth) at 58x forward; high momentum \u2014 extended \u2014 wait.",
-   "close": 289.15,
-   "close_date": "2026-10-02",
+   "thesis": "Mixed fundamentals (8% net margin, 166% growth) at 58x forward; moderate momentum \u2014 extended \u2014 wait.",
+   "close": NaN,
+   "close_date": "2026-10-05",
    "pe_ttm": 377.17105,
    "fwd_pe": 58.001656,
    "short_float": 7.34,
@@ -1101,56 +1101,56 @@
    "target": 282.81537,
    "analysts": 26,
    "scores": {
-    "technical": "High",
+    "technical": "Moderate",
     "narrative": "Supportive",
     "entry_zone": "Extended \u2014 wait",
-    "rr": 1.2
+    "rr": null
    },
-   "report": "BE.research.05.10.2026.md"
+   "report": "BE.research.06.10.2026.md"
   },
   "EOSE": {
    "name": "Eos Energy Enterprises, Inc.",
-   "thesis": "Weak fundamentals (-247% net margin, 351% growth) at -19x forward; low momentum \u2014 broken \u2014 no zone.",
-   "close": 3.21,
-   "close_date": "2026-10-02",
+   "thesis": "Weak fundamentals (-247% net margin, 351% growth) at -19x forward; moderate momentum \u2014 extended \u2014 wait.",
+   "close": NaN,
+   "close_date": "2026-10-05",
    "pe_ttm": null,
    "fwd_pe": -18.841833,
    "short_float": 33.28,
-   "market_cap": 1190828544,
+   "market_cap": 1182717568,
    "target": 6.5,
    "analysts": 9,
    "scores": {
-    "technical": "Low",
+    "technical": "Moderate",
     "narrative": "Supportive",
-    "entry_zone": "Broken \u2014 no zone",
-    "rr": "10+"
+    "entry_zone": "Extended \u2014 wait",
+    "rr": null
    },
-   "report": "EOSE.research.05.10.2026.md"
+   "report": "EOSE.research.06.10.2026.md"
   },
   "HUBB": {
    "name": "Hubbell Incorporated",
-   "thesis": "Mixed fundamentals (14% net margin, 15% growth) at 21x forward; low momentum \u2014 broken \u2014 no zone.",
-   "close": 475.52,
-   "close_date": "2026-10-02",
+   "thesis": "Mixed fundamentals (14% net margin, 15% growth) at 21x forward; moderate momentum \u2014 extended \u2014 wait.",
+   "close": NaN,
+   "close_date": "2026-10-05",
    "pe_ttm": 28.457668,
    "fwd_pe": 20.940098,
    "short_float": 6.21,
-   "market_cap": 25398398976,
+   "market_cap": 25393975296,
    "target": 560.5833,
    "analysts": 12,
    "scores": {
-    "technical": "Low",
+    "technical": "Moderate",
     "narrative": "Supportive",
-    "entry_zone": "Broken \u2014 no zone",
-    "rr": 1.8
+    "entry_zone": "Extended \u2014 wait",
+    "rr": null
    },
-   "report": "HUBB.research.05.10.2026.md"
+   "report": "HUBB.research.06.10.2026.md"
   },
   "VST": {
    "name": "Vistra Corp.",
-   "thesis": "Mixed fundamentals (12% net margin, -6% growth) at 14x forward; low momentum \u2014 broken \u2014 no zone.",
-   "close": 140.02,
-   "close_date": "2026-10-02",
+   "thesis": "Mixed fundamentals (12% net margin, -6% growth) at 14x forward; moderate momentum \u2014 extended \u2014 wait.",
+   "close": NaN,
+   "close_date": "2026-10-05",
    "pe_ttm": 24.43339,
    "fwd_pe": 13.909876,
    "short_float": 3.35,
@@ -1158,18 +1158,18 @@
    "target": 212.25,
    "analysts": 20,
    "scores": {
-    "technical": "Low",
-    "narrative": "Strong",
-    "entry_zone": "Broken \u2014 no zone",
-    "rr": 5.9
+    "technical": "Moderate",
+    "narrative": "Supportive",
+    "entry_zone": "Extended \u2014 wait",
+    "rr": null
    },
-   "report": "VST.research.05.10.2026.md"
+   "report": "VST.research.06.10.2026.md"
   },
   "NRG": {
    "name": "NRG Energy, Inc.",
-   "thesis": "Mixed fundamentals (3% net margin, 11% growth) at 9x forward; low momentum \u2014 broken \u2014 no zone.",
-   "close": 95.23,
-   "close_date": "2026-10-02",
+   "thesis": "Mixed fundamentals (3% net margin, 11% growth) at 9x forward; moderate momentum \u2014 extended \u2014 wait.",
+   "close": NaN,
+   "close_date": "2026-10-05",
    "pe_ttm": 25.340315,
    "fwd_pe": 8.651215,
    "short_float": 3.71,
@@ -1177,18 +1177,18 @@
    "target": 185.5,
    "analysts": 16,
    "scores": {
-    "technical": "Low",
-    "narrative": "Strong",
-    "entry_zone": "Broken \u2014 no zone",
-    "rr": "10+"
+    "technical": "Moderate",
+    "narrative": "Supportive",
+    "entry_zone": "Extended \u2014 wait",
+    "rr": null
    },
-   "report": "NRG.research.05.10.2026.md"
+   "report": "NRG.research.06.10.2026.md"
   },
   "TLN": {
    "name": "Talen Energy Corporation",
-   "thesis": "Weak fundamentals (-5% net margin, 111% growth) at 11x forward; moderate momentum \u2014 broken \u2014 no zone.",
-   "close": 320.77,
-   "close_date": "2026-10-02",
+   "thesis": "Weak fundamentals (-5% net margin, 111% growth) at 11x forward; moderate momentum \u2014 extended \u2014 wait.",
+   "close": NaN,
+   "close_date": "2026-10-05",
    "pe_ttm": null,
    "fwd_pe": 10.790864,
    "short_float": 6.33,
@@ -1197,17 +1197,17 @@
    "analysts": 17,
    "scores": {
     "technical": "Moderate",
-    "narrative": "Strong",
-    "entry_zone": "Broken \u2014 no zone",
-    "rr": 2.4
+    "narrative": "Supportive",
+    "entry_zone": "Extended \u2014 wait",
+    "rr": null
    },
-   "report": "TLN.research.05.10.2026.md"
+   "report": "TLN.research.06.10.2026.md"
   },
   "DUK": {
    "name": "Duke Energy Corporation",
-   "thesis": "Mixed fundamentals (16% net margin, 1% growth) at 16x forward; low momentum \u2014 broken \u2014 no zone.",
-   "close": 114.13,
-   "close_date": "2026-10-02",
+   "thesis": "Mixed fundamentals (16% net margin, 1% growth) at 16x forward; moderate momentum \u2014 extended \u2014 wait.",
+   "close": NaN,
+   "close_date": "2026-10-05",
    "pe_ttm": 17.144579,
    "fwd_pe": 15.874232,
    "short_float": 2.71,
@@ -1215,18 +1215,18 @@
    "target": 136.11111,
    "analysts": 18,
    "scores": {
-    "technical": "Low",
+    "technical": "Moderate",
     "narrative": "Supportive",
-    "entry_zone": "Broken \u2014 no zone",
-    "rr": "10+"
+    "entry_zone": "Extended \u2014 wait",
+    "rr": null
    },
-   "report": "DUK.research.05.10.2026.md"
+   "report": "DUK.research.06.10.2026.md"
   },
   "SO": {
    "name": "The Southern Company",
-   "thesis": "Mixed fundamentals (15% net margin, 0% growth) at 17x forward; low momentum \u2014 broken \u2014 no zone.",
-   "close": 83.72,
-   "close_date": "2026-10-02",
+   "thesis": "Mixed fundamentals (15% net margin, 0% growth) at 17x forward; moderate momentum \u2014 extended \u2014 wait.",
+   "close": NaN,
+   "close_date": "2026-10-05",
    "pe_ttm": 20.190361,
    "fwd_pe": 17.019382,
    "short_float": 2.52,
@@ -1234,18 +1234,18 @@
    "target": 98.13158,
    "analysts": 19,
    "scores": {
-    "technical": "Low",
+    "technical": "Moderate",
     "narrative": "Neutral",
-    "entry_zone": "Broken \u2014 no zone",
-    "rr": 6.8
+    "entry_zone": "Extended \u2014 wait",
+    "rr": null
    },
-   "report": "SO.research.05.10.2026.md"
+   "report": "SO.research.06.10.2026.md"
   },
   "D": {
    "name": "Dominion Energy, Inc.",
-   "thesis": "Mixed fundamentals (14% net margin, 18% growth) at 16x forward; moderate momentum \u2014 broken \u2014 no zone.",
-   "close": 61.31,
-   "close_date": "2026-10-02",
+   "thesis": "Mixed fundamentals (14% net margin, 18% growth) at 16x forward; moderate momentum \u2014 extended \u2014 wait.",
+   "close": NaN,
+   "close_date": "2026-10-05",
    "pe_ttm": 21.114185,
    "fwd_pe": 15.997987,
    "short_float": 2.54,
@@ -1255,35 +1255,35 @@
    "scores": {
     "technical": "Moderate",
     "narrative": "Neutral",
-    "entry_zone": "Broken \u2014 no zone",
-    "rr": 6.9
+    "entry_zone": "Extended \u2014 wait",
+    "rr": null
    },
-   "report": "D.research.05.10.2026.md"
+   "report": "D.research.06.10.2026.md"
   },
   "PEG": {
    "name": "Public Service Enterprise Group Incorporated",
-   "thesis": "Mixed fundamentals (16% net margin, -9% growth) at 15x forward; low momentum \u2014 broken \u2014 no zone.",
-   "close": 68.07,
-   "close_date": "2026-10-02",
+   "thesis": "Mixed fundamentals (16% net margin, -9% growth) at 15x forward; moderate momentum \u2014 extended \u2014 wait.",
+   "close": NaN,
+   "close_date": "2026-10-05",
    "pe_ttm": 17.084578,
    "fwd_pe": 14.699021,
    "short_float": 2.5,
-   "market_cap": 34224713728,
+   "market_cap": 34231488512,
    "target": 84.47222,
    "analysts": 18,
    "scores": {
-    "technical": "Low",
+    "technical": "Moderate",
     "narrative": "Supportive",
-    "entry_zone": "Broken \u2014 no zone",
-    "rr": 6.2
+    "entry_zone": "Extended \u2014 wait",
+    "rr": null
    },
-   "report": "PEG.research.05.10.2026.md"
+   "report": "PEG.research.06.10.2026.md"
   },
   "ETR": {
    "name": "Entergy Corporation",
-   "thesis": "Mixed fundamentals (13% net margin, 6% growth) at 20x forward; low momentum \u2014 broken \u2014 no zone.",
-   "close": 100.91,
-   "close_date": "2026-10-02",
+   "thesis": "Mixed fundamentals (13% net margin, 6% growth) at 20x forward; moderate momentum \u2014 extended \u2014 wait.",
+   "close": NaN,
+   "close_date": "2026-10-05",
    "pe_ttm": 25.785166,
    "fwd_pe": 19.751587,
    "short_float": 3.98,
@@ -1291,12 +1291,12 @@
    "target": 122.275,
    "analysts": 20,
    "scores": {
-    "technical": "Low",
-    "narrative": "Strong",
-    "entry_zone": "Broken \u2014 no zone",
-    "rr": 5.5
+    "technical": "Moderate",
+    "narrative": "Supportive",
+    "entry_zone": "Extended \u2014 wait",
+    "rr": null
    },
-   "report": "ETR.research.05.10.2026.md"
+   "report": "ETR.research.06.10.2026.md"
   }
  }
 }
