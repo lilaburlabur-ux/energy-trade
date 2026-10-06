@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-10-06T20:18:12+00:00",
-  "as_of_local": "2026-10-06 20:18:12 UTC",
+  "as_of_utc": "2026-10-06T20:20:19+00:00",
+  "as_of_local": "2026-10-06 20:20:19 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -16,10 +16,10 @@
     {
       "symbol": "CVX",
       "name": "Chevron",
-      "price": 207.61,
+      "price": 207.58,
       "previous_close": 206.47,
-      "change_pct": 0.55,
-      "market_cap": 407248456912.4076,
+      "change_pct": 0.54,
+      "market_cap": 407189611208.7229,
       "headlines": []
     },
     {
@@ -145,7 +145,7 @@
       "price": 85.43,
       "previous_close": 83.79,
       "change_pct": 1.96,
-      "market_cap": 98275508536.44292,
+      "market_cap": 98287014623.54333,
       "headlines": []
     },
     {
@@ -358,10 +358,10 @@
     {
       "symbol": "EQT",
       "name": "EQT Corp",
-      "price": 52.48,
+      "price": 52.47,
       "previous_close": 51.12,
-      "change_pct": 2.66,
-      "market_cap": 32827079393.6615,
+      "change_pct": 2.64,
+      "market_cap": 32820825283.569336,
       "headlines": []
     },
     {
@@ -638,8 +638,8 @@
           "name": "Chevron Corp",
           "short": "Chevron",
           "weight_pct": 18.05,
-          "change_pct": 0.55,
-          "price": 207.61,
+          "change_pct": 0.54,
+          "price": 207.58,
           "currency": "USD"
         },
         {
@@ -737,8 +737,8 @@
         "name": "Chevron Corp",
         "short": "Chevron",
         "weight_pct": 18.05,
-        "change_pct": 0.55,
-        "price": 207.61,
+        "change_pct": 0.54,
+        "price": 207.58,
         "currency": "USD"
       },
       {
@@ -823,18 +823,18 @@
     },
     {
       "label": "WTI",
-      "price": 89.82,
-      "change_pct": 0.44
+      "price": 89.9,
+      "change_pct": 0.53
     },
     {
       "label": "Brent",
-      "price": 101.04,
-      "change_pct": 0.72
+      "price": 101.09,
+      "change_pct": 0.77
     },
     {
       "label": "NatGas",
       "price": 3.12,
-      "change_pct": 1.83
+      "change_pct": 1.79
     }
   ]
 }
