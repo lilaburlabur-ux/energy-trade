@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-10-06T00:02:22+00:00",
-  "as_of_local": "2026-10-06 00:02:22 UTC",
+  "as_of_utc": "2026-10-06T00:07:09+00:00",
+  "as_of_local": "2026-10-06 00:07:09 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "ET"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -218,15 +220,6 @@
       "previous_close": 48.66,
       "change_pct": 0.16,
       "market_cap": 74622721654.68001,
-      "headlines": []
-    },
-    {
-      "symbol": "ET",
-      "name": "Energy Transfer",
-      "price": 20.47,
-      "previous_close": 20.1,
-      "change_pct": 1.84,
-      "market_cap": 71345167732.72,
       "headlines": []
     },
     {
@@ -823,18 +816,18 @@
     },
     {
       "label": "WTI",
-      "price": 89.23,
-      "change_pct": -2.06
+      "price": 89.18,
+      "change_pct": -2.12
     },
     {
       "label": "Brent",
-      "price": 100.23,
-      "change_pct": -1.98
+      "price": 100.24,
+      "change_pct": -1.97
     },
     {
       "label": "NatGas",
       "price": 3.07,
-      "change_pct": 1.25
+      "change_pct": 1.15
     }
   ]
 }
