@@ -1,11 +1,18 @@
 {
-  "as_of_utc": "2026-10-06T09:01:33+00:00",
-  "as_of_local": "2026-10-06 09:01:33 UTC",
+  "as_of_utc": "2026-10-06T09:06:43+00:00",
+  "as_of_local": "2026-10-06 09:06:43 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "XOM"
-  ],
+  "errors": [],
   "stocks": [
+    {
+      "symbol": "XOM",
+      "name": "ExxonMobil",
+      "price": 164.0,
+      "previous_close": 164.01,
+      "change_pct": -0.01,
+      "market_cap": 674353561440.0,
+      "headlines": []
+    },
     {
       "symbol": "CVX",
       "name": "Chevron",
@@ -622,8 +629,8 @@
           "name": "ExxonMobil Holdings Corp",
           "short": "ExxonMobil",
           "weight_pct": 24.03,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": -0.01,
+          "price": 164.0,
           "currency": "USD"
         },
         {
@@ -721,8 +728,8 @@
         "name": "ExxonMobil Holdings Corp",
         "short": "ExxonMobil",
         "weight_pct": 24.03,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": -0.01,
+        "price": 164.0,
         "currency": "USD"
       },
       {
@@ -816,18 +823,18 @@
     },
     {
       "label": "WTI",
-      "price": 88.05,
-      "change_pct": -1.54
+      "price": 87.92,
+      "change_pct": -1.69
     },
     {
       "label": "Brent",
-      "price": 99.25,
-      "change_pct": -1.07
+      "price": 99.04,
+      "change_pct": -1.28
     },
     {
       "label": "NatGas",
       "price": 3.08,
-      "change_pct": 0.42
+      "change_pct": 0.36
     }
   ]
 }
