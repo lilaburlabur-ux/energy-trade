@@ -1,7 +1,7 @@
 {
  "meta": {
   "source": "Energy Trade curated universe (seed_energy_universe.py)",
-  "as_of": "2026-10-06 02:58 UTC",
+  "as_of": "2026-10-06 03:13 UTC",
   "total_tickers": 67,
   "min_bubble_size": 7,
   "render_spec": {
@@ -18,8 +18,8 @@
    "label": "Oil & Gas Majors",
    "color": "#E8A33D",
    "count": 8,
-   "total_market_cap_b": 2003.34,
-   "avg_change_pct": 0.07,
+   "total_market_cap_b": 2004.15,
+   "avg_change_pct": 0.02,
    "industries_included": [
     "Oil & Gas E&P",
     "Oil & Gas Integrated"
@@ -133,11 +133,11 @@
      "sector": "Energy",
      "industry": "Oil & Gas Integrated",
      "country": "United Kingdom",
-     "market_cap_b": 267.96,
+     "market_cap_b": 268.77,
      "pe": 10.62,
-     "price": 96.23,
-     "change_pct": 0.65,
-     "volume": 6714097,
+     "price": 96.52,
+     "change_pct": 0.3,
+     "volume": 6676099,
      "perf": {
       "1W": 0.5,
       "1M": 3.7,
@@ -1237,8 +1237,8 @@
    "label": "Midstream & LNG",
    "color": "#C9A227",
    "count": 8,
-   "total_market_cap_b": 536.87,
-   "avg_change_pct": 1.4,
+   "total_market_cap_b": 537.73,
+   "avg_change_pct": 1.32,
    "industries_included": [
     "Oil & Gas Midstream"
    ],
@@ -1351,11 +1351,11 @@
      "sector": "Energy",
      "industry": "Oil & Gas Midstream",
      "country": "United States",
-     "market_cap_b": 70.81,
+     "market_cap_b": 71.67,
      "pe": 14.19,
-     "price": 20.47,
-     "change_pct": 1.84,
-     "volume": 7204304,
+     "price": 20.72,
+     "change_pct": 1.22,
+     "volume": 472789,
      "perf": {
       "1W": 3.1,
       "1M": -3.4,
@@ -1652,7 +1652,7 @@
      "fwd_eps": 6.24
     }
    ],
-   "median_change_pct": 1.73,
+   "median_change_pct": 1.46,
    "pe_hm": 17.1
   },
   {
