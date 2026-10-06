@@ -4,8 +4,8 @@ Signed file: `KMI.research.06.10.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-10-06, ~15-min delayed) |
-| Market cap | $69.94B |
+| Current price | $31.41 (2026-10-06, ~15-min delayed) |
+| Market cap | $69.88B |
 | Sector / Industry | Energy / Oil & Gas Midstream |
 | Main theme | Oil & Gas Midstream — see catalysts below |
 | Current stance | Moderate technical momentum, strong fundamentals, value: fair-to-demanding, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `KMI.research.06.10.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +15.78%; price +1.03% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -7.60% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 19.30%, revenue growth 10.80%. |
 | Value attractiveness | Fair-to-demanding | Forward P/E 20.34, EV/Sales 5.76. |
-| Risk level | Moderate | Beta 0.58, ATR nan% of price, short float 2.39%. |
+| Risk level | Moderate | Beta 0.58, ATR 2.3% of price, short float 2.39%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: fair-to-demanding, risk: moderate.
 
@@ -35,22 +35,22 @@ Kinder Morgan, Inc. operates as an energy infrastructure company primarily in No
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $33.99 (+nan%); 52w low $24.86 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 49.1 (neutral) |
-| Volatility | ATR(14) 0.71 (~nan% of price); beta 0.58 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $31.41; 52w high $33.99 (-7.60%); 52w low $24.86 (+26.34%) |
+| Trend | +1.03% vs SMA200, -0.02% vs SMA50, +1.09% vs SMA20 |
+| Momentum | RSI(14) 52.9 (neutral) |
+| Volatility | ATR(14) 0.73 (~2.3% of price); beta 0.58 |
+| Setup perspective | -7.60% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | +2.5% |
+| Month | -0.6% |
+| Quarter | -2.4% |
+| Half Y | -3.6% |
+| 1Y | +15.8% |
+| YTD | +16.6% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -87,6 +87,7 @@ Kinder Morgan, Inc. operates as an energy infrastructure company primarily in No
 
 ## 6. Risk Review and Setup Plan
 - **Valuation risk:** Forward P/E 20.34, EV/Sales 5.76. Multiple compression is the main downside if growth disappoints.
+- **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -101,19 +102,19 @@ Kinder Morgan, Inc. operates as an energy infrastructure company primarily in No
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 5.76 |
-| Market cap | $69.94B | EV/EBITDA | 13.56 |
+| Price | $31.41 | EV/Sales | 5.76 |
+| Market cap | $69.88B | EV/EBITDA | 13.56 |
 | Beta | 0.58 | Gross margin | 49.41% |
-| RSI(14) | 49.1 | Operating margin | 30.06% |
-| ATR(14) | 0.71 | Profit margin | 19.30% |
-| SMA20 dist | +nan% | ROA | 4.45% |
-| SMA50 dist | +nan% | ROE | 10.99% |
-| SMA200 dist | +nan% | Revenue (ttm) | $17.96B |
+| RSI(14) | 52.9 | Operating margin | 30.06% |
+| ATR(14) | 0.73 | Profit margin | 19.30% |
+| SMA20 dist | +1.09% | ROA | 4.45% |
+| SMA50 dist | -0.02% | ROE | 10.99% |
+| SMA200 dist | +1.03% | Revenue (ttm) | $17.96B |
 | 52W high | $33.99 | Revenue growth y/y | 10.80% |
 | 52W low | $24.86 | Inst. ownership | 70.83% |
 | P/E (ttm) | 20.26 | Insider ownership | 12.70% |
 | Forward P/E | 20.34 | Short float | 2.39% |
-| PEG (trailing) | 3.19 | Avg volume | 10,917,357 |
+| PEG (trailing) | 3.19 | Avg volume | 10,976,665 |
 | P/S | 3.89 | Employees | 11,028 |
 | P/B | 2.21 | Analyst rec (1=buy..5=sell) | 2.1 |
 

@@ -4,24 +4,24 @@ Signed file: `DUK.research.06.10.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-10-06, ~15-min delayed) |
+| Current price | $113.84 (2026-10-06, ~15-min delayed) |
 | Market cap | $88.76B |
 | Sector / Industry | Utilities / Utilities - Regulated Electric |
 | Main theme | Utilities - Regulated Electric — see catalysts below |
-| Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
+| Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-10-06.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-6.97%) with negative half-year (-11.85%). |
+| Fresh setup quality | Moderate / wait | -13.21% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 16.00%, revenue growth 1.10%. |
 | Value attractiveness | Reasonable | Forward P/E 15.87, EV/Sales 5.59. |
-| Risk level | Moderate | Beta 0.34, ATR nan% of price, short float 2.71%. |
+| Risk level | Moderate | Beta 0.34, ATR 1.4% of price, short float 2.71%. |
 
-**Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
+**Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -35,22 +35,22 @@ Duke Energy Corporation, through its subsidiaries, operates as an energy company
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $131.16 (+nan%); 52w low $111.09 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 32.6 (neutral) |
-| Volatility | ATR(14) 1.60 (~nan% of price); beta 0.34 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $113.84; 52w high $131.16 (-13.21%); 52w low $111.09 (+2.47%) |
+| Trend | -6.97% vs SMA200, -5.31% vs SMA50, -2.21% vs SMA20 |
+| Momentum | RSI(14) 31.5 (neutral) |
+| Volatility | ATR(14) 1.56 (~1.4% of price); beta 0.34 |
+| Setup perspective | -13.21% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | +0.4% |
+| Month | -6.2% |
+| Quarter | -10.4% |
+| Half Y | -11.9% |
+| 1Y | -3.1% |
+| YTD | -0.5% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -100,14 +100,14 @@ Duke Energy Corporation, through its subsidiaries, operates as an energy company
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 5.59 |
+| Price | $113.84 | EV/Sales | 5.59 |
 | Market cap | $88.76B | EV/EBITDA | 11.04 |
 | Beta | 0.34 | Gross margin | 51.97% |
-| RSI(14) | 32.6 | Operating margin | 27.50% |
-| ATR(14) | 1.60 | Profit margin | 16.00% |
-| SMA20 dist | +nan% | ROA | 2.84% |
-| SMA50 dist | +nan% | ROE | 9.86% |
-| SMA200 dist | +nan% | Revenue (ttm) | $32.80B |
+| RSI(14) | 31.5 | Operating margin | 27.50% |
+| ATR(14) | 1.56 | Profit margin | 16.00% |
+| SMA20 dist | -2.21% | ROA | 2.84% |
+| SMA50 dist | -5.31% | ROE | 9.86% |
+| SMA200 dist | -6.97% | Revenue (ttm) | $32.80B |
 | 52W high | $131.16 | Revenue growth y/y | 1.10% |
 | 52W low | $111.09 | Inst. ownership | 71.14% |
 | P/E (ttm) | 17.14 | Insider ownership | 0.13% |
@@ -129,7 +129,7 @@ Duke Energy Corporation, through its subsidiaries, operates as an energy company
 | 2026-07-17 | main | Truist Securities | Buy → Buy |
 
 ## 9. Conclusion
-DUK: Moderate momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+DUK: Low momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

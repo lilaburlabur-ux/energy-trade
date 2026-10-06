@@ -5,7 +5,7 @@ Signed file: `HUBB.research.06.10.2026`
 | Field | Value |
 |---|---|
 | Current price | $nan (2026-10-06, ~15-min delayed) |
-| Market cap | $25.39B |
+| Market cap | $25.40B |
 | Sector / Industry | Industrials / Electrical Equipment & Parts |
 | Main theme | Electrical Equipment & Parts — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: fair-to-demanding, risk: moderate. |
@@ -103,7 +103,7 @@ Hubbell Incorporated, together with its subsidiaries, manufactures and sells ele
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $nan | EV/Sales | 4.91 |
-| Market cap | $25.39B | EV/EBITDA | 20.17 |
+| Market cap | $25.40B | EV/EBITDA | 20.17 |
 | Beta | 0.85 | Gross margin | 35.34% |
 | RSI(14) | 58.0 | Operating margin | 21.67% |
 | ATR(14) | 12.84 | Profit margin | 14.49% |
@@ -114,7 +114,7 @@ Hubbell Incorporated, together with its subsidiaries, manufactures and sells ele
 | 52W low | $402.45 | Inst. ownership | 99.12% |
 | P/E (ttm) | 28.46 | Insider ownership | 0.35% |
 | Forward P/E | 20.94 | Short float | 6.21% |
-| PEG (trailing) | 1.95 | Avg volume | 510,237 |
+| PEG (trailing) | 1.95 | Avg volume | 511,104 |
 | P/S | 4.08 | Employees | 19,400 |
 | P/B | 6.49 | Analyst rec (1=buy..5=sell) | 2.0 |
 

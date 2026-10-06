@@ -4,7 +4,7 @@ Signed file: `TLN.research.06.10.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-10-06, ~15-min delayed) |
+| Current price | $331.87 (2026-10-06, ~15-min delayed) |
 | Market cap | $15.70B |
 | Sector / Industry | Utilities / Utilities - Independent Power Producers |
 | Main theme | Utilities - Independent Power Producers — see catalysts below |
@@ -15,11 +15,11 @@ Signed file: `TLN.research.06.10.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y -23.54%; price -5.62% vs SMA200. |
+| Fresh setup quality | Poor / broken | -25.56% from 52w high — base needs to rebuild. |
 | Fundamental quality | Weak | Negative profit margin (-4.95%). |
 | Value attractiveness | Reasonable | Forward P/E 10.79, EV/Sales 6.75. |
-| Risk level | Elevated | Beta 1.62, ATR nan% of price, short float 6.33%. |
+| Risk level | Elevated | Beta 1.62, ATR 4.3% of price, short float 6.33%. |
 
 **Bottom line:** Moderate technical momentum, weak fundamentals, value: reasonable, risk: elevated.
 
@@ -35,22 +35,22 @@ Talen Energy Corporation, an independent power producer and infrastructure compa
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $445.84 (+nan%); 52w low $282.15 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 56.4 (neutral) |
-| Volatility | ATR(14) 14.09 (~nan% of price); beta 1.62 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $331.87; 52w high $445.84 (-25.56%); 52w low $282.15 (+17.62%) |
+| Trend | -5.62% vs SMA200, +4.21% vs SMA50, +8.50% vs SMA20 |
+| Momentum | RSI(14) 61.8 (neutral) |
+| Volatility | ATR(14) 14.37 (~4.3% of price); beta 1.62 |
+| Setup perspective | -25.56% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | +9.3% |
+| Month | +8.6% |
+| Quarter | -9.5% |
+| Half Y | +2.4% |
+| 1Y | -23.5% |
+| YTD | -16.3% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -86,9 +86,10 @@ Talen Energy Corporation, an independent power producer and infrastructure compa
 | Sachem Head Capital Management, LP | 1,370,000 | 2.32% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.62, ATR nan% of price, short float 6.33%. Size positions accordingly.
+- **Volatility risk:** Beta 1.62, ATR 4.3% of price, short float 6.33%. Size positions accordingly.
 - **Short interest risk:** short float 6.33% can fuel squeezes both ways around news.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
+- **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -103,19 +104,19 @@ Talen Energy Corporation, an independent power producer and infrastructure compa
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 6.75 |
+| Price | $331.87 | EV/Sales | 6.75 |
 | Market cap | $15.70B | EV/EBITDA | 43.41 |
 | Beta | 1.62 | Gross margin | 42.10% |
-| RSI(14) | 56.4 | Operating margin | -4.80% |
-| ATR(14) | 14.09 | Profit margin | -4.95% |
-| SMA20 dist | +nan% | ROA | 0.92% |
-| SMA50 dist | +nan% | ROE | -12.83% |
-| SMA200 dist | +nan% | Revenue (ttm) | $3.74B |
+| RSI(14) | 61.8 | Operating margin | -4.80% |
+| ATR(14) | 14.37 | Profit margin | -4.95% |
+| SMA20 dist | +8.50% | ROA | 0.92% |
+| SMA50 dist | +4.21% | ROE | -12.83% |
+| SMA200 dist | -5.62% | Revenue (ttm) | $3.74B |
 | 52W high | $445.84 | Revenue growth y/y | 111.20% |
 | 52W low | $282.15 | Inst. ownership | 103.50% |
 | P/E (ttm) | — | Insider ownership | 1.38% |
 | Forward P/E | 10.79 | Short float | 6.33% |
-| PEG (trailing) | — | Avg volume | 798,621 |
+| PEG (trailing) | — | Avg volume | 800,066 |
 | P/S | 4.20 | Employees | 1,880 |
 | P/B | 9.84 | Analyst rec (1=buy..5=sell) | 1.6 |
 
