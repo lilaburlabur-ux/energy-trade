@@ -1,16 +1,16 @@
 {
-  "as_of_utc": "2026-10-06T20:20:19+00:00",
-  "as_of_local": "2026-10-06 20:20:19 UTC",
+  "as_of_utc": "2026-10-06T20:23:29+00:00",
+  "as_of_local": "2026-10-06 20:23:29 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
       "name": "ExxonMobil",
-      "price": 164.46,
+      "price": 164.48,
       "previous_close": 164.0,
-      "change_pct": 0.28,
-      "market_cap": 676245068548.4308,
+      "change_pct": 0.29,
+      "market_cap": 676327261612.8168,
       "headlines": []
     },
     {
@@ -142,9 +142,9 @@
     {
       "symbol": "SO",
       "name": "Southern Company",
-      "price": 85.43,
+      "price": 85.44,
       "previous_close": 83.79,
-      "change_pct": 1.96,
+      "change_pct": 1.97,
       "market_cap": 98287014623.54333,
       "headlines": []
     },
@@ -629,8 +629,8 @@
           "name": "ExxonMobil Holdings Corp",
           "short": "ExxonMobil",
           "weight_pct": 24.03,
-          "change_pct": 0.28,
-          "price": 164.46,
+          "change_pct": 0.29,
+          "price": 164.48,
           "currency": "USD"
         },
         {
@@ -728,8 +728,8 @@
         "name": "ExxonMobil Holdings Corp",
         "short": "ExxonMobil",
         "weight_pct": 24.03,
-        "change_pct": 0.28,
-        "price": 164.46,
+        "change_pct": 0.29,
+        "price": 164.48,
         "currency": "USD"
       },
       {
@@ -823,18 +823,18 @@
     },
     {
       "label": "WTI",
-      "price": 89.9,
-      "change_pct": 0.53
+      "price": 89.94,
+      "change_pct": 0.57
     },
     {
       "label": "Brent",
-      "price": 101.09,
-      "change_pct": 0.77
+      "price": 101.15,
+      "change_pct": 0.83
     },
     {
       "label": "NatGas",
       "price": 3.12,
-      "change_pct": 1.79
+      "change_pct": 1.76
     }
   ]
 }
