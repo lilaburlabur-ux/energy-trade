@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-06T18:46:30+00:00",
+  "as_of": "2026-10-06T19:01:15+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,17 +11,33 @@
    "rank": 1,
    "ticker": "CEG",
    "company": "Constellation Energy Corporatio",
-   "move_pct": 11.05,
-   "price": 297.2,
-   "volume": 10245783,
+   "move_pct": 11.84,
+   "price": 299.3,
+   "volume": 10553894,
    "volume_vs_avg": "~4x",
-   "heat_score": 66,
+   "heat_score": 70,
    "direction": "up",
-   "why": "Moving up 11.1% on ~4x average volume with no fresh headline this cycle \u2014 attention without a story.",
+   "why": "Moving up 11.8% on ~4x average volume with no fresh headline this cycle \u2014 attention without a story.",
    "catalyst_type": "no_news_mover",
    "source_url": "",
    "published": "",
    "sector": "Nuclear & Uranium"
+  },
+  {
+   "rank": 2,
+   "ticker": "VST",
+   "company": "Vistra Corp.",
+   "move_pct": 10.23,
+   "price": 159.71,
+   "volume": 15149518,
+   "volume_vs_avg": "~3x",
+   "heat_score": 61,
+   "direction": "up",
+   "why": "Moving up 10.2% on ~3x average volume with no fresh headline this cycle \u2014 attention without a story.",
+   "catalyst_type": "no_news_mover",
+   "source_url": "",
+   "published": "",
+   "sector": "Power & IPPs"
   }
  ]
 }
