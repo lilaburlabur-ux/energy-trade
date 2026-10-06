@@ -18,7 +18,7 @@ Signed file: `ARRY.research.06.10.2026`
 | Technical momentum | Low | Below SMA200 (-45.50%) with negative half-year (-40.56%). |
 | Fresh setup quality | Poor / broken | -66.05% from 52w high — base needs to rebuild. |
 | Fundamental quality | Weak | Negative profit margin (-7.25%). |
-| Value attractiveness | Reasonable | Forward P/E 4.22, EV/Sales 1.30. |
+| Value attractiveness | Reasonable | Forward P/E 4.22, EV/Sales 1.32. |
 | Risk level | High | Beta 1.81, ATR 5.5% of price, short float 29.11%. |
 
 **Bottom line:** Low technical momentum, weak fundamentals, value: reasonable, risk: high.
@@ -59,7 +59,7 @@ Array Technologies, Inc. engages in the manufacture and sale of solar tracking t
 | Revenue (ttm) | $1.19B | Revenue growth -5.60% y/y |
 | Profitability | Gross 26.76%, operating 10.88%, net -7.25% | ROA 3.33%, ROE -25.98% |
 | Balance sheet | Cash $307.30M, debt $752.89M | Current ratio 2.20, debt/equity 254.27 |
-| Valuation | P/E —, forward P/E 4.22, P/S 0.53, P/B -3.09 | EV/Sales 1.30, EV/EBITDA 12.94 |
+| Valuation | P/E —, forward P/E 4.22, P/S 0.53, P/B -3.09 | EV/Sales 1.32, EV/EBITDA 13.15 |
 | Growth expectations | Earnings growth -73.20%, EPS q/q -43.70% | Analyst mean target $8.33 (22 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -104,8 +104,8 @@ Array Technologies, Inc. engages in the manufacture and sale of solar tracking t
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $4.06 | EV/Sales | 1.30 |
-| Market cap | $624.54M | EV/EBITDA | 12.94 |
+| Price | $4.06 | EV/Sales | 1.32 |
+| Market cap | $624.54M | EV/EBITDA | 13.15 |
 | Beta | 1.81 | Gross margin | 26.76% |
 | RSI(14) | 44.0 | Operating margin | 10.88% |
 | ATR(14) | 0.22 | Profit margin | -7.25% |

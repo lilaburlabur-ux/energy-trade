@@ -18,7 +18,7 @@ Signed file: `ETR.research.06.10.2026`
 | Technical momentum | Low | Below SMA200 (-2.11%) with negative half-year (-8.29%). |
 | Fresh setup quality | Moderate / wait | -11.50% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 13.33%, revenue growth 5.90%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 20.23, EV/Sales 5.79. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 20.23, EV/Sales 5.88. |
 | Risk level | Moderate | Beta 0.45, ATR 1.9% of price, short float 3.98%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: fair-to-demanding, risk: moderate.
@@ -59,7 +59,7 @@ Entergy Corporation, together with its subsidiaries, engages in the production a
 | Revenue (ttm) | $13.48B | Revenue growth 5.90% y/y |
 | Profitability | Gross 47.00%, operating 24.46%, net 13.33% | ROA 2.68%, ROE 10.25% |
 | Balance sheet | Cash $3.86B, debt $34.63B | Current ratio 0.91, debt/equity 186.77 |
-| Valuation | P/E 26.41, forward P/E 20.23, P/S 3.66, P/B 2.64 | EV/Sales 5.79, EV/EBITDA 14.11 |
+| Valuation | P/E 26.41, forward P/E 20.23, P/S 3.66, P/B 2.64 | EV/Sales 5.88, EV/EBITDA 14.31 |
 | Growth expectations | Earnings growth -1.90%, EPS q/q 3.10% | Analyst mean target $122.28 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -86,7 +86,7 @@ Entergy Corporation, together with its subsidiaries, engages in the production a
 | Morgan Stanley | 9,808,504 | 2.10% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 20.23, EV/Sales 5.79. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 20.23, EV/Sales 5.88. Multiple compression is the main downside if growth disappoints.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -101,8 +101,8 @@ Entergy Corporation, together with its subsidiaries, engages in the production a
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $103.25 | EV/Sales | 5.79 |
-| Market cap | $49.33B | EV/EBITDA | 14.11 |
+| Price | $103.25 | EV/Sales | 5.88 |
+| Market cap | $49.33B | EV/EBITDA | 14.31 |
 | Beta | 0.45 | Gross margin | 47.00% |
 | RSI(14) | 52.6 | Operating margin | 24.46% |
 | ATR(14) | 2.01 | Profit margin | 13.33% |
