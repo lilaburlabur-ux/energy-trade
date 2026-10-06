@@ -1,11 +1,18 @@
 {
-  "as_of_utc": "2026-10-06T22:43:05+00:00",
-  "as_of_local": "2026-10-06 22:43:05 UTC",
+  "as_of_utc": "2026-10-06T22:48:05+00:00",
+  "as_of_local": "2026-10-06 22:48:05 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "XOM"
-  ],
+  "errors": [],
   "stocks": [
+    {
+      "symbol": "XOM",
+      "name": "ExxonMobil",
+      "price": 164.48,
+      "previous_close": 164.0,
+      "change_pct": 0.29,
+      "market_cap": 676327261612.8168,
+      "headlines": []
+    },
     {
       "symbol": "CVX",
       "name": "Chevron",
@@ -48,7 +55,7 @@
       "price": 445.09,
       "previous_close": 432.6,
       "change_pct": 2.89,
-      "market_cap": 172828445578.00293,
+      "market_cap": 172872954577.63672,
       "headlines": []
     },
     {
@@ -57,7 +64,7 @@
       "price": 77.88,
       "previous_close": 76.28,
       "change_pct": 2.1,
-      "market_cap": 162426939552.75378,
+      "market_cap": 162455977187.60974,
       "headlines": []
     },
     {
@@ -75,7 +82,7 @@
       "price": 432.36,
       "previous_close": 433.47,
       "change_pct": -0.26,
-      "market_cap": 126221719232.18445,
+      "market_cap": 121417390417.03601,
       "headlines": []
     },
     {
@@ -201,7 +208,7 @@
       "price": 144.28,
       "previous_close": 144.08,
       "change_pct": 0.14,
-      "market_cap": 76847643658.21869,
+      "market_cap": 75679068872.9856,
       "headlines": []
     },
     {
@@ -345,7 +352,7 @@
       "price": 71.73,
       "previous_close": 68.68,
       "change_pct": 4.44,
-      "market_cap": 35744595838.291855,
+      "market_cap": 35751670425.06294,
       "headlines": []
     },
     {
@@ -480,7 +487,7 @@
       "price": 29.42,
       "previous_close": 28.22,
       "change_pct": 4.25,
-      "market_cap": 8922378913.43812,
+      "market_cap": 8829284059.8167,
       "headlines": []
     },
     {
@@ -516,7 +523,7 @@
       "price": 79.94,
       "previous_close": 82.32,
       "change_pct": -2.89,
-      "market_cap": 5730534488.433289,
+      "market_cap": 5716677768.350098,
       "headlines": []
     },
     {
@@ -534,7 +541,7 @@
       "price": 33.91,
       "previous_close": 33.45,
       "change_pct": 1.38,
-      "market_cap": 4469277620.089188,
+      "market_cap": 4481024993.516327,
       "headlines": []
     },
     {
@@ -561,7 +568,7 @@
       "price": 11.26,
       "previous_close": 10.82,
       "change_pct": 4.07,
-      "market_cap": 2814605957.212448,
+      "market_cap": 2981350481.3218613,
       "headlines": []
     },
     {
@@ -622,8 +629,8 @@
           "name": "ExxonMobil Holdings Corp",
           "short": "ExxonMobil",
           "weight_pct": 24.03,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": 0.29,
+          "price": 164.48,
           "currency": "USD"
         },
         {
@@ -721,8 +728,8 @@
         "name": "ExxonMobil Holdings Corp",
         "short": "ExxonMobil",
         "weight_pct": 24.03,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": 0.29,
+        "price": 164.48,
         "currency": "USD"
       },
       {
@@ -816,18 +823,18 @@
     },
     {
       "label": "WTI",
-      "price": 89.84,
-      "change_pct": 0.46
+      "price": 89.8,
+      "change_pct": 0.41
     },
     {
       "label": "Brent",
-      "price": 101.04,
-      "change_pct": 0.72
+      "price": 101.09,
+      "change_pct": 0.77
     },
     {
       "label": "NatGas",
       "price": 3.12,
-      "change_pct": 1.76
+      "change_pct": 1.79
     }
   ]
 }
