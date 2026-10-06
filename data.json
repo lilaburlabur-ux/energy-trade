@@ -1,11 +1,8 @@
 {
-  "as_of_utc": "2026-10-06T11:02:25+00:00",
-  "as_of_local": "2026-10-06 11:02:25 UTC",
+  "as_of_utc": "2026-10-06T11:06:19+00:00",
+  "as_of_local": "2026-10-06 11:06:19 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "ARRY",
-    "GEV"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -32,6 +29,15 @@
       "previous_close": 96.23,
       "change_pct": 0.3,
       "market_cap": 274975080444.53754,
+      "headlines": []
+    },
+    {
+      "symbol": "GEV",
+      "name": "GE Vernova",
+      "price": 990.0,
+      "previous_close": 988.7,
+      "change_pct": 0.13,
+      "market_cap": 263670245190.0,
       "headlines": []
     },
     {
@@ -600,6 +606,15 @@
       "change_pct": 0.53,
       "market_cap": 1095201461.8531437,
       "headlines": []
+    },
+    {
+      "symbol": "ARRY",
+      "name": "Array Technologies",
+      "price": 3.9,
+      "previous_close": 4.08,
+      "change_pct": -4.41,
+      "market_cap": 599922888.8700266,
+      "headlines": []
     }
   ],
   "etfs": [
@@ -808,18 +823,18 @@
     },
     {
       "label": "WTI",
-      "price": 87.45,
-      "change_pct": -2.21
+      "price": 87.46,
+      "change_pct": -2.2
     },
     {
       "label": "Brent",
-      "price": 98.07,
-      "change_pct": -2.24
+      "price": 98.08,
+      "change_pct": -2.23
     },
     {
       "label": "NatGas",
-      "price": 3.07,
-      "change_pct": 0.23
+      "price": 3.08,
+      "change_pct": 0.29
     }
   ]
 }
