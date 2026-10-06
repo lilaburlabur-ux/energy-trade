@@ -4,8 +4,8 @@ Signed file: `CVX.research.06.10.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $207.61 (2026-10-06, ~15-min delayed) |
-| Market cap | $407.25B |
+| Current price | $207.58 (2026-10-06, ~15-min delayed) |
+| Market cap | $407.19B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,8 +15,8 @@ Signed file: `CVX.research.06.10.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +40.53%; price +12.37% vs SMA200. |
-| Fresh setup quality | Watch | -4.67% from 52w high and near SMA20 — check for a tight base. |
+| Technical momentum | Moderate | 1Y +40.51%; price +12.35% vs SMA200. |
+| Fresh setup quality | Watch | -4.68% from 52w high and near SMA20 — check for a tight base. |
 | Fundamental quality | Mixed | Profit margin 9.83%, revenue growth 53.50%. |
 | Value attractiveness | Reasonable | Forward P/E 14.24, EV/Sales 2.10. |
 | Risk level | Moderate | Beta 0.52, ATR 2.0% of price, short float 1.06%. |
@@ -35,11 +35,11 @@ Chevron Corporation, through its subsidiaries, engages in the integrated energy 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $207.61; 52w high $217.77 (-4.67%); 52w low $142.76 (+45.42%) |
-| Trend | +12.37% vs SMA200, +2.47% vs SMA50, -0.37% vs SMA20 |
+| Price vs 52-week range | Close $207.58; 52w high $217.77 (-4.68%); 52w low $142.76 (+45.40%) |
+| Trend | +12.35% vs SMA200, +2.46% vs SMA50, -0.39% vs SMA20 |
 | Momentum | RSI(14) 53.6 (neutral) |
 | Volatility | ATR(14) 4.15 (~2.0% of price); beta 0.52 |
-| Setup perspective | -4.67% from 52w high and near SMA20 — check for a tight base. |
+| Setup perspective | -4.68% from 52w high and near SMA20 — check for a tight base. |
 
 **Performance snapshot:**
 
@@ -48,7 +48,7 @@ Chevron Corporation, through its subsidiaries, engages in the integrated energy 
 | Week | +1.6% |
 | Month | -0.5% |
 | Quarter | +19.0% |
-| Half Y | +4.9% |
+| Half Y | +4.8% |
 | 1Y | +40.5% |
 | YTD | +36.9% |
 
@@ -101,14 +101,14 @@ Chevron Corporation, through its subsidiaries, engages in the integrated energy 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $207.61 | EV/Sales | 2.10 |
-| Market cap | $407.25B | EV/EBITDA | 8.67 |
+| Price | $207.58 | EV/Sales | 2.10 |
+| Market cap | $407.19B | EV/EBITDA | 8.67 |
 | Beta | 0.52 | Gross margin | 44.27% |
 | RSI(14) | 53.6 | Operating margin | 21.87% |
 | ATR(14) | 4.15 | Profit margin | 9.83% |
-| SMA20 dist | -0.37% | ROA | 5.86% |
-| SMA50 dist | +2.47% | ROE | 12.23% |
-| SMA200 dist | +12.37% | Revenue (ttm) | $209.38B |
+| SMA20 dist | -0.39% | ROA | 5.86% |
+| SMA50 dist | +2.46% | ROE | 12.23% |
+| SMA200 dist | +12.35% | Revenue (ttm) | $209.38B |
 | 52W high | $217.77 | Revenue growth y/y | 53.50% |
 | 52W low | $142.76 | Inst. ownership | 71.20% |
 | P/E (ttm) | 19.98 | Insider ownership | 4.77% |

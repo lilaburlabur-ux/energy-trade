@@ -19,7 +19,7 @@ Signed file: `ET.research.06.10.2026`
 | Fresh setup quality | Moderate / wait | -3.49% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 4.92%, revenue growth 78.40%. |
 | Value attractiveness | Reasonable | Forward P/E 11.89, EV/Sales 1.48. |
-| Risk level | Moderate | Beta 0.60, ATR 2.6% of price, short float 1.01%. |
+| Risk level | Moderate | Beta 0.60, ATR 2.5% of price, short float 1.01%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
@@ -37,15 +37,15 @@ Energy Transfer LP, together with its subsidiaries, provides energy-related serv
 |---|---|
 | Price vs 52-week range | Close $20.74; 52w high $21.49 (-3.49%); 52w low $20.13 (+3.03%) |
 | Trend | — vs SMA200, — vs SMA50, — vs SMA20 |
-| Momentum | RSI(14) 71.6 (overbought) |
-| Volatility | ATR(14) 0.54 (~2.6% of price); beta 0.60 |
+| Momentum | RSI(14) 70.8 (overbought) |
+| Volatility | ATR(14) 0.52 (~2.5% of price); beta 0.60 |
 | Setup perspective | -3.49% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +2.0% |
+| Week | +3.0% |
 | Month | — |
 | Quarter | — |
 | Half Y | — |
@@ -104,8 +104,8 @@ Energy Transfer LP, together with its subsidiaries, provides energy-related serv
 | Price | $20.74 | EV/Sales | 1.48 |
 | Market cap | $71.41B | EV/EBITDA | 9.29 |
 | Beta | 0.60 | Gross margin | 17.51% |
-| RSI(14) | 71.6 | Operating margin | 10.41% |
-| ATR(14) | 0.54 | Profit margin | 4.92% |
+| RSI(14) | 70.8 | Operating margin | 10.41% |
+| ATR(14) | 0.52 | Profit margin | 4.92% |
 | SMA20 dist | — | ROA | 5.06% |
 | SMA50 dist | — | ROE | 14.56% |
 | SMA200 dist | — | Revenue (ttm) | $107.38B |

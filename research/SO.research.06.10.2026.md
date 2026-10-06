@@ -4,8 +4,8 @@ Signed file: `SO.research.06.10.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $85.43 (2026-10-06, ~15-min delayed) |
-| Market cap | $98.28B |
+| Current price | $85.44 (2026-10-06, ~15-min delayed) |
+| Market cap | $98.29B |
 | Sector / Industry | Utilities / Utilities - Regulated Electric |
 | Main theme | Utilities - Regulated Electric — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,8 +15,8 @@ Signed file: `SO.research.06.10.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-6.13%) with negative half-year (-10.30%). |
-| Fresh setup quality | Moderate / wait | -12.37% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-6.11%) with negative half-year (-10.29%). |
+| Fresh setup quality | Moderate / wait | -12.36% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 15.43%, revenue growth 0.10%. |
 | Value attractiveness | Reasonable | Forward P/E 17.35, EV/Sales 5.74. |
 | Risk level | Moderate | Beta 0.30, ATR 1.5% of price, short float 2.52%. |
@@ -35,11 +35,11 @@ The Southern Company, through its subsidiaries, engages in the sale of electrici
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $85.43; 52w high $97.49 (-12.37%); 52w low $82.06 (+4.10%) |
-| Trend | -6.13% vs SMA200, -3.60% vs SMA50, +0.53% vs SMA20 |
+| Price vs 52-week range | Close $85.44; 52w high $97.49 (-12.36%); 52w low $82.06 (+4.12%) |
+| Trend | -6.11% vs SMA200, -3.59% vs SMA50, +0.54% vs SMA20 |
 | Momentum | RSI(14) 47.7 (neutral) |
 | Volatility | ATR(14) 1.32 (~1.5% of price); beta 0.30 |
-| Setup perspective | -12.37% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -12.36% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
@@ -49,7 +49,7 @@ The Southern Company, through its subsidiaries, engages in the sale of electrici
 | Month | -3.0% |
 | Quarter | -10.6% |
 | Half Y | -10.3% |
-| 1Y | -6.7% |
+| 1Y | -6.6% |
 | YTD | +0.4% |
 
 ## 4. Fundamental Analysis
@@ -100,14 +100,14 @@ The Southern Company, through its subsidiaries, engages in the sale of electrici
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $85.43 | EV/Sales | 5.74 |
-| Market cap | $98.28B | EV/EBITDA | 12.15 |
+| Price | $85.44 | EV/Sales | 5.74 |
+| Market cap | $98.29B | EV/EBITDA | 12.15 |
 | Beta | 0.30 | Gross margin | 48.29% |
 | RSI(14) | 47.7 | Operating margin | 29.61% |
 | ATR(14) | 1.32 | Profit margin | 15.43% |
-| SMA20 dist | +0.53% | ROA | 3.27% |
-| SMA50 dist | -3.60% | ROE | 11.48% |
-| SMA200 dist | -6.13% | Revenue (ttm) | $30.18B |
+| SMA20 dist | +0.54% | ROA | 3.27% |
+| SMA50 dist | -3.59% | ROE | 11.48% |
+| SMA200 dist | -6.11% | Revenue (ttm) | $30.18B |
 | 52W high | $97.49 | Revenue growth y/y | 0.10% |
 | 52W low | $82.06 | Inst. ownership | 74.18% |
 | P/E (ttm) | 20.59 | Insider ownership | 0.10% |
