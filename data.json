@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-10-07T13:15:03+00:00",
-  "as_of_local": "2026-10-07 13:15:03 UTC",
+  "as_of_utc": "2026-10-07T13:20:08+00:00",
+  "as_of_local": "2026-10-07 13:20:08 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "BEP"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -482,15 +484,6 @@
       "headlines": []
     },
     {
-      "symbol": "BEP",
-      "name": "Brookfield Renewable",
-      "price": 29.42,
-      "previous_close": 28.22,
-      "change_pct": 4.25,
-      "market_cap": 8829284059.8167,
-      "headlines": []
-    },
-    {
       "symbol": "OKLO",
       "name": "Oklo",
       "price": 38.55,
@@ -823,18 +816,18 @@
     },
     {
       "label": "WTI",
-      "price": 89.93,
-      "change_pct": 0.55
+      "price": 90.08,
+      "change_pct": 0.72
     },
     {
       "label": "Brent",
-      "price": 101.58,
-      "change_pct": 0.99
+      "price": 101.81,
+      "change_pct": 1.22
     },
     {
       "label": "NatGas",
       "price": 3.18,
-      "change_pct": 2.22
+      "change_pct": 2.06
     }
   ]
 }
