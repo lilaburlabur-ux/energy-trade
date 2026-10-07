@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-10-07T20:42:19+00:00",
-  "as_of_local": "2026-10-07 20:42:19 UTC",
+  "as_of_utc": "2026-10-07T20:47:52+00:00",
+  "as_of_local": "2026-10-07 20:47:52 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "OKLO"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -493,6 +491,15 @@
       "headlines": []
     },
     {
+      "symbol": "OKLO",
+      "name": "Oklo",
+      "price": 36.82,
+      "previous_close": 38.55,
+      "change_pct": -4.49,
+      "market_cap": 6849169816.231918,
+      "headlines": []
+    },
+    {
       "symbol": "NOV",
       "name": "NOV Inc",
       "price": 18.62,
@@ -816,13 +823,13 @@
     },
     {
       "label": "WTI",
-      "price": 89.2,
-      "change_pct": -0.27
+      "price": 89.05,
+      "change_pct": -0.44
     },
     {
       "label": "Brent",
-      "price": 101.2,
-      "change_pct": 0.62
+      "price": 101.12,
+      "change_pct": 0.54
     },
     {
       "label": "NatGas",
