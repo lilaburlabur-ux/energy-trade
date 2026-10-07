@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-10-07T22:49:11+00:00",
-  "as_of_local": "2026-10-07 22:49:11 UTC",
+  "as_of_utc": "2026-10-07T22:54:15+00:00",
+  "as_of_local": "2026-10-07 22:54:15 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "NXE"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -511,6 +509,15 @@
       "headlines": []
     },
     {
+      "symbol": "NXE",
+      "name": "NexGen Energy",
+      "price": 8.99,
+      "previous_close": 9.43,
+      "change_pct": -4.67,
+      "market_cap": 6027849694.523333,
+      "headlines": []
+    },
+    {
       "symbol": "WFRD",
       "name": "Weatherford",
       "price": 76.42,
@@ -816,8 +823,8 @@
     },
     {
       "label": "WTI",
-      "price": 89.04,
-      "change_pct": -0.45
+      "price": 89.03,
+      "change_pct": -0.46
     },
     {
       "label": "Brent",
@@ -826,8 +833,8 @@
     },
     {
       "label": "NatGas",
-      "price": 3.27,
-      "change_pct": 4.88
+      "price": 3.26,
+      "change_pct": 4.82
     }
   ]
 }
