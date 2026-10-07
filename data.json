@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-10-07T21:53:33+00:00",
-  "as_of_local": "2026-10-07 21:53:33 UTC",
+  "as_of_utc": "2026-10-07T21:58:30+00:00",
+  "as_of_local": "2026-10-07 21:58:30 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "DINO"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -398,15 +400,6 @@
       "previous_close": 103.6,
       "change_pct": 4.84,
       "market_cap": 22830960686.932297,
-      "headlines": []
-    },
-    {
-      "symbol": "DINO",
-      "name": "HF Sinclair",
-      "price": 115.63,
-      "previous_close": 114.6,
-      "change_pct": 0.9,
-      "market_cap": 20557145971.572075,
       "headlines": []
     },
     {
