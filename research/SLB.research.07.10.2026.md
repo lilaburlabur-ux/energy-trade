@@ -65,7 +65,7 @@ SLB N.V. engages in the provision of technology for the energy industry worldwid
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 92.57% |
+| Institutional ownership | 92.56% |
 | Insider ownership | 0.22% |
 | Short float | 4.67% |
 | Short ratio (days to cover) | 4.8 |
@@ -110,7 +110,7 @@ SLB N.V. engages in the provision of technology for the energy industry worldwid
 | SMA50 dist | -8.94% | ROE | 12.91% |
 | SMA200 dist | -4.54% | Revenue (ttm) | $36.37B |
 | 52W high | $59.79 | Revenue growth y/y | 5.00% |
-| 52W low | $30.96 | Inst. ownership | 92.57% |
+| 52W low | $30.96 | Inst. ownership | 92.56% |
 | P/E (ttm) | 23.17 | Insider ownership | 0.22% |
 | Forward P/E | 14.93 | Short float | 4.67% |
 | PEG (trailing) | 1.37 | Avg volume | 12,675,445 |

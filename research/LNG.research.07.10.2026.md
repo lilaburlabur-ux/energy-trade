@@ -18,7 +18,7 @@ Signed file: `LNG.research.07.10.2026`
 | Technical momentum | Moderate | 1Y +17.84%; price +10.03% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -8.00% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 13.94%, revenue growth 22.70%. |
-| Value attractiveness | Reasonable | Forward P/E 12.92, EV/Sales 4.25. |
+| Value attractiveness | Reasonable | Forward P/E 13.09, EV/Sales 4.25. |
 | Risk level | Moderate | Beta 0.06, ATR 2.7% of price, short float 1.89%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -59,13 +59,13 @@ Cheniere Energy, Inc., an energy infrastructure company, primarily engages in th
 | Revenue (ttm) | $20.92B | Revenue growth 22.70% y/y |
 | Profitability | Gross 36.85%, operating 75.00%, net 13.94% | ROA 8.63%, ROE 39.12% |
 | Balance sheet | Cash $1.12B, debt $27.97B | Current ratio 0.87, debt/equity 243.42 |
-| Valuation | P/E 20.61, forward P/E 12.92, P/S 2.69, P/B 9.14 | EV/Sales 4.25, EV/EBITDA 11.37 |
-| Growth expectations | Earnings growth 100.70%, EPS q/q 88.70% | Analyst mean target $310.57 (21 analysts) |
+| Valuation | P/E 20.61, forward P/E 13.09, P/S 2.69, P/B 9.14 | EV/Sales 4.25, EV/EBITDA 11.37 |
+| Growth expectations | Earnings growth 100.70%, EPS q/q 88.70% | Analyst mean target $310.19 (21 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 91.53% |
+| Institutional ownership | 91.54% |
 | Insider ownership | 0.63% |
 | Short float | 1.89% |
 | Short ratio (days to cover) | 2.0 |
@@ -110,9 +110,9 @@ Cheniere Energy, Inc., an energy infrastructure company, primarily engages in th
 | SMA50 dist | -0.25% | ROE | 39.12% |
 | SMA200 dist | +10.03% | Revenue (ttm) | $20.92B |
 | 52W high | $295.86 | Revenue growth y/y | 22.70% |
-| 52W low | $187.49 | Inst. ownership | 91.53% |
+| 52W low | $187.49 | Inst. ownership | 91.54% |
 | P/E (ttm) | 20.61 | Insider ownership | 0.63% |
-| Forward P/E | 12.92 | Short float | 1.89% |
+| Forward P/E | 13.09 | Short float | 1.89% |
 | PEG (trailing) | — | Avg volume | 1,882,775 |
 | P/S | 2.69 | Employees | 1,717 |
 | P/B | 9.14 | Analyst rec (1=buy..5=sell) | 1.4 |

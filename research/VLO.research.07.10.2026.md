@@ -18,7 +18,7 @@ Signed file: `VLO.research.07.10.2026`
 | Technical momentum | High | 1Y +165.02%; price +61.38% vs SMA200. |
 | Fresh setup quality | Moderate / wait | +0.00% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 5.45%, revenue growth 51.70%. |
-| Value attractiveness | Reasonable | Forward P/E 10.03, EV/Sales 0.96. |
+| Value attractiveness | Reasonable | Forward P/E 10.23, EV/Sales 0.96. |
 | Risk level | Elevated | Beta 0.59, ATR 3.6% of price, short float 3.91%. |
 
 **Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
@@ -59,13 +59,13 @@ Valero Energy Corporation manufactures, markets, and sells petroleum-based and l
 | Revenue (ttm) | $132.43B | Revenue growth 51.70% y/y |
 | Profitability | Gross 16.12%, operating 12.27%, net 5.45% | ROA 10.56%, ROE 27.64% |
 | Balance sheet | Cash $7.87B, debt $11.35B | Current ratio 1.64, debt/equity 40.15 |
-| Valuation | P/E 17.68, forward P/E 10.03, P/S 0.92, P/B 4.88 | EV/Sales 0.96, EV/EBITDA 9.53 |
+| Valuation | P/E 17.69, forward P/E 10.23, P/S 0.92, P/B 4.88 | EV/Sales 0.96, EV/EBITDA 9.53 |
 | Growth expectations | Earnings growth 453.50%, EPS q/q 421.00% | Analyst mean target $374.74 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 87.08% |
+| Institutional ownership | 87.09% |
 | Insider ownership | 0.42% |
 | Short float | 3.91% |
 | Short ratio (days to cover) | 3.7 |
@@ -111,9 +111,9 @@ Valero Energy Corporation manufactures, markets, and sells petroleum-based and l
 | SMA50 dist | +17.10% | ROE | 27.64% |
 | SMA200 dist | +61.38% | Revenue (ttm) | $132.43B |
 | 52W high | $424.10 | Revenue growth y/y | 51.70% |
-| 52W low | $153.14 | Inst. ownership | 87.08% |
-| P/E (ttm) | 17.68 | Insider ownership | 0.42% |
-| Forward P/E | 10.03 | Short float | 3.91% |
+| 52W low | $153.14 | Inst. ownership | 87.09% |
+| P/E (ttm) | 17.69 | Insider ownership | 0.42% |
+| Forward P/E | 10.23 | Short float | 3.91% |
 | PEG (trailing) | 1.85 | Avg volume | 3,041,445 |
 | P/S | 0.92 | Employees | 9,785 |
 | P/B | 4.88 | Analyst rec (1=buy..5=sell) | 2.4 |

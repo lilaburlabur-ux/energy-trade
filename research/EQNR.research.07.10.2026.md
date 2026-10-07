@@ -60,7 +60,7 @@ Equinor ASA operates as an energy company in Norway and internationally. It oper
 | Profitability | Gross 40.13%, operating 36.11%, net 7.97% | ROA 14.52%, ROE 21.27% |
 | Balance sheet | Cash $23.73B, debt $32.42B | Current ratio 1.18, debt/equity 75.16 |
 | Valuation | P/E 11.37, forward P/E 8.78, P/S 0.87, P/B 4.70 | EV/Sales 1.92, EV/EBITDA 5.20 |
-| Growth expectations | Earnings growth 298.00%, EPS q/q 269.20% | Analyst mean target $38.83 (7 analysts) |
+| Growth expectations | Earnings growth 298.00%, EPS q/q 269.20% | Analyst mean target $38.56 (7 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |

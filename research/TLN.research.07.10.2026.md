@@ -65,7 +65,7 @@ Talen Energy Corporation, an independent power producer and infrastructure compa
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 103.58% |
+| Institutional ownership | 103.52% |
 | Insider ownership | 1.38% |
 | Short float | 6.33% |
 | Short ratio (days to cover) | 3.2 |
@@ -112,7 +112,7 @@ Talen Energy Corporation, an independent power producer and infrastructure compa
 | SMA50 dist | +18.21% | ROE | -12.83% |
 | SMA200 dist | +7.55% | Revenue (ttm) | $3.74B |
 | 52W high | $445.84 | Revenue growth y/y | 111.20% |
-| 52W low | $282.15 | Inst. ownership | 103.58% |
+| 52W low | $282.15 | Inst. ownership | 103.52% |
 | P/E (ttm) | — | Insider ownership | 1.38% |
 | Forward P/E | 12.30 | Short float | 6.33% |
 | PEG (trailing) | — | Avg volume | 840,798 |

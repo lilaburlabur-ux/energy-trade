@@ -65,7 +65,7 @@ Hubbell Incorporated, together with its subsidiaries, manufactures and sells ele
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 99.14% |
+| Institutional ownership | 99.13% |
 | Insider ownership | 0.35% |
 | Short float | 6.21% |
 | Short ratio (days to cover) | 6.0 |
@@ -111,7 +111,7 @@ Hubbell Incorporated, together with its subsidiaries, manufactures and sells ele
 | SMA50 dist | +0.88% | ROE | 24.44% |
 | SMA200 dist | -2.19% | Revenue (ttm) | $6.22B |
 | 52W high | $554.46 | Revenue growth y/y | 15.30% |
-| 52W low | $402.45 | Inst. ownership | 99.14% |
+| 52W low | $402.45 | Inst. ownership | 99.13% |
 | P/E (ttm) | 28.15 | Insider ownership | 0.35% |
 | Forward P/E | 20.71 | Short float | 6.21% |
 | PEG (trailing) | 1.95 | Avg volume | 509,122 |

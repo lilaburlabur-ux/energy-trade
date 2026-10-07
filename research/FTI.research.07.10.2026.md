@@ -65,7 +65,7 @@ TechnipFMC plc engages in the oil and natural gas projects, technologies, system
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 100.99% |
+| Institutional ownership | 100.98% |
 | Insider ownership | 1.36% |
 | Short float | 3.26% |
 | Short ratio (days to cover) | 4.8 |
@@ -110,7 +110,7 @@ TechnipFMC plc engages in the oil and natural gas projects, technologies, system
 | SMA50 dist | -7.23% | ROE | 35.81% |
 | SMA200 dist | +1.67% | Revenue (ttm) | $10.42B |
 | 52W high | $80.08 | Revenue growth y/y | 9.00% |
-| 52W low | $35.45 | Inst. ownership | 100.99% |
+| 52W low | $35.45 | Inst. ownership | 100.98% |
 | P/E (ttm) | 23.83 | Insider ownership | 1.36% |
 | Forward P/E | 18.91 | Short float | 3.26% |
 | PEG (trailing) | — | Avg volume | 3,047,885 |

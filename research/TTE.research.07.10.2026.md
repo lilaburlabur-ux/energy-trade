@@ -65,25 +65,10 @@ TotalEnergies SE, an integrated energy company, produces and markets oil and bio
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 54.29% |
+| Institutional ownership | 54.25% |
 | Insider ownership | 8.86% |
 | Short float | 0.22% |
 | Short ratio (days to cover) | 3.0 |
-
-**Top institutional holders:**
-
-| Holder | Shares | % Out | Reported |
-|---|---|---|---|
-| Amundi | 206,119,140 | 8.25% | 2026-06-30 |
-| Vanguard Capital Management LLC | 59,951,626 | 2.40% | 2026-06-30 |
-| Capital World Investors | 49,898,874 | 2.00% | 2026-06-30 |
-| Capital International Investors | 47,370,538 | 1.90% | 2026-06-30 |
-| Deutsche Bank AG | 43,577,836 | 1.74% | 2026-06-30 |
-| NORGES BANK | 40,546,835 | 1.62% | 2026-06-30 |
-| JPMORGAN CHASE & CO | 37,495,795 | 1.50% | 2026-06-30 |
-| Caisse Des Depots Et Consignations | 30,368,297 | 1.22% | 2026-06-30 |
-| Wellington Management Group, LLP | 26,300,651 | 1.05% | 2026-06-30 |
-| Goldman Sachs Group Inc | 26,079,768 | 1.04% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
@@ -109,10 +94,10 @@ TotalEnergies SE, an integrated energy company, produces and markets oil and bio
 | SMA50 dist | -3.84% | ROE | 14.48% |
 | SMA200 dist | +2.83% | Revenue (ttm) | $196.38B |
 | 52W high | $92.51 | Revenue growth y/y | 27.80% |
-| 52W low | $55.27 | Inst. ownership | 54.29% |
+| 52W low | $55.27 | Inst. ownership | 54.25% |
 | P/E (ttm) | 10.54 | Insider ownership | 8.86% |
 | Forward P/E | 7.83 | Short float | 0.22% |
-| PEG (trailing) | — | Avg volume | 1,664,792 |
+| PEG (trailing) | 0.71 | Avg volume | 1,664,792 |
 | P/S | 0.95 | Employees | 94,847 |
 | P/B | 1.46 | Analyst rec (1=buy..5=sell) | 1.9 |
 

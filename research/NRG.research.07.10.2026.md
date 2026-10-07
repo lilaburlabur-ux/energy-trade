@@ -65,7 +65,7 @@ NRG Energy, Inc., together with its subsidiaries, operates as an energy and home
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 95.56% |
+| Institutional ownership | 95.53% |
 | Insider ownership | 4.46% |
 | Short float | 3.71% |
 | Short ratio (days to cover) | 2.2 |
@@ -111,7 +111,7 @@ NRG Energy, Inc., together with its subsidiaries, operates as an energy and home
 | SMA50 dist | -3.26% | ROE | 23.77% |
 | SMA200 dist | -22.08% | Revenue (ttm) | $33.12B |
 | 52W high | $182.82 | Revenue growth y/y | 11.00% |
-| 52W low | $95.23 | Inst. ownership | 95.56% |
+| 52W low | $95.23 | Inst. ownership | 95.53% |
 | P/E (ttm) | 28.43 | Insider ownership | 4.46% |
 | Forward P/E | 9.71 | Short float | 3.71% |
 | PEG (trailing) | 0.39 | Avg volume | 2,836,504 |

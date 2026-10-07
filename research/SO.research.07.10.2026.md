@@ -65,7 +65,7 @@ The Southern Company, through its subsidiaries, engages in the sale of electrici
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 74.17% |
+| Institutional ownership | 74.18% |
 | Insider ownership | 0.10% |
 | Short float | 2.52% |
 | Short ratio (days to cover) | 5.1 |
@@ -109,7 +109,7 @@ The Southern Company, through its subsidiaries, engages in the sale of electrici
 | SMA50 dist | -3.36% | ROE | 11.48% |
 | SMA200 dist | -6.12% | Revenue (ttm) | $30.18B |
 | 52W high | $97.49 | Revenue growth y/y | 0.10% |
-| 52W low | $82.06 | Inst. ownership | 74.17% |
+| 52W low | $82.06 | Inst. ownership | 74.18% |
 | P/E (ttm) | 20.59 | Insider ownership | 0.10% |
 | Forward P/E | 17.35 | Short float | 2.52% |
 | PEG (trailing) | 1.97 | Avg volume | 5,669,368 |

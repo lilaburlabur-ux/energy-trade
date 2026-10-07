@@ -65,7 +65,7 @@ Entergy Corporation, together with its subsidiaries, engages in the production a
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 97.94% |
+| Institutional ownership | 97.89% |
 | Insider ownership | 0.22% |
 | Short float | 3.98% |
 | Short ratio (days to cover) | 7.1 |
@@ -110,7 +110,7 @@ Entergy Corporation, together with its subsidiaries, engages in the production a
 | SMA50 dist | -1.85% | ROE | 10.25% |
 | SMA200 dist | -2.59% | Revenue (ttm) | $13.48B |
 | 52W high | $116.66 | Revenue growth y/y | 5.90% |
-| 52W low | $89.57 | Inst. ownership | 97.94% |
+| 52W low | $89.57 | Inst. ownership | 97.89% |
 | P/E (ttm) | 26.29 | Insider ownership | 0.22% |
 | Forward P/E | 20.14 | Short float | 3.98% |
 | PEG (trailing) | 1.52 | Avg volume | 2,672,901 |

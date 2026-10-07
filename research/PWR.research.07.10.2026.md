@@ -65,7 +65,7 @@ Quanta Services, Inc. offers infrastructure solutions for the electric and gas u
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 94.06% |
+| Institutional ownership | 94.07% |
 | Insider ownership | 0.67% |
 | Short float | 2.40% |
 | Short ratio (days to cover) | 3.0 |
@@ -111,7 +111,7 @@ Quanta Services, Inc. offers infrastructure solutions for the electric and gas u
 | SMA50 dist | +8.13% | ROE | 15.34% |
 | SMA200 dist | +15.00% | Revenue (ttm) | $32.91B |
 | 52W high | $784.99 | Revenue growth y/y | 41.10% |
-| 52W low | $411.89 | Inst. ownership | 94.06% |
+| 52W low | $411.89 | Inst. ownership | 94.07% |
 | P/E (ttm) | 80.31 | Insider ownership | 0.67% |
 | Forward P/E | 35.45 | Short float | 2.40% |
 | PEG (trailing) | 1.45 | Avg volume | 1,014,575 |

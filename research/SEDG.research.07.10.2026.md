@@ -60,7 +60,7 @@ SolarEdge Technologies, Inc., together with its subsidiaries, operates as an ene
 | Profitability | Gross 21.25%, operating -6.51%, net -20.29% | ROA -3.84%, ROE -58.42% |
 | Balance sheet | Cash $546.94M, debt $407.35M | Current ratio 2.03, debt/equity 98.85 |
 | Valuation | P/E —, forward P/E 41.11, P/S 1.53, P/B 4.95 | EV/Sales 1.47, EV/EBITDA -16.14 |
-| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $38.16 (19 analysts) |
+| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $38.11 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |

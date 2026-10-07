@@ -65,7 +65,7 @@ ONEOK, Inc. operates as a midstream service provider of gathering, processing, f
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 84.83% |
+| Institutional ownership | 84.82% |
 | Insider ownership | 0.15% |
 | Short float | 4.88% |
 | Short ratio (days to cover) | 8.0 |
@@ -109,7 +109,7 @@ ONEOK, Inc. operates as a midstream service provider of gathering, processing, f
 | SMA50 dist | -4.32% | ROE | 16.28% |
 | SMA200 dist | +2.81% | Revenue (ttm) | $39.37B |
 | 52W high | $97.51 | Revenue growth y/y | 52.80% |
-| 52W low | $61.95 | Inst. ownership | 84.83% |
+| 52W low | $61.95 | Inst. ownership | 84.82% |
 | P/E (ttm) | 15.21 | Insider ownership | 0.15% |
 | Forward P/E | 14.11 | Short float | 4.88% |
 | PEG (trailing) | 1.71 | Avg volume | 3,639,118 |

@@ -65,7 +65,7 @@ Baker Hughes Company provides a portfolio of technologies and services to energy
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 99.96% |
+| Institutional ownership | 99.95% |
 | Insider ownership | 0.15% |
 | Short float | 2.83% |
 | Short ratio (days to cover) | 3.6 |
@@ -110,7 +110,7 @@ Baker Hughes Company provides a portfolio of technologies and services to energy
 | SMA50 dist | -8.36% | ROE | 16.46% |
 | SMA200 dist | -6.45% | Revenue (ttm) | $27.73B |
 | 52W high | $69.18 | Revenue growth y/y | -2.40% |
-| 52W low | $43.79 | Inst. ownership | 99.96% |
+| 52W low | $43.79 | Inst. ownership | 99.95% |
 | P/E (ttm) | 17.82 | Insider ownership | 0.15% |
 | Forward P/E | 18.75 | Short float | 2.83% |
 | PEG (trailing) | 1.62 | Avg volume | 7,978,581 |

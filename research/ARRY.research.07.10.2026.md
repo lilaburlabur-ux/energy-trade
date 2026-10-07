@@ -5,7 +5,7 @@ Signed file: `ARRY.research.07.10.2026`
 | Field | Value |
 |---|---|
 | Current price | $3.82 (2026-10-07, ~15-min delayed) |
-| Market cap | $587.62M |
+| Market cap | $588.31M |
 | Sector / Industry | Technology / Solar |
 | Main theme | Solar — see catalysts below |
 | Current stance | Low technical momentum, weak fundamentals, value: reasonable, risk: high. |
@@ -60,12 +60,12 @@ Array Technologies, Inc. engages in the manufacture and sale of solar tracking t
 | Profitability | Gross 26.76%, operating 10.88%, net -7.25% | ROA 3.33%, ROE -25.98% |
 | Balance sheet | Cash $307.30M, debt $752.89M | Current ratio 2.20, debt/equity 254.27 |
 | Valuation | P/E —, forward P/E 4.10, P/S 0.50, P/B -2.91 | EV/Sales 1.32, EV/EBITDA 13.15 |
-| Growth expectations | Earnings growth -73.20%, EPS q/q -43.70% | Analyst mean target $8.20 (22 analysts) |
+| Growth expectations | Earnings growth -73.20%, EPS q/q -43.70% | Analyst mean target $8.33 (22 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 147.68% |
+| Institutional ownership | 147.60% |
 | Insider ownership | 0.79% |
 | Short float | 29.11% |
 | Short ratio (days to cover) | 6.0 |
@@ -105,7 +105,7 @@ Array Technologies, Inc. engages in the manufacture and sale of solar tracking t
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $3.82 | EV/Sales | 1.32 |
-| Market cap | $587.62M | EV/EBITDA | 13.15 |
+| Market cap | $588.31M | EV/EBITDA | 13.15 |
 | Beta | 1.81 | Gross margin | 26.76% |
 | RSI(14) | 38.5 | Operating margin | 10.88% |
 | ATR(14) | 0.23 | Profit margin | -7.25% |
@@ -113,7 +113,7 @@ Array Technologies, Inc. engages in the manufacture and sale of solar tracking t
 | SMA50 dist | -16.99% | ROE | -25.98% |
 | SMA200 dist | -48.54% | Revenue (ttm) | $1.19B |
 | 52W high | $11.96 | Revenue growth y/y | -5.60% |
-| 52W low | $3.82 | Inst. ownership | 147.68% |
+| 52W low | $3.82 | Inst. ownership | 147.60% |
 | P/E (ttm) | — | Insider ownership | 0.79% |
 | Forward P/E | 4.10 | Short float | 29.11% |
 | PEG (trailing) | 0.40 | Avg volume | 6,695,906 |
