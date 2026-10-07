@@ -4,8 +4,8 @@ Signed file: `BWXT.research.07.10.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $145.70 (2026-10-07, ~15-min delayed) |
-| Market cap | $13.35B |
+| Current price | $141.54 (2026-10-07, ~15-min delayed) |
+| Market cap | $12.97B |
 | Sector / Industry | Industrials / Aerospace & Defense |
 | Main theme | Aerospace & Defense — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: fair-to-demanding, risk: elevated. |
@@ -15,11 +15,11 @@ Signed file: `BWXT.research.07.10.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-22.88%) with negative half-year (-31.86%). |
-| Fresh setup quality | Poor / broken | -38.71% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-25.03%) with negative half-year (-38.76%). |
+| Fresh setup quality | Poor / broken | -40.46% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 10.11%, revenue growth 18.00%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 27.86, EV/Sales 4.20. |
-| Risk level | Elevated | Beta 0.74, ATR 3.8% of price, short float 4.42%. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 27.06, EV/Sales 4.20. |
+| Risk level | Elevated | Beta 0.74, ATR 4.0% of price, short float 4.42%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: fair-to-demanding, risk: elevated.
 
@@ -35,22 +35,22 @@ BWX Technologies, Inc. manufactures and sells nuclear components in the United S
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $145.70; 52w high $237.73 (-38.71%); 52w low $134.35 (+8.45%) |
-| Trend | -22.88% vs SMA200, -6.01% vs SMA50, +1.64% vs SMA20 |
-| Momentum | RSI(14) 49.4 (neutral) |
-| Volatility | ATR(14) 5.58 (~3.8% of price); beta 0.74 |
-| Setup perspective | -38.71% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $141.54; 52w high $237.73 (-40.46%); 52w low $134.35 (+5.35%) |
+| Trend | -25.03% vs SMA200, -8.37% vs SMA50, -0.74% vs SMA20 |
+| Momentum | RSI(14) 44.4 (neutral) |
+| Volatility | ATR(14) 5.63 (~4.0% of price); beta 0.74 |
+| Setup perspective | -40.46% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +5.6% |
-| Month | -7.5% |
-| Quarter | -20.7% |
-| Half Y | -31.9% |
-| 1Y | -21.5% |
-| YTD | -19.5% |
+| Week | +3.3% |
+| Month | -11.8% |
+| Quarter | -24.2% |
+| Half Y | -38.8% |
+| 1Y | -25.6% |
+| YTD | -21.8% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -59,13 +59,13 @@ BWX Technologies, Inc. manufactures and sells nuclear components in the United S
 | Revenue (ttm) | $3.51B | Revenue growth 18.00% y/y |
 | Profitability | Gross 22.08%, operating 10.39%, net 10.11% | ROA 5.53%, ROE 28.29% |
 | Balance sheet | Cash $608.20M, debt $2.02B | Current ratio 2.40, debt/equity 151.40 |
-| Valuation | P/E 35.02, forward P/E 27.86, P/S 3.80, P/B 10.00 | EV/Sales 4.20, EV/EBITDA 30.98 |
-| Growth expectations | Earnings growth 14.10%, EPS q/q 13.60% | Analyst mean target $216.44 (16 analysts) |
+| Valuation | P/E 36.67, forward P/E 27.06, P/S 3.69, P/B 9.72 | EV/Sales 4.20, EV/EBITDA 30.98 |
+| Growth expectations | Earnings growth 14.10%, EPS q/q 13.60% | Analyst mean target $215.51 (16 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 94.34% |
+| Institutional ownership | 94.73% |
 | Insider ownership | 0.35% |
 | Short float | 4.42% |
 | Short ratio (days to cover) | 2.9 |
@@ -86,8 +86,8 @@ BWX Technologies, Inc. manufactures and sells nuclear components in the United S
 | Invesco Ltd. | 1,835,328 | 2.00% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 27.86, EV/Sales 4.20. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 0.74, ATR 3.8% of price, short float 4.42%. Size positions accordingly.
+- **Valuation risk:** Forward P/E 27.06, EV/Sales 4.20. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 0.74, ATR 4.0% of price, short float 4.42%. Size positions accordingly.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** defense/aerospace names live and die on government budgets, appropriations timing, and program/contract awards — revenue is policy-driven and lumpy.
 
@@ -103,21 +103,21 @@ BWX Technologies, Inc. manufactures and sells nuclear components in the United S
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $145.70 | EV/Sales | 4.20 |
-| Market cap | $13.35B | EV/EBITDA | 30.98 |
+| Price | $141.54 | EV/Sales | 4.20 |
+| Market cap | $12.97B | EV/EBITDA | 30.98 |
 | Beta | 0.74 | Gross margin | 22.08% |
-| RSI(14) | 49.4 | Operating margin | 10.39% |
-| ATR(14) | 5.58 | Profit margin | 10.11% |
-| SMA20 dist | +1.64% | ROA | 5.53% |
-| SMA50 dist | -6.01% | ROE | 28.29% |
-| SMA200 dist | -22.88% | Revenue (ttm) | $3.51B |
+| RSI(14) | 44.4 | Operating margin | 10.39% |
+| ATR(14) | 5.63 | Profit margin | 10.11% |
+| SMA20 dist | -0.74% | ROA | 5.53% |
+| SMA50 dist | -8.37% | ROE | 28.29% |
+| SMA200 dist | -25.03% | Revenue (ttm) | $3.51B |
 | 52W high | $237.73 | Revenue growth y/y | 18.00% |
-| 52W low | $134.35 | Inst. ownership | 94.34% |
-| P/E (ttm) | 35.02 | Insider ownership | 0.35% |
-| Forward P/E | 27.86 | Short float | 4.42% |
-| PEG (trailing) | — | Avg volume | 1,061,070 |
-| P/S | 3.80 | Employees | 11,000 |
-| P/B | 10.00 | Analyst rec (1=buy..5=sell) | 1.6 |
+| 52W low | $134.35 | Inst. ownership | 94.73% |
+| P/E (ttm) | 36.67 | Insider ownership | 0.35% |
+| Forward P/E | 27.06 | Short float | 4.42% |
+| PEG (trailing) | — | Avg volume | 1,076,468 |
+| P/S | 3.69 | Employees | 11,000 |
+| P/B | 9.72 | Analyst rec (1=buy..5=sell) | 1.6 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

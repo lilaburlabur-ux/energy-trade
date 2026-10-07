@@ -4,24 +4,24 @@ Signed file: `SLB.research.07.10.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $50.00 (2026-10-07, ~15-min delayed) |
-| Market cap | $74.21B |
+| Current price | $47.96 (2026-10-07, ~15-min delayed) |
+| Market cap | $71.18B |
 | Sector / Industry | Energy / Oil & Gas Equipment & Services |
 | Main theme | Oil & Gas Equipment & Services — see catalysts below |
-| Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
+| Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-10-07.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +49.51%; price -0.38% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -16.37% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-4.54%) with negative half-year (-6.59%). |
+| Fresh setup quality | Moderate / wait | -19.79% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 8.53%, revenue growth 5.00%. |
-| Value attractiveness | Reasonable | Forward P/E 15.56, EV/Sales 2.31. |
-| Risk level | Elevated | Beta 0.84, ATR 3.3% of price, short float 4.67%. |
+| Value attractiveness | Reasonable | Forward P/E 14.93, EV/Sales 2.31. |
+| Risk level | Elevated | Beta 0.84, ATR 3.5% of price, short float 4.67%. |
 
-**Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
+**Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -35,22 +35,22 @@ SLB N.V. engages in the provision of technology for the energy industry worldwid
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $50.00; 52w high $59.79 (-16.37%); 52w low $30.96 (+61.48%) |
-| Trend | -0.38% vs SMA200, -5.13% vs SMA50, -3.72% vs SMA20 |
-| Momentum | RSI(14) 40.7 (neutral) |
-| Volatility | ATR(14) 1.63 (~3.3% of price); beta 0.84 |
-| Setup perspective | -16.37% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $47.96; 52w high $59.79 (-19.79%); 52w low $30.96 (+54.89%) |
+| Trend | -4.54% vs SMA200, -8.94% vs SMA50, -6.83% vs SMA20 |
+| Momentum | RSI(14) 33.7 (neutral) |
+| Volatility | ATR(14) 1.68 (~3.5% of price); beta 0.84 |
+| Setup perspective | -19.79% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +0.3% |
-| Month | -13.1% |
-| Quarter | +6.0% |
-| Half Y | +0.3% |
-| 1Y | +49.5% |
-| YTD | +26.4% |
+| Week | -1.6% |
+| Month | -16.0% |
+| Quarter | +2.1% |
+| Half Y | -6.6% |
+| 1Y | +42.0% |
+| YTD | +21.3% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -59,13 +59,13 @@ SLB N.V. engages in the provision of technology for the energy industry worldwid
 | Revenue (ttm) | $36.37B | Revenue growth 5.00% y/y |
 | Profitability | Gross 16.99%, operating 12.71%, net 8.53% | ROA 6.17%, ROE 12.91% |
 | Balance sheet | Cash $4.12B, debt $12.81B | Current ratio 1.44, debt/equity 47.00 |
-| Valuation | P/E 24.15, forward P/E 15.56, P/S 2.04, P/B 2.85 | EV/Sales 2.31, EV/EBITDA 11.39 |
+| Valuation | P/E 23.17, forward P/E 14.93, P/S 1.96, P/B 2.73 | EV/Sales 2.31, EV/EBITDA 11.39 |
 | Growth expectations | Earnings growth -29.70%, EPS q/q -22.50% | Analyst mean target $62.48 (29 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 92.56% |
+| Institutional ownership | 92.57% |
 | Insider ownership | 0.22% |
 | Short float | 4.67% |
 | Short ratio (days to cover) | 4.8 |
@@ -86,7 +86,7 @@ SLB N.V. engages in the provision of technology for the energy industry worldwid
 | UBS Group AG | 31,447,572 | 2.12% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 0.84, ATR 3.3% of price, short float 4.67%. Size positions accordingly.
+- **Volatility risk:** Beta 0.84, ATR 3.5% of price, short float 4.67%. Size positions accordingly.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -101,21 +101,21 @@ SLB N.V. engages in the provision of technology for the energy industry worldwid
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $50.00 | EV/Sales | 2.31 |
-| Market cap | $74.21B | EV/EBITDA | 11.39 |
+| Price | $47.96 | EV/Sales | 2.31 |
+| Market cap | $71.18B | EV/EBITDA | 11.39 |
 | Beta | 0.84 | Gross margin | 16.99% |
-| RSI(14) | 40.7 | Operating margin | 12.71% |
-| ATR(14) | 1.63 | Profit margin | 8.53% |
-| SMA20 dist | -3.72% | ROA | 6.17% |
-| SMA50 dist | -5.13% | ROE | 12.91% |
-| SMA200 dist | -0.38% | Revenue (ttm) | $36.37B |
+| RSI(14) | 33.7 | Operating margin | 12.71% |
+| ATR(14) | 1.68 | Profit margin | 8.53% |
+| SMA20 dist | -6.83% | ROA | 6.17% |
+| SMA50 dist | -8.94% | ROE | 12.91% |
+| SMA200 dist | -4.54% | Revenue (ttm) | $36.37B |
 | 52W high | $59.79 | Revenue growth y/y | 5.00% |
-| 52W low | $30.96 | Inst. ownership | 92.56% |
-| P/E (ttm) | 24.15 | Insider ownership | 0.22% |
-| Forward P/E | 15.56 | Short float | 4.67% |
-| PEG (trailing) | 1.37 | Avg volume | 12,664,251 |
-| P/S | 2.04 | Employees | 109,000 |
-| P/B | 2.85 | Analyst rec (1=buy..5=sell) | 1.6 |
+| 52W low | $30.96 | Inst. ownership | 92.57% |
+| P/E (ttm) | 23.17 | Insider ownership | 0.22% |
+| Forward P/E | 14.93 | Short float | 4.67% |
+| PEG (trailing) | 1.37 | Avg volume | 12,675,445 |
+| P/S | 1.96 | Employees | 109,000 |
+| P/B | 2.73 | Analyst rec (1=buy..5=sell) | 1.6 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
@@ -130,7 +130,7 @@ SLB N.V. engages in the provision of technology for the energy industry worldwid
 | 2026-07-27 | main | BMO Capital | Outperform → Outperform |
 
 ## 9. Conclusion
-SLB: Moderate momentum / mixed fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+SLB: Low momentum / mixed fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

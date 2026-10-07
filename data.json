@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-10-07T20:17:22+00:00",
-  "as_of_local": "2026-10-07 20:17:22 UTC",
+  "as_of_utc": "2026-10-07T20:19:17+00:00",
+  "as_of_local": "2026-10-07 20:19:17 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "DVN"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -16,10 +18,10 @@
     {
       "symbol": "CVX",
       "name": "Chevron",
-      "price": 205.17,
+      "price": 205.19,
       "previous_close": 207.58,
-      "change_pct": -1.16,
-      "market_cap": 402462140134.7771,
+      "change_pct": -1.15,
+      "market_cap": 402501380581.1305,
       "headlines": []
     },
     {
@@ -308,15 +310,6 @@
       "previous_close": 62.0,
       "change_pct": -0.76,
       "market_cap": 54117230568.329926,
-      "headlines": []
-    },
-    {
-      "symbol": "DVN",
-      "name": "Devon Energy",
-      "price": 47.88,
-      "previous_close": 48.02,
-      "change_pct": -0.29,
-      "market_cap": 52668001174.92676,
       "headlines": []
     },
     {
@@ -638,8 +631,8 @@
           "name": "Chevron Corp",
           "short": "Chevron",
           "weight_pct": 18.05,
-          "change_pct": -1.16,
-          "price": 205.17,
+          "change_pct": -1.15,
+          "price": 205.19,
           "currency": "USD"
         },
         {
@@ -737,8 +730,8 @@
         "name": "Chevron Corp",
         "short": "Chevron",
         "weight_pct": 18.05,
-        "change_pct": -1.16,
-        "price": 205.17,
+        "change_pct": -1.15,
+        "price": 205.19,
         "currency": "USD"
       },
       {
@@ -828,8 +821,8 @@
     },
     {
       "label": "Brent",
-      "price": 100.96,
-      "change_pct": 0.38
+      "price": 100.88,
+      "change_pct": 0.3
     },
     {
       "label": "NatGas",

@@ -4,8 +4,8 @@ Signed file: `SHEL.research.07.10.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $97.62 (2026-10-07, ~15-min delayed) |
-| Market cap | $278.04B |
+| Current price | $96.85 (2026-10-07, ~15-min delayed) |
+| Market cap | $275.79B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,10 +15,10 @@ Signed file: `SHEL.research.07.10.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +38.30%; price +15.72% vs SMA200. |
-| Fresh setup quality | Watch | -1.34% from 52w high and near SMA20 — check for a tight base. |
+| Technical momentum | Moderate | 1Y +35.25%; price +14.62% vs SMA200. |
+| Fresh setup quality | Watch | -2.12% from 52w high and near SMA20 — check for a tight base. |
 | Fundamental quality | Mixed | Profit margin 8.76%, revenue growth 44.70%. |
-| Value attractiveness | Reasonable | Forward P/E 9.37, EV/Sales 1.06. |
+| Value attractiveness | Reasonable | Forward P/E 9.29, EV/Sales 1.06. |
 | Risk level | Moderate | Beta -0.19, ATR 1.7% of price, short float 1.24%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -35,22 +35,22 @@ Shell plc operates as an energy and petrochemical company in Europe, Asia, Ocean
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $97.62; 52w high $98.95 (-1.34%); 52w low $68.43 (+42.65%) |
-| Trend | +15.72% vs SMA200, +5.18% vs SMA50, +1.88% vs SMA20 |
-| Momentum | RSI(14) 63.3 (neutral) |
-| Volatility | ATR(14) 1.62 (~1.7% of price); beta -0.19 |
-| Setup perspective | -1.34% from 52w high and near SMA20 — check for a tight base. |
+| Price vs 52-week range | Close $96.85; 52w high $98.95 (-2.12%); 52w low $68.43 (+41.52%) |
+| Trend | +14.62% vs SMA200, +4.09% vs SMA50, +1.01% vs SMA20 |
+| Momentum | RSI(14) 59.1 (neutral) |
+| Volatility | ATR(14) 1.61 (~1.7% of price); beta -0.19 |
+| Setup perspective | -2.12% from 52w high and near SMA20 — check for a tight base. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +2.6% |
-| Month | +5.0% |
-| Quarter | +19.7% |
-| Half Y | +5.5% |
-| 1Y | +38.3% |
-| YTD | +32.9% |
+| Week | +1.9% |
+| Month | +1.6% |
+| Quarter | +20.0% |
+| Half Y | +7.1% |
+| 1Y | +35.3% |
+| YTD | +31.9% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -59,13 +59,13 @@ Shell plc operates as an energy and petrochemical company in Europe, Asia, Ocean
 | Revenue (ttm) | $296.60B | Revenue growth 44.70% y/y |
 | Profitability | Gross 26.09%, operating 16.69%, net 8.76% | ROA 6.40%, ROE 14.34% |
 | Balance sheet | Cash $31.37B, debt $73.08B | Current ratio 1.44, debt/equity 40.20 |
-| Valuation | P/E 10.77, forward P/E 9.37, P/S 0.94, P/B 1.50 | EV/Sales 1.06, EV/EBITDA 5.46 |
-| Growth expectations | Earnings growth 220.00%, EPS q/q 200.50% | Analyst mean target $103.81 (15 analysts) |
+| Valuation | P/E 10.69, forward P/E 9.29, P/S 0.93, P/B 1.49 | EV/Sales 1.06, EV/EBITDA 5.46 |
+| Growth expectations | Earnings growth 220.00%, EPS q/q 200.50% | Analyst mean target $104.08 (15 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 13.40% |
+| Institutional ownership | 13.41% |
 | Insider ownership | 0.01% |
 | Short float | 1.24% |
 | Short ratio (days to cover) | 3.1 |
@@ -101,21 +101,21 @@ Shell plc operates as an energy and petrochemical company in Europe, Asia, Ocean
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $97.62 | EV/Sales | 1.06 |
-| Market cap | $278.04B | EV/EBITDA | 5.46 |
+| Price | $96.85 | EV/Sales | 1.06 |
+| Market cap | $275.79B | EV/EBITDA | 5.46 |
 | Beta | -0.19 | Gross margin | 26.09% |
-| RSI(14) | 63.3 | Operating margin | 16.69% |
-| ATR(14) | 1.62 | Profit margin | 8.76% |
-| SMA20 dist | +1.88% | ROA | 6.40% |
-| SMA50 dist | +5.18% | ROE | 14.34% |
-| SMA200 dist | +15.72% | Revenue (ttm) | $296.60B |
+| RSI(14) | 59.1 | Operating margin | 16.69% |
+| ATR(14) | 1.61 | Profit margin | 8.76% |
+| SMA20 dist | +1.01% | ROA | 6.40% |
+| SMA50 dist | +4.09% | ROE | 14.34% |
+| SMA200 dist | +14.62% | Revenue (ttm) | $296.60B |
 | 52W high | $98.95 | Revenue growth y/y | 44.70% |
-| 52W low | $68.43 | Inst. ownership | 13.40% |
-| P/E (ttm) | 10.77 | Insider ownership | 0.01% |
-| Forward P/E | 9.37 | Short float | 1.24% |
-| PEG (trailing) | 1.59 | Avg volume | 6,428,822 |
-| P/S | 0.94 | Employees | 84,000 |
-| P/B | 1.50 | Analyst rec (1=buy..5=sell) | 2.2 |
+| 52W low | $68.43 | Inst. ownership | 13.41% |
+| P/E (ttm) | 10.69 | Insider ownership | 0.01% |
+| Forward P/E | 9.29 | Short float | 1.24% |
+| PEG (trailing) | 1.59 | Avg volume | 6,414,874 |
+| P/S | 0.93 | Employees | 84,000 |
+| P/B | 1.49 | Analyst rec (1=buy..5=sell) | 2.2 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
