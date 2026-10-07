@@ -1,8 +1,13 @@
 {
-  "as_of_utc": "2026-10-07T13:04:45+00:00",
-  "as_of_local": "2026-10-07 13:04:45 UTC",
+  "as_of_utc": "2026-10-07T13:09:59+00:00",
+  "as_of_local": "2026-10-07 13:09:59 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "PSX",
+    "VLO",
+    "DINO",
+    "SMR"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -55,7 +60,7 @@
       "price": 445.09,
       "previous_close": 432.6,
       "change_pct": 2.89,
-      "market_cap": 172828445578.00293,
+      "market_cap": 172872954577.63672,
       "headlines": []
     },
     {
@@ -64,7 +69,7 @@
       "price": 77.88,
       "previous_close": 76.28,
       "change_pct": 2.1,
-      "market_cap": 162426939552.75378,
+      "market_cap": 162455977187.60974,
       "headlines": []
     },
     {
@@ -82,16 +87,7 @@
       "price": 432.36,
       "previous_close": 433.47,
       "change_pct": -0.26,
-      "market_cap": 126221719232.18445,
-      "headlines": []
-    },
-    {
-      "symbol": "VLO",
-      "name": "Valero Energy",
-      "price": 419.22,
-      "previous_close": 419.33,
-      "change_pct": -0.03,
-      "market_cap": 120704950551.89395,
+      "market_cap": 121417390417.03601,
       "headlines": []
     },
     {
@@ -110,15 +106,6 @@
       "previous_close": 683.42,
       "change_pct": 5.29,
       "market_cap": 108181091500.0307,
-      "headlines": []
-    },
-    {
-      "symbol": "PSX",
-      "name": "Phillips 66",
-      "price": 269.79,
-      "previous_close": 269.72,
-      "change_pct": 0.03,
-      "market_cap": 107651856337.24255,
       "headlines": []
     },
     {
@@ -208,7 +195,7 @@
       "price": 144.28,
       "previous_close": 144.08,
       "change_pct": 0.14,
-      "market_cap": 76847643658.21869,
+      "market_cap": 75679068872.9856,
       "headlines": []
     },
     {
@@ -352,7 +339,7 @@
       "price": 71.73,
       "previous_close": 68.68,
       "change_pct": 4.44,
-      "market_cap": 35744595838.291855,
+      "market_cap": 35751670425.06294,
       "headlines": []
     },
     {
@@ -398,15 +385,6 @@
       "previous_close": 96.8,
       "change_pct": 7.02,
       "market_cap": 21777805718.04426,
-      "headlines": []
-    },
-    {
-      "symbol": "DINO",
-      "name": "HF Sinclair",
-      "price": 114.6,
-      "previous_close": 115.22,
-      "change_pct": -0.54,
-      "market_cap": 20374028824.123375,
       "headlines": []
     },
     {
@@ -487,7 +465,7 @@
       "price": 29.42,
       "previous_close": 28.22,
       "change_pct": 4.25,
-      "market_cap": 8922378913.43812,
+      "market_cap": 8829284059.8167,
       "headlines": []
     },
     {
@@ -523,7 +501,7 @@
       "price": 79.94,
       "previous_close": 82.32,
       "change_pct": -2.89,
-      "market_cap": 5730534488.433289,
+      "market_cap": 5716677768.350098,
       "headlines": []
     },
     {
@@ -541,16 +519,7 @@
       "price": 33.91,
       "previous_close": 33.45,
       "change_pct": 1.38,
-      "market_cap": 4469277620.089188,
-      "headlines": []
-    },
-    {
-      "symbol": "SMR",
-      "name": "NuScale Power",
-      "price": 8.02,
-      "previous_close": 7.68,
-      "change_pct": 4.43,
-      "market_cap": 3291324154.3014145,
+      "market_cap": 4481024993.516327,
       "headlines": []
     },
     {
@@ -568,7 +537,7 @@
       "price": 11.26,
       "previous_close": 10.82,
       "change_pct": 4.07,
-      "market_cap": 2814605957.212448,
+      "market_cap": 2981350481.3218613,
       "headlines": []
     },
     {
@@ -823,18 +792,18 @@
     },
     {
       "label": "WTI",
-      "price": 89.93,
-      "change_pct": 0.55
+      "price": 90.03,
+      "change_pct": 0.66
     },
     {
       "label": "Brent",
-      "price": 101.52,
-      "change_pct": 0.93
+      "price": 101.61,
+      "change_pct": 1.02
     },
     {
       "label": "NatGas",
-      "price": 3.18,
-      "change_pct": 2.25
+      "price": 3.19,
+      "change_pct": 2.31
     }
   ]
 }
