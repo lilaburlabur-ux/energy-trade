@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-10-07T20:19:17+00:00",
-  "as_of_local": "2026-10-07 20:19:17 UTC",
+  "as_of_utc": "2026-10-07T20:21:59+00:00",
+  "as_of_local": "2026-10-07 20:21:59 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "DVN"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -18,10 +16,10 @@
     {
       "symbol": "CVX",
       "name": "Chevron",
-      "price": 205.19,
+      "price": 205.15,
       "previous_close": 207.58,
-      "change_pct": -1.15,
-      "market_cap": 402501380581.1305,
+      "change_pct": -1.17,
+      "market_cap": 402422899688.42377,
       "headlines": []
     },
     {
@@ -313,6 +311,15 @@
       "headlines": []
     },
     {
+      "symbol": "DVN",
+      "name": "Devon Energy",
+      "price": 47.88,
+      "previous_close": 48.02,
+      "change_pct": -0.29,
+      "market_cap": 52668001174.92676,
+      "headlines": []
+    },
+    {
       "symbol": "FANG",
       "name": "Diamondback Energy",
       "price": 184.38,
@@ -351,10 +358,10 @@
     {
       "symbol": "EQT",
       "name": "EQT Corp",
-      "price": 52.32,
+      "price": 52.31,
       "previous_close": 52.47,
-      "change_pct": -0.29,
-      "market_cap": 32726996929.107666,
+      "change_pct": -0.3,
+      "market_cap": 32720742819.015503,
       "headlines": []
     },
     {
@@ -631,8 +638,8 @@
           "name": "Chevron Corp",
           "short": "Chevron",
           "weight_pct": 18.05,
-          "change_pct": -1.15,
-          "price": 205.19,
+          "change_pct": -1.17,
+          "price": 205.15,
           "currency": "USD"
         },
         {
@@ -730,8 +737,8 @@
         "name": "Chevron Corp",
         "short": "Chevron",
         "weight_pct": 18.05,
-        "change_pct": -1.15,
-        "price": 205.19,
+        "change_pct": -1.17,
+        "price": 205.15,
         "currency": "USD"
       },
       {
@@ -821,8 +828,8 @@
     },
     {
       "label": "Brent",
-      "price": 100.88,
-      "change_pct": 0.3
+      "price": 100.92,
+      "change_pct": 0.34
     },
     {
       "label": "NatGas",
