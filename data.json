@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-10-07T00:46:50+00:00",
-  "as_of_local": "2026-10-07 00:46:50 UTC",
+  "as_of_utc": "2026-10-07T00:49:44+00:00",
+  "as_of_local": "2026-10-07 00:49:44 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "VLO"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -83,15 +85,6 @@
       "previous_close": 433.47,
       "change_pct": -0.26,
       "market_cap": 121417390417.03601,
-      "headlines": []
-    },
-    {
-      "symbol": "VLO",
-      "name": "Valero Energy",
-      "price": 419.22,
-      "previous_close": 419.33,
-      "change_pct": -0.03,
-      "market_cap": 120704950551.89395,
       "headlines": []
     },
     {
@@ -656,8 +649,8 @@
           "name": "Valero Energy Corp",
           "short": "Valero",
           "weight_pct": 4.73,
-          "change_pct": -0.03,
-          "price": 419.22,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -755,8 +748,8 @@
         "name": "Valero Energy Corp",
         "short": "Valero",
         "weight_pct": 4.73,
-        "change_pct": -0.03,
-        "price": 419.22,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -823,18 +816,18 @@
     },
     {
       "label": "WTI",
-      "price": 90.13,
-      "change_pct": 0.78
+      "price": 90.05,
+      "change_pct": 0.69
     },
     {
       "label": "Brent",
-      "price": 101.34,
-      "change_pct": 1.02
+      "price": 101.23,
+      "change_pct": 0.91
     },
     {
       "label": "NatGas",
       "price": 3.12,
-      "change_pct": 1.79
+      "change_pct": 1.73
     }
   ]
 }
