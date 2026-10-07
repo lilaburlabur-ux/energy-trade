@@ -35,7 +35,7 @@ Halliburton Company provides products and services to the energy industry worldw
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $31.75; 52w high $42.60 (-25.47%); 52w low $21.39 (+48.46%) |
+| Price vs 52-week range | Close $31.75; 52w high $42.60 (-25.47%); 52w low $21.39 (+48.45%) |
 | Trend | -9.89% vs SMA200, -6.37% vs SMA50, -4.70% vs SMA20 |
 | Momentum | RSI(14) 36.5 (neutral) |
 | Volatility | ATR(14) 0.96 (~3.0% of price); beta 0.84 |

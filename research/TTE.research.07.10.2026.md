@@ -70,6 +70,21 @@ TotalEnergies SE, an integrated energy company, produces and markets oil and bio
 | Short float | 0.22% |
 | Short ratio (days to cover) | 3.0 |
 
+**Top institutional holders:**
+
+| Holder | Shares | % Out | Reported |
+|---|---|---|---|
+| Amundi | 206,119,140 | 8.25% | 2026-06-30 |
+| Vanguard Capital Management LLC | 59,951,626 | 2.40% | 2026-06-30 |
+| Capital World Investors | 49,898,874 | 2.00% | 2026-06-30 |
+| Capital International Investors | 47,370,538 | 1.90% | 2026-06-30 |
+| Deutsche Bank AG | 43,577,836 | 1.74% | 2026-06-30 |
+| NORGES BANK | 40,546,835 | 1.62% | 2026-06-30 |
+| JPMORGAN CHASE & CO | 37,495,795 | 1.50% | 2026-06-30 |
+| Caisse Des Depots Et Consignations | 30,368,297 | 1.22% | 2026-06-30 |
+| Wellington Management Group, LLP | 26,300,651 | 1.05% | 2026-06-30 |
+| Goldman Sachs Group Inc | 26,079,768 | 1.04% | 2026-06-30 |
+
 ## 6. Risk Review and Setup Plan
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 

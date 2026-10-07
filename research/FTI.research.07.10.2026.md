@@ -18,7 +18,7 @@ Signed file: `FTI.research.07.10.2026`
 | Technical momentum | High | 1Y +80.54%; price +1.67% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -14.59% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 11.28%, revenue growth 9.00%. |
-| Value attractiveness | Reasonable | Forward P/E 18.91, EV/Sales 2.65. |
+| Value attractiveness | Reasonable | Forward P/E 18.89, EV/Sales 2.65. |
 | Risk level | Elevated | Beta 0.83, ATR 3.2% of price, short float 3.26%. |
 
 **Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
@@ -59,7 +59,7 @@ TechnipFMC plc engages in the oil and natural gas projects, technologies, system
 | Revenue (ttm) | $10.42B | Revenue growth 9.00% y/y |
 | Profitability | Gross 22.97%, operating 17.69%, net 11.28% | ROA 9.53%, ROE 35.81% |
 | Balance sheet | Cash $991.80M, debt $1.24B | Current ratio 1.08, debt/equity 37.90 |
-| Valuation | P/E 23.83, forward P/E 18.91, P/S 2.57, P/B 8.21 | EV/Sales 2.65, EV/EBITDA 13.95 |
+| Valuation | P/E 23.83, forward P/E 18.89, P/S 2.57, P/B 8.21 | EV/Sales 2.65, EV/EBITDA 13.95 |
 | Growth expectations | Earnings growth 40.60%, EPS q/q 34.60% | Analyst mean target $75.95 (21 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -112,7 +112,7 @@ TechnipFMC plc engages in the oil and natural gas projects, technologies, system
 | 52W high | $80.08 | Revenue growth y/y | 9.00% |
 | 52W low | $35.45 | Inst. ownership | 100.98% |
 | P/E (ttm) | 23.83 | Insider ownership | 1.36% |
-| Forward P/E | 18.91 | Short float | 3.26% |
+| Forward P/E | 18.89 | Short float | 3.26% |
 | PEG (trailing) | — | Avg volume | 3,047,885 |
 | P/S | 2.57 | Employees | 22,000 |
 | P/B | 8.21 | Analyst rec (1=buy..5=sell) | 2.0 |

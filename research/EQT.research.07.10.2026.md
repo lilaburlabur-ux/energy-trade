@@ -38,7 +38,7 @@ EQT Corporation engages in the exploration, production, gathering, and transmiss
 | Price vs 52-week range | Close $52.31; 52w high $67.53 (-22.54%); 52w low $48.56 (+7.72%) |
 | Trend | -5.29% vs SMA200, -0.90% vs SMA50, +2.14% vs SMA20 |
 | Momentum | RSI(14) 53.5 (neutral) |
-| Volatility | ATR(14) 1.40 (~2.7% of price); beta 0.65 |
+| Volatility | ATR(14) 1.39 (~2.7% of price); beta 0.65 |
 | Setup perspective | -22.54% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
@@ -104,7 +104,7 @@ EQT Corporation engages in the exploration, production, gathering, and transmiss
 | Market cap | $32.72B | EV/EBITDA | 6.00 |
 | Beta | 0.65 | Gross margin | 80.75% |
 | RSI(14) | 53.5 | Operating margin | 23.37% |
-| ATR(14) | 1.40 | Profit margin | 29.18% |
+| ATR(14) | 1.39 | Profit margin | 29.18% |
 | SMA20 dist | +2.14% | ROA | 6.63% |
 | SMA50 dist | -0.90% | ROE | 11.08% |
 | SMA200 dist | -5.29% | Revenue (ttm) | $9.29B |
