@@ -70,21 +70,6 @@ Talen Energy Corporation, an independent power producer and infrastructure compa
 | Short float | 6.33% |
 | Short ratio (days to cover) | 3.2 |
 
-**Top institutional holders:**
-
-| Holder | Shares | % Out | Reported |
-|---|---|---|---|
-| Blackrock Inc. | 4,355,914 | 7.38% | 2026-06-30 |
-| Rubric Capital Management LP | 3,602,171 | 6.10% | 2026-06-30 |
-| MFN Partners Management, LP | 3,000,000 | 5.08% | 2026-06-30 |
-| ECP ControlCo, LLC | 2,399,998 | 4.07% | 2026-06-30 |
-| Vanguard Portfolio Management LLC | 2,166,978 | 3.67% | 2026-06-30 |
-| Vanguard Capital Management LLC | 2,053,489 | 3.48% | 2026-06-30 |
-| Fred Alger Management, LLC | 1,546,473 | 2.62% | 2026-06-30 |
-| Reaves (W.H.) & Company, Inc. | 1,476,664 | 2.50% | 2026-06-30 |
-| State Street Corporation | 1,379,899 | 2.34% | 2026-06-30 |
-| Sachem Head Capital Management, LP | 1,370,000 | 2.32% | 2026-06-30 |
-
 ## 6. Risk Review and Setup Plan
 - **Volatility risk:** Beta 1.62, ATR 4.4% of price, short float 6.33%. Size positions accordingly.
 - **Short interest risk:** short float 6.33% can fuel squeezes both ways around news.
@@ -120,16 +105,7 @@ Talen Energy Corporation, an independent power producer and infrastructure compa
 | P/B | 11.21 | Analyst rec (1=buy..5=sell) | 1.6 |
 
 ## 8. Analyst Actions
-| Date | Action | Firm | Rating change |
-|---|---|---|---|
-| 2026-09-18 | main | Morgan Stanley | Overweight → Overweight |
-| 2026-08-24 | init | Mizuho | — → Outperform |
-| 2026-08-21 | main | Morgan Stanley | Overweight → Overweight |
-| 2026-08-06 | main | Wells Fargo | Overweight → Overweight |
-| 2026-07-28 | main | Barclays | Overweight → Overweight |
-| 2026-07-27 | main | Wells Fargo | Overweight → Overweight |
-| 2026-07-20 | main | Jefferies | Hold → Hold |
-| 2026-07-15 | main | Scotiabank | Sector Perform → Sector Perform |
+_No recent analyst actions available from Yahoo._
 
 ## 9. Conclusion
 TLN: Moderate momentum / weak fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
