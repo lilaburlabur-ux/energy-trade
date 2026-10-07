@@ -1,7 +1,7 @@
 {
  "meta": {
   "source": "Energy Trade curated universe (seed_energy_universe.py)",
-  "as_of": "2026-10-07 08:45 UTC",
+  "as_of": "2026-10-07 08:47 UTC",
   "total_tickers": 67,
   "min_bubble_size": 7,
   "render_spec": {
@@ -18,8 +18,8 @@
    "label": "Oil & Gas Majors",
    "color": "#E8A33D",
    "count": 8,
-   "total_market_cap_b": 2010.23,
-   "avg_change_pct": -0.16,
+   "total_market_cap_b": 2010.85,
+   "avg_change_pct": -0.13,
    "industries_included": [
     "Oil & Gas E&P",
     "Oil & Gas Integrated"
@@ -286,10 +286,10 @@
      "sector": "Energy",
      "industry": "Oil & Gas Integrated",
      "country": "United Kingdom",
-     "market_cap_b": 113.04,
+     "market_cap_b": 113.54,
      "pe": 21.96,
-     "price": 44.8,
-     "change_pct": -0.47,
+     "price": 45.0,
+     "change_pct": -0.02,
      "volume": 13156700,
      "perf": {
       "1W": 3.4,
@@ -434,7 +434,7 @@
      "fwd_eps": 5.79
     }
    ],
-   "median_change_pct": -0.04,
+   "median_change_pct": -0.01,
    "pe_hm": 16.0
   },
   {
@@ -1857,8 +1857,8 @@
    "label": "Nuclear & Uranium",
    "color": "#F2D43D",
    "count": 8,
-   "total_market_cap_b": 182.19,
-   "avg_change_pct": -1.23,
+   "total_market_cap_b": 182.18,
+   "avg_change_pct": -1.24,
    "industries_included": [
     "Aerospace & Defense",
     "Specialty Industrial Machinery",
@@ -2229,10 +2229,10 @@
      "sector": "Energy",
      "industry": "Uranium",
      "country": "United States",
-     "market_cap_b": 2.55,
+     "market_cap_b": 2.54,
      "pe": null,
-     "price": 11.3,
-     "change_pct": 0.36,
+     "price": 11.24,
+     "change_pct": -0.18,
      "volume": 9129900,
      "perf": {
       "1W": 2.5,
@@ -2275,7 +2275,7 @@
      "fwd_eps": 0.49
     }
    ],
-   "median_change_pct": -0.15,
+   "median_change_pct": -0.24,
    "pe_hm": 34.4
   },
   {
