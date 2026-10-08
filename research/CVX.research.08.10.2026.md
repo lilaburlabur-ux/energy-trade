@@ -4,8 +4,8 @@ Signed file: `CVX.research.08.10.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-10-08, ~15-min delayed) |
-| Market cap | $402.42B |
+| Current price | $211.60 (2026-10-08, ~15-min delayed) |
+| Market cap | $415.09B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `CVX.research.08.10.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +41.98%; price +14.13% vs SMA200. |
+| Fresh setup quality | Watch | -2.83% from 52w high and near SMA20 — check for a tight base. |
 | Fundamental quality | Mixed | Profit margin 9.83%, revenue growth 53.50%. |
-| Value attractiveness | Reasonable | Forward P/E 14.00, EV/Sales 2.08. |
-| Risk level | Moderate | Beta 0.52, ATR nan% of price, short float 1.06%. |
+| Value attractiveness | Reasonable | Forward P/E 14.56, EV/Sales 2.11. |
+| Risk level | Moderate | Beta 0.52, ATR 2.1% of price, short float 1.06%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
@@ -35,22 +35,22 @@ Chevron Corporation, through its subsidiaries, engages in the integrated energy 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $217.77 (+nan%); 52w low $142.76 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 53.6 (neutral) |
-| Volatility | ATR(14) 4.15 (~nan% of price); beta 0.52 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $211.60; 52w high $217.77 (-2.83%); 52w low $142.76 (+48.22%) |
+| Trend | +14.13% vs SMA200, +4.03% vs SMA50, +1.79% vs SMA20 |
+| Momentum | RSI(14) 59.3 (neutral) |
+| Volatility | ATR(14) 4.44 (~2.1% of price); beta 0.52 |
+| Setup perspective | -2.83% from 52w high and near SMA20 — check for a tight base. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | +2.2% |
+| Month | -1.0% |
+| Quarter | +21.0% |
+| Half Y | +13.2% |
+| 1Y | +42.0% |
+| YTD | +39.5% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -59,7 +59,7 @@ Chevron Corporation, through its subsidiaries, engages in the integrated energy 
 | Revenue (ttm) | $209.38B | Revenue growth 53.50% y/y |
 | Profitability | Gross 44.27%, operating 21.87%, net 9.83% | ROA 5.86%, ROE 12.23% |
 | Balance sheet | Cash $8.53B, debt $37.08B | Current ratio 1.25, debt/equity 18.96 |
-| Valuation | P/E 19.74, forward P/E 14.00, P/S 1.92, P/B 2.12 | EV/Sales 2.08, EV/EBITDA 8.62 |
+| Valuation | P/E 20.37, forward P/E 14.56, P/S 1.98, P/B 2.19 | EV/Sales 2.11, EV/EBITDA 8.71 |
 | Growth expectations | Earnings growth 321.90%, EPS q/q 384.80% | Analyst mean target $224.62 (24 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -86,6 +86,7 @@ Chevron Corporation, through its subsidiaries, engages in the integrated energy 
 | NORGES BANK | 22,964,061 | 1.16% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
+- **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -100,25 +101,26 @@ Chevron Corporation, through its subsidiaries, engages in the integrated energy 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 2.08 |
-| Market cap | $402.42B | EV/EBITDA | 8.62 |
+| Price | $211.60 | EV/Sales | 2.11 |
+| Market cap | $415.09B | EV/EBITDA | 8.71 |
 | Beta | 0.52 | Gross margin | 44.27% |
-| RSI(14) | 53.6 | Operating margin | 21.87% |
-| ATR(14) | 4.15 | Profit margin | 9.83% |
-| SMA20 dist | +nan% | ROA | 5.86% |
-| SMA50 dist | +nan% | ROE | 12.23% |
-| SMA200 dist | +nan% | Revenue (ttm) | $209.38B |
+| RSI(14) | 59.3 | Operating margin | 21.87% |
+| ATR(14) | 4.44 | Profit margin | 9.83% |
+| SMA20 dist | +1.79% | ROA | 5.86% |
+| SMA50 dist | +4.03% | ROE | 12.23% |
+| SMA200 dist | +14.13% | Revenue (ttm) | $209.38B |
 | 52W high | $217.77 | Revenue growth y/y | 53.50% |
 | 52W low | $142.76 | Inst. ownership | 71.20% |
-| P/E (ttm) | 19.74 | Insider ownership | 4.77% |
-| Forward P/E | 14.00 | Short float | 1.06% |
-| PEG (trailing) | 0.90 | Avg volume | 8,319,801 |
-| P/S | 1.92 | Employees | 43,039 |
-| P/B | 2.12 | Analyst rec (1=buy..5=sell) | 1.7 |
+| P/E (ttm) | 20.37 | Insider ownership | 4.77% |
+| Forward P/E | 14.56 | Short float | 1.06% |
+| PEG (trailing) | 0.90 | Avg volume | 8,254,351 |
+| P/S | 1.98 | Employees | 43,039 |
+| P/B | 2.19 | Analyst rec (1=buy..5=sell) | 1.7 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-10-08 | main | UBS | Buy → Buy |
 | 2026-09-28 | main | TD Cowen | Hold → Hold |
 | 2026-09-25 | main | HSBC | Buy → Buy |
 | 2026-09-03 | main | BMO Capital | Outperform → Outperform |
@@ -126,7 +128,6 @@ Chevron Corporation, through its subsidiaries, engages in the integrated energy 
 | 2026-09-03 | main | Wells Fargo | Overweight → Overweight |
 | 2026-08-19 | main | Morgan Stanley | Overweight → Overweight |
 | 2026-08-17 | main | Barclays | Equal-Weight → Equal-Weight |
-| 2026-08-05 | main | TD Cowen | Hold → Hold |
 
 ## 9. Conclusion
 CVX: Moderate momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
