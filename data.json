@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-10-08T12:03:56+00:00",
-  "as_of_local": "2026-10-08 12:03:56 UTC",
+  "as_of_utc": "2026-10-08T12:08:50+00:00",
+  "as_of_local": "2026-10-08 12:08:50 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "NOV"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -30,7 +28,7 @@
       "price": 96.85,
       "previous_close": 97.62,
       "change_pct": -0.79,
-      "market_cap": 275787862389.8418,
+      "market_cap": 275720067390.9099,
       "headlines": []
     },
     {
@@ -57,7 +55,7 @@
       "price": 431.33,
       "previous_close": 445.09,
       "change_pct": -3.09,
-      "market_cap": 167485433786.01074,
+      "market_cap": 167528566784.66797,
       "headlines": []
     },
     {
@@ -66,7 +64,7 @@
       "price": 77.06,
       "previous_close": 77.88,
       "change_pct": -1.05,
-      "market_cap": 160716743795.67004,
+      "market_cap": 160745475692.81976,
       "headlines": []
     },
     {
@@ -84,7 +82,7 @@
       "price": 442.26,
       "previous_close": 432.36,
       "change_pct": 2.29,
-      "market_cap": 129111899046.0437,
+      "market_cap": 124197562426.80933,
       "headlines": []
     },
     {
@@ -210,7 +208,7 @@
       "price": 144.21,
       "previous_close": 144.28,
       "change_pct": -0.05,
-      "market_cap": 76810363887.29721,
+      "market_cap": 75642355992.57922,
       "headlines": []
     },
     {
@@ -354,7 +352,7 @@
       "price": 71.74,
       "previous_close": 71.73,
       "change_pct": 0.01,
-      "market_cap": 35749576314.95064,
+      "market_cap": 35756651887.459946,
       "headlines": []
     },
     {
@@ -489,7 +487,7 @@
       "price": 29.43,
       "previous_close": 29.42,
       "change_pct": 0.03,
-      "market_cap": 8925411742.50248,
+      "market_cap": 8832285244.7668,
       "headlines": []
     },
     {
@@ -499,6 +497,15 @@
       "previous_close": 38.55,
       "change_pct": -4.49,
       "market_cap": 6849169816.231918,
+      "headlines": []
+    },
+    {
+      "symbol": "NOV",
+      "name": "NOV Inc",
+      "price": 18.62,
+      "previous_close": 19.0,
+      "change_pct": -2.0,
+      "market_cap": 6637622986.668348,
       "headlines": []
     },
     {
@@ -516,7 +523,7 @@
       "price": 76.42,
       "previous_close": 79.94,
       "change_pct": -4.4,
-      "market_cap": 5478201422.800034,
+      "market_cap": 5464954856.737427,
       "headlines": []
     },
     {
@@ -534,7 +541,7 @@
       "price": 33.5,
       "previous_close": 33.91,
       "change_pct": -1.21,
-      "market_cap": 4415240370.0,
+      "market_cap": 4426845708.0,
       "headlines": []
     },
     {
@@ -561,7 +568,7 @@
       "price": 10.26,
       "previous_close": 11.26,
       "change_pct": -8.88,
-      "market_cap": 2564640957.212448,
+      "market_cap": 2716576909.3218613,
       "headlines": []
     },
     {
@@ -816,18 +823,18 @@
     },
     {
       "label": "WTI",
-      "price": 92.19,
-      "change_pct": 4.43
+      "price": 92.23,
+      "change_pct": 4.47
     },
     {
       "label": "Brent",
-      "price": 104.61,
-      "change_pct": 4.4
+      "price": 104.68,
+      "change_pct": 4.47
     },
     {
       "label": "NatGas",
-      "price": 3.25,
-      "change_pct": 1.37
+      "price": 3.26,
+      "change_pct": 1.75
     }
   ]
 }
