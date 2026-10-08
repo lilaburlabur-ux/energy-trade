@@ -120,6 +120,7 @@ Enterprise Products Partners L.P. provides midstream energy services to producer
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-10-08 | main | JP Morgan | Neutral → Neutral |
 | 2026-09-22 | reit | RBC Capital | Outperform → Outperform |
 | 2026-08-18 | main | Morgan Stanley | Underweight → Underweight |
 | 2026-08-03 | main | TD Cowen | Hold → Hold |
@@ -127,7 +128,6 @@ Enterprise Products Partners L.P. provides midstream energy services to producer
 | 2026-07-09 | main | JP Morgan | Neutral → Neutral |
 | 2026-05-20 | main | Morgan Stanley | Underweight → Underweight |
 | 2026-05-12 | main | Scotiabank | Sector Perform → Sector Perform |
-| 2026-05-12 | main | JP Morgan | Neutral → Neutral |
 
 ## 9. Conclusion
 EPD: Moderate momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
