@@ -1,7 +1,7 @@
 {
  "meta": {
   "source": "Energy Trade curated universe (seed_energy_universe.py)",
-  "as_of": "2026-10-08 20:49 UTC",
+  "as_of": "2026-10-08 20:51 UTC",
   "total_tickers": 67,
   "min_bubble_size": 7,
   "render_spec": {
@@ -18,8 +18,8 @@
    "label": "Oil & Gas Majors",
    "color": "#E8A33D",
    "count": 8,
-   "total_market_cap_b": 2061.4,
-   "avg_change_pct": 3.0,
+   "total_market_cap_b": 2061.11,
+   "avg_change_pct": 2.99,
    "industries_included": [
     "Oil & Gas E&P",
     "Oil & Gas Integrated"
@@ -286,10 +286,10 @@
      "sector": "Energy",
      "industry": "Oil & Gas Integrated",
      "country": "United Kingdom",
-     "market_cap_b": 117.49,
+     "market_cap_b": 117.2,
      "pe": 21.96,
-     "price": 46.48,
-     "change_pct": 4.43,
+     "price": 46.37,
+     "change_pct": 4.18,
      "volume": 9553604,
      "perf": {
       "1W": 4.2,
@@ -1639,8 +1639,8 @@
    "label": "Refining & Downstream",
    "color": "#B65D32",
    "count": 4,
-   "total_market_cap_b": 395.86,
-   "avg_change_pct": 4.41,
+   "total_market_cap_b": 395.68,
+   "avg_change_pct": 4.36,
    "industries_included": [
     "Oil & Gas Refining & Marketing"
    ],
@@ -1702,10 +1702,10 @@
      "sector": "Energy",
      "industry": "Oil & Gas Refining & Marketing",
      "country": "United States",
-     "market_cap_b": 127.54,
+     "market_cap_b": 127.36,
      "pe": 17.47,
-     "price": 443.63,
-     "change_pct": 4.61,
+     "price": 442.99,
+     "change_pct": 4.45,
      "volume": 2563739,
      "perf": {
       "1W": 8.7,
@@ -1850,7 +1850,7 @@
      "fwd_eps": 13.18
     }
    ],
-   "median_change_pct": 4.54,
+   "median_change_pct": 4.46,
    "pe_hm": 16.1
   },
   {
@@ -2029,7 +2029,7 @@
      "market_cap_b": 5.72,
      "pe": null,
      "price": 34.74,
-     "change_pct": -5.65,
+     "change_pct": -5.64,
      "volume": 15417310,
      "perf": {
       "1W": -4.3,
@@ -3135,8 +3135,8 @@
    "label": "Power & IPPs",
    "color": "#CB9E6E",
    "count": 8,
-   "total_market_cap_b": 419.17,
-   "avg_change_pct": -0.62,
+   "total_market_cap_b": 419.28,
+   "avg_change_pct": -0.59,
    "industries_included": [
     "Utilities - Independent Power Producers",
     "Utilities - Regulated Electric"
