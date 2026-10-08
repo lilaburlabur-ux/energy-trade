@@ -18,7 +18,7 @@ Signed file: `NRG.research.08.10.2026`
 | Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
 | Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 2.56%, revenue growth 11.00%. |
-| Value attractiveness | Reasonable | Forward P/E 9.71, EV/Sales 1.38. |
+| Value attractiveness | Reasonable | Forward P/E 9.71, EV/Sales 1.41. |
 | Risk level | Moderate | Beta 1.16, ATR nan% of price, short float 3.71%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -59,7 +59,7 @@ NRG Energy, Inc., together with its subsidiaries, operates as an energy and home
 | Revenue (ttm) | $33.12B | Revenue growth 11.00% y/y |
 | Profitability | Gross 18.80%, operating 12.77%, net 2.56% | ROA 4.06%, ROE 23.77% |
 | Balance sheet | Cash $162.00M, debt $23.47B | Current ratio 0.97, debt/equity 483.36 |
-| Valuation | P/E 28.43, forward P/E 9.71, P/S 0.69, P/B 5.43 | EV/Sales 1.38, EV/EBITDA 14.06 |
+| Valuation | P/E 28.43, forward P/E 9.71, P/S 0.69, P/B 5.43 | EV/Sales 1.41, EV/EBITDA 14.38 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $185.50 (16 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -100,8 +100,8 @@ NRG Energy, Inc., together with its subsidiaries, operates as an energy and home
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 1.38 |
-| Market cap | $22.83B | EV/EBITDA | 14.06 |
+| Price | $nan | EV/Sales | 1.41 |
+| Market cap | $22.83B | EV/EBITDA | 14.38 |
 | Beta | 1.16 | Gross margin | 18.80% |
 | RSI(14) | 47.8 | Operating margin | 12.77% |
 | ATR(14) | 4.40 | Profit margin | 2.56% |

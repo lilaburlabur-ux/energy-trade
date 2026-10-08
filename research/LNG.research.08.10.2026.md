@@ -18,7 +18,7 @@ Signed file: `LNG.research.08.10.2026`
 | Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
 | Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 13.94%, revenue growth 22.70%. |
-| Value attractiveness | Reasonable | Forward P/E 13.09, EV/Sales 4.25. |
+| Value attractiveness | Reasonable | Forward P/E 12.92, EV/Sales 4.22. |
 | Risk level | Moderate | Beta 0.06, ATR nan% of price, short float 1.89%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -59,8 +59,8 @@ Cheniere Energy, Inc., an energy infrastructure company, primarily engages in th
 | Revenue (ttm) | $20.92B | Revenue growth 22.70% y/y |
 | Profitability | Gross 36.85%, operating 75.00%, net 13.94% | ROA 8.63%, ROE 39.12% |
 | Balance sheet | Cash $1.12B, debt $27.97B | Current ratio 0.87, debt/equity 243.42 |
-| Valuation | P/E 20.61, forward P/E 13.09, P/S 2.69, P/B 9.14 | EV/Sales 4.25, EV/EBITDA 11.37 |
-| Growth expectations | Earnings growth 100.70%, EPS q/q 88.70% | Analyst mean target $310.19 (21 analysts) |
+| Valuation | P/E 20.61, forward P/E 12.92, P/S 2.69, P/B 9.14 | EV/Sales 4.22, EV/EBITDA 11.29 |
+| Growth expectations | Earnings growth 100.70%, EPS q/q 88.70% | Analyst mean target $310.57 (21 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
@@ -100,8 +100,8 @@ Cheniere Energy, Inc., an energy infrastructure company, primarily engages in th
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 4.25 |
-| Market cap | $56.22B | EV/EBITDA | 11.37 |
+| Price | $nan | EV/Sales | 4.22 |
+| Market cap | $56.22B | EV/EBITDA | 11.29 |
 | Beta | 0.06 | Gross margin | 36.85% |
 | RSI(14) | 52.5 | Operating margin | 75.00% |
 | ATR(14) | 7.34 | Profit margin | 13.94% |
@@ -111,7 +111,7 @@ Cheniere Energy, Inc., an energy infrastructure company, primarily engages in th
 | 52W high | $295.86 | Revenue growth y/y | 22.70% |
 | 52W low | $187.49 | Inst. ownership | 91.53% |
 | P/E (ttm) | 20.61 | Insider ownership | 0.63% |
-| Forward P/E | 13.09 | Short float | 1.89% |
+| Forward P/E | 12.92 | Short float | 1.89% |
 | PEG (trailing) | — | Avg volume | 1,882,775 |
 | P/S | 2.69 | Employees | 1,717 |
 | P/B | 9.14 | Analyst rec (1=buy..5=sell) | 1.4 |

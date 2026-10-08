@@ -18,7 +18,7 @@ Signed file: `COP.research.08.10.2026`
 | Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
 | Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 14.40%, revenue growth 35.50%. |
-| Value attractiveness | Reasonable | Forward P/E 12.93, EV/Sales 2.65. |
+| Value attractiveness | Reasonable | Forward P/E 13.42, EV/Sales 2.66. |
 | Risk level | Moderate | Beta 0.24, ATR nan% of price, short float 1.34%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -59,8 +59,8 @@ ConocoPhillips explores for, produces, transports, and markets crude oil, bitume
 | Revenue (ttm) | $64.46B | Revenue growth 35.50% y/y |
 | Profitability | Gross 47.57%, operating 31.51%, net 14.40% | ROA 7.53%, ROE 14.18% |
 | Balance sheet | Cash $7.69B, debt $23.29B | Current ratio 1.54, debt/equity 35.64 |
-| Valuation | P/E 17.20, forward P/E 12.93, P/S 2.42, P/B 2.39 | EV/Sales 2.65, EV/EBITDA 6.38 |
-| Growth expectations | Earnings growth 107.00%, EPS q/q 99.40% | Analyst mean target $146.08 (26 analysts) |
+| Valuation | P/E 17.20, forward P/E 13.42, P/S 2.42, P/B 2.39 | EV/Sales 2.66, EV/EBITDA 6.41 |
+| Growth expectations | Earnings growth 107.00%, EPS q/q 99.40% | Analyst mean target $146.88 (26 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
@@ -100,8 +100,8 @@ ConocoPhillips explores for, produces, transports, and markets crude oil, bitume
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 2.65 |
-| Market cap | $155.98B | EV/EBITDA | 6.38 |
+| Price | $nan | EV/Sales | 2.66 |
+| Market cap | $155.98B | EV/EBITDA | 6.41 |
 | Beta | 0.24 | Gross margin | 47.57% |
 | RSI(14) | 50.7 | Operating margin | 31.51% |
 | ATR(14) | 3.16 | Profit margin | 14.40% |
@@ -111,7 +111,7 @@ ConocoPhillips explores for, produces, transports, and markets crude oil, bitume
 | 52W high | $141.22 | Revenue growth y/y | 35.50% |
 | 52W low | $83.04 | Inst. ownership | 86.96% |
 | P/E (ttm) | 17.20 | Insider ownership | 0.10% |
-| Forward P/E | 12.93 | Short float | 1.34% |
+| Forward P/E | 13.42 | Short float | 1.34% |
 | PEG (trailing) | 1.08 | Avg volume | 6,658,809 |
 | P/S | 2.42 | Employees | 9,600 |
 | P/B | 2.39 | Analyst rec (1=buy..5=sell) | 1.8 |

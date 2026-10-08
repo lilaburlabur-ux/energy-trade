@@ -18,7 +18,7 @@ Signed file: `GEV.research.08.10.2026`
 | Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
 | Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 23.04%, revenue growth 21.90%. |
-| Value attractiveness | Low (expensive) | Forward P/E 39.61, EV/Sales 6.44. |
+| Value attractiveness | Low (expensive) | Forward P/E 39.61, EV/Sales 6.23. |
 | Risk level | Moderate | Beta 0.97, ATR nan% of price, short float 3.29%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: low (expensive), risk: moderate.
@@ -59,7 +59,7 @@ GE Vernova Inc., an energy company, engages in the provision of various products
 | Revenue (ttm) | $41.37B | Revenue growth 21.90% y/y |
 | Profitability | Gross 20.57%, operating 7.47%, net 23.04% | ROA 2.54%, ROE 82.58% |
 | Balance sheet | Cash $12.72B, debt $3.72B | Current ratio 0.85, debt/equity 28.36 |
-| Valuation | P/E 28.59, forward P/E 39.61, P/S 6.42, P/B 22.21 | EV/Sales 6.44, EV/EBITDA 67.81 |
+| Valuation | P/E 28.59, forward P/E 39.61, P/S 6.42, P/B 22.21 | EV/Sales 6.23, EV/EBITDA 65.63 |
 | Growth expectations | Earnings growth 32.80%, EPS q/q 30.00% | Analyst mean target $1,230.34 (33 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -86,7 +86,7 @@ GE Vernova Inc., an energy company, engages in the provision of various products
 | Fisher Asset Management, LLC | 3,559,479 | 1.34% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 39.61, EV/Sales 6.44. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 39.61, EV/Sales 6.23. Multiple compression is the main downside if growth disappoints.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -101,8 +101,8 @@ GE Vernova Inc., an energy company, engages in the provision of various products
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 6.44 |
-| Market cap | $265.56B | EV/EBITDA | 67.81 |
+| Price | $nan | EV/Sales | 6.23 |
+| Market cap | $265.56B | EV/EBITDA | 65.63 |
 | Beta | 0.97 | Gross margin | 20.57% |
 | RSI(14) | 65.0 | Operating margin | 7.47% |
 | ATR(14) | 37.84 | Profit margin | 23.04% |

@@ -18,7 +18,7 @@ Signed file: `DINO.research.08.10.2026`
 | Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
 | Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 6.13%, revenue growth 53.20%. |
-| Value attractiveness | Reasonable | Forward P/E 8.75, EV/Sales 0.69. |
+| Value attractiveness | Reasonable | Forward P/E 8.78, EV/Sales 0.69. |
 | Risk level | Moderate | Beta 0.71, ATR nan% of price, short float 6.20%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -59,7 +59,7 @@ HF Sinclair Corporation operates as an independent energy company in the United 
 | Revenue (ttm) | $31.23B | Revenue growth 53.20% y/y |
 | Profitability | Gross 12.89%, operating 11.69%, net 6.13% | ROA 9.16%, ROE 19.50% |
 | Balance sheet | Cash $2.26B, debt $3.34B | Current ratio 1.97, debt/equity 32.26 |
-| Valuation | P/E 11.01, forward P/E 8.75, P/S 0.66, P/B 2.00 | EV/Sales 0.69, EV/EBITDA 6.71 |
+| Valuation | P/E 11.01, forward P/E 8.78, P/S 0.66, P/B 2.00 | EV/Sales 0.69, EV/EBITDA 6.77 |
 | Growth expectations | Earnings growth 350.20%, EPS q/q 328.80% | Analyst mean target $106.47 (15 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -102,7 +102,7 @@ HF Sinclair Corporation operates as an independent energy company in the United 
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $nan | EV/Sales | 0.69 |
-| Market cap | $20.56B | EV/EBITDA | 6.71 |
+| Market cap | $20.56B | EV/EBITDA | 6.77 |
 | Beta | 0.71 | Gross margin | 12.89% |
 | RSI(14) | 66.4 | Operating margin | 11.69% |
 | ATR(14) | 4.55 | Profit margin | 6.13% |
@@ -112,7 +112,7 @@ HF Sinclair Corporation operates as an independent energy company in the United 
 | 52W high | $116.62 | Revenue growth y/y | 53.20% |
 | 52W low | $44.83 | Inst. ownership | 90.18% |
 | P/E (ttm) | 11.01 | Insider ownership | 5.49% |
-| Forward P/E | 8.75 | Short float | 6.20% |
+| Forward P/E | 8.78 | Short float | 6.20% |
 | PEG (trailing) | 1.13 | Avg volume | 2,764,276 |
 | P/S | 0.66 | Employees | 5,165 |
 | P/B | 2.00 | Analyst rec (1=buy..5=sell) | 2.6 |
