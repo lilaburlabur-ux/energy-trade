@@ -1,7 +1,7 @@
 {
  "meta": {
   "source": "Energy Trade curated universe (seed_energy_universe.py)",
-  "as_of": "2026-10-08 01:01 UTC",
+  "as_of": "2026-10-08 01:03 UTC",
   "total_tickers": 67,
   "min_bubble_size": 7,
   "render_spec": {
@@ -18,7 +18,7 @@
    "label": "Oil & Gas Majors",
    "color": "#E8A33D",
    "count": 8,
-   "total_market_cap_b": 2013.65,
+   "total_market_cap_b": 2013.6,
    "avg_change_pct": 0.48,
    "industries_included": [
     "Oil & Gas E&P",
@@ -125,7 +125,7 @@
       207.58
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
-     "fwd_eps": 14.71
+     "fwd_eps": 14.83
     },
     {
      "ticker": "SHEL",
@@ -176,7 +176,7 @@
       97.62
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
-     "fwd_eps": 10.46
+     "fwd_eps": 10.51
     },
     {
      "ticker": "TTE",
@@ -278,7 +278,7 @@
       129.35
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
-     "fwd_eps": 10.01
+     "fwd_eps": 9.64
     },
     {
      "ticker": "BP",
@@ -442,7 +442,7 @@
    "label": "Shale & E&P",
    "color": "#D97742",
    "count": 9,
-   "total_market_cap_b": 338.37,
+   "total_market_cap_b": 338.4,
    "avg_change_pct": 0.58,
    "industries_included": [
     "Oil & Gas E&P"
@@ -497,7 +497,7 @@
       144.28
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
-     "fwd_eps": 15.34
+     "fwd_eps": 15.35
     },
     {
      "ticker": "OXY",
@@ -599,7 +599,7 @@
       48.02
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
-     "fwd_eps": 5.51
+     "fwd_eps": 5.45
     },
     {
      "ticker": "FANG",
@@ -650,7 +650,7 @@
       184.98
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
-     "fwd_eps": 18.81
+     "fwd_eps": 18.8
     },
     {
      "ticker": "EQT",
@@ -854,7 +854,7 @@
       44.1
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
-     "fwd_eps": 4.61
+     "fwd_eps": 4.62
     },
     {
      "ticker": "AR",
@@ -916,7 +916,7 @@
    "label": "Oilfield Services",
    "color": "#A67C52",
    "count": 6,
-   "total_market_cap_b": 198.64,
+   "total_market_cap_b": 198.6,
    "avg_change_pct": -0.6,
    "industries_included": [
     "Oil & Gas Equipment & Services"
@@ -1237,7 +1237,7 @@
    "label": "Midstream & LNG",
    "color": "#C9A227",
    "count": 8,
-   "total_market_cap_b": 543.15,
+   "total_market_cap_b": 543.1,
    "avg_change_pct": 0.96,
    "industries_included": [
     "Oil & Gas Midstream"
@@ -1301,7 +1301,7 @@
      "industry": "Oil & Gas Midstream",
      "country": "United States",
      "market_cap_b": 82.2,
-     "pe": 12.76,
+     "pe": 12.94,
      "price": 37.26,
      "change_pct": 1.25,
      "volume": 2062449,
@@ -1432,7 +1432,7 @@
      "industry": "Oil & Gas Midstream",
      "country": "United States",
      "market_cap_b": 61.17,
-     "pe": 27.47,
+     "pe": 27.32,
      "price": 285.72,
      "change_pct": -0.58,
      "volume": 1180869,
@@ -1474,7 +1474,7 @@
       285.72
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
-     "fwd_eps": 12.15
+     "fwd_eps": 12.12
     },
     {
      "ticker": "MPLX",
@@ -1576,7 +1576,7 @@
       275.26
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
-     "fwd_eps": 21.03
+     "fwd_eps": 21.3
     },
     {
      "ticker": "OKE",
@@ -1631,14 +1631,14 @@
     }
    ],
    "median_change_pct": 0.71,
-   "pe_hm": 17.4
+   "pe_hm": 17.5
   },
   {
    "id": "refining_downstream",
    "label": "Refining & Downstream",
    "color": "#B65D32",
    "count": 4,
-   "total_market_cap_b": 374.05,
+   "total_market_cap_b": 374.1,
    "avg_change_pct": -0.12,
    "industries_included": [
     "Oil & Gas Refining & Marketing"
@@ -1702,7 +1702,7 @@
      "industry": "Oil & Gas Refining & Marketing",
      "country": "United States",
      "market_cap_b": 120.51,
-     "pe": 17.48,
+     "pe": 17.47,
      "price": 419.22,
      "change_pct": -0.03,
      "volume": 1826747,
@@ -1744,7 +1744,7 @@
       419.22
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
-     "fwd_eps": 40.98
+     "fwd_eps": 41.79
     },
     {
      "ticker": "PSX",
@@ -1846,7 +1846,7 @@
       114.6
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
-     "fwd_eps": 13.1
+     "fwd_eps": 13.06
     }
    ],
    "median_change_pct": -0.15,
@@ -1857,7 +1857,7 @@
    "label": "Nuclear & Uranium",
    "color": "#F2D43D",
    "count": 8,
-   "total_market_cap_b": 184.48,
+   "total_market_cap_b": 184.5,
    "avg_change_pct": 9.89,
    "industries_included": [
     "Aerospace & Defense",
@@ -2068,7 +2068,7 @@
       38.55
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
-     "fwd_eps": -1.1
+     "fwd_eps": -1.12
     },
     {
      "ticker": "NXE",
@@ -2283,7 +2283,7 @@
    "label": "Renewables & Solar",
    "color": "#9CC65A",
    "count": 8,
-   "total_market_cap_b": 227.56,
+   "total_market_cap_b": 227.6,
    "avg_change_pct": 2.44,
    "industries_included": [
     "Solar",
