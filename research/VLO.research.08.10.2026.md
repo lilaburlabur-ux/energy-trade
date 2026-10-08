@@ -18,7 +18,7 @@ Signed file: `VLO.research.08.10.2026`
 | Technical momentum | High | 1Y +177.75%; price +67.97% vs SMA200. |
 | Fresh setup quality | Moderate / wait | +0.00% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 5.45%, revenue growth 51.70%. |
-| Value attractiveness | Reasonable | Forward P/E 10.50, EV/Sales 0.96. |
+| Value attractiveness | Reasonable | Forward P/E 10.43, EV/Sales 0.97. |
 | Risk level | Elevated | Beta 0.59, ATR 3.5% of price, short float 3.91%. |
 
 **Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
@@ -59,8 +59,8 @@ Valero Energy Corporation manufactures, markets, and sells petroleum-based and l
 | Revenue (ttm) | $132.43B | Revenue growth 51.70% y/y |
 | Profitability | Gross 16.12%, operating 12.27%, net 5.45% | ROA 10.56%, ROE 27.64% |
 | Balance sheet | Cash $7.87B, debt $11.35B | Current ratio 1.64, debt/equity 40.15 |
-| Valuation | P/E 18.50, forward P/E 10.50, P/S 0.96, P/B 5.11 | EV/Sales 0.96, EV/EBITDA 9.53 |
-| Growth expectations | Earnings growth 453.50%, EPS q/q 421.00% | Analyst mean target $374.74 (19 analysts) |
+| Valuation | P/E 18.50, forward P/E 10.43, P/S 0.96, P/B 5.11 | EV/Sales 0.97, EV/EBITDA 9.63 |
+| Growth expectations | Earnings growth 453.50%, EPS q/q 421.00% | Analyst mean target $380.00 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
@@ -102,8 +102,8 @@ Valero Energy Corporation manufactures, markets, and sells petroleum-based and l
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $443.80 | EV/Sales | 0.96 |
-| Market cap | $127.78B | EV/EBITDA | 9.53 |
+| Price | $443.80 | EV/Sales | 0.97 |
+| Market cap | $127.78B | EV/EBITDA | 9.63 |
 | Beta | 0.59 | Gross margin | 16.12% |
 | RSI(14) | 77.1 | Operating margin | 12.27% |
 | ATR(14) | 15.63 | Profit margin | 5.45% |
@@ -113,7 +113,7 @@ Valero Energy Corporation manufactures, markets, and sells petroleum-based and l
 | 52W high | $443.80 | Revenue growth y/y | 51.70% |
 | 52W low | $153.14 | Inst. ownership | 87.08% |
 | P/E (ttm) | 18.50 | Insider ownership | 0.42% |
-| Forward P/E | 10.50 | Short float | 3.91% |
+| Forward P/E | 10.43 | Short float | 3.91% |
 | PEG (trailing) | 1.85 | Avg volume | 3,009,487 |
 | P/S | 0.96 | Employees | 9,785 |
 | P/B | 5.11 | Analyst rec (1=buy..5=sell) | 2.4 |

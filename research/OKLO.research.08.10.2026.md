@@ -18,7 +18,7 @@ Signed file: `OKLO.research.08.10.2026`
 | Technical momentum | Low | Below SMA200 (-40.99%) with negative half-year (-27.60%). |
 | Fresh setup quality | Poor / broken | -80.15% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 0.00%, revenue growth —. |
-| Value attractiveness | Reasonable | Forward P/E -32.37, EV/Sales 3,892.54. |
+| Value attractiveness | Reasonable | Forward P/E -32.37, EV/Sales 3,626.58. |
 | Risk level | High | Beta 1.22, ATR 6.7% of price, short float 20.52%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: high.
@@ -59,13 +59,13 @@ Oklo Inc. develops fission power plants to provide energy at scale to customers 
 | Revenue (ttm) | $1.21M | Revenue growth — y/y |
 | Profitability | Gross 40.41%, operating -6048.76%, net 0.00% | ROA -6.65%, ROE -7.70% |
 | Balance sheet | Cash $2.47B, debt $4.15M | Current ratio 48.46, debt/equity 0.13 |
-| Valuation | P/E —, forward P/E -32.37, P/S 5,314.57, P/B 1.95 | EV/Sales 3,892.54, EV/EBITDA -21.73 |
+| Valuation | P/E —, forward P/E -32.37, P/S 5,314.57, P/B 1.95 | EV/Sales 3,626.58, EV/EBITDA -20.24 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $75.78 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 47.92% |
+| Institutional ownership | 47.91% |
 | Insider ownership | 15.34% |
 | Short float | 20.52% |
 | Short ratio (days to cover) | 3.4 |
@@ -103,8 +103,8 @@ Oklo Inc. develops fission power plants to provide energy at scale to customers 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $34.57 | EV/Sales | 3,892.54 |
-| Market cap | $6.43B | EV/EBITDA | -21.73 |
+| Price | $34.57 | EV/Sales | 3,626.58 |
+| Market cap | $6.43B | EV/EBITDA | -20.24 |
 | Beta | 1.22 | Gross margin | 40.41% |
 | RSI(14) | 39.0 | Operating margin | -6048.76% |
 | ATR(14) | 2.32 | Profit margin | 0.00% |
@@ -112,7 +112,7 @@ Oklo Inc. develops fission power plants to provide energy at scale to customers 
 | SMA50 dist | -14.34% | ROE | -7.70% |
 | SMA200 dist | -40.99% | Revenue (ttm) | $1.21M |
 | 52W high | $174.14 | Revenue growth y/y | — |
-| 52W low | $34.57 | Inst. ownership | 47.92% |
+| 52W low | $34.57 | Inst. ownership | 47.91% |
 | P/E (ttm) | — | Insider ownership | 15.34% |
 | Forward P/E | -32.37 | Short float | 20.52% |
 | PEG (trailing) | — | Avg volume | 9,633,748 |

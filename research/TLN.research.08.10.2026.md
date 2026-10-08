@@ -18,7 +18,7 @@ Signed file: `TLN.research.08.10.2026`
 | Technical momentum | Moderate | 1Y -16.66%; price +2.14% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -19.43% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Weak | Negative profit margin (-4.95%). |
-| Value attractiveness | Reasonable | Forward P/E 11.68, EV/Sales 7.28. |
+| Value attractiveness | Reasonable | Forward P/E 11.68, EV/Sales 7.35. |
 | Risk level | Elevated | Beta 1.62, ATR 4.9% of price, short float 6.33%. |
 
 **Bottom line:** Moderate technical momentum, weak fundamentals, value: reasonable, risk: elevated.
@@ -59,13 +59,13 @@ Talen Energy Corporation, an independent power producer and infrastructure compa
 | Revenue (ttm) | $3.74B | Revenue growth 111.20% y/y |
 | Profitability | Gross 42.10%, operating -4.80%, net -4.95% | ROA 0.92%, ROE -12.83% |
 | Balance sheet | Cash $232.00M, debt $9.57B | Current ratio 0.78, debt/equity 584.14 |
-| Valuation | P/E —, forward P/E 11.68, P/S 4.54, P/B 10.65 | EV/Sales 7.28, EV/EBITDA 46.81 |
+| Valuation | P/E —, forward P/E 11.68, P/S 4.54, P/B 10.65 | EV/Sales 7.35, EV/EBITDA 47.24 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $455.65 (17 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 103.58% |
+| Institutional ownership | 103.57% |
 | Insider ownership | 1.38% |
 | Short float | 6.33% |
 | Short ratio (days to cover) | 3.2 |
@@ -103,8 +103,8 @@ Talen Energy Corporation, an independent power producer and infrastructure compa
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $359.22 | EV/Sales | 7.28 |
-| Market cap | $16.99B | EV/EBITDA | 46.81 |
+| Price | $359.22 | EV/Sales | 7.35 |
+| Market cap | $16.99B | EV/EBITDA | 47.24 |
 | Beta | 1.62 | Gross margin | 42.10% |
 | RSI(14) | 64.5 | Operating margin | -4.80% |
 | ATR(14) | 17.44 | Profit margin | -4.95% |
@@ -112,7 +112,7 @@ Talen Energy Corporation, an independent power producer and infrastructure compa
 | SMA50 dist | +11.94% | ROE | -12.83% |
 | SMA200 dist | +2.14% | Revenue (ttm) | $3.74B |
 | 52W high | $445.84 | Revenue growth y/y | 111.20% |
-| 52W low | $282.15 | Inst. ownership | 103.58% |
+| 52W low | $282.15 | Inst. ownership | 103.57% |
 | P/E (ttm) | — | Insider ownership | 1.38% |
 | Forward P/E | 11.68 | Short float | 6.33% |
 | PEG (trailing) | — | Avg volume | 857,415 |

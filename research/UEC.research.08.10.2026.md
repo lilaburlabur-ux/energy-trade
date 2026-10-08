@@ -18,7 +18,7 @@ Signed file: `UEC.research.08.10.2026`
 | Technical momentum | Low | Below SMA200 (-29.58%) with negative half-year (-33.33%). |
 | Fresh setup quality | Poor / broken | -54.62% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 0.00%, revenue growth —. |
-| Value attractiveness | Reasonable | Forward P/E -123.51, EV/Sales 121.28. |
+| Value attractiveness | Reasonable | Forward P/E -123.51, EV/Sales 112.77. |
 | Risk level | High | Beta 1.39, ATR 6.6% of price, short float 14.57%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: high.
@@ -59,13 +59,13 @@ Uranium Energy Corp., together with its subsidiaries, engages in exploration, pr
 | Revenue (ttm) | $37.25M | Revenue growth — y/y |
 | Profitability | Gross -183.96%, operating -228.60%, net 0.00% | ROA -6.35%, ROE -11.64% |
 | Balance sheet | Cash $495.46M, debt $2.95M | Current ratio 17.26, debt/equity 0.21 |
-| Valuation | P/E —, forward P/E -123.51, P/S 121.60, P/B 3.29 | EV/Sales 121.28, EV/EBITDA -35.79 |
+| Valuation | P/E —, forward P/E -123.51, P/S 121.60, P/B 3.29 | EV/Sales 112.77, EV/EBITDA -33.28 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $16.12 (11 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 90.54% |
+| Institutional ownership | 90.55% |
 | Insider ownership | 1.82% |
 | Short float | 14.57% |
 | Short ratio (days to cover) | 7.0 |
@@ -103,8 +103,8 @@ Uranium Energy Corp., together with its subsidiaries, engages in exploration, pr
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $9.14 | EV/Sales | 121.28 |
-| Market cap | $4.53B | EV/EBITDA | -35.79 |
+| Price | $9.14 | EV/Sales | 112.77 |
+| Market cap | $4.53B | EV/EBITDA | -33.28 |
 | Beta | 1.39 | Gross margin | -183.96% |
 | RSI(14) | 38.1 | Operating margin | -228.60% |
 | ATR(14) | 0.60 | Profit margin | 0.00% |
@@ -112,7 +112,7 @@ Uranium Energy Corp., together with its subsidiaries, engages in exploration, pr
 | SMA50 dist | -15.30% | ROE | -11.64% |
 | SMA200 dist | -29.58% | Revenue (ttm) | $37.25M |
 | 52W high | $20.14 | Revenue growth y/y | — |
-| 52W low | $9.04 | Inst. ownership | 90.54% |
+| 52W low | $9.04 | Inst. ownership | 90.55% |
 | P/E (ttm) | — | Insider ownership | 1.82% |
 | Forward P/E | -123.51 | Short float | 14.57% |
 | PEG (trailing) | — | Avg volume | 8,745,964 |

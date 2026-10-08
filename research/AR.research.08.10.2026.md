@@ -60,12 +60,12 @@ Antero Resources Corporation, an independent oil and natural gas company, engage
 | Profitability | Gross 67.15%, operating 26.02%, net 18.75% | ROA 6.61%, ROE 14.22% |
 | Balance sheet | Cash —, debt $4.62B | Current ratio 0.40, debt/equity 55.49 |
 | Valuation | P/E 10.36, forward P/E 8.22, P/S 1.92, P/B 1.34 | EV/Sales —, EV/EBITDA — |
-| Growth expectations | Earnings growth 79.90%, EPS q/q 78.00% | Analyst mean target $49.43 (21 analysts) |
+| Growth expectations | Earnings growth 79.90%, EPS q/q 78.00% | Analyst mean target $49.14 (21 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 91.34% |
+| Institutional ownership | 91.33% |
 | Insider ownership | 4.41% |
 | Short float | 4.46% |
 | Short ratio (days to cover) | 4.0 |
@@ -110,7 +110,7 @@ Antero Resources Corporation, an independent oil and natural gas company, engage
 | SMA50 dist | -1.69% | ROE | 14.22% |
 | SMA200 dist | -0.81% | Revenue (ttm) | $5.78B |
 | 52W high | $45.15 | Revenue growth y/y | 12.60% |
-| 52W low | $30.03 | Inst. ownership | 91.34% |
+| 52W low | $30.03 | Inst. ownership | 91.33% |
 | P/E (ttm) | 10.36 | Insider ownership | 4.41% |
 | Forward P/E | 8.22 | Short float | 4.46% |
 | PEG (trailing) | 0.45 | Avg volume | 4,170,354 |

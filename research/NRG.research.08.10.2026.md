@@ -18,7 +18,7 @@ Signed file: `NRG.research.08.10.2026`
 | Technical momentum | Low | Below SMA200 (-23.60%) with negative half-year (-33.85%). |
 | Fresh setup quality | Poor / broken | -41.84% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 2.56%, revenue growth 11.00%. |
-| Value attractiveness | Reasonable | Forward P/E 9.50, EV/Sales 1.38. |
+| Value attractiveness | Reasonable | Forward P/E 9.50, EV/Sales 1.41. |
 | Risk level | Elevated | Beta 1.16, ATR 4.5% of price, short float 3.71%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
@@ -59,13 +59,13 @@ NRG Energy, Inc., together with its subsidiaries, operates as an energy and home
 | Revenue (ttm) | $33.12B | Revenue growth 11.00% y/y |
 | Profitability | Gross 18.80%, operating 12.77%, net 2.56% | ROA 4.06%, ROE 23.77% |
 | Balance sheet | Cash $162.00M, debt $23.47B | Current ratio 0.97, debt/equity 483.36 |
-| Valuation | P/E 27.83, forward P/E 9.50, P/S 0.67, P/B 5.32 | EV/Sales 1.38, EV/EBITDA 14.06 |
+| Valuation | P/E 27.83, forward P/E 9.50, P/S 0.67, P/B 5.32 | EV/Sales 1.41, EV/EBITDA 14.38 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $185.50 (16 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 95.56% |
+| Institutional ownership | 95.54% |
 | Insider ownership | 4.46% |
 | Short float | 3.71% |
 | Short ratio (days to cover) | 2.2 |
@@ -102,8 +102,8 @@ NRG Energy, Inc., together with its subsidiaries, operates as an energy and home
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $106.32 | EV/Sales | 1.38 |
-| Market cap | $22.35B | EV/EBITDA | 14.06 |
+| Price | $106.32 | EV/Sales | 1.41 |
+| Market cap | $22.35B | EV/EBITDA | 14.38 |
 | Beta | 1.16 | Gross margin | 18.80% |
 | RSI(14) | 51.4 | Operating margin | 12.77% |
 | ATR(14) | 4.79 | Profit margin | 2.56% |
@@ -111,7 +111,7 @@ NRG Energy, Inc., together with its subsidiaries, operates as an energy and home
 | SMA50 dist | -5.00% | ROE | 23.77% |
 | SMA200 dist | -23.60% | Revenue (ttm) | $33.12B |
 | 52W high | $182.82 | Revenue growth y/y | 11.00% |
-| 52W low | $95.23 | Inst. ownership | 95.56% |
+| 52W low | $95.23 | Inst. ownership | 95.54% |
 | P/E (ttm) | 27.83 | Insider ownership | 4.46% |
 | Forward P/E | 9.50 | Short float | 3.71% |
 | PEG (trailing) | 0.39 | Avg volume | 2,884,975 |

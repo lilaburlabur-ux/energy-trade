@@ -5,7 +5,7 @@ Signed file: `PSX.research.08.10.2026`
 | Field | Value |
 |---|---|
 | Current price | $281.60 (2026-10-08, ~15-min delayed) |
-| Market cap | $112.36B |
+| Market cap | $112.90B |
 | Sector / Industry | Energy / Oil & Gas Refining & Marketing |
 | Main theme | Oil & Gas Refining & Marketing — see catalysts below |
 | Current stance | High technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
@@ -18,7 +18,7 @@ Signed file: `PSX.research.08.10.2026`
 | Technical momentum | High | 1Y +119.04%; price +51.94% vs SMA200. |
 | Fresh setup quality | Moderate / wait | +0.00% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 4.66%, revenue growth 53.10%. |
-| Value attractiveness | Reasonable | Forward P/E 10.53, EV/Sales 0.82. |
+| Value attractiveness | Reasonable | Forward P/E 10.53, EV/Sales 0.83. |
 | Risk level | Elevated | Beta 0.70, ATR 3.0% of price, short float 1.96%. |
 
 **Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
@@ -59,7 +59,7 @@ Phillips 66 operates as an integrated downstream energy provider in the United S
 | Revenue (ttm) | $152.17B | Revenue growth 53.10% y/y |
 | Profitability | Gross 13.10%, operating 8.53%, net 4.66% | ROA 6.04%, ROE 23.45% |
 | Balance sheet | Cash $4.10B, debt $20.57B | Current ratio 1.32, debt/equity 62.88 |
-| Valuation | P/E 16.09, forward P/E 10.53, P/S 0.74, P/B 3.57 | EV/Sales 0.82, EV/EBITDA 12.63 |
+| Valuation | P/E 16.09, forward P/E 10.53, P/S 0.74, P/B 3.57 | EV/Sales 0.83, EV/EBITDA 12.70 |
 | Growth expectations | Earnings growth 344.90%, EPS q/q 338.70% | Analyst mean target $257.16 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -102,8 +102,8 @@ Phillips 66 operates as an integrated downstream energy provider in the United S
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $281.60 | EV/Sales | 0.82 |
-| Market cap | $112.36B | EV/EBITDA | 12.63 |
+| Price | $281.60 | EV/Sales | 0.83 |
+| Market cap | $112.90B | EV/EBITDA | 12.70 |
 | Beta | 0.70 | Gross margin | 13.10% |
 | RSI(14) | 74.8 | Operating margin | 8.53% |
 | ATR(14) | 8.57 | Profit margin | 4.66% |

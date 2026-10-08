@@ -5,7 +5,7 @@ Signed file: `NXE.research.08.10.2026`
 | Field | Value |
 |---|---|
 | Current price | $8.67 (2026-10-08, ~15-min delayed) |
-| Market cap | $5.74B |
+| Market cap | $5.81B |
 | Sector / Industry | Energy / Uranium |
 | Main theme | Uranium — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
@@ -59,13 +59,13 @@ NexGen Energy Ltd., an exploration and development stage company, engages in the
 | Revenue (ttm) | — | Revenue growth — y/y |
 | Profitability | Gross 0.00%, operating 0.00%, net 0.00% | ROA -3.39%, ROE -17.67% |
 | Balance sheet | Cash $970.25M, debt $619.11M | Current ratio 1.46, debt/equity 33.57 |
-| Valuation | P/E —, forward P/E -56.53, P/S —, P/B 4.34 | EV/Sales —, EV/EBITDA -55.04 |
+| Valuation | P/E —, forward P/E -56.53, P/S —, P/B 4.34 | EV/Sales —, EV/EBITDA -52.32 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $16.35 (2 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 56.09% |
+| Institutional ownership | 56.10% |
 | Insider ownership | 6.40% |
 | Short float | — |
 | Short ratio (days to cover) | 8.9 |
@@ -103,7 +103,7 @@ NexGen Energy Ltd., an exploration and development stage company, engages in the
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $8.67 | EV/Sales | — |
-| Market cap | $5.74B | EV/EBITDA | -55.04 |
+| Market cap | $5.81B | EV/EBITDA | -52.32 |
 | Beta | 1.72 | Gross margin | 0.00% |
 | RSI(14) | 36.8 | Operating margin | 0.00% |
 | ATR(14) | 0.40 | Profit margin | 0.00% |
@@ -111,7 +111,7 @@ NexGen Energy Ltd., an exploration and development stage company, engages in the
 | SMA50 dist | -12.90% | ROE | -17.67% |
 | SMA200 dist | -20.46% | Revenue (ttm) | — |
 | 52W high | $13.92 | Revenue growth y/y | — |
-| 52W low | $7.56 | Inst. ownership | 56.09% |
+| 52W low | $7.56 | Inst. ownership | 56.10% |
 | P/E (ttm) | — | Insider ownership | 6.40% |
 | Forward P/E | -56.53 | Short float | — |
 | PEG (trailing) | — | Avg volume | 4,706,695 |
