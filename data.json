@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-10-09T20:05:00+00:00",
-  "as_of_local": "2026-10-09 20:05:00 UTC",
+  "as_of_utc": "2026-10-09T20:10:21+00:00",
+  "as_of_local": "2026-10-09 20:10:21 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -43,10 +43,10 @@
     {
       "symbol": "TTE",
       "name": "TotalEnergies",
-      "price": 86.09,
+      "price": 86.07,
       "previous_close": 86.02,
-      "change_pct": 0.08,
-      "market_cap": 190041494779.19595,
+      "change_pct": 0.06,
+      "market_cap": 189997352694.16217,
       "headlines": []
     },
     {
@@ -823,18 +823,18 @@
     },
     {
       "label": "WTI",
-      "price": 91.42,
-      "change_pct": -0.08
+      "price": 91.55,
+      "change_pct": 0.07
     },
     {
       "label": "Brent",
-      "price": 104.12,
-      "change_pct": -0.15
+      "price": 104.34,
+      "change_pct": 0.06
     },
     {
       "label": "NatGas",
       "price": 3.2,
-      "change_pct": 0.95
+      "change_pct": 0.88
     }
   ]
 }
