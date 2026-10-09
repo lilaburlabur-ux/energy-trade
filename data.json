@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-10-09T01:36:48+00:00",
-  "as_of_local": "2026-10-09 01:36:48 UTC",
+  "as_of_utc": "2026-10-09T01:51:48+00:00",
+  "as_of_local": "2026-10-09 01:51:48 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "SEDG"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -574,6 +572,15 @@
       "headlines": []
     },
     {
+      "symbol": "SEDG",
+      "name": "SolarEdge",
+      "price": 32.47,
+      "previous_close": 33.16,
+      "change_pct": -2.08,
+      "market_cap": 1997741112.6646729,
+      "headlines": []
+    },
+    {
       "symbol": "RUN",
       "name": "Sunrun",
       "price": 7.59,
@@ -816,18 +823,18 @@
     },
     {
       "label": "WTI",
-      "price": 90.91,
-      "change_pct": 2.98
+      "price": 90.81,
+      "change_pct": 2.87
     },
     {
       "label": "Brent",
-      "price": 103.56,
-      "change_pct": 3.35
+      "price": 103.4,
+      "change_pct": 3.19
     },
     {
       "label": "NatGas",
       "price": 3.13,
-      "change_pct": -2.19
+      "change_pct": -2.22
     }
   ]
 }
