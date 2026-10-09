@@ -18,7 +18,7 @@ Signed file: `BP.research.09.10.2026`
 | Technical momentum | Moderate | 1Y +40.88%; price +12.30% vs SMA200. |
 | Fresh setup quality | Watch | -1.51% from 52w high and near SMA20 — check for a tight base. |
 | Fundamental quality | Mixed | Profit margin 2.55%, revenue growth 48.20%. |
-| Value attractiveness | Reasonable | Forward P/E 8.67, EV/Sales 2.39. |
+| Value attractiveness | Reasonable | Forward P/E 8.67, EV/Sales 2.48. |
 | Risk level | Moderate | Beta -0.20, ATR 2.4% of price, short float 0.28%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -59,13 +59,13 @@ BP p.l.c., an integrated energy company, engages in the oil and gas business wor
 | Revenue (ttm) | $215.47B | Revenue growth 48.20% y/y |
 | Profitability | Gross 28.30%, operating 13.15%, net 2.55% | ROA 5.04%, ROE 8.87% |
 | Balance sheet | Cash $37.23B, debt $72.69B | Current ratio 1.27, debt/equity 95.12 |
-| Valuation | P/E 22.56, forward P/E 8.67, P/S 0.55, P/B 8.19 | EV/Sales 2.39, EV/EBITDA 13.11 |
+| Valuation | P/E 22.56, forward P/E 8.67, P/S 0.55, P/B 8.19 | EV/Sales 2.48, EV/EBITDA 13.60 |
 | Growth expectations | Earnings growth 138.90%, EPS q/q 140.10% | Analyst mean target $51.42 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 14.10% |
+| Institutional ownership | 14.11% |
 | Insider ownership | 0.00% |
 | Short float | 0.28% |
 | Short ratio (days to cover) | 0.7 |
@@ -101,8 +101,8 @@ BP p.l.c., an integrated energy company, engages in the oil and gas business wor
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $46.25 | EV/Sales | 2.39 |
-| Market cap | $119.12B | EV/EBITDA | 13.11 |
+| Price | $46.25 | EV/Sales | 2.48 |
+| Market cap | $119.12B | EV/EBITDA | 13.60 |
 | Beta | -0.20 | Gross margin | 28.30% |
 | RSI(14) | 60.8 | Operating margin | 13.15% |
 | ATR(14) | 1.10 | Profit margin | 2.55% |
@@ -110,7 +110,7 @@ BP p.l.c., an integrated energy company, engages in the oil and gas business wor
 | SMA50 dist | +5.28% | ROE | 8.87% |
 | SMA200 dist | +12.30% | Revenue (ttm) | $215.47B |
 | 52W high | $46.96 | Revenue growth y/y | 48.20% |
-| 52W low | $31.17 | Inst. ownership | 14.10% |
+| 52W low | $31.17 | Inst. ownership | 14.11% |
 | P/E (ttm) | 22.56 | Insider ownership | 0.00% |
 | Forward P/E | 8.67 | Short float | 0.28% |
 | PEG (trailing) | 0.06 | Avg volume | 8,777,607 |

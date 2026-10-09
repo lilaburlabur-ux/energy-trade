@@ -18,7 +18,7 @@ Signed file: `XOM.research.09.10.2026`
 | Technical momentum | Moderate | 1Y +52.46%; price +13.43% vs SMA200. |
 | Fresh setup quality | Watch | -0.22% from 52w high and near SMA20 — check for a tight base. |
 | Fundamental quality | Mixed | Profit margin 9.07%, revenue growth 44.10%. |
-| Value attractiveness | Reasonable | Forward P/E 14.83, EV/Sales 1.98. |
+| Value attractiveness | Reasonable | Forward P/E 14.83, EV/Sales 2.03. |
 | Risk level | Moderate | Beta 0.21, ATR 2.1% of price, short float 1.08%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -59,13 +59,13 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 | Revenue (ttm) | $361.06B | Revenue growth 44.10% y/y |
 | Profitability | Gross 29.77%, operating 15.86%, net 9.07% | ROA 5.52%, ROE 12.58% |
 | Balance sheet | Cash $10.59B, debt $42.37B | Current ratio 1.14, debt/equity 15.92 |
-| Valuation | P/E 21.74, forward P/E 14.83, P/S 1.92, P/B 2.68 | EV/Sales 1.98, EV/EBITDA 10.50 |
+| Valuation | P/E 21.74, forward P/E 14.83, P/S 1.92, P/B 2.68 | EV/Sales 2.03, EV/EBITDA 10.77 |
 | Growth expectations | Earnings growth 112.80%, EPS q/q 105.10% | Analyst mean target $173.64 (22 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 67.17% |
+| Institutional ownership | 67.16% |
 | Insider ownership | 0.08% |
 | Short float | 1.08% |
 | Short ratio (days to cover) | 2.8 |
@@ -101,8 +101,8 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $168.94 | EV/Sales | 1.98 |
-| Market cap | $694.67B | EV/EBITDA | 10.50 |
+| Price | $168.94 | EV/Sales | 2.03 |
+| Market cap | $694.67B | EV/EBITDA | 10.77 |
 | Beta | 0.21 | Gross margin | 29.77% |
 | RSI(14) | 64.3 | Operating margin | 15.86% |
 | ATR(14) | 3.51 | Profit margin | 9.07% |
@@ -110,7 +110,7 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 | SMA50 dist | +4.71% | ROE | 12.58% |
 | SMA200 dist | +13.43% | Revenue (ttm) | $361.06B |
 | 52W high | $169.32 | Revenue growth y/y | 44.10% |
-| 52W low | $107.52 | Inst. ownership | 67.17% |
+| 52W low | $107.52 | Inst. ownership | 67.16% |
 | P/E (ttm) | 21.74 | Insider ownership | 0.08% |
 | Forward P/E | 14.83 | Short float | 1.08% |
 | PEG (trailing) | 1.38 | Avg volume | 13,964,043 |

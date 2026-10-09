@@ -18,7 +18,7 @@ Signed file: `OKE.research.09.10.2026`
 | Technical momentum | Moderate | 1Y +30.80%; price +4.60% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -7.91% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 9.29%, revenue growth 52.80%. |
-| Value attractiveness | Reasonable | Forward P/E 14.39, EV/Sales 2.25. |
+| Value attractiveness | Reasonable | Forward P/E 14.39, EV/Sales 2.28. |
 | Risk level | Moderate | Beta 0.80, ATR 2.7% of price, short float 4.88%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -59,13 +59,13 @@ ONEOK, Inc. operates as a midstream service provider of gathering, processing, f
 | Revenue (ttm) | $39.37B | Revenue growth 52.80% y/y |
 | Profitability | Gross 27.21%, operating 13.25%, net 9.29% | ROA 5.77%, ROE 16.28% |
 | Balance sheet | Cash $161.00M, debt $33.02B | Current ratio 0.74, debt/equity 143.07 |
-| Valuation | P/E 15.51, forward P/E 14.39, P/S 1.44, P/B 2.47 | EV/Sales 2.25, EV/EBITDA 11.54 |
+| Valuation | P/E 15.51, forward P/E 14.39, P/S 1.44, P/B 2.47 | EV/Sales 2.28, EV/EBITDA 11.72 |
 | Growth expectations | Earnings growth 14.20%, EPS q/q 14.90% | Analyst mean target $101.20 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 84.83% |
+| Institutional ownership | 84.68% |
 | Insider ownership | 0.15% |
 | Short float | 4.88% |
 | Short ratio (days to cover) | 8.0 |
@@ -101,8 +101,8 @@ ONEOK, Inc. operates as a midstream service provider of gathering, processing, f
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $89.80 | EV/Sales | 2.25 |
-| Market cap | $56.61B | EV/EBITDA | 11.54 |
+| Price | $89.80 | EV/Sales | 2.28 |
+| Market cap | $56.61B | EV/EBITDA | 11.72 |
 | Beta | 0.80 | Gross margin | 27.21% |
 | RSI(14) | 47.4 | Operating margin | 13.25% |
 | ATR(14) | 2.40 | Profit margin | 9.29% |
@@ -110,7 +110,7 @@ ONEOK, Inc. operates as a midstream service provider of gathering, processing, f
 | SMA50 dist | -2.48% | ROE | 16.28% |
 | SMA200 dist | +4.60% | Revenue (ttm) | $39.37B |
 | 52W high | $97.51 | Revenue growth y/y | 52.80% |
-| 52W low | $61.95 | Inst. ownership | 84.83% |
+| 52W low | $61.95 | Inst. ownership | 84.68% |
 | P/E (ttm) | 15.51 | Insider ownership | 0.15% |
 | Forward P/E | 14.39 | Short float | 4.88% |
 | PEG (trailing) | 1.71 | Avg volume | 3,672,551 |

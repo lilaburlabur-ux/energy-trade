@@ -18,7 +18,7 @@ Signed file: `EQNR.research.09.10.2026`
 | Technical momentum | High | 1Y +83.28%; price +21.53% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -5.99% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 7.97%, revenue growth 37.40%. |
-| Value attractiveness | Reasonable | Forward P/E 9.04, EV/Sales 1.86. |
+| Value attractiveness | Reasonable | Forward P/E 9.04, EV/Sales 1.91. |
 | Risk level | Moderate | Beta -0.66, ATR 2.7% of price, short float 2.39%. |
 
 **Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -59,7 +59,7 @@ Equinor ASA operates as an energy company in Norway and internationally. It oper
 | Revenue (ttm) | $113.65B | Revenue growth 37.40% y/y |
 | Profitability | Gross 40.13%, operating 36.11%, net 7.97% | ROA 14.52%, ROE 21.27% |
 | Balance sheet | Cash $23.73B, debt $32.42B | Current ratio 1.18, debt/equity 75.16 |
-| Valuation | P/E 11.75, forward P/E 9.04, P/S 0.90, P/B 4.86 | EV/Sales 1.86, EV/EBITDA 5.04 |
+| Valuation | P/E 11.75, forward P/E 9.04, P/S 0.90, P/B 4.86 | EV/Sales 1.91, EV/EBITDA 5.19 |
 | Growth expectations | Earnings growth 298.00%, EPS q/q 269.20% | Analyst mean target $38.83 (7 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -101,8 +101,8 @@ Equinor ASA operates as an energy company in Norway and internationally. It oper
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $43.01 | EV/Sales | 1.86 |
-| Market cap | $101.90B | EV/EBITDA | 5.04 |
+| Price | $43.01 | EV/Sales | 1.91 |
+| Market cap | $101.90B | EV/EBITDA | 5.19 |
 | Beta | -0.66 | Gross margin | 40.13% |
 | RSI(14) | 52.7 | Operating margin | 36.11% |
 | ATR(14) | 1.16 | Profit margin | 7.97% |

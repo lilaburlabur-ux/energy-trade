@@ -59,13 +59,13 @@ Weatherford International plc, an energy services company, provides equipment an
 | Revenue (ttm) | $4.78B | Revenue growth -8.20% y/y |
 | Profitability | Gross 30.51%, operating 10.50%, net 7.66% | ROA 7.90%, ROE 22.79% |
 | Balance sheet | Cash $1.10B, debt $1.62B | Current ratio 2.34, debt/equity 90.67 |
-| Valuation | P/E 15.37, forward P/E 11.01, P/S 1.17, P/B 3.13 | EV/Sales 1.26, EV/EBITDA 6.46 |
+| Valuation | P/E 15.37, forward P/E 11.01, P/S 1.17, P/B 3.13 | EV/Sales 1.26, EV/EBITDA 6.50 |
 | Growth expectations | Earnings growth -71.00%, EPS q/q -71.30% | Analyst mean target $117.08 (12 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 106.63% |
+| Institutional ownership | 106.62% |
 | Insider ownership | 2.12% |
 | Short float | 6.59% |
 | Short ratio (days to cover) | 4.3 |
@@ -104,7 +104,7 @@ Weatherford International plc, an energy services company, provides equipment an
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $77.92 | EV/Sales | 1.26 |
-| Market cap | $5.57B | EV/EBITDA | 6.46 |
+| Market cap | $5.57B | EV/EBITDA | 6.50 |
 | Beta | 1.05 | Gross margin | 30.51% |
 | RSI(14) | 37.8 | Operating margin | 10.50% |
 | ATR(14) | 3.08 | Profit margin | 7.66% |
@@ -112,7 +112,7 @@ Weatherford International plc, an energy services company, provides equipment an
 | SMA50 dist | -11.09% | ROE | 22.79% |
 | SMA200 dist | -16.02% | Revenue (ttm) | $4.78B |
 | 52W high | $111.07 | Revenue growth y/y | -8.20% |
-| 52W low | $60.73 | Inst. ownership | 106.63% |
+| 52W low | $60.73 | Inst. ownership | 106.62% |
 | P/E (ttm) | 15.37 | Insider ownership | 2.12% |
 | Forward P/E | 11.01 | Short float | 6.59% |
 | PEG (trailing) | 1.29 | Avg volume | 1,073,926 |
