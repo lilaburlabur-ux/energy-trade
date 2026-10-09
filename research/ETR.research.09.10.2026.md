@@ -18,7 +18,7 @@ Signed file: `ETR.research.09.10.2026`
 | Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
 | Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 13.33%, revenue growth 5.90%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 20.08, EV/Sales 5.85. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 20.08, EV/Sales 5.86. |
 | Risk level | Moderate | Beta 0.45, ATR nan% of price, short float 3.98%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: fair-to-demanding, risk: moderate.
@@ -59,13 +59,13 @@ Entergy Corporation, together with its subsidiaries, engages in the production a
 | Revenue (ttm) | $13.48B | Revenue growth 5.90% y/y |
 | Profitability | Gross 47.00%, operating 24.46%, net 13.33% | ROA 2.68%, ROE 10.25% |
 | Balance sheet | Cash $3.86B, debt $34.63B | Current ratio 0.91, debt/equity 186.77 |
-| Valuation | P/E 26.21, forward P/E 20.08, P/S 3.63, P/B 2.62 | EV/Sales 5.85, EV/EBITDA 14.25 |
+| Valuation | P/E 26.21, forward P/E 20.08, P/S 3.63, P/B 2.62 | EV/Sales 5.86, EV/EBITDA 14.27 |
 | Growth expectations | Earnings growth -1.90%, EPS q/q 3.10% | Analyst mean target $122.28 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 97.93% |
+| Institutional ownership | 97.94% |
 | Insider ownership | 0.22% |
 | Short float | 3.98% |
 | Short ratio (days to cover) | 7.1 |
@@ -86,7 +86,7 @@ Entergy Corporation, together with its subsidiaries, engages in the production a
 | Morgan Stanley | 9,808,504 | 2.10% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 20.08, EV/Sales 5.85. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 20.08, EV/Sales 5.86. Multiple compression is the main downside if growth disappoints.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -101,8 +101,8 @@ Entergy Corporation, together with its subsidiaries, engages in the production a
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 5.85 |
-| Market cap | $48.97B | EV/EBITDA | 14.25 |
+| Price | $nan | EV/Sales | 5.86 |
+| Market cap | $48.97B | EV/EBITDA | 14.27 |
 | Beta | 0.45 | Gross margin | 47.00% |
 | RSI(14) | 50.8 | Operating margin | 24.46% |
 | ATR(14) | 1.95 | Profit margin | 13.33% |
@@ -110,7 +110,7 @@ Entergy Corporation, together with its subsidiaries, engages in the production a
 | SMA50 dist | +nan% | ROE | 10.25% |
 | SMA200 dist | +nan% | Revenue (ttm) | $13.48B |
 | 52W high | $116.66 | Revenue growth y/y | 5.90% |
-| 52W low | $89.57 | Inst. ownership | 97.93% |
+| 52W low | $89.57 | Inst. ownership | 97.94% |
 | P/E (ttm) | 26.21 | Insider ownership | 0.22% |
 | Forward P/E | 20.08 | Short float | 3.98% |
 | PEG (trailing) | 1.52 | Avg volume | 2,676,406 |

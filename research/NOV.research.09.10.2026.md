@@ -18,7 +18,7 @@ Signed file: `NOV.research.09.10.2026`
 | Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
 | Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 1.10%, revenue growth -2.50%. |
-| Value attractiveness | Reasonable | Forward P/E 14.81, EV/Sales 0.93. |
+| Value attractiveness | Reasonable | Forward P/E 14.81, EV/Sales 0.91. |
 | Risk level | High | Beta 0.98, ATR nan% of price, short float 14.14%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: high.
@@ -59,13 +59,13 @@ NOV Inc. designs, constructs, manufactures, and sells systems, components, and p
 | Revenue (ttm) | $8.64B | Revenue growth -2.50% y/y |
 | Profitability | Gross 21.65%, operating 7.17%, net 1.10% | ROA 3.45%, ROE 1.54% |
 | Balance sheet | Cash $1.16B, debt $2.33B | Current ratio 2.42, debt/equity 37.15 |
-| Valuation | P/E 70.33, forward P/E 14.81, P/S 0.78, P/B 1.09 | EV/Sales 0.93, EV/EBITDA 8.10 |
+| Valuation | P/E 70.33, forward P/E 14.81, P/S 0.78, P/B 1.09 | EV/Sales 0.91, EV/EBITDA 7.97 |
 | Growth expectations | Earnings growth 7.60%, EPS q/q 3.70% | Analyst mean target $22.13 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 108.45% |
+| Institutional ownership | 108.44% |
 | Insider ownership | 0.73% |
 | Short float | 14.14% |
 | Short ratio (days to cover) | 8.9 |
@@ -102,8 +102,8 @@ NOV Inc. designs, constructs, manufactures, and sells systems, components, and p
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 0.93 |
-| Market cap | $6.77B | EV/EBITDA | 8.10 |
+| Price | $nan | EV/Sales | 0.91 |
+| Market cap | $6.77B | EV/EBITDA | 7.97 |
 | Beta | 0.98 | Gross margin | 21.65% |
 | RSI(14) | 35.1 | Operating margin | 7.17% |
 | ATR(14) | 0.62 | Profit margin | 1.10% |
@@ -111,7 +111,7 @@ NOV Inc. designs, constructs, manufactures, and sells systems, components, and p
 | SMA50 dist | +nan% | ROE | 1.54% |
 | SMA200 dist | +nan% | Revenue (ttm) | $8.64B |
 | 52W high | $21.62 | Revenue growth y/y | -2.50% |
-| 52W low | $12.04 | Inst. ownership | 108.45% |
+| 52W low | $12.04 | Inst. ownership | 108.44% |
 | P/E (ttm) | 70.33 | Insider ownership | 0.73% |
 | Forward P/E | 14.81 | Short float | 14.14% |
 | PEG (trailing) | 0.82 | Avg volume | 3,337,657 |

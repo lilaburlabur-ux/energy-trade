@@ -18,7 +18,7 @@ Signed file: `SMR.research.09.10.2026`
 | Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
 | Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 0.00%, revenue growth -99.10%. |
-| Value attractiveness | Reasonable | Forward P/E -11.09, EV/Sales 176.89. |
+| Value attractiveness | Reasonable | Forward P/E -11.09, EV/Sales 190.33. |
 | Risk level | High | Beta 2.37, ATR nan% of price, short float 20.64%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: high.
@@ -59,13 +59,13 @@ NuScale Power Corporation provides small modular reactor technology solutions. I
 | Revenue (ttm) | $10.69M | Revenue growth -99.10% y/y |
 | Profitability | Gross 23.54%, operating -85337.33%, net 0.00% | ROA -10.60%, ROE -55.18% |
 | Balance sheet | Cash $1.07B, debt $6.69M | Current ratio 37.88, debt/equity 0.33 |
-| Valuation | P/E —, forward P/E -11.09, P/S 281.02, P/B 1.46 | EV/Sales 176.89, EV/EBITDA -8.44 |
+| Valuation | P/E —, forward P/E -11.09, P/S 281.02, P/B 1.46 | EV/Sales 190.33, EV/EBITDA -9.08 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $11.97 (15 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 58.82% |
+| Institutional ownership | 58.83% |
 | Insider ownership | 1.70% |
 | Short float | 20.64% |
 | Short ratio (days to cover) | 2.1 |
@@ -102,8 +102,8 @@ NuScale Power Corporation provides small modular reactor technology solutions. I
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 176.89 |
-| Market cap | $3.00B | EV/EBITDA | -8.44 |
+| Price | $nan | EV/Sales | 190.33 |
+| Market cap | $3.00B | EV/EBITDA | -9.08 |
 | Beta | 2.37 | Gross margin | 23.54% |
 | RSI(14) | 40.0 | Operating margin | -85337.33% |
 | ATR(14) | 0.57 | Profit margin | 0.00% |
@@ -111,7 +111,7 @@ NuScale Power Corporation provides small modular reactor technology solutions. I
 | SMA50 dist | +nan% | ROE | -55.18% |
 | SMA200 dist | +nan% | Revenue (ttm) | $10.69M |
 | 52W high | $53.43 | Revenue growth y/y | -99.10% |
-| 52W low | $7.59 | Inst. ownership | 58.82% |
+| 52W low | $7.59 | Inst. ownership | 58.83% |
 | P/E (ttm) | — | Insider ownership | 1.70% |
 | Forward P/E | -11.09 | Short float | 20.64% |
 | PEG (trailing) | — | Avg volume | 33,793,200 |

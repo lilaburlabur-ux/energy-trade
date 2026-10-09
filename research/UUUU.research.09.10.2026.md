@@ -18,7 +18,7 @@ Signed file: `UUUU.research.09.10.2026`
 | Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
 | Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Weak | Negative profit margin (-77.30%). |
-| Value attractiveness | Fair-to-demanding | Forward P/E 20.49, EV/Sales 21.09. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 20.49, EV/Sales 21.85. |
 | Risk level | High | Beta 1.87, ATR nan% of price, short float 21.23%. |
 
 **Bottom line:** Moderate technical momentum, weak fundamentals, value: fair-to-demanding, risk: high.
@@ -59,7 +59,7 @@ Energy Fuels Inc., together with its subsidiaries, engages in the exploration, r
 | Revenue (ttm) | $105.76M | Revenue growth 496.10% y/y |
 | Profitability | Gross 40.85%, operating -79.03%, net -77.30% | ROA -4.65%, ROE -11.45% |
 | Balance sheet | Cash $936.75M, debt $678.34M | Current ratio 27.90, debt/equity 85.13 |
-| Valuation | P/E —, forward P/E 20.49, P/S 24.89, P/B 3.13 | EV/Sales 21.09, EV/EBITDA -31.12 |
+| Valuation | P/E —, forward P/E 20.49, P/S 24.89, P/B 3.13 | EV/Sales 21.85, EV/EBITDA -32.24 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $24.15 (5 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -86,7 +86,7 @@ Energy Fuels Inc., together with its subsidiaries, engages in the exploration, r
 | American Century Companies Inc | 4,226,355 | 1.60% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 20.49, EV/Sales 21.09. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 20.49, EV/Sales 21.85. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 1.87, ATR nan% of price, short float 21.23%. Size positions accordingly.
 - **Short interest risk:** short float 21.23% can fuel squeezes both ways around news.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
@@ -104,8 +104,8 @@ Energy Fuels Inc., together with its subsidiaries, engages in the exploration, r
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 21.09 |
-| Market cap | $2.63B | EV/EBITDA | -31.12 |
+| Price | $nan | EV/Sales | 21.85 |
+| Market cap | $2.63B | EV/EBITDA | -32.24 |
 | Beta | 1.87 | Gross margin | 40.85% |
 | RSI(14) | 31.2 | Operating margin | -79.03% |
 | ATR(14) | 0.65 | Profit margin | -77.30% |

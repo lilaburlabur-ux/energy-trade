@@ -5,7 +5,7 @@ Signed file: `PSX.research.09.10.2026`
 | Field | Value |
 |---|---|
 | Current price | $nan (2026-10-09, ~15-min delayed) |
-| Market cap | $112.90B |
+| Market cap | $112.36B |
 | Sector / Industry | Energy / Oil & Gas Refining & Marketing |
 | Main theme | Oil & Gas Refining & Marketing — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -18,7 +18,7 @@ Signed file: `PSX.research.09.10.2026`
 | Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
 | Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 4.66%, revenue growth 53.10%. |
-| Value attractiveness | Reasonable | Forward P/E 10.53, EV/Sales 0.85. |
+| Value attractiveness | Reasonable | Forward P/E 10.55, EV/Sales 0.83. |
 | Risk level | Moderate | Beta 0.70, ATR nan% of price, short float 1.96%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -59,8 +59,8 @@ Phillips 66 operates as an integrated downstream energy provider in the United S
 | Revenue (ttm) | $152.17B | Revenue growth 53.10% y/y |
 | Profitability | Gross 13.10%, operating 8.53%, net 4.66% | ROA 6.04%, ROE 23.45% |
 | Balance sheet | Cash $4.10B, debt $20.57B | Current ratio 1.32, debt/equity 62.88 |
-| Valuation | P/E 16.09, forward P/E 10.53, P/S 0.74, P/B 3.57 | EV/Sales 0.85, EV/EBITDA 13.10 |
-| Growth expectations | Earnings growth 344.90%, EPS q/q 338.70% | Analyst mean target $257.68 (19 analysts) |
+| Valuation | P/E 16.09, forward P/E 10.55, P/S 0.74, P/B 3.57 | EV/Sales 0.83, EV/EBITDA 12.70 |
+| Growth expectations | Earnings growth 344.90%, EPS q/q 338.70% | Analyst mean target $257.16 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
@@ -100,8 +100,8 @@ Phillips 66 operates as an integrated downstream energy provider in the United S
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 0.85 |
-| Market cap | $112.90B | EV/EBITDA | 13.10 |
+| Price | $nan | EV/Sales | 0.83 |
+| Market cap | $112.36B | EV/EBITDA | 12.70 |
 | Beta | 0.70 | Gross margin | 13.10% |
 | RSI(14) | 68.5 | Operating margin | 8.53% |
 | ATR(14) | 8.38 | Profit margin | 4.66% |
@@ -111,7 +111,7 @@ Phillips 66 operates as an integrated downstream energy provider in the United S
 | 52W high | $274.21 | Revenue growth y/y | 53.10% |
 | 52W low | $123.11 | Inst. ownership | 80.53% |
 | P/E (ttm) | 16.09 | Insider ownership | 0.21% |
-| Forward P/E | 10.53 | Short float | 1.96% |
+| Forward P/E | 10.55 | Short float | 1.96% |
 | PEG (trailing) | 0.82 | Avg volume | 2,844,148 |
 | P/S | 0.74 | Employees | 12,600 |
 | P/B | 3.57 | Analyst rec (1=buy..5=sell) | 2.1 |

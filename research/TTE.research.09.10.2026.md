@@ -18,7 +18,7 @@ Signed file: `TTE.research.09.10.2026`
 | Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
 | Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 9.08%, revenue growth 27.80%. |
-| Value attractiveness | Reasonable | Forward P/E 8.00, EV/Sales 1.15. |
+| Value attractiveness | Reasonable | Forward P/E 8.00, EV/Sales 1.13. |
 | Risk level | Moderate | Beta 0.09, ATR nan% of price, short float 0.22%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -59,13 +59,13 @@ TotalEnergies SE, an integrated energy company, produces and markets oil and bio
 | Revenue (ttm) | $196.38B | Revenue growth 27.80% y/y |
 | Profitability | Gross 37.68%, operating 12.79%, net 9.08% | ROA 5.51%, ROE 14.48% |
 | Balance sheet | Cash $31.72B, debt $62.92B | Current ratio 1.06, debt/equity 48.05 |
-| Valuation | P/E 10.77, forward P/E 8.00, P/S 0.97, P/B 1.49 | EV/Sales 1.15, EV/EBITDA 5.68 |
+| Valuation | P/E 10.77, forward P/E 8.00, P/S 0.97, P/B 1.49 | EV/Sales 1.13, EV/EBITDA 5.58 |
 | Growth expectations | Earnings growth 106.00%, EPS q/q 102.40% | Analyst mean target $97.90 (10 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 54.30% |
+| Institutional ownership | 54.29% |
 | Insider ownership | 8.86% |
 | Short float | 0.22% |
 | Short ratio (days to cover) | 3.0 |
@@ -100,8 +100,8 @@ TotalEnergies SE, an integrated energy company, produces and markets oil and bio
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 1.15 |
-| Market cap | $189.89B | EV/EBITDA | 5.68 |
+| Price | $nan | EV/Sales | 1.13 |
+| Market cap | $189.89B | EV/EBITDA | 5.58 |
 | Beta | 0.09 | Gross margin | 37.68% |
 | RSI(14) | 36.4 | Operating margin | 12.79% |
 | ATR(14) | 1.64 | Profit margin | 9.08% |
@@ -109,12 +109,12 @@ TotalEnergies SE, an integrated energy company, produces and markets oil and bio
 | SMA50 dist | +nan% | ROE | 14.48% |
 | SMA200 dist | +nan% | Revenue (ttm) | $196.38B |
 | 52W high | $92.51 | Revenue growth y/y | 27.80% |
-| 52W low | $55.27 | Inst. ownership | 54.30% |
+| 52W low | $55.27 | Inst. ownership | 54.29% |
 | P/E (ttm) | 10.77 | Insider ownership | 8.86% |
 | Forward P/E | 8.00 | Short float | 0.22% |
-| PEG (trailing) | — | Avg volume | 1,666,060 |
+| PEG (trailing) | 0.71 | Avg volume | 1,666,060 |
 | P/S | 0.97 | Employees | 94,847 |
-| P/B | 1.49 | Analyst rec (1=buy..5=sell) | 2.2 |
+| P/B | 1.49 | Analyst rec (1=buy..5=sell) | 1.9 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

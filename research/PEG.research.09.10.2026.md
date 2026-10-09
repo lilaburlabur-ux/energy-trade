@@ -5,7 +5,7 @@ Signed file: `PEG.research.09.10.2026`
 | Field | Value |
 |---|---|
 | Current price | $nan (2026-10-09, ~15-min delayed) |
-| Market cap | $35.81B |
+| Market cap | $35.80B |
 | Sector / Industry | Utilities / Utilities - Regulated Electric |
 | Main theme | Utilities - Regulated Electric — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -18,7 +18,7 @@ Signed file: `PEG.research.09.10.2026`
 | Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
 | Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 16.04%, revenue growth -8.90%. |
-| Value attractiveness | Reasonable | Forward P/E 15.38, EV/Sales 4.81. |
+| Value attractiveness | Reasonable | Forward P/E 15.38, EV/Sales 4.80. |
 | Risk level | Moderate | Beta 0.52, ATR nan% of price, short float 2.50%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -59,7 +59,7 @@ Public Service Enterprise Group Incorporated, through its subsidiaries, operates
 | Revenue (ttm) | $12.54B | Revenue growth -8.90% y/y |
 | Profitability | Gross 33.33%, operating 18.87%, net 16.04% | ROA 3.24%, ROE 11.83% |
 | Balance sheet | Cash $192.00M, debt $24.68B | Current ratio 0.88, debt/equity 142.41 |
-| Valuation | P/E 17.87, forward P/E 15.38, P/S 2.85, P/B 2.06 | EV/Sales 4.81, EV/EBITDA 13.51 |
+| Valuation | P/E 17.87, forward P/E 15.38, P/S 2.85, P/B 2.06 | EV/Sales 4.80, EV/EBITDA 13.50 |
 | Growth expectations | Earnings growth -42.70%, EPS q/q -42.90% | Analyst mean target $84.47 (18 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -100,8 +100,8 @@ Public Service Enterprise Group Incorporated, through its subsidiaries, operates
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 4.81 |
-| Market cap | $35.81B | EV/EBITDA | 13.51 |
+| Price | $nan | EV/Sales | 4.80 |
+| Market cap | $35.80B | EV/EBITDA | 13.50 |
 | Beta | 0.52 | Gross margin | 33.33% |
 | RSI(14) | 58.3 | Operating margin | 18.87% |
 | ATR(14) | 1.30 | Profit margin | 16.04% |

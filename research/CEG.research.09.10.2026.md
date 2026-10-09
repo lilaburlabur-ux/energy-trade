@@ -18,7 +18,7 @@ Signed file: `CEG.research.09.10.2026`
 | Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
 | Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 11.08%, revenue growth 23.00%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 21.40, EV/Sales 4.01. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 21.40, EV/Sales 4.17. |
 | Risk level | Moderate | Beta 1.13, ATR nan% of price, short float 3.70%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: fair-to-demanding, risk: moderate.
@@ -59,7 +59,7 @@ Constellation Energy Corporation produces and sells energy products and services
 | Revenue (ttm) | $31.27B | Revenue growth 23.00% y/y |
 | Profitability | Gross 22.11%, operating 8.66%, net 11.08% | ROA 3.89%, ROE 15.06% |
 | Balance sheet | Cash $697.00M, debt $24.70B | Current ratio 1.46, debt/equity 76.42 |
-| Valuation | P/E 27.87, forward P/E 21.40, P/S 3.23, P/B 3.17 | EV/Sales 4.01, EV/EBITDA 15.76 |
+| Valuation | P/E 27.87, forward P/E 21.40, P/S 3.23, P/B 3.17 | EV/Sales 4.17, EV/EBITDA 16.41 |
 | Growth expectations | Earnings growth -46.80%, EPS q/q -38.90% | Analyst mean target $341.53 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -86,7 +86,7 @@ Constellation Energy Corporation produces and sells energy products and services
 | FMR, LLC | 6,538,601 | 1.85% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 21.40, EV/Sales 4.01. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 21.40, EV/Sales 4.17. Multiple compression is the main downside if growth disappoints.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -101,8 +101,8 @@ Constellation Energy Corporation produces and sells energy products and services
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 4.01 |
-| Market cap | $101.00B | EV/EBITDA | 15.76 |
+| Price | $nan | EV/Sales | 4.17 |
+| Market cap | $101.00B | EV/EBITDA | 16.41 |
 | Beta | 1.13 | Gross margin | 22.11% |
 | RSI(14) | 66.6 | Operating margin | 8.66% |
 | ATR(14) | 13.12 | Profit margin | 11.08% |

@@ -5,7 +5,7 @@ Signed file: `ARRY.research.09.10.2026`
 | Field | Value |
 |---|---|
 | Current price | $nan (2026-10-09, ~15-min delayed) |
-| Market cap | $576.85M |
+| Market cap | $577.53M |
 | Sector / Industry | Technology / Solar |
 | Main theme | Solar — see catalysts below |
 | Current stance | Moderate technical momentum, weak fundamentals, value: reasonable, risk: high. |
@@ -18,7 +18,7 @@ Signed file: `ARRY.research.09.10.2026`
 | Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
 | Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Weak | Negative profit margin (-7.25%). |
-| Value attractiveness | Reasonable | Forward P/E 4.06, EV/Sales 1.28. |
+| Value attractiveness | Reasonable | Forward P/E 4.06, EV/Sales 1.29. |
 | Risk level | High | Beta 1.81, ATR nan% of price, short float 29.11%. |
 
 **Bottom line:** Moderate technical momentum, weak fundamentals, value: reasonable, risk: high.
@@ -59,8 +59,8 @@ Array Technologies, Inc. engages in the manufacture and sale of solar tracking t
 | Revenue (ttm) | $1.19B | Revenue growth -5.60% y/y |
 | Profitability | Gross 26.76%, operating 10.88%, net -7.25% | ROA 3.33%, ROE -25.98% |
 | Balance sheet | Cash $307.30M, debt $752.89M | Current ratio 2.20, debt/equity 254.27 |
-| Valuation | P/E —, forward P/E 4.06, P/S 0.49, P/B -2.86 | EV/Sales 1.28, EV/EBITDA 12.75 |
-| Growth expectations | Earnings growth -73.20%, EPS q/q -43.70% | Analyst mean target $8.11 (22 analysts) |
+| Valuation | P/E —, forward P/E 4.06, P/S 0.49, P/B -2.86 | EV/Sales 1.29, EV/EBITDA 12.84 |
+| Growth expectations | Earnings growth -73.20%, EPS q/q -43.70% | Analyst mean target $8.20 (22 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
@@ -103,8 +103,8 @@ Array Technologies, Inc. engages in the manufacture and sale of solar tracking t
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 1.28 |
-| Market cap | $576.85M | EV/EBITDA | 12.75 |
+| Price | $nan | EV/Sales | 1.29 |
+| Market cap | $577.53M | EV/EBITDA | 12.84 |
 | Beta | 1.81 | Gross margin | 26.76% |
 | RSI(14) | 38.5 | Operating margin | 10.88% |
 | ATR(14) | 0.23 | Profit margin | -7.25% |

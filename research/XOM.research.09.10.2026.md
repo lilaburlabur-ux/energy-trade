@@ -18,7 +18,7 @@ Signed file: `XOM.research.09.10.2026`
 | Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
 | Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 9.07%, revenue growth 44.10%. |
-| Value attractiveness | Reasonable | Forward P/E 14.79, EV/Sales 2.03. |
+| Value attractiveness | Reasonable | Forward P/E 14.79, EV/Sales 1.98. |
 | Risk level | Moderate | Beta 0.21, ATR nan% of price, short float 1.08%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -59,13 +59,13 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 | Revenue (ttm) | $361.06B | Revenue growth 44.10% y/y |
 | Profitability | Gross 29.77%, operating 15.86%, net 9.07% | ROA 5.52%, ROE 12.58% |
 | Balance sheet | Cash $10.59B, debt $42.37B | Current ratio 1.14, debt/equity 15.92 |
-| Valuation | P/E 21.69, forward P/E 14.79, P/S 1.92, P/B 2.67 | EV/Sales 2.03, EV/EBITDA 10.77 |
+| Valuation | P/E 21.69, forward P/E 14.79, P/S 1.92, P/B 2.67 | EV/Sales 1.98, EV/EBITDA 10.50 |
 | Growth expectations | Earnings growth 112.80%, EPS q/q 105.10% | Analyst mean target $173.64 (22 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 67.17% |
+| Institutional ownership | 67.18% |
 | Insider ownership | 0.08% |
 | Short float | 1.08% |
 | Short ratio (days to cover) | 2.8 |
@@ -100,8 +100,8 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 2.03 |
-| Market cap | $692.86B | EV/EBITDA | 10.77 |
+| Price | $nan | EV/Sales | 1.98 |
+| Market cap | $692.86B | EV/EBITDA | 10.50 |
 | Beta | 0.21 | Gross margin | 29.77% |
 | RSI(14) | 54.9 | Operating margin | 15.86% |
 | ATR(14) | 3.47 | Profit margin | 9.07% |
@@ -109,7 +109,7 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 | SMA50 dist | +nan% | ROE | 12.58% |
 | SMA200 dist | +nan% | Revenue (ttm) | $361.06B |
 | 52W high | $169.32 | Revenue growth y/y | 44.10% |
-| 52W low | $107.52 | Inst. ownership | 67.17% |
+| 52W low | $107.52 | Inst. ownership | 67.18% |
 | P/E (ttm) | 21.69 | Insider ownership | 0.08% |
 | Forward P/E | 14.79 | Short float | 1.08% |
 | PEG (trailing) | 1.38 | Avg volume | 13,976,889 |
