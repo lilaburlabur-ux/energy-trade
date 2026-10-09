@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-10-09T10:02:47+00:00",
-  "as_of_local": "2026-10-09 10:02:47 UTC",
+  "as_of_utc": "2026-10-09T10:07:51+00:00",
+  "as_of_local": "2026-10-09 10:07:51 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AR"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -475,6 +473,15 @@
       "headlines": []
     },
     {
+      "symbol": "AR",
+      "name": "Antero Resources",
+      "price": 36.06,
+      "previous_close": 35.57,
+      "change_pct": 1.38,
+      "market_cap": 11086250762.203217,
+      "headlines": []
+    },
+    {
       "symbol": "BEP",
       "name": "Brookfield Renewable",
       "price": 29.29,
@@ -816,13 +823,13 @@
     },
     {
       "label": "WTI",
-      "price": 90.54,
-      "change_pct": -1.04
+      "price": 90.52,
+      "change_pct": -1.06
     },
     {
       "label": "Brent",
-      "price": 102.88,
-      "change_pct": -1.34
+      "price": 102.87,
+      "change_pct": -1.35
     },
     {
       "label": "NatGas",
