@@ -4,24 +4,24 @@ Signed file: `BKR.research.09.10.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-10-09, ~15-min delayed) |
-| Market cap | $55.89B |
+| Current price | $56.70 (2026-10-09, ~15-min delayed) |
+| Market cap | $56.28B |
 | Sector / Industry | Energy / Oil & Gas Equipment & Services |
 | Main theme | Oil & Gas Equipment & Services — see catalysts below |
-| Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
+| Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-10-09.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-4.47%) with negative half-year (-9.12%). |
+| Fresh setup quality | Moderate / wait | -18.04% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 11.17%, revenue growth -2.40%. |
-| Value attractiveness | Reasonable | Forward P/E 19.05, EV/Sales 1.96. |
-| Risk level | Moderate | Beta 1.03, ATR nan% of price, short float 2.83%. |
+| Value attractiveness | Reasonable | Forward P/E 19.19, EV/Sales 1.96. |
+| Risk level | Moderate | Beta 1.03, ATR 2.7% of price, short float 2.83%. |
 
-**Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
+**Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -35,22 +35,22 @@ Baker Hughes Company provides a portfolio of technologies and services to energy
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $69.18 (+nan%); 52w low $43.79 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 37.7 (neutral) |
-| Volatility | ATR(14) 1.67 (~nan% of price); beta 1.03 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $56.70; 52w high $69.18 (-18.04%); 52w low $43.79 (+29.50%) |
+| Trend | -4.47% vs SMA200, -6.06% vs SMA50, -0.03% vs SMA20 |
+| Momentum | RSI(14) 44.5 (neutral) |
+| Volatility | ATR(14) 1.56 (~2.7% of price); beta 1.03 |
+| Setup perspective | -18.04% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | +1.3% |
+| Month | -4.5% |
+| Quarter | -1.3% |
+| Half Y | -9.1% |
+| 1Y | +20.3% |
+| YTD | +21.6% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -59,13 +59,13 @@ Baker Hughes Company provides a portfolio of technologies and services to energy
 | Revenue (ttm) | $27.73B | Revenue growth -2.40% y/y |
 | Profitability | Gross 23.66%, operating 12.83%, net 11.17% | ROA 4.85%, ROE 16.46% |
 | Balance sheet | Cash $17.02B, debt $16.25B | Current ratio 2.10, debt/equity 80.92 |
-| Valuation | P/E 18.10, forward P/E 19.05, P/S 2.02, P/B 2.81 | EV/Sales 1.96, EV/EBITDA 11.24 |
+| Valuation | P/E 18.23, forward P/E 19.19, P/S 2.03, P/B 2.83 | EV/Sales 1.96, EV/EBITDA 11.24 |
 | Growth expectations | Earnings growth -4.20%, EPS q/q -2.90% | Analyst mean target $71.17 (24 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 99.96% |
+| Institutional ownership | 99.95% |
 | Insider ownership | 0.15% |
 | Short float | 2.83% |
 | Short ratio (days to cover) | 3.6 |
@@ -100,21 +100,21 @@ Baker Hughes Company provides a portfolio of technologies and services to energy
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 1.96 |
-| Market cap | $55.89B | EV/EBITDA | 11.24 |
+| Price | $56.70 | EV/Sales | 1.96 |
+| Market cap | $56.28B | EV/EBITDA | 11.24 |
 | Beta | 1.03 | Gross margin | 23.66% |
-| RSI(14) | 37.7 | Operating margin | 12.83% |
-| ATR(14) | 1.67 | Profit margin | 11.17% |
-| SMA20 dist | +nan% | ROA | 4.85% |
-| SMA50 dist | +nan% | ROE | 16.46% |
-| SMA200 dist | +nan% | Revenue (ttm) | $27.73B |
+| RSI(14) | 44.5 | Operating margin | 12.83% |
+| ATR(14) | 1.56 | Profit margin | 11.17% |
+| SMA20 dist | -0.03% | ROA | 4.85% |
+| SMA50 dist | -6.06% | ROE | 16.46% |
+| SMA200 dist | -4.47% | Revenue (ttm) | $27.73B |
 | 52W high | $69.18 | Revenue growth y/y | -2.40% |
-| 52W low | $43.79 | Inst. ownership | 99.96% |
-| P/E (ttm) | 18.10 | Insider ownership | 0.15% |
-| Forward P/E | 19.05 | Short float | 2.83% |
-| PEG (trailing) | 1.62 | Avg volume | 7,801,871 |
-| P/S | 2.02 | Employees | 54,000 |
-| P/B | 2.81 | Analyst rec (1=buy..5=sell) | 1.7 |
+| 52W low | $43.79 | Inst. ownership | 99.95% |
+| P/E (ttm) | 18.23 | Insider ownership | 0.15% |
+| Forward P/E | 19.19 | Short float | 2.83% |
+| PEG (trailing) | 1.62 | Avg volume | 7,772,982 |
+| P/S | 2.03 | Employees | 54,000 |
+| P/B | 2.83 | Analyst rec (1=buy..5=sell) | 1.7 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
@@ -129,7 +129,7 @@ Baker Hughes Company provides a portfolio of technologies and services to energy
 | 2026-07-28 | main | TD Cowen | Buy → Buy |
 
 ## 9. Conclusion
-BKR: Moderate momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+BKR: Low momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

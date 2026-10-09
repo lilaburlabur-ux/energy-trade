@@ -4,24 +4,24 @@ Signed file: `EPD.research.09.10.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-10-09, ~15-min delayed) |
-| Market cap | $79.36B |
+| Current price | $36.08 (2026-10-09, ~15-min delayed) |
+| Market cap | $77.91B |
 | Sector / Industry | Energy / Oil & Gas Midstream |
 | Main theme | Oil & Gas Midstream — see catalysts below |
-| Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
+| Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-10-09.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-0.49%) with negative half-year (-0.55%). |
+| Fresh setup quality | Moderate / wait | -8.33% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 10.79%, revenue growth 60.80%. |
-| Value attractiveness | Reasonable | Forward P/E 11.60, EV/Sales 1.96. |
-| Risk level | Moderate | Beta 0.48, ATR nan% of price, short float 2.40%. |
+| Value attractiveness | Reasonable | Forward P/E 11.39, EV/Sales 1.96. |
+| Risk level | Moderate | Beta 0.48, ATR 1.9% of price, short float 2.40%. |
 
-**Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
+**Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -35,22 +35,22 @@ Enterprise Products Partners L.P. provides midstream energy services to producer
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $39.36 (+nan%); 52w low $28.35 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 44.2 (neutral) |
-| Volatility | ATR(14) 0.66 (~nan% of price); beta 0.48 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $36.08; 52w high $39.36 (-8.33%); 52w low $28.35 (+27.25%) |
+| Trend | -0.49% vs SMA200, -5.09% vs SMA50, -3.13% vs SMA20 |
+| Momentum | RSI(14) 37.4 (neutral) |
+| Volatility | ATR(14) 0.67 (~1.9% of price); beta 0.48 |
+| Setup perspective | -8.33% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -0.3% |
+| Month | -8.3% |
+| Quarter | -4.4% |
+| Half Y | -0.5% |
+| 1Y | +21.3% |
+| YTD | +17.4% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -59,8 +59,8 @@ Enterprise Products Partners L.P. provides midstream energy services to producer
 | Revenue (ttm) | $58.47B | Revenue growth 60.80% y/y |
 | Profitability | Gross 13.33%, operating 11.76%, net 10.79% | ROA 5.92%, ROE 20.85% |
 | Balance sheet | Cash $246.00M, debt $34.21B | Current ratio 0.93, debt/equity 109.97 |
-| Valuation | P/E 12.76, forward P/E 11.60, P/S 1.36, P/B 2.62 | EV/Sales 1.96, EV/EBITDA 11.11 |
-| Growth expectations | Earnings growth 28.50%, EPS q/q 28.20% | Analyst mean target $41.38 (21 analysts) |
+| Valuation | P/E 12.53, forward P/E 11.39, P/S 1.33, P/B 2.58 | EV/Sales 1.96, EV/EBITDA 11.11 |
+| Growth expectations | Earnings growth 28.50%, EPS q/q 28.20% | Analyst mean target $41.33 (21 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
@@ -100,21 +100,21 @@ Enterprise Products Partners L.P. provides midstream energy services to producer
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 1.96 |
-| Market cap | $79.36B | EV/EBITDA | 11.11 |
+| Price | $36.08 | EV/Sales | 1.96 |
+| Market cap | $77.91B | EV/EBITDA | 11.11 |
 | Beta | 0.48 | Gross margin | 13.33% |
-| RSI(14) | 44.2 | Operating margin | 11.76% |
-| ATR(14) | 0.66 | Profit margin | 10.79% |
-| SMA20 dist | +nan% | ROA | 5.92% |
-| SMA50 dist | +nan% | ROE | 20.85% |
-| SMA200 dist | +nan% | Revenue (ttm) | $58.47B |
+| RSI(14) | 37.4 | Operating margin | 11.76% |
+| ATR(14) | 0.67 | Profit margin | 10.79% |
+| SMA20 dist | -3.13% | ROA | 5.92% |
+| SMA50 dist | -5.09% | ROE | 20.85% |
+| SMA200 dist | -0.49% | Revenue (ttm) | $58.47B |
 | 52W high | $39.36 | Revenue growth y/y | 60.80% |
 | 52W low | $28.35 | Inst. ownership | 25.64% |
-| P/E (ttm) | 12.76 | Insider ownership | 33.05% |
-| Forward P/E | 11.60 | Short float | 2.40% |
-| PEG (trailing) | 1.33 | Avg volume | 3,029,020 |
-| P/S | 1.36 | Employees | 0 |
-| P/B | 2.62 | Analyst rec (1=buy..5=sell) | 2.3 |
+| P/E (ttm) | 12.53 | Insider ownership | 33.05% |
+| Forward P/E | 11.39 | Short float | 2.40% |
+| PEG (trailing) | 1.33 | Avg volume | 3,045,570 |
+| P/S | 1.33 | Employees | 0 |
+| P/B | 2.58 | Analyst rec (1=buy..5=sell) | 2.3 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
@@ -129,7 +129,7 @@ Enterprise Products Partners L.P. provides midstream energy services to producer
 | 2026-05-12 | main | Scotiabank | Sector Perform → Sector Perform |
 
 ## 9. Conclusion
-EPD: Moderate momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+EPD: Low momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

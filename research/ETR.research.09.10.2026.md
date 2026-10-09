@@ -4,24 +4,24 @@ Signed file: `ETR.research.09.10.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-10-09, ~15-min delayed) |
-| Market cap | $48.97B |
+| Current price | $102.80 (2026-10-09, ~15-min delayed) |
+| Market cap | $49.12B |
 | Sector / Industry | Utilities / Utilities - Regulated Electric |
 | Main theme | Utilities - Regulated Electric — see catalysts below |
-| Current stance | Moderate technical momentum, mixed fundamentals, value: fair-to-demanding, risk: moderate. |
+| Current stance | Low technical momentum, mixed fundamentals, value: fair-to-demanding, risk: moderate. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-10-09.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-2.71%) with negative half-year (-10.73%). |
+| Fresh setup quality | Moderate / wait | -11.88% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 13.33%, revenue growth 5.90%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 20.08, EV/Sales 5.86. |
-| Risk level | Moderate | Beta 0.45, ATR nan% of price, short float 3.98%. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 20.14, EV/Sales 5.86. |
+| Risk level | Moderate | Beta 0.45, ATR 1.8% of price, short float 3.98%. |
 
-**Bottom line:** Moderate technical momentum, mixed fundamentals, value: fair-to-demanding, risk: moderate.
+**Bottom line:** Low technical momentum, mixed fundamentals, value: fair-to-demanding, risk: moderate.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -35,22 +35,22 @@ Entergy Corporation, together with its subsidiaries, engages in the production a
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $116.66 (+nan%); 52w low $89.57 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
+| Price vs 52-week range | Close $102.80; 52w high $116.66 (-11.88%); 52w low $89.57 (+14.77%) |
+| Trend | -2.71% vs SMA200, -1.68% vs SMA50, +1.61% vs SMA20 |
 | Momentum | RSI(14) 50.8 (neutral) |
-| Volatility | ATR(14) 1.95 (~nan% of price); beta 0.45 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Volatility | ATR(14) 1.82 (~1.8% of price); beta 0.45 |
+| Setup perspective | -11.88% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | +1.9% |
+| Month | -2.8% |
+| Quarter | -9.9% |
+| Half Y | -10.7% |
+| 1Y | +9.0% |
+| YTD | +11.5% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -59,13 +59,13 @@ Entergy Corporation, together with its subsidiaries, engages in the production a
 | Revenue (ttm) | $13.48B | Revenue growth 5.90% y/y |
 | Profitability | Gross 47.00%, operating 24.46%, net 13.33% | ROA 2.68%, ROE 10.25% |
 | Balance sheet | Cash $3.86B, debt $34.63B | Current ratio 0.91, debt/equity 186.77 |
-| Valuation | P/E 26.21, forward P/E 20.08, P/S 3.63, P/B 2.62 | EV/Sales 5.86, EV/EBITDA 14.27 |
+| Valuation | P/E 26.29, forward P/E 20.14, P/S 3.64, P/B 2.63 | EV/Sales 5.86, EV/EBITDA 14.27 |
 | Growth expectations | Earnings growth -1.90%, EPS q/q 3.10% | Analyst mean target $122.28 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 97.94% |
+| Institutional ownership | 97.93% |
 | Insider ownership | 0.22% |
 | Short float | 3.98% |
 | Short ratio (days to cover) | 7.1 |
@@ -86,7 +86,7 @@ Entergy Corporation, together with its subsidiaries, engages in the production a
 | Morgan Stanley | 9,808,504 | 2.10% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 20.08, EV/Sales 5.86. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 20.14, EV/Sales 5.86. Multiple compression is the main downside if growth disappoints.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -101,21 +101,21 @@ Entergy Corporation, together with its subsidiaries, engages in the production a
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 5.86 |
-| Market cap | $48.97B | EV/EBITDA | 14.27 |
+| Price | $102.80 | EV/Sales | 5.86 |
+| Market cap | $49.12B | EV/EBITDA | 14.27 |
 | Beta | 0.45 | Gross margin | 47.00% |
 | RSI(14) | 50.8 | Operating margin | 24.46% |
-| ATR(14) | 1.95 | Profit margin | 13.33% |
-| SMA20 dist | +nan% | ROA | 2.68% |
-| SMA50 dist | +nan% | ROE | 10.25% |
-| SMA200 dist | +nan% | Revenue (ttm) | $13.48B |
+| ATR(14) | 1.82 | Profit margin | 13.33% |
+| SMA20 dist | +1.61% | ROA | 2.68% |
+| SMA50 dist | -1.68% | ROE | 10.25% |
+| SMA200 dist | -2.71% | Revenue (ttm) | $13.48B |
 | 52W high | $116.66 | Revenue growth y/y | 5.90% |
-| 52W low | $89.57 | Inst. ownership | 97.94% |
-| P/E (ttm) | 26.21 | Insider ownership | 0.22% |
-| Forward P/E | 20.08 | Short float | 3.98% |
-| PEG (trailing) | 1.52 | Avg volume | 2,676,406 |
-| P/S | 3.63 | Employees | 12,000 |
-| P/B | 2.62 | Analyst rec (1=buy..5=sell) | 1.7 |
+| 52W low | $89.57 | Inst. ownership | 97.93% |
+| P/E (ttm) | 26.29 | Insider ownership | 0.22% |
+| Forward P/E | 20.14 | Short float | 3.98% |
+| PEG (trailing) | 1.52 | Avg volume | 2,665,595 |
+| P/S | 3.64 | Employees | 12,000 |
+| P/B | 2.63 | Analyst rec (1=buy..5=sell) | 1.7 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
@@ -130,7 +130,7 @@ Entergy Corporation, together with its subsidiaries, engages in the production a
 | 2026-06-10 | up | Evercore ISI Group | In-Line → Outperform |
 
 ## 9. Conclusion
-ETR: Moderate momentum / mixed fundamentals / fair-to-demanding value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+ETR: Low momentum / mixed fundamentals / fair-to-demanding value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

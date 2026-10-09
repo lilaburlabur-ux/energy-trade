@@ -4,24 +4,24 @@ Signed file: `DINO.research.09.10.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-10-09, ~15-min delayed) |
-| Market cap | $21.46B |
+| Current price | $121.30 (2026-10-09, ~15-min delayed) |
+| Market cap | $21.57B |
 | Sector / Industry | Energy / Oil & Gas Refining & Marketing |
 | Main theme | Oil & Gas Refining & Marketing — see catalysts below |
-| Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
+| Current stance | High technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-10-09.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +139.27%; price +67.84% vs SMA200. |
+| Fresh setup quality | Moderate / wait | +0.00% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 6.13%, revenue growth 53.20%. |
-| Value attractiveness | Reasonable | Forward P/E 9.16, EV/Sales 0.69. |
-| Risk level | Moderate | Beta 0.71, ATR nan% of price, short float 6.20%. |
+| Value attractiveness | Reasonable | Forward P/E 8.86, EV/Sales 0.69. |
+| Risk level | Elevated | Beta 0.71, ATR 3.7% of price, short float 6.20%. |
 
-**Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
+**Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -35,22 +35,22 @@ HF Sinclair Corporation operates as an independent energy company in the United 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $116.62 (+nan%); 52w low $44.83 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 67.8 (neutral) |
-| Volatility | ATR(14) 4.44 (~nan% of price); beta 0.71 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $121.30; 52w high $121.30 (+0.00%); 52w low $44.83 (+170.58%) |
+| Trend | +67.84% vs SMA200, +18.89% vs SMA50, +8.64% vs SMA20 |
+| Momentum | RSI(14) 74.4 (overbought) |
+| Volatility | ATR(14) 4.48 (~3.7% of price); beta 0.71 |
+| Setup perspective | +0.00% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | +7.0% |
+| Month | +12.6% |
+| Quarter | +49.4% |
+| Half Y | +113.7% |
+| 1Y | +139.3% |
+| YTD | +165.0% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -59,7 +59,7 @@ HF Sinclair Corporation operates as an independent energy company in the United 
 | Revenue (ttm) | $31.23B | Revenue growth 53.20% y/y |
 | Profitability | Gross 12.89%, operating 11.69%, net 6.13% | ROA 9.16%, ROE 19.50% |
 | Balance sheet | Cash $2.26B, debt $3.34B | Current ratio 1.97, debt/equity 32.26 |
-| Valuation | P/E 11.50, forward P/E 9.16, P/S 0.69, P/B 2.09 | EV/Sales 0.69, EV/EBITDA 6.77 |
+| Valuation | P/E 11.55, forward P/E 8.86, P/S 0.69, P/B 2.10 | EV/Sales 0.69, EV/EBITDA 6.77 |
 | Growth expectations | Earnings growth 350.20%, EPS q/q 328.80% | Analyst mean target $106.47 (15 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -86,7 +86,9 @@ HF Sinclair Corporation operates as an independent energy company in the United 
 | Citadel Advisors Llc | 4,263,228 | 2.40% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
+- **Volatility risk:** Beta 0.71, ATR 3.7% of price, short float 6.20%. Size positions accordingly.
 - **Short interest risk:** short float 6.20% can fuel squeezes both ways around news.
+- **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -101,25 +103,26 @@ HF Sinclair Corporation operates as an independent energy company in the United 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 0.69 |
-| Market cap | $21.46B | EV/EBITDA | 6.77 |
+| Price | $121.30 | EV/Sales | 0.69 |
+| Market cap | $21.57B | EV/EBITDA | 6.77 |
 | Beta | 0.71 | Gross margin | 12.89% |
-| RSI(14) | 67.8 | Operating margin | 11.69% |
-| ATR(14) | 4.44 | Profit margin | 6.13% |
-| SMA20 dist | +nan% | ROA | 9.16% |
-| SMA50 dist | +nan% | ROE | 19.50% |
-| SMA200 dist | +nan% | Revenue (ttm) | $31.23B |
-| 52W high | $116.62 | Revenue growth y/y | 53.20% |
+| RSI(14) | 74.4 | Operating margin | 11.69% |
+| ATR(14) | 4.48 | Profit margin | 6.13% |
+| SMA20 dist | +8.64% | ROA | 9.16% |
+| SMA50 dist | +18.89% | ROE | 19.50% |
+| SMA200 dist | +67.84% | Revenue (ttm) | $31.23B |
+| 52W high | $121.30 | Revenue growth y/y | 53.20% |
 | 52W low | $44.83 | Inst. ownership | 90.18% |
-| P/E (ttm) | 11.50 | Insider ownership | 5.49% |
-| Forward P/E | 9.16 | Short float | 6.20% |
-| PEG (trailing) | 1.13 | Avg volume | 2,744,320 |
+| P/E (ttm) | 11.55 | Insider ownership | 5.49% |
+| Forward P/E | 8.86 | Short float | 6.20% |
+| PEG (trailing) | 1.13 | Avg volume | 2,742,037 |
 | P/S | 0.69 | Employees | 5,165 |
-| P/B | 2.09 | Analyst rec (1=buy..5=sell) | 2.6 |
+| P/B | 2.10 | Analyst rec (1=buy..5=sell) | 2.6 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-10-09 | main | Goldman Sachs | Buy → Buy |
 | 2026-10-08 | main | Mizuho | Neutral → Neutral |
 | 2026-10-05 | main | UBS | Buy → Buy |
 | 2026-09-14 | main | Raymond James | Strong Buy → Strong Buy |
@@ -127,10 +130,9 @@ HF Sinclair Corporation operates as an independent energy company in the United 
 | 2026-09-08 | main | UBS | Buy → Buy |
 | 2026-09-01 | main | Wells Fargo | Equal-Weight → Equal-Weight |
 | 2026-08-04 | main | Mizuho | Neutral → Neutral |
-| 2026-07-29 | main | Barclays | Equal-Weight → Equal-Weight |
 
 ## 9. Conclusion
-DINO: Moderate momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+DINO: High momentum / mixed fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |
