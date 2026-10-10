@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-10-10T16:40:09+00:00",
-  "as_of_local": "2026-10-10 16:40:09 UTC",
+  "as_of_utc": "2026-10-10T16:55:07+00:00",
+  "as_of_local": "2026-10-10 16:55:07 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "BE"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -184,6 +182,15 @@
       "previous_close": 70.91,
       "change_pct": 1.86,
       "market_cap": 85285228965.1532,
+      "headlines": []
+    },
+    {
+      "symbol": "BE",
+      "name": "Bloom Energy",
+      "price": 280.5,
+      "previous_close": 272.82,
+      "change_pct": 2.82,
+      "market_cap": 82614920553.0,
       "headlines": []
     },
     {
