@@ -18,7 +18,7 @@ Signed file: `WFRD.research.10.10.2026`
 | Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
 | Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 7.66%, revenue growth -8.20%. |
-| Value attractiveness | Reasonable | Forward P/E 11.01, EV/Sales 1.28. |
+| Value attractiveness | Reasonable | Forward P/E 11.01, EV/Sales 1.26. |
 | Risk level | Moderate | Beta 1.05, ATR nan% of price, short float 6.59%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -59,13 +59,13 @@ Weatherford International plc, an energy services company, provides equipment an
 | Revenue (ttm) | $4.78B | Revenue growth -8.20% y/y |
 | Profitability | Gross 30.51%, operating 10.50%, net 7.66% | ROA 7.90%, ROE 22.79% |
 | Balance sheet | Cash $1.10B, debt $1.62B | Current ratio 2.34, debt/equity 90.67 |
-| Valuation | P/E 15.37, forward P/E 11.01, P/S 1.17, P/B 3.13 | EV/Sales 1.28, EV/EBITDA 6.58 |
+| Valuation | P/E 15.37, forward P/E 11.01, P/S 1.17, P/B 3.13 | EV/Sales 1.26, EV/EBITDA 6.46 |
 | Growth expectations | Earnings growth -71.00%, EPS q/q -71.30% | Analyst mean target $117.08 (12 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 106.62% |
+| Institutional ownership | 106.63% |
 | Insider ownership | 2.12% |
 | Short float | 6.59% |
 | Short ratio (days to cover) | 4.3 |
@@ -101,8 +101,8 @@ Weatherford International plc, an energy services company, provides equipment an
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 1.28 |
-| Market cap | $5.57B | EV/EBITDA | 6.58 |
+| Price | $nan | EV/Sales | 1.26 |
+| Market cap | $5.57B | EV/EBITDA | 6.46 |
 | Beta | 1.05 | Gross margin | 30.51% |
 | RSI(14) | 34.9 | Operating margin | 10.50% |
 | ATR(14) | 3.13 | Profit margin | 7.66% |
@@ -110,7 +110,7 @@ Weatherford International plc, an energy services company, provides equipment an
 | SMA50 dist | +nan% | ROE | 22.79% |
 | SMA200 dist | +nan% | Revenue (ttm) | $4.78B |
 | 52W high | $111.07 | Revenue growth y/y | -8.20% |
-| 52W low | $60.73 | Inst. ownership | 106.62% |
+| 52W low | $60.73 | Inst. ownership | 106.63% |
 | P/E (ttm) | 15.37 | Insider ownership | 2.12% |
 | Forward P/E | 11.01 | Short float | 6.59% |
 | PEG (trailing) | 1.29 | Avg volume | 1,073,926 |

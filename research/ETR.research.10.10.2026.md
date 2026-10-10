@@ -59,7 +59,7 @@ Entergy Corporation, together with its subsidiaries, engages in the production a
 | Revenue (ttm) | $13.48B | Revenue growth 5.90% y/y |
 | Profitability | Gross 47.00%, operating 24.46%, net 13.33% | ROA 2.68%, ROE 10.25% |
 | Balance sheet | Cash $3.86B, debt $34.63B | Current ratio 0.91, debt/equity 186.77 |
-| Valuation | P/E 26.29, forward P/E 20.14, P/S 3.64, P/B 2.63 | EV/Sales 5.86, EV/EBITDA 14.27 |
+| Valuation | P/E 26.22, forward P/E 20.14, P/S 3.64, P/B 2.63 | EV/Sales 5.86, EV/EBITDA 14.27 |
 | Growth expectations | Earnings growth -1.90%, EPS q/q 3.10% | Analyst mean target $122.28 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -111,7 +111,7 @@ Entergy Corporation, together with its subsidiaries, engages in the production a
 | SMA200 dist | +nan% | Revenue (ttm) | $13.48B |
 | 52W high | $116.66 | Revenue growth y/y | 5.90% |
 | 52W low | $89.57 | Inst. ownership | 97.93% |
-| P/E (ttm) | 26.29 | Insider ownership | 0.22% |
+| P/E (ttm) | 26.22 | Insider ownership | 0.22% |
 | Forward P/E | 20.14 | Short float | 3.98% |
 | PEG (trailing) | 1.52 | Avg volume | 2,665,595 |
 | P/S | 3.64 | Employees | 12,000 |

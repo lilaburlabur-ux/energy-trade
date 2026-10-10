@@ -18,7 +18,7 @@ Signed file: `VST.research.10.10.2026`
 | Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
 | Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 11.55%, revenue growth -5.50%. |
-| Value attractiveness | Reasonable | Forward P/E 15.50, EV/Sales 4.00. |
+| Value attractiveness | Reasonable | Forward P/E 15.50, EV/Sales 4.09. |
 | Risk level | Elevated | Beta 1.38, ATR nan% of price, short float 3.35%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
@@ -59,14 +59,14 @@ Vistra Corp., together with its subsidiaries, operates as an integrated retail e
 | Revenue (ttm) | $19.21B | Revenue growth -5.50% y/y |
 | Profitability | Gross 38.31%, operating 13.77%, net 11.55% | ROA 5.89%, ROE 42.96% |
 | Balance sheet | Cash $435.00M, debt $20.51B | Current ratio 0.97, debt/equity 373.28 |
-| Valuation | P/E 27.23, forward P/E 15.50, P/S 2.82, P/B 18.05 | EV/Sales 4.00, EV/EBITDA 11.55 |
+| Valuation | P/E 27.23, forward P/E 15.50, P/S 2.82, P/B 18.05 | EV/Sales 4.09, EV/EBITDA 11.81 |
 | Growth expectations | Earnings growth -6.20%, EPS q/q -6.70% | Analyst mean target $210.25 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 92.02% |
-| Insider ownership | 0.77% |
+| Institutional ownership | 92.03% |
+| Insider ownership | 0.78% |
 | Short float | 3.35% |
 | Short ratio (days to cover) | 2.2 |
 
@@ -101,8 +101,8 @@ Vistra Corp., together with its subsidiaries, operates as an integrated retail e
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 4.00 |
-| Market cap | $54.20B | EV/EBITDA | 11.55 |
+| Price | $nan | EV/Sales | 4.09 |
+| Market cap | $54.20B | EV/EBITDA | 11.81 |
 | Beta | 1.38 | Gross margin | 38.31% |
 | RSI(14) | 60.7 | Operating margin | 13.77% |
 | ATR(14) | 7.06 | Profit margin | 11.55% |
@@ -110,8 +110,8 @@ Vistra Corp., together with its subsidiaries, operates as an integrated retail e
 | SMA50 dist | +nan% | ROE | 42.96% |
 | SMA200 dist | +nan% | Revenue (ttm) | $19.21B |
 | 52W high | $209.63 | Revenue growth y/y | -5.50% |
-| 52W low | $134.30 | Inst. ownership | 92.02% |
-| P/E (ttm) | 27.23 | Insider ownership | 0.77% |
+| 52W low | $134.30 | Inst. ownership | 92.03% |
+| P/E (ttm) | 27.23 | Insider ownership | 0.78% |
 | Forward P/E | 15.50 | Short float | 3.35% |
 | PEG (trailing) | 0.34 | Avg volume | 5,217,510 |
 | P/S | 2.82 | Employees | 6,390 |

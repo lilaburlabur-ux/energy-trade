@@ -18,7 +18,7 @@ Signed file: `LNG.research.10.10.2026`
 | Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
 | Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 13.94%, revenue growth 22.70%. |
-| Value attractiveness | Reasonable | Forward P/E 13.38, EV/Sales 4.28. |
+| Value attractiveness | Reasonable | Forward P/E 13.38, EV/Sales 4.22. |
 | Risk level | Moderate | Beta 0.06, ATR nan% of price, short float 1.89%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -59,13 +59,13 @@ Cheniere Energy, Inc., an energy infrastructure company, primarily engages in th
 | Revenue (ttm) | $20.92B | Revenue growth 22.70% y/y |
 | Profitability | Gross 36.85%, operating 75.00%, net 13.94% | ROA 8.63%, ROE 39.12% |
 | Balance sheet | Cash $1.12B, debt $27.97B | Current ratio 0.87, debt/equity 243.42 |
-| Valuation | P/E 21.06, forward P/E 13.38, P/S 2.75, P/B 9.34 | EV/Sales 4.28, EV/EBITDA 11.45 |
+| Valuation | P/E 21.06, forward P/E 13.38, P/S 2.75, P/B 9.34 | EV/Sales 4.22, EV/EBITDA 11.29 |
 | Growth expectations | Earnings growth 100.70%, EPS q/q 88.70% | Analyst mean target $310.57 (21 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 91.52% |
+| Institutional ownership | 91.51% |
 | Insider ownership | 0.63% |
 | Short float | 1.89% |
 | Short ratio (days to cover) | 2.0 |
@@ -100,8 +100,8 @@ Cheniere Energy, Inc., an energy infrastructure company, primarily engages in th
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 4.28 |
-| Market cap | $57.45B | EV/EBITDA | 11.45 |
+| Price | $nan | EV/Sales | 4.22 |
+| Market cap | $57.45B | EV/EBITDA | 11.29 |
 | Beta | 0.06 | Gross margin | 36.85% |
 | RSI(14) | 55.1 | Operating margin | 75.00% |
 | ATR(14) | 7.24 | Profit margin | 13.94% |
@@ -109,7 +109,7 @@ Cheniere Energy, Inc., an energy infrastructure company, primarily engages in th
 | SMA50 dist | +nan% | ROE | 39.12% |
 | SMA200 dist | +nan% | Revenue (ttm) | $20.92B |
 | 52W high | $295.86 | Revenue growth y/y | 22.70% |
-| 52W low | $187.49 | Inst. ownership | 91.52% |
+| 52W low | $187.49 | Inst. ownership | 91.51% |
 | P/E (ttm) | 21.06 | Insider ownership | 0.63% |
 | Forward P/E | 13.38 | Short float | 1.89% |
 | PEG (trailing) | — | Avg volume | 1,845,979 |

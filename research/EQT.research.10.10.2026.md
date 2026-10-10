@@ -18,7 +18,7 @@ Signed file: `EQT.research.10.10.2026`
 | Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
 | Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 29.18%, revenue growth -3.90%. |
-| Value attractiveness | Reasonable | Forward P/E 14.01, EV/Sales 4.54. |
+| Value attractiveness | Reasonable | Forward P/E 14.01, EV/Sales 4.50. |
 | Risk level | Moderate | Beta 0.65, ATR nan% of price, short float 4.09%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -59,13 +59,13 @@ EQT Corporation engages in the exploration, production, gathering, and transmiss
 | Revenue (ttm) | $9.29B | Revenue growth -3.90% y/y |
 | Profitability | Gross 80.75%, operating 23.37%, net 29.18% | ROA 6.63%, ROE 11.08% |
 | Balance sheet | Cash $112.86M, debt $5.66B | Current ratio 0.67, debt/equity 19.59 |
-| Valuation | P/E 12.26, forward P/E 14.01, P/S 3.56, P/B 1.31 | EV/Sales 4.54, EV/EBITDA 6.03 |
+| Valuation | P/E 12.26, forward P/E 14.01, P/S 3.56, P/B 1.31 | EV/Sales 4.50, EV/EBITDA 5.99 |
 | Growth expectations | Earnings growth -74.00%, EPS q/q -73.00% | Analyst mean target $67.19 (26 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 95.88% |
+| Institutional ownership | 95.84% |
 | Insider ownership | 0.90% |
 | Short float | 4.09% |
 | Short ratio (days to cover) | 3.5 |
@@ -100,8 +100,8 @@ EQT Corporation engages in the exploration, production, gathering, and transmiss
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 4.54 |
-| Market cap | $33.05B | EV/EBITDA | 6.03 |
+| Price | $nan | EV/Sales | 4.50 |
+| Market cap | $33.05B | EV/EBITDA | 5.99 |
 | Beta | 0.65 | Gross margin | 80.75% |
 | RSI(14) | 56.7 | Operating margin | 23.37% |
 | ATR(14) | 1.35 | Profit margin | 29.18% |
@@ -109,7 +109,7 @@ EQT Corporation engages in the exploration, production, gathering, and transmiss
 | SMA50 dist | +nan% | ROE | 11.08% |
 | SMA200 dist | +nan% | Revenue (ttm) | $9.29B |
 | 52W high | $67.53 | Revenue growth y/y | -3.90% |
-| 52W low | $48.56 | Inst. ownership | 95.88% |
+| 52W low | $48.56 | Inst. ownership | 95.84% |
 | P/E (ttm) | 12.26 | Insider ownership | 0.90% |
 | Forward P/E | 14.01 | Short float | 4.09% |
 | PEG (trailing) | 1.49 | Avg volume | 7,196,412 |

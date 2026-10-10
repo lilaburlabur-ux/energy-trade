@@ -18,7 +18,7 @@ Signed file: `SHEL.research.10.10.2026`
 | Technical momentum | Moderate | 1Y +40.19%; price +18.14% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -0.02% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 8.76%, revenue growth 44.70%. |
-| Value attractiveness | Reasonable | Forward P/E 9.56, EV/Sales 1.08. |
+| Value attractiveness | Reasonable | Forward P/E 9.56, EV/Sales 1.05. |
 | Risk level | Moderate | Beta -0.19, ATR 1.7% of price, short float 1.24%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -59,13 +59,13 @@ Shell plc operates as an energy and petrochemical company in Europe, Asia, Ocean
 | Revenue (ttm) | $296.60B | Revenue growth 44.70% y/y |
 | Profitability | Gross 26.09%, operating 16.69%, net 8.76% | ROA 6.40%, ROE 14.34% |
 | Balance sheet | Cash $31.37B, debt $73.08B | Current ratio 1.44, debt/equity 40.20 |
-| Valuation | P/E 11.06, forward P/E 9.56, P/S 0.96, P/B 1.54 | EV/Sales 1.08, EV/EBITDA 5.58 |
+| Valuation | P/E 11.06, forward P/E 9.56, P/S 0.96, P/B 1.54 | EV/Sales 1.05, EV/EBITDA 5.42 |
 | Growth expectations | Earnings growth 220.00%, EPS q/q 200.50% | Analyst mean target $104.29 (15 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 13.42% |
+| Institutional ownership | 13.41% |
 | Insider ownership | 0.01% |
 | Short float | 1.24% |
 | Short ratio (days to cover) | 3.1 |
@@ -101,8 +101,8 @@ Shell plc operates as an energy and petrochemical company in Europe, Asia, Ocean
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $100.18 | EV/Sales | 1.08 |
-| Market cap | $285.13B | EV/EBITDA | 5.58 |
+| Price | $100.18 | EV/Sales | 1.05 |
+| Market cap | $285.13B | EV/EBITDA | 5.42 |
 | Beta | -0.19 | Gross margin | 26.09% |
 | RSI(14) | 68.7 | Operating margin | 16.69% |
 | ATR(14) | 1.72 | Profit margin | 8.76% |
@@ -110,7 +110,7 @@ Shell plc operates as an energy and petrochemical company in Europe, Asia, Ocean
 | SMA50 dist | +7.14% | ROE | 14.34% |
 | SMA200 dist | +18.14% | Revenue (ttm) | $296.60B |
 | 52W high | $100.20 | Revenue growth y/y | 44.70% |
-| 52W low | $68.43 | Inst. ownership | 13.42% |
+| 52W low | $68.43 | Inst. ownership | 13.41% |
 | P/E (ttm) | 11.06 | Insider ownership | 0.01% |
 | Forward P/E | 9.56 | Short float | 1.24% |
 | PEG (trailing) | 1.59 | Avg volume | 6,453,840 |
