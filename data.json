@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-10-10T08:31:21+00:00",
-  "as_of_local": "2026-10-10 08:31:21 UTC",
+  "as_of_utc": "2026-10-10T08:45:57+00:00",
+  "as_of_local": "2026-10-10 08:45:57 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "OVV"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -434,15 +436,6 @@
       "previous_close": 359.22,
       "change_pct": 5.39,
       "market_cap": 17906361346.435547,
-      "headlines": []
-    },
-    {
-      "symbol": "OVV",
-      "name": "Ovintiv",
-      "price": 63.88,
-      "previous_close": 63.37,
-      "change_pct": 0.8,
-      "market_cap": 17669208295.440674,
       "headlines": []
     },
     {
