@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-10-11T23:17:35+00:00",
-  "as_of_local": "2026-10-11 23:17:35 UTC",
+  "as_of_utc": "2026-10-11T23:34:10+00:00",
+  "as_of_local": "2026-10-11 23:34:10 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "MPLX"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -263,15 +265,6 @@
       "previous_close": 277.88,
       "change_pct": 0.11,
       "market_cap": 57453670559.73865,
-      "headlines": []
-    },
-    {
-      "symbol": "MPLX",
-      "name": "MPLX",
-      "price": 56.3,
-      "previous_close": 57.32,
-      "change_pct": -1.78,
-      "market_cap": 57080218757.78754,
       "headlines": []
     },
     {
@@ -823,18 +816,18 @@
     },
     {
       "label": "WTI",
-      "price": 92.39,
-      "change_pct": 0.59
+      "price": 91.79,
+      "change_pct": -0.07
     },
     {
       "label": "Brent",
-      "price": 105.41,
-      "change_pct": 0.66
+      "price": 104.74,
+      "change_pct": 0.02
     },
     {
       "label": "NatGas",
-      "price": 3.19,
-      "change_pct": -0.96
+      "price": 3.18,
+      "change_pct": -1.12
     }
   ]
 }
