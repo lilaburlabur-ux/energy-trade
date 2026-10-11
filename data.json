@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-10-11T10:38:17+00:00",
-  "as_of_local": "2026-10-11 10:38:17 UTC",
+  "as_of_utc": "2026-10-11T10:53:18+00:00",
+  "as_of_local": "2026-10-11 10:53:18 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "PWR"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -112,6 +110,15 @@
       "previous_close": 281.6,
       "change_pct": -1.21,
       "market_cap": 110999635490.36353,
+      "headlines": []
+    },
+    {
+      "symbol": "PWR",
+      "name": "Quanta Services",
+      "price": 705.94,
+      "previous_close": 685.33,
+      "change_pct": 3.01,
+      "market_cap": 106133415221.4693,
       "headlines": []
     },
     {
