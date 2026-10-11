@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-10-11T11:08:33+00:00",
-  "as_of_local": "2026-10-11 11:08:33 UTC",
+  "as_of_utc": "2026-10-11T11:13:38+00:00",
+  "as_of_local": "2026-10-11 11:13:38 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "GEV"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -31,6 +29,15 @@
       "previous_close": 100.2,
       "change_pct": -0.02,
       "market_cap": 285085968992.1701,
+      "headlines": []
+    },
+    {
+      "symbol": "GEV",
+      "name": "GE Vernova",
+      "price": 1004.73,
+      "previous_close": 999.35,
+      "change_pct": 0.54,
+      "market_cap": 267593333636.30225,
       "headlines": []
     },
     {
