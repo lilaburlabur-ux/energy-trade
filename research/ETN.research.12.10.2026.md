@@ -122,6 +122,7 @@ Eaton Corporation plc operates as a power management company in the United State
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-10-12 | main | Citigroup | Buy → Buy |
 | 2026-09-25 | init | Wells Fargo | — → Overweight |
 | 2026-09-08 | up | UBS | Neutral → Buy |
 | 2026-08-28 | main | Morgan Stanley | Overweight → Overweight |
@@ -129,7 +130,6 @@ Eaton Corporation plc operates as a power management company in the United State
 | 2026-08-03 | main | Citigroup | Buy → Buy |
 | 2026-08-03 | main | RBC Capital | Outperform → Outperform |
 | 2026-08-03 | main | BMO Capital | Outperform → Outperform |
-| 2026-08-03 | up | Evercore ISI Group | In-Line → Outperform |
 
 ## 9. Conclusion
 ETN: Moderate momentum / mixed fundamentals / fair-to-demanding value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

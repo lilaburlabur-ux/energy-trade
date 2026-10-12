@@ -120,6 +120,7 @@ Permian Resources Corporation, an independent oil and natural gas company, focus
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-10-12 | main | Citigroup | Buy → Buy |
 | 2026-10-12 | main | Truist Securities | Buy → Buy |
 | 2026-09-24 | reit | RBC Capital | Outperform → Outperform |
 | 2026-09-15 | main | Keybanc | Overweight → Overweight |
@@ -127,7 +128,6 @@ Permian Resources Corporation, an independent oil and natural gas company, focus
 | 2026-09-03 | init | Seaport Global | — → Buy |
 | 2026-08-13 | main | Wells Fargo | Overweight → Overweight |
 | 2026-08-10 | main | Truist Securities | Buy → Buy |
-| 2026-07-17 | main | UBS | Buy → Buy |
 
 ## 9. Conclusion
 PR: High momentum / strong fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
