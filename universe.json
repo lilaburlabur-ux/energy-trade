@@ -1,7 +1,7 @@
 {
  "meta": {
   "source": "Energy Trade curated universe (seed_energy_universe.py)",
-  "as_of": "2026-10-12 10:43 UTC",
+  "as_of": "2026-10-12 10:48 UTC",
   "total_tickers": 67,
   "min_bubble_size": 7,
   "render_spec": {
@@ -18,8 +18,8 @@
    "label": "Oil & Gas Majors",
    "color": "#E8A33D",
    "count": 8,
-   "total_market_cap_b": 2082.8,
-   "avg_change_pct": 0.77,
+   "total_market_cap_b": 2082.37,
+   "avg_change_pct": 0.75,
    "industries_included": [
     "Oil & Gas E&P",
     "Oil & Gas Integrated"
@@ -82,10 +82,10 @@
      "sector": "Energy",
      "industry": "Oil & Gas Integrated",
      "country": "United States",
-     "market_cap_b": 426.26,
+     "market_cap_b": 425.88,
      "pe": 20.36,
-     "price": 213.52,
-     "change_pct": 0.73,
+     "price": 213.33,
+     "change_pct": 0.64,
      "volume": 6298800,
      "perf": {
       "1W": 2.1,
@@ -286,10 +286,10 @@
      "sector": "Energy",
      "industry": "Oil & Gas Integrated",
      "country": "United Kingdom",
-     "market_cap_b": 117.62,
+     "market_cap_b": 117.57,
      "pe": 22.61,
-     "price": 46.56,
-     "change_pct": 0.67,
+     "price": 46.54,
+     "change_pct": 0.63,
      "volume": 8422500,
      "perf": {
       "1W": 4.2,
@@ -434,7 +434,7 @@
      "fwd_eps": 6.03
     }
    ],
-   "median_change_pct": 0.7,
+   "median_change_pct": 0.64,
    "pe_hm": 16.4
   },
   {
@@ -1879,8 +1879,8 @@
    "label": "Nuclear & Uranium",
    "color": "#F2D43D",
    "count": 8,
-   "total_market_cap_b": 179.63,
-   "avg_change_pct": 0.23,
+   "total_market_cap_b": 179.62,
+   "avg_change_pct": 0.22,
    "industries_included": [
     "Aerospace & Defense",
     "Specialty Industrial Machinery",
@@ -2047,10 +2047,10 @@
      "sector": "Utilities",
      "industry": "Utilities - Independent Power Producers",
      "country": "United States",
-     "market_cap_b": 5.7,
+     "market_cap_b": 5.69,
      "pe": null,
-     "price": 34.55,
-     "change_pct": -0.43,
+     "price": 34.49,
+     "change_pct": -0.61,
      "volume": 7440300,
      "perf": {
       "1W": -4.3,
