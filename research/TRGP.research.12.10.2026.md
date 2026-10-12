@@ -38,7 +38,7 @@ Targa Resources Corp., together with its subsidiaries, owns, operates, acquires,
 | Price vs 52-week range | Close $290.54; 52w high $302.25 (-3.87%); 52w low $143.22 (+102.86%) |
 | Trend | +16.22% vs SMA200, +2.50% vs SMA50, +2.51% vs SMA20 |
 | Momentum | RSI(14) 56.9 (neutral) |
-| Volatility | ATR(14) 7.36 (~2.5% of price); beta 0.80 |
+| Volatility | ATR(14) 7.35 (~2.5% of price); beta 0.80 |
 | Setup perspective | -3.87% from 52w high and near SMA20 — check for a tight base. |
 
 **Performance snapshot:**
@@ -59,7 +59,7 @@ Targa Resources Corp., together with its subsidiaries, owns, operates, acquires,
 | Revenue (ttm) | $16.74B | Revenue growth 4.20% y/y |
 | Profitability | Gross 43.19%, operating 27.80%, net 13.54% | ROA 9.24%, ROE 70.84% |
 | Balance sheet | Cash $132.30M, debt $19.58B | Current ratio 0.77, debt/equity 515.79 |
-| Valuation | P/E 27.78, forward P/E 24.13, P/S 3.72, P/B 17.04 | EV/Sales 4.84, EV/EBITDA 14.74 |
+| Valuation | P/E 27.78, forward P/E 24.13, P/S 3.72, P/B 19.89 | EV/Sales 4.84, EV/EBITDA 14.74 |
 | Growth expectations | Earnings growth 23.30%, EPS q/q 21.50% | Analyst mean target $325.71 (21 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -106,7 +106,7 @@ Targa Resources Corp., together with its subsidiaries, owns, operates, acquires,
 | Market cap | $62.30B | EV/EBITDA | 14.74 |
 | Beta | 0.80 | Gross margin | 43.19% |
 | RSI(14) | 56.9 | Operating margin | 27.80% |
-| ATR(14) | 7.36 | Profit margin | 13.54% |
+| ATR(14) | 7.35 | Profit margin | 13.54% |
 | SMA20 dist | +2.51% | ROA | 9.24% |
 | SMA50 dist | +2.50% | ROE | 70.84% |
 | SMA200 dist | +16.22% | Revenue (ttm) | $16.74B |
@@ -116,7 +116,7 @@ Targa Resources Corp., together with its subsidiaries, owns, operates, acquires,
 | Forward P/E | 24.13 | Short float | 2.90% |
 | PEG (trailing) | — | Avg volume | 1,194,646 |
 | P/S | 3.72 | Employees | 3,570 |
-| P/B | 17.04 | Analyst rec (1=buy..5=sell) | 1.4 |
+| P/B | 19.89 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

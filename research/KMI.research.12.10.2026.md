@@ -5,7 +5,7 @@ Signed file: `KMI.research.12.10.2026`
 | Field | Value |
 |---|---|
 | Current price | $33.08 (2026-10-12, ~15-min delayed) |
-| Market cap | $73.66B |
+| Market cap | $73.60B |
 | Sector / Industry | Energy / Oil & Gas Midstream |
 | Main theme | Oil & Gas Midstream — see catalysts below |
 | Current stance | Moderate technical momentum, strong fundamentals, value: fair-to-demanding, risk: moderate. |
@@ -103,7 +103,7 @@ Kinder Morgan, Inc. operates as an energy infrastructure company primarily in No
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $33.08 | EV/Sales | 5.90 |
-| Market cap | $73.66B | EV/EBITDA | 13.87 |
+| Market cap | $73.60B | EV/EBITDA | 13.87 |
 | Beta | 0.58 | Gross margin | 49.41% |
 | RSI(14) | 66.0 | Operating margin | 30.06% |
 | ATR(14) | 0.71 | Profit margin | 19.30% |
