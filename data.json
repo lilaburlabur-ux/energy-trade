@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-10-12T20:24:19+00:00",
-  "as_of_local": "2026-10-12 20:24:19 UTC",
+  "as_of_utc": "2026-10-12T20:26:47+00:00",
+  "as_of_local": "2026-10-12 20:26:47 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "EQT"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -353,15 +355,6 @@
       "previous_close": 72.28,
       "change_pct": -2.1,
       "market_cap": 35268202387.540054,
-      "headlines": []
-    },
-    {
-      "symbol": "EQT",
-      "name": "EQT Corp",
-      "price": 53.22,
-      "previous_close": 52.83,
-      "change_pct": 0.74,
-      "market_cap": 33289962283.569336,
       "headlines": []
     },
     {
@@ -823,8 +816,8 @@
     },
     {
       "label": "WTI",
-      "price": 93.2,
-      "change_pct": 1.47
+      "price": 93.25,
+      "change_pct": 1.52
     },
     {
       "label": "Brent",
@@ -834,7 +827,7 @@
     {
       "label": "NatGas",
       "price": 3.17,
-      "change_pct": -1.61
+      "change_pct": -1.46
     }
   ]
 }
