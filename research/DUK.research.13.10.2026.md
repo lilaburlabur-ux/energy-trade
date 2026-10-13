@@ -4,8 +4,8 @@ Signed file: `DUK.research.13.10.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $117.69 (2026-10-13, ~15-min delayed) |
-| Market cap | $91.76B |
+| Current price | $118.19 (2026-10-13, ~15-min delayed) |
+| Market cap | $92.15B |
 | Sector / Industry | Utilities / Utilities - Regulated Electric |
 | Main theme | Utilities - Regulated Electric — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,10 +15,10 @@ Signed file: `DUK.research.13.10.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-3.88%) with negative half-year (-8.17%). |
-| Fresh setup quality | Moderate / wait | -10.27% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-3.48%) with negative half-year (-7.34%). |
+| Fresh setup quality | Moderate / wait | -9.89% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 16.00%, revenue growth 1.10%. |
-| Value attractiveness | Reasonable | Forward P/E 16.41, EV/Sales 5.68. |
+| Value attractiveness | Reasonable | Forward P/E 16.49, EV/Sales 5.68. |
 | Risk level | Moderate | Beta 0.34, ATR 1.3% of price, short float 2.54%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -35,22 +35,22 @@ Duke Energy Corporation, through its subsidiaries, operates as an energy company
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $117.69; 52w high $131.16 (-10.27%); 52w low $111.09 (+5.94%) |
-| Trend | -3.88% vs SMA200, -1.28% vs SMA50, +1.85% vs SMA20 |
-| Momentum | RSI(14) 54.5 (neutral) |
-| Volatility | ATR(14) 1.52 (~1.3% of price); beta 0.34 |
-| Setup perspective | -10.27% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $118.19; 52w high $131.16 (-9.89%); 52w low $111.09 (+6.39%) |
+| Trend | -3.48% vs SMA200, -0.77% vs SMA50, +2.26% vs SMA20 |
+| Momentum | RSI(14) 56.8 (neutral) |
+| Volatility | ATR(14) 1.57 (~1.3% of price); beta 0.34 |
+| Setup perspective | -9.89% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +3.4% |
-| Month | -1.4% |
-| Quarter | -6.0% |
-| Half Y | -8.2% |
-| 1Y | -2.3% |
-| YTD | +2.8% |
+| Week | +2.2% |
+| Month | -0.7% |
+| Quarter | -4.1% |
+| Half Y | -7.3% |
+| 1Y | -3.7% |
+| YTD | +3.3% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -59,8 +59,8 @@ Duke Energy Corporation, through its subsidiaries, operates as an energy company
 | Revenue (ttm) | $32.80B | Revenue growth 1.10% y/y |
 | Profitability | Gross 51.97%, operating 27.50%, net 16.00% | ROA 2.84%, ROE 9.86% |
 | Balance sheet | Cash $673.00M, debt $92.21B | Current ratio 0.66, debt/equity 162.16 |
-| Valuation | P/E 17.72, forward P/E 16.41, P/S 2.80, P/B 1.71 | EV/Sales 5.68, EV/EBITDA 11.22 |
-| Growth expectations | Earnings growth 10.60%, EPS q/q 11.00% | Analyst mean target $134.94 (18 analysts) |
+| Valuation | P/E 17.80, forward P/E 16.49, P/S 2.81, P/B 1.71 | EV/Sales 5.68, EV/EBITDA 11.22 |
+| Growth expectations | Earnings growth 10.60%, EPS q/q 11.00% | Analyst mean target $133.94 (18 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
@@ -100,33 +100,33 @@ Duke Energy Corporation, through its subsidiaries, operates as an energy company
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $117.69 | EV/Sales | 5.68 |
-| Market cap | $91.76B | EV/EBITDA | 11.22 |
+| Price | $118.19 | EV/Sales | 5.68 |
+| Market cap | $92.15B | EV/EBITDA | 11.22 |
 | Beta | 0.34 | Gross margin | 51.97% |
-| RSI(14) | 54.5 | Operating margin | 27.50% |
-| ATR(14) | 1.52 | Profit margin | 16.00% |
-| SMA20 dist | +1.85% | ROA | 2.84% |
-| SMA50 dist | -1.28% | ROE | 9.86% |
-| SMA200 dist | -3.88% | Revenue (ttm) | $32.80B |
+| RSI(14) | 56.8 | Operating margin | 27.50% |
+| ATR(14) | 1.57 | Profit margin | 16.00% |
+| SMA20 dist | +2.26% | ROA | 2.84% |
+| SMA50 dist | -0.77% | ROE | 9.86% |
+| SMA200 dist | -3.48% | Revenue (ttm) | $32.80B |
 | 52W high | $131.16 | Revenue growth y/y | 1.10% |
 | 52W low | $111.09 | Inst. ownership | 71.12% |
-| P/E (ttm) | 17.72 | Insider ownership | 0.13% |
-| Forward P/E | 16.41 | Short float | 2.54% |
+| P/E (ttm) | 17.80 | Insider ownership | 0.13% |
+| Forward P/E | 16.49 | Short float | 2.54% |
 | PEG (trailing) | 2.13 | Avg volume | 4,119,240 |
-| P/S | 2.80 | Employees | 26,441 |
+| P/S | 2.81 | Employees | 26,441 |
 | P/B | 1.71 | Analyst rec (1=buy..5=sell) | 2.0 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-10-13 | main | JP Morgan | Neutral → Neutral |
+| 2026-10-13 | main | Keybanc | Overweight → Overweight |
 | 2026-10-12 | main | Truist Securities | Buy → Buy |
 | 2026-10-09 | main | Barclays | Overweight → Overweight |
 | 2026-09-18 | main | Morgan Stanley | Equal-Weight → Equal-Weight |
 | 2026-08-21 | main | Morgan Stanley | Equal-Weight → Equal-Weight |
 | 2026-08-17 | main | Truist Securities | Buy → Buy |
 | 2026-08-05 | main | BMO Capital | Outperform → Outperform |
-| 2026-08-05 | main | Barclays | Overweight → Overweight |
-| 2026-07-23 | up | Keybanc | Sector Weight → Overweight |
 
 ## 9. Conclusion
 DUK: Low momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

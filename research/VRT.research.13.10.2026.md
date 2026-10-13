@@ -4,8 +4,8 @@ Signed file: `VRT.research.13.10.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $239.36 (2026-10-13, ~15-min delayed) |
-| Market cap | $92.15B |
+| Current price | $237.29 (2026-10-13, ~15-min delayed) |
+| Market cap | $91.35B |
 | Sector / Industry | Industrials / Electrical Equipment & Parts |
 | Main theme | Electrical Equipment & Parts — see catalysts below |
 | Current stance | Low technical momentum, strong fundamentals, value: fair-to-demanding, risk: high. |
@@ -15,11 +15,11 @@ Signed file: `VRT.research.13.10.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-10.39%) with negative half-year (-20.17%). |
-| Fresh setup quality | Poor / broken | -36.35% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-11.28%) with negative half-year (-23.55%). |
+| Fresh setup quality | Poor / broken | -36.90% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 15.09%, revenue growth 24.10%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 26.06, EV/Sales 8.05. |
-| Risk level | High | Beta 2.05, ATR 4.6% of price, short float 3.74%. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 25.84, EV/Sales 8.05. |
+| Risk level | High | Beta 2.05, ATR 4.5% of price, short float 3.74%. |
 
 **Bottom line:** Low technical momentum, strong fundamentals, value: fair-to-demanding, risk: high.
 
@@ -35,22 +35,22 @@ Vertiv Holdings Co designs, manufactures, and services critical digital infrastr
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $239.36; 52w high $376.06 (-36.35%); 52w low $149.73 (+59.86%) |
-| Trend | -10.39% vs SMA200, -7.77% vs SMA50, -2.85% vs SMA20 |
-| Momentum | RSI(14) 41.8 (neutral) |
-| Volatility | ATR(14) 10.91 (~4.6% of price); beta 2.05 |
-| Setup perspective | -36.35% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $237.29; 52w high $376.06 (-36.90%); 52w low $149.73 (+58.48%) |
+| Trend | -11.28% vs SMA200, -8.38% vs SMA50, -3.74% vs SMA20 |
+| Momentum | RSI(14) 40.6 (neutral) |
+| Volatility | ATR(14) 10.75 (~4.5% of price); beta 2.05 |
+| Setup perspective | -36.90% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -5.6% |
-| Month | -6.9% |
-| Quarter | -21.1% |
-| Half Y | -20.2% |
-| 1Y | +41.9% |
-| YTD | +36.4% |
+| Week | -6.3% |
+| Month | -0.0% |
+| Quarter | -22.1% |
+| Half Y | -23.5% |
+| 1Y | +40.5% |
+| YTD | +35.2% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -59,8 +59,8 @@ Vertiv Holdings Co designs, manufactures, and services critical digital infrastr
 | Revenue (ttm) | $11.48B | Revenue growth 24.10% y/y |
 | Profitability | Gross 38.04%, operating 20.36%, net 15.09% | ROA 10.89%, ROE 43.94% |
 | Balance sheet | Cash $3.11B, debt $3.34B | Current ratio 1.38, debt/equity 70.17 |
-| Valuation | P/E 54.15, forward P/E 26.06, P/S 8.03, P/B 19.37 | EV/Sales 8.05, EV/EBITDA 34.48 |
-| Growth expectations | Earnings growth 53.00%, EPS q/q 53.50% | Analyst mean target $337.43 (28 analysts) |
+| Valuation | P/E 53.69, forward P/E 25.84, P/S 7.96, P/B 19.20 | EV/Sales 8.05, EV/EBITDA 34.48 |
+| Growth expectations | Earnings growth 53.00%, EPS q/q 53.50% | Analyst mean target $335.64 (28 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
@@ -86,8 +86,8 @@ Vertiv Holdings Co designs, manufactures, and services critical digital infrastr
 | Invesco Ltd. | 5,537,463 | 1.44% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 26.06, EV/Sales 8.05. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 2.05, ATR 4.6% of price, short float 3.74%. Size positions accordingly.
+- **Valuation risk:** Forward P/E 25.84, EV/Sales 8.05. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 2.05, ATR 4.5% of price, short float 3.74%. Size positions accordingly.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -103,21 +103,21 @@ Vertiv Holdings Co designs, manufactures, and services critical digital infrastr
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $239.36 | EV/Sales | 8.05 |
-| Market cap | $92.15B | EV/EBITDA | 34.48 |
+| Price | $237.29 | EV/Sales | 8.05 |
+| Market cap | $91.35B | EV/EBITDA | 34.48 |
 | Beta | 2.05 | Gross margin | 38.04% |
-| RSI(14) | 41.8 | Operating margin | 20.36% |
-| ATR(14) | 10.91 | Profit margin | 15.09% |
-| SMA20 dist | -2.85% | ROA | 10.89% |
-| SMA50 dist | -7.77% | ROE | 43.94% |
-| SMA200 dist | -10.39% | Revenue (ttm) | $11.48B |
+| RSI(14) | 40.6 | Operating margin | 20.36% |
+| ATR(14) | 10.75 | Profit margin | 15.09% |
+| SMA20 dist | -3.74% | ROA | 10.89% |
+| SMA50 dist | -8.38% | ROE | 43.94% |
+| SMA200 dist | -11.28% | Revenue (ttm) | $11.48B |
 | 52W high | $376.06 | Revenue growth y/y | 24.10% |
 | 52W low | $149.73 | Inst. ownership | 84.63% |
-| P/E (ttm) | 54.15 | Insider ownership | 0.24% |
-| Forward P/E | 26.06 | Short float | 3.74% |
+| P/E (ttm) | 53.69 | Insider ownership | 0.24% |
+| Forward P/E | 25.84 | Short float | 3.74% |
 | PEG (trailing) | 0.84 | Avg volume | 5,235,579 |
-| P/S | 8.03 | Employees | 34,000 |
-| P/B | 19.37 | Analyst rec (1=buy..5=sell) | 1.4 |
+| P/S | 7.96 | Employees | 34,000 |
+| P/B | 19.20 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

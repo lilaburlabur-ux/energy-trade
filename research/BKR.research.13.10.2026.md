@@ -4,8 +4,8 @@ Signed file: `BKR.research.13.10.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $56.18 (2026-10-13, ~15-min delayed) |
-| Market cap | $55.77B |
+| Current price | $56.45 (2026-10-13, ~15-min delayed) |
+| Market cap | $56.04B |
 | Sector / Industry | Energy / Oil & Gas Equipment & Services |
 | Main theme | Oil & Gas Equipment & Services — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `BKR.research.13.10.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-5.44%) with negative half-year (-9.57%). |
-| Fresh setup quality | Moderate / wait | -18.80% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-5.07%) with negative half-year (-7.55%). |
+| Fresh setup quality | Moderate / wait | -18.41% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 11.17%, revenue growth -2.40%. |
-| Value attractiveness | Reasonable | Forward P/E 19.01, EV/Sales 1.99. |
-| Risk level | Moderate | Beta 1.03, ATR 2.8% of price, short float 2.77%. |
+| Value attractiveness | Reasonable | Forward P/E 19.10, EV/Sales 1.99. |
+| Risk level | Moderate | Beta 1.03, ATR 2.7% of price, short float 2.77%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
@@ -35,22 +35,22 @@ Baker Hughes Company provides a portfolio of technologies and services to energy
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $56.18; 52w high $69.18 (-18.80%); 52w low $43.79 (+28.31%) |
-| Trend | -5.44% vs SMA200, -6.80% vs SMA50, -0.90% vs SMA20 |
-| Momentum | RSI(14) 42.4 (neutral) |
-| Volatility | ATR(14) 1.55 (~2.8% of price); beta 1.03 |
-| Setup perspective | -18.80% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $56.45; 52w high $69.18 (-18.41%); 52w low $43.79 (+28.92%) |
+| Trend | -5.07% vs SMA200, -6.22% vs SMA50, -0.40% vs SMA20 |
+| Momentum | RSI(14) 43.9 (neutral) |
+| Volatility | ATR(14) 1.51 (~2.7% of price); beta 1.03 |
+| Setup perspective | -18.41% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -2.1% |
-| Month | -4.9% |
-| Quarter | -2.4% |
-| Half Y | -9.6% |
-| 1Y | +19.1% |
-| YTD | +20.5% |
+| Week | -1.2% |
+| Month | -0.6% |
+| Quarter | -1.0% |
+| Half Y | -7.6% |
+| 1Y | +27.3% |
+| YTD | +21.0% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -59,13 +59,13 @@ Baker Hughes Company provides a portfolio of technologies and services to energy
 | Revenue (ttm) | $27.73B | Revenue growth -2.40% y/y |
 | Profitability | Gross 23.66%, operating 12.83%, net 11.17% | ROA 4.85%, ROE 16.46% |
 | Balance sheet | Cash $17.02B, debt $16.25B | Current ratio 2.10, debt/equity 80.92 |
-| Valuation | P/E 18.06, forward P/E 19.01, P/S 2.01, P/B 2.80 | EV/Sales 1.99, EV/EBITDA 11.40 |
+| Valuation | P/E 18.15, forward P/E 19.10, P/S 2.02, P/B 2.81 | EV/Sales 1.99, EV/EBITDA 11.40 |
 | Growth expectations | Earnings growth -4.20%, EPS q/q -2.90% | Analyst mean target $71.17 (24 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 99.90% |
+| Institutional ownership | 99.91% |
 | Insider ownership | 0.15% |
 | Short float | 2.77% |
 | Short ratio (days to cover) | 2.9 |
@@ -100,21 +100,21 @@ Baker Hughes Company provides a portfolio of technologies and services to energy
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $56.18 | EV/Sales | 1.99 |
-| Market cap | $55.77B | EV/EBITDA | 11.40 |
+| Price | $56.45 | EV/Sales | 1.99 |
+| Market cap | $56.04B | EV/EBITDA | 11.40 |
 | Beta | 1.03 | Gross margin | 23.66% |
-| RSI(14) | 42.4 | Operating margin | 12.83% |
-| ATR(14) | 1.55 | Profit margin | 11.17% |
-| SMA20 dist | -0.90% | ROA | 4.85% |
-| SMA50 dist | -6.80% | ROE | 16.46% |
-| SMA200 dist | -5.44% | Revenue (ttm) | $27.73B |
+| RSI(14) | 43.9 | Operating margin | 12.83% |
+| ATR(14) | 1.51 | Profit margin | 11.17% |
+| SMA20 dist | -0.40% | ROA | 4.85% |
+| SMA50 dist | -6.22% | ROE | 16.46% |
+| SMA200 dist | -5.07% | Revenue (ttm) | $27.73B |
 | 52W high | $69.18 | Revenue growth y/y | -2.40% |
-| 52W low | $43.79 | Inst. ownership | 99.90% |
-| P/E (ttm) | 18.06 | Insider ownership | 0.15% |
-| Forward P/E | 19.01 | Short float | 2.77% |
+| 52W low | $43.79 | Inst. ownership | 99.91% |
+| P/E (ttm) | 18.15 | Insider ownership | 0.15% |
+| Forward P/E | 19.10 | Short float | 2.77% |
 | PEG (trailing) | 1.62 | Avg volume | 7,708,693 |
-| P/S | 2.01 | Employees | 54,000 |
-| P/B | 2.80 | Analyst rec (1=buy..5=sell) | 1.7 |
+| P/S | 2.02 | Employees | 54,000 |
+| P/B | 2.81 | Analyst rec (1=buy..5=sell) | 1.7 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

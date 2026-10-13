@@ -4,24 +4,24 @@ Signed file: `D.research.13.10.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $62.45 (2026-10-13, ~15-min delayed) |
-| Market cap | $54.93B |
+| Current price | $62.30 (2026-10-13, ~15-min delayed) |
+| Market cap | $54.79B |
 | Sector / Industry | Utilities / Utilities - Regulated Electric |
 | Main theme | Utilities - Regulated Electric — see catalysts below |
-| Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
+| Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-10-13.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +8.06%; price -1.51% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -12.01% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-1.79%) with negative half-year (-0.24%). |
+| Fresh setup quality | Moderate / wait | -12.22% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 13.98%, revenue growth 17.60%. |
-| Value attractiveness | Reasonable | Forward P/E 16.36, EV/Sales 6.30. |
-| Risk level | Moderate | Beta 0.62, ATR 1.6% of price, short float 2.84%. |
+| Value attractiveness | Reasonable | Forward P/E 16.33, EV/Sales 6.30. |
+| Risk level | Moderate | Beta 0.62, ATR 1.7% of price, short float 2.84%. |
 
-**Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
+**Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -35,22 +35,22 @@ Dominion Energy, Inc. provides regulated electricity and natural gas services in
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $62.45; 52w high $70.97 (-12.01%); 52w low $55.36 (+12.81%) |
-| Trend | -1.51% vs SMA200, -3.33% vs SMA50, +1.00% vs SMA20 |
-| Momentum | RSI(14) 48.1 (neutral) |
-| Volatility | ATR(14) 1.01 (~1.6% of price); beta 0.62 |
-| Setup perspective | -12.01% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $62.30; 52w high $70.97 (-12.22%); 52w low $55.36 (+12.54%) |
+| Trend | -1.79% vs SMA200, -3.39% vs SMA50, +0.88% vs SMA20 |
+| Momentum | RSI(14) 47.0 (neutral) |
+| Volatility | ATR(14) 1.04 (~1.7% of price); beta 0.62 |
+| Setup perspective | -12.22% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +2.3% |
-| Month | -3.0% |
-| Quarter | -11.5% |
-| Half Y | +1.2% |
-| 1Y | +8.1% |
-| YTD | +8.7% |
+| Week | +0.5% |
+| Month | -3.4% |
+| Quarter | -11.3% |
+| Half Y | -0.2% |
+| 1Y | +6.5% |
+| YTD | +8.4% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -59,13 +59,13 @@ Dominion Energy, Inc. provides regulated electricity and natural gas services in
 | Revenue (ttm) | $18.12B | Revenue growth 17.60% y/y |
 | Profitability | Gross 46.22%, operating 29.22%, net 13.98% | ROA 3.04%, ROE 8.28% |
 | Balance sheet | Cash $298.00M, debt $53.93B | Current ratio 0.81, debt/equity 160.46 |
-| Valuation | P/E 21.61, forward P/E 16.36, P/S 3.03, P/B 1.97 | EV/Sales 6.30, EV/EBITDA 13.70 |
+| Valuation | P/E 21.56, forward P/E 16.33, P/S 3.02, P/B 1.96 | EV/Sales 6.30, EV/EBITDA 13.70 |
 | Growth expectations | Earnings growth -58.00%, EPS q/q -55.30% | Analyst mean target $71.58 (12 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 82.95% |
+| Institutional ownership | 82.96% |
 | Insider ownership | 0.13% |
 | Short float | 2.84% |
 | Short ratio (days to cover) | 4.9 |
@@ -100,21 +100,21 @@ Dominion Energy, Inc. provides regulated electricity and natural gas services in
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $62.45 | EV/Sales | 6.30 |
-| Market cap | $54.93B | EV/EBITDA | 13.70 |
+| Price | $62.30 | EV/Sales | 6.30 |
+| Market cap | $54.79B | EV/EBITDA | 13.70 |
 | Beta | 0.62 | Gross margin | 46.22% |
-| RSI(14) | 48.1 | Operating margin | 29.22% |
-| ATR(14) | 1.01 | Profit margin | 13.98% |
-| SMA20 dist | +1.00% | ROA | 3.04% |
-| SMA50 dist | -3.33% | ROE | 8.28% |
-| SMA200 dist | -1.51% | Revenue (ttm) | $18.12B |
+| RSI(14) | 47.0 | Operating margin | 29.22% |
+| ATR(14) | 1.04 | Profit margin | 13.98% |
+| SMA20 dist | +0.88% | ROA | 3.04% |
+| SMA50 dist | -3.39% | ROE | 8.28% |
+| SMA200 dist | -1.79% | Revenue (ttm) | $18.12B |
 | 52W high | $70.97 | Revenue growth y/y | 17.60% |
-| 52W low | $55.36 | Inst. ownership | 82.95% |
-| P/E (ttm) | 21.61 | Insider ownership | 0.13% |
-| Forward P/E | 16.36 | Short float | 2.84% |
+| 52W low | $55.36 | Inst. ownership | 82.96% |
+| P/E (ttm) | 21.56 | Insider ownership | 0.13% |
+| Forward P/E | 16.33 | Short float | 2.84% |
 | PEG (trailing) | 2.38 | Avg volume | 4,173,462 |
-| P/S | 3.03 | Employees | 15,200 |
-| P/B | 1.97 | Analyst rec (1=buy..5=sell) | 2.5 |
+| P/S | 3.02 | Employees | 15,200 |
+| P/B | 1.96 | Analyst rec (1=buy..5=sell) | 2.5 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
@@ -129,7 +129,7 @@ Dominion Energy, Inc. provides regulated electricity and natural gas services in
 | 2026-06-23 | main | Barclays | Overweight → Overweight |
 
 ## 9. Conclusion
-D: Moderate momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+D: Low momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

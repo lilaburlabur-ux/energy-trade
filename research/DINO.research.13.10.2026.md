@@ -4,8 +4,8 @@ Signed file: `DINO.research.13.10.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $122.91 (2026-10-13, ~15-min delayed) |
-| Market cap | $21.85B |
+| Current price | $128.23 (2026-10-13, ~15-min delayed) |
+| Market cap | $22.80B |
 | Sector / Industry | Energy / Oil & Gas Refining & Marketing |
 | Main theme | Oil & Gas Refining & Marketing — see catalysts below |
 | Current stance | High technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
@@ -15,11 +15,11 @@ Signed file: `DINO.research.13.10.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +142.49%; price +69.16% vs SMA200. |
+| Technical momentum | High | 1Y +161.74%; price +75.48% vs SMA200. |
 | Fresh setup quality | Moderate / wait | +0.00% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 6.13%, revenue growth 53.20%. |
-| Value attractiveness | Reasonable | Forward P/E 8.54, EV/Sales 0.74. |
-| Risk level | Elevated | Beta 0.71, ATR 3.6% of price, short float 4.42%. |
+| Value attractiveness | Reasonable | Forward P/E 8.91, EV/Sales 0.74. |
+| Risk level | Elevated | Beta 0.71, ATR 3.5% of price, short float 4.42%. |
 
 **Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
 
@@ -35,22 +35,22 @@ HF Sinclair Corporation operates as an independent energy company in the United 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $122.91; 52w high $122.91 (+0.00%); 52w low $44.83 (+174.17%) |
-| Trend | +69.16% vs SMA200, +19.72% vs SMA50, +9.30% vs SMA20 |
-| Momentum | RSI(14) 76.0 (overbought) |
-| Volatility | ATR(14) 4.45 (~3.6% of price); beta 0.71 |
+| Price vs 52-week range | Close $128.23; 52w high $128.23 (+0.00%); 52w low $44.83 (+186.04%) |
+| Trend | +75.48% vs SMA200, +23.93% vs SMA50, +13.23% vs SMA20 |
+| Momentum | RSI(14) 80.4 (overbought) |
+| Volatility | ATR(14) 4.53 (~3.5% of price); beta 0.71 |
 | Setup perspective | +0.00% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +6.7% |
-| Month | +14.0% |
-| Quarter | +48.8% |
-| Half Y | +112.7% |
-| 1Y | +142.5% |
-| YTD | +168.5% |
+| Week | +11.9% |
+| Month | +19.9% |
+| Quarter | +53.7% |
+| Half Y | +127.3% |
+| 1Y | +161.7% |
+| YTD | +180.1% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -59,8 +59,8 @@ HF Sinclair Corporation operates as an independent energy company in the United 
 | Revenue (ttm) | $31.23B | Revenue growth 53.20% y/y |
 | Profitability | Gross 12.89%, operating 11.69%, net 6.13% | ROA 9.16%, ROE 19.50% |
 | Balance sheet | Cash $2.26B, debt $3.34B | Current ratio 1.97, debt/equity 32.26 |
-| Valuation | P/E 11.71, forward P/E 8.54, P/S 0.70, P/B 2.12 | EV/Sales 0.74, EV/EBITDA 7.17 |
-| Growth expectations | Earnings growth 350.20%, EPS q/q 328.80% | Analyst mean target $113.00 (15 analysts) |
+| Valuation | P/E 12.21, forward P/E 8.91, P/S 0.73, P/B 2.22 | EV/Sales 0.74, EV/EBITDA 7.17 |
+| Growth expectations | Earnings growth 350.20%, EPS q/q 328.80% | Analyst mean target $114.00 (15 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
@@ -86,7 +86,7 @@ HF Sinclair Corporation operates as an independent energy company in the United 
 | Citadel Advisors Llc | 4,263,228 | 2.40% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 0.71, ATR 3.6% of price, short float 4.42%. Size positions accordingly.
+- **Volatility risk:** Beta 0.71, ATR 3.5% of price, short float 4.42%. Size positions accordingly.
 - **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -102,21 +102,21 @@ HF Sinclair Corporation operates as an independent energy company in the United 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $122.91 | EV/Sales | 0.74 |
-| Market cap | $21.85B | EV/EBITDA | 7.17 |
+| Price | $128.23 | EV/Sales | 0.74 |
+| Market cap | $22.80B | EV/EBITDA | 7.17 |
 | Beta | 0.71 | Gross margin | 12.89% |
-| RSI(14) | 76.0 | Operating margin | 11.69% |
-| ATR(14) | 4.45 | Profit margin | 6.13% |
-| SMA20 dist | +9.30% | ROA | 9.16% |
-| SMA50 dist | +19.72% | ROE | 19.50% |
-| SMA200 dist | +69.16% | Revenue (ttm) | $31.23B |
-| 52W high | $122.91 | Revenue growth y/y | 53.20% |
+| RSI(14) | 80.4 | Operating margin | 11.69% |
+| ATR(14) | 4.53 | Profit margin | 6.13% |
+| SMA20 dist | +13.23% | ROA | 9.16% |
+| SMA50 dist | +23.93% | ROE | 19.50% |
+| SMA200 dist | +75.48% | Revenue (ttm) | $31.23B |
+| 52W high | $128.23 | Revenue growth y/y | 53.20% |
 | 52W low | $44.83 | Inst. ownership | 88.98% |
-| P/E (ttm) | 11.71 | Insider ownership | 5.49% |
-| Forward P/E | 8.54 | Short float | 4.42% |
+| P/E (ttm) | 12.21 | Insider ownership | 5.49% |
+| Forward P/E | 8.91 | Short float | 4.42% |
 | PEG (trailing) | 1.13 | Avg volume | 2,753,650 |
-| P/S | 0.70 | Employees | 5,165 |
-| P/B | 2.12 | Analyst rec (1=buy..5=sell) | 2.6 |
+| P/S | 0.73 | Employees | 5,165 |
+| P/B | 2.22 | Analyst rec (1=buy..5=sell) | 2.6 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

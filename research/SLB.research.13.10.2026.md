@@ -15,11 +15,11 @@ Signed file: `SLB.research.13.10.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-3.25%) with negative half-year (-5.08%). |
+| Technical momentum | Low | Below SMA200 (-3.36%) with negative half-year (-4.29%). |
 | Fresh setup quality | Moderate / wait | -18.43% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 8.53%, revenue growth 5.00%. |
 | Value attractiveness | Reasonable | Forward P/E 15.21, EV/Sales 2.26. |
-| Risk level | Elevated | Beta 0.84, ATR 3.2% of price, short float 4.65%. |
+| Risk level | Elevated | Beta 0.84, ATR 3.1% of price, short float 4.65%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
 
@@ -35,21 +35,21 @@ SLB N.V. engages in the provision of technology for the energy industry worldwid
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $48.77; 52w high $59.79 (-18.43%); 52w low $30.96 (+57.51%) |
-| Trend | -3.25% vs SMA200, -7.40% vs SMA50, -3.51% vs SMA20 |
+| Price vs 52-week range | Close $48.77; 52w high $59.79 (-18.43%); 52w low $31.50 (+54.83%) |
+| Trend | -3.36% vs SMA200, -7.39% vs SMA50, -2.98% vs SMA20 |
 | Momentum | RSI(14) 38.6 (neutral) |
-| Volatility | ATR(14) 1.56 (~3.2% of price); beta 0.84 |
+| Volatility | ATR(14) 1.53 (~3.1% of price); beta 0.84 |
 | Setup perspective | -18.43% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -3.0% |
-| Month | -13.0% |
+| Week | -2.5% |
+| Month | -8.5% |
 | Quarter | +3.1% |
-| Half Y | -5.1% |
-| 1Y | +50.8% |
+| Half Y | -4.3% |
+| 1Y | +57.5% |
 | YTD | +23.3% |
 
 ## 4. Fundamental Analysis
@@ -65,7 +65,7 @@ SLB N.V. engages in the provision of technology for the energy industry worldwid
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 92.63% |
+| Institutional ownership | 92.64% |
 | Insider ownership | 0.22% |
 | Short float | 4.65% |
 | Short ratio (days to cover) | 4.0 |
@@ -86,7 +86,7 @@ SLB N.V. engages in the provision of technology for the energy industry worldwid
 | UBS Group AG | 31,447,572 | 2.12% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 0.84, ATR 3.2% of price, short float 4.65%. Size positions accordingly.
+- **Volatility risk:** Beta 0.84, ATR 3.1% of price, short float 4.65%. Size positions accordingly.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -105,12 +105,12 @@ SLB N.V. engages in the provision of technology for the energy industry worldwid
 | Market cap | $72.38B | EV/EBITDA | 11.14 |
 | Beta | 0.84 | Gross margin | 16.99% |
 | RSI(14) | 38.6 | Operating margin | 12.71% |
-| ATR(14) | 1.56 | Profit margin | 8.53% |
-| SMA20 dist | -3.51% | ROA | 6.17% |
-| SMA50 dist | -7.40% | ROE | 12.91% |
-| SMA200 dist | -3.25% | Revenue (ttm) | $36.37B |
+| ATR(14) | 1.53 | Profit margin | 8.53% |
+| SMA20 dist | -2.98% | ROA | 6.17% |
+| SMA50 dist | -7.39% | ROE | 12.91% |
+| SMA200 dist | -3.36% | Revenue (ttm) | $36.37B |
 | 52W high | $59.79 | Revenue growth y/y | 5.00% |
-| 52W low | $30.96 | Inst. ownership | 92.63% |
+| 52W low | $31.50 | Inst. ownership | 92.64% |
 | P/E (ttm) | 23.56 | Insider ownership | 0.22% |
 | Forward P/E | 15.21 | Short float | 4.65% |
 | PEG (trailing) | 1.37 | Avg volume | 12,732,692 |

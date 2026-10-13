@@ -4,24 +4,24 @@ Signed file: `COP.research.13.10.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $137.56 (2026-10-13, ~15-min delayed) |
-| Market cap | $165.26B |
+| Current price | $140.90 (2026-10-13, ~15-min delayed) |
+| Market cap | $169.27B |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
-| Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
+| Current stance | High technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-10-13.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +54.32%; price +17.99% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -2.59% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +65.84%; price +20.59% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -0.23% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 14.40%, revenue growth 35.50%. |
-| Value attractiveness | Reasonable | Forward P/E 13.68, EV/Sales 2.81. |
-| Risk level | Moderate | Beta 0.24, ATR 2.4% of price, short float 1.28%. |
+| Value attractiveness | Reasonable | Forward P/E 14.02, EV/Sales 2.81. |
+| Risk level | Moderate | Beta 0.24, ATR 2.3% of price, short float 1.28%. |
 
-**Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
+**Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -35,22 +35,22 @@ ConocoPhillips explores for, produces, transports, and markets crude oil, bitume
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $137.56; 52w high $141.22 (-2.59%); 52w low $83.04 (+65.65%) |
-| Trend | +17.99% vs SMA200, +6.17% vs SMA50, +5.81% vs SMA20 |
-| Momentum | RSI(14) 65.3 (neutral) |
-| Volatility | ATR(14) 3.27 (~2.4% of price); beta 0.24 |
-| Setup perspective | -2.59% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $140.90; 52w high $141.22 (-0.23%); 52w low $83.04 (+69.67%) |
+| Trend | +20.59% vs SMA200, +8.38% vs SMA50, +8.39% vs SMA20 |
+| Momentum | RSI(14) 69.6 (neutral) |
+| Volatility | ATR(14) 3.29 (~2.3% of price); beta 0.24 |
+| Setup perspective | -0.23% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +7.1% |
-| Month | +0.2% |
-| Quarter | +23.8% |
-| Half Y | +12.9% |
-| 1Y | +54.3% |
-| YTD | +45.4% |
+| Week | +8.9% |
+| Month | +3.1% |
+| Quarter | +27.3% |
+| Half Y | +20.3% |
+| 1Y | +65.8% |
+| YTD | +48.9% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -59,13 +59,13 @@ ConocoPhillips explores for, produces, transports, and markets crude oil, bitume
 | Revenue (ttm) | $64.46B | Revenue growth 35.50% y/y |
 | Profitability | Gross 47.57%, operating 31.51%, net 14.40% | ROA 7.53%, ROE 14.18% |
 | Balance sheet | Cash $7.69B, debt $23.29B | Current ratio 1.54, debt/equity 35.64 |
-| Valuation | P/E 18.22, forward P/E 13.68, P/S 2.56, P/B 2.53 | EV/Sales 2.81, EV/EBITDA 6.75 |
+| Valuation | P/E 18.66, forward P/E 14.02, P/S 2.63, P/B 2.59 | EV/Sales 2.81, EV/EBITDA 6.75 |
 | Growth expectations | Earnings growth 107.00%, EPS q/q 99.40% | Analyst mean target $147.73 (26 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 87.03% |
+| Institutional ownership | 87.04% |
 | Insider ownership | 0.10% |
 | Short float | 1.28% |
 | Short ratio (days to cover) | 2.2 |
@@ -101,21 +101,21 @@ ConocoPhillips explores for, produces, transports, and markets crude oil, bitume
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $137.56 | EV/Sales | 2.81 |
-| Market cap | $165.26B | EV/EBITDA | 6.75 |
+| Price | $140.90 | EV/Sales | 2.81 |
+| Market cap | $169.27B | EV/EBITDA | 6.75 |
 | Beta | 0.24 | Gross margin | 47.57% |
-| RSI(14) | 65.3 | Operating margin | 31.51% |
-| ATR(14) | 3.27 | Profit margin | 14.40% |
-| SMA20 dist | +5.81% | ROA | 7.53% |
-| SMA50 dist | +6.17% | ROE | 14.18% |
-| SMA200 dist | +17.99% | Revenue (ttm) | $64.46B |
+| RSI(14) | 69.6 | Operating margin | 31.51% |
+| ATR(14) | 3.29 | Profit margin | 14.40% |
+| SMA20 dist | +8.39% | ROA | 7.53% |
+| SMA50 dist | +8.38% | ROE | 14.18% |
+| SMA200 dist | +20.59% | Revenue (ttm) | $64.46B |
 | 52W high | $141.22 | Revenue growth y/y | 35.50% |
-| 52W low | $83.04 | Inst. ownership | 87.03% |
-| P/E (ttm) | 18.22 | Insider ownership | 0.10% |
-| Forward P/E | 13.68 | Short float | 1.28% |
+| 52W low | $83.04 | Inst. ownership | 87.04% |
+| P/E (ttm) | 18.66 | Insider ownership | 0.10% |
+| Forward P/E | 14.02 | Short float | 1.28% |
 | PEG (trailing) | 1.08 | Avg volume | 6,510,015 |
-| P/S | 2.56 | Employees | 9,600 |
-| P/B | 2.53 | Analyst rec (1=buy..5=sell) | 1.8 |
+| P/S | 2.63 | Employees | 9,600 |
+| P/B | 2.59 | Analyst rec (1=buy..5=sell) | 1.8 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
@@ -130,7 +130,7 @@ ConocoPhillips explores for, produces, transports, and markets crude oil, bitume
 | 2026-08-12 | main | UBS | Buy → Buy |
 
 ## 9. Conclusion
-COP: Moderate momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+COP: High momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |
