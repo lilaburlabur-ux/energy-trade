@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-10-13T02:42:48+00:00",
-  "as_of_local": "2026-10-13 02:42:48 UTC",
+  "as_of_utc": "2026-10-13T02:47:51+00:00",
+  "as_of_local": "2026-10-13 02:47:51 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "UEC"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -529,6 +527,15 @@
       "headlines": []
     },
     {
+      "symbol": "UEC",
+      "name": "Uranium Energy Corp",
+      "price": 8.83,
+      "previous_close": 9.19,
+      "change_pct": -3.92,
+      "market_cap": 4376012554.139891,
+      "headlines": []
+    },
+    {
       "symbol": "ENPH",
       "name": "Enphase Energy",
       "price": 31.49,
@@ -816,18 +823,18 @@
     },
     {
       "label": "WTI",
-      "price": 92.58,
-      "change_pct": 0.79
+      "price": 92.65,
+      "change_pct": 0.87
     },
     {
       "label": "Brent",
-      "price": 105.43,
-      "change_pct": 0.68
+      "price": 105.51,
+      "change_pct": 0.75
     },
     {
       "label": "NatGas",
       "price": 3.16,
-      "change_pct": -1.8
+      "change_pct": -1.86
     }
   ]
 }
