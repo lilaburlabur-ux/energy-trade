@@ -119,6 +119,7 @@ TechnipFMC plc engages in the oil and natural gas projects, technologies, system
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-10-13 | init | UBS | — → Buy |
 | 2026-09-15 | main | Citigroup | Buy → Buy |
 | 2026-07-08 | main | Susquehanna | Positive → Positive |
 | 2026-06-18 | main | Citigroup | Buy → Buy |
@@ -126,7 +127,6 @@ TechnipFMC plc engages in the oil and natural gas projects, technologies, system
 | 2026-05-01 | main | RBC Capital | Outperform → Outperform |
 | 2026-05-01 | main | Barclays | Overweight → Overweight |
 | 2026-05-01 | main | Evercore ISI Group | Outperform → Outperform |
-| 2026-05-01 | main | Susquehanna | Positive → Positive |
 
 ## 9. Conclusion
 FTI: High momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

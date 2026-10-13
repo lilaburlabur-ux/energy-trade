@@ -60,7 +60,7 @@ BWX Technologies, Inc. manufactures and sells nuclear components in the United S
 | Profitability | Gross 22.08%, operating 10.39%, net 10.11% | ROA 5.53%, ROE 28.29% |
 | Balance sheet | Cash $608.20M, debt $2.02B | Current ratio 2.40, debt/equity 151.40 |
 | Valuation | P/E 35.97, forward P/E 26.55, P/S 3.62, P/B 9.53 | EV/Sales 4.05, EV/EBITDA 29.87 |
-| Growth expectations | Earnings growth 14.10%, EPS q/q 13.60% | Analyst mean target $215.51 (16 analysts) |
+| Growth expectations | Earnings growth 14.10%, EPS q/q 13.60% | Analyst mean target $209.44 (16 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
