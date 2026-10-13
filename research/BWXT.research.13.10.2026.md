@@ -115,7 +115,7 @@ BWX Technologies, Inc. manufactures and sells nuclear components in the United S
 | 52W low | $134.35 | Inst. ownership | 94.72% |
 | P/E (ttm) | 36.25 | Insider ownership | 0.35% |
 | Forward P/E | 26.75 | Short float | 4.52% |
-| PEG (trailing) | — | Avg volume | 1,102,243 |
+| PEG (trailing) | — | Avg volume | 1,100,885 |
 | P/S | 3.65 | Employees | 11,000 |
 | P/B | 9.61 | Analyst rec (1=buy..5=sell) | 1.6 |
 

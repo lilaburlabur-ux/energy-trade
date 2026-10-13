@@ -113,7 +113,7 @@ SLB N.V. engages in the provision of technology for the energy industry worldwid
 | 52W low | $30.96 | Inst. ownership | 92.63% |
 | P/E (ttm) | 23.56 | Insider ownership | 0.22% |
 | Forward P/E | 15.21 | Short float | 4.65% |
-| PEG (trailing) | 1.37 | Avg volume | 12,660,383 |
+| PEG (trailing) | 1.37 | Avg volume | 12,732,692 |
 | P/S | 1.99 | Employees | 109,000 |
 | P/B | 2.78 | Analyst rec (1=buy..5=sell) | 1.6 |
 

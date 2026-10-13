@@ -115,7 +115,7 @@ Talen Energy Corporation, an independent power producer and infrastructure compa
 | 52W low | $282.15 | Inst. ownership | 102.81% |
 | P/E (ttm) | — | Insider ownership | 1.38% |
 | Forward P/E | 12.35 | Short float | 5.94% |
-| PEG (trailing) | — | Avg volume | 891,870 |
+| PEG (trailing) | — | Avg volume | 897,192 |
 | P/S | 4.80 | Employees | 1,880 |
 | P/B | 11.26 | Analyst rec (1=buy..5=sell) | 1.6 |
 

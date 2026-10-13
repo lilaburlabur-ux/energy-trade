@@ -114,7 +114,7 @@ Targa Resources Corp., together with its subsidiaries, owns, operates, acquires,
 | 52W low | $143.22 | Inst. ownership | 97.47% |
 | P/E (ttm) | 27.78 | Insider ownership | 1.38% |
 | Forward P/E | 24.13 | Short float | 2.90% |
-| PEG (trailing) | — | Avg volume | 1,187,030 |
+| PEG (trailing) | — | Avg volume | 1,188,589 |
 | P/S | 3.72 | Employees | 3,570 |
 | P/B | 17.04 | Analyst rec (1=buy..5=sell) | 1.4 |
 

@@ -113,7 +113,7 @@ Cheniere Energy, Inc., an energy infrastructure company, primarily engages in th
 | 52W low | $187.49 | Inst. ownership | 91.50% |
 | P/E (ttm) | 21.38 | Insider ownership | 0.63% |
 | Forward P/E | 13.58 | Short float | 2.30% |
-| PEG (trailing) | — | Avg volume | 1,821,887 |
+| PEG (trailing) | — | Avg volume | 1,821,784 |
 | P/S | 2.79 | Employees | 1,717 |
 | P/B | 9.49 | Analyst rec (1=buy..5=sell) | 1.4 |
 

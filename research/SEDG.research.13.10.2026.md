@@ -117,7 +117,7 @@ SolarEdge Technologies, Inc., together with its subsidiaries, operates as an ene
 | 52W low | $28.47 | Inst. ownership | 101.61% |
 | P/E (ttm) | — | Insider ownership | 1.12% |
 | Forward P/E | 39.02 | Short float | 21.02% |
-| PEG (trailing) | — | Avg volume | 3,071,835 |
+| PEG (trailing) | — | Avg volume | 3,100,664 |
 | P/S | 1.45 | Employees | 3,576 |
 | P/B | 4.70 | Analyst rec (1=buy..5=sell) | 3.1 |
 

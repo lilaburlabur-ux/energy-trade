@@ -60,7 +60,7 @@ TechnipFMC plc engages in the oil and natural gas projects, technologies, system
 | Profitability | Gross 22.97%, operating 17.69%, net 11.28% | ROA 9.53%, ROE 35.81% |
 | Balance sheet | Cash $991.80M, debt $1.24B | Current ratio 1.08, debt/equity 37.90 |
 | Valuation | P/E 24.30, forward P/E 19.29, P/S 2.63, P/B 8.37 | EV/Sales 2.65, EV/EBITDA 13.92 |
-| Growth expectations | Earnings growth 40.60%, EPS q/q 34.60% | Analyst mean target $76.00 (21 analysts) |
+| Growth expectations | Earnings growth 40.60%, EPS q/q 34.60% | Analyst mean target $76.59 (22 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
@@ -112,9 +112,9 @@ TechnipFMC plc engages in the oil and natural gas projects, technologies, system
 | 52W low | $35.45 | Inst. ownership | 101.02% |
 | P/E (ttm) | 24.30 | Insider ownership | 1.36% |
 | Forward P/E | 19.29 | Short float | 3.45% |
-| PEG (trailing) | — | Avg volume | 2,966,350 |
+| PEG (trailing) | — | Avg volume | 2,959,596 |
 | P/S | 2.63 | Employees | 22,000 |
-| P/B | 8.37 | Analyst rec (1=buy..5=sell) | 2.0 |
+| P/B | 8.37 | Analyst rec (1=buy..5=sell) | 1.9 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

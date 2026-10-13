@@ -113,7 +113,7 @@ Ovintiv Inc., together with its subsidiaries, operates as an oil and natural gas
 | 52W low | $35.16 | Inst. ownership | 98.19% |
 | P/E (ttm) | 18.14 | Insider ownership | 0.47% |
 | Forward P/E | 8.75 | Short float | 4.27% |
-| PEG (trailing) | 3.94 | Avg volume | 3,364,152 |
+| PEG (trailing) | 3.94 | Avg volume | 3,348,889 |
 | P/S | 1.89 | Employees | 1,465 |
 | P/B | 1.57 | Analyst rec (1=buy..5=sell) | 1.6 |
 

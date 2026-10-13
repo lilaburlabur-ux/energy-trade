@@ -116,7 +116,7 @@ Array Technologies, Inc. engages in the manufacture and sale of solar tracking t
 | 52W low | $3.60 | Inst. ownership | 147.71% |
 | P/E (ttm) | — | Insider ownership | 0.79% |
 | Forward P/E | 3.87 | Short float | 31.44% |
-| PEG (trailing) | 0.40 | Avg volume | 6,674,572 |
+| PEG (trailing) | 0.40 | Avg volume | 6,685,490 |
 | P/S | 0.47 | Employees | 1,200 |
 | P/B | -2.74 | Analyst rec (1=buy..5=sell) | 2.2 |
 

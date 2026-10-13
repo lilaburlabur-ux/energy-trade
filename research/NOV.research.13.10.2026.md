@@ -114,7 +114,7 @@ NOV Inc. designs, constructs, manufactures, and sells systems, components, and p
 | 52W low | $12.04 | Inst. ownership | 108.45% |
 | P/E (ttm) | 69.96 | Insider ownership | 0.73% |
 | Forward P/E | 14.73 | Short float | 13.77% |
-| PEG (trailing) | 0.82 | Avg volume | 3,327,980 |
+| PEG (trailing) | 0.82 | Avg volume | 3,335,537 |
 | P/S | 0.78 | Employees | 31,605 |
 | P/B | 1.09 | Analyst rec (1=buy..5=sell) | 2.5 |
 

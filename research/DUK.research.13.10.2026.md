@@ -112,7 +112,7 @@ Duke Energy Corporation, through its subsidiaries, operates as an energy company
 | 52W low | $111.09 | Inst. ownership | 71.12% |
 | P/E (ttm) | 17.72 | Insider ownership | 0.13% |
 | Forward P/E | 16.41 | Short float | 2.54% |
-| PEG (trailing) | 2.13 | Avg volume | 4,092,206 |
+| PEG (trailing) | 2.13 | Avg volume | 4,119,240 |
 | P/S | 2.80 | Employees | 26,441 |
 | P/B | 1.71 | Analyst rec (1=buy..5=sell) | 2.0 |
 

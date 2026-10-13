@@ -113,7 +113,7 @@ Equinor ASA operates as an energy company in Norway and internationally. It oper
 | 52W low | $21.68 | Inst. ownership | 6.93% |
 | P/E (ttm) | 12.01 | Insider ownership | 0.00% |
 | Forward P/E | 9.13 | Short float | 2.65% |
-| PEG (trailing) | 1.12 | Avg volume | 3,560,856 |
+| PEG (trailing) | 1.12 | Avg volume | 3,529,318 |
 | P/S | 0.92 | Employees | 23,545 |
 | P/B | 4.96 | Analyst rec (1=buy..5=sell) | 3.0 |
 

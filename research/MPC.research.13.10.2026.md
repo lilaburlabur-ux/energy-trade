@@ -114,7 +114,7 @@ Marathon Petroleum Corporation, together with its subsidiaries, operates as an i
 | 52W low | $160.76 | Inst. ownership | 79.52% |
 | P/E (ttm) | 15.89 | Insider ownership | 0.33% |
 | Forward P/E | 8.80 | Short float | 2.91% |
-| PEG (trailing) | 0.90 | Avg volume | 2,520,861 |
+| PEG (trailing) | 0.90 | Avg volume | 2,526,715 |
 | P/S | 0.84 | Employees | 18,500 |
 | P/B | 6.81 | Analyst rec (1=buy..5=sell) | 2.4 |
 

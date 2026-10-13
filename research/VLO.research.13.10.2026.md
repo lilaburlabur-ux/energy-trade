@@ -114,7 +114,7 @@ Valero Energy Corporation manufactures, markets, and sells petroleum-based and l
 | 52W low | $153.14 | Inst. ownership | 87.07% |
 | P/E (ttm) | 18.17 | Insider ownership | 0.42% |
 | Forward P/E | 9.71 | Short float | 3.63% |
-| PEG (trailing) | 1.85 | Avg volume | 3,012,424 |
+| PEG (trailing) | 1.85 | Avg volume | 3,014,640 |
 | P/S | 0.95 | Employees | 9,785 |
 | P/B | 5.02 | Analyst rec (1=buy..5=sell) | 2.5 |
 

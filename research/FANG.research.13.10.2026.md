@@ -113,7 +113,7 @@ Diamondback Energy, Inc., an independent oil and natural gas company, acquires, 
 | 52W low | $134.06 | Inst. ownership | 73.38% |
 | P/E (ttm) | 37.16 | Insider ownership | 23.88% |
 | Forward P/E | 10.35 | Short float | 3.76% |
-| PEG (trailing) | 22.29 | Avg volume | 2,347,361 |
+| PEG (trailing) | 22.29 | Avg volume | 2,346,510 |
 | P/S | 3.36 | Employees | 1,762 |
 | P/B | 1.44 | Analyst rec (1=buy..5=sell) | 1.5 |
 

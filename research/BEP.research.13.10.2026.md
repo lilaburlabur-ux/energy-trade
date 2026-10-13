@@ -113,7 +113,7 @@ Brookfield Renewable Partners L.P. owns a portfolio of renewable power generatin
 | 52W low | $25.38 | Inst. ownership | 65.26% |
 | P/E (ttm) | — | Insider ownership | 0.04% |
 | Forward P/E | -15.64 | Short float | 0.31% |
-| PEG (trailing) | — | Avg volume | 1,016,064 |
+| PEG (trailing) | — | Avg volume | 1,015,346 |
 | P/S | 2.23 | Employees | 5,870 |
 | P/B | 2.33 | Analyst rec (1=buy..5=sell) | 2.3 |
 

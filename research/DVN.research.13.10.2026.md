@@ -113,7 +113,7 @@ Devon Energy Corporation, an independent energy company, engages in the explorat
 | 52W low | $30.95 | Inst. ownership | 94.95% |
 | P/E (ttm) | 10.67 | Insider ownership | 0.77% |
 | Forward P/E | 9.08 | Short float | 2.72% |
-| PEG (trailing) | 2.92 | Avg volume | 10,814,207 |
+| PEG (trailing) | 2.92 | Avg volume | 10,826,981 |
 | P/S | 2.87 | Employees | 2,200 |
 | P/B | 1.35 | Analyst rec (1=buy..5=sell) | 1.3 |
 

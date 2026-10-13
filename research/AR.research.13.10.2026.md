@@ -112,7 +112,7 @@ Antero Resources Corporation, an independent oil and natural gas company, engage
 | 52W low | $30.03 | Inst. ownership | 91.34% |
 | P/E (ttm) | 10.51 | Insider ownership | 4.41% |
 | Forward P/E | 8.33 | Short float | 4.49% |
-| PEG (trailing) | 0.45 | Avg volume | 4,091,960 |
+| PEG (trailing) | 0.45 | Avg volume | 4,069,296 |
 | P/S | 1.94 | Employees | 632 |
 | P/B | 1.36 | Analyst rec (1=buy..5=sell) | 1.8 |
 

@@ -115,7 +115,7 @@ APA Corporation, an independent energy company, explores for, develops, and prod
 | 52W low | $21.16 | Inst. ownership | 110.29% |
 | P/E (ttm) | 9.90 | Insider ownership | 0.44% |
 | Forward P/E | 10.08 | Short float | 9.60% |
-| PEG (trailing) | 1.18 | Avg volume | 5,594,726 |
+| PEG (trailing) | 1.18 | Avg volume | 5,578,268 |
 | P/S | 1.91 | Employees | 1,791 |
 | P/B | 2.34 | Analyst rec (1=buy..5=sell) | 2.6 |
 

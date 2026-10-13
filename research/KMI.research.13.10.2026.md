@@ -114,7 +114,7 @@ Kinder Morgan, Inc. operates as an energy infrastructure company primarily in No
 | 52W low | $24.86 | Inst. ownership | 70.84% |
 | P/E (ttm) | 21.34 | Insider ownership | 12.70% |
 | Forward P/E | 21.42 | Short float | 2.38% |
-| PEG (trailing) | 3.19 | Avg volume | 11,234,361 |
+| PEG (trailing) | 3.19 | Avg volume | 11,292,184 |
 | P/S | 4.10 | Employees | 11,028 |
 | P/B | 2.33 | Analyst rec (1=buy..5=sell) | 2.1 |
 

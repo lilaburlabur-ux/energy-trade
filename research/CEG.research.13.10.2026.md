@@ -115,7 +115,7 @@ Constellation Energy Corporation produces and sells energy products and services
 | 52W low | $236.14 | Inst. ownership | 82.97% |
 | P/E (ttm) | 28.73 | Insider ownership | 0.34% |
 | Forward P/E | 22.06 | Short float | 3.74% |
-| PEG (trailing) | — | Avg volume | 3,114,092 |
+| PEG (trailing) | — | Avg volume | 3,119,715 |
 | P/S | 3.33 | Employees | 15,291 |
 | P/B | 3.27 | Analyst rec (1=buy..5=sell) | 1.5 |
 

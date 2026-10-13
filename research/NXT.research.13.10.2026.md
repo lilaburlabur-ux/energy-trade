@@ -115,7 +115,7 @@ Nextpower Inc. provides solar and energy technology solutions for utility-scale 
 | 52W low | $77.93 | Inst. ownership | 107.99% |
 | P/E (ttm) | 21.93 | Insider ownership | 0.64% |
 | Forward P/E | 14.72 | Short float | 8.80% |
-| PEG (trailing) | 3.15 | Avg volume | 2,434,006 |
+| PEG (trailing) | 3.15 | Avg volume | 2,411,157 |
 | P/S | 3.59 | Employees | 1,993 |
 | P/B | 5.03 | Analyst rec (1=buy..5=sell) | 1.4 |
 

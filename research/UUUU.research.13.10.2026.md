@@ -116,9 +116,9 @@ Energy Fuels Inc., together with its subsidiaries, engages in the exploration, r
 | 52W low | $9.66 | Inst. ownership | 75.68% |
 | P/E (ttm) | — | Insider ownership | 1.16% |
 | Forward P/E | 19.92 | Short float | 21.43% |
-| PEG (trailing) | — | Avg volume | 7,172,280 |
+| PEG (trailing) | — | Avg volume | 7,166,771 |
 | P/S | 24.18 | Employees | 1,069 |
-| P/B | 3.05 | Analyst rec (1=buy..5=sell) | 1.1 |
+| P/B | 3.05 | Analyst rec (1=buy..5=sell) | — |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

@@ -113,7 +113,7 @@ ConocoPhillips explores for, produces, transports, and markets crude oil, bitume
 | 52W low | $83.04 | Inst. ownership | 87.03% |
 | P/E (ttm) | 18.22 | Insider ownership | 0.10% |
 | Forward P/E | 13.68 | Short float | 1.28% |
-| PEG (trailing) | 1.08 | Avg volume | 6,501,795 |
+| PEG (trailing) | 1.08 | Avg volume | 6,510,015 |
 | P/S | 2.56 | Employees | 9,600 |
 | P/B | 2.53 | Analyst rec (1=buy..5=sell) | 1.8 |
 

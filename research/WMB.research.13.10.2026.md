@@ -114,7 +114,7 @@ The Williams Companies, Inc., together with its subsidiaries, operates as an ene
 | 52W low | $54.84 | Inst. ownership | 91.49% |
 | P/E (ttm) | 29.55 | Insider ownership | 0.45% |
 | Forward P/E | 28.02 | Short float | 2.51% |
-| PEG (trailing) | 2.07 | Avg volume | 7,129,384 |
+| PEG (trailing) | 2.07 | Avg volume | 7,107,001 |
 | P/S | 7.36 | Employees | 5,987 |
 | P/B | 6.90 | Analyst rec (1=buy..5=sell) | 1.4 |
 

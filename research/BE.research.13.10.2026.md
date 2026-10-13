@@ -115,7 +115,7 @@ Bloom Energy Corporation designs, manufactures, sells, and installs solid oxide 
 | 52W low | $76.97 | Inst. ownership | 86.33% |
 | P/E (ttm) | 345.11 | Insider ownership | 5.54% |
 | Forward P/E | 53.24 | Short float | 8.11% |
-| PEG (trailing) | 0.62 | Avg volume | 15,427,107 |
+| PEG (trailing) | 0.62 | Avg volume | 15,510,834 |
 | P/S | 24.81 | Employees | 2,214 |
 | P/B | 47.73 | Analyst rec (1=buy..5=sell) | 2.2 |
 

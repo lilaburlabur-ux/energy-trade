@@ -113,7 +113,7 @@ ONEOK, Inc. operates as a midstream service provider of gathering, processing, f
 | 52W low | $61.95 | Inst. ownership | 84.65% |
 | P/E (ttm) | 15.89 | Insider ownership | 0.15% |
 | Forward P/E | 14.75 | Short float | 4.36% |
-| PEG (trailing) | 1.71 | Avg volume | 3,642,875 |
+| PEG (trailing) | 1.71 | Avg volume | 3,643,704 |
 | P/S | 1.47 | Employees | 6,326 |
 | P/B | 2.53 | Analyst rec (1=buy..5=sell) | 2.3 |
 

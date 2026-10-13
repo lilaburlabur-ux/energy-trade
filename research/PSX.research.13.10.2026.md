@@ -114,7 +114,7 @@ Phillips 66 operates as an integrated downstream energy provider in the United S
 | 52W low | $123.11 | Inst. ownership | 80.50% |
 | P/E (ttm) | 16.08 | Insider ownership | 0.21% |
 | Forward P/E | 10.01 | Short float | 1.59% |
-| PEG (trailing) | 0.82 | Avg volume | 2,824,429 |
+| PEG (trailing) | 0.82 | Avg volume | 2,820,246 |
 | P/S | 0.74 | Employees | 12,600 |
 | P/B | 3.56 | Analyst rec (1=buy..5=sell) | 2.2 |
 

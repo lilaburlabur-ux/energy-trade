@@ -115,7 +115,7 @@ First Solar, Inc., a solar technology company, provides photovoltaic (PV) solar 
 | 52W low | $172.11 | Inst. ownership | 96.74% |
 | P/E (ttm) | 11.08 | Insider ownership | 5.36% |
 | Forward P/E | 7.65 | Short float | 13.54% |
-| PEG (trailing) | 0.36 | Avg volume | 2,271,304 |
+| PEG (trailing) | 0.36 | Avg volume | 2,278,348 |
 | P/S | 3.59 | Employees | 7,900 |
 | P/B | 1.87 | Analyst rec (1=buy..5=sell) | 1.9 |
 

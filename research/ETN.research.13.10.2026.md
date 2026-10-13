@@ -115,7 +115,7 @@ Eaton Corporation plc operates as a power management company in the United State
 | 52W low | $313.20 | Inst. ownership | 87.85% |
 | P/E (ttm) | 43.41 | Insider ownership | 0.07% |
 | Forward P/E | 26.24 | Short float | 2.06% |
-| PEG (trailing) | 2.67 | Avg volume | 2,083,267 |
+| PEG (trailing) | 2.67 | Avg volume | 2,089,523 |
 | P/S | 5.52 | Employees | 97,303 |
 | P/B | 8.18 | Analyst rec (1=buy..5=sell) | 1.6 |
 

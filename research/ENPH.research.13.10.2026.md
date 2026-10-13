@@ -115,7 +115,7 @@ Enphase Energy, Inc., together with its subsidiaries, designs, develops, manufac
 | 52W low | $26.12 | Inst. ownership | 96.69% |
 | P/E (ttm) | 31.49 | Insider ownership | 3.03% |
 | Forward P/E | 14.41 | Short float | 25.61% |
-| PEG (trailing) | 0.75 | Avg volume | 4,412,850 |
+| PEG (trailing) | 0.75 | Avg volume | 4,434,407 |
 | P/S | 3.13 | Employees | 2,872 |
 | P/B | 3.52 | Analyst rec (1=buy..5=sell) | 2.3 |
 

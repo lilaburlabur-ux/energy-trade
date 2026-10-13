@@ -60,7 +60,7 @@ NexGen Energy Ltd., an exploration and development stage company, engages in the
 | Profitability | Gross 0.00%, operating 0.00%, net 0.00% | ROA -3.39%, ROE -17.67% |
 | Balance sheet | Cash $970.25M, debt $619.11M | Current ratio 1.46, debt/equity 33.57 |
 | Valuation | P/E —, forward P/E -68.96, P/S —, P/B 4.30 | EV/Sales —, EV/EBITDA -49.79 |
-| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $16.29 (2 analysts) |
+| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $16.30 (2 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
@@ -114,7 +114,7 @@ NexGen Energy Ltd., an exploration and development stage company, engages in the
 | 52W low | $7.56 | Inst. ownership | 56.05% |
 | P/E (ttm) | — | Insider ownership | 6.40% |
 | Forward P/E | -68.96 | Short float | — |
-| PEG (trailing) | — | Avg volume | 4,785,084 |
+| PEG (trailing) | — | Avg volume | 4,798,340 |
 | P/S | — | Employees | 142 |
 | P/B | 4.30 | Analyst rec (1=buy..5=sell) | 1.6 |
 

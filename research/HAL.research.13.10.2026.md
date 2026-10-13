@@ -113,7 +113,7 @@ Halliburton Company provides products and services to the energy industry worldw
 | 52W low | $21.39 | Inst. ownership | 90.59% |
 | P/E (ttm) | 17.16 | Insider ownership | 0.40% |
 | Forward P/E | 11.24 | Short float | 5.55% |
-| PEG (trailing) | 0.68 | Avg volume | 10,945,053 |
+| PEG (trailing) | 0.68 | Avg volume | 10,987,675 |
 | P/S | 1.21 | Employees | 46,000 |
 | P/B | 2.47 | Analyst rec (1=buy..5=sell) | 1.8 |
 

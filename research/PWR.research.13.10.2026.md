@@ -114,7 +114,7 @@ Quanta Services, Inc. offers infrastructure solutions for the electric and gas u
 | 52W low | $411.89 | Inst. ownership | 94.05% |
 | P/E (ttm) | 79.59 | Insider ownership | 0.67% |
 | Forward P/E | 35.14 | Short float | 2.44% |
-| PEG (trailing) | 1.45 | Avg volume | 1,008,700 |
+| PEG (trailing) | 1.45 | Avg volume | 1,012,634 |
 | P/S | 3.17 | Employees | 69,500 |
 | P/B | 10.83 | Analyst rec (1=buy..5=sell) | 1.5 |
 

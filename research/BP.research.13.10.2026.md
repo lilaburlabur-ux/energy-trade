@@ -113,7 +113,7 @@ BP p.l.c., an integrated energy company, engages in the oil and gas business wor
 | 52W low | $31.17 | Inst. ownership | 14.11% |
 | P/E (ttm) | 22.80 | Insider ownership | 0.00% |
 | Forward P/E | 8.76 | Short float | 0.23% |
-| PEG (trailing) | 0.06 | Avg volume | 8,773,336 |
+| PEG (trailing) | 0.06 | Avg volume | 8,749,485 |
 | P/S | 0.56 | Employees | 93,700 |
 | P/B | 8.28 | Analyst rec (1=buy..5=sell) | 2.2 |
 

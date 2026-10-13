@@ -113,7 +113,7 @@ Occidental Petroleum Corporation, together with its subsidiaries, engages in the
 | 52W low | $38.38 | Inst. ownership | 57.98% |
 | P/E (ttm) | 17.37 | Insider ownership | 26.81% |
 | Forward P/E | 14.96 | Short float | 3.04% |
-| PEG (trailing) | 1.13 | Avg volume | 8,459,581 |
+| PEG (trailing) | 1.13 | Avg volume | 8,390,759 |
 | P/S | 2.55 | Employees | 10,412 |
 | P/B | 1.83 | Analyst rec (1=buy..5=sell) | 2.2 |
 

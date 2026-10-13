@@ -112,7 +112,7 @@ Enterprise Products Partners L.P. provides midstream energy services to producer
 | 52W low | $28.35 | Inst. ownership | 25.63% |
 | P/E (ttm) | 12.47 | Insider ownership | 33.05% |
 | Forward P/E | 11.34 | Short float | 2.34% |
-| PEG (trailing) | 1.33 | Avg volume | 3,086,956 |
+| PEG (trailing) | 1.33 | Avg volume | 3,079,121 |
 | P/S | 1.33 | Employees | 0 |
 | P/B | 2.56 | Analyst rec (1=buy..5=sell) | 2.3 |
 

@@ -113,7 +113,7 @@ MPLX LP owns and operates midstream energy infrastructure and logistics assets p
 | 52W low | $44.22 | Inst. ownership | 19.71% |
 | P/E (ttm) | 12.22 | Insider ownership | 64.03% |
 | Forward P/E | 11.79 | Short float | 1.83% |
-| PEG (trailing) | 3.09 | Avg volume | 1,400,429 |
+| PEG (trailing) | 3.09 | Avg volume | 1,401,342 |
 | P/S | 4.79 | Employees | 0 |
 | P/B | 4.11 | Analyst rec (1=buy..5=sell) | 2.4 |
 

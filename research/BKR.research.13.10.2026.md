@@ -112,7 +112,7 @@ Baker Hughes Company provides a portfolio of technologies and services to energy
 | 52W low | $43.79 | Inst. ownership | 99.90% |
 | P/E (ttm) | 18.06 | Insider ownership | 0.15% |
 | Forward P/E | 19.01 | Short float | 2.77% |
-| PEG (trailing) | 1.62 | Avg volume | 7,684,227 |
+| PEG (trailing) | 1.62 | Avg volume | 7,708,693 |
 | P/S | 2.01 | Employees | 54,000 |
 | P/B | 2.80 | Analyst rec (1=buy..5=sell) | 1.7 |
 

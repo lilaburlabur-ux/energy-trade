@@ -114,7 +114,7 @@ NRG Energy, Inc., together with its subsidiaries, operates as an energy and home
 | 52W low | $95.23 | Inst. ownership | 95.61% |
 | P/E (ttm) | 27.85 | Insider ownership | 4.46% |
 | Forward P/E | 9.51 | Short float | 3.91% |
-| PEG (trailing) | 0.39 | Avg volume | 2,956,236 |
+| PEG (trailing) | 0.39 | Avg volume | 2,979,207 |
 | P/S | 0.68 | Employees | 16,702 |
 | P/B | 5.32 | Analyst rec (1=buy..5=sell) | 1.6 |
 
