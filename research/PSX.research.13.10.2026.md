@@ -5,7 +5,7 @@ Signed file: `PSX.research.13.10.2026`
 | Field | Value |
 |---|---|
 | Current price | $292.73 (2026-10-13, ~15-min delayed) |
-| Market cap | $117.37B |
+| Market cap | $116.81B |
 | Sector / Industry | Energy / Oil & Gas Refining & Marketing |
 | Main theme | Oil & Gas Refining & Marketing — see catalysts below |
 | Current stance | High technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
@@ -18,7 +18,7 @@ Signed file: `PSX.research.13.10.2026`
 | Technical momentum | High | 1Y +137.77%; price +55.96% vs SMA200. |
 | Fresh setup quality | Moderate / wait | +0.00% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 4.66%, revenue growth 53.10%. |
-| Value attractiveness | Reasonable | Forward P/E 9.94, EV/Sales 0.85. |
+| Value attractiveness | Reasonable | Forward P/E 9.94, EV/Sales 0.88. |
 | Risk level | Elevated | Beta 0.70, ATR 3.0% of price, short float 1.59%. |
 
 **Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
@@ -59,7 +59,7 @@ Phillips 66 operates as an integrated downstream energy provider in the United S
 | Revenue (ttm) | $152.17B | Revenue growth 53.10% y/y |
 | Profitability | Gross 13.10%, operating 8.53%, net 4.66% | ROA 6.04%, ROE 23.45% |
 | Balance sheet | Cash $4.10B, debt $20.57B | Current ratio 1.32, debt/equity 62.88 |
-| Valuation | P/E 16.73, forward P/E 9.94, P/S 0.77, P/B 3.71 | EV/Sales 0.85, EV/EBITDA 13.10 |
+| Valuation | P/E 16.73, forward P/E 9.94, P/S 0.77, P/B 3.71 | EV/Sales 0.88, EV/EBITDA 13.55 |
 | Growth expectations | Earnings growth 344.90%, EPS q/q 338.70% | Analyst mean target $276.32 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -102,8 +102,8 @@ Phillips 66 operates as an integrated downstream energy provider in the United S
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $292.73 | EV/Sales | 0.85 |
-| Market cap | $117.37B | EV/EBITDA | 13.10 |
+| Price | $292.73 | EV/Sales | 0.88 |
+| Market cap | $116.81B | EV/EBITDA | 13.55 |
 | Beta | 0.70 | Gross margin | 13.10% |
 | RSI(14) | 77.2 | Operating margin | 8.53% |
 | ATR(14) | 8.78 | Profit margin | 4.66% |
@@ -121,6 +121,7 @@ Phillips 66 operates as an integrated downstream energy provider in the United S
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-10-13 | main | Citigroup | Neutral → Neutral |
 | 2026-10-12 | main | Barclays | Equal-Weight → Equal-Weight |
 | 2026-10-12 | main | Evercore ISI Group | Outperform → Outperform |
 | 2026-10-08 | down | Mizuho | Outperform → Neutral |
@@ -128,7 +129,6 @@ Phillips 66 operates as an integrated downstream energy provider in the United S
 | 2026-09-30 | main | TD Cowen | Buy → Buy |
 | 2026-09-17 | main | BMO Capital | Outperform → Outperform |
 | 2026-09-14 | main | Raymond James | Outperform → Outperform |
-| 2026-09-14 | main | Morgan Stanley | Overweight → Overweight |
 
 ## 9. Conclusion
 PSX: High momentum / mixed fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

@@ -18,7 +18,7 @@ Signed file: `VLO.research.13.10.2026`
 | Technical momentum | High | 1Y +194.99%; price +70.06% vs SMA200. |
 | Fresh setup quality | Moderate / wait | +0.00% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 5.45%, revenue growth 51.70%. |
-| Value attractiveness | Reasonable | Forward P/E 9.77, EV/Sales 1.00. |
+| Value attractiveness | Reasonable | Forward P/E 9.77, EV/Sales 1.04. |
 | Risk level | Elevated | Beta 0.59, ATR 3.6% of price, short float 3.63%. |
 
 **Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
@@ -59,7 +59,7 @@ Valero Energy Corporation manufactures, markets, and sells petroleum-based and l
 | Revenue (ttm) | $132.43B | Revenue growth 51.70% y/y |
 | Profitability | Gross 16.12%, operating 12.27%, net 5.45% | ROA 10.56%, ROE 27.64% |
 | Balance sheet | Cash $7.87B, debt $11.35B | Current ratio 1.64, debt/equity 40.15 |
-| Valuation | P/E 19.03, forward P/E 9.77, P/S 0.99, P/B 5.26 | EV/Sales 1.00, EV/EBITDA 9.89 |
+| Valuation | P/E 19.03, forward P/E 9.77, P/S 0.99, P/B 5.26 | EV/Sales 1.04, EV/EBITDA 10.33 |
 | Growth expectations | Earnings growth 453.50%, EPS q/q 421.00% | Analyst mean target $401.53 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -102,8 +102,8 @@ Valero Energy Corporation manufactures, markets, and sells petroleum-based and l
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $456.46 | EV/Sales | 1.00 |
-| Market cap | $131.43B | EV/EBITDA | 9.89 |
+| Price | $456.46 | EV/Sales | 1.04 |
+| Market cap | $131.43B | EV/EBITDA | 10.33 |
 | Beta | 0.59 | Gross margin | 16.12% |
 | RSI(14) | 75.8 | Operating margin | 12.27% |
 | ATR(14) | 16.47 | Profit margin | 5.45% |
@@ -121,6 +121,7 @@ Valero Energy Corporation manufactures, markets, and sells petroleum-based and l
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-10-13 | main | Citigroup | Neutral → Neutral |
 | 2026-10-12 | main | Evercore ISI Group | In-Line → In-Line |
 | 2026-10-08 | main | Jefferies | Hold → Hold |
 | 2026-10-08 | main | Mizuho | Neutral → Neutral |
@@ -128,7 +129,6 @@ Valero Energy Corporation manufactures, markets, and sells petroleum-based and l
 | 2026-10-02 | main | B of A Securities | Neutral → Neutral |
 | 2026-09-23 | main | Goldman Sachs | Buy → Buy |
 | 2026-09-22 | down | Jefferies | Buy → Hold |
-| 2026-09-14 | main | Raymond James | Strong Buy → Strong Buy |
 
 ## 9. Conclusion
 VLO: High momentum / mixed fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

@@ -18,7 +18,7 @@ Signed file: `COP.research.13.10.2026`
 | Technical momentum | High | 1Y +65.84%; price +20.59% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -0.23% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 14.40%, revenue growth 35.50%. |
-| Value attractiveness | Reasonable | Forward P/E 14.02, EV/Sales 2.81. |
+| Value attractiveness | Reasonable | Forward P/E 14.02, EV/Sales 2.87. |
 | Risk level | Moderate | Beta 0.24, ATR 2.3% of price, short float 1.28%. |
 
 **Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -59,7 +59,7 @@ ConocoPhillips explores for, produces, transports, and markets crude oil, bitume
 | Revenue (ttm) | $64.46B | Revenue growth 35.50% y/y |
 | Profitability | Gross 47.57%, operating 31.51%, net 14.40% | ROA 7.53%, ROE 14.18% |
 | Balance sheet | Cash $7.69B, debt $23.29B | Current ratio 1.54, debt/equity 35.64 |
-| Valuation | P/E 18.66, forward P/E 14.02, P/S 2.63, P/B 2.59 | EV/Sales 2.81, EV/EBITDA 6.75 |
+| Valuation | P/E 18.66, forward P/E 14.02, P/S 2.63, P/B 2.59 | EV/Sales 2.87, EV/EBITDA 6.90 |
 | Growth expectations | Earnings growth 107.00%, EPS q/q 99.40% | Analyst mean target $147.73 (26 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -101,8 +101,8 @@ ConocoPhillips explores for, produces, transports, and markets crude oil, bitume
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $140.90 | EV/Sales | 2.81 |
-| Market cap | $169.27B | EV/EBITDA | 6.75 |
+| Price | $140.90 | EV/Sales | 2.87 |
+| Market cap | $169.27B | EV/EBITDA | 6.90 |
 | Beta | 0.24 | Gross margin | 47.57% |
 | RSI(14) | 69.6 | Operating margin | 31.51% |
 | ATR(14) | 3.29 | Profit margin | 14.40% |

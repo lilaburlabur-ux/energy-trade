@@ -18,7 +18,7 @@ Signed file: `CEG.research.13.10.2026`
 | Technical momentum | Moderate | 1Y -19.28%; price +3.86% vs SMA200. |
 | Fresh setup quality | Poor / broken | -26.37% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 11.08%, revenue growth 23.00%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 22.21, EV/Sales 4.11. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 22.21, EV/Sales 4.13. |
 | Risk level | Elevated | Beta 1.13, ATR 4.7% of price, short float 3.74%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: fair-to-demanding, risk: elevated.
@@ -59,7 +59,7 @@ Constellation Energy Corporation produces and sells energy products and services
 | Revenue (ttm) | $31.27B | Revenue growth 23.00% y/y |
 | Profitability | Gross 22.11%, operating 8.66%, net 11.08% | ROA 3.89%, ROE 15.06% |
 | Balance sheet | Cash $697.00M, debt $24.70B | Current ratio 1.46, debt/equity 76.42 |
-| Valuation | P/E 28.91, forward P/E 22.21, P/S 3.35, P/B 3.29 | EV/Sales 4.11, EV/EBITDA 16.16 |
+| Valuation | P/E 28.91, forward P/E 22.21, P/S 3.35, P/B 3.29 | EV/Sales 4.13, EV/EBITDA 16.24 |
 | Growth expectations | Earnings growth -46.80%, EPS q/q -38.90% | Analyst mean target $341.53 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -86,7 +86,7 @@ Constellation Energy Corporation produces and sells energy products and services
 | FMR, LLC | 6,538,601 | 1.85% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 22.21, EV/Sales 4.11. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 22.21, EV/Sales 4.13. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 1.13, ATR 4.7% of price, short float 3.74%. Size positions accordingly.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
@@ -103,8 +103,8 @@ Constellation Energy Corporation produces and sells energy products and services
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $295.79 | EV/Sales | 4.11 |
-| Market cap | $104.80B | EV/EBITDA | 16.16 |
+| Price | $295.79 | EV/Sales | 4.13 |
+| Market cap | $104.80B | EV/EBITDA | 16.24 |
 | Beta | 1.13 | Gross margin | 22.11% |
 | RSI(14) | 60.4 | Operating margin | 8.66% |
 | ATR(14) | 13.91 | Profit margin | 11.08% |
