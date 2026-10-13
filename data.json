@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-10-13T20:09:27+00:00",
-  "as_of_local": "2026-10-13 20:09:27 UTC",
+  "as_of_utc": "2026-10-13T20:15:07+00:00",
+  "as_of_local": "2026-10-13 20:15:07 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "ET"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -66,7 +64,7 @@
       "price": 428.33,
       "previous_close": 426.69,
       "change_pct": 0.38,
-      "market_cap": 166320533786.01074,
+      "market_cap": 166363366784.66797,
       "headlines": []
     },
     {
@@ -75,7 +73,7 @@
       "price": 78.26,
       "previous_close": 78.51,
       "change_pct": -0.32,
-      "market_cap": 163219479772.4137,
+      "market_cap": 163248659092.4702,
       "headlines": []
     },
     {
@@ -84,7 +82,7 @@
       "price": 476.87,
       "previous_close": 458.81,
       "change_pct": 3.94,
-      "market_cap": 139215821706.97815,
+      "market_cap": 133916903360.59534,
       "headlines": []
     },
     {
@@ -108,10 +106,10 @@
     {
       "symbol": "PSX",
       "name": "Phillips 66",
-      "price": 292.68,
+      "price": 292.73,
       "previous_close": 281.47,
-      "change_pct": 3.98,
-      "market_cap": 116785438772.36353,
+      "change_pct": 4.0,
+      "market_cap": 116805397124.45471,
       "headlines": []
     },
     {
@@ -192,7 +190,7 @@
       "price": 153.15,
       "previous_close": 150.51,
       "change_pct": 1.75,
-      "market_cap": 81572056118.59344,
+      "market_cap": 80331640102.92798,
       "headlines": []
     },
     {
@@ -229,6 +227,15 @@
       "previous_close": 48.77,
       "change_pct": 0.0,
       "market_cap": 72381666055.25685,
+      "headlines": []
+    },
+    {
+      "symbol": "ET",
+      "name": "Energy Transfer",
+      "price": 20.42,
+      "previous_close": 20.41,
+      "change_pct": 0.05,
+      "market_cap": 70312178115.12291,
       "headlines": []
     },
     {
@@ -327,7 +334,7 @@
       "price": 104.99,
       "previous_close": 103.99,
       "change_pct": 0.96,
-      "market_cap": 50159469239.38223,
+      "market_cap": 50161856814.537186,
       "headlines": []
     },
     {
@@ -345,7 +352,7 @@
       "price": 70.45,
       "previous_close": 70.76,
       "change_pct": -0.44,
-      "market_cap": 35106741250.14377,
+      "market_cap": 35113689592.44278,
       "headlines": []
     },
     {
@@ -387,10 +394,10 @@
     {
       "symbol": "DINO",
       "name": "HF Sinclair",
-      "price": 128.24,
+      "price": 128.23,
       "previous_close": 122.91,
-      "change_pct": 4.34,
-      "market_cap": 22799001772.35585,
+      "change_pct": 4.33,
+      "market_cap": 22797222197.69545,
       "headlines": []
     },
     {
@@ -480,7 +487,7 @@
       "price": 28.66,
       "previous_close": 29.09,
       "change_pct": -1.5,
-      "market_cap": 8690372985.318079,
+      "market_cap": 8599698849.1003,
       "headlines": []
     },
     {
@@ -516,7 +523,7 @@
       "price": 77.21,
       "previous_close": 76.76,
       "change_pct": 0.59,
-      "market_cap": 5534832988.400017,
+      "market_cap": 5521449484.368713,
       "headlines": []
     },
     {
@@ -525,7 +532,7 @@
       "price": 32.03,
       "previous_close": 31.49,
       "change_pct": 1.71,
-      "market_cap": 4221496825.713501,
+      "market_cap": 4232592914.130615,
       "headlines": []
     },
     {
@@ -561,7 +568,7 @@
       "price": 9.27,
       "previous_close": 9.66,
       "change_pct": -3.99,
-      "market_cap": 2318425279.64592,
+      "market_cap": 2455774779.296898,
       "headlines": []
     },
     {
@@ -667,8 +674,8 @@
           "name": "Phillips 66",
           "short": "Phillips",
           "weight_pct": 4.64,
-          "change_pct": 3.98,
-          "price": 292.68,
+          "change_pct": 4.0,
+          "price": 292.73,
           "currency": "USD"
         },
         {
@@ -766,8 +773,8 @@
         "name": "Phillips 66",
         "short": "Phillips",
         "weight_pct": 4.64,
-        "change_pct": 3.98,
-        "price": 292.68,
+        "change_pct": 4.0,
+        "price": 292.73,
         "currency": "USD"
       },
       {
@@ -816,18 +823,18 @@
     },
     {
       "label": "WTI",
-      "price": 94.68,
-      "change_pct": 1.0
+      "price": 94.66,
+      "change_pct": 0.98
     },
     {
       "label": "Brent",
-      "price": 106.15,
-      "change_pct": -0.47
+      "price": 106.16,
+      "change_pct": -0.46
     },
     {
       "label": "NatGas",
-      "price": 3.32,
-      "change_pct": 4.74
+      "price": 3.33,
+      "change_pct": 5.05
     }
   ]
 }
