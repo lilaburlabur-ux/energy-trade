@@ -5,7 +5,7 @@ Signed file: `PSX.research.13.10.2026`
 | Field | Value |
 |---|---|
 | Current price | $292.73 (2026-10-13, ~15-min delayed) |
-| Market cap | $117.37B |
+| Market cap | $116.81B |
 | Sector / Industry | Energy / Oil & Gas Refining & Marketing |
 | Main theme | Oil & Gas Refining & Marketing — see catalysts below |
 | Current stance | High technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
@@ -103,7 +103,7 @@ Phillips 66 operates as an integrated downstream energy provider in the United S
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $292.73 | EV/Sales | 0.85 |
-| Market cap | $117.37B | EV/EBITDA | 13.10 |
+| Market cap | $116.81B | EV/EBITDA | 13.10 |
 | Beta | 0.70 | Gross margin | 13.10% |
 | RSI(14) | 77.2 | Operating margin | 8.53% |
 | ATR(14) | 8.78 | Profit margin | 4.66% |

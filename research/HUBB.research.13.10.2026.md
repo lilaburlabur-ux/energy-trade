@@ -38,7 +38,7 @@ Hubbell Incorporated, together with its subsidiaries, manufactures and sells ele
 | Price vs 52-week range | Close $477.93; 52w high $554.46 (-13.80%); 52w low $402.45 (+18.76%) |
 | Trend | -1.79% vs SMA200, +1.31% vs SMA50, +2.72% vs SMA20 |
 | Momentum | RSI(14) 57.2 (neutral) |
-| Volatility | ATR(14) 12.81 (~2.7% of price); beta 0.85 |
+| Volatility | ATR(14) 12.80 (~2.7% of price); beta 0.85 |
 | Setup perspective | -13.80% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
@@ -106,7 +106,7 @@ Hubbell Incorporated, together with its subsidiaries, manufactures and sells ele
 | Market cap | $25.25B | EV/EBITDA | 19.94 |
 | Beta | 0.85 | Gross margin | 35.34% |
 | RSI(14) | 57.2 | Operating margin | 21.67% |
-| ATR(14) | 12.81 | Profit margin | 14.49% |
+| ATR(14) | 12.80 | Profit margin | 14.49% |
 | SMA20 dist | +2.72% | ROA | 8.43% |
 | SMA50 dist | +1.31% | ROE | 24.44% |
 | SMA200 dist | -1.79% | Revenue (ttm) | $6.22B |
