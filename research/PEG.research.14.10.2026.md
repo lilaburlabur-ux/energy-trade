@@ -5,7 +5,7 @@ Signed file: `PEG.research.14.10.2026`
 | Field | Value |
 |---|---|
 | Current price | $70.56 (2026-10-14, ~15-min delayed) |
-| Market cap | $35.17B |
+| Market cap | $35.16B |
 | Sector / Industry | Utilities / Utilities - Regulated Electric |
 | Main theme | Utilities - Regulated Electric — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -101,7 +101,7 @@ Public Service Enterprise Group Incorporated, through its subsidiaries, operates
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $70.56 | EV/Sales | 4.76 |
-| Market cap | $35.17B | EV/EBITDA | 13.37 |
+| Market cap | $35.16B | EV/EBITDA | 13.37 |
 | Beta | 0.52 | Gross margin | 33.33% |
 | RSI(14) | 50.2 | Operating margin | 18.87% |
 | ATR(14) | 1.32 | Profit margin | 16.04% |

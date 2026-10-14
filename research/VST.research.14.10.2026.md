@@ -18,7 +18,7 @@ Signed file: `VST.research.14.10.2026`
 | Technical momentum | Low | Below SMA200 (-1.60%) with negative half-year (-6.56%). |
 | Fresh setup quality | Poor / broken | -27.59% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 11.55%, revenue growth -5.50%. |
-| Value attractiveness | Reasonable | Forward P/E 14.57, EV/Sales 4.01. |
+| Value attractiveness | Reasonable | Forward P/E 14.57, EV/Sales 3.83. |
 | Risk level | High | Beta 1.38, ATR 5.0% of price, short float 3.61%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: high.
@@ -59,7 +59,7 @@ Vistra Corp., together with its subsidiaries, operates as an integrated retail e
 | Revenue (ttm) | $19.21B | Revenue growth -5.50% y/y |
 | Profitability | Gross 38.31%, operating 13.77%, net 11.55% | ROA 5.89%, ROE 42.96% |
 | Balance sheet | Cash $435.00M, debt $20.51B | Current ratio 0.97, debt/equity 373.28 |
-| Valuation | P/E 25.60, forward P/E 14.57, P/S 2.65, P/B 16.97 | EV/Sales 4.01, EV/EBITDA 11.59 |
+| Valuation | P/E 25.60, forward P/E 14.57, P/S 2.65, P/B 16.97 | EV/Sales 3.83, EV/EBITDA 11.06 |
 | Growth expectations | Earnings growth -6.20%, EPS q/q -6.70% | Analyst mean target $210.25 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -102,8 +102,8 @@ Vistra Corp., together with its subsidiaries, operates as an integrated retail e
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $151.79 | EV/Sales | 4.01 |
-| Market cap | $50.95B | EV/EBITDA | 11.59 |
+| Price | $151.79 | EV/Sales | 3.83 |
+| Market cap | $50.95B | EV/EBITDA | 11.06 |
 | Beta | 1.38 | Gross margin | 38.31% |
 | RSI(14) | 52.6 | Operating margin | 13.77% |
 | ATR(14) | 7.64 | Profit margin | 11.55% |

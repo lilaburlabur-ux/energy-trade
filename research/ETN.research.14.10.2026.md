@@ -5,7 +5,7 @@ Signed file: `ETN.research.14.10.2026`
 | Field | Value |
 |---|---|
 | Current price | $408.85 (2026-10-14, ~15-min delayed) |
-| Market cap | $158.80B |
+| Market cap | $158.76B |
 | Sector / Industry | Industrials / Specialty Industrial Machinery |
 | Main theme | Specialty Industrial Machinery — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: fair-to-demanding, risk: elevated. |
@@ -103,7 +103,7 @@ Eaton Corporation plc operates as a power management company in the United State
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $408.85 | EV/Sales | 5.98 |
-| Market cap | $158.80B | EV/EBITDA | 27.03 |
+| Market cap | $158.76B | EV/EBITDA | 27.03 |
 | Beta | 1.13 | Gross margin | 36.02% |
 | RSI(14) | 41.4 | Operating margin | 16.56% |
 | ATR(14) | 14.55 | Profit margin | 12.75% |
