@@ -4,24 +4,24 @@ Signed file: `BEP.research.14.10.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-10-14, ~15-min delayed) |
-| Market cap | $13.96B |
+| Current price | $27.90 (2026-10-14, ~15-min delayed) |
+| Market cap | $13.57B |
 | Sector / Industry | Utilities / Utilities - Renewable |
 | Main theme | Utilities - Renewable — see catalysts below |
-| Current stance | Moderate technical momentum, weak fundamentals, value: reasonable, risk: moderate. |
+| Current stance | Low technical momentum, weak fundamentals, value: reasonable, risk: moderate. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-10-14.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-11.22%) with negative half-year (-19.31%). |
+| Fresh setup quality | Moderate / wait | -23.84% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Weak | Negative profit margin (-1.26%). |
-| Value attractiveness | Reasonable | Forward P/E -15.48, EV/Sales 12.77. |
-| Risk level | Moderate | Beta 0.98, ATR nan% of price, short float 0.31%. |
+| Value attractiveness | Reasonable | Forward P/E -15.08, EV/Sales 12.77. |
+| Risk level | Moderate | Beta 0.98, ATR 2.8% of price, short float 0.31%. |
 
-**Bottom line:** Moderate technical momentum, weak fundamentals, value: reasonable, risk: moderate.
+**Bottom line:** Low technical momentum, weak fundamentals, value: reasonable, risk: moderate.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -35,22 +35,22 @@ Brookfield Renewable Partners L.P. owns a portfolio of renewable power generatin
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $36.63 (+nan%); 52w low $25.75 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 45.1 (neutral) |
-| Volatility | ATR(14) 0.75 (~nan% of price); beta 0.98 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $27.90; 52w high $36.63 (-23.84%); 52w low $25.75 (+8.36%) |
+| Trend | -11.22% vs SMA200, -9.17% vs SMA50, -3.29% vs SMA20 |
+| Momentum | RSI(14) 35.7 (neutral) |
+| Volatility | ATR(14) 0.79 (~2.8% of price); beta 0.98 |
+| Setup perspective | -23.84% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -5.2% |
+| Month | -3.2% |
+| Quarter | -11.2% |
+| Half Y | -19.3% |
+| 1Y | +4.0% |
+| YTD | +3.5% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -59,13 +59,13 @@ Brookfield Renewable Partners L.P. owns a portfolio of renewable power generatin
 | Revenue (ttm) | $6.36B | Revenue growth 1.10% y/y |
 | Profitability | Gross 51.39%, operating 17.08%, net -1.26% | ROA 0.42%, ROE 0.40% |
 | Balance sheet | Cash $2.69B, debt $37.72B | Current ratio 0.80, debt/equity 105.23 |
-| Valuation | P/E —, forward P/E -15.48, P/S 2.20, P/B 2.30 | EV/Sales 12.77, EV/EBITDA 27.07 |
+| Valuation | P/E —, forward P/E -15.08, P/S 2.13, P/B 2.24 | EV/Sales 12.77, EV/EBITDA 27.07 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $34.23 (13 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 65.26% |
+| Institutional ownership | 65.31% |
 | Insider ownership | 0.04% |
 | Short float | 0.31% |
 | Short ratio (days to cover) | 0.7 |
@@ -101,21 +101,21 @@ Brookfield Renewable Partners L.P. owns a portfolio of renewable power generatin
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 12.77 |
-| Market cap | $13.96B | EV/EBITDA | 27.07 |
+| Price | $27.90 | EV/Sales | 12.77 |
+| Market cap | $13.57B | EV/EBITDA | 27.07 |
 | Beta | 0.98 | Gross margin | 51.39% |
-| RSI(14) | 45.1 | Operating margin | 17.08% |
-| ATR(14) | 0.75 | Profit margin | -1.26% |
-| SMA20 dist | +nan% | ROA | 0.42% |
-| SMA50 dist | +nan% | ROE | 0.40% |
-| SMA200 dist | +nan% | Revenue (ttm) | $6.36B |
+| RSI(14) | 35.7 | Operating margin | 17.08% |
+| ATR(14) | 0.79 | Profit margin | -1.26% |
+| SMA20 dist | -3.29% | ROA | 0.42% |
+| SMA50 dist | -9.17% | ROE | 0.40% |
+| SMA200 dist | -11.22% | Revenue (ttm) | $6.36B |
 | 52W high | $36.63 | Revenue growth y/y | 1.10% |
-| 52W low | $25.75 | Inst. ownership | 65.26% |
+| 52W low | $25.75 | Inst. ownership | 65.31% |
 | P/E (ttm) | — | Insider ownership | 0.04% |
-| Forward P/E | -15.48 | Short float | 0.31% |
-| PEG (trailing) | — | Avg volume | 1,015,346 |
-| P/S | 2.20 | Employees | 5,870 |
-| P/B | 2.30 | Analyst rec (1=buy..5=sell) | 2.3 |
+| Forward P/E | -15.08 | Short float | 0.31% |
+| PEG (trailing) | — | Avg volume | 1,029,984 |
+| P/S | 2.13 | Employees | 5,870 |
+| P/B | 2.24 | Analyst rec (1=buy..5=sell) | 2.3 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
@@ -130,7 +130,7 @@ Brookfield Renewable Partners L.P. owns a portfolio of renewable power generatin
 | 2026-04-16 | main | JP Morgan | Overweight → Overweight |
 
 ## 9. Conclusion
-BEP: Moderate momentum / weak fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+BEP: Low momentum / weak fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

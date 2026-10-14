@@ -4,24 +4,24 @@ Signed file: `EPD.research.14.10.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-10-14, ~15-min delayed) |
-| Market cap | $77.83B |
+| Current price | $35.79 (2026-10-14, ~15-min delayed) |
+| Market cap | $77.29B |
 | Sector / Industry | Energy / Oil & Gas Midstream |
 | Main theme | Oil & Gas Midstream — see catalysts below |
-| Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
+| Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-10-14.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-1.51%) with negative half-year (-0.68%). |
+| Fresh setup quality | Moderate / wait | -9.07% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 10.79%, revenue growth 60.80%. |
-| Value attractiveness | Reasonable | Forward P/E 11.38, EV/Sales 1.93. |
-| Risk level | Moderate | Beta 0.48, ATR nan% of price, short float 2.34%. |
+| Value attractiveness | Reasonable | Forward P/E 11.30, EV/Sales 1.93. |
+| Risk level | Moderate | Beta 0.48, ATR 1.7% of price, short float 2.34%. |
 
-**Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
+**Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -35,22 +35,22 @@ Enterprise Products Partners L.P. provides midstream energy services to producer
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $39.36 (+nan%); 52w low $28.35 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 36.1 (neutral) |
-| Volatility | ATR(14) 0.66 (~nan% of price); beta 0.48 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $35.79; 52w high $39.36 (-9.07%); 52w low $28.35 (+26.23%) |
+| Trend | -1.51% vs SMA200, -5.54% vs SMA50, -2.89% vs SMA20 |
+| Momentum | RSI(14) 35.9 (neutral) |
+| Volatility | ATR(14) 0.62 (~1.7% of price); beta 0.48 |
+| Setup perspective | -9.07% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -3.0% |
+| Month | -7.8% |
+| Quarter | -4.4% |
+| Half Y | -0.7% |
+| 1Y | +23.2% |
+| YTD | +16.4% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -59,13 +59,13 @@ Enterprise Products Partners L.P. provides midstream energy services to producer
 | Revenue (ttm) | $58.47B | Revenue growth 60.80% y/y |
 | Profitability | Gross 13.33%, operating 11.76%, net 10.79% | ROA 5.92%, ROE 20.85% |
 | Balance sheet | Cash $246.00M, debt $34.21B | Current ratio 0.93, debt/equity 109.97 |
-| Valuation | P/E 12.51, forward P/E 11.38, P/S 1.33, P/B 2.57 | EV/Sales 1.93, EV/EBITDA 10.93 |
+| Valuation | P/E 12.43, forward P/E 11.30, P/S 1.32, P/B 2.56 | EV/Sales 1.93, EV/EBITDA 10.93 |
 | Growth expectations | Earnings growth 28.50%, EPS q/q 28.20% | Analyst mean target $41.29 (21 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 25.63% |
+| Institutional ownership | 25.61% |
 | Insider ownership | 33.05% |
 | Short float | 2.34% |
 | Short ratio (days to cover) | 5.9 |
@@ -100,21 +100,21 @@ Enterprise Products Partners L.P. provides midstream energy services to producer
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 1.93 |
-| Market cap | $77.83B | EV/EBITDA | 10.93 |
+| Price | $35.79 | EV/Sales | 1.93 |
+| Market cap | $77.29B | EV/EBITDA | 10.93 |
 | Beta | 0.48 | Gross margin | 13.33% |
-| RSI(14) | 36.1 | Operating margin | 11.76% |
-| ATR(14) | 0.66 | Profit margin | 10.79% |
-| SMA20 dist | +nan% | ROA | 5.92% |
-| SMA50 dist | +nan% | ROE | 20.85% |
-| SMA200 dist | +nan% | Revenue (ttm) | $58.47B |
+| RSI(14) | 35.9 | Operating margin | 11.76% |
+| ATR(14) | 0.62 | Profit margin | 10.79% |
+| SMA20 dist | -2.89% | ROA | 5.92% |
+| SMA50 dist | -5.54% | ROE | 20.85% |
+| SMA200 dist | -1.51% | Revenue (ttm) | $58.47B |
 | 52W high | $39.36 | Revenue growth y/y | 60.80% |
-| 52W low | $28.35 | Inst. ownership | 25.63% |
-| P/E (ttm) | 12.51 | Insider ownership | 33.05% |
-| Forward P/E | 11.38 | Short float | 2.34% |
-| PEG (trailing) | 1.33 | Avg volume | 3,079,121 |
-| P/S | 1.33 | Employees | 0 |
-| P/B | 2.57 | Analyst rec (1=buy..5=sell) | 2.3 |
+| 52W low | $28.35 | Inst. ownership | 25.61% |
+| P/E (ttm) | 12.43 | Insider ownership | 33.05% |
+| Forward P/E | 11.30 | Short float | 2.34% |
+| PEG (trailing) | 1.33 | Avg volume | 3,095,867 |
+| P/S | 1.32 | Employees | 0 |
+| P/B | 2.56 | Analyst rec (1=buy..5=sell) | 2.3 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
@@ -129,7 +129,7 @@ Enterprise Products Partners L.P. provides midstream energy services to producer
 | 2026-05-12 | main | Scotiabank | Sector Perform → Sector Perform |
 
 ## 9. Conclusion
-EPD: Moderate momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+EPD: Low momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

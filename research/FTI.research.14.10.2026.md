@@ -4,24 +4,24 @@ Signed file: `FTI.research.14.10.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-10-14, ~15-min delayed) |
-| Market cap | $27.73B |
+| Current price | $69.50 (2026-10-14, ~15-min delayed) |
+| Market cap | $27.26B |
 | Sector / Industry | Energy / Oil & Gas Equipment & Services |
 | Main theme | Oil & Gas Equipment & Services — see catalysts below |
-| Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
+| Current stance | High technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-10-14.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +93.69%; price +2.35% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -13.21% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 11.28%, revenue growth 9.00%. |
-| Value attractiveness | Reasonable | Forward P/E 19.51, EV/Sales 2.69. |
-| Risk level | Moderate | Beta 0.83, ATR nan% of price, short float 3.45%. |
+| Value attractiveness | Reasonable | Forward P/E 19.15, EV/Sales 2.69. |
+| Risk level | Moderate | Beta 0.83, ATR 2.9% of price, short float 3.45%. |
 
-**Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
+**Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -35,22 +35,22 @@ TechnipFMC plc engages in the oil and natural gas projects, technologies, system
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $80.08 (+nan%); 52w low $35.45 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
+| Price vs 52-week range | Close $69.50; 52w high $80.08 (-13.21%); 52w low $35.45 (+96.03%) |
+| Trend | +2.35% vs SMA200, -5.69% vs SMA50, -0.92% vs SMA20 |
 | Momentum | RSI(14) 42.5 (neutral) |
-| Volatility | ATR(14) 2.01 (~nan% of price); beta 0.83 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Volatility | ATR(14) 2.02 (~2.9% of price); beta 0.83 |
+| Setup perspective | -13.21% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | +1.6% |
+| Month | -7.3% |
+| Quarter | -3.4% |
+| Half Y | -3.4% |
+| 1Y | +93.7% |
+| YTD | +47.2% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -59,13 +59,13 @@ TechnipFMC plc engages in the oil and natural gas projects, technologies, system
 | Revenue (ttm) | $10.42B | Revenue growth 9.00% y/y |
 | Profitability | Gross 22.97%, operating 17.69%, net 11.28% | ROA 9.53%, ROE 35.81% |
 | Balance sheet | Cash $991.80M, debt $1.24B | Current ratio 1.08, debt/equity 37.90 |
-| Valuation | P/E 24.64, forward P/E 19.51, P/S 2.66, P/B 8.49 | EV/Sales 2.69, EV/EBITDA 14.11 |
-| Growth expectations | Earnings growth 40.60%, EPS q/q 34.60% | Analyst mean target $76.59 (22 analysts) |
+| Valuation | P/E 24.22, forward P/E 19.15, P/S 2.62, P/B 8.34 | EV/Sales 2.69, EV/EBITDA 14.11 |
+| Growth expectations | Earnings growth 40.60%, EPS q/q 34.60% | Analyst mean target $76.55 (22 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 101.02% |
+| Institutional ownership | 101.12% |
 | Insider ownership | 1.36% |
 | Short float | 3.45% |
 | Short ratio (days to cover) | 4.4 |
@@ -100,21 +100,21 @@ TechnipFMC plc engages in the oil and natural gas projects, technologies, system
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 2.69 |
-| Market cap | $27.73B | EV/EBITDA | 14.11 |
+| Price | $69.50 | EV/Sales | 2.69 |
+| Market cap | $27.26B | EV/EBITDA | 14.11 |
 | Beta | 0.83 | Gross margin | 22.97% |
 | RSI(14) | 42.5 | Operating margin | 17.69% |
-| ATR(14) | 2.01 | Profit margin | 11.28% |
-| SMA20 dist | +nan% | ROA | 9.53% |
-| SMA50 dist | +nan% | ROE | 35.81% |
-| SMA200 dist | +nan% | Revenue (ttm) | $10.42B |
+| ATR(14) | 2.02 | Profit margin | 11.28% |
+| SMA20 dist | -0.92% | ROA | 9.53% |
+| SMA50 dist | -5.69% | ROE | 35.81% |
+| SMA200 dist | +2.35% | Revenue (ttm) | $10.42B |
 | 52W high | $80.08 | Revenue growth y/y | 9.00% |
-| 52W low | $35.45 | Inst. ownership | 101.02% |
-| P/E (ttm) | 24.64 | Insider ownership | 1.36% |
-| Forward P/E | 19.51 | Short float | 3.45% |
-| PEG (trailing) | — | Avg volume | 2,959,596 |
-| P/S | 2.66 | Employees | 22,000 |
-| P/B | 8.49 | Analyst rec (1=buy..5=sell) | 1.9 |
+| 52W low | $35.45 | Inst. ownership | 101.12% |
+| P/E (ttm) | 24.22 | Insider ownership | 1.36% |
+| Forward P/E | 19.15 | Short float | 3.45% |
+| PEG (trailing) | — | Avg volume | 2,957,820 |
+| P/S | 2.62 | Employees | 22,000 |
+| P/B | 8.34 | Analyst rec (1=buy..5=sell) | 1.9 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
@@ -129,7 +129,7 @@ TechnipFMC plc engages in the oil and natural gas projects, technologies, system
 | 2026-05-01 | main | Evercore ISI Group | Outperform → Outperform |
 
 ## 9. Conclusion
-FTI: Moderate momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+FTI: High momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

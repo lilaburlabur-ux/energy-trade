@@ -4,24 +4,24 @@ Signed file: `GEV.research.14.10.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-10-14, ~15-min delayed) |
-| Market cap | $267.41B |
+| Current price | $941.78 (2026-10-14, ~15-min delayed) |
+| Market cap | $250.83B |
 | Sector / Industry | Industrials / Specialty Industrial Machinery |
 | Main theme | Specialty Industrial Machinery — see catalysts below |
-| Current stance | Moderate technical momentum, strong fundamentals, value: low (expensive), risk: moderate. |
+| Current stance | Moderate technical momentum, strong fundamentals, value: low (expensive), risk: elevated. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-10-14.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +45.61%; price +1.19% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -19.84% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 23.04%, revenue growth 21.90%. |
-| Value attractiveness | Low (expensive) | Forward P/E 39.73, EV/Sales 6.28. |
-| Risk level | Moderate | Beta 0.97, ATR nan% of price, short float 2.77%. |
+| Value attractiveness | Low (expensive) | Forward P/E 37.27, EV/Sales 6.28. |
+| Risk level | Elevated | Beta 0.97, ATR 4.3% of price, short float 2.77%. |
 
-**Bottom line:** Moderate technical momentum, strong fundamentals, value: low (expensive), risk: moderate.
+**Bottom line:** Moderate technical momentum, strong fundamentals, value: low (expensive), risk: elevated.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -35,22 +35,22 @@ GE Vernova Inc., an energy company, engages in the provision of various products
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $1,174.86 (+nan%); 52w low $546.95 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 56.0 (neutral) |
-| Volatility | ATR(14) 37.33 (~nan% of price); beta 0.97 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $941.78; 52w high $1,174.86 (-19.84%); 52w low $546.95 (+72.19%) |
+| Trend | +1.19% vs SMA200, -2.63% vs SMA50, -3.05% vs SMA20 |
+| Momentum | RSI(14) 43.6 (neutral) |
+| Volatility | ATR(14) 40.86 (~4.3% of price); beta 0.97 |
+| Setup perspective | -19.84% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -5.5% |
+| Month | +6.7% |
+| Quarter | -9.1% |
+| Half Y | -4.4% |
+| 1Y | +45.6% |
+| YTD | +38.8% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -59,13 +59,13 @@ GE Vernova Inc., an energy company, engages in the provision of various products
 | Revenue (ttm) | $41.37B | Revenue growth 21.90% y/y |
 | Profitability | Gross 20.57%, operating 7.47%, net 23.04% | ROA 2.54%, ROE 82.58% |
 | Balance sheet | Cash $12.72B, debt $3.72B | Current ratio 0.85, debt/equity 28.36 |
-| Valuation | P/E 28.56, forward P/E 39.73, P/S 6.46, P/B 22.36 | EV/Sales 6.28, EV/EBITDA 66.10 |
+| Valuation | P/E 27.00, forward P/E 37.27, P/S 6.06, P/B 20.98 | EV/Sales 6.28, EV/EBITDA 66.10 |
 | Growth expectations | Earnings growth 32.80%, EPS q/q 30.00% | Analyst mean target $1,224.89 (33 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 81.66% |
+| Institutional ownership | 81.63% |
 | Insider ownership | 0.13% |
 | Short float | 2.77% |
 | Short ratio (days to cover) | 3.4 |
@@ -86,7 +86,8 @@ GE Vernova Inc., an energy company, engages in the provision of various products
 | Fisher Asset Management, LLC | 3,559,479 | 1.34% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 39.73, EV/Sales 6.28. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 37.27, EV/Sales 6.28. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 0.97, ATR 4.3% of price, short float 2.77%. Size positions accordingly.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -101,25 +102,26 @@ GE Vernova Inc., an energy company, engages in the provision of various products
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 6.28 |
-| Market cap | $267.41B | EV/EBITDA | 66.10 |
+| Price | $941.78 | EV/Sales | 6.28 |
+| Market cap | $250.83B | EV/EBITDA | 66.10 |
 | Beta | 0.97 | Gross margin | 20.57% |
-| RSI(14) | 56.0 | Operating margin | 7.47% |
-| ATR(14) | 37.33 | Profit margin | 23.04% |
-| SMA20 dist | +nan% | ROA | 2.54% |
-| SMA50 dist | +nan% | ROE | 82.58% |
-| SMA200 dist | +nan% | Revenue (ttm) | $41.37B |
+| RSI(14) | 43.6 | Operating margin | 7.47% |
+| ATR(14) | 40.86 | Profit margin | 23.04% |
+| SMA20 dist | -3.05% | ROA | 2.54% |
+| SMA50 dist | -2.63% | ROE | 82.58% |
+| SMA200 dist | +1.19% | Revenue (ttm) | $41.37B |
 | 52W high | $1,174.86 | Revenue growth y/y | 21.90% |
-| 52W low | $546.95 | Inst. ownership | 81.66% |
-| P/E (ttm) | 28.56 | Insider ownership | 0.13% |
-| Forward P/E | 39.73 | Short float | 2.77% |
-| PEG (trailing) | 1.86 | Avg volume | 2,297,603 |
-| P/S | 6.46 | Employees | 78,000 |
-| P/B | 22.36 | Analyst rec (1=buy..5=sell) | 1.5 |
+| 52W low | $546.95 | Inst. ownership | 81.63% |
+| P/E (ttm) | 27.00 | Insider ownership | 0.13% |
+| Forward P/E | 37.27 | Short float | 2.77% |
+| PEG (trailing) | 1.86 | Avg volume | 2,299,587 |
+| P/S | 6.06 | Employees | 78,000 |
+| P/B | 20.98 | Analyst rec (1=buy..5=sell) | 1.5 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-10-14 | main | Susquehanna | Positive → Positive |
 | 2026-10-13 | reit | Guggenheim | Buy → Buy |
 | 2026-10-09 | main | JP Morgan | Overweight → Overweight |
 | 2026-09-15 | reit | Bernstein | Outperform → Outperform |
@@ -127,10 +129,9 @@ GE Vernova Inc., an energy company, engages in the provision of various products
 | 2026-07-27 | main | Mizuho | Neutral → Neutral |
 | 2026-07-23 | main | Bernstein | Outperform → Outperform |
 | 2026-07-23 | main | JP Morgan | Overweight → Overweight |
-| 2026-07-23 | main | Morgan Stanley | Overweight → Overweight |
 
 ## 9. Conclusion
-GEV: Moderate momentum / strong fundamentals / low (expensive) value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+GEV: Moderate momentum / strong fundamentals / low (expensive) value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

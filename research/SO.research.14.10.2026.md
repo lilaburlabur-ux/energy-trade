@@ -4,24 +4,24 @@ Signed file: `SO.research.14.10.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-10-14, ~15-min delayed) |
-| Market cap | $101.36B |
+| Current price | $89.38 (2026-10-14, ~15-min delayed) |
+| Market cap | $102.82B |
 | Sector / Industry | Utilities / Utilities - Regulated Electric |
 | Main theme | Utilities - Regulated Electric — see catalysts below |
-| Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
+| Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-10-14.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-1.87%) with negative half-year (-3.99%). |
+| Fresh setup quality | Moderate / wait | -8.32% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 15.43%, revenue growth 0.10%. |
-| Value attractiveness | Reasonable | Forward P/E 17.90, EV/Sales 5.91. |
-| Risk level | Moderate | Beta 0.30, ATR nan% of price, short float 2.55%. |
+| Value attractiveness | Reasonable | Forward P/E 18.15, EV/Sales 5.91. |
+| Risk level | Moderate | Beta 0.30, ATR 1.5% of price, short float 2.55%. |
 
-**Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
+**Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -35,22 +35,22 @@ The Southern Company, through its subsidiaries, engages in the sale of electrici
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $97.49 (+nan%); 52w low $82.06 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 57.4 (neutral) |
-| Volatility | ATR(14) 1.24 (~nan% of price); beta 0.30 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $89.38; 52w high $97.49 (-8.32%); 52w low $82.06 (+8.92%) |
+| Trend | -1.87% vs SMA200, +1.79% vs SMA50, +5.18% vs SMA20 |
+| Momentum | RSI(14) 67.8 (neutral) |
+| Volatility | ATR(14) 1.37 (~1.5% of price); beta 0.30 |
+| Setup perspective | -8.32% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | +4.6% |
+| Month | +4.0% |
+| Quarter | -6.2% |
+| Half Y | -4.0% |
+| 1Y | -5.9% |
+| YTD | +5.0% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -59,7 +59,7 @@ The Southern Company, through its subsidiaries, engages in the sale of electrici
 | Revenue (ttm) | $30.18B | Revenue growth 0.10% y/y |
 | Profitability | Gross 48.29%, operating 29.61%, net 15.43% | ROA 3.27%, ROE 11.48% |
 | Balance sheet | Cash $2.98B, debt $77.09B | Current ratio 0.79, debt/equity 182.06 |
-| Valuation | P/E 21.23, forward P/E 17.90, P/S 3.36, P/B 2.56 | EV/Sales 5.91, EV/EBITDA 12.50 |
+| Valuation | P/E 21.54, forward P/E 18.15, P/S 3.41, P/B 2.60 | EV/Sales 5.91, EV/EBITDA 12.50 |
 | Growth expectations | Earnings growth 30.40%, EPS q/q 33.40% | Analyst mean target $97.08 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -100,21 +100,21 @@ The Southern Company, through its subsidiaries, engages in the sale of electrici
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 5.91 |
-| Market cap | $101.36B | EV/EBITDA | 12.50 |
+| Price | $89.38 | EV/Sales | 5.91 |
+| Market cap | $102.82B | EV/EBITDA | 12.50 |
 | Beta | 0.30 | Gross margin | 48.29% |
-| RSI(14) | 57.4 | Operating margin | 29.61% |
-| ATR(14) | 1.24 | Profit margin | 15.43% |
-| SMA20 dist | +nan% | ROA | 3.27% |
-| SMA50 dist | +nan% | ROE | 11.48% |
-| SMA200 dist | +nan% | Revenue (ttm) | $30.18B |
+| RSI(14) | 67.8 | Operating margin | 29.61% |
+| ATR(14) | 1.37 | Profit margin | 15.43% |
+| SMA20 dist | +5.18% | ROA | 3.27% |
+| SMA50 dist | +1.79% | ROE | 11.48% |
+| SMA200 dist | -1.87% | Revenue (ttm) | $30.18B |
 | 52W high | $97.49 | Revenue growth y/y | 0.10% |
 | 52W low | $82.06 | Inst. ownership | 74.17% |
-| P/E (ttm) | 21.23 | Insider ownership | 0.10% |
-| Forward P/E | 17.90 | Short float | 2.55% |
-| PEG (trailing) | 1.97 | Avg volume | 5,712,100 |
-| P/S | 3.36 | Employees | 29,502 |
-| P/B | 2.56 | Analyst rec (1=buy..5=sell) | 2.6 |
+| P/E (ttm) | 21.54 | Insider ownership | 0.10% |
+| Forward P/E | 18.15 | Short float | 2.55% |
+| PEG (trailing) | 1.97 | Avg volume | 5,773,646 |
+| P/S | 3.41 | Employees | 29,502 |
+| P/B | 2.60 | Analyst rec (1=buy..5=sell) | 2.6 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
@@ -129,7 +129,7 @@ The Southern Company, through its subsidiaries, engages in the sale of electrici
 | 2026-07-23 | down | Keybanc | Sector Weight → Underweight |
 
 ## 9. Conclusion
-SO: Moderate momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+SO: Low momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

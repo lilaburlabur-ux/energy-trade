@@ -4,24 +4,24 @@ Signed file: `SU.research.14.10.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-10-14, ~15-min delayed) |
-| Market cap | $87.96B |
+| Current price | $75.89 (2026-10-14, ~15-min delayed) |
+| Market cap | $89.61B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
-| Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate. |
+| Current stance | High technical momentum, strong fundamentals, value: reasonable, risk: moderate. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-10-14.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +93.84%; price +24.60% vs SMA200. |
+| Fresh setup quality | Moderate / wait | +0.00% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 15.78%, revenue growth 45.90%. |
-| Value attractiveness | Reasonable | Forward P/E 12.30, EV/Sales 1.72. |
-| Risk level | Moderate | Beta 0.59, ATR nan% of price, short float —. |
+| Value attractiveness | Reasonable | Forward P/E 12.46, EV/Sales 1.72. |
+| Risk level | Moderate | Beta 0.59, ATR 2.4% of price, short float —. |
 
-**Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate.
+**Bottom line:** High technical momentum, strong fundamentals, value: reasonable, risk: moderate.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -35,22 +35,22 @@ Suncor Energy Inc. operates as an integrated energy company in Canada, the Unite
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $73.51 (+nan%); 52w low $37.39 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 68.2 (neutral) |
-| Volatility | ATR(14) 1.82 (~nan% of price); beta 0.59 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $75.89; 52w high $75.89 (+0.00%); 52w low $37.39 (+102.98%) |
+| Trend | +24.60% vs SMA200, +12.19% vs SMA50, +8.91% vs SMA20 |
+| Momentum | RSI(14) 73.2 (overbought) |
+| Volatility | ATR(14) 1.80 (~2.4% of price); beta 0.59 |
+| Setup perspective | +0.00% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | +11.4% |
+| Month | +5.6% |
+| Quarter | +25.9% |
+| Half Y | +22.1% |
+| 1Y | +93.8% |
+| YTD | +69.9% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -59,13 +59,13 @@ Suncor Energy Inc. operates as an integrated energy company in Canada, the Unite
 | Revenue (ttm) | $56.57B | Revenue growth 45.90% y/y |
 | Profitability | Gross 60.40%, operating 29.94%, net 15.78% | ROA 8.58%, ROE 19.25% |
 | Balance sheet | Cash $5.37B, debt $14.68B | Current ratio 1.65, debt/equity 30.48 |
-| Valuation | P/E 13.87, forward P/E 12.30, P/S 1.55, P/B 2.62 | EV/Sales 1.72, EV/EBITDA 4.99 |
-| Growth expectations | Earnings growth 241.90%, EPS q/q 229.10% | Analyst mean target $69.96 (3 analysts) |
+| Valuation | P/E 14.00, forward P/E 12.46, P/S 1.58, P/B 2.64 | EV/Sales 1.72, EV/EBITDA 4.99 |
+| Growth expectations | Earnings growth 241.90%, EPS q/q 229.10% | Analyst mean target $69.85 (3 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 72.26% |
+| Institutional ownership | 72.30% |
 | Insider ownership | 0.01% |
 | Short float | — |
 | Short ratio (days to cover) | 2.9 |
@@ -86,6 +86,7 @@ Suncor Energy Inc. operates as an integrated energy company in Canada, the Unite
 | 1832 Asset Management L.P. | 17,152,866 | 1.45% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
+- **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -100,21 +101,21 @@ Suncor Energy Inc. operates as an integrated energy company in Canada, the Unite
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 1.72 |
-| Market cap | $87.96B | EV/EBITDA | 4.99 |
+| Price | $75.89 | EV/Sales | 1.72 |
+| Market cap | $89.61B | EV/EBITDA | 4.99 |
 | Beta | 0.59 | Gross margin | 60.40% |
-| RSI(14) | 68.2 | Operating margin | 29.94% |
-| ATR(14) | 1.82 | Profit margin | 15.78% |
-| SMA20 dist | +nan% | ROA | 8.58% |
-| SMA50 dist | +nan% | ROE | 19.25% |
-| SMA200 dist | +nan% | Revenue (ttm) | $56.57B |
-| 52W high | $73.51 | Revenue growth y/y | 45.90% |
-| 52W low | $37.39 | Inst. ownership | 72.26% |
-| P/E (ttm) | 13.87 | Insider ownership | 0.01% |
-| Forward P/E | 12.30 | Short float | — |
-| PEG (trailing) | — | Avg volume | 4,188,679 |
-| P/S | 1.55 | Employees | 15,424 |
-| P/B | 2.62 | Analyst rec (1=buy..5=sell) | 1.9 |
+| RSI(14) | 73.2 | Operating margin | 29.94% |
+| ATR(14) | 1.80 | Profit margin | 15.78% |
+| SMA20 dist | +8.91% | ROA | 8.58% |
+| SMA50 dist | +12.19% | ROE | 19.25% |
+| SMA200 dist | +24.60% | Revenue (ttm) | $56.57B |
+| 52W high | $75.89 | Revenue growth y/y | 45.90% |
+| 52W low | $37.39 | Inst. ownership | 72.30% |
+| P/E (ttm) | 14.00 | Insider ownership | 0.01% |
+| Forward P/E | 12.46 | Short float | — |
+| PEG (trailing) | — | Avg volume | 4,176,120 |
+| P/S | 1.58 | Employees | 15,424 |
+| P/B | 2.64 | Analyst rec (1=buy..5=sell) | 1.9 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
@@ -129,7 +130,7 @@ Suncor Energy Inc. operates as an integrated energy company in Canada, the Unite
 | 2025-01-07 | reit | RBC Capital | Outperform → Outperform |
 
 ## 9. Conclusion
-SU: Moderate momentum / strong fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+SU: High momentum / strong fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |
