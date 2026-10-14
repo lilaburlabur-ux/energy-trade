@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-10-14T21:34:40+00:00",
-  "as_of_local": "2026-10-14 21:34:40 UTC",
+  "as_of_utc": "2026-10-14T21:39:28+00:00",
+  "as_of_local": "2026-10-14 21:39:28 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "CEG"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -139,6 +137,15 @@
       "previous_close": 688.88,
       "change_pct": -4.12,
       "market_cap": 99306325782.88159,
+      "headlines": []
+    },
+    {
+      "symbol": "CEG",
+      "name": "Constellation Energy",
+      "price": 279.54,
+      "previous_close": 295.79,
+      "change_pct": -5.49,
+      "market_cap": 99043087753.18887,
       "headlines": []
     },
     {
