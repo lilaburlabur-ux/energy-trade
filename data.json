@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-10-14T00:10:41+00:00",
-  "as_of_local": "2026-10-14 00:10:41 UTC",
+  "as_of_utc": "2026-10-14T00:16:02+00:00",
+  "as_of_local": "2026-10-14 00:16:02 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "ET"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -64,7 +66,7 @@
       "price": 426.69,
       "previous_close": 429.65,
       "change_pct": -0.69,
-      "market_cap": 166355604000.0,
+      "market_cap": 166312773000.0,
       "headlines": []
     },
     {
@@ -73,7 +75,7 @@
       "price": 78.51,
       "previous_close": 77.38,
       "change_pct": 1.46,
-      "market_cap": 163165215507.98,
+      "market_cap": 163136051102.76,
       "headlines": []
     },
     {
@@ -82,7 +84,7 @@
       "price": 458.81,
       "previous_close": 455.03,
       "change_pct": 0.83,
-      "market_cap": 133947795455.74,
+      "market_cap": 139247936162.30002,
       "headlines": []
     },
     {
@@ -190,7 +192,7 @@
       "price": 150.51,
       "previous_close": 148.16,
       "change_pct": 1.59,
-      "market_cap": 80342133887.92,
+      "market_cap": 81582711940.09999,
       "headlines": []
     },
     {
@@ -227,15 +229,6 @@
       "previous_close": 48.95,
       "change_pct": -0.37,
       "market_cap": 72381665375.87001,
-      "headlines": []
-    },
-    {
-      "symbol": "ET",
-      "name": "Energy Transfer",
-      "price": 20.41,
-      "previous_close": 20.62,
-      "change_pct": -1.02,
-      "market_cap": 70518775828.48,
       "headlines": []
     },
     {
@@ -352,7 +345,7 @@
       "price": 70.76,
       "previous_close": 72.28,
       "change_pct": -2.1,
-      "market_cap": 35123659514.1,
+      "market_cap": 35116709198.94,
       "headlines": []
     },
     {
@@ -487,7 +480,7 @@
       "price": 29.09,
       "previous_close": 29.53,
       "change_pct": -1.49,
-      "market_cap": 8595196968.64,
+      "market_cap": 8685823637.6,
       "headlines": []
     },
     {
@@ -523,7 +516,7 @@
       "price": 76.76,
       "previous_close": 77.92,
       "change_pct": -1.49,
-      "market_cap": 5521449549.839999,
+      "market_cap": 5534833054.03,
       "headlines": []
     },
     {
@@ -532,7 +525,7 @@
       "price": 31.49,
       "previous_close": 32.81,
       "change_pct": -4.02,
-      "market_cap": 4232593075.44,
+      "market_cap": 4221496986.6000004,
       "headlines": []
     },
     {
@@ -568,7 +561,7 @@
       "price": 9.66,
       "previous_close": 9.96,
       "change_pct": -3.01,
-      "market_cap": 2454451012.44,
+      "market_cap": 2317175550.0,
       "headlines": []
     },
     {
@@ -823,18 +816,18 @@
     },
     {
       "label": "WTI",
-      "price": 94.77,
-      "change_pct": 1.1
+      "price": 94.79,
+      "change_pct": 1.12
     },
     {
       "label": "Brent",
-      "price": 106.32,
-      "change_pct": -0.31
+      "price": 106.35,
+      "change_pct": -0.28
     },
     {
       "label": "NatGas",
       "price": 3.32,
-      "change_pct": 4.77
+      "change_pct": 4.8
     }
   ]
 }
