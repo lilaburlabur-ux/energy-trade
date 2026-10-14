@@ -117,7 +117,7 @@ Oklo Inc. develops fission power plants to provide energy at scale to customers 
 | Forward P/E | -26.79 | Short float | 19.99% |
 | PEG (trailing) | — | Avg volume | 9,826,464 |
 | P/S | 4,464.42 | Employees | 215 |
-| P/B | 1.64 | Analyst rec (1=buy..5=sell) | 2.1 |
+| P/B | 1.64 | Analyst rec (1=buy..5=sell) | 2.2 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

@@ -60,7 +60,7 @@ Array Technologies, Inc. engages in the manufacture and sale of solar tracking t
 | Profitability | Gross 26.76%, operating 10.88%, net -7.25% | ROA 3.33%, ROE -25.98% |
 | Balance sheet | Cash $307.30M, debt $752.89M | Current ratio 2.20, debt/equity 254.27 |
 | Valuation | P/E —, forward P/E 3.59, P/S 0.44, P/B -2.58 | EV/Sales 1.26, EV/EBITDA 12.51 |
-| Growth expectations | Earnings growth -73.20%, EPS q/q -43.70% | Analyst mean target $7.75 (22 analysts) |
+| Growth expectations | Earnings growth -73.20%, EPS q/q -43.70% | Analyst mean target $7.53 (22 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |

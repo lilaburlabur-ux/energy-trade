@@ -60,7 +60,7 @@ Vertiv Holdings Co designs, manufactures, and services critical digital infrastr
 | Profitability | Gross 38.04%, operating 20.36%, net 15.09% | ROA 10.89%, ROE 43.94% |
 | Balance sheet | Cash $3.11B, debt $3.34B | Current ratio 1.38, debt/equity 70.17 |
 | Valuation | P/E 50.41, forward P/E 24.24, P/S 7.47, P/B 18.03 | EV/Sales 7.98, EV/EBITDA 34.19 |
-| Growth expectations | Earnings growth 53.00%, EPS q/q 53.50% | Analyst mean target $335.64 (28 analysts) |
+| Growth expectations | Earnings growth 53.00%, EPS q/q 53.50% | Analyst mean target $335.14 (28 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |

@@ -38,7 +38,7 @@ Phillips 66 operates as an integrated downstream energy provider in the United S
 | Price vs 52-week range | Close $297.29; 52w high $297.29 (+0.00%); 52w low $124.67 (+138.46%) |
 | Trend | +57.66% vs SMA200, +17.95% vs SMA50, +10.80% vs SMA20 |
 | Momentum | RSI(14) 79.0 (overbought) |
-| Volatility | ATR(14) 8.70 (~2.9% of price); beta 0.70 |
+| Volatility | ATR(14) 8.69 (~2.9% of price); beta 0.70 |
 | Setup perspective | +0.00% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
@@ -105,7 +105,7 @@ Phillips 66 operates as an integrated downstream energy provider in the United S
 | Market cap | $118.62B | EV/EBITDA | 13.55 |
 | Beta | 0.70 | Gross margin | 13.10% |
 | RSI(14) | 79.0 | Operating margin | 8.53% |
-| ATR(14) | 8.70 | Profit margin | 4.66% |
+| ATR(14) | 8.69 | Profit margin | 4.66% |
 | SMA20 dist | +10.80% | ROA | 6.04% |
 | SMA50 dist | +17.95% | ROE | 23.45% |
 | SMA200 dist | +57.66% | Revenue (ttm) | $152.17B |

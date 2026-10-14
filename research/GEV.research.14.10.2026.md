@@ -60,7 +60,7 @@ GE Vernova Inc., an energy company, engages in the provision of various products
 | Profitability | Gross 20.57%, operating 7.47%, net 23.04% | ROA 2.54%, ROE 82.58% |
 | Balance sheet | Cash $12.72B, debt $3.72B | Current ratio 0.85, debt/equity 28.36 |
 | Valuation | P/E 26.79, forward P/E 37.27, P/S 6.06, P/B 20.98 | EV/Sales 6.28, EV/EBITDA 66.10 |
-| Growth expectations | Earnings growth 32.80%, EPS q/q 30.00% | Analyst mean target $1,224.89 (33 analysts) |
+| Growth expectations | Earnings growth 32.80%, EPS q/q 30.00% | Analyst mean target $1,223.98 (33 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
