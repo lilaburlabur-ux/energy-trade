@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-10-14T20:21:15+00:00",
-  "as_of_local": "2026-10-14 20:21:15 UTC",
+  "as_of_utc": "2026-10-14T20:23:35+00:00",
+  "as_of_local": "2026-10-14 20:23:35 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -232,10 +232,10 @@
     {
       "symbol": "ET",
       "name": "Energy Transfer",
-      "price": 20.42,
+      "price": 20.25,
       "previous_close": 20.41,
-      "change_pct": 0.05,
-      "market_cap": 70312178115.12291,
+      "change_pct": -0.78,
+      "market_cap": 69726816920.25,
       "headlines": []
     },
     {
@@ -509,15 +509,6 @@
       "headlines": []
     },
     {
-      "symbol": "WFRD",
-      "name": "Weatherford",
-      "price": 75.45,
-      "previous_close": 77.21,
-      "change_pct": -2.28,
-      "market_cap": 5408666455.583389,
-      "headlines": []
-    },
-    {
       "symbol": "OKLO",
       "name": "Oklo",
       "price": 29.04,
@@ -527,12 +518,21 @@
       "headlines": []
     },
     {
+      "symbol": "WFRD",
+      "name": "Weatherford",
+      "price": 75.45,
+      "previous_close": 77.21,
+      "change_pct": -2.28,
+      "market_cap": 5395588028.562378,
+      "headlines": []
+    },
+    {
       "symbol": "ENPH",
       "name": "Enphase Energy",
       "price": 29.35,
       "previous_close": 32.03,
       "change_pct": -8.37,
-      "market_cap": 3868277807.277031,
+      "market_cap": 3878445469.2091827,
       "headlines": []
     },
     {
@@ -568,7 +568,7 @@
       "price": 8.34,
       "previous_close": 9.27,
       "change_pct": -10.03,
-      "market_cap": 2084708138.141632,
+      "market_cap": 2208211630.881241,
       "headlines": []
     },
     {
@@ -823,8 +823,8 @@
     },
     {
       "label": "WTI",
-      "price": 95.1,
-      "change_pct": 1.02
+      "price": 95.14,
+      "change_pct": 1.06
     },
     {
       "label": "Brent",
@@ -833,8 +833,8 @@
     },
     {
       "label": "NatGas",
-      "price": 3.26,
-      "change_pct": -0.82
+      "price": 3.25,
+      "change_pct": -0.97
     }
   ]
 }
