@@ -1,9 +1,10 @@
 {
-  "as_of_utc": "2026-10-14T12:12:06+00:00",
-  "as_of_local": "2026-10-14 12:12:06 UTC",
+  "as_of_utc": "2026-10-14T12:17:04+00:00",
+  "as_of_local": "2026-10-14 12:17:04 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "ET"
+    "ET",
+    "DUK"
   ],
   "stocks": [
     {
@@ -148,15 +149,6 @@
       "previous_close": 87.04,
       "change_pct": 1.23,
       "market_cap": 101358481636.38583,
-      "headlines": []
-    },
-    {
-      "symbol": "DUK",
-      "name": "Duke Energy",
-      "price": 118.19,
-      "previous_close": 117.69,
-      "change_pct": 0.42,
-      "market_cap": 92153004094.2398,
       "headlines": []
     },
     {
@@ -816,18 +808,18 @@
     },
     {
       "label": "WTI",
-      "price": 95.81,
-      "change_pct": 1.77
+      "price": 95.68,
+      "change_pct": 1.64
     },
     {
       "label": "Brent",
-      "price": 106.32,
-      "change_pct": 0.6
+      "price": 106.2,
+      "change_pct": 0.48
     },
     {
       "label": "NatGas",
       "price": 3.26,
-      "change_pct": -0.58
+      "change_pct": -0.7
     }
   ]
 }
