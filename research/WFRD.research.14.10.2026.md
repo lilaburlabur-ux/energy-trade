@@ -18,7 +18,7 @@ Signed file: `WFRD.research.14.10.2026`
 | Technical momentum | Low | Below SMA200 (-18.66%) with negative half-year (-23.96%). |
 | Fresh setup quality | Poor / broken | -32.07% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 7.66%, revenue growth -8.20%. |
-| Value attractiveness | Reasonable | Forward P/E 11.08, EV/Sales 1.27. |
+| Value attractiveness | Reasonable | Forward P/E 10.66, EV/Sales 1.24. |
 | Risk level | Elevated | Beta 1.05, ATR 4.0% of price, short float 6.64%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
@@ -59,7 +59,7 @@ Weatherford International plc, an energy services company, provides equipment an
 | Revenue (ttm) | $4.78B | Revenue growth -8.20% y/y |
 | Profitability | Gross 30.51%, operating 10.50%, net 7.66% | ROA 7.90%, ROE 22.79% |
 | Balance sheet | Cash $1.10B, debt $1.62B | Current ratio 2.34, debt/equity 90.67 |
-| Valuation | P/E 14.88, forward P/E 11.08, P/S 1.13, P/B 3.03 | EV/Sales 1.27, EV/EBITDA 6.52 |
+| Valuation | P/E 14.68, forward P/E 10.66, P/S 1.13, P/B 3.03 | EV/Sales 1.24, EV/EBITDA 6.38 |
 | Growth expectations | Earnings growth -71.00%, EPS q/q -71.30% | Analyst mean target $115.25 (12 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -103,8 +103,8 @@ Weatherford International plc, an energy services company, provides equipment an
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $75.45 | EV/Sales | 1.27 |
-| Market cap | $5.40B | EV/EBITDA | 6.52 |
+| Price | $75.45 | EV/Sales | 1.24 |
+| Market cap | $5.40B | EV/EBITDA | 6.38 |
 | Beta | 1.05 | Gross margin | 30.51% |
 | RSI(14) | 34.1 | Operating margin | 10.50% |
 | ATR(14) | 3.03 | Profit margin | 7.66% |
@@ -113,8 +113,8 @@ Weatherford International plc, an energy services company, provides equipment an
 | SMA200 dist | -18.66% | Revenue (ttm) | $4.78B |
 | 52W high | $111.07 | Revenue growth y/y | -8.20% |
 | 52W low | $61.56 | Inst. ownership | 107.15% |
-| P/E (ttm) | 14.88 | Insider ownership | 2.12% |
-| Forward P/E | 11.08 | Short float | 6.64% |
+| P/E (ttm) | 14.68 | Insider ownership | 2.12% |
+| Forward P/E | 10.66 | Short float | 6.64% |
 | PEG (trailing) | 1.29 | Avg volume | 1,047,273 |
 | P/S | 1.13 | Employees | 16,700 |
 | P/B | 3.03 | Analyst rec (1=buy..5=sell) | 1.7 |

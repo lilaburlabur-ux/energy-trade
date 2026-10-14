@@ -18,7 +18,7 @@ Signed file: `SLB.research.14.10.2026`
 | Technical momentum | Low | Below SMA200 (-3.99%) with negative half-year (-6.49%). |
 | Fresh setup quality | Moderate / wait | -18.87% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 8.53%, revenue growth 5.00%. |
-| Value attractiveness | Reasonable | Forward P/E 15.15, EV/Sales 2.26. |
+| Value attractiveness | Reasonable | Forward P/E 15.15, EV/Sales 2.25. |
 | Risk level | Elevated | Beta 0.84, ATR 3.2% of price, short float 4.65%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
@@ -59,7 +59,7 @@ SLB N.V. engages in the provision of technology for the energy industry worldwid
 | Revenue (ttm) | $36.37B | Revenue growth 5.00% y/y |
 | Profitability | Gross 16.99%, operating 12.71%, net 8.53% | ROA 6.17%, ROE 12.91% |
 | Balance sheet | Cash $4.12B, debt $12.81B | Current ratio 1.44, debt/equity 47.00 |
-| Valuation | P/E 23.43, forward P/E 15.15, P/S 1.98, P/B 2.76 | EV/Sales 2.26, EV/EBITDA 11.14 |
+| Valuation | P/E 23.43, forward P/E 15.15, P/S 1.98, P/B 2.76 | EV/Sales 2.25, EV/EBITDA 11.09 |
 | Growth expectations | Earnings growth -29.70%, EPS q/q -22.50% | Analyst mean target $62.41 (29 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -101,8 +101,8 @@ SLB N.V. engages in the provision of technology for the energy industry worldwid
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $48.51 | EV/Sales | 2.26 |
-| Market cap | $72.00B | EV/EBITDA | 11.14 |
+| Price | $48.51 | EV/Sales | 2.25 |
+| Market cap | $72.00B | EV/EBITDA | 11.09 |
 | Beta | 0.84 | Gross margin | 16.99% |
 | RSI(14) | 37.5 | Operating margin | 12.71% |
 | ATR(14) | 1.54 | Profit margin | 8.53% |

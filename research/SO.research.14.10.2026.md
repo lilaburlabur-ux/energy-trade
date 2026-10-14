@@ -18,7 +18,7 @@ Signed file: `SO.research.14.10.2026`
 | Technical momentum | Low | Below SMA200 (-1.87%) with negative half-year (-3.99%). |
 | Fresh setup quality | Moderate / wait | -8.32% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 15.43%, revenue growth 0.10%. |
-| Value attractiveness | Reasonable | Forward P/E 18.15, EV/Sales 5.91. |
+| Value attractiveness | Reasonable | Forward P/E 18.15, EV/Sales 5.95. |
 | Risk level | Moderate | Beta 0.30, ATR 1.5% of price, short float 2.55%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -59,7 +59,7 @@ The Southern Company, through its subsidiaries, engages in the sale of electrici
 | Revenue (ttm) | $30.18B | Revenue growth 0.10% y/y |
 | Profitability | Gross 48.29%, operating 29.61%, net 15.43% | ROA 3.27%, ROE 11.48% |
 | Balance sheet | Cash $2.98B, debt $77.09B | Current ratio 0.79, debt/equity 182.06 |
-| Valuation | P/E 21.54, forward P/E 18.15, P/S 3.41, P/B 2.60 | EV/Sales 5.91, EV/EBITDA 12.50 |
+| Valuation | P/E 21.54, forward P/E 18.15, P/S 3.41, P/B 2.60 | EV/Sales 5.95, EV/EBITDA 12.60 |
 | Growth expectations | Earnings growth 30.40%, EPS q/q 33.40% | Analyst mean target $97.08 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -100,8 +100,8 @@ The Southern Company, through its subsidiaries, engages in the sale of electrici
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $89.38 | EV/Sales | 5.91 |
-| Market cap | $102.82B | EV/EBITDA | 12.50 |
+| Price | $89.38 | EV/Sales | 5.95 |
+| Market cap | $102.82B | EV/EBITDA | 12.60 |
 | Beta | 0.30 | Gross margin | 48.29% |
 | RSI(14) | 67.8 | Operating margin | 29.61% |
 | ATR(14) | 1.37 | Profit margin | 15.43% |

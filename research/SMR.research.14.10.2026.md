@@ -18,7 +18,7 @@ Signed file: `SMR.research.14.10.2026`
 | Technical momentum | Low | Below SMA200 (-49.70%) with negative half-year (-50.21%). |
 | Fresh setup quality | Poor / broken | -89.09% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 0.00%, revenue growth -99.10%. |
-| Value attractiveness | Reasonable | Forward P/E -8.83, EV/Sales 145.03. |
+| Value attractiveness | Reasonable | Forward P/E -8.83, EV/Sales 119.69. |
 | Risk level | High | Beta 2.37, ATR 9.4% of price, short float 20.72%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: high.
@@ -59,7 +59,7 @@ NuScale Power Corporation provides small modular reactor technology solutions. I
 | Revenue (ttm) | $10.69M | Revenue growth -99.10% y/y |
 | Profitability | Gross 23.54%, operating -85337.33%, net 0.00% | ROA -10.60%, ROE -55.18% |
 | Balance sheet | Cash $1.07B, debt $6.69M | Current ratio 37.88, debt/equity 0.33 |
-| Valuation | P/E —, forward P/E -8.83, P/S 223.81, P/B 1.16 | EV/Sales 145.03, EV/EBITDA -6.92 |
+| Valuation | P/E —, forward P/E -8.83, P/S 223.81, P/B 1.16 | EV/Sales 119.69, EV/EBITDA -5.71 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $11.77 (15 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -103,8 +103,8 @@ NuScale Power Corporation provides small modular reactor technology solutions. I
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $5.83 | EV/Sales | 145.03 |
-| Market cap | $2.39B | EV/EBITDA | -6.92 |
+| Price | $5.83 | EV/Sales | 119.69 |
+| Market cap | $2.39B | EV/EBITDA | -5.71 |
 | Beta | 2.37 | Gross margin | 23.54% |
 | RSI(14) | 25.9 | Operating margin | -85337.33% |
 | ATR(14) | 0.55 | Profit margin | 0.00% |

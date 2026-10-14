@@ -18,7 +18,7 @@ Signed file: `TLN.research.14.10.2026`
 | Technical momentum | Moderate | 1Y -17.76%; price +1.95% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -18.19% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Weak | Negative profit margin (-4.95%). |
-| Value attractiveness | Reasonable | Forward P/E 11.31, EV/Sales 7.40. |
+| Value attractiveness | Reasonable | Forward P/E 11.56, EV/Sales 7.09. |
 | Risk level | High | Beta 1.62, ATR 5.0% of price, short float 5.94%. |
 
 **Bottom line:** Moderate technical momentum, weak fundamentals, value: reasonable, risk: high.
@@ -59,7 +59,7 @@ Talen Energy Corporation, an independent power producer and infrastructure compa
 | Revenue (ttm) | $3.74B | Revenue growth 111.20% y/y |
 | Profitability | Gross 42.10%, operating -4.80%, net -4.95% | ROA 0.92%, ROE -12.83% |
 | Balance sheet | Cash $232.00M, debt $9.57B | Current ratio 0.78, debt/equity 584.14 |
-| Valuation | P/E —, forward P/E 11.31, P/S 4.53, P/B 10.62 | EV/Sales 7.40, EV/EBITDA 47.55 |
+| Valuation | P/E —, forward P/E 11.56, P/S 4.53, P/B 10.62 | EV/Sales 7.09, EV/EBITDA 45.60 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $455.53 (17 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -103,8 +103,8 @@ Talen Energy Corporation, an independent power producer and infrastructure compa
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $358.42 | EV/Sales | 7.40 |
-| Market cap | $16.95B | EV/EBITDA | 47.55 |
+| Price | $358.42 | EV/Sales | 7.09 |
+| Market cap | $16.95B | EV/EBITDA | 45.60 |
 | Beta | 1.62 | Gross margin | 42.10% |
 | RSI(14) | 58.4 | Operating margin | -4.80% |
 | ATR(14) | 18.04 | Profit margin | -4.95% |
@@ -114,7 +114,7 @@ Talen Energy Corporation, an independent power producer and infrastructure compa
 | 52W high | $438.12 | Revenue growth y/y | 111.20% |
 | 52W low | $282.15 | Inst. ownership | 102.82% |
 | P/E (ttm) | — | Insider ownership | 1.38% |
-| Forward P/E | 11.31 | Short float | 5.94% |
+| Forward P/E | 11.56 | Short float | 5.94% |
 | PEG (trailing) | — | Avg volume | 901,756 |
 | P/S | 4.53 | Employees | 1,880 |
 | P/B | 10.62 | Analyst rec (1=buy..5=sell) | 1.6 |

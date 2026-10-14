@@ -5,7 +5,7 @@ Signed file: `ETN.research.14.10.2026`
 | Field | Value |
 |---|---|
 | Current price | $408.85 (2026-10-14, ~15-min delayed) |
-| Market cap | $158.76B |
+| Market cap | $158.80B |
 | Sector / Industry | Industrials / Specialty Industrial Machinery |
 | Main theme | Specialty Industrial Machinery — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: fair-to-demanding, risk: elevated. |
@@ -18,7 +18,7 @@ Signed file: `ETN.research.14.10.2026`
 | Technical momentum | Moderate | 1Y +10.13%; price +4.30% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -11.11% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 12.75%, revenue growth 21.40%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 25.11, EV/Sales 6.23. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 25.11, EV/Sales 5.98. |
 | Risk level | Elevated | Beta 1.13, ATR 3.6% of price, short float 2.06%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: fair-to-demanding, risk: elevated.
@@ -59,7 +59,7 @@ Eaton Corporation plc operates as a power management company in the United State
 | Revenue (ttm) | $30.03B | Revenue growth 21.40% y/y |
 | Profitability | Gross 36.02%, operating 16.56%, net 12.75% | ROA 7.05%, ROE 19.68% |
 | Balance sheet | Cash $695.00M, debt $21.33B | Current ratio 1.24, debt/equity 105.06 |
-| Valuation | P/E 41.59, forward P/E 25.11, P/S 5.29, P/B 7.84 | EV/Sales 6.23, EV/EBITDA 28.17 |
+| Valuation | P/E 41.59, forward P/E 25.11, P/S 5.29, P/B 7.84 | EV/Sales 5.98, EV/EBITDA 27.03 |
 | Growth expectations | Earnings growth -15.90%, EPS q/q -16.40% | Analyst mean target $484.89 (26 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -86,7 +86,7 @@ Eaton Corporation plc operates as a power management company in the United State
 | Wellington Management Group, LLP | 6,827,266 | 1.76% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 25.11, EV/Sales 6.23. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 25.11, EV/Sales 5.98. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 1.13, ATR 3.6% of price, short float 2.06%. Size positions accordingly.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -102,8 +102,8 @@ Eaton Corporation plc operates as a power management company in the United State
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $408.85 | EV/Sales | 6.23 |
-| Market cap | $158.76B | EV/EBITDA | 28.17 |
+| Price | $408.85 | EV/Sales | 5.98 |
+| Market cap | $158.80B | EV/EBITDA | 27.03 |
 | Beta | 1.13 | Gross margin | 36.02% |
 | RSI(14) | 41.4 | Operating margin | 16.56% |
 | ATR(14) | 14.55 | Profit margin | 12.75% |

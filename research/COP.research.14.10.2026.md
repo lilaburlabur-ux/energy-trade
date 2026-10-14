@@ -18,7 +18,7 @@ Signed file: `COP.research.14.10.2026`
 | Technical momentum | High | 1Y +65.38%; price +21.54% vs SMA200. |
 | Fresh setup quality | Moderate / wait | +0.00% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 14.40%, revenue growth 35.50%. |
-| Value attractiveness | Reasonable | Forward P/E 13.96, EV/Sales 2.87. |
+| Value attractiveness | Reasonable | Forward P/E 13.95, EV/Sales 2.90. |
 | Risk level | Moderate | Beta 0.24, ATR 2.2% of price, short float 1.28%. |
 
 **Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -59,7 +59,7 @@ ConocoPhillips explores for, produces, transports, and markets crude oil, bitume
 | Revenue (ttm) | $64.46B | Revenue growth 35.50% y/y |
 | Profitability | Gross 47.57%, operating 31.51%, net 14.40% | ROA 7.53%, ROE 14.18% |
 | Balance sheet | Cash $7.69B, debt $23.29B | Current ratio 1.54, debt/equity 35.64 |
-| Valuation | P/E 18.85, forward P/E 13.96, P/S 2.65, P/B 2.62 | EV/Sales 2.87, EV/EBITDA 6.90 |
+| Valuation | P/E 18.85, forward P/E 13.95, P/S 2.65, P/B 2.62 | EV/Sales 2.90, EV/EBITDA 6.97 |
 | Growth expectations | Earnings growth 107.00%, EPS q/q 99.40% | Analyst mean target $148.04 (26 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -101,8 +101,8 @@ ConocoPhillips explores for, produces, transports, and markets crude oil, bitume
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $142.34 | EV/Sales | 2.87 |
-| Market cap | $171.00B | EV/EBITDA | 6.90 |
+| Price | $142.34 | EV/Sales | 2.90 |
+| Market cap | $171.00B | EV/EBITDA | 6.97 |
 | Beta | 0.24 | Gross margin | 47.57% |
 | RSI(14) | 71.3 | Operating margin | 31.51% |
 | ATR(14) | 3.17 | Profit margin | 14.40% |
@@ -112,7 +112,7 @@ ConocoPhillips explores for, produces, transports, and markets crude oil, bitume
 | 52W high | $142.34 | Revenue growth y/y | 35.50% |
 | 52W low | $83.04 | Inst. ownership | 87.05% |
 | P/E (ttm) | 18.85 | Insider ownership | 0.10% |
-| Forward P/E | 13.96 | Short float | 1.28% |
+| Forward P/E | 13.95 | Short float | 1.28% |
 | PEG (trailing) | 1.08 | Avg volume | 6,511,082 |
 | P/S | 2.65 | Employees | 9,600 |
 | P/B | 2.62 | Analyst rec (1=buy..5=sell) | 1.8 |

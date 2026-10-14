@@ -5,7 +5,7 @@ Signed file: `EOSE.research.14.10.2026`
 | Field | Value |
 |---|---|
 | Current price | $1.95 (2026-10-14, ~15-min delayed) |
-| Market cap | $710.13M |
+| Market cap | $705.29M |
 | Sector / Industry | Industrials / Electrical Equipment & Parts |
 | Main theme | Electrical Equipment & Parts — see catalysts below |
 | Current stance | Low technical momentum, weak fundamentals, value: reasonable, risk: high. |
@@ -59,7 +59,7 @@ Eos Energy Enterprises, Inc. designs, develops, manufactures, and markets energy
 | Revenue (ttm) | $214.25M | Revenue growth 351.40% y/y |
 | Profitability | Gross -84.75%, operating -121.86%, net -246.76% | ROA -30.03%, ROE — |
 | Balance sheet | Cash $305.49M, debt $640.83M | Current ratio 3.26, debt/equity — |
-| Valuation | P/E —, forward P/E -11.24, P/S 3.31, P/B -0.64 | EV/Sales 8.84, EV/EBITDA -6.66 |
+| Valuation | P/E —, forward P/E -11.24, P/S 3.29, P/B -0.64 | EV/Sales 8.84, EV/EBITDA -6.66 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $6.50 (9 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -105,7 +105,7 @@ Eos Energy Enterprises, Inc. designs, develops, manufactures, and markets energy
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $1.95 | EV/Sales | 8.84 |
-| Market cap | $710.13M | EV/EBITDA | -6.66 |
+| Market cap | $705.29M | EV/EBITDA | -6.66 |
 | Beta | 2.88 | Gross margin | -84.75% |
 | RSI(14) | 22.0 | Operating margin | -121.86% |
 | ATR(14) | 0.27 | Profit margin | -246.76% |
@@ -117,7 +117,7 @@ Eos Energy Enterprises, Inc. designs, develops, manufactures, and markets energy
 | P/E (ttm) | — | Insider ownership | 1.36% |
 | Forward P/E | -11.24 | Short float | 37.39% |
 | PEG (trailing) | — | Avg volume | 27,210,503 |
-| P/S | 3.31 | Employees | 787 |
+| P/S | 3.29 | Employees | 787 |
 | P/B | -0.64 | Analyst rec (1=buy..5=sell) | 2.4 |
 
 ## 8. Analyst Actions
