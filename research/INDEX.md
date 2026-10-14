@@ -48,7 +48,7 @@
 | UUUU | $2.21B | -65% | 17.2 | -77% | Low | Reasonable | High |
 | BWXT | $12.32B | -31% | 25.7 | 10% | Low | Fair-to-demanding | Elevated |
 | FSLR | $19.25B | -21% | 7.6 | 32% | Low | Reasonable | High |
-| ENPH | $3.87B | -16% | 13.4 | 10% | Low | Reasonable | High |
+| ENPH | $3.87B | -16% | 13.5 | 10% | Low | Reasonable | High |
 | NEE | $163.45B | -4% | 17.9 | 32% | Low | Reasonable | Moderate |
 | RUN | $1.76B | -66% | 14.1 | 12% | Low | Reasonable | High |
 | SEDG | $1.88B | -16% | 37.9 | -20% | Low | Low (expensive) | High |
