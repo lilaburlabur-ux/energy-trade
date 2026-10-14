@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-10-14T20:08:46+00:00",
-  "as_of_local": "2026-10-14 20:08:46 UTC",
+  "as_of_utc": "2026-10-14T20:13:28+00:00",
+  "as_of_local": "2026-10-14 20:13:28 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -64,7 +64,7 @@
       "price": 78.39,
       "previous_close": 78.22,
       "change_pct": 0.22,
-      "market_cap": 163490602740.6675,
+      "market_cap": 163519830530.32996,
       "headlines": []
     },
     {
@@ -73,7 +73,7 @@
       "price": 408.75,
       "previous_close": 428.31,
       "change_pct": -4.57,
-      "market_cap": 158717625000.0,
+      "market_cap": 158758500000.0,
       "headlines": []
     },
     {
@@ -82,7 +82,7 @@
       "price": 485.05,
       "previous_close": 476.98,
       "change_pct": 1.69,
-      "market_cap": 141603861243.07037,
+      "market_cap": 136214047865.11334,
       "headlines": []
     },
     {
@@ -106,10 +106,10 @@
     {
       "symbol": "PSX",
       "name": "Phillips 66",
-      "price": 297.24,
+      "price": 297.2,
       "previous_close": 292.73,
-      "change_pct": 1.54,
-      "market_cap": 118606970228.07568,
+      "change_pct": 1.53,
+      "market_cap": 118589021106.06079,
       "headlines": []
     },
     {
@@ -124,10 +124,10 @@
     {
       "symbol": "SO",
       "name": "Southern Company",
-      "price": 89.39,
+      "price": 89.38,
       "previous_close": 88.11,
-      "change_pct": 1.45,
-      "market_cap": 102830944828.61417,
+      "change_pct": 1.44,
+      "market_cap": 102819438741.51375,
       "headlines": []
     },
     {
@@ -190,7 +190,7 @@
       "price": 154.2,
       "previous_close": 153.17,
       "change_pct": 0.67,
-      "market_cap": 82131317700.54672,
+      "market_cap": 80882397338.46399,
       "headlines": []
     },
     {
@@ -352,7 +352,7 @@
       "price": 70.53,
       "previous_close": 70.47,
       "change_pct": 0.09,
-      "market_cap": 35146607874.75751,
+      "market_cap": 35153564107.47711,
       "headlines": []
     },
     {
@@ -403,10 +403,10 @@
     {
       "symbol": "NRG",
       "name": "NRG Energy",
-      "price": 100.86,
+      "price": 100.85,
       "previous_close": 107.18,
-      "change_pct": -5.9,
-      "market_cap": 21201829443.682297,
+      "change_pct": -5.91,
+      "market_cap": 21199726889.79426,
       "headlines": []
     },
     {
@@ -487,7 +487,7 @@
       "price": 27.89,
       "previous_close": 28.64,
       "change_pct": -2.64,
-      "market_cap": 8456850353.43936,
+      "market_cap": 8368612759.7001,
       "headlines": []
     },
     {
@@ -509,15 +509,6 @@
       "headlines": []
     },
     {
-      "symbol": "WFRD",
-      "name": "Weatherford",
-      "price": 75.45,
-      "previous_close": 77.21,
-      "change_pct": -2.28,
-      "market_cap": 5408666455.583389,
-      "headlines": []
-    },
-    {
       "symbol": "OKLO",
       "name": "Oklo",
       "price": 29.04,
@@ -527,12 +518,21 @@
       "headlines": []
     },
     {
+      "symbol": "WFRD",
+      "name": "Weatherford",
+      "price": 75.45,
+      "previous_close": 77.21,
+      "change_pct": -2.28,
+      "market_cap": 5395588028.562378,
+      "headlines": []
+    },
+    {
       "symbol": "ENPH",
       "name": "Enphase Energy",
       "price": 29.35,
       "previous_close": 32.03,
       "change_pct": -8.37,
-      "market_cap": 3868277807.277031,
+      "market_cap": 3878445469.2091827,
       "headlines": []
     },
     {
@@ -556,10 +556,10 @@
     {
       "symbol": "SMR",
       "name": "NuScale Power",
-      "price": 5.84,
+      "price": 5.85,
       "previous_close": 6.49,
-      "change_pct": -9.94,
-      "market_cap": 2398726669.9868517,
+      "change_pct": -9.86,
+      "market_cap": 2400778664.5622053,
       "headlines": []
     },
     {
@@ -568,7 +568,7 @@
       "price": 8.34,
       "previous_close": 9.27,
       "change_pct": -10.03,
-      "market_cap": 2084708138.141632,
+      "market_cap": 2208211630.881241,
       "headlines": []
     },
     {
@@ -674,8 +674,8 @@
           "name": "Phillips 66",
           "short": "Phillips",
           "weight_pct": 4.64,
-          "change_pct": 1.54,
-          "price": 297.24,
+          "change_pct": 1.53,
+          "price": 297.2,
           "currency": "USD"
         },
         {
@@ -773,8 +773,8 @@
         "name": "Phillips 66",
         "short": "Phillips",
         "weight_pct": 4.64,
-        "change_pct": 1.54,
-        "price": 297.24,
+        "change_pct": 1.53,
+        "price": 297.2,
         "currency": "USD"
       },
       {
@@ -823,18 +823,18 @@
     },
     {
       "label": "WTI",
-      "price": 95.15,
-      "change_pct": 1.07
+      "price": 95.2,
+      "change_pct": 1.13
     },
     {
       "label": "Brent",
-      "price": 106.04,
-      "change_pct": 0.33
+      "price": 106.08,
+      "change_pct": 0.37
     },
     {
       "label": "NatGas",
-      "price": 3.3,
-      "change_pct": 0.52
+      "price": 3.28,
+      "change_pct": -0.18
     }
   ]
 }
