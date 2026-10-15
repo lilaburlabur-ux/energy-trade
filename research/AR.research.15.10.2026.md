@@ -119,6 +119,7 @@ Antero Resources Corporation, an independent oil and natural gas company, engage
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-10-15 | init | Scotiabank | — → Sector Outperform |
 | 2026-10-15 | main | Morgan Stanley | Overweight → Overweight |
 | 2026-10-08 | main | Mizuho | Outperform → Outperform |
 | 2026-10-06 | main | UBS | Buy → Buy |
@@ -126,7 +127,6 @@ Antero Resources Corporation, an independent oil and natural gas company, engage
 | 2026-10-02 | main | Jefferies | Buy → Buy |
 | 2026-09-14 | main | UBS | Buy → Buy |
 | 2026-09-02 | main | Goldman Sachs | Buy → Buy |
-| 2026-09-01 | main | Raymond James | Strong Buy → Strong Buy |
 
 ## 9. Conclusion
 AR: Moderate momentum / strong fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

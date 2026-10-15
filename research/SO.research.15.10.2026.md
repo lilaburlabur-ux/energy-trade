@@ -16,7 +16,7 @@ Signed file: `SO.research.15.10.2026`
 | Area | Score / Read | Reason |
 |---|---|---|
 | Technical momentum | Low | Below SMA200 (-2.11%) with negative half-year (-4.47%). |
-| Fresh setup quality | Moderate / wait | -8.52% from 52w high; no clean fresh pivot by default. |
+| Fresh setup quality | Moderate / wait | -8.53% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 15.43%, revenue growth 0.10%. |
 | Value attractiveness | Reasonable | Forward P/E 18.11, EV/Sales 5.95. |
 | Risk level | Moderate | Beta 0.30, ATR 1.6% of price, short float 2.55%. |
@@ -35,11 +35,11 @@ The Southern Company, through its subsidiaries, engages in the sale of electrici
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $89.18; 52w high $97.49 (-8.52%); 52w low $82.06 (+8.67%) |
+| Price vs 52-week range | Close $89.18; 52w high $97.49 (-8.53%); 52w low $82.06 (+8.67%) |
 | Trend | -2.11% vs SMA200, +1.64% vs SMA50, +4.80% vs SMA20 |
 | Momentum | RSI(14) 66.3 (neutral) |
 | Volatility | ATR(14) 1.40 (~1.6% of price); beta 0.30 |
-| Setup perspective | -8.52% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -8.53% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 

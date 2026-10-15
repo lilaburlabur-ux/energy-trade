@@ -38,7 +38,7 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 | Price vs 52-week range | Close $174.68; 52w high $177.01 (-1.32%); 52w low $107.52 (+62.46%) |
 | Trend | +16.39% vs SMA200, +7.12% vs SMA50, +5.65% vs SMA20 |
 | Momentum | RSI(14) 68.1 (neutral) |
-| Volatility | ATR(14) 3.57 (~2.0% of price); beta 0.21 |
+| Volatility | ATR(14) 3.56 (~2.0% of price); beta 0.21 |
 | Setup perspective | -1.32% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
@@ -105,7 +105,7 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 | Market cap | $718.27B | EV/EBITDA | 11.28 |
 | Beta | 0.21 | Gross margin | 29.77% |
 | RSI(14) | 68.1 | Operating margin | 15.86% |
-| ATR(14) | 3.57 | Profit margin | 9.07% |
+| ATR(14) | 3.56 | Profit margin | 9.07% |
 | SMA20 dist | +5.65% | ROA | 5.52% |
 | SMA50 dist | +7.12% | ROE | 12.58% |
 | SMA200 dist | +16.39% | Revenue (ttm) | $361.06B |

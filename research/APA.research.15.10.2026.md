@@ -122,6 +122,7 @@ APA Corporation, an independent energy company, explores for, develops, and prod
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-10-15 | init | Scotiabank | — → Sector Perform |
 | 2026-10-15 | main | Mizuho | Underperform → Underperform |
 | 2026-10-15 | main | Morgan Stanley | Underweight → Underweight |
 | 2026-10-15 | main | RBC Capital | Sector Perform → Sector Perform |
@@ -129,7 +130,6 @@ APA Corporation, an independent energy company, explores for, develops, and prod
 | 2026-10-12 | main | UBS | Neutral → Neutral |
 | 2026-10-12 | main | Truist Securities | Hold → Hold |
 | 2026-10-09 | reit | Stephens & Co. | Equal-Weight → Equal-Weight |
-| 2026-09-21 | main | Truist Securities | Hold → Hold |
 
 ## 9. Conclusion
 APA: High momentum / mixed fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

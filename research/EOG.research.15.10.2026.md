@@ -120,6 +120,7 @@ EOG Resources, Inc., together with its subsidiaries, explores for, develops, pro
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-10-15 | init | Scotiabank | — → Sector Perform |
 | 2026-10-15 | main | Morgan Stanley | Equal-Weight → Equal-Weight |
 | 2026-10-09 | main | UBS | Buy → Buy |
 | 2026-10-02 | main | Truist Securities | Hold → Hold |
@@ -127,7 +128,6 @@ EOG Resources, Inc., together with its subsidiaries, explores for, develops, pro
 | 2026-09-14 | main | UBS | Buy → Buy |
 | 2026-09-03 | init | Seaport Global | — → Neutral |
 | 2026-08-27 | main | Citigroup | Neutral → Neutral |
-| 2026-08-24 | main | Goldman Sachs | Neutral → Neutral |
 
 ## 9. Conclusion
 EOG: Moderate momentum / strong fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
