@@ -1,27 +1,10 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-15T23:24:16+00:00",
+  "as_of": "2026-10-15T23:39:22+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": [
-  {
-   "rank": 1,
-   "ticker": "NXE",
-   "company": "Nexgen Energy Ltd.",
-   "move_pct": 5.76,
-   "price": 8.55,
-   "volume": 9473917,
-   "volume_vs_avg": "~2x",
-   "heat_score": 46,
-   "direction": "up",
-   "why": "Why is NexGen Energy stock rallying today?",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSW1QSTZ1bEpGdHpZeWY2NGw5dlk5UVlUdmNBR3dRZUQ3YVlUYXc0QVM3TVJYUWt3T0pKUDRFZl94RkJnRFpnZzZfOHpKWDc3d0FEMlY0RldZdzVFMlB2MVg0cU5FS0UxRjFYSEdPaUxaWkxScExKOHY3LVVKaEg4ZEROUzhSYWIybWpuZ2NMZURQZG5lT3c0dDJaekNBRjIwRWFkWmxR?oc=5",
-   "published": "2026-10-15T19:37:33+00:00",
-   "sector": "Nuclear & Uranium"
-  }
- ]
+ "hot_tickers": []
 }
