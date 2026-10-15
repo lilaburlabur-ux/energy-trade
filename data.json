@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-10-15T06:42:05+00:00",
-  "as_of_local": "2026-10-15 06:42:05 UTC",
+  "as_of_utc": "2026-10-15T06:47:23+00:00",
+  "as_of_local": "2026-10-15 06:47:23 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -64,7 +64,7 @@
       "price": 78.37,
       "previous_close": 78.22,
       "change_pct": 0.19,
-      "market_cap": 163478117968.64026,
+      "market_cap": 163448897634.74622,
       "headlines": []
     },
     {
@@ -73,7 +73,7 @@
       "price": 408.85,
       "previous_close": 428.31,
       "change_pct": -4.54,
-      "market_cap": 158797342370.60547,
+      "market_cap": 158756457369.99512,
       "headlines": []
     },
     {
@@ -82,7 +82,7 @@
       "price": 484.92,
       "previous_close": 476.98,
       "change_pct": 1.66,
-      "market_cap": 136177547844.80032,
+      "market_cap": 141565916964.2476,
       "headlines": []
     },
     {
@@ -190,7 +190,7 @@
       "price": 154.19,
       "previous_close": 153.17,
       "change_pct": 0.67,
-      "market_cap": 80877154928.02881,
+      "market_cap": 82125994341.06262,
       "headlines": []
     },
     {
@@ -352,7 +352,7 @@
       "price": 70.56,
       "previous_close": 70.47,
       "change_pct": 0.13,
-      "market_cap": 35168516099.95422,
+      "market_cap": 35161556908.515015,
       "headlines": []
     },
     {
@@ -487,7 +487,7 @@
       "price": 27.9,
       "previous_close": 28.64,
       "change_pct": -2.58,
-      "market_cap": 8373114250.9165,
+      "market_cap": 8461399307.809401,
       "headlines": []
     },
     {
@@ -509,6 +509,15 @@
       "headlines": []
     },
     {
+      "symbol": "WFRD",
+      "name": "Weatherford",
+      "price": 75.45,
+      "previous_close": 77.21,
+      "change_pct": -2.28,
+      "market_cap": 5408666455.583389,
+      "headlines": []
+    },
+    {
       "symbol": "OKLO",
       "name": "Oklo",
       "price": 29.04,
@@ -518,21 +527,12 @@
       "headlines": []
     },
     {
-      "symbol": "WFRD",
-      "name": "Weatherford",
-      "price": 75.45,
-      "previous_close": 77.21,
-      "change_pct": -2.28,
-      "market_cap": 5395588028.562378,
-      "headlines": []
-    },
-    {
       "symbol": "ENPH",
       "name": "Enphase Energy",
       "price": 29.35,
       "previous_close": 32.03,
       "change_pct": -8.37,
-      "market_cap": 3878445469.2091827,
+      "market_cap": 3868277807.277031,
       "headlines": []
     },
     {
@@ -568,7 +568,7 @@
       "price": 8.34,
       "previous_close": 9.27,
       "change_pct": -10.03,
-      "market_cap": 2208211630.881241,
+      "market_cap": 2084708138.141632,
       "headlines": []
     },
     {
@@ -823,18 +823,13 @@
     },
     {
       "label": "WTI",
-      "price": 94.09,
-      "change_pct": -1.05
-    },
-    {
-      "label": "Brent",
-      "price": 104.41,
-      "change_pct": -1.56
+      "price": 94.15,
+      "change_pct": -0.99
     },
     {
       "label": "NatGas",
-      "price": 3.26,
-      "change_pct": 1.84
+      "price": 3.25,
+      "change_pct": 1.69
     }
   ]
 }
