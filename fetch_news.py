@@ -28,11 +28,15 @@ import json
 import time
 import re
 import datetime as dt
+import urllib.parse
+import xml.etree.ElementTree as ET
+from email.utils import parsedate_to_datetime
+
+import requests
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
 
-import yfinance as yf
 from tickers import ETF_HOLDINGS
 
 MAX_PER_SYMBOL = 6
@@ -139,29 +143,37 @@ def title_tickers(text, matcher):
     return sorted(set(hits))
 
 
-def headlines_for(symbol):
-    try:
-        items = yf.Ticker(symbol).news or []
-    except Exception:
-        return []
+GNEWS = "https://news.google.com/rss/search"
+UA = {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"}
+
+
+def headlines_for(symbol, company):
+    """Google News RSS for the company's everyday name. Yahoo's news endpoints
+    answer 429 or an empty list to our traffic (2026-10), so yfinance returns
+    nothing; Google News RSS is keyless and carries the publisher and date."""
+    q = urllib.parse.quote_plus(f'"{core_name(company) or symbol}" stock')
+    r = requests.get(f"{GNEWS}?q={q}&hl=en-US&gl=US&ceid=US:en", headers=UA, timeout=20)
+    if r.status_code == 429:
+        time.sleep(20)
+        r = requests.get(f"{GNEWS}?q={q}&hl=en-US&gl=US&ceid=US:en", headers=UA, timeout=20)
+    r.raise_for_status()
     out = []
-    for item in items[:MAX_PER_SYMBOL]:
-        c = item.get("content", item)
-        title = c.get("title")
+    for it in ET.fromstring(r.content).findall(".//item")[:MAX_PER_SYMBOL]:
+        src = it.find("source")
+        publisher = (src.text or "").strip() if src is not None else ""
+        title = (it.findtext("title") or "").strip()
+        if publisher and title.endswith(" - " + publisher):
+            title = title[: -len(" - " + publisher)].strip()   # Google appends the outlet
+        link = (it.findtext("link") or "").strip()
         if not title:
             continue
-        url = ""
-        for key in ("clickThroughUrl", "canonicalUrl"):
-            v = c.get(key)
-            if isinstance(v, dict) and v.get("url"):
-                url = v["url"]; break
-        out.append({
-            "id": c.get("id") or title,
-            "title": title,
-            "url": url,
-            "publisher": (c.get("provider") or {}).get("displayName", ""),
-            "published": c.get("pubDate", "") or c.get("displayTime", ""),
-        })
+        try:
+            published = parsedate_to_datetime(it.findtext("pubDate") or "") \
+                .astimezone(dt.timezone.utc).isoformat(timespec="seconds")
+        except Exception:
+            published = ""
+        out.append({"id": title.lower(), "title": title, "url": link,
+                    "publisher": publisher, "published": published})
     return out
 
 
@@ -181,11 +193,21 @@ def main():
     scope = [s for s in scope if not (s in seen or seen.add(s))]
 
     merged = {}                     # id -> story (title/url/publisher/published)
+    failed = 0
     print(f"Pulling news for {len(scope)} symbols...")
     for sym in scope:
-        for h in headlines_for(sym):
-            merged.setdefault(h["id"], {k: h[k] for k in ("title", "url", "publisher", "published")})
-        time.sleep(0.25)
+        try:
+            for h in headlines_for(sym, company.get(sym, "")):
+                merged.setdefault(h["id"], {k: h[k] for k in ("title", "url", "publisher", "published")})
+        except Exception as e:
+            failed += 1
+            print(f"  {sym}: query failed — {type(e).__name__}: {e}")
+        time.sleep(1.0)
+    if not merged:
+        # Never replace a populated feed with an empty one: fail loudly instead.
+        print(f"ERROR: 0 stories collected ({failed}/{len(scope)} queries failed). "
+              "news.json left unchanged.")
+        sys.exit(1)
 
     # Re-tag every story by what its title actually names; drop the off-topic ones.
     items = []

@@ -4,7 +4,7 @@
      when offline — market data must never look fresher than it is.
    - Never touches api.santroai.tech (auth/preferences/watchlist stay live-only).
    - Bump VERSION to invalidate everything. */
-var VERSION = "santro-sw-v1";
+var VERSION = "energy-sw-v2";
 var STATIC_RE = /\/(assets\/|site\.css|site\.js|ticker-about\.js|etf-data\.js|accounts\/accounts\.css)/;
 
 self.addEventListener("install", function (e) { self.skipWaiting(); });
