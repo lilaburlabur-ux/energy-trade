@@ -1,7 +1,7 @@
 {
  "meta": {
   "source": "Energy Trade curated universe (seed_energy_universe.py)",
-  "as_of": "2026-10-15 09:57 UTC",
+  "as_of": "2026-10-15 10:02 UTC",
   "total_tickers": 67,
   "min_bubble_size": 7,
   "render_spec": {
@@ -18,8 +18,8 @@
    "label": "Oil & Gas Majors",
    "color": "#E8A33D",
    "count": 8,
-   "total_market_cap_b": 2179.15,
-   "avg_change_pct": 0.71,
+   "total_market_cap_b": 2179.1,
+   "avg_change_pct": 0.7,
    "industries_included": [
     "Oil & Gas E&P",
     "Oil & Gas Integrated"
@@ -337,10 +337,10 @@
      "sector": "Energy",
      "industry": "Oil & Gas Integrated",
      "country": "Norway",
-     "market_cap_b": 110.21,
+     "market_cap_b": 110.16,
      "pe": 12.37,
-     "price": 45.02,
-     "change_pct": -0.6,
+     "price": 45.0,
+     "change_pct": -0.64,
      "volume": 3758200,
      "perf": {
       "1W": 8.8,
@@ -442,8 +442,8 @@
    "label": "Shale & E&P",
    "color": "#D97742",
    "count": 9,
-   "total_market_cap_b": 357.57,
-   "avg_change_pct": 0.24,
+   "total_market_cap_b": 357.66,
+   "avg_change_pct": 0.27,
    "industries_included": [
     "Oil & Gas E&P"
    ],
@@ -811,10 +811,10 @@
      "sector": "Energy",
      "industry": "Oil & Gas E&P",
      "country": "United States",
-     "market_cap_b": 16.81,
+     "market_cap_b": 16.9,
      "pe": 10.01,
-     "price": 47.31,
-     "change_pct": -0.13,
+     "price": 47.55,
+     "change_pct": 0.38,
      "volume": 5261400,
      "perf": {
       "1W": 8.1,
@@ -908,7 +908,7 @@
      "fwd_eps": 4.47
     }
    ],
-   "median_change_pct": 0.08,
+   "median_change_pct": 0.38,
    "pe_hm": 14.3
   },
   {
@@ -916,8 +916,8 @@
    "label": "Oilfield Services",
    "color": "#A67C52",
    "count": 6,
-   "total_market_cap_b": 194.87,
-   "avg_change_pct": 0.27,
+   "total_market_cap_b": 194.78,
+   "avg_change_pct": 0.22,
    "industries_included": [
     "Oil & Gas Equipment & Services"
    ],
@@ -928,10 +928,10 @@
      "sector": "Energy",
      "industry": "Oil & Gas Equipment & Services",
      "country": "United States",
-     "market_cap_b": 72.98,
+     "market_cap_b": 72.89,
      "pe": 23.43,
-     "price": 48.78,
-     "change_pct": 0.56,
+     "price": 48.72,
+     "change_pct": 0.43,
      "volume": 9844300,
      "perf": {
       "1W": 1.1,
@@ -1879,7 +1879,7 @@
    "label": "Nuclear & Uranium",
    "color": "#F2D43D",
    "count": 8,
-   "total_market_cap_b": 163.35,
+   "total_market_cap_b": 163.36,
    "avg_change_pct": -1.44,
    "industries_included": [
     "Aerospace & Defense",
@@ -2098,10 +2098,10 @@
      "sector": "Utilities",
      "industry": "Utilities - Independent Power Producers",
      "country": "United States",
-     "market_cap_b": 4.51,
+     "market_cap_b": 4.52,
      "pe": null,
-     "price": 28.11,
-     "change_pct": -3.19,
+     "price": 28.2,
+     "change_pct": -2.91,
      "volume": 13277600,
      "perf": {
       "1W": -21.1,
@@ -2151,8 +2151,8 @@
      "country": "United States",
      "market_cap_b": 3.55,
      "pe": null,
-     "price": 7.56,
-     "change_pct": -1.82,
+     "price": 7.55,
+     "change_pct": -1.95,
      "volume": 13881800,
      "perf": {
       "1W": -18.7,
@@ -2253,8 +2253,8 @@
      "country": "United States",
      "market_cap_b": 1.92,
      "pe": null,
-     "price": 8.3,
-     "change_pct": -0.48,
+     "price": 8.32,
+     "change_pct": -0.26,
      "volume": 15596800,
      "perf": {
       "1W": -18.7,
@@ -2730,7 +2730,7 @@
    "label": "Grid, Storage & Electrification",
    "color": "#F08C4A",
    "count": 8,
-   "total_market_cap_b": 673.77,
+   "total_market_cap_b": 673.78,
    "avg_change_pct": -2.72,
    "industries_included": [
     "Electrical Equipment & Parts",
@@ -2898,10 +2898,10 @@
      "sector": "Industrials",
      "industry": "Electrical Equipment & Parts",
      "country": "United States",
-     "market_cap_b": 82.23,
+     "market_cap_b": 82.19,
      "pe": 50.41,
-     "price": 213.7,
-     "change_pct": -4.1,
+     "price": 213.6,
+     "change_pct": -4.14,
      "volume": 7310500,
      "perf": {
       "1W": -9.6,
@@ -2949,10 +2949,10 @@
      "sector": "Industrials",
      "industry": "Electrical Equipment & Parts",
      "country": "United States",
-     "market_cap_b": 66.74,
+     "market_cap_b": 66.8,
      "pe": 314.92,
-     "price": 227.3,
-     "change_pct": -5.03,
+     "price": 227.5,
+     "change_pct": -4.95,
      "volume": 18230400,
      "perf": {
       "1W": -17.8,
@@ -3051,10 +3051,10 @@
      "sector": "Utilities",
      "industry": "Utilities - Renewable",
      "country": "United States",
-     "market_cap_b": 1.5,
+     "market_cap_b": 1.49,
      "pe": null,
-     "price": 6.13,
-     "change_pct": -1.29,
+     "price": 6.09,
+     "change_pct": -1.93,
      "volume": 7343300,
      "perf": {
       "1W": -19.0,
@@ -3104,8 +3104,8 @@
      "country": "United States",
      "market_cap_b": 0.7,
      "pe": null,
-     "price": 1.9,
-     "change_pct": -2.51,
+     "price": 1.91,
+     "change_pct": -2.07,
      "volume": 44351300,
      "perf": {
       "1W": -37.1,
@@ -3148,7 +3148,7 @@
      "fwd_eps": -0.17
     }
    ],
-   "median_change_pct": -2.35,
+   "median_change_pct": -2.13,
    "pe_hm": 40.0
   },
   {
