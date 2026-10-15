@@ -5,7 +5,7 @@ Signed file: `NEE.research.15.10.2026`
 | Field | Value |
 |---|---|
 | Current price | $78.96 (2026-10-15, ~15-min delayed) |
-| Market cap | $164.71B |
+| Market cap | $164.68B |
 | Sector / Industry | Utilities / Utilities - Regulated Electric |
 | Main theme | Utilities - Regulated Electric — see catalysts below |
 | Current stance | Low technical momentum, strong fundamentals, value: reasonable, risk: moderate. |
@@ -18,7 +18,7 @@ Signed file: `NEE.research.15.10.2026`
 | Technical momentum | Low | Below SMA200 (-8.48%) with negative half-year (-12.73%). |
 | Fresh setup quality | Moderate / wait | -18.13% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 32.40%, revenue growth 12.40%. |
-| Value attractiveness | Reasonable | Forward P/E 18.06, EV/Sales 9.82. |
+| Value attractiveness | Reasonable | Forward P/E 18.04, EV/Sales 9.82. |
 | Risk level | Moderate | Beta 0.64, ATR 1.7% of price, short float 2.85%. |
 
 **Bottom line:** Low technical momentum, strong fundamentals, value: reasonable, risk: moderate.
@@ -59,7 +59,7 @@ NextEra Energy, Inc., through its subsidiaries, generates, stores, transmits, di
 | Revenue (ttm) | $28.70B | Revenue growth 12.40% y/y |
 | Profitability | Gross 61.02%, operating 31.52%, net 32.40% | ROA 2.44%, ROE 11.68% |
 | Balance sheet | Cash $2.87B, debt $110.20B | Current ratio 0.53, debt/equity 161.68 |
-| Valuation | P/E 17.70, forward P/E 18.06, P/S 5.74, P/B 2.88 | EV/Sales 9.82, EV/EBITDA 19.31 |
+| Valuation | P/E 17.99, forward P/E 18.04, P/S 5.74, P/B 2.88 | EV/Sales 9.82, EV/EBITDA 19.31 |
 | Growth expectations | Earnings growth 53.10%, EPS q/q 55.00% | Analyst mean target $97.00 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -101,7 +101,7 @@ NextEra Energy, Inc., through its subsidiaries, generates, stores, transmits, di
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $78.96 | EV/Sales | 9.82 |
-| Market cap | $164.71B | EV/EBITDA | 19.31 |
+| Market cap | $164.68B | EV/EBITDA | 19.31 |
 | Beta | 0.64 | Gross margin | 61.02% |
 | RSI(14) | 50.9 | Operating margin | 31.52% |
 | ATR(14) | 1.34 | Profit margin | 32.40% |
@@ -110,8 +110,8 @@ NextEra Energy, Inc., through its subsidiaries, generates, stores, transmits, di
 | SMA200 dist | -8.48% | Revenue (ttm) | $28.70B |
 | 52W high | $96.44 | Revenue growth y/y | 12.40% |
 | 52W low | $75.49 | Inst. ownership | 87.00% |
-| P/E (ttm) | 17.70 | Insider ownership | 0.12% |
-| Forward P/E | 18.06 | Short float | 2.85% |
+| P/E (ttm) | 17.99 | Insider ownership | 0.12% |
+| Forward P/E | 18.04 | Short float | 2.85% |
 | PEG (trailing) | 1.55 | Avg volume | 11,213,860 |
 | P/S | 5.74 | Employees | 17,400 |
 | P/B | 2.88 | Analyst rec (1=buy..5=sell) | 1.9 |

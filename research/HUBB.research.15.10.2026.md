@@ -5,7 +5,7 @@ Signed file: `HUBB.research.15.10.2026`
 | Field | Value |
 |---|---|
 | Current price | $464.71 (2026-10-15, ~15-min delayed) |
-| Market cap | $24.55B |
+| Market cap | $24.56B |
 | Sector / Industry | Industrials / Electrical Equipment & Parts |
 | Main theme | Electrical Equipment & Parts — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: fair-to-demanding, risk: moderate. |
@@ -59,7 +59,7 @@ Hubbell Incorporated, together with its subsidiaries, manufactures and sells ele
 | Revenue (ttm) | $6.22B | Revenue growth 15.30% y/y |
 | Profitability | Gross 35.34%, operating 21.67%, net 14.49% | ROA 8.43%, ROE 24.44% |
 | Balance sheet | Cash $394.70M, debt $5.56B | Current ratio 1.61, debt/equity 141.64 |
-| Valuation | P/E 27.78, forward P/E 20.21, P/S 3.94, P/B 6.28 | EV/Sales 4.85, EV/EBITDA 19.92 |
+| Valuation | P/E 27.78, forward P/E 20.21, P/S 3.95, P/B 6.28 | EV/Sales 4.85, EV/EBITDA 19.92 |
 | Growth expectations | Earnings growth -0.90%, EPS q/q -1.60% | Analyst mean target $560.58 (12 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -103,7 +103,7 @@ Hubbell Incorporated, together with its subsidiaries, manufactures and sells ele
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $464.71 | EV/Sales | 4.85 |
-| Market cap | $24.55B | EV/EBITDA | 19.92 |
+| Market cap | $24.56B | EV/EBITDA | 19.92 |
 | Beta | 0.85 | Gross margin | 35.34% |
 | RSI(14) | 47.2 | Operating margin | 21.67% |
 | ATR(14) | 12.87 | Profit margin | 14.49% |
@@ -115,7 +115,7 @@ Hubbell Incorporated, together with its subsidiaries, manufactures and sells ele
 | P/E (ttm) | 27.78 | Insider ownership | 0.34% |
 | Forward P/E | 20.21 | Short float | 5.57% |
 | PEG (trailing) | 1.95 | Avg volume | 521,428 |
-| P/S | 3.94 | Employees | 19,400 |
+| P/S | 3.95 | Employees | 19,400 |
 | P/B | 6.28 | Analyst rec (1=buy..5=sell) | 2.0 |
 
 ## 8. Analyst Actions
