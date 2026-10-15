@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-10-15T11:33:56+00:00",
-  "as_of_local": "2026-10-15 11:33:56 UTC",
+  "as_of_utc": "2026-10-15T11:39:13+00:00",
+  "as_of_local": "2026-10-15 11:39:13 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "EPD"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -193,6 +191,15 @@
       "previous_close": 153.17,
       "change_pct": 0.67,
       "market_cap": 82125994341.06262,
+      "headlines": []
+    },
+    {
+      "symbol": "EPD",
+      "name": "Enterprise Products",
+      "price": 35.79,
+      "previous_close": 36.04,
+      "change_pct": -0.69,
+      "market_cap": 77287689855.5704,
       "headlines": []
     },
     {
@@ -816,18 +823,18 @@
     },
     {
       "label": "WTI",
-      "price": 93.97,
-      "change_pct": -1.18
+      "price": 93.86,
+      "change_pct": -1.29
     },
     {
       "label": "Brent",
-      "price": 104.56,
-      "change_pct": -1.41
+      "price": 104.52,
+      "change_pct": -1.45
     },
     {
       "label": "NatGas",
       "price": 3.25,
-      "change_pct": 1.72
+      "change_pct": 1.59
     }
   ]
 }
