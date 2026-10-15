@@ -18,7 +18,7 @@ Signed file: `BE.research.15.10.2026`
 | Technical momentum | High | 1Y +107.17%; price +9.59% vs SMA200. |
 | Fresh setup quality | Poor / broken | -31.68% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 7.87%, revenue growth 165.50%. |
-| Value attractiveness | Low (expensive) | Forward P/E 47.89, EV/Sales 22.68. |
+| Value attractiveness | Low (expensive) | Forward P/E 47.89, EV/Sales 22.40. |
 | Risk level | High | Beta 3.78, ATR 8.5% of price, short float 8.11%. |
 
 **Bottom line:** High technical momentum, mixed fundamentals, value: low (expensive), risk: high.
@@ -59,7 +59,7 @@ Bloom Energy Corporation designs, manufactures, sells, and installs solid oxide 
 | Revenue (ttm) | $3.11B | Revenue growth 165.50% y/y |
 | Profitability | Gross 31.65%, operating 17.11%, net 7.87% | ROA 5.60%, ROE 22.21% |
 | Balance sheet | Cash $2.72B, debt $2.82B | Current ratio 4.09, debt/equity 171.58 |
-| Valuation | P/E 342.46, forward P/E 47.89, P/S 22.36, P/B 43.00 | EV/Sales 22.68, EV/EBITDA 168.75 |
+| Valuation | P/E 342.46, forward P/E 47.89, P/S 22.36, P/B 43.00 | EV/Sales 22.40, EV/EBITDA 166.61 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $284.58 (26 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -86,7 +86,7 @@ Bloom Energy Corporation designs, manufactures, sells, and installs solid oxide 
 | Value Aligned Research Advisors, LLC                           | 5,585,179 | 1.90% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 47.89, EV/Sales 22.68. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 47.89, EV/Sales 22.40. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 3.78, ATR 8.5% of price, short float 8.11%. Size positions accordingly.
 - **Short interest risk:** short float 8.11% can fuel squeezes both ways around news.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
@@ -104,8 +104,8 @@ Bloom Energy Corporation designs, manufactures, sells, and installs solid oxide 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $236.30 | EV/Sales | 22.68 |
-| Market cap | $69.60B | EV/EBITDA | 168.75 |
+| Price | $236.30 | EV/Sales | 22.40 |
+| Market cap | $69.60B | EV/EBITDA | 166.61 |
 | Beta | 3.78 | Gross margin | 31.65% |
 | RSI(14) | 40.3 | Operating margin | 17.11% |
 | ATR(14) | 20.03 | Profit margin | 7.87% |
