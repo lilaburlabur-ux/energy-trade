@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-15T19:39:41+00:00",
+  "as_of": "2026-10-15T19:54:47+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,26 +11,42 @@
    "rank": 1,
    "ticker": "NXE",
    "company": "Nexgen Energy Ltd.",
-   "move_pct": 5.26,
-   "price": 8.51,
-   "volume": 7663713,
+   "move_pct": 5.94,
+   "price": 8.56,
+   "volume": 8286338,
    "volume_vs_avg": "~2x",
-   "heat_score": 42,
+   "heat_score": 45,
    "direction": "up",
-   "why": "JPMorgan sets USD 14.00 target for NexGen Energy stock",
+   "why": "Why is NexGen Energy stock rallying today? By Investing.com",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaWJlMWdUd2hXbW5GOG9hdnQ0TDN4NERGTVhfTnpadjNQX2VweGpidklKSlBQZHQ5Q2Y2V0ZkTDBLV2FCZUNyem1VODl3NlR1ZTMyNXhDYWItbzNIVjNGT2RyTTlUS3E4ZV9WWTNiRzVsTXJobm1KMHl1TVJSdlV6c0ZNbFF4UkZidW52VEY4MFJIZU5kZG9xUWhvY0ZvNkFleV93TlBZVW4waUI2cG9EZ0QxRQ?oc=5",
-   "published": "2026-10-15T18:02:48+00:00",
+   "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZ010R205LWtkdnpVaExwWnJHeGw4QnBEcWp5WTlOcl8zdGMyLUtIZ21Ienlvdm5JZkFqSlk4Nk41TkpCbzFmQjB6ZWxzRm1RNHFxSndCc0ppd21RTmFpVkFXSU1TTkFkamFKSjF5em9DdDlrOHE4MGtUS0pxVTVUR2JabUF6QzNmTWpJc2lISUx6U3ZYa0lMSUU4VXJLUllSMkVQWQ?oc=5",
+   "published": "2026-10-15T19:34:00+00:00",
    "sector": "Nuclear & Uranium"
   },
   {
    "rank": 2,
+   "ticker": "EOSE",
+   "company": "Eos Energy Enterprises, Inc.",
+   "move_pct": 6.92,
+   "price": 2.09,
+   "volume": 33004822,
+   "volume_vs_avg": "~1.1x",
+   "heat_score": 45,
+   "direction": "up",
+   "why": "EOSE Stock Draws Buy Rating As U.S. Army Deal Buzz Grows",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOemtVRzFVTzU1YXNwWnAyTVZmWUxvUDhvWnJTZ0lSY21ZSklGajFLVFB0VXd2YjltRDRJMVpxQkRkV1B3MjVhNjc3ZmhuejEwTUVIeXlQRnV6NmJ3N3dnY1RJd3hYMnBGS3E3cHdqeVZCNHc0V2QxR1U3aVc2QWZlV0NzQTZsWnc5UFE?oc=5",
+   "published": "2026-10-15T19:03:00+00:00",
+   "sector": "Grid, Storage & Electrification"
+  },
+  {
+   "rank": 3,
    "ticker": "ARRY",
    "company": "Array Technologies, Inc.",
    "move_pct": 5.18,
    "price": 3.56,
-   "volume": 6921557,
-   "volume_vs_avg": "~1.1x",
+   "volume": 7817203,
+   "volume_vs_avg": "~1.2x",
    "heat_score": 39,
    "direction": "up",
    "why": "Array Technologies (ARRY) Stock Rises 3.1% After Mizuho Upgrade to Outperform",
@@ -38,22 +54,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORHVtd0lYQzBFZEpxeGZxNkZSc0FDcXBjSjlVWkF1bGZoMzJjNnlBODUtZVNOOTlEajF3Q1dyeFBZU0FTNEhwYWVCXzFBeXpReTVITFotT3ZGTGtUZE1VSG5lWG15TllhZ1JjbUpjakNId2lkYV9xc3FDNE93VHR6NkM3UVJ0VEtOUDlQMjhOMmFQazhHZE1Dd3BmSXZUUG8tRHk0cTNhUVZKaC1iaFFUUm9B?oc=5",
    "published": "2026-10-15T19:04:59+00:00",
    "sector": "Renewables & Solar"
-  },
-  {
-   "rank": 3,
-   "ticker": "EOSE",
-   "company": "Eos Energy Enterprises, Inc.",
-   "move_pct": 5.38,
-   "price": 2.06,
-   "volume": 31028009,
-   "volume_vs_avg": "~1.0x",
-   "heat_score": 39,
-   "direction": "up",
-   "why": "EOSE Stock Draws Buy Rating As U.S. Army Deal Buzz Grows",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOemtVRzFVTzU1YXNwWnAyTVZmWUxvUDhvWnJTZ0lSY21ZSklGajFLVFB0VXd2YjltRDRJMVpxQkRkV1B3MjVhNjc3ZmhuejEwTUVIeXlQRnV6NmJ3N3dnY1RJd3hYMnBGS3E3cHdqeVZCNHc0V2QxR1U3aVc2QWZlV0NzQTZsWnc5UFE?oc=5",
-   "published": "2026-10-15T19:03:00+00:00",
-   "sector": "Grid, Storage & Electrification"
   }
  ]
 }
