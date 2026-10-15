@@ -1,10 +1,27 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-15T13:24:04+00:00",
+  "as_of": "2026-10-15T13:26:58+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": []
+ "hot_tickers": [
+  {
+   "rank": 1,
+   "ticker": "BE",
+   "company": "Bloom Energy Corporation",
+   "move_pct": -7.04,
+   "price": 222.5,
+   "volume": 18230400,
+   "volume_vs_avg": "~1.2x",
+   "heat_score": 45,
+   "direction": "down",
+   "why": "Bloom Energy Got Good News From Oracle and Fell Anyway. Is It Time to Buy?",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNT01pMkZQTGNVeXlWSXE0bjdhMDI2OTVLa0NTbm9vOFhnRzEtajdIR3ZBaC1kckRkX3Y2dVpQaXUzUUtjczk1ay1US25MRF95OUNQbGUtcE5aTFRuZFNmYVJxN2h6WEd0QVdTa0IzZHNOVFVmcjV3b3E4cWxSRjRrVG94YXZ0VmZ6azVIWGpfajhqTUZfV2c?oc=5",
+   "published": "2026-10-15T12:50:11+00:00",
+   "sector": "Grid, Storage & Electrification"
+  }
+ ]
 }
