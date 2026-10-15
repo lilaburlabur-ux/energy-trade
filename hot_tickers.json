@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-15T19:04:03+00:00",
+  "as_of": "2026-10-15T19:19:21+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,19 +9,19 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "VRT",
-   "company": "Vertiv Holdings, LLC",
-   "move_pct": -6.11,
-   "price": 209.22,
-   "volume": 10007270,
+   "ticker": "NXE",
+   "company": "Nexgen Energy Ltd.",
+   "move_pct": 5.32,
+   "price": 8.51,
+   "volume": 7414466,
    "volume_vs_avg": "~2x",
-   "heat_score": 46,
-   "direction": "down",
-   "why": "Vertiv (NYSE:VRT) Stock Gets Price Target Reduction from Mizuho",
-   "catalyst_type": "analyst_action",
-   "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcThLNnZxVi1LWk9kZW5HVUl6YmlfcVpKbEpBMmcybUR3SXdLVFRWaC1QYTFibFg4MmhaYmZIenJxTE92MldMZ1NjNUlBbmlTXzFNTFVzODRTbzVScWpWMWpDd1F4NkVwMnZNSjBleHY1TnBKcmR5cTBxT0NxVjhhc2pDVHdjaUxvTE9SQWtjSGdfQ21DZ1c2QkNwYjBXMlNBc0R1eEJBZC1fblNIeUtUM28wOUZtN2RmcExORGE1bl8?oc=5",
-   "published": "2026-10-15T17:40:12+00:00",
-   "sector": "Grid, Storage & Electrification"
+   "heat_score": 42,
+   "direction": "up",
+   "why": "JPMorgan sets USD 14.00 target for NexGen Energy stock",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaWJlMWdUd2hXbW5GOG9hdnQ0TDN4NERGTVhfTnpadjNQX2VweGpidklKSlBQZHQ5Q2Y2V0ZkTDBLV2FCZUNyem1VODl3NlR1ZTMyNXhDYWItbzNIVjNGT2RyTTlUS3E4ZV9WWTNiRzVsTXJobm1KMHl1TVJSdlV6c0ZNbFF4UkZidW52VEY4MFJIZU5kZG9xUWhvY0ZvNkFleV93TlBZVW4waUI2cG9EZ0QxRQ?oc=5",
+   "published": "2026-10-15T18:02:48+00:00",
+   "sector": "Nuclear & Uranium"
   }
  ]
 }
