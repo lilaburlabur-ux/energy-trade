@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-15T14:09:55+00:00",
+  "as_of": "2026-10-15T14:25:06+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,18 +9,50 @@
  "hot_tickers": [
   {
    "rank": 1,
+   "ticker": "VRT",
+   "company": "Vertiv Holdings, LLC",
+   "move_pct": -6.77,
+   "price": 207.74,
+   "volume": 3626924,
+   "volume_vs_avg": "~0.7x",
+   "heat_score": 42,
+   "direction": "down",
+   "why": "Vertiv shares fall on analyst downgrades and options bets",
+   "catalyst_type": "analyst_action",
+   "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPb2RjWGo5LTVHNExQTkhSQTZlMkUxbVVISVh4eEdfdjJ6MGVJN01Id0RJVVEtYU94VTVnMDZybDlNVk5nVm9YV1JpMWNMaFZydkowTWU5SDNpWDRNeVdBYmJYRTI4U0FYcWpNcWZwbG9JVGtPb3VyakR3N3ZLcE02UWNmZ1FkeG10WEpJaGNRZG0xSk5LNjk2RHdTXzVrXzRBc1ZwcmU0dVk1QUZQWnYzVQ?oc=5",
+   "published": "2026-10-15T14:12:23+00:00",
+   "sector": "Grid, Storage & Electrification"
+  },
+  {
+   "rank": 2,
+   "ticker": "BE",
+   "company": "Bloom Energy Corporation",
+   "move_pct": -6.52,
+   "price": 223.74,
+   "volume": 6083442,
+   "volume_vs_avg": "~0.4x",
+   "heat_score": 40,
+   "direction": "down",
+   "why": "Why is Bloom Energy stock plunging today? By Investing.com",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdDc3aDhqSVlROGJqQ28tcy1aTGRZeDJlM3RUc1BTVF81V2h2VDdTNl9kcEd3UzU0cGdUWmxMX1pIa1V3UHZiRm9UYlR1bDB4Ti1UTy0tempWY2UtRFg4U3F2N0V4WUlkb2x2b3hVajVYaXUxM2hmM19CV0FIVTVfN3I3SVllX1ZPZDBLSlVocnBlakVwS2NPT1F6OEJycDU2bXNJ?oc=5",
+   "published": "2026-10-15T14:02:00+00:00",
+   "sector": "Grid, Storage & Electrification"
+  },
+  {
+   "rank": 3,
    "ticker": "GEV",
    "company": "GE Vernova Inc.",
-   "move_pct": -5.31,
-   "price": 891.78,
-   "volume": 1188838,
+   "move_pct": -5.16,
+   "price": 893.14,
+   "volume": 1337150,
    "volume_vs_avg": "~0.6x",
    "heat_score": 36,
    "direction": "down",
-   "why": "GE Vernova (GEV) Is Down 5.5% After Major AI Power Deal With Venture Global \u2013 Has The Bull Case Changed?",
+   "why": "VG Stock Rises Premarket On GE Vernova, Baker Hughes Power Deals \u2013 Traders Eye This Crucial Resistance Level",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZnhNbC03VFNxZGljZU8wd2RmWjB5NWFKak95UXJVNzMyUnFmeUJrRXBwV0Izd3ZfVlM4cnhUaW5VbGhnY0J2QnJESDY2Qy1wQVBXTVFtcWZUWUNyZDhUcDdROWU4OXhuQmJlT0xGMWliVUk3U19SZ0IzdWMwNEpDRll4TW5xMm53Y1hxY1lB?oc=5",
-   "published": "2026-10-15T12:11:12+00:00",
+   "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbjVkeXBjM0RyNHpteERwTmlHbzQxVml3SnRrU1lrU2pfTlc0c1lIeDc1Nm1XZ2d3a1Z3N3YyUHdDZVZmaGNqdEVVdm1kQ0plMk9uUGN2WFJSRXhTSC11ekZTS3o0blZuN3gxcTFzNV9KbDdaalpodTZJbzE4RkZiU0dZVkVmZGMtWHVneFFCWGw4eXQ5ZkI4?oc=5",
+   "published": "2026-10-15T12:06:24+00:00",
    "sector": "Grid, Storage & Electrification"
   }
  ]
