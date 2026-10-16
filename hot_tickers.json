@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-16T21:52:31+00:00",
+  "as_of": "2026-10-16T22:07:34+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,35 +9,35 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "BE",
-   "company": "Bloom Energy Corporation",
-   "move_pct": -7.03,
-   "price": 219.69,
-   "volume": 13701200,
-   "volume_vs_avg": "~0.8x",
-   "heat_score": 44,
+   "ticker": "ARRY",
+   "company": "Array Technologies, Inc.",
+   "move_pct": -4.2,
+   "price": 3.42,
+   "volume": 22170494,
+   "volume_vs_avg": "~3x",
+   "heat_score": 47,
    "direction": "down",
-   "why": "Bloom Energy vs. Constellation Energy: Which Energy Stock Is an AI-Driven Buy in 2026?",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWW9mOC1NWVIwN0NDSXlDUkgtWWRfbGhUY1E0S2ozOWlRZkhuclB6NTJfeDZzRklGWlhWaGZRdWZCNzJOaFBkeVNFY2k1UWFZSlp6UEttNWFKTkdCSURYa1loaGpsXy1ZWF8xNmlFVDdzelB2aFFqNzM3WTdfRmc4bFJBM3czOGg4QzJIel80OHlEenRUNUdJLW45TTZpVl8zdk9QYUxPTDgwU3REYWRKeENTaTZBUUhTaENBazV6eVdjSk5yVW1tU29mMm4ydl9PUEE?oc=5",
-   "published": "2026-10-16T20:52:06+00:00",
-   "sector": "Grid, Storage & Electrification"
+   "why": "ARRY Stock Slumps As Wall Street Slashes Price Targets",
+   "catalyst_type": "analyst_action",
+   "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVEx6d1YtMlpiWElXNzF0Y0d0aWxrYk5mdDdhQUpvSXB4TjgtRVE0V0duLWJxTEtlUmt0ZkI1TFB5Nnkyd0JLZF8wRFFEQVBGY09EUUJxd3g2NU03Y2kwSWhzSWUydHBIUDVpS2hySk4zVnpITG00dzk3VTBjcDFvSlEwb1k?oc=5",
+   "published": "2026-10-16T20:47:00+00:00",
+   "sector": "Renewables & Solar"
   },
   {
    "rank": 2,
-   "ticker": "AR",
-   "company": "Antero Resources Corporation",
-   "move_pct": 5.93,
-   "price": 38.6,
-   "volume": 5205352,
-   "volume_vs_avg": "~1.3x",
-   "heat_score": 42,
-   "direction": "up",
-   "why": "Antero Resources (NYSE:AR) Stock Jumps 4.1% - Time to Buy?",
+   "ticker": "BE",
+   "company": "Bloom Energy Corporation",
+   "move_pct": -7.25,
+   "price": 219.17,
+   "volume": 13701200,
+   "volume_vs_avg": "~0.8x",
+   "heat_score": 45,
+   "direction": "down",
+   "why": "Bloom Energy (NYSE:BE) Stock Price Down 6.2% - Here's Why",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQandTY1pnS2RZVjd4VThFLXlWSkhsbnpqYWQ5Mm1JdUgxeHRPNHNLcGl5LWZadmtkMEc2QkFMeVdlajEyZ0VuSEVxTzB2VS1jNEtwWXR4VzhYcGh4VFFRUTlYWnNkdGJvM0wyZlIxeDBhYWJuSVc4cUhhTno3a3VUTklMMGFPQ0haX0FsWkRxNmF0TVRDTl9RaDlHb1llOHV6WWpZb3JlODRISXU2MTZ1UQ?oc=5",
-   "published": "2026-10-16T18:04:41+00:00",
-   "sector": "Shale & E&P"
+   "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdkkycEVkeS12cE5VaTN3a2JSaUJwczJmNEdtaUVBZlItZDk3WmFXZjhTVmFBcTlBMkJqVEg2RGhUazV0bUpVbWRZOU1odUs3T29VelN2X3JCcHNCb2VITXRfQ3Rzb05SZ2k3TWY2VlJSVUJYd0dLYV9LVDRHaG5EUzQtZjZXSmZpYzJaT3NrU09CSTRlcXVRQWFma01MTnVuQlRpbGxjQ2FPTXlzQW5v?oc=5",
+   "published": "2026-10-16T21:48:12+00:00",
+   "sector": "Grid, Storage & Electrification"
   }
  ]
 }
