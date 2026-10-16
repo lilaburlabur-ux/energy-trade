@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-16T17:48:11+00:00",
+  "as_of": "2026-10-16T18:03:15+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,16 +11,32 @@
    "rank": 1,
    "ticker": "EOSE",
    "company": "Eos Energy Enterprises, Inc.",
-   "move_pct": -12.5,
-   "price": 1.89,
-   "volume": 19748893,
+   "move_pct": -12.96,
+   "price": 1.88,
+   "volume": 20302989,
    "volume_vs_avg": "~0.7x",
-   "heat_score": 72,
+   "heat_score": 74,
    "direction": "down",
    "why": "EOSE Stock Slides As Legal Probes Pressure Sentiment",
    "catalyst_type": "regulatory",
    "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQemxHZUNCZjFnd1daZ0xfVXpWT19EMTJqM2YtRU4tQThyeEFjNVJwQVM3akRYd0loSlZ4SGV3MnJIUzIwTXdzMDV3c0VSS0hQSG5vajVZWVhLaGJ4SjNXeWtabDdzbGdVRHZZeklvV3dkTENzVFZ2eHlCTG5XWHFqNmRsUkN1Zw?oc=5",
    "published": "2026-10-16T16:34:00+00:00",
+   "sector": "Grid, Storage & Electrification"
+  },
+  {
+   "rank": 2,
+   "ticker": "BE",
+   "company": "Bloom Energy Corporation",
+   "move_pct": -5.02,
+   "price": 224.45,
+   "volume": 7591529,
+   "volume_vs_avg": "~0.5x",
+   "heat_score": 35,
+   "direction": "down",
+   "why": "Truist raises Bloom Energy stock price target on demand growth",
+   "catalyst_type": "analyst_action",
+   "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTUVSNVZuRDhPVDh5VFN4VXY1ODZUUjN0alJzYTdHaEdrVW91NUppX29PS0dZRjE5VWdudWhBeDhXTy1NN1duOGFmMGtvOUxfVTVQTVpQWGlFdU9ZY094cjVFY3Ytel9JLVdFTXlwLVhSaEpRQmdKdVJfZXlpOGl0V0lrMHo4QTVDcXpZWlphYkhnWnVRYWtnVXYxckJTd0RWWUNqbF9lZmxCRXdxaG1YblJENm5taHl1Q3VxamdMOA?oc=5",
+   "published": "2026-10-16T14:32:58+00:00",
    "sector": "Grid, Storage & Electrification"
   }
  ]
