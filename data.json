@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-10-16T12:49:38+00:00",
-  "as_of_local": "2026-10-16 12:49:38 UTC",
+  "as_of_utc": "2026-10-16T12:53:20+00:00",
+  "as_of_local": "2026-10-16 12:53:20 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "LNG"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -265,6 +263,15 @@
       "previous_close": 57.46,
       "change_pct": -0.59,
       "market_cap": 57911582214.20256,
+      "headlines": []
+    },
+    {
+      "symbol": "LNG",
+      "name": "Cheniere Energy",
+      "price": 279.15,
+      "previous_close": 279.69,
+      "change_pct": -0.19,
+      "market_cap": 57654008945.11554,
       "headlines": []
     },
     {
@@ -816,18 +823,18 @@
     },
     {
       "label": "WTI",
-      "price": 95.78,
-      "change_pct": -2.24
+      "price": 95.83,
+      "change_pct": -2.18
     },
     {
       "label": "Brent",
-      "price": 105.88,
-      "change_pct": -0.04
+      "price": 105.97,
+      "change_pct": 0.05
     },
     {
       "label": "NatGas",
-      "price": 3.09,
-      "change_pct": -4.48
+      "price": 3.1,
+      "change_pct": -4.33
     }
   ]
 }
