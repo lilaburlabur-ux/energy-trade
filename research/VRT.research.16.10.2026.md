@@ -1,0 +1,145 @@
+# VRT Research Report
+**Vertiv Holdings Co** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+Signed file: `VRT.research.16.10.2026`
+
+| Field | Value |
+|---|---|
+| Current price | $206.42 (2026-10-16, ~15-min delayed) |
+| Market cap | $79.47B |
+| Sector / Industry | Industrials / Electrical Equipment & Parts |
+| Main theme | Electrical Equipment & Parts — see catalysts below |
+| Current stance | Low technical momentum, strong fundamentals, value: fair-to-demanding, risk: high. |
+
+> Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-10-16.
+
+## 1. Executive Summary
+| Area | Score / Read | Reason |
+|---|---|---|
+| Technical momentum | Low | Below SMA200 (-23.04%) with negative half-year (-32.81%). |
+| Fresh setup quality | Poor / broken | -45.11% from 52w high — base needs to rebuild. |
+| Fundamental quality | Strong | Profit margin 15.09%, revenue growth 24.10%. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 22.45, EV/Sales 7.22. |
+| Risk level | High | Beta 2.05, ATR 5.6% of price, short float 3.74%. |
+
+**Bottom line:** Low technical momentum, strong fundamentals, value: fair-to-demanding, risk: high.
+
+**Key questions before any trade (standard):**
+- Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
+- Where is the actual invalidation level? If that level is too far away, the setup is not clean.
+- Is the move supported by new institutional demand or just retail/short-covering momentum?
+- Can earnings convert fast enough to justify the valuation?
+
+## 2. Company Overview and Recent Catalysts
+Vertiv Holdings Co designs, manufactures, and services critical digital infrastructure technologies and life cycle services for data centers, communication networks, and commercial and industrial environments in the Americas, the Asia Pacific, Europe, the Middle East, and Africa.
+
+## 3. Technical Analysis
+| Technical item | Read |
+|---|---|
+| Price vs 52-week range | Close $206.42; 52w high $376.06 (-45.11%); 52w low $149.73 (+37.86%) |
+| Trend | -23.04% vs SMA200, -19.19% vs SMA50, -14.77% vs SMA20 |
+| Momentum | RSI(14) 27.3 (oversold) |
+| Volatility | ATR(14) 11.52 (~5.6% of price); beta 2.05 |
+| Setup perspective | -45.11% from 52w high — base needs to rebuild. |
+
+**Performance snapshot:**
+
+| Window | Return |
+|---|---|
+| Week | -15.0% |
+| Month | -14.5% |
+| Quarter | -29.2% |
+| Half Y | -32.8% |
+| 1Y | +14.5% |
+| YTD | +17.6% |
+
+## 4. Fundamental Analysis
+| Factor | Observation | Implication / extra |
+|---|---|---|
+| Next earnings | 2026-10-28 | Next scheduled report (Yahoo estimate) |
+| Revenue (ttm) | $11.48B | Revenue growth 24.10% y/y |
+| Profitability | Gross 38.04%, operating 20.36%, net 15.09% | ROA 10.89%, ROE 43.94% |
+| Balance sheet | Cash $3.11B, debt $3.34B | Current ratio 1.38, debt/equity 70.17 |
+| Valuation | P/E 46.70, forward P/E 22.45, P/S 6.92, P/B 16.70 | EV/Sales 7.22, EV/EBITDA 30.95 |
+| Growth expectations | Earnings growth 53.00%, EPS q/q 53.50% | Analyst mean target $333.71 (28 analysts) |
+
+## 5. Institutional Investors and Ownership
+| Metric | Value |
+|---|---|
+| Institutional ownership | 84.71% |
+| Insider ownership | 0.24% |
+| Short float | 3.74% |
+| Short ratio (days to cover) | 2.8 |
+
+**Top institutional holders:**
+
+| Holder | Shares | % Out | Reported |
+|---|---|---|---|
+| Blackrock Inc. | 35,921,459 | 9.33% | 2026-06-30 |
+| Vanguard Capital Management LLC | 25,087,955 | 6.52% | 2026-06-30 |
+| Vanguard Portfolio Management LLC | 17,909,570 | 4.65% | 2026-06-30 |
+| State Street Corporation | 16,531,530 | 4.29% | 2026-06-30 |
+| JPMORGAN CHASE & CO | 10,061,204 | 2.61% | 2026-06-30 |
+| Price (T.Rowe) Associates Inc | 9,110,798 | 2.37% | 2026-06-30 |
+| Geode Capital Management, LLC | 9,028,475 | 2.35% | 2026-06-30 |
+| Bank of America Corporation | 8,280,709 | 2.15% | 2026-06-30 |
+| Morgan Stanley | 6,894,546 | 1.79% | 2026-06-30 |
+| Invesco Ltd. | 5,537,463 | 1.44% | 2026-06-30 |
+
+## 6. Risk Review and Setup Plan
+- **Valuation risk:** Forward P/E 22.45, EV/Sales 7.22. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 2.05, ATR 5.6% of price, short float 3.74%. Size positions accordingly.
+- **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
+- **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
+
+### Setup checklist for your journal
+| Question | Pass condition |
+|---|---|
+| Is there a new base? | Tight sideways action near highs, declining volume, clear resistance. |
+| Is the pivot obvious? | A clean level that multiple traders can see; not a random candle high. |
+| Is risk defined? | Stop based on structure and less than the expected first upside target. |
+| Is volume confirming? | Breakout volume expands; pullback volume dries up. |
+| Is position size small enough? | A normal shakeout should not cause emotional decision-making. |
+
+## 7. Full Data Snapshot
+| Metric | Value | Metric | Value |
+|---|---|---|---|
+| Price | $206.42 | EV/Sales | 7.22 |
+| Market cap | $79.47B | EV/EBITDA | 30.95 |
+| Beta | 2.05 | Gross margin | 38.04% |
+| RSI(14) | 27.3 | Operating margin | 20.36% |
+| ATR(14) | 11.52 | Profit margin | 15.09% |
+| SMA20 dist | -14.77% | ROA | 10.89% |
+| SMA50 dist | -19.19% | ROE | 43.94% |
+| SMA200 dist | -23.04% | Revenue (ttm) | $11.48B |
+| 52W high | $376.06 | Revenue growth y/y | 24.10% |
+| 52W low | $149.73 | Inst. ownership | 84.71% |
+| P/E (ttm) | 46.70 | Insider ownership | 0.24% |
+| Forward P/E | 22.45 | Short float | 3.74% |
+| PEG (trailing) | 0.84 | Avg volume | 5,432,998 |
+| P/S | 6.92 | Employees | 34,000 |
+| P/B | 16.70 | Analyst rec (1=buy..5=sell) | 1.4 |
+
+## 8. Analyst Actions
+| Date | Action | Firm | Rating change |
+|---|---|---|---|
+| 2026-10-15 | main | Mizuho | Outperform → Outperform |
+| 2026-10-14 | main | RBC Capital | Outperform → Outperform |
+| 2026-10-12 | main | Evercore ISI Group | Outperform → Outperform |
+| 2026-10-09 | reit | GLJ Research | Sell → Sell |
+| 2026-10-06 | init | GLJ Research | — → Sell |
+| 2026-10-05 | init | BMO Capital | — → Outperform |
+| 2026-09-25 | init | Wells Fargo | — → Overweight |
+| 2026-08-07 | up | GLJ Research | Hold → Buy |
+
+## 9. Conclusion
+VRT: Low momentum / strong fundamentals / fair-to-demanding value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+
+## Sources
+| Source | URL | Used for |
+|---|---|---|
+| Yahoo Finance quote/profile/statistics for VRT | https://finance.yahoo.com/quote/VRT | Snapshot metrics, ownership, analyst data |
+| Yahoo Finance price history (via yfinance) | https://finance.yahoo.com/quote/VRT/history | SMA/RSI/ATR/performance calculations |
+| Yahoo Finance news feed | https://finance.yahoo.com/quote/VRT/news | Catalyst headlines |
+| Method template | AEHR.research.31.05.2026.pdf (user's Cowork method) | Report structure, scoring areas, checklist |
+
+_Note: the template's native Finviz/Fintel/ADVFN pages block automated retrieval; equivalent metrics above are computed from Yahoo Finance data instead and labeled accordingly._
