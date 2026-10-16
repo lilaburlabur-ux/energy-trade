@@ -59,7 +59,7 @@ GE Vernova Inc., an energy company, engages in the provision of various products
 | Revenue (ttm) | $41.37B | Revenue growth 21.90% y/y |
 | Profitability | Gross 20.57%, operating 7.47%, net 23.04% | ROA 2.54%, ROE 82.58% |
 | Balance sheet | Cash $12.72B, debt $3.72B | Current ratio 0.85, debt/equity 28.36 |
-| Valuation | P/E 28.15, forward P/E 36.45, P/S 5.93, P/B 20.52 | EV/Sales 5.78, EV/EBITDA 60.84 |
+| Valuation | P/E 26.41, forward P/E 36.45, P/S 5.93, P/B 20.52 | EV/Sales 5.78, EV/EBITDA 60.84 |
 | Growth expectations | Earnings growth 32.80%, EPS q/q 30.00% | Analyst mean target $1,223.98 (33 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -112,7 +112,7 @@ GE Vernova Inc., an energy company, engages in the provision of various products
 | SMA200 dist | -1.30% | Revenue (ttm) | $41.37B |
 | 52W high | $1,174.86 | Revenue growth y/y | 21.90% |
 | 52W low | $546.95 | Inst. ownership | 81.58% |
-| P/E (ttm) | 28.15 | Insider ownership | 0.13% |
+| P/E (ttm) | 26.41 | Insider ownership | 0.13% |
 | Forward P/E | 36.45 | Short float | 2.77% |
 | PEG (trailing) | 1.86 | Avg volume | 2,326,615 |
 | P/S | 5.93 | Employees | 78,000 |
