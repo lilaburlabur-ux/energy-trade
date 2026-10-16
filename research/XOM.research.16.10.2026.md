@@ -60,7 +60,7 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 | Profitability | Gross 29.77%, operating 15.86%, net 9.07% | ROA 5.52%, ROE 12.58% |
 | Balance sheet | Cash $10.59B, debt $42.37B | Current ratio 1.14, debt/equity 15.92 |
 | Valuation | P/E 23.03, forward P/E 15.49, P/S 2.04, P/B 2.84 | EV/Sales 2.10, EV/EBITDA 11.14 |
-| Growth expectations | Earnings growth 112.80%, EPS q/q 105.10% | Analyst mean target $174.00 (22 analysts) |
+| Growth expectations | Earnings growth 112.80%, EPS q/q 105.10% | Analyst mean target $175.41 (22 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |

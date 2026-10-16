@@ -60,7 +60,7 @@ Targa Resources Corp., together with its subsidiaries, owns, operates, acquires,
 | Profitability | Gross 43.19%, operating 27.80%, net 13.54% | ROA 9.24%, ROE 70.84% |
 | Balance sheet | Cash $132.30M, debt $19.58B | Current ratio 0.77, debt/equity 515.79 |
 | Valuation | P/E 28.19, forward P/E 24.53, P/S 3.78, P/B 17.29 | EV/Sales 4.79, EV/EBITDA 14.58 |
-| Growth expectations | Earnings growth 23.30%, EPS q/q 21.50% | Analyst mean target $328.10 (21 analysts) |
+| Growth expectations | Earnings growth 23.30%, EPS q/q 21.50% | Analyst mean target $327.86 (21 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |

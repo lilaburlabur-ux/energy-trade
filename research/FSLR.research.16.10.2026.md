@@ -60,7 +60,7 @@ First Solar, Inc., a solar technology company, provides photovoltaic (PV) solar 
 | Profitability | Gross 44.02%, operating 42.64%, net 32.46% | ROA 8.62%, ROE 18.51% |
 | Balance sheet | Cash $1.73B, debt $194.01M | Current ratio 2.52, debt/equity 1.88 |
 | Valuation | P/E 10.64, forward P/E 7.33, P/S 3.45, P/B 1.80 | EV/Sales 3.29, EV/EBITDA 7.41 |
-| Growth expectations | Earnings growth 23.30%, EPS q/q 23.60% | Analyst mean target $274.77 (30 analysts) |
+| Growth expectations | Earnings growth 23.30%, EPS q/q 23.60% | Analyst mean target $273.80 (30 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |

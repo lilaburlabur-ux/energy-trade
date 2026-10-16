@@ -60,7 +60,7 @@ Permian Resources Corporation, an independent oil and natural gas company, focus
 | Profitability | Gross 75.85%, operating 57.44%, net 21.52% | ROA 7.54%, ROE 11.40% |
 | Balance sheet | Cash $131.72M, debt $3.15B | Current ratio 0.62, debt/equity 26.25 |
 | Valuation | P/E 16.18, forward P/E 10.63, P/S 3.59, P/B 1.72 | EV/Sales 3.97, EV/EBITDA 5.36 |
-| Growth expectations | Earnings growth 232.90%, EPS q/q 282.60% | Analyst mean target $28.10 (21 analysts) |
+| Growth expectations | Earnings growth 232.90%, EPS q/q 282.60% | Analyst mean target $28.14 (22 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |

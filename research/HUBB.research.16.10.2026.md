@@ -60,7 +60,7 @@ Hubbell Incorporated, together with its subsidiaries, manufactures and sells ele
 | Profitability | Gross 35.34%, operating 21.67%, net 14.49% | ROA 8.43%, ROE 24.44% |
 | Balance sheet | Cash $394.70M, debt $5.56B | Current ratio 1.61, debt/equity 141.64 |
 | Valuation | P/E 27.30, forward P/E 20.00, P/S 3.91, P/B 6.23 | EV/Sales 4.78, EV/EBITDA 19.61 |
-| Growth expectations | Earnings growth -0.90%, EPS q/q -1.60% | Analyst mean target $559.33 (12 analysts) |
+| Growth expectations | Earnings growth -0.90%, EPS q/q -1.60% | Analyst mean target $561.42 (12 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |

@@ -60,7 +60,7 @@ Bloom Energy Corporation designs, manufactures, sells, and installs solid oxide 
 | Profitability | Gross 31.65%, operating 17.11%, net 7.87% | ROA 5.60%, ROE 22.21% |
 | Balance sheet | Cash $2.72B, debt $2.82B | Current ratio 4.09, debt/equity 171.58 |
 | Valuation | P/E 291.20, forward P/E 44.85, P/S 20.94, P/B 40.27 | EV/Sales 22.40, EV/EBITDA 166.61 |
-| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $284.58 (26 analysts) |
+| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $285.43 (26 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |

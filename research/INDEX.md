@@ -20,7 +20,7 @@
 | AR | $11.88B | +20% | 8.4 | 19% | Moderate | Reasonable | Moderate |
 | PR | $20.60B | +107% | 10.6 | 22% | High | Reasonable | Moderate |
 | OVV | $19.18B | +90% | 9.0 | 10% | High | Reasonable | Moderate |
-| SLB | $73.47B | +56% | 15.5 | 9% | Low | Reasonable | Elevated |
+| SLB | $73.47B | +56% | 15.4 | 9% | Low | Reasonable | Elevated |
 | HAL | $27.91B | +53% | 11.6 | 7% | Low | Reasonable | Moderate |
 | BKR | $55.29B | +27% | 18.9 | 11% | Low | Reasonable | Moderate |
 | NOV | $6.75B | +51% | 14.8 | 1% | Moderate | Reasonable | High |
@@ -63,7 +63,7 @@
 | BE | $65.18B | +90% | 44.8 | 8% | High | Low (expensive) | High |
 | EOSE | $658.27M | -90% | -10.5 | -247% | Low | Reasonable | High |
 | HUBB | $24.36B | +8% | 20.0 | 14% | Low | Fair-to-demanding | Moderate |
-| VST | $51.02B | -27% | 14.9 | 12% | Low | Reasonable | Elevated |
+| VST | $51.02B | -27% | 14.7 | 12% | Low | Reasonable | Elevated |
 | NRG | $21.81B | -39% | 9.3 | 3% | Low | Reasonable | Elevated |
 | TLN | $16.78B | -15% | 11.4 | -5% | Moderate | Reasonable | Elevated |
 | DUK | $94.71B | -2% | 16.9 | 16% | Low | Reasonable | Moderate |

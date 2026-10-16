@@ -60,7 +60,7 @@ TotalEnergies SE, an integrated energy company, produces and markets oil and bio
 | Profitability | Gross 37.68%, operating 12.79%, net 9.08% | ROA 5.51%, ROE 14.48% |
 | Balance sheet | Cash $31.72B, debt $62.92B | Current ratio 1.06, debt/equity 48.05 |
 | Valuation | P/E 11.43, forward P/E 8.30, P/S 1.03, P/B 1.58 | EV/Sales 1.17, EV/EBITDA 5.82 |
-| Growth expectations | Earnings growth 106.00%, EPS q/q 102.40% | Analyst mean target $98.75 (10 analysts) |
+| Growth expectations | Earnings growth 106.00%, EPS q/q 102.40% | Analyst mean target $99.25 (10 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
@@ -113,7 +113,7 @@ TotalEnergies SE, an integrated energy company, produces and markets oil and bio
 | 52W low | $58.21 | Inst. ownership | 54.30% |
 | P/E (ttm) | 11.43 | Insider ownership | 8.86% |
 | Forward P/E | 8.30 | Short float | 0.22% |
-| PEG (trailing) | 0.71 | Avg volume | 1,813,884 |
+| PEG (trailing) | — | Avg volume | 1,813,884 |
 | P/S | 1.03 | Employees | 94,847 |
 | P/B | 1.58 | Analyst rec (1=buy..5=sell) | 2.2 |
 

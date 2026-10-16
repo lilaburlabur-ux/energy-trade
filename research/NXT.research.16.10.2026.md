@@ -18,7 +18,7 @@ Signed file: `NXT.research.16.10.2026`
 | Technical momentum | Low | Below SMA200 (-25.56%) with negative half-year (-28.14%). |
 | Fresh setup quality | Poor / broken | -48.82% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 16.36%, revenue growth 8.20%. |
-| Value attractiveness | Reasonable | Forward P/E 14.02, EV/Sales 3.16. |
+| Value attractiveness | Reasonable | Forward P/E 14.02, EV/Sales 3.02. |
 | Risk level | High | Beta 1.94, ATR 5.4% of price, short float 8.80%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: high.
@@ -59,8 +59,8 @@ Nextpower Inc. provides solar and energy technology solutions for utility-scale 
 | Revenue (ttm) | $3.63B | Revenue growth 8.20% y/y |
 | Profitability | Gross 22.98%, operating 20.86%, net 16.36% | ROA 11.68%, ROE 27.22% |
 | Balance sheet | Cash $1.21B, debt $38.40M | Current ratio 2.69, debt/equity 1.50 |
-| Valuation | P/E 20.68, forward P/E 14.02, P/S 3.39, P/B 4.75 | EV/Sales 3.16, EV/EBITDA 15.34 |
-| Growth expectations | Earnings growth 2.90%, EPS q/q 5.20% | Analyst mean target $135.36 (28 analysts) |
+| Valuation | P/E 20.68, forward P/E 14.02, P/S 3.39, P/B 4.75 | EV/Sales 3.02, EV/EBITDA 14.64 |
+| Growth expectations | Earnings growth 2.90%, EPS q/q 5.20% | Analyst mean target $134.79 (28 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
@@ -103,8 +103,8 @@ Nextpower Inc. provides solar and energy technology solutions for utility-scale 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $80.04 | EV/Sales | 3.16 |
-| Market cap | $12.30B | EV/EBITDA | 15.34 |
+| Price | $80.04 | EV/Sales | 3.02 |
+| Market cap | $12.30B | EV/EBITDA | 14.64 |
 | Beta | 1.94 | Gross margin | 22.98% |
 | RSI(14) | 43.4 | Operating margin | 20.86% |
 | ATR(14) | 4.31 | Profit margin | 16.36% |
