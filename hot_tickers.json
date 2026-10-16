@@ -1,27 +1,10 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-16T00:53:09+00:00",
+  "as_of": "2026-10-16T01:32:20+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": [
-  {
-   "rank": 1,
-   "ticker": "VRT",
-   "company": "Vertiv Holdings, LLC",
-   "move_pct": -6.09,
-   "price": 222.83,
-   "volume": 12832771,
-   "volume_vs_avg": "~3x",
-   "heat_score": 49,
-   "direction": "down",
-   "why": "Vertiv (NYSE:VRT) Shares Down 3.4% After Analyst Downgrade",
-   "catalyst_type": "analyst_action",
-   "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTnF0anJseElpd0IxMXBJRkc5TGV5VnFYcTBHam9MSEg5LU96MHNFVEVEa25hY1dkTW16czhkMGVNM2J1YnB6ckFJUi0wOEZXWDB2el85bHN1V1BlVXg4NnFmbHV3S3Rvc1UxYzFfVjFkUHpITmJhRENpSDVGak81VkJ2RjhHQ0ZvNzd0QmxMenZRSzI5UmE1Ym5nVnB3dnJqV180TTU4NklRVDE5LUY5Q01CcnI?oc=5",
-   "published": "2026-10-15T21:21:29+00:00",
-   "sector": "Grid, Storage & Electrification"
-  }
- ]
+ "hot_tickers": []
 }
