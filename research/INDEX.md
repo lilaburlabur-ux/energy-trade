@@ -38,7 +38,7 @@
 | PSX | $116.98B | +133% | 9.8 | 5% | High | Reasonable | Moderate |
 | VLO | $128.04B | +182% | 9.4 | 5% | High | Reasonable | Elevated |
 | DINO | $22.27B | +149% | 8.6 | 6% | High | Reasonable | Elevated |
-| CCJ | $35.50B | -13% | 44.6 | 10% | Low | Low (expensive) | Elevated |
+| CCJ | $35.50B | -13% | 44.5 | 10% | Low | Low (expensive) | Elevated |
 | CEG | $96.15B | -32% | 20.4 | 11% | Low | Fair-to-demanding | Elevated |
 | OKLO | $5.20B | -84% | -25.8 | 0% | Low | Reasonable | High |
 | SMR | $2.39B | -89% | -8.8 | 0% | Low | Reasonable | High |
