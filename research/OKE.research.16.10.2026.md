@@ -18,7 +18,7 @@ Signed file: `OKE.research.16.10.2026`
 | Technical momentum | Moderate | 1Y +42.74%; price +8.01% vs SMA200. |
 | Fresh setup quality | Watch | -4.31% from 52w high and near SMA20 — check for a tight base. |
 | Fundamental quality | Mixed | Profit margin 9.29%, revenue growth 52.80%. |
-| Value attractiveness | Reasonable | Forward P/E 15.22, EV/Sales 2.29. |
+| Value attractiveness | Reasonable | Forward P/E 15.22, EV/Sales 2.33. |
 | Risk level | Moderate | Beta 0.80, ATR 2.6% of price, short float 4.36%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -59,7 +59,7 @@ ONEOK, Inc. operates as a midstream service provider of gathering, processing, f
 | Revenue (ttm) | $39.37B | Revenue growth 52.80% y/y |
 | Profitability | Gross 27.21%, operating 13.25%, net 9.29% | ROA 5.77%, ROE 16.28% |
 | Balance sheet | Cash $161.00M, debt $33.02B | Current ratio 0.74, debt/equity 143.07 |
-| Valuation | P/E 16.12, forward P/E 15.22, P/S 1.49, P/B 2.56 | EV/Sales 2.29, EV/EBITDA 11.75 |
+| Valuation | P/E 16.12, forward P/E 15.22, P/S 1.49, P/B 2.56 | EV/Sales 2.33, EV/EBITDA 11.97 |
 | Growth expectations | Earnings growth 14.20%, EPS q/q 14.90% | Analyst mean target $100.65 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -101,8 +101,8 @@ ONEOK, Inc. operates as a midstream service provider of gathering, processing, f
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $93.31 | EV/Sales | 2.29 |
-| Market cap | $58.82B | EV/EBITDA | 11.75 |
+| Price | $93.31 | EV/Sales | 2.33 |
+| Market cap | $58.82B | EV/EBITDA | 11.97 |
 | Beta | 0.80 | Gross margin | 27.21% |
 | RSI(14) | 56.4 | Operating margin | 13.25% |
 | ATR(14) | 2.41 | Profit margin | 9.29% |

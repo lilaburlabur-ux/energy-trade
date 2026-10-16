@@ -18,7 +18,7 @@ Signed file: `OKLO.research.16.10.2026`
 | Technical momentum | Low | Below SMA200 (-51.07%) with negative half-year (-58.14%). |
 | Fresh setup quality | Poor / broken | -82.88% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 0.00%, revenue growth —. |
-| Value attractiveness | Reasonable | Forward P/E -25.80, EV/Sales 2,579.65. |
+| Value attractiveness | Reasonable | Forward P/E -25.80, EV/Sales 2,266.03. |
 | Risk level | High | Beta 1.22, ATR 8.2% of price, short float 19.99%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: high.
@@ -59,7 +59,7 @@ Oklo Inc. develops fission power plants to provide energy at scale to customers 
 | Revenue (ttm) | $1.21M | Revenue growth — y/y |
 | Profitability | Gross 40.41%, operating -6048.76%, net 0.00% | ROA -6.65%, ROE -7.70% |
 | Balance sheet | Cash $2.47B, debt $4.15M | Current ratio 48.46, debt/equity 0.13 |
-| Valuation | P/E —, forward P/E -25.80, P/S 4,299.93, P/B 1.58 | EV/Sales 2,579.65, EV/EBITDA -14.40 |
+| Valuation | P/E —, forward P/E -25.80, P/S 4,299.93, P/B 1.58 | EV/Sales 2,266.03, EV/EBITDA -12.65 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $75.38 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -103,8 +103,8 @@ Oklo Inc. develops fission power plants to provide energy at scale to customers 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $27.97 | EV/Sales | 2,579.65 |
-| Market cap | $5.20B | EV/EBITDA | -14.40 |
+| Price | $27.97 | EV/Sales | 2,266.03 |
+| Market cap | $5.20B | EV/EBITDA | -12.65 |
 | Beta | 1.22 | Gross margin | 40.41% |
 | RSI(14) | 28.8 | Operating margin | -6048.76% |
 | ATR(14) | 2.28 | Profit margin | 0.00% |

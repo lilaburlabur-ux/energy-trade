@@ -20,7 +20,7 @@
 | AR | $11.88B | +20% | 8.4 | 19% | Moderate | Reasonable | Moderate |
 | PR | $20.60B | +107% | 10.6 | 22% | High | Reasonable | Moderate |
 | OVV | $19.18B | +90% | 9.0 | 10% | High | Reasonable | Moderate |
-| SLB | $73.47B | +56% | 15.4 | 9% | Low | Reasonable | Elevated |
+| SLB | $73.47B | +56% | 15.6 | 9% | Low | Reasonable | Elevated |
 | HAL | $27.91B | +53% | 11.6 | 7% | Low | Reasonable | Moderate |
 | BKR | $55.29B | +27% | 18.9 | 11% | Low | Reasonable | Moderate |
 | NOV | $6.75B | +51% | 14.8 | 1% | Moderate | Reasonable | High |

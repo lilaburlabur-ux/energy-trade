@@ -18,7 +18,7 @@ Signed file: `EOSE.research.16.10.2026`
 | Technical momentum | Low | Below SMA200 (-73.60%) with negative half-year (-74.58%). |
 | Fresh setup quality | Poor / broken | -90.52% from 52w high — base needs to rebuild. |
 | Fundamental quality | Weak | Negative profit margin (-246.76%). |
-| Value attractiveness | Reasonable | Forward P/E -10.49, EV/Sales 8.57. |
+| Value attractiveness | Reasonable | Forward P/E -10.49, EV/Sales 7.99. |
 | Risk level | High | Beta 2.88, ATR 15.2% of price, short float 37.39%. |
 
 **Bottom line:** Low technical momentum, weak fundamentals, value: reasonable, risk: high.
@@ -59,7 +59,7 @@ Eos Energy Enterprises, Inc. designs, develops, manufactures, and markets energy
 | Revenue (ttm) | $214.25M | Revenue growth 351.40% y/y |
 | Profitability | Gross -84.75%, operating -121.86%, net -246.76% | ROA -30.03%, ROE — |
 | Balance sheet | Cash $305.49M, debt $640.83M | Current ratio 3.26, debt/equity — |
-| Valuation | P/E —, forward P/E -10.49, P/S 3.07, P/B -0.60 | EV/Sales 8.57, EV/EBITDA -6.45 |
+| Valuation | P/E —, forward P/E -10.49, P/S 3.07, P/B -0.60 | EV/Sales 7.99, EV/EBITDA -6.01 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $6.50 (9 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -104,8 +104,8 @@ Eos Energy Enterprises, Inc. designs, develops, manufactures, and markets energy
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $1.82 | EV/Sales | 8.57 |
-| Market cap | $658.27M | EV/EBITDA | -6.45 |
+| Price | $1.82 | EV/Sales | 7.99 |
+| Market cap | $658.27M | EV/EBITDA | -6.01 |
 | Beta | 2.88 | Gross margin | -84.75% |
 | RSI(14) | 25.1 | Operating margin | -121.86% |
 | ATR(14) | 0.28 | Profit margin | -246.76% |
