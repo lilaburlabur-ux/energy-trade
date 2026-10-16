@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-10-16T11:01:52+00:00",
-  "as_of_local": "2026-10-16 11:01:52 UTC",
+  "as_of_utc": "2026-10-16T11:07:10+00:00",
+  "as_of_local": "2026-10-16 11:07:10 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "FSLR"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -419,15 +421,6 @@
       "headlines": []
     },
     {
-      "symbol": "FSLR",
-      "name": "First Solar",
-      "price": 178.81,
-      "previous_close": 179.08,
-      "change_pct": -0.15,
-      "market_cap": 19216672529.902588,
-      "headlines": []
-    },
-    {
       "symbol": "OVV",
       "name": "Ovintiv",
       "price": 66.13,
@@ -823,18 +816,18 @@
     },
     {
       "label": "WTI",
-      "price": 96.04,
-      "change_pct": -1.97
+      "price": 95.97,
+      "change_pct": -2.04
     },
     {
       "label": "Brent",
-      "price": 106.17,
-      "change_pct": 0.24
+      "price": 106.12,
+      "change_pct": 0.19
     },
     {
       "label": "NatGas",
-      "price": 3.17,
-      "change_pct": -1.89
+      "price": 3.18,
+      "change_pct": -1.85
     }
   ]
 }
