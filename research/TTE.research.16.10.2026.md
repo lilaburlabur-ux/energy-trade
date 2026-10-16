@@ -113,7 +113,7 @@ TotalEnergies SE, an integrated energy company, produces and markets oil and bio
 | 52W low | $58.21 | Inst. ownership | 54.30% |
 | P/E (ttm) | 11.43 | Insider ownership | 8.86% |
 | Forward P/E | 8.30 | Short float | 0.22% |
-| PEG (trailing) | — | Avg volume | 1,813,884 |
+| PEG (trailing) | 0.71 | Avg volume | 1,813,884 |
 | P/S | 1.03 | Employees | 94,847 |
 | P/B | 1.58 | Analyst rec (1=buy..5=sell) | 2.2 |
 
