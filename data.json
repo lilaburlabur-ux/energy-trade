@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-10-16T20:41:06+00:00",
-  "as_of_local": "2026-10-16 20:41:06 UTC",
+  "as_of_utc": "2026-10-16T20:45:48+00:00",
+  "as_of_local": "2026-10-16 20:45:48 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "TTE"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -40,6 +38,15 @@
       "previous_close": 926.44,
       "change_pct": -0.57,
       "market_cap": 245346498068.34235,
+      "headlines": []
+    },
+    {
+      "symbol": "TTE",
+      "name": "TotalEnergies",
+      "price": 91.34,
+      "previous_close": 88.49,
+      "change_pct": 3.22,
+      "market_cap": 201389062464.25546,
       "headlines": []
     },
     {
@@ -816,18 +823,18 @@
     },
     {
       "label": "WTI",
-      "price": 98.98,
-      "change_pct": 1.03
+      "price": 98.97,
+      "change_pct": 1.02
     },
     {
       "label": "Brent",
-      "price": 109.72,
-      "change_pct": 3.59
+      "price": 109.77,
+      "change_pct": 3.63
     },
     {
       "label": "NatGas",
       "price": 3.13,
-      "change_pct": -3.4
+      "change_pct": -3.34
     }
   ]
 }
