@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-10-17T10:59:58+00:00",
-  "as_of_local": "2026-10-17 10:59:58 UTC",
+  "as_of_utc": "2026-10-17T11:15:01+00:00",
+  "as_of_local": "2026-10-17 11:15:01 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "EQT"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -355,6 +353,15 @@
       "previous_close": 83.23,
       "change_pct": -2.05,
       "market_cap": 35504646986.02471,
+      "headlines": []
+    },
+    {
+      "symbol": "EQT",
+      "name": "EQT Corp",
+      "price": 54.3,
+      "previous_close": 52.45,
+      "change_pct": 3.53,
+      "market_cap": 33965518322.769165,
       "headlines": []
     },
     {
