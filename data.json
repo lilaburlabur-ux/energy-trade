@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-10-17T18:21:58+00:00",
-  "as_of_local": "2026-10-17 18:21:58 UTC",
+  "as_of_utc": "2026-10-17T18:37:09+00:00",
+  "as_of_local": "2026-10-17 18:37:09 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "ARRY"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -607,6 +605,15 @@
       "previous_close": 2.16,
       "change_pct": -15.74,
       "market_cap": 662785313.1813583,
+      "headlines": []
+    },
+    {
+      "symbol": "ARRY",
+      "name": "Array Technologies",
+      "price": 3.43,
+      "previous_close": 3.57,
+      "change_pct": -3.92,
+      "market_cap": 527624486.8090186,
       "headlines": []
     }
   ],
