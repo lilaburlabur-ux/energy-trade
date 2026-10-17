@@ -1,27 +1,10 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-17T00:38:40+00:00",
+  "as_of": "2026-10-17T03:41:34+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": [
-  {
-   "rank": 1,
-   "ticker": "ARRY",
-   "company": "Array Technologies, Inc.",
-   "move_pct": 5.62,
-   "price": 3.57,
-   "volume": 22170494,
-   "volume_vs_avg": "~3x",
-   "heat_score": 52,
-   "direction": "up",
-   "why": "ARRY Stock Slumps As Wall Street Slashes Price Targets",
-   "catalyst_type": "analyst_action",
-   "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVEx6d1YtMlpiWElXNzF0Y0d0aWxrYk5mdDdhQUpvSXB4TjgtRVE0V0duLWJxTEtlUmt0ZkI1TFB5Nnkyd0JLZF8wRFFEQVBGY09EUUJxd3g2NU03Y2kwSWhzSWUydHBIUDVpS2hySk4zVnpITG00dzk3VTBjcDFvSlEwb1k?oc=5",
-   "published": "2026-10-16T20:47:00+00:00",
-   "sector": "Renewables & Solar"
-  }
- ]
+ "hot_tickers": []
 }
