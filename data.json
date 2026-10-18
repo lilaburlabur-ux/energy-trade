@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-10-18T11:54:22+00:00",
-  "as_of_local": "2026-10-18 11:54:22 UTC",
+  "as_of_utc": "2026-10-18T12:09:23+00:00",
+  "as_of_local": "2026-10-18 12:09:23 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "HAL"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -362,15 +364,6 @@
       "previous_close": 52.45,
       "change_pct": 3.53,
       "market_cap": 33965518322.769165,
-      "headlines": []
-    },
-    {
-      "symbol": "HAL",
-      "name": "Halliburton",
-      "price": 33.5,
-      "previous_close": 32.89,
-      "change_pct": 1.85,
-      "market_cap": 27909867294.5,
       "headlines": []
     },
     {
