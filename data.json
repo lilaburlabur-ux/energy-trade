@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-10-18T14:05:07+00:00",
-  "as_of_local": "2026-10-18 14:05:07 UTC",
+  "as_of_utc": "2026-10-18T14:10:13+00:00",
+  "as_of_local": "2026-10-18 14:10:13 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "D"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -292,6 +290,15 @@
       "previous_close": 195.6,
       "change_pct": 4.27,
       "market_cap": 57110035723.84741,
+      "headlines": []
+    },
+    {
+      "symbol": "D",
+      "name": "Dominion Energy",
+      "price": 63.56,
+      "previous_close": 62.86,
+      "change_pct": 1.11,
+      "market_cap": 55902670526.28508,
       "headlines": []
     },
     {
