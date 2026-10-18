@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-10-18T02:24:06+00:00",
-  "as_of_local": "2026-10-18 02:24:06 UTC",
+  "as_of_utc": "2026-10-18T02:29:16+00:00",
+  "as_of_local": "2026-10-18 02:29:16 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "LNG"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -254,15 +256,6 @@
       "previous_close": 60.67,
       "change_pct": 2.82,
       "market_cap": 62357380270.7079,
-      "headlines": []
-    },
-    {
-      "symbol": "LNG",
-      "name": "Cheniere Energy",
-      "price": 289.43,
-      "previous_close": 279.15,
-      "change_pct": 3.68,
-      "market_cap": 59777179837.23865,
       "headlines": []
     },
     {
