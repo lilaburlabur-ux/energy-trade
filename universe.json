@@ -1,7 +1,7 @@
 {
  "meta": {
   "source": "Energy Trade curated universe (seed_energy_universe.py)",
-  "as_of": "2026-10-19 12:44 UTC",
+  "as_of": "2026-10-19 12:45 UTC",
   "total_tickers": 67,
   "min_bubble_size": 7,
   "render_spec": {
@@ -442,8 +442,8 @@
    "label": "Shale & E&P",
    "color": "#D97742",
    "count": 9,
-   "total_market_cap_b": 362.2,
-   "avg_change_pct": -1.0,
+   "total_market_cap_b": 361.95,
+   "avg_change_pct": -1.07,
    "industries_included": [
     "Oil & Gas E&P"
    ],
@@ -908,7 +908,7 @@
      "fwd_eps": 4.63
     }
    ],
-   "median_change_pct": -0.93,
+   "median_change_pct": -0.96,
    "pe_hm": 14.7
   },
   {
@@ -1237,8 +1237,8 @@
    "label": "Midstream & LNG",
    "color": "#C9A227",
    "count": 8,
-   "total_market_cap_b": 550.76,
-   "avg_change_pct": -0.24,
+   "total_market_cap_b": 550.97,
+   "avg_change_pct": -0.2,
    "industries_included": [
     "Oil & Gas Midstream"
    ],
@@ -1402,10 +1402,10 @@
      "sector": "Energy",
      "industry": "Oil & Gas Midstream",
      "country": "United States",
-     "market_cap_b": 69.71,
+     "market_cap_b": 69.92,
      "pe": 13.88,
-     "price": 20.12,
-     "change_pct": -0.69,
+     "price": 20.18,
+     "change_pct": -0.38,
      "volume": 7466200,
      "perf": {
       "1W": -1.1,
@@ -1879,7 +1879,7 @@
    "label": "Nuclear & Uranium",
    "color": "#F2D43D",
    "count": 8,
-   "total_market_cap_b": 165.76,
+   "total_market_cap_b": 165.77,
    "avg_change_pct": 1.62,
    "industries_included": [
     "Aerospace & Defense",
@@ -2100,8 +2100,8 @@
      "country": "United States",
      "market_cap_b": 4.65,
      "pe": null,
-     "price": 28.67,
-     "change_pct": 2.5,
+     "price": 28.71,
+     "change_pct": 2.65,
      "volume": 9506400,
      "perf": {
       "1W": -19.4,
@@ -2730,7 +2730,7 @@
    "label": "Grid, Storage & Electrification",
    "color": "#F08C4A",
    "count": 8,
-   "total_market_cap_b": 682.06,
+   "total_market_cap_b": 682.07,
    "avg_change_pct": 2.79,
    "industries_included": [
     "Electrical Equipment & Parts",
@@ -2898,10 +2898,10 @@
      "sector": "Industrials",
      "industry": "Electrical Equipment & Parts",
      "country": "United States",
-     "market_cap_b": 82.63,
+     "market_cap_b": 82.64,
      "pe": 46.7,
-     "price": 214.8,
-     "change_pct": 4.06,
+     "price": 214.84,
+     "change_pct": 4.08,
      "volume": 6424700,
      "perf": {
       "1W": -15.0,
@@ -3105,7 +3105,7 @@
      "market_cap_b": 0.71,
      "pe": null,
      "price": 2.11,
-     "change_pct": 15.93,
+     "change_pct": 15.96,
      "volume": 31098300,
      "perf": {
       "1W": -27.8,
