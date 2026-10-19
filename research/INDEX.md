@@ -10,7 +10,7 @@
 | BP | $127.34B | +59% | 8.8 | 3% | Moderate | Reasonable | Moderate |
 | COP | $174.48B | +72% | 13.6 | 14% | High | Reasonable | Moderate |
 | EQNR | $109.30B | +112% | 9.7 | 8% | High | Reasonable | Moderate |
-| SU | $92.56B | +107% | 11.4 | 16% | High | Reasonable | Moderate |
+| SU | $92.56B | +107% | 11.3 | 16% | High | Reasonable | Moderate |
 | EOG | $82.69B | +53% | 10.0 | 26% | Moderate | Reasonable | Moderate |
 | FANG | $56.88B | +49% | 10.6 | 9% | Moderate | Reasonable | Moderate |
 | DVN | $56.01B | +63% | 9.5 | 17% | High | Reasonable | Moderate |
@@ -38,12 +38,12 @@
 | PSX | $116.49B | +133% | 9.7 | 5% | High | Reasonable | Elevated |
 | VLO | $124.76B | +183% | 9.1 | 5% | High | Reasonable | Elevated |
 | DINO | $22.12B | +154% | 8.5 | 6% | High | Reasonable | Elevated |
-| CCJ | $35.15B | -11% | 43.5 | 10% | Low | Low (expensive) | Elevated |
+| CCJ | $35.15B | -11% | 43.4 | 10% | Low | Low (expensive) | Elevated |
 | CEG | $93.25B | -33% | 19.8 | 11% | Low | Reasonable | High |
 | OKLO | $5.07B | -83% | -25.1 | 0% | Low | Reasonable | High |
 | SMR | $2.34B | -88% | -8.6 | 0% | Low | Reasonable | High |
 | LEU | $2.25B | -73% | 29.3 | 10% | Low | Fair-to-demanding | High |
-| NXE | $5.70B | -5% | -67.8 | 0% | Low | Reasonable | Elevated |
+| NXE | $5.70B | -5% | -67.6 | 0% | Low | Reasonable | Elevated |
 | UEC | $3.91B | -51% | -106.6 | 0% | Low | Reasonable | High |
 | UUUU | $2.16B | -62% | 16.8 | -77% | Low | Reasonable | High |
 | BWXT | $12.45B | -35% | 26.0 | 10% | Low | Fair-to-demanding | Elevated |

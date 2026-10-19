@@ -38,7 +38,7 @@ Public Service Enterprise Group Incorporated, through its subsidiaries, operates
 | Price vs 52-week range | Close $70.32; 52w high $84.74 (-17.02%); 52w low $66.56 (+5.65%) |
 | Trend | -8.93% vs SMA200, -1.61% vs SMA50, +1.34% vs SMA20 |
 | Momentum | RSI(14) 48.7 (neutral) |
-| Volatility | ATR(14) 1.37 (~1.9% of price); beta 0.52 |
+| Volatility | ATR(14) 1.36 (~1.9% of price); beta 0.52 |
 | Setup perspective | -17.02% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
@@ -104,7 +104,7 @@ Public Service Enterprise Group Incorporated, through its subsidiaries, operates
 | Market cap | $35.05B | EV/EBITDA | 13.47 |
 | Beta | 0.52 | Gross margin | 33.33% |
 | RSI(14) | 48.7 | Operating margin | 18.87% |
-| ATR(14) | 1.37 | Profit margin | 16.04% |
+| ATR(14) | 1.36 | Profit margin | 16.04% |
 | SMA20 dist | +1.34% | ROA | 3.24% |
 | SMA50 dist | -1.61% | ROE | 11.83% |
 | SMA200 dist | -8.93% | Revenue (ttm) | $12.54B |
@@ -119,6 +119,7 @@ Public Service Enterprise Group Incorporated, through its subsidiaries, operates
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-10-19 | main | JP Morgan | Neutral → Neutral |
 | 2026-10-15 | main | Truist Securities | Hold → Hold |
 | 2026-09-18 | main | Morgan Stanley | Overweight → Overweight |
 | 2026-08-21 | main | Morgan Stanley | Overweight → Overweight |
@@ -126,7 +127,6 @@ Public Service Enterprise Group Incorporated, through its subsidiaries, operates
 | 2026-08-05 | main | Citigroup | Neutral → Neutral |
 | 2026-08-05 | main | Wells Fargo | Overweight → Overweight |
 | 2026-07-22 | main | Wells Fargo | Overweight → Overweight |
-| 2026-07-20 | main | Jefferies | Hold → Hold |
 
 ## 9. Conclusion
 PEG: Low momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

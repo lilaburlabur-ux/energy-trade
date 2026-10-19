@@ -124,6 +124,7 @@ SolarEdge Technologies, Inc., together with its subsidiaries, operates as an ene
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-10-19 | main | JP Morgan | Neutral → Neutral |
 | 2026-10-14 | main | Susquehanna | Neutral → Neutral |
 | 2026-10-07 | main | Barclays | Equal-Weight → Equal-Weight |
 | 2026-09-21 | main | Citigroup | Sell → Sell |
@@ -131,7 +132,6 @@ SolarEdge Technologies, Inc., together with its subsidiaries, operates as an ene
 | 2026-09-11 | main | Mizuho | Neutral → Neutral |
 | 2026-09-11 | main | JP Morgan | Neutral → Neutral |
 | 2026-09-11 | main | RBC Capital | Sector Perform → Sector Perform |
-| 2026-08-26 | up | UBS | Neutral → Buy |
 
 ## 9. Conclusion
 SEDG: Low momentum / weak fundamentals / low (expensive) value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

@@ -122,6 +122,7 @@ Enphase Energy, Inc., together with its subsidiaries, designs, develops, manufac
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-10-19 | main | JP Morgan | Neutral → Neutral |
 | 2026-10-14 | main | Morgan Stanley | Underweight → Underweight |
 | 2026-10-14 | main | Susquehanna | Neutral → Neutral |
 | 2026-10-06 | main | Barclays | Equal-Weight → Equal-Weight |
@@ -129,7 +130,6 @@ Enphase Energy, Inc., together with its subsidiaries, designs, develops, manufac
 | 2026-09-21 | main | Jefferies | Buy → Buy |
 | 2026-09-21 | main | Goldman Sachs | Buy → Buy |
 | 2026-08-17 | main | Evercore ISI Group | In-Line → In-Line |
-| 2026-07-30 | main | Citigroup | Neutral → Neutral |
 
 ## 9. Conclusion
 ENPH: Low momentum / mixed fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

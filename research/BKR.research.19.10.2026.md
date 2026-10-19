@@ -119,6 +119,7 @@ Baker Hughes Company provides a portfolio of technologies and services to energy
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-10-19 | main | Citigroup | Buy → Buy |
 | 2026-09-30 | main | UBS | Neutral → Neutral |
 | 2026-09-29 | main | Jefferies | Buy → Buy |
 | 2026-09-14 | main | UBS | Neutral → Neutral |
@@ -126,7 +127,6 @@ Baker Hughes Company provides a portfolio of technologies and services to energy
 | 2026-09-10 | main | UBS | Neutral → Neutral |
 | 2026-08-25 | main | RBC Capital | Outperform → Outperform |
 | 2026-07-28 | main | UBS | Neutral → Neutral |
-| 2026-07-28 | main | TD Cowen | Buy → Buy |
 
 ## 9. Conclusion
 BKR: Low momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

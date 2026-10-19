@@ -122,6 +122,7 @@ Sunrun Inc. designs, develops, installs, sells, owns, and maintains residential 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-10-19 | main | JP Morgan | Overweight → Overweight |
 | 2026-10-14 | main | Morgan Stanley | Equal-Weight → Equal-Weight |
 | 2026-10-14 | main | Susquehanna | Positive → Positive |
 | 2026-10-09 | main | Citigroup | Buy → Buy |
@@ -129,7 +130,6 @@ Sunrun Inc. designs, develops, installs, sells, owns, and maintains residential 
 | 2026-10-08 | main | Goldman Sachs | Buy → Buy |
 | 2026-09-21 | main | Goldman Sachs | Buy → Buy |
 | 2026-08-17 | reit | GLJ Research | Sell → Sell |
-| 2026-08-14 | main | Wells Fargo | Overweight → Overweight |
 
 ## 9. Conclusion
 RUN: Low momentum / mixed fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

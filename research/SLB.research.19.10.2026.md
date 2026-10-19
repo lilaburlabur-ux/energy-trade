@@ -119,6 +119,7 @@ SLB N.V. engages in the provision of technology for the energy industry worldwid
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-10-19 | main | Citigroup | Buy → Buy |
 | 2026-10-19 | main | Piper Sandler | Overweight → Overweight |
 | 2026-10-15 | main | Barclays | Overweight → Overweight |
 | 2026-09-14 | main | UBS | Buy → Buy |
@@ -126,7 +127,6 @@ SLB N.V. engages in the provision of technology for the energy industry worldwid
 | 2026-07-27 | main | Piper Sandler | Overweight → Overweight |
 | 2026-07-27 | main | TD Cowen | Buy → Buy |
 | 2026-07-27 | main | Morgan Stanley | Overweight → Overweight |
-| 2026-07-27 | main | Evercore ISI Group | Outperform → Outperform |
 
 ## 9. Conclusion
 SLB: Low momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

@@ -122,6 +122,7 @@ First Solar, Inc., a solar technology company, provides photovoltaic (PV) solar 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-10-19 | main | JP Morgan | Overweight → Overweight |
 | 2026-10-15 | main | Barclays | Overweight → Overweight |
 | 2026-10-14 | main | Morgan Stanley | Overweight → Overweight |
 | 2026-10-12 | up | Truist Securities | Hold → Buy |
@@ -129,7 +130,6 @@ First Solar, Inc., a solar technology company, provides photovoltaic (PV) solar 
 | 2026-09-30 | main | Piper Sandler | Overweight → Overweight |
 | 2026-09-28 | up | Keybanc | Underweight → Sector Weight |
 | 2026-09-22 | main | GLJ Research | Buy → Buy |
-| 2026-09-09 | init | Piper Sandler | — → Overweight |
 
 ## 9. Conclusion
 FSLR: Low momentum / mixed fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

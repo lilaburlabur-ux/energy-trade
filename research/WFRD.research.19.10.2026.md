@@ -122,6 +122,7 @@ Weatherford International plc, an energy services company, provides equipment an
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-10-19 | main | Citigroup | Buy → Buy |
 | 2026-10-19 | main | Piper Sandler | Overweight → Overweight |
 | 2026-10-15 | main | Barclays | Overweight → Overweight |
 | 2026-10-14 | main | Goldman Sachs | Neutral → Neutral |
@@ -129,7 +130,6 @@ Weatherford International plc, an energy services company, provides equipment an
 | 2026-07-29 | up | UBS | Neutral → Buy |
 | 2026-07-24 | main | Barclays | Overweight → Overweight |
 | 2026-07-16 | main | Barclays | Overweight → Overweight |
-| 2026-07-10 | main | Raymond James | Outperform → Outperform |
 
 ## 9. Conclusion
 WFRD: Low momentum / mixed fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

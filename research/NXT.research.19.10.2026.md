@@ -122,6 +122,7 @@ Nextpower Inc. provides solar and energy technology solutions for utility-scale 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-10-19 | main | JP Morgan | Overweight → Overweight |
 | 2026-10-15 | main | Mizuho | Neutral → Neutral |
 | 2026-10-14 | main | Susquehanna | Positive → Positive |
 | 2026-10-13 | main | Barclays | Overweight → Overweight |
@@ -129,7 +130,6 @@ Nextpower Inc. provides solar and energy technology solutions for utility-scale 
 | 2026-09-30 | main | Piper Sandler | Overweight → Overweight |
 | 2026-09-22 | main | Baird | Outperform → Outperform |
 | 2026-09-09 | init | Piper Sandler | — → Overweight |
-| 2026-08-05 | reit | GLJ Research | Buy → Buy |
 
 ## 9. Conclusion
 NXT: Low momentum / mixed fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
