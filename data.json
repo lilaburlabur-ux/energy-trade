@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-10-19T12:09:14+00:00",
-  "as_of_local": "2026-10-19 12:09:14 UTC",
+  "as_of_utc": "2026-10-19T12:14:07+00:00",
+  "as_of_local": "2026-10-19 12:14:07 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "SO"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -119,15 +121,6 @@
       "previous_close": 44.92,
       "change_pct": 4.59,
       "market_cap": 111268204817.36497,
-      "headlines": []
-    },
-    {
-      "symbol": "SO",
-      "name": "Southern Company",
-      "price": 91.18,
-      "previous_close": 89.18,
-      "change_pct": 2.24,
-      "market_cap": 104890095590.94292,
       "headlines": []
     },
     {
@@ -823,18 +816,18 @@
     },
     {
       "label": "WTI",
-      "price": 98.17,
-      "change_pct": -3.19
+      "price": 98.32,
+      "change_pct": -3.05
     },
     {
       "label": "Brent",
-      "price": 108.41,
-      "change_pct": -1.32
+      "price": 108.66,
+      "change_pct": -1.09
     },
     {
       "label": "NatGas",
-      "price": 3.18,
-      "change_pct": 2.09
+      "price": 3.17,
+      "change_pct": 1.7
     }
   ]
 }
