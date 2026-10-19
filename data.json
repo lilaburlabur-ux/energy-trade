@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-10-19T20:06:54+00:00",
-  "as_of_local": "2026-10-19 20:06:54 UTC",
+  "as_of_utc": "2026-10-19T20:11:00+00:00",
+  "as_of_local": "2026-10-19 20:11:00 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "TLN"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -446,15 +448,6 @@
       "headlines": []
     },
     {
-      "symbol": "TLN",
-      "name": "Talen Energy",
-      "price": 351.22,
-      "previous_close": 354.81,
-      "change_pct": -1.01,
-      "market_cap": 16612706057.739258,
-      "headlines": []
-    },
-    {
       "symbol": "BWXT",
       "name": "BWX Technologies",
       "price": 135.76,
@@ -828,13 +821,13 @@
     },
     {
       "label": "Brent",
-      "price": 109.35,
+      "price": 109.36,
       "change_pct": -0.46
     },
     {
       "label": "NatGas",
-      "price": 3.05,
-      "change_pct": -2.28
+      "price": 3.04,
+      "change_pct": -2.31
     }
   ]
 }
