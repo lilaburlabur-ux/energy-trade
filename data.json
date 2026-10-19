@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-10-19T21:24:22+00:00",
-  "as_of_local": "2026-10-19 21:24:22 UTC",
+  "as_of_utc": "2026-10-19T21:27:35+00:00",
+  "as_of_local": "2026-10-19 21:27:35 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "LNG"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -64,7 +66,7 @@
       "price": 78.17,
       "previous_close": 79.8,
       "change_pct": -2.04,
-      "market_cap": 163060912777.9898,
+      "market_cap": 163031767016.00253,
       "headlines": []
     },
     {
@@ -73,7 +75,7 @@
       "price": 391.5,
       "previous_close": 391.25,
       "change_pct": 0.06,
-      "market_cap": 152058600000.0,
+      "market_cap": 152019450000.0,
       "headlines": []
     },
     {
@@ -82,7 +84,7 @@
       "price": 473.69,
       "previous_close": 478.07,
       "change_pct": -0.92,
-      "market_cap": 133023882671.07733,
+      "market_cap": 138287465345.88593,
       "headlines": []
     },
     {
@@ -181,7 +183,7 @@
       "price": 157.65,
       "previous_close": 158.01,
       "change_pct": -0.23,
-      "market_cap": 82692021394.92798,
+      "market_cap": 83968884503.59344,
       "headlines": []
     },
     {
@@ -254,15 +256,6 @@
       "previous_close": 62.38,
       "change_pct": 0.55,
       "market_cap": 62697257129.38046,
-      "headlines": []
-    },
-    {
-      "symbol": "LNG",
-      "name": "Cheniere Energy",
-      "price": 286.6,
-      "previous_close": 289.43,
-      "change_pct": -0.98,
-      "market_cap": 59192690943.38446,
       "headlines": []
     },
     {
@@ -352,7 +345,7 @@
       "price": 70.32,
       "previous_close": 71.49,
       "change_pct": -1.64,
-      "market_cap": 35048896357.49428,
+      "market_cap": 35041960836.56438,
       "headlines": []
     },
     {
@@ -487,7 +480,7 @@
       "price": 28.15,
       "previous_close": 28.4,
       "change_pct": -0.88,
-      "market_cap": 8448142157.4165,
+      "market_cap": 8537218299.059401,
       "headlines": []
     },
     {
@@ -514,7 +507,7 @@
       "price": 77.09,
       "previous_close": 76.19,
       "change_pct": 1.18,
-      "market_cap": 5512867835.4748535,
+      "market_cap": 5526230538.350067,
       "headlines": []
     },
     {
@@ -532,7 +525,7 @@
       "price": 30.63,
       "previous_close": 30.62,
       "change_pct": 0.03,
-      "market_cap": 4047590457.339798,
+      "market_cap": 4036979367.990532,
       "headlines": []
     },
     {
@@ -568,7 +561,7 @@
       "price": 8.16,
       "previous_close": 8.47,
       "change_pct": -3.66,
-      "market_cap": 2160552307.118759,
+      "market_cap": 2039714361.858368,
       "headlines": []
     },
     {
