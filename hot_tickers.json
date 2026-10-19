@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-19T23:20:12+00:00",
+  "as_of": "2026-10-19T23:25:30+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,6 +9,22 @@
  "hot_tickers": [
   {
    "rank": 1,
+   "ticker": "ARRY",
+   "company": "Array Technologies, Inc.",
+   "move_pct": -5.7,
+   "price": 3.23,
+   "volume": 6500456,
+   "volume_vs_avg": "~0.9x",
+   "heat_score": 40,
+   "direction": "down",
+   "why": "Array Digital Infrastructure (NYSE:AD) Sets New 52-Week Low - Here's Why",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQ0dRVnB3c0NOQ3Q5ZnZvSVdveUg3U19RSzl5MG1PblNTblphQmFwTlA0cE9CbDdfZmlCTnZZUzlNNWR1WUNHQVlBZUlJY0ZGY3N2VGV5R2dHanBITGhiTFJwVjExU3E5bDJZNUc5TUpuZGczVHEzSk53UWZsbUxzVEd2V1l5TmhFZFBZMm1zVE90aHROclBIenltb3dzb1B6NWptMFlxa1pvXzY3SllfNlBmTzY2dkxrcHJva2xwNHFMeWNwWUE?oc=5",
+   "published": "2026-10-19T20:43:39+00:00",
+   "sector": "Renewables & Solar"
+  },
+  {
+   "rank": 2,
    "ticker": "RUN",
    "company": "Sunrun Inc.",
    "move_pct": -5.48,
