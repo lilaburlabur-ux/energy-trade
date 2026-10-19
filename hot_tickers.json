@@ -1,10 +1,27 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-19T17:23:10+00:00",
+  "as_of": "2026-10-19T17:38:14+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": []
+ "hot_tickers": [
+  {
+   "rank": 1,
+   "ticker": "RUN",
+   "company": "Sunrun Inc.",
+   "move_pct": -5.14,
+   "price": 6.93,
+   "volume": 4529402,
+   "volume_vs_avg": "~0.6x",
+   "heat_score": 36,
+   "direction": "down",
+   "why": "Sunrun (NASDAQ:RUN) Stock Price Down 4.9% - Should You Sell?",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWTh2d2gxaTFTSGZTdnZKcEx0V2h1VldTNm0tSUZkNTU0X3RKSUVFZFFrb21YUnI0UHpfbGR0aGVvMS1VbFJHY0xtcndTdjBUb1NtaGtuUnN5N0RmMzdsWm82S2lVX25uUk9TVnp0UnkxVzEzemk2UmI1N2Z5ZDlVa3Y3M2dWd2t0dHRjbm5ubFZVRldacWdLZlZKQUFHVzNrQzUxTXdiSU1TTTVVS1lmZVdnOA?oc=5",
+   "published": "2026-10-19T16:41:50+00:00",
+   "sector": "Renewables & Solar"
+  }
+ ]
 }
