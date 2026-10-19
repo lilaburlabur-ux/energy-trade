@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-19T17:38:14+00:00",
+  "as_of": "2026-10-19T17:53:30+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,11 +9,27 @@
  "hot_tickers": [
   {
    "rank": 1,
+   "ticker": "LEU",
+   "company": "Centrus Energy Corp.",
+   "move_pct": -5.36,
+   "price": 108.78,
+   "volume": 913396,
+   "volume_vs_avg": "~1.1x",
+   "heat_score": 39,
+   "direction": "down",
+   "why": "Bank of Nova Scotia reports a passive Centrus Energy (LEU) stake below 5%.",
+   "catalyst_type": "regulatory",
+   "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOOXFxdktGcDdRMmtYMWJuckNMMm9fN3NPTUI1MmlPeVVBdUU4MllBd0hoNlkyMlM2azlPdGVnQkZkT2RibGNveTdqUHVHQWNLMlNLa2VYblBhR1MyekVvX1pJS3VhQVNLT0p5OGw1ckM4YjhmS2xEdVBzN2dXZC0xbzE4NTdQLW5ubWRVYWZjcERjUzduX1ViX0hPRXBCZ3dRejlsYU1LcE50VFRPLTVEYUN1QUdabGZUVzlHMEZJY01QVGNtSU9EQy13?oc=5",
+   "published": "2026-10-19T14:38:53+00:00",
+   "sector": "Nuclear & Uranium"
+  },
+  {
+   "rank": 2,
    "ticker": "RUN",
    "company": "Sunrun Inc.",
    "move_pct": -5.14,
    "price": 6.93,
-   "volume": 4529402,
+   "volume": 4742172,
    "volume_vs_avg": "~0.6x",
    "heat_score": 36,
    "direction": "down",
