@@ -1,27 +1,10 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-19T13:14:10+00:00",
+  "as_of": "2026-10-19T13:29:20+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": [
-  {
-   "rank": 1,
-   "ticker": "BE",
-   "company": "Bloom Energy Corporation",
-   "move_pct": 5.08,
-   "price": 232.56,
-   "volume": 13747400,
-   "volume_vs_avg": "~0.8x",
-   "heat_score": 37,
-   "direction": "up",
-   "why": "Bloom Energy Q3 Earnings Preview: Options Traders Brace for a Large Post-Earnings Swing in BE Stock",
-   "catalyst_type": "earnings",
-   "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObkZSdkpEMG1HdVd3UFVXM21LOXJhOC1IZVRpN1JHTVVZdkVvckVQdkdaNkVWNHhqbTg0d0V5Q1JoZW1YdVgtZ3oxOGMtdXRtNllFS3dCQ0R5bjJyckphVEVJM3poOEo4WVhjZm1kZ3N4YWpTWEg3YnZNTFI2UkdyQUpfZWl6M3REY25xUXh6aEUtMV9pYlljRU80UQ?oc=5",
-   "published": "2026-10-19T12:40:45+00:00",
-   "sector": "Grid, Storage & Electrification"
-  }
- ]
+ "hot_tickers": []
 }
