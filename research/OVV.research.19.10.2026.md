@@ -18,7 +18,7 @@ Signed file: `OVV.research.19.10.2026`
 | Technical momentum | High | 1Y +96.63%; price +25.61% vs SMA200. |
 | Fresh setup quality | Moderate / wait | +0.00% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 9.66%, revenue growth 29.70%. |
-| Value attractiveness | Reasonable | Forward P/E 8.84, EV/Sales 2.46. |
+| Value attractiveness | Reasonable | Forward P/E 8.84, EV/Sales 2.48. |
 | Risk level | Moderate | Beta 0.66, ATR 2.6% of price, short float 4.27%. |
 
 **Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -59,7 +59,7 @@ Ovintiv Inc., together with its subsidiaries, operates as an oil and natural gas
 | Revenue (ttm) | $9.52B | Revenue growth 29.70% y/y |
 | Profitability | Gross 53.86%, operating 36.18%, net 9.66% | ROA 8.64%, ROE 8.41% |
 | Balance sheet | Cash $700.00M, debt $5.03B | Current ratio 1.01, debt/equity 43.73 |
-| Valuation | P/E 19.51, forward P/E 8.84, P/S 2.03, P/B 1.68 | EV/Sales 2.46, EV/EBITDA 4.80 |
+| Valuation | P/E 19.51, forward P/E 8.84, P/S 2.03, P/B 1.68 | EV/Sales 2.48, EV/EBITDA 4.84 |
 | Growth expectations | Earnings growth 37.30%, EPS q/q 48.50% | Analyst mean target $78.71 (24 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -101,8 +101,8 @@ Ovintiv Inc., together with its subsidiaries, operates as an oil and natural gas
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $70.04 | EV/Sales | 2.46 |
-| Market cap | $19.37B | EV/EBITDA | 4.80 |
+| Price | $70.04 | EV/Sales | 2.48 |
+| Market cap | $19.37B | EV/EBITDA | 4.84 |
 | Beta | 0.66 | Gross margin | 53.86% |
 | RSI(14) | 72.6 | Operating margin | 36.18% |
 | ATR(14) | 1.82 | Profit margin | 9.66% |
@@ -120,6 +120,7 @@ Ovintiv Inc., together with its subsidiaries, operates as an oil and natural gas
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-10-19 | main | Scotiabank | Sector Outperform → Sector Outperform |
 | 2026-10-15 | main | Morgan Stanley | Equal-Weight → Equal-Weight |
 | 2026-10-14 | main | Wells Fargo | Overweight → Overweight |
 | 2026-10-14 | reit | RBC Capital | Outperform → Outperform |
@@ -127,7 +128,6 @@ Ovintiv Inc., together with its subsidiaries, operates as an oil and natural gas
 | 2026-10-12 | main | Truist Securities | Buy → Buy |
 | 2026-10-09 | main | CIBC | Neutral → Neutral |
 | 2026-10-02 | main | Scotiabank | Sector Outperform → Sector Outperform |
-| 2026-09-03 | init | Seaport Global | — → Neutral |
 
 ## 9. Conclusion
 OVV: High momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

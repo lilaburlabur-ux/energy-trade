@@ -5,7 +5,7 @@ Signed file: `NEE.research.19.10.2026`
 | Field | Value |
 |---|---|
 | Current price | $78.17 (2026-10-19, ~15-min delayed) |
-| Market cap | $163.06B |
+| Market cap | $163.03B |
 | Sector / Industry | Utilities / Utilities - Regulated Electric |
 | Main theme | Utilities - Regulated Electric — see catalysts below |
 | Current stance | Low technical momentum, strong fundamentals, value: reasonable, risk: moderate. |
@@ -18,7 +18,7 @@ Signed file: `NEE.research.19.10.2026`
 | Technical momentum | Low | Below SMA200 (-9.40%) with negative half-year (-13.78%). |
 | Fresh setup quality | Moderate / wait | -18.95% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 32.40%, revenue growth 12.40%. |
-| Value attractiveness | Reasonable | Forward P/E 17.87, EV/Sales 9.92. |
+| Value attractiveness | Reasonable | Forward P/E 17.87, EV/Sales 9.80. |
 | Risk level | Moderate | Beta 0.64, ATR 1.8% of price, short float 2.85%. |
 
 **Bottom line:** Low technical momentum, strong fundamentals, value: reasonable, risk: moderate.
@@ -59,7 +59,7 @@ NextEra Energy, Inc., through its subsidiaries, generates, stores, transmits, di
 | Revenue (ttm) | $28.70B | Revenue growth 12.40% y/y |
 | Profitability | Gross 61.02%, operating 31.52%, net 32.40% | ROA 2.44%, ROE 11.68% |
 | Balance sheet | Cash $2.87B, debt $110.20B | Current ratio 0.53, debt/equity 161.68 |
-| Valuation | P/E 17.57, forward P/E 17.87, P/S 5.68, P/B 2.85 | EV/Sales 9.92, EV/EBITDA 19.52 |
+| Valuation | P/E 17.57, forward P/E 17.87, P/S 5.68, P/B 2.85 | EV/Sales 9.80, EV/EBITDA 19.28 |
 | Growth expectations | Earnings growth 53.10%, EPS q/q 55.00% | Analyst mean target $96.21 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -100,8 +100,8 @@ NextEra Energy, Inc., through its subsidiaries, generates, stores, transmits, di
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $78.17 | EV/Sales | 9.92 |
-| Market cap | $163.06B | EV/EBITDA | 19.52 |
+| Price | $78.17 | EV/Sales | 9.80 |
+| Market cap | $163.03B | EV/EBITDA | 19.28 |
 | Beta | 0.64 | Gross margin | 61.02% |
 | RSI(14) | 46.3 | Operating margin | 31.52% |
 | ATR(14) | 1.38 | Profit margin | 32.40% |

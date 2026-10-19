@@ -18,7 +18,7 @@ Signed file: `XOM.research.19.10.2026`
 | Technical momentum | High | 1Y +65.81%; price +18.31% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -0.39% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 9.07%, revenue growth 44.10%. |
-| Value attractiveness | Reasonable | Forward P/E 15.03, EV/Sales 2.15. |
+| Value attractiveness | Reasonable | Forward P/E 14.90, EV/Sales 2.14. |
 | Risk level | Moderate | Beta 0.21, ATR 2.0% of price, short float 1.07%. |
 
 **Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -59,7 +59,7 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 | Revenue (ttm) | $361.06B | Revenue growth 44.10% y/y |
 | Profitability | Gross 29.77%, operating 15.86%, net 9.07% | ROA 5.52%, ROE 12.58% |
 | Balance sheet | Cash $10.59B, debt $42.37B | Current ratio 1.14, debt/equity 15.92 |
-| Valuation | P/E 22.94, forward P/E 15.03, P/S 2.03, P/B 2.83 | EV/Sales 2.15, EV/EBITDA 11.40 |
+| Valuation | P/E 22.94, forward P/E 14.90, P/S 2.03, P/B 2.83 | EV/Sales 2.14, EV/EBITDA 11.36 |
 | Growth expectations | Earnings growth 112.80%, EPS q/q 105.10% | Analyst mean target $177.59 (22 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -101,8 +101,8 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $178.28 | EV/Sales | 2.15 |
-| Market cap | $733.07B | EV/EBITDA | 11.40 |
+| Price | $178.28 | EV/Sales | 2.14 |
+| Market cap | $733.07B | EV/EBITDA | 11.36 |
 | Beta | 0.21 | Gross margin | 29.77% |
 | RSI(14) | 71.1 | Operating margin | 15.86% |
 | ATR(14) | 3.52 | Profit margin | 9.07% |
@@ -112,7 +112,7 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 | 52W high | $178.98 | Revenue growth y/y | 44.10% |
 | 52W low | $109.08 | Inst. ownership | 67.24% |
 | P/E (ttm) | 22.94 | Insider ownership | 0.08% |
-| Forward P/E | 15.03 | Short float | 1.07% |
+| Forward P/E | 14.90 | Short float | 1.07% |
 | PEG (trailing) | 1.38 | Avg volume | 13,586,490 |
 | P/S | 2.03 | Employees | 57,900 |
 | P/B | 2.83 | Analyst rec (1=buy..5=sell) | 2.4 |

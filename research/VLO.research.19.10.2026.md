@@ -18,7 +18,7 @@ Signed file: `VLO.research.19.10.2026`
 | Technical momentum | High | 1Y +182.94%; price +58.09% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -5.76% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 5.45%, revenue growth 51.70%. |
-| Value attractiveness | Reasonable | Forward P/E 9.10, EV/Sales 1.02. |
+| Value attractiveness | Reasonable | Forward P/E 9.15, EV/Sales 0.99. |
 | Risk level | Elevated | Beta 0.59, ATR 3.9% of price, short float 3.63%. |
 
 **Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
@@ -59,7 +59,7 @@ Valero Energy Corporation manufactures, markets, and sells petroleum-based and l
 | Revenue (ttm) | $132.43B | Revenue growth 51.70% y/y |
 | Profitability | Gross 16.12%, operating 12.27%, net 5.45% | ROA 10.56%, ROE 27.64% |
 | Balance sheet | Cash $7.87B, debt $11.35B | Current ratio 1.64, debt/equity 40.15 |
-| Valuation | P/E 18.06, forward P/E 9.10, P/S 0.94, P/B 4.99 | EV/Sales 1.02, EV/EBITDA 10.07 |
+| Valuation | P/E 18.06, forward P/E 9.15, P/S 0.94, P/B 4.99 | EV/Sales 0.99, EV/EBITDA 9.83 |
 | Growth expectations | Earnings growth 453.50%, EPS q/q 421.00% | Analyst mean target $409.58 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -102,8 +102,8 @@ Valero Energy Corporation manufactures, markets, and sells petroleum-based and l
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $433.31 | EV/Sales | 1.02 |
-| Market cap | $124.76B | EV/EBITDA | 10.07 |
+| Price | $433.31 | EV/Sales | 0.99 |
+| Market cap | $124.76B | EV/EBITDA | 9.83 |
 | Beta | 0.59 | Gross margin | 16.12% |
 | RSI(14) | 59.7 | Operating margin | 12.27% |
 | ATR(14) | 16.85 | Profit margin | 5.45% |
@@ -113,7 +113,7 @@ Valero Energy Corporation manufactures, markets, and sells petroleum-based and l
 | 52W high | $459.78 | Revenue growth y/y | 51.70% |
 | 52W low | $154.42 | Inst. ownership | 87.06% |
 | P/E (ttm) | 18.06 | Insider ownership | 0.42% |
-| Forward P/E | 9.10 | Short float | 3.63% |
+| Forward P/E | 9.15 | Short float | 3.63% |
 | PEG (trailing) | 1.85 | Avg volume | 2,940,284 |
 | P/S | 0.94 | Employees | 9,785 |
 | P/B | 4.99 | Analyst rec (1=buy..5=sell) | 2.5 |
