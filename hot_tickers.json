@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-19T20:46:11+00:00",
+  "as_of": "2026-10-19T21:01:11+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,16 +11,16 @@
    "rank": 1,
    "ticker": "RUN",
    "company": "Sunrun Inc.",
-   "move_pct": -5.21,
+   "move_pct": -5.2,
    "price": 6.92,
-   "volume": 8275722,
+   "volume": 8309005,
    "volume_vs_avg": "~1.0x",
    "heat_score": 38,
    "direction": "down",
-   "why": "Sunrun stock falls 5% to a 52-week low ahead of Q3 earnings amid sector weakness.",
-   "catalyst_type": "earnings",
-   "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTWFwRGg4ZXQ1b193Y1ZxWHpTZUtBLUpBTjNEV3pHdzNJNGY3SDZjbnp3cXM4RGJfWmp2UmMwUWJEY2I4NUdtMDJrc0g2ZDVXcl9IREJJZFM3QUhKWXJTWFFMS3BJTnJ1cmFJV3gzM1l2QmhZZGdza29VWjNVazlvN09MU3h2RWpPbFFyQ0djV194UFZWWXlJQnY3bkM5RnQyS0g1M05lY1F0bXAwN2NSa0N3?oc=5",
-   "published": "2026-10-19T18:27:35+00:00",
+   "why": "Sunrun (NASDAQ:RUN) Stock Price Target Cut by JPMorgan Chase & Co.",
+   "catalyst_type": "analyst_action",
+   "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPN29UYWFLZGxNamozRWJDaVVSbHRtSlRzUk81R2xsV2ZOR3FUX1R0Z1ZDaklsWU5wUEJMbXR2aHdzcHVuOU1CMHQzMlpfZVQyWk15d1hVMzNYTnptcTM1dldHaGhtYWRmb3g3SDkwNEs1bzY0MFJCeS01ZXhrNDdxbXp4bFAyaGc1SW9NZTI3SlExYlFfT2JJU3RaZDQ1Y1RqeTJhRHRfSjZYM2Y2czVZZmM2X29BZzZWdkVXN3psNWI?oc=5",
+   "published": "2026-10-19T20:47:40+00:00",
    "sector": "Renewables & Solar"
   }
  ]
