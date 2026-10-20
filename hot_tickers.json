@@ -1,10 +1,27 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-20T14:21:10+00:00",
+  "as_of": "2026-10-20T14:36:21+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": []
+ "hot_tickers": [
+  {
+   "rank": 1,
+   "ticker": "RUN",
+   "company": "Sunrun Inc.",
+   "move_pct": 5.59,
+   "price": 7.28,
+   "volume": 2874404,
+   "volume_vs_avg": "~0.4x",
+   "heat_score": 36,
+   "direction": "up",
+   "why": "Sunrun (NASDAQ:RUN) Hits New 12-Month Low After Analyst Downgrade",
+   "catalyst_type": "analyst_action",
+   "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWkdwMkx0UG1sUTRzQXJIRGdMUXRUcWl4TF9QR0ZXS0tpbnFVa21QOVZUY0R2TDhFVkF6MTFwUkkzMjh4VmIyWTFsUUVNTmMzcFZtYnhaXzdXMi1vU0RnWk83SElNcE16dzl0MmxQM0JSeFppRy01WE1oRk5fRkFzbTl1cEZRYVhQTVQ3T2haMW10aE1mQ0ZoT2xvb1lZSUZsWmo0VTczZjZTQmNKSG9aM1AzN3BBRXo2amdGQ1BqZWs?oc=5",
+   "published": "2026-10-20T14:23:05+00:00",
+   "sector": "Renewables & Solar"
+  }
+ ]
 }
