@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-20T21:18:34+00:00",
+  "as_of": "2026-10-20T21:33:47+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,11 +11,11 @@
    "rank": 1,
    "ticker": "RUN",
    "company": "Sunrun Inc.",
-   "move_pct": 10.6,
-   "price": 7.62,
+   "move_pct": 11.1,
+   "price": 7.65,
    "volume": 11069002,
    "volume_vs_avg": "~1.4x",
-   "heat_score": 69,
+   "heat_score": 71,
    "direction": "up",
    "why": "Sunrun rallies 10%, rebounding from 52-week low (RUN:NASDAQ)",
    "catalyst_type": "momentum_narrative",
@@ -33,11 +33,27 @@
    "volume_vs_avg": "~2x",
    "heat_score": 63,
    "direction": "up",
-   "why": "Weatherford International (NASDAQ:WFRD) Issues Quarterly Earnings Results",
+   "why": "Weatherford International (WFRD) Reports Q3 Revenue Beat and Mar",
    "catalyst_type": "earnings",
-   "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVDFjS0c5dGVOVVByMlJWV1hTQUdfUGtub3hqdE9ZODl6dGwxT00tWWFYVnpGMHppZFI4NUNJcURROG1SaGVjRGRMeXRPbXpVZXJiZjRyQUR4a1hPSWtOVWZjRHJjTXl0aTZKQ3lTSUtlLVo2dE16YVdCSVN1TjZqcU9EQVdTS0ZFMjVRTUZwY3V4aGZyMjdITHVodFl5VnE4V0EwMDc0M1pZeHJUUG9OMkEyUHlLdFlwSG9xSDk0TVhIYkoxaFppVW9zZGFQT3c?oc=5",
-   "published": "2026-10-20T21:05:00+00:00",
+   "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMXNaZ2lMbm5qTEoxQ2tSeUI2ek9zYXJiMUFjcW4wUG5NUzZGV3Flcm9DeV9fWDk5REY1Si1nSVc4aV9YWW5yT3dGMHJSLWNYaVF4aWptbVRJU1pObmVvNEQ3MHZzWjk2UnpGckRaWldkVVV5eF9aMXJBUVQ4YVBrSzRGTDFNYkFiSEl2RHRzXzFfSnF3SmNrWkw1WXEydjFSYXpwY0VsWkRZeWVfei1fMjhRZ24?oc=5",
+   "published": "2026-10-20T21:13:35+00:00",
    "sector": "Oilfield Services"
+  },
+  {
+   "rank": 3,
+   "ticker": "SEDG",
+   "company": "SolarEdge Technologies, Inc.",
+   "move_pct": 6.12,
+   "price": 32.96,
+   "volume": 1899770,
+   "volume_vs_avg": "~0.6x",
+   "heat_score": 39,
+   "direction": "up",
+   "why": "JPMorgan cuts target to USD 38 for SolarEdge Technologies stock",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSkI2ckRHOG1YbURLRDZRWFBENjZuWml5eE1KV2IyRnRRb0huNEl2WV9XbGQ1VmtrTXY4bWRETGdEOEJOTG1FOUVEM2lwbmRpNTI3QTNKOXRIanJZT1FaQlVFY2RLQlJfT1R5b216ZEhZMlF6VEFFcHdqX2JReDFaYkhQcTZvWERUMHdoYTFpZ0NUQUdpR1gxVmhPM2k2VHhxWjUtVTVJSEtobzdWRlQ2OThGSTg0VzI3dzI4bmQ4VQ?oc=5",
+   "published": "2026-10-20T18:14:30+00:00",
+   "sector": "Renewables & Solar"
   }
  ]
 }
