@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-10-20T03:27:53+00:00",
-  "as_of_local": "2026-10-20 03:27:53 UTC",
+  "as_of_utc": "2026-10-20T03:33:00+00:00",
+  "as_of_local": "2026-10-20 03:33:00 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "VST"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -317,15 +319,6 @@
       "previous_close": 63.56,
       "change_pct": -2.12,
       "market_cap": 54715308482.059944,
-      "headlines": []
-    },
-    {
-      "symbol": "VST",
-      "name": "Vistra",
-      "price": 149.7,
-      "previous_close": 152.02,
-      "change_pct": -1.53,
-      "market_cap": 50244587667.22267,
       "headlines": []
     },
     {
@@ -823,18 +816,18 @@
     },
     {
       "label": "WTI",
-      "price": 98.86,
-      "change_pct": -2.51
+      "price": 98.91,
+      "change_pct": -2.47
     },
     {
       "label": "Brent",
-      "price": 110.0,
-      "change_pct": 0.13
+      "price": 110.1,
+      "change_pct": 0.22
     },
     {
       "label": "NatGas",
       "price": 3.03,
-      "change_pct": -2.63
+      "change_pct": -2.66
     }
   ]
 }
