@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-20T22:09:33+00:00",
+  "as_of": "2026-10-20T22:24:35+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -53,22 +53,6 @@
    "catalyst_type": "momentum_narrative",
    "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNaFpSUXp5aU5FLTdvZFh5Y3YxeEFhUGRvczk1MmZMWGxKdC1RTTFvdEhRc1UxNGVPVkxacEFORXpYMXBxa29iTEZpaVNLNTZXU3hSRzlHU1lGM2JmM3h2MnVkN0d5cEpVWDJoOXduQjd0ejVQZ0V3M2lQdzVkV3hKREpZZFV3ajFuRGxRbk5vRVQzSGh0alJ5MWdldHpHTDI5R2JHdGVuRXBlVEZZRVI1V2ZTdVJDcm9VZUlhbkxHTzg1dlVZSFc1anQzRjdaUTNZNzcwWU9hb3VUdjhlR2lycHd3?oc=5",
    "published": "2026-10-20T21:21:00+00:00",
-   "sector": "Renewables & Solar"
-  },
-  {
-   "rank": 4,
-   "ticker": "SEDG",
-   "company": "SolarEdge Technologies, Inc.",
-   "move_pct": 6.12,
-   "price": 32.96,
-   "volume": 1899770,
-   "volume_vs_avg": "~0.6x",
-   "heat_score": 39,
-   "direction": "up",
-   "why": "JPMorgan cuts target to USD 38 for SolarEdge Technologies stock",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSkI2ckRHOG1YbURLRDZRWFBENjZuWml5eE1KV2IyRnRRb0huNEl2WV9XbGQ1VmtrTXY4bWRETGdEOEJOTG1FOUVEM2lwbmRpNTI3QTNKOXRIanJZT1FaQlVFY2RLQlJfT1R5b216ZEhZMlF6VEFFcHdqX2JReDFaYkhQcTZvWERUMHdoYTFpZ0NUQUdpR1gxVmhPM2k2VHhxWjUtVTVJSEtobzdWRlQ2OThGSTg0VzI3dzI4bmQ4VQ?oc=5",
-   "published": "2026-10-20T18:14:30+00:00",
    "sector": "Renewables & Solar"
   }
  ]
