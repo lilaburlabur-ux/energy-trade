@@ -1,10 +1,43 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-20T21:03:28+00:00",
+  "as_of": "2026-10-20T21:13:44+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": []
+ "hot_tickers": [
+  {
+   "rank": 1,
+   "ticker": "RUN",
+   "company": "Sunrun Inc.",
+   "move_pct": 9.93,
+   "price": 7.57,
+   "volume": 11069002,
+   "volume_vs_avg": "~1.4x",
+   "heat_score": 67,
+   "direction": "up",
+   "why": "Sunrun rallies 10%, rebounding from 52-week low (RUN:NASDAQ)",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMFk3MEdPUEgzN1NhN3Y0SVhzTG9zeWFJcmJjVmJWdC1HcHlmVXRUNURaeFFHaWg0ZzAtUi1fR1Y0V2ZReDk1SVZnbTlTemhsUm1QTmcyM2pDd01vTmd4YUlmbVByOUxNcXpxSzA5RmFvOE1rSVpNZHUzMi1mdmpqSWZvVVh5eTJsRnlZ?oc=5",
+   "published": "2026-10-20T20:50:47+00:00",
+   "sector": "Renewables & Solar"
+  },
+  {
+   "rank": 2,
+   "ticker": "WFRD",
+   "company": "Weatherford International plc",
+   "move_pct": 8.51,
+   "price": 83.65,
+   "volume": 1603725,
+   "volume_vs_avg": "~2x",
+   "heat_score": 63,
+   "direction": "up",
+   "why": "Weatherford International (NASDAQ:WFRD) Issues Quarterly Earnings Results",
+   "catalyst_type": "earnings",
+   "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVDFjS0c5dGVOVVByMlJWV1hTQUdfUGtub3hqdE9ZODl6dGwxT00tWWFYVnpGMHppZFI4NUNJcURROG1SaGVjRGRMeXRPbXpVZXJiZjRyQUR4a1hPSWtOVWZjRHJjTXl0aTZKQ3lTSUtlLVo2dE16YVdCSVN1TjZqcU9EQVdTS0ZFMjVRTUZwY3V4aGZyMjdITHVodFl5VnE4V0EwMDc0M1pZeHJUUG9OMkEyUHlLdFlwSG9xSDk0TVhIYkoxaFppVW9zZGFQT3c?oc=5",
+   "published": "2026-10-20T21:05:00+00:00",
+   "sector": "Oilfield Services"
+  }
+ ]
 }
