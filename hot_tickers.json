@@ -1,27 +1,10 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-20T00:46:23+00:00",
+  "as_of": "2026-10-20T04:10:02+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": [
-  {
-   "rank": 1,
-   "ticker": "LEU",
-   "company": "Centrus Energy Corp.",
-   "move_pct": -9.5,
-   "price": 114.94,
-   "volume": 1363121,
-   "volume_vs_avg": "~2x",
-   "heat_score": 66,
-   "direction": "down",
-   "why": "A Look at Centrus Energy Corp (LEU) After 4.2% Decline -- GF Val",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVDJ4MlZxcDZRcVh5X3FzQlVhb3N6VUw3SFJfcE5xMlpUb2RpNDcyVnhzemFkeDJZSVgyOVY1T2F1bmFncFhJNzFfQXJNMDgtZzBrUGE1NFl1eGZFaC1xWTVxUldUc3pMcy1fQnFDUXJCYi04WEt1YVdMc0dleE1jQzUybERiOVE1cVA2aGhSSGFTYk5oM1hMZ01rcjNqQlJrYTJGNnBOU0hQLVZqeVAyakxZOEVfTWJCcVE?oc=5",
-   "published": "2026-10-19T23:53:02+00:00",
-   "sector": "Nuclear & Uranium"
-  }
- ]
+ "hot_tickers": []
 }
