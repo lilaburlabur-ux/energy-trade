@@ -18,7 +18,7 @@ Signed file: `OXY.research.20.10.2026`
 | Technical momentum | Moderate | 1Y +56.90%; price +14.72% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -4.14% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 30.32%, revenue growth 53.40%. |
-| Value attractiveness | Reasonable | Forward P/E 12.90, EV/Sales 3.43. |
+| Value attractiveness | Reasonable | Forward P/E 12.68, EV/Sales 3.44. |
 | Risk level | Moderate | Beta 0.24, ATR 2.4% of price, short float 3.04%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate.
@@ -59,7 +59,7 @@ Occidental Petroleum Corporation, together with its subsidiaries, engages in the
 | Revenue (ttm) | $23.93B | Revenue growth 53.40% y/y |
 | Profitability | Gross 73.32%, operating 45.44%, net 30.32% | ROA 4.68%, ROE 10.63% |
 | Balance sheet | Cash $4.15B, debt $14.63B | Current ratio 1.41, debt/equity 34.51 |
-| Valuation | P/E 17.88, forward P/E 12.90, P/S 2.63, P/B 1.88 | EV/Sales 3.43, EV/EBITDA 5.98 |
+| Valuation | P/E 17.88, forward P/E 12.68, P/S 2.63, P/B 1.88 | EV/Sales 3.44, EV/EBITDA 6.00 |
 | Growth expectations | Earnings growth 964.90%, EPS q/q 550.00% | Analyst mean target $69.96 (26 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -101,8 +101,8 @@ Occidental Petroleum Corporation, together with its subsidiaries, engages in the
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $62.92 | EV/Sales | 3.43 |
-| Market cap | $62.90B | EV/EBITDA | 5.98 |
+| Price | $62.92 | EV/Sales | 3.44 |
+| Market cap | $62.90B | EV/EBITDA | 6.00 |
 | Beta | 0.24 | Gross margin | 73.32% |
 | RSI(14) | 65.5 | Operating margin | 45.44% |
 | ATR(14) | 1.54 | Profit margin | 30.32% |
@@ -112,7 +112,7 @@ Occidental Petroleum Corporation, together with its subsidiaries, engages in the
 | 52W high | $65.63 | Revenue growth y/y | 53.40% |
 | 52W low | $38.38 | Inst. ownership | 58.18% |
 | P/E (ttm) | 17.88 | Insider ownership | 26.81% |
-| Forward P/E | 12.90 | Short float | 3.04% |
+| Forward P/E | 12.68 | Short float | 3.04% |
 | PEG (trailing) | 1.13 | Avg volume | 8,460,301 |
 | P/S | 2.63 | Employees | 10,412 |
 | P/B | 1.88 | Analyst rec (1=buy..5=sell) | 2.2 |

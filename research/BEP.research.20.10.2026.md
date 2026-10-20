@@ -5,7 +5,7 @@ Signed file: `BEP.research.20.10.2026`
 | Field | Value |
 |---|---|
 | Current price | $28.23 (2026-10-20, ~15-min delayed) |
-| Market cap | $13.76B |
+| Market cap | $13.73B |
 | Sector / Industry | Utilities / Utilities - Renewable |
 | Main theme | Utilities - Renewable — see catalysts below |
 | Current stance | Low technical momentum, weak fundamentals, value: reasonable, risk: moderate. |
@@ -18,7 +18,7 @@ Signed file: `BEP.research.20.10.2026`
 | Technical momentum | Low | Below SMA200 (-10.28%) with negative half-year (-10.76%). |
 | Fresh setup quality | Moderate / wait | -22.94% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Weak | Negative profit margin (-1.26%). |
-| Value attractiveness | Reasonable | Forward P/E -15.26, EV/Sales 12.72. |
+| Value attractiveness | Reasonable | Forward P/E -15.26, EV/Sales 12.73. |
 | Risk level | Moderate | Beta 0.98, ATR 2.7% of price, short float 0.31%. |
 
 **Bottom line:** Low technical momentum, weak fundamentals, value: reasonable, risk: moderate.
@@ -59,7 +59,7 @@ Brookfield Renewable Partners L.P. owns a portfolio of renewable power generatin
 | Revenue (ttm) | $6.36B | Revenue growth 1.10% y/y |
 | Profitability | Gross 51.39%, operating 17.08%, net -1.26% | ROA 0.42%, ROE 0.40% |
 | Balance sheet | Cash $2.69B, debt $37.72B | Current ratio 0.80, debt/equity 105.23 |
-| Valuation | P/E —, forward P/E -15.26, P/S 2.16, P/B 2.27 | EV/Sales 12.72, EV/EBITDA 26.96 |
+| Valuation | P/E —, forward P/E -15.26, P/S 2.16, P/B 2.27 | EV/Sales 12.73, EV/EBITDA 26.98 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $33.92 (13 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -101,8 +101,8 @@ Brookfield Renewable Partners L.P. owns a portfolio of renewable power generatin
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $28.23 | EV/Sales | 12.72 |
-| Market cap | $13.76B | EV/EBITDA | 26.96 |
+| Price | $28.23 | EV/Sales | 12.73 |
+| Market cap | $13.73B | EV/EBITDA | 26.98 |
 | Beta | 0.98 | Gross margin | 51.39% |
 | RSI(14) | 41.0 | Operating margin | 17.08% |
 | ATR(14) | 0.76 | Profit margin | -1.26% |
