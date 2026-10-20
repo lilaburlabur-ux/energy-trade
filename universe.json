@@ -1,7 +1,7 @@
 {
  "meta": {
   "source": "Energy Trade curated universe (seed_energy_universe.py)",
-  "as_of": "2026-10-20 02:22 UTC",
+  "as_of": "2026-10-20 02:37 UTC",
   "total_tickers": 67,
   "min_bubble_size": 7,
   "render_spec": {
@@ -18,8 +18,8 @@
    "label": "Oil & Gas Majors",
    "color": "#E8A33D",
    "count": 8,
-   "total_market_cap_b": 2192.41,
-   "avg_change_pct": -0.15,
+   "total_market_cap_b": 2187.28,
+   "avg_change_pct": -0.79,
    "industries_included": [
     "Oil & Gas E&P",
     "Oil & Gas Integrated"
@@ -133,11 +133,11 @@
      "sector": "Energy",
      "industry": "Oil & Gas Integrated",
      "country": "United Kingdom",
-     "market_cap_b": 297.19,
+     "market_cap_b": 292.06,
      "pe": 11.77,
-     "price": 106.66,
-     "change_pct": 3.0,
-     "volume": 5300839,
+     "price": 104.82,
+     "change_pct": -1.73,
+     "volume": 5300750,
      "perf": {
       "1W": 6.5,
       "1M": 11.3,
@@ -434,7 +434,7 @@
      "fwd_eps": 6.89
     }
    ],
-   "median_change_pct": -0.63,
+   "median_change_pct": -1.2,
    "pe_hm": 17.5
   },
   {
@@ -2730,8 +2730,8 @@
    "label": "Grid, Storage & Electrification",
    "color": "#F08C4A",
    "count": 8,
-   "total_market_cap_b": 659.7,
-   "avg_change_pct": -0.62,
+   "total_market_cap_b": 659.9,
+   "avg_change_pct": -0.56,
    "industries_included": [
     "Electrical Equipment & Parts",
     "Engineering & Construction",
@@ -3000,11 +3000,11 @@
      "sector": "Industrials",
      "industry": "Electrical Equipment & Parts",
      "country": "United States",
-     "market_cap_b": 24.51,
+     "market_cap_b": 24.71,
      "pe": 27.3,
-     "price": 461.1,
-     "change_pct": -0.78,
-     "volume": 532245,
+     "price": 464.92,
+     "change_pct": 0.83,
+     "volume": 512350,
      "perf": {
       "1W": -2.7,
       "1M": 4.0,
@@ -3148,7 +3148,7 @@
      "fwd_eps": -0.17
     }
    ],
-   "median_change_pct": -0.36,
+   "median_change_pct": -0.05,
    "pe_hm": 38.5
   },
   {
