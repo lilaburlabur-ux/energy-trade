@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-10-20T11:18:57+00:00",
-  "as_of_local": "2026-10-20 11:18:57 UTC",
+  "as_of_utc": "2026-10-20T11:23:58+00:00",
+  "as_of_local": "2026-10-20 11:23:58 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "UUUU"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -565,6 +563,15 @@
       "headlines": []
     },
     {
+      "symbol": "UUUU",
+      "name": "Energy Fuels",
+      "price": 8.16,
+      "previous_close": 8.47,
+      "change_pct": -3.66,
+      "market_cap": 2160552307.118759,
+      "headlines": []
+    },
+    {
       "symbol": "SEDG",
       "name": "SolarEdge",
       "price": 31.06,
@@ -816,18 +823,18 @@
     },
     {
       "label": "WTI",
-      "price": 100.58,
-      "change_pct": -2.97
+      "price": 100.59,
+      "change_pct": -2.96
     },
     {
       "label": "Brent",
-      "price": 111.29,
-      "change_pct": 1.59
+      "price": 111.3,
+      "change_pct": 1.6
     },
     {
       "label": "NatGas",
       "price": 3.02,
-      "change_pct": -1.34
+      "change_pct": -1.21
     }
   ]
 }
