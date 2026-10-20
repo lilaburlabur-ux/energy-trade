@@ -4,8 +4,8 @@ Signed file: `XOM.research.20.10.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $177.89 (2026-10-20, ~15-min delayed) |
-| Market cap | $731.47B |
+| Current price | $177.86 (2026-10-20, ~15-min delayed) |
+| Market cap | $731.34B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
 | Current stance | High technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,8 +15,8 @@ Signed file: `XOM.research.20.10.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +63.08%; price +17.83% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -0.61% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +63.06%; price +17.81% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -0.63% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 9.07%, revenue growth 44.10%. |
 | Value attractiveness | Reasonable | Forward P/E 14.63, EV/Sales 2.14. |
 | Risk level | Moderate | Beta 0.21, ATR 2.1% of price, short float 1.07%. |
@@ -35,11 +35,11 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $177.89; 52w high $178.98 (-0.61%); 52w low $109.53 (+62.42%) |
-| Trend | +17.83% vs SMA200, +8.16% vs SMA50, +5.84% vs SMA20 |
-| Momentum | RSI(14) 70.0 (neutral) |
+| Price vs 52-week range | Close $177.86; 52w high $178.98 (-0.63%); 52w low $109.53 (+62.39%) |
+| Trend | +17.81% vs SMA200, +8.14% vs SMA50, +5.82% vs SMA20 |
+| Momentum | RSI(14) 69.9 (neutral) |
 | Volatility | ATR(14) 3.65 (~2.1% of price); beta 0.21 |
-| Setup perspective | -0.61% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -0.63% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
@@ -101,14 +101,14 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $177.89 | EV/Sales | 2.14 |
-| Market cap | $731.47B | EV/EBITDA | 11.36 |
+| Price | $177.86 | EV/Sales | 2.14 |
+| Market cap | $731.34B | EV/EBITDA | 11.36 |
 | Beta | 0.21 | Gross margin | 29.77% |
-| RSI(14) | 70.0 | Operating margin | 15.86% |
+| RSI(14) | 69.9 | Operating margin | 15.86% |
 | ATR(14) | 3.65 | Profit margin | 9.07% |
-| SMA20 dist | +5.84% | ROA | 5.52% |
-| SMA50 dist | +8.16% | ROE | 12.58% |
-| SMA200 dist | +17.83% | Revenue (ttm) | $361.06B |
+| SMA20 dist | +5.82% | ROA | 5.52% |
+| SMA50 dist | +8.14% | ROE | 12.58% |
+| SMA200 dist | +17.81% | Revenue (ttm) | $361.06B |
 | 52W high | $178.98 | Revenue growth y/y | 44.10% |
 | 52W low | $109.53 | Inst. ownership | 67.25% |
 | P/E (ttm) | 22.89 | Insider ownership | 0.08% |
