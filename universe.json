@@ -1,7 +1,7 @@
 {
  "meta": {
   "source": "Energy Trade curated universe (seed_energy_universe.py)",
-  "as_of": "2026-10-20 21:34 UTC",
+  "as_of": "2026-10-20 21:39 UTC",
   "total_tickers": 67,
   "min_bubble_size": 7,
   "render_spec": {
@@ -125,7 +125,7 @@
       225.71
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
-     "fwd_eps": 15.57
+     "fwd_eps": 15.19
     },
     {
      "ticker": "SHEL",
@@ -176,7 +176,7 @@
       105.54
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
-     "fwd_eps": 10.74
+     "fwd_eps": 10.48
     },
     {
      "ticker": "TTE",
@@ -227,7 +227,7 @@
       90.08
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
-     "fwd_eps": 11.5
+     "fwd_eps": 10.95
     },
     {
      "ticker": "COP",
@@ -556,10 +556,10 @@
      "sector": "Energy",
      "industry": "Oil & Gas E&P",
      "country": "United States",
-     "market_cap_b": 58.5,
+     "market_cap_b": 58.51,
      "pe": 10.98,
-     "price": 50.37,
-     "change_pct": -1.08,
+     "price": 50.38,
+     "change_pct": -1.06,
      "volume": 8817308,
      "perf": {
       "1W": 0.3,
@@ -599,7 +599,7 @@
       50.38
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
-     "fwd_eps": 5.39
+     "fwd_eps": 5.35
     },
     {
      "ticker": "FANG",
@@ -650,7 +650,7 @@
       202.42
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
-     "fwd_eps": 19.08
+     "fwd_eps": 18.75
     },
     {
      "ticker": "EQT",
@@ -854,7 +854,7 @@
       49.9
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
-     "fwd_eps": 5.17
+     "fwd_eps": 4.64
     },
     {
      "ticker": "AR",
@@ -1184,7 +1184,7 @@
      "industry": "Oil & Gas Equipment & Services",
      "country": "United States",
      "market_cap_b": 5.69,
-     "pe": 15.44,
+     "pe": 15.65,
      "price": 79.34,
      "change_pct": 2.92,
      "volume": 1603725,
@@ -1226,7 +1226,7 @@
       79.34
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
-     "fwd_eps": 7.08
+     "fwd_eps": 6.8
     }
    ],
    "median_change_pct": 1.47,
@@ -1766,7 +1766,7 @@
       433.42
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
-     "fwd_eps": 48.57
+     "fwd_eps": 47.78
     },
     {
      "ticker": "PSX",
@@ -2523,10 +2523,10 @@
      "sector": "Technology",
      "industry": "Solar",
      "country": "United States",
-     "market_cap_b": 3.91,
+     "market_cap_b": 3.9,
      "pe": 32.23,
-     "price": 32.34,
-     "change_pct": 5.58,
+     "price": 32.23,
+     "change_pct": 5.22,
      "volume": 4656946,
      "perf": {
       "1W": 0.6,
@@ -2992,7 +2992,7 @@
       222.65
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
-     "fwd_eps": 4.94
+     "fwd_eps": 4.93
     },
     {
      "ticker": "HUBB",
