@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-10-20T11:59:18+00:00",
-  "as_of_local": "2026-10-20 11:59:18 UTC",
+  "as_of_utc": "2026-10-20T12:04:28+00:00",
+  "as_of_local": "2026-10-20 12:04:28 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "OXY"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -247,6 +245,15 @@
       "previous_close": 294.9,
       "change_pct": -0.71,
       "market_cap": 62785400331.233826,
+      "headlines": []
+    },
+    {
+      "symbol": "OXY",
+      "name": "Occidental Petroleum",
+      "price": 62.72,
+      "previous_close": 62.38,
+      "change_pct": 0.55,
+      "market_cap": 62697257129.38046,
       "headlines": []
     },
     {
@@ -816,13 +823,13 @@
     },
     {
       "label": "WTI",
-      "price": 100.97,
-      "change_pct": -2.6
+      "price": 100.66,
+      "change_pct": -2.89
     },
     {
       "label": "Brent",
-      "price": 111.58,
-      "change_pct": 1.85
+      "price": 111.28,
+      "change_pct": 1.58
     },
     {
       "label": "NatGas",
