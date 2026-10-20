@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-20T21:39:03+00:00",
+  "as_of": "2026-10-20T21:54:17+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,6 +9,22 @@
  "hot_tickers": [
   {
    "rank": 1,
+   "ticker": "WFRD",
+   "company": "Weatherford International plc",
+   "move_pct": 9.94,
+   "price": 84.75,
+   "volume": 1603725,
+   "volume_vs_avg": "~2x",
+   "heat_score": 68,
+   "direction": "up",
+   "why": "Weatherford International (WFRD) Reports Q3 Revenue Beat and Mar",
+   "catalyst_type": "earnings",
+   "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMXNaZ2lMbm5qTEoxQ2tSeUI2ek9zYXJiMUFjcW4wUG5NUzZGV3Flcm9DeV9fWDk5REY1Si1nSVc4aV9YWW5yT3dGMHJSLWNYaVF4aWptbVRJU1pObmVvNEQ3MHZzWjk2UnpGckRaWldkVVV5eF9aMXJBUVQ4YVBrSzRGTDFNYkFiSEl2RHRzXzFfSnF3SmNrWkw1WXEydjFSYXpwY0VsWkRZeWVfei1fMjhRZ24?oc=5",
+   "published": "2026-10-20T21:13:35+00:00",
+   "sector": "Oilfield Services"
+  },
+  {
+   "rank": 2,
    "ticker": "RUN",
    "company": "Sunrun Inc.",
    "move_pct": 9.87,
@@ -22,22 +38,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMFk3MEdPUEgzN1NhN3Y0SVhzTG9zeWFJcmJjVmJWdC1HcHlmVXRUNURaeFFHaWg0ZzAtUi1fR1Y0V2ZReDk1SVZnbTlTemhsUm1QTmcyM2pDd01vTmd4YUlmbVByOUxNcXpxSzA5RmFvOE1rSVpNZHUzMi1mdmpqSWZvVVh5eTJsRnlZ?oc=5",
    "published": "2026-10-20T20:50:47+00:00",
    "sector": "Renewables & Solar"
-  },
-  {
-   "rank": 2,
-   "ticker": "WFRD",
-   "company": "Weatherford International plc",
-   "move_pct": 8.51,
-   "price": 83.65,
-   "volume": 1603725,
-   "volume_vs_avg": "~2x",
-   "heat_score": 63,
-   "direction": "up",
-   "why": "Weatherford International (WFRD) Reports Q3 Revenue Beat and Mar",
-   "catalyst_type": "earnings",
-   "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMXNaZ2lMbm5qTEoxQ2tSeUI2ek9zYXJiMUFjcW4wUG5NUzZGV3Flcm9DeV9fWDk5REY1Si1nSVc4aV9YWW5yT3dGMHJSLWNYaVF4aWptbVRJU1pObmVvNEQ3MHZzWjk2UnpGckRaWldkVVV5eF9aMXJBUVQ4YVBrSzRGTDFNYkFiSEl2RHRzXzFfSnF3SmNrWkw1WXEydjFSYXpwY0VsWkRZeWVfei1fMjhRZ24?oc=5",
-   "published": "2026-10-20T21:13:35+00:00",
-   "sector": "Oilfield Services"
   },
   {
    "rank": 3,
