@@ -4,24 +4,24 @@ Signed file: `FTI.research.20.10.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-10-20, ~15-min delayed) |
-| Market cap | $27.40B |
+| Current price | $68.93 (2026-10-20, ~15-min delayed) |
+| Market cap | $27.03B |
 | Sector / Industry | Energy / Oil & Gas Equipment & Services |
 | Main theme | Oil & Gas Equipment & Services — see catalysts below |
-| Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
+| Current stance | High technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-10-20.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +92.53%; price +0.81% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -13.92% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 11.28%, revenue growth 9.00%. |
-| Value attractiveness | Reasonable | Forward P/E 19.26, EV/Sales 2.65. |
-| Risk level | Moderate | Beta 0.83, ATR nan% of price, short float 3.45%. |
+| Value attractiveness | Reasonable | Forward P/E 19.00, EV/Sales 2.65. |
+| Risk level | Moderate | Beta 0.83, ATR 2.9% of price, short float 3.45%. |
 
-**Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
+**Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -35,22 +35,22 @@ TechnipFMC plc engages in the oil and natural gas projects, technologies, system
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $80.08 (+nan%); 52w low $35.80 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 45.0 (neutral) |
-| Volatility | ATR(14) 2.05 (~nan% of price); beta 0.83 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $68.93; 52w high $80.08 (-13.92%); 52w low $36.35 (+89.62%) |
+| Trend | +0.81% vs SMA200, -6.32% vs SMA50, -1.01% vs SMA20 |
+| Momentum | RSI(14) 42.4 (neutral) |
+| Volatility | ATR(14) 2.00 (~2.9% of price); beta 0.83 |
+| Setup perspective | -13.92% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -2.5% |
+| Month | -3.3% |
+| Quarter | -8.2% |
+| Half Y | -4.6% |
+| 1Y | +92.5% |
+| YTD | +46.0% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -59,8 +59,8 @@ TechnipFMC plc engages in the oil and natural gas projects, technologies, system
 | Revenue (ttm) | $10.42B | Revenue growth 9.00% y/y |
 | Profitability | Gross 22.97%, operating 17.69%, net 11.28% | ROA 9.53%, ROE 35.81% |
 | Balance sheet | Cash $991.80M, debt $1.24B | Current ratio 1.08, debt/equity 37.90 |
-| Valuation | P/E 24.34, forward P/E 19.26, P/S 2.63, P/B 8.39 | EV/Sales 2.65, EV/EBITDA 13.94 |
-| Growth expectations | Earnings growth 40.60%, EPS q/q 34.60% | Analyst mean target $76.55 (22 analysts) |
+| Valuation | P/E 24.02, forward P/E 19.00, P/S 2.59, P/B 8.28 | EV/Sales 2.65, EV/EBITDA 13.94 |
+| Growth expectations | Earnings growth 40.60%, EPS q/q 34.60% | Analyst mean target $76.41 (22 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
@@ -100,21 +100,21 @@ TechnipFMC plc engages in the oil and natural gas projects, technologies, system
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 2.65 |
-| Market cap | $27.40B | EV/EBITDA | 13.94 |
+| Price | $68.93 | EV/Sales | 2.65 |
+| Market cap | $27.03B | EV/EBITDA | 13.94 |
 | Beta | 0.83 | Gross margin | 22.97% |
-| RSI(14) | 45.0 | Operating margin | 17.69% |
-| ATR(14) | 2.05 | Profit margin | 11.28% |
-| SMA20 dist | +nan% | ROA | 9.53% |
-| SMA50 dist | +nan% | ROE | 35.81% |
-| SMA200 dist | +nan% | Revenue (ttm) | $10.42B |
+| RSI(14) | 42.4 | Operating margin | 17.69% |
+| ATR(14) | 2.00 | Profit margin | 11.28% |
+| SMA20 dist | -1.01% | ROA | 9.53% |
+| SMA50 dist | -6.32% | ROE | 35.81% |
+| SMA200 dist | +0.81% | Revenue (ttm) | $10.42B |
 | 52W high | $80.08 | Revenue growth y/y | 9.00% |
-| 52W low | $35.80 | Inst. ownership | 101.10% |
-| P/E (ttm) | 24.34 | Insider ownership | 1.36% |
-| Forward P/E | 19.26 | Short float | 3.45% |
-| PEG (trailing) | — | Avg volume | 2,948,850 |
-| P/S | 2.63 | Employees | 22,000 |
-| P/B | 8.39 | Analyst rec (1=buy..5=sell) | 1.9 |
+| 52W low | $36.35 | Inst. ownership | 101.10% |
+| P/E (ttm) | 24.02 | Insider ownership | 1.36% |
+| Forward P/E | 19.00 | Short float | 3.45% |
+| PEG (trailing) | — | Avg volume | 2,925,354 |
+| P/S | 2.59 | Employees | 22,000 |
+| P/B | 8.28 | Analyst rec (1=buy..5=sell) | 1.9 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
@@ -129,7 +129,7 @@ TechnipFMC plc engages in the oil and natural gas projects, technologies, system
 | 2026-05-01 | main | Barclays | Overweight → Overweight |
 
 ## 9. Conclusion
-FTI: Moderate momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+FTI: High momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

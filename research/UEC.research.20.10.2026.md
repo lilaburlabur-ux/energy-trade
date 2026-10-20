@@ -4,24 +4,24 @@ Signed file: `UEC.research.20.10.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-10-20, ~15-min delayed) |
-| Market cap | $3.91B |
+| Current price | $7.83 (2026-10-20, ~15-min delayed) |
+| Market cap | $3.88B |
 | Sector / Industry | Energy / Uranium |
 | Main theme | Uranium — see catalysts below |
-| Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: high. |
+| Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-10-20.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-38.91%) with negative half-year (-45.81%). |
+| Fresh setup quality | Poor / broken | -61.12% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 0.00%, revenue growth —. |
-| Value attractiveness | Reasonable | Forward P/E -106.62, EV/Sales 91.75. |
-| Risk level | High | Beta 1.39, ATR nan% of price, short float 14.79%. |
+| Value attractiveness | Reasonable | Forward P/E -105.81, EV/Sales 91.75. |
+| Risk level | High | Beta 1.39, ATR 7.1% of price, short float 14.79%. |
 
-**Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: high.
+**Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -35,22 +35,22 @@ Uranium Energy Corp., together with its subsidiaries, engages in the exploration
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $20.14 (+nan%); 52w low $7.70 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 32.3 (neutral) |
-| Volatility | ATR(14) 0.59 (~nan% of price); beta 1.39 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $7.83; 52w high $20.14 (-61.12%); 52w low $7.70 (+1.69%) |
+| Trend | -38.91% vs SMA200, -24.92% vs SMA50, -12.65% vs SMA20 |
+| Momentum | RSI(14) 31.7 (neutral) |
+| Volatility | ATR(14) 0.56 (~7.1% of price); beta 1.39 |
+| Setup perspective | -61.12% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -5.0% |
+| Month | -22.3% |
+| Quarter | -19.5% |
+| Half Y | -45.8% |
+| 1Y | -47.3% |
+| YTD | -40.3% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -59,7 +59,7 @@ Uranium Energy Corp., together with its subsidiaries, engages in the exploration
 | Revenue (ttm) | $37.25M | Revenue growth — y/y |
 | Profitability | Gross -183.96%, operating -228.60%, net 0.00% | ROA -6.35%, ROE -11.64% |
 | Balance sheet | Cash $495.46M, debt $2.95M | Current ratio 17.26, debt/equity 0.21 |
-| Valuation | P/E —, forward P/E -106.62, P/S 104.97, P/B 2.84 | EV/Sales 91.75, EV/EBITDA -27.08 |
+| Valuation | P/E —, forward P/E -105.81, P/S 104.17, P/B 2.82 | EV/Sales 91.75, EV/EBITDA -27.08 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $16.03 (11 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -86,8 +86,9 @@ Uranium Energy Corp., together with its subsidiaries, engages in the exploration
 | Alps Advisors Inc. | 9,829,329 | 1.98% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.39, ATR nan% of price, short float 14.79%. Size positions accordingly.
+- **Volatility risk:** Beta 1.39, ATR 7.1% of price, short float 14.79%. Size positions accordingly.
 - **Short interest risk:** short float 14.79% can fuel squeezes both ways around news.
+- **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -102,21 +103,21 @@ Uranium Energy Corp., together with its subsidiaries, engages in the exploration
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 91.75 |
-| Market cap | $3.91B | EV/EBITDA | -27.08 |
+| Price | $7.83 | EV/Sales | 91.75 |
+| Market cap | $3.88B | EV/EBITDA | -27.08 |
 | Beta | 1.39 | Gross margin | -183.96% |
-| RSI(14) | 32.3 | Operating margin | -228.60% |
-| ATR(14) | 0.59 | Profit margin | 0.00% |
-| SMA20 dist | +nan% | ROA | -6.35% |
-| SMA50 dist | +nan% | ROE | -11.64% |
-| SMA200 dist | +nan% | Revenue (ttm) | $37.25M |
+| RSI(14) | 31.7 | Operating margin | -228.60% |
+| ATR(14) | 0.56 | Profit margin | 0.00% |
+| SMA20 dist | -12.65% | ROA | -6.35% |
+| SMA50 dist | -24.92% | ROE | -11.64% |
+| SMA200 dist | -38.91% | Revenue (ttm) | $37.25M |
 | 52W high | $20.14 | Revenue growth y/y | — |
 | 52W low | $7.70 | Inst. ownership | 90.36% |
 | P/E (ttm) | — | Insider ownership | 1.82% |
-| Forward P/E | -106.62 | Short float | 14.79% |
-| PEG (trailing) | — | Avg volume | 9,073,710 |
-| P/S | 104.97 | Employees | 257 |
-| P/B | 2.84 | Analyst rec (1=buy..5=sell) | 1.7 |
+| Forward P/E | -105.81 | Short float | 14.79% |
+| PEG (trailing) | — | Avg volume | 9,075,459 |
+| P/S | 104.17 | Employees | 257 |
+| P/B | 2.82 | Analyst rec (1=buy..5=sell) | 1.7 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
@@ -131,7 +132,7 @@ Uranium Energy Corp., together with its subsidiaries, engages in the exploration
 | 2025-12-11 | reit | Roth Capital | Buy → Buy |
 
 ## 9. Conclusion
-UEC: Moderate momentum / mixed fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+UEC: Low momentum / mixed fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

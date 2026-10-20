@@ -4,24 +4,24 @@ Signed file: `SLB.research.20.10.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-10-20, ~15-min delayed) |
-| Market cap | $72.86B |
+| Current price | $49.98 (2026-10-20, ~15-min delayed) |
+| Market cap | $74.18B |
 | Sector / Industry | Energy / Oil & Gas Equipment & Services |
 | Main theme | Oil & Gas Equipment & Services — see catalysts below |
-| Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
+| Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-10-20.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-1.51%) with negative half-year (-4.30%). |
+| Fresh setup quality | Moderate / wait | -16.41% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 8.53%, revenue growth 5.00%. |
-| Value attractiveness | Reasonable | Forward P/E 15.56, EV/Sales 2.27. |
-| Risk level | Moderate | Beta 0.84, ATR nan% of price, short float 4.65%. |
+| Value attractiveness | Reasonable | Forward P/E 15.86, EV/Sales 2.27. |
+| Risk level | Moderate | Beta 0.84, ATR 2.9% of price, short float 4.65%. |
 
-**Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
+**Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -35,22 +35,22 @@ SLB N.V. engages in the provision of technology for the energy industry worldwid
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $59.79 (+nan%); 52w low $31.85 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 44.5 (neutral) |
-| Volatility | ATR(14) 1.52 (~nan% of price); beta 0.84 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $49.98; 52w high $59.79 (-16.41%); 52w low $32.63 (+53.16%) |
+| Trend | -1.51% vs SMA200, -4.76% vs SMA50, +0.82% vs SMA20 |
+| Momentum | RSI(14) 48.0 (neutral) |
+| Volatility | ATR(14) 1.44 (~2.9% of price); beta 0.84 |
+| Setup perspective | -16.41% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | +2.5% |
+| Month | -3.4% |
+| Quarter | +5.4% |
+| Half Y | -4.3% |
+| 1Y | +56.9% |
+| YTD | +26.4% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -59,8 +59,8 @@ SLB N.V. engages in the provision of technology for the energy industry worldwid
 | Revenue (ttm) | $36.37B | Revenue growth 5.00% y/y |
 | Profitability | Gross 16.99%, operating 12.71%, net 8.53% | ROA 6.17%, ROE 12.91% |
 | Balance sheet | Cash $4.12B, debt $12.81B | Current ratio 1.44, debt/equity 47.00 |
-| Valuation | P/E 23.71, forward P/E 15.56, P/S 2.00, P/B 2.79 | EV/Sales 2.27, EV/EBITDA 11.20 |
-| Growth expectations | Earnings growth -29.70%, EPS q/q -22.50% | Analyst mean target $62.38 (29 analysts) |
+| Valuation | P/E 24.14, forward P/E 15.86, P/S 2.04, P/B 2.84 | EV/Sales 2.27, EV/EBITDA 11.20 |
+| Growth expectations | Earnings growth -29.70%, EPS q/q -22.50% | Analyst mean target $62.34 (29 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
@@ -100,21 +100,21 @@ SLB N.V. engages in the provision of technology for the energy industry worldwid
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 2.27 |
-| Market cap | $72.86B | EV/EBITDA | 11.20 |
+| Price | $49.98 | EV/Sales | 2.27 |
+| Market cap | $74.18B | EV/EBITDA | 11.20 |
 | Beta | 0.84 | Gross margin | 16.99% |
-| RSI(14) | 44.5 | Operating margin | 12.71% |
-| ATR(14) | 1.52 | Profit margin | 8.53% |
-| SMA20 dist | +nan% | ROA | 6.17% |
-| SMA50 dist | +nan% | ROE | 12.91% |
-| SMA200 dist | +nan% | Revenue (ttm) | $36.37B |
+| RSI(14) | 48.0 | Operating margin | 12.71% |
+| ATR(14) | 1.44 | Profit margin | 8.53% |
+| SMA20 dist | +0.82% | ROA | 6.17% |
+| SMA50 dist | -4.76% | ROE | 12.91% |
+| SMA200 dist | -1.51% | Revenue (ttm) | $36.37B |
 | 52W high | $59.79 | Revenue growth y/y | 5.00% |
-| 52W low | $31.85 | Inst. ownership | 92.77% |
-| P/E (ttm) | 23.71 | Insider ownership | 0.22% |
-| Forward P/E | 15.56 | Short float | 4.65% |
-| PEG (trailing) | 1.37 | Avg volume | 12,792,028 |
-| P/S | 2.00 | Employees | 109,000 |
-| P/B | 2.79 | Analyst rec (1=buy..5=sell) | 1.6 |
+| 52W low | $32.63 | Inst. ownership | 92.77% |
+| P/E (ttm) | 24.14 | Insider ownership | 0.22% |
+| Forward P/E | 15.86 | Short float | 4.65% |
+| PEG (trailing) | 1.37 | Avg volume | 12,765,898 |
+| P/S | 2.04 | Employees | 109,000 |
+| P/B | 2.84 | Analyst rec (1=buy..5=sell) | 1.6 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
@@ -129,7 +129,7 @@ SLB N.V. engages in the provision of technology for the energy industry worldwid
 | 2026-07-27 | main | Morgan Stanley | Overweight → Overweight |
 
 ## 9. Conclusion
-SLB: Moderate momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+SLB: Low momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |
