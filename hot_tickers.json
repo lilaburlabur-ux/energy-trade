@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-20T00:31:13+00:00",
+  "as_of": "2026-10-20T00:46:23+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -21,22 +21,6 @@
    "catalyst_type": "momentum_narrative",
    "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVDJ4MlZxcDZRcVh5X3FzQlVhb3N6VUw3SFJfcE5xMlpUb2RpNDcyVnhzemFkeDJZSVgyOVY1T2F1bmFncFhJNzFfQXJNMDgtZzBrUGE1NFl1eGZFaC1xWTVxUldUc3pMcy1fQnFDUXJCYi04WEt1YVdMc0dleE1jQzUybERiOVE1cVA2aGhSSGFTYk5oM1hMZ01rcjNqQlJrYTJGNnBOU0hQLVZqeVAyakxZOEVfTWJCcVE?oc=5",
    "published": "2026-10-19T23:53:02+00:00",
-   "sector": "Nuclear & Uranium"
-  },
-  {
-   "rank": 2,
-   "ticker": "OKLO",
-   "company": "Oklo Inc.",
-   "move_pct": -6.8,
-   "price": 27.97,
-   "volume": 8412723,
-   "volume_vs_avg": "~0.8x",
-   "heat_score": 43,
-   "direction": "down",
-   "why": "Nuclear Stock X-energy Ends A Losing Streak. Oklo Makes A New Low.",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcUlMMXJPUkZaQUhNMlRaRHNKV19zX2lsY2xENG4xMG9iajI2VEZHRDc0RC1xUjdzRkppRlpxR2RPdmtTcFZNREVTMjB0OGVOUXNxZ3AtVTUwMUZZUk9PMFppUVBvRVVMTjNnZXFmVWpoR0J2UDAzVDZ4RkVkTG1Lc1Bucnd4VDNLLU5oREFOaFVrTDc5Vk5ReA?oc=5",
-   "published": "2026-10-19T20:34:00+00:00",
    "sector": "Nuclear & Uranium"
   }
  ]
