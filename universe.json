@@ -1,7 +1,7 @@
 {
  "meta": {
   "source": "Energy Trade curated universe (seed_energy_universe.py)",
-  "as_of": "2026-10-21 23:00 UTC",
+  "as_of": "2026-10-21 23:04 UTC",
   "total_tickers": 67,
   "min_bubble_size": 7,
   "render_spec": {
@@ -18,7 +18,7 @@
    "label": "Oil & Gas Majors",
    "color": "#E8A33D",
    "count": 8,
-   "total_market_cap_b": 2198.88,
+   "total_market_cap_b": 2199.07,
    "avg_change_pct": 0.35,
    "industries_included": [
     "Oil & Gas E&P",
@@ -235,10 +235,10 @@
      "sector": "Energy",
      "industry": "Oil & Gas E&P",
      "country": "United States",
-     "market_cap_b": 177.06,
+     "market_cap_b": 177.24,
      "pe": 19.29,
-     "price": 145.52,
-     "change_pct": -0.3,
+     "price": 145.67,
+     "change_pct": -0.19,
      "volume": 6293713,
      "perf": {
       "1W": 2.3,
@@ -286,7 +286,7 @@
      "sector": "Energy",
      "industry": "Oil & Gas Integrated",
      "country": "United Kingdom",
-     "market_cap_b": 123.84,
+     "market_cap_b": 123.85,
      "pe": 24.32,
      "price": 49.63,
      "change_pct": 0.49,
@@ -442,8 +442,8 @@
    "label": "Shale & E&P",
    "color": "#D97742",
    "count": 9,
-   "total_market_cap_b": 364.97,
-   "avg_change_pct": -0.42,
+   "total_market_cap_b": 364.72,
+   "avg_change_pct": -0.49,
    "industries_included": [
     "Oil & Gas E&P"
    ],
@@ -505,10 +505,10 @@
      "sector": "Energy",
      "industry": "Oil & Gas E&P",
      "country": "United States",
-     "market_cap_b": 62.49,
+     "market_cap_b": 62.26,
      "pe": 17.81,
-     "price": 62.95,
-     "change_pct": 0.05,
+     "price": 62.72,
+     "change_pct": -0.32,
      "volume": 7769281,
      "perf": {
       "1W": 2.1,
@@ -709,10 +709,10 @@
      "sector": "Energy",
      "industry": "Oil & Gas E&P",
      "country": "United States",
-     "market_cap_b": 21.06,
+     "market_cap_b": 21.04,
      "pe": 16.34,
-     "price": 25.12,
-     "change_pct": 1.13,
+     "price": 25.1,
+     "change_pct": 1.05,
      "volume": 9038156,
      "perf": {
       "1W": 3.2,
@@ -1879,8 +1879,8 @@
    "label": "Nuclear & Uranium",
    "color": "#F2D43D",
    "count": 8,
-   "total_market_cap_b": 162.54,
-   "avg_change_pct": 3.07,
+   "total_market_cap_b": 162.53,
+   "avg_change_pct": 3.06,
    "industries_included": [
     "Aerospace & Defense",
     "Specialty Industrial Machinery",
@@ -2098,10 +2098,10 @@
      "sector": "Utilities",
      "industry": "Utilities - Independent Power Producers",
      "country": "United States",
-     "market_cap_b": 4.48,
+     "market_cap_b": 4.47,
      "pe": null,
-     "price": 27.55,
-     "change_pct": 0.27,
+     "price": 27.47,
+     "change_pct": -0.04,
      "volume": 5985181,
      "perf": {
       "1W": -4.5,
@@ -2297,7 +2297,7 @@
      "fwd_eps": 0.48
     }
    ],
-   "median_change_pct": 0.42,
+   "median_change_pct": 0.41,
    "pe_hm": 34.1
   },
   {
@@ -2730,7 +2730,7 @@
    "label": "Grid, Storage & Electrification",
    "color": "#F08C4A",
    "count": 8,
-   "total_market_cap_b": 662.32,
+   "total_market_cap_b": 662.28,
    "avg_change_pct": 2.79,
    "industries_included": [
     "Electrical Equipment & Parts",
@@ -2898,10 +2898,10 @@
      "sector": "Industrials",
      "industry": "Electrical Equipment & Parts",
      "country": "United States",
-     "market_cap_b": 80.9,
+     "market_cap_b": 80.91,
      "pe": 48.0,
-     "price": 210.39,
-     "change_pct": 3.35,
+     "price": 210.42,
+     "change_pct": 3.37,
      "volume": 6380329,
      "perf": {
       "1W": -4.8,
@@ -2949,10 +2949,10 @@
      "sector": "Industrials",
      "industry": "Electrical Equipment & Parts",
      "country": "United States",
-     "market_cap_b": 68.18,
+     "market_cap_b": 68.13,
      "pe": 313.86,
-     "price": 236.68,
-     "change_pct": 6.3,
+     "price": 236.5,
+     "change_pct": 6.22,
      "volume": 12231803,
      "perf": {
       "1W": -0.3,
@@ -3105,7 +3105,7 @@
      "market_cap_b": 0.59,
      "pe": null,
      "price": 1.69,
-     "change_pct": 0.6,
+     "change_pct": 0.67,
      "volume": 22462235,
      "perf": {
       "1W": -13.8,
