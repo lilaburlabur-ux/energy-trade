@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-10-21T00:03:38+00:00",
-  "as_of_local": "2026-10-21 00:03:38 UTC",
+  "as_of_utc": "2026-10-21T00:07:41+00:00",
+  "as_of_local": "2026-10-21 00:07:41 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "OXY"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -66,7 +64,7 @@
       "price": 78.17,
       "previous_close": 79.8,
       "change_pct": -2.04,
-      "market_cap": 164470838531.88,
+      "market_cap": 164500241561.74,
       "headlines": []
     },
     {
@@ -75,7 +73,7 @@
       "price": 391.5,
       "previous_close": 391.25,
       "change_pct": 0.06,
-      "market_cap": 148322834000.0,
+      "market_cap": 148361032000.0,
       "headlines": []
     },
     {
@@ -84,7 +82,7 @@
       "price": 473.69,
       "previous_close": 478.07,
       "change_pct": -0.92,
-      "market_cap": 138681579090.4,
+      "market_cap": 133402995415.52,
       "headlines": []
     },
     {
@@ -183,7 +181,7 @@
       "price": 157.65,
       "previous_close": 158.01,
       "change_pct": -0.23,
-      "market_cap": 84107371172.3,
+      "market_cap": 82828402182.16,
       "headlines": []
     },
     {
@@ -238,6 +236,15 @@
       "previous_close": 221.31,
       "change_pct": 2.22,
       "market_cap": 65576513586.9,
+      "headlines": []
+    },
+    {
+      "symbol": "OXY",
+      "name": "Occidental Petroleum",
+      "price": 62.72,
+      "previous_close": 62.38,
+      "change_pct": 0.55,
+      "market_cap": 62897183383.32,
       "headlines": []
     },
     {
@@ -336,7 +343,7 @@
       "price": 70.32,
       "previous_close": 71.49,
       "change_pct": -1.64,
-      "market_cap": 35311054545.72,
+      "market_cap": 35318043325.8,
       "headlines": []
     },
     {
@@ -480,7 +487,7 @@
       "price": 28.15,
       "previous_close": 28.4,
       "change_pct": -0.88,
-      "market_cap": 8561480491.95,
+      "market_cap": 8472151201.9800005,
       "headlines": []
     },
     {
@@ -493,21 +500,21 @@
       "headlines": []
     },
     {
-      "symbol": "WFRD",
-      "name": "Weatherford",
-      "price": 77.09,
-      "previous_close": 76.19,
-      "change_pct": 1.18,
-      "market_cap": 5687523047.62,
-      "headlines": []
-    },
-    {
       "symbol": "NXE",
       "name": "NexGen Energy",
       "price": 8.5,
       "previous_close": 8.37,
       "change_pct": 1.55,
       "market_cap": 5685891736.4800005,
+      "headlines": []
+    },
+    {
+      "symbol": "WFRD",
+      "name": "Weatherford",
+      "price": 77.09,
+      "previous_close": 76.19,
+      "change_pct": 1.18,
+      "market_cap": 5673770331.360001,
       "headlines": []
     },
     {
@@ -525,7 +532,7 @@
       "price": 30.63,
       "previous_close": 30.62,
       "change_pct": 0.03,
-      "market_cap": 4247856630.5999994,
+      "market_cap": 4259022005.0399995,
       "headlines": []
     },
     {
@@ -561,7 +568,7 @@
       "price": 8.16,
       "previous_close": 8.47,
       "change_pct": -3.66,
-      "market_cap": 2052212650.0000002,
+      "market_cap": 2173791026.1200004,
       "headlines": []
     },
     {
@@ -816,18 +823,18 @@
     },
     {
       "label": "WTI",
-      "price": 98.41,
-      "change_pct": -5.06
+      "price": 98.38,
+      "change_pct": -5.09
     },
     {
       "label": "Brent",
-      "price": 109.36,
-      "change_pct": -0.17
+      "price": 109.33,
+      "change_pct": -0.2
     },
     {
       "label": "NatGas",
       "price": 2.98,
-      "change_pct": -2.49
+      "change_pct": -2.55
     }
   ]
 }
