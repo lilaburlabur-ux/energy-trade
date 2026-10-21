@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-10-21T09:51:45+00:00",
-  "as_of_local": "2026-10-21 09:51:45 UTC",
+  "as_of_utc": "2026-10-21T09:56:11+00:00",
+  "as_of_local": "2026-10-21 09:56:11 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "BKR"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -310,6 +308,15 @@
       "previous_close": 62.21,
       "change_pct": 1.01,
       "market_cap": 55269410769.365005,
+      "headlines": []
+    },
+    {
+      "symbol": "BKR",
+      "name": "Baker Hughes",
+      "price": 55.65,
+      "previous_close": 55.81,
+      "change_pct": -0.29,
+      "market_cap": 55242313565.850426,
       "headlines": []
     },
     {
@@ -816,18 +823,18 @@
     },
     {
       "label": "WTI",
-      "price": 99.21,
-      "change_pct": -2.53
+      "price": 99.25,
+      "change_pct": -2.5
     },
     {
       "label": "Brent",
-      "price": 110.13,
-      "change_pct": 1.23
+      "price": 110.15,
+      "change_pct": 1.25
     },
     {
       "label": "NatGas",
       "price": 2.91,
-      "change_pct": -1.65
+      "change_pct": -1.62
     }
   ]
 }
