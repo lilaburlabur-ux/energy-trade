@@ -60,7 +60,7 @@ NRG Energy, Inc., together with its subsidiaries, operates as an energy and home
 | Profitability | Gross 18.80%, operating 12.77%, net 2.56% | ROA 4.06%, ROE 23.77% |
 | Balance sheet | Cash $162.00M, debt $23.47B | Current ratio 0.97, debt/equity 483.36 |
 | Valuation | P/E 26.13, forward P/E 9.31, P/S 0.63, P/B 4.99 | EV/Sales 1.34, EV/EBITDA 13.69 |
-| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $181.88 (17 analysts) |
+| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $179.00 (17 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |

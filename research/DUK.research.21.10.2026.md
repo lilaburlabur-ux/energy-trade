@@ -38,7 +38,7 @@ Duke Energy Corporation, through its subsidiaries, operates as an energy company
 | Price vs 52-week range | Close $120.67; 52w high $131.16 (-8.00%); 52w low $111.09 (+8.62%) |
 | Trend | -1.60% vs SMA200, +1.53% vs SMA50, +3.50% vs SMA20 |
 | Momentum | RSI(14) 59.4 (neutral) |
-| Volatility | ATR(14) 1.81 (~1.5% of price); beta 0.34 |
+| Volatility | ATR(14) 1.80 (~1.5% of price); beta 0.34 |
 | Setup perspective | -8.00% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
@@ -60,7 +60,7 @@ Duke Energy Corporation, through its subsidiaries, operates as an energy company
 | Profitability | Gross 51.97%, operating 27.50%, net 16.00% | ROA 2.84%, ROE 9.86% |
 | Balance sheet | Cash $673.00M, debt $92.21B | Current ratio 0.66, debt/equity 162.16 |
 | Valuation | P/E 18.17, forward P/E 16.83, P/S 2.87, P/B 1.75 | EV/Sales 5.77, EV/EBITDA 11.39 |
-| Growth expectations | Earnings growth 10.60%, EPS q/q 11.00% | Analyst mean target $132.78 (18 analysts) |
+| Growth expectations | Earnings growth 10.60%, EPS q/q 11.00% | Analyst mean target $132.83 (18 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
@@ -104,7 +104,7 @@ Duke Energy Corporation, through its subsidiaries, operates as an energy company
 | Market cap | $94.09B | EV/EBITDA | 11.39 |
 | Beta | 0.34 | Gross margin | 51.97% |
 | RSI(14) | 59.4 | Operating margin | 27.50% |
-| ATR(14) | 1.81 | Profit margin | 16.00% |
+| ATR(14) | 1.80 | Profit margin | 16.00% |
 | SMA20 dist | +3.50% | ROA | 2.84% |
 | SMA50 dist | +1.53% | ROE | 9.86% |
 | SMA200 dist | -1.60% | Revenue (ttm) | $32.80B |

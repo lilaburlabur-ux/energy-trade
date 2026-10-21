@@ -38,12 +38,12 @@
 | PSX | $116.30B | +129% | 9.6 | 5% | High | Reasonable | Elevated |
 | VLO | $125.75B | +178% | 8.9 | 5% | High | Reasonable | Elevated |
 | DINO | $22.32B | +146% | 8.4 | 6% | High | Reasonable | Elevated |
-| CCJ | $35.72B | -4% | 43.9 | 10% | Low | Low (expensive) | Elevated |
+| CCJ | $35.72B | -4% | 43.7 | 10% | Low | Low (expensive) | Elevated |
 | CEG | $95.93B | -26% | 20.4 | 11% | Low | Fair-to-demanding | Elevated |
 | OKLO | $5.16B | -83% | -25.9 | 0% | Low | Reasonable | High |
 | SMR | $2.26B | -88% | -8.3 | 0% | Low | Reasonable | High |
 | LEU | $2.23B | -73% | 29.0 | 10% | Low | Fair-to-demanding | High |
-| NXE | $5.72B | -2% | -67.8 | 0% | Low | Reasonable | Elevated |
+| NXE | $5.72B | -2% | -67.6 | 0% | Low | Reasonable | Elevated |
 | UEC | $3.92B | -48% | -106.8 | 0% | Low | Reasonable | High |
 | UUUU | $2.17B | -64% | 16.9 | -77% | Low | Reasonable | High |
 | BWXT | $12.38B | -35% | 25.8 | 10% | Low | Fair-to-demanding | Elevated |

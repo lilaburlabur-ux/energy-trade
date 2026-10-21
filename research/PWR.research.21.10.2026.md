@@ -60,7 +60,7 @@ Quanta Services, Inc. offers infrastructure solutions for the electric and gas u
 | Profitability | Gross 15.46%, operating 7.22%, net 4.03% | ROA 5.23%, ROE 15.34% |
 | Balance sheet | Cash $506.43M, debt $6.60B | Current ratio 1.10, debt/equity 67.78 |
 | Valuation | P/E 68.86, forward P/E 30.23, P/S 2.75, P/B 9.37 | EV/Sales 2.91, EV/EBITDA 31.46 |
-| Growth expectations | Earnings growth 94.70%, EPS q/q 96.90% | Analyst mean target $766.01 (29 analysts) |
+| Growth expectations | Earnings growth 94.70%, EPS q/q 96.90% | Analyst mean target $764.56 (29 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |

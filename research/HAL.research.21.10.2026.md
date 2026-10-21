@@ -60,7 +60,7 @@ Halliburton Company provides products and services to the energy industry worldw
 | Profitability | Gross 15.08%, operating 12.79%, net 7.16% | ROA 7.26%, ROE 14.92% |
 | Balance sheet | Cash $2.05B, debt $8.20B | Current ratio 2.02, debt/equity 74.19 |
 | Valuation | P/E 17.89, forward P/E 11.58, P/S 1.27, P/B 2.71 | EV/Sales 1.50, EV/EBITDA 8.13 |
-| Growth expectations | Earnings growth 16.10%, EPS q/q 13.10% | Analyst mean target $43.25 (24 analysts) |
+| Growth expectations | Earnings growth 16.10%, EPS q/q 13.10% | Analyst mean target $43.52 (25 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |

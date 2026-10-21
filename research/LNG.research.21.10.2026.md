@@ -60,7 +60,7 @@ Cheniere Energy, Inc., an energy infrastructure company, primarily engages in th
 | Profitability | Gross 36.85%, operating 75.00%, net 13.94% | ROA 8.63%, ROE 39.12% |
 | Balance sheet | Cash $1.12B, debt $27.97B | Current ratio 0.87, debt/equity 243.42 |
 | Valuation | P/E 21.52, forward P/E 13.72, P/S 2.81, P/B 9.54 | EV/Sales 4.33, EV/EBITDA 11.58 |
-| Growth expectations | Earnings growth 100.70%, EPS q/q 88.70% | Analyst mean target $313.19 (21 analysts) |
+| Growth expectations | Earnings growth 100.70%, EPS q/q 88.70% | Analyst mean target $313.90 (21 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |

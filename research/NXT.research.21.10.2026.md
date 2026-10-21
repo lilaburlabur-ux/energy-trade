@@ -60,7 +60,7 @@ Nextpower Inc. provides solar and energy technology solutions for utility-scale 
 | Profitability | Gross 22.98%, operating 20.86%, net 16.36% | ROA 11.68%, ROE 27.22% |
 | Balance sheet | Cash $1.21B, debt $38.40M | Current ratio 2.69, debt/equity 1.50 |
 | Valuation | P/E 21.13, forward P/E 14.37, P/S 3.46, P/B 4.85 | EV/Sales 2.98, EV/EBITDA 14.44 |
-| Growth expectations | Earnings growth 2.90%, EPS q/q 5.20% | Analyst mean target $134.21 (28 analysts) |
+| Growth expectations | Earnings growth 2.90%, EPS q/q 5.20% | Analyst mean target $132.11 (28 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |

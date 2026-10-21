@@ -60,7 +60,7 @@ The Southern Company, through its subsidiaries, engages in the sale of electrici
 | Profitability | Gross 48.29%, operating 29.61%, net 15.43% | ROA 3.27%, ROE 11.48% |
 | Balance sheet | Cash $2.98B, debt $77.09B | Current ratio 0.79, debt/equity 182.06 |
 | Valuation | P/E 21.78, forward P/E 18.36, P/S 3.45, P/B 2.63 | EV/Sales 6.00, EV/EBITDA 12.71 |
-| Growth expectations | Earnings growth 30.40%, EPS q/q 33.40% | Analyst mean target $96.24 (19 analysts) |
+| Growth expectations | Earnings growth 30.40%, EPS q/q 33.40% | Analyst mean target $95.87 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
