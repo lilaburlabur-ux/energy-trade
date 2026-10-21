@@ -5,7 +5,7 @@ Signed file: `HUBB.research.21.10.2026`
 | Field | Value |
 |---|---|
 | Current price | $460.76 (2026-10-21, ~15-min delayed) |
-| Market cap | $24.34B |
+| Market cap | $24.35B |
 | Sector / Industry | Industrials / Electrical Equipment & Parts |
 | Main theme | Electrical Equipment & Parts — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -102,7 +102,7 @@ Hubbell Incorporated, together with its subsidiaries, manufactures and sells ele
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $460.76 | EV/Sales | 4.73 |
-| Market cap | $24.34B | EV/EBITDA | 19.43 |
+| Market cap | $24.35B | EV/EBITDA | 19.43 |
 | Beta | 0.85 | Gross margin | 35.34% |
 | RSI(14) | 45.2 | Operating margin | 21.67% |
 | ATR(14) | 12.80 | Profit margin | 14.49% |

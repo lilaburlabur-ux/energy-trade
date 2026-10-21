@@ -15,7 +15,7 @@ Signed file: `FTI.research.21.10.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +92.36%; price +2.21% vs SMA200. |
+| Technical momentum | High | 1Y +92.35%; price +2.21% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -12.59% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 11.28%, revenue growth 9.00%. |
 | Value attractiveness | Reasonable | Forward P/E 19.29, EV/Sales 2.62. |

@@ -18,7 +18,7 @@ Signed file: `OKE.research.21.10.2026`
 | Technical momentum | Moderate | 1Y +43.26%; price +7.39% vs SMA200. |
 | Fresh setup quality | Watch | -4.50% from 52w high and near SMA20 — check for a tight base. |
 | Fundamental quality | Mixed | Profit margin 9.29%, revenue growth 52.80%. |
-| Value attractiveness | Reasonable | Forward P/E 15.24, EV/Sales 2.33. |
+| Value attractiveness | Reasonable | Forward P/E 15.19, EV/Sales 2.33. |
 | Risk level | Moderate | Beta 0.80, ATR 2.4% of price, short float 4.36%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -59,7 +59,7 @@ ONEOK, Inc. operates as a midstream service provider of gathering, processing, f
 | Revenue (ttm) | $39.37B | Revenue growth 52.80% y/y |
 | Profitability | Gross 27.21%, operating 13.25%, net 9.29% | ROA 5.77%, ROE 16.28% |
 | Balance sheet | Cash $161.00M, debt $33.02B | Current ratio 0.74, debt/equity 143.07 |
-| Valuation | P/E 16.00, forward P/E 15.24, P/S 1.49, P/B 2.56 | EV/Sales 2.33, EV/EBITDA 11.93 |
+| Valuation | P/E 16.08, forward P/E 15.19, P/S 1.49, P/B 2.56 | EV/Sales 2.33, EV/EBITDA 11.93 |
 | Growth expectations | Earnings growth 14.20%, EPS q/q 14.90% | Analyst mean target $101.10 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -111,8 +111,8 @@ ONEOK, Inc. operates as a midstream service provider of gathering, processing, f
 | SMA200 dist | +7.39% | Revenue (ttm) | $39.37B |
 | 52W high | $97.51 | Revenue growth y/y | 52.80% |
 | 52W low | $61.95 | Inst. ownership | 84.24% |
-| P/E (ttm) | 16.00 | Insider ownership | 0.15% |
-| Forward P/E | 15.24 | Short float | 4.36% |
+| P/E (ttm) | 16.08 | Insider ownership | 0.15% |
+| Forward P/E | 15.19 | Short float | 4.36% |
 | PEG (trailing) | 1.71 | Avg volume | 3,599,406 |
 | P/S | 1.49 | Employees | 6,326 |
 | P/B | 2.56 | Analyst rec (1=buy..5=sell) | 2.3 |
