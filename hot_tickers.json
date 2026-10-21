@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-21T15:52:58+00:00",
+  "as_of": "2026-10-21T16:08:06+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,35 +9,35 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "BE",
-   "company": "Bloom Energy Corporation",
-   "move_pct": 7.32,
-   "price": 238.94,
-   "volume": 5578420,
-   "volume_vs_avg": "~0.4x",
+   "ticker": "WFRD",
+   "company": "Weatherford International plc",
+   "move_pct": 6.65,
+   "price": 84.61,
+   "volume": 702022,
+   "volume_vs_avg": "~0.7x",
    "heat_score": 42,
    "direction": "up",
-   "why": "Zacks Investment Ideas feature highlights: Meta Platforms, Bloom Energy and Western Digital",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOcGdBYlVpQUpTdHNMVlpNTkFYS2VCQVdDbTRlbEwyVWxWTDcyMFhtZ1BvdEllSEI1N1hTVi1FcEpfbi1QR0VXc0ZKVC1VZjR0eEhhRGlhSTJaa0E0ZnA4SEZJUDYtQk5RVVR5bUZJWE5zY1QwWVFqY1MzZUtOMGVRUldpanFaRmplR2g2ZFRaanZPNXJaZmpBNm8ycnl4cFRILU03QlZxMHltOFdMLUVrZU1ubTFiREU3cHpUZFVrcVRaMXRENXBQSnE2djRVNUJEZ1VGdWZDN0JSU0l3aEhSWnhrTE9LQUxDbk9xdm9VRDYwMkphZWhhMXVyRFpKWU43MWJF?oc=5",
-   "published": "2026-10-21T15:05:16+00:00",
-   "sector": "Grid, Storage & Electrification"
+   "why": "Weatherford International PLC (NASDAQ:WFRD) to Issue Quarterly Dividend of $0.28",
+   "catalyst_type": "earnings",
+   "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdXY0Q2RmR3FLZ2RidU43ek9pWEpkcmlPMWQ0dnByWUZKUHNRRHNROVVIOTRfZkNrZVVtam5wd3ZsQUZCSFdPOEZGS0FvbHdjTmJiOHg5OTVpOXByZm9EajlRVW1PdW1TMzJjdHpnOV9XTkFLMFhLMUdDR2xHM0licWtIZ2ZINld6WEFIdTJnTE9nMk96M3NOVkprWDVyTTVucnQ3ZnBCRlRUSm1rM2pNNEhyVzc5MktQQWJWbVJ4dzJYd19qOFdiYWhSQmMwVkVlOEpSMVl3?oc=5",
+   "published": "2026-10-21T15:56:33+00:00",
+   "sector": "Oilfield Services"
   },
   {
    "rank": 2,
-   "ticker": "WFRD",
-   "company": "Weatherford International plc",
-   "move_pct": 6.48,
-   "price": 84.48,
-   "volume": 668964,
-   "volume_vs_avg": "~0.7x",
+   "ticker": "BE",
+   "company": "Bloom Energy Corporation",
+   "move_pct": 6.77,
+   "price": 237.71,
+   "volume": 5941119,
+   "volume_vs_avg": "~0.4x",
    "heat_score": 41,
    "direction": "up",
-   "why": "Weatherford International (NASDAQ:WFRD) Shares Up 6% After Better-Than-Expected Earnings",
+   "why": "Bloom Energy\u2019s Q3 results to test AI-driven growth expectations",
    "catalyst_type": "earnings",
-   "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdVE5TXB2LUpUUjhBRHR1TmlsTVc3UlAyaExIN01aanFYQ0hMUUw0Y0RpSEsyMFYxMTlWMl80S3dWbGNWcW1uR2U4YjVadFRpUEQxbmtabDdxdmhtcXlhM1pKaTJyMTQ2MkFMVVl4Qnc1UlZBLWxZSGF6ekk2bUtQTUk3SENucmdYRHdzb0hmV3RxSzhWRTRYdWtfLXNwaXA5OVV2dEpYbWJwNEowX1JOaVVNZFZ2UnA3NncycTJqREdnOHMwai1TZ0NuTDRMUFNPaGJWLUt6ZmJnOHFXWWc?oc=5",
-   "published": "2026-10-21T14:24:58+00:00",
-   "sector": "Oilfield Services"
+   "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOR2hhdUEwZ1ZoWWtFaGstVk1VeHFxNS1RaERKOXg1ZGc3UlZBZ195S3p3M1FiSE5HSUdmS3RiTzZRcm9QclE3UVg3Rmdtbm1hSGVJWUdhNkxVZXFaX1kxbXNuRlA3TU5LcTE3cVY3WFg1YW40SnFKOERYT2o2RmZ4RkxBQWNrTUhVWnowYkZReHBzVmowNFVuUVRBR05tNlZaNVE?oc=5",
+   "published": "2026-10-21T15:53:50+00:00",
+   "sector": "Grid, Storage & Electrification"
   }
  ]
 }
