@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-21T20:52:08+00:00",
+  "as_of": "2026-10-21T21:07:17+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -13,31 +13,15 @@
    "company": "Weatherford International plc",
    "move_pct": 7.75,
    "price": 85.49,
-   "volume": 2339874,
+   "volume": 2339881,
    "volume_vs_avg": "~2x",
    "heat_score": 54,
    "direction": "up",
-   "why": "WFRD Stock Rallies As Earnings Beat Offsets Middle East Headwinds",
+   "why": "Weatherford International (WFRD) Shares Surge 8.6% After Strong Q3 Earnings Report",
    "catalyst_type": "earnings",
-   "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNS2RIVUtGcHMxVExYV1pBZjZKbUpqUEhqaDRMNFVYZnNZY2FrQkcxTGZDSnVJaEk4MUI2Y21fOWE1aHNvRFV1N3ZvdUNiU0dwNEU5NVlzQVFxQlZ1OFItVS04YkJIdGNuVlFhQV9ZekVuaC1SWURLZ0dNRFNsS1NQTUs4RDR3Z0ZnSzNfaF9B?oc=5",
-   "published": "2026-10-21T19:03:00+00:00",
+   "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMWpXZzJJRlM1ZVBadzlPVWpBZkt1eUgtSFpkVXVJTjVJcWpEU3BXV2xQRzNOd2k1aTVHWU5EY0htRDNFcE4zeXBNU2hpUHZqMzJJWktVSEstUTRBMFNDY1VoaVlIZjBWNnlaTEQtR1VYUFRDU2MxLWJtTVBjc28tTERsVUd1ZHBRNlVNRE5saHc0anJjNFpIbmVmSFBTV0oybG5xRlp0a3VuX3ZlV1Q5a2otVzNZWGdV?oc=5",
+   "published": "2026-10-21T19:05:22+00:00",
    "sector": "Oilfield Services"
-  },
-  {
-   "rank": 2,
-   "ticker": "VRT",
-   "company": "Vertiv Holdings, LLC",
-   "move_pct": 5.15,
-   "price": 214.05,
-   "volume": 6371381,
-   "volume_vs_avg": "~1.1x",
-   "heat_score": 39,
-   "direction": "up",
-   "why": "Vertiv (VRT) stock is up, what you need to know",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUl9MSUQ1cHRBVXB6V3hhY00tdGhVeVhGREd0RlVqQ0MxV3JDQ2JqZDI5b0liMkprQzFVN3g4TEN1akRkMUE1Y183VEg4Tmc1OTdkOFAwamRZUnVZeDM4QndaMEJuZUtON002Q2NRdjVORWhnV2VuTHpKV3MyRXZXdV9PckcwTWY2MzF5OVI4a2dPVDZyRkNFODJQSTlaa3BOS1M1anJNQWM?oc=5",
-   "published": "2026-10-21T17:08:52+00:00",
-   "sector": "Grid, Storage & Electrification"
   }
  ]
 }
