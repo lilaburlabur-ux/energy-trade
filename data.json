@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-10-21T22:09:02+00:00",
-  "as_of_local": "2026-10-21 22:09:02 UTC",
+  "as_of_utc": "2026-10-21T22:13:52+00:00",
+  "as_of_local": "2026-10-21 22:13:52 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "KMI"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -209,15 +211,6 @@
       "previous_close": 49.98,
       "change_pct": 2.24,
       "market_cap": 75839716839.47714,
-      "headlines": []
-    },
-    {
-      "symbol": "KMI",
-      "name": "Kinder Morgan",
-      "price": 33.97,
-      "previous_close": 33.57,
-      "change_pct": 1.19,
-      "market_cap": 75644469681.59427,
       "headlines": []
     },
     {
@@ -710,8 +703,8 @@
           "name": "Kinder Morgan Inc Class P",
           "short": "Kinder",
           "weight_pct": 3.15,
-          "change_pct": 1.19,
-          "price": 33.97,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         }
       ]
@@ -809,8 +802,8 @@
         "name": "Kinder Morgan Inc Class P",
         "short": "Kinder",
         "weight_pct": 3.15,
-        "change_pct": 1.19,
-        "price": 33.97,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       }
     ]
@@ -823,18 +816,18 @@
     },
     {
       "label": "WTI",
-      "price": 97.71,
-      "change_pct": -4.01
+      "price": 97.95,
+      "change_pct": -3.77
     },
     {
       "label": "Brent",
-      "price": 109.73,
-      "change_pct": 0.86
+      "price": 109.91,
+      "change_pct": 1.03
     },
     {
       "label": "NatGas",
       "price": 2.78,
-      "change_pct": -6.34
+      "change_pct": -6.28
     }
   ]
 }
