@@ -1,27 +1,10 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-21T11:47:10+00:00",
+  "as_of": "2026-10-21T12:02:12+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": [
-  {
-   "rank": 1,
-   "ticker": "VRT",
-   "company": "Vertiv Holdings, LLC",
-   "move_pct": 6.38,
-   "price": 216.54,
-   "volume": 6765100,
-   "volume_vs_avg": "~1.2x",
-   "heat_score": 43,
-   "direction": "up",
-   "why": "Vertiv shares fall for 11th day, marking longest losing streak",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcUU5aE1jcV9SRUIzekN1bngyRjBKejUyUFlablV0ODBPTkpZSHc2TElYOTFnTzRhNTlaUjBrT0lvUHhsZnVwYmhpbXlYdHd1MUNSZVFkWW5TbzJHUDhOSXEzYVcxcmJzdERzRVBLdTlRdDExcUNLMXg1TEJhSnZuOFB2OXJSSU1GVGt6ZUVGNlE5QVF5cTB6eXo2SGFCaVZtUTRNN1oxNVdMNlRYN2hRSm1SZlZYSXRkTm5ROFAwTlM?oc=5",
-   "published": "2026-10-21T11:28:57+00:00",
-   "sector": "Grid, Storage & Electrification"
-  }
- ]
+ "hot_tickers": []
 }
