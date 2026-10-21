@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-21T14:11:27+00:00",
+  "as_of": "2026-10-21T14:26:37+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,18 +9,34 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "VRT",
-   "company": "Vertiv Holdings, LLC",
-   "move_pct": 5.46,
-   "price": 214.68,
-   "volume": 1607516,
-   "volume_vs_avg": "~0.3x",
-   "heat_score": 36,
+   "ticker": "WFRD",
+   "company": "Weatherford International plc",
+   "move_pct": 7.69,
+   "price": 85.44,
+   "volume": 380463,
+   "volume_vs_avg": "~0.4x",
+   "heat_score": 44,
    "direction": "up",
-   "why": "Vertiv shares fall for 11th day, marking longest losing streak By Investing.com",
+   "why": "Weatherford (NASDAQ:WFRD) beats Q3 2026 sales expectations",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQM0sxVm9Ec2xIM2NSSDFEcldHYWZJYVA1eXBEZ1NreXp3aDVGUjhzTEJOX3RsLWsxbzctNVBJZEZNd1JZT1NsOUFFZnV2Y2xCa05GT3VhZVV1RFlmczZFMUItYmpiQUNaYTgxOXc0N3hxR1dtZTFaNUVUU2g5MnBkamFPMC1vOVU2emRGSk1oZjhjazlUYXJOZi00amNIb0hBdUttTVNTSVlfN3d3YnNZVkdsSUJfWG1Ta0l0dlJaZw?oc=5",
-   "published": "2026-10-21T11:30:00+00:00",
+   "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVnJjSWdRdGNQVVVJcWJTQk14MERoWDRILUZ0SlhVcU54UXJzbElxOTdVMWVwY2llNkliVTBBQzczd0wyMElLZ2k2aE5VMUFKdXc1SGUwcllWcjB0Yk8zd0RiM291QnRUZnRPWGJ6OWRXeVd0cTZESVJ1Nlkzdm41S1RYb29kNDlCR29KZ0RPZEVCZlpYS3pVdnphb1ktVm9ONUlmRnFBSzBIQTY5YW9HN0JKUEc?oc=5",
+   "published": "2026-10-21T14:08:55+00:00",
+   "sector": "Oilfield Services"
+  },
+  {
+   "rank": 2,
+   "ticker": "BE",
+   "company": "Bloom Energy Corporation",
+   "move_pct": 5.2,
+   "price": 234.22,
+   "volume": 3374301,
+   "volume_vs_avg": "~0.2x",
+   "heat_score": 34,
+   "direction": "up",
+   "why": "Zacks Investment Ideas feature highlights: Meta Platforms, Bloom Energy and Western Digital",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZWZtRDZQQVNseXhZTTNzREliUERwTkdNVVR2QmJYTk9lcnB1Zld3Q2V5WlFzS2NHRzZESzZmVjhaMThteXQyd2ZPUy1pSHNpem00VndkMmtIR3g5YlFZck9lS1plSWdFdEVzYjZBdW1LVFJCVHYyWlJobDVFWTJaMjYzRVQzMmRZLWg4akZqM2dfbWFVOUp6Nk0tekFUTzdMTkZERW5KUkU4QQ?oc=5",
+   "published": "2026-10-21T12:32:00+00:00",
    "sector": "Grid, Storage & Electrification"
   }
  ]
