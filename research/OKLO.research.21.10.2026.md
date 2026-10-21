@@ -18,7 +18,7 @@ Signed file: `OKLO.research.21.10.2026`
 | Technical momentum | Low | Below SMA200 (-50.82%) with negative half-year (-61.70%). |
 | Fresh setup quality | Poor / broken | -80.67% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 0.00%, revenue growth —. |
-| Value attractiveness | Reasonable | Forward P/E -25.81, EV/Sales 2,190.70. |
+| Value attractiveness | Reasonable | Forward P/E -25.81, EV/Sales 2,229.14. |
 | Risk level | High | Beta 1.22, ATR 7.8% of price, short float 19.99%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: high.
@@ -59,8 +59,8 @@ Oklo Inc. develops fission power plants to provide energy at scale to customers 
 | Revenue (ttm) | $1.21M | Revenue growth — y/y |
 | Profitability | Gross 40.41%, operating -6048.76%, net 0.00% | ROA -6.65%, ROE -7.70% |
 | Balance sheet | Cash $2.47B, debt $4.15M | Current ratio 48.46, debt/equity 0.13 |
-| Valuation | P/E —, forward P/E -25.81, P/S 4,263.03, P/B 1.57 | EV/Sales 2,190.70, EV/EBITDA -12.23 |
-| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $74.22 (20 analysts) |
+| Valuation | P/E —, forward P/E -25.81, P/S 4,263.03, P/B 1.57 | EV/Sales 2,229.14, EV/EBITDA -12.44 |
+| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $73.00 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
@@ -103,8 +103,8 @@ Oklo Inc. develops fission power plants to provide energy at scale to customers 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $27.73 | EV/Sales | 2,190.70 |
-| Market cap | $5.16B | EV/EBITDA | -12.23 |
+| Price | $27.73 | EV/Sales | 2,229.14 |
+| Market cap | $5.16B | EV/EBITDA | -12.44 |
 | Beta | 1.22 | Gross margin | 40.41% |
 | RSI(14) | 29.7 | Operating margin | -6048.76% |
 | ATR(14) | 2.16 | Profit margin | 0.00% |
@@ -117,7 +117,7 @@ Oklo Inc. develops fission power plants to provide energy at scale to customers 
 | Forward P/E | -25.81 | Short float | 19.99% |
 | PEG (trailing) | — | Avg volume | 9,926,596 |
 | P/S | 4,263.03 | Employees | 215 |
-| P/B | 1.57 | Analyst rec (1=buy..5=sell) | 2.2 |
+| P/B | 1.57 | Analyst rec (1=buy..5=sell) | 2.1 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

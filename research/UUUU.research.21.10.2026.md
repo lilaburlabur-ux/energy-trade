@@ -18,7 +18,7 @@ Signed file: `UUUU.research.21.10.2026`
 | Technical momentum | Low | Below SMA200 (-51.05%) with negative half-year (-63.76%). |
 | Fresh setup quality | Poor / broken | -70.42% from 52w high — base needs to rebuild. |
 | Fundamental quality | Weak | Negative profit margin (-77.30%). |
-| Value attractiveness | Reasonable | Forward P/E 16.91, EV/Sales 17.00. |
+| Value attractiveness | Reasonable | Forward P/E 16.91, EV/Sales 16.98. |
 | Risk level | High | Beta 1.87, ATR 7.3% of price, short float 21.43%. |
 
 **Bottom line:** Low technical momentum, weak fundamentals, value: reasonable, risk: high.
@@ -59,7 +59,7 @@ Energy Fuels Inc., together with its subsidiaries, engages in the exploration, r
 | Revenue (ttm) | $105.76M | Revenue growth 496.10% y/y |
 | Profitability | Gross 40.85%, operating -79.03%, net -77.30% | ROA -4.65%, ROE -11.45% |
 | Balance sheet | Cash $936.75M, debt $678.34M | Current ratio 27.90, debt/equity 85.13 |
-| Valuation | P/E —, forward P/E 16.91, P/S 20.53, P/B 2.59 | EV/Sales 17.00, EV/EBITDA -25.09 |
+| Valuation | P/E —, forward P/E 16.91, P/S 20.53, P/B 2.59 | EV/Sales 16.98, EV/EBITDA -25.05 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $23.35 (5 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -104,8 +104,8 @@ Energy Fuels Inc., together with its subsidiaries, engages in the exploration, r
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $8.20 | EV/Sales | 17.00 |
-| Market cap | $2.17B | EV/EBITDA | -25.09 |
+| Price | $8.20 | EV/Sales | 16.98 |
+| Market cap | $2.17B | EV/EBITDA | -25.05 |
 | Beta | 1.87 | Gross margin | 40.85% |
 | RSI(14) | 23.1 | Operating margin | -79.03% |
 | ATR(14) | 0.60 | Profit margin | -77.30% |

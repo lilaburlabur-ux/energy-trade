@@ -18,7 +18,7 @@ Signed file: `LNG.research.21.10.2026`
 | Technical momentum | Moderate | 1Y +29.68%; price +12.80% vs SMA200. |
 | Fresh setup quality | Watch | -3.93% from 52w high and near SMA20 — check for a tight base. |
 | Fundamental quality | Mixed | Profit margin 13.94%, revenue growth 22.70%. |
-| Value attractiveness | Reasonable | Forward P/E 13.72, EV/Sales 4.33. |
+| Value attractiveness | Reasonable | Forward P/E 13.72, EV/Sales 4.34. |
 | Risk level | Moderate | Beta 0.06, ATR 2.6% of price, short float 2.30%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -59,7 +59,7 @@ Cheniere Energy, Inc., an energy infrastructure company, primarily engages in th
 | Revenue (ttm) | $20.92B | Revenue growth 22.70% y/y |
 | Profitability | Gross 36.85%, operating 75.00%, net 13.94% | ROA 8.63%, ROE 39.12% |
 | Balance sheet | Cash $1.12B, debt $27.97B | Current ratio 0.87, debt/equity 243.42 |
-| Valuation | P/E 21.52, forward P/E 13.72, P/S 2.81, P/B 9.54 | EV/Sales 4.33, EV/EBITDA 11.58 |
+| Valuation | P/E 21.52, forward P/E 13.72, P/S 2.81, P/B 9.54 | EV/Sales 4.34, EV/EBITDA 11.61 |
 | Growth expectations | Earnings growth 100.70%, EPS q/q 88.70% | Analyst mean target $313.90 (21 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -101,8 +101,8 @@ Cheniere Energy, Inc., an energy infrastructure company, primarily engages in th
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $284.22 | EV/Sales | 4.33 |
-| Market cap | $58.70B | EV/EBITDA | 11.58 |
+| Price | $284.22 | EV/Sales | 4.34 |
+| Market cap | $58.70B | EV/EBITDA | 11.61 |
 | Beta | 0.06 | Gross margin | 36.85% |
 | RSI(14) | 56.3 | Operating margin | 75.00% |
 | ATR(14) | 7.27 | Profit margin | 13.94% |

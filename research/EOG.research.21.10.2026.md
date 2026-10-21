@@ -18,7 +18,7 @@ Signed file: `EOG.research.21.10.2026`
 | Technical momentum | Moderate | 1Y +53.10%; price +18.51% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -0.08% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 25.73%, revenue growth 58.70%. |
-| Value attractiveness | Reasonable | Forward P/E 9.81, EV/Sales 3.23. |
+| Value attractiveness | Reasonable | Forward P/E 9.81, EV/Sales 3.22. |
 | Risk level | Moderate | Beta 0.37, ATR 2.3% of price, short float 3.47%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate.
@@ -59,7 +59,7 @@ EOG Resources, Inc., together with its subsidiaries, explores for, develops, pro
 | Revenue (ttm) | $26.72B | Revenue growth 58.70% y/y |
 | Profitability | Gross 62.64%, operating 40.72%, net 25.73% | ROA 11.02%, ROE 22.51% |
 | Balance sheet | Cash $4.91B, debt $8.25B | Current ratio 1.85, debt/equity 25.89 |
-| Valuation | P/E 12.29, forward P/E 9.81, P/S 3.15, P/B 2.60 | EV/Sales 3.23, EV/EBITDA 5.95 |
+| Valuation | P/E 12.29, forward P/E 9.81, P/S 3.15, P/B 2.60 | EV/Sales 3.22, EV/EBITDA 5.94 |
 | Growth expectations | Earnings growth 109.40%, EPS q/q 102.50% | Analyst mean target $166.41 (29 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -101,8 +101,8 @@ EOG Resources, Inc., together with its subsidiaries, explores for, develops, pro
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $157.88 | EV/Sales | 3.23 |
-| Market cap | $84.09B | EV/EBITDA | 5.95 |
+| Price | $157.88 | EV/Sales | 3.22 |
+| Market cap | $84.09B | EV/EBITDA | 5.94 |
 | Beta | 0.37 | Gross margin | 62.64% |
 | RSI(14) | 70.6 | Operating margin | 40.72% |
 | ATR(14) | 3.64 | Profit margin | 25.73% |

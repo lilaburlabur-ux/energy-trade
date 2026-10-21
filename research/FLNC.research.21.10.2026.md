@@ -18,7 +18,7 @@ Signed file: `FLNC.research.21.10.2026`
 | Technical momentum | Low | Below SMA200 (-62.64%) with negative half-year (-55.56%). |
 | Fresh setup quality | Poor / broken | -81.38% from 52w high — base needs to rebuild. |
 | Fundamental quality | Weak | Negative profit margin (-3.07%). |
-| Value attractiveness | Reasonable | Forward P/E -13.28, EV/Sales 0.37. |
+| Value attractiveness | Reasonable | Forward P/E -13.28, EV/Sales 0.38. |
 | Risk level | High | Beta 2.77, ATR 8.7% of price, short float 44.33%. |
 
 **Bottom line:** Low technical momentum, weak fundamentals, value: reasonable, risk: high.
@@ -59,7 +59,7 @@ Fluence Energy, Inc., through its subsidiaries, provides energy storage and opti
 | Revenue (ttm) | $2.63B | Revenue growth 7.90% y/y |
 | Profitability | Gross 9.36%, operating -8.85%, net -3.07% | ROA -2.95%, ROE -23.54% |
 | Balance sheet | Cash $339.33M, debt $413.16M | Current ratio 1.34, debt/equity 95.81 |
-| Valuation | P/E —, forward P/E -13.28, P/S 0.44, P/B 2.30 | EV/Sales 0.37, EV/EBITDA -12.58 |
+| Valuation | P/E —, forward P/E -13.28, P/S 0.44, P/B 2.30 | EV/Sales 0.38, EV/EBITDA -12.71 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $8.35 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -104,8 +104,8 @@ Fluence Energy, Inc., through its subsidiaries, provides energy storage and opti
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $6.00 | EV/Sales | 0.37 |
-| Market cap | $1.17B | EV/EBITDA | -12.58 |
+| Price | $6.00 | EV/Sales | 0.38 |
+| Market cap | $1.17B | EV/EBITDA | -12.71 |
 | Beta | 2.77 | Gross margin | 9.36% |
 | RSI(14) | 28.9 | Operating margin | -8.85% |
 | ATR(14) | 0.52 | Profit margin | -3.07% |

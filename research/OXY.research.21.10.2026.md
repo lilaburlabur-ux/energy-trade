@@ -18,7 +18,7 @@ Signed file: `OXY.research.21.10.2026`
 | Technical momentum | Moderate | 1Y +55.86%; price +14.09% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -4.47% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 30.32%, revenue growth 53.40%. |
-| Value attractiveness | Reasonable | Forward P/E 12.64, EV/Sales 3.44. |
+| Value attractiveness | Reasonable | Forward P/E 12.64, EV/Sales 3.43. |
 | Risk level | Moderate | Beta 0.24, ATR 2.4% of price, short float 3.04%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate.
@@ -59,7 +59,7 @@ Occidental Petroleum Corporation, together with its subsidiaries, engages in the
 | Revenue (ttm) | $23.93B | Revenue growth 53.40% y/y |
 | Profitability | Gross 73.32%, operating 45.44%, net 30.32% | ROA 4.68%, ROE 10.63% |
 | Balance sheet | Cash $4.15B, debt $14.63B | Current ratio 1.41, debt/equity 34.51 |
-| Valuation | P/E 17.81, forward P/E 12.64, P/S 2.62, P/B 1.87 | EV/Sales 3.44, EV/EBITDA 6.00 |
+| Valuation | P/E 17.81, forward P/E 12.64, P/S 2.62, P/B 1.87 | EV/Sales 3.43, EV/EBITDA 5.98 |
 | Growth expectations | Earnings growth 964.90%, EPS q/q 550.00% | Analyst mean target $70.54 (26 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -101,8 +101,8 @@ Occidental Petroleum Corporation, together with its subsidiaries, engages in the
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $62.70 | EV/Sales | 3.44 |
-| Market cap | $62.68B | EV/EBITDA | 6.00 |
+| Price | $62.70 | EV/Sales | 3.43 |
+| Market cap | $62.68B | EV/EBITDA | 5.98 |
 | Beta | 0.24 | Gross margin | 73.32% |
 | RSI(14) | 64.1 | Operating margin | 45.44% |
 | ATR(14) | 1.51 | Profit margin | 30.32% |

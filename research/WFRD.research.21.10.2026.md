@@ -18,7 +18,7 @@ Signed file: `WFRD.research.21.10.2026`
 | Technical momentum | Low | Below SMA200 (-7.80%) with negative half-year (-14.87%). |
 | Fresh setup quality | Moderate / wait | -23.03% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 8.64%, revenue growth -7.20%. |
-| Value attractiveness | Reasonable | Forward P/E 12.57, EV/Sales 1.28. |
+| Value attractiveness | Reasonable | Forward P/E 12.57, EV/Sales 1.38. |
 | Risk level | Elevated | Beta —, ATR 3.8% of price, short float 6.64%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
@@ -59,7 +59,7 @@ Weatherford International plc, an energy services company, provides equipment an
 | Revenue (ttm) | $4.69B | Revenue growth -7.20% y/y |
 | Profitability | Gross 31.31%, operating 14.44%, net 8.64% | ROA 8.18%, ROE 23.32% |
 | Balance sheet | Cash $1.16B, debt $1.48B | Current ratio 2.79, debt/equity 74.30 |
-| Valuation | P/E 16.86, forward P/E 12.57, P/S 1.30, P/B 3.43 | EV/Sales 1.28, EV/EBITDA 6.45 |
+| Valuation | P/E 16.86, forward P/E 12.57, P/S 1.30, P/B 3.43 | EV/Sales 1.38, EV/EBITDA 6.92 |
 | Growth expectations | Earnings growth 48.20%, EPS q/q 48.10% | Analyst mean target $113.50 (12 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -102,8 +102,8 @@ Weatherford International plc, an energy services company, provides equipment an
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $85.49 | EV/Sales | 1.28 |
-| Market cap | $6.11B | EV/EBITDA | 6.45 |
+| Price | $85.49 | EV/Sales | 1.38 |
+| Market cap | $6.11B | EV/EBITDA | 6.92 |
 | Beta | — | Gross margin | 31.31% |
 | RSI(14) | 59.8 | Operating margin | 14.44% |
 | ATR(14) | 3.24 | Profit margin | 8.64% |
