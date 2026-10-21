@@ -1,27 +1,10 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-21T08:04:05+00:00",
+  "as_of": "2026-10-21T08:09:22+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": [
-  {
-   "rank": 1,
-   "ticker": "VRT",
-   "company": "Vertiv Holdings, LLC",
-   "move_pct": 5.05,
-   "price": 213.84,
-   "volume": 6765100,
-   "volume_vs_avg": "~1.2x",
-   "heat_score": 39,
-   "direction": "up",
-   "why": "11 Red Days In A Row: Vertiv Stock Is Down 20%",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOc3FpaXdYbVFiQVhpZGpWaWl3QU9BZWRxV1F0Tzk3RXUwalRmX1I0THQ3dkYtU1lWbXVVUHI5N25qbzJGSkxoaDd6VHQ2VDI3dmFiM1JYQ0ZrZ2tabGxyZGFXQU82MnBnOE1WOEEyYmJtZU1QQjRvamRyNEpfcDB3R25SQlAtYUdITWxOeERRZlY3UEtKM2tfTzZhNE4zMXhhWWEtZzhxZw?oc=5",
-   "published": "2026-10-21T05:03:31+00:00",
-   "sector": "Grid, Storage & Electrification"
-  }
- ]
+ "hot_tickers": []
 }
