@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-10-21T10:51:54+00:00",
-  "as_of_local": "2026-10-21 10:51:54 UTC",
+  "as_of_utc": "2026-10-21T10:57:01+00:00",
+  "as_of_local": "2026-10-21 10:57:01 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "FTI"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -66,7 +64,7 @@
       "price": 78.86,
       "previous_close": 78.17,
       "change_pct": 0.88,
-      "market_cap": 164470839804.8325,
+      "market_cap": 164500242834.92004,
       "headlines": []
     },
     {
@@ -75,7 +73,7 @@
       "price": 381.98,
       "previous_close": 391.5,
       "change_pct": -2.43,
-      "market_cap": 148322838265.9912,
+      "market_cap": 148361036267.08984,
       "headlines": []
     },
     {
@@ -84,7 +82,7 @@
       "price": 475.04,
       "previous_close": 473.69,
       "change_pct": 0.28,
-      "market_cap": 138681581584.97574,
+      "market_cap": 133402997815.14566,
       "headlines": []
     },
     {
@@ -183,7 +181,7 @@
       "price": 157.91,
       "previous_close": 157.65,
       "change_pct": 0.16,
-      "market_cap": 84107373122.84393,
+      "market_cap": 82828404103.04321,
       "headlines": []
     },
     {
@@ -345,7 +343,7 @@
       "price": 70.86,
       "previous_close": 70.32,
       "change_pct": 0.77,
-      "market_cap": 35311054849.87125,
+      "market_cap": 35318043630.011444,
       "headlines": []
     },
     {
@@ -373,6 +371,15 @@
       "previous_close": 32.98,
       "change_pct": 1.85,
       "market_cap": 27984849154.655605,
+      "headlines": []
+    },
+    {
+      "symbol": "FTI",
+      "name": "TechnipFMC",
+      "price": 68.93,
+      "previous_close": 69.86,
+      "change_pct": -1.33,
+      "market_cap": 27031891384.519073,
       "headlines": []
     },
     {
@@ -480,7 +487,7 @@
       "price": 28.23,
       "previous_close": 28.15,
       "change_pct": 0.28,
-      "market_cap": 8561480353.121281,
+      "market_cap": 8472151064.5998,
       "headlines": []
     },
     {
@@ -493,21 +500,21 @@
       "headlines": []
     },
     {
-      "symbol": "WFRD",
-      "name": "Weatherford",
-      "price": 79.34,
-      "previous_close": 77.09,
-      "change_pct": 2.92,
-      "market_cap": 5687522785.100067,
-      "headlines": []
-    },
-    {
       "symbol": "NXE",
       "name": "NexGen Energy",
       "price": 8.48,
       "previous_close": 8.5,
       "change_pct": -0.24,
       "market_cap": 5685891429.546665,
+      "headlines": []
+    },
+    {
+      "symbol": "WFRD",
+      "name": "Weatherford",
+      "price": 79.34,
+      "previous_close": 77.09,
+      "change_pct": 2.92,
+      "market_cap": 5673770069.4748535,
       "headlines": []
     },
     {
@@ -525,7 +532,7 @@
       "price": 32.23,
       "previous_close": 30.63,
       "change_pct": 5.22,
-      "market_cap": 4247856570.267563,
+      "market_cap": 4259021944.5489807,
       "headlines": []
     },
     {
@@ -561,7 +568,7 @@
       "price": 8.21,
       "previous_close": 8.16,
       "change_pct": 0.61,
-      "market_cap": 2052212659.535408,
+      "market_cap": 2173791036.22031,
       "headlines": []
     },
     {
@@ -816,18 +823,18 @@
     },
     {
       "label": "WTI",
-      "price": 99.89,
-      "change_pct": -1.87
+      "price": 99.88,
+      "change_pct": -1.88
     },
     {
       "label": "Brent",
-      "price": 110.83,
-      "change_pct": 1.88
+      "price": 110.79,
+      "change_pct": 1.84
     },
     {
       "label": "NatGas",
-      "price": 2.88,
-      "change_pct": -2.7
+      "price": 2.87,
+      "change_pct": -3.31
     }
   ]
 }
