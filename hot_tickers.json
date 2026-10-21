@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-21T19:47:39+00:00",
+  "as_of": "2026-10-21T20:02:47+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,33 +11,17 @@
    "rank": 1,
    "ticker": "WFRD",
    "company": "Weatherford International plc",
-   "move_pct": 7.06,
-   "price": 84.94,
-   "volume": 1622195,
+   "move_pct": 7.75,
+   "price": 85.49,
+   "volume": 2270540,
    "volume_vs_avg": "~2x",
-   "heat_score": 48,
+   "heat_score": 54,
    "direction": "up",
    "why": "Weatherford International (WFRD) Shares Surge 8.6% After Strong Q3 Earnings Report",
    "catalyst_type": "earnings",
    "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMWpXZzJJRlM1ZVBadzlPVWpBZkt1eUgtSFpkVXVJTjVJcWpEU3BXV2xQRzNOd2k1aTVHWU5EY0htRDNFcE4zeXBNU2hpUHZqMzJJWktVSEstUTRBMFNDY1VoaVlIZjBWNnlaTEQtR1VYUFRDU2MxLWJtTVBjc28tTERsVUd1ZHBRNlVNRE5saHc0anJjNFpIbmVmSFBTV0oybG5xRlp0a3VuX3ZlV1Q5a2otVzNZWGdV?oc=5",
    "published": "2026-10-21T19:05:22+00:00",
    "sector": "Oilfield Services"
-  },
-  {
-   "rank": 2,
-   "ticker": "BE",
-   "company": "Bloom Energy Corporation",
-   "move_pct": 7.58,
-   "price": 239.52,
-   "volume": 9603242,
-   "volume_vs_avg": "~0.6x",
-   "heat_score": 45,
-   "direction": "up",
-   "why": "Bloom Energy\u2019s Q3 results to test AI-driven growth expectations",
-   "catalyst_type": "earnings",
-   "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOR2hhdUEwZ1ZoWWtFaGstVk1VeHFxNS1RaERKOXg1ZGc3UlZBZ195S3p3M1FiSE5HSUdmS3RiTzZRcm9QclE3UVg3Rmdtbm1hSGVJWUdhNkxVZXFaX1kxbXNuRlA3TU5LcTE3cVY3WFg1YW40SnFKOERYT2o2RmZ4RkxBQWNrTUhVWnowYkZReHBzVmowNFVuUVRBR05tNlZaNVE?oc=5",
-   "published": "2026-10-21T15:53:50+00:00",
-   "sector": "Grid, Storage & Electrification"
   }
  ]
 }
