@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-10-21T09:40:45+00:00",
-  "as_of_local": "2026-10-21 09:40:45 UTC",
+  "as_of_utc": "2026-10-21T09:46:03+00:00",
+  "as_of_local": "2026-10-21 09:46:03 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "DVN"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -290,15 +292,6 @@
       "previous_close": 203.12,
       "change_pct": -0.34,
       "market_cap": 56681605783.90845,
-      "headlines": []
-    },
-    {
-      "symbol": "DVN",
-      "name": "Devon Energy",
-      "price": 50.38,
-      "previous_close": 50.92,
-      "change_pct": -1.06,
-      "market_cap": 55418001174.92676,
       "headlines": []
     },
     {
@@ -823,18 +816,18 @@
     },
     {
       "label": "WTI",
-      "price": 98.92,
-      "change_pct": -2.82
+      "price": 98.94,
+      "change_pct": -2.8
     },
     {
       "label": "Brent",
-      "price": 109.89,
-      "change_pct": 1.01
+      "price": 109.9,
+      "change_pct": 1.02
     },
     {
       "label": "NatGas",
       "price": 2.92,
-      "change_pct": -1.52
+      "change_pct": -1.55
     }
   ]
 }
