@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-21T17:19:11+00:00",
+  "as_of": "2026-10-21T17:34:14+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,29 +9,13 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "WFRD",
-   "company": "Weatherford International plc",
-   "move_pct": 7.66,
-   "price": 85.42,
-   "volume": 878707,
-   "volume_vs_avg": "~0.9x",
-   "heat_score": 46,
-   "direction": "up",
-   "why": "Weatherford (WFRD) stock trades up, here is why",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON2FrTDVwRUs1ZVZ6N0ZlNml5RzJBeHlOczNreU5TR0pjNHQwRW5MWHE1VXpaT0dwakVKV0o0NElMeTNZRUJOejRMcDV2YXVmclN3Q1pTcm1QQm44aXk3TkdhdmVfLWVKNXRFT2Y5NU15d0tfTjl3V0ttR2JPZDZDSXBlSmZFMDNsbjhKSlVwZmc3RkZNY1JYLUxOMzFjSENqMFpoYXVNUVhUeklubUxacUNoVnBxeEEtbEE?oc=5",
-   "published": "2026-10-21T16:45:00+00:00",
-   "sector": "Oilfield Services"
-  },
-  {
-   "rank": 2,
    "ticker": "BE",
    "company": "Bloom Energy Corporation",
-   "move_pct": 7.89,
-   "price": 240.21,
-   "volume": 6987176,
+   "move_pct": 8.08,
+   "price": 240.64,
+   "volume": 7254365,
    "volume_vs_avg": "~0.5x",
-   "heat_score": 45,
+   "heat_score": 56,
    "direction": "up",
    "why": "Bloom Energy\u2019s Q3 results to test AI-driven growth expectations",
    "catalyst_type": "earnings",
@@ -40,19 +24,35 @@
    "sector": "Grid, Storage & Electrification"
   },
   {
+   "rank": 2,
+   "ticker": "WFRD",
+   "company": "Weatherford International plc",
+   "move_pct": 7.88,
+   "price": 85.59,
+   "volume": 923315,
+   "volume_vs_avg": "~1.0x",
+   "heat_score": 47,
+   "direction": "up",
+   "why": "Weatherford (WFRD) stock trades up, here is why",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVkVBSWxHTWRzaGNPcjdEZEZOaDVjMWxfYkhOblRfRThWbWxJTzk1ZTJnaFRpQzQ5TVB6RHg1Zm5zcDRoSXdTbUdoS1o1cnRWR1FZWnRqWF8xTmljNzk3VUxmRkdQbmc0dUpFeGV2Qlc2Y0FzeHdPbWJpVlAtRXhOMXJNbDlHZnVMZlpSUFlmRFhDU2N1bHBGaFhNZ2ZvNldGVWlEeWVtR1c?oc=5",
+   "published": "2026-10-21T16:45:48+00:00",
+   "sector": "Oilfield Services"
+  },
+  {
    "rank": 3,
    "ticker": "VRT",
    "company": "Vertiv Holdings, LLC",
-   "move_pct": 5.27,
-   "price": 214.3,
-   "volume": 3623204,
-   "volume_vs_avg": "~0.6x",
-   "heat_score": 37,
+   "move_pct": 5.07,
+   "price": 213.89,
+   "volume": 3780789,
+   "volume_vs_avg": "~0.7x",
+   "heat_score": 36,
    "direction": "up",
-   "why": "What Changed For Vertiv Stock, And What Did Not?",
+   "why": "Vertiv (VRT) stock is up, what you need to know",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVEJFMVRpdjRCZEltRGRkUTBZanRNRHZYVVZhWGdhUGFJSGRHSi02b0xvVEtQMWlsNFRud0Jpc2xBb252X3VmVElISW9fbXRVV1QwckJoOGRlb2RVWnFJaWhkLUQ4Y2I1ckV4U0s2OGdZUlNRTEh3eFpTZGhaekdBc3lVTm5ZZGwxSlFLRVZONXljSjNqOTVMQg?oc=5",
-   "published": "2026-10-21T13:55:49+00:00",
+   "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcXN2cFJqMzlkR2xqSTlCRGF2WFBFaklKWmwzZWdHREJYaGwwdWNlT09FcElFeW1jMVdrZ013dm9zY3ZfRHIzb3daREg4VF8wd0ZLTnROOW1QbS1TVFBtdG5wTVd6TzRsdFEyaFhLT1p0NWxTLVJkTllPRmhIS3d2TmJfMGo1bnJ5TWJ3Zk5yc2I5U3NndWg3SVdVdElnczhZTDduV3pqLXM?oc=5",
+   "published": "2026-10-21T16:45:42+00:00",
    "sector": "Grid, Storage & Electrification"
   }
  ]
