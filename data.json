@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-10-21T12:35:34+00:00",
-  "as_of_local": "2026-10-21 12:35:34 UTC",
+  "as_of_utc": "2026-10-21T12:40:40+00:00",
+  "as_of_local": "2026-10-21 12:40:40 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "EOSE"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -599,15 +601,6 @@
       "headlines": []
     },
     {
-      "symbol": "EOSE",
-      "name": "Eos Energy",
-      "price": 1.68,
-      "previous_close": 1.81,
-      "change_pct": -7.18,
-      "market_cap": 611801790.8186417,
-      "headlines": []
-    },
-    {
       "symbol": "ARRY",
       "name": "Array Technologies",
       "price": 3.33,
@@ -823,18 +816,18 @@
     },
     {
       "label": "WTI",
-      "price": 98.31,
-      "change_pct": -3.42
+      "price": 97.99,
+      "change_pct": -3.73
     },
     {
       "label": "Brent",
-      "price": 109.04,
-      "change_pct": 0.23
+      "price": 108.73,
+      "change_pct": -0.06
     },
     {
       "label": "NatGas",
-      "price": 2.84,
-      "change_pct": -4.12
+      "price": 2.85,
+      "change_pct": -3.68
     }
   ]
 }
