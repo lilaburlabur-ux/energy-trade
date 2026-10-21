@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-21T16:08:06+00:00",
+  "as_of": "2026-10-21T16:23:20+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,10 +11,10 @@
    "rank": 1,
    "ticker": "WFRD",
    "company": "Weatherford International plc",
-   "move_pct": 6.65,
-   "price": 84.61,
-   "volume": 702022,
-   "volume_vs_avg": "~0.7x",
+   "move_pct": 6.58,
+   "price": 84.56,
+   "volume": 751606,
+   "volume_vs_avg": "~0.8x",
    "heat_score": 42,
    "direction": "up",
    "why": "Weatherford International PLC (NASDAQ:WFRD) to Issue Quarterly Dividend of $0.28",
@@ -27,16 +27,16 @@
    "rank": 2,
    "ticker": "BE",
    "company": "Bloom Energy Corporation",
-   "move_pct": 6.77,
-   "price": 237.71,
-   "volume": 5941119,
+   "move_pct": 6.78,
+   "price": 237.75,
+   "volume": 6147465,
    "volume_vs_avg": "~0.4x",
    "heat_score": 41,
    "direction": "up",
-   "why": "Bloom Energy\u2019s Q3 results to test AI-driven growth expectations",
-   "catalyst_type": "earnings",
-   "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOR2hhdUEwZ1ZoWWtFaGstVk1VeHFxNS1RaERKOXg1ZGc3UlZBZ195S3p3M1FiSE5HSUdmS3RiTzZRcm9QclE3UVg3Rmdtbm1hSGVJWUdhNkxVZXFaX1kxbXNuRlA3TU5LcTE3cVY3WFg1YW40SnFKOERYT2o2RmZ4RkxBQWNrTUhVWnowYkZReHBzVmowNFVuUVRBR05tNlZaNVE?oc=5",
-   "published": "2026-10-21T15:53:50+00:00",
+   "why": "Bloom Energy Jumps 7% Ahead of Q3 Report as Musk Calls Power AI\u2019s Real Bottleneck; FuelCell Ticks Up, Plug Power Barely Moves",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOd0ZMdzJSWWVkV3VXTGFtbWpBUmdTQmZzaFY5M1V4UTBFVEVaRWlSbkFtTDhsdnhObVVrcEZsV281V3lVRUk0czNKOHZldHN6bC1WRW9jemJhSGc1V202LVNUVTF3ZWJoSy1WQ1BDcXVLZ2tWZkhqakNFWjFLVkNzeFJLR3dkbjIwcjZfSWplQW9FdzF3?oc=5",
+   "published": "2026-10-21T15:57:20+00:00",
    "sector": "Grid, Storage & Electrification"
   }
  ]
