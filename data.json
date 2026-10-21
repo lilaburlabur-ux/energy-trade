@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-10-21T13:00:43+00:00",
-  "as_of_local": "2026-10-21 13:00:43 UTC",
+  "as_of_utc": "2026-10-21T13:05:54+00:00",
+  "as_of_local": "2026-10-21 13:05:54 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "COP"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -47,15 +49,6 @@
       "previous_close": 89.95,
       "change_pct": 0.14,
       "market_cap": 198610990178.12225,
-      "headlines": []
-    },
-    {
-      "symbol": "COP",
-      "name": "ConocoPhillips",
-      "price": 145.95,
-      "previous_close": 145.24,
-      "change_pct": 0.49,
-      "market_cap": 177810006603.71173,
       "headlines": []
     },
     {
@@ -647,8 +640,8 @@
           "name": "ConocoPhillips",
           "short": "ConocoPhillips",
           "weight_pct": 6.73,
-          "change_pct": 0.49,
-          "price": 145.95,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -746,8 +739,8 @@
         "name": "ConocoPhillips",
         "short": "ConocoPhillips",
         "weight_pct": 6.73,
-        "change_pct": 0.49,
-        "price": 145.95,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -823,18 +816,18 @@
     },
     {
       "label": "WTI",
-      "price": 97.86,
-      "change_pct": -3.86
+      "price": 97.59,
+      "change_pct": -4.13
     },
     {
       "label": "Brent",
-      "price": 108.63,
-      "change_pct": -0.15
+      "price": 108.45,
+      "change_pct": -0.31
     },
     {
       "label": "NatGas",
-      "price": 2.86,
-      "change_pct": -3.37
+      "price": 2.85,
+      "change_pct": -3.75
     }
   ]
 }
