@@ -4,8 +4,8 @@ Signed file: `SO.research.22.10.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-10-22, ~15-min delayed) |
-| Market cap | $103.98B |
+| Current price | $93.82 (2026-10-22, ~15-min delayed) |
+| Market cap | $107.93B |
 | Sector / Industry | Utilities / Utilities - Regulated Electric |
 | Main theme | Utilities - Regulated Electric — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `SO.research.22.10.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y -0.08%; price +2.82% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -3.77% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 15.43%, revenue growth 0.10%. |
-| Value attractiveness | Reasonable | Forward P/E 18.36, EV/Sales 5.99. |
-| Risk level | Moderate | Beta 0.30, ATR nan% of price, short float 2.55%. |
+| Value attractiveness | Reasonable | Forward P/E 19.06, EV/Sales 5.99. |
+| Risk level | Moderate | Beta 0.30, ATR 1.7% of price, short float 2.55%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
@@ -35,22 +35,22 @@ The Southern Company, through its subsidiaries, engages in the sale of electrici
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $97.49 (+nan%); 52w low $82.06 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 65.4 (neutral) |
-| Volatility | ATR(14) 1.51 (~nan% of price); beta 0.30 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $93.82; 52w high $97.49 (-3.77%); 52w low $82.06 (+14.33%) |
+| Trend | +2.82% vs SMA200, +6.98% vs SMA50, +8.16% vs SMA20 |
+| Momentum | RSI(14) 72.4 (overbought) |
+| Volatility | ATR(14) 1.60 (~1.7% of price); beta 0.30 |
+| Setup perspective | -3.77% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | +5.2% |
+| Month | +12.4% |
+| Quarter | -2.7% |
+| Half Y | +1.6% |
+| 1Y | -0.1% |
+| YTD | +10.3% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -59,13 +59,13 @@ The Southern Company, through its subsidiaries, engages in the sale of electrici
 | Revenue (ttm) | $30.18B | Revenue growth 0.10% y/y |
 | Profitability | Gross 48.29%, operating 29.61%, net 15.43% | ROA 3.27%, ROE 11.48% |
 | Balance sheet | Cash $2.98B, debt $77.09B | Current ratio 0.79, debt/equity 182.06 |
-| Valuation | P/E 21.78, forward P/E 18.36, P/S 3.45, P/B 2.63 | EV/Sales 5.99, EV/EBITDA 12.69 |
-| Growth expectations | Earnings growth 30.40%, EPS q/q 33.40% | Analyst mean target $95.87 (19 analysts) |
+| Valuation | P/E 22.61, forward P/E 19.06, P/S 3.58, P/B 2.73 | EV/Sales 5.99, EV/EBITDA 12.69 |
+| Growth expectations | Earnings growth 30.40%, EPS q/q 33.40% | Analyst mean target $96.05 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 74.30% |
+| Institutional ownership | 74.31% |
 | Insider ownership | 0.10% |
 | Short float | 2.55% |
 | Short ratio (days to cover) | 4.6 |
@@ -86,6 +86,7 @@ The Southern Company, through its subsidiaries, engages in the sale of electrici
 | Franklin Resources, Inc. | 16,561,908 | 1.44% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
+- **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -100,25 +101,26 @@ The Southern Company, through its subsidiaries, engages in the sale of electrici
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 5.99 |
-| Market cap | $103.98B | EV/EBITDA | 12.69 |
+| Price | $93.82 | EV/Sales | 5.99 |
+| Market cap | $107.93B | EV/EBITDA | 12.69 |
 | Beta | 0.30 | Gross margin | 48.29% |
-| RSI(14) | 65.4 | Operating margin | 29.61% |
-| ATR(14) | 1.51 | Profit margin | 15.43% |
-| SMA20 dist | +nan% | ROA | 3.27% |
-| SMA50 dist | +nan% | ROE | 11.48% |
-| SMA200 dist | +nan% | Revenue (ttm) | $30.18B |
+| RSI(14) | 72.4 | Operating margin | 29.61% |
+| ATR(14) | 1.60 | Profit margin | 15.43% |
+| SMA20 dist | +8.16% | ROA | 3.27% |
+| SMA50 dist | +6.98% | ROE | 11.48% |
+| SMA200 dist | +2.82% | Revenue (ttm) | $30.18B |
 | 52W high | $97.49 | Revenue growth y/y | 0.10% |
-| 52W low | $82.06 | Inst. ownership | 74.30% |
-| P/E (ttm) | 21.78 | Insider ownership | 0.10% |
-| Forward P/E | 18.36 | Short float | 2.55% |
-| PEG (trailing) | 1.97 | Avg volume | 5,992,467 |
-| P/S | 3.45 | Employees | 29,502 |
-| P/B | 2.63 | Analyst rec (1=buy..5=sell) | 2.7 |
+| 52W low | $82.06 | Inst. ownership | 74.31% |
+| P/E (ttm) | 22.61 | Insider ownership | 0.10% |
+| Forward P/E | 19.06 | Short float | 2.55% |
+| PEG (trailing) | 1.97 | Avg volume | 5,994,698 |
+| P/S | 3.58 | Employees | 29,502 |
+| P/B | 2.73 | Analyst rec (1=buy..5=sell) | 2.6 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-10-22 | init | HSBC | — → Buy |
 | 2026-10-21 | main | Morgan Stanley | Underweight → Underweight |
 | 2026-10-20 | main | Jefferies | Hold → Hold |
 | 2026-10-16 | main | Barclays | Equal-Weight → Equal-Weight |
@@ -126,7 +128,6 @@ The Southern Company, through its subsidiaries, engages in the sale of electrici
 | 2026-10-13 | main | JP Morgan | Neutral → Neutral |
 | 2026-10-13 | main | Keybanc | Underweight → Underweight |
 | 2026-09-25 | main | Citigroup | Buy → Buy |
-| 2026-09-18 | main | Morgan Stanley | Underweight → Underweight |
 
 ## 9. Conclusion
 SO: Moderate momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

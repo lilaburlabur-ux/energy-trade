@@ -4,8 +4,8 @@ Signed file: `DUK.research.22.10.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-10-22, ~15-min delayed) |
-| Market cap | $94.09B |
+| Current price | $125.40 (2026-10-22, ~15-min delayed) |
+| Market cap | $97.77B |
 | Sector / Industry | Utilities / Utilities - Regulated Electric |
 | Main theme | Utilities - Regulated Electric — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `DUK.research.22.10.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +1.15%; price +2.21% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -4.39% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 16.00%, revenue growth 1.10%. |
-| Value attractiveness | Reasonable | Forward P/E 16.83, EV/Sales 5.75. |
-| Risk level | Moderate | Beta 0.34, ATR nan% of price, short float 2.54%. |
+| Value attractiveness | Reasonable | Forward P/E 17.49, EV/Sales 5.75. |
+| Risk level | Moderate | Beta 0.34, ATR 1.6% of price, short float 2.54%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
@@ -35,22 +35,22 @@ Duke Energy Corporation, through its subsidiaries, operates as an energy company
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $131.16 (+nan%); 52w low $111.09 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 62.2 (neutral) |
-| Volatility | ATR(14) 1.86 (~nan% of price); beta 0.34 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $125.40; 52w high $131.16 (-4.39%); 52w low $111.09 (+12.88%) |
+| Trend | +2.21% vs SMA200, +5.46% vs SMA50, +7.00% vs SMA20 |
+| Momentum | RSI(14) 70.0 (neutral) |
+| Volatility | ATR(14) 2.02 (~1.6% of price); beta 0.34 |
+| Setup perspective | -4.39% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | +5.5% |
+| Month | +9.8% |
+| Quarter | -3.1% |
+| Half Y | -0.3% |
+| 1Y | +1.1% |
+| YTD | +9.6% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -59,8 +59,8 @@ Duke Energy Corporation, through its subsidiaries, operates as an energy company
 | Revenue (ttm) | $32.80B | Revenue growth 1.10% y/y |
 | Profitability | Gross 51.97%, operating 27.50%, net 16.00% | ROA 2.84%, ROE 9.86% |
 | Balance sheet | Cash $673.00M, debt $92.21B | Current ratio 0.66, debt/equity 162.16 |
-| Valuation | P/E 18.17, forward P/E 16.83, P/S 2.87, P/B 1.75 | EV/Sales 5.75, EV/EBITDA 11.36 |
-| Growth expectations | Earnings growth 10.60%, EPS q/q 11.00% | Analyst mean target $132.83 (18 analysts) |
+| Valuation | P/E 18.89, forward P/E 17.49, P/S 2.98, P/B 1.82 | EV/Sales 5.75, EV/EBITDA 11.36 |
+| Growth expectations | Earnings growth 10.60%, EPS q/q 11.00% | Analyst mean target $132.32 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
@@ -86,6 +86,7 @@ Duke Energy Corporation, through its subsidiaries, operates as an energy company
 | Charles Schwab Investment Management, Inc. | 9,226,192 | 1.18% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
+- **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -100,25 +101,26 @@ Duke Energy Corporation, through its subsidiaries, operates as an energy company
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 5.75 |
-| Market cap | $94.09B | EV/EBITDA | 11.36 |
+| Price | $125.40 | EV/Sales | 5.75 |
+| Market cap | $97.77B | EV/EBITDA | 11.36 |
 | Beta | 0.34 | Gross margin | 51.97% |
-| RSI(14) | 62.2 | Operating margin | 27.50% |
-| ATR(14) | 1.86 | Profit margin | 16.00% |
-| SMA20 dist | +nan% | ROA | 2.84% |
-| SMA50 dist | +nan% | ROE | 9.86% |
-| SMA200 dist | +nan% | Revenue (ttm) | $32.80B |
+| RSI(14) | 70.0 | Operating margin | 27.50% |
+| ATR(14) | 2.02 | Profit margin | 16.00% |
+| SMA20 dist | +7.00% | ROA | 2.84% |
+| SMA50 dist | +5.46% | ROE | 9.86% |
+| SMA200 dist | +2.21% | Revenue (ttm) | $32.80B |
 | 52W high | $131.16 | Revenue growth y/y | 1.10% |
 | 52W low | $111.09 | Inst. ownership | 71.09% |
-| P/E (ttm) | 18.17 | Insider ownership | 0.13% |
-| Forward P/E | 16.83 | Short float | 2.54% |
-| PEG (trailing) | 2.13 | Avg volume | 4,137,262 |
-| P/S | 2.87 | Employees | 26,441 |
-| P/B | 1.75 | Analyst rec (1=buy..5=sell) | 2.0 |
+| P/E (ttm) | 18.89 | Insider ownership | 0.13% |
+| Forward P/E | 17.49 | Short float | 2.54% |
+| PEG (trailing) | 2.13 | Avg volume | 4,133,910 |
+| P/S | 2.98 | Employees | 26,441 |
+| P/B | 1.82 | Analyst rec (1=buy..5=sell) | 2.1 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-10-22 | init | HSBC | — → Hold |
 | 2026-10-21 | main | Morgan Stanley | Equal-Weight → Equal-Weight |
 | 2026-10-13 | main | JP Morgan | Neutral → Neutral |
 | 2026-10-13 | main | Keybanc | Overweight → Overweight |
@@ -126,7 +128,6 @@ Duke Energy Corporation, through its subsidiaries, operates as an energy company
 | 2026-10-09 | main | Barclays | Overweight → Overweight |
 | 2026-09-18 | main | Morgan Stanley | Equal-Weight → Equal-Weight |
 | 2026-08-21 | main | Morgan Stanley | Equal-Weight → Equal-Weight |
-| 2026-08-17 | main | Truist Securities | Buy → Buy |
 
 ## 9. Conclusion
 DUK: Moderate momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
