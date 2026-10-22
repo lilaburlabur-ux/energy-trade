@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-10-22T03:49:56+00:00",
-  "as_of_local": "2026-10-22 03:49:56 UTC",
+  "as_of_utc": "2026-10-22T04:05:18+00:00",
+  "as_of_local": "2026-10-22 04:05:18 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "HAL"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -66,7 +64,7 @@
       "price": 78.28,
       "previous_close": 78.86,
       "change_pct": -0.74,
-      "market_cap": 163261184878.33502,
+      "market_cap": 163290371654.15988,
       "headlines": []
     },
     {
@@ -75,7 +73,7 @@
       "price": 393.94,
       "previous_close": 381.98,
       "change_pct": 3.13,
-      "market_cap": 152966902947.99805,
+      "market_cap": 153006296948.2422,
       "headlines": []
     },
     {
@@ -84,7 +82,7 @@
       "price": 467.98,
       "previous_close": 475.04,
       "change_pct": -1.49,
-      "market_cap": 136620509654.61166,
+      "market_cap": 131420375673.97299,
       "headlines": []
     },
     {
@@ -183,7 +181,7 @@
       "price": 157.88,
       "previous_close": 157.91,
       "change_pct": -0.02,
-      "market_cap": 84091394917.12524,
+      "market_cap": 82812668868.05762,
       "headlines": []
     },
     {
@@ -354,7 +352,7 @@
       "price": 71.0,
       "previous_close": 70.86,
       "change_pct": 0.2,
-      "market_cap": 35380819542.0,
+      "market_cap": 35387822130.0,
       "headlines": []
     },
     {
@@ -364,6 +362,15 @@
       "previous_close": 54.82,
       "change_pct": -1.37,
       "market_cap": 33821649929.107666,
+      "headlines": []
+    },
+    {
+      "symbol": "HAL",
+      "name": "Halliburton",
+      "price": 33.99,
+      "previous_close": 33.59,
+      "change_pct": 1.19,
+      "market_cap": 28318102572.71166,
       "headlines": []
     },
     {
@@ -480,7 +487,7 @@
       "price": 29.17,
       "previous_close": 28.23,
       "change_pct": 3.33,
-      "market_cap": 8846559922.18812,
+      "market_cap": 8754256153.3167,
       "headlines": []
     },
     {
@@ -498,7 +505,7 @@
       "price": 85.49,
       "previous_close": 79.34,
       "change_pct": 7.75,
-      "market_cap": 6128388368.9333725,
+      "market_cap": 6113569618.193665,
       "headlines": []
     },
     {
@@ -525,7 +532,7 @@
       "price": 31.99,
       "previous_close": 32.23,
       "change_pct": -0.74,
-      "market_cap": 4216225027.6337814,
+      "market_cap": 4227307259.2744904,
       "headlines": []
     },
     {
@@ -561,7 +568,7 @@
       "price": 8.2,
       "previous_close": 8.21,
       "change_pct": -0.12,
-      "market_cap": 2049712952.32296,
+      "market_cap": 2171143239.898449,
       "headlines": []
     },
     {
@@ -816,18 +823,18 @@
     },
     {
       "label": "WTI",
-      "price": 98.51,
-      "change_pct": -3.22
+      "price": 97.15,
+      "change_pct": -4.56
     },
     {
       "label": "Brent",
-      "price": 110.67,
-      "change_pct": 1.73
+      "price": 108.82,
+      "change_pct": 0.03
     },
     {
       "label": "NatGas",
-      "price": 2.75,
-      "change_pct": -7.09
+      "price": 2.79,
+      "change_pct": -5.84
     }
   ]
 }
