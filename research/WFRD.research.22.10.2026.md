@@ -18,7 +18,7 @@ Signed file: `WFRD.research.22.10.2026`
 | Technical momentum | Low | Below SMA200 (-12.41%) with negative half-year (-20.68%). |
 | Fresh setup quality | Poor / broken | -26.91% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 8.64%, revenue growth -7.20%. |
-| Value attractiveness | Reasonable | Forward P/E 11.47, EV/Sales 1.38. |
+| Value attractiveness | Reasonable | Forward P/E 11.94, EV/Sales 1.38. |
 | Risk level | Elevated | Beta 1.05, ATR 4.2% of price, short float 6.64%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
@@ -59,7 +59,7 @@ Weatherford International plc, an energy services company, provides equipment an
 | Revenue (ttm) | $4.69B | Revenue growth -7.20% y/y |
 | Profitability | Gross 31.31%, operating 14.44%, net 8.64% | ROA 8.18%, ROE 23.32% |
 | Balance sheet | Cash $1.16B, debt $1.48B | Current ratio 2.79, debt/equity 74.30 |
-| Valuation | P/E 15.79, forward P/E 11.47, P/S 1.24, P/B 3.26 | EV/Sales 1.38, EV/EBITDA 6.92 |
+| Valuation | P/E 16.01, forward P/E 11.94, P/S 1.24, P/B 3.26 | EV/Sales 1.38, EV/EBITDA 6.92 |
 | Growth expectations | Earnings growth 48.20%, EPS q/q 48.10% | Analyst mean target $112.92 (12 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -113,8 +113,8 @@ Weatherford International plc, an energy services company, provides equipment an
 | SMA200 dist | -12.41% | Revenue (ttm) | $4.69B |
 | 52W high | $111.07 | Revenue growth y/y | -7.20% |
 | 52W low | $66.36 | Inst. ownership | 106.54% |
-| P/E (ttm) | 15.79 | Insider ownership | 2.12% |
-| Forward P/E | 11.47 | Short float | 6.64% |
+| P/E (ttm) | 16.01 | Insider ownership | 2.12% |
+| Forward P/E | 11.94 | Short float | 6.64% |
 | PEG (trailing) | 1.29 | Avg volume | 974,909 |
 | P/S | 1.24 | Employees | 16,700 |
 | P/B | 3.26 | Analyst rec (1=buy..5=sell) | 1.7 |
