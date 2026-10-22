@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-22T08:08:45+00:00",
+  "as_of": "2026-10-22T08:23:55+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,11 +11,11 @@
    "rank": 1,
    "ticker": "BE",
    "company": "Bloom Energy Corporation",
-   "move_pct": -6.09,
-   "price": 224.0,
+   "move_pct": -6.26,
+   "price": 223.6,
    "volume": 12291000,
    "volume_vs_avg": "~0.8x",
-   "heat_score": 40,
+   "heat_score": 41,
    "direction": "down",
    "why": "Is Bloom Energy (BE) A Bargain As AI Power Demand Puts Focus On Q3 Earnings?",
    "catalyst_type": "earnings",
