@@ -18,7 +18,7 @@ Signed file: `NXT.research.22.10.2026`
 | Technical momentum | Low | Below SMA200 (-27.66%) with negative half-year (-37.58%). |
 | Fresh setup quality | Poor / broken | -50.36% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 16.36%, revenue growth 8.20%. |
-| Value attractiveness | Reasonable | Forward P/E 13.64, EV/Sales 3.09. |
+| Value attractiveness | Reasonable | Forward P/E 13.66, EV/Sales 2.92. |
 | Risk level | High | Beta 1.94, ATR 5.5% of price, short float 8.80%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: high.
@@ -59,7 +59,7 @@ Nextpower Inc. provides solar and energy technology solutions for utility-scale 
 | Revenue (ttm) | $3.63B | Revenue growth 8.20% y/y |
 | Profitability | Gross 22.98%, operating 20.86%, net 16.36% | ROA 11.68%, ROE 27.22% |
 | Balance sheet | Cash $1.21B, debt $38.40M | Current ratio 2.69, debt/equity 1.50 |
-| Valuation | P/E 20.06, forward P/E 13.64, P/S 3.29, P/B 4.60 | EV/Sales 3.09, EV/EBITDA 15.00 |
+| Valuation | P/E 20.06, forward P/E 13.66, P/S 3.29, P/B 4.60 | EV/Sales 2.92, EV/EBITDA 14.16 |
 | Growth expectations | Earnings growth 2.90%, EPS q/q 5.20% | Analyst mean target $132.11 (28 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -103,8 +103,8 @@ Nextpower Inc. provides solar and energy technology solutions for utility-scale 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $77.63 | EV/Sales | 3.09 |
-| Market cap | $11.93B | EV/EBITDA | 15.00 |
+| Price | $77.63 | EV/Sales | 2.92 |
+| Market cap | $11.93B | EV/EBITDA | 14.16 |
 | Beta | 1.94 | Gross margin | 22.98% |
 | RSI(14) | 41.1 | Operating margin | 20.86% |
 | ATR(14) | 4.27 | Profit margin | 16.36% |
@@ -114,7 +114,7 @@ Nextpower Inc. provides solar and energy technology solutions for utility-scale 
 | 52W high | $156.40 | Revenue growth y/y | 8.20% |
 | 52W low | $77.63 | Inst. ownership | 107.65% |
 | P/E (ttm) | 20.06 | Insider ownership | 0.64% |
-| Forward P/E | 13.64 | Short float | 8.80% |
+| Forward P/E | 13.66 | Short float | 8.80% |
 | PEG (trailing) | 3.15 | Avg volume | 2,303,965 |
 | P/S | 3.29 | Employees | 1,993 |
 | P/B | 4.60 | Analyst rec (1=buy..5=sell) | 1.4 |

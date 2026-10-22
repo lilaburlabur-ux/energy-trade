@@ -5,7 +5,7 @@ Signed file: `ARRY.research.22.10.2026`
 | Field | Value |
 |---|---|
 | Current price | $3.30 (2026-10-22, ~15-min delayed) |
-| Market cap | $508.23M |
+| Market cap | $507.63M |
 | Sector / Industry | Technology / Solar |
 | Main theme | Solar — see catalysts below |
 | Current stance | Low technical momentum, weak fundamentals, value: reasonable, risk: high. |
@@ -18,7 +18,7 @@ Signed file: `ARRY.research.22.10.2026`
 | Technical momentum | Low | Below SMA200 (-53.40%) with negative half-year (-59.31%). |
 | Fresh setup quality | Poor / broken | -72.41% from 52w high — base needs to rebuild. |
 | Fundamental quality | Weak | Negative profit margin (-7.25%). |
-| Value attractiveness | Reasonable | Forward P/E 3.54, EV/Sales 1.24. |
+| Value attractiveness | Reasonable | Forward P/E 3.54, EV/Sales 1.23. |
 | Risk level | High | Beta 1.81, ATR 6.4% of price, short float 31.44%. |
 
 **Bottom line:** Low technical momentum, weak fundamentals, value: reasonable, risk: high.
@@ -59,7 +59,7 @@ Array Technologies, Inc. engages in the manufacture and sale of solar tracking t
 | Revenue (ttm) | $1.19B | Revenue growth -5.60% y/y |
 | Profitability | Gross 26.76%, operating 10.88%, net -7.25% | ROA 3.33%, ROE -25.98% |
 | Balance sheet | Cash $307.30M, debt $752.89M | Current ratio 2.20, debt/equity 254.27 |
-| Valuation | P/E —, forward P/E 3.54, P/S 0.43, P/B -2.52 | EV/Sales 1.24, EV/EBITDA 12.31 |
+| Valuation | P/E —, forward P/E 3.54, P/S 0.43, P/B -2.52 | EV/Sales 1.23, EV/EBITDA 12.16 |
 | Growth expectations | Earnings growth -73.20%, EPS q/q -43.70% | Analyst mean target $7.26 (22 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -104,8 +104,8 @@ Array Technologies, Inc. engages in the manufacture and sale of solar tracking t
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $3.30 | EV/Sales | 1.24 |
-| Market cap | $508.23M | EV/EBITDA | 12.31 |
+| Price | $3.30 | EV/Sales | 1.23 |
+| Market cap | $507.63M | EV/EBITDA | 12.16 |
 | Beta | 1.81 | Gross margin | 26.76% |
 | RSI(14) | 34.5 | Operating margin | 10.88% |
 | ATR(14) | 0.21 | Profit margin | -7.25% |

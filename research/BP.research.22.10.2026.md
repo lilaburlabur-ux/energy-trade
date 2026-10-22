@@ -18,7 +18,7 @@ Signed file: `BP.research.22.10.2026`
 | Technical momentum | Moderate | 1Y +58.71%; price +19.51% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -0.32% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 2.55%, revenue growth 48.20%. |
-| Value attractiveness | Reasonable | Forward P/E 8.72, EV/Sales 2.64. |
+| Value attractiveness | Reasonable | Forward P/E 8.72, EV/Sales 2.65. |
 | Risk level | Moderate | Beta -0.20, ATR 2.3% of price, short float 0.23%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -59,7 +59,7 @@ BP p.l.c., an integrated energy company, engages in the oil and gas business wor
 | Revenue (ttm) | $215.47B | Revenue growth 48.20% y/y |
 | Profitability | Gross 28.30%, operating 13.15%, net 2.55% | ROA 5.04%, ROE 8.87% |
 | Balance sheet | Cash $37.23B, debt $72.69B | Current ratio 1.27, debt/equity 95.12 |
-| Valuation | P/E 24.41, forward P/E 8.72, P/S 0.60, P/B 8.86 | EV/Sales 2.64, EV/EBITDA 14.52 |
+| Valuation | P/E 24.41, forward P/E 8.72, P/S 0.60, P/B 8.86 | EV/Sales 2.65, EV/EBITDA 14.58 |
 | Growth expectations | Earnings growth 138.90%, EPS q/q 140.10% | Analyst mean target $53.48 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -101,8 +101,8 @@ BP p.l.c., an integrated energy company, engages in the oil and gas business wor
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $50.05 | EV/Sales | 2.64 |
-| Market cap | $128.91B | EV/EBITDA | 14.52 |
+| Price | $50.05 | EV/Sales | 2.65 |
+| Market cap | $128.91B | EV/EBITDA | 14.58 |
 | Beta | -0.20 | Gross margin | 28.30% |
 | RSI(14) | 70.0 | Operating margin | 13.15% |
 | ATR(14) | 1.14 | Profit margin | 2.55% |

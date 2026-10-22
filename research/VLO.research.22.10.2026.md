@@ -18,7 +18,7 @@ Signed file: `VLO.research.22.10.2026`
 | Technical momentum | High | 1Y +176.06%; price +53.35% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -7.29% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 5.45%, revenue growth 51.70%. |
-| Value attractiveness | Reasonable | Forward P/E 8.66, EV/Sales 1.00. |
+| Value attractiveness | Reasonable | Forward P/E 8.50, EV/Sales 1.00. |
 | Risk level | Elevated | Beta 0.59, ATR 4.0% of price, short float 3.63%. |
 
 **Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
@@ -59,7 +59,7 @@ Valero Energy Corporation manufactures, markets, and sells petroleum-based and l
 | Revenue (ttm) | $132.43B | Revenue growth 51.70% y/y |
 | Profitability | Gross 16.12%, operating 12.27%, net 5.45% | ROA 10.56%, ROE 27.64% |
 | Balance sheet | Cash $7.87B, debt $11.35B | Current ratio 1.64, debt/equity 40.15 |
-| Valuation | P/E 17.77, forward P/E 8.66, P/S 0.93, P/B 4.91 | EV/Sales 1.00, EV/EBITDA 9.90 |
+| Valuation | P/E 17.77, forward P/E 8.50, P/S 0.93, P/B 4.91 | EV/Sales 1.00, EV/EBITDA 9.90 |
 | Growth expectations | Earnings growth 453.50%, EPS q/q 421.00% | Analyst mean target $420.74 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -113,7 +113,7 @@ Valero Energy Corporation manufactures, markets, and sells petroleum-based and l
 | 52W high | $459.78 | Revenue growth y/y | 51.70% |
 | 52W low | $158.51 | Inst. ownership | 87.00% |
 | P/E (ttm) | 17.77 | Insider ownership | 0.42% |
-| Forward P/E | 8.66 | Short float | 3.63% |
+| Forward P/E | 8.50 | Short float | 3.63% |
 | PEG (trailing) | 1.85 | Avg volume | 2,923,779 |
 | P/S | 0.93 | Employees | 9,785 |
 | P/B | 4.91 | Analyst rec (1=buy..5=sell) | 2.5 |

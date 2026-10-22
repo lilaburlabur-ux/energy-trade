@@ -5,7 +5,7 @@ Signed file: `HAL.research.22.10.2026`
 | Field | Value |
 |---|---|
 | Current price | $33.19 (2026-10-22, ~15-min delayed) |
-| Market cap | $27.73B |
+| Market cap | $27.65B |
 | Sector / Industry | Energy / Oil & Gas Equipment & Services |
 | Main theme | Oil & Gas Equipment & Services — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -18,7 +18,7 @@ Signed file: `HAL.research.22.10.2026`
 | Technical momentum | Low | Below SMA200 (-6.48%) with negative half-year (-15.55%). |
 | Fresh setup quality | Moderate / wait | -22.09% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 8.90%, revenue growth 1.80%. |
-| Value attractiveness | Reasonable | Forward P/E 11.26, EV/Sales 1.54. |
+| Value attractiveness | Reasonable | Forward P/E 11.26, EV/Sales 1.51. |
 | Risk level | Moderate | Beta —, ATR 2.9% of price, short float 5.55%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -59,7 +59,7 @@ Halliburton Company provides products and services to the energy industry worldw
 | Revenue (ttm) | $22.48B | Revenue growth 1.80% y/y |
 | Profitability | Gross 14.97%, operating 10.94%, net 8.90% | ROA 8.67%, ROE 18.78% |
 | Balance sheet | Cash $1.84B, debt $8.20B | Current ratio 2.02, debt/equity 73.45 |
-| Valuation | P/E 17.47, forward P/E 11.26, P/S 1.23, P/B 2.48 | EV/Sales 1.54, EV/EBITDA 7.33 |
+| Valuation | P/E 17.47, forward P/E 11.26, P/S 1.23, P/B 2.48 | EV/Sales 1.51, EV/EBITDA 7.18 |
 | Growth expectations | Earnings growth 2400.00%, EPS q/q 2216.70% | Analyst mean target $43.68 (25 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -101,8 +101,8 @@ Halliburton Company provides products and services to the energy industry worldw
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $33.19 | EV/Sales | 1.54 |
-| Market cap | $27.73B | EV/EBITDA | 7.33 |
+| Price | $33.19 | EV/Sales | 1.51 |
+| Market cap | $27.65B | EV/EBITDA | 7.18 |
 | Beta | — | Gross margin | 14.97% |
 | RSI(14) | 49.5 | Operating margin | 10.94% |
 | ATR(14) | 0.95 | Profit margin | 8.90% |
