@@ -1,7 +1,7 @@
 {
  "meta": {
   "source": "Energy Trade curated universe (seed_energy_universe.py)",
-  "as_of": "2026-10-22 13:33 UTC",
+  "as_of": "2026-10-22 13:38 UTC",
   "total_tickers": 67,
   "min_bubble_size": 7,
   "render_spec": {
@@ -18,8 +18,8 @@
    "label": "Oil & Gas Majors",
    "color": "#E8A33D",
    "count": 8,
-   "total_market_cap_b": 2216.94,
-   "avg_change_pct": 0.92,
+   "total_market_cap_b": 2211.0,
+   "avg_change_pct": 0.65,
    "industries_included": [
     "Oil & Gas E&P",
     "Oil & Gas Integrated"
@@ -31,15 +31,15 @@
      "sector": "Energy",
      "industry": "Oil & Gas Integrated",
      "country": "United States",
-     "market_cap_b": 748.14,
-     "pe": 22.89,
-     "price": 179.8,
-     "change_pct": 0.96,
-     "volume": 290232,
+     "market_cap_b": 745.75,
+     "pe": 23.07,
+     "price": 179.23,
+     "change_pct": 0.64,
+     "volume": 487284,
      "perf": {
-      "1W": 2.8,
-      "1M": 11.3,
-      "1Y": 61.0
+      "1W": 2.6,
+      "1M": 11.2,
+      "1Y": 60.8
      },
      "spark": [
       154.44,
@@ -71,7 +71,7 @@
       177.01,
       178.98,
       177.86,
-      179.5
+      179.23
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
      "fwd_eps": 12.28
@@ -82,15 +82,15 @@
      "sector": "Energy",
      "industry": "Oil & Gas Integrated",
      "country": "United States",
-     "market_cap_b": 456.25,
-     "pe": 21.72,
-     "price": 228.43,
-     "change_pct": 0.73,
-     "volume": 353996,
+     "market_cap_b": 454.93,
+     "pe": 21.92,
+     "price": 227.77,
+     "change_pct": 0.44,
+     "volume": 446719,
      "perf": {
-      "1W": 4.0,
-      "1M": 11.0,
-      "1Y": 52.4
+      "1W": 3.9,
+      "1M": 10.8,
+      "1Y": 52.2
      },
      "spark": [
       195.13,
@@ -122,10 +122,10 @@
       222.04,
       224.99,
       225.71,
-      228.09
+      227.77
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
-     "fwd_eps": 15.71
+     "fwd_eps": 15.72
     },
     {
      "ticker": "SHEL",
@@ -133,15 +133,15 @@
      "sector": "Energy",
      "industry": "Oil & Gas Integrated",
      "country": "United Kingdom",
-     "market_cap_b": 297.3,
-     "pe": 11.63,
-     "price": 106.37,
-     "change_pct": 0.96,
-     "volume": 344454,
+     "market_cap_b": 296.82,
+     "pe": 11.72,
+     "price": 106.2,
+     "change_pct": 0.8,
+     "volume": 440768,
      "perf": {
-      "1W": 2.7,
-      "1M": 11.4,
-      "1Y": 48.0
+      "1W": 2.6,
+      "1M": 11.3,
+      "1Y": 47.8
      },
      "spark": [
       91.18,
@@ -173,10 +173,10 @@
       103.58,
       106.66,
       105.54,
-      106.33
+      106.2
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
-     "fwd_eps": 10.74
+     "fwd_eps": 10.75
     },
     {
      "ticker": "TTE",
@@ -184,15 +184,15 @@
      "sector": "Energy",
      "industry": "Oil & Gas Integrated",
      "country": "France",
-     "market_cap_b": 201.4,
-     "pe": 11.26,
-     "price": 91.16,
-     "change_pct": 0.91,
-     "volume": 67633,
+     "market_cap_b": 200.72,
+     "pe": 11.37,
+     "price": 90.85,
+     "change_pct": 0.56,
+     "volume": 102753,
      "perf": {
-      "1W": 3.0,
-      "1M": 0.6,
-      "1Y": 52.1
+      "1W": 2.7,
+      "1M": 0.3,
+      "1Y": 51.5
      },
      "spark": [
       86.84,
@@ -224,7 +224,7 @@
       89.64,
       91.34,
       90.08,
-      91.16
+      90.85
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
      "fwd_eps": 11.57
@@ -235,11 +235,11 @@
      "sector": "Energy",
      "industry": "Oil & Gas E&P",
      "country": "United States",
-     "market_cap_b": 178.68,
-     "pe": 19.33,
-     "price": 146.85,
-     "change_pct": 0.81,
-     "volume": 129539,
+     "market_cap_b": 178.42,
+     "pe": 19.42,
+     "price": 146.63,
+     "change_pct": 0.66,
+     "volume": 190309,
      "perf": {
       "1W": 3.5,
       "1M": 14.5,
@@ -286,15 +286,15 @@
      "sector": "Energy",
      "industry": "Oil & Gas Integrated",
      "country": "United Kingdom",
-     "market_cap_b": 125.43,
-     "pe": 24.09,
-     "price": 50.23,
-     "change_pct": 0.76,
-     "volume": 649519,
+     "market_cap_b": 125.19,
+     "pe": 24.46,
+     "price": 50.13,
+     "change_pct": 0.57,
+     "volume": 774173,
      "perf": {
-      "1W": 3.7,
-      "1M": 12.9,
-      "1Y": 53.9
+      "1W": 3.5,
+      "1M": 12.7,
+      "1Y": 53.6
      },
      "spark": [
       44.67,
@@ -326,7 +326,7 @@
       48.81,
       50.21,
       49.39,
-      50.22
+      50.13
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
      "fwd_eps": 5.74
@@ -337,15 +337,15 @@
      "sector": "Energy",
      "industry": "Oil & Gas Integrated",
      "country": "Norway",
-     "market_cap_b": 114.67,
-     "pe": 12.5,
-     "price": 46.81,
-     "change_pct": 1.5,
-     "volume": 227199,
+     "market_cap_b": 114.43,
+     "pe": 12.76,
+     "price": 46.71,
+     "change_pct": 1.28,
+     "volume": 290396,
      "perf": {
-      "1W": 4.1,
-      "1M": 9.0,
-      "1Y": 104.8
+      "1W": 4.0,
+      "1M": 8.9,
+      "1Y": 104.5
      },
      "spark": [
       40.7,
@@ -377,7 +377,7 @@
       45.29,
       46.98,
       45.76,
-      46.77
+      46.71
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
      "fwd_eps": 4.75
@@ -388,15 +388,15 @@
      "sector": "Energy",
      "industry": "Oil & Gas Integrated",
      "country": "Canada",
-     "market_cap_b": 95.07,
-     "pe": 14.47,
-     "price": 79.93,
-     "change_pct": 1.15,
-     "volume": 61970,
+     "market_cap_b": 94.75,
+     "pe": 14.7,
+     "price": 79.66,
+     "change_pct": 0.81,
+     "volume": 90340,
      "perf": {
-      "1W": 5.5,
-      "1M": 17.4,
-      "1Y": 108.4
+      "1W": 5.3,
+      "1M": 17.2,
+      "1Y": 108.1
      },
      "spark": [
       66.85,
@@ -428,22 +428,22 @@
       75.89,
       78.05,
       78.44,
-      79.79
+      79.66
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
      "fwd_eps": 6.95
     }
    ],
-   "median_change_pct": 0.94,
-   "pe_hm": 17.4
+   "median_change_pct": 0.65,
+   "pe_hm": 17.6
   },
   {
    "id": "shale_ep",
    "label": "Shale & E&P",
    "color": "#D97742",
    "count": 9,
-   "total_market_cap_b": 366.55,
-   "avg_change_pct": 0.57,
+   "total_market_cap_b": 366.9,
+   "avg_change_pct": 0.66,
    "industries_included": [
     "Oil & Gas E&P"
    ],
@@ -454,15 +454,15 @@
      "sector": "Energy",
      "industry": "Oil & Gas E&P",
      "country": "United States",
-     "market_cap_b": 84.7,
-     "pe": 12.29,
-     "price": 159.07,
-     "change_pct": 0.75,
-     "volume": 74517,
+     "market_cap_b": 84.84,
+     "pe": 12.4,
+     "price": 159.32,
+     "change_pct": 0.92,
+     "volume": 88605,
      "perf": {
-      "1W": 4.9,
-      "1M": 12.9,
-      "1Y": 54.5
+      "1W": 5.1,
+      "1M": 13.1,
+      "1Y": 54.8
      },
      "spark": [
       147.7,
@@ -494,10 +494,10 @@
       153.16,
       158.01,
       157.91,
-      159.07
+      159.32
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
-     "fwd_eps": 16.13
+     "fwd_eps": 16.15
     },
     {
      "ticker": "OXY",
@@ -505,15 +505,15 @@
      "sector": "Energy",
      "industry": "Oil & Gas E&P",
      "country": "United States",
-     "market_cap_b": 62.78,
-     "pe": 17.87,
-     "price": 63.25,
-     "change_pct": 0.88,
-     "volume": 597232,
+     "market_cap_b": 62.73,
+     "pe": 17.95,
+     "price": 63.2,
+     "change_pct": 0.8,
+     "volume": 688960,
      "perf": {
-      "1W": 4.1,
-      "1M": 10.1,
-      "1Y": 54.3
+      "1W": 4.2,
+      "1M": 10.2,
+      "1Y": 54.5
      },
      "spark": [
       56.81,
@@ -545,10 +545,10 @@
       61.41,
       62.38,
       62.92,
-      63.13
+      63.2
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
-     "fwd_eps": 4.95
+     "fwd_eps": 4.96
     },
     {
      "ticker": "DVN",
@@ -556,15 +556,15 @@
      "sector": "Energy",
      "industry": "Oil & Gas E&P",
      "country": "United States",
-     "market_cap_b": 58.35,
-     "pe": 10.98,
+     "market_cap_b": 58.34,
+     "pe": 10.95,
      "price": 50.26,
-     "change_pct": 0.78,
-     "volume": 164131,
+     "change_pct": 0.77,
+     "volume": 291262,
      "perf": {
-      "1W": 1.8,
-      "1M": 4.4,
-      "1Y": 58.7
+      "1W": 2.1,
+      "1M": 4.6,
+      "1Y": 59.0
      },
      "spark": [
       44.84,
@@ -596,10 +596,10 @@
       49.92,
       50.73,
       50.38,
-      50.15
+      50.26
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
-     "fwd_eps": 5.38
+     "fwd_eps": 5.39
     },
     {
      "ticker": "FANG",
@@ -607,15 +607,15 @@
      "sector": "Energy",
      "industry": "Oil & Gas E&P",
      "country": "United States",
-     "market_cap_b": 56.93,
-     "pe": 38.56,
-     "price": 201.53,
-     "change_pct": 0.3,
-     "volume": 22864,
+     "market_cap_b": 57.04,
+     "pe": 38.46,
+     "price": 201.93,
+     "change_pct": 0.5,
+     "volume": 27538,
      "perf": {
-      "1W": 3.0,
-      "1M": 8.5,
-      "1Y": 45.0
+      "1W": 3.2,
+      "1M": 8.8,
+      "1Y": 45.3
      },
      "spark": [
       201.84,
@@ -647,7 +647,7 @@
       197.51,
       203.95,
       202.42,
-      201.47
+      201.93
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
      "fwd_eps": 19.08
@@ -659,14 +659,14 @@
      "industry": "Oil & Gas E&P",
      "country": "United States",
      "market_cap_b": 33.82,
-     "pe": 12.72,
-     "price": 54.07,
-     "change_pct": 0.0,
-     "volume": 133508,
+     "pe": 12.55,
+     "price": 54.08,
+     "change_pct": 0.01,
+     "volume": 171997,
      "perf": {
-      "1W": 2.9,
-      "1M": 5.7,
-      "1Y": 2.0
+      "1W": 3.1,
+      "1M": 5.9,
+      "1Y": 2.3
      },
      "spark": [
       53.12,
@@ -698,7 +698,7 @@
       52.75,
       54.3,
       54.82,
-      53.95
+      54.08
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
      "fwd_eps": 3.62
@@ -709,15 +709,15 @@
      "sector": "Energy",
      "industry": "Oil & Gas E&P",
      "country": "United States",
-     "market_cap_b": 20.87,
-     "pe": 16.34,
-     "price": 24.9,
-     "change_pct": 0.24,
-     "volume": 74633,
+     "market_cap_b": 20.9,
+     "pe": 16.41,
+     "price": 24.94,
+     "change_pct": 0.4,
+     "volume": 112275,
      "perf": {
-      "1W": 5.4,
-      "1M": 14.8,
-      "1Y": 106.0
+      "1W": 5.6,
+      "1M": 15.0,
+      "1Y": 106.5
      },
      "spark": [
       21.17,
@@ -749,10 +749,10 @@
       24.06,
       24.59,
       24.84,
-      24.88
+      24.94
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
-     "fwd_eps": 2.43
+     "fwd_eps": 2.42
     },
     {
      "ticker": "OVV",
@@ -760,15 +760,15 @@
      "sector": "Energy",
      "industry": "Oil & Gas E&P",
      "country": "United States",
-     "market_cap_b": 19.43,
-     "pe": 19.58,
-     "price": 70.19,
-     "change_pct": 0.47,
-     "volume": 16418,
+     "market_cap_b": 19.5,
+     "pe": 19.62,
+     "price": 70.44,
+     "change_pct": 0.83,
+     "volume": 68740,
      "perf": {
-      "1W": 6.1,
-      "1M": 17.5,
-      "1Y": 96.4
+      "1W": 6.5,
+      "1M": 17.9,
+      "1Y": 97.1
      },
      "spark": [
       62.17,
@@ -800,7 +800,7 @@
       66.75,
       69.33,
       70.29,
-      70.19
+      70.44
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
      "fwd_eps": 8.11
@@ -811,15 +811,15 @@
      "sector": "Energy",
      "industry": "Oil & Gas E&P",
      "country": "United States",
-     "market_cap_b": 17.73,
-     "pe": 10.55,
-     "price": 49.85,
-     "change_pct": 0.44,
-     "volume": 136331,
+     "market_cap_b": 17.76,
+     "pe": 10.56,
+     "price": 49.94,
+     "change_pct": 0.62,
+     "volume": 186324,
      "perf": {
-      "1W": 5.2,
-      "1M": 13.7,
-      "1Y": 122.1
+      "1W": 5.7,
+      "1M": 14.3,
+      "1Y": 123.3
      },
      "spark": [
       37.32,
@@ -851,7 +851,7 @@
       47.37,
       49.15,
       49.9,
-      49.68
+      49.94
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
      "fwd_eps": 5.17
@@ -863,13 +863,13 @@
      "industry": "Oil & Gas E&P",
      "country": "United States",
      "market_cap_b": 11.94,
-     "pe": 11.16,
+     "pe": 11.12,
      "price": 38.69,
      "change_pct": 0.45,
-     "volume": 30283,
+     "volume": 40370,
      "perf": {
       "1W": 6.2,
-      "1M": 8.6,
+      "1M": 8.5,
       "1Y": 20.6
      },
      "spark": [
@@ -902,22 +902,22 @@
       36.63,
       38.65,
       38.83,
-      38.7
+      38.69
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
      "fwd_eps": 4.67
     }
    ],
-   "median_change_pct": 0.45,
-   "pe_hm": 14.7
+   "median_change_pct": 0.62,
+   "pe_hm": 14.8
   },
   {
    "id": "oilfield_services",
    "label": "Oilfield Services",
    "color": "#A67C52",
    "count": 6,
-   "total_market_cap_b": 199.37,
-   "avg_change_pct": -0.65,
+   "total_market_cap_b": 198.6,
+   "avg_change_pct": -1.04,
    "industries_included": [
     "Oil & Gas Equipment & Services"
    ],
@@ -928,15 +928,15 @@
      "sector": "Energy",
      "industry": "Oil & Gas Equipment & Services",
      "country": "United States",
-     "market_cap_b": 75.93,
-     "pe": 24.14,
-     "price": 50.83,
-     "change_pct": -0.53,
-     "volume": 226621,
+     "market_cap_b": 75.65,
+     "pe": 24.47,
+     "price": 50.65,
+     "change_pct": -0.89,
+     "volume": 465278,
      "perf": {
-      "1W": 5.2,
-      "1M": -1.9,
-      "1Y": 49.4
+      "1W": 4.7,
+      "1M": -2.4,
+      "1Y": 48.7
      },
      "spark": [
       49.33,
@@ -968,7 +968,7 @@
       48.51,
       49.5,
       49.98,
-      50.9
+      50.65
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
      "fwd_eps": 3.15
@@ -979,15 +979,15 @@
      "sector": "Energy",
      "industry": "Oil & Gas Equipment & Services",
      "country": "United States",
-     "market_cap_b": 55.0,
-     "pe": 17.89,
-     "price": 55.4,
-     "change_pct": -1.06,
-     "volume": 71263,
+     "market_cap_b": 54.8,
+     "pe": 17.75,
+     "price": 55.2,
+     "change_pct": -1.43,
+     "volume": 99352,
      "perf": {
-      "1W": 1.7,
-      "1M": -4.7,
-      "1Y": 18.8
+      "1W": 1.5,
+      "1M": -4.9,
+      "1Y": 18.5
      },
      "spark": [
       60.27,
@@ -1019,10 +1019,10 @@
       55.37,
       55.7,
       55.65,
-      55.33
+      55.2
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
-     "fwd_eps": 2.93
+     "fwd_eps": 2.94
     },
     {
      "ticker": "HAL",
@@ -1030,15 +1030,15 @@
      "sector": "Energy",
      "industry": "Oil & Gas Equipment & Services",
      "country": "United States",
-     "market_cap_b": 28.8,
-     "pe": 17.68,
-     "price": 34.14,
-     "change_pct": 0.44,
-     "volume": 290094,
+     "market_cap_b": 28.76,
+     "pe": 17.94,
+     "price": 34.1,
+     "change_pct": 0.31,
+     "volume": 413660,
      "perf": {
-      "1W": 4.0,
-      "1M": 3.6,
-      "1Y": 32.6
+      "1W": 3.7,
+      "1M": 3.3,
+      "1Y": 32.2
      },
      "spark": [
       32.1,
@@ -1070,7 +1070,7 @@
       32.83,
       33.5,
       33.59,
-      34.19
+      34.1
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
      "fwd_eps": 2.95
@@ -1081,15 +1081,15 @@
      "sector": "Energy",
      "industry": "Oil & Gas Equipment & Services",
      "country": "United Kingdom",
-     "market_cap_b": 27.02,
-     "pe": 24.02,
-     "price": 69.32,
-     "change_pct": -0.96,
-     "volume": 28592,
+     "market_cap_b": 26.79,
+     "pe": 23.95,
+     "price": 68.74,
+     "change_pct": -1.8,
+     "volume": 36669,
      "perf": {
-      "1W": 1.6,
-      "1M": -2.7,
-      "1Y": 85.4
+      "1W": 0.7,
+      "1M": -3.5,
+      "1Y": 83.9
      },
      "spark": [
       71.62,
@@ -1121,7 +1121,7 @@
       69.5,
       69.67,
       68.93,
-      69.32
+      68.74
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
      "fwd_eps": 3.63
@@ -1132,15 +1132,15 @@
      "sector": "Energy",
      "industry": "Oil & Gas Equipment & Services",
      "country": "United States",
-     "market_cap_b": 6.65,
-     "pe": 70.22,
-     "price": 19.16,
-     "change_pct": -0.59,
-     "volume": 39973,
+     "market_cap_b": 6.64,
+     "pe": 70.85,
+     "price": 19.13,
+     "change_pct": -0.73,
+     "volume": 48175,
      "perf": {
-      "1W": 2.8,
-      "1M": -5.5,
-      "1Y": 47.3
+      "1W": 2.6,
+      "1M": -5.7,
+      "1Y": 47.1
      },
      "spark": [
       19.35,
@@ -1172,7 +1172,7 @@
       18.75,
       18.93,
       18.96,
-      19.16
+      19.13
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
      "fwd_eps": 1.28
@@ -1183,15 +1183,15 @@
      "sector": "Energy",
      "industry": "Oil & Gas Equipment & Services",
      "country": "United States",
-     "market_cap_b": 5.97,
-     "pe": 15.44,
-     "price": 83.44,
-     "change_pct": -2.39,
-     "volume": 24885,
+     "market_cap_b": 5.95,
+     "pe": 16.17,
+     "price": 83.1,
+     "change_pct": -2.8,
+     "volume": 57815,
      "perf": {
-      "1W": 11.5,
-      "1M": -1.2,
-      "1Y": 26.0
+      "1W": 10.8,
+      "1M": -1.8,
+      "1Y": 25.2
      },
      "spark": [
       87.51,
@@ -1223,22 +1223,22 @@
       75.45,
       76.19,
       79.34,
-      83.64
+      83.1
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
-     "fwd_eps": 7.11
+     "fwd_eps": 7.08
     }
    ],
-   "median_change_pct": -0.77,
-   "pe_hm": 21.1
+   "median_change_pct": -1.16,
+   "pe_hm": 21.2
   },
   {
    "id": "midstream_lng",
    "label": "Midstream & LNG",
    "color": "#C9A227",
    "count": 8,
-   "total_market_cap_b": 551.8,
-   "avg_change_pct": 0.21,
+   "total_market_cap_b": 551.0,
+   "avg_change_pct": 0.06,
    "industries_included": [
     "Oil & Gas Midstream"
    ],
@@ -1249,15 +1249,15 @@
      "sector": "Energy",
      "industry": "Oil & Gas Midstream",
      "country": "United States",
-     "market_cap_b": 88.19,
-     "pe": 28.02,
-     "price": 72.19,
-     "change_pct": -0.84,
-     "volume": 182844,
+     "market_cap_b": 88.15,
+     "pe": 28.75,
+     "price": 72.15,
+     "change_pct": -0.89,
+     "volume": 282055,
      "perf": {
-      "1W": 4.4,
-      "1M": 1.6,
-      "1Y": 19.8
+      "1W": 4.2,
+      "1M": 1.5,
+      "1Y": 19.6
      },
      "spark": [
       71.02,
@@ -1289,7 +1289,7 @@
       72.8,
       71.28,
       70.33,
-      72.26
+      72.15
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
      "fwd_eps": 2.65
@@ -1300,11 +1300,11 @@
      "sector": "Energy",
      "industry": "Oil & Gas Midstream",
      "country": "United States",
-     "market_cap_b": 80.75,
-     "pe": 12.84,
-     "price": 36.61,
-     "change_pct": 0.05,
-     "volume": 84284,
+     "market_cap_b": 80.73,
+     "pe": 12.71,
+     "price": 36.6,
+     "change_pct": 0.03,
+     "volume": 134451,
      "perf": {
       "1W": 2.9,
       "1M": -2.6,
@@ -1351,15 +1351,15 @@
      "sector": "Energy",
      "industry": "Oil & Gas Midstream",
      "country": "United States",
-     "market_cap_b": 70.15,
-     "pe": 21.66,
-     "price": 33.92,
-     "change_pct": -0.13,
-     "volume": 911928,
+     "market_cap_b": 69.86,
+     "pe": 20.85,
+     "price": 33.78,
+     "change_pct": -0.56,
+     "volume": 1571156,
      "perf": {
-      "1W": 3.4,
-      "1M": 8.1,
-      "1Y": 28.0
+      "1W": 2.9,
+      "1M": 7.7,
+      "1Y": 27.5
      },
      "spark": [
       31.88,
@@ -1391,7 +1391,7 @@
       33.35,
       34.2,
       33.57,
-      33.92
+      33.78
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
      "fwd_eps": 1.55
@@ -1402,15 +1402,15 @@
      "sector": "Energy",
      "industry": "Oil & Gas Midstream",
      "country": "United States",
-     "market_cap_b": 69.42,
-     "pe": 13.39,
-     "price": 20.21,
-     "change_pct": 0.4,
-     "volume": 130153,
+     "market_cap_b": 69.23,
+     "pe": 13.8,
+     "price": 20.16,
+     "change_pct": 0.12,
+     "volume": 215280,
      "perf": {
-      "1W": 1.6,
-      "1M": -3.4,
-      "1Y": 28.3
+      "1W": 1.4,
+      "1M": -3.6,
+      "1Y": 28.1
      },
      "spark": [
       19.87,
@@ -1442,7 +1442,7 @@
       20.25,
       20.26,
       19.55,
-      20.19
+      20.16
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
      "fwd_eps": 1.74
@@ -1453,15 +1453,15 @@
      "sector": "Energy",
      "industry": "Oil & Gas Midstream",
      "country": "United States",
-     "market_cap_b": 63.54,
-     "pe": 27.98,
-     "price": 296.69,
-     "change_pct": 0.37,
-     "volume": 13497,
+     "market_cap_b": 63.46,
+     "pe": 28.33,
+     "price": 296.3,
+     "change_pct": 0.24,
+     "volume": 32868,
      "perf": {
-      "1W": 4.8,
-      "1M": 4.6,
-      "1Y": 95.9
+      "1W": 4.9,
+      "1M": 4.7,
+      "1Y": 96.0
      },
      "spark": [
       270.37,
@@ -1493,7 +1493,7 @@
       290.91,
       294.9,
       292.65,
-      296.17
+      296.3
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
      "fwd_eps": 12.12
@@ -1504,15 +1504,15 @@
      "sector": "Energy",
      "industry": "Oil & Gas Midstream",
      "country": "United States",
-     "market_cap_b": 60.8,
-     "pe": 21.45,
-     "price": 289.04,
-     "change_pct": 1.69,
-     "volume": 51915,
+     "market_cap_b": 60.67,
+     "pe": 21.83,
+     "price": 288.42,
+     "change_pct": 1.48,
+     "volume": 92277,
      "perf": {
-      "1W": 3.0,
-      "1M": 5.1,
-      "1Y": 29.4
+      "1W": 3.3,
+      "1M": 5.4,
+      "1Y": 29.8
      },
      "spark": [
       263.0,
@@ -1544,7 +1544,7 @@
       279.69,
       289.43,
       283.35,
-      287.63
+      288.42
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
      "fwd_eps": 20.72
@@ -1555,15 +1555,15 @@
      "sector": "Energy",
      "industry": "Oil & Gas Midstream",
      "country": "United States",
-     "market_cap_b": 59.9,
-     "pe": 15.95,
-     "price": 93.9,
-     "change_pct": 0.84,
-     "volume": 61249,
+     "market_cap_b": 60.03,
+     "pe": 16.25,
+     "price": 94.11,
+     "change_pct": 1.06,
+     "volume": 76247,
      "perf": {
-      "1W": 3.9,
-      "1M": 4.1,
-      "1Y": 42.8
+      "1W": 3.8,
+      "1M": 3.9,
+      "1Y": 42.6
      },
      "spark": [
       89.74,
@@ -1595,7 +1595,7 @@
       91.97,
       93.31,
       92.85,
-      94.23
+      94.11
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
      "fwd_eps": 6.12
@@ -1606,15 +1606,15 @@
      "sector": "Energy",
      "industry": "Oil & Gas Midstream",
      "country": "United States",
-     "market_cap_b": 59.05,
-     "pe": 12.56,
-     "price": 58.33,
-     "change_pct": -0.2,
-     "volume": 14340,
+     "market_cap_b": 58.89,
+     "pe": 12.51,
+     "price": 58.17,
+     "change_pct": -0.46,
+     "volume": 17819,
      "perf": {
-      "1W": 2.5,
-      "1M": -0.5,
-      "1Y": 25.1
+      "1W": 1.8,
+      "1M": -1.1,
+      "1Y": 24.3
      },
      "spark": [
       57.41,
@@ -1646,22 +1646,22 @@
       57.46,
       58.16,
       58.39,
-      58.53
+      58.17
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
      "fwd_eps": 4.8
     }
    ],
-   "median_change_pct": 0.21,
-   "pe_hm": 17.6
+   "median_change_pct": 0.07,
+   "pe_hm": 17.7
   },
   {
    "id": "refining_downstream",
    "label": "Refining & Downstream",
    "color": "#B65D32",
    "count": 4,
-   "total_market_cap_b": 399.15,
-   "avg_change_pct": 0.05,
+   "total_market_cap_b": 396.6,
+   "avg_change_pct": -0.6,
    "industries_included": [
     "Oil & Gas Refining & Marketing"
    ],
@@ -1672,15 +1672,15 @@
      "sector": "Energy",
      "industry": "Oil & Gas Refining & Marketing",
      "country": "United States",
-     "market_cap_b": 136.94,
-     "pe": 16.45,
-     "price": 469.58,
-     "change_pct": 0.34,
-     "volume": 84555,
+     "market_cap_b": 136.14,
+     "pe": 16.16,
+     "price": 466.82,
+     "change_pct": -0.25,
+     "volume": 124570,
      "perf": {
-      "1W": -1.8,
-      "1M": 20.5,
-      "1Y": 152.4
+      "1W": -2.1,
+      "1M": 20.2,
+      "1Y": 151.7
      },
      "spark": [
       315.61,
@@ -1712,10 +1712,10 @@
       484.92,
       478.07,
       475.04,
-      468.13
+      466.82
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
-     "fwd_eps": 58.47
+     "fwd_eps": 58.41
     },
     {
      "ticker": "VLO",
@@ -1723,15 +1723,15 @@
      "sector": "Energy",
      "industry": "Oil & Gas Refining & Marketing",
      "country": "United States",
-     "market_cap_b": 124.57,
-     "pe": 18.07,
-     "price": 434.13,
-     "change_pct": -0.6,
-     "volume": 150202,
+     "market_cap_b": 123.36,
+     "pe": 17.92,
+     "price": 429.91,
+     "change_pct": -1.57,
+     "volume": 228772,
      "perf": {
-      "1W": -2.8,
-      "1M": 14.8,
-      "1Y": 172.3
+      "1W": -3.2,
+      "1M": 14.4,
+      "1Y": 171.2
      },
      "spark": [
       312.9,
@@ -1763,10 +1763,10 @@
       459.78,
       444.71,
       433.42,
-      431.59
+      429.91
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
-     "fwd_eps": 49.16
+     "fwd_eps": 49.21
     },
     {
      "ticker": "PSX",
@@ -1774,11 +1774,11 @@
      "sector": "Energy",
      "industry": "Oil & Gas Refining & Marketing",
      "country": "United States",
-     "market_cap_b": 116.14,
-     "pe": 16.63,
-     "price": 291.51,
-     "change_pct": 0.5,
-     "volume": 46352,
+     "market_cap_b": 115.52,
+     "pe": 16.57,
+     "price": 289.96,
+     "change_pct": -0.04,
+     "volume": 56796,
      "perf": {
       "1W": 0.3,
       "1M": 13.1,
@@ -1814,10 +1814,10 @@
       297.29,
       293.17,
       291.03,
-      290.0
+      289.96
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
-     "fwd_eps": 30.35
+     "fwd_eps": 30.34
     },
     {
      "ticker": "DINO",
@@ -1825,15 +1825,15 @@
      "sector": "Energy",
      "industry": "Oil & Gas Refining & Marketing",
      "country": "United States",
-     "market_cap_b": 21.5,
+     "market_cap_b": 21.55,
      "pe": 11.93,
-     "price": 125.04,
-     "change_pct": -0.43,
-     "volume": 48408,
+     "price": 125.31,
+     "change_pct": -0.21,
+     "volume": 72794,
      "perf": {
-      "1W": 0.3,
-      "1M": 17.8,
-      "1Y": 144.1
+      "1W": 0.5,
+      "1M": 18.1,
+      "1Y": 144.7
      },
      "spark": [
       90.91,
@@ -1865,22 +1865,22 @@
       127.69,
       125.29,
       125.31,
-      125.04
+      125.31
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
      "fwd_eps": 14.97
     }
    ],
-   "median_change_pct": -0.04,
-   "pe_hm": 16.6
+   "median_change_pct": -0.23,
+   "pe_hm": 16.5
   },
   {
    "id": "nuclear_uranium",
    "label": "Nuclear & Uranium",
    "color": "#F2D43D",
    "count": 8,
-   "total_market_cap_b": 158.71,
-   "avg_change_pct": -2.51,
+   "total_market_cap_b": 159.4,
+   "avg_change_pct": -2.11,
    "industries_included": [
     "Aerospace & Defense",
     "Specialty Industrial Machinery",
@@ -1894,14 +1894,14 @@
      "sector": "Utilities",
      "industry": "Utilities - Independent Power Producers",
      "country": "United States",
-     "market_cap_b": 94.68,
-     "pe": 25.3,
-     "price": 264.01,
-     "change_pct": -2.49,
-     "volume": 90867,
+     "market_cap_b": 95.18,
+     "pe": 25.94,
+     "price": 265.4,
+     "change_pct": -1.97,
+     "volume": 129943,
      "perf": {
       "1W": -3.5,
-      "1M": 0.5,
+      "1M": 0.6,
       "1Y": -23.8
      },
      "spark": [
@@ -1934,10 +1934,10 @@
       279.54,
       271.37,
       258.84,
-      265.28
+      265.4
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
-     "fwd_eps": 13.33
+     "fwd_eps": 13.31
     },
     {
      "ticker": "CCJ",
@@ -1945,15 +1945,15 @@
      "sector": "Energy",
      "industry": "Uranium",
      "country": "Canada",
-     "market_cap_b": 34.71,
-     "pe": 136.46,
-     "price": 80.02,
-     "change_pct": -2.44,
-     "volume": 152893,
+     "market_cap_b": 34.7,
+     "pe": 135.59,
+     "price": 80.0,
+     "change_pct": -2.46,
+     "volume": 203175,
      "perf": {
-      "1W": -3.7,
-      "1M": -11.7,
-      "1Y": -3.9
+      "1W": -3.9,
+      "1M": -11.9,
+      "1Y": -4.1
      },
      "spark": [
       86.38,
@@ -1985,7 +1985,7 @@
       81.47,
       81.52,
       80.51,
-      80.16
+      80.0
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
      "fwd_eps": 1.89
@@ -1996,15 +1996,15 @@
      "sector": "Industrials",
      "industry": "Aerospace & Defense",
      "country": "United States",
-     "market_cap_b": 12.17,
-     "pe": 34.78,
-     "price": 131.91,
-     "change_pct": -2.36,
-     "volume": 28884,
+     "market_cap_b": 12.27,
+     "pe": 34.45,
+     "price": 132.97,
+     "change_pct": -1.58,
+     "volume": 33386,
      "perf": {
-      "1W": -3.4,
-      "1M": -6.5,
-      "1Y": -30.3
+      "1W": -3.1,
+      "1M": -6.2,
+      "1Y": -30.0
      },
      "spark": [
       168.43,
@@ -2036,7 +2036,7 @@
       134.44,
       137.01,
       134.24,
-      132.55
+      132.97
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
      "fwd_eps": 5.23
@@ -2047,15 +2047,15 @@
      "sector": "Energy",
      "industry": "Uranium",
      "country": "Canada",
-     "market_cap_b": 5.41,
+     "market_cap_b": 5.43,
      "pe": null,
-     "price": 8.25,
-     "change_pct": -3.28,
-     "volume": 105500,
+     "price": 8.27,
+     "change_pct": -2.99,
+     "volume": 178131,
      "perf": {
-      "1W": -3.5,
-      "1M": -14.2,
-      "1Y": -2.5
+      "1W": -3.3,
+      "1M": -14.1,
+      "1Y": -2.3
      },
      "spark": [
       9.15,
@@ -2087,7 +2087,7 @@
       8.08,
       8.37,
       8.48,
-      8.26
+      8.27
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
      "fwd_eps": -0.13
@@ -2098,15 +2098,15 @@
      "sector": "Utilities",
      "industry": "Utilities - Independent Power Producers",
      "country": "United States",
-     "market_cap_b": 4.4,
+     "market_cap_b": 4.41,
      "pe": null,
-     "price": 26.97,
-     "change_pct": -2.76,
-     "volume": 515307,
+     "price": 27.01,
+     "change_pct": -2.6,
+     "volume": 716719,
      "perf": {
-      "1W": -10.4,
-      "1M": -30.7,
-      "1Y": -77.6
+      "1W": -10.0,
+      "1M": -30.4,
+      "1Y": -77.5
      },
      "spark": [
       38.83,
@@ -2138,7 +2138,7 @@
       29.04,
       27.97,
       27.48,
-      26.89
+      27.01
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
      "fwd_eps": -1.07
@@ -2149,15 +2149,15 @@
      "sector": "Energy",
      "industry": "Uranium",
      "country": "United States",
-     "market_cap_b": 3.58,
+     "market_cap_b": 3.6,
      "pe": null,
-     "price": 7.71,
-     "change_pct": -2.41,
-     "volume": 425190,
+     "price": 7.74,
+     "change_pct": -1.96,
+     "volume": 496504,
      "perf": {
-      "1W": -5.6,
-      "1M": -22.5,
-      "1Y": -44.5
+      "1W": -5.2,
+      "1M": -22.2,
+      "1Y": -44.2
      },
      "spark": [
       9.6,
@@ -2189,7 +2189,7 @@
       7.7,
       7.91,
       7.83,
-      7.71
+      7.74
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
      "fwd_eps": -0.07
@@ -2200,15 +2200,15 @@
      "sector": "Energy",
      "industry": "Uranium",
      "country": "United States",
-     "market_cap_b": 2.0,
-     "pe": 51.35,
-     "price": 106.32,
-     "change_pct": -2.38,
-     "volume": 44631,
+     "market_cap_b": 2.01,
+     "pe": 49.91,
+     "price": 106.8,
+     "change_pct": -1.94,
+     "volume": 49576,
      "perf": {
-      "1W": -16.3,
-      "1M": -29.7,
-      "1Y": -66.2
+      "1W": -15.9,
+      "1M": -29.4,
+      "1Y": -66.1
      },
      "spark": [
       176.93,
@@ -2240,7 +2240,7 @@
       119.95,
       114.94,
       109.88,
-      106.32
+      106.8
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
      "fwd_eps": 3.76
@@ -2254,12 +2254,12 @@
      "market_cap_b": 1.76,
      "pe": null,
      "price": 7.95,
-     "change_pct": -3.05,
-     "volume": 479377,
+     "change_pct": -3.11,
+     "volume": 566977,
      "perf": {
-      "1W": -7.2,
-      "1M": -31.4,
-      "1Y": -65.0
+      "1W": -7.3,
+      "1M": -31.5,
+      "1Y": -65.1
      },
      "spark": [
       11.44,
@@ -2294,19 +2294,19 @@
       7.95
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
-     "fwd_eps": 0.48
+     "fwd_eps": 0.49
     }
    ],
-   "median_change_pct": -2.46,
-   "pe_hm": 32.7
+   "median_change_pct": -2.21,
+   "pe_hm": 33.4
   },
   {
    "id": "renewables_solar",
    "label": "Renewables & Solar",
    "color": "#9CC65A",
    "count": 8,
-   "total_market_cap_b": 227.88,
-   "avg_change_pct": 0.85,
+   "total_market_cap_b": 228.1,
+   "avg_change_pct": 0.94,
    "industries_included": [
     "Solar",
     "Utilities - Regulated Electric",
@@ -2319,15 +2319,15 @@
      "sector": "Utilities",
      "industry": "Utilities - Regulated Electric",
      "country": "United States",
-     "market_cap_b": 175.16,
-     "pe": 17.72,
-     "price": 79.73,
-     "change_pct": 1.85,
-     "volume": 644648,
+     "market_cap_b": 175.31,
+     "pe": 14.38,
+     "price": 79.8,
+     "change_pct": 1.94,
+     "volume": 1314917,
      "perf": {
-      "1W": 1.3,
-      "1M": 3.8,
-      "1Y": -0.7
+      "1W": 1.1,
+      "1M": 3.6,
+      "1Y": -0.9
      },
      "spark": [
       86.27,
@@ -2359,10 +2359,10 @@
       78.37,
       79.8,
       78.86,
-      79.97
+      79.8
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
-     "fwd_eps": 4.38
+     "fwd_eps": 4.39
     },
     {
      "ticker": "FSLR",
@@ -2371,14 +2371,14 @@
      "industry": "Solar",
      "country": "United States",
      "market_cap_b": 18.37,
-     "pe": 10.75,
-     "price": 169.91,
-     "change_pct": -2.81,
-     "volume": 257980,
+     "pe": 10.48,
+     "price": 169.93,
+     "change_pct": -2.8,
+     "volume": 308055,
      "perf": {
-      "1W": -4.7,
-      "1M": -11.2,
-      "1Y": -23.7
+      "1W": -5.0,
+      "1M": -11.5,
+      "1Y": -23.9
      },
      "spark": [
       211.03,
@@ -2410,10 +2410,10 @@
       179.08,
       172.64,
       174.43,
-      170.46
+      169.93
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
-     "fwd_eps": 23.57
+     "fwd_eps": 23.54
     },
     {
      "ticker": "BEP",
@@ -2421,15 +2421,15 @@
      "sector": "Utilities",
      "industry": "Utilities - Renewable",
      "country": "Canada",
-     "market_cap_b": 14.13,
+     "market_cap_b": 14.11,
      "pe": null,
-     "price": 28.86,
-     "change_pct": -1.06,
-     "volume": 11413,
+     "price": 28.81,
+     "change_pct": -1.23,
+     "volume": 37000,
      "perf": {
-      "1W": 0.7,
-      "1M": -0.8,
-      "1Y": 5.5
+      "1W": 0.6,
+      "1M": -0.9,
+      "1Y": 5.3
      },
      "spark": [
       32.45,
@@ -2461,7 +2461,7 @@
       27.9,
       28.4,
       28.23,
-      28.86
+      28.81
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
      "fwd_eps": -1.85
@@ -2472,15 +2472,15 @@
      "sector": "Technology",
      "industry": "Solar",
      "country": "United States",
-     "market_cap_b": 12.03,
-     "pe": 20.42,
-     "price": 78.27,
-     "change_pct": -4.28,
-     "volume": 36729,
+     "market_cap_b": 12.14,
+     "pe": 20.4,
+     "price": 78.96,
+     "change_pct": -3.44,
+     "volume": 61274,
      "perf": {
-      "1W": -5.8,
-      "1M": -3.9,
-      "1Y": -10.2
+      "1W": -5.4,
+      "1M": -3.5,
+      "1Y": -9.8
      },
      "spark": [
       89.87,
@@ -2512,10 +2512,10 @@
       82.56,
       80.04,
       79.03,
-      78.65
+      78.96
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
-     "fwd_eps": 5.69
+     "fwd_eps": 5.72
     },
     {
      "ticker": "ENPH",
@@ -2524,14 +2524,14 @@
      "industry": "Solar",
      "country": "United States",
      "market_cap_b": 3.77,
-     "pe": 32.23,
-     "price": 31.29,
-     "change_pct": -2.19,
-     "volume": 244554,
+     "pe": 31.26,
+     "price": 31.26,
+     "change_pct": -2.27,
+     "volume": 297875,
      "perf": {
-      "1W": 1.8,
-      "1M": -5.1,
-      "1Y": -13.0
+      "1W": 1.4,
+      "1M": -5.5,
+      "1Y": -13.3
      },
      "spark": [
       37.54,
@@ -2563,7 +2563,7 @@
       29.35,
       30.62,
       32.23,
-      31.38
+      31.26
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
      "fwd_eps": 2.16
@@ -2577,12 +2577,12 @@
      "market_cap_b": 2.18,
      "pe": 5.11,
      "price": 7.57,
-     "change_pct": -0.61,
-     "volume": 701989,
+     "change_pct": -0.66,
+     "volume": 836839,
      "perf": {
-      "1W": -0.7,
-      "1M": -9.1,
-      "1Y": -61.5
+      "1W": -0.9,
+      "1M": -9.3,
+      "1Y": -61.6
      },
      "spark": [
       9.81,
@@ -2614,7 +2614,7 @@
       7.3,
       7.3,
       7.57,
-      7.59
+      7.57
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
      "fwd_eps": 0.52
@@ -2625,15 +2625,15 @@
      "sector": "Technology",
      "industry": "Solar",
      "country": "Israel",
-     "market_cap_b": 1.72,
+     "market_cap_b": 1.71,
      "pe": null,
-     "price": 32.78,
-     "change_pct": -1.25,
-     "volume": 50815,
+     "price": 32.63,
+     "change_pct": -1.67,
+     "volume": 135579,
      "perf": {
-      "1W": 4.4,
-      "1M": -1.6,
-      "1Y": -12.5
+      "1W": 3.8,
+      "1M": -2.1,
+      "1Y": -13.0
      },
      "spark": [
       41.2,
@@ -2665,10 +2665,10 @@
       30.52,
       31.36,
       32.36,
-      32.81
+      32.63
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
-     "fwd_eps": 0.81
+     "fwd_eps": 0.8
     },
     {
      "ticker": "ARRY",
@@ -2680,7 +2680,7 @@
      "pe": null,
      "price": 3.33,
      "change_pct": -2.35,
-     "volume": 105592,
+     "volume": 148358,
      "perf": {
       "1W": -6.7,
       "1M": -13.7,
@@ -2719,19 +2719,19 @@
       3.33
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
-     "fwd_eps": 0.93
+     "fwd_eps": 0.94
     }
    ],
-   "median_change_pct": -1.72,
-   "pe_hm": 16.6
+   "median_change_pct": -1.97,
+   "pe_hm": 14.0
   },
   {
    "id": "grid_storage",
    "label": "Grid, Storage & Electrification",
    "color": "#F08C4A",
    "count": 8,
-   "total_market_cap_b": 638.72,
-   "avg_change_pct": -4.28,
+   "total_market_cap_b": 640.8,
+   "avg_change_pct": -3.97,
    "industries_included": [
     "Electrical Equipment & Parts",
     "Engineering & Construction",
@@ -2745,15 +2745,15 @@
      "sector": "Industrials",
      "industry": "Specialty Industrial Machinery",
      "country": "United States",
-     "market_cap_b": 236.53,
-     "pe": 25.53,
-     "price": 888.57,
-     "change_pct": -4.03,
-     "volume": 183291,
+     "market_cap_b": 236.86,
+     "pe": 25.51,
+     "price": 889.82,
+     "change_pct": -3.9,
+     "volume": 235903,
      "perf": {
-      "1W": -4.1,
-      "1M": -6.7,
-      "1Y": 54.5
+      "1W": -4.0,
+      "1M": -6.5,
+      "1Y": 54.8
      },
      "spark": [
       990.29,
@@ -2785,10 +2785,10 @@
       941.78,
       921.2,
       890.33,
-      888.39
+      889.82
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
-     "fwd_eps": 25.26
+     "fwd_eps": 25.33
     },
     {
      "ticker": "ETN",
@@ -2796,15 +2796,15 @@
      "sector": "Industrials",
      "industry": "Specialty Industrial Machinery",
      "country": "Ireland",
-     "market_cap_b": 146.67,
-     "pe": 38.86,
-     "price": 377.24,
-     "change_pct": -4.24,
-     "volume": 65399,
+     "market_cap_b": 146.9,
+     "pe": 38.44,
+     "price": 377.83,
+     "change_pct": -4.09,
+     "volume": 105153,
      "perf": {
-      "1W": -6.2,
-      "1M": -14.0,
-      "1Y": 5.8
+      "1W": -6.1,
+      "1M": -13.9,
+      "1Y": 5.9
      },
      "spark": [
       414.18,
@@ -2836,10 +2836,10 @@
       408.85,
       391.25,
       381.98,
-      377.33
+      377.83
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
-     "fwd_eps": 16.28
+     "fwd_eps": 16.33
     },
     {
      "ticker": "PWR",
@@ -2847,15 +2847,15 @@
      "sector": "Industrials",
      "industry": "Engineering & Construction",
      "country": "United States",
-     "market_cap_b": 87.74,
-     "pe": 68.27,
-     "price": 580.23,
-     "change_pct": -3.48,
-     "volume": 32234,
+     "market_cap_b": 87.8,
+     "pe": 66.51,
+     "price": 580.63,
+     "change_pct": -3.41,
+     "volume": 43491,
      "perf": {
-      "1W": -9.8,
-      "1M": -8.8,
-      "1Y": 40.6
+      "1W": -9.6,
+      "1M": -8.5,
+      "1Y": 41.0
      },
      "spark": [
       667.25,
@@ -2887,10 +2887,10 @@
       660.53,
       631.86,
       596.0,
-      579.18
+      580.63
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
-     "fwd_eps": 19.87
+     "fwd_eps": 19.89
     },
     {
      "ticker": "VRT",
@@ -2898,15 +2898,15 @@
      "sector": "Industrials",
      "industry": "Electrical Equipment & Parts",
      "country": "United States",
-     "market_cap_b": 77.4,
-     "pe": 46.05,
-     "price": 201.32,
-     "change_pct": -5.1,
-     "volume": 378213,
+     "market_cap_b": 78.02,
+     "pe": 45.91,
+     "price": 202.94,
+     "change_pct": -4.34,
+     "volume": 509430,
      "perf": {
-      "1W": -6.2,
-      "1M": -19.0,
-      "1Y": 17.5
+      "1W": -5.5,
+      "1M": -18.4,
+      "1Y": 18.4
      },
      "spark": [
       241.51,
@@ -2938,10 +2938,10 @@
       222.83,
       206.42,
       203.56,
-      201.45
+      202.94
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
-     "fwd_eps": 9.18
+     "fwd_eps": 9.2
     },
     {
      "ticker": "BE",
@@ -2949,15 +2949,15 @@
      "sector": "Industrials",
      "industry": "Electrical Equipment & Parts",
      "country": "United States",
-     "market_cap_b": 64.78,
-     "pe": 292.96,
-     "price": 224.67,
-     "change_pct": -5.81,
-     "volume": 1191896,
+     "market_cap_b": 65.58,
+     "pe": 299.28,
+     "price": 227.46,
+     "change_pct": -4.64,
+     "volume": 1564408,
      "perf": {
-      "1W": -4.9,
-      "1M": -18.3,
-      "1Y": 138.2
+      "1W": -3.7,
+      "1M": -17.3,
+      "1Y": 141.0
      },
      "spark": [
       205.81,
@@ -2989,10 +2989,10 @@
       239.34,
       221.31,
       222.65,
-      224.82
+      227.46
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
-     "fwd_eps": 4.92
+     "fwd_eps": 4.96
     },
     {
      "ticker": "HUBB",
@@ -3000,15 +3000,15 @@
      "sector": "Industrials",
      "industry": "Electrical Equipment & Parts",
      "country": "United States",
-     "market_cap_b": 23.63,
-     "pe": 27.28,
-     "price": 445.19,
-     "change_pct": -3.38,
-     "volume": 12620,
+     "market_cap_b": 23.64,
+     "pe": 26.37,
+     "price": 445.45,
+     "change_pct": -3.32,
+     "volume": 23095,
      "perf": {
-      "1W": -3.7,
-      "1M": -3.5,
-      "1Y": 7.1
+      "1W": -4.1,
+      "1M": -3.9,
+      "1Y": 6.7
      },
      "spark": [
       471.09,
@@ -3040,10 +3040,10 @@
       473.37,
       461.1,
       459.32,
-      447.35
+      445.45
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
-     "fwd_eps": 23.05
+     "fwd_eps": 23.08
     },
     {
      "ticker": "FLNC",
@@ -3051,15 +3051,15 @@
      "sector": "Utilities",
      "industry": "Utilities - Renewable",
      "country": "United States",
-     "market_cap_b": 1.41,
+     "market_cap_b": 1.42,
      "pe": null,
-     "price": 5.92,
-     "change_pct": -1.33,
-     "volume": 867162,
+     "price": 5.96,
+     "change_pct": -0.67,
+     "volume": 910329,
      "perf": {
-      "1W": -7.7,
-      "1M": -21.7,
-      "1Y": -61.0
+      "1W": -7.3,
+      "1M": -21.4,
+      "1Y": -60.8
      },
      "spark": [
       13.93,
@@ -3091,7 +3091,7 @@
       6.21,
       5.8,
       5.93,
-      5.93
+      5.96
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
      "fwd_eps": -0.45
@@ -3102,15 +3102,15 @@
      "sector": "Industrials",
      "industry": "Electrical Equipment & Parts",
      "country": "United States",
-     "market_cap_b": 0.56,
+     "market_cap_b": 0.57,
      "pe": null,
-     "price": 1.65,
-     "change_pct": -1.79,
-     "volume": 1647668,
+     "price": 1.67,
+     "change_pct": -0.3,
+     "volume": 1932538,
      "perf": {
-      "1W": -24.5,
-      "1M": -54.5,
-      "1Y": -89.2
+      "1W": -22.5,
+      "1M": -53.2,
+      "1Y": -88.9
      },
      "spark": [
       3.38,
@@ -3142,22 +3142,22 @@
       1.95,
       1.82,
       1.68,
-      1.63
+      1.67
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
-     "fwd_eps": -0.17
+     "fwd_eps": -0.18
     }
    ],
-   "median_change_pct": -3.75,
-   "pe_hm": 37.3
+   "median_change_pct": -3.66,
+   "pe_hm": 37.0
   },
   {
    "id": "power_utilities_ipp",
    "label": "Power & IPPs",
    "color": "#CB9E6E",
    "count": 8,
-   "total_market_cap_b": 428.56,
-   "avg_change_pct": 0.12,
+   "total_market_cap_b": 428.7,
+   "avg_change_pct": 0.16,
    "industries_included": [
     "Utilities - Independent Power Producers",
     "Utilities - Regulated Electric"
@@ -3169,15 +3169,15 @@
      "sector": "Utilities",
      "industry": "Utilities - Regulated Electric",
      "country": "United States",
-     "market_cap_b": 104.76,
-     "pe": 21.86,
-     "price": 91.24,
-     "change_pct": 0.94,
-     "volume": 264771,
+     "market_cap_b": 104.74,
+     "pe": 21.98,
+     "price": 91.22,
+     "change_pct": 0.92,
+     "volume": 305980,
      "perf": {
-      "1W": 2.6,
-      "1M": 9.7,
-      "1Y": -3.0
+      "1W": 2.3,
+      "1M": 9.3,
+      "1Y": -3.3
      },
      "spark": [
       93.77,
@@ -3209,10 +3209,10 @@
       89.38,
       91.18,
       90.71,
-      91.54
+      91.22
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
-     "fwd_eps": 4.93
+     "fwd_eps": 4.92
     },
     {
      "ticker": "DUK",
@@ -3220,15 +3220,15 @@
      "sector": "Utilities",
      "industry": "Utilities - Regulated Electric",
      "country": "United States",
-     "market_cap_b": 95.06,
-     "pe": 18.27,
-     "price": 121.67,
-     "change_pct": 0.83,
-     "volume": 105129,
+     "market_cap_b": 95.08,
+     "pe": 18.33,
+     "price": 121.69,
+     "change_pct": 0.85,
+     "volume": 137879,
      "perf": {
-      "1W": 2.6,
-      "1M": 6.8,
-      "1Y": -2.2
+      "1W": 2.4,
+      "1M": 6.6,
+      "1Y": -2.4
      },
      "spark": [
       124.34,
@@ -3260,7 +3260,7 @@
       119.64,
       121.47,
       121.33,
-      121.93
+      121.69
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
      "fwd_eps": 7.17
@@ -3271,15 +3271,15 @@
      "sector": "Utilities",
      "industry": "Utilities - Regulated Electric",
      "country": "United States",
-     "market_cap_b": 55.48,
-     "pe": 21.74,
-     "price": 63.45,
-     "change_pct": 1.8,
-     "volume": 99614,
+     "market_cap_b": 55.51,
+     "pe": 21.97,
+     "price": 63.49,
+     "change_pct": 1.86,
+     "volume": 278422,
      "perf": {
-      "1W": 1.2,
-      "1M": 3.9,
-      "1Y": 8.9
+      "1W": 1.0,
+      "1M": 3.8,
+      "1Y": 8.7
      },
      "spark": [
       68.48,
@@ -3311,7 +3311,7 @@
       62.8,
       63.56,
       62.84,
-      63.58
+      63.49
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
      "fwd_eps": 3.82
@@ -3322,15 +3322,15 @@
      "sector": "Utilities",
      "industry": "Utilities - Independent Power Producers",
      "country": "United States",
-     "market_cap_b": 50.12,
-     "pe": 25.35,
-     "price": 150.61,
-     "change_pct": -3.54,
-     "volume": 300105,
+     "market_cap_b": 50.29,
+     "pe": 25.49,
+     "price": 151.13,
+     "change_pct": -3.21,
+     "volume": 456798,
      "perf": {
-      "1W": -1.9,
-      "1M": 9.7,
-      "1Y": -18.1
+      "1W": -2.0,
+      "1M": 9.5,
+      "1Y": -18.2
      },
      "spark": [
       147.95,
@@ -3362,10 +3362,10 @@
       151.79,
       152.02,
       150.32,
-      151.31
+      151.13
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
-     "fwd_eps": 10.46
+     "fwd_eps": 10.43
     },
     {
      "ticker": "ETR",
@@ -3373,15 +3373,15 @@
      "sector": "Utilities",
      "industry": "Utilities - Regulated Electric",
      "country": "United States",
-     "market_cap_b": 49.69,
-     "pe": 26.9,
-     "price": 106.27,
-     "change_pct": 0.18,
-     "volume": 72511,
+     "market_cap_b": 49.72,
+     "pe": 27.2,
+     "price": 106.34,
+     "change_pct": 0.25,
+     "volume": 81043,
      "perf": {
       "1W": 2.3,
       "1M": 7.2,
-      "1Y": 13.6
+      "1Y": 13.5
      },
      "spark": [
       106.98,
@@ -3413,7 +3413,7 @@
       104.5,
       105.11,
       105.16,
-      106.39
+      106.34
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
      "fwd_eps": 5.11
@@ -3424,15 +3424,15 @@
      "sector": "Utilities",
      "industry": "Utilities - Regulated Electric",
      "country": "United States",
-     "market_cap_b": 35.72,
-     "pe": 17.63,
-     "price": 71.34,
-     "change_pct": 0.48,
-     "volume": 30304,
+     "market_cap_b": 35.68,
+     "pe": 17.73,
+     "price": 71.26,
+     "change_pct": 0.37,
+     "volume": 51480,
      "perf": {
-      "1W": 1.6,
-      "1M": 6.0,
-      "1Y": -11.9
+      "1W": 1.5,
+      "1M": 5.9,
+      "1Y": -12.0
      },
      "spark": [
       75.99,
@@ -3464,10 +3464,10 @@
       70.56,
       71.49,
       70.86,
-      71.35
+      71.26
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
-     "fwd_eps": 4.65
+     "fwd_eps": 4.64
     },
     {
      "ticker": "NRG",
@@ -3475,15 +3475,15 @@
      "sector": "Utilities",
      "industry": "Utilities - Independent Power Producers",
      "country": "United States",
-     "market_cap_b": 20.98,
-     "pe": 25.61,
-     "price": 98.95,
-     "change_pct": -0.85,
-     "volume": 75289,
+     "market_cap_b": 20.8,
+     "pe": 25.68,
+     "price": 98.11,
+     "change_pct": -1.69,
+     "volume": 91130,
      "perf": {
-      "1W": -4.4,
-      "1M": -2.4,
-      "1Y": -38.0
+      "1W": -4.6,
+      "1M": -2.6,
+      "1Y": -38.1
      },
      "spark": [
       133.81,
@@ -3515,10 +3515,10 @@
       100.85,
       103.75,
       97.84,
-      98.32
+      98.11
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
-     "fwd_eps": 10.8
+     "fwd_eps": 10.84
     },
     {
      "ticker": "TLN",
@@ -3526,15 +3526,15 @@
      "sector": "Utilities",
      "industry": "Utilities - Independent Power Producers",
      "country": "United States",
-     "market_cap_b": 16.75,
+     "market_cap_b": 16.91,
      "pe": null,
-     "price": 347.59,
-     "change_pct": -3.31,
-     "volume": 26217,
+     "price": 350.88,
+     "change_pct": -2.4,
+     "volume": 41346,
      "perf": {
-      "1W": -0.5,
-      "1M": 17.1,
-      "1Y": -7.6
+      "1W": -0.8,
+      "1M": 16.8,
+      "1Y": -7.8
      },
      "spark": [
       334.1,
@@ -3566,14 +3566,14 @@
       358.42,
       354.81,
       349.43,
-      351.75
+      350.88
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
-     "fwd_eps": 31.99
+     "fwd_eps": 31.91
     }
    ],
-   "median_change_pct": 0.33,
-   "pe_hm": 21.4
+   "median_change_pct": 0.31,
+   "pe_hm": 21.6
   }
  ]
 }
