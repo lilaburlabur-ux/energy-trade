@@ -1,7 +1,7 @@
 {
  "meta": {
   "source": "Energy Trade curated universe (seed_energy_universe.py)",
-  "as_of": "2026-10-22 00:01 UTC",
+  "as_of": "2026-10-22 00:03 UTC",
   "total_tickers": 67,
   "min_bubble_size": 7,
   "render_spec": {
@@ -10,7 +10,7 @@
    "drilldown": "click bubble -> packed circles of member tickers, ticker circle size = sqrt(market_cap_b), color = change_pct",
    "tooltip": "company, industry, cap, P/E, price, day %"
   },
-  "session": "post"
+  "session": "closed"
  },
  "bubbles": [
   {
@@ -18,7 +18,7 @@
    "label": "Oil & Gas Majors",
    "color": "#E8A33D",
    "count": 8,
-   "total_market_cap_b": 2190.9,
+   "total_market_cap_b": 2190.95,
    "avg_change_pct": 0.03,
    "industries_included": [
     "Oil & Gas E&P",
@@ -442,7 +442,7 @@
    "label": "Shale & E&P",
    "color": "#D97742",
    "count": 9,
-   "total_market_cap_b": 366.5,
+   "total_market_cap_b": 366.53,
    "avg_change_pct": -0.02,
    "industries_included": [
     "Oil & Gas E&P"
@@ -916,7 +916,7 @@
    "label": "Oilfield Services",
    "color": "#A67C52",
    "count": 6,
-   "total_market_cap_b": 197.3,
+   "total_market_cap_b": 197.34,
    "avg_change_pct": 0.81,
    "industries_included": [
     "Oil & Gas Equipment & Services"
@@ -1237,7 +1237,7 @@
    "label": "Midstream & LNG",
    "color": "#C9A227",
    "count": 8,
-   "total_market_cap_b": 544.6,
+   "total_market_cap_b": 544.64,
    "avg_change_pct": -0.25,
    "industries_included": [
     "Oil & Gas Midstream"
@@ -1660,7 +1660,7 @@
    "label": "Refining & Downstream",
    "color": "#B65D32",
    "count": 4,
-   "total_market_cap_b": 400.4,
+   "total_market_cap_b": 400.42,
    "avg_change_pct": 0.19,
    "industries_included": [
     "Oil & Gas Refining & Marketing"
@@ -1879,7 +1879,7 @@
    "label": "Nuclear & Uranium",
    "color": "#F2D43D",
    "count": 8,
-   "total_market_cap_b": 157.7,
+   "total_market_cap_b": 157.74,
    "avg_change_pct": -1.11,
    "industries_included": [
     "Aerospace & Defense",
@@ -2305,7 +2305,7 @@
    "label": "Renewables & Solar",
    "color": "#9CC65A",
    "count": 8,
-   "total_market_cap_b": 226.4,
+   "total_market_cap_b": 226.38,
    "avg_change_pct": 0.99,
    "industries_included": [
     "Solar",
@@ -2730,7 +2730,7 @@
    "label": "Grid, Storage & Electrification",
    "color": "#F08C4A",
    "count": 8,
-   "total_market_cap_b": 644.5,
+   "total_market_cap_b": 644.54,
    "avg_change_pct": -2.1,
    "industries_included": [
     "Electrical Equipment & Parts",
@@ -3156,7 +3156,7 @@
    "label": "Power & IPPs",
    "color": "#CB9E6E",
    "count": 8,
-   "total_market_cap_b": 426.2,
+   "total_market_cap_b": 426.16,
    "avg_change_pct": 1.08,
    "industries_included": [
     "Utilities - Independent Power Producers",
