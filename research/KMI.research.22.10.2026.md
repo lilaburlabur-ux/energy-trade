@@ -121,14 +121,14 @@ Kinder Morgan, Inc. operates as an energy infrastructure company primarily in No
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-10-22 | main | Jefferies | Hold → Hold |
+| 2026-10-22 | up | Freedom Broker | Hold → Buy |
 | 2026-10-22 | main | BMO Capital | Outperform → Outperform |
 | 2026-10-22 | main | Wells Fargo | Overweight → Overweight |
 | 2026-10-22 | main | TD Cowen | Buy → Buy |
 | 2026-10-22 | main | Mizuho | Outperform → Outperform |
 | 2026-09-22 | main | RBC Capital | Sector Perform → Sector Perform |
 | 2026-09-18 | main | Jefferies | Hold → Hold |
-| 2026-07-23 | main | Wells Fargo | Overweight → Overweight |
-| 2026-04-23 | main | Jefferies | Hold → Hold |
 
 ## 9. Conclusion
 KMI: Moderate momentum / strong fundamentals / fair-to-demanding value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

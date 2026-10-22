@@ -8,7 +8,7 @@
 | SHEL | $300.94B | +51% | 9.8 | 9% | Moderate | Reasonable | Moderate |
 | TTE | $200.55B | +55% | 7.9 | 9% | Moderate | Reasonable | Moderate |
 | BP | $128.91B | +59% | 8.7 | 3% | Moderate | Reasonable | Moderate |
-| COP | $174.95B | +74% | 13.6 | 14% | High | Reasonable | Moderate |
+| COP | $174.95B | +74% | 13.5 | 14% | High | Reasonable | Moderate |
 | EQNR | $109.94B | +110% | 9.8 | 8% | High | Reasonable | Moderate |
 | SU | $91.40B | +107% | 11.1 | 16% | High | Reasonable | Moderate |
 | EOG | $82.85B | +54% | 9.7 | 26% | Moderate | Reasonable | Moderate |
@@ -38,7 +38,7 @@
 | PSX | $114.12B | +128% | 9.4 | 5% | High | Reasonable | Elevated |
 | VLO | $122.74B | +176% | 8.7 | 5% | High | Reasonable | Elevated |
 | DINO | $21.75B | +147% | 8.2 | 6% | High | Reasonable | Elevated |
-| CCJ | $34.38B | -4% | 41.8 | 10% | Low | Low (expensive) | Elevated |
+| CCJ | $34.38B | -4% | 41.7 | 10% | Low | Low (expensive) | Elevated |
 | CEG | $90.42B | -28% | 19.2 | 11% | Low | Reasonable | High |
 | OKLO | $5.02B | -81% | -25.1 | 0% | Low | Reasonable | High |
 | SMR | $2.21B | -86% | -8.1 | 0% | Low | Reasonable | High |
