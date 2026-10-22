@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-22T20:44:14+00:00",
+  "as_of": "2026-10-22T20:59:16+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,36 +11,52 @@
    "rank": 1,
    "ticker": "BE",
    "company": "Bloom Energy Corporation",
-   "move_pct": -12.88,
-   "price": 207.81,
+   "move_pct": -14.48,
+   "price": 203.99,
    "volume": 21068519,
    "volume_vs_avg": "~1.4x",
-   "heat_score": 77,
+   "heat_score": 82,
    "direction": "down",
-   "why": "Bloom Energy shares fall despite beating Q3 estimates By Investing.com",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSDRGR1dzSUVQVG15SHF4WmlKR0cwMVZ4dW5mME5NcFVrMnhpWmdzUnVHNlMycnFxNXlKMnJEMTRfQVdKT28zVnVLRS0tb1BjLWg2ZS04ano4a25PcG01dzBiOW9mQlk5QW9MQTlVcHNjRkkxaDZlUHdsZWkwZTloVmFsV3d3VEZSMXlieFZmQTF4V3dveWVvVzFfeUxyQWM0MUE?oc=5",
-   "published": "2026-10-22T20:28:47+00:00",
+   "why": "Bloom Energy Stock Drops Despite Strong Earnings",
+   "catalyst_type": "earnings",
+   "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTzdWdkU2NHRQTlJJYjNmcXNLLW1tblU5MGNjTmNHcExlM043OXF2azFWVG1BajRTV2gxY0htLU5YbGpnak9JZG1EQVluRXhzX3dlZ1hNQXRlY3hyMlRXV3hVUVBUaDF1YXZrYlQ1clZ2aGwtRFJXbDZJREQ1VG5feQ?oc=5",
+   "published": "2026-10-22T20:32:00+00:00",
    "sector": "Grid, Storage & Electrification"
   },
   {
    "rank": 2,
    "ticker": "GEV",
    "company": "GE Vernova Inc.",
-   "move_pct": -10.82,
-   "price": 825.75,
+   "move_pct": -10.64,
+   "price": 827.39,
    "volume": 5783619,
    "volume_vs_avg": "~3x",
    "heat_score": 75,
    "direction": "down",
-   "why": "Why is GE Vernova stock tumbling today?",
+   "why": "GE Vernova Inc. stock falls Thursday, underperforms market",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaDNwOFlURGE4STBGZzVBU1h3YTVQT3RmVzBFYUd5OVBETHNndGJCTy1LVk1jaW5JZFZxS1FRTXNFNVNJaV9pbnJxTTZOWUo4dlprd2YzXzhhYVU4eEFVUUR2di1CTEZKZkZBWExCMWItcWR4UWVEOFJzYTlYWXotYmtqWkdnX3Uxejl3QUU1ZU9tYVgzQzJjQlpSY2J2UmV0cGc?oc=5",
-   "published": "2026-10-22T18:44:21+00:00",
+   "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQam40MHFIZ25tQjJVQ2k3WnNMS1lVTVQ4V3RiZEIwRTZOTF9ncXVROUNGZnBRdWtOVmtHakh1NXlQd05Ea0puQnhWMWN1bnJ4SGVDWnh1ZmlUM3pUOU5XRVZET3NWZlg4SHg1c0tEZXVhcm5JT1ZyUXhZUGZMb0gyU0x3ODV6T1dZUWVSOVo3MS1zWjJoNERCWFBlY2l2VllwWDJyVVl6a25LMFBPaXFHd1JWajZNbkE?oc=5",
+   "published": "2026-10-22T20:30:00+00:00",
    "sector": "Grid, Storage & Electrification"
   },
   {
    "rank": 3,
+   "ticker": "VST",
+   "company": "Vistra Corp.",
+   "move_pct": -10.34,
+   "price": 140.0,
+   "volume": 12413378,
+   "volume_vs_avg": "~2x",
+   "heat_score": 71,
+   "direction": "down",
+   "why": "Vistra Corp. stock underperforms Thursday when compared to competitors",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOTN5eFRrSnRHTlhJd3hSM2p2MHNDaXgtMjlOV2E2NzdMbXhZQU9OSmRjMjNlTTNkTG5iYmVUaHd1R0hka29xcnBpSWJSemhELTRhSVB2QWhSeHRGZk1TMnZkeXpYYW5ocHFpN1J5bDJ5eVUyNlBtaUQwdm9IVnBPbHNvai1lak53NDNFOUFzcFM3VDQ2bmYxUUpFNWRtY2xPakZBZGN1U1N0SDBYVG1NY25CbjBVaWFWSDlLOGFHSndjZTFhalVWRw?oc=5",
+   "published": "2026-10-22T20:30:00+00:00",
+   "sector": "Power & IPPs"
+  },
+  {
+   "rank": 4,
    "ticker": "PWR",
    "company": "Quanta Services, Inc.",
    "move_pct": -8.1,
@@ -56,14 +72,14 @@
    "sector": "Grid, Storage & Electrification"
   },
   {
-   "rank": 4,
+   "rank": 5,
    "ticker": "VRT",
    "company": "Vertiv Holdings, LLC",
-   "move_pct": -7.66,
-   "price": 195.9,
+   "move_pct": -7.85,
+   "price": 195.5,
    "volume": 8321410,
    "volume_vs_avg": "~2x",
-   "heat_score": 49,
+   "heat_score": 50,
    "direction": "down",
    "why": "GE Vernova Slumps 11% as Meta\u2019s Spending Outlook Stokes AI Financing Worries; Vertiv Holdings Drops 7%, Eaton Slides 6%",
    "catalyst_type": "earnings",
@@ -72,7 +88,7 @@
    "sector": "Grid, Storage & Electrification"
   },
   {
-   "rank": 5,
+   "rank": 6,
    "ticker": "TLN",
    "company": "Talen Energy Corporation",
    "move_pct": -7.81,
@@ -88,11 +104,11 @@
    "sector": "Power & IPPs"
   },
   {
-   "rank": 6,
+   "rank": 7,
    "ticker": "ETN",
    "company": "Eaton Corporation, PLC",
    "move_pct": -6.33,
-   "price": 368.99,
+   "price": 369.0,
    "volume": 3849374,
    "volume_vs_avg": "~2x",
    "heat_score": 46,
@@ -104,7 +120,7 @@
    "sector": "Grid, Storage & Electrification"
   },
   {
-   "rank": 7,
+   "rank": 8,
    "ticker": "WFRD",
    "company": "Weatherford International plc",
    "move_pct": -5.04,
@@ -118,22 +134,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOR1FmOGp6NEEyQUNUU3I4VENnVzl1RG5HXzY5bG8zT3VZWms2MGFOcGxMN3V0RG5IdjdISmdXYmxDa3JuejdyWlN1X3JOcS1UZV9DVngwX1BjUU5Wb1BpYm1DNC1SZDE3SFNuazMzazlIRDVYV19VcWdaZDFMeEg2bXN1WjUtTkM1STY5dGJ4NHZqeHNaRWJvOUtBR1pGV3AwS0FOZjl1QWd3N1Q2LTJqVjNTMkxyNllsYU85T25TLXNZMmVMM2J1d2tSeEk0UGk3ZWo3MVZLWDAzQUh0am1uV2FPaWZEWDNOb3c?oc=5",
    "published": "2026-10-22T17:05:53+00:00",
    "sector": "Oilfield Services"
-  },
-  {
-   "rank": 8,
-   "ticker": "NRG",
-   "company": "NRG Energy, Inc.",
-   "move_pct": -5.43,
-   "price": 94.38,
-   "volume": 3868605,
-   "volume_vs_avg": "~1.3x",
-   "heat_score": 40,
-   "direction": "down",
-   "why": "NRG Energy Stock Faces An Earnings Test As Analyst Views Split",
-   "catalyst_type": "earnings",
-   "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSU4wcW1iU1owMXZFZTg3TWI5Q2R3RUJ6SW9uVEU1ZDA3RWFfRHB6Q0FfTGY5bFFnYzduZE5wbTB4V1o3ajROZ1hMajVSSEtKUG40b1R6eFpuUnhpcE4zbUhlaTFDSkQtYWZhTTVELUw1djRIUEJ3VlllRVl1dGRlYXh3RUhhaDVlYlNsRGZJYlZuTVk0Y1FiVTRiTWgwMW9LT2FGUnFHc0xmNGVEVEJPWlVyTGNtMzg1dklJMEpDN1hQQmxSTEHSAcsBQVVfeXFMTk5wNWpqNkR6bUpST1RoQm1HOThMbXJfYVZIWWc3cUR3RFh4LW5TY2h5QnlaUy1EaGtSdW5JeDFZLWF4aS0tUVVROWEycjdoV0RvQ3JQNDh0dmtQN1gxZVBtSzVGQVFKaUMzbE1JWDdVM1lmN0ZBU3JRMC1EOER2VExmSnZUTjBKaW9UMFlRQWEySEJ0ZXdoaDFxMnRZeEo1SXp5TG5DYUMzcnJ2WlRwTl9xSW9HWlZHdkdFS1lNUW9ELThBREJZemZrUEE?oc=5",
-   "published": "2026-10-22T17:49:10+00:00",
-   "sector": "Power & IPPs"
   }
  ]
 }
