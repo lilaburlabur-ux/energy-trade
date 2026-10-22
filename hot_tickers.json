@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-22T00:12:34+00:00",
+  "as_of": "2026-10-22T00:27:38+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -21,22 +21,6 @@
    "catalyst_type": "momentum_narrative",
    "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQM1Y3MVZ0NEFyTWNPQmp5bmhhcFkzbFNJV0NNREY0ZGlEZFRtZ0t5cTdIVlJnR2pLeUV5VWVILXFEQ3Y1bmE3bFFsNTFmb2g2SklRaW1MTFhvd05uQVI4WWlFdGEtSWo3azFIaHdBSmZFdTNpRU90WVRyYU85cUE1bkZTcU1hTmowWDZaeXY4VQ?oc=5",
    "published": "2026-10-21T22:15:15+00:00",
-   "sector": "Renewables & Solar"
-  },
-  {
-   "rank": 2,
-   "ticker": "ENPH",
-   "company": "Enphase Energy, Inc.",
-   "move_pct": 5.22,
-   "price": 32.23,
-   "volume": 3218104,
-   "volume_vs_avg": "~0.7x",
-   "heat_score": 37,
-   "direction": "up",
-   "why": "Enphase Energy, Inc. (ENPH) Stock Forecasts",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQ240Q3hvbzRvMVZWekh2MkMxd0N2ZGt2ekd6cVQtbW9HQjVxQnEwWVdZYThUaGpSbGJfbmpiY3VXX1FPX2M0ZWNUUzlmNnZ3TFlXclVCc29sYVNXZ0RMbUx1UzNpSWIyVGV1bExSZ2pwVU83S01UeUJfV1U1TmV4aVhTREY1UFFicUpRS2Mtaw?oc=5",
-   "published": "2026-10-21T22:09:26+00:00",
    "sector": "Renewables & Solar"
   }
  ]
