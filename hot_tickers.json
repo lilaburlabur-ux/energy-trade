@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-22T03:58:37+00:00",
+  "as_of": "2026-10-22T08:08:45+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,19 +9,19 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "WFRD",
-   "company": "Weatherford International plc",
-   "move_pct": 7.75,
-   "price": 85.49,
-   "volume": 2374500,
-   "volume_vs_avg": "~2x",
-   "heat_score": 55,
-   "direction": "up",
-   "why": "Weatherford International (WFRD) Stock Jumps As Q3 Earnings Highlight Cash Rich Margins",
+   "ticker": "BE",
+   "company": "Bloom Energy Corporation",
+   "move_pct": -6.09,
+   "price": 224.0,
+   "volume": 12291000,
+   "volume_vs_avg": "~0.8x",
+   "heat_score": 40,
+   "direction": "down",
+   "why": "Is Bloom Energy (BE) A Bargain As AI Power Demand Puts Focus On Q3 Earnings?",
    "catalyst_type": "earnings",
-   "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNnJQZ0p3cHRLY0t3V01UZVo4MDNNS0lteWhWTkpLaloyZmlndjRLZ2hvNnVrTXEzSnRKdWdCWnZSblZNSWZyVlZvSG8tbHhIUHRLUFc0a01xQmxNTmtSUEdlamhoYkJZV1pLUkRoa3NqcDdsby1GMUtxUFlfUXpPWXpKVDE1dUhwdE9CeHpQMUM1SjJXcHN1YlhOQWdEZC15bU5nTEExa0NUb3dWSGFwNG1KMDZYMWR1cHBidHA2ZEZLdDRMZEdPT2s2VFA4d0VWVUgtREtoSE1DQdIB3wFBVV95cUxOeXBnYXZGVkRmTGhxX1JlbzNwNXdQdWZoakE4TlhOWm44X1RBemJLVllHNndqN1I5UmM1VFJVN3paVTc1NXFkcW55aF80M0dLOExOT3BYTlRhUDJ2UV8zSEkxa1hMdE02c0JMeElnanB1TS1Sb2Nka0FEc0RRWWg3dEMyMDdrVnZaTGE1U1p3M2JrZTdnWERJaUlQMk16UFFpV284Mk1JZklPYlJWQ1dRa3V5X1NWU0YzaFkwMjFIeUtyX183c01HcHVGQUU1bHcwUnVKTnpwUXJlM19fR2NJ?oc=5",
-   "published": "2026-10-22T03:38:20+00:00",
-   "sector": "Oilfield Services"
+   "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORGdjWXBVNHBHTFJKUUlSa05oYmtqakhzaEpGZW9xWTZhdEZLRjZ1T3Zob0xjZjJVSzdWLWFNQnZNUEg0M3l1VVllSWVScFBhWmlUZ2pUQndLbGREX3V0amJQcHo5cnd2QTJOc0FXZ1hkS2s5Zm1CVWVHSUpMSWZFcUxHZGFwQU9WdUpwQTN2bS1JN0ljLWtYaEFR?oc=5",
+   "published": "2026-10-22T06:19:00+00:00",
+   "sector": "Grid, Storage & Electrification"
   }
  ]
 }
