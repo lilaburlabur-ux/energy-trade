@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-23T14:11:47+00:00",
+  "as_of": "2026-10-23T14:26:56+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,16 +11,16 @@
    "rank": 1,
    "ticker": "BE",
    "company": "Bloom Energy Corporation",
-   "move_pct": -10.95,
-   "price": 193.92,
-   "volume": 12301999,
-   "volume_vs_avg": "~0.8x",
-   "heat_score": 67,
+   "move_pct": -11.27,
+   "price": 193.22,
+   "volume": 13869548,
+   "volume_vs_avg": "~0.9x",
+   "heat_score": 69,
    "direction": "down",
-   "why": "Bloom Energy stock drops to 3-month low despite strong earnings: Buy the dip?",
-   "catalyst_type": "earnings",
-   "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdnR2UERfTnZwSzRlNXZtcWVfbDZBc0d4N3BSZHdldkNBSnJyczBBX2UxRk9fUDhWdFdhZk51clVmTm1uMFUxYVNqWmFja3JlTnBURVVQZmpoRFB0NGl6dlNJSFMtRTlhaElGcU1SanA3OVRIZHprNURPSHcwenl1YWVYTWMzU3IxM1FUN1JGZ2hNUjFiTk4zdkYyWnZqRG1tVjlyM0lWQWhKdEtzSi1OMW4wMVNsejhqS2wyN2JKYThHcFIzVkU0Znp2dFZVbWlh?oc=5",
-   "published": "2026-10-23T13:56:17+00:00",
+   "why": "Moderna, Meta, SpaceX, SK Hynix, Bloom Energy, AT&T, and More Stocks That Explain Today\u2019s Market",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1rLXV3T1ZiM0NSaTBxNEh1Yk95cWZidlhldU5PNENBMlM5RDJ3V3dmTXR5TnQ4Y210MU5wZndISi1aWk05ZjRJTXVvNWFiZGZ1cko5MGNXaWdLZGRnaDJsaWFHQ2c?oc=5",
+   "published": "2026-10-23T13:07:00+00:00",
    "sector": "Grid, Storage & Electrification"
   }
  ]
