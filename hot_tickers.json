@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-23T13:51:23+00:00",
+  "as_of": "2026-10-23T13:56:36+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,16 +11,16 @@
    "rank": 1,
    "ticker": "BE",
    "company": "Bloom Energy Corporation",
-   "move_pct": -11.0,
-   "price": 193.8,
-   "volume": 8531699,
-   "volume_vs_avg": "~0.5x",
-   "heat_score": 66,
+   "move_pct": -12.14,
+   "price": 191.34,
+   "volume": 9400801,
+   "volume_vs_avg": "~0.6x",
+   "heat_score": 70,
    "direction": "down",
-   "why": "Bloom Energy slides as Q3 beat-and-raise clouded by cash outflows, expansion costs (BE:NYSE)",
-   "catalyst_type": "financing",
-   "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTnBzTXRPTXdnY2g3U3R2cW9ueGhlbk0yM0F1QW1WWjh3WUVzZkM2N1NpMlFKcFN2WnlNU21pQ3c5RE9hdXdQU3B5d3JPOVJkSkxjNTIzcXJyMzZHc1hlX1VCOEVBZ1lxelhacXJUVkdBR3RhNVN4WWZHZ0FBQmxHT0RaNUdKSkdEczliS0N4Qy1CVjFYcVM1aTQ2bFZ4Y1ZDV0hQY2RLNUNjaGY2aDdFSjBwbjEyOXRjR2hj?oc=5",
-   "published": "2026-10-23T13:44:58+00:00",
+   "why": "Bloom Energy stock drops to 3-month low despite strong earnings: Buy the dip?",
+   "catalyst_type": "earnings",
+   "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaWZyU2lSNHRCcVgzMk1xTW4xU19HY3dUVXRNUVpSaFBIaHdNT0VTam1mOWk5TlJONjNpUFpYRGdHcFZOMXl3VE12NDhZXzZIbDByTW9GNDRvYnRpYnVlMkJBQ0lidEhjb1daU0Q3TW1oZmZxUVNnMXMtX2hXMmI2NS1rMlQ2dmdGeWJSeUFLaU1uNFhMME9Ccjd0SnVmTUhHNzlpOXNIckVDLVpBSGI0b216TERISF9pYXdyWWVkLVpiQ2VoNm1GMEpnTUNzc1d0?oc=5",
+   "published": "2026-10-23T13:46:00+00:00",
    "sector": "Grid, Storage & Electrification"
   }
  ]
