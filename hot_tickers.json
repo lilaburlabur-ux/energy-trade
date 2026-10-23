@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-23T21:50:39+00:00",
+  "as_of": "2026-10-23T22:05:53+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,8 +11,8 @@
    "rank": 1,
    "ticker": "BE",
    "company": "Bloom Energy Corporation",
-   "move_pct": -11.42,
-   "price": 192.9,
+   "move_pct": -11.46,
+   "price": 192.82,
    "volume": 35824073,
    "volume_vs_avg": "~2x",
    "heat_score": 76,
@@ -41,18 +41,34 @@
   },
   {
    "rank": 3,
+   "ticker": "WFRD",
+   "company": "Weatherford International plc",
+   "move_pct": 6.25,
+   "price": 86.25,
+   "volume": 2319486,
+   "volume_vs_avg": "~2x",
+   "heat_score": 48,
+   "direction": "up",
+   "why": "Why Is Weatherford International (WFRD) Jumping 7.6%?",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOXN6VE05dG9uNzAySGVBcVpzakEzSFVjNWRQTENIVXJ6dENfSWNPdE5IOVV2TjRmc3hWRWZrR29ENUI5MF9wcGRRa3ZKNkR0ZXpCRVlBM3NPWlgtUUhMMHdlejlhTkdXSkx4c09Ib3NVUmw2bGl6SDljOE5fY2FSS29JNVlaQjZZQXU40gGLAUFVX3lxTFA5c3pUTTl0b243MDJIZUFxWnNqQTNIVWM1ZFBMQ0hVcnp0Q19JY090Tkg5VXZONGZzeFZFZmtHb0Q1QjkwX3BwZFFrdko2RHRlekJFWUEzc09aWC1RSEwwd2V6OWFOR1dKTHhzT0hvc1VSbDZsaXpIOWM4Tl9jYVJLb0k1WVpCNllBdTg?oc=5",
+   "published": "2026-10-23T20:42:45+00:00",
+   "sector": "Oilfield Services"
+  },
+  {
+   "rank": 4,
    "ticker": "HAL",
    "company": "Halliburton Company",
-   "move_pct": 5.45,
-   "price": 35.0,
+   "move_pct": 5.57,
+   "price": 35.04,
    "volume": 12694366,
    "volume_vs_avg": "~1.2x",
-   "heat_score": 40,
+   "heat_score": 41,
    "direction": "up",
-   "why": "Halliburton Co. stock outperforms competitors on strong trading day",
+   "why": "Halliburton Co (HAL) Stock Up 5.2% but GF Value Says Overvalued -- GF Score: 82/100",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONXI2cWFQS3A1TXNnQXFVYllYckp2ZFFMeU9RU3MtODFwM0MxTWNRTG5UTHNDUThzVkluaGdEd3VDSnByUEtvZ3J2d1FQam1EY0lvWUJRMGI4OHY0MGR6T3NtZUs2d0tDZzBCTmpNWHJpR2k1bEhKN2MxVW16YThoUTdDY1VodGV0LTIxSkxobXpKenh2NzFUZGxlT2VOLU40anVfQjhWc1FZS0h1VURxS0ItMy04RGpQMjB0a3dnM2VMYnhG?oc=5",
-   "published": "2026-10-23T20:30:00+00:00",
+   "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPT2xMb2U1UWtKWEZFdFpqRUdWWEVzTXpaRURuUURqRnMtYnVRdHFLN3NORFRXeW15VlRES19HRlRzZ0NTNFhIWG96RTRSaEN5R0c2Y1JRRVBqVFZtaEZZYmtOUkY4OVJ2M3NWQnZqYU1nTVBZMGN5ZEtIWkpMSmM5NmRXNnFJVVVYc1IwQUd6emNEaXFWdlJ0QkFEeGhmSzRmbW9CVUJmOThHUnZwSXNybUlDWQ?oc=5",
+   "published": "2026-10-23T21:37:15+00:00",
    "sector": "Oilfield Services"
   }
  ]
