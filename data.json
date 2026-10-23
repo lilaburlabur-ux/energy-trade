@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-10-23T00:41:40+00:00",
-  "as_of_local": "2026-10-23 00:41:40 UTC",
+  "as_of_utc": "2026-10-23T00:46:32+00:00",
+  "as_of_local": "2026-10-23 00:46:32 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -64,7 +64,7 @@
       "price": 78.28,
       "previous_close": 78.86,
       "change_pct": -0.74,
-      "market_cap": 170841615317.1,
+      "market_cap": 170811078820.2,
       "headlines": []
     },
     {
@@ -73,7 +73,7 @@
       "price": 393.94,
       "previous_close": 381.98,
       "change_pct": 3.13,
-      "market_cap": 143315716000.0,
+      "market_cap": 143278817000.0,
       "headlines": []
     },
     {
@@ -82,7 +82,7 @@
       "price": 467.98,
       "previous_close": 475.04,
       "change_pct": -1.49,
-      "market_cap": 128977197150.64,
+      "market_cap": 134080657722.79999,
       "headlines": []
     },
     {
@@ -167,21 +167,21 @@
       "headlines": []
     },
     {
+      "symbol": "EOG",
+      "name": "EOG Resources",
+      "price": 157.88,
+      "previous_close": 157.91,
+      "change_pct": -0.02,
+      "market_cap": 84134002598.8,
+      "headlines": []
+    },
+    {
       "symbol": "PWR",
       "name": "Quanta Services",
       "price": 601.14,
       "previous_close": 596.0,
       "change_pct": 0.86,
       "market_cap": 83055704028.92001,
-      "headlines": []
-    },
-    {
-      "symbol": "EOG",
-      "name": "EOG Resources",
-      "price": 157.88,
-      "previous_close": 157.91,
-      "change_pct": -0.02,
-      "market_cap": 82854628640.96,
       "headlines": []
     },
     {
@@ -343,7 +343,7 @@
       "price": 71.0,
       "previous_close": 70.86,
       "change_pct": 0.2,
-      "market_cap": 36245104581.6,
+      "market_cap": 36237932353.44,
       "headlines": []
     },
     {
@@ -487,7 +487,7 @@
       "price": 29.17,
       "previous_close": 28.23,
       "change_pct": 3.33,
-      "market_cap": 8676227107.66,
+      "market_cap": 8767708148.15,
       "headlines": []
     },
     {
@@ -505,7 +505,7 @@
       "price": 85.49,
       "previous_close": 79.34,
       "change_pct": 7.75,
-      "market_cap": 5805352602.72,
+      "market_cap": 5819424262.740001,
       "headlines": []
     },
     {
@@ -532,7 +532,7 @@
       "price": 31.99,
       "previous_close": 32.23,
       "change_pct": -0.74,
-      "market_cap": 4142734714.8,
+      "market_cap": 4131874197.0,
       "headlines": []
     },
     {
@@ -563,21 +563,21 @@
       "headlines": []
     },
     {
-      "symbol": "UUUU",
-      "name": "Energy Fuels",
-      "price": 8.2,
-      "previous_close": 8.21,
-      "change_pct": -0.12,
-      "market_cap": 2036108768.68,
-      "headlines": []
-    },
-    {
       "symbol": "SEDG",
       "name": "SolarEdge",
       "price": 33.19,
       "previous_close": 32.36,
       "change_pct": 2.56,
       "market_cap": 2026658139.12,
+      "headlines": []
+    },
+    {
+      "symbol": "UUUU",
+      "name": "Energy Fuels",
+      "price": 8.2,
+      "previous_close": 8.21,
+      "change_pct": -0.12,
+      "market_cap": 1922230850.0,
       "headlines": []
     },
     {
@@ -823,13 +823,13 @@
     },
     {
       "label": "WTI",
-      "price": 99.08,
-      "change_pct": 1.99
+      "price": 99.15,
+      "change_pct": 2.06
     },
     {
       "label": "Brent",
-      "price": 112.81,
-      "change_pct": 3.67
+      "price": 112.89,
+      "change_pct": 3.74
     },
     {
       "label": "NatGas",
