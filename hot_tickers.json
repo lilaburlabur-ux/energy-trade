@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-23T00:25:49+00:00",
+  "as_of": "2026-10-23T00:40:58+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -17,10 +17,10 @@
    "volume_vs_avg": "~2x",
    "heat_score": 47,
    "direction": "up",
-   "why": "1 Thing in Bloom Energy\u2019s Strong Earnings That May Be Dragging the Stock Down",
-   "catalyst_type": "earnings",
-   "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTzdWdkU2NHRQTlJJYjNmcXNLLW1tblU5MGNjTmNHcExlM043OXF2azFWVG1BajRTV2gxY0htLU5YbGpnak9JZG1EQVluRXhzX3dlZ1hNQXRlY3hyMlRXV3hVUVBUaDF1YXZrYlQ1clZ2aGwtRFJXbDZJREQ1VG5feQ?oc=5",
-   "published": "2026-10-22T22:17:00+00:00",
+   "why": "Stocks making the biggest moves in after hours: Western Digital, Bloom Energy, Deckers Outdoor & more",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdHdoZnM4aDF1emQxV20yZWFpR2JQTFRPQzl4aEZZdVVtem5MZHFrZGItcmdOWXBnS1MyWDJtU2pOTzJsbFJCdW9KbmdzanIzY2FrcGtKalBCaEVlRVJhMXhYeUZpX0FLdExwYTl0d3MtbVRYTWhKckw4VEMwT2d6TDI3ckxOX0dfNmd5LWQxdG5QcjBRdWpoUmpHYw?oc=5",
+   "published": "2026-10-22T21:08:52+00:00",
    "sector": "Grid, Storage & Electrification"
   }
  ]
