@@ -44,7 +44,7 @@
 | SMR | $2.21B | -85% | -8.1 | 0% | Low | Reasonable | High |
 | LEU | $2.10B | -67% | 25.0 | 10% | Low | Fair-to-demanding | High |
 | NXE | $5.46B | -4% | -64.5 | 0% | Low | Reasonable | Elevated |
-| UEC | $3.64B | -47% | -99.2 | 0% | Low | Reasonable | High |
+| UEC | $3.64B | -47% | -99.3 | 0% | Low | Reasonable | High |
 | UUUU | $1.99B | -67% | 15.5 | -77% | Low | Reasonable | High |
 | BWXT | $11.65B | -33% | 24.3 | 10% | Low | Fair-to-demanding | Elevated |
 | FSLR | $18.48B | -23% | 7.3 | 32% | Low | Reasonable | High |

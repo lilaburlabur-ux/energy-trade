@@ -120,6 +120,7 @@ Valero Energy Corporation manufactures, markets, and sells petroleum-based and l
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-10-23 | down | Freedom Broker | Hold → Sell |
 | 2026-10-23 | main | Citigroup | Neutral → Neutral |
 | 2026-10-23 | main | Wells Fargo | Overweight → Overweight |
 | 2026-10-23 | main | Barclays | Overweight → Overweight |
@@ -127,7 +128,6 @@ Valero Energy Corporation manufactures, markets, and sells petroleum-based and l
 | 2026-10-14 | main | Wells Fargo | Overweight → Overweight |
 | 2026-10-13 | main | Citigroup | Neutral → Neutral |
 | 2026-10-12 | main | Evercore ISI Group | In-Line → In-Line |
-| 2026-10-08 | main | Jefferies | Hold → Hold |
 
 ## 9. Conclusion
 VLO: High momentum / mixed fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

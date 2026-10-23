@@ -123,6 +123,7 @@ Centrus Energy Corp. supplies nuclear fuel components for the nuclear power indu
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-10-23 | main | UBS | Neutral → Neutral |
 | 2026-10-23 | main | Barclays | Equal-Weight → Equal-Weight |
 | 2026-10-22 | main | Truist Securities | Buy → Buy |
 | 2026-10-21 | reit | HC Wainwright & Co. | Buy → Buy |
@@ -130,7 +131,6 @@ Centrus Energy Corp. supplies nuclear fuel components for the nuclear power indu
 | 2026-10-08 | init | Guggenheim | — → Buy |
 | 2026-09-03 | init | Jefferies | — → Hold |
 | 2026-08-25 | main | Stifel | Buy → Buy |
-| 2026-08-19 | main | UBS | Neutral → Neutral |
 
 ## 9. Conclusion
 LEU: Low momentum / mixed fundamentals / fair-to-demanding value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
