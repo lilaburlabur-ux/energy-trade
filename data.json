@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-10-23T09:16:55+00:00",
-  "as_of_local": "2026-10-23 09:16:55 UTC",
+  "as_of_utc": "2026-10-23T09:20:57+00:00",
+  "as_of_local": "2026-10-23 09:20:57 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "TRGP"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -247,6 +245,15 @@
       "previous_close": 62.7,
       "change_pct": -0.32,
       "market_cap": 62477335687.5,
+      "headlines": []
+    },
+    {
+      "symbol": "TRGP",
+      "name": "Targa Resources",
+      "price": 289.54,
+      "previous_close": 295.6,
+      "change_pct": -2.05,
+      "market_cap": 62086359652.63632,
       "headlines": []
     },
     {
@@ -816,13 +823,13 @@
     },
     {
       "label": "WTI",
-      "price": 100.33,
-      "change_pct": 0.86
+      "price": 100.25,
+      "change_pct": 0.78
     },
     {
       "label": "Brent",
-      "price": 109.21,
-      "change_pct": -3.5
+      "price": 109.18,
+      "change_pct": -3.53
     },
     {
       "label": "NatGas",
