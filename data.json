@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-10-23T21:46:09+00:00",
-  "as_of_local": "2026-10-23 21:46:09 UTC",
+  "as_of_utc": "2026-10-23T21:51:08+00:00",
+  "as_of_local": "2026-10-23 21:51:08 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "CCJ"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -355,6 +353,15 @@
       "previous_close": 54.67,
       "change_pct": 1.76,
       "market_cap": 34797455748.12317,
+      "headlines": []
+    },
+    {
+      "symbol": "CCJ",
+      "name": "Cameco",
+      "price": 78.6,
+      "previous_close": 78.93,
+      "change_pct": -0.42,
+      "market_cap": 34232891484.829414,
       "headlines": []
     },
     {
