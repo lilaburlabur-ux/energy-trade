@@ -4,24 +4,24 @@ Signed file: `ENPH.research.22.10.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $31.35 (2026-10-22, ~15-min delayed) |
-| Market cap | $4.14B |
+| Current price | $nan (2026-10-22, ~15-min delayed) |
+| Market cap | $4.13B |
 | Sector / Industry | Technology / Solar |
 | Main theme | Solar — see catalysts below |
-| Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: high. |
+| Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-10-22.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-23.83%) with negative half-year (-13.30%). |
-| Fresh setup quality | Poor / broken | -56.66% from 52w high — base needs to rebuild. |
+| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
+| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 10.09%, revenue growth -19.60%. |
 | Value attractiveness | Reasonable | Forward P/E 14.71, EV/Sales 2.87. |
-| Risk level | High | Beta 1.63, ATR 5.3% of price, short float 25.61%. |
+| Risk level | High | Beta 1.63, ATR nan% of price, short float 25.61%. |
 
-**Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: high.
+**Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -35,22 +35,22 @@ Enphase Energy, Inc., together with its subsidiaries, designs, develops, manufac
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $31.35; 52w high $72.33 (-56.66%); 52w low $26.12 (+20.02%) |
-| Trend | -23.83% vs SMA200, -10.35% vs SMA50, -2.26% vs SMA20 |
-| Momentum | RSI(14) 42.4 (neutral) |
-| Volatility | ATR(14) 1.67 (~5.3% of price); beta 1.63 |
-| Setup perspective | -56.66% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $nan; 52w high $72.33 (+nan%); 52w low $26.12 (+nan%) |
+| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
+| Momentum | RSI(14) 45.0 (neutral) |
+| Volatility | ATR(14) 1.71 (~nan% of price); beta 1.63 |
+| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +1.7% |
-| Month | -5.2% |
-| Quarter | -14.6% |
-| Half Y | -13.3% |
-| 1Y | -15.5% |
-| YTD | -7.1% |
+| Week | +nan% |
+| Month | +nan% |
+| Quarter | +nan% |
+| Half Y | +nan% |
+| 1Y | +nan% |
+| YTD | +nan% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -59,7 +59,7 @@ Enphase Energy, Inc., together with its subsidiaries, designs, develops, manufac
 | Revenue (ttm) | $1.33B | Revenue growth -19.60% y/y |
 | Profitability | Gross 30.04%, operating 17.98%, net 10.09% | ROA 2.38%, ROE 13.00% |
 | Balance sheet | Cash $937.71M, debt $613.36M | Current ratio 3.45, debt/equity 51.90 |
-| Valuation | P/E 31.35, forward P/E 14.71, P/S 3.12, P/B 3.51 | EV/Sales 2.87, EV/EBITDA 19.90 |
+| Valuation | P/E 31.35, forward P/E 14.71, P/S 3.11, P/B 3.51 | EV/Sales 2.87, EV/EBITDA 19.90 |
 | Growth expectations | Earnings growth -3.50%, EPS q/q -2.60% | Analyst mean target $50.28 (26 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -86,9 +86,8 @@ Enphase Energy, Inc., together with its subsidiaries, designs, develops, manufac
 | Morgan Stanley | 2,408,561 | 1.82% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.63, ATR 5.3% of price, short float 25.61%. Size positions accordingly.
+- **Volatility risk:** Beta 1.63, ATR nan% of price, short float 25.61%. Size positions accordingly.
 - **Short interest risk:** short float 25.61% can fuel squeezes both ways around news.
-- **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -103,20 +102,20 @@ Enphase Energy, Inc., together with its subsidiaries, designs, develops, manufac
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $31.35 | EV/Sales | 2.87 |
-| Market cap | $4.14B | EV/EBITDA | 19.90 |
+| Price | $nan | EV/Sales | 2.87 |
+| Market cap | $4.13B | EV/EBITDA | 19.90 |
 | Beta | 1.63 | Gross margin | 30.04% |
-| RSI(14) | 42.4 | Operating margin | 17.98% |
-| ATR(14) | 1.67 | Profit margin | 10.09% |
-| SMA20 dist | -2.26% | ROA | 2.38% |
-| SMA50 dist | -10.35% | ROE | 13.00% |
-| SMA200 dist | -23.83% | Revenue (ttm) | $1.33B |
+| RSI(14) | 45.0 | Operating margin | 17.98% |
+| ATR(14) | 1.71 | Profit margin | 10.09% |
+| SMA20 dist | +nan% | ROA | 2.38% |
+| SMA50 dist | +nan% | ROE | 13.00% |
+| SMA200 dist | +nan% | Revenue (ttm) | $1.33B |
 | 52W high | $72.33 | Revenue growth y/y | -19.60% |
 | 52W low | $26.12 | Inst. ownership | 96.59% |
 | P/E (ttm) | 31.35 | Insider ownership | 3.03% |
 | Forward P/E | 14.71 | Short float | 25.61% |
 | PEG (trailing) | 0.75 | Avg volume | 4,640,131 |
-| P/S | 3.12 | Employees | 2,872 |
+| P/S | 3.11 | Employees | 2,872 |
 | P/B | 3.51 | Analyst rec (1=buy..5=sell) | 2.3 |
 
 ## 8. Analyst Actions
@@ -132,7 +131,7 @@ Enphase Energy, Inc., together with its subsidiaries, designs, develops, manufac
 | 2026-09-21 | main | Goldman Sachs | Buy → Buy |
 
 ## 9. Conclusion
-ENPH: Low momentum / mixed fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+ENPH: Moderate momentum / mixed fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

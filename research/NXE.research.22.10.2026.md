@@ -4,24 +4,24 @@ Signed file: `NXE.research.22.10.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $8.10 (2026-10-22, ~15-min delayed) |
-| Market cap | $5.43B |
+| Current price | $nan (2026-10-22, ~15-min delayed) |
+| Market cap | $5.36B |
 | Sector / Industry | Energy / Uranium |
 | Main theme | Uranium — see catalysts below |
-| Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
+| Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-10-22.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-25.27%) with negative half-year (-36.27%). |
-| Fresh setup quality | Poor / broken | -41.81% from 52w high — base needs to rebuild. |
+| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
+| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 0.00%, revenue growth —. |
 | Value attractiveness | Reasonable | Forward P/E -64.09, EV/Sales —. |
-| Risk level | Elevated | Beta 1.72, ATR 4.7% of price, short float —. |
+| Risk level | Elevated | Beta 1.72, ATR nan% of price, short float —. |
 
-**Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
+**Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -35,22 +35,22 @@ NexGen Energy Ltd., an exploration and development stage company, engages in the
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $8.10; 52w high $13.92 (-41.81%); 52w low $7.56 (+7.14%) |
-| Trend | -25.27% vs SMA200, -16.01% vs SMA50, -7.31% vs SMA20 |
-| Momentum | RSI(14) 35.6 (neutral) |
-| Volatility | ATR(14) 0.38 (~4.7% of price); beta 1.72 |
-| Setup perspective | -41.81% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $nan; 52w high $13.92 (+nan%); 52w low $7.56 (+nan%) |
+| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
+| Momentum | RSI(14) 41.4 (neutral) |
+| Volatility | ATR(14) 0.37 (~nan% of price); beta 1.72 |
+| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -5.4% |
-| Month | -15.9% |
-| Quarter | -11.4% |
-| Half Y | -36.3% |
-| 1Y | -0.7% |
-| YTD | -21.0% |
+| Week | +nan% |
+| Month | +nan% |
+| Quarter | +nan% |
+| Half Y | +nan% |
+| 1Y | +nan% |
+| YTD | +nan% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -60,7 +60,7 @@ NexGen Energy Ltd., an exploration and development stage company, engages in the
 | Profitability | Gross 0.00%, operating 0.00%, net 0.00% | ROA -3.39%, ROE -17.67% |
 | Balance sheet | Cash $970.25M, debt $619.11M | Current ratio 1.46, debt/equity 33.57 |
 | Valuation | P/E —, forward P/E -64.09, P/S —, P/B 4.13 | EV/Sales —, EV/EBITDA -46.82 |
-| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $16.60 (2 analysts) |
+| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $16.61 (2 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
@@ -86,8 +86,7 @@ NexGen Energy Ltd., an exploration and development stage company, engages in the
 | Manufacturers Life Insurance Co. | 7,290,022 | 1.09% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.72, ATR 4.7% of price, short float —. Size positions accordingly.
-- **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
+- **Volatility risk:** Beta 1.72, ATR nan% of price, short float —. Size positions accordingly.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -102,14 +101,14 @@ NexGen Energy Ltd., an exploration and development stage company, engages in the
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $8.10 | EV/Sales | — |
-| Market cap | $5.43B | EV/EBITDA | -46.82 |
+| Price | $nan | EV/Sales | — |
+| Market cap | $5.36B | EV/EBITDA | -46.82 |
 | Beta | 1.72 | Gross margin | 0.00% |
-| RSI(14) | 35.6 | Operating margin | 0.00% |
-| ATR(14) | 0.38 | Profit margin | 0.00% |
-| SMA20 dist | -7.31% | ROA | -3.39% |
-| SMA50 dist | -16.01% | ROE | -17.67% |
-| SMA200 dist | -25.27% | Revenue (ttm) | — |
+| RSI(14) | 41.4 | Operating margin | 0.00% |
+| ATR(14) | 0.37 | Profit margin | 0.00% |
+| SMA20 dist | +nan% | ROA | -3.39% |
+| SMA50 dist | +nan% | ROE | -17.67% |
+| SMA200 dist | +nan% | Revenue (ttm) | — |
 | 52W high | $13.92 | Revenue growth y/y | — |
 | 52W low | $7.56 | Inst. ownership | 56.05% |
 | P/E (ttm) | — | Insider ownership | 6.40% |
@@ -124,7 +123,7 @@ NexGen Energy Ltd., an exploration and development stage company, engages in the
 | 2026-09-21 | init | JP Morgan | — → Overweight |
 
 ## 9. Conclusion
-NXE: Low momentum / mixed fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+NXE: Moderate momentum / mixed fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

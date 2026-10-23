@@ -4,24 +4,24 @@ Signed file: `MPC.research.22.10.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $459.28 (2026-10-22, ~15-min delayed) |
-| Market cap | $128.98B |
+| Current price | $nan (2026-10-22, ~15-min delayed) |
+| Market cap | $134.08B |
 | Sector / Industry | Energy / Oil & Gas Refining & Marketing |
 | Main theme | Oil & Gas Refining & Marketing — see catalysts below |
-| Current stance | High technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
+| Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-10-22.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +155.35%; price +63.24% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -5.29% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
+| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 5.55%, revenue growth 53.70%. |
 | Value attractiveness | Reasonable | Forward P/E 7.86, EV/Sales 1.05. |
-| Risk level | Elevated | Beta 0.54, ATR 3.7% of price, short float 2.91%. |
+| Risk level | Moderate | Beta 0.54, ATR nan% of price, short float 2.91%. |
 
-**Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
+**Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -35,22 +35,22 @@ Marathon Petroleum Corporation, together with its subsidiaries, operates as an i
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $459.28; 52w high $484.92 (-5.29%); 52w low $160.76 (+185.69%) |
-| Trend | +63.24% vs SMA200, +12.79% vs SMA50, +3.31% vs SMA20 |
-| Momentum | RSI(14) 61.0 (neutral) |
-| Volatility | ATR(14) 16.83 (~3.7% of price); beta 0.54 |
-| Setup perspective | -5.29% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $nan; 52w high $484.92 (+nan%); 52w low $160.76 (+nan%) |
+| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
+| Momentum | RSI(14) 66.8 (neutral) |
+| Volatility | ATR(14) 16.22 (~nan% of price); beta 0.54 |
+| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -3.7% |
-| Month | +18.3% |
-| Quarter | +48.9% |
-| Half Y | +109.1% |
-| 1Y | +155.3% |
-| YTD | +181.3% |
+| Week | +nan% |
+| Month | +nan% |
+| Quarter | +nan% |
+| Half Y | +nan% |
+| 1Y | +nan% |
+| YTD | +nan% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -59,7 +59,7 @@ Marathon Petroleum Corporation, together with its subsidiaries, operates as an i
 | Revenue (ttm) | $154.15B | Revenue growth 53.70% y/y |
 | Profitability | Gross 12.82%, operating 13.56%, net 5.55% | ROA 8.74%, ROE 42.10% |
 | Balance sheet | Cash $7.77B, debt $34.29B | Current ratio 1.25, debt/equity 133.33 |
-| Valuation | P/E 15.90, forward P/E 7.86, P/S 0.84, P/B 6.81 | EV/Sales 1.05, EV/EBITDA 10.53 |
+| Valuation | P/E 15.90, forward P/E 7.86, P/S 0.87, P/B 6.81 | EV/Sales 1.05, EV/EBITDA 10.53 |
 | Growth expectations | Earnings growth 348.00%, EPS q/q 322.50% | Analyst mean target $458.72 (18 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -86,8 +86,6 @@ Marathon Petroleum Corporation, together with its subsidiaries, operates as an i
 | Boston Partners | 3,515,417 | 1.20% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 0.54, ATR 3.7% of price, short float 2.91%. Size positions accordingly.
-- **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -102,20 +100,20 @@ Marathon Petroleum Corporation, together with its subsidiaries, operates as an i
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $459.28 | EV/Sales | 1.05 |
-| Market cap | $128.98B | EV/EBITDA | 10.53 |
+| Price | $nan | EV/Sales | 1.05 |
+| Market cap | $134.08B | EV/EBITDA | 10.53 |
 | Beta | 0.54 | Gross margin | 12.82% |
-| RSI(14) | 61.0 | Operating margin | 13.56% |
-| ATR(14) | 16.83 | Profit margin | 5.55% |
-| SMA20 dist | +3.31% | ROA | 8.74% |
-| SMA50 dist | +12.79% | ROE | 42.10% |
-| SMA200 dist | +63.24% | Revenue (ttm) | $154.15B |
+| RSI(14) | 66.8 | Operating margin | 13.56% |
+| ATR(14) | 16.22 | Profit margin | 5.55% |
+| SMA20 dist | +nan% | ROA | 8.74% |
+| SMA50 dist | +nan% | ROE | 42.10% |
+| SMA200 dist | +nan% | Revenue (ttm) | $154.15B |
 | 52W high | $484.92 | Revenue growth y/y | 53.70% |
 | 52W low | $160.76 | Inst. ownership | 79.57% |
 | P/E (ttm) | 15.90 | Insider ownership | 0.33% |
 | Forward P/E | 7.86 | Short float | 2.91% |
 | PEG (trailing) | 0.90 | Avg volume | 2,500,234 |
-| P/S | 0.84 | Employees | 18,500 |
+| P/S | 0.87 | Employees | 18,500 |
 | P/B | 6.81 | Analyst rec (1=buy..5=sell) | 2.4 |
 
 ## 8. Analyst Actions
@@ -131,7 +129,7 @@ Marathon Petroleum Corporation, together with its subsidiaries, operates as an i
 | 2026-09-22 | down | Jefferies | Buy → Hold |
 
 ## 9. Conclusion
-MPC: High momentum / mixed fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+MPC: Moderate momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |
