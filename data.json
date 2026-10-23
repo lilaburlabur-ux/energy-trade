@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-10-23T12:16:43+00:00",
-  "as_of_local": "2026-10-23 12:16:43 UTC",
+  "as_of_utc": "2026-10-23T12:21:19+00:00",
+  "as_of_local": "2026-10-23 12:21:19 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "HUBB"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -58,6 +56,15 @@
       "previous_close": 145.67,
       "change_pct": -0.03,
       "market_cap": 177420162188.1112,
+      "headlines": []
+    },
+    {
+      "symbol": "NEE",
+      "name": "NextEra Energy",
+      "price": 81.9,
+      "previous_close": 78.28,
+      "change_pct": 4.62,
+      "market_cap": 171769368613.33505,
       "headlines": []
     },
     {
@@ -373,6 +380,15 @@
       "previous_close": 70.0,
       "change_pct": -4.54,
       "market_cap": 26204424286.480927,
+      "headlines": []
+    },
+    {
+      "symbol": "HUBB",
+      "name": "Hubbell",
+      "price": 445.8,
+      "previous_close": 460.76,
+      "change_pct": -3.25,
+      "market_cap": 23552759506.871155,
       "headlines": []
     },
     {
@@ -807,18 +823,18 @@
     },
     {
       "label": "WTI",
-      "price": 101.09,
-      "change_pct": 1.63
+      "price": 101.53,
+      "change_pct": 2.07
     },
     {
       "label": "Brent",
-      "price": 110.15,
-      "change_pct": -2.67
+      "price": 110.44,
+      "change_pct": -2.41
     },
     {
       "label": "NatGas",
-      "price": 3.1,
-      "change_pct": 10.91
+      "price": 3.12,
+      "change_pct": 11.41
     }
   ]
 }
