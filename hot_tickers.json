@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-23T21:30:30+00:00",
+  "as_of": "2026-10-23T21:35:34+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,8 +11,8 @@
    "rank": 1,
    "ticker": "BE",
    "company": "Bloom Energy Corporation",
-   "move_pct": -11.38,
-   "price": 192.98,
+   "move_pct": -11.41,
+   "price": 192.92,
    "volume": 35824073,
    "volume_vs_avg": "~2x",
    "heat_score": 76,
@@ -27,8 +27,8 @@
    "rank": 2,
    "ticker": "SLB",
    "company": "SLB Limited",
-   "move_pct": 7.33,
-   "price": 53.18,
+   "move_pct": 7.27,
+   "price": 53.15,
    "volume": 19041356,
    "volume_vs_avg": "~2x",
    "heat_score": 48,
