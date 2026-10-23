@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-10-22T23:57:30+00:00",
-  "as_of_local": "2026-10-22 23:57:30 UTC",
+  "as_of_utc": "2026-10-22T23:59:56+00:00",
+  "as_of_local": "2026-10-22 23:59:56 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "DVN"
+    "PR"
   ],
   "stocks": [
     {
@@ -304,6 +304,15 @@
       "headlines": []
     },
     {
+      "symbol": "DVN",
+      "name": "Devon Energy",
+      "price": 49.18,
+      "previous_close": 49.87,
+      "change_pct": -1.38,
+      "market_cap": 54098000335.69336,
+      "headlines": []
+    },
+    {
       "symbol": "BKR",
       "name": "Baker Hughes",
       "price": 53.62,
@@ -391,15 +400,6 @@
       "previous_close": 125.57,
       "change_pct": -2.59,
       "market_cap": 21746520355.424675,
-      "headlines": []
-    },
-    {
-      "symbol": "PR",
-      "name": "Permian Resources",
-      "price": 24.4,
-      "previous_close": 24.84,
-      "change_pct": -1.77,
-      "market_cap": 20436391188.09735,
       "headlines": []
     },
     {
@@ -816,13 +816,13 @@
     },
     {
       "label": "WTI",
-      "price": 99.38,
-      "change_pct": 2.3
+      "price": 99.43,
+      "change_pct": 2.35
     },
     {
       "label": "Brent",
-      "price": 113.2,
-      "change_pct": 4.02
+      "price": 113.24,
+      "change_pct": 4.06
     },
     {
       "label": "NatGas",
