@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-10-23T20:05:59+00:00",
-  "as_of_local": "2026-10-23 20:05:59 UTC",
+  "as_of_utc": "2026-10-23T20:09:49+00:00",
+  "as_of_local": "2026-10-23 20:09:49 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -73,16 +73,7 @@
       "price": 366.04,
       "previous_close": 368.99,
       "change_pct": -0.8,
-      "market_cap": 142133335317.99316,
-      "headlines": []
-    },
-    {
-      "symbol": "MPC",
-      "name": "Marathon Petroleum",
-      "price": 457.2,
-      "previous_close": 459.28,
-      "change_pct": -0.45,
-      "market_cap": 133473370721.28616,
+      "market_cap": 142169939318.84766,
       "headlines": []
     },
     {
@@ -92,6 +83,15 @@
       "previous_close": 50.05,
       "change_pct": 2.54,
       "market_cap": 132179353351.75186,
+      "headlines": []
+    },
+    {
+      "symbol": "MPC",
+      "name": "Marathon Petroleum",
+      "price": 457.2,
+      "previous_close": 459.28,
+      "change_pct": -0.45,
+      "market_cap": 128393025080.99515,
       "headlines": []
     },
     {
@@ -172,7 +172,7 @@
       "price": 163.02,
       "previous_close": 157.96,
       "change_pct": 3.21,
-      "market_cap": 86831657197.8804,
+      "market_cap": 85511261668.08728,
       "headlines": []
     },
     {
@@ -343,7 +343,7 @@
       "price": 72.02,
       "previous_close": 72.72,
       "change_pct": -0.96,
-      "market_cap": 35889105699.208145,
+      "market_cap": 35896208887.43706,
       "headlines": []
     },
     {
@@ -487,7 +487,7 @@
       "price": 28.5,
       "previous_close": 28.91,
       "change_pct": -1.42,
-      "market_cap": 8643365002.5,
+      "market_cap": 8553181341.0,
       "headlines": []
     },
     {
@@ -532,7 +532,7 @@
       "price": 31.6,
       "previous_close": 31.35,
       "change_pct": 0.8,
-      "market_cap": 4164823802.277031,
+      "market_cap": 4175770927.2091827,
       "headlines": []
     },
     {
@@ -577,7 +577,7 @@
       "price": 7.52,
       "previous_close": 7.69,
       "change_pct": -2.27,
-      "market_cap": 1878537002.518177,
+      "market_cap": 1989826384.857523,
       "headlines": []
     },
     {
@@ -823,18 +823,18 @@
     },
     {
       "label": "WTI",
-      "price": 103.63,
-      "change_pct": 4.18
+      "price": 103.61,
+      "change_pct": 4.16
     },
     {
       "label": "Brent",
-      "price": 111.98,
-      "change_pct": -1.05
+      "price": 111.94,
+      "change_pct": -1.09
     },
     {
       "label": "NatGas",
       "price": 3.05,
-      "change_pct": 9.19
+      "change_pct": 9.16
     }
   ]
 }
