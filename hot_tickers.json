@@ -1,10 +1,27 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-23T13:21:00+00:00",
+  "as_of": "2026-10-23T13:36:13+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": []
+ "hot_tickers": [
+  {
+   "rank": 1,
+   "ticker": "BE",
+   "company": "Bloom Energy Corporation",
+   "move_pct": -12.23,
+   "price": 191.13,
+   "volume": 4438113,
+   "volume_vs_avg": "~0.3x",
+   "heat_score": 69,
+   "direction": "down",
+   "why": "Bloom Energy Sinks 4% as Negative Cash Flow Overshadows Third Guidance Raise; FuelCell and Plug Power Hold Steady",
+   "catalyst_type": "earnings",
+   "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQUljZ3dXYWU4bUVJOXlSTjB2Vk9vbjhQLS1KdnN1WGJPbXgtMHBLck5SVXRaalo3a3pJZ0E5dVFPUThQQ2gxcDV1bDhTcTFoRnFVUjdCUzlaOWJaNXZYVVotd0M5RTlQcWZqUDZUQm5TVktkVUpWbXZNc3F5cWloWkZsMkRXVGUwdlBrZXJkNGQ3RUJ2Y2NmTU53?oc=5",
+   "published": "2026-10-23T13:12:38+00:00",
+   "sector": "Grid, Storage & Electrification"
+  }
+ ]
 }
