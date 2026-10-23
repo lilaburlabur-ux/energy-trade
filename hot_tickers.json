@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-23T23:45:39+00:00",
+  "as_of": "2026-10-23T23:50:51+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,11 +11,11 @@
    "rank": 1,
    "ticker": "BE",
    "company": "Bloom Energy Corporation",
-   "move_pct": -12.09,
-   "price": 191.44,
+   "move_pct": -12.0,
+   "price": 191.64,
    "volume": 35824073,
    "volume_vs_avg": "~2x",
-   "heat_score": 79,
+   "heat_score": 78,
    "direction": "down",
    "why": "Moderna, Meta, SpaceX, Bloom Energy, AT&T, and More Stocks That Explain Today\u2019s Market",
    "catalyst_type": "momentum_narrative",
@@ -86,6 +86,22 @@
    "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPT2xMb2U1UWtKWEZFdFpqRUdWWEVzTXpaRURuUURqRnMtYnVRdHFLN3NORFRXeW15VlRES19HRlRzZ0NTNFhIWG96RTRSaEN5R0c2Y1JRRVBqVFZtaEZZYmtOUkY4OVJ2M3NWQnZqYU1nTVBZMGN5ZEtIWkpMSmM5NmRXNnFJVVVYc1IwQUd6emNEaXFWdlJ0QkFEeGhmSzRmbW9CVUJmOThHUnZwSXNybUlDWQ?oc=5",
    "published": "2026-10-23T21:37:15+00:00",
    "sector": "Oilfield Services"
+  },
+  {
+   "rank": 6,
+   "ticker": "APA",
+   "company": "APA Corporation",
+   "move_pct": 5.18,
+   "price": 52.0,
+   "volume": 7066667,
+   "volume_vs_avg": "~1.2x",
+   "heat_score": 39,
+   "direction": "up",
+   "why": "A Look at APA Corp (APA) After 5.0% Gain -- GF Value $27.21 vs P",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdG9sdXp4V2tnWHA0LXpOQXdTTWptTzc3OUJKRTl4bWNMQXJOQWVuVVBGWVF0LVNQVWNGcjV0TW96TU1PRFlDWTQ5Y0RUN2d2MHdfT3NCSmpRbnhkYVF2VENRekRyYUtBcUFnWV9WdVhxMVhJZ3Z3RENnbW1NTHBiOUkwV2RHUTJFZDJhMU1hQ1lXNy10THhSRGhYajZPdTk3RWhNLXF3?oc=5",
+   "published": "2026-10-23T21:54:33+00:00",
+   "sector": "Shale & E&P"
   }
  ]
 }
