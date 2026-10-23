@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-10-23T07:14:32+00:00",
-  "as_of_local": "2026-10-23 07:14:32 UTC",
+  "as_of_utc": "2026-10-23T07:29:36+00:00",
+  "as_of_local": "2026-10-23 07:29:36 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "HAL"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -362,15 +364,6 @@
       "previous_close": 54.07,
       "change_pct": 1.11,
       "market_cap": 34196958574.645996,
-      "headlines": []
-    },
-    {
-      "symbol": "HAL",
-      "name": "Halliburton",
-      "price": 33.19,
-      "previous_close": 33.99,
-      "change_pct": -2.35,
-      "market_cap": 27651595736.599552,
       "headlines": []
     },
     {
@@ -823,18 +816,18 @@
     },
     {
       "label": "WTI",
-      "price": 100.88,
-      "change_pct": 1.42
+      "price": 100.74,
+      "change_pct": 1.28
     },
     {
       "label": "Brent",
-      "price": 114.44,
-      "change_pct": 1.12
+      "price": 114.31,
+      "change_pct": 1.01
     },
     {
       "label": "NatGas",
-      "price": 2.72,
-      "change_pct": -2.72
+      "price": 2.71,
+      "change_pct": -2.9
     }
   ]
 }
