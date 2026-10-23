@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-23T14:42:11+00:00",
+  "as_of": "2026-10-23T14:47:18+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,17 +11,33 @@
    "rank": 1,
    "ticker": "BE",
    "company": "Bloom Energy Corporation",
-   "move_pct": -9.57,
-   "price": 196.93,
-   "volume": 15308194,
+   "move_pct": -10.23,
+   "price": 195.5,
+   "volume": 15952325,
    "volume_vs_avg": "~1.0x",
-   "heat_score": 63,
+   "heat_score": 66,
    "direction": "down",
    "why": "Moderna, Meta, SpaceX, Bloom Energy, AT&T, and More Stocks That Explain Today\u2019s Market",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1rLXV3T1ZiM0NSaTBxNEh1Yk95cWZidlhldU5PNENBMlM5RDJ3V3dmTXR5TnQ4Y210MU5wZndISi1aWk05ZjRJTXVvNWFiZGZ1cko5MGNXaWdLZGRnaDJsaWFHQ2c?oc=5",
    "published": "2026-10-23T14:00:00+00:00",
    "sector": "Grid, Storage & Electrification"
+  },
+  {
+   "rank": 2,
+   "ticker": "SLB",
+   "company": "SLB Limited",
+   "move_pct": 5.08,
+   "price": 52.06,
+   "volume": 4858735,
+   "volume_vs_avg": "~0.4x",
+   "heat_score": 35,
+   "direction": "up",
+   "why": "SLB: Oilfield-Services Giant or AI Stock? Earnings Offer a Clue.",
+   "catalyst_type": "earnings",
+   "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE42ZDRqQ2VmeDNhVXRDdGJTNF9iS2tTcF9LOUwwMklGNWZnMlF5YkFwTzh0RGFzNFd5WEY2QUhBWjBIRjQ1b3o1Vkw1Uk9yYVlUVWl3dlc5N3NtM1liaGpuZ19veGYyZ1I3MEpkSms2UnkwZjJ5SjQ5Yw?oc=5",
+   "published": "2026-10-23T12:15:00+00:00",
+   "sector": "Oilfield Services"
   }
  ]
 }
