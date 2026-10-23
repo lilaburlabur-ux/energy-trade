@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-10-23T10:26:48+00:00",
-  "as_of_local": "2026-10-23 10:26:48 UTC",
+  "as_of_utc": "2026-10-23T10:31:57+00:00",
+  "as_of_local": "2026-10-23 10:31:57 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "LEU"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -554,15 +556,6 @@
       "headlines": []
     },
     {
-      "symbol": "LEU",
-      "name": "Centrus Energy",
-      "price": 104.15,
-      "previous_close": 108.91,
-      "change_pct": -4.37,
-      "market_cap": 2130191229.408966,
-      "headlines": []
-    },
-    {
       "symbol": "UUUU",
       "name": "Energy Fuels",
       "price": 7.69,
@@ -823,13 +816,13 @@
     },
     {
       "label": "WTI",
-      "price": 101.03,
-      "change_pct": 1.57
+      "price": 101.09,
+      "change_pct": 1.63
     },
     {
       "label": "Brent",
-      "price": 109.77,
-      "change_pct": -3.0
+      "price": 109.83,
+      "change_pct": -2.95
     },
     {
       "label": "NatGas",
