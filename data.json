@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-10-23T22:06:37+00:00",
-  "as_of_local": "2026-10-23 22:06:37 UTC",
+  "as_of_utc": "2026-10-23T22:11:42+00:00",
+  "as_of_local": "2026-10-23 22:11:42 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "NEE"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -58,6 +56,15 @@
       "previous_close": 145.63,
       "change_pct": 3.55,
       "market_cap": 183718739973.53827,
+      "headlines": []
+    },
+    {
+      "symbol": "NEE",
+      "name": "NextEra Energy",
+      "price": 82.1,
+      "previous_close": 81.9,
+      "change_pct": 0.24,
+      "market_cap": 172188823422.66495,
       "headlines": []
     },
     {
