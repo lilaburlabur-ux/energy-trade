@@ -18,7 +18,7 @@ Signed file: `ENPH.research.23.10.2026`
 | Technical momentum | Low | Below SMA200 (-23.20%) with negative half-year (-11.66%). |
 | Fresh setup quality | Poor / broken | -56.31% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 10.09%, revenue growth -19.60%. |
-| Value attractiveness | Reasonable | Forward P/E 14.82, EV/Sales 2.87. |
+| Value attractiveness | Reasonable | Forward P/E 14.82, EV/Sales 2.90. |
 | Risk level | High | Beta 1.63, ATR 5.2% of price, short float 25.61%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: high.
@@ -59,7 +59,7 @@ Enphase Energy, Inc., together with its subsidiaries, designs, develops, manufac
 | Revenue (ttm) | $1.33B | Revenue growth -19.60% y/y |
 | Profitability | Gross 30.04%, operating 17.98%, net 10.09% | ROA 2.38%, ROE 13.00% |
 | Balance sheet | Cash $937.71M, debt $613.36M | Current ratio 3.45, debt/equity 51.90 |
-| Valuation | P/E 31.60, forward P/E 14.82, P/S 3.14, P/B 3.53 | EV/Sales 2.87, EV/EBITDA 19.91 |
+| Valuation | P/E 31.60, forward P/E 14.82, P/S 3.14, P/B 3.53 | EV/Sales 2.90, EV/EBITDA 20.08 |
 | Growth expectations | Earnings growth -3.50%, EPS q/q -2.60% | Analyst mean target $49.13 (26 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -103,8 +103,8 @@ Enphase Energy, Inc., together with its subsidiaries, designs, develops, manufac
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $31.60 | EV/Sales | 2.87 |
-| Market cap | $4.18B | EV/EBITDA | 19.91 |
+| Price | $31.60 | EV/Sales | 2.90 |
+| Market cap | $4.18B | EV/EBITDA | 20.08 |
 | Beta | 1.63 | Gross margin | 30.04% |
 | RSI(14) | 43.8 | Operating margin | 17.98% |
 | ATR(14) | 1.63 | Profit margin | 10.09% |

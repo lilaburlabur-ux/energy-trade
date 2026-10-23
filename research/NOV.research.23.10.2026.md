@@ -18,7 +18,7 @@ Signed file: `NOV.research.23.10.2026`
 | Technical momentum | Moderate | 1Y +51.94%; price +1.69% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -8.60% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 1.10%, revenue growth -2.50%. |
-| Value attractiveness | Reasonable | Forward P/E 15.42, EV/Sales 0.92. |
+| Value attractiveness | Reasonable | Forward P/E 15.42, EV/Sales 0.96. |
 | Risk level | High | Beta 0.98, ATR 3.0% of price, short float 13.77%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: high.
@@ -59,7 +59,7 @@ NOV Inc. designs, constructs, manufactures, and sells systems, components, and p
 | Revenue (ttm) | $8.64B | Revenue growth -2.50% y/y |
 | Profitability | Gross 21.65%, operating 7.17%, net 1.10% | ROA 3.45%, ROE 1.54% |
 | Balance sheet | Cash $1.16B, debt $2.33B | Current ratio 2.42, debt/equity 37.15 |
-| Valuation | P/E 73.19, forward P/E 15.42, P/S 0.82, P/B 1.14 | EV/Sales 0.92, EV/EBITDA 8.02 |
+| Valuation | P/E 73.19, forward P/E 15.42, P/S 0.82, P/B 1.14 | EV/Sales 0.96, EV/EBITDA 8.38 |
 | Growth expectations | Earnings growth 7.60%, EPS q/q 3.70% | Analyst mean target $22.08 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -102,8 +102,8 @@ NOV Inc. designs, constructs, manufactures, and sells systems, components, and p
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $19.76 | EV/Sales | 0.92 |
-| Market cap | $7.04B | EV/EBITDA | 8.02 |
+| Price | $19.76 | EV/Sales | 0.96 |
+| Market cap | $7.04B | EV/EBITDA | 8.38 |
 | Beta | 0.98 | Gross margin | 21.65% |
 | RSI(14) | 55.1 | Operating margin | 7.17% |
 | ATR(14) | 0.60 | Profit margin | 1.10% |

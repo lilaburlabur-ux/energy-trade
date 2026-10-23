@@ -18,7 +18,7 @@ Signed file: `HUBB.research.23.10.2026`
 | Technical momentum | Low | Below SMA200 (-7.95%) with negative half-year (-18.48%). |
 | Fresh setup quality | Moderate / wait | -19.18% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 14.49%, revenue growth 15.30%. |
-| Value attractiveness | Reasonable | Forward P/E 19.44, EV/Sales 4.62. |
+| Value attractiveness | Reasonable | Forward P/E 19.44, EV/Sales 4.63. |
 | Risk level | Elevated | Beta 0.85, ATR 3.1% of price, short float 5.57%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
@@ -59,7 +59,7 @@ Hubbell Incorporated, together with its subsidiaries, manufactures and sells ele
 | Revenue (ttm) | $6.22B | Revenue growth 15.30% y/y |
 | Profitability | Gross 35.34%, operating 21.67%, net 14.49% | ROA 8.43%, ROE 24.44% |
 | Balance sheet | Cash $394.70M, debt $5.56B | Current ratio 1.61, debt/equity 141.64 |
-| Valuation | P/E 26.53, forward P/E 19.44, P/S 3.80, P/B 6.05 | EV/Sales 4.62, EV/EBITDA 18.95 |
+| Valuation | P/E 26.53, forward P/E 19.44, P/S 3.80, P/B 6.05 | EV/Sales 4.63, EV/EBITDA 19.04 |
 | Growth expectations | Earnings growth -0.90%, EPS q/q -1.60% | Analyst mean target $555.54 (13 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -102,8 +102,8 @@ Hubbell Incorporated, together with its subsidiaries, manufactures and sells ele
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $448.10 | EV/Sales | 4.62 |
-| Market cap | $23.67B | EV/EBITDA | 18.95 |
+| Price | $448.10 | EV/Sales | 4.63 |
+| Market cap | $23.67B | EV/EBITDA | 19.04 |
 | Beta | 0.85 | Gross margin | 35.34% |
 | RSI(14) | 38.5 | Operating margin | 21.67% |
 | ATR(14) | 13.98 | Profit margin | 14.49% |

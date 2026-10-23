@@ -20,7 +20,7 @@
 | AR | $12.35B | +25% | 8.6 | 19% | Moderate | Reasonable | Elevated |
 | PR | $21.35B | +111% | 10.4 | 22% | High | Reasonable | Moderate |
 | OVV | $19.99B | +102% | 8.7 | 10% | High | Reasonable | Moderate |
-| SLB | $78.75B | +56% | 16.8 | 9% | Moderate | Reasonable | Elevated |
+| SLB | $78.75B | +56% | 16.9 | 9% | Moderate | Reasonable | Elevated |
 | HAL | $29.09B | +35% | 11.8 | 9% | Low | Reasonable | Moderate |
 | BKR | $55.45B | +20% | 19.0 | 11% | Low | Reasonable | Elevated |
 | NOV | $7.04B | +52% | 15.4 | 1% | Moderate | Reasonable | High |
@@ -36,7 +36,7 @@
 | MPLX | $59.95B | +26% | 12.3 | 39% | Moderate | Reasonable | Moderate |
 | MPC | $128.40B | +147% | 7.8 | 6% | High | Reasonable | Elevated |
 | PSX | $113.54B | +122% | 9.3 | 5% | High | Reasonable | Elevated |
-| VLO | $120.72B | +165% | 8.3 | 9% | High | Reasonable | Elevated |
+| VLO | $120.72B | +165% | 8.1 | 9% | High | Reasonable | Elevated |
 | DINO | $21.63B | +138% | 8.1 | 6% | High | Reasonable | Elevated |
 | CCJ | $34.23B | -6% | 41.5 | 10% | Low | Low (expensive) | Elevated |
 | CEG | $89.80B | -27% | 19.0 | 11% | Low | Reasonable | High |
