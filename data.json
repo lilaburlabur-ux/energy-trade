@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-10-23T09:51:16+00:00",
-  "as_of_local": "2026-10-23 09:51:16 UTC",
+  "as_of_utc": "2026-10-23T09:56:22+00:00",
+  "as_of_local": "2026-10-23 09:56:22 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "DINO"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -389,15 +391,6 @@
       "previous_close": 460.76,
       "change_pct": -3.25,
       "market_cap": 23552759506.871155,
-      "headlines": []
-    },
-    {
-      "symbol": "DINO",
-      "name": "HF Sinclair",
-      "price": 122.32,
-      "previous_close": 125.57,
-      "change_pct": -2.59,
-      "market_cap": 21746520355.424675,
       "headlines": []
     },
     {
@@ -823,18 +816,18 @@
     },
     {
       "label": "WTI",
-      "price": 101.27,
-      "change_pct": 1.81
+      "price": 101.15,
+      "change_pct": 1.69
     },
     {
       "label": "Brent",
-      "price": 109.89,
-      "change_pct": -2.9
+      "price": 109.76,
+      "change_pct": -3.01
     },
     {
       "label": "NatGas",
-      "price": 3.12,
-      "change_pct": 11.7
+      "price": 3.13,
+      "change_pct": 11.84
     }
   ]
 }
