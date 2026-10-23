@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-10-23T05:50:24+00:00",
-  "as_of_local": "2026-10-23 05:50:24 UTC",
+  "as_of_utc": "2026-10-23T05:54:06+00:00",
+  "as_of_local": "2026-10-23 05:54:06 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -823,18 +823,18 @@
     },
     {
       "label": "WTI",
-      "price": 100.42,
-      "change_pct": 0.96
-    },
-    {
-      "label": "Brent",
-      "price": 114.11,
+      "price": 100.3,
       "change_pct": 0.83
     },
     {
+      "label": "Brent",
+      "price": 113.86,
+      "change_pct": 0.61
+    },
+    {
       "label": "NatGas",
-      "price": 2.73,
-      "change_pct": -2.29
+      "price": 2.74,
+      "change_pct": -2.07
     }
   ]
 }
