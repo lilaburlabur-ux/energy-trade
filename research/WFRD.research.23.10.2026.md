@@ -60,7 +60,7 @@ Weatherford International plc, an energy services company, provides equipment an
 | Profitability | Gross 31.31%, operating 14.44%, net 8.64% | ROA 8.18%, ROE 23.32% |
 | Balance sheet | Cash $1.16B, debt $1.48B | Current ratio 2.79, debt/equity 74.30 |
 | Valuation | P/E 16.36, forward P/E 13.03, P/S 1.34, P/B 3.13 | EV/Sales 1.40, EV/EBITDA 7.03 |
-| Growth expectations | Earnings growth 48.20%, EPS q/q 48.10% | Analyst mean target $113.00 (12 analysts) |
+| Growth expectations | Earnings growth 48.20%, EPS q/q 48.10% | Analyst mean target $112.83 (12 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |

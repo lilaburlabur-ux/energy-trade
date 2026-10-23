@@ -60,7 +60,7 @@ SLB N.V. engages in the provision of technology for the energy industry worldwid
 | Profitability | Gross 16.99%, operating 12.71%, net 8.53% | ROA 6.17%, ROE 12.91% |
 | Balance sheet | Cash $4.12B, debt $12.81B | Current ratio 1.44, debt/equity 47.00 |
 | Valuation | P/E 25.63, forward P/E 16.86, P/S 2.17, P/B 3.04 | EV/Sales 2.29, EV/EBITDA 11.30 |
-| Growth expectations | Earnings growth -29.70%, EPS q/q -22.50% | Analyst mean target $62.28 (29 analysts) |
+| Growth expectations | Earnings growth -29.70%, EPS q/q -22.50% | Analyst mean target $62.34 (29 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
