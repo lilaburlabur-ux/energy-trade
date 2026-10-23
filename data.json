@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-10-23T09:41:18+00:00",
-  "as_of_local": "2026-10-23 09:41:18 UTC",
+  "as_of_utc": "2026-10-23T09:46:24+00:00",
+  "as_of_local": "2026-10-23 09:46:24 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NEE"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -56,15 +58,6 @@
       "previous_close": 145.67,
       "change_pct": -0.03,
       "market_cap": 177420162188.1112,
-      "headlines": []
-    },
-    {
-      "symbol": "NEE",
-      "name": "NextEra Energy",
-      "price": 81.9,
-      "previous_close": 78.28,
-      "change_pct": 4.62,
-      "market_cap": 170811082002.58124,
       "headlines": []
     },
     {
@@ -823,18 +816,18 @@
     },
     {
       "label": "WTI",
-      "price": 100.79,
-      "change_pct": 1.33
+      "price": 101.23,
+      "change_pct": 1.77
     },
     {
       "label": "Brent",
-      "price": 109.49,
-      "change_pct": -3.25
+      "price": 109.91,
+      "change_pct": -2.88
     },
     {
       "label": "NatGas",
       "price": 3.12,
-      "change_pct": 11.52
+      "change_pct": 11.66
     }
   ]
 }
