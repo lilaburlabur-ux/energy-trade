@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-23T15:02:30+00:00",
+  "as_of": "2026-10-23T15:17:38+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,11 +11,11 @@
    "rank": 1,
    "ticker": "BE",
    "company": "Bloom Energy Corporation",
-   "move_pct": -10.81,
-   "price": 194.22,
-   "volume": 17127620,
+   "move_pct": -11.04,
+   "price": 193.74,
+   "volume": 18081680,
    "volume_vs_avg": "~1.1x",
-   "heat_score": 68,
+   "heat_score": 69,
    "direction": "down",
    "why": "Moderna, Meta, SpaceX, Bloom Energy, AT&T, and More Stocks That Explain Today\u2019s Market",
    "catalyst_type": "momentum_narrative",
@@ -27,33 +27,17 @@
    "rank": 2,
    "ticker": "SLB",
    "company": "SLB Limited",
-   "move_pct": 5.8,
-   "price": 52.42,
-   "volume": 5730602,
+   "move_pct": 6.48,
+   "price": 52.76,
+   "volume": 6830105,
    "volume_vs_avg": "~0.5x",
-   "heat_score": 38,
+   "heat_score": 40,
    "direction": "up",
    "why": "SLB: Oilfield-Services Giant or AI Stock? Earnings Offer a Clue.",
    "catalyst_type": "earnings",
    "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE42ZDRqQ2VmeDNhVXRDdGJTNF9iS2tTcF9LOUwwMklGNWZnMlF5YkFwTzh0RGFzNFd5WEY2QUhBWjBIRjQ1b3o1Vkw1Uk9yYVlUVWl3dlc5N3NtM1liaGpuZ19veGYyZ1I3MEpkSms2UnkwZjJ5SjQ5Yw?oc=5",
    "published": "2026-10-23T12:15:00+00:00",
    "sector": "Oilfield Services"
-  },
-  {
-   "rank": 3,
-   "ticker": "EQNR",
-   "company": "Equinor ASA",
-   "move_pct": 5.02,
-   "price": 48.75,
-   "volume": 3113788,
-   "volume_vs_avg": "~0.8x",
-   "heat_score": 36,
-   "direction": "up",
-   "why": "Equinor ASA Stock (EQNR) Opened Up by 3.81% on Oct 23: Drivers Behind the Movement",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQY1ZSaDkzM2xTSEFqSkxOMUk0QTZEam1SZThBTHdVdE0xUWFFOWVTWUpBdjRWWGNlcnpUSWdKMTVETlVKZHFrd09WMHRhZDZUY0pWVDVDQzgxU09IcTJqV2gzR29UMEpoM2VYVE5Kdm4xd0s4SW5JWkJwSnJWSS1JZHJSX1VGZ0N0aUUw?oc=5",
-   "published": "2026-10-23T13:47:18+00:00",
-   "sector": "Oil & Gas Majors"
   }
  ]
 }
