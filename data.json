@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-10-23T22:32:05+00:00",
-  "as_of_local": "2026-10-23 22:32:05 UTC",
+  "as_of_utc": "2026-10-23T22:37:08+00:00",
+  "as_of_local": "2026-10-23 22:37:08 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "LEU"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -551,15 +553,6 @@
       "previous_close": 5.38,
       "change_pct": 0.0,
       "market_cap": 2207895675.3253536,
-      "headlines": []
-    },
-    {
-      "symbol": "LEU",
-      "name": "Centrus Energy",
-      "price": 102.45,
-      "previous_close": 104.15,
-      "change_pct": -1.63,
-      "market_cap": 2095420852.1820679,
       "headlines": []
     },
     {
