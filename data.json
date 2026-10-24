@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-10-24T02:14:46+00:00",
-  "as_of_local": "2026-10-24 02:14:46 UTC",
+  "as_of_utc": "2026-10-24T02:20:09+00:00",
+  "as_of_local": "2026-10-24 02:20:09 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "AR"
+    "NXE"
   ],
   "stocks": [
     {
@@ -75,7 +75,16 @@
       "price": 366.11,
       "previous_close": 368.99,
       "change_pct": -0.78,
-      "market_cap": 142197118310.54688,
+      "market_cap": 142160507312.01172,
+      "headlines": []
+    },
+    {
+      "symbol": "MPC",
+      "name": "Marathon Petroleum",
+      "price": 457.22,
+      "previous_close": 459.28,
+      "change_pct": -0.45,
+      "market_cap": 133479268611.06796,
       "headlines": []
     },
     {
@@ -85,15 +94,6 @@
       "previous_close": 50.05,
       "change_pct": 2.54,
       "market_cap": 132179353351.75186,
-      "headlines": []
-    },
-    {
-      "symbol": "MPC",
-      "name": "Marathon Petroleum",
-      "price": 457.22,
-      "previous_close": 459.28,
-      "change_pct": -0.45,
-      "market_cap": 128398698481.66367,
       "headlines": []
     },
     {
@@ -174,7 +174,7 @@
       "price": 163.03,
       "previous_close": 157.96,
       "change_pct": 3.21,
-      "market_cap": 85513990922.9856,
+      "market_cap": 86834428595.71869,
       "headlines": []
     },
     {
@@ -345,7 +345,7 @@
       "price": 72.02,
       "previous_close": 72.72,
       "change_pct": -0.96,
-      "market_cap": 35896208887.43706,
+      "market_cap": 35889105699.208145,
       "headlines": []
     },
     {
@@ -457,6 +457,15 @@
       "headlines": []
     },
     {
+      "symbol": "AR",
+      "name": "Antero Resources",
+      "price": 40.16,
+      "previous_close": 39.04,
+      "change_pct": 2.87,
+      "market_cap": 12346750193.088531,
+      "headlines": []
+    },
+    {
       "symbol": "NXT",
       "name": "Nextracker",
       "price": 78.89,
@@ -480,7 +489,7 @@
       "price": 28.54,
       "previous_close": 28.91,
       "change_pct": -1.28,
-      "market_cap": 8565186080.8004,
+      "market_cap": 8655496318.757439,
       "headlines": []
     },
     {
@@ -502,15 +511,6 @@
       "headlines": []
     },
     {
-      "symbol": "NXE",
-      "name": "NexGen Energy",
-      "price": 8.15,
-      "previous_close": 8.1,
-      "change_pct": 0.62,
-      "market_cap": 5464624467.372221,
-      "headlines": []
-    },
-    {
       "symbol": "OKLO",
       "name": "Oklo",
       "price": 26.35,
@@ -525,7 +525,7 @@
       "price": 31.6,
       "previous_close": 31.35,
       "change_pct": 0.8,
-      "market_cap": 4175770927.2091827,
+      "market_cap": 4164823802.277031,
       "headlines": []
     },
     {
@@ -570,7 +570,7 @@
       "price": 7.52,
       "previous_close": 7.69,
       "change_pct": -2.21,
-      "market_cap": 1991097256.389845,
+      "market_cap": 1879736795.232296,
       "headlines": []
     },
     {
