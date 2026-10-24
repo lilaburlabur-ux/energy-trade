@@ -1,27 +1,10 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-24T01:50:19+00:00",
+  "as_of": "2026-10-24T03:56:12+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": [
-  {
-   "rank": 1,
-   "ticker": "NOV",
-   "company": "NOV Inc.",
-   "move_pct": 5.33,
-   "price": 19.76,
-   "volume": 4645200,
-   "volume_vs_avg": "~1.4x",
-   "heat_score": 40,
-   "direction": "up",
-   "why": "NOV Inc (NOV) Stock Up 5.3% but GF Value Says Overvalued -- GF S",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbms0RG1DcEVPU3ZJcV9TWGl6YTY2Njl0QVlwMTBpTHNiVFJESVAtcTNIVlY0bXd4dTFhTFFJTm9CZ3RGSkFLbVdDdVNaaFZLMlVDT2hNQVZMSlhTLTRsRlRjMDJ5LVgyZ29JejQtOWd2QllXeG9jWFd3bWlwX2RZa05PQ01UY1U5WUhBYlFvNWsyUVk5SGNqWEZuUjNEMEVFTTA0LWlVaGxUUQ?oc=5",
-   "published": "2026-10-23T22:53:20+00:00",
-   "sector": "Oilfield Services"
-  }
- ]
+ "hot_tickers": []
 }
