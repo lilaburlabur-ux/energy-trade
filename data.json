@@ -1,18 +1,11 @@
 {
-  "as_of_utc": "2026-10-24T18:01:24+00:00",
-  "as_of_local": "2026-10-24 18:01:24 UTC",
+  "as_of_utc": "2026-10-24T18:16:21+00:00",
+  "as_of_local": "2026-10-24 18:16:21 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "XOM"
+  ],
   "stocks": [
-    {
-      "symbol": "XOM",
-      "name": "ExxonMobil",
-      "price": 183.21,
-      "previous_close": 178.23,
-      "change_pct": 2.79,
-      "market_cap": 753343417798.4308,
-      "headlines": []
-    },
     {
       "symbol": "CVX",
       "name": "Chevron",
@@ -73,16 +66,7 @@
       "price": 366.11,
       "previous_close": 368.99,
       "change_pct": -0.78,
-      "market_cap": 142160507312.01172,
-      "headlines": []
-    },
-    {
-      "symbol": "MPC",
-      "name": "Marathon Petroleum",
-      "price": 457.22,
-      "previous_close": 459.28,
-      "change_pct": -0.45,
-      "market_cap": 133479268611.06796,
+      "market_cap": 142197118310.54688,
       "headlines": []
     },
     {
@@ -92,6 +76,15 @@
       "previous_close": 50.05,
       "change_pct": 2.54,
       "market_cap": 132179353351.75186,
+      "headlines": []
+    },
+    {
+      "symbol": "MPC",
+      "name": "Marathon Petroleum",
+      "price": 457.22,
+      "previous_close": 459.28,
+      "change_pct": -0.45,
+      "market_cap": 128398698481.66367,
       "headlines": []
     },
     {
@@ -172,7 +165,7 @@
       "price": 163.03,
       "previous_close": 157.96,
       "change_pct": 3.21,
-      "market_cap": 86834428595.71869,
+      "market_cap": 85513990922.9856,
       "headlines": []
     },
     {
@@ -343,7 +336,7 @@
       "price": 72.02,
       "previous_close": 72.72,
       "change_pct": -0.96,
-      "market_cap": 35889105699.208145,
+      "market_cap": 35896208887.43706,
       "headlines": []
     },
     {
@@ -487,7 +480,7 @@
       "price": 28.54,
       "previous_close": 28.91,
       "change_pct": -1.28,
-      "market_cap": 8655496318.757439,
+      "market_cap": 8565186080.8004,
       "headlines": []
     },
     {
@@ -532,7 +525,7 @@
       "price": 31.6,
       "previous_close": 31.35,
       "change_pct": 0.8,
-      "market_cap": 4164823802.277031,
+      "market_cap": 4175770927.2091827,
       "headlines": []
     },
     {
@@ -577,7 +570,7 @@
       "price": 7.52,
       "previous_close": 7.69,
       "change_pct": -2.21,
-      "market_cap": 1879736795.232296,
+      "market_cap": 1991097256.389845,
       "headlines": []
     },
     {
@@ -629,8 +622,8 @@
           "name": "ExxonMobil Holdings Corp",
           "short": "ExxonMobil",
           "weight_pct": 24.03,
-          "change_pct": 2.79,
-          "price": 183.21,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -728,8 +721,8 @@
         "name": "ExxonMobil Holdings Corp",
         "short": "ExxonMobil",
         "weight_pct": 24.03,
-        "change_pct": 2.79,
-        "price": 183.21,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
