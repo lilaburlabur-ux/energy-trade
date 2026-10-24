@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-10-24T00:56:56+00:00",
-  "as_of_local": "2026-10-24 00:56:56 UTC",
+  "as_of_utc": "2026-10-24T01:12:09+00:00",
+  "as_of_local": "2026-10-24 01:12:09 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "DVN"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -75,7 +73,16 @@
       "price": 368.99,
       "previous_close": 393.94,
       "change_pct": -6.33,
-      "market_cap": 142197124000.0,
+      "market_cap": 142160513000.0,
+      "headlines": []
+    },
+    {
+      "symbol": "MPC",
+      "name": "Marathon Petroleum",
+      "price": 459.28,
+      "previous_close": 467.98,
+      "change_pct": -1.86,
+      "market_cap": 133479268254.70001,
       "headlines": []
     },
     {
@@ -85,15 +92,6 @@
       "previous_close": 49.85,
       "change_pct": 0.4,
       "market_cap": 132179354137.76,
-      "headlines": []
-    },
-    {
-      "symbol": "MPC",
-      "name": "Marathon Petroleum",
-      "price": 459.28,
-      "previous_close": 467.98,
-      "change_pct": -1.86,
-      "market_cap": 128398698138.86,
       "headlines": []
     },
     {
@@ -174,7 +172,7 @@
       "price": 157.96,
       "previous_close": 157.88,
       "change_pct": 0.05,
-      "market_cap": 85513991563.28,
+      "market_cap": 86834429245.9,
       "headlines": []
     },
     {
@@ -304,6 +302,15 @@
       "headlines": []
     },
     {
+      "symbol": "DVN",
+      "name": "Devon Energy",
+      "price": 49.18,
+      "previous_close": 49.87,
+      "change_pct": -1.38,
+      "market_cap": 56529000000.0,
+      "headlines": []
+    },
+    {
       "symbol": "BKR",
       "name": "Baker Hughes",
       "price": 53.62,
@@ -336,7 +343,7 @@
       "price": 72.72,
       "previous_close": 71.0,
       "change_pct": 2.42,
-      "market_cap": 35896210560.6,
+      "market_cap": 35889107372.04,
       "headlines": []
     },
     {
@@ -480,7 +487,7 @@
       "price": 28.91,
       "previous_close": 29.17,
       "change_pct": -0.89,
-      "market_cap": 8565185806.04,
+      "market_cap": 8655496041.1,
       "headlines": []
     },
     {
@@ -525,7 +532,7 @@
       "price": 31.35,
       "previous_close": 31.99,
       "change_pct": -2.0,
-      "market_cap": 4175770876.8,
+      "market_cap": 4164823752.0,
       "headlines": []
     },
     {
@@ -570,7 +577,7 @@
       "price": 7.69,
       "previous_close": 8.2,
       "change_pct": -6.22,
-      "market_cap": 1991097261.4399998,
+      "market_cap": 1879736800.0,
       "headlines": []
     },
     {
