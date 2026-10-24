@@ -1,11 +1,18 @@
 {
-  "as_of_utc": "2026-10-24T18:16:21+00:00",
-  "as_of_local": "2026-10-24 18:16:21 UTC",
+  "as_of_utc": "2026-10-24T18:31:28+00:00",
+  "as_of_local": "2026-10-24 18:31:28 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "XOM"
-  ],
+  "errors": [],
   "stocks": [
+    {
+      "symbol": "XOM",
+      "name": "ExxonMobil",
+      "price": 183.21,
+      "previous_close": 178.23,
+      "change_pct": 2.79,
+      "market_cap": 753343417798.4308,
+      "headlines": []
+    },
     {
       "symbol": "CVX",
       "name": "Chevron",
@@ -622,8 +629,8 @@
           "name": "ExxonMobil Holdings Corp",
           "short": "ExxonMobil",
           "weight_pct": 24.03,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": 2.79,
+          "price": 183.21,
           "currency": "USD"
         },
         {
@@ -721,8 +728,8 @@
         "name": "ExxonMobil Holdings Corp",
         "short": "ExxonMobil",
         "weight_pct": 24.03,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": 2.79,
+        "price": 183.21,
         "currency": "USD"
       },
       {
