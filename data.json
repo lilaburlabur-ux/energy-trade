@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-10-25T06:23:10+00:00",
-  "as_of_local": "2026-10-25 06:23:10 UTC",
+  "as_of_utc": "2026-10-25T06:38:10+00:00",
+  "as_of_local": "2026-10-25 06:38:10 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "SU"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -139,6 +137,15 @@
       "previous_close": 125.4,
       "change_pct": -0.33,
       "market_cap": 97447182698.5485,
+      "headlines": []
+    },
+    {
+      "symbol": "SU",
+      "name": "Suncor Energy",
+      "price": 79.38,
+      "previous_close": 77.41,
+      "change_pct": 2.54,
+      "market_cap": 93727549859.80649,
       "headlines": []
     },
     {
@@ -809,11 +816,6 @@
     ]
   },
   "tape": [
-    {
-      "label": "SPX",
-      "price": 7623.68,
-      "change_pct": -0.52
-    },
     {
       "label": "WTI",
       "price": 103.27,
