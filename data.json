@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-10-25T01:49:54+00:00",
-  "as_of_local": "2026-10-25 01:49:54 UTC",
+  "as_of_utc": "2026-10-25T02:04:59+00:00",
+  "as_of_local": "2026-10-25 02:04:59 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "HUBB"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -382,6 +380,15 @@
       "previous_close": 66.82,
       "change_pct": 4.59,
       "market_cap": 27408368837.961853,
+      "headlines": []
+    },
+    {
+      "symbol": "HUBB",
+      "name": "Hubbell",
+      "price": 448.1,
+      "previous_close": 445.8,
+      "change_pct": 0.52,
+      "market_cap": 23674275387.564423,
       "headlines": []
     },
     {
