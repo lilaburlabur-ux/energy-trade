@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-10-25T05:11:20+00:00",
-  "as_of_local": "2026-10-25 05:11:20 UTC",
+  "as_of_utc": "2026-10-25T05:20:29+00:00",
+  "as_of_local": "2026-10-25 05:20:29 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "FSLR"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -425,15 +427,6 @@
       "previous_close": 94.38,
       "change_pct": -2.19,
       "market_cap": 19404529172.520813,
-      "headlines": []
-    },
-    {
-      "symbol": "FSLR",
-      "name": "First Solar",
-      "price": 171.99,
-      "previous_close": 171.25,
-      "change_pct": 0.43,
-      "market_cap": 18483729428.469177,
       "headlines": []
     },
     {
