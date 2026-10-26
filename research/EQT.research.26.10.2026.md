@@ -4,8 +4,8 @@ Signed file: `EQT.research.26.10.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $54.84 (2026-10-26, ~15-min delayed) |
-| Market cap | $34.30B |
+| Current price | $54.85 (2026-10-26, ~15-min delayed) |
+| Market cap | $34.31B |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,10 +15,10 @@ Signed file: `EQT.research.26.10.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-0.79%) with negative half-year (-5.92%). |
-| Fresh setup quality | Moderate / wait | -18.79% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-0.77%) with negative half-year (-5.91%). |
+| Fresh setup quality | Moderate / wait | -18.77% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 29.18%, revenue growth -3.90%. |
-| Value attractiveness | Reasonable | Forward P/E 15.32, EV/Sales 4.73. |
+| Value attractiveness | Reasonable | Forward P/E 15.27, EV/Sales 4.73. |
 | Risk level | Moderate | Beta 0.65, ATR 2.8% of price, short float 4.12%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -35,18 +35,18 @@ EQT Corporation engages in the exploration, production, gathering, and transmiss
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $54.84; 52w high $67.53 (-18.79%); 52w low $48.56 (+12.93%) |
-| Trend | -0.79% vs SMA200, +3.43% vs SMA50, +3.97% vs SMA20 |
+| Price vs 52-week range | Close $54.85; 52w high $67.53 (-18.77%); 52w low $48.56 (+12.95%) |
+| Trend | -0.77% vs SMA200, +3.45% vs SMA50, +3.98% vs SMA20 |
 | Momentum | RSI(14) 58.6 (neutral) |
 | Volatility | ATR(14) 1.55 (~2.8% of price); beta 0.65 |
-| Setup perspective | -18.79% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -18.77% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
 | Week | +0.8% |
-| Month | +7.9% |
+| Month | +8.0% |
 | Quarter | +6.5% |
 | Half Y | -5.9% |
 | 1Y | +3.6% |
@@ -59,7 +59,7 @@ EQT Corporation engages in the exploration, production, gathering, and transmiss
 | Revenue (ttm) | $9.29B | Revenue growth -3.90% y/y |
 | Profitability | Gross 80.75%, operating 23.37%, net 29.18% | ROA 6.63%, ROE 11.08% |
 | Balance sheet | Cash $112.86M, debt $5.66B | Current ratio 0.67, debt/equity 19.59 |
-| Valuation | P/E 12.72, forward P/E 15.32, P/S 3.69, P/B 1.36 | EV/Sales 4.73, EV/EBITDA 6.28 |
+| Valuation | P/E 12.73, forward P/E 15.27, P/S 3.69, P/B 1.36 | EV/Sales 4.73, EV/EBITDA 6.28 |
 | Growth expectations | Earnings growth -74.00%, EPS q/q -73.00% | Analyst mean target $66.54 (26 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -100,18 +100,18 @@ EQT Corporation engages in the exploration, production, gathering, and transmiss
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $54.84 | EV/Sales | 4.73 |
-| Market cap | $34.30B | EV/EBITDA | 6.28 |
+| Price | $54.85 | EV/Sales | 4.73 |
+| Market cap | $34.31B | EV/EBITDA | 6.28 |
 | Beta | 0.65 | Gross margin | 80.75% |
 | RSI(14) | 58.6 | Operating margin | 23.37% |
 | ATR(14) | 1.55 | Profit margin | 29.18% |
-| SMA20 dist | +3.97% | ROA | 6.63% |
-| SMA50 dist | +3.43% | ROE | 11.08% |
-| SMA200 dist | -0.79% | Revenue (ttm) | $9.29B |
+| SMA20 dist | +3.98% | ROA | 6.63% |
+| SMA50 dist | +3.45% | ROE | 11.08% |
+| SMA200 dist | -0.77% | Revenue (ttm) | $9.29B |
 | 52W high | $67.53 | Revenue growth y/y | -3.90% |
 | 52W low | $48.56 | Inst. ownership | 95.67% |
-| P/E (ttm) | 12.72 | Insider ownership | 0.90% |
-| Forward P/E | 15.32 | Short float | 4.12% |
+| P/E (ttm) | 12.73 | Insider ownership | 0.90% |
+| Forward P/E | 15.27 | Short float | 4.12% |
 | PEG (trailing) | 1.62 | Avg volume | 6,872,046 |
 | P/S | 3.69 | Employees | 1,523 |
 | P/B | 1.36 | Analyst rec (1=buy..5=sell) | 1.5 |
