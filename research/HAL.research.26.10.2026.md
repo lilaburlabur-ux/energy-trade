@@ -18,7 +18,7 @@ Signed file: `HAL.research.26.10.2026`
 | Technical momentum | Low | Below SMA200 (-0.26%) with negative half-year (-10.90%). |
 | Fresh setup quality | Moderate / wait | -16.81% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 8.90%, revenue growth 1.80%. |
-| Value attractiveness | Reasonable | Forward P/E 12.02, EV/Sales 1.57. |
+| Value attractiveness | Reasonable | Forward P/E 12.02, EV/Sales 1.59. |
 | Risk level | Moderate | Beta 0.84, ATR 2.9% of price, short float 5.60%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -59,7 +59,7 @@ Halliburton Company provides products and services to the energy industry worldw
 | Revenue (ttm) | $22.48B | Revenue growth 1.80% y/y |
 | Profitability | Gross 14.82%, operating 12.43%, net 8.90% | ROA 7.23%, ROE 18.78% |
 | Balance sheet | Cash $1.84B, debt $8.20B | Current ratio 2.02, debt/equity 73.45 |
-| Valuation | P/E 26.65, forward P/E 12.02, P/S 1.30, P/B 2.64 | EV/Sales 1.57, EV/EBITDA 8.52 |
+| Valuation | P/E 26.65, forward P/E 12.02, P/S 1.30, P/B 2.64 | EV/Sales 1.59, EV/EBITDA 8.63 |
 | Growth expectations | Earnings growth 2400.00%, EPS q/q 2216.70% | Analyst mean target $43.68 (25 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -101,8 +101,8 @@ Halliburton Company provides products and services to the energy industry worldw
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $35.44 | EV/Sales | 1.57 |
-| Market cap | $29.31B | EV/EBITDA | 8.52 |
+| Price | $35.44 | EV/Sales | 1.59 |
+| Market cap | $29.31B | EV/EBITDA | 8.63 |
 | Beta | 0.84 | Gross margin | 14.82% |
 | RSI(14) | 64.0 | Operating margin | 12.43% |
 | ATR(14) | 1.04 | Profit margin | 8.90% |

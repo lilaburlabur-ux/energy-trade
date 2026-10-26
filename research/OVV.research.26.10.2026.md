@@ -18,7 +18,7 @@ Signed file: `OVV.research.26.10.2026`
 | Technical momentum | High | 1Y +95.42%; price +28.22% vs SMA200. |
 | Fresh setup quality | Moderate / wait | +0.00% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 9.66%, revenue growth 29.70%. |
-| Value attractiveness | Reasonable | Forward P/E 8.64, EV/Sales 2.54. |
+| Value attractiveness | Reasonable | Forward P/E 8.63, EV/Sales 2.55. |
 | Risk level | Moderate | Beta 0.66, ATR 2.8% of price, short float 4.27%. |
 
 **Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -59,7 +59,7 @@ Ovintiv Inc., together with its subsidiaries, operates as an oil and natural gas
 | Revenue (ttm) | $9.52B | Revenue growth 29.70% y/y |
 | Profitability | Gross 53.86%, operating 36.18%, net 9.66% | ROA 8.64%, ROE 8.41% |
 | Balance sheet | Cash $700.00M, debt $5.03B | Current ratio 1.01, debt/equity 43.73 |
-| Valuation | P/E 20.21, forward P/E 8.64, P/S 2.11, P/B 1.75 | EV/Sales 2.54, EV/EBITDA 4.96 |
+| Valuation | P/E 20.21, forward P/E 8.63, P/S 2.11, P/B 1.75 | EV/Sales 2.55, EV/EBITDA 4.98 |
 | Growth expectations | Earnings growth 37.30%, EPS q/q 48.50% | Analyst mean target $79.68 (22 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -101,8 +101,8 @@ Ovintiv Inc., together with its subsidiaries, operates as an oil and natural gas
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $72.55 | EV/Sales | 2.54 |
-| Market cap | $20.07B | EV/EBITDA | 4.96 |
+| Price | $72.55 | EV/Sales | 2.55 |
+| Market cap | $20.07B | EV/EBITDA | 4.98 |
 | Beta | 0.66 | Gross margin | 53.86% |
 | RSI(14) | 74.6 | Operating margin | 36.18% |
 | ATR(14) | 2.05 | Profit margin | 9.66% |
@@ -112,7 +112,7 @@ Ovintiv Inc., together with its subsidiaries, operates as an oil and natural gas
 | 52W high | $72.55 | Revenue growth y/y | 29.70% |
 | 52W low | $35.79 | Inst. ownership | 98.25% |
 | P/E (ttm) | 20.21 | Insider ownership | 0.47% |
-| Forward P/E | 8.64 | Short float | 4.27% |
+| Forward P/E | 8.63 | Short float | 4.27% |
 | PEG (trailing) | 3.80 | Avg volume | 3,280,000 |
 | P/S | 2.11 | Employees | 1,465 |
 | P/B | 1.75 | Analyst rec (1=buy..5=sell) | 1.6 |

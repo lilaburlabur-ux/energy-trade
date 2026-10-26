@@ -18,7 +18,7 @@ Signed file: `VST.research.26.10.2026`
 | Technical momentum | Low | Below SMA200 (-7.82%) with negative half-year (-14.66%). |
 | Fresh setup quality | Poor / broken | -29.24% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 11.55%, revenue growth -5.50%. |
-| Value attractiveness | Reasonable | Forward P/E 13.67, EV/Sales 3.62. |
+| Value attractiveness | Reasonable | Forward P/E 13.53, EV/Sales 3.65. |
 | Risk level | High | Beta 1.38, ATR 5.4% of price, short float 3.61%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: high.
@@ -59,7 +59,7 @@ Vistra Corp., together with its subsidiaries, operates as an integrated retail e
 | Revenue (ttm) | $19.21B | Revenue growth -5.50% y/y |
 | Profitability | Gross 38.31%, operating 13.77%, net 11.55% | ROA 5.89%, ROE 42.96% |
 | Balance sheet | Cash $435.00M, debt $20.51B | Current ratio 0.97, debt/equity 373.28 |
-| Valuation | P/E 23.90, forward P/E 13.67, P/S 2.48, P/B 15.84 | EV/Sales 3.62, EV/EBITDA 10.47 |
+| Valuation | P/E 23.90, forward P/E 13.53, P/S 2.48, P/B 15.84 | EV/Sales 3.65, EV/EBITDA 10.55 |
 | Growth expectations | Earnings growth -6.20%, EPS q/q -6.70% | Analyst mean target $208.86 (22 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -102,8 +102,8 @@ Vistra Corp., together with its subsidiaries, operates as an integrated retail e
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $141.73 | EV/Sales | 3.62 |
-| Market cap | $47.57B | EV/EBITDA | 10.47 |
+| Price | $141.73 | EV/Sales | 3.65 |
+| Market cap | $47.57B | EV/EBITDA | 10.55 |
 | Beta | 1.38 | Gross margin | 38.31% |
 | RSI(14) | 44.1 | Operating margin | 13.77% |
 | ATR(14) | 7.67 | Profit margin | 11.55% |
@@ -113,7 +113,7 @@ Vistra Corp., together with its subsidiaries, operates as an integrated retail e
 | 52W high | $200.31 | Revenue growth y/y | -5.50% |
 | 52W low | $134.30 | Inst. ownership | 92.16% |
 | P/E (ttm) | 23.90 | Insider ownership | 0.77% |
-| Forward P/E | 13.67 | Short float | 3.61% |
+| Forward P/E | 13.53 | Short float | 3.61% |
 | PEG (trailing) | 0.40 | Avg volume | 5,633,279 |
 | P/S | 2.48 | Employees | 6,390 |
 | P/B | 15.84 | Analyst rec (1=buy..5=sell) | 1.3 |

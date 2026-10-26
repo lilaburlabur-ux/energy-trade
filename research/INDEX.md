@@ -8,7 +8,7 @@
 | SHEL | $303.69B | +46% | 10.2 | 9% | Moderate | Reasonable | Moderate |
 | TTE | $206.72B | +56% | 8.1 | 9% | Moderate | Reasonable | Moderate |
 | BP | $130.14B | +52% | 8.8 | 3% | Moderate | Reasonable | Moderate |
-| COP | $181.85B | +73% | 14.1 | 14% | High | Reasonable | Moderate |
+| COP | $181.85B | +73% | 14.0 | 14% | High | Reasonable | Moderate |
 | EQNR | $113.92B | +102% | 10.1 | 8% | High | Reasonable | Moderate |
 | SU | $92.96B | +105% | 11.4 | 16% | High | Reasonable | Moderate |
 | EOG | $87.18B | +56% | 10.1 | 26% | Moderate | Reasonable | Moderate |
@@ -63,7 +63,7 @@
 | BE | $60.27B | +101% | 41.3 | 14% | High | Low (expensive) | High |
 | EOSE | $589.95M | -89% | -9.3 | -247% | Low | Reasonable | High |
 | HUBB | $24.28B | +7% | 19.9 | 14% | Low | Reasonable | Elevated |
-| VST | $47.57B | -26% | 13.7 | 12% | Low | Reasonable | High |
+| VST | $47.57B | -26% | 13.5 | 12% | Low | Reasonable | High |
 | NRG | $19.68B | -42% | 8.7 | 3% | Low | Reasonable | Elevated |
 | TLN | $15.98B | -12% | 10.9 | -5% | Low | Reasonable | High |
 | DUK | $97.03B | +1% | 17.4 | 16% | Moderate | Reasonable | Moderate |
