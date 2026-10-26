@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-26T20:37:45+00:00",
+  "as_of": "2026-10-26T20:42:54+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,11 +11,11 @@
    "rank": 1,
    "ticker": "BE",
    "company": "Bloom Energy Corporation",
-   "move_pct": 6.82,
-   "price": 206.48,
+   "move_pct": 6.58,
+   "price": 206.02,
    "volume": 20904929,
    "volume_vs_avg": "~1.3x",
-   "heat_score": 45,
+   "heat_score": 44,
    "direction": "up",
    "why": "VSE Corporation, Viavi Solutions, Moog, Bloom Energy, and Comfort Systems stocks trade up, what you need to know",
    "catalyst_type": "momentum_narrative",
@@ -38,22 +38,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOUtLSnBFTEdRUVV0Rkh0LWNjbGZsT3lxTTBrNlZYRmY3M0JKUDI5dDNsMXpJcVRaY3NrVjk1SXVJd01jQ2lkbnJkRlh5QUpPREExczhUMUo3SGhOcU5nNGlsTDVVVXpITjNYYTM2SUUzc3U3dEZtT0kwRGRfWExoRVhmeV81am9yT0JlanJ3?oc=5",
    "published": "2026-10-26T18:53:09+00:00",
    "sector": "Shale & E&P"
-  },
-  {
-   "rank": 3,
-   "ticker": "GEV",
-   "company": "GE Vernova Inc.",
-   "move_pct": 5.15,
-   "price": 857.0,
-   "volume": 2713823,
-   "volume_vs_avg": "~1.1x",
-   "heat_score": 38,
-   "direction": "up",
-   "why": "GE Vernova Inc. stock rises Monday, outperforms market",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUHpQdDF5YXhydkt0cUNMTmxua3ljOUI5bjkyd3BCbkkzQ0M1a3l1QTg1NzlzbEQzWDJTY0c2U3ctdHdPOGhWZ2dGbG8xd3ZiUnBTbmEzRVh5cEt6SFB4d1MwOE1nbFdsWUVMbEZneFBBeXViSmtoemh2Qk9Bb0NNQXBIb1lkWUZ2ejdCcEoxZ3plX0U4WjRyU0VEUlZqako3eldHSnI2TWFuMVdNZ0duVGxn?oc=5",
-   "published": "2026-10-26T20:30:00+00:00",
-   "sector": "Grid, Storage & Electrification"
   }
  ]
 }
