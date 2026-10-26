@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-26T17:58:05+00:00",
+  "as_of": "2026-10-26T18:13:19+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,16 +11,16 @@
    "rank": 1,
    "ticker": "BE",
    "company": "Bloom Energy Corporation",
-   "move_pct": 7.86,
-   "price": 208.5,
-   "volume": 15776721,
-   "volume_vs_avg": "~0.9x",
-   "heat_score": 47,
+   "move_pct": 7.41,
+   "price": 207.63,
+   "volume": 16063735,
+   "volume_vs_avg": "~1.0x",
+   "heat_score": 46,
    "direction": "up",
-   "why": "Bloom Energy Jumps 7% as Post-Earnings Selloff Reverses; FuelCell Rises 6%, Plug Power Edges Higher",
-   "catalyst_type": "earnings",
-   "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQa3E3VENKdDJjNDg1WFNZZzRnQlhkUDVoMXlTY1lNLU56Rk9QTzNadHFPczg1bnpTUFRMSHhPRGpjX2NsY2lqMUV3QzYtcWk1cHRxcVNjZlU5Um9MYnNWZ1Z2R3ljMzZ5NUZqWDk0Z2FhNWFrMTJKZE03bmFTSlVzSjd3NncxTE1pM3dHYWRqSzhSclVHdmJobjZ3bmpjdzQyWVZ5VmFQVWlxMzJJaW50cEQ1RHVaTWpSTHJaUXEzTWJyZC1nOHhhT3ZPQ3FYSWY4VkxkTFFR?oc=5",
-   "published": "2026-10-26T15:57:59+00:00",
+   "why": "Bloom Energy Stock and Other Big Winners From AI\u2019s Monstrous Energy Consumption",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMEpaV0Q3cEtlcTYtRWd1WHBNcEtWb2xZTDBJejhNMV96ckNnTVlCSkdaRDJvUE00dEZlUXNSU0JaY3RJeHZOQUNRcWhRUGZFNHZKSFNKVXhYcUU0ODJZQndkalkzdlFrLXdva3dUbldUaWR5cE5xTmRmaklpQlR0Ul9fTQ?oc=5",
+   "published": "2026-10-26T18:00:00+00:00",
    "sector": "Grid, Storage & Electrification"
   }
  ]
