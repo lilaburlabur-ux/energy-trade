@@ -60,7 +60,7 @@ EQT Corporation engages in the exploration, production, gathering, and transmiss
 | Profitability | Gross 80.75%, operating 23.37%, net 29.18% | ROA 6.63%, ROE 11.08% |
 | Balance sheet | Cash $112.86M, debt $5.66B | Current ratio 0.67, debt/equity 19.59 |
 | Valuation | P/E 12.73, forward P/E 15.27, P/S 3.69, P/B 1.36 | EV/Sales 4.73, EV/EBITDA 6.28 |
-| Growth expectations | Earnings growth -74.00%, EPS q/q -73.00% | Analyst mean target $66.54 (26 analysts) |
+| Growth expectations | Earnings growth -74.00%, EPS q/q -73.00% | Analyst mean target $66.33 (24 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |

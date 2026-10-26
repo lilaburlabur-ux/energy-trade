@@ -18,7 +18,7 @@ Signed file: `SLB.research.26.10.2026`
 | Technical momentum | Moderate | 1Y +51.01%; price +4.24% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -11.22% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 8.40%, revenue growth 5.80%. |
-| Value attractiveness | Reasonable | Forward P/E 16.99, EV/Sales 2.37. |
+| Value attractiveness | Reasonable | Forward P/E 16.86, EV/Sales 2.37. |
 | Risk level | Elevated | Beta 0.84, ATR 3.1% of price, short float 4.68%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
@@ -59,7 +59,7 @@ SLB N.V. engages in the provision of technology for the energy industry worldwid
 | Revenue (ttm) | $36.89B | Revenue growth 5.80% y/y |
 | Profitability | Gross 16.59%, operating 12.05%, net 8.40% | ROA 5.51%, ROE 11.66% |
 | Balance sheet | Cash $3.55B, debt $12.80B | Current ratio 1.39, debt/equity 47.04 |
-| Valuation | P/E 25.64, forward P/E 16.99, P/S 2.12, P/B 2.88 | EV/Sales 2.37, EV/EBITDA 12.09 |
+| Valuation | P/E 25.64, forward P/E 16.86, P/S 2.12, P/B 2.88 | EV/Sales 2.37, EV/EBITDA 12.09 |
 | Growth expectations | Earnings growth -2.00%, EPS q/q -0.50% | Analyst mean target $62.24 (29 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -112,7 +112,7 @@ SLB N.V. engages in the provision of technology for the energy industry worldwid
 | 52W high | $59.79 | Revenue growth y/y | 5.80% |
 | 52W low | $34.35 | Inst. ownership | 92.52% |
 | P/E (ttm) | 25.64 | Insider ownership | 0.22% |
-| Forward P/E | 16.99 | Short float | 4.68% |
+| Forward P/E | 16.86 | Short float | 4.68% |
 | PEG (trailing) | 1.42 | Avg volume | 12,505,653 |
 | P/S | 2.12 | Employees | 109,000 |
 | P/B | 2.88 | Analyst rec (1=buy..5=sell) | 1.6 |
@@ -120,6 +120,7 @@ SLB N.V. engages in the provision of technology for the energy industry worldwid
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-10-26 | up | Freedom Broker | Sell → Hold |
 | 2026-10-26 | main | UBS | Buy → Buy |
 | 2026-10-26 | main | Barclays | Overweight → Overweight |
 | 2026-10-26 | main | Piper Sandler | Overweight → Overweight |
@@ -127,7 +128,6 @@ SLB N.V. engages in the provision of technology for the energy industry worldwid
 | 2026-10-19 | main | Piper Sandler | Overweight → Overweight |
 | 2026-10-15 | main | Barclays | Overweight → Overweight |
 | 2026-09-14 | main | UBS | Buy → Buy |
-| 2026-09-09 | main | UBS | Buy → Buy |
 
 ## 9. Conclusion
 SLB: Moderate momentum / mixed fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

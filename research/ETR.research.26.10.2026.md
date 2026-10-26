@@ -60,7 +60,7 @@ Entergy Corporation, together with its subsidiaries, engages in the production a
 | Profitability | Gross 47.00%, operating 24.46%, net 13.33% | ROA 2.68%, ROE 10.25% |
 | Balance sheet | Cash $3.86B, debt $34.63B | Current ratio 0.91, debt/equity 186.77 |
 | Valuation | P/E 27.49, forward P/E 21.06, P/S 3.81, P/B 2.75 | EV/Sales 6.02, EV/EBITDA 14.66 |
-| Growth expectations | Earnings growth -1.90%, EPS q/q 3.10% | Analyst mean target $119.95 (21 analysts) |
+| Growth expectations | Earnings growth -1.90%, EPS q/q 3.10% | Analyst mean target $119.71 (21 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |

@@ -18,7 +18,7 @@ Signed file: `FLNC.research.26.10.2026`
 | Technical momentum | Low | Below SMA200 (-65.25%) with negative half-year (-58.83%). |
 | Fresh setup quality | Poor / broken | -82.94% from 52w high — base needs to rebuild. |
 | Fundamental quality | Weak | Negative profit margin (-3.07%). |
-| Value attractiveness | Reasonable | Forward P/E -10.37, EV/Sales 0.35. |
+| Value attractiveness | Reasonable | Forward P/E -12.18, EV/Sales 0.35. |
 | Risk level | High | Beta 2.77, ATR 8.7% of price, short float 44.33%. |
 
 **Bottom line:** Low technical momentum, weak fundamentals, value: reasonable, risk: high.
@@ -59,8 +59,8 @@ Fluence Energy, Inc., through its subsidiaries, provides energy storage and opti
 | Revenue (ttm) | $2.63B | Revenue growth 7.90% y/y |
 | Profitability | Gross 9.36%, operating -8.85%, net -3.07% | ROA -2.95%, ROE -23.54% |
 | Balance sheet | Cash $339.33M, debt $413.16M | Current ratio 1.34, debt/equity 95.81 |
-| Valuation | P/E —, forward P/E -10.37, P/S 0.41, P/B 2.11 | EV/Sales 0.35, EV/EBITDA -11.96 |
-| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $8.35 (20 analysts) |
+| Valuation | P/E —, forward P/E -12.18, P/S 0.41, P/B 2.11 | EV/Sales 0.35, EV/EBITDA -11.96 |
+| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $8.05 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
@@ -115,7 +115,7 @@ Fluence Energy, Inc., through its subsidiaries, provides energy storage and opti
 | 52W high | $32.23 | Revenue growth y/y | 7.90% |
 | 52W low | $5.50 | Inst. ownership | 84.72% |
 | P/E (ttm) | — | Insider ownership | 14.43% |
-| Forward P/E | -10.37 | Short float | 44.33% |
+| Forward P/E | -12.18 | Short float | 44.33% |
 | PEG (trailing) | — | Avg volume | 7,403,868 |
 | P/S | 0.41 | Employees | 1,670 |
 | P/B | 2.11 | Analyst rec (1=buy..5=sell) | 3.0 |

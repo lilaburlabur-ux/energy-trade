@@ -5,7 +5,7 @@ Signed file: `PEG.research.26.10.2026`
 | Field | Value |
 |---|---|
 | Current price | $72.11 (2026-10-26, ~15-min delayed) |
-| Market cap | $35.94B |
+| Market cap | $35.93B |
 | Sector / Industry | Utilities / Utilities - Regulated Electric |
 | Main theme | Utilities - Regulated Electric — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -59,8 +59,8 @@ Public Service Enterprise Group Incorporated, through its subsidiaries, operates
 | Revenue (ttm) | $12.54B | Revenue growth -8.90% y/y |
 | Profitability | Gross 33.33%, operating 18.87%, net 16.04% | ROA 3.24%, ROE 11.83% |
 | Balance sheet | Cash $192.00M, debt $24.68B | Current ratio 0.88, debt/equity 142.41 |
-| Valuation | P/E 17.94, forward P/E 15.52, P/S 2.87, P/B 2.07 | EV/Sales 4.81, EV/EBITDA 13.53 |
-| Growth expectations | Earnings growth -42.70%, EPS q/q -42.90% | Analyst mean target $81.79 (19 analysts) |
+| Valuation | P/E 17.94, forward P/E 15.52, P/S 2.86, P/B 2.07 | EV/Sales 4.81, EV/EBITDA 13.53 |
+| Growth expectations | Earnings growth -42.70%, EPS q/q -42.90% | Analyst mean target $81.42 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
@@ -101,7 +101,7 @@ Public Service Enterprise Group Incorporated, through its subsidiaries, operates
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $72.11 | EV/Sales | 4.81 |
-| Market cap | $35.94B | EV/EBITDA | 13.53 |
+| Market cap | $35.93B | EV/EBITDA | 13.53 |
 | Beta | 0.52 | Gross margin | 33.33% |
 | RSI(14) | 56.7 | Operating margin | 18.87% |
 | ATR(14) | 1.29 | Profit margin | 16.04% |
@@ -113,7 +113,7 @@ Public Service Enterprise Group Incorporated, through its subsidiaries, operates
 | P/E (ttm) | 17.94 | Insider ownership | 0.13% |
 | Forward P/E | 15.52 | Short float | 2.95% |
 | PEG (trailing) | 3.40 | Avg volume | 3,415,687 |
-| P/S | 2.87 | Employees | 13,189 |
+| P/S | 2.86 | Employees | 13,189 |
 | P/B | 2.07 | Analyst rec (1=buy..5=sell) | 2.3 |
 
 ## 8. Analyst Actions
