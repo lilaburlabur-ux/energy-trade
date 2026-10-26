@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-26T16:31:55+00:00",
+  "as_of": "2026-10-26T16:37:12+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,11 +11,11 @@
    "rank": 1,
    "ticker": "BE",
    "company": "Bloom Energy Corporation",
-   "move_pct": 7.91,
-   "price": 208.6,
-   "volume": 13871752,
+   "move_pct": 7.46,
+   "price": 207.72,
+   "volume": 14066358,
    "volume_vs_avg": "~0.8x",
-   "heat_score": 47,
+   "heat_score": 45,
    "direction": "up",
    "why": "Bernstein SocGen raises Bloom Energy stock price target on margin strength",
    "catalyst_type": "analyst_action",
