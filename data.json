@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-10-26T09:12:34+00:00",
-  "as_of_local": "2026-10-26 09:12:34 UTC",
+  "as_of_utc": "2026-10-26T09:17:41+00:00",
+  "as_of_local": "2026-10-26 09:17:41 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "OVV"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -410,15 +412,6 @@
       "headlines": []
     },
     {
-      "symbol": "OVV",
-      "name": "Ovintiv",
-      "price": 72.27,
-      "previous_close": 69.3,
-      "change_pct": 4.29,
-      "market_cap": 19989881071.472168,
-      "headlines": []
-    },
-    {
       "symbol": "NRG",
       "name": "NRG Energy",
       "price": 92.31,
@@ -823,18 +816,18 @@
     },
     {
       "label": "WTI",
-      "price": 100.87,
-      "change_pct": -2.32
+      "price": 100.81,
+      "change_pct": -2.38
     },
     {
       "label": "Brent",
-      "price": 109.62,
-      "change_pct": -6.08
+      "price": 109.63,
+      "change_pct": -6.07
     },
     {
       "label": "NatGas",
       "price": 3.02,
-      "change_pct": 14.47
+      "change_pct": 14.32
     }
   ]
 }
