@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-10-26T23:57:35+00:00",
-  "as_of_local": "2026-10-26 23:57:35 UTC",
+  "as_of_utc": "2026-10-26T23:58:44+00:00",
+  "as_of_local": "2026-10-26 23:58:44 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "ETN"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -65,15 +67,6 @@
       "previous_close": 82.1,
       "change_pct": -0.07,
       "market_cap": 172062990180.10104,
-      "headlines": []
-    },
-    {
-      "symbol": "ETN",
-      "name": "Eaton",
-      "price": 371.92,
-      "previous_close": 366.11,
-      "change_pct": 1.59,
-      "market_cap": 144416541213.98926,
       "headlines": []
     },
     {
@@ -823,8 +816,8 @@
     },
     {
       "label": "WTI",
-      "price": 101.46,
-      "change_pct": -1.75
+      "price": 101.47,
+      "change_pct": -1.74
     },
     {
       "label": "Brent",
