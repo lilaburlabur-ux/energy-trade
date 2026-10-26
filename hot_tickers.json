@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-26T16:37:12+00:00",
+  "as_of": "2026-10-26T16:52:11+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,16 +11,16 @@
    "rank": 1,
    "ticker": "BE",
    "company": "Bloom Energy Corporation",
-   "move_pct": 7.46,
-   "price": 207.72,
-   "volume": 14066358,
-   "volume_vs_avg": "~0.8x",
+   "move_pct": 7.44,
+   "price": 207.69,
+   "volume": 14456251,
+   "volume_vs_avg": "~0.9x",
    "heat_score": 45,
    "direction": "up",
-   "why": "Bernstein SocGen raises Bloom Energy stock price target on margin strength",
-   "catalyst_type": "analyst_action",
-   "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOaDVBcll3TWg3QzV3OF9yY3RhYzk5dUdGb3ZfMFk5SUNPZ0l2RTNMVHNIU3pveG5LMUxCZzI1M3h3MV9jNDNNbFBDaVdUa1lUVWg2ZEFJTjJWVzM4Y1dpYzFNVFllOEhJeElzTjhKSzJSWnM3QU5yWWtYcncxblZ0YVFlQ2x0cW9QUjQtWmtfUXdmSnZyY2xlaEk1LWlMYnp0S2ltUVpUVU5FMjJ4MnhJMnF2ZmFCUTFscFZ5TE9sdGFzWHF3RXV4Z3htLVJ2enc?oc=5",
-   "published": "2026-10-26T16:15:05+00:00",
+   "why": "Bloom Energy Stock Draws Bulls After Huge Q3 Beat",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVi1ucWVOcDRKV2p1VGtvX0hDc1NpVEc4YjBvc0FBR2tlXzZERGU4cGotcVY2WTc3RmNPTUNNa2FGVUgzcG5YcW5wa0JxanloWlFPQXU4VTFwUGwtNDJwckR3VmxndHRQajViSGotY1F5UDRhSTVIWTFpR1FNbGZOMg?oc=5",
+   "published": "2026-10-26T13:27:31+00:00",
    "sector": "Grid, Storage & Electrification"
   }
  ]
