@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-10-27T09:15:33+00:00",
-  "as_of_local": "2026-10-27 09:15:33 UTC",
+  "as_of_utc": "2026-10-27T09:20:51+00:00",
+  "as_of_local": "2026-10-27 09:20:51 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -73,7 +73,7 @@
       "price": 371.92,
       "previous_close": 366.11,
       "change_pct": 1.59,
-      "market_cap": 144453733215.33203,
+      "market_cap": 144416541213.98926,
       "headlines": []
     },
     {
@@ -82,7 +82,7 @@
       "price": 470.64,
       "previous_close": 457.22,
       "change_pct": 2.94,
-      "market_cap": 132167370571.96399,
+      "market_cap": 137397062172.81555,
       "headlines": []
     },
     {
@@ -172,7 +172,7 @@
       "price": 163.68,
       "previous_close": 163.03,
       "change_pct": 0.4,
-      "market_cap": 85854931685.91357,
+      "market_cap": 87180633889.31213,
       "headlines": []
     },
     {
@@ -343,7 +343,7 @@
       "price": 72.11,
       "previous_close": 72.02,
       "change_pct": 0.12,
-      "market_cap": 35941068667.511444,
+      "market_cap": 35933956602.37125,
       "headlines": []
     },
     {
@@ -487,7 +487,7 @@
       "price": 28.56,
       "previous_close": 28.54,
       "change_pct": 0.07,
-      "market_cap": 8571187878.2831,
+      "market_cap": 8661561398.43316,
       "headlines": []
     },
     {
@@ -532,7 +532,7 @@
       "price": 30.36,
       "previous_close": 31.6,
       "change_pct": -3.92,
-      "market_cap": 4011911593.9346924,
+      "market_cap": 4001394039.6432495,
       "headlines": []
     },
     {
@@ -563,21 +563,21 @@
       "headlines": []
     },
     {
-      "symbol": "UUUU",
-      "name": "Energy Fuels",
-      "price": 7.56,
-      "previous_close": 7.52,
-      "change_pct": 0.53,
-      "market_cap": 2001688189.1695347,
-      "headlines": []
-    },
-    {
       "symbol": "SEDG",
       "name": "SolarEdge",
       "price": 31.64,
       "previous_close": 33.32,
       "change_pct": -5.04,
       "market_cap": 1946674629.1676636,
+      "headlines": []
+    },
+    {
+      "symbol": "UUUU",
+      "name": "Energy Fuels",
+      "price": 7.56,
+      "previous_close": 7.52,
+      "change_pct": 0.53,
+      "market_cap": 1889735385.696888,
       "headlines": []
     },
     {
@@ -823,18 +823,18 @@
     },
     {
       "label": "WTI",
-      "price": 102.1,
-      "change_pct": 0.33
+      "price": 101.67,
+      "change_pct": -0.09
     },
     {
       "label": "Brent",
-      "price": 111.12,
-      "change_pct": -4.05
+      "price": 110.79,
+      "change_pct": -4.33
     },
     {
       "label": "NatGas",
       "price": 3.04,
-      "change_pct": 16.99
+      "change_pct": 16.95
     }
   ]
 }
