@@ -4,24 +4,24 @@ Signed file: `WFRD.research.27.10.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-10-27, ~15-min delayed) |
-| Market cap | $6.42B |
+| Current price | $89.64 (2026-10-27, ~15-min delayed) |
+| Market cap | $6.50B |
 | Sector / Industry | Energy / Oil & Gas Equipment & Services |
 | Main theme | Oil & Gas Equipment & Services — see catalysts below |
-| Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
+| Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-10-27.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-3.30%) with negative half-year (-18.28%). |
+| Fresh setup quality | Moderate / wait | -19.29% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 8.64%, revenue growth -7.20%. |
-| Value attractiveness | Reasonable | Forward P/E 13.30, EV/Sales 1.48. |
-| Risk level | Moderate | Beta 1.05, ATR nan% of price, short float 6.54%. |
+| Value attractiveness | Reasonable | Forward P/E 13.45, EV/Sales 1.48. |
+| Risk level | Elevated | Beta 1.05, ATR 4.0% of price, short float 6.54%. |
 
-**Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
+**Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -35,22 +35,22 @@ Weatherford International plc, an energy services company, provides equipment an
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $111.07 (+nan%); 52w low $69.38 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 59.4 (neutral) |
-| Volatility | ATR(14) 3.67 (~nan% of price); beta 1.05 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $89.64; 52w high $111.07 (-19.29%); 52w low $69.38 (+29.19%) |
+| Trend | -3.30% vs SMA200, +5.13% vs SMA50, +12.11% vs SMA20 |
+| Momentum | RSI(14) 63.1 (neutral) |
+| Volatility | ATR(14) 3.57 (~4.0% of price); beta 1.05 |
+| Setup perspective | -19.29% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | +13.0% |
+| Month | +8.3% |
+| Quarter | +9.2% |
+| Half Y | -18.3% |
+| 1Y | +28.8% |
+| YTD | +11.8% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -59,7 +59,7 @@ Weatherford International plc, an energy services company, provides equipment an
 | Revenue (ttm) | $4.69B | Revenue growth -7.20% y/y |
 | Profitability | Gross 30.80%, operating 13.91%, net 8.64% | ROA 7.27%, ROE 23.32% |
 | Balance sheet | Cash $1.16B, debt $1.63B | Current ratio 2.04, debt/equity 81.73 |
-| Valuation | P/E 16.69, forward P/E 13.30, P/S 1.37, P/B 3.20 | EV/Sales 1.48, EV/EBITDA 7.68 |
+| Valuation | P/E 16.88, forward P/E 13.45, P/S 1.39, P/B 3.24 | EV/Sales 1.48, EV/EBITDA 7.68 |
 | Growth expectations | Earnings growth 48.20%, EPS q/q 48.10% | Analyst mean target $112.83 (12 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -86,6 +86,7 @@ Weatherford International plc, an energy services company, provides equipment an
 | Invesco Ltd. | 1,831,620 | 2.54% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
+- **Volatility risk:** Beta 1.05, ATR 4.0% of price, short float 6.54%. Size positions accordingly.
 - **Short interest risk:** short float 6.54% can fuel squeezes both ways around news.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -101,21 +102,21 @@ Weatherford International plc, an energy services company, provides equipment an
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 1.48 |
-| Market cap | $6.42B | EV/EBITDA | 7.68 |
+| Price | $89.64 | EV/Sales | 1.48 |
+| Market cap | $6.50B | EV/EBITDA | 7.68 |
 | Beta | 1.05 | Gross margin | 30.80% |
-| RSI(14) | 59.4 | Operating margin | 13.91% |
-| ATR(14) | 3.67 | Profit margin | 8.64% |
-| SMA20 dist | +nan% | ROA | 7.27% |
-| SMA50 dist | +nan% | ROE | 23.32% |
-| SMA200 dist | +nan% | Revenue (ttm) | $4.69B |
+| RSI(14) | 63.1 | Operating margin | 13.91% |
+| ATR(14) | 3.57 | Profit margin | 8.64% |
+| SMA20 dist | +12.11% | ROA | 7.27% |
+| SMA50 dist | +5.13% | ROE | 23.32% |
+| SMA200 dist | -3.30% | Revenue (ttm) | $4.69B |
 | 52W high | $111.07 | Revenue growth y/y | -7.20% |
 | 52W low | $69.38 | Inst. ownership | 106.64% |
-| P/E (ttm) | 16.69 | Insider ownership | 2.13% |
-| Forward P/E | 13.30 | Short float | 6.54% |
-| PEG (trailing) | 1.31 | Avg volume | 994,890 |
-| P/S | 1.37 | Employees | 16,700 |
-| P/B | 3.20 | Analyst rec (1=buy..5=sell) | 1.7 |
+| P/E (ttm) | 16.88 | Insider ownership | 2.13% |
+| Forward P/E | 13.45 | Short float | 6.54% |
+| PEG (trailing) | 1.34 | Avg volume | 989,410 |
+| P/S | 1.39 | Employees | 16,700 |
+| P/B | 3.24 | Analyst rec (1=buy..5=sell) | 1.7 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
@@ -130,7 +131,7 @@ Weatherford International plc, an energy services company, provides equipment an
 | 2026-10-14 | main | Goldman Sachs | Neutral → Neutral |
 
 ## 9. Conclusion
-WFRD: Moderate momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+WFRD: Low momentum / mixed fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

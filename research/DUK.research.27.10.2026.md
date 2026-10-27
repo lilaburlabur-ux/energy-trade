@@ -4,8 +4,8 @@ Signed file: `DUK.research.27.10.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-10-27, ~15-min delayed) |
-| Market cap | $97.03B |
+| Current price | $124.80 (2026-10-27, ~15-min delayed) |
+| Market cap | $97.31B |
 | Sector / Industry | Utilities / Utilities - Regulated Electric |
 | Main theme | Utilities - Regulated Electric — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `DUK.research.27.10.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +1.42%; price +1.59% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -4.85% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 16.00%, revenue growth 1.10%. |
-| Value attractiveness | Reasonable | Forward P/E 17.36, EV/Sales 5.84. |
-| Risk level | Moderate | Beta 0.34, ATR nan% of price, short float 2.54%. |
+| Value attractiveness | Reasonable | Forward P/E 17.41, EV/Sales 5.84. |
+| Risk level | Moderate | Beta 0.34, ATR 1.5% of price, short float 2.54%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
@@ -35,22 +35,22 @@ Duke Energy Corporation, through its subsidiaries, operates as an energy company
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $131.16 (+nan%); 52w low $111.09 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 68.3 (neutral) |
-| Volatility | ATR(14) 1.99 (~nan% of price); beta 0.34 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $124.80; 52w high $131.16 (-4.85%); 52w low $111.09 (+12.34%) |
+| Trend | +1.59% vs SMA200, +4.90% vs SMA50, +5.00% vs SMA20 |
+| Momentum | RSI(14) 66.8 (neutral) |
+| Volatility | ATR(14) 1.89 (~1.5% of price); beta 0.34 |
+| Setup perspective | -4.85% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | +2.9% |
+| Month | +10.0% |
+| Quarter | -2.5% |
+| Half Y | -0.6% |
+| 1Y | +1.4% |
+| YTD | +9.0% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -59,13 +59,13 @@ Duke Energy Corporation, through its subsidiaries, operates as an energy company
 | Revenue (ttm) | $32.80B | Revenue growth 1.10% y/y |
 | Profitability | Gross 51.97%, operating 27.50%, net 16.00% | ROA 2.84%, ROE 9.86% |
 | Balance sheet | Cash $673.00M, debt $92.21B | Current ratio 0.66, debt/equity 162.16 |
-| Valuation | P/E 18.74, forward P/E 17.36, P/S 2.96, P/B 1.80 | EV/Sales 5.84, EV/EBITDA 11.53 |
+| Valuation | P/E 18.80, forward P/E 17.41, P/S 2.97, P/B 1.81 | EV/Sales 5.84, EV/EBITDA 11.53 |
 | Growth expectations | Earnings growth 10.60%, EPS q/q 11.00% | Analyst mean target $131.74 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 71.07% |
+| Institutional ownership | 71.06% |
 | Insider ownership | 0.13% |
 | Short float | 2.54% |
 | Short ratio (days to cover) | 4.4 |
@@ -86,6 +86,7 @@ Duke Energy Corporation, through its subsidiaries, operates as an energy company
 | Charles Schwab Investment Management, Inc. | 9,226,192 | 1.18% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
+- **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -100,21 +101,21 @@ Duke Energy Corporation, through its subsidiaries, operates as an energy company
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 5.84 |
-| Market cap | $97.03B | EV/EBITDA | 11.53 |
+| Price | $124.80 | EV/Sales | 5.84 |
+| Market cap | $97.31B | EV/EBITDA | 11.53 |
 | Beta | 0.34 | Gross margin | 51.97% |
-| RSI(14) | 68.3 | Operating margin | 27.50% |
-| ATR(14) | 1.99 | Profit margin | 16.00% |
-| SMA20 dist | +nan% | ROA | 2.84% |
-| SMA50 dist | +nan% | ROE | 9.86% |
-| SMA200 dist | +nan% | Revenue (ttm) | $32.80B |
+| RSI(14) | 66.8 | Operating margin | 27.50% |
+| ATR(14) | 1.89 | Profit margin | 16.00% |
+| SMA20 dist | +5.00% | ROA | 2.84% |
+| SMA50 dist | +4.90% | ROE | 9.86% |
+| SMA200 dist | +1.59% | Revenue (ttm) | $32.80B |
 | 52W high | $131.16 | Revenue growth y/y | 1.10% |
-| 52W low | $111.09 | Inst. ownership | 71.07% |
-| P/E (ttm) | 18.74 | Insider ownership | 0.13% |
-| Forward P/E | 17.36 | Short float | 2.54% |
-| PEG (trailing) | 2.33 | Avg volume | 4,159,210 |
-| P/S | 2.96 | Employees | 26,441 |
-| P/B | 1.80 | Analyst rec (1=buy..5=sell) | 2.1 |
+| 52W low | $111.09 | Inst. ownership | 71.06% |
+| P/E (ttm) | 18.80 | Insider ownership | 0.13% |
+| Forward P/E | 17.41 | Short float | 2.54% |
+| PEG (trailing) | 2.32 | Avg volume | 4,168,693 |
+| P/S | 2.97 | Employees | 26,441 |
+| P/B | 1.81 | Analyst rec (1=buy..5=sell) | 2.1 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
