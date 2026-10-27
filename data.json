@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-10-27T09:51:01+00:00",
-  "as_of_local": "2026-10-27 09:51:01 UTC",
+  "as_of_utc": "2026-10-27T09:56:10+00:00",
+  "as_of_local": "2026-10-27 09:56:10 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AR"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -457,6 +455,15 @@
       "headlines": []
     },
     {
+      "symbol": "AR",
+      "name": "Antero Resources",
+      "price": 41.54,
+      "previous_close": 40.16,
+      "change_pct": 3.44,
+      "market_cap": 12771016341.468811,
+      "headlines": []
+    },
+    {
       "symbol": "BWXT",
       "name": "BWX Technologies",
       "price": 131.2,
@@ -816,18 +823,18 @@
     },
     {
       "label": "WTI",
-      "price": 102.12,
-      "change_pct": 0.35
+      "price": 102.02,
+      "change_pct": 0.26
     },
     {
       "label": "Brent",
-      "price": 111.19,
-      "change_pct": -3.99
+      "price": 111.15,
+      "change_pct": -4.02
     },
     {
       "label": "NatGas",
-      "price": 3.05,
-      "change_pct": 17.06
+      "price": 3.04,
+      "change_pct": 16.95
     }
   ]
 }
