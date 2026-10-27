@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-10-27T21:00:27+00:00",
-  "as_of_local": "2026-10-27 21:00:27 UTC",
+  "as_of_utc": "2026-10-27T21:05:17+00:00",
+  "as_of_local": "2026-10-27 21:05:17 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "NXE"
+    "ARRY"
   ],
   "stocks": [
     {
@@ -511,6 +511,15 @@
       "headlines": []
     },
     {
+      "symbol": "NXE",
+      "name": "NexGen Energy",
+      "price": 8.8,
+      "previous_close": 8.33,
+      "change_pct": 5.64,
+      "market_cap": 5900453816.6888895,
+      "headlines": []
+    },
+    {
       "symbol": "OKLO",
       "name": "Oklo",
       "price": 27.33,
@@ -598,15 +607,6 @@
       "previous_close": 1.62,
       "change_pct": 12.35,
       "market_cap": 662785313.1813583,
-      "headlines": []
-    },
-    {
-      "symbol": "ARRY",
-      "name": "Array Technologies",
-      "price": 3.39,
-      "previous_close": 3.15,
-      "change_pct": 7.62,
-      "market_cap": 521471437.55702925,
       "headlines": []
     }
   ],
@@ -816,18 +816,18 @@
     },
     {
       "label": "WTI",
-      "price": 100.19,
-      "change_pct": -1.54
+      "price": 100.25,
+      "change_pct": -1.48
     },
     {
       "label": "Brent",
-      "price": 109.73,
-      "change_pct": -5.25
+      "price": 109.77,
+      "change_pct": -5.22
     },
     {
       "label": "NatGas",
       "price": 3.07,
-      "change_pct": 17.83
+      "change_pct": 17.79
     }
   ]
 }
