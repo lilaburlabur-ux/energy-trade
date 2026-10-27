@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-10-27T22:47:01+00:00",
-  "as_of_local": "2026-10-27 22:47:01 UTC",
+  "as_of_utc": "2026-10-27T22:49:52+00:00",
+  "as_of_local": "2026-10-27 22:49:52 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "SLB"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -75,7 +73,16 @@
       "price": 384.2,
       "previous_close": 371.92,
       "change_pct": 3.3,
-      "market_cap": 149223284741.21094,
+      "market_cap": 149184864739.99023,
+      "headlines": []
+    },
+    {
+      "symbol": "MPC",
+      "name": "Marathon Petroleum",
+      "price": 435.98,
+      "previous_close": 470.64,
+      "change_pct": -7.36,
+      "market_cap": 127278537334.61166,
       "headlines": []
     },
     {
@@ -85,15 +92,6 @@
       "previous_close": 50.53,
       "change_pct": -3.17,
       "market_cap": 126023691315.24814,
-      "headlines": []
-    },
-    {
-      "symbol": "MPC",
-      "name": "Marathon Petroleum",
-      "price": 435.98,
-      "previous_close": 470.64,
-      "change_pct": -7.36,
-      "market_cap": 122433983257.97299,
       "headlines": []
     },
     {
@@ -183,7 +181,7 @@
       "price": 161.1,
       "previous_close": 163.68,
       "change_pct": -1.58,
-      "market_cap": 84501653455.07202,
+      "market_cap": 85806459433.90656,
       "headlines": []
     },
     {
@@ -202,6 +200,15 @@
       "previous_close": 37.0,
       "change_pct": 0.46,
       "market_cap": 80267762417.6092,
+      "headlines": []
+    },
+    {
+      "symbol": "SLB",
+      "name": "SLB (Schlumberger)",
+      "price": 54.08,
+      "previous_close": 53.08,
+      "change_pct": 1.88,
+      "market_cap": 79822082702.63672,
       "headlines": []
     },
     {
@@ -336,7 +343,7 @@
       "price": 72.82,
       "previous_close": 72.11,
       "change_pct": 0.98,
-      "market_cap": 36294946432.49428,
+      "market_cap": 36287764341.56438,
       "headlines": []
     },
     {
@@ -480,7 +487,7 @@
       "price": 29.27,
       "previous_close": 28.56,
       "change_pct": 2.49,
-      "market_cap": 8784267430.4002,
+      "market_cap": 8876887634.37872,
       "headlines": []
     },
     {
@@ -534,7 +541,7 @@
       "price": 29.76,
       "previous_close": 30.36,
       "change_pct": -1.98,
-      "market_cap": 3932624754.7255096,
+      "market_cap": 3922315057.3662186,
       "headlines": []
     },
     {
@@ -685,8 +692,8 @@
           "name": "SLB Ltd",
           "short": "SLB",
           "weight_pct": 3.86,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": 1.88,
+          "price": 54.08,
           "currency": "USD"
         },
         {
@@ -784,8 +791,8 @@
         "name": "SLB Ltd",
         "short": "SLB",
         "weight_pct": 3.86,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": 1.88,
+        "price": 54.08,
         "currency": "USD"
       },
       {
@@ -816,8 +823,8 @@
     },
     {
       "label": "WTI",
-      "price": 99.91,
-      "change_pct": -1.82
+      "price": 99.96,
+      "change_pct": -1.77
     },
     {
       "label": "Brent",
