@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-27T21:25:26+00:00",
+  "as_of": "2026-10-27T21:40:38+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,16 +11,16 @@
    "rank": 1,
    "ticker": "ENPH",
    "company": "Enphase Energy, Inc.",
-   "move_pct": -17.59,
-   "price": 25.02,
+   "move_pct": -17.33,
+   "price": 25.1,
    "volume": 14893730,
    "volume_vs_avg": "~3x",
    "heat_score": 93,
    "direction": "down",
    "why": "Why is Enphase Energy stock plunging today? By Investing.com",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcC11UzI1anJCeFlBYWs3VzJnWnRETDVFbmZOa2I3SnlRakpqQ0lTMVhWWkhTTTZ5Q05Ya1NIbHRPU1RsY082c3RKQXZ4emtleFdDNV92c19EeTNHZFBINkZCamR6Qm9qenh1c1NPSjFkdmhocWFEcU5kVFA4WkVONjVmUi1GY2JwZ3pOQzFLam1NaE93Qkw0V0g4OXJXN2N5TkpNbEdn?oc=5",
-   "published": "2026-10-27T21:07:47+00:00",
+   "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSlBxaGxhVk4xSVVfM01XN3BPVzR3TEF2TXllYjhaUi1jVGlkVUhxRUp1LWhYY0hRaFdrYnBBVkgyOE1IV0huR3lHU1I4V3h0TFRLUi01ZDk2eXFXenZLSHl0R2NqYmplSElWSXNtN3d1VFNpdUhGVExTc2pSVi12UE1tRFVVM01LSTVDdGpqUU1POGZmLVUtRWJiNWNPX1BpMjhNRExn?oc=5",
+   "published": "2026-10-27T21:17:07+00:00",
    "sector": "Renewables & Solar"
   },
   {
@@ -73,6 +73,22 @@
   },
   {
    "rank": 5,
+   "ticker": "BE",
+   "company": "Bloom Energy Corporation",
+   "move_pct": 7.69,
+   "price": 219.6,
+   "volume": 15577101,
+   "volume_vs_avg": "~0.9x",
+   "heat_score": 47,
+   "direction": "up",
+   "why": "Bloom Energy: Buckle Up, Things Are About To Change (Rating Downgrade)",
+   "catalyst_type": "analyst_action",
+   "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeC1kai0tem1obHA0YUJ5aTJIRWJFeTdNcnJVUUxZNTVYdmdHeWxuWFlIZGloYWQyOUpTb0NZd1daUEZPZS1DNm56UVZMOWF5cXk0U3VVMk9tS1NYbVNjOVFyZ1ZXY0ZqODRpczFRb1MwaHktVnNJR3ZHaWcxQjdSQkdvc1hjQmJSSFc0eTh5UzdhMzBDdXlHNnF2WFE3dGh1aGc?oc=5",
+   "published": "2026-10-27T19:29:39+00:00",
+   "sector": "Grid, Storage & Electrification"
+  },
+  {
+   "rank": 6,
    "ticker": "PSX",
    "company": "Phillips 66",
    "move_pct": -7.03,
@@ -88,35 +104,19 @@
    "sector": "Refining & Downstream"
   },
   {
-   "rank": 6,
-   "ticker": "BE",
-   "company": "Bloom Energy Corporation",
-   "move_pct": 7.15,
-   "price": 218.5,
-   "volume": 15577101,
-   "volume_vs_avg": "~0.9x",
-   "heat_score": 45,
-   "direction": "up",
-   "why": "Columbus McKinnon, Bloom Energy, Ameresco, FuelCell Energy, and WillScot Mobile Mini stocks trade up, what you need to know",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOM280UUhjbTIxbkoteUNTSmEtdVZ4aVhaRnRiVVJUcXNjdHlGVlBLSldNVEgtRXkwemhXdC1EMC1jQnUwalZXeDFGOUV4YkVYN3V2NnFDTkRPLTZvYmpJYk1ycmRYVHRTZ2w3VnVYUmtCdGxXeTNIaVlmVFVCWUNZNlZTZUxmMTRtUUUyRExkNXUzYnZxQWRad2lWMTNGZDFCcFdQSHpRWXdZUXRBSTJ2VE9XaFNobUtCZTZnSFc3NkdGQTFHakE3OTlicWRIZlNLT09IMHZXa3VHYXJVSm5TN2VWWkN3aThMWnNFSjFXX0dXWl9lN0E1VGV5NkRnbEl3Q1JLelBCbkEtMkQtX2xIeXZMbjNlNld2RFVvcUpsNXdWWDlJeFFSUg?oc=5",
-   "published": "2026-10-27T20:01:45+00:00",
-   "sector": "Grid, Storage & Electrification"
-  },
-  {
    "rank": 7,
    "ticker": "VRT",
    "company": "Vertiv Holdings, LLC",
-   "move_pct": 5.19,
-   "price": 210.15,
+   "move_pct": 5.42,
+   "price": 210.6,
    "volume": 8393728,
    "volume_vs_avg": "~2x",
-   "heat_score": 41,
+   "heat_score": 42,
    "direction": "up",
-   "why": "The Single Most Important Metric For Vertiv Stock",
+   "why": "Is Vertiv Holdings Co (VRT) Undervalued As Q3 Growth And AI Launches Draw Focus?",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbVNyc2g1WHNyVzc2SFkxLWtmYzl2amwtbm93RXE5RVF2SjNmSHZpemtiX0VIb210SGlPdUJKdVhXTzZnRkRTS3U5ZmhmSDFwTUhoeFFPTnVfOUJxUm9ZalpXNjlsTDB1SmZJTDFOSFNQM3o2NE5hZzFtc09pcGZCRG9tTThrMTM3bHRab1dUSnoyNmJCUmhCS0Q1cWMzUTlDeWc?oc=5",
-   "published": "2026-10-27T20:06:17+00:00",
+   "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOazBZQk9HTVVjc0txX1NlbVhjUDNld1BrLXhZS3hTY1lyYXBIMkNVN01sMVYyVFhWYm5oeW53WV9qYjEyTk9GNk52cHNDaGdRT2x4czhKT2hqT2Zmalk3dl9PUlAydVpPMEtoVjNVNDMxTFFXYmNGaTA4akNROFE0UFVlbHVNazRqa3hPTEo4Ti1GLTRmTDdPOU94dHlHeWNQ?oc=5",
+   "published": "2026-10-27T20:07:47+00:00",
    "sector": "Grid, Storage & Electrification"
   }
  ]
