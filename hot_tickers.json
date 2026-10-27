@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-27T22:10:54+00:00",
+  "as_of": "2026-10-27T22:16:05+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,8 +11,8 @@
    "rank": 1,
    "ticker": "ENPH",
    "company": "Enphase Energy, Inc.",
-   "move_pct": -17.65,
-   "price": 25.0,
+   "move_pct": -17.23,
+   "price": 25.13,
    "volume": 14893730,
    "volume_vs_avg": "~3x",
    "heat_score": 93,
@@ -118,22 +118,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeml0RmI2ZGNYUWlEY0kyOFFHTUlTZkdhdGZnNnpFVm5EUlF3dHJ1dGk5TG9GMU90M2JiYUlYZEJRcUQ1NF9pVm1ENmxyYlhTaHVWQ3g4THBKUHlBanYzX0ZWYlFka0VXUE1rNUdpTHFUZWJVQkZLeE00djdRZ3QwRldsbk1XQzE1Y3dGRHdSQXM1M2Q0SHdFa1RGSXBtZlNkUUxXNmI0LVJZQ0NoTHhxYlpmYndpWVdxcnVMdDNSRWFyWVVEcmVz?oc=5",
    "published": "2026-10-27T20:30:00+00:00",
    "sector": "Refining & Downstream"
-  },
-  {
-   "rank": 8,
-   "ticker": "VRT",
-   "company": "Vertiv Holdings, LLC",
-   "move_pct": 5.37,
-   "price": 210.5,
-   "volume": 8393728,
-   "volume_vs_avg": "~2x",
-   "heat_score": 42,
-   "direction": "up",
-   "why": "Is Vertiv Holdings Co (VRT) Undervalued As Q3 Growth And AI Launches Draw Focus?",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOazBZQk9HTVVjc0txX1NlbVhjUDNld1BrLXhZS3hTY1lyYXBIMkNVN01sMVYyVFhWYm5oeW53WV9qYjEyTk9GNk52cHNDaGdRT2x4czhKT2hqT2Zmalk3dl9PUlAydVpPMEtoVjNVNDMxTFFXYmNGaTA4akNROFE0UFVlbHVNazRqa3hPTEo4Ti1GLTRmTDdPOU94dHlHeWNQ?oc=5",
-   "published": "2026-10-27T20:07:47+00:00",
-   "sector": "Grid, Storage & Electrification"
   }
  ]
 }
