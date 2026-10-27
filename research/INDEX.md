@@ -16,7 +16,7 @@
 | DVN | $56.35B | +59% | 9.5 | 17% | Moderate | Reasonable | Moderate |
 | OXY | $62.71B | +50% | 12.5 | 30% | Moderate | Reasonable | Moderate |
 | APA | $17.79B | +119% | 9.7 | 20% | High | Reasonable | Elevated |
-| EQT | $35.24B | +6% | 15.6 | 29% | Moderate | Reasonable | Moderate |
+| EQT | $35.20B | +6% | 15.6 | 29% | Moderate | Reasonable | Moderate |
 | AR | $12.94B | +29% | 9.0 | 19% | Moderate | Reasonable | Elevated |
 | PR | $21.32B | +111% | 10.4 | 22% | High | Reasonable | Moderate |
 | OVV | $19.67B | +93% | 8.3 | 10% | High | Reasonable | Moderate |
