@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-27T13:46:55+00:00",
+  "as_of": "2026-10-27T13:55:13+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,9 +11,9 @@
    "rank": 1,
    "ticker": "BE",
    "company": "Bloom Energy Corporation",
-   "move_pct": 7.5,
-   "price": 219.21,
-   "volume": 5032262,
+   "move_pct": 7.57,
+   "price": 219.35,
+   "volume": 5751176,
    "volume_vs_avg": "~0.3x",
    "heat_score": 43,
    "direction": "up",
@@ -25,35 +25,19 @@
   },
   {
    "rank": 2,
-   "ticker": "LEU",
-   "company": "Centrus Energy Corp.",
-   "move_pct": 5.84,
-   "price": 104.19,
-   "volume": 104655,
-   "volume_vs_avg": "~0.1x",
-   "heat_score": 36,
-   "direction": "up",
-   "why": "Texas Capital Securities initiates Centrus Energy stock with buy rating By Investing.com",
-   "catalyst_type": "analyst_action",
-   "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdl9fTlA4d2lSMTBFZjNPVDVpUkxpNHM1M0sxenFMVnBCSmJFYXZHVVRDVm5SZXpfTDZYbk83b0VWRTc3TlFXcGxwV2luaUhrTWtJeG1pOTVDaHJHbzBNeElTNmZscnd1czlJdmVBUkh2YnpDazVYblFsSW1sMkpjaWt3WGN6Y3JVTW1tU2gtQmdXNEl5ZTJHZVk2bWVYVjhRSVRFX2VGNEVYNTNoN0hfeGNnZkVValVKVjAzeU84eDQzUWRmN0NUeERfVnI?oc=5",
-   "published": "2026-10-27T11:17:48+00:00",
-   "sector": "Nuclear & Uranium"
-  },
-  {
-   "rank": 3,
-   "ticker": "UUUU",
-   "company": "Energy Fuels Inc",
-   "move_pct": 5.22,
-   "price": 7.95,
-   "volume": 1475394,
+   "ticker": "VLO",
+   "company": "Valero Energy Corporation",
+   "move_pct": -5.8,
+   "price": 402.02,
+   "volume": 518964,
    "volume_vs_avg": "~0.2x",
-   "heat_score": 34,
-   "direction": "up",
-   "why": "Energy Fuels secures A$180M financing for Australian rare earth project (UUUU:NYSE)",
-   "catalyst_type": "financing",
-   "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcHhma0gwWXlxcHBUdmpjVzFPUDdIY0NfUHZ1cE93ZWlwUllERUVnVExxZEZsQVo5cU0yNVdwZ0xlVGNVeVRsa3RHMk44dWxWQlU0MW9GMmxkMGVDWTR0Y19jcnpINVhvVGNhVERlRlhFT0V2X0xodUotTWhNR2ZFS084XzR0b1RaT2hOaUh2VFNiMGh2QjZoOXNBNGJ5XzNhbUZydHozRU1HVjNn?oc=5",
-   "published": "2026-10-27T11:23:50+00:00",
-   "sector": "Nuclear & Uranium"
+   "heat_score": 36,
+   "direction": "down",
+   "why": "Valero Energy (NYSE:VLO) Breakout Setup Backed by 10/10 Technical Strength",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdlhoYWg0dmdqLW9RNWtJNDU2SGNhUGdGeGVScjlvZ3ZyRS01cl9oVTNPZDlOVUtFV2F5ZE5hQjd3U21KLUZSMmtZQ3M3cmJhRmxxRDVyVkpXMWl6OVFYbVNBMDl5b0dPZXAyVGJWRFMxMUhIMlVPSkR2Wl9mblVyTm9kVWIyOVJSamYweEtIRnp4OXBXODJxU0dFTG1hcTNNZEMtYkh4MDI0clotQ0xNYUY3LWlBVm90RmRYZDlR?oc=5",
+   "published": "2026-10-27T13:10:53+00:00",
+   "sector": "Refining & Downstream"
   }
  ]
 }
