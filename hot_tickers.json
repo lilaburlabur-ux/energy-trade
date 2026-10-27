@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-27T21:55:47+00:00",
+  "as_of": "2026-10-27T22:10:54+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,16 +11,16 @@
    "rank": 1,
    "ticker": "ENPH",
    "company": "Enphase Energy, Inc.",
-   "move_pct": -17.59,
-   "price": 25.02,
+   "move_pct": -17.65,
+   "price": 25.0,
    "volume": 14893730,
    "volume_vs_avg": "~3x",
    "heat_score": 93,
    "direction": "down",
-   "why": "Why is Enphase Energy stock plunging today? By Investing.com",
+   "why": "Enphase Energy Extends Weakness on Slumping Residential Demand",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSlBxaGxhVk4xSVVfM01XN3BPVzR3TEF2TXllYjhaUi1jVGlkVUhxRUp1LWhYY0hRaFdrYnBBVkgyOE1IV0huR3lHU1I4V3h0TFRLUi01ZDk2eXFXenZLSHl0R2NqYmplSElWSXNtN3d1VFNpdUhGVExTc2pSVi12UE1tRFVVM01LSTVDdGpqUU1POGZmLVUtRWJiNWNPX1BpMjhNRExn?oc=5",
-   "published": "2026-10-27T21:17:07+00:00",
+   "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdEpkWEEwSEZXVVY3M0dKNzVLUkl6OHVodnlsNVN6ZFFOTTJIaEVUTHdpMUNBMVBzaEhUZW1hWVlTSmhTX0NZLVR6d1FuWGxhVlhRWk5yOWNTWW5VSmFJbURrS01xbkRaX3FBM2d0dkNyVy1GczJmZFlfaHNsajQwcXVlZw?oc=5",
+   "published": "2026-10-27T21:47:00+00:00",
    "sector": "Renewables & Solar"
   },
   {
@@ -41,29 +41,13 @@
   },
   {
    "rank": 3,
-   "ticker": "VLO",
-   "company": "Valero Energy Corporation",
-   "move_pct": -9.54,
-   "price": 386.03,
-   "volume": 5069191,
-   "volume_vs_avg": "~2x",
-   "heat_score": 66,
-   "direction": "down",
-   "why": "Valero Energy Corp (VLO) Stock Down 9.2% but Still Overvalued -- GF Score: 66/100",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORTdCZkhkN3U3T0ZDZ1RPOWV1QkU2MzlKLXJIT29Tbk5SLVQycmo0T3M0OEpjWkZZWmdpVFB6ekR2Q3liMXpaQWtBUHVqbmplT2J1NzlNdmtmbzNGSEhzMHh1QldpYndGMU5rbFdIZEZNUFZzdDJZbEwwUjgtMXNGeS1SN0hsSE1PQ1VHMk9iSWNSTXYxQXhpLU83UFFsbW9LTlkwN0lsMFZiNEx1b3g0VQ?oc=5",
-   "published": "2026-10-27T21:36:15+00:00",
-   "sector": "Refining & Downstream"
-  },
-  {
-   "rank": 4,
    "ticker": "FLNC",
    "company": "Fluence Energy, Inc.",
-   "move_pct": 10.18,
-   "price": 6.06,
+   "move_pct": 9.82,
+   "price": 6.04,
    "volume": 7696992,
    "volume_vs_avg": "~1.0x",
-   "heat_score": 66,
+   "heat_score": 64,
    "direction": "up",
    "why": "Lincoln Electric, Rocket Lab, Fluence Energy, ChargePoint, and American Superconductor shares skyrocket, what you need to know",
    "catalyst_type": "momentum_narrative",
@@ -72,7 +56,7 @@
    "sector": "Grid, Storage & Electrification"
   },
   {
-   "rank": 5,
+   "rank": 4,
    "ticker": "DINO",
    "company": "HF Sinclair Corporation",
    "move_pct": -8.81,
@@ -88,7 +72,7 @@
    "sector": "Refining & Downstream"
   },
   {
-   "rank": 6,
+   "rank": 5,
    "ticker": "HUBB",
    "company": "Hubbell Inc",
    "move_pct": -5.28,
@@ -97,30 +81,30 @@
    "volume_vs_avg": "~3x",
    "heat_score": 51,
    "direction": "down",
-   "why": "Hubbell Sinks 6% Despite Q3 Beat as Raised Outlook Only Matches Wall Street",
-   "catalyst_type": "earnings",
-   "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaGdibmFaLUFKd1hjdFk4anpQQ2dHUFlFcm0wcGJCMzNrY1JqVlFTa09KcDhBeEJrRHhGOVNiWE52QXlXQkJTVEl1c2tOZERXMDhGYWVuWmVCN2V3TFY4blhzcUg3RkQwTjg5cnRteHJyZnhuMi1ubG0wUTFkVFhCX3JDVlp6dnljekFubzJlQUdLaEVEc3pfX3VlamxjUjFPSWc?oc=5",
-   "published": "2026-10-27T20:13:16+00:00",
+   "why": "Hubbell Inc. stock underperforms Tuesday when compared to competitors",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMjN0SmNRVzB1dWY3VWxmdmhaMlQ5Mm8zYngtUGl0am1GODU1eFR0VE5XX190NENZQ2REa2I1S2pkUGNWWWRsTzQ5RVBXYVFWRE40dVNvd09STWN2UmZDRGRORVpCTHZkdnZ0d21fUmt6THR2cWxXWHNvWUZOQkhCQ1A5VjhpRzNGQi1mQ3h6QnB4bjBETTNGUjRFZnNaRFZSRmdvY2NZSkFOWU1kTEJVTi1IbkNicDRLNGM0Z241RUdjUUplY21CUXZVMlJaNlYzdHItRURFVmMzZm9fNjNR?oc=5",
+   "published": "2026-10-27T21:01:00+00:00",
    "sector": "Grid, Storage & Electrification"
   },
   {
-   "rank": 7,
+   "rank": 6,
    "ticker": "MPC",
    "company": "Marathon Petroleum Corporation",
-   "move_pct": -7.75,
-   "price": 434.16,
+   "move_pct": -7.89,
+   "price": 433.5,
    "volume": 2939567,
    "volume_vs_avg": "~1.1x",
    "heat_score": 48,
    "direction": "down",
-   "why": "BlackRock\u2019s stake in Marathon Petroleum (MPC) exceeds the 20.7M shares it alone can vote.",
-   "catalyst_type": "mna",
-   "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPT0JldE9HUlB3T2ZCbVhhT3hJb3A1VWlQZ2FZMHoxdjZCSlJHTHR0ZTdOTzUxMGRFRk0wSm02Zk1LUUhTUEoxUzZUZlI4UDBUQmhydHVwTkpFbkFveG44R3VMWEFfUWJkQnlJZW95c2JndVZFbi1sd3ZVN0VLRXpXaEZKeWJENkczYmVaX2hqX0JrUjV2bG1yeVNuaVZkc0FwOE9YNWdzZFdUNHl0cHpWZDNMS0pwVzMwcmlYR0xHQzJVdEJtSzI5dkJR?oc=5",
-   "published": "2026-10-27T21:27:31+00:00",
+   "why": "Marathon Petroleum (NYSE:MPC) Stock Falls 7.5% - Time to Sell?",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORXdkTjZONDRlZVhJb2hPQ1ZsMVhSdDhhYUJ3c1Q4WTlsRVRaRjhHSldrOF9fTjlCeGZiSXl1THY4RGYxaWltUE1EWTRYRGVORDZwMThxYmNSYXh4bnpPT182REhlZTg0M3MwUVhDWEx5anRRQU9qbGtqd1dxUXdsMGpOd1NPQzd1M3h1R3g2ZTVCSm1uRHY5eWhTR3ltc2EyLXJkYlVmZzRsMWZuMW9zb2ZOaHh4dw?oc=5",
+   "published": "2026-10-27T21:51:25+00:00",
    "sector": "Refining & Downstream"
   },
   {
-   "rank": 8,
+   "rank": 7,
    "ticker": "PSX",
    "company": "Phillips 66",
    "move_pct": -7.13,
@@ -134,6 +118,22 @@
    "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeml0RmI2ZGNYUWlEY0kyOFFHTUlTZkdhdGZnNnpFVm5EUlF3dHJ1dGk5TG9GMU90M2JiYUlYZEJRcUQ1NF9pVm1ENmxyYlhTaHVWQ3g4THBKUHlBanYzX0ZWYlFka0VXUE1rNUdpTHFUZWJVQkZLeE00djdRZ3QwRldsbk1XQzE1Y3dGRHdSQXM1M2Q0SHdFa1RGSXBtZlNkUUxXNmI0LVJZQ0NoTHhxYlpmYndpWVdxcnVMdDNSRWFyWVVEcmVz?oc=5",
    "published": "2026-10-27T20:30:00+00:00",
    "sector": "Refining & Downstream"
+  },
+  {
+   "rank": 8,
+   "ticker": "VRT",
+   "company": "Vertiv Holdings, LLC",
+   "move_pct": 5.37,
+   "price": 210.5,
+   "volume": 8393728,
+   "volume_vs_avg": "~2x",
+   "heat_score": 42,
+   "direction": "up",
+   "why": "Is Vertiv Holdings Co (VRT) Undervalued As Q3 Growth And AI Launches Draw Focus?",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOazBZQk9HTVVjc0txX1NlbVhjUDNld1BrLXhZS3hTY1lyYXBIMkNVN01sMVYyVFhWYm5oeW53WV9qYjEyTk9GNk52cHNDaGdRT2x4czhKT2hqT2Zmalk3dl9PUlAydVpPMEtoVjNVNDMxTFFXYmNGaTA4akNROFE0UFVlbHVNazRqa3hPTEo4Ti1GLTRmTDdPOU94dHlHeWNQ?oc=5",
+   "published": "2026-10-27T20:07:47+00:00",
+   "sector": "Grid, Storage & Electrification"
   }
  ]
 }
