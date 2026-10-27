@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-10-27T02:29:59+00:00",
-  "as_of_local": "2026-10-27 02:29:59 UTC",
+  "as_of_utc": "2026-10-27T02:45:11+00:00",
+  "as_of_local": "2026-10-27 02:45:11 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -25,10 +25,10 @@
     {
       "symbol": "SHEL",
       "name": "Shell",
-      "price": 108.18,
-      "previous_close": 105.8,
-      "change_pct": 2.25,
-      "market_cap": 303691136001.66,
+      "price": 106.91,
+      "previous_close": 108.18,
+      "change_pct": -1.17,
+      "market_cap": 303691146404.3366,
       "headlines": []
     },
     {
@@ -385,10 +385,10 @@
     {
       "symbol": "HUBB",
       "name": "Hubbell",
-      "price": 448.1,
-      "previous_close": 445.8,
-      "change_pct": 0.52,
-      "market_cap": 24271283117.399998,
+      "price": 459.4,
+      "previous_close": 448.1,
+      "change_pct": 2.52,
+      "market_cap": 24271282794.935577,
       "headlines": []
     },
     {
@@ -823,18 +823,18 @@
     },
     {
       "label": "WTI",
-      "price": 100.86,
-      "change_pct": -2.33
+      "price": 100.85,
+      "change_pct": -2.34
     },
     {
       "label": "Brent",
-      "price": 109.7,
-      "change_pct": -6.01
+      "price": 109.72,
+      "change_pct": -6.0
     },
     {
       "label": "NatGas",
-      "price": 3.04,
-      "change_pct": 15.0
+      "price": 3.05,
+      "change_pct": 15.38
     }
   ]
 }
