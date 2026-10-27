@@ -1,27 +1,10 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-27T10:32:20+00:00",
+  "as_of": "2026-10-27T10:47:32+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": [
-  {
-   "rank": 1,
-   "ticker": "EQT",
-   "company": "EQT Corporation",
-   "move_pct": 1.19,
-   "price": 55.5,
-   "volume": 27250700,
-   "volume_vs_avg": "~4x",
-   "heat_score": 37,
-   "direction": "up",
-   "why": "EQT to buy Range Resources in all-stock Appalachian blockbuster deal",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZEJ3S3lRWHFIM3g0V2FEVVIwYl9INnZqX3o5cjVZZGlhWEVicFAxbjdhQUhacEVPLTR5S0d0cF90UWthNVJsajVSeVl0dldvcFFHRmdhRTlwUlRLSlhjTWd0MS1xSTR1YmthM3ZBQmc3ZXB6bmhXN0JvQXUzTE5iT0JEVTZnTnN0SjBQUmp2cFhaUHlOX0tDWUthWFkwWEtoUDdGdU42ekxyYWNzNGc3VTFSSQ?oc=5",
-   "published": "2026-10-27T09:39:25+00:00",
-   "sector": "Shale & E&P"
-  }
- ]
+ "hot_tickers": []
 }
