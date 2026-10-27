@@ -18,7 +18,7 @@ Signed file: `NEE.research.27.10.2026`
 | Technical momentum | Low | Below SMA200 (-4.56%) with negative half-year (-13.33%). |
 | Fresh setup quality | Moderate / wait | -14.54% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 40.37%, revenue growth 1.60%. |
-| Value attractiveness | Reasonable | Forward P/E 18.83, EV/Sales 10.17. |
+| Value attractiveness | Reasonable | Forward P/E 18.82, EV/Sales 10.17. |
 | Risk level | Moderate | Beta 0.64, ATR 1.8% of price, short float 2.83%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -59,7 +59,7 @@ NextEra Energy, Inc., through its subsidiaries, generates, stores, transmits, di
 | Revenue (ttm) | $28.82B | Revenue growth 1.60% y/y |
 | Profitability | Gross 60.17%, operating 33.00%, net 40.37% | ROA 2.41%, ROE 14.06% |
 | Balance sheet | Cash $5.58B, debt $113.93B | Current ratio 0.53, debt/equity 153.25 |
-| Valuation | P/E 14.85, forward P/E 18.83, P/S 6.00, P/B 2.81 | EV/Sales 10.17, EV/EBITDA 21.88 |
+| Valuation | P/E 14.85, forward P/E 18.82, P/S 6.00, P/B 2.81 | EV/Sales 10.17, EV/EBITDA 21.88 |
 | Growth expectations | Earnings growth 93.20%, EPS q/q 95.90% | Analyst mean target $94.58 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -111,7 +111,7 @@ NextEra Energy, Inc., through its subsidiaries, generates, stores, transmits, di
 | 52W high | $96.44 | Revenue growth y/y | 1.60% |
 | 52W low | $75.49 | Inst. ownership | 86.52% |
 | P/E (ttm) | 14.85 | Insider ownership | 0.12% |
-| Forward P/E | 18.83 | Short float | 2.83% |
+| Forward P/E | 18.82 | Short float | 2.83% |
 | PEG (trailing) | 1.67 | Avg volume | 11,676,293 |
 | P/S | 6.00 | Employees | 17,400 |
 | P/B | 2.81 | Analyst rec (1=buy..5=sell) | 1.9 |

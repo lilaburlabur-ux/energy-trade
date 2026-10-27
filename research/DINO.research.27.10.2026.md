@@ -18,7 +18,7 @@ Signed file: `DINO.research.27.10.2026`
 | Technical momentum | High | 1Y +116.24%; price +48.48% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -10.93% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 6.13%, revenue growth 53.20%. |
-| Value attractiveness | Reasonable | Forward P/E 7.54, EV/Sales 0.75. |
+| Value attractiveness | Reasonable | Forward P/E 7.63, EV/Sales 0.75. |
 | Risk level | Elevated | Beta 0.71, ATR 4.4% of price, short float 4.42%. |
 
 **Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
@@ -59,7 +59,7 @@ HF Sinclair Corporation operates as an independent energy company in the United 
 | Revenue (ttm) | $31.23B | Revenue growth 53.20% y/y |
 | Profitability | Gross 12.89%, operating 11.69%, net 6.13% | ROA 9.16%, ROE 19.50% |
 | Balance sheet | Cash $2.26B, debt $3.34B | Current ratio 1.97, debt/equity 32.26 |
-| Valuation | P/E 10.88, forward P/E 7.54, P/S 0.65, P/B 1.97 | EV/Sales 0.75, EV/EBITDA 7.30 |
+| Valuation | P/E 10.88, forward P/E 7.63, P/S 0.65, P/B 1.97 | EV/Sales 0.75, EV/EBITDA 7.30 |
 | Growth expectations | Earnings growth 350.20%, EPS q/q 328.80% | Analyst mean target $122.07 (15 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -112,7 +112,7 @@ HF Sinclair Corporation operates as an independent energy company in the United 
 | 52W high | $128.23 | Revenue growth y/y | 53.20% |
 | 52W low | $44.83 | Inst. ownership | 89.15% |
 | P/E (ttm) | 10.88 | Insider ownership | 5.49% |
-| Forward P/E | 7.54 | Short float | 4.42% |
+| Forward P/E | 7.63 | Short float | 4.42% |
 | PEG (trailing) | 1.34 | Avg volume | 2,564,812 |
 | P/S | 0.65 | Employees | 5,165 |
 | P/B | 1.97 | Analyst rec (1=buy..5=sell) | 2.5 |

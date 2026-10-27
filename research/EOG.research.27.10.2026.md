@@ -5,7 +5,7 @@ Signed file: `EOG.research.27.10.2026`
 | Field | Value |
 |---|---|
 | Current price | $161.10 (2026-10-27, ~15-min delayed) |
-| Market cap | $84.50B |
+| Market cap | $85.81B |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
 | Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate. |
@@ -59,7 +59,7 @@ EOG Resources, Inc., together with its subsidiaries, explores for, develops, pro
 | Revenue (ttm) | $26.72B | Revenue growth 58.70% y/y |
 | Profitability | Gross 62.64%, operating 40.72%, net 25.73% | ROA 11.02%, ROE 22.51% |
 | Balance sheet | Cash $4.91B, debt $8.25B | Current ratio 1.85, debt/equity 25.89 |
-| Valuation | P/E 12.54, forward P/E 9.94, P/S 3.16, P/B 2.66 | EV/Sales 3.34, EV/EBITDA 6.15 |
+| Valuation | P/E 12.49, forward P/E 9.94, P/S 3.21, P/B 2.66 | EV/Sales 3.34, EV/EBITDA 6.15 |
 | Growth expectations | Earnings growth 109.40%, EPS q/q 102.50% | Analyst mean target $166.76 (29 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -102,7 +102,7 @@ EOG Resources, Inc., together with its subsidiaries, explores for, develops, pro
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $161.10 | EV/Sales | 3.34 |
-| Market cap | $84.50B | EV/EBITDA | 6.15 |
+| Market cap | $85.81B | EV/EBITDA | 6.15 |
 | Beta | 0.37 | Gross margin | 62.64% |
 | RSI(14) | 69.3 | Operating margin | 40.72% |
 | ATR(14) | 3.90 | Profit margin | 25.73% |
@@ -111,10 +111,10 @@ EOG Resources, Inc., together with its subsidiaries, explores for, develops, pro
 | SMA200 dist | +19.84% | Revenue (ttm) | $26.72B |
 | 52W high | $163.68 | Revenue growth y/y | 58.70% |
 | 52W low | $98.64 | Inst. ownership | 98.52% |
-| P/E (ttm) | 12.54 | Insider ownership | 0.27% |
+| P/E (ttm) | 12.49 | Insider ownership | 0.27% |
 | Forward P/E | 9.94 | Short float | 3.47% |
 | PEG (trailing) | 1.24 | Avg volume | 2,986,692 |
-| P/S | 3.16 | Employees | 3,400 |
+| P/S | 3.21 | Employees | 3,400 |
 | P/B | 2.66 | Analyst rec (1=buy..5=sell) | 2.4 |
 
 ## 8. Analyst Actions

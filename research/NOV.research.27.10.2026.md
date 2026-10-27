@@ -59,7 +59,7 @@ NOV Inc. designs, constructs, manufactures, and sells systems, components, and p
 | Revenue (ttm) | $8.64B | Revenue growth -2.50% y/y |
 | Profitability | Gross 21.65%, operating 7.17%, net 1.10% | ROA 3.45%, ROE 1.54% |
 | Balance sheet | Cash $1.16B, debt $2.33B | Current ratio 2.42, debt/equity 37.15 |
-| Valuation | P/E 73.39, forward P/E 16.03, P/S 0.85, P/B 1.18 | EV/Sales 0.97, EV/EBITDA 8.54 |
+| Valuation | P/E 76.11, forward P/E 16.03, P/S 0.85, P/B 1.18 | EV/Sales 0.97, EV/EBITDA 8.54 |
 | Growth expectations | Earnings growth 7.60%, EPS q/q 3.70% | Analyst mean target $22.08 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -113,7 +113,7 @@ NOV Inc. designs, constructs, manufactures, and sells systems, components, and p
 | SMA200 dist | +5.58% | Revenue (ttm) | $8.64B |
 | 52W high | $21.62 | Revenue growth y/y | -2.50% |
 | 52W low | $13.64 | Inst. ownership | 108.33% |
-| P/E (ttm) | 73.39 | Insider ownership | 0.73% |
+| P/E (ttm) | 76.11 | Insider ownership | 0.73% |
 | Forward P/E | 16.03 | Short float | 13.77% |
 | PEG (trailing) | 0.81 | Avg volume | 3,343,500 |
 | P/S | 0.85 | Employees | 31,605 |
