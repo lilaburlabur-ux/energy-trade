@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-27T20:33:22+00:00",
+  "as_of": "2026-10-27T20:34:35+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,11 +11,11 @@
    "rank": 1,
    "ticker": "ENPH",
    "company": "Enphase Energy, Inc.",
-   "move_pct": -11.66,
-   "price": 26.82,
+   "move_pct": -13.21,
+   "price": 26.35,
    "volume": 12585837,
    "volume_vs_avg": "~3x",
-   "heat_score": 79,
+   "heat_score": 84,
    "direction": "down",
    "why": "Enphase Energy Reports Financial Results for the Third Quarter of 2026",
    "catalyst_type": "earnings",
