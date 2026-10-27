@@ -59,7 +59,7 @@ Halliburton Company provides products and services to the energy industry worldw
 | Revenue (ttm) | $22.48B | Revenue growth 1.80% y/y |
 | Profitability | Gross 14.82%, operating 12.43%, net 8.90% | ROA 7.23%, ROE 18.78% |
 | Balance sheet | Cash $1.84B, debt $8.20B | Current ratio 2.02, debt/equity 73.45 |
-| Valuation | P/E 26.78, forward P/E 12.12, P/S 1.31, P/B 2.65 | EV/Sales 1.59, EV/EBITDA 8.63 |
+| Valuation | P/E 26.78, forward P/E 12.12, P/S 1.31, P/B 2.65 | EV/Sales 1.59, EV/EBITDA 8.66 |
 | Growth expectations | Earnings growth 2400.00%, EPS q/q 2216.70% | Analyst mean target $43.68 (25 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -102,7 +102,7 @@ Halliburton Company provides products and services to the energy industry worldw
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $35.62 | EV/Sales | 1.59 |
-| Market cap | $29.46B | EV/EBITDA | 8.63 |
+| Market cap | $29.46B | EV/EBITDA | 8.66 |
 | Beta | 0.84 | Gross margin | 14.82% |
 | RSI(14) | 65.0 | Operating margin | 12.43% |
 | ATR(14) | 1.02 | Profit margin | 8.90% |

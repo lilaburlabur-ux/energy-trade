@@ -18,7 +18,7 @@ Signed file: `ETR.research.27.10.2026`
 | Technical momentum | Moderate | 1Y +15.07%; price +1.77% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -7.06% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 13.33%, revenue growth 5.90%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 21.24, EV/Sales 6.03. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 21.24, EV/Sales 6.06. |
 | Risk level | Moderate | Beta 0.45, ATR 1.6% of price, short float 4.20%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: fair-to-demanding, risk: moderate.
@@ -59,7 +59,7 @@ Entergy Corporation, together with its subsidiaries, engages in the production a
 | Revenue (ttm) | $13.48B | Revenue growth 5.90% y/y |
 | Profitability | Gross 47.00%, operating 24.46%, net 13.33% | ROA 2.68%, ROE 10.25% |
 | Balance sheet | Cash $3.86B, debt $34.63B | Current ratio 0.91, debt/equity 186.77 |
-| Valuation | P/E 27.73, forward P/E 21.24, P/S 3.84, P/B 2.78 | EV/Sales 6.03, EV/EBITDA 14.67 |
+| Valuation | P/E 27.73, forward P/E 21.24, P/S 3.84, P/B 2.78 | EV/Sales 6.06, EV/EBITDA 14.75 |
 | Growth expectations | Earnings growth -1.90%, EPS q/q 3.10% | Analyst mean target $119.71 (21 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -86,7 +86,7 @@ Entergy Corporation, together with its subsidiaries, engages in the production a
 | Morgan Stanley | 9,808,504 | 2.10% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 21.24, EV/Sales 6.03. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 21.24, EV/Sales 6.06. Multiple compression is the main downside if growth disappoints.
 - **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -102,8 +102,8 @@ Entergy Corporation, together with its subsidiaries, engages in the production a
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $108.43 | EV/Sales | 6.03 |
-| Market cap | $51.81B | EV/EBITDA | 14.67 |
+| Price | $108.43 | EV/Sales | 6.06 |
+| Market cap | $51.81B | EV/EBITDA | 14.75 |
 | Beta | 0.45 | Gross margin | 47.00% |
 | RSI(14) | 65.5 | Operating margin | 24.46% |
 | ATR(14) | 1.74 | Profit margin | 13.33% |

@@ -18,7 +18,7 @@ Signed file: `BKR.research.27.10.2026`
 | Technical momentum | Low | Below SMA200 (-1.50%) with negative half-year (-12.20%). |
 | Fresh setup quality | Moderate / wait | -14.72% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 11.17%, revenue growth -2.40%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 20.06, EV/Sales 1.98. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 20.06, EV/Sales 2.09. |
 | Risk level | Elevated | Beta 1.03, ATR 3.0% of price, short float 2.77%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: fair-to-demanding, risk: elevated.
@@ -59,7 +59,7 @@ Baker Hughes Company provides a portfolio of technologies and services to energy
 | Revenue (ttm) | $27.73B | Revenue growth -2.40% y/y |
 | Profitability | Gross 23.66%, operating 12.83%, net 11.17% | ROA 4.85%, ROE 16.46% |
 | Balance sheet | Cash $17.02B, debt $16.25B | Current ratio 2.10, debt/equity 80.92 |
-| Valuation | P/E 18.91, forward P/E 20.06, P/S 2.11, P/B 2.94 | EV/Sales 1.98, EV/EBITDA 11.37 |
+| Valuation | P/E 18.91, forward P/E 20.06, P/S 2.11, P/B 2.94 | EV/Sales 2.09, EV/EBITDA 11.98 |
 | Growth expectations | Earnings growth -4.20%, EPS q/q -2.90% | Analyst mean target $70.62 (24 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -86,7 +86,7 @@ Baker Hughes Company provides a portfolio of technologies and services to energy
 | Capital Research Global Investors | 22,032,387 | 2.66% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 20.06, EV/Sales 1.98. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 20.06, EV/Sales 2.09. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 1.03, ATR 3.0% of price, short float 2.77%. Size positions accordingly.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -102,8 +102,8 @@ Baker Hughes Company provides a portfolio of technologies and services to energy
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $59.00 | EV/Sales | 1.98 |
-| Market cap | $58.57B | EV/EBITDA | 11.37 |
+| Price | $59.00 | EV/Sales | 2.09 |
+| Market cap | $58.57B | EV/EBITDA | 11.98 |
 | Beta | 1.03 | Gross margin | 23.66% |
 | RSI(14) | 58.6 | Operating margin | 12.83% |
 | ATR(14) | 1.78 | Profit margin | 11.17% |

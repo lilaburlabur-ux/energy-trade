@@ -18,7 +18,7 @@ Signed file: `VLO.research.27.10.2026`
 | Technical momentum | High | 1Y +131.25%; price +37.65% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -15.76% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 8.83%, revenue growth 51.90%. |
-| Value attractiveness | Reasonable | Forward P/E 7.22, EV/Sales 0.88. |
+| Value attractiveness | Reasonable | Forward P/E 7.22, EV/Sales 0.81. |
 | Risk level | Elevated | Beta 0.59, ATR 4.8% of price, short float 3.63%. |
 
 **Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
@@ -59,7 +59,7 @@ Valero Energy Corporation manufactures, markets, and sells petroleum-based and l
 | Revenue (ttm) | $146.58B | Revenue growth 51.90% y/y |
 | Profitability | Gross 19.51%, operating 19.68%, net 8.83% | ROA —, ROE — |
 | Balance sheet | Cash $7.87B, debt $11.35B | Current ratio —, debt/equity 40.15 |
-| Valuation | P/E 8.81, forward P/E 7.22, P/S 0.76, P/B 4.46 | EV/Sales 0.88, EV/EBITDA 6.23 |
+| Valuation | P/E 8.81, forward P/E 7.22, P/S 0.76, P/B 4.46 | EV/Sales 0.81, EV/EBITDA 5.68 |
 | Growth expectations | Earnings growth 576.80%, EPS q/q 523.60% | Analyst mean target $426.42 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -101,8 +101,8 @@ Valero Energy Corporation manufactures, markets, and sells petroleum-based and l
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $387.34 | EV/Sales | 0.88 |
-| Market cap | $111.53B | EV/EBITDA | 6.23 |
+| Price | $387.34 | EV/Sales | 0.81 |
+| Market cap | $111.53B | EV/EBITDA | 5.68 |
 | Beta | 0.59 | Gross margin | 19.51% |
 | RSI(14) | 38.8 | Operating margin | 19.68% |
 | ATR(14) | 18.68 | Profit margin | 8.83% |
