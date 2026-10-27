@@ -1,10 +1,27 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-27T12:13:42+00:00",
+  "as_of": "2026-10-27T12:28:52+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": []
+ "hot_tickers": [
+  {
+   "rank": 1,
+   "ticker": "EQT",
+   "company": "EQT Corporation",
+   "move_pct": -0.62,
+   "price": 54.51,
+   "volume": 27250700,
+   "volume_vs_avg": "~4x",
+   "heat_score": 35,
+   "direction": "down",
+   "why": "EQT Stock To Merge With Range Resources (NYSE:EQT)",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5MRFZYcUltS3VsTkpnNWxQRE9feEg3M1A3Q0dCcm1sZW03RGhlbmpualQ5MXM5U3VhbjEwcGF3UzdQU2MwNXB1akxEYTRQVlZFcEprWl9waGRHRjl0THQtVER3QXFKV1RsVU9FcnBqaHJSNEkzaWR3QlNRS1NCT0k?oc=5",
+   "published": "2026-10-27T12:00:00+00:00",
+   "sector": "Shale & E&P"
+  }
+ ]
 }
