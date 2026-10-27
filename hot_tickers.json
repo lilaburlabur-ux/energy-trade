@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-27T15:21:34+00:00",
+  "as_of": "2026-10-27T15:36:49+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,29 +9,13 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "UUUU",
-   "company": "Energy Fuels Inc",
-   "move_pct": 7.87,
-   "price": 8.15,
-   "volume": 4032109,
-   "volume_vs_avg": "~0.5x",
-   "heat_score": 45,
-   "direction": "up",
-   "why": "Energy Fuels secures A$180M financing for Australian rare earth project (UUUU:NYSE)",
-   "catalyst_type": "financing",
-   "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcHhma0gwWXlxcHBUdmpjVzFPUDdIY0NfUHZ1cE93ZWlwUllERUVnVExxZEZsQVo5cU0yNVdwZ0xlVGNVeVRsa3RHMk44dWxWQlU0MW9GMmxkMGVDWTR0Y19jcnpINVhvVGNhVERlRlhFT0V2X0xodUotTWhNR2ZFS084XzR0b1RaT2hOaUh2VFNiMGh2QjZoOXNBNGJ5XzNhbUZydHozRU1HVjNn?oc=5",
-   "published": "2026-10-27T11:23:50+00:00",
-   "sector": "Nuclear & Uranium"
-  },
-  {
-   "rank": 2,
    "ticker": "VLO",
    "company": "Valero Energy Corporation",
-   "move_pct": -6.99,
-   "price": 396.92,
-   "volume": 1471291,
+   "move_pct": -7.5,
+   "price": 394.77,
+   "volume": 1658448,
    "volume_vs_avg": "~0.5x",
-   "heat_score": 42,
+   "heat_score": 44,
    "direction": "down",
    "why": "Valero Energy (NYSE:VLO) Breakout Setup Backed by 10/10 Technical Strength",
    "catalyst_type": "momentum_narrative",
@@ -40,35 +24,35 @@
    "sector": "Refining & Downstream"
   },
   {
+   "rank": 2,
+   "ticker": "PSX",
+   "company": "Phillips 66",
+   "move_pct": -6.28,
+   "price": 270.7,
+   "volume": 946181,
+   "volume_vs_avg": "~0.3x",
+   "heat_score": 39,
+   "direction": "down",
+   "why": "How to Earn $500 a Month From Phillips 66 Stock Ahead of Q3 Earnings",
+   "catalyst_type": "earnings",
+   "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOd3BNbVpaTXFVM1pPdTJhQTVsS0JtSThGVWU0a3UzWTVmX0g5dE9mVkdTOHc0ZEd0cU1MV3lhYmFiUDZsUnBiaTR5YVUzQm16VXU0M1BCalVJdktlaTZ1ekxSMXBTLWNSU1NVRkxCQTdhNTNzOVZleVBIVlVtM0xiY1VoWnozS09jZmNyQ0V1R0xZZElfbl9BVm9wd0RJR0dlempqbk5Xa2hwRHhUaGdkMFN0eUM0SFZQMWZSMjVFUURrZUxHNUZ1NC1ESHJQUQ?oc=5",
+   "published": "2026-10-27T12:24:13+00:00",
+   "sector": "Refining & Downstream"
+  },
+  {
    "rank": 3,
    "ticker": "MPC",
    "company": "Marathon Petroleum Corporation",
-   "move_pct": -6.07,
-   "price": 442.06,
-   "volume": 793252,
-   "volume_vs_avg": "~0.3x",
+   "move_pct": -6.19,
+   "price": 441.51,
+   "volume": 914462,
+   "volume_vs_avg": "~0.4x",
    "heat_score": 38,
    "direction": "down",
    "why": "Marathon Petroleum (MPC) Earnings Expected to Grow: What to Know Ahead of Next Week's Release",
    "catalyst_type": "earnings",
    "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVjhJeFZnUmFUNHZ2NGlSei1zSXVyeFc2b3NXY3g5NUx0VmJBSTZuTTZxeDkxVXdxX1I5TXhlS2NTTWV1MmRFSFJpeV9pRkdHQ3BubGRLejh1eFh2cXY3MTlORld6T21EakNpeGRhU1FUYlE5eEdiaHZoOTQtenVDSlZRdGUtWk5xMHFleHg1MHY4V2V1UTY5T2J3YVhTRTFFaFYwTEFsc2c?oc=5",
    "published": "2026-10-27T13:00:08+00:00",
-   "sector": "Refining & Downstream"
-  },
-  {
-   "rank": 4,
-   "ticker": "PSX",
-   "company": "Phillips 66",
-   "move_pct": -6.04,
-   "price": 271.4,
-   "volume": 789847,
-   "volume_vs_avg": "~0.3x",
-   "heat_score": 38,
-   "direction": "down",
-   "why": "How to Earn $500 a Month From Phillips 66 Stock Ahead of Q3 Earnings",
-   "catalyst_type": "earnings",
-   "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOd3BNbVpaTXFVM1pPdTJhQTVsS0JtSThGVWU0a3UzWTVmX0g5dE9mVkdTOHc0ZEd0cU1MV3lhYmFiUDZsUnBiaTR5YVUzQm16VXU0M1BCalVJdktlaTZ1ekxSMXBTLWNSU1NVRkxCQTdhNTNzOVZleVBIVlVtM0xiY1VoWnozS09jZmNyQ0V1R0xZZElfbl9BVm9wd0RJR0dlempqbk5Xa2hwRHhUaGdkMFN0eUM0SFZQMWZSMjVFUURrZUxHNUZ1NC1ESHJQUQ?oc=5",
-   "published": "2026-10-27T12:24:13+00:00",
    "sector": "Refining & Downstream"
   }
  ]
