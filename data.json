@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-10-27T03:20:21+00:00",
-  "as_of_local": "2026-10-27 03:20:21 UTC",
+  "as_of_utc": "2026-10-27T03:35:27+00:00",
+  "as_of_local": "2026-10-27 03:35:27 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "TLN"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -448,6 +446,15 @@
       "headlines": []
     },
     {
+      "symbol": "TLN",
+      "name": "Talen Energy",
+      "price": 337.78,
+      "previous_close": 327.91,
+      "change_pct": 3.01,
+      "market_cap": 15976993942.260742,
+      "headlines": []
+    },
+    {
       "symbol": "AR",
       "name": "Antero Resources",
       "price": 41.54,
@@ -816,13 +823,13 @@
     },
     {
       "label": "WTI",
-      "price": 100.69,
-      "change_pct": -2.5
+      "price": 100.88,
+      "change_pct": -2.31
     },
     {
       "label": "Brent",
-      "price": 109.55,
-      "change_pct": -6.14
+      "price": 109.78,
+      "change_pct": -5.95
     },
     {
       "label": "NatGas",
