@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-28T11:04:29+00:00",
+  "as_of": "2026-10-28T11:19:39+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,8 +11,8 @@
    "rank": 1,
    "ticker": "ENPH",
    "company": "Enphase Energy, Inc.",
-   "move_pct": -17.34,
-   "price": 24.6,
+   "move_pct": -17.81,
+   "price": 24.46,
    "volume": 16279600,
    "volume_vs_avg": "~3x",
    "heat_score": 94,
@@ -27,16 +27,16 @@
    "rank": 2,
    "ticker": "VRT",
    "company": "Vertiv Holdings, LLC",
-   "move_pct": 16.24,
-   "price": 242.42,
+   "move_pct": 16.72,
+   "price": 243.44,
    "volume": 8407800,
    "volume_vs_avg": "~2x",
    "heat_score": 85,
    "direction": "up",
-   "why": "Vertiv Stock Jumps 14% as Earnings Show Another Way to Play the AI Boom",
-   "catalyst_type": "earnings",
-   "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9TZDdoZWh4clhZLWxyOUJSbFpVNUp0d0lueHBGSjl5bENsNDdJdHFKS3Ewa0xLZU1vdzdxY05GYmtwSHFGb3JVNDZ5YU03YXBGMGhNZFJCR1Z2Y09aRi0zb0hvOVFGUUM3azBodmlHalNpZVVacWozQQ?oc=5",
-   "published": "2026-10-28T10:37:00+00:00",
+   "why": "Vertiv Soars 16% and Enphase Sinks 17%: 6 Stocks Moving Before the Bell",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUV9fbUtGa1ctVnpZTUc0MVc3V0RHR2Qxczh0UVNRYnlkQ1lvWHJDei1GVVVGeU4tZkVyMkhxaWpYRW9raGxGN3BZWE9vZUdDTXpZYl9aZTRycGx3ellQTGRCRnNteGFabG1FQW13VmVUQ0NJV3U3czRuZWZuN2ZyRXFIWGhUeWVSbERtUXVnX0ZNWnFTaFlfcEtoTXQxVncxbkdtTEFaOHNPYzYxSEFEQXln?oc=5",
+   "published": "2026-10-28T11:05:03+00:00",
    "sector": "Grid, Storage & Electrification"
   }
  ]
