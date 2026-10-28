@@ -112,7 +112,7 @@ EQT Corporation engages in the exploration, production, gathering, and transmiss
 | 52W low | $48.56 | Inst. ownership | 95.79% |
 | P/E (ttm) | 13.04 | Insider ownership | 0.90% |
 | Forward P/E | 16.25 | Short float | 4.12% |
-| PEG (trailing) | 1.60 | Avg volume | 7,303,321 |
+| PEG (trailing) | 1.64 | Avg volume | 7,303,321 |
 | P/S | 3.78 | Employees | 1,523 |
 | P/B | 1.48 | Analyst rec (1=buy..5=sell) | 1.5 |
 

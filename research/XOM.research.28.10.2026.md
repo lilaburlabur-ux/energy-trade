@@ -113,7 +113,7 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 | 52W low | $110.48 | Inst. ownership | 67.03% |
 | P/E (ttm) | 23.43 | Insider ownership | 0.08% |
 | Forward P/E | 14.91 | Short float | 1.15% |
-| PEG (trailing) | 1.50 | Avg volume | 13,379,240 |
+| PEG (trailing) | 1.46 | Avg volume | 13,379,240 |
 | P/S | 2.07 | Employees | 57,900 |
 | P/B | 2.89 | Analyst rec (1=buy..5=sell) | 2.4 |
 
