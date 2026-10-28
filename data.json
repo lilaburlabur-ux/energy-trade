@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-10-28T09:59:03+00:00",
-  "as_of_local": "2026-10-28 09:59:03 UTC",
+  "as_of_utc": "2026-10-28T10:04:13+00:00",
+  "as_of_local": "2026-10-28 10:04:13 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "BEP"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -484,6 +482,15 @@
       "headlines": []
     },
     {
+      "symbol": "BEP",
+      "name": "Brookfield Renewable",
+      "price": 29.27,
+      "previous_close": 28.56,
+      "change_pct": 2.49,
+      "market_cap": 8784267430.4002,
+      "headlines": []
+    },
+    {
       "symbol": "NOV",
       "name": "NOV Inc",
       "price": 20.55,
@@ -816,13 +823,13 @@
     },
     {
       "label": "WTI",
-      "price": 101.28,
-      "change_pct": 1.38
+      "price": 101.56,
+      "change_pct": 1.66
     },
     {
       "label": "Brent",
-      "price": 110.64,
-      "change_pct": -2.85
+      "price": 110.97,
+      "change_pct": -2.56
     },
     {
       "label": "NatGas",
