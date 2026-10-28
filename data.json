@@ -1,17 +1,15 @@
 {
-  "as_of_utc": "2026-10-28T20:19:05+00:00",
-  "as_of_local": "2026-10-28 20:19:05 UTC",
+  "as_of_utc": "2026-10-28T20:21:23+00:00",
+  "as_of_local": "2026-10-28 20:21:23 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "MPLX"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
       "name": "ExxonMobil",
       "price": 182.02,
       "previous_close": 179.91,
-      "change_pct": 1.2,
+      "change_pct": 1.17,
       "market_cap": 748450232527.1832,
       "headlines": []
     },
@@ -459,10 +457,10 @@
     {
       "symbol": "AR",
       "name": "Antero Resources",
-      "price": 42.17,
+      "price": 42.11,
       "previous_close": 42.1,
-      "change_pct": 0.17,
-      "market_cap": 12964702067.062378,
+      "change_pct": 0.02,
+      "market_cap": 12946256477.645874,
       "headlines": []
     },
     {
@@ -825,18 +823,18 @@
     },
     {
       "label": "WTI",
-      "price": 101.44,
-      "change_pct": 1.54
+      "price": 101.69,
+      "change_pct": 1.79
     },
     {
       "label": "Brent",
-      "price": 110.15,
-      "change_pct": -3.28
+      "price": 110.36,
+      "change_pct": -3.09
     },
     {
       "label": "NatGas",
       "price": 3.03,
-      "change_pct": 12.2
+      "change_pct": 12.27
     }
   ]
 }
