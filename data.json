@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-10-28T20:16:32+00:00",
-  "as_of_local": "2026-10-28 20:16:32 UTC",
+  "as_of_utc": "2026-10-28T20:19:05+00:00",
+  "as_of_local": "2026-10-28 20:19:05 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
     "MPLX"
@@ -11,7 +11,7 @@
       "name": "ExxonMobil",
       "price": 182.02,
       "previous_close": 179.91,
-      "change_pct": 1.17,
+      "change_pct": 1.2,
       "market_cap": 748450232527.1832,
       "headlines": []
     },
@@ -237,7 +237,7 @@
       "price": 228.08,
       "previous_close": 218.5,
       "change_pct": 4.38,
-      "market_cap": 67379531727.26442,
+      "market_cap": 67406128994.50481,
       "headlines": []
     },
     {
@@ -265,6 +265,15 @@
       "previous_close": 299.74,
       "change_pct": -0.66,
       "market_cap": 61499673958.60797,
+      "headlines": []
+    },
+    {
+      "symbol": "MPLX",
+      "name": "MPLX",
+      "price": 58.93,
+      "previous_close": 58.11,
+      "change_pct": 1.41,
+      "market_cap": 59746667040.834984,
       "headlines": []
     },
     {
@@ -450,10 +459,10 @@
     {
       "symbol": "AR",
       "name": "Antero Resources",
-      "price": 42.11,
+      "price": 42.17,
       "previous_close": 42.1,
-      "change_pct": 0.02,
-      "market_cap": 12946256477.645874,
+      "change_pct": 0.17,
+      "market_cap": 12964702067.062378,
       "headlines": []
     },
     {
@@ -816,13 +825,13 @@
     },
     {
       "label": "WTI",
-      "price": 101.5,
-      "change_pct": 1.6
+      "price": 101.44,
+      "change_pct": 1.54
     },
     {
       "label": "Brent",
-      "price": 110.12,
-      "change_pct": -3.3
+      "price": 110.15,
+      "change_pct": -3.28
     },
     {
       "label": "NatGas",

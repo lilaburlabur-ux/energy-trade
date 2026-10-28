@@ -4,8 +4,8 @@ Signed file: `OXY.research.28.10.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-10-28, ~15-min delayed) |
-| Market cap | $62.71B |
+| Current price | $62.86 (2026-10-28, ~15-min delayed) |
+| Market cap | $62.84B |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
 | Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `OXY.research.28.10.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +51.56%; price +13.27% vs SMA200. |
+| Fresh setup quality | Watch | -4.23% from 52w high and near SMA20 — check for a tight base. |
 | Fundamental quality | Strong | Profit margin 30.32%, revenue growth 53.40%. |
-| Value attractiveness | Reasonable | Forward P/E 12.51, EV/Sales 3.43. |
-| Risk level | Moderate | Beta 0.24, ATR nan% of price, short float 3.04%. |
+| Value attractiveness | Reasonable | Forward P/E 12.53, EV/Sales 3.43. |
+| Risk level | Moderate | Beta 0.24, ATR 2.5% of price, short float 0.02%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate.
 
@@ -35,22 +35,22 @@ Occidental Petroleum Corporation, together with its subsidiaries, engages in the
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $65.63 (+nan%); 52w low $38.38 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 67.9 (neutral) |
-| Volatility | ATR(14) 1.61 (~nan% of price); beta 0.24 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $62.86; 52w high $65.63 (-4.23%); 52w low $38.38 (+63.78%) |
+| Trend | +13.27% vs SMA200, +4.78% vs SMA50, +2.79% vs SMA20 |
+| Momentum | RSI(14) 59.9 (neutral) |
+| Volatility | ATR(14) 1.56 (~2.5% of price); beta 0.24 |
+| Setup perspective | -4.23% from 52w high and near SMA20 — check for a tight base. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | +0.3% |
+| Month | +14.4% |
+| Quarter | +12.9% |
+| Half Y | +4.4% |
+| 1Y | +51.6% |
+| YTD | +50.4% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -59,16 +59,16 @@ Occidental Petroleum Corporation, together with its subsidiaries, engages in the
 | Revenue (ttm) | $23.93B | Revenue growth 53.40% y/y |
 | Profitability | Gross 73.32%, operating 45.44%, net 30.32% | ROA 4.68%, ROE 10.63% |
 | Balance sheet | Cash $4.15B, debt $14.63B | Current ratio 1.41, debt/equity 34.51 |
-| Valuation | P/E 17.82, forward P/E 12.51, P/S 2.62, P/B 1.87 | EV/Sales 3.43, EV/EBITDA 5.99 |
+| Valuation | P/E 17.86, forward P/E 12.53, P/S 2.63, P/B 1.88 | EV/Sales 3.43, EV/EBITDA 5.99 |
 | Growth expectations | Earnings growth 964.90%, EPS q/q 550.00% | Analyst mean target $70.74 (27 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 58.17% |
+| Institutional ownership | 58.18% |
 | Insider ownership | 26.81% |
-| Short float | 3.04% |
-| Short ratio (days to cover) | 2.5 |
+| Short float | 0.02% |
+| Short ratio (days to cover) | 0.0 |
 
 **Top institutional holders:**
 
@@ -86,6 +86,7 @@ Occidental Petroleum Corporation, together with its subsidiaries, engages in the
 | AQR Capital Management, LLC | 11,473,188 | 1.15% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
+- **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -100,21 +101,21 @@ Occidental Petroleum Corporation, together with its subsidiaries, engages in the
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 3.43 |
-| Market cap | $62.71B | EV/EBITDA | 5.99 |
+| Price | $62.86 | EV/Sales | 3.43 |
+| Market cap | $62.84B | EV/EBITDA | 5.99 |
 | Beta | 0.24 | Gross margin | 73.32% |
-| RSI(14) | 67.9 | Operating margin | 45.44% |
-| ATR(14) | 1.61 | Profit margin | 30.32% |
-| SMA20 dist | +nan% | ROA | 4.68% |
-| SMA50 dist | +nan% | ROE | 10.63% |
-| SMA200 dist | +nan% | Revenue (ttm) | $23.93B |
+| RSI(14) | 59.9 | Operating margin | 45.44% |
+| ATR(14) | 1.56 | Profit margin | 30.32% |
+| SMA20 dist | +2.79% | ROA | 4.68% |
+| SMA50 dist | +4.78% | ROE | 10.63% |
+| SMA200 dist | +13.27% | Revenue (ttm) | $23.93B |
 | 52W high | $65.63 | Revenue growth y/y | 53.40% |
-| 52W low | $38.38 | Inst. ownership | 58.17% |
-| P/E (ttm) | 17.82 | Insider ownership | 26.81% |
-| Forward P/E | 12.51 | Short float | 3.04% |
-| PEG (trailing) | 0.96 | Avg volume | 8,493,310 |
-| P/S | 2.62 | Employees | 10,412 |
-| P/B | 1.87 | Analyst rec (1=buy..5=sell) | 2.2 |
+| 52W low | $38.38 | Inst. ownership | 58.18% |
+| P/E (ttm) | 17.86 | Insider ownership | 26.81% |
+| Forward P/E | 12.53 | Short float | 0.02% |
+| PEG (trailing) | 0.94 | Avg volume | 8,484,070 |
+| P/S | 2.63 | Employees | 10,412 |
+| P/B | 1.88 | Analyst rec (1=buy..5=sell) | 2.2 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
