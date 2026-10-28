@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-10-28T23:39:58+00:00",
-  "as_of_local": "2026-10-28 23:39:58 UTC",
+  "as_of_utc": "2026-10-28T23:44:09+00:00",
+  "as_of_local": "2026-10-28 23:44:09 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "COP"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -49,6 +47,15 @@
       "previous_close": 92.35,
       "change_pct": 0.57,
       "market_cap": 204784500968.8166,
+      "headlines": []
+    },
+    {
+      "symbol": "COP",
+      "name": "ConocoPhillips",
+      "price": 149.06,
+      "previous_close": 147.96,
+      "change_pct": 0.74,
+      "market_cap": 181598901709.0694,
       "headlines": []
     },
     {
@@ -640,8 +647,8 @@
           "name": "ConocoPhillips",
           "short": "ConocoPhillips",
           "weight_pct": 6.73,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": 0.74,
+          "price": 149.06,
           "currency": "USD"
         },
         {
@@ -739,8 +746,8 @@
         "name": "ConocoPhillips",
         "short": "ConocoPhillips",
         "weight_pct": 6.73,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": 0.74,
+        "price": 149.06,
         "currency": "USD"
       },
       {
@@ -821,13 +828,13 @@
     },
     {
       "label": "Brent",
-      "price": 110.59,
-      "change_pct": -2.89
+      "price": 110.62,
+      "change_pct": -2.86
     },
     {
       "label": "NatGas",
       "price": 3.01,
-      "change_pct": 11.57
+      "change_pct": 11.53
     }
   ]
 }
