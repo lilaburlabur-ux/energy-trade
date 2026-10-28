@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-28T23:33:24+00:00",
+  "as_of": "2026-10-28T23:43:59+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,13 +9,29 @@
  "hot_tickers": [
   {
    "rank": 1,
+   "ticker": "ENPH",
+   "company": "Enphase Energy, Inc.",
+   "move_pct": -16.31,
+   "price": 24.91,
+   "volume": 26570174,
+   "volume_vs_avg": "~5x",
+   "heat_score": 88,
+   "direction": "down",
+   "why": "Moving down 16.3% on ~5x average volume with no fresh headline this cycle \u2014 attention without a story.",
+   "catalyst_type": "no_news_mover",
+   "source_url": "",
+   "published": "",
+   "sector": "Renewables & Solar"
+  },
+  {
+   "rank": 2,
    "ticker": "VRT",
    "company": "Vertiv Holdings, LLC",
-   "move_pct": 13.13,
-   "price": 235.95,
+   "move_pct": 12.87,
+   "price": 235.4,
    "volume": 19520796,
    "volume_vs_avg": "~4x",
-   "heat_score": 89,
+   "heat_score": 88,
    "direction": "up",
    "why": "Vertiv Holdings, LLC (VRT) Stock Forecasts",
    "catalyst_type": "momentum_narrative",
@@ -24,23 +40,23 @@
    "sector": "Grid, Storage & Electrification"
   },
   {
-   "rank": 2,
-   "ticker": "ENPH",
-   "company": "Enphase Energy, Inc.",
-   "move_pct": -16.23,
-   "price": 24.93,
-   "volume": 26570174,
-   "volume_vs_avg": "~5x",
-   "heat_score": 88,
+   "rank": 3,
+   "ticker": "NOV",
+   "company": "NOV Inc.",
+   "move_pct": -6.37,
+   "price": 19.24,
+   "volume": 10017810,
+   "volume_vs_avg": "~3x",
+   "heat_score": 52,
    "direction": "down",
-   "why": "Moving down 16.2% on ~5x average volume with no fresh headline this cycle \u2014 attention without a story.",
-   "catalyst_type": "no_news_mover",
-   "source_url": "",
-   "published": "",
-   "sector": "Renewables & Solar"
+   "why": "NOV Inc (NOV) Shares Fall 6.2% -- What GF Score of 74 Tells Inve",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRHAyc2I5dG5yTnFheGQ0UllVTnlIZUJyN1R5elJYcWgxdE5md2dyejgtQ1FIa1J6WWJFQmdteUxSMUdPTWRaa3VwRm9BbkE5NjNOY2FxeFhmQTByemV1M2UwUUlsX0pCb0JIRUZEeDRxRE93SDJyeTlxNGxzUmpPRmNOZlpfdkRsSUhMNDZyR1NVRG5OUnFSVENoSVB5UW9Oc1dR?oc=5",
+   "published": "2026-10-28T22:53:31+00:00",
+   "sector": "Oilfield Services"
   },
   {
-   "rank": 3,
+   "rank": 4,
    "ticker": "BKR",
    "company": "Baker Hughes Company",
    "move_pct": -6.99,
@@ -56,7 +72,7 @@
    "sector": "Oilfield Services"
   },
   {
-   "rank": 4,
+   "rank": 5,
    "ticker": "NXT",
    "company": "Nextpower Inc.",
    "move_pct": 5.72,
@@ -70,22 +86,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcU9QX0FoeFhGSWNvbVV5S0dwR0Ywd0V1Y2t6U0hkZWRXMnVWZEx1ZmJwV2hxS2s0X1l2enYwUXNZQlNJc0dMZThqdTBBZklDZFRuLV8xMEhJOERWWFI3WU9uTzFWQjJ6Tk9xQ2x2NXV4Q095c0xTZVhhMmxIR2VfcEczU0Nxa0I0d25fRVNWN0JKV1hoNW1MczhCS0M2S1pKV1JkLTE1TEhqcjloWGFXZWg4d1IwM0FsVVh1TQ?oc=5",
    "published": "2026-10-28T21:49:24+00:00",
    "sector": "Renewables & Solar"
-  },
-  {
-   "rank": 5,
-   "ticker": "EOSE",
-   "company": "Eos Energy Enterprises, Inc.",
-   "move_pct": 6.04,
-   "price": 1.93,
-   "volume": 27024579,
-   "volume_vs_avg": "~0.9x",
-   "heat_score": 41,
-   "direction": "up",
-   "why": "EOSE Stock Jumps As Revenue Soars And U.S. Capacity Ramps",
-   "catalyst_type": "earnings",
-   "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMkhJQzdEenlpWm9mZWF5SmZqRThyNk5CQkkxZ1VRMkJDYWJ3blA3Mi1mT2YxRllJRDNsYkMyaXdadVdpbWlKZW92ZDBtSXZyNWRMRm03a1Jla2hFWkVoQnpEVlRwV2xTRDFKeXZSWnQ0M1pKc1FaTTR2azBBLW1OZ25STFVNZw?oc=5",
-   "published": "2026-10-28T20:55:10+00:00",
-   "sector": "Grid, Storage & Electrification"
   }
  ]
 }
