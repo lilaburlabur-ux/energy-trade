@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-28T10:29:00+00:00",
+  "as_of": "2026-10-28T10:44:12+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,8 +11,8 @@
    "rank": 1,
    "ticker": "ENPH",
    "company": "Enphase Energy, Inc.",
-   "move_pct": -16.67,
-   "price": 24.8,
+   "move_pct": -16.83,
+   "price": 24.75,
    "volume": 16279600,
    "volume_vs_avg": "~3x",
    "heat_score": 94,
@@ -22,6 +22,22 @@
    "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNWZaNm45dDExaEp2d1RYRWM4NXNPMGxvM1hpQzFyLS15RmphclRQd2l3QU1CeGxkUGhjZjR6VkNMTTB3RFZXVzVYaDhTNnFsQzg0eFlqTlUzTk83eFlTNE1jLXNCNnlKdWlCcExaT2VxWWZLbzJ0RTFtQnZVdWZuREtIQk43MFpPeHRRbENmRlZZX2JZZ2RpNnIzcmtvUWJvdFUzNGFER1hIdw?oc=5",
    "published": "2026-10-28T10:10:50+00:00",
    "sector": "Renewables & Solar"
+  },
+  {
+   "rank": 2,
+   "ticker": "VRT",
+   "company": "Vertiv Holdings, LLC",
+   "move_pct": 16.15,
+   "price": 242.25,
+   "volume": 8407800,
+   "volume_vs_avg": "~2x",
+   "heat_score": 85,
+   "direction": "up",
+   "why": "Vertiv shares surge on big Q3 beat, upgraded full-year guidance By Investing.com",
+   "catalyst_type": "analyst_action",
+   "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaVc3M29NMURLQy1CQjBzZ29YNTZRYnJXQ0oyVVBGOWdTRkIyS3BxcXZGZGJXaW4zaFlFb1FKc2RPdC05ZnpZaEF3VFBtSDN1ZTBxV3daeUpuOE5uaDBqTXhlUnZCZ0RzOFZzQVBYbW9fVlY3dFJNdmtvbFAyaElPVmV1bTM1ZlFpWk5sb181QnYzMkNuUC1sOElvOGpWeDNrUnFXNkFOYUF5VF9O?oc=5",
+   "published": "2026-10-28T10:17:27+00:00",
+   "sector": "Grid, Storage & Electrification"
   }
  ]
 }
