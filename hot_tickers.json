@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-28T15:10:16+00:00",
+  "as_of": "2026-10-28T15:25:30+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,11 +11,11 @@
    "rank": 1,
    "ticker": "ENPH",
    "company": "Enphase Energy, Inc.",
-   "move_pct": -15.66,
-   "price": 25.1,
-   "volume": 14376945,
+   "move_pct": -16.52,
+   "price": 24.84,
+   "volume": 14776281,
    "volume_vs_avg": "~3x",
-   "heat_score": 91,
+   "heat_score": 92,
    "direction": "down",
    "why": "Why Enphase Energy Stock Crashed on Wednesday",
    "catalyst_type": "momentum_narrative",
@@ -27,16 +27,16 @@
    "rank": 2,
    "ticker": "VRT",
    "company": "Vertiv Holdings, LLC",
-   "move_pct": 12.97,
-   "price": 235.62,
-   "volume": 8866071,
+   "move_pct": 14.51,
+   "price": 238.83,
+   "volume": 9503680,
    "volume_vs_avg": "~2x",
-   "heat_score": 79,
+   "heat_score": 85,
    "direction": "up",
-   "why": "GE Vernova Falls 6% Despite Beat, Raise and $9B Trench Deal; Vertiv Holdings Soars 13%, Eaton and Quanta Services Tick Up",
-   "catalyst_type": "financing",
-   "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPeWViTVRscFNlM2NlaWE2Y1VxMnhoN2lJY2wzLURERmFmVHZuVU9jamtEdE1VSllEaFE2ZUtLRXRIQWZBc2picF9MdUd4VmliYkNSSzlodmd6YXVpUG1ZbVBXa2VZRFVWTVFBYnlYSS1sLVJIUDF5bF9TYl9vX2ZfdGE4a2NGbVAzT2pKNUlIcWZQVU9WXzZwUGRiMlE5N1RoemYwTVVBV3J5QWVyTzRsdms5ZWd5MmFGWkFzeFMxUzF4elVJeDkzMzZaVDhmVDEyblhQOXNHS2E1SENRYWdIYWdsS01haGxXT3JFMGpyalU?oc=5",
-   "published": "2026-10-28T14:12:50+00:00",
+   "why": "Vertiv Earnings Set a New Bar for AI Stocks",
+   "catalyst_type": "earnings",
+   "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9TZDdoZWh4clhZLWxyOUJSbFpVNUp0d0lueHBGSjl5bENsNDdJdHFKS3Ewa0xLZU1vdzdxY05GYmtwSHFGb3JVNDZ5YU03YXBGMGhNZFJCR1Z2Y09aRi0zb0hvOVFGUUM3azBodmlHalNpZVVacWozQQ?oc=5",
+   "published": "2026-10-28T14:27:00+00:00",
    "sector": "Grid, Storage & Electrification"
   },
   {
@@ -45,7 +45,7 @@
    "company": "SolarEdge Technologies, Inc.",
    "move_pct": -10.6,
    "price": 28.75,
-   "volume": 2183212,
+   "volume": 2255021,
    "volume_vs_avg": "~0.9x",
    "heat_score": 67,
    "direction": "down",
@@ -54,22 +54,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOb3RPWGdXQnh1Vzd3R200U2pWSGNxbGhJZldLdWpoOVltTUhTR1c1Q3NJYjNoT19jSGN1T1pROUZqUmFEUWozWC1mbk1RWWp2UUtIUVVSY0J0ODB2WGhvT2JMY09NTFZlLUkxSzhBdzlId1pxQ0V5ZHpWekxaRXVjLWJDaEwwVkI3OXVzMXZtMGREYXdwZzIwMG5wQmI1UExLb1RDTVJOcTZ3dEkyZlpRMTBTSHA?oc=5",
    "published": "2026-10-28T14:37:30+00:00",
    "sector": "Renewables & Solar"
-  },
-  {
-   "rank": 4,
-   "ticker": "BKR",
-   "company": "Baker Hughes Company",
-   "move_pct": -6.02,
-   "price": 55.45,
-   "volume": 5530664,
-   "volume_vs_avg": "~0.8x",
-   "heat_score": 40,
-   "direction": "down",
-   "why": "TechnipFMC (FTI) vs. HAL and BKR: Can Deepwater Demand Turn Backlog Growth Into Sustainable Earnings?",
-   "catalyst_type": "earnings",
-   "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQ053OVVPeUVMMGEyOTVLRTlBTEpWdkVxYlp6ZTBOaTN5YU1jcGl4YmI0UGI1b2tZN1JRRUJGd2hmNk1wWlI1UlZUcWItOFJCb1phTmx0YkNnaUJrZzZkRGtFcXdiZkRjbnJoLXVpWDFNYlJOeGFpSWxuaDFJV2t5b3FZQTVkdUpzQ2ZTY2hpTFNCemo3?oc=5",
-   "published": "2026-10-28T13:13:54+00:00",
-   "sector": "Oilfield Services"
   }
  ]
 }
