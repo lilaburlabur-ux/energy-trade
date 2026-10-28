@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-28T21:52:13+00:00",
+  "as_of": "2026-10-28T22:07:37+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,35 +9,35 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "VRT",
-   "company": "Vertiv Holdings, LLC",
-   "move_pct": 13.49,
-   "price": 236.69,
-   "volume": 19474652,
-   "volume_vs_avg": "~4x",
-   "heat_score": 90,
-   "direction": "up",
-   "why": "Vertiv Stock Rises as Organic Orders More Than Double",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOazFsWXZQejhMLWNHeGtiZW5WRk9rR2tfRC1tbHdQcjlIX1l6a3RUT3RQa0w2ZDgwczZ4OS1lUUhuN1hSZUpWR3ZVakJoRWtxeUg0TDNBeVhjSmZzWEVpazZsTzRQYmtPV3NoWG5nNzJtV1dVLW5Ka1RqTkxBWFE3dE5mRXRDcGFiQUVPSHpaTlJ2VzVhZFV3WVAxcC1aVjcwVUljRnRpTFJWcHFhejB2U2tRdw?oc=5",
-   "published": "2026-10-28T20:11:23+00:00",
-   "sector": "Grid, Storage & Electrification"
-  },
-  {
-   "rank": 2,
    "ticker": "ENPH",
    "company": "Enphase Energy, Inc.",
-   "move_pct": -16.54,
-   "price": 24.84,
+   "move_pct": -15.86,
+   "price": 25.04,
    "volume": 26570174,
    "volume_vs_avg": "~5x",
    "heat_score": 88,
    "direction": "down",
-   "why": "Moving down 16.5% on ~5x average volume with no fresh headline this cycle \u2014 attention without a story.",
+   "why": "Moving down 15.9% on ~5x average volume with no fresh headline this cycle \u2014 attention without a story.",
    "catalyst_type": "no_news_mover",
    "source_url": "",
    "published": "",
    "sector": "Renewables & Solar"
+  },
+  {
+   "rank": 2,
+   "ticker": "VRT",
+   "company": "Vertiv Holdings, LLC",
+   "move_pct": 12.85,
+   "price": 235.35,
+   "volume": 19474652,
+   "volume_vs_avg": "~4x",
+   "heat_score": 88,
+   "direction": "up",
+   "why": "Nvidia Partner Vertiv Soars After Blowout Earnings, Strong Guidance",
+   "catalyst_type": "earnings",
+   "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNDZPY1d5Sks1YmYybHAyUTBMdFRrMkFTaThYc1huMm5uOVExWXhwbWgzY1J3b2YxQ1p0TUdvRUlVTTZZNXBvRm02UUdqSGltYlFtMUNGUkZiNzMwMV80ZjZlazVMODJZcUFqVEpYaTVfY19XbHpqcGU0SThVek9DY2NnbGZLOEoxcjR5Vg?oc=5",
+   "published": "2026-10-28T21:13:00+00:00",
+   "sector": "Grid, Storage & Electrification"
   },
   {
    "rank": 3,
@@ -59,7 +59,7 @@
    "rank": 4,
    "ticker": "EOSE",
    "company": "Eos Energy Enterprises, Inc.",
-   "move_pct": 6.03,
+   "move_pct": 6.04,
    "price": 1.93,
    "volume": 27024579,
    "volume_vs_avg": "~0.9x",
