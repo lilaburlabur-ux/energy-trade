@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-10-28T20:06:25+00:00",
-  "as_of_local": "2026-10-28 20:06:25 UTC",
+  "as_of_utc": "2026-10-28T20:11:16+00:00",
+  "as_of_local": "2026-10-28 20:11:16 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -73,16 +73,7 @@
       "price": 393.05,
       "previous_close": 384.2,
       "change_pct": 2.3,
-      "market_cap": 152623253656.00586,
-      "headlines": []
-    },
-    {
-      "symbol": "MPC",
-      "name": "Marathon Petroleum",
-      "price": 440.71,
-      "previous_close": 435.98,
-      "change_pct": 1.08,
-      "market_cap": 128659391916.27426,
+      "market_cap": 152662559155.27344,
       "headlines": []
     },
     {
@@ -92,6 +83,15 @@
       "previous_close": 48.93,
       "change_pct": 1.77,
       "market_cap": 128251572433.01117,
+      "headlines": []
+    },
+    {
+      "symbol": "MPC",
+      "name": "Marathon Petroleum",
+      "price": 440.61,
+      "previous_close": 435.98,
+      "change_pct": 1.06,
+      "market_cap": 123734194711.78601,
       "headlines": []
     },
     {
@@ -190,7 +190,7 @@
       "price": 160.95,
       "previous_close": 161.1,
       "change_pct": -0.1,
-      "market_cap": 85723902661.93787,
+      "market_cap": 84420352073.08643,
       "headlines": []
     },
     {
@@ -223,10 +223,10 @@
     {
       "symbol": "ET",
       "name": "Energy Transfer",
-      "price": 20.7,
+      "price": 20.71,
       "previous_close": 20.41,
-      "change_pct": 1.45,
-      "market_cap": 71293517976.00209,
+      "change_pct": 1.47,
+      "market_cap": 71310731584.27505,
       "headlines": []
     },
     {
@@ -352,7 +352,7 @@
       "price": 72.47,
       "previous_close": 72.82,
       "change_pct": -0.47,
-      "market_cap": 36115842849.571884,
+      "market_cap": 36122990913.72139,
       "headlines": []
     },
     {
@@ -487,7 +487,7 @@
       "price": 28.94,
       "previous_close": 29.27,
       "change_pct": -1.13,
-      "market_cap": 8776836668.622694,
+      "market_cap": 8685260382.426876,
       "headlines": []
     },
     {
@@ -541,7 +541,7 @@
       "price": 24.99,
       "previous_close": 29.76,
       "change_pct": -16.03,
-      "market_cap": 3293637487.6337814,
+      "market_cap": 3302294723.2744904,
       "headlines": []
     },
     {
@@ -665,8 +665,8 @@
           "name": "Marathon Petroleum Corp",
           "short": "Marathon",
           "weight_pct": 4.7,
-          "change_pct": 1.08,
-          "price": 440.71,
+          "change_pct": 1.06,
+          "price": 440.61,
           "currency": "USD"
         },
         {
@@ -764,8 +764,8 @@
         "name": "Marathon Petroleum Corp",
         "short": "Marathon",
         "weight_pct": 4.7,
-        "change_pct": 1.08,
-        "price": 440.71,
+        "change_pct": 1.06,
+        "price": 440.61,
         "currency": "USD"
       },
       {
@@ -823,18 +823,18 @@
     },
     {
       "label": "WTI",
-      "price": 102.51,
-      "change_pct": 2.61
+      "price": 101.53,
+      "change_pct": 1.63
     },
     {
       "label": "Brent",
-      "price": 111.29,
-      "change_pct": -2.27
+      "price": 110.25,
+      "change_pct": -3.19
     },
     {
       "label": "NatGas",
-      "price": 3.03,
-      "change_pct": 12.46
+      "price": 3.02,
+      "change_pct": 11.98
     }
   ]
 }
