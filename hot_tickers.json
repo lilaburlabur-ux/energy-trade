@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-28T11:19:39+00:00",
+  "as_of": "2026-10-28T11:32:21+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,8 +11,8 @@
    "rank": 1,
    "ticker": "ENPH",
    "company": "Enphase Energy, Inc.",
-   "move_pct": -17.81,
-   "price": 24.46,
+   "move_pct": -18.01,
+   "price": 24.4,
    "volume": 16279600,
    "volume_vs_avg": "~3x",
    "heat_score": 94,
@@ -27,8 +27,8 @@
    "rank": 2,
    "ticker": "VRT",
    "company": "Vertiv Holdings, LLC",
-   "move_pct": 16.72,
-   "price": 243.44,
+   "move_pct": 16.19,
+   "price": 242.32,
    "volume": 8407800,
    "volume_vs_avg": "~2x",
    "heat_score": 85,
@@ -36,8 +36,24 @@
    "why": "Vertiv Soars 16% and Enphase Sinks 17%: 6 Stocks Moving Before the Bell",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUV9fbUtGa1ctVnpZTUc0MVc3V0RHR2Qxczh0UVNRYnlkQ1lvWHJDei1GVVVGeU4tZkVyMkhxaWpYRW9raGxGN3BZWE9vZUdDTXpZYl9aZTRycGx3ellQTGRCRnNteGFabG1FQW13VmVUQ0NJV3U3czRuZWZuN2ZyRXFIWGhUeWVSbERtUXVnX0ZNWnFTaFlfcEtoTXQxVncxbkdtTEFaOHNPYzYxSEFEQXln?oc=5",
-   "published": "2026-10-28T11:05:03+00:00",
+   "published": "2026-10-28T11:22:53+00:00",
    "sector": "Grid, Storage & Electrification"
+  },
+  {
+   "rank": 3,
+   "ticker": "SEDG",
+   "company": "SolarEdge Technologies, Inc.",
+   "move_pct": -7.65,
+   "price": 29.7,
+   "volume": 2131000,
+   "volume_vs_avg": "~0.8x",
+   "heat_score": 46,
+   "direction": "down",
+   "why": "Why is SolarEdge Technologies stock sliding today?",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObG8yQTNUVzFvazhaNHFqUUVFN0lWaDY4OVd6ejNSSlF0YXFNdzJVTlpyNFZTOUVCajBvUFBlMl85X3NCLUNER1llelhVN0JQZ1RqZWVXVF9nQU5HSldZWTFfZVJJR29hMHEzcGllYWgwNlo2SUtPVGp1Mk4wTTZWdFd5bmVNRmJ6dk5ybFpnU1ZLUU5Gc3l5c2FJVExOa01ZV2tIUHBmOU1Kb2diQkRiSQ?oc=5",
+   "published": "2026-10-28T11:22:24+00:00",
+   "sector": "Renewables & Solar"
   }
  ]
 }
