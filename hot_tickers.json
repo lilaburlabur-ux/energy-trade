@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-28T09:53:26+00:00",
+  "as_of": "2026-10-28T10:08:37+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,16 +11,16 @@
    "rank": 1,
    "ticker": "ENPH",
    "company": "Enphase Energy, Inc.",
-   "move_pct": -16.73,
-   "price": 24.78,
+   "move_pct": -18.35,
+   "price": 24.3,
    "volume": 16279600,
    "volume_vs_avg": "~3x",
    "heat_score": 94,
    "direction": "down",
-   "why": "Why is Enphase Energy stock plunging today?",
+   "why": "Enphase Energy Extends Weakness on Slumping Residential Demand",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbHl6bmUxZXE1emcxZ2pzb3Iwa2h4ckxuRzluOURvMkRmTVRlcnBNeDc2emtlOGdEOUlwc09mOWFiS2h2Zk42dnpTUzNJSXZYengzTmZyaGtBem1XNEREVjI3R0phQ19VT0U3WEVjTG9vZ21RM2VEa1pCMDRTLXA2VUx1emJySDZONjJtR0tEOHlFcEtpTjl3Mk5wb2ZkSG9uRGxLOTlqSQ?oc=5",
-   "published": "2026-10-28T08:11:21+00:00",
+   "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdEpkWEEwSEZXVVY3M0dKNzVLUkl6OHVodnlsNVN6ZFFOTTJIaEVUTHdpMUNBMVBzaEhUZW1hWVlTSmhTX0NZLVR6d1FuWGxhVlhRWk5yOWNTWW5VSmFJbURrS01xbkRaX3FBM2d0dkNyVy1GczJmZFlfaHNsajQwcXVlZw?oc=5",
+   "published": "2026-10-28T09:25:00+00:00",
    "sector": "Renewables & Solar"
   }
  ]
