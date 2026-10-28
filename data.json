@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-10-28T04:09:49+00:00",
-  "as_of_local": "2026-10-28 04:09:49 UTC",
+  "as_of_utc": "2026-10-28T04:24:56+00:00",
+  "as_of_local": "2026-10-28 04:24:56 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "DUK"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -75,7 +73,16 @@
       "price": 384.2,
       "previous_close": 371.92,
       "change_pct": 3.3,
-      "market_cap": 149223284741.21094,
+      "market_cap": 149184864739.99023,
+      "headlines": []
+    },
+    {
+      "symbol": "MPC",
+      "name": "Marathon Petroleum",
+      "price": 435.98,
+      "previous_close": 470.64,
+      "change_pct": -7.36,
+      "market_cap": 127278537334.61166,
       "headlines": []
     },
     {
@@ -85,15 +92,6 @@
       "previous_close": 50.53,
       "change_pct": -3.17,
       "market_cap": 126023691315.24814,
-      "headlines": []
-    },
-    {
-      "symbol": "MPC",
-      "name": "Marathon Petroleum",
-      "price": 435.98,
-      "previous_close": 470.64,
-      "change_pct": -7.36,
-      "market_cap": 122433983257.97299,
       "headlines": []
     },
     {
@@ -130,6 +128,15 @@
       "previous_close": 92.57,
       "change_pct": 0.09,
       "market_cap": 106581130555.21458,
+      "headlines": []
+    },
+    {
+      "symbol": "DUK",
+      "name": "Duke Energy",
+      "price": 124.8,
+      "previous_close": 124.44,
+      "change_pct": 0.29,
+      "market_cap": 97306836065.86226,
       "headlines": []
     },
     {
@@ -174,7 +181,7 @@
       "price": 161.1,
       "previous_close": 163.68,
       "change_pct": -1.58,
-      "market_cap": 84501653455.07202,
+      "market_cap": 85806459433.90656,
       "headlines": []
     },
     {
@@ -336,7 +343,7 @@
       "price": 72.82,
       "previous_close": 72.11,
       "change_pct": 0.98,
-      "market_cap": 36294946432.49428,
+      "market_cap": 36287764341.56438,
       "headlines": []
     },
     {
@@ -480,7 +487,7 @@
       "price": 29.27,
       "previous_close": 28.56,
       "change_pct": 2.49,
-      "market_cap": 8784267430.4002,
+      "market_cap": 8876887634.37872,
       "headlines": []
     },
     {
@@ -534,7 +541,7 @@
       "price": 29.76,
       "previous_close": 30.36,
       "change_pct": -1.98,
-      "market_cap": 3932624754.7255096,
+      "market_cap": 3922315057.3662186,
       "headlines": []
     },
     {
@@ -816,18 +823,18 @@
     },
     {
       "label": "WTI",
-      "price": 99.9,
-      "change_pct": -1.83
+      "price": 101.36,
+      "change_pct": 1.46
     },
     {
       "label": "Brent",
-      "price": 113.88,
-      "change_pct": -1.67
+      "price": 110.83,
+      "change_pct": -2.68
     },
     {
       "label": "NatGas",
-      "price": 2.7,
-      "change_pct": 3.65
+      "price": 3.06,
+      "change_pct": 13.46
     }
   ]
 }
