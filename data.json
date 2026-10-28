@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-10-28T20:01:09+00:00",
-  "as_of_local": "2026-10-28 20:01:09 UTC",
+  "as_of_utc": "2026-10-28T20:06:25+00:00",
+  "as_of_local": "2026-10-28 20:06:25 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -25,18 +25,18 @@
     {
       "symbol": "SHEL",
       "name": "Shell",
-      "price": 105.13,
+      "price": 105.11,
       "previous_close": 104.78,
-      "change_pct": 0.33,
+      "change_pct": 0.31,
       "market_cap": 298496951614.4087,
       "headlines": []
     },
     {
       "symbol": "GEV",
       "name": "GE Vernova",
-      "price": 879.04,
+      "price": 878.57,
       "previous_close": 895.08,
-      "change_pct": -1.79,
+      "change_pct": -1.84,
       "market_cap": 233993362694.03638,
       "headlines": []
     },
@@ -88,9 +88,9 @@
     {
       "symbol": "BP",
       "name": "BP",
-      "price": 49.81,
+      "price": 49.79,
       "previous_close": 48.93,
-      "change_pct": 1.79,
+      "change_pct": 1.77,
       "market_cap": 128251572433.01117,
       "headlines": []
     },
@@ -169,7 +169,7 @@
     {
       "symbol": "PWR",
       "name": "Quanta Services",
-      "price": 607.55,
+      "price": 607.53,
       "previous_close": 578.83,
       "change_pct": 4.96,
       "market_cap": 91338125953.88159,
@@ -232,9 +232,9 @@
     {
       "symbol": "BE",
       "name": "Bloom Energy",
-      "price": 227.97,
+      "price": 227.99,
       "previous_close": 218.5,
-      "change_pct": 4.33,
+      "change_pct": 4.34,
       "market_cap": 67379531727.26442,
       "headlines": []
     },
@@ -297,7 +297,7 @@
       "name": "Dominion Energy",
       "price": 64.32,
       "previous_close": 65.36,
-      "change_pct": -1.59,
+      "change_pct": -1.58,
       "market_cap": 56575503985.324814,
       "headlines": []
     },
@@ -313,9 +313,9 @@
     {
       "symbol": "BKR",
       "name": "Baker Hughes",
-      "price": 54.65,
+      "price": 54.66,
       "previous_close": 59.0,
-      "change_pct": -7.37,
+      "change_pct": -7.36,
       "market_cap": 54259564569.38995,
       "headlines": []
     },
@@ -358,9 +358,9 @@
     {
       "symbol": "EQT",
       "name": "EQT Corp",
-      "price": 56.23,
+      "price": 56.22,
       "previous_close": 56.27,
-      "change_pct": -0.07,
+      "change_pct": -0.08,
       "market_cap": 35171515634.78732,
       "headlines": []
     },
@@ -439,18 +439,18 @@
     {
       "symbol": "APA",
       "name": "APA Corp",
-      "price": 51.12,
+      "price": 51.11,
       "previous_close": 50.79,
-      "change_pct": 0.64,
+      "change_pct": 0.63,
       "market_cap": 17906465889.93759,
       "headlines": []
     },
     {
       "symbol": "TLN",
       "name": "Talen Energy",
-      "price": 347.65,
+      "price": 347.75,
       "previous_close": 345.73,
-      "change_pct": 0.56,
+      "change_pct": 0.58,
       "market_cap": 16448575000.0,
       "headlines": []
     },
@@ -466,9 +466,9 @@
     {
       "symbol": "NXT",
       "name": "Nextracker",
-      "price": 83.17,
+      "price": 82.08,
       "previous_close": 79.44,
-      "change_pct": 4.7,
+      "change_pct": 3.32,
       "market_cap": 12453959279.425049,
       "headlines": []
     },
@@ -574,9 +574,9 @@
     {
       "symbol": "SEDG",
       "name": "SolarEdge",
-      "price": 29.51,
+      "price": 29.49,
       "previous_close": 32.16,
-      "change_pct": -8.24,
+      "change_pct": -8.3,
       "market_cap": 1814394294.4378738,
       "headlines": []
     },
@@ -592,9 +592,9 @@
     {
       "symbol": "FLNC",
       "name": "Fluence Energy",
-      "price": 6.2,
+      "price": 6.19,
       "previous_close": 6.01,
-      "change_pct": 3.16,
+      "change_pct": 3.0,
       "market_cap": 886182617.9118862,
       "headlines": []
     },
@@ -818,23 +818,23 @@
   "tape": [
     {
       "label": "SPX",
-      "price": 7744.38,
+      "price": 7743.98,
       "change_pct": 0.28
     },
     {
       "label": "WTI",
-      "price": 102.53,
-      "change_pct": 2.63
+      "price": 102.51,
+      "change_pct": 2.61
     },
     {
       "label": "Brent",
-      "price": 111.38,
-      "change_pct": -2.2
+      "price": 111.29,
+      "change_pct": -2.27
     },
     {
       "label": "NatGas",
       "price": 3.03,
-      "change_pct": 12.5
+      "change_pct": 12.46
     }
   ]
 }
