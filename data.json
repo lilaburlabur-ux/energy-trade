@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-10-28T05:26:48+00:00",
-  "as_of_local": "2026-10-28 05:26:48 UTC",
+  "as_of_utc": "2026-10-28T05:41:43+00:00",
+  "as_of_local": "2026-10-28 05:41:43 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "OVV"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -73,16 +75,7 @@
       "price": 384.2,
       "previous_close": 371.92,
       "change_pct": 3.3,
-      "market_cap": 149184864739.99023,
-      "headlines": []
-    },
-    {
-      "symbol": "MPC",
-      "name": "Marathon Petroleum",
-      "price": 435.98,
-      "previous_close": 470.64,
-      "change_pct": -7.36,
-      "market_cap": 127278537334.61166,
+      "market_cap": 149223284741.21094,
       "headlines": []
     },
     {
@@ -92,6 +85,15 @@
       "previous_close": 50.53,
       "change_pct": -3.17,
       "market_cap": 126023691315.24814,
+      "headlines": []
+    },
+    {
+      "symbol": "MPC",
+      "name": "Marathon Petroleum",
+      "price": 435.98,
+      "previous_close": 470.64,
+      "change_pct": -7.36,
+      "market_cap": 122433983257.97299,
       "headlines": []
     },
     {
@@ -181,7 +183,7 @@
       "price": 161.1,
       "previous_close": 163.68,
       "change_pct": -1.58,
-      "market_cap": 85806459433.90656,
+      "market_cap": 84501653455.07202,
       "headlines": []
     },
     {
@@ -343,7 +345,7 @@
       "price": 72.82,
       "previous_close": 72.11,
       "change_pct": 0.98,
-      "market_cap": 36287764341.56438,
+      "market_cap": 36294946432.49428,
       "headlines": []
     },
     {
@@ -419,15 +421,6 @@
       "headlines": []
     },
     {
-      "symbol": "OVV",
-      "name": "Ovintiv",
-      "price": 71.13,
-      "previous_close": 72.55,
-      "change_pct": -1.96,
-      "market_cap": 19674557240.29541,
-      "headlines": []
-    },
-    {
       "symbol": "FSLR",
       "name": "First Solar",
       "price": 175.85,
@@ -487,7 +480,7 @@
       "price": 29.27,
       "previous_close": 28.56,
       "change_pct": 2.49,
-      "market_cap": 8876887634.37872,
+      "market_cap": 8784267430.4002,
       "headlines": []
     },
     {
@@ -541,7 +534,7 @@
       "price": 29.76,
       "previous_close": 30.36,
       "change_pct": -1.98,
-      "market_cap": 3922315057.3662186,
+      "market_cap": 3932624754.7255096,
       "headlines": []
     },
     {
@@ -823,18 +816,18 @@
     },
     {
       "label": "WTI",
-      "price": 101.39,
-      "change_pct": 1.49
+      "price": 101.46,
+      "change_pct": 1.56
     },
     {
       "label": "Brent",
-      "price": 110.92,
-      "change_pct": -2.6
+      "price": 111.01,
+      "change_pct": -2.52
     },
     {
       "label": "NatGas",
       "price": 3.06,
-      "change_pct": 13.31
+      "change_pct": 13.27
     }
   ]
 }
