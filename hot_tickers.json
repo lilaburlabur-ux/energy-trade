@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-28T16:31:27+00:00",
+  "as_of": "2026-10-28T16:36:34+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,9 +11,9 @@
    "rank": 1,
    "ticker": "ENPH",
    "company": "Enphase Energy, Inc.",
-   "move_pct": -15.42,
-   "price": 25.17,
-   "volume": 16975108,
+   "move_pct": -15.52,
+   "price": 25.14,
+   "volume": 17114888,
    "volume_vs_avg": "~3x",
    "heat_score": 94,
    "direction": "down",
@@ -27,9 +27,9 @@
    "rank": 2,
    "ticker": "VRT",
    "company": "Vertiv Holdings, LLC",
-   "move_pct": 13.91,
-   "price": 237.57,
-   "volume": 11236285,
+   "move_pct": 13.92,
+   "price": 237.6,
+   "volume": 11325988,
    "volume_vs_avg": "~2x",
    "heat_score": 84,
    "direction": "up",
@@ -43,9 +43,9 @@
    "rank": 3,
    "ticker": "SEDG",
    "company": "SolarEdge Technologies, Inc.",
-   "move_pct": -8.89,
-   "price": 29.3,
-   "volume": 2623993,
+   "move_pct": -8.77,
+   "price": 29.34,
+   "volume": 2663334,
    "volume_vs_avg": "~1.1x",
    "heat_score": 61,
    "direction": "down",
@@ -54,22 +54,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOb3RPWGdXQnh1Vzd3R200U2pWSGNxbGhJZldLdWpoOVltTUhTR1c1Q3NJYjNoT19jSGN1T1pROUZqUmFEUWozWC1mbk1RWWp2UUtIUVVSY0J0ODB2WGhvT2JMY09NTFZlLUkxSzhBdzlId1pxQ0V5ZHpWekxaRXVjLWJDaEwwVkI3OXVzMXZtMGREYXdwZzIwMG5wQmI1UExLb1RDTVJOcTZ3dEkyZlpRMTBTSHA?oc=5",
    "published": "2026-10-28T14:37:30+00:00",
    "sector": "Renewables & Solar"
-  },
-  {
-   "rank": 4,
-   "ticker": "BKR",
-   "company": "Baker Hughes Company",
-   "move_pct": -5.17,
-   "price": 55.95,
-   "volume": 7531613,
-   "volume_vs_avg": "~1.0x",
-   "heat_score": 38,
-   "direction": "down",
-   "why": "Baker Hughes stumbles as Q3 earnings fall short of high expectations (BKR:NASDAQ)",
-   "catalyst_type": "earnings",
-   "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSXFyX3A2Sk4zSlVaLWxYRHd5TllYNDdLREZ1NG5vZ05LLVc0Z1A0NDhtOHNrclgyeGZyLUhRX0x4eDVMMERFLVk0OHRQdHk5ZXJvRHNHb0hKSXNTOVo0alpnNnNQRTZvaDltYVFtZTZtbVkwTUtVZk8zQlotLVpZVHlLYzBaX1BxNHF6eVcyVGZTQmR4Vl9QanZ0U1VQNFR5RUY0c2pWLTlFdw?oc=5",
-   "published": "2026-10-28T15:25:40+00:00",
-   "sector": "Oilfield Services"
   }
  ]
 }
