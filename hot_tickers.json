@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-28T22:42:53+00:00",
+  "as_of": "2026-10-28T22:57:58+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,35 +9,35 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "ENPH",
-   "company": "Enphase Energy, Inc.",
-   "move_pct": -15.99,
-   "price": 25.0,
-   "volume": 26570174,
-   "volume_vs_avg": "~5x",
-   "heat_score": 99,
-   "direction": "down",
-   "why": "Enphase Energy (ENPH) Stock May Be 20% Undervalued Following AI Data Center Progress",
+   "ticker": "VRT",
+   "company": "Vertiv Holdings, LLC",
+   "move_pct": 13.54,
+   "price": 236.8,
+   "volume": 19520796,
+   "volume_vs_avg": "~4x",
+   "heat_score": 90,
+   "direction": "up",
+   "why": "Micron, SK Hynix, Google, Microsoft, Vertiv, Wendy\u2019s, Enphase, and More Stocks That Explain Today\u2019s Market",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNemktbVFrN3NQcFNGeFlHS0hhWU0yX3Byajg3clhSSnhtLURGVVZsQWVNdm9Sa1h5Zi1YSDZvYV9LdWpoMWY1R0ZqTHVNUlR1dy1PTGRGeGhSYWx0MDRpa2NKSDlLdVlpN2pmMnlyQWFVMVFxdHA0SUI3ZHkybmVMS0hNVXJjc3JHLWJfMkEzOUllVWM0Q0NqME9n?oc=5",
-   "published": "2026-10-28T21:06:32+00:00",
-   "sector": "Renewables & Solar"
+   "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9leUwzMl91Nk42aDZmOXNSYmxZWF9OM2hXR1hINEI3UzJPVDJSMnNNRnd5N2wzMVJSM1JzYjkzMHczS1JNR24xMGpfSXRncElmblNlU0RiSkNDU0xGd0t0VmJ4Q2E?oc=5",
+   "published": "2026-10-28T21:28:00+00:00",
+   "sector": "Grid, Storage & Electrification"
   },
   {
    "rank": 2,
-   "ticker": "VRT",
-   "company": "Vertiv Holdings, LLC",
-   "move_pct": 12.47,
-   "price": 234.57,
-   "volume": 19516519,
-   "volume_vs_avg": "~4x",
-   "heat_score": 87,
-   "direction": "up",
-   "why": "Vertiv Holdings, LLC (VRT) Stock Forecasts",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTmVKTkZ5Tlpsc1JjcXM1QVNSVHE1LTRVbjdxdEh4ZnVuUkljSE91a0lJX0J3S3Bidjl4SGkwOThCaTU3VDRDaGFWM1Vwc3MxZUhwTURPVGlnaGJTTnQ3WEd2dWprdTh4OFJxWTdRWmo3S3lQYzRmVGIwRDF3NVFzUFRUZlZoaFA3WVFJNw?oc=5",
-   "published": "2026-10-28T22:27:38+00:00",
-   "sector": "Grid, Storage & Electrification"
+   "ticker": "ENPH",
+   "company": "Enphase Energy, Inc.",
+   "move_pct": -16.33,
+   "price": 24.9,
+   "volume": 26570174,
+   "volume_vs_avg": "~5x",
+   "heat_score": 88,
+   "direction": "down",
+   "why": "Moving down 16.3% on ~5x average volume with no fresh headline this cycle \u2014 attention without a story.",
+   "catalyst_type": "no_news_mover",
+   "source_url": "",
+   "published": "",
+   "sector": "Renewables & Solar"
   },
   {
    "rank": 3,
@@ -70,22 +70,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcU9QX0FoeFhGSWNvbVV5S0dwR0Ywd0V1Y2t6U0hkZWRXMnVWZEx1ZmJwV2hxS2s0X1l2enYwUXNZQlNJc0dMZThqdTBBZklDZFRuLV8xMEhJOERWWFI3WU9uTzFWQjJ6Tk9xQ2x2NXV4Q095c0xTZVhhMmxIR2VfcEczU0Nxa0I0d25fRVNWN0JKV1hoNW1MczhCS0M2S1pKV1JkLTE1TEhqcjloWGFXZWg4d1IwM0FsVVh1TQ?oc=5",
    "published": "2026-10-28T21:49:24+00:00",
    "sector": "Renewables & Solar"
-  },
-  {
-   "rank": 5,
-   "ticker": "EOSE",
-   "company": "Eos Energy Enterprises, Inc.",
-   "move_pct": 6.59,
-   "price": 1.94,
-   "volume": 27024579,
-   "volume_vs_avg": "~0.9x",
-   "heat_score": 43,
-   "direction": "up",
-   "why": "EOSE Stock Jumps As Revenue Soars And U.S. Capacity Ramps",
-   "catalyst_type": "earnings",
-   "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMkhJQzdEenlpWm9mZWF5SmZqRThyNk5CQkkxZ1VRMkJDYWJ3blA3Mi1mT2YxRllJRDNsYkMyaXdadVdpbWlKZW92ZDBtSXZyNWRMRm03a1Jla2hFWkVoQnpEVlRwV2xTRDFKeXZSWnQ0M1pKc1FaTTR2azBBLW1OZ25STFVNZw?oc=5",
-   "published": "2026-10-28T20:55:10+00:00",
-   "sector": "Grid, Storage & Electrification"
   }
  ]
 }
