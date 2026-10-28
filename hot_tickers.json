@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-28T08:12:10+00:00",
+  "as_of": "2026-10-28T08:27:27+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,16 +11,16 @@
    "rank": 1,
    "ticker": "ENPH",
    "company": "Enphase Energy, Inc.",
-   "move_pct": -15.56,
-   "price": 25.13,
+   "move_pct": -16.83,
+   "price": 24.75,
    "volume": 16279600,
    "volume_vs_avg": "~3x",
    "heat_score": 94,
    "direction": "down",
-   "why": "JPMorgan cuts Enphase Energy stock price target on weak results",
-   "catalyst_type": "analyst_action",
-   "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbDNibERTMG0waGlqaEJWdUF0LVpQa1pBVHczMF90RllqNHoyNzFrRWVHVlByTFAwcmJlNWdEb3BGWGc4NE5vVGY5bVdMZ1RwUHRXVEc3YVdyTDMydC1UQ2xBYUJFSjM3aWVpaGZHUERCdmRobEg5Y2lBWDNkRGVnOUVUdjF6ZGU3Mkg3c05VTExwVHF6QzNlRGRtZGp1T1NGSDRrN3c4NGZCRWg0MjdYVHJiTkRlYTliQTZBbkJDLWg?oc=5",
-   "published": "2026-10-28T07:42:04+00:00",
+   "why": "Why is Enphase Energy stock plunging today?",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbHl6bmUxZXE1emcxZ2pzb3Iwa2h4ckxuRzluOURvMkRmTVRlcnBNeDc2emtlOGdEOUlwc09mOWFiS2h2Zk42dnpTUzNJSXZYengzTmZyaGtBem1XNEREVjI3R0phQ19VT0U3WEVjTG9vZ21RM2VEa1pCMDRTLXA2VUx1emJySDZONjJtR0tEOHlFcEtpTjl3Mk5wb2ZkSG9uRGxLOTlqSQ?oc=5",
+   "published": "2026-10-28T08:11:21+00:00",
    "sector": "Renewables & Solar"
   }
  ]
