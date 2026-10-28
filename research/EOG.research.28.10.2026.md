@@ -5,7 +5,7 @@ Signed file: `EOG.research.28.10.2026`
 | Field | Value |
 |---|---|
 | Current price | $160.92 (2026-10-28, ~15-min delayed) |
-| Market cap | $84.41B |
+| Market cap | $85.71B |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
 | Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate. |
@@ -59,7 +59,7 @@ EOG Resources, Inc., together with its subsidiaries, explores for, develops, pro
 | Revenue (ttm) | $26.72B | Revenue growth 58.70% y/y |
 | Profitability | Gross 62.64%, operating 40.72%, net 25.73% | ROA 11.02%, ROE 22.51% |
 | Balance sheet | Cash $4.91B, debt $8.25B | Current ratio 1.85, debt/equity 25.89 |
-| Valuation | P/E 12.52, forward P/E 9.93, P/S 3.16, P/B 2.65 | EV/Sales 3.29, EV/EBITDA 6.06 |
+| Valuation | P/E 12.52, forward P/E 9.93, P/S 3.21, P/B 2.65 | EV/Sales 3.29, EV/EBITDA 6.06 |
 | Growth expectations | Earnings growth 109.40%, EPS q/q 102.50% | Analyst mean target $166.76 (29 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -102,7 +102,7 @@ EOG Resources, Inc., together with its subsidiaries, explores for, develops, pro
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $160.92 | EV/Sales | 3.29 |
-| Market cap | $84.41B | EV/EBITDA | 6.06 |
+| Market cap | $85.71B | EV/EBITDA | 6.06 |
 | Beta | 0.37 | Gross margin | 62.64% |
 | RSI(14) | 68.8 | Operating margin | 40.72% |
 | ATR(14) | 3.74 | Profit margin | 25.73% |
@@ -114,7 +114,7 @@ EOG Resources, Inc., together with its subsidiaries, explores for, develops, pro
 | P/E (ttm) | 12.52 | Insider ownership | 0.27% |
 | Forward P/E | 9.93 | Short float | 3.67% |
 | PEG (trailing) | 1.24 | Avg volume | 2,970,862 |
-| P/S | 3.16 | Employees | 3,400 |
+| P/S | 3.21 | Employees | 3,400 |
 | P/B | 2.65 | Analyst rec (1=buy..5=sell) | 2.4 |
 
 ## 8. Analyst Actions

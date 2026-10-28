@@ -4,8 +4,8 @@ Signed file: `FTI.research.28.10.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $71.47 (2026-10-28, ~15-min delayed) |
-| Market cap | $28.03B |
+| Current price | $71.40 (2026-10-28, ~15-min delayed) |
+| Market cap | $28.00B |
 | Sector / Industry | Energy / Oil & Gas Equipment & Services |
 | Main theme | Oil & Gas Equipment & Services — see catalysts below |
 | Current stance | High technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
@@ -15,10 +15,10 @@ Signed file: `FTI.research.28.10.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +76.96%; price +3.57% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -10.75% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +76.79%; price +3.47% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -10.84% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 11.28%, revenue growth 9.00%. |
-| Value attractiveness | Reasonable | Forward P/E 19.70, EV/Sales 2.71. |
+| Value attractiveness | Reasonable | Forward P/E 19.68, EV/Sales 2.71. |
 | Risk level | Elevated | Beta 0.83, ATR 3.1% of price, short float 3.85%. |
 
 **Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
@@ -35,22 +35,22 @@ TechnipFMC plc engages in the oil and natural gas projects, technologies, system
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $71.47; 52w high $80.08 (-10.75%); 52w low $40.91 (+74.72%) |
-| Trend | +3.57% vs SMA200, -1.69% vs SMA50, +2.68% vs SMA20 |
-| Momentum | RSI(14) 53.5 (neutral) |
+| Price vs 52-week range | Close $71.40; 52w high $80.08 (-10.84%); 52w low $40.91 (+74.55%) |
+| Trend | +3.47% vs SMA200, -1.79% vs SMA50, +2.59% vs SMA20 |
+| Momentum | RSI(14) 53.3 (neutral) |
 | Volatility | ATR(14) 2.22 (~3.1% of price); beta 0.83 |
-| Setup perspective | -10.75% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -10.84% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +2.1% |
-| Month | +3.8% |
-| Quarter | +3.8% |
-| Half Y | -7.0% |
-| 1Y | +77.0% |
-| YTD | +51.4% |
+| Week | +2.0% |
+| Month | +3.7% |
+| Quarter | +3.7% |
+| Half Y | -7.1% |
+| 1Y | +76.8% |
+| YTD | +51.2% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -59,7 +59,7 @@ TechnipFMC plc engages in the oil and natural gas projects, technologies, system
 | Revenue (ttm) | $10.42B | Revenue growth 9.00% y/y |
 | Profitability | Gross 22.97%, operating 17.69%, net 11.28% | ROA 9.53%, ROE 35.81% |
 | Balance sheet | Cash $991.80M, debt $1.24B | Current ratio 1.08, debt/equity 37.90 |
-| Valuation | P/E 24.90, forward P/E 19.70, P/S 2.69, P/B 8.58 | EV/Sales 2.71, EV/EBITDA 14.24 |
+| Valuation | P/E 24.88, forward P/E 19.68, P/S 2.69, P/B 8.57 | EV/Sales 2.71, EV/EBITDA 14.24 |
 | Growth expectations | Earnings growth 40.60%, EPS q/q 34.60% | Analyst mean target $76.41 (22 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -101,21 +101,21 @@ TechnipFMC plc engages in the oil and natural gas projects, technologies, system
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $71.47 | EV/Sales | 2.71 |
-| Market cap | $28.03B | EV/EBITDA | 14.24 |
+| Price | $71.40 | EV/Sales | 2.71 |
+| Market cap | $28.00B | EV/EBITDA | 14.24 |
 | Beta | 0.83 | Gross margin | 22.97% |
-| RSI(14) | 53.5 | Operating margin | 17.69% |
+| RSI(14) | 53.3 | Operating margin | 17.69% |
 | ATR(14) | 2.22 | Profit margin | 11.28% |
-| SMA20 dist | +2.68% | ROA | 9.53% |
-| SMA50 dist | -1.69% | ROE | 35.81% |
-| SMA200 dist | +3.57% | Revenue (ttm) | $10.42B |
+| SMA20 dist | +2.59% | ROA | 9.53% |
+| SMA50 dist | -1.79% | ROE | 35.81% |
+| SMA200 dist | +3.47% | Revenue (ttm) | $10.42B |
 | 52W high | $80.08 | Revenue growth y/y | 9.00% |
 | 52W low | $40.91 | Inst. ownership | 101.20% |
-| P/E (ttm) | 24.90 | Insider ownership | 1.36% |
-| Forward P/E | 19.70 | Short float | 3.85% |
+| P/E (ttm) | 24.88 | Insider ownership | 1.36% |
+| Forward P/E | 19.68 | Short float | 3.85% |
 | PEG (trailing) | — | Avg volume | 2,911,714 |
 | P/S | 2.69 | Employees | 22,000 |
-| P/B | 8.58 | Analyst rec (1=buy..5=sell) | 1.9 |
+| P/B | 8.57 | Analyst rec (1=buy..5=sell) | 1.9 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
