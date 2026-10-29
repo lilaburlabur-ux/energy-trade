@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-10-29T00:49:51+00:00",
-  "as_of_local": "2026-10-29 00:49:51 UTC",
+  "as_of_utc": "2026-10-29T00:54:49+00:00",
+  "as_of_local": "2026-10-29 00:54:49 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "OKE"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -274,6 +272,15 @@
       "previous_close": 58.65,
       "change_pct": -0.92,
       "market_cap": 59746666731.43,
+      "headlines": []
+    },
+    {
+      "symbol": "OKE",
+      "name": "ONEOK",
+      "price": 96.01,
+      "previous_close": 96.36,
+      "change_pct": -0.36,
+      "market_cap": 59598886051.62,
       "headlines": []
     },
     {
@@ -816,13 +823,13 @@
     },
     {
       "label": "WTI",
-      "price": 102.07,
-      "change_pct": 2.17
+      "price": 102.03,
+      "change_pct": 2.13
     },
     {
       "label": "Brent",
-      "price": 110.76,
-      "change_pct": -2.74
+      "price": 110.78,
+      "change_pct": -2.72
     },
     {
       "label": "NatGas",
