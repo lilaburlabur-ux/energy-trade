@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-29T23:01:56+00:00",
+  "as_of": "2026-10-29T23:17:07+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -17,10 +17,10 @@
    "volume_vs_avg": "~2x",
    "heat_score": 45,
    "direction": "down",
-   "why": "TechnipFMC (FTI) withholds 65,314 shares for taxes after its CTO\u2019s performance award vests.",
-   "catalyst_type": "contract_win",
-   "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ1ZzTEtQOGVRUG9FSDVjU2NSY1Y3dHBEc3duWUNOWHpXS1ZPTE5tc2ZEQm1LS0xWUjdNUVd5UGtzMHNKaF80V05JV3RmMTd2Tks3Znk5WFVKTXY3cEl5RWMzSzZrWFBBMUJmSTNLZFpwak8zYzlaRmpMX2JKT2lpdnlXNXg2WDFzNlNZNHpjaHYyWGRad1FQbExQUUFhUXVKX05wb0RzNWxjNXB2?oc=5",
-   "published": "2026-10-29T21:16:46+00:00",
+   "why": "TechnipFMC PLC (FTI) Shares Fall 6.2% -- What GF Score of 65 Tells Investors",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWmNCMzY0VkEzcm1hYmQwYmFSd2UtMXhvbkZlWUJnbzQ3aDg5S1UyNnVvNUJKbTdnWDB4Yk5kUFJrSkFNWFJEOFprVVEzUkd1Q0ZPUG1tR21EV3VXUUtxWXlVYU95MGVXLV9aMTh5YnBFamszMFJwN2g0QUR2UzVjTEJMRmdIRG9BeWp3YnVxN3E3MzE3N05jLWhTLXV3NlItY0l1QkxEY0tJSWdY?oc=5",
+   "published": "2026-10-29T22:40:23+00:00",
    "sector": "Oilfield Services"
   }
  ]
