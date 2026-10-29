@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-29T22:41:35+00:00",
+  "as_of": "2026-10-29T22:56:43+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,22 +9,6 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "LNG",
-   "company": "Cheniere Energy, Inc.",
-   "move_pct": 7.3,
-   "price": 319.5,
-   "volume": 4709768,
-   "volume_vs_avg": "~3x",
-   "heat_score": 53,
-   "direction": "up",
-   "why": "Why is Cheniere Energy stock surging today?",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOU2tzcWVycGtQUHl4QkdDMGFIRlVEUEFFbllTV1pBNzUxTzhlY0ZlYVRxTFdCbU92SVgteTA1UzlydzBWVWs0alJLTWRaODRrT1B2ZjJXWmExRy1IZlhPc0YyTERlRGFxZmE1TUMwNG9mZ3ZGNXpyTXphcG9aUEtjcC1nV1BkQVcxTzZVVlVGMno5UGktZC0tS2hBMXJBa3F3b0hDb3Zwaw?oc=5",
-   "published": "2026-10-29T18:44:28+00:00",
-   "sector": "Midstream & LNG"
-  },
-  {
-   "rank": 2,
    "ticker": "FTI",
    "company": "TechnipFMC plc",
    "move_pct": -6.37,
