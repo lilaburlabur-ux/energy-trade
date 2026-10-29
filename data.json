@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-10-29T23:12:59+00:00",
-  "as_of_local": "2026-10-29 23:12:59 UTC",
+  "as_of_utc": "2026-10-29T23:17:49+00:00",
+  "as_of_local": "2026-10-29 23:17:49 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "DUK"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -73,7 +75,7 @@
       "price": 393.72,
       "previous_close": 392.88,
       "change_pct": 0.21,
-      "market_cap": 152920848474.1211,
+      "market_cap": 152881476473.99902,
       "headlines": []
     },
     {
@@ -91,7 +93,7 @@
       "price": 432.51,
       "previous_close": 440.77,
       "change_pct": -1.87,
-      "market_cap": 121459520987.55933,
+      "market_cap": 126265516854.7937,
       "headlines": []
     },
     {
@@ -128,15 +130,6 @@
       "previous_close": 273.76,
       "change_pct": -0.05,
       "market_cap": 106727693252.86938,
-      "headlines": []
-    },
-    {
-      "symbol": "DUK",
-      "name": "Duke Energy",
-      "price": 125.9,
-      "previous_close": 123.57,
-      "change_pct": 1.89,
-      "market_cap": 98164507288.43112,
       "headlines": []
     },
     {
@@ -190,7 +183,7 @@
       "price": 162.22,
       "previous_close": 160.92,
       "change_pct": 0.81,
-      "market_cap": 85089123571.0144,
+      "market_cap": 86403000786.78131,
       "headlines": []
     },
     {
@@ -343,7 +336,7 @@
       "price": 73.63,
       "previous_close": 72.47,
       "change_pct": 1.6,
-      "market_cap": 36698665439.9485,
+      "market_cap": 36691403460.57939,
       "headlines": []
     },
     {
@@ -487,7 +480,7 @@
       "price": 29.04,
       "previous_close": 28.96,
       "change_pct": 0.28,
-      "market_cap": 8715241893.8004,
+      "market_cap": 8807134301.257439,
       "headlines": []
     },
     {
@@ -823,8 +816,8 @@
     },
     {
       "label": "WTI",
-      "price": 102.82,
-      "change_pct": 0.04
+      "price": 102.7,
+      "change_pct": -0.08
     },
     {
       "label": "Brent",
