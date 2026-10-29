@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-29T19:43:06+00:00",
+  "as_of": "2026-10-29T19:57:58+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,9 +11,9 @@
    "rank": 1,
    "ticker": "LNG",
    "company": "Cheniere Energy, Inc.",
-   "move_pct": 7.36,
-   "price": 319.7,
-   "volume": 3561852,
+   "move_pct": 7.1,
+   "price": 318.91,
+   "volume": 3991741,
    "volume_vs_avg": "~2x",
    "heat_score": 51,
    "direction": "up",
@@ -22,6 +22,22 @@
    "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOU2tzcWVycGtQUHl4QkdDMGFIRlVEUEFFbllTV1pBNzUxTzhlY0ZlYVRxTFdCbU92SVgteTA1UzlydzBWVWs0alJLTWRaODRrT1B2ZjJXWmExRy1IZlhPc0YyTERlRGFxZmE1TUMwNG9mZ3ZGNXpyTXphcG9aUEtjcC1nV1BkQVcxTzZVVlVGMno5UGktZC0tS2hBMXJBa3F3b0hDb3Zwaw?oc=5",
    "published": "2026-10-29T18:44:28+00:00",
    "sector": "Midstream & LNG"
+  },
+  {
+   "rank": 2,
+   "ticker": "FTI",
+   "company": "TechnipFMC plc",
+   "move_pct": -6.43,
+   "price": 66.81,
+   "volume": 3535277,
+   "volume_vs_avg": "~1.3x",
+   "heat_score": 44,
+   "direction": "down",
+   "why": "Earnings Beat Could Reshape The Case For TechnipFMC Stock",
+   "catalyst_type": "earnings",
+   "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRV8xOGp3SmljVjB1U2dtQ3YzejB2WFFodVkzVmFTdTFIZnN5N0xEYTBvYW9fTUtnNWJ0bDhySV9nZnJKSWVheXo3dmRGN3I2V2tUZEl2SHgySVh1ajE4RTZsb0VBREtYWHNrQ29oVDNlbk5waW9wbUJXaDRydDg4R0ZiM0ZwYVhGLW1ZY0dRaU93bGNQU3A0UGlfV0Njdw?oc=5",
+   "published": "2026-10-29T19:12:09+00:00",
+   "sector": "Oilfield Services"
   }
  ]
 }
