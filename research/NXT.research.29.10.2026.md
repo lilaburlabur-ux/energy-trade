@@ -18,7 +18,7 @@ Signed file: `NXT.research.29.10.2026`
 | Technical momentum | Low | Below SMA200 (-25.36%) with negative half-year (-32.99%). |
 | Fresh setup quality | Poor / broken | -48.96% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 16.36%, revenue growth 8.20%. |
-| Value attractiveness | Reasonable | Forward P/E 13.98, EV/Sales 3.11. |
+| Value attractiveness | Reasonable | Forward P/E 13.90, EV/Sales 3.11. |
 | Risk level | High | Beta 1.94, ATR 5.6% of price, short float 8.83%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: high.
@@ -59,7 +59,7 @@ Nextpower Inc. provides solar and energy technology solutions for utility-scale 
 | Revenue (ttm) | $3.63B | Revenue growth 8.20% y/y |
 | Profitability | Gross 22.98%, operating 20.86%, net 16.36% | ROA 11.68%, ROE 27.22% |
 | Balance sheet | Cash $1.21B, debt $38.40M | Current ratio 2.69, debt/equity 1.50 |
-| Valuation | P/E 20.11, forward P/E 13.98, P/S 3.38, P/B 5.11 | EV/Sales 3.11, EV/EBITDA 15.06 |
+| Valuation | P/E 20.11, forward P/E 13.90, P/S 3.38, P/B 5.11 | EV/Sales 3.11, EV/EBITDA 15.06 |
 | Growth expectations | Earnings growth 2.90%, EPS q/q 5.20% | Analyst mean target $132.11 (28 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -114,7 +114,7 @@ Nextpower Inc. provides solar and energy technology solutions for utility-scale 
 | 52W high | $156.40 | Revenue growth y/y | 8.20% |
 | 52W low | $76.48 | Inst. ownership | 108.33% |
 | P/E (ttm) | 20.11 | Insider ownership | 0.64% |
-| Forward P/E | 13.98 | Short float | 8.83% |
+| Forward P/E | 13.90 | Short float | 8.83% |
 | PEG (trailing) | 3.15 | Avg volume | 2,282,484 |
 | P/S | 3.38 | Employees | 1,993 |
 | P/B | 5.11 | Analyst rec (1=buy..5=sell) | 1.4 |
