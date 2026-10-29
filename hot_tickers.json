@@ -1,10 +1,27 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-29T18:52:23+00:00",
+  "as_of": "2026-10-29T19:07:37+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": []
+ "hot_tickers": [
+  {
+   "rank": 1,
+   "ticker": "LNG",
+   "company": "Cheniere Energy, Inc.",
+   "move_pct": 6.66,
+   "price": 317.61,
+   "volume": 3173462,
+   "volume_vs_avg": "~2x",
+   "heat_score": 47,
+   "direction": "up",
+   "why": "Why is Cheniere Energy stock surging today? By Investing.com",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORTJhM2dWWmtrMHhwTUJUMUJHYTVWVlNtalFUSjRfTnZkTzloR1BoczJHdmNCMmEyY3dKeldpU1A5Z1V3ZE9sY0pOYjBjcXV1Tmp6WFZIMlBTOFR2MzJ5TURiT2NMNlVLVnZMYW5qQnlJUXg2WjVKMW8tWDRHZEYwaDlHWlpsdWVZTGtpbmxUX0VxTUF1UzBFRHhIOGlWeGpJSVZydzd3?oc=5",
+   "published": "2026-10-29T18:40:00+00:00",
+   "sector": "Midstream & LNG"
+  }
+ ]
 }
