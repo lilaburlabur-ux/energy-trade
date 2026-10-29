@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-10-29T12:57:54+00:00",
-  "as_of_local": "2026-10-29 12:57:54 UTC",
+  "as_of_utc": "2026-10-29T13:03:01+00:00",
+  "as_of_local": "2026-10-29 13:03:01 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "ARRY"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -73,16 +75,7 @@
       "price": 392.88,
       "previous_close": 384.2,
       "change_pct": 2.26,
-      "market_cap": 152555305895.9961,
-      "headlines": []
-    },
-    {
-      "symbol": "MPC",
-      "name": "Marathon Petroleum",
-      "price": 440.77,
-      "previous_close": 435.98,
-      "change_pct": 1.1,
-      "market_cap": 128676907401.63834,
+      "market_cap": 152594593896.48438,
       "headlines": []
     },
     {
@@ -92,6 +85,15 @@
       "previous_close": 48.93,
       "change_pct": 1.76,
       "market_cap": 128238701549.74442,
+      "headlines": []
+    },
+    {
+      "symbol": "MPC",
+      "name": "Marathon Petroleum",
+      "price": 440.77,
+      "previous_close": 435.98,
+      "change_pct": 1.1,
+      "market_cap": 123779127702.27701,
       "headlines": []
     },
     {
@@ -190,7 +192,7 @@
       "price": 160.92,
       "previous_close": 161.1,
       "change_pct": -0.11,
-      "market_cap": 85710582072.32803,
+      "market_cap": 84407234041.4784,
       "headlines": []
     },
     {
@@ -352,7 +354,7 @@
       "price": 72.47,
       "previous_close": 72.82,
       "change_pct": -0.48,
-      "market_cap": 36113352611.24249,
+      "market_cap": 36120500182.52289,
       "headlines": []
     },
     {
@@ -487,7 +489,7 @@
       "price": 28.96,
       "previous_close": 29.27,
       "change_pct": -1.06,
-      "market_cap": 8782871668.742561,
+      "market_cap": 8691232414.1996,
       "headlines": []
     },
     {
@@ -605,15 +607,6 @@
       "previous_close": 1.82,
       "change_pct": 7.14,
       "market_cap": 710127118.1648712,
-      "headlines": []
-    },
-    {
-      "symbol": "ARRY",
-      "name": "Array Technologies",
-      "price": 3.56,
-      "previous_close": 3.39,
-      "change_pct": 5.01,
-      "market_cap": 547621896.877984,
       "headlines": []
     }
   ],
@@ -823,18 +816,18 @@
     },
     {
       "label": "WTI",
-      "price": 101.37,
-      "change_pct": -1.37
+      "price": 101.36,
+      "change_pct": -1.38
     },
     {
       "label": "Brent",
-      "price": 110.33,
-      "change_pct": -4.33
+      "price": 110.36,
+      "change_pct": -4.3
     },
     {
       "label": "NatGas",
       "price": 2.93,
-      "change_pct": 3.9
+      "change_pct": 4.01
     }
   ]
 }
