@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-10-29T09:50:58+00:00",
-  "as_of_local": "2026-10-29 09:50:58 UTC",
+  "as_of_utc": "2026-10-29T09:55:28+00:00",
+  "as_of_local": "2026-10-29 09:55:28 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "BP"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -74,15 +76,6 @@
       "previous_close": 384.2,
       "change_pct": 2.26,
       "market_cap": 152594593896.48438,
-      "headlines": []
-    },
-    {
-      "symbol": "BP",
-      "name": "BP",
-      "price": 49.79,
-      "previous_close": 48.93,
-      "change_pct": 1.76,
-      "market_cap": 128238701549.74442,
       "headlines": []
     },
     {
@@ -823,18 +816,18 @@
     },
     {
       "label": "WTI",
-      "price": 101.72,
-      "change_pct": -1.03
+      "price": 101.59,
+      "change_pct": -1.16
     },
     {
       "label": "Brent",
-      "price": 110.66,
-      "change_pct": -4.04
+      "price": 110.5,
+      "change_pct": -4.18
     },
     {
       "label": "NatGas",
       "price": 3.06,
-      "change_pct": 8.73
+      "change_pct": 8.63
     }
   ]
 }
