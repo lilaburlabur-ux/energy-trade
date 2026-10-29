@@ -4,8 +4,8 @@ Signed file: `BP.research.29.10.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-10-29, ~15-min delayed) |
-| Market cap | $128.24B |
+| Current price | $50.35 (2026-10-29, ~15-min delayed) |
+| Market cap | $129.68B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `BP.research.29.10.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +53.64%; price +19.01% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -1.89% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 2.55%, revenue growth 48.20%. |
-| Value attractiveness | Reasonable | Forward P/E 8.67, EV/Sales 2.64. |
-| Risk level | Moderate | Beta -0.20, ATR nan% of price, short float 0.37%. |
+| Value attractiveness | Reasonable | Forward P/E 8.77, EV/Sales 2.64. |
+| Risk level | Moderate | Beta -0.20, ATR 2.4% of price, short float 0.37%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
@@ -35,22 +35,22 @@ BP p.l.c., an integrated energy company, engages in the oil and gas business wor
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $51.32 (+nan%); 52w low $32.12 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 57.4 (neutral) |
-| Volatility | ATR(14) 1.18 (~nan% of price); beta -0.20 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $50.35; 52w high $51.32 (-1.89%); 52w low $32.12 (+56.77%) |
+| Trend | +19.01% vs SMA200, +9.80% vs SMA50, +4.47% vs SMA20 |
+| Momentum | RSI(14) 63.1 (neutral) |
+| Volatility | ATR(14) 1.19 (~2.4% of price); beta -0.20 |
+| Setup perspective | -1.89% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | +0.6% |
+| Month | +14.5% |
+| Quarter | +12.7% |
+| Half Y | +8.8% |
+| 1Y | +53.6% |
+| YTD | +45.7% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -59,7 +59,7 @@ BP p.l.c., an integrated energy company, engages in the oil and gas business wor
 | Revenue (ttm) | $215.47B | Revenue growth 48.20% y/y |
 | Profitability | Gross 28.30%, operating 13.15%, net 2.55% | ROA 5.04%, ROE 8.87% |
 | Balance sheet | Cash $37.23B, debt $72.69B | Current ratio 1.27, debt/equity 95.12 |
-| Valuation | P/E 23.82, forward P/E 8.67, P/S 0.60, P/B 8.82 | EV/Sales 2.64, EV/EBITDA 14.51 |
+| Valuation | P/E 24.56, forward P/E 8.77, P/S 0.60, P/B 8.92 | EV/Sales 2.64, EV/EBITDA 14.51 |
 | Growth expectations | Earnings growth 138.90%, EPS q/q 140.10% | Analyst mean target $53.48 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -86,6 +86,7 @@ BP p.l.c., an integrated energy company, engages in the oil and gas business wor
 | Bank of Montreal /CAN/ | 6,527,262 | 0.25% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
+- **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -100,21 +101,21 @@ BP p.l.c., an integrated energy company, engages in the oil and gas business wor
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 2.64 |
-| Market cap | $128.24B | EV/EBITDA | 14.51 |
+| Price | $50.35 | EV/Sales | 2.64 |
+| Market cap | $129.68B | EV/EBITDA | 14.51 |
 | Beta | -0.20 | Gross margin | 28.30% |
-| RSI(14) | 57.4 | Operating margin | 13.15% |
-| ATR(14) | 1.18 | Profit margin | 2.55% |
-| SMA20 dist | +nan% | ROA | 5.04% |
-| SMA50 dist | +nan% | ROE | 8.87% |
-| SMA200 dist | +nan% | Revenue (ttm) | $215.47B |
+| RSI(14) | 63.1 | Operating margin | 13.15% |
+| ATR(14) | 1.19 | Profit margin | 2.55% |
+| SMA20 dist | +4.47% | ROA | 5.04% |
+| SMA50 dist | +9.80% | ROE | 8.87% |
+| SMA200 dist | +19.01% | Revenue (ttm) | $215.47B |
 | 52W high | $51.32 | Revenue growth y/y | 48.20% |
 | 52W low | $32.12 | Inst. ownership | 14.13% |
-| P/E (ttm) | 23.82 | Insider ownership | 0.00% |
-| Forward P/E | 8.67 | Short float | 0.37% |
-| PEG (trailing) | 0.05 | Avg volume | 9,200,771 |
+| P/E (ttm) | 24.56 | Insider ownership | 0.00% |
+| Forward P/E | 8.77 | Short float | 0.37% |
+| PEG (trailing) | 0.05 | Avg volume | 9,255,578 |
 | P/S | 0.60 | Employees | 93,700 |
-| P/B | 8.82 | Analyst rec (1=buy..5=sell) | 2.2 |
+| P/B | 8.92 | Analyst rec (1=buy..5=sell) | 2.2 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

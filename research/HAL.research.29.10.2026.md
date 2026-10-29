@@ -4,8 +4,8 @@ Signed file: `HAL.research.29.10.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-10-29, ~15-min delayed) |
-| Market cap | $29.58B |
+| Current price | $35.90 (2026-10-29, ~15-min delayed) |
+| Market cap | $29.69B |
 | Sector / Industry | Energy / Oil & Gas Equipment & Services |
 | Main theme | Oil & Gas Equipment & Services — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `HAL.research.29.10.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +37.59%; price +0.87% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -15.73% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 8.90%, revenue growth 1.80%. |
-| Value attractiveness | Reasonable | Forward P/E 12.17, EV/Sales 1.60. |
-| Risk level | Moderate | Beta 0.84, ATR nan% of price, short float 5.44%. |
+| Value attractiveness | Reasonable | Forward P/E 12.22, EV/Sales 1.60. |
+| Risk level | Moderate | Beta 0.84, ATR 2.7% of price, short float 5.44%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
@@ -35,22 +35,22 @@ Halliburton Company provides products and services to the energy industry worldw
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $42.60 (+nan%); 52w low $25.11 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 65.0 (neutral) |
-| Volatility | ATR(14) 1.02 (~nan% of price); beta 0.84 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $35.90; 52w high $42.60 (-15.73%); 52w low $25.11 (+42.96%) |
+| Trend | +0.87% vs SMA200, +4.90% vs SMA50, +7.13% vs SMA20 |
+| Momentum | RSI(14) 66.5 (neutral) |
+| Volatility | ATR(14) 0.98 (~2.7% of price); beta 0.84 |
+| Setup perspective | -15.73% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | +8.2% |
+| Month | +12.9% |
+| Quarter | +11.8% |
+| Half Y | -14.4% |
+| 1Y | +37.6% |
+| YTD | +23.0% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -59,13 +59,13 @@ Halliburton Company provides products and services to the energy industry worldw
 | Revenue (ttm) | $22.48B | Revenue growth 1.80% y/y |
 | Profitability | Gross 14.82%, operating 12.43%, net 8.90% | ROA 7.23%, ROE 18.78% |
 | Balance sheet | Cash $1.84B, debt $8.20B | Current ratio 2.02, debt/equity 73.45 |
-| Valuation | P/E 15.03, forward P/E 12.17, P/S 1.32, P/B 2.66 | EV/Sales 1.60, EV/EBITDA 8.69 |
+| Valuation | P/E 15.08, forward P/E 12.22, P/S 1.32, P/B 2.67 | EV/Sales 1.60, EV/EBITDA 8.69 |
 | Growth expectations | Earnings growth 2400.00%, EPS q/q 2216.70% | Analyst mean target $43.68 (25 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 90.84% |
+| Institutional ownership | 90.81% |
 | Insider ownership | 0.40% |
 | Short float | 5.44% |
 | Short ratio (days to cover) | 3.4 |
@@ -101,21 +101,21 @@ Halliburton Company provides products and services to the energy industry worldw
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 1.60 |
-| Market cap | $29.58B | EV/EBITDA | 8.69 |
+| Price | $35.90 | EV/Sales | 1.60 |
+| Market cap | $29.69B | EV/EBITDA | 8.69 |
 | Beta | 0.84 | Gross margin | 14.82% |
-| RSI(14) | 65.0 | Operating margin | 12.43% |
-| ATR(14) | 1.02 | Profit margin | 8.90% |
-| SMA20 dist | +nan% | ROA | 7.23% |
-| SMA50 dist | +nan% | ROE | 18.78% |
-| SMA200 dist | +nan% | Revenue (ttm) | $22.48B |
+| RSI(14) | 66.5 | Operating margin | 12.43% |
+| ATR(14) | 0.98 | Profit margin | 8.90% |
+| SMA20 dist | +7.13% | ROA | 7.23% |
+| SMA50 dist | +4.90% | ROE | 18.78% |
+| SMA200 dist | +0.87% | Revenue (ttm) | $22.48B |
 | 52W high | $42.60 | Revenue growth y/y | 1.80% |
-| 52W low | $25.11 | Inst. ownership | 90.84% |
-| P/E (ttm) | 15.03 | Insider ownership | 0.40% |
-| Forward P/E | 12.17 | Short float | 5.44% |
-| PEG (trailing) | 0.70 | Avg volume | 10,501,368 |
+| 52W low | $25.11 | Inst. ownership | 90.81% |
+| P/E (ttm) | 15.08 | Insider ownership | 0.40% |
+| Forward P/E | 12.22 | Short float | 5.44% |
+| PEG (trailing) | 0.71 | Avg volume | 10,500,326 |
 | P/S | 1.32 | Employees | 46,000 |
-| P/B | 2.66 | Analyst rec (1=buy..5=sell) | 1.7 |
+| P/B | 2.67 | Analyst rec (1=buy..5=sell) | 1.7 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

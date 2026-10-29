@@ -4,24 +4,24 @@ Signed file: `BE.research.29.10.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-10-29, ~15-min delayed) |
-| Market cap | $67.41B |
+| Current price | $222.30 (2026-10-29, ~15-min delayed) |
+| Market cap | $65.70B |
 | Sector / Industry | Industrials / Electrical Equipment & Parts |
 | Main theme | Electrical Equipment & Parts — see catalysts below |
-| Current stance | Moderate technical momentum, mixed fundamentals, value: low (expensive), risk: high. |
+| Current stance | High technical momentum, mixed fundamentals, value: low (expensive), risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-10-29.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +96.24%; price +0.59% vs SMA200. |
+| Fresh setup quality | Poor / broken | -35.72% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 13.53%, revenue growth 138.10%. |
-| Value attractiveness | Low (expensive) | Forward P/E 46.18, EV/Sales 17.69. |
-| Risk level | High | Beta 3.78, ATR nan% of price, short float 6.62%. |
+| Value attractiveness | Low (expensive) | Forward P/E 41.86, EV/Sales 17.69. |
+| Risk level | High | Beta 3.78, ATR 8.6% of price, short float 6.62%. |
 
-**Bottom line:** Moderate technical momentum, mixed fundamentals, value: low (expensive), risk: high.
+**Bottom line:** High technical momentum, mixed fundamentals, value: low (expensive), risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -35,22 +35,22 @@ Bloom Energy Corporation designs, manufactures, sells, and installs solid oxide 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $345.85 (+nan%); 52w low $76.97 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 42.5 (neutral) |
-| Volatility | ATR(14) 20.18 (~nan% of price); beta 3.78 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $222.30; 52w high $345.85 (-35.72%); 52w low $76.97 (+188.81%) |
+| Trend | +0.59% vs SMA200, -10.44% vs SMA50, -9.45% vs SMA20 |
+| Momentum | RSI(14) 44.1 (neutral) |
+| Volatility | ATR(14) 19.06 (~8.6% of price); beta 3.78 |
+| Setup perspective | -35.72% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | +2.1% |
+| Month | -19.7% |
+| Quarter | +8.0% |
+| Half Y | -21.5% |
+| 1Y | +96.2% |
+| YTD | +125.3% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -59,13 +59,13 @@ Bloom Energy Corporation designs, manufactures, sells, and installs solid oxide 
 | Revenue (ttm) | $3.83B | Revenue growth 138.10% y/y |
 | Profitability | Gross 31.77%, operating 18.49%, net 13.53% | ROA 7.45%, ROE 39.61% |
 | Balance sheet | Cash $2.49B, debt $2.79B | Current ratio 3.74, debt/equity 141.95 |
-| Valuation | P/E 300.11, forward P/E 46.18, P/S 17.60, P/B 41.51 | EV/Sales 17.69, EV/EBITDA 112.38 |
+| Valuation | P/E 134.73, forward P/E 41.86, P/S 17.15, P/B 33.99 | EV/Sales 17.69, EV/EBITDA 112.38 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $284.77 (26 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 86.38% |
+| Institutional ownership | 86.67% |
 | Insider ownership | 5.52% |
 | Short float | 6.62% |
 | Short ratio (days to cover) | 1.1 |
@@ -86,9 +86,10 @@ Bloom Energy Corporation designs, manufactures, sells, and installs solid oxide 
 | Value Aligned Research Advisors, LLC                           | 5,585,179 | 1.89% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 46.18, EV/Sales 17.69. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 3.78, ATR nan% of price, short float 6.62%. Size positions accordingly.
+- **Valuation risk:** Forward P/E 41.86, EV/Sales 17.69. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 3.78, ATR 8.6% of price, short float 6.62%. Size positions accordingly.
 - **Short interest risk:** short float 6.62% can fuel squeezes both ways around news.
+- **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -103,21 +104,21 @@ Bloom Energy Corporation designs, manufactures, sells, and installs solid oxide 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 17.69 |
-| Market cap | $67.41B | EV/EBITDA | 112.38 |
+| Price | $222.30 | EV/Sales | 17.69 |
+| Market cap | $65.70B | EV/EBITDA | 112.38 |
 | Beta | 3.78 | Gross margin | 31.77% |
-| RSI(14) | 42.5 | Operating margin | 18.49% |
-| ATR(14) | 20.18 | Profit margin | 13.53% |
-| SMA20 dist | +nan% | ROA | 7.45% |
-| SMA50 dist | +nan% | ROE | 39.61% |
-| SMA200 dist | +nan% | Revenue (ttm) | $3.83B |
+| RSI(14) | 44.1 | Operating margin | 18.49% |
+| ATR(14) | 19.06 | Profit margin | 13.53% |
+| SMA20 dist | -9.45% | ROA | 7.45% |
+| SMA50 dist | -10.44% | ROE | 39.61% |
+| SMA200 dist | +0.59% | Revenue (ttm) | $3.83B |
 | 52W high | $345.85 | Revenue growth y/y | 138.10% |
-| 52W low | $76.97 | Inst. ownership | 86.38% |
-| P/E (ttm) | 300.11 | Insider ownership | 5.52% |
-| Forward P/E | 46.18 | Short float | 6.62% |
-| PEG (trailing) | 0.41 | Avg volume | 15,939,790 |
-| P/S | 17.60 | Employees | 2,214 |
-| P/B | 41.51 | Analyst rec (1=buy..5=sell) | 2.2 |
+| 52W low | $76.97 | Inst. ownership | 86.67% |
+| P/E (ttm) | 134.73 | Insider ownership | 5.52% |
+| Forward P/E | 41.86 | Short float | 6.62% |
+| PEG (trailing) | 0.41 | Avg volume | 15,456,137 |
+| P/S | 17.15 | Employees | 2,214 |
+| P/B | 33.99 | Analyst rec (1=buy..5=sell) | 2.2 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
@@ -132,7 +133,7 @@ Bloom Energy Corporation designs, manufactures, sells, and installs solid oxide 
 | 2026-10-23 | main | BTIG | Buy → Buy |
 
 ## 9. Conclusion
-BE: Moderate momentum / mixed fundamentals / low (expensive) value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+BE: High momentum / mixed fundamentals / low (expensive) value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

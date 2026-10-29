@@ -4,24 +4,24 @@ Signed file: `TRGP.research.29.10.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-10-29, ~15-min delayed) |
-| Market cap | $65.59B |
+| Current price | $312.37 (2026-10-29, ~15-min delayed) |
+| Market cap | $66.98B |
 | Sector / Industry | Energy / Oil & Gas Midstream |
 | Main theme | Oil & Gas Midstream — see catalysts below |
-| Current stance | Moderate technical momentum, mixed fundamentals, value: fair-to-demanding, risk: moderate. |
+| Current stance | High technical momentum, mixed fundamentals, value: fair-to-demanding, risk: moderate. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-10-29.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +109.18%; price +21.22% vs SMA200. |
+| Fresh setup quality | Moderate / wait | +0.00% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 13.54%, revenue growth 4.20%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 25.25, EV/Sales 5.09. |
-| Risk level | Moderate | Beta 0.80, ATR nan% of price, short float 3.05%. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 25.78, EV/Sales 5.09. |
+| Risk level | Moderate | Beta 0.80, ATR 2.5% of price, short float 3.05%. |
 
-**Bottom line:** Moderate technical momentum, mixed fundamentals, value: fair-to-demanding, risk: moderate.
+**Bottom line:** High technical momentum, mixed fundamentals, value: fair-to-demanding, risk: moderate.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -35,22 +35,22 @@ Targa Resources Corp., together with its subsidiaries, owns, operates, acquires,
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $304.68 (+nan%); 52w low $148.19 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 60.8 (neutral) |
-| Volatility | ATR(14) 8.10 (~nan% of price); beta 0.80 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $312.37; 52w high $312.37 (+0.00%); 52w low $148.19 (+110.79%) |
+| Trend | +21.22% vs SMA200, +7.69% vs SMA50, +6.53% vs SMA20 |
+| Momentum | RSI(14) 66.9 (neutral) |
+| Volatility | ATR(14) 7.91 (~2.5% of price); beta 0.80 |
+| Setup perspective | +0.00% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | +7.9% |
+| Month | +15.6% |
+| Quarter | +15.5% |
+| Half Y | +20.7% |
+| 1Y | +109.2% |
+| YTD | +69.7% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -59,13 +59,13 @@ Targa Resources Corp., together with its subsidiaries, owns, operates, acquires,
 | Revenue (ttm) | $16.74B | Revenue growth 4.20% y/y |
 | Profitability | Gross 43.19%, operating 27.80%, net 13.54% | ROA 9.24%, ROE 70.84% |
 | Balance sheet | Cash $132.30M, debt $19.58B | Current ratio 0.77, debt/equity 515.79 |
-| Valuation | P/E 29.24, forward P/E 25.25, P/S 3.92, P/B 17.94 | EV/Sales 5.09, EV/EBITDA 15.49 |
+| Valuation | P/E 29.86, forward P/E 25.78, P/S 4.00, P/B 18.32 | EV/Sales 5.09, EV/EBITDA 15.49 |
 | Growth expectations | Earnings growth 23.30%, EPS q/q 21.50% | Analyst mean target $330.19 (21 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 97.85% |
+| Institutional ownership | 97.87% |
 | Insider ownership | 1.38% |
 | Short float | 3.05% |
 | Short ratio (days to cover) | 4.8 |
@@ -86,7 +86,8 @@ Targa Resources Corp., together with its subsidiaries, owns, operates, acquires,
 | Morgan Stanley | 3,559,424 | 1.66% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 25.25, EV/Sales 5.09. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 25.78, EV/Sales 5.09. Multiple compression is the main downside if growth disappoints.
+- **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -101,21 +102,21 @@ Targa Resources Corp., together with its subsidiaries, owns, operates, acquires,
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 5.09 |
-| Market cap | $65.59B | EV/EBITDA | 15.49 |
+| Price | $312.37 | EV/Sales | 5.09 |
+| Market cap | $66.98B | EV/EBITDA | 15.49 |
 | Beta | 0.80 | Gross margin | 43.19% |
-| RSI(14) | 60.8 | Operating margin | 27.80% |
-| ATR(14) | 8.10 | Profit margin | 13.54% |
-| SMA20 dist | +nan% | ROA | 9.24% |
-| SMA50 dist | +nan% | ROE | 70.84% |
-| SMA200 dist | +nan% | Revenue (ttm) | $16.74B |
-| 52W high | $304.68 | Revenue growth y/y | 4.20% |
-| 52W low | $148.19 | Inst. ownership | 97.85% |
-| P/E (ttm) | 29.24 | Insider ownership | 1.38% |
-| Forward P/E | 25.25 | Short float | 3.05% |
-| PEG (trailing) | — | Avg volume | 1,177,409 |
-| P/S | 3.92 | Employees | 3,570 |
-| P/B | 17.94 | Analyst rec (1=buy..5=sell) | 1.4 |
+| RSI(14) | 66.9 | Operating margin | 27.80% |
+| ATR(14) | 7.91 | Profit margin | 13.54% |
+| SMA20 dist | +6.53% | ROA | 9.24% |
+| SMA50 dist | +7.69% | ROE | 70.84% |
+| SMA200 dist | +21.22% | Revenue (ttm) | $16.74B |
+| 52W high | $312.37 | Revenue growth y/y | 4.20% |
+| 52W low | $148.19 | Inst. ownership | 97.87% |
+| P/E (ttm) | 29.86 | Insider ownership | 1.38% |
+| Forward P/E | 25.78 | Short float | 3.05% |
+| PEG (trailing) | — | Avg volume | 1,173,225 |
+| P/S | 4.00 | Employees | 3,570 |
+| P/B | 18.32 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
@@ -130,7 +131,7 @@ Targa Resources Corp., together with its subsidiaries, owns, operates, acquires,
 | 2026-09-10 | main | Scotiabank | Sector Outperform → Sector Outperform |
 
 ## 9. Conclusion
-TRGP: Moderate momentum / mixed fundamentals / fair-to-demanding value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+TRGP: High momentum / mixed fundamentals / fair-to-demanding value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |
