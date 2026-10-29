@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-10-29T09:55:28+00:00",
-  "as_of_local": "2026-10-29 09:55:28 UTC",
+  "as_of_utc": "2026-10-29T10:00:45+00:00",
+  "as_of_local": "2026-10-29 10:00:45 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "BP"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -75,7 +73,7 @@
       "price": 392.88,
       "previous_close": 384.2,
       "change_pct": 2.26,
-      "market_cap": 152594593896.48438,
+      "market_cap": 152555305895.9961,
       "headlines": []
     },
     {
@@ -84,7 +82,16 @@
       "price": 440.77,
       "previous_close": 435.98,
       "change_pct": 1.1,
-      "market_cap": 123779127702.27701,
+      "market_cap": 128676907401.63834,
+      "headlines": []
+    },
+    {
+      "symbol": "BP",
+      "name": "BP",
+      "price": 49.79,
+      "previous_close": 48.93,
+      "change_pct": 1.76,
+      "market_cap": 128238701549.74442,
       "headlines": []
     },
     {
@@ -183,7 +190,7 @@
       "price": 160.92,
       "previous_close": 161.1,
       "change_pct": -0.11,
-      "market_cap": 84407234041.4784,
+      "market_cap": 85710582072.32803,
       "headlines": []
     },
     {
@@ -345,7 +352,7 @@
       "price": 72.47,
       "previous_close": 72.82,
       "change_pct": -0.48,
-      "market_cap": 36120500182.52289,
+      "market_cap": 36113352611.24249,
       "headlines": []
     },
     {
@@ -480,7 +487,7 @@
       "price": 28.96,
       "previous_close": 29.27,
       "change_pct": -1.06,
-      "market_cap": 8691232414.1996,
+      "market_cap": 8782871668.742561,
       "headlines": []
     },
     {
@@ -534,7 +541,7 @@
       "price": 24.99,
       "previous_close": 29.76,
       "change_pct": -16.03,
-      "market_cap": 3302294723.2744904,
+      "market_cap": 3293637487.6337814,
       "headlines": []
     },
     {
@@ -816,18 +823,18 @@
     },
     {
       "label": "WTI",
-      "price": 101.59,
-      "change_pct": -1.16
+      "price": 101.61,
+      "change_pct": -1.14
     },
     {
       "label": "Brent",
-      "price": 110.5,
-      "change_pct": -4.18
+      "price": 110.52,
+      "change_pct": -4.16
     },
     {
       "label": "NatGas",
-      "price": 3.06,
-      "change_pct": 8.63
+      "price": 3.05,
+      "change_pct": 8.34
     }
   ]
 }
