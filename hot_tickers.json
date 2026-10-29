@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-29T20:28:32+00:00",
+  "as_of": "2026-10-29T20:29:39+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -38,22 +38,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRV8xOGp3SmljVjB1U2dtQ3YzejB2WFFodVkzVmFTdTFIZnN5N0xEYTBvYW9fTUtnNWJ0bDhySV9nZnJKSWVheXo3dmRGN3I2V2tUZEl2SHgySVh1ajE4RTZsb0VBREtYWHNrQ29oVDNlbk5waW9wbUJXaDRydDg4R0ZiM0ZwYVhGLW1ZY0dRaU93bGNQU3A0UGlfV0Njdw?oc=5",
    "published": "2026-10-29T19:12:09+00:00",
    "sector": "Oilfield Services"
-  },
-  {
-   "rank": 3,
-   "ticker": "FSLR",
-   "company": "First Solar, Inc.",
-   "move_pct": -5.22,
-   "price": 167.1,
-   "volume": 2074775,
-   "volume_vs_avg": "~0.9x",
-   "heat_score": 38,
-   "direction": "down",
-   "why": "First Solar (FSLR) Faces Interest Rate Pressure Despite Strong Margins and Backlog, Ariel Global Fund Says",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNanZTb1dOZmtjYTc0SnJiSFR4THF0akswblBIUzlCTXVTcUkxclVQYTZadzlNVWFEeDE1Vkt3ZzdUQjhaUjgwSVJDazMtZ0xraUNyRldLdXEzSGhBWk9YUFdNQUFTckltaFczTktvcjJ3RWlubTZuQmRjN1AycHFHT3BLRGdiS0M3UnVzOTI1MHV5STJrZnZmYWJjMXE?oc=5",
-   "published": "2026-10-29T16:56:37+00:00",
-   "sector": "Renewables & Solar"
   }
  ]
 }
