@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-29T14:13:24+00:00",
+  "as_of": "2026-10-29T14:28:38+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,16 +11,16 @@
    "rank": 1,
    "ticker": "PWR",
    "company": "Quanta Services, Inc.",
-   "move_pct": 5.15,
-   "price": 638.12,
-   "volume": 452662,
-   "volume_vs_avg": "~0.4x",
-   "heat_score": 35,
+   "move_pct": 6.46,
+   "price": 646.1,
+   "volume": 515290,
+   "volume_vs_avg": "~0.5x",
+   "heat_score": 40,
    "direction": "up",
-   "why": "Quanta Services (PWR) Q3 Earnings and Revenues Beat Estimates",
+   "why": "Quanta Services (NYSE:PWR) Q3 2026 Results Beat Revenue and EPS Estimates",
    "catalyst_type": "earnings",
-   "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcVVuZHBkWk5mdnU2SFYzUDJsWjFQMU54RDE4dlZXbHR5cVIzYmtLWGZqTXBFdXBob2p2M0ZCSTdzelp0WmZmVFh1bzlQWm5rOXdzLUMtSTd1Q04tRThZUDYxeGQ2UHRtSnJZaC1BUHJhZlVSM0hoelNHOFFtS0lFa1h1VnFFcW5SSm9CRXhybmNUQ1Z4V1djbHZNa0I?oc=5",
-   "published": "2026-10-29T11:35:09+00:00",
+   "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTlJkVC14RWJpREt2Y29jUEhGNF9nTWlDOUxNelBVUlFZUFFXS01EM2pzMk51ek9lc0ttZ0pmM1hlVVNhMk9lOFZPMGdyWkhiOG1iMWs2MlpkMjA2anFJYl9sNzlRejhxaEx6MGx3YkxWMmY5WmtSZTJ3YzViYTBOSnZkZllGREpzeVZQeTZheHVjcElrM2FBN2QwNnpJWUxTcmktNGdvc216VFhQeWtvRWhmTUl6Y2xIdGNKb2pR?oc=5",
+   "published": "2026-10-29T13:29:06+00:00",
    "sector": "Grid, Storage & Electrification"
   }
  ]
