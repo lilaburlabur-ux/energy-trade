@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-10-29T00:39:55+00:00",
-  "as_of_local": "2026-10-29 00:39:55 UTC",
+  "as_of_utc": "2026-10-29T00:44:55+00:00",
+  "as_of_local": "2026-10-29 00:44:55 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "OKLO"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -73,16 +75,7 @@
       "price": 384.2,
       "previous_close": 371.92,
       "change_pct": 3.3,
-      "market_cap": 152555304000.0,
-      "headlines": []
-    },
-    {
-      "symbol": "MPC",
-      "name": "Marathon Petroleum",
-      "price": 435.98,
-      "previous_close": 470.64,
-      "change_pct": -7.36,
-      "market_cap": 128676910608.95,
+      "market_cap": 152594592000.0,
       "headlines": []
     },
     {
@@ -92,6 +85,15 @@
       "previous_close": 50.53,
       "change_pct": -3.17,
       "market_cap": 128238699191.72,
+      "headlines": []
+    },
+    {
+      "symbol": "MPC",
+      "name": "Marathon Petroleum",
+      "price": 435.98,
+      "previous_close": 470.64,
+      "change_pct": -7.36,
+      "market_cap": 123779130787.51,
       "headlines": []
     },
     {
@@ -190,7 +192,7 @@
       "price": 161.1,
       "previous_close": 163.68,
       "change_pct": -1.58,
-      "market_cap": 85710583047.59999,
+      "market_cap": 84407235001.92,
       "headlines": []
     },
     {
@@ -352,7 +354,7 @@
       "price": 72.82,
       "previous_close": 72.11,
       "change_pct": 0.98,
-      "market_cap": 36113352002.94,
+      "market_cap": 36120499574.1,
       "headlines": []
     },
     {
@@ -487,7 +489,7 @@
       "price": 29.27,
       "previous_close": 28.56,
       "change_pct": 2.49,
-      "market_cap": 8782871946.4,
+      "market_cap": 8691232688.960001,
       "headlines": []
     },
     {
@@ -518,15 +520,6 @@
       "headlines": []
     },
     {
-      "symbol": "OKLO",
-      "name": "Oklo",
-      "price": 27.33,
-      "previous_close": 25.94,
-      "change_pct": 5.36,
-      "market_cap": 5044798668.0,
-      "headlines": []
-    },
-    {
       "symbol": "UEC",
       "name": "Uranium Energy Corp",
       "price": 8.04,
@@ -541,7 +534,7 @@
       "price": 29.76,
       "previous_close": 30.36,
       "change_pct": -1.98,
-      "market_cap": 3293637517.7999997,
+      "market_cap": 3302294753.52,
       "headlines": []
     },
     {
@@ -823,18 +816,18 @@
     },
     {
       "label": "WTI",
-      "price": 102.03,
-      "change_pct": 2.13
+      "price": 102.08,
+      "change_pct": 2.18
     },
     {
       "label": "Brent",
-      "price": 110.74,
-      "change_pct": -2.76
+      "price": 110.79,
+      "change_pct": -2.71
     },
     {
       "label": "NatGas",
       "price": 3.01,
-      "change_pct": 11.75
+      "change_pct": 11.61
     }
   ]
 }
