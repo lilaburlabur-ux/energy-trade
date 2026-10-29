@@ -122,6 +122,7 @@ Vertiv Holdings Co designs, manufactures, and services critical digital infrastr
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-10-29 | main | RBC Capital | Outperform → Outperform |
 | 2026-10-29 | main | Citigroup | Buy → Buy |
 | 2026-10-29 | main | TD Cowen | Buy → Buy |
 | 2026-10-29 | main | Wells Fargo | Overweight → Overweight |
@@ -129,7 +130,6 @@ Vertiv Holdings Co designs, manufactures, and services critical digital infrastr
 | 2026-10-14 | main | RBC Capital | Outperform → Outperform |
 | 2026-10-12 | main | Evercore ISI Group | Outperform → Outperform |
 | 2026-10-09 | reit | GLJ Research | Sell → Sell |
-| 2026-10-06 | init | GLJ Research | — → Sell |
 
 ## 9. Conclusion
 VRT: Low momentum / strong fundamentals / fair-to-demanding value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

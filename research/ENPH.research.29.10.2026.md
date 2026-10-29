@@ -18,7 +18,7 @@ Signed file: `ENPH.research.29.10.2026`
 | Technical momentum | Low | Below SMA200 (-36.90%) with negative half-year (-21.54%). |
 | Fresh setup quality | Poor / broken | -64.25% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 7.49%, revenue growth -28.50%. |
-| Value attractiveness | Reasonable | Forward P/E 17.43, EV/Sales —. |
+| Value attractiveness | Reasonable | Forward P/E 17.95, EV/Sales —. |
 | Risk level | High | Beta 1.63, ATR 7.7% of price, short float 26.75%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: high.
@@ -59,7 +59,7 @@ Enphase Energy, Inc., together with its subsidiaries, designs, develops, manufac
 | Revenue (ttm) | — | Revenue growth -28.50% y/y |
 | Profitability | Gross 24.37%, operating 0.00%, net 7.49% | ROA 0.22%, ROE 8.11% |
 | Balance sheet | Cash $931.85M, debt $614.56M | Current ratio 4.09, debt/equity 49.48 |
-| Valuation | P/E 38.60, forward P/E 17.43, P/S —, P/B 2.75 | EV/Sales —, EV/EBITDA — |
+| Valuation | P/E 38.60, forward P/E 17.95, P/S —, P/B 2.75 | EV/Sales —, EV/EBITDA — |
 | Growth expectations | Earnings growth -65.20%, EPS q/q -64.90% | Analyst mean target $42.28 (24 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -114,7 +114,7 @@ Enphase Energy, Inc., together with its subsidiaries, designs, develops, manufac
 | 52W high | $72.33 | Revenue growth y/y | -28.50% |
 | 52W low | $24.99 | Inst. ownership | 96.35% |
 | P/E (ttm) | 38.60 | Insider ownership | 3.03% |
-| Forward P/E | 17.43 | Short float | 26.75% |
+| Forward P/E | 17.95 | Short float | 26.75% |
 | PEG (trailing) | 0.75 | Avg volume | 5,035,065 |
 | P/S | — | Employees | 2,872 |
 | P/B | 2.75 | Analyst rec (1=buy..5=sell) | 2.4 |

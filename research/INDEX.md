@@ -45,10 +45,10 @@
 | LEU | $2.26B | -70% | 24.9 | 10% | Low | Fair-to-demanding | High |
 | NXE | $5.80B | -9% | -68.4 | 0% | Low | Reasonable | Elevated |
 | UEC | $4.04B | -46% | -110.1 | 0% | Low | Reasonable | High |
-| UUUU | $2.17B | -59% | 16.9 | -77% | Low | Reasonable | High |
+| UUUU | $2.18B | -59% | 17.0 | -77% | Low | Reasonable | High |
 | BWXT | $12.64B | -33% | 26.3 | 10% | Low | Fair-to-demanding | Elevated |
 | FSLR | $19.01B | -26% | 7.5 | 32% | Low | Reasonable | High |
-| ENPH | $3.42B | -30% | 17.4 | 7% | Low | Reasonable | High |
+| ENPH | $3.42B | -30% | 18.0 | 7% | Low | Reasonable | High |
 | NEE | $172.27B | +1% | 18.8 | 40% | Low | Reasonable | Moderate |
 | RUN | $1.81B | -62% | 14.6 | 12% | Low | Reasonable | High |
 | SEDG | $1.88B | -19% | 38.0 | -20% | Low | Low (expensive) | High |

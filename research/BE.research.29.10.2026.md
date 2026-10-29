@@ -116,13 +116,14 @@ Bloom Energy Corporation designs, manufactures, sells, and installs solid oxide 
 | 52W low | $76.97 | Inst. ownership | 86.67% |
 | P/E (ttm) | 134.73 | Insider ownership | 5.52% |
 | Forward P/E | 41.86 | Short float | 6.62% |
-| PEG (trailing) | 0.41 | Avg volume | 15,456,137 |
+| PEG (trailing) | 0.43 | Avg volume | 15,456,137 |
 | P/S | 17.15 | Employees | 2,214 |
 | P/B | 33.99 | Analyst rec (1=buy..5=sell) | 2.2 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-10-29 | main | Citigroup | Neutral → Neutral |
 | 2026-10-26 | main | Barclays | Equal-Weight → Equal-Weight |
 | 2026-10-26 | main | Wells Fargo | Equal-Weight → Equal-Weight |
 | 2026-10-23 | main | JP Morgan | Overweight → Overweight |
@@ -130,7 +131,6 @@ Bloom Energy Corporation designs, manufactures, sells, and installs solid oxide 
 | 2026-10-23 | reit | Keybanc | Sector Weight → Sector Weight |
 | 2026-10-23 | main | Morgan Stanley | Overweight → Overweight |
 | 2026-10-23 | main | Bernstein | Market Perform → Market Perform |
-| 2026-10-23 | main | BTIG | Buy → Buy |
 
 ## 9. Conclusion
 BE: High momentum / mixed fundamentals / low (expensive) value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
