@@ -1,27 +1,10 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-29T12:47:16+00:00",
+  "as_of": "2026-10-29T13:02:24+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": [
-  {
-   "rank": 1,
-   "ticker": "VRT",
-   "company": "Vertiv Holdings, LLC",
-   "move_pct": -4.17,
-   "price": 232.81,
-   "volume": 19510700,
-   "volume_vs_avg": "~4x",
-   "heat_score": 48,
-   "direction": "down",
-   "why": "Wells Fargo raises Vertiv stock price target on execution relief By Investing.com",
-   "catalyst_type": "analyst_action",
-   "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSFFHc2lCUXF0SFpCVWRYN1lBblVBdzEwdXFZWGV4MUNjc1FVZDN3Rk5NRERLMHYyeVVySjVISkp2QnJ2WG9MR2Y2NXJseGJfNUthX0VQbTNjWVVLV1V3YWV5ZTlRZEY0Y0FzUEUxc2V6WUMzdS1Sek1jVlVMUkZQYnd4b2M3NFR6eGRVbzlsVGpMSzRLeUpabE5XQTd1MkxaQl9IUUVfck5zVE8zRDZsWVFDRDh4b0lsb3ZwZ1djVUtFUDA?oc=5",
-   "published": "2026-10-29T10:32:00+00:00",
-   "sector": "Grid, Storage & Electrification"
-  }
- ]
+ "hot_tickers": []
 }
