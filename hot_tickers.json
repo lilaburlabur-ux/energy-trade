@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-29T11:21:01+00:00",
+  "as_of": "2026-10-29T11:36:18+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,29 +9,13 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "AR",
-   "company": "Antero Resources Corporation",
-   "move_pct": -5.01,
-   "price": 40.0,
-   "volume": 6814400,
-   "volume_vs_avg": "~2x",
-   "heat_score": 40,
-   "direction": "down",
-   "why": "Antero Resources (AR) Moves To Intervene In Key FERC Gas Transport Case",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdlEwbUtzUS1iaUlxS1F5UzA2WDRwcjdia2RzWUNFa1NNa2VYX0RGOURRcDhLeGRxVTZydUticFlxZGdTTm9LQXdJWGM2dDZRc3I3NjdlQ1RqT1dteE84alJaZDJ6YTRRR1U3TzRxYXMzNUpBdDVxQkJQRG5yaldXMGQxRmxzQmFFRHA5STliMmg0XzlYRV9rdjBBMk5lTkZlb0VOY3pGUHNVOHlZc0R3SzdCOHdmcVpqUlg1ajVuR3Rvc2RkZXotUNIBzgFBVV95cUxQQUlscjc1RGNuOEI3NmZZMnNzVTY0blNzeTh6bDRRVFRnTzIya3d0U2FKai1DOE1odHlzM3VVNjQ5RUNHY05vMWliMWVlWmJnczdRVWtSR1RiUGd1Q3YwVTF5dmFUckZld2VtTlV5bUpPMWhSSVVmbmpoLTRpODVrY1k2VnNBNDVlanp3aTlGbWJJUWlNWjFqNVRtd1B4NHdNMi1zZHRzWFI4TmRUVzhIWkpFajVQWWJpTll4TFVZNGt6aEsydk9fa2JqVFpFUQ?oc=5",
-   "published": "2026-10-29T07:48:45+00:00",
-   "sector": "Shale & E&P"
-  },
-  {
-   "rank": 2,
    "ticker": "VRT",
    "company": "Vertiv Holdings, LLC",
-   "move_pct": -2.07,
-   "price": 237.9,
+   "move_pct": -2.78,
+   "price": 236.18,
    "volume": 19510700,
    "volume_vs_avg": "~4x",
-   "heat_score": 40,
+   "heat_score": 43,
    "direction": "down",
    "why": "Wells Fargo raises Vertiv stock price target on execution relief",
    "catalyst_type": "analyst_action",
