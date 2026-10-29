@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-29T23:17:07+00:00",
+  "as_of": "2026-10-29T23:32:16+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,6 +9,22 @@
  "hot_tickers": [
   {
    "rank": 1,
+   "ticker": "LNG",
+   "company": "Cheniere Energy, Inc.",
+   "move_pct": 7.19,
+   "price": 319.19,
+   "volume": 4709768,
+   "volume_vs_avg": "~3x",
+   "heat_score": 53,
+   "direction": "up",
+   "why": "Cheniere Energy, Inc. (NYSE:LNG) Declares Quarterly Dividend of $0.62",
+   "catalyst_type": "earnings",
+   "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORm5ubHNUX1RiLW9EeWdLSzZYdzNmOElaUjlpVTJJSGdDaFZYXzJsbTdoaGNyb1RnYS1yWHpWRWZYSlQ2WUNTSXpUeFpoZnlrUUc3OTdsdnFRSjBaWVVDbWljZ1p5a2tPZHNUdlZZTTg3VzR0THMxSkgtWEMyUkdvdjJxRHI1WTRFaFpsY1NlVUtrUEdUNEZod1hqZ3dma0d2SHhpRWtZZHhtTlNiUFlYWlYxaGotM2hNNGdKOEswbWQydlJJ?oc=5",
+   "published": "2026-10-29T23:07:49+00:00",
+   "sector": "Midstream & LNG"
+  },
+  {
+   "rank": 2,
    "ticker": "FTI",
    "company": "TechnipFMC plc",
    "move_pct": -6.37,
