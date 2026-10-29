@@ -1,43 +1,10 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-29T18:16:51+00:00",
+  "as_of": "2026-10-29T18:31:58+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": [
-  {
-   "rank": 1,
-   "ticker": "FTI",
-   "company": "TechnipFMC plc",
-   "move_pct": -6.22,
-   "price": 66.96,
-   "volume": 2258460,
-   "volume_vs_avg": "~0.8x",
-   "heat_score": 41,
-   "direction": "down",
-   "why": "Earnings call transcript: TechnipFMC tops Q3 2026 estimates but shares fall",
-   "catalyst_type": "earnings",
-   "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWnBxYk5JSTkzMWt3RXpJaVlCVElGM3RUUXVvTllKdHYxWlQwT3VYVTRJNVdMM0dudm5PeVZQWlU4TVBlSXU3T0d1SmdDSXRxaWdLbFRvZjFUWnc3NGZESjdXbGN3VXZ3cjRlTnFiTXlscGpFWGpJeF91bWJTSjg3LVJsTGM2c2E2S0llZmhvZWZIaFRwV2xsaDgzcWtfQURmbGdfekRIWWJXNEtmcVQ3eE85RWpNcmZlZnRHWldfZjRzQ09qVDg3VDV5bFU1RmNi?oc=5",
-   "published": "2026-10-29T14:18:18+00:00",
-   "sector": "Oilfield Services"
-  },
-  {
-   "rank": 2,
-   "ticker": "PWR",
-   "company": "Quanta Services, Inc.",
-   "move_pct": 5.11,
-   "price": 637.89,
-   "volume": 1137718,
-   "volume_vs_avg": "~1.1x",
-   "heat_score": 38,
-   "direction": "up",
-   "why": "Quanta Services Beats Big, Raises Guidance A Third Time As Backlog Jumps $10 Billion; Supply Chain Is Now The Constraint",
-   "catalyst_type": "earnings",
-   "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVkh0RGRMMl8yb05tV1Y5M016Y1BxVWhnTHVXenBFVmFIR1NuZ0NOandJWHA1QXJXZUVXMnYxMm0zWm9JT3NXdUs4aVJXYmNaNlBQdS15azlVOW5mWWNDczVRZmxlWGFscmJpMlk0cHhjSi1DZ3V4SGxmMmVydy1yNmZQWnpGOFNyNkN1Nm1aVTRjb0RLeU9XYUdDcGVkLWtvYWJkU1N1UnktYUV6MS1GWnQ5V2dTYm1xb05vTHFmWU91R2Vvb1ZKYktaRGlLRjBDTzE1RDE1YktXS1R5aFV2SmZ3?oc=5",
-   "published": "2026-10-29T17:43:13+00:00",
-   "sector": "Grid, Storage & Electrification"
-  }
- ]
+ "hot_tickers": []
 }
