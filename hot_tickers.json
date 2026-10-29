@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-29T20:13:21+00:00",
+  "as_of": "2026-10-29T20:28:32+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,16 +11,16 @@
    "rank": 1,
    "ticker": "LNG",
    "company": "Cheniere Energy, Inc.",
-   "move_pct": 7.19,
-   "price": 319.17,
-   "volume": 4217115,
-   "volume_vs_avg": "~2x",
-   "heat_score": 52,
+   "move_pct": 7.61,
+   "price": 320.42,
+   "volume": 4703059,
+   "volume_vs_avg": "~3x",
+   "heat_score": 54,
    "direction": "up",
-   "why": "Why is Cheniere Energy stock surging today?",
+   "why": "Why is Cheniere Energy stock surging today? By Investing.com",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOU2tzcWVycGtQUHl4QkdDMGFIRlVEUEFFbllTV1pBNzUxTzhlY0ZlYVRxTFdCbU92SVgteTA1UzlydzBWVWs0alJLTWRaODRrT1B2ZjJXWmExRy1IZlhPc0YyTERlRGFxZmE1TUMwNG9mZ3ZGNXpyTXphcG9aUEtjcC1nV1BkQVcxTzZVVlVGMno5UGktZC0tS2hBMXJBa3F3b0hDb3Zwaw?oc=5",
-   "published": "2026-10-29T18:44:28+00:00",
+   "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVmJvTy1vaWFwV1lFckRoT3BJSGZMM05DVXBsXzhmMGhpMlJXNU1HTTVCZDZPV2JTa0tJVVJLR0FycmNYbmhTMllOZ1NpVmJYQU5MS0h6LW9oVExJNkJKWUV6U2EwbVlDYkwxVU5wT2hJU1RLTl83ZjlrNThWdW9CYlpfdlhES1lDQnpYa1g2TE9qZnRUOWJ1X0NRVmh5Z3R6RFQyRVJB?oc=5",
+   "published": "2026-10-29T18:58:06+00:00",
    "sector": "Midstream & LNG"
   },
   {
@@ -29,15 +29,31 @@
    "company": "TechnipFMC plc",
    "move_pct": -6.23,
    "price": 66.95,
-   "volume": 3784383,
-   "volume_vs_avg": "~1.4x",
-   "heat_score": 44,
+   "volume": 4496668,
+   "volume_vs_avg": "~2x",
+   "heat_score": 45,
    "direction": "down",
    "why": "Earnings Beat Could Reshape The Case For TechnipFMC Stock",
    "catalyst_type": "earnings",
    "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRV8xOGp3SmljVjB1U2dtQ3YzejB2WFFodVkzVmFTdTFIZnN5N0xEYTBvYW9fTUtnNWJ0bDhySV9nZnJKSWVheXo3dmRGN3I2V2tUZEl2SHgySVh1ajE4RTZsb0VBREtYWHNrQ29oVDNlbk5waW9wbUJXaDRydDg4R0ZiM0ZwYVhGLW1ZY0dRaU93bGNQU3A0UGlfV0Njdw?oc=5",
    "published": "2026-10-29T19:12:09+00:00",
    "sector": "Oilfield Services"
+  },
+  {
+   "rank": 3,
+   "ticker": "FSLR",
+   "company": "First Solar, Inc.",
+   "move_pct": -5.22,
+   "price": 167.1,
+   "volume": 2074775,
+   "volume_vs_avg": "~0.9x",
+   "heat_score": 38,
+   "direction": "down",
+   "why": "First Solar (FSLR) Faces Interest Rate Pressure Despite Strong Margins and Backlog, Ariel Global Fund Says",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNanZTb1dOZmtjYTc0SnJiSFR4THF0akswblBIUzlCTXVTcUkxclVQYTZadzlNVWFEeDE1Vkt3ZzdUQjhaUjgwSVJDazMtZ0xraUNyRldLdXEzSGhBWk9YUFdNQUFTckltaFczTktvcjJ3RWlubTZuQmRjN1AycHFHT3BLRGdiS0M3UnVzOTI1MHV5STJrZnZmYWJjMXE?oc=5",
+   "published": "2026-10-29T16:56:37+00:00",
+   "sector": "Renewables & Solar"
   }
  ]
 }
