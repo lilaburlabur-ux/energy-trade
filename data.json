@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-10-29T23:54:12+00:00",
-  "as_of_local": "2026-10-29 23:54:12 UTC",
+  "as_of_utc": "2026-10-29T23:59:25+00:00",
+  "as_of_local": "2026-10-29 23:59:25 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "PSX"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -119,15 +121,6 @@
       "previous_close": 91.52,
       "change_pct": 1.61,
       "market_cap": 106972249750.89958,
-      "headlines": []
-    },
-    {
-      "symbol": "PSX",
-      "name": "Phillips 66",
-      "price": 273.61,
-      "previous_close": 273.76,
-      "change_pct": -0.05,
-      "market_cap": 106727693252.86938,
       "headlines": []
     },
     {
@@ -674,8 +667,8 @@
           "name": "Phillips 66",
           "short": "Phillips",
           "weight_pct": 4.64,
-          "change_pct": -0.05,
-          "price": 273.61,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -773,8 +766,8 @@
         "name": "Phillips 66",
         "short": "Phillips",
         "weight_pct": 4.64,
-        "change_pct": -0.05,
-        "price": 273.61,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -823,18 +816,18 @@
     },
     {
       "label": "WTI",
-      "price": 102.63,
-      "change_pct": -0.15
+      "price": 102.76,
+      "change_pct": -0.02
     },
     {
       "label": "Brent",
-      "price": 111.42,
-      "change_pct": -3.38
+      "price": 111.41,
+      "change_pct": -3.39
     },
     {
       "label": "NatGas",
-      "price": 2.89,
-      "change_pct": 2.77
+      "price": 2.9,
+      "change_pct": 2.8
     }
   ]
 }
