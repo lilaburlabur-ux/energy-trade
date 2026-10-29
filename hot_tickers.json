@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-29T21:20:35+00:00",
+  "as_of": "2026-10-29T21:35:44+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,11 +11,11 @@
    "rank": 1,
    "ticker": "LNG",
    "company": "Cheniere Energy, Inc.",
-   "move_pct": 7.21,
-   "price": 319.25,
+   "move_pct": 7.47,
+   "price": 320.0,
    "volume": 4709768,
    "volume_vs_avg": "~3x",
-   "heat_score": 53,
+   "heat_score": 54,
    "direction": "up",
    "why": "Why is Cheniere Energy stock surging today? By Investing.com",
    "catalyst_type": "momentum_narrative",
@@ -33,10 +33,10 @@
    "volume_vs_avg": "~2x",
    "heat_score": 45,
    "direction": "down",
-   "why": "TechnipFMC 2026: Revenue $2.9B, Net income $418.4M, EPS $1.05\u2014 10-Q Summary",
-   "catalyst_type": "earnings",
-   "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTWtsNHRoSHRxZ3VkU2syM3JCTVVHM1ZhUGpZd1JOcU5aTy1FbFZfZk1RbWkzbzJnc2NndjlwTVE0dUpDakl2OFMxVG5KMU1FQ0tIWEhXa2g5OERzc3IwZWY5WUZfSHZZbnMzbUtEWDVKdmNDaFRLaHc0TGtnY3Q3QzZuaU93elF1VTl2ZG1VMDhRVFFzOW52X19jQlp6RFRJWnVra294Z0lJYnlubG1uM0x3Mm1fYnM4cU1YSkpnS0RDYUlQUDNteUJ3?oc=5",
-   "published": "2026-10-29T20:11:03+00:00",
+   "why": "TechnipFMC (FTI) withholds 65,314 shares for taxes after its CTO\u2019s performance award vests.",
+   "catalyst_type": "contract_win",
+   "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ1ZzTEtQOGVRUG9FSDVjU2NSY1Y3dHBEc3duWUNOWHpXS1ZPTE5tc2ZEQm1LS0xWUjdNUVd5UGtzMHNKaF80V05JV3RmMTd2Tks3Znk5WFVKTXY3cEl5RWMzSzZrWFBBMUJmSTNLZFpwak8zYzlaRmpMX2JKT2lpdnlXNXg2WDFzNlNZNHpjaHYyWGRad1FQbExQUUFhUXVKX05wb0RzNWxjNXB2?oc=5",
+   "published": "2026-10-29T21:16:46+00:00",
    "sector": "Oilfield Services"
   }
  ]
