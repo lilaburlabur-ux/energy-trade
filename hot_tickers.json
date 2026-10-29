@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-29T00:24:02+00:00",
+  "as_of": "2026-10-29T00:39:10+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -57,22 +57,6 @@
   },
   {
    "rank": 4,
-   "ticker": "BKR",
-   "company": "Baker Hughes Company",
-   "move_pct": 5.34,
-   "price": 59.0,
-   "volume": 17243444,
-   "volume_vs_avg": "~2x",
-   "heat_score": 45,
-   "direction": "up",
-   "why": "Baker Hughes Co. stock underperforms Wednesday when compared to competitors",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPOVF5bzJodHk4VkNPUExvUFVlWDBCUFFtTk9YR052WWhpMWdobGlDbDEtYVFoTmx4QWVIN2x5em5Ldl9KOGJ2RVFOeHRGUEltTE01U2ZnTHVzU3FFR0lhWjlieXIyTllPU2dfUWI3b2tsSy1rY1hZLWVrd0VKZVRBeDNQUFlyVkQ3cjFwXzNZRFhHV2xuNEJhVFAtTVd3Q3A5NGkxNVZBSlBxMV9pbHdLMEszRU1mNV9FVEFsTDd0M2I2SHRvbVVON2k2RHpmTVU?oc=5",
-   "published": "2026-10-28T20:30:00+00:00",
-   "sector": "Oilfield Services"
-  },
-  {
-   "rank": 5,
    "ticker": "PSX",
    "company": "Phillips 66",
    "move_pct": -7.03,
@@ -81,10 +65,10 @@
    "volume_vs_avg": "~1.1x",
    "heat_score": 45,
    "direction": "down",
-   "why": "Phillips 66 (PSX) Stock Shrugs Off Q3 Earnings Surge As Risks Persist",
+   "why": "What Phillips 66 (PSX) Said on Its Q3 Earnings Call",
    "catalyst_type": "earnings",
-   "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQb0dQejhiSTVNcVppdGgtN3Q3dUVYY09rbmRrUUlDMDZydXJ6WllscHZ5eHJrcjBQb0gyazFwYWZySUg5SExyQU1WVkdPQXlmYlBGRU1INTdJWGFTeEtWQ24zQWR3dmhmUTFZQW84U2xPcDFJdWY1SW83NlFWWFdDRkU0dTEzQi1GYXhlTy1PU3VHRUVvdVJqQUZTV0tfeEJfUU5HTlhIN3VMUzN2TkhhWVlZaU1GY213RDgydV9Vb2Fld9IBxwFBVV95cUxOS1NTRjB0NDdJVkRDcHRNRFAwZS1EaVJBbjFyNHh0TEVDXy1tc3dXMEh5V01BTng2alFWSEcycEk4Tzg2TUEzUV90UC0wazlVcG93T1psWXVhM0M4c2gtcXc0MWVXYXNWbFpsSVFMQzBOdHBWVDdzUmlqNGdJMFhmZkhHZmVPR1ZvUHViVG5ZYi1NMVdoQzl2X1NzYzBnUUtCdm5mZGE5WnpwVDFEa2NEaU5rT2NwTkhIX2tDNU1SNDI3QUYySDdV?oc=5",
-   "published": "2026-10-28T22:24:34+00:00",
+   "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNc0E3TUxhZkdBRk44Tmh0TkdDNGZYV09pSXdMTS1WQzdtME9IaXItdGRNYTd4MVZVbGRqcVdEU3BXUi1xOVJ1SXF1UUJydnkxbDM1T2NIam1LSGl3M0ZKaUNjMWV4MGR2OFNEVklQYkFGbjBTdHZMeVhHY2pFRURoQnNUS2s5RDA?oc=5",
+   "published": "2026-10-28T21:04:22+00:00",
    "sector": "Refining & Downstream"
   }
  ]
