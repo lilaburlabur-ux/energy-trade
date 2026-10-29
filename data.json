@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-10-29T00:44:55+00:00",
-  "as_of_local": "2026-10-29 00:44:55 UTC",
+  "as_of_utc": "2026-10-29T00:49:51+00:00",
+  "as_of_local": "2026-10-29 00:49:51 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "OKLO"
+    "OKE"
   ],
   "stocks": [
     {
@@ -277,15 +277,6 @@
       "headlines": []
     },
     {
-      "symbol": "OKE",
-      "name": "ONEOK",
-      "price": 96.01,
-      "previous_close": 96.36,
-      "change_pct": -0.36,
-      "market_cap": 59598886051.62,
-      "headlines": []
-    },
-    {
       "symbol": "FANG",
       "name": "Diamondback Energy",
       "price": 204.48,
@@ -517,6 +508,15 @@
       "previous_close": 8.33,
       "change_pct": 5.64,
       "market_cap": 5994324542.94,
+      "headlines": []
+    },
+    {
+      "symbol": "OKLO",
+      "name": "Oklo",
+      "price": 27.33,
+      "previous_close": 25.94,
+      "change_pct": 5.36,
+      "market_cap": 5044798668.0,
       "headlines": []
     },
     {
@@ -816,18 +816,18 @@
     },
     {
       "label": "WTI",
-      "price": 102.08,
-      "change_pct": 2.18
+      "price": 102.07,
+      "change_pct": 2.17
     },
     {
       "label": "Brent",
-      "price": 110.79,
-      "change_pct": -2.71
+      "price": 110.76,
+      "change_pct": -2.74
     },
     {
       "label": "NatGas",
       "price": 3.01,
-      "change_pct": 11.61
+      "change_pct": 11.64
     }
   ]
 }
