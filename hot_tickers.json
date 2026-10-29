@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-29T17:56:30+00:00",
+  "as_of": "2026-10-29T18:01:44+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,27 +9,11 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "LNG",
-   "company": "Cheniere Energy, Inc.",
-   "move_pct": 5.88,
-   "price": 315.29,
-   "volume": 2719303,
-   "volume_vs_avg": "~1.5x",
-   "heat_score": 43,
-   "direction": "up",
-   "why": "Cheniere Energy's (LNG) \"Outperform\" Rating Reaffirmed at Sanford C. Bernstein",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOaGN2QTJ5ako5dkZuWmNYeGctYmZ0Mm14YmkxT21aSDlrZzd3YVk1Nlhzem9TUGxWM2FxbnpIUFV6SnBJbWV0WXFlZ1ZNR3hMTk1WTXo3bF9rVWtRa0pzSGtWS1BnaHNzemVqM00zZnVfQUNVS3ZaOGZxLVZzT2RzOHZNcldGSHJWOTIzSGYxZ0hwYzk1UVVZMlZvY0d4d0pRdGRsNHJDbEpEejVBZXlIRUR1VFM0NWZkR2xIaHJVcnhwVTI0dHRtUjRneHJyc1k?oc=5",
-   "published": "2026-10-29T14:00:52+00:00",
-   "sector": "Midstream & LNG"
-  },
-  {
-   "rank": 2,
    "ticker": "FTI",
    "company": "TechnipFMC plc",
-   "move_pct": -5.71,
-   "price": 67.32,
-   "volume": 2129742,
+   "move_pct": -5.69,
+   "price": 67.34,
+   "volume": 2159169,
    "volume_vs_avg": "~0.8x",
    "heat_score": 39,
    "direction": "down",
@@ -40,12 +24,12 @@
    "sector": "Oilfield Services"
   },
   {
-   "rank": 3,
+   "rank": 2,
    "ticker": "PWR",
    "company": "Quanta Services, Inc.",
-   "move_pct": 5.46,
-   "price": 640.0,
-   "volume": 1089258,
+   "move_pct": 5.5,
+   "price": 640.27,
+   "volume": 1109147,
    "volume_vs_avg": "~1.0x",
    "heat_score": 39,
    "direction": "up",
