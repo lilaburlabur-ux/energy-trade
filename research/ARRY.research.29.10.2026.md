@@ -5,7 +5,7 @@ Signed file: `ARRY.research.29.10.2026`
 | Field | Value |
 |---|---|
 | Current price | $nan (2026-10-29, ~15-min delayed) |
-| Market cap | $547.62M |
+| Market cap | $548.27M |
 | Sector / Industry | Technology / Solar |
 | Main theme | Solar — see catalysts below |
 | Current stance | Moderate technical momentum, weak fundamentals, value: reasonable, risk: high. |
@@ -60,7 +60,7 @@ Array Technologies, Inc. engages in the manufacture and sale of solar tracking t
 | Profitability | Gross 26.76%, operating 10.88%, net -7.25% | ROA 3.33%, ROE -25.98% |
 | Balance sheet | Cash $307.30M, debt $752.89M | Current ratio 2.20, debt/equity 254.27 |
 | Valuation | P/E —, forward P/E 3.82, P/S 0.46, P/B -2.71 | EV/Sales 1.26, EV/EBITDA 12.50 |
-| Growth expectations | Earnings growth -73.20%, EPS q/q -43.70% | Analyst mean target $7.26 (22 analysts) |
+| Growth expectations | Earnings growth -73.20%, EPS q/q -43.70% | Analyst mean target $6.94 (22 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
@@ -104,7 +104,7 @@ Array Technologies, Inc. engages in the manufacture and sale of solar tracking t
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $nan | EV/Sales | 1.26 |
-| Market cap | $547.62M | EV/EBITDA | 12.50 |
+| Market cap | $548.27M | EV/EBITDA | 12.50 |
 | Beta | 1.81 | Gross margin | 26.76% |
 | RSI(14) | 40.9 | Operating margin | 10.88% |
 | ATR(14) | 0.21 | Profit margin | -7.25% |

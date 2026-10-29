@@ -59,7 +59,7 @@ Permian Resources Corporation, an independent oil and natural gas company, focus
 | Revenue (ttm) | $5.74B | Revenue growth 55.10% y/y |
 | Profitability | Gross 75.85%, operating 57.44%, net 21.52% | ROA 7.54%, ROE 11.40% |
 | Balance sheet | Cash $131.72M, debt $3.15B | Current ratio 0.62, debt/equity 26.25 |
-| Valuation | P/E 17.01, forward P/E 10.43, P/S 3.73, P/B 1.78 | EV/Sales 4.25, EV/EBITDA 5.73 |
+| Valuation | P/E 16.79, forward P/E 10.43, P/S 3.73, P/B 1.78 | EV/Sales 4.25, EV/EBITDA 5.73 |
 | Growth expectations | Earnings growth 232.90%, EPS q/q 282.60% | Analyst mean target $28.62 (21 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -110,7 +110,7 @@ Permian Resources Corporation, an independent oil and natural gas company, focus
 | SMA200 dist | +nan% | Revenue (ttm) | $5.74B |
 | 52W high | $25.77 | Revenue growth y/y | 55.10% |
 | 52W low | $11.72 | Inst. ownership | 92.88% |
-| P/E (ttm) | 17.01 | Insider ownership | 4.61% |
+| P/E (ttm) | 16.79 | Insider ownership | 4.61% |
 | Forward P/E | 10.43 | Short float | 3.82% |
 | PEG (trailing) | 0.93 | Avg volume | 9,515,339 |
 | P/S | 3.73 | Employees | 515 |

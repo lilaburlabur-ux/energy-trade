@@ -18,7 +18,7 @@ Signed file: `SHEL.research.29.10.2026`
 | Technical momentum | Moderate | 1Y +44.49%; price +20.89% vs SMA200. |
 | Fresh setup quality | Watch | -2.76% from 52w high and near SMA20 — check for a tight base. |
 | Fundamental quality | Mixed | Profit margin 8.76%, revenue growth 44.70%. |
-| Value attractiveness | Reasonable | Forward P/E 9.60, EV/Sales 1.13. |
+| Value attractiveness | Reasonable | Forward P/E 10.03, EV/Sales 1.13. |
 | Risk level | Moderate | Beta -0.19, ATR 1.7% of price, short float 1.22%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -59,7 +59,7 @@ Shell plc operates as an energy and petrochemical company in Europe, Asia, Ocean
 | Revenue (ttm) | $296.60B | Revenue growth 44.70% y/y |
 | Profitability | Gross 26.09%, operating 16.69%, net 8.76% | ROA 6.40%, ROE 14.34% |
 | Balance sheet | Cash $31.37B, debt $73.08B | Current ratio 1.44, debt/equity 40.20 |
-| Valuation | P/E 11.61, forward P/E 9.60, P/S 1.01, P/B 1.62 | EV/Sales 1.13, EV/EBITDA 5.83 |
+| Valuation | P/E 11.61, forward P/E 10.03, P/S 1.01, P/B 1.62 | EV/Sales 1.13, EV/EBITDA 5.83 |
 | Growth expectations | Earnings growth 220.00%, EPS q/q 200.50% | Analyst mean target $105.56 (15 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -112,7 +112,7 @@ Shell plc operates as an energy and petrochemical company in Europe, Asia, Ocean
 | 52W high | $108.18 | Revenue growth y/y | 44.70% |
 | 52W low | $68.43 | Inst. ownership | 13.47% |
 | P/E (ttm) | 11.61 | Insider ownership | 0.01% |
-| Forward P/E | 9.60 | Short float | 1.22% |
+| Forward P/E | 10.03 | Short float | 1.22% |
 | PEG (trailing) | 1.70 | Avg volume | 6,228,661 |
 | P/S | 1.01 | Employees | 84,000 |
 | P/B | 1.62 | Analyst rec (1=buy..5=sell) | 2.2 |

@@ -5,7 +5,7 @@ Signed file: `MPLX.research.29.10.2026`
 | Field | Value |
 |---|---|
 | Current price | $nan (2026-10-29, ~15-min delayed) |
-| Market cap | $59.75B |
+| Market cap | $59.80B |
 | Sector / Industry | Energy / Oil & Gas Midstream |
 | Main theme | Oil & Gas Midstream — see catalysts below |
 | Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate. |
@@ -59,7 +59,7 @@ MPLX LP owns and operates midstream energy infrastructure and logistics assets p
 | Revenue (ttm) | $12.03B | Revenue growth 10.60% y/y |
 | Profitability | Gross 55.71%, operating 38.25%, net 39.28% | ROA 7.25%, ROE 33.69% |
 | Balance sheet | Cash $1.03B, debt $26.13B | Current ratio 0.89, debt/equity 183.36 |
-| Valuation | P/E 12.67, forward P/E 12.31, P/S 4.96, P/B 4.26 | EV/Sales 7.07, EV/EBITDA 13.92 |
+| Valuation | P/E 12.49, forward P/E 12.31, P/S 4.97, P/B 4.26 | EV/Sales 7.07, EV/EBITDA 13.92 |
 | Growth expectations | Earnings growth 3.20%, EPS q/q 2.80% | Analyst mean target $62.92 (13 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -101,7 +101,7 @@ MPLX LP owns and operates midstream energy infrastructure and logistics assets p
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $nan | EV/Sales | 7.07 |
-| Market cap | $59.75B | EV/EBITDA | 13.92 |
+| Market cap | $59.80B | EV/EBITDA | 13.92 |
 | Beta | 0.48 | Gross margin | 55.71% |
 | RSI(14) | 51.1 | Operating margin | 38.25% |
 | ATR(14) | 1.03 | Profit margin | 39.28% |
@@ -110,10 +110,10 @@ MPLX LP owns and operates midstream energy infrastructure and logistics assets p
 | SMA200 dist | +nan% | Revenue (ttm) | $12.03B |
 | 52W high | $60.23 | Revenue growth y/y | 10.60% |
 | 52W low | $46.52 | Inst. ownership | 19.67% |
-| P/E (ttm) | 12.67 | Insider ownership | 64.03% |
+| P/E (ttm) | 12.49 | Insider ownership | 64.03% |
 | Forward P/E | 12.31 | Short float | 1.77% |
 | PEG (trailing) | 3.05 | Avg volume | 1,345,750 |
-| P/S | 4.96 | Employees | 0 |
+| P/S | 4.97 | Employees | 0 |
 | P/B | 4.26 | Analyst rec (1=buy..5=sell) | 2.4 |
 
 ## 8. Analyst Actions

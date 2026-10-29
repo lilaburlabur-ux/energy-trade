@@ -5,7 +5,7 @@ Signed file: `MPC.research.29.10.2026`
 | Field | Value |
 |---|---|
 | Current price | $nan (2026-10-29, ~15-min delayed) |
-| Market cap | $123.78B |
+| Market cap | $128.68B |
 | Sector / Industry | Energy / Oil & Gas Refining & Marketing |
 | Main theme | Oil & Gas Refining & Marketing — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -59,7 +59,7 @@ Marathon Petroleum Corporation, together with its subsidiaries, operates as an i
 | Revenue (ttm) | $154.15B | Revenue growth 53.70% y/y |
 | Profitability | Gross 12.82%, operating 13.56%, net 5.55% | ROA 8.74%, ROE 42.10% |
 | Balance sheet | Cash $7.77B, debt $34.29B | Current ratio 1.25, debt/equity 133.33 |
-| Valuation | P/E 15.26, forward P/E 7.31, P/S 0.80, P/B 6.54 | EV/Sales 1.02, EV/EBITDA 10.19 |
+| Valuation | P/E 15.09, forward P/E 7.31, P/S 0.83, P/B 6.54 | EV/Sales 1.02, EV/EBITDA 10.19 |
 | Growth expectations | Earnings growth 348.00%, EPS q/q 322.50% | Analyst mean target $458.72 (18 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -101,7 +101,7 @@ Marathon Petroleum Corporation, together with its subsidiaries, operates as an i
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $nan | EV/Sales | 1.02 |
-| Market cap | $123.78B | EV/EBITDA | 10.19 |
+| Market cap | $128.68B | EV/EBITDA | 10.19 |
 | Beta | 0.54 | Gross margin | 12.82% |
 | RSI(14) | 47.5 | Operating margin | 13.56% |
 | ATR(14) | 18.18 | Profit margin | 5.55% |
@@ -110,10 +110,10 @@ Marathon Petroleum Corporation, together with its subsidiaries, operates as an i
 | SMA200 dist | +nan% | Revenue (ttm) | $154.15B |
 | 52W high | $484.92 | Revenue growth y/y | 53.70% |
 | 52W low | $160.76 | Inst. ownership | 79.72% |
-| P/E (ttm) | 15.26 | Insider ownership | 0.33% |
+| P/E (ttm) | 15.09 | Insider ownership | 0.33% |
 | Forward P/E | 7.31 | Short float | 2.96% |
 | PEG (trailing) | 1.01 | Avg volume | 2,499,528 |
-| P/S | 0.80 | Employees | 18,500 |
+| P/S | 0.83 | Employees | 18,500 |
 | P/B | 6.54 | Analyst rec (1=buy..5=sell) | 2.4 |
 
 ## 8. Analyst Actions

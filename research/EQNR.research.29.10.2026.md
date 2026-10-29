@@ -59,7 +59,7 @@ Equinor ASA operates as an energy company in Norway and internationally. It oper
 | Revenue (ttm) | $113.65B | Revenue growth 37.40% y/y |
 | Profitability | Gross 40.13%, operating 36.11%, net 7.97% | ROA 14.52%, ROE 21.27% |
 | Balance sheet | Cash $23.73B, debt $32.42B | Current ratio 1.18, debt/equity 75.16 |
-| Valuation | P/E 13.02, forward P/E 10.02, P/S 0.99, P/B 2.95 | EV/Sales 2.09, EV/EBITDA 5.67 |
+| Valuation | P/E 12.85, forward P/E 10.02, P/S 0.99, P/B 2.95 | EV/Sales 2.09, EV/EBITDA 5.67 |
 | Growth expectations | Earnings growth 298.00%, EPS q/q 269.20% | Analyst mean target $39.29 (7 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -110,7 +110,7 @@ Equinor ASA operates as an energy company in Norway and internationally. It oper
 | SMA200 dist | +nan% | Revenue (ttm) | $113.65B |
 | 52W high | $48.82 | Revenue growth y/y | 37.40% |
 | 52W low | $21.68 | Inst. ownership | 6.93% |
-| P/E (ttm) | 13.02 | Insider ownership | 0.00% |
+| P/E (ttm) | 12.85 | Insider ownership | 0.00% |
 | Forward P/E | 10.02 | Short float | 2.85% |
 | PEG (trailing) | 1.18 | Avg volume | 3,556,595 |
 | P/S | 0.99 | Employees | 23,545 |

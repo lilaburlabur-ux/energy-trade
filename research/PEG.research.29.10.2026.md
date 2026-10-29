@@ -5,7 +5,7 @@ Signed file: `PEG.research.29.10.2026`
 | Field | Value |
 |---|---|
 | Current price | $nan (2026-10-29, ~15-min delayed) |
-| Market cap | $36.12B |
+| Market cap | $36.11B |
 | Sector / Industry | Utilities / Utilities - Regulated Electric |
 | Main theme | Utilities - Regulated Electric — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -59,7 +59,7 @@ Public Service Enterprise Group Incorporated, through its subsidiaries, operates
 | Revenue (ttm) | $12.54B | Revenue growth -8.90% y/y |
 | Profitability | Gross 33.33%, operating 18.87%, net 16.04% | ROA 3.24%, ROE 11.83% |
 | Balance sheet | Cash $192.00M, debt $24.68B | Current ratio 0.88, debt/equity 142.41 |
-| Valuation | P/E 18.03, forward P/E 15.60, P/S 2.88, P/B 2.08 | EV/Sales 4.83, EV/EBITDA 13.58 |
+| Valuation | P/E 18.12, forward P/E 15.60, P/S 2.88, P/B 2.08 | EV/Sales 4.83, EV/EBITDA 13.58 |
 | Growth expectations | Earnings growth -42.70%, EPS q/q -42.90% | Analyst mean target $81.42 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -101,7 +101,7 @@ Public Service Enterprise Group Incorporated, through its subsidiaries, operates
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $nan | EV/Sales | 4.83 |
-| Market cap | $36.12B | EV/EBITDA | 13.58 |
+| Market cap | $36.11B | EV/EBITDA | 13.58 |
 | Beta | 0.52 | Gross margin | 33.33% |
 | RSI(14) | 60.0 | Operating margin | 18.87% |
 | ATR(14) | 1.27 | Profit margin | 16.04% |
@@ -110,7 +110,7 @@ Public Service Enterprise Group Incorporated, through its subsidiaries, operates
 | SMA200 dist | +nan% | Revenue (ttm) | $12.54B |
 | 52W high | $84.74 | Revenue growth y/y | -8.90% |
 | 52W low | $66.56 | Inst. ownership | 79.56% |
-| P/E (ttm) | 18.03 | Insider ownership | 0.13% |
+| P/E (ttm) | 18.12 | Insider ownership | 0.13% |
 | Forward P/E | 15.60 | Short float | 2.04% |
 | PEG (trailing) | 3.44 | Avg volume | 3,396,865 |
 | P/S | 2.88 | Employees | 13,189 |

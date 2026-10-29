@@ -18,7 +18,7 @@ Signed file: `GEV.research.29.10.2026`
 | Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
 | Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 23.04%, revenue growth 21.90%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 34.85, EV/Sales 5.57. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 34.73, EV/Sales 5.57. |
 | Risk level | Moderate | Beta 0.97, ATR nan% of price, short float 2.77%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: fair-to-demanding, risk: moderate.
@@ -59,7 +59,7 @@ GE Vernova Inc., an energy company, engages in the provision of various products
 | Revenue (ttm) | $41.37B | Revenue growth 21.90% y/y |
 | Profitability | Gross 20.57%, operating 7.47%, net 23.04% | ROA 2.54%, ROE 82.58% |
 | Balance sheet | Cash $12.72B, debt $3.72B | Current ratio 0.85, debt/equity 28.36 |
-| Valuation | P/E 25.17, forward P/E 34.85, P/S 5.65, P/B 19.56 | EV/Sales 5.57, EV/EBITDA 58.71 |
+| Valuation | P/E 25.17, forward P/E 34.73, P/S 5.65, P/B 21.17 | EV/Sales 5.57, EV/EBITDA 58.71 |
 | Growth expectations | Earnings growth 32.80%, EPS q/q 30.00% | Analyst mean target $1,216.91 (33 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -86,7 +86,7 @@ GE Vernova Inc., an energy company, engages in the provision of various products
 | Fisher Asset Management, LLC | 3,559,479 | 1.34% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 34.85, EV/Sales 5.57. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 34.73, EV/Sales 5.57. Multiple compression is the main downside if growth disappoints.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -112,10 +112,10 @@ GE Vernova Inc., an energy company, engages in the provision of various products
 | 52W high | $1,174.17 | Revenue growth y/y | 21.90% |
 | 52W low | $546.63 | Inst. ownership | 81.58% |
 | P/E (ttm) | 25.17 | Insider ownership | 0.13% |
-| Forward P/E | 34.85 | Short float | 2.77% |
+| Forward P/E | 34.73 | Short float | 2.77% |
 | PEG (trailing) | 1.76 | Avg volume | 2,306,428 |
 | P/S | 5.65 | Employees | 78,000 |
-| P/B | 19.56 | Analyst rec (1=buy..5=sell) | 1.5 |
+| P/B | 21.17 | Analyst rec (1=buy..5=sell) | 1.5 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

@@ -59,7 +59,7 @@ BWX Technologies, Inc. manufactures and sells nuclear components in the United S
 | Revenue (ttm) | $3.51B | Revenue growth 18.00% y/y |
 | Profitability | Gross 22.08%, operating 10.39%, net 10.11% | ROA 5.53%, ROE 28.29% |
 | Balance sheet | Cash $608.20M, debt $2.02B | Current ratio 2.40, debt/equity 151.40 |
-| Valuation | P/E 34.96, forward P/E 25.78, P/S 3.52, P/B 9.27 | EV/Sales 3.92, EV/EBITDA 28.91 |
+| Valuation | P/E 34.69, forward P/E 25.78, P/S 3.52, P/B 9.27 | EV/Sales 3.92, EV/EBITDA 28.91 |
 | Growth expectations | Earnings growth 14.10%, EPS q/q 13.60% | Analyst mean target $209.44 (16 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -111,7 +111,7 @@ BWX Technologies, Inc. manufactures and sells nuclear components in the United S
 | SMA200 dist | +nan% | Revenue (ttm) | $3.51B |
 | 52W high | $237.73 | Revenue growth y/y | 18.00% |
 | 52W low | $127.19 | Inst. ownership | 94.62% |
-| P/E (ttm) | 34.96 | Insider ownership | 0.35% |
+| P/E (ttm) | 34.69 | Insider ownership | 0.35% |
 | Forward P/E | 25.78 | Short float | 4.64% |
 | PEG (trailing) | — | Avg volume | 1,121,820 |
 | P/S | 3.52 | Employees | 11,000 |
