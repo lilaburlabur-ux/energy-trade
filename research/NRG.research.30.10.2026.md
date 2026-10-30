@@ -4,8 +4,8 @@ Signed file: `NRG.research.30.10.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $95.28 (2026-10-30, ~15-min delayed) |
-| Market cap | $20.03B |
+| Current price | $96.06 (2026-10-30, ~15-min delayed) |
+| Market cap | $20.19B |
 | Sector / Industry | Utilities / Utilities - Independent Power Producers |
 | Main theme | Utilities - Independent Power Producers — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
@@ -15,11 +15,11 @@ Signed file: `NRG.research.30.10.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-29.29%) with negative half-year (-37.66%). |
-| Fresh setup quality | Poor / broken | -47.88% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-28.72%) with negative half-year (-37.15%). |
+| Fresh setup quality | Poor / broken | -47.46% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 2.56%, revenue growth 11.00%. |
-| Value attractiveness | Reasonable | Forward P/E 9.03, EV/Sales 1.34. |
-| Risk level | Elevated | Beta 1.16, ATR 4.4% of price, short float 3.80%. |
+| Value attractiveness | Reasonable | Forward P/E 9.11, EV/Sales 1.34. |
+| Risk level | Elevated | Beta 1.16, ATR 4.3% of price, short float 3.80%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
 
@@ -35,22 +35,22 @@ NRG Energy, Inc., together with its subsidiaries, operates as an energy and home
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $95.28; 52w high $182.82 (-47.88%); 52w low $92.31 (+3.22%) |
-| Trend | -29.29% vs SMA200, -8.86% vs SMA50, -5.04% vs SMA20 |
-| Momentum | RSI(14) 41.5 (neutral) |
-| Volatility | ATR(14) 4.15 (~4.4% of price); beta 1.16 |
-| Setup perspective | -47.88% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $96.06; 52w high $182.82 (-47.46%); 52w low $92.31 (+4.06%) |
+| Trend | -28.72% vs SMA200, -8.13% vs SMA50, -4.30% vs SMA20 |
+| Momentum | RSI(14) 42.6 (neutral) |
+| Volatility | ATR(14) 4.15 (~4.3% of price); beta 1.16 |
+| Setup perspective | -47.46% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +3.2% |
-| Month | -1.7% |
-| Quarter | -31.2% |
-| Half Y | -37.7% |
-| 1Y | -46.0% |
-| YTD | -42.1% |
+| Week | +4.1% |
+| Month | -0.9% |
+| Quarter | -30.6% |
+| Half Y | -37.1% |
+| 1Y | -45.5% |
+| YTD | -41.6% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -59,7 +59,7 @@ NRG Energy, Inc., together with its subsidiaries, operates as an energy and home
 | Revenue (ttm) | $33.12B | Revenue growth 11.00% y/y |
 | Profitability | Gross 18.80%, operating 12.77%, net 2.56% | ROA 4.06%, ROE 23.77% |
 | Balance sheet | Cash $162.00M, debt $23.47B | Current ratio 0.97, debt/equity 483.36 |
-| Valuation | P/E 24.94, forward P/E 9.03, P/S 0.60, P/B 4.77 | EV/Sales 1.34, EV/EBITDA 13.67 |
+| Valuation | P/E 25.15, forward P/E 9.11, P/S 0.61, P/B 4.80 | EV/Sales 1.34, EV/EBITDA 13.67 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $172.56 (18 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -86,7 +86,7 @@ NRG Energy, Inc., together with its subsidiaries, operates as an energy and home
 | Millennium Management Llc | 4,257,712 | 2.02% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.16, ATR 4.4% of price, short float 3.80%. Size positions accordingly.
+- **Volatility risk:** Beta 1.16, ATR 4.3% of price, short float 3.80%. Size positions accordingly.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -102,21 +102,21 @@ NRG Energy, Inc., together with its subsidiaries, operates as an energy and home
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $95.28 | EV/Sales | 1.34 |
-| Market cap | $20.03B | EV/EBITDA | 13.67 |
+| Price | $96.06 | EV/Sales | 1.34 |
+| Market cap | $20.19B | EV/EBITDA | 13.67 |
 | Beta | 1.16 | Gross margin | 18.80% |
-| RSI(14) | 41.5 | Operating margin | 12.77% |
+| RSI(14) | 42.6 | Operating margin | 12.77% |
 | ATR(14) | 4.15 | Profit margin | 2.56% |
-| SMA20 dist | -5.04% | ROA | 4.06% |
-| SMA50 dist | -8.86% | ROE | 23.77% |
-| SMA200 dist | -29.29% | Revenue (ttm) | $33.12B |
+| SMA20 dist | -4.30% | ROA | 4.06% |
+| SMA50 dist | -8.13% | ROE | 23.77% |
+| SMA200 dist | -28.72% | Revenue (ttm) | $33.12B |
 | 52W high | $182.82 | Revenue growth y/y | 11.00% |
 | 52W low | $92.31 | Inst. ownership | 95.17% |
-| P/E (ttm) | 24.94 | Insider ownership | 4.46% |
-| Forward P/E | 9.03 | Short float | 3.80% |
+| P/E (ttm) | 25.15 | Insider ownership | 4.46% |
+| Forward P/E | 9.11 | Short float | 3.80% |
 | PEG (trailing) | 0.41 | Avg volume | 3,083,790 |
-| P/S | 0.60 | Employees | 16,702 |
-| P/B | 4.77 | Analyst rec (1=buy..5=sell) | 1.5 |
+| P/S | 0.61 | Employees | 16,702 |
+| P/B | 4.80 | Analyst rec (1=buy..5=sell) | 1.5 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

@@ -4,8 +4,8 @@ Signed file: `CEG.research.30.10.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $260.14 (2026-10-30, ~15-min delayed) |
-| Market cap | $92.17B |
+| Current price | $260.76 (2026-10-30, ~15-min delayed) |
+| Market cap | $92.39B |
 | Sector / Industry | Utilities / Utilities - Independent Power Producers |
 | Main theme | Utilities - Independent Power Producers — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
@@ -15,10 +15,10 @@ Signed file: `CEG.research.30.10.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-6.91%) with negative half-year (-15.22%). |
-| Fresh setup quality | Poor / broken | -31.60% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-6.69%) with negative half-year (-15.02%). |
+| Fresh setup quality | Poor / broken | -31.44% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 11.08%, revenue growth 23.00%. |
-| Value attractiveness | Reasonable | Forward P/E 19.45, EV/Sales 3.78. |
+| Value attractiveness | Reasonable | Forward P/E 19.49, EV/Sales 3.78. |
 | Risk level | Elevated | Beta 1.13, ATR 4.6% of price, short float 3.75%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
@@ -35,22 +35,22 @@ Constellation Energy Corporation produces and sells energy products and services
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $260.14; 52w high $380.35 (-31.60%); 52w low $236.14 (+10.17%) |
-| Trend | -6.91% vs SMA200, -4.57% vs SMA50, -4.74% vs SMA20 |
-| Momentum | RSI(14) 45.4 (neutral) |
+| Price vs 52-week range | Close $260.76; 52w high $380.35 (-31.44%); 52w low $236.14 (+10.43%) |
+| Trend | -6.69% vs SMA200, -4.34% vs SMA50, -4.53% vs SMA20 |
+| Momentum | RSI(14) 45.8 (neutral) |
 | Volatility | ATR(14) 11.94 (~4.6% of price); beta 1.13 |
-| Setup perspective | -31.60% from 52w high — base needs to rebuild. |
+| Setup perspective | -31.44% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +2.6% |
-| Month | +0.5% |
-| Quarter | -4.8% |
-| Half Y | -15.2% |
-| 1Y | -34.8% |
-| YTD | -28.7% |
+| Week | +2.9% |
+| Month | +0.7% |
+| Quarter | -4.6% |
+| Half Y | -15.0% |
+| 1Y | -34.7% |
+| YTD | -28.5% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -59,7 +59,7 @@ Constellation Energy Corporation produces and sells energy products and services
 | Revenue (ttm) | $31.27B | Revenue growth 23.00% y/y |
 | Profitability | Gross 22.11%, operating 8.66%, net 11.08% | ROA 3.89%, ROE 15.06% |
 | Balance sheet | Cash $697.00M, debt $24.70B | Current ratio 1.46, debt/equity 76.42 |
-| Valuation | P/E 25.43, forward P/E 19.45, P/S 2.95, P/B 2.89 | EV/Sales 3.78, EV/EBITDA 14.85 |
+| Valuation | P/E 25.49, forward P/E 19.49, P/S 2.95, P/B 2.90 | EV/Sales 3.78, EV/EBITDA 14.85 |
 | Growth expectations | Earnings growth -46.80%, EPS q/q -38.90% | Analyst mean target $339.11 (23 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -102,21 +102,21 @@ Constellation Energy Corporation produces and sells energy products and services
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $260.14 | EV/Sales | 3.78 |
-| Market cap | $92.17B | EV/EBITDA | 14.85 |
+| Price | $260.76 | EV/Sales | 3.78 |
+| Market cap | $92.39B | EV/EBITDA | 14.85 |
 | Beta | 1.13 | Gross margin | 22.11% |
-| RSI(14) | 45.4 | Operating margin | 8.66% |
+| RSI(14) | 45.8 | Operating margin | 8.66% |
 | ATR(14) | 11.94 | Profit margin | 11.08% |
-| SMA20 dist | -4.74% | ROA | 3.89% |
-| SMA50 dist | -4.57% | ROE | 15.06% |
-| SMA200 dist | -6.91% | Revenue (ttm) | $31.27B |
+| SMA20 dist | -4.53% | ROA | 3.89% |
+| SMA50 dist | -4.34% | ROE | 15.06% |
+| SMA200 dist | -6.69% | Revenue (ttm) | $31.27B |
 | 52W high | $380.35 | Revenue growth y/y | 23.00% |
 | 52W low | $236.14 | Inst. ownership | 82.90% |
-| P/E (ttm) | 25.43 | Insider ownership | 0.34% |
-| Forward P/E | 19.45 | Short float | 3.75% |
+| P/E (ttm) | 25.49 | Insider ownership | 0.34% |
+| Forward P/E | 19.49 | Short float | 3.75% |
 | PEG (trailing) | — | Avg volume | 3,215,790 |
 | P/S | 2.95 | Employees | 15,291 |
-| P/B | 2.89 | Analyst rec (1=buy..5=sell) | 1.6 |
+| P/B | 2.90 | Analyst rec (1=buy..5=sell) | 1.6 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

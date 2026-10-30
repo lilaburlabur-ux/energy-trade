@@ -4,7 +4,7 @@ Signed file: `DINO.research.30.10.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $115.03 (2026-10-30, ~15-min delayed) |
+| Current price | $115.00 (2026-10-30, ~15-min delayed) |
 | Market cap | $19.71B |
 | Sector / Industry | Energy / Oil & Gas Refining & Marketing |
 | Main theme | Oil & Gas Refining & Marketing — see catalysts below |
@@ -15,10 +15,10 @@ Signed file: `DINO.research.30.10.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +120.13%; price +47.69% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -10.29% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +120.07%; price +47.65% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -10.32% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 10.12%, revenue growth 49.70%. |
-| Value attractiveness | Reasonable | Forward P/E 6.89, EV/Sales 0.55. |
+| Value attractiveness | Reasonable | Forward P/E 6.88, EV/Sales 0.55. |
 | Risk level | Elevated | Beta 0.71, ATR 4.6% of price, short float 4.57%. |
 
 **Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
@@ -35,22 +35,22 @@ HF Sinclair Corporation operates as an independent energy company in the United 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $115.03; 52w high $128.23 (-10.29%); 52w low $44.83 (+156.59%) |
-| Trend | +47.69% vs SMA200, +2.82% vs SMA50, -4.69% vs SMA20 |
+| Price vs 52-week range | Close $115.00; 52w high $128.23 (-10.32%); 52w low $44.83 (+156.53%) |
+| Trend | +47.65% vs SMA200, +2.80% vs SMA50, -4.72% vs SMA20 |
 | Momentum | RSI(14) 47.2 (neutral) |
 | Volatility | ATR(14) 5.32 (~4.6% of price); beta 0.71 |
-| Setup perspective | -10.29% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -10.32% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -5.4% |
-| Month | +2.1% |
-| Quarter | +30.6% |
+| Week | -5.5% |
+| Month | +2.0% |
+| Quarter | +30.5% |
 | Half Y | +68.5% |
 | 1Y | +120.1% |
-| YTD | +151.3% |
+| YTD | +151.2% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -59,7 +59,7 @@ HF Sinclair Corporation operates as an independent energy company in the United 
 | Revenue (ttm) | $34.83B | Revenue growth 49.70% y/y |
 | Profitability | Gross 18.01%, operating 25.13%, net 10.12% | ROA 15.77%, ROE 33.21% |
 | Balance sheet | Cash $3.33B, debt $3.36B | Current ratio 2.27, debt/equity 28.52 |
-| Valuation | P/E 5.86, forward P/E 6.89, P/S 0.57, P/B 1.70 | EV/Sales 0.55, EV/EBITDA 3.56 |
+| Valuation | P/E 5.86, forward P/E 6.88, P/S 0.57, P/B 1.70 | EV/Sales 0.55, EV/EBITDA 3.56 |
 | Growth expectations | Earnings growth 430.60%, EPS q/q 400.00% | Analyst mean target $122.50 (16 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -101,18 +101,18 @@ HF Sinclair Corporation operates as an independent energy company in the United 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $115.03 | EV/Sales | 0.55 |
+| Price | $115.00 | EV/Sales | 0.55 |
 | Market cap | $19.71B | EV/EBITDA | 3.56 |
 | Beta | 0.71 | Gross margin | 18.01% |
 | RSI(14) | 47.2 | Operating margin | 25.13% |
 | ATR(14) | 5.32 | Profit margin | 10.12% |
-| SMA20 dist | -4.69% | ROA | 15.77% |
-| SMA50 dist | +2.82% | ROE | 33.21% |
-| SMA200 dist | +47.69% | Revenue (ttm) | $34.83B |
+| SMA20 dist | -4.72% | ROA | 15.77% |
+| SMA50 dist | +2.80% | ROE | 33.21% |
+| SMA200 dist | +47.65% | Revenue (ttm) | $34.83B |
 | 52W high | $128.23 | Revenue growth y/y | 49.70% |
 | 52W low | $44.83 | Inst. ownership | 92.53% |
 | P/E (ttm) | 5.86 | Insider ownership | 5.70% |
-| Forward P/E | 6.89 | Short float | 4.57% |
+| Forward P/E | 6.88 | Short float | 4.57% |
 | PEG (trailing) | 1.19 | Avg volume | 2,551,689 |
 | P/S | 0.57 | Employees | 5,165 |
 | P/B | 1.70 | Analyst rec (1=buy..5=sell) | 2.5 |

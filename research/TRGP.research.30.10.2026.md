@@ -4,8 +4,8 @@ Signed file: `TRGP.research.30.10.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $315.05 (2026-10-30, ~15-min delayed) |
-| Market cap | $67.56B |
+| Current price | $314.99 (2026-10-30, ~15-min delayed) |
+| Market cap | $67.54B |
 | Sector / Industry | Energy / Oil & Gas Midstream |
 | Main theme | Oil & Gas Midstream — see catalysts below |
 | Current stance | High technical momentum, mixed fundamentals, value: fair-to-demanding, risk: moderate. |
@@ -15,7 +15,7 @@ Signed file: `TRGP.research.30.10.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +112.60%; price +21.94% vs SMA200. |
+| Technical momentum | High | 1Y +112.55%; price +21.91% vs SMA200. |
 | Fresh setup quality | Moderate / wait | +0.00% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 13.54%, revenue growth 4.20%. |
 | Value attractiveness | Fair-to-demanding | Forward P/E 26.00, EV/Sales 5.17. |
@@ -35,9 +35,9 @@ Targa Resources Corp., together with its subsidiaries, owns, operates, acquires,
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $315.05; 52w high $315.05 (+0.00%); 52w low $148.33 (+112.40%) |
-| Trend | +21.94% vs SMA200, +8.52% vs SMA50, +6.84% vs SMA20 |
-| Momentum | RSI(14) 68.5 (neutral) |
+| Price vs 52-week range | Close $314.99; 52w high $314.99 (+0.00%); 52w low $148.33 (+112.36%) |
+| Trend | +21.91% vs SMA200, +8.50% vs SMA50, +6.82% vs SMA20 |
+| Momentum | RSI(14) 68.4 (neutral) |
 | Volatility | ATR(14) 7.66 (~2.4% of price); beta 0.80 |
 | Setup perspective | +0.00% from 52w high; no clean fresh pivot by default. |
 
@@ -47,10 +47,10 @@ Targa Resources Corp., together with its subsidiaries, owns, operates, acquires,
 |---|---|
 | Week | +4.2% |
 | Month | +12.8% |
-| Quarter | +19.1% |
+| Quarter | +19.0% |
 | Half Y | +24.5% |
 | 1Y | +112.6% |
-| YTD | +71.2% |
+| YTD | +71.1% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -59,7 +59,7 @@ Targa Resources Corp., together with its subsidiaries, owns, operates, acquires,
 | Revenue (ttm) | $16.74B | Revenue growth 4.20% y/y |
 | Profitability | Gross 43.19%, operating 27.80%, net 13.54% | ROA 9.24%, ROE 70.84% |
 | Balance sheet | Cash $132.30M, debt $19.58B | Current ratio 0.77, debt/equity 515.79 |
-| Valuation | P/E 30.12, forward P/E 26.00, P/S 4.04, P/B 18.48 | EV/Sales 5.17, EV/EBITDA 15.75 |
+| Valuation | P/E 30.11, forward P/E 26.00, P/S 4.03, P/B 18.47 | EV/Sales 5.17, EV/EBITDA 15.75 |
 | Growth expectations | Earnings growth 23.30%, EPS q/q 21.50% | Analyst mean target $330.19 (21 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -102,21 +102,21 @@ Targa Resources Corp., together with its subsidiaries, owns, operates, acquires,
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $315.05 | EV/Sales | 5.17 |
-| Market cap | $67.56B | EV/EBITDA | 15.75 |
+| Price | $314.99 | EV/Sales | 5.17 |
+| Market cap | $67.54B | EV/EBITDA | 15.75 |
 | Beta | 0.80 | Gross margin | 43.19% |
-| RSI(14) | 68.5 | Operating margin | 27.80% |
+| RSI(14) | 68.4 | Operating margin | 27.80% |
 | ATR(14) | 7.66 | Profit margin | 13.54% |
-| SMA20 dist | +6.84% | ROA | 9.24% |
-| SMA50 dist | +8.52% | ROE | 70.84% |
-| SMA200 dist | +21.94% | Revenue (ttm) | $16.74B |
-| 52W high | $315.05 | Revenue growth y/y | 4.20% |
+| SMA20 dist | +6.82% | ROA | 9.24% |
+| SMA50 dist | +8.50% | ROE | 70.84% |
+| SMA200 dist | +21.91% | Revenue (ttm) | $16.74B |
+| 52W high | $314.99 | Revenue growth y/y | 4.20% |
 | 52W low | $148.33 | Inst. ownership | 97.91% |
-| P/E (ttm) | 30.12 | Insider ownership | 1.38% |
+| P/E (ttm) | 30.11 | Insider ownership | 1.38% |
 | Forward P/E | 26.00 | Short float | 3.05% |
 | PEG (trailing) | — | Avg volume | 1,175,409 |
-| P/S | 4.04 | Employees | 3,570 |
-| P/B | 18.48 | Analyst rec (1=buy..5=sell) | 1.4 |
+| P/S | 4.03 | Employees | 3,570 |
+| P/B | 18.47 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

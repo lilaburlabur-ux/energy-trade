@@ -4,8 +4,8 @@ Signed file: `GEV.research.30.10.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $857.75 (2026-10-30, ~15-min delayed) |
-| Market cap | $227.03B |
+| Current price | $857.87 (2026-10-30, ~15-min delayed) |
+| Market cap | $227.06B |
 | Sector / Industry | Industrials / Specialty Industrial Machinery |
 | Main theme | Specialty Industrial Machinery — see catalysts below |
 | Current stance | Low technical momentum, strong fundamentals, value: fair-to-demanding, risk: high. |
@@ -15,8 +15,8 @@ Signed file: `GEV.research.30.10.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-9.11%) with negative half-year (-19.22%). |
-| Fresh setup quality | Poor / broken | -26.95% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-9.10%) with negative half-year (-19.20%). |
+| Fresh setup quality | Poor / broken | -26.94% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 23.54%, revenue growth 26.80%. |
 | Value attractiveness | Fair-to-demanding | Forward P/E 33.26, EV/Sales 5.08. |
 | Risk level | High | Beta 0.97, ATR 5.5% of price, short float 2.79%. |
@@ -35,11 +35,11 @@ GE Vernova Inc., an energy company, engages in the provision of various products
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $857.75; 52w high $1,174.17 (-26.95%); 52w low $546.63 (+56.92%) |
-| Trend | -9.11% vs SMA200, -8.21% vs SMA50, -7.48% vs SMA20 |
+| Price vs 52-week range | Close $857.87; 52w high $1,174.17 (-26.94%); 52w low $546.63 (+56.94%) |
+| Trend | -9.10% vs SMA200, -8.20% vs SMA50, -7.47% vs SMA20 |
 | Momentum | RSI(14) 40.7 (neutral) |
 | Volatility | ATR(14) 47.33 (~5.5% of price); beta 0.97 |
-| Setup perspective | -26.95% from 52w high — base needs to rebuild. |
+| Setup perspective | -26.94% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
@@ -47,7 +47,7 @@ GE Vernova Inc., an energy company, engages in the provision of various products
 |---|---|
 | Week | +5.3% |
 | Month | -13.1% |
-| Quarter | -14.8% |
+| Quarter | -14.7% |
 | Half Y | -19.2% |
 | 1Y | +48.8% |
 | YTD | +26.5% |
@@ -103,14 +103,14 @@ GE Vernova Inc., an energy company, engages in the provision of various products
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $857.75 | EV/Sales | 5.08 |
-| Market cap | $227.03B | EV/EBITDA | 44.29 |
+| Price | $857.87 | EV/Sales | 5.08 |
+| Market cap | $227.06B | EV/EBITDA | 44.29 |
 | Beta | 0.97 | Gross margin | 21.79% |
 | RSI(14) | 40.7 | Operating margin | 12.77% |
 | ATR(14) | 47.33 | Profit margin | 23.54% |
-| SMA20 dist | -7.48% | ROA | 3.22% |
-| SMA50 dist | -8.21% | ROE | 93.04% |
-| SMA200 dist | -9.11% | Revenue (ttm) | $44.04B |
+| SMA20 dist | -7.47% | ROA | 3.22% |
+| SMA50 dist | -8.20% | ROE | 93.04% |
+| SMA200 dist | -9.10% | Revenue (ttm) | $44.04B |
 | 52W high | $1,174.17 | Revenue growth y/y | 26.80% |
 | 52W low | $546.63 | Inst. ownership | 82.03% |
 | P/E (ttm) | 22.52 | Insider ownership | 0.13% |

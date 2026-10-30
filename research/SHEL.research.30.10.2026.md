@@ -4,8 +4,8 @@ Signed file: `SHEL.research.30.10.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $108.61 (2026-10-30, ~15-min delayed) |
-| Market cap | $307.05B |
+| Current price | $108.62 (2026-10-30, ~15-min delayed) |
+| Market cap | $307.09B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,7 +15,7 @@ Signed file: `SHEL.research.30.10.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +49.11%; price +24.30% vs SMA200. |
+| Technical momentum | Moderate | 1Y +49.13%; price +24.32% vs SMA200. |
 | Fresh setup quality | Moderate / wait | +0.00% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 10.17%, revenue growth 39.90%. |
 | Value attractiveness | Reasonable | Forward P/E 9.91, EV/Sales 1.06. |
@@ -35,8 +35,8 @@ Shell plc operates as an energy and petrochemical company in Europe, Asia, Ocean
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $108.61; 52w high $108.61 (+0.00%); 52w low $68.43 (+58.71%) |
-| Trend | +24.30% vs SMA200, +10.72% vs SMA50, +4.81% vs SMA20 |
+| Price vs 52-week range | Close $108.62; 52w high $108.62 (+0.00%); 52w low $68.43 (+58.73%) |
+| Trend | +24.32% vs SMA200, +10.74% vs SMA50, +4.82% vs SMA20 |
 | Momentum | RSI(14) 69.7 (neutral) |
 | Volatility | ATR(14) 1.91 (~1.8% of price); beta — |
 | Setup perspective | +0.00% from 52w high; no clean fresh pivot by default. |
@@ -48,7 +48,7 @@ Shell plc operates as an energy and petrochemical company in Europe, Asia, Ocean
 | Week | +0.4% |
 | Month | +13.6% |
 | Quarter | +20.3% |
-| Half Y | +24.2% |
+| Half Y | +24.3% |
 | 1Y | +49.1% |
 | YTD | +47.9% |
 
@@ -101,15 +101,15 @@ Shell plc operates as an energy and petrochemical company in Europe, Asia, Ocean
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $108.61 | EV/Sales | 1.06 |
-| Market cap | $307.05B | EV/EBITDA | 5.04 |
+| Price | $108.62 | EV/Sales | 1.06 |
+| Market cap | $307.09B | EV/EBITDA | 5.04 |
 | Beta | — | Gross margin | 27.02% |
 | RSI(14) | 69.7 | Operating margin | 20.09% |
 | ATR(14) | 1.91 | Profit margin | 10.17% |
-| SMA20 dist | +4.81% | ROA | 7.88% |
-| SMA50 dist | +10.72% | ROE | 17.43% |
-| SMA200 dist | +24.30% | Revenue (ttm) | $321.69B |
-| 52W high | $108.61 | Revenue growth y/y | 39.90% |
+| SMA20 dist | +4.82% | ROA | 7.88% |
+| SMA50 dist | +10.74% | ROE | 17.43% |
+| SMA200 dist | +24.32% | Revenue (ttm) | $321.69B |
+| 52W high | $108.62 | Revenue growth y/y | 39.90% |
 | 52W low | $68.43 | Inst. ownership | 13.46% |
 | P/E (ttm) | 9.43 | Insider ownership | 0.01% |
 | Forward P/E | 9.91 | Short float | 1.23% |

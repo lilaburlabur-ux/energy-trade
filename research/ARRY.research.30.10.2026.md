@@ -5,7 +5,7 @@ Signed file: `ARRY.research.30.10.2026`
 | Field | Value |
 |---|---|
 | Current price | $3.39 (2026-10-30, ~15-min delayed) |
-| Market cap | $522.24M |
+| Market cap | $521.47M |
 | Sector / Industry | Technology / Solar |
 | Main theme | Solar — see catalysts below |
 | Current stance | Low technical momentum, weak fundamentals, value: reasonable, risk: high. |
@@ -15,8 +15,8 @@ Signed file: `ARRY.research.30.10.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-50.80%) with negative half-year (-56.70%). |
-| Fresh setup quality | Poor / broken | -71.61% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-50.88%) with negative half-year (-56.76%). |
+| Fresh setup quality | Poor / broken | -71.66% from 52w high — base needs to rebuild. |
 | Fundamental quality | Weak | Negative profit margin (-7.25%). |
 | Value attractiveness | Reasonable | Forward P/E 3.64, EV/Sales 1.26. |
 | Risk level | High | Beta 1.81, ATR 6.4% of price, short float 35.49%. |
@@ -35,22 +35,22 @@ Array Technologies, Inc. engages in the manufacture and sale of solar tracking t
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $3.39; 52w high $11.96 (-71.61%); 52w low $3.15 (+7.78%) |
-| Trend | -50.80% vs SMA200, -15.08% vs SMA50, -3.42% vs SMA20 |
-| Momentum | RSI(14) 42.0 (neutral) |
+| Price vs 52-week range | Close $3.39; 52w high $11.96 (-71.66%); 52w low $3.15 (+7.62%) |
+| Trend | -50.88% vs SMA200, -15.20% vs SMA50, -3.56% vs SMA20 |
+| Momentum | RSI(14) 41.9 (neutral) |
 | Volatility | ATR(14) 0.22 (~6.4% of price); beta 1.81 |
-| Setup perspective | -71.61% from 52w high — base needs to rebuild. |
+| Setup perspective | -71.66% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +6.4% |
-| Month | -12.7% |
-| Quarter | -40.2% |
-| Half Y | -56.7% |
-| 1Y | -61.9% |
-| YTD | -64.9% |
+| Week | +6.3% |
+| Month | -12.9% |
+| Quarter | -40.3% |
+| Half Y | -56.8% |
+| 1Y | -62.0% |
+| YTD | -65.0% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -59,7 +59,7 @@ Array Technologies, Inc. engages in the manufacture and sale of solar tracking t
 | Revenue (ttm) | $1.19B | Revenue growth -5.60% y/y |
 | Profitability | Gross 26.76%, operating 10.88%, net -7.25% | ROA 3.33%, ROE -25.98% |
 | Balance sheet | Cash $307.30M, debt $752.89M | Current ratio 2.20, debt/equity 254.27 |
-| Valuation | P/E —, forward P/E 3.64, P/S 0.44, P/B -2.59 | EV/Sales 1.26, EV/EBITDA 12.50 |
+| Valuation | P/E —, forward P/E 3.64, P/S 0.44, P/B -2.58 | EV/Sales 1.26, EV/EBITDA 12.50 |
 | Growth expectations | Earnings growth -73.20%, EPS q/q -43.70% | Analyst mean target $6.94 (22 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -105,20 +105,20 @@ Array Technologies, Inc. engages in the manufacture and sale of solar tracking t
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $3.39 | EV/Sales | 1.26 |
-| Market cap | $522.24M | EV/EBITDA | 12.50 |
+| Market cap | $521.47M | EV/EBITDA | 12.50 |
 | Beta | 1.81 | Gross margin | 26.76% |
-| RSI(14) | 42.0 | Operating margin | 10.88% |
+| RSI(14) | 41.9 | Operating margin | 10.88% |
 | ATR(14) | 0.22 | Profit margin | -7.25% |
-| SMA20 dist | -3.42% | ROA | 3.33% |
-| SMA50 dist | -15.08% | ROE | -25.98% |
-| SMA200 dist | -50.80% | Revenue (ttm) | $1.19B |
+| SMA20 dist | -3.56% | ROA | 3.33% |
+| SMA50 dist | -15.20% | ROE | -25.98% |
+| SMA200 dist | -50.88% | Revenue (ttm) | $1.19B |
 | 52W high | $11.96 | Revenue growth y/y | -5.60% |
 | 52W low | $3.15 | Inst. ownership | 147.80% |
 | P/E (ttm) | — | Insider ownership | 0.79% |
 | Forward P/E | 3.64 | Short float | 35.49% |
 | PEG (trailing) | 0.36 | Avg volume | 6,902,632 |
 | P/S | 0.44 | Employees | 1,200 |
-| P/B | -2.59 | Analyst rec (1=buy..5=sell) | 2.1 |
+| P/B | -2.58 | Analyst rec (1=buy..5=sell) | 2.1 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
