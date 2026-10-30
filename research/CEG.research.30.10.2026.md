@@ -18,7 +18,7 @@ Signed file: `CEG.research.30.10.2026`
 | Technical momentum | Low | Below SMA200 (-6.11%) with negative half-year (-14.50%). |
 | Fresh setup quality | Poor / broken | -31.02% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 11.08%, revenue growth 23.00%. |
-| Value attractiveness | Reasonable | Forward P/E 19.62, EV/Sales 3.78. |
+| Value attractiveness | Reasonable | Forward P/E 19.62, EV/Sales 3.75. |
 | Risk level | Elevated | Beta 1.13, ATR 4.6% of price, short float 3.75%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
@@ -59,7 +59,7 @@ Constellation Energy Corporation produces and sells energy products and services
 | Revenue (ttm) | $31.27B | Revenue growth 23.00% y/y |
 | Profitability | Gross 22.11%, operating 8.66%, net 11.08% | ROA 3.89%, ROE 15.06% |
 | Balance sheet | Cash $697.00M, debt $24.70B | Current ratio 1.46, debt/equity 76.42 |
-| Valuation | P/E 25.65, forward P/E 19.62, P/S 2.97, P/B 2.92 | EV/Sales 3.78, EV/EBITDA 14.85 |
+| Valuation | P/E 25.65, forward P/E 19.62, P/S 2.97, P/B 2.92 | EV/Sales 3.75, EV/EBITDA 14.75 |
 | Growth expectations | Earnings growth -46.80%, EPS q/q -38.90% | Analyst mean target $339.11 (23 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -102,8 +102,8 @@ Constellation Energy Corporation produces and sells energy products and services
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $262.38 | EV/Sales | 3.78 |
-| Market cap | $92.96B | EV/EBITDA | 14.85 |
+| Price | $262.38 | EV/Sales | 3.75 |
+| Market cap | $92.96B | EV/EBITDA | 14.75 |
 | Beta | 1.13 | Gross margin | 22.11% |
 | RSI(14) | 46.6 | Operating margin | 8.66% |
 | ATR(14) | 11.94 | Profit margin | 11.08% |

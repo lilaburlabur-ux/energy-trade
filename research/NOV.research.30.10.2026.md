@@ -18,7 +18,7 @@ Signed file: `NOV.research.30.10.2026`
 | Technical momentum | Low | Below SMA200 (-1.05%) with negative half-year (-1.60%). |
 | Fresh setup quality | Moderate / wait | -10.77% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 1.65%, revenue growth 2.30%. |
-| Value attractiveness | Reasonable | Forward P/E 15.05, EV/Sales 0.95. |
+| Value attractiveness | Reasonable | Forward P/E 15.31, EV/Sales 0.94. |
 | Risk level | High | Beta 0.98, ATR 3.2% of price, short float 14.31%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: high.
@@ -59,7 +59,7 @@ NOV Inc. designs, constructs, manufactures, and sells systems, components, and p
 | Revenue (ttm) | $8.69B | Revenue growth 2.30% y/y |
 | Profitability | Gross 21.31%, operating 6.16%, net 1.65% | ROA 3.39%, ROE 2.34% |
 | Balance sheet | Cash $1.06B, debt $2.32B | Current ratio 2.51, debt/equity 36.76 |
-| Valuation | P/E 47.05, forward P/E 15.05, P/S 0.79, P/B 1.09 | EV/Sales 0.95, EV/EBITDA 8.39 |
+| Valuation | P/E 47.05, forward P/E 15.31, P/S 0.79, P/B 1.10 | EV/Sales 0.94, EV/EBITDA 8.37 |
 | Growth expectations | Earnings growth 127.30%, EPS q/q 114.30% | Analyst mean target $22.16 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -102,8 +102,8 @@ NOV Inc. designs, constructs, manufactures, and sells systems, components, and p
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $19.29 | EV/Sales | 0.95 |
-| Market cap | $6.88B | EV/EBITDA | 8.39 |
+| Price | $19.29 | EV/Sales | 0.94 |
+| Market cap | $6.88B | EV/EBITDA | 8.37 |
 | Beta | 0.98 | Gross margin | 21.31% |
 | RSI(14) | 48.3 | Operating margin | 6.16% |
 | ATR(14) | 0.62 | Profit margin | 1.65% |
@@ -113,10 +113,10 @@ NOV Inc. designs, constructs, manufactures, and sells systems, components, and p
 | 52W high | $21.62 | Revenue growth y/y | 2.30% |
 | 52W low | $14.06 | Inst. ownership | 108.33% |
 | P/E (ttm) | 47.05 | Insider ownership | 0.73% |
-| Forward P/E | 15.05 | Short float | 14.31% |
+| Forward P/E | 15.31 | Short float | 14.31% |
 | PEG (trailing) | 0.78 | Avg volume | 3,408,337 |
 | P/S | 0.79 | Employees | 31,605 |
-| P/B | 1.09 | Analyst rec (1=buy..5=sell) | 2.5 |
+| P/B | 1.10 | Analyst rec (1=buy..5=sell) | 2.5 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

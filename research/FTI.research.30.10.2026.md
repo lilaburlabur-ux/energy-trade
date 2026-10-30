@@ -18,7 +18,7 @@ Signed file: `FTI.research.30.10.2026`
 | Technical momentum | High | 1Y +68.12%; price -0.58% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -14.12% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 12.04%, revenue growth 9.40%. |
-| Value attractiveness | Reasonable | Forward P/E 18.70, EV/Sales 2.40. |
+| Value attractiveness | Reasonable | Forward P/E 18.70, EV/Sales 2.46. |
 | Risk level | Elevated | Beta —, ATR 3.6% of price, short float 3.85%. |
 
 **Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
@@ -59,7 +59,7 @@ TechnipFMC plc engages in the oil and natural gas projects, technologies, system
 | Revenue (ttm) | $10.67B | Revenue growth 9.40% y/y |
 | Profitability | Gross 23.22%, operating 17.80%, net 12.04% | ROA 10.13%, ROE 38.30% |
 | Balance sheet | Cash $1.05B, debt $404.00M | Current ratio 1.09, debt/equity 12.10 |
-| Valuation | P/E 23.96, forward P/E 18.70, P/S 2.53, P/B 8.08 | EV/Sales 2.40, EV/EBITDA 12.27 |
+| Valuation | P/E 23.96, forward P/E 18.70, P/S 2.53, P/B 8.08 | EV/Sales 2.46, EV/EBITDA 12.61 |
 | Growth expectations | Earnings growth 40.00%, EPS q/q 35.10% | Analyst mean target $76.41 (22 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -101,8 +101,8 @@ TechnipFMC plc engages in the oil and natural gas projects, technologies, system
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $68.77 | EV/Sales | 2.40 |
-| Market cap | $26.97B | EV/EBITDA | 12.27 |
+| Price | $68.77 | EV/Sales | 2.46 |
+| Market cap | $26.97B | EV/EBITDA | 12.61 |
 | Beta | — | Gross margin | 23.22% |
 | RSI(14) | 46.1 | Operating margin | 17.80% |
 | ATR(14) | 2.48 | Profit margin | 12.04% |

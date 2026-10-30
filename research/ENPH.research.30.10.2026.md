@@ -18,7 +18,7 @@ Signed file: `ENPH.research.30.10.2026`
 | Technical momentum | Low | Below SMA200 (-37.33%) with negative half-year (-24.22%). |
 | Fresh setup quality | Poor / broken | -64.54% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 7.49%, revenue growth -28.50%. |
-| Value attractiveness | Reasonable | Forward P/E 17.90, EV/Sales 2.56. |
+| Value attractiveness | Reasonable | Forward P/E 17.90, EV/Sales 2.54. |
 | Risk level | High | Beta 1.63, ATR 7.6% of price, short float 26.75%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: high.
@@ -59,7 +59,7 @@ Enphase Energy, Inc., together with its subsidiaries, designs, develops, manufac
 | Revenue (ttm) | $1.21B | Revenue growth -28.50% y/y |
 | Profitability | Gross 24.37%, operating 1.64%, net 7.49% | ROA 0.22%, ROE 8.11% |
 | Balance sheet | Cash $931.85M, debt $614.56M | Current ratio 4.09, debt/equity 49.48 |
-| Valuation | P/E 38.28, forward P/E 17.90, P/S 2.80, P/B 2.73 | EV/Sales 2.56, EV/EBITDA 35.56 |
+| Valuation | P/E 38.28, forward P/E 17.90, P/S 2.80, P/B 2.73 | EV/Sales 2.54, EV/EBITDA 35.24 |
 | Growth expectations | Earnings growth -65.20%, EPS q/q -64.90% | Analyst mean target $40.64 (25 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -103,8 +103,8 @@ Enphase Energy, Inc., together with its subsidiaries, designs, develops, manufac
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $25.65 | EV/Sales | 2.56 |
-| Market cap | $3.39B | EV/EBITDA | 35.56 |
+| Price | $25.65 | EV/Sales | 2.54 |
+| Market cap | $3.39B | EV/EBITDA | 35.24 |
 | Beta | 1.63 | Gross margin | 24.37% |
 | RSI(14) | 28.9 | Operating margin | 1.64% |
 | ATR(14) | 1.94 | Profit margin | 7.49% |
@@ -122,6 +122,7 @@ Enphase Energy, Inc., together with its subsidiaries, designs, develops, manufac
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-10-30 | main | Citigroup | Neutral → Neutral |
 | 2026-10-29 | main | Barclays | Equal-Weight → Equal-Weight |
 | 2026-10-28 | main | JP Morgan | Neutral → Neutral |
 | 2026-10-28 | main | BMO Capital | Market Perform → Market Perform |
@@ -129,7 +130,6 @@ Enphase Energy, Inc., together with its subsidiaries, designs, develops, manufac
 | 2026-10-28 | main | RBC Capital | Outperform → Outperform |
 | 2026-10-28 | main | Wells Fargo | Overweight → Overweight |
 | 2026-10-28 | main | Susquehanna | Neutral → Neutral |
-| 2026-10-28 | reit | GLJ Research | Sell → Sell |
 
 ## 9. Conclusion
 ENPH: Low momentum / mixed fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

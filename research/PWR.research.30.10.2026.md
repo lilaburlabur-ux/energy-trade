@@ -18,7 +18,7 @@ Signed file: `PWR.research.30.10.2026`
 | Technical momentum | Low | Below SMA200 (-0.85%) with negative half-year (-16.34%). |
 | Fresh setup quality | Moderate / wait | -20.92% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 4.51%, revenue growth 57.40%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 30.25, EV/Sales 2.71. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 30.25, EV/Sales 2.65. |
 | Risk level | Elevated | Beta —, ATR 4.7% of price, short float 2.63%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: fair-to-demanding, risk: elevated.
@@ -59,7 +59,7 @@ Quanta Services, Inc. offers infrastructure solutions for the electric and gas u
 | Revenue (ttm) | $37.29B | Revenue growth 57.40% y/y |
 | Profitability | Gross 15.76%, operating 8.63%, net 4.51% | ROA 5.72%, ROE 18.02% |
 | Balance sheet | Cash $2.32B, debt $7.51B | Current ratio 1.16, debt/equity 70.72 |
-| Valuation | P/E 71.10, forward P/E 30.25, P/S 2.51, P/B 8.87 | EV/Sales 2.71, EV/EBITDA 27.90 |
+| Valuation | P/E 71.10, forward P/E 30.25, P/S 2.51, P/B 8.87 | EV/Sales 2.65, EV/EBITDA 27.30 |
 | Growth expectations | Earnings growth 103.10%, EPS q/q 104.70% | Analyst mean target $765.87 (29 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -86,7 +86,7 @@ Quanta Services, Inc. offers infrastructure solutions for the electric and gas u
 | Morgan Stanley | 2,311,374 | 1.54% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 30.25, EV/Sales 2.71. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 30.25, EV/Sales 2.65. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta —, ATR 4.7% of price, short float 2.63%. Size positions accordingly.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -102,8 +102,8 @@ Quanta Services, Inc. offers infrastructure solutions for the electric and gas u
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $620.73 | EV/Sales | 2.71 |
-| Market cap | $93.53B | EV/EBITDA | 27.90 |
+| Price | $620.73 | EV/Sales | 2.65 |
+| Market cap | $93.53B | EV/EBITDA | 27.30 |
 | Beta | — | Gross margin | 15.76% |
 | RSI(14) | 48.9 | Operating margin | 8.63% |
 | ATR(14) | 29.24 | Profit margin | 4.51% |
@@ -121,6 +121,7 @@ Quanta Services, Inc. offers infrastructure solutions for the electric and gas u
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-10-30 | main | Citigroup | Buy → Buy |
 | 2026-10-30 | main | TD Cowen | Buy → Buy |
 | 2026-10-30 | reit | Truist Securities | Buy → Buy |
 | 2026-10-30 | main | Evercore ISI Group | Outperform → Outperform |
@@ -128,7 +129,6 @@ Quanta Services, Inc. offers infrastructure solutions for the electric and gas u
 | 2026-10-05 | main | Truist Securities | Buy → Buy |
 | 2026-09-28 | main | Piper Sandler | Overweight → Overweight |
 | 2026-09-24 | up | Bernstein | Market Perform → Outperform |
-| 2026-09-09 | init | Piper Sandler | — → Overweight |
 
 ## 9. Conclusion
 PWR: Low momentum / mixed fundamentals / fair-to-demanding value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

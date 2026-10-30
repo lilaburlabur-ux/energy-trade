@@ -18,7 +18,7 @@ Signed file: `TTE.research.30.10.2026`
 | Technical momentum | Moderate | 1Y +59.09%; price +13.18% vs SMA200. |
 | Fresh setup quality | Moderate / wait | +0.00% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 10.46%, revenue growth 41.10%. |
-| Value attractiveness | Reasonable | Forward P/E 8.24, EV/Sales 1.14. |
+| Value attractiveness | Reasonable | Forward P/E 8.24, EV/Sales 1.15. |
 | Risk level | Moderate | Beta —, ATR 1.9% of price, short float 0.22%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -59,7 +59,7 @@ TotalEnergies SE, an integrated energy company, produces and markets oil and bio
 | Revenue (ttm) | $214.40B | Revenue growth 41.10% y/y |
 | Profitability | Gross 39.18%, operating 21.37%, net 10.46% | ROA 6.67%, ROE 17.83% |
 | Balance sheet | Cash $34.21B, debt $62.99B | Current ratio 1.11, debt/equity 45.99 |
-| Valuation | P/E 9.51, forward P/E 8.24, P/S 0.98, P/B 1.78 | EV/Sales 1.14, EV/EBITDA 5.01 |
+| Valuation | P/E 9.51, forward P/E 8.24, P/S 0.98, P/B 1.61 | EV/Sales 1.15, EV/EBITDA 5.07 |
 | Growth expectations | Earnings growth 123.20%, EPS q/q 124.40% | Analyst mean target $100.39 (9 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -101,8 +101,8 @@ TotalEnergies SE, an integrated energy company, produces and markets oil and bio
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $95.33 | EV/Sales | 1.14 |
-| Market cap | $209.95B | EV/EBITDA | 5.01 |
+| Price | $95.33 | EV/Sales | 1.15 |
+| Market cap | $209.95B | EV/EBITDA | 5.07 |
 | Beta | — | Gross margin | 39.18% |
 | RSI(14) | 68.8 | Operating margin | 21.37% |
 | ATR(14) | 1.77 | Profit margin | 10.46% |
@@ -115,7 +115,7 @@ TotalEnergies SE, an integrated energy company, produces and markets oil and bio
 | Forward P/E | 8.24 | Short float | 0.22% |
 | PEG (trailing) | 0.71 | Avg volume | 1,796,870 |
 | P/S | 0.98 | Employees | 94,847 |
-| P/B | 1.78 | Analyst rec (1=buy..5=sell) | 2.1 |
+| P/B | 1.61 | Analyst rec (1=buy..5=sell) | 2.1 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
