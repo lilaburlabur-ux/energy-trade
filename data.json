@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-10-30T12:59:19+00:00",
-  "as_of_local": "2026-10-30 12:59:19 UTC",
+  "as_of_utc": "2026-10-30T13:04:27+00:00",
+  "as_of_local": "2026-10-30 13:04:27 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "ENPH"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -536,15 +538,6 @@
       "headlines": []
     },
     {
-      "symbol": "ENPH",
-      "name": "Enphase Energy",
-      "price": 25.86,
-      "previous_close": 24.99,
-      "change_pct": 3.48,
-      "market_cap": 3421647283.9782257,
-      "headlines": []
-    },
-    {
       "symbol": "SMR",
       "name": "NuScale Power",
       "price": 5.92,
@@ -823,13 +816,13 @@
     },
     {
       "label": "WTI",
-      "price": 104.24,
-      "change_pct": 2.2
+      "price": 104.07,
+      "change_pct": 2.03
     },
     {
       "label": "Brent",
-      "price": 113.41,
-      "change_pct": -1.28
+      "price": 113.26,
+      "change_pct": -1.41
     },
     {
       "label": "NatGas",
