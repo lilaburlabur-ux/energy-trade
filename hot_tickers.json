@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-30T00:57:01+00:00",
+  "as_of": "2026-10-30T05:01:22+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,19 +9,19 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "EOSE",
-   "company": "Eos Energy Enterprises, Inc.",
-   "move_pct": 7.14,
-   "price": 1.95,
-   "volume": 24182068,
-   "volume_vs_avg": "~0.8x",
-   "heat_score": 44,
+   "ticker": "LNG",
+   "company": "Cheniere Energy, Inc.",
+   "move_pct": 7.11,
+   "price": 318.94,
+   "volume": 4713800,
+   "volume_vs_avg": "~3x",
+   "heat_score": 53,
    "direction": "up",
-   "why": "Insider Selling: Eos Energy Enterprises (NASDAQ:EOSE) Insider Sells 50,000 Shares of Company Stock",
+   "why": "Cheniere Energy, Inc. (LNG) Stock Forecasts",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQUzVfWFRSMi1OMVF3eGNZVWdkSG5GQnFVNXlrRWlmRGhabkNRSUM0ZEdKZ3Q1MGhSbGNZLU9jQnZrUmRqcnhLXzN3Y0pkRENzYmhJM2QzOW9VUmI2LXBvcVRWbklUV1IxdEN2TmVpMUZGYVdqU2lhTGY1S1lZelVnU2tzMDdjRjdBRWJkR1hvOXdaY09paHBFQTNZVHN3WDNUeFQ5NDh3SUdhYXNPTnlxSkxFYmotQUlBd25YaUFHSEIyS2hsNzNkT2FCaTl2UVpEZXJPYkhFajM1OHBKa05Db1lvcFA2ZGIwLWxsag?oc=5",
-   "published": "2026-10-29T21:13:10+00:00",
-   "sector": "Grid, Storage & Electrification"
+   "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPV25NVmZQak9HN1VWSGVuZTVrVWNCYW1BeHlqMUJ2Y3ZwSmFYTDBBdDVGMERuT1ZLREFLRDJZN3A4Vk1vLU9PMnY3WEo5bU5GWEZ6WVp1bm1iNDc3Vi1NNXN4VFo4bDJpbHNuX01FaGVhV01mOS1sNkVUVTdGdEdSMG5LcXU0dk5CTkxINw?oc=5",
+   "published": "2026-10-30T04:27:53+00:00",
+   "sector": "Midstream & LNG"
   }
  ]
 }
