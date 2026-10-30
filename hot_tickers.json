@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-30T13:55:53+00:00",
+  "as_of": "2026-10-30T14:11:07+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,10 +11,10 @@
    "rank": 1,
    "ticker": "CCJ",
    "company": "Cameco Corporation",
-   "move_pct": -10.65,
-   "price": 74.6,
-   "volume": 2366137,
-   "volume_vs_avg": "~0.7x",
+   "move_pct": -10.61,
+   "price": 74.64,
+   "volume": 2772369,
+   "volume_vs_avg": "~0.8x",
    "heat_score": 66,
    "direction": "down",
    "why": "Cameco Corporation 2026 Q3 - Results - Earnings Call Presentation (TSX:CCO:CA) 2026-10-30",
@@ -27,16 +27,16 @@
    "rank": 2,
    "ticker": "LEU",
    "company": "Centrus Energy Corp.",
-   "move_pct": -6.14,
-   "price": 103.76,
-   "volume": 80753,
+   "move_pct": -6.55,
+   "price": 103.31,
+   "volume": 103300,
    "volume_vs_avg": "~0.1x",
-   "heat_score": 37,
+   "heat_score": 39,
    "direction": "down",
    "why": "Does First Centrifuge Shipment Change The Bull Case For Centrus Energy Stock (LEU)?",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZV9qZkRqUi03T0hwQ3hqZ0loanV2X3JnQzdBTEhEODR4TnJud0tGNEJWWkdVSmsxc3lhbVRJb0QzUlR2Z1VoSi1oaGRCSHV6WVpzVlR6Yllvb1FCTDhhWjROY25VOU5kdDBZT1Q2ZTRPNE96cllrQ3NEQnJyeFdGN3FJT2FXaWJYTm51V051dndMT0pUVHFUakR0cmprMjdGQ1RlVWE5akRXUm9vV0Y5cXlsNkVjOGV3V21RTzNweDRTcmhwNVlKUXpiRTjSAcwBQVVfeXFMT2VfamZEalItN09IcEN4amdJaGp1dl9yZ0M3QUxIRDg0eE5ybndLRjRCVlpHVUprMXN5YW1USW9EM1JUdmdVaEotaGhkQkh1ellac1ZUemJZb29RQkw4YVo0TmNuVTlOZHQwWU9UNmU0TzRPenJZa0NzREJycnhXRjdxSU9hV2liWE5udVdOdXZ3TE9KVFRxVGpEdHJqazI3RkNUZVVhOWpEV1Jvb1dGOXF5bDZFYzhld1dtUU8zcHg0U3JocDVZSlF6YkU4?oc=5",
-   "published": "2026-10-30T11:54:48+00:00",
+   "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSkZpaTRBYjBkSHBaMkxXdjYwNHFKOWZQNkZKZFZqZ19UVmZabzlKU0dmTmhBSDR5Z2IzOGtsUFJOR3VjbWRBWGhuZFcya0piQTNxQmlYOWxyRF93WUY5M0hZRVY0NDgzbUt2OThKb2ZacU9wc01SVTFnT05MT1ZLQ0VNZGs0U2ozeldnbmRjeDhpeU8tb1gtcnhYcWJHNlFWVVAtY1Njb2EzeXVGbWxMeExkVklweGZhYzJHbm9QYkhBdVBjWU5F0gHMAUFVX3lxTE9lX2pmRGpSLTdPSHBDeGpnSWhqdXZfcmdDN0FMSEQ4NHhOcm53S0Y0QlZaR1VKazFzeWFtVElvRDNSVHZnVWhKLWhoZEJIdXpZWnNWVHpiWW9vUUJMOGFaNE5jblU5TmR0MFlPVDZlNE80T3pyWWtDc0RCcnJ4V0Y3cUlPYVdpYlhObnVXTnV2d0xPSlRUcVRqRHRyamsyN0ZDVGVVYTlqRFdSb29XRjlxeWw2RWM4ZXdXbVFPM3B4NFNyaHA1WUpRemJFOA?oc=5",
+   "published": "2026-10-30T11:54:46+00:00",
    "sector": "Nuclear & Uranium"
   }
  ]
