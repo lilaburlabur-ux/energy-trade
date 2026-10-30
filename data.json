@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-10-30T12:54:17+00:00",
-  "as_of_local": "2026-10-30 12:54:17 UTC",
+  "as_of_utc": "2026-10-30T12:59:19+00:00",
+  "as_of_local": "2026-10-30 12:59:19 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "PWR"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -139,6 +137,15 @@
       "previous_close": 123.57,
       "change_pct": 1.89,
       "market_cap": 98164507288.43112,
+      "headlines": []
+    },
+    {
+      "symbol": "PWR",
+      "name": "Quanta Services",
+      "price": 635.18,
+      "previous_close": 606.89,
+      "change_pct": 4.66,
+      "market_cap": 95707107857.50763,
       "headlines": []
     },
     {
@@ -816,18 +823,18 @@
     },
     {
       "label": "WTI",
-      "price": 104.21,
-      "change_pct": 2.17
+      "price": 104.24,
+      "change_pct": 2.2
     },
     {
       "label": "Brent",
-      "price": 113.36,
-      "change_pct": -1.32
+      "price": 113.41,
+      "change_pct": -1.28
     },
     {
       "label": "NatGas",
-      "price": 2.87,
-      "change_pct": -2.88
+      "price": 2.88,
+      "change_pct": -2.54
     }
   ]
 }
