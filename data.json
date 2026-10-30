@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-10-30T01:47:59+00:00",
-  "as_of_local": "2026-10-30 01:47:59 UTC",
+  "as_of_utc": "2026-10-30T01:53:23+00:00",
+  "as_of_local": "2026-10-30 01:53:23 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "FLNC"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -590,15 +592,6 @@
       "headlines": []
     },
     {
-      "symbol": "FLNC",
-      "name": "Fluence Energy",
-      "price": 6.09,
-      "previous_close": 6.19,
-      "change_pct": -1.62,
-      "market_cap": 871866272.7650299,
-      "headlines": []
-    },
-    {
       "symbol": "EOSE",
       "name": "Eos Energy",
       "price": 1.98,
@@ -823,18 +816,18 @@
     },
     {
       "label": "WTI",
-      "price": 103.19,
-      "change_pct": 0.4
+      "price": 104.19,
+      "change_pct": 1.37
     },
     {
       "label": "Brent",
-      "price": 112.12,
-      "change_pct": -2.77
+      "price": 113.22,
+      "change_pct": -1.82
     },
     {
       "label": "NatGas",
       "price": 2.9,
-      "change_pct": 2.88
+      "change_pct": 3.05
     }
   ]
 }
