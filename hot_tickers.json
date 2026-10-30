@@ -1,27 +1,10 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-30T05:01:22+00:00",
+  "as_of": "2026-10-30T08:15:11+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": [
-  {
-   "rank": 1,
-   "ticker": "LNG",
-   "company": "Cheniere Energy, Inc.",
-   "move_pct": 7.11,
-   "price": 318.94,
-   "volume": 4713800,
-   "volume_vs_avg": "~3x",
-   "heat_score": 53,
-   "direction": "up",
-   "why": "Cheniere Energy, Inc. (LNG) Stock Forecasts",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPV25NVmZQak9HN1VWSGVuZTVrVWNCYW1BeHlqMUJ2Y3ZwSmFYTDBBdDVGMERuT1ZLREFLRDJZN3A4Vk1vLU9PMnY3WEo5bU5GWEZ6WVp1bm1iNDc3Vi1NNXN4VFo4bDJpbHNuX01FaGVhV01mOS1sNkVUVTdGdEdSMG5LcXU0dk5CTkxINw?oc=5",
-   "published": "2026-10-30T04:27:53+00:00",
-   "sector": "Midstream & LNG"
-  }
- ]
+ "hot_tickers": []
 }
