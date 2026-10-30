@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-30T21:35:09+00:00",
+  "as_of": "2026-10-30T21:50:18+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,8 +11,8 @@
    "rank": 1,
    "ticker": "BE",
    "company": "Bloom Energy Corporation",
-   "move_pct": -8.34,
-   "price": 203.75,
+   "move_pct": -8.41,
+   "price": 203.6,
    "volume": 16555468,
    "volume_vs_avg": "~1.0x",
    "heat_score": 59,
@@ -27,8 +27,8 @@
    "rank": 2,
    "ticker": "CCJ",
    "company": "Cameco Corporation",
-   "move_pct": -7.77,
-   "price": 77.0,
+   "move_pct": -7.79,
+   "price": 76.99,
    "volume": 9546307,
    "volume_vs_avg": "~3x",
    "heat_score": 57,
@@ -49,10 +49,10 @@
    "volume_vs_avg": "~2x",
    "heat_score": 44,
    "direction": "down",
-   "why": "Eaton vs. nVent: Which Electrical Equipment Stock Has an Edge?",
+   "why": "Eaton Corp PLC (ETN) Stock Down 6.0% -- Now Undervalued? GF Scor",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVjNPOGh2Qy1WY0k0S3N1X0VXcVRzLThITGg5VGxqYm1rcU84WE9Hdk5tWS1xbVNic3hZRHd0bFFheHdJazBqd3hNWXlwTXF2Y0lDWHpXcnNOclYycGVVSGRZZ3ZtMlR6d0dDb21sZXJSQkFGWFJzLW9CZi1CbG5rdFhONW1LTl9pckRIZmIzeTR2aXNGRnZiY3htRC16NnNzVnc?oc=5",
-   "published": "2026-10-30T18:02:22+00:00",
+   "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcFRFUmVQblItNTJMenVTTkNrTC1MS0FQWXhPUGQ1bFRNUXpLb1llRW5NTWhPWWNGUjhLVnJxcjIxanlPMEdNNnB5clJsNWZZd2oxVkU1N05LTGxWb3FkMEZBdlRmeGpoR05HWWgzMnFEMjA1UkhWRjdBdHc2T0Q2WFIzSzZ4cHNuUDNsQld6V1NJZDNtX3hyZFc4czZ6UVljVExqQQ?oc=5",
+   "published": "2026-10-30T21:39:05+00:00",
    "sector": "Grid, Storage & Electrification"
   }
  ]
