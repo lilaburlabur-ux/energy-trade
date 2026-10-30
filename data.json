@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-10-30T23:52:23+00:00",
-  "as_of_local": "2026-10-30 23:52:23 UTC",
+  "as_of_utc": "2026-10-30T23:57:36+00:00",
+  "as_of_local": "2026-10-30 23:57:36 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "SLB"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -202,6 +200,15 @@
       "previous_close": 39.05,
       "change_pct": -2.3,
       "market_cap": 82384057292.45065,
+      "headlines": []
+    },
+    {
+      "symbol": "SLB",
+      "name": "SLB (Schlumberger)",
+      "price": 53.74,
+      "previous_close": 53.81,
+      "change_pct": -0.13,
+      "market_cap": 79321833880.0867,
       "headlines": []
     },
     {
@@ -685,8 +692,8 @@
           "name": "SLB Ltd",
           "short": "SLB",
           "weight_pct": 3.86,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": -0.13,
+          "price": 53.74,
           "currency": "USD"
         },
         {
@@ -784,8 +791,8 @@
         "name": "SLB Ltd",
         "short": "SLB",
         "weight_pct": 3.86,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": -0.13,
+        "price": 53.74,
         "currency": "USD"
       },
       {
