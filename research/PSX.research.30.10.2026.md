@@ -4,24 +4,24 @@ Signed file: `PSX.research.30.10.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-10-30, ~15-min delayed) |
-| Market cap | $106.73B |
+| Current price | $282.83 (2026-10-30, ~15-min delayed) |
+| Market cap | $110.32B |
 | Sector / Industry | Energy / Oil & Gas Refining & Marketing |
 | Main theme | Oil & Gas Refining & Marketing — see catalysts below |
-| Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
+| Current stance | High technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-10-30.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
-| Fundamental quality | Mixed | Profit margin 7.37%, revenue growth 49.20%. |
-| Value attractiveness | Reasonable | Forward P/E 9.01, EV/Sales —. |
-| Risk level | Moderate | Beta —, ATR nan% of price, short float 2.01%. |
+| Technical momentum | High | 1Y +111.02%; price +43.14% vs SMA200. |
+| Fresh setup quality | Watch | -4.86% from 52w high and near SMA20 — check for a tight base. |
+| Fundamental quality | Mixed | Profit margin 7.48%, revenue growth 46.40%. |
+| Value attractiveness | Reasonable | Forward P/E 9.20, EV/Sales 0.75. |
+| Risk level | Elevated | Beta 0.70, ATR 3.5% of price, short float 2.01%. |
 
-**Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
+**Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -35,38 +35,38 @@ Phillips 66 operates as an integrated downstream energy provider in the United S
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $297.29 (+nan%); 52w low $125.13 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 48.7 (neutral) |
-| Volatility | ATR(14) 9.85 (~nan% of price); beta — |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $282.83; 52w high $297.29 (-4.86%); 52w low $125.13 (+126.03%) |
+| Trend | +43.14% vs SMA200, +6.23% vs SMA50, +0.08% vs SMA20 |
+| Momentum | RSI(14) 55.3 (neutral) |
+| Volatility | ATR(14) 9.92 (~3.5% of price); beta 0.70 |
+| Setup perspective | -4.86% from 52w high and near SMA20 — check for a tight base. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -0.1% |
+| Month | +7.0% |
+| Quarter | +37.9% |
+| Half Y | +62.5% |
+| 1Y | +111.0% |
+| YTD | +121.1% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
 | Next earnings | 2026-10-28 | Next scheduled report (Yahoo estimate) |
-| Revenue (ttm) | $170.66B | Revenue growth 49.20% y/y |
-| Profitability | Gross 16.31%, operating 14.36%, net 7.37% | ROA —, ROE — |
-| Balance sheet | Cash —, debt — | Current ratio —, debt/equity 62.88 |
-| Valuation | P/E 8.78, forward P/E 9.01, P/S 0.63, P/B 3.77 | EV/Sales —, EV/EBITDA — |
+| Revenue (ttm) | $168.19B | Revenue growth 46.40% y/y |
+| Profitability | Gross 15.08%, operating 12.72%, net 7.48% | ROA —, ROE — |
+| Balance sheet | Cash $4.10B, debt $20.57B | Current ratio —, debt/equity 62.88 |
+| Valuation | P/E 9.07, forward P/E 9.20, P/S 0.66, P/B 3.58 | EV/Sales 0.75, EV/EBITDA 8.66 |
 | Growth expectations | Earnings growth 4300.00%, EPS q/q 4122.60% | Analyst mean target $285.95 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 80.66% |
-| Insider ownership | 0.21% |
+| Institutional ownership | 82.47% |
+| Insider ownership | 0.22% |
 | Short float | 2.01% |
 | Short ratio (days to cover) | 2.2 |
 
@@ -74,18 +74,20 @@ Phillips 66 operates as an integrated downstream energy provider in the United S
 
 | Holder | Shares | % Out | Reported |
 |---|---|---|---|
-| Blackrock Inc. | 34,112,861 | 8.55% | 2026-06-30 |
-| Vanguard Capital Management LLC | 26,183,335 | 6.56% | 2026-06-30 |
-| State Street Corporation | 26,044,694 | 6.53% | 2026-06-30 |
-| Vanguard Portfolio Management LLC | 22,214,319 | 5.57% | 2026-06-30 |
-| Elliott Investment Management L.P. | 19,251,000 | 4.82% | 2026-06-30 |
-| Wells Fargo & Company | 12,479,393 | 3.13% | 2026-06-30 |
-| Geode Capital Management, LLC | 11,122,010 | 2.79% | 2026-06-30 |
-| Morgan Stanley | 7,206,592 | 1.81% | 2026-06-30 |
-| Bank Of New York Mellon Corporation | 6,466,764 | 1.62% | 2026-06-30 |
-| Goldman Sachs Group Inc | 5,613,271 | 1.41% | 2026-06-30 |
+| Blackrock Inc. | 34,112,861 | 8.75% | 2026-06-30 |
+| Vanguard Capital Management LLC | 26,183,335 | 6.71% | 2026-06-30 |
+| State Street Corporation | 26,044,694 | 6.68% | 2026-06-30 |
+| Vanguard Portfolio Management LLC | 22,214,319 | 5.69% | 2026-06-30 |
+| Elliott Investment Management L.P. | 19,251,000 | 4.94% | 2026-06-30 |
+| Wells Fargo & Company | 12,479,393 | 3.20% | 2026-06-30 |
+| Geode Capital Management, LLC | 11,122,010 | 2.85% | 2026-06-30 |
+| Morgan Stanley | 7,206,592 | 1.85% | 2026-06-30 |
+| Bank Of New York Mellon Corporation | 6,466,764 | 1.66% | 2026-06-30 |
+| Goldman Sachs Group Inc | 5,613,271 | 1.44% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
+- **Volatility risk:** Beta 0.70, ATR 3.5% of price, short float 2.01%. Size positions accordingly.
+- **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -100,21 +102,21 @@ Phillips 66 operates as an integrated downstream energy provider in the United S
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | — |
-| Market cap | $106.73B | EV/EBITDA | — |
-| Beta | — | Gross margin | 16.31% |
-| RSI(14) | 48.7 | Operating margin | 14.36% |
-| ATR(14) | 9.85 | Profit margin | 7.37% |
-| SMA20 dist | +nan% | ROA | — |
-| SMA50 dist | +nan% | ROE | — |
-| SMA200 dist | +nan% | Revenue (ttm) | $170.66B |
-| 52W high | $297.29 | Revenue growth y/y | 49.20% |
-| 52W low | $125.13 | Inst. ownership | 80.66% |
-| P/E (ttm) | 8.78 | Insider ownership | 0.21% |
-| Forward P/E | 9.01 | Short float | 2.01% |
-| PEG (trailing) | 0.88 | Avg volume | 2,829,865 |
-| P/S | 0.63 | Employees | 12,600 |
-| P/B | 3.77 | Analyst rec (1=buy..5=sell) | 2.2 |
+| Price | $282.83 | EV/Sales | 0.75 |
+| Market cap | $110.32B | EV/EBITDA | 8.66 |
+| Beta | 0.70 | Gross margin | 15.08% |
+| RSI(14) | 55.3 | Operating margin | 12.72% |
+| ATR(14) | 9.92 | Profit margin | 7.48% |
+| SMA20 dist | +0.08% | ROA | — |
+| SMA50 dist | +6.23% | ROE | — |
+| SMA200 dist | +43.14% | Revenue (ttm) | $168.19B |
+| 52W high | $297.29 | Revenue growth y/y | 46.40% |
+| 52W low | $125.13 | Inst. ownership | 82.47% |
+| P/E (ttm) | 9.07 | Insider ownership | 0.22% |
+| Forward P/E | 9.20 | Short float | 2.01% |
+| PEG (trailing) | 0.88 | Avg volume | 2,848,376 |
+| P/S | 0.66 | Employees | 12,600 |
+| P/B | 3.58 | Analyst rec (1=buy..5=sell) | 2.2 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
@@ -129,7 +131,7 @@ Phillips 66 operates as an integrated downstream energy provider in the United S
 | 2026-10-08 | down | Mizuho | Outperform → Neutral |
 
 ## 9. Conclusion
-PSX: Moderate momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+PSX: High momentum / mixed fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

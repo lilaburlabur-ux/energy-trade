@@ -4,24 +4,24 @@ Signed file: `SEDG.research.30.10.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-10-30, ~15-min delayed) |
-| Market cap | $1.88B |
+| Current price | $29.32 (2026-10-30, ~15-min delayed) |
+| Market cap | $1.80B |
 | Sector / Industry | Technology / Solar |
 | Main theme | Solar — see catalysts below |
-| Current stance | Moderate technical momentum, weak fundamentals, value: low (expensive), risk: high. |
+| Current stance | Low technical momentum, weak fundamentals, value: low (expensive), risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-10-30.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-30.69%) with negative half-year (-31.67%). |
+| Fresh setup quality | Poor / broken | -62.65% from 52w high — base needs to rebuild. |
 | Fundamental quality | Weak | Negative profit margin (-20.29%). |
-| Value attractiveness | Low (expensive) | Forward P/E 38.23, EV/Sales 1.31. |
-| Risk level | High | Beta 1.44, ATR nan% of price, short float 20.69%. |
+| Value attractiveness | Low (expensive) | Forward P/E 36.71, EV/Sales 1.30. |
+| Risk level | High | Beta 1.44, ATR 7.4% of price, short float 20.69%. |
 
-**Bottom line:** Moderate technical momentum, weak fundamentals, value: low (expensive), risk: high.
+**Bottom line:** Low technical momentum, weak fundamentals, value: low (expensive), risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -35,22 +35,22 @@ SolarEdge Technologies, Inc., together with its subsidiaries, operates as an ene
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $78.51 (+nan%); 52w low $28.47 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 38.7 (neutral) |
-| Volatility | ATR(14) 2.24 (~nan% of price); beta 1.44 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $29.32; 52w high $78.51 (-62.65%); 52w low $28.47 (+2.99%) |
+| Trend | -30.69% vs SMA200, -10.75% vs SMA50, -8.32% vs SMA20 |
+| Momentum | RSI(14) 39.6 (neutral) |
+| Volatility | ATR(14) 2.18 (~7.4% of price); beta 1.44 |
+| Setup perspective | -62.65% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -12.0% |
+| Month | -5.0% |
+| Quarter | -35.0% |
+| Half Y | -31.7% |
+| 1Y | -19.2% |
+| YTD | -6.5% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -59,13 +59,13 @@ SolarEdge Technologies, Inc., together with its subsidiaries, operates as an ene
 | Revenue (ttm) | $1.33B | Revenue growth 19.60% y/y |
 | Profitability | Gross 21.25%, operating -6.51%, net -20.29% | ROA -3.84%, ROE -58.42% |
 | Balance sheet | Cash $546.94M, debt $407.35M | Current ratio 2.03, debt/equity 98.85 |
-| Valuation | P/E —, forward P/E 38.23, P/S 1.41, P/B 4.56 | EV/Sales 1.31, EV/EBITDA -14.37 |
-| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $37.37 (19 analysts) |
+| Valuation | P/E —, forward P/E 36.71, P/S 1.35, P/B 4.38 | EV/Sales 1.30, EV/EBITDA -14.36 |
+| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $37.11 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 101.37% |
+| Institutional ownership | 101.23% |
 | Insider ownership | 1.12% |
 | Short float | 20.69% |
 | Short ratio (days to cover) | 4.3 |
@@ -86,10 +86,11 @@ SolarEdge Technologies, Inc., together with its subsidiaries, operates as an ene
 | Legal & General Group PLC | 1,302,103 | 2.12% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 38.23, EV/Sales 1.31. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 1.44, ATR nan% of price, short float 20.69%. Size positions accordingly.
+- **Valuation risk:** Forward P/E 36.71, EV/Sales 1.30. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 1.44, ATR 7.4% of price, short float 20.69%. Size positions accordingly.
 - **Short interest risk:** short float 20.69% can fuel squeezes both ways around news.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
+- **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -104,21 +105,21 @@ SolarEdge Technologies, Inc., together with its subsidiaries, operates as an ene
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 1.31 |
-| Market cap | $1.88B | EV/EBITDA | -14.37 |
+| Price | $29.32 | EV/Sales | 1.30 |
+| Market cap | $1.80B | EV/EBITDA | -14.36 |
 | Beta | 1.44 | Gross margin | 21.25% |
-| RSI(14) | 38.7 | Operating margin | -6.51% |
-| ATR(14) | 2.24 | Profit margin | -20.29% |
-| SMA20 dist | +nan% | ROA | -3.84% |
-| SMA50 dist | +nan% | ROE | -58.42% |
-| SMA200 dist | +nan% | Revenue (ttm) | $1.33B |
+| RSI(14) | 39.6 | Operating margin | -6.51% |
+| ATR(14) | 2.18 | Profit margin | -20.29% |
+| SMA20 dist | -8.32% | ROA | -3.84% |
+| SMA50 dist | -10.75% | ROE | -58.42% |
+| SMA200 dist | -30.69% | Revenue (ttm) | $1.33B |
 | 52W high | $78.51 | Revenue growth y/y | 19.60% |
-| 52W low | $28.47 | Inst. ownership | 101.37% |
+| 52W low | $28.47 | Inst. ownership | 101.23% |
 | P/E (ttm) | — | Insider ownership | 1.12% |
-| Forward P/E | 38.23 | Short float | 20.69% |
-| PEG (trailing) | — | Avg volume | 3,173,493 |
-| P/S | 1.41 | Employees | 3,576 |
-| P/B | 4.56 | Analyst rec (1=buy..5=sell) | 3.1 |
+| Forward P/E | 36.71 | Short float | 20.69% |
+| PEG (trailing) | — | Avg volume | 3,182,309 |
+| P/S | 1.35 | Employees | 3,576 |
+| P/B | 4.38 | Analyst rec (1=buy..5=sell) | 3.1 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
@@ -133,7 +134,7 @@ SolarEdge Technologies, Inc., together with its subsidiaries, operates as an ene
 | 2026-09-11 | main | JP Morgan | Neutral → Neutral |
 
 ## 9. Conclusion
-SEDG: Moderate momentum / weak fundamentals / low (expensive) value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+SEDG: Low momentum / weak fundamentals / low (expensive) value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

@@ -4,24 +4,24 @@ Signed file: `VRT.research.30.10.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-10-30, ~15-min delayed) |
-| Market cap | $94.69B |
+| Current price | $232.50 (2026-10-30, ~15-min delayed) |
+| Market cap | $89.53B |
 | Sector / Industry | Industrials / Electrical Equipment & Parts |
 | Main theme | Electrical Equipment & Parts — see catalysts below |
-| Current stance | Moderate technical momentum, strong fundamentals, value: fair-to-demanding, risk: high. |
+| Current stance | Low technical momentum, strong fundamentals, value: fair-to-demanding, risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-10-30.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-14.03%) with negative half-year (-29.15%). |
+| Fresh setup quality | Poor / broken | -38.17% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 16.00%, revenue growth 61.20%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 26.02, EV/Sales —. |
-| Risk level | High | Beta 2.05, ATR nan% of price, short float 3.63%. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 23.86, EV/Sales 7.18. |
+| Risk level | High | Beta 2.05, ATR 6.1% of price, short float 3.63%. |
 
-**Bottom line:** Moderate technical momentum, strong fundamentals, value: fair-to-demanding, risk: high.
+**Bottom line:** Low technical momentum, strong fundamentals, value: fair-to-demanding, risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -35,37 +35,37 @@ Vertiv Holdings Co designs, manufactures, and services critical digital infrastr
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $376.06 (+nan%); 52w low $149.73 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 57.0 (neutral) |
-| Volatility | ATR(14) 13.45 (~nan% of price); beta 2.05 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $232.50; 52w high $376.06 (-38.17%); 52w low $149.73 (+55.28%) |
+| Trend | -14.03% vs SMA200, -4.16% vs SMA50, +3.29% vs SMA20 |
+| Momentum | RSI(14) 51.5 (neutral) |
+| Volatility | ATR(14) 14.16 (~6.1% of price); beta 2.05 |
+| Setup perspective | -38.17% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | +19.6% |
+| Month | -5.5% |
+| Quarter | -11.6% |
+| Half Y | -29.2% |
+| 1Y | +16.8% |
+| YTD | +32.5% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
 | Next earnings | 2026-10-28 | Next scheduled report (Yahoo estimate) |
-| Revenue (ttm) | — | Revenue growth 61.20% y/y |
-| Profitability | Gross 38.12%, operating 0.00%, net 16.00% | ROA 11.52%, ROE 46.57% |
+| Revenue (ttm) | $13.12B | Revenue growth 61.20% y/y |
+| Profitability | Gross 38.12%, operating 22.98%, net 16.00% | ROA 11.52%, ROE 46.57% |
 | Balance sheet | Cash $3.71B, debt $3.27B | Current ratio 1.39, debt/equity 59.40 |
-| Valuation | P/E 45.97, forward P/E 26.02, P/S —, P/B 17.21 | EV/Sales —, EV/EBITDA — |
-| Growth expectations | Earnings growth 91.20%, EPS q/q 91.80% | Analyst mean target $338.36 (28 analysts) |
+| Valuation | P/E 43.46, forward P/E 23.86, P/S 6.83, P/B 16.27 | EV/Sales 7.18, EV/EBITDA 30.48 |
+| Growth expectations | Earnings growth 91.20%, EPS q/q 91.80% | Analyst mean target $339.07 (28 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 84.60% |
+| Institutional ownership | 84.54% |
 | Insider ownership | 0.24% |
 | Short float | 3.63% |
 | Short ratio (days to cover) | 2.8 |
@@ -80,14 +80,15 @@ Vertiv Holdings Co designs, manufactures, and services critical digital infrastr
 | State Street Corporation | 16,531,530 | 4.29% | 2026-06-30 |
 | JPMORGAN CHASE & CO | 10,061,204 | 2.61% | 2026-06-30 |
 | Price (T.Rowe) Associates Inc | 9,110,798 | 2.37% | 2026-06-30 |
-| Geode Capital Management, LLC | 9,028,475 | 2.35% | 2026-06-30 |
+| Geode Capital Management, LLC | 9,028,475 | 2.34% | 2026-06-30 |
 | Bank of America Corporation | 8,280,709 | 2.15% | 2026-06-30 |
 | Morgan Stanley | 6,894,546 | 1.79% | 2026-06-30 |
 | Invesco Ltd. | 5,537,463 | 1.44% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 26.02, EV/Sales —. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 2.05, ATR nan% of price, short float 3.63%. Size positions accordingly.
+- **Valuation risk:** Forward P/E 23.86, EV/Sales 7.18. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 2.05, ATR 6.1% of price, short float 3.63%. Size positions accordingly.
+- **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -102,21 +103,21 @@ Vertiv Holdings Co designs, manufactures, and services critical digital infrastr
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | — |
-| Market cap | $94.69B | EV/EBITDA | — |
+| Price | $232.50 | EV/Sales | 7.18 |
+| Market cap | $89.53B | EV/EBITDA | 30.48 |
 | Beta | 2.05 | Gross margin | 38.12% |
-| RSI(14) | 57.0 | Operating margin | 0.00% |
-| ATR(14) | 13.45 | Profit margin | 16.00% |
-| SMA20 dist | +nan% | ROA | 11.52% |
-| SMA50 dist | +nan% | ROE | 46.57% |
-| SMA200 dist | +nan% | Revenue (ttm) | — |
+| RSI(14) | 51.5 | Operating margin | 22.98% |
+| ATR(14) | 14.16 | Profit margin | 16.00% |
+| SMA20 dist | +3.29% | ROA | 11.52% |
+| SMA50 dist | -4.16% | ROE | 46.57% |
+| SMA200 dist | -14.03% | Revenue (ttm) | $13.12B |
 | 52W high | $376.06 | Revenue growth y/y | 61.20% |
-| 52W low | $149.73 | Inst. ownership | 84.60% |
-| P/E (ttm) | 45.97 | Insider ownership | 0.24% |
-| Forward P/E | 26.02 | Short float | 3.63% |
-| PEG (trailing) | 0.80 | Avg volume | 5,693,578 |
-| P/S | — | Employees | 34,000 |
-| P/B | 17.21 | Analyst rec (1=buy..5=sell) | 1.4 |
+| 52W low | $149.73 | Inst. ownership | 84.54% |
+| P/E (ttm) | 43.46 | Insider ownership | 0.24% |
+| Forward P/E | 23.86 | Short float | 3.63% |
+| PEG (trailing) | 0.80 | Avg volume | 5,617,737 |
+| P/S | 6.83 | Employees | 34,000 |
+| P/B | 16.27 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
@@ -131,7 +132,7 @@ Vertiv Holdings Co designs, manufactures, and services critical digital infrastr
 | 2026-10-12 | main | Evercore ISI Group | Outperform → Outperform |
 
 ## 9. Conclusion
-VRT: Moderate momentum / strong fundamentals / fair-to-demanding value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+VRT: Low momentum / strong fundamentals / fair-to-demanding value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

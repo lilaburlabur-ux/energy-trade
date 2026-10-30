@@ -4,24 +4,24 @@ Signed file: `XOM.research.30.10.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-10-30, ~15-min delayed) |
-| Market cap | $753.67B |
+| Current price | $187.25 (2026-10-30, ~15-min delayed) |
+| Market cap | $769.96B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
-| Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
+| Current stance | High technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-10-30.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +65.46%; price +22.07% vs SMA200. |
+| Fresh setup quality | Moderate / wait | +0.00% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 9.07%, revenue growth 44.10%. |
-| Value attractiveness | Reasonable | Forward P/E 15.26, EV/Sales 2.19. |
-| Risk level | Moderate | Beta 0.21, ATR nan% of price, short float 1.15%. |
+| Value attractiveness | Reasonable | Forward P/E 15.59, EV/Sales 2.19. |
+| Risk level | Moderate | Beta 0.21, ATR 2.1% of price, short float 1.15%. |
 
-**Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
+**Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -35,22 +35,22 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $184.54 (+nan%); 52w low $110.48 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 67.2 (neutral) |
-| Volatility | ATR(14) 3.91 (~nan% of price); beta 0.21 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $187.25; 52w high $187.25 (+0.00%); 52w low $110.48 (+69.49%) |
+| Trend | +22.07% vs SMA200, +11.62% vs SMA50, +6.41% vs SMA20 |
+| Momentum | RSI(14) 73.0 (overbought) |
+| Volatility | ATR(14) 3.97 (~2.1% of price); beta 0.21 |
+| Setup perspective | +0.00% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | +2.2% |
+| Month | +14.3% |
+| Quarter | +21.5% |
+| Half Y | +24.2% |
+| 1Y | +65.5% |
+| YTD | +55.7% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -59,13 +59,13 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 | Revenue (ttm) | $361.06B | Revenue growth 44.10% y/y |
 | Profitability | Gross 29.77%, operating 15.86%, net 9.07% | ROA 5.52%, ROE 12.58% |
 | Balance sheet | Cash $10.59B, debt $42.37B | Current ratio 1.14, debt/equity 15.92 |
-| Valuation | P/E 23.59, forward P/E 15.26, P/S 2.09, P/B 2.91 | EV/Sales 2.19, EV/EBITDA 11.66 |
+| Valuation | P/E 24.10, forward P/E 15.59, P/S 2.13, P/B 2.97 | EV/Sales 2.19, EV/EBITDA 11.66 |
 | Growth expectations | Earnings growth 112.80%, EPS q/q 105.10% | Analyst mean target $179.41 (22 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 67.03% |
+| Institutional ownership | 67.02% |
 | Insider ownership | 0.08% |
 | Short float | 1.15% |
 | Short ratio (days to cover) | 3.3 |
@@ -86,6 +86,7 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 | NORGES BANK | 60,999,693 | 1.47% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
+- **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -100,21 +101,21 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 2.19 |
-| Market cap | $753.67B | EV/EBITDA | 11.66 |
+| Price | $187.25 | EV/Sales | 2.19 |
+| Market cap | $769.96B | EV/EBITDA | 11.66 |
 | Beta | 0.21 | Gross margin | 29.77% |
-| RSI(14) | 67.2 | Operating margin | 15.86% |
-| ATR(14) | 3.91 | Profit margin | 9.07% |
-| SMA20 dist | +nan% | ROA | 5.52% |
-| SMA50 dist | +nan% | ROE | 12.58% |
-| SMA200 dist | +nan% | Revenue (ttm) | $361.06B |
-| 52W high | $184.54 | Revenue growth y/y | 44.10% |
-| 52W low | $110.48 | Inst. ownership | 67.03% |
-| P/E (ttm) | 23.59 | Insider ownership | 0.08% |
-| Forward P/E | 15.26 | Short float | 1.15% |
-| PEG (trailing) | 1.48 | Avg volume | 13,350,051 |
-| P/S | 2.09 | Employees | 57,900 |
-| P/B | 2.91 | Analyst rec (1=buy..5=sell) | 2.4 |
+| RSI(14) | 73.0 | Operating margin | 15.86% |
+| ATR(14) | 3.97 | Profit margin | 9.07% |
+| SMA20 dist | +6.41% | ROA | 5.52% |
+| SMA50 dist | +11.62% | ROE | 12.58% |
+| SMA200 dist | +22.07% | Revenue (ttm) | $361.06B |
+| 52W high | $187.25 | Revenue growth y/y | 44.10% |
+| 52W low | $110.48 | Inst. ownership | 67.02% |
+| P/E (ttm) | 24.10 | Insider ownership | 0.08% |
+| Forward P/E | 15.59 | Short float | 1.15% |
+| PEG (trailing) | 1.49 | Avg volume | 13,324,528 |
+| P/S | 2.13 | Employees | 57,900 |
+| P/B | 2.97 | Analyst rec (1=buy..5=sell) | 2.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
@@ -129,7 +130,7 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 | 2026-08-07 | main | TD Cowen | Buy → Buy |
 
 ## 9. Conclusion
-XOM: Moderate momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+XOM: High momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

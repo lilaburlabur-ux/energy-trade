@@ -4,24 +4,24 @@ Signed file: `NXT.research.30.10.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-10-30, ~15-min delayed) |
-| Market cap | $12.26B |
+| Current price | $78.65 (2026-10-30, ~15-min delayed) |
+| Market cap | $12.08B |
 | Sector / Industry | Technology / Solar |
 | Main theme | Solar — see catalysts below |
-| Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
+| Current stance | Low technical momentum, strong fundamentals, value: reasonable, risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-10-30.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
-| Fundamental quality | Mixed | Profit margin 16.36%, revenue growth 8.20%. |
-| Value attractiveness | Reasonable | Forward P/E 13.86, EV/Sales 3.11. |
-| Risk level | Elevated | Beta 1.94, ATR nan% of price, short float 8.83%. |
+| Technical momentum | Low | Below SMA200 (-26.41%) with negative half-year (-34.42%). |
+| Fresh setup quality | Poor / broken | -49.71% from 52w high — base needs to rebuild. |
+| Fundamental quality | Strong | Profit margin 15.98%, revenue growth 22.50%. |
+| Value attractiveness | Reasonable | Forward P/E 13.50, EV/Sales 2.89. |
+| Risk level | High | Beta 1.94, ATR 5.6% of price, short float 8.83%. |
 
-**Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
+**Bottom line:** Low technical momentum, strong fundamentals, value: reasonable, risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -35,37 +35,37 @@ Nextpower Inc. provides solar and energy technology solutions for utility-scale 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $156.40 (+nan%); 52w low $76.48 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 50.1 (neutral) |
-| Volatility | ATR(14) 4.37 (~nan% of price); beta 1.94 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $78.65; 52w high $156.40 (-49.71%); 52w low $76.48 (+2.84%) |
+| Trend | -26.41% vs SMA200, -4.55% vs SMA50, -4.18% vs SMA20 |
+| Momentum | RSI(14) 44.9 (neutral) |
+| Volatility | ATR(14) 4.38 (~5.6% of price); beta 1.94 |
+| Setup perspective | -49.71% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -0.3% |
+| Month | -1.0% |
+| Quarter | -13.3% |
+| Half Y | -34.4% |
+| 1Y | -23.4% |
+| YTD | -15.2% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
 | Next earnings | 2027-01-27 | Next scheduled report (Yahoo estimate) |
-| Revenue (ttm) | $3.63B | Revenue growth 8.20% y/y |
-| Profitability | Gross 22.98%, operating 20.86%, net 16.36% | ROA 11.68%, ROE 27.22% |
-| Balance sheet | Cash $1.21B, debt $38.40M | Current ratio 2.69, debt/equity 1.50 |
-| Valuation | P/E 20.11, forward P/E 13.86, P/S 3.38, P/B 5.11 | EV/Sales 3.11, EV/EBITDA 15.06 |
-| Growth expectations | Earnings growth 2.90%, EPS q/q 5.20% | Analyst mean target $132.11 (28 analysts) |
+| Revenue (ttm) | $3.83B | Revenue growth 22.50% y/y |
+| Profitability | Gross 23.13%, operating 18.71%, net 15.98% | ROA 11.11%, ROE 26.46% |
+| Balance sheet | Cash $1.03B, debt $0 | Current ratio 2.23, debt/equity — |
+| Valuation | P/E 19.81, forward P/E 13.50, P/S 3.15, P/B 4.50 | EV/Sales 2.89, EV/EBITDA 14.19 |
+| Growth expectations | Earnings growth 11.30%, EPS q/q 12.70% | Analyst mean target $130.00 (28 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 108.33% |
+| Institutional ownership | 108.30% |
 | Insider ownership | 0.64% |
 | Short float | 8.83% |
 | Short ratio (days to cover) | 4.5 |
@@ -86,8 +86,9 @@ Nextpower Inc. provides solar and energy technology solutions for utility-scale 
 | Fundsmith LLP | 2,856,092 | 1.88% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.94, ATR nan% of price, short float 8.83%. Size positions accordingly.
+- **Volatility risk:** Beta 1.94, ATR 5.6% of price, short float 8.83%. Size positions accordingly.
 - **Short interest risk:** short float 8.83% can fuel squeezes both ways around news.
+- **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -102,25 +103,26 @@ Nextpower Inc. provides solar and energy technology solutions for utility-scale 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 3.11 |
-| Market cap | $12.26B | EV/EBITDA | 15.06 |
-| Beta | 1.94 | Gross margin | 22.98% |
-| RSI(14) | 50.1 | Operating margin | 20.86% |
-| ATR(14) | 4.37 | Profit margin | 16.36% |
-| SMA20 dist | +nan% | ROA | 11.68% |
-| SMA50 dist | +nan% | ROE | 27.22% |
-| SMA200 dist | +nan% | Revenue (ttm) | $3.63B |
-| 52W high | $156.40 | Revenue growth y/y | 8.20% |
-| 52W low | $76.48 | Inst. ownership | 108.33% |
-| P/E (ttm) | 20.11 | Insider ownership | 0.64% |
-| Forward P/E | 13.86 | Short float | 8.83% |
-| PEG (trailing) | 3.15 | Avg volume | 2,282,484 |
-| P/S | 3.38 | Employees | 1,993 |
-| P/B | 5.11 | Analyst rec (1=buy..5=sell) | 1.4 |
+| Price | $78.65 | EV/Sales | 2.89 |
+| Market cap | $12.08B | EV/EBITDA | 14.19 |
+| Beta | 1.94 | Gross margin | 23.13% |
+| RSI(14) | 44.9 | Operating margin | 18.71% |
+| ATR(14) | 4.38 | Profit margin | 15.98% |
+| SMA20 dist | -4.18% | ROA | 11.11% |
+| SMA50 dist | -4.55% | ROE | 26.46% |
+| SMA200 dist | -26.41% | Revenue (ttm) | $3.83B |
+| 52W high | $156.40 | Revenue growth y/y | 22.50% |
+| 52W low | $76.48 | Inst. ownership | 108.30% |
+| P/E (ttm) | 19.81 | Insider ownership | 0.64% |
+| Forward P/E | 13.50 | Short float | 8.83% |
+| PEG (trailing) | 3.15 | Avg volume | 2,284,615 |
+| P/S | 3.15 | Employees | 1,993 |
+| P/B | 4.50 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-10-30 | main | Wells Fargo | Overweight → Overweight |
 | 2026-10-29 | main | JP Morgan | Overweight → Overweight |
 | 2026-10-29 | main | Susquehanna | Positive → Positive |
 | 2026-10-29 | main | Needham | Buy → Buy |
@@ -128,10 +130,9 @@ Nextpower Inc. provides solar and energy technology solutions for utility-scale 
 | 2026-10-21 | main | BMO Capital | Outperform → Outperform |
 | 2026-10-19 | main | JP Morgan | Overweight → Overweight |
 | 2026-10-15 | main | Mizuho | Neutral → Neutral |
-| 2026-10-14 | main | Susquehanna | Positive → Positive |
 
 ## 9. Conclusion
-NXT: Moderate momentum / mixed fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+NXT: Low momentum / strong fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

@@ -4,24 +4,24 @@ Signed file: `DVN.research.30.10.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-10-30, ~15-min delayed) |
-| Market cap | $56.29B |
+| Current price | $52.15 (2026-10-30, ~15-min delayed) |
+| Market cap | $57.37B |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
-| Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate. |
+| Current stance | High technical momentum, strong fundamentals, value: reasonable, risk: moderate. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-10-30.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +66.86%; price +14.57% vs SMA200. |
+| Fresh setup quality | Moderate / wait | +0.00% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 17.46%, revenue growth 64.20%. |
-| Value attractiveness | Reasonable | Forward P/E 9.46, EV/Sales 3.58. |
-| Risk level | Moderate | Beta 0.54, ATR nan% of price, short float 2.52%. |
+| Value attractiveness | Reasonable | Forward P/E 9.64, EV/Sales 3.58. |
+| Risk level | Moderate | Beta 0.54, ATR 2.6% of price, short float 2.52%. |
 
-**Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate.
+**Bottom line:** High technical momentum, strong fundamentals, value: reasonable, risk: moderate.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -35,22 +35,22 @@ Devon Energy Corporation, an independent energy company, engages in the explorat
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $51.64 (+nan%); 52w low $31.21 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 60.2 (neutral) |
-| Volatility | ATR(14) 1.41 (~nan% of price); beta 0.54 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $52.15; 52w high $52.15 (+0.00%); 52w low $31.21 (+67.07%) |
+| Trend | +14.57% vs SMA200, +6.84% vs SMA50, +4.37% vs SMA20 |
+| Momentum | RSI(14) 63.8 (neutral) |
+| Volatility | ATR(14) 1.37 (~2.6% of price); beta 0.54 |
+| Setup perspective | +0.00% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | +1.5% |
+| Month | +10.6% |
+| Quarter | +17.8% |
+| Half Y | +4.6% |
+| 1Y | +66.9% |
+| YTD | +40.3% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -59,13 +59,13 @@ Devon Energy Corporation, an independent energy company, engages in the explorat
 | Revenue (ttm) | $18.78B | Revenue growth 64.20% y/y |
 | Profitability | Gross 50.35%, operating 41.08%, net 17.46% | ROA 5.91%, ROE 11.52% |
 | Balance sheet | Cash $950.00M, debt $11.89B | Current ratio 0.72, debt/equity 28.49 |
-| Valuation | P/E 11.15, forward P/E 9.46, P/S 3.00, P/B 1.41 | EV/Sales 3.58, EV/EBITDA 7.53 |
+| Valuation | P/E 11.36, forward P/E 9.64, P/S 3.05, P/B 1.44 | EV/Sales 3.58, EV/EBITDA 7.53 |
 | Growth expectations | Earnings growth 44.00%, EPS q/q 112.60% | Analyst mean target $61.69 (26 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 95.65% |
+| Institutional ownership | 95.64% |
 | Insider ownership | 0.77% |
 | Short float | 2.52% |
 | Short ratio (days to cover) | 2.3 |
@@ -86,6 +86,7 @@ Devon Energy Corporation, an independent energy company, engages in the explorat
 | Morgan Stanley | 23,513,769 | 2.14% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
+- **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -100,21 +101,21 @@ Devon Energy Corporation, an independent energy company, engages in the explorat
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 3.58 |
-| Market cap | $56.29B | EV/EBITDA | 7.53 |
+| Price | $52.15 | EV/Sales | 3.58 |
+| Market cap | $57.37B | EV/EBITDA | 7.53 |
 | Beta | 0.54 | Gross margin | 50.35% |
-| RSI(14) | 60.2 | Operating margin | 41.08% |
-| ATR(14) | 1.41 | Profit margin | 17.46% |
-| SMA20 dist | +nan% | ROA | 5.91% |
-| SMA50 dist | +nan% | ROE | 11.52% |
-| SMA200 dist | +nan% | Revenue (ttm) | $18.78B |
-| 52W high | $51.64 | Revenue growth y/y | 64.20% |
-| 52W low | $31.21 | Inst. ownership | 95.65% |
-| P/E (ttm) | 11.15 | Insider ownership | 0.77% |
-| Forward P/E | 9.46 | Short float | 2.52% |
-| PEG (trailing) | — | Avg volume | 10,686,898 |
-| P/S | 3.00 | Employees | 2,200 |
-| P/B | 1.41 | Analyst rec (1=buy..5=sell) | 1.2 |
+| RSI(14) | 63.8 | Operating margin | 41.08% |
+| ATR(14) | 1.37 | Profit margin | 17.46% |
+| SMA20 dist | +4.37% | ROA | 5.91% |
+| SMA50 dist | +6.84% | ROE | 11.52% |
+| SMA200 dist | +14.57% | Revenue (ttm) | $18.78B |
+| 52W high | $52.15 | Revenue growth y/y | 64.20% |
+| 52W low | $31.21 | Inst. ownership | 95.64% |
+| P/E (ttm) | 11.36 | Insider ownership | 0.77% |
+| Forward P/E | 9.64 | Short float | 2.52% |
+| PEG (trailing) | — | Avg volume | 10,627,467 |
+| P/S | 3.05 | Employees | 2,200 |
+| P/B | 1.44 | Analyst rec (1=buy..5=sell) | 1.2 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
@@ -129,7 +130,7 @@ Devon Energy Corporation, an independent energy company, engages in the explorat
 | 2026-09-28 | main | Wells Fargo | Overweight → Overweight |
 
 ## 9. Conclusion
-DVN: Moderate momentum / strong fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+DVN: High momentum / strong fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

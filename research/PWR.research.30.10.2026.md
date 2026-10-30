@@ -4,24 +4,24 @@ Signed file: `PWR.research.30.10.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-10-30, ~15-min delayed) |
-| Market cap | $95.50B |
+| Current price | $620.73 (2026-10-30, ~15-min delayed) |
+| Market cap | $93.53B |
 | Sector / Industry | Industrials / Engineering & Construction |
 | Main theme | Engineering & Construction — see catalysts below |
-| Current stance | Moderate technical momentum, mixed fundamentals, value: fair-to-demanding, risk: elevated. |
+| Current stance | Low technical momentum, mixed fundamentals, value: fair-to-demanding, risk: elevated. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-10-30.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
-| Fundamental quality | Mixed | Profit margin 4.03%, revenue growth 41.10%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 31.29, EV/Sales 3.09. |
-| Risk level | Elevated | Beta 1.27, ATR nan% of price, short float 2.64%. |
+| Technical momentum | Low | Below SMA200 (-0.85%) with negative half-year (-16.34%). |
+| Fresh setup quality | Moderate / wait | -20.92% from 52w high; no clean fresh pivot by default. |
+| Fundamental quality | Mixed | Profit margin 4.51%, revenue growth 57.40%. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 30.25, EV/Sales 2.71. |
+| Risk level | Elevated | Beta —, ATR 4.7% of price, short float 2.63%. |
 
-**Bottom line:** Moderate technical momentum, mixed fundamentals, value: fair-to-demanding, risk: elevated.
+**Bottom line:** Low technical momentum, mixed fundamentals, value: fair-to-demanding, risk: elevated.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -35,39 +35,39 @@ Quanta Services, Inc. offers infrastructure solutions for the electric and gas u
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $784.99 (+nan%); 52w low $412.96 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 45.8 (neutral) |
-| Volatility | ATR(14) 27.91 (~nan% of price); beta 1.27 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $620.73; 52w high $784.99 (-20.92%); 52w low $412.96 (+50.31%) |
+| Trend | -0.85% vs SMA200, -1.91% vs SMA50, -2.50% vs SMA20 |
+| Momentum | RSI(14) 48.9 (neutral) |
+| Volatility | ATR(14) 29.24 (~4.7% of price); beta — |
+| Setup perspective | -20.92% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | +13.6% |
+| Month | -6.3% |
+| Quarter | -8.7% |
+| Half Y | -16.3% |
+| 1Y | +38.5% |
+| YTD | +41.3% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
 | Next earnings | 2026-10-29 | Next scheduled report (Yahoo estimate) |
-| Revenue (ttm) | $32.91B | Revenue growth 41.10% y/y |
-| Profitability | Gross 15.46%, operating 7.22%, net 4.03% | ROA 5.23%, ROE 15.34% |
-| Balance sheet | Cash $506.43M, debt $6.60B | Current ratio 1.10, debt/equity 67.78 |
-| Valuation | P/E 72.76, forward P/E 31.29, P/S 2.90, P/B 10.63 | EV/Sales 3.09, EV/EBITDA 33.40 |
-| Growth expectations | Earnings growth 94.70%, EPS q/q 96.90% | Analyst mean target $760.90 (29 analysts) |
+| Revenue (ttm) | $37.29B | Revenue growth 57.40% y/y |
+| Profitability | Gross 15.76%, operating 8.63%, net 4.51% | ROA 5.72%, ROE 18.02% |
+| Balance sheet | Cash $2.32B, debt $7.51B | Current ratio 1.16, debt/equity 70.72 |
+| Valuation | P/E 71.10, forward P/E 30.25, P/S 2.51, P/B 8.87 | EV/Sales 2.71, EV/EBITDA 27.90 |
+| Growth expectations | Earnings growth 103.10%, EPS q/q 104.70% | Analyst mean target $765.87 (29 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 93.98% |
+| Institutional ownership | 93.97% |
 | Insider ownership | 0.67% |
-| Short float | 2.64% |
+| Short float | 2.63% |
 | Short ratio (days to cover) | 3.8 |
 
 **Top institutional holders:**
@@ -86,8 +86,8 @@ Quanta Services, Inc. offers infrastructure solutions for the electric and gas u
 | Morgan Stanley | 2,311,374 | 1.54% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 31.29, EV/Sales 3.09. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 1.27, ATR nan% of price, short float 2.64%. Size positions accordingly.
+- **Valuation risk:** Forward P/E 30.25, EV/Sales 2.71. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta —, ATR 4.7% of price, short float 2.63%. Size positions accordingly.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -102,36 +102,36 @@ Quanta Services, Inc. offers infrastructure solutions for the electric and gas u
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 3.09 |
-| Market cap | $95.50B | EV/EBITDA | 33.40 |
-| Beta | 1.27 | Gross margin | 15.46% |
-| RSI(14) | 45.8 | Operating margin | 7.22% |
-| ATR(14) | 27.91 | Profit margin | 4.03% |
-| SMA20 dist | +nan% | ROA | 5.23% |
-| SMA50 dist | +nan% | ROE | 15.34% |
-| SMA200 dist | +nan% | Revenue (ttm) | $32.91B |
-| 52W high | $784.99 | Revenue growth y/y | 41.10% |
-| 52W low | $412.96 | Inst. ownership | 93.98% |
-| P/E (ttm) | 72.76 | Insider ownership | 0.67% |
-| Forward P/E | 31.29 | Short float | 2.64% |
-| PEG (trailing) | 1.35 | Avg volume | 1,079,068 |
-| P/S | 2.90 | Employees | 69,500 |
-| P/B | 10.63 | Analyst rec (1=buy..5=sell) | 1.5 |
+| Price | $620.73 | EV/Sales | 2.71 |
+| Market cap | $93.53B | EV/EBITDA | 27.90 |
+| Beta | — | Gross margin | 15.76% |
+| RSI(14) | 48.9 | Operating margin | 8.63% |
+| ATR(14) | 29.24 | Profit margin | 4.51% |
+| SMA20 dist | -2.50% | ROA | 5.72% |
+| SMA50 dist | -1.91% | ROE | 18.02% |
+| SMA200 dist | -0.85% | Revenue (ttm) | $37.29B |
+| 52W high | $784.99 | Revenue growth y/y | 57.40% |
+| 52W low | $412.96 | Inst. ownership | 93.97% |
+| P/E (ttm) | 71.10 | Insider ownership | 0.67% |
+| Forward P/E | 30.25 | Short float | 2.63% |
+| PEG (trailing) | 1.41 | Avg volume | 1,063,390 |
+| P/S | 2.51 | Employees | 69,500 |
+| P/B | 8.87 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-10-30 | reit | Truist Securities | Buy → Buy |
+| 2026-10-30 | main | Evercore ISI Group | Outperform → Outperform |
 | 2026-10-27 | main | Truist Securities | Buy → Buy |
 | 2026-10-05 | main | Truist Securities | Buy → Buy |
 | 2026-09-28 | main | Piper Sandler | Overweight → Overweight |
 | 2026-09-24 | up | Bernstein | Market Perform → Outperform |
 | 2026-09-09 | init | Piper Sandler | — → Overweight |
 | 2026-08-07 | up | Keybanc | Sector Weight → Overweight |
-| 2026-08-03 | main | TD Cowen | Buy → Buy |
-| 2026-08-03 | reit | Truist Securities | Buy → Buy |
 
 ## 9. Conclusion
-PWR: Moderate momentum / mixed fundamentals / fair-to-demanding value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+PWR: Low momentum / mixed fundamentals / fair-to-demanding value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

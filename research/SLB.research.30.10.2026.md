@@ -4,8 +4,8 @@ Signed file: `SLB.research.30.10.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-10-30, ~15-min delayed) |
-| Market cap | $79.43B |
+| Current price | $53.47 (2026-10-30, ~15-min delayed) |
+| Market cap | $78.92B |
 | Sector / Industry | Energy / Oil & Gas Equipment & Services |
 | Main theme | Oil & Gas Equipment & Services — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `SLB.research.30.10.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +48.72%; price +4.63% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -10.58% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 8.40%, revenue growth 5.80%. |
-| Value attractiveness | Reasonable | Forward P/E 17.43, EV/Sales 2.40. |
-| Risk level | Moderate | Beta 0.84, ATR nan% of price, short float 4.32%. |
+| Value attractiveness | Reasonable | Forward P/E 17.32, EV/Sales 2.43. |
+| Risk level | Moderate | Beta 0.84, ATR 3.0% of price, short float 4.32%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
@@ -35,38 +35,38 @@ SLB N.V. engages in the provision of technology for the energy industry worldwid
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $59.79 (+nan%); 52w low $34.35 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 61.7 (neutral) |
-| Volatility | ATR(14) 1.68 (~nan% of price); beta 0.84 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $53.47; 52w high $59.79 (-10.58%); 52w low $34.35 (+55.65%) |
+| Trend | +4.63% vs SMA200, +1.97% vs SMA50, +5.76% vs SMA20 |
+| Momentum | RSI(14) 59.9 (neutral) |
+| Volatility | ATR(14) 1.58 (~3.0% of price); beta 0.84 |
+| Setup perspective | -10.58% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | +0.8% |
+| Month | +9.9% |
+| Quarter | +9.0% |
+| Half Y | -5.1% |
+| 1Y | +48.7% |
+| YTD | +35.2% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
 | Next earnings | 2027-01-22 | Next scheduled report (Yahoo estimate) |
 | Revenue (ttm) | $36.89B | Revenue growth 5.80% y/y |
-| Profitability | Gross 16.59%, operating 12.05%, net 8.40% | ROA 5.51%, ROE 11.66% |
-| Balance sheet | Cash $3.55B, debt $12.80B | Current ratio 1.39, debt/equity 47.04 |
-| Valuation | P/E 26.12, forward P/E 17.43, P/S 2.15, P/B 2.92 | EV/Sales 2.40, EV/EBITDA 12.25 |
+| Profitability | Gross 16.59%, operating 14.03%, net 8.40% | ROA 5.72%, ROE 11.66% |
+| Balance sheet | Cash $3.60B, debt $12.81B | Current ratio 1.39, debt/equity 47.08 |
+| Valuation | P/E 25.95, forward P/E 17.32, P/S 2.14, P/B 3.03 | EV/Sales 2.43, EV/EBITDA 12.16 |
 | Growth expectations | Earnings growth -2.00%, EPS q/q -0.50% | Analyst mean target $62.38 (29 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 94.10% |
-| Insider ownership | 0.22% |
+| Institutional ownership | 94.08% |
+| Insider ownership | 0.21% |
 | Short float | 4.32% |
 | Short ratio (days to cover) | 4.2 |
 
@@ -74,16 +74,16 @@ SLB N.V. engages in the provision of technology for the energy industry worldwid
 
 | Holder | Shares | % Out | Reported |
 |---|---|---|---|
-| Blackrock Inc. | 116,151,208 | 7.83% | 2026-06-30 |
-| Vanguard Capital Management LLC | 97,674,144 | 6.58% | 2026-06-30 |
-| State Street Corporation | 91,222,641 | 6.15% | 2026-06-30 |
-| Vanguard Portfolio Management LLC | 75,128,679 | 5.06% | 2026-06-30 |
-| Price (T.Rowe) Associates Inc | 61,619,448 | 4.15% | 2026-06-30 |
-| Charles Schwab Investment Management, Inc. | 48,266,346 | 3.25% | 2026-06-30 |
-| Capital World Investors | 47,500,241 | 3.20% | 2026-06-30 |
-| Morgan Stanley | 37,748,422 | 2.54% | 2026-06-30 |
-| Geode Capital Management, LLC | 35,283,508 | 2.38% | 2026-06-30 |
-| UBS Group AG | 31,447,572 | 2.12% | 2026-06-30 |
+| Blackrock Inc. | 116,151,208 | 7.87% | 2026-06-30 |
+| Vanguard Capital Management LLC | 97,674,144 | 6.62% | 2026-06-30 |
+| State Street Corporation | 91,222,641 | 6.18% | 2026-06-30 |
+| Vanguard Portfolio Management LLC | 75,128,679 | 5.09% | 2026-06-30 |
+| Price (T.Rowe) Associates Inc | 61,619,448 | 4.17% | 2026-06-30 |
+| Charles Schwab Investment Management, Inc. | 48,266,346 | 3.27% | 2026-06-30 |
+| Capital World Investors | 47,500,241 | 3.22% | 2026-06-30 |
+| Morgan Stanley | 37,748,422 | 2.56% | 2026-06-30 |
+| Geode Capital Management, LLC | 35,283,508 | 2.39% | 2026-06-30 |
+| UBS Group AG | 31,447,572 | 2.13% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
@@ -100,21 +100,21 @@ SLB N.V. engages in the provision of technology for the energy industry worldwid
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 2.40 |
-| Market cap | $79.43B | EV/EBITDA | 12.25 |
+| Price | $53.47 | EV/Sales | 2.43 |
+| Market cap | $78.92B | EV/EBITDA | 12.16 |
 | Beta | 0.84 | Gross margin | 16.59% |
-| RSI(14) | 61.7 | Operating margin | 12.05% |
-| ATR(14) | 1.68 | Profit margin | 8.40% |
-| SMA20 dist | +nan% | ROA | 5.51% |
-| SMA50 dist | +nan% | ROE | 11.66% |
-| SMA200 dist | +nan% | Revenue (ttm) | $36.89B |
+| RSI(14) | 59.9 | Operating margin | 14.03% |
+| ATR(14) | 1.58 | Profit margin | 8.40% |
+| SMA20 dist | +5.76% | ROA | 5.72% |
+| SMA50 dist | +1.97% | ROE | 11.66% |
+| SMA200 dist | +4.63% | Revenue (ttm) | $36.89B |
 | 52W high | $59.79 | Revenue growth y/y | 5.80% |
-| 52W low | $34.35 | Inst. ownership | 94.10% |
-| P/E (ttm) | 26.12 | Insider ownership | 0.22% |
-| Forward P/E | 17.43 | Short float | 4.32% |
-| PEG (trailing) | 1.46 | Avg volume | 12,347,167 |
-| P/S | 2.15 | Employees | 109,000 |
-| P/B | 2.92 | Analyst rec (1=buy..5=sell) | 1.5 |
+| 52W low | $34.35 | Inst. ownership | 94.08% |
+| P/E (ttm) | 25.95 | Insider ownership | 0.21% |
+| Forward P/E | 17.32 | Short float | 4.32% |
+| PEG (trailing) | 1.46 | Avg volume | 12,370,965 |
+| P/S | 2.14 | Employees | 109,000 |
+| P/B | 3.03 | Analyst rec (1=buy..5=sell) | 1.5 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

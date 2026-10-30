@@ -4,24 +4,24 @@ Signed file: `OXY.research.30.10.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-10-30, ~15-min delayed) |
-| Market cap | $62.99B |
+| Current price | $64.00 (2026-10-30, ~15-min delayed) |
+| Market cap | $63.98B |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
-| Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate. |
+| Current stance | High technical momentum, strong fundamentals, value: reasonable, risk: moderate. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-10-30.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +60.85%; price +14.91% vs SMA200. |
+| Fresh setup quality | Watch | -2.49% from 52w high and near SMA20 — check for a tight base. |
 | Fundamental quality | Strong | Profit margin 30.32%, revenue growth 53.40%. |
-| Value attractiveness | Reasonable | Forward P/E 12.56, EV/Sales 3.44. |
-| Risk level | Moderate | Beta 0.24, ATR nan% of price, short float 0.02%. |
+| Value attractiveness | Reasonable | Forward P/E 12.76, EV/Sales 3.44. |
+| Risk level | Moderate | Beta 0.24, ATR 2.4% of price, short float 0.02%. |
 
-**Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate.
+**Bottom line:** High technical momentum, strong fundamentals, value: reasonable, risk: moderate.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -35,22 +35,22 @@ Occidental Petroleum Corporation, together with its subsidiaries, engages in the
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $65.63 (+nan%); 52w low $38.38 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 59.9 (neutral) |
-| Volatility | ATR(14) 1.56 (~nan% of price); beta 0.24 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $64.00; 52w high $65.63 (-2.49%); 52w low $38.38 (+66.75%) |
+| Trend | +14.91% vs SMA200, +6.47% vs SMA50, +3.71% vs SMA20 |
+| Momentum | RSI(14) 64.5 (neutral) |
+| Volatility | ATR(14) 1.51 (~2.4% of price); beta 0.24 |
+| Setup perspective | -2.49% from 52w high and near SMA20 — check for a tight base. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -0.3% |
+| Month | +10.7% |
+| Quarter | +15.9% |
+| Half Y | +10.0% |
+| 1Y | +60.9% |
+| YTD | +53.1% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -59,7 +59,7 @@ Occidental Petroleum Corporation, together with its subsidiaries, engages in the
 | Revenue (ttm) | $23.93B | Revenue growth 53.40% y/y |
 | Profitability | Gross 73.32%, operating 45.44%, net 30.32% | ROA 4.68%, ROE 10.63% |
 | Balance sheet | Cash $4.15B, debt $14.63B | Current ratio 1.41, debt/equity 34.51 |
-| Valuation | P/E 17.90, forward P/E 12.56, P/S 2.63, P/B 1.88 | EV/Sales 3.44, EV/EBITDA 6.01 |
+| Valuation | P/E 18.18, forward P/E 12.76, P/S 2.67, P/B 1.91 | EV/Sales 3.44, EV/EBITDA 6.01 |
 | Growth expectations | Earnings growth 964.90%, EPS q/q 550.00% | Analyst mean target $70.74 (27 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -86,6 +86,7 @@ Occidental Petroleum Corporation, together with its subsidiaries, engages in the
 | AQR Capital Management, LLC | 11,473,188 | 1.15% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
+- **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -100,21 +101,21 @@ Occidental Petroleum Corporation, together with its subsidiaries, engages in the
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 3.44 |
-| Market cap | $62.99B | EV/EBITDA | 6.01 |
+| Price | $64.00 | EV/Sales | 3.44 |
+| Market cap | $63.98B | EV/EBITDA | 6.01 |
 | Beta | 0.24 | Gross margin | 73.32% |
-| RSI(14) | 59.9 | Operating margin | 45.44% |
-| ATR(14) | 1.56 | Profit margin | 30.32% |
-| SMA20 dist | +nan% | ROA | 4.68% |
-| SMA50 dist | +nan% | ROE | 10.63% |
-| SMA200 dist | +nan% | Revenue (ttm) | $23.93B |
+| RSI(14) | 64.5 | Operating margin | 45.44% |
+| ATR(14) | 1.51 | Profit margin | 30.32% |
+| SMA20 dist | +3.71% | ROA | 4.68% |
+| SMA50 dist | +6.47% | ROE | 10.63% |
+| SMA200 dist | +14.91% | Revenue (ttm) | $23.93B |
 | 52W high | $65.63 | Revenue growth y/y | 53.40% |
 | 52W low | $38.38 | Inst. ownership | 58.19% |
-| P/E (ttm) | 17.90 | Insider ownership | 26.81% |
-| Forward P/E | 12.56 | Short float | 0.02% |
-| PEG (trailing) | 0.94 | Avg volume | 8,447,931 |
-| P/S | 2.63 | Employees | 10,412 |
-| P/B | 1.88 | Analyst rec (1=buy..5=sell) | 2.2 |
+| P/E (ttm) | 18.18 | Insider ownership | 26.81% |
+| Forward P/E | 12.76 | Short float | 0.02% |
+| PEG (trailing) | 0.95 | Avg volume | 8,460,118 |
+| P/S | 2.67 | Employees | 10,412 |
+| P/B | 1.91 | Analyst rec (1=buy..5=sell) | 2.2 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
@@ -129,7 +130,7 @@ Occidental Petroleum Corporation, together with its subsidiaries, engages in the
 | 2026-09-14 | main | UBS | Neutral → Neutral |
 
 ## 9. Conclusion
-OXY: Moderate momentum / strong fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+OXY: High momentum / strong fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |
