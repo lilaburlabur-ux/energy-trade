@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-10-30T12:44:17+00:00",
-  "as_of_local": "2026-10-30 12:44:17 UTC",
+  "as_of_utc": "2026-10-30T12:49:17+00:00",
+  "as_of_local": "2026-10-30 12:49:17 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "NXT"
+    "WFRD"
   ],
   "stocks": [
     {
@@ -75,7 +75,7 @@
       "price": 393.72,
       "previous_close": 392.88,
       "change_pct": 0.21,
-      "market_cap": 152881476473.99902,
+      "market_cap": 152920848474.1211,
       "headlines": []
     },
     {
@@ -93,7 +93,7 @@
       "price": 432.51,
       "previous_close": 440.77,
       "change_pct": -1.87,
-      "market_cap": 126265516854.7937,
+      "market_cap": 121459520987.55933,
       "headlines": []
     },
     {
@@ -192,7 +192,7 @@
       "price": 162.22,
       "previous_close": 160.92,
       "change_pct": 0.81,
-      "market_cap": 86403000786.78131,
+      "market_cap": 85089123571.0144,
       "headlines": []
     },
     {
@@ -345,7 +345,7 @@
       "price": 73.63,
       "previous_close": 72.47,
       "change_pct": 1.6,
-      "market_cap": 36691403460.57939,
+      "market_cap": 36698665439.9485,
       "headlines": []
     },
     {
@@ -475,12 +475,21 @@
       "headlines": []
     },
     {
+      "symbol": "NXT",
+      "name": "Nextracker",
+      "price": 79.83,
+      "previous_close": 82.08,
+      "change_pct": -2.74,
+      "market_cap": 12112567859.425049,
+      "headlines": []
+    },
+    {
       "symbol": "BEP",
       "name": "Brookfield Renewable",
       "price": 29.04,
       "previous_close": 28.96,
       "change_pct": 0.28,
-      "market_cap": 8807134301.257439,
+      "market_cap": 8715241893.8004,
       "headlines": []
     },
     {
@@ -490,15 +499,6 @@
       "previous_close": 19.27,
       "change_pct": 0.47,
       "market_cap": 6902082043.357956,
-      "headlines": []
-    },
-    {
-      "symbol": "WFRD",
-      "name": "Weatherford",
-      "price": 89.58,
-      "previous_close": 88.81,
-      "change_pct": 0.87,
-      "market_cap": 6491888173.417053,
       "headlines": []
     },
     {
@@ -816,18 +816,18 @@
     },
     {
       "label": "WTI",
-      "price": 103.91,
-      "change_pct": 1.87
+      "price": 103.99,
+      "change_pct": 1.95
     },
     {
       "label": "Brent",
-      "price": 113.02,
-      "change_pct": -1.62
+      "price": 113.16,
+      "change_pct": -1.5
     },
     {
       "label": "NatGas",
-      "price": 2.88,
-      "change_pct": -2.44
+      "price": 2.87,
+      "change_pct": -2.85
     }
   ]
 }
