@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-10-30T21:46:11+00:00",
-  "as_of_local": "2026-10-30 21:46:11 UTC",
+  "as_of_utc": "2026-10-30T21:50:54+00:00",
+  "as_of_local": "2026-10-30 21:50:54 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "COP"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -47,15 +49,6 @@
       "previous_close": 94.03,
       "change_pct": 1.38,
       "market_cap": 209949296635.5692,
-      "headlines": []
-    },
-    {
-      "symbol": "COP",
-      "name": "ConocoPhillips",
-      "price": 154.03,
-      "previous_close": 150.03,
-      "change_pct": 2.67,
-      "market_cap": 187653824411.0347,
       "headlines": []
     },
     {
@@ -647,8 +640,8 @@
           "name": "ConocoPhillips",
           "short": "ConocoPhillips",
           "weight_pct": 6.73,
-          "change_pct": 2.67,
-          "price": 154.03,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -746,8 +739,8 @@
         "name": "ConocoPhillips",
         "short": "ConocoPhillips",
         "weight_pct": 6.73,
-        "change_pct": 2.67,
-        "price": 154.03,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
