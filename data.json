@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-10-30T10:07:12+00:00",
-  "as_of_local": "2026-10-30 10:07:12 UTC",
+  "as_of_utc": "2026-10-30T10:12:04+00:00",
+  "as_of_local": "2026-10-30 10:12:04 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "DINO"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -421,6 +419,15 @@
       "headlines": []
     },
     {
+      "symbol": "DINO",
+      "name": "HF Sinclair",
+      "price": 111.89,
+      "previous_close": 111.96,
+      "change_pct": -0.06,
+      "market_cap": 19174719435.363342,
+      "headlines": []
+    },
+    {
       "symbol": "FSLR",
       "name": "First Solar",
       "price": 176.89,
@@ -816,18 +823,18 @@
     },
     {
       "label": "WTI",
-      "price": 104.08,
-      "change_pct": 2.04
+      "price": 104.17,
+      "change_pct": 2.13
     },
     {
       "label": "Brent",
-      "price": 113.21,
-      "change_pct": -1.45
+      "price": 113.29,
+      "change_pct": -1.38
     },
     {
       "label": "NatGas",
       "price": 2.91,
-      "change_pct": -1.42
+      "change_pct": -1.39
     }
   ]
 }
