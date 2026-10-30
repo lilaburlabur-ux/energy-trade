@@ -1,10 +1,27 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-30T11:02:15+00:00",
+  "as_of": "2026-10-30T11:17:26+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": []
+ "hot_tickers": [
+  {
+   "rank": 1,
+   "ticker": "CCJ",
+   "company": "Cameco Corporation",
+   "move_pct": -11.37,
+   "price": 74.0,
+   "volume": 3105100,
+   "volume_vs_avg": "~0.9x",
+   "heat_score": 69,
+   "direction": "down",
+   "why": "Cameco shares tumble on earnings miss despite revenue beat By Investing.com",
+   "catalyst_type": "earnings",
+   "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLUMzMGFrOTI5d3R4Ujl2dHI2UmhSS3FJUno0Si1HekNUX1FZcmdBaXBOSEpISTQtVmJYMnFBOWRvam1FNnd6dm9LMjhQTlJHTjRlWFptSUFSMWhZUV9iRDlWSlBteVQzMUN2NTZzRnpMMkhRLWRzeXd5Rnpwd2Nod1NKOGFfS3lFNFFfZUc1a3VjWHlmTHlGTmtMR28xMjB2RTJoOW0yRVUwV1dhZ1BXaGROU01BVDlWNmRv?oc=5",
+   "published": "2026-10-30T11:02:37+00:00",
+   "sector": "Nuclear & Uranium"
+  }
+ ]
 }
