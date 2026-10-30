@@ -18,7 +18,7 @@ Signed file: `PEG.research.29.10.2026`
 | Technical momentum | Low | Below SMA200 (-4.42%) with negative half-year (-8.22%). |
 | Fresh setup quality | Moderate / wait | -13.11% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 16.04%, revenue growth -8.90%. |
-| Value attractiveness | Reasonable | Forward P/E 15.85, EV/Sales 4.83. |
+| Value attractiveness | Reasonable | Forward P/E 15.85, EV/Sales 4.88. |
 | Risk level | Moderate | Beta 0.52, ATR 1.7% of price, short float 2.04%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -59,7 +59,7 @@ Public Service Enterprise Group Incorporated, through its subsidiaries, operates
 | Revenue (ttm) | $12.54B | Revenue growth -8.90% y/y |
 | Profitability | Gross 33.33%, operating 18.87%, net 16.04% | ROA 3.24%, ROE 11.83% |
 | Balance sheet | Cash $192.00M, debt $24.68B | Current ratio 0.88, debt/equity 142.41 |
-| Valuation | P/E 18.32, forward P/E 15.85, P/S 2.93, P/B 2.12 | EV/Sales 4.83, EV/EBITDA 13.58 |
+| Valuation | P/E 18.32, forward P/E 15.85, P/S 2.93, P/B 2.12 | EV/Sales 4.88, EV/EBITDA 13.71 |
 | Growth expectations | Earnings growth -42.70%, EPS q/q -42.90% | Analyst mean target $81.42 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -100,8 +100,8 @@ Public Service Enterprise Group Incorporated, through its subsidiaries, operates
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $73.63 | EV/Sales | 4.83 |
-| Market cap | $36.70B | EV/EBITDA | 13.58 |
+| Price | $73.63 | EV/Sales | 4.88 |
+| Market cap | $36.70B | EV/EBITDA | 13.71 |
 | Beta | 0.52 | Gross margin | 33.33% |
 | RSI(14) | 62.8 | Operating margin | 18.87% |
 | ATR(14) | 1.25 | Profit margin | 16.04% |

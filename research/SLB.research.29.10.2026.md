@@ -18,7 +18,7 @@ Signed file: `SLB.research.29.10.2026`
 | Technical momentum | Moderate | 1Y +53.72%; price +5.38% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -10.00% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 8.40%, revenue growth 5.80%. |
-| Value attractiveness | Reasonable | Forward P/E 17.40, EV/Sales 2.40. |
+| Value attractiveness | Reasonable | Forward P/E 17.43, EV/Sales 2.40. |
 | Risk level | Elevated | Beta 0.84, ATR 3.0% of price, short float 4.32%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
@@ -59,7 +59,7 @@ SLB N.V. engages in the provision of technology for the energy industry worldwid
 | Revenue (ttm) | $36.89B | Revenue growth 5.80% y/y |
 | Profitability | Gross 16.59%, operating 12.05%, net 8.40% | ROA 5.51%, ROE 11.66% |
 | Balance sheet | Cash $3.55B, debt $12.80B | Current ratio 1.39, debt/equity 47.04 |
-| Valuation | P/E 26.12, forward P/E 17.40, P/S 2.15, P/B 2.92 | EV/Sales 2.40, EV/EBITDA 12.23 |
+| Valuation | P/E 26.12, forward P/E 17.43, P/S 2.15, P/B 2.92 | EV/Sales 2.40, EV/EBITDA 12.25 |
 | Growth expectations | Earnings growth -2.00%, EPS q/q -0.50% | Analyst mean target $62.38 (29 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -102,7 +102,7 @@ SLB N.V. engages in the provision of technology for the energy industry worldwid
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $53.81 | EV/Sales | 2.40 |
-| Market cap | $79.43B | EV/EBITDA | 12.23 |
+| Market cap | $79.43B | EV/EBITDA | 12.25 |
 | Beta | 0.84 | Gross margin | 16.59% |
 | RSI(14) | 61.9 | Operating margin | 12.05% |
 | ATR(14) | 1.62 | Profit margin | 8.40% |
@@ -112,7 +112,7 @@ SLB N.V. engages in the provision of technology for the energy industry worldwid
 | 52W high | $59.79 | Revenue growth y/y | 5.80% |
 | 52W low | $34.35 | Inst. ownership | 94.10% |
 | P/E (ttm) | 26.12 | Insider ownership | 0.22% |
-| Forward P/E | 17.40 | Short float | 4.32% |
+| Forward P/E | 17.43 | Short float | 4.32% |
 | PEG (trailing) | 1.46 | Avg volume | 12,347,167 |
 | P/S | 2.15 | Employees | 109,000 |
 | P/B | 2.92 | Analyst rec (1=buy..5=sell) | 1.5 |

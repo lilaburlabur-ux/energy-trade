@@ -18,7 +18,7 @@ Signed file: `WFRD.research.29.10.2026`
 | Technical momentum | Low | Below SMA200 (-3.39%) with negative half-year (-18.36%). |
 | Fresh setup quality | Moderate / wait | -19.35% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 8.64%, revenue growth -7.20%. |
-| Value attractiveness | Reasonable | Forward P/E 13.68, EV/Sales 1.48. |
+| Value attractiveness | Reasonable | Forward P/E 13.68, EV/Sales 1.49. |
 | Risk level | Elevated | Beta 1.05, ATR 3.8% of price, short float 6.43%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
@@ -59,7 +59,7 @@ Weatherford International plc, an energy services company, provides equipment an
 | Revenue (ttm) | $4.69B | Revenue growth -7.20% y/y |
 | Profitability | Gross 30.80%, operating 13.91%, net 8.64% | ROA 7.27%, ROE 23.32% |
 | Balance sheet | Cash $1.16B, debt $1.63B | Current ratio 2.04, debt/equity 81.73 |
-| Valuation | P/E 15.97, forward P/E 13.68, P/S 1.38, P/B 3.32 | EV/Sales 1.48, EV/EBITDA 7.69 |
+| Valuation | P/E 15.97, forward P/E 13.68, P/S 1.38, P/B 3.32 | EV/Sales 1.49, EV/EBITDA 7.76 |
 | Growth expectations | Earnings growth 48.20%, EPS q/q 48.10% | Analyst mean target $112.83 (12 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -102,8 +102,8 @@ Weatherford International plc, an energy services company, provides equipment an
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $89.58 | EV/Sales | 1.48 |
-| Market cap | $6.49B | EV/EBITDA | 7.69 |
+| Price | $89.58 | EV/Sales | 1.49 |
+| Market cap | $6.49B | EV/EBITDA | 7.76 |
 | Beta | 1.05 | Gross margin | 30.80% |
 | RSI(14) | 62.3 | Operating margin | 13.91% |
 | ATR(14) | 3.41 | Profit margin | 8.64% |
@@ -114,7 +114,7 @@ Weatherford International plc, an energy services company, provides equipment an
 | 52W low | $69.38 | Inst. ownership | 106.63% |
 | P/E (ttm) | 15.97 | Insider ownership | 2.13% |
 | Forward P/E | 13.68 | Short float | 6.43% |
-| PEG (trailing) | 1.35 | Avg volume | 995,010 |
+| PEG (trailing) | 1.34 | Avg volume | 995,010 |
 | P/S | 1.38 | Employees | 16,700 |
 | P/B | 3.32 | Analyst rec (1=buy..5=sell) | 1.7 |
 

@@ -18,7 +18,7 @@ Signed file: `PWR.research.29.10.2026`
 | Technical momentum | Moderate | 1Y +44.61%; price +1.61% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -19.08% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 4.03%, revenue growth 41.10%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 31.86, EV/Sales 2.96. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 31.86, EV/Sales 3.09. |
 | Risk level | Elevated | Beta 1.27, ATR 4.6% of price, short float 2.64%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: fair-to-demanding, risk: elevated.
@@ -59,7 +59,7 @@ Quanta Services, Inc. offers infrastructure solutions for the electric and gas u
 | Revenue (ttm) | $32.91B | Revenue growth 41.10% y/y |
 | Profitability | Gross 15.46%, operating 7.22%, net 4.03% | ROA 5.23%, ROE 15.34% |
 | Balance sheet | Cash $506.43M, debt $6.60B | Current ratio 1.10, debt/equity 67.78 |
-| Valuation | P/E 72.76, forward P/E 31.86, P/S 2.90, P/B 9.90 | EV/Sales 2.96, EV/EBITDA 32.00 |
+| Valuation | P/E 72.76, forward P/E 31.86, P/S 2.90, P/B 9.90 | EV/Sales 3.09, EV/EBITDA 33.40 |
 | Growth expectations | Earnings growth 94.70%, EPS q/q 96.90% | Analyst mean target $760.90 (29 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -86,7 +86,7 @@ Quanta Services, Inc. offers infrastructure solutions for the electric and gas u
 | Morgan Stanley | 2,311,374 | 1.54% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 31.86, EV/Sales 2.96. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 31.86, EV/Sales 3.09. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 1.27, ATR 4.6% of price, short float 2.64%. Size positions accordingly.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -102,8 +102,8 @@ Quanta Services, Inc. offers infrastructure solutions for the electric and gas u
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $635.18 | EV/Sales | 2.96 |
-| Market cap | $95.50B | EV/EBITDA | 32.00 |
+| Price | $635.18 | EV/Sales | 3.09 |
+| Market cap | $95.50B | EV/EBITDA | 33.40 |
 | Beta | 1.27 | Gross margin | 15.46% |
 | RSI(14) | 52.0 | Operating margin | 7.22% |
 | ATR(14) | 29.06 | Profit margin | 4.03% |

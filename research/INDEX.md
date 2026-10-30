@@ -16,13 +16,13 @@
 | DVN | $56.29B | +64% | 9.5 | 17% | High | Reasonable | Moderate |
 | OXY | $62.99B | +57% | 12.6 | 30% | Moderate | Reasonable | Moderate |
 | APA | $18.05B | +133% | 9.6 | 20% | High | Reasonable | Elevated |
-| EQT | $34.12B | +6% | 15.4 | 29% | Low | Reasonable | Moderate |
+| EQT | $34.12B | +6% | 15.1 | 29% | Low | Reasonable | Moderate |
 | AR | $12.67B | +29% | 8.9 | 19% | Moderate | Reasonable | Elevated |
 | PR | $21.42B | +115% | 10.4 | 22% | High | Reasonable | Moderate |
 | OVV | $19.80B | +100% | 8.4 | 10% | High | Reasonable | Moderate |
 | SLB | $79.43B | +54% | 17.4 | 8% | Moderate | Reasonable | Elevated |
 | HAL | $29.69B | +38% | 12.2 | 9% | Moderate | Reasonable | Moderate |
-| BKR | $54.11B | +16% | 18.8 | 10% | Low | Reasonable | Elevated |
+| BKR | $54.11B | +16% | 18.9 | 10% | Low | Reasonable | Elevated |
 | NOV | $6.90B | +32% | 15.1 | 2% | Low | Reasonable | High |
 | FTI | $26.26B | +63% | 18.5 | 11% | High | Reasonable | Elevated |
 | WFRD | $6.49B | +29% | 13.7 | 9% | Low | Reasonable | Elevated |
@@ -37,9 +37,9 @@
 | MPC | $121.46B | +129% | 7.2 | 6% | High | Reasonable | Elevated |
 | PSX | $106.73B | +111% | 9.0 | 7% | High | Reasonable | Elevated |
 | VLO | $107.25B | +132% | 7.2 | 9% | High | Reasonable | Elevated |
-| DINO | $19.17B | +118% | 7.1 | 10% | High | Reasonable | Elevated |
+| DINO | $19.17B | +118% | 6.8 | 10% | High | Reasonable | Elevated |
 | CCJ | $36.36B | -22% | 44.1 | 10% | Low | Low (expensive) | Elevated |
-| CEG | $93.74B | -31% | 19.9 | 11% | Low | Reasonable | Elevated |
+| CEG | $93.74B | -31% | 19.8 | 11% | Low | Reasonable | Elevated |
 | OKLO | $4.99B | -80% | -25.5 | 0% | Low | Reasonable | High |
 | SMR | $2.43B | -86% | -9.3 | 0% | Low | Reasonable | High |
 | LEU | $2.26B | -70% | 24.9 | 10% | Low | Fair-to-demanding | High |
@@ -51,7 +51,7 @@
 | ENPH | $3.42B | -30% | 18.0 | 7% | Low | Reasonable | High |
 | NEE | $172.27B | +1% | 18.8 | 40% | Low | Reasonable | Moderate |
 | RUN | $1.81B | -62% | 14.6 | 12% | Low | Reasonable | High |
-| SEDG | $1.88B | -19% | 38.0 | -20% | Low | Low (expensive) | High |
+| SEDG | $1.88B | -19% | 38.2 | -20% | Low | Low (expensive) | High |
 | NXT | $12.26B | -18% | 13.9 | 16% | Low | Reasonable | High |
 | ARRY | $547.62M | -59% | 3.8 | -7% | Low | Reasonable | High |
 | BEP | $14.13B | -4% | -15.7 | -1% | Low | Reasonable | Moderate |
