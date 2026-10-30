@@ -15,7 +15,7 @@ Signed file: `NRG.research.30.10.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-28.72%) with negative half-year (-37.15%). |
+| Technical momentum | Low | Below SMA200 (-28.72%) with negative half-year (-37.14%). |
 | Fresh setup quality | Poor / broken | -47.46% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 2.56%, revenue growth 11.00%. |
 | Value attractiveness | Reasonable | Forward P/E 9.11, EV/Sales 1.34. |

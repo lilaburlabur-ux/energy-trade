@@ -121,6 +121,7 @@ Quanta Services, Inc. offers infrastructure solutions for the electric and gas u
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-10-30 | main | TD Cowen | Buy → Buy |
 | 2026-10-30 | reit | Truist Securities | Buy → Buy |
 | 2026-10-30 | main | Evercore ISI Group | Outperform → Outperform |
 | 2026-10-27 | main | Truist Securities | Buy → Buy |
@@ -128,7 +129,6 @@ Quanta Services, Inc. offers infrastructure solutions for the electric and gas u
 | 2026-09-28 | main | Piper Sandler | Overweight → Overweight |
 | 2026-09-24 | up | Bernstein | Market Perform → Outperform |
 | 2026-09-09 | init | Piper Sandler | — → Overweight |
-| 2026-08-07 | up | Keybanc | Sector Weight → Overweight |
 
 ## 9. Conclusion
 PWR: Low momentum / mixed fundamentals / fair-to-demanding value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

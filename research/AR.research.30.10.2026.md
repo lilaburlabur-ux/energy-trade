@@ -121,6 +121,7 @@ Antero Resources Corporation, an independent oil and natural gas company, engage
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-10-30 | main | Citigroup | Buy → Buy |
 | 2026-10-30 | main | Wells Fargo | Overweight → Overweight |
 | 2026-10-30 | main | Truist Securities | Buy → Buy |
 | 2026-10-15 | init | Scotiabank | — → Sector Outperform |
@@ -128,7 +129,6 @@ Antero Resources Corporation, an independent oil and natural gas company, engage
 | 2026-10-08 | main | Mizuho | Outperform → Outperform |
 | 2026-10-06 | main | UBS | Buy → Buy |
 | 2026-10-05 | main | Truist Securities | Buy → Buy |
-| 2026-10-02 | main | Jefferies | Buy → Buy |
 
 ## 9. Conclusion
 AR: Moderate momentum / strong fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
