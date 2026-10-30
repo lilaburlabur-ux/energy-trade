@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-10-30T11:53:37+00:00",
-  "as_of_local": "2026-10-30 11:53:37 UTC",
+  "as_of_utc": "2026-10-30T11:58:38+00:00",
+  "as_of_local": "2026-10-30 11:58:38 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "FTI"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -145,7 +147,7 @@
       "price": 635.18,
       "previous_close": 606.89,
       "change_pct": 4.66,
-      "market_cap": 95495115264.5921,
+      "market_cap": 95707107857.50763,
       "headlines": []
     },
     {
@@ -154,7 +156,7 @@
       "price": 245.92,
       "previous_close": 242.94,
       "change_pct": 1.23,
-      "market_cap": 94686053823.15291,
+      "market_cap": 94694058027.25331,
       "headlines": []
     },
     {
@@ -239,21 +241,21 @@
       "headlines": []
     },
     {
-      "symbol": "LNG",
-      "name": "Cheniere Energy",
-      "price": 318.94,
-      "previous_close": 297.77,
-      "change_pct": 7.11,
-      "market_cap": 65872004856.753784,
-      "headlines": []
-    },
-    {
       "symbol": "BE",
       "name": "Bloom Energy",
       "price": 222.3,
       "previous_close": 228.08,
       "change_pct": -2.53,
       "market_cap": 65697924241.00801,
+      "headlines": []
+    },
+    {
+      "symbol": "LNG",
+      "name": "Cheniere Energy",
+      "price": 318.94,
+      "previous_close": 297.77,
+      "change_pct": 7.11,
+      "market_cap": 65128796829.70471,
       "headlines": []
     },
     {
@@ -316,7 +318,7 @@
       "price": 54.51,
       "previous_close": 54.66,
       "change_pct": -0.27,
-      "market_cap": 54110661944.039536,
+      "market_cap": 54132705896.38075,
       "headlines": []
     },
     {
@@ -371,15 +373,6 @@
       "previous_close": 35.76,
       "change_pct": 0.39,
       "market_cap": 29693836939.894638,
-      "headlines": []
-    },
-    {
-      "symbol": "FTI",
-      "name": "TechnipFMC",
-      "price": 66.95,
-      "previous_close": 71.4,
-      "change_pct": -6.23,
-      "market_cap": 26255404579.809265,
       "headlines": []
     },
     {
@@ -460,7 +453,7 @@
       "price": 41.2,
       "previous_close": 42.11,
       "change_pct": -2.16,
-      "market_cap": 12666487034.557343,
+      "market_cap": 12654003434.326172,
       "headlines": []
     },
     {
@@ -823,18 +816,18 @@
     },
     {
       "label": "WTI",
-      "price": 104.31,
-      "change_pct": 2.26
+      "price": 104.4,
+      "change_pct": 2.35
     },
     {
       "label": "Brent",
-      "price": 113.59,
-      "change_pct": -1.12
+      "price": 113.69,
+      "change_pct": -1.04
     },
     {
       "label": "NatGas",
-      "price": 2.9,
-      "change_pct": -1.9
+      "price": 2.88,
+      "change_pct": -2.27
     }
   ]
 }
