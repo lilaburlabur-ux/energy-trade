@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-10-30T20:31:07+00:00",
-  "as_of_local": "2026-10-30 20:31:07 UTC",
+  "as_of_utc": "2026-10-30T20:34:49+00:00",
+  "as_of_local": "2026-10-30 20:34:49 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -16,19 +16,19 @@
     {
       "symbol": "CVX",
       "name": "Chevron",
-      "price": 235.16,
+      "price": 235.52,
       "previous_close": 231.46,
-      "change_pct": 1.6,
-      "market_cap": 461310238354.7771,
+      "change_pct": 1.75,
+      "market_cap": 461996811473.3534,
       "headlines": []
     },
     {
       "symbol": "SHEL",
       "name": "Shell",
-      "price": 108.58,
+      "price": 108.69,
       "previous_close": 107.67,
-      "change_pct": 0.85,
-      "market_cap": 308308648963.8849,
+      "change_pct": 0.95,
+      "market_cap": 308663630590.1349,
       "headlines": []
     },
     {
@@ -52,10 +52,10 @@
     {
       "symbol": "COP",
       "name": "ConocoPhillips",
-      "price": 153.52,
+      "price": 154.03,
       "previous_close": 150.03,
-      "change_pct": 2.33,
-      "market_cap": 186983758989.24646,
+      "change_pct": 2.67,
+      "market_cap": 187653824411.0347,
       "headlines": []
     },
     {
@@ -73,7 +73,16 @@
       "price": 369.97,
       "previous_close": 393.72,
       "change_pct": -6.03,
-      "market_cap": 143696348474.1211,
+      "market_cap": 143659351473.99902,
+      "headlines": []
+    },
+    {
+      "symbol": "MPC",
+      "name": "Marathon Petroleum",
+      "price": 444.73,
+      "previous_close": 432.51,
+      "change_pct": 2.83,
+      "market_cap": 129832982890.86166,
       "headlines": []
     },
     {
@@ -83,15 +92,6 @@
       "previous_close": 50.35,
       "change_pct": 0.08,
       "market_cap": 129784052500.50372,
-      "headlines": []
-    },
-    {
-      "symbol": "MPC",
-      "name": "Marathon Petroleum",
-      "price": 444.73,
-      "previous_close": 432.51,
-      "change_pct": 2.83,
-      "market_cap": 124891199934.22299,
       "headlines": []
     },
     {
@@ -124,10 +124,10 @@
     {
       "symbol": "SO",
       "name": "Southern Company",
-      "price": 93.69,
+      "price": 93.71,
       "previous_close": 92.99,
-      "change_pct": 0.75,
-      "market_cap": 107693763034.22397,
+      "change_pct": 0.77,
+      "market_cap": 107800512490.67125,
       "headlines": []
     },
     {
@@ -140,6 +140,15 @@
       "headlines": []
     },
     {
+      "symbol": "SU",
+      "name": "Suncor Energy",
+      "price": 79.42,
+      "previous_close": 77.63,
+      "change_pct": 2.31,
+      "market_cap": 93774780748.37099,
+      "headlines": []
+    },
+    {
       "symbol": "PWR",
       "name": "Quanta Services",
       "price": 620.73,
@@ -149,21 +158,12 @@
       "headlines": []
     },
     {
-      "symbol": "SU",
-      "name": "Suncor Energy",
-      "price": 79.1,
-      "previous_close": 77.63,
-      "change_pct": 1.89,
-      "market_cap": 93361521733.89517,
-      "headlines": []
-    },
-    {
       "symbol": "CEG",
       "name": "Constellation Energy",
-      "price": 261.05,
+      "price": 262.38,
       "previous_close": 264.58,
-      "change_pct": -1.33,
-      "market_cap": 92548627441.06113,
+      "change_pct": -0.83,
+      "market_cap": 92963171832.0365,
       "headlines": []
     },
     {
@@ -190,7 +190,7 @@
       "price": 165.54,
       "previous_close": 162.22,
       "change_pct": 2.05,
-      "market_cap": 86830556273.42078,
+      "market_cap": 88171323280.20279,
       "headlines": []
     },
     {
@@ -205,10 +205,10 @@
     {
       "symbol": "SLB",
       "name": "SLB (Schlumberger)",
-      "price": 53.85,
+      "price": 53.74,
       "previous_close": 53.81,
-      "change_pct": 0.07,
-      "market_cap": 79513713675.74028,
+      "change_pct": -0.13,
+      "market_cap": 79321833880.0867,
       "headlines": []
     },
     {
@@ -343,7 +343,7 @@
       "price": 74.29,
       "previous_close": 73.63,
       "change_pct": 0.9,
-      "market_cap": 37027624485.017166,
+      "market_cap": 37020297410.80687,
       "headlines": []
     },
     {
@@ -358,10 +358,10 @@
     {
       "symbol": "CCJ",
       "name": "Cameco",
-      "price": 76.59,
+      "price": 76.91,
       "previous_close": 83.49,
-      "change_pct": -8.26,
-      "market_cap": 33453287053.677063,
+      "change_pct": -7.88,
+      "market_cap": 33496843009.859406,
       "headlines": []
     },
     {
@@ -487,7 +487,7 @@
       "price": 28.65,
       "previous_close": 29.04,
       "change_pct": -1.34,
-      "market_cap": 8598197970.4165,
+      "market_cap": 8688856281.5594,
       "headlines": []
     },
     {
@@ -547,10 +547,10 @@
     {
       "symbol": "SMR",
       "name": "NuScale Power",
-      "price": 5.56,
+      "price": 5.62,
       "previous_close": 5.92,
-      "change_pct": -6.08,
-      "market_cap": 2289973501.4497643,
+      "change_pct": -5.07,
+      "market_cap": 2306389066.6746464,
       "headlines": []
     },
     {
@@ -574,10 +574,10 @@
     {
       "symbol": "SEDG",
       "name": "SolarEdge",
-      "price": 29.73,
+      "price": 30.05,
       "previous_close": 30.53,
-      "change_pct": -2.64,
-      "market_cap": 1828852882.7702103,
+      "change_pct": -1.59,
+      "market_cap": 1848848680.4595795,
       "headlines": []
     },
     {
@@ -617,204 +617,8 @@
       "headlines": []
     }
   ],
-  "etfs": [
-    {
-      "symbol": "XLE",
-      "name": "Energy Select Sector SPDR",
-      "price": null,
-      "change_pct": 0.0,
-      "holdings": [
-        {
-          "symbol": "XOM",
-          "name": "ExxonMobil Holdings Corp",
-          "short": "ExxonMobil",
-          "weight_pct": 24.03,
-          "change_pct": 2.16,
-          "price": 187.25,
-          "currency": "USD"
-        },
-        {
-          "symbol": "CVX",
-          "name": "Chevron Corp",
-          "short": "Chevron",
-          "weight_pct": 18.05,
-          "change_pct": 1.6,
-          "price": 235.16,
-          "currency": "USD"
-        },
-        {
-          "symbol": "COP",
-          "name": "ConocoPhillips",
-          "short": "ConocoPhillips",
-          "weight_pct": 6.73,
-          "change_pct": 2.33,
-          "price": 153.52,
-          "currency": "USD"
-        },
-        {
-          "symbol": "VLO",
-          "name": "Valero Energy Corp",
-          "short": "Valero",
-          "weight_pct": 4.73,
-          "change_pct": 3.92,
-          "price": 399.66,
-          "currency": "USD"
-        },
-        {
-          "symbol": "MPC",
-          "name": "Marathon Petroleum Corp",
-          "short": "Marathon",
-          "weight_pct": 4.7,
-          "change_pct": 2.83,
-          "price": 444.73,
-          "currency": "USD"
-        },
-        {
-          "symbol": "PSX",
-          "name": "Phillips 66",
-          "short": "Phillips",
-          "weight_pct": 4.64,
-          "change_pct": 3.37,
-          "price": 282.83,
-          "currency": "USD"
-        },
-        {
-          "symbol": "WMB",
-          "name": "Williams Companies Inc",
-          "short": "Williams",
-          "weight_pct": 4.29,
-          "change_pct": -0.71,
-          "price": 74.35,
-          "currency": "USD"
-        },
-        {
-          "symbol": "SLB",
-          "name": "SLB Ltd",
-          "short": "SLB",
-          "weight_pct": 3.86,
-          "change_pct": 0.07,
-          "price": 53.85,
-          "currency": "USD"
-        },
-        {
-          "symbol": "EOG",
-          "name": "EOG Resources Inc",
-          "short": "EOG Resources",
-          "weight_pct": 3.85,
-          "change_pct": 2.05,
-          "price": 165.54,
-          "currency": "USD"
-        },
-        {
-          "symbol": "KMI",
-          "name": "Kinder Morgan Inc Class P",
-          "short": "Kinder",
-          "weight_pct": 3.15,
-          "change_pct": -0.29,
-          "price": 33.87,
-          "currency": "USD"
-        }
-      ]
-    }
-  ],
-  "etf": {
-    "symbol": "XLE",
-    "name": "Energy Select Sector SPDR",
-    "price": null,
-    "change_pct": 0.0,
-    "holdings": [
-      {
-        "symbol": "XOM",
-        "name": "ExxonMobil Holdings Corp",
-        "short": "ExxonMobil",
-        "weight_pct": 24.03,
-        "change_pct": 2.16,
-        "price": 187.25,
-        "currency": "USD"
-      },
-      {
-        "symbol": "CVX",
-        "name": "Chevron Corp",
-        "short": "Chevron",
-        "weight_pct": 18.05,
-        "change_pct": 1.6,
-        "price": 235.16,
-        "currency": "USD"
-      },
-      {
-        "symbol": "COP",
-        "name": "ConocoPhillips",
-        "short": "ConocoPhillips",
-        "weight_pct": 6.73,
-        "change_pct": 2.33,
-        "price": 153.52,
-        "currency": "USD"
-      },
-      {
-        "symbol": "VLO",
-        "name": "Valero Energy Corp",
-        "short": "Valero",
-        "weight_pct": 4.73,
-        "change_pct": 3.92,
-        "price": 399.66,
-        "currency": "USD"
-      },
-      {
-        "symbol": "MPC",
-        "name": "Marathon Petroleum Corp",
-        "short": "Marathon",
-        "weight_pct": 4.7,
-        "change_pct": 2.83,
-        "price": 444.73,
-        "currency": "USD"
-      },
-      {
-        "symbol": "PSX",
-        "name": "Phillips 66",
-        "short": "Phillips",
-        "weight_pct": 4.64,
-        "change_pct": 3.37,
-        "price": 282.83,
-        "currency": "USD"
-      },
-      {
-        "symbol": "WMB",
-        "name": "Williams Companies Inc",
-        "short": "Williams",
-        "weight_pct": 4.29,
-        "change_pct": -0.71,
-        "price": 74.35,
-        "currency": "USD"
-      },
-      {
-        "symbol": "SLB",
-        "name": "SLB Ltd",
-        "short": "SLB",
-        "weight_pct": 3.86,
-        "change_pct": 0.07,
-        "price": 53.85,
-        "currency": "USD"
-      },
-      {
-        "symbol": "EOG",
-        "name": "EOG Resources Inc",
-        "short": "EOG Resources",
-        "weight_pct": 3.85,
-        "change_pct": 2.05,
-        "price": 165.54,
-        "currency": "USD"
-      },
-      {
-        "symbol": "KMI",
-        "name": "Kinder Morgan Inc Class P",
-        "short": "Kinder",
-        "weight_pct": 3.15,
-        "change_pct": -0.29,
-        "price": 33.87,
-        "currency": "USD"
-      }
-    ]
-  },
+  "etfs": [],
+  "etf": null,
   "tape": [
     {
       "label": "SPX",
@@ -823,13 +627,13 @@
     },
     {
       "label": "WTI",
-      "price": 104.01,
-      "change_pct": 1.97
+      "price": 102.97,
+      "change_pct": 0.95
     },
     {
       "label": "Brent",
-      "price": 112.42,
-      "change_pct": -2.14
+      "price": 112.37,
+      "change_pct": -2.18
     },
     {
       "label": "NatGas",
