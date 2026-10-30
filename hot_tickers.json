@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-29T23:52:33+00:00",
+  "as_of": "2026-10-30T00:07:39+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,35 +9,19 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "LNG",
-   "company": "Cheniere Energy, Inc.",
-   "move_pct": 7.15,
-   "price": 319.05,
-   "volume": 4709768,
-   "volume_vs_avg": "~3x",
-   "heat_score": 53,
+   "ticker": "EOSE",
+   "company": "Eos Energy Enterprises, Inc.",
+   "move_pct": 7.14,
+   "price": 1.95,
+   "volume": 24182068,
+   "volume_vs_avg": "~0.8x",
+   "heat_score": 44,
    "direction": "up",
-   "why": "Cheniere Energy, Inc. (NYSE:LNG) Declares Quarterly Dividend of $0.62",
-   "catalyst_type": "earnings",
-   "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORm5ubHNUX1RiLW9EeWdLSzZYdzNmOElaUjlpVTJJSGdDaFZYXzJsbTdoaGNyb1RnYS1yWHpWRWZYSlQ2WUNTSXpUeFpoZnlrUUc3OTdsdnFRSjBaWVVDbWljZ1p5a2tPZHNUdlZZTTg3VzR0THMxSkgtWEMyUkdvdjJxRHI1WTRFaFpsY1NlVUtrUEdUNEZod1hqZ3dma0d2SHhpRWtZZHhtTlNiUFlYWlYxaGotM2hNNGdKOEswbWQydlJJ?oc=5",
-   "published": "2026-10-29T23:07:49+00:00",
-   "sector": "Midstream & LNG"
-  },
-  {
-   "rank": 2,
-   "ticker": "FTI",
-   "company": "TechnipFMC plc",
-   "move_pct": -6.37,
-   "price": 66.85,
-   "volume": 4496745,
-   "volume_vs_avg": "~2x",
-   "heat_score": 45,
-   "direction": "down",
-   "why": "TechnipFMC PLC (FTI) Shares Fall 6.2% -- What GF Score of 65 Tells Investors",
+   "why": "Insider Selling: Eos Energy Enterprises (NASDAQ:EOSE) Insider Sells 50,000 Shares of Company Stock",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWmNCMzY0VkEzcm1hYmQwYmFSd2UtMXhvbkZlWUJnbzQ3aDg5S1UyNnVvNUJKbTdnWDB4Yk5kUFJrSkFNWFJEOFprVVEzUkd1Q0ZPUG1tR21EV3VXUUtxWXlVYU95MGVXLV9aMTh5YnBFamszMFJwN2g0QUR2UzVjTEJMRmdIRG9BeWp3YnVxN3E3MzE3N05jLWhTLXV3NlItY0l1QkxEY0tJSWdY?oc=5",
-   "published": "2026-10-29T22:40:23+00:00",
-   "sector": "Oilfield Services"
+   "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQUzVfWFRSMi1OMVF3eGNZVWdkSG5GQnFVNXlrRWlmRGhabkNRSUM0ZEdKZ3Q1MGhSbGNZLU9jQnZrUmRqcnhLXzN3Y0pkRENzYmhJM2QzOW9VUmI2LXBvcVRWbklUV1IxdEN2TmVpMUZGYVdqU2lhTGY1S1lZelVnU2tzMDdjRjdBRWJkR1hvOXdaY09paHBFQTNZVHN3WDNUeFQ5NDh3SUdhYXNPTnlxSkxFYmotQUlBd25YaUFHSEIyS2hsNzNkT2FCaTl2UVpEZXJPYkhFajM1OHBKa05Db1lvcFA2ZGIwLWxsag?oc=5",
+   "published": "2026-10-29T21:13:10+00:00",
+   "sector": "Grid, Storage & Electrification"
   }
  ]
 }
