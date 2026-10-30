@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-30T20:08:56+00:00",
+  "as_of": "2026-10-30T20:24:06+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,32 +11,32 @@
    "rank": 1,
    "ticker": "BE",
    "company": "Bloom Energy Corporation",
-   "move_pct": -8.46,
-   "price": 203.49,
-   "volume": 14762130,
-   "volume_vs_avg": "~0.9x",
+   "move_pct": -8.32,
+   "price": 203.81,
+   "volume": 16484857,
+   "volume_vs_avg": "~1.0x",
    "heat_score": 59,
    "direction": "down",
    "why": "Bloom Energy Just Joined the S&P 500. Here's What History Says Happens Next.",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOXE0MTZ6RFotQWtvQkc5UVFkSEIyUEVoZ21ibjhPOXEwV1RBb3VNV1JxTnVqMFhjbjhFT1k0Wi1renNzWTMyNy1CdTdaSENaWGtzOXY5V1otRUNlQnBnZGt1VGVTZmhNaWFfWG5QZzEtYzRZYkVId2pUemE5Qnp6NjlxaDUzUVFPMWJvaS0zYjZOSktsX0E?oc=5",
-   "published": "2026-10-30T19:15:00+00:00",
+   "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNQTM5N1lCSWt5eG1kY1hONE9Rd3B0Rzd2VUdRNXI5Wkg5VmxfZy1YRFN4NkZoWXVoSEpFUXVKREdvYWNtd0RkNVEydFkwS0d4RTljaVNJeFdFVmx5bm9fYW9hNmRHTzFDWl9GeU5ORXFfc3VTQzZYZm5tS0p3dWZfOEZFYktjZm5lWmFlazBvM3V2WlcyVkYzNnR2YzQwUUYySl9fVTkyTHViX2wzdHNnaE9wV0VFMUhmdW03T0g2WWNseTJpQmd4T0h0dFg2bE9iMkZDMTRtMjg0MVNVdW54MU1sdHE2SWtiN1NZMEZn?oc=5",
+   "published": "2026-10-30T19:44:45+00:00",
    "sector": "Grid, Storage & Electrification"
   },
   {
    "rank": 2,
    "ticker": "ETN",
    "company": "Eaton Corporation, PLC",
-   "move_pct": -6.09,
-   "price": 369.76,
-   "volume": 3041537,
-   "volume_vs_avg": "~1.3x",
+   "move_pct": -5.75,
+   "price": 371.1,
+   "volume": 3639115,
+   "volume_vs_avg": "~2x",
    "heat_score": 43,
    "direction": "down",
    "why": "Eaton vs. nVent: Which Electrical Equipment Stock Has an Edge?",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQM2FWMEVYMzIwdTUxVVFrMEFDQndMV2JWZVRWMmhiWWxnM19jc19SWnNwVkw5by1IV282SEZtVkdKTV9zaEUwZGFlQ2VUYzlzM2wtNE5jR1FCUnUxS0xyMVZTMHR2elo0QXRyNmdJVmtIV0tXdzgzMjZlQmJqZHduZkV1Wmo0WDlyZjA4N3g0U2xmel9zNnhQd2ZYTlFHSXV0bUE?oc=5",
-   "published": "2026-10-30T17:40:00+00:00",
+   "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVjNPOGh2Qy1WY0k0S3N1X0VXcVRzLThITGg5VGxqYm1rcU84WE9Hdk5tWS1xbVNic3hZRHd0bFFheHdJazBqd3hNWXlwTXF2Y0lDWHpXcnNOclYycGVVSGRZZ3ZtMlR6d0dDb21sZXJSQkFGWFJzLW9CZi1CbG5rdFhONW1LTl9pckRIZmIzeTR2aXNGRnZiY3htRC16NnNzVnc?oc=5",
+   "published": "2026-10-30T18:02:22+00:00",
    "sector": "Grid, Storage & Electrification"
   }
  ]
