@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-10-30T08:56:43+00:00",
-  "as_of_local": "2026-10-30 08:56:43 UTC",
+  "as_of_utc": "2026-10-30T09:01:13+00:00",
+  "as_of_local": "2026-10-30 09:01:13 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "CVX"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -13,6 +11,15 @@
       "previous_close": 182.02,
       "change_pct": 0.7,
       "market_cap": 753672315541.5692,
+      "headlines": []
+    },
+    {
+      "symbol": "CVX",
+      "name": "Chevron",
+      "price": 231.46,
+      "previous_close": 229.2,
+      "change_pct": 0.99,
+      "market_cap": 454032706969.9839,
       "headlines": []
     },
     {
@@ -631,8 +638,8 @@
           "name": "Chevron Corp",
           "short": "Chevron",
           "weight_pct": 18.05,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": 0.99,
+          "price": 231.46,
           "currency": "USD"
         },
         {
@@ -730,8 +737,8 @@
         "name": "Chevron Corp",
         "short": "Chevron",
         "weight_pct": 18.05,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": 0.99,
+        "price": 231.46,
         "currency": "USD"
       },
       {
@@ -816,18 +823,18 @@
     },
     {
       "label": "WTI",
-      "price": 103.77,
-      "change_pct": 1.74
+      "price": 103.66,
+      "change_pct": 1.63
     },
     {
       "label": "Brent",
-      "price": 112.97,
-      "change_pct": -1.66
+      "price": 112.81,
+      "change_pct": -1.8
     },
     {
       "label": "NatGas",
       "price": 2.92,
-      "change_pct": -1.19
+      "change_pct": -1.12
     }
   ]
 }
