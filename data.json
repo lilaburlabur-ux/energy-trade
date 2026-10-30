@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-10-30T22:51:47+00:00",
-  "as_of_local": "2026-10-30 22:51:47 UTC",
+  "as_of_utc": "2026-10-30T22:56:40+00:00",
+  "as_of_local": "2026-10-30 22:56:40 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "TLN"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -445,6 +443,15 @@
       "previous_close": 51.51,
       "change_pct": 2.54,
       "market_cap": 18505566651.281204,
+      "headlines": []
+    },
+    {
+      "symbol": "TLN",
+      "name": "Talen Energy",
+      "price": 343.12,
+      "previous_close": 348.85,
+      "change_pct": -1.64,
+      "market_cap": 16229575769.042969,
       "headlines": []
     },
     {
