@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-10-31T15:45:17+00:00",
-  "as_of_local": "2026-10-31 15:45:17 UTC",
+  "as_of_utc": "2026-10-31T16:00:20+00:00",
+  "as_of_local": "2026-10-31 16:00:20 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "PR"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -389,15 +391,6 @@
       "previous_close": 438.23,
       "change_pct": -3.6,
       "market_cap": 22319632314.391785,
-      "headlines": []
-    },
-    {
-      "symbol": "PR",
-      "name": "Permian Resources",
-      "price": 26.02,
-      "previous_close": 25.57,
-      "change_pct": 1.76,
-      "market_cap": 21793234277.98318,
       "headlines": []
     },
     {
