@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-10-31T16:00:20+00:00",
-  "as_of_local": "2026-10-31 16:00:20 UTC",
+  "as_of_utc": "2026-10-31T16:05:33+00:00",
+  "as_of_local": "2026-10-31 16:05:33 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "PR"
+    "KMI"
   ],
   "stocks": [
     {
@@ -214,15 +214,6 @@
       "headlines": []
     },
     {
-      "symbol": "KMI",
-      "name": "Kinder Morgan",
-      "price": 33.87,
-      "previous_close": 33.97,
-      "change_pct": -0.29,
-      "market_cap": 75452712426.77342,
-      "headlines": []
-    },
-    {
       "symbol": "ET",
       "name": "Energy Transfer",
       "price": 20.91,
@@ -391,6 +382,15 @@
       "previous_close": 438.23,
       "change_pct": -3.6,
       "market_cap": 22319632314.391785,
+      "headlines": []
+    },
+    {
+      "symbol": "PR",
+      "name": "Permian Resources",
+      "price": 26.02,
+      "previous_close": 25.57,
+      "change_pct": 1.76,
+      "market_cap": 21793234277.98318,
       "headlines": []
     },
     {
@@ -703,8 +703,8 @@
           "name": "Kinder Morgan Inc Class P",
           "short": "Kinder",
           "weight_pct": 3.15,
-          "change_pct": -0.29,
-          "price": 33.87,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         }
       ]
@@ -802,8 +802,8 @@
         "name": "Kinder Morgan Inc Class P",
         "short": "Kinder",
         "weight_pct": 3.15,
-        "change_pct": -0.29,
-        "price": 33.87,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       }
     ]
