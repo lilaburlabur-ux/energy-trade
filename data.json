@@ -1,12 +1,18 @@
 {
-  "as_of_utc": "2026-10-31T14:02:45+00:00",
-  "as_of_local": "2026-10-31 14:02:45 UTC",
+  "as_of_utc": "2026-10-31T14:18:13+00:00",
+  "as_of_local": "2026-10-31 14:18:13 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "XOM",
-    "BP"
-  ],
+  "errors": [],
   "stocks": [
+    {
+      "symbol": "XOM",
+      "name": "ExxonMobil",
+      "price": 187.25,
+      "previous_close": 183.29,
+      "change_pct": 2.16,
+      "market_cap": 763792750000.0,
+      "headlines": []
+    },
     {
       "symbol": "CVX",
       "name": "Chevron",
@@ -67,7 +73,7 @@
       "price": 369.97,
       "previous_close": 393.72,
       "change_pct": -6.03,
-      "market_cap": 143696348474.1211,
+      "market_cap": 143659351473.99902,
       "headlines": []
     },
     {
@@ -76,7 +82,16 @@
       "price": 444.73,
       "previous_close": 432.51,
       "change_pct": 2.83,
-      "market_cap": 124891199934.22299,
+      "market_cap": 129832982890.86166,
+      "headlines": []
+    },
+    {
+      "symbol": "BP",
+      "name": "BP",
+      "price": 50.39,
+      "previous_close": 50.35,
+      "change_pct": 0.08,
+      "market_cap": 129784052500.50372,
       "headlines": []
     },
     {
@@ -175,7 +190,7 @@
       "price": 165.54,
       "previous_close": 162.22,
       "change_pct": 2.05,
-      "market_cap": 86830556273.42078,
+      "market_cap": 88171323280.20279,
       "headlines": []
     },
     {
@@ -328,7 +343,7 @@
       "price": 74.29,
       "previous_close": 73.63,
       "change_pct": 0.9,
-      "market_cap": 37027624485.017166,
+      "market_cap": 37020297410.80687,
       "headlines": []
     },
     {
@@ -472,7 +487,7 @@
       "price": 28.65,
       "previous_close": 29.04,
       "change_pct": -1.34,
-      "market_cap": 8598197970.4165,
+      "market_cap": 8688856281.5594,
       "headlines": []
     },
     {
@@ -614,8 +629,8 @@
           "name": "ExxonMobil Holdings Corp",
           "short": "ExxonMobil",
           "weight_pct": 24.03,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": 2.16,
+          "price": 187.25,
           "currency": "USD"
         },
         {
@@ -713,8 +728,8 @@
         "name": "ExxonMobil Holdings Corp",
         "short": "ExxonMobil",
         "weight_pct": 24.03,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": 2.16,
+        "price": 187.25,
         "currency": "USD"
       },
       {
