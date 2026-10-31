@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-10-30T23:46:46+00:00",
+  "as_of": "2026-10-31T02:23:53+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,19 +9,19 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "ETN",
-   "company": "Eaton Corporation, PLC",
-   "move_pct": -5.77,
-   "price": 371.0,
-   "volume": 3640095,
-   "volume_vs_avg": "~2x",
-   "heat_score": 43,
+   "ticker": "CCJ",
+   "company": "Cameco Corporation",
+   "move_pct": -7.88,
+   "price": 76.91,
+   "volume": 9550600,
+   "volume_vs_avg": "~3x",
+   "heat_score": 57,
    "direction": "down",
-   "why": "Eaton Corp PLC (ETN) Stock Down 6.0% -- Now Undervalued? GF Scor",
+   "why": "Cameco Stock Has Fallen 10%: But the Business Isn\u2019t Broken, so Here\u2019s Why I\u2019d Buy",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcFRFUmVQblItNTJMenVTTkNrTC1MS0FQWXhPUGQ1bFRNUXpLb1llRW5NTWhPWWNGUjhLVnJxcjIxanlPMEdNNnB5clJsNWZZd2oxVkU1N05LTGxWb3FkMEZBdlRmeGpoR05HWWgzMnFEMjA1UkhWRjdBdHc2T0Q2WFIzSzZ4cHNuUDNsQld6V1NJZDNtX3hyZFc4czZ6UVljVExqQQ?oc=5",
-   "published": "2026-10-30T21:39:05+00:00",
-   "sector": "Grid, Storage & Electrification"
+   "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQM0hwU0pRNldyazcxM280LTFpRnFlLXRrdDQ1MlZqeU00NW5kd3VwakFLN2Y1dTgwNV9PU0RVV3VEOGZWbXhuNkpVTU9QYlRDOW92NERwelNSaHZNTVc4Z3k4UXhzYVgtcXI1MnVWTEozLTVIcEZwNkRJbWF6YV9pSDN2eDd5RDA?oc=5",
+   "published": "2026-10-31T00:30:00+00:00",
+   "sector": "Nuclear & Uranium"
   }
  ]
 }
