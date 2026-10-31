@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-10-31T19:18:37+00:00",
-  "as_of_local": "2026-10-31 19:18:37 UTC",
+  "as_of_utc": "2026-10-31T19:21:57+00:00",
+  "as_of_local": "2026-10-31 19:21:57 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "EQNR"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -94,6 +92,15 @@
       "previous_close": 432.51,
       "change_pct": 2.83,
       "market_cap": 124891199934.22299,
+      "headlines": []
+    },
+    {
+      "symbol": "EQNR",
+      "name": "Equinor",
+      "price": 48.75,
+      "previous_close": 47.58,
+      "change_pct": 2.46,
+      "market_cap": 115398719621.25,
       "headlines": []
     },
     {
