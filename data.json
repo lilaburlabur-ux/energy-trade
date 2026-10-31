@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-10-31T00:17:27+00:00",
-  "as_of_local": "2026-10-31 00:17:27 UTC",
+  "as_of_utc": "2026-10-31T00:32:30+00:00",
+  "as_of_local": "2026-10-31 00:32:30 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "OXY"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -245,15 +247,6 @@
       "previous_close": 297.77,
       "change_pct": 7.11,
       "market_cap": 67452636872.479996,
-      "headlines": []
-    },
-    {
-      "symbol": "OXY",
-      "name": "Occidental Petroleum",
-      "price": 63.01,
-      "previous_close": 62.86,
-      "change_pct": 0.24,
-      "market_cap": 63976791744.0,
       "headlines": []
     },
     {
