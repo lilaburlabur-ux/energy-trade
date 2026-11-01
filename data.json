@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-01T20:25:10+00:00",
-  "as_of_local": "2026-11-01 20:25:10 UTC",
+  "as_of_utc": "2026-11-01T20:40:35+00:00",
+  "as_of_local": "2026-11-01 20:40:35 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "OKLO"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -517,6 +515,15 @@
       "previous_close": 8.65,
       "change_pct": -4.39,
       "market_cap": 5545085762.203335,
+      "headlines": []
+    },
+    {
+      "symbol": "OKLO",
+      "name": "Oklo",
+      "price": 25.25,
+      "previous_close": 26.81,
+      "change_pct": -5.82,
+      "market_cap": 4696945662.5,
       "headlines": []
     },
     {
