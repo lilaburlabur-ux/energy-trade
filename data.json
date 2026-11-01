@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-01T23:11:18+00:00",
-  "as_of_local": "2026-11-01 23:11:18 UTC",
+  "as_of_utc": "2026-11-01T23:26:22+00:00",
+  "as_of_local": "2026-11-01 23:26:22 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "BWXT"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -473,15 +475,6 @@
       "headlines": []
     },
     {
-      "symbol": "BWXT",
-      "name": "BWX Technologies",
-      "price": 130.7,
-      "previous_close": 137.93,
-      "change_pct": -5.24,
-      "market_cap": 11974992506.391907,
-      "headlines": []
-    },
-    {
       "symbol": "BEP",
       "name": "Brookfield Renewable",
       "price": 28.65,
@@ -823,13 +816,13 @@
     },
     {
       "label": "WTI",
-      "price": 104.12,
-      "change_pct": 0.0
+      "price": 102.32,
+      "change_pct": -1.73
     },
     {
       "label": "Brent",
-      "price": 113.43,
-      "change_pct": -3.58
+      "price": 111.58,
+      "change_pct": -5.15
     },
     {
       "label": "NatGas",
