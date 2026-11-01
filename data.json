@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-01T20:40:35+00:00",
-  "as_of_local": "2026-11-01 20:40:35 UTC",
+  "as_of_utc": "2026-11-01T20:55:18+00:00",
+  "as_of_local": "2026-11-01 20:55:18 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "FLNC"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -587,15 +589,6 @@
       "previous_close": 7.59,
       "change_pct": -1.45,
       "market_cap": 1784348671.3099666,
-      "headlines": []
-    },
-    {
-      "symbol": "FLNC",
-      "name": "Fluence Energy",
-      "price": 5.72,
-      "previous_close": 6.09,
-      "change_pct": -6.08,
-      "market_cap": 818895693.3230839,
       "headlines": []
     },
     {
