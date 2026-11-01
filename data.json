@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-01T00:20:56+00:00",
-  "as_of_local": "2026-11-01 00:20:56 UTC",
+  "as_of_utc": "2026-11-01T00:26:03+00:00",
+  "as_of_local": "2026-11-01 00:26:03 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "SHEL"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -20,15 +22,6 @@
       "previous_close": 231.46,
       "change_pct": 1.75,
       "market_cap": 459499528335.5713,
-      "headlines": []
-    },
-    {
-      "symbol": "SHEL",
-      "name": "Shell",
-      "price": 108.69,
-      "previous_close": 107.67,
-      "change_pct": 0.95,
-      "market_cap": 308565119732.4921,
       "headlines": []
     },
     {
