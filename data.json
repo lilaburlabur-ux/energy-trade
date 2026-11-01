@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-01T21:45:47+00:00",
-  "as_of_local": "2026-11-01 21:45:47 UTC",
+  "as_of_utc": "2026-11-01T22:00:58+00:00",
+  "as_of_local": "2026-11-01 22:00:58 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "FANG"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -281,15 +283,6 @@
       "previous_close": 222.3,
       "change_pct": -8.61,
       "market_cap": 60044295836.74519,
-      "headlines": []
-    },
-    {
-      "symbol": "FANG",
-      "name": "Diamondback Energy",
-      "price": 212.08,
-      "previous_close": 206.43,
-      "change_pct": 2.74,
-      "market_cap": 59386598000.09155,
       "headlines": []
     },
     {
