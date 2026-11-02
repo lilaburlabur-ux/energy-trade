@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-02T08:20:01+00:00",
+  "as_of": "2026-11-02T08:35:11+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,6 +9,22 @@
  "hot_tickers": [
   {
    "rank": 1,
+   "ticker": "UUUU",
+   "company": "Energy Fuels Inc",
+   "move_pct": -6.32,
+   "price": 7.71,
+   "volume": 8430800,
+   "volume_vs_avg": "~1.0x",
+   "heat_score": 42,
+   "direction": "down",
+   "why": "Energy Fuels Inc. (EFR.TO) Stock Price, News, Quote & History",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1CV0cwRW40M2tQOUFpYzhLVlFRTUxOMzhVSU5OOE5mQV9xVTlnNWVUMFdoR05XV3A2UzdvTGVBbnVGcFBPZDJ3X3FCRmtUMzUwLXNFYg?oc=5",
+   "published": "2026-11-02T06:42:33+00:00",
+   "sector": "Nuclear & Uranium"
+  },
+  {
+   "rank": 2,
    "ticker": "OKLO",
    "company": "Oklo Inc.",
    "move_pct": -5.82,
@@ -24,7 +40,7 @@
    "sector": "Nuclear & Uranium"
   },
   {
-   "rank": 2,
+   "rank": 3,
    "ticker": "UEC",
    "company": "Uranium Energy Corp.",
    "move_pct": -5.4,
