@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-02T22:16:01+00:00",
-  "as_of_local": "2026-11-02 22:16:01 UTC",
+  "as_of_utc": "2026-11-02T22:17:05+00:00",
+  "as_of_local": "2026-11-02 22:17:05 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "ETR"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -317,15 +319,6 @@
       "previous_close": 55.23,
       "change_pct": -3.95,
       "market_cap": 52682812234.99126,
-      "headlines": []
-    },
-    {
-      "symbol": "ETR",
-      "name": "Entergy",
-      "price": 109.87,
-      "previous_close": 110.11,
-      "change_pct": -0.22,
-      "market_cap": 52493413259.59505,
       "headlines": []
     },
     {
