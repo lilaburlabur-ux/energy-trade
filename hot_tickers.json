@@ -1,10 +1,43 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-02T00:55:44+00:00",
+  "as_of": "2026-11-02T08:05:00+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": []
+ "hot_tickers": [
+  {
+   "rank": 1,
+   "ticker": "OKLO",
+   "company": "Oklo Inc.",
+   "move_pct": -5.82,
+   "price": 25.25,
+   "volume": 10105400,
+   "volume_vs_avg": "~1.1x",
+   "heat_score": 41,
+   "direction": "down",
+   "why": "Will Oklo's (NYSE:OKLO) Isotope Plan Shift the Story?",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRVdCSV9Zd0NDQTdLUC1iM2tEM25oU3pSZnZFRWhxOG9yQ1BvdG9yaTg5TmlseUdGVy1vX2tPdjhvaXFwaTJKLU53bXpYUnVGcjhRNF9xcVY3bjlOSmo0eDkwT3F3S004aEp4ZTdNd3l6SWx5YUZ3c2JRakpRbUpkM2N6dGpKUEtkdTYwYjZYZVBoSFBZ?oc=5",
+   "published": "2026-11-02T04:50:00+00:00",
+   "sector": "Nuclear & Uranium"
+  },
+  {
+   "rank": 2,
+   "ticker": "UEC",
+   "company": "Uranium Energy Corp.",
+   "move_pct": -5.4,
+   "price": 7.71,
+   "volume": 9825600,
+   "volume_vs_avg": "~1.0x",
+   "heat_score": 39,
+   "direction": "down",
+   "why": "Uranium Energy (UEC) Shares Dropped, So What Is Driving Attention Now?",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPLWtYaXJsRXFHeTVEQWFOMFpHdENvcnRNVHN0WjhUZjFkQXJmY19WZEFVZUhPcWsyd2pwWEVDUUo0WEYyRVZla0E0aWhNZ3dMcVltbmJhNXE5RXVNZGRFOURnTzZMMEZyaENWMVlheTVzekVZQ3U5TEV0Wmc4ZWtFUXBYUG5KTURNdHROTXNtX1VsX04yOGRLUUdXWmxKdHpRa2g1eDhONEVMdlEtUmRuZjREZkdXSEVPVkt6MGFFZDZrbTJ5VGdMcExOb9IB0AFBVV95cUxQLWFIV1ZldzhocHBCZ0Q0eWNOQ0pWVk1ZYkViazN4MXRKOUpseUtqdEs0ZkNodm9GMUxyNW9DY05KT01qWXY2RFJBSVAzM09pOGxDd1JodG93eUJpVGVmUnJSdzFvbkE2dlZLX3NyNFpuU0JSQnNiLXpBOU9QT0JpWXNuSUpmYmdqQWlrN0pjRnI5UWRSRkYtQXBza0NNNVRhckZBYUZ1YUdtWDFYdjVCaEp1TnRFenNWSW5jSzhkaU50TC1ZU0RYa2xOSU5VUnRM?oc=5",
+   "published": "2026-11-02T07:35:04+00:00",
+   "sector": "Nuclear & Uranium"
+  }
+ ]
 }
