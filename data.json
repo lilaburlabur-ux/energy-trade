@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-02T05:07:55+00:00",
-  "as_of_local": "2026-11-02 05:07:55 UTC",
+  "as_of_utc": "2026-11-02T05:22:57+00:00",
+  "as_of_local": "2026-11-02 05:22:57 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "OVV"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -412,6 +410,15 @@
       "headlines": []
     },
     {
+      "symbol": "OVV",
+      "name": "Ovintiv",
+      "price": 72.62,
+      "previous_close": 71.57,
+      "change_pct": 1.47,
+      "market_cap": 20086692759.70459,
+      "headlines": []
+    },
+    {
       "symbol": "DINO",
       "name": "HF Sinclair",
       "price": 115.0,
@@ -816,18 +823,18 @@
     },
     {
       "label": "WTI",
-      "price": 104.12,
-      "change_pct": 2.08
+      "price": 100.6,
+      "change_pct": -3.38
     },
     {
       "label": "Brent",
-      "price": 117.64,
-      "change_pct": 2.4
+      "price": 109.84,
+      "change_pct": -6.63
     },
     {
       "label": "NatGas",
       "price": 2.9,
-      "change_pct": -1.83
+      "change_pct": 0.14
     }
   ]
 }
