@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-02T21:22:53+00:00",
-  "as_of_local": "2026-11-02 21:22:53 UTC",
+  "as_of_utc": "2026-11-02T21:27:13+00:00",
+  "as_of_local": "2026-11-02 21:27:13 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "FANG"
+    "DINO"
   ],
   "stocks": [
     {
@@ -295,6 +295,15 @@
       "headlines": []
     },
     {
+      "symbol": "FANG",
+      "name": "Diamondback Energy",
+      "price": 199.74,
+      "previous_close": 212.08,
+      "change_pct": -5.82,
+      "market_cap": 55931154792.27466,
+      "headlines": []
+    },
+    {
       "symbol": "DVN",
       "name": "Devon Energy",
       "price": 48.63,
@@ -336,7 +345,7 @@
       "price": 74.38,
       "previous_close": 74.29,
       "change_pct": 0.12,
-      "market_cap": 37065144512.07939,
+      "market_cap": 37072480462.4485,
       "headlines": []
     },
     {
@@ -409,15 +418,6 @@
       "previous_close": 174.4,
       "change_pct": 4.39,
       "market_cap": 19566943867.556442,
-      "headlines": []
-    },
-    {
-      "symbol": "DINO",
-      "name": "HF Sinclair",
-      "price": 111.66,
-      "previous_close": 115.0,
-      "change_pct": -2.9,
-      "market_cap": 19135304799.819946,
       "headlines": []
     },
     {
@@ -816,18 +816,18 @@
     },
     {
       "label": "WTI",
-      "price": 96.04,
-      "change_pct": -7.76
+      "price": 95.93,
+      "change_pct": -7.87
     },
     {
       "label": "Brent",
-      "price": 104.16,
-      "change_pct": -11.46
+      "price": 104.09,
+      "change_pct": -11.52
     },
     {
       "label": "NatGas",
-      "price": 2.87,
-      "change_pct": -1.07
+      "price": 2.86,
+      "change_pct": -1.17
     }
   ]
 }
