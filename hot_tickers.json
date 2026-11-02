@@ -1,10 +1,27 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-02T13:47:46+00:00",
+  "as_of": "2026-11-02T14:02:54+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": []
+ "hot_tickers": [
+  {
+   "rank": 1,
+   "ticker": "FLNC",
+   "company": "Fluence Energy, Inc.",
+   "move_pct": -6.47,
+   "price": 5.35,
+   "volume": 4950300,
+   "volume_vs_avg": "~0.7x",
+   "heat_score": 41,
+   "direction": "down",
+   "why": "Fluence Energy stock falls as company replaces CEO and CFO By Investing.com",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOakhVZVhqemxwU2lhTGRKb0prRXNwY1gtUGZhdEVaODktT2Y3VjR1dm51dm9PRk1VY052ZzVxMU03dDM0aHVmN3Fyam9sakozYnB2M1hhWFh2dVZrNzVPZE56VXhlTDZEWEl3SkdibGtBU3p3WmtQQUdtNzUtRHpydGVxQU5ONmpTSnBZbm5uMl9BUzhaM08zYXEwclVQeU1LWlNLVFRmc1QtOF83M2NmNWNHWFk?oc=5",
+   "published": "2026-11-02T13:37:50+00:00",
+   "sector": "Grid, Storage & Electrification"
+  }
+ ]
 }
