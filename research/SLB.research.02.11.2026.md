@@ -18,7 +18,7 @@ Signed file: `SLB.research.02.11.2026`
 | Technical momentum | Moderate | 1Y +47.55%; price +2.31% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -12.51% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 8.40%, revenue growth 5.80%. |
-| Value attractiveness | Reasonable | Forward P/E 17.00, EV/Sales 2.43. |
+| Value attractiveness | Reasonable | Forward P/E 16.95, EV/Sales 2.43. |
 | Risk level | Elevated | Beta 0.79, ATR 3.0% of price, short float 4.32%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
@@ -59,7 +59,7 @@ SLB N.V. engages in the provision of technology for the energy industry worldwid
 | Revenue (ttm) | $36.89B | Revenue growth 5.80% y/y |
 | Profitability | Gross 16.59%, operating 14.03%, net 8.40% | ROA 5.72%, ROE 11.66% |
 | Balance sheet | Cash $3.60B, debt $12.81B | Current ratio 1.39, debt/equity 47.08 |
-| Valuation | P/E 25.39, forward P/E 17.00, P/S 2.09, P/B 2.96 | EV/Sales 2.43, EV/EBITDA 12.14 |
+| Valuation | P/E 25.39, forward P/E 16.95, P/S 2.09, P/B 2.96 | EV/Sales 2.43, EV/EBITDA 12.14 |
 | Growth expectations | Earnings growth -2.00%, EPS q/q -0.50% | Analyst mean target $62.38 (29 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -112,7 +112,7 @@ SLB N.V. engages in the provision of technology for the energy industry worldwid
 | 52W high | $59.79 | Revenue growth y/y | 5.80% |
 | 52W low | $34.35 | Inst. ownership | 94.01% |
 | P/E (ttm) | 25.39 | Insider ownership | 0.21% |
-| Forward P/E | 17.00 | Short float | 4.32% |
+| Forward P/E | 16.95 | Short float | 4.32% |
 | PEG (trailing) | 1.50 | Avg volume | 12,377,817 |
 | P/S | 2.09 | Employees | 109,000 |
 | P/B | 2.96 | Analyst rec (1=buy..5=sell) | 1.5 |

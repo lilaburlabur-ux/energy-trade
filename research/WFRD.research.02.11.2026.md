@@ -38,7 +38,7 @@ Weatherford International plc, an energy services company, provides equipment an
 | Price vs 52-week range | Close $89.00; 52w high $111.07 (-19.87%); 52w low $69.38 (+28.27%) |
 | Trend | -4.07% vs SMA200, +4.58% vs SMA50, +8.67% vs SMA20 |
 | Momentum | RSI(14) 59.8 (neutral) |
-| Volatility | ATR(14) 3.33 (~3.7% of price); beta 0.83 |
+| Volatility | ATR(14) 3.34 (~3.7% of price); beta 0.83 |
 | Setup perspective | -19.87% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
@@ -106,7 +106,7 @@ Weatherford International plc, an energy services company, provides equipment an
 | Market cap | $6.45B | EV/EBITDA | 7.84 |
 | Beta | 0.83 | Gross margin | 30.80% |
 | RSI(14) | 59.8 | Operating margin | 13.91% |
-| ATR(14) | 3.33 | Profit margin | 8.64% |
+| ATR(14) | 3.34 | Profit margin | 8.64% |
 | SMA20 dist | +8.67% | ROA | 7.27% |
 | SMA50 dist | +4.58% | ROE | 23.32% |
 | SMA200 dist | -4.07% | Revenue (ttm) | $4.69B |

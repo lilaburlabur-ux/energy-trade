@@ -18,7 +18,7 @@ Signed file: `NRG.research.02.11.2026`
 | Technical momentum | Low | Below SMA200 (-29.62%) with negative half-year (-38.67%). |
 | Fresh setup quality | Poor / broken | -48.24% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 2.56%, revenue growth 11.00%. |
-| Value attractiveness | Reasonable | Forward P/E 8.95, EV/Sales 1.33. |
+| Value attractiveness | Reasonable | Forward P/E 9.05, EV/Sales 1.33. |
 | Risk level | Elevated | Beta 1.20, ATR 4.3% of price, short float 3.80%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
@@ -59,7 +59,7 @@ NRG Energy, Inc., together with its subsidiaries, operates as an energy and home
 | Revenue (ttm) | $33.12B | Revenue growth 11.00% y/y |
 | Profitability | Gross 18.80%, operating 12.77%, net 2.56% | ROA 4.06%, ROE 23.77% |
 | Balance sheet | Cash $162.00M, debt $23.47B | Current ratio 0.97, debt/equity 483.36 |
-| Valuation | P/E 24.77, forward P/E 8.95, P/S 0.60, P/B 4.73 | EV/Sales 1.33, EV/EBITDA 13.57 |
+| Valuation | P/E 24.77, forward P/E 9.05, P/S 0.60, P/B 4.73 | EV/Sales 1.33, EV/EBITDA 13.57 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $172.89 (18 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -113,7 +113,7 @@ NRG Energy, Inc., together with its subsidiaries, operates as an energy and home
 | 52W high | $182.82 | Revenue growth y/y | 11.00% |
 | 52W low | $92.31 | Inst. ownership | 96.36% |
 | P/E (ttm) | 24.77 | Insider ownership | 4.46% |
-| Forward P/E | 8.95 | Short float | 3.80% |
+| Forward P/E | 9.05 | Short float | 3.80% |
 | PEG (trailing) | 0.41 | Avg volume | 3,075,856 |
 | P/S | 0.60 | Employees | 16,702 |
 | P/B | 4.73 | Analyst rec (1=buy..5=sell) | 1.5 |
