@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-02T21:30:49+00:00",
-  "as_of_local": "2026-11-02 21:30:49 UTC",
+  "as_of_utc": "2026-11-02T21:30:45+00:00",
+  "as_of_local": "2026-11-02 21:30:45 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "TTE"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -38,15 +40,6 @@
       "previous_close": 857.87,
       "change_pct": 0.51,
       "market_cap": 228217800158.5,
-      "headlines": []
-    },
-    {
-      "symbol": "TTE",
-      "name": "TotalEnergies",
-      "price": 92.78,
-      "previous_close": 95.33,
-      "change_pct": -2.67,
-      "market_cap": 204333317018.95386,
       "headlines": []
     },
     {
@@ -343,7 +336,7 @@
       "price": 74.38,
       "previous_close": 74.29,
       "change_pct": 0.12,
-      "market_cap": 37072480462.4485,
+      "market_cap": 37065144512.07939,
       "headlines": []
     },
     {
@@ -416,6 +409,15 @@
       "previous_close": 174.4,
       "change_pct": 4.39,
       "market_cap": 19566943867.556442,
+      "headlines": []
+    },
+    {
+      "symbol": "DINO",
+      "name": "HF Sinclair",
+      "price": 111.66,
+      "previous_close": 115.0,
+      "change_pct": -2.9,
+      "market_cap": 19135304799.819946,
       "headlines": []
     },
     {
