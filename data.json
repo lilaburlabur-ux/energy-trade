@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-02T10:38:07+00:00",
-  "as_of_local": "2026-11-02 10:38:07 UTC",
+  "as_of_utc": "2026-11-02T10:42:43+00:00",
+  "as_of_local": "2026-11-02 10:42:43 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "ARRY"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -606,15 +608,6 @@
       "change_pct": -4.55,
       "market_cap": 688277030.9505386,
       "headlines": []
-    },
-    {
-      "symbol": "ARRY",
-      "name": "Array Technologies",
-      "price": 3.39,
-      "previous_close": 3.56,
-      "change_pct": -4.78,
-      "market_cap": 521471437.55702925,
-      "headlines": []
     }
   ],
   "etfs": [
@@ -823,18 +816,18 @@
     },
     {
       "label": "WTI",
-      "price": 99.81,
-      "change_pct": -4.14
+      "price": 99.8,
+      "change_pct": -4.15
     },
     {
       "label": "Brent",
-      "price": 108.75,
-      "change_pct": -7.56
+      "price": 108.7,
+      "change_pct": -7.6
     },
     {
       "label": "NatGas",
-      "price": 2.94,
-      "change_pct": 1.38
+      "price": 2.93,
+      "change_pct": 1.24
     }
   ]
 }
