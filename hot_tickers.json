@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-02T00:20:08+00:00",
+  "as_of": "2026-11-02T00:35:17+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,18 +9,18 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "UUUU",
-   "company": "Energy Fuels Inc",
-   "move_pct": -6.32,
-   "price": 7.71,
-   "volume": 8430800,
-   "volume_vs_avg": "~1.0x",
-   "heat_score": 42,
+   "ticker": "CCJ",
+   "company": "Cameco Corporation",
+   "move_pct": -7.88,
+   "price": 76.91,
+   "volume": 9550600,
+   "volume_vs_avg": "~3x",
+   "heat_score": 57,
    "direction": "down",
-   "why": "Clean Energy Fuels (CLNE) Stock Price, Chart & Analysis",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBoVGk2MFg2VkE1NUZ3V1YwX0hUS1pBQ3lUbnM3OFd0eVp3Q1VRcHpnWkFtSGVsWnBlNkp5VGtUZmFNUXo2MGkzczBfd1BJNnRUMGc3aA?oc=5",
-   "published": "2026-11-01T22:18:38+00:00",
+   "why": "Cameco (TSX:CCO) Stock Faces Q3 Earnings Reality After Profit Strain",
+   "catalyst_type": "earnings",
+   "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTlpaaXRSTkhyc0JFUUY3RkNKUVRuNHVoWHhXU1Q3TnhrVzRvSVB4VGJNNVdmMi1fRGJRMUczUWxWWjN4ZFhZQldYOWZLNTlaYVZ6Y3VfTk9qR1BfcERYQWNjLTRMcUhXTlFNM0x4bTZRRkdfSWl0eUpqUkVDdm9GYVpzUDFLTHJUOUdBa2VNd2J2Tl80UEE?oc=5",
+   "published": "2026-11-01T21:09:43+00:00",
    "sector": "Nuclear & Uranium"
   }
  ]
