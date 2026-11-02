@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-02T04:17:45+00:00",
-  "as_of_local": "2026-11-02 04:17:45 UTC",
+  "as_of_utc": "2026-11-02T04:32:47+00:00",
+  "as_of_local": "2026-11-02 04:32:47 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "D"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -290,15 +292,6 @@
       "previous_close": 206.43,
       "change_pct": 2.74,
       "market_cap": 59386598000.09155,
-      "headlines": []
-    },
-    {
-      "symbol": "D",
-      "name": "Dominion Energy",
-      "price": 66.62,
-      "previous_close": 65.12,
-      "change_pct": 2.3,
-      "market_cap": 58596694532.160385,
       "headlines": []
     },
     {
@@ -823,8 +816,8 @@
     },
     {
       "label": "WTI",
-      "price": 100.7,
-      "change_pct": -3.28
+      "price": 100.59,
+      "change_pct": -3.39
     },
     {
       "label": "Brent",
@@ -834,7 +827,7 @@
     {
       "label": "NatGas",
       "price": 2.9,
-      "change_pct": 0.21
+      "change_pct": 0.1
     }
   ]
 }
