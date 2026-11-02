@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-02T23:32:03+00:00",
+  "as_of": "2026-11-02T23:47:16+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -27,11 +27,11 @@
    "rank": 2,
    "ticker": "RUN",
    "company": "Sunrun Inc.",
-   "move_pct": 10.29,
-   "price": 8.25,
+   "move_pct": 10.96,
+   "price": 8.3,
    "volume": 15226276,
    "volume_vs_avg": "~2x",
-   "heat_score": 70,
+   "heat_score": 73,
    "direction": "up",
    "why": "Investors Purchase High Volume of Sunrun Call Options (NASDAQ:RUN)",
    "catalyst_type": "momentum_narrative",
@@ -41,22 +41,6 @@
   },
   {
    "rank": 3,
-   "ticker": "FLNC",
-   "company": "Fluence Energy, Inc.",
-   "move_pct": -7.87,
-   "price": 5.27,
-   "volume": 12821572,
-   "volume_vs_avg": "~2x",
-   "heat_score": 53,
-   "direction": "down",
-   "why": "Fluence Energy replaces CEO, CFO weeks after slashing revenue forecast",
-   "catalyst_type": "earnings",
-   "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSUh5WkpELWN5R2N3aEM4cWdQRDFYUmI0RV9LZUE1NEp0UnUxaGxmOS1ZUlhyTFZJSWFkblNOWk5TREN4V3Baek1uUEdMR0xDbDE0REdydVhFaUhUR2hPWTl5Uk1yNFVGYnRnMDJWam0weHAza1dWemlnV3Uwa1h6RFJSNG40WTk2elE?oc=5",
-   "published": "2026-11-02T19:34:00+00:00",
-   "sector": "Grid, Storage & Electrification"
-  },
-  {
-   "rank": 4,
    "ticker": "APA",
    "company": "APA Corporation",
    "move_pct": -7.42,
@@ -72,23 +56,7 @@
    "sector": "Shale & E&P"
   },
   {
-   "rank": 5,
-   "ticker": "LEU",
-   "company": "Centrus Energy Corp.",
-   "move_pct": -7.54,
-   "price": 95.5,
-   "volume": 840059,
-   "volume_vs_avg": "~1.0x",
-   "heat_score": 47,
-   "direction": "down",
-   "why": "S&P 500 Energy Sector Gains Highlight Centrus Energy (LEU) as Mo",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQU1Y1Z0dSTGhsRWlYTmFWSDNsTGlvWFBUbUNRWnplbDlSaWxwY0JhcXVHbFA5Y2xiZlJ6am9QYjVJeWNCc28xOHZtVXdlek8tM0hVVG5oOWRNYm5vdU5na0xBNWtWT0NsY1Q2dXFhQjN5MFoza0ZseWE3ZnRjRGhZaVlWWlVsZ09nb3l5b1VtbXA2RFRQRTFLVU5PMWlDUUJac1QyOEJqZGptRGE5RGxBNHBEWU4yVEE?oc=5",
-   "published": "2026-11-02T21:23:15+00:00",
-   "sector": "Nuclear & Uranium"
-  },
-  {
-   "rank": 6,
+   "rank": 4,
    "ticker": "EQNR",
    "company": "Equinor ASA",
    "move_pct": -6.83,
@@ -104,7 +72,7 @@
    "sector": "Oil & Gas Majors"
   },
   {
-   "rank": 7,
+   "rank": 5,
    "ticker": "TRGP",
    "company": "Targa Resources, Inc.",
    "move_pct": -6.43,
@@ -120,7 +88,23 @@
    "sector": "Midstream & LNG"
   },
   {
-   "rank": 8,
+   "rank": 6,
+   "ticker": "LEU",
+   "company": "Centrus Energy Corp.",
+   "move_pct": -6.72,
+   "price": 96.35,
+   "volume": 840059,
+   "volume_vs_avg": "~1.0x",
+   "heat_score": 44,
+   "direction": "down",
+   "why": "S&P 500 Energy Sector Gains Highlight Centrus Energy (LEU) as Mo",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQU1Y1Z0dSTGhsRWlYTmFWSDNsTGlvWFBUbUNRWnplbDlSaWxwY0JhcXVHbFA5Y2xiZlJ6am9QYjVJeWNCc28xOHZtVXdlek8tM0hVVG5oOWRNYm5vdU5na0xBNWtWT0NsY1Q2dXFhQjN5MFoza0ZseWE3ZnRjRGhZaVlWWlVsZ09nb3l5b1VtbXA2RFRQRTFLVU5PMWlDUUJac1QyOEJqZGptRGE5RGxBNHBEWU4yVEE?oc=5",
+   "published": "2026-11-02T21:23:15+00:00",
+   "sector": "Nuclear & Uranium"
+  },
+  {
+   "rank": 7,
    "ticker": "FANG",
    "company": "Diamondback Energy, Inc.",
    "move_pct": -6.17,
@@ -133,6 +117,22 @@
    "catalyst_type": "earnings",
    "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVzJmSXBPanFsOFRYRW9zZE5HTk94Zzc3VDRVWE1pc3YteTBzbjJKZkNsajlac0ZXY1FJVGNuQTRManNVTU1acmhvZkIzZzVFNFNBLU9MQkZISE1ZOHhwc1N2YjEwYkdVM0Z2TVdmUU9PSmxhcXJ4R1cxSFVBRm9BVHlMNzhSSUlFUkxXMUNyX2k2elFJdEE?oc=5",
    "published": "2026-11-02T22:51:00+00:00",
+   "sector": "Shale & E&P"
+  },
+  {
+   "rank": 8,
+   "ticker": "DVN",
+   "company": "Devon Energy Corporation",
+   "move_pct": -6.38,
+   "price": 48.83,
+   "volume": 11263202,
+   "volume_vs_avg": "~1.2x",
+   "heat_score": 43,
+   "direction": "down",
+   "why": "Devon Energy Corp (DVN) Stock Down 6.8% but Still Overvalued -- GF Score: 76/100",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRGR2QkJpb19DTTY2WmlqVFplZU9wdjdXWmNkZ1RPN3RQamxWQlN4dlpDZVRjWFhjX1lDYVFJcTJ3ZEg3VUE4dks2SG5qSzB1RnFaRUVySXd2Vm5DOWRNTGZ0UlA0N0RINzB0NUFIcnM1enNQLThOZ1dCTTV1R2JfczVGVTJUdlV4cllBbE5abGltRFlPTEpBeExNM3RrM2wyTmFvM3pQOE5aQTFKZlNV?oc=5",
+   "published": "2026-11-02T23:10:19+00:00",
    "sector": "Shale & E&P"
   }
  ]
