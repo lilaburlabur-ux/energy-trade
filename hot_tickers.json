@@ -1,10 +1,27 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-02T00:04:59+00:00",
+  "as_of": "2026-11-02T00:20:08+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": []
+ "hot_tickers": [
+  {
+   "rank": 1,
+   "ticker": "UUUU",
+   "company": "Energy Fuels Inc",
+   "move_pct": -6.32,
+   "price": 7.71,
+   "volume": 8430800,
+   "volume_vs_avg": "~1.0x",
+   "heat_score": 42,
+   "direction": "down",
+   "why": "Clean Energy Fuels (CLNE) Stock Price, Chart & Analysis",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBoVGk2MFg2VkE1NUZ3V1YwX0hUS1pBQ3lUbnM3OFd0eVp3Q1VRcHpnWkFtSGVsWnBlNkp5VGtUZmFNUXo2MGkzczBfd1BJNnRUMGc3aA?oc=5",
+   "published": "2026-11-01T22:18:38+00:00",
+   "sector": "Nuclear & Uranium"
+  }
+ ]
 }
