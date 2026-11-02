@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-02T00:15:47+00:00",
-  "as_of_local": "2026-11-02 00:15:47 UTC",
+  "as_of_utc": "2026-11-02T00:21:00+00:00",
+  "as_of_local": "2026-11-02 00:21:00 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "BE"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -274,6 +272,15 @@
       "previous_close": 59.89,
       "change_pct": 0.45,
       "market_cap": 60993712225.457504,
+      "headlines": []
+    },
+    {
+      "symbol": "BE",
+      "name": "Bloom Energy",
+      "price": 203.17,
+      "previous_close": 222.3,
+      "change_pct": -8.61,
+      "market_cap": 60044295836.74519,
       "headlines": []
     },
     {
@@ -816,13 +823,13 @@
     },
     {
       "label": "WTI",
-      "price": 102.43,
-      "change_pct": -1.62
+      "price": 102.5,
+      "change_pct": -1.56
     },
     {
       "label": "Brent",
-      "price": 111.67,
-      "change_pct": -5.07
+      "price": 111.83,
+      "change_pct": -4.94
     },
     {
       "label": "NatGas",
