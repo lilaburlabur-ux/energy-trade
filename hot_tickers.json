@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-02T22:56:29+00:00",
+  "as_of": "2026-11-02T23:11:39+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -17,21 +17,21 @@
    "volume_vs_avg": "~3x",
    "heat_score": 90,
    "direction": "up",
-   "why": "Nextpower (NXT) Shares Surge 15.7% After Jefferies Names It Fran",
+   "why": "Nextpower rallies 15% after Jefferies names franchise pick (NXT:NASDAQ)",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeTBmV0g2T0dsTU5EY2l0R2g2OUhwSl9wRjVsSzByNUxDYVZBZ25ObDJEOWdqU1JmX0Vqd2QwWnptMVltTzZzY2czSnRZdEgzQmtEUzBuOGNuWS1ZZExIc2xTWHRfRWdCZHlnc01MVHdMbEJDZVB3Rno1eXlvVElwekRUUXM0MlZPakkxcUdzc2pMdlJQU1VLV1dRQncyRkpkMzltSW9BTWktNk5KQVE?oc=5",
-   "published": "2026-11-02T20:10:52+00:00",
+   "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPLVEzQ3BtU0l6Tjdoa2FsVlVFZnJ5cFZLLUdrdDFuTEgxVUFVQVN0TnIxamNEWGZrcVQzbWFrVFFHV0x6WXB6LVVIOW13Zk9BaFJXV0V3S0Vkb3hGSWJiZXhzNEcwdXFUZ1pXd1F1V25TS3NTWFg5c3BqdXl0LWQwbzluN0d3SmlGTmNsanA0SUJpd2xyQVlmb1ZkOA?oc=5",
+   "published": "2026-11-02T21:27:26+00:00",
    "sector": "Renewables & Solar"
   },
   {
    "rank": 2,
    "ticker": "RUN",
    "company": "Sunrun Inc.",
-   "move_pct": 10.29,
-   "price": 8.25,
+   "move_pct": 11.38,
+   "price": 8.33,
    "volume": 15226276,
    "volume_vs_avg": "~2x",
-   "heat_score": 70,
+   "heat_score": 74,
    "direction": "up",
    "why": "Investors Purchase High Volume of Sunrun Call Options (NASDAQ:RUN)",
    "catalyst_type": "momentum_narrative",
@@ -41,22 +41,6 @@
   },
   {
    "rank": 3,
-   "ticker": "ENPH",
-   "company": "Enphase Energy, Inc.",
-   "move_pct": 10.14,
-   "price": 28.25,
-   "volume": 8868700,
-   "volume_vs_avg": "~1.4x",
-   "heat_score": 68,
-   "direction": "up",
-   "why": "Why Did Enphase Energy Stock Bounce Back Today?",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZDByZkZ5MXhDLVRDVzBQXzFMQU05bS1oVW1pVF9MWnNCMHliQV8ybUdiTE9rMzJablp1cXJOU3daVGRRMGQ0SjgwSkwxRGI3Q1RyZmNweW9UMUFqcnBiRHhqREhNRENQbnVsR2FSV2VEM09Ja0RkZWVtR0oyZnc5RUVFU0pjM2lwRE5VU1VDdm1uZkdqQlJqVA?oc=5",
-   "published": "2026-11-02T19:00:12+00:00",
-   "sector": "Renewables & Solar"
-  },
-  {
-   "rank": 4,
    "ticker": "FLNC",
    "company": "Fluence Energy, Inc.",
    "move_pct": -8.73,
@@ -72,14 +56,14 @@
    "sector": "Grid, Storage & Electrification"
   },
   {
-   "rank": 5,
+   "rank": 4,
    "ticker": "LEU",
    "company": "Centrus Energy Corp.",
-   "move_pct": -8.09,
-   "price": 94.93,
+   "move_pct": -8.03,
+   "price": 95.0,
    "volume": 840059,
    "volume_vs_avg": "~1.0x",
-   "heat_score": 59,
+   "heat_score": 58,
    "direction": "down",
    "why": "S&P 500 Energy Sector Gains Highlight Centrus Energy (LEU) as Mo",
    "catalyst_type": "momentum_narrative",
@@ -88,7 +72,7 @@
    "sector": "Nuclear & Uranium"
   },
   {
-   "rank": 6,
+   "rank": 5,
    "ticker": "APA",
    "company": "APA Corporation",
    "move_pct": -7.42,
@@ -104,11 +88,11 @@
    "sector": "Shale & E&P"
   },
   {
-   "rank": 7,
+   "rank": 6,
    "ticker": "EQNR",
    "company": "Equinor ASA",
-   "move_pct": -6.73,
-   "price": 45.47,
+   "move_pct": -6.83,
+   "price": 45.42,
    "volume": 6202645,
    "volume_vs_avg": "~1.4x",
    "heat_score": 46,
@@ -120,7 +104,7 @@
    "sector": "Oil & Gas Majors"
   },
   {
-   "rank": 8,
+   "rank": 7,
    "ticker": "FANG",
    "company": "Diamondback Energy, Inc.",
    "move_pct": -6.17,
@@ -129,10 +113,26 @@
    "volume_vs_avg": "~1.3x",
    "heat_score": 43,
    "direction": "down",
-   "why": "Diamondback Energy xStock Price | FANGX Price Today, Live Chart, USD converter, Market Capitalization",
+   "why": "Diamondback Energy (FANG) Beats Q3 Earnings and Revenue Estimates",
+   "catalyst_type": "earnings",
+   "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWmpQR3N2VFIxbUJYTW9UQzE2N0dqclQxME5IVzl2OFBqb0dlYXktbjVPWDhWUWIxMzlBZ0Q1azlScVhDamlJZ3puejlCTHpqWmwyaGtBcktFbVFQcWF1SGVtc2F0dVBlZGZkWElWaWVEUXlreUVQUW5KNWlEZlZhSVRvVlBXN1pGSlJfTXVwTS01ME0?oc=5",
+   "published": "2026-11-02T21:25:02+00:00",
+   "sector": "Shale & E&P"
+  },
+  {
+   "rank": 8,
+   "ticker": "DVN",
+   "company": "Devon Energy Corporation",
+   "move_pct": -6.38,
+   "price": 48.82,
+   "volume": 11263202,
+   "volume_vs_avg": "~1.2x",
+   "heat_score": 43,
+   "direction": "down",
+   "why": "Devon Energy Corp. stock underperforms Monday when compared to competitors",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1KY0x4alVyRVVTNEFfZmI0UkxVTlJJUjFlMEZfM0ZZRFh5UGZtWGd1d3Q5YnhLa1o2ZkdLRkc3NmgwT0VIdE9VNjVRQzFCTWJoeXlOMkNZMTdyd3lfTUZDUHIydw?oc=5",
-   "published": "2026-11-02T21:15:17+00:00",
+   "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcW5YN0ozTFl4cjkyNGpDVVNUTXNEQjNWSmQwX3RkX1VLa21JaGJ1ekN3NjVzQ0tIeGdOWkUzSE9BYUdDT2s3LTN1RXRUOTcwbFRVTXZ2bFhaQ2JHM3hJalZOazBxMXdjUklSQ0ZnWnhuNVNrTURMV05fcGVnMkpKXzJQM3V2ZGNNQnpPS1ZXZFU4WE5wck1HY05fbm9HdXZicGRHTFFiS0NkQXRqdXFmSXdtNUtOU1c2bVRzR2hVWVAxNlNQYjVKSkdTN0tQUQ?oc=5",
+   "published": "2026-11-02T21:30:00+00:00",
    "sector": "Shale & E&P"
   }
  ]
