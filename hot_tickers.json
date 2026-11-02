@@ -1,10 +1,43 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-02T14:38:34+00:00",
+  "as_of": "2026-11-02T14:53:40+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": []
+ "hot_tickers": [
+  {
+   "rank": 1,
+   "ticker": "FLNC",
+   "company": "Fluence Energy, Inc.",
+   "move_pct": -7.19,
+   "price": 5.31,
+   "volume": 3209826,
+   "volume_vs_avg": "~0.5x",
+   "heat_score": 43,
+   "direction": "down",
+   "why": "Why is Fluence Energy stock climbing today?",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRmRMbmlDbjc5bno2WG4wUFhrcGZXSW1ydnFrbWl6WElqbDJHeVRQU0x1akV1MWI0WVdWQzlBV0haakVXM01DQmZDMVFnaU9wZWFhWkJuamZTVXpaTE9fMWJ5bWNYdWFjZ3pLaVZlTS1VNVZIWGdsYVQ3bGw3Tk10aWZ5RTQxYWNfZHdnenlFU0dpQ21aWjhvcm1NejdjMUZ3RFZmWjRUbw?oc=5",
+   "published": "2026-11-02T14:15:00+00:00",
+   "sector": "Grid, Storage & Electrification"
+  },
+  {
+   "rank": 2,
+   "ticker": "ENPH",
+   "company": "Enphase Energy, Inc.",
+   "move_pct": 6.74,
+   "price": 27.38,
+   "volume": 1101798,
+   "volume_vs_avg": "~0.2x",
+   "heat_score": 39,
+   "direction": "up",
+   "why": "Enphase Energy, Inc. (ENPH) Is a Trending Stock: Facts to Know Before Betting on It",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQd1BRWXE5OFlQb0J2TTgyaFljaE1Ia3pEdE93WkRNT0JUd29nc05JWW9sY2l1VFBuSS1kc25TYXppN0JnNEdObDlmaTNWVGgydTY0U1lndmhtY1FBdGVrWjZ1dTVzY1FnOHdhNUxqV010eGIxeGNTdVJ2RTUyVF9GZHpjVXBkeXBlb3A0NXZoUy02UGVrS1hlMm5JdFV4dw?oc=5",
+   "published": "2026-11-02T13:00:03+00:00",
+   "sector": "Renewables & Solar"
+  }
+ ]
 }
