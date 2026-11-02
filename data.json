@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-02T01:11:48+00:00",
-  "as_of_local": "2026-11-02 01:11:48 UTC",
+  "as_of_utc": "2026-11-02T01:26:42+00:00",
+  "as_of_local": "2026-11-02 01:26:42 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "SMR"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -547,6 +545,15 @@
       "headlines": []
     },
     {
+      "symbol": "SMR",
+      "name": "NuScale Power",
+      "price": 5.62,
+      "previous_close": 5.92,
+      "change_pct": -5.07,
+      "market_cap": 2306389066.6746464,
+      "headlines": []
+    },
+    {
       "symbol": "LEU",
       "name": "Centrus Energy",
       "price": 103.29,
@@ -816,18 +823,18 @@
     },
     {
       "label": "WTI",
-      "price": 101.89,
-      "change_pct": -2.14
+      "price": 101.68,
+      "change_pct": -2.34
     },
     {
       "label": "Brent",
-      "price": 111.18,
-      "change_pct": -5.49
+      "price": 110.9,
+      "change_pct": -5.73
     },
     {
       "label": "NatGas",
       "price": 2.92,
-      "change_pct": 0.79
+      "change_pct": 0.62
     }
   ]
 }
