@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-02T08:00:22+00:00",
-  "as_of_local": "2026-11-02 08:00:22 UTC",
+  "as_of_utc": "2026-11-02T08:05:59+00:00",
+  "as_of_local": "2026-11-02 08:05:59 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "CEG"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -155,15 +157,6 @@
       "previous_close": 635.18,
       "change_pct": -2.27,
       "market_cap": 93529821272.93701,
-      "headlines": []
-    },
-    {
-      "symbol": "CEG",
-      "name": "Constellation Energy",
-      "price": 262.38,
-      "previous_close": 264.58,
-      "change_pct": -0.83,
-      "market_cap": 92963171832.0365,
       "headlines": []
     },
     {
@@ -823,18 +816,18 @@
     },
     {
       "label": "WTI",
-      "price": 100.76,
-      "change_pct": -3.23
+      "price": 100.69,
+      "change_pct": -3.29
     },
     {
       "label": "Brent",
-      "price": 110.29,
-      "change_pct": -6.25
+      "price": 110.23,
+      "change_pct": -6.3
     },
     {
       "label": "NatGas",
-      "price": 2.9,
-      "change_pct": -0.07
+      "price": 2.89,
+      "change_pct": -0.14
     }
   ]
 }
