@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-02T08:30:43+00:00",
-  "as_of_local": "2026-11-02 08:30:43 UTC",
+  "as_of_utc": "2026-11-02T08:35:57+00:00",
+  "as_of_local": "2026-11-02 08:35:57 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AR"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -457,6 +455,15 @@
       "headlines": []
     },
     {
+      "symbol": "AR",
+      "name": "Antero Resources",
+      "price": 42.08,
+      "previous_close": 41.2,
+      "change_pct": 2.14,
+      "market_cap": 12924283442.382812,
+      "headlines": []
+    },
+    {
       "symbol": "NXT",
       "name": "Nextracker",
       "price": 79.33,
@@ -816,18 +823,18 @@
     },
     {
       "label": "WTI",
-      "price": 100.35,
-      "change_pct": -3.62
+      "price": 100.49,
+      "change_pct": -3.49
     },
     {
       "label": "Brent",
-      "price": 109.78,
-      "change_pct": -6.68
+      "price": 109.91,
+      "change_pct": -6.57
     },
     {
       "label": "NatGas",
-      "price": 2.9,
-      "change_pct": -0.07
+      "price": 2.89,
+      "change_pct": -0.17
     }
   ]
 }
