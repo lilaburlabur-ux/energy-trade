@@ -4,7 +4,7 @@ Signed file: `UUUU.research.02.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $7.47 (2026-11-02, ~15-min delayed) |
+| Current price | $7.49 (2026-11-02, ~15-min delayed) |
 | Market cap | $1.98B |
 | Sector / Industry | Energy / Uranium |
 | Main theme | Uranium — see catalysts below |
@@ -15,10 +15,10 @@ Signed file: `UUUU.research.02.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-54.13%) with negative half-year (-65.43%). |
-| Fresh setup quality | Poor / broken | -73.03% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-54.03%) with negative half-year (-65.36%). |
+| Fresh setup quality | Poor / broken | -72.98% from 52w high — base needs to rebuild. |
 | Fundamental quality | Weak | Negative profit margin (-77.30%). |
-| Value attractiveness | Reasonable | Forward P/E 15.41, EV/Sales 15.82. |
+| Value attractiveness | Reasonable | Forward P/E 15.44, EV/Sales 15.82. |
 | Risk level | High | Beta 1.93, ATR 7.9% of price, short float 22.14%. |
 
 **Bottom line:** Low technical momentum, weak fundamentals, value: reasonable, risk: high.
@@ -35,22 +35,22 @@ Energy Fuels Inc., together with its subsidiaries, engages in the exploration, r
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $7.47; 52w high $27.72 (-73.03%); 52w low $7.47 (+0.00%) |
-| Trend | -54.13% vs SMA200, -33.44% vs SMA50, -13.64% vs SMA20 |
-| Momentum | RSI(14) 28.0 (oversold) |
+| Price vs 52-week range | Close $7.49; 52w high $27.72 (-72.98%); 52w low $7.49 (+0.00%) |
+| Trend | -54.03% vs SMA200, -33.31% vs SMA50, -13.47% vs SMA20 |
+| Momentum | RSI(14) 28.1 (oversold) |
 | Volatility | ATR(14) 0.59 (~7.9% of price); beta 1.93 |
-| Setup perspective | -73.03% from 52w high — base needs to rebuild. |
+| Setup perspective | -72.98% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -1.1% |
-| Month | -30.3% |
-| Quarter | -41.9% |
+| Week | -0.9% |
+| Month | -30.2% |
+| Quarter | -41.8% |
 | Half Y | -65.4% |
 | 1Y | -65.7% |
-| YTD | -55.2% |
+| YTD | -55.1% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -59,7 +59,7 @@ Energy Fuels Inc., together with its subsidiaries, engages in the exploration, r
 | Revenue (ttm) | $105.76M | Revenue growth 496.10% y/y |
 | Profitability | Gross 40.85%, operating -79.03%, net -77.30% | ROA -4.65%, ROE -11.45% |
 | Balance sheet | Cash $936.75M, debt $678.34M | Current ratio 27.90, debt/equity 85.13 |
-| Valuation | P/E —, forward P/E 15.41, P/S 18.72, P/B 2.36 | EV/Sales 15.82, EV/EBITDA -23.34 |
+| Valuation | P/E —, forward P/E 15.44, P/S 18.76, P/B 2.36 | EV/Sales 15.82, EV/EBITDA -23.34 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $23.69 (4 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -104,20 +104,20 @@ Energy Fuels Inc., together with its subsidiaries, engages in the exploration, r
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $7.47 | EV/Sales | 15.82 |
+| Price | $7.49 | EV/Sales | 15.82 |
 | Market cap | $1.98B | EV/EBITDA | -23.34 |
 | Beta | 1.93 | Gross margin | 40.85% |
-| RSI(14) | 28.0 | Operating margin | -79.03% |
+| RSI(14) | 28.1 | Operating margin | -79.03% |
 | ATR(14) | 0.59 | Profit margin | -77.30% |
-| SMA20 dist | -13.64% | ROA | -4.65% |
-| SMA50 dist | -33.44% | ROE | -11.45% |
-| SMA200 dist | -54.13% | Revenue (ttm) | $105.76M |
+| SMA20 dist | -13.47% | ROA | -4.65% |
+| SMA50 dist | -33.31% | ROE | -11.45% |
+| SMA200 dist | -54.03% | Revenue (ttm) | $105.76M |
 | 52W high | $27.72 | Revenue growth y/y | 496.10% |
-| 52W low | $7.47 | Inst. ownership | 75.79% |
+| 52W low | $7.49 | Inst. ownership | 75.79% |
 | P/E (ttm) | — | Insider ownership | 1.16% |
-| Forward P/E | 15.41 | Short float | 22.14% |
+| Forward P/E | 15.44 | Short float | 22.14% |
 | PEG (trailing) | — | Avg volume | 7,849,207 |
-| P/S | 18.72 | Employees | 1,069 |
+| P/S | 18.76 | Employees | 1,069 |
 | P/B | 2.36 | Analyst rec (1=buy..5=sell) | 1.1 |
 
 ## 8. Analyst Actions

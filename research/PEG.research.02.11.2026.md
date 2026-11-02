@@ -4,8 +4,8 @@ Signed file: `PEG.research.02.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $74.06 (2026-11-02, ~15-min delayed) |
-| Market cap | $36.91B |
+| Current price | $74.08 (2026-11-02, ~15-min delayed) |
+| Market cap | $36.92B |
 | Sector / Industry | Utilities / Utilities - Regulated Electric |
 | Main theme | Utilities - Regulated Electric — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,8 +15,8 @@ Signed file: `PEG.research.02.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-3.82%) with negative half-year (-6.29%). |
-| Fresh setup quality | Moderate / wait | -12.60% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-3.80%) with negative half-year (-6.27%). |
+| Fresh setup quality | Moderate / wait | -12.58% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 16.04%, revenue growth -8.90%. |
 | Value attractiveness | Reasonable | Forward P/E 15.94, EV/Sales 4.90. |
 | Risk level | Moderate | Beta 0.49, ATR 1.7% of price, short float 2.04%. |
@@ -35,11 +35,11 @@ Public Service Enterprise Group Incorporated, through its subsidiaries, operates
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $74.06; 52w high $84.74 (-12.60%); 52w low $66.56 (+11.27%) |
-| Trend | -3.82% vs SMA200, +4.17% vs SMA50, +3.05% vs SMA20 |
-| Momentum | RSI(14) 63.7 (neutral) |
+| Price vs 52-week range | Close $74.08; 52w high $84.74 (-12.58%); 52w low $66.56 (+11.30%) |
+| Trend | -3.80% vs SMA200, +4.19% vs SMA50, +3.07% vs SMA20 |
+| Momentum | RSI(14) 63.8 (neutral) |
 | Volatility | ATR(14) 1.29 (~1.7% of price); beta 0.49 |
-| Setup perspective | -12.60% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -12.58% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
@@ -50,7 +50,7 @@ Public Service Enterprise Group Incorporated, through its subsidiaries, operates
 | Quarter | -2.0% |
 | Half Y | -6.3% |
 | 1Y | -5.1% |
-| YTD | -6.2% |
+| YTD | -6.1% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -59,7 +59,7 @@ Public Service Enterprise Group Incorporated, through its subsidiaries, operates
 | Revenue (ttm) | $12.54B | Revenue growth -8.90% y/y |
 | Profitability | Gross 33.33%, operating 18.87%, net 16.04% | ROA 3.24%, ROE 11.83% |
 | Balance sheet | Cash $192.00M, debt $24.68B | Current ratio 0.88, debt/equity 142.41 |
-| Valuation | P/E 18.42, forward P/E 15.94, P/S 2.94, P/B 2.13 | EV/Sales 4.90, EV/EBITDA 13.78 |
+| Valuation | P/E 18.43, forward P/E 15.94, P/S 2.94, P/B 2.13 | EV/Sales 4.90, EV/EBITDA 13.78 |
 | Growth expectations | Earnings growth -42.70%, EPS q/q -42.90% | Analyst mean target $81.42 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -100,17 +100,17 @@ Public Service Enterprise Group Incorporated, through its subsidiaries, operates
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $74.06 | EV/Sales | 4.90 |
-| Market cap | $36.91B | EV/EBITDA | 13.78 |
+| Price | $74.08 | EV/Sales | 4.90 |
+| Market cap | $36.92B | EV/EBITDA | 13.78 |
 | Beta | 0.49 | Gross margin | 33.33% |
-| RSI(14) | 63.7 | Operating margin | 18.87% |
+| RSI(14) | 63.8 | Operating margin | 18.87% |
 | ATR(14) | 1.29 | Profit margin | 16.04% |
-| SMA20 dist | +3.05% | ROA | 3.24% |
-| SMA50 dist | +4.17% | ROE | 11.83% |
-| SMA200 dist | -3.82% | Revenue (ttm) | $12.54B |
+| SMA20 dist | +3.07% | ROA | 3.24% |
+| SMA50 dist | +4.19% | ROE | 11.83% |
+| SMA200 dist | -3.80% | Revenue (ttm) | $12.54B |
 | 52W high | $84.74 | Revenue growth y/y | -8.90% |
 | 52W low | $66.56 | Inst. ownership | 79.49% |
-| P/E (ttm) | 18.42 | Insider ownership | 0.13% |
+| P/E (ttm) | 18.43 | Insider ownership | 0.13% |
 | Forward P/E | 15.94 | Short float | 2.04% |
 | PEG (trailing) | 3.51 | Avg volume | 3,409,396 |
 | P/S | 2.94 | Employees | 13,189 |

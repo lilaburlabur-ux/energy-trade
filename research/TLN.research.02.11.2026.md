@@ -4,8 +4,8 @@ Signed file: `TLN.research.02.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $334.61 (2026-11-02, ~15-min delayed) |
-| Market cap | $15.83B |
+| Current price | $334.44 (2026-11-02, ~15-min delayed) |
+| Market cap | $15.82B |
 | Sector / Industry | Utilities / Utilities - Independent Power Producers |
 | Main theme | Utilities - Independent Power Producers — see catalysts below |
 | Current stance | Low technical momentum, weak fundamentals, value: reasonable, risk: high. |
@@ -15,8 +15,8 @@ Signed file: `TLN.research.02.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-4.17%) with negative half-year (-13.01%). |
-| Fresh setup quality | Moderate / wait | -23.63% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-4.22%) with negative half-year (-13.05%). |
+| Fresh setup quality | Moderate / wait | -23.66% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Weak | Negative profit margin (-4.95%). |
 | Value attractiveness | Reasonable | Forward P/E 10.41, EV/Sales 6.90. |
 | Risk level | High | Beta 1.58, ATR 5.2% of price, short float 9.99%. |
@@ -35,20 +35,20 @@ Talen Energy Corporation, an independent power producer and infrastructure compa
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $334.61; 52w high $438.12 (-23.63%); 52w low $282.15 (+18.59%) |
-| Trend | -4.17% vs SMA200, +2.98% vs SMA50, -5.68% vs SMA20 |
-| Momentum | RSI(14) 46.9 (neutral) |
+| Price vs 52-week range | Close $334.44; 52w high $438.12 (-23.66%); 52w low $282.15 (+18.53%) |
+| Trend | -4.22% vs SMA200, +2.92% vs SMA50, -5.73% vs SMA20 |
+| Momentum | RSI(14) 46.8 (neutral) |
 | Volatility | ATR(14) 17.39 (~5.2% of price); beta 1.58 |
-| Setup perspective | -23.63% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -23.66% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -0.9% |
+| Week | -1.0% |
 | Month | +4.3% |
 | Quarter | -1.6% |
-| Half Y | -13.0% |
+| Half Y | -13.1% |
 | 1Y | -14.6% |
 | YTD | -15.7% |
 
@@ -59,7 +59,7 @@ Talen Energy Corporation, an independent power producer and infrastructure compa
 | Revenue (ttm) | $3.74B | Revenue growth 111.20% y/y |
 | Profitability | Gross 42.10%, operating -4.80%, net -4.95% | ROA 0.92%, ROE -12.83% |
 | Balance sheet | Cash $232.00M, debt $9.57B | Current ratio 0.78, debt/equity 584.14 |
-| Valuation | P/E —, forward P/E 10.41, P/S 4.23, P/B 9.92 | EV/Sales 6.90, EV/EBITDA 44.34 |
+| Valuation | P/E —, forward P/E 10.41, P/S 4.23, P/B 9.91 | EV/Sales 6.90, EV/EBITDA 44.34 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $452.62 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -103,21 +103,21 @@ Talen Energy Corporation, an independent power producer and infrastructure compa
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $334.61 | EV/Sales | 6.90 |
-| Market cap | $15.83B | EV/EBITDA | 44.34 |
+| Price | $334.44 | EV/Sales | 6.90 |
+| Market cap | $15.82B | EV/EBITDA | 44.34 |
 | Beta | 1.58 | Gross margin | 42.10% |
-| RSI(14) | 46.9 | Operating margin | -4.80% |
+| RSI(14) | 46.8 | Operating margin | -4.80% |
 | ATR(14) | 17.39 | Profit margin | -4.95% |
-| SMA20 dist | -5.68% | ROA | 0.92% |
-| SMA50 dist | +2.98% | ROE | -12.83% |
-| SMA200 dist | -4.17% | Revenue (ttm) | $3.74B |
+| SMA20 dist | -5.73% | ROA | 0.92% |
+| SMA50 dist | +2.92% | ROE | -12.83% |
+| SMA200 dist | -4.22% | Revenue (ttm) | $3.74B |
 | 52W high | $438.12 | Revenue growth y/y | 111.20% |
 | 52W low | $282.15 | Inst. ownership | 103.18% |
 | P/E (ttm) | — | Insider ownership | 1.38% |
 | Forward P/E | 10.41 | Short float | 9.99% |
 | PEG (trailing) | — | Avg volume | 944,739 |
 | P/S | 4.23 | Employees | 1,880 |
-| P/B | 9.92 | Analyst rec (1=buy..5=sell) | 1.5 |
+| P/B | 9.91 | Analyst rec (1=buy..5=sell) | 1.5 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

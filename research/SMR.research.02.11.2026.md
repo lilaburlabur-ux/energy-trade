@@ -15,10 +15,10 @@ Signed file: `SMR.research.02.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-49.68%) with negative half-year (-55.46%). |
-| Fresh setup quality | Poor / broken | -87.91% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-49.59%) with negative half-year (-55.38%). |
+| Fresh setup quality | Poor / broken | -87.89% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 0.00%, revenue growth -99.10%. |
-| Value attractiveness | Reasonable | Forward P/E -8.52, EV/Sales 111.63. |
+| Value attractiveness | Reasonable | Forward P/E -8.54, EV/Sales 111.63. |
 | Risk level | High | Beta 2.43, ATR 8.6% of price, short float 24.85%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: high.
@@ -35,21 +35,21 @@ NuScale Power Corporation provides small modular reactor technology solutions. I
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $5.43; 52w high $44.87 (-87.91%); 52w low $5.27 (+2.94%) |
-| Trend | -49.68% vs SMA200, -30.52% vs SMA50, -11.32% vs SMA20 |
-| Momentum | RSI(14) 33.2 (neutral) |
+| Price vs 52-week range | Close $5.43; 52w high $44.87 (-87.89%); 52w low $5.27 (+3.13%) |
+| Trend | -49.59% vs SMA200, -30.39% vs SMA50, -11.16% vs SMA20 |
+| Momentum | RSI(14) 33.3 (neutral) |
 | Volatility | ATR(14) 0.47 (~8.6% of price); beta 2.43 |
-| Setup perspective | -87.91% from 52w high — base needs to rebuild. |
+| Setup perspective | -87.89% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +2.9% |
-| Month | -30.0% |
-| Quarter | -42.8% |
-| Half Y | -55.5% |
-| 1Y | -87.2% |
+| Week | +3.1% |
+| Month | -29.9% |
+| Quarter | -42.7% |
+| Half Y | -55.4% |
+| 1Y | -87.1% |
 | YTD | -66.7% |
 
 ## 4. Fundamental Analysis
@@ -59,7 +59,7 @@ NuScale Power Corporation provides small modular reactor technology solutions. I
 | Revenue (ttm) | $10.69M | Revenue growth -99.10% y/y |
 | Profitability | Gross 23.54%, operating -85337.33%, net 0.00% | ROA -10.60%, ROE -55.18% |
 | Balance sheet | Cash $1.07B, debt $6.69M | Current ratio 37.88, debt/equity 0.33 |
-| Valuation | P/E —, forward P/E -8.52, P/S 208.27, P/B 1.08 | EV/Sales 111.63, EV/EBITDA -5.33 |
+| Valuation | P/E —, forward P/E -8.54, P/S 208.65, P/B 1.08 | EV/Sales 111.63, EV/EBITDA -5.33 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $10.73 (15 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -106,17 +106,17 @@ NuScale Power Corporation provides small modular reactor technology solutions. I
 | Price | $5.43 | EV/Sales | 111.63 |
 | Market cap | $2.23B | EV/EBITDA | -5.33 |
 | Beta | 2.43 | Gross margin | 23.54% |
-| RSI(14) | 33.2 | Operating margin | -85337.33% |
+| RSI(14) | 33.3 | Operating margin | -85337.33% |
 | ATR(14) | 0.47 | Profit margin | 0.00% |
-| SMA20 dist | -11.32% | ROA | -10.60% |
-| SMA50 dist | -30.52% | ROE | -55.18% |
-| SMA200 dist | -49.68% | Revenue (ttm) | $10.69M |
+| SMA20 dist | -11.16% | ROA | -10.60% |
+| SMA50 dist | -30.39% | ROE | -55.18% |
+| SMA200 dist | -49.59% | Revenue (ttm) | $10.69M |
 | 52W high | $44.87 | Revenue growth y/y | -99.10% |
 | 52W low | $5.27 | Inst. ownership | 60.96% |
 | P/E (ttm) | — | Insider ownership | 1.70% |
-| Forward P/E | -8.52 | Short float | 24.85% |
+| Forward P/E | -8.54 | Short float | 24.85% |
 | PEG (trailing) | — | Avg volume | 33,763,440 |
-| P/S | 208.27 | Employees | 428 |
+| P/S | 208.65 | Employees | 428 |
 | P/B | 1.08 | Analyst rec (1=buy..5=sell) | 2.7 |
 
 ## 8. Analyst Actions

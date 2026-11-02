@@ -4,7 +4,7 @@ Signed file: `DINO.research.02.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $112.00 (2026-11-02, ~15-min delayed) |
+| Current price | $111.99 (2026-11-02, ~15-min delayed) |
 | Market cap | $19.19B |
 | Sector / Industry | Energy / Oil & Gas Refining & Marketing |
 | Main theme | Oil & Gas Refining & Marketing — see catalysts below |
@@ -15,7 +15,7 @@ Signed file: `DINO.research.02.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +119.21%; price +43.22% vs SMA200. |
+| Technical momentum | High | 1Y +119.19%; price +43.21% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -12.66% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 10.12%, revenue growth 49.70%. |
 | Value attractiveness | Reasonable | Forward P/E 6.46, EV/Sales 0.57. |
@@ -35,8 +35,8 @@ HF Sinclair Corporation operates as an independent energy company in the United 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $112.00; 52w high $128.23 (-12.66%); 52w low $44.83 (+149.83%) |
-| Trend | +43.22% vs SMA200, -0.15% vs SMA50, -7.08% vs SMA20 |
+| Price vs 52-week range | Close $111.99; 52w high $128.23 (-12.66%); 52w low $44.83 (+149.81%) |
+| Trend | +43.21% vs SMA200, -0.16% vs SMA50, -7.09% vs SMA20 |
 | Momentum | RSI(14) 43.0 (neutral) |
 | Volatility | ATR(14) 5.23 (~4.7% of price); beta 0.71 |
 | Setup perspective | -12.66% from 52w high; no clean fresh pivot by default. |
@@ -50,7 +50,7 @@ HF Sinclair Corporation operates as an independent energy company in the United 
 | Quarter | +27.7% |
 | Half Y | +58.1% |
 | 1Y | +119.2% |
-| YTD | +144.7% |
+| YTD | +144.6% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -101,14 +101,14 @@ HF Sinclair Corporation operates as an independent energy company in the United 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $112.00 | EV/Sales | 0.57 |
+| Price | $111.99 | EV/Sales | 0.57 |
 | Market cap | $19.19B | EV/EBITDA | 3.65 |
 | Beta | 0.71 | Gross margin | 18.01% |
 | RSI(14) | 43.0 | Operating margin | 25.13% |
 | ATR(14) | 5.23 | Profit margin | 10.12% |
-| SMA20 dist | -7.08% | ROA | 15.77% |
-| SMA50 dist | -0.15% | ROE | 33.21% |
-| SMA200 dist | +43.22% | Revenue (ttm) | $34.83B |
+| SMA20 dist | -7.09% | ROA | 15.77% |
+| SMA50 dist | -0.16% | ROE | 33.21% |
+| SMA200 dist | +43.21% | Revenue (ttm) | $34.83B |
 | 52W high | $128.23 | Revenue growth y/y | 49.70% |
 | 52W low | $44.83 | Inst. ownership | 92.58% |
 | P/E (ttm) | 5.71 | Insider ownership | 5.70% |

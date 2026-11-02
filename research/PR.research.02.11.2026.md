@@ -4,8 +4,8 @@ Signed file: `PR.research.02.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $24.60 (2026-11-02, ~15-min delayed) |
-| Market cap | $20.61B |
+| Current price | $24.61 (2026-11-02, ~15-min delayed) |
+| Market cap | $20.62B |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
 | Current stance | High technical momentum, strong fundamentals, value: reasonable, risk: elevated. |
@@ -15,10 +15,10 @@ Signed file: `PR.research.02.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +105.16%; price +21.59% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -5.44% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +105.25%; price +21.64% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -5.40% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 21.52%, revenue growth 55.10%. |
-| Value attractiveness | Reasonable | Forward P/E 10.05, EV/Sales 4.33. |
+| Value attractiveness | Reasonable | Forward P/E 10.06, EV/Sales 4.33. |
 | Risk level | Elevated | Beta 0.58, ATR 3.0% of price, short float 3.82%. |
 
 **Bottom line:** High technical momentum, strong fundamentals, value: reasonable, risk: elevated.
@@ -35,22 +35,22 @@ Permian Resources Corporation, an independent oil and natural gas company, focus
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $24.60; 52w high $26.02 (-5.44%); 52w low $11.72 (+109.90%) |
-| Trend | +21.59% vs SMA200, +5.26% vs SMA50, +0.92% vs SMA20 |
-| Momentum | RSI(14) 53.8 (neutral) |
+| Price vs 52-week range | Close $24.61; 52w high $26.02 (-5.40%); 52w low $11.72 (+109.98%) |
+| Trend | +21.64% vs SMA200, +5.30% vs SMA50, +0.96% vs SMA20 |
+| Momentum | RSI(14) 53.9 (neutral) |
 | Volatility | ATR(14) 0.75 (~3.0% of price); beta 0.58 |
-| Setup perspective | -5.44% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -5.40% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
 | Week | -4.5% |
-| Month | +11.2% |
-| Quarter | +20.8% |
-| Half Y | +10.9% |
+| Month | +11.3% |
+| Quarter | +20.9% |
+| Half Y | +11.0% |
 | 1Y | +105.2% |
-| YTD | +74.9% |
+| YTD | +75.0% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -59,7 +59,7 @@ Permian Resources Corporation, an independent oil and natural gas company, focus
 | Revenue (ttm) | $5.74B | Revenue growth 55.10% y/y |
 | Profitability | Gross 75.85%, operating 57.44%, net 21.52% | ROA 7.54%, ROE 11.40% |
 | Balance sheet | Cash $131.72M, debt $3.15B | Current ratio 0.62, debt/equity 26.25 |
-| Valuation | P/E 16.19, forward P/E 10.05, P/S 3.59, P/B 1.72 | EV/Sales 4.33, EV/EBITDA 5.83 |
+| Valuation | P/E 16.19, forward P/E 10.06, P/S 3.59, P/B 1.72 | EV/Sales 4.33, EV/EBITDA 5.83 |
 | Growth expectations | Earnings growth 232.90%, EPS q/q 282.60% | Analyst mean target $28.62 (21 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -102,18 +102,18 @@ Permian Resources Corporation, an independent oil and natural gas company, focus
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $24.60 | EV/Sales | 4.33 |
-| Market cap | $20.61B | EV/EBITDA | 5.83 |
+| Price | $24.61 | EV/Sales | 4.33 |
+| Market cap | $20.62B | EV/EBITDA | 5.83 |
 | Beta | 0.58 | Gross margin | 75.85% |
-| RSI(14) | 53.8 | Operating margin | 57.44% |
+| RSI(14) | 53.9 | Operating margin | 57.44% |
 | ATR(14) | 0.75 | Profit margin | 21.52% |
-| SMA20 dist | +0.92% | ROA | 7.54% |
-| SMA50 dist | +5.26% | ROE | 11.40% |
-| SMA200 dist | +21.59% | Revenue (ttm) | $5.74B |
+| SMA20 dist | +0.96% | ROA | 7.54% |
+| SMA50 dist | +5.30% | ROE | 11.40% |
+| SMA200 dist | +21.64% | Revenue (ttm) | $5.74B |
 | 52W high | $26.02 | Revenue growth y/y | 55.10% |
 | 52W low | $11.72 | Inst. ownership | 93.90% |
 | P/E (ttm) | 16.19 | Insider ownership | 4.61% |
-| Forward P/E | 10.05 | Short float | 3.82% |
+| Forward P/E | 10.06 | Short float | 3.82% |
 | PEG (trailing) | 0.95 | Avg volume | 9,479,715 |
 | P/S | 3.59 | Employees | 515 |
 | P/B | 1.72 | Analyst rec (1=buy..5=sell) | 1.3 |

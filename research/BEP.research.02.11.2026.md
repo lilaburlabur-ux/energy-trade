@@ -4,8 +4,8 @@ Signed file: `BEP.research.02.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $30.08 (2026-11-02, ~15-min delayed) |
-| Market cap | $14.64B |
+| Current price | $30.02 (2026-11-02, ~15-min delayed) |
+| Market cap | $14.63B |
 | Sector / Industry | Utilities / Utilities - Renewable |
 | Main theme | Utilities - Renewable — see catalysts below |
 | Current stance | Low technical momentum, weak fundamentals, value: reasonable, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `BEP.research.02.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-4.70%) with negative half-year (-5.97%). |
-| Fresh setup quality | Moderate / wait | -17.87% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-4.90%) with negative half-year (-6.18%). |
+| Fresh setup quality | Moderate / wait | -18.05% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Weak | Negative profit margin (-1.26%). |
-| Value attractiveness | Reasonable | Forward P/E -16.26, EV/Sales 12.77. |
-| Risk level | Moderate | Beta 0.95, ATR 2.6% of price, short float 0.57%. |
+| Value attractiveness | Reasonable | Forward P/E -16.22, EV/Sales 12.77. |
+| Risk level | Moderate | Beta 0.95, ATR 2.7% of price, short float 0.57%. |
 
 **Bottom line:** Low technical momentum, weak fundamentals, value: reasonable, risk: moderate.
 
@@ -35,22 +35,22 @@ Brookfield Renewable Partners L.P. owns a portfolio of renewable power generatin
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $30.08; 52w high $36.63 (-17.87%); 52w low $25.75 (+16.84%) |
-| Trend | -4.70% vs SMA200, +1.68% vs SMA50, +4.12% vs SMA20 |
-| Momentum | RSI(14) 58.6 (neutral) |
-| Volatility | ATR(14) 0.79 (~2.6% of price); beta 0.95 |
-| Setup perspective | -17.87% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $30.02; 52w high $36.63 (-18.05%); 52w low $25.75 (+16.59%) |
+| Trend | -4.90% vs SMA200, +1.46% vs SMA50, +3.90% vs SMA20 |
+| Momentum | RSI(14) 58.2 (neutral) |
+| Volatility | ATR(14) 0.80 (~2.7% of price); beta 0.95 |
+| Setup perspective | -18.05% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +5.3% |
-| Month | +6.1% |
-| Quarter | -7.8% |
-| Half Y | -6.0% |
-| 1Y | +3.3% |
-| YTD | +11.6% |
+| Week | +5.1% |
+| Month | +5.9% |
+| Quarter | -8.0% |
+| Half Y | -6.2% |
+| 1Y | +3.1% |
+| YTD | +11.3% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -59,7 +59,7 @@ Brookfield Renewable Partners L.P. owns a portfolio of renewable power generatin
 | Revenue (ttm) | $6.36B | Revenue growth 1.10% y/y |
 | Profitability | Gross 51.39%, operating 17.08%, net -1.26% | ROA 0.42%, ROE 0.40% |
 | Balance sheet | Cash $2.69B, debt $37.72B | Current ratio 0.80, debt/equity 105.23 |
-| Valuation | P/E —, forward P/E -16.26, P/S 2.30, P/B 2.41 | EV/Sales 12.77, EV/EBITDA 27.07 |
+| Valuation | P/E —, forward P/E -16.22, P/S 2.30, P/B 2.41 | EV/Sales 12.77, EV/EBITDA 27.07 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $34.24 (14 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -101,18 +101,18 @@ Brookfield Renewable Partners L.P. owns a portfolio of renewable power generatin
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $30.08 | EV/Sales | 12.77 |
-| Market cap | $14.64B | EV/EBITDA | 27.07 |
+| Price | $30.02 | EV/Sales | 12.77 |
+| Market cap | $14.63B | EV/EBITDA | 27.07 |
 | Beta | 0.95 | Gross margin | 51.39% |
-| RSI(14) | 58.6 | Operating margin | 17.08% |
-| ATR(14) | 0.79 | Profit margin | -1.26% |
-| SMA20 dist | +4.12% | ROA | 0.42% |
-| SMA50 dist | +1.68% | ROE | 0.40% |
-| SMA200 dist | -4.70% | Revenue (ttm) | $6.36B |
+| RSI(14) | 58.2 | Operating margin | 17.08% |
+| ATR(14) | 0.80 | Profit margin | -1.26% |
+| SMA20 dist | +3.90% | ROA | 0.42% |
+| SMA50 dist | +1.46% | ROE | 0.40% |
+| SMA200 dist | -4.90% | Revenue (ttm) | $6.36B |
 | 52W high | $36.63 | Revenue growth y/y | 1.10% |
 | 52W low | $25.75 | Inst. ownership | 65.70% |
 | P/E (ttm) | — | Insider ownership | 0.07% |
-| Forward P/E | -16.26 | Short float | 0.57% |
+| Forward P/E | -16.22 | Short float | 0.57% |
 | PEG (trailing) | — | Avg volume | 1,041,025 |
 | P/S | 2.30 | Employees | 5,870 |
 | P/B | 2.41 | Analyst rec (1=buy..5=sell) | 2.2 |

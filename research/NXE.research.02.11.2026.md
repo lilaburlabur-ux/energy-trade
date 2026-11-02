@@ -5,7 +5,7 @@ Signed file: `NXE.research.02.11.2026`
 | Field | Value |
 |---|---|
 | Current price | $7.95 (2026-11-02, ~15-min delayed) |
-| Market cap | $5.33B |
+| Market cap | $5.27B |
 | Sector / Industry | Energy / Uranium |
 | Main theme | Uranium — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: high. |
@@ -15,10 +15,10 @@ Signed file: `NXE.research.02.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-26.05%) with negative half-year (-36.24%). |
-| Fresh setup quality | Poor / broken | -42.92% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-25.96%) with negative half-year (-36.16%). |
+| Fresh setup quality | Poor / broken | -42.85% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 0.00%, revenue growth —. |
-| Value attractiveness | Reasonable | Forward P/E -62.86, EV/Sales —. |
+| Value attractiveness | Reasonable | Forward P/E -62.94, EV/Sales —. |
 | Risk level | High | Beta 1.66, ATR 5.1% of price, short float —. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: high.
@@ -35,22 +35,22 @@ NexGen Energy Ltd., an exploration and development stage company, engages in the
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $7.95; 52w high $13.92 (-42.92%); 52w low $7.56 (+5.09%) |
-| Trend | -26.05% vs SMA200, -15.09% vs SMA50, -6.86% vs SMA20 |
-| Momentum | RSI(14) 37.6 (neutral) |
+| Price vs 52-week range | Close $7.95; 52w high $13.92 (-42.85%); 52w low $7.56 (+5.22%) |
+| Trend | -25.96% vs SMA200, -14.99% vs SMA50, -6.74% vs SMA20 |
+| Momentum | RSI(14) 37.7 (neutral) |
 | Volatility | ATR(14) 0.41 (~5.1% of price); beta 1.66 |
-| Setup perspective | -42.92% from 52w high — base needs to rebuild. |
+| Setup perspective | -42.85% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -4.6% |
-| Month | -11.7% |
-| Quarter | -18.6% |
+| Week | -4.5% |
+| Month | -11.6% |
+| Quarter | -18.5% |
 | Half Y | -36.2% |
-| 1Y | -18.8% |
-| YTD | -22.5% |
+| 1Y | -18.7% |
+| YTD | -22.4% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -59,7 +59,7 @@ NexGen Energy Ltd., an exploration and development stage company, engages in the
 | Revenue (ttm) | — | Revenue growth — y/y |
 | Profitability | Gross 0.00%, operating 0.00%, net 0.00% | ROA -3.39%, ROE -17.67% |
 | Balance sheet | Cash $970.25M, debt $619.11M | Current ratio 1.46, debt/equity 33.57 |
-| Valuation | P/E —, forward P/E -62.86, P/S —, P/B 4.06 | EV/Sales —, EV/EBITDA -47.87 |
+| Valuation | P/E —, forward P/E -62.94, P/S —, P/B 4.06 | EV/Sales —, EV/EBITDA -47.87 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $16.62 (2 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -103,17 +103,17 @@ NexGen Energy Ltd., an exploration and development stage company, engages in the
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $7.95 | EV/Sales | — |
-| Market cap | $5.33B | EV/EBITDA | -47.87 |
+| Market cap | $5.27B | EV/EBITDA | -47.87 |
 | Beta | 1.66 | Gross margin | 0.00% |
-| RSI(14) | 37.6 | Operating margin | 0.00% |
+| RSI(14) | 37.7 | Operating margin | 0.00% |
 | ATR(14) | 0.41 | Profit margin | 0.00% |
-| SMA20 dist | -6.86% | ROA | -3.39% |
-| SMA50 dist | -15.09% | ROE | -17.67% |
-| SMA200 dist | -26.05% | Revenue (ttm) | — |
+| SMA20 dist | -6.74% | ROA | -3.39% |
+| SMA50 dist | -14.99% | ROE | -17.67% |
+| SMA200 dist | -25.96% | Revenue (ttm) | — |
 | 52W high | $13.92 | Revenue growth y/y | — |
 | 52W low | $7.56 | Inst. ownership | 56.20% |
 | P/E (ttm) | — | Insider ownership | 6.40% |
-| Forward P/E | -62.86 | Short float | — |
+| Forward P/E | -62.94 | Short float | — |
 | PEG (trailing) | — | Avg volume | 4,873,925 |
 | P/S | — | Employees | 142 |
 | P/B | 4.06 | Analyst rec (1=buy..5=sell) | 1.6 |

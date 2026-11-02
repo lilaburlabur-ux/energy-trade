@@ -4,8 +4,8 @@ Signed file: `DVN.research.02.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $48.81 (2026-11-02, ~15-min delayed) |
-| Market cap | $53.69B |
+| Current price | $48.80 (2026-11-02, ~15-min delayed) |
+| Market cap | $53.68B |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
 | Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated. |
@@ -15,8 +15,8 @@ Signed file: `DVN.research.02.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +56.37%; price +7.07% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -6.40% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +56.34%; price +7.05% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -6.42% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 17.46%, revenue growth 64.20%. |
 | Value attractiveness | Reasonable | Forward P/E 9.02, EV/Sales 3.64. |
 | Risk level | Elevated | Beta 0.48, ATR 3.1% of price, short float 2.52%. |
@@ -35,11 +35,11 @@ Devon Energy Corporation, an independent energy company, engages in the explorat
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $48.81; 52w high $52.15 (-6.40%); 52w low $31.54 (+54.77%) |
-| Trend | +7.07% vs SMA200, +0.00% vs SMA50, -2.39% vs SMA20 |
-| Momentum | RSI(14) 46.0 (neutral) |
+| Price vs 52-week range | Close $48.80; 52w high $52.15 (-6.42%); 52w low $31.54 (+54.74%) |
+| Trend | +7.05% vs SMA200, -0.02% vs SMA50, -2.41% vs SMA20 |
+| Momentum | RSI(14) 45.9 (neutral) |
 | Volatility | ATR(14) 1.53 (~3.1% of price); beta 0.48 |
-| Setup perspective | -6.40% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -6.42% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
@@ -49,7 +49,7 @@ Devon Energy Corporation, an independent energy company, engages in the explorat
 | Month | +2.4% |
 | Quarter | +11.5% |
 | Half Y | -3.5% |
-| 1Y | +56.4% |
+| 1Y | +56.3% |
 | YTD | +31.3% |
 
 ## 4. Fundamental Analysis
@@ -102,14 +102,14 @@ Devon Energy Corporation, an independent energy company, engages in the explorat
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $48.81 | EV/Sales | 3.64 |
-| Market cap | $53.69B | EV/EBITDA | 7.65 |
+| Price | $48.80 | EV/Sales | 3.64 |
+| Market cap | $53.68B | EV/EBITDA | 7.65 |
 | Beta | 0.48 | Gross margin | 50.35% |
-| RSI(14) | 46.0 | Operating margin | 41.08% |
+| RSI(14) | 45.9 | Operating margin | 41.08% |
 | ATR(14) | 1.53 | Profit margin | 17.46% |
-| SMA20 dist | -2.39% | ROA | 5.91% |
-| SMA50 dist | +0.00% | ROE | 11.52% |
-| SMA200 dist | +7.07% | Revenue (ttm) | $18.78B |
+| SMA20 dist | -2.41% | ROA | 5.91% |
+| SMA50 dist | -0.02% | ROE | 11.52% |
+| SMA200 dist | +7.05% | Revenue (ttm) | $18.78B |
 | 52W high | $52.15 | Revenue growth y/y | 64.20% |
 | 52W low | $31.54 | Inst. ownership | 95.65% |
 | P/E (ttm) | 10.63 | Insider ownership | 0.77% |

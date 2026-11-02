@@ -4,8 +4,8 @@ Signed file: `OXY.research.02.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $60.85 (2026-11-02, ~15-min delayed) |
-| Market cap | $60.83B |
+| Current price | $60.81 (2026-11-02, ~15-min delayed) |
+| Market cap | $60.79B |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
 | Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate. |
@@ -15,8 +15,8 @@ Signed file: `OXY.research.02.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +52.50%; price +9.08% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -7.28% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +52.40%; price +9.01% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -7.34% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 30.32%, revenue growth 53.40%. |
 | Value attractiveness | Reasonable | Forward P/E 12.13, EV/Sales 3.48. |
 | Risk level | Moderate | Beta 0.15, ATR 2.7% of price, short float 0.02%. |
@@ -35,22 +35,22 @@ Occidental Petroleum Corporation, together with its subsidiaries, engages in the
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $60.85; 52w high $65.63 (-7.28%); 52w low $38.38 (+58.55%) |
-| Trend | +9.08% vs SMA200, +1.25% vs SMA50, -1.59% vs SMA20 |
-| Momentum | RSI(14) 47.8 (neutral) |
+| Price vs 52-week range | Close $60.81; 52w high $65.63 (-7.34%); 52w low $38.38 (+58.45%) |
+| Trend | +9.01% vs SMA200, +1.18% vs SMA50, -1.65% vs SMA20 |
+| Momentum | RSI(14) 47.7 (neutral) |
 | Volatility | ATR(14) 1.65 (~2.7% of price); beta 0.15 |
-| Setup perspective | -7.28% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -7.34% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -5.0% |
-| Month | +4.8% |
-| Quarter | +11.0% |
-| Half Y | +1.9% |
-| 1Y | +52.5% |
-| YTD | +45.6% |
+| Week | -5.1% |
+| Month | +4.7% |
+| Quarter | +10.9% |
+| Half Y | +1.8% |
+| 1Y | +52.4% |
+| YTD | +45.5% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -59,7 +59,7 @@ Occidental Petroleum Corporation, together with its subsidiaries, engages in the
 | Revenue (ttm) | $23.93B | Revenue growth 53.40% y/y |
 | Profitability | Gross 73.32%, operating 45.44%, net 30.32% | ROA 4.68%, ROE 10.63% |
 | Balance sheet | Cash $4.15B, debt $14.63B | Current ratio 1.41, debt/equity 34.51 |
-| Valuation | P/E 17.29, forward P/E 12.13, P/S 2.54, P/B 1.82 | EV/Sales 3.48, EV/EBITDA 6.08 |
+| Valuation | P/E 17.28, forward P/E 12.13, P/S 2.54, P/B 1.82 | EV/Sales 3.48, EV/EBITDA 6.08 |
 | Growth expectations | Earnings growth 964.90%, EPS q/q 550.00% | Analyst mean target $70.74 (27 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -101,17 +101,17 @@ Occidental Petroleum Corporation, together with its subsidiaries, engages in the
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $60.85 | EV/Sales | 3.48 |
-| Market cap | $60.83B | EV/EBITDA | 6.08 |
+| Price | $60.81 | EV/Sales | 3.48 |
+| Market cap | $60.79B | EV/EBITDA | 6.08 |
 | Beta | 0.15 | Gross margin | 73.32% |
-| RSI(14) | 47.8 | Operating margin | 45.44% |
+| RSI(14) | 47.7 | Operating margin | 45.44% |
 | ATR(14) | 1.65 | Profit margin | 30.32% |
-| SMA20 dist | -1.59% | ROA | 4.68% |
-| SMA50 dist | +1.25% | ROE | 10.63% |
-| SMA200 dist | +9.08% | Revenue (ttm) | $23.93B |
+| SMA20 dist | -1.65% | ROA | 4.68% |
+| SMA50 dist | +1.18% | ROE | 10.63% |
+| SMA200 dist | +9.01% | Revenue (ttm) | $23.93B |
 | 52W high | $65.63 | Revenue growth y/y | 53.40% |
 | 52W low | $38.38 | Inst. ownership | 58.29% |
-| P/E (ttm) | 17.29 | Insider ownership | 26.81% |
+| P/E (ttm) | 17.28 | Insider ownership | 26.81% |
 | Forward P/E | 12.13 | Short float | 0.02% |
 | PEG (trailing) | 0.96 | Avg volume | 8,495,681 |
 | P/S | 2.54 | Employees | 10,412 |

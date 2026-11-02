@@ -4,7 +4,7 @@ Signed file: `SO.research.02.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $94.48 (2026-11-02, ~15-min delayed) |
+| Current price | $94.49 (2026-11-02, ~15-min delayed) |
 | Market cap | $108.69B |
 | Sector / Industry | Utilities / Utilities - Regulated Electric |
 | Main theme | Utilities - Regulated Electric — see catalysts below |
@@ -15,8 +15,8 @@ Signed file: `SO.research.02.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +2.66%; price +3.24% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -3.09% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +2.67%; price +3.24% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -3.08% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 15.43%, revenue growth 0.10%. |
 | Value attractiveness | Reasonable | Forward P/E 19.21, EV/Sales 6.12. |
 | Risk level | Moderate | Beta 0.29, ATR 1.6% of price, short float 2.56%. |
@@ -35,11 +35,11 @@ The Southern Company, through its subsidiaries, engages in the sale of electrici
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $94.48; 52w high $97.49 (-3.09%); 52w low $82.06 (+15.13%) |
-| Trend | +3.24% vs SMA200, +7.49% vs SMA50, +4.80% vs SMA20 |
+| Price vs 52-week range | Close $94.49; 52w high $97.49 (-3.08%); 52w low $82.06 (+15.14%) |
+| Trend | +3.24% vs SMA200, +7.50% vs SMA50, +4.80% vs SMA20 |
 | Momentum | RSI(14) 68.7 (neutral) |
 | Volatility | ATR(14) 1.54 (~1.6% of price); beta 0.29 |
-| Setup perspective | -3.09% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -3.08% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
@@ -101,13 +101,13 @@ The Southern Company, through its subsidiaries, engages in the sale of electrici
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $94.48 | EV/Sales | 6.12 |
+| Price | $94.49 | EV/Sales | 6.12 |
 | Market cap | $108.69B | EV/EBITDA | 12.95 |
 | Beta | 0.29 | Gross margin | 48.29% |
 | RSI(14) | 68.7 | Operating margin | 29.61% |
 | ATR(14) | 1.54 | Profit margin | 15.43% |
 | SMA20 dist | +4.80% | ROA | 3.27% |
-| SMA50 dist | +7.49% | ROE | 11.48% |
+| SMA50 dist | +7.50% | ROE | 11.48% |
 | SMA200 dist | +3.24% | Revenue (ttm) | $30.18B |
 | 52W high | $97.49 | Revenue growth y/y | 0.10% |
 | 52W low | $82.06 | Inst. ownership | 74.33% |
