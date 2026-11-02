@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-02T15:08:53+00:00",
+  "as_of": "2026-11-02T15:24:00+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,13 +9,29 @@
  "hot_tickers": [
   {
    "rank": 1,
+   "ticker": "NXT",
+   "company": "Nextpower Inc.",
+   "move_pct": 14.49,
+   "price": 90.82,
+   "volume": 919648,
+   "volume_vs_avg": "~0.4x",
+   "heat_score": 78,
+   "direction": "up",
+   "why": "Here is What to Know Beyond Why Nextpower Inc. (NXT) is a Trending Stock",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPLVlERE43Y21FQkpEZFJhaFh4Y1UyLW44TkNCR3RqQjhwYTlzNzUtX0Z6QmlySnJVMVhhZ1phTlNaOXFQTjdhRklGcnVPSkdwR29uMjY0T0Fnb1pVWU50NkJwMmpISmRkYWdOaGVGQ0NYcElzSmYwME9IVFViRDFfZ2ViUGV0cURrSFQ5VG5pYWYzZFJMaWdEOHNn?oc=5",
+   "published": "2026-11-02T13:00:03+00:00",
+   "sector": "Renewables & Solar"
+  },
+  {
+   "rank": 2,
    "ticker": "ENPH",
    "company": "Enphase Energy, Inc.",
-   "move_pct": 8.67,
-   "price": 27.88,
-   "volume": 1295280,
-   "volume_vs_avg": "~0.2x",
-   "heat_score": 56,
+   "move_pct": 10.86,
+   "price": 28.43,
+   "volume": 2230067,
+   "volume_vs_avg": "~0.4x",
+   "heat_score": 65,
    "direction": "up",
    "why": "Enphase Energy, Inc. (ENPH) Is a Trending Stock: Facts to Know Before Betting on It",
    "catalyst_type": "momentum_narrative",
@@ -24,20 +40,20 @@
    "sector": "Renewables & Solar"
   },
   {
-   "rank": 2,
-   "ticker": "FLNC",
-   "company": "Fluence Energy, Inc.",
-   "move_pct": -5.44,
-   "price": 5.41,
-   "volume": 3523910,
-   "volume_vs_avg": "~0.6x",
-   "heat_score": 37,
-   "direction": "down",
-   "why": "BMO reiterates Fluence Energy stock rating amid leadership changes",
+   "rank": 3,
+   "ticker": "FSLR",
+   "company": "First Solar, Inc.",
+   "move_pct": 5.59,
+   "price": 184.15,
+   "volume": 816959,
+   "volume_vs_avg": "~0.4x",
+   "heat_score": 36,
+   "direction": "up",
+   "why": "Robert W. Baird Has Lowered Expectations for First Solar (NASDAQ:FSLR) Stock Price",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZXRZakZjSUcwUzZLWVYwcmd5LUpUNWV6cm5XSEo1Zk1nb0p1dVQxOFNha05PQm94QWt5ekcxTzRTVloxd2UxMVkwVjlpVzRzVE5hRGZKMmdTTktpYUJzdFNmdXhxaVlFRmkwajNWallyc2JISTliSTE2LUU5V1FzYXFTRUM5LVV5bkUtOEJXYzA0UGxwcEpmdTJkak1scGtHbEdPQWJkLThHWThiSUpUejdSXzFBT1ZHdnROM0ZZNjNmcFla?oc=5",
-   "published": "2026-11-02T14:44:04+00:00",
-   "sector": "Grid, Storage & Electrification"
+   "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWWNOUjNaQkJnMkptVHJsckxmUkw2ODBuSk9SN3N1bm1pOEZpMXdIV1A5OGcwMmx1ZFZwUm9jQVRxN3luZWFXTjFpczlqVTJ2TE05Qm5DOGpQYnNpeDFlNGE5NUIxV1BUYTRJOUhIRi1iNXQ1eU15YWV3RkN1SXJsdEVqVENyNk5TNDI5Uy02LVdITlRDQ0I1Wi10WHpwaTUtVmZtRUVyQl8wNVFkelBoVnhGdVpHUXpNYWlnSVhaM0hmd3ZmNFlNMWFUbGJ1czhNOWxUN3dIUGI?oc=5",
+   "published": "2026-11-02T13:41:24+00:00",
+   "sector": "Renewables & Solar"
   }
  ]
 }
