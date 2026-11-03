@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-03T02:49:39+00:00",
-  "as_of_local": "2026-11-03 02:49:39 UTC",
+  "as_of_utc": "2026-11-03T02:55:05+00:00",
+  "as_of_local": "2026-11-03 02:55:05 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "FTI"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -371,15 +373,6 @@
       "previous_close": 36.17,
       "change_pct": -4.31,
       "market_cap": 28626843201.457855,
-      "headlines": []
-    },
-    {
-      "symbol": "FTI",
-      "name": "TechnipFMC",
-      "price": 66.87,
-      "previous_close": 68.77,
-      "change_pct": -2.76,
-      "market_cap": 26001286914.98268,
       "headlines": []
     },
     {
@@ -823,8 +816,8 @@
     },
     {
       "label": "WTI",
-      "price": 96.78,
-      "change_pct": -7.05
+      "price": 96.81,
+      "change_pct": -7.02
     },
     {
       "label": "Brent",
@@ -834,7 +827,7 @@
     {
       "label": "NatGas",
       "price": 2.88,
-      "change_pct": -0.59
+      "change_pct": -0.52
     }
   ]
 }
