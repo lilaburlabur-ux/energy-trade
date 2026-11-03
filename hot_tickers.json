@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-03T11:28:11+00:00",
+  "as_of": "2026-11-03T11:43:15+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,16 +11,16 @@
    "rank": 1,
    "ticker": "BE",
    "company": "Bloom Energy Corporation",
-   "move_pct": 6.75,
-   "price": 209.5,
+   "move_pct": 6.29,
+   "price": 208.59,
    "volume": 15414000,
    "volume_vs_avg": "~1.0x",
-   "heat_score": 44,
+   "heat_score": 42,
    "direction": "up",
-   "why": "Bloom Energy stock gains on carbon capture partnership with California Resources",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxObVBCUHV2THVHd2NoUVM2TkhuV1d0aTZ3T0dKWHU5bVI1d1Y3QXlZXzkwSVJ3NEViYm1YeVZuR212eXhHc0s4RGVJT05qMVRRQm9pVEpxbzA5YWhhMm0tQzEtbmk5ZWhxZDdHcFVMck5ieWltNHpISnlDbUQ0VFpyQmdqdVRSXzBEVVFwUnZ3cml4NXBkb2lXOFl6SjlMZXdFYWZaWC10bHRtb1lmckl4UHp3WXU2bDZMall6cjdMZ2J6M05PNVJwM19nenVrbTVUeDQwNDNFdFk?oc=5",
-   "published": "2026-11-03T09:52:00+00:00",
+   "why": "California Resources Stock Earnings Beat Meets Bloom Energy Partnership",
+   "catalyst_type": "earnings",
+   "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaFFsaXJIUHREamc2eDJPVmhFTzJKajE0OWxSVkVtaHF5ejdhcFFHZktMZUdmc1ZuczctcnBmSFBJVHk0TmVEaUVqRDhwdG5BWUlRbzhEaE9UREVzWUdRQzJvdzRlU2QwYS1jc3Ftc2ZBN1lmcFlfRFg5TlUySmNvMElNclNoOWptSkZSTXlac0VFM0dNS25EcExhcjFfTERHV2oySlNmTFc?oc=5",
+   "published": "2026-11-03T09:12:11+00:00",
    "sector": "Grid, Storage & Electrification"
   }
  ]
