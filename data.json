@@ -1,9 +1,10 @@
 {
-  "as_of_utc": "2026-11-03T22:01:04+00:00",
-  "as_of_local": "2026-11-03 22:01:04 UTC",
+  "as_of_utc": "2026-11-03T22:05:50+00:00",
+  "as_of_local": "2026-11-03 22:05:50 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "EQNR"
+    "KMI",
+    "UUUU"
   ],
   "stocks": [
     {
@@ -315,6 +316,34 @@
       ]
     },
     {
+      "symbol": "EQNR",
+      "name": "Equinor",
+      "price": 45.63,
+      "previous_close": 45.4,
+      "change_pct": 0.51,
+      "market_cap": 108013204093.88242,
+      "headlines": [
+        {
+          "title": "Equinor's Afrodite Gas Discovery: A New Growth Catalyst for EQNR?",
+          "url": "https://finance.yahoo.com/energy/articles/equinors-afrodite-gas-discovery-growth-132200350.html",
+          "publisher": "Zacks",
+          "published": "2026-11-03T13:22:00Z"
+        },
+        {
+          "title": "Lower Oil Prices Take Energy Stocks Down With Them",
+          "url": "https://www.barrons.com/articles/oil-prices-energy-stocks-falling-43c25ae8?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-11-02T21:04:00Z"
+        },
+        {
+          "title": "European Equities Traded in the US as American Depositary Receipts Rise in Monday Trading",
+          "url": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-american-161634036.html",
+          "publisher": "MT Newswires",
+          "published": "2026-11-02T16:16:34Z"
+        }
+      ]
+    },
+    {
       "symbol": "SO",
       "name": "Southern Company",
       "price": 93.75,
@@ -619,34 +648,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-slb-slb-110322013.html",
           "publisher": "GuruFocus.com",
           "published": "2026-11-03T11:03:22Z"
-        }
-      ]
-    },
-    {
-      "symbol": "KMI",
-      "name": "Kinder Morgan",
-      "price": 32.87,
-      "previous_close": 32.71,
-      "change_pct": 0.49,
-      "market_cap": 73224997197.77342,
-      "headlines": [
-        {
-          "title": "CLB Q3 Earnings Miss Estimates on Higher Costs and Disruptions",
-          "url": "https://finance.yahoo.com/energy/articles/clb-q3-earnings-miss-estimates-155400926.html",
-          "publisher": "Zacks",
-          "published": "2026-11-03T15:54:00Z"
-        },
-        {
-          "title": "3 Oil And Gas Stocks With Cash Flow Tied To Higher Energy Prices",
-          "url": "https://finance.yahoo.com/energy/articles/3-oil-gas-stocks-cash-081013039.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-03T08:10:13Z"
-        },
-        {
-          "title": "Better Dividend Stock: Kinder Morgan vs. ONEOK",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/better-dividend-stock-kinder-morgan-180423365.html",
-          "publisher": "TIKR",
-          "published": "2026-11-02T18:04:23Z"
         }
       ]
     },
@@ -1771,34 +1772,6 @@
       ]
     },
     {
-      "symbol": "UUUU",
-      "name": "Energy Fuels",
-      "price": 7.24,
-      "previous_close": 7.39,
-      "change_pct": -2.03,
-      "market_cap": 1917354210.5056953,
-      "headlines": [
-        {
-          "title": "Should You Buy, Sell or Hold MP Stock Before Q3 Earnings Release?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/buy-sell-hold-mp-stock-141300402.html",
-          "publisher": "Zacks",
-          "published": "2026-11-03T14:13:00Z"
-        },
-        {
-          "title": "3 Canadian Growth Stocks To Watch In November 2026",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-canadian-growth-stocks-watch-001729369.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-03T00:17:29Z"
-        },
-        {
-          "title": "What Is Behind The Move In Cameco Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/behind-move-cameco-stock-012341659.html",
-          "publisher": "Trefis",
-          "published": "2026-11-02T01:23:41Z"
-        }
-      ]
-    },
-    {
       "symbol": "FLNC",
       "name": "Fluence Energy",
       "price": 5.5,
@@ -1976,8 +1949,8 @@
           "name": "Kinder Morgan Inc Class P",
           "short": "Kinder",
           "weight_pct": 3.15,
-          "change_pct": 0.49,
-          "price": 32.87,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         }
       ]
@@ -2075,8 +2048,8 @@
         "name": "Kinder Morgan Inc Class P",
         "short": "Kinder",
         "weight_pct": 3.15,
-        "change_pct": 0.49,
-        "price": 32.87,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       }
     ]
@@ -2089,13 +2062,13 @@
     },
     {
       "label": "WTI",
-      "price": 96.84,
-      "change_pct": 0.39
+      "price": 96.79,
+      "change_pct": 0.34
     },
     {
       "label": "Brent",
-      "price": 104.46,
-      "change_pct": -0.3
+      "price": 104.4,
+      "change_pct": -0.35
     },
     {
       "label": "NatGas",
