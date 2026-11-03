@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-03T12:38:16+00:00",
-  "as_of_local": "2026-11-03 12:38:16 UTC",
+  "as_of_utc": "2026-11-03T12:39:49+00:00",
+  "as_of_local": "2026-11-03 12:39:49 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "EOG"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -75,7 +73,16 @@
       "price": 366.07,
       "previous_close": 369.97,
       "change_pct": -1.05,
-      "market_cap": 142181590844.72656,
+      "market_cap": 142144983843.99414,
+      "headlines": []
+    },
+    {
+      "symbol": "MPC",
+      "name": "Marathon Petroleum",
+      "price": 430.39,
+      "previous_close": 444.73,
+      "change_pct": -3.22,
+      "market_cap": 125646612614.06555,
       "headlines": []
     },
     {
@@ -85,15 +92,6 @@
       "previous_close": 50.39,
       "change_pct": -4.98,
       "market_cap": 123319322238.86848,
-      "headlines": []
-    },
-    {
-      "symbol": "MPC",
-      "name": "Marathon Petroleum",
-      "price": 430.39,
-      "previous_close": 444.73,
-      "change_pct": -3.22,
-      "market_cap": 120864173861.21399,
       "headlines": []
     },
     {
@@ -184,6 +182,15 @@
       "previous_close": 232.5,
       "change_pct": -3.55,
       "market_cap": 86345950920.24007,
+      "headlines": []
+    },
+    {
+      "symbol": "EOG",
+      "name": "EOG Resources",
+      "price": 157.89,
+      "previous_close": 165.54,
+      "change_pct": -4.62,
+      "market_cap": 84096718276.60934,
       "headlines": []
     },
     {
@@ -336,7 +343,7 @@
       "price": 74.38,
       "previous_close": 74.29,
       "change_pct": 0.12,
-      "market_cap": 37072480462.4485,
+      "market_cap": 37065144512.07939,
       "headlines": []
     },
     {
@@ -480,7 +487,7 @@
       "price": 30.05,
       "previous_close": 28.65,
       "change_pct": 4.89,
-      "market_cap": 9018354132.333,
+      "market_cap": 9113442516.868801,
       "headlines": []
     },
     {
@@ -816,18 +823,18 @@
     },
     {
       "label": "WTI",
-      "price": 97.19,
-      "change_pct": 0.76
+      "price": 96.92,
+      "change_pct": 0.48
     },
     {
       "label": "Brent",
-      "price": 105.08,
-      "change_pct": 0.3
+      "price": 104.72,
+      "change_pct": -0.05
     },
     {
       "label": "NatGas",
-      "price": 2.88,
-      "change_pct": 1.02
+      "price": 2.89,
+      "change_pct": 1.12
     }
   ]
 }
