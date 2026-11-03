@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-03T23:36:24+00:00",
+  "as_of": "2026-11-03T23:51:33+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -27,11 +27,11 @@
    "rank": 2,
    "ticker": "BE",
    "company": "Bloom Energy Corporation",
-   "move_pct": 13.11,
-   "price": 221.97,
+   "move_pct": 12.25,
+   "price": 220.29,
    "volume": 13964496,
    "volume_vs_avg": "~0.9x",
-   "heat_score": 76,
+   "heat_score": 73,
    "direction": "up",
    "why": "Bloom Energy (BE) Shares Surge on Barclays Upgrade and Strategic Collaboration Announcement",
    "catalyst_type": "analyst_action",
@@ -43,11 +43,11 @@
    "rank": 3,
    "ticker": "ETN",
    "company": "Eaton Corporation, PLC",
-   "move_pct": 7.91,
-   "price": 395.01,
+   "move_pct": 8.45,
+   "price": 397.0,
    "volume": 3305528,
    "volume_vs_avg": "~1.4x",
-   "heat_score": 50,
+   "heat_score": 62,
    "direction": "up",
    "why": "Eaton Corp. PLC stock outperforms competitors on strong trading day",
    "catalyst_type": "momentum_narrative",
@@ -57,10 +57,26 @@
   },
   {
    "rank": 4,
+   "ticker": "GEV",
+   "company": "GE Vernova Inc.",
+   "move_pct": 7.63,
+   "price": 928.0,
+   "volume": 3106323,
+   "volume_vs_avg": "~1.2x",
+   "heat_score": 47,
+   "direction": "up",
+   "why": "GE Vernova Inc. stock rises Tuesday, outperforms market",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZ1cxaWxyZnBtOWlvSXhIbnJfNWotc1dRZlhMdy1PbFN6YmNuUjRiN1NUbHY4VTE1cjIzTjE2Nm5KaHRkd2ljX1pHTlZFWnMxYWgxdk9ZWnZFS2RoNHdLZXBlRmdmc2RCWjVpQjNuME5ZTWMwWmpIV2pNOGh6aDkzb255SWhjdGxUemRyZWZ0UGZod3NCSzlqLThNMktDX093QzdwUXpjampKYkdVYlBRSjZfRXNWVEJ3US1TZmRqaWpBcV9JTmxJNkdmVQ?oc=5",
+   "published": "2026-11-03T21:34:00+00:00",
+   "sector": "Grid, Storage & Electrification"
+  },
+  {
+   "rank": 5,
    "ticker": "NXT",
    "company": "Nextpower Inc.",
-   "move_pct": 5.41,
-   "price": 96.06,
+   "move_pct": 5.46,
+   "price": 96.11,
    "volume": 4090103,
    "volume_vs_avg": "~2x",
    "heat_score": 43,
@@ -70,22 +86,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYVNidEFFRUZ1Nm9uckFYMzdMb3dwUElFV3l0bXA2dEtiTjVQanR6dUV1VkwxV1lCWW1lVWo1Vkpic1JmNkx4M2ZuT0NDcTlWY3hpTXRkV29oLVRsUkUwRGlheFV6OEFQZzgzR2NRODhiX1JsejR2dE5ZRXB4SGJmNE94cjZ2Z21xNWhJYnNua1VyMWFnQmowYjE1UDR2UUxPX1JodDdfOVhXNlRKUHFKSkp3?oc=5",
    "published": "2026-11-03T22:54:40+00:00",
    "sector": "Renewables & Solar"
-  },
-  {
-   "rank": 5,
-   "ticker": "GEV",
-   "company": "GE Vernova Inc.",
-   "move_pct": 6.49,
-   "price": 918.2,
-   "volume": 3106323,
-   "volume_vs_avg": "~1.2x",
-   "heat_score": 43,
-   "direction": "up",
-   "why": "GE Vernova Inc. stock rises Tuesday, outperforms market",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZ1cxaWxyZnBtOWlvSXhIbnJfNWotc1dRZlhMdy1PbFN6YmNuUjRiN1NUbHY4VTE1cjIzTjE2Nm5KaHRkd2ljX1pHTlZFWnMxYWgxdk9ZWnZFS2RoNHdLZXBlRmdmc2RCWjVpQjNuME5ZTWMwWmpIV2pNOGh6aDkzb255SWhjdGxUemRyZWZ0UGZod3NCSzlqLThNMktDX093QzdwUXpjampKYkdVYlBRSjZfRXNWVEJ3US1TZmRqaWpBcV9JTmxJNkdmVQ?oc=5",
-   "published": "2026-11-03T21:34:00+00:00",
-   "sector": "Grid, Storage & Electrification"
   },
   {
    "rank": 6,
@@ -102,6 +102,22 @@
    "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaktLRFlKZ0xNNkFXQVBmN1JILWNfblFzU0NhbVRVeVNEUkZZSURVWlBoSGNfdElWcm94eGZOS2cyXzl2Mkd2cVloUEZ6YkpwazMxXzhlNEpHQmt4REZlVjVXMzJfOHdTZjAzd1FJR01taEp1a3Vkd1lGVEpvUkNZZ3dBVXNhVE9WbVNJRlJoZW9fS00?oc=5",
    "published": "2026-11-03T20:33:23+00:00",
    "sector": "Grid, Storage & Electrification"
+  },
+  {
+   "rank": 7,
+   "ticker": "VST",
+   "company": "Vistra Corp.",
+   "move_pct": 5.02,
+   "price": 141.37,
+   "volume": 5863721,
+   "volume_vs_avg": "~0.9x",
+   "heat_score": 37,
+   "direction": "up",
+   "why": "Vistra (NYSE:VST) Shares Up 3.8% - Here's What Happened",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSmFxOWY3YzBaZzNpZnAwYm9GQnNYVjFpYmlHdWJ1dV9DWlZsd0E3MVJyMUIxTWlwRFAxTEV3QVdRbnpVcTNLeTRiYUlmcmp2eFNTYVBJc1YzTkRqUkhBYVM3UVJIbldXc0VmS0R4R1pvWVNJb1d5MXloblhJb09Ia0hla0g0S0VoM2dtYTFfbVp1T0dsZFd4TG9lSFhkc0tVajVIVlBNRmNyLVBH?oc=5",
+   "published": "2026-11-03T22:47:12+00:00",
+   "sector": "Power & IPPs"
   }
  ]
 }
