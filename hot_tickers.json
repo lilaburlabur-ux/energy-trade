@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-03T23:16:01+00:00",
+  "as_of": "2026-11-03T23:31:17+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -27,8 +27,8 @@
    "rank": 2,
    "ticker": "BE",
    "company": "Bloom Energy Corporation",
-   "move_pct": 13.63,
-   "price": 223.0,
+   "move_pct": 13.48,
+   "price": 222.7,
    "volume": 13964496,
    "volume_vs_avg": "~0.9x",
    "heat_score": 77,
@@ -41,29 +41,13 @@
   },
   {
    "rank": 3,
-   "ticker": "TLN",
-   "company": "Talen Energy Corporation",
-   "move_pct": 7.29,
-   "price": 357.28,
-   "volume": 2182937,
-   "volume_vs_avg": "~2x",
-   "heat_score": 51,
-   "direction": "up",
-   "why": "Talen Energy (TLN) Projects Strong 2027-28 Cash Flow Amid Mixed Valuation Signals",
-   "catalyst_type": "contract_win",
-   "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTG83WGFsZGZMQzlCY1NUT1VuTHk2NjhuMnEzSTc2S2RkbW1ZNmFjMWdvM2ZZTGJzckhOWmd5cU1VVXdUc2RsNWtKdktUVkczZmJmY2hWU2NZemxzV1pISmd3WGlXTmFob3ZRQkRKOGZKZ1Q2TnZYT1F5YlBIaHREUVdtMjdVNlJma1NpTmFibFgxQTBrTE44NkQtbnJUdW1iTEd4Q3NXeHIzcjhBbERHbmRyQkJLdm9X?oc=5",
-   "published": "2026-11-03T19:22:13+00:00",
-   "sector": "Power & IPPs"
-  },
-  {
-   "rank": 4,
    "ticker": "ETN",
    "company": "Eaton Corporation, PLC",
-   "move_pct": 7.65,
-   "price": 394.07,
+   "move_pct": 7.91,
+   "price": 395.01,
    "volume": 3305528,
    "volume_vs_avg": "~1.4x",
-   "heat_score": 49,
+   "heat_score": 50,
    "direction": "up",
    "why": "Eaton Corp. PLC stock outperforms competitors on strong trading day",
    "catalyst_type": "momentum_narrative",
@@ -72,7 +56,7 @@
    "sector": "Grid, Storage & Electrification"
   },
   {
-   "rank": 5,
+   "rank": 4,
    "ticker": "GEV",
    "company": "GE Vernova Inc.",
    "move_pct": 7.47,
@@ -88,7 +72,7 @@
    "sector": "Grid, Storage & Electrification"
   },
   {
-   "rank": 6,
+   "rank": 5,
    "ticker": "NXT",
    "company": "Nextpower Inc.",
    "move_pct": 5.41,
@@ -104,14 +88,14 @@
    "sector": "Renewables & Solar"
   },
   {
-   "rank": 7,
+   "rank": 6,
    "ticker": "FLNC",
    "company": "Fluence Energy, Inc.",
-   "move_pct": 6.53,
-   "price": 5.55,
+   "move_pct": 6.72,
+   "price": 5.56,
    "volume": 5696500,
    "volume_vs_avg": "~0.9x",
-   "heat_score": 42,
+   "heat_score": 43,
    "direction": "up",
    "why": "Fluence Energy names interim CEO, CFO amid supply chain hiccups",
    "catalyst_type": "momentum_narrative",
@@ -120,14 +104,14 @@
    "sector": "Grid, Storage & Electrification"
   },
   {
-   "rank": 8,
+   "rank": 7,
    "ticker": "VST",
    "company": "Vistra Corp.",
-   "move_pct": 5.27,
-   "price": 141.7,
+   "move_pct": 5.06,
+   "price": 141.41,
    "volume": 5863721,
    "volume_vs_avg": "~0.9x",
-   "heat_score": 38,
+   "heat_score": 37,
    "direction": "up",
    "why": "Vistra (NYSE:VST) Shares Up 3.8% - Here's What Happened",
    "catalyst_type": "momentum_narrative",
