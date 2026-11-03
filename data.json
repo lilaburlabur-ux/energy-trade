@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-03T23:16:49+00:00",
-  "as_of_local": "2026-11-03 23:16:49 UTC",
+  "as_of_utc": "2026-11-03T23:21:48+00:00",
+  "as_of_local": "2026-11-03 23:21:48 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -1187,7 +1187,26 @@
       "previous_close": 433.74,
       "change_pct": 3.58,
       "market_cap": 23737195593.98697,
-      "headlines": []
+      "headlines": [
+        {
+          "title": "What Is Behind The Move In nVent Stock?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/behind-move-nvent-stock-012326132.html",
+          "publisher": "Trefis",
+          "published": "2026-11-02T01:23:26Z"
+        },
+        {
+          "title": "HUBB Q3 deep dive: Data center strength offsets utility softness, capacity investments shape outlook",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/hubb-q3-deep-dive-data-060329076.html",
+          "publisher": "StockStory",
+          "published": "2026-10-31T06:03:29Z"
+        },
+        {
+          "title": "Buy These 4 Stocks That Declared Dividend Hikes Amid Market Volatility",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/buy-4-stocks-declared-dividend-113900102.html",
+          "publisher": "Zacks",
+          "published": "2026-10-30T11:39:00Z"
+        }
+      ]
     },
     {
       "symbol": "NRG",
@@ -2107,7 +2126,7 @@
     {
       "label": "NatGas",
       "price": 2.9,
-      "change_pct": 1.51
+      "change_pct": 1.47
     }
   ]
 }
