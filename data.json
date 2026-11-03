@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-03T21:57:06+00:00",
-  "as_of_local": "2026-11-03 21:57:06 UTC",
+  "as_of_utc": "2026-11-03T22:01:04+00:00",
+  "as_of_local": "2026-11-03 22:01:04 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "PWR"
+    "EQNR"
   ],
   "stocks": [
     {
@@ -315,34 +315,6 @@
       ]
     },
     {
-      "symbol": "EQNR",
-      "name": "Equinor",
-      "price": 45.63,
-      "previous_close": 45.4,
-      "change_pct": 0.51,
-      "market_cap": 108013204093.88242,
-      "headlines": [
-        {
-          "title": "Equinor's Afrodite Gas Discovery: A New Growth Catalyst for EQNR?",
-          "url": "https://finance.yahoo.com/energy/articles/equinors-afrodite-gas-discovery-growth-132200350.html",
-          "publisher": "Zacks",
-          "published": "2026-11-03T13:22:00Z"
-        },
-        {
-          "title": "Lower Oil Prices Take Energy Stocks Down With Them",
-          "url": "https://www.barrons.com/articles/oil-prices-energy-stocks-falling-43c25ae8?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-11-02T21:04:00Z"
-        },
-        {
-          "title": "European Equities Traded in the US as American Depositary Receipts Rise in Monday Trading",
-          "url": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-american-161634036.html",
-          "publisher": "MT Newswires",
-          "published": "2026-11-02T16:16:34Z"
-        }
-      ]
-    },
-    {
       "symbol": "SO",
       "name": "Southern Company",
       "price": 93.75,
@@ -395,6 +367,34 @@
           "url": "https://www.wsj.com/business/deals/carl-icahns-cvr-energy-near-over-4-billion-deal-for-marathon-refineries-e8487579?siteid=yhoof2&yptr=yahoo",
           "publisher": "The Wall Street Journal",
           "published": "2026-11-03T14:33:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "PWR",
+      "name": "Quanta Services",
+      "price": 657.0,
+      "previous_close": 621.18,
+      "change_pct": 5.77,
+      "market_cap": 98994884265.0,
+      "headlines": [
+        {
+          "title": "3 US AI Infrastructure Stocks Facing The 5% Treasury Yield Test",
+          "url": "https://finance.yahoo.com/technology/ai/articles/3-us-ai-infrastructure-stocks-201210697.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-03T20:12:10Z"
+        },
+        {
+          "title": "Sterling's Q3 Revenue Soars 127%: Can the Growth Streak Last?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/sterlings-q3-revenue-soars-127-165800419.html",
+          "publisher": "Zacks",
+          "published": "2026-11-03T16:58:00Z"
+        },
+        {
+          "title": "Can Quanta's Record Backlog Support Its 2027 Double-Digit EPS Growth?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/quantas-record-backlog-support-2027-153500208.html",
+          "publisher": "Zacks",
+          "published": "2026-11-03T15:35:00Z"
         }
       ]
     },
@@ -2089,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 96.88,
-      "change_pct": 0.44
+      "price": 96.84,
+      "change_pct": 0.39
     },
     {
       "label": "Brent",
-      "price": 104.49,
-      "change_pct": -0.27
+      "price": 104.46,
+      "change_pct": -0.3
     },
     {
       "label": "NatGas",
       "price": 2.9,
-      "change_pct": 1.65
+      "change_pct": 1.54
     }
   ]
 }
