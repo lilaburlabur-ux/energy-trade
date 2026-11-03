@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-03T12:48:43+00:00",
-  "as_of_local": "2026-11-03 12:48:43 UTC",
+  "as_of_utc": "2026-11-03T12:53:50+00:00",
+  "as_of_local": "2026-11-03 12:53:50 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "ETR"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -317,15 +319,6 @@
       "previous_close": 55.23,
       "change_pct": -3.95,
       "market_cap": 52682812234.99126,
-      "headlines": []
-    },
-    {
-      "symbol": "ETR",
-      "name": "Entergy",
-      "price": 109.87,
-      "previous_close": 110.11,
-      "change_pct": -0.22,
-      "market_cap": 52498867096.661385,
       "headlines": []
     },
     {
@@ -823,18 +816,18 @@
     },
     {
       "label": "WTI",
-      "price": 97.19,
-      "change_pct": 0.76
+      "price": 97.29,
+      "change_pct": 0.86
     },
     {
       "label": "Brent",
-      "price": 105.1,
-      "change_pct": 0.31
+      "price": 105.08,
+      "change_pct": 0.3
     },
     {
       "label": "NatGas",
       "price": 2.9,
-      "change_pct": 1.4
+      "change_pct": 1.51
     }
   ]
 }
