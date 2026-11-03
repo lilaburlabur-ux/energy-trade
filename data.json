@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-03T03:54:29+00:00",
-  "as_of_local": "2026-11-03 03:54:29 UTC",
+  "as_of_utc": "2026-11-03T04:09:35+00:00",
+  "as_of_local": "2026-11-03 04:09:35 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "HUBB"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -382,6 +380,15 @@
       "previous_close": 68.77,
       "change_pct": -2.76,
       "market_cap": 26001286914.98268,
+      "headlines": []
+    },
+    {
+      "symbol": "HUBB",
+      "name": "Hubbell",
+      "price": 433.74,
+      "previous_close": 422.44,
+      "change_pct": 2.67,
+      "market_cap": 22916667564.93286,
       "headlines": []
     },
     {
@@ -816,18 +823,18 @@
     },
     {
       "label": "WTI",
-      "price": 96.62,
-      "change_pct": -7.2
+      "price": 96.64,
+      "change_pct": -7.18
     },
     {
       "label": "Brent",
-      "price": 104.72,
-      "change_pct": -10.98
+      "price": 104.77,
+      "change_pct": -10.94
     },
     {
       "label": "NatGas",
       "price": 2.88,
-      "change_pct": -0.45
+      "change_pct": -0.59
     }
   ]
 }
