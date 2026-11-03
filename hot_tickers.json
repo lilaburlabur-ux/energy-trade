@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-03T13:23:35+00:00",
+  "as_of": "2026-11-03T13:28:41+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,11 +11,11 @@
    "rank": 1,
    "ticker": "BE",
    "company": "Bloom Energy Corporation",
-   "move_pct": 5.73,
-   "price": 207.49,
+   "move_pct": 6.04,
+   "price": 208.11,
    "volume": 15414000,
    "volume_vs_avg": "~1.0x",
-   "heat_score": 40,
+   "heat_score": 41,
    "direction": "up",
    "why": "Buy, Sell, or Hold? Tuesday\u2019s Top Upgrades and Downgrades: AON, Bloom Energy, Chevron, Cloudflare, Marvell Technologies, Lumentum Holdings, Merck & Co., Roku, X-Energy, and More",
    "catalyst_type": "analyst_action",
