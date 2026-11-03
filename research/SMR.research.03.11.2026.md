@@ -4,8 +4,8 @@ Signed file: `SMR.research.03.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $5.28 (2026-11-03, ~15-min delayed) |
-| Market cap | $2.17B |
+| Current price | $5.37 (2026-11-03, ~15-min delayed) |
+| Market cap | $2.20B |
 | Sector / Industry | Industrials / Specialty Industrial Machinery |
 | Main theme | Specialty Industrial Machinery — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: high. |
@@ -15,11 +15,11 @@ Signed file: `SMR.research.03.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-50.64%) with negative half-year (-55.48%). |
-| Fresh setup quality | Poor / broken | -87.06% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-49.84%) with negative half-year (-54.76%). |
+| Fresh setup quality | Poor / broken | -86.85% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 0.00%, revenue growth -99.10%. |
-| Value attractiveness | Reasonable | Forward P/E -8.49, EV/Sales 101.26. |
-| Risk level | High | Beta 2.43, ATR 8.6% of price, short float 24.85%. |
+| Value attractiveness | Reasonable | Forward P/E -8.62, EV/Sales 101.26. |
+| Risk level | High | Beta 2.43, ATR 8.5% of price, short float 24.85%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: high.
 
@@ -36,30 +36,30 @@ NuScale Power Corporation provides small modular reactor technology solutions. I
 
 | Headline | Source | Date |
 |---|---|---|
+| X-energy Lost 23% in a Month. Wedbush Sees 54% Upside From Here | TIKR | 2026-11-03 |
 | Wedbush starts nuclear coverage, backs Oklo and X-Energy | Investing.com | 2026-11-03 |
 | Buy, Sell or Hold OKLO Stock? Key Tips Ahead of Q3 Earnings | Zacks | 2026-11-03 |
 | Barclays Turned Bearish on NuScale Power at a 52-Week Low. Here's the Single Missing Contract That Would Prove It Wrong. | Motley Fool | 2026-11-03 |
-| OKLO, NNE, SMR Stocks In Focus: Wedbush Picks Oklo, Nano Nuclear As AI Power Demand Fuels Bull Case, Warns On NuScale | Stocktwits | 2026-11-03 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $5.28; 52w high $40.83 (-87.06%); 52w low $5.27 (+0.28%) |
-| Trend | -50.64% vs SMA200, -31.64% vs SMA50, -11.57% vs SMA20 |
-| Momentum | RSI(14) 31.8 (neutral) |
-| Volatility | ATR(14) 0.45 (~8.6% of price); beta 2.43 |
-| Setup perspective | -87.06% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $5.37; 52w high $40.83 (-86.85%); 52w low $5.27 (+1.90%) |
+| Trend | -49.84% vs SMA200, -30.56% vs SMA50, -10.22% vs SMA20 |
+| Momentum | RSI(14) 32.9 (neutral) |
+| Volatility | ATR(14) 0.45 (~8.5% of price); beta 2.43 |
+| Setup perspective | -86.85% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -7.3% |
-| Month | -31.2% |
-| Quarter | -43.7% |
-| Half Y | -55.5% |
-| 1Y | -88.2% |
-| YTD | -67.6% |
+| Week | -5.8% |
+| Month | -30.1% |
+| Quarter | -42.8% |
+| Half Y | -54.8% |
+| 1Y | -88.0% |
+| YTD | -67.1% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ NuScale Power Corporation provides small modular reactor technology solutions. I
 | Revenue (ttm) | $10.69M | Revenue growth -99.10% y/y |
 | Profitability | Gross 23.54%, operating -85337.33%, net 0.00% | ROA -10.60%, ROE -55.18% |
 | Balance sheet | Cash $1.07B, debt $6.69M | Current ratio 37.88, debt/equity 0.33 |
-| Valuation | P/E —, forward P/E -8.49, P/S 202.89, P/B 1.05 | EV/Sales 101.26, EV/EBITDA -4.83 |
+| Valuation | P/E —, forward P/E -8.62, P/S 206.15, P/B 1.07 | EV/Sales 101.26, EV/EBITDA -4.83 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $10.38 (16 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ NuScale Power Corporation provides small modular reactor technology solutions. I
 | State Street Corporation | 6,662,750 | 1.62% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 2.43, ATR 8.6% of price, short float 24.85%. Size positions accordingly.
+- **Volatility risk:** Beta 2.43, ATR 8.5% of price, short float 24.85%. Size positions accordingly.
 - **Short interest risk:** short float 24.85% can fuel squeezes both ways around news.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
@@ -112,21 +112,21 @@ NuScale Power Corporation provides small modular reactor technology solutions. I
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $5.28 | EV/Sales | 101.26 |
-| Market cap | $2.17B | EV/EBITDA | -4.83 |
+| Price | $5.37 | EV/Sales | 101.26 |
+| Market cap | $2.20B | EV/EBITDA | -4.83 |
 | Beta | 2.43 | Gross margin | 23.54% |
-| RSI(14) | 31.8 | Operating margin | -85337.33% |
+| RSI(14) | 32.9 | Operating margin | -85337.33% |
 | ATR(14) | 0.45 | Profit margin | 0.00% |
-| SMA20 dist | -11.57% | ROA | -10.60% |
-| SMA50 dist | -31.64% | ROE | -55.18% |
-| SMA200 dist | -50.64% | Revenue (ttm) | $10.69M |
+| SMA20 dist | -10.22% | ROA | -10.60% |
+| SMA50 dist | -30.56% | ROE | -55.18% |
+| SMA200 dist | -49.84% | Revenue (ttm) | $10.69M |
 | 52W high | $40.83 | Revenue growth y/y | -99.10% |
 | 52W low | $5.27 | Inst. ownership | 60.90% |
 | P/E (ttm) | — | Insider ownership | 1.70% |
-| Forward P/E | -8.49 | Short float | 24.85% |
+| Forward P/E | -8.62 | Short float | 24.85% |
 | PEG (trailing) | — | Avg volume | 33,688,942 |
-| P/S | 202.89 | Employees | 428 |
-| P/B | 1.05 | Analyst rec (1=buy..5=sell) | 2.8 |
+| P/S | 206.15 | Employees | 428 |
+| P/B | 1.07 | Analyst rec (1=buy..5=sell) | 2.8 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

@@ -4,8 +4,8 @@ Signed file: `UUUU.research.03.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $7.20 (2026-11-03, ~15-min delayed) |
-| Market cap | $1.91B |
+| Current price | $7.29 (2026-11-03, ~15-min delayed) |
+| Market cap | $1.93B |
 | Sector / Industry | Energy / Uranium |
 | Main theme | Uranium — see catalysts below |
 | Current stance | Low technical momentum, weak fundamentals, value: reasonable, risk: high. |
@@ -15,11 +15,11 @@ Signed file: `UUUU.research.03.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-55.58%) with negative half-year (-65.76%). |
-| Fresh setup quality | Poor / broken | -74.01% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-55.06%) with negative half-year (-65.35%). |
+| Fresh setup quality | Poor / broken | -73.70% from 52w high — base needs to rebuild. |
 | Fundamental quality | Weak | Negative profit margin (-77.30%). |
-| Value attractiveness | Reasonable | Forward P/E 14.86, EV/Sales 15.06. |
-| Risk level | High | Beta 1.93, ATR 8.0% of price, short float 22.14%. |
+| Value attractiveness | Reasonable | Forward P/E 15.03, EV/Sales 15.06. |
+| Risk level | High | Beta 1.93, ATR 7.9% of price, short float 22.14%. |
 
 **Bottom line:** Low technical momentum, weak fundamentals, value: reasonable, risk: high.
 
@@ -44,22 +44,22 @@ Energy Fuels Inc., together with its subsidiaries, engages in the exploration, r
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $7.20; 52w high $27.72 (-74.01%); 52w low $7.20 (+0.00%) |
-| Trend | -55.58% vs SMA200, -34.95% vs SMA50, -14.72% vs SMA20 |
-| Momentum | RSI(14) 26.3 (oversold) |
-| Volatility | ATR(14) 0.58 (~8.0% of price); beta 1.93 |
-| Setup perspective | -74.01% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $7.29; 52w high $27.72 (-73.70%); 52w low $7.29 (+0.00%) |
+| Trend | -55.06% vs SMA200, -34.19% vs SMA50, -13.75% vs SMA20 |
+| Momentum | RSI(14) 26.8 (oversold) |
+| Volatility | ATR(14) 0.58 (~7.9% of price); beta 1.93 |
+| Setup perspective | -73.70% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -12.5% |
-| Month | -33.4% |
-| Quarter | -42.1% |
-| Half Y | -65.8% |
-| 1Y | -64.9% |
-| YTD | -56.8% |
+| Week | -11.4% |
+| Month | -32.6% |
+| Quarter | -41.4% |
+| Half Y | -65.4% |
+| 1Y | -64.5% |
+| YTD | -56.3% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Energy Fuels Inc., together with its subsidiaries, engages in the exploration, r
 | Revenue (ttm) | $105.76M | Revenue growth 496.10% y/y |
 | Profitability | Gross 40.85%, operating -79.03%, net -77.30% | ROA -4.65%, ROE -11.45% |
 | Balance sheet | Cash $936.75M, debt $678.34M | Current ratio 27.90, debt/equity 85.13 |
-| Valuation | P/E —, forward P/E 14.86, P/S 18.04, P/B 2.27 | EV/Sales 15.06, EV/EBITDA -22.23 |
+| Valuation | P/E —, forward P/E 15.03, P/S 18.25, P/B 2.30 | EV/Sales 15.06, EV/EBITDA -22.23 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $23.69 (4 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ Energy Fuels Inc., together with its subsidiaries, engages in the exploration, r
 | American Century Companies Inc | 4,226,355 | 1.60% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.93, ATR 8.0% of price, short float 22.14%. Size positions accordingly.
+- **Volatility risk:** Beta 1.93, ATR 7.9% of price, short float 22.14%. Size positions accordingly.
 - **Short interest risk:** short float 22.14% can fuel squeezes both ways around news.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
@@ -113,21 +113,21 @@ Energy Fuels Inc., together with its subsidiaries, engages in the exploration, r
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $7.20 | EV/Sales | 15.06 |
-| Market cap | $1.91B | EV/EBITDA | -22.23 |
+| Price | $7.29 | EV/Sales | 15.06 |
+| Market cap | $1.93B | EV/EBITDA | -22.23 |
 | Beta | 1.93 | Gross margin | 40.85% |
-| RSI(14) | 26.3 | Operating margin | -79.03% |
+| RSI(14) | 26.8 | Operating margin | -79.03% |
 | ATR(14) | 0.58 | Profit margin | -77.30% |
-| SMA20 dist | -14.72% | ROA | -4.65% |
-| SMA50 dist | -34.95% | ROE | -11.45% |
-| SMA200 dist | -55.58% | Revenue (ttm) | $105.76M |
+| SMA20 dist | -13.75% | ROA | -4.65% |
+| SMA50 dist | -34.19% | ROE | -11.45% |
+| SMA200 dist | -55.06% | Revenue (ttm) | $105.76M |
 | 52W high | $27.72 | Revenue growth y/y | 496.10% |
-| 52W low | $7.20 | Inst. ownership | 75.69% |
+| 52W low | $7.29 | Inst. ownership | 75.69% |
 | P/E (ttm) | — | Insider ownership | 1.16% |
-| Forward P/E | 14.86 | Short float | 22.14% |
+| Forward P/E | 15.03 | Short float | 22.14% |
 | PEG (trailing) | — | Avg volume | 7,885,039 |
-| P/S | 18.04 | Employees | 1,069 |
-| P/B | 2.27 | Analyst rec (1=buy..5=sell) | 1.1 |
+| P/S | 18.25 | Employees | 1,069 |
+| P/B | 2.30 | Analyst rec (1=buy..5=sell) | 1.1 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
