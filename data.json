@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-03T03:45:21+00:00",
-  "as_of_local": "2026-11-03 03:45:21 UTC",
+  "as_of_utc": "2026-11-03T03:54:29+00:00",
+  "as_of_local": "2026-11-03 03:54:29 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "SHEL"
+    "HUBB"
   ],
   "stocks": [
     {
@@ -22,6 +22,15 @@
       "previous_close": 235.52,
       "change_pct": -3.29,
       "market_cap": 444379278335.5713,
+      "headlines": []
+    },
+    {
+      "symbol": "SHEL",
+      "name": "Shell",
+      "price": 104.94,
+      "previous_close": 108.69,
+      "change_pct": -3.45,
+      "market_cap": 297919069746.2421,
       "headlines": []
     },
     {
@@ -66,7 +75,16 @@
       "price": 366.07,
       "previous_close": 369.97,
       "change_pct": -1.05,
-      "market_cap": 142181590844.72656,
+      "market_cap": 142144983843.99414,
+      "headlines": []
+    },
+    {
+      "symbol": "MPC",
+      "name": "Marathon Petroleum",
+      "price": 430.39,
+      "previous_close": 444.73,
+      "change_pct": -3.22,
+      "market_cap": 125646612614.06555,
       "headlines": []
     },
     {
@@ -76,15 +94,6 @@
       "previous_close": 50.39,
       "change_pct": -4.98,
       "market_cap": 123319322238.86848,
-      "headlines": []
-    },
-    {
-      "symbol": "MPC",
-      "name": "Marathon Petroleum",
-      "price": 430.39,
-      "previous_close": 444.73,
-      "change_pct": -3.22,
-      "market_cap": 120864173861.21399,
       "headlines": []
     },
     {
@@ -183,7 +192,7 @@
       "price": 157.89,
       "previous_close": 165.54,
       "change_pct": -4.62,
-      "market_cap": 82817911278.4928,
+      "market_cap": 84096718276.60934,
       "headlines": []
     },
     {
@@ -336,7 +345,7 @@
       "price": 74.38,
       "previous_close": 74.29,
       "change_pct": 0.12,
-      "market_cap": 37072480462.4485,
+      "market_cap": 37065144512.07939,
       "headlines": []
     },
     {
@@ -373,15 +382,6 @@
       "previous_close": 68.77,
       "change_pct": -2.76,
       "market_cap": 26001286914.98268,
-      "headlines": []
-    },
-    {
-      "symbol": "HUBB",
-      "name": "Hubbell",
-      "price": 433.74,
-      "previous_close": 422.44,
-      "change_pct": 2.67,
-      "market_cap": 22916667564.93286,
       "headlines": []
     },
     {
@@ -480,7 +480,7 @@
       "price": 30.05,
       "previous_close": 28.65,
       "change_pct": 4.89,
-      "market_cap": 9018354132.333,
+      "market_cap": 9113442516.868801,
       "headlines": []
     },
     {
@@ -816,18 +816,18 @@
     },
     {
       "label": "WTI",
-      "price": 96.61,
-      "change_pct": -7.21
+      "price": 96.62,
+      "change_pct": -7.2
     },
     {
       "label": "Brent",
-      "price": 104.76,
-      "change_pct": -10.95
+      "price": 104.72,
+      "change_pct": -10.98
     },
     {
       "label": "NatGas",
-      "price": 2.89,
-      "change_pct": -0.41
+      "price": 2.88,
+      "change_pct": -0.45
     }
   ]
 }
