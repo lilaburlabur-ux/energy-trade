@@ -1,16 +1,16 @@
 {
-  "as_of_utc": "2026-11-03T21:15:54+00:00",
-  "as_of_local": "2026-11-03 21:15:54 UTC",
+  "as_of_utc": "2026-11-03T21:19:54+00:00",
+  "as_of_local": "2026-11-03 21:19:54 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
       "name": "ExxonMobil",
-      "price": 177.46,
+      "price": 177.5,
       "previous_close": 179.67,
-      "change_pct": -1.23,
-      "market_cap": 723859367385.8643,
+      "change_pct": -1.21,
+      "market_cap": 724022500000.0,
       "headlines": [
         {
           "title": "Oil Edges Lower As U.S. Bombs Iran Before Election Day",
@@ -206,7 +206,7 @@
       "price": 391.7,
       "previous_close": 366.07,
       "change_pct": 7.0,
-      "market_cap": 152136284741.21094,
+      "market_cap": 152097114739.99023,
       "headlines": [
         {
           "title": "Eaton Just Dropped 16% in a Month. Is It Time to Sell, or Load Up?",
@@ -225,6 +225,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/eaton-stocks-surge-7-electrical-170608898.html",
           "publisher": "GuruFocus.com",
           "published": "2026-11-03T17:06:08Z"
+        }
+      ]
+    },
+    {
+      "symbol": "MPC",
+      "name": "Marathon Petroleum",
+      "price": 427.34,
+      "previous_close": 430.39,
+      "change_pct": -0.71,
+      "market_cap": 124756200531.79611,
+      "headlines": [
+        {
+          "title": "Oil Edges Lower As U.S. Bombs Iran Before Election Day",
+          "url": "https://www.investors.com/news/oil-prices-us-iran-hormuz-trump-exxon-chevron-midterm-election/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-11-03T21:07:20Z"
+        },
+        {
+          "title": "Sector Update: Energy Stocks Fall Late Afternoon",
+          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-fall-afternoon-210314611.html",
+          "publisher": "MT Newswires",
+          "published": "2026-11-03T21:03:14Z"
+        },
+        {
+          "title": "Carl Icahn Buys A $4.2 Billion Slice Of The Refining Profit Surge",
+          "url": "https://www.investors.com/news/carl-icahn-cvr-energy-inks-4-2-billion-deal-for-marathon-refineries/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-11-03T19:54:47Z"
         }
       ]
     },
@@ -253,34 +281,6 @@
           "url": "https://finance.yahoo.com/energy/articles/3-energy-companies-managing-c-150000819.html",
           "publisher": "C-Store Dive",
           "published": "2026-11-03T15:00:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "MPC",
-      "name": "Marathon Petroleum",
-      "price": 427.34,
-      "previous_close": 430.39,
-      "change_pct": -0.71,
-      "market_cap": 120007653192.009,
-      "headlines": [
-        {
-          "title": "Oil Edges Lower As U.S. Bombs Iran Before Election Day",
-          "url": "https://www.investors.com/news/oil-prices-us-iran-hormuz-trump-exxon-chevron-midterm-election/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-11-03T21:07:20Z"
-        },
-        {
-          "title": "Sector Update: Energy Stocks Fall Late Afternoon",
-          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-fall-afternoon-210314611.html",
-          "publisher": "MT Newswires",
-          "published": "2026-11-03T21:03:14Z"
-        },
-        {
-          "title": "Carl Icahn Buys A $4.2 Billion Slice Of The Refining Profit Surge",
-          "url": "https://www.investors.com/news/carl-icahn-cvr-energy-inks-4-2-billion-deal-for-marathon-refineries/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-11-03T19:54:47Z"
         }
       ]
     },
@@ -570,7 +570,7 @@
       "price": 155.17,
       "previous_close": 157.89,
       "change_pct": -1.72,
-      "market_cap": 81391191279.4784,
+      "market_cap": 82647968024.82803,
       "headlines": [
         {
           "title": "What Just Happened To Devon Energy Stock?",
@@ -1046,7 +1046,7 @@
       "price": 72.81,
       "previous_close": 74.38,
       "change_pct": -2.11,
-      "market_cap": 36289961167.45422,
+      "market_cap": 36282780063.015015,
       "headlines": [
         {
           "title": "Can Edison International Stock Jump 30%?",
@@ -1494,7 +1494,7 @@
       "price": 30.3,
       "previous_close": 30.05,
       "change_pct": 0.83,
-      "market_cap": 9093382038.833,
+      "market_cap": 9189261508.118801,
       "headlines": [
         {
           "title": "If I Could Only Buy 1 AI Power Stock for the Next Decade, It Wouldn't Be Bloom Energy or GE Vernova",
@@ -1659,10 +1659,10 @@
     {
       "symbol": "UEC",
       "name": "Uranium Energy Corp",
-      "price": 7.56,
+      "price": 7.61,
       "previous_close": 7.51,
-      "change_pct": 0.67,
-      "market_cap": 3746620039.042418,
+      "change_pct": 1.4,
+      "market_cap": 3773877110.544672,
       "headlines": [
         {
           "title": "What Is Behind The Move In Cameco Stock?",
@@ -1921,8 +1921,8 @@
           "name": "ExxonMobil Holdings Corp",
           "short": "ExxonMobil",
           "weight_pct": 24.03,
-          "change_pct": -1.23,
-          "price": 177.46,
+          "change_pct": -1.21,
+          "price": 177.5,
           "currency": "USD"
         },
         {
@@ -2020,8 +2020,8 @@
         "name": "ExxonMobil Holdings Corp",
         "short": "ExxonMobil",
         "weight_pct": 24.03,
-        "change_pct": -1.23,
-        "price": 177.46,
+        "change_pct": -1.21,
+        "price": 177.5,
         "currency": "USD"
       },
       {
@@ -2115,13 +2115,13 @@
     },
     {
       "label": "WTI",
-      "price": 96.75,
-      "change_pct": 0.3
+      "price": 96.73,
+      "change_pct": 0.28
     },
     {
       "label": "Brent",
-      "price": 104.44,
-      "change_pct": -0.31
+      "price": 104.38,
+      "change_pct": -0.37
     },
     {
       "label": "NatGas",
