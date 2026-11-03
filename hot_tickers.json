@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-03T05:56:07+00:00",
+  "as_of": "2026-11-03T08:05:29+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -25,19 +25,19 @@
   },
   {
    "rank": 2,
-   "ticker": "RUN",
-   "company": "Sunrun Inc.",
-   "move_pct": 10.29,
-   "price": 8.25,
-   "volume": 15265900,
-   "volume_vs_avg": "~2x",
-   "heat_score": 70,
-   "direction": "up",
-   "why": "Sunrun (RUN) Heads Into Q3 Earnings With Shares Up 10.3%: What to Expect",
-   "catalyst_type": "earnings",
-   "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTlBLUmZ2ejRyNVY1ci1XUEtGT0lTdW01eS10d250NjNackUyTDRxY0RLNmxsY1hGX29temQyVWlZYzZvaGNBclNaSlNFMk1peUE5V1hxaTRneGl2SUtLQ3R2aGEweG51NnY0ZnJZOHlWSS0xYmw5b2JMVWFpN1pUSExmYnpKejlVYTZkNnJDakJKaDc5NmNSUQ?oc=5",
-   "published": "2026-11-03T03:57:00+00:00",
-   "sector": "Renewables & Solar"
+   "ticker": "EQNR",
+   "company": "Equinor ASA",
+   "move_pct": -6.87,
+   "price": 45.4,
+   "volume": 6205200,
+   "volume_vs_avg": "~1.4x",
+   "heat_score": 46,
+   "direction": "down",
+   "why": "Equinor ASA: Share buy-back \u2013 fourth tranche for 2026",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNa0VKclFTdnA0bGNxd0VZWDM1YmRFREJSRHRpbDkzVzBEV2hrVWVPVjFmLXo3T1RtcTR5QTJOQWk5S3JRY1VsLVJMU1NzUDdxNENEVkllWmRncG9Fck1ONWp2WFdhU25IVGxvRUoxMVlleXNFS3Q1X0EwekFibS1KbTVkWkpPcVVRelFQdjVBclBSS3lfdFZwNDc3OV9VX2FWbEE?oc=5",
+   "published": "2026-11-03T07:00:00+00:00",
+   "sector": "Oil & Gas Majors"
   },
   {
    "rank": 3,
@@ -49,10 +49,10 @@
    "volume_vs_avg": "~2x",
    "heat_score": 44,
    "direction": "down",
-   "why": "Citi Reaffirms Their Sell Rating on Cheniere Energy Partners (CQP)",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQbm1JelNtUVFTWTZZMzZEMW5Jc2RZVVdVN09HY2FGM1d1emZCMlhoTVBjN0s1MjNfZUd1WTIwdFBUODlmSHJoRmxoMVBXeWNHTVA0VWl1dkxTbkQtY0Y3MDY1UDhEZDFHelEyYVdFNFRFS3UyUFhNc09ZS2dCLWhYNFEyX1AydEYtTkhNQjR1NTlQaVBDV01wU0hkY0kwd2tVb3lITmhDcGM4MG81WmMxMW00RXRocjd1SW9LQVlCVWFBc3hOcHZsN2lfa3VZWUJ2SXVleDhjWWZneThBd3c?oc=5",
-   "published": "2026-11-03T02:07:14+00:00",
+   "why": "Cheniere Energy, Inc. (NYSE:LNG) Stock Has Average Price Target of $319.82 According to Brokerages",
+   "catalyst_type": "analyst_action",
+   "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNeU1MQ3RBeWhmR2lhc2RmWHloNDA3ZE5Rd3FTV0VmTDREbVJhUWdWT2ZpeVE5bG5XM1NQblpSSklFSnVQNVp1cW13T0JKTE1LdmhRUHd2RnAtMHgybXNndEpCa2xaTklRREtuQWRNZTgxVkREaWtPTThtcW4xUm5wT2pUZDQyQ1drQVRhdXh1Nmp3TUw4Z1N2cXNsWWhEc3BScTZSN0lEOWd0Um51OHR0NVd5aFJjMlpDMXpycE5RS01JLXpfcEdZcG1ScUQxc2h0bk9xYXg5VlMwazhqbU8tYzlNWWNJQ2xJV3FCRw?oc=5",
+   "published": "2026-11-03T07:46:03+00:00",
    "sector": "Midstream & LNG"
   }
  ]
