@@ -1,43 +1,10 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-03T08:56:01+00:00",
+  "as_of": "2026-11-03T09:11:17+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": [
-  {
-   "rank": 1,
-   "ticker": "EQNR",
-   "company": "Equinor ASA",
-   "move_pct": -6.87,
-   "price": 45.4,
-   "volume": 6205200,
-   "volume_vs_avg": "~1.4x",
-   "heat_score": 46,
-   "direction": "down",
-   "why": "Equinor ASA (NYSE:EQNR) Stock Has Consensus Price Target of $43.47 According to Brokerages",
-   "catalyst_type": "analyst_action",
-   "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUVpQZjY5OU9MREc2VGtJa1YyVmFXdkhhZVZrLUNVdENfTVVKQWN1c2pNeUUtdERPOXBqRngzWGZnb1REN0IxWlY2bmJxX0h2NnVLWHExY20weVM0bVotMmNJTjFubEJtX3hLdnBUZDBGTTNGYlNrbm1YZjdlNlkxUUVvdlRROTVmYnoyalB5Z0ZDZ05hTnRoLWJ1NV84Z2x3QUYzQjdfNng0N0MxWlpXM1c4eG9sZ2hEeERyS3hIbkx2c1RLdk1hSWVqdVY5LU82ZTNjLTlPaElRUUo0eVBCRm1ncXo?oc=5",
-   "published": "2026-11-03T07:45:58+00:00",
-   "sector": "Oil & Gas Majors"
-  },
-  {
-   "rank": 2,
-   "ticker": "LNG",
-   "company": "Cheniere Energy, Inc.",
-   "move_pct": -5.65,
-   "price": 311.67,
-   "volume": 3846700,
-   "volume_vs_avg": "~2x",
-   "heat_score": 44,
-   "direction": "down",
-   "why": "Cheniere Energy, Inc. (NYSE:LNG) Stock Has Average Price Target of $319.82 According to Brokerages",
-   "catalyst_type": "analyst_action",
-   "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNeU1MQ3RBeWhmR2lhc2RmWHloNDA3ZE5Rd3FTV0VmTDREbVJhUWdWT2ZpeVE5bG5XM1NQblpSSklFSnVQNVp1cW13T0JKTE1LdmhRUHd2RnAtMHgybXNndEpCa2xaTklRREtuQWRNZTgxVkREaWtPTThtcW4xUm5wT2pUZDQyQ1drQVRhdXh1Nmp3TUw4Z1N2cXNsWWhEc3BScTZSN0lEOWd0Um51OHR0NVd5aFJjMlpDMXpycE5RS01JLXpfcEdZcG1ScUQxc2h0bk9xYXg5VlMwazhqbU8tYzlNWWNJQ2xJV3FCRw?oc=5",
-   "published": "2026-11-03T07:46:03+00:00",
-   "sector": "Midstream & LNG"
-  }
- ]
+ "hot_tickers": []
 }
