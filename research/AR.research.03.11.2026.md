@@ -4,8 +4,8 @@ Signed file: `AR.research.03.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $40.29 (2026-11-03, ~15-min delayed) |
-| Market cap | $12.37B |
+| Current price | $40.33 (2026-11-03, ~15-min delayed) |
+| Market cap | $12.39B |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
 | Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated. |
@@ -15,8 +15,8 @@ Signed file: `AR.research.03.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +30.35%; price +9.18% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -10.76% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +30.46%; price +9.28% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -10.69% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 22.98%, revenue growth 17.10%. |
 | Value attractiveness | Reasonable | Forward P/E 8.54, EV/Sales —. |
 | Risk level | Elevated | Beta 0.48, ATR 3.3% of price, short float 4.35%. |
@@ -44,22 +44,22 @@ Antero Resources Corporation, an independent oil and natural gas company, engage
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $40.29; 52w high $45.15 (-10.76%); 52w low $31.38 (+28.39%) |
-| Trend | +9.18% vs SMA200, +6.99% vs SMA50, +3.48% vs SMA20 |
-| Momentum | RSI(14) 58.1 (neutral) |
+| Price vs 52-week range | Close $40.33; 52w high $45.15 (-10.69%); 52w low $31.38 (+28.51%) |
+| Trend | +9.28% vs SMA200, +7.08% vs SMA50, +3.57% vs SMA20 |
+| Momentum | RSI(14) 58.3 (neutral) |
 | Volatility | ATR(14) 1.31 (~3.3% of price); beta 0.48 |
-| Setup perspective | -10.76% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -10.69% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -4.3% |
-| Month | +16.1% |
-| Quarter | +17.4% |
-| Half Y | +3.0% |
-| 1Y | +30.3% |
-| YTD | +17.8% |
+| Week | -4.2% |
+| Month | +16.2% |
+| Quarter | +17.5% |
+| Half Y | +3.1% |
+| 1Y | +30.5% |
+| YTD | +17.9% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Antero Resources Corporation, an independent oil and natural gas company, engage
 | Revenue (ttm) | $5.98B | Revenue growth 17.10% y/y |
 | Profitability | Gross 68.28%, operating 29.50%, net 22.98% | ROA 7.69%, ROE 17.39% |
 | Balance sheet | Cash —, debt $4.65B | Current ratio 0.39, debt/equity 53.84 |
-| Valuation | P/E 9.09, forward P/E 8.54, P/S 2.07, P/B 1.43 | EV/Sales —, EV/EBITDA — |
+| Valuation | P/E 9.10, forward P/E 8.54, P/S 2.07, P/B 1.43 | EV/Sales —, EV/EBITDA — |
 | Growth expectations | Earnings growth 395.80%, EPS q/q 381.90% | Analyst mean target $50.59 (22 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -110,17 +110,17 @@ Antero Resources Corporation, an independent oil and natural gas company, engage
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $40.29 | EV/Sales | — |
-| Market cap | $12.37B | EV/EBITDA | — |
+| Price | $40.33 | EV/Sales | — |
+| Market cap | $12.39B | EV/EBITDA | — |
 | Beta | 0.48 | Gross margin | 68.28% |
-| RSI(14) | 58.1 | Operating margin | 29.50% |
+| RSI(14) | 58.3 | Operating margin | 29.50% |
 | ATR(14) | 1.31 | Profit margin | 22.98% |
-| SMA20 dist | +3.48% | ROA | 7.69% |
-| SMA50 dist | +6.99% | ROE | 17.39% |
-| SMA200 dist | +9.18% | Revenue (ttm) | $5.98B |
+| SMA20 dist | +3.57% | ROA | 7.69% |
+| SMA50 dist | +7.08% | ROE | 17.39% |
+| SMA200 dist | +9.28% | Revenue (ttm) | $5.98B |
 | 52W high | $45.15 | Revenue growth y/y | 17.10% |
 | 52W low | $31.38 | Inst. ownership | 91.77% |
-| P/E (ttm) | 9.09 | Insider ownership | 4.42% |
+| P/E (ttm) | 9.10 | Insider ownership | 4.42% |
 | Forward P/E | 8.54 | Short float | 4.35% |
 | PEG (trailing) | 0.40 | Avg volume | 4,115,735 |
 | P/S | 2.07 | Employees | 632 |

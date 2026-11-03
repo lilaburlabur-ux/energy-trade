@@ -15,8 +15,8 @@ Signed file: `OKE.research.03.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +47.30%; price +6.57% vs SMA200. |
-| Fresh setup quality | Watch | -4.00% from 52w high and near SMA20 — check for a tight base. |
+| Technical momentum | Moderate | 1Y +47.29%; price +6.57% vs SMA200. |
+| Fresh setup quality | Watch | -4.01% from 52w high and near SMA20 — check for a tight base. |
 | Fundamental quality | Mixed | Profit margin 9.42%, revenue growth 44.30%. |
 | Value attractiveness | Reasonable | Forward P/E 15.19, EV/Sales 2.22. |
 | Risk level | Moderate | Beta 0.74, ATR 2.6% of price, short float 4.21%. |
@@ -44,11 +44,11 @@ ONEOK, Inc. operates as a midstream service provider of gathering, processing, f
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $92.57; 52w high $96.44 (-4.00%); 52w low $61.27 (+51.10%) |
-| Trend | +6.57% vs SMA200, +0.82% vs SMA50, +0.41% vs SMA20 |
+| Price vs 52-week range | Close $92.57; 52w high $96.44 (-4.01%); 52w low $61.27 (+51.09%) |
+| Trend | +6.57% vs SMA200, +0.82% vs SMA50, +0.40% vs SMA20 |
 | Momentum | RSI(14) 51.2 (neutral) |
 | Volatility | ATR(14) 2.42 (~2.6% of price); beta 0.74 |
-| Setup perspective | -4.00% from 52w high and near SMA20 — check for a tight base. |
+| Setup perspective | -4.01% from 52w high and near SMA20 — check for a tight base. |
 
 **Performance snapshot:**
 
@@ -115,7 +115,7 @@ ONEOK, Inc. operates as a midstream service provider of gathering, processing, f
 | Beta | 0.74 | Gross margin | 25.20% |
 | RSI(14) | 51.2 | Operating margin | 12.71% |
 | ATR(14) | 2.42 | Profit margin | 9.42% |
-| SMA20 dist | +0.41% | ROA | 5.46% |
+| SMA20 dist | +0.40% | ROA | 5.46% |
 | SMA50 dist | +0.82% | ROE | 15.02% |
 | SMA200 dist | +6.57% | Revenue (ttm) | $43.19B |
 | 52W high | $96.44 | Revenue growth y/y | 44.30% |

@@ -4,7 +4,7 @@ Signed file: `EOG.research.03.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $155.08 (2026-11-03, ~15-min delayed) |
+| Current price | $155.09 (2026-11-03, ~15-min delayed) |
 | Market cap | $82.60B |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
@@ -44,8 +44,8 @@ EOG Resources, Inc., together with its subsidiaries, explores for, develops, pro
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $155.08; 52w high $165.54 (-6.32%); 52w low $98.64 (+57.22%) |
-| Trend | +14.18% vs SMA200, +4.41% vs SMA50, -0.69% vs SMA20 |
+| Price vs 52-week range | Close $155.09; 52w high $165.54 (-6.32%); 52w low $98.64 (+57.22%) |
+| Trend | +14.18% vs SMA200, +4.42% vs SMA50, -0.69% vs SMA20 |
 | Momentum | RSI(14) 51.2 (neutral) |
 | Volatility | ATR(14) 3.94 (~2.5% of price); beta 0.27 |
 | Setup perspective | -6.32% from 52w high; no clean fresh pivot by default. |
@@ -110,13 +110,13 @@ EOG Resources, Inc., together with its subsidiaries, explores for, develops, pro
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $155.08 | EV/Sales | 3.22 |
+| Price | $155.09 | EV/Sales | 3.22 |
 | Market cap | $82.60B | EV/EBITDA | 5.94 |
 | Beta | 0.27 | Gross margin | 62.64% |
 | RSI(14) | 51.2 | Operating margin | 40.72% |
 | ATR(14) | 3.94 | Profit margin | 25.73% |
 | SMA20 dist | -0.69% | ROA | 11.02% |
-| SMA50 dist | +4.41% | ROE | 22.51% |
+| SMA50 dist | +4.42% | ROE | 22.51% |
 | SMA200 dist | +14.18% | Revenue (ttm) | $26.72B |
 | 52W high | $165.54 | Revenue growth y/y | 58.70% |
 | 52W low | $98.64 | Inst. ownership | 98.25% |

@@ -4,8 +4,8 @@ Signed file: `EQT.research.03.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $54.57 (2026-11-03, ~15-min delayed) |
-| Market cap | $34.14B |
+| Current price | $54.56 (2026-11-03, ~15-min delayed) |
+| Market cap | $34.13B |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,8 +15,8 @@ Signed file: `EQT.research.03.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-1.53%) with negative half-year (-6.51%). |
-| Fresh setup quality | Moderate / wait | -19.19% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-1.55%) with negative half-year (-6.53%). |
+| Fresh setup quality | Moderate / wait | -19.20% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 29.01%, revenue growth -8.10%. |
 | Value attractiveness | Reasonable | Forward P/E 15.55, EV/Sales 4.74. |
 | Risk level | Moderate | Beta 0.67, ATR 2.9% of price, short float 3.98%. |
@@ -44,11 +44,11 @@ EQT Corporation engages in the exploration, production, gathering, and transmiss
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $54.57; 52w high $67.53 (-19.19%); 52w low $48.56 (+12.38%) |
-| Trend | -1.53% vs SMA200, +2.51% vs SMA50, +0.54% vs SMA20 |
-| Momentum | RSI(14) 53.3 (neutral) |
+| Price vs 52-week range | Close $54.56; 52w high $67.53 (-19.20%); 52w low $48.56 (+12.36%) |
+| Trend | -1.55% vs SMA200, +2.49% vs SMA50, +0.53% vs SMA20 |
+| Momentum | RSI(14) 53.2 (neutral) |
 | Volatility | ATR(14) 1.57 (~2.9% of price); beta 0.67 |
-| Setup perspective | -19.19% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -19.20% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
@@ -109,14 +109,14 @@ EQT Corporation engages in the exploration, production, gathering, and transmiss
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $54.57 | EV/Sales | 4.74 |
-| Market cap | $34.14B | EV/EBITDA | 6.39 |
+| Price | $54.56 | EV/Sales | 4.74 |
+| Market cap | $34.13B | EV/EBITDA | 6.39 |
 | Beta | 0.67 | Gross margin | 80.40% |
-| RSI(14) | 53.3 | Operating margin | 28.23% |
+| RSI(14) | 53.2 | Operating margin | 28.23% |
 | ATR(14) | 1.57 | Profit margin | 29.01% |
-| SMA20 dist | +0.54% | ROA | 6.25% |
-| SMA50 dist | +2.51% | ROE | 10.49% |
-| SMA200 dist | -1.53% | Revenue (ttm) | $9.15B |
+| SMA20 dist | +0.53% | ROA | 6.25% |
+| SMA50 dist | +2.49% | ROE | 10.49% |
+| SMA200 dist | -1.55% | Revenue (ttm) | $9.15B |
 | 52W high | $67.53 | Revenue growth y/y | -8.10% |
 | 52W low | $48.56 | Inst. ownership | 95.86% |
 | P/E (ttm) | 12.93 | Insider ownership | 0.90% |
