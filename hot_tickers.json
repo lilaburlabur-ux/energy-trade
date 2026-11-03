@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-02T23:47:16+00:00",
+  "as_of": "2026-11-03T00:02:08+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -89,6 +89,22 @@
   },
   {
    "rank": 6,
+   "ticker": "DVN",
+   "company": "Devon Energy Corporation",
+   "move_pct": -6.75,
+   "price": 48.63,
+   "volume": 11263202,
+   "volume_vs_avg": "~1.2x",
+   "heat_score": 45,
+   "direction": "down",
+   "why": "Devon Energy Corp (DVN) Stock Down 6.8% but Still Overvalued -- GF Score: 76/100",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRGR2QkJpb19DTTY2WmlqVFplZU9wdjdXWmNkZ1RPN3RQamxWQlN4dlpDZVRjWFhjX1lDYVFJcTJ3ZEg3VUE4dks2SG5qSzB1RnFaRUVySXd2Vm5DOWRNTGZ0UlA0N0RINzB0NUFIcnM1enNQLThOZ1dCTTV1R2JfczVGVTJUdlV4cllBbE5abGltRFlPTEpBeExNM3RrM2wyTmFvM3pQOE5aQTFKZlNV?oc=5",
+   "published": "2026-11-02T23:10:19+00:00",
+   "sector": "Shale & E&P"
+  },
+  {
+   "rank": 7,
    "ticker": "LEU",
    "company": "Centrus Energy Corp.",
    "move_pct": -6.72,
@@ -104,7 +120,7 @@
    "sector": "Nuclear & Uranium"
   },
   {
-   "rank": 7,
+   "rank": 8,
    "ticker": "FANG",
    "company": "Diamondback Energy, Inc.",
    "move_pct": -6.17,
@@ -117,22 +133,6 @@
    "catalyst_type": "earnings",
    "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVzJmSXBPanFsOFRYRW9zZE5HTk94Zzc3VDRVWE1pc3YteTBzbjJKZkNsajlac0ZXY1FJVGNuQTRManNVTU1acmhvZkIzZzVFNFNBLU9MQkZISE1ZOHhwc1N2YjEwYkdVM0Z2TVdmUU9PSmxhcXJ4R1cxSFVBRm9BVHlMNzhSSUlFUkxXMUNyX2k2elFJdEE?oc=5",
    "published": "2026-11-02T22:51:00+00:00",
-   "sector": "Shale & E&P"
-  },
-  {
-   "rank": 8,
-   "ticker": "DVN",
-   "company": "Devon Energy Corporation",
-   "move_pct": -6.38,
-   "price": 48.83,
-   "volume": 11263202,
-   "volume_vs_avg": "~1.2x",
-   "heat_score": 43,
-   "direction": "down",
-   "why": "Devon Energy Corp (DVN) Stock Down 6.8% but Still Overvalued -- GF Score: 76/100",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRGR2QkJpb19DTTY2WmlqVFplZU9wdjdXWmNkZ1RPN3RQamxWQlN4dlpDZVRjWFhjX1lDYVFJcTJ3ZEg3VUE4dks2SG5qSzB1RnFaRUVySXd2Vm5DOWRNTGZ0UlA0N0RINzB0NUFIcnM1enNQLThOZ1dCTTV1R2JfczVGVTJUdlV4cllBbE5abGltRFlPTEpBeExNM3RrM2wyTmFvM3pQOE5aQTFKZlNV?oc=5",
-   "published": "2026-11-02T23:10:19+00:00",
    "sector": "Shale & E&P"
   }
  ]
