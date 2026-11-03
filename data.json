@@ -1,16 +1,16 @@
 {
-  "as_of_utc": "2026-11-03T21:22:48+00:00",
-  "as_of_local": "2026-11-03 21:22:48 UTC",
+  "as_of_utc": "2026-11-03T21:25:23+00:00",
+  "as_of_local": "2026-11-03 21:25:23 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
       "name": "ExxonMobil",
-      "price": 177.5,
+      "price": 177.46,
       "previous_close": 179.67,
-      "change_pct": -1.21,
-      "market_cap": 724022500000.0,
+      "change_pct": -1.23,
+      "market_cap": 723859367385.8643,
       "headlines": [
         {
           "title": "Oil Edges Lower As U.S. Bombs Iran Before Election Day",
@@ -769,6 +769,12 @@
       "market_cap": 63247918186.73558,
       "headlines": [
         {
+          "title": "What California Resources (CRC) Said on Its Q3 Earnings Call",
+          "url": "https://finance.yahoo.com/energy/articles/california-resources-crc-said-q3-211418481.html",
+          "publisher": "MarketBeat",
+          "published": "2026-11-03T21:14:18Z"
+        },
+        {
           "title": "Bloom Energy (BE) Signed A Carbon Captured Power Deal In California",
           "url": "https://finance.yahoo.com/energy/articles/bloom-energy-signed-carbon-captured-180959903.html",
           "publisher": "Simply Wall St.",
@@ -779,12 +785,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-bloom-energy-stock-173654188.html",
           "publisher": "Motley Fool",
           "published": "2026-11-03T17:36:54Z"
-        },
-        {
-          "title": "Bloom Energy Gains 9% on California Resources\u2019 1 GW Fuel Cell Tie-Up and Barclays Upgrade",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-gains-9-california-162254208.html",
-          "publisher": "TIKR",
-          "published": "2026-11-03T16:22:54Z"
         }
       ]
     },
@@ -1921,8 +1921,8 @@
           "name": "ExxonMobil Holdings Corp",
           "short": "ExxonMobil",
           "weight_pct": 24.03,
-          "change_pct": -1.21,
-          "price": 177.5,
+          "change_pct": -1.23,
+          "price": 177.46,
           "currency": "USD"
         },
         {
@@ -2020,8 +2020,8 @@
         "name": "ExxonMobil Holdings Corp",
         "short": "ExxonMobil",
         "weight_pct": 24.03,
-        "change_pct": -1.21,
-        "price": 177.5,
+        "change_pct": -1.23,
+        "price": 177.46,
         "currency": "USD"
       },
       {
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 96.72,
-      "change_pct": 0.27
+      "price": 96.77,
+      "change_pct": 0.32
     },
     {
       "label": "Brent",
-      "price": 104.33,
-      "change_pct": -0.42
+      "price": 104.34,
+      "change_pct": -0.41
     },
     {
       "label": "NatGas",
       "price": 2.9,
-      "change_pct": 1.72
+      "change_pct": 1.68
     }
   ]
 }
