@@ -4,8 +4,8 @@ Signed file: `BEP.research.03.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $30.05 (2026-11-03, ~15-min delayed) |
-| Market cap | $14.62B |
+| Current price | $30.21 (2026-11-03, ~15-min delayed) |
+| Market cap | $14.73B |
 | Sector / Industry | Utilities / Utilities - Renewable |
 | Main theme | Utilities - Renewable — see catalysts below |
 | Current stance | Low technical momentum, weak fundamentals, value: reasonable, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `BEP.research.03.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-4.81%) with negative half-year (-6.08%). |
-| Fresh setup quality | Moderate / wait | -17.97% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-4.34%) with negative half-year (-8.22%). |
+| Fresh setup quality | Moderate / wait | -17.53% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Weak | Negative profit margin (-1.26%). |
-| Value attractiveness | Reasonable | Forward P/E -16.24, EV/Sales 12.92. |
-| Risk level | Moderate | Beta 0.95, ATR 2.7% of price, short float 0.57%. |
+| Value attractiveness | Reasonable | Forward P/E -16.33, EV/Sales 12.92. |
+| Risk level | Moderate | Beta 0.95, ATR 2.6% of price, short float 0.57%. |
 
 **Bottom line:** Low technical momentum, weak fundamentals, value: reasonable, risk: moderate.
 
@@ -32,25 +32,34 @@ Signed file: `BEP.research.03.11.2026`
 ## 2. Company Overview and Recent Catalysts
 Brookfield Renewable Partners L.P. owns a portfolio of renewable power generating facilities in the North America, Colombia, and Brazil. The company generates electricity through hydroelectric, wind, solar, distributed generation, and pumped storage; and offers sustainable solutions, such as renewable natural gas, carbon capture and storage, recycling, cogeneration, biomass, nuclear services, eFuels, and power transformation. It operates as the general partner of Brookfield Renewable Partners L.P. The company was formerly known as Brookfield Renewable Energy Partners L.P.
 
+**Recent headlines (potential catalysts):**
+
+| Headline | Source | Date |
+|---|---|---|
+| If I Could Only Buy 1 AI Power Stock for the Next Decade, It Wouldn't Be Bloom Energy or GE Vernova | Motley Fool | 2026-11-03 |
+| SpaceX Needs Huge Amounts of Power. Here's the Energy Stock to Buy to Play It. | Motley Fool | 2026-10-26 |
+| Cameco Stock Is Nearly 40% Below Its Peak. Here’s What One AP1000 Reactor Pair Could Be Worth to Westinghouse | TIKR | 2026-10-20 |
+| These 3 Green Stocks Have a Growth Story That Goes Far Beyond Washington | MarketBeat | 2026-10-18 |
+
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $30.05; 52w high $36.63 (-17.97%); 52w low $25.75 (+16.71%) |
-| Trend | -4.81% vs SMA200, +1.56% vs SMA50, +4.00% vs SMA20 |
-| Momentum | RSI(14) 58.4 (neutral) |
-| Volatility | ATR(14) 0.80 (~2.7% of price); beta 0.95 |
-| Setup perspective | -17.97% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $30.21; 52w high $36.63 (-17.53%); 52w low $25.75 (+17.33%) |
+| Trend | -4.34% vs SMA200, +2.22% vs SMA50, +4.41% vs SMA20 |
+| Momentum | RSI(14) 59.5 (neutral) |
+| Volatility | ATR(14) 0.79 (~2.6% of price); beta 0.95 |
+| Setup perspective | -17.53% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +5.2% |
-| Month | +6.0% |
-| Quarter | -7.9% |
-| Half Y | -6.1% |
-| 1Y | +3.2% |
-| YTD | +11.4% |
+| Week | +3.2% |
+| Month | +7.1% |
+| Quarter | -6.5% |
+| Half Y | -8.2% |
+| 1Y | +2.5% |
+| YTD | +12.0% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -59,13 +68,13 @@ Brookfield Renewable Partners L.P. owns a portfolio of renewable power generatin
 | Revenue (ttm) | $6.36B | Revenue growth 1.10% y/y |
 | Profitability | Gross 51.39%, operating 17.08%, net -1.26% | ROA 0.42%, ROE 0.40% |
 | Balance sheet | Cash $2.69B, debt $37.72B | Current ratio 0.80, debt/equity 105.23 |
-| Valuation | P/E —, forward P/E -16.24, P/S 2.30, P/B 2.41 | EV/Sales 12.92, EV/EBITDA 27.39 |
+| Valuation | P/E —, forward P/E -16.33, P/S 2.32, P/B 2.42 | EV/Sales 12.92, EV/EBITDA 27.39 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $34.24 (14 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 65.70% |
+| Institutional ownership | 64.72% |
 | Insider ownership | 0.07% |
 | Short float | 0.57% |
 | Short ratio (days to cover) | 1.3 |
@@ -76,9 +85,9 @@ Brookfield Renewable Partners L.P. owns a portfolio of renewable power generatin
 |---|---|---|---|
 | Brookfield Corp /ON/ | 81,306,719 | 26.85% | 2026-06-30 |
 | Royal Bank of Canada | 15,093,939 | 4.99% | 2026-06-30 |
-| Principal Financial Group, Inc. | 10,232,351 | 3.38% | 2026-06-30 |
 | Bank of Montreal /CAN/ | 8,149,658 | 2.69% | 2026-06-30 |
 | FIL LTD | 7,616,731 | 2.52% | 2026-06-30 |
+| Principal Financial Group, Inc. | 7,442,593 | 2.46% | 2026-09-30 |
 | Morgan Stanley | 6,797,319 | 2.24% | 2026-06-30 |
 | Connor Clark & Lunn Investment Management Ltd | 4,706,519 | 1.55% | 2026-06-30 |
 | UBS Group AG | 3,834,560 | 1.27% | 2026-06-30 |
@@ -101,21 +110,21 @@ Brookfield Renewable Partners L.P. owns a portfolio of renewable power generatin
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $30.05 | EV/Sales | 12.92 |
-| Market cap | $14.62B | EV/EBITDA | 27.39 |
+| Price | $30.21 | EV/Sales | 12.92 |
+| Market cap | $14.73B | EV/EBITDA | 27.39 |
 | Beta | 0.95 | Gross margin | 51.39% |
-| RSI(14) | 58.4 | Operating margin | 17.08% |
-| ATR(14) | 0.80 | Profit margin | -1.26% |
-| SMA20 dist | +4.00% | ROA | 0.42% |
-| SMA50 dist | +1.56% | ROE | 0.40% |
-| SMA200 dist | -4.81% | Revenue (ttm) | $6.36B |
+| RSI(14) | 59.5 | Operating margin | 17.08% |
+| ATR(14) | 0.79 | Profit margin | -1.26% |
+| SMA20 dist | +4.41% | ROA | 0.42% |
+| SMA50 dist | +2.22% | ROE | 0.40% |
+| SMA200 dist | -4.34% | Revenue (ttm) | $6.36B |
 | 52W high | $36.63 | Revenue growth y/y | 1.10% |
-| 52W low | $25.75 | Inst. ownership | 65.70% |
+| 52W low | $25.75 | Inst. ownership | 64.72% |
 | P/E (ttm) | — | Insider ownership | 0.07% |
-| Forward P/E | -16.24 | Short float | 0.57% |
-| PEG (trailing) | — | Avg volume | 1,041,025 |
-| P/S | 2.30 | Employees | 5,870 |
-| P/B | 2.41 | Analyst rec (1=buy..5=sell) | 2.2 |
+| Forward P/E | -16.33 | Short float | 0.57% |
+| PEG (trailing) | — | Avg volume | 1,071,846 |
+| P/S | 2.32 | Employees | 5,870 |
+| P/B | 2.42 | Analyst rec (1=buy..5=sell) | 2.2 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

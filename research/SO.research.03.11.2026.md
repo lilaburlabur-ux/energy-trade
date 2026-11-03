@@ -4,8 +4,8 @@ Signed file: `SO.research.03.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $94.61 (2026-11-03, ~15-min delayed) |
-| Market cap | $108.84B |
+| Current price | $93.93 (2026-11-03, ~15-min delayed) |
+| Market cap | $108.06B |
 | Sector / Industry | Utilities / Utilities - Regulated Electric |
 | Main theme | Utilities - Regulated Electric — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,10 +15,10 @@ Signed file: `SO.research.03.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +2.80%; price +3.38% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -2.96% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +3.19%; price +2.60% vs SMA200. |
+| Fresh setup quality | Watch | -3.65% from 52w high and near SMA20 — check for a tight base. |
 | Fundamental quality | Mixed | Profit margin 15.43%, revenue growth 0.10%. |
-| Value attractiveness | Reasonable | Forward P/E 19.24, EV/Sales 6.15. |
+| Value attractiveness | Reasonable | Forward P/E 19.10, EV/Sales 6.15. |
 | Risk level | Moderate | Beta 0.29, ATR 1.6% of price, short float 2.56%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -32,25 +32,34 @@ Signed file: `SO.research.03.11.2026`
 ## 2. Company Overview and Recent Catalysts
 The Southern Company, through its subsidiaries, engages in the sale of electricity. The company offers electric service to retail customers and wholesale customers; and energy-related products and services to natural gas choice markets. It also develops, constructs, acquires, owns, operates, and manages power generation assets, as well as battery energy storage projects; sells electricity at market-based rates in the wholesale market; and deploys microgrids for commercial, industrial, governmental, and utility customers.
 
+**Recent headlines (potential catalysts):**
+
+| Headline | Source | Date |
+|---|---|---|
+| A Democratic Sweep of Midterms Could Turn Software Stocks Into a Defensive Play | Barrons.com | 2026-11-03 |
+| Evergy to Report Q3 Earnings: What to Expect From the Stock? | Zacks | 2026-11-03 |
+| PPL Poised for Q3 Earnings Beat: Should You Buy the Stock Now? | Zacks | 2026-11-03 |
+| Ameren to Post Q3 Earnings: Here's What to Expect From the Stock | Zacks | 2026-11-03 |
+
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $94.61; 52w high $97.49 (-2.96%); 52w low $82.06 (+15.29%) |
-| Trend | +3.38% vs SMA200, +7.64% vs SMA50, +4.93% vs SMA20 |
-| Momentum | RSI(14) 69.0 (neutral) |
-| Volatility | ATR(14) 1.54 (~1.6% of price); beta 0.29 |
-| Setup perspective | -2.96% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $93.93; 52w high $97.49 (-3.65%); 52w low $82.06 (+14.47%) |
+| Trend | +2.60% vs SMA200, +6.78% vs SMA50, +3.70% vs SMA20 |
+| Momentum | RSI(14) 65.3 (neutral) |
+| Volatility | ATR(14) 1.51 (~1.6% of price); beta 0.29 |
+| Setup perspective | -3.65% from 52w high and near SMA20 — check for a tight base. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +2.2% |
-| Month | +13.0% |
-| Quarter | +2.3% |
-| Half Y | +0.2% |
-| 1Y | +2.8% |
-| YTD | +11.2% |
+| Week | +1.4% |
+| Month | +12.1% |
+| Quarter | +1.7% |
+| Half Y | -0.4% |
+| 1Y | +3.2% |
+| YTD | +10.4% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -59,13 +68,13 @@ The Southern Company, through its subsidiaries, engages in the sale of electrici
 | Revenue (ttm) | $30.18B | Revenue growth 0.10% y/y |
 | Profitability | Gross 48.29%, operating 29.61%, net 15.43% | ROA 3.27%, ROE 11.48% |
 | Balance sheet | Cash $2.98B, debt $77.09B | Current ratio 0.79, debt/equity 182.06 |
-| Valuation | P/E 22.80, forward P/E 19.24, P/S 3.61, P/B 2.75 | EV/Sales 6.15, EV/EBITDA 13.03 |
+| Valuation | P/E 22.63, forward P/E 19.10, P/S 3.58, P/B 2.73 | EV/Sales 6.15, EV/EBITDA 13.03 |
 | Growth expectations | Earnings growth 30.40%, EPS q/q 33.40% | Analyst mean target $95.90 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 74.33% |
+| Institutional ownership | 74.31% |
 | Insider ownership | 0.10% |
 | Short float | 2.56% |
 | Short ratio (days to cover) | 4.5 |
@@ -101,21 +110,21 @@ The Southern Company, through its subsidiaries, engages in the sale of electrici
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $94.61 | EV/Sales | 6.15 |
-| Market cap | $108.84B | EV/EBITDA | 13.03 |
+| Price | $93.93 | EV/Sales | 6.15 |
+| Market cap | $108.06B | EV/EBITDA | 13.03 |
 | Beta | 0.29 | Gross margin | 48.29% |
-| RSI(14) | 69.0 | Operating margin | 29.61% |
-| ATR(14) | 1.54 | Profit margin | 15.43% |
-| SMA20 dist | +4.93% | ROA | 3.27% |
-| SMA50 dist | +7.64% | ROE | 11.48% |
-| SMA200 dist | +3.38% | Revenue (ttm) | $30.18B |
+| RSI(14) | 65.3 | Operating margin | 29.61% |
+| ATR(14) | 1.51 | Profit margin | 15.43% |
+| SMA20 dist | +3.70% | ROA | 3.27% |
+| SMA50 dist | +6.78% | ROE | 11.48% |
+| SMA200 dist | +2.60% | Revenue (ttm) | $30.18B |
 | 52W high | $97.49 | Revenue growth y/y | 0.10% |
-| 52W low | $82.06 | Inst. ownership | 74.33% |
-| P/E (ttm) | 22.80 | Insider ownership | 0.10% |
-| Forward P/E | 19.24 | Short float | 2.56% |
-| PEG (trailing) | 2.21 | Avg volume | 5,992,746 |
-| P/S | 3.61 | Employees | 29,502 |
-| P/B | 2.75 | Analyst rec (1=buy..5=sell) | 2.6 |
+| 52W low | $82.06 | Inst. ownership | 74.31% |
+| P/E (ttm) | 22.63 | Insider ownership | 0.10% |
+| Forward P/E | 19.10 | Short float | 2.56% |
+| PEG (trailing) | 2.24 | Avg volume | 5,947,342 |
+| P/S | 3.58 | Employees | 29,502 |
+| P/B | 2.73 | Analyst rec (1=buy..5=sell) | 2.6 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

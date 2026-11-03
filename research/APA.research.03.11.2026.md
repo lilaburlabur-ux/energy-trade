@@ -4,8 +4,8 @@ Signed file: `APA.research.03.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $48.82 (2026-11-03, ~15-min delayed) |
-| Market cap | $17.10B |
+| Current price | $47.87 (2026-11-03, ~15-min delayed) |
+| Market cap | $16.77B |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
 | Current stance | High technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
@@ -15,10 +15,10 @@ Signed file: `APA.research.03.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +124.18%; price +30.42% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -7.57% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +117.39%; price +27.49% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -9.37% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 19.56%, revenue growth 9.20%. |
-| Value attractiveness | Reasonable | Forward P/E 9.08, EV/Sales 2.50. |
+| Value attractiveness | Reasonable | Forward P/E 8.90, EV/Sales 2.50. |
 | Risk level | Elevated | Beta 0.28, ATR 3.6% of price, short float 8.78%. |
 
 **Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
@@ -32,25 +32,34 @@ Signed file: `APA.research.03.11.2026`
 ## 2. Company Overview and Recent Catalysts
 APA Corporation, an independent energy company, explores for, develops, and produces natural gas, crude oil, and natural gas liquids. The company has oil and gas operations in the United States, Egypt, and North Sea. It also has exploration and appraisal activities in Suriname, as well as holds interests in projects located in Uruguay and internationally. APA Corporation was incorporated in 1954 and is headquartered in Houston, Texas.
 
+**Recent headlines (potential catalysts):**
+
+| Headline | Source | Date |
+|---|---|---|
+| What Just Happened To Devon Energy Stock? | Trefis | 2026-11-03 |
+| 4 GARP Stocks to Buy Now as Volatility Fuels Value vs. Growth Debate | Zacks | 2026-11-03 |
+| What Analyst Projections for Key Metrics Reveal About APA (APA) Q3 Earnings | Zacks | 2026-11-03 |
+| Vitesse Energy (VTS) Q3 Earnings Meet Estimates | Zacks | 2026-11-03 |
+
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $48.82; 52w high $52.82 (-7.57%); 52w low $21.06 (+131.84%) |
-| Trend | +30.42% vs SMA200, +7.36% vs SMA50, +0.42% vs SMA20 |
-| Momentum | RSI(14) 53.1 (neutral) |
-| Volatility | ATR(14) 1.74 (~3.6% of price); beta 0.28 |
-| Setup perspective | -7.57% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $47.87; 52w high $52.82 (-9.37%); 52w low $21.06 (+127.33%) |
+| Trend | +27.49% vs SMA200, +5.03% vs SMA50, -1.94% vs SMA20 |
+| Momentum | RSI(14) 49.5 (neutral) |
+| Volatility | ATR(14) 1.73 (~3.6% of price); beta 0.28 |
+| Setup perspective | -9.37% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -5.5% |
-| Month | +12.3% |
-| Quarter | +37.1% |
-| Half Y | +17.6% |
-| 1Y | +124.2% |
-| YTD | +98.0% |
+| Week | -5.7% |
+| Month | +9.7% |
+| Quarter | +38.8% |
+| Half Y | +16.8% |
+| 1Y | +117.4% |
+| YTD | +94.2% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -59,13 +68,13 @@ APA Corporation, an independent energy company, explores for, develops, and prod
 | Revenue (ttm) | $8.57B | Revenue growth 9.20% y/y |
 | Profitability | Gross 78.25%, operating 56.33%, net 19.56% | ROA 11.60%, ROE 26.66% |
 | Balance sheet | Cash $444.00M, debt $3.88B | Current ratio 0.95, debt/equity 48.85 |
-| Valuation | P/E 10.32, forward P/E 9.08, P/S 2.00, P/B 2.44 | EV/Sales 2.50, EV/EBITDA 3.75 |
+| Valuation | P/E 10.12, forward P/E 8.90, P/S 1.96, P/B 2.39 | EV/Sales 2.50, EV/EBITDA 3.75 |
 | Growth expectations | Earnings growth 26.30%, EPS q/q 23.90% | Analyst mean target $49.00 (25 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 110.19% |
+| Institutional ownership | 109.83% |
 | Insider ownership | 0.44% |
 | Short float | 8.78% |
 | Short ratio (days to cover) | 4.0 |
@@ -88,7 +97,6 @@ APA Corporation, an independent energy company, explores for, develops, and prod
 ## 6. Risk Review and Setup Plan
 - **Volatility risk:** Beta 0.28, ATR 3.6% of price, short float 8.78%. Size positions accordingly.
 - **Short interest risk:** short float 8.78% can fuel squeezes both ways around news.
-- **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -103,21 +111,21 @@ APA Corporation, an independent energy company, explores for, develops, and prod
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $48.82 | EV/Sales | 2.50 |
-| Market cap | $17.10B | EV/EBITDA | 3.75 |
+| Price | $47.87 | EV/Sales | 2.50 |
+| Market cap | $16.77B | EV/EBITDA | 3.75 |
 | Beta | 0.28 | Gross margin | 78.25% |
-| RSI(14) | 53.1 | Operating margin | 56.33% |
-| ATR(14) | 1.74 | Profit margin | 19.56% |
-| SMA20 dist | +0.42% | ROA | 11.60% |
-| SMA50 dist | +7.36% | ROE | 26.66% |
-| SMA200 dist | +30.42% | Revenue (ttm) | $8.57B |
+| RSI(14) | 49.5 | Operating margin | 56.33% |
+| ATR(14) | 1.73 | Profit margin | 19.56% |
+| SMA20 dist | -1.94% | ROA | 11.60% |
+| SMA50 dist | +5.03% | ROE | 26.66% |
+| SMA200 dist | +27.49% | Revenue (ttm) | $8.57B |
 | 52W high | $52.82 | Revenue growth y/y | 9.20% |
-| 52W low | $21.06 | Inst. ownership | 110.19% |
-| P/E (ttm) | 10.32 | Insider ownership | 0.44% |
-| Forward P/E | 9.08 | Short float | 8.78% |
-| PEG (trailing) | 1.30 | Avg volume | 5,563,446 |
-| P/S | 2.00 | Employees | 1,791 |
-| P/B | 2.44 | Analyst rec (1=buy..5=sell) | 2.6 |
+| 52W low | $21.06 | Inst. ownership | 109.83% |
+| P/E (ttm) | 10.12 | Insider ownership | 0.44% |
+| Forward P/E | 8.90 | Short float | 8.78% |
+| PEG (trailing) | 1.30 | Avg volume | 5,594,587 |
+| P/S | 1.96 | Employees | 1,791 |
+| P/B | 2.39 | Analyst rec (1=buy..5=sell) | 2.6 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

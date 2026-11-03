@@ -4,8 +4,8 @@ Signed file: `FANG.research.03.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $199.74 (2026-11-03, ~15-min delayed) |
-| Market cap | $55.93B |
+| Current price | $193.53 (2026-11-03, ~15-min delayed) |
+| Market cap | $54.44B |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
@@ -15,11 +15,11 @@ Signed file: `FANG.research.03.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +43.90%; price +5.90% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -5.82% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +38.41%; price +2.49% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -8.75% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 9.03%, revenue growth 52.50%. |
-| Value attractiveness | Reasonable | Forward P/E 9.50, EV/Sales 4.57. |
-| Risk level | Elevated | Beta 0.47, ATR 3.1% of price, short float 3.54%. |
+| Value attractiveness | Reasonable | Forward P/E 9.21, EV/Sales 4.57. |
+| Risk level | Elevated | Beta 0.47, ATR 3.2% of price, short float 3.54%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
 
@@ -32,25 +32,34 @@ Signed file: `FANG.research.03.11.2026`
 ## 2. Company Overview and Recent Catalysts
 Diamondback Energy, Inc., an independent oil and natural gas company, acquires, develops, explores, and exploits unconventional, onshore oil and natural gas reserves in the Permian Basin in West Texas, the United States. The company primarily focuses on the development of the Spraberry and Wolfcamp formations of the Midland Basin; and the Wolfcamp and Bone Spring formations of the Delaware Basin, both of which are part of the Permian Basin in West Texas and New Mexico. Diamondback Energy, Inc. was founded in 2007 and is headquartered in Midland, Texas.
 
+**Recent headlines (potential catalysts):**
+
+| Headline | Source | Date |
+|---|---|---|
+| What Diamondback Energy (FANG) Said on Its Q3 Earnings Call | MarketBeat | 2026-11-03 |
+| Diamondback Energy Raises Its Dividend 7.3%. Here’s the Coverage Math | 24/7 Wall St. | 2026-11-03 |
+| Diamondback: Q3 Earnings Snapshot | Associated Press | 2026-11-03 |
+| Diamondback Energy Raises Dividend and 2026 Oil Production Outlook | Oilprice.com | 2026-11-03 |
+
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $199.74; 52w high $212.08 (-5.82%); 52w low $134.06 (+48.99%) |
-| Trend | +5.90% vs SMA200, +1.31% vs SMA50, +0.15% vs SMA20 |
-| Momentum | RSI(14) 50.2 (neutral) |
-| Volatility | ATR(14) 6.12 (~3.1% of price); beta 0.47 |
-| Setup perspective | -5.82% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $193.53; 52w high $212.08 (-8.75%); 52w low $134.06 (+44.36%) |
+| Trend | +2.49% vs SMA200, -1.72% vs SMA50, -3.17% vs SMA20 |
+| Momentum | RSI(14) 44.1 (neutral) |
+| Volatility | ATR(14) 6.17 (~3.2% of price); beta 0.47 |
+| Setup perspective | -8.75% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -3.6% |
-| Month | +8.1% |
-| Quarter | +4.7% |
-| Half Y | -5.5% |
-| 1Y | +43.9% |
-| YTD | +33.4% |
+| Week | -5.4% |
+| Month | +5.1% |
+| Quarter | +4.5% |
+| Half Y | -5.1% |
+| 1Y | +38.4% |
+| YTD | +29.2% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -59,7 +68,7 @@ Diamondback Energy, Inc., an independent oil and natural gas company, acquires, 
 | Revenue (ttm) | $16.25B | Revenue growth 52.50% y/y |
 | Profitability | Gross 72.35%, operating 48.47%, net 9.03% | ROA 1.31%, ROE 3.49% |
 | Balance sheet | Cash $462.00M, debt $12.61B | Current ratio 0.47, debt/equity 28.68 |
-| Valuation | P/E 38.05, forward P/E 9.50, P/S 3.44, P/B 1.48 | EV/Sales 4.57, EV/EBITDA 6.30 |
+| Valuation | P/E 36.86, forward P/E 9.21, P/S 3.35, P/B 1.43 | EV/Sales 4.57, EV/EBITDA 6.30 |
 | Growth expectations | Earnings growth 179.50%, EPS q/q 169.20% | Analyst mean target $240.17 (30 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -86,8 +95,7 @@ Diamondback Energy, Inc., an independent oil and natural gas company, acquires, 
 | Bank Of New York Mellon Corporation | 4,851,470 | 1.73% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 0.47, ATR 3.1% of price, short float 3.54%. Size positions accordingly.
-- **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
+- **Volatility risk:** Beta 0.47, ATR 3.2% of price, short float 3.54%. Size positions accordingly.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -102,21 +110,21 @@ Diamondback Energy, Inc., an independent oil and natural gas company, acquires, 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $199.74 | EV/Sales | 4.57 |
-| Market cap | $55.93B | EV/EBITDA | 6.30 |
+| Price | $193.53 | EV/Sales | 4.57 |
+| Market cap | $54.44B | EV/EBITDA | 6.30 |
 | Beta | 0.47 | Gross margin | 72.35% |
-| RSI(14) | 50.2 | Operating margin | 48.47% |
-| ATR(14) | 6.12 | Profit margin | 9.03% |
-| SMA20 dist | +0.15% | ROA | 1.31% |
-| SMA50 dist | +1.31% | ROE | 3.49% |
-| SMA200 dist | +5.90% | Revenue (ttm) | $16.25B |
+| RSI(14) | 44.1 | Operating margin | 48.47% |
+| ATR(14) | 6.17 | Profit margin | 9.03% |
+| SMA20 dist | -3.17% | ROA | 1.31% |
+| SMA50 dist | -1.72% | ROE | 3.49% |
+| SMA200 dist | +2.49% | Revenue (ttm) | $16.25B |
 | 52W high | $212.08 | Revenue growth y/y | 52.50% |
 | 52W low | $134.06 | Inst. ownership | 73.54% |
-| P/E (ttm) | 38.05 | Insider ownership | 23.88% |
-| Forward P/E | 9.50 | Short float | 3.54% |
-| PEG (trailing) | 10.36 | Avg volume | 2,360,242 |
-| P/S | 3.44 | Employees | 1,762 |
-| P/B | 1.48 | Analyst rec (1=buy..5=sell) | 1.5 |
+| P/E (ttm) | 36.86 | Insider ownership | 23.88% |
+| Forward P/E | 9.21 | Short float | 3.54% |
+| PEG (trailing) | 9.76 | Avg volume | 2,373,117 |
+| P/S | 3.35 | Employees | 1,762 |
+| P/B | 1.43 | Analyst rec (1=buy..5=sell) | 1.5 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

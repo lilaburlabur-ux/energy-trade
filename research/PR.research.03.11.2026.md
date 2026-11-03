@@ -4,8 +4,8 @@ Signed file: `PR.research.03.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $24.56 (2026-11-03, ~15-min delayed) |
-| Market cap | $20.57B |
+| Current price | $24.12 (2026-11-03, ~15-min delayed) |
+| Market cap | $20.21B |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
 | Current stance | High technical momentum, strong fundamentals, value: reasonable, risk: elevated. |
@@ -15,10 +15,10 @@ Signed file: `PR.research.03.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +104.79%; price +21.37% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -5.61% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +98.76%; price +18.92% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -7.28% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 21.52%, revenue growth 55.10%. |
-| Value attractiveness | Reasonable | Forward P/E 10.03, EV/Sales 4.11. |
+| Value attractiveness | Reasonable | Forward P/E 9.86, EV/Sales 4.11. |
 | Risk level | Elevated | Beta 0.58, ATR 3.0% of price, short float 3.82%. |
 
 **Bottom line:** High technical momentum, strong fundamentals, value: reasonable, risk: elevated.
@@ -32,25 +32,34 @@ Signed file: `PR.research.03.11.2026`
 ## 2. Company Overview and Recent Catalysts
 Permian Resources Corporation, an independent oil and natural gas company, focuses on the development of crude oil and associated liquids-rich natural gas reserves in the United States. The company's assets primarily focus on the Delaware Basin, a sub-basin of the Permian Basin. Its properties consist of acreage blocks in Reeves County in West Texas and Lea County in New Mexico. The company was formerly known as Centennial Resource Development, Inc. and changed its name to Permian Resources Corporation in September 2022.
 
+**Recent headlines (potential catalysts):**
+
+| Headline | Source | Date |
+|---|---|---|
+| NGL Energy Partners Set to Report Q2 Earnings: What's in Store? | Zacks | 2026-11-02 |
+| Solaris Energy Q3 Earnings Preview: Another Beat Likely? | Zacks | 2026-10-30 |
+| Texas Pacific Land Set to Report Q3 Earnings: What's in Store? | Zacks | 2026-10-30 |
+| Earnings Preview: Northern Oil and Gas (NOG) Q3 Earnings Expected to Decline | Zacks | 2026-10-29 |
+
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $24.56; 52w high $26.02 (-5.61%); 52w low $11.72 (+109.51%) |
-| Trend | +21.37% vs SMA200, +5.07% vs SMA50, +0.74% vs SMA20 |
-| Momentum | RSI(14) 53.4 (neutral) |
-| Volatility | ATR(14) 0.75 (~3.0% of price); beta 0.58 |
-| Setup perspective | -5.61% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $24.12; 52w high $26.02 (-7.28%); 52w low $11.72 (+105.80%) |
+| Trend | +18.92% vs SMA200, +3.16% vs SMA50, -1.40% vs SMA20 |
+| Momentum | RSI(14) 49.6 (neutral) |
+| Volatility | ATR(14) 0.73 (~3.0% of price); beta 0.58 |
+| Setup perspective | -7.28% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -4.7% |
-| Month | +11.0% |
-| Quarter | +20.6% |
-| Half Y | +10.7% |
-| 1Y | +104.8% |
-| YTD | +74.6% |
+| Week | -5.2% |
+| Month | +8.5% |
+| Quarter | +22.7% |
+| Half Y | +9.3% |
+| 1Y | +98.8% |
+| YTD | +71.5% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -59,13 +68,13 @@ Permian Resources Corporation, an independent oil and natural gas company, focus
 | Revenue (ttm) | $5.74B | Revenue growth 55.10% y/y |
 | Profitability | Gross 75.85%, operating 57.44%, net 21.52% | ROA 7.54%, ROE 11.40% |
 | Balance sheet | Cash $131.72M, debt $3.15B | Current ratio 0.62, debt/equity 26.25 |
-| Valuation | P/E 16.16, forward P/E 10.03, P/S 3.59, P/B 1.71 | EV/Sales 4.11, EV/EBITDA 5.54 |
+| Valuation | P/E 15.87, forward P/E 9.86, P/S 3.52, P/B 1.68 | EV/Sales 4.11, EV/EBITDA 5.54 |
 | Growth expectations | Earnings growth 232.90%, EPS q/q 282.60% | Analyst mean target $28.62 (21 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 93.90% |
+| Institutional ownership | 94.22% |
 | Insider ownership | 4.61% |
 | Short float | 3.82% |
 | Short ratio (days to cover) | 3.0 |
@@ -102,21 +111,21 @@ Permian Resources Corporation, an independent oil and natural gas company, focus
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $24.56 | EV/Sales | 4.11 |
-| Market cap | $20.57B | EV/EBITDA | 5.54 |
+| Price | $24.12 | EV/Sales | 4.11 |
+| Market cap | $20.21B | EV/EBITDA | 5.54 |
 | Beta | 0.58 | Gross margin | 75.85% |
-| RSI(14) | 53.4 | Operating margin | 57.44% |
-| ATR(14) | 0.75 | Profit margin | 21.52% |
-| SMA20 dist | +0.74% | ROA | 7.54% |
-| SMA50 dist | +5.07% | ROE | 11.40% |
-| SMA200 dist | +21.37% | Revenue (ttm) | $5.74B |
+| RSI(14) | 49.6 | Operating margin | 57.44% |
+| ATR(14) | 0.73 | Profit margin | 21.52% |
+| SMA20 dist | -1.40% | ROA | 7.54% |
+| SMA50 dist | +3.16% | ROE | 11.40% |
+| SMA200 dist | +18.92% | Revenue (ttm) | $5.74B |
 | 52W high | $26.02 | Revenue growth y/y | 55.10% |
-| 52W low | $11.72 | Inst. ownership | 93.90% |
-| P/E (ttm) | 16.16 | Insider ownership | 4.61% |
-| Forward P/E | 10.03 | Short float | 3.82% |
-| PEG (trailing) | 0.95 | Avg volume | 9,479,715 |
-| P/S | 3.59 | Employees | 515 |
-| P/B | 1.71 | Analyst rec (1=buy..5=sell) | 1.3 |
+| 52W low | $11.72 | Inst. ownership | 94.22% |
+| P/E (ttm) | 15.87 | Insider ownership | 4.61% |
+| Forward P/E | 9.86 | Short float | 3.82% |
+| PEG (trailing) | 0.90 | Avg volume | 9,510,248 |
+| P/S | 3.52 | Employees | 515 |
+| P/B | 1.68 | Analyst rec (1=buy..5=sell) | 1.3 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

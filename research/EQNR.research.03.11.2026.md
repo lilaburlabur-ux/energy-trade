@@ -4,8 +4,8 @@ Signed file: `EQNR.research.03.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $45.40 (2026-11-03, ~15-min delayed) |
-| Market cap | $107.47B |
+| Current price | $45.56 (2026-11-03, ~15-min delayed) |
+| Market cap | $107.86B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
 | Current stance | High technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
@@ -15,11 +15,11 @@ Signed file: `EQNR.research.03.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +98.79%; price +21.81% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -7.01% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +99.60%; price +21.91% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -6.67% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 9.79%, revenue growth 26.60%. |
-| Value attractiveness | Reasonable | Forward P/E 9.14, EV/Sales 1.83. |
-| Risk level | Elevated | Beta -0.65, ATR 3.2% of price, short float 2.85%. |
+| Value attractiveness | Reasonable | Forward P/E 9.17, EV/Sales 1.83. |
+| Risk level | Elevated | Beta -0.65, ATR 3.1% of price, short float 2.85%. |
 
 **Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
 
@@ -32,25 +32,34 @@ Signed file: `EQNR.research.03.11.2026`
 ## 2. Company Overview and Recent Catalysts
 Equinor ASA operates as an energy company in Norway and internationally. It operates through Exploration & Production Norway; Exploration & Production International; Exploration & Production USA; Marketing, Midstream & Processing; and Renewables segments.
 
+**Recent headlines (potential catalysts):**
+
+| Headline | Source | Date |
+|---|---|---|
+| Equinor's Afrodite Gas Discovery: A New Growth Catalyst for EQNR? | Zacks | 2026-11-03 |
+| Lower Oil Prices Take Energy Stocks Down With Them | Barrons.com | 2026-11-02 |
+| European Equities Traded in the US as American Depositary Receipts Rise in Monday Trading | MT Newswires | 2026-11-02 |
+| Eni Begins Maha Gas Production, Boosting Indonesia's Offshore Output | Zacks | 2026-11-02 |
+
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $45.40; 52w high $48.82 (-7.01%); 52w low $21.68 (+109.41%) |
-| Trend | +21.81% vs SMA200, +2.99% vs SMA50, -0.71% vs SMA20 |
-| Momentum | RSI(14) 49.7 (neutral) |
-| Volatility | ATR(14) 1.44 (~3.2% of price); beta -0.65 |
-| Setup perspective | -7.01% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $45.56; 52w high $48.82 (-6.67%); 52w low $21.68 (+110.17%) |
+| Trend | +21.91% vs SMA200, +3.22% vs SMA50, -0.63% vs SMA20 |
+| Momentum | RSI(14) 50.3 (neutral) |
+| Volatility | ATR(14) 1.39 (~3.1% of price); beta -0.65 |
+| Setup perspective | -6.67% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -5.6% |
-| Month | +6.7% |
-| Quarter | +17.0% |
-| Half Y | +12.1% |
-| 1Y | +98.8% |
-| YTD | +91.2% |
+| Week | -3.2% |
+| Month | +7.6% |
+| Quarter | +20.7% |
+| Half Y | +12.4% |
+| 1Y | +99.6% |
+| YTD | +91.8% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -59,13 +68,13 @@ Equinor ASA operates as an energy company in Norway and internationally. It oper
 | Revenue (ttm) | $120.57B | Revenue growth 26.60% y/y |
 | Profitability | Gross 43.18%, operating 37.00%, net 9.79% | ROA 17.09%, ROE 27.57% |
 | Balance sheet | Cash $24.00B, debt $29.66B | Current ratio 1.18, debt/equity 65.92 |
-| Valuation | P/E 9.42, forward P/E 9.14, P/S 0.89, P/B 4.80 | EV/Sales 1.83, EV/EBITDA 4.60 |
+| Valuation | P/E 9.45, forward P/E 9.17, P/S 0.89, P/B 4.82 | EV/Sales 1.83, EV/EBITDA 4.60 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $40.71 (7 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 6.94% |
+| Institutional ownership | 6.95% |
 | Insider ownership | 0.00% |
 | Short float | 2.85% |
 | Short ratio (days to cover) | 4.5 |
@@ -86,7 +95,7 @@ Equinor ASA operates as an energy company in Norway and internationally. It oper
 | Voloridge Investment Management, LLC | 1,739,449 | 0.07% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta -0.65, ATR 3.2% of price, short float 2.85%. Size positions accordingly.
+- **Volatility risk:** Beta -0.65, ATR 3.1% of price, short float 2.85%. Size positions accordingly.
 - **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -102,21 +111,21 @@ Equinor ASA operates as an energy company in Norway and internationally. It oper
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $45.40 | EV/Sales | 1.83 |
-| Market cap | $107.47B | EV/EBITDA | 4.60 |
+| Price | $45.56 | EV/Sales | 1.83 |
+| Market cap | $107.86B | EV/EBITDA | 4.60 |
 | Beta | -0.65 | Gross margin | 43.18% |
-| RSI(14) | 49.7 | Operating margin | 37.00% |
-| ATR(14) | 1.44 | Profit margin | 9.79% |
-| SMA20 dist | -0.71% | ROA | 17.09% |
-| SMA50 dist | +2.99% | ROE | 27.57% |
-| SMA200 dist | +21.81% | Revenue (ttm) | $120.57B |
+| RSI(14) | 50.3 | Operating margin | 37.00% |
+| ATR(14) | 1.39 | Profit margin | 9.79% |
+| SMA20 dist | -0.63% | ROA | 17.09% |
+| SMA50 dist | +3.22% | ROE | 27.57% |
+| SMA200 dist | +21.91% | Revenue (ttm) | $120.57B |
 | 52W high | $48.82 | Revenue growth y/y | 26.60% |
-| 52W low | $21.68 | Inst. ownership | 6.94% |
-| P/E (ttm) | 9.42 | Insider ownership | 0.00% |
-| Forward P/E | 9.14 | Short float | 2.85% |
-| PEG (trailing) | 1.15 | Avg volume | 3,571,810 |
+| 52W low | $21.68 | Inst. ownership | 6.95% |
+| P/E (ttm) | 9.45 | Insider ownership | 0.00% |
+| Forward P/E | 9.17 | Short float | 2.85% |
+| PEG (trailing) | 1.07 | Avg volume | 3,617,392 |
 | P/S | 0.89 | Employees | 23,545 |
-| P/B | 4.80 | Analyst rec (1=buy..5=sell) | 3.0 |
+| P/B | 4.82 | Analyst rec (1=buy..5=sell) | 3.0 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

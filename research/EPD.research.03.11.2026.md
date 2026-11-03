@@ -4,8 +4,8 @@ Signed file: `EPD.research.03.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $37.37 (2026-11-03, ~15-min delayed) |
-| Market cap | $80.70B |
+| Current price | $37.81 (2026-11-03, ~15-min delayed) |
+| Market cap | $81.64B |
 | Sector / Industry | Energy / Oil & Gas Midstream |
 | Main theme | Oil & Gas Midstream — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `EPD.research.03.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +27.83%; price +3.13% vs SMA200. |
-| Fresh setup quality | Watch | -3.67% from 52w high and near SMA20 — check for a tight base. |
+| Technical momentum | Moderate | 1Y +30.35%; price +4.23% vs SMA200. |
+| Fresh setup quality | Watch | -2.55% from 52w high and near SMA20 — check for a tight base. |
 | Fundamental quality | Mixed | Profit margin 10.24%, revenue growth 49.30%. |
-| Value attractiveness | Reasonable | Forward P/E 11.62, EV/Sales 1.79. |
-| Risk level | Moderate | Beta 0.46, ATR 1.8% of price, short float 2.50%. |
+| Value attractiveness | Reasonable | Forward P/E 11.91, EV/Sales 1.79. |
+| Risk level | Moderate | Beta 0.46, ATR 1.9% of price, short float 2.50%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
@@ -32,25 +32,34 @@ Signed file: `EPD.research.03.11.2026`
 ## 2. Company Overview and Recent Catalysts
 Enterprise Products Partners L.P. provides midstream energy services to producers and consumers of natural gas, natural gas liquids (NGLs), crude oil, petrochemicals, and refined products. It operates in four segments: NGL Pipelines & Services; Crude Oil Pipelines & Services; Natural Gas Pipelines & Services; and Petrochemical & Refined Products Services. The NGL Pipelines & Services segment offers natural gas processing and related NGL marketing activities.
 
+**Recent headlines (potential catalysts):**
+
+| Headline | Source | Date |
+|---|---|---|
+| Enterprise Products Covers Its Distribution 1.9 Times. Here Are 3 More High-Yield Stocks | 24/7 Wall St. | 2026-11-03 |
+| 3 Best Dividend Stocks for a $100,000 Passive Income Strategy | 24/7 Wall St. | 2026-11-02 |
+| Ranking 3 Top Pipeline Stocks by Growth Prospects: Energy Transfer, Enterprise Products, and MPLX | Motley Fool | 2026-11-01 |
+| Enterprise Products Partners (EPD) Stock Slips As Q3 Earnings Highlight Cash Strength | Simply Wall St. | 2026-10-31 |
+
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $37.37; 52w high $38.80 (-3.67%); 52w low $28.47 (+31.28%) |
-| Trend | +3.13% vs SMA200, +0.69% vs SMA50, +2.61% vs SMA20 |
-| Momentum | RSI(14) 55.5 (neutral) |
-| Volatility | ATR(14) 0.68 (~1.8% of price); beta 0.46 |
-| Setup perspective | -3.67% from 52w high and near SMA20 — check for a tight base. |
+| Price vs 52-week range | Close $37.81; 52w high $38.80 (-2.55%); 52w low $28.47 (+32.81%) |
+| Trend | +4.23% vs SMA200, +1.86% vs SMA50, +3.65% vs SMA20 |
+| Momentum | RSI(14) 58.7 (neutral) |
+| Volatility | ATR(14) 0.70 (~1.9% of price); beta 0.46 |
+| Setup perspective | -2.55% from 52w high and near SMA20 — check for a tight base. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +2.5% |
-| Month | +4.8% |
-| Quarter | -0.5% |
-| Half Y | -0.5% |
-| 1Y | +27.8% |
-| YTD | +23.4% |
+| Week | +3.2% |
+| Month | +4.2% |
+| Quarter | +1.7% |
+| Half Y | +1.1% |
+| 1Y | +30.3% |
+| YTD | +24.8% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -59,13 +68,13 @@ Enterprise Products Partners L.P. provides midstream energy services to producer
 | Revenue (ttm) | $64.40B | Revenue growth 49.30% y/y |
 | Profitability | Gross 12.56%, operating 10.64%, net 10.24% | ROA —, ROE — |
 | Balance sheet | Cash $246.00M, debt $34.21B | Current ratio —, debt/equity 109.97 |
-| Valuation | P/E 12.33, forward P/E 11.62, P/S 1.25, P/B 2.67 | EV/Sales 1.79, EV/EBITDA 10.81 |
-| Growth expectations | Earnings growth 21.60%, EPS q/q 21.40% | Analyst mean target $41.62 (21 analysts) |
+| Valuation | P/E 12.48, forward P/E 11.91, P/S 1.27, P/B 2.70 | EV/Sales 1.79, EV/EBITDA 10.81 |
+| Growth expectations | Earnings growth 21.60%, EPS q/q 21.40% | Analyst mean target $41.67 (21 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 25.65% |
+| Institutional ownership | 25.64% |
 | Insider ownership | 33.05% |
 | Short float | 2.50% |
 | Short ratio (days to cover) | 5.2 |
@@ -101,21 +110,21 @@ Enterprise Products Partners L.P. provides midstream energy services to producer
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $37.37 | EV/Sales | 1.79 |
-| Market cap | $80.70B | EV/EBITDA | 10.81 |
+| Price | $37.81 | EV/Sales | 1.79 |
+| Market cap | $81.64B | EV/EBITDA | 10.81 |
 | Beta | 0.46 | Gross margin | 12.56% |
-| RSI(14) | 55.5 | Operating margin | 10.64% |
-| ATR(14) | 0.68 | Profit margin | 10.24% |
-| SMA20 dist | +2.61% | ROA | — |
-| SMA50 dist | +0.69% | ROE | — |
-| SMA200 dist | +3.13% | Revenue (ttm) | $64.40B |
+| RSI(14) | 58.7 | Operating margin | 10.64% |
+| ATR(14) | 0.70 | Profit margin | 10.24% |
+| SMA20 dist | +3.65% | ROA | — |
+| SMA50 dist | +1.86% | ROE | — |
+| SMA200 dist | +4.23% | Revenue (ttm) | $64.40B |
 | 52W high | $38.80 | Revenue growth y/y | 49.30% |
-| 52W low | $28.47 | Inst. ownership | 25.65% |
-| P/E (ttm) | 12.33 | Insider ownership | 33.05% |
-| Forward P/E | 11.62 | Short float | 2.50% |
-| PEG (trailing) | 1.35 | Avg volume | 3,242,167 |
-| P/S | 1.25 | Employees | 0 |
-| P/B | 2.67 | Analyst rec (1=buy..5=sell) | 2.3 |
+| 52W low | $28.47 | Inst. ownership | 25.64% |
+| P/E (ttm) | 12.48 | Insider ownership | 33.05% |
+| Forward P/E | 11.91 | Short float | 2.50% |
+| PEG (trailing) | 1.35 | Avg volume | 3,289,096 |
+| P/S | 1.27 | Employees | 0 |
+| P/B | 2.70 | Analyst rec (1=buy..5=sell) | 2.3 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

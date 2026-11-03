@@ -4,8 +4,8 @@ Signed file: `NXT.research.03.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $91.13 (2026-11-03, ~15-min delayed) |
-| Market cap | $14.00B |
+| Current price | $96.08 (2026-11-03, ~15-min delayed) |
+| Market cap | $14.76B |
 | Sector / Industry | Technology / Solar |
 | Main theme | Solar — see catalysts below |
 | Current stance | Low technical momentum, strong fundamentals, value: reasonable, risk: high. |
@@ -15,11 +15,11 @@ Signed file: `NXT.research.03.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-14.70%) with negative half-year (-22.06%). |
-| Fresh setup quality | Poor / broken | -41.73% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-10.07%) with negative half-year (-22.10%). |
+| Fresh setup quality | Poor / broken | -38.57% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 15.98%, revenue growth 22.50%. |
-| Value attractiveness | Reasonable | Forward P/E 15.82, EV/Sales 3.33. |
-| Risk level | High | Beta 1.93, ATR 5.5% of price, short float 8.83%. |
+| Value attractiveness | Reasonable | Forward P/E 16.68, EV/Sales 3.32. |
+| Risk level | High | Beta 1.93, ATR 5.4% of price, short float 8.91%. |
 
 **Bottom line:** Low technical momentum, strong fundamentals, value: reasonable, risk: high.
 
@@ -32,42 +32,51 @@ Signed file: `NXT.research.03.11.2026`
 ## 2. Company Overview and Recent Catalysts
 Nextpower Inc. provides solar and energy technology solutions for utility-scale power plants in the United States and internationally. It offers tracking solutions, including NX Horizon, a solar tracking solution; NX Horizon-XTR, a terrain-following tracker to expand the addressable market for trackers on sites with sloped, uneven, and challenging terrain; NX Horizon Hail Pro adds automatic stowing using weather service information; and NX Horizon Low Carbon, a solar tracker solution with a reduced carbon footprint.
 
+**Recent headlines (potential catalysts):**
+
+| Headline | Source | Date |
+|---|---|---|
+| Enphase Surges 9%, Sunrun Climbs 7%, SolarEdge Rallies 6% as Solar Rebound Extends Into Earnings | 24/7 Wall St. | 2026-11-03 |
+| All You Need to Know About Nextpower (NXT) Rating Upgrade to Buy | Zacks | 2026-11-03 |
+| Wall Street Analysts Predict a 42.73% Upside in Nextpower (NXT): Here's  What You Should Know | Zacks | 2026-11-03 |
+| Brokers Suggest Investing in Nextpower (NXT): Read This Before Placing a Bet | Zacks | 2026-11-03 |
+
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $91.13; 52w high $156.40 (-41.73%); 52w low $76.48 (+19.16%) |
-| Trend | -14.70% vs SMA200, +10.44% vs SMA50, +10.43% vs SMA20 |
-| Momentum | RSI(14) 61.8 (neutral) |
-| Volatility | ATR(14) 5.04 (~5.5% of price); beta 1.93 |
-| Setup perspective | -41.73% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $96.08; 52w high $156.40 (-38.57%); 52w low $76.48 (+25.63%) |
+| Trend | -10.07% vs SMA200, +16.12% vs SMA50, +15.87% vs SMA20 |
+| Momentum | RSI(14) 66.3 (neutral) |
+| Volatility | ATR(14) 5.20 (~5.4% of price); beta 1.93 |
+| Setup perspective | -38.57% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +19.2% |
-| Month | +8.1% |
-| Quarter | -7.4% |
+| Week | +20.9% |
+| Month | +15.8% |
+| Quarter | -3.7% |
 | Half Y | -22.1% |
-| 1Y | -8.1% |
-| YTD | -1.8% |
+| 1Y | -5.1% |
+| YTD | +3.6% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
 | Next earnings | 2027-01-27 | Next scheduled report (Yahoo estimate) |
 | Revenue (ttm) | $3.83B | Revenue growth 22.50% y/y |
-| Profitability | Gross 23.13%, operating 18.71%, net 15.98% | ROA 11.11%, ROE 26.46% |
-| Balance sheet | Cash $1.03B, debt $0 | Current ratio 2.23, debt/equity — |
-| Valuation | P/E 22.95, forward P/E 15.82, P/S 3.65, P/B 5.22 | EV/Sales 3.33, EV/EBITDA 16.40 |
+| Profitability | Gross 23.13%, operating 18.73%, net 15.98% | ROA 11.12%, ROE 26.46% |
+| Balance sheet | Cash $1.03B, debt $44.50M | Current ratio 2.23, debt/equity 1.68 |
+| Valuation | P/E 24.20, forward P/E 16.68, P/S 3.85, P/B 5.47 | EV/Sales 3.32, EV/EBITDA 16.32 |
 | Growth expectations | Earnings growth 11.30%, EPS q/q 12.70% | Analyst mean target $128.29 (28 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 108.10% |
+| Institutional ownership | 108.06% |
 | Insider ownership | 0.64% |
-| Short float | 8.83% |
+| Short float | 8.91% |
 | Short ratio (days to cover) | 4.5 |
 
 **Top institutional holders:**
@@ -86,8 +95,8 @@ Nextpower Inc. provides solar and energy technology solutions for utility-scale 
 | Fundsmith LLP | 2,856,092 | 1.88% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.93, ATR 5.5% of price, short float 8.83%. Size positions accordingly.
-- **Short interest risk:** short float 8.83% can fuel squeezes both ways around news.
+- **Volatility risk:** Beta 1.93, ATR 5.4% of price, short float 8.91%. Size positions accordingly.
+- **Short interest risk:** short float 8.91% can fuel squeezes both ways around news.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -103,25 +112,26 @@ Nextpower Inc. provides solar and energy technology solutions for utility-scale 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $91.13 | EV/Sales | 3.33 |
-| Market cap | $14.00B | EV/EBITDA | 16.40 |
+| Price | $96.08 | EV/Sales | 3.32 |
+| Market cap | $14.76B | EV/EBITDA | 16.32 |
 | Beta | 1.93 | Gross margin | 23.13% |
-| RSI(14) | 61.8 | Operating margin | 18.71% |
-| ATR(14) | 5.04 | Profit margin | 15.98% |
-| SMA20 dist | +10.43% | ROA | 11.11% |
-| SMA50 dist | +10.44% | ROE | 26.46% |
-| SMA200 dist | -14.70% | Revenue (ttm) | $3.83B |
+| RSI(14) | 66.3 | Operating margin | 18.73% |
+| ATR(14) | 5.20 | Profit margin | 15.98% |
+| SMA20 dist | +15.87% | ROA | 11.12% |
+| SMA50 dist | +16.12% | ROE | 26.46% |
+| SMA200 dist | -10.07% | Revenue (ttm) | $3.83B |
 | 52W high | $156.40 | Revenue growth y/y | 22.50% |
-| 52W low | $76.48 | Inst. ownership | 108.10% |
-| P/E (ttm) | 22.95 | Insider ownership | 0.64% |
-| Forward P/E | 15.82 | Short float | 8.83% |
-| PEG (trailing) | 3.15 | Avg volume | 2,217,671 |
-| P/S | 3.65 | Employees | 1,993 |
-| P/B | 5.22 | Analyst rec (1=buy..5=sell) | 1.4 |
+| 52W low | $76.48 | Inst. ownership | 108.06% |
+| P/E (ttm) | 24.20 | Insider ownership | 0.64% |
+| Forward P/E | 16.68 | Short float | 8.91% |
+| PEG (trailing) | 3.15 | Avg volume | 2,227,793 |
+| P/S | 3.85 | Employees | 1,993 |
+| P/B | 5.47 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-11-03 | main | GLJ Research | Buy → Buy |
 | 2026-10-31 | main | UBS | Buy → Buy |
 | 2026-10-30 | main | Wells Fargo | Overweight → Overweight |
 | 2026-10-29 | main | JP Morgan | Overweight → Overweight |
@@ -129,7 +139,6 @@ Nextpower Inc. provides solar and energy technology solutions for utility-scale 
 | 2026-10-29 | main | Needham | Buy → Buy |
 | 2026-10-21 | main | Citigroup | Buy → Buy |
 | 2026-10-21 | main | BMO Capital | Outperform → Outperform |
-| 2026-10-19 | main | JP Morgan | Overweight → Overweight |
 
 ## 9. Conclusion
 NXT: Low momentum / strong fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

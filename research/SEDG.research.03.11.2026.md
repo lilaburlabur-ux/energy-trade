@@ -4,8 +4,8 @@ Signed file: `SEDG.research.03.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $30.20 (2026-11-03, ~15-min delayed) |
-| Market cap | $1.86B |
+| Current price | $31.81 (2026-11-03, ~15-min delayed) |
+| Market cap | $1.96B |
 | Sector / Industry | Technology / Solar |
 | Main theme | Solar — see catalysts below |
 | Current stance | Low technical momentum, weak fundamentals, value: low (expensive), risk: high. |
@@ -15,11 +15,11 @@ Signed file: `SEDG.research.03.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-28.57%) with negative half-year (-27.25%). |
-| Fresh setup quality | Poor / broken | -61.53% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-24.76%) with negative half-year (-28.74%). |
+| Fresh setup quality | Poor / broken | -59.48% from 52w high — base needs to rebuild. |
 | Fundamental quality | Weak | Negative profit margin (-20.29%). |
-| Value attractiveness | Low (expensive) | Forward P/E 37.82, EV/Sales 1.29. |
-| Risk level | High | Beta 1.30, ATR 7.1% of price, short float 20.69%. |
+| Value attractiveness | Low (expensive) | Forward P/E 39.83, EV/Sales 1.29. |
+| Risk level | High | Beta 1.30, ATR 6.7% of price, short float 20.69%. |
 
 **Bottom line:** Low technical momentum, weak fundamentals, value: low (expensive), risk: high.
 
@@ -32,25 +32,34 @@ Signed file: `SEDG.research.03.11.2026`
 ## 2. Company Overview and Recent Catalysts
 SolarEdge Technologies, Inc., together with its subsidiaries, operates as an energy technology company in the United States, Europe, and internationally. The company offers power optimizers and DC-to-AC inverters; Storage Solutions, such as home battery 400V and CSS-OD solution; EV chargers for residential and commercial applications; SolarEdge ONE, an energy optimization system; and cloud-based monitoring platform.
 
+**Recent headlines (potential catalysts):**
+
+| Headline | Source | Date |
+|---|---|---|
+| Enphase Surges 9%, Sunrun Climbs 7%, SolarEdge Rallies 6% as Solar Rebound Extends Into Earnings | 24/7 Wall St. | 2026-11-03 |
+| Should You Buy First Solar Stock Now Or Wait? | Trefis | 2026-11-02 |
+| SolarEdge Technologies to Report Q3 Earnings: Here's What to Expect | Zacks | 2026-11-02 |
+| First Solar's Q3 Earnings Beat Estimates, Revenues Decrease Y/Y | Zacks | 2026-10-30 |
+
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $30.20; 52w high $78.51 (-61.53%); 52w low $28.47 (+6.09%) |
-| Trend | -28.57% vs SMA200, -8.06% vs SMA50, -5.04% vs SMA20 |
-| Momentum | RSI(14) 42.3 (neutral) |
-| Volatility | ATR(14) 2.15 (~7.1% of price); beta 1.30 |
-| Setup perspective | -61.53% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $31.81; 52w high $78.51 (-59.48%); 52w low $28.47 (+11.73%) |
+| Trend | -24.76% vs SMA200, -3.28% vs SMA50, +0.36% vs SMA20 |
+| Momentum | RSI(14) 49.1 (neutral) |
+| Volatility | ATR(14) 2.14 (~6.7% of price); beta 1.30 |
+| Setup perspective | -59.48% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -4.5% |
-| Month | -8.7% |
-| Quarter | -38.1% |
-| Half Y | -27.3% |
-| 1Y | -12.0% |
-| YTD | -3.7% |
+| Week | -1.1% |
+| Month | -7.5% |
+| Quarter | -6.2% |
+| Half Y | -28.7% |
+| 1Y | -9.3% |
+| YTD | +1.4% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -59,13 +68,13 @@ SolarEdge Technologies, Inc., together with its subsidiaries, operates as an ene
 | Revenue (ttm) | $1.33B | Revenue growth 19.60% y/y |
 | Profitability | Gross 21.25%, operating -6.51%, net -20.29% | ROA -3.84%, ROE -58.42% |
 | Balance sheet | Cash $546.94M, debt $407.35M | Current ratio 2.03, debt/equity 98.85 |
-| Valuation | P/E —, forward P/E 37.82, P/S 1.39, P/B 4.51 | EV/Sales 1.29, EV/EBITDA -14.19 |
+| Valuation | P/E —, forward P/E 39.83, P/S 1.47, P/B 4.75 | EV/Sales 1.29, EV/EBITDA -14.19 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $37.11 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 101.24% |
+| Institutional ownership | 100.60% |
 | Insider ownership | 1.12% |
 | Short float | 20.69% |
 | Short ratio (days to cover) | 4.3 |
@@ -75,10 +84,10 @@ SolarEdge Technologies, Inc., together with its subsidiaries, operates as an ene
 | Holder | Shares | % Out | Reported |
 |---|---|---|---|
 | Blackrock Inc. | 9,578,632 | 15.57% | 2026-06-30 |
+| Harel Insurance Investments & Financial Services Ltd. | 3,037,254 | 4.94% | 2026-09-30 |
 | Invesco Ltd. | 2,595,869 | 4.22% | 2026-06-30 |
 | UBS Group AG | 2,470,352 | 4.02% | 2026-06-30 |
 | Menora Mivtachim Holdings Ltd. | 2,394,421 | 3.89% | 2026-06-30 |
-| Harel Insurance Investments & Financial Services Ltd. | 2,356,378 | 3.83% | 2026-06-30 |
 | Vanguard Portfolio Management LLC | 2,161,832 | 3.51% | 2026-06-30 |
 | State Street Corporation | 1,761,901 | 2.86% | 2026-06-30 |
 | American Century Companies Inc | 1,714,096 | 2.79% | 2026-06-30 |
@@ -86,8 +95,8 @@ SolarEdge Technologies, Inc., together with its subsidiaries, operates as an ene
 | Legal & General Group PLC | 1,302,103 | 2.12% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 37.82, EV/Sales 1.29. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 1.30, ATR 7.1% of price, short float 20.69%. Size positions accordingly.
+- **Valuation risk:** Forward P/E 39.83, EV/Sales 1.29. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 1.30, ATR 6.7% of price, short float 20.69%. Size positions accordingly.
 - **Short interest risk:** short float 20.69% can fuel squeezes both ways around news.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
@@ -105,21 +114,21 @@ SolarEdge Technologies, Inc., together with its subsidiaries, operates as an ene
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $30.20 | EV/Sales | 1.29 |
-| Market cap | $1.86B | EV/EBITDA | -14.19 |
+| Price | $31.81 | EV/Sales | 1.29 |
+| Market cap | $1.96B | EV/EBITDA | -14.19 |
 | Beta | 1.30 | Gross margin | 21.25% |
-| RSI(14) | 42.3 | Operating margin | -6.51% |
-| ATR(14) | 2.15 | Profit margin | -20.29% |
-| SMA20 dist | -5.04% | ROA | -3.84% |
-| SMA50 dist | -8.06% | ROE | -58.42% |
-| SMA200 dist | -28.57% | Revenue (ttm) | $1.33B |
+| RSI(14) | 49.1 | Operating margin | -6.51% |
+| ATR(14) | 2.14 | Profit margin | -20.29% |
+| SMA20 dist | +0.36% | ROA | -3.84% |
+| SMA50 dist | -3.28% | ROE | -58.42% |
+| SMA200 dist | -24.76% | Revenue (ttm) | $1.33B |
 | 52W high | $78.51 | Revenue growth y/y | 19.60% |
-| 52W low | $28.47 | Inst. ownership | 101.24% |
+| 52W low | $28.47 | Inst. ownership | 100.60% |
 | P/E (ttm) | — | Insider ownership | 1.12% |
-| Forward P/E | 37.82 | Short float | 20.69% |
-| PEG (trailing) | — | Avg volume | 3,190,992 |
-| P/S | 1.39 | Employees | 3,576 |
-| P/B | 4.51 | Analyst rec (1=buy..5=sell) | 3.1 |
+| Forward P/E | 39.83 | Short float | 20.69% |
+| PEG (trailing) | — | Avg volume | 3,180,629 |
+| P/S | 1.47 | Employees | 3,576 |
+| P/B | 4.75 | Analyst rec (1=buy..5=sell) | 3.1 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

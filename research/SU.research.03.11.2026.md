@@ -4,8 +4,8 @@ Signed file: `SU.research.03.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $75.42 (2026-11-03, ~15-min delayed) |
-| Market cap | $89.05B |
+| Current price | $75.54 (2026-11-03, ~15-min delayed) |
+| Market cap | $88.35B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
 | Current stance | High technical momentum, strong fundamentals, value: reasonable, risk: moderate. |
@@ -15,10 +15,10 @@ Signed file: `SU.research.03.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +93.85%; price +19.66% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -5.11% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +93.72%; price +19.59% vs SMA200. |
+| Fresh setup quality | Watch | -4.96% from 52w high and near SMA20 — check for a tight base. |
 | Fundamental quality | Strong | Profit margin 15.78%, revenue growth 45.90%. |
-| Value attractiveness | Reasonable | Forward P/E 10.81, EV/Sales 1.72. |
+| Value attractiveness | Reasonable | Forward P/E 10.83, EV/Sales 1.72. |
 | Risk level | Moderate | Beta 0.47, ATR 2.9% of price, short float —. |
 
 **Bottom line:** High technical momentum, strong fundamentals, value: reasonable, risk: moderate.
@@ -32,25 +32,34 @@ Signed file: `SU.research.03.11.2026`
 ## 2. Company Overview and Recent Catalysts
 Suncor Energy Inc. operates as an integrated energy company in Canada, the United States, and internationally. The company operates through Oil Sands; Exploration and Production; and Refining and Marketing segments. The Oil Sands segment produces bitumen; and markets, supplies, and transports and manages crude oil, power, and byproducts. The Exploration and Production segment is involved in the offshore operations on the east coast of Canada, and onshore assets in Libya and Syria; and marketing and risk management of crude oil.
 
+**Recent headlines (potential catalysts):**
+
+| Headline | Source | Date |
+|---|---|---|
+| 3 Canadian Value Stocks Trading Up To 32% Below Fair Value | Simply Wall St. | 2026-11-03 |
+| 3 Canadian Undervalued Stocks Trading Up To 39% Below Fair Value | Simply Wall St. | 2026-11-02 |
+| Zacks.com featured highlights include Alphabet, GormanRupp, Micron, Corning, Suncor Energy and Plains All American Pipeline | Zacks | 2026-11-02 |
+| 3 Integrated Oil Majors Whose Cash Flow Outlook Just Got Clearer | Simply Wall St. | 2026-11-01 |
+
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $75.42; 52w high $79.48 (-5.11%); 52w low $38.70 (+94.88%) |
-| Trend | +19.66% vs SMA200, +6.05% vs SMA50, -0.51% vs SMA20 |
-| Momentum | RSI(14) 52.0 (neutral) |
-| Volatility | ATR(14) 2.22 (~2.9% of price); beta 0.47 |
-| Setup perspective | -5.11% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $75.54; 52w high $79.48 (-4.96%); 52w low $38.70 (+95.20%) |
+| Trend | +19.59% vs SMA200, +5.96% vs SMA50, -0.83% vs SMA20 |
+| Momentum | RSI(14) 52.3 (neutral) |
+| Volatility | ATR(14) 2.18 (~2.9% of price); beta 0.47 |
+| Setup perspective | -4.96% from 52w high and near SMA20 — check for a tight base. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -5.1% |
-| Month | +8.4% |
-| Quarter | +17.8% |
-| Half Y | +11.4% |
-| 1Y | +93.9% |
-| YTD | +68.9% |
+| Week | -0.9% |
+| Month | +9.8% |
+| Quarter | +21.0% |
+| Half Y | +9.9% |
+| 1Y | +93.7% |
+| YTD | +69.2% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -59,13 +68,13 @@ Suncor Energy Inc. operates as an integrated energy company in Canada, the Unite
 | Revenue (ttm) | $56.57B | Revenue growth 45.90% y/y |
 | Profitability | Gross 60.40%, operating 29.94%, net 15.78% | ROA 8.58%, ROE 19.25% |
 | Balance sheet | Cash $5.37B, debt $14.68B | Current ratio 1.65, debt/equity 30.48 |
-| Valuation | P/E 13.92, forward P/E 10.81, P/S 1.57, P/B 2.58 | EV/Sales 1.72, EV/EBITDA 5.00 |
-| Growth expectations | Earnings growth 241.90%, EPS q/q 229.10% | Analyst mean target $75.39 (3 analysts) |
+| Valuation | P/E 13.94, forward P/E 10.83, P/S 1.56, P/B 2.58 | EV/Sales 1.72, EV/EBITDA 5.00 |
+| Growth expectations | Earnings growth 241.90%, EPS q/q 229.10% | Analyst mean target $75.32 (3 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 72.64% |
+| Institutional ownership | 72.65% |
 | Insider ownership | 0.01% |
 | Short float | — |
 | Short ratio (days to cover) | 4.1 |
@@ -101,20 +110,20 @@ Suncor Energy Inc. operates as an integrated energy company in Canada, the Unite
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $75.42 | EV/Sales | 1.72 |
-| Market cap | $89.05B | EV/EBITDA | 5.00 |
+| Price | $75.54 | EV/Sales | 1.72 |
+| Market cap | $88.35B | EV/EBITDA | 5.00 |
 | Beta | 0.47 | Gross margin | 60.40% |
-| RSI(14) | 52.0 | Operating margin | 29.94% |
-| ATR(14) | 2.22 | Profit margin | 15.78% |
-| SMA20 dist | -0.51% | ROA | 8.58% |
-| SMA50 dist | +6.05% | ROE | 19.25% |
-| SMA200 dist | +19.66% | Revenue (ttm) | $56.57B |
+| RSI(14) | 52.3 | Operating margin | 29.94% |
+| ATR(14) | 2.18 | Profit margin | 15.78% |
+| SMA20 dist | -0.83% | ROA | 8.58% |
+| SMA50 dist | +5.96% | ROE | 19.25% |
+| SMA200 dist | +19.59% | Revenue (ttm) | $56.57B |
 | 52W high | $79.48 | Revenue growth y/y | 45.90% |
-| 52W low | $38.70 | Inst. ownership | 72.64% |
-| P/E (ttm) | 13.92 | Insider ownership | 0.01% |
-| Forward P/E | 10.81 | Short float | — |
-| PEG (trailing) | — | Avg volume | 4,149,417 |
-| P/S | 1.57 | Employees | 15,424 |
+| 52W low | $38.70 | Inst. ownership | 72.65% |
+| P/E (ttm) | 13.94 | Insider ownership | 0.01% |
+| Forward P/E | 10.83 | Short float | — |
+| PEG (trailing) | — | Avg volume | 4,169,057 |
+| P/S | 1.56 | Employees | 15,424 |
 | P/B | 2.58 | Analyst rec (1=buy..5=sell) | 1.9 |
 
 ## 8. Analyst Actions

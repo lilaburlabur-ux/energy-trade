@@ -4,8 +4,8 @@ Signed file: `CEG.research.03.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $257.25 (2026-11-03, ~15-min delayed) |
-| Market cap | $91.15B |
+| Current price | $263.06 (2026-11-03, ~15-min delayed) |
+| Market cap | $93.20B |
 | Sector / Industry | Utilities / Utilities - Independent Power Producers |
 | Main theme | Utilities - Independent Power Producers — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
@@ -15,11 +15,11 @@ Signed file: `CEG.research.03.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-7.81%) with negative half-year (-19.62%). |
-| Fresh setup quality | Poor / broken | -31.75% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-5.66%) with negative half-year (-17.65%). |
+| Fresh setup quality | Poor / broken | -30.21% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 11.08%, revenue growth 23.00%. |
-| Value attractiveness | Reasonable | Forward P/E 19.19, EV/Sales 3.69. |
-| Risk level | Elevated | Beta 1.13, ATR 4.6% of price, short float 3.75%. |
+| Value attractiveness | Reasonable | Forward P/E 19.58, EV/Sales 3.69. |
+| Risk level | Elevated | Beta 1.13, ATR 4.5% of price, short float 3.75%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
 
@@ -32,25 +32,34 @@ Signed file: `CEG.research.03.11.2026`
 ## 2. Company Overview and Recent Catalysts
 Constellation Energy Corporation produces and sells energy products and services in the United States. The company operates through five segments: Mid-Atlantic, Midwest, New York, ERCOT, and Other Power Regions. It offers electricity, natural gas, energy-related products, and sustainable solutions. The company has approximately 31,676 megawatts of generating capacity consisting of nuclear, wind, solar, natural gas, and hydroelectric assets. It serves distribution utilities, municipalities, cooperatives, and commercial, industrial, public sector, and residential customers.
 
+**Recent headlines (potential catalysts):**
+
+| Headline | Source | Date |
+|---|---|---|
+| Vistra Gains 5% as Talen Guides 2027 EBITDA Up 26% on “Strong PJM Fundamentals” | TIKR | 2026-11-03 |
+| PSEG Power plans 200-MW nuclear uprate as company eyes data center deals | Utility Dive | 2026-11-03 |
+| Constellation Energy Corporation (CEG) Declines More Than Market: Some Information for Investors | Zacks | 2026-11-02 |
+| Constellation Energy vs. NextEra Energy: Which Utilities Stock Is a Better Buy for 2027? | Motley Fool | 2026-11-02 |
+
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $257.25; 52w high $376.93 (-31.75%); 52w low $236.14 (+8.94%) |
-| Trend | -7.81% vs SMA200, -5.53% vs SMA50, -5.66% vs SMA20 |
-| Momentum | RSI(14) 43.8 (neutral) |
-| Volatility | ATR(14) 11.93 (~4.6% of price); beta 1.13 |
-| Setup perspective | -31.75% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $263.06; 52w high $376.93 (-30.21%); 52w low $236.14 (+11.40%) |
+| Trend | -5.66% vs SMA200, -3.33% vs SMA50, -2.87% vs SMA20 |
+| Momentum | RSI(14) 47.6 (neutral) |
+| Volatility | ATR(14) 11.82 (~4.5% of price); beta 1.13 |
+| Setup perspective | -30.21% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +1.9% |
-| Month | -0.1% |
-| Quarter | -3.6% |
-| Half Y | -19.6% |
-| 1Y | -32.4% |
-| YTD | -29.4% |
+| Week | +1.6% |
+| Month | -1.7% |
+| Quarter | -0.6% |
+| Half Y | -17.6% |
+| 1Y | -29.8% |
+| YTD | -27.9% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -59,13 +68,13 @@ Constellation Energy Corporation produces and sells energy products and services
 | Revenue (ttm) | $31.27B | Revenue growth 23.00% y/y |
 | Profitability | Gross 22.11%, operating 8.66%, net 11.08% | ROA 3.89%, ROE 15.06% |
 | Balance sheet | Cash $697.00M, debt $24.70B | Current ratio 1.46, debt/equity 76.42 |
-| Valuation | P/E 25.15, forward P/E 19.19, P/S 2.91, P/B 2.86 | EV/Sales 3.69, EV/EBITDA 14.52 |
+| Valuation | P/E 25.71, forward P/E 19.58, P/S 2.98, P/B 2.92 | EV/Sales 3.69, EV/EBITDA 14.52 |
 | Growth expectations | Earnings growth -46.80%, EPS q/q -38.90% | Analyst mean target $339.25 (23 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 82.89% |
+| Institutional ownership | 82.93% |
 | Insider ownership | 0.34% |
 | Short float | 3.75% |
 | Short ratio (days to cover) | 3.0 |
@@ -86,7 +95,7 @@ Constellation Energy Corporation produces and sells energy products and services
 | FMR, LLC | 6,538,601 | 1.85% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.13, ATR 4.6% of price, short float 3.75%. Size positions accordingly.
+- **Volatility risk:** Beta 1.13, ATR 4.5% of price, short float 3.75%. Size positions accordingly.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -102,21 +111,21 @@ Constellation Energy Corporation produces and sells energy products and services
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $257.25 | EV/Sales | 3.69 |
-| Market cap | $91.15B | EV/EBITDA | 14.52 |
+| Price | $263.06 | EV/Sales | 3.69 |
+| Market cap | $93.20B | EV/EBITDA | 14.52 |
 | Beta | 1.13 | Gross margin | 22.11% |
-| RSI(14) | 43.8 | Operating margin | 8.66% |
-| ATR(14) | 11.93 | Profit margin | 11.08% |
-| SMA20 dist | -5.66% | ROA | 3.89% |
-| SMA50 dist | -5.53% | ROE | 15.06% |
-| SMA200 dist | -7.81% | Revenue (ttm) | $31.27B |
+| RSI(14) | 47.6 | Operating margin | 8.66% |
+| ATR(14) | 11.82 | Profit margin | 11.08% |
+| SMA20 dist | -2.87% | ROA | 3.89% |
+| SMA50 dist | -3.33% | ROE | 15.06% |
+| SMA200 dist | -5.66% | Revenue (ttm) | $31.27B |
 | 52W high | $376.93 | Revenue growth y/y | 23.00% |
-| 52W low | $236.14 | Inst. ownership | 82.89% |
-| P/E (ttm) | 25.15 | Insider ownership | 0.34% |
-| Forward P/E | 19.19 | Short float | 3.75% |
-| PEG (trailing) | — | Avg volume | 3,237,431 |
-| P/S | 2.91 | Employees | 15,291 |
-| P/B | 2.86 | Analyst rec (1=buy..5=sell) | 1.6 |
+| 52W low | $236.14 | Inst. ownership | 82.93% |
+| P/E (ttm) | 25.71 | Insider ownership | 0.34% |
+| Forward P/E | 19.58 | Short float | 3.75% |
+| PEG (trailing) | — | Avg volume | 3,253,792 |
+| P/S | 2.98 | Employees | 15,291 |
+| P/B | 2.92 | Analyst rec (1=buy..5=sell) | 1.6 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

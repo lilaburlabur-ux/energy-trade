@@ -4,8 +4,8 @@ Signed file: `TTE.research.03.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $92.78 (2026-11-03, ~15-min delayed) |
-| Market cap | $204.33B |
+| Current price | $92.54 (2026-11-03, ~15-min delayed) |
+| Market cap | $203.41B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `TTE.research.03.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +56.29%; price +9.97% vs SMA200. |
-| Fresh setup quality | Watch | -2.67% from 52w high and near SMA20 — check for a tight base. |
+| Technical momentum | Moderate | 1Y +54.39%; price +9.51% vs SMA200. |
+| Fresh setup quality | Watch | -2.92% from 52w high and near SMA20 — check for a tight base. |
 | Fundamental quality | Mixed | Profit margin 10.46%, revenue growth 41.10%. |
-| Value attractiveness | Reasonable | Forward P/E 8.02, EV/Sales 1.09. |
-| Risk level | Moderate | Beta 0.04, ATR 2.0% of price, short float 0.22%. |
+| Value attractiveness | Reasonable | Forward P/E 8.00, EV/Sales 1.09. |
+| Risk level | Moderate | Beta 0.04, ATR 1.9% of price, short float 0.22%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
@@ -32,25 +32,34 @@ Signed file: `TTE.research.03.11.2026`
 ## 2. Company Overview and Recent Catalysts
 TotalEnergies SE, an integrated energy company, produces and markets oil and biofuels, natural gas, biogas and low-carbon hydrogen, renewables, and electricity in France, the United States, Europe, Africa, and internationally. It operates through Exploration & Production, Integrated LNG, Integrated Power, Refining & Chemicals, and Marketing & Services segments. The Exploration & Production segment engages in the activities of exploration and production of oil and natural gas, as well as carbon storage.
 
+**Recent headlines (potential catalysts):**
+
+| Headline | Source | Date |
+|---|---|---|
+| Energy Transfer Q3 Earnings Miss Estimates Despite Record Gas Volumes | Zacks | 2026-11-03 |
+| ADNOC Gas to Supply LNG to TotalEnergies Under Five-Year Deal | Oilprice.com | 2026-11-03 |
+| TotalEnergies (ENXTPA:TTE) Takes 30% Operated Stake In Two Major Malaysia Gas Fields | Simply Wall St. | 2026-11-03 |
+| Top Integrated Oil Stock According To TD Cowen | Investing.com | 2026-11-02 |
+
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $92.78; 52w high $95.33 (-2.67%); 52w low $58.74 (+57.95%) |
-| Trend | +9.97% vs SMA200, +4.17% vs SMA50, +2.95% vs SMA20 |
-| Momentum | RSI(14) 57.8 (neutral) |
-| Volatility | ATR(14) 1.84 (~2.0% of price); beta 0.04 |
-| Setup perspective | -2.67% from 52w high and near SMA20 — check for a tight base. |
+| Price vs 52-week range | Close $92.54; 52w high $95.33 (-2.92%); 52w low $58.74 (+57.55%) |
+| Trend | +9.51% vs SMA200, +3.80% vs SMA50, +2.21% vs SMA20 |
+| Momentum | RSI(14) 56.9 (neutral) |
+| Volatility | ATR(14) 1.79 (~1.9% of price); beta 0.04 |
+| Setup perspective | -2.92% from 52w high and near SMA20 — check for a tight base. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -1.0% |
-| Month | +9.9% |
-| Quarter | +10.2% |
-| Half Y | +1.7% |
-| 1Y | +56.3% |
-| YTD | +42.7% |
+| Week | +0.2% |
+| Month | +9.7% |
+| Quarter | +10.5% |
+| Half Y | +0.0% |
+| 1Y | +54.4% |
+| YTD | +42.3% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -59,7 +68,7 @@ TotalEnergies SE, an integrated energy company, produces and markets oil and bio
 | Revenue (ttm) | $214.40B | Revenue growth 41.10% y/y |
 | Profitability | Gross 39.18%, operating 24.51%, net 10.46% | ROA 7.19%, ROE 17.83% |
 | Balance sheet | Cash $37.80B, debt $63.17B | Current ratio 1.11, debt/equity 46.12 |
-| Valuation | P/E 9.26, forward P/E 8.02, P/S 0.95, P/B 1.54 | EV/Sales 1.09, EV/EBITDA 4.82 |
+| Valuation | P/E 9.24, forward P/E 8.00, P/S 0.95, P/B 1.54 | EV/Sales 1.09, EV/EBITDA 4.82 |
 | Growth expectations | Earnings growth 123.20%, EPS q/q 124.40% | Analyst mean target $99.65 (10 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -101,19 +110,19 @@ TotalEnergies SE, an integrated energy company, produces and markets oil and bio
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $92.78 | EV/Sales | 1.09 |
-| Market cap | $204.33B | EV/EBITDA | 4.82 |
+| Price | $92.54 | EV/Sales | 1.09 |
+| Market cap | $203.41B | EV/EBITDA | 4.82 |
 | Beta | 0.04 | Gross margin | 39.18% |
-| RSI(14) | 57.8 | Operating margin | 24.51% |
-| ATR(14) | 1.84 | Profit margin | 10.46% |
-| SMA20 dist | +2.95% | ROA | 7.19% |
-| SMA50 dist | +4.17% | ROE | 17.83% |
-| SMA200 dist | +9.97% | Revenue (ttm) | $214.40B |
+| RSI(14) | 56.9 | Operating margin | 24.51% |
+| ATR(14) | 1.79 | Profit margin | 10.46% |
+| SMA20 dist | +2.21% | ROA | 7.19% |
+| SMA50 dist | +3.80% | ROE | 17.83% |
+| SMA200 dist | +9.51% | Revenue (ttm) | $214.40B |
 | 52W high | $95.33 | Revenue growth y/y | 41.10% |
 | 52W low | $58.74 | Inst. ownership | 54.21% |
-| P/E (ttm) | 9.26 | Insider ownership | 8.86% |
-| Forward P/E | 8.02 | Short float | 0.22% |
-| PEG (trailing) | 0.72 | Avg volume | 1,799,265 |
+| P/E (ttm) | 9.24 | Insider ownership | 8.86% |
+| Forward P/E | 8.00 | Short float | 0.22% |
+| PEG (trailing) | 0.69 | Avg volume | 1,795,253 |
 | P/S | 0.95 | Employees | 94,847 |
 | P/B | 1.54 | Analyst rec (1=buy..5=sell) | 2.1 |
 

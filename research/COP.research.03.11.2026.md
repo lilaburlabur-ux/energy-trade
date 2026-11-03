@@ -4,8 +4,8 @@ Signed file: `COP.research.03.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $146.84 (2026-11-03, ~15-min delayed) |
-| Market cap | $176.40B |
+| Current price | $144.34 (2026-11-03, ~15-min delayed) |
+| Market cap | $173.40B |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
 | Current stance | High technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,10 +15,10 @@ Signed file: `COP.research.03.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +71.85%; price +21.78% vs SMA200. |
-| Fresh setup quality | Watch | -4.67% from 52w high and near SMA20 — check for a tight base. |
+| Technical momentum | High | 1Y +67.55%; price +19.47% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -6.29% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 14.40%, revenue growth 35.50%. |
-| Value attractiveness | Reasonable | Forward P/E 13.45, EV/Sales 2.98. |
+| Value attractiveness | Reasonable | Forward P/E 13.22, EV/Sales 2.98. |
 | Risk level | Moderate | Beta 0.16, ATR 2.6% of price, short float 1.55%. |
 
 **Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -32,25 +32,34 @@ Signed file: `COP.research.03.11.2026`
 ## 2. Company Overview and Recent Catalysts
 ConocoPhillips explores for, produces, transports, and markets crude oil, bitumen, natural gas, liquefied natural gas (LNG), and natural gas liquids. It operates in five segments: Alaska; Lower 48; Canada; Europe, Middle East and North Africa; and Asia Pacific. The company's portfolio includes unconventional plays in North America; conventional assets in North America, Europe, Asia, and Australia; global LNG developments; oil sands assets in Canada; and an inventory of global exploration prospects.
 
+**Recent headlines (potential catalysts):**
+
+| Headline | Source | Date |
+|---|---|---|
+| Earnings live updates: Pfizer lifts outlook as it continues to develop cancer and obesity drug pipeline | Yahoo Finance | 2026-11-02 |
+| 4 Energy Stocks That Could Surpass Q3 Earnings Estimates | Zacks | 2026-11-03 |
+| Insights Into ConocoPhillips (COP) Q3: Wall Street Projections for Key Metrics | Zacks | 2026-11-03 |
+| Top Stock Reports for Seagate, Chubb & Intercontinental | Zacks | 2026-11-02 |
+
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $146.84; 52w high $154.03 (-4.67%); 52w low $83.04 (+76.83%) |
-| Trend | +21.78% vs SMA200, +7.68% vs SMA50, +2.36% vs SMA20 |
-| Momentum | RSI(14) 57.9 (neutral) |
-| Volatility | ATR(14) 3.77 (~2.6% of price); beta 0.16 |
-| Setup perspective | -4.67% from 52w high and near SMA20 — check for a tight base. |
+| Price vs 52-week range | Close $144.34; 52w high $154.03 (-6.29%); 52w low $83.04 (+73.81%) |
+| Trend | +19.47% vs SMA200, +5.67% vs SMA50, +0.09% vs SMA20 |
+| Momentum | RSI(14) 53.5 (neutral) |
+| Volatility | ATR(14) 3.73 (~2.6% of price); beta 0.16 |
+| Setup perspective | -6.29% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -3.0% |
-| Month | +15.9% |
-| Quarter | +25.3% |
-| Half Y | +19.2% |
-| 1Y | +71.9% |
-| YTD | +55.2% |
+| Week | -2.4% |
+| Month | +12.4% |
+| Quarter | +26.3% |
+| Half Y | +18.7% |
+| 1Y | +67.6% |
+| YTD | +52.6% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -59,13 +68,13 @@ ConocoPhillips explores for, produces, transports, and markets crude oil, bitume
 | Revenue (ttm) | $64.46B | Revenue growth 35.50% y/y |
 | Profitability | Gross 47.57%, operating 31.51%, net 14.40% | ROA 7.53%, ROE 14.18% |
 | Balance sheet | Cash $7.69B, debt $23.29B | Current ratio 1.54, debt/equity 35.64 |
-| Valuation | P/E 19.45, forward P/E 13.45, P/S 2.74, P/B 2.70 | EV/Sales 2.98, EV/EBITDA 7.17 |
+| Valuation | P/E 19.12, forward P/E 13.22, P/S 2.69, P/B 2.65 | EV/Sales 2.98, EV/EBITDA 7.17 |
 | Growth expectations | Earnings growth 107.00%, EPS q/q 99.40% | Analyst mean target $151.56 (27 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 87.12% |
+| Institutional ownership | 86.95% |
 | Insider ownership | 0.10% |
 | Short float | 1.55% |
 | Short ratio (days to cover) | 2.8 |
@@ -101,21 +110,21 @@ ConocoPhillips explores for, produces, transports, and markets crude oil, bitume
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $146.84 | EV/Sales | 2.98 |
-| Market cap | $176.40B | EV/EBITDA | 7.17 |
+| Price | $144.34 | EV/Sales | 2.98 |
+| Market cap | $173.40B | EV/EBITDA | 7.17 |
 | Beta | 0.16 | Gross margin | 47.57% |
-| RSI(14) | 57.9 | Operating margin | 31.51% |
-| ATR(14) | 3.77 | Profit margin | 14.40% |
-| SMA20 dist | +2.36% | ROA | 7.53% |
-| SMA50 dist | +7.68% | ROE | 14.18% |
-| SMA200 dist | +21.78% | Revenue (ttm) | $64.46B |
+| RSI(14) | 53.5 | Operating margin | 31.51% |
+| ATR(14) | 3.73 | Profit margin | 14.40% |
+| SMA20 dist | +0.09% | ROA | 7.53% |
+| SMA50 dist | +5.67% | ROE | 14.18% |
+| SMA200 dist | +19.47% | Revenue (ttm) | $64.46B |
 | 52W high | $154.03 | Revenue growth y/y | 35.50% |
-| 52W low | $83.04 | Inst. ownership | 87.12% |
-| P/E (ttm) | 19.45 | Insider ownership | 0.10% |
-| Forward P/E | 13.45 | Short float | 1.55% |
-| PEG (trailing) | 1.14 | Avg volume | 6,530,214 |
-| P/S | 2.74 | Employees | 9,600 |
-| P/B | 2.70 | Analyst rec (1=buy..5=sell) | 1.9 |
+| 52W low | $83.04 | Inst. ownership | 86.95% |
+| P/E (ttm) | 19.12 | Insider ownership | 0.10% |
+| Forward P/E | 13.22 | Short float | 1.55% |
+| PEG (trailing) | 1.14 | Avg volume | 6,571,678 |
+| P/S | 2.69 | Employees | 9,600 |
+| P/B | 2.65 | Analyst rec (1=buy..5=sell) | 1.9 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

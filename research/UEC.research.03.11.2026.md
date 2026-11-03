@@ -15,11 +15,11 @@ Signed file: `UEC.research.03.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-39.79%) with negative half-year (-49.33%). |
+| Technical momentum | Low | Below SMA200 (-39.54%) with negative half-year (-48.21%). |
 | Fresh setup quality | Poor / broken | -62.71% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 0.00%, revenue growth —. |
 | Value attractiveness | Reasonable | Forward P/E -101.49, EV/Sales 86.69. |
-| Risk level | High | Beta 1.37, ATR 7.2% of price, short float 15.41%. |
+| Risk level | High | Beta 1.37, ATR 7.0% of price, short float 15.41%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: high.
 
@@ -32,24 +32,33 @@ Signed file: `UEC.research.03.11.2026`
 ## 2. Company Overview and Recent Catalysts
 Uranium Energy Corp., together with its subsidiaries, engages in the exploration, pre-extraction, extraction, and processing of uranium and titanium concentrates properties in the United States, Canada, and the Republic of Paraguay. Its principal projects are located in Wyoming and Texas in the United States, as well as in Saskatchewan, Canada. The company was formerly known as Carlin Gold Inc. and changed its name to Uranium Energy Corp. in January 2005. The company was incorporated in 2003 and is headquartered in Corpus Christi, Texas.
 
+**Recent headlines (potential catalysts):**
+
+| Headline | Source | Date |
+|---|---|---|
+| What Is Behind The Move In Cameco Stock? | Trefis | 2026-11-02 |
+| Why Is Uranium Energy (UEC) Down 11.8% Since Last Earnings Report? | Zacks | 2026-10-29 |
+| Azincourt Energy Advances Labrador Uranium Exploration With New Snegamook Drilling Results | Insider Monkey | 2026-10-26 |
+| How Security Council Appointments Will Impact Uranium Energy Stock | Simply Wall St. | 2026-10-23 |
+
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
 | Price vs 52-week range | Close $7.51; 52w high $20.14 (-62.71%); 52w low $7.35 (+2.18%) |
-| Trend | -39.79% vs SMA200, -23.12% vs SMA50, -8.64% vs SMA20 |
+| Trend | -39.54% vs SMA200, -22.33% vs SMA50, -7.17% vs SMA20 |
 | Momentum | RSI(14) 36.4 (neutral) |
-| Volatility | ATR(14) 0.54 (~7.2% of price); beta 1.37 |
+| Volatility | ATR(14) 0.52 (~7.0% of price); beta 1.37 |
 | Setup perspective | -62.71% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +0.9% |
-| Month | -19.2% |
-| Quarter | -28.5% |
-| Half Y | -49.3% |
-| 1Y | -51.6% |
+| Week | -6.6% |
+| Month | -19.7% |
+| Quarter | -29.9% |
+| Half Y | -48.2% |
+| 1Y | -50.4% |
 | YTD | -42.7% |
 
 ## 4. Fundamental Analysis
@@ -65,7 +74,7 @@ Uranium Energy Corp., together with its subsidiaries, engages in the exploration
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 90.63% |
+| Institutional ownership | 90.22% |
 | Insider ownership | 1.82% |
 | Short float | 15.41% |
 | Short ratio (days to cover) | 6.0 |
@@ -86,7 +95,7 @@ Uranium Energy Corp., together with its subsidiaries, engages in the exploration
 | Alps Advisors Inc. | 9,829,329 | 1.98% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.37, ATR 7.2% of price, short float 15.41%. Size positions accordingly.
+- **Volatility risk:** Beta 1.37, ATR 7.0% of price, short float 15.41%. Size positions accordingly.
 - **Short interest risk:** short float 15.41% can fuel squeezes both ways around news.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
@@ -107,15 +116,15 @@ Uranium Energy Corp., together with its subsidiaries, engages in the exploration
 | Market cap | $3.72B | EV/EBITDA | -25.58 |
 | Beta | 1.37 | Gross margin | -183.96% |
 | RSI(14) | 36.4 | Operating margin | -228.60% |
-| ATR(14) | 0.54 | Profit margin | 0.00% |
-| SMA20 dist | -8.64% | ROA | -6.35% |
-| SMA50 dist | -23.12% | ROE | -11.64% |
-| SMA200 dist | -39.79% | Revenue (ttm) | $37.25M |
+| ATR(14) | 0.52 | Profit margin | 0.00% |
+| SMA20 dist | -7.17% | ROA | -6.35% |
+| SMA50 dist | -22.33% | ROE | -11.64% |
+| SMA200 dist | -39.54% | Revenue (ttm) | $37.25M |
 | 52W high | $20.14 | Revenue growth y/y | — |
-| 52W low | $7.35 | Inst. ownership | 90.63% |
+| 52W low | $7.35 | Inst. ownership | 90.22% |
 | P/E (ttm) | — | Insider ownership | 1.82% |
 | Forward P/E | -101.49 | Short float | 15.41% |
-| PEG (trailing) | — | Avg volume | 9,080,612 |
+| PEG (trailing) | — | Avg volume | 9,095,360 |
 | P/S | 99.92 | Employees | 257 |
 | P/B | 2.71 | Analyst rec (1=buy..5=sell) | 1.7 |
 

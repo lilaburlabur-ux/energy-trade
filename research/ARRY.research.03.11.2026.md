@@ -4,8 +4,8 @@ Signed file: `ARRY.research.03.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $3.80 (2026-11-03, ~15-min delayed) |
-| Market cap | $584.54M |
+| Current price | $4.61 (2026-11-03, ~15-min delayed) |
+| Market cap | $710.75M |
 | Sector / Industry | Technology / Solar |
 | Main theme | Solar — see catalysts below |
 | Current stance | Low technical momentum, weak fundamentals, value: reasonable, risk: high. |
@@ -15,10 +15,10 @@ Signed file: `ARRY.research.03.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-44.69%) with negative half-year (-50.39%). |
-| Fresh setup quality | Poor / broken | -68.23% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-32.58%) with negative half-year (-43.58%). |
+| Fresh setup quality | Poor / broken | -61.41% from 52w high — base needs to rebuild. |
 | Fundamental quality | Weak | Negative profit margin (-7.25%). |
-| Value attractiveness | Reasonable | Forward P/E 4.08, EV/Sales 1.29. |
+| Value attractiveness | Reasonable | Forward P/E 4.95, EV/Sales 1.29. |
 | Risk level | High | Beta 1.78, ATR 6.1% of price, short float 35.49%. |
 
 **Bottom line:** Low technical momentum, weak fundamentals, value: reasonable, risk: high.
@@ -32,25 +32,34 @@ Signed file: `ARRY.research.03.11.2026`
 ## 2. Company Overview and Recent Catalysts
 Array Technologies, Inc. engages in the manufacture and sale of solar tracking technology products in the United States, Spain, Brazil, Australia, and internationally. It operates through two segments, Array Legacy Operations and STI Operations. The company's products portfolio includes DuraTrack HZ V3, a single axis tracker; Array STI H250, a dual-row tracker system; Array OmniTrack; Array SkyLink, a photovoltaic-powered control tracker system; and SmarTrack, a software and control-based product. Array Technologies, Inc.
 
+**Recent headlines (potential catalysts):**
+
+| Headline | Source | Date |
+|---|---|---|
+| 3 Clean Energy Stocks Retail Investors Are Watching After The 2026 Blue Wave Shift | Simply Wall St. | 2026-11-02 |
+| First Solar's Q3 Earnings Beat Estimates, Revenues Decrease Y/Y | Zacks | 2026-10-30 |
+| Array Technologies, Inc. (ARRY) Expected to Beat Earnings Estimates: Can the Stock Move Higher? | Zacks | 2026-10-29 |
+| First Solar to Release Q3 Earnings: Here's What to Expect | Zacks | 2026-10-27 |
+
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $3.80; 52w high $11.96 (-68.23%); 52w low $3.15 (+20.63%) |
-| Trend | -44.69% vs SMA200, -4.52% vs SMA50, +8.26% vs SMA20 |
-| Momentum | RSI(14) 53.7 (neutral) |
-| Volatility | ATR(14) 0.23 (~6.1% of price); beta 1.78 |
-| Setup perspective | -68.23% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $4.61; 52w high $11.96 (-61.41%); 52w low $3.15 (+46.51%) |
+| Trend | -32.58% vs SMA200, +15.93% vs SMA50, +30.45% vs SMA20 |
+| Momentum | RSI(14) 67.8 (neutral) |
+| Volatility | ATR(14) 0.28 (~6.1% of price); beta 1.78 |
+| Setup perspective | -61.41% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +20.6% |
-| Month | -6.9% |
-| Quarter | -36.8% |
-| Half Y | -50.4% |
-| 1Y | -54.7% |
-| YTD | -60.7% |
+| Week | +36.1% |
+| Month | +18.3% |
+| Quarter | -18.2% |
+| Half Y | -43.6% |
+| 1Y | -46.7% |
+| YTD | -52.3% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -59,13 +68,13 @@ Array Technologies, Inc. engages in the manufacture and sale of solar tracking t
 | Revenue (ttm) | $1.19B | Revenue growth -5.60% y/y |
 | Profitability | Gross 26.76%, operating 10.88%, net -7.25% | ROA 3.33%, ROE -25.98% |
 | Balance sheet | Cash $307.30M, debt $752.89M | Current ratio 2.20, debt/equity 254.27 |
-| Valuation | P/E —, forward P/E 4.08, P/S 0.49, P/B -2.90 | EV/Sales 1.29, EV/EBITDA 12.81 |
+| Valuation | P/E —, forward P/E 4.95, P/S 0.60, P/B -3.52 | EV/Sales 1.29, EV/EBITDA 12.81 |
 | Growth expectations | Earnings growth -73.20%, EPS q/q -43.70% | Analyst mean target $6.94 (22 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 147.85% |
+| Institutional ownership | 145.71% |
 | Insider ownership | 0.79% |
 | Short float | 35.49% |
 | Short ratio (days to cover) | 6.2 |
@@ -104,21 +113,21 @@ Array Technologies, Inc. engages in the manufacture and sale of solar tracking t
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $3.80 | EV/Sales | 1.29 |
-| Market cap | $584.54M | EV/EBITDA | 12.81 |
+| Price | $4.61 | EV/Sales | 1.29 |
+| Market cap | $710.75M | EV/EBITDA | 12.81 |
 | Beta | 1.78 | Gross margin | 26.76% |
-| RSI(14) | 53.7 | Operating margin | 10.88% |
-| ATR(14) | 0.23 | Profit margin | -7.25% |
-| SMA20 dist | +8.26% | ROA | 3.33% |
-| SMA50 dist | -4.52% | ROE | -25.98% |
-| SMA200 dist | -44.69% | Revenue (ttm) | $1.19B |
+| RSI(14) | 67.8 | Operating margin | 10.88% |
+| ATR(14) | 0.28 | Profit margin | -7.25% |
+| SMA20 dist | +30.45% | ROA | 3.33% |
+| SMA50 dist | +15.93% | ROE | -25.98% |
+| SMA200 dist | -32.58% | Revenue (ttm) | $1.19B |
 | 52W high | $11.96 | Revenue growth y/y | -5.60% |
-| 52W low | $3.15 | Inst. ownership | 147.85% |
+| 52W low | $3.15 | Inst. ownership | 145.71% |
 | P/E (ttm) | — | Insider ownership | 0.79% |
-| Forward P/E | 4.08 | Short float | 35.49% |
-| PEG (trailing) | 0.34 | Avg volume | 6,865,275 |
-| P/S | 0.49 | Employees | 1,200 |
-| P/B | -2.90 | Analyst rec (1=buy..5=sell) | 2.1 |
+| Forward P/E | 4.95 | Short float | 35.49% |
+| PEG (trailing) | 0.38 | Avg volume | 6,853,837 |
+| P/S | 0.60 | Employees | 1,200 |
+| P/B | -3.52 | Analyst rec (1=buy..5=sell) | 2.1 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

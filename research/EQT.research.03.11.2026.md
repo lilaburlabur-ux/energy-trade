@@ -4,8 +4,8 @@ Signed file: `EQT.research.03.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $54.84 (2026-11-03, ~15-min delayed) |
-| Market cap | $34.31B |
+| Current price | $54.57 (2026-11-03, ~15-min delayed) |
+| Market cap | $34.14B |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,10 +15,10 @@ Signed file: `EQT.research.03.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-1.00%) with negative half-year (-6.62%). |
-| Fresh setup quality | Moderate / wait | -18.79% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-1.53%) with negative half-year (-6.51%). |
+| Fresh setup quality | Moderate / wait | -19.19% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 29.01%, revenue growth -8.10%. |
-| Value attractiveness | Reasonable | Forward P/E 15.63, EV/Sales 4.74. |
+| Value attractiveness | Reasonable | Forward P/E 15.55, EV/Sales 4.74. |
 | Risk level | Moderate | Beta 0.67, ATR 2.9% of price, short float 3.98%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -32,25 +32,34 @@ Signed file: `EQT.research.03.11.2026`
 ## 2. Company Overview and Recent Catalysts
 EQT Corporation engages in the exploration, production, gathering, and transmission of hydrocarbons and natural gas. The company sells natural gas, natural gas liquids, and oil to marketers, utilities, and industrial customers located in the Appalachian Basin. It also provides marketing services and contractual pipeline capacity management services, as well as engages in risk management and hedging activities. In addition, it owns and operates propane storage and distribution terminals. The company was formerly known as Equitable Resources Inc.
 
+**Recent headlines (potential catalysts):**
+
+| Headline | Source | Date |
+|---|---|---|
+| William Blair shakes up its top stock picks | GuruFocus.com | 2026-11-02 |
+| 3 Pipeline Stocks Retail Investors May Watch As North American Energy Routes Shift | Simply Wall St. | 2026-11-02 |
+| Top oil & gas exploration stocks, according to Mizuho | Investing.com | 2026-10-30 |
+| EQT (EQT) Reports Q3 Earnings: What Key Metrics Have to Say | Zacks | 2026-10-30 |
+
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $54.84; 52w high $67.53 (-18.79%); 52w low $48.56 (+12.93%) |
-| Trend | -1.00% vs SMA200, +3.05% vs SMA50, +1.24% vs SMA20 |
-| Momentum | RSI(14) 54.7 (neutral) |
-| Volatility | ATR(14) 1.59 (~2.9% of price); beta 0.67 |
-| Setup perspective | -18.79% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $54.57; 52w high $67.53 (-19.19%); 52w low $48.56 (+12.38%) |
+| Trend | -1.53% vs SMA200, +2.51% vs SMA50, +0.54% vs SMA20 |
+| Momentum | RSI(14) 53.3 (neutral) |
+| Volatility | ATR(14) 1.57 (~2.9% of price); beta 0.67 |
+| Setup perspective | -19.19% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -0.0% |
-| Month | +9.3% |
-| Quarter | +4.2% |
-| Half Y | -6.6% |
-| 1Y | +5.8% |
-| YTD | +3.5% |
+| Week | -3.0% |
+| Month | +6.7% |
+| Quarter | +6.5% |
+| Half Y | -6.5% |
+| 1Y | +3.0% |
+| YTD | +3.0% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -59,13 +68,13 @@ EQT Corporation engages in the exploration, production, gathering, and transmiss
 | Revenue (ttm) | $9.15B | Revenue growth -8.10% y/y |
 | Profitability | Gross 80.40%, operating 28.23%, net 29.01% | ROA 6.25%, ROE 10.49% |
 | Balance sheet | Cash $78.72M, debt $5.55B | Current ratio 0.71, debt/equity 19.13 |
-| Valuation | P/E 13.00, forward P/E 15.63, P/S 3.75, P/B 1.35 | EV/Sales 4.74, EV/EBITDA 6.39 |
-| Growth expectations | Earnings growth -17.00%, EPS q/q -17.00% | Analyst mean target $66.27 (22 analysts) |
+| Valuation | P/E 12.93, forward P/E 15.55, P/S 3.73, P/B 1.34 | EV/Sales 4.74, EV/EBITDA 6.39 |
+| Growth expectations | Earnings growth -17.00%, EPS q/q -17.00% | Analyst mean target $66.50 (22 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 95.55% |
+| Institutional ownership | 95.86% |
 | Insider ownership | 0.90% |
 | Short float | 3.98% |
 | Short ratio (days to cover) | 2.8 |
@@ -100,21 +109,21 @@ EQT Corporation engages in the exploration, production, gathering, and transmiss
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $54.84 | EV/Sales | 4.74 |
-| Market cap | $34.31B | EV/EBITDA | 6.39 |
+| Price | $54.57 | EV/Sales | 4.74 |
+| Market cap | $34.14B | EV/EBITDA | 6.39 |
 | Beta | 0.67 | Gross margin | 80.40% |
-| RSI(14) | 54.7 | Operating margin | 28.23% |
-| ATR(14) | 1.59 | Profit margin | 29.01% |
-| SMA20 dist | +1.24% | ROA | 6.25% |
-| SMA50 dist | +3.05% | ROE | 10.49% |
-| SMA200 dist | -1.00% | Revenue (ttm) | $9.15B |
+| RSI(14) | 53.3 | Operating margin | 28.23% |
+| ATR(14) | 1.57 | Profit margin | 29.01% |
+| SMA20 dist | +0.54% | ROA | 6.25% |
+| SMA50 dist | +2.51% | ROE | 10.49% |
+| SMA200 dist | -1.53% | Revenue (ttm) | $9.15B |
 | 52W high | $67.53 | Revenue growth y/y | -8.10% |
-| 52W low | $48.56 | Inst. ownership | 95.55% |
-| P/E (ttm) | 13.00 | Insider ownership | 0.90% |
-| Forward P/E | 15.63 | Short float | 3.98% |
-| PEG (trailing) | 1.39 | Avg volume | 7,604,707 |
-| P/S | 3.75 | Employees | 1,523 |
-| P/B | 1.35 | Analyst rec (1=buy..5=sell) | 1.5 |
+| 52W low | $48.56 | Inst. ownership | 95.86% |
+| P/E (ttm) | 12.93 | Insider ownership | 0.90% |
+| Forward P/E | 15.55 | Short float | 3.98% |
+| PEG (trailing) | 1.39 | Avg volume | 7,665,245 |
+| P/S | 3.73 | Employees | 1,523 |
+| P/B | 1.34 | Analyst rec (1=buy..5=sell) | 1.5 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

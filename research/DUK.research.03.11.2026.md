@@ -4,8 +4,8 @@ Signed file: `DUK.research.03.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $128.38 (2026-11-03, ~15-min delayed) |
-| Market cap | $100.10B |
+| Current price | $126.82 (2026-11-03, ~15-min delayed) |
+| Market cap | $98.88B |
 | Sector / Industry | Utilities / Utilities - Regulated Electric |
 | Main theme | Utilities - Regulated Electric — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `DUK.research.03.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +6.13%; price +4.31% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -2.12% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +5.61%; price +3.00% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -3.31% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 16.00%, revenue growth 1.10%. |
-| Value attractiveness | Reasonable | Forward P/E 17.91, EV/Sales 5.94. |
-| Risk level | Moderate | Beta 0.31, ATR 1.5% of price, short float 2.59%. |
+| Value attractiveness | Reasonable | Forward P/E 17.69, EV/Sales 5.94. |
+| Risk level | Moderate | Beta 0.31, ATR 1.6% of price, short float 2.59%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
@@ -32,25 +32,34 @@ Signed file: `DUK.research.03.11.2026`
 ## 2. Company Overview and Recent Catalysts
 Duke Energy Corporation, through its subsidiaries, operates as an energy company in the United States. The company operates through two segments: Electric Utilities and Infrastructure (EU&I); and Gas Utilities and Infrastructure (GU&I). The EU&I segment generates, transmits, distributes, and sells electricity to customers in the Southeast and Midwest regions. It generates electricity through coal, hydroelectric, natural gas, oil, renewables, and nuclear fuel.
 
+**Recent headlines (potential catalysts):**
+
+| Headline | Source | Date |
+|---|---|---|
+| Evergy to Report Q3 Earnings: What to Expect From the Stock? | Zacks | 2026-11-03 |
+| ONE Gas Q3 Earnings Beat Estimates on New Rates, Revenues Rise Y/Y | Zacks | 2026-11-03 |
+| Pinnacle West Q3 Earnings Beat Estimates on Strong Sales Growth | Zacks | 2026-11-03 |
+| PPL Poised for Q3 Earnings Beat: Should You Buy the Stock Now? | Zacks | 2026-11-03 |
+
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $128.38; 52w high $131.16 (-2.12%); 52w low $111.09 (+15.56%) |
-| Trend | +4.31% vs SMA200, +7.63% vs SMA50, +5.81% vs SMA20 |
-| Momentum | RSI(14) 71.5 (overbought) |
-| Volatility | ATR(14) 1.97 (~1.5% of price); beta 0.31 |
-| Setup perspective | -2.12% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $126.82; 52w high $131.16 (-3.31%); 52w low $111.09 (+14.16%) |
+| Trend | +3.00% vs SMA200, +6.24% vs SMA50, +4.04% vs SMA20 |
+| Momentum | RSI(14) 65.1 (neutral) |
+| Volatility | ATR(14) 1.97 (~1.6% of price); beta 0.31 |
+| Setup perspective | -3.31% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +3.2% |
-| Month | +12.5% |
-| Quarter | +4.2% |
-| Half Y | +2.5% |
-| 1Y | +6.1% |
-| YTD | +12.2% |
+| Week | +1.6% |
+| Month | +11.4% |
+| Quarter | +3.7% |
+| Half Y | +1.1% |
+| 1Y | +5.6% |
+| YTD | +10.8% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -59,13 +68,13 @@ Duke Energy Corporation, through its subsidiaries, operates as an energy company
 | Revenue (ttm) | $32.80B | Revenue growth 1.10% y/y |
 | Profitability | Gross 51.97%, operating 27.50%, net 16.00% | ROA 2.84%, ROE 9.86% |
 | Balance sheet | Cash $673.00M, debt $92.21B | Current ratio 0.66, debt/equity 162.16 |
-| Valuation | P/E 19.33, forward P/E 17.91, P/S 3.05, P/B 1.86 | EV/Sales 5.94, EV/EBITDA 11.72 |
+| Valuation | P/E 19.10, forward P/E 17.69, P/S 3.01, P/B 1.84 | EV/Sales 5.94, EV/EBITDA 11.72 |
 | Growth expectations | Earnings growth 10.60%, EPS q/q 11.00% | Analyst mean target $131.74 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 71.00% |
+| Institutional ownership | 70.93% |
 | Insider ownership | 0.13% |
 | Short float | 2.59% |
 | Short ratio (days to cover) | 4.2 |
@@ -101,21 +110,21 @@ Duke Energy Corporation, through its subsidiaries, operates as an energy company
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $128.38 | EV/Sales | 5.94 |
-| Market cap | $100.10B | EV/EBITDA | 11.72 |
+| Price | $126.82 | EV/Sales | 5.94 |
+| Market cap | $98.88B | EV/EBITDA | 11.72 |
 | Beta | 0.31 | Gross margin | 51.97% |
-| RSI(14) | 71.5 | Operating margin | 27.50% |
+| RSI(14) | 65.1 | Operating margin | 27.50% |
 | ATR(14) | 1.97 | Profit margin | 16.00% |
-| SMA20 dist | +5.81% | ROA | 2.84% |
-| SMA50 dist | +7.63% | ROE | 9.86% |
-| SMA200 dist | +4.31% | Revenue (ttm) | $32.80B |
+| SMA20 dist | +4.04% | ROA | 2.84% |
+| SMA50 dist | +6.24% | ROE | 9.86% |
+| SMA200 dist | +3.00% | Revenue (ttm) | $32.80B |
 | 52W high | $131.16 | Revenue growth y/y | 1.10% |
-| 52W low | $111.09 | Inst. ownership | 71.00% |
-| P/E (ttm) | 19.33 | Insider ownership | 0.13% |
-| Forward P/E | 17.91 | Short float | 2.59% |
-| PEG (trailing) | 2.37 | Avg volume | 4,128,529 |
-| P/S | 3.05 | Employees | 26,441 |
-| P/B | 1.86 | Analyst rec (1=buy..5=sell) | 2.1 |
+| 52W low | $111.09 | Inst. ownership | 70.93% |
+| P/E (ttm) | 19.10 | Insider ownership | 0.13% |
+| Forward P/E | 17.69 | Short float | 2.59% |
+| PEG (trailing) | 2.37 | Avg volume | 4,112,184 |
+| P/S | 3.01 | Employees | 26,441 |
+| P/B | 1.84 | Analyst rec (1=buy..5=sell) | 2.1 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

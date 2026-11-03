@@ -4,8 +4,8 @@ Signed file: `NEE.research.03.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $85.03 (2026-11-03, ~15-min delayed) |
-| Market cap | $178.33B |
+| Current price | $84.18 (2026-11-03, ~15-min delayed) |
+| Market cap | $176.55B |
 | Sector / Industry | Utilities / Utilities - Regulated Electric |
 | Main theme | Utilities - Regulated Electric — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,10 +15,10 @@ Signed file: `NEE.research.03.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-1.60%) with negative half-year (-9.65%). |
-| Fresh setup quality | Moderate / wait | -11.83% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-2.60%) with negative half-year (-11.26%). |
+| Fresh setup quality | Moderate / wait | -12.72% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 40.37%, revenue growth 1.60%. |
-| Value attractiveness | Reasonable | Forward P/E 19.43, EV/Sales 10.39. |
+| Value attractiveness | Reasonable | Forward P/E 19.24, EV/Sales 10.39. |
 | Risk level | Moderate | Beta 0.60, ATR 1.9% of price, short float 0.00%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -32,25 +32,34 @@ Signed file: `NEE.research.03.11.2026`
 ## 2. Company Overview and Recent Catalysts
 NextEra Energy, Inc., through its subsidiaries, generates, stores, transmits, distributes, and sells electric power to retail and wholesale customers in North America. It operates through Florida Power & Light Company (FPL) and NEER segments. The company generates electricity from wind, solar, nuclear, natural gas, and other clean energy assets.
 
+**Recent headlines (potential catalysts):**
+
+| Headline | Source | Date |
+|---|---|---|
+| Nearly Two-Thirds of NextEra's New Backlog Last Quarter Was Batteries. Here's Why That Matters. | Motley Fool | 2026-11-03 |
+| State Street SPDR S&P Dividend ETF (SDY) Sells Accenture and Chevron on Oct. 30 | GuruFocus.com | 2026-11-03 |
+| 34 ETFs Add to NextEra Energy (NEE) on Friday | GuruFocus.com | 2026-11-03 |
+| 4 Energy Stocks for Midterm Elections That Could Go Either Way | Oilprice.com | 2026-11-02 |
+
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $85.03; 52w high $96.44 (-11.83%); 52w low $75.49 (+12.64%) |
-| Trend | -1.60% vs SMA200, +6.00% vs SMA50, +6.34% vs SMA20 |
-| Momentum | RSI(14) 68.9 (neutral) |
-| Volatility | ATR(14) 1.59 (~1.9% of price); beta 0.60 |
-| Setup perspective | -11.83% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $84.18; 52w high $96.44 (-12.72%); 52w low $75.49 (+11.51%) |
+| Trend | -2.60% vs SMA200, +4.93% vs SMA50, +4.86% vs SMA20 |
+| Momentum | RSI(14) 64.3 (neutral) |
+| Volatility | ATR(14) 1.56 (~1.9% of price); beta 0.60 |
+| Setup perspective | -12.72% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +3.6% |
-| Month | +10.7% |
-| Quarter | -1.8% |
-| Half Y | -9.6% |
-| 1Y | +7.1% |
-| YTD | +7.4% |
+| Week | +2.1% |
+| Month | +10.4% |
+| Quarter | -1.3% |
+| Half Y | -11.3% |
+| 1Y | +6.4% |
+| YTD | +6.3% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -59,13 +68,13 @@ NextEra Energy, Inc., through its subsidiaries, generates, stores, transmits, di
 | Revenue (ttm) | $28.82B | Revenue growth 1.60% y/y |
 | Profitability | Gross 60.17%, operating 33.00%, net 40.37% | ROA 2.41%, ROE 14.06% |
 | Balance sheet | Cash $5.58B, debt $113.93B | Current ratio 0.53, debt/equity 153.25 |
-| Valuation | P/E 15.32, forward P/E 19.43, P/S 6.19, P/B 2.90 | EV/Sales 10.39, EV/EBITDA 22.35 |
+| Valuation | P/E 15.17, forward P/E 19.24, P/S 6.12, P/B 2.87 | EV/Sales 10.39, EV/EBITDA 22.35 |
 | Growth expectations | Earnings growth 93.20%, EPS q/q 95.90% | Analyst mean target $94.00 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 86.51% |
+| Institutional ownership | 86.43% |
 | Insider ownership | 0.12% |
 | Short float | 0.00% |
 | Short ratio (days to cover) | 0.0 |
@@ -100,21 +109,21 @@ NextEra Energy, Inc., through its subsidiaries, generates, stores, transmits, di
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $85.03 | EV/Sales | 10.39 |
-| Market cap | $178.33B | EV/EBITDA | 22.35 |
+| Price | $84.18 | EV/Sales | 10.39 |
+| Market cap | $176.55B | EV/EBITDA | 22.35 |
 | Beta | 0.60 | Gross margin | 60.17% |
-| RSI(14) | 68.9 | Operating margin | 33.00% |
-| ATR(14) | 1.59 | Profit margin | 40.37% |
-| SMA20 dist | +6.34% | ROA | 2.41% |
-| SMA50 dist | +6.00% | ROE | 14.06% |
-| SMA200 dist | -1.60% | Revenue (ttm) | $28.82B |
+| RSI(14) | 64.3 | Operating margin | 33.00% |
+| ATR(14) | 1.56 | Profit margin | 40.37% |
+| SMA20 dist | +4.86% | ROA | 2.41% |
+| SMA50 dist | +4.93% | ROE | 14.06% |
+| SMA200 dist | -2.60% | Revenue (ttm) | $28.82B |
 | 52W high | $96.44 | Revenue growth y/y | 1.60% |
-| 52W low | $75.49 | Inst. ownership | 86.51% |
-| P/E (ttm) | 15.32 | Insider ownership | 0.12% |
-| Forward P/E | 19.43 | Short float | 0.00% |
-| PEG (trailing) | 1.71 | Avg volume | 11,694,556 |
-| P/S | 6.19 | Employees | 17,400 |
-| P/B | 2.90 | Analyst rec (1=buy..5=sell) | 1.9 |
+| 52W low | $75.49 | Inst. ownership | 86.43% |
+| P/E (ttm) | 15.17 | Insider ownership | 0.12% |
+| Forward P/E | 19.24 | Short float | 0.00% |
+| PEG (trailing) | 1.71 | Avg volume | 11,736,175 |
+| P/S | 6.12 | Employees | 17,400 |
+| P/B | 2.87 | Analyst rec (1=buy..5=sell) | 1.9 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
