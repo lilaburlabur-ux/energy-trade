@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-03T01:59:28+00:00",
-  "as_of_local": "2026-11-03 01:59:28 UTC",
+  "as_of_utc": "2026-11-03T02:04:38+00:00",
+  "as_of_local": "2026-11-03 02:04:38 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "EOSE"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -73,16 +75,7 @@
       "price": 369.97,
       "previous_close": 393.72,
       "change_pct": -6.03,
-      "market_cap": 142144981000.0,
-      "headlines": []
-    },
-    {
-      "symbol": "MPC",
-      "name": "Marathon Petroleum",
-      "price": 444.73,
-      "previous_close": 432.51,
-      "change_pct": 2.83,
-      "market_cap": 125646608337.65,
+      "market_cap": 142181588000.0,
       "headlines": []
     },
     {
@@ -92,6 +85,15 @@
       "previous_close": 50.35,
       "change_pct": 0.08,
       "market_cap": 123319319487.84001,
+      "headlines": []
+    },
+    {
+      "symbol": "MPC",
+      "name": "Marathon Petroleum",
+      "price": 444.73,
+      "previous_close": 432.51,
+      "change_pct": 2.83,
+      "market_cap": 120864169747.56999,
       "headlines": []
     },
     {
@@ -190,7 +192,7 @@
       "price": 165.54,
       "previous_close": 162.22,
       "change_pct": 2.05,
-      "market_cap": 84096718601.7,
+      "market_cap": 82817911598.64,
       "headlines": []
     },
     {
@@ -343,7 +345,7 @@
       "price": 74.29,
       "previous_close": 73.63,
       "change_pct": 0.9,
-      "market_cap": 37065145880.759995,
+      "market_cap": 37072481831.4,
       "headlines": []
     },
     {
@@ -487,7 +489,7 @@
       "price": 28.65,
       "previous_close": 29.04,
       "change_pct": -1.34,
-      "market_cap": 9113442748.25,
+      "market_cap": 9018354361.300001,
       "headlines": []
     },
     {
@@ -596,15 +598,6 @@
       "previous_close": 6.09,
       "change_pct": -6.08,
       "market_cap": 745882293.48,
-      "headlines": []
-    },
-    {
-      "symbol": "EOSE",
-      "name": "Eos Energy",
-      "price": 1.89,
-      "previous_close": 1.98,
-      "change_pct": -4.55,
-      "market_cap": 640935229.44,
       "headlines": []
     },
     {
@@ -823,18 +816,18 @@
     },
     {
       "label": "WTI",
-      "price": 96.55,
-      "change_pct": -7.27
+      "price": 96.54,
+      "change_pct": -7.28
     },
     {
       "label": "Brent",
-      "price": 104.74,
-      "change_pct": -10.97
+      "price": 104.78,
+      "change_pct": -10.93
     },
     {
       "label": "NatGas",
       "price": 2.87,
-      "change_pct": -0.9
+      "change_pct": -0.86
     }
   ]
 }
