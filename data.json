@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-03T12:33:22+00:00",
-  "as_of_local": "2026-11-03 12:33:22 UTC",
+  "as_of_utc": "2026-11-03T12:38:16+00:00",
+  "as_of_local": "2026-11-03 12:38:16 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "WMB"
+    "EOG"
   ],
   "stocks": [
     {
@@ -169,21 +169,21 @@
       "headlines": []
     },
     {
+      "symbol": "WMB",
+      "name": "Williams Companies",
+      "price": 71.19,
+      "previous_close": 74.35,
+      "change_pct": -4.25,
+      "market_cap": 87077295317.92871,
+      "headlines": []
+    },
+    {
       "symbol": "VRT",
       "name": "Vertiv",
       "price": 224.24,
       "previous_close": 232.5,
       "change_pct": -3.55,
       "market_cap": 86345950920.24007,
-      "headlines": []
-    },
-    {
-      "symbol": "EOG",
-      "name": "EOG Resources",
-      "price": 157.89,
-      "previous_close": 165.54,
-      "change_pct": -4.62,
-      "market_cap": 82817911278.4928,
       "headlines": []
     },
     {
@@ -676,8 +676,8 @@
           "name": "Williams Companies Inc",
           "short": "Williams",
           "weight_pct": 4.29,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": -4.25,
+          "price": 71.19,
           "currency": "USD"
         },
         {
@@ -694,8 +694,8 @@
           "name": "EOG Resources Inc",
           "short": "EOG Resources",
           "weight_pct": 3.85,
-          "change_pct": -4.62,
-          "price": 157.89,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -775,8 +775,8 @@
         "name": "Williams Companies Inc",
         "short": "Williams",
         "weight_pct": 4.29,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": -4.25,
+        "price": 71.19,
         "currency": "USD"
       },
       {
@@ -793,8 +793,8 @@
         "name": "EOG Resources Inc",
         "short": "EOG Resources",
         "weight_pct": 3.85,
-        "change_pct": -4.62,
-        "price": 157.89,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -816,18 +816,18 @@
     },
     {
       "label": "WTI",
-      "price": 97.6,
-      "change_pct": 1.18
+      "price": 97.19,
+      "change_pct": 0.76
     },
     {
       "label": "Brent",
-      "price": 105.42,
-      "change_pct": 0.62
+      "price": 105.08,
+      "change_pct": 0.3
     },
     {
       "label": "NatGas",
-      "price": 2.89,
-      "change_pct": 1.23
+      "price": 2.88,
+      "change_pct": 1.02
     }
   ]
 }
