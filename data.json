@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-03T22:51:20+00:00",
-  "as_of_local": "2026-11-03 22:51:20 UTC",
+  "as_of_utc": "2026-11-03T22:56:34+00:00",
+  "as_of_local": "2026-11-03 22:56:34 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "DINO"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1293,34 +1295,6 @@
       ]
     },
     {
-      "symbol": "DINO",
-      "name": "HF Sinclair",
-      "price": 113.36,
-      "previous_close": 111.66,
-      "change_pct": 1.52,
-      "market_cap": 19426635255.636658,
-      "headlines": [
-        {
-          "title": "Oil Edges Lower As U.S. Bombs Iran Before Election Day",
-          "url": "https://www.investors.com/news/oil-prices-us-iran-hormuz-trump-exxon-chevron-midterm-election/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-11-03T21:07:20Z"
-        },
-        {
-          "title": "Best Value Stocks to Buy Now in November",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/best-value-stocks-buy-now-182900086.html",
-          "publisher": "Zacks",
-          "published": "2026-11-03T18:29:00Z"
-        },
-        {
-          "title": "Valero to Acquire Houston Refining Site, Plans 165,000 BPD Restart",
-          "url": "https://finance.yahoo.com/energy/articles/valero-acquire-houston-refining-plans-171900957.html",
-          "publisher": "Zacks",
-          "published": "2026-11-03T17:19:00Z"
-        }
-      ]
-    },
-    {
       "symbol": "OVV",
       "name": "Ovintiv",
       "price": 66.43,
@@ -1328,6 +1302,12 @@
       "change_pct": -1.99,
       "market_cap": 18374538084.41162,
       "headlines": [
+        {
+          "title": "Ovintiv: Q3 Earnings Snapshot",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ovintiv-q3-earnings-snapshot-224618301.html",
+          "publisher": "Associated Press",
+          "published": "2026-11-03T22:46:18Z"
+        },
         {
           "title": "Ovintiv Is Quietly Building an AI Advantage That Wall Street May Be Missing",
           "url": "https://finance.yahoo.com/technology/ai/articles/ovintiv-quietly-building-ai-advantage-142837465.html",
@@ -1339,12 +1319,6 @@
           "url": "https://finance.yahoo.com/energy/articles/oil-stocks-watch-higher-brent-120949103.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-02T12:09:49Z"
-        },
-        {
-          "title": "Ovintiv (OVV) Upgraded to Strong Buy: What Does It Mean for the Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ovintiv-ovv-upgraded-strong-buy-150002612.html",
-          "publisher": "Zacks",
-          "published": "2026-10-28T15:00:02Z"
         }
       ]
     },
