@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-03T02:22:02+00:00",
-  "as_of_local": "2026-11-03 02:22:02 UTC",
+  "as_of_utc": "2026-11-03T02:22:03+00:00",
+  "as_of_local": "2026-11-03 02:22:03 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -73,7 +73,16 @@
       "price": 369.97,
       "previous_close": 393.72,
       "change_pct": -6.03,
-      "market_cap": 142181588000.0,
+      "market_cap": 142144981000.0,
+      "headlines": []
+    },
+    {
+      "symbol": "MPC",
+      "name": "Marathon Petroleum",
+      "price": 444.73,
+      "previous_close": 432.51,
+      "change_pct": 2.83,
+      "market_cap": 125646608337.65,
       "headlines": []
     },
     {
@@ -83,15 +92,6 @@
       "previous_close": 50.35,
       "change_pct": 0.08,
       "market_cap": 123319319487.84001,
-      "headlines": []
-    },
-    {
-      "symbol": "MPC",
-      "name": "Marathon Petroleum",
-      "price": 444.73,
-      "previous_close": 432.51,
-      "change_pct": 2.83,
-      "market_cap": 120864169747.56999,
       "headlines": []
     },
     {
@@ -190,7 +190,7 @@
       "price": 165.54,
       "previous_close": 162.22,
       "change_pct": 2.05,
-      "market_cap": 82817911598.64,
+      "market_cap": 84096718601.7,
       "headlines": []
     },
     {
@@ -343,7 +343,7 @@
       "price": 74.29,
       "previous_close": 73.63,
       "change_pct": 0.9,
-      "market_cap": 37072481831.4,
+      "market_cap": 37065145880.759995,
       "headlines": []
     },
     {
@@ -487,7 +487,7 @@
       "price": 28.65,
       "previous_close": 29.04,
       "change_pct": -1.34,
-      "market_cap": 9018354361.300001,
+      "market_cap": 9113442748.25,
       "headlines": []
     },
     {
@@ -823,8 +823,8 @@
     },
     {
       "label": "WTI",
-      "price": 96.25,
-      "change_pct": -7.56
+      "price": 96.24,
+      "change_pct": -7.57
     },
     {
       "label": "Brent",
