@@ -1,11 +1,8 @@
 {
-  "as_of_utc": "2026-11-03T22:05:50+00:00",
-  "as_of_local": "2026-11-03 22:05:50 UTC",
+  "as_of_utc": "2026-11-03T22:11:00+00:00",
+  "as_of_local": "2026-11-03 22:11:00 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "KMI",
-    "UUUU"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -209,7 +206,7 @@
       "price": 391.7,
       "previous_close": 366.07,
       "change_pct": 7.0,
-      "market_cap": 152136284741.21094,
+      "market_cap": 152097114739.99023,
       "headlines": [
         {
           "title": "Eaton (ETN) Q3 2026 Earnings Call Transcript",
@@ -228,6 +225,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/eaton-earnings-analysis-questions-answered-182935716.html",
           "publisher": "Investing.com",
           "published": "2026-11-03T18:29:35Z"
+        }
+      ]
+    },
+    {
+      "symbol": "MPC",
+      "name": "Marathon Petroleum",
+      "price": 427.34,
+      "previous_close": 430.39,
+      "change_pct": -0.71,
+      "market_cap": 124756200531.79611,
+      "headlines": [
+        {
+          "title": "Marathon Petroleum (MPC) Q3 2026 Earnings Call Transcript",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/marathon-petroleum-mpc-q3-2026-211713683.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-03T21:17:13Z"
+        },
+        {
+          "title": "Oil Edges Lower As U.S. Bombs Iran Before Election Day",
+          "url": "https://www.investors.com/news/oil-prices-us-iran-hormuz-trump-exxon-chevron-midterm-election/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-11-03T21:07:20Z"
+        },
+        {
+          "title": "Sector Update: Energy Stocks Fall Late Afternoon",
+          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-fall-afternoon-210314611.html",
+          "publisher": "MT Newswires",
+          "published": "2026-11-03T21:03:14Z"
         }
       ]
     },
@@ -256,34 +281,6 @@
           "url": "https://finance.yahoo.com/energy/articles/3-energy-companies-managing-c-150000819.html",
           "publisher": "C-Store Dive",
           "published": "2026-11-03T15:00:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "MPC",
-      "name": "Marathon Petroleum",
-      "price": 427.34,
-      "previous_close": 430.39,
-      "change_pct": -0.71,
-      "market_cap": 120007653192.009,
-      "headlines": [
-        {
-          "title": "Marathon Petroleum (MPC) Q3 2026 Earnings Call Transcript",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/marathon-petroleum-mpc-q3-2026-211713683.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-03T21:17:13Z"
-        },
-        {
-          "title": "Oil Edges Lower As U.S. Bombs Iran Before Election Day",
-          "url": "https://www.investors.com/news/oil-prices-us-iran-hormuz-trump-exxon-chevron-midterm-election/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-11-03T21:07:20Z"
-        },
-        {
-          "title": "Sector Update: Energy Stocks Fall Late Afternoon",
-          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-fall-afternoon-210314611.html",
-          "publisher": "MT Newswires",
-          "published": "2026-11-03T21:03:14Z"
         }
       ]
     },
@@ -548,6 +545,12 @@
       "market_cap": 88642948188.96436,
       "headlines": [
         {
+          "title": "What Just Happened To Sherwin-Williams Stock?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/just-happened-sherwin-williams-stock-214356528.html",
+          "publisher": "Trefis",
+          "published": "2026-11-03T21:43:56Z"
+        },
+        {
           "title": "Williams Cos. Shrugs Off AI Data Center Jitters With Power Generation Ambitions",
           "url": "https://www.barrons.com/articles/williams-cos-earnings-stock-price-31f22075?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
@@ -558,12 +561,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/williams-companies-stock-soars-ai-160816949.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-03T16:08:16Z"
-        },
-        {
-          "title": "The Williams Companies, Inc. Q3 2026 Earnings Call Summary",
-          "url": "https://finance.yahoo.com/energy/articles/williams-companies-inc-q3-2026-133000633.html",
-          "publisher": "Moby",
-          "published": "2026-11-03T13:30:00Z"
         }
       ]
     },
@@ -573,7 +570,7 @@
       "price": 155.17,
       "previous_close": 157.89,
       "change_pct": -1.72,
-      "market_cap": 81391191279.4784,
+      "market_cap": 82647968024.82803,
       "headlines": [
         {
           "title": "What Just Happened To Devon Energy Stock?",
@@ -648,6 +645,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-slb-slb-110322013.html",
           "publisher": "GuruFocus.com",
           "published": "2026-11-03T11:03:22Z"
+        }
+      ]
+    },
+    {
+      "symbol": "KMI",
+      "name": "Kinder Morgan",
+      "price": 32.87,
+      "previous_close": 32.71,
+      "change_pct": 0.49,
+      "market_cap": 73224997197.77342,
+      "headlines": [
+        {
+          "title": "CLB Q3 Earnings Miss Estimates on Higher Costs and Disruptions",
+          "url": "https://finance.yahoo.com/energy/articles/clb-q3-earnings-miss-estimates-155400926.html",
+          "publisher": "Zacks",
+          "published": "2026-11-03T15:54:00Z"
+        },
+        {
+          "title": "3 Oil And Gas Stocks With Cash Flow Tied To Higher Energy Prices",
+          "url": "https://finance.yahoo.com/energy/articles/3-oil-gas-stocks-cash-081013039.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-03T08:10:13Z"
+        },
+        {
+          "title": "Better Dividend Stock: Kinder Morgan vs. ONEOK",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/better-dividend-stock-kinder-morgan-180423365.html",
+          "publisher": "TIKR",
+          "published": "2026-11-02T18:04:23Z"
         }
       ]
     },
@@ -1021,7 +1046,7 @@
       "price": 72.81,
       "previous_close": 74.38,
       "change_pct": -2.11,
-      "market_cap": 36289961167.45422,
+      "market_cap": 36282780063.015015,
       "headlines": [
         {
           "title": "Can Edison International Stock Jump 30%?",
@@ -1469,7 +1494,7 @@
       "price": 30.3,
       "previous_close": 30.05,
       "change_pct": 0.83,
-      "market_cap": 9093382038.833,
+      "market_cap": 9189261508.118801,
       "headlines": [
         {
           "title": "If I Could Only Buy 1 AI Power Stock for the Next Decade, It Wouldn't Be Bloom Energy or GE Vernova",
@@ -1772,6 +1797,34 @@
       ]
     },
     {
+      "symbol": "UUUU",
+      "name": "Energy Fuels",
+      "price": 7.24,
+      "previous_close": 7.39,
+      "change_pct": -2.03,
+      "market_cap": 1917354210.5056953,
+      "headlines": [
+        {
+          "title": "Should You Buy, Sell or Hold MP Stock Before Q3 Earnings Release?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/buy-sell-hold-mp-stock-141300402.html",
+          "publisher": "Zacks",
+          "published": "2026-11-03T14:13:00Z"
+        },
+        {
+          "title": "3 Canadian Growth Stocks To Watch In November 2026",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-canadian-growth-stocks-watch-001729369.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-03T00:17:29Z"
+        },
+        {
+          "title": "What Is Behind The Move In Cameco Stock?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/behind-move-cameco-stock-012341659.html",
+          "publisher": "Trefis",
+          "published": "2026-11-02T01:23:41Z"
+        }
+      ]
+    },
+    {
       "symbol": "FLNC",
       "name": "Fluence Energy",
       "price": 5.5,
@@ -1949,8 +2002,8 @@
           "name": "Kinder Morgan Inc Class P",
           "short": "Kinder",
           "weight_pct": 3.15,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": 0.49,
+          "price": 32.87,
           "currency": "USD"
         }
       ]
@@ -2048,32 +2101,27 @@
         "name": "Kinder Morgan Inc Class P",
         "short": "Kinder",
         "weight_pct": 3.15,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": 0.49,
+        "price": 32.87,
         "currency": "USD"
       }
     ]
   },
   "tape": [
     {
-      "label": "SPX",
-      "price": 7568.92,
-      "change_pct": 0.36
-    },
-    {
       "label": "WTI",
-      "price": 96.79,
-      "change_pct": 0.34
+      "price": 96.76,
+      "change_pct": 0.31
     },
     {
       "label": "Brent",
-      "price": 104.4,
-      "change_pct": -0.35
+      "price": 104.42,
+      "change_pct": -0.33
     },
     {
       "label": "NatGas",
       "price": 2.9,
-      "change_pct": 1.54
+      "change_pct": 1.68
     }
   ]
 }
