@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-03T22:45:42+00:00",
+  "as_of": "2026-11-03T23:00:58+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,13 +11,13 @@
    "rank": 1,
    "ticker": "ARRY",
    "company": "Array Technologies, Inc.",
-   "move_pct": 22.32,
-   "price": 4.65,
+   "move_pct": 21.32,
+   "price": 4.61,
    "volume": 22147125,
    "volume_vs_avg": "~3x",
    "heat_score": 79,
    "direction": "up",
-   "why": "Moving up 22.3% on ~3x average volume with no fresh headline this cycle \u2014 attention without a story.",
+   "why": "Moving up 21.3% on ~3x average volume with no fresh headline this cycle \u2014 attention without a story.",
    "catalyst_type": "no_news_mover",
    "source_url": "",
    "published": "",
@@ -27,11 +27,11 @@
    "rank": 2,
    "ticker": "BE",
    "company": "Bloom Energy Corporation",
-   "move_pct": 12.82,
-   "price": 221.4,
+   "move_pct": 13.45,
+   "price": 222.64,
    "volume": 13964496,
    "volume_vs_avg": "~0.9x",
-   "heat_score": 75,
+   "heat_score": 77,
    "direction": "up",
    "why": "Bloom Energy (BE) Shares Surge on Barclays Upgrade and Strategic Collaboration Announcement",
    "catalyst_type": "analyst_action",
@@ -41,22 +41,6 @@
   },
   {
    "rank": 3,
-   "ticker": "SEDG",
-   "company": "SolarEdge Technologies, Inc.",
-   "move_pct": 8.43,
-   "price": 32.75,
-   "volume": 3530660,
-   "volume_vs_avg": "~1.4x",
-   "heat_score": 62,
-   "direction": "up",
-   "why": "Enphase Surges 9%, Sunrun Climbs 7%, SolarEdge Rallies 6% as Solar Rebound Extends Into Earnings",
-   "catalyst_type": "earnings",
-   "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZGJMVF9EY2FnVkx5RmxvYmtuaE5WVzgzUUlpaXZXUUNjTkVFcjl0Sk1weGV3cUJBTXlhM0tOTjZQSnRldThWdUlXSVhFajJoVDdhVzdCX245SUtUVEpNS202Nll0d1RfUzZPaGd5d29yVjFCOGZMRUNzZUN4U0k2WFRKUVRxWTdpejBOODNLQlhRSEl3R2VDWGhfM0hlbzdpMk0tMTFlTDlVYm9wdGQzdDNOak5VUHUwTk5yWlJudHdxSWdQSUZ6dDkxRWdqdlhm?oc=5",
-   "published": "2026-11-03T18:50:00+00:00",
-   "sector": "Renewables & Solar"
-  },
-  {
-   "rank": 4,
    "ticker": "TLN",
    "company": "Talen Energy Corporation",
    "move_pct": 7.29,
@@ -72,7 +56,7 @@
    "sector": "Power & IPPs"
   },
   {
-   "rank": 5,
+   "rank": 4,
    "ticker": "ETN",
    "company": "Eaton Corporation, PLC",
    "move_pct": 7.65,
@@ -88,11 +72,11 @@
    "sector": "Grid, Storage & Electrification"
   },
   {
-   "rank": 6,
+   "rank": 5,
    "ticker": "GEV",
    "company": "GE Vernova Inc.",
-   "move_pct": 7.65,
-   "price": 928.23,
+   "move_pct": 7.72,
+   "price": 928.8,
    "volume": 3106323,
    "volume_vs_avg": "~1.2x",
    "heat_score": 48,
@@ -104,20 +88,20 @@
    "sector": "Grid, Storage & Electrification"
   },
   {
-   "rank": 7,
-   "ticker": "RUN",
-   "company": "Sunrun Inc.",
-   "move_pct": 5.8,
-   "price": 8.73,
-   "volume": 13210117,
-   "volume_vs_avg": "~2x",
-   "heat_score": 43,
+   "rank": 6,
+   "ticker": "FLNC",
+   "company": "Fluence Energy, Inc.",
+   "move_pct": 6.33,
+   "price": 5.54,
+   "volume": 5696500,
+   "volume_vs_avg": "~0.9x",
+   "heat_score": 42,
    "direction": "up",
-   "why": "Enphase Surges 9%, Sunrun Climbs 7%, SolarEdge Rallies 6% as Solar Rebound Extends Into Earnings",
-   "catalyst_type": "earnings",
-   "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZGJMVF9EY2FnVkx5RmxvYmtuaE5WVzgzUUlpaXZXUUNjTkVFcjl0Sk1weGV3cUJBTXlhM0tOTjZQSnRldThWdUlXSVhFajJoVDdhVzdCX245SUtUVEpNS202Nll0d1RfUzZPaGd5d29yVjFCOGZMRUNzZUN4U0k2WFRKUVRxWTdpejBOODNLQlhRSEl3R2VDWGhfM0hlbzdpMk0tMTFlTDlVYm9wdGQzdDNOak5VUHUwTk5yWlJudHdxSWdQSUZ6dDkxRWdqdlhm?oc=5",
-   "published": "2026-11-03T18:50:00+00:00",
-   "sector": "Renewables & Solar"
+   "why": "Fluence Energy names interim CEO, CFO amid supply chain hiccups",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaktLRFlKZ0xNNkFXQVBmN1JILWNfblFzU0NhbVRVeVNEUkZZSURVWlBoSGNfdElWcm94eGZOS2cyXzl2Mkd2cVloUEZ6YkpwazMxXzhlNEpHQmt4REZlVjVXMzJfOHdTZjAzd1FJR01taEp1a3Vkd1lGVEpvUkNZZ3dBVXNhVE9WbVNJRlJoZW9fS00?oc=5",
+   "published": "2026-11-03T20:33:23+00:00",
+   "sector": "Grid, Storage & Electrification"
   }
  ]
 }
