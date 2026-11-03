@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-03T13:28:41+00:00",
+  "as_of": "2026-11-03T13:43:56+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,16 +11,16 @@
    "rank": 1,
    "ticker": "BE",
    "company": "Bloom Energy Corporation",
-   "move_pct": 6.04,
-   "price": 208.11,
+   "move_pct": 7.27,
+   "price": 210.51,
    "volume": 15414000,
    "volume_vs_avg": "~1.0x",
-   "heat_score": 41,
+   "heat_score": 46,
    "direction": "up",
-   "why": "Buy, Sell, or Hold? Tuesday\u2019s Top Upgrades and Downgrades: AON, Bloom Energy, Chevron, Cloudflare, Marvell Technologies, Lumentum Holdings, Merck & Co., Roku, X-Energy, and More",
+   "why": "Barclays raises Bloom Energy to Overweight on stronger-than-expected demand",
    "catalyst_type": "analyst_action",
-   "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxON3hreGR5Y2NOc3RIVzlXNXQyWHp1ekhDU0R2ZURQb0U5RUE4dEQtV3Q3ekloNjdnOVFuU1hSb3U2YWpWNm05SDk2MUJ2YzlWd0FoRlV4RVlDLVJzMUVpbW5VcHczNXd1RHhETGtvcGZOS1VDaHhPWmg5d1U5T0dzejFMZXVMaFpaTDN2SnF2ektsd1R3?oc=5",
-   "published": "2026-11-03T12:59:26+00:00",
+   "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObGhxaTBKVlpTS3ZqOVFiSUs1VjBlRGVBY1pQTDB3SWdic04zc3RWaS04SG1oaUFqV2pJUjBTQ2VBUU9ROWhDenVnclpXYW9tSXlLbDZfZTlwUXFhbzdHTzdHRHUycnRZRmM0VlM0VENvSHo1X002TVdHSTJIWXJfVHFKR3hXSzQtc2tzeXhOeDM1WDdSMVV2aWFNTlRnYldCeC0ybkdPdVMtTU9EdFpNOE9qR0hrNTlSaGxWMTdwcTNWNjZJSVg4dw?oc=5",
+   "published": "2026-11-03T13:26:00+00:00",
    "sector": "Grid, Storage & Electrification"
   }
  ]
