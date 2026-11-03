@@ -4,24 +4,24 @@ Signed file: `MPC.research.03.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-03, ~15-min delayed) |
+| Current price | $430.39 (2026-11-03, ~15-min delayed) |
 | Market cap | $120.86B |
 | Sector / Industry | Energy / Oil & Gas Refining & Marketing |
 | Main theme | Oil & Gas Refining & Marketing — see catalysts below |
-| Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
+| Current stance | High technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-03.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +123.68%; price +48.00% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -11.25% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 5.55%, revenue growth 53.70%. |
 | Value attractiveness | Reasonable | Forward P/E 7.14, EV/Sales 1.00. |
-| Risk level | Moderate | Beta 0.51, ATR nan% of price, short float 2.96%. |
+| Risk level | Elevated | Beta 0.51, ATR 4.2% of price, short float 2.96%. |
 
-**Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
+**Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -35,22 +35,22 @@ Marathon Petroleum Corporation, together with its subsidiaries, operates as an i
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $484.92 (+nan%); 52w low $160.76 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 51.4 (neutral) |
-| Volatility | ATR(14) 18.03 (~nan% of price); beta 0.51 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $430.39; 52w high $484.92 (-11.25%); 52w low $160.76 (+167.72%) |
+| Trend | +48.00% vs SMA200, +2.67% vs SMA50, -6.00% vs SMA20 |
+| Momentum | RSI(14) 45.8 (neutral) |
+| Volatility | ATR(14) 17.93 (~4.2% of price); beta 0.51 |
+| Setup perspective | -11.25% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -8.6% |
+| Month | +1.9% |
+| Quarter | +38.1% |
+| Half Y | +71.5% |
+| 1Y | +123.7% |
+| YTD | +163.6% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -86,6 +86,7 @@ Marathon Petroleum Corporation, together with its subsidiaries, operates as an i
 | Boston Partners | 3,515,417 | 1.20% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
+- **Volatility risk:** Beta 0.51, ATR 4.2% of price, short float 2.96%. Size positions accordingly.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -100,14 +101,14 @@ Marathon Petroleum Corporation, together with its subsidiaries, operates as an i
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 1.00 |
+| Price | $430.39 | EV/Sales | 1.00 |
 | Market cap | $120.86B | EV/EBITDA | 10.00 |
 | Beta | 0.51 | Gross margin | 12.82% |
-| RSI(14) | 51.4 | Operating margin | 13.56% |
-| ATR(14) | 18.03 | Profit margin | 5.55% |
-| SMA20 dist | +nan% | ROA | 8.74% |
-| SMA50 dist | +nan% | ROE | 42.10% |
-| SMA200 dist | +nan% | Revenue (ttm) | $154.15B |
+| RSI(14) | 45.8 | Operating margin | 13.56% |
+| ATR(14) | 17.93 | Profit margin | 5.55% |
+| SMA20 dist | -6.00% | ROA | 8.74% |
+| SMA50 dist | +2.67% | ROE | 42.10% |
+| SMA200 dist | +48.00% | Revenue (ttm) | $154.15B |
 | 52W high | $484.92 | Revenue growth y/y | 53.70% |
 | 52W low | $160.76 | Inst. ownership | 79.72% |
 | P/E (ttm) | 14.90 | Insider ownership | 0.33% |
@@ -129,7 +130,7 @@ Marathon Petroleum Corporation, together with its subsidiaries, operates as an i
 | 2026-09-22 | down | Jefferies | Buy → Hold |
 
 ## 9. Conclusion
-MPC: Moderate momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+MPC: High momentum / mixed fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

@@ -4,24 +4,24 @@ Signed file: `HAL.research.03.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-03, ~15-min delayed) |
+| Current price | $34.61 (2026-11-03, ~15-min delayed) |
 | Market cap | $28.63B |
 | Sector / Industry | Energy / Oil & Gas Equipment & Services |
 | Main theme | Oil & Gas Equipment & Services — see catalysts below |
-| Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
+| Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-03.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-2.83%) with negative half-year (-16.82%). |
+| Fresh setup quality | Moderate / wait | -18.76% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 8.90%, revenue growth 1.80%. |
 | Value attractiveness | Reasonable | Forward P/E 11.79, EV/Sales 1.56. |
-| Risk level | Moderate | Beta 0.75, ATR nan% of price, short float 5.44%. |
+| Risk level | Moderate | Beta 0.75, ATR 2.9% of price, short float 5.44%. |
 
-**Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
+**Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -35,22 +35,22 @@ Halliburton Company provides products and services to the energy industry worldw
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $42.60 (+nan%); 52w low $25.11 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 67.9 (neutral) |
-| Volatility | ATR(14) 0.96 (~nan% of price); beta 0.75 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $34.61; 52w high $42.60 (-18.76%); 52w low $25.11 (+37.83%) |
+| Trend | -2.83% vs SMA200, +1.13% vs SMA50, +2.34% vs SMA20 |
+| Momentum | RSI(14) 53.4 (neutral) |
+| Volatility | ATR(14) 1.01 (~2.9% of price); beta 0.75 |
+| Setup perspective | -18.76% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -2.3% |
+| Month | +8.7% |
+| Quarter | +7.4% |
+| Half Y | -16.8% |
+| 1Y | +31.0% |
+| YTD | +18.5% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -101,14 +101,14 @@ Halliburton Company provides products and services to the energy industry worldw
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 1.56 |
+| Price | $34.61 | EV/Sales | 1.56 |
 | Market cap | $28.63B | EV/EBITDA | 8.46 |
 | Beta | 0.75 | Gross margin | 14.82% |
-| RSI(14) | 67.9 | Operating margin | 12.43% |
-| ATR(14) | 0.96 | Profit margin | 8.90% |
-| SMA20 dist | +nan% | ROA | 7.23% |
-| SMA50 dist | +nan% | ROE | 18.78% |
-| SMA200 dist | +nan% | Revenue (ttm) | $22.48B |
+| RSI(14) | 53.4 | Operating margin | 12.43% |
+| ATR(14) | 1.01 | Profit margin | 8.90% |
+| SMA20 dist | +2.34% | ROA | 7.23% |
+| SMA50 dist | +1.13% | ROE | 18.78% |
+| SMA200 dist | -2.83% | Revenue (ttm) | $22.48B |
 | 52W high | $42.60 | Revenue growth y/y | 1.80% |
 | 52W low | $25.11 | Inst. ownership | 91.37% |
 | P/E (ttm) | 14.54 | Insider ownership | 0.40% |
@@ -130,7 +130,7 @@ Halliburton Company provides products and services to the energy industry worldw
 | 2026-07-27 | main | UBS | Neutral → Neutral |
 
 ## 9. Conclusion
-HAL: Moderate momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+HAL: Low momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

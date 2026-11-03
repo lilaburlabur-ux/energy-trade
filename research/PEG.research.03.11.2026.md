@@ -4,24 +4,24 @@ Signed file: `PEG.research.03.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-03, ~15-min delayed) |
+| Current price | $74.38 (2026-11-03, ~15-min delayed) |
 | Market cap | $37.07B |
 | Sector / Industry | Utilities / Utilities - Regulated Electric |
 | Main theme | Utilities - Regulated Electric — see catalysts below |
-| Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
+| Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-03.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-3.41%) with negative half-year (-5.89%). |
+| Fresh setup quality | Moderate / wait | -12.23% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 16.04%, revenue growth -8.90%. |
 | Value attractiveness | Reasonable | Forward P/E 16.01, EV/Sales 4.91. |
-| Risk level | Moderate | Beta 0.49, ATR nan% of price, short float 2.04%. |
+| Risk level | Moderate | Beta 0.49, ATR 1.8% of price, short float 2.04%. |
 
-**Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
+**Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -35,22 +35,22 @@ Public Service Enterprise Group Incorporated, through its subsidiaries, operates
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $84.74 (+nan%); 52w low $66.56 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 65.3 (neutral) |
-| Volatility | ATR(14) 1.22 (~nan% of price); beta 0.49 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $74.38; 52w high $84.74 (-12.23%); 52w low $66.56 (+11.75%) |
+| Trend | -3.41% vs SMA200, +4.60% vs SMA50, +3.47% vs SMA20 |
+| Momentum | RSI(14) 65.7 (neutral) |
+| Volatility | ATR(14) 1.30 (~1.8% of price); beta 0.49 |
+| Setup perspective | -12.23% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | +3.1% |
+| Month | +9.3% |
+| Quarter | -1.6% |
+| Half Y | -5.9% |
+| 1Y | -4.7% |
+| YTD | -5.8% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -100,14 +100,14 @@ Public Service Enterprise Group Incorporated, through its subsidiaries, operates
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 4.91 |
+| Price | $74.38 | EV/Sales | 4.91 |
 | Market cap | $37.07B | EV/EBITDA | 13.79 |
 | Beta | 0.49 | Gross margin | 33.33% |
-| RSI(14) | 65.3 | Operating margin | 18.87% |
-| ATR(14) | 1.22 | Profit margin | 16.04% |
-| SMA20 dist | +nan% | ROA | 3.24% |
-| SMA50 dist | +nan% | ROE | 11.83% |
-| SMA200 dist | +nan% | Revenue (ttm) | $12.54B |
+| RSI(14) | 65.7 | Operating margin | 18.87% |
+| ATR(14) | 1.30 | Profit margin | 16.04% |
+| SMA20 dist | +3.47% | ROA | 3.24% |
+| SMA50 dist | +4.60% | ROE | 11.83% |
+| SMA200 dist | -3.41% | Revenue (ttm) | $12.54B |
 | 52W high | $84.74 | Revenue growth y/y | -8.90% |
 | 52W low | $66.56 | Inst. ownership | 79.49% |
 | P/E (ttm) | 18.50 | Insider ownership | 0.13% |
@@ -129,7 +129,7 @@ Public Service Enterprise Group Incorporated, through its subsidiaries, operates
 | 2026-08-13 | main | Truist Securities | Hold → Hold |
 
 ## 9. Conclusion
-PEG: Moderate momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+PEG: Low momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

@@ -4,24 +4,24 @@ Signed file: `BKR.research.03.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-03, ~15-min delayed) |
+| Current price | $53.05 (2026-11-03, ~15-min delayed) |
 | Market cap | $52.68B |
 | Sector / Industry | Energy / Oil & Gas Equipment & Services |
 | Main theme | Oil & Gas Equipment & Services — see catalysts below |
-| Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
+| Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-03.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-11.58%) with negative half-year (-22.59%). |
+| Fresh setup quality | Moderate / wait | -23.32% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 10.08%, revenue growth 14.50%. |
 | Value attractiveness | Reasonable | Forward P/E 18.36, EV/Sales 2.30. |
-| Risk level | Moderate | Beta 1.06, ATR nan% of price, short float 2.87%. |
+| Risk level | Elevated | Beta 1.06, ATR 3.6% of price, short float 2.87%. |
 
-**Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
+**Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -35,22 +35,22 @@ Baker Hughes Company provides a portfolio of technologies and services to energy
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $69.18 (+nan%); 52w low $43.99 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 46.2 (neutral) |
-| Volatility | ATR(14) 1.86 (~nan% of price); beta 1.06 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $53.05; 52w high $69.18 (-23.32%); 52w low $43.99 (+20.59%) |
+| Trend | -11.58% vs SMA200, -8.45% vs SMA50, -4.68% vs SMA20 |
+| Momentum | RSI(14) 40.3 (neutral) |
+| Volatility | ATR(14) 1.91 (~3.6% of price); beta 1.06 |
+| Setup perspective | -23.32% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -5.3% |
+| Month | -5.3% |
+| Quarter | -13.7% |
+| Half Y | -22.6% |
+| 1Y | +10.9% |
+| YTD | +13.8% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -86,6 +86,7 @@ Baker Hughes Company provides a portfolio of technologies and services to energy
 | Capital Research Global Investors | 22,032,387 | 2.66% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
+- **Volatility risk:** Beta 1.06, ATR 3.6% of price, short float 2.87%. Size positions accordingly.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -100,14 +101,14 @@ Baker Hughes Company provides a portfolio of technologies and services to energy
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 2.30 |
+| Price | $53.05 | EV/Sales | 2.30 |
 | Market cap | $52.68B | EV/EBITDA | 13.15 |
 | Beta | 1.06 | Gross margin | 23.70% |
-| RSI(14) | 46.2 | Operating margin | 11.29% |
-| ATR(14) | 1.86 | Profit margin | 10.08% |
-| SMA20 dist | +nan% | ROA | 4.46% |
-| SMA50 dist | +nan% | ROE | 15.06% |
-| SMA200 dist | +nan% | Revenue (ttm) | $28.74B |
+| RSI(14) | 40.3 | Operating margin | 11.29% |
+| ATR(14) | 1.91 | Profit margin | 10.08% |
+| SMA20 dist | -4.68% | ROA | 4.46% |
+| SMA50 dist | -8.45% | ROE | 15.06% |
+| SMA200 dist | -11.58% | Revenue (ttm) | $28.74B |
 | 52W high | $69.18 | Revenue growth y/y | 14.50% |
 | 52W low | $43.99 | Inst. ownership | 100.27% |
 | P/E (ttm) | 18.23 | Insider ownership | 0.15% |
@@ -129,7 +130,7 @@ Baker Hughes Company provides a portfolio of technologies and services to energy
 | 2026-09-30 | main | UBS | Neutral → Neutral |
 
 ## 9. Conclusion
-BKR: Moderate momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+BKR: Low momentum / mixed fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

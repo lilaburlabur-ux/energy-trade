@@ -4,7 +4,7 @@ Signed file: `KMI.research.03.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-03, ~15-min delayed) |
+| Current price | $32.71 (2026-11-03, ~15-min delayed) |
 | Market cap | $72.87B |
 | Sector / Industry | Energy / Oil & Gas Midstream |
 | Main theme | Oil & Gas Midstream — see catalysts below |
@@ -15,11 +15,11 @@ Signed file: `KMI.research.03.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +31.62%; price +3.84% vs SMA200. |
+| Fresh setup quality | Watch | -4.15% from 52w high and near SMA20 — check for a tight base. |
 | Fundamental quality | Mixed | Profit margin 19.64%, revenue growth 9.30%. |
 | Value attractiveness | Fair-to-demanding | Forward P/E 21.14, EV/Sales 5.81. |
-| Risk level | Moderate | Beta 0.57, ATR nan% of price, short float 2.26%. |
+| Risk level | Moderate | Beta 0.57, ATR 2.5% of price, short float 2.26%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: fair-to-demanding, risk: moderate.
 
@@ -35,22 +35,22 @@ Kinder Morgan, Inc. operates as an energy infrastructure company primarily in No
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $34.43 (+nan%); 52w low $25.12 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 58.8 (neutral) |
-| Volatility | ATR(14) 0.81 (~nan% of price); beta 0.57 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $32.71; 52w high $34.13 (-4.15%); 52w low $24.90 (+31.36%) |
+| Trend | +3.84% vs SMA200, +2.83% vs SMA50, -1.03% vs SMA20 |
+| Momentum | RSI(14) 50.1 (neutral) |
+| Volatility | ATR(14) 0.81 (~2.5% of price); beta 0.57 |
+| Setup perspective | -4.15% from 52w high and near SMA20 — check for a tight base. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -2.8% |
+| Month | +6.2% |
+| Quarter | +5.2% |
+| Half Y | +2.6% |
+| 1Y | +31.6% |
+| YTD | +22.5% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -87,6 +87,7 @@ Kinder Morgan, Inc. operates as an energy infrastructure company primarily in No
 
 ## 6. Risk Review and Setup Plan
 - **Valuation risk:** Forward P/E 21.14, EV/Sales 5.81. Multiple compression is the main downside if growth disappoints.
+- **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -101,16 +102,16 @@ Kinder Morgan, Inc. operates as an energy infrastructure company primarily in No
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 5.81 |
+| Price | $32.71 | EV/Sales | 5.81 |
 | Market cap | $72.87B | EV/EBITDA | 13.88 |
 | Beta | 0.57 | Gross margin | 48.65% |
-| RSI(14) | 58.8 | Operating margin | 24.03% |
+| RSI(14) | 50.1 | Operating margin | 24.03% |
 | ATR(14) | 0.81 | Profit margin | 19.64% |
-| SMA20 dist | +nan% | ROA | 4.44% |
-| SMA50 dist | +nan% | ROE | 11.43% |
-| SMA200 dist | +nan% | Revenue (ttm) | $18.34B |
-| 52W high | $34.43 | Revenue growth y/y | 9.30% |
-| 52W low | $25.12 | Inst. ownership | 70.57% |
+| SMA20 dist | -1.03% | ROA | 4.44% |
+| SMA50 dist | +2.83% | ROE | 11.43% |
+| SMA200 dist | +3.84% | Revenue (ttm) | $18.34B |
+| 52W high | $34.13 | Revenue growth y/y | 9.30% |
+| 52W low | $24.90 | Inst. ownership | 70.57% |
 | P/E (ttm) | 20.19 | Insider ownership | 12.69% |
 | Forward P/E | 21.14 | Short float | 2.26% |
 | PEG (trailing) | 2.94 | Avg volume | 12,528,379 |
