@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-03T13:34:30+00:00",
-  "as_of_local": "2026-11-03 13:34:30 UTC",
+  "as_of_utc": "2026-11-03T13:39:13+00:00",
+  "as_of_local": "2026-11-03 13:39:13 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "SHEL"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -20,15 +22,6 @@
       "previous_close": 235.52,
       "change_pct": -3.29,
       "market_cap": 444379278335.5713,
-      "headlines": []
-    },
-    {
-      "symbol": "SHEL",
-      "name": "Shell",
-      "price": 104.94,
-      "previous_close": 108.69,
-      "change_pct": -3.45,
-      "market_cap": 297919069746.2421,
       "headlines": []
     },
     {
@@ -823,18 +816,18 @@
     },
     {
       "label": "WTI",
-      "price": 97.31,
-      "change_pct": 0.88
+      "price": 96.52,
+      "change_pct": 0.06
     },
     {
       "label": "Brent",
-      "price": 105.05,
-      "change_pct": 0.27
+      "price": 104.03,
+      "change_pct": -0.71
     },
     {
       "label": "NatGas",
-      "price": 2.89,
-      "change_pct": 1.33
+      "price": 2.9,
+      "change_pct": 1.54
     }
   ]
 }
