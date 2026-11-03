@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-03T21:49:58+00:00",
+  "as_of": "2026-11-03T21:54:59+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -27,8 +27,8 @@
    "rank": 2,
    "ticker": "BE",
    "company": "Bloom Energy Corporation",
-   "move_pct": 12.87,
-   "price": 221.5,
+   "move_pct": 12.99,
+   "price": 221.75,
    "volume": 13673179,
    "volume_vs_avg": "~0.9x",
    "heat_score": 75,
@@ -107,32 +107,16 @@
    "rank": 7,
    "ticker": "RUN",
    "company": "Sunrun Inc.",
-   "move_pct": 5.94,
-   "price": 8.74,
+   "move_pct": 5.58,
+   "price": 8.71,
    "volume": 13161558,
    "volume_vs_avg": "~2x",
-   "heat_score": 44,
+   "heat_score": 42,
    "direction": "up",
    "why": "Enphase Surges 9%, Sunrun Climbs 7%, SolarEdge Rallies 6% as Solar Rebound Extends Into Earnings",
    "catalyst_type": "earnings",
    "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZGJMVF9EY2FnVkx5RmxvYmtuaE5WVzgzUUlpaXZXUUNjTkVFcjl0Sk1weGV3cUJBTXlhM0tOTjZQSnRldThWdUlXSVhFajJoVDdhVzdCX245SUtUVEpNS202Nll0d1RfUzZPaGd5d29yVjFCOGZMRUNzZUN4U0k2WFRKUVRxWTdpejBOODNLQlhRSEl3R2VDWGhfM0hlbzdpMk0tMTFlTDlVYm9wdGQzdDNOak5VUHUwTk5yWlJudHdxSWdQSUZ6dDkxRWdqdlhm?oc=5",
    "published": "2026-11-03T18:50:00+00:00",
-   "sector": "Renewables & Solar"
-  },
-  {
-   "rank": 8,
-   "ticker": "NXT",
-   "company": "Nextpower Inc.",
-   "move_pct": 5.37,
-   "price": 96.02,
-   "volume": 4089212,
-   "volume_vs_avg": "~2x",
-   "heat_score": 43,
-   "direction": "up",
-   "why": "Nextpower Stock Climbs as Strong Q2 Sparks Wall Street Forecast Divide",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNOXZlWTIxY19ISHY1QkE3Nm5tZnBLQzF5eVhOUEdmRHd3YnRtZUwwWWIyUWM5RnNhd3NkdU9ucHVYMDBfeDNoSEp2M1h3eC12OVljOExlS29fQ1MycGo0blNEUWpFcXhQWXZJVzFwVkt5bm0weWxNRnJyVVp0QmdPUnZTSy1oS0tiOHlyY3ZEX1NfbWQ3NEY0SXhJanlmT3h0a2VsY1dQaUdHc190clc3SlJHSkdXb3NXampmZjBWckZSNkR6VFE?oc=5",
-   "published": "2026-11-03T17:54:10+00:00",
    "sector": "Renewables & Solar"
   }
  ]
