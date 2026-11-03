@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-03T11:44:02+00:00",
-  "as_of_local": "2026-11-03 11:44:02 UTC",
+  "as_of_utc": "2026-11-03T11:47:44+00:00",
+  "as_of_local": "2026-11-03 11:47:44 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "GEV"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -31,6 +29,15 @@
       "previous_close": 108.69,
       "change_pct": -3.45,
       "market_cap": 297919069746.2421,
+      "headlines": []
+    },
+    {
+      "symbol": "GEV",
+      "name": "GE Vernova",
+      "price": 862.25,
+      "previous_close": 857.87,
+      "change_pct": 0.51,
+      "market_cap": 228217800158.5,
       "headlines": []
     },
     {
@@ -816,18 +823,18 @@
     },
     {
       "label": "WTI",
-      "price": 98.42,
-      "change_pct": 2.03
+      "price": 98.53,
+      "change_pct": 2.15
     },
     {
       "label": "Brent",
-      "price": 106.38,
-      "change_pct": 1.54
+      "price": 106.52,
+      "change_pct": 1.67
     },
     {
       "label": "NatGas",
       "price": 2.9,
-      "change_pct": 1.68
+      "change_pct": 1.72
     }
   ]
 }
