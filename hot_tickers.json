@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-03T08:20:35+00:00",
+  "as_of": "2026-11-03T08:35:45+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,22 +9,6 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "NXT",
-   "company": "Nextpower Inc.",
-   "move_pct": 14.87,
-   "price": 91.13,
-   "volume": 5507800,
-   "volume_vs_avg": "~3x",
-   "heat_score": 90,
-   "direction": "up",
-   "why": "Nextpower (NXT) Stock Jumps As Q2 Earnings Fuel Growth Debate",
-   "catalyst_type": "earnings",
-   "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMmN0cjdJMnpIZnRQWkpaT0Y2QXpKM0VURFhGRkFyYVUzeFFXUXpfNlZKU3BXSVF0MHFwWWZuNXhmQmRSUGNDT3dGelZmZ2YyVEpRWHVmR1NPOUVEYVhHNzd3ZFJEZ190Q3ZYbHU4aHRQb3Y2V3JndkRjT092cHV3NHh0dmVmaGhVS29adEFQeW92NTUwb1BrNQ?oc=5",
-   "published": "2026-11-03T04:27:00+00:00",
-   "sector": "Renewables & Solar"
-  },
-  {
-   "rank": 2,
    "ticker": "EQNR",
    "company": "Equinor ASA",
    "move_pct": -6.87,
@@ -33,14 +17,14 @@
    "volume_vs_avg": "~1.4x",
    "heat_score": 46,
    "direction": "down",
-   "why": "Equinor ASA: Share buy-back \u2013 fourth tranche for 2026",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNa0VKclFTdnA0bGNxd0VZWDM1YmRFREJSRHRpbDkzVzBEV2hrVWVPVjFmLXo3T1RtcTR5QTJOQWk5S3JRY1VsLVJMU1NzUDdxNENEVkllWmRncG9Fck1ONWp2WFdhU25IVGxvRUoxMVlleXNFS3Q1X0EwekFibS1KbTVkWkpPcVVRelFQdjVBclBSS3lfdFZwNDc3OV9VX2FWbEE?oc=5",
-   "published": "2026-11-03T07:00:00+00:00",
+   "why": "Equinor ASA (NYSE:EQNR) Stock Has Consensus Price Target of $43.47 According to Brokerages",
+   "catalyst_type": "analyst_action",
+   "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUVpQZjY5OU9MREc2VGtJa1YyVmFXdkhhZVZrLUNVdENfTVVKQWN1c2pNeUUtdERPOXBqRngzWGZnb1REN0IxWlY2bmJxX0h2NnVLWHExY20weVM0bVotMmNJTjFubEJtX3hLdnBUZDBGTTNGYlNrbm1YZjdlNlkxUUVvdlRROTVmYnoyalB5Z0ZDZ05hTnRoLWJ1NV84Z2x3QUYzQjdfNng0N0MxWlpXM1c4eG9sZ2hEeERyS3hIbkx2c1RLdk1hSWVqdVY5LU82ZTNjLTlPaElRUUo0eVBCRm1ncXo?oc=5",
+   "published": "2026-11-03T07:45:58+00:00",
    "sector": "Oil & Gas Majors"
   },
   {
-   "rank": 3,
+   "rank": 2,
    "ticker": "LNG",
    "company": "Cheniere Energy, Inc.",
    "move_pct": -5.65,
