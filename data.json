@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-03T10:32:45+00:00",
-  "as_of_local": "2026-11-03 10:32:45 UTC",
+  "as_of_utc": "2026-11-03T10:39:14+00:00",
+  "as_of_local": "2026-11-03 10:39:14 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -73,7 +73,16 @@
       "price": 366.07,
       "previous_close": 369.97,
       "change_pct": -1.05,
-      "market_cap": 142181590844.72656,
+      "market_cap": 142144983843.99414,
+      "headlines": []
+    },
+    {
+      "symbol": "MPC",
+      "name": "Marathon Petroleum",
+      "price": 430.39,
+      "previous_close": 444.73,
+      "change_pct": -3.22,
+      "market_cap": 125646612614.06555,
       "headlines": []
     },
     {
@@ -83,15 +92,6 @@
       "previous_close": 50.39,
       "change_pct": -4.98,
       "market_cap": 123319322238.86848,
-      "headlines": []
-    },
-    {
-      "symbol": "MPC",
-      "name": "Marathon Petroleum",
-      "price": 430.39,
-      "previous_close": 444.73,
-      "change_pct": -3.22,
-      "market_cap": 120864173861.21399,
       "headlines": []
     },
     {
@@ -190,7 +190,7 @@
       "price": 157.89,
       "previous_close": 165.54,
       "change_pct": -4.62,
-      "market_cap": 82817911278.4928,
+      "market_cap": 84096718276.60934,
       "headlines": []
     },
     {
@@ -343,7 +343,7 @@
       "price": 74.38,
       "previous_close": 74.29,
       "change_pct": 0.12,
-      "market_cap": 37072480462.4485,
+      "market_cap": 37065144512.07939,
       "headlines": []
     },
     {
@@ -487,7 +487,7 @@
       "price": 30.05,
       "previous_close": 28.65,
       "change_pct": 4.89,
-      "market_cap": 9018354132.333,
+      "market_cap": 9113442516.868801,
       "headlines": []
     },
     {
@@ -823,18 +823,18 @@
     },
     {
       "label": "WTI",
-      "price": 97.73,
-      "change_pct": 1.32
+      "price": 97.74,
+      "change_pct": 1.33
     },
     {
       "label": "Brent",
-      "price": 105.83,
-      "change_pct": 1.01
+      "price": 105.8,
+      "change_pct": 0.98
     },
     {
       "label": "NatGas",
       "price": 2.89,
-      "change_pct": 1.26
+      "change_pct": 1.23
     }
   ]
 }
