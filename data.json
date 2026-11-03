@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-03T06:20:01+00:00",
-  "as_of_local": "2026-11-03 06:20:01 UTC",
+  "as_of_utc": "2026-11-03T06:25:21+00:00",
+  "as_of_local": "2026-11-03 06:25:21 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "TLN"
+    "DVN"
   ],
   "stocks": [
     {
@@ -304,15 +304,6 @@
       "headlines": []
     },
     {
-      "symbol": "DVN",
-      "name": "Devon Energy",
-      "price": 48.63,
-      "previous_close": 52.15,
-      "change_pct": -6.75,
-      "market_cap": 53493001174.92676,
-      "headlines": []
-    },
-    {
       "symbol": "BKR",
       "name": "Baker Hughes",
       "price": 53.05,
@@ -445,6 +436,15 @@
       "previous_close": 52.82,
       "change_pct": -7.57,
       "market_cap": 17104160611.281204,
+      "headlines": []
+    },
+    {
+      "symbol": "TLN",
+      "name": "Talen Energy",
+      "price": 332.99,
+      "previous_close": 343.12,
+      "change_pct": -2.95,
+      "market_cap": 15750426538.085938,
       "headlines": []
     },
     {
@@ -816,18 +816,18 @@
     },
     {
       "label": "WTI",
-      "price": 97.49,
-      "change_pct": 1.07
+      "price": 97.43,
+      "change_pct": 1.01
     },
     {
       "label": "Brent",
-      "price": 105.87,
-      "change_pct": 1.05
+      "price": 105.79,
+      "change_pct": 0.97
     },
     {
       "label": "NatGas",
       "price": 2.88,
-      "change_pct": 0.7
+      "change_pct": 0.67
     }
   ]
 }
