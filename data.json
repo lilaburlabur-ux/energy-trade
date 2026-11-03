@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-03T21:06:05+00:00",
-  "as_of_local": "2026-11-03 21:06:05 UTC",
+  "as_of_utc": "2026-11-03T21:10:06+00:00",
+  "as_of_local": "2026-11-03 21:10:06 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -206,7 +206,7 @@
       "price": 391.61,
       "previous_close": 366.07,
       "change_pct": 6.98,
-      "market_cap": 152101318310.54688,
+      "market_cap": 152062157312.01172,
       "headlines": [
         {
           "title": "Eaton Just Dropped 16% in a Month. Is It Time to Sell, or Load Up?",
@@ -225,6 +225,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/eaton-stocks-surge-7-electrical-170608898.html",
           "publisher": "GuruFocus.com",
           "published": "2026-11-03T17:06:08Z"
+        }
+      ]
+    },
+    {
+      "symbol": "MPC",
+      "name": "Marathon Petroleum",
+      "price": 427.63,
+      "previous_close": 430.39,
+      "change_pct": -0.64,
+      "market_cap": 124840864650.52185,
+      "headlines": [
+        {
+          "title": "Oil Edges Lower As U.S. Bombs Iran Before Election Day",
+          "url": "https://www.investors.com/news/oil-prices-us-iran-hormuz-trump-exxon-chevron-midterm-election/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-11-03T21:07:20Z"
+        },
+        {
+          "title": "Carl Icahn Buys A $4.2 Billion Slice Of The Refining Profit Surge",
+          "url": "https://www.investors.com/news/carl-icahn-cvr-energy-inks-4-2-billion-deal-for-marathon-refineries/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-11-03T19:54:47Z"
+        },
+        {
+          "title": "Sector Update: Energy Stocks Decline Tuesday Afternoon",
+          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-decline-tuesday-184914955.html",
+          "publisher": "MT Newswires",
+          "published": "2026-11-03T18:49:14Z"
         }
       ]
     },
@@ -257,34 +285,6 @@
       ]
     },
     {
-      "symbol": "MPC",
-      "name": "Marathon Petroleum",
-      "price": 427.63,
-      "previous_close": 430.39,
-      "change_pct": -0.64,
-      "market_cap": 120089094772.90466,
-      "headlines": [
-        {
-          "title": "Carl Icahn Buys A $4.2 Billion Slice Of The Refining Profit Surge",
-          "url": "https://www.investors.com/news/carl-icahn-cvr-energy-inks-4-2-billion-deal-for-marathon-refineries/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-11-03T19:54:47Z"
-        },
-        {
-          "title": "Oil Edges Lower As U.S. Bombs Iran Before Election Day",
-          "url": "https://www.investors.com/news/oil-prices-us-iran-hormuz-trump-exxon-chevron-midterm-election/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-11-03T19:36:22Z"
-        },
-        {
-          "title": "Sector Update: Energy Stocks Decline Tuesday Afternoon",
-          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-decline-tuesday-184914955.html",
-          "publisher": "MT Newswires",
-          "published": "2026-11-03T18:49:14Z"
-        }
-      ]
-    },
-    {
       "symbol": "VLO",
       "name": "Valero Energy",
       "price": 387.68,
@@ -293,16 +293,16 @@
       "market_cap": 108117902149.38965,
       "headlines": [
         {
+          "title": "Oil Edges Lower As U.S. Bombs Iran Before Election Day",
+          "url": "https://www.investors.com/news/oil-prices-us-iran-hormuz-trump-exxon-chevron-midterm-election/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-11-03T21:07:20Z"
+        },
+        {
           "title": "Carl Icahn Buys A $4.2 Billion Slice Of The Refining Profit Surge",
           "url": "https://www.investors.com/news/carl-icahn-cvr-energy-inks-4-2-billion-deal-for-marathon-refineries/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
           "published": "2026-11-03T19:54:47Z"
-        },
-        {
-          "title": "Oil Edges Lower As U.S. Bombs Iran Before Election Day",
-          "url": "https://www.investors.com/news/oil-prices-us-iran-hormuz-trump-exxon-chevron-midterm-election/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-11-03T19:36:22Z"
         },
         {
           "title": "Valero to Acquire Houston Refining Site, Plans 165,000 BPD Restart",
@@ -377,12 +377,6 @@
       "market_cap": 106115288691.61786,
       "headlines": [
         {
-          "title": "Oil Edges Lower As U.S. Bombs Iran Before Election Day",
-          "url": "https://www.investors.com/news/oil-prices-us-iran-hormuz-trump-exxon-chevron-midterm-election/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-11-03T19:36:22Z"
-        },
-        {
           "title": "Defense and Energy Stocks Are Among the Winners of a Split Congress",
           "url": "https://www.barrons.com/livecoverage/stock-market-news-today-110326/card/defense-and-energy-stocks-are-among-the-winners-of-a-split-congress-vAew8t2Tpug3baqtccon?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
@@ -393,6 +387,12 @@
           "url": "https://www.wsj.com/business/deals/carl-icahns-cvr-energy-near-over-4-billion-deal-for-marathon-refineries-e8487579?siteid=yhoof2&yptr=yahoo",
           "publisher": "The Wall Street Journal",
           "published": "2026-11-03T14:33:00Z"
+        },
+        {
+          "title": "Buy 3 Energy Stocks as November Momentum Builds Up Post Choppy October",
+          "url": "https://finance.yahoo.com/energy/articles/buy-3-energy-stocks-november-115100353.html",
+          "publisher": "Zacks",
+          "published": "2026-11-03T11:51:00Z"
         }
       ]
     },
@@ -517,6 +517,12 @@
       "market_cap": 89028189052.27417,
       "headlines": [
         {
+          "title": "Canadian crude discount with U.S. at widest level since 2018",
+          "url": "https://finance.yahoo.com/markets/commodities/articles/canadian-crude-discount-u-widest-210019110.html",
+          "publisher": "Investing.com",
+          "published": "2026-11-03T21:00:19Z"
+        },
+        {
           "title": "3 Canadian Value Stocks Trading Up To 32% Below Fair Value",
           "url": "https://finance.yahoo.com/markets/stocks/articles/3-canadian-value-stocks-trading-121153355.html",
           "publisher": "Simply Wall St.",
@@ -527,12 +533,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/3-canadian-undervalued-stocks-trading-110842522.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-02T11:08:42Z"
-        },
-        {
-          "title": "Zacks.com featured highlights include Alphabet, GormanRupp, Micron, Corning, Suncor Energy and Plains All American Pipeline",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-com-featured-highlights-alphabet-085700899.html",
-          "publisher": "Zacks",
-          "published": "2026-11-02T08:57:00Z"
         }
       ]
     },
@@ -570,7 +570,7 @@
       "price": 155.17,
       "previous_close": 157.89,
       "change_pct": -1.72,
-      "market_cap": 81391191279.4784,
+      "market_cap": 82647968024.82803,
       "headlines": [
         {
           "title": "What Just Happened To Devon Energy Stock?",
@@ -1046,7 +1046,7 @@
       "price": 72.79,
       "previous_close": 74.38,
       "change_pct": -2.14,
-      "market_cap": 36279994440.017166,
+      "market_cap": 36272815307.80687,
       "headlines": [
         {
           "title": "Can Edison International Stock Jump 30%?",
@@ -1301,12 +1301,6 @@
       "market_cap": 19443772110.545013,
       "headlines": [
         {
-          "title": "Oil Edges Lower As U.S. Bombs Iran Before Election Day",
-          "url": "https://www.investors.com/news/oil-prices-us-iran-hormuz-trump-exxon-chevron-midterm-election/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-11-03T19:36:22Z"
-        },
-        {
           "title": "Best Value Stocks to Buy Now in November",
           "url": "https://finance.yahoo.com/markets/stocks/articles/best-value-stocks-buy-now-182900086.html",
           "publisher": "Zacks",
@@ -1317,6 +1311,12 @@
           "url": "https://finance.yahoo.com/energy/articles/valero-acquire-houston-refining-plans-171900957.html",
           "publisher": "Zacks",
           "published": "2026-11-03T17:19:00Z"
+        },
+        {
+          "title": "Should Investors Buy DINO Stock Amid Strong Refining Margins?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/investors-buy-dino-stock-amid-152900105.html",
+          "publisher": "Zacks",
+          "published": "2026-11-03T15:29:00Z"
         }
       ]
     },
@@ -1491,10 +1491,10 @@
     {
       "symbol": "BEP",
       "name": "Brookfield Renewable",
-      "price": 30.29,
+      "price": 30.3,
       "previous_close": 30.05,
-      "change_pct": 0.8,
-      "market_cap": 9090381426.3004,
+      "change_pct": 0.83,
+      "market_cap": 9189261508.118801,
       "headlines": [
         {
           "title": "If I Could Only Buy 1 AI Power Stock for the Next Decade, It Wouldn't Be Bloom Energy or GE Vernova",
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 96.56,
-      "change_pct": 0.1
+      "price": 96.59,
+      "change_pct": 0.13
     },
     {
       "label": "Brent",
-      "price": 104.28,
-      "change_pct": -0.47
+      "price": 104.2,
+      "change_pct": -0.54
     },
     {
       "label": "NatGas",
       "price": 2.9,
-      "change_pct": 1.68
+      "change_pct": 1.65
     }
   ]
 }
