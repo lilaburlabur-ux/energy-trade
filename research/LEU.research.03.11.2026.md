@@ -18,7 +18,7 @@ Signed file: `LEU.research.03.11.2026`
 | Technical momentum | Low | Below SMA200 (-47.78%) with negative half-year (-53.57%). |
 | Fresh setup quality | Poor / broken | -72.11% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 10.23%, revenue growth 14.00%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 21.55, EV/Sales 2.54. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 23.31, EV/Sales 2.54. |
 | Risk level | High | Beta 1.41, ATR 8.9% of price, short float 30.28%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: fair-to-demanding, risk: high.
@@ -68,7 +68,7 @@ Centrus Energy Corp. supplies nuclear fuel components for the nuclear power indu
 | Revenue (ttm) | $473.90M | Revenue growth 14.00% y/y |
 | Profitability | Gross 23.66%, operating 5.34%, net 10.23% | ROA 0.02%, ROE 8.05% |
 | Balance sheet | Cash $1.87B, debt $1.18B | Current ratio 5.39, debt/equity 139.28 |
-| Valuation | P/E 44.71, forward P/E 21.55, P/S 4.13, P/B 2.26 | EV/Sales 2.54, EV/EBITDA 119.06 |
+| Valuation | P/E 44.71, forward P/E 23.31, P/S 4.13, P/B 2.26 | EV/Sales 2.54, EV/EBITDA 119.06 |
 | Growth expectations | Earnings growth -51.60%, EPS q/q -41.90% | Analyst mean target $206.36 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ Centrus Energy Corp. supplies nuclear fuel components for the nuclear power indu
 | Renaissance Technologies, LLC | 280,482 | 1.46% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 21.55, EV/Sales 2.54. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 23.31, EV/Sales 2.54. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 1.41, ATR 8.9% of price, short float 30.28%. Size positions accordingly.
 - **Short interest risk:** short float 30.28% can fuel squeezes both ways around news.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
@@ -124,7 +124,7 @@ Centrus Energy Corp. supplies nuclear fuel components for the nuclear power indu
 | 52W high | $342.99 | Revenue growth y/y | 14.00% |
 | 52W low | $94.90 | Inst. ownership | 85.05% |
 | P/E (ttm) | 44.71 | Insider ownership | 1.03% |
-| Forward P/E | 21.55 | Short float | 30.28% |
+| Forward P/E | 23.31 | Short float | 30.28% |
 | PEG (trailing) | — | Avg volume | 745,751 |
 | P/S | 4.13 | Employees | 467 |
 | P/B | 2.26 | Analyst rec (1=buy..5=sell) | 1.9 |

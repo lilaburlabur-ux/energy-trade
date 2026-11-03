@@ -18,7 +18,7 @@ Signed file: `CVX.research.03.11.2026`
 | Technical momentum | Moderate | 1Y +48.46%; price +17.39% vs SMA200. |
 | Fresh setup quality | Watch | -4.35% from 52w high and near SMA20 — check for a tight base. |
 | Fundamental quality | Mixed | Profit margin 11.92%, revenue growth 34.80%. |
-| Value attractiveness | Reasonable | Forward P/E 13.77, EV/Sales 2.12. |
+| Value attractiveness | Reasonable | Forward P/E 14.16, EV/Sales 2.12. |
 | Risk level | Moderate | Beta 0.45, ATR 2.1% of price, short float 1.32%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -68,7 +68,7 @@ Chevron Corporation, through its subsidiaries, engages in the integrated energy 
 | Revenue (ttm) | $226.33B | Revenue growth 34.80% y/y |
 | Profitability | Gross 44.40%, operating 18.01%, net 11.92% | ROA —, ROE — |
 | Balance sheet | Cash $8.53B, debt $37.08B | Current ratio —, debt/equity 18.96 |
-| Valuation | P/E 16.54, forward P/E 13.77, P/S 1.94, P/B 2.33 | EV/Sales 2.12, EV/EBITDA 8.23 |
+| Valuation | P/E 16.54, forward P/E 14.16, P/S 1.94, P/B 2.33 | EV/Sales 2.12, EV/EBITDA 8.23 |
 | Growth expectations | Earnings growth 178.00%, EPS q/q 180.40% | Analyst mean target $241.67 (24 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -121,7 +121,7 @@ Chevron Corporation, through its subsidiaries, engages in the integrated energy 
 | 52W high | $235.52 | Revenue growth y/y | 34.80% |
 | 52W low | $142.76 | Inst. ownership | 72.06% |
 | P/E (ttm) | 16.54 | Insider ownership | 4.83% |
-| Forward P/E | 13.77 | Short float | 1.32% |
+| Forward P/E | 14.16 | Short float | 1.32% |
 | PEG (trailing) | 1.02 | Avg volume | 8,398,748 |
 | P/S | 1.94 | Employees | 43,039 |
 | P/B | 2.33 | Analyst rec (1=buy..5=sell) | 1.7 |

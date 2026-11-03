@@ -4,8 +4,8 @@ Signed file: `XOM.research.03.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $177.50 (2026-11-03, ~15-min delayed) |
-| Market cap | $724.02B |
+| Current price | $177.46 (2026-11-03, ~15-min delayed) |
+| Market cap | $723.86B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,10 +15,10 @@ Signed file: `XOM.research.03.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +59.71%; price +15.33% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -5.21% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +59.67%; price +15.30% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -5.23% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 10.46%, revenue growth 32.60%. |
-| Value attractiveness | Reasonable | Forward P/E 14.78, EV/Sales 1.96. |
+| Value attractiveness | Reasonable | Forward P/E 14.77, EV/Sales 1.96. |
 | Risk level | Moderate | Beta 0.14, ATR 2.3% of price, short float 1.16%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -44,17 +44,17 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $177.50; 52w high $187.25 (-5.21%); 52w low $110.48 (+60.67%) |
-| Trend | +15.33% vs SMA200, +5.45% vs SMA50, +0.05% vs SMA20 |
-| Momentum | RSI(14) 53.5 (neutral) |
+| Price vs 52-week range | Close $177.46; 52w high $187.25 (-5.23%); 52w low $110.48 (+60.63%) |
+| Trend | +15.30% vs SMA200, +5.43% vs SMA50, +0.03% vs SMA20 |
+| Momentum | RSI(14) 53.4 (neutral) |
 | Volatility | ATR(14) 4.15 (~2.3% of price); beta 0.14 |
-| Setup perspective | -5.21% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -5.23% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -1.3% |
+| Week | -1.4% |
 | Month | +8.2% |
 | Quarter | +17.8% |
 | Half Y | +16.1% |
@@ -68,7 +68,7 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 | Revenue (ttm) | $388.23B | Revenue growth 32.60% y/y |
 | Profitability | Gross 29.81%, operating 16.98%, net 10.46% | ROA 6.88%, ROE 15.53% |
 | Balance sheet | Cash $12.15B, debt $34.25B | Current ratio 1.19, debt/equity 12.57 |
-| Valuation | P/E 18.26, forward P/E 14.78, P/S 1.86, P/B 2.72 | EV/Sales 1.96, EV/EBITDA 9.65 |
+| Valuation | P/E 18.26, forward P/E 14.77, P/S 1.86, P/B 2.72 | EV/Sales 1.96, EV/EBITDA 9.65 |
 | Growth expectations | Earnings growth 111.40%, EPS q/q 104.20% | Analyst mean target $182.71 (21 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -110,18 +110,18 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $177.50 | EV/Sales | 1.96 |
-| Market cap | $724.02B | EV/EBITDA | 9.65 |
+| Price | $177.46 | EV/Sales | 1.96 |
+| Market cap | $723.86B | EV/EBITDA | 9.65 |
 | Beta | 0.14 | Gross margin | 29.81% |
-| RSI(14) | 53.5 | Operating margin | 16.98% |
+| RSI(14) | 53.4 | Operating margin | 16.98% |
 | ATR(14) | 4.15 | Profit margin | 10.46% |
-| SMA20 dist | +0.05% | ROA | 6.88% |
-| SMA50 dist | +5.45% | ROE | 15.53% |
-| SMA200 dist | +15.33% | Revenue (ttm) | $388.23B |
+| SMA20 dist | +0.03% | ROA | 6.88% |
+| SMA50 dist | +5.43% | ROE | 15.53% |
+| SMA200 dist | +15.30% | Revenue (ttm) | $388.23B |
 | 52W high | $187.25 | Revenue growth y/y | 32.60% |
 | 52W low | $110.48 | Inst. ownership | 68.65% |
 | P/E (ttm) | 18.26 | Insider ownership | 0.08% |
-| Forward P/E | 14.78 | Short float | 1.16% |
+| Forward P/E | 14.77 | Short float | 1.16% |
 | PEG (trailing) | 1.52 | Avg volume | 13,450,128 |
 | P/S | 1.86 | Employees | 57,900 |
 | P/B | 2.72 | Analyst rec (1=buy..5=sell) | 2.4 |

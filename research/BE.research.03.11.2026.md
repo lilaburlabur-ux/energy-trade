@@ -36,10 +36,10 @@ Bloom Energy Corporation designs, manufactures, sells, and installs solid oxide 
 
 | Headline | Source | Date |
 |---|---|---|
+| What California Resources (CRC) Said on Its Q3 Earnings Call | MarketBeat | 2026-11-03 |
 | Bloom Energy (BE) Signed A Carbon Captured Power Deal In California | Simply Wall St. | 2026-11-03 |
 | Why Did Bloom Energy Stock Jump 10% Today? | Motley Fool | 2026-11-03 |
 | Bloom Energy Gains 9% on California Resources’ 1 GW Fuel Cell Tie-Up and Barclays Upgrade | TIKR | 2026-11-03 |
-| Bloom Energy Stock Upgrade Points to Staying Power for AI Data Centers | Barrons.com | 2026-11-03 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
