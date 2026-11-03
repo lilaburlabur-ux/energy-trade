@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-03T23:42:05+00:00",
-  "as_of_local": "2026-11-03 23:42:05 UTC",
+  "as_of_utc": "2026-11-03T23:47:32+00:00",
+  "as_of_local": "2026-11-03 23:47:32 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "NEE"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -143,6 +141,34 @@
           "url": "https://finance.yahoo.com/energy/articles/totalenergies-enxtpa-tte-takes-30-081003324.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-03T08:10:03Z"
+        }
+      ]
+    },
+    {
+      "symbol": "NEE",
+      "name": "NextEra Energy",
+      "price": 84.33,
+      "previous_close": 85.03,
+      "change_pct": -0.82,
+      "market_cap": 176865822952.4521,
+      "headlines": [
+        {
+          "title": "How Much Did Dominion Stock Really Pay Its Holders?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/much-did-dominion-stock-really-221659795.html",
+          "publisher": "Trefis",
+          "published": "2026-11-03T22:16:59Z"
+        },
+        {
+          "title": "Nearly Two-Thirds of NextEra's New Backlog Last Quarter Was Batteries. Here's Why That Matters.",
+          "url": "https://finance.yahoo.com/energy/articles/nearly-two-thirds-nexteras-backlog-193500131.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-03T19:35:00Z"
+        },
+        {
+          "title": "State Street SPDR S&P Dividend ETF (SDY) Sells Accenture and Chevron on Oct. 30",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/state-street-spdr-p-dividend-110357704.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-03T11:03:57Z"
         }
       ]
     },
@@ -1385,26 +1411,7 @@
       "previous_close": 91.13,
       "change_pct": 5.37,
       "market_cap": 14569068001.054077,
-      "headlines": [
-        {
-          "title": "Enphase Surges 9%, Sunrun Climbs 7%, SolarEdge Rallies 6% as Solar Rebound Extends Into Earnings",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/enphase-surges-9-sunrun-climbs-185053309.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-03T18:50:53Z"
-        },
-        {
-          "title": "All You Need to Know About Nextpower (NXT) Rating Upgrade to Buy",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/know-nextpower-nxt-rating-upgrade-160005258.html",
-          "publisher": "Zacks",
-          "published": "2026-11-03T16:00:05Z"
-        },
-        {
-          "title": "Wall Street Analysts Predict a 42.73% Upside in Nextpower (NXT): Here's  What You Should Know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-predict-42-135501707.html",
-          "publisher": "Zacks",
-          "published": "2026-11-03T13:55:01Z"
-        }
-      ]
+      "headlines": []
     },
     {
       "symbol": "AR",
@@ -1693,26 +1700,7 @@
       "previous_close": 8.25,
       "change_pct": 5.21,
       "market_cap": 2070607883.959465,
-      "headlines": [
-        {
-          "title": "Enphase Surges 9%, Sunrun Climbs 7%, SolarEdge Rallies 6% as Solar Rebound Extends Into Earnings",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/enphase-surges-9-sunrun-climbs-185053309.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-03T18:50:53Z"
-        },
-        {
-          "title": "Curious about Sunrun (RUN) Q3 Performance? Explore Wall Street Estimates for Key Metrics",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/curious-sunrun-run-q3-performance-131504409.html",
-          "publisher": "Zacks",
-          "published": "2026-11-03T13:15:04Z"
-        },
-        {
-          "title": "Sunrun (RUN) Heads Into Q3 Earnings With Shares Up 10.3%: What to Expect",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/sunrun-run-heads-q3-earnings-035752764.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-11-03T03:57:52Z"
-        }
-      ]
+      "headlines": []
     },
     {
       "symbol": "SEDG",
@@ -2089,18 +2077,18 @@
     },
     {
       "label": "WTI",
-      "price": 96.73,
-      "change_pct": 0.28
+      "price": 96.4,
+      "change_pct": -0.06
     },
     {
       "label": "Brent",
-      "price": 104.33,
-      "change_pct": -0.42
+      "price": 104.1,
+      "change_pct": -0.64
     },
     {
       "label": "NatGas",
-      "price": 2.9,
-      "change_pct": 1.4
+      "price": 2.89,
+      "change_pct": 1.37
     }
   ]
 }
