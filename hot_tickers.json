@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-03T13:08:13+00:00",
+  "as_of": "2026-11-03T13:23:35+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,16 +11,16 @@
    "rank": 1,
    "ticker": "BE",
    "company": "Bloom Energy Corporation",
-   "move_pct": 6.24,
-   "price": 208.5,
+   "move_pct": 5.73,
+   "price": 207.49,
    "volume": 15414000,
    "volume_vs_avg": "~1.0x",
-   "heat_score": 42,
+   "heat_score": 40,
    "direction": "up",
-   "why": "Why is Bloom Energy stock surging today? By Investing.com",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNR01meENYUF9QeHNSOU5pUjZzeGh1cTBFUjFDRkNnUHVYOWR1QVM0MlN1d29YaERKVjZIcmlnMmxKVEoyUGJLSkxxNmxEd042UUlJMTE0M0Z4VFVNZ0tpb2NIcWp4WjE3bzJ4cURkczVRRUNxcjlMMERNTXBVX0xyeEt6cW5Mbzd0UjdEOFRMczdWNnpwNlFHUFJ6OXd6eXk0Mmc?oc=5",
-   "published": "2026-11-03T12:40:00+00:00",
+   "why": "Buy, Sell, or Hold? Tuesday\u2019s Top Upgrades and Downgrades: AON, Bloom Energy, Chevron, Cloudflare, Marvell Technologies, Lumentum Holdings, Merck & Co., Roku, X-Energy, and More",
+   "catalyst_type": "analyst_action",
+   "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxON3hreGR5Y2NOc3RIVzlXNXQyWHp1ekhDU0R2ZURQb0U5RUE4dEQtV3Q3ekloNjdnOVFuU1hSb3U2YWpWNm05SDk2MUJ2YzlWd0FoRlV4RVlDLVJzMUVpbW5VcHczNXd1RHhETGtvcGZOS1VDaHhPWmg5d1U5T0dzejFMZXVMaFpaTDN2SnF2ektsd1R3?oc=5",
+   "published": "2026-11-03T12:59:26+00:00",
    "sector": "Grid, Storage & Electrification"
   }
  ]
