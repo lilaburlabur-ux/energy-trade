@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-03T14:19:28+00:00",
+  "as_of": "2026-11-03T14:34:37+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,17 +11,33 @@
    "rank": 1,
    "ticker": "BE",
    "company": "Bloom Energy Corporation",
-   "move_pct": 7.77,
-   "price": 211.5,
-   "volume": 15414000,
-   "volume_vs_avg": "~1.0x",
-   "heat_score": 47,
+   "move_pct": 9.06,
+   "price": 214.02,
+   "volume": 1854161,
+   "volume_vs_avg": "~0.1x",
+   "heat_score": 57,
    "direction": "up",
    "why": "Barclays raises Bloom Energy to Overweight on stronger-than-expected demand",
    "catalyst_type": "analyst_action",
    "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUHBKWElrWjlBY3p5UF83aVp5OHlRZ0YyeXp4Q0JPamxIVS1NSGlqSThZSExkSkFjUXhEbmZza2dtUFE5RTEyUFdzSk5feEpCYWllenNLb1Rxc3ZKTFVJZ3BvcTVoYVF3QUlKTzc0UHRDS2RuZ3FHdUtsTENXVi1KeEh3YjA2YmxRRjVETUFSdE1VNkl6eDBNZFl1YVlNV2hzRWs5SmNiS2VGY0FDVTdmQ0JEZ2NjWlp1bnRiMW1SZVh1eUx0YURKdw?oc=5",
    "published": "2026-11-03T13:29:12+00:00",
    "sector": "Grid, Storage & Electrification"
+  },
+  {
+   "rank": 2,
+   "ticker": "TLN",
+   "company": "Talen Energy Corporation",
+   "move_pct": 5.38,
+   "price": 350.89,
+   "volume": 64433,
+   "volume_vs_avg": "~0.1x",
+   "heat_score": 34,
+   "direction": "up",
+   "why": "Why is Talen Energy stock climbing today? By Investing.com",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZTZJUWZVTEJ3VnFyLXBMT0lyV1I1VGROVUhEVzVwRWhSaS1BbnNqVWNJUWNmZlc2ZkN6aTBwZE5HUXJQRnkyaGZYR2t1cV9lTXhhVXR1OG15MWVEbUNuZDdJUml1LV9DMnZWQW5Qb21ucWswemt0bE8zcnBubFRZX3U0bmlJazlUaEd2QjdLTkc0NERSXzRsd3JjbWZhTVZBdWk0?oc=5",
+   "published": "2026-11-03T13:52:00+00:00",
+   "sector": "Power & IPPs"
   }
  ]
 }
