@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-03T22:56:34+00:00",
-  "as_of_local": "2026-11-03 22:56:34 UTC",
+  "as_of_utc": "2026-11-03T23:01:43+00:00",
+  "as_of_local": "2026-11-03 23:01:43 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "DINO"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1295,6 +1293,34 @@
       ]
     },
     {
+      "symbol": "DINO",
+      "name": "HF Sinclair",
+      "price": 113.36,
+      "previous_close": 111.66,
+      "change_pct": 1.52,
+      "market_cap": 19426635255.636658,
+      "headlines": [
+        {
+          "title": "Oil Edges Lower As U.S. Bombs Iran Before Election Day",
+          "url": "https://www.investors.com/news/oil-prices-us-iran-hormuz-trump-exxon-chevron-midterm-election/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-11-03T21:07:20Z"
+        },
+        {
+          "title": "Best Value Stocks to Buy Now in November",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/best-value-stocks-buy-now-182900086.html",
+          "publisher": "Zacks",
+          "published": "2026-11-03T18:29:00Z"
+        },
+        {
+          "title": "Valero to Acquire Houston Refining Site, Plans 165,000 BPD Restart",
+          "url": "https://finance.yahoo.com/energy/articles/valero-acquire-houston-refining-plans-171900957.html",
+          "publisher": "Zacks",
+          "published": "2026-11-03T17:19:00Z"
+        }
+      ]
+    },
+    {
       "symbol": "OVV",
       "name": "Ovintiv",
       "price": 66.43,
@@ -1359,6 +1385,12 @@
       "market_cap": 16736291793.078194,
       "headlines": [
         {
+          "title": "SM Energy (SM) Q3 Earnings Lag Estimates",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/sm-energy-sm-q3-earnings-215007261.html",
+          "publisher": "Zacks",
+          "published": "2026-11-03T21:50:07Z"
+        },
+        {
           "title": "What Just Happened To Devon Energy Stock?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/just-happened-devon-energy-stock-180915371.html",
           "publisher": "Trefis",
@@ -1369,12 +1401,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/4-garp-stocks-buy-now-180000416.html",
           "publisher": "Zacks",
           "published": "2026-11-03T18:00:00Z"
-        },
-        {
-          "title": "Are Wall Street Analysts Predicting APA Corporation Stock Will Climb or Sink?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-predicting-apa-150221396.html",
-          "publisher": "Barchart",
-          "published": "2026-11-03T15:02:21Z"
         }
       ]
     },
@@ -1863,6 +1889,12 @@
       "market_cap": 691918704.9175644,
       "headlines": [
         {
+          "title": "Global Industrial (GIC) Surpasses Q3 Earnings and Revenue Estimates",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/global-industrial-gic-surpasses-q3-215004929.html",
+          "publisher": "Zacks",
+          "published": "2026-11-03T21:50:04Z"
+        },
+        {
           "title": "Will Eos Energy Enterprises, Inc. (EOSE) Report Negative Earnings Next Week? What You Should Know",
           "url": "https://finance.yahoo.com/markets/stocks/articles/eos-energy-enterprises-inc-eose-130025260.html",
           "publisher": "Zacks",
@@ -1873,12 +1905,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-eypt-crwv-eose-023948648.html",
           "publisher": "Stocktwits",
           "published": "2026-10-20T02:39:48Z"
-        },
-        {
-          "title": "Why EOS Energy Soared as Much as 11% Today",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-eos-energy-soared-much-175057607.html",
-          "publisher": "Motley Fool",
-          "published": "2026-10-19T17:50:57Z"
         }
       ]
     }
