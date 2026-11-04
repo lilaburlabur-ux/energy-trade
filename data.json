@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-04T22:55:46+00:00",
-  "as_of_local": "2026-11-04 22:55:46 UTC",
+  "as_of_utc": "2026-11-04T23:00:45+00:00",
+  "as_of_local": "2026-11-04 23:00:45 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "APA"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -598,7 +600,7 @@
       "price": 147.06,
       "previous_close": 155.17,
       "change_pct": -5.23,
-      "market_cap": 78328350321.43738,
+      "market_cap": 77137259341.97119,
       "headlines": [
         {
           "title": "EOG Resources Earnings Ahead: What Past Reactions Say About The Stock",
@@ -1377,34 +1379,6 @@
       ]
     },
     {
-      "symbol": "APA",
-      "name": "APA Corp",
-      "price": 44.49,
-      "previous_close": 47.77,
-      "change_pct": -6.87,
-      "market_cap": 15587139267.953377,
-      "headlines": [
-        {
-          "title": "APA: Q3 Earnings Snapshot",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/apa-q3-earnings-snapshot-213452441.html",
-          "publisher": "Associated Press",
-          "published": "2026-11-04T21:34:52Z"
-        },
-        {
-          "title": "EOG Resources Earnings Ahead: What Past Reactions Say About The Stock",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/eog-resources-earnings-ahead-past-203738155.html",
-          "publisher": "Trefis",
-          "published": "2026-11-04T20:37:38Z"
-        },
-        {
-          "title": "Zacks.com featured highlights include APA, T-Mobile, BP and Centene",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-com-featured-highlights-apa-075400671.html",
-          "publisher": "Zacks",
-          "published": "2026-11-04T07:54:00Z"
-        }
-      ]
-    },
-    {
       "symbol": "TLN",
       "name": "Talen Energy",
       "price": 326.78,
@@ -1494,7 +1468,7 @@
       "price": 30.91,
       "previous_close": 30.3,
       "change_pct": 2.01,
-      "market_cap": 9374260031.87376,
+      "market_cap": 9276450313.8666,
       "headlines": [
         {
           "title": "Brookfield Renewable Partners Q3 Earnings Call Highlights",
