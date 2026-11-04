@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-04T02:07:15+00:00",
-  "as_of_local": "2026-11-04 02:07:15 UTC",
+  "as_of_utc": "2026-11-04T02:22:01+00:00",
+  "as_of_local": "2026-11-04 02:22:01 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "CEG"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -206,7 +208,7 @@
       "price": 366.07,
       "previous_close": 369.97,
       "change_pct": -1.05,
-      "market_cap": 152097110000.0,
+      "market_cap": 152136280000.0,
       "headlines": [
         {
           "title": "Eaton (ETN) Q3 2026 Earnings Call Transcript",
@@ -225,34 +227,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/eaton-earnings-analysis-questions-answered-182935716.html",
           "publisher": "Investing.com",
           "published": "2026-11-03T18:29:35Z"
-        }
-      ]
-    },
-    {
-      "symbol": "MPC",
-      "name": "Marathon Petroleum",
-      "price": 430.39,
-      "previous_close": 444.73,
-      "change_pct": -3.22,
-      "market_cap": 124756201600.9,
-      "headlines": [
-        {
-          "title": "Marathon Petroleum Corporation Q3 2026 Earnings Call Summary",
-          "url": "https://finance.yahoo.com/energy/articles/marathon-petroleum-corporation-q3-2026-222954479.html",
-          "publisher": "Moby",
-          "published": "2026-11-03T22:29:54Z"
-        },
-        {
-          "title": "Stocks to Watch Recap: Apple, Palantir, AMD",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-03-2026/card/stocks-to-watch-apple-marathon-petroleum-palantir-lufthansa-IEOGJG7s9Z2v71zTnI3i?siteid=yhoof2&yptr=yahoo",
-          "publisher": "The Wall Street Journal",
-          "published": "2026-11-03T21:54:12Z"
-        },
-        {
-          "title": "Marathon Petroleum (MPC) Q3 2026 Earnings Call Transcript",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/marathon-petroleum-mpc-q3-2026-211713683.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-03T21:17:13Z"
         }
       ]
     },
@@ -281,6 +255,34 @@
           "url": "https://finance.yahoo.com/energy/articles/3-energy-companies-managing-c-150000819.html",
           "publisher": "C-Store Dive",
           "published": "2026-11-03T15:00:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "MPC",
+      "name": "Marathon Petroleum",
+      "price": 430.39,
+      "previous_close": 444.73,
+      "change_pct": -3.22,
+      "market_cap": 120007654220.42,
+      "headlines": [
+        {
+          "title": "Marathon Petroleum Corporation Q3 2026 Earnings Call Summary",
+          "url": "https://finance.yahoo.com/energy/articles/marathon-petroleum-corporation-q3-2026-222954479.html",
+          "publisher": "Moby",
+          "published": "2026-11-03T22:29:54Z"
+        },
+        {
+          "title": "Stocks to Watch Recap: Apple, Palantir, AMD",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-03-2026/card/stocks-to-watch-apple-marathon-petroleum-palantir-lufthansa-IEOGJG7s9Z2v71zTnI3i?siteid=yhoof2&yptr=yahoo",
+          "publisher": "The Wall Street Journal",
+          "published": "2026-11-03T21:54:12Z"
+        },
+        {
+          "title": "Marathon Petroleum (MPC) Q3 2026 Earnings Call Transcript",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/marathon-petroleum-mpc-q3-2026-211713683.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-03T21:17:13Z"
         }
       ]
     },
@@ -453,34 +455,6 @@
       ]
     },
     {
-      "symbol": "CEG",
-      "name": "Constellation Energy",
-      "price": 257.25,
-      "previous_close": 262.38,
-      "change_pct": -1.96,
-      "market_cap": 93324563628.59999,
-      "headlines": [
-        {
-          "title": "Vistra Gains 5% as Talen Guides 2027 EBITDA Up 26% on \u201cStrong PJM Fundamentals\u201d",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-gains-5-talen-guides-164555419.html",
-          "publisher": "TIKR",
-          "published": "2026-11-03T16:45:55Z"
-        },
-        {
-          "title": "PSEG Power plans 200-MW nuclear uprate as company eyes data center deals",
-          "url": "https://finance.yahoo.com/energy/articles/pseg-power-plans-200-mw-151554908.html",
-          "publisher": "Utility Dive",
-          "published": "2026-11-03T15:15:54Z"
-        },
-        {
-          "title": "Constellation Energy Corporation (CEG) Declines More Than Market: Some Information for Investors",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/constellation-energy-corporation-ceg-declines-214502137.html",
-          "publisher": "Zacks",
-          "published": "2026-11-02T21:45:02Z"
-        }
-      ]
-    },
-    {
       "symbol": "VRT",
       "name": "Vertiv",
       "price": 224.24,
@@ -570,7 +544,7 @@
       "price": 157.89,
       "previous_close": 165.54,
       "change_pct": -4.62,
-      "market_cap": 82647969000.09999,
+      "market_cap": 81391192239.92,
       "headlines": [
         {
           "title": "What Just Happened To Devon Energy Stock?",
@@ -1046,7 +1020,7 @@
       "price": 74.38,
       "previous_close": 74.29,
       "change_pct": 0.12,
-      "market_cap": 36282781279.62,
+      "market_cap": 36289962384.3,
       "headlines": [
         {
           "title": "How Earnings Miss Will Impact PSEG Stock Investors",
@@ -1494,7 +1468,7 @@
       "price": 30.05,
       "previous_close": 28.65,
       "change_pct": 4.89,
-      "market_cap": 9189261739.5,
+      "market_cap": 9093382267.800001,
       "headlines": [
         {
           "title": "If I Could Only Buy 1 AI Power Stock for the Next Decade, It Wouldn't Be Bloom Energy or GE Vernova",
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 95.61,
-      "change_pct": -0.88
+      "price": 95.4,
+      "change_pct": -1.1
     },
     {
       "label": "Brent",
-      "price": 103.38,
-      "change_pct": -1.33
+      "price": 103.15,
+      "change_pct": -1.55
     },
     {
       "label": "NatGas",
-      "price": 2.87,
-      "change_pct": 0.53
+      "price": 2.84,
+      "change_pct": -0.56
     }
   ]
 }
