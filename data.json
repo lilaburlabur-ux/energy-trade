@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-04T13:48:15+00:00",
-  "as_of_local": "2026-11-04 13:48:15 UTC",
+  "as_of_utc": "2026-11-04T13:53:31+00:00",
+  "as_of_local": "2026-11-04 13:53:31 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -489,6 +489,12 @@
       "market_cap": 90862708013.41446,
       "headlines": [
         {
+          "title": "SpaceX, Tesla stocks sink as analyst warns Democrats' victory 'will be a big hurdle' for AI build-out",
+          "url": "https://finance.yahoo.com/markets/stocks/article/spacex-tesla-stocks-sink-as-analyst-warns-democrats-victory-will-be-a-big-hurdle-for-ai-build-out-135148007.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-04T13:51:38Z"
+        },
+        {
           "title": "How Has Vertiv's Story Changed?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/vertivs-story-changed-115314884.html",
           "publisher": "Trefis",
@@ -499,12 +505,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-146-2026-profits-042145606.html",
           "publisher": "TIKR",
           "published": "2026-11-04T04:21:45Z"
-        },
-        {
-          "title": "Eaton Just Dropped 16% in a Month. Is It Time to Sell, or Load Up?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/eaton-just-dropped-16-month-190400590.html",
-          "publisher": "TIKR",
-          "published": "2026-11-03T19:04:00Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 94.0,
-      "change_pct": -2.18
+      "price": 93.81,
+      "change_pct": -2.37
     },
     {
       "label": "Brent",
-      "price": 101.22,
-      "change_pct": -2.3
+      "price": 101.1,
+      "change_pct": -2.41
     },
     {
       "label": "NatGas",
       "price": 2.92,
-      "change_pct": 0.73
+      "change_pct": 0.83
     }
   ]
 }
