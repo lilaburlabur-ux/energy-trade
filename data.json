@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-04T09:29:23+00:00",
-  "as_of_local": "2026-11-04 09:29:23 UTC",
+  "as_of_utc": "2026-11-04T09:33:51+00:00",
+  "as_of_local": "2026-11-04 09:33:51 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -1721,6 +1721,12 @@
       "market_cap": 2070607883.959465,
       "headlines": [
         {
+          "title": "Sunrun Fell 55% While Sales Rose",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/sunrun-fell-55-while-sales-091531715.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-04T09:15:31Z"
+        },
+        {
           "title": "Enphase Surges 9%, Sunrun Climbs 7%, SolarEdge Rallies 6% as Solar Rebound Extends Into Earnings",
           "url": "https://finance.yahoo.com/markets/stocks/articles/enphase-surges-9-sunrun-climbs-185053309.html",
           "publisher": "24/7 Wall St.",
@@ -1731,12 +1737,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/curious-sunrun-run-q3-performance-131504409.html",
           "publisher": "Zacks",
           "published": "2026-11-03T13:15:04Z"
-        },
-        {
-          "title": "Sunrun (RUN) Heads Into Q3 Earnings With Shares Up 10.3%: What to Expect",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/sunrun-run-heads-q3-earnings-035752764.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-11-03T03:57:52Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 95.52,
-      "change_pct": -0.59
+      "price": 95.47,
+      "change_pct": -0.65
     },
     {
       "label": "Brent",
-      "price": 102.75,
-      "change_pct": -0.82
+      "price": 102.64,
+      "change_pct": -0.93
     },
     {
       "label": "NatGas",
-      "price": 2.92,
-      "change_pct": 0.86
+      "price": 2.91,
+      "change_pct": 0.69
     }
   ]
 }
