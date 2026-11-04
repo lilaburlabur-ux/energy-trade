@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-04T00:31:20+00:00",
-  "as_of_local": "2026-11-04 00:31:20 UTC",
+  "as_of_utc": "2026-11-04T00:36:33+00:00",
+  "as_of_local": "2026-11-04 00:36:33 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "FTI"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1153,34 +1155,6 @@
       ]
     },
     {
-      "symbol": "FTI",
-      "name": "TechnipFMC",
-      "price": 66.74,
-      "previous_close": 66.87,
-      "change_pct": -0.19,
-      "market_cap": 25950736681.40236,
-      "headlines": [
-        {
-          "title": "iShares Core S&P Mid-Cap (IJH) Adds Okta and TechnipFMC on Oct. 29",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-core-p-mid-cap-110615340.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-02T11:06:15Z"
-        },
-        {
-          "title": "FTI Q3 deep dive: margin expansion and offshore partnerships face investor scrutiny",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/fti-q3-deep-dive-margin-033100777.html",
-          "publisher": "StockStory",
-          "published": "2026-11-01T03:31:00Z"
-        },
-        {
-          "title": "TechnipFMC (FTI) Stock Rallies On Q3 Earnings Margin Breakthrough",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/technipfmc-fti-stock-rallies-q3-231438827.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-10-31T23:14:38Z"
-        }
-      ]
-    },
-    {
       "symbol": "HUBB",
       "name": "Hubbell",
       "price": 449.27,
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 96.52,
-      "change_pct": 0.06
+      "price": 96.4,
+      "change_pct": -0.06
     },
     {
       "label": "Brent",
-      "price": 104.2,
-      "change_pct": -0.54
+      "price": 104.02,
+      "change_pct": -0.72
     },
     {
       "label": "NatGas",
-      "price": 2.9,
-      "change_pct": 1.44
+      "price": 2.89,
+      "change_pct": 1.37
     }
   ]
 }
