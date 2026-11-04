@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-04T14:13:34+00:00",
-  "as_of_local": "2026-11-04 14:13:34 UTC",
+  "as_of_utc": "2026-11-04T14:18:33+00:00",
+  "as_of_local": "2026-11-04 14:18:33 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "HAL"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -777,7 +775,7 @@
           "published": "2026-11-04T13:36:00Z"
         },
         {
-          "title": "Stock Market Election News: Dow Futures Jump After Democrat Sweep, But AI Stocks Fade; Elon Musk, SpaceX, Tesla Are Losers (Live)",
+          "title": "Stock Market Election News: Dow Futures Jump After Democrat Sweep, But AI Stocks Fade; Elon Musk, SpaceX, Tesla Are Losers",
           "url": "https://www.investors.com/market-trend/stock-market-today/stock-market-election-night-dow-jones-futures-ai-oil-prices-elon-musk-amd/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
           "published": "2026-11-04T13:12:16Z"
@@ -1123,6 +1121,34 @@
           "url": "https://finance.yahoo.com/energy/articles/uranium-prices-near-historic-highs-141000724.html",
           "publisher": "MarketBeat",
           "published": "2026-11-02T14:10:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "HAL",
+      "name": "Halliburton",
+      "price": 34.07,
+      "previous_close": 34.61,
+      "change_pct": -1.56,
+      "market_cap": 28180194219.521072,
+      "headlines": [
+        {
+          "title": "CLB Q3 Earnings Miss Estimates on Higher Costs and Disruptions",
+          "url": "https://finance.yahoo.com/energy/articles/clb-q3-earnings-miss-estimates-155400926.html",
+          "publisher": "Zacks",
+          "published": "2026-11-03T15:54:00Z"
+        },
+        {
+          "title": "Questions Mount Over Venezuela\u2019s Biggest Oil Deal",
+          "url": "https://finance.yahoo.com/energy/articles/questions-mount-over-venezuela-biggest-010000297.html",
+          "publisher": "Oilprice.com",
+          "published": "2026-11-03T01:00:00Z"
+        },
+        {
+          "title": "What Just Happened To TechnipFMC Stock?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/just-happened-technipfmc-stock-163324798.html",
+          "publisher": "Trefis",
+          "published": "2026-10-30T16:33:24Z"
         }
       ]
     },
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 93.25,
-      "change_pct": -2.96
+      "price": 93.54,
+      "change_pct": -2.65
     },
     {
       "label": "Brent",
-      "price": 100.74,
-      "change_pct": -2.76
+      "price": 100.81,
+      "change_pct": -2.69
     },
     {
       "label": "NatGas",
-      "price": 2.9,
-      "change_pct": 0.24
+      "price": 2.91,
+      "change_pct": 0.45
     }
   ]
 }
