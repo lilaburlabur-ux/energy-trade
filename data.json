@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-04T09:55:52+00:00",
-  "as_of_local": "2026-11-04 09:55:52 UTC",
+  "as_of_utc": "2026-11-04T09:59:05+00:00",
+  "as_of_local": "2026-11-04 09:59:05 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NXE"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -206,7 +208,7 @@
       "price": 391.7,
       "previous_close": 366.07,
       "change_pct": 7.0,
-      "market_cap": 152136284741.21094,
+      "market_cap": 152097114739.99023,
       "headlines": [
         {
           "title": "Eaton Q3 Earnings Call Highlights",
@@ -225,6 +227,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/eaton-etn-q3-2026-earnings-211713098.html",
           "publisher": "Motley Fool",
           "published": "2026-11-03T21:17:13Z"
+        }
+      ]
+    },
+    {
+      "symbol": "MPC",
+      "name": "Marathon Petroleum",
+      "price": 427.34,
+      "previous_close": 430.39,
+      "change_pct": -0.71,
+      "market_cap": 124756200531.79611,
+      "headlines": [
+        {
+          "title": "CVR Energy Prices $500 Million Common Stock Offering at $47.55 a Share",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/cvr-energy-prices-500-million-091631857.html",
+          "publisher": "MT Newswires",
+          "published": "2026-11-04T09:16:31Z"
+        },
+        {
+          "title": "CVR Energy to acquire two US refineries from Marathon for $4.2bn",
+          "url": "https://finance.yahoo.com/news/cvr-energy-acquire-two-us-081523522.html",
+          "publisher": "Offshore Technology",
+          "published": "2026-11-04T08:15:23Z"
+        },
+        {
+          "title": "What Marathon Petroleum (MPC) Said on Its Q3 Earnings Call",
+          "url": "https://finance.yahoo.com/energy/articles/marathon-petroleum-mpc-said-q3-061415963.html",
+          "publisher": "MarketBeat",
+          "published": "2026-11-04T06:14:15Z"
         }
       ]
     },
@@ -253,34 +283,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-com-featured-highlights-apa-075400671.html",
           "publisher": "Zacks",
           "published": "2026-11-04T07:54:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "MPC",
-      "name": "Marathon Petroleum",
-      "price": 427.34,
-      "previous_close": 430.39,
-      "change_pct": -0.71,
-      "market_cap": 120007653192.009,
-      "headlines": [
-        {
-          "title": "CVR Energy Prices $500 Million Common Stock Offering at $47.55 a Share",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/cvr-energy-prices-500-million-091631857.html",
-          "publisher": "MT Newswires",
-          "published": "2026-11-04T09:16:31Z"
-        },
-        {
-          "title": "CVR Energy to acquire two US refineries from Marathon for $4.2bn",
-          "url": "https://finance.yahoo.com/news/cvr-energy-acquire-two-us-081523522.html",
-          "publisher": "Offshore Technology",
-          "published": "2026-11-04T08:15:23Z"
-        },
-        {
-          "title": "What Marathon Petroleum (MPC) Said on Its Q3 Earnings Call",
-          "url": "https://finance.yahoo.com/energy/articles/marathon-petroleum-mpc-said-q3-061415963.html",
-          "publisher": "MarketBeat",
-          "published": "2026-11-04T06:14:15Z"
         }
       ]
     },
@@ -570,7 +572,7 @@
       "price": 155.17,
       "previous_close": 157.89,
       "change_pct": -1.72,
-      "market_cap": 81391191279.4784,
+      "market_cap": 82647968024.82803,
       "headlines": [
         {
           "title": "What Just Happened To Devon Energy Stock?",
@@ -1046,7 +1048,7 @@
       "price": 72.81,
       "previous_close": 74.38,
       "change_pct": -2.11,
-      "market_cap": 36289961167.45422,
+      "market_cap": 36282780063.015015,
       "headlines": [
         {
           "title": "How Earnings Miss Will Impact PSEG Stock Investors",
@@ -1494,7 +1496,7 @@
       "price": 30.3,
       "previous_close": 30.05,
       "change_pct": 0.83,
-      "market_cap": 9093382038.833,
+      "market_cap": 9189261508.118801,
       "headlines": [
         {
           "title": "If I Could Only Buy 1 AI Power Stock for the Next Decade, It Wouldn't Be Bloom Energy or GE Vernova",
@@ -1569,34 +1571,6 @@
           "url": "https://www.barrons.com/articles/midterm-elections-affect-energy-stocks-9249616b?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
           "published": "2026-10-26T09:55:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "NXE",
-      "name": "NexGen Energy",
-      "price": 7.96,
-      "previous_close": 7.89,
-      "change_pct": 0.89,
-      "market_cap": 5337228589.537778,
-      "headlines": [
-        {
-          "title": "NuScale Power Advances SMR Manufacturing With Doosan Deal",
-          "url": "https://finance.yahoo.com/energy/articles/nuscale-power-advances-smr-manufacturing-163500821.html",
-          "publisher": "Zacks",
-          "published": "2026-11-02T16:35:00Z"
-        },
-        {
-          "title": "What Is Behind The Move In Cameco Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/behind-move-cameco-stock-012341659.html",
-          "publisher": "Trefis",
-          "published": "2026-11-02T01:23:41Z"
-        },
-        {
-          "title": "Azincourt Energy Advances Labrador Uranium Exploration With New Snegamook Drilling Results",
-          "url": "https://finance.yahoo.com/energy/articles/azincourt-energy-advances-labrador-uranium-213911390.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-10-26T21:39:11Z"
         }
       ]
     },
@@ -2115,13 +2089,13 @@
     },
     {
       "label": "WTI",
-      "price": 95.87,
-      "change_pct": -0.23
+      "price": 95.9,
+      "change_pct": -0.2
     },
     {
       "label": "Brent",
-      "price": 102.69,
-      "change_pct": -0.88
+      "price": 102.79,
+      "change_pct": -0.78
     },
     {
       "label": "NatGas",
