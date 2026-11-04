@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-04T08:01:41+00:00",
+  "as_of": "2026-11-04T08:16:50+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -15,12 +15,12 @@
    "price": 4.64,
    "volume": 22157700,
    "volume_vs_avg": "~3x",
-   "heat_score": 79,
+   "heat_score": 94,
    "direction": "up",
-   "why": "Moving up 22.1% on ~3x average volume with no fresh headline this cycle \u2014 attention without a story.",
-   "catalyst_type": "no_news_mover",
-   "source_url": "",
-   "published": "",
+   "why": "Array (ARRY) Q3 earnings: what to expect",
+   "catalyst_type": "earnings",
+   "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSmRKTDJaMGlMUGV3NHJiNWZ4VmMtZ0JDTDZnWFF0aWt5dEdDbHFYMFpzSzNQTmxKaGxvUmFnUzNzenMzMnRkSE10VWlwazJiM2NqV1RhYzNzNkNzSGpKMlRzVVp4UnV4dksxdW4zLWhEa3JoTXB3dDZ6N3JzNW9lZjNYYko2UUgyd3p6NkhieFBDWFUtYVpWODc0Unc?oc=5",
+   "published": "2026-11-04T08:06:22+00:00",
    "sector": "Renewables & Solar"
   },
   {
