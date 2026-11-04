@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-04T07:11:55+00:00",
-  "as_of_local": "2026-11-04 07:11:55 UTC",
+  "as_of_utc": "2026-11-04T07:27:05+00:00",
+  "as_of_local": "2026-11-04 07:27:05 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AR"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1413,6 +1415,12 @@
       "market_cap": 14569068001.054077,
       "headlines": [
         {
+          "title": "US Clean Energy Stocks Investors Are Watching As Washington Backs Solar And Storage",
+          "url": "https://finance.yahoo.com/energy/articles/us-clean-energy-stocks-investors-071038021.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-04T07:10:38Z"
+        },
+        {
           "title": "Enphase Surges 9%, Sunrun Climbs 7%, SolarEdge Rallies 6% as Solar Rebound Extends Into Earnings",
           "url": "https://finance.yahoo.com/markets/stocks/articles/enphase-surges-9-sunrun-climbs-185053309.html",
           "publisher": "24/7 Wall St.",
@@ -1423,40 +1431,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/know-nextpower-nxt-rating-upgrade-160005258.html",
           "publisher": "Zacks",
           "published": "2026-11-03T16:00:05Z"
-        },
-        {
-          "title": "Wall Street Analysts Predict a 42.73% Upside in Nextpower (NXT): Here's  What You Should Know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-predict-42-135501707.html",
-          "publisher": "Zacks",
-          "published": "2026-11-03T13:55:01Z"
-        }
-      ]
-    },
-    {
-      "symbol": "AR",
-      "name": "Antero Resources",
-      "price": 39.93,
-      "previous_close": 40.64,
-      "change_pct": -1.75,
-      "market_cap": 12263940573.730469,
-      "headlines": [
-        {
-          "title": "1 growth stock to add to your roster and 2 we turn down",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/1-growth-stock-add-roster-115736291.html",
-          "publisher": "StockStory",
-          "published": "2026-11-03T11:57:36Z"
-        },
-        {
-          "title": "Eni Begins Maha Gas Production, Boosting Indonesia's Offshore Output",
-          "url": "https://finance.yahoo.com/energy/articles/eni-begins-maha-gas-production-160100997.html",
-          "publisher": "Zacks",
-          "published": "2026-11-02T16:01:00Z"
-        },
-        {
-          "title": "Antero Resources (AR) Stock Climbs On Q3 Earnings And Cash Cost Gains",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/antero-resources-ar-stock-climbs-171249752.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-10-30T17:12:49Z"
         }
       ]
     },
@@ -1909,8 +1883,204 @@
       ]
     }
   ],
-  "etfs": [],
-  "etf": null,
+  "etfs": [
+    {
+      "symbol": "XLE",
+      "name": "Energy Select Sector SPDR",
+      "price": null,
+      "change_pct": 0.0,
+      "holdings": [
+        {
+          "symbol": "XOM",
+          "name": "ExxonMobil Holdings Corp",
+          "short": "ExxonMobil",
+          "weight_pct": 24.03,
+          "change_pct": -1.23,
+          "price": 177.46,
+          "currency": "USD"
+        },
+        {
+          "symbol": "CVX",
+          "name": "Chevron Corp",
+          "short": "Chevron",
+          "weight_pct": 18.05,
+          "change_pct": -1.1,
+          "price": 225.27,
+          "currency": "USD"
+        },
+        {
+          "symbol": "COP",
+          "name": "ConocoPhillips",
+          "short": "ConocoPhillips",
+          "weight_pct": 6.73,
+          "change_pct": -1.66,
+          "price": 144.4,
+          "currency": "USD"
+        },
+        {
+          "symbol": "VLO",
+          "name": "Valero Energy Corp",
+          "short": "Valero",
+          "weight_pct": 4.73,
+          "change_pct": 1.62,
+          "price": 387.65,
+          "currency": "USD"
+        },
+        {
+          "symbol": "MPC",
+          "name": "Marathon Petroleum Corp",
+          "short": "Marathon",
+          "weight_pct": 4.7,
+          "change_pct": -0.71,
+          "price": 427.34,
+          "currency": "USD"
+        },
+        {
+          "symbol": "PSX",
+          "name": "Phillips 66",
+          "short": "Phillips",
+          "weight_pct": 4.64,
+          "change_pct": -1.13,
+          "price": 271.94,
+          "currency": "USD"
+        },
+        {
+          "symbol": "WMB",
+          "name": "Williams Companies Inc",
+          "short": "Williams",
+          "weight_pct": 4.29,
+          "change_pct": 1.8,
+          "price": 72.47,
+          "currency": "USD"
+        },
+        {
+          "symbol": "SLB",
+          "name": "SLB Ltd",
+          "short": "SLB",
+          "weight_pct": 3.86,
+          "change_pct": -0.34,
+          "price": 52.13,
+          "currency": "USD"
+        },
+        {
+          "symbol": "EOG",
+          "name": "EOG Resources Inc",
+          "short": "EOG Resources",
+          "weight_pct": 3.85,
+          "change_pct": -1.72,
+          "price": 155.17,
+          "currency": "USD"
+        },
+        {
+          "symbol": "KMI",
+          "name": "Kinder Morgan Inc Class P",
+          "short": "Kinder",
+          "weight_pct": 3.15,
+          "change_pct": 0.49,
+          "price": 32.87,
+          "currency": "USD"
+        }
+      ]
+    }
+  ],
+  "etf": {
+    "symbol": "XLE",
+    "name": "Energy Select Sector SPDR",
+    "price": null,
+    "change_pct": 0.0,
+    "holdings": [
+      {
+        "symbol": "XOM",
+        "name": "ExxonMobil Holdings Corp",
+        "short": "ExxonMobil",
+        "weight_pct": 24.03,
+        "change_pct": -1.23,
+        "price": 177.46,
+        "currency": "USD"
+      },
+      {
+        "symbol": "CVX",
+        "name": "Chevron Corp",
+        "short": "Chevron",
+        "weight_pct": 18.05,
+        "change_pct": -1.1,
+        "price": 225.27,
+        "currency": "USD"
+      },
+      {
+        "symbol": "COP",
+        "name": "ConocoPhillips",
+        "short": "ConocoPhillips",
+        "weight_pct": 6.73,
+        "change_pct": -1.66,
+        "price": 144.4,
+        "currency": "USD"
+      },
+      {
+        "symbol": "VLO",
+        "name": "Valero Energy Corp",
+        "short": "Valero",
+        "weight_pct": 4.73,
+        "change_pct": 1.62,
+        "price": 387.65,
+        "currency": "USD"
+      },
+      {
+        "symbol": "MPC",
+        "name": "Marathon Petroleum Corp",
+        "short": "Marathon",
+        "weight_pct": 4.7,
+        "change_pct": -0.71,
+        "price": 427.34,
+        "currency": "USD"
+      },
+      {
+        "symbol": "PSX",
+        "name": "Phillips 66",
+        "short": "Phillips",
+        "weight_pct": 4.64,
+        "change_pct": -1.13,
+        "price": 271.94,
+        "currency": "USD"
+      },
+      {
+        "symbol": "WMB",
+        "name": "Williams Companies Inc",
+        "short": "Williams",
+        "weight_pct": 4.29,
+        "change_pct": 1.8,
+        "price": 72.47,
+        "currency": "USD"
+      },
+      {
+        "symbol": "SLB",
+        "name": "SLB Ltd",
+        "short": "SLB",
+        "weight_pct": 3.86,
+        "change_pct": -0.34,
+        "price": 52.13,
+        "currency": "USD"
+      },
+      {
+        "symbol": "EOG",
+        "name": "EOG Resources Inc",
+        "short": "EOG Resources",
+        "weight_pct": 3.85,
+        "change_pct": -1.72,
+        "price": 155.17,
+        "currency": "USD"
+      },
+      {
+        "symbol": "KMI",
+        "name": "Kinder Morgan Inc Class P",
+        "short": "Kinder",
+        "weight_pct": 3.15,
+        "change_pct": 0.49,
+        "price": 32.87,
+        "currency": "USD"
+      }
+    ]
+  },
   "tape": [
     {
       "label": "SPX",
@@ -1919,13 +2089,13 @@
     },
     {
       "label": "WTI",
-      "price": 96.77,
-      "change_pct": 0.71
+      "price": 96.25,
+      "change_pct": 0.17
     },
     {
       "label": "Brent",
-      "price": 104.47,
-      "change_pct": 0.84
+      "price": 103.86,
+      "change_pct": 0.25
     },
     {
       "label": "NatGas",
