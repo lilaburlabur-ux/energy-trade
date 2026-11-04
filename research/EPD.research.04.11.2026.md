@@ -4,8 +4,8 @@ Signed file: `EPD.research.04.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $36.58 (2026-11-04, ~15-min delayed) |
-| Market cap | $79.00B |
+| Current price | $36.56 (2026-11-04, ~15-min delayed) |
+| Market cap | $78.94B |
 | Sector / Industry | Energy / Oil & Gas Midstream |
 | Main theme | Oil & Gas Midstream — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,8 +15,8 @@ Signed file: `EPD.research.04.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +27.08%; price +0.78% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -5.71% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +26.99%; price +0.71% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -5.78% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 10.24%, revenue growth 49.30%. |
 | Value attractiveness | Reasonable | Forward P/E 11.52, EV/Sales 1.80. |
 | Risk level | Moderate | Beta 0.46, ATR 2.0% of price, short float 2.50%. |
@@ -44,18 +44,18 @@ Enterprise Products Partners L.P. provides midstream energy services to producer
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $36.58; 52w high $38.80 (-5.71%); 52w low $28.47 (+28.51%) |
-| Trend | +0.78% vs SMA200, -1.36% vs SMA50, +0.31% vs SMA20 |
-| Momentum | RSI(14) 48.1 (neutral) |
+| Price vs 52-week range | Close $36.56; 52w high $38.80 (-5.78%); 52w low $28.47 (+28.41%) |
+| Trend | +0.71% vs SMA200, -1.43% vs SMA50, +0.24% vs SMA20 |
+| Momentum | RSI(14) 47.9 (neutral) |
 | Volatility | ATR(14) 0.73 (~2.0% of price); beta 0.46 |
-| Setup perspective | -5.71% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -5.78% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -2.5% |
-| Month | -0.4% |
+| Week | -2.6% |
+| Month | -0.5% |
 | Quarter | -2.5% |
 | Half Y | +0.3% |
 | 1Y | +27.1% |
@@ -68,7 +68,7 @@ Enterprise Products Partners L.P. provides midstream energy services to producer
 | Revenue (ttm) | $64.40B | Revenue growth 49.30% y/y |
 | Profitability | Gross 12.56%, operating 10.64%, net 10.24% | ROA —, ROE — |
 | Balance sheet | Cash $246.00M, debt $34.21B | Current ratio —, debt/equity 109.97 |
-| Valuation | P/E 12.07, forward P/E 11.52, P/S 1.23, P/B 2.61 | EV/Sales 1.80, EV/EBITDA 10.84 |
+| Valuation | P/E 12.06, forward P/E 11.52, P/S 1.23, P/B 2.61 | EV/Sales 1.80, EV/EBITDA 10.84 |
 | Growth expectations | Earnings growth 21.60%, EPS q/q 21.40% | Analyst mean target $41.67 (21 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -110,17 +110,17 @@ Enterprise Products Partners L.P. provides midstream energy services to producer
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $36.58 | EV/Sales | 1.80 |
-| Market cap | $79.00B | EV/EBITDA | 10.84 |
+| Price | $36.56 | EV/Sales | 1.80 |
+| Market cap | $78.94B | EV/EBITDA | 10.84 |
 | Beta | 0.46 | Gross margin | 12.56% |
 | RSI(14) | 48.1 | Operating margin | 10.64% |
 | ATR(14) | 0.73 | Profit margin | 10.24% |
-| SMA20 dist | +0.31% | ROA | — |
-| SMA50 dist | -1.36% | ROE | — |
-| SMA200 dist | +0.78% | Revenue (ttm) | $64.40B |
+| SMA20 dist | +0.24% | ROA | — |
+| SMA50 dist | -1.43% | ROE | — |
+| SMA200 dist | +0.71% | Revenue (ttm) | $64.40B |
 | 52W high | $38.80 | Revenue growth y/y | 49.30% |
 | 52W low | $28.47 | Inst. ownership | 25.78% |
-| P/E (ttm) | 12.07 | Insider ownership | 33.05% |
+| P/E (ttm) | 12.06 | Insider ownership | 33.05% |
 | Forward P/E | 11.52 | Short float | 2.50% |
 | PEG (trailing) | 1.24 | Avg volume | 3,294,498 |
 | P/S | 1.23 | Employees | 0 |

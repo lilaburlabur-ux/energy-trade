@@ -4,7 +4,7 @@ Signed file: `DINO.research.04.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $103.89 (2026-11-04, ~15-min delayed) |
+| Current price | $103.87 (2026-11-04, ~15-min delayed) |
 | Market cap | $17.80B |
 | Sector / Industry | Energy / Oil & Gas Refining & Marketing |
 | Main theme | Oil & Gas Refining & Marketing — see catalysts below |
@@ -15,8 +15,8 @@ Signed file: `DINO.research.04.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +100.93%; price +31.82% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -18.98% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +100.90%; price +31.79% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -19.00% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 10.12%, revenue growth 49.70%. |
 | Value attractiveness | Reasonable | Forward P/E 5.80, EV/Sales 0.56. |
 | Risk level | High | Beta 0.71, ATR 5.5% of price, short float 4.57%. |
@@ -44,19 +44,19 @@ HF Sinclair Corporation operates as an independent energy company in the United 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $103.89; 52w high $128.23 (-18.98%); 52w low $44.83 (+131.74%) |
-| Trend | +31.82% vs SMA200, -7.85% vs SMA50, -13.33% vs SMA20 |
+| Price vs 52-week range | Close $103.87; 52w high $128.23 (-19.00%); 52w low $44.83 (+131.70%) |
+| Trend | +31.79% vs SMA200, -7.86% vs SMA50, -13.34% vs SMA20 |
 | Momentum | RSI(14) 34.8 (neutral) |
 | Volatility | ATR(14) 5.75 (~5.5% of price); beta 0.71 |
-| Setup perspective | -18.98% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -19.00% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
 | Week | -7.2% |
-| Month | -9.3% |
-| Quarter | +26.1% |
+| Month | -9.4% |
+| Quarter | +26.0% |
 | Half Y | +48.1% |
 | 1Y | +100.9% |
 | YTD | +126.9% |
@@ -68,7 +68,7 @@ HF Sinclair Corporation operates as an independent energy company in the United 
 | Revenue (ttm) | $34.83B | Revenue growth 49.70% y/y |
 | Profitability | Gross 18.01%, operating 25.13%, net 10.12% | ROA 15.77%, ROE 33.21% |
 | Balance sheet | Cash $3.33B, debt $3.36B | Current ratio 2.27, debt/equity 28.52 |
-| Valuation | P/E 5.30, forward P/E 5.80, P/S 0.51, P/B 1.53 | EV/Sales 0.56, EV/EBITDA 3.60 |
+| Valuation | P/E 5.29, forward P/E 5.80, P/S 0.51, P/B 1.53 | EV/Sales 0.56, EV/EBITDA 3.60 |
 | Growth expectations | Earnings growth 430.60%, EPS q/q 400.00% | Analyst mean target $122.81 (16 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -110,17 +110,17 @@ HF Sinclair Corporation operates as an independent energy company in the United 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $103.89 | EV/Sales | 0.56 |
+| Price | $103.87 | EV/Sales | 0.56 |
 | Market cap | $17.80B | EV/EBITDA | 3.60 |
 | Beta | 0.71 | Gross margin | 18.01% |
 | RSI(14) | 34.8 | Operating margin | 25.13% |
 | ATR(14) | 5.75 | Profit margin | 10.12% |
-| SMA20 dist | -13.33% | ROA | 15.77% |
-| SMA50 dist | -7.85% | ROE | 33.21% |
-| SMA200 dist | +31.82% | Revenue (ttm) | $34.83B |
+| SMA20 dist | -13.34% | ROA | 15.77% |
+| SMA50 dist | -7.86% | ROE | 33.21% |
+| SMA200 dist | +31.79% | Revenue (ttm) | $34.83B |
 | 52W high | $128.23 | Revenue growth y/y | 49.70% |
 | 52W low | $44.83 | Inst. ownership | 92.23% |
-| P/E (ttm) | 5.30 | Insider ownership | 5.70% |
+| P/E (ttm) | 5.29 | Insider ownership | 5.70% |
 | Forward P/E | 5.80 | Short float | 4.57% |
 | PEG (trailing) | 1.19 | Avg volume | 2,513,887 |
 | P/S | 0.51 | Employees | 5,165 |

@@ -4,8 +4,8 @@ Signed file: `WMB.research.04.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $66.72 (2026-11-04, ~15-min delayed) |
-| Market cap | $83.41B |
+| Current price | $66.80 (2026-11-04, ~15-min delayed) |
+| Market cap | $83.51B |
 | Sector / Industry | Energy / Oil & Gas Midstream |
 | Main theme | Oil & Gas Midstream — see catalysts below |
 | Current stance | Low technical momentum, strong fundamentals, value: fair-to-demanding, risk: elevated. |
@@ -15,8 +15,8 @@ Signed file: `WMB.research.04.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-7.05%) with negative half-year (-8.21%). |
-| Fresh setup quality | Moderate / wait | -14.73% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-6.94%) with negative half-year (-8.10%). |
+| Fresh setup quality | Moderate / wait | -14.63% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 24.66%, revenue growth 12.30%. |
 | Value attractiveness | Fair-to-demanding | Forward P/E 25.50, EV/Sales 10.14. |
 | Risk level | Elevated | Beta 0.63, ATR 3.9% of price, short float 2.39%. |
@@ -44,11 +44,11 @@ The Williams Companies, Inc., together with its subsidiaries, operates as an ene
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $66.72; 52w high $78.25 (-14.73%); 52w low $54.84 (+21.66%) |
-| Trend | -7.05% vs SMA200, -7.37% vs SMA50, -7.50% vs SMA20 |
-| Momentum | RSI(14) 37.3 (neutral) |
+| Price vs 52-week range | Close $66.80; 52w high $78.25 (-14.63%); 52w low $54.84 (+21.81%) |
+| Trend | -6.94% vs SMA200, -7.26% vs SMA50, -7.40% vs SMA20 |
+| Momentum | RSI(14) 37.4 (neutral) |
 | Volatility | ATR(14) 2.62 (~3.9% of price); beta 0.63 |
-| Setup perspective | -14.73% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -14.63% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
@@ -111,14 +111,14 @@ The Williams Companies, Inc., together with its subsidiaries, operates as an ene
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $66.72 | EV/Sales | 10.14 |
-| Market cap | $83.41B | EV/EBITDA | 18.28 |
+| Price | $66.80 | EV/Sales | 10.14 |
+| Market cap | $83.51B | EV/EBITDA | 18.28 |
 | Beta | 0.63 | Gross margin | 63.05% |
 | RSI(14) | 37.3 | Operating margin | 32.69% |
 | ATR(14) | 2.62 | Profit margin | 24.66% |
-| SMA20 dist | -7.50% | ROA | 4.59% |
-| SMA50 dist | -7.37% | ROE | 18.31% |
-| SMA200 dist | -7.05% | Revenue (ttm) | $12.68B |
+| SMA20 dist | -7.40% | ROA | 4.59% |
+| SMA50 dist | -7.26% | ROE | 18.31% |
+| SMA200 dist | -6.94% | Revenue (ttm) | $12.68B |
 | 52W high | $78.25 | Revenue growth y/y | 12.30% |
 | 52W low | $54.84 | Inst. ownership | 89.97% |
 | P/E (ttm) | 26.27 | Insider ownership | 0.44% |

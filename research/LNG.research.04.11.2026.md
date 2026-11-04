@@ -4,8 +4,8 @@ Signed file: `LNG.research.04.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $290.29 (2026-11-04, ~15-min delayed) |
-| Market cap | $59.28B |
+| Current price | $290.36 (2026-11-04, ~15-min delayed) |
+| Market cap | $59.29B |
 | Sector / Industry | Energy / Oil & Gas Midstream |
 | Main theme | Oil & Gas Midstream — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
@@ -15,8 +15,8 @@ Signed file: `LNG.research.04.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +39.85%; price +12.79% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -12.12% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +39.89%; price +12.82% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -12.10% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 13.40%, revenue growth 39.90%. |
 | Value attractiveness | Reasonable | Forward P/E 14.01, EV/Sales 4.19. |
 | Risk level | Elevated | Beta 0.00, ATR 3.8% of price, short float 2.29%. |
@@ -44,11 +44,11 @@ Cheniere Energy, Inc., an energy infrastructure company, primarily engages in th
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $290.29; 52w high $330.32 (-12.12%); 52w low $187.49 (+54.83%) |
-| Trend | +12.79% vs SMA200, +2.34% vs SMA50, -1.16% vs SMA20 |
-| Momentum | RSI(14) 48.7 (neutral) |
+| Price vs 52-week range | Close $290.36; 52w high $330.32 (-12.10%); 52w low $187.49 (+54.87%) |
+| Trend | +12.82% vs SMA200, +2.37% vs SMA50, -1.14% vs SMA20 |
+| Momentum | RSI(14) 48.8 (neutral) |
 | Volatility | ATR(14) 10.93 (~3.8% of price); beta 0.00 |
-| Setup perspective | -12.12% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -12.10% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
@@ -57,7 +57,7 @@ Cheniere Energy, Inc., an energy infrastructure company, primarily engages in th
 | Week | -2.5% |
 | Month | +5.5% |
 | Quarter | +9.5% |
-| Half Y | +11.5% |
+| Half Y | +11.6% |
 | 1Y | +39.9% |
 | YTD | +47.8% |
 
@@ -68,7 +68,7 @@ Cheniere Energy, Inc., an energy infrastructure company, primarily engages in th
 | Revenue (ttm) | $22.67B | Revenue growth 39.90% y/y |
 | Profitability | Gross 34.89%, operating 30.82%, net 13.40% | ROA 8.61%, ROE 39.68% |
 | Balance sheet | Cash $1.68B, debt $27.69B | Current ratio 0.90, debt/equity 231.29 |
-| Valuation | P/E 20.66, forward P/E 14.01, P/S 2.61, P/B 9.08 | EV/Sales 4.19, EV/EBITDA 11.92 |
+| Valuation | P/E 20.67, forward P/E 14.02, P/S 2.62, P/B 9.09 | EV/Sales 4.19, EV/EBITDA 11.92 |
 | Growth expectations | Earnings growth 18.90%, EPS q/q 11.50% | Analyst mean target $318.71 (21 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -110,18 +110,18 @@ Cheniere Energy, Inc., an energy infrastructure company, primarily engages in th
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $290.29 | EV/Sales | 4.19 |
-| Market cap | $59.28B | EV/EBITDA | 11.92 |
+| Price | $290.36 | EV/Sales | 4.19 |
+| Market cap | $59.29B | EV/EBITDA | 11.92 |
 | Beta | 0.00 | Gross margin | 34.89% |
 | RSI(14) | 48.7 | Operating margin | 30.82% |
 | ATR(14) | 10.93 | Profit margin | 13.40% |
-| SMA20 dist | -1.16% | ROA | 8.61% |
-| SMA50 dist | +2.34% | ROE | 39.68% |
-| SMA200 dist | +12.79% | Revenue (ttm) | $22.67B |
+| SMA20 dist | -1.14% | ROA | 8.61% |
+| SMA50 dist | +2.37% | ROE | 39.68% |
+| SMA200 dist | +12.82% | Revenue (ttm) | $22.67B |
 | 52W high | $330.32 | Revenue growth y/y | 39.90% |
 | 52W low | $187.49 | Inst. ownership | 92.78% |
-| P/E (ttm) | 20.66 | Insider ownership | 0.64% |
-| Forward P/E | 14.01 | Short float | 2.29% |
+| P/E (ttm) | 20.67 | Insider ownership | 0.64% |
+| Forward P/E | 14.02 | Short float | 2.29% |
 | PEG (trailing) | — | Avg volume | 1,964,440 |
 | P/S | 2.61 | Employees | 1,717 |
 | P/B | 9.08 | Analyst rec (1=buy..5=sell) | 1.5 |

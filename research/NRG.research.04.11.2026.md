@@ -5,7 +5,7 @@ Signed file: `NRG.research.04.11.2026`
 | Field | Value |
 |---|---|
 | Current price | $84.61 (2026-11-04, ~15-min delayed) |
-| Market cap | $17.79B |
+| Market cap | $17.78B |
 | Sector / Industry | Utilities / Utilities - Independent Power Producers |
 | Main theme | Utilities - Independent Power Producers — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: high. |
@@ -15,7 +15,7 @@ Signed file: `NRG.research.04.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-36.48%) with negative half-year (-43.35%). |
+| Technical momentum | Low | Below SMA200 (-36.48%) with negative half-year (-43.36%). |
 | Fresh setup quality | Poor / broken | -53.49% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 2.56%, revenue growth 11.00%. |
 | Value attractiveness | Reasonable | Forward P/E 8.00, EV/Sales 1.33. |
@@ -112,7 +112,7 @@ NRG Energy, Inc., together with its subsidiaries, operates as an energy and home
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $84.61 | EV/Sales | 1.33 |
-| Market cap | $17.79B | EV/EBITDA | 13.58 |
+| Market cap | $17.78B | EV/EBITDA | 13.58 |
 | Beta | 1.20 | Gross margin | 18.80% |
 | RSI(14) | 31.2 | Operating margin | 12.77% |
 | ATR(14) | 4.84 | Profit margin | 2.56% |

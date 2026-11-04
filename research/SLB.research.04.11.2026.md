@@ -4,8 +4,8 @@ Signed file: `SLB.research.04.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $51.08 (2026-11-04, ~15-min delayed) |
-| Market cap | $75.40B |
+| Current price | $51.06 (2026-11-04, ~15-min delayed) |
+| Market cap | $75.37B |
 | Sector / Industry | Energy / Oil & Gas Equipment & Services |
 | Main theme | Oil & Gas Equipment & Services — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
@@ -15,8 +15,8 @@ Signed file: `SLB.research.04.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-0.21%) with negative half-year (-6.43%). |
-| Fresh setup quality | Moderate / wait | -14.57% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-0.25%) with negative half-year (-6.46%). |
+| Fresh setup quality | Moderate / wait | -14.60% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 8.40%, revenue growth 5.80%. |
 | Value attractiveness | Reasonable | Forward P/E 16.60, EV/Sales 2.37. |
 | Risk level | Elevated | Beta 0.79, ATR 3.2% of price, short float 4.32%. |
@@ -44,22 +44,22 @@ SLB N.V. engages in the provision of technology for the energy industry worldwid
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $51.08; 52w high $59.79 (-14.57%); 52w low $34.35 (+48.70%) |
-| Trend | -0.21% vs SMA200, -2.41% vs SMA50, +0.29% vs SMA20 |
-| Momentum | RSI(14) 47.6 (neutral) |
+| Price vs 52-week range | Close $51.06; 52w high $59.79 (-14.60%); 52w low $34.35 (+48.65%) |
+| Trend | -0.25% vs SMA200, -2.45% vs SMA50, +0.26% vs SMA20 |
+| Momentum | RSI(14) 47.5 (neutral) |
 | Volatility | ATR(14) 1.64 (~3.2% of price); beta 0.79 |
-| Setup perspective | -14.57% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -14.60% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
 | Week | -5.0% |
-| Month | +2.2% |
+| Month | +2.1% |
 | Quarter | -0.4% |
-| Half Y | -6.4% |
-| 1Y | +41.4% |
-| YTD | +29.2% |
+| Half Y | -6.5% |
+| 1Y | +41.3% |
+| YTD | +29.1% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ SLB N.V. engages in the provision of technology for the energy industry worldwid
 | Revenue (ttm) | $36.89B | Revenue growth 5.80% y/y |
 | Profitability | Gross 16.59%, operating 14.03%, net 8.40% | ROA 5.72%, ROE 11.66% |
 | Balance sheet | Cash $3.60B, debt $12.81B | Current ratio 1.39, debt/equity 47.08 |
-| Valuation | P/E 24.80, forward P/E 16.60, P/S 2.04, P/B 2.89 | EV/Sales 2.37, EV/EBITDA 11.82 |
+| Valuation | P/E 24.79, forward P/E 16.60, P/S 2.04, P/B 2.89 | EV/Sales 2.37, EV/EBITDA 11.82 |
 | Growth expectations | Earnings growth -2.00%, EPS q/q -0.50% | Analyst mean target $62.38 (29 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -110,17 +110,17 @@ SLB N.V. engages in the provision of technology for the energy industry worldwid
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $51.08 | EV/Sales | 2.37 |
-| Market cap | $75.40B | EV/EBITDA | 11.82 |
+| Price | $51.06 | EV/Sales | 2.37 |
+| Market cap | $75.37B | EV/EBITDA | 11.82 |
 | Beta | 0.79 | Gross margin | 16.59% |
-| RSI(14) | 47.6 | Operating margin | 14.03% |
+| RSI(14) | 47.5 | Operating margin | 14.03% |
 | ATR(14) | 1.64 | Profit margin | 8.40% |
-| SMA20 dist | +0.29% | ROA | 5.72% |
-| SMA50 dist | -2.41% | ROE | 11.66% |
-| SMA200 dist | -0.21% | Revenue (ttm) | $36.89B |
+| SMA20 dist | +0.26% | ROA | 5.72% |
+| SMA50 dist | -2.45% | ROE | 11.66% |
+| SMA200 dist | -0.25% | Revenue (ttm) | $36.89B |
 | 52W high | $59.79 | Revenue growth y/y | 5.80% |
 | 52W low | $34.35 | Inst. ownership | 93.75% |
-| P/E (ttm) | 24.80 | Insider ownership | 0.21% |
+| P/E (ttm) | 24.79 | Insider ownership | 0.21% |
 | Forward P/E | 16.60 | Short float | 4.32% |
 | PEG (trailing) | 1.45 | Avg volume | 12,321,951 |
 | P/S | 2.04 | Employees | 109,000 |
