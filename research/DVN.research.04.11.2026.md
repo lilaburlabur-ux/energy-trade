@@ -4,8 +4,8 @@ Signed file: `DVN.research.04.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $44.13 (2026-11-04, ~15-min delayed) |
-| Market cap | $48.54B |
+| Current price | $44.12 (2026-11-04, ~15-min delayed) |
+| Market cap | $48.53B |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
 | Current stance | Low technical momentum, strong fundamentals, value: reasonable, risk: elevated. |
@@ -15,8 +15,8 @@ Signed file: `DVN.research.04.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-3.41%) with negative half-year (-4.01%). |
-| Fresh setup quality | Moderate / wait | -15.38% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-3.43%) with negative half-year (-4.03%). |
+| Fresh setup quality | Moderate / wait | -15.40% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 17.46%, revenue growth 64.20%. |
 | Value attractiveness | Reasonable | Forward P/E 8.19, EV/Sales 3.37. |
 | Risk level | Elevated | Beta 0.48, ATR 3.7% of price, short float 2.52%. |
@@ -36,19 +36,19 @@ Devon Energy Corporation, an independent energy company, engages in the explorat
 
 | Headline | Source | Date |
 |---|---|---|
+| EOG Resources Earnings Ahead: What Past Reactions Say About The Stock | Trefis | 2026-11-04 |
 | How Could Devon Energy (DVN) Reshape Its Future With A $4.2 Billion Deal? | Simply Wall St. | 2026-11-04 |
 | ConocoPhillips and Devon Energy Earnings Previews: What Shareholders Should Watch | 24/7 Wall St. | 2026-11-04 |
 | 6 Big Funds Bought Devon Energy. Is It a Buy Before Earnings? | TIKR | 2026-11-04 |
-| What Just Happened To Devon Energy Stock? | Trefis | 2026-11-03 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $44.13; 52w high $52.15 (-15.38%); 52w low $31.54 (+39.93%) |
-| Trend | -3.41% vs SMA200, -9.48% vs SMA50, -11.37% vs SMA20 |
+| Price vs 52-week range | Close $44.12; 52w high $52.15 (-15.40%); 52w low $31.54 (+39.90%) |
+| Trend | -3.43% vs SMA200, -9.50% vs SMA50, -11.39% vs SMA20 |
 | Momentum | RSI(14) 31.8 (neutral) |
 | Volatility | ATR(14) 1.65 (~3.7% of price); beta 0.48 |
-| Setup perspective | -15.38% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -15.40% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
@@ -110,14 +110,14 @@ Devon Energy Corporation, an independent energy company, engages in the explorat
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $44.13 | EV/Sales | 3.37 |
-| Market cap | $48.54B | EV/EBITDA | 7.10 |
+| Price | $44.12 | EV/Sales | 3.37 |
+| Market cap | $48.53B | EV/EBITDA | 7.10 |
 | Beta | 0.48 | Gross margin | 50.35% |
 | RSI(14) | 31.8 | Operating margin | 41.08% |
 | ATR(14) | 1.65 | Profit margin | 17.46% |
-| SMA20 dist | -11.37% | ROA | 5.91% |
-| SMA50 dist | -9.48% | ROE | 11.52% |
-| SMA200 dist | -3.41% | Revenue (ttm) | $18.78B |
+| SMA20 dist | -11.39% | ROA | 5.91% |
+| SMA50 dist | -9.50% | ROE | 11.52% |
+| SMA200 dist | -3.43% | Revenue (ttm) | $18.78B |
 | 52W high | $52.15 | Revenue growth y/y | 64.20% |
 | 52W low | $31.54 | Inst. ownership | 95.60% |
 | P/E (ttm) | 9.61 | Insider ownership | 0.77% |

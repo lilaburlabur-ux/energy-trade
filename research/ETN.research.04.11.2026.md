@@ -4,8 +4,8 @@ Signed file: `ETN.research.04.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $352.41 (2026-11-04, ~15-min delayed) |
-| Market cap | $136.91B |
+| Current price | $353.08 (2026-11-04, ~15-min delayed) |
+| Market cap | $137.17B |
 | Sector / Industry | Industrials / Specialty Industrial Machinery |
 | Main theme | Specialty Industrial Machinery — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: fair-to-demanding, risk: high. |
@@ -15,10 +15,10 @@ Signed file: `ETN.research.04.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-11.05%) with negative half-year (-15.93%). |
-| Fresh setup quality | Moderate / wait | -23.38% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-10.88%) with negative half-year (-15.77%). |
+| Fresh setup quality | Moderate / wait | -23.24% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 12.18%, revenue growth 28.00%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 21.61, EV/Sales 5.39. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 21.65, EV/Sales 5.39. |
 | Risk level | High | Beta 1.14, ATR 5.3% of price, short float 1.94%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: fair-to-demanding, risk: high.
@@ -36,30 +36,30 @@ Eaton Corporation plc operates as a power management company in the United State
 
 | Headline | Source | Date |
 |---|---|---|
+| Cummins Earnings Ahead: What Past Reactions Say About The Stock | Trefis | 2026-11-04 |
 | Why a Democratic Sweep Is Crushing GE Vernova and More Industrial Stocks | Barrons.com | 2026-11-04 |
 | 3 U.S. Grid Equipment Stocks Retail Investors Are Watching As AI Power Demand Builds | Simply Wall St. | 2026-11-04 |
 | GE Vernova Sinks 10%, Vistra Down 12% as Democrats Win Congress: “Incrementally More Negative Sentiment” | TIKR | 2026-11-04 |
-| Vertiv Sinks 9%, GE Vernova Down 8% as Democrats Win Congress, Reviving Data Center Fears | TIKR | 2026-11-04 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $352.41; 52w high $459.96 (-23.38%); 52w low $313.20 (+12.52%) |
-| Trend | -11.05% vs SMA200, -13.75% vs SMA50, -10.07% vs SMA20 |
-| Momentum | RSI(14) 36.6 (neutral) |
-| Volatility | ATR(14) 18.71 (~5.3% of price); beta 1.14 |
-| Setup perspective | -23.38% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $353.08; 52w high $459.96 (-23.24%); 52w low $313.20 (+12.73%) |
+| Trend | -10.88% vs SMA200, -13.59% vs SMA50, -9.90% vs SMA20 |
+| Momentum | RSI(14) 36.8 (neutral) |
+| Volatility | ATR(14) 18.80 (~5.3% of price); beta 1.14 |
+| Setup perspective | -23.24% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -10.3% |
-| Month | -20.8% |
-| Quarter | -21.2% |
-| Half Y | -15.9% |
-| 1Y | -7.8% |
-| YTD | +8.6% |
+| Week | -10.1% |
+| Month | -20.7% |
+| Quarter | -21.0% |
+| Half Y | -15.8% |
+| 1Y | -7.6% |
+| YTD | +8.8% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Eaton Corporation plc operates as a power management company in the United State
 | Revenue (ttm) | $31.98B | Revenue growth 28.00% y/y |
 | Profitability | Gross 35.15%, operating 17.89%, net 12.18% | ROA 7.24%, ROE 19.55% |
 | Balance sheet | Cash $818.00M, debt $20.92B | Current ratio 1.23, debt/equity 99.52 |
-| Valuation | P/E 35.21, forward P/E 21.61, P/S 4.28, P/B 6.53 | EV/Sales 5.39, EV/EBITDA 24.16 |
+| Valuation | P/E 35.27, forward P/E 21.65, P/S 4.29, P/B 6.54 | EV/Sales 5.39, EV/EBITDA 24.16 |
 | Growth expectations | Earnings growth 7.00%, EPS q/q 6.70% | Analyst mean target $482.47 (26 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ Eaton Corporation plc operates as a power management company in the United State
 | Wellington Management Group, LLP | 6,827,266 | 1.76% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 21.61, EV/Sales 5.39. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 21.65, EV/Sales 5.39. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 1.14, ATR 5.3% of price, short float 1.94%. Size positions accordingly.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -111,21 +111,21 @@ Eaton Corporation plc operates as a power management company in the United State
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $352.41 | EV/Sales | 5.39 |
-| Market cap | $136.91B | EV/EBITDA | 24.16 |
+| Price | $353.08 | EV/Sales | 5.39 |
+| Market cap | $137.17B | EV/EBITDA | 24.16 |
 | Beta | 1.14 | Gross margin | 35.15% |
-| RSI(14) | 36.6 | Operating margin | 17.89% |
-| ATR(14) | 18.71 | Profit margin | 12.18% |
-| SMA20 dist | -10.07% | ROA | 7.24% |
-| SMA50 dist | -13.75% | ROE | 19.55% |
-| SMA200 dist | -11.05% | Revenue (ttm) | $31.98B |
+| RSI(14) | 36.8 | Operating margin | 17.89% |
+| ATR(14) | 18.80 | Profit margin | 12.18% |
+| SMA20 dist | -9.90% | ROA | 7.24% |
+| SMA50 dist | -13.59% | ROE | 19.55% |
+| SMA200 dist | -10.88% | Revenue (ttm) | $31.98B |
 | 52W high | $459.96 | Revenue growth y/y | 28.00% |
 | 52W low | $313.20 | Inst. ownership | 87.61% |
-| P/E (ttm) | 35.21 | Insider ownership | 0.07% |
-| Forward P/E | 21.61 | Short float | 1.94% |
+| P/E (ttm) | 35.27 | Insider ownership | 0.07% |
+| Forward P/E | 21.65 | Short float | 1.94% |
 | PEG (trailing) | 2.38 | Avg volume | 2,148,470 |
-| P/S | 4.28 | Employees | 97,303 |
-| P/B | 6.53 | Analyst rec (1=buy..5=sell) | 1.6 |
+| P/S | 4.29 | Employees | 97,303 |
+| P/B | 6.54 | Analyst rec (1=buy..5=sell) | 1.6 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

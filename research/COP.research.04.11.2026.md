@@ -4,8 +4,8 @@ Signed file: `COP.research.04.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $135.64 (2026-11-04, ~15-min delayed) |
-| Market cap | $162.95B |
+| Current price | $136.94 (2026-11-04, ~15-min delayed) |
+| Market cap | $164.51B |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
@@ -15,11 +15,11 @@ Signed file: `COP.research.04.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +57.97%; price +12.07% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -11.94% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +59.49%; price +13.14% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -11.10% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 14.40%, revenue growth 35.50%. |
-| Value attractiveness | Reasonable | Forward P/E 12.42, EV/Sales 2.93. |
-| Risk level | Elevated | Beta 0.16, ATR 3.1% of price, short float 1.55%. |
+| Value attractiveness | Reasonable | Forward P/E 12.54, EV/Sales 2.93. |
+| Risk level | Elevated | Beta 0.16, ATR 3.0% of price, short float 1.55%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
 
@@ -36,30 +36,30 @@ ConocoPhillips explores for, produces, transports, and markets crude oil, bitume
 
 | Headline | Source | Date |
 |---|---|---|
+| Earnings live updates: Duolingo stock jumps on user growth, upbeat guidance | Yahoo Finance | 2026-11-02 |
+| EOG Resources Earnings Ahead: What Past Reactions Say About The Stock | Trefis | 2026-11-04 |
 | Buy 5 Low-Beta High-Yielding Stocks Amid Recent Wall Street Volatility | Zacks | 2026-11-04 |
 | 4 Stocks Trading Near 52-Week High With More Upside Potential | Zacks | 2026-11-04 |
-| ConocoPhillips and Devon Energy Earnings Previews: What Shareholders Should Watch | 24/7 Wall St. | 2026-11-04 |
-| What's in Store for These 4 Energy Stocks in Q3 Earnings? | Zacks | 2026-11-04 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $135.64; 52w high $154.03 (-11.94%); 52w low $83.04 (+63.34%) |
-| Trend | +12.07% vs SMA200, -0.75% vs SMA50, -6.13% vs SMA20 |
-| Momentum | RSI(14) 41.5 (neutral) |
-| Volatility | ATR(14) 4.16 (~3.1% of price); beta 0.16 |
-| Setup perspective | -11.94% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $136.94; 52w high $154.03 (-11.10%); 52w low $83.04 (+64.90%) |
+| Trend | +13.14% vs SMA200, +0.18% vs SMA50, -5.27% vs SMA20 |
+| Momentum | RSI(14) 43.0 (neutral) |
+| Volatility | ATR(14) 4.16 (~3.0% of price); beta 0.16 |
+| Setup perspective | -11.10% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -9.0% |
-| Month | +4.9% |
-| Quarter | +16.9% |
-| Half Y | +15.7% |
-| 1Y | +58.0% |
-| YTD | +43.4% |
+| Week | -8.1% |
+| Month | +5.9% |
+| Quarter | +18.1% |
+| Half Y | +16.8% |
+| 1Y | +59.5% |
+| YTD | +44.7% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ ConocoPhillips explores for, produces, transports, and markets crude oil, bitume
 | Revenue (ttm) | $64.46B | Revenue growth 35.50% y/y |
 | Profitability | Gross 47.57%, operating 31.51%, net 14.40% | ROA 7.53%, ROE 14.18% |
 | Balance sheet | Cash $7.69B, debt $23.29B | Current ratio 1.54, debt/equity 35.64 |
-| Valuation | P/E 17.97, forward P/E 12.42, P/S 2.53, P/B 2.49 | EV/Sales 2.93, EV/EBITDA 7.06 |
+| Valuation | P/E 18.14, forward P/E 12.54, P/S 2.55, P/B 2.52 | EV/Sales 2.93, EV/EBITDA 7.06 |
 | Growth expectations | Earnings growth 107.00%, EPS q/q 99.40% | Analyst mean target $151.56 (27 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ ConocoPhillips explores for, produces, transports, and markets crude oil, bitume
 | Vanguard Portfolio Management LLC | 28,503,663 | 2.37% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 0.16, ATR 3.1% of price, short float 1.55%. Size positions accordingly.
+- **Volatility risk:** Beta 0.16, ATR 3.0% of price, short float 1.55%. Size positions accordingly.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -110,21 +110,21 @@ ConocoPhillips explores for, produces, transports, and markets crude oil, bitume
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $135.64 | EV/Sales | 2.93 |
-| Market cap | $162.95B | EV/EBITDA | 7.06 |
+| Price | $136.94 | EV/Sales | 2.93 |
+| Market cap | $164.51B | EV/EBITDA | 7.06 |
 | Beta | 0.16 | Gross margin | 47.57% |
-| RSI(14) | 41.5 | Operating margin | 31.51% |
+| RSI(14) | 43.0 | Operating margin | 31.51% |
 | ATR(14) | 4.16 | Profit margin | 14.40% |
-| SMA20 dist | -6.13% | ROA | 7.53% |
-| SMA50 dist | -0.75% | ROE | 14.18% |
-| SMA200 dist | +12.07% | Revenue (ttm) | $64.46B |
+| SMA20 dist | -5.27% | ROA | 7.53% |
+| SMA50 dist | +0.18% | ROE | 14.18% |
+| SMA200 dist | +13.14% | Revenue (ttm) | $64.46B |
 | 52W high | $154.03 | Revenue growth y/y | 35.50% |
 | 52W low | $83.04 | Inst. ownership | 86.98% |
-| P/E (ttm) | 17.97 | Insider ownership | 0.10% |
-| Forward P/E | 12.42 | Short float | 1.55% |
+| P/E (ttm) | 18.14 | Insider ownership | 0.10% |
+| Forward P/E | 12.54 | Short float | 1.55% |
 | PEG (trailing) | 1.06 | Avg volume | 6,597,932 |
-| P/S | 2.53 | Employees | 9,600 |
-| P/B | 2.49 | Analyst rec (1=buy..5=sell) | 1.9 |
+| P/S | 2.55 | Employees | 9,600 |
+| P/B | 2.52 | Analyst rec (1=buy..5=sell) | 1.9 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

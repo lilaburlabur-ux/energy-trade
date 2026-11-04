@@ -4,8 +4,8 @@ Signed file: `NEE.research.04.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $88.36 (2026-11-04, ~15-min delayed) |
-| Market cap | $185.31B |
+| Current price | $88.45 (2026-11-04, ~15-min delayed) |
+| Market cap | $185.51B |
 | Sector / Industry | Utilities / Utilities - Regulated Electric |
 | Main theme | Utilities - Regulated Electric — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: fair-to-demanding, risk: moderate. |
@@ -15,10 +15,10 @@ Signed file: `NEE.research.04.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +11.14%; price +2.19% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -8.39% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +11.26%; price +2.30% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -8.29% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 40.37%, revenue growth 1.60%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 20.19, EV/Sales 10.34. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 20.22, EV/Sales 10.34. |
 | Risk level | Moderate | Beta 0.60, ATR 2.0% of price, short float 0.00%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: fair-to-demanding, risk: moderate.
@@ -36,30 +36,30 @@ NextEra Energy, Inc., through its subsidiaries, generates, stores, transmits, di
 
 | Headline | Source | Date |
 |---|---|---|
+| What Does The Market Want From PG&E Stock? | Trefis | 2026-11-04 |
 | US large-cap dividend hike watch: 10 stocks with the longest growth streaks | Investing.com | 2026-11-04 |
 | Top stocks to watch on Democratic gains: First Solar, NextEra Energy, HCA Healthcare | Investing.com | 2026-11-04 |
 | Which sectors will benefit most and face pressure after Democratic sweep? | Investing.com | 2026-11-04 |
-| State Street Utilities SPDR (XLU) Sells NextEra and Southern on Nov. 2 | GuruFocus.com | 2026-11-04 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $88.36; 52w high $96.44 (-8.39%); 52w low $75.49 (+17.04%) |
-| Trend | +2.19% vs SMA200, +10.00% vs SMA50, +9.28% vs SMA20 |
-| Momentum | RSI(14) 74.0 (overbought) |
+| Price vs 52-week range | Close $88.45; 52w high $96.44 (-8.29%); 52w low $75.49 (+17.17%) |
+| Trend | +2.30% vs SMA200, +10.11% vs SMA50, +9.40% vs SMA20 |
+| Momentum | RSI(14) 74.2 (overbought) |
 | Volatility | ATR(14) 1.77 (~2.0% of price); beta 0.60 |
-| Setup perspective | -8.39% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -8.29% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +9.1% |
-| Month | +13.5% |
-| Quarter | +5.2% |
-| Half Y | -6.0% |
-| 1Y | +11.1% |
-| YTD | +11.6% |
+| Week | +9.2% |
+| Month | +13.6% |
+| Quarter | +5.3% |
+| Half Y | -5.9% |
+| 1Y | +11.3% |
+| YTD | +11.7% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ NextEra Energy, Inc., through its subsidiaries, generates, stores, transmits, di
 | Revenue (ttm) | $28.82B | Revenue growth 1.60% y/y |
 | Profitability | Gross 60.17%, operating 33.00%, net 40.37% | ROA 2.41%, ROE 14.06% |
 | Balance sheet | Cash $5.58B, debt $113.93B | Current ratio 0.53, debt/equity 153.25 |
-| Valuation | P/E 15.92, forward P/E 20.19, P/S 6.43, P/B 3.01 | EV/Sales 10.34, EV/EBITDA 22.24 |
+| Valuation | P/E 15.94, forward P/E 20.22, P/S 6.44, P/B 3.02 | EV/Sales 10.34, EV/EBITDA 22.24 |
 | Growth expectations | Earnings growth 93.20%, EPS q/q 95.90% | Analyst mean target $94.00 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ NextEra Energy, Inc., through its subsidiaries, generates, stores, transmits, di
 | Bank of America Corporation | 29,669,707 | 1.41% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 20.19, EV/Sales 10.34. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 20.22, EV/Sales 10.34. Multiple compression is the main downside if growth disappoints.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -110,21 +110,21 @@ NextEra Energy, Inc., through its subsidiaries, generates, stores, transmits, di
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $88.36 | EV/Sales | 10.34 |
-| Market cap | $185.31B | EV/EBITDA | 22.24 |
+| Price | $88.45 | EV/Sales | 10.34 |
+| Market cap | $185.51B | EV/EBITDA | 22.24 |
 | Beta | 0.60 | Gross margin | 60.17% |
-| RSI(14) | 74.0 | Operating margin | 33.00% |
+| RSI(14) | 74.2 | Operating margin | 33.00% |
 | ATR(14) | 1.77 | Profit margin | 40.37% |
-| SMA20 dist | +9.28% | ROA | 2.41% |
-| SMA50 dist | +10.00% | ROE | 14.06% |
-| SMA200 dist | +2.19% | Revenue (ttm) | $28.82B |
+| SMA20 dist | +9.40% | ROA | 2.41% |
+| SMA50 dist | +10.11% | ROE | 14.06% |
+| SMA200 dist | +2.30% | Revenue (ttm) | $28.82B |
 | 52W high | $96.44 | Revenue growth y/y | 1.60% |
 | 52W low | $75.49 | Inst. ownership | 86.41% |
-| P/E (ttm) | 15.92 | Insider ownership | 0.12% |
-| Forward P/E | 20.19 | Short float | 0.00% |
+| P/E (ttm) | 15.94 | Insider ownership | 0.12% |
+| Forward P/E | 20.22 | Short float | 0.00% |
 | PEG (trailing) | 1.72 | Avg volume | 11,735,220 |
-| P/S | 6.43 | Employees | 17,400 |
-| P/B | 3.01 | Analyst rec (1=buy..5=sell) | 1.9 |
+| P/S | 6.44 | Employees | 17,400 |
+| P/B | 3.02 | Analyst rec (1=buy..5=sell) | 1.9 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

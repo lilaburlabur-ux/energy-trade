@@ -4,8 +4,8 @@ Signed file: `BE.research.04.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $198.18 (2026-11-04, ~15-min delayed) |
-| Market cap | $58.57B |
+| Current price | $200.40 (2026-11-04, ~15-min delayed) |
+| Market cap | $59.23B |
 | Sector / Industry | Industrials / Electrical Equipment & Parts |
 | Main theme | Electrical Equipment & Parts — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: low (expensive), risk: high. |
@@ -15,11 +15,11 @@ Signed file: `BE.research.04.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-10.80%) with negative half-year (-30.58%). |
-| Fresh setup quality | Poor / broken | -42.70% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-9.81%) with negative half-year (-29.80%). |
+| Fresh setup quality | Poor / broken | -42.06% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 13.53%, revenue growth 138.10%. |
-| Value attractiveness | Low (expensive) | Forward P/E 37.22, EV/Sales 16.61. |
-| Risk level | High | Beta 3.62, ATR 10.1% of price, short float 6.62%. |
+| Value attractiveness | Low (expensive) | Forward P/E 37.64, EV/Sales 16.61. |
+| Risk level | High | Beta 3.62, ATR 10.0% of price, short float 6.62%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: low (expensive), risk: high.
 
@@ -36,30 +36,30 @@ Bloom Energy Corporation designs, manufactures, sells, and installs solid oxide 
 
 | Headline | Source | Date |
 |---|---|---|
+| Bloom Energy Stock In Focus After California Power Deal | Simply Wall St. | 2026-11-04 |
 | The AI Data-Center Backlash Is Real. Why Bloom Energy Stock Can Be a Winner. | Barrons.com | 2026-11-04 |
 | Bloom Energy Sinks 8%, Lumentum Down 11% as AI Power Stocks Fade After Democrat Sweep | TIKR | 2026-11-04 |
 | Bloom Energy (BE) Raises Full-Year Outlook Following 166% Revenue Surge | Insider Monkey | 2026-11-04 |
-| Argan (AGX) Shares Fall After Record Q2 Earnings as Backlog Dips to $2.5 Billion | Insider Monkey | 2026-11-04 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $198.18; 52w high $345.85 (-42.70%); 52w low $76.97 (+157.48%) |
-| Trend | -10.80% vs SMA200, -20.07% vs SMA50, -13.06% vs SMA20 |
-| Momentum | RSI(14) 40.0 (neutral) |
-| Volatility | ATR(14) 20.00 (~10.1% of price); beta 3.62 |
-| Setup perspective | -42.70% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $200.40; 52w high $345.85 (-42.06%); 52w low $76.97 (+160.36%) |
+| Trend | -9.81% vs SMA200, -19.18% vs SMA50, -12.13% vs SMA20 |
+| Momentum | RSI(14) 40.5 (neutral) |
+| Volatility | ATR(14) 20.00 (~10.0% of price); beta 3.62 |
+| Setup perspective | -42.06% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -13.1% |
-| Month | -33.0% |
-| Quarter | -13.4% |
-| Half Y | -30.6% |
-| 1Y | +39.2% |
-| YTD | +100.8% |
+| Week | -12.1% |
+| Month | -32.2% |
+| Quarter | -12.5% |
+| Half Y | -29.8% |
+| 1Y | +40.8% |
+| YTD | +103.1% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Bloom Energy Corporation designs, manufactures, sells, and installs solid oxide 
 | Revenue (ttm) | $3.83B | Revenue growth 138.10% y/y |
 | Profitability | Gross 31.77%, operating 18.49%, net 13.53% | ROA 7.45%, ROE 39.61% |
 | Balance sheet | Cash $2.49B, debt $2.79B | Current ratio 3.74, debt/equity 141.95 |
-| Valuation | P/E 120.11, forward P/E 37.22, P/S 15.29, P/B 30.30 | EV/Sales 16.61, EV/EBITDA 105.48 |
+| Valuation | P/E 121.45, forward P/E 37.64, P/S 15.46, P/B 30.64 | EV/Sales 16.61, EV/EBITDA 105.48 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $284.88 (26 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,8 +95,8 @@ Bloom Energy Corporation designs, manufactures, sells, and installs solid oxide 
 | Value Aligned Research Advisors, LLC                           | 5,585,179 | 1.89% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 37.22, EV/Sales 16.61. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 3.62, ATR 10.1% of price, short float 6.62%. Size positions accordingly.
+- **Valuation risk:** Forward P/E 37.64, EV/Sales 16.61. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 3.62, ATR 10.0% of price, short float 6.62%. Size positions accordingly.
 - **Short interest risk:** short float 6.62% can fuel squeezes both ways around news.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
@@ -113,21 +113,21 @@ Bloom Energy Corporation designs, manufactures, sells, and installs solid oxide 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $198.18 | EV/Sales | 16.61 |
-| Market cap | $58.57B | EV/EBITDA | 105.48 |
+| Price | $200.40 | EV/Sales | 16.61 |
+| Market cap | $59.23B | EV/EBITDA | 105.48 |
 | Beta | 3.62 | Gross margin | 31.77% |
-| RSI(14) | 39.9 | Operating margin | 18.49% |
+| RSI(14) | 40.5 | Operating margin | 18.49% |
 | ATR(14) | 20.00 | Profit margin | 13.53% |
-| SMA20 dist | -13.06% | ROA | 7.45% |
-| SMA50 dist | -20.07% | ROE | 39.61% |
-| SMA200 dist | -10.80% | Revenue (ttm) | $3.83B |
+| SMA20 dist | -12.13% | ROA | 7.45% |
+| SMA50 dist | -19.18% | ROE | 39.61% |
+| SMA200 dist | -9.81% | Revenue (ttm) | $3.83B |
 | 52W high | $345.85 | Revenue growth y/y | 138.10% |
 | 52W low | $76.97 | Inst. ownership | 90.27% |
-| P/E (ttm) | 120.11 | Insider ownership | 5.52% |
-| Forward P/E | 37.22 | Short float | 6.62% |
+| P/E (ttm) | 121.45 | Insider ownership | 5.52% |
+| Forward P/E | 37.64 | Short float | 6.62% |
 | PEG (trailing) | 0.37 | Avg volume | 14,861,132 |
-| P/S | 15.29 | Employees | 2,214 |
-| P/B | 30.30 | Analyst rec (1=buy..5=sell) | 2.2 |
+| P/S | 15.46 | Employees | 2,214 |
+| P/B | 30.64 | Analyst rec (1=buy..5=sell) | 2.2 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

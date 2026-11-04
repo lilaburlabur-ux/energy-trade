@@ -4,7 +4,7 @@ Signed file: `SMR.research.04.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $5.14 (2026-11-04, ~15-min delayed) |
+| Current price | $5.13 (2026-11-04, ~15-min delayed) |
 | Market cap | $2.11B |
 | Sector / Industry | Industrials / Specialty Industrial Machinery |
 | Main theme | Specialty Industrial Machinery — see catalysts below |
@@ -15,10 +15,10 @@ Signed file: `SMR.research.04.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-51.73%) with negative half-year (-62.02%). |
-| Fresh setup quality | Poor / broken | -86.45% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-51.77%) with negative half-year (-62.06%). |
+| Fresh setup quality | Poor / broken | -86.47% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 0.00%, revenue growth -99.10%. |
-| Value attractiveness | Reasonable | Forward P/E -8.25, EV/Sales 102.03. |
+| Value attractiveness | Reasonable | Forward P/E -8.24, EV/Sales 102.03. |
 | Risk level | High | Beta 2.43, ATR 9.1% of price, short float 24.85%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: high.
@@ -36,28 +36,28 @@ NuScale Power Corporation provides small modular reactor technology solutions. I
 
 | Headline | Source | Date |
 |---|---|---|
+| NuScale Hit a 52-Week Low as Barclays Turned Bearish. Here’s What Thursday’s Report Must Show | TIKR | 2026-11-04 |
 | Oklo Sinks 6%, Comfort Systems USA Down 15% as Democratic Sweep Rattles AI Power Stocks: “A Negative Surprise” | TIKR | 2026-11-04 |
 | The Zacks Analyst Blog Highlights Oklo, Talen Energy and NuScale Power | Zacks | 2026-11-04 |
 | X-energy Lost 23% in a Month. Wedbush Sees 54% Upside From Here | TIKR | 2026-11-03 |
-| Wedbush starts nuclear coverage, backs Oklo and X-Energy | Investing.com | 2026-11-03 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $5.14; 52w high $37.91 (-86.45%); 52w low $5.14 (+0.00%) |
-| Trend | -51.73% vs SMA200, -32.78% vs SMA50, -12.29% vs SMA20 |
-| Momentum | RSI(14) 30.5 (neutral) |
+| Price vs 52-week range | Close $5.13; 52w high $37.91 (-86.47%); 52w low $5.13 (+0.00%) |
+| Trend | -51.77% vs SMA200, -32.85% vs SMA50, -12.37% vs SMA20 |
+| Momentum | RSI(14) 30.4 (neutral) |
 | Volatility | ATR(14) 0.47 (~9.1% of price); beta 2.43 |
-| Setup perspective | -86.45% from 52w high — base needs to rebuild. |
+| Setup perspective | -86.47% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -9.4% |
+| Week | -9.5% |
 | Month | -36.0% |
 | Quarter | -45.8% |
-| Half Y | -62.0% |
+| Half Y | -62.1% |
 | 1Y | -87.4% |
 | YTD | -68.5% |
 
@@ -68,7 +68,7 @@ NuScale Power Corporation provides small modular reactor technology solutions. I
 | Revenue (ttm) | $10.69M | Revenue growth -99.10% y/y |
 | Profitability | Gross 23.54%, operating -85337.33%, net 0.00% | ROA -10.60%, ROE -55.18% |
 | Balance sheet | Cash $1.07B, debt $6.69M | Current ratio 37.88, debt/equity 0.33 |
-| Valuation | P/E —, forward P/E -8.25, P/S 197.13, P/B 1.02 | EV/Sales 102.03, EV/EBITDA -4.87 |
+| Valuation | P/E —, forward P/E -8.24, P/S 196.94, P/B 1.02 | EV/Sales 102.03, EV/EBITDA -4.87 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $10.38 (16 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -112,20 +112,20 @@ NuScale Power Corporation provides small modular reactor technology solutions. I
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $5.14 | EV/Sales | 102.03 |
+| Price | $5.13 | EV/Sales | 102.03 |
 | Market cap | $2.11B | EV/EBITDA | -4.87 |
 | Beta | 2.43 | Gross margin | 23.54% |
-| RSI(14) | 30.5 | Operating margin | -85337.33% |
+| RSI(14) | 30.4 | Operating margin | -85337.33% |
 | ATR(14) | 0.47 | Profit margin | 0.00% |
-| SMA20 dist | -12.29% | ROA | -10.60% |
-| SMA50 dist | -32.78% | ROE | -55.18% |
-| SMA200 dist | -51.73% | Revenue (ttm) | $10.69M |
+| SMA20 dist | -12.37% | ROA | -10.60% |
+| SMA50 dist | -32.85% | ROE | -55.18% |
+| SMA200 dist | -51.77% | Revenue (ttm) | $10.69M |
 | 52W high | $37.91 | Revenue growth y/y | -99.10% |
-| 52W low | $5.14 | Inst. ownership | 60.91% |
+| 52W low | $5.13 | Inst. ownership | 60.91% |
 | P/E (ttm) | — | Insider ownership | 1.70% |
-| Forward P/E | -8.25 | Short float | 24.85% |
+| Forward P/E | -8.24 | Short float | 24.85% |
 | PEG (trailing) | — | Avg volume | 33,625,512 |
-| P/S | 197.13 | Employees | 428 |
+| P/S | 196.94 | Employees | 428 |
 | P/B | 1.02 | Analyst rec (1=buy..5=sell) | 2.8 |
 
 ## 8. Analyst Actions

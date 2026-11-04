@@ -4,8 +4,8 @@ Signed file: `TRGP.research.04.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $283.66 (2026-11-04, ~15-min delayed) |
-| Market cap | $60.83B |
+| Current price | $285.00 (2026-11-04, ~15-min delayed) |
+| Market cap | $61.11B |
 | Sector / Industry | Energy / Oil & Gas Midstream |
 | Main theme | Oil & Gas Midstream — see catalysts below |
 | Current stance | High technical momentum, mixed fundamentals, value: fair-to-demanding, risk: elevated. |
@@ -15,10 +15,10 @@ Signed file: `TRGP.research.04.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +85.15%; price +9.51% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -9.95% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +86.03%; price +10.03% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -9.52% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 13.54%, revenue growth 4.20%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 23.41, EV/Sales 4.99. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 23.52, EV/Sales 4.99. |
 | Risk level | Elevated | Beta 0.74, ATR 3.3% of price, short float 3.05%. |
 
 **Bottom line:** High technical momentum, mixed fundamentals, value: fair-to-demanding, risk: elevated.
@@ -44,22 +44,22 @@ Targa Resources Corp., together with its subsidiaries, owns, operates, acquires,
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $283.66; 52w high $314.99 (-9.95%); 52w low $151.71 (+86.97%) |
-| Trend | +9.51% vs SMA200, -1.91% vs SMA50, -3.82% vs SMA20 |
-| Momentum | RSI(14) 43.7 (neutral) |
+| Price vs 52-week range | Close $285.00; 52w high $314.99 (-9.52%); 52w low $151.71 (+87.86%) |
+| Trend | +10.03% vs SMA200, -1.46% vs SMA50, -3.39% vs SMA20 |
+| Momentum | RSI(14) 44.5 (neutral) |
 | Volatility | ATR(14) 9.33 (~3.3% of price); beta 0.74 |
-| Setup perspective | -9.95% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -9.52% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -6.9% |
-| Month | -0.3% |
-| Quarter | +6.2% |
-| Half Y | +14.7% |
-| 1Y | +85.2% |
-| YTD | +54.7% |
+| Week | -6.5% |
+| Month | +0.1% |
+| Quarter | +6.7% |
+| Half Y | +15.2% |
+| 1Y | +86.0% |
+| YTD | +55.5% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Targa Resources Corp., together with its subsidiaries, owns, operates, acquires,
 | Revenue (ttm) | $16.74B | Revenue growth 4.20% y/y |
 | Profitability | Gross 43.19%, operating 27.80%, net 13.54% | ROA 9.24%, ROE 70.84% |
 | Balance sheet | Cash $132.30M, debt $19.58B | Current ratio 0.77, debt/equity 515.79 |
-| Valuation | P/E 27.12, forward P/E 23.41, P/S 3.63, P/B 16.63 | EV/Sales 4.99, EV/EBITDA 15.21 |
+| Valuation | P/E 27.25, forward P/E 23.52, P/S 3.65, P/B 16.71 | EV/Sales 4.99, EV/EBITDA 15.21 |
 | Growth expectations | Earnings growth 23.30%, EPS q/q 21.50% | Analyst mean target $330.19 (21 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ Targa Resources Corp., together with its subsidiaries, owns, operates, acquires,
 | Morgan Stanley | 3,559,424 | 1.66% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 23.41, EV/Sales 4.99. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 23.52, EV/Sales 4.99. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 0.74, ATR 3.3% of price, short float 3.05%. Size positions accordingly.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -111,21 +111,21 @@ Targa Resources Corp., together with its subsidiaries, owns, operates, acquires,
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $283.66 | EV/Sales | 4.99 |
-| Market cap | $60.83B | EV/EBITDA | 15.21 |
+| Price | $285.00 | EV/Sales | 4.99 |
+| Market cap | $61.11B | EV/EBITDA | 15.21 |
 | Beta | 0.74 | Gross margin | 43.19% |
-| RSI(14) | 43.7 | Operating margin | 27.80% |
+| RSI(14) | 44.5 | Operating margin | 27.80% |
 | ATR(14) | 9.33 | Profit margin | 13.54% |
-| SMA20 dist | -3.82% | ROA | 9.24% |
-| SMA50 dist | -1.91% | ROE | 70.84% |
-| SMA200 dist | +9.51% | Revenue (ttm) | $16.74B |
+| SMA20 dist | -3.39% | ROA | 9.24% |
+| SMA50 dist | -1.46% | ROE | 70.84% |
+| SMA200 dist | +10.03% | Revenue (ttm) | $16.74B |
 | 52W high | $314.99 | Revenue growth y/y | 4.20% |
 | 52W low | $151.71 | Inst. ownership | 97.71% |
-| P/E (ttm) | 27.12 | Insider ownership | 1.38% |
-| Forward P/E | 23.41 | Short float | 3.05% |
+| P/E (ttm) | 27.25 | Insider ownership | 1.38% |
+| Forward P/E | 23.52 | Short float | 3.05% |
 | PEG (trailing) | — | Avg volume | 1,187,018 |
-| P/S | 3.63 | Employees | 3,570 |
-| P/B | 16.63 | Analyst rec (1=buy..5=sell) | 1.4 |
+| P/S | 3.65 | Employees | 3,570 |
+| P/B | 16.71 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
