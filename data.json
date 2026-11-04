@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-04T13:27:56+00:00",
-  "as_of_local": "2026-11-04 13:27:56 UTC",
+  "as_of_utc": "2026-11-04T13:33:11+00:00",
+  "as_of_local": "2026-11-04 13:33:11 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "FANG"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -897,34 +899,6 @@
           "url": "https://finance.yahoo.com/energy/articles/3-oil-gas-stocks-cash-081013039.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-03T08:10:13Z"
-        }
-      ]
-    },
-    {
-      "symbol": "FANG",
-      "name": "Diamondback Energy",
-      "price": 192.34,
-      "previous_close": 199.74,
-      "change_pct": -3.7,
-      "market_cap": 53709358326.42615,
-      "headlines": [
-        {
-          "title": "What JPMorgan Nasdaq Equity Premium Income (JEPQ) Sold: Marriott Leads on Monday",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-nasdaq-equity-premium-income-110516897.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-04T11:05:16Z"
-        },
-        {
-          "title": "Diamondback (FANG) Q3 2026 Earnings Call Transcript",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/diamondback-fang-q3-2026-earnings-204102021.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-03T20:41:02Z"
-        },
-        {
-          "title": "What Diamondback Energy (FANG) Said on Its Q3 Earnings Call",
-          "url": "https://finance.yahoo.com/energy/articles/diamondback-energy-fang-said-q3-181450317.html",
-          "publisher": "MarketBeat",
-          "published": "2026-11-03T18:14:50Z"
         }
       ]
     },
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 94.41,
-      "change_pct": -1.75
+      "price": 94.38,
+      "change_pct": -1.78
     },
     {
       "label": "Brent",
-      "price": 101.81,
-      "change_pct": -1.73
+      "price": 101.76,
+      "change_pct": -1.78
     },
     {
       "label": "NatGas",
       "price": 2.92,
-      "change_pct": 0.86
+      "change_pct": 0.76
     }
   ]
 }
