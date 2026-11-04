@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-04T12:47:10+00:00",
-  "as_of_local": "2026-11-04 12:47:10 UTC",
+  "as_of_utc": "2026-11-04T12:52:22+00:00",
+  "as_of_local": "2026-11-04 12:52:22 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "COP"
+    "EPD"
   ],
   "stocks": [
     {
@@ -127,6 +127,12 @@
       "market_cap": 203748972891.42136,
       "headlines": [
         {
+          "title": "BofA Names Top Picks in European IT Services as Most Raise Q3 Guidance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bofa-names-top-picks-european-124627353.html",
+          "publisher": "Investing.com",
+          "published": "2026-11-04T12:46:27Z"
+        },
+        {
           "title": "Saft Unveils EnerShift, an Integrated Solution Combining Battery Storage, Energy Trading, and Financing",
           "url": "https://finance.yahoo.com/energy/articles/saft-unveils-enershift-integrated-solution-113921129.html",
           "publisher": "POWER Magazine",
@@ -137,12 +143,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/ride-totalenergies-stock-merry-round-192503426.html",
           "publisher": "Barchart",
           "published": "2026-11-03T19:25:03Z"
-        },
-        {
-          "title": "Energy Transfer Q3 Earnings Miss Estimates Despite Record Gas Volumes",
-          "url": "https://finance.yahoo.com/energy/articles/energy-transfer-q3-earnings-miss-144400119.html",
-          "publisher": "Zacks",
-          "published": "2026-11-03T14:44:00Z"
         }
       ]
     },
@@ -171,6 +171,34 @@
           "url": "https://finance.yahoo.com/energy/articles/nearly-two-thirds-nexteras-backlog-193500131.html",
           "publisher": "Motley Fool",
           "published": "2026-11-03T19:35:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "COP",
+      "name": "ConocoPhillips",
+      "price": 144.4,
+      "previous_close": 146.84,
+      "change_pct": -1.66,
+      "market_cap": 175921647174.9235,
+      "headlines": [
+        {
+          "title": "What State Street Energy Select Sector SPDR ETF (XLE) Sold: Exxon Leads on Monday",
+          "url": "https://finance.yahoo.com/energy/articles/state-street-energy-select-sector-110544981.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-04T11:05:44Z"
+        },
+        {
+          "title": "Earnings live updates: Duolingo stock jumps on user growth, upbeat guidance",
+          "url": "https://finance.yahoo.com/markets/live/earnings-live-updates-apple-palantir-roku-and-more-212856249.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-02T21:28:56Z"
+        },
+        {
+          "title": "4 Energy Stocks That Could Surpass Q3 Earnings Estimates",
+          "url": "https://finance.yahoo.com/energy/articles/4-energy-stocks-could-surpass-155000079.html",
+          "publisher": "Zacks",
+          "published": "2026-11-03T15:50:00Z"
         }
       ]
     },
@@ -567,34 +595,6 @@
       ]
     },
     {
-      "symbol": "EPD",
-      "name": "Enterprise Products",
-      "price": 37.5,
-      "previous_close": 37.37,
-      "change_pct": 0.35,
-      "market_cap": 80980393837.5,
-      "headlines": [
-        {
-          "title": "Enterprise Products Covers Its Distribution 1.9 Times. Here Are 3 More High-Yield Stocks",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/enterprise-products-covers-distribution-1-161728279.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-03T16:17:28Z"
-        },
-        {
-          "title": "3 Best Dividend Stocks for a $100,000 Passive Income Strategy",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-best-dividend-stocks-100-130255635.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-02T13:02:55Z"
-        },
-        {
-          "title": "Ranking 3 Top Pipeline Stocks by Growth Prospects: Energy Transfer, Enterprise Products, and MPLX",
-          "url": "https://finance.yahoo.com/energy/articles/ranking-3-top-pipeline-stocks-105400020.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-01T10:54:00Z"
-        }
-      ]
-    },
-    {
       "symbol": "SLB",
       "name": "SLB (Schlumberger)",
       "price": 52.13,
@@ -746,7 +746,7 @@
           "title": "Stock Market Election News: Dow Futures Jump After Democrat Sweep, But AI Stocks Fade; Elon Musk, SpaceX, Tesla Are Losers (Live)",
           "url": "https://www.investors.com/market-trend/stock-market-today/stock-market-election-night-dow-jones-futures-ai-oil-prices-elon-musk-amd/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
-          "published": "2026-11-04T12:30:32Z"
+          "published": "2026-11-04T12:46:42Z"
         },
         {
           "title": "Bloom Energy's New Guidance Implies Up to $1.55 Billion in Q4 Revenue. Can It Deliver?",
@@ -1913,8 +1913,8 @@
           "name": "ConocoPhillips",
           "short": "ConocoPhillips",
           "weight_pct": 6.73,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": -1.66,
+          "price": 144.4,
           "currency": "USD"
         },
         {
@@ -2012,8 +2012,8 @@
         "name": "ConocoPhillips",
         "short": "ConocoPhillips",
         "weight_pct": 6.73,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": -1.66,
+        "price": 144.4,
         "currency": "USD"
       },
       {
@@ -2089,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 94.64,
-      "change_pct": -1.51
+      "price": 94.89,
+      "change_pct": -1.25
     },
     {
       "label": "Brent",
-      "price": 101.68,
-      "change_pct": -1.85
+      "price": 101.93,
+      "change_pct": -1.61
     },
     {
       "label": "NatGas",
-      "price": 2.89,
-      "change_pct": -0.03
+      "price": 2.91,
+      "change_pct": 0.52
     }
   ]
 }
