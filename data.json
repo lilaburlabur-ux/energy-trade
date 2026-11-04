@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-04T01:31:59+00:00",
-  "as_of_local": "2026-11-04 01:31:59 UTC",
+  "as_of_utc": "2026-11-04T01:47:04+00:00",
+  "as_of_local": "2026-11-04 01:47:04 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -125,6 +125,12 @@
       "market_cap": 203748979599.0,
       "headlines": [
         {
+          "title": "If You Ride the TotalEnergies Stock Merry-Go-Round, Make Sure You Have an Exit Plan",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ride-totalenergies-stock-merry-round-192503426.html",
+          "publisher": "Barchart",
+          "published": "2026-11-03T19:25:03Z"
+        },
+        {
           "title": "Energy Transfer Q3 Earnings Miss Estimates Despite Record Gas Volumes",
           "url": "https://finance.yahoo.com/energy/articles/energy-transfer-q3-earnings-miss-144400119.html",
           "publisher": "Zacks",
@@ -135,12 +141,6 @@
           "url": "https://finance.yahoo.com/energy/articles/adnoc-gas-supply-lng-totalenergies-123000680.html",
           "publisher": "Oilprice.com",
           "published": "2026-11-03T12:30:00Z"
-        },
-        {
-          "title": "TotalEnergies (ENXTPA:TTE) Takes 30% Operated Stake In Two Major Malaysia Gas Fields",
-          "url": "https://finance.yahoo.com/energy/articles/totalenergies-enxtpa-tte-takes-30-081003324.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-03T08:10:03Z"
         }
       ]
     },
@@ -206,7 +206,7 @@
       "price": 366.07,
       "previous_close": 369.97,
       "change_pct": -1.05,
-      "market_cap": 152136280000.0,
+      "market_cap": 152097110000.0,
       "headlines": [
         {
           "title": "Eaton (ETN) Q3 2026 Earnings Call Transcript",
@@ -225,6 +225,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/eaton-earnings-analysis-questions-answered-182935716.html",
           "publisher": "Investing.com",
           "published": "2026-11-03T18:29:35Z"
+        }
+      ]
+    },
+    {
+      "symbol": "MPC",
+      "name": "Marathon Petroleum",
+      "price": 430.39,
+      "previous_close": 444.73,
+      "change_pct": -3.22,
+      "market_cap": 124756201600.9,
+      "headlines": [
+        {
+          "title": "Marathon Petroleum Corporation Q3 2026 Earnings Call Summary",
+          "url": "https://finance.yahoo.com/energy/articles/marathon-petroleum-corporation-q3-2026-222954479.html",
+          "publisher": "Moby",
+          "published": "2026-11-03T22:29:54Z"
+        },
+        {
+          "title": "Stocks to Watch Recap: Apple, Palantir, AMD",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-03-2026/card/stocks-to-watch-apple-marathon-petroleum-palantir-lufthansa-IEOGJG7s9Z2v71zTnI3i?siteid=yhoof2&yptr=yahoo",
+          "publisher": "The Wall Street Journal",
+          "published": "2026-11-03T21:54:12Z"
+        },
+        {
+          "title": "Marathon Petroleum (MPC) Q3 2026 Earnings Call Transcript",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/marathon-petroleum-mpc-q3-2026-211713683.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-03T21:17:13Z"
         }
       ]
     },
@@ -253,34 +281,6 @@
           "url": "https://finance.yahoo.com/energy/articles/3-energy-companies-managing-c-150000819.html",
           "publisher": "C-Store Dive",
           "published": "2026-11-03T15:00:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "MPC",
-      "name": "Marathon Petroleum",
-      "price": 430.39,
-      "previous_close": 444.73,
-      "change_pct": -3.22,
-      "market_cap": 120007654220.42,
-      "headlines": [
-        {
-          "title": "Marathon Petroleum Corporation Q3 2026 Earnings Call Summary",
-          "url": "https://finance.yahoo.com/energy/articles/marathon-petroleum-corporation-q3-2026-222954479.html",
-          "publisher": "Moby",
-          "published": "2026-11-03T22:29:54Z"
-        },
-        {
-          "title": "Stocks to Watch Recap: Apple, Palantir, AMD",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-03-2026/card/stocks-to-watch-apple-marathon-petroleum-palantir-lufthansa-IEOGJG7s9Z2v71zTnI3i?siteid=yhoof2&yptr=yahoo",
-          "publisher": "The Wall Street Journal",
-          "published": "2026-11-03T21:54:12Z"
-        },
-        {
-          "title": "Marathon Petroleum (MPC) Q3 2026 Earnings Call Transcript",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/marathon-petroleum-mpc-q3-2026-211713683.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-03T21:17:13Z"
         }
       ]
     },
@@ -570,7 +570,7 @@
       "price": 157.89,
       "previous_close": 165.54,
       "change_pct": -4.62,
-      "market_cap": 81391192239.92,
+      "market_cap": 82647969000.09999,
       "headlines": [
         {
           "title": "What Just Happened To Devon Energy Stock?",
@@ -1046,7 +1046,7 @@
       "price": 74.38,
       "previous_close": 74.29,
       "change_pct": 0.12,
-      "market_cap": 36289962384.3,
+      "market_cap": 36282781279.62,
       "headlines": [
         {
           "title": "How Earnings Miss Will Impact PSEG Stock Investors",
@@ -1494,7 +1494,7 @@
       "price": 30.05,
       "previous_close": 28.65,
       "change_pct": 4.89,
-      "market_cap": 9093382267.800001,
+      "market_cap": 9189261739.5,
       "headlines": [
         {
           "title": "If I Could Only Buy 1 AI Power Stock for the Next Decade, It Wouldn't Be Bloom Energy or GE Vernova",
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 96.2,
-      "change_pct": -0.27
+      "price": 95.99,
+      "change_pct": -0.49
     },
     {
       "label": "Brent",
-      "price": 103.88,
-      "change_pct": -0.85
+      "price": 103.77,
+      "change_pct": -0.95
     },
     {
       "label": "NatGas",
       "price": 2.89,
-      "change_pct": 1.26
+      "change_pct": 1.12
     }
   ]
 }
