@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-04T13:58:26+00:00",
-  "as_of_local": "2026-11-04 13:58:26 UTC",
+  "as_of_utc": "2026-11-04T14:03:27+00:00",
+  "as_of_local": "2026-11-04 14:03:27 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -570,7 +570,7 @@
       "price": 155.17,
       "previous_close": 157.89,
       "change_pct": -1.72,
-      "market_cap": 81391191279.4784,
+      "market_cap": 82647968024.82803,
       "headlines": [
         {
           "title": "What Just Happened To Devon Energy Stock?",
@@ -1494,7 +1494,7 @@
       "price": 30.3,
       "previous_close": 30.05,
       "change_pct": 0.83,
-      "market_cap": 9093382038.833,
+      "market_cap": 9189261508.118801,
       "headlines": [
         {
           "title": "Brookfield Renewable: Q3 Earnings Snapshot",
@@ -1861,6 +1861,12 @@
       "market_cap": 713754373.3819628,
       "headlines": [
         {
+          "title": "Array Technologies, Inc. (ARRY) Misses Q3 Earnings Estimates",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/array-technologies-inc-arry-misses-125502681.html",
+          "publisher": "Zacks",
+          "published": "2026-11-04T12:55:02Z"
+        },
+        {
           "title": "FTC Solar (FTCI) Reports Q3 Loss, Tops Revenue Estimates",
           "url": "https://finance.yahoo.com/markets/stocks/articles/ftc-solar-ftci-reports-q3-115002255.html",
           "publisher": "Zacks",
@@ -1871,12 +1877,6 @@
           "url": "https://finance.yahoo.com/energy/articles/3-clean-energy-stocks-retail-171229818.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-02T17:12:29Z"
-        },
-        {
-          "title": "First Solar's Q3 Earnings Beat Estimates, Revenues Decrease Y/Y",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/first-solars-q3-earnings-beat-141500345.html",
-          "publisher": "Zacks",
-          "published": "2026-10-30T14:15:00Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 93.62,
-      "change_pct": -2.57
+      "price": 93.57,
+      "change_pct": -2.62
     },
     {
       "label": "Brent",
-      "price": 100.93,
-      "change_pct": -2.58
+      "price": 100.98,
+      "change_pct": -2.53
     },
     {
       "label": "NatGas",
-      "price": 2.91,
-      "change_pct": 0.66
+      "price": 2.92,
+      "change_pct": 0.76
     }
   ]
 }
