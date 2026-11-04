@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-04T13:33:11+00:00",
-  "as_of_local": "2026-11-04 13:33:11 UTC",
+  "as_of_utc": "2026-11-04T13:38:01+00:00",
+  "as_of_local": "2026-11-04 13:38:01 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "FANG"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -183,6 +181,12 @@
       "market_cap": 175921647174.9235,
       "headlines": [
         {
+          "title": "ConocoPhillips and Devon Energy Earnings Previews: What Shareholders Should Watch",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/conocophillips-devon-energy-earnings-previews-133254604.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-04T13:32:54Z"
+        },
+        {
           "title": "What State Street Energy Select Sector SPDR ETF (XLE) Sold: Exxon Leads on Monday",
           "url": "https://finance.yahoo.com/energy/articles/state-street-energy-select-sector-110544981.html",
           "publisher": "GuruFocus.com",
@@ -193,12 +197,6 @@
           "url": "https://finance.yahoo.com/markets/live/earnings-live-updates-apple-palantir-roku-and-more-212856249.html",
           "publisher": "Yahoo Finance",
           "published": "2026-11-02T21:28:56Z"
-        },
-        {
-          "title": "4 Energy Stocks That Could Surpass Q3 Earnings Estimates",
-          "url": "https://finance.yahoo.com/energy/articles/4-energy-stocks-could-surpass-155000079.html",
-          "publisher": "Zacks",
-          "published": "2026-11-03T15:50:00Z"
         }
       ]
     },
@@ -903,6 +901,34 @@
       ]
     },
     {
+      "symbol": "FANG",
+      "name": "Diamondback Energy",
+      "price": 192.34,
+      "previous_close": 199.74,
+      "change_pct": -3.7,
+      "market_cap": 53709358326.42615,
+      "headlines": [
+        {
+          "title": "What JPMorgan Nasdaq Equity Premium Income (JEPQ) Sold: Marriott Leads on Monday",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-nasdaq-equity-premium-income-110516897.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-04T11:05:16Z"
+        },
+        {
+          "title": "Diamondback (FANG) Q3 2026 Earnings Call Transcript",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/diamondback-fang-q3-2026-earnings-204102021.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-03T20:41:02Z"
+        },
+        {
+          "title": "What Diamondback Energy (FANG) Said on Its Q3 Earnings Call",
+          "url": "https://finance.yahoo.com/energy/articles/diamondback-energy-fang-said-q3-181450317.html",
+          "publisher": "MarketBeat",
+          "published": "2026-11-03T18:14:50Z"
+        }
+      ]
+    },
+    {
       "symbol": "BKR",
       "name": "Baker Hughes",
       "price": 52.79,
@@ -939,6 +965,12 @@
       "market_cap": 52381998825.07324,
       "headlines": [
         {
+          "title": "ConocoPhillips and Devon Energy Earnings Previews: What Shareholders Should Watch",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/conocophillips-devon-energy-earnings-previews-133254604.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-04T13:32:54Z"
+        },
+        {
           "title": "What Just Happened To Devon Energy Stock?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/just-happened-devon-energy-stock-180915371.html",
           "publisher": "Trefis",
@@ -949,12 +981,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/devon-energy-report-q3-earnings-162500109.html",
           "publisher": "Zacks",
           "published": "2026-11-03T16:25:00Z"
-        },
-        {
-          "title": "Are Wall Street Analysts Bullish on Devon Energy Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-devon-150805745.html",
-          "publisher": "Barchart",
-          "published": "2026-11-03T15:08:05Z"
         }
       ]
     },
@@ -1723,6 +1749,12 @@
       "market_cap": 2022966659.9565887,
       "headlines": [
         {
+          "title": "SolarEdge\u2019s (NASDAQ:SEDG) Q3 2026 earnings results: revenue in line with expectations but stock drops",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/solaredge-nasdaq-sedg-q3-2026-131644000.html",
+          "publisher": "StockStory",
+          "published": "2026-11-04T13:16:44Z"
+        },
+        {
           "title": "Top clean energy stocks to watch as Democratic sweep improves outlook",
           "url": "https://finance.yahoo.com/energy/articles/top-clean-energy-stocks-watch-125922163.html",
           "publisher": "Investing.com",
@@ -1733,12 +1765,6 @@
           "url": "https://finance.yahoo.com/energy/articles/first-solar-solaredge-sunrun-lead-121604999.html",
           "publisher": "GuruFocus.com",
           "published": "2026-11-04T12:16:04Z"
-        },
-        {
-          "title": "SolarEdge Technologies (SEDG) Q3 Earnings Surpass Estimates",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/solaredge-technologies-sedg-q3-earnings-121004343.html",
-          "publisher": "Zacks",
-          "published": "2026-11-04T12:10:04Z"
         }
       ]
     },
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 94.38,
-      "change_pct": -1.78
+      "price": 94.34,
+      "change_pct": -1.82
     },
     {
       "label": "Brent",
-      "price": 101.76,
-      "change_pct": -1.78
+      "price": 101.73,
+      "change_pct": -1.81
     },
     {
       "label": "NatGas",
-      "price": 2.92,
-      "change_pct": 0.76
+      "price": 2.91,
+      "change_pct": 0.48
     }
   ]
 }
