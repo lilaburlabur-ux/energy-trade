@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-04T11:40:42+00:00",
+  "as_of": "2026-11-04T11:55:50+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,22 +9,6 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "FSLR",
-   "company": "First Solar, Inc.",
-   "move_pct": 8.12,
-   "price": 201.0,
-   "volume": 3452900,
-   "volume_vs_avg": "~1.5x",
-   "heat_score": 61,
-   "direction": "up",
-   "why": "Why is First Solar stock surging today? By Investing.com",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObV9QSkhvUV9idjA4VHFzc3hTaDdMUEVib3Z4TkhmMmpZWDlwb2kxbi1uUVJTTXJXOER6cFkzUmNsNzFmYkZjQ3ZiZjhsaXV0UF9PU3VVUjVJUnAtOWx4M19KdUpWOGY2V195NDBWZFhwM1FyYlpQU1pmSWswWm5JUXBic2pLclMwOFRBX2NKdlBCaDVvRTJuSWJlWUJ0a2Ju?oc=5",
-   "published": "2026-11-04T09:26:00+00:00",
-   "sector": "Renewables & Solar"
-  },
-  {
-   "rank": 2,
    "ticker": "ARRY",
    "company": "Array Technologies, Inc.",
    "move_pct": 6.03,
@@ -37,6 +21,38 @@
    "catalyst_type": "earnings",
    "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSmRKTDJaMGlMUGV3NHJiNWZ4VmMtZ0JDTDZnWFF0aWt5dEdDbHFYMFpzSzNQTmxKaGxvUmFnUzNzenMzMnRkSE10VWlwazJiM2NqV1RhYzNzNkNzSGpKMlRzVVp4UnV4dksxdW4zLWhEa3JoTXB3dDZ6N3JzNW9lZjNYYko2UUgyd3p6NkhieFBDWFUtYVpWODc0Unc?oc=5",
    "published": "2026-11-04T08:06:22+00:00",
+   "sector": "Renewables & Solar"
+  },
+  {
+   "rank": 2,
+   "ticker": "FSLR",
+   "company": "First Solar, Inc.",
+   "move_pct": 7.4,
+   "price": 199.66,
+   "volume": 3452900,
+   "volume_vs_avg": "~1.5x",
+   "heat_score": 48,
+   "direction": "up",
+   "why": "Why is First Solar stock surging today?",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWFVqOXdHc0hnSEJhUE0tQ1RpUjc0UDFFcDM3WlU2UFQyS0lPN2htSWZfQlptQWxGaEhwLS1ObEw5dkZLX2JwUlVybzZ1Z3B5NnJJVXdHMGVrcFVQdUVuMlhRc0dOSlNVQ25IeWoyVzNqM2xyS2N2dHNyTUJTSDV1anF0SFpGb1l5aVF6aVdTN0NOMlczYnhnaUNOLUwxWU5FRFE?oc=5",
+   "published": "2026-11-04T09:31:23+00:00",
+   "sector": "Renewables & Solar"
+  },
+  {
+   "rank": 3,
+   "ticker": "RUN",
+   "company": "Sunrun Inc.",
+   "move_pct": 6.69,
+   "price": 9.26,
+   "volume": 13238000,
+   "volume_vs_avg": "~2x",
+   "heat_score": 46,
+   "direction": "up",
+   "why": "Why is Sunrun stock surging today? By Investing.com",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaTNadVpUY3Jzak8xeTExVFN0SHRFejhyZUcyZ1lPT1BBUVpzNTE5NV9UT3lIbEFZczFHY0N4bXMxR2FQc0xwWGdpbnRTSm9UeHNPcWtUYk1UQXIzTl9iTU9zRHVfLTVPTEtrNDRwSVZXaWFSTDR2RzRxTXFnbDd6eFE4dXF4VTFwajhrYVZndUhPMjRNSEpaZnFR?oc=5",
+   "published": "2026-11-04T11:34:00+00:00",
    "sector": "Renewables & Solar"
   }
  ]
