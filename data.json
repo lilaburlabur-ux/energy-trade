@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-04T08:47:48+00:00",
-  "as_of_local": "2026-11-04 08:47:48 UTC",
+  "as_of_utc": "2026-11-04T08:52:54+00:00",
+  "as_of_local": "2026-11-04 08:52:54 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "ETR"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -983,6 +981,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-devon-150805745.html",
           "publisher": "Barchart",
           "published": "2026-11-03T15:08:05Z"
+        }
+      ]
+    },
+    {
+      "symbol": "ETR",
+      "name": "Entergy",
+      "price": 108.92,
+      "previous_close": 109.87,
+      "change_pct": -0.86,
+      "market_cap": 52044929144.39241,
+      "headlines": [
+        {
+          "title": "4 Companies Just Raised Their Dividends. Which Payout Has the Most Room to Grow?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/4-companies-just-raised-dividends-204745676.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-03T20:47:45Z"
+        },
+        {
+          "title": "Buy These 4 Low-Beta Defensive Stocks to Dodge Ongoing Market Volatility",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/buy-4-low-beta-defensive-120000464.html",
+          "publisher": "Zacks",
+          "published": "2026-11-03T12:00:00Z"
+        },
+        {
+          "title": "Entergy Corp (ETR) Q3 2026 Earnings Call Highlights: Strong EPS, Google Expansion, and a ...",
+          "url": "https://finance.yahoo.com/energy/articles/entergy-corp-etr-q3-2026-070158071.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-03T07:01:58Z"
         }
       ]
     },
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 96.53,
-      "change_pct": 0.46
+      "price": 96.38,
+      "change_pct": 0.3
     },
     {
       "label": "Brent",
-      "price": 103.97,
-      "change_pct": 0.36
+      "price": 103.86,
+      "change_pct": 0.25
     },
     {
       "label": "NatGas",
       "price": 2.9,
-      "change_pct": 0.17
+      "change_pct": 0.21
     }
   ]
 }
