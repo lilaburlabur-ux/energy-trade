@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-04T07:27:05+00:00",
-  "as_of_local": "2026-11-04 07:27:05 UTC",
+  "as_of_utc": "2026-11-04T07:42:05+00:00",
+  "as_of_local": "2026-11-04 07:42:05 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AR"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1107,6 +1105,12 @@
       "market_cap": 31602271892.927063,
       "headlines": [
         {
+          "title": "Oklo Sinks 14% in a Week to a New 52-Week Low. Is the Selling Overdone?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/oklo-sinks-14-week-52-023014206.html",
+          "publisher": "TIKR",
+          "published": "2026-11-04T02:30:14Z"
+        },
+        {
           "title": "What Chemours (CC) Said on Its Q3 Earnings Call",
           "url": "https://finance.yahoo.com/markets/stocks/articles/chemours-cc-said-q3-earnings-151437478.html",
           "publisher": "MarketBeat",
@@ -1117,12 +1121,6 @@
           "url": "https://finance.yahoo.com/energy/articles/uranium-prices-near-historic-highs-141000724.html",
           "publisher": "MarketBeat",
           "published": "2026-11-02T14:10:00Z"
-        },
-        {
-          "title": "What Is Behind The Move In Cameco Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/behind-move-cameco-stock-012341659.html",
-          "publisher": "Trefis",
-          "published": "2026-11-02T01:23:41Z"
         }
       ]
     },
@@ -1435,6 +1433,34 @@
       ]
     },
     {
+      "symbol": "AR",
+      "name": "Antero Resources",
+      "price": 39.93,
+      "previous_close": 40.64,
+      "change_pct": -1.75,
+      "market_cap": 12263940573.730469,
+      "headlines": [
+        {
+          "title": "1 growth stock to add to your roster and 2 we turn down",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/1-growth-stock-add-roster-115736291.html",
+          "publisher": "StockStory",
+          "published": "2026-11-03T11:57:36Z"
+        },
+        {
+          "title": "Eni Begins Maha Gas Production, Boosting Indonesia's Offshore Output",
+          "url": "https://finance.yahoo.com/energy/articles/eni-begins-maha-gas-production-160100997.html",
+          "publisher": "Zacks",
+          "published": "2026-11-02T16:01:00Z"
+        },
+        {
+          "title": "Antero Resources (AR) Stock Climbs On Q3 Earnings And Cash Cost Gains",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/antero-resources-ar-stock-climbs-171249752.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-10-30T17:12:49Z"
+        }
+      ]
+    },
+    {
       "symbol": "BWXT",
       "name": "BWX Technologies",
       "price": 131.82,
@@ -1583,6 +1609,12 @@
       "market_cap": 4369554555.923939,
       "headlines": [
         {
+          "title": "Oklo Sinks 14% in a Week to a New 52-Week Low. Is the Selling Overdone?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/oklo-sinks-14-week-52-023014206.html",
+          "publisher": "TIKR",
+          "published": "2026-11-04T02:30:14Z"
+        },
+        {
           "title": "X-energy Lost 23% in a Month. Wedbush Sees 54% Upside From Here",
           "url": "https://finance.yahoo.com/markets/stocks/articles/x-energy-lost-23-month-203639492.html",
           "publisher": "TIKR",
@@ -1593,12 +1625,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/oklo-oklo-dropped-driving-attention-191056316.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-03T19:10:56Z"
-        },
-        {
-          "title": "Cloudflare upgraded, Marvell downgraded: Wall Street's top analyst calls",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/cloudflare-upgraded-solaredge-downgraded-wall-134728028.html",
-          "publisher": "The Fly",
-          "published": "2026-11-03T14:40:44Z"
         }
       ]
     },
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 96.25,
-      "change_pct": 0.17
+      "price": 96.87,
+      "change_pct": 0.81
     },
     {
       "label": "Brent",
-      "price": 103.86,
-      "change_pct": 0.25
+      "price": 104.52,
+      "change_pct": 0.89
     },
     {
       "label": "NatGas",
-      "price": 2.9,
-      "change_pct": 0.31
+      "price": 2.91,
+      "change_pct": 0.38
     }
   ]
 }
