@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-04T08:52:54+00:00",
-  "as_of_local": "2026-11-04 08:52:54 UTC",
+  "as_of_utc": "2026-11-04T08:58:01+00:00",
+  "as_of_local": "2026-11-04 08:58:01 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "SHEL"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -57,34 +59,6 @@
           "url": "https://finance.yahoo.com/energy/articles/u-striking-iran-trump-talks-174724817.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-03T17:47:24Z"
-        }
-      ]
-    },
-    {
-      "symbol": "SHEL",
-      "name": "Shell",
-      "price": 104.2,
-      "previous_close": 104.94,
-      "change_pct": -0.71,
-      "market_cap": 295453267817.3113,
-      "headlines": [
-        {
-          "title": "BP Appoints Former Shell Executive Emma Lewis to Lead Downstream Business",
-          "url": "https://finance.yahoo.com/energy/articles/bp-appoints-former-shell-executive-082200273.html",
-          "publisher": "Oilprice.com",
-          "published": "2026-11-04T08:22:00Z"
-        },
-        {
-          "title": "Rivian spinout Also was working on an e-moto project in Kenya \u2014 until it walked away",
-          "url": "https://finance.yahoo.com/technology/articles/rivian-spinout-working-e-moto-164909122.html",
-          "publisher": "TechCrunch",
-          "published": "2026-11-03T16:49:09Z"
-        },
-        {
-          "title": "How 3 energy companies are managing their c-store portfolios",
-          "url": "https://finance.yahoo.com/energy/articles/3-energy-companies-managing-c-150000819.html",
-          "publisher": "C-Store Dive",
-          "published": "2026-11-03T15:00:00Z"
         }
       ]
     },
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 96.38,
-      "change_pct": 0.3
+      "price": 96.53,
+      "change_pct": 0.46
     },
     {
       "label": "Brent",
-      "price": 103.86,
-      "change_pct": 0.25
+      "price": 104.14,
+      "change_pct": 0.52
     },
     {
       "label": "NatGas",
-      "price": 2.9,
-      "change_pct": 0.21
+      "price": 2.91,
+      "change_pct": 0.45
     }
   ]
 }
