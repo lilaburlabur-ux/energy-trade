@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-04T00:21:15+00:00",
-  "as_of_local": "2026-11-04 00:21:15 UTC",
+  "as_of_utc": "2026-11-04T00:26:23+00:00",
+  "as_of_local": "2026-11-04 00:26:23 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "APA"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1379,6 +1377,34 @@
       ]
     },
     {
+      "symbol": "APA",
+      "name": "APA Corp",
+      "price": 47.77,
+      "previous_close": 48.82,
+      "change_pct": -2.15,
+      "market_cap": 16736291793.078194,
+      "headlines": [
+        {
+          "title": "SM Energy (SM) Q3 Earnings Lag Estimates",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/sm-energy-sm-q3-earnings-215007261.html",
+          "publisher": "Zacks",
+          "published": "2026-11-03T21:50:07Z"
+        },
+        {
+          "title": "What Just Happened To Devon Energy Stock?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/just-happened-devon-energy-stock-180915371.html",
+          "publisher": "Trefis",
+          "published": "2026-11-03T18:09:15Z"
+        },
+        {
+          "title": "4 GARP Stocks to Buy Now as Volatility Fuels Value vs. Growth Debate",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/4-garp-stocks-buy-now-180000416.html",
+          "publisher": "Zacks",
+          "published": "2026-11-03T18:00:00Z"
+        }
+      ]
+    },
+    {
       "symbol": "NXT",
       "name": "Nextracker",
       "price": 96.02,
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 96.52,
-      "change_pct": 0.06
+      "price": 96.54,
+      "change_pct": 0.08
     },
     {
       "label": "Brent",
-      "price": 104.18,
-      "change_pct": -0.56
+      "price": 104.2,
+      "change_pct": -0.54
     },
     {
       "label": "NatGas",
       "price": 2.9,
-      "change_pct": 1.51
+      "change_pct": 1.47
     }
   ]
 }
