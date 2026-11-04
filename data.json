@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-04T00:11:03+00:00",
-  "as_of_local": "2026-11-04 00:11:03 UTC",
+  "as_of_utc": "2026-11-04T00:16:11+00:00",
+  "as_of_local": "2026-11-04 00:16:11 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "PEG"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1037,34 +1039,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/constellation-energy-stocks-drop-chance-211025191.html",
           "publisher": "Trefis",
           "published": "2026-11-02T21:10:25Z"
-        }
-      ]
-    },
-    {
-      "symbol": "PEG",
-      "name": "Public Service Enterprise",
-      "price": 72.81,
-      "previous_close": 74.38,
-      "change_pct": -2.11,
-      "market_cap": 36289961167.45422,
-      "headlines": [
-        {
-          "title": "Public Service Enterprise Group (PEG) Holds Guidance After Earnings Misses While Fair Value Still Leads",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/public-enterprise-group-peg-holds-221813853.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-03T22:18:13Z"
-        },
-        {
-          "title": "Can Edison International Stock Jump 30%?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/edison-international-stock-jump-30-160603870.html",
-          "publisher": "Trefis",
-          "published": "2026-11-03T16:06:03Z"
-        },
-        {
-          "title": "PSEG Power plans 200-MW nuclear uprate as company eyes data center deals",
-          "url": "https://finance.yahoo.com/energy/articles/pseg-power-plans-200-mw-151554908.html",
-          "publisher": "Utility Dive",
-          "published": "2026-11-03T15:15:54Z"
         }
       ]
     },
@@ -2115,8 +2089,8 @@
     },
     {
       "label": "WTI",
-      "price": 96.61,
-      "change_pct": 0.16
+      "price": 96.64,
+      "change_pct": 0.19
     },
     {
       "label": "Brent",
@@ -2125,8 +2099,8 @@
     },
     {
       "label": "NatGas",
-      "price": 2.89,
-      "change_pct": 1.37
+      "price": 2.9,
+      "change_pct": 1.47
     }
   ]
 }
