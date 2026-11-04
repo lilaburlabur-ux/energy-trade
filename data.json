@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-04T23:16:56+00:00",
-  "as_of_local": "2026-11-04 23:16:56 UTC",
+  "as_of_utc": "2026-11-04T23:21:19+00:00",
+  "as_of_local": "2026-11-04 23:21:19 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "FTI"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -102,7 +100,7 @@
           "title": "Dow Jones Futures Rise After Apple, Microsoft, Amazon Flash Buy Signals In Postelection Rally. CoreWeave, SpaceX Skid.",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-elections-oil-apple-microsoft-amazon-buy-signals-coreweave-spacex-skid/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
-          "published": "2026-11-04T23:04:38Z"
+          "published": "2026-11-04T23:06:30Z"
         },
         {
           "title": "AI Data Center Backlash Is Real. The Blue Wave Takes Out Energy Stocks.",
@@ -539,6 +537,34 @@
       ]
     },
     {
+      "symbol": "EPD",
+      "name": "Enterprise Products",
+      "price": 36.71,
+      "previous_close": 37.5,
+      "change_pct": -2.11,
+      "market_cap": 79274404896.9296,
+      "headlines": [
+        {
+          "title": "This ETF Makes It Easy to Invest in Hard Assets",
+          "url": "https://www.barrons.com/articles/etf-assets-commodities-d9c31236?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-11-04T18:39:00Z"
+        },
+        {
+          "title": "The 10-Year Treasury Yields 4.91%. These 4 Dividend Stocks Pay More",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/10-treasury-yields-4-91-164702607.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-04T16:47:02Z"
+        },
+        {
+          "title": "Enterprise Products Partners' Distribution Growth Has Slowed From 5% to 2.7%. Is That a Red Flag or a Feature?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/enterprise-products-partners-distribution-growth-150500304.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-04T15:05:00Z"
+        }
+      ]
+    },
+    {
       "symbol": "VRT",
       "name": "Vertiv",
       "price": 205.55,
@@ -572,7 +598,7 @@
       "price": 147.06,
       "previous_close": 155.17,
       "change_pct": -5.23,
-      "market_cap": 78328350321.43738,
+      "market_cap": 77137259341.97119,
       "headlines": [
         {
           "title": "EOG Resources Earnings Ahead: What Past Reactions Say About The Stock",
@@ -1127,6 +1153,34 @@
       ]
     },
     {
+      "symbol": "FTI",
+      "name": "TechnipFMC",
+      "price": 64.5,
+      "previous_close": 66.74,
+      "change_pct": -3.36,
+      "market_cap": 25079750817.0,
+      "headlines": [
+        {
+          "title": "Top Research Reports for Microsoft, SpaceX & Marvell",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/top-research-reports-microsoft-spacex-202500966.html",
+          "publisher": "Zacks",
+          "published": "2026-11-04T20:25:00Z"
+        },
+        {
+          "title": "3 LNG Stocks Retail Investors May Watch As Egypt Gas Imports Tighten Supply",
+          "url": "https://finance.yahoo.com/energy/articles/3-lng-stocks-retail-investors-031758364.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-04T03:17:58Z"
+        },
+        {
+          "title": "iShares Core S&P Mid-Cap (IJH) Adds Okta and TechnipFMC on Oct. 29",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-core-p-mid-cap-110615340.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-02T11:06:15Z"
+        }
+      ]
+    },
+    {
       "symbol": "HUBB",
       "name": "Hubbell",
       "price": 438.26,
@@ -1440,7 +1494,7 @@
       "price": 30.91,
       "previous_close": 30.3,
       "change_pct": 2.01,
-      "market_cap": 9374260031.87376,
+      "market_cap": 9276450313.8666,
       "headlines": [
         {
           "title": "Brookfield Renewable Partners Q3 Earnings Call Highlights",
@@ -2061,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 88.04,
-      "change_pct": -8.38
+      "price": 88.39,
+      "change_pct": -8.01
     },
     {
       "label": "Brent",
-      "price": 94.63,
-      "change_pct": -8.66
+      "price": 94.81,
+      "change_pct": -8.48
     },
     {
       "label": "NatGas",
-      "price": 2.95,
-      "change_pct": 1.9
+      "price": 2.94,
+      "change_pct": 1.73
     }
   ]
 }
