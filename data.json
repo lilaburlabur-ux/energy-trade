@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-04T12:06:47+00:00",
-  "as_of_local": "2026-11-04 12:06:47 UTC",
+  "as_of_utc": "2026-11-04T12:11:47+00:00",
+  "as_of_local": "2026-11-04 12:11:47 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -206,8 +206,14 @@
       "price": 391.7,
       "previous_close": 366.07,
       "change_pct": 7.0,
-      "market_cap": 152136284741.21094,
+      "market_cap": 152097114739.99023,
       "headlines": [
+        {
+          "title": "How Has Vertiv's Story Changed?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/vertivs-story-changed-115314884.html",
+          "publisher": "Trefis",
+          "published": "2026-11-04T11:53:14Z"
+        },
         {
           "title": "Eaton Q3 Earnings Call Highlights",
           "url": "https://finance.yahoo.com/markets/stocks/articles/eaton-q3-earnings-call-highlights-051410047.html",
@@ -219,12 +225,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/eaton-corp-plc-etn-q3-050637925.html",
           "publisher": "GuruFocus.com",
           "published": "2026-11-04T05:06:37Z"
+        }
+      ]
+    },
+    {
+      "symbol": "MPC",
+      "name": "Marathon Petroleum",
+      "price": 427.34,
+      "previous_close": 430.39,
+      "change_pct": -0.71,
+      "market_cap": 124756200531.79611,
+      "headlines": [
+        {
+          "title": "Marathon Petroleum Corp (MPC) Q3 2026 Earnings Call Highlights: Record 100% Refinery ...",
+          "url": "https://finance.yahoo.com/energy/articles/marathon-petroleum-corp-mpc-q3-110501543.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-04T11:05:01Z"
         },
         {
-          "title": "Eaton (ETN) Q3 2026 Earnings Call Transcript",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/eaton-etn-q3-2026-earnings-211713098.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-03T21:17:13Z"
+          "title": "CVR Energy Prices $500 Million Common Stock Offering at $47.55 a Share",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/cvr-energy-prices-500-million-091631857.html",
+          "publisher": "MT Newswires",
+          "published": "2026-11-04T09:16:31Z"
+        },
+        {
+          "title": "CVR Energy to acquire two US refineries from Marathon for $4.2bn",
+          "url": "https://finance.yahoo.com/news/cvr-energy-acquire-two-us-081523522.html",
+          "publisher": "Offshore Technology",
+          "published": "2026-11-04T08:15:23Z"
         }
       ]
     },
@@ -253,34 +281,6 @@
           "url": "https://finance.yahoo.com/energy/articles/bp-appoints-former-shell-executive-082200273.html",
           "publisher": "Oilprice.com",
           "published": "2026-11-04T08:22:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "MPC",
-      "name": "Marathon Petroleum",
-      "price": 427.34,
-      "previous_close": 430.39,
-      "change_pct": -0.71,
-      "market_cap": 120007653192.009,
-      "headlines": [
-        {
-          "title": "Marathon Petroleum Corp (MPC) Q3 2026 Earnings Call Highlights: Record 100% Refinery ...",
-          "url": "https://finance.yahoo.com/energy/articles/marathon-petroleum-corp-mpc-q3-110501543.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-04T11:05:01Z"
-        },
-        {
-          "title": "CVR Energy Prices $500 Million Common Stock Offering at $47.55 a Share",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/cvr-energy-prices-500-million-091631857.html",
-          "publisher": "MT Newswires",
-          "published": "2026-11-04T09:16:31Z"
-        },
-        {
-          "title": "CVR Energy to acquire two US refineries from Marathon for $4.2bn",
-          "url": "https://finance.yahoo.com/news/cvr-energy-acquire-two-us-081523522.html",
-          "publisher": "Offshore Technology",
-          "published": "2026-11-04T08:15:23Z"
         }
       ]
     },
@@ -489,6 +489,12 @@
       "market_cap": 90862708013.41446,
       "headlines": [
         {
+          "title": "How Has Vertiv's Story Changed?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/vertivs-story-changed-115314884.html",
+          "publisher": "Trefis",
+          "published": "2026-11-04T11:53:14Z"
+        },
+        {
           "title": "Eaton Q3 Earnings Call Highlights",
           "url": "https://finance.yahoo.com/markets/stocks/articles/eaton-q3-earnings-call-highlights-051410047.html",
           "publisher": "MarketBeat",
@@ -499,12 +505,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-146-2026-profits-042145606.html",
           "publisher": "TIKR",
           "published": "2026-11-04T04:21:45Z"
-        },
-        {
-          "title": "Eaton Just Dropped 16% in a Month. Is It Time to Sell, or Load Up?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/eaton-just-dropped-16-month-190400590.html",
-          "publisher": "TIKR",
-          "published": "2026-11-03T19:04:00Z"
         }
       ]
     },
@@ -570,7 +570,7 @@
       "price": 155.17,
       "previous_close": 157.89,
       "change_pct": -1.72,
-      "market_cap": 81391191279.4784,
+      "market_cap": 82647968024.82803,
       "headlines": [
         {
           "title": "What Just Happened To Devon Energy Stock?",
@@ -1046,7 +1046,7 @@
       "price": 72.81,
       "previous_close": 74.38,
       "change_pct": -2.11,
-      "market_cap": 36289961167.45422,
+      "market_cap": 36282780063.015015,
       "headlines": [
         {
           "title": "How Earnings Miss Will Impact PSEG Stock Investors",
@@ -1494,7 +1494,7 @@
       "price": 30.3,
       "previous_close": 30.05,
       "change_pct": 0.83,
-      "market_cap": 9093382038.833,
+      "market_cap": 9189261508.118801,
       "headlines": [
         {
           "title": "If I Could Only Buy 1 AI Power Stock for the Next Decade, It Wouldn't Be Bloom Energy or GE Vernova",
@@ -2120,13 +2120,13 @@
     },
     {
       "label": "Brent",
-      "price": 102.19,
-      "change_pct": -1.36
+      "price": 102.28,
+      "change_pct": -1.27
     },
     {
       "label": "NatGas",
       "price": 2.89,
-      "change_pct": -0.14
+      "change_pct": -0.03
     }
   ]
 }
