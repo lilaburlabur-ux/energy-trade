@@ -4,8 +4,8 @@ Signed file: `DUK.research.04.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-04, ~15-min delayed) |
-| Market cap | $98.64B |
+| Current price | $129.73 (2026-11-04, ~15-min delayed) |
+| Market cap | $101.15B |
 | Sector / Industry | Utilities / Utilities - Regulated Electric |
 | Main theme | Utilities - Regulated Electric — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `DUK.research.04.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +8.58%; price +5.30% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -1.10% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 16.00%, revenue growth 1.10%. |
-| Value attractiveness | Reasonable | Forward P/E 17.65, EV/Sales 5.89. |
-| Risk level | Moderate | Beta 0.31, ATR nan% of price, short float 2.59%. |
+| Value attractiveness | Reasonable | Forward P/E 18.09, EV/Sales 5.89. |
+| Risk level | Moderate | Beta 0.31, ATR 1.6% of price, short float 2.59%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
@@ -36,30 +36,30 @@ Duke Energy Corporation, through its subsidiaries, operates as an energy company
 
 | Headline | Source | Date |
 |---|---|---|
-| Evergy to Report Q3 Earnings: What to Expect From the Stock? | Zacks | 2026-11-03 |
-| ONE Gas Q3 Earnings Beat Estimates on New Rates, Revenues Rise Y/Y | Zacks | 2026-11-03 |
-| Pinnacle West Q3 Earnings Beat Estimates on Strong Sales Growth | Zacks | 2026-11-03 |
-| PPL Poised for Q3 Earnings Beat: Should You Buy the Stock Now? | Zacks | 2026-11-03 |
+| Is PPL Stock Really Expensive? | Trefis | 2026-11-04 |
+| VST, CEG Stocks Drop As Election Outcome Hits Merchant Power Generators | Stocktwits | 2026-11-04 |
+| Duke Energy to Post Q3 Earnings: Here's What You Need to Know | Zacks | 2026-11-04 |
+| Consolidated Edison to Report Q3 Results: What's in the Cards? | Zacks | 2026-11-04 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $131.16 (+nan%); 52w low $111.09 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 71.5 (overbought) |
-| Volatility | ATR(14) 1.97 (~nan% of price); beta 0.31 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $129.73; 52w high $131.16 (-1.10%); 52w low $111.09 (+16.77%) |
+| Trend | +5.30% vs SMA200, +8.53% vs SMA50, +5.82% vs SMA20 |
+| Momentum | RSI(14) 69.8 (neutral) |
+| Volatility | ATR(14) 2.10 (~1.6% of price); beta 0.31 |
+| Setup perspective | -1.10% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | +5.0% |
+| Month | +12.2% |
+| Quarter | +5.6% |
+| Half Y | +5.1% |
+| 1Y | +8.6% |
+| YTD | +13.4% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ Duke Energy Corporation, through its subsidiaries, operates as an energy company
 | Revenue (ttm) | $32.80B | Revenue growth 1.10% y/y |
 | Profitability | Gross 51.97%, operating 27.50%, net 16.00% | ROA 2.84%, ROE 9.86% |
 | Balance sheet | Cash $673.00M, debt $92.21B | Current ratio 0.66, debt/equity 162.16 |
-| Valuation | P/E 19.05, forward P/E 17.65, P/S 3.01, P/B 1.83 | EV/Sales 5.89, EV/EBITDA 11.63 |
+| Valuation | P/E 19.54, forward P/E 18.09, P/S 3.08, P/B 1.88 | EV/Sales 5.89, EV/EBITDA 11.63 |
 | Growth expectations | Earnings growth 10.60%, EPS q/q 11.00% | Analyst mean target $131.74 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 70.93% |
+| Institutional ownership | 70.94% |
 | Insider ownership | 0.13% |
 | Short float | 2.59% |
 | Short ratio (days to cover) | 4.2 |
@@ -95,6 +95,7 @@ Duke Energy Corporation, through its subsidiaries, operates as an energy company
 | Charles Schwab Investment Management, Inc. | 9,226,192 | 1.18% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
+- **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -109,21 +110,21 @@ Duke Energy Corporation, through its subsidiaries, operates as an energy company
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 5.89 |
-| Market cap | $98.64B | EV/EBITDA | 11.63 |
+| Price | $129.73 | EV/Sales | 5.89 |
+| Market cap | $101.15B | EV/EBITDA | 11.63 |
 | Beta | 0.31 | Gross margin | 51.97% |
-| RSI(14) | 71.5 | Operating margin | 27.50% |
-| ATR(14) | 1.97 | Profit margin | 16.00% |
-| SMA20 dist | +nan% | ROA | 2.84% |
-| SMA50 dist | +nan% | ROE | 9.86% |
-| SMA200 dist | +nan% | Revenue (ttm) | $32.80B |
+| RSI(14) | 69.8 | Operating margin | 27.50% |
+| ATR(14) | 2.10 | Profit margin | 16.00% |
+| SMA20 dist | +5.82% | ROA | 2.84% |
+| SMA50 dist | +8.53% | ROE | 9.86% |
+| SMA200 dist | +5.30% | Revenue (ttm) | $32.80B |
 | 52W high | $131.16 | Revenue growth y/y | 1.10% |
-| 52W low | $111.09 | Inst. ownership | 70.93% |
-| P/E (ttm) | 19.05 | Insider ownership | 0.13% |
-| Forward P/E | 17.65 | Short float | 2.59% |
-| PEG (trailing) | 2.37 | Avg volume | 4,112,184 |
-| P/S | 3.01 | Employees | 26,441 |
-| P/B | 1.83 | Analyst rec (1=buy..5=sell) | 2.1 |
+| 52W low | $111.09 | Inst. ownership | 70.94% |
+| P/E (ttm) | 19.54 | Insider ownership | 0.13% |
+| Forward P/E | 18.09 | Short float | 2.59% |
+| PEG (trailing) | 2.36 | Avg volume | 4,079,934 |
+| P/S | 3.08 | Employees | 26,441 |
+| P/B | 1.88 | Analyst rec (1=buy..5=sell) | 2.1 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

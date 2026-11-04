@@ -4,24 +4,24 @@ Signed file: `LNG.research.04.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-04, ~15-min delayed) |
-| Market cap | $63.54B |
+| Current price | $290.53 (2026-11-04, ~15-min delayed) |
+| Market cap | $59.33B |
 | Sector / Industry | Energy / Oil & Gas Midstream |
 | Main theme | Oil & Gas Midstream — see catalysts below |
-| Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
+| Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-04.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +39.97%; price +12.89% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -12.05% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 13.40%, revenue growth 39.90%. |
-| Value attractiveness | Reasonable | Forward P/E 15.02, EV/Sales 4.19. |
-| Risk level | Moderate | Beta 0.00, ATR nan% of price, short float 2.29%. |
+| Value attractiveness | Reasonable | Forward P/E 14.02, EV/Sales 4.19. |
+| Risk level | Elevated | Beta 0.00, ATR 3.8% of price, short float 2.29%. |
 
-**Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
+**Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -36,30 +36,30 @@ Cheniere Energy, Inc., an energy infrastructure company, primarily engages in th
 
 | Headline | Source | Date |
 |---|---|---|
+| Best Momentum Stocks to Buy for November 4th | Zacks | 2026-11-04 |
+| New Strong Buy Stocks for November 4th | Zacks | 2026-11-04 |
 | What Just Happened To Venture Global Stock? | Trefis | 2026-11-03 |
 | Here's How Much You'd Have If You Invested $1000 in Cheniere Energy a Decade Ago | Zacks | 2026-11-03 |
-| 4 Energy Stocks for Midterm Elections That Could Go Either Way | Oilprice.com | 2026-11-02 |
-| Cheniere Energy Q3 Earnings Miss on Rising Costs, Revenues Beat | Zacks | 2026-11-02 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $330.32 (+nan%); 52w low $187.49 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 62.5 (neutral) |
-| Volatility | ATR(14) 9.82 (~nan% of price); beta 0.00 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $290.53; 52w high $330.32 (-12.05%); 52w low $187.49 (+54.96%) |
+| Trend | +12.89% vs SMA200, +2.43% vs SMA50, -1.08% vs SMA20 |
+| Momentum | RSI(14) 48.8 (neutral) |
+| Volatility | ATR(14) 10.93 (~3.8% of price); beta 0.00 |
+| Setup perspective | -12.05% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -2.4% |
+| Month | +5.5% |
+| Quarter | +9.6% |
+| Half Y | +11.6% |
+| 1Y | +40.0% |
+| YTD | +47.9% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ Cheniere Energy, Inc., an energy infrastructure company, primarily engages in th
 | Revenue (ttm) | $22.67B | Revenue growth 39.90% y/y |
 | Profitability | Gross 34.89%, operating 30.82%, net 13.40% | ROA 8.61%, ROE 39.68% |
 | Balance sheet | Cash $1.68B, debt $27.69B | Current ratio 0.90, debt/equity 231.29 |
-| Valuation | P/E 22.15, forward P/E 15.02, P/S 2.80, P/B 9.74 | EV/Sales 4.19, EV/EBITDA 11.92 |
+| Valuation | P/E 20.68, forward P/E 14.02, P/S 2.62, P/B 9.09 | EV/Sales 4.19, EV/EBITDA 11.92 |
 | Growth expectations | Earnings growth 18.90%, EPS q/q 11.50% | Analyst mean target $318.71 (21 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 92.82% |
+| Institutional ownership | 92.78% |
 | Insider ownership | 0.64% |
 | Short float | 2.29% |
 | Short ratio (days to cover) | 2.6 |
@@ -95,6 +95,7 @@ Cheniere Energy, Inc., an energy infrastructure company, primarily engages in th
 | JPMORGAN CHASE & CO | 3,109,949 | 1.52% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
+- **Volatility risk:** Beta 0.00, ATR 3.8% of price, short float 2.29%. Size positions accordingly.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -109,21 +110,21 @@ Cheniere Energy, Inc., an energy infrastructure company, primarily engages in th
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 4.19 |
-| Market cap | $63.54B | EV/EBITDA | 11.92 |
+| Price | $290.53 | EV/Sales | 4.19 |
+| Market cap | $59.33B | EV/EBITDA | 11.92 |
 | Beta | 0.00 | Gross margin | 34.89% |
-| RSI(14) | 62.5 | Operating margin | 30.82% |
-| ATR(14) | 9.82 | Profit margin | 13.40% |
-| SMA20 dist | +nan% | ROA | 8.61% |
-| SMA50 dist | +nan% | ROE | 39.68% |
-| SMA200 dist | +nan% | Revenue (ttm) | $22.67B |
+| RSI(14) | 48.8 | Operating margin | 30.82% |
+| ATR(14) | 10.93 | Profit margin | 13.40% |
+| SMA20 dist | -1.08% | ROA | 8.61% |
+| SMA50 dist | +2.43% | ROE | 39.68% |
+| SMA200 dist | +12.89% | Revenue (ttm) | $22.67B |
 | 52W high | $330.32 | Revenue growth y/y | 39.90% |
-| 52W low | $187.49 | Inst. ownership | 92.82% |
-| P/E (ttm) | 22.15 | Insider ownership | 0.64% |
-| Forward P/E | 15.02 | Short float | 2.29% |
-| PEG (trailing) | — | Avg volume | 1,959,835 |
-| P/S | 2.80 | Employees | 1,717 |
-| P/B | 9.74 | Analyst rec (1=buy..5=sell) | 1.5 |
+| 52W low | $187.49 | Inst. ownership | 92.78% |
+| P/E (ttm) | 20.68 | Insider ownership | 0.64% |
+| Forward P/E | 14.02 | Short float | 2.29% |
+| PEG (trailing) | — | Avg volume | 1,964,440 |
+| P/S | 2.62 | Employees | 1,717 |
+| P/B | 9.09 | Analyst rec (1=buy..5=sell) | 1.5 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
@@ -138,7 +139,7 @@ Cheniere Energy, Inc., an energy infrastructure company, primarily engages in th
 | 2026-10-23 | main | JP Morgan | Overweight → Overweight |
 
 ## 9. Conclusion
-LNG: Moderate momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+LNG: Moderate momentum / mixed fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

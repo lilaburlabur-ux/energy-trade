@@ -4,8 +4,8 @@ Signed file: `SO.research.04.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-04, ~15-min delayed) |
-| Market cap | $107.85B |
+| Current price | $93.26 (2026-11-04, ~15-min delayed) |
+| Market cap | $107.28B |
 | Sector / Industry | Utilities / Utilities - Regulated Electric |
 | Main theme | Utilities - Regulated Electric — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `SO.research.04.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +3.42%; price +1.83% vs SMA200. |
+| Fresh setup quality | Watch | -4.34% from 52w high and near SMA20 — check for a tight base. |
 | Fundamental quality | Mixed | Profit margin 15.43%, revenue growth 0.10%. |
-| Value attractiveness | Reasonable | Forward P/E 19.06, EV/Sales 6.12. |
-| Risk level | Moderate | Beta 0.29, ATR nan% of price, short float 2.56%. |
+| Value attractiveness | Reasonable | Forward P/E 18.96, EV/Sales 6.12. |
+| Risk level | Moderate | Beta 0.29, ATR 1.8% of price, short float 2.56%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
@@ -36,30 +36,30 @@ The Southern Company, through its subsidiaries, engages in the sale of electrici
 
 | Headline | Source | Date |
 |---|---|---|
-| A Democratic Sweep of Midterms Could Turn Software Stocks Into a Defensive Play | Barrons.com | 2026-11-03 |
-| Evergy to Report Q3 Earnings: What to Expect From the Stock? | Zacks | 2026-11-03 |
-| PPL Poised for Q3 Earnings Beat: Should You Buy the Stock Now? | Zacks | 2026-11-03 |
-| Ameren to Post Q3 Earnings: Here's What to Expect From the Stock | Zacks | 2026-11-03 |
+| Is PPL Stock Really Expensive? | Trefis | 2026-11-04 |
+| VST, CEG Stocks Drop As Election Outcome Hits Merchant Power Generators | Stocktwits | 2026-11-04 |
+| Vistra Set for Q3 Earnings Release: Is the Stock a Buy, Sell or Hold? | Zacks | 2026-11-04 |
+| Duke Energy to Post Q3 Earnings: Here's What You Need to Know | Zacks | 2026-11-04 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $97.49 (+nan%); 52w low $82.06 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 69.0 (neutral) |
-| Volatility | ATR(14) 1.54 (~nan% of price); beta 0.29 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $93.26; 52w high $97.49 (-4.34%); 52w low $82.06 (+13.65%) |
+| Trend | +1.83% vs SMA200, +5.93% vs SMA50, +2.52% vs SMA20 |
+| Momentum | RSI(14) 61.9 (neutral) |
+| Volatility | ATR(14) 1.66 (~1.8% of price); beta 0.29 |
+| Setup perspective | -4.34% from 52w high and near SMA20 — check for a tight base. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | +1.9% |
+| Month | +9.2% |
+| Quarter | +1.2% |
+| Half Y | +1.4% |
+| 1Y | +3.4% |
+| YTD | +9.6% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ The Southern Company, through its subsidiaries, engages in the sale of electrici
 | Revenue (ttm) | $30.18B | Revenue growth 0.10% y/y |
 | Profitability | Gross 48.29%, operating 29.61%, net 15.43% | ROA 3.27%, ROE 11.48% |
 | Balance sheet | Cash $2.98B, debt $77.09B | Current ratio 0.79, debt/equity 182.06 |
-| Valuation | P/E 22.59, forward P/E 19.06, P/S 3.57, P/B 2.73 | EV/Sales 6.12, EV/EBITDA 12.96 |
+| Valuation | P/E 22.47, forward P/E 18.96, P/S 3.55, P/B 2.71 | EV/Sales 6.12, EV/EBITDA 12.96 |
 | Growth expectations | Earnings growth 30.40%, EPS q/q 33.40% | Analyst mean target $95.90 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 74.31% |
+| Institutional ownership | 74.33% |
 | Insider ownership | 0.10% |
 | Short float | 2.56% |
 | Short ratio (days to cover) | 4.5 |
@@ -95,6 +95,7 @@ The Southern Company, through its subsidiaries, engages in the sale of electrici
 | Franklin Resources, Inc. | 16,561,908 | 1.44% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
+- **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -109,21 +110,21 @@ The Southern Company, through its subsidiaries, engages in the sale of electrici
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 6.12 |
-| Market cap | $107.85B | EV/EBITDA | 12.96 |
+| Price | $93.26 | EV/Sales | 6.12 |
+| Market cap | $107.28B | EV/EBITDA | 12.96 |
 | Beta | 0.29 | Gross margin | 48.29% |
-| RSI(14) | 69.0 | Operating margin | 29.61% |
-| ATR(14) | 1.54 | Profit margin | 15.43% |
-| SMA20 dist | +nan% | ROA | 3.27% |
-| SMA50 dist | +nan% | ROE | 11.48% |
-| SMA200 dist | +nan% | Revenue (ttm) | $30.18B |
+| RSI(14) | 61.9 | Operating margin | 29.61% |
+| ATR(14) | 1.66 | Profit margin | 15.43% |
+| SMA20 dist | +2.52% | ROA | 3.27% |
+| SMA50 dist | +5.93% | ROE | 11.48% |
+| SMA200 dist | +1.83% | Revenue (ttm) | $30.18B |
 | 52W high | $97.49 | Revenue growth y/y | 0.10% |
-| 52W low | $82.06 | Inst. ownership | 74.31% |
-| P/E (ttm) | 22.59 | Insider ownership | 0.10% |
-| Forward P/E | 19.06 | Short float | 2.56% |
-| PEG (trailing) | 2.24 | Avg volume | 5,947,342 |
-| P/S | 3.57 | Employees | 29,502 |
-| P/B | 2.73 | Analyst rec (1=buy..5=sell) | 2.6 |
+| 52W low | $82.06 | Inst. ownership | 74.33% |
+| P/E (ttm) | 22.47 | Insider ownership | 0.10% |
+| Forward P/E | 18.96 | Short float | 2.56% |
+| PEG (trailing) | 2.22 | Avg volume | 5,853,468 |
+| P/S | 3.55 | Employees | 29,502 |
+| P/B | 2.71 | Analyst rec (1=buy..5=sell) | 2.6 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

@@ -4,8 +4,8 @@ Signed file: `XOM.research.04.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-04, ~15-min delayed) |
-| Market cap | $723.86B |
+| Current price | $169.21 (2026-11-04, ~15-min delayed) |
+| Market cap | $690.25B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `XOM.research.04.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +53.05%; price +9.80% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -9.63% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 10.46%, revenue growth 32.60%. |
-| Value attractiveness | Reasonable | Forward P/E 14.77, EV/Sales 1.94. |
-| Risk level | Moderate | Beta 0.14, ATR nan% of price, short float 1.16%. |
+| Value attractiveness | Reasonable | Forward P/E 14.09, EV/Sales 1.94. |
+| Risk level | Moderate | Beta 0.14, ATR 2.7% of price, short float 1.16%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
@@ -36,30 +36,30 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 
 | Headline | Source | Date |
 |---|---|---|
-| Big Oil Puts Debt Reduction Ahead of New Investments | Oilprice.com | 2026-11-03 |
-| Oil Edges Lower As U.S. Bombs Iran Before Election Day | Investor's Business Daily | 2026-11-03 |
-| Trump Says Iran “Wants a Settlement.” CEO Predicts Peace Sends Oil 40% Lower for Exxon, Chevron | TIKR | 2026-11-03 |
-| 3 Stocks That Did Well the Last Time the Fed Raised Rates Aggressively | Motley Fool | 2026-11-03 |
+| ExxonMobil Stocks Decline 3.43% as Cash Generation Exceeds Shareholder Payments | GuruFocus.com | 2026-11-04 |
+| WMB Q3 Earnings Miss Estimates Amid Higher Costs, Revenues Beat | Zacks | 2026-11-04 |
+| Physical Oil Just Went From a Bidding War to a Fire Sale | 24/7 Wall St. | 2026-11-04 |
+| Will ExxonMobil's 100,000-BPD Diesel Expansion Boost Refining Profit? | Zacks | 2026-11-04 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $187.25 (+nan%); 52w low $110.48 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 57.1 (neutral) |
-| Volatility | ATR(14) 4.23 (~nan% of price); beta 0.14 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $169.21; 52w high $187.25 (-9.63%); 52w low $110.48 (+53.16%) |
+| Trend | +9.80% vs SMA200, +0.43% vs SMA50, -4.76% vs SMA20 |
+| Momentum | RSI(14) 42.5 (neutral) |
+| Volatility | ATR(14) 4.57 (~2.7% of price); beta 0.14 |
+| Setup perspective | -9.63% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -7.0% |
+| Month | +2.9% |
+| Quarter | +10.0% |
+| Half Y | +15.3% |
+| 1Y | +53.1% |
+| YTD | +40.7% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 | Revenue (ttm) | $388.23B | Revenue growth 32.60% y/y |
 | Profitability | Gross 29.81%, operating 16.98%, net 10.46% | ROA 6.88%, ROE 15.53% |
 | Balance sheet | Cash $12.15B, debt $34.25B | Current ratio 1.19, debt/equity 12.57 |
-| Valuation | P/E 18.26, forward P/E 14.77, P/S 1.86, P/B 2.72 | EV/Sales 1.94, EV/EBITDA 9.54 |
-| Growth expectations | Earnings growth 111.40%, EPS q/q 104.20% | Analyst mean target $182.71 (21 analysts) |
+| Valuation | P/E 17.41, forward P/E 14.09, P/S 1.78, P/B 2.60 | EV/Sales 1.94, EV/EBITDA 9.54 |
+| Growth expectations | Earnings growth 111.40%, EPS q/q 104.20% | Analyst mean target $183.67 (21 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 68.65% |
+| Institutional ownership | 68.64% |
 | Insider ownership | 0.08% |
 | Short float | 1.16% |
 | Short ratio (days to cover) | 3.3 |
@@ -83,16 +83,16 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 
 | Holder | Shares | % Out | Reported |
 |---|---|---|---|
-| Blackrock Inc. | 334,746,496 | 8.08% | 2026-06-30 |
-| Vanguard Capital Management LLC | 270,731,921 | 6.53% | 2026-06-30 |
-| State Street Corporation | 206,811,526 | 4.99% | 2026-06-30 |
-| FMR, LLC | 137,736,841 | 3.32% | 2026-06-30 |
-| Vanguard Portfolio Management LLC | 116,693,258 | 2.82% | 2026-06-30 |
-| Geode Capital Management, LLC | 98,426,986 | 2.37% | 2026-06-30 |
-| Morgan Stanley | 73,052,280 | 1.76% | 2026-06-30 |
-| JPMORGAN CHASE & CO | 64,457,292 | 1.56% | 2026-06-30 |
-| Bank of America Corporation | 62,990,531 | 1.52% | 2026-06-30 |
-| NORGES BANK | 60,999,693 | 1.47% | 2026-06-30 |
+| Blackrock Inc. | 334,746,496 | 8.21% | 2026-06-30 |
+| Vanguard Capital Management LLC | 270,731,921 | 6.64% | 2026-06-30 |
+| State Street Corporation | 206,811,526 | 5.07% | 2026-06-30 |
+| FMR, LLC | 137,736,841 | 3.38% | 2026-06-30 |
+| Vanguard Portfolio Management LLC | 116,693,258 | 2.86% | 2026-06-30 |
+| Geode Capital Management, LLC | 98,426,986 | 2.41% | 2026-06-30 |
+| Morgan Stanley | 73,052,280 | 1.79% | 2026-06-30 |
+| JPMORGAN CHASE & CO | 64,457,292 | 1.58% | 2026-06-30 |
+| Bank of America Corporation | 62,990,531 | 1.54% | 2026-06-30 |
+| NORGES BANK | 60,999,693 | 1.50% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
@@ -109,25 +109,26 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 1.94 |
-| Market cap | $723.86B | EV/EBITDA | 9.54 |
+| Price | $169.21 | EV/Sales | 1.94 |
+| Market cap | $690.25B | EV/EBITDA | 9.54 |
 | Beta | 0.14 | Gross margin | 29.81% |
-| RSI(14) | 57.1 | Operating margin | 16.98% |
-| ATR(14) | 4.23 | Profit margin | 10.46% |
-| SMA20 dist | +nan% | ROA | 6.88% |
-| SMA50 dist | +nan% | ROE | 15.53% |
-| SMA200 dist | +nan% | Revenue (ttm) | $388.23B |
+| RSI(14) | 42.5 | Operating margin | 16.98% |
+| ATR(14) | 4.57 | Profit margin | 10.46% |
+| SMA20 dist | -4.76% | ROA | 6.88% |
+| SMA50 dist | +0.43% | ROE | 15.53% |
+| SMA200 dist | +9.80% | Revenue (ttm) | $388.23B |
 | 52W high | $187.25 | Revenue growth y/y | 32.60% |
-| 52W low | $110.48 | Inst. ownership | 68.65% |
-| P/E (ttm) | 18.26 | Insider ownership | 0.08% |
-| Forward P/E | 14.77 | Short float | 1.16% |
-| PEG (trailing) | 1.52 | Avg volume | 13,450,128 |
-| P/S | 1.86 | Employees | 57,900 |
-| P/B | 2.72 | Analyst rec (1=buy..5=sell) | 2.4 |
+| 52W low | $110.48 | Inst. ownership | 68.64% |
+| P/E (ttm) | 17.41 | Insider ownership | 0.08% |
+| Forward P/E | 14.09 | Short float | 1.16% |
+| PEG (trailing) | 1.44 | Avg volume | 13,407,203 |
+| P/S | 1.78 | Employees | 57,900 |
+| P/B | 2.60 | Analyst rec (1=buy..5=sell) | 2.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-11-04 | main | TD Cowen | Buy → Buy |
 | 2026-11-02 | main | UBS | Buy → Buy |
 | 2026-11-02 | main | Morgan Stanley | Overweight → Overweight |
 | 2026-11-02 | main | Evercore ISI Group | Outperform → Outperform |
@@ -135,7 +136,6 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 | 2026-10-19 | main | Barclays | Overweight → Overweight |
 | 2026-10-15 | main | Morgan Stanley | Overweight → Overweight |
 | 2026-10-01 | down | Wells Fargo | Overweight → Equal-Weight |
-| 2026-09-28 | main | TD Cowen | Buy → Buy |
 
 ## 9. Conclusion
 XOM: Moderate momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

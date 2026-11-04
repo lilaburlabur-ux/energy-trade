@@ -4,8 +4,8 @@ Signed file: `BP.research.04.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-04, ~15-min delayed) |
-| Market cap | $122.58B |
+| Current price | $45.44 (2026-11-04, ~15-min delayed) |
+| Market cap | $117.05B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `BP.research.04.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +37.04%; price +6.73% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -11.45% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 3.84%, revenue growth 41.40%. |
-| Value attractiveness | Reasonable | Forward P/E 8.16, EV/Sales 2.29. |
-| Risk level | Moderate | Beta -0.25, ATR nan% of price, short float 0.37%. |
+| Value attractiveness | Reasonable | Forward P/E 7.80, EV/Sales 2.29. |
+| Risk level | Moderate | Beta -0.25, ATR 2.9% of price, short float 0.37%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
@@ -36,30 +36,30 @@ BP p.l.c., an integrated energy company, engages in the oil and gas business wor
 
 | Headline | Source | Date |
 |---|---|---|
-| Big Oil Puts Debt Reduction Ahead of New Investments | Oilprice.com | 2026-11-03 |
-| 4 GARP Stocks to Buy Now as Volatility Fuels Value vs. Growth Debate | Zacks | 2026-11-03 |
-| How 3 energy companies are managing their c-store portfolios | C-Store Dive | 2026-11-03 |
-| ExxonMobil Stock Trades at a Premium: Is It Still Worth Buying? | Zacks | 2026-11-03 |
+| BP Stock Gains 40.6% in a Year: Should You Bet on the Stock Now? | Zacks | 2026-11-04 |
+| BP (LSE:BP.) Completes 65% Castrol Stake Sale | Simply Wall St. | 2026-11-04 |
+| Should Value Investors Buy BP (BP) Stock? | Zacks | 2026-11-04 |
+| Brokers Suggest Investing in BP (BP): Read This Before Placing a Bet | Zacks | 2026-11-04 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $51.32 (+nan%); 52w low $32.12 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 49.3 (neutral) |
-| Volatility | ATR(14) 1.28 (~nan% of price); beta -0.25 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $45.44; 52w high $51.32 (-11.45%); 52w low $32.12 (+41.50%) |
+| Trend | +6.73% vs SMA200, -1.53% vs SMA50, -6.90% vs SMA20 |
+| Momentum | RSI(14) 39.6 (neutral) |
+| Volatility | ATR(14) 1.31 (~2.9% of price); beta -0.25 |
+| Setup perspective | -11.45% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -8.7% |
+| Month | +1.0% |
+| Quarter | +8.9% |
+| Half Y | +4.3% |
+| 1Y | +37.0% |
+| YTD | +31.5% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,14 +68,14 @@ BP p.l.c., an integrated energy company, engages in the oil and gas business wor
 | Revenue (ttm) | $235.14B | Revenue growth 41.40% y/y |
 | Profitability | Gross 29.56%, operating 18.59%, net 3.84% | ROA 6.75%, ROE 13.42% |
 | Balance sheet | Cash $43.05B, debt $69.62B | Current ratio 1.29, debt/equity 87.47 |
-| Valuation | P/E 14.04, forward P/E 8.16, P/S 0.52, P/B 7.94 | EV/Sales 2.29, EV/EBITDA 11.41 |
-| Growth expectations | Earnings growth 305.00%, EPS q/q 304.50% | Analyst mean target $54.42 (19 analysts) |
+| Valuation | P/E 13.41, forward P/E 7.80, P/S 0.50, P/B 7.58 | EV/Sales 2.29, EV/EBITDA 11.41 |
+| Growth expectations | Earnings growth 305.00%, EPS q/q 304.50% | Analyst mean target $54.79 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 14.16% |
-| Insider ownership | 0.00% |
+| Institutional ownership | 14.12% |
+| Insider ownership | 0.01% |
 | Short float | 0.37% |
 | Short ratio (days to cover) | 0.9 |
 
@@ -109,21 +109,21 @@ BP p.l.c., an integrated energy company, engages in the oil and gas business wor
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 2.29 |
-| Market cap | $122.58B | EV/EBITDA | 11.41 |
+| Price | $45.44 | EV/Sales | 2.29 |
+| Market cap | $117.05B | EV/EBITDA | 11.41 |
 | Beta | -0.25 | Gross margin | 29.56% |
-| RSI(14) | 49.3 | Operating margin | 18.59% |
-| ATR(14) | 1.28 | Profit margin | 3.84% |
-| SMA20 dist | +nan% | ROA | 6.75% |
-| SMA50 dist | +nan% | ROE | 13.42% |
-| SMA200 dist | +nan% | Revenue (ttm) | $235.14B |
+| RSI(14) | 39.6 | Operating margin | 18.59% |
+| ATR(14) | 1.31 | Profit margin | 3.84% |
+| SMA20 dist | -6.90% | ROA | 6.75% |
+| SMA50 dist | -1.53% | ROE | 13.42% |
+| SMA200 dist | +6.73% | Revenue (ttm) | $235.14B |
 | 52W high | $51.32 | Revenue growth y/y | 41.40% |
-| 52W low | $32.12 | Inst. ownership | 14.16% |
-| P/E (ttm) | 14.04 | Insider ownership | 0.00% |
-| Forward P/E | 8.16 | Short float | 0.37% |
-| PEG (trailing) | 0.05 | Avg volume | 9,148,045 |
-| P/S | 0.52 | Employees | 93,700 |
-| P/B | 7.94 | Analyst rec (1=buy..5=sell) | 2.2 |
+| 52W low | $32.12 | Inst. ownership | 14.12% |
+| P/E (ttm) | 13.41 | Insider ownership | 0.01% |
+| Forward P/E | 7.80 | Short float | 0.37% |
+| PEG (trailing) | 0.05 | Avg volume | 9,046,179 |
+| P/S | 0.50 | Employees | 93,700 |
+| P/B | 7.58 | Analyst rec (1=buy..5=sell) | 2.2 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

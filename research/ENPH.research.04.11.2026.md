@@ -4,24 +4,24 @@ Signed file: `ENPH.research.04.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-04, ~15-min delayed) |
-| Market cap | $4.03B |
+| Current price | $31.82 (2026-11-04, ~15-min delayed) |
+| Market cap | $4.21B |
 | Sector / Industry | Technology / Solar |
 | Main theme | Solar — see catalysts below |
-| Current stance | Moderate technical momentum, mixed fundamentals, value: fair-to-demanding, risk: high. |
+| Current stance | Low technical momentum, mixed fundamentals, value: fair-to-demanding, risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-04.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-22.13%) with negative half-year (-11.13%). |
+| Fresh setup quality | Poor / broken | -56.01% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 7.49%, revenue growth -28.50%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 21.23, EV/Sales 3.06. |
-| Risk level | High | Beta 1.45, ATR nan% of price, short float 26.75%. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 22.20, EV/Sales 3.06. |
+| Risk level | High | Beta 1.45, ATR 7.0% of price, short float 26.75%. |
 
-**Bottom line:** Moderate technical momentum, mixed fundamentals, value: fair-to-demanding, risk: high.
+**Bottom line:** Low technical momentum, mixed fundamentals, value: fair-to-demanding, risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -36,45 +36,45 @@ Enphase Energy, Inc., together with its subsidiaries, designs, develops, manufac
 
 | Headline | Source | Date |
 |---|---|---|
-| Enphase Surges 9%, Sunrun Climbs 7%, SolarEdge Rallies 6% as Solar Rebound Extends Into Earnings | 24/7 Wall St. | 2026-11-03 |
-| 1 profitable stock for long-term investors and 2 we question | StockStory | 2026-11-03 |
-| Why Did Enphase Energy Stock Bounce Back Today? | Motley Fool | 2026-11-02 |
-| Should You Buy First Solar Stock Now Or Wait? | Trefis | 2026-11-02 |
+| Can First Solar Stock Jump 50%? | Trefis | 2026-11-04 |
+| The AI Data-Center Backlash Is Real. Why Bloom Energy Stock Can Be a Winner. | Barrons.com | 2026-11-04 |
+| VST, CEG Stocks Drop As Election Outcome Hits Merchant Power Generators | Stocktwits | 2026-11-04 |
+| Enphase Energy (ENPH) Reaches 800 VDC AI Data Center Power Milestone | Simply Wall St. | 2026-11-04 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $72.33 (+nan%); 52w low $24.99 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 39.6 (neutral) |
-| Volatility | ATR(14) 2.03 (~nan% of price); beta 1.45 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $31.82; 52w high $72.33 (-56.01%); 52w low $24.99 (+27.31%) |
+| Trend | -22.13% vs SMA200, -4.08% vs SMA50, +5.24% vs SMA20 |
+| Momentum | RSI(14) 53.0 (neutral) |
+| Volatility | ATR(14) 2.22 (~7.0% of price); beta 1.45 |
+| Setup perspective | -56.01% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | +27.3% |
+| Month | -6.2% |
+| Quarter | -19.8% |
+| Half Y | -11.1% |
+| 1Y | +7.8% |
+| YTD | -5.7% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
 | Next earnings | 2026-10-27 | Next scheduled report (Yahoo estimate) |
 | Revenue (ttm) | $1.21B | Revenue growth -28.50% y/y |
-| Profitability | Gross 24.37%, operating 1.64%, net 7.49% | ROA 0.22%, ROE 8.11% |
+| Profitability | Gross 24.10%, operating 1.64%, net 7.49% | ROA 0.16%, ROE 8.11% |
 | Balance sheet | Cash $931.85M, debt $614.56M | Current ratio 4.09, debt/equity 49.48 |
-| Valuation | P/E 45.40, forward P/E 21.23, P/S 3.32, P/B 3.24 | EV/Sales 3.06, EV/EBITDA 42.49 |
+| Valuation | P/E 47.49, forward P/E 22.20, P/S 3.47, P/B 3.39 | EV/Sales 3.06, EV/EBITDA 44.14 |
 | Growth expectations | Earnings growth -65.20%, EPS q/q -64.90% | Analyst mean target $40.58 (25 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 96.00% |
+| Institutional ownership | 95.86% |
 | Insider ownership | 3.03% |
 | Short float | 26.75% |
 | Short ratio (days to cover) | 6.0 |
@@ -95,9 +95,10 @@ Enphase Energy, Inc., together with its subsidiaries, designs, develops, manufac
 | Morgan Stanley | 2,408,561 | 1.82% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 21.23, EV/Sales 3.06. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 1.45, ATR nan% of price, short float 26.75%. Size positions accordingly.
+- **Valuation risk:** Forward P/E 22.20, EV/Sales 3.06. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 1.45, ATR 7.0% of price, short float 26.75%. Size positions accordingly.
 - **Short interest risk:** short float 26.75% can fuel squeezes both ways around news.
+- **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -112,21 +113,21 @@ Enphase Energy, Inc., together with its subsidiaries, designs, develops, manufac
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 3.06 |
-| Market cap | $4.03B | EV/EBITDA | 42.49 |
-| Beta | 1.45 | Gross margin | 24.37% |
-| RSI(14) | 39.6 | Operating margin | 1.64% |
-| ATR(14) | 2.03 | Profit margin | 7.49% |
-| SMA20 dist | +nan% | ROA | 0.22% |
-| SMA50 dist | +nan% | ROE | 8.11% |
-| SMA200 dist | +nan% | Revenue (ttm) | $1.21B |
+| Price | $31.82 | EV/Sales | 3.06 |
+| Market cap | $4.21B | EV/EBITDA | 44.14 |
+| Beta | 1.45 | Gross margin | 24.10% |
+| RSI(14) | 53.0 | Operating margin | 1.64% |
+| ATR(14) | 2.22 | Profit margin | 7.49% |
+| SMA20 dist | +5.24% | ROA | 0.16% |
+| SMA50 dist | -4.08% | ROE | 8.11% |
+| SMA200 dist | -22.13% | Revenue (ttm) | $1.21B |
 | 52W high | $72.33 | Revenue growth y/y | -28.50% |
-| 52W low | $24.99 | Inst. ownership | 96.00% |
-| P/E (ttm) | 45.40 | Insider ownership | 3.03% |
-| Forward P/E | 21.23 | Short float | 26.75% |
-| PEG (trailing) | 0.75 | Avg volume | 5,189,421 |
-| P/S | 3.32 | Employees | 2,872 |
-| P/B | 3.24 | Analyst rec (1=buy..5=sell) | 2.4 |
+| 52W low | $24.99 | Inst. ownership | 95.86% |
+| P/E (ttm) | 47.49 | Insider ownership | 3.03% |
+| Forward P/E | 22.20 | Short float | 26.75% |
+| PEG (trailing) | 0.75 | Avg volume | 5,203,162 |
+| P/S | 3.47 | Employees | 2,872 |
+| P/B | 3.39 | Analyst rec (1=buy..5=sell) | 2.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
@@ -141,7 +142,7 @@ Enphase Energy, Inc., together with its subsidiaries, designs, develops, manufac
 | 2026-10-28 | main | Susquehanna | Neutral → Neutral |
 
 ## 9. Conclusion
-ENPH: Moderate momentum / mixed fundamentals / fair-to-demanding value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+ENPH: Low momentum / mixed fundamentals / fair-to-demanding value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

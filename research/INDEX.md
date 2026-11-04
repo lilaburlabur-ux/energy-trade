@@ -3,74 +3,74 @@
 
 | Ticker | Mkt cap | 1Y | Fwd P/E | Net margin | Momentum | Value | Risk |
 |---|---|---|---|---|---|---|---|
-| XOM | $723.86B | +nan% | 14.8 | 10% | Moderate | Reasonable | Moderate |
-| CVX | $439.50B | +nan% | 13.8 | 12% | Moderate | Reasonable | Moderate |
-| SHEL | $295.45B | +nan% | 9.5 | 10% | Moderate | Reasonable | Moderate |
-| TTE | $203.75B | +nan% | 7.8 | 10% | Moderate | Reasonable | Moderate |
-| BP | $122.58B | +nan% | 8.2 | 4% | Moderate | Reasonable | Moderate |
-| COP | $173.47B | +nan% | 13.2 | 14% | Moderate | Reasonable | Moderate |
-| EQNR | $108.01B | +nan% | 9.2 | 10% | Moderate | Reasonable | Moderate |
-| SU | $88.25B | +nan% | 10.8 | 16% | Moderate | Reasonable | Moderate |
-| EOG | $82.65B | +nan% | 9.6 | 26% | Moderate | Reasonable | Moderate |
-| FANG | $54.11B | +nan% | 8.9 | 9% | Moderate | Reasonable | Moderate |
-| DVN | $52.38B | +nan% | 8.8 | 17% | Moderate | Reasonable | Moderate |
-| OXY | $60.41B | +nan% | 12.0 | 30% | Moderate | Reasonable | Moderate |
-| APA | $16.74B | +nan% | 8.9 | 20% | Moderate | Reasonable | Moderate |
-| EQT | $33.94B | +nan% | 15.5 | 29% | Moderate | Reasonable | Moderate |
-| AR | $12.26B | +nan% | 8.5 | 23% | Moderate | Reasonable | Moderate |
-| PR | $20.10B | +nan% | 9.8 | 22% | Moderate | Reasonable | Moderate |
-| OVV | $18.37B | +nan% | 7.8 | 10% | Moderate | Reasonable | Moderate |
-| SLB | $76.95B | +nan% | 16.9 | 8% | Moderate | Reasonable | Moderate |
-| HAL | $28.18B | +nan% | 11.6 | 9% | Moderate | Reasonable | Moderate |
-| BKR | $52.42B | +nan% | 18.5 | 10% | Moderate | Reasonable | Moderate |
-| NOV | $6.59B | +nan% | 14.7 | 2% | Moderate | Reasonable | High |
-| FTI | $25.95B | +nan% | 17.9 | 12% | Moderate | Reasonable | Moderate |
-| WFRD | $6.36B | +nan% | 13.4 | 9% | Moderate | Reasonable | Moderate |
-| LNG | $63.54B | +nan% | 15.0 | 13% | Moderate | Reasonable | Moderate |
-| KMI | $73.23B | +nan% | 21.3 | 20% | Moderate | Fair-to-demanding | Moderate |
-| WMB | $88.64B | +nan% | 27.7 | 25% | Moderate | Fair-to-demanding | Moderate |
-| ET | $69.42B | +nan% | 11.6 | 5% | Moderate | Reasonable | Moderate |
-| EPD | $80.98B | +nan% | 11.8 | 10% | Moderate | Reasonable | Moderate |
-| TRGP | $64.02B | +nan% | 24.6 | 14% | Moderate | Fair-to-demanding | Moderate |
-| OKE | $57.96B | +nan% | 15.1 | 9% | Moderate | Reasonable | Moderate |
-| MPLX | $58.35B | +nan% | 12.0 | 39% | Moderate | Reasonable | Moderate |
-| MPC | $124.76B | +nan% | 6.9 | 6% | Moderate | Reasonable | Moderate |
-| PSX | $106.08B | +nan% | 8.7 | 7% | Moderate | Reasonable | Moderate |
-| VLO | $108.11B | +nan% | 7.2 | 9% | Moderate | Reasonable | Moderate |
-| DINO | $19.43B | +nan% | 6.3 | 10% | Moderate | Reasonable | Moderate |
-| CCJ | $31.60B | +nan% | 40.6 | 11% | Moderate | Low (expensive) | Moderate |
-| CEG | $93.32B | +nan% | 19.6 | 11% | Moderate | Reasonable | Moderate |
-| OKLO | $4.37B | +nan% | -22.1 | 0% | Moderate | Reasonable | High |
-| SMR | $2.20B | +nan% | -8.6 | 0% | Moderate | Reasonable | High |
-| LEU | $1.96B | +nan% | 21.5 | 10% | Moderate | Fair-to-demanding | High |
-| NXE | $5.27B | +nan% | -63.0 | 0% | Moderate | Reasonable | Elevated |
-| UEC | $3.75B | +nan% | -102.2 | 0% | Moderate | Reasonable | High |
-| UUUU | $1.92B | +nan% | 14.9 | -77% | Moderate | Reasonable | High |
-| BWXT | $12.08B | +nan% | 25.5 | 10% | Moderate | Fair-to-demanding | Moderate |
-| FSLR | $19.98B | +nan% | 8.1 | 37% | Moderate | Reasonable | High |
-| ENPH | $4.03B | +nan% | 21.2 | 7% | Moderate | Fair-to-demanding | High |
-| NEE | $176.87B | +nan% | 19.3 | 40% | Moderate | Reasonable | Moderate |
-| RUN | $2.09B | +nan% | 18.7 | 12% | Moderate | Reasonable | High |
-| SEDG | $2.02B | +nan% | 41.2 | -20% | Moderate | Low (expensive) | High |
-| NXT | $14.75B | +nan% | 16.7 | 16% | Moderate | Reasonable | Elevated |
-| ARRY | $714.60M | +nan% | 5.0 | -7% | Moderate | Reasonable | High |
-| BEP | $14.77B | +nan% | -16.4 | -1% | Moderate | Reasonable | Moderate |
-| GEV | $243.03B | +nan% | 35.5 | 24% | Moderate | Low (expensive) | Moderate |
-| ETN | $152.10B | +nan% | 24.0 | 13% | Moderate | Fair-to-demanding | Moderate |
-| VRT | $90.86B | +nan% | 24.2 | 16% | Moderate | Fair-to-demanding | High |
-| PWR | $98.99B | +nan% | 30.4 | 5% | Moderate | Fair-to-demanding | Elevated |
-| FLNC | $1.07B | +nan% | -10.4 | -3% | Moderate | Reasonable | High |
-| BE | $63.25B | +nan% | 40.2 | 14% | Moderate | Low (expensive) | High |
-| EOSE | $691.92M | +nan% | -10.9 | -247% | Moderate | Reasonable | High |
-| HUBB | $23.74B | +nan% | 19.5 | 14% | Moderate | Reasonable | Moderate |
-| VST | $46.85B | +nan% | 14.6 | 12% | Moderate | Reasonable | Elevated |
-| NRG | $20.23B | +nan% | 9.1 | 3% | Moderate | Reasonable | Elevated |
-| TLN | $16.90B | +nan% | 12.9 | -5% | Moderate | Reasonable | Elevated |
-| DUK | $98.64B | +nan% | 17.6 | 16% | Moderate | Reasonable | Moderate |
-| SO | $107.85B | +nan% | 19.1 | 15% | Moderate | Reasonable | Moderate |
-| D | $58.74B | +nan% | 17.5 | 14% | Moderate | Reasonable | Moderate |
-| PEG | $36.28B | +nan% | 15.7 | 14% | Moderate | Reasonable | Moderate |
-| ETR | $52.04B | +nan% | 21.3 | 13% | Moderate | Fair-to-demanding | Moderate |
+| XOM | $690.25B | +53% | 14.1 | 10% | Moderate | Reasonable | Moderate |
+| CVX | $422.66B | +46% | 13.2 | 12% | Moderate | Reasonable | Moderate |
+| SHEL | $287.02B | +41% | 9.4 | 10% | Moderate | Reasonable | Moderate |
+| TTE | $198.36B | +52% | 7.6 | 10% | Moderate | Reasonable | Moderate |
+| BP | $117.05B | +37% | 7.8 | 4% | Moderate | Reasonable | Moderate |
+| COP | $163.20B | +58% | 12.4 | 14% | Moderate | Reasonable | Elevated |
+| EQNR | $101.14B | +87% | 8.6 | 10% | High | Reasonable | Elevated |
+| SU | $85.04B | +86% | 10.3 | 16% | High | Reasonable | Elevated |
+| EOG | $77.21B | +44% | 9.1 | 26% | Moderate | Reasonable | Moderate |
+| FANG | $51.08B | +33% | 8.5 | 12% | Low | Reasonable | Elevated |
+| DVN | $48.69B | +38% | 8.2 | 17% | Low | Reasonable | Elevated |
+| OXY | $57.04B | +42% | 11.4 | 30% | Moderate | Reasonable | Elevated |
+| APA | $15.48B | +102% | 8.2 | 20% | High | Reasonable | Elevated |
+| EQT | $32.87B | -5% | 15.0 | 29% | Low | Reasonable | Elevated |
+| AR | $11.51B | +13% | 7.9 | 23% | Moderate | Reasonable | Elevated |
+| PR | $18.85B | +85% | 9.2 | 22% | High | Reasonable | Elevated |
+| OVV | $17.44B | +72% | 7.4 | 10% | High | Reasonable | Elevated |
+| SLB | $75.34B | +41% | 16.6 | 8% | Low | Reasonable | Elevated |
+| HAL | $27.08B | +23% | 11.1 | 9% | Low | Reasonable | Elevated |
+| BKR | $49.56B | +4% | 17.5 | 10% | Low | Reasonable | Elevated |
+| NOV | $6.42B | +22% | 14.2 | 2% | Low | Reasonable | High |
+| FTI | $25.05B | +54% | 17.3 | 12% | Low | Reasonable | Elevated |
+| WFRD | $6.20B | +15% | 13.1 | 9% | Low | Reasonable | Elevated |
+| LNG | $59.33B | +40% | 14.0 | 13% | Moderate | Reasonable | Elevated |
+| KMI | $69.82B | +25% | 20.3 | 20% | Moderate | Fair-to-demanding | Moderate |
+| WMB | $83.50B | +17% | 25.5 | 25% | Low | Fair-to-demanding | Elevated |
+| ET | $67.21B | +25% | 11.2 | 4% | Moderate | Reasonable | Moderate |
+| EPD | $78.95B | +27% | 11.5 | 10% | Moderate | Reasonable | Moderate |
+| TRGP | $60.87B | +85% | 23.4 | 14% | High | Fair-to-demanding | Elevated |
+| OKE | $55.68B | +42% | 14.5 | 9% | Moderate | Reasonable | Moderate |
+| MPLX | $56.96B | +20% | 11.7 | 39% | Moderate | Reasonable | Moderate |
+| MPC | $105.38B | +101% | 6.3 | 8% | High | Reasonable | High |
+| PSX | $100.83B | +93% | 8.2 | 7% | High | Reasonable | Elevated |
+| VLO | $100.73B | +115% | 6.8 | 9% | High | Reasonable | High |
+| DINO | $17.77B | +101% | 5.8 | 10% | High | Reasonable | High |
+| CCJ | $31.23B | -29% | 40.1 | 11% | Low | Low (expensive) | High |
+| CEG | $87.69B | -34% | 18.4 | 11% | Low | Reasonable | High |
+| OKLO | $4.15B | -82% | -21.0 | 0% | Low | Reasonable | High |
+| SMR | $2.11B | -87% | -8.3 | 0% | Low | Reasonable | High |
+| LEU | $1.90B | -73% | 20.9 | 10% | Low | Fair-to-demanding | High |
+| NXE | $5.33B | -13% | -62.9 | 0% | Low | Reasonable | High |
+| UEC | $3.57B | -48% | -97.4 | 0% | Low | Reasonable | High |
+| UUUU | $1.91B | -59% | 14.9 | -77% | Low | Reasonable | High |
+| BWXT | $11.07B | -44% | 23.4 | 10% | Low | Fair-to-demanding | Elevated |
+| FSLR | $20.97B | -27% | 8.5 | 37% | Low | Reasonable | High |
+| ENPH | $4.21B | +8% | 22.2 | 7% | Low | Fair-to-demanding | High |
+| NEE | $185.64B | +11% | 20.2 | 40% | Moderate | Fair-to-demanding | Moderate |
+| RUN | $2.12B | -56% | 19.1 | 12% | Low | Reasonable | High |
+| SEDG | $1.92B | -5% | 39.1 | -20% | Low | Low (expensive) | High |
+| NXT | $16.75B | +7% | 18.9 | 16% | Moderate | Reasonable | High |
+| ARRY | $837.58M | -35% | 5.8 | -7% | Low | Reasonable | High |
+| BEP | $15.14B | +2% | -16.8 | -1% | Low | Reasonable | Moderate |
+| GEV | $220.04B | +43% | 32.1 | 24% | Low | Fair-to-demanding | High |
+| ETN | $137.10B | -8% | 21.6 | 12% | Low | Fair-to-demanding | High |
+| VRT | $78.83B | +7% | 21.0 | 16% | Low | Fair-to-demanding | High |
+| PWR | $87.67B | +29% | 26.9 | 5% | Low | Fair-to-demanding | High |
+| FLNC | $1.15B | -72% | -11.2 | -3% | Low | Reasonable | High |
+| BE | $58.50B | +39% | 37.2 | 14% | Low | Low (expensive) | High |
+| EOSE | $813.80M | -86% | -12.9 | -247% | Low | Reasonable | High |
+| HUBB | $23.13B | -5% | 19.0 | 14% | Low | Reasonable | Elevated |
+| VST | $40.39B | -37% | 12.6 | 12% | Low | Reasonable | High |
+| NRG | $17.83B | -51% | 8.0 | 3% | Low | Reasonable | High |
+| TLN | $14.38B | -20% | 11.9 | -6% | Low | Reasonable | High |
+| DUK | $101.15B | +9% | 18.1 | 16% | Moderate | Reasonable | Moderate |
+| SO | $107.28B | +3% | 19.0 | 15% | Moderate | Reasonable | Moderate |
+| D | $61.41B | +24% | 18.3 | 14% | Moderate | Reasonable | Moderate |
+| PEG | $36.58B | -7% | 15.8 | 14% | Low | Reasonable | Moderate |
+| ETR | $53.36B | +18% | 21.9 | 15% | Moderate | Fair-to-demanding | Moderate |
 
 68 reports generated; failed: none.
 

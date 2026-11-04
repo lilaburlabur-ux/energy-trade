@@ -4,8 +4,8 @@ Signed file: `TTE.research.04.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-04, ~15-min delayed) |
-| Market cap | $203.75B |
+| Current price | $90.25 (2026-11-04, ~15-min delayed) |
+| Market cap | $198.36B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `TTE.research.04.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +52.20%; price +6.64% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -5.33% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 10.46%, revenue growth 41.10%. |
-| Value attractiveness | Reasonable | Forward P/E 7.81, EV/Sales 1.09. |
-| Risk level | Moderate | Beta 0.04, ATR nan% of price, short float 0.22%. |
+| Value attractiveness | Reasonable | Forward P/E 7.60, EV/Sales 1.09. |
+| Risk level | Moderate | Beta 0.04, ATR 2.1% of price, short float 0.22%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
@@ -36,30 +36,30 @@ TotalEnergies SE, an integrated energy company, produces and markets oil and bio
 
 | Headline | Source | Date |
 |---|---|---|
-| Energy Transfer Q3 Earnings Miss Estimates Despite Record Gas Volumes | Zacks | 2026-11-03 |
-| ADNOC Gas to Supply LNG to TotalEnergies Under Five-Year Deal | Oilprice.com | 2026-11-03 |
-| TotalEnergies (ENXTPA:TTE) Takes 30% Operated Stake In Two Major Malaysia Gas Fields | Simply Wall St. | 2026-11-03 |
-| Top Integrated Oil Stock According To TD Cowen | Investing.com | 2026-11-02 |
+| Buy 5 Low-Beta High-Yielding Stocks Amid Recent Wall Street Volatility | Zacks | 2026-11-04 |
+| BofA Names Top Picks in European IT Services as Most Raise Q3 Guidance | Investing.com | 2026-11-04 |
+| Saft Unveils EnerShift, an Integrated Solution Combining Battery Storage, Energy Trading, and Financing | POWER Magazine | 2026-11-04 |
+| If You Ride the TotalEnergies Stock Merry-Go-Round, Make Sure You Have an Exit Plan | Barchart | 2026-11-03 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $95.33 (+nan%); 52w low $58.74 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 57.8 (neutral) |
-| Volatility | ATR(14) 1.84 (~nan% of price); beta 0.04 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $90.25; 52w high $95.33 (-5.33%); 52w low $58.74 (+53.65%) |
+| Trend | +6.64% vs SMA200, +1.17% vs SMA50, -0.67% vs SMA20 |
+| Momentum | RSI(14) 48.8 (neutral) |
+| Volatility | ATR(14) 1.88 (~2.1% of price); beta 0.04 |
+| Setup perspective | -5.33% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -2.8% |
+| Month | +7.5% |
+| Quarter | +5.8% |
+| Half Y | +1.5% |
+| 1Y | +52.2% |
+| YTD | +38.8% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ TotalEnergies SE, an integrated energy company, produces and markets oil and bio
 | Revenue (ttm) | $214.40B | Revenue growth 41.10% y/y |
 | Profitability | Gross 39.18%, operating 24.51%, net 10.46% | ROA 7.19%, ROE 17.83% |
 | Balance sheet | Cash $37.80B, debt $63.17B | Current ratio 1.11, debt/equity 46.12 |
-| Valuation | P/E 9.25, forward P/E 7.81, P/S 0.95, P/B 1.54 | EV/Sales 1.09, EV/EBITDA 4.82 |
-| Growth expectations | Earnings growth 123.20%, EPS q/q 124.40% | Analyst mean target $99.65 (10 analysts) |
+| Valuation | P/E 9.01, forward P/E 7.60, P/S 0.93, P/B 1.50 | EV/Sales 1.09, EV/EBITDA 4.82 |
+| Growth expectations | Earnings growth 123.20%, EPS q/q 124.40% | Analyst mean target $100.65 (10 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 54.21% |
+| Institutional ownership | 54.20% |
 | Insider ownership | 8.86% |
 | Short float | 0.22% |
 | Short ratio (days to cover) | 2.2 |
@@ -95,6 +95,7 @@ TotalEnergies SE, an integrated energy company, produces and markets oil and bio
 | Goldman Sachs Group Inc | 26,079,768 | 1.04% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
+- **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -109,21 +110,21 @@ TotalEnergies SE, an integrated energy company, produces and markets oil and bio
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 1.09 |
-| Market cap | $203.75B | EV/EBITDA | 4.82 |
+| Price | $90.25 | EV/Sales | 1.09 |
+| Market cap | $198.36B | EV/EBITDA | 4.82 |
 | Beta | 0.04 | Gross margin | 39.18% |
-| RSI(14) | 57.8 | Operating margin | 24.51% |
-| ATR(14) | 1.84 | Profit margin | 10.46% |
-| SMA20 dist | +nan% | ROA | 7.19% |
-| SMA50 dist | +nan% | ROE | 17.83% |
-| SMA200 dist | +nan% | Revenue (ttm) | $214.40B |
+| RSI(14) | 48.8 | Operating margin | 24.51% |
+| ATR(14) | 1.88 | Profit margin | 10.46% |
+| SMA20 dist | -0.67% | ROA | 7.19% |
+| SMA50 dist | +1.17% | ROE | 17.83% |
+| SMA200 dist | +6.64% | Revenue (ttm) | $214.40B |
 | 52W high | $95.33 | Revenue growth y/y | 41.10% |
-| 52W low | $58.74 | Inst. ownership | 54.21% |
-| P/E (ttm) | 9.25 | Insider ownership | 8.86% |
-| Forward P/E | 7.81 | Short float | 0.22% |
-| PEG (trailing) | 0.69 | Avg volume | 1,795,253 |
-| P/S | 0.95 | Employees | 94,847 |
-| P/B | 1.54 | Analyst rec (1=buy..5=sell) | 2.1 |
+| 52W low | $58.74 | Inst. ownership | 54.20% |
+| P/E (ttm) | 9.01 | Insider ownership | 8.86% |
+| Forward P/E | 7.60 | Short float | 0.22% |
+| PEG (trailing) | 0.69 | Avg volume | 1,789,612 |
+| P/S | 0.93 | Employees | 94,847 |
+| P/B | 1.50 | Analyst rec (1=buy..5=sell) | 1.9 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

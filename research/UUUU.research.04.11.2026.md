@@ -4,24 +4,24 @@ Signed file: `UUUU.research.04.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-04, ~15-min delayed) |
-| Market cap | $1.92B |
+| Current price | $7.22 (2026-11-04, ~15-min delayed) |
+| Market cap | $1.91B |
 | Sector / Industry | Energy / Uranium |
 | Main theme | Uranium — see catalysts below |
-| Current stance | Moderate technical momentum, weak fundamentals, value: reasonable, risk: high. |
+| Current stance | Low technical momentum, weak fundamentals, value: reasonable, risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-04.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-55.23%) with negative half-year (-69.28%). |
+| Fresh setup quality | Poor / broken | -73.94% from 52w high — base needs to rebuild. |
 | Fundamental quality | Weak | Negative profit margin (-77.30%). |
-| Value attractiveness | Reasonable | Forward P/E 14.93, EV/Sales 14.71. |
-| Risk level | High | Beta 1.93, ATR nan% of price, short float 22.14%. |
+| Value attractiveness | Reasonable | Forward P/E 14.90, EV/Sales 14.71. |
+| Risk level | High | Beta 1.93, ATR 8.0% of price, short float 22.14%. |
 
-**Bottom line:** Moderate technical momentum, weak fundamentals, value: reasonable, risk: high.
+**Bottom line:** Low technical momentum, weak fundamentals, value: reasonable, risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -36,30 +36,30 @@ Energy Fuels Inc., together with its subsidiaries, engages in the exploration, r
 
 | Headline | Source | Date |
 |---|---|---|
+| Should You Buy, Hold or Sell Cameco Stock Post Q3 Earnings? | Zacks | 2026-11-04 |
+| 3 Canadian Growth Stocks With At Least 21% Earnings Growth | Simply Wall St. | 2026-11-04 |
 | Should You Buy, Sell or Hold MP Stock Before Q3 Earnings Release? | Zacks | 2026-11-03 |
 | 3 Canadian Growth Stocks To Watch In November 2026 | Simply Wall St. | 2026-11-03 |
-| What Is Behind The Move In Cameco Stock? | Trefis | 2026-11-02 |
-| 3 Canadian Uranium Stocks With Earnings Growth Up To 66% | Simply Wall St. | 2026-11-01 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $27.72 (+nan%); 52w low $7.39 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 27.5 (oversold) |
-| Volatility | ATR(14) 0.59 (~nan% of price); beta 1.93 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $7.22; 52w high $27.72 (-73.94%); 52w low $7.22 (+0.00%) |
+| Trend | -55.23% vs SMA200, -33.72% vs SMA50, -12.93% vs SMA20 |
+| Momentum | RSI(14) 26.4 (oversold) |
+| Volatility | ATR(14) 0.58 (~8.0% of price); beta 1.93 |
+| Setup perspective | -73.94% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -13.9% |
+| Month | -35.8% |
+| Quarter | -44.0% |
+| Half Y | -69.3% |
+| 1Y | -59.4% |
+| YTD | -56.7% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ Energy Fuels Inc., together with its subsidiaries, engages in the exploration, r
 | Revenue (ttm) | $105.76M | Revenue growth 496.10% y/y |
 | Profitability | Gross 40.85%, operating -79.03%, net -77.30% | ROA -4.65%, ROE -11.45% |
 | Balance sheet | Cash $936.75M, debt $678.34M | Current ratio 27.90, debt/equity 85.13 |
-| Valuation | P/E —, forward P/E 14.93, P/S 18.13, P/B 2.28 | EV/Sales 14.71, EV/EBITDA -21.71 |
+| Valuation | P/E —, forward P/E 14.90, P/S 18.09, P/B 2.28 | EV/Sales 14.71, EV/EBITDA -21.71 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $23.69 (4 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 75.69% |
+| Institutional ownership | 75.87% |
 | Insider ownership | 1.16% |
 | Short float | 22.14% |
 | Short ratio (days to cover) | 6.9 |
@@ -87,7 +87,7 @@ Energy Fuels Inc., together with its subsidiaries, engages in the exploration, r
 | Mirae Asset Global ETFs Holdings Ltd. | 17,148,614 | 6.48% | 2026-06-30 |
 | Blackrock Inc. | 15,665,570 | 5.92% | 2026-06-30 |
 | Vanguard Capital Management LLC | 14,884,021 | 5.62% | 2026-06-30 |
-| Alps Advisors Inc. | 9,710,888 | 3.67% | 2026-06-30 |
+| Alps Advisors Inc. | 11,060,390 | 4.18% | 2026-09-30 |
 | Morgan Stanley | 8,830,755 | 3.34% | 2026-06-30 |
 | Price (T.Rowe) Associates Inc | 8,736,940 | 3.30% | 2026-06-30 |
 | Ameriprise Financial, Inc. | 8,631,120 | 3.26% | 2026-06-30 |
@@ -95,9 +95,10 @@ Energy Fuels Inc., together with its subsidiaries, engages in the exploration, r
 | American Century Companies Inc | 4,226,355 | 1.60% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.93, ATR nan% of price, short float 22.14%. Size positions accordingly.
+- **Volatility risk:** Beta 1.93, ATR 8.0% of price, short float 22.14%. Size positions accordingly.
 - **Short interest risk:** short float 22.14% can fuel squeezes both ways around news.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
+- **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -112,20 +113,20 @@ Energy Fuels Inc., together with its subsidiaries, engages in the exploration, r
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 14.71 |
-| Market cap | $1.92B | EV/EBITDA | -21.71 |
+| Price | $7.22 | EV/Sales | 14.71 |
+| Market cap | $1.91B | EV/EBITDA | -21.71 |
 | Beta | 1.93 | Gross margin | 40.85% |
-| RSI(14) | 27.5 | Operating margin | -79.03% |
-| ATR(14) | 0.59 | Profit margin | -77.30% |
-| SMA20 dist | +nan% | ROA | -4.65% |
-| SMA50 dist | +nan% | ROE | -11.45% |
-| SMA200 dist | +nan% | Revenue (ttm) | $105.76M |
+| RSI(14) | 26.4 | Operating margin | -79.03% |
+| ATR(14) | 0.58 | Profit margin | -77.30% |
+| SMA20 dist | -12.93% | ROA | -4.65% |
+| SMA50 dist | -33.72% | ROE | -11.45% |
+| SMA200 dist | -55.23% | Revenue (ttm) | $105.76M |
 | 52W high | $27.72 | Revenue growth y/y | 496.10% |
-| 52W low | $7.39 | Inst. ownership | 75.69% |
+| 52W low | $7.22 | Inst. ownership | 75.87% |
 | P/E (ttm) | — | Insider ownership | 1.16% |
-| Forward P/E | 14.93 | Short float | 22.14% |
-| PEG (trailing) | — | Avg volume | 7,885,039 |
-| P/S | 18.13 | Employees | 1,069 |
+| Forward P/E | 14.90 | Short float | 22.14% |
+| PEG (trailing) | — | Avg volume | 7,855,103 |
+| P/S | 18.09 | Employees | 1,069 |
 | P/B | 2.28 | Analyst rec (1=buy..5=sell) | 1.1 |
 
 ## 8. Analyst Actions
@@ -141,7 +142,7 @@ Energy Fuels Inc., together with its subsidiaries, engages in the exploration, r
 | 2026-02-27 | main | HC Wainwright & Co. | Buy → Buy |
 
 ## 9. Conclusion
-UUUU: Moderate momentum / weak fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+UUUU: Low momentum / weak fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

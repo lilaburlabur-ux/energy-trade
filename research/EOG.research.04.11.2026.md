@@ -4,8 +4,8 @@ Signed file: `EOG.research.04.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-04, ~15-min delayed) |
-| Market cap | $82.65B |
+| Current price | $147.20 (2026-11-04, ~15-min delayed) |
+| Market cap | $77.21B |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
 | Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `EOG.research.04.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +43.77%; price +8.20% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -11.08% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 25.73%, revenue growth 58.70%. |
-| Value attractiveness | Reasonable | Forward P/E 9.57, EV/Sales 3.17. |
-| Risk level | Moderate | Beta 0.27, ATR nan% of price, short float 3.67%. |
+| Value attractiveness | Reasonable | Forward P/E 9.08, EV/Sales 3.17. |
+| Risk level | Moderate | Beta 0.27, ATR 2.9% of price, short float 3.67%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate.
 
@@ -36,30 +36,30 @@ EOG Resources, Inc., together with its subsidiaries, explores for, develops, pro
 
 | Headline | Source | Date |
 |---|---|---|
+| Looking for a Growth Stock? 3 Reasons Why EOG Resources (EOG) is a Solid Choice | Zacks | 2026-11-04 |
+| 6 Big Funds Bought Devon Energy. Is It a Buy Before Earnings? | TIKR | 2026-11-04 |
 | What Just Happened To Devon Energy Stock? | Trefis | 2026-11-03 |
 | Devon Energy to Report Q3 Earnings: Buy, Sell or Hold the Stock? | Zacks | 2026-11-03 |
-| Is EOG Resources (EOG) Trading At A Discount To Its Cash Flow? | Simply Wall St. | 2026-11-03 |
-| 4 Energy Stocks That Could Surpass Q3 Earnings Estimates | Zacks | 2026-11-03 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $165.54 (+nan%); 52w low $98.64 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 56.1 (neutral) |
-| Volatility | ATR(14) 4.01 (~nan% of price); beta 0.27 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $147.20; 52w high $165.54 (-11.08%); 52w low $98.64 (+49.23%) |
+| Trend | +8.20% vs SMA200, -0.91% vs SMA50, -5.86% vs SMA20 |
+| Momentum | RSI(14) 40.4 (neutral) |
+| Volatility | ATR(14) 4.30 (~2.9% of price); beta 0.27 |
+| Setup perspective | -11.08% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -8.5% |
+| Month | +2.7% |
+| Quarter | +8.8% |
+| Half Y | +10.8% |
+| 1Y | +43.8% |
+| YTD | +41.6% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,14 +68,14 @@ EOG Resources, Inc., together with its subsidiaries, explores for, develops, pro
 | Revenue (ttm) | $26.72B | Revenue growth 58.70% y/y |
 | Profitability | Gross 62.64%, operating 40.72%, net 25.73% | ROA 11.02%, ROE 22.51% |
 | Balance sheet | Cash $4.91B, debt $8.25B | Current ratio 1.85, debt/equity 25.89 |
-| Valuation | P/E 12.08, forward P/E 9.57, P/S 3.09, P/B 2.56 | EV/Sales 3.17, EV/EBITDA 5.85 |
+| Valuation | P/E 11.46, forward P/E 9.08, P/S 2.89, P/B 2.43 | EV/Sales 3.17, EV/EBITDA 5.85 |
 | Growth expectations | Earnings growth 109.40%, EPS q/q 102.50% | Analyst mean target $167.14 (29 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 98.25% |
-| Insider ownership | 0.27% |
+| Institutional ownership | 98.26% |
+| Insider ownership | 0.28% |
 | Short float | 3.67% |
 | Short ratio (days to cover) | 5.5 |
 
@@ -109,21 +109,21 @@ EOG Resources, Inc., together with its subsidiaries, explores for, develops, pro
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 3.17 |
-| Market cap | $82.65B | EV/EBITDA | 5.85 |
+| Price | $147.20 | EV/Sales | 3.17 |
+| Market cap | $77.21B | EV/EBITDA | 5.85 |
 | Beta | 0.27 | Gross margin | 62.64% |
-| RSI(14) | 56.1 | Operating margin | 40.72% |
-| ATR(14) | 4.01 | Profit margin | 25.73% |
-| SMA20 dist | +nan% | ROA | 11.02% |
-| SMA50 dist | +nan% | ROE | 22.51% |
-| SMA200 dist | +nan% | Revenue (ttm) | $26.72B |
+| RSI(14) | 40.4 | Operating margin | 40.72% |
+| ATR(14) | 4.30 | Profit margin | 25.73% |
+| SMA20 dist | -5.86% | ROA | 11.02% |
+| SMA50 dist | -0.91% | ROE | 22.51% |
+| SMA200 dist | +8.20% | Revenue (ttm) | $26.72B |
 | 52W high | $165.54 | Revenue growth y/y | 58.70% |
-| 52W low | $98.64 | Inst. ownership | 98.25% |
-| P/E (ttm) | 12.08 | Insider ownership | 0.27% |
-| Forward P/E | 9.57 | Short float | 3.67% |
-| PEG (trailing) | 1.25 | Avg volume | 2,972,784 |
-| P/S | 3.09 | Employees | 3,400 |
-| P/B | 2.56 | Analyst rec (1=buy..5=sell) | 2.4 |
+| 52W low | $98.64 | Inst. ownership | 98.26% |
+| P/E (ttm) | 11.46 | Insider ownership | 0.28% |
+| Forward P/E | 9.08 | Short float | 3.67% |
+| PEG (trailing) | 1.17 | Avg volume | 2,975,900 |
+| P/S | 2.89 | Employees | 3,400 |
+| P/B | 2.43 | Analyst rec (1=buy..5=sell) | 2.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

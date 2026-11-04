@@ -4,8 +4,8 @@ Signed file: `SHEL.research.04.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-04, ~15-min delayed) |
-| Market cap | $295.45B |
+| Current price | $101.26 (2026-11-04, ~15-min delayed) |
+| Market cap | $287.02B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `SHEL.research.04.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +41.18%; price +15.26% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -6.84% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 10.18%, revenue growth 36.20%. |
-| Value attractiveness | Reasonable | Forward P/E 9.53, EV/Sales 1.06. |
-| Risk level | Moderate | Beta -0.24, ATR nan% of price, short float 1.22%. |
+| Value attractiveness | Reasonable | Forward P/E 9.41, EV/Sales 1.06. |
+| Risk level | Moderate | Beta -0.24, ATR 2.1% of price, short float 1.22%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
@@ -36,30 +36,30 @@ Shell plc operates as an energy and petrochemical company in Europe, Asia, Ocean
 
 | Headline | Source | Date |
 |---|---|---|
-| Rivian spinout Also was working on an e-moto project in Kenya — until it walked away | TechCrunch | 2026-11-03 |
-| How 3 energy companies are managing their c-store portfolios | C-Store Dive | 2026-11-03 |
-| Shell Strengthens Its European LNG Position With New METLEN Deal | Zacks | 2026-11-03 |
-| Shell to divest North West Shelf stake to XRG for $1.5bn | Offshore Technology | 2026-11-03 |
+| BP Stock Gains 40.6% in a Year: Should You Bet on the Stock Now? | Zacks | 2026-11-04 |
+| Shell Agrees to $1.45 Billion Sale of North West Shelf Stake | Zacks | 2026-11-04 |
+| Clariant shares fall as Deutsche Bank flags rising litigation risks | Investing.com | 2026-11-04 |
+| Most Investors Own VEA. Few Know About This International Cash Cows ETF | 24/7 Wall St. | 2026-11-04 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $108.69 (+nan%); 52w low $68.43 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 56.3 (neutral) |
-| Volatility | ATR(14) 2.06 (~nan% of price); beta -0.24 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $101.26; 52w high $108.69 (-6.84%); 52w low $68.43 (+47.97%) |
+| Trend | +15.26% vs SMA200, +2.56% vs SMA50, -3.20% vs SMA20 |
+| Momentum | RSI(14) 46.2 (neutral) |
+| Volatility | ATR(14) 2.12 (~2.1% of price); beta -0.24 |
+| Setup perspective | -6.84% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -3.7% |
+| Month | +3.7% |
+| Quarter | +14.0% |
+| Half Y | +18.2% |
+| 1Y | +41.2% |
+| YTD | +37.9% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ Shell plc operates as an energy and petrochemical company in Europe, Asia, Ocean
 | Revenue (ttm) | $321.29B | Revenue growth 36.20% y/y |
 | Profitability | Gross 26.93%, operating 18.76%, net 10.18% | ROA 7.67%, ROE 17.43% |
 | Balance sheet | Cash $36.42B, debt $76.07B | Current ratio 1.38, debt/equity 38.13 |
-| Valuation | P/E 9.05, forward P/E 9.53, P/S 0.92, P/B 1.50 | EV/Sales 1.06, EV/EBITDA 5.02 |
-| Growth expectations | Earnings growth 136.70%, EPS q/q 126.60% | Analyst mean target $108.81 (15 analysts) |
+| Valuation | P/E 8.79, forward P/E 9.41, P/S 0.89, P/B 1.46 | EV/Sales 1.06, EV/EBITDA 5.02 |
+| Growth expectations | Earnings growth 136.70%, EPS q/q 126.60% | Analyst mean target $110.55 (15 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 13.47% |
+| Institutional ownership | 13.48% |
 | Insider ownership | 0.01% |
 | Short float | 1.22% |
 | Short ratio (days to cover) | 3.0 |
@@ -95,6 +95,7 @@ Shell plc operates as an energy and petrochemical company in Europe, Asia, Ocean
 | Arrowstreet Capital, Limited Partnership | 6,727,122 | 0.23% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
+- **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -109,21 +110,21 @@ Shell plc operates as an energy and petrochemical company in Europe, Asia, Ocean
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 1.06 |
-| Market cap | $295.45B | EV/EBITDA | 5.02 |
+| Price | $101.26 | EV/Sales | 1.06 |
+| Market cap | $287.02B | EV/EBITDA | 5.02 |
 | Beta | -0.24 | Gross margin | 26.93% |
-| RSI(14) | 56.3 | Operating margin | 18.76% |
-| ATR(14) | 2.06 | Profit margin | 10.18% |
-| SMA20 dist | +nan% | ROA | 7.67% |
-| SMA50 dist | +nan% | ROE | 17.43% |
-| SMA200 dist | +nan% | Revenue (ttm) | $321.29B |
+| RSI(14) | 46.2 | Operating margin | 18.76% |
+| ATR(14) | 2.12 | Profit margin | 10.18% |
+| SMA20 dist | -3.20% | ROA | 7.67% |
+| SMA50 dist | +2.56% | ROE | 17.43% |
+| SMA200 dist | +15.26% | Revenue (ttm) | $321.29B |
 | 52W high | $108.69 | Revenue growth y/y | 36.20% |
-| 52W low | $68.43 | Inst. ownership | 13.47% |
-| P/E (ttm) | 9.05 | Insider ownership | 0.01% |
-| Forward P/E | 9.53 | Short float | 1.22% |
-| PEG (trailing) | 1.46 | Avg volume | 6,106,240 |
-| P/S | 0.92 | Employees | 84,000 |
-| P/B | 1.50 | Analyst rec (1=buy..5=sell) | 2.2 |
+| 52W low | $68.43 | Inst. ownership | 13.48% |
+| P/E (ttm) | 8.79 | Insider ownership | 0.01% |
+| Forward P/E | 9.41 | Short float | 1.22% |
+| PEG (trailing) | 1.45 | Avg volume | 6,047,113 |
+| P/S | 0.89 | Employees | 84,000 |
+| P/B | 1.46 | Analyst rec (1=buy..5=sell) | 2.2 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

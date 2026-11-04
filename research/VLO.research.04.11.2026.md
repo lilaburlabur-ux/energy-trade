@@ -4,24 +4,24 @@ Signed file: `VLO.research.04.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-04, ~15-min delayed) |
-| Market cap | $108.11B |
+| Current price | $361.18 (2026-11-04, ~15-min delayed) |
+| Market cap | $100.73B |
 | Sector / Industry | Energy / Oil & Gas Refining & Marketing |
 | Main theme | Oil & Gas Refining & Marketing — see catalysts below |
-| Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
+| Current stance | High technical momentum, mixed fundamentals, value: reasonable, risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-04.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +114.94%; price +25.64% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -21.45% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 8.83%, revenue growth 46.50%. |
-| Value attractiveness | Reasonable | Forward P/E 7.25, EV/Sales 0.77. |
-| Risk level | Moderate | Beta 0.55, ATR nan% of price, short float 3.35%. |
+| Value attractiveness | Reasonable | Forward P/E 6.75, EV/Sales 0.77. |
+| Risk level | High | Beta 0.55, ATR 5.4% of price, short float 3.35%. |
 
-**Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
+**Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -36,30 +36,30 @@ Valero Energy Corporation manufactures, markets, and sells petroleum-based and l
 
 | Headline | Source | Date |
 |---|---|---|
-| Breaking Down The Importance of Earnings Season | Zacks | 2026-11-03 |
-| Oil Edges Lower As U.S. Bombs Iran Before Election Day | Investor's Business Daily | 2026-11-03 |
-| Carl Icahn Buys A $4.2 Billion Slice Of The Refining Profit Surge | Investor's Business Daily | 2026-11-03 |
-| Valero to Acquire Houston Refining Site, Plans 165,000 BPD Restart | Zacks | 2026-11-03 |
+| MPC Q3 Earnings Beat Estimates on Strong Refining Margins | Zacks | 2026-11-04 |
+| Will ExxonMobil's 100,000-BPD Diesel Expansion Boost Refining Profit? | Zacks | 2026-11-04 |
+| Bet on These Oil & Gas ETFs Capitalizing on the US-Iran War Windfall | Zacks | 2026-11-04 |
+| Valero's $320.5M Houston Refinery Deal: A Growth Catalyst for VLO? | Zacks | 2026-11-04 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $459.78 (+nan%); 52w low $159.58 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 39.4 (neutral) |
-| Volatility | ATR(14) 18.08 (~nan% of price); beta 0.55 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $361.18; 52w high $459.78 (-21.45%); 52w low $159.58 (+126.33%) |
+| Trend | +25.64% vs SMA200, -9.59% vs SMA50, -13.85% vs SMA20 |
+| Momentum | RSI(14) 34.7 (neutral) |
+| Volatility | ATR(14) 19.36 (~5.4% of price); beta 0.55 |
+| Setup perspective | -21.45% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -7.0% |
+| Month | -13.8% |
+| Quarter | +19.2% |
+| Half Y | +53.9% |
+| 1Y | +114.9% |
+| YTD | +121.7% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,14 +68,14 @@ Valero Energy Corporation manufactures, markets, and sells petroleum-based and l
 | Revenue (ttm) | $146.53B | Revenue growth 46.50% y/y |
 | Profitability | Gross 19.52%, operating 20.47%, net 8.83% | ROA 17.68%, ROE 46.87% |
 | Balance sheet | Cash $9.84B, debt $11.00B | Current ratio 1.72, debt/equity 35.39 |
-| Valuation | P/E 8.82, forward P/E 7.25, P/S 0.74, P/B 3.86 | EV/Sales 0.77, EV/EBITDA 5.42 |
+| Valuation | P/E 8.21, forward P/E 6.75, P/S 0.69, P/B 3.60 | EV/Sales 0.77, EV/EBITDA 5.42 |
 | Growth expectations | Earnings growth 576.80%, EPS q/q 523.60% | Analyst mean target $427.00 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 89.87% |
-| Insider ownership | 0.44% |
+| Institutional ownership | 89.77% |
+| Insider ownership | 0.43% |
 | Short float | 3.35% |
 | Short ratio (days to cover) | 2.3 |
 
@@ -95,6 +95,7 @@ Valero Energy Corporation manufactures, markets, and sells petroleum-based and l
 | Ameriprise Financial, Inc. | 5,223,386 | 1.87% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
+- **Volatility risk:** Beta 0.55, ATR 5.4% of price, short float 3.35%. Size positions accordingly.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -109,21 +110,21 @@ Valero Energy Corporation manufactures, markets, and sells petroleum-based and l
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 0.77 |
-| Market cap | $108.11B | EV/EBITDA | 5.42 |
+| Price | $361.18 | EV/Sales | 0.77 |
+| Market cap | $100.73B | EV/EBITDA | 5.42 |
 | Beta | 0.55 | Gross margin | 19.52% |
-| RSI(14) | 39.4 | Operating margin | 20.47% |
-| ATR(14) | 18.08 | Profit margin | 8.83% |
-| SMA20 dist | +nan% | ROA | 17.68% |
-| SMA50 dist | +nan% | ROE | 46.87% |
-| SMA200 dist | +nan% | Revenue (ttm) | $146.53B |
+| RSI(14) | 34.7 | Operating margin | 20.47% |
+| ATR(14) | 19.36 | Profit margin | 8.83% |
+| SMA20 dist | -13.85% | ROA | 17.68% |
+| SMA50 dist | -9.59% | ROE | 46.87% |
+| SMA200 dist | +25.64% | Revenue (ttm) | $146.53B |
 | 52W high | $459.78 | Revenue growth y/y | 46.50% |
-| 52W low | $159.58 | Inst. ownership | 89.87% |
-| P/E (ttm) | 8.82 | Insider ownership | 0.44% |
-| Forward P/E | 7.25 | Short float | 3.35% |
-| PEG (trailing) | 1.43 | Avg volume | 3,038,568 |
-| P/S | 0.74 | Employees | 9,785 |
-| P/B | 3.86 | Analyst rec (1=buy..5=sell) | 2.5 |
+| 52W low | $159.58 | Inst. ownership | 89.77% |
+| P/E (ttm) | 8.21 | Insider ownership | 0.43% |
+| Forward P/E | 6.75 | Short float | 3.35% |
+| PEG (trailing) | 1.45 | Avg volume | 3,026,232 |
+| P/S | 0.69 | Employees | 9,785 |
+| P/B | 3.60 | Analyst rec (1=buy..5=sell) | 2.5 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
@@ -138,7 +139,7 @@ Valero Energy Corporation manufactures, markets, and sells petroleum-based and l
 | 2026-10-13 | main | Citigroup | Neutral → Neutral |
 
 ## 9. Conclusion
-VLO: Moderate momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+VLO: High momentum / mixed fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

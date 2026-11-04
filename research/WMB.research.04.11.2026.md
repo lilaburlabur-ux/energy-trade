@@ -4,24 +4,24 @@ Signed file: `WMB.research.04.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-04, ~15-min delayed) |
-| Market cap | $88.64B |
+| Current price | $66.79 (2026-11-04, ~15-min delayed) |
+| Market cap | $83.50B |
 | Sector / Industry | Energy / Oil & Gas Midstream |
 | Main theme | Oil & Gas Midstream — see catalysts below |
-| Current stance | Moderate technical momentum, mixed fundamentals, value: fair-to-demanding, risk: moderate. |
+| Current stance | Low technical momentum, strong fundamentals, value: fair-to-demanding, risk: elevated. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-04.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
-| Fundamental quality | Mixed | Profit margin 24.94%, revenue growth 7.80%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 27.70, EV/Sales 9.73. |
-| Risk level | Moderate | Beta 0.63, ATR nan% of price, short float 2.45%. |
+| Technical momentum | Low | Below SMA200 (-6.96%) with negative half-year (-8.12%). |
+| Fresh setup quality | Moderate / wait | -14.65% from 52w high; no clean fresh pivot by default. |
+| Fundamental quality | Strong | Profit margin 24.66%, revenue growth 12.30%. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 25.53, EV/Sales 10.14. |
+| Risk level | Elevated | Beta 0.63, ATR 3.9% of price, short float 2.39%. |
 
-**Bottom line:** Moderate technical momentum, mixed fundamentals, value: fair-to-demanding, risk: moderate.
+**Bottom line:** Low technical momentum, strong fundamentals, value: fair-to-demanding, risk: elevated.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -36,66 +36,67 @@ The Williams Companies, Inc., together with its subsidiaries, operates as an ene
 
 | Headline | Source | Date |
 |---|---|---|
-| What Just Happened To Sherwin-Williams Stock? | Trefis | 2026-11-03 |
-| Williams Cos. Shrugs Off AI Data Center Jitters With Power Generation Ambitions | Barrons.com | 2026-11-03 |
-| Williams Companies Stock Soars on AI Power Demand. Is It Too Late to Get In? | 24/7 Wall St. | 2026-11-03 |
-| The Williams Companies, Inc. Q3 2026 Earnings Call Summary | Moby | 2026-11-03 |
+| Williams Companies (WMB) Completes Key Gas Deal And Deepens Haynesville Reach | Simply Wall St. | 2026-11-04 |
+| WMB Q3 Earnings Miss Estimates Amid Higher Costs, Revenues Beat | Zacks | 2026-11-04 |
+| WMB Q3 Earnings Call Highlights Power Backlog and Funding | Zacks | 2026-11-04 |
+| What Williams Companies (WMB) Said on Its Q3 Earnings Call | MarketBeat | 2026-11-04 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $78.25 (+nan%); 52w low $54.84 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 46.8 (neutral) |
-| Volatility | ATR(14) 2.14 (~nan% of price); beta 0.63 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $66.79; 52w high $78.25 (-14.65%); 52w low $54.84 (+21.79%) |
+| Trend | -6.96% vs SMA200, -7.27% vs SMA50, -7.41% vs SMA20 |
+| Momentum | RSI(14) 37.4 (neutral) |
+| Volatility | ATR(14) 2.62 (~3.9% of price); beta 0.63 |
+| Setup perspective | -14.65% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -10.1% |
+| Month | -7.7% |
+| Quarter | -6.2% |
+| Half Y | -8.1% |
+| 1Y | +16.6% |
+| YTD | +12.2% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
 | Next earnings | 2026-11-02 | Next scheduled report (Yahoo estimate) |
-| Revenue (ttm) | $12.32B | Revenue growth 7.80% y/y |
-| Profitability | Gross 63.64%, operating 39.54%, net 24.94% | ROA 5.03%, ROE 21.50% |
-| Balance sheet | Cash $203.00M, debt $30.79B | Current ratio 0.48, debt/equity 200.37 |
-| Valuation | P/E 28.53, forward P/E 27.70, P/S 7.19, P/B 6.93 | EV/Sales 9.73, EV/EBITDA 17.05 |
-| Growth expectations | Earnings growth 51.20%, EPS q/q 51.50% | Analyst mean target $85.38 (24 analysts) |
+| Revenue (ttm) | $12.68B | Revenue growth 12.30% y/y |
+| Profitability | Gross 63.05%, operating 32.69%, net 24.66% | ROA 4.59%, ROE 18.31% |
+| Balance sheet | Cash $1.76B, debt $33.93B | Current ratio 0.75, debt/equity 157.88 |
+| Valuation | P/E 26.30, forward P/E 25.53, P/S 6.59, P/B 5.32 | EV/Sales 10.14, EV/EBITDA 18.28 |
+| Growth expectations | Earnings growth 5.90%, EPS q/q 8.20% | Analyst mean target $85.38 (24 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 91.84% |
-| Insider ownership | 0.45% |
-| Short float | 2.45% |
+| Institutional ownership | 89.97% |
+| Insider ownership | 0.44% |
+| Short float | 2.39% |
 | Short ratio (days to cover) | 3.4 |
 
 **Top institutional holders:**
 
 | Holder | Shares | % Out | Reported |
 |---|---|---|---|
-| Blackrock Inc. | 115,500,312 | 9.44% | 2026-06-30 |
-| Vanguard Capital Management LLC | 79,848,153 | 6.53% | 2026-06-30 |
-| State Street Corporation | 72,015,506 | 5.89% | 2026-06-30 |
-| Bank of America Corporation | 44,667,824 | 3.65% | 2026-06-30 |
-| Vanguard Portfolio Management LLC | 43,513,739 | 3.56% | 2026-06-30 |
-| Wellington Management Group, LLP | 33,097,208 | 2.71% | 2026-06-30 |
-| Morgan Stanley | 31,813,505 | 2.60% | 2026-06-30 |
-| Geode Capital Management, LLC | 29,911,265 | 2.45% | 2026-06-30 |
-| ClearBridge Investments, LLC | 24,212,067 | 1.98% | 2026-06-30 |
-| JPMORGAN CHASE & CO | 21,379,796 | 1.75% | 2026-06-30 |
+| Blackrock Inc. | 115,500,312 | 9.24% | 2026-06-30 |
+| Vanguard Capital Management LLC | 79,848,153 | 6.39% | 2026-06-30 |
+| State Street Corporation | 72,015,506 | 5.76% | 2026-06-30 |
+| Bank of America Corporation | 44,667,824 | 3.57% | 2026-06-30 |
+| Vanguard Portfolio Management LLC | 43,513,739 | 3.48% | 2026-06-30 |
+| Wellington Management Group, LLP | 33,097,208 | 2.65% | 2026-06-30 |
+| Morgan Stanley | 31,813,505 | 2.54% | 2026-06-30 |
+| Geode Capital Management, LLC | 29,911,265 | 2.39% | 2026-06-30 |
+| ClearBridge Investments, LLC | 24,212,067 | 1.94% | 2026-06-30 |
+| JPMORGAN CHASE & CO | 21,379,796 | 1.71% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 27.70, EV/Sales 9.73. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 25.53, EV/Sales 10.14. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 0.63, ATR 3.9% of price, short float 2.39%. Size positions accordingly.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -110,21 +111,21 @@ The Williams Companies, Inc., together with its subsidiaries, operates as an ene
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 9.73 |
-| Market cap | $88.64B | EV/EBITDA | 17.05 |
-| Beta | 0.63 | Gross margin | 63.64% |
-| RSI(14) | 46.8 | Operating margin | 39.54% |
-| ATR(14) | 2.14 | Profit margin | 24.94% |
-| SMA20 dist | +nan% | ROA | 5.03% |
-| SMA50 dist | +nan% | ROE | 21.50% |
-| SMA200 dist | +nan% | Revenue (ttm) | $12.32B |
-| 52W high | $78.25 | Revenue growth y/y | 7.80% |
-| 52W low | $54.84 | Inst. ownership | 91.84% |
-| P/E (ttm) | 28.53 | Insider ownership | 0.45% |
-| Forward P/E | 27.70 | Short float | 2.45% |
-| PEG (trailing) | 2.05 | Avg volume | 7,531,453 |
-| P/S | 7.19 | Employees | 5,987 |
-| P/B | 6.93 | Analyst rec (1=buy..5=sell) | 1.4 |
+| Price | $66.79 | EV/Sales | 10.14 |
+| Market cap | $83.50B | EV/EBITDA | 18.28 |
+| Beta | 0.63 | Gross margin | 63.05% |
+| RSI(14) | 37.4 | Operating margin | 32.69% |
+| ATR(14) | 2.62 | Profit margin | 24.66% |
+| SMA20 dist | -7.41% | ROA | 4.59% |
+| SMA50 dist | -7.27% | ROE | 18.31% |
+| SMA200 dist | -6.96% | Revenue (ttm) | $12.68B |
+| 52W high | $78.25 | Revenue growth y/y | 12.30% |
+| 52W low | $54.84 | Inst. ownership | 89.97% |
+| P/E (ttm) | 26.30 | Insider ownership | 0.44% |
+| Forward P/E | 25.53 | Short float | 2.39% |
+| PEG (trailing) | 2.09 | Avg volume | 7,499,023 |
+| P/S | 6.59 | Employees | 5,987 |
+| P/B | 5.32 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
@@ -139,7 +140,7 @@ The Williams Companies, Inc., together with its subsidiaries, operates as an ene
 | 2026-07-14 | main | Morgan Stanley | Overweight → Overweight |
 
 ## 9. Conclusion
-WMB: Moderate momentum / mixed fundamentals / fair-to-demanding value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+WMB: Low momentum / strong fundamentals / fair-to-demanding value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |
