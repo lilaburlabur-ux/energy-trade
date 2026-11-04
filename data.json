@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-04T12:42:23+00:00",
-  "as_of_local": "2026-11-04 12:42:23 UTC",
+  "as_of_utc": "2026-11-04T12:47:10+00:00",
+  "as_of_local": "2026-11-04 12:47:10 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "COP"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -173,40 +175,12 @@
       ]
     },
     {
-      "symbol": "COP",
-      "name": "ConocoPhillips",
-      "price": 144.4,
-      "previous_close": 146.84,
-      "change_pct": -1.66,
-      "market_cap": 175921647174.9235,
-      "headlines": [
-        {
-          "title": "What State Street Energy Select Sector SPDR ETF (XLE) Sold: Exxon Leads on Monday",
-          "url": "https://finance.yahoo.com/energy/articles/state-street-energy-select-sector-110544981.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-04T11:05:44Z"
-        },
-        {
-          "title": "Earnings live updates: Duolingo stock jumps on user growth, upbeat guidance",
-          "url": "https://finance.yahoo.com/markets/live/earnings-live-updates-apple-palantir-roku-and-more-212856249.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-02T21:28:56Z"
-        },
-        {
-          "title": "4 Energy Stocks That Could Surpass Q3 Earnings Estimates",
-          "url": "https://finance.yahoo.com/energy/articles/4-energy-stocks-could-surpass-155000079.html",
-          "publisher": "Zacks",
-          "published": "2026-11-03T15:50:00Z"
-        }
-      ]
-    },
-    {
       "symbol": "ETN",
       "name": "Eaton",
       "price": 391.7,
       "previous_close": 366.07,
       "change_pct": 7.0,
-      "market_cap": 152136284741.21094,
+      "market_cap": 152175454742.43164,
       "headlines": [
         {
           "title": "What Does Eaton (ETN) Winning Record Q3 Results And A New Deal Change?",
@@ -262,7 +236,7 @@
       "price": 427.34,
       "previous_close": 430.39,
       "change_pct": -0.71,
-      "market_cap": 120007653192.009,
+      "market_cap": 116357108538.07251,
       "headlines": [
         {
           "title": "Marathon Petroleum Corp (MPC) Q3 2026 Earnings Call Highlights: Record 100% Refinery ...",
@@ -318,7 +292,7 @@
       "price": 45.63,
       "previous_close": 45.4,
       "change_pct": 0.51,
-      "market_cap": 108013204093.88242,
+      "market_cap": 108001098454.59904,
       "headlines": [
         {
           "title": "New Strong Buy Stocks for November 4th",
@@ -509,6 +483,34 @@
       ]
     },
     {
+      "symbol": "WMB",
+      "name": "Williams Companies",
+      "price": 72.47,
+      "previous_close": 71.19,
+      "change_pct": 1.8,
+      "market_cap": 90602177860.64612,
+      "headlines": [
+        {
+          "title": "What Williams Companies (WMB) Said on Its Q3 Earnings Call",
+          "url": "https://finance.yahoo.com/energy/articles/williams-companies-wmb-said-q3-111402275.html",
+          "publisher": "MarketBeat",
+          "published": "2026-11-04T11:14:02Z"
+        },
+        {
+          "title": "What Just Happened To Sherwin-Williams Stock?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/just-happened-sherwin-williams-stock-214356528.html",
+          "publisher": "Trefis",
+          "published": "2026-11-03T21:43:56Z"
+        },
+        {
+          "title": "Williams Cos. Shrugs Off AI Data Center Jitters With Power Generation Ambitions",
+          "url": "https://www.barrons.com/articles/williams-cos-earnings-stock-price-31f22075?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-11-03T20:46:00Z"
+        }
+      ]
+    },
+    {
       "symbol": "SU",
       "name": "Suncor Energy",
       "price": 75.45,
@@ -537,40 +539,12 @@
       ]
     },
     {
-      "symbol": "WMB",
-      "name": "Williams Companies",
-      "price": 72.47,
-      "previous_close": 71.19,
-      "change_pct": 1.8,
-      "market_cap": 88642948188.96436,
-      "headlines": [
-        {
-          "title": "What Williams Companies (WMB) Said on Its Q3 Earnings Call",
-          "url": "https://finance.yahoo.com/energy/articles/williams-companies-wmb-said-q3-111402275.html",
-          "publisher": "MarketBeat",
-          "published": "2026-11-04T11:14:02Z"
-        },
-        {
-          "title": "What Just Happened To Sherwin-Williams Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/just-happened-sherwin-williams-stock-214356528.html",
-          "publisher": "Trefis",
-          "published": "2026-11-03T21:43:56Z"
-        },
-        {
-          "title": "Williams Cos. Shrugs Off AI Data Center Jitters With Power Generation Ambitions",
-          "url": "https://www.barrons.com/articles/williams-cos-earnings-stock-price-31f22075?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-11-03T20:46:00Z"
-        }
-      ]
-    },
-    {
       "symbol": "EOG",
       "name": "EOG Resources",
       "price": 155.17,
       "previous_close": 157.89,
       "change_pct": -1.72,
-      "market_cap": 81391191279.4784,
+      "market_cap": 82647968024.82803,
       "headlines": [
         {
           "title": "What Just Happened To Devon Energy Stock?",
@@ -850,7 +824,7 @@
       "price": 57.5,
       "previous_close": 58.94,
       "change_pct": -2.44,
-      "market_cap": 58296849432.5,
+      "market_cap": 58247500000.0,
       "headlines": [
         {
           "title": "CVR Energy Prices $500 Million Common Stock Offering at $47.55 a Share",
@@ -906,7 +880,7 @@
       "price": 192.34,
       "previous_close": 199.74,
       "change_pct": -3.7,
-      "market_cap": 53859005767.816895,
+      "market_cap": 53709358326.42615,
       "headlines": [
         {
           "title": "What JPMorgan Nasdaq Equity Premium Income (JEPQ) Sold: Marriott Leads on Monday",
@@ -1046,7 +1020,7 @@
       "price": 72.81,
       "previous_close": 74.38,
       "change_pct": -2.11,
-      "market_cap": 36289961167.45422,
+      "market_cap": 36296906294.691345,
       "headlines": [
         {
           "title": "How Earnings Miss Will Impact PSEG Stock Investors",
@@ -1466,7 +1440,7 @@
       "price": 131.82,
       "previous_close": 130.47,
       "change_pct": 1.03,
-      "market_cap": 12077610074.659424,
+      "market_cap": 12078034139.622986,
       "headlines": [
         {
           "title": "BWXT Q3 Earnings Call Highlights 2027 Growth and Nuclear Demand",
@@ -1494,7 +1468,7 @@
       "price": 30.3,
       "previous_close": 30.05,
       "change_pct": 0.83,
-      "market_cap": 9093382038.833,
+      "market_cap": 9189261508.118801,
       "headlines": [
         {
           "title": "Brookfield Renewable: Q3 Earnings Snapshot",
@@ -1939,8 +1913,8 @@
           "name": "ConocoPhillips",
           "short": "ConocoPhillips",
           "weight_pct": 6.73,
-          "change_pct": -1.66,
-          "price": 144.4,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -2038,8 +2012,8 @@
         "name": "ConocoPhillips",
         "short": "ConocoPhillips",
         "weight_pct": 6.73,
-        "change_pct": -1.66,
-        "price": 144.4,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 94.62,
-      "change_pct": -1.53
+      "price": 94.64,
+      "change_pct": -1.51
     },
     {
       "label": "Brent",
-      "price": 101.55,
-      "change_pct": -1.98
+      "price": 101.68,
+      "change_pct": -1.85
     },
     {
       "label": "NatGas",
-      "price": 2.9,
-      "change_pct": 0.03
+      "price": 2.89,
+      "change_pct": -0.03
     }
   ]
 }
