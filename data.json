@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-04T03:27:37+00:00",
-  "as_of_local": "2026-11-04 03:27:37 UTC",
+  "as_of_utc": "2026-11-04T03:32:47+00:00",
+  "as_of_local": "2026-11-04 03:32:47 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "UUUU"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1799,6 +1797,34 @@
       ]
     },
     {
+      "symbol": "UUUU",
+      "name": "Energy Fuels",
+      "price": 7.24,
+      "previous_close": 7.39,
+      "change_pct": -2.03,
+      "market_cap": 1917354210.5056953,
+      "headlines": [
+        {
+          "title": "3 Canadian Growth Stocks With At Least 21% Earnings Growth",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-canadian-growth-stocks-least-021039324.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-04T02:10:39Z"
+        },
+        {
+          "title": "Should You Buy, Sell or Hold MP Stock Before Q3 Earnings Release?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/buy-sell-hold-mp-stock-141300402.html",
+          "publisher": "Zacks",
+          "published": "2026-11-03T14:13:00Z"
+        },
+        {
+          "title": "3 Canadian Growth Stocks To Watch In November 2026",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-canadian-growth-stocks-watch-001729369.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-03T00:17:29Z"
+        }
+      ]
+    },
+    {
       "symbol": "FLNC",
       "name": "Fluence Energy",
       "price": 5.5,
@@ -2089,18 +2115,13 @@
     },
     {
       "label": "WTI",
-      "price": 95.44,
-      "change_pct": -1.06
+      "price": 95.62,
+      "change_pct": -0.87
     },
     {
       "label": "Brent",
-      "price": 103.12,
-      "change_pct": -1.57
-    },
-    {
-      "label": "NatGas",
-      "price": 2.85,
-      "change_pct": -0.14
+      "price": 103.24,
+      "change_pct": -1.46
     }
   ]
 }
