@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-04T10:49:50+00:00",
+  "as_of": "2026-11-04T11:05:09+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,22 +9,6 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "FSLR",
-   "company": "First Solar, Inc.",
-   "move_pct": 8.12,
-   "price": 201.0,
-   "volume": 3452900,
-   "volume_vs_avg": "~1.5x",
-   "heat_score": 61,
-   "direction": "up",
-   "why": "Why is First Solar stock surging today? By Investing.com",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObV9QSkhvUV9idjA4VHFzc3hTaDdMUEVib3Z4TkhmMmpZWDlwb2kxbi1uUVJTTXJXOER6cFkzUmNsNzFmYkZjQ3ZiZjhsaXV0UF9PU3VVUjVJUnAtOWx4M19KdUpWOGY2V195NDBWZFhwM1FyYlpQU1pmSWswWm5JUXBic2pLclMwOFRBX2NKdlBCaDVvRTJuSWJlWUJ0a2Ju?oc=5",
-   "published": "2026-11-04T09:26:00+00:00",
-   "sector": "Renewables & Solar"
-  },
-  {
-   "rank": 2,
    "ticker": "ARRY",
    "company": "Array Technologies, Inc.",
    "move_pct": 6.25,
@@ -38,6 +22,38 @@
    "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSmRKTDJaMGlMUGV3NHJiNWZ4VmMtZ0JDTDZnWFF0aWt5dEdDbHFYMFpzSzNQTmxKaGxvUmFnUzNzenMzMnRkSE10VWlwazJiM2NqV1RhYzNzNkNzSGpKMlRzVVp4UnV4dksxdW4zLWhEa3JoTXB3dDZ6N3JzNW9lZjNYYko2UUgyd3p6NkhieFBDWFUtYVpWODc0Unc?oc=5",
    "published": "2026-11-04T08:06:22+00:00",
    "sector": "Renewables & Solar"
+  },
+  {
+   "rank": 2,
+   "ticker": "FSLR",
+   "company": "First Solar, Inc.",
+   "move_pct": 7.56,
+   "price": 199.96,
+   "volume": 3452900,
+   "volume_vs_avg": "~1.5x",
+   "heat_score": 49,
+   "direction": "up",
+   "why": "Why is First Solar stock surging today? By Investing.com",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObV9QSkhvUV9idjA4VHFzc3hTaDdMUEVib3Z4TkhmMmpZWDlwb2kxbi1uUVJTTXJXOER6cFkzUmNsNzFmYkZjQ3ZiZjhsaXV0UF9PU3VVUjVJUnAtOWx4M19KdUpWOGY2V195NDBWZFhwM1FyYlpQU1pmSWswWm5JUXBic2pLclMwOFRBX2NKdlBCaDVvRTJuSWJlWUJ0a2Ju?oc=5",
+   "published": "2026-11-04T09:26:00+00:00",
+   "sector": "Renewables & Solar"
+  },
+  {
+   "rank": 3,
+   "ticker": "BE",
+   "company": "Bloom Energy Corporation",
+   "move_pct": 7.24,
+   "price": 229.5,
+   "volume": 14068000,
+   "volume_vs_avg": "~0.9x",
+   "heat_score": 45,
+   "direction": "up",
+   "why": "Bloom Energy's New Guidance Implies Up to $1.55 Billion in Q4 Revenue. Can It Deliver?",
+   "catalyst_type": "earnings",
+   "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZU4xQnFZMl9oeXNEVTRwREY2ck1KVXVmSEFjZWZ3RVIyel9KcFZ1Z0dQS3phMkdhSTNwLXp6SXNEQnAzVjJsLXFqOFQ3VEVsNXRFZVkxNmstSjhJcWhLZEpqNk9mbms1bGdPZVV4dGgzeHkxTzFBeWFqc2llV01RY0RhdHZsa1F4RHVrMjhDNWY?oc=5",
+   "published": "2026-11-04T10:45:00+00:00",
+   "sector": "Grid, Storage & Electrification"
   }
  ]
 }
