@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-04T08:58:01+00:00",
-  "as_of_local": "2026-11-04 08:58:01 UTC",
+  "as_of_utc": "2026-11-04T09:03:04+00:00",
+  "as_of_local": "2026-11-04 09:03:04 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "SHEL"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -59,6 +57,34 @@
           "url": "https://finance.yahoo.com/energy/articles/u-striking-iran-trump-talks-174724817.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-03T17:47:24Z"
+        }
+      ]
+    },
+    {
+      "symbol": "SHEL",
+      "name": "Shell",
+      "price": 104.2,
+      "previous_close": 104.94,
+      "change_pct": -0.71,
+      "market_cap": 295453267817.3113,
+      "headlines": [
+        {
+          "title": "BP Appoints Former Shell Executive Emma Lewis to Lead Downstream Business",
+          "url": "https://finance.yahoo.com/energy/articles/bp-appoints-former-shell-executive-082200273.html",
+          "publisher": "Oilprice.com",
+          "published": "2026-11-04T08:22:00Z"
+        },
+        {
+          "title": "Rivian spinout Also was working on an e-moto project in Kenya \u2014 until it walked away",
+          "url": "https://finance.yahoo.com/technology/articles/rivian-spinout-working-e-moto-164909122.html",
+          "publisher": "TechCrunch",
+          "published": "2026-11-03T16:49:09Z"
+        },
+        {
+          "title": "How 3 energy companies are managing their c-store portfolios",
+          "url": "https://finance.yahoo.com/energy/articles/3-energy-companies-managing-c-150000819.html",
+          "publisher": "C-Store Dive",
+          "published": "2026-11-03T15:00:00Z"
         }
       ]
     },
@@ -967,6 +993,12 @@
       "market_cap": 52044929144.39241,
       "headlines": [
         {
+          "title": "Zacks.com featured highlights include Entergy, Evergy, Diageo and Lamb Weston",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-com-featured-highlights-entergy-075000763.html",
+          "publisher": "Zacks",
+          "published": "2026-11-04T07:50:00Z"
+        },
+        {
           "title": "4 Companies Just Raised Their Dividends. Which Payout Has the Most Room to Grow?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/4-companies-just-raised-dividends-204745676.html",
           "publisher": "24/7 Wall St.",
@@ -977,12 +1009,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/buy-4-low-beta-defensive-120000464.html",
           "publisher": "Zacks",
           "published": "2026-11-03T12:00:00Z"
-        },
-        {
-          "title": "Entergy Corp (ETR) Q3 2026 Earnings Call Highlights: Strong EPS, Google Expansion, and a ...",
-          "url": "https://finance.yahoo.com/energy/articles/entergy-corp-etr-q3-2026-070158071.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-03T07:01:58Z"
         }
       ]
     },
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 96.53,
-      "change_pct": 0.46
+      "price": 96.32,
+      "change_pct": 0.24
     },
     {
       "label": "Brent",
-      "price": 104.14,
-      "change_pct": 0.52
+      "price": 103.81,
+      "change_pct": 0.2
     },
     {
       "label": "NatGas",
       "price": 2.91,
-      "change_pct": 0.45
+      "change_pct": 0.41
     }
   ]
 }
