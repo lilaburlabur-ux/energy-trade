@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-04T21:16:04+00:00",
-  "as_of_local": "2026-11-04 21:16:04 UTC",
+  "as_of_utc": "2026-11-04T21:20:09+00:00",
+  "as_of_local": "2026-11-04 21:20:09 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -181,6 +181,12 @@
       "market_cap": 166833184292.9306,
       "headlines": [
         {
+          "title": "Earnings live updates: Duolingo stock jumps on user growth, upbeat guidance",
+          "url": "https://finance.yahoo.com/markets/live/earnings-live-updates-apple-palantir-roku-and-more-212856249.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-02T21:28:56Z"
+        },
+        {
           "title": "EOG Resources Earnings Ahead: What Past Reactions Say About The Stock",
           "url": "https://finance.yahoo.com/markets/stocks/articles/eog-resources-earnings-ahead-past-203738155.html",
           "publisher": "Trefis",
@@ -191,12 +197,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/buy-5-low-beta-high-144100092.html",
           "publisher": "Zacks",
           "published": "2026-11-04T14:41:00Z"
-        },
-        {
-          "title": "4 Stocks Trading Near 52-Week High With More Upside Potential",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/4-stocks-trading-near-52-143000406.html",
-          "publisher": "Zacks",
-          "published": "2026-11-04T14:30:00Z"
         }
       ]
     },
@@ -231,9 +231,9 @@
     {
       "symbol": "BP",
       "name": "BP",
-      "price": 45.6,
+      "price": 45.61,
       "previous_close": 47.59,
-      "change_pct": -4.17,
+      "change_pct": -4.16,
       "market_cap": 117475494172.32329,
       "headlines": [
         {
@@ -595,10 +595,10 @@
     {
       "symbol": "EOG",
       "name": "EOG Resources",
-      "price": 147.1,
+      "price": 147.06,
       "previous_close": 155.17,
-      "change_pct": -5.2,
-      "market_cap": 77137259341.97119,
+      "change_pct": -5.23,
+      "market_cap": 78328350321.43738,
       "headlines": [
         {
           "title": "EOG Resources Earnings Ahead: What Past Reactions Say About The Stock",
@@ -1071,9 +1071,9 @@
     {
       "symbol": "EQT",
       "name": "EQT Corp",
-      "price": 52.52,
+      "price": 52.54,
       "previous_close": 54.25,
-      "change_pct": -3.19,
+      "change_pct": -3.15,
       "market_cap": 32866367519.827606,
       "headlines": [
         {
@@ -1155,9 +1155,9 @@
     {
       "symbol": "FTI",
       "name": "TechnipFMC",
-      "price": 64.51,
+      "price": 64.5,
       "previous_close": 66.74,
-      "change_pct": -3.34,
+      "change_pct": -3.36,
       "market_cap": 25079750817.0,
       "headlines": [
         {
@@ -1494,7 +1494,7 @@
       "price": 30.91,
       "previous_close": 30.3,
       "change_pct": 2.01,
-      "market_cap": 9276450313.8666,
+      "market_cap": 9374260031.87376,
       "headlines": [
         {
           "title": "Brookfield Renewable (BEP) Q3 2026 Earnings Call Transcript",
@@ -1631,9 +1631,9 @@
     {
       "symbol": "OKLO",
       "name": "Oklo",
-      "price": 22.11,
+      "price": 22.12,
       "previous_close": 23.49,
-      "change_pct": -5.87,
+      "change_pct": -5.83,
       "market_cap": 4114710574.1122246,
       "headlines": [
         {
@@ -1743,10 +1743,10 @@
     {
       "symbol": "UUUU",
       "name": "Energy Fuels",
-      "price": 7.18,
+      "price": 7.21,
       "previous_close": 7.24,
-      "change_pct": -0.83,
-      "market_cap": 1901464549.3792715,
+      "change_pct": -0.41,
+      "market_cap": 1909409443.082384,
       "headlines": [
         {
           "title": "Should You Buy, Hold or Sell Cameco Stock Post Q3 Earnings?",
@@ -1993,8 +1993,8 @@
           "name": "EOG Resources Inc",
           "short": "EOG Resources",
           "weight_pct": 3.85,
-          "change_pct": -5.2,
-          "price": 147.1,
+          "change_pct": -5.23,
+          "price": 147.06,
           "currency": "USD"
         },
         {
@@ -2092,8 +2092,8 @@
         "name": "EOG Resources Inc",
         "short": "EOG Resources",
         "weight_pct": 3.85,
-        "change_pct": -5.2,
-        "price": 147.1,
+        "change_pct": -5.23,
+        "price": 147.06,
         "currency": "USD"
       },
       {
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 88.54,
-      "change_pct": -7.86
+      "price": 88.56,
+      "change_pct": -7.84
     },
     {
       "label": "Brent",
-      "price": 95.08,
-      "change_pct": -8.22
+      "price": 95.11,
+      "change_pct": -8.19
     },
     {
       "label": "NatGas",
       "price": 2.95,
-      "change_pct": 2.04
+      "change_pct": 1.97
     }
   ]
 }
