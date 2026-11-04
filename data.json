@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-04T08:37:33+00:00",
-  "as_of_local": "2026-11-04 08:37:33 UTC",
+  "as_of_utc": "2026-11-04T08:38:44+00:00",
+  "as_of_local": "2026-11-04 08:38:44 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "SEDG"
+    "PR"
   ],
   "stocks": [
     {
@@ -1239,34 +1239,6 @@
       ]
     },
     {
-      "symbol": "PR",
-      "name": "Permian Resources",
-      "price": 24.0,
-      "previous_close": 24.56,
-      "change_pct": -2.28,
-      "market_cap": 20101368696.0,
-      "headlines": [
-        {
-          "title": "NGL Energy Partners Set to Report Q2 Earnings: What's in Store?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ngl-energy-partners-set-report-135000442.html",
-          "publisher": "Zacks",
-          "published": "2026-11-02T13:50:00Z"
-        },
-        {
-          "title": "Solaris Energy Q3 Earnings Preview: Another Beat Likely?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/solaris-energy-q3-earnings-preview-125300119.html",
-          "publisher": "Zacks",
-          "published": "2026-10-30T12:53:00Z"
-        },
-        {
-          "title": "Texas Pacific Land Set to Report Q3 Earnings: What's in Store?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/texas-pacific-land-set-report-121000850.html",
-          "publisher": "Zacks",
-          "published": "2026-10-30T12:10:00Z"
-        }
-      ]
-    },
-    {
       "symbol": "FSLR",
       "name": "First Solar",
       "price": 185.9,
@@ -2094,13 +2066,13 @@
     },
     {
       "label": "Brent",
-      "price": 103.78,
-      "change_pct": 0.17
+      "price": 103.73,
+      "change_pct": 0.13
     },
     {
       "label": "NatGas",
       "price": 2.9,
-      "change_pct": 0.28
+      "change_pct": 0.31
     }
   ]
 }
