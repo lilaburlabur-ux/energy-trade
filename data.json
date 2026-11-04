@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-04T11:12:25+00:00",
-  "as_of_local": "2026-11-04 11:12:25 UTC",
+  "as_of_utc": "2026-11-04T11:16:44+00:00",
+  "as_of_local": "2026-11-04 11:16:44 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "FANG"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -321,6 +323,12 @@
       "market_cap": 108013204093.88242,
       "headlines": [
         {
+          "title": "New Strong Buy Stocks for November 4th",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/strong-buy-stocks-november-4th-100100731.html",
+          "publisher": "Zacks",
+          "published": "2026-11-04T10:01:00Z"
+        },
+        {
           "title": "Best Income Stocks to Buy for November 4th",
           "url": "https://finance.yahoo.com/markets/stocks/articles/best-income-stocks-buy-november-084100137.html",
           "publisher": "Zacks",
@@ -331,12 +339,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/best-value-stocks-buy-november-083200319.html",
           "publisher": "Zacks",
           "published": "2026-11-04T08:32:00Z"
-        },
-        {
-          "title": "Equinor's Afrodite Gas Discovery: A New Growth Catalyst for EQNR?",
-          "url": "https://finance.yahoo.com/energy/articles/equinors-afrodite-gas-discovery-growth-132200350.html",
-          "publisher": "Zacks",
-          "published": "2026-11-03T13:22:00Z"
         }
       ]
     },
@@ -741,6 +743,12 @@
       "market_cap": 63542134661.375916,
       "headlines": [
         {
+          "title": "New Strong Buy Stocks for November 4th",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/strong-buy-stocks-november-4th-100100731.html",
+          "publisher": "Zacks",
+          "published": "2026-11-04T10:01:00Z"
+        },
+        {
           "title": "What Just Happened To Venture Global Stock?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/just-happened-venture-global-stock-134727025.html",
           "publisher": "Trefis",
@@ -751,12 +759,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/heres-much-youd-invested-1000-123002691.html",
           "publisher": "Zacks",
           "published": "2026-11-03T12:30:02Z"
-        },
-        {
-          "title": "4 Energy Stocks for Midterm Elections That Could Go Either Way",
-          "url": "https://finance.yahoo.com/energy/articles/4-energy-stocks-midterm-elections-220000515.html",
-          "publisher": "Oilprice.com",
-          "published": "2026-11-02T22:00:00Z"
         }
       ]
     },
@@ -897,34 +899,6 @@
           "url": "https://finance.yahoo.com/energy/articles/3-oil-gas-stocks-cash-081013039.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-03T08:10:13Z"
-        }
-      ]
-    },
-    {
-      "symbol": "FANG",
-      "name": "Diamondback Energy",
-      "price": 192.34,
-      "previous_close": 199.74,
-      "change_pct": -3.7,
-      "market_cap": 53859005767.816895,
-      "headlines": [
-        {
-          "title": "Diamondback (FANG) Q3 2026 Earnings Call Transcript",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/diamondback-fang-q3-2026-earnings-204102021.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-03T20:41:02Z"
-        },
-        {
-          "title": "What Diamondback Energy (FANG) Said on Its Q3 Earnings Call",
-          "url": "https://finance.yahoo.com/energy/articles/diamondback-energy-fang-said-q3-181450317.html",
-          "publisher": "MarketBeat",
-          "published": "2026-11-03T18:14:50Z"
-        },
-        {
-          "title": "Diamondback Energy Raises Its Dividend 7.3%. Here\u2019s the Coverage Math",
-          "url": "https://finance.yahoo.com/energy/articles/diamondback-energy-raises-dividend-7-171753507.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-03T17:17:53Z"
         }
       ]
     },
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 95.45,
-      "change_pct": -0.67
+      "price": 95.59,
+      "change_pct": -0.52
     },
     {
       "label": "Brent",
-      "price": 102.47,
-      "change_pct": -1.09
+      "price": 102.57,
+      "change_pct": -0.99
     },
     {
       "label": "NatGas",
       "price": 2.9,
-      "change_pct": 0.24
+      "change_pct": 0.35
     }
   ]
 }
