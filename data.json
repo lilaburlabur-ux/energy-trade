@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-04T12:31:56+00:00",
-  "as_of_local": "2026-11-04 12:31:56 UTC",
+  "as_of_utc": "2026-11-04T12:37:26+00:00",
+  "as_of_local": "2026-11-04 12:37:26 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -206,7 +206,7 @@
       "price": 391.7,
       "previous_close": 366.07,
       "change_pct": 7.0,
-      "market_cap": 152097114739.99023,
+      "market_cap": 152136284741.21094,
       "headlines": [
         {
           "title": "What Does Eaton (ETN) Winning Record Q3 Results And A New Deal Change?",
@@ -225,34 +225,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/eaton-q3-earnings-call-highlights-051410047.html",
           "publisher": "MarketBeat",
           "published": "2026-11-04T05:14:10Z"
-        }
-      ]
-    },
-    {
-      "symbol": "MPC",
-      "name": "Marathon Petroleum",
-      "price": 427.34,
-      "previous_close": 430.39,
-      "change_pct": -0.71,
-      "market_cap": 124756200531.79611,
-      "headlines": [
-        {
-          "title": "Marathon Petroleum Corp (MPC) Q3 2026 Earnings Call Highlights: Record 100% Refinery ...",
-          "url": "https://finance.yahoo.com/energy/articles/marathon-petroleum-corp-mpc-q3-110501543.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-04T11:05:01Z"
-        },
-        {
-          "title": "CVR Energy Prices $500 Million Common Stock Offering at $47.55 a Share",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/cvr-energy-prices-500-million-091631857.html",
-          "publisher": "MT Newswires",
-          "published": "2026-11-04T09:16:31Z"
-        },
-        {
-          "title": "CVR Energy to acquire two US refineries from Marathon for $4.2bn",
-          "url": "https://finance.yahoo.com/news/cvr-energy-acquire-two-us-081523522.html",
-          "publisher": "Offshore Technology",
-          "published": "2026-11-04T08:15:23Z"
         }
       ]
     },
@@ -281,6 +253,34 @@
           "url": "https://finance.yahoo.com/energy/articles/bp-appoints-former-shell-executive-082200273.html",
           "publisher": "Oilprice.com",
           "published": "2026-11-04T08:22:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "MPC",
+      "name": "Marathon Petroleum",
+      "price": 427.34,
+      "previous_close": 430.39,
+      "change_pct": -0.71,
+      "market_cap": 120007653192.009,
+      "headlines": [
+        {
+          "title": "Marathon Petroleum Corp (MPC) Q3 2026 Earnings Call Highlights: Record 100% Refinery ...",
+          "url": "https://finance.yahoo.com/energy/articles/marathon-petroleum-corp-mpc-q3-110501543.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-04T11:05:01Z"
+        },
+        {
+          "title": "CVR Energy Prices $500 Million Common Stock Offering at $47.55 a Share",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/cvr-energy-prices-500-million-091631857.html",
+          "publisher": "MT Newswires",
+          "published": "2026-11-04T09:16:31Z"
+        },
+        {
+          "title": "CVR Energy to acquire two US refineries from Marathon for $4.2bn",
+          "url": "https://finance.yahoo.com/news/cvr-energy-acquire-two-us-081523522.html",
+          "publisher": "Offshore Technology",
+          "published": "2026-11-04T08:15:23Z"
         }
       ]
     },
@@ -570,7 +570,7 @@
       "price": 155.17,
       "previous_close": 157.89,
       "change_pct": -1.72,
-      "market_cap": 82647968024.82803,
+      "market_cap": 81391191279.4784,
       "headlines": [
         {
           "title": "What Just Happened To Devon Energy Stock?",
@@ -1046,7 +1046,7 @@
       "price": 72.81,
       "previous_close": 74.38,
       "change_pct": -2.11,
-      "market_cap": 36282780063.015015,
+      "market_cap": 36289961167.45422,
       "headlines": [
         {
           "title": "How Earnings Miss Will Impact PSEG Stock Investors",
@@ -1494,7 +1494,7 @@
       "price": 30.3,
       "previous_close": 30.05,
       "change_pct": 0.83,
-      "market_cap": 9189261508.118801,
+      "market_cap": 9093382038.833,
       "headlines": [
         {
           "title": "Brookfield Renewable: Q3 Earnings Snapshot",
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 94.94,
-      "change_pct": -1.2
+      "price": 94.65,
+      "change_pct": -1.5
     },
     {
       "label": "Brent",
-      "price": 101.98,
-      "change_pct": -1.56
+      "price": 101.64,
+      "change_pct": -1.89
     },
     {
       "label": "NatGas",
-      "price": 2.89,
-      "change_pct": -0.07
+      "price": 2.9,
+      "change_pct": 0.07
     }
   ]
 }
