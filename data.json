@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-04T13:02:42+00:00",
-  "as_of_local": "2026-11-04 13:02:42 UTC",
+  "as_of_utc": "2026-11-04T13:07:45+00:00",
+  "as_of_local": "2026-11-04 13:07:45 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -13,6 +13,12 @@
       "market_cap": 723859367385.8643,
       "headlines": [
         {
+          "title": "Buy, Sell, or Hold? Wednesday\u2019s Top Upgrades and Downgrades: Adobe, Apple, Duolingo, Exxon Mobil, Fiserv, Fortinet, Gartner, Lockheed Martin, Skyworks Solutions, Visa and More",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/buy-sell-hold-wednesday-top-125138202.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-04T12:51:38Z"
+        },
+        {
           "title": "What iShares Core High Dividend (HDV) Bought: Exxon Leads on Nov. 2",
           "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-core-high-dividend-hdv-110609910.html",
           "publisher": "GuruFocus.com",
@@ -23,12 +29,6 @@
           "url": "https://finance.yahoo.com/energy/articles/state-street-energy-select-sector-110544981.html",
           "publisher": "GuruFocus.com",
           "published": "2026-11-04T11:05:44Z"
-        },
-        {
-          "title": "BP hires Shell executive Emma Lewis to lead downstream unit",
-          "url": "https://finance.yahoo.com/energy/articles/bp-hires-shell-executive-emma-091915376.html",
-          "publisher": "Investing.com",
-          "published": "2026-11-04T09:19:15Z"
         }
       ]
     },
@@ -1861,6 +1861,12 @@
       "market_cap": 713754373.3819628,
       "headlines": [
         {
+          "title": "FTC Solar (FTCI) Reports Q3 Loss, Tops Revenue Estimates",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ftc-solar-ftci-reports-q3-115002255.html",
+          "publisher": "Zacks",
+          "published": "2026-11-04T11:50:02Z"
+        },
+        {
           "title": "3 Clean Energy Stocks Retail Investors Are Watching After The 2026 Blue Wave Shift",
           "url": "https://finance.yahoo.com/energy/articles/3-clean-energy-stocks-retail-171229818.html",
           "publisher": "Simply Wall St.",
@@ -1871,12 +1877,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/first-solars-q3-earnings-beat-141500345.html",
           "publisher": "Zacks",
           "published": "2026-10-30T14:15:00Z"
-        },
-        {
-          "title": "Array Technologies, Inc. (ARRY) Expected to Beat Earnings Estimates: Can the Stock Move Higher?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/array-technologies-inc-arry-expected-130021621.html",
-          "publisher": "Zacks",
-          "published": "2026-10-29T13:00:21Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 94.96,
-      "change_pct": -1.18
+      "price": 94.73,
+      "change_pct": -1.42
     },
     {
       "label": "Brent",
-      "price": 102.29,
-      "change_pct": -1.26
+      "price": 102.09,
+      "change_pct": -1.46
     },
     {
       "label": "NatGas",
       "price": 2.93,
-      "change_pct": 1.11
+      "change_pct": 1.14
     }
   ]
 }
