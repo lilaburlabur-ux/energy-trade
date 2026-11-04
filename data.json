@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-04T02:57:26+00:00",
-  "as_of_local": "2026-11-04 02:57:26 UTC",
+  "as_of_utc": "2026-11-04T03:12:33+00:00",
+  "as_of_local": "2026-11-04 03:12:33 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "FLNC"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1825,34 +1827,6 @@
       ]
     },
     {
-      "symbol": "FLNC",
-      "name": "Fluence Energy",
-      "price": 5.5,
-      "previous_close": 5.21,
-      "change_pct": 5.57,
-      "market_cap": 787399734.0,
-      "headlines": [
-        {
-          "title": "Fluence Energy names interim CEO, CFO amid supply chain hiccups",
-          "url": "https://finance.yahoo.com/energy/articles/fluence-energy-names-interim-ceo-203323572.html",
-          "publisher": "CFO Dive",
-          "published": "2026-11-03T20:33:23Z"
-        },
-        {
-          "title": "Enlight Renewable Energy Ltd. (ENLT) Q3 Earnings and Revenues Top Estimates",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/enlight-renewable-energy-ltd-enlt-112502901.html",
-          "publisher": "Zacks",
-          "published": "2026-11-03T11:25:02Z"
-        },
-        {
-          "title": "Fluence Energy Stock Drops on Leadership Overhaul",
-          "url": "https://www.barrons.com/articles/fluence-energy-stock-ceo-cfo-bb8afc00?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-11-02T17:39:00Z"
-        }
-      ]
-    },
-    {
       "symbol": "ARRY",
       "name": "Array Technologies",
       "price": 4.64,
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 94.94,
-      "change_pct": -1.58
+      "price": 95.25,
+      "change_pct": -1.25
     },
     {
       "label": "Brent",
-      "price": 102.65,
-      "change_pct": -2.02
+      "price": 102.97,
+      "change_pct": -1.72
     },
     {
       "label": "NatGas",
       "price": 2.85,
-      "change_pct": -0.25
+      "change_pct": -0.21
     }
   ]
 }
