@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-04T06:48:48+00:00",
-  "as_of_local": "2026-11-04 06:48:48 UTC",
+  "as_of_utc": "2026-11-04T06:54:09+00:00",
+  "as_of_local": "2026-11-04 06:54:09 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "DINO"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1293,34 +1295,6 @@
       ]
     },
     {
-      "symbol": "DINO",
-      "name": "HF Sinclair",
-      "price": 113.36,
-      "previous_close": 111.66,
-      "change_pct": 1.52,
-      "market_cap": 19426635255.636658,
-      "headlines": [
-        {
-          "title": "HF Sinclair (DINO) Just Gave Investors Something To Think About",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/hf-sinclair-dino-just-gave-061549050.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-04T06:15:49Z"
-        },
-        {
-          "title": "HF Sinclair (DINO) Stock May Be Rich On Separation And Dividend News",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/hf-sinclair-dino-stock-may-051914304.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-04T05:19:14Z"
-        },
-        {
-          "title": "Oil Edges Lower As U.S. Bombs Iran Before Election Day",
-          "url": "https://www.investors.com/news/oil-prices-us-iran-hormuz-trump-exxon-chevron-midterm-election/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-11-03T21:07:20Z"
-        }
-      ]
-    },
-    {
       "symbol": "OVV",
       "name": "Ovintiv",
       "price": 66.43,
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 96.25,
-      "change_pct": 0.17
+      "price": 96.18,
+      "change_pct": 0.09
     },
     {
       "label": "Brent",
-      "price": 103.96,
-      "change_pct": 0.35
+      "price": 103.85,
+      "change_pct": 0.24
     },
     {
       "label": "NatGas",
-      "price": 2.89,
-      "change_pct": -0.07
+      "price": 2.9,
+      "change_pct": 0.21
     }
   ]
 }
