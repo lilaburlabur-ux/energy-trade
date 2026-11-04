@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-04T11:21:16+00:00",
-  "as_of_local": "2026-11-04 11:21:16 UTC",
+  "as_of_utc": "2026-11-04T11:26:08+00:00",
+  "as_of_local": "2026-11-04 11:26:08 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "BE"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -206,7 +208,7 @@
       "price": 391.7,
       "previous_close": 366.07,
       "change_pct": 7.0,
-      "market_cap": 152097114739.99023,
+      "market_cap": 152136284741.21094,
       "headlines": [
         {
           "title": "Eaton Q3 Earnings Call Highlights",
@@ -225,34 +227,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/eaton-etn-q3-2026-earnings-211713098.html",
           "publisher": "Motley Fool",
           "published": "2026-11-03T21:17:13Z"
-        }
-      ]
-    },
-    {
-      "symbol": "MPC",
-      "name": "Marathon Petroleum",
-      "price": 427.34,
-      "previous_close": 430.39,
-      "change_pct": -0.71,
-      "market_cap": 124756200531.79611,
-      "headlines": [
-        {
-          "title": "CVR Energy Prices $500 Million Common Stock Offering at $47.55 a Share",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/cvr-energy-prices-500-million-091631857.html",
-          "publisher": "MT Newswires",
-          "published": "2026-11-04T09:16:31Z"
-        },
-        {
-          "title": "CVR Energy to acquire two US refineries from Marathon for $4.2bn",
-          "url": "https://finance.yahoo.com/news/cvr-energy-acquire-two-us-081523522.html",
-          "publisher": "Offshore Technology",
-          "published": "2026-11-04T08:15:23Z"
-        },
-        {
-          "title": "What Marathon Petroleum (MPC) Said on Its Q3 Earnings Call",
-          "url": "https://finance.yahoo.com/energy/articles/marathon-petroleum-mpc-said-q3-061415963.html",
-          "publisher": "MarketBeat",
-          "published": "2026-11-04T06:14:15Z"
         }
       ]
     },
@@ -281,6 +255,34 @@
           "url": "https://finance.yahoo.com/energy/articles/bp-appoints-former-shell-executive-082200273.html",
           "publisher": "Oilprice.com",
           "published": "2026-11-04T08:22:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "MPC",
+      "name": "Marathon Petroleum",
+      "price": 427.34,
+      "previous_close": 430.39,
+      "change_pct": -0.71,
+      "market_cap": 120007653192.009,
+      "headlines": [
+        {
+          "title": "CVR Energy Prices $500 Million Common Stock Offering at $47.55 a Share",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/cvr-energy-prices-500-million-091631857.html",
+          "publisher": "MT Newswires",
+          "published": "2026-11-04T09:16:31Z"
+        },
+        {
+          "title": "CVR Energy to acquire two US refineries from Marathon for $4.2bn",
+          "url": "https://finance.yahoo.com/news/cvr-energy-acquire-two-us-081523522.html",
+          "publisher": "Offshore Technology",
+          "published": "2026-11-04T08:15:23Z"
+        },
+        {
+          "title": "What Marathon Petroleum (MPC) Said on Its Q3 Earnings Call",
+          "url": "https://finance.yahoo.com/energy/articles/marathon-petroleum-mpc-said-q3-061415963.html",
+          "publisher": "MarketBeat",
+          "published": "2026-11-04T06:14:15Z"
         }
       ]
     },
@@ -570,7 +572,7 @@
       "price": 155.17,
       "previous_close": 157.89,
       "change_pct": -1.72,
-      "market_cap": 82647968024.82803,
+      "market_cap": 81391191279.4784,
       "headlines": [
         {
           "title": "What Just Happened To Devon Energy Stock?",
@@ -685,6 +687,12 @@
       "market_cap": 69416919430.75418,
       "headlines": [
         {
+          "title": "Energy Transfer sanctions $1.6bn South Mississippi pipeline project",
+          "url": "https://finance.yahoo.com/news/energy-transfer-sanctions-1-6bn-110714154.html",
+          "publisher": "Offshore Technology",
+          "published": "2026-11-04T11:07:14Z"
+        },
+        {
           "title": "Energy Transfer Q3 Earnings Call Highlights",
           "url": "https://finance.yahoo.com/energy/articles/energy-transfer-q3-earnings-call-091414492.html",
           "publisher": "MarketBeat",
@@ -695,12 +703,6 @@
           "url": "https://finance.yahoo.com/energy/articles/energy-transfer-lp-q3-2026-183721183.html",
           "publisher": "Moby",
           "published": "2026-11-03T18:37:21Z"
-        },
-        {
-          "title": "Energy Transfer Just Delivered a Monster Quarter. Is Its High-Yielding Stock a Buy?",
-          "url": "https://finance.yahoo.com/energy/articles/energy-transfer-just-delivered-monster-183002298.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-03T18:30:02Z"
         }
       ]
     },
@@ -757,34 +759,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/heres-much-youd-invested-1000-123002691.html",
           "publisher": "Zacks",
           "published": "2026-11-03T12:30:02Z"
-        }
-      ]
-    },
-    {
-      "symbol": "BE",
-      "name": "Bloom Energy",
-      "price": 214.01,
-      "previous_close": 196.25,
-      "change_pct": 9.05,
-      "market_cap": 63247918186.73558,
-      "headlines": [
-        {
-          "title": "Stock Market Election News: Dow Futures Reverse Higher, AMD, Arista Rally After Democrats Sweep; SpaceX, Tesla Are Losers (Live)",
-          "url": "https://www.investors.com/market-trend/stock-market-today/stock-market-election-night-dow-jones-futures-ai-oil-prices-elon-musk-amd/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-11-04T11:14:38Z"
-        },
-        {
-          "title": "Bloom Energy's New Guidance Implies Up to $1.55 Billion in Q4 Revenue. Can It Deliver?",
-          "url": "https://finance.yahoo.com/energy/articles/bloom-energys-guidance-implies-1-110500332.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-04T11:05:00Z"
-        },
-        {
-          "title": "Bloom Energy Is Up 146% in 2026: Take Profits, or Buy More?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-146-2026-profits-042145606.html",
-          "publisher": "TIKR",
-          "published": "2026-11-04T04:21:45Z"
         }
       ]
     },
@@ -1046,7 +1020,7 @@
       "price": 72.81,
       "previous_close": 74.38,
       "change_pct": -2.11,
-      "market_cap": 36282780063.015015,
+      "market_cap": 36289961167.45422,
       "headlines": [
         {
           "title": "How Earnings Miss Will Impact PSEG Stock Investors",
@@ -1494,7 +1468,7 @@
       "price": 30.3,
       "previous_close": 30.05,
       "change_pct": 0.83,
-      "market_cap": 9189261508.118801,
+      "market_cap": 9093382038.833,
       "headlines": [
         {
           "title": "If I Could Only Buy 1 AI Power Stock for the Next Decade, It Wouldn't Be Bloom Energy or GE Vernova",
@@ -1721,6 +1695,12 @@
       "market_cap": 2070607883.959465,
       "headlines": [
         {
+          "title": "What Could Surprise Tesla Stock Investors On The Upside?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/could-surprise-tesla-stock-investors-110620452.html",
+          "publisher": "Trefis",
+          "published": "2026-11-04T11:06:20Z"
+        },
+        {
           "title": "Sunrun Fell 55% While Sales Rose",
           "url": "https://finance.yahoo.com/markets/stocks/articles/sunrun-fell-55-while-sales-091531715.html",
           "publisher": "Simply Wall St.",
@@ -1731,12 +1711,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/enphase-surges-9-sunrun-climbs-185053309.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-03T18:50:53Z"
-        },
-        {
-          "title": "Curious about Sunrun (RUN) Q3 Performance? Explore Wall Street Estimates for Key Metrics",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/curious-sunrun-run-q3-performance-131504409.html",
-          "publisher": "Zacks",
-          "published": "2026-11-03T13:15:04Z"
         }
       ]
     },
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 95.5,
-      "change_pct": -0.61
+      "price": 95.38,
+      "change_pct": -0.74
     },
     {
       "label": "Brent",
-      "price": 102.53,
-      "change_pct": -1.03
+      "price": 102.43,
+      "change_pct": -1.13
     },
     {
       "label": "NatGas",
-      "price": 2.9,
-      "change_pct": 0.35
+      "price": 2.91,
+      "change_pct": 0.38
     }
   ]
 }
