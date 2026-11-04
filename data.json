@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-04T11:46:21+00:00",
-  "as_of_local": "2026-11-04 11:46:21 UTC",
+  "as_of_utc": "2026-11-04T11:51:24+00:00",
+  "as_of_local": "2026-11-04 11:51:24 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -125,6 +125,12 @@
       "market_cap": 203748972891.42136,
       "headlines": [
         {
+          "title": "Saft Unveils EnerShift, an Integrated Solution Combining Battery Storage, Energy Trading, and Financing",
+          "url": "https://finance.yahoo.com/energy/articles/saft-unveils-enershift-integrated-solution-113921129.html",
+          "publisher": "POWER Magazine",
+          "published": "2026-11-04T11:39:21Z"
+        },
+        {
           "title": "If You Ride the TotalEnergies Stock Merry-Go-Round, Make Sure You Have an Exit Plan",
           "url": "https://finance.yahoo.com/markets/stocks/articles/ride-totalenergies-stock-merry-round-192503426.html",
           "publisher": "Barchart",
@@ -135,12 +141,6 @@
           "url": "https://finance.yahoo.com/energy/articles/energy-transfer-q3-earnings-miss-144400119.html",
           "publisher": "Zacks",
           "published": "2026-11-03T14:44:00Z"
-        },
-        {
-          "title": "ADNOC Gas to Supply LNG to TotalEnergies Under Five-Year Deal",
-          "url": "https://finance.yahoo.com/energy/articles/adnoc-gas-supply-lng-totalenergies-123000680.html",
-          "publisher": "Oilprice.com",
-          "published": "2026-11-03T12:30:00Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 95.35,
-      "change_pct": -0.77
+      "price": 95.21,
+      "change_pct": -0.92
     },
     {
       "label": "Brent",
-      "price": 102.43,
-      "change_pct": -1.13
+      "price": 102.33,
+      "change_pct": -1.23
     },
     {
       "label": "NatGas",
       "price": 2.9,
-      "change_pct": 0.28
+      "change_pct": 0.1
     }
   ]
 }
