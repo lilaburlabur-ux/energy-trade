@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-04T11:05:37+00:00",
-  "as_of_local": "2026-11-04 11:05:37 UTC",
+  "as_of_utc": "2026-11-04T11:12:25+00:00",
+  "as_of_local": "2026-11-04 11:12:25 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -657,6 +657,12 @@
       "market_cap": 73224997197.77342,
       "headlines": [
         {
+          "title": "ETFs Are Net Sellers of Kinder Morgan (KMI) on Nov. 2",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-kinder-morgan-110234073.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-04T11:02:34Z"
+        },
+        {
           "title": "CLB Q3 Earnings Miss Estimates on Higher Costs and Disruptions",
           "url": "https://finance.yahoo.com/energy/articles/clb-q3-earnings-miss-estimates-155400926.html",
           "publisher": "Zacks",
@@ -667,12 +673,6 @@
           "url": "https://finance.yahoo.com/energy/articles/3-oil-gas-stocks-cash-081013039.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-03T08:10:13Z"
-        },
-        {
-          "title": "Better Dividend Stock: Kinder Morgan vs. ONEOK",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/better-dividend-stock-kinder-morgan-180423365.html",
-          "publisher": "TIKR",
-          "published": "2026-11-02T18:04:23Z"
         }
       ]
     },
@@ -769,6 +769,12 @@
       "market_cap": 63247918186.73558,
       "headlines": [
         {
+          "title": "Bloom Energy's New Guidance Implies Up to $1.55 Billion in Q4 Revenue. Can It Deliver?",
+          "url": "https://finance.yahoo.com/energy/articles/bloom-energys-guidance-implies-1-110500332.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-04T11:05:00Z"
+        },
+        {
           "title": "Bloom Energy Is Up 146% in 2026: Take Profits, or Buy More?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-146-2026-profits-042145606.html",
           "publisher": "TIKR",
@@ -779,12 +785,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/stock-heads-best-week-over-011013856.html",
           "publisher": "Stocktwits",
           "published": "2026-11-04T01:10:13Z"
-        },
-        {
-          "title": "Apple, Palantir, Pfizer, Marvell, AMD, Bloom Energy, Gartner, and More Stocks That Explain Today\u2019s Market",
-          "url": "https://www.barrons.com/articles/stock-movers-0b42bd79?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-11-03T21:16:00Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 95.27,
-      "change_pct": -0.85
+      "price": 95.45,
+      "change_pct": -0.67
     },
     {
       "label": "Brent",
-      "price": 102.28,
-      "change_pct": -1.27
+      "price": 102.47,
+      "change_pct": -1.09
     },
     {
       "label": "NatGas",
-      "price": 2.89,
-      "change_pct": -0.03
+      "price": 2.9,
+      "change_pct": 0.24
     }
   ]
 }
