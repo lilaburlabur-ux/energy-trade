@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-04T01:47:04+00:00",
-  "as_of_local": "2026-11-04 01:47:04 UTC",
+  "as_of_utc": "2026-11-04T01:52:06+00:00",
+  "as_of_local": "2026-11-04 01:52:06 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -517,6 +517,12 @@
       "market_cap": 89087224510.05,
       "headlines": [
         {
+          "title": "Suncor Profit More Than Doubles as Cash Flow Hits Record High",
+          "url": "https://finance.yahoo.com/energy/articles/suncor-profit-more-doubles-cash-014813868.html",
+          "publisher": "Oilprice.com",
+          "published": "2026-11-04T01:48:13Z"
+        },
+        {
           "title": "Suncor Energy (SU) Q3 Earnings: Taking a Look at Key Metrics Versus Estimates",
           "url": "https://finance.yahoo.com/energy/articles/suncor-energy-su-q3-earnings-000002754.html",
           "publisher": "Zacks",
@@ -527,12 +533,6 @@
           "url": "https://finance.yahoo.com/energy/articles/suncor-energy-su-q3-earnings-235508113.html",
           "publisher": "Zacks",
           "published": "2026-11-03T23:55:08Z"
-        },
-        {
-          "title": "Suncor Energy: Q3 Earnings Snapshot",
-          "url": "https://finance.yahoo.com/energy/articles/suncor-energy-q3-earnings-snapshot-223740881.html",
-          "publisher": "Associated Press",
-          "published": "2026-11-03T22:37:40Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 95.99,
-      "change_pct": -0.49
+      "price": 95.62,
+      "change_pct": -0.87
     },
     {
       "label": "Brent",
-      "price": 103.77,
-      "change_pct": -0.95
+      "price": 103.36,
+      "change_pct": -1.35
     },
     {
       "label": "NatGas",
       "price": 2.89,
-      "change_pct": 1.12
+      "change_pct": 1.05
     }
   ]
 }
