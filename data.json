@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-04T21:29:38+00:00",
-  "as_of_local": "2026-11-04 21:29:38 UTC",
+  "as_of_utc": "2026-11-04T21:34:46+00:00",
+  "as_of_local": "2026-11-04 21:34:46 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -181,7 +181,7 @@
       "market_cap": 166833184292.9306,
       "headlines": [
         {
-          "title": "Earnings live updates: Duolingo stock jumps on user growth, upbeat guidance",
+          "title": "Earnings live updates: Cava stock falls after cyclospora outbreak dented Q3 results",
           "url": "https://finance.yahoo.com/markets/live/earnings-live-updates-apple-palantir-roku-and-more-212856249.html",
           "publisher": "Yahoo Finance",
           "published": "2026-11-02T21:28:56Z"
@@ -598,7 +598,7 @@
       "price": 147.06,
       "previous_close": 155.17,
       "change_pct": -5.23,
-      "market_cap": 77137259341.97119,
+      "market_cap": 78328350321.43738,
       "headlines": [
         {
           "title": "EOG Resources Earnings Ahead: What Past Reactions Say About The Stock",
@@ -1161,6 +1161,12 @@
       "market_cap": 25079750817.0,
       "headlines": [
         {
+          "title": "Top Research Reports for Microsoft, SpaceX & Marvell",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/top-research-reports-microsoft-spacex-202500966.html",
+          "publisher": "Zacks",
+          "published": "2026-11-04T20:25:00Z"
+        },
+        {
           "title": "3 LNG Stocks Retail Investors May Watch As Egypt Gas Imports Tighten Supply",
           "url": "https://finance.yahoo.com/energy/articles/3-lng-stocks-retail-investors-031758364.html",
           "publisher": "Simply Wall St.",
@@ -1171,12 +1177,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-core-p-mid-cap-110615340.html",
           "publisher": "GuruFocus.com",
           "published": "2026-11-02T11:06:15Z"
-        },
-        {
-          "title": "FTI Q3 deep dive: margin expansion and offshore partnerships face investor scrutiny",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/fti-q3-deep-dive-margin-033100777.html",
-          "publisher": "StockStory",
-          "published": "2026-11-01T03:31:00Z"
         }
       ]
     },
@@ -1494,7 +1494,7 @@
       "price": 30.91,
       "previous_close": 30.3,
       "change_pct": 2.01,
-      "market_cap": 9276450313.8666,
+      "market_cap": 9374260031.87376,
       "headlines": [
         {
           "title": "Brookfield Renewable (BEP) Q3 2026 Earnings Call Transcript",
@@ -1743,10 +1743,10 @@
     {
       "symbol": "UUUU",
       "name": "Energy Fuels",
-      "price": 7.21,
+      "price": 7.18,
       "previous_close": 7.24,
-      "change_pct": -0.41,
-      "market_cap": 1909409443.082384,
+      "change_pct": -0.83,
+      "market_cap": 1901464549.3792715,
       "headlines": [
         {
           "title": "Should You Buy, Hold or Sell Cameco Stock Post Q3 Earnings?",
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 88.54,
-      "change_pct": -7.86
+      "price": 88.45,
+      "change_pct": -7.95
     },
     {
       "label": "Brent",
-      "price": 95.07,
-      "change_pct": -8.23
+      "price": 95.02,
+      "change_pct": -8.28
     },
     {
       "label": "NatGas",
       "price": 2.95,
-      "change_pct": 1.87
+      "change_pct": 1.9
     }
   ]
 }
