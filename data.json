@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-04T21:55:10+00:00",
-  "as_of_local": "2026-11-04 21:55:10 UTC",
+  "as_of_utc": "2026-11-04T22:00:03+00:00",
+  "as_of_local": "2026-11-04 22:00:03 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -41,12 +41,6 @@
       "market_cap": 423288973098.7549,
       "headlines": [
         {
-          "title": "Stock Market Today: Dow Soars 1,500 Points; Microsoft Surges Off This Entry (Live Coverage)",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-election-results-elon-musk-spacex-tesla-amd/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-11-04T20:10:38Z"
-        },
-        {
           "title": "Chevron Stocks Move Lower Refining Supplies Most of the Profit Increase",
           "url": "https://finance.yahoo.com/markets/stocks/articles/chevron-stocks-move-lower-refining-182737164.html",
           "publisher": "GuruFocus.com",
@@ -57,6 +51,12 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/turn-250-000-nearly-1-181756261.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-04T18:17:56Z"
+        },
+        {
+          "title": "BP Stock Gains 40.6% in a Year: Should You Bet on the Stock Now?",
+          "url": "https://finance.yahoo.com/energy/articles/bp-stock-gains-40-6-164900473.html",
+          "publisher": "Zacks",
+          "published": "2026-11-04T16:49:00Z"
         }
       ]
     },
@@ -97,6 +97,12 @@
       "market_cap": 220431005400.0697,
       "headlines": [
         {
+          "title": "Dow Jones Futures: Elections, Plunging Oil Fuel Big Rally; Apple, Microsoft, Amazon Flash Buy Signals. CoreWeave, SpaceX Skid.",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-elections-oil-apple-microsoft-amazon-buy-signals-coreweave-spacex-skid/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-11-04T21:53:05Z"
+        },
+        {
           "title": "AI Data Center Backlash Is Real. The Blue Wave Takes Out Energy Stocks.",
           "url": "https://www.barrons.com/articles/ai-data-center-energy-utility-stocks-elections-37e63a25?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
@@ -107,12 +113,6 @@
           "url": "https://www.barrons.com/articles/ge-vernova-vertiv-eaton-ai-industrials-stocks-bf41f4bc?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
           "published": "2026-11-04T18:40:00Z"
-        },
-        {
-          "title": "Data Center Stocks Just Plunged After the Midterms. Is It Time to Buy the Dip?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/data-center-stocks-just-plunged-164850777.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-04T16:48:50Z"
         }
       ]
     },
@@ -489,6 +489,12 @@
       "market_cap": 85060884496.56451,
       "headlines": [
         {
+          "title": "Suncor Energy (SU) Q3 2026 Earnings Call Transcript",
+          "url": "https://finance.yahoo.com/energy/articles/suncor-energy-su-q3-2026-214925017.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-04T21:49:25Z"
+        },
+        {
           "title": "Suncor, Cenovus ride refining boom to record-setting results",
           "url": "https://finance.yahoo.com/news/suncor-cenovus-ride-refining-boom-191724446.html",
           "publisher": "Financial Post",
@@ -499,12 +505,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/buy-5-low-beta-high-144100092.html",
           "publisher": "Zacks",
           "published": "2026-11-04T14:41:00Z"
-        },
-        {
-          "title": "Suncor rewards investors as it rakes in record cash",
-          "url": "https://finance.yahoo.com/news/suncor-rewards-investors-rakes-record-133812984.html",
-          "publisher": "Financial Post",
-          "published": "2026-11-04T13:38:12Z"
         }
       ]
     },
@@ -598,7 +598,7 @@
       "price": 147.06,
       "previous_close": 155.17,
       "change_pct": -5.23,
-      "market_cap": 78328350321.43738,
+      "market_cap": 77137259341.97119,
       "headlines": [
         {
           "title": "EOG Resources Earnings Ahead: What Past Reactions Say About The Stock",
@@ -1494,7 +1494,7 @@
       "price": 30.91,
       "previous_close": 30.3,
       "change_pct": 2.01,
-      "market_cap": 9374260031.87376,
+      "market_cap": 9276450313.8666,
       "headlines": [
         {
           "title": "Brookfield Renewable (BEP) Q3 2026 Earnings Call Transcript",
@@ -2115,18 +2115,13 @@
     },
     {
       "label": "WTI",
-      "price": 88.35,
-      "change_pct": -8.05
+      "price": 88.18,
+      "change_pct": -8.23
     },
     {
       "label": "Brent",
-      "price": 94.88,
-      "change_pct": -8.42
-    },
-    {
-      "label": "NatGas",
-      "price": 2.95,
-      "change_pct": 1.97
+      "price": 94.75,
+      "change_pct": -8.54
     }
   ]
 }
