@@ -15,8 +15,8 @@ Signed file: `HAL.research.04.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-8.12%) with negative half-year (-18.24%). |
-| Fresh setup quality | Moderate / wait | -23.15% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-8.13%) with negative half-year (-18.25%). |
+| Fresh setup quality | Moderate / wait | -23.16% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 8.90%, revenue growth 1.80%. |
 | Value attractiveness | Reasonable | Forward P/E 11.15, EV/Sales 1.54. |
 | Risk level | Elevated | Beta 0.75, ATR 3.3% of price, short float 5.44%. |
@@ -44,20 +44,20 @@ Halliburton Company provides products and services to the energy industry worldw
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $32.74; 52w high $42.60 (-23.15%); 52w low $25.11 (+30.38%) |
-| Trend | -8.12% vs SMA200, -4.26% vs SMA50, -3.52% vs SMA20 |
+| Price vs 52-week range | Close $32.74; 52w high $42.60 (-23.16%); 52w low $25.11 (+30.36%) |
+| Trend | -8.13% vs SMA200, -4.27% vs SMA50, -3.54% vs SMA20 |
 | Momentum | RSI(14) 41.3 (neutral) |
 | Volatility | ATR(14) 1.07 (~3.3% of price); beta 0.75 |
-| Setup perspective | -23.15% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -23.16% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -8.4% |
-| Month | +0.1% |
+| Week | -8.5% |
+| Month | +0.0% |
 | Quarter | +1.2% |
-| Half Y | -18.2% |
+| Half Y | -18.3% |
 | 1Y | +22.9% |
 | YTD | +12.1% |
 
@@ -68,7 +68,7 @@ Halliburton Company provides products and services to the energy industry worldw
 | Revenue (ttm) | $22.48B | Revenue growth 1.80% y/y |
 | Profitability | Gross 14.82%, operating 12.43%, net 8.90% | ROA 7.23%, ROE 18.78% |
 | Balance sheet | Cash $1.84B, debt $8.20B | Current ratio 2.02, debt/equity 73.45 |
-| Valuation | P/E 13.76, forward P/E 11.15, P/S 1.20, P/B 2.44 | EV/Sales 1.54, EV/EBITDA 8.35 |
+| Valuation | P/E 13.75, forward P/E 11.15, P/S 1.20, P/B 2.43 | EV/Sales 1.54, EV/EBITDA 8.35 |
 | Growth expectations | Earnings growth 2400.00%, EPS q/q 2216.70% | Analyst mean target $43.68 (25 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -116,16 +116,16 @@ Halliburton Company provides products and services to the energy industry worldw
 | Beta | 0.75 | Gross margin | 14.82% |
 | RSI(14) | 41.3 | Operating margin | 12.43% |
 | ATR(14) | 1.07 | Profit margin | 8.90% |
-| SMA20 dist | -3.52% | ROA | 7.23% |
-| SMA50 dist | -4.26% | ROE | 18.78% |
-| SMA200 dist | -8.12% | Revenue (ttm) | $22.48B |
+| SMA20 dist | -3.54% | ROA | 7.23% |
+| SMA50 dist | -4.27% | ROE | 18.78% |
+| SMA200 dist | -8.13% | Revenue (ttm) | $22.48B |
 | 52W high | $42.60 | Revenue growth y/y | 1.80% |
 | 52W low | $25.11 | Inst. ownership | 91.45% |
-| P/E (ttm) | 13.76 | Insider ownership | 0.40% |
+| P/E (ttm) | 13.75 | Insider ownership | 0.40% |
 | Forward P/E | 11.15 | Short float | 5.44% |
 | PEG (trailing) | 0.69 | Avg volume | 10,367,978 |
 | P/S | 1.20 | Employees | 46,000 |
-| P/B | 2.44 | Analyst rec (1=buy..5=sell) | 1.7 |
+| P/B | 2.43 | Analyst rec (1=buy..5=sell) | 1.7 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

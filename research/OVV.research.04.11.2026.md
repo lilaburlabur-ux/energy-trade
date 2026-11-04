@@ -4,8 +4,8 @@ Signed file: `OVV.research.04.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $63.04 (2026-11-04, ~15-min delayed) |
-| Market cap | $17.44B |
+| Current price | $62.95 (2026-11-04, ~15-min delayed) |
+| Market cap | $17.41B |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
 | Current stance | High technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
@@ -15,10 +15,10 @@ Signed file: `OVV.research.04.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +71.80%; price +9.37% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -13.19% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +71.55%; price +9.22% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -13.32% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 9.66%, revenue growth 29.70%. |
-| Value attractiveness | Reasonable | Forward P/E 7.36, EV/Sales 2.38. |
+| Value attractiveness | Reasonable | Forward P/E 7.35, EV/Sales 2.38. |
 | Risk level | Elevated | Beta 0.56, ATR 3.7% of price, short float 5.13%. |
 
 **Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
@@ -44,22 +44,22 @@ Ovintiv Inc., together with its subsidiaries, operates as an oil and natural gas
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $63.04; 52w high $72.62 (-13.19%); 52w low $35.81 (+76.02%) |
-| Trend | +9.37% vs SMA200, -2.90% vs SMA50, -7.93% vs SMA20 |
-| Momentum | RSI(14) 38.6 (neutral) |
+| Price vs 52-week range | Close $62.95; 52w high $72.62 (-13.32%); 52w low $35.81 (+75.76%) |
+| Trend | +9.22% vs SMA200, -3.03% vs SMA50, -8.06% vs SMA20 |
+| Momentum | RSI(14) 38.5 (neutral) |
 | Volatility | ATR(14) 2.31 (~3.7% of price); beta 0.56 |
-| Setup perspective | -13.19% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -13.32% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -11.6% |
-| Month | +2.5% |
-| Quarter | +5.8% |
-| Half Y | +6.3% |
-| 1Y | +71.8% |
-| YTD | +58.1% |
+| Week | -11.8% |
+| Month | +2.4% |
+| Quarter | +5.6% |
+| Half Y | +6.1% |
+| 1Y | +71.6% |
+| YTD | +57.9% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Ovintiv Inc., together with its subsidiaries, operates as an oil and natural gas
 | Revenue (ttm) | $9.52B | Revenue growth 29.70% y/y |
 | Profitability | Gross 53.86%, operating 36.18%, net 9.66% | ROA 8.64%, ROE 8.41% |
 | Balance sheet | Cash $700.00M, debt $5.03B | Current ratio 1.01, debt/equity 43.73 |
-| Valuation | P/E 17.56, forward P/E 7.36, P/S 1.83, P/B 1.43 | EV/Sales 2.38, EV/EBITDA 4.64 |
+| Valuation | P/E 17.53, forward P/E 7.35, P/S 1.83, P/B 1.42 | EV/Sales 2.38, EV/EBITDA 4.64 |
 | Growth expectations | Earnings growth 37.30%, EPS q/q 48.50% | Analyst mean target $81.52 (21 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -111,21 +111,21 @@ Ovintiv Inc., together with its subsidiaries, operates as an oil and natural gas
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $63.04 | EV/Sales | 2.38 |
-| Market cap | $17.44B | EV/EBITDA | 4.64 |
+| Price | $62.95 | EV/Sales | 2.38 |
+| Market cap | $17.41B | EV/EBITDA | 4.64 |
 | Beta | 0.56 | Gross margin | 53.86% |
-| RSI(14) | 38.6 | Operating margin | 36.18% |
+| RSI(14) | 38.5 | Operating margin | 36.18% |
 | ATR(14) | 2.31 | Profit margin | 9.66% |
-| SMA20 dist | -7.93% | ROA | 8.64% |
-| SMA50 dist | -2.90% | ROE | 8.41% |
-| SMA200 dist | +9.37% | Revenue (ttm) | $9.52B |
+| SMA20 dist | -8.06% | ROA | 8.64% |
+| SMA50 dist | -3.03% | ROE | 8.41% |
+| SMA200 dist | +9.22% | Revenue (ttm) | $9.52B |
 | 52W high | $72.62 | Revenue growth y/y | 29.70% |
 | 52W low | $35.81 | Inst. ownership | 98.97% |
-| P/E (ttm) | 17.56 | Insider ownership | 0.47% |
-| Forward P/E | 7.36 | Short float | 5.13% |
+| P/E (ttm) | 17.53 | Insider ownership | 0.47% |
+| Forward P/E | 7.35 | Short float | 5.13% |
 | PEG (trailing) | — | Avg volume | 3,303,060 |
 | P/S | 1.83 | Employees | 1,465 |
-| P/B | 1.43 | Analyst rec (1=buy..5=sell) | 1.6 |
+| P/B | 1.42 | Analyst rec (1=buy..5=sell) | 1.6 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

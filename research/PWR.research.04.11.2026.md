@@ -4,8 +4,8 @@ Signed file: `PWR.research.04.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $581.83 (2026-11-04, ~15-min delayed) |
-| Market cap | $87.67B |
+| Current price | $578.54 (2026-11-04, ~15-min delayed) |
+| Market cap | $87.17B |
 | Sector / Industry | Industrials / Engineering & Construction |
 | Main theme | Engineering & Construction — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: fair-to-demanding, risk: high. |
@@ -15,11 +15,11 @@ Signed file: `PWR.research.04.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-7.44%) with negative half-year (-25.89%). |
-| Fresh setup quality | Poor / broken | -25.89% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-7.96%) with negative half-year (-26.31%). |
+| Fresh setup quality | Poor / broken | -26.31% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 4.51%, revenue growth 57.40%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 26.89, EV/Sales 2.80. |
-| Risk level | High | Beta 1.28, ATR 5.7% of price, short float 2.63%. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 26.74, EV/Sales 2.80. |
+| Risk level | High | Beta 1.28, ATR 5.8% of price, short float 2.63%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: fair-to-demanding, risk: high.
 
@@ -36,30 +36,30 @@ Quanta Services, Inc. offers infrastructure solutions for the electric and gas u
 
 | Headline | Source | Date |
 |---|---|---|
+| Oklo Sinks 6%, Comfort Systems USA Down 15% as Democratic Sweep Rattles AI Power Stocks: “A Negative Surprise” | TIKR | 2026-11-04 |
 | Why a Democratic Sweep Is Crushing GE Vernova and More Industrial Stocks | Barrons.com | 2026-11-04 |
 | STRL Slides 35.9% in a Month as Growth Meets Margin and Cash Risks | Zacks | 2026-11-04 |
 | Can Sterling's Raised 2026 Outlook Sustain Its Strong Growth Momentum? | Zacks | 2026-11-04 |
-| Is STRL a Buy as Fast Growth Meets Margin Pressure and Cash Flow Risk? | Zacks | 2026-11-04 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $581.83; 52w high $785.12 (-25.89%); 52w low $413.03 (+40.87%) |
-| Trend | -7.44% vs SMA200, -8.06% vs SMA50, -6.83% vs SMA20 |
-| Momentum | RSI(14) 42.4 (neutral) |
-| Volatility | ATR(14) 33.33 (~5.7% of price); beta 1.28 |
-| Setup perspective | -25.89% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $578.54; 52w high $785.12 (-26.31%); 52w low $413.03 (+40.07%) |
+| Trend | -7.96% vs SMA200, -8.57% vs SMA50, -7.33% vs SMA20 |
+| Momentum | RSI(14) 42.0 (neutral) |
+| Volatility | ATR(14) 33.33 (~5.8% of price); beta 1.28 |
+| Setup perspective | -26.31% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -4.1% |
-| Month | -19.1% |
-| Quarter | -12.9% |
-| Half Y | -25.9% |
-| 1Y | +29.1% |
-| YTD | +32.4% |
+| Week | -4.7% |
+| Month | -19.6% |
+| Quarter | -13.4% |
+| Half Y | -26.3% |
+| 1Y | +28.4% |
+| YTD | +31.6% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Quanta Services, Inc. offers infrastructure solutions for the electric and gas u
 | Revenue (ttm) | $37.29B | Revenue growth 57.40% y/y |
 | Profitability | Gross 15.76%, operating 8.63%, net 4.51% | ROA 5.72%, ROE 18.02% |
 | Balance sheet | Cash $2.32B, debt $7.51B | Current ratio 1.16, debt/equity 70.72 |
-| Valuation | P/E 52.65, forward P/E 26.89, P/S 2.35, P/B 8.32 | EV/Sales 2.80, EV/EBITDA 28.62 |
+| Valuation | P/E 52.36, forward P/E 26.74, P/S 2.34, P/B 8.27 | EV/Sales 2.80, EV/EBITDA 28.62 |
 | Growth expectations | Earnings growth 103.10%, EPS q/q 104.70% | Analyst mean target $765.87 (29 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,8 +95,8 @@ Quanta Services, Inc. offers infrastructure solutions for the electric and gas u
 | Morgan Stanley | 2,311,374 | 1.53% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 26.89, EV/Sales 2.80. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 1.28, ATR 5.7% of price, short float 2.63%. Size positions accordingly.
+- **Valuation risk:** Forward P/E 26.74, EV/Sales 2.80. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 1.28, ATR 5.8% of price, short float 2.63%. Size positions accordingly.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -112,21 +112,21 @@ Quanta Services, Inc. offers infrastructure solutions for the electric and gas u
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $581.83 | EV/Sales | 2.80 |
-| Market cap | $87.67B | EV/EBITDA | 28.62 |
+| Price | $578.54 | EV/Sales | 2.80 |
+| Market cap | $87.17B | EV/EBITDA | 28.62 |
 | Beta | 1.28 | Gross margin | 15.76% |
-| RSI(14) | 42.4 | Operating margin | 8.63% |
+| RSI(14) | 42.0 | Operating margin | 8.63% |
 | ATR(14) | 33.33 | Profit margin | 4.51% |
-| SMA20 dist | -6.83% | ROA | 5.72% |
-| SMA50 dist | -8.06% | ROE | 18.02% |
-| SMA200 dist | -7.44% | Revenue (ttm) | $37.29B |
+| SMA20 dist | -7.33% | ROA | 5.72% |
+| SMA50 dist | -8.57% | ROE | 18.02% |
+| SMA200 dist | -7.96% | Revenue (ttm) | $37.29B |
 | 52W high | $785.12 | Revenue growth y/y | 57.40% |
 | 52W low | $413.03 | Inst. ownership | 91.79% |
-| P/E (ttm) | 52.65 | Insider ownership | 0.65% |
-| Forward P/E | 26.89 | Short float | 2.63% |
+| P/E (ttm) | 52.36 | Insider ownership | 0.65% |
+| Forward P/E | 26.74 | Short float | 2.63% |
 | PEG (trailing) | 1.22 | Avg volume | 1,056,101 |
-| P/S | 2.35 | Employees | 69,500 |
-| P/B | 8.32 | Analyst rec (1=buy..5=sell) | 1.4 |
+| P/S | 2.34 | Employees | 69,500 |
+| P/B | 8.27 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

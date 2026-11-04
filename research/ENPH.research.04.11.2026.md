@@ -4,8 +4,8 @@ Signed file: `ENPH.research.04.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $31.82 (2026-11-04, ~15-min delayed) |
-| Market cap | $4.21B |
+| Current price | $31.72 (2026-11-04, ~15-min delayed) |
+| Market cap | $4.20B |
 | Sector / Industry | Technology / Solar |
 | Main theme | Solar — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: fair-to-demanding, risk: high. |
@@ -15,10 +15,10 @@ Signed file: `ENPH.research.04.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-22.13%) with negative half-year (-11.13%). |
-| Fresh setup quality | Poor / broken | -56.01% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-22.36%) with negative half-year (-11.40%). |
+| Fresh setup quality | Poor / broken | -56.15% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 7.49%, revenue growth -28.50%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 22.20, EV/Sales 3.06. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 22.13, EV/Sales 3.06. |
 | Risk level | High | Beta 1.45, ATR 7.0% of price, short float 26.75%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: fair-to-demanding, risk: high.
@@ -44,22 +44,22 @@ Enphase Energy, Inc., together with its subsidiaries, designs, develops, manufac
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $31.82; 52w high $72.33 (-56.01%); 52w low $24.99 (+27.31%) |
-| Trend | -22.13% vs SMA200, -4.08% vs SMA50, +5.24% vs SMA20 |
-| Momentum | RSI(14) 53.0 (neutral) |
+| Price vs 52-week range | Close $31.72; 52w high $72.33 (-56.15%); 52w low $24.99 (+26.93%) |
+| Trend | -22.36% vs SMA200, -4.36% vs SMA50, +4.94% vs SMA20 |
+| Momentum | RSI(14) 52.8 (neutral) |
 | Volatility | ATR(14) 2.22 (~7.0% of price); beta 1.45 |
-| Setup perspective | -56.01% from 52w high — base needs to rebuild. |
+| Setup perspective | -56.15% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +27.3% |
-| Month | -6.2% |
-| Quarter | -19.8% |
-| Half Y | -11.1% |
-| 1Y | +7.8% |
-| YTD | -5.7% |
+| Week | +26.9% |
+| Month | -6.5% |
+| Quarter | -20.0% |
+| Half Y | -11.4% |
+| 1Y | +7.5% |
+| YTD | -6.0% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Enphase Energy, Inc., together with its subsidiaries, designs, develops, manufac
 | Revenue (ttm) | $1.21B | Revenue growth -28.50% y/y |
 | Profitability | Gross 24.10%, operating 1.64%, net 7.49% | ROA 0.16%, ROE 8.11% |
 | Balance sheet | Cash $931.85M, debt $614.56M | Current ratio 4.09, debt/equity 49.48 |
-| Valuation | P/E 47.49, forward P/E 22.20, P/S 3.47, P/B 3.39 | EV/Sales 3.06, EV/EBITDA 44.14 |
+| Valuation | P/E 47.34, forward P/E 22.13, P/S 3.46, P/B 3.38 | EV/Sales 3.06, EV/EBITDA 44.14 |
 | Growth expectations | Earnings growth -65.20%, EPS q/q -64.90% | Analyst mean target $40.58 (25 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ Enphase Energy, Inc., together with its subsidiaries, designs, develops, manufac
 | Morgan Stanley | 2,408,561 | 1.82% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 22.20, EV/Sales 3.06. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 22.13, EV/Sales 3.06. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 1.45, ATR 7.0% of price, short float 26.75%. Size positions accordingly.
 - **Short interest risk:** short float 26.75% can fuel squeezes both ways around news.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
@@ -113,21 +113,21 @@ Enphase Energy, Inc., together with its subsidiaries, designs, develops, manufac
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $31.82 | EV/Sales | 3.06 |
-| Market cap | $4.21B | EV/EBITDA | 44.14 |
+| Price | $31.72 | EV/Sales | 3.06 |
+| Market cap | $4.20B | EV/EBITDA | 44.14 |
 | Beta | 1.45 | Gross margin | 24.10% |
-| RSI(14) | 53.0 | Operating margin | 1.64% |
+| RSI(14) | 52.8 | Operating margin | 1.64% |
 | ATR(14) | 2.22 | Profit margin | 7.49% |
-| SMA20 dist | +5.24% | ROA | 0.16% |
-| SMA50 dist | -4.08% | ROE | 8.11% |
-| SMA200 dist | -22.13% | Revenue (ttm) | $1.21B |
+| SMA20 dist | +4.94% | ROA | 0.16% |
+| SMA50 dist | -4.36% | ROE | 8.11% |
+| SMA200 dist | -22.36% | Revenue (ttm) | $1.21B |
 | 52W high | $72.33 | Revenue growth y/y | -28.50% |
 | 52W low | $24.99 | Inst. ownership | 95.86% |
-| P/E (ttm) | 47.49 | Insider ownership | 3.03% |
-| Forward P/E | 22.20 | Short float | 26.75% |
+| P/E (ttm) | 47.34 | Insider ownership | 3.03% |
+| Forward P/E | 22.13 | Short float | 26.75% |
 | PEG (trailing) | 0.75 | Avg volume | 5,203,162 |
-| P/S | 3.47 | Employees | 2,872 |
-| P/B | 3.39 | Analyst rec (1=buy..5=sell) | 2.4 |
+| P/S | 3.46 | Employees | 2,872 |
+| P/B | 3.38 | Analyst rec (1=buy..5=sell) | 2.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

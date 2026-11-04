@@ -4,8 +4,8 @@ Signed file: `OXY.research.04.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $57.06 (2026-11-04, ~15-min delayed) |
-| Market cap | $57.04B |
+| Current price | $57.03 (2026-11-04, ~15-min delayed) |
+| Market cap | $57.01B |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
 | Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated. |
@@ -15,10 +15,10 @@ Signed file: `OXY.research.04.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +42.23%; price +1.98% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -13.06% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +42.16%; price +1.93% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -13.10% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 30.32%, revenue growth 53.40%. |
-| Value attractiveness | Reasonable | Forward P/E 11.38, EV/Sales 3.34. |
+| Value attractiveness | Reasonable | Forward P/E 11.37, EV/Sales 3.34. |
 | Risk level | Elevated | Beta 0.15, ATR 3.1% of price, short float 0.02%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated.
@@ -44,20 +44,20 @@ Occidental Petroleum Corporation, together with its subsidiaries, engages in the
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $57.06; 52w high $65.63 (-13.06%); 52w low $38.38 (+48.68%) |
-| Trend | +1.98% vs SMA200, -5.04% vs SMA50, -7.78% vs SMA20 |
+| Price vs 52-week range | Close $57.03; 52w high $65.63 (-13.10%); 52w low $38.38 (+48.60%) |
+| Trend | +1.93% vs SMA200, -5.09% vs SMA50, -7.82% vs SMA20 |
 | Momentum | RSI(14) 35.2 (neutral) |
 | Volatility | ATR(14) 1.78 (~3.1% of price); beta 0.15 |
-| Setup perspective | -13.06% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -13.10% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -9.2% |
+| Week | -9.3% |
 | Month | -2.2% |
-| Quarter | +2.3% |
-| Half Y | +4.5% |
+| Quarter | +2.2% |
+| Half Y | +4.4% |
 | 1Y | +42.2% |
 | YTD | +36.5% |
 
@@ -68,7 +68,7 @@ Occidental Petroleum Corporation, together with its subsidiaries, engages in the
 | Revenue (ttm) | $23.93B | Revenue growth 53.40% y/y |
 | Profitability | Gross 73.32%, operating 45.44%, net 30.32% | ROA 4.68%, ROE 10.63% |
 | Balance sheet | Cash $4.15B, debt $14.63B | Current ratio 1.41, debt/equity 34.51 |
-| Valuation | P/E 16.21, forward P/E 11.38, P/S 2.38, P/B 1.71 | EV/Sales 3.34, EV/EBITDA 5.82 |
+| Valuation | P/E 16.20, forward P/E 11.37, P/S 2.38, P/B 1.70 | EV/Sales 3.34, EV/EBITDA 5.82 |
 | Growth expectations | Earnings growth 964.90%, EPS q/q 550.00% | Analyst mean target $70.74 (27 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -110,21 +110,21 @@ Occidental Petroleum Corporation, together with its subsidiaries, engages in the
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $57.06 | EV/Sales | 3.34 |
-| Market cap | $57.04B | EV/EBITDA | 5.82 |
+| Price | $57.03 | EV/Sales | 3.34 |
+| Market cap | $57.01B | EV/EBITDA | 5.82 |
 | Beta | 0.15 | Gross margin | 73.32% |
 | RSI(14) | 35.2 | Operating margin | 45.44% |
 | ATR(14) | 1.78 | Profit margin | 30.32% |
-| SMA20 dist | -7.78% | ROA | 4.68% |
-| SMA50 dist | -5.04% | ROE | 10.63% |
-| SMA200 dist | +1.98% | Revenue (ttm) | $23.93B |
+| SMA20 dist | -7.82% | ROA | 4.68% |
+| SMA50 dist | -5.09% | ROE | 10.63% |
+| SMA200 dist | +1.93% | Revenue (ttm) | $23.93B |
 | 52W high | $65.63 | Revenue growth y/y | 53.40% |
 | 52W low | $38.38 | Inst. ownership | 58.34% |
-| P/E (ttm) | 16.21 | Insider ownership | 26.81% |
-| Forward P/E | 11.38 | Short float | 0.02% |
+| P/E (ttm) | 16.20 | Insider ownership | 26.81% |
+| Forward P/E | 11.37 | Short float | 0.02% |
 | PEG (trailing) | 0.91 | Avg volume | 8,533,385 |
 | P/S | 2.38 | Employees | 10,412 |
-| P/B | 1.71 | Analyst rec (1=buy..5=sell) | 2.2 |
+| P/B | 1.70 | Analyst rec (1=buy..5=sell) | 2.2 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

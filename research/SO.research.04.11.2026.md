@@ -4,8 +4,8 @@ Signed file: `SO.research.04.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $93.26 (2026-11-04, ~15-min delayed) |
-| Market cap | $107.28B |
+| Current price | $93.36 (2026-11-04, ~15-min delayed) |
+| Market cap | $107.38B |
 | Sector / Industry | Utilities / Utilities - Regulated Electric |
 | Main theme | Utilities - Regulated Electric — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,10 +15,10 @@ Signed file: `SO.research.04.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +3.42%; price +1.83% vs SMA200. |
-| Fresh setup quality | Watch | -4.34% from 52w high and near SMA20 — check for a tight base. |
+| Technical momentum | Moderate | 1Y +3.53%; price +1.93% vs SMA200. |
+| Fresh setup quality | Watch | -4.24% from 52w high and near SMA20 — check for a tight base. |
 | Fundamental quality | Mixed | Profit margin 15.43%, revenue growth 0.10%. |
-| Value attractiveness | Reasonable | Forward P/E 18.96, EV/Sales 6.12. |
+| Value attractiveness | Reasonable | Forward P/E 18.98, EV/Sales 6.12. |
 | Risk level | Moderate | Beta 0.29, ATR 1.8% of price, short float 2.56%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -44,22 +44,22 @@ The Southern Company, through its subsidiaries, engages in the sale of electrici
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $93.26; 52w high $97.49 (-4.34%); 52w low $82.06 (+13.65%) |
-| Trend | +1.83% vs SMA200, +5.93% vs SMA50, +2.52% vs SMA20 |
-| Momentum | RSI(14) 61.9 (neutral) |
+| Price vs 52-week range | Close $93.36; 52w high $97.49 (-4.24%); 52w low $82.06 (+13.76%) |
+| Trend | +1.93% vs SMA200, +6.04% vs SMA50, +2.62% vs SMA20 |
+| Momentum | RSI(14) 62.3 (neutral) |
 | Volatility | ATR(14) 1.66 (~1.8% of price); beta 0.29 |
-| Setup perspective | -4.34% from 52w high and near SMA20 — check for a tight base. |
+| Setup perspective | -4.24% from 52w high and near SMA20 — check for a tight base. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +1.9% |
-| Month | +9.2% |
-| Quarter | +1.2% |
-| Half Y | +1.4% |
-| 1Y | +3.4% |
-| YTD | +9.6% |
+| Week | +2.0% |
+| Month | +9.3% |
+| Quarter | +1.3% |
+| Half Y | +1.5% |
+| 1Y | +3.5% |
+| YTD | +9.7% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ The Southern Company, through its subsidiaries, engages in the sale of electrici
 | Revenue (ttm) | $30.18B | Revenue growth 0.10% y/y |
 | Profitability | Gross 48.29%, operating 29.61%, net 15.43% | ROA 3.27%, ROE 11.48% |
 | Balance sheet | Cash $2.98B, debt $77.09B | Current ratio 0.79, debt/equity 182.06 |
-| Valuation | P/E 22.47, forward P/E 18.96, P/S 3.55, P/B 2.71 | EV/Sales 6.12, EV/EBITDA 12.96 |
+| Valuation | P/E 22.49, forward P/E 18.98, P/S 3.56, P/B 2.71 | EV/Sales 6.12, EV/EBITDA 12.96 |
 | Growth expectations | Earnings growth 30.40%, EPS q/q 33.40% | Analyst mean target $95.90 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -110,20 +110,20 @@ The Southern Company, through its subsidiaries, engages in the sale of electrici
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $93.26 | EV/Sales | 6.12 |
-| Market cap | $107.28B | EV/EBITDA | 12.96 |
+| Price | $93.36 | EV/Sales | 6.12 |
+| Market cap | $107.38B | EV/EBITDA | 12.96 |
 | Beta | 0.29 | Gross margin | 48.29% |
-| RSI(14) | 61.9 | Operating margin | 29.61% |
+| RSI(14) | 62.3 | Operating margin | 29.61% |
 | ATR(14) | 1.66 | Profit margin | 15.43% |
-| SMA20 dist | +2.52% | ROA | 3.27% |
-| SMA50 dist | +5.93% | ROE | 11.48% |
-| SMA200 dist | +1.83% | Revenue (ttm) | $30.18B |
+| SMA20 dist | +2.62% | ROA | 3.27% |
+| SMA50 dist | +6.04% | ROE | 11.48% |
+| SMA200 dist | +1.93% | Revenue (ttm) | $30.18B |
 | 52W high | $97.49 | Revenue growth y/y | 0.10% |
 | 52W low | $82.06 | Inst. ownership | 74.33% |
-| P/E (ttm) | 22.47 | Insider ownership | 0.10% |
-| Forward P/E | 18.96 | Short float | 2.56% |
+| P/E (ttm) | 22.49 | Insider ownership | 0.10% |
+| Forward P/E | 18.98 | Short float | 2.56% |
 | PEG (trailing) | 2.22 | Avg volume | 5,853,468 |
-| P/S | 3.55 | Employees | 29,502 |
+| P/S | 3.56 | Employees | 29,502 |
 | P/B | 2.71 | Analyst rec (1=buy..5=sell) | 2.6 |
 
 ## 8. Analyst Actions

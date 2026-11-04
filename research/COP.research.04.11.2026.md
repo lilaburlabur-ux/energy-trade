@@ -5,7 +5,7 @@ Signed file: `COP.research.04.11.2026`
 | Field | Value |
 |---|---|
 | Current price | $135.85 (2026-11-04, ~15-min delayed) |
-| Market cap | $163.20B |
+| Market cap | $163.21B |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
@@ -44,7 +44,7 @@ ConocoPhillips explores for, produces, transports, and markets crude oil, bitume
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $135.85; 52w high $154.03 (-11.80%); 52w low $83.04 (+63.59%) |
+| Price vs 52-week range | Close $135.85; 52w high $154.03 (-11.80%); 52w low $83.04 (+63.60%) |
 | Trend | +12.25% vs SMA200, -0.60% vs SMA50, -5.99% vs SMA20 |
 | Momentum | RSI(14) 41.8 (neutral) |
 | Volatility | ATR(14) 4.16 (~3.1% of price); beta 0.16 |
@@ -111,7 +111,7 @@ ConocoPhillips explores for, produces, transports, and markets crude oil, bitume
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $135.85 | EV/Sales | 2.93 |
-| Market cap | $163.20B | EV/EBITDA | 7.06 |
+| Market cap | $163.21B | EV/EBITDA | 7.06 |
 | Beta | 0.16 | Gross margin | 47.57% |
 | RSI(14) | 41.8 | Operating margin | 31.51% |
 | ATR(14) | 4.16 | Profit margin | 14.40% |

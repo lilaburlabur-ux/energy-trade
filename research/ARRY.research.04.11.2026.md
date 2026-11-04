@@ -4,8 +4,8 @@ Signed file: `ARRY.research.04.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $5.45 (2026-11-04, ~15-min delayed) |
-| Market cap | $837.58M |
+| Current price | $5.41 (2026-11-04, ~15-min delayed) |
+| Market cap | $832.97M |
 | Sector / Industry | Technology / Solar |
 | Main theme | Solar — see catalysts below |
 | Current stance | Low technical momentum, weak fundamentals, value: reasonable, risk: high. |
@@ -15,10 +15,10 @@ Signed file: `ARRY.research.04.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-20.21%) with negative half-year (-33.03%). |
-| Fresh setup quality | Poor / broken | -54.47% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-20.64%) with negative half-year (-33.39%). |
+| Fresh setup quality | Poor / broken | -54.72% from 52w high — base needs to rebuild. |
 | Fundamental quality | Weak | Negative profit margin (-7.25%). |
-| Value attractiveness | Reasonable | Forward P/E 5.84, EV/Sales 1.40. |
+| Value attractiveness | Reasonable | Forward P/E 5.81, EV/Sales 1.40. |
 | Risk level | High | Beta 1.78, ATR 6.5% of price, short float 35.49%. |
 
 **Bottom line:** Low technical momentum, weak fundamentals, value: reasonable, risk: high.
@@ -44,22 +44,22 @@ Array Technologies, Inc. engages in the manufacture and sale of solar tracking t
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $5.45; 52w high $11.96 (-54.47%); 52w low $3.15 (+72.86%) |
-| Trend | -20.21% vs SMA200, +36.16% vs SMA50, +50.40% vs SMA20 |
-| Momentum | RSI(14) 75.8 (overbought) |
+| Price vs 52-week range | Close $5.41; 52w high $11.96 (-54.72%); 52w low $3.15 (+71.90%) |
+| Trend | -20.64% vs SMA200, +35.43% vs SMA50, +49.64% vs SMA20 |
+| Momentum | RSI(14) 75.6 (overbought) |
 | Volatility | ATR(14) 0.35 (~6.5% of price); beta 1.78 |
-| Setup perspective | -54.47% from 52w high — base needs to rebuild. |
+| Setup perspective | -54.72% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +52.9% |
-| Month | +34.1% |
-| Quarter | +3.7% |
-| Half Y | -33.0% |
-| 1Y | -35.3% |
-| YTD | -43.8% |
+| Week | +52.1% |
+| Month | +33.4% |
+| Quarter | +3.1% |
+| Half Y | -33.4% |
+| 1Y | -35.6% |
+| YTD | -44.1% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Array Technologies, Inc. engages in the manufacture and sale of solar tracking t
 | Revenue (ttm) | $1.19B | Revenue growth -5.60% y/y |
 | Profitability | Gross 26.76%, operating 10.88%, net -7.25% | ROA 3.33%, ROE -25.98% |
 | Balance sheet | Cash $307.30M, debt $752.89M | Current ratio 2.20, debt/equity 254.27 |
-| Valuation | P/E —, forward P/E 5.84, P/S 0.71, P/B -4.15 | EV/Sales 1.40, EV/EBITDA 13.89 |
+| Valuation | P/E —, forward P/E 5.81, P/S 0.70, P/B -4.13 | EV/Sales 1.40, EV/EBITDA 13.89 |
 | Growth expectations | Earnings growth -73.20%, EPS q/q -43.70% | Analyst mean target $6.94 (22 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -113,21 +113,21 @@ Array Technologies, Inc. engages in the manufacture and sale of solar tracking t
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $5.45 | EV/Sales | 1.40 |
-| Market cap | $837.58M | EV/EBITDA | 13.89 |
+| Price | $5.41 | EV/Sales | 1.40 |
+| Market cap | $832.97M | EV/EBITDA | 13.89 |
 | Beta | 1.78 | Gross margin | 26.76% |
-| RSI(14) | 75.8 | Operating margin | 10.88% |
+| RSI(14) | 75.6 | Operating margin | 10.88% |
 | ATR(14) | 0.35 | Profit margin | -7.25% |
-| SMA20 dist | +50.40% | ROA | 3.33% |
-| SMA50 dist | +36.16% | ROE | -25.98% |
-| SMA200 dist | -20.21% | Revenue (ttm) | $1.19B |
+| SMA20 dist | +49.64% | ROA | 3.33% |
+| SMA50 dist | +35.43% | ROE | -25.98% |
+| SMA200 dist | -20.64% | Revenue (ttm) | $1.19B |
 | 52W high | $11.96 | Revenue growth y/y | -5.60% |
 | 52W low | $3.15 | Inst. ownership | 139.03% |
 | P/E (ttm) | — | Insider ownership | 0.79% |
-| Forward P/E | 5.84 | Short float | 35.49% |
+| Forward P/E | 5.81 | Short float | 35.49% |
 | PEG (trailing) | 0.38 | Avg volume | 7,060,915 |
-| P/S | 0.71 | Employees | 1,200 |
-| P/B | -4.15 | Analyst rec (1=buy..5=sell) | 2.1 |
+| P/S | 0.70 | Employees | 1,200 |
+| P/B | -4.13 | Analyst rec (1=buy..5=sell) | 2.1 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
