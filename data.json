@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-03T23:57:11+00:00",
-  "as_of_local": "2026-11-03 23:57:11 UTC",
+  "as_of_utc": "2026-11-04T00:02:16+00:00",
+  "as_of_local": "2026-11-04 00:02:16 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -206,7 +206,7 @@
       "price": 391.7,
       "previous_close": 366.07,
       "change_pct": 7.0,
-      "market_cap": 152097114739.99023,
+      "market_cap": 152136284741.21094,
       "headlines": [
         {
           "title": "Eaton (ETN) Q3 2026 Earnings Call Transcript",
@@ -225,34 +225,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/eaton-earnings-analysis-questions-answered-182935716.html",
           "publisher": "Investing.com",
           "published": "2026-11-03T18:29:35Z"
-        }
-      ]
-    },
-    {
-      "symbol": "MPC",
-      "name": "Marathon Petroleum",
-      "price": 427.34,
-      "previous_close": 430.39,
-      "change_pct": -0.71,
-      "market_cap": 124756200531.79611,
-      "headlines": [
-        {
-          "title": "Marathon Petroleum Corporation Q3 2026 Earnings Call Summary",
-          "url": "https://finance.yahoo.com/energy/articles/marathon-petroleum-corporation-q3-2026-222954479.html",
-          "publisher": "Moby",
-          "published": "2026-11-03T22:29:54Z"
-        },
-        {
-          "title": "Stocks to Watch Recap: Apple, Palantir, AMD",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-03-2026/card/stocks-to-watch-apple-marathon-petroleum-palantir-lufthansa-IEOGJG7s9Z2v71zTnI3i?siteid=yhoof2&yptr=yahoo",
-          "publisher": "The Wall Street Journal",
-          "published": "2026-11-03T21:54:12Z"
-        },
-        {
-          "title": "Marathon Petroleum (MPC) Q3 2026 Earnings Call Transcript",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/marathon-petroleum-mpc-q3-2026-211713683.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-03T21:17:13Z"
         }
       ]
     },
@@ -281,6 +253,34 @@
           "url": "https://finance.yahoo.com/energy/articles/3-energy-companies-managing-c-150000819.html",
           "publisher": "C-Store Dive",
           "published": "2026-11-03T15:00:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "MPC",
+      "name": "Marathon Petroleum",
+      "price": 427.34,
+      "previous_close": 430.39,
+      "change_pct": -0.71,
+      "market_cap": 120007653192.009,
+      "headlines": [
+        {
+          "title": "Marathon Petroleum Corporation Q3 2026 Earnings Call Summary",
+          "url": "https://finance.yahoo.com/energy/articles/marathon-petroleum-corporation-q3-2026-222954479.html",
+          "publisher": "Moby",
+          "published": "2026-11-03T22:29:54Z"
+        },
+        {
+          "title": "Stocks to Watch Recap: Apple, Palantir, AMD",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-03-2026/card/stocks-to-watch-apple-marathon-petroleum-palantir-lufthansa-IEOGJG7s9Z2v71zTnI3i?siteid=yhoof2&yptr=yahoo",
+          "publisher": "The Wall Street Journal",
+          "published": "2026-11-03T21:54:12Z"
+        },
+        {
+          "title": "Marathon Petroleum (MPC) Q3 2026 Earnings Call Transcript",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/marathon-petroleum-mpc-q3-2026-211713683.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-03T21:17:13Z"
         }
       ]
     },
@@ -570,7 +570,7 @@
       "price": 155.17,
       "previous_close": 157.89,
       "change_pct": -1.72,
-      "market_cap": 82647968024.82803,
+      "market_cap": 81391191279.4784,
       "headlines": [
         {
           "title": "What Just Happened To Devon Energy Stock?",
@@ -1046,7 +1046,7 @@
       "price": 72.81,
       "previous_close": 74.38,
       "change_pct": -2.11,
-      "market_cap": 36282780063.015015,
+      "market_cap": 36289961167.45422,
       "headlines": [
         {
           "title": "Public Service Enterprise Group (PEG) Holds Guidance After Earnings Misses While Fair Value Still Leads",
@@ -1494,7 +1494,7 @@
       "price": 30.3,
       "previous_close": 30.05,
       "change_pct": 0.83,
-      "market_cap": 9189261508.118801,
+      "market_cap": 9093382038.833,
       "headlines": [
         {
           "title": "If I Could Only Buy 1 AI Power Stock for the Next Decade, It Wouldn't Be Bloom Energy or GE Vernova",
@@ -2115,8 +2115,8 @@
     },
     {
       "label": "WTI",
-      "price": 96.45,
-      "change_pct": -0.01
+      "price": 96.54,
+      "change_pct": 0.08
     },
     {
       "label": "Brent",
@@ -2125,8 +2125,8 @@
     },
     {
       "label": "NatGas",
-      "price": 2.89,
-      "change_pct": 1.33
+      "price": 2.9,
+      "change_pct": 1.51
     }
   ]
 }
