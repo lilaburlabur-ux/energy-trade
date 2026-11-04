@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-04T22:50:04+00:00",
+  "as_of": "2026-11-04T23:05:21+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -27,8 +27,8 @@
    "rank": 2,
    "ticker": "EOSE",
    "company": "Eos Energy Enterprises, Inc.",
-   "move_pct": 15.79,
-   "price": 2.2,
+   "move_pct": 16.31,
+   "price": 2.21,
    "volume": 50887629,
    "volume_vs_avg": "~2x",
    "heat_score": 87,
@@ -41,13 +41,29 @@
   },
   {
    "rank": 3,
+   "ticker": "VST",
+   "company": "Vistra Corp.",
+   "move_pct": -13.1,
+   "price": 121.3,
+   "volume": 20364638,
+   "volume_vs_avg": "~3x",
+   "heat_score": 86,
+   "direction": "down",
+   "why": "Vistra Corp. (VST) Stock Forecasts",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOV1NNOGRFR3BJMjRjV29tY0cwNVFMbmRYbVlEVVNSM0JhUEpFMnBGLTBSTnhWVlNEN0JYY3BaMTdJMDZDS0FKQmoxcEFRWkwxS25TbURaaVFkTEpCc3B5NzB3NUZZSTFrQWMwNHJycTZSR0JRMzhXcE0zOW12OFJBWWFHN3NXZWE1T3N2UmhWYw?oc=5",
+   "published": "2026-11-04T22:57:35+00:00",
+   "sector": "Power & IPPs"
+  },
+  {
+   "rank": 4,
    "ticker": "RUN",
    "company": "Sunrun Inc.",
-   "move_pct": 11.17,
-   "price": 9.65,
+   "move_pct": 11.64,
+   "price": 9.69,
    "volume": 31904472,
    "volume_vs_avg": "~4x",
-   "heat_score": 82,
+   "heat_score": 84,
    "direction": "up",
    "why": "Sunrun (NASDAQ:RUN) reports bullish Q3 2026, stock soars",
    "catalyst_type": "momentum_narrative",
@@ -56,11 +72,11 @@
    "sector": "Renewables & Solar"
   },
   {
-   "rank": 4,
+   "rank": 5,
    "ticker": "VRT",
    "company": "Vertiv Holdings, LLC",
-   "move_pct": -12.19,
-   "price": 207.21,
+   "move_pct": -12.28,
+   "price": 207.0,
    "volume": 12818601,
    "volume_vs_avg": "~2x",
    "heat_score": 78,
@@ -72,7 +88,7 @@
    "sector": "Grid, Storage & Electrification"
   },
   {
-   "rank": 5,
+   "rank": 6,
    "ticker": "PWR",
    "company": "Quanta Services, Inc.",
    "move_pct": -10.8,
@@ -88,7 +104,7 @@
    "sector": "Grid, Storage & Electrification"
   },
   {
-   "rank": 6,
+   "rank": 7,
    "ticker": "NXT",
    "company": "Nextpower Inc.",
    "move_pct": 12.47,
@@ -104,36 +120,20 @@
    "sector": "Renewables & Solar"
   },
   {
-   "rank": 7,
+   "rank": 8,
    "ticker": "NRG",
    "company": "NRG Energy, Inc.",
-   "move_pct": -13.66,
-   "price": 83.11,
+   "move_pct": -12.52,
+   "price": 84.21,
    "volume": 10354660,
    "volume_vs_avg": "~3x",
-   "heat_score": 75,
+   "heat_score": 71,
    "direction": "down",
-   "why": "Moving down 13.7% on ~3x average volume with no fresh headline this cycle \u2014 attention without a story.",
+   "why": "Moving down 12.5% on ~3x average volume with no fresh headline this cycle \u2014 attention without a story.",
    "catalyst_type": "no_news_mover",
    "source_url": "",
    "published": "",
    "sector": "Power & IPPs"
-  },
-  {
-   "rank": 8,
-   "ticker": "GEV",
-   "company": "GE Vernova Inc.",
-   "move_pct": -8.96,
-   "price": 835.94,
-   "volume": 6288018,
-   "volume_vs_avg": "~2x",
-   "heat_score": 68,
-   "direction": "down",
-   "why": "GE Vernova, Vertiv, More Industrial Stocks Fall After Democratic Sweep",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdjEwT2lTbnEydElzZ2hnZExtZ0pmRFZmNlpkMkpVQ0ZDcE1nWF9zLWJpVWctMWNfRS1LMEU3VHlua1lBVzRWY0FYZTg2RTdjZ1dzZ1lSMTNXUjhfQ2xZMmlOSnItb1N0RmxFQ0E5aC1wWXJKTkE0X19LSWxBemZzOWlSZ25zTmF3RlB4WGI2ZGs?oc=5",
-   "published": "2026-11-04T21:14:00+00:00",
-   "sector": "Grid, Storage & Electrification"
   }
  ]
 }
