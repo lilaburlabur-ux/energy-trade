@@ -1,0 +1,154 @@
+# WMB Research Report
+**The Williams Companies, Inc.** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+Signed file: `WMB.research.04.11.2026`
+
+| Field | Value |
+|---|---|
+| Current price | $72.47 (2026-11-04, ~15-min delayed) |
+| Market cap | $88.64B |
+| Sector / Industry | Energy / Oil & Gas Midstream |
+| Main theme | Oil & Gas Midstream — see catalysts below |
+| Current stance | Moderate technical momentum, mixed fundamentals, value: fair-to-demanding, risk: elevated. |
+
+> Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-04.
+
+## 1. Executive Summary
+| Area | Score / Read | Reason |
+|---|---|---|
+| Technical momentum | Moderate | 1Y +29.04%; price +1.00% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -7.39% from 52w high; no clean fresh pivot by default. |
+| Fundamental quality | Mixed | Profit margin 24.94%, revenue growth 7.80%. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 27.70, EV/Sales 9.73. |
+| Risk level | Elevated | Beta 0.63, ATR 3.3% of price, short float 2.45%. |
+
+**Bottom line:** Moderate technical momentum, mixed fundamentals, value: fair-to-demanding, risk: elevated.
+
+**Key questions before any trade (standard):**
+- Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
+- Where is the actual invalidation level? If that level is too far away, the setup is not clean.
+- Is the move supported by new institutional demand or just retail/short-covering momentum?
+- Can earnings convert fast enough to justify the valuation?
+
+## 2. Company Overview and Recent Catalysts
+The Williams Companies, Inc., together with its subsidiaries, operates as an energy infrastructure company primarily in the United States. It operates through Transmission, Power & Gulf, Northeast G&P, West, and Gas & NGL Marketing Services segments. The Transmission, Power & Gulf segment comprises Transco, NWP, and Mountain West interstate natural gas pipelines, and their related natural gas storage facilities, as well as natural gas gathering and processing; and crude oil production handling and transportation assets in the Gulf Coast region.
+
+**Recent headlines (potential catalysts):**
+
+| Headline | Source | Date |
+|---|---|---|
+| What Just Happened To Sherwin-Williams Stock? | Trefis | 2026-11-03 |
+| Williams Cos. Shrugs Off AI Data Center Jitters With Power Generation Ambitions | Barrons.com | 2026-11-03 |
+| Williams Companies Stock Soars on AI Power Demand. Is It Too Late to Get In? | 24/7 Wall St. | 2026-11-03 |
+| The Williams Companies, Inc. Q3 2026 Earnings Call Summary | Moby | 2026-11-03 |
+
+## 3. Technical Analysis
+| Technical item | Read |
+|---|---|
+| Price vs 52-week range | Close $72.47; 52w high $78.25 (-7.39%); 52w low $54.84 (+32.15%) |
+| Trend | +1.00% vs SMA200, +0.51% vs SMA50, +0.14% vs SMA20 |
+| Momentum | RSI(14) 50.8 (neutral) |
+| Volatility | ATR(14) 2.36 (~3.3% of price); beta 0.63 |
+| Setup perspective | -7.39% from 52w high; no clean fresh pivot by default. |
+
+**Performance snapshot:**
+
+| Window | Return |
+|---|---|
+| Week | -2.2% |
+| Month | +2.3% |
+| Quarter | +1.7% |
+| Half Y | -3.4% |
+| 1Y | +29.0% |
+| YTD | +21.7% |
+
+## 4. Fundamental Analysis
+| Factor | Observation | Implication / extra |
+|---|---|---|
+| Next earnings | 2026-11-02 | Next scheduled report (Yahoo estimate) |
+| Revenue (ttm) | $12.32B | Revenue growth 7.80% y/y |
+| Profitability | Gross 63.64%, operating 39.54%, net 24.94% | ROA 5.03%, ROE 21.50% |
+| Balance sheet | Cash $203.00M, debt $30.79B | Current ratio 0.48, debt/equity 200.37 |
+| Valuation | P/E 28.53, forward P/E 27.70, P/S 7.19, P/B 6.93 | EV/Sales 9.73, EV/EBITDA 17.05 |
+| Growth expectations | Earnings growth 51.20%, EPS q/q 51.50% | Analyst mean target $85.38 (24 analysts) |
+
+## 5. Institutional Investors and Ownership
+| Metric | Value |
+|---|---|
+| Institutional ownership | 91.84% |
+| Insider ownership | 0.45% |
+| Short float | 2.45% |
+| Short ratio (days to cover) | 3.4 |
+
+**Top institutional holders:**
+
+| Holder | Shares | % Out | Reported |
+|---|---|---|---|
+| Blackrock Inc. | 115,500,312 | 9.44% | 2026-06-30 |
+| Vanguard Capital Management LLC | 79,848,153 | 6.53% | 2026-06-30 |
+| State Street Corporation | 72,015,506 | 5.89% | 2026-06-30 |
+| Bank of America Corporation | 44,667,824 | 3.65% | 2026-06-30 |
+| Vanguard Portfolio Management LLC | 43,513,739 | 3.56% | 2026-06-30 |
+| Wellington Management Group, LLP | 33,097,208 | 2.71% | 2026-06-30 |
+| Morgan Stanley | 31,813,505 | 2.60% | 2026-06-30 |
+| Geode Capital Management, LLC | 29,911,265 | 2.45% | 2026-06-30 |
+| ClearBridge Investments, LLC | 24,212,067 | 1.98% | 2026-06-30 |
+| JPMORGAN CHASE & CO | 21,379,796 | 1.75% | 2026-06-30 |
+
+## 6. Risk Review and Setup Plan
+- **Valuation risk:** Forward P/E 27.70, EV/Sales 9.73. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 0.63, ATR 3.3% of price, short float 2.45%. Size positions accordingly.
+- **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
+- **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
+
+### Setup checklist for your journal
+| Question | Pass condition |
+|---|---|
+| Is there a new base? | Tight sideways action near highs, declining volume, clear resistance. |
+| Is the pivot obvious? | A clean level that multiple traders can see; not a random candle high. |
+| Is risk defined? | Stop based on structure and less than the expected first upside target. |
+| Is volume confirming? | Breakout volume expands; pullback volume dries up. |
+| Is position size small enough? | A normal shakeout should not cause emotional decision-making. |
+
+## 7. Full Data Snapshot
+| Metric | Value | Metric | Value |
+|---|---|---|---|
+| Price | $72.47 | EV/Sales | 9.73 |
+| Market cap | $88.64B | EV/EBITDA | 17.05 |
+| Beta | 0.63 | Gross margin | 63.64% |
+| RSI(14) | 50.8 | Operating margin | 39.54% |
+| ATR(14) | 2.36 | Profit margin | 24.94% |
+| SMA20 dist | +0.14% | ROA | 5.03% |
+| SMA50 dist | +0.51% | ROE | 21.50% |
+| SMA200 dist | +1.00% | Revenue (ttm) | $12.32B |
+| 52W high | $78.25 | Revenue growth y/y | 7.80% |
+| 52W low | $54.84 | Inst. ownership | 91.84% |
+| P/E (ttm) | 28.53 | Insider ownership | 0.45% |
+| Forward P/E | 27.70 | Short float | 2.45% |
+| PEG (trailing) | 2.05 | Avg volume | 7,531,453 |
+| P/S | 7.19 | Employees | 5,987 |
+| P/B | 6.93 | Analyst rec (1=buy..5=sell) | 1.4 |
+
+## 8. Analyst Actions
+| Date | Action | Firm | Rating change |
+|---|---|---|---|
+| 2026-10-22 | main | CIBC | Outperformer → Outperformer |
+| 2026-10-14 | main | Jefferies | Buy → Buy |
+| 2026-09-10 | main | Scotiabank | Sector Outperform → Sector Outperform |
+| 2026-08-18 | main | Morgan Stanley | Overweight → Overweight |
+| 2026-08-12 | main | Truist Securities | Buy → Buy |
+| 2026-08-10 | main | RBC Capital | Outperform → Outperform |
+| 2026-08-05 | main | Wells Fargo | Overweight → Overweight |
+| 2026-07-14 | main | Morgan Stanley | Overweight → Overweight |
+
+## 9. Conclusion
+WMB: Moderate momentum / mixed fundamentals / fair-to-demanding value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+
+## Sources
+| Source | URL | Used for |
+|---|---|---|
+| Yahoo Finance quote/profile/statistics for WMB | https://finance.yahoo.com/quote/WMB | Snapshot metrics, ownership, analyst data |
+| Yahoo Finance price history (via yfinance) | https://finance.yahoo.com/quote/WMB/history | SMA/RSI/ATR/performance calculations |
+| Yahoo Finance news feed | https://finance.yahoo.com/quote/WMB/news | Catalyst headlines |
+| Method template | AEHR.research.31.05.2026.pdf (user's Cowork method) | Report structure, scoring areas, checklist |
+
+_Note: the template's native Finviz/Fintel/ADVFN pages block automated retrieval; equivalent metrics above are computed from Yahoo Finance data instead and labeled accordingly._

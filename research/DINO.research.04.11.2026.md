@@ -1,0 +1,152 @@
+# DINO Research Report
+**HF Sinclair Corporation** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+Signed file: `DINO.research.04.11.2026`
+
+| Field | Value |
+|---|---|
+| Current price | $113.36 (2026-11-04, ~15-min delayed) |
+| Market cap | $19.43B |
+| Sector / Industry | Energy / Oil & Gas Refining & Marketing |
+| Main theme | Oil & Gas Refining & Marketing — see catalysts below |
+| Current stance | High technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
+
+> Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-04.
+
+## 1. Executive Summary
+| Area | Score / Read | Reason |
+|---|---|---|
+| Technical momentum | High | 1Y +126.86%; price +44.35% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -11.60% from 52w high; no clean fresh pivot by default. |
+| Fundamental quality | Mixed | Profit margin 10.12%, revenue growth 49.70%. |
+| Value attractiveness | Reasonable | Forward P/E 6.33, EV/Sales 0.55. |
+| Risk level | Elevated | Beta 0.71, ATR 4.6% of price, short float 4.57%. |
+
+**Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
+
+**Key questions before any trade (standard):**
+- Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
+- Where is the actual invalidation level? If that level is too far away, the setup is not clean.
+- Is the move supported by new institutional demand or just retail/short-covering momentum?
+- Can earnings convert fast enough to justify the valuation?
+
+## 2. Company Overview and Recent Catalysts
+HF Sinclair Corporation operates as an independent energy company in the United States. It operates through five segments: Refining, Renewables, Marketing, Lubricants & Specialties, and Midstream. The company produces and markets gasoline, diesel fuel, jet fuel, renewable diesel, specialty lubricant products, specialty chemicals, commodity and modified asphalt products, and others.
+
+**Recent headlines (potential catalysts):**
+
+| Headline | Source | Date |
+|---|---|---|
+| Oil Edges Lower As U.S. Bombs Iran Before Election Day | Investor's Business Daily | 2026-11-03 |
+| Best Value Stocks to Buy Now in November | Zacks | 2026-11-03 |
+| Valero to Acquire Houston Refining Site, Plans 165,000 BPD Restart | Zacks | 2026-11-03 |
+| Should Investors Buy DINO Stock Amid Strong Refining Margins? | Zacks | 2026-11-03 |
+
+## 3. Technical Analysis
+| Technical item | Read |
+|---|---|
+| Price vs 52-week range | Close $113.36; 52w high $128.23 (-11.60%); 52w low $44.83 (+152.87%) |
+| Trend | +44.35% vs SMA200, +0.74% vs SMA50, -5.89% vs SMA20 |
+| Momentum | RSI(14) 45.5 (neutral) |
+| Volatility | ATR(14) 5.27 (~4.6% of price); beta 0.71 |
+| Setup perspective | -11.60% from 52w high; no clean fresh pivot by default. |
+
+**Performance snapshot:**
+
+| Window | Return |
+|---|---|
+| Week | -0.7% |
+| Month | -1.6% |
+| Quarter | +37.5% |
+| Half Y | +54.2% |
+| 1Y | +126.9% |
+| YTD | +147.6% |
+
+## 4. Fundamental Analysis
+| Factor | Observation | Implication / extra |
+|---|---|---|
+| Next earnings | 2026-10-28 | Next scheduled report (Yahoo estimate) |
+| Revenue (ttm) | $34.83B | Revenue growth 49.70% y/y |
+| Profitability | Gross 18.01%, operating 25.13%, net 10.12% | ROA 15.77%, ROE 33.21% |
+| Balance sheet | Cash $3.33B, debt $3.36B | Current ratio 2.27, debt/equity 28.52 |
+| Valuation | P/E 5.78, forward P/E 6.33, P/S 0.56, P/B 1.67 | EV/Sales 0.55, EV/EBITDA 3.55 |
+| Growth expectations | Earnings growth 430.60%, EPS q/q 400.00% | Analyst mean target $122.81 (16 analysts) |
+
+## 5. Institutional Investors and Ownership
+| Metric | Value |
+|---|---|
+| Institutional ownership | 92.29% |
+| Insider ownership | 5.70% |
+| Short float | 4.57% |
+| Short ratio (days to cover) | 2.6 |
+
+**Top institutional holders:**
+
+| Holder | Shares | % Out | Reported |
+|---|---|---|---|
+| Blackrock Inc. | 18,544,173 | 10.82% | 2026-06-30 |
+| TCTC Holdings, LLC | 12,230,502 | 7.14% | 2026-09-30 |
+| Dimensional Fund Advisors LP | 9,532,887 | 5.56% | 2026-06-30 |
+| Vanguard Portfolio Management LLC | 8,856,765 | 5.17% | 2026-06-30 |
+| Vanguard Capital Management LLC | 6,906,593 | 4.03% | 2026-06-30 |
+| State Street Corporation | 6,422,156 | 3.75% | 2026-06-30 |
+| Charles Schwab Investment Management, Inc. | 5,574,305 | 3.25% | 2026-06-30 |
+| Victory Capital Management Inc. | 4,636,623 | 2.71% | 2026-06-30 |
+| AQR Capital Management, LLC | 4,644,694 | 2.71% | 2026-06-30 |
+| Citadel Advisors Llc | 4,263,228 | 2.49% | 2026-06-30 |
+
+## 6. Risk Review and Setup Plan
+- **Volatility risk:** Beta 0.71, ATR 4.6% of price, short float 4.57%. Size positions accordingly.
+- **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
+
+### Setup checklist for your journal
+| Question | Pass condition |
+|---|---|
+| Is there a new base? | Tight sideways action near highs, declining volume, clear resistance. |
+| Is the pivot obvious? | A clean level that multiple traders can see; not a random candle high. |
+| Is risk defined? | Stop based on structure and less than the expected first upside target. |
+| Is volume confirming? | Breakout volume expands; pullback volume dries up. |
+| Is position size small enough? | A normal shakeout should not cause emotional decision-making. |
+
+## 7. Full Data Snapshot
+| Metric | Value | Metric | Value |
+|---|---|---|---|
+| Price | $113.36 | EV/Sales | 0.55 |
+| Market cap | $19.43B | EV/EBITDA | 3.55 |
+| Beta | 0.71 | Gross margin | 18.01% |
+| RSI(14) | 45.5 | Operating margin | 25.13% |
+| ATR(14) | 5.27 | Profit margin | 10.12% |
+| SMA20 dist | -5.89% | ROA | 15.77% |
+| SMA50 dist | +0.74% | ROE | 33.21% |
+| SMA200 dist | +44.35% | Revenue (ttm) | $34.83B |
+| 52W high | $128.23 | Revenue growth y/y | 49.70% |
+| 52W low | $44.83 | Inst. ownership | 92.29% |
+| P/E (ttm) | 5.78 | Insider ownership | 5.70% |
+| Forward P/E | 6.33 | Short float | 4.57% |
+| PEG (trailing) | 1.23 | Avg volume | 2,523,431 |
+| P/S | 0.56 | Employees | 5,165 |
+| P/B | 1.67 | Analyst rec (1=buy..5=sell) | 2.6 |
+
+## 8. Analyst Actions
+| Date | Action | Firm | Rating change |
+|---|---|---|---|
+| 2026-11-02 | main | Morgan Stanley | Overweight → Overweight |
+| 2026-10-22 | main | TD Cowen | Hold → Hold |
+| 2026-10-14 | main | Wells Fargo | Equal-Weight → Equal-Weight |
+| 2026-10-12 | main | Barclays | Equal-Weight → Equal-Weight |
+| 2026-10-12 | main | Evercore ISI Group | In-Line → In-Line |
+| 2026-10-09 | main | Goldman Sachs | Buy → Buy |
+| 2026-10-08 | main | Mizuho | Neutral → Neutral |
+| 2026-10-05 | main | UBS | Buy → Buy |
+
+## 9. Conclusion
+DINO: High momentum / mixed fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+
+## Sources
+| Source | URL | Used for |
+|---|---|---|
+| Yahoo Finance quote/profile/statistics for DINO | https://finance.yahoo.com/quote/DINO | Snapshot metrics, ownership, analyst data |
+| Yahoo Finance price history (via yfinance) | https://finance.yahoo.com/quote/DINO/history | SMA/RSI/ATR/performance calculations |
+| Yahoo Finance news feed | https://finance.yahoo.com/quote/DINO/news | Catalyst headlines |
+| Method template | AEHR.research.31.05.2026.pdf (user's Cowork method) | Report structure, scoring areas, checklist |
+
+_Note: the template's native Finviz/Fintel/ADVFN pages block automated retrieval; equivalent metrics above are computed from Yahoo Finance data instead and labeled accordingly._

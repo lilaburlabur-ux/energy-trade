@@ -1,10 +1,10 @@
-# Watchlist Research Index — 03.11.2026
-> Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-03.
+# Watchlist Research Index — 04.11.2026
+> Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-04.
 
 | Ticker | Mkt cap | 1Y | Fwd P/E | Net margin | Momentum | Value | Risk |
 |---|---|---|---|---|---|---|---|
 | XOM | $723.86B | +60% | 14.8 | 10% | Moderate | Reasonable | Moderate |
-| CVX | $439.50B | +48% | 14.2 | 12% | Moderate | Reasonable | Moderate |
+| CVX | $439.50B | +48% | 13.8 | 12% | Moderate | Reasonable | Moderate |
 | SHEL | $295.45B | +44% | 9.5 | 10% | Moderate | Reasonable | Moderate |
 | TTE | $203.75B | +55% | 7.8 | 10% | Moderate | Reasonable | Moderate |
 | BP | $122.58B | +42% | 8.2 | 4% | Moderate | Reasonable | Moderate |
@@ -12,7 +12,7 @@
 | EQNR | $108.01B | +100% | 9.2 | 10% | High | Reasonable | Elevated |
 | SU | $88.25B | +93% | 10.8 | 16% | High | Reasonable | Moderate |
 | EOG | $82.65B | +51% | 9.6 | 26% | Moderate | Reasonable | Moderate |
-| FANG | $54.11B | +38% | 9.2 | 9% | Moderate | Reasonable | Elevated |
+| FANG | $54.11B | +38% | 8.9 | 9% | Moderate | Reasonable | Elevated |
 | DVN | $52.38B | +50% | 8.8 | 17% | Moderate | Reasonable | Elevated |
 | OXY | $60.41B | +50% | 12.0 | 30% | Moderate | Reasonable | Moderate |
 | APA | $16.74B | +117% | 8.9 | 20% | High | Reasonable | Elevated |
@@ -22,7 +22,7 @@
 | OVV | $18.37B | +81% | 7.8 | 10% | High | Reasonable | Elevated |
 | SLB | $76.95B | +48% | 16.9 | 8% | Moderate | Reasonable | Moderate |
 | HAL | $28.18B | +30% | 11.6 | 9% | Low | Reasonable | Moderate |
-| BKR | $52.42B | +11% | 18.3 | 10% | Low | Reasonable | Elevated |
+| BKR | $52.42B | +11% | 18.5 | 10% | Low | Reasonable | Elevated |
 | NOV | $6.59B | +30% | 14.7 | 2% | Low | Reasonable | High |
 | FTI | $25.95B | +62% | 17.9 | 12% | High | Reasonable | Elevated |
 | WFRD | $6.36B | +20% | 13.4 | 9% | Low | Reasonable | Elevated |
@@ -42,11 +42,11 @@
 | CEG | $93.32B | -30% | 19.6 | 11% | Low | Reasonable | Elevated |
 | OKLO | $4.37B | -82% | -22.1 | 0% | Low | Reasonable | High |
 | SMR | $2.20B | -88% | -8.6 | 0% | Low | Reasonable | High |
-| LEU | $1.96B | -74% | 23.3 | 10% | Low | Fair-to-demanding | High |
+| LEU | $1.96B | -74% | 21.5 | 10% | Low | Fair-to-demanding | High |
 | NXE | $5.27B | -18% | -63.0 | 0% | Low | Reasonable | Elevated |
-| UEC | $3.77B | -50% | -102.9 | 0% | Low | Reasonable | High |
-| UUUU | $1.93B | -64% | 15.0 | -77% | Low | Reasonable | High |
-| BWXT | $12.08B | -38% | 25.6 | 10% | Low | Fair-to-demanding | Elevated |
+| UEC | $3.75B | -50% | -102.2 | 0% | Low | Reasonable | High |
+| UUUU | $1.92B | -65% | 14.9 | -77% | Low | Reasonable | High |
+| BWXT | $12.08B | -38% | 25.5 | 10% | Low | Fair-to-demanding | Elevated |
 | FSLR | $19.98B | -30% | 8.1 | 37% | Low | Reasonable | High |
 | ENPH | $4.03B | -0% | 21.2 | 7% | Low | Fair-to-demanding | High |
 | NEE | $176.87B | +7% | 19.3 | 40% | Low | Reasonable | Moderate |
@@ -57,7 +57,7 @@
 | BEP | $14.77B | +3% | -16.4 | -1% | Low | Reasonable | Moderate |
 | GEV | $243.03B | +57% | 35.5 | 24% | Low | Low (expensive) | High |
 | ETN | $152.10B | +4% | 24.0 | 13% | Low | Fair-to-demanding | Elevated |
-| VRT | $90.86B | +22% | 25.0 | 16% | Low | Fair-to-demanding | High |
+| VRT | $90.86B | +22% | 24.2 | 16% | Low | Fair-to-demanding | High |
 | PWR | $98.99B | +46% | 30.5 | 5% | Moderate | Fair-to-demanding | Elevated |
 | FLNC | $1.07B | -74% | -10.4 | -3% | Low | Reasonable | High |
 | BE | $63.25B | +62% | 40.2 | 14% | High | Low (expensive) | High |
@@ -65,7 +65,7 @@
 | HUBB | $23.74B | -3% | 19.5 | 14% | Low | Reasonable | Elevated |
 | VST | $46.85B | -25% | 14.6 | 12% | Low | Reasonable | High |
 | NRG | $20.23B | -43% | 9.1 | 3% | Low | Reasonable | Elevated |
-| TLN | $16.90B | -11% | 11.2 | -5% | Moderate | Reasonable | High |
+| TLN | $16.90B | -11% | 12.9 | -5% | Moderate | Reasonable | High |
 | DUK | $98.64B | +5% | 17.6 | 16% | Moderate | Reasonable | Moderate |
 | SO | $107.85B | +3% | 19.1 | 15% | Moderate | Reasonable | Moderate |
 | D | $58.74B | +19% | 17.5 | 14% | Moderate | Reasonable | Moderate |
