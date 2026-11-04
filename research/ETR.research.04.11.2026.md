@@ -36,10 +36,10 @@ Entergy Corporation, together with its subsidiaries, engages in the production a
 
 | Headline | Source | Date |
 |---|---|---|
+| How Will Southern Stock React To Its Upcoming Earnings? | Trefis | 2026-11-04 |
 | Analysts Say These Industries Will See Midterm Election Impact | Investor's Business Daily | 2026-11-04 |
 | Why Entergy Stock Is In Focus As Investors Look To Regulated Utilities | Simply Wall St. | 2026-11-04 |
 | Are You Looking for a Top Momentum Pick? Why Entergy (ETR) is a Great Choice | Zacks | 2026-11-04 |
-| Zacks.com featured highlights include Entergy, Evergy, Diageo and Lamb Weston | Zacks | 2026-11-04 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

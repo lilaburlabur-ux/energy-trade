@@ -36,10 +36,10 @@ NextEra Energy, Inc., through its subsidiaries, generates, stores, transmits, di
 
 | Headline | Source | Date |
 |---|---|---|
+| How Will Southern Stock React To Its Upcoming Earnings? | Trefis | 2026-11-04 |
 | What Does The Market Want From PG&E Stock? | Trefis | 2026-11-04 |
 | US large-cap dividend hike watch: 10 stocks with the longest growth streaks | Investing.com | 2026-11-04 |
 | Top stocks to watch on Democratic gains: First Solar, NextEra Energy, HCA Healthcare | Investing.com | 2026-11-04 |
-| Which sectors will benefit most and face pressure after Democratic sweep? | Investing.com | 2026-11-04 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

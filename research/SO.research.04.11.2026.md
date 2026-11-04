@@ -36,10 +36,10 @@ The Southern Company, through its subsidiaries, engages in the sale of electrici
 
 | Headline | Source | Date |
 |---|---|---|
+| How Will Southern Stock React To Its Upcoming Earnings? | Trefis | 2026-11-04 |
 | What Does The Market Want From PG&E Stock? | Trefis | 2026-11-04 |
 | AI Data Center Backlash Is Real. The Blue Wave Takes Out Energy Stocks. | Barrons.com | 2026-11-04 |
 | Is PPL Stock Really Expensive? | Trefis | 2026-11-04 |
-| VST, CEG Stocks Drop As Election Outcome Hits Merchant Power Generators | Stocktwits | 2026-11-04 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -36,10 +36,10 @@ Dominion Energy, Inc. provides regulated electricity and natural gas services in
 
 | Headline | Source | Date |
 |---|---|---|
+| How Will Southern Stock React To Its Upcoming Earnings? | Trefis | 2026-11-04 |
 | How Much Did Dominion Stock Really Pay Its Holders? | Trefis | 2026-11-03 |
 | Nearly Two-Thirds of NextEra's New Backlog Last Quarter Was Batteries. Here's Why That Matters. | Motley Fool | 2026-11-03 |
 | Dominion Energy: 3 Key Takeaways for Long-Term Investors | Motley Fool | 2026-11-03 |
-| Has FirstEnergy Stock Really Become Cheaper? | Trefis | 2026-11-02 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ Dominion Energy, Inc. provides regulated electricity and natural gas services in
 | Revenue (ttm) | $19.21B | Revenue growth 24.10% y/y |
 | Profitability | Gross 46.51%, operating 35.07%, net 13.99% | ROA 3.17%, ROE 8.82% |
 | Balance sheet | Cash $435.00M, debt $55.60B | Current ratio 0.88, debt/equity 161.56 |
-| Valuation | P/E 23.02, forward P/E 18.28, P/S 3.19, P/B 2.15 | EV/Sales 6.23, EV/EBITDA 13.49 |
+| Valuation | P/E 23.33, forward P/E 18.28, P/S 3.19, P/B 2.15 | EV/Sales 6.23, EV/EBITDA 13.49 |
 | Growth expectations | Earnings growth 12.00%, EPS q/q 15.30% | Analyst mean target $69.92 (12 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -120,7 +120,7 @@ Dominion Energy, Inc. provides regulated electricity and natural gas services in
 | SMA200 dist | +8.92% | Revenue (ttm) | $19.21B |
 | 52W high | $70.97 | Revenue growth y/y | 24.10% |
 | 52W low | $55.36 | Inst. ownership | 82.65% |
-| P/E (ttm) | 23.02 | Insider ownership | 0.14% |
+| P/E (ttm) | 23.33 | Insider ownership | 0.14% |
 | Forward P/E | 18.28 | Short float | 2.72% |
 | PEG (trailing) | 2.60 | Avg volume | 4,397,584 |
 | P/S | 3.19 | Employees | 15,200 |

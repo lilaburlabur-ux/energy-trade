@@ -68,7 +68,7 @@ APA Corporation, an independent energy company, explores for, develops, and prod
 | Revenue (ttm) | $8.57B | Revenue growth 9.20% y/y |
 | Profitability | Gross 78.25%, operating 56.33%, net 19.56% | ROA 11.60%, ROE 26.66% |
 | Balance sheet | Cash $444.00M, debt $3.88B | Current ratio 0.95, debt/equity 48.85 |
-| Valuation | P/E 9.41, forward P/E 8.28, P/S 1.82, P/B 2.22 | EV/Sales 2.46, EV/EBITDA 3.69 |
+| Valuation | P/E 9.61, forward P/E 8.28, P/S 1.82, P/B 2.22 | EV/Sales 2.46, EV/EBITDA 3.69 |
 | Growth expectations | Earnings growth 26.30%, EPS q/q 23.90% | Analyst mean target $49.00 (25 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -121,7 +121,7 @@ APA Corporation, an independent energy company, explores for, develops, and prod
 | SMA200 dist | +18.18% | Revenue (ttm) | $8.57B |
 | 52W high | $52.82 | Revenue growth y/y | 9.20% |
 | 52W low | $21.06 | Inst. ownership | 109.84% |
-| P/E (ttm) | 9.41 | Insider ownership | 0.44% |
+| P/E (ttm) | 9.61 | Insider ownership | 0.44% |
 | Forward P/E | 8.28 | Short float | 8.78% |
 | PEG (trailing) | 1.17 | Avg volume | 5,592,862 |
 | P/S | 1.82 | Employees | 1,791 |

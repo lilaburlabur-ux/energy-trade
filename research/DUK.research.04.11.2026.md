@@ -36,10 +36,10 @@ Duke Energy Corporation, through its subsidiaries, operates as an energy company
 
 | Headline | Source | Date |
 |---|---|---|
+| How Will Southern Stock React To Its Upcoming Earnings? | Trefis | 2026-11-04 |
 | What Does The Market Want From PG&E Stock? | Trefis | 2026-11-04 |
 | Is PPL Stock Really Expensive? | Trefis | 2026-11-04 |
 | VST, CEG Stocks Drop As Election Outcome Hits Merchant Power Generators | Stocktwits | 2026-11-04 |
-| Duke Energy to Post Q3 Earnings: Here's What You Need to Know | Zacks | 2026-11-04 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ Duke Energy Corporation, through its subsidiaries, operates as an energy company
 | Revenue (ttm) | $32.80B | Revenue growth 1.10% y/y |
 | Profitability | Gross 51.97%, operating 27.50%, net 16.00% | ROA 2.84%, ROE 9.86% |
 | Balance sheet | Cash $673.00M, debt $92.21B | Current ratio 0.66, debt/equity 162.16 |
-| Valuation | P/E 19.52, forward P/E 18.08, P/S 3.08, P/B 1.88 | EV/Sales 5.89, EV/EBITDA 11.63 |
+| Valuation | P/E 19.81, forward P/E 18.08, P/S 3.08, P/B 1.88 | EV/Sales 5.89, EV/EBITDA 11.63 |
 | Growth expectations | Earnings growth 10.60%, EPS q/q 11.00% | Analyst mean target $131.74 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -120,7 +120,7 @@ Duke Energy Corporation, through its subsidiaries, operates as an energy company
 | SMA200 dist | +5.19% | Revenue (ttm) | $32.80B |
 | 52W high | $131.16 | Revenue growth y/y | 1.10% |
 | 52W low | $111.09 | Inst. ownership | 70.94% |
-| P/E (ttm) | 19.52 | Insider ownership | 0.13% |
+| P/E (ttm) | 19.81 | Insider ownership | 0.13% |
 | Forward P/E | 18.08 | Short float | 2.59% |
 | PEG (trailing) | 2.36 | Avg volume | 4,079,934 |
 | P/S | 3.08 | Employees | 26,441 |

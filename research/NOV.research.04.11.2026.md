@@ -18,7 +18,7 @@ Signed file: `NOV.research.04.11.2026`
 | Technical momentum | Low | Below SMA200 (-7.57%) with negative half-year (-9.48%). |
 | Fresh setup quality | Moderate / wait | -16.60% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 1.65%, revenue growth 2.30%. |
-| Value attractiveness | Reasonable | Forward P/E 14.27, EV/Sales 0.91. |
+| Value attractiveness | Reasonable | Forward P/E 14.31, EV/Sales 0.91. |
 | Risk level | High | Beta 0.95, ATR 3.6% of price, short float 14.31%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: high.
@@ -68,7 +68,7 @@ NOV Inc. designs, constructs, manufactures, and sells systems, components, and p
 | Revenue (ttm) | $8.69B | Revenue growth 2.30% y/y |
 | Profitability | Gross 21.31%, operating 6.16%, net 1.65% | ROA 3.39%, ROE 2.34% |
 | Balance sheet | Cash $1.06B, debt $2.32B | Current ratio 2.51, debt/equity 36.76 |
-| Valuation | P/E 43.98, forward P/E 14.27, P/S 0.74, P/B 1.03 | EV/Sales 0.91, EV/EBITDA 8.07 |
+| Valuation | P/E 43.98, forward P/E 14.31, P/S 0.74, P/B 1.03 | EV/Sales 0.91, EV/EBITDA 8.07 |
 | Growth expectations | Earnings growth 127.30%, EPS q/q 114.30% | Analyst mean target $22.30 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -122,7 +122,7 @@ NOV Inc. designs, constructs, manufactures, and sells systems, components, and p
 | 52W high | $21.62 | Revenue growth y/y | 2.30% |
 | 52W low | $14.06 | Inst. ownership | 108.09% |
 | P/E (ttm) | 43.98 | Insider ownership | 0.73% |
-| Forward P/E | 14.27 | Short float | 14.31% |
+| Forward P/E | 14.31 | Short float | 14.31% |
 | PEG (trailing) | 0.75 | Avg volume | 3,451,764 |
 | P/S | 0.74 | Employees | 31,605 |
 | P/B | 1.03 | Analyst rec (1=buy..5=sell) | 2.5 |

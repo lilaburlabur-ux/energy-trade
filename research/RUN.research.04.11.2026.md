@@ -5,7 +5,7 @@ Signed file: `RUN.research.04.11.2026`
 | Field | Value |
 |---|---|
 | Current price | $8.79 (2026-11-04, ~15-min delayed) |
-| Market cap | $2.10B |
+| Market cap | $2.12B |
 | Sector / Industry | Technology / Solar |
 | Main theme | Solar — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: high. |
@@ -68,7 +68,7 @@ Sunrun Inc. designs, develops, installs, sells, owns, and maintains residential 
 | Revenue (ttm) | $3.48B | Revenue growth 52.80% y/y |
 | Profitability | Gross 35.29%, operating 4.00%, net 11.59% | ROA 0.26%, ROE -19.86% |
 | Balance sheet | Cash $726.43M, debt $15.23B | Current ratio 1.42, debt/equity 292.51 |
-| Valuation | P/E 5.94, forward P/E 18.91, P/S 0.60, P/B 0.60 | EV/Sales 5.27, EV/EBITDA 21.79 |
+| Valuation | P/E 5.94, forward P/E 18.91, P/S 0.61, P/B 0.60 | EV/Sales 5.27, EV/EBITDA 21.79 |
 | Growth expectations | Earnings growth -60.70%, EPS q/q -58.80% | Analyst mean target $14.21 (18 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -113,7 +113,7 @@ Sunrun Inc. designs, develops, installs, sells, owns, and maintains residential 
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $8.79 | EV/Sales | 5.27 |
-| Market cap | $2.10B | EV/EBITDA | 21.79 |
+| Market cap | $2.12B | EV/EBITDA | 21.79 |
 | Beta | 2.32 | Gross margin | 35.29% |
 | RSI(14) | 63.2 | Operating margin | 4.00% |
 | ATR(14) | 0.53 | Profit margin | 11.59% |
@@ -125,7 +125,7 @@ Sunrun Inc. designs, develops, installs, sells, owns, and maintains residential 
 | P/E (ttm) | 5.94 | Insider ownership | 2.77% |
 | Forward P/E | 18.91 | Short float | 35.65% |
 | PEG (trailing) | 3.07 | Avg volume | 8,360,903 |
-| P/S | 0.60 | Employees | 9,059 |
+| P/S | 0.61 | Employees | 9,059 |
 | P/B | 0.60 | Analyst rec (1=buy..5=sell) | 2.0 |
 
 ## 8. Analyst Actions
