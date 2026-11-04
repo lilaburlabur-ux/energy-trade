@@ -4,7 +4,7 @@ Signed file: `CVX.research.04.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $225.27 (2026-11-04, ~15-min delayed) |
+| Current price | $nan (2026-11-04, ~15-min delayed) |
 | Market cap | $439.50B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
@@ -15,11 +15,11 @@ Signed file: `CVX.research.04.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +48.46%; price +17.39% vs SMA200. |
-| Fresh setup quality | Watch | -4.35% from 52w high and near SMA20 — check for a tight base. |
+| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
+| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 11.92%, revenue growth 34.80%. |
 | Value attractiveness | Reasonable | Forward P/E 13.77, EV/Sales 2.09. |
-| Risk level | Moderate | Beta 0.45, ATR 2.1% of price, short float 1.32%. |
+| Risk level | Moderate | Beta 0.45, ATR nan% of price, short float 1.32%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
@@ -44,22 +44,22 @@ Chevron Corporation, through its subsidiaries, engages in the integrated energy 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $225.27; 52w high $235.52 (-4.35%); 52w low $142.76 (+57.79%) |
-| Trend | +17.39% vs SMA200, +5.25% vs SMA50, +0.70% vs SMA20 |
-| Momentum | RSI(14) 55.0 (neutral) |
-| Volatility | ATR(14) 4.72 (~2.1% of price); beta 0.45 |
-| Setup perspective | -4.35% from 52w high and near SMA20 — check for a tight base. |
+| Price vs 52-week range | Close $nan; 52w high $235.52 (+nan%); 52w low $142.76 (+nan%) |
+| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
+| Momentum | RSI(14) 58.7 (neutral) |
+| Volatility | ATR(14) 4.83 (~nan% of price); beta 0.45 |
+| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -1.3% |
-| Month | +9.1% |
-| Quarter | +21.9% |
-| Half Y | +19.0% |
-| 1Y | +48.5% |
-| YTD | +48.5% |
+| Week | +nan% |
+| Month | +nan% |
+| Quarter | +nan% |
+| Half Y | +nan% |
+| 1Y | +nan% |
+| YTD | +nan% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -95,7 +95,6 @@ Chevron Corporation, through its subsidiaries, engages in the integrated energy 
 | NORGES BANK | 22,964,061 | 1.16% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -110,14 +109,14 @@ Chevron Corporation, through its subsidiaries, engages in the integrated energy 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $225.27 | EV/Sales | 2.09 |
+| Price | $nan | EV/Sales | 2.09 |
 | Market cap | $439.50B | EV/EBITDA | 8.14 |
 | Beta | 0.45 | Gross margin | 44.40% |
-| RSI(14) | 55.0 | Operating margin | 18.01% |
-| ATR(14) | 4.72 | Profit margin | 11.92% |
-| SMA20 dist | +0.70% | ROA | — |
-| SMA50 dist | +5.25% | ROE | — |
-| SMA200 dist | +17.39% | Revenue (ttm) | $226.33B |
+| RSI(14) | 58.7 | Operating margin | 18.01% |
+| ATR(14) | 4.83 | Profit margin | 11.92% |
+| SMA20 dist | +nan% | ROA | — |
+| SMA50 dist | +nan% | ROE | — |
+| SMA200 dist | +nan% | Revenue (ttm) | $226.33B |
 | 52W high | $235.52 | Revenue growth y/y | 34.80% |
 | 52W low | $142.76 | Inst. ownership | 72.06% |
 | P/E (ttm) | 16.54 | Insider ownership | 4.83% |

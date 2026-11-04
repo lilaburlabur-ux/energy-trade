@@ -4,7 +4,7 @@ Signed file: `XOM.research.04.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $177.46 (2026-11-04, ~15-min delayed) |
+| Current price | $nan (2026-11-04, ~15-min delayed) |
 | Market cap | $723.86B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
@@ -15,11 +15,11 @@ Signed file: `XOM.research.04.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +59.67%; price +15.30% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -5.23% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
+| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 10.46%, revenue growth 32.60%. |
 | Value attractiveness | Reasonable | Forward P/E 14.77, EV/Sales 1.94. |
-| Risk level | Moderate | Beta 0.14, ATR 2.3% of price, short float 1.16%. |
+| Risk level | Moderate | Beta 0.14, ATR nan% of price, short float 1.16%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
@@ -44,22 +44,22 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $177.46; 52w high $187.25 (-5.23%); 52w low $110.48 (+60.63%) |
-| Trend | +15.30% vs SMA200, +5.43% vs SMA50, +0.03% vs SMA20 |
-| Momentum | RSI(14) 53.4 (neutral) |
-| Volatility | ATR(14) 4.15 (~2.3% of price); beta 0.14 |
-| Setup perspective | -5.23% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $nan; 52w high $187.25 (+nan%); 52w low $110.48 (+nan%) |
+| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
+| Momentum | RSI(14) 57.1 (neutral) |
+| Volatility | ATR(14) 4.23 (~nan% of price); beta 0.14 |
+| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -1.4% |
-| Month | +8.2% |
-| Quarter | +17.8% |
-| Half Y | +16.1% |
-| 1Y | +59.7% |
-| YTD | +47.6% |
+| Week | +nan% |
+| Month | +nan% |
+| Quarter | +nan% |
+| Half Y | +nan% |
+| 1Y | +nan% |
+| YTD | +nan% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -95,7 +95,6 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 | NORGES BANK | 60,999,693 | 1.47% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -110,14 +109,14 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $177.46 | EV/Sales | 1.94 |
+| Price | $nan | EV/Sales | 1.94 |
 | Market cap | $723.86B | EV/EBITDA | 9.54 |
 | Beta | 0.14 | Gross margin | 29.81% |
-| RSI(14) | 53.4 | Operating margin | 16.98% |
-| ATR(14) | 4.15 | Profit margin | 10.46% |
-| SMA20 dist | +0.03% | ROA | 6.88% |
-| SMA50 dist | +5.43% | ROE | 15.53% |
-| SMA200 dist | +15.30% | Revenue (ttm) | $388.23B |
+| RSI(14) | 57.1 | Operating margin | 16.98% |
+| ATR(14) | 4.23 | Profit margin | 10.46% |
+| SMA20 dist | +nan% | ROA | 6.88% |
+| SMA50 dist | +nan% | ROE | 15.53% |
+| SMA200 dist | +nan% | Revenue (ttm) | $388.23B |
 | 52W high | $187.25 | Revenue growth y/y | 32.60% |
 | 52W low | $110.48 | Inst. ownership | 68.65% |
 | P/E (ttm) | 18.26 | Insider ownership | 0.08% |

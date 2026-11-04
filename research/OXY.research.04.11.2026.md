@@ -4,7 +4,7 @@ Signed file: `OXY.research.04.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $60.43 (2026-11-04, ~15-min delayed) |
+| Current price | $nan (2026-11-04, ~15-min delayed) |
 | Market cap | $60.41B |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
@@ -15,11 +15,11 @@ Signed file: `OXY.research.04.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +49.60%; price +8.14% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -7.93% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
+| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 30.32%, revenue growth 53.40%. |
-| Value attractiveness | Reasonable | Forward P/E 12.05, EV/Sales 3.35. |
-| Risk level | Moderate | Beta 0.15, ATR 2.7% of price, short float 0.02%. |
+| Value attractiveness | Reasonable | Forward P/E 12.05, EV/Sales 3.34. |
+| Risk level | Moderate | Beta 0.15, ATR nan% of price, short float 0.02%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate.
 
@@ -44,22 +44,22 @@ Occidental Petroleum Corporation, together with its subsidiaries, engages in the
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $60.43; 52w high $65.63 (-7.93%); 52w low $38.38 (+57.44%) |
-| Trend | +8.14% vs SMA200, +0.52% vs SMA50, -2.43% vs SMA20 |
-| Momentum | RSI(14) 46.1 (neutral) |
-| Volatility | ATR(14) 1.61 (~2.7% of price); beta 0.15 |
-| Setup perspective | -7.93% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $nan; 52w high $65.63 (+nan%); 52w low $38.38 (+nan%) |
+| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
+| Momentum | RSI(14) 47.3 (neutral) |
+| Volatility | ATR(14) 1.65 (~nan% of price); beta 0.15 |
+| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -3.7% |
-| Month | +3.6% |
-| Quarter | +12.8% |
-| Half Y | +2.8% |
-| 1Y | +49.6% |
-| YTD | +44.6% |
+| Week | +nan% |
+| Month | +nan% |
+| Quarter | +nan% |
+| Half Y | +nan% |
+| 1Y | +nan% |
+| YTD | +nan% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Occidental Petroleum Corporation, together with its subsidiaries, engages in the
 | Revenue (ttm) | $23.93B | Revenue growth 53.40% y/y |
 | Profitability | Gross 73.32%, operating 45.44%, net 30.32% | ROA 4.68%, ROE 10.63% |
 | Balance sheet | Cash $4.15B, debt $14.63B | Current ratio 1.41, debt/equity 34.51 |
-| Valuation | P/E 17.17, forward P/E 12.05, P/S 2.52, P/B 1.81 | EV/Sales 3.35, EV/EBITDA 5.84 |
+| Valuation | P/E 17.17, forward P/E 12.05, P/S 2.52, P/B 1.81 | EV/Sales 3.34, EV/EBITDA 5.82 |
 | Growth expectations | Earnings growth 964.90%, EPS q/q 550.00% | Analyst mean target $70.74 (27 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,6 @@ Occidental Petroleum Corporation, together with its subsidiaries, engages in the
 | AQR Capital Management, LLC | 11,473,188 | 1.15% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -110,14 +109,14 @@ Occidental Petroleum Corporation, together with its subsidiaries, engages in the
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $60.43 | EV/Sales | 3.35 |
-| Market cap | $60.41B | EV/EBITDA | 5.84 |
+| Price | $nan | EV/Sales | 3.34 |
+| Market cap | $60.41B | EV/EBITDA | 5.82 |
 | Beta | 0.15 | Gross margin | 73.32% |
-| RSI(14) | 46.1 | Operating margin | 45.44% |
-| ATR(14) | 1.61 | Profit margin | 30.32% |
-| SMA20 dist | -2.43% | ROA | 4.68% |
-| SMA50 dist | +0.52% | ROE | 10.63% |
-| SMA200 dist | +8.14% | Revenue (ttm) | $23.93B |
+| RSI(14) | 47.3 | Operating margin | 45.44% |
+| ATR(14) | 1.65 | Profit margin | 30.32% |
+| SMA20 dist | +nan% | ROA | 4.68% |
+| SMA50 dist | +nan% | ROE | 10.63% |
+| SMA200 dist | +nan% | Revenue (ttm) | $23.93B |
 | 52W high | $65.63 | Revenue growth y/y | 53.40% |
 | 52W low | $38.38 | Inst. ownership | 58.32% |
 | P/E (ttm) | 17.17 | Insider ownership | 26.81% |

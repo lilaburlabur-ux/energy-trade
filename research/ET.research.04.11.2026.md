@@ -4,7 +4,7 @@ Signed file: `ET.research.04.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $20.16 (2026-11-04, ~15-min delayed) |
+| Current price | $nan (2026-11-04, ~15-min delayed) |
 | Market cap | $69.42B |
 | Sector / Industry | Energy / Oil & Gas Midstream |
 | Main theme | Oil & Gas Midstream — see catalysts below |
@@ -15,11 +15,11 @@ Signed file: `ET.research.04.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +28.76%; price +4.22% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -7.23% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
+| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 4.92%, revenue growth 78.40%. |
 | Value attractiveness | Reasonable | Forward P/E 11.56, EV/Sales 1.47. |
-| Risk level | Moderate | Beta 0.60, ATR 2.2% of price, short float 0.87%. |
+| Risk level | Moderate | Beta 0.60, ATR nan% of price, short float 0.87%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
@@ -44,22 +44,22 @@ Energy Transfer LP, together with its subsidiaries, provides energy-related serv
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $20.16; 52w high $21.73 (-7.23%); 52w low $15.38 (+31.04%) |
-| Trend | +4.22% vs SMA200, -2.73% vs SMA50, -0.95% vs SMA20 |
-| Momentum | RSI(14) 45.3 (neutral) |
-| Volatility | ATR(14) 0.43 (~2.2% of price); beta 0.60 |
-| Setup perspective | -7.23% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $nan; 52w high $21.73 (+nan%); 52w low $15.38 (+nan%) |
+| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
+| Momentum | RSI(14) 47.9 (neutral) |
+| Volatility | ATR(14) 0.43 (~nan% of price); beta 0.60 |
+| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -1.2% |
-| Month | -2.7% |
-| Quarter | +0.8% |
-| Half Y | +2.3% |
-| 1Y | +28.8% |
-| YTD | +28.0% |
+| Week | +nan% |
+| Month | +nan% |
+| Quarter | +nan% |
+| Half Y | +nan% |
+| 1Y | +nan% |
+| YTD | +nan% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -95,7 +95,6 @@ Energy Transfer LP, together with its subsidiaries, provides energy-related serv
 | Energy Income Partners, LLC | 25,654,536 | 0.75% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -110,14 +109,14 @@ Energy Transfer LP, together with its subsidiaries, provides energy-related serv
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $20.16 | EV/Sales | 1.47 |
+| Price | $nan | EV/Sales | 1.47 |
 | Market cap | $69.42B | EV/EBITDA | 9.22 |
 | Beta | 0.60 | Gross margin | 17.51% |
-| RSI(14) | 45.3 | Operating margin | 10.41% |
+| RSI(14) | 47.9 | Operating margin | 10.41% |
 | ATR(14) | 0.43 | Profit margin | 4.92% |
-| SMA20 dist | -0.95% | ROA | 5.06% |
-| SMA50 dist | -2.73% | ROE | 14.56% |
-| SMA200 dist | +4.22% | Revenue (ttm) | $107.38B |
+| SMA20 dist | +nan% | ROA | 5.06% |
+| SMA50 dist | +nan% | ROE | 14.56% |
+| SMA200 dist | +nan% | Revenue (ttm) | $107.38B |
 | 52W high | $21.73 | Revenue growth y/y | 78.40% |
 | 52W low | $15.38 | Inst. ownership | 32.49% |
 | P/E (ttm) | 13.81 | Insider ownership | 10.29% |

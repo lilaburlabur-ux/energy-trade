@@ -4,24 +4,24 @@ Signed file: `BE.research.04.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $214.01 (2026-11-04, ~15-min delayed) |
+| Current price | $nan (2026-11-04, ~15-min delayed) |
 | Market cap | $63.25B |
 | Sector / Industry | Industrials / Electrical Equipment & Parts |
 | Main theme | Electrical Equipment & Parts — see catalysts below |
-| Current stance | High technical momentum, mixed fundamentals, value: low (expensive), risk: high. |
+| Current stance | Moderate technical momentum, mixed fundamentals, value: low (expensive), risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-04.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +61.93%; price -3.58% vs SMA200. |
-| Fresh setup quality | Poor / broken | -38.12% from 52w high — base needs to rebuild. |
+| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
+| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 13.53%, revenue growth 138.10%. |
 | Value attractiveness | Low (expensive) | Forward P/E 40.20, EV/Sales 16.61. |
-| Risk level | High | Beta 3.62, ATR 9.2% of price, short float 6.62%. |
+| Risk level | High | Beta 3.62, ATR nan% of price, short float 6.62%. |
 
-**Bottom line:** High technical momentum, mixed fundamentals, value: low (expensive), risk: high.
+**Bottom line:** Moderate technical momentum, mixed fundamentals, value: low (expensive), risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -36,30 +36,30 @@ Bloom Energy Corporation designs, manufactures, sells, and installs solid oxide 
 
 | Headline | Source | Date |
 |---|---|---|
+| BE Stock Heads For Best Week In Over A Month: This Analyst Says Bloom’s Demand Trends Are Getting ‘Harder To Ignore’ | Stocktwits | 2026-11-04 |
 | Apple, Palantir, Pfizer, Marvell, AMD, Bloom Energy, Gartner, and More Stocks That Explain Today’s Market | Barrons.com | 2026-11-03 |
 | What California Resources (CRC) Said on Its Q3 Earnings Call | MarketBeat | 2026-11-03 |
 | Bloom Energy (BE) Signed A Carbon Captured Power Deal In California | Simply Wall St. | 2026-11-03 |
-| Why Did Bloom Energy Stock Jump 10% Today? | Motley Fool | 2026-11-03 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $214.01; 52w high $345.85 (-38.12%); 52w low $76.97 (+178.04%) |
-| Trend | -3.58% vs SMA200, -13.81% vs SMA50, -7.99% vs SMA20 |
-| Momentum | RSI(14) 44.0 (neutral) |
-| Volatility | ATR(14) 19.74 (~9.2% of price); beta 3.62 |
-| Setup perspective | -38.12% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $nan; 52w high $345.85 (+nan%); 52w low $76.97 (+nan%) |
+| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
+| Momentum | RSI(14) 37.5 (neutral) |
+| Volatility | ATR(14) 19.39 (~nan% of price); beta 3.62 |
+| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -2.1% |
-| Month | -25.3% |
-| Quarter | -8.7% |
-| Half Y | -27.5% |
-| 1Y | +61.9% |
-| YTD | +116.9% |
+| Week | +nan% |
+| Month | +nan% |
+| Quarter | +nan% |
+| Half Y | +nan% |
+| 1Y | +nan% |
+| YTD | +nan% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -96,9 +96,8 @@ Bloom Energy Corporation designs, manufactures, sells, and installs solid oxide 
 
 ## 6. Risk Review and Setup Plan
 - **Valuation risk:** Forward P/E 40.20, EV/Sales 16.61. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 3.62, ATR 9.2% of price, short float 6.62%. Size positions accordingly.
+- **Volatility risk:** Beta 3.62, ATR nan% of price, short float 6.62%. Size positions accordingly.
 - **Short interest risk:** short float 6.62% can fuel squeezes both ways around news.
-- **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -113,14 +112,14 @@ Bloom Energy Corporation designs, manufactures, sells, and installs solid oxide 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $214.01 | EV/Sales | 16.61 |
+| Price | $nan | EV/Sales | 16.61 |
 | Market cap | $63.25B | EV/EBITDA | 105.48 |
 | Beta | 3.62 | Gross margin | 31.77% |
-| RSI(14) | 44.0 | Operating margin | 18.49% |
-| ATR(14) | 19.74 | Profit margin | 13.53% |
-| SMA20 dist | -7.99% | ROA | 7.45% |
-| SMA50 dist | -13.81% | ROE | 39.61% |
-| SMA200 dist | -3.58% | Revenue (ttm) | $3.83B |
+| RSI(14) | 37.5 | Operating margin | 18.49% |
+| ATR(14) | 19.39 | Profit margin | 13.53% |
+| SMA20 dist | +nan% | ROA | 7.45% |
+| SMA50 dist | +nan% | ROE | 39.61% |
+| SMA200 dist | +nan% | Revenue (ttm) | $3.83B |
 | 52W high | $345.85 | Revenue growth y/y | 138.10% |
 | 52W low | $76.97 | Inst. ownership | 90.30% |
 | P/E (ttm) | 129.70 | Insider ownership | 5.52% |
@@ -142,7 +141,7 @@ Bloom Energy Corporation designs, manufactures, sells, and installs solid oxide 
 | 2026-10-23 | main | Morgan Stanley | Overweight → Overweight |
 
 ## 9. Conclusion
-BE: High momentum / mixed fundamentals / low (expensive) value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+BE: Moderate momentum / mixed fundamentals / low (expensive) value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

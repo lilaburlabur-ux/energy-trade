@@ -4,7 +4,7 @@ Signed file: `OKE.research.04.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $91.94 (2026-11-04, ~15-min delayed) |
+| Current price | $nan (2026-11-04, ~15-min delayed) |
 | Market cap | $57.96B |
 | Sector / Industry | Energy / Oil & Gas Midstream |
 | Main theme | Oil & Gas Midstream — see catalysts below |
@@ -15,11 +15,11 @@ Signed file: `OKE.research.04.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +46.29%; price +5.85% vs SMA200. |
-| Fresh setup quality | Watch | -4.66% from 52w high and near SMA20 — check for a tight base. |
+| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
+| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 9.42%, revenue growth 44.30%. |
 | Value attractiveness | Reasonable | Forward P/E 15.09, EV/Sales 2.21. |
-| Risk level | Moderate | Beta 0.74, ATR 2.6% of price, short float 4.21%. |
+| Risk level | Moderate | Beta 0.74, ATR nan% of price, short float 4.21%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
@@ -44,22 +44,22 @@ ONEOK, Inc. operates as a midstream service provider of gathering, processing, f
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $91.94; 52w high $96.44 (-4.66%); 52w low $61.27 (+50.06%) |
-| Trend | +5.85% vs SMA200, +0.15% vs SMA50, -0.25% vs SMA20 |
-| Momentum | RSI(14) 49.3 (neutral) |
-| Volatility | ATR(14) 2.42 (~2.6% of price); beta 0.74 |
-| Setup perspective | -4.66% from 52w high and near SMA20 — check for a tight base. |
+| Price vs 52-week range | Close $nan; 52w high $96.44 (+nan%); 52w low $61.27 (+nan%) |
+| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
+| Momentum | RSI(14) 51.0 (neutral) |
+| Volatility | ATR(14) 2.38 (~nan% of price); beta 0.74 |
+| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -3.2% |
-| Month | +5.0% |
-| Quarter | +6.6% |
-| Half Y | +4.5% |
-| 1Y | +46.3% |
-| YTD | +29.8% |
+| Week | +nan% |
+| Month | +nan% |
+| Quarter | +nan% |
+| Half Y | +nan% |
+| 1Y | +nan% |
+| YTD | +nan% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -95,7 +95,6 @@ ONEOK, Inc. operates as a midstream service provider of gathering, processing, f
 | UBS Group AG | 11,588,291 | 1.84% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -110,14 +109,14 @@ ONEOK, Inc. operates as a midstream service provider of gathering, processing, f
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $91.94 | EV/Sales | 2.21 |
+| Price | $nan | EV/Sales | 2.21 |
 | Market cap | $57.96B | EV/EBITDA | 12.40 |
 | Beta | 0.74 | Gross margin | 25.20% |
-| RSI(14) | 49.3 | Operating margin | 12.71% |
-| ATR(14) | 2.42 | Profit margin | 9.42% |
-| SMA20 dist | -0.25% | ROA | 5.46% |
-| SMA50 dist | +0.15% | ROE | 15.02% |
-| SMA200 dist | +5.85% | Revenue (ttm) | $43.19B |
+| RSI(14) | 51.0 | Operating margin | 12.71% |
+| ATR(14) | 2.38 | Profit margin | 9.42% |
+| SMA20 dist | +nan% | ROA | 5.46% |
+| SMA50 dist | +nan% | ROE | 15.02% |
+| SMA200 dist | +nan% | Revenue (ttm) | $43.19B |
 | 52W high | $96.44 | Revenue growth y/y | 44.30% |
 | 52W low | $61.27 | Inst. ownership | 83.96% |
 | P/E (ttm) | 14.28 | Insider ownership | 0.15% |

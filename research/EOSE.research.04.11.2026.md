@@ -4,24 +4,24 @@ Signed file: `EOSE.research.04.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $1.90 (2026-11-04, ~15-min delayed) |
+| Current price | $nan (2026-11-04, ~15-min delayed) |
 | Market cap | $691.92M |
 | Sector / Industry | Industrials / Electrical Equipment & Parts |
 | Main theme | Electrical Equipment & Parts — see catalysts below |
-| Current stance | Low technical momentum, weak fundamentals, value: reasonable, risk: high. |
+| Current stance | Moderate technical momentum, weak fundamentals, value: reasonable, risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-04.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-68.86%) with negative half-year (-69.50%). |
-| Fresh setup quality | Poor / broken | -90.10% from 52w high — base needs to rebuild. |
+| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
+| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Weak | Negative profit margin (-246.76%). |
-| Value attractiveness | Reasonable | Forward P/E -10.87, EV/Sales 7.89. |
-| Risk level | High | Beta 3.17, ATR 11.9% of price, short float 38.62%. |
+| Value attractiveness | Reasonable | Forward P/E -10.87, EV/Sales 8.12. |
+| Risk level | High | Beta 3.17, ATR nan% of price, short float 38.62%. |
 
-**Bottom line:** Low technical momentum, weak fundamentals, value: reasonable, risk: high.
+**Bottom line:** Moderate technical momentum, weak fundamentals, value: reasonable, risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -44,22 +44,22 @@ Eos Energy Enterprises, Inc. designs, develops, manufactures, and markets energy
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $1.90; 52w high $19.19 (-90.10%); 52w low $1.62 (+17.28%) |
-| Trend | -68.86% vs SMA200, -35.71% vs SMA50, -6.30% vs SMA20 |
-| Momentum | RSI(14) 38.2 (neutral) |
-| Volatility | ATR(14) 0.23 (~11.9% of price); beta 3.17 |
-| Setup perspective | -90.10% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $nan; 52w high $19.19 (+nan%); 52w low $1.62 (+nan%) |
+| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
+| Momentum | RSI(14) 33.0 (neutral) |
+| Volatility | ATR(14) 0.23 (~nan% of price); beta 3.17 |
+| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +4.4% |
-| Month | -41.9% |
-| Quarter | -50.3% |
-| Half Y | -69.5% |
-| 1Y | -88.1% |
-| YTD | -85.4% |
+| Week | +nan% |
+| Month | +nan% |
+| Quarter | +nan% |
+| Half Y | +nan% |
+| 1Y | +nan% |
+| YTD | +nan% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Eos Energy Enterprises, Inc. designs, develops, manufactures, and markets energy
 | Revenue (ttm) | $214.25M | Revenue growth 351.40% y/y |
 | Profitability | Gross -84.75%, operating -121.86%, net -246.76% | ROA -30.03%, ROE — |
 | Balance sheet | Cash $305.49M, debt $640.83M | Current ratio 3.26, debt/equity — |
-| Valuation | P/E —, forward P/E -10.87, P/S 3.23, P/B -0.63 | EV/Sales 7.89, EV/EBITDA -5.94 |
+| Valuation | P/E —, forward P/E -10.87, P/S 3.23, P/B -0.63 | EV/Sales 8.12, EV/EBITDA -6.12 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $6.19 (8 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,10 +95,9 @@ Eos Energy Enterprises, Inc. designs, develops, manufactures, and markets energy
 | Morgan Stanley | 5,313,829 | 1.46% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 3.17, ATR 11.9% of price, short float 38.62%. Size positions accordingly.
+- **Volatility risk:** Beta 3.17, ATR nan% of price, short float 38.62%. Size positions accordingly.
 - **Short interest risk:** short float 38.62% can fuel squeezes both ways around news.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
-- **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -113,14 +112,14 @@ Eos Energy Enterprises, Inc. designs, develops, manufactures, and markets energy
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $1.90 | EV/Sales | 7.89 |
-| Market cap | $691.92M | EV/EBITDA | -5.94 |
+| Price | $nan | EV/Sales | 8.12 |
+| Market cap | $691.92M | EV/EBITDA | -6.12 |
 | Beta | 3.17 | Gross margin | -84.75% |
-| RSI(14) | 38.2 | Operating margin | -121.86% |
+| RSI(14) | 33.0 | Operating margin | -121.86% |
 | ATR(14) | 0.23 | Profit margin | -246.76% |
-| SMA20 dist | -6.30% | ROA | -30.03% |
-| SMA50 dist | -35.71% | ROE | — |
-| SMA200 dist | -68.86% | Revenue (ttm) | $214.25M |
+| SMA20 dist | +nan% | ROA | -30.03% |
+| SMA50 dist | +nan% | ROE | — |
+| SMA200 dist | +nan% | Revenue (ttm) | $214.25M |
 | 52W high | $19.19 | Revenue growth y/y | 351.40% |
 | 52W low | $1.62 | Inst. ownership | 64.42% |
 | P/E (ttm) | — | Insider ownership | 1.38% |
@@ -142,7 +141,7 @@ Eos Energy Enterprises, Inc. designs, develops, manufactures, and markets energy
 | 2026-07-13 | main | Stifel | Buy → Buy |
 
 ## 9. Conclusion
-EOSE: Low momentum / weak fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+EOSE: Moderate momentum / weak fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

@@ -4,7 +4,7 @@ Signed file: `EPD.research.04.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $37.50 (2026-11-04, ~15-min delayed) |
+| Current price | $nan (2026-11-04, ~15-min delayed) |
 | Market cap | $80.98B |
 | Sector / Industry | Energy / Oil & Gas Midstream |
 | Main theme | Oil & Gas Midstream — see catalysts below |
@@ -15,11 +15,11 @@ Signed file: `EPD.research.04.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +29.30%; price +3.39% vs SMA200. |
-| Fresh setup quality | Watch | -3.34% from 52w high and near SMA20 — check for a tight base. |
+| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
+| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 10.24%, revenue growth 49.30%. |
-| Value attractiveness | Reasonable | Forward P/E 11.81, EV/Sales 1.79. |
-| Risk level | Moderate | Beta 0.46, ATR 1.9% of price, short float 2.50%. |
+| Value attractiveness | Reasonable | Forward P/E 11.81, EV/Sales 1.80. |
+| Risk level | Moderate | Beta 0.46, ATR nan% of price, short float 2.50%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
@@ -44,22 +44,22 @@ Enterprise Products Partners L.P. provides midstream energy services to producer
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $37.50; 52w high $38.80 (-3.34%); 52w low $28.47 (+31.73%) |
-| Trend | +3.39% vs SMA200, +1.06% vs SMA50, +2.86% vs SMA20 |
-| Momentum | RSI(14) 56.5 (neutral) |
-| Volatility | ATR(14) 0.70 (~1.9% of price); beta 0.46 |
-| Setup perspective | -3.34% from 52w high and near SMA20 — check for a tight base. |
+| Price vs 52-week range | Close $nan; 52w high $38.80 (+nan%); 52w low $28.47 (+nan%) |
+| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
+| Momentum | RSI(14) 55.5 (neutral) |
+| Volatility | ATR(14) 0.68 (~nan% of price); beta 0.46 |
+| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +2.4% |
-| Month | +3.4% |
-| Quarter | +0.9% |
-| Half Y | +0.3% |
-| 1Y | +29.3% |
-| YTD | +23.8% |
+| Week | +nan% |
+| Month | +nan% |
+| Quarter | +nan% |
+| Half Y | +nan% |
+| 1Y | +nan% |
+| YTD | +nan% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Enterprise Products Partners L.P. provides midstream energy services to producer
 | Revenue (ttm) | $64.40B | Revenue growth 49.30% y/y |
 | Profitability | Gross 12.56%, operating 10.64%, net 10.24% | ROA —, ROE — |
 | Balance sheet | Cash $246.00M, debt $34.21B | Current ratio —, debt/equity 109.97 |
-| Valuation | P/E 12.38, forward P/E 11.81, P/S 1.26, P/B 2.68 | EV/Sales 1.79, EV/EBITDA 10.81 |
+| Valuation | P/E 12.38, forward P/E 11.81, P/S 1.26, P/B 2.68 | EV/Sales 1.80, EV/EBITDA 10.84 |
 | Growth expectations | Earnings growth 21.60%, EPS q/q 21.40% | Analyst mean target $41.67 (21 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,6 @@ Enterprise Products Partners L.P. provides midstream energy services to producer
 | Kayne Anderson Capital Advisors, L.P. | 12,869,425 | 0.60% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -110,14 +109,14 @@ Enterprise Products Partners L.P. provides midstream energy services to producer
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $37.50 | EV/Sales | 1.79 |
-| Market cap | $80.98B | EV/EBITDA | 10.81 |
+| Price | $nan | EV/Sales | 1.80 |
+| Market cap | $80.98B | EV/EBITDA | 10.84 |
 | Beta | 0.46 | Gross margin | 12.56% |
-| RSI(14) | 56.5 | Operating margin | 10.64% |
-| ATR(14) | 0.70 | Profit margin | 10.24% |
-| SMA20 dist | +2.86% | ROA | — |
-| SMA50 dist | +1.06% | ROE | — |
-| SMA200 dist | +3.39% | Revenue (ttm) | $64.40B |
+| RSI(14) | 55.5 | Operating margin | 10.64% |
+| ATR(14) | 0.68 | Profit margin | 10.24% |
+| SMA20 dist | +nan% | ROA | — |
+| SMA50 dist | +nan% | ROE | — |
+| SMA200 dist | +nan% | Revenue (ttm) | $64.40B |
 | 52W high | $38.80 | Revenue growth y/y | 49.30% |
 | 52W low | $28.47 | Inst. ownership | 25.64% |
 | P/E (ttm) | 12.38 | Insider ownership | 33.05% |

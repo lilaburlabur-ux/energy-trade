@@ -4,24 +4,24 @@ Signed file: `PEG.research.04.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $72.81 (2026-11-04, ~15-min delayed) |
+| Current price | $nan (2026-11-04, ~15-min delayed) |
 | Market cap | $36.28B |
 | Sector / Industry | Utilities / Utilities - Regulated Electric |
 | Main theme | Utilities - Regulated Electric — see catalysts below |
-| Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
+| Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-04.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-5.42%) with negative half-year (-7.05%). |
-| Fresh setup quality | Moderate / wait | -14.08% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
+| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 14.31%, revenue growth -6.40%. |
 | Value attractiveness | Reasonable | Forward P/E 15.67, EV/Sales —. |
-| Risk level | Moderate | Beta —, ATR 1.8% of price, short float 2.04%. |
+| Risk level | Moderate | Beta —, ATR nan% of price, short float 2.04%. |
 
-**Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
+**Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -36,30 +36,30 @@ Public Service Enterprise Group Incorporated, through its subsidiaries, operates
 
 | Headline | Source | Date |
 |---|---|---|
+| How Earnings Miss Will Impact PSEG Stock Investors | Simply Wall St. | 2026-11-04 |
 | Public Service Enterprise Group (PEG) Holds Guidance After Earnings Misses While Fair Value Still Leads | Simply Wall St. | 2026-11-03 |
 | Can Edison International Stock Jump 30%? | Trefis | 2026-11-03 |
 | PSEG Power plans 200-MW nuclear uprate as company eyes data center deals | Utility Dive | 2026-11-03 |
-| Public Service Enterprise Group Inc (PEG) (Q3 2026) Earnings Call Highlights: Reaffirmed ... | GuruFocus.com | 2026-11-02 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $72.81; 52w high $84.74 (-14.08%); 52w low $66.56 (+9.39%) |
-| Trend | -5.42% vs SMA200, +2.40% vs SMA50, +1.21% vs SMA20 |
-| Momentum | RSI(14) 55.3 (neutral) |
-| Volatility | ATR(14) 1.34 (~1.8% of price); beta — |
-| Setup perspective | -14.08% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $nan; 52w high $84.74 (+nan%); 52w low $66.56 (+nan%) |
+| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
+| Momentum | RSI(14) 65.7 (neutral) |
+| Volatility | ATR(14) 1.30 (~nan% of price); beta — |
+| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -0.0% |
-| Month | +6.0% |
-| Quarter | -2.7% |
-| Half Y | -7.0% |
-| 1Y | -6.5% |
-| YTD | -7.8% |
+| Week | +nan% |
+| Month | +nan% |
+| Quarter | +nan% |
+| Half Y | +nan% |
+| 1Y | +nan% |
+| YTD | +nan% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -109,14 +109,14 @@ Public Service Enterprise Group Incorporated, through its subsidiaries, operates
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $72.81 | EV/Sales | — |
+| Price | $nan | EV/Sales | — |
 | Market cap | $36.28B | EV/EBITDA | — |
 | Beta | — | Gross margin | 32.12% |
-| RSI(14) | 55.3 | Operating margin | 21.29% |
-| ATR(14) | 1.34 | Profit margin | 14.31% |
-| SMA20 dist | +1.21% | ROA | — |
-| SMA50 dist | +2.40% | ROE | — |
-| SMA200 dist | -5.42% | Revenue (ttm) | $12.34B |
+| RSI(14) | 65.7 | Operating margin | 21.29% |
+| ATR(14) | 1.30 | Profit margin | 14.31% |
+| SMA20 dist | +nan% | ROA | — |
+| SMA50 dist | +nan% | ROE | — |
+| SMA200 dist | +nan% | Revenue (ttm) | $12.34B |
 | 52W high | $84.74 | Revenue growth y/y | -6.40% |
 | 52W low | $66.56 | Inst. ownership | 79.40% |
 | P/E (ttm) | 20.57 | Insider ownership | 0.13% |
@@ -138,7 +138,7 @@ Public Service Enterprise Group Incorporated, through its subsidiaries, operates
 | 2026-09-18 | main | Morgan Stanley | Overweight → Overweight |
 
 ## 9. Conclusion
-PEG: Low momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+PEG: Moderate momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

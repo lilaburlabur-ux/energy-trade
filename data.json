@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-04T01:20:39+00:00",
-  "as_of_local": "2026-11-04 01:20:39 UTC",
+  "as_of_utc": "2026-11-04T01:25:42+00:00",
+  "as_of_local": "2026-11-04 01:25:42 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -1049,6 +1049,12 @@
       "market_cap": 36282781279.62,
       "headlines": [
         {
+          "title": "How Earnings Miss Will Impact PSEG Stock Investors",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/earnings-miss-impact-pseg-stock-011704773.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-04T01:17:04Z"
+        },
+        {
           "title": "Public Service Enterprise Group (PEG) Holds Guidance After Earnings Misses While Fair Value Still Leads",
           "url": "https://finance.yahoo.com/markets/stocks/articles/public-enterprise-group-peg-holds-221813853.html",
           "publisher": "Simply Wall St.",
@@ -1059,12 +1065,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/edison-international-stock-jump-30-160603870.html",
           "publisher": "Trefis",
           "published": "2026-11-03T16:06:03Z"
-        },
-        {
-          "title": "PSEG Power plans 200-MW nuclear uprate as company eyes data center deals",
-          "url": "https://finance.yahoo.com/energy/articles/pseg-power-plans-200-mw-151554908.html",
-          "publisher": "Utility Dive",
-          "published": "2026-11-03T15:15:54Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 96.75,
-      "change_pct": 0.3
+      "price": 96.65,
+      "change_pct": 0.2
     },
     {
       "label": "Brent",
-      "price": 104.48,
-      "change_pct": -0.28
+      "price": 104.34,
+      "change_pct": -0.41
     },
     {
       "label": "NatGas",
       "price": 2.9,
-      "change_pct": 1.72
+      "change_pct": 1.58
     }
   ]
 }
