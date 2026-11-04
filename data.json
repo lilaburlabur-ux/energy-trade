@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-04T12:52:22+00:00",
-  "as_of_local": "2026-11-04 12:52:22 UTC",
+  "as_of_utc": "2026-11-04T12:53:39+00:00",
+  "as_of_local": "2026-11-04 12:53:39 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "EPD"
+    "SMR"
   ],
   "stocks": [
     {
@@ -572,7 +572,7 @@
       "price": 155.17,
       "previous_close": 157.89,
       "change_pct": -1.72,
-      "market_cap": 82647968024.82803,
+      "market_cap": 81391191279.4784,
       "headlines": [
         {
           "title": "What Just Happened To Devon Energy Stock?",
@@ -1468,7 +1468,7 @@
       "price": 30.3,
       "previous_close": 30.05,
       "change_pct": 0.83,
-      "market_cap": 9189261508.118801,
+      "market_cap": 9093382038.833,
       "headlines": [
         {
           "title": "Brookfield Renewable: Q3 Earnings Snapshot",
@@ -1655,34 +1655,6 @@
           "url": "https://finance.yahoo.com/energy/articles/azincourt-energy-advances-labrador-uranium-213911390.html",
           "publisher": "Insider Monkey",
           "published": "2026-10-26T21:39:11Z"
-        }
-      ]
-    },
-    {
-      "symbol": "SMR",
-      "name": "NuScale Power",
-      "price": 5.37,
-      "previous_close": 5.35,
-      "change_pct": 0.37,
-      "market_cap": 2203791686.1746464,
-      "headlines": [
-        {
-          "title": "The Zacks Analyst Blog Highlights Oklo, Talen Energy and NuScale Power",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-oklo-070500728.html",
-          "publisher": "Zacks",
-          "published": "2026-11-04T07:05:00Z"
-        },
-        {
-          "title": "X-energy Lost 23% in a Month. Wedbush Sees 54% Upside From Here",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/x-energy-lost-23-month-203639492.html",
-          "publisher": "TIKR",
-          "published": "2026-11-03T20:36:39Z"
-        },
-        {
-          "title": "Wedbush starts nuclear coverage, backs Oklo and X-Energy",
-          "url": "https://finance.yahoo.com/energy/articles/wedbush-starts-nuclear-coverage-backs-144015152.html",
-          "publisher": "Investing.com",
-          "published": "2026-11-03T14:40:15Z"
         }
       ]
     },
@@ -2089,13 +2061,13 @@
     },
     {
       "label": "WTI",
-      "price": 94.89,
-      "change_pct": -1.25
+      "price": 95.0,
+      "change_pct": -1.13
     },
     {
       "label": "Brent",
-      "price": 101.93,
-      "change_pct": -1.61
+      "price": 102.11,
+      "change_pct": -1.44
     },
     {
       "label": "NatGas",
