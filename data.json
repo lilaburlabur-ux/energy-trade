@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-04T09:08:14+00:00",
-  "as_of_local": "2026-11-04 09:08:14 UTC",
+  "as_of_utc": "2026-11-04T09:13:06+00:00",
+  "as_of_local": "2026-11-04 09:13:06 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -206,7 +206,7 @@
       "price": 391.7,
       "previous_close": 366.07,
       "change_pct": 7.0,
-      "market_cap": 152097114739.99023,
+      "market_cap": 152136284741.21094,
       "headlines": [
         {
           "title": "Eaton Q3 Earnings Call Highlights",
@@ -229,12 +229,40 @@
       ]
     },
     {
+      "symbol": "BP",
+      "name": "BP",
+      "price": 47.59,
+      "previous_close": 47.88,
+      "change_pct": -0.61,
+      "market_cap": 122575284165.14333,
+      "headlines": [
+        {
+          "title": "BP Appoints Former Shell Executive Emma Lewis to Lead Downstream Business",
+          "url": "https://finance.yahoo.com/energy/articles/bp-appoints-former-shell-executive-082200273.html",
+          "publisher": "Oilprice.com",
+          "published": "2026-11-04T08:22:00Z"
+        },
+        {
+          "title": "Zacks.com featured highlights include APA, T-Mobile, BP and Centene",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-com-featured-highlights-apa-075400671.html",
+          "publisher": "Zacks",
+          "published": "2026-11-04T07:54:00Z"
+        },
+        {
+          "title": "Big Oil Puts Debt Reduction Ahead of New Investments",
+          "url": "https://finance.yahoo.com/energy/articles/big-oil-puts-debt-reduction-230000064.html",
+          "publisher": "Oilprice.com",
+          "published": "2026-11-03T23:00:00Z"
+        }
+      ]
+    },
+    {
       "symbol": "MPC",
       "name": "Marathon Petroleum",
       "price": 427.34,
       "previous_close": 430.39,
       "change_pct": -0.71,
-      "market_cap": 124756200531.79611,
+      "market_cap": 120007653192.009,
       "headlines": [
         {
           "title": "CVR Energy to acquire two US refineries from Marathon for $4.2bn",
@@ -253,34 +281,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/mplx-q3-earnings-call-highlights-061415070.html",
           "publisher": "MarketBeat",
           "published": "2026-11-04T06:14:15Z"
-        }
-      ]
-    },
-    {
-      "symbol": "BP",
-      "name": "BP",
-      "price": 47.59,
-      "previous_close": 47.88,
-      "change_pct": -0.61,
-      "market_cap": 122575284165.14333,
-      "headlines": [
-        {
-          "title": "BP Appoints Former Shell Executive Emma Lewis to Lead Downstream Business",
-          "url": "https://finance.yahoo.com/energy/articles/bp-appoints-former-shell-executive-082200273.html",
-          "publisher": "Oilprice.com",
-          "published": "2026-11-04T08:22:00Z"
-        },
-        {
-          "title": "Big Oil Puts Debt Reduction Ahead of New Investments",
-          "url": "https://finance.yahoo.com/energy/articles/big-oil-puts-debt-reduction-230000064.html",
-          "publisher": "Oilprice.com",
-          "published": "2026-11-03T23:00:00Z"
-        },
-        {
-          "title": "4 GARP Stocks to Buy Now as Volatility Fuels Value vs. Growth Debate",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/4-garp-stocks-buy-now-180000416.html",
-          "publisher": "Zacks",
-          "published": "2026-11-03T18:00:00Z"
         }
       ]
     },
@@ -570,7 +570,7 @@
       "price": 155.17,
       "previous_close": 157.89,
       "change_pct": -1.72,
-      "market_cap": 82647968024.82803,
+      "market_cap": 81391191279.4784,
       "headlines": [
         {
           "title": "What Just Happened To Devon Energy Stock?",
@@ -1046,7 +1046,7 @@
       "price": 72.81,
       "previous_close": 74.38,
       "change_pct": -2.11,
-      "market_cap": 36282780063.015015,
+      "market_cap": 36289961167.45422,
       "headlines": [
         {
           "title": "How Earnings Miss Will Impact PSEG Stock Investors",
@@ -1385,6 +1385,12 @@
       "market_cap": 16736291793.078194,
       "headlines": [
         {
+          "title": "Zacks.com featured highlights include APA, T-Mobile, BP and Centene",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-com-featured-highlights-apa-075400671.html",
+          "publisher": "Zacks",
+          "published": "2026-11-04T07:54:00Z"
+        },
+        {
           "title": "SM Energy (SM) Q3 Earnings Lag Estimates",
           "url": "https://finance.yahoo.com/markets/stocks/articles/sm-energy-sm-q3-earnings-215007261.html",
           "publisher": "Zacks",
@@ -1395,12 +1401,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/just-happened-devon-energy-stock-180915371.html",
           "publisher": "Trefis",
           "published": "2026-11-03T18:09:15Z"
-        },
-        {
-          "title": "4 GARP Stocks to Buy Now as Volatility Fuels Value vs. Growth Debate",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/4-garp-stocks-buy-now-180000416.html",
-          "publisher": "Zacks",
-          "published": "2026-11-03T18:00:00Z"
         }
       ]
     },
@@ -1494,7 +1494,7 @@
       "price": 30.3,
       "previous_close": 30.05,
       "change_pct": 0.83,
-      "market_cap": 9189261508.118801,
+      "market_cap": 9093382038.833,
       "headlines": [
         {
           "title": "If I Could Only Buy 1 AI Power Stock for the Next Decade, It Wouldn't Be Bloom Energy or GE Vernova",
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 96.07,
-      "change_pct": -0.02
+      "price": 96.36,
+      "change_pct": 0.28
     },
     {
       "label": "Brent",
-      "price": 103.55,
-      "change_pct": -0.05
+      "price": 103.88,
+      "change_pct": 0.27
     },
     {
       "label": "NatGas",
-      "price": 2.9,
-      "change_pct": 0.31
+      "price": 2.91,
+      "change_pct": 0.41
     }
   ]
 }
