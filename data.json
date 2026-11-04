@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-04T21:39:54+00:00",
-  "as_of_local": "2026-11-04 21:39:54 UTC",
+  "as_of_utc": "2026-11-04T21:45:08+00:00",
+  "as_of_local": "2026-11-04 21:45:08 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -1385,6 +1385,12 @@
       "market_cap": 15587139267.953377,
       "headlines": [
         {
+          "title": "APA: Q3 Earnings Snapshot",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/apa-q3-earnings-snapshot-213452441.html",
+          "publisher": "Associated Press",
+          "published": "2026-11-04T21:34:52Z"
+        },
+        {
           "title": "EOG Resources Earnings Ahead: What Past Reactions Say About The Stock",
           "url": "https://finance.yahoo.com/markets/stocks/articles/eog-resources-earnings-ahead-past-203738155.html",
           "publisher": "Trefis",
@@ -1395,12 +1401,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-com-featured-highlights-apa-075400671.html",
           "publisher": "Zacks",
           "published": "2026-11-04T07:54:00Z"
-        },
-        {
-          "title": "SM Energy (SM) Q3 Earnings Lag Estimates",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/sm-energy-sm-q3-earnings-215007261.html",
-          "publisher": "Zacks",
-          "published": "2026-11-03T21:50:07Z"
         }
       ]
     },
@@ -1721,6 +1721,12 @@
       "market_cap": 2096848223.6300669,
       "headlines": [
         {
+          "title": "Sunrun (NASDAQ:RUN) reports bullish Q3 2026, stock soars",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/sunrun-nasdaq-run-reports-bullish-212428816.html",
+          "publisher": "StockStory",
+          "published": "2026-11-04T21:24:28Z"
+        },
+        {
           "title": "Can First Solar Stock Jump 50%?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/first-solar-stock-jump-50-194518856.html",
           "publisher": "Trefis",
@@ -1731,12 +1737,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/vst-ceg-stocks-drop-election-181047161.html",
           "publisher": "Stocktwits",
           "published": "2026-11-04T18:10:47Z"
-        },
-        {
-          "title": "Why Did Enphase Stock Jump?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-enphase-stock-jump-175306653.html",
-          "publisher": "Trefis",
-          "published": "2026-11-04T17:53:06Z"
         }
       ]
     },
@@ -2115,13 +2115,13 @@
     },
     {
       "label": "WTI",
-      "price": 88.52,
-      "change_pct": -7.88
+      "price": 88.48,
+      "change_pct": -7.92
     },
     {
       "label": "Brent",
-      "price": 95.06,
-      "change_pct": -8.24
+      "price": 95.04,
+      "change_pct": -8.26
     },
     {
       "label": "NatGas",
