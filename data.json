@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-04T12:53:39+00:00",
-  "as_of_local": "2026-11-04 12:53:39 UTC",
+  "as_of_utc": "2026-11-04T12:57:27+00:00",
+  "as_of_local": "2026-11-04 12:57:27 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "SMR"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -572,7 +570,7 @@
       "price": 155.17,
       "previous_close": 157.89,
       "change_pct": -1.72,
-      "market_cap": 81391191279.4784,
+      "market_cap": 82647968024.82803,
       "headlines": [
         {
           "title": "What Just Happened To Devon Energy Stock?",
@@ -591,6 +589,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/eog-resources-eog-trading-discount-161923207.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-03T16:19:23Z"
+        }
+      ]
+    },
+    {
+      "symbol": "EPD",
+      "name": "Enterprise Products",
+      "price": 37.5,
+      "previous_close": 37.37,
+      "change_pct": 0.35,
+      "market_cap": 80980393837.5,
+      "headlines": [
+        {
+          "title": "Enterprise Products Covers Its Distribution 1.9 Times. Here Are 3 More High-Yield Stocks",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/enterprise-products-covers-distribution-1-161728279.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-03T16:17:28Z"
+        },
+        {
+          "title": "3 Best Dividend Stocks for a $100,000 Passive Income Strategy",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-best-dividend-stocks-100-130255635.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-02T13:02:55Z"
+        },
+        {
+          "title": "Ranking 3 Top Pipeline Stocks by Growth Prospects: Energy Transfer, Enterprise Products, and MPLX",
+          "url": "https://finance.yahoo.com/energy/articles/ranking-3-top-pipeline-stocks-105400020.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-01T10:54:00Z"
         }
       ]
     },
@@ -1468,7 +1494,7 @@
       "price": 30.3,
       "previous_close": 30.05,
       "change_pct": 0.83,
-      "market_cap": 9093382038.833,
+      "market_cap": 9189261508.118801,
       "headlines": [
         {
           "title": "Brookfield Renewable: Q3 Earnings Snapshot",
@@ -1655,6 +1681,34 @@
           "url": "https://finance.yahoo.com/energy/articles/azincourt-energy-advances-labrador-uranium-213911390.html",
           "publisher": "Insider Monkey",
           "published": "2026-10-26T21:39:11Z"
+        }
+      ]
+    },
+    {
+      "symbol": "SMR",
+      "name": "NuScale Power",
+      "price": 5.37,
+      "previous_close": 5.35,
+      "change_pct": 0.37,
+      "market_cap": 2203791686.1746464,
+      "headlines": [
+        {
+          "title": "The Zacks Analyst Blog Highlights Oklo, Talen Energy and NuScale Power",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-oklo-070500728.html",
+          "publisher": "Zacks",
+          "published": "2026-11-04T07:05:00Z"
+        },
+        {
+          "title": "X-energy Lost 23% in a Month. Wedbush Sees 54% Upside From Here",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/x-energy-lost-23-month-203639492.html",
+          "publisher": "TIKR",
+          "published": "2026-11-03T20:36:39Z"
+        },
+        {
+          "title": "Wedbush starts nuclear coverage, backs Oklo and X-Energy",
+          "url": "https://finance.yahoo.com/energy/articles/wedbush-starts-nuclear-coverage-backs-144015152.html",
+          "publisher": "Investing.com",
+          "published": "2026-11-03T14:40:15Z"
         }
       ]
     },
@@ -2061,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 95.0,
-      "change_pct": -1.13
+      "price": 94.94,
+      "change_pct": -1.2
     },
     {
       "label": "Brent",
-      "price": 102.11,
-      "change_pct": -1.44
+      "price": 102.18,
+      "change_pct": -1.37
     },
     {
       "label": "NatGas",
       "price": 2.91,
-      "change_pct": 0.52
+      "change_pct": 0.45
     }
   ]
 }
