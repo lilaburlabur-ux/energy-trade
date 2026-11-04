@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-04T00:16:11+00:00",
-  "as_of_local": "2026-11-04 00:16:11 UTC",
+  "as_of_utc": "2026-11-04T00:21:15+00:00",
+  "as_of_local": "2026-11-04 00:21:15 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "PEG"
+    "APA"
   ],
   "stocks": [
     {
@@ -1043,6 +1043,34 @@
       ]
     },
     {
+      "symbol": "PEG",
+      "name": "Public Service Enterprise",
+      "price": 72.81,
+      "previous_close": 74.38,
+      "change_pct": -2.11,
+      "market_cap": 36289961167.45422,
+      "headlines": [
+        {
+          "title": "Public Service Enterprise Group (PEG) Holds Guidance After Earnings Misses While Fair Value Still Leads",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/public-enterprise-group-peg-holds-221813853.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-03T22:18:13Z"
+        },
+        {
+          "title": "Can Edison International Stock Jump 30%?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/edison-international-stock-jump-30-160603870.html",
+          "publisher": "Trefis",
+          "published": "2026-11-03T16:06:03Z"
+        },
+        {
+          "title": "PSEG Power plans 200-MW nuclear uprate as company eyes data center deals",
+          "url": "https://finance.yahoo.com/energy/articles/pseg-power-plans-200-mw-151554908.html",
+          "publisher": "Utility Dive",
+          "published": "2026-11-03T15:15:54Z"
+        }
+      ]
+    },
+    {
       "symbol": "EQT",
       "name": "EQT Corp",
       "price": 54.25,
@@ -1347,34 +1375,6 @@
           "url": "https://finance.yahoo.com/energy/articles/talen-energy-corporation-q3-2026-181854471.html",
           "publisher": "Moby",
           "published": "2026-11-03T18:18:54Z"
-        }
-      ]
-    },
-    {
-      "symbol": "APA",
-      "name": "APA Corp",
-      "price": 47.77,
-      "previous_close": 48.82,
-      "change_pct": -2.15,
-      "market_cap": 16736291793.078194,
-      "headlines": [
-        {
-          "title": "SM Energy (SM) Q3 Earnings Lag Estimates",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/sm-energy-sm-q3-earnings-215007261.html",
-          "publisher": "Zacks",
-          "published": "2026-11-03T21:50:07Z"
-        },
-        {
-          "title": "What Just Happened To Devon Energy Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/just-happened-devon-energy-stock-180915371.html",
-          "publisher": "Trefis",
-          "published": "2026-11-03T18:09:15Z"
-        },
-        {
-          "title": "4 GARP Stocks to Buy Now as Volatility Fuels Value vs. Growth Debate",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/4-garp-stocks-buy-now-180000416.html",
-          "publisher": "Zacks",
-          "published": "2026-11-03T18:00:00Z"
         }
       ]
     },
@@ -2089,8 +2089,8 @@
     },
     {
       "label": "WTI",
-      "price": 96.64,
-      "change_pct": 0.19
+      "price": 96.52,
+      "change_pct": 0.06
     },
     {
       "label": "Brent",
@@ -2100,7 +2100,7 @@
     {
       "label": "NatGas",
       "price": 2.9,
-      "change_pct": 1.47
+      "change_pct": 1.51
     }
   ]
 }
