@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-04T01:52:06+00:00",
-  "as_of_local": "2026-11-04 01:52:06 UTC",
+  "as_of_utc": "2026-11-04T02:07:15+00:00",
+  "as_of_local": "2026-11-04 02:07:15 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -1329,6 +1329,12 @@
       "market_cap": 18374538000.0,
       "headlines": [
         {
+          "title": "Ovintiv (OVV) Q3 Earnings: Taking a Look at Key Metrics Versus Estimates",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ovintiv-ovv-q3-earnings-taking-010001989.html",
+          "publisher": "Zacks",
+          "published": "2026-11-04T01:00:01Z"
+        },
+        {
           "title": "Ovintiv (OVV) Lags Q3 Earnings Estimates",
           "url": "https://finance.yahoo.com/markets/stocks/articles/ovintiv-ovv-lags-q3-earnings-235507164.html",
           "publisher": "Zacks",
@@ -1339,12 +1345,6 @@
           "url": "https://finance.yahoo.com/energy/articles/ovintiv-profit-more-doubles-stronger-234810526.html",
           "publisher": "Investing.com",
           "published": "2026-11-03T23:48:10Z"
-        },
-        {
-          "title": "Ovintiv: Q3 Earnings Snapshot",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ovintiv-q3-earnings-snapshot-224618301.html",
-          "publisher": "Associated Press",
-          "published": "2026-11-03T22:46:18Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 95.62,
-      "change_pct": -0.87
+      "price": 95.61,
+      "change_pct": -0.88
     },
     {
       "label": "Brent",
-      "price": 103.36,
-      "change_pct": -1.35
+      "price": 103.38,
+      "change_pct": -1.33
     },
     {
       "label": "NatGas",
-      "price": 2.89,
-      "change_pct": 1.05
+      "price": 2.87,
+      "change_pct": 0.53
     }
   ]
 }
