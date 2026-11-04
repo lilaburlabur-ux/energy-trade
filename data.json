@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-04T21:04:46+00:00",
-  "as_of_local": "2026-11-04 21:04:46 UTC",
+  "as_of_utc": "2026-11-04T21:09:41+00:00",
+  "as_of_local": "2026-11-04 21:09:41 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "MPLX"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -119,10 +121,10 @@
     {
       "symbol": "TTE",
       "name": "TotalEnergies",
-      "price": 90.43,
+      "price": 90.41,
       "previous_close": 92.7,
-      "change_pct": -2.45,
-      "market_cap": 198759657899.85785,
+      "change_pct": -2.47,
+      "market_cap": 198715706490.79437,
       "headlines": [
         {
           "title": "Buy 5 Low-Beta High-Yielding Stocks Amid Recent Wall Street Volatility",
@@ -203,10 +205,10 @@
     {
       "symbol": "ETN",
       "name": "Eaton",
-      "price": 352.78,
+      "price": 352.79,
       "previous_close": 391.7,
-      "change_pct": -9.94,
-      "market_cap": 137055029525.75684,
+      "change_pct": -9.93,
+      "market_cap": 137058918319.70215,
       "headlines": [
         {
           "title": "Cummins Earnings Ahead: What Past Reactions Say About The Stock",
@@ -399,10 +401,10 @@
     {
       "symbol": "DUK",
       "name": "Duke Energy",
-      "price": 129.64,
+      "price": 129.61,
       "previous_close": 126.51,
-      "change_pct": 2.47,
-      "market_cap": 101080591824.62755,
+      "change_pct": 2.45,
+      "market_cap": 101057201710.62245,
       "headlines": [
         {
           "title": "Is PPL Stock Really Expensive?",
@@ -595,10 +597,10 @@
     {
       "symbol": "EOG",
       "name": "EOG Resources",
-      "price": 147.05,
+      "price": 147.1,
       "previous_close": 155.17,
-      "change_pct": -5.23,
-      "market_cap": 77132016931.53601,
+      "change_pct": -5.2,
+      "market_cap": 78349660013.90656,
       "headlines": [
         {
           "title": "EOG Resources Earnings Ahead: What Past Reactions Say About The Stock",
@@ -845,34 +847,6 @@
       ]
     },
     {
-      "symbol": "MPLX",
-      "name": "MPLX",
-      "price": 56.24,
-      "previous_close": 57.5,
-      "change_pct": -2.19,
-      "market_cap": 56971121700.286865,
-      "headlines": [
-        {
-          "title": "The 10-Year Treasury Yields 4.91%. These 4 Dividend Stocks Pay More",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/10-treasury-yields-4-91-164702607.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-04T16:47:02Z"
-        },
-        {
-          "title": "MPC Q3 Earnings Beat Estimates on Strong Refining Margins",
-          "url": "https://finance.yahoo.com/energy/articles/mpc-q3-earnings-beat-estimates-162400083.html",
-          "publisher": "Zacks",
-          "published": "2026-11-04T16:24:00Z"
-        },
-        {
-          "title": "CVR Energy Prices $500 Million Common Stock Offering at $47.55 a Share",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/cvr-energy-prices-500-million-091631857.html",
-          "publisher": "MT Newswires",
-          "published": "2026-11-04T09:16:31Z"
-        }
-      ]
-    },
-    {
       "symbol": "OKE",
       "name": "ONEOK",
       "price": 88.59,
@@ -1045,8 +1019,8 @@
       "name": "Public Service Enterprise",
       "price": 73.21,
       "previous_close": 72.81,
-      "change_pct": 0.55,
-      "market_cap": 36496313222.165504,
+      "change_pct": 0.56,
+      "market_cap": 36498804430.03702,
       "headlines": [
         {
           "title": "How Earnings Miss Will Impact PSEG Stock Investors",
@@ -1267,10 +1241,10 @@
     {
       "symbol": "DINO",
       "name": "HF Sinclair",
-      "price": 104.45,
+      "price": 104.43,
       "previous_close": 113.36,
-      "change_pct": -7.86,
-      "market_cap": 17899717556.81671,
+      "change_pct": -7.88,
+      "market_cap": 17896290708.81833,
       "headlines": [
         {
           "title": "Marathon Petroleum Sinks 10%, Valero Down 8% as Oil Stocks Slide After Democrats Win the Senate",
@@ -1494,7 +1468,7 @@
       "price": 30.9,
       "previous_close": 30.3,
       "change_pct": 1.98,
-      "market_cap": 9273449128.9165,
+      "market_cap": 9371227202.8094,
       "headlines": [
         {
           "title": "Brookfield Renewable (BEP) Q3 2026 Earnings Call Transcript",
@@ -1993,8 +1967,8 @@
           "name": "EOG Resources Inc",
           "short": "EOG Resources",
           "weight_pct": 3.85,
-          "change_pct": -5.23,
-          "price": 147.05,
+          "change_pct": -5.2,
+          "price": 147.1,
           "currency": "USD"
         },
         {
@@ -2092,8 +2066,8 @@
         "name": "EOG Resources Inc",
         "short": "EOG Resources",
         "weight_pct": 3.85,
-        "change_pct": -5.23,
-        "price": 147.05,
+        "change_pct": -5.2,
+        "price": 147.1,
         "currency": "USD"
       },
       {
@@ -2110,18 +2084,18 @@
   "tape": [
     {
       "label": "SPX",
-      "price": 7688.55,
+      "price": 7688.62,
       "change_pct": 1.58
     },
     {
       "label": "WTI",
-      "price": 88.69,
-      "change_pct": -7.7
+      "price": 88.75,
+      "change_pct": -7.64
     },
     {
       "label": "Brent",
-      "price": 95.22,
-      "change_pct": -8.09
+      "price": 95.23,
+      "change_pct": -8.08
     },
     {
       "label": "NatGas",
