@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-04T08:52:17+00:00",
+  "as_of": "2026-11-04T09:07:28+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,35 +9,35 @@
  "hot_tickers": [
   {
    "rank": 1,
+   "ticker": "FSLR",
+   "company": "First Solar, Inc.",
+   "move_pct": 8.13,
+   "price": 201.01,
+   "volume": 3452900,
+   "volume_vs_avg": "~1.5x",
+   "heat_score": 61,
+   "direction": "up",
+   "why": "Democratic Control Spurs 11% Rally in First Solar (FSLR) Shares",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNS1VDNTUyV3kxSFhia1R1enBTZTN5ZS1qcWlaZzNuUEY3d09oUjVDZFpKdngwM3BzNzZwX3ppUEs2S1J2M2tLRXhNVmF0NUoxa3Y0X2Q2V3hNWGFtTl9MMjVmODQ5REozQUtwWjNFLW5ZSEJfWkFDdlBMeXNYRzVXNTNqYVBMMWctVFoxdW5EeXc3VW80am94bVpJYTJEVmFo?oc=5",
+   "published": "2026-11-04T08:26:07+00:00",
+   "sector": "Renewables & Solar"
+  },
+  {
+   "rank": 2,
    "ticker": "ARRY",
    "company": "Array Technologies, Inc.",
-   "move_pct": 22.11,
-   "price": 4.64,
+   "move_pct": 7.31,
+   "price": 4.98,
    "volume": 22157700,
    "volume_vs_avg": "~3x",
-   "heat_score": 94,
+   "heat_score": 57,
    "direction": "up",
    "why": "Array (ARRY) Q3 earnings: what to expect",
    "catalyst_type": "earnings",
    "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSmRKTDJaMGlMUGV3NHJiNWZ4VmMtZ0JDTDZnWFF0aWt5dEdDbHFYMFpzSzNQTmxKaGxvUmFnUzNzenMzMnRkSE10VWlwazJiM2NqV1RhYzNzNkNzSGpKMlRzVVp4UnV4dksxdW4zLWhEa3JoTXB3dDZ6N3JzNW9lZjNYYko2UUgyd3p6NkhieFBDWFUtYVpWODc0Unc?oc=5",
    "published": "2026-11-04T08:06:22+00:00",
    "sector": "Renewables & Solar"
-  },
-  {
-   "rank": 2,
-   "ticker": "TLN",
-   "company": "Talen Energy Corporation",
-   "move_pct": 7.29,
-   "price": 357.28,
-   "volume": 2188300,
-   "volume_vs_avg": "~2x",
-   "heat_score": 51,
-   "direction": "up",
-   "why": "The Zacks Analyst Blog Highlights Oklo, Talen Energy and NuScale Power",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMnFjNFgxbllrcVNKTTM1aC1TUFFTVWdLZ21GZnBCZ2cySFBqeWN2WGRlc2VtYmdXZVVVSDBCYjI3LUlpTkZNaEpPWVR6bkYweENyMEd0c2x4TXNlTlpITzhaTWk2RDBKMV9JYURXT2tsczRzaklGVmw2Rm1leDQ0aWExZndNVHJHN0Z6UWhEdkI4TlN5d011Q0JtTFRXNFE1?oc=5",
-   "published": "2026-11-04T07:05:00+00:00",
-   "sector": "Power & IPPs"
   }
  ]
 }
