@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-05T10:59:56+00:00",
-  "as_of_local": "2026-11-05 10:59:56 UTC",
+  "as_of_utc": "2026-11-05T11:01:12+00:00",
+  "as_of_local": "2026-11-05 11:01:12 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "D"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -705,34 +707,6 @@
       ]
     },
     {
-      "symbol": "D",
-      "name": "Dominion Energy",
-      "price": 69.75,
-      "previous_close": 66.78,
-      "change_pct": 4.45,
-      "market_cap": 61349733940.5,
-      "headlines": [
-        {
-          "title": "Mine, Enrich, Build, Operate: Which Link in the Nuclear Supply Chain Is the Best Stock Right Now?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/mine-enrich-build-operate-nuclear-033500270.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-05T03:35:00Z"
-        },
-        {
-          "title": "What Has Changed About Owning Xcel Energy Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/changed-owning-xcel-energy-stock-220549101.html",
-          "publisher": "Trefis",
-          "published": "2026-11-04T22:05:49Z"
-        },
-        {
-          "title": "How Will Southern Stock React To Its Upcoming Earnings?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/southern-stock-react-upcoming-earnings-210610619.html",
-          "publisher": "Trefis",
-          "published": "2026-11-04T21:06:10Z"
-        }
-      ]
-    },
-    {
       "symbol": "TRGP",
       "name": "Targa Resources",
       "price": 285.0,
@@ -825,6 +799,12 @@
       "market_cap": 57309212309.820694,
       "headlines": [
         {
+          "title": "Is Exxon Mobil Stock Still Worth Owning After Its Quarter?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/exxon-mobil-stock-still-worth-103643566.html",
+          "publisher": "Trefis",
+          "published": "2026-11-05T10:36:43Z"
+        },
+        {
           "title": "EOG Resources Earnings Ahead: What Past Reactions Say About The Stock",
           "url": "https://finance.yahoo.com/markets/stocks/articles/eog-resources-earnings-ahead-past-203738155.html",
           "publisher": "Trefis",
@@ -835,12 +815,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/plains-american-report-q3-earnings-163600815.html",
           "publisher": "Zacks",
           "published": "2026-11-04T16:36:00Z"
-        },
-        {
-          "title": "Do Wall Street Analysts Like Occidental Petroleum Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-occidental-petroleum-143748881.html",
-          "publisher": "Barchart",
-          "published": "2026-11-04T14:37:48Z"
         }
       ]
     },
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 88.64,
-      "change_pct": 0.59
+      "price": 88.7,
+      "change_pct": 0.66
     },
     {
       "label": "Brent",
-      "price": 96.19,
-      "change_pct": 1.66
+      "price": 96.15,
+      "change_pct": 1.62
     },
     {
       "label": "NatGas",
-      "price": 2.94,
-      "change_pct": -0.78
+      "price": 2.93,
+      "change_pct": -0.81
     }
   ]
 }
