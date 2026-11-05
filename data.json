@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-05T01:30:27+00:00",
-  "as_of_local": "2026-11-05 01:30:27 UTC",
+  "as_of_utc": "2026-11-05T01:37:40+00:00",
+  "as_of_local": "2026-11-05 01:37:40 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -1021,6 +1021,12 @@
       "market_cap": 40373557606.55,
       "headlines": [
         {
+          "title": "Vistra (VST) Could Be 8% Undervalued On Dividend Approval",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-vst-could-8-undervalued-011029697.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-05T01:10:29Z"
+        },
+        {
           "title": "Steve Weiss Says the Midterms Just Put a Lid on AI Spending. Here\u2019s Who Could Get Hurt",
           "url": "https://finance.yahoo.com/technology/ai/articles/steve-weiss-says-midterms-just-000914700.html",
           "publisher": "24/7 Wall St.",
@@ -1031,12 +1037,6 @@
           "url": "https://www.barrons.com/livecoverage/stock-market-news-today-110426/card/the-election-flipped-congress-it-also-flipped-the-market--UT83eYXvz6tWwUwCZ2Mp?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
           "published": "2026-11-04T21:04:15Z"
-        },
-        {
-          "title": "VST, CEG Stocks Drop As Election Outcome Hits Merchant Power Generators",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/vst-ceg-stocks-drop-election-181047161.html",
-          "publisher": "Stocktwits",
-          "published": "2026-11-04T18:10:47Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 87.51,
-      "change_pct": -8.93
+      "price": 87.35,
+      "change_pct": -9.1
     },
     {
       "label": "Brent",
-      "price": 94.16,
-      "change_pct": -9.11
+      "price": 94.03,
+      "change_pct": -9.24
     },
     {
       "label": "NatGas",
-      "price": 2.94,
-      "change_pct": 1.49
+      "price": 2.93,
+      "change_pct": 1.35
     }
   ]
 }
