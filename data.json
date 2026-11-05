@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-05T04:31:37+00:00",
-  "as_of_local": "2026-11-05 04:31:37 UTC",
+  "as_of_utc": "2026-11-05T04:46:33+00:00",
+  "as_of_local": "2026-11-05 04:46:33 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "WFRD"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -14,6 +12,12 @@
       "change_pct": -4.62,
       "market_cap": 690490000524.1985,
       "headlines": [
+        {
+          "title": "XOM Stock Is Up 43% In 2026: Wall Street Is Split On The Oil Major Following Q3 Results",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/xom-stock-43-2026-wall-042310069.html",
+          "publisher": "Stocktwits",
+          "published": "2026-11-05T04:23:10Z"
+        },
         {
           "title": "Joe Terranova Says \u201cInflation Lost\u201d on Election Night. What That Means for Energy Stocks",
           "url": "https://finance.yahoo.com/energy/articles/joe-terranova-says-inflation-lost-220708409.html",
@@ -25,12 +29,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/exxonmobil-stocks-decline-3-43-182536007.html",
           "publisher": "GuruFocus.com",
           "published": "2026-11-04T18:25:36Z"
-        },
-        {
-          "title": "WMB Q3 Earnings Miss Estimates Amid Higher Costs, Revenues Beat",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/wmb-q3-earnings-miss-estimates-163000284.html",
-          "publisher": "Zacks",
-          "published": "2026-11-04T16:30:00Z"
         }
       ]
     },
@@ -1547,6 +1545,34 @@
       ]
     },
     {
+      "symbol": "WFRD",
+      "name": "Weatherford",
+      "price": 86.04,
+      "previous_close": 87.7,
+      "change_pct": -1.89,
+      "market_cap": 6235343301.708527,
+      "headlines": [
+        {
+          "title": "Should Jun\u00edn 5 Support Work Require Action From Weatherford International (WFRD) Investors?",
+          "url": "https://finance.yahoo.com/energy/articles/jun-n-5-support-require-131419197.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-10-30T13:14:19Z"
+        },
+        {
+          "title": "Weatherford: 3 Key Takeaways for Long-Term Investors",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/weatherford-3-key-takeaways-long-212002900.html",
+          "publisher": "Motley Fool",
+          "published": "2026-10-28T21:20:02Z"
+        },
+        {
+          "title": "The Energy Stocks With the Most at Stake in the Midterms",
+          "url": "https://www.barrons.com/articles/midterm-elections-affect-energy-stocks-9249616b?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-10-26T09:55:00Z"
+        }
+      ]
+    },
+    {
       "symbol": "NXE",
       "name": "NexGen Energy",
       "price": 8.0,
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 86.93,
-      "change_pct": -9.53
+      "price": 86.82,
+      "change_pct": -9.65
     },
     {
       "label": "Brent",
-      "price": 93.76,
-      "change_pct": -9.5
+      "price": 93.7,
+      "change_pct": -9.56
     },
     {
       "label": "NatGas",
-      "price": 2.94,
-      "change_pct": 1.49
+      "price": 2.93,
+      "change_pct": 1.28
     }
   ]
 }
