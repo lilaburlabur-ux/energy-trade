@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-05T05:57:25+00:00",
-  "as_of_local": "2026-11-05 05:57:25 UTC",
+  "as_of_utc": "2026-11-05T06:12:37+00:00",
+  "as_of_local": "2026-11-05 06:12:37 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -125,6 +125,12 @@
       "market_cap": 198825593397.9264,
       "headlines": [
         {
+          "title": "Finance firms lean into multiagent systems, model routing",
+          "url": "https://finance.yahoo.com/technology/ai/articles/finance-firms-lean-multiagent-systems-060000273.html",
+          "publisher": "CIO Dive",
+          "published": "2026-11-05T06:00:00Z"
+        },
+        {
           "title": "TotalEnergies (ENXTPA:TTE) Could Be 7% Below Fair Value Following Malaysia Gas Deal",
           "url": "https://finance.yahoo.com/energy/articles/totalenergies-enxtpa-tte-could-7-221048862.html",
           "publisher": "Simply Wall St.",
@@ -135,12 +141,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/buy-5-low-beta-high-144100092.html",
           "publisher": "Zacks",
           "published": "2026-11-04T14:41:00Z"
-        },
-        {
-          "title": "BofA Names Top Picks in European IT Services as Most Raise Q3 Guidance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bofa-names-top-picks-european-124627353.html",
-          "publisher": "Investing.com",
-          "published": "2026-11-04T12:46:27Z"
         }
       ]
     },
@@ -1621,10 +1621,10 @@
           "published": "2026-11-04T18:48:00Z"
         },
         {
-          "title": "VST, CEG Stocks Drop As Election Outcome Hits Merchant Power Generators",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/vst-ceg-stocks-drop-election-181047161.html",
-          "publisher": "Stocktwits",
-          "published": "2026-11-04T18:10:47Z"
+          "title": "Enphase Energy (ENPH) Reaches 800 VDC AI Data Center Power Milestone",
+          "url": "https://finance.yahoo.com/energy/articles/enphase-energy-enph-reaches-800-181007480.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-04T18:10:07Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 87.51,
-      "change_pct": -0.69
+      "price": 87.25,
+      "change_pct": -0.99
     },
     {
       "label": "Brent",
-      "price": 94.46,
-      "change_pct": -0.17
+      "price": 94.08,
+      "change_pct": -0.57
     },
     {
       "label": "NatGas",
-      "price": 2.95,
-      "change_pct": -0.37
+      "price": 2.94,
+      "change_pct": -0.47
     }
   ]
 }
