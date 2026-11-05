@@ -1,0 +1,155 @@
+# EOSE Research Report
+**Eos Energy Enterprises, Inc.** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+Signed file: `EOSE.research.05.11.2026`
+
+| Field | Value |
+|---|---|
+| Current price | $2.14 (2026-11-05, ~15-min delayed) |
+| Market cap | $779.32M |
+| Sector / Industry | Industrials / Electrical Equipment & Parts |
+| Main theme | Electrical Equipment & Parts — see catalysts below |
+| Current stance | Low technical momentum, weak fundamentals, value: reasonable, risk: high. |
+
+> Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-05.
+
+## 1. Executive Summary
+| Area | Score / Read | Reason |
+|---|---|---|
+| Technical momentum | Low | Below SMA200 (-64.49%) with negative half-year (-67.28%). |
+| Fresh setup quality | Poor / broken | -88.85% from 52w high — base needs to rebuild. |
+| Fundamental quality | Weak | Negative profit margin (-246.76%). |
+| Value attractiveness | Reasonable | Forward P/E -12.24, EV/Sales 8.57. |
+| Risk level | High | Beta 3.17, ATR 11.2% of price, short float 38.62%. |
+
+**Bottom line:** Low technical momentum, weak fundamentals, value: reasonable, risk: high.
+
+**Key questions before any trade (standard):**
+- Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
+- Where is the actual invalidation level? If that level is too far away, the setup is not clean.
+- Is the move supported by new institutional demand or just retail/short-covering momentum?
+- Can earnings convert fast enough to justify the valuation?
+
+## 2. Company Overview and Recent Catalysts
+Eos Energy Enterprises, Inc. designs, develops, manufactures, and markets energy storage solutions for utility-scale, microgrid, and commercial and industrial applications in the United States. The company offers Znyth technology battery energy storage system (BESS), which provides operating flexibility to manage increased grid complexity and price volatility.
+
+**Recent headlines (potential catalysts):**
+
+| Headline | Source | Date |
+|---|---|---|
+| LegalZoom (LZ) Lags Q3 Earnings Estimates | Zacks | 2026-11-04 |
+| Global Industrial (GIC) Surpasses Q3 Earnings and Revenue Estimates | Zacks | 2026-11-03 |
+| Will Eos Energy Enterprises, Inc. (EOSE) Report Negative Earnings Next Week? What You Should Know | Zacks | 2026-10-29 |
+| Why Did EYPT, CRWV, EOSE Stocks Tumble To 52-Week Lows Today? | Stocktwits | 2026-10-20 |
+
+## 3. Technical Analysis
+| Technical item | Read |
+|---|---|
+| Price vs 52-week range | Close $2.14; 52w high $19.19 (-88.85%); 52w low $1.62 (+32.10%) |
+| Trend | -64.49% vs SMA200, -26.90% vs SMA50, +8.09% vs SMA20 |
+| Momentum | RSI(14) 45.9 (neutral) |
+| Volatility | ATR(14) 0.24 (~11.2% of price); beta 3.17 |
+| Setup perspective | -88.85% from 52w high — base needs to rebuild. |
+
+**Performance snapshot:**
+
+| Window | Return |
+|---|---|
+| Week | +9.7% |
+| Month | -34.4% |
+| Quarter | -45.7% |
+| Half Y | -67.3% |
+| 1Y | -86.3% |
+| YTD | -83.5% |
+
+## 4. Fundamental Analysis
+| Factor | Observation | Implication / extra |
+|---|---|---|
+| Next earnings | 2026-11-05 | Next scheduled report (Yahoo estimate) |
+| Revenue (ttm) | $214.25M | Revenue growth 351.40% y/y |
+| Profitability | Gross -84.75%, operating -121.86%, net -246.76% | ROA -30.03%, ROE — |
+| Balance sheet | Cash $305.49M, debt $640.83M | Current ratio 3.26, debt/equity — |
+| Valuation | P/E —, forward P/E -12.24, P/S 3.64, P/B -0.71 | EV/Sales 8.57, EV/EBITDA -6.46 |
+| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $6.19 (8 analysts) |
+
+## 5. Institutional Investors and Ownership
+| Metric | Value |
+|---|---|
+| Institutional ownership | 64.20% |
+| Insider ownership | 1.38% |
+| Short float | 38.62% |
+| Short ratio (days to cover) | 4.8 |
+
+**Top institutional holders:**
+
+| Holder | Shares | % Out | Reported |
+|---|---|---|---|
+| Blackrock Inc. | 27,130,305 | 7.45% | 2026-06-30 |
+| Vanguard Capital Management LLC | 15,021,392 | 4.12% | 2026-06-30 |
+| Hudson Bay Capital Management Lp | 13,683,634 | 3.76% | 2026-06-30 |
+| Driehaus Capital Management, LLC | 13,556,010 | 3.72% | 2026-06-30 |
+| Two Sigma Investments, LP | 12,783,883 | 3.51% | 2026-06-30 |
+| State Street Corporation | 10,154,935 | 2.79% | 2026-06-30 |
+| Susquehanna International Group, LLP | 9,683,190 | 2.66% | 2026-06-30 |
+| Geode Capital Management, LLC | 8,894,922 | 2.44% | 2026-06-30 |
+| Electron Capital Partners, LLC | 6,681,859 | 1.83% | 2026-06-30 |
+| Morgan Stanley | 5,313,829 | 1.46% | 2026-06-30 |
+
+## 6. Risk Review and Setup Plan
+- **Volatility risk:** Beta 3.17, ATR 11.2% of price, short float 38.62%. Size positions accordingly.
+- **Short interest risk:** short float 38.62% can fuel squeezes both ways around news.
+- **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
+- **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
+- **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
+
+### Setup checklist for your journal
+| Question | Pass condition |
+|---|---|
+| Is there a new base? | Tight sideways action near highs, declining volume, clear resistance. |
+| Is the pivot obvious? | A clean level that multiple traders can see; not a random candle high. |
+| Is risk defined? | Stop based on structure and less than the expected first upside target. |
+| Is volume confirming? | Breakout volume expands; pullback volume dries up. |
+| Is position size small enough? | A normal shakeout should not cause emotional decision-making. |
+
+## 7. Full Data Snapshot
+| Metric | Value | Metric | Value |
+|---|---|---|---|
+| Price | $2.14 | EV/Sales | 8.57 |
+| Market cap | $779.32M | EV/EBITDA | -6.46 |
+| Beta | 3.17 | Gross margin | -84.75% |
+| RSI(14) | 45.9 | Operating margin | -121.86% |
+| ATR(14) | 0.24 | Profit margin | -246.76% |
+| SMA20 dist | +8.09% | ROA | -30.03% |
+| SMA50 dist | -26.90% | ROE | — |
+| SMA200 dist | -64.49% | Revenue (ttm) | $214.25M |
+| 52W high | $19.19 | Revenue growth y/y | 351.40% |
+| 52W low | $1.62 | Inst. ownership | 64.20% |
+| P/E (ttm) | — | Insider ownership | 1.38% |
+| Forward P/E | -12.24 | Short float | 38.62% |
+| PEG (trailing) | — | Avg volume | 26,424,804 |
+| P/S | 3.64 | Employees | 787 |
+| P/B | -0.71 | Analyst rec (1=buy..5=sell) | 2.4 |
+
+## 8. Analyst Actions
+| Date | Action | Firm | Rating change |
+|---|---|---|---|
+| 2026-10-19 | main | Needham | Buy → Buy |
+| 2026-09-15 | main | Needham | Buy → Buy |
+| 2026-09-10 | main | Roth Capital | Neutral → Neutral |
+| 2026-08-14 | main | B. Riley Securities | Neutral → Neutral |
+| 2026-08-06 | main | TD Cowen | Hold → Hold |
+| 2026-08-06 | main | Stifel | Buy → Buy |
+| 2026-07-14 | init | Truist Securities | — → Buy |
+| 2026-07-13 | main | Stifel | Buy → Buy |
+
+## 9. Conclusion
+EOSE: Low momentum / weak fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+
+## Sources
+| Source | URL | Used for |
+|---|---|---|
+| Yahoo Finance quote/profile/statistics for EOSE | https://finance.yahoo.com/quote/EOSE | Snapshot metrics, ownership, analyst data |
+| Yahoo Finance price history (via yfinance) | https://finance.yahoo.com/quote/EOSE/history | SMA/RSI/ATR/performance calculations |
+| Yahoo Finance news feed | https://finance.yahoo.com/quote/EOSE/news | Catalyst headlines |
+| Method template | AEHR.research.31.05.2026.pdf (user's Cowork method) | Report structure, scoring areas, checklist |
+
+_Note: the template's native Finviz/Fintel/ADVFN pages block automated retrieval; equivalent metrics above are computed from Yahoo Finance data instead and labeled accordingly._

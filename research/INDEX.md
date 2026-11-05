@@ -1,15 +1,15 @@
-# Watchlist Research Index — 04.11.2026
-> Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-04.
+# Watchlist Research Index — 05.11.2026
+> Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-05.
 
 | Ticker | Mkt cap | 1Y | Fwd P/E | Net margin | Momentum | Value | Risk |
 |---|---|---|---|---|---|---|---|
-| XOM | — | +53% | — | — | Moderate | Low (expensive) | Moderate |
-| CVX | — | +46% | — | — | Moderate | Low (expensive) | Moderate |
-| SHEL | — | +42% | — | — | Moderate | Low (expensive) | Moderate |
-| TTE | — | +53% | — | — | Moderate | Low (expensive) | Moderate |
-| BP | — | +38% | — | — | Moderate | Low (expensive) | Moderate |
-| COP | — | +59% | — | — | Moderate | Low (expensive) | Elevated |
-| EQNR | — | +87% | — | — | High | Low (expensive) | Elevated |
+| XOM | $690.49B | +53% | 14.1 | 10% | Moderate | Reasonable | Moderate |
+| CVX | $423.29B | +46% | 13.3 | 12% | Moderate | Reasonable | Moderate |
+| SHEL | $288.72B | +42% | 9.5 | 10% | Moderate | Reasonable | Moderate |
+| TTE | $198.83B | +53% | 7.6 | 10% | Moderate | Reasonable | Moderate |
+| BP | $117.48B | +38% | 7.8 | 4% | Moderate | Reasonable | Moderate |
+| COP | $164.51B | +59% | 12.5 | 14% | Moderate | Reasonable | Elevated |
+| EQNR | $101.30B | +87% | 8.6 | 10% | High | Reasonable | Elevated |
 | SU | $84.26B | +86% | 10.3 | 16% | High | Reasonable | Elevated |
 | EOG | $78.33B | +44% | 9.1 | 26% | Moderate | Reasonable | Moderate |
 | FANG | $51.07B | +33% | 8.5 | 12% | Low | Reasonable | Elevated |
@@ -45,7 +45,7 @@
 | LEU | $1.89B | -73% | 20.8 | 10% | Low | Fair-to-demanding | High |
 | NXE | $5.30B | -12% | -63.3 | 0% | Low | Reasonable | High |
 | UEC | $3.56B | -49% | -97.2 | 0% | Low | Reasonable | High |
-| UUUU | $1.91B | -59% | 14.9 | -77% | Low | Reasonable | High |
+| UUUU | $1.90B | -60% | 14.8 | -77% | Low | Reasonable | High |
 | BWXT | $11.13B | -43% | 23.5 | 10% | Low | Fair-to-demanding | Elevated |
 | FSLR | $20.91B | -27% | 8.4 | 37% | Low | Reasonable | High |
 | ENPH | $4.17B | +7% | 22.0 | 7% | Low | Fair-to-demanding | High |

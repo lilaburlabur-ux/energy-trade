@@ -1,0 +1,154 @@
+# NXT Research Report
+**Nextpower Inc.** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+Signed file: `NXT.research.05.11.2026`
+
+| Field | Value |
+|---|---|
+| Current price | $106.70 (2026-11-05, ~15-min delayed) |
+| Market cap | $16.39B |
+| Sector / Industry | Technology / Solar |
+| Main theme | Solar — see catalysts below |
+| Current stance | Low technical momentum, strong fundamentals, value: reasonable, risk: high. |
+
+> Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-05.
+
+## 1. Executive Summary
+| Area | Score / Read | Reason |
+|---|---|---|
+| Technical momentum | Low | Below SMA200 (-0.18%) with negative half-year (-15.37%). |
+| Fresh setup quality | Poor / broken | -31.78% from 52w high — base needs to rebuild. |
+| Fundamental quality | Strong | Profit margin 15.98%, revenue growth 22.50%. |
+| Value attractiveness | Reasonable | Forward P/E 18.52, EV/Sales 3.93. |
+| Risk level | High | Beta 1.93, ATR 5.8% of price, short float 8.91%. |
+
+**Bottom line:** Low technical momentum, strong fundamentals, value: reasonable, risk: high.
+
+**Key questions before any trade (standard):**
+- Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
+- Where is the actual invalidation level? If that level is too far away, the setup is not clean.
+- Is the move supported by new institutional demand or just retail/short-covering momentum?
+- Can earnings convert fast enough to justify the valuation?
+
+## 2. Company Overview and Recent Catalysts
+Nextpower Inc. provides solar and energy technology solutions for utility-scale power plants in the United States and internationally. It offers tracking solutions, including NX Horizon, a solar tracking solution; NX Horizon-XTR, a terrain-following tracker to expand the addressable market for trackers on sites with sloped, uneven, and challenging terrain; NX Horizon Hail Pro adds automatic stowing using weather service information; and NX Horizon Low Carbon, a solar tracker solution with a reduced carbon footprint.
+
+**Recent headlines (potential catalysts):**
+
+| Headline | Source | Date |
+|---|---|---|
+| The AI Data-Center Backlash Is Real. Why Bloom Energy Stock Can Be a Winner. | Barrons.com | 2026-11-04 |
+| What’s Moving the Markets Today? | The Wall Street Journal | 2026-11-04 |
+| Top clean energy stocks to watch as Democratic sweep improves outlook | Investing.com | 2026-11-04 |
+| US Clean Energy Stocks Investors Are Watching As Washington Backs Solar And Storage | Simply Wall St. | 2026-11-04 |
+
+## 3. Technical Analysis
+| Technical item | Read |
+|---|---|
+| Price vs 52-week range | Close $106.70; 52w high $156.40 (-31.78%); 52w low $76.48 (+39.51%) |
+| Trend | -0.18% vs SMA200, +28.28% vs SMA50, +27.09% vs SMA20 |
+| Momentum | RSI(14) 73.4 (overbought) |
+| Volatility | ATR(14) 6.18 (~5.8% of price); beta 1.93 |
+| Setup perspective | -31.78% from 52w high — base needs to rebuild. |
+
+**Performance snapshot:**
+
+| Window | Return |
+|---|---|
+| Week | +30.0% |
+| Month | +21.1% |
+| Quarter | +8.4% |
+| Half Y | -15.4% |
+| 1Y | +5.1% |
+| YTD | +15.0% |
+
+## 4. Fundamental Analysis
+| Factor | Observation | Implication / extra |
+|---|---|---|
+| Next earnings | 2027-01-27 | Next scheduled report (Yahoo estimate) |
+| Revenue (ttm) | $3.83B | Revenue growth 22.50% y/y |
+| Profitability | Gross 21.84%, operating 20.05%, net 15.98% | ROA 10.75%, ROE 26.46% |
+| Balance sheet | Cash $1.03B, debt $44.50M | Current ratio 2.23, debt/equity 1.68 |
+| Valuation | P/E 26.88, forward P/E 18.52, P/S 4.28, P/B 6.08 | EV/Sales 3.93, EV/EBITDA 19.96 |
+| Growth expectations | Earnings growth 11.30%, EPS q/q 12.70% | Analyst mean target $128.29 (28 analysts) |
+
+## 5. Institutional Investors and Ownership
+| Metric | Value |
+|---|---|
+| Institutional ownership | 109.55% |
+| Insider ownership | 0.65% |
+| Short float | 8.91% |
+| Short ratio (days to cover) | 4.5 |
+
+**Top institutional holders:**
+
+| Holder | Shares | % Out | Reported |
+|---|---|---|---|
+| Blackrock Inc. | 21,140,588 | 14.04% | 2026-06-30 |
+| FMR, LLC | 18,753,360 | 12.45% | 2026-06-30 |
+| Primecap Management Company | 6,688,767 | 4.44% | 2026-06-30 |
+| Vanguard Capital Management LLC | 6,504,906 | 4.32% | 2026-06-30 |
+| Vanguard Portfolio Management LLC | 5,956,173 | 3.96% | 2026-06-30 |
+| Invesco Ltd. | 4,868,539 | 3.23% | 2026-06-30 |
+| State Street Corporation | 4,741,459 | 3.15% | 2026-06-30 |
+| Pictet Asset Management Holding SA | 4,334,659 | 2.88% | 2026-09-30 |
+| Wellington Management Group, LLP | 3,427,333 | 2.28% | 2026-06-30 |
+| Geode Capital Management, LLC | 3,423,197 | 2.27% | 2026-06-30 |
+
+## 6. Risk Review and Setup Plan
+- **Volatility risk:** Beta 1.93, ATR 5.8% of price, short float 8.91%. Size positions accordingly.
+- **Short interest risk:** short float 8.91% can fuel squeezes both ways around news.
+- **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
+- **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
+
+### Setup checklist for your journal
+| Question | Pass condition |
+|---|---|
+| Is there a new base? | Tight sideways action near highs, declining volume, clear resistance. |
+| Is the pivot obvious? | A clean level that multiple traders can see; not a random candle high. |
+| Is risk defined? | Stop based on structure and less than the expected first upside target. |
+| Is volume confirming? | Breakout volume expands; pullback volume dries up. |
+| Is position size small enough? | A normal shakeout should not cause emotional decision-making. |
+
+## 7. Full Data Snapshot
+| Metric | Value | Metric | Value |
+|---|---|---|---|
+| Price | $106.70 | EV/Sales | 3.93 |
+| Market cap | $16.39B | EV/EBITDA | 19.96 |
+| Beta | 1.93 | Gross margin | 21.84% |
+| RSI(14) | 73.4 | Operating margin | 20.05% |
+| ATR(14) | 6.18 | Profit margin | 15.98% |
+| SMA20 dist | +27.09% | ROA | 10.75% |
+| SMA50 dist | +28.28% | ROE | 26.46% |
+| SMA200 dist | -0.18% | Revenue (ttm) | $3.83B |
+| 52W high | $156.40 | Revenue growth y/y | 22.50% |
+| 52W low | $76.48 | Inst. ownership | 109.55% |
+| P/E (ttm) | 26.88 | Insider ownership | 0.65% |
+| Forward P/E | 18.52 | Short float | 8.91% |
+| PEG (trailing) | 3.15 | Avg volume | 2,234,132 |
+| P/S | 4.28 | Employees | 1,993 |
+| P/B | 6.08 | Analyst rec (1=buy..5=sell) | 1.5 |
+
+## 8. Analyst Actions
+| Date | Action | Firm | Rating change |
+|---|---|---|---|
+| 2026-11-03 | main | GLJ Research | Buy → Buy |
+| 2026-10-31 | main | UBS | Buy → Buy |
+| 2026-10-30 | main | Wells Fargo | Overweight → Overweight |
+| 2026-10-29 | main | JP Morgan | Overweight → Overweight |
+| 2026-10-29 | main | Susquehanna | Positive → Positive |
+| 2026-10-29 | main | Needham | Buy → Buy |
+| 2026-10-21 | main | Citigroup | Buy → Buy |
+| 2026-10-21 | main | BMO Capital | Outperform → Outperform |
+
+## 9. Conclusion
+NXT: Low momentum / strong fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+
+## Sources
+| Source | URL | Used for |
+|---|---|---|
+| Yahoo Finance quote/profile/statistics for NXT | https://finance.yahoo.com/quote/NXT | Snapshot metrics, ownership, analyst data |
+| Yahoo Finance price history (via yfinance) | https://finance.yahoo.com/quote/NXT/history | SMA/RSI/ATR/performance calculations |
+| Yahoo Finance news feed | https://finance.yahoo.com/quote/NXT/news | Catalyst headlines |
+| Method template | AEHR.research.31.05.2026.pdf (user's Cowork method) | Report structure, scoring areas, checklist |
+
+_Note: the template's native Finviz/Fintel/ADVFN pages block automated retrieval; equivalent metrics above are computed from Yahoo Finance data instead and labeled accordingly._
