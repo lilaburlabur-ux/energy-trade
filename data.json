@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-05T21:37:00+00:00",
-  "as_of_local": "2026-11-05 21:37:00 UTC",
+  "as_of_utc": "2026-11-05T21:39:24+00:00",
+  "as_of_local": "2026-11-05 21:39:24 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "ETN"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -71,6 +69,12 @@
       "market_cap": 283697165938.156,
       "headlines": [
         {
+          "title": "3 British Energy Stocks With Earnings Growth Over 60%",
+          "url": "https://finance.yahoo.com/energy/articles/3-british-energy-stocks-earnings-211322595.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-05T21:13:22Z"
+        },
+        {
           "title": "Can Chevron's Record Natural Gas Output Strengthen Its LNG Position?",
           "url": "https://finance.yahoo.com/energy/articles/chevrons-record-natural-gas-output-151500530.html",
           "publisher": "Zacks",
@@ -81,12 +85,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/shell-2-other-british-undervalued-031448163.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-05T03:14:48Z"
-        },
-        {
-          "title": "Venture Global (VG) Begins Plaquemines LNG Commercial Operations With First Cargo Shipped",
-          "url": "https://finance.yahoo.com/energy/articles/venture-global-vg-begins-plaquemines-221528203.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-04T22:15:28Z"
         }
       ]
     },
@@ -203,6 +201,34 @@
       ]
     },
     {
+      "symbol": "ETN",
+      "name": "Eaton",
+      "price": 327.02,
+      "previous_close": 353.08,
+      "change_pct": -7.38,
+      "market_cap": 127047265731.81152,
+      "headlines": [
+        {
+          "title": "Is GNRC Worth Buying as Data Center Growth Tests Margins and Risk?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/gnrc-worth-buying-data-center-171100039.html",
+          "publisher": "Zacks",
+          "published": "2026-11-05T17:11:00Z"
+        },
+        {
+          "title": "GNRC Drops 15.3% in the Past Month. Is the Selloff a Buying Chance?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/gnrc-drops-15-3-past-170800950.html",
+          "publisher": "Zacks",
+          "published": "2026-11-05T17:08:00Z"
+        },
+        {
+          "title": "Eaton CEO: AC to DC migration for data centers \u2018is real\u2019",
+          "url": "https://finance.yahoo.com/energy/articles/eaton-ceo-ac-dc-migration-170542327.html",
+          "publisher": "Utility Dive",
+          "published": "2026-11-05T17:05:42Z"
+        }
+      ]
+    },
+    {
       "symbol": "BP",
       "name": "BP",
       "price": 44.7,
@@ -210,6 +236,12 @@
       "change_pct": -2.0,
       "market_cap": 115131651147.96661,
       "headlines": [
+        {
+          "title": "3 British Energy Stocks With Earnings Growth Over 60%",
+          "url": "https://finance.yahoo.com/energy/articles/3-british-energy-stocks-earnings-211322595.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-05T21:13:22Z"
+        },
         {
           "title": "Sector Update: Energy Stocks Drop Thursday",
           "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-drop-thursday-210255557.html",
@@ -221,12 +253,6 @@
           "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-lower-thursday-183515064.html",
           "publisher": "MT Newswires",
           "published": "2026-11-05T18:35:15Z"
-        },
-        {
-          "title": "BP shares fall after $1.06 bln Aker BP stake sale",
-          "url": "https://finance.yahoo.com/energy/articles/bp-shares-fall-1-06-084805620.html",
-          "publisher": "Investing.com",
-          "published": "2026-11-05T08:48:05Z"
         }
       ]
     },
@@ -511,6 +537,34 @@
       ]
     },
     {
+      "symbol": "EOG",
+      "name": "EOG Resources",
+      "price": 144.89,
+      "previous_close": 147.06,
+      "change_pct": -1.48,
+      "market_cap": 77172547386.60934,
+      "headlines": [
+        {
+          "title": "EOG Resources: Q3 Earnings Snapshot",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/eog-resources-q3-earnings-snapshot-212119203.html",
+          "publisher": "Associated Press",
+          "published": "2026-11-05T21:21:19Z"
+        },
+        {
+          "title": "Are Investors Undervaluing Devon Energy (DVN) Right Now?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/investors-undervaluing-devon-energy-dvn-134003264.html",
+          "publisher": "Zacks",
+          "published": "2026-11-05T13:40:03Z"
+        },
+        {
+          "title": "EOG Resources Stock: Analyst Estimates & Ratings",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/eog-resources-stock-analyst-estimates-120523405.html",
+          "publisher": "Barchart",
+          "published": "2026-11-05T12:05:23Z"
+        }
+      ]
+    },
+    {
       "symbol": "PWR",
       "name": "Quanta Services",
       "price": 509.06,
@@ -535,34 +589,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/eme-falls-18-5-month-163200069.html",
           "publisher": "Zacks",
           "published": "2026-11-05T16:32:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "EOG",
-      "name": "EOG Resources",
-      "price": 144.89,
-      "previous_close": 147.06,
-      "change_pct": -1.48,
-      "market_cap": 75999031990.4928,
-      "headlines": [
-        {
-          "title": "EOG Resources: Q3 Earnings Snapshot",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/eog-resources-q3-earnings-snapshot-212119203.html",
-          "publisher": "Associated Press",
-          "published": "2026-11-05T21:21:19Z"
-        },
-        {
-          "title": "Are Investors Undervaluing Devon Energy (DVN) Right Now?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/investors-undervaluing-devon-energy-dvn-134003264.html",
-          "publisher": "Zacks",
-          "published": "2026-11-05T13:40:03Z"
-        },
-        {
-          "title": "EOG Resources Stock: Analyst Estimates & Ratings",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/eog-resources-stock-analyst-estimates-120523405.html",
-          "publisher": "Barchart",
-          "published": "2026-11-05T12:05:23Z"
         }
       ]
     },
@@ -1468,7 +1494,7 @@
       "price": 30.64,
       "previous_close": 30.91,
       "change_pct": -0.87,
-      "market_cap": 9195420037.4664,
+      "market_cap": 9292375382.49504,
       "headlines": [
         {
           "title": "I Love Brookfield Renewable for 1 Reason, and It\u2019s Not the Dividend",
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 90.83,
-      "change_pct": 3.08
+      "price": 90.95,
+      "change_pct": 3.21
     },
     {
       "label": "Brent",
-      "price": 98.52,
-      "change_pct": 4.12
+      "price": 98.73,
+      "change_pct": 4.34
     },
     {
       "label": "NatGas",
       "price": 2.94,
-      "change_pct": -0.54
+      "change_pct": -0.51
     }
   ]
 }
