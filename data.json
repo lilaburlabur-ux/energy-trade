@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-05T08:29:37+00:00",
-  "as_of_local": "2026-11-05 08:29:37 UTC",
+  "as_of_utc": "2026-11-05T08:33:32+00:00",
+  "as_of_local": "2026-11-05 08:33:32 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "NOV"
+    "VRT"
   ],
   "stocks": [
     {
@@ -189,16 +189,16 @@
           "published": "2026-11-05T01:00:00Z"
         },
         {
+          "title": "Zacks.com featured highlights include Cinemark, ConocoPhillips, Pebblebrook Hotel Trust and Chord Energy",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-com-featured-highlights-cinemark-072400723.html",
+          "publisher": "Zacks",
+          "published": "2026-11-05T07:24:00Z"
+        },
+        {
           "title": "The Zacks Analyst Blog Highlights ConocoPhillips, Viper Energy, TotalEnergies, Suncor Energy and Ecopetrol",
           "url": "https://finance.yahoo.com/energy/articles/zacks-analyst-blog-highlights-conocophillips-063800829.html",
           "publisher": "Zacks",
           "published": "2026-11-05T06:38:00Z"
-        },
-        {
-          "title": "Earnings live updates: Cava stock falls after cyclospora outbreak dented Q3 results",
-          "url": "https://finance.yahoo.com/markets/live/earnings-live-updates-apple-palantir-roku-and-more-212856249.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-02T21:28:56Z"
         }
       ]
     },
@@ -563,34 +563,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/enterprise-products-partners-distribution-growth-150500304.html",
           "publisher": "Motley Fool",
           "published": "2026-11-04T15:05:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "VRT",
-      "name": "Vertiv",
-      "price": 205.55,
-      "previous_close": 235.97,
-      "change_pct": -12.89,
-      "market_cap": 79149170711.66115,
-      "headlines": [
-        {
-          "title": "3 Undervalued Stocks To Own In November 2026",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-undervalued-stocks-own-november-052121936.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-05T05:21:21Z"
-        },
-        {
-          "title": "Top 3 AI Infrastructure Stocks To Watch In November 2026",
-          "url": "https://finance.yahoo.com/technology/ai/articles/top-3-ai-infrastructure-stocks-051816770.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-05T05:18:16Z"
-        },
-        {
-          "title": "Vistra Sinks 16% in a Week to a New 52-Week Low. Is the Texas Selloff Overdone?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-sinks-16-week-52-022937824.html",
-          "publisher": "TIKR",
-          "published": "2026-11-05T02:29:37Z"
         }
       ]
     },
@@ -1519,6 +1491,34 @@
       ]
     },
     {
+      "symbol": "NOV",
+      "name": "NOV Inc",
+      "price": 18.03,
+      "previous_close": 18.49,
+      "change_pct": -2.49,
+      "market_cap": 6427920457.5277,
+      "headlines": [
+        {
+          "title": "NOV Expects Higher Offshore Bookings on Strong FPSO Project Pipeline",
+          "url": "https://finance.yahoo.com/energy/articles/nov-expects-higher-offshore-bookings-141000583.html",
+          "publisher": "Zacks",
+          "published": "2026-11-02T14:10:00Z"
+        },
+        {
+          "title": "What Just Happened To TechnipFMC Stock?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/just-happened-technipfmc-stock-163324798.html",
+          "publisher": "Trefis",
+          "published": "2026-10-30T16:33:24Z"
+        },
+        {
+          "title": "SHEL Q3 Earnings Beat on Record Refining Margins, LNG Strength",
+          "url": "https://finance.yahoo.com/energy/articles/shel-q3-earnings-beat-record-133000388.html",
+          "publisher": "Zacks",
+          "published": "2026-10-30T13:30:00Z"
+        }
+      ]
+    },
+    {
       "symbol": "WFRD",
       "name": "Weatherford",
       "price": 86.04,
@@ -2089,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 87.91,
-      "change_pct": -0.24
+      "price": 87.86,
+      "change_pct": -0.3
     },
     {
       "label": "Brent",
-      "price": 95.09,
-      "change_pct": 0.5
+      "price": 95.0,
+      "change_pct": 0.4
     },
     {
       "label": "NatGas",
       "price": 2.95,
-      "change_pct": -0.14
+      "change_pct": -0.24
     }
   ]
 }
