@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-05T09:39:13+00:00",
-  "as_of_local": "2026-11-05 09:39:13 UTC",
+  "as_of_utc": "2026-11-05T09:43:57+00:00",
+  "as_of_local": "2026-11-05 09:43:57 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "FSLR"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1209,34 +1211,6 @@
       ]
     },
     {
-      "symbol": "FSLR",
-      "name": "First Solar",
-      "price": 194.51,
-      "previous_close": 185.9,
-      "change_pct": 4.63,
-      "market_cap": 20906158090.598404,
-      "headlines": [
-        {
-          "title": "Can First Solar Stock Jump 50%?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/first-solar-stock-jump-50-194518856.html",
-          "publisher": "Trefis",
-          "published": "2026-11-04T19:45:18Z"
-        },
-        {
-          "title": "The AI Data-Center Backlash Is Real. Why Bloom Energy Stock Can Be a Winner.",
-          "url": "https://www.barrons.com/articles/bloom-energy-stock-ai-data-centers-midterm-elections-2eae1ed5?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-11-04T18:48:00Z"
-        },
-        {
-          "title": "VST, CEG Stocks Drop As Election Outcome Hits Merchant Power Generators",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/vst-ceg-stocks-drop-election-181047161.html",
-          "publisher": "Stocktwits",
-          "published": "2026-11-04T18:10:47Z"
-        }
-      ]
-    },
-    {
       "symbol": "PR",
       "name": "Permian Resources",
       "price": 22.43,
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 88.35,
-      "change_pct": 0.26
+      "price": 88.27,
+      "change_pct": 0.17
     },
     {
       "label": "Brent",
-      "price": 95.72,
-      "change_pct": 1.16
+      "price": 95.62,
+      "change_pct": 1.06
     },
     {
       "label": "NatGas",
       "price": 2.93,
-      "change_pct": -0.91
+      "change_pct": -0.98
     }
   ]
 }
