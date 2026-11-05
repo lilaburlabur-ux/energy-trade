@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-05T10:35:00+00:00",
-  "as_of_local": "2026-11-05 10:35:00 UTC",
+  "as_of_utc": "2026-11-05T10:40:03+00:00",
+  "as_of_local": "2026-11-05 10:40:03 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -237,6 +237,12 @@
       "market_cap": 117475494172.32329,
       "headlines": [
         {
+          "title": "BP shares fall after $1.06 bln Aker BP stake sale",
+          "url": "https://finance.yahoo.com/energy/articles/bp-shares-fall-1-06-084805620.html",
+          "publisher": "Investing.com",
+          "published": "2026-11-05T08:48:05Z"
+        },
+        {
           "title": "BP Raises $1.06 Billion From Aker BP Stake Sale",
           "url": "https://finance.yahoo.com/energy/articles/bp-raises-1-06-billion-082039166.html",
           "publisher": "Oilprice.com",
@@ -247,12 +253,6 @@
           "url": "https://www.wsj.com/business/energy-oil/bp-sells-5-stake-in-aker-bp-for-1-billion-as-balance-sheet-repair-continues-ac5e1934?siteid=yhoof2&yptr=yahoo",
           "publisher": "The Wall Street Journal",
           "published": "2026-11-05T08:20:00Z"
-        },
-        {
-          "title": "BP Stock Gains 40.6% in a Year: Should You Bet on the Stock Now?",
-          "url": "https://finance.yahoo.com/energy/articles/bp-stock-gains-40-6-164900473.html",
-          "publisher": "Zacks",
-          "published": "2026-11-04T16:49:00Z"
         }
       ]
     },
@@ -1105,6 +1105,12 @@
       "market_cap": 31219004067.634117,
       "headlines": [
         {
+          "title": "3 Nuclear Stocks With Revenue Growth Up To 384%",
+          "url": "https://finance.yahoo.com/energy/articles/3-nuclear-stocks-revenue-growth-101429024.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-05T10:14:29Z"
+        },
+        {
           "title": "Mine, Enrich, Build, Operate: Which Link in the Nuclear Supply Chain Is the Best Stock Right Now?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/mine-enrich-build-operate-nuclear-033500270.html",
           "publisher": "Motley Fool",
@@ -1115,12 +1121,6 @@
           "url": "https://finance.yahoo.com/energy/articles/3-canadian-nuclear-stocks-own-232035019.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-04T23:20:35Z"
-        },
-        {
-          "title": "Cameco Q3 Earnings Call Highlights Uranium Pricing Discipline",
-          "url": "https://finance.yahoo.com/energy/articles/cameco-q3-earnings-call-highlights-171400475.html",
-          "publisher": "Zacks",
-          "published": "2026-11-04T17:14:00Z"
         }
       ]
     },
@@ -2115,18 +2115,13 @@
     },
     {
       "label": "WTI",
-      "price": 88.7,
-      "change_pct": 0.66
+      "price": 88.62,
+      "change_pct": 0.57
     },
     {
       "label": "Brent",
-      "price": 96.32,
-      "change_pct": 1.8
-    },
-    {
-      "label": "NatGas",
-      "price": 2.94,
-      "change_pct": -0.51
+      "price": 96.07,
+      "change_pct": 1.53
     }
   ]
 }
