@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-05T12:06:17+00:00",
-  "as_of_local": "2026-11-05 12:06:17 UTC",
+  "as_of_utc": "2026-11-05T12:11:10+00:00",
+  "as_of_local": "2026-11-05 12:11:10 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "ETN"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -199,6 +197,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-com-featured-highlights-cinemark-072400723.html",
           "publisher": "Zacks",
           "published": "2026-11-05T07:24:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "ETN",
+      "name": "Eaton",
+      "price": 353.08,
+      "previous_close": 391.7,
+      "change_pct": -9.86,
+      "market_cap": 137171574783.3252,
+      "headlines": [
+        {
+          "title": "Eaton (ETN) Stock Sinks As Q3 Results Fail To Calm Execution Fears",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/eaton-etn-stock-sinks-q3-231745797.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-04T23:17:45Z"
+        },
+        {
+          "title": "Why You Should Think About Honeywell Differently Now?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-think-honeywell-differently-now-221414509.html",
+          "publisher": "Trefis",
+          "published": "2026-11-04T22:14:14Z"
+        },
+        {
+          "title": "Why a Democratic Sweep Is Crushing GE Vernova and More Industrial Stocks",
+          "url": "https://www.barrons.com/articles/ge-vernova-vertiv-eaton-ai-industrials-stocks-bf41f4bc?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-11-04T21:14:00Z"
         }
       ]
     },
@@ -1639,6 +1665,12 @@
       "market_cap": 3563253769.707582,
       "headlines": [
         {
+          "title": "Uranium Energy Corp Secures Long-Term Supply Agreements With Two US Nuclear Utilities",
+          "url": "https://finance.yahoo.com/energy/articles/uranium-energy-corp-secures-long-114830022.html",
+          "publisher": "InvestorsHub",
+          "published": "2026-11-05T11:48:30Z"
+        },
+        {
           "title": "What Is Behind The Move In Cameco Stock?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/behind-move-cameco-stock-012341659.html",
           "publisher": "Trefis",
@@ -1649,12 +1681,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-uranium-energy-uec-down-143002442.html",
           "publisher": "Zacks",
           "published": "2026-10-29T14:30:02Z"
-        },
-        {
-          "title": "Azincourt Energy Advances Labrador Uranium Exploration With New Snegamook Drilling Results",
-          "url": "https://finance.yahoo.com/energy/articles/azincourt-energy-advances-labrador-uranium-213911390.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-10-26T21:39:11Z"
         }
       ]
     },
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 89.44,
-      "change_pct": 1.5
+      "price": 89.7,
+      "change_pct": 1.79
     },
     {
       "label": "Brent",
-      "price": 96.6,
-      "change_pct": 2.09
+      "price": 96.79,
+      "change_pct": 2.29
     },
     {
       "label": "NatGas",
       "price": 2.94,
-      "change_pct": -0.71
+      "change_pct": -0.74
     }
   ]
 }
