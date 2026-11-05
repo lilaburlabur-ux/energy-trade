@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-05T13:31:43+00:00",
+  "as_of": "2026-11-05T13:47:04+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,8 +11,8 @@
    "rank": 1,
    "ticker": "RUN",
    "company": "Sunrun Inc.",
-   "move_pct": 21.2,
-   "price": 10.65,
+   "move_pct": 21.43,
+   "price": 10.67,
    "volume": 32193600,
    "volume_vs_avg": "~4x",
    "heat_score": 96,
@@ -27,8 +27,8 @@
    "rank": 2,
    "ticker": "NXT",
    "company": "Nextpower Inc.",
-   "move_pct": 2.06,
-   "price": 108.9,
+   "move_pct": 2.01,
+   "price": 108.84,
    "volume": 10264900,
    "volume_vs_avg": "~4x",
    "heat_score": 44,
@@ -43,11 +43,11 @@
    "rank": 3,
    "ticker": "SEDG",
    "company": "SolarEdge Technologies, Inc.",
-   "move_pct": 2.91,
-   "price": 30.89,
+   "move_pct": 3.4,
+   "price": 31.04,
    "volume": 8188500,
    "volume_vs_avg": "~3x",
-   "heat_score": 41,
+   "heat_score": 43,
    "direction": "up",
    "why": "Susquehanna cuts SolarEdge stock price target on weak demand By Investing.com",
    "catalyst_type": "analyst_action",
@@ -67,9 +67,25 @@
    "direction": "down",
    "why": "If You Ran NRG Energy, What Would You Do?",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOakxWR3QwSVJpZlZkTzUxT0JMX3hsZXdUZ3BzbG40SDRVTGhVQk91aTRLX2tLZmlQdklGTm9MdHl0eTJDQ2JrY1BiV09DcXRtcFdrM1doQTZHbEFPbExQbnpnNUJZZC03a1ZUc09zMTVIQ0VSaGdDTWJLR19vSndGUW9LeUtpaEVycnU3YVhiTDF3TFZJNENUVTZiNjhnTTFl?oc=5",
-   "published": "2026-11-05T12:08:15+00:00",
+   "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5vQVNCWUtsR3o4SDdvOXVqRE8wRkp2WDFjV1dCNFRsU3pkc2Y5akhiR2lUOHY1aF90a0tUWlZ2akFNZXJiNWkzWjEyOXF6Ylp0eTFFME1XQzJmeDE4YVNVVm9xblNma0ZoV2JMSDZ4bGprS1d5Vm0zcE5WZw?oc=5",
+   "published": "2026-11-05T12:32:30+00:00",
    "sector": "Power & IPPs"
+  },
+  {
+   "rank": 5,
+   "ticker": "FSLR",
+   "company": "First Solar, Inc.",
+   "move_pct": 5.14,
+   "price": 204.5,
+   "volume": 8777400,
+   "volume_vs_avg": "~4x",
+   "heat_score": 37,
+   "direction": "up",
+   "why": "Moving up 5.1% on ~4x average volume with no fresh headline this cycle \u2014 attention without a story.",
+   "catalyst_type": "no_news_mover",
+   "source_url": "",
+   "published": "",
+   "sector": "Renewables & Solar"
   }
  ]
 }
