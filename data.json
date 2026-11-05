@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-05T11:10:34+00:00",
-  "as_of_local": "2026-11-05 11:10:34 UTC",
+  "as_of_utc": "2026-11-05T11:15:17+00:00",
+  "as_of_local": "2026-11-05 11:15:17 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -405,6 +405,12 @@
       "market_cap": 101041604335.51529,
       "headlines": [
         {
+          "title": "Duke Energy: Q3 Earnings Snapshot",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/duke-energy-q3-earnings-snapshot-111048043.html",
+          "publisher": "Associated Press",
+          "published": "2026-11-05T11:10:48Z"
+        },
+        {
           "title": "How Big Could Vistra Stock's Next Fall Be?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/big-could-vistra-stocks-next-103603543.html",
           "publisher": "Trefis",
@@ -415,12 +421,6 @@
           "url": "https://finance.yahoo.com/energy/articles/lower-florida-rates-change-bull-081450917.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-05T08:14:50Z"
-        },
-        {
-          "title": "What Has Changed About Owning Xcel Energy Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/changed-owning-xcel-energy-stock-220549101.html",
-          "publisher": "Trefis",
-          "published": "2026-11-04T22:05:49Z"
         }
       ]
     },
@@ -1161,22 +1161,22 @@
       "market_cap": 25079750817.0,
       "headlines": [
         {
-          "title": "Top Research Reports for Microsoft, SpaceX & Marvell",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/top-research-reports-microsoft-spacex-202500966.html",
-          "publisher": "Zacks",
-          "published": "2026-11-04T20:25:00Z"
-        },
-        {
-          "title": "3 LNG Stocks Retail Investors May Watch As Egypt Gas Imports Tighten Supply",
-          "url": "https://finance.yahoo.com/energy/articles/3-lng-stocks-retail-investors-031758364.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-04T03:17:58Z"
-        },
-        {
-          "title": "iShares Core S&P Mid-Cap (IJH) Adds Okta and TechnipFMC on Oct. 29",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-core-p-mid-cap-110615340.html",
+          "title": "SPDR Portfolio S&P 400 Mid Cap ETF (SPMD) Buys $75.3 Million More Glaukos on Tuesday",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/spdr-portfolio-p-400-mid-110458152.html",
           "publisher": "GuruFocus.com",
-          "published": "2026-11-02T11:06:15Z"
+          "published": "2026-11-05T11:04:58Z"
+        },
+        {
+          "title": "iShares S&P Mid-Cap 400 Growth (IJK) Buys $58 Million More Glaukos on Tuesday",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-p-mid-cap-400-110437931.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-05T11:04:37Z"
+        },
+        {
+          "title": "iShares Core S&P Mid-Cap (IJH) Adds Glaukos and TechnipFMC on Nov. 3",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-core-p-mid-cap-110338929.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-05T11:03:38Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 88.59,
-      "change_pct": 0.53
+      "price": 88.76,
+      "change_pct": 0.73
     },
     {
       "label": "Brent",
-      "price": 96.03,
-      "change_pct": 1.49
+      "price": 96.21,
+      "change_pct": 1.68
     },
     {
       "label": "NatGas",
       "price": 2.93,
-      "change_pct": -0.81
+      "change_pct": -0.84
     }
   ]
 }
