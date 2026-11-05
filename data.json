@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-05T13:27:27+00:00",
-  "as_of_local": "2026-11-05 13:27:27 UTC",
+  "as_of_utc": "2026-11-05T13:33:59+00:00",
+  "as_of_local": "2026-11-05 13:33:59 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "ETR"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -897,34 +899,6 @@
           "url": "https://finance.yahoo.com/energy/articles/energy-transfer-q3-earnings-miss-144400119.html",
           "publisher": "Zacks",
           "published": "2026-11-03T14:44:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "ETR",
-      "name": "Entergy",
-      "price": 111.9,
-      "previous_close": 108.92,
-      "change_pct": 2.74,
-      "market_cap": 53468855569.006325,
-      "headlines": [
-        {
-          "title": "How Will Southern Stock React To Its Upcoming Earnings?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/southern-stock-react-upcoming-earnings-210610619.html",
-          "publisher": "Trefis",
-          "published": "2026-11-04T21:06:10Z"
-        },
-        {
-          "title": "Analysts Say These Industries Will See Midterm Election Impact",
-          "url": "https://www.investors.com/news/spacex-stock-analysts-weigh-in-on-how-midterm-election-results-will-hit-stocks/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-11-04T20:44:27Z"
-        },
-        {
-          "title": "Why Entergy Stock Is In Focus As Investors Look To Regulated Utilities",
-          "url": "https://finance.yahoo.com/energy/articles/why-entergy-stock-focus-investors-171037051.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-04T17:10:37Z"
         }
       ]
     },
@@ -2120,13 +2094,13 @@
     },
     {
       "label": "Brent",
-      "price": 97.38,
-      "change_pct": 2.92
+      "price": 97.28,
+      "change_pct": 2.81
     },
     {
       "label": "NatGas",
-      "price": 2.95,
-      "change_pct": -0.44
+      "price": 2.96,
+      "change_pct": 0.07
     }
   ]
 }
