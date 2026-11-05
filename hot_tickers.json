@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-05T11:45:03+00:00",
+  "as_of": "2026-11-05T11:50:21+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -25,29 +25,13 @@
   },
   {
    "rank": 2,
-   "ticker": "EOSE",
-   "company": "Eos Energy Enterprises, Inc.",
-   "move_pct": 9.35,
-   "price": 2.34,
-   "volume": 51018900,
-   "volume_vs_avg": "~2x",
-   "heat_score": 67,
-   "direction": "up",
-   "why": "Eos Energy Enterprises, Inc. (EOSE) Latest Stock News & Headlines",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1QTGFwSXpXaGFzQWFDQm9VT24wYjlDaklMM0FaR2xNOV9WdFdBbW9MMGhaNUFhZ09uZUlQZFVfZ1FwWHVvcldER2FhbndXNEoxTXlBMDFXV3U?oc=5",
-   "published": "2026-11-05T10:41:24+00:00",
-   "sector": "Grid, Storage & Electrification"
-  },
-  {
-   "rank": 3,
    "ticker": "SEDG",
    "company": "SolarEdge Technologies, Inc.",
-   "move_pct": 0.4,
-   "price": 30.14,
+   "move_pct": 0.6,
+   "price": 30.2,
    "volume": 8188500,
    "volume_vs_avg": "~3x",
-   "heat_score": 32,
+   "heat_score": 33,
    "direction": "up",
    "why": "Susquehanna cuts SolarEdge stock price target on weak demand By Investing.com",
    "catalyst_type": "analyst_action",
