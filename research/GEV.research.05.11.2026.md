@@ -4,24 +4,24 @@ Signed file: `GEV.research.05.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-05, ~15-min delayed) |
-| Market cap | $220.43B |
+| Current price | $780.39 (2026-11-05, ~15-min delayed) |
+| Market cap | $206.55B |
 | Sector / Industry | Industrials / Specialty Industrial Machinery |
 | Main theme | Specialty Industrial Machinery — see catalysts below |
-| Current stance | Moderate technical momentum, strong fundamentals, value: fair-to-demanding, risk: moderate. |
+| Current stance | Low technical momentum, strong fundamentals, value: fair-to-demanding, risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-05.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-17.63%) with negative half-year (-25.28%). |
+| Fresh setup quality | Poor / broken | -33.54% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 23.54%, revenue growth 26.80%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 32.20, EV/Sales 4.75. |
-| Risk level | Moderate | Beta 1.06, ATR nan% of price, short float 2.79%. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 30.17, EV/Sales 4.75. |
+| Risk level | High | Beta 1.06, ATR 7.0% of price, short float 2.79%. |
 
-**Bottom line:** Moderate technical momentum, strong fundamentals, value: fair-to-demanding, risk: moderate.
+**Bottom line:** Low technical momentum, strong fundamentals, value: fair-to-demanding, risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -36,30 +36,30 @@ GE Vernova Inc., an energy company, engages in the provision of various products
 
 | Headline | Source | Date |
 |---|---|---|
-| Dow Jones Futures Rise, But Techs Tumble; Apple, Microsoft, Amazon Flash Buy Signals In Postelection Rally | Investor's Business Daily | 2026-11-05 |
-| AI Data Center Backlash Is Real. The Blue Wave Takes Out Energy Stocks. | Barrons.com | 2026-11-04 |
-| Why a Democratic Sweep Is Crushing GE Vernova and More Industrial Stocks | Barrons.com | 2026-11-04 |
-| Data Center Stocks Just Plunged After the Midterms. Is It Time to Buy the Dip? | Motley Fool | 2026-11-04 |
+| GE Vernova Stocks Fall 9.1% as AI Power Expectations Reset | GuruFocus.com | 2026-11-05 |
+| The AI Trade Selloff Is Crushing Industrial Stocks. What Caterpillar’s Valuation Tells Us. | Barrons.com | 2026-11-05 |
+| Prediction: GE Vernova Will Make Investors a Lot Richer by 2030 | Motley Fool | 2026-11-05 |
+| Oklo Sank 10% a Day After the Democratic Sweep Rattled AI Power Stocks. Here’s What Friday’s Report Has to Settle | TIKR | 2026-11-05 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $1,174.17 (+nan%); 52w low $546.63 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 50.8 (neutral) |
-| Volatility | ATR(14) 48.31 (~nan% of price); beta 1.06 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $780.39; 52w high $1,174.17 (-33.54%); 52w low $548.83 (+42.19%) |
+| Trend | -17.63% vs SMA200, -15.80% vs SMA50, -12.92% vs SMA20 |
+| Momentum | RSI(14) 35.4 (neutral) |
+| Volatility | ATR(14) 54.98 (~7.0% of price); beta 1.06 |
+| Setup perspective | -33.54% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -12.1% |
+| Month | -21.7% |
+| Quarter | -21.2% |
+| Half Y | -25.3% |
+| 1Y | +42.8% |
+| YTD | +15.1% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ GE Vernova Inc., an energy company, engages in the provision of various products
 | Revenue (ttm) | $44.04B | Revenue growth 26.80% y/y |
 | Profitability | Gross 21.79%, operating 12.77%, net 23.54% | ROA 3.22%, ROE 93.04% |
 | Balance sheet | Cash $16.36B, debt $3.75B | Current ratio 0.83, debt/equity 29.89 |
-| Valuation | P/E 21.86, forward P/E 32.20, P/S 5.01, P/B 19.37 | EV/Sales 4.75, EV/EBITDA 41.41 |
+| Valuation | P/E 20.49, forward P/E 30.17, P/S 4.69, P/B 18.15 | EV/Sales 4.75, EV/EBITDA 41.41 |
 | Growth expectations | Earnings growth 193.30%, EPS q/q 185.60% | Analyst mean target $1,187.07 (33 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 82.15% |
+| Institutional ownership | 81.83% |
 | Insider ownership | 0.13% |
 | Short float | 2.79% |
 | Short ratio (days to cover) | 3.2 |
@@ -95,7 +95,9 @@ GE Vernova Inc., an energy company, engages in the provision of various products
 | Fisher Asset Management, LLC | 3,559,479 | 1.34% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 32.20, EV/Sales 4.75. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 30.17, EV/Sales 4.75. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 1.06, ATR 7.0% of price, short float 2.79%. Size positions accordingly.
+- **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -110,21 +112,21 @@ GE Vernova Inc., an energy company, engages in the provision of various products
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 4.75 |
-| Market cap | $220.43B | EV/EBITDA | 41.41 |
+| Price | $780.39 | EV/Sales | 4.75 |
+| Market cap | $206.55B | EV/EBITDA | 41.41 |
 | Beta | 1.06 | Gross margin | 21.79% |
-| RSI(14) | 50.8 | Operating margin | 12.77% |
-| ATR(14) | 48.31 | Profit margin | 23.54% |
-| SMA20 dist | +nan% | ROA | 3.22% |
-| SMA50 dist | +nan% | ROE | 93.04% |
-| SMA200 dist | +nan% | Revenue (ttm) | $44.04B |
+| RSI(14) | 35.4 | Operating margin | 12.77% |
+| ATR(14) | 54.98 | Profit margin | 23.54% |
+| SMA20 dist | -12.92% | ROA | 3.22% |
+| SMA50 dist | -15.80% | ROE | 93.04% |
+| SMA200 dist | -17.63% | Revenue (ttm) | $44.04B |
 | 52W high | $1,174.17 | Revenue growth y/y | 26.80% |
-| 52W low | $546.63 | Inst. ownership | 82.15% |
-| P/E (ttm) | 21.86 | Insider ownership | 0.13% |
-| Forward P/E | 32.20 | Short float | 2.79% |
-| PEG (trailing) | 1.80 | Avg volume | 2,423,373 |
-| P/S | 5.01 | Employees | 78,000 |
-| P/B | 19.37 | Analyst rec (1=buy..5=sell) | 1.5 |
+| 52W low | $548.83 | Inst. ownership | 81.83% |
+| P/E (ttm) | 20.49 | Insider ownership | 0.13% |
+| Forward P/E | 30.17 | Short float | 2.79% |
+| PEG (trailing) | 1.80 | Avg volume | 2,495,165 |
+| P/S | 4.69 | Employees | 78,000 |
+| P/B | 18.15 | Analyst rec (1=buy..5=sell) | 1.5 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
@@ -139,7 +141,7 @@ GE Vernova Inc., an energy company, engages in the provision of various products
 | 2026-10-29 | main | TD Cowen | Buy → Buy |
 
 ## 9. Conclusion
-GEV: Moderate momentum / strong fundamentals / fair-to-demanding value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+GEV: Low momentum / strong fundamentals / fair-to-demanding value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

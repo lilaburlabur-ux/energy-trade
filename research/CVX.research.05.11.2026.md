@@ -4,8 +4,8 @@ Signed file: `CVX.research.05.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-05, ~15-min delayed) |
-| Market cap | $423.29B |
+| Current price | $215.73 (2026-11-05, ~15-min delayed) |
+| Market cap | $420.89B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `CVX.research.05.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +46.18%; price +12.10% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -8.40% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 11.92%, revenue growth 34.80%. |
-| Value attractiveness | Reasonable | Forward P/E 13.26, EV/Sales 2.02. |
-| Risk level | Moderate | Beta 0.45, ATR nan% of price, short float 1.32%. |
+| Value attractiveness | Reasonable | Forward P/E 13.19, EV/Sales 2.02. |
+| Risk level | Moderate | Beta 0.45, ATR 2.4% of price, short float 1.32%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
@@ -36,30 +36,30 @@ Chevron Corporation, through its subsidiaries, engages in the integrated energy 
 
 | Headline | Source | Date |
 |---|---|---|
+| Chevron Has Become Very Interesting Again Following the Midterms | 24/7 Wall St. | 2026-11-05 |
+| Can Chevron's Record Natural Gas Output Strengthen Its LNG Position? | Zacks | 2026-11-05 |
+| Is Exxon Mobil Stock Still Worth Owning After Its Quarter? | Trefis | 2026-11-05 |
 | Joe Terranova Says “Inflation Lost” on Election Night. What That Means for Energy Stocks | 24/7 Wall St. | 2026-11-04 |
-| Dow Rallies 1,590 Points on Midterm Relief: Stock Market Today | Kiplinger | 2026-11-04 |
-| Chevron Stocks Move Lower Refining Supplies Most of the Profit Increase | GuruFocus.com | 2026-11-04 |
-| How to Turn $250,000 Into Nearly $1,000 a Month in Passive Income | 24/7 Wall St. | 2026-11-04 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $235.52 (+nan%); 52w low $142.76 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 55.0 (neutral) |
-| Volatility | ATR(14) 4.72 (~nan% of price); beta 0.45 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $215.73; 52w high $235.52 (-8.40%); 52w low $142.76 (+51.11%) |
+| Trend | +12.10% vs SMA200, +0.48% vs SMA50, -3.91% vs SMA20 |
+| Momentum | RSI(14) 43.6 (neutral) |
+| Volatility | ATR(14) 5.27 (~2.4% of price); beta 0.45 |
+| Setup perspective | -8.40% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -6.8% |
+| Month | +5.2% |
+| Quarter | +16.6% |
+| Half Y | +20.3% |
+| 1Y | +46.2% |
+| YTD | +42.2% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ Chevron Corporation, through its subsidiaries, engages in the integrated energy 
 | Revenue (ttm) | $226.33B | Revenue growth 34.80% y/y |
 | Profitability | Gross 44.40%, operating 18.01%, net 11.92% | ROA —, ROE — |
 | Balance sheet | Cash $8.53B, debt $37.08B | Current ratio —, debt/equity 18.96 |
-| Valuation | P/E 15.93, forward P/E 13.26, P/S 1.87, P/B 2.24 | EV/Sales 2.02, EV/EBITDA 7.87 |
+| Valuation | P/E 15.84, forward P/E 13.19, P/S 1.86, P/B 2.23 | EV/Sales 2.02, EV/EBITDA 7.87 |
 | Growth expectations | Earnings growth 178.00%, EPS q/q 180.40% | Analyst mean target $241.67 (24 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 72.06% |
+| Institutional ownership | 72.08% |
 | Insider ownership | 4.83% |
 | Short float | 1.32% |
 | Short ratio (days to cover) | 2.8 |
@@ -109,21 +109,21 @@ Chevron Corporation, through its subsidiaries, engages in the integrated energy 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 2.02 |
-| Market cap | $423.29B | EV/EBITDA | 7.87 |
+| Price | $215.73 | EV/Sales | 2.02 |
+| Market cap | $420.89B | EV/EBITDA | 7.87 |
 | Beta | 0.45 | Gross margin | 44.40% |
-| RSI(14) | 55.0 | Operating margin | 18.01% |
-| ATR(14) | 4.72 | Profit margin | 11.92% |
-| SMA20 dist | +nan% | ROA | — |
-| SMA50 dist | +nan% | ROE | — |
-| SMA200 dist | +nan% | Revenue (ttm) | $226.33B |
+| RSI(14) | 43.6 | Operating margin | 18.01% |
+| ATR(14) | 5.27 | Profit margin | 11.92% |
+| SMA20 dist | -3.91% | ROA | — |
+| SMA50 dist | +0.48% | ROE | — |
+| SMA200 dist | +12.10% | Revenue (ttm) | $226.33B |
 | 52W high | $235.52 | Revenue growth y/y | 34.80% |
-| 52W low | $142.76 | Inst. ownership | 72.06% |
-| P/E (ttm) | 15.93 | Insider ownership | 4.83% |
-| Forward P/E | 13.26 | Short float | 1.32% |
-| PEG (trailing) | 0.97 | Avg volume | 8,365,579 |
-| P/S | 1.87 | Employees | 43,039 |
-| P/B | 2.24 | Analyst rec (1=buy..5=sell) | 1.7 |
+| 52W low | $142.76 | Inst. ownership | 72.08% |
+| P/E (ttm) | 15.84 | Insider ownership | 4.83% |
+| Forward P/E | 13.19 | Short float | 1.32% |
+| PEG (trailing) | 0.84 | Avg volume | 8,418,404 |
+| P/S | 1.86 | Employees | 43,039 |
+| P/B | 2.23 | Analyst rec (1=buy..5=sell) | 1.7 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

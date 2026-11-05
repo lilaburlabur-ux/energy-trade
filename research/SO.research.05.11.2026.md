@@ -4,8 +4,8 @@ Signed file: `SO.research.05.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-05, ~15-min delayed) |
-| Market cap | $107.12B |
+| Current price | $92.73 (2026-11-05, ~15-min delayed) |
+| Market cap | $106.67B |
 | Sector / Industry | Utilities / Utilities - Regulated Electric |
 | Main theme | Utilities - Regulated Electric — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `SO.research.05.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +3.30%; price +1.22% vs SMA200. |
+| Fresh setup quality | Watch | -4.88% from 52w high and near SMA20 — check for a tight base. |
 | Fundamental quality | Mixed | Profit margin 15.43%, revenue growth 0.10%. |
-| Value attractiveness | Reasonable | Forward P/E 18.93, EV/Sales 6.10. |
-| Risk level | Moderate | Beta 0.29, ATR nan% of price, short float 2.56%. |
+| Value attractiveness | Reasonable | Forward P/E 18.85, EV/Sales 6.10. |
+| Risk level | Moderate | Beta 0.29, ATR 2.0% of price, short float 2.56%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
@@ -36,30 +36,30 @@ The Southern Company, through its subsidiaries, engages in the sale of electrici
 
 | Headline | Source | Date |
 |---|---|---|
-| What Has Changed About Owning Xcel Energy Stock? | Trefis | 2026-11-04 |
-| AI Data Center Backlash Is Real. The Blue Wave Takes Out Energy Stocks. | Barrons.com | 2026-11-04 |
-| How Will Southern Stock React To Its Upcoming Earnings? | Trefis | 2026-11-04 |
-| What Does The Market Want From PG&E Stock? | Trefis | 2026-11-04 |
+| Where Will PG&E Stock Be In Three Years? | Trefis | 2026-11-05 |
+| Great Jobless Claims & Productivity Keep Dow Alight | Zacks | 2026-11-05 |
+| Treasury Yields Are Falling. These 3 Dividend Stocks Could Be Big Winners | 24/7 Wall St. | 2026-11-05 |
+| Southern Co. (SO) Q3 Earnings and Revenues Surpass Estimates | Zacks | 2026-11-05 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $97.49 (+nan%); 52w low $82.06 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 64.4 (neutral) |
-| Volatility | ATR(14) 1.51 (~nan% of price); beta 0.29 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $92.73; 52w high $97.49 (-4.88%); 52w low $82.06 (+13.00%) |
+| Trend | +1.22% vs SMA200, +5.26% vs SMA50, +1.58% vs SMA20 |
+| Momentum | RSI(14) 59.2 (neutral) |
+| Volatility | ATR(14) 1.81 (~2.0% of price); beta 0.29 |
+| Setup perspective | -4.88% from 52w high and near SMA20 — check for a tight base. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -0.3% |
+| Month | +8.5% |
+| Quarter | +0.9% |
+| Half Y | +2.0% |
+| 1Y | +3.3% |
+| YTD | +9.0% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ The Southern Company, through its subsidiaries, engages in the sale of electrici
 | Revenue (ttm) | $30.18B | Revenue growth 0.10% y/y |
 | Profitability | Gross 48.29%, operating 29.61%, net 15.43% | ROA 3.27%, ROE 11.48% |
 | Balance sheet | Cash $2.98B, debt $77.09B | Current ratio 0.79, debt/equity 182.06 |
-| Valuation | P/E 22.44, forward P/E 18.93, P/S 3.55, P/B 2.71 | EV/Sales 6.10, EV/EBITDA 12.90 |
+| Valuation | P/E 22.34, forward P/E 18.85, P/S 3.53, P/B 2.70 | EV/Sales 6.10, EV/EBITDA 12.90 |
 | Growth expectations | Earnings growth 30.40%, EPS q/q 33.40% | Analyst mean target $95.90 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 74.33% |
+| Institutional ownership | 74.35% |
 | Insider ownership | 0.10% |
 | Short float | 2.56% |
 | Short ratio (days to cover) | 4.5 |
@@ -95,6 +95,7 @@ The Southern Company, through its subsidiaries, engages in the sale of electrici
 | Franklin Resources, Inc. | 16,561,908 | 1.44% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
+- **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -109,21 +110,21 @@ The Southern Company, through its subsidiaries, engages in the sale of electrici
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 6.10 |
-| Market cap | $107.12B | EV/EBITDA | 12.90 |
+| Price | $92.73 | EV/Sales | 6.10 |
+| Market cap | $106.67B | EV/EBITDA | 12.90 |
 | Beta | 0.29 | Gross margin | 48.29% |
-| RSI(14) | 64.4 | Operating margin | 29.61% |
-| ATR(14) | 1.51 | Profit margin | 15.43% |
-| SMA20 dist | +nan% | ROA | 3.27% |
-| SMA50 dist | +nan% | ROE | 11.48% |
-| SMA200 dist | +nan% | Revenue (ttm) | $30.18B |
+| RSI(14) | 59.2 | Operating margin | 29.61% |
+| ATR(14) | 1.81 | Profit margin | 15.43% |
+| SMA20 dist | +1.58% | ROA | 3.27% |
+| SMA50 dist | +5.26% | ROE | 11.48% |
+| SMA200 dist | +1.22% | Revenue (ttm) | $30.18B |
 | 52W high | $97.49 | Revenue growth y/y | 0.10% |
-| 52W low | $82.06 | Inst. ownership | 74.33% |
-| P/E (ttm) | 22.44 | Insider ownership | 0.10% |
-| Forward P/E | 18.93 | Short float | 2.56% |
-| PEG (trailing) | 2.22 | Avg volume | 5,853,468 |
-| P/S | 3.55 | Employees | 29,502 |
-| P/B | 2.71 | Analyst rec (1=buy..5=sell) | 2.6 |
+| 52W low | $82.06 | Inst. ownership | 74.35% |
+| P/E (ttm) | 22.34 | Insider ownership | 0.10% |
+| Forward P/E | 18.85 | Short float | 2.56% |
+| PEG (trailing) | 2.22 | Avg volume | 6,062,390 |
+| P/S | 3.53 | Employees | 29,502 |
+| P/B | 2.70 | Analyst rec (1=buy..5=sell) | 2.6 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

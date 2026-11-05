@@ -4,8 +4,8 @@ Signed file: `EPD.research.05.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-05, ~15-min delayed) |
-| Market cap | $79.27B |
+| Current price | $36.78 (2026-11-05, ~15-min delayed) |
+| Market cap | $79.33B |
 | Sector / Industry | Energy / Oil & Gas Midstream |
 | Main theme | Oil & Gas Midstream — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `EPD.research.05.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +29.22%; price +1.26% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -5.18% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 10.24%, revenue growth 49.30%. |
-| Value attractiveness | Reasonable | Forward P/E 11.56, EV/Sales 1.77. |
-| Risk level | Moderate | Beta 0.46, ATR nan% of price, short float 2.50%. |
+| Value attractiveness | Reasonable | Forward P/E 11.59, EV/Sales 1.77. |
+| Risk level | Moderate | Beta 0.46, ATR 2.0% of price, short float 2.51%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
@@ -36,30 +36,30 @@ Enterprise Products Partners L.P. provides midstream energy services to producer
 
 | Headline | Source | Date |
 |---|---|---|
+| How Much of a $1.15 Million IRA Should a 66-Year-Old Convert to Roth to Collect $5,900 a Month Tax-Free? | 24/7 Wall St. | 2026-11-05 |
 | This ETF Makes It Easy to Invest in Hard Assets | Barrons.com | 2026-11-04 |
 | The 10-Year Treasury Yields 4.91%. These 4 Dividend Stocks Pay More | 24/7 Wall St. | 2026-11-04 |
 | Enterprise Products Partners' Distribution Growth Has Slowed From 5% to 2.7%. Is That a Red Flag or a Feature? | Motley Fool | 2026-11-04 |
-| Is Trending Stock Enterprise Products Partners L.P. (EPD) a Buy Now? | Zacks | 2026-11-04 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $38.80 (+nan%); 52w low $28.47 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 56.5 (neutral) |
-| Volatility | ATR(14) 0.70 (~nan% of price); beta 0.46 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $36.78; 52w high $38.80 (-5.18%); 52w low $28.89 (+27.33%) |
+| Trend | +1.26% vs SMA200, -0.72% vs SMA50, +0.77% vs SMA20 |
+| Momentum | RSI(14) 49.8 (neutral) |
+| Volatility | ATR(14) 0.74 (~2.0% of price); beta 0.46 |
+| Setup perspective | -5.18% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -4.4% |
+| Month | +1.1% |
+| Quarter | -1.1% |
+| Half Y | +0.4% |
+| 1Y | +29.2% |
+| YTD | +21.4% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,15 +68,15 @@ Enterprise Products Partners L.P. provides midstream energy services to producer
 | Revenue (ttm) | $64.40B | Revenue growth 49.30% y/y |
 | Profitability | Gross 12.56%, operating 10.64%, net 10.24% | ROA —, ROE — |
 | Balance sheet | Cash $246.00M, debt $34.21B | Current ratio —, debt/equity 109.97 |
-| Valuation | P/E 12.12, forward P/E 11.56, P/S 1.23, P/B 2.62 | EV/Sales 1.77, EV/EBITDA 10.68 |
+| Valuation | P/E 12.18, forward P/E 11.59, P/S 1.23, P/B 2.63 | EV/Sales 1.77, EV/EBITDA 10.68 |
 | Growth expectations | Earnings growth 21.60%, EPS q/q 21.40% | Analyst mean target $41.67 (21 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 25.78% |
-| Insider ownership | 33.05% |
-| Short float | 2.50% |
+| Institutional ownership | 25.82% |
+| Insider ownership | 33.09% |
+| Short float | 2.51% |
 | Short ratio (days to cover) | 5.2 |
 
 **Top institutional holders:**
@@ -95,6 +95,7 @@ Enterprise Products Partners L.P. provides midstream energy services to producer
 | Kayne Anderson Capital Advisors, L.P. | 12,869,425 | 0.60% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
+- **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -109,21 +110,21 @@ Enterprise Products Partners L.P. provides midstream energy services to producer
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 1.77 |
-| Market cap | $79.27B | EV/EBITDA | 10.68 |
+| Price | $36.78 | EV/Sales | 1.77 |
+| Market cap | $79.33B | EV/EBITDA | 10.68 |
 | Beta | 0.46 | Gross margin | 12.56% |
-| RSI(14) | 56.5 | Operating margin | 10.64% |
-| ATR(14) | 0.70 | Profit margin | 10.24% |
-| SMA20 dist | +nan% | ROA | — |
-| SMA50 dist | +nan% | ROE | — |
-| SMA200 dist | +nan% | Revenue (ttm) | $64.40B |
+| RSI(14) | 49.8 | Operating margin | 10.64% |
+| ATR(14) | 0.74 | Profit margin | 10.24% |
+| SMA20 dist | +0.77% | ROA | — |
+| SMA50 dist | -0.72% | ROE | — |
+| SMA200 dist | +1.26% | Revenue (ttm) | $64.40B |
 | 52W high | $38.80 | Revenue growth y/y | 49.30% |
-| 52W low | $28.47 | Inst. ownership | 25.78% |
-| P/E (ttm) | 12.12 | Insider ownership | 33.05% |
-| Forward P/E | 11.56 | Short float | 2.50% |
-| PEG (trailing) | 1.24 | Avg volume | 3,294,498 |
+| 52W low | $28.89 | Inst. ownership | 25.82% |
+| P/E (ttm) | 12.18 | Insider ownership | 33.09% |
+| Forward P/E | 11.59 | Short float | 2.51% |
+| PEG (trailing) | 1.21 | Avg volume | 3,325,159 |
 | P/S | 1.23 | Employees | 0 |
-| P/B | 2.62 | Analyst rec (1=buy..5=sell) | 2.3 |
+| P/B | 2.63 | Analyst rec (1=buy..5=sell) | 2.3 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

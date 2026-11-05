@@ -4,24 +4,24 @@ Signed file: `OKLO.research.05.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-05, ~15-min delayed) |
-| Market cap | $4.11B |
+| Current price | $19.26 (2026-11-05, ~15-min delayed) |
+| Market cap | $3.58B |
 | Sector / Industry | Utilities / Utilities - Independent Power Producers |
 | Main theme | Utilities - Independent Power Producers — see catalysts below |
-| Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: high. |
+| Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-05.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-63.29%) with negative half-year (-73.19%). |
+| Fresh setup quality | Poor / broken | -84.11% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 0.00%, revenue growth —. |
-| Value attractiveness | Reasonable | Forward P/E -20.79, EV/Sales 1,366.69. |
-| Risk level | High | Beta 1.31, ATR nan% of price, short float 21.92%. |
+| Value attractiveness | Reasonable | Forward P/E -18.10, EV/Sales 1,366.69. |
+| Risk level | High | Beta 1.31, ATR 10.8% of price, short float 21.92%. |
 
-**Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: high.
+**Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -36,30 +36,30 @@ Oklo Inc. develops fission power plants to provide energy at scale to customers 
 
 | Headline | Source | Date |
 |---|---|---|
-| NuScale Hit a 52-Week Low as Barclays Turned Bearish. Here’s What Thursday’s Report Must Show | TIKR | 2026-11-04 |
-| Oklo Sinks 6%, Comfort Systems USA Down 15% as Democratic Sweep Rattles AI Power Stocks: “A Negative Surprise” | TIKR | 2026-11-04 |
-| 3 Nuclear Stocks With 50%+ Upside Potential, According to Wedbush | TipRanks | 2026-11-04 |
-| NANO Nuclear Energy And 2 Other Top Nuclear Stocks To Watch | Simply Wall St. | 2026-11-04 |
+| Oklo Sank 10% a Day After the Democratic Sweep Rattled AI Power Stocks. Here’s What Friday’s Report Has to Settle | TIKR | 2026-11-05 |
+| NuScale's Modular Reactors Offer Flexible Clean Energy Supply | Zacks | 2026-11-05 |
+| Better Nuclear Energy Stock to Buy After the Sell-Off: Oklo vs. BWX Technologies | Motley Fool | 2026-11-05 |
+| Mine, Enrich, Build, Operate: Which Link in the Nuclear Supply Chain Is the Best Stock Right Now? | Motley Fool | 2026-11-05 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $121.23 (+nan%); 52w low $23.49 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 25.1 (oversold) |
-| Volatility | ATR(14) 1.91 (~nan% of price); beta 1.31 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $19.26; 52w high $121.23 (-84.11%); 52w low $19.26 (+0.00%) |
+| Trend | -63.29% vs SMA200, -43.26% vs SMA50, -28.98% vs SMA20 |
+| Momentum | RSI(14) 18.7 (oversold) |
+| Volatility | ATR(14) 2.07 (~10.8% of price); beta 1.31 |
+| Setup perspective | -84.11% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -28.2% |
+| Month | -47.7% |
+| Quarter | -60.2% |
+| Half Y | -73.2% |
+| 1Y | -82.8% |
+| YTD | -75.2% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ Oklo Inc. develops fission power plants to provide energy at scale to customers 
 | Revenue (ttm) | $1.21M | Revenue growth — y/y |
 | Profitability | Gross 40.41%, operating -6048.76%, net 0.00% | ROA -6.65%, ROE -7.70% |
 | Balance sheet | Cash $2.47B, debt $4.15M | Current ratio 48.46, debt/equity 0.13 |
-| Valuation | P/E —, forward P/E -20.79, P/S 3,400.59, P/B 1.25 | EV/Sales 1,366.69, EV/EBITDA -7.63 |
+| Valuation | P/E —, forward P/E -18.10, P/S 2,960.91, P/B 1.09 | EV/Sales 1,366.69, EV/EBITDA -7.63 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $65.25 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 47.54% |
+| Institutional ownership | 47.64% |
 | Insider ownership | 15.34% |
 | Short float | 21.92% |
 | Short ratio (days to cover) | 3.6 |
@@ -95,8 +95,9 @@ Oklo Inc. develops fission power plants to provide energy at scale to customers 
 | NORGES BANK | 1,758,267 | 0.95% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.31, ATR nan% of price, short float 21.92%. Size positions accordingly.
+- **Volatility risk:** Beta 1.31, ATR 10.8% of price, short float 21.92%. Size positions accordingly.
 - **Short interest risk:** short float 21.92% can fuel squeezes both ways around news.
+- **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -111,21 +112,21 @@ Oklo Inc. develops fission power plants to provide energy at scale to customers 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 1,366.69 |
-| Market cap | $4.11B | EV/EBITDA | -7.63 |
+| Price | $19.26 | EV/Sales | 1,366.69 |
+| Market cap | $3.58B | EV/EBITDA | -7.63 |
 | Beta | 1.31 | Gross margin | 40.41% |
-| RSI(14) | 25.1 | Operating margin | -6048.76% |
-| ATR(14) | 1.91 | Profit margin | 0.00% |
-| SMA20 dist | +nan% | ROA | -6.65% |
-| SMA50 dist | +nan% | ROE | -7.70% |
-| SMA200 dist | +nan% | Revenue (ttm) | $1.21M |
+| RSI(14) | 18.7 | Operating margin | -6048.76% |
+| ATR(14) | 2.07 | Profit margin | 0.00% |
+| SMA20 dist | -28.98% | ROA | -6.65% |
+| SMA50 dist | -43.26% | ROE | -7.70% |
+| SMA200 dist | -63.29% | Revenue (ttm) | $1.21M |
 | 52W high | $121.23 | Revenue growth y/y | — |
-| 52W low | $23.49 | Inst. ownership | 47.54% |
+| 52W low | $19.26 | Inst. ownership | 47.64% |
 | P/E (ttm) | — | Insider ownership | 15.34% |
-| Forward P/E | -20.79 | Short float | 21.92% |
-| PEG (trailing) | — | Avg volume | 9,744,675 |
-| P/S | 3,400.59 | Employees | 215 |
-| P/B | 1.25 | Analyst rec (1=buy..5=sell) | 2.1 |
+| Forward P/E | -18.10 | Short float | 21.92% |
+| PEG (trailing) | — | Avg volume | 9,862,617 |
+| P/S | 2,960.91 | Employees | 215 |
+| P/B | 1.09 | Analyst rec (1=buy..5=sell) | 2.1 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
@@ -140,7 +141,7 @@ Oklo Inc. develops fission power plants to provide energy at scale to customers 
 | 2026-09-09 | init | Piper Sandler | — → Overweight |
 
 ## 9. Conclusion
-OKLO: Moderate momentum / mixed fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+OKLO: Low momentum / mixed fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

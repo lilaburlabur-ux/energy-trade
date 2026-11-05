@@ -4,8 +4,8 @@ Signed file: `XOM.research.05.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-05, ~15-min delayed) |
-| Market cap | $690.49B |
+| Current price | $167.64 (2026-11-05, ~15-min delayed) |
+| Market cap | $683.84B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `XOM.research.05.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +51.13%; price +8.65% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -10.47% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 10.46%, revenue growth 32.60%. |
-| Value attractiveness | Reasonable | Forward P/E 14.09, EV/Sales 1.85. |
-| Risk level | Moderate | Beta 0.14, ATR nan% of price, short float 1.16%. |
+| Value attractiveness | Reasonable | Forward P/E 13.95, EV/Sales 1.85. |
+| Risk level | Moderate | Beta 0.14, ATR 2.8% of price, short float 1.16%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
@@ -36,30 +36,30 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 
 | Headline | Source | Date |
 |---|---|---|
-| Joe Terranova Says “Inflation Lost” on Election Night. What That Means for Energy Stocks | 24/7 Wall St. | 2026-11-04 |
-| ExxonMobil Stocks Decline 3.43% as Cash Generation Exceeds Shareholder Payments | GuruFocus.com | 2026-11-04 |
-| WMB Q3 Earnings Miss Estimates Amid Higher Costs, Revenues Beat | Zacks | 2026-11-04 |
-| Physical Oil Just Went From a Bidding War to a Fire Sale | 24/7 Wall St. | 2026-11-04 |
+| Can Chevron's Record Natural Gas Output Strengthen Its LNG Position? | Zacks | 2026-11-05 |
+| Liz Ann Sonders Says “Rotation Is the New Momentum Trade.” Here’s Where Money Could Move Next | 24/7 Wall St. | 2026-11-05 |
+| Is Exxon Mobil Stock Still Worth Owning After Its Quarter? | Trefis | 2026-11-05 |
+| XOM Stock Is Up 43% In 2026: Wall Street Is Split On The Oil Major Following Q3 Results | Stocktwits | 2026-11-05 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $187.25 (+nan%); 52w low $110.48 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 53.4 (neutral) |
-| Volatility | ATR(14) 4.15 (~nan% of price); beta 0.14 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $167.64; 52w high $187.25 (-10.47%); 52w low $110.48 (+51.74%) |
+| Trend | +8.65% vs SMA200, -0.62% vs SMA50, -5.62% vs SMA20 |
+| Momentum | RSI(14) 40.8 (neutral) |
+| Volatility | ATR(14) 4.68 (~2.8% of price); beta 0.14 |
+| Setup perspective | -10.47% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -8.5% |
+| Month | +2.2% |
+| Quarter | +10.2% |
+| Half Y | +15.9% |
+| 1Y | +51.1% |
+| YTD | +39.4% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 | Revenue (ttm) | $388.23B | Revenue growth 32.60% y/y |
 | Profitability | Gross 29.81%, operating 16.98%, net 10.46% | ROA 6.88%, ROE 15.53% |
 | Balance sheet | Cash $12.15B, debt $34.25B | Current ratio 1.19, debt/equity 12.57 |
-| Valuation | P/E 17.41, forward P/E 14.09, P/S 1.78, P/B 2.60 | EV/Sales 1.85, EV/EBITDA 9.12 |
+| Valuation | P/E 17.25, forward P/E 13.95, P/S 1.76, P/B 2.57 | EV/Sales 1.85, EV/EBITDA 9.12 |
 | Growth expectations | Earnings growth 111.40%, EPS q/q 104.20% | Analyst mean target $183.67 (21 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 68.64% |
+| Institutional ownership | 68.62% |
 | Insider ownership | 0.08% |
 | Short float | 1.16% |
 | Short ratio (days to cover) | 3.3 |
@@ -109,21 +109,21 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 1.85 |
-| Market cap | $690.49B | EV/EBITDA | 9.12 |
+| Price | $167.64 | EV/Sales | 1.85 |
+| Market cap | $683.84B | EV/EBITDA | 9.12 |
 | Beta | 0.14 | Gross margin | 29.81% |
-| RSI(14) | 53.4 | Operating margin | 16.98% |
-| ATR(14) | 4.15 | Profit margin | 10.46% |
-| SMA20 dist | +nan% | ROA | 6.88% |
-| SMA50 dist | +nan% | ROE | 15.53% |
-| SMA200 dist | +nan% | Revenue (ttm) | $388.23B |
+| RSI(14) | 40.8 | Operating margin | 16.98% |
+| ATR(14) | 4.68 | Profit margin | 10.46% |
+| SMA20 dist | -5.62% | ROA | 6.88% |
+| SMA50 dist | -0.62% | ROE | 15.53% |
+| SMA200 dist | +8.65% | Revenue (ttm) | $388.23B |
 | 52W high | $187.25 | Revenue growth y/y | 32.60% |
-| 52W low | $110.48 | Inst. ownership | 68.64% |
-| P/E (ttm) | 17.41 | Insider ownership | 0.08% |
-| Forward P/E | 14.09 | Short float | 1.16% |
-| PEG (trailing) | 1.44 | Avg volume | 13,407,203 |
-| P/S | 1.78 | Employees | 57,900 |
-| P/B | 2.60 | Analyst rec (1=buy..5=sell) | 2.4 |
+| 52W low | $110.48 | Inst. ownership | 68.62% |
+| P/E (ttm) | 17.25 | Insider ownership | 0.08% |
+| Forward P/E | 13.95 | Short float | 1.16% |
+| PEG (trailing) | 1.38 | Avg volume | 13,617,254 |
+| P/S | 1.76 | Employees | 57,900 |
+| P/B | 2.57 | Analyst rec (1=buy..5=sell) | 2.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

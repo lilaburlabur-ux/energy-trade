@@ -4,8 +4,8 @@ Signed file: `BP.research.05.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-05, ~15-min delayed) |
-| Market cap | $117.48B |
+| Current price | $45.24 (2026-11-05, ~15-min delayed) |
+| Market cap | $116.52B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `BP.research.05.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +35.45%; price +6.11% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -11.85% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 3.84%, revenue growth 41.40%. |
-| Value attractiveness | Reasonable | Forward P/E 7.82, EV/Sales 2.20. |
-| Risk level | Moderate | Beta -0.25, ATR nan% of price, short float 0.37%. |
+| Value attractiveness | Reasonable | Forward P/E 7.76, EV/Sales 2.20. |
+| Risk level | Moderate | Beta -0.25, ATR 2.9% of price, short float 0.37%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
@@ -36,30 +36,30 @@ BP p.l.c., an integrated energy company, engages in the oil and gas business wor
 
 | Headline | Source | Date |
 |---|---|---|
-| BP Stock Gains 40.6% in a Year: Should You Bet on the Stock Now? | Zacks | 2026-11-04 |
-| BP (LSE:BP.) Completes 65% Castrol Stake Sale | Simply Wall St. | 2026-11-04 |
-| Should Value Investors Buy BP (BP) Stock? | Zacks | 2026-11-04 |
-| Brokers Suggest Investing in BP (BP): Read This Before Placing a Bet | Zacks | 2026-11-04 |
+| Sector Update: Energy Stocks Lower Thursday Afternoon | MT Newswires | 2026-11-05 |
+| BP shares fall after $1.06 bln Aker BP stake sale | Investing.com | 2026-11-05 |
+| BP Raises $1.06 Billion From Aker BP Stake Sale | Oilprice.com | 2026-11-05 |
+| BP Sells 5% Stake in Aker BP for $1 Billion as Balance Sheet Repair Continues | The Wall Street Journal | 2026-11-05 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $51.32 (+nan%); 52w low $32.12 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 48.0 (neutral) |
-| Volatility | ATR(14) 1.23 (~nan% of price); beta -0.25 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $45.24; 52w high $51.32 (-11.85%); 52w low $32.12 (+40.86%) |
+| Trend | +6.11% vs SMA200, -2.10% vs SMA50, -7.23% vs SMA20 |
+| Momentum | RSI(14) 38.9 (neutral) |
+| Volatility | ATR(14) 1.31 (~2.9% of price); beta -0.25 |
+| Setup perspective | -11.85% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -10.1% |
+| Month | +1.6% |
+| Quarter | +10.0% |
+| Half Y | +5.7% |
+| 1Y | +35.5% |
+| YTD | +31.0% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ BP p.l.c., an integrated energy company, engages in the oil and gas business wor
 | Revenue (ttm) | $235.14B | Revenue growth 41.40% y/y |
 | Profitability | Gross 29.56%, operating 18.59%, net 3.84% | ROA 6.75%, ROE 13.42% |
 | Balance sheet | Cash $43.05B, debt $69.62B | Current ratio 1.29, debt/equity 87.47 |
-| Valuation | P/E 13.45, forward P/E 7.82, P/S 0.50, P/B 7.61 | EV/Sales 2.20, EV/EBITDA 10.98 |
+| Valuation | P/E 22.07, forward P/E 7.76, P/S 0.50, P/B 7.55 | EV/Sales 2.20, EV/EBITDA 10.98 |
 | Growth expectations | Earnings growth 305.00%, EPS q/q 304.50% | Analyst mean target $54.79 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 14.12% |
+| Institutional ownership | 14.19% |
 | Insider ownership | 0.01% |
 | Short float | 0.37% |
 | Short ratio (days to cover) | 0.9 |
@@ -85,7 +85,7 @@ BP p.l.c., an integrated energy company, engages in the oil and gas business wor
 |---|---|---|---|
 | Fisher Asset Management, LLC | 66,310,416 | 2.53% | 2026-06-30 |
 | Acadian Asset Management. LLC | 23,072,128 | 0.88% | 2026-06-30 |
-| Dimensional Fund Advisors LP | 18,733,560 | 0.72% | 2026-06-30 |
+| Dimensional Fund Advisors LP | 19,461,415 | 0.74% | 2026-09-30 |
 | Arrowstreet Capital, Limited Partnership | 17,366,858 | 0.66% | 2026-06-30 |
 | State Street Corporation | 15,040,506 | 0.57% | 2026-06-30 |
 | GQG Partners LLC | 14,138,369 | 0.54% | 2026-06-30 |
@@ -109,21 +109,21 @@ BP p.l.c., an integrated energy company, engages in the oil and gas business wor
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 2.20 |
-| Market cap | $117.48B | EV/EBITDA | 10.98 |
+| Price | $45.24 | EV/Sales | 2.20 |
+| Market cap | $116.52B | EV/EBITDA | 10.98 |
 | Beta | -0.25 | Gross margin | 29.56% |
-| RSI(14) | 48.0 | Operating margin | 18.59% |
-| ATR(14) | 1.23 | Profit margin | 3.84% |
-| SMA20 dist | +nan% | ROA | 6.75% |
-| SMA50 dist | +nan% | ROE | 13.42% |
-| SMA200 dist | +nan% | Revenue (ttm) | $235.14B |
+| RSI(14) | 38.9 | Operating margin | 18.59% |
+| ATR(14) | 1.31 | Profit margin | 3.84% |
+| SMA20 dist | -7.23% | ROA | 6.75% |
+| SMA50 dist | -2.10% | ROE | 13.42% |
+| SMA200 dist | +6.11% | Revenue (ttm) | $235.14B |
 | 52W high | $51.32 | Revenue growth y/y | 41.40% |
-| 52W low | $32.12 | Inst. ownership | 14.12% |
-| P/E (ttm) | 13.45 | Insider ownership | 0.01% |
-| Forward P/E | 7.82 | Short float | 0.37% |
-| PEG (trailing) | 0.05 | Avg volume | 9,046,179 |
+| 52W low | $32.12 | Inst. ownership | 14.19% |
+| P/E (ttm) | 22.07 | Insider ownership | 0.01% |
+| Forward P/E | 7.76 | Short float | 0.37% |
+| PEG (trailing) | 0.04 | Avg volume | 9,084,439 |
 | P/S | 0.50 | Employees | 93,700 |
-| P/B | 7.61 | Analyst rec (1=buy..5=sell) | 2.2 |
+| P/B | 7.55 | Analyst rec (1=buy..5=sell) | 2.2 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

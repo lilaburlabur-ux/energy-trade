@@ -4,24 +4,24 @@ Signed file: `PR.research.05.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-05, ~15-min delayed) |
-| Market cap | $18.79B |
+| Current price | $22.02 (2026-11-05, ~15-min delayed) |
+| Market cap | $18.45B |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
-| Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate. |
+| Current stance | High technical momentum, strong fundamentals, value: reasonable, risk: elevated. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-05.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +83.65%; price +8.14% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -15.35% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 21.52%, revenue growth 55.10%. |
-| Value attractiveness | Reasonable | Forward P/E 9.16, EV/Sales 3.80. |
-| Risk level | Moderate | Beta 0.58, ATR nan% of price, short float 3.82%. |
+| Value attractiveness | Reasonable | Forward P/E 9.00, EV/Sales 3.80. |
+| Risk level | Elevated | Beta 0.58, ATR 3.8% of price, short float 3.82%. |
 
-**Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate.
+**Bottom line:** High technical momentum, strong fundamentals, value: reasonable, risk: elevated.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -36,30 +36,30 @@ Permian Resources Corporation, an independent oil and natural gas company, focus
 
 | Headline | Source | Date |
 |---|---|---|
+| How Much Upside is Left in Permian Resources (PR)? Wall Street Analysts Think 27.37% | Zacks | 2026-11-05 |
 | Permian Resources (PR) Q3 Earnings and Revenues Surpass Estimates | Zacks | 2026-11-04 |
 | Permian Resources (NYSE:PR) delivers impressive Q3 2026 | StockStory | 2026-11-04 |
 | NGL Energy Partners Set to Report Q2 Earnings: What's in Store? | Zacks | 2026-11-02 |
-| Solaris Energy Q3 Earnings Preview: Another Beat Likely? | Zacks | 2026-10-30 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $26.02 (+nan%); 52w low $11.72 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 48.6 (neutral) |
-| Volatility | ATR(14) 0.74 (~nan% of price); beta 0.58 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $22.02; 52w high $26.02 (-15.35%); 52w low $11.72 (+87.89%) |
+| Trend | +8.14% vs SMA200, -5.70% vs SMA50, -9.86% vs SMA20 |
+| Momentum | RSI(14) 36.0 (neutral) |
+| Volatility | ATR(14) 0.83 (~3.8% of price); beta 0.58 |
+| Setup perspective | -15.35% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -13.9% |
+| Month | -0.7% |
+| Quarter | +10.0% |
+| Half Y | +11.4% |
+| 1Y | +83.6% |
+| YTD | +56.6% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Permian Resources Corporation, an independent oil and natural gas company, focus
 | Revenue (ttm) | $5.74B | Revenue growth 55.10% y/y |
 | Profitability | Gross 75.85%, operating 57.44%, net 21.52% | ROA 7.54%, ROE 11.40% |
 | Balance sheet | Cash $131.72M, debt $3.15B | Current ratio 0.62, debt/equity 26.25 |
-| Valuation | P/E 14.76, forward P/E 9.16, P/S 3.27, P/B 1.56 | EV/Sales 3.80, EV/EBITDA 5.12 |
+| Valuation | P/E 11.41, forward P/E 9.00, P/S 3.22, P/B 1.60 | EV/Sales 3.80, EV/EBITDA 5.12 |
 | Growth expectations | Earnings growth 232.90%, EPS q/q 282.60% | Analyst mean target $28.62 (21 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -88,13 +88,14 @@ Permian Resources Corporation, an independent oil and natural gas company, focus
 | Price (T.Rowe) Associates Inc | 38,222,120 | 4.56% | 2026-06-30 |
 | Vanguard Capital Management LLC | 35,747,918 | 4.27% | 2026-06-30 |
 | State Street Corporation | 27,699,371 | 3.31% | 2026-06-30 |
-| Dimensional Fund Advisors LP | 27,193,401 | 3.25% | 2026-06-30 |
 | T. Rowe Price Investment Management, Inc. | 21,604,211 | 2.58% | 2026-06-30 |
 | Post Oak Energy Holdings, LLC | 21,048,629 | 2.51% | 2026-06-30 |
 | Barrow, Hanley Mewhinney & Strauss, LLC | 20,979,855 | 2.50% | 2026-06-30 |
 | Capital World Investors | 20,324,301 | 2.43% | 2026-06-30 |
+| Wellington Management Group, LLP | 20,156,113 | 2.41% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
+- **Volatility risk:** Beta 0.58, ATR 3.8% of price, short float 3.82%. Size positions accordingly.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -109,21 +110,21 @@ Permian Resources Corporation, an independent oil and natural gas company, focus
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 3.80 |
-| Market cap | $18.79B | EV/EBITDA | 5.12 |
+| Price | $22.02 | EV/Sales | 3.80 |
+| Market cap | $18.45B | EV/EBITDA | 5.12 |
 | Beta | 0.58 | Gross margin | 75.85% |
-| RSI(14) | 48.6 | Operating margin | 57.44% |
-| ATR(14) | 0.74 | Profit margin | 21.52% |
-| SMA20 dist | +nan% | ROA | 7.54% |
-| SMA50 dist | +nan% | ROE | 11.40% |
-| SMA200 dist | +nan% | Revenue (ttm) | $5.74B |
+| RSI(14) | 36.0 | Operating margin | 57.44% |
+| ATR(14) | 0.83 | Profit margin | 21.52% |
+| SMA20 dist | -9.86% | ROA | 7.54% |
+| SMA50 dist | -5.70% | ROE | 11.40% |
+| SMA200 dist | +8.14% | Revenue (ttm) | $5.74B |
 | 52W high | $26.02 | Revenue growth y/y | 55.10% |
 | 52W low | $11.72 | Inst. ownership | 94.23% |
-| P/E (ttm) | 14.76 | Insider ownership | 4.61% |
-| Forward P/E | 9.16 | Short float | 3.82% |
-| PEG (trailing) | 0.88 | Avg volume | 9,532,095 |
-| P/S | 3.27 | Employees | 515 |
-| P/B | 1.56 | Analyst rec (1=buy..5=sell) | 1.3 |
+| P/E (ttm) | 11.41 | Insider ownership | 4.61% |
+| Forward P/E | 9.00 | Short float | 3.82% |
+| PEG (trailing) | 0.88 | Avg volume | 9,659,964 |
+| P/S | 3.22 | Employees | 515 |
+| P/B | 1.60 | Analyst rec (1=buy..5=sell) | 1.3 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
@@ -138,7 +139,7 @@ Permian Resources Corporation, an independent oil and natural gas company, focus
 | 2026-09-15 | main | Keybanc | Overweight → Overweight |
 
 ## 9. Conclusion
-PR: Moderate momentum / strong fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+PR: High momentum / strong fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |
