@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-05T08:58:38+00:00",
-  "as_of_local": "2026-11-05 08:58:38 UTC",
+  "as_of_utc": "2026-11-05T09:04:02+00:00",
+  "as_of_local": "2026-11-05 09:04:02 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "DUK"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -393,34 +395,6 @@
           "url": "https://finance.yahoo.com/energy/articles/phillips-66-psx-secures-long-170952479.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-04T17:09:52Z"
-        }
-      ]
-    },
-    {
-      "symbol": "DUK",
-      "name": "Duke Energy",
-      "price": 129.59,
-      "previous_close": 126.51,
-      "change_pct": 2.43,
-      "market_cap": 101041604335.51529,
-      "headlines": [
-        {
-          "title": "Do Lower Florida Rates Change The Bull Case For Duke Energy (DUK)?",
-          "url": "https://finance.yahoo.com/energy/articles/lower-florida-rates-change-bull-081450917.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-05T08:14:50Z"
-        },
-        {
-          "title": "What Has Changed About Owning Xcel Energy Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/changed-owning-xcel-energy-stock-220549101.html",
-          "publisher": "Trefis",
-          "published": "2026-11-04T22:05:49Z"
-        },
-        {
-          "title": "Eversource Energy (ES) Q3 Earnings and Revenues Lag Estimates",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/eversource-energy-es-q3-earnings-215005183.html",
-          "publisher": "Zacks",
-          "published": "2026-11-04T21:50:05Z"
         }
       ]
     },
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 88.16,
-      "change_pct": 0.05
+      "price": 88.0,
+      "change_pct": -0.14
     },
     {
       "label": "Brent",
-      "price": 95.31,
-      "change_pct": 0.73
+      "price": 95.06,
+      "change_pct": 0.47
     },
     {
       "label": "NatGas",
       "price": 2.95,
-      "change_pct": -0.2
+      "change_pct": -0.37
     }
   ]
 }
