@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-05T10:49:54+00:00",
-  "as_of_local": "2026-11-05 10:49:54 UTC",
+  "as_of_utc": "2026-11-05T10:55:00+00:00",
+  "as_of_local": "2026-11-05 10:55:00 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "TLN"
+    "FANG"
   ],
   "stocks": [
     {
@@ -931,34 +931,6 @@
       ]
     },
     {
-      "symbol": "FANG",
-      "name": "Diamondback Energy",
-      "price": 182.88,
-      "previous_close": 192.34,
-      "change_pct": -4.92,
-      "market_cap": 51067733700.76514,
-      "headlines": [
-        {
-          "title": "Diamondback Energy Inc (FANG) Q3 2026 Earnings Call Highlights: Low Reinvestment Rates, Barnett ...",
-          "url": "https://finance.yahoo.com/energy/articles/diamondback-energy-inc-fang-q3-210243495.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-04T21:02:43Z"
-        },
-        {
-          "title": "EOG Resources Earnings Ahead: What Past Reactions Say About The Stock",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/eog-resources-earnings-ahead-past-203738155.html",
-          "publisher": "Trefis",
-          "published": "2026-11-04T20:37:38Z"
-        },
-        {
-          "title": "FANG Q3 Earnings Call Highlights Capital Discipline and Permian Growth",
-          "url": "https://finance.yahoo.com/energy/articles/fang-q3-earnings-call-highlights-140000206.html",
-          "publisher": "Zacks",
-          "published": "2026-11-04T14:00:00Z"
-        }
-      ]
-    },
-    {
       "symbol": "BKR",
       "name": "Baker Hughes",
       "price": 49.87,
@@ -1219,6 +1191,12 @@
       "market_cap": 20906158090.598404,
       "headlines": [
         {
+          "title": "Where Trump and the Dems Can Meet in the Middle",
+          "url": "https://www.barrons.com/articles/trump-democrats-gridlock-compromise-markets-ba8d36d1?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-11-05T10:15:00Z"
+        },
+        {
           "title": "Can First Solar Stock Jump 50%?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/first-solar-stock-jump-50-194518856.html",
           "publisher": "Trefis",
@@ -1229,12 +1207,6 @@
           "url": "https://www.barrons.com/articles/bloom-energy-stock-ai-data-centers-midterm-elections-2eae1ed5?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
           "published": "2026-11-04T18:48:00Z"
-        },
-        {
-          "title": "VST, CEG Stocks Drop As Election Outcome Hits Merchant Power Generators",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/vst-ceg-stocks-drop-election-181047161.html",
-          "publisher": "Stocktwits",
-          "published": "2026-11-04T18:10:47Z"
         }
       ]
     },
@@ -1403,6 +1375,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/apa-q3-earnings-snapshot-213452441.html",
           "publisher": "Associated Press",
           "published": "2026-11-04T21:34:52Z"
+        }
+      ]
+    },
+    {
+      "symbol": "TLN",
+      "name": "Talen Energy",
+      "price": 326.78,
+      "previous_close": 357.28,
+      "change_pct": -8.54,
+      "market_cap": 14216665802.25293,
+      "headlines": [
+        {
+          "title": "GE Vernova Soars 6%, Eaton Up 7% on Record Orders and Bernstein\u2019s Data Center Call",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-soars-6-eaton-135445573.html",
+          "publisher": "TIKR",
+          "published": "2026-11-04T13:54:45Z"
+        },
+        {
+          "title": "The Zacks Analyst Blog Highlights Oklo, Talen Energy and NuScale Power",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-oklo-070500728.html",
+          "publisher": "Zacks",
+          "published": "2026-11-04T07:05:00Z"
+        },
+        {
+          "title": "Why Talen Energy Stock Is In Focus After Buyback Expansion And Cash Flow Guidance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-talen-energy-stock-focus-061507021.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-04T06:15:07Z"
         }
       ]
     },
@@ -1583,6 +1583,12 @@
       "market_cap": 4174515338.402218,
       "headlines": [
         {
+          "title": "Where Trump and the Dems Can Meet in the Middle",
+          "url": "https://www.barrons.com/articles/trump-democrats-gridlock-compromise-markets-ba8d36d1?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-11-05T10:15:00Z"
+        },
+        {
           "title": "Can First Solar Stock Jump 50%?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/first-solar-stock-jump-50-194518856.html",
           "publisher": "Trefis",
@@ -1593,12 +1599,6 @@
           "url": "https://www.barrons.com/articles/bloom-energy-stock-ai-data-centers-midterm-elections-2eae1ed5?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
           "published": "2026-11-04T18:48:00Z"
-        },
-        {
-          "title": "VST, CEG Stocks Drop As Election Outcome Hits Merchant Power Generators",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/vst-ceg-stocks-drop-election-181047161.html",
-          "publisher": "Stocktwits",
-          "published": "2026-11-04T18:10:47Z"
         }
       ]
     },
@@ -2089,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 88.58,
-      "change_pct": 0.52
+      "price": 88.65,
+      "change_pct": 0.6
     },
     {
       "label": "Brent",
-      "price": 96.0,
-      "change_pct": 1.46
+      "price": 96.12,
+      "change_pct": 1.59
     },
     {
       "label": "NatGas",
-      "price": 2.94,
-      "change_pct": -0.61
+      "price": 2.93,
+      "change_pct": -0.84
     }
   ]
 }
