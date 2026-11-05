@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-05T08:18:07+00:00",
-  "as_of_local": "2026-11-05 08:18:07 UTC",
+  "as_of_utc": "2026-11-05T08:23:30+00:00",
+  "as_of_local": "2026-11-05 08:23:30 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "OKE"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -871,6 +869,34 @@
           "url": "https://finance.yahoo.com/energy/articles/mpc-q3-earnings-beat-estimates-162400083.html",
           "publisher": "Zacks",
           "published": "2026-11-04T16:24:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "OKE",
+      "name": "ONEOK",
+      "price": 88.6,
+      "previous_close": 91.94,
+      "change_pct": -3.63,
+      "market_cap": 55857907756.20898,
+      "headlines": [
+        {
+          "title": "Exxon Mobil Just Raised Its Dividend for the 44th Year. Here Are 3 More Wall Street Favorites",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/exxon-mobil-just-raised-dividend-133750160.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-04T13:37:50Z"
+        },
+        {
+          "title": "What Just Happened To Devon Energy Stock?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/just-happened-devon-energy-stock-180915371.html",
+          "publisher": "Trefis",
+          "published": "2026-11-03T18:09:15Z"
+        },
+        {
+          "title": "Energy Transfer Q3 Earnings Miss Estimates Despite Record Gas Volumes",
+          "url": "https://finance.yahoo.com/energy/articles/energy-transfer-q3-earnings-miss-144400119.html",
+          "publisher": "Zacks",
+          "published": "2026-11-03T14:44:00Z"
         }
       ]
     },
@@ -2094,13 +2120,13 @@
     },
     {
       "label": "Brent",
-      "price": 95.0,
-      "change_pct": 0.4
+      "price": 94.91,
+      "change_pct": 0.31
     },
     {
       "label": "NatGas",
       "price": 2.96,
-      "change_pct": -0.03
+      "change_pct": 0.0
     }
   ]
 }
