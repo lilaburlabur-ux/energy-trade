@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-05T12:21:28+00:00",
-  "as_of_local": "2026-11-05 12:21:28 UTC",
+  "as_of_utc": "2026-11-05T12:26:22+00:00",
+  "as_of_local": "2026-11-05 12:26:22 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AR"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -189,16 +187,16 @@
           "published": "2026-11-05T01:00:00Z"
         },
         {
+          "title": "ConocoPhillips: Q3 Earnings Snapshot",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/conocophillips-q3-earnings-snapshot-121002310.html",
+          "publisher": "Associated Press",
+          "published": "2026-11-05T12:10:02Z"
+        },
+        {
           "title": "Is Exxon Mobil Stock Still Worth Owning After Its Quarter?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/exxon-mobil-stock-still-worth-103643566.html",
           "publisher": "Trefis",
           "published": "2026-11-05T10:36:43Z"
-        },
-        {
-          "title": "Zacks.com featured highlights include Cinemark, ConocoPhillips, Pebblebrook Hotel Trust and Chord Energy",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-com-featured-highlights-cinemark-072400723.html",
-          "publisher": "Zacks",
-          "published": "2026-11-05T07:24:00Z"
         }
       ]
     },
@@ -1435,6 +1433,34 @@
       ]
     },
     {
+      "symbol": "AR",
+      "name": "Antero Resources",
+      "price": 37.43,
+      "previous_close": 39.93,
+      "change_pct": -6.26,
+      "market_cap": 11496100573.730469,
+      "headlines": [
+        {
+          "title": "1 growth stock to add to your roster and 2 we turn down",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/1-growth-stock-add-roster-115736291.html",
+          "publisher": "StockStory",
+          "published": "2026-11-03T11:57:36Z"
+        },
+        {
+          "title": "Eni Begins Maha Gas Production, Boosting Indonesia's Offshore Output",
+          "url": "https://finance.yahoo.com/energy/articles/eni-begins-maha-gas-production-160100997.html",
+          "publisher": "Zacks",
+          "published": "2026-11-02T16:01:00Z"
+        },
+        {
+          "title": "Antero Resources (AR) Stock Climbs On Q3 Earnings And Cash Cost Gains",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/antero-resources-ar-stock-climbs-171249752.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-10-30T17:12:49Z"
+        }
+      ]
+    },
+    {
       "symbol": "BWXT",
       "name": "BWX Technologies",
       "price": 121.5,
@@ -2089,8 +2115,8 @@
     },
     {
       "label": "WTI",
-      "price": 89.54,
-      "change_pct": 1.61
+      "price": 89.46,
+      "change_pct": 1.52
     },
     {
       "label": "Brent",
