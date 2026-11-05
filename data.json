@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-05T06:27:11+00:00",
-  "as_of_local": "2026-11-05 06:27:11 UTC",
+  "as_of_utc": "2026-11-05T06:42:34+00:00",
+  "as_of_local": "2026-11-05 06:42:34 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "TLN"
+    "VLO"
   ],
   "stocks": [
     {
@@ -311,34 +311,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/10-treasury-yields-4-91-164702607.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-04T16:47:02Z"
-        }
-      ]
-    },
-    {
-      "symbol": "VLO",
-      "name": "Valero Energy",
-      "price": 365.34,
-      "previous_close": 387.65,
-      "change_pct": -5.76,
-      "market_cap": 101887625674.69482,
-      "headlines": [
-        {
-          "title": "\ud83c\udfa7 Listen: Global Conflicts Have Meant Huge Profits for U.S. Oil Refiners",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-04-2026/card/-listen-global-conflicts-have-meant-huge-profits-for-u-s-oil-refiners-MEZtjrrq74K4g0Tpw9N4?siteid=yhoof2&yptr=yahoo",
-          "publisher": "The Wall Street Journal",
-          "published": "2026-11-04T23:00:02Z"
-        },
-        {
-          "title": "Marathon Petroleum Sinks 10%, Valero Down 8% as Oil Stocks Slide After Democrats Win the Senate",
-          "url": "https://finance.yahoo.com/energy/articles/marathon-petroleum-sinks-10-valero-200304712.html",
-          "publisher": "TIKR",
-          "published": "2026-11-04T20:03:04Z"
-        },
-        {
-          "title": "MPC Q3 Earnings Beat Estimates on Strong Refining Margins",
-          "url": "https://finance.yahoo.com/energy/articles/mpc-q3-earnings-beat-estimates-162400083.html",
-          "publisher": "Zacks",
-          "published": "2026-11-04T16:24:00Z"
         }
       ]
     },
@@ -1407,6 +1379,34 @@
       ]
     },
     {
+      "symbol": "TLN",
+      "name": "Talen Energy",
+      "price": 326.78,
+      "previous_close": 357.28,
+      "change_pct": -8.54,
+      "market_cap": 14216665802.25293,
+      "headlines": [
+        {
+          "title": "GE Vernova Soars 6%, Eaton Up 7% on Record Orders and Bernstein\u2019s Data Center Call",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-soars-6-eaton-135445573.html",
+          "publisher": "TIKR",
+          "published": "2026-11-04T13:54:45Z"
+        },
+        {
+          "title": "The Zacks Analyst Blog Highlights Oklo, Talen Energy and NuScale Power",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-oklo-070500728.html",
+          "publisher": "Zacks",
+          "published": "2026-11-04T07:05:00Z"
+        },
+        {
+          "title": "Why Talen Energy Stock Is In Focus After Buyback Expansion And Cash Flow Guidance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-talen-energy-stock-focus-061507021.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-04T06:15:07Z"
+        }
+      ]
+    },
+    {
       "symbol": "AR",
       "name": "Antero Resources",
       "price": 37.43,
@@ -1940,8 +1940,8 @@
           "name": "Valero Energy Corp",
           "short": "Valero",
           "weight_pct": 4.28,
-          "change_pct": -5.76,
-          "price": 365.34,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -2039,8 +2039,8 @@
         "name": "Valero Energy Corp",
         "short": "Valero",
         "weight_pct": 4.28,
-        "change_pct": -5.76,
-        "price": 365.34,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -2089,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 87.03,
-      "change_pct": -1.24
+      "price": 87.01,
+      "change_pct": -1.26
     },
     {
       "label": "Brent",
-      "price": 94.01,
-      "change_pct": -0.64
+      "price": 94.02,
+      "change_pct": -0.63
     },
     {
       "label": "NatGas",
-      "price": 2.94,
-      "change_pct": -0.57
+      "price": 2.95,
+      "change_pct": -0.44
     }
   ]
 }
