@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-05T13:02:24+00:00",
-  "as_of_local": "2026-11-05 13:02:24 UTC",
+  "as_of_utc": "2026-11-05T13:07:13+00:00",
+  "as_of_local": "2026-11-05 13:07:13 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -1217,6 +1217,12 @@
       "market_cap": 20906158090.598404,
       "headlines": [
         {
+          "title": "Buy, Sell, or Hold? Thursday\u2019s Top Upgrades and Downgrades: Block, Cisco Systems, Dollar Tree, First Solar, HubSpot, JetBlue Airways, Nike, Space-X, Skyworks Solutions, and More",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/buy-sell-hold-thursday-top-125920198.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-05T12:59:20Z"
+        },
+        {
           "title": "Where Trump and the Dems Can Meet in the Middle",
           "url": "https://www.barrons.com/articles/trump-democrats-gridlock-compromise-markets-ba8d36d1?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
@@ -1227,12 +1233,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/first-solar-stock-jump-50-194518856.html",
           "publisher": "Trefis",
           "published": "2026-11-04T19:45:18Z"
-        },
-        {
-          "title": "The AI Data-Center Backlash Is Real. Why Bloom Energy Stock Can Be a Winner.",
-          "url": "https://www.barrons.com/articles/bloom-energy-stock-ai-data-centers-midterm-elections-2eae1ed5?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-11-04T18:48:00Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 89.58,
-      "change_pct": 1.66
+      "price": 89.51,
+      "change_pct": 1.58
     },
     {
       "label": "Brent",
-      "price": 97.03,
-      "change_pct": 2.55
+      "price": 96.86,
+      "change_pct": 2.37
     },
     {
       "label": "NatGas",
-      "price": 2.95,
-      "change_pct": -0.34
+      "price": 2.93,
+      "change_pct": -1.05
     }
   ]
 }
