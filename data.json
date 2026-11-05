@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-05T07:53:25+00:00",
-  "as_of_local": "2026-11-05 07:53:25 UTC",
+  "as_of_utc": "2026-11-05T08:03:10+00:00",
+  "as_of_local": "2026-11-05 08:03:10 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "TLN"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1405,34 +1407,6 @@
       ]
     },
     {
-      "symbol": "TLN",
-      "name": "Talen Energy",
-      "price": 326.78,
-      "previous_close": 357.28,
-      "change_pct": -8.54,
-      "market_cap": 14216665802.25293,
-      "headlines": [
-        {
-          "title": "GE Vernova Soars 6%, Eaton Up 7% on Record Orders and Bernstein\u2019s Data Center Call",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-soars-6-eaton-135445573.html",
-          "publisher": "TIKR",
-          "published": "2026-11-04T13:54:45Z"
-        },
-        {
-          "title": "The Zacks Analyst Blog Highlights Oklo, Talen Energy and NuScale Power",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-oklo-070500728.html",
-          "publisher": "Zacks",
-          "published": "2026-11-04T07:05:00Z"
-        },
-        {
-          "title": "Why Talen Energy Stock Is In Focus After Buyback Expansion And Cash Flow Guidance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-talen-energy-stock-focus-061507021.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-04T06:15:07Z"
-        }
-      ]
-    },
-    {
       "symbol": "AR",
       "name": "Antero Resources",
       "price": 37.43,
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 87.99,
-      "change_pct": -0.15
+      "price": 87.93,
+      "change_pct": -0.22
     },
     {
       "label": "Brent",
-      "price": 95.18,
-      "change_pct": 0.59
+      "price": 95.14,
+      "change_pct": 0.55
     },
     {
       "label": "NatGas",
       "price": 2.95,
-      "change_pct": -0.2
+      "change_pct": -0.14
     }
   ]
 }
