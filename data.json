@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-05T02:50:56+00:00",
-  "as_of_local": "2026-11-05 02:50:56 UTC",
+  "as_of_utc": "2026-11-05T03:06:02+00:00",
+  "as_of_local": "2026-11-05 03:06:02 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -1777,6 +1777,12 @@
       "market_cap": 1893548776.0907593,
       "headlines": [
         {
+          "title": "Centrus Q3 Profit Surges on Warrant Gain as Fuel Expansion Advances",
+          "url": "https://finance.yahoo.com/energy/articles/centrus-q3-profit-surges-warrant-025000355.html",
+          "publisher": "Oilprice.com",
+          "published": "2026-11-05T02:50:00Z"
+        },
+        {
           "title": "Centrus Energy Corp. (LEU) Beats Q3 Earnings and Revenue Estimates",
           "url": "https://finance.yahoo.com/markets/stocks/articles/centrus-energy-corp-leu-beats-234521280.html",
           "publisher": "Zacks",
@@ -1787,12 +1793,6 @@
           "url": "https://finance.yahoo.com/energy/articles/centrus-energy-nyse-leu-reports-223130734.html",
           "publisher": "StockStory",
           "published": "2026-11-04T22:31:30Z"
-        },
-        {
-          "title": "Centrus Energy (LEU) Q3 Earnings: How Key Metrics Compare to Wall Street Estimates",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/centrus-energy-leu-q3-earnings-223002224.html",
-          "publisher": "Zacks",
-          "published": "2026-11-04T22:30:02Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 87.48,
-      "change_pct": -8.96
+      "price": 86.99,
+      "change_pct": -9.47
     },
     {
       "label": "Brent",
-      "price": 94.31,
-      "change_pct": -8.97
+      "price": 93.67,
+      "change_pct": -9.58
     },
     {
       "label": "NatGas",
-      "price": 2.95,
-      "change_pct": 2.0
+      "price": 2.94,
+      "change_pct": 1.73
     }
   ]
 }
