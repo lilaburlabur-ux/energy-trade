@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-05T12:56:03+00:00",
+  "as_of": "2026-11-05T13:11:13+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,8 +11,8 @@
    "rank": 1,
    "ticker": "RUN",
    "company": "Sunrun Inc.",
-   "move_pct": 21.96,
-   "price": 10.72,
+   "move_pct": 21.52,
+   "price": 10.68,
    "volume": 32193600,
    "volume_vs_avg": "~4x",
    "heat_score": 96,
@@ -25,19 +25,51 @@
   },
   {
    "rank": 2,
+   "ticker": "FSLR",
+   "company": "First Solar, Inc.",
+   "move_pct": 4.33,
+   "price": 202.94,
+   "volume": 8777400,
+   "volume_vs_avg": "~4x",
+   "heat_score": 49,
+   "direction": "up",
+   "why": "William Blair upgrades First Solar stock rating on election results By Investing.com",
+   "catalyst_type": "analyst_action",
+   "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcHpFTXN5VnlQOGhMMnV0NnlmM3U2UlQ4b1BNUzdOSDVXeFRSQjROallUb3RrbW1odHVMZmZWcDNONl9XYkhiYldNVS0xQTRzQWFjMlk0RlMtZXFmc2ZmMXRVX0Vfd3pIMVBZU1NpUHN1VFMtbHdOMnMxLUx0eU1keFludVVMNExUbjdwb3hqMUF1WEN5MFNuZFpsRHE1dVRnOHBIYW83azhtdzlDNGFyUHVvN2hqUEoxUkd4UC1jeVc0ZjBpWlow?oc=5",
+   "published": "2026-11-05T11:44:00+00:00",
+   "sector": "Renewables & Solar"
+  },
+  {
+   "rank": 3,
    "ticker": "SEDG",
    "company": "SolarEdge Technologies, Inc.",
-   "move_pct": 1.93,
-   "price": 30.6,
+   "move_pct": 2.57,
+   "price": 30.79,
    "volume": 8188500,
    "volume_vs_avg": "~3x",
-   "heat_score": 38,
+   "heat_score": 40,
    "direction": "up",
    "why": "Susquehanna cuts SolarEdge stock price target on weak demand By Investing.com",
    "catalyst_type": "analyst_action",
    "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQWplTk1JYlZzZ09YNFB5WVYyRTNST3lvWkQ2NHZOVmtrSXF4MUVaS0JMRUZ6QVdkRnF3ZndRS3lEbnNXcVcyQjQ2cVB3aDNCYlZneVR6eW1wdndNSDJTSzR1NEdvbjc3OFBYVlVMcVFtcDBXeFVyWEFIQk1VNXBwZVVmX2tiSE54c2R5aTUtdU1lNGduNU0teXZmaXhCclU5dVlDQ0JtQV9sRS1heDBqVXNWa3FNQlZqVEJER0JR?oc=5",
    "published": "2026-11-05T11:16:00+00:00",
    "sector": "Renewables & Solar"
+  },
+  {
+   "rank": 4,
+   "ticker": "NRG",
+   "company": "NRG Energy, Inc.",
+   "move_pct": -1.83,
+   "price": 81.73,
+   "volume": 10356900,
+   "volume_vs_avg": "~3x",
+   "heat_score": 38,
+   "direction": "down",
+   "why": "If You Ran NRG Energy, What Would You Do?",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOakxWR3QwSVJpZlZkTzUxT0JMX3hsZXdUZ3BzbG40SDRVTGhVQk91aTRLX2tLZmlQdklGTm9MdHl0eTJDQ2JrY1BiV09DcXRtcFdrM1doQTZHbEFPbExQbnpnNUJZZC03a1ZUc09zMTVIQ0VSaGdDTWJLR19vSndGUW9LeUtpaEVycnU3YVhiTDF3TFZJNENUVTZiNjhnTTFl?oc=5",
+   "published": "2026-11-05T12:08:15+00:00",
+   "sector": "Power & IPPs"
   }
  ]
 }
