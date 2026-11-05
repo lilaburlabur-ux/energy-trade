@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-05T00:47:17+00:00",
-  "as_of_local": "2026-11-05 00:47:17 UTC",
+  "as_of_utc": "2026-11-05T00:52:13+00:00",
+  "as_of_local": "2026-11-05 00:52:13 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -1721,6 +1721,12 @@
       "market_cap": 2096848223.6300669,
       "headlines": [
         {
+          "title": "Sunrun (RUN) Q3 Earnings and Revenues Top Estimates",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/sunrun-run-q3-earnings-revenues-234520440.html",
+          "publisher": "Zacks",
+          "published": "2026-11-04T23:45:20Z"
+        },
+        {
           "title": "Sunrun: Q3 Earnings Snapshot",
           "url": "https://finance.yahoo.com/markets/stocks/articles/sunrun-q3-earnings-snapshot-220455897.html",
           "publisher": "Associated Press",
@@ -1731,12 +1737,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/sunrun-nasdaq-run-reports-bullish-212428816.html",
           "publisher": "StockStory",
           "published": "2026-11-04T21:24:28Z"
-        },
-        {
-          "title": "Can First Solar Stock Jump 50%?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/first-solar-stock-jump-50-194518856.html",
-          "publisher": "Trefis",
-          "published": "2026-11-04T19:45:18Z"
         }
       ]
     },
@@ -1920,7 +1920,7 @@
           "symbol": "XOM",
           "name": "ExxonMobil Holdings Corp",
           "short": "ExxonMobil",
-          "weight_pct": 24.03,
+          "weight_pct": 24.29,
           "change_pct": -4.62,
           "price": 169.27,
           "currency": "USD"
@@ -1929,7 +1929,7 @@
           "symbol": "CVX",
           "name": "Chevron Corp",
           "short": "Chevron",
-          "weight_pct": 18.05,
+          "weight_pct": 18.29,
           "change_pct": -3.69,
           "price": 216.96,
           "currency": "USD"
@@ -1938,25 +1938,16 @@
           "symbol": "COP",
           "name": "ConocoPhillips",
           "short": "ConocoPhillips",
-          "weight_pct": 6.73,
+          "weight_pct": 7.27,
           "change_pct": -5.17,
           "price": 136.94,
-          "currency": "USD"
-        },
-        {
-          "symbol": "VLO",
-          "name": "Valero Energy Corp",
-          "short": "Valero",
-          "weight_pct": 4.73,
-          "change_pct": -5.76,
-          "price": 365.34,
           "currency": "USD"
         },
         {
           "symbol": "MPC",
           "name": "Marathon Petroleum Corp",
           "short": "Marathon",
-          "weight_pct": 4.7,
+          "weight_pct": 4.64,
           "change_pct": -8.11,
           "price": 392.68,
           "currency": "USD"
@@ -1965,45 +1956,54 @@
           "symbol": "PSX",
           "name": "Phillips 66",
           "short": "Phillips",
-          "weight_pct": 4.64,
+          "weight_pct": 4.52,
           "change_pct": -4.53,
           "price": 259.63,
+          "currency": "USD"
+        },
+        {
+          "symbol": "VLO",
+          "name": "Valero Energy Corp",
+          "short": "Valero",
+          "weight_pct": 4.28,
+          "change_pct": -5.76,
+          "price": 365.34,
           "currency": "USD"
         },
         {
           "symbol": "WMB",
           "name": "Williams Companies Inc",
           "short": "Williams",
-          "weight_pct": 4.29,
+          "weight_pct": 4.12,
           "change_pct": -6.36,
           "price": 67.86,
-          "currency": "USD"
-        },
-        {
-          "symbol": "SLB",
-          "name": "SLB Ltd",
-          "short": "SLB",
-          "weight_pct": 3.86,
-          "change_pct": -1.09,
-          "price": 51.56,
           "currency": "USD"
         },
         {
           "symbol": "EOG",
           "name": "EOG Resources Inc",
           "short": "EOG Resources",
-          "weight_pct": 3.85,
+          "weight_pct": 4.07,
           "change_pct": -5.23,
           "price": 147.06,
           "currency": "USD"
         },
         {
-          "symbol": "KMI",
-          "name": "Kinder Morgan Inc Class P",
-          "short": "Kinder",
-          "weight_pct": 3.15,
-          "change_pct": -4.11,
-          "price": 31.52,
+          "symbol": "SLB",
+          "name": "SLB Ltd",
+          "short": "SLB",
+          "weight_pct": 3.74,
+          "change_pct": -1.09,
+          "price": 51.56,
+          "currency": "USD"
+        },
+        {
+          "symbol": "TRGP",
+          "name": "Targa Resources Corp",
+          "short": "Targa",
+          "weight_pct": 3.16,
+          "change_pct": -4.54,
+          "price": 285.0,
           "currency": "USD"
         }
       ]
@@ -2019,7 +2019,7 @@
         "symbol": "XOM",
         "name": "ExxonMobil Holdings Corp",
         "short": "ExxonMobil",
-        "weight_pct": 24.03,
+        "weight_pct": 24.29,
         "change_pct": -4.62,
         "price": 169.27,
         "currency": "USD"
@@ -2028,7 +2028,7 @@
         "symbol": "CVX",
         "name": "Chevron Corp",
         "short": "Chevron",
-        "weight_pct": 18.05,
+        "weight_pct": 18.29,
         "change_pct": -3.69,
         "price": 216.96,
         "currency": "USD"
@@ -2037,25 +2037,16 @@
         "symbol": "COP",
         "name": "ConocoPhillips",
         "short": "ConocoPhillips",
-        "weight_pct": 6.73,
+        "weight_pct": 7.27,
         "change_pct": -5.17,
         "price": 136.94,
-        "currency": "USD"
-      },
-      {
-        "symbol": "VLO",
-        "name": "Valero Energy Corp",
-        "short": "Valero",
-        "weight_pct": 4.73,
-        "change_pct": -5.76,
-        "price": 365.34,
         "currency": "USD"
       },
       {
         "symbol": "MPC",
         "name": "Marathon Petroleum Corp",
         "short": "Marathon",
-        "weight_pct": 4.7,
+        "weight_pct": 4.64,
         "change_pct": -8.11,
         "price": 392.68,
         "currency": "USD"
@@ -2064,45 +2055,54 @@
         "symbol": "PSX",
         "name": "Phillips 66",
         "short": "Phillips",
-        "weight_pct": 4.64,
+        "weight_pct": 4.52,
         "change_pct": -4.53,
         "price": 259.63,
+        "currency": "USD"
+      },
+      {
+        "symbol": "VLO",
+        "name": "Valero Energy Corp",
+        "short": "Valero",
+        "weight_pct": 4.28,
+        "change_pct": -5.76,
+        "price": 365.34,
         "currency": "USD"
       },
       {
         "symbol": "WMB",
         "name": "Williams Companies Inc",
         "short": "Williams",
-        "weight_pct": 4.29,
+        "weight_pct": 4.12,
         "change_pct": -6.36,
         "price": 67.86,
-        "currency": "USD"
-      },
-      {
-        "symbol": "SLB",
-        "name": "SLB Ltd",
-        "short": "SLB",
-        "weight_pct": 3.86,
-        "change_pct": -1.09,
-        "price": 51.56,
         "currency": "USD"
       },
       {
         "symbol": "EOG",
         "name": "EOG Resources Inc",
         "short": "EOG Resources",
-        "weight_pct": 3.85,
+        "weight_pct": 4.07,
         "change_pct": -5.23,
         "price": 147.06,
         "currency": "USD"
       },
       {
-        "symbol": "KMI",
-        "name": "Kinder Morgan Inc Class P",
-        "short": "Kinder",
-        "weight_pct": 3.15,
-        "change_pct": -4.11,
-        "price": 31.52,
+        "symbol": "SLB",
+        "name": "SLB Ltd",
+        "short": "SLB",
+        "weight_pct": 3.74,
+        "change_pct": -1.09,
+        "price": 51.56,
+        "currency": "USD"
+      },
+      {
+        "symbol": "TRGP",
+        "name": "Targa Resources Corp",
+        "short": "Targa",
+        "weight_pct": 3.16,
+        "change_pct": -4.54,
+        "price": 285.0,
         "currency": "USD"
       }
     ]
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 88.07,
-      "change_pct": -8.35
+      "price": 88.11,
+      "change_pct": -8.3
     },
     {
       "label": "Brent",
-      "price": 94.54,
-      "change_pct": -8.75
+      "price": 94.7,
+      "change_pct": -8.59
     },
     {
       "label": "NatGas",
       "price": 2.94,
-      "change_pct": 1.69
+      "change_pct": 1.62
     }
   ]
 }
