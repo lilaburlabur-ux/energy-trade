@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-05T09:18:45+00:00",
-  "as_of_local": "2026-11-05 09:18:45 UTC",
+  "as_of_utc": "2026-11-05T09:24:22+00:00",
+  "as_of_local": "2026-11-05 09:24:22 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "BWXT"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1463,6 +1461,34 @@
       ]
     },
     {
+      "symbol": "BWXT",
+      "name": "BWX Technologies",
+      "price": 121.5,
+      "previous_close": 131.82,
+      "change_pct": -7.83,
+      "market_cap": 11132461435.5,
+      "headlines": [
+        {
+          "title": "Better Nuclear Energy Stock to Buy After the Sell-Off: Oklo vs. BWX Technologies",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/better-nuclear-energy-stock-buy-042000576.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-05T04:20:00Z"
+        },
+        {
+          "title": "Why Is BWX Technologies (BWXT) Winning A $2.2 Billion Army Reactor Contract?",
+          "url": "https://finance.yahoo.com/energy/articles/why-bwx-technologies-bwxt-winning-151004100.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-04T15:10:04Z"
+        },
+        {
+          "title": "BWX Technologies Inc (BWXT) Q3 2026 Earnings Call Highlights: Double-Digit Growth, Record ...",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bwx-technologies-inc-bwxt-q3-130129619.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-04T13:01:29Z"
+        }
+      ]
+    },
+    {
       "symbol": "BEP",
       "name": "Brookfield Renewable",
       "price": 30.91,
@@ -2089,8 +2115,8 @@
     },
     {
       "label": "WTI",
-      "price": 88.23,
-      "change_pct": 0.12
+      "price": 88.21,
+      "change_pct": 0.1
     },
     {
       "label": "Brent",
@@ -2099,8 +2125,8 @@
     },
     {
       "label": "NatGas",
-      "price": 2.94,
-      "change_pct": -0.54
+      "price": 2.93,
+      "change_pct": -0.91
     }
   ]
 }
