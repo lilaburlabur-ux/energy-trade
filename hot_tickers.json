@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-05T08:07:27+00:00",
+  "as_of": "2026-11-05T08:22:31+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -17,10 +17,10 @@
    "volume_vs_avg": "~8x",
    "heat_score": 99,
    "direction": "up",
-   "why": "ARRAY Technologies and Shoals to merge in stock-for-stock deal",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOW9DbnR0SDlDTXFRaEZ4S1h3R1U1RE1xdjdzaFF1R0R1bFNCUk84ZzFreUhWUk1zemJXQmZNMHp3UlFpbzRybWpwWEdvektIVV8tY2pFU01YeHNnOVRYMlJvRDEtRUt4VFNrZ3EyVFZFREJrT1JkaFFOLS01anFyZHlB?oc=5",
-   "published": "2026-11-05T06:41:10+00:00",
+   "why": "Shoals Technologies mergers with Array Technologies in an all-stock deal",
+   "catalyst_type": "mna",
+   "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPd1NCZVB3NmRLMVRMTlBVUDZHcmJocWVqR1hpS19YdnNqM2tVWUQ5bmROUHlXQU50ak1QeVNnR05saEpWNXNqMUJmMGg0eTFfblY1Z0tPZjN3dmF1Si1saFdjTU5oTnFhdGtMelFWNWtnNW56V2Foa3hyV3BwcW9xV0VPVzBrZ19oeE05NHA2NWNQUzA?oc=5",
+   "published": "2026-11-05T05:27:00+00:00",
    "sector": "Renewables & Solar"
   },
   {
