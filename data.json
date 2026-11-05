@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-05T21:21:07+00:00",
-  "as_of_local": "2026-11-05 21:21:07 UTC",
+  "as_of_utc": "2026-11-05T21:24:16+00:00",
+  "as_of_local": "2026-11-05 21:24:16 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NXE"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -589,34 +591,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/eme-falls-18-5-month-163200069.html",
           "publisher": "Zacks",
           "published": "2026-11-05T16:32:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "EOG",
-      "name": "EOG Resources",
-      "price": 144.89,
-      "previous_close": 147.06,
-      "change_pct": -1.48,
-      "market_cap": 75999031990.4928,
-      "headlines": [
-        {
-          "title": "Are Investors Undervaluing Devon Energy (DVN) Right Now?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/investors-undervaluing-devon-energy-dvn-134003264.html",
-          "publisher": "Zacks",
-          "published": "2026-11-05T13:40:03Z"
-        },
-        {
-          "title": "EOG Resources Stock: Analyst Estimates & Ratings",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/eog-resources-stock-analyst-estimates-120523405.html",
-          "publisher": "Barchart",
-          "published": "2026-11-05T12:05:23Z"
-        },
-        {
-          "title": "Riley Exploration Permian, Inc. (REPX) Tops Q3 Earnings and Revenue Estimates",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/riley-exploration-permian-inc-repx-234512190.html",
-          "publisher": "Zacks",
-          "published": "2026-11-04T23:45:12Z"
         }
       ]
     },
@@ -1601,34 +1575,6 @@
       ]
     },
     {
-      "symbol": "NXE",
-      "name": "NexGen Energy",
-      "price": 7.93,
-      "previous_close": 8.0,
-      "change_pct": -0.88,
-      "market_cap": 5317113265.83,
-      "headlines": [
-        {
-          "title": "NuScale Power Advances SMR Manufacturing With Doosan Deal",
-          "url": "https://finance.yahoo.com/energy/articles/nuscale-power-advances-smr-manufacturing-163500821.html",
-          "publisher": "Zacks",
-          "published": "2026-11-02T16:35:00Z"
-        },
-        {
-          "title": "What Is Behind The Move In Cameco Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/behind-move-cameco-stock-012341659.html",
-          "publisher": "Trefis",
-          "published": "2026-11-02T01:23:41Z"
-        },
-        {
-          "title": "Azincourt Energy Advances Labrador Uranium Exploration With New Snegamook Drilling Results",
-          "url": "https://finance.yahoo.com/energy/articles/azincourt-energy-advances-labrador-uranium-213911390.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-10-26T21:39:11Z"
-        }
-      ]
-    },
-    {
       "symbol": "ENPH",
       "name": "Enphase Energy",
       "price": 28.97,
@@ -1771,10 +1717,10 @@
     {
       "symbol": "SMR",
       "name": "NuScale Power",
-      "price": 4.36,
+      "price": 4.37,
       "previous_close": 5.13,
-      "change_pct": -15.11,
-      "market_cap": 1787246376.137559,
+      "change_pct": -14.81,
+      "market_cap": 1793402164.1746464,
       "headlines": [
         {
           "title": "Oklo Sank 10% a Day After the Democratic Sweep Rattled AI Power Stocks. Here\u2019s What Friday\u2019s Report Has to Settle",
@@ -2143,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 90.48,
-      "change_pct": 2.68
+      "price": 90.57,
+      "change_pct": 2.78
     },
     {
       "label": "Brent",
-      "price": 98.36,
-      "change_pct": 3.95
+      "price": 98.44,
+      "change_pct": 4.04
     },
     {
       "label": "NatGas",
       "price": 2.94,
-      "change_pct": -0.57
+      "change_pct": -0.54
     }
   ]
 }
