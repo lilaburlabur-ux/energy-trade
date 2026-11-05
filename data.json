@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-05T04:11:21+00:00",
-  "as_of_local": "2026-11-05 04:11:21 UTC",
+  "as_of_utc": "2026-11-05T04:16:35+00:00",
+  "as_of_local": "2026-11-05 04:16:35 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -97,6 +97,12 @@
       "market_cap": 220431005400.0697,
       "headlines": [
         {
+          "title": "Dow Jones Futures Rise, Techs Fall; Apple, Microsoft, Amazon Flash Buy Signals In Postelection Rally",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-elections-oil-apple-microsoft-amazon-buy-signals-coreweave-spacex-skid/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-11-05T04:04:28Z"
+        },
+        {
           "title": "What GE Vernova Holders Got Right",
           "url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-holders-got-031246550.html",
           "publisher": "Simply Wall St.",
@@ -107,12 +113,6 @@
           "url": "https://www.barrons.com/articles/ai-data-center-energy-utility-stocks-elections-37e63a25?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
           "published": "2026-11-04T21:43:00Z"
-        },
-        {
-          "title": "Why a Democratic Sweep Is Crushing GE Vernova and More Industrial Stocks",
-          "url": "https://www.barrons.com/articles/ge-vernova-vertiv-eaton-ai-industrials-stocks-bf41f4bc?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-11-04T21:14:00Z"
         }
       ]
     },
@@ -598,7 +598,7 @@
       "price": 147.06,
       "previous_close": 155.17,
       "change_pct": -5.23,
-      "market_cap": 77137259341.97119,
+      "market_cap": 78328350321.43738,
       "headlines": [
         {
           "title": "Riley Exploration Permian, Inc. (REPX) Tops Q3 Earnings and Revenue Estimates",
@@ -1494,7 +1494,7 @@
       "price": 30.91,
       "previous_close": 30.3,
       "change_pct": 2.01,
-      "market_cap": 9276450313.8666,
+      "market_cap": 9374260031.87376,
       "headlines": [
         {
           "title": "Mine, Enrich, Build, Operate: Which Link in the Nuclear Supply Chain Is the Best Stock Right Now?",
@@ -1861,6 +1861,12 @@
       "market_cap": 819894583.0039787,
       "headlines": [
         {
+          "title": "Array Technologies to merge with Shoals in $1 billion deal, combining solar suppliers",
+          "url": "https://finance.yahoo.com/energy/articles/array-technologies-merge-shoals-1-040800454.html",
+          "publisher": "Albuquerque Journal, N.M.",
+          "published": "2026-11-05T04:08:00Z"
+        },
+        {
           "title": "Array\u2019s (NASDAQ:ARRY) Q3 2026 sales beat estimates but full-year sales guidance misses expectations significantly",
           "url": "https://finance.yahoo.com/markets/stocks/articles/array-nasdaq-arry-q3-2026-224142737.html",
           "publisher": "StockStory",
@@ -1871,12 +1877,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/solaredge-technologies-q3-earnings-top-133900849.html",
           "publisher": "Zacks",
           "published": "2026-11-04T13:39:00Z"
-        },
-        {
-          "title": "Array Technologies, Inc. (ARRY) Misses Q3 Earnings Estimates",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/array-technologies-inc-arry-misses-125502681.html",
-          "publisher": "Zacks",
-          "published": "2026-11-04T12:55:02Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 86.83,
-      "change_pct": -1.46
+      "price": 87.13,
+      "change_pct": -9.32
     },
     {
       "label": "Brent",
-      "price": 93.73,
-      "change_pct": -0.94
+      "price": 94.09,
+      "change_pct": -9.18
     },
     {
       "label": "NatGas",
-      "price": 2.93,
-      "change_pct": -0.81
+      "price": 2.94,
+      "change_pct": 1.52
     }
   ]
 }
