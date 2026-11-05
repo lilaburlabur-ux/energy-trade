@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-05T21:24:16+00:00",
-  "as_of_local": "2026-11-05 21:24:16 UTC",
+  "as_of_utc": "2026-11-05T21:26:31+00:00",
+  "as_of_local": "2026-11-05 21:26:31 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
     "NXE"
@@ -43,6 +43,12 @@
       "market_cap": 415426415710.4492,
       "headlines": [
         {
+          "title": "Top Stock Reports for Berkshire Hathaway, Micron & Chevron",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/top-stock-reports-berkshire-hathaway-200900700.html",
+          "publisher": "Zacks",
+          "published": "2026-11-05T20:09:00Z"
+        },
+        {
           "title": "Chevron Has Become Very Interesting Again Following the Midterms",
           "url": "https://finance.yahoo.com/energy/articles/chevron-become-very-interesting-again-174534277.html",
           "publisher": "24/7 Wall St.",
@@ -53,12 +59,6 @@
           "url": "https://finance.yahoo.com/energy/articles/chevrons-record-natural-gas-output-151500530.html",
           "publisher": "Zacks",
           "published": "2026-11-05T15:15:00Z"
-        },
-        {
-          "title": "Is Exxon Mobil Stock Still Worth Owning After Its Quarter?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/exxon-mobil-stock-still-worth-103643566.html",
-          "publisher": "Trefis",
-          "published": "2026-11-05T10:36:43Z"
         }
       ]
     },
@@ -1247,6 +1247,12 @@
       "market_cap": 17873467126.66106,
       "headlines": [
         {
+          "title": "Permian Res (PR) Q3 2026 Earnings Call Transcript",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/permian-res-pr-q3-2026-211548158.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-05T21:15:48Z"
+        },
+        {
           "title": "How Much Upside is Left in Permian Resources (PR)? Wall Street Analysts Think 27.37%",
           "url": "https://finance.yahoo.com/markets/stocks/articles/much-upside-left-permian-resources-135502666.html",
           "publisher": "Zacks",
@@ -1257,12 +1263,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/permian-resources-pr-q3-earnings-234504091.html",
           "publisher": "Zacks",
           "published": "2026-11-04T23:45:04Z"
-        },
-        {
-          "title": "Permian Resources (NYSE:PR) delivers impressive Q3 2026",
-          "url": "https://finance.yahoo.com/energy/articles/permian-resources-nyse-pr-delivers-223954446.html",
-          "publisher": "StockStory",
-          "published": "2026-11-04T22:39:54Z"
         }
       ]
     },
@@ -2089,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 90.57,
-      "change_pct": 2.78
+      "price": 90.69,
+      "change_pct": 2.92
     },
     {
       "label": "Brent",
-      "price": 98.44,
-      "change_pct": 4.04
+      "price": 98.52,
+      "change_pct": 4.12
     },
     {
       "label": "NatGas",
       "price": 2.94,
-      "change_pct": -0.54
+      "change_pct": -0.47
     }
   ]
 }
