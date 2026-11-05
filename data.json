@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-05T11:52:00+00:00",
-  "as_of_local": "2026-11-05 11:52:00 UTC",
+  "as_of_utc": "2026-11-05T11:55:58+00:00",
+  "as_of_local": "2026-11-05 11:55:58 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -97,6 +97,12 @@
       "market_cap": 220431005400.0697,
       "headlines": [
         {
+          "title": "Latest News In Energy Transition - ElectroFlex Revolutionizes Solar Integration Across Industries",
+          "url": "https://finance.yahoo.com/energy/articles/latest-news-energy-transition-electroflex-113703777.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-05T11:37:03Z"
+        },
+        {
           "title": "Boeing, ServiceNow and Nebius Keep Their Stock Off ICE-OKX Token Venue, Lifting Objectors to 62",
           "url": "https://finance.yahoo.com/markets/crypto/articles/boeing-servicenow-nebius-keep-stock-093046350.html",
           "publisher": "Unchained",
@@ -107,12 +113,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-holders-got-031246550.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-05T03:12:46Z"
-        },
-        {
-          "title": "AI Data Center Backlash Is Real. The Blue Wave Takes Out Energy Stocks.",
-          "url": "https://www.barrons.com/articles/ai-data-center-energy-utility-stocks-elections-37e63a25?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-11-04T21:43:00Z"
         }
       ]
     },
@@ -1021,6 +1021,12 @@
       "market_cap": 40373557913.8332,
       "headlines": [
         {
+          "title": "Latest News In Energy Transition - ElectroFlex Revolutionizes Solar Integration Across Industries",
+          "url": "https://finance.yahoo.com/energy/articles/latest-news-energy-transition-electroflex-113703777.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-05T11:37:03Z"
+        },
+        {
           "title": "How Big Could Vistra Stock's Next Fall Be?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/big-could-vistra-stocks-next-103603543.html",
           "publisher": "Trefis",
@@ -1031,12 +1037,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-sinks-16-week-52-022937824.html",
           "publisher": "TIKR",
           "published": "2026-11-05T02:29:37Z"
-        },
-        {
-          "title": "Vistra (VST) Could Be 8% Undervalued On Dividend Approval",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-vst-could-8-undervalued-011029697.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-05T01:10:29Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 89.05,
-      "change_pct": 1.06
+      "price": 89.0,
+      "change_pct": 1.0
     },
     {
       "label": "Brent",
-      "price": 96.43,
-      "change_pct": 1.91
+      "price": 96.36,
+      "change_pct": 1.84
     },
     {
       "label": "NatGas",
       "price": 2.94,
-      "change_pct": -0.47
+      "change_pct": -0.51
     }
   ]
 }
