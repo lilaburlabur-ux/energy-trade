@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-05T12:00:59+00:00",
-  "as_of_local": "2026-11-05 12:00:59 UTC",
+  "as_of_utc": "2026-11-05T12:06:17+00:00",
+  "as_of_local": "2026-11-05 12:06:17 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "BEP"
+    "ETN"
   ],
   "stocks": [
     {
@@ -199,34 +199,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-com-featured-highlights-cinemark-072400723.html",
           "publisher": "Zacks",
           "published": "2026-11-05T07:24:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "ETN",
-      "name": "Eaton",
-      "price": 353.08,
-      "previous_close": 391.7,
-      "change_pct": -9.86,
-      "market_cap": 137171574783.3252,
-      "headlines": [
-        {
-          "title": "Eaton (ETN) Stock Sinks As Q3 Results Fail To Calm Execution Fears",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/eaton-etn-stock-sinks-q3-231745797.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-04T23:17:45Z"
-        },
-        {
-          "title": "Why You Should Think About Honeywell Differently Now?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-think-honeywell-differently-now-221414509.html",
-          "publisher": "Trefis",
-          "published": "2026-11-04T22:14:14Z"
-        },
-        {
-          "title": "Why a Democratic Sweep Is Crushing GE Vernova and More Industrial Stocks",
-          "url": "https://www.barrons.com/articles/ge-vernova-vertiv-eaton-ai-industrials-stocks-bf41f4bc?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-11-04T21:14:00Z"
         }
       ]
     },
@@ -1491,6 +1463,34 @@
       ]
     },
     {
+      "symbol": "BEP",
+      "name": "Brookfield Renewable",
+      "price": 30.91,
+      "previous_close": 30.3,
+      "change_pct": 2.01,
+      "market_cap": 9276450313.8666,
+      "headlines": [
+        {
+          "title": "Mine, Enrich, Build, Operate: Which Link in the Nuclear Supply Chain Is the Best Stock Right Now?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/mine-enrich-build-operate-nuclear-033500270.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-05T03:35:00Z"
+        },
+        {
+          "title": "Brookfield Renewable Partners Q3 Earnings Call Highlights",
+          "url": "https://finance.yahoo.com/energy/articles/brookfield-renewable-partners-q3-earnings-221436429.html",
+          "publisher": "MarketBeat",
+          "published": "2026-11-04T22:14:36Z"
+        },
+        {
+          "title": "Brookfield Renewable Partners L.P. Q3 2026 Earnings Call Summary",
+          "url": "https://finance.yahoo.com/energy/articles/brookfield-renewable-partners-l-p-215026985.html",
+          "publisher": "Moby",
+          "published": "2026-11-04T21:50:26Z"
+        }
+      ]
+    },
+    {
       "symbol": "NOV",
       "name": "NOV Inc",
       "price": 18.03,
@@ -2089,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 89.07,
-      "change_pct": 1.08
+      "price": 89.44,
+      "change_pct": 1.5
     },
     {
       "label": "Brent",
-      "price": 96.36,
-      "change_pct": 1.84
+      "price": 96.6,
+      "change_pct": 2.09
     },
     {
       "label": "NatGas",
       "price": 2.94,
-      "change_pct": -0.57
+      "change_pct": -0.71
     }
   ]
 }
