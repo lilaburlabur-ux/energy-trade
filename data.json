@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-05T04:16:35+00:00",
-  "as_of_local": "2026-11-05 04:16:35 UTC",
+  "as_of_utc": "2026-11-05T04:31:37+00:00",
+  "as_of_local": "2026-11-05 04:31:37 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "WFRD"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -598,7 +600,7 @@
       "price": 147.06,
       "previous_close": 155.17,
       "change_pct": -5.23,
-      "market_cap": 78328350321.43738,
+      "market_cap": 77137259341.97119,
       "headlines": [
         {
           "title": "Riley Exploration Permian, Inc. (REPX) Tops Q3 Earnings and Revenue Estimates",
@@ -1469,6 +1471,12 @@
       "market_cap": 11132461435.5,
       "headlines": [
         {
+          "title": "Better Nuclear Energy Stock to Buy After the Sell-Off: Oklo vs. BWX Technologies",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/better-nuclear-energy-stock-buy-042000576.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-05T04:20:00Z"
+        },
+        {
           "title": "Why Is BWX Technologies (BWXT) Winning A $2.2 Billion Army Reactor Contract?",
           "url": "https://finance.yahoo.com/energy/articles/why-bwx-technologies-bwxt-winning-151004100.html",
           "publisher": "Simply Wall St.",
@@ -1479,12 +1487,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/bwx-technologies-inc-bwxt-q3-130129619.html",
           "publisher": "GuruFocus.com",
           "published": "2026-11-04T13:01:29Z"
-        },
-        {
-          "title": "BWXT Q3 Earnings Call Highlights 2027 Growth and Nuclear Demand",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bwxt-q3-earnings-call-highlights-140000883.html",
-          "publisher": "Zacks",
-          "published": "2026-11-03T14:00:00Z"
         }
       ]
     },
@@ -1494,7 +1496,7 @@
       "price": 30.91,
       "previous_close": 30.3,
       "change_pct": 2.01,
-      "market_cap": 9374260031.87376,
+      "market_cap": 9276450313.8666,
       "headlines": [
         {
           "title": "Mine, Enrich, Build, Operate: Which Link in the Nuclear Supply Chain Is the Best Stock Right Now?",
@@ -1541,34 +1543,6 @@
           "url": "https://finance.yahoo.com/energy/articles/shel-q3-earnings-beat-record-133000388.html",
           "publisher": "Zacks",
           "published": "2026-10-30T13:30:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "WFRD",
-      "name": "Weatherford",
-      "price": 86.04,
-      "previous_close": 87.7,
-      "change_pct": -1.89,
-      "market_cap": 6235343301.708527,
-      "headlines": [
-        {
-          "title": "Should Jun\u00edn 5 Support Work Require Action From Weatherford International (WFRD) Investors?",
-          "url": "https://finance.yahoo.com/energy/articles/jun-n-5-support-require-131419197.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-10-30T13:14:19Z"
-        },
-        {
-          "title": "Weatherford: 3 Key Takeaways for Long-Term Investors",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/weatherford-3-key-takeaways-long-212002900.html",
-          "publisher": "Motley Fool",
-          "published": "2026-10-28T21:20:02Z"
-        },
-        {
-          "title": "The Energy Stocks With the Most at Stake in the Midterms",
-          "url": "https://www.barrons.com/articles/midterm-elections-affect-energy-stocks-9249616b?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-10-26T09:55:00Z"
         }
       ]
     },
@@ -1637,6 +1611,12 @@
       "market_cap": 4114710574.1122246,
       "headlines": [
         {
+          "title": "Better Nuclear Energy Stock to Buy After the Sell-Off: Oklo vs. BWX Technologies",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/better-nuclear-energy-stock-buy-042000576.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-05T04:20:00Z"
+        },
+        {
           "title": "Mine, Enrich, Build, Operate: Which Link in the Nuclear Supply Chain Is the Best Stock Right Now?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/mine-enrich-build-operate-nuclear-033500270.html",
           "publisher": "Motley Fool",
@@ -1647,12 +1627,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/nuscale-hit-52-week-low-205627849.html",
           "publisher": "TIKR",
           "published": "2026-11-04T20:56:27Z"
-        },
-        {
-          "title": "Oklo Sinks 6%, Comfort Systems USA Down 15% as Democratic Sweep Rattles AI Power Stocks: \u201cA Negative Surprise\u201d",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/oklo-sinks-6-comfort-systems-200416953.html",
-          "publisher": "TIKR",
-          "published": "2026-11-04T20:04:16Z"
         }
       ]
     },
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 87.13,
-      "change_pct": -9.32
+      "price": 86.93,
+      "change_pct": -9.53
     },
     {
       "label": "Brent",
-      "price": 94.09,
-      "change_pct": -9.18
+      "price": 93.76,
+      "change_pct": -9.5
     },
     {
       "label": "NatGas",
       "price": 2.94,
-      "change_pct": 1.52
+      "change_pct": 1.49
     }
   ]
 }
