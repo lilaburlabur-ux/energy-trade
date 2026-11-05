@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-05T06:12:37+00:00",
-  "as_of_local": "2026-11-05 06:12:37 UTC",
+  "as_of_utc": "2026-11-05T06:27:11+00:00",
+  "as_of_local": "2026-11-05 06:27:11 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "TLN"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -598,7 +600,7 @@
       "price": 147.06,
       "previous_close": 155.17,
       "change_pct": -5.23,
-      "market_cap": 78328350321.43738,
+      "market_cap": 77137259341.97119,
       "headlines": [
         {
           "title": "Riley Exploration Permian, Inc. (REPX) Tops Q3 Earnings and Revenue Estimates",
@@ -1405,34 +1407,6 @@
       ]
     },
     {
-      "symbol": "TLN",
-      "name": "Talen Energy",
-      "price": 326.78,
-      "previous_close": 357.28,
-      "change_pct": -8.54,
-      "market_cap": 14216665802.25293,
-      "headlines": [
-        {
-          "title": "GE Vernova Soars 6%, Eaton Up 7% on Record Orders and Bernstein\u2019s Data Center Call",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-soars-6-eaton-135445573.html",
-          "publisher": "TIKR",
-          "published": "2026-11-04T13:54:45Z"
-        },
-        {
-          "title": "The Zacks Analyst Blog Highlights Oklo, Talen Energy and NuScale Power",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-oklo-070500728.html",
-          "publisher": "Zacks",
-          "published": "2026-11-04T07:05:00Z"
-        },
-        {
-          "title": "Why Talen Energy Stock Is In Focus After Buyback Expansion And Cash Flow Guidance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-talen-energy-stock-focus-061507021.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-04T06:15:07Z"
-        }
-      ]
-    },
-    {
       "symbol": "AR",
       "name": "Antero Resources",
       "price": 37.43,
@@ -1494,7 +1468,7 @@
       "price": 30.91,
       "previous_close": 30.3,
       "change_pct": 2.01,
-      "market_cap": 9374260031.87376,
+      "market_cap": 9276450313.8666,
       "headlines": [
         {
           "title": "Mine, Enrich, Build, Operate: Which Link in the Nuclear Supply Chain Is the Best Stock Right Now?",
@@ -1621,10 +1595,10 @@
           "published": "2026-11-04T18:48:00Z"
         },
         {
-          "title": "Enphase Energy (ENPH) Reaches 800 VDC AI Data Center Power Milestone",
-          "url": "https://finance.yahoo.com/energy/articles/enphase-energy-enph-reaches-800-181007480.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-04T18:10:07Z"
+          "title": "VST, CEG Stocks Drop As Election Outcome Hits Merchant Power Generators",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/vst-ceg-stocks-drop-election-181047161.html",
+          "publisher": "Stocktwits",
+          "published": "2026-11-04T18:10:47Z"
         }
       ]
     },
@@ -1721,6 +1695,12 @@
       "market_cap": 2096848223.6300669,
       "headlines": [
         {
+          "title": "What Sunrun (RUN) Said on Its Q3 Earnings Call",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/sunrun-run-said-q3-earnings-061422001.html",
+          "publisher": "MarketBeat",
+          "published": "2026-11-05T06:14:22Z"
+        },
+        {
           "title": "Sunrun (RUN) Q3 Earnings and Revenues Top Estimates",
           "url": "https://finance.yahoo.com/markets/stocks/articles/sunrun-run-q3-earnings-revenues-234520440.html",
           "publisher": "Zacks",
@@ -1731,12 +1711,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/sunrun-q3-earnings-snapshot-220455897.html",
           "publisher": "Associated Press",
           "published": "2026-11-04T22:04:55Z"
-        },
-        {
-          "title": "Sunrun (NASDAQ:RUN) reports bullish Q3 2026, stock soars",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/sunrun-nasdaq-run-reports-bullish-212428816.html",
-          "publisher": "StockStory",
-          "published": "2026-11-04T21:24:28Z"
         }
       ]
     },
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 87.25,
-      "change_pct": -0.99
+      "price": 87.03,
+      "change_pct": -1.24
     },
     {
       "label": "Brent",
-      "price": 94.08,
-      "change_pct": -0.57
+      "price": 94.01,
+      "change_pct": -0.64
     },
     {
       "label": "NatGas",
       "price": 2.94,
-      "change_pct": -0.47
+      "change_pct": -0.57
     }
   ]
 }
