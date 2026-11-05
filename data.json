@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-05T11:01:12+00:00",
-  "as_of_local": "2026-11-05 11:01:12 UTC",
+  "as_of_utc": "2026-11-05T11:05:11+00:00",
+  "as_of_local": "2026-11-05 11:05:11 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "D"
+    "BEP"
   ],
   "stocks": [
     {
@@ -703,6 +703,34 @@
           "url": "https://finance.yahoo.com/news/energy-transfer-sanctions-1-6bn-110714154.html",
           "publisher": "Offshore Technology",
           "published": "2026-11-04T11:07:14Z"
+        }
+      ]
+    },
+    {
+      "symbol": "D",
+      "name": "Dominion Energy",
+      "price": 69.75,
+      "previous_close": 66.78,
+      "change_pct": 4.45,
+      "market_cap": 61349733940.5,
+      "headlines": [
+        {
+          "title": "Mine, Enrich, Build, Operate: Which Link in the Nuclear Supply Chain Is the Best Stock Right Now?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/mine-enrich-build-operate-nuclear-033500270.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-05T03:35:00Z"
+        },
+        {
+          "title": "What Has Changed About Owning Xcel Energy Stock?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/changed-owning-xcel-energy-stock-220549101.html",
+          "publisher": "Trefis",
+          "published": "2026-11-04T22:05:49Z"
+        },
+        {
+          "title": "How Will Southern Stock React To Its Upcoming Earnings?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/southern-stock-react-upcoming-earnings-210610619.html",
+          "publisher": "Trefis",
+          "published": "2026-11-04T21:06:10Z"
         }
       ]
     },
@@ -1463,34 +1491,6 @@
       ]
     },
     {
-      "symbol": "BEP",
-      "name": "Brookfield Renewable",
-      "price": 30.91,
-      "previous_close": 30.3,
-      "change_pct": 2.01,
-      "market_cap": 9276450313.8666,
-      "headlines": [
-        {
-          "title": "Mine, Enrich, Build, Operate: Which Link in the Nuclear Supply Chain Is the Best Stock Right Now?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/mine-enrich-build-operate-nuclear-033500270.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-05T03:35:00Z"
-        },
-        {
-          "title": "Brookfield Renewable Partners Q3 Earnings Call Highlights",
-          "url": "https://finance.yahoo.com/energy/articles/brookfield-renewable-partners-q3-earnings-221436429.html",
-          "publisher": "MarketBeat",
-          "published": "2026-11-04T22:14:36Z"
-        },
-        {
-          "title": "Brookfield Renewable Partners L.P. Q3 2026 Earnings Call Summary",
-          "url": "https://finance.yahoo.com/energy/articles/brookfield-renewable-partners-l-p-215026985.html",
-          "publisher": "Moby",
-          "published": "2026-11-04T21:50:26Z"
-        }
-      ]
-    },
-    {
       "symbol": "NOV",
       "name": "NOV Inc",
       "price": 18.03,
@@ -2089,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 88.7,
-      "change_pct": 0.66
+      "price": 88.66,
+      "change_pct": 0.61
     },
     {
       "label": "Brent",
-      "price": 96.15,
-      "change_pct": 1.62
+      "price": 96.07,
+      "change_pct": 1.53
     },
     {
       "label": "NatGas",
       "price": 2.93,
-      "change_pct": -0.81
+      "change_pct": -0.98
     }
   ]
 }
