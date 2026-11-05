@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-05T23:20:00+00:00",
-  "as_of_local": "2026-11-05 23:20:00 UTC",
+  "as_of_utc": "2026-11-05T23:30:02+00:00",
+  "as_of_local": "2026-11-05 23:30:02 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -1273,6 +1273,12 @@
       "market_cap": 16932455047.161484,
       "headlines": [
         {
+          "title": "Clearway Energy (CWEN) Stock Moves -4.00%: What You Should Know",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/clearway-energy-cwen-stock-moves-221503509.html",
+          "publisher": "Zacks",
+          "published": "2026-11-05T22:15:03Z"
+        },
+        {
           "title": "NRG Energy (NRG) Stock Still Looks Like A Bargain On Its 171% Run",
           "url": "https://finance.yahoo.com/markets/stocks/articles/nrg-energy-nrg-stock-still-211207944.html",
           "publisher": "Simply Wall St.",
@@ -1283,12 +1289,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/mdu-q3-earnings-miss-estimates-174700493.html",
           "publisher": "Zacks",
           "published": "2026-11-05T17:47:00Z"
-        },
-        {
-          "title": "Atmos Energy Q4 Earnings Beat on Rate Gains and Operating Strength",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/atmos-energy-q4-earnings-beat-171500265.html",
-          "publisher": "Zacks",
-          "published": "2026-11-05T17:15:00Z"
         }
       ]
     },
@@ -1721,6 +1721,12 @@
       "market_cap": 1820940180.2728271,
       "headlines": [
         {
+          "title": "Centrus Energy Corp (LEU) (Q3 2026) Earnings Call Highlights: First Centrifuge Completed Ahead ...",
+          "url": "https://finance.yahoo.com/energy/articles/centrus-energy-corp-leu-q3-231851088.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-05T23:18:51Z"
+        },
+        {
           "title": "Centrus Energy (LEU) Q3 2026 Earnings Call Transcript",
           "url": "https://finance.yahoo.com/energy/articles/centrus-energy-leu-q3-2026-203549868.html",
           "publisher": "Motley Fool",
@@ -1731,12 +1737,6 @@
           "url": "https://finance.yahoo.com/energy/articles/centrus-q3-profit-surges-warrant-025000355.html",
           "publisher": "Oilprice.com",
           "published": "2026-11-05T02:50:00Z"
-        },
-        {
-          "title": "Centrus Energy Corp. (LEU) Beats Q3 Earnings and Revenue Estimates",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/centrus-energy-corp-leu-beats-234521280.html",
-          "publisher": "Zacks",
-          "published": "2026-11-04T23:45:21Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 91.35,
-      "change_pct": 3.67
+      "price": 91.33,
+      "change_pct": 3.64
     },
     {
       "label": "Brent",
-      "price": 99.38,
-      "change_pct": 5.03
+      "price": 99.46,
+      "change_pct": 5.12
     },
     {
       "label": "NatGas",
       "price": 2.96,
-      "change_pct": -0.03
+      "change_pct": 0.03
     }
   ]
 }
