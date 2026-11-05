@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-05T22:04:55+00:00",
-  "as_of_local": "2026-11-05 22:04:55 UTC",
+  "as_of_utc": "2026-11-05T22:09:51+00:00",
+  "as_of_local": "2026-11-05 22:09:51 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "FSLR"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -183,7 +181,7 @@
       "market_cap": 165030114367.68414,
       "headlines": [
         {
-          "title": "Earnings live updates: Cava stock falls after cyclospora outbreak dented Q3 results",
+          "title": "Earnings live updates: Airbnb stock jumps as Wall Street cheers 'growth mode,' upbeat outlook",
           "url": "https://finance.yahoo.com/markets/live/earnings-live-updates-apple-palantir-roku-and-more-212856249.html",
           "publisher": "Yahoo Finance",
           "published": "2026-11-02T21:28:56Z"
@@ -267,6 +265,12 @@
       "market_cap": 107374875033.685,
       "headlines": [
         {
+          "title": "The Southern Company Q3 2026 Earnings Call Summary",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/southern-company-q3-2026-earnings-215334363.html",
+          "publisher": "Moby",
+          "published": "2026-11-05T21:53:34Z"
+        },
+        {
           "title": "Where Will PG&E Stock Be In Three Years?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/where-pg-e-stock-three-184442916.html",
           "publisher": "Trefis",
@@ -277,12 +281,6 @@
           "url": "https://finance.yahoo.com/economy/articles/great-jobless-claims-productivity-keep-143700531.html",
           "publisher": "Zacks",
           "published": "2026-11-05T14:37:00Z"
-        },
-        {
-          "title": "Treasury Yields Are Falling. These 3 Dividend Stocks Could Be Big Winners",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/treasury-yields-falling-3-dividend-134743046.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-05T13:47:43Z"
         }
       ]
     },
@@ -743,6 +741,12 @@
       "market_cap": 58286641698.759705,
       "headlines": [
         {
+          "title": "Targa Resources (TRGP) Reports Q3 Earnings: What Key Metrics Have to Say",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/targa-resources-trgp-reports-q3-210001870.html",
+          "publisher": "Zacks",
+          "published": "2026-11-05T21:00:01Z"
+        },
+        {
           "title": "Targa Resources, Inc. (TRGP) Q3 Earnings and Revenues Top Estimates",
           "url": "https://finance.yahoo.com/markets/stocks/articles/targa-resources-inc-trgp-q3-203502171.html",
           "publisher": "Zacks",
@@ -753,12 +757,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/targa-resources-trgp-q3-2026-200953045.html",
           "publisher": "Motley Fool",
           "published": "2026-11-05T20:09:53Z"
-        },
-        {
-          "title": "New Dividend Growth ETF Enters the Market",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/dividend-growth-etf-enters-market-164400096.html",
-          "publisher": "Zacks",
-          "published": "2026-11-05T16:44:00Z"
         }
       ]
     },
@@ -1207,6 +1205,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/hubb-q3-deep-dive-data-060329076.html",
           "publisher": "StockStory",
           "published": "2026-10-31T06:03:29Z"
+        }
+      ]
+    },
+    {
+      "symbol": "FSLR",
+      "name": "First Solar",
+      "price": 195.76,
+      "previous_close": 194.51,
+      "change_pct": 0.64,
+      "market_cap": 21040509529.348404,
+      "headlines": [
+        {
+          "title": "Solar Stocks Pop And Plunge; Analysts Think They Know Why",
+          "url": "https://www.investors.com/news/sunrun-stock-solar-stocks-after-election/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-11-05T19:21:44Z"
+        },
+        {
+          "title": "Is First Solar Stock Still Worth Owning After Its Quarter?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/first-solar-stock-still-worth-190219321.html",
+          "publisher": "Trefis",
+          "published": "2026-11-05T19:02:19Z"
+        },
+        {
+          "title": "Is First Solar (FSLR) Undervalued Following Democratic Wins In Congress?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/first-solar-fslr-undervalued-following-171442315.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-05T17:14:42Z"
         }
       ]
     },
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 91.1,
-      "change_pct": 3.38
+      "price": 91.19,
+      "change_pct": 3.48
     },
     {
       "label": "Brent",
-      "price": 99.13,
-      "change_pct": 4.77
+      "price": 99.18,
+      "change_pct": 4.82
     },
     {
       "label": "NatGas",
-      "price": 2.94,
-      "change_pct": -0.71
+      "price": 2.95,
+      "change_pct": -0.14
     }
   ]
 }
