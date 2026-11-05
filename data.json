@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-05T05:01:43+00:00",
-  "as_of_local": "2026-11-05 05:01:43 UTC",
+  "as_of_utc": "2026-11-05T05:06:49+00:00",
+  "as_of_local": "2026-11-05 05:06:49 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "BE"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -787,6 +785,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/strong-buy-stocks-november-4th-100100731.html",
           "publisher": "Zacks",
           "published": "2026-11-04T10:01:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "BE",
+      "name": "Bloom Energy",
+      "price": 200.4,
+      "previous_close": 214.01,
+      "change_pct": -6.36,
+      "market_cap": 59225656482.98398,
+      "headlines": [
+        {
+          "title": "Bloom Energy Stock In Focus After California Power Deal",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-stock-focus-california-201642782.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-04T20:16:42Z"
+        },
+        {
+          "title": "The AI Data-Center Backlash Is Real. Why Bloom Energy Stock Can Be a Winner.",
+          "url": "https://www.barrons.com/articles/bloom-energy-stock-ai-data-centers-midterm-elections-2eae1ed5?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-11-04T18:48:00Z"
+        },
+        {
+          "title": "Bloom Energy Sinks 8%, Lumentum Down 11% as AI Power Stocks Fade After Democrat Sweep",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-sinks-8-lumentum-165129821.html",
+          "publisher": "TIKR",
+          "published": "2026-11-04T16:51:29Z"
         }
       ]
     },
