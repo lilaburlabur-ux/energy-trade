@@ -4,8 +4,8 @@ Signed file: `MPC.research.05.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $383.90 (2026-11-05, ~15-min delayed) |
-| Market cap | $104.53B |
+| Current price | $384.41 (2026-11-05, ~15-min delayed) |
+| Market cap | $104.67B |
 | Sector / Industry | Energy / Oil & Gas Refining & Marketing |
 | Main theme | Oil & Gas Refining & Marketing — see catalysts below |
 | Current stance | High technical momentum, mixed fundamentals, value: reasonable, risk: high. |
@@ -15,8 +15,8 @@ Signed file: `MPC.research.05.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +112.38%; price +30.48% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -20.83% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +112.66%; price +30.66% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -20.73% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 8.34%, revenue growth 60.90%. |
 | Value attractiveness | Reasonable | Forward P/E 6.21, EV/Sales 0.77. |
 | Risk level | High | Beta 0.51, ATR 5.2% of price, short float 3.03%. |
@@ -44,22 +44,22 @@ Marathon Petroleum Corporation, together with its subsidiaries, operates as an i
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $383.90; 52w high $484.92 (-20.83%); 52w low $160.76 (+138.80%) |
-| Trend | +30.48% vs SMA200, -8.96% vs SMA50, -14.91% vs SMA20 |
-| Momentum | RSI(14) 32.5 (neutral) |
+| Price vs 52-week range | Close $384.41; 52w high $484.92 (-20.73%); 52w low $160.76 (+139.12%) |
+| Trend | +30.66% vs SMA200, -8.84% vs SMA50, -14.80% vs SMA20 |
+| Momentum | RSI(14) 32.6 (neutral) |
 | Volatility | ATR(14) 19.96 (~5.2% of price); beta 0.51 |
-| Setup perspective | -20.83% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -20.73% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -11.2% |
-| Month | -13.2% |
-| Quarter | +29.1% |
-| Half Y | +59.5% |
-| 1Y | +112.4% |
-| YTD | +135.2% |
+| Week | -11.1% |
+| Month | -13.1% |
+| Quarter | +29.3% |
+| Half Y | +59.7% |
+| 1Y | +112.7% |
+| YTD | +135.5% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Marathon Petroleum Corporation, together with its subsidiaries, operates as an i
 | Revenue (ttm) | $175.40B | Revenue growth 60.90% y/y |
 | Profitability | Gross 16.20%, operating 17.98%, net 8.34% | ROA 13.75%, ROE 60.46% |
 | Balance sheet | Cash $13.61B, debt $34.45B | Current ratio 1.45, debt/equity 115.42 |
-| Valuation | P/E 7.61, forward P/E 6.21, P/S 0.60, P/B 4.55 | EV/Sales 0.77, EV/EBITDA 5.66 |
+| Valuation | P/E 7.62, forward P/E 6.21, P/S 0.60, P/B 4.55 | EV/Sales 0.77, EV/EBITDA 5.66 |
 | Growth expectations | Earnings growth 489.60%, EPS q/q 443.60% | Analyst mean target $457.29 (17 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -110,17 +110,17 @@ Marathon Petroleum Corporation, together with its subsidiaries, operates as an i
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $383.90 | EV/Sales | 0.77 |
-| Market cap | $104.53B | EV/EBITDA | 5.66 |
+| Price | $384.41 | EV/Sales | 0.77 |
+| Market cap | $104.67B | EV/EBITDA | 5.66 |
 | Beta | 0.51 | Gross margin | 16.20% |
-| RSI(14) | 32.5 | Operating margin | 17.98% |
+| RSI(14) | 32.6 | Operating margin | 17.98% |
 | ATR(14) | 19.96 | Profit margin | 8.34% |
-| SMA20 dist | -14.91% | ROA | 13.75% |
-| SMA50 dist | -8.96% | ROE | 60.46% |
-| SMA200 dist | +30.48% | Revenue (ttm) | $175.40B |
+| SMA20 dist | -14.80% | ROA | 13.75% |
+| SMA50 dist | -8.84% | ROE | 60.46% |
+| SMA200 dist | +30.66% | Revenue (ttm) | $175.40B |
 | 52W high | $484.92 | Revenue growth y/y | 60.90% |
 | 52W low | $160.76 | Inst. ownership | 81.78% |
-| P/E (ttm) | 7.61 | Insider ownership | 0.34% |
+| P/E (ttm) | 7.62 | Insider ownership | 0.34% |
 | Forward P/E | 6.21 | Short float | 3.03% |
 | PEG (trailing) | 0.99 | Avg volume | 2,562,928 |
 | P/S | 0.60 | Employees | 18,500 |

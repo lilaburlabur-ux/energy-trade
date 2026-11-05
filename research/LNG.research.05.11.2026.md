@@ -4,8 +4,8 @@ Signed file: `LNG.research.05.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $282.99 (2026-11-05, ~15-min delayed) |
-| Market cap | $57.79B |
+| Current price | $282.92 (2026-11-05, ~15-min delayed) |
+| Market cap | $57.77B |
 | Sector / Industry | Energy / Oil & Gas Midstream |
 | Main theme | Oil & Gas Midstream — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
@@ -15,8 +15,8 @@ Signed file: `LNG.research.05.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +38.22%; price +9.79% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -14.33% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +38.19%; price +9.76% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -14.35% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 13.40%, revenue growth 39.90%. |
 | Value attractiveness | Reasonable | Forward P/E 13.66, EV/Sales 4.02. |
 | Risk level | Elevated | Beta 0.00, ATR 3.9% of price, short float 2.29%. |
@@ -44,18 +44,18 @@ Cheniere Energy, Inc., an energy infrastructure company, primarily engages in th
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $282.99; 52w high $330.32 (-14.33%); 52w low $187.49 (+50.94%) |
-| Trend | +9.79% vs SMA200, -0.24% vs SMA50, -3.76% vs SMA20 |
+| Price vs 52-week range | Close $282.92; 52w high $330.32 (-14.35%); 52w low $187.49 (+50.90%) |
+| Trend | +9.76% vs SMA200, -0.26% vs SMA50, -3.78% vs SMA20 |
 | Momentum | RSI(14) 45.0 (neutral) |
 | Volatility | ATR(14) 11.11 (~3.9% of price); beta 0.00 |
-| Setup perspective | -14.33% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -14.35% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
 | Week | -11.3% |
-| Month | +4.0% |
+| Month | +3.9% |
 | Quarter | +10.7% |
 | Half Y | +15.2% |
 | 1Y | +38.2% |
@@ -110,14 +110,14 @@ Cheniere Energy, Inc., an energy infrastructure company, primarily engages in th
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $282.99 | EV/Sales | 4.02 |
-| Market cap | $57.79B | EV/EBITDA | 11.43 |
+| Price | $282.92 | EV/Sales | 4.02 |
+| Market cap | $57.77B | EV/EBITDA | 11.43 |
 | Beta | 0.00 | Gross margin | 34.89% |
 | RSI(14) | 45.0 | Operating margin | 30.82% |
 | ATR(14) | 11.11 | Profit margin | 13.40% |
-| SMA20 dist | -3.76% | ROA | 8.61% |
-| SMA50 dist | -0.24% | ROE | 39.68% |
-| SMA200 dist | +9.79% | Revenue (ttm) | $22.67B |
+| SMA20 dist | -3.78% | ROA | 8.61% |
+| SMA50 dist | -0.26% | ROE | 39.68% |
+| SMA200 dist | +9.76% | Revenue (ttm) | $22.67B |
 | 52W high | $330.32 | Revenue growth y/y | 39.90% |
 | 52W low | $187.49 | Inst. ownership | 92.85% |
 | P/E (ttm) | 20.14 | Insider ownership | 0.64% |

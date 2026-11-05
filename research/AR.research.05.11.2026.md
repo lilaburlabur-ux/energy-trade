@@ -4,8 +4,8 @@ Signed file: `AR.research.05.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $36.77 (2026-11-05, ~15-min delayed) |
-| Market cap | $11.29B |
+| Current price | $36.79 (2026-11-05, ~15-min delayed) |
+| Market cap | $11.30B |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
 | Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated. |
@@ -15,8 +15,8 @@ Signed file: `AR.research.05.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +11.66%; price -0.44% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -18.56% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +11.72%; price -0.39% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -18.52% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 22.98%, revenue growth 17.10%. |
 | Value attractiveness | Reasonable | Forward P/E 7.79, EV/Sales —. |
 | Risk level | Elevated | Beta 0.48, ATR 4.0% of price, short float 4.35%. |
@@ -44,20 +44,20 @@ Antero Resources Corporation, an independent oil and natural gas company, engage
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $36.77; 52w high $45.15 (-18.56%); 52w low $31.38 (+17.18%) |
-| Trend | -0.44% vs SMA200, -2.22% vs SMA50, -5.83% vs SMA20 |
-| Momentum | RSI(14) 41.7 (neutral) |
+| Price vs 52-week range | Close $36.79; 52w high $45.15 (-18.52%); 52w low $31.38 (+17.24%) |
+| Trend | -0.39% vs SMA200, -2.17% vs SMA50, -5.78% vs SMA20 |
+| Momentum | RSI(14) 41.8 (neutral) |
 | Volatility | ATR(14) 1.46 (~4.0% of price); beta 0.48 |
-| Setup perspective | -18.56% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -18.52% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -10.8% |
+| Week | -10.7% |
 | Month | +3.4% |
-| Quarter | +5.9% |
-| Half Y | +1.1% |
+| Quarter | +6.0% |
+| Half Y | +1.2% |
 | 1Y | +11.7% |
 | YTD | +7.5% |
 
@@ -110,14 +110,14 @@ Antero Resources Corporation, an independent oil and natural gas company, engage
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $36.77 | EV/Sales | — |
-| Market cap | $11.29B | EV/EBITDA | — |
+| Price | $36.79 | EV/Sales | — |
+| Market cap | $11.30B | EV/EBITDA | — |
 | Beta | 0.48 | Gross margin | 68.28% |
-| RSI(14) | 41.7 | Operating margin | 29.50% |
+| RSI(14) | 41.8 | Operating margin | 29.50% |
 | ATR(14) | 1.46 | Profit margin | 22.98% |
-| SMA20 dist | -5.83% | ROA | 7.69% |
-| SMA50 dist | -2.22% | ROE | 17.39% |
-| SMA200 dist | -0.44% | Revenue (ttm) | $5.98B |
+| SMA20 dist | -5.78% | ROA | 7.69% |
+| SMA50 dist | -2.17% | ROE | 17.39% |
+| SMA200 dist | -0.39% | Revenue (ttm) | $5.98B |
 | 52W high | $45.15 | Revenue growth y/y | 17.10% |
 | 52W low | $31.38 | Inst. ownership | 92.33% |
 | P/E (ttm) | 8.30 | Insider ownership | 4.42% |

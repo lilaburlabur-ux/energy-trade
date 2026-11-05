@@ -5,7 +5,7 @@ Signed file: `ET.research.05.11.2026`
 | Field | Value |
 |---|---|
 | Current price | $19.22 (2026-11-05, ~15-min delayed) |
-| Market cap | $66.20B |
+| Market cap | $66.16B |
 | Sector / Industry | Energy / Oil & Gas Midstream |
 | Main theme | Oil & Gas Midstream — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,10 +15,10 @@ Signed file: `ET.research.05.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-0.75%) with negative half-year (-0.18%). |
-| Fresh setup quality | Moderate / wait | -11.53% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-0.80%) with negative half-year (-0.23%). |
+| Fresh setup quality | Moderate / wait | -11.57% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 4.39%, revenue growth 85.90%. |
-| Value attractiveness | Reasonable | Forward P/E 11.03, EV/Sales —. |
+| Value attractiveness | Reasonable | Forward P/E 11.02, EV/Sales —. |
 | Risk level | Moderate | Beta 0.60, ATR 2.5% of price, short float 0.87%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -44,22 +44,22 @@ Energy Transfer LP, together with its subsidiaries, provides energy-related serv
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $19.22; 52w high $21.73 (-11.53%); 52w low $15.38 (+24.96%) |
-| Trend | -0.75% vs SMA200, -6.91% vs SMA50, -4.99% vs SMA20 |
-| Momentum | RSI(14) 34.7 (neutral) |
+| Price vs 52-week range | Close $19.22; 52w high $21.73 (-11.57%); 52w low $15.38 (+24.90%) |
+| Trend | -0.80% vs SMA200, -6.96% vs SMA50, -5.03% vs SMA20 |
+| Momentum | RSI(14) 34.6 (neutral) |
 | Volatility | ATR(14) 0.47 (~2.5% of price); beta 0.60 |
-| Setup perspective | -11.53% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -11.57% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -7.9% |
-| Month | -6.1% |
+| Week | -8.0% |
+| Month | -6.2% |
 | Quarter | -4.5% |
 | Half Y | -0.2% |
-| 1Y | +24.9% |
-| YTD | +22.1% |
+| 1Y | +24.8% |
+| YTD | +22.0% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Energy Transfer LP, together with its subsidiaries, provides energy-related serv
 | Revenue (ttm) | $124.53B | Revenue growth 85.90% y/y |
 | Profitability | Gross 15.84%, operating 7.50%, net 4.39% | ROA 5.24%, ROE 15.57% |
 | Balance sheet | Cash —, debt $70.48B | Current ratio 1.16, debt/equity 141.20 |
-| Valuation | P/E 12.73, forward P/E 11.03, P/S 0.53, P/B 2.07 | EV/Sales —, EV/EBITDA — |
+| Valuation | P/E 12.73, forward P/E 11.02, P/S 0.53, P/B 2.07 | EV/Sales —, EV/EBITDA — |
 | Growth expectations | Earnings growth 18.10%, EPS q/q 18.50% | Analyst mean target $24.70 (23 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -110,17 +110,17 @@ Energy Transfer LP, together with its subsidiaries, provides energy-related serv
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $19.22 | EV/Sales | — |
-| Market cap | $66.20B | EV/EBITDA | — |
+| Market cap | $66.16B | EV/EBITDA | — |
 | Beta | 0.60 | Gross margin | 15.84% |
-| RSI(14) | 34.7 | Operating margin | 7.50% |
+| RSI(14) | 34.6 | Operating margin | 7.50% |
 | ATR(14) | 0.47 | Profit margin | 4.39% |
-| SMA20 dist | -4.99% | ROA | 5.24% |
-| SMA50 dist | -6.91% | ROE | 15.57% |
-| SMA200 dist | -0.75% | Revenue (ttm) | $124.53B |
+| SMA20 dist | -5.03% | ROA | 5.24% |
+| SMA50 dist | -6.96% | ROE | 15.57% |
+| SMA200 dist | -0.80% | Revenue (ttm) | $124.53B |
 | 52W high | $21.73 | Revenue growth y/y | 85.90% |
 | 52W low | $15.38 | Inst. ownership | 32.46% |
 | P/E (ttm) | 12.73 | Insider ownership | 10.29% |
-| Forward P/E | 11.03 | Short float | 0.87% |
+| Forward P/E | 11.02 | Short float | 0.87% |
 | PEG (trailing) | 0.61 | Avg volume | 8,707,675 |
 | P/S | 0.53 | Employees | 22,311 |
 | P/B | 2.07 | Analyst rec (1=buy..5=sell) | 1.5 |

@@ -4,8 +4,8 @@ Signed file: `VST.research.05.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $113.36 (2026-11-05, ~15-min delayed) |
-| Market cap | $38.05B |
+| Current price | $113.35 (2026-11-05, ~15-min delayed) |
+| Market cap | $38.04B |
 | Sector / Industry | Utilities / Utilities - Independent Power Producers |
 | Main theme | Utilities - Independent Power Producers — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: high. |
@@ -15,7 +15,7 @@ Signed file: `VST.research.05.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-25.65%) with negative half-year (-26.15%). |
+| Technical momentum | Low | Below SMA200 (-25.66%) with negative half-year (-26.15%). |
 | Fresh setup quality | Poor / broken | -40.31% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 11.55%, revenue growth -5.50%. |
 | Value attractiveness | Reasonable | Forward P/E 11.89, EV/Sales 3.28. |
@@ -44,8 +44,8 @@ Vistra Corp., together with its subsidiaries, operates as an integrated retail e
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $113.36; 52w high $189.90 (-40.31%); 52w low $113.36 (+0.00%) |
-| Trend | -25.65% vs SMA200, -21.36% vs SMA50, -21.70% vs SMA20 |
+| Price vs 52-week range | Close $113.35; 52w high $189.90 (-40.31%); 52w low $113.35 (+0.00%) |
+| Trend | -25.66% vs SMA200, -21.36% vs SMA50, -21.71% vs SMA20 |
 | Momentum | RSI(14) 29.4 (oversold) |
 | Volatility | ATR(14) 8.23 (~7.3% of price); beta 1.38 |
 | Setup perspective | -40.31% from 52w high — base needs to rebuild. |
@@ -57,7 +57,7 @@ Vistra Corp., together with its subsidiaries, operates as an integrated retail e
 | Week | -19.6% |
 | Month | -32.0% |
 | Quarter | -19.2% |
-| Half Y | -26.1% |
+| Half Y | -26.2% |
 | 1Y | -38.6% |
 | YTD | -31.1% |
 
@@ -68,7 +68,7 @@ Vistra Corp., together with its subsidiaries, operates as an integrated retail e
 | Revenue (ttm) | $19.21B | Revenue growth -5.50% y/y |
 | Profitability | Gross 38.31%, operating 13.77%, net 11.55% | ROA 5.89%, ROE 42.96% |
 | Balance sheet | Cash $435.00M, debt $20.51B | Current ratio 0.97, debt/equity 373.28 |
-| Valuation | P/E 19.12, forward P/E 11.89, P/S 1.98, P/B 12.67 | EV/Sales 3.28, EV/EBITDA 9.47 |
+| Valuation | P/E 19.11, forward P/E 11.89, P/S 1.98, P/B 12.67 | EV/Sales 3.28, EV/EBITDA 9.47 |
 | Growth expectations | Earnings growth -6.20%, EPS q/q -6.70% | Analyst mean target $204.32 (22 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -111,17 +111,17 @@ Vistra Corp., together with its subsidiaries, operates as an integrated retail e
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $113.36 | EV/Sales | 3.28 |
-| Market cap | $38.05B | EV/EBITDA | 9.47 |
+| Price | $113.35 | EV/Sales | 3.28 |
+| Market cap | $38.04B | EV/EBITDA | 9.47 |
 | Beta | 1.38 | Gross margin | 38.31% |
 | RSI(14) | 29.4 | Operating margin | 13.77% |
 | ATR(14) | 8.23 | Profit margin | 11.55% |
-| SMA20 dist | -21.70% | ROA | 5.89% |
+| SMA20 dist | -21.71% | ROA | 5.89% |
 | SMA50 dist | -21.36% | ROE | 42.96% |
-| SMA200 dist | -25.65% | Revenue (ttm) | $19.21B |
+| SMA200 dist | -25.66% | Revenue (ttm) | $19.21B |
 | 52W high | $189.90 | Revenue growth y/y | -5.50% |
-| 52W low | $113.36 | Inst. ownership | 92.59% |
-| P/E (ttm) | 19.12 | Insider ownership | 0.77% |
+| 52W low | $113.35 | Inst. ownership | 92.59% |
+| P/E (ttm) | 19.11 | Insider ownership | 0.77% |
 | Forward P/E | 11.89 | Short float | 3.43% |
 | PEG (trailing) | 0.39 | Avg volume | 5,781,454 |
 | P/S | 1.98 | Employees | 6,390 |
