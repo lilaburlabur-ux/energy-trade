@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-05T08:08:19+00:00",
-  "as_of_local": "2026-11-05 08:08:19 UTC",
+  "as_of_utc": "2026-11-05T08:13:21+00:00",
+  "as_of_local": "2026-11-05 08:13:21 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "UUUU"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1741,34 +1743,6 @@
       ]
     },
     {
-      "symbol": "UUUU",
-      "name": "Energy Fuels",
-      "price": 7.18,
-      "previous_close": 7.24,
-      "change_pct": -0.83,
-      "market_cap": 1901464549.3792715,
-      "headlines": [
-        {
-          "title": "Brookfield Asset Management And 2 Canadian Growth Stocks To Watch",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/brookfield-asset-management-2-canadian-031524169.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-05T03:15:24Z"
-        },
-        {
-          "title": "Energy Fuels (UUUU) Reports Q3 Loss, Tops Revenue Estimates",
-          "url": "https://finance.yahoo.com/energy/articles/energy-fuels-uuuu-reports-q3-234514514.html",
-          "publisher": "Zacks",
-          "published": "2026-11-04T23:45:14Z"
-        },
-        {
-          "title": "3 Canadian Nuclear Stocks To Own In November 2026",
-          "url": "https://finance.yahoo.com/energy/articles/3-canadian-nuclear-stocks-own-232035019.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-04T23:20:35Z"
-        }
-      ]
-    },
-    {
       "symbol": "LEU",
       "name": "Centrus Energy",
       "price": 92.58,
@@ -2115,13 +2089,13 @@
     },
     {
       "label": "WTI",
-      "price": 88.06,
-      "change_pct": -0.07
+      "price": 88.0,
+      "change_pct": -0.14
     },
     {
       "label": "Brent",
-      "price": 95.18,
-      "change_pct": 0.59
+      "price": 95.19,
+      "change_pct": 0.6
     },
     {
       "label": "NatGas",
