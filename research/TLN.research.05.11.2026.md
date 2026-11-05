@@ -4,7 +4,7 @@ Signed file: `TLN.research.05.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $316.20 (2026-11-05, ~15-min delayed) |
+| Current price | $316.23 (2026-11-05, ~15-min delayed) |
 | Market cap | $13.76B |
 | Sector / Industry | Utilities / Utilities - Independent Power Producers |
 | Main theme | Utilities - Independent Power Producers — see catalysts below |
@@ -15,8 +15,8 @@ Signed file: `TLN.research.05.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-9.31%) with negative half-year (-19.04%). |
-| Fresh setup quality | Poor / broken | -27.83% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-9.30%) with negative half-year (-19.03%). |
+| Fresh setup quality | Poor / broken | -27.82% from 52w high — base needs to rebuild. |
 | Fundamental quality | Weak | Negative profit margin (-5.67%). |
 | Value attractiveness | Reasonable | Forward P/E 11.42, EV/Sales 5.24. |
 | Risk level | High | Beta 1.58, ATR 6.4% of price, short float 9.99%. |
@@ -44,11 +44,11 @@ Talen Energy Corporation, an independent power producer and infrastructure compa
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $316.20; 52w high $438.12 (-27.83%); 52w low $282.15 (+12.07%) |
-| Trend | -9.31% vs SMA200, -3.16% vs SMA50, -9.44% vs SMA20 |
+| Price vs 52-week range | Close $316.23; 52w high $438.12 (-27.82%); 52w low $282.15 (+12.08%) |
+| Trend | -9.30% vs SMA200, -3.15% vs SMA50, -9.43% vs SMA20 |
 | Momentum | RSI(14) 41.8 (neutral) |
 | Volatility | ATR(14) 20.15 (~6.4% of price); beta 1.58 |
-| Setup perspective | -27.83% from 52w high — base needs to rebuild. |
+| Setup perspective | -27.82% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
@@ -113,14 +113,14 @@ Talen Energy Corporation, an independent power producer and infrastructure compa
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $316.20 | EV/Sales | 5.24 |
+| Price | $316.23 | EV/Sales | 5.24 |
 | Market cap | $13.76B | EV/EBITDA | 34.82 |
 | Beta | 1.58 | Gross margin | 42.67% |
 | RSI(14) | 41.8 | Operating margin | 17.35% |
 | ATR(14) | 20.15 | Profit margin | -5.67% |
-| SMA20 dist | -9.44% | ROA | 0.88% |
-| SMA50 dist | -3.16% | ROE | -16.54% |
-| SMA200 dist | -9.31% | Revenue (ttm) | $4.48B |
+| SMA20 dist | -9.43% | ROA | 0.88% |
+| SMA50 dist | -3.15% | ROE | -16.54% |
+| SMA200 dist | -9.30% | Revenue (ttm) | $4.48B |
 | 52W high | $438.12 | Revenue growth y/y | 96.10% |
 | 52W low | $282.15 | Inst. ownership | 112.04% |
 | P/E (ttm) | — | Insider ownership | 1.50% |

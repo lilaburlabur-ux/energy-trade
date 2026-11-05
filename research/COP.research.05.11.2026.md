@@ -4,24 +4,24 @@ Signed file: `COP.research.05.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $137.47 (2026-11-05, ~15-min delayed) |
-| Market cap | $165.11B |
+| Current price | $135.46 (2026-11-05, ~15-min delayed) |
+| Market cap | $162.73B |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
-| Current stance | High technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
+| Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-05.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +61.31%; price +13.38% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -10.75% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +58.95%; price +11.73% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -12.06% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 14.40%, revenue growth 35.50%. |
-| Value attractiveness | Reasonable | Forward P/E 12.59, EV/Sales 2.79. |
-| Risk level | Elevated | Beta 0.16, ATR 3.0% of price, short float 1.55%. |
+| Value attractiveness | Reasonable | Forward P/E 12.40, EV/Sales 2.79. |
+| Risk level | Elevated | Beta 0.16, ATR 3.1% of price, short float 1.55%. |
 
-**Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
+**Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -44,22 +44,22 @@ ConocoPhillips explores for, produces, transports, and markets crude oil, bitume
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $137.47; 52w high $154.03 (-10.75%); 52w low $83.04 (+65.54%) |
-| Trend | +13.38% vs SMA200, +0.47% vs SMA50, -5.01% vs SMA20 |
-| Momentum | RSI(14) 43.8 (neutral) |
-| Volatility | ATR(14) 4.14 (~3.0% of price); beta 0.16 |
-| Setup perspective | -10.75% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $135.46; 52w high $154.03 (-12.06%); 52w low $83.04 (+63.12%) |
+| Trend | +11.73% vs SMA200, -0.97% vs SMA50, -6.34% vs SMA20 |
+| Momentum | RSI(14) 41.2 (neutral) |
+| Volatility | ATR(14) 4.25 (~3.1% of price); beta 0.16 |
+| Setup perspective | -12.06% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -8.4% |
-| Month | +5.9% |
-| Quarter | +17.7% |
-| Half Y | +21.4% |
-| 1Y | +61.3% |
-| YTD | +45.3% |
+| Week | -9.7% |
+| Month | +4.3% |
+| Quarter | +15.9% |
+| Half Y | +19.6% |
+| 1Y | +58.9% |
+| YTD | +43.2% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ ConocoPhillips explores for, produces, transports, and markets crude oil, bitume
 | Revenue (ttm) | $64.46B | Revenue growth 35.50% y/y |
 | Profitability | Gross 47.57%, operating 31.51%, net 14.40% | ROA 7.53%, ROE 14.18% |
 | Balance sheet | Cash $7.69B, debt $23.29B | Current ratio 1.54, debt/equity 35.64 |
-| Valuation | P/E 18.20, forward P/E 12.59, P/S 2.56, P/B 2.53 | EV/Sales 2.79, EV/EBITDA 6.73 |
+| Valuation | P/E 17.94, forward P/E 12.40, P/S 2.52, P/B 2.49 | EV/Sales 2.79, EV/EBITDA 6.73 |
 | Growth expectations | Earnings growth 107.00%, EPS q/q 99.40% | Analyst mean target $151.56 (27 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ ConocoPhillips explores for, produces, transports, and markets crude oil, bitume
 | Vanguard Portfolio Management LLC | 28,503,663 | 2.37% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 0.16, ATR 3.0% of price, short float 1.55%. Size positions accordingly.
+- **Volatility risk:** Beta 0.16, ATR 3.1% of price, short float 1.55%. Size positions accordingly.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -110,21 +110,21 @@ ConocoPhillips explores for, produces, transports, and markets crude oil, bitume
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $137.47 | EV/Sales | 2.79 |
-| Market cap | $165.11B | EV/EBITDA | 6.73 |
+| Price | $135.46 | EV/Sales | 2.79 |
+| Market cap | $162.73B | EV/EBITDA | 6.73 |
 | Beta | 0.16 | Gross margin | 47.57% |
-| RSI(14) | 43.8 | Operating margin | 31.51% |
-| ATR(14) | 4.14 | Profit margin | 14.40% |
-| SMA20 dist | -5.01% | ROA | 7.53% |
-| SMA50 dist | +0.47% | ROE | 14.18% |
-| SMA200 dist | +13.38% | Revenue (ttm) | $64.46B |
+| RSI(14) | 41.2 | Operating margin | 31.51% |
+| ATR(14) | 4.25 | Profit margin | 14.40% |
+| SMA20 dist | -6.34% | ROA | 7.53% |
+| SMA50 dist | -0.97% | ROE | 14.18% |
+| SMA200 dist | +11.73% | Revenue (ttm) | $64.46B |
 | 52W high | $154.03 | Revenue growth y/y | 35.50% |
 | 52W low | $83.04 | Inst. ownership | 87.03% |
-| P/E (ttm) | 18.20 | Insider ownership | 0.10% |
-| Forward P/E | 12.59 | Short float | 1.55% |
+| P/E (ttm) | 17.94 | Insider ownership | 0.10% |
+| Forward P/E | 12.40 | Short float | 1.55% |
 | PEG (trailing) | 1.01 | Avg volume | 6,659,578 |
-| P/S | 2.56 | Employees | 9,600 |
-| P/B | 2.53 | Analyst rec (1=buy..5=sell) | 1.9 |
+| P/S | 2.52 | Employees | 9,600 |
+| P/B | 2.49 | Analyst rec (1=buy..5=sell) | 1.9 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
@@ -139,7 +139,7 @@ ConocoPhillips explores for, produces, transports, and markets crude oil, bitume
 | 2026-08-19 | main | Argus Research | Buy → Buy |
 
 ## 9. Conclusion
-COP: High momentum / mixed fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+COP: Moderate momentum / mixed fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

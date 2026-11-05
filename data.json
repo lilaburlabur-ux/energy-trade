@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-05T21:19:08+00:00",
-  "as_of_local": "2026-11-05 21:19:08 UTC",
+  "as_of_utc": "2026-11-05T21:21:07+00:00",
+  "as_of_local": "2026-11-05 21:21:07 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -533,6 +533,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/10-treasury-yields-4-91-164702607.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-04T16:47:02Z"
+        }
+      ]
+    },
+    {
+      "symbol": "EOG",
+      "name": "EOG Resources",
+      "price": 144.89,
+      "previous_close": 147.06,
+      "change_pct": -1.48,
+      "market_cap": 77172547386.60934,
+      "headlines": [
+        {
+          "title": "Are Investors Undervaluing Devon Energy (DVN) Right Now?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/investors-undervaluing-devon-energy-dvn-134003264.html",
+          "publisher": "Zacks",
+          "published": "2026-11-05T13:40:03Z"
+        },
+        {
+          "title": "EOG Resources Stock: Analyst Estimates & Ratings",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/eog-resources-stock-analyst-estimates-120523405.html",
+          "publisher": "Barchart",
+          "published": "2026-11-05T12:05:23Z"
+        },
+        {
+          "title": "Riley Exploration Permian, Inc. (REPX) Tops Q3 Earnings and Revenue Estimates",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/riley-exploration-permian-inc-repx-234512190.html",
+          "publisher": "Zacks",
+          "published": "2026-11-04T23:45:12Z"
         }
       ]
     },
@@ -1073,8 +1101,8 @@
       "name": "EQT Corp",
       "price": 50.62,
       "previous_close": 52.52,
-      "change_pct": -3.61,
-      "market_cap": 31668439792.5,
+      "change_pct": -3.62,
+      "market_cap": 31665311377.201126,
       "headlines": [
         {
           "title": "William Blair shakes up its top stock picks",
@@ -1494,7 +1522,7 @@
       "price": 30.64,
       "previous_close": 30.91,
       "change_pct": -0.87,
-      "market_cap": 9195420037.4664,
+      "market_cap": 9292375382.49504,
       "headlines": [
         {
           "title": "I Love Brookfield Renewable for 1 Reason, and It\u2019s Not the Dividend",
@@ -1643,16 +1671,16 @@
           "published": "2026-11-05T15:25:53Z"
         },
         {
+          "title": "Dear Oklo Stock Fans, Mark Your Calendars for November 6",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/dear-oklo-stock-fans-mark-151015896.html",
+          "publisher": "Barchart",
+          "published": "2026-11-05T15:10:15Z"
+        },
+        {
           "title": "NuScale's Modular Reactors Offer Flexible Clean Energy Supply",
           "url": "https://finance.yahoo.com/energy/articles/nuscales-modular-reactors-offer-flexible-133800683.html",
           "publisher": "Zacks",
           "published": "2026-11-05T13:38:00Z"
-        },
-        {
-          "title": "Better Nuclear Energy Stock to Buy After the Sell-Off: Oklo vs. BWX Technologies",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/better-nuclear-energy-stock-buy-042000576.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-05T04:20:00Z"
         }
       ]
     },
@@ -2115,18 +2143,18 @@
     },
     {
       "label": "WTI",
-      "price": 90.51,
-      "change_pct": 2.71
+      "price": 90.48,
+      "change_pct": 2.68
     },
     {
       "label": "Brent",
-      "price": 98.37,
-      "change_pct": 3.96
+      "price": 98.36,
+      "change_pct": 3.95
     },
     {
       "label": "NatGas",
       "price": 2.94,
-      "change_pct": -0.54
+      "change_pct": -0.57
     }
   ]
 }

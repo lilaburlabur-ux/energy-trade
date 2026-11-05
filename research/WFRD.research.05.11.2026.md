@@ -4,8 +4,8 @@ Signed file: `WFRD.research.05.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $83.52 (2026-11-05, ~15-min delayed) |
-| Market cap | $6.05B |
+| Current price | $82.32 (2026-11-05, ~15-min delayed) |
+| Market cap | $5.97B |
 | Sector / Industry | Energy / Oil & Gas Equipment & Services |
 | Main theme | Oil & Gas Equipment & Services — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
@@ -15,11 +15,11 @@ Signed file: `WFRD.research.05.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-10.00%) with negative half-year (-18.10%). |
-| Fresh setup quality | Moderate / wait | -24.80% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-11.28%) with negative half-year (-19.28%). |
+| Fresh setup quality | Poor / broken | -25.88% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 8.64%, revenue growth -7.20%. |
-| Value attractiveness | Reasonable | Forward P/E 12.75, EV/Sales 1.44. |
-| Risk level | Elevated | Beta 0.83, ATR 4.2% of price, short float 6.43%. |
+| Value attractiveness | Reasonable | Forward P/E 12.57, EV/Sales 1.44. |
+| Risk level | Elevated | Beta 0.83, ATR 4.3% of price, short float 6.43%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
 
@@ -44,22 +44,22 @@ Weatherford International plc, an energy services company, provides equipment an
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $83.52; 52w high $111.07 (-24.80%); 52w low $69.38 (+20.37%) |
-| Trend | -10.00% vs SMA200, -1.68% vs SMA50, +0.51% vs SMA20 |
-| Momentum | RSI(14) 47.9 (neutral) |
-| Volatility | ATR(14) 3.52 (~4.2% of price); beta 0.83 |
-| Setup perspective | -24.80% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $82.32; 52w high $111.07 (-25.88%); 52w low $69.38 (+18.64%) |
+| Trend | -11.28% vs SMA200, -3.07% vs SMA50, -0.87% vs SMA20 |
+| Momentum | RSI(14) 45.8 (neutral) |
+| Volatility | ATR(14) 3.54 (~4.3% of price); beta 0.83 |
+| Setup perspective | -25.88% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -6.8% |
-| Month | +9.3% |
-| Quarter | -3.8% |
-| Half Y | -18.1% |
-| 1Y | +15.0% |
-| YTD | +4.1% |
+| Week | -8.1% |
+| Month | +7.7% |
+| Quarter | -5.2% |
+| Half Y | -19.3% |
+| 1Y | +13.4% |
+| YTD | +2.6% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Weatherford International plc, an energy services company, provides equipment an
 | Revenue (ttm) | $4.69B | Revenue growth -7.20% y/y |
 | Profitability | Gross 30.80%, operating 13.91%, net 8.64% | ROA 7.27%, ROE 23.32% |
 | Balance sheet | Cash $1.16B, debt $1.63B | Current ratio 2.04, debt/equity 81.73 |
-| Valuation | P/E 14.89, forward P/E 12.75, P/S 1.29, P/B 3.10 | EV/Sales 1.44, EV/EBITDA 7.47 |
+| Valuation | P/E 14.67, forward P/E 12.57, P/S 1.27, P/B 3.05 | EV/Sales 1.44, EV/EBITDA 7.47 |
 | Growth expectations | Earnings growth 48.20%, EPS q/q 48.10% | Analyst mean target $112.83 (12 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,8 +95,9 @@ Weatherford International plc, an energy services company, provides equipment an
 | Invesco Ltd. | 1,831,620 | 2.54% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 0.83, ATR 4.2% of price, short float 6.43%. Size positions accordingly.
+- **Volatility risk:** Beta 0.83, ATR 4.3% of price, short float 6.43%. Size positions accordingly.
 - **Short interest risk:** short float 6.43% can fuel squeezes both ways around news.
+- **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -111,21 +112,21 @@ Weatherford International plc, an energy services company, provides equipment an
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $83.52 | EV/Sales | 1.44 |
-| Market cap | $6.05B | EV/EBITDA | 7.47 |
+| Price | $82.32 | EV/Sales | 1.44 |
+| Market cap | $5.97B | EV/EBITDA | 7.47 |
 | Beta | 0.83 | Gross margin | 30.80% |
-| RSI(14) | 47.9 | Operating margin | 13.91% |
-| ATR(14) | 3.52 | Profit margin | 8.64% |
-| SMA20 dist | +0.51% | ROA | 7.27% |
-| SMA50 dist | -1.68% | ROE | 23.32% |
-| SMA200 dist | -10.00% | Revenue (ttm) | $4.69B |
+| RSI(14) | 45.8 | Operating margin | 13.91% |
+| ATR(14) | 3.54 | Profit margin | 8.64% |
+| SMA20 dist | -0.87% | ROA | 7.27% |
+| SMA50 dist | -3.07% | ROE | 23.32% |
+| SMA200 dist | -11.28% | Revenue (ttm) | $4.69B |
 | 52W high | $111.07 | Revenue growth y/y | -7.20% |
 | 52W low | $69.38 | Inst. ownership | 107.39% |
-| P/E (ttm) | 14.89 | Insider ownership | 2.13% |
-| Forward P/E | 12.75 | Short float | 6.43% |
+| P/E (ttm) | 14.67 | Insider ownership | 2.13% |
+| Forward P/E | 12.57 | Short float | 6.43% |
 | PEG (trailing) | 1.32 | Avg volume | 999,264 |
-| P/S | 1.29 | Employees | 16,700 |
-| P/B | 3.10 | Analyst rec (1=buy..5=sell) | 1.7 |
+| P/S | 1.27 | Employees | 16,700 |
+| P/B | 3.05 | Analyst rec (1=buy..5=sell) | 1.7 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

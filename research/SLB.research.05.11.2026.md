@@ -4,8 +4,8 @@ Signed file: `SLB.research.05.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $50.34 (2026-11-05, ~15-min delayed) |
-| Market cap | $74.30B |
+| Current price | $49.64 (2026-11-05, ~15-min delayed) |
+| Market cap | $73.27B |
 | Sector / Industry | Energy / Oil & Gas Equipment & Services |
 | Main theme | Oil & Gas Equipment & Services — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
@@ -15,11 +15,11 @@ Signed file: `SLB.research.05.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-1.69%) with negative half-year (-4.03%). |
-| Fresh setup quality | Moderate / wait | -15.80% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-3.05%) with negative half-year (-5.36%). |
+| Fresh setup quality | Moderate / wait | -16.98% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 8.40%, revenue growth 5.80%. |
-| Value attractiveness | Reasonable | Forward P/E 16.36, EV/Sales 2.34. |
-| Risk level | Elevated | Beta 0.79, ATR 3.4% of price, short float 4.32%. |
+| Value attractiveness | Reasonable | Forward P/E 16.13, EV/Sales 2.34. |
+| Risk level | Elevated | Beta 0.79, ATR 3.5% of price, short float 4.32%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
 
@@ -44,22 +44,22 @@ SLB N.V. engages in the provision of technology for the energy industry worldwid
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $50.34; 52w high $59.79 (-15.80%); 52w low $34.35 (+46.55%) |
-| Trend | -1.69% vs SMA200, -3.73% vs SMA50, -1.34% vs SMA20 |
-| Momentum | RSI(14) 44.2 (neutral) |
-| Volatility | ATR(14) 1.72 (~3.4% of price); beta 0.79 |
-| Setup perspective | -15.80% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $49.64; 52w high $59.79 (-16.98%); 52w low $34.35 (+44.51%) |
+| Trend | -3.05% vs SMA200, -5.04% vs SMA50, -2.64% vs SMA20 |
+| Momentum | RSI(14) 41.5 (neutral) |
+| Volatility | ATR(14) 1.74 (~3.5% of price); beta 0.79 |
+| Setup perspective | -16.98% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -6.4% |
-| Month | +5.0% |
-| Quarter | +0.1% |
-| Half Y | -4.0% |
-| 1Y | +42.8% |
-| YTD | +27.3% |
+| Week | -7.7% |
+| Month | +3.5% |
+| Quarter | -1.3% |
+| Half Y | -5.4% |
+| 1Y | +40.8% |
+| YTD | +25.5% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ SLB N.V. engages in the provision of technology for the energy industry worldwid
 | Revenue (ttm) | $36.89B | Revenue growth 5.80% y/y |
 | Profitability | Gross 16.59%, operating 14.03%, net 8.40% | ROA 5.72%, ROE 11.66% |
 | Balance sheet | Cash $3.60B, debt $12.81B | Current ratio 1.39, debt/equity 47.08 |
-| Valuation | P/E 24.44, forward P/E 16.36, P/S 2.01, P/B 2.85 | EV/Sales 2.34, EV/EBITDA 11.71 |
+| Valuation | P/E 24.10, forward P/E 16.13, P/S 1.99, P/B 2.81 | EV/Sales 2.34, EV/EBITDA 11.71 |
 | Growth expectations | Earnings growth -2.00%, EPS q/q -0.50% | Analyst mean target $62.38 (29 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ SLB N.V. engages in the provision of technology for the energy industry worldwid
 | UBS Group AG | 31,447,572 | 2.13% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 0.79, ATR 3.4% of price, short float 4.32%. Size positions accordingly.
+- **Volatility risk:** Beta 0.79, ATR 3.5% of price, short float 4.32%. Size positions accordingly.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -110,21 +110,21 @@ SLB N.V. engages in the provision of technology for the energy industry worldwid
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $50.34 | EV/Sales | 2.34 |
-| Market cap | $74.30B | EV/EBITDA | 11.71 |
+| Price | $49.64 | EV/Sales | 2.34 |
+| Market cap | $73.27B | EV/EBITDA | 11.71 |
 | Beta | 0.79 | Gross margin | 16.59% |
-| RSI(14) | 44.2 | Operating margin | 14.03% |
-| ATR(14) | 1.72 | Profit margin | 8.40% |
-| SMA20 dist | -1.34% | ROA | 5.72% |
-| SMA50 dist | -3.73% | ROE | 11.66% |
-| SMA200 dist | -1.69% | Revenue (ttm) | $36.89B |
+| RSI(14) | 41.5 | Operating margin | 14.03% |
+| ATR(14) | 1.74 | Profit margin | 8.40% |
+| SMA20 dist | -2.64% | ROA | 5.72% |
+| SMA50 dist | -5.04% | ROE | 11.66% |
+| SMA200 dist | -3.05% | Revenue (ttm) | $36.89B |
 | 52W high | $59.79 | Revenue growth y/y | 5.80% |
 | 52W low | $34.35 | Inst. ownership | 93.74% |
-| P/E (ttm) | 24.44 | Insider ownership | 0.21% |
-| Forward P/E | 16.36 | Short float | 4.32% |
+| P/E (ttm) | 24.10 | Insider ownership | 0.21% |
+| Forward P/E | 16.13 | Short float | 4.32% |
 | PEG (trailing) | 1.45 | Avg volume | 12,483,076 |
-| P/S | 2.01 | Employees | 109,000 |
-| P/B | 2.85 | Analyst rec (1=buy..5=sell) | 1.5 |
+| P/S | 1.99 | Employees | 109,000 |
+| P/B | 2.81 | Analyst rec (1=buy..5=sell) | 1.5 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

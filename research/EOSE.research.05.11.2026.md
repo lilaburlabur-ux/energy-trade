@@ -5,7 +5,7 @@ Signed file: `EOSE.research.05.11.2026`
 | Field | Value |
 |---|---|
 | Current price | $1.88 (2026-11-05, ~15-min delayed) |
-| Market cap | $681.78M |
+| Market cap | $684.64M |
 | Sector / Industry | Industrials / Electrical Equipment & Parts |
 | Main theme | Electrical Equipment & Parts — see catalysts below |
 | Current stance | Low technical momentum, weak fundamentals, value: reasonable, risk: high. |
@@ -15,11 +15,11 @@ Signed file: `EOSE.research.05.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-68.31%) with negative half-year (-70.36%). |
-| Fresh setup quality | Poor / broken | -90.18% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-68.39%) with negative half-year (-70.44%). |
+| Fresh setup quality | Poor / broken | -90.20% from 52w high — base needs to rebuild. |
 | Fundamental quality | Weak | Negative profit margin (-246.76%). |
-| Value attractiveness | Reasonable | Forward P/E -10.79, EV/Sales 8.53. |
-| Risk level | High | Beta 3.17, ATR 13.4% of price, short float 38.62%. |
+| Value attractiveness | Reasonable | Forward P/E -10.76, EV/Sales 8.53. |
+| Risk level | High | Beta 3.17, ATR 13.5% of price, short float 38.62%. |
 
 **Bottom line:** Low technical momentum, weak fundamentals, value: reasonable, risk: high.
 
@@ -44,21 +44,21 @@ Eos Energy Enterprises, Inc. designs, develops, manufactures, and markets energy
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $1.88; 52w high $19.19 (-90.18%); 52w low $1.62 (+16.36%) |
-| Trend | -68.31% vs SMA200, -34.96% vs SMA50, -2.62% vs SMA20 |
-| Momentum | RSI(14) 40.2 (neutral) |
-| Volatility | ATR(14) 0.25 (~13.4% of price); beta 3.17 |
-| Setup perspective | -90.18% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $1.88; 52w high $19.19 (-90.20%); 52w low $1.62 (+16.05%) |
+| Trend | -68.39% vs SMA200, -35.13% vs SMA50, -2.87% vs SMA20 |
+| Momentum | RSI(14) 40.1 (neutral) |
+| Volatility | ATR(14) 0.25 (~13.5% of price); beta 3.17 |
+| Setup perspective | -90.20% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -4.8% |
-| Month | -39.2% |
-| Quarter | -54.6% |
+| Week | -5.1% |
+| Month | -39.4% |
+| Quarter | -54.7% |
 | Half Y | -70.4% |
-| 1Y | -86.6% |
+| 1Y | -86.7% |
 | YTD | -85.5% |
 
 ## 4. Fundamental Analysis
@@ -68,7 +68,7 @@ Eos Energy Enterprises, Inc. designs, develops, manufactures, and markets energy
 | Revenue (ttm) | $214.25M | Revenue growth 351.40% y/y |
 | Profitability | Gross -84.75%, operating -121.86%, net -246.76% | ROA -30.03%, ROE — |
 | Balance sheet | Cash $305.49M, debt $640.83M | Current ratio 3.26, debt/equity — |
-| Valuation | P/E —, forward P/E -10.79, P/S 3.18, P/B -0.62 | EV/Sales 8.53, EV/EBITDA -6.42 |
+| Valuation | P/E —, forward P/E -10.76, P/S 3.20, P/B -0.62 | EV/Sales 8.53, EV/EBITDA -6.42 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $6.19 (8 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ Eos Energy Enterprises, Inc. designs, develops, manufactures, and markets energy
 | Morgan Stanley | 5,313,829 | 1.46% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 3.17, ATR 13.4% of price, short float 38.62%. Size positions accordingly.
+- **Volatility risk:** Beta 3.17, ATR 13.5% of price, short float 38.62%. Size positions accordingly.
 - **Short interest risk:** short float 38.62% can fuel squeezes both ways around news.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
@@ -114,19 +114,19 @@ Eos Energy Enterprises, Inc. designs, develops, manufactures, and markets energy
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $1.88 | EV/Sales | 8.53 |
-| Market cap | $681.78M | EV/EBITDA | -6.42 |
+| Market cap | $684.64M | EV/EBITDA | -6.42 |
 | Beta | 3.17 | Gross margin | -84.75% |
-| RSI(14) | 40.2 | Operating margin | -121.86% |
+| RSI(14) | 40.1 | Operating margin | -121.86% |
 | ATR(14) | 0.25 | Profit margin | -246.76% |
-| SMA20 dist | -2.62% | ROA | -30.03% |
-| SMA50 dist | -34.96% | ROE | — |
-| SMA200 dist | -68.31% | Revenue (ttm) | $214.25M |
+| SMA20 dist | -2.87% | ROA | -30.03% |
+| SMA50 dist | -35.13% | ROE | — |
+| SMA200 dist | -68.39% | Revenue (ttm) | $214.25M |
 | 52W high | $19.19 | Revenue growth y/y | 351.40% |
 | 52W low | $1.62 | Inst. ownership | 64.14% |
 | P/E (ttm) | — | Insider ownership | 1.38% |
-| Forward P/E | -10.79 | Short float | 38.62% |
+| Forward P/E | -10.76 | Short float | 38.62% |
 | PEG (trailing) | — | Avg volume | 26,458,434 |
-| P/S | 3.18 | Employees | 787 |
+| P/S | 3.20 | Employees | 787 |
 | P/B | -0.62 | Analyst rec (1=buy..5=sell) | 2.4 |
 
 ## 8. Analyst Actions
