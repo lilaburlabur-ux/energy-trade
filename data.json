@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-05T11:05:11+00:00",
-  "as_of_local": "2026-11-05 11:05:11 UTC",
+  "as_of_utc": "2026-11-05T11:10:34+00:00",
+  "as_of_local": "2026-11-05 11:10:34 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "BEP"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -99,12 +97,6 @@
       "market_cap": 220431005400.0697,
       "headlines": [
         {
-          "title": "Dow Jones Futures Rise, Techs Fall; Apple, Microsoft, Amazon Flash Buy Signals In Postelection Rally",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-elections-oil-apple-microsoft-amazon-buy-signals-coreweave-spacex-skid/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-11-05T10:49:44Z"
-        },
-        {
           "title": "Boeing, ServiceNow and Nebius Keep Their Stock Off ICE-OKX Token Venue, Lifting Objectors to 62",
           "url": "https://finance.yahoo.com/markets/crypto/articles/boeing-servicenow-nebius-keep-stock-093046350.html",
           "publisher": "Unchained",
@@ -115,6 +107,12 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-holders-got-031246550.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-05T03:12:46Z"
+        },
+        {
+          "title": "AI Data Center Backlash Is Real. The Blue Wave Takes Out Energy Stocks.",
+          "url": "https://www.barrons.com/articles/ai-data-center-energy-utility-stocks-elections-37e63a25?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-11-04T21:43:00Z"
         }
       ]
     },
@@ -1491,6 +1489,34 @@
       ]
     },
     {
+      "symbol": "BEP",
+      "name": "Brookfield Renewable",
+      "price": 30.91,
+      "previous_close": 30.3,
+      "change_pct": 2.01,
+      "market_cap": 9276450313.8666,
+      "headlines": [
+        {
+          "title": "Mine, Enrich, Build, Operate: Which Link in the Nuclear Supply Chain Is the Best Stock Right Now?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/mine-enrich-build-operate-nuclear-033500270.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-05T03:35:00Z"
+        },
+        {
+          "title": "Brookfield Renewable Partners Q3 Earnings Call Highlights",
+          "url": "https://finance.yahoo.com/energy/articles/brookfield-renewable-partners-q3-earnings-221436429.html",
+          "publisher": "MarketBeat",
+          "published": "2026-11-04T22:14:36Z"
+        },
+        {
+          "title": "Brookfield Renewable Partners L.P. Q3 2026 Earnings Call Summary",
+          "url": "https://finance.yahoo.com/energy/articles/brookfield-renewable-partners-l-p-215026985.html",
+          "publisher": "Moby",
+          "published": "2026-11-04T21:50:26Z"
+        }
+      ]
+    },
+    {
       "symbol": "NOV",
       "name": "NOV Inc",
       "price": 18.03,
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 88.66,
-      "change_pct": 0.61
+      "price": 88.59,
+      "change_pct": 0.53
     },
     {
       "label": "Brent",
-      "price": 96.07,
-      "change_pct": 1.53
+      "price": 96.03,
+      "change_pct": 1.49
     },
     {
       "label": "NatGas",
       "price": 2.93,
-      "change_pct": -0.98
+      "change_pct": -0.81
     }
   ]
 }
