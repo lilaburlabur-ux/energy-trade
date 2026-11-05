@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-05T22:45:28+00:00",
-  "as_of_local": "2026-11-05 22:45:28 UTC",
+  "as_of_utc": "2026-11-05T22:49:20+00:00",
+  "as_of_local": "2026-11-05 22:49:20 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "FLNC"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1849,34 +1851,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/solaredge-technologies-q3-earnings-top-133900849.html",
           "publisher": "Zacks",
           "published": "2026-11-04T13:39:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "FLNC",
-      "name": "Fluence Energy",
-      "price": 5.09,
-      "previous_close": 6.06,
-      "change_pct": -15.92,
-      "market_cap": 729418450.8230839,
-      "headlines": [
-        {
-          "title": "Top clean energy stocks to watch as Democratic sweep improves outlook",
-          "url": "https://finance.yahoo.com/energy/articles/top-clean-energy-stocks-watch-125922163.html",
-          "publisher": "Investing.com",
-          "published": "2026-11-04T12:59:22Z"
-        },
-        {
-          "title": "Fluence Energy names interim CEO, CFO amid supply chain hiccups",
-          "url": "https://finance.yahoo.com/energy/articles/fluence-energy-names-interim-ceo-203323572.html",
-          "publisher": "CFO Dive",
-          "published": "2026-11-03T20:33:23Z"
-        },
-        {
-          "title": "Enlight Renewable Energy Ltd. (ENLT) Q3 Earnings and Revenues Top Estimates",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/enlight-renewable-energy-ltd-enlt-112502901.html",
-          "publisher": "Zacks",
-          "published": "2026-11-03T11:25:02Z"
         }
       ]
     },
