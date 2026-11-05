@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-05T21:50:49+00:00",
-  "as_of_local": "2026-11-05 21:50:49 UTC",
+  "as_of_utc": "2026-11-05T21:54:39+00:00",
+  "as_of_local": "2026-11-05 21:54:39 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "NXT"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -183,6 +181,12 @@
       "market_cap": 165030114367.68414,
       "headlines": [
         {
+          "title": "Earnings live updates: Cava stock falls after cyclospora outbreak dented Q3 results",
+          "url": "https://finance.yahoo.com/markets/live/earnings-live-updates-apple-palantir-roku-and-more-212856249.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-02T21:28:56Z"
+        },
+        {
           "title": "ConocoPhillips (COP) Q3 2026 Earnings Call Transcript",
           "url": "https://finance.yahoo.com/energy/articles/conocophillips-cop-q3-2026-earnings-213513289.html",
           "publisher": "Motley Fool",
@@ -193,12 +197,6 @@
           "url": "https://finance.yahoo.com/energy/articles/conocophillips-reports-higher-q3-earnings-151117968.html",
           "publisher": "InvestorsHub",
           "published": "2026-11-05T15:11:17Z"
-        },
-        {
-          "title": "ConocoPhillips Just Raised Its Dividend 11%. Is the Stock a Buy?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/conocophillips-just-raised-dividend-11-144746690.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-05T14:47:46Z"
         }
       ]
     },
@@ -1379,6 +1377,34 @@
       ]
     },
     {
+      "symbol": "NXT",
+      "name": "Nextracker",
+      "price": 99.58,
+      "previous_close": 106.7,
+      "change_pct": -6.67,
+      "market_cap": 15109225879.425049,
+      "headlines": [
+        {
+          "title": "Solar Stocks Pop And Plunge; Analysts Think They Know Why",
+          "url": "https://www.investors.com/news/sunrun-stock-solar-stocks-after-election/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-11-05T19:21:44Z"
+        },
+        {
+          "title": "Midterm Results Put These 4 Renewable, Healthcare & AI Stocks in Focus",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/midterm-results-put-4-renewable-152400817.html",
+          "publisher": "Zacks",
+          "published": "2026-11-05T15:24:00Z"
+        },
+        {
+          "title": "The AI Data-Center Backlash Is Real. Why Bloom Energy Stock Can Be a Winner.",
+          "url": "https://www.barrons.com/articles/bloom-energy-stock-ai-data-centers-midterm-elections-2eae1ed5?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-11-04T18:48:00Z"
+        }
+      ]
+    },
+    {
       "symbol": "TLN",
       "name": "Talen Energy",
       "price": 316.23,
@@ -2089,13 +2115,13 @@
     },
     {
       "label": "WTI",
-      "price": 91.04,
-      "change_pct": 3.31
+      "price": 91.07,
+      "change_pct": 3.35
     },
     {
       "label": "Brent",
-      "price": 98.87,
-      "change_pct": 4.49
+      "price": 98.9,
+      "change_pct": 4.52
     },
     {
       "label": "NatGas",
