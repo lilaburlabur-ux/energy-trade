@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-05T12:56:55+00:00",
-  "as_of_local": "2026-11-05 12:56:55 UTC",
+  "as_of_utc": "2026-11-05T13:02:24+00:00",
+  "as_of_local": "2026-11-05 13:02:24 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "EPD"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -535,6 +533,34 @@
           "url": "https://finance.yahoo.com/energy/articles/suncor-energy-su-q3-2026-214925017.html",
           "publisher": "Motley Fool",
           "published": "2026-11-04T21:49:25Z"
+        }
+      ]
+    },
+    {
+      "symbol": "EPD",
+      "name": "Enterprise Products",
+      "price": 36.71,
+      "previous_close": 37.5,
+      "change_pct": -2.11,
+      "market_cap": 79168962362.74928,
+      "headlines": [
+        {
+          "title": "This ETF Makes It Easy to Invest in Hard Assets",
+          "url": "https://www.barrons.com/articles/etf-assets-commodities-d9c31236?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-11-04T18:39:00Z"
+        },
+        {
+          "title": "The 10-Year Treasury Yields 4.91%. These 4 Dividend Stocks Pay More",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/10-treasury-yields-4-91-164702607.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-04T16:47:02Z"
+        },
+        {
+          "title": "Enterprise Products Partners' Distribution Growth Has Slowed From 5% to 2.7%. Is That a Red Flag or a Feature?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/enterprise-products-partners-distribution-growth-150500304.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-04T15:05:00Z"
         }
       ]
     },
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 89.5,
-      "change_pct": 1.57
+      "price": 89.58,
+      "change_pct": 1.66
     },
     {
       "label": "Brent",
-      "price": 96.86,
-      "change_pct": 2.37
+      "price": 97.03,
+      "change_pct": 2.55
     },
     {
       "label": "NatGas",
-      "price": 2.94,
-      "change_pct": -0.47
+      "price": 2.95,
+      "change_pct": -0.34
     }
   ]
 }
