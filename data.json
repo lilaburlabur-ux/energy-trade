@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-05T22:25:02+00:00",
-  "as_of_local": "2026-11-05 22:25:02 UTC",
+  "as_of_utc": "2026-11-05T22:30:05+00:00",
+  "as_of_local": "2026-11-05 22:30:05 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "CVX"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -31,6 +29,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/exxon-mobil-stock-still-worth-103643566.html",
           "publisher": "Trefis",
           "published": "2026-11-05T10:36:43Z"
+        }
+      ]
+    },
+    {
+      "symbol": "CVX",
+      "name": "Chevron",
+      "price": 212.93,
+      "previous_close": 216.96,
+      "change_pct": -1.86,
+      "market_cap": 415426415710.4492,
+      "headlines": [
+        {
+          "title": "Top Stock Reports for Berkshire Hathaway, Micron & Chevron",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/top-stock-reports-berkshire-hathaway-200900700.html",
+          "publisher": "Zacks",
+          "published": "2026-11-05T20:09:00Z"
+        },
+        {
+          "title": "Chevron Has Become Very Interesting Again Following the Midterms",
+          "url": "https://finance.yahoo.com/energy/articles/chevron-become-very-interesting-again-174534277.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-05T17:45:34Z"
+        },
+        {
+          "title": "Can Chevron's Record Natural Gas Output Strengthen Its LNG Position?",
+          "url": "https://finance.yahoo.com/energy/articles/chevrons-record-natural-gas-output-151500530.html",
+          "publisher": "Zacks",
+          "published": "2026-11-05T15:15:00Z"
         }
       ]
     },
@@ -1904,8 +1930,8 @@
           "name": "Chevron Corp",
           "short": "Chevron",
           "weight_pct": 18.29,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": -1.86,
+          "price": 212.93,
           "currency": "USD"
         },
         {
@@ -2003,8 +2029,8 @@
         "name": "Chevron Corp",
         "short": "Chevron",
         "weight_pct": 18.29,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": -1.86,
+        "price": 212.93,
         "currency": "USD"
       },
       {
