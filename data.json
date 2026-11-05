@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-05T10:19:41+00:00",
-  "as_of_local": "2026-11-05 10:19:41 UTC",
+  "as_of_utc": "2026-11-05T10:24:44+00:00",
+  "as_of_local": "2026-11-05 10:24:44 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "RUN"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1713,34 +1715,6 @@
       ]
     },
     {
-      "symbol": "RUN",
-      "name": "Sunrun",
-      "price": 8.79,
-      "previous_close": 8.68,
-      "change_pct": 1.27,
-      "market_cap": 2096848223.6300669,
-      "headlines": [
-        {
-          "title": "What Sunrun (RUN) Said on Its Q3 Earnings Call",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/sunrun-run-said-q3-earnings-061422001.html",
-          "publisher": "MarketBeat",
-          "published": "2026-11-05T06:14:22Z"
-        },
-        {
-          "title": "Sunrun (RUN) Q3 Earnings and Revenues Top Estimates",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/sunrun-run-q3-earnings-revenues-234520440.html",
-          "publisher": "Zacks",
-          "published": "2026-11-04T23:45:20Z"
-        },
-        {
-          "title": "Sunrun: Q3 Earnings Snapshot",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/sunrun-q3-earnings-snapshot-220455897.html",
-          "publisher": "Associated Press",
-          "published": "2026-11-04T22:04:55Z"
-        }
-      ]
-    },
-    {
       "symbol": "UUUU",
       "name": "Energy Fuels",
       "price": 7.18,
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 88.58,
-      "change_pct": 0.52
+      "price": 88.6,
+      "change_pct": 0.54
     },
     {
       "label": "Brent",
-      "price": 96.1,
-      "change_pct": 1.56
+      "price": 96.09,
+      "change_pct": 1.55
     },
     {
       "label": "NatGas",
       "price": 2.94,
-      "change_pct": -0.64
+      "change_pct": -0.54
     }
   ]
 }
