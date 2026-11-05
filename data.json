@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-05T06:47:59+00:00",
-  "as_of_local": "2026-11-05 06:47:59 UTC",
+  "as_of_utc": "2026-11-05T07:02:32+00:00",
+  "as_of_local": "2026-11-05 07:02:32 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "NRG"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1295,6 +1293,34 @@
       ]
     },
     {
+      "symbol": "NRG",
+      "name": "NRG Energy",
+      "price": 83.25,
+      "previous_close": 96.26,
+      "change_pct": -13.52,
+      "market_cap": 17500022709.75,
+      "headlines": [
+        {
+          "title": "The Election Flipped Congress. It Also Flipped the Market.",
+          "url": "https://www.barrons.com/livecoverage/stock-market-news-today-110426/card/the-election-flipped-congress-it-also-flipped-the-market--UT83eYXvz6tWwUwCZ2Mp?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-11-04T21:04:15Z"
+        },
+        {
+          "title": "NRG Energy, Inc. (NRG) Is a Trending Stock: Facts to Know Before Betting on It",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nrg-energy-inc-nrg-trending-130002390.html",
+          "publisher": "Zacks",
+          "published": "2026-11-04T13:00:02Z"
+        },
+        {
+          "title": "Do Options Traders Know Something About NRG Energy Stock We Don't?",
+          "url": "https://finance.yahoo.com/markets/options/articles/options-traders-know-something-nrg-125000781.html",
+          "publisher": "Zacks",
+          "published": "2026-11-03T12:50:00Z"
+        }
+      ]
+    },
+    {
       "symbol": "OVV",
       "name": "Ovintiv",
       "price": 62.7,
@@ -1468,7 +1494,7 @@
       "price": 30.91,
       "previous_close": 30.3,
       "change_pct": 2.01,
-      "market_cap": 9374260031.87376,
+      "market_cap": 9276450313.8666,
       "headlines": [
         {
           "title": "Mine, Enrich, Build, Operate: Which Link in the Nuclear Supply Chain Is the Best Stock Right Now?",
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 87.11,
-      "change_pct": -1.15
+      "price": 87.06,
+      "change_pct": -1.2
     },
     {
       "label": "Brent",
-      "price": 94.08,
-      "change_pct": -0.57
+      "price": 94.03,
+      "change_pct": -0.62
     },
     {
       "label": "NatGas",
       "price": 2.94,
-      "change_pct": -0.51
+      "change_pct": -0.54
     }
   ]
 }
