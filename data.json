@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-05T21:59:44+00:00",
-  "as_of_local": "2026-11-05 21:59:44 UTC",
+  "as_of_utc": "2026-11-05T22:04:55+00:00",
+  "as_of_local": "2026-11-05 22:04:55 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "TTE"
+    "FSLR"
   ],
   "stocks": [
     {
@@ -115,6 +115,34 @@
           "url": "https://www.barrons.com/articles/ai-stock-selloff-caterpillar-valuation-analysis-20904e44?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
           "published": "2026-11-05T19:27:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "TTE",
+      "name": "TotalEnergies",
+      "price": 88.75,
+      "previous_close": 90.46,
+      "change_pct": -1.89,
+      "market_cap": 194853369593.75,
+      "headlines": [
+        {
+          "title": "Sempra's Q3 Earnings Outpace Estimates, Revenues Increase Y/Y",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/sempras-q3-earnings-outpace-estimates-180200978.html",
+          "publisher": "Zacks",
+          "published": "2026-11-05T18:02:00Z"
+        },
+        {
+          "title": "Murphy Oil Q3 Earnings Beat Estimates on Strong Prices & Lower Costs",
+          "url": "https://finance.yahoo.com/energy/articles/murphy-oil-q3-earnings-beat-164800166.html",
+          "publisher": "Zacks",
+          "published": "2026-11-05T16:48:00Z"
+        },
+        {
+          "title": "Ormat Technologies Q3 Earnings and Revenues Beat Estimates",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ormat-technologies-q3-earnings-revenues-133800672.html",
+          "publisher": "Zacks",
+          "published": "2026-11-05T13:38:00Z"
         }
       ]
     },
@@ -511,6 +539,34 @@
       ]
     },
     {
+      "symbol": "EOG",
+      "name": "EOG Resources",
+      "price": 144.89,
+      "previous_close": 147.06,
+      "change_pct": -1.48,
+      "market_cap": 77172547386.60934,
+      "headlines": [
+        {
+          "title": "EOG Resources: Q3 Earnings Snapshot",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/eog-resources-q3-earnings-snapshot-212119203.html",
+          "publisher": "Associated Press",
+          "published": "2026-11-05T21:21:19Z"
+        },
+        {
+          "title": "Are Investors Undervaluing Devon Energy (DVN) Right Now?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/investors-undervaluing-devon-energy-dvn-134003264.html",
+          "publisher": "Zacks",
+          "published": "2026-11-05T13:40:03Z"
+        },
+        {
+          "title": "EOG Resources Stock: Analyst Estimates & Ratings",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/eog-resources-stock-analyst-estimates-120523405.html",
+          "publisher": "Barchart",
+          "published": "2026-11-05T12:05:23Z"
+        }
+      ]
+    },
+    {
       "symbol": "PWR",
       "name": "Quanta Services",
       "price": 509.06,
@@ -535,34 +591,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/emcor-raises-2026-outlook-record-164200183.html",
           "publisher": "Zacks",
           "published": "2026-11-05T16:42:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "EOG",
-      "name": "EOG Resources",
-      "price": 144.89,
-      "previous_close": 147.06,
-      "change_pct": -1.48,
-      "market_cap": 75999031990.4928,
-      "headlines": [
-        {
-          "title": "EOG Resources: Q3 Earnings Snapshot",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/eog-resources-q3-earnings-snapshot-212119203.html",
-          "publisher": "Associated Press",
-          "published": "2026-11-05T21:21:19Z"
-        },
-        {
-          "title": "Are Investors Undervaluing Devon Energy (DVN) Right Now?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/investors-undervaluing-devon-energy-dvn-134003264.html",
-          "publisher": "Zacks",
-          "published": "2026-11-05T13:40:03Z"
-        },
-        {
-          "title": "EOG Resources Stock: Analyst Estimates & Ratings",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/eog-resources-stock-analyst-estimates-120523405.html",
-          "publisher": "Barchart",
-          "published": "2026-11-05T12:05:23Z"
         }
       ]
     },
@@ -1183,34 +1211,6 @@
       ]
     },
     {
-      "symbol": "FSLR",
-      "name": "First Solar",
-      "price": 195.76,
-      "previous_close": 194.51,
-      "change_pct": 0.64,
-      "market_cap": 21040509529.348404,
-      "headlines": [
-        {
-          "title": "Solar Stocks Pop And Plunge; Analysts Think They Know Why",
-          "url": "https://www.investors.com/news/sunrun-stock-solar-stocks-after-election/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-11-05T19:21:44Z"
-        },
-        {
-          "title": "Is First Solar Stock Still Worth Owning After Its Quarter?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/first-solar-stock-still-worth-190219321.html",
-          "publisher": "Trefis",
-          "published": "2026-11-05T19:02:19Z"
-        },
-        {
-          "title": "Is First Solar (FSLR) Undervalued Following Democratic Wins In Congress?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/first-solar-fslr-undervalued-following-171442315.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-05T17:14:42Z"
-        }
-      ]
-    },
-    {
       "symbol": "PR",
       "name": "Permian Resources",
       "price": 21.34,
@@ -1468,7 +1468,7 @@
       "price": 30.64,
       "previous_close": 30.91,
       "change_pct": -0.87,
-      "market_cap": 9195420037.4664,
+      "market_cap": 9292375382.49504,
       "headlines": [
         {
           "title": "I Love Brookfield Renewable for 1 Reason, and It\u2019s Not the Dividend",
@@ -2089,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 91.01,
-      "change_pct": 3.28
+      "price": 91.1,
+      "change_pct": 3.38
     },
     {
       "label": "Brent",
-      "price": 98.91,
-      "change_pct": 4.53
+      "price": 99.13,
+      "change_pct": 4.77
     },
     {
       "label": "NatGas",
-      "price": 2.92,
-      "change_pct": -1.15
+      "price": 2.94,
+      "change_pct": -0.71
     }
   ]
 }
