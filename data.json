@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-05T10:09:25+00:00",
-  "as_of_local": "2026-11-05 10:09:25 UTC",
+  "as_of_utc": "2026-11-05T10:10:50+00:00",
+  "as_of_local": "2026-11-05 10:10:50 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NXE"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1573,34 +1575,6 @@
       ]
     },
     {
-      "symbol": "NXE",
-      "name": "NexGen Energy",
-      "price": 8.0,
-      "previous_close": 7.96,
-      "change_pct": 0.5,
-      "market_cap": 5364048808.0,
-      "headlines": [
-        {
-          "title": "NuScale Power Advances SMR Manufacturing With Doosan Deal",
-          "url": "https://finance.yahoo.com/energy/articles/nuscale-power-advances-smr-manufacturing-163500821.html",
-          "publisher": "Zacks",
-          "published": "2026-11-02T16:35:00Z"
-        },
-        {
-          "title": "What Is Behind The Move In Cameco Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/behind-move-cameco-stock-012341659.html",
-          "publisher": "Trefis",
-          "published": "2026-11-02T01:23:41Z"
-        },
-        {
-          "title": "Azincourt Energy Advances Labrador Uranium Exploration With New Snegamook Drilling Results",
-          "url": "https://finance.yahoo.com/energy/articles/azincourt-energy-advances-labrador-uranium-213911390.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-10-26T21:39:11Z"
-        }
-      ]
-    },
-    {
       "symbol": "ENPH",
       "name": "Enphase Energy",
       "price": 31.55,
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 88.47,
-      "change_pct": 0.4
+      "price": 88.56,
+      "change_pct": 0.5
     },
     {
       "label": "Brent",
-      "price": 95.91,
-      "change_pct": 1.36
+      "price": 95.94,
+      "change_pct": 1.4
     },
     {
       "label": "NatGas",
       "price": 2.94,
-      "change_pct": -0.64
+      "change_pct": -0.68
     }
   ]
 }
