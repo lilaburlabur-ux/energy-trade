@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-05T09:59:28+00:00",
-  "as_of_local": "2026-11-05 09:59:28 UTC",
+  "as_of_utc": "2026-11-05T10:04:23+00:00",
+  "as_of_local": "2026-11-05 10:04:23 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "BEP"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1491,6 +1489,34 @@
       ]
     },
     {
+      "symbol": "BEP",
+      "name": "Brookfield Renewable",
+      "price": 30.91,
+      "previous_close": 30.3,
+      "change_pct": 2.01,
+      "market_cap": 9276450313.8666,
+      "headlines": [
+        {
+          "title": "Mine, Enrich, Build, Operate: Which Link in the Nuclear Supply Chain Is the Best Stock Right Now?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/mine-enrich-build-operate-nuclear-033500270.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-05T03:35:00Z"
+        },
+        {
+          "title": "Brookfield Renewable Partners Q3 Earnings Call Highlights",
+          "url": "https://finance.yahoo.com/energy/articles/brookfield-renewable-partners-q3-earnings-221436429.html",
+          "publisher": "MarketBeat",
+          "published": "2026-11-04T22:14:36Z"
+        },
+        {
+          "title": "Brookfield Renewable Partners L.P. Q3 2026 Earnings Call Summary",
+          "url": "https://finance.yahoo.com/energy/articles/brookfield-renewable-partners-l-p-215026985.html",
+          "publisher": "Moby",
+          "published": "2026-11-04T21:50:26Z"
+        }
+      ]
+    },
+    {
       "symbol": "NOV",
       "name": "NOV Inc",
       "price": 18.03,
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 88.37,
-      "change_pct": 0.28
+      "price": 88.5,
+      "change_pct": 0.43
     },
     {
       "label": "Brent",
-      "price": 95.73,
-      "change_pct": 1.17
+      "price": 95.9,
+      "change_pct": 1.35
     },
     {
       "label": "NatGas",
-      "price": 2.93,
-      "change_pct": -1.01
+      "price": 2.94,
+      "change_pct": -0.78
     }
   ]
 }
