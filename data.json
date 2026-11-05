@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-05T11:45:42+00:00",
-  "as_of_local": "2026-11-05 11:45:42 UTC",
+  "as_of_utc": "2026-11-05T11:50:42+00:00",
+  "as_of_local": "2026-11-05 11:50:42 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -797,6 +797,12 @@
       "market_cap": 59225656482.98398,
       "headlines": [
         {
+          "title": "Kevin O'Leary Calls for Energy Security, CLARITY Act as US Faces Rising Power Demand and Crypto Competition: 'You Can't Have...'",
+          "url": "https://finance.yahoo.com/energy/articles/kevin-oleary-calls-energy-security-104515533.html",
+          "publisher": "Benzinga",
+          "published": "2026-11-05T10:45:15Z"
+        },
+        {
           "title": "Bloom Energy Stock In Focus After California Power Deal",
           "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-stock-focus-california-201642782.html",
           "publisher": "Simply Wall St.",
@@ -807,12 +813,6 @@
           "url": "https://www.barrons.com/articles/bloom-energy-stock-ai-data-centers-midterm-elections-2eae1ed5?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
           "published": "2026-11-04T18:48:00Z"
-        },
-        {
-          "title": "Bloom Energy Sinks 8%, Lumentum Down 11% as AI Power Stocks Fade After Democrat Sweep",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-sinks-8-lumentum-165129821.html",
-          "publisher": "TIKR",
-          "published": "2026-11-04T16:51:29Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 88.76,
-      "change_pct": 0.73
+      "price": 88.99,
+      "change_pct": 0.99
     },
     {
       "label": "Brent",
-      "price": 96.02,
-      "change_pct": 1.48
+      "price": 96.35,
+      "change_pct": 1.83
     },
     {
       "label": "NatGas",
-      "price": 2.94,
-      "change_pct": -0.57
+      "price": 2.95,
+      "change_pct": -0.41
     }
   ]
 }
