@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-05T08:13:21+00:00",
-  "as_of_local": "2026-11-05 08:13:21 UTC",
+  "as_of_utc": "2026-11-05T08:18:07+00:00",
+  "as_of_local": "2026-11-05 08:18:07 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "UUUU"
+    "OKE"
   ],
   "stocks": [
     {
@@ -875,34 +875,6 @@
       ]
     },
     {
-      "symbol": "OKE",
-      "name": "ONEOK",
-      "price": 88.6,
-      "previous_close": 91.94,
-      "change_pct": -3.63,
-      "market_cap": 55857907756.20898,
-      "headlines": [
-        {
-          "title": "Exxon Mobil Just Raised Its Dividend for the 44th Year. Here Are 3 More Wall Street Favorites",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/exxon-mobil-just-raised-dividend-133750160.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-04T13:37:50Z"
-        },
-        {
-          "title": "What Just Happened To Devon Energy Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/just-happened-devon-energy-stock-180915371.html",
-          "publisher": "Trefis",
-          "published": "2026-11-03T18:09:15Z"
-        },
-        {
-          "title": "Energy Transfer Q3 Earnings Miss Estimates Despite Record Gas Volumes",
-          "url": "https://finance.yahoo.com/energy/articles/energy-transfer-q3-earnings-miss-144400119.html",
-          "publisher": "Zacks",
-          "published": "2026-11-03T14:44:00Z"
-        }
-      ]
-    },
-    {
       "symbol": "ETR",
       "name": "Entergy",
       "price": 111.9,
@@ -1743,6 +1715,34 @@
       ]
     },
     {
+      "symbol": "UUUU",
+      "name": "Energy Fuels",
+      "price": 7.18,
+      "previous_close": 7.24,
+      "change_pct": -0.83,
+      "market_cap": 1901464549.3792715,
+      "headlines": [
+        {
+          "title": "Brookfield Asset Management And 2 Canadian Growth Stocks To Watch",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/brookfield-asset-management-2-canadian-031524169.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-05T03:15:24Z"
+        },
+        {
+          "title": "Energy Fuels (UUUU) Reports Q3 Loss, Tops Revenue Estimates",
+          "url": "https://finance.yahoo.com/energy/articles/energy-fuels-uuuu-reports-q3-234514514.html",
+          "publisher": "Zacks",
+          "published": "2026-11-04T23:45:14Z"
+        },
+        {
+          "title": "3 Canadian Nuclear Stocks To Own In November 2026",
+          "url": "https://finance.yahoo.com/energy/articles/3-canadian-nuclear-stocks-own-232035019.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-04T23:20:35Z"
+        }
+      ]
+    },
+    {
       "symbol": "LEU",
       "name": "Centrus Energy",
       "price": 92.58,
@@ -2089,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 88.0,
-      "change_pct": -0.14
+      "price": 87.86,
+      "change_pct": -0.3
     },
     {
       "label": "Brent",
-      "price": 95.19,
-      "change_pct": 0.6
+      "price": 95.0,
+      "change_pct": 0.4
     },
     {
       "label": "NatGas",
-      "price": 2.95,
-      "change_pct": -0.14
+      "price": 2.96,
+      "change_pct": -0.03
     }
   ]
 }
