@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-05T04:46:33+00:00",
-  "as_of_local": "2026-11-05 04:46:33 UTC",
+  "as_of_utc": "2026-11-05T05:01:43+00:00",
+  "as_of_local": "2026-11-05 05:01:43 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "BE"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -598,7 +600,7 @@
       "price": 147.06,
       "previous_close": 155.17,
       "change_pct": -5.23,
-      "market_cap": 77137259341.97119,
+      "market_cap": 78328350321.43738,
       "headlines": [
         {
           "title": "Riley Exploration Permian, Inc. (REPX) Tops Q3 Earnings and Revenue Estimates",
@@ -785,34 +787,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/strong-buy-stocks-november-4th-100100731.html",
           "publisher": "Zacks",
           "published": "2026-11-04T10:01:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "BE",
-      "name": "Bloom Energy",
-      "price": 200.4,
-      "previous_close": 214.01,
-      "change_pct": -6.36,
-      "market_cap": 59225656482.98398,
-      "headlines": [
-        {
-          "title": "Bloom Energy Stock In Focus After California Power Deal",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-stock-focus-california-201642782.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-04T20:16:42Z"
-        },
-        {
-          "title": "The AI Data-Center Backlash Is Real. Why Bloom Energy Stock Can Be a Winner.",
-          "url": "https://www.barrons.com/articles/bloom-energy-stock-ai-data-centers-midterm-elections-2eae1ed5?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-11-04T18:48:00Z"
-        },
-        {
-          "title": "Bloom Energy Sinks 8%, Lumentum Down 11% as AI Power Stocks Fade After Democrat Sweep",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-sinks-8-lumentum-165129821.html",
-          "publisher": "TIKR",
-          "published": "2026-11-04T16:51:29Z"
         }
       ]
     },
@@ -1494,7 +1468,7 @@
       "price": 30.91,
       "previous_close": 30.3,
       "change_pct": 2.01,
-      "market_cap": 9276450313.8666,
+      "market_cap": 9374260031.87376,
       "headlines": [
         {
           "title": "Mine, Enrich, Build, Operate: Which Link in the Nuclear Supply Chain Is the Best Stock Right Now?",
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 86.82,
-      "change_pct": -9.65
+      "price": 88.12,
+      "change_pct": -8.29
     },
     {
       "label": "Brent",
-      "price": 93.7,
-      "change_pct": -9.56
+      "price": 94.62,
+      "change_pct": -8.67
     },
     {
       "label": "NatGas",
-      "price": 2.93,
-      "change_pct": 1.28
+      "price": 2.96,
+      "change_pct": 2.21
     }
   ]
 }
