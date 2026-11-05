@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-05T06:42:34+00:00",
-  "as_of_local": "2026-11-05 06:42:34 UTC",
+  "as_of_utc": "2026-11-05T06:47:59+00:00",
+  "as_of_local": "2026-11-05 06:47:59 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "VLO"
+    "NRG"
   ],
   "stocks": [
     {
@@ -311,6 +311,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/10-treasury-yields-4-91-164702607.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-04T16:47:02Z"
+        }
+      ]
+    },
+    {
+      "symbol": "VLO",
+      "name": "Valero Energy",
+      "price": 365.34,
+      "previous_close": 387.65,
+      "change_pct": -5.76,
+      "market_cap": 101887625674.69482,
+      "headlines": [
+        {
+          "title": "\ud83c\udfa7 Listen: Global Conflicts Have Meant Huge Profits for U.S. Oil Refiners",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-04-2026/card/-listen-global-conflicts-have-meant-huge-profits-for-u-s-oil-refiners-MEZtjrrq74K4g0Tpw9N4?siteid=yhoof2&yptr=yahoo",
+          "publisher": "The Wall Street Journal",
+          "published": "2026-11-04T23:00:02Z"
+        },
+        {
+          "title": "Marathon Petroleum Sinks 10%, Valero Down 8% as Oil Stocks Slide After Democrats Win the Senate",
+          "url": "https://finance.yahoo.com/energy/articles/marathon-petroleum-sinks-10-valero-200304712.html",
+          "publisher": "TIKR",
+          "published": "2026-11-04T20:03:04Z"
+        },
+        {
+          "title": "MPC Q3 Earnings Beat Estimates on Strong Refining Margins",
+          "url": "https://finance.yahoo.com/energy/articles/mpc-q3-earnings-beat-estimates-162400083.html",
+          "publisher": "Zacks",
+          "published": "2026-11-04T16:24:00Z"
         }
       ]
     },
@@ -1267,34 +1295,6 @@
       ]
     },
     {
-      "symbol": "NRG",
-      "name": "NRG Energy",
-      "price": 83.25,
-      "previous_close": 96.26,
-      "change_pct": -13.52,
-      "market_cap": 17500022709.75,
-      "headlines": [
-        {
-          "title": "The Election Flipped Congress. It Also Flipped the Market.",
-          "url": "https://www.barrons.com/livecoverage/stock-market-news-today-110426/card/the-election-flipped-congress-it-also-flipped-the-market--UT83eYXvz6tWwUwCZ2Mp?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-11-04T21:04:15Z"
-        },
-        {
-          "title": "NRG Energy, Inc. (NRG) Is a Trending Stock: Facts to Know Before Betting on It",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nrg-energy-inc-nrg-trending-130002390.html",
-          "publisher": "Zacks",
-          "published": "2026-11-04T13:00:02Z"
-        },
-        {
-          "title": "Do Options Traders Know Something About NRG Energy Stock We Don't?",
-          "url": "https://finance.yahoo.com/markets/options/articles/options-traders-know-something-nrg-125000781.html",
-          "publisher": "Zacks",
-          "published": "2026-11-03T12:50:00Z"
-        }
-      ]
-    },
-    {
       "symbol": "OVV",
       "name": "Ovintiv",
       "price": 62.7,
@@ -1468,7 +1468,7 @@
       "price": 30.91,
       "previous_close": 30.3,
       "change_pct": 2.01,
-      "market_cap": 9276450313.8666,
+      "market_cap": 9374260031.87376,
       "headlines": [
         {
           "title": "Mine, Enrich, Build, Operate: Which Link in the Nuclear Supply Chain Is the Best Stock Right Now?",
@@ -1940,8 +1940,8 @@
           "name": "Valero Energy Corp",
           "short": "Valero",
           "weight_pct": 4.28,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": -5.76,
+          "price": 365.34,
           "currency": "USD"
         },
         {
@@ -2039,8 +2039,8 @@
         "name": "Valero Energy Corp",
         "short": "Valero",
         "weight_pct": 4.28,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": -5.76,
+        "price": 365.34,
         "currency": "USD"
       },
       {
@@ -2089,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 87.01,
-      "change_pct": -1.26
+      "price": 87.11,
+      "change_pct": -1.15
     },
     {
       "label": "Brent",
-      "price": 94.02,
-      "change_pct": -0.63
+      "price": 94.08,
+      "change_pct": -0.57
     },
     {
       "label": "NatGas",
-      "price": 2.95,
-      "change_pct": -0.44
+      "price": 2.94,
+      "change_pct": -0.51
     }
   ]
 }
