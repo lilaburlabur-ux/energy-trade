@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-05T08:23:30+00:00",
-  "as_of_local": "2026-11-05 08:23:30 UTC",
+  "as_of_utc": "2026-11-05T08:29:37+00:00",
+  "as_of_local": "2026-11-05 08:29:37 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NOV"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -237,6 +239,12 @@
       "market_cap": 117475494172.32329,
       "headlines": [
         {
+          "title": "BP Raises $1.06 Billion From Aker BP Stake Sale",
+          "url": "https://finance.yahoo.com/energy/articles/bp-raises-1-06-billion-082039166.html",
+          "publisher": "Oilprice.com",
+          "published": "2026-11-05T08:20:39Z"
+        },
+        {
           "title": "BP Stock Gains 40.6% in a Year: Should You Bet on the Stock Now?",
           "url": "https://finance.yahoo.com/energy/articles/bp-stock-gains-40-6-164900473.html",
           "publisher": "Zacks",
@@ -247,12 +255,6 @@
           "url": "https://finance.yahoo.com/energy/articles/bp-lse-bp-completes-65-141637937.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-04T14:16:37Z"
-        },
-        {
-          "title": "Should Value Investors Buy BP (BP) Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/value-investors-buy-bp-bp-134002353.html",
-          "publisher": "Zacks",
-          "published": "2026-11-04T13:40:02Z"
         }
       ]
     },
@@ -1517,34 +1519,6 @@
       ]
     },
     {
-      "symbol": "NOV",
-      "name": "NOV Inc",
-      "price": 18.03,
-      "previous_close": 18.49,
-      "change_pct": -2.49,
-      "market_cap": 6427920457.5277,
-      "headlines": [
-        {
-          "title": "NOV Expects Higher Offshore Bookings on Strong FPSO Project Pipeline",
-          "url": "https://finance.yahoo.com/energy/articles/nov-expects-higher-offshore-bookings-141000583.html",
-          "publisher": "Zacks",
-          "published": "2026-11-02T14:10:00Z"
-        },
-        {
-          "title": "What Just Happened To TechnipFMC Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/just-happened-technipfmc-stock-163324798.html",
-          "publisher": "Trefis",
-          "published": "2026-10-30T16:33:24Z"
-        },
-        {
-          "title": "SHEL Q3 Earnings Beat on Record Refining Margins, LNG Strength",
-          "url": "https://finance.yahoo.com/energy/articles/shel-q3-earnings-beat-record-133000388.html",
-          "publisher": "Zacks",
-          "published": "2026-10-30T13:30:00Z"
-        }
-      ]
-    },
-    {
       "symbol": "WFRD",
       "name": "Weatherford",
       "price": 86.04,
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 87.86,
-      "change_pct": -0.3
+      "price": 87.91,
+      "change_pct": -0.24
     },
     {
       "label": "Brent",
-      "price": 94.91,
-      "change_pct": 0.31
+      "price": 95.09,
+      "change_pct": 0.5
     },
     {
       "label": "NatGas",
-      "price": 2.96,
-      "change_pct": 0.0
+      "price": 2.95,
+      "change_pct": -0.14
     }
   ]
 }
