@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-05T09:04:02+00:00",
-  "as_of_local": "2026-11-05 09:04:02 UTC",
+  "as_of_utc": "2026-11-05T09:08:39+00:00",
+  "as_of_local": "2026-11-05 09:08:39 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "DUK"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -399,6 +397,34 @@
       ]
     },
     {
+      "symbol": "DUK",
+      "name": "Duke Energy",
+      "price": 129.59,
+      "previous_close": 126.51,
+      "change_pct": 2.43,
+      "market_cap": 101041604335.51529,
+      "headlines": [
+        {
+          "title": "Do Lower Florida Rates Change The Bull Case For Duke Energy (DUK)?",
+          "url": "https://finance.yahoo.com/energy/articles/lower-florida-rates-change-bull-081450917.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-05T08:14:50Z"
+        },
+        {
+          "title": "What Has Changed About Owning Xcel Energy Stock?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/changed-owning-xcel-energy-stock-220549101.html",
+          "publisher": "Trefis",
+          "published": "2026-11-04T22:05:49Z"
+        },
+        {
+          "title": "Eversource Energy (ES) Q3 Earnings and Revenues Lag Estimates",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/eversource-energy-es-q3-earnings-215005183.html",
+          "publisher": "Zacks",
+          "published": "2026-11-04T21:50:05Z"
+        }
+      ]
+    },
+    {
       "symbol": "PWR",
       "name": "Quanta Services",
       "price": 580.44,
@@ -491,6 +517,12 @@
       "market_cap": 84838743498.82306,
       "headlines": [
         {
+          "title": "Williams Companies Inc (WMB) (Q3 2026) Earnings Call Highlights: Record EBITDA, Momentum ...",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/williams-companies-inc-wmb-q3-090324010.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-05T09:03:24Z"
+        },
+        {
           "title": "Williams Companies (WMB) Completes Key Gas Deal And Deepens Haynesville Reach",
           "url": "https://finance.yahoo.com/energy/articles/williams-companies-wmb-completes-key-190823838.html",
           "publisher": "Simply Wall St.",
@@ -501,12 +533,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/wmb-q3-earnings-miss-estimates-163000284.html",
           "publisher": "Zacks",
           "published": "2026-11-04T16:30:00Z"
-        },
-        {
-          "title": "WMB Q3 Earnings Call Highlights Power Backlog and Funding",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/wmb-q3-earnings-call-highlights-140000987.html",
-          "publisher": "Zacks",
-          "published": "2026-11-04T14:00:00Z"
         }
       ]
     },
@@ -2089,13 +2115,13 @@
     },
     {
       "label": "WTI",
-      "price": 88.0,
-      "change_pct": -0.14
+      "price": 88.14,
+      "change_pct": 0.02
     },
     {
       "label": "Brent",
-      "price": 95.06,
-      "change_pct": 0.47
+      "price": 95.21,
+      "change_pct": 0.62
     },
     {
       "label": "NatGas",
