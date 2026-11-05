@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-05T09:28:57+00:00",
-  "as_of_local": "2026-11-05 09:28:57 UTC",
+  "as_of_utc": "2026-11-05T09:34:11+00:00",
+  "as_of_local": "2026-11-05 09:34:11 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "VRT"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -561,34 +563,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/enterprise-products-partners-distribution-growth-150500304.html",
           "publisher": "Motley Fool",
           "published": "2026-11-04T15:05:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "VRT",
-      "name": "Vertiv",
-      "price": 205.55,
-      "previous_close": 235.97,
-      "change_pct": -12.89,
-      "market_cap": 79149170711.66115,
-      "headlines": [
-        {
-          "title": "3 Undervalued Stocks To Own In November 2026",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-undervalued-stocks-own-november-052121936.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-05T05:21:21Z"
-        },
-        {
-          "title": "Top 3 AI Infrastructure Stocks To Watch In November 2026",
-          "url": "https://finance.yahoo.com/technology/ai/articles/top-3-ai-infrastructure-stocks-051816770.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-05T05:18:16Z"
-        },
-        {
-          "title": "Vistra Sinks 16% in a Week to a New 52-Week Low. Is the Texas Selloff Overdone?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-sinks-16-week-52-022937824.html",
-          "publisher": "TIKR",
-          "published": "2026-11-05T02:29:37Z"
         }
       ]
     },
@@ -2115,13 +2089,13 @@
     },
     {
       "label": "WTI",
-      "price": 88.23,
-      "change_pct": 0.12
+      "price": 88.29,
+      "change_pct": 0.19
     },
     {
       "label": "Brent",
-      "price": 95.45,
-      "change_pct": 0.88
+      "price": 95.55,
+      "change_pct": 0.98
     },
     {
       "label": "NatGas",
