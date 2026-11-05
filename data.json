@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-05T08:03:10+00:00",
-  "as_of_local": "2026-11-05 08:03:10 UTC",
+  "as_of_utc": "2026-11-05T08:08:19+00:00",
+  "as_of_local": "2026-11-05 08:08:19 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "TLN"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -435,6 +433,12 @@
       "market_cap": 87459042411.66412,
       "headlines": [
         {
+          "title": "The Zacks Analyst Blog Highlights Comfort Systems, Quanta Services and Sterling Infrastructure",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-comfort-065400825.html",
+          "publisher": "Zacks",
+          "published": "2026-11-05T06:54:00Z"
+        },
+        {
           "title": "Why a Democratic Sweep Is Crushing GE Vernova and More Industrial Stocks",
           "url": "https://www.barrons.com/articles/ge-vernova-vertiv-eaton-ai-industrials-stocks-bf41f4bc?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
@@ -445,12 +449,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/oklo-sinks-6-comfort-systems-200416953.html",
           "publisher": "TIKR",
           "published": "2026-11-04T20:04:16Z"
-        },
-        {
-          "title": "STRL Slides 35.9% in a Month as Growth Meets Margin and Cash Risks",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/strl-slides-35-9-month-173500441.html",
-          "publisher": "Zacks",
-          "published": "2026-11-04T17:35:00Z"
         }
       ]
     },
@@ -1407,6 +1405,34 @@
       ]
     },
     {
+      "symbol": "TLN",
+      "name": "Talen Energy",
+      "price": 326.78,
+      "previous_close": 357.28,
+      "change_pct": -8.54,
+      "market_cap": 14216665802.25293,
+      "headlines": [
+        {
+          "title": "GE Vernova Soars 6%, Eaton Up 7% on Record Orders and Bernstein\u2019s Data Center Call",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-soars-6-eaton-135445573.html",
+          "publisher": "TIKR",
+          "published": "2026-11-04T13:54:45Z"
+        },
+        {
+          "title": "The Zacks Analyst Blog Highlights Oklo, Talen Energy and NuScale Power",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-oklo-070500728.html",
+          "publisher": "Zacks",
+          "published": "2026-11-04T07:05:00Z"
+        },
+        {
+          "title": "Why Talen Energy Stock Is In Focus After Buyback Expansion And Cash Flow Guidance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-talen-energy-stock-focus-061507021.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-04T06:15:07Z"
+        }
+      ]
+    },
+    {
       "symbol": "AR",
       "name": "Antero Resources",
       "price": 37.43,
@@ -2089,13 +2115,13 @@
     },
     {
       "label": "WTI",
-      "price": 87.93,
-      "change_pct": -0.22
+      "price": 88.06,
+      "change_pct": -0.07
     },
     {
       "label": "Brent",
-      "price": 95.14,
-      "change_pct": 0.55
+      "price": 95.18,
+      "change_pct": 0.59
     },
     {
       "label": "NatGas",
