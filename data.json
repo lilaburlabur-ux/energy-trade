@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-05T01:07:38+00:00",
-  "as_of_local": "2026-11-05 01:07:38 UTC",
+  "as_of_utc": "2026-11-05T01:22:32+00:00",
+  "as_of_local": "2026-11-05 01:22:32 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -97,6 +97,12 @@
       "market_cap": 220431000876.78,
       "headlines": [
         {
+          "title": "Dow Jones Futures Rise After Apple, Microsoft, Amazon Flash Buy Signals In Postelection Rally. CoreWeave, SpaceX Skid.",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-elections-oil-apple-microsoft-amazon-buy-signals-coreweave-spacex-skid/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-11-05T01:04:33Z"
+        },
+        {
           "title": "AI Data Center Backlash Is Real. The Blue Wave Takes Out Energy Stocks.",
           "url": "https://www.barrons.com/articles/ai-data-center-energy-utility-stocks-elections-37e63a25?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
@@ -107,12 +113,6 @@
           "url": "https://www.barrons.com/articles/ge-vernova-vertiv-eaton-ai-industrials-stocks-bf41f4bc?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
           "published": "2026-11-04T21:14:00Z"
-        },
-        {
-          "title": "Data Center Stocks Just Plunged After the Midterms. Is It Time to Buy the Dip?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/data-center-stocks-just-plunged-164850777.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-04T16:48:50Z"
         }
       ]
     },
@@ -598,7 +598,7 @@
       "price": 155.17,
       "previous_close": 157.89,
       "change_pct": -1.72,
-      "market_cap": 78328351621.8,
+      "market_cap": 77137260622.56,
       "headlines": [
         {
           "title": "Riley Exploration Permian, Inc. (REPX) Tops Q3 Earnings and Revenue Estimates",
@@ -1494,7 +1494,7 @@
       "price": 30.3,
       "previous_close": 30.05,
       "change_pct": 0.83,
-      "market_cap": 9374260078.15,
+      "market_cap": 9276450359.66,
       "headlines": [
         {
           "title": "Brookfield Renewable Partners Q3 Earnings Call Highlights",
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 87.92,
-      "change_pct": -8.5
+      "price": 87.71,
+      "change_pct": -8.72
     },
     {
       "label": "Brent",
-      "price": 94.56,
-      "change_pct": -8.73
+      "price": 94.4,
+      "change_pct": -8.88
     },
     {
       "label": "NatGas",
       "price": 2.94,
-      "change_pct": 1.66
+      "change_pct": 1.55
     }
   ]
 }
