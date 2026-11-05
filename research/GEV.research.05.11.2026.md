@@ -4,24 +4,24 @@ Signed file: `GEV.research.05.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $832.83 (2026-11-05, ~15-min delayed) |
+| Current price | $nan (2026-11-05, ~15-min delayed) |
 | Market cap | $220.43B |
 | Sector / Industry | Industrials / Specialty Industrial Machinery |
 | Main theme | Specialty Industrial Machinery — see catalysts below |
-| Current stance | Low technical momentum, strong fundamentals, value: fair-to-demanding, risk: high. |
+| Current stance | Moderate technical momentum, strong fundamentals, value: fair-to-demanding, risk: moderate. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-05.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-12.04%) with negative half-year (-25.49%). |
-| Fresh setup quality | Poor / broken | -29.07% from 52w high — base needs to rebuild. |
+| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
+| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 23.54%, revenue growth 26.80%. |
 | Value attractiveness | Fair-to-demanding | Forward P/E 32.20, EV/Sales 4.75. |
-| Risk level | High | Beta 1.06, ATR 6.3% of price, short float 2.79%. |
+| Risk level | Moderate | Beta 1.06, ATR nan% of price, short float 2.79%. |
 
-**Bottom line:** Low technical momentum, strong fundamentals, value: fair-to-demanding, risk: high.
+**Bottom line:** Moderate technical momentum, strong fundamentals, value: fair-to-demanding, risk: moderate.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -36,7 +36,7 @@ GE Vernova Inc., an energy company, engages in the provision of various products
 
 | Headline | Source | Date |
 |---|---|---|
-| Dow Jones Futures Rise After Apple, Microsoft, Amazon Flash Buy Signals In Postelection Rally. CoreWeave, SpaceX Skid. | Investor's Business Daily | 2026-11-05 |
+| Dow Jones Futures Rise, But Techs Tumble; Apple, Microsoft, Amazon Flash Buy Signals In Postelection Rally | Investor's Business Daily | 2026-11-05 |
 | AI Data Center Backlash Is Real. The Blue Wave Takes Out Energy Stocks. | Barrons.com | 2026-11-04 |
 | Why a Democratic Sweep Is Crushing GE Vernova and More Industrial Stocks | Barrons.com | 2026-11-04 |
 | Data Center Stocks Just Plunged After the Midterms. Is It Time to Buy the Dip? | Motley Fool | 2026-11-04 |
@@ -44,22 +44,22 @@ GE Vernova Inc., an energy company, engages in the provision of various products
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $832.83; 52w high $1,174.17 (-29.07%); 52w low $546.63 (+52.36%) |
-| Trend | -12.04% vs SMA200, -10.48% vs SMA50, -8.19% vs SMA20 |
-| Momentum | RSI(14) 40.3 (neutral) |
-| Volatility | ATR(14) 52.84 (~6.3% of price); beta 1.06 |
-| Setup perspective | -29.07% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $nan; 52w high $1,174.17 (+nan%); 52w low $546.63 (+nan%) |
+| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
+| Momentum | RSI(14) 50.8 (neutral) |
+| Volatility | ATR(14) 48.31 (~nan% of price); beta 1.06 |
+| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -5.1% |
-| Month | -19.0% |
-| Quarter | -16.7% |
-| Half Y | -25.5% |
-| 1Y | +43.6% |
-| YTD | +22.9% |
+| Week | +nan% |
+| Month | +nan% |
+| Quarter | +nan% |
+| Half Y | +nan% |
+| 1Y | +nan% |
+| YTD | +nan% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -96,8 +96,6 @@ GE Vernova Inc., an energy company, engages in the provision of various products
 
 ## 6. Risk Review and Setup Plan
 - **Valuation risk:** Forward P/E 32.20, EV/Sales 4.75. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 1.06, ATR 6.3% of price, short float 2.79%. Size positions accordingly.
-- **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -112,14 +110,14 @@ GE Vernova Inc., an energy company, engages in the provision of various products
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $832.83 | EV/Sales | 4.75 |
+| Price | $nan | EV/Sales | 4.75 |
 | Market cap | $220.43B | EV/EBITDA | 41.41 |
 | Beta | 1.06 | Gross margin | 21.79% |
-| RSI(14) | 40.3 | Operating margin | 12.77% |
-| ATR(14) | 52.84 | Profit margin | 23.54% |
-| SMA20 dist | -8.19% | ROA | 3.22% |
-| SMA50 dist | -10.48% | ROE | 93.04% |
-| SMA200 dist | -12.04% | Revenue (ttm) | $44.04B |
+| RSI(14) | 50.8 | Operating margin | 12.77% |
+| ATR(14) | 48.31 | Profit margin | 23.54% |
+| SMA20 dist | +nan% | ROA | 3.22% |
+| SMA50 dist | +nan% | ROE | 93.04% |
+| SMA200 dist | +nan% | Revenue (ttm) | $44.04B |
 | 52W high | $1,174.17 | Revenue growth y/y | 26.80% |
 | 52W low | $546.63 | Inst. ownership | 82.15% |
 | P/E (ttm) | 21.86 | Insider ownership | 0.13% |
@@ -141,7 +139,7 @@ GE Vernova Inc., an energy company, engages in the provision of various products
 | 2026-10-29 | main | TD Cowen | Buy → Buy |
 
 ## 9. Conclusion
-GEV: Low momentum / strong fundamentals / fair-to-demanding value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+GEV: Moderate momentum / strong fundamentals / fair-to-demanding value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

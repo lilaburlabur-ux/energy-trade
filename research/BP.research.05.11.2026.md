@@ -4,7 +4,7 @@ Signed file: `BP.research.05.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $45.61 (2026-11-05, ~15-min delayed) |
+| Current price | $nan (2026-11-05, ~15-min delayed) |
 | Market cap | $117.48B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
@@ -15,11 +15,11 @@ Signed file: `BP.research.05.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +37.54%; price +7.11% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -11.13% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
+| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 3.84%, revenue growth 41.40%. |
-| Value attractiveness | Reasonable | Forward P/E 7.82, EV/Sales 2.29. |
-| Risk level | Moderate | Beta -0.25, ATR 2.9% of price, short float 0.37%. |
+| Value attractiveness | Reasonable | Forward P/E 7.82, EV/Sales 2.20. |
+| Risk level | Moderate | Beta -0.25, ATR nan% of price, short float 0.37%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
@@ -44,22 +44,22 @@ BP p.l.c., an integrated energy company, engages in the oil and gas business wor
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $45.61; 52w high $51.32 (-11.13%); 52w low $32.12 (+42.01%) |
-| Trend | +7.11% vs SMA200, -1.18% vs SMA50, -6.58% vs SMA20 |
-| Momentum | RSI(14) 40.2 (neutral) |
-| Volatility | ATR(14) 1.31 (~2.9% of price); beta -0.25 |
-| Setup perspective | -11.13% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $nan; 52w high $51.32 (+nan%); 52w low $32.12 (+nan%) |
+| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
+| Momentum | RSI(14) 48.0 (neutral) |
+| Volatility | ATR(14) 1.23 (~nan% of price); beta -0.25 |
+| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -8.4% |
-| Month | +1.3% |
-| Quarter | +9.3% |
-| Half Y | +4.6% |
-| 1Y | +37.5% |
-| YTD | +32.0% |
+| Week | +nan% |
+| Month | +nan% |
+| Quarter | +nan% |
+| Half Y | +nan% |
+| 1Y | +nan% |
+| YTD | +nan% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ BP p.l.c., an integrated energy company, engages in the oil and gas business wor
 | Revenue (ttm) | $235.14B | Revenue growth 41.40% y/y |
 | Profitability | Gross 29.56%, operating 18.59%, net 3.84% | ROA 6.75%, ROE 13.42% |
 | Balance sheet | Cash $43.05B, debt $69.62B | Current ratio 1.29, debt/equity 87.47 |
-| Valuation | P/E 13.45, forward P/E 7.82, P/S 0.50, P/B 7.61 | EV/Sales 2.29, EV/EBITDA 11.41 |
+| Valuation | P/E 13.45, forward P/E 7.82, P/S 0.50, P/B 7.61 | EV/Sales 2.20, EV/EBITDA 10.98 |
 | Growth expectations | Earnings growth 305.00%, EPS q/q 304.50% | Analyst mean target $54.79 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -109,14 +109,14 @@ BP p.l.c., an integrated energy company, engages in the oil and gas business wor
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $45.61 | EV/Sales | 2.29 |
-| Market cap | $117.48B | EV/EBITDA | 11.41 |
+| Price | $nan | EV/Sales | 2.20 |
+| Market cap | $117.48B | EV/EBITDA | 10.98 |
 | Beta | -0.25 | Gross margin | 29.56% |
-| RSI(14) | 40.2 | Operating margin | 18.59% |
-| ATR(14) | 1.31 | Profit margin | 3.84% |
-| SMA20 dist | -6.58% | ROA | 6.75% |
-| SMA50 dist | -1.18% | ROE | 13.42% |
-| SMA200 dist | +7.11% | Revenue (ttm) | $235.14B |
+| RSI(14) | 48.0 | Operating margin | 18.59% |
+| ATR(14) | 1.23 | Profit margin | 3.84% |
+| SMA20 dist | +nan% | ROA | 6.75% |
+| SMA50 dist | +nan% | ROE | 13.42% |
+| SMA200 dist | +nan% | Revenue (ttm) | $235.14B |
 | 52W high | $51.32 | Revenue growth y/y | 41.40% |
 | 52W low | $32.12 | Inst. ownership | 14.12% |
 | P/E (ttm) | 13.45 | Insider ownership | 0.01% |

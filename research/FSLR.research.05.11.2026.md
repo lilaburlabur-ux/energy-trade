@@ -4,24 +4,24 @@ Signed file: `FSLR.research.05.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $194.51 (2026-11-05, ~15-min delayed) |
+| Current price | $nan (2026-11-05, ~15-min delayed) |
 | Market cap | $20.91B |
 | Sector / Industry | Technology / Solar |
 | Main theme | Solar — see catalysts below |
-| Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: high. |
+| Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-05.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-9.57%) with negative half-year (-10.78%). |
-| Fresh setup quality | Poor / broken | -38.88% from 52w high — base needs to rebuild. |
+| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
+| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 37.12%, revenue growth -22.80%. |
-| Value attractiveness | Reasonable | Forward P/E 8.43, EV/Sales 3.73. |
-| Risk level | High | Beta 1.71, ATR 4.7% of price, short float 14.10%. |
+| Value attractiveness | Reasonable | Forward P/E 8.43, EV/Sales 3.91. |
+| Risk level | High | Beta 1.71, ATR nan% of price, short float 14.10%. |
 
-**Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: high.
+**Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -44,22 +44,22 @@ First Solar, Inc., a solar technology company, provides photovoltaic (PV) solar 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $194.51; 52w high $318.25 (-38.88%); 52w low $168.15 (+15.68%) |
-| Trend | -9.57% vs SMA200, +3.81% vs SMA50, +9.53% vs SMA20 |
-| Momentum | RSI(14) 62.9 (neutral) |
-| Volatility | ATR(14) 9.14 (~4.7% of price); beta 1.71 |
-| Setup perspective | -38.88% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $nan; 52w high $318.25 (+nan%); 52w low $168.15 (+nan%) |
+| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
+| Momentum | RSI(14) 56.1 (neutral) |
+| Volatility | ATR(14) 7.62 (~nan% of price); beta 1.71 |
+| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +10.3% |
-| Month | +8.2% |
-| Quarter | -20.3% |
-| Half Y | -10.8% |
-| 1Y | -26.8% |
-| YTD | -29.1% |
+| Week | +nan% |
+| Month | +nan% |
+| Quarter | +nan% |
+| Half Y | +nan% |
+| 1Y | +nan% |
+| YTD | +nan% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ First Solar, Inc., a solar technology company, provides photovoltaic (PV) solar 
 | Revenue (ttm) | $5.01B | Revenue growth -22.80% y/y |
 | Profitability | Gross 49.25%, operating 44.37%, net 37.12% | ROA 8.60%, ROE 18.71% |
 | Balance sheet | Cash $1.62B, debt $324.97M | Current ratio 2.57, debt/equity 2.99 |
-| Valuation | P/E 11.25, forward P/E 8.43, P/S 4.17, P/B 1.92 | EV/Sales 3.73, EV/EBITDA 7.53 |
+| Valuation | P/E 11.25, forward P/E 8.43, P/S 4.17, P/B 1.92 | EV/Sales 3.91, EV/EBITDA 7.90 |
 | Growth expectations | Earnings growth 25.00%, EPS q/q 25.20% | Analyst mean target $274.24 (30 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,9 +95,8 @@ First Solar, Inc., a solar technology company, provides photovoltaic (PV) solar 
 | Morgan Stanley | 1,790,509 | 1.67% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.71, ATR 4.7% of price, short float 14.10%. Size positions accordingly.
+- **Volatility risk:** Beta 1.71, ATR nan% of price, short float 14.10%. Size positions accordingly.
 - **Short interest risk:** short float 14.10% can fuel squeezes both ways around news.
-- **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -112,14 +111,14 @@ First Solar, Inc., a solar technology company, provides photovoltaic (PV) solar 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $194.51 | EV/Sales | 3.73 |
-| Market cap | $20.91B | EV/EBITDA | 7.53 |
+| Price | $nan | EV/Sales | 3.91 |
+| Market cap | $20.91B | EV/EBITDA | 7.90 |
 | Beta | 1.71 | Gross margin | 49.25% |
-| RSI(14) | 62.9 | Operating margin | 44.37% |
-| ATR(14) | 9.14 | Profit margin | 37.12% |
-| SMA20 dist | +9.53% | ROA | 8.60% |
-| SMA50 dist | +3.81% | ROE | 18.71% |
-| SMA200 dist | -9.57% | Revenue (ttm) | $5.01B |
+| RSI(14) | 56.1 | Operating margin | 44.37% |
+| ATR(14) | 7.62 | Profit margin | 37.12% |
+| SMA20 dist | +nan% | ROA | 8.60% |
+| SMA50 dist | +nan% | ROE | 18.71% |
+| SMA200 dist | +nan% | Revenue (ttm) | $5.01B |
 | 52W high | $318.25 | Revenue growth y/y | -22.80% |
 | 52W low | $168.15 | Inst. ownership | 102.28% |
 | P/E (ttm) | 11.25 | Insider ownership | 5.36% |
@@ -141,7 +140,7 @@ First Solar, Inc., a solar technology company, provides photovoltaic (PV) solar 
 | 2026-10-30 | main | Wells Fargo | Overweight → Overweight |
 
 ## 9. Conclusion
-FSLR: Low momentum / mixed fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+FSLR: Moderate momentum / mixed fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

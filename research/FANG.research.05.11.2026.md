@@ -4,24 +4,24 @@ Signed file: `FANG.research.05.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $182.88 (2026-11-05, ~15-min delayed) |
+| Current price | $nan (2026-11-05, ~15-min delayed) |
 | Market cap | $51.07B |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
-| Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
+| Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-05.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-3.24%) with negative half-year (-5.22%). |
-| Fresh setup quality | Moderate / wait | -13.77% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
+| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 11.51%, revenue growth 44.00%. |
-| Value attractiveness | Reasonable | Forward P/E 8.45, EV/Sales 3.92. |
-| Risk level | Elevated | Beta 0.47, ATR 3.6% of price, short float 3.56%. |
+| Value attractiveness | Reasonable | Forward P/E 8.46, EV/Sales 3.92. |
+| Risk level | Moderate | Beta 0.47, ATR nan% of price, short float 3.56%. |
 
-**Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
+**Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -44,22 +44,22 @@ Diamondback Energy, Inc., an independent oil and natural gas company, acquires, 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $182.88; 52w high $212.08 (-13.77%); 52w low $134.06 (+36.42%) |
-| Trend | -3.24% vs SMA200, -6.96% vs SMA50, -8.44% vs SMA20 |
-| Momentum | RSI(14) 36.2 (neutral) |
-| Volatility | ATR(14) 6.55 (~3.6% of price); beta 0.47 |
-| Setup perspective | -13.77% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $nan; 52w high $212.08 (+nan%); 52w low $134.06 (+nan%) |
+| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
+| Momentum | RSI(14) 43.1 (neutral) |
+| Volatility | ATR(14) 6.22 (~nan% of price); beta 0.47 |
+| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -11.3% |
-| Month | -1.1% |
-| Quarter | -3.0% |
-| Half Y | -5.2% |
-| 1Y | +32.6% |
-| YTD | +22.1% |
+| Week | +nan% |
+| Month | +nan% |
+| Quarter | +nan% |
+| Half Y | +nan% |
+| 1Y | +nan% |
+| YTD | +nan% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Diamondback Energy, Inc., an independent oil and natural gas company, acquires, 
 | Revenue (ttm) | $17.83B | Revenue growth 44.00% y/y |
 | Profitability | Gross 72.73%, operating 43.01%, net 11.51% | ROA 2.05%, ROE 4.86% |
 | Balance sheet | Cash $558.00M, debt $13.23B | Current ratio 0.55, debt/equity 29.31 |
-| Valuation | P/E 25.58, forward P/E 8.45, P/S 2.86, P/B 1.41 | EV/Sales 3.92, EV/EBITDA 5.48 |
+| Valuation | P/E 24.61, forward P/E 8.46, P/S 2.86, P/B 1.31 | EV/Sales 3.92, EV/EBITDA 5.48 |
 | Growth expectations | Earnings growth 62.10%, EPS q/q 57.50% | Analyst mean target $238.90 (30 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,6 @@ Diamondback Energy, Inc., an independent oil and natural gas company, acquires, 
 | Bank Of New York Mellon Corporation | 4,851,470 | 1.73% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 0.47, ATR 3.6% of price, short float 3.56%. Size positions accordingly.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -110,21 +109,21 @@ Diamondback Energy, Inc., an independent oil and natural gas company, acquires, 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $182.88 | EV/Sales | 3.92 |
+| Price | $nan | EV/Sales | 3.92 |
 | Market cap | $51.07B | EV/EBITDA | 5.48 |
 | Beta | 0.47 | Gross margin | 72.73% |
-| RSI(14) | 36.2 | Operating margin | 43.01% |
-| ATR(14) | 6.55 | Profit margin | 11.51% |
-| SMA20 dist | -8.44% | ROA | 2.05% |
-| SMA50 dist | -6.96% | ROE | 4.86% |
-| SMA200 dist | -3.24% | Revenue (ttm) | $17.83B |
+| RSI(14) | 43.1 | Operating margin | 43.01% |
+| ATR(14) | 6.22 | Profit margin | 11.51% |
+| SMA20 dist | +nan% | ROA | 2.05% |
+| SMA50 dist | +nan% | ROE | 4.86% |
+| SMA200 dist | +nan% | Revenue (ttm) | $17.83B |
 | 52W high | $212.08 | Revenue growth y/y | 44.00% |
 | 52W low | $134.06 | Inst. ownership | 73.64% |
-| P/E (ttm) | 25.58 | Insider ownership | 23.95% |
-| Forward P/E | 8.45 | Short float | 3.56% |
+| P/E (ttm) | 24.61 | Insider ownership | 23.95% |
+| Forward P/E | 8.46 | Short float | 3.56% |
 | PEG (trailing) | 9.39 | Avg volume | 2,353,412 |
 | P/S | 2.86 | Employees | 1,762 |
-| P/B | 1.41 | Analyst rec (1=buy..5=sell) | 1.5 |
+| P/B | 1.31 | Analyst rec (1=buy..5=sell) | 1.5 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
@@ -139,7 +138,7 @@ Diamondback Energy, Inc., an independent oil and natural gas company, acquires, 
 | 2026-09-14 | main | UBS | Buy → Buy |
 
 ## 9. Conclusion
-FANG: Low momentum / mixed fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+FANG: Moderate momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

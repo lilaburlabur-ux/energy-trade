@@ -4,7 +4,7 @@ Signed file: `MPLX.research.05.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $56.25 (2026-11-05, ~15-min delayed) |
+| Current price | $nan (2026-11-05, ~15-min delayed) |
 | Market cap | $56.98B |
 | Sector / Industry | Energy / Oil & Gas Midstream |
 | Main theme | Oil & Gas Midstream — see catalysts below |
@@ -15,11 +15,11 @@ Signed file: `MPLX.research.05.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +19.58%; price +0.28% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -6.61% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
+| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 39.28%, revenue growth 10.60%. |
 | Value attractiveness | Reasonable | Forward P/E 11.75, EV/Sales 6.95. |
-| Risk level | Moderate | Beta 0.45, ATR 2.3% of price, short float 1.77%. |
+| Risk level | Moderate | Beta 0.45, ATR nan% of price, short float 1.77%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate.
 
@@ -44,22 +44,22 @@ MPLX LP owns and operates midstream energy infrastructure and logistics assets p
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $56.25; 52w high $60.23 (-6.61%); 52w low $47.37 (+18.76%) |
-| Trend | +0.28% vs SMA200, -3.54% vs SMA50, -3.09% vs SMA20 |
-| Momentum | RSI(14) 39.2 (neutral) |
-| Volatility | ATR(14) 1.27 (~2.3% of price); beta 0.45 |
-| Setup perspective | -6.61% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $nan; 52w high $60.23 (+nan%); 52w low $47.37 (+nan%) |
+| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
+| Momentum | RSI(14) 45.1 (neutral) |
+| Volatility | ATR(14) 1.20 (~nan% of price); beta 0.45 |
+| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -4.5% |
-| Month | -2.6% |
-| Quarter | -5.2% |
-| Half Y | +4.9% |
-| 1Y | +19.6% |
-| YTD | +10.5% |
+| Week | +nan% |
+| Month | +nan% |
+| Quarter | +nan% |
+| Half Y | +nan% |
+| 1Y | +nan% |
+| YTD | +nan% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -95,7 +95,6 @@ MPLX LP owns and operates midstream energy infrastructure and logistics assets p
 | UBS Group AG | 5,259,274 | 0.52% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -110,19 +109,19 @@ MPLX LP owns and operates midstream energy infrastructure and logistics assets p
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $56.25 | EV/Sales | 6.95 |
+| Price | $nan | EV/Sales | 6.95 |
 | Market cap | $56.98B | EV/EBITDA | 13.68 |
 | Beta | 0.45 | Gross margin | 55.71% |
-| RSI(14) | 39.2 | Operating margin | 38.25% |
-| ATR(14) | 1.27 | Profit margin | 39.28% |
-| SMA20 dist | -3.09% | ROA | 7.25% |
-| SMA50 dist | -3.54% | ROE | 33.69% |
-| SMA200 dist | +0.28% | Revenue (ttm) | $12.03B |
+| RSI(14) | 45.1 | Operating margin | 38.25% |
+| ATR(14) | 1.20 | Profit margin | 39.28% |
+| SMA20 dist | +nan% | ROA | 7.25% |
+| SMA50 dist | +nan% | ROE | 33.69% |
+| SMA200 dist | +nan% | Revenue (ttm) | $12.03B |
 | 52W high | $60.23 | Revenue growth y/y | 10.60% |
 | 52W low | $47.37 | Inst. ownership | 19.68% |
 | P/E (ttm) | 13.14 | Insider ownership | 64.03% |
 | Forward P/E | 11.75 | Short float | 1.77% |
-| PEG (trailing) | 3.10 | Avg volume | 1,343,993 |
+| PEG (trailing) | 3.02 | Avg volume | 1,343,993 |
 | P/S | 4.74 | Employees | 0 |
 | P/B | 4.00 | Analyst rec (1=buy..5=sell) | 2.4 |
 

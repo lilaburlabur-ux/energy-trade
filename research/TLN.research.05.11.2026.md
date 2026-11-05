@@ -4,24 +4,24 @@ Signed file: `TLN.research.05.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $326.78 (2026-11-05, ~15-min delayed) |
+| Current price | $nan (2026-11-05, ~15-min delayed) |
 | Market cap | $14.22B |
 | Sector / Industry | Utilities / Utilities - Independent Power Producers |
 | Main theme | Utilities - Independent Power Producers — see catalysts below |
-| Current stance | Low technical momentum, weak fundamentals, value: reasonable, risk: high. |
+| Current stance | Moderate technical momentum, weak fundamentals, value: reasonable, risk: elevated. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-05.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-6.35%) with negative half-year (-20.30%). |
-| Fresh setup quality | Poor / broken | -25.41% from 52w high — base needs to rebuild. |
+| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
+| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Weak | Negative profit margin (-5.67%). |
 | Value attractiveness | Reasonable | Forward P/E 11.80, EV/Sales 5.52. |
-| Risk level | High | Beta 1.58, ATR 6.2% of price, short float 9.99%. |
+| Risk level | Elevated | Beta 1.58, ATR nan% of price, short float 9.99%. |
 
-**Bottom line:** Low technical momentum, weak fundamentals, value: reasonable, risk: high.
+**Bottom line:** Moderate technical momentum, weak fundamentals, value: reasonable, risk: elevated.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -44,22 +44,22 @@ Talen Energy Corporation, an independent power producer and infrastructure compa
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $326.78; 52w high $438.12 (-25.41%); 52w low $282.15 (+15.82%) |
-| Trend | -6.35% vs SMA200, +0.14% vs SMA50, -6.98% vs SMA20 |
-| Momentum | RSI(14) 44.9 (neutral) |
-| Volatility | ATR(14) 20.10 (~6.2% of price); beta 1.58 |
-| Setup perspective | -25.41% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $nan; 52w high $438.12 (+nan%); 52w low $282.15 (+nan%) |
+| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
+| Momentum | RSI(14) 56.2 (neutral) |
+| Volatility | ATR(14) 18.59 (~nan% of price); beta 1.58 |
+| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -6.0% |
-| Month | -12.4% |
-| Quarter | -3.4% |
-| Half Y | -20.3% |
-| 1Y | -21.0% |
-| YTD | -17.6% |
+| Week | +nan% |
+| Month | +nan% |
+| Quarter | +nan% |
+| Half Y | +nan% |
+| 1Y | +nan% |
+| YTD | +nan% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -95,10 +95,9 @@ Talen Energy Corporation, an independent power producer and infrastructure compa
 | Sachem Head Capital Management, LP | 1,370,000 | 2.32% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.58, ATR 6.2% of price, short float 9.99%. Size positions accordingly.
+- **Volatility risk:** Beta 1.58, ATR nan% of price, short float 9.99%. Size positions accordingly.
 - **Short interest risk:** short float 9.99% can fuel squeezes both ways around news.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
-- **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -113,14 +112,14 @@ Talen Energy Corporation, an independent power producer and infrastructure compa
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $326.78 | EV/Sales | 5.52 |
+| Price | $nan | EV/Sales | 5.52 |
 | Market cap | $14.22B | EV/EBITDA | 43.37 |
 | Beta | 1.58 | Gross margin | 42.67% |
-| RSI(14) | 44.9 | Operating margin | 16.89% |
-| ATR(14) | 20.10 | Profit margin | -5.67% |
-| SMA20 dist | -6.98% | ROA | 0.68% |
-| SMA50 dist | +0.14% | ROE | -16.54% |
-| SMA200 dist | -6.35% | Revenue (ttm) | $4.48B |
+| RSI(14) | 56.2 | Operating margin | 16.89% |
+| ATR(14) | 18.59 | Profit margin | -5.67% |
+| SMA20 dist | +nan% | ROA | 0.68% |
+| SMA50 dist | +nan% | ROE | -16.54% |
+| SMA200 dist | +nan% | Revenue (ttm) | $4.48B |
 | 52W high | $438.12 | Revenue growth y/y | 96.10% |
 | 52W low | $282.15 | Inst. ownership | 103.13% |
 | P/E (ttm) | — | Insider ownership | 1.38% |
@@ -142,7 +141,7 @@ Talen Energy Corporation, an independent power producer and infrastructure compa
 | 2026-10-16 | init | CIBC | — → Outperformer |
 
 ## 9. Conclusion
-TLN: Low momentum / weak fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+TLN: Moderate momentum / weak fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |
