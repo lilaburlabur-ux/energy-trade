@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-05T14:03:04+00:00",
-  "as_of_local": "2026-11-05 14:03:04 UTC",
+  "as_of_utc": "2026-11-05T14:08:05+00:00",
+  "as_of_local": "2026-11-05 14:08:05 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "SLB"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -621,34 +623,6 @@
       ]
     },
     {
-      "symbol": "SLB",
-      "name": "SLB (Schlumberger)",
-      "price": 51.56,
-      "previous_close": 52.13,
-      "change_pct": -1.09,
-      "market_cap": 76104088873.2982,
-      "headlines": [
-        {
-          "title": "What Vanguard U.S. Momentum Factor ETF (VFMO) Sold: Vertiv Leads on Oct. 30",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/vanguard-u-momentum-factor-etf-110539595.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-03T11:05:39Z"
-        },
-        {
-          "title": "First Trust WCM Intl Equity ETF (WCMI) Adds Transocean, Viking on Oct. 30",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/first-trust-wcm-intl-equity-110502293.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-03T11:05:02Z"
-        },
-        {
-          "title": "ETFs Are Net Sellers of SLB (SLB) on Oct. 30",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-slb-slb-110322013.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-03T11:03:22Z"
-        }
-      ]
-    },
-    {
       "symbol": "KMI",
       "name": "Kinder Morgan",
       "price": 31.52,
@@ -1223,16 +1197,16 @@
           "published": "2026-11-05T13:12:56Z"
         },
         {
+          "title": "First Solar Stock, Peers Shine as Democrats Win Congress: What Midterm Results Mean for Solar Policy?",
+          "url": "https://finance.yahoo.com/energy/articles/first-solar-stock-peers-shine-130008029.html",
+          "publisher": "Benzinga",
+          "published": "2026-11-05T13:00:08Z"
+        },
+        {
           "title": "Buy, Sell, or Hold? Thursday\u2019s Top Upgrades and Downgrades: Block, Cisco Systems, Dollar Tree, First Solar, HubSpot, JetBlue Airways, Nike, Space-X, Skyworks Solutions, and More",
           "url": "https://finance.yahoo.com/markets/stocks/articles/buy-sell-hold-thursday-top-125920198.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-05T12:59:20Z"
-        },
-        {
-          "title": "Where Trump and the Dems Can Meet in the Middle",
-          "url": "https://www.barrons.com/articles/trump-democrats-gridlock-compromise-markets-ba8d36d1?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-11-05T10:15:00Z"
         }
       ]
     },
@@ -1993,8 +1967,8 @@
           "name": "SLB Ltd",
           "short": "SLB",
           "weight_pct": 3.74,
-          "change_pct": -1.09,
-          "price": 51.56,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -2092,8 +2066,8 @@
         "name": "SLB Ltd",
         "short": "SLB",
         "weight_pct": 3.74,
-        "change_pct": -1.09,
-        "price": 51.56,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 89.14,
-      "change_pct": 1.16
+      "price": 89.29,
+      "change_pct": 1.33
     },
     {
       "label": "Brent",
-      "price": 96.36,
-      "change_pct": 1.84
+      "price": 96.65,
+      "change_pct": 2.15
     },
     {
       "label": "NatGas",
       "price": 2.94,
-      "change_pct": -0.51
+      "change_pct": -0.57
     }
   ]
 }
