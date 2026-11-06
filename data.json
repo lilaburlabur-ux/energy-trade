@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-06T00:15:54+00:00",
-  "as_of_local": "2026-11-06 00:15:54 UTC",
+  "as_of_utc": "2026-11-06T00:20:35+00:00",
+  "as_of_local": "2026-11-06 00:20:35 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -97,22 +97,22 @@
       "market_cap": 203936328708.39697,
       "headlines": [
         {
+          "title": "What Arteris (AIP) Said on Its Q3 Earnings Call",
+          "url": "https://finance.yahoo.com/technology/articles/arteris-aip-said-q3-earnings-001431485.html",
+          "publisher": "MarketBeat",
+          "published": "2026-11-06T00:14:31Z"
+        },
+        {
+          "title": "Bloom Energy Sinks 16% Despite 900 MW NTT DATA Deal as Midterm Fears Hit AI Power Stocks",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-sinks-16-despite-000230240.html",
+          "publisher": "TIKR",
+          "published": "2026-11-06T00:02:30Z"
+        },
+        {
           "title": "Industrial Stocks Drop Amid Fears of AI Data Center Slowdown",
           "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026/card/industrial-stocks-drop-amid-fears-of-ai-data-center-slowdown-M2ehv9f5DVkImxtpdJ5i?siteid=yhoof2&yptr=yahoo",
           "publisher": "The Wall Street Journal",
           "published": "2026-11-06T00:00:07Z"
-        },
-        {
-          "title": "GE Vernova vs. NextEra Energy: Which Industrials Stock Is a Better Buy for 2027?",
-          "url": "https://finance.yahoo.com/energy/articles/ge-vernova-vs-nextera-energy-203711517.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-05T20:37:11Z"
-        },
-        {
-          "title": "GE Vernova Stocks Fall 9.1% as AI Power Expectations Reset",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-stocks-fall-9-193218521.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-05T19:32:18Z"
         }
       ]
     },
@@ -537,34 +537,6 @@
       ]
     },
     {
-      "symbol": "EOG",
-      "name": "EOG Resources",
-      "price": 144.89,
-      "previous_close": 147.06,
-      "change_pct": -1.48,
-      "market_cap": 77172547386.60934,
-      "headlines": [
-        {
-          "title": "Compared to Estimates, EOG Resources (EOG) Q3 Earnings: A Look at Key Metrics",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/compared-estimates-eog-resources-eog-220003973.html",
-          "publisher": "Zacks",
-          "published": "2026-11-05T22:00:03Z"
-        },
-        {
-          "title": "EOG Resources (EOG) Surpasses Q3 Earnings and Revenue Estimates",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/eog-resources-eog-surpasses-q3-214508603.html",
-          "publisher": "Zacks",
-          "published": "2026-11-05T21:45:08Z"
-        },
-        {
-          "title": "EOG Resources: Q3 Earnings Snapshot",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/eog-resources-q3-earnings-snapshot-212119203.html",
-          "publisher": "Associated Press",
-          "published": "2026-11-05T21:21:19Z"
-        }
-      ]
-    },
-    {
       "symbol": "PWR",
       "name": "Quanta Services",
       "price": 509.06,
@@ -589,6 +561,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/emcor-raises-2026-outlook-record-164200183.html",
           "publisher": "Zacks",
           "published": "2026-11-05T16:42:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "EOG",
+      "name": "EOG Resources",
+      "price": 144.89,
+      "previous_close": 147.06,
+      "change_pct": -1.48,
+      "market_cap": 75999031990.4928,
+      "headlines": [
+        {
+          "title": "Compared to Estimates, EOG Resources (EOG) Q3 Earnings: A Look at Key Metrics",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/compared-estimates-eog-resources-eog-220003973.html",
+          "publisher": "Zacks",
+          "published": "2026-11-05T22:00:03Z"
+        },
+        {
+          "title": "EOG Resources (EOG) Surpasses Q3 Earnings and Revenue Estimates",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/eog-resources-eog-surpasses-q3-214508603.html",
+          "publisher": "Zacks",
+          "published": "2026-11-05T21:45:08Z"
+        },
+        {
+          "title": "EOG Resources: Q3 Earnings Snapshot",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/eog-resources-q3-earnings-snapshot-212119203.html",
+          "publisher": "Associated Press",
+          "published": "2026-11-05T21:21:19Z"
         }
       ]
     },
@@ -937,6 +937,12 @@
       "market_cap": 49508395854.511215,
       "headlines": [
         {
+          "title": "Bloom Energy Sinks 16% Despite 900 MW NTT DATA Deal as Midterm Fears Hit AI Power Stocks",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-sinks-16-despite-000230240.html",
+          "publisher": "TIKR",
+          "published": "2026-11-06T00:02:30Z"
+        },
+        {
           "title": "Google plans $17 billion Wyoming data center amid rising threats of curbs",
           "url": "https://finance.yahoo.com/technology/ai/articles/google-plans-17-billion-wyoming-204551123.html",
           "publisher": "Reuters",
@@ -947,12 +953,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/credo-sinks-another-14-democratic-200212855.html",
           "publisher": "TIKR",
           "published": "2026-11-05T20:02:12Z"
-        },
-        {
-          "title": "The Stock Market Celebrated Election Day. Then the AI Trade Imploded.",
-          "url": "https://www.barrons.com/articles/stock-market-ai-stocks-tech-nasdaq-f33b2af3?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-11-05T19:04:00Z"
         }
       ]
     },
@@ -1494,7 +1494,7 @@
       "price": 30.64,
       "previous_close": 30.91,
       "change_pct": -0.87,
-      "market_cap": 9292375382.49504,
+      "market_cap": 9195420037.4664,
       "headlines": [
         {
           "title": "I Love Brookfield Renewable for 1 Reason, and It\u2019s Not the Dividend",
@@ -1637,6 +1637,12 @@
       "market_cap": 3571539021.920204,
       "headlines": [
         {
+          "title": "Bloom Energy Sinks 16% Despite 900 MW NTT DATA Deal as Midterm Fears Hit AI Power Stocks",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-sinks-16-despite-000230240.html",
+          "publisher": "TIKR",
+          "published": "2026-11-06T00:02:30Z"
+        },
+        {
           "title": "Oklo Sank 10% a Day After the Democratic Sweep Rattled AI Power Stocks. Here\u2019s What Friday\u2019s Report Has to Settle",
           "url": "https://finance.yahoo.com/markets/stocks/articles/oklo-sank-10-day-democratic-152553806.html",
           "publisher": "TIKR",
@@ -1647,12 +1653,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/dear-oklo-stock-fans-mark-151015896.html",
           "publisher": "Barchart",
           "published": "2026-11-05T15:10:15Z"
-        },
-        {
-          "title": "NuScale's Modular Reactors Offer Flexible Clean Energy Supply",
-          "url": "https://finance.yahoo.com/energy/articles/nuscales-modular-reactors-offer-flexible-133800683.html",
-          "publisher": "Zacks",
-          "published": "2026-11-05T13:38:00Z"
         }
       ]
     },
@@ -2115,13 +2115,13 @@
     },
     {
       "label": "WTI",
-      "price": 91.08,
-      "change_pct": 3.36
+      "price": 91.13,
+      "change_pct": 3.42
     },
     {
       "label": "Brent",
-      "price": 99.01,
-      "change_pct": 4.64
+      "price": 99.08,
+      "change_pct": 4.71
     },
     {
       "label": "NatGas",
