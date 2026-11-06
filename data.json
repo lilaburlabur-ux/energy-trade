@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-06T13:08:35+00:00",
-  "as_of_local": "2026-11-06 13:08:35 UTC",
+  "as_of_utc": "2026-11-06T13:12:21+00:00",
+  "as_of_local": "2026-11-06 13:12:21 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "EOG"
+    "AR"
   ],
   "stocks": [
     {
@@ -183,6 +183,12 @@
       "market_cap": 165030114367.68414,
       "headlines": [
         {
+          "title": "Earnings live updates: Moderna stock pops after COVID vaccine sales drive revenue growth, raised outlook",
+          "url": "https://finance.yahoo.com/markets/live/earnings-live-updates-apple-palantir-roku-and-more-212856249.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-02T21:28:56Z"
+        },
+        {
           "title": "ConocoPhillips Q3 Earnings Beat Estimates on Higher Commodity Prices",
           "url": "https://finance.yahoo.com/energy/articles/conocophillips-q3-earnings-beat-estimates-112600636.html",
           "publisher": "Zacks",
@@ -193,12 +199,6 @@
           "url": "https://finance.yahoo.com/energy/articles/state-street-energy-spdr-xle-110525697.html",
           "publisher": "GuruFocus.com",
           "published": "2026-11-06T11:05:25Z"
-        },
-        {
-          "title": "ETFs Are Net Sellers of ConocoPhillips (COP) on Nov. 4",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-conocophillips-cop-110328169.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-06T11:03:28Z"
         }
       ]
     },
@@ -1275,6 +1275,12 @@
       "market_cap": 16932455047.161484,
       "headlines": [
         {
+          "title": "Algonquin Power & Utilities (AQN) Q3 Earnings and Revenues Beat Estimates",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/algonquin-power-utilities-aqn-q3-115502363.html",
+          "publisher": "Zacks",
+          "published": "2026-11-06T11:55:02Z"
+        },
+        {
           "title": "What NRG Energy (NRG)'s Revenue Beat Means For Shareholders",
           "url": "https://finance.yahoo.com/markets/stocks/articles/nrg-energy-nrg-revenue-beat-111527395.html",
           "publisher": "Simply Wall St.",
@@ -1285,12 +1291,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/nrg-energy-nrg-stock-sees-032651283.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-06T03:26:51Z"
-        },
-        {
-          "title": "Is NRG Energy (NRG) Undervalued Following Its Mixed Quarterly Report?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nrg-energy-nrg-undervalued-following-001954778.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-06T00:19:54Z"
         }
       ]
     },
@@ -1431,34 +1431,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-oklo-070500728.html",
           "publisher": "Zacks",
           "published": "2026-11-04T07:05:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "AR",
-      "name": "Antero Resources",
-      "price": 36.38,
-      "previous_close": 37.43,
-      "change_pct": -2.81,
-      "market_cap": 11173608008.05664,
-      "headlines": [
-        {
-          "title": "Why Is Everyone Ignoring Expand Energy Stock's High Cash Yield?",
-          "url": "https://finance.yahoo.com/energy/articles/why-everyone-ignoring-expand-energy-000859092.html",
-          "publisher": "Trefis",
-          "published": "2026-11-06T00:08:59Z"
-        },
-        {
-          "title": "1 growth stock to add to your roster and 2 we turn down",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/1-growth-stock-add-roster-115736291.html",
-          "publisher": "StockStory",
-          "published": "2026-11-03T11:57:36Z"
-        },
-        {
-          "title": "Eni Begins Maha Gas Production, Boosting Indonesia's Offshore Output",
-          "url": "https://finance.yahoo.com/energy/articles/eni-begins-maha-gas-production-160100997.html",
-          "publisher": "Zacks",
-          "published": "2026-11-02T16:01:00Z"
         }
       ]
     },
@@ -1986,8 +1958,8 @@
           "name": "EOG Resources Inc",
           "short": "EOG Resources",
           "weight_pct": 4.07,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": -1.48,
+          "price": 144.89,
           "currency": "USD"
         },
         {
@@ -2085,8 +2057,8 @@
         "name": "EOG Resources Inc",
         "short": "EOG Resources",
         "weight_pct": 4.07,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": -1.48,
+        "price": 144.89,
         "currency": "USD"
       },
       {
@@ -2117,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 90.22,
-      "change_pct": -0.33
+      "price": 90.48,
+      "change_pct": -0.04
     },
     {
       "label": "Brent",
-      "price": 97.78,
-      "change_pct": -0.52
+      "price": 98.1,
+      "change_pct": -0.19
     },
     {
       "label": "NatGas",
-      "price": 2.99,
-      "change_pct": 1.53
+      "price": 3.0,
+      "change_pct": 1.8
     }
   ]
 }
