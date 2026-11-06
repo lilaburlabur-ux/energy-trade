@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-06T22:26:46+00:00",
+  "as_of": "2026-11-06T22:31:58+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -54,6 +54,22 @@
    "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeWJuaDZEMU13TlB5bUM2VFdtRUxaSkh5dDk3V2lEclhiLXV2VDdwdlZnUWxDbkNRNVVqNTVNMVcwVEFhZjUtZ3F3ZnJCczlIVDZTdVcwX3VCRzVBM05EMGJleHp5QVNMRW5wVldZdm83Tzd6cU5JektRVmQ0RHlTT1dxSFJmTEMwc0NERER1QlhFYUZyN1ZPdWI5TDk5d0Y3LWZBQkFscFNwUDI1N3VPNGRzRWhLRkd2aklkYUhjNDNRWjMxa2FydjhlTQ?oc=5",
    "published": "2026-11-06T21:30:00+00:00",
    "sector": "Grid, Storage & Electrification"
+  },
+  {
+   "rank": 4,
+   "ticker": "CCJ",
+   "company": "Cameco Corporation",
+   "move_pct": 5.27,
+   "price": 71.93,
+   "volume": 5249919,
+   "volume_vs_avg": "~1.4x",
+   "heat_score": 40,
+   "direction": "up",
+   "why": "Cameco (NYSE:CCJ) Stock Sees Heavy Call Option Buying",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSlAxWDVEWkhUWVR1SmNnVm1DU1pEWV9WLUs4T3hOSGNzSjA3djVRYXNQY0lZWXVTN3RCdmhsSXRvdGhpZWlkX0h5MFNldGhFSGQwMlFuTkc3TlVkZ09HZmZwd05qMjJfcUQ5LWRlZzhwUXg3QWl6UTdBXzlZczhxWGxxOFJycENlSUlxcl83bnBOSmJSM0FwVlVibXR0MlptY2EwVzU0eFRyOHBURVdVRHhkWQ?oc=5",
+   "published": "2026-11-06T18:44:18+00:00",
+   "sector": "Nuclear & Uranium"
   }
  ]
 }
