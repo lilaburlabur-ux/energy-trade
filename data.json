@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-06T21:01:22+00:00",
-  "as_of_local": "2026-11-06 21:01:22 UTC",
+  "as_of_utc": "2026-11-06T21:06:32+00:00",
+  "as_of_local": "2026-11-06 21:06:32 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "FLNC"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1855,6 +1853,34 @@
       ]
     },
     {
+      "symbol": "FLNC",
+      "name": "Fluence Energy",
+      "price": 5.27,
+      "previous_close": 5.09,
+      "change_pct": 3.43,
+      "market_cap": 754472106.0293713,
+      "headlines": [
+        {
+          "title": "Top clean energy stocks to watch as Democratic sweep improves outlook",
+          "url": "https://finance.yahoo.com/energy/articles/top-clean-energy-stocks-watch-125922163.html",
+          "publisher": "Investing.com",
+          "published": "2026-11-04T12:59:22Z"
+        },
+        {
+          "title": "Fluence Energy names interim CEO, CFO amid supply chain hiccups",
+          "url": "https://finance.yahoo.com/energy/articles/fluence-energy-names-interim-ceo-203323572.html",
+          "publisher": "CFO Dive",
+          "published": "2026-11-03T20:33:23Z"
+        },
+        {
+          "title": "Enlight Renewable Energy Ltd. (ENLT) Q3 Earnings and Revenues Top Estimates",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/enlight-renewable-energy-ltd-enlt-112502901.html",
+          "publisher": "Zacks",
+          "published": "2026-11-03T11:25:02Z"
+        }
+      ]
+    },
+    {
       "symbol": "EOSE",
       "name": "Eos Energy",
       "price": 1.74,
@@ -2084,23 +2110,23 @@
   "tape": [
     {
       "label": "SPX",
-      "price": 7376.92,
-      "change_pct": 0.32
+      "price": 7376.86,
+      "change_pct": 0.31
     },
     {
       "label": "WTI",
-      "price": 90.72,
-      "change_pct": 0.22
+      "price": 90.55,
+      "change_pct": 0.03
     },
     {
       "label": "Brent",
-      "price": 98.16,
-      "change_pct": -0.13
+      "price": 97.94,
+      "change_pct": -0.36
     },
     {
       "label": "NatGas",
       "price": 2.97,
-      "change_pct": 0.81
+      "change_pct": 0.78
     }
   ]
 }
