@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-06T14:23:20+00:00",
-  "as_of_local": "2026-11-06 14:23:20 UTC",
+  "as_of_utc": "2026-11-06T14:28:24+00:00",
+  "as_of_local": "2026-11-06 14:28:24 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "SO"
+    "LNG"
   ],
   "stocks": [
     {
@@ -255,6 +255,34 @@
           "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-drop-thursday-210255557.html",
           "publisher": "MT Newswires",
           "published": "2026-11-05T21:02:55Z"
+        }
+      ]
+    },
+    {
+      "symbol": "SO",
+      "name": "Southern Company",
+      "price": 93.34,
+      "previous_close": 93.12,
+      "change_pct": 0.24,
+      "market_cap": 108672120183.20877,
+      "headlines": [
+        {
+          "title": "These 6 Utility Stocks Offer Income and a Link to Power Demand",
+          "url": "https://finance.yahoo.com/energy/articles/6-utility-stocks-offer-income-133500395.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-06T13:35:00Z"
+        },
+        {
+          "title": "PPL Reports Soon: How Has The Stock Reacted To Past Earnings?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ppl-reports-soon-stock-reacted-041643196.html",
+          "publisher": "Trefis",
+          "published": "2026-11-06T04:16:43Z"
+        },
+        {
+          "title": "Southern Co (SO) (Q3 2026) Earnings Call Highlights: Soaring Data Center Demand and Raised Guidance",
+          "url": "https://finance.yahoo.com/energy/articles/southern-co-q3-2026-earnings-031904789.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-06T03:19:04Z"
         }
       ]
     },
@@ -511,34 +539,6 @@
       ]
     },
     {
-      "symbol": "EOG",
-      "name": "EOG Resources",
-      "price": 144.89,
-      "previous_close": 147.06,
-      "change_pct": -1.48,
-      "market_cap": 77172547386.60934,
-      "headlines": [
-        {
-          "title": "Time to Cash Out? 4 Energy Stocks I'd Sell Before It's Too Late",
-          "url": "https://finance.yahoo.com/energy/articles/time-cash-4-energy-stocks-033500680.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-06T03:35:00Z"
-        },
-        {
-          "title": "EOG Resources Lifts Dividend 8% as Q3 Profit Surges 89%",
-          "url": "https://finance.yahoo.com/energy/articles/eog-resources-lifts-dividend-8-024000468.html",
-          "publisher": "Oilprice.com",
-          "published": "2026-11-06T02:40:00Z"
-        },
-        {
-          "title": "Compared to Estimates, EOG Resources (EOG) Q3 Earnings: A Look at Key Metrics",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/compared-estimates-eog-resources-eog-220003973.html",
-          "publisher": "Zacks",
-          "published": "2026-11-05T22:00:03Z"
-        }
-      ]
-    },
-    {
       "symbol": "PWR",
       "name": "Quanta Services",
       "price": 509.06,
@@ -563,6 +563,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-stock-real-bargain-040023182.html",
           "publisher": "Trefis",
           "published": "2026-11-06T04:00:23Z"
+        }
+      ]
+    },
+    {
+      "symbol": "EOG",
+      "name": "EOG Resources",
+      "price": 144.89,
+      "previous_close": 147.06,
+      "change_pct": -1.48,
+      "market_cap": 75999031990.4928,
+      "headlines": [
+        {
+          "title": "Time to Cash Out? 4 Energy Stocks I'd Sell Before It's Too Late",
+          "url": "https://finance.yahoo.com/energy/articles/time-cash-4-energy-stocks-033500680.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-06T03:35:00Z"
+        },
+        {
+          "title": "EOG Resources Lifts Dividend 8% as Q3 Profit Surges 89%",
+          "url": "https://finance.yahoo.com/energy/articles/eog-resources-lifts-dividend-8-024000468.html",
+          "publisher": "Oilprice.com",
+          "published": "2026-11-06T02:40:00Z"
+        },
+        {
+          "title": "Compared to Estimates, EOG Resources (EOG) Q3 Earnings: A Look at Key Metrics",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/compared-estimates-eog-resources-eog-220003973.html",
+          "publisher": "Zacks",
+          "published": "2026-11-05T22:00:03Z"
         }
       ]
     },
@@ -759,34 +787,6 @@
           "url": "https://finance.yahoo.com/energy/articles/mpc-q3-earnings-beat-estimates-162400083.html",
           "publisher": "Zacks",
           "published": "2026-11-04T16:24:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "LNG",
-      "name": "Cheniere Energy",
-      "price": 279.57,
-      "previous_close": 292.02,
-      "change_pct": -4.26,
-      "market_cap": 57089289732.614136,
-      "headlines": [
-        {
-          "title": "QatarEnergy eyes more US LNG deals to shield supply from Mideast conflict - report",
-          "url": "https://finance.yahoo.com/energy/articles/qatarenergy-eyes-more-us-lng-181315275.html",
-          "publisher": "Investing.com",
-          "published": "2026-11-05T18:13:15Z"
-        },
-        {
-          "title": "Qatar in Talks to Buy More US LNG, Diversify Supply Outside Persian Gulf",
-          "url": "https://finance.yahoo.com/energy/articles/qatar-talks-buy-more-us-165623170.html",
-          "publisher": "Bloomberg",
-          "published": "2026-11-05T16:56:23Z"
-        },
-        {
-          "title": "3 LNG Stocks Investors Are Watching As Long Term Gas Contracts Return",
-          "url": "https://finance.yahoo.com/energy/articles/3-lng-stocks-investors-watching-051934435.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-05T05:19:34Z"
         }
       ]
     },
@@ -1468,7 +1468,7 @@
       "price": 30.64,
       "previous_close": 30.91,
       "change_pct": -0.87,
-      "market_cap": 9292375382.49504,
+      "market_cap": 9195420037.4664,
       "headlines": [
         {
           "title": "I Love Brookfield Renewable for 1 Reason, and It\u2019s Not the Dividend",
@@ -2089,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 90.78,
-      "change_pct": 0.29
+      "price": 90.77,
+      "change_pct": 0.28
     },
     {
       "label": "Brent",
-      "price": 98.34,
-      "change_pct": 0.05
+      "price": 98.3,
+      "change_pct": 0.01
     },
     {
       "label": "NatGas",
       "price": 2.97,
-      "change_pct": 0.92
+      "change_pct": 0.78
     }
   ]
 }
