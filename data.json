@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-06T11:21:07+00:00",
-  "as_of_local": "2026-11-06 11:21:07 UTC",
+  "as_of_utc": "2026-11-06T11:26:01+00:00",
+  "as_of_local": "2026-11-06 11:26:01 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -97,6 +97,12 @@
       "market_cap": 203936328708.39697,
       "headlines": [
         {
+          "title": "The AI Trade Selloff Is Crushing Industrial Stocks. What Caterpillar\u2019s Valuation Tells Us.",
+          "url": "https://www.barrons.com/articles/ai-stock-selloff-caterpillar-valuation-analysis-20904e44?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-11-06T11:09:00Z"
+        },
+        {
           "title": "AI Stocks Are Rebounding Ahead of the Bell",
           "url": "https://www.wsj.com/livecoverage/october-jobs-report-stock-market-11-06-2026/card/ai-stocks-are-rebounding-ahead-of-the-bell-p1xVERXJJ2JryqTCNQwh?siteid=yhoof2&yptr=yahoo",
           "publisher": "The Wall Street Journal",
@@ -107,12 +113,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-stock-real-bargain-040023182.html",
           "publisher": "Trefis",
           "published": "2026-11-06T04:00:23Z"
-        },
-        {
-          "title": "GE Vernova Is Up 18% in 2026 After Three Guidance Raises: Take Profits, or Buy More?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-18-2026-three-005025818.html",
-          "publisher": "TIKR",
-          "published": "2026-11-06T00:50:25Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 90.83,
-      "change_pct": 0.34
+      "price": 90.93,
+      "change_pct": 0.45
     },
     {
       "label": "Brent",
-      "price": 98.37,
-      "change_pct": 0.08
+      "price": 98.51,
+      "change_pct": 0.22
     },
     {
       "label": "NatGas",
       "price": 3.01,
-      "change_pct": 2.1
+      "change_pct": 1.97
     }
   ]
 }
