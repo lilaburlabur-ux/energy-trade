@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-06T05:48:51+00:00",
+  "as_of": "2026-11-06T08:02:23+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,22 +9,6 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "VRT",
-   "company": "Vertiv Holdings, LLC",
-   "move_pct": -14.02,
-   "price": 176.73,
-   "volume": 19255900,
-   "volume_vs_avg": "~3x",
-   "heat_score": 89,
-   "direction": "down",
-   "why": "Vertiv Holdings, LLC (VRT) Stock Forecasts",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeGwwVHVWSWZCbU1Zc0ZlRUNEZ0tTaHJmX3huMkRqRG5qbS00bzhXQXlkNi13M203UEVSUzMtaWl4ZHJ6ak9iZVg5dmZGdUZReWlLRlhJR29TNGNaVDA3SnB4OFFPbXptLXhhVktrbnY3SkhWa0oyZkJRXzRHNWt6WUVPU2Y1N2ZOekQ1aQ?oc=5",
-   "published": "2026-11-06T04:56:06+00:00",
-   "sector": "Grid, Storage & Electrification"
-  },
-  {
-   "rank": 2,
    "ticker": "BE",
    "company": "Bloom Energy Corporation",
    "move_pct": -16.41,
@@ -40,7 +24,7 @@
    "sector": "Grid, Storage & Electrification"
   },
   {
-   "rank": 3,
+   "rank": 2,
    "ticker": "PWR",
    "company": "Quanta Services, Inc.",
    "move_pct": -12.3,
@@ -49,14 +33,14 @@
    "volume_vs_avg": "~4x",
    "heat_score": 88,
    "direction": "down",
-   "why": "Quanta Services, Inc. (PWR) Stock Forecasts",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNajBqeGEzejVqWU5vZHBNUGw5WW9ldVhEcE9pQ3pqbXVTc2ZYQ09UQUlHMjNfM0xZdmhwV18wMXpMWlphamNmS3ZDS1lCME43cmFxVVBLTzRQVDR6czlBM3BWYU5mSWZWMzY4bC1hbXFHM2lxMjlONi12OHdHcXBJX2JfelNSRk9vVFdWYw?oc=5",
-   "published": "2026-11-06T04:56:07+00:00",
+   "why": "Quanta Services (PWR) Raised Guidance, Is The Pullback A Valuation Gap?",
+   "catalyst_type": "earnings",
+   "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZVFSdmlPWGdPdlp5aVZueFpJR1MyejUxSFdZdGVRTXkwY3FTQy1wUUl6SWJiaUxCVURkUVkyNGhQajd0LXg1ZnowT01DelV3cGg3UjdaaVFWdTBvb0JwMzZjU3RLaHNSNnBmTEhMV2Z2clA2ejBwM2NjM3I4dmJQbWZNdlNfTmxXNWNwRllXU1Z1SHFMcEtRZWYwazlVRmpQVWc?oc=5",
+   "published": "2026-11-06T06:10:26+00:00",
    "sector": "Grid, Storage & Electrification"
   },
   {
-   "rank": 4,
+   "rank": 3,
    "ticker": "RUN",
    "company": "Sunrun Inc.",
    "move_pct": 12.29,
@@ -72,23 +56,7 @@
    "sector": "Renewables & Solar"
   },
   {
-   "rank": 5,
-   "ticker": "ETN",
-   "company": "Eaton Corporation, PLC",
-   "move_pct": -7.38,
-   "price": 327.02,
-   "volume": 6593500,
-   "volume_vs_avg": "~3x",
-   "heat_score": 54,
-   "direction": "down",
-   "why": "What Are Eaton Stock Bulls Not Worried About?",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZXNod21ZUXlNOTZOT3ZoT1Q0a1ZFWFhBQVVuWUZXYjVYZHRnRmtJblNhdi1kWHdpM2hHNnFOdUs5M0s2czEzV2FKV25WZFVIQVJQVGxDZzYwbkVERnRrbWRpRmR6VzFuNjltSXVGVThUTXNQSmdBSUc1QVljNkpUdUVyQnFiWGxfcnR0NGwwdXlnbmR6YVJIN25NYm5kWkJndko5Q3NEUQ?oc=5",
-   "published": "2026-11-06T03:33:09+00:00",
-   "sector": "Grid, Storage & Electrification"
-  },
-  {
-   "rank": 6,
+   "rank": 4,
    "ticker": "BKR",
    "company": "Baker Hughes Company",
    "move_pct": -7.36,
@@ -102,22 +70,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNS0hrd3hsNHBPRFU3eVBrN05CZEVFZDVPNVdOSFJoOFNucTExVHBUUU9jdFN5M1YwZlExOE5XODR4X216R1FkcURIa3I3MWVUUWFRRVNQTGZPbEJLajVUVXFtYjZxcTJvZkF2OS10MmdQaUZOd1QtVFdwVHBTNkdKSjNlWEhoODFDNjVPVQ?oc=5",
    "published": "2026-11-06T04:56:06+00:00",
    "sector": "Oilfield Services"
-  },
-  {
-   "rank": 7,
-   "ticker": "VST",
-   "company": "Vistra Corp.",
-   "move_pct": -6.15,
-   "price": 112.89,
-   "volume": 15275600,
-   "volume_vs_avg": "~2x",
-   "heat_score": 47,
-   "direction": "down",
-   "why": "Vistra Corp. (VST) Stock Forecasts",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPU0Q4ODlDbkFCa0JDZzJnd2p6R3B6NXJ4ZUdTV0dnaVd6emlMbTZmTFRvLWJQc2tTeHo4MkJUcWVZTnJ6eU16NC1QaVh6YnVGckp1U3JFdWZ5dzN3Q0hZOGdKeDJsejE4djVFdndQVnhhQ0ZhUWFhU2wzYUNMQ2dRZEhqRXctbmdGSmJ5Uw?oc=5",
-   "published": "2026-11-06T04:28:40+00:00",
-   "sector": "Power & IPPs"
   }
  ]
 }
