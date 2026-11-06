@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-06T12:31:40+00:00",
-  "as_of_local": "2026-11-06 12:31:40 UTC",
+  "as_of_utc": "2026-11-06T12:36:48+00:00",
+  "as_of_local": "2026-11-06 12:36:48 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "WMB"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -183,6 +181,12 @@
       "market_cap": 165030114367.68414,
       "headlines": [
         {
+          "title": "ConocoPhillips Q3 Earnings Beat Estimates on Higher Commodity Prices",
+          "url": "https://finance.yahoo.com/energy/articles/conocophillips-q3-earnings-beat-estimates-112600636.html",
+          "publisher": "Zacks",
+          "published": "2026-11-06T11:26:00Z"
+        },
+        {
           "title": "State Street Energy SPDR (XLE) Sells $75.9 Million of Exxon on Nov. 4",
           "url": "https://finance.yahoo.com/energy/articles/state-street-energy-spdr-xle-110525697.html",
           "publisher": "GuruFocus.com",
@@ -193,12 +197,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-conocophillips-cop-110328169.html",
           "publisher": "GuruFocus.com",
           "published": "2026-11-06T11:03:28Z"
-        },
-        {
-          "title": "ConocoPhillips (COP) (Q3 2026) Earnings Call Highlights: $4 Billion Free Cash Flow, 11% ...",
-          "url": "https://finance.yahoo.com/energy/articles/conocophillips-cop-q3-2026-earnings-031728903.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-06T03:17:28Z"
         }
       ]
     },
@@ -351,6 +349,12 @@
       "market_cap": 100687414411.3706,
       "headlines": [
         {
+          "title": "ConocoPhillips Q3 Earnings Beat Estimates on Higher Commodity Prices",
+          "url": "https://finance.yahoo.com/energy/articles/conocophillips-q3-earnings-beat-estimates-112600636.html",
+          "publisher": "Zacks",
+          "published": "2026-11-06T11:26:00Z"
+        },
+        {
           "title": "Orlen SA (PSKOF) (Q3 2026) Earnings Call Highlights: Record Revenue, Resilient Strategy, and ...",
           "url": "https://finance.yahoo.com/markets/stocks/articles/orlen-sa-pskof-q3-2026-031813655.html",
           "publisher": "GuruFocus.com",
@@ -361,12 +365,6 @@
           "url": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-american-160548220.html",
           "publisher": "MT Newswires",
           "published": "2026-11-05T16:05:48Z"
-        },
-        {
-          "title": "Equinor (OB:EQNR) Rolls Out Resident AUVs As U.S. Lithium Project Nears Decision",
-          "url": "https://finance.yahoo.com/energy/articles/equinor-ob-eqnr-rolls-resident-191415268.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-04T19:14:15Z"
         }
       ]
     },
@@ -455,6 +453,34 @@
       ]
     },
     {
+      "symbol": "WMB",
+      "name": "Williams Companies",
+      "price": 64.25,
+      "previous_close": 67.86,
+      "change_pct": -5.32,
+      "market_cap": 80325511653.0,
+      "headlines": [
+        {
+          "title": "ETFs Are Net Sellers of Williams (WMB) on Nov. 4",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-williams-wmb-110344609.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-06T11:03:44Z"
+        },
+        {
+          "title": "A $750,000 Dividend Portfolio Could Cost You $9,000 a Year in Taxes. Here\u2019s How",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/750-000-dividend-portfolio-could-174836690.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-05T17:48:36Z"
+        },
+        {
+          "title": "Murphy Oil Q3 Earnings Beat Estimates on Strong Prices & Lower Costs",
+          "url": "https://finance.yahoo.com/energy/articles/murphy-oil-q3-earnings-beat-164800166.html",
+          "publisher": "Zacks",
+          "published": "2026-11-05T16:48:00Z"
+        }
+      ]
+    },
+    {
       "symbol": "SU",
       "name": "Suncor Energy",
       "price": 69.06,
@@ -511,6 +537,34 @@
       ]
     },
     {
+      "symbol": "EOG",
+      "name": "EOG Resources",
+      "price": 144.89,
+      "previous_close": 147.06,
+      "change_pct": -1.48,
+      "market_cap": 77172547386.60934,
+      "headlines": [
+        {
+          "title": "Time to Cash Out? 4 Energy Stocks I'd Sell Before It's Too Late",
+          "url": "https://finance.yahoo.com/energy/articles/time-cash-4-energy-stocks-033500680.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-06T03:35:00Z"
+        },
+        {
+          "title": "EOG Resources Lifts Dividend 8% as Q3 Profit Surges 89%",
+          "url": "https://finance.yahoo.com/energy/articles/eog-resources-lifts-dividend-8-024000468.html",
+          "publisher": "Oilprice.com",
+          "published": "2026-11-06T02:40:00Z"
+        },
+        {
+          "title": "Compared to Estimates, EOG Resources (EOG) Q3 Earnings: A Look at Key Metrics",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/compared-estimates-eog-resources-eog-220003973.html",
+          "publisher": "Zacks",
+          "published": "2026-11-05T22:00:03Z"
+        }
+      ]
+    },
+    {
       "symbol": "PWR",
       "name": "Quanta Services",
       "price": 509.06,
@@ -535,34 +589,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-stock-real-bargain-040023182.html",
           "publisher": "Trefis",
           "published": "2026-11-06T04:00:23Z"
-        }
-      ]
-    },
-    {
-      "symbol": "EOG",
-      "name": "EOG Resources",
-      "price": 144.89,
-      "previous_close": 147.06,
-      "change_pct": -1.48,
-      "market_cap": 75999031990.4928,
-      "headlines": [
-        {
-          "title": "Time to Cash Out? 4 Energy Stocks I'd Sell Before It's Too Late",
-          "url": "https://finance.yahoo.com/energy/articles/time-cash-4-energy-stocks-033500680.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-06T03:35:00Z"
-        },
-        {
-          "title": "EOG Resources Lifts Dividend 8% as Q3 Profit Surges 89%",
-          "url": "https://finance.yahoo.com/energy/articles/eog-resources-lifts-dividend-8-024000468.html",
-          "publisher": "Oilprice.com",
-          "published": "2026-11-06T02:40:00Z"
-        },
-        {
-          "title": "Compared to Estimates, EOG Resources (EOG) Q3 Earnings: A Look at Key Metrics",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/compared-estimates-eog-resources-eog-220003973.html",
-          "publisher": "Zacks",
-          "published": "2026-11-05T22:00:03Z"
         }
       ]
     },
@@ -1468,7 +1494,7 @@
       "price": 30.64,
       "previous_close": 30.91,
       "change_pct": -0.87,
-      "market_cap": 9195420037.4664,
+      "market_cap": 9292375382.49504,
       "headlines": [
         {
           "title": "I Love Brookfield Renewable for 1 Reason, and It\u2019s Not the Dividend",
@@ -1949,8 +1975,8 @@
           "name": "Williams Companies Inc",
           "short": "Williams",
           "weight_pct": 4.12,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": -5.32,
+          "price": 64.25,
           "currency": "USD"
         },
         {
@@ -2048,8 +2074,8 @@
         "name": "Williams Companies Inc",
         "short": "Williams",
         "weight_pct": 4.12,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": -5.32,
+        "price": 64.25,
         "currency": "USD"
       },
       {
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 90.95,
-      "change_pct": 0.48
+      "price": 90.54,
+      "change_pct": 0.02
     },
     {
       "label": "Brent",
-      "price": 98.73,
-      "change_pct": 0.45
+      "price": 98.16,
+      "change_pct": -0.13
     },
     {
       "label": "NatGas",
       "price": 3.0,
-      "change_pct": 1.8
+      "change_pct": 1.83
     }
   ]
 }
