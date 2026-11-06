@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-06T13:42:50+00:00",
-  "as_of_local": "2026-11-06 13:42:50 UTC",
+  "as_of_utc": "2026-11-06T13:47:46+00:00",
+  "as_of_local": "2026-11-06 13:47:46 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "DUK"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -311,6 +309,34 @@
           "url": "https://finance.yahoo.com/energy/articles/st-paul-park-refinery-sold-193900072.html",
           "publisher": "Pioneer Press, St. Paul, Minn.",
           "published": "2026-11-05T19:39:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "DUK",
+      "name": "Duke Energy",
+      "price": 130.08,
+      "previous_close": 129.59,
+      "change_pct": 0.38,
+      "market_cap": 101423662693.11736,
+      "headlines": [
+        {
+          "title": "These 6 Utility Stocks Offer Income and a Link to Power Demand",
+          "url": "https://finance.yahoo.com/energy/articles/6-utility-stocks-offer-income-133500395.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-06T13:35:00Z"
+        },
+        {
+          "title": "PPL Reports Soon: How Has The Stock Reacted To Past Earnings?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ppl-reports-soon-stock-reacted-041643196.html",
+          "publisher": "Trefis",
+          "published": "2026-11-06T04:16:43Z"
+        },
+        {
+          "title": "Here Is What The Trailing P/E Misses About Constellation Energy Stock",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/trailing-p-e-misses-constellation-021449906.html",
+          "publisher": "Trefis",
+          "published": "2026-11-06T02:14:49Z"
         }
       ]
     },
@@ -693,16 +719,16 @@
           "published": "2026-11-06T13:35:00Z"
         },
         {
+          "title": "5 High-Yield Dividend Stocks That Could Hold Up When the Market Falls",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/5-high-yield-dividend-stocks-133258254.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-06T13:32:58Z"
+        },
+        {
           "title": "Dominion Energy (D) Stock Looks In Line Following Offshore Wind Progress",
           "url": "https://finance.yahoo.com/markets/stocks/articles/dominion-energy-d-stock-looks-080937246.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-06T08:09:37Z"
-        },
-        {
-          "title": "Virginia Chamber of Commerce promotes study touting Dominion merger benefits",
-          "url": "https://finance.yahoo.com/energy/articles/virginia-chamber-commerce-promotes-study-002700809.html",
-          "publisher": "The Virginian-Pilot",
-          "published": "2026-11-06T00:27:00Z"
         }
       ]
     },
@@ -2094,13 +2120,13 @@
     },
     {
       "label": "Brent",
-      "price": 98.74,
-      "change_pct": 0.46
+      "price": 98.8,
+      "change_pct": 0.52
     },
     {
       "label": "NatGas",
       "price": 3.0,
-      "change_pct": 1.83
+      "change_pct": 1.87
     }
   ]
 }
