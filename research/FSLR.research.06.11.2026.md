@@ -4,24 +4,24 @@ Signed file: `FSLR.research.06.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $195.76 (2026-11-06, ~15-min delayed) |
+| Current price | $nan (2026-11-06, ~15-min delayed) |
 | Market cap | $21.04B |
 | Sector / Industry | Technology / Solar |
 | Main theme | Solar — see catalysts below |
-| Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: high. |
+| Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-06.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-8.88%) with negative half-year (-8.77%). |
-| Fresh setup quality | Poor / broken | -38.49% from 52w high — base needs to rebuild. |
+| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
+| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 37.12%, revenue growth -22.80%. |
 | Value attractiveness | Reasonable | Forward P/E 8.48, EV/Sales 3.94. |
-| Risk level | High | Beta 1.71, ATR 5.2% of price, short float 14.10%. |
+| Risk level | High | Beta 1.71, ATR nan% of price, short float 14.10%. |
 
-**Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: high.
+**Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -36,30 +36,30 @@ First Solar, Inc., a solar technology company, provides photovoltaic (PV) solar 
 
 | Headline | Source | Date |
 |---|---|---|
+| First Solar (FSLR) Opens South Carolina Plant With New Jobs In Focus | Simply Wall St. | 2026-11-06 |
 | Best Stocks to Buy for Rising Interest Rates | Kiplinger | 2026-11-05 |
 | Solar Stocks Pop And Plunge; Analysts Think They Know Why | Investor's Business Daily | 2026-11-05 |
 | Is First Solar Stock Still Worth Owning After Its Quarter? | Trefis | 2026-11-05 |
-| Is First Solar (FSLR) Undervalued Following Democratic Wins In Congress? | Simply Wall St. | 2026-11-05 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $195.76; 52w high $318.25 (-38.49%); 52w low $168.15 (+16.42%) |
-| Trend | -8.88% vs SMA200, +4.59% vs SMA50, +9.71% vs SMA20 |
-| Momentum | RSI(14) 63.8 (neutral) |
-| Volatility | ATR(14) 10.12 (~5.2% of price); beta 1.71 |
-| Setup perspective | -38.49% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $nan; 52w high $318.25 (+nan%); 52w low $168.15 (+nan%) |
+| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
+| Momentum | RSI(14) 62.9 (neutral) |
+| Volatility | ATR(14) 9.14 (~nan% of price); beta 1.71 |
+| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +10.7% |
-| Month | +8.7% |
-| Quarter | -21.7% |
-| Half Y | -8.8% |
-| 1Y | -25.5% |
-| YTD | -28.6% |
+| Week | +nan% |
+| Month | +nan% |
+| Quarter | +nan% |
+| Half Y | +nan% |
+| 1Y | +nan% |
+| YTD | +nan% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -95,9 +95,8 @@ First Solar, Inc., a solar technology company, provides photovoltaic (PV) solar 
 | Morgan Stanley | 1,790,509 | 1.67% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.71, ATR 5.2% of price, short float 14.10%. Size positions accordingly.
+- **Volatility risk:** Beta 1.71, ATR nan% of price, short float 14.10%. Size positions accordingly.
 - **Short interest risk:** short float 14.10% can fuel squeezes both ways around news.
-- **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -112,19 +111,19 @@ First Solar, Inc., a solar technology company, provides photovoltaic (PV) solar 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $195.76 | EV/Sales | 3.94 |
+| Price | $nan | EV/Sales | 3.94 |
 | Market cap | $21.04B | EV/EBITDA | 7.96 |
 | Beta | 1.71 | Gross margin | 49.25% |
-| RSI(14) | 63.8 | Operating margin | 44.37% |
-| ATR(14) | 10.12 | Profit margin | 37.12% |
-| SMA20 dist | +9.71% | ROA | 8.60% |
-| SMA50 dist | +4.59% | ROE | 18.71% |
-| SMA200 dist | -8.88% | Revenue (ttm) | $5.01B |
+| RSI(14) | 62.9 | Operating margin | 44.37% |
+| ATR(14) | 9.14 | Profit margin | 37.12% |
+| SMA20 dist | +nan% | ROA | 8.60% |
+| SMA50 dist | +nan% | ROE | 18.71% |
+| SMA200 dist | +nan% | Revenue (ttm) | $5.01B |
 | 52W high | $318.25 | Revenue growth y/y | -22.80% |
 | 52W low | $168.15 | Inst. ownership | 102.74% |
 | P/E (ttm) | 11.32 | Insider ownership | 5.36% |
 | Forward P/E | 8.48 | Short float | 14.10% |
-| PEG (trailing) | 0.33 | Avg volume | 2,371,703 |
+| PEG (trailing) | 0.35 | Avg volume | 2,371,703 |
 | P/S | 4.20 | Employees | 7,900 |
 | P/B | 1.93 | Analyst rec (1=buy..5=sell) | 1.8 |
 
@@ -141,7 +140,7 @@ First Solar, Inc., a solar technology company, provides photovoltaic (PV) solar 
 | 2026-10-30 | main | RBC Capital | Outperform → Outperform |
 
 ## 9. Conclusion
-FSLR: Low momentum / mixed fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+FSLR: Moderate momentum / mixed fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

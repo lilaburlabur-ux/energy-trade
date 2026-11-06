@@ -4,24 +4,24 @@ Signed file: `AR.research.06.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $36.38 (2026-11-06, ~15-min delayed) |
+| Current price | $nan (2026-11-06, ~15-min delayed) |
 | Market cap | $11.17B |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
-| Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated. |
+| Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-06.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +10.48%; price -1.50% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -19.42% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
+| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 22.98%, revenue growth 17.10%. |
 | Value attractiveness | Reasonable | Forward P/E 7.71, EV/Sales —. |
-| Risk level | Elevated | Beta 0.48, ATR 4.0% of price, short float 4.35%. |
+| Risk level | Moderate | Beta 0.48, ATR nan% of price, short float 4.35%. |
 
-**Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated.
+**Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -44,22 +44,22 @@ Antero Resources Corporation, an independent oil and natural gas company, engage
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $36.38; 52w high $45.15 (-19.42%); 52w low $31.38 (+15.93%) |
-| Trend | -1.50% vs SMA200, -3.24% vs SMA50, -6.78% vs SMA20 |
-| Momentum | RSI(14) 40.3 (neutral) |
-| Volatility | ATR(14) 1.47 (~4.0% of price); beta 0.48 |
-| Setup perspective | -19.42% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $nan; 52w high $45.15 (+nan%); 52w low $31.38 (+nan%) |
+| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
+| Momentum | RSI(14) 44.2 (neutral) |
+| Volatility | ATR(14) 1.42 (~nan% of price); beta 0.48 |
+| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -11.7% |
-| Month | +2.3% |
-| Quarter | +4.8% |
-| Half Y | +0.0% |
-| 1Y | +10.5% |
-| YTD | +6.3% |
+| Week | +nan% |
+| Month | +nan% |
+| Quarter | +nan% |
+| Half Y | +nan% |
+| 1Y | +nan% |
+| YTD | +nan% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -95,7 +95,6 @@ Antero Resources Corporation, an independent oil and natural gas company, engage
 | Geode Capital Management, LLC | 5,747,084 | 1.87% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 0.48, ATR 4.0% of price, short float 4.35%. Size positions accordingly.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -110,14 +109,14 @@ Antero Resources Corporation, an independent oil and natural gas company, engage
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $36.38 | EV/Sales | — |
+| Price | $nan | EV/Sales | — |
 | Market cap | $11.17B | EV/EBITDA | — |
 | Beta | 0.48 | Gross margin | 68.28% |
-| RSI(14) | 40.3 | Operating margin | 29.50% |
-| ATR(14) | 1.47 | Profit margin | 22.98% |
-| SMA20 dist | -6.78% | ROA | 7.69% |
-| SMA50 dist | -3.24% | ROE | 17.39% |
-| SMA200 dist | -1.50% | Revenue (ttm) | $5.98B |
+| RSI(14) | 44.2 | Operating margin | 29.50% |
+| ATR(14) | 1.42 | Profit margin | 22.98% |
+| SMA20 dist | +nan% | ROA | 7.69% |
+| SMA50 dist | +nan% | ROE | 17.39% |
+| SMA200 dist | +nan% | Revenue (ttm) | $5.98B |
 | 52W high | $45.15 | Revenue growth y/y | 17.10% |
 | 52W low | $31.38 | Inst. ownership | 92.33% |
 | P/E (ttm) | 8.21 | Insider ownership | 4.42% |
@@ -139,7 +138,7 @@ Antero Resources Corporation, an independent oil and natural gas company, engage
 | 2026-10-05 | main | Truist Securities | Buy → Buy |
 
 ## 9. Conclusion
-AR: Moderate momentum / strong fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+AR: Moderate momentum / strong fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

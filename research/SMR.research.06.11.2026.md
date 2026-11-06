@@ -4,24 +4,24 @@ Signed file: `SMR.research.06.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $4.37 (2026-11-06, ~15-min delayed) |
+| Current price | $nan (2026-11-06, ~15-min delayed) |
 | Market cap | $1.79B |
 | Sector / Industry | Industrials / Specialty Industrial Machinery |
 | Main theme | Specialty Industrial Machinery — see catalysts below |
-| Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: high. |
+| Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-06.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-58.62%) with negative half-year (-65.26%). |
-| Fresh setup quality | Poor / broken | -88.47% from 52w high — base needs to rebuild. |
+| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
+| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 0.00%, revenue growth -99.10%. |
 | Value attractiveness | Reasonable | Forward P/E -7.02, EV/Sales 63.64. |
-| Risk level | High | Beta 2.43, ATR 11.3% of price, short float 24.85%. |
+| Risk level | High | Beta 2.43, ATR nan% of price, short float 24.85%. |
 
-**Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: high.
+**Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -36,30 +36,30 @@ NuScale Power Corporation provides small modular reactor technology solutions. I
 
 | Headline | Source | Date |
 |---|---|---|
+| NuScale Power Corporation (SMR) Reports Q3 Loss, Lags Revenue Estimates | Zacks | 2026-11-06 |
 | Oklo Sank 10% a Day After the Democratic Sweep Rattled AI Power Stocks. Here’s What Friday’s Report Has to Settle | TIKR | 2026-11-05 |
 | NuScale's Modular Reactors Offer Flexible Clean Energy Supply | Zacks | 2026-11-05 |
 | NuScale Power (SMR) Stock Looks Undervalued As Book Value Sets The Tone | Simply Wall St. | 2026-11-05 |
-| NuScale Hit a 52-Week Low as Barclays Turned Bearish. Here’s What Thursday’s Report Must Show | TIKR | 2026-11-04 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $4.37; 52w high $37.91 (-88.47%); 52w low $4.37 (+0.00%) |
-| Trend | -58.62% vs SMA200, -42.05% vs SMA50, -23.42% vs SMA20 |
-| Momentum | RSI(14) 24.3 (oversold) |
-| Volatility | ATR(14) 0.49 (~11.3% of price); beta 2.43 |
-| Setup perspective | -88.47% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $nan; 52w high $37.91 (+nan%); 52w low $5.13 (+nan%) |
+| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
+| Momentum | RSI(14) 30.4 (neutral) |
+| Volatility | ATR(14) 0.47 (~nan% of price); beta 2.43 |
+| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -26.2% |
-| Month | -43.0% |
-| Quarter | -55.5% |
-| Half Y | -65.3% |
-| 1Y | -87.7% |
-| YTD | -73.2% |
+| Week | +nan% |
+| Month | +nan% |
+| Quarter | +nan% |
+| Half Y | +nan% |
+| 1Y | +nan% |
+| YTD | +nan% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -95,9 +95,8 @@ NuScale Power Corporation provides small modular reactor technology solutions. I
 | State Street Corporation | 6,662,750 | 1.62% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 2.43, ATR 11.3% of price, short float 24.85%. Size positions accordingly.
+- **Volatility risk:** Beta 2.43, ATR nan% of price, short float 24.85%. Size positions accordingly.
 - **Short interest risk:** short float 24.85% can fuel squeezes both ways around news.
-- **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -112,16 +111,16 @@ NuScale Power Corporation provides small modular reactor technology solutions. I
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $4.37 | EV/Sales | 63.64 |
+| Price | $nan | EV/Sales | 63.64 |
 | Market cap | $1.79B | EV/EBITDA | -3.04 |
 | Beta | 2.43 | Gross margin | 23.54% |
-| RSI(14) | 24.3 | Operating margin | -85337.33% |
-| ATR(14) | 0.49 | Profit margin | 0.00% |
-| SMA20 dist | -23.42% | ROA | -10.60% |
-| SMA50 dist | -42.05% | ROE | -55.18% |
-| SMA200 dist | -58.62% | Revenue (ttm) | $10.69M |
+| RSI(14) | 30.4 | Operating margin | -85337.33% |
+| ATR(14) | 0.47 | Profit margin | 0.00% |
+| SMA20 dist | +nan% | ROA | -10.60% |
+| SMA50 dist | +nan% | ROE | -55.18% |
+| SMA200 dist | +nan% | Revenue (ttm) | $10.69M |
 | 52W high | $37.91 | Revenue growth y/y | -99.10% |
-| 52W low | $4.37 | Inst. ownership | 60.78% |
+| 52W low | $5.13 | Inst. ownership | 60.78% |
 | P/E (ttm) | — | Insider ownership | 1.70% |
 | Forward P/E | -7.02 | Short float | 24.85% |
 | PEG (trailing) | — | Avg volume | 33,661,382 |
@@ -141,7 +140,7 @@ NuScale Power Corporation provides small modular reactor technology solutions. I
 | 2026-08-11 | main | RBC Capital | Sector Perform → Sector Perform |
 
 ## 9. Conclusion
-SMR: Low momentum / mixed fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+SMR: Moderate momentum / mixed fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

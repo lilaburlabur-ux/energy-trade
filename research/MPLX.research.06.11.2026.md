@@ -4,7 +4,7 @@ Signed file: `MPLX.research.06.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $56.55 (2026-11-06, ~15-min delayed) |
+| Current price | $nan (2026-11-06, ~15-min delayed) |
 | Market cap | $57.29B |
 | Sector / Industry | Energy / Oil & Gas Midstream |
 | Main theme | Oil & Gas Midstream — see catalysts below |
@@ -15,11 +15,11 @@ Signed file: `MPLX.research.06.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +19.39%; price +0.78% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -6.11% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
+| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 36.14%, revenue growth 22.20%. |
 | Value attractiveness | Reasonable | Forward P/E 11.81, EV/Sales —. |
-| Risk level | Moderate | Beta —, ATR 2.2% of price, short float 1.77%. |
+| Risk level | Moderate | Beta —, ATR nan% of price, short float 1.77%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate.
 
@@ -44,22 +44,22 @@ MPLX LP owns and operates midstream energy infrastructure and logistics assets p
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $56.55; 52w high $60.23 (-6.11%); 52w low $47.67 (+18.63%) |
-| Trend | +0.78% vs SMA200, -2.94% vs SMA50, -2.51% vs SMA20 |
-| Momentum | RSI(14) 41.2 (neutral) |
-| Volatility | ATR(14) 1.26 (~2.2% of price); beta — |
-| Setup perspective | -6.11% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $nan; 52w high $60.23 (+nan%); 52w low $47.67 (+nan%) |
+| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
+| Momentum | RSI(14) 39.2 (neutral) |
+| Volatility | ATR(14) 1.27 (~nan% of price); beta — |
+| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -5.6% |
-| Month | -0.9% |
-| Quarter | -3.9% |
-| Half Y | +4.3% |
-| 1Y | +19.4% |
-| YTD | +11.1% |
+| Week | +nan% |
+| Month | +nan% |
+| Quarter | +nan% |
+| Half Y | +nan% |
+| 1Y | +nan% |
+| YTD | +nan% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -95,7 +95,6 @@ MPLX LP owns and operates midstream energy infrastructure and logistics assets p
 | UBS Group AG | 5,259,274 | 0.52% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -110,14 +109,14 @@ MPLX LP owns and operates midstream energy infrastructure and logistics assets p
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $56.55 | EV/Sales | — |
+| Price | $nan | EV/Sales | — |
 | Market cap | $57.29B | EV/EBITDA | — |
 | Beta | — | Gross margin | 53.38% |
-| RSI(14) | 41.2 | Operating margin | 40.94% |
-| ATR(14) | 1.26 | Profit margin | 36.14% |
-| SMA20 dist | -2.51% | ROA | — |
-| SMA50 dist | -2.94% | ROE | — |
-| SMA200 dist | +0.78% | Revenue (ttm) | $12.03B |
+| RSI(14) | 39.2 | Operating margin | 40.94% |
+| ATR(14) | 1.27 | Profit margin | 36.14% |
+| SMA20 dist | +nan% | ROA | — |
+| SMA50 dist | +nan% | ROE | — |
+| SMA200 dist | +nan% | Revenue (ttm) | $12.03B |
 | 52W high | $60.23 | Revenue growth y/y | 22.20% |
 | 52W low | $47.67 | Inst. ownership | 19.90% |
 | P/E (ttm) | 13.21 | Insider ownership | 64.08% |

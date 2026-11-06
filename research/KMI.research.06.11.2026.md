@@ -4,24 +4,24 @@ Signed file: `KMI.research.06.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $30.19 (2026-11-06, ~15-min delayed) |
+| Current price | $nan (2026-11-06, ~15-min delayed) |
 | Market cap | $67.25B |
 | Sector / Industry | Energy / Oil & Gas Midstream |
 | Main theme | Oil & Gas Midstream — see catalysts below |
-| Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
+| Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-06.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-4.36%) with negative half-year (-2.47%). |
-| Fresh setup quality | Moderate / wait | -11.54% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
+| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 19.64%, revenue growth 9.30%. |
 | Value attractiveness | Reasonable | Forward P/E 19.55, EV/Sales 5.50. |
-| Risk level | Elevated | Beta 0.57, ATR 3.2% of price, short float 2.26%. |
+| Risk level | Moderate | Beta 0.57, ATR nan% of price, short float 2.26%. |
 
-**Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
+**Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -44,22 +44,22 @@ Kinder Morgan, Inc. operates as an energy infrastructure company primarily in No
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $30.19; 52w high $34.13 (-11.54%); 52w low $24.98 (+20.86%) |
-| Trend | -4.36% vs SMA200, -5.18% vs SMA50, -8.54% vs SMA20 |
-| Momentum | RSI(14) 33.6 (neutral) |
-| Volatility | ATR(14) 0.97 (~3.2% of price); beta 0.57 |
-| Setup perspective | -11.54% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $nan; 52w high $34.13 (+nan%); 52w low $24.98 (+nan%) |
+| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
+| Momentum | RSI(14) 41.0 (neutral) |
+| Volatility | ATR(14) 0.91 (~nan% of price); beta 0.57 |
+| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -10.3% |
-| Month | -4.3% |
-| Quarter | -1.3% |
-| Half Y | -2.5% |
-| 1Y | +21.2% |
-| YTD | +13.1% |
+| Week | +nan% |
+| Month | +nan% |
+| Quarter | +nan% |
+| Half Y | +nan% |
+| 1Y | +nan% |
+| YTD | +nan% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -95,7 +95,6 @@ Kinder Morgan, Inc. operates as an energy infrastructure company primarily in No
 | Charles Schwab Investment Management, Inc. | 29,766,795 | 1.34% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 0.57, ATR 3.2% of price, short float 2.26%. Size positions accordingly.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -110,14 +109,14 @@ Kinder Morgan, Inc. operates as an energy infrastructure company primarily in No
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $30.19 | EV/Sales | 5.50 |
+| Price | $nan | EV/Sales | 5.50 |
 | Market cap | $67.25B | EV/EBITDA | 13.15 |
 | Beta | 0.57 | Gross margin | 48.65% |
-| RSI(14) | 33.6 | Operating margin | 24.03% |
-| ATR(14) | 0.97 | Profit margin | 19.64% |
-| SMA20 dist | -8.54% | ROA | 4.44% |
-| SMA50 dist | -5.18% | ROE | 11.43% |
-| SMA200 dist | -4.36% | Revenue (ttm) | $18.34B |
+| RSI(14) | 41.0 | Operating margin | 24.03% |
+| ATR(14) | 0.91 | Profit margin | 19.64% |
+| SMA20 dist | +nan% | ROA | 4.44% |
+| SMA50 dist | +nan% | ROE | 11.43% |
+| SMA200 dist | +nan% | Revenue (ttm) | $18.34B |
 | 52W high | $34.13 | Revenue growth y/y | 9.30% |
 | 52W low | $24.98 | Inst. ownership | 70.46% |
 | P/E (ttm) | 18.64 | Insider ownership | 12.69% |
@@ -139,7 +138,7 @@ Kinder Morgan, Inc. operates as an energy infrastructure company primarily in No
 | 2026-10-22 | up | Freedom Broker | Hold → Buy |
 
 ## 9. Conclusion
-KMI: Low momentum / mixed fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+KMI: Moderate momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

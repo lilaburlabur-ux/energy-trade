@@ -4,7 +4,7 @@ Signed file: `TTE.research.06.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $88.75 (2026-11-06, ~15-min delayed) |
+| Current price | $nan (2026-11-06, ~15-min delayed) |
 | Market cap | $194.85B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
@@ -15,11 +15,11 @@ Signed file: `TTE.research.06.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +50.45%; price +4.72% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -6.90% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
+| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 10.46%, revenue growth 41.10%. |
 | Value attractiveness | Reasonable | Forward P/E 7.47, EV/Sales 1.05. |
-| Risk level | Moderate | Beta 0.04, ATR 2.3% of price, short float 0.22%. |
+| Risk level | Moderate | Beta 0.04, ATR nan% of price, short float 0.22%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
@@ -44,22 +44,22 @@ TotalEnergies SE, an integrated energy company, produces and markets oil and bio
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $88.75; 52w high $95.33 (-6.90%); 52w low $58.74 (+51.09%) |
-| Trend | +4.72% vs SMA200, -0.57% vs SMA50, -2.48% vs SMA20 |
-| Momentum | RSI(14) 44.3 (neutral) |
-| Volatility | ATR(14) 2.02 (~2.3% of price); beta 0.04 |
-| Setup perspective | -6.90% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $nan; 52w high $95.33 (+nan%); 52w low $58.74 (+nan%) |
+| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
+| Momentum | RSI(14) 49.4 (neutral) |
+| Volatility | ATR(14) 1.89 (~nan% of price); beta 0.04 |
+| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -5.6% |
-| Month | +5.4% |
-| Quarter | +4.6% |
-| Half Y | +1.2% |
-| 1Y | +50.5% |
-| YTD | +36.5% |
+| Week | +nan% |
+| Month | +nan% |
+| Quarter | +nan% |
+| Half Y | +nan% |
+| 1Y | +nan% |
+| YTD | +nan% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -95,7 +95,6 @@ TotalEnergies SE, an integrated energy company, produces and markets oil and bio
 | Goldman Sachs Group Inc | 26,079,768 | 1.04% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -110,19 +109,19 @@ TotalEnergies SE, an integrated energy company, produces and markets oil and bio
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $88.75 | EV/Sales | 1.05 |
+| Price | $nan | EV/Sales | 1.05 |
 | Market cap | $194.85B | EV/EBITDA | 4.64 |
 | Beta | 0.04 | Gross margin | 39.18% |
-| RSI(14) | 44.3 | Operating margin | 24.51% |
-| ATR(14) | 2.02 | Profit margin | 10.46% |
-| SMA20 dist | -2.48% | ROA | 7.19% |
-| SMA50 dist | -0.57% | ROE | 17.83% |
-| SMA200 dist | +4.72% | Revenue (ttm) | $214.40B |
+| RSI(14) | 49.4 | Operating margin | 24.51% |
+| ATR(14) | 1.89 | Profit margin | 10.46% |
+| SMA20 dist | +nan% | ROA | 7.19% |
+| SMA50 dist | +nan% | ROE | 17.83% |
+| SMA200 dist | +nan% | Revenue (ttm) | $214.40B |
 | 52W high | $95.33 | Revenue growth y/y | 41.10% |
 | 52W low | $58.74 | Inst. ownership | 54.11% |
 | P/E (ttm) | 8.86 | Insider ownership | 8.86% |
 | Forward P/E | 7.47 | Short float | 0.22% |
-| PEG (trailing) | 0.69 | Avg volume | 1,810,971 |
+| PEG (trailing) | 0.67 | Avg volume | 1,810,971 |
 | P/S | 0.91 | Employees | 94,847 |
 | P/B | 1.48 | Analyst rec (1=buy..5=sell) | 1.9 |
 

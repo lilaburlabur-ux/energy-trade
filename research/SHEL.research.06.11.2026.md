@@ -4,7 +4,7 @@ Signed file: `SHEL.research.06.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $100.12 (2026-11-06, ~15-min delayed) |
+| Current price | $nan (2026-11-06, ~15-min delayed) |
 | Market cap | $283.70B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
@@ -15,11 +15,11 @@ Signed file: `SHEL.research.06.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +40.83%; price +13.78% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -7.88% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
+| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 10.18%, revenue growth 36.20%. |
 | Value attractiveness | Reasonable | Forward P/E 9.30, EV/Sales 1.02. |
-| Risk level | Moderate | Beta -0.24, ATR 2.2% of price, short float 1.22%. |
+| Risk level | Moderate | Beta -0.24, ATR nan% of price, short float 1.22%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
@@ -36,30 +36,30 @@ Shell plc operates as an energy and petrochemical company in Europe, Asia, Ocean
 
 | Headline | Source | Date |
 |---|---|---|
+| Hornbeck Offshore Services Inc (HOS) (Q3 2026) Earnings Call Highlights: Helix Merger Fuels $1. ... | GuruFocus.com | 2026-11-06 |
 | Is ExxonMobil Holdings (XOM) Rethinking Its Portfolio With An Infineum Exit? | Simply Wall St. | 2026-11-05 |
 | 3 British Energy Stocks With Earnings Growth Over 60% | Simply Wall St. | 2026-11-05 |
 | Can Chevron's Record Natural Gas Output Strengthen Its LNG Position? | Zacks | 2026-11-05 |
-| Shell And 2 Other British Undervalued Stocks To Watch | Simply Wall St. | 2026-11-05 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $100.12; 52w high $108.69 (-7.88%); 52w low $68.43 (+46.30%) |
-| Trend | +13.78% vs SMA200, +1.21% vs SMA50, -4.31% vs SMA20 |
-| Momentum | RSI(14) 43.5 (neutral) |
-| Volatility | ATR(14) 2.17 (~2.2% of price); beta -0.24 |
-| Setup perspective | -7.88% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $nan; 52w high $108.69 (+nan%); 52w low $68.43 (+nan%) |
+| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
+| Momentum | RSI(14) 47.6 (neutral) |
+| Volatility | ATR(14) 2.12 (~nan% of price); beta -0.24 |
+| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -7.0% |
-| Month | +3.4% |
-| Quarter | +14.1% |
-| Half Y | +21.0% |
-| 1Y | +40.8% |
-| YTD | +36.4% |
+| Week | +nan% |
+| Month | +nan% |
+| Quarter | +nan% |
+| Half Y | +nan% |
+| 1Y | +nan% |
+| YTD | +nan% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -95,7 +95,6 @@ Shell plc operates as an energy and petrochemical company in Europe, Asia, Ocean
 | Arrowstreet Capital, Limited Partnership | 6,727,122 | 0.23% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -110,14 +109,14 @@ Shell plc operates as an energy and petrochemical company in Europe, Asia, Ocean
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $100.12 | EV/Sales | 1.02 |
+| Price | $nan | EV/Sales | 1.02 |
 | Market cap | $283.70B | EV/EBITDA | 4.85 |
 | Beta | -0.24 | Gross margin | 26.93% |
-| RSI(14) | 43.5 | Operating margin | 18.76% |
-| ATR(14) | 2.17 | Profit margin | 10.18% |
-| SMA20 dist | -4.31% | ROA | 7.67% |
-| SMA50 dist | +1.21% | ROE | 17.43% |
-| SMA200 dist | +13.78% | Revenue (ttm) | $321.29B |
+| RSI(14) | 47.6 | Operating margin | 18.76% |
+| ATR(14) | 2.12 | Profit margin | 10.18% |
+| SMA20 dist | +nan% | ROA | 7.67% |
+| SMA50 dist | +nan% | ROE | 17.43% |
+| SMA200 dist | +nan% | Revenue (ttm) | $321.29B |
 | 52W high | $108.69 | Revenue growth y/y | 36.20% |
 | 52W low | $68.43 | Inst. ownership | 13.54% |
 | P/E (ttm) | 8.69 | Insider ownership | 0.01% |

@@ -4,24 +4,24 @@ Signed file: `GEV.research.06.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $770.51 (2026-11-06, ~15-min delayed) |
+| Current price | $nan (2026-11-06, ~15-min delayed) |
 | Market cap | $203.94B |
 | Sector / Industry | Industrials / Specialty Industrial Machinery |
 | Main theme | Specialty Industrial Machinery — see catalysts below |
-| Current stance | Low technical momentum, strong fundamentals, value: fair-to-demanding, risk: high. |
+| Current stance | Moderate technical momentum, strong fundamentals, value: fair-to-demanding, risk: moderate. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-06.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-18.66%) with negative half-year (-26.23%). |
-| Fresh setup quality | Poor / broken | -34.38% from 52w high — base needs to rebuild. |
+| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
+| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 23.54%, revenue growth 26.80%. |
 | Value attractiveness | Fair-to-demanding | Forward P/E 29.79, EV/Sales 4.37. |
-| Risk level | High | Beta 1.06, ATR 7.1% of price, short float 2.79%. |
+| Risk level | Moderate | Beta 1.06, ATR nan% of price, short float 2.79%. |
 
-**Bottom line:** Low technical momentum, strong fundamentals, value: fair-to-demanding, risk: high.
+**Bottom line:** Moderate technical momentum, strong fundamentals, value: fair-to-demanding, risk: moderate.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -36,30 +36,30 @@ GE Vernova Inc., an energy company, engages in the provision of various products
 
 | Headline | Source | Date |
 |---|---|---|
+| GE Vernova Is Up 18% in 2026 After Three Guidance Raises: Take Profits, or Buy More? | TIKR | 2026-11-06 |
 | GE Vernova (GEV) Sees New Risks From AI Data Center Permitting Pause | Simply Wall St. | 2026-11-06 |
 | Bloom Energy Sinks 16% Despite 900 MW NTT DATA Deal as Midterm Fears Hit AI Power Stocks | TIKR | 2026-11-06 |
 | Industrial Stocks Drop Amid Fears of AI Data Center Slowdown | The Wall Street Journal | 2026-11-06 |
-| GE Vernova vs. NextEra Energy: Which Industrials Stock Is a Better Buy for 2027? | Motley Fool | 2026-11-05 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $770.51; 52w high $1,174.17 (-34.38%); 52w low $548.83 (+40.39%) |
-| Trend | -18.66% vs SMA200, -16.85% vs SMA50, -13.97% vs SMA20 |
-| Momentum | RSI(14) 34.7 (neutral) |
-| Volatility | ATR(14) 54.98 (~7.1% of price); beta 1.06 |
-| Setup perspective | -34.38% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $nan; 52w high $1,174.17 (+nan%); 52w low $548.83 (+nan%) |
+| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
+| Momentum | RSI(14) 40.3 (neutral) |
+| Volatility | ATR(14) 52.84 (~nan% of price); beta 1.06 |
+| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -13.2% |
-| Month | -22.7% |
-| Quarter | -22.2% |
-| Half Y | -26.2% |
-| 1Y | +41.0% |
-| YTD | +13.7% |
+| Week | +nan% |
+| Month | +nan% |
+| Quarter | +nan% |
+| Half Y | +nan% |
+| 1Y | +nan% |
+| YTD | +nan% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -96,8 +96,6 @@ GE Vernova Inc., an energy company, engages in the provision of various products
 
 ## 6. Risk Review and Setup Plan
 - **Valuation risk:** Forward P/E 29.79, EV/Sales 4.37. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 1.06, ATR 7.1% of price, short float 2.79%. Size positions accordingly.
-- **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -112,14 +110,14 @@ GE Vernova Inc., an energy company, engages in the provision of various products
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $770.51 | EV/Sales | 4.37 |
+| Price | $nan | EV/Sales | 4.37 |
 | Market cap | $203.94B | EV/EBITDA | 38.14 |
 | Beta | 1.06 | Gross margin | 21.79% |
-| RSI(14) | 34.7 | Operating margin | 12.77% |
-| ATR(14) | 54.98 | Profit margin | 23.54% |
-| SMA20 dist | -13.97% | ROA | 3.22% |
-| SMA50 dist | -16.85% | ROE | 93.04% |
-| SMA200 dist | -18.66% | Revenue (ttm) | $44.04B |
+| RSI(14) | 40.3 | Operating margin | 12.77% |
+| ATR(14) | 52.84 | Profit margin | 23.54% |
+| SMA20 dist | +nan% | ROA | 3.22% |
+| SMA50 dist | +nan% | ROE | 93.04% |
+| SMA200 dist | +nan% | Revenue (ttm) | $44.04B |
 | 52W high | $1,174.17 | Revenue growth y/y | 26.80% |
 | 52W low | $548.83 | Inst. ownership | 81.83% |
 | P/E (ttm) | 20.23 | Insider ownership | 0.13% |
@@ -141,7 +139,7 @@ GE Vernova Inc., an energy company, engages in the provision of various products
 | 2026-10-29 | main | TD Cowen | Buy → Buy |
 
 ## 9. Conclusion
-GEV: Low momentum / strong fundamentals / fair-to-demanding value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+GEV: Moderate momentum / strong fundamentals / fair-to-demanding value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |
