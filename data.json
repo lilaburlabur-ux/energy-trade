@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-06T02:06:26+00:00",
-  "as_of_local": "2026-11-06 02:06:26 UTC",
+  "as_of_utc": "2026-11-06T02:11:41+00:00",
+  "as_of_local": "2026-11-06 02:11:41 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -537,34 +537,6 @@
       ]
     },
     {
-      "symbol": "EOG",
-      "name": "EOG Resources",
-      "price": 147.06,
-      "previous_close": 155.17,
-      "change_pct": -5.23,
-      "market_cap": 77172547711.7,
-      "headlines": [
-        {
-          "title": "Compared to Estimates, EOG Resources (EOG) Q3 Earnings: A Look at Key Metrics",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/compared-estimates-eog-resources-eog-220003973.html",
-          "publisher": "Zacks",
-          "published": "2026-11-05T22:00:03Z"
-        },
-        {
-          "title": "EOG Resources (EOG) Surpasses Q3 Earnings and Revenue Estimates",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/eog-resources-eog-surpasses-q3-214508603.html",
-          "publisher": "Zacks",
-          "published": "2026-11-05T21:45:08Z"
-        },
-        {
-          "title": "EOG Resources: Q3 Earnings Snapshot",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/eog-resources-q3-earnings-snapshot-212119203.html",
-          "publisher": "Associated Press",
-          "published": "2026-11-05T21:21:19Z"
-        }
-      ]
-    },
-    {
       "symbol": "PWR",
       "name": "Quanta Services",
       "price": 580.44,
@@ -589,6 +561,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/emcor-raises-2026-outlook-record-164200183.html",
           "publisher": "Zacks",
           "published": "2026-11-05T16:42:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "EOG",
+      "name": "EOG Resources",
+      "price": 147.06,
+      "previous_close": 155.17,
+      "change_pct": -5.23,
+      "market_cap": 75999032310.64,
+      "headlines": [
+        {
+          "title": "Compared to Estimates, EOG Resources (EOG) Q3 Earnings: A Look at Key Metrics",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/compared-estimates-eog-resources-eog-220003973.html",
+          "publisher": "Zacks",
+          "published": "2026-11-05T22:00:03Z"
+        },
+        {
+          "title": "EOG Resources (EOG) Surpasses Q3 Earnings and Revenue Estimates",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/eog-resources-eog-surpasses-q3-214508603.html",
+          "publisher": "Zacks",
+          "published": "2026-11-05T21:45:08Z"
+        },
+        {
+          "title": "EOG Resources: Q3 Earnings Snapshot",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/eog-resources-q3-earnings-snapshot-212119203.html",
+          "publisher": "Associated Press",
+          "published": "2026-11-05T21:21:19Z"
         }
       ]
     },
@@ -1494,7 +1494,7 @@
       "price": 30.91,
       "previous_close": 30.3,
       "change_pct": 2.01,
-      "market_cap": 9292375567.6,
+      "market_cap": 9195420220.64,
       "headlines": [
         {
           "title": "I Love Brookfield Renewable for 1 Reason, and It\u2019s Not the Dividend",
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 91.14,
-      "change_pct": 3.43
+      "price": 91.41,
+      "change_pct": 3.73
     },
     {
       "label": "Brent",
-      "price": 99.32,
-      "change_pct": 4.97
+      "price": 99.49,
+      "change_pct": 5.15
     },
     {
       "label": "NatGas",
       "price": 2.96,
-      "change_pct": -0.03
+      "change_pct": 0.07
     }
   ]
 }
