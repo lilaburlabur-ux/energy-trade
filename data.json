@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-06T08:23:16+00:00",
-  "as_of_local": "2026-11-06 08:23:16 UTC",
+  "as_of_utc": "2026-11-06T08:24:30+00:00",
+  "as_of_local": "2026-11-06 08:24:30 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "TRGP"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -729,34 +731,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/mine-enrich-build-operate-nuclear-033500270.html",
           "publisher": "Motley Fool",
           "published": "2026-11-05T03:35:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "TRGP",
-      "name": "Targa Resources",
-      "price": 271.82,
-      "previous_close": 285.0,
-      "change_pct": -4.62,
-      "market_cap": 58286641698.759705,
-      "headlines": [
-        {
-          "title": "Targa Resources Corp (TRGP) (Q3 2026) Earnings Call Highlights: Record Permian Volumes Drive $6 ...",
-          "url": "https://finance.yahoo.com/energy/articles/targa-resources-corp-trgp-q3-071457239.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-06T07:14:57Z"
-        },
-        {
-          "title": "Targa Resources Corp. Q3 2026 Earnings Call Summary",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/targa-resources-corp-q3-2026-230235227.html",
-          "publisher": "Moby",
-          "published": "2026-11-05T23:02:35Z"
-        },
-        {
-          "title": "Targa Resources (TRGP) Reports Q3 Earnings: What Key Metrics Have to Say",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/targa-resources-trgp-reports-q3-210001870.html",
-          "publisher": "Zacks",
-          "published": "2026-11-05T21:00:01Z"
         }
       ]
     },
@@ -2002,8 +1976,8 @@
           "name": "Targa Resources Corp",
           "short": "Targa",
           "weight_pct": 3.16,
-          "change_pct": -4.62,
-          "price": 271.82,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         }
       ]
@@ -2101,32 +2075,27 @@
         "name": "Targa Resources Corp",
         "short": "Targa",
         "weight_pct": 3.16,
-        "change_pct": -4.62,
-        "price": 271.82,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       }
     ]
   },
   "tape": [
     {
-      "label": "SPX",
-      "price": 7353.73,
-      "change_pct": -4.36
-    },
-    {
       "label": "WTI",
-      "price": 90.51,
-      "change_pct": -0.01
+      "price": 90.41,
+      "change_pct": -0.12
     },
     {
       "label": "Brent",
-      "price": 98.45,
-      "change_pct": 0.16
+      "price": 98.37,
+      "change_pct": 0.08
     },
     {
       "label": "NatGas",
-      "price": 3.04,
-      "change_pct": 3.12
+      "price": 3.03,
+      "change_pct": 2.78
     }
   ]
 }
