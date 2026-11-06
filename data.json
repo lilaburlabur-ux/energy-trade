@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-06T11:56:04+00:00",
-  "as_of_local": "2026-11-06 11:56:04 UTC",
+  "as_of_utc": "2026-11-06T12:01:20+00:00",
+  "as_of_local": "2026-11-06 12:01:20 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "CEG"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -425,34 +427,6 @@
       ]
     },
     {
-      "symbol": "CEG",
-      "name": "Constellation Energy",
-      "price": 239.65,
-      "previous_close": 245.72,
-      "change_pct": -2.47,
-      "market_cap": 84909761214.82938,
-      "headlines": [
-        {
-          "title": "PPL Reports Soon: How Has The Stock Reacted To Past Earnings?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ppl-reports-soon-stock-reacted-041643196.html",
-          "publisher": "Trefis",
-          "published": "2026-11-06T04:16:43Z"
-        },
-        {
-          "title": "Here Is What The Trailing P/E Misses About Constellation Energy Stock",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/trailing-p-e-misses-constellation-021449906.html",
-          "publisher": "Trefis",
-          "published": "2026-11-06T02:14:49Z"
-        },
-        {
-          "title": "Drilling Tools International Corp. (DTI) Reports Q3 Loss, Misses Revenue Estimates",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/drilling-tools-international-corp-dti-000006796.html",
-          "publisher": "Zacks",
-          "published": "2026-11-06T00:00:06Z"
-        }
-      ]
-    },
-    {
       "symbol": "WMB",
       "name": "Williams Companies",
       "price": 64.25,
@@ -537,34 +511,6 @@
       ]
     },
     {
-      "symbol": "EOG",
-      "name": "EOG Resources",
-      "price": 144.89,
-      "previous_close": 147.06,
-      "change_pct": -1.48,
-      "market_cap": 77172547386.60934,
-      "headlines": [
-        {
-          "title": "Time to Cash Out? 4 Energy Stocks I'd Sell Before It's Too Late",
-          "url": "https://finance.yahoo.com/energy/articles/time-cash-4-energy-stocks-033500680.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-06T03:35:00Z"
-        },
-        {
-          "title": "EOG Resources Lifts Dividend 8% as Q3 Profit Surges 89%",
-          "url": "https://finance.yahoo.com/energy/articles/eog-resources-lifts-dividend-8-024000468.html",
-          "publisher": "Oilprice.com",
-          "published": "2026-11-06T02:40:00Z"
-        },
-        {
-          "title": "Compared to Estimates, EOG Resources (EOG) Q3 Earnings: A Look at Key Metrics",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/compared-estimates-eog-resources-eog-220003973.html",
-          "publisher": "Zacks",
-          "published": "2026-11-05T22:00:03Z"
-        }
-      ]
-    },
-    {
       "symbol": "PWR",
       "name": "Quanta Services",
       "price": 509.06,
@@ -589,6 +535,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-stock-real-bargain-040023182.html",
           "publisher": "Trefis",
           "published": "2026-11-06T04:00:23Z"
+        }
+      ]
+    },
+    {
+      "symbol": "EOG",
+      "name": "EOG Resources",
+      "price": 144.89,
+      "previous_close": 147.06,
+      "change_pct": -1.48,
+      "market_cap": 75999031990.4928,
+      "headlines": [
+        {
+          "title": "Time to Cash Out? 4 Energy Stocks I'd Sell Before It's Too Late",
+          "url": "https://finance.yahoo.com/energy/articles/time-cash-4-energy-stocks-033500680.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-06T03:35:00Z"
+        },
+        {
+          "title": "EOG Resources Lifts Dividend 8% as Q3 Profit Surges 89%",
+          "url": "https://finance.yahoo.com/energy/articles/eog-resources-lifts-dividend-8-024000468.html",
+          "publisher": "Oilprice.com",
+          "published": "2026-11-06T02:40:00Z"
+        },
+        {
+          "title": "Compared to Estimates, EOG Resources (EOG) Q3 Earnings: A Look at Key Metrics",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/compared-estimates-eog-resources-eog-220003973.html",
+          "publisher": "Zacks",
+          "published": "2026-11-05T22:00:03Z"
         }
       ]
     },
@@ -1494,7 +1468,7 @@
       "price": 30.64,
       "previous_close": 30.91,
       "change_pct": -0.87,
-      "market_cap": 9292375382.49504,
+      "market_cap": 9195420037.4664,
       "headlines": [
         {
           "title": "I Love Brookfield Renewable for 1 Reason, and It\u2019s Not the Dividend",
@@ -2115,13 +2089,13 @@
     },
     {
       "label": "WTI",
-      "price": 90.91,
-      "change_pct": 0.43
+      "price": 90.99,
+      "change_pct": 0.52
     },
     {
       "label": "Brent",
-      "price": 98.71,
-      "change_pct": 0.43
+      "price": 98.84,
+      "change_pct": 0.56
     },
     {
       "label": "NatGas",
