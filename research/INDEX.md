@@ -1,5 +1,5 @@
-# Watchlist Research Index — 05.11.2026
-> Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-05.
+# Watchlist Research Index — 06.11.2026
+> Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-06.
 
 | Ticker | Mkt cap | 1Y | Fwd P/E | Net margin | Momentum | Value | Risk |
 |---|---|---|---|---|---|---|---|
@@ -11,7 +11,7 @@
 | COP | $162.73B | +59% | 12.4 | 14% | Moderate | Reasonable | Elevated |
 | EQNR | $100.69B | +86% | 8.6 | 10% | High | Reasonable | Elevated |
 | SU | $79.50B | +78% | 9.9 | 18% | High | Reasonable | Elevated |
-| EOG | $77.17B | +42% | 8.9 | 26% | Moderate | Reasonable | Elevated |
+| EOG | $76.00B | +42% | 8.9 | 26% | Moderate | Reasonable | Elevated |
 | FANG | $50.15B | +32% | 8.3 | 12% | Low | Reasonable | Elevated |
 | DVN | $47.17B | +35% | 8.0 | 17% | Low | Reasonable | Elevated |
 | OXY | $56.34B | +43% | 11.2 | 30% | Moderate | Reasonable | Elevated |
@@ -43,25 +43,25 @@
 | OKLO | $3.57B | -83% | -18.0 | 0% | Low | Reasonable | High |
 | SMR | $1.79B | -88% | -7.0 | 0% | Low | Reasonable | High |
 | LEU | $1.82B | -73% | 20.0 | 10% | Low | Fair-to-demanding | High |
-| NXE | $5.25B | -8% | -62.7 | 0% | Low | Reasonable | High |
-| UEC | $3.22B | -50% | -87.8 | 0% | Low | Reasonable | High |
+| NXE | $5.32B | -8% | -62.7 | 0% | Low | Reasonable | High |
+| UEC | $3.21B | -50% | -87.6 | 0% | Low | Reasonable | High |
 | UUUU | $1.75B | -61% | 13.6 | -77% | Low | Reasonable | High |
 | BWXT | $10.53B | -42% | 22.3 | 10% | Low | Fair-to-demanding | High |
 | FSLR | $21.04B | -25% | 8.5 | 37% | Low | Reasonable | High |
 | ENPH | $3.83B | -0% | 20.2 | 7% | Low | Fair-to-demanding | High |
 | NEE | $185.09B | +11% | 20.2 | 40% | Moderate | Fair-to-demanding | Moderate |
-| RUN | $2.38B | -48% | 21.2 | 12% | Low | Fair-to-demanding | High |
+| RUN | $2.35B | -48% | 21.2 | 12% | Low | Fair-to-demanding | High |
 | SEDG | $1.62B | -18% | 32.8 | -17% | Low | Fair-to-demanding | High |
 | NXT | $15.30B | -0% | 17.3 | 16% | Low | Reasonable | High |
 | ARRY | $817.63M | -31% | 5.7 | -10% | Low | Reasonable | High |
-| BEP | $14.94B | +1% | -16.6 | -4% | Low | Reasonable | Moderate |
+| BEP | $14.91B | +1% | -16.6 | -4% | Low | Reasonable | Moderate |
 | GEV | $203.94B | +41% | 29.8 | 24% | Low | Fair-to-demanding | High |
-| ETN | $127.05B | -12% | 20.1 | 12% | Low | Fair-to-demanding | High |
+| ETN | $127.05B | -12% | 20.0 | 12% | Low | Fair-to-demanding | High |
 | VRT | $68.05B | -2% | 18.1 | 16% | Low | Reasonable | High |
 | PWR | $76.70B | +16% | 23.5 | 5% | Low | Fair-to-demanding | High |
 | FLNC | $991.81M | -73% | -9.6 | -3% | Low | Reasonable | High |
 | BE | $49.51B | +30% | 31.5 | 14% | Low | Fair-to-demanding | High |
-| EOSE | $684.64M | -87% | -10.8 | -247% | Low | Reasonable | High |
+| EOSE | $679.97M | -87% | -10.8 | -247% | Low | Reasonable | High |
 | HUBB | $22.13B | -8% | 18.2 | 14% | Low | Reasonable | Elevated |
 | VST | $37.89B | -39% | 11.8 | 12% | Low | Reasonable | High |
 | NRG | $16.93B | -51% | 7.6 | 3% | Low | Reasonable | High |
