@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-06T01:36:29+00:00",
-  "as_of_local": "2026-11-06 01:36:29 UTC",
+  "as_of_utc": "2026-11-06T01:46:58+00:00",
+  "as_of_local": "2026-11-06 01:46:58 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AR"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -967,6 +965,12 @@
       "market_cap": 47168000000.0,
       "headlines": [
         {
+          "title": "Devon Energy (DVN) Q3 Earnings: Taking a Look at Key Metrics Versus Estimates",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/devon-energy-dvn-q3-earnings-003002462.html",
+          "publisher": "Zacks",
+          "published": "2026-11-06T00:30:02Z"
+        },
+        {
           "title": "Why Is Everyone Ignoring Expand Energy Stock's High Cash Yield?",
           "url": "https://finance.yahoo.com/energy/articles/why-everyone-ignoring-expand-energy-000859092.html",
           "publisher": "Trefis",
@@ -977,12 +981,6 @@
           "url": "https://finance.yahoo.com/energy/articles/devon-energy-nyse-dvn-misses-224139154.html",
           "publisher": "StockStory",
           "published": "2026-11-05T22:41:39Z"
-        },
-        {
-          "title": "Devon Energy (DVN) Beats Q3 Earnings Estimates",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/devon-energy-dvn-beats-q3-214507666.html",
-          "publisher": "Zacks",
-          "published": "2026-11-05T21:45:07Z"
         }
       ]
     },
@@ -1431,6 +1429,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-oklo-070500728.html",
           "publisher": "Zacks",
           "published": "2026-11-04T07:05:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "AR",
+      "name": "Antero Resources",
+      "price": 37.43,
+      "previous_close": 39.93,
+      "change_pct": -6.26,
+      "market_cap": 11173607680.0,
+      "headlines": [
+        {
+          "title": "Why Is Everyone Ignoring Expand Energy Stock's High Cash Yield?",
+          "url": "https://finance.yahoo.com/energy/articles/why-everyone-ignoring-expand-energy-000859092.html",
+          "publisher": "Trefis",
+          "published": "2026-11-06T00:08:59Z"
+        },
+        {
+          "title": "1 growth stock to add to your roster and 2 we turn down",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/1-growth-stock-add-roster-115736291.html",
+          "publisher": "StockStory",
+          "published": "2026-11-03T11:57:36Z"
+        },
+        {
+          "title": "Eni Begins Maha Gas Production, Boosting Indonesia's Offshore Output",
+          "url": "https://finance.yahoo.com/energy/articles/eni-begins-maha-gas-production-160100997.html",
+          "publisher": "Zacks",
+          "published": "2026-11-02T16:01:00Z"
         }
       ]
     },
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 91.02,
-      "change_pct": 3.29
+      "price": 91.15,
+      "change_pct": 3.44
     },
     {
       "label": "Brent",
-      "price": 99.02,
-      "change_pct": 4.65
+      "price": 99.22,
+      "change_pct": 4.86
     },
     {
       "label": "NatGas",
-      "price": 2.96,
-      "change_pct": -0.07
+      "price": 2.95,
+      "change_pct": -0.17
     }
   ]
 }
