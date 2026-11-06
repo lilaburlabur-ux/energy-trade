@@ -4,8 +4,8 @@ Signed file: `VST.research.06.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $125.54 (2026-11-06, ~15-min delayed) |
-| Market cap | $42.14B |
+| Current price | $124.80 (2026-11-06, ~15-min delayed) |
+| Market cap | $41.89B |
 | Sector / Industry | Utilities / Utilities - Independent Power Producers |
 | Main theme | Utilities - Independent Power Producers — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: high. |
@@ -15,11 +15,11 @@ Signed file: `VST.research.06.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-17.56%) with negative half-year (-14.76%). |
-| Fresh setup quality | Poor / broken | -33.89% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-18.05%) with negative half-year (-15.26%). |
+| Fresh setup quality | Poor / broken | -34.28% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 11.55%, revenue growth -5.50%. |
-| Value attractiveness | Reasonable | Forward P/E 13.17, EV/Sales 3.15. |
-| Risk level | High | Beta 1.38, ATR 6.8% of price, short float 3.43%. |
+| Value attractiveness | Reasonable | Forward P/E 13.09, EV/Sales 3.15. |
+| Risk level | High | Beta 1.38, ATR 6.9% of price, short float 3.43%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: high.
 
@@ -36,30 +36,30 @@ Vistra Corp., together with its subsidiaries, operates as an integrated retail e
 
 | Headline | Source | Date |
 |---|---|---|
+| Sector Update: Energy Stocks Lower Late Afternoon | MT Newswires | 2026-11-06 |
+| Vistra (VST) Q3 2026 Earnings Call Transcript | Motley Fool | 2026-11-06 |
 | Vistra Stocks Jump 7.69% After Earnings Surge and Fresh $1.5 Billion Buyback | GuruFocus.com | 2026-11-06 |
-| Flash Heard: Texas Power Giant Says Blue Wave Doesn’t Spell Doom for Data Centers | The Wall Street Journal | 2026-11-06 |
-| Sector Update: Energy Stocks Higher Friday Afternoon | MT Newswires | 2026-11-06 |
-| Constellation Energy Fell 9% on the Midterm Sweep. Monday’s Report Has to Defend Its Growth Estimates | TIKR | 2026-11-06 |
+| ⚡Flash Heard: Texas Power Giant Says Blue Wave Doesn’t Spell Doom for Data Centers | The Wall Street Journal | 2026-11-06 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $125.54; 52w high $189.90 (-33.89%); 52w low $112.89 (+11.20%) |
-| Trend | -17.56% vs SMA200, -12.73% vs SMA50, -12.18% vs SMA20 |
-| Momentum | RSI(14) 40.3 (neutral) |
-| Volatility | ATR(14) 8.55 (~6.8% of price); beta 1.38 |
-| Setup perspective | -33.89% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $124.80; 52w high $189.90 (-34.28%); 52w low $112.89 (+10.55%) |
+| Trend | -18.05% vs SMA200, -13.23% vs SMA50, -12.67% vs SMA20 |
+| Momentum | RSI(14) 39.7 (neutral) |
+| Volatility | ATR(14) 8.56 (~6.9% of price); beta 1.38 |
+| Setup perspective | -34.28% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -9.3% |
-| Month | -19.6% |
-| Quarter | -12.0% |
-| Half Y | -14.8% |
-| 1Y | -33.3% |
-| YTD | -23.7% |
+| Week | -9.8% |
+| Month | -20.1% |
+| Quarter | -12.5% |
+| Half Y | -15.3% |
+| 1Y | -33.7% |
+| YTD | -24.1% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Vistra Corp., together with its subsidiaries, operates as an integrated retail e
 | Revenue (ttm) | $19.21B | Revenue growth -5.50% y/y |
 | Profitability | Gross 38.31%, operating 13.77%, net 11.55% | ROA 5.89%, ROE 42.96% |
 | Balance sheet | Cash $435.00M, debt $20.51B | Current ratio 0.97, debt/equity 373.28 |
-| Valuation | P/E 21.17, forward P/E 13.17, P/S 2.19, P/B 14.03 | EV/Sales 3.15, EV/EBITDA 9.10 |
+| Valuation | P/E 21.05, forward P/E 13.09, P/S 2.18, P/B 13.95 | EV/Sales 3.15, EV/EBITDA 9.10 |
 | Growth expectations | Earnings growth -6.20%, EPS q/q -6.70% | Analyst mean target $203.71 (21 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ Vistra Corp., together with its subsidiaries, operates as an integrated retail e
 | Goldman Sachs Group Inc | 4,742,324 | 1.41% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.38, ATR 6.8% of price, short float 3.43%. Size positions accordingly.
+- **Volatility risk:** Beta 1.38, ATR 6.9% of price, short float 3.43%. Size positions accordingly.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -111,25 +111,26 @@ Vistra Corp., together with its subsidiaries, operates as an integrated retail e
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $125.54 | EV/Sales | 3.15 |
-| Market cap | $42.14B | EV/EBITDA | 9.10 |
+| Price | $124.80 | EV/Sales | 3.15 |
+| Market cap | $41.89B | EV/EBITDA | 9.10 |
 | Beta | 1.38 | Gross margin | 38.31% |
-| RSI(14) | 40.3 | Operating margin | 13.77% |
-| ATR(14) | 8.55 | Profit margin | 11.55% |
-| SMA20 dist | -12.18% | ROA | 5.89% |
-| SMA50 dist | -12.73% | ROE | 42.96% |
-| SMA200 dist | -17.56% | Revenue (ttm) | $19.21B |
+| RSI(14) | 39.7 | Operating margin | 13.77% |
+| ATR(14) | 8.56 | Profit margin | 11.55% |
+| SMA20 dist | -12.67% | ROA | 5.89% |
+| SMA50 dist | -13.23% | ROE | 42.96% |
+| SMA200 dist | -18.05% | Revenue (ttm) | $19.21B |
 | 52W high | $189.90 | Revenue growth y/y | -5.50% |
 | 52W low | $112.89 | Inst. ownership | 92.63% |
-| P/E (ttm) | 21.17 | Insider ownership | 0.77% |
-| Forward P/E | 13.17 | Short float | 3.43% |
+| P/E (ttm) | 21.05 | Insider ownership | 0.77% |
+| Forward P/E | 13.09 | Short float | 3.43% |
 | PEG (trailing) | 0.32 | Avg volume | 5,936,220 |
-| P/S | 2.19 | Employees | 6,390 |
-| P/B | 14.03 | Analyst rec (1=buy..5=sell) | 1.4 |
+| P/S | 2.18 | Employees | 6,390 |
+| P/B | 13.95 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-11-06 | reit | Bernstein | Outperform → Outperform |
 | 2026-11-04 | down | Keybanc | Overweight → Sector Weight |
 | 2026-10-28 | main | CIBC | Outperformer → Outperformer |
 | 2026-10-28 | main | Scotiabank | Sector Outperform → Sector Outperform |
@@ -137,7 +138,6 @@ Vistra Corp., together with its subsidiaries, operates as an integrated retail e
 | 2026-10-27 | main | B of A Securities | Buy → Buy |
 | 2026-10-22 | init | HSBC | — → Buy |
 | 2026-10-21 | main | Morgan Stanley | Overweight → Overweight |
-| 2026-10-16 | init | CIBC | — → Outperformer |
 
 ## 9. Conclusion
 VST: Low momentum / mixed fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

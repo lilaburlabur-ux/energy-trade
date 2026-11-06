@@ -4,8 +4,8 @@ Signed file: `PSX.research.06.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $246.68 (2026-11-06, ~15-min delayed) |
-| Market cap | $96.22B |
+| Current price | $245.72 (2026-11-06, ~15-min delayed) |
+| Market cap | $95.85B |
 | Sector / Industry | Energy / Oil & Gas Refining & Marketing |
 | Main theme | Oil & Gas Refining & Marketing — see catalysts below |
 | Current stance | High technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
@@ -15,11 +15,11 @@ Signed file: `PSX.research.06.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +86.85%; price +22.93% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -17.03% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +86.12%; price +22.46% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -17.35% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 7.48%, revenue growth 46.40%. |
-| Value attractiveness | Reasonable | Forward P/E 7.85, EV/Sales 0.66. |
-| Risk level | Elevated | Beta 0.67, ATR 4.3% of price, short float 2.01%. |
+| Value attractiveness | Reasonable | Forward P/E 7.82, EV/Sales 0.66. |
+| Risk level | Elevated | Beta 0.67, ATR 4.4% of price, short float 2.01%. |
 
 **Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
 
@@ -44,22 +44,22 @@ Phillips 66 operates as an integrated downstream energy provider in the United S
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $246.68; 52w high $297.29 (-17.03%); 52w low $125.13 (+97.13%) |
-| Trend | +22.93% vs SMA200, -8.02% vs SMA50, -11.61% vs SMA20 |
-| Momentum | RSI(14) 33.8 (neutral) |
-| Volatility | ATR(14) 10.72 (~4.3% of price); beta 0.67 |
-| Setup perspective | -17.03% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $245.72; 52w high $297.29 (-17.35%); 52w low $125.13 (+96.37%) |
+| Trend | +22.46% vs SMA200, -8.37% vs SMA50, -11.93% vs SMA20 |
+| Momentum | RSI(14) 33.4 (neutral) |
+| Volatility | ATR(14) 10.72 (~4.4% of price); beta 0.67 |
+| Setup perspective | -17.35% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -12.8% |
-| Month | -12.4% |
-| Quarter | +15.1% |
-| Half Y | +45.6% |
-| 1Y | +86.8% |
-| YTD | +92.9% |
+| Week | -13.1% |
+| Month | -12.7% |
+| Quarter | +14.6% |
+| Half Y | +45.0% |
+| 1Y | +86.1% |
+| YTD | +92.1% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Phillips 66 operates as an integrated downstream energy provider in the United S
 | Revenue (ttm) | $168.19B | Revenue growth 46.40% y/y |
 | Profitability | Gross 15.08%, operating 13.17%, net 7.48% | ROA 10.64%, ROE 39.84% |
 | Balance sheet | Cash $5.85B, debt $18.53B | Current ratio 1.34, debt/equity 52.19 |
-| Valuation | P/E 7.91, forward P/E 7.85, P/S 0.57, P/B 2.80 | EV/Sales 0.66, EV/EBITDA 7.17 |
+| Valuation | P/E 7.88, forward P/E 7.82, P/S 0.57, P/B 2.79 | EV/Sales 0.66, EV/EBITDA 7.17 |
 | Growth expectations | Earnings growth 4299.00%, EPS q/q 4122.60% | Analyst mean target $292.37 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ Phillips 66 operates as an integrated downstream energy provider in the United S
 | AQR Capital Management, LLC | 4,489,507 | 1.15% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 0.67, ATR 4.3% of price, short float 2.01%. Size positions accordingly.
+- **Volatility risk:** Beta 0.67, ATR 4.4% of price, short float 2.01%. Size positions accordingly.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -110,21 +110,21 @@ Phillips 66 operates as an integrated downstream energy provider in the United S
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $246.68 | EV/Sales | 0.66 |
-| Market cap | $96.22B | EV/EBITDA | 7.17 |
+| Price | $245.72 | EV/Sales | 0.66 |
+| Market cap | $95.85B | EV/EBITDA | 7.17 |
 | Beta | 0.67 | Gross margin | 15.08% |
-| RSI(14) | 33.8 | Operating margin | 13.17% |
+| RSI(14) | 33.4 | Operating margin | 13.17% |
 | ATR(14) | 10.72 | Profit margin | 7.48% |
-| SMA20 dist | -11.61% | ROA | 10.64% |
-| SMA50 dist | -8.02% | ROE | 39.84% |
-| SMA200 dist | +22.93% | Revenue (ttm) | $168.19B |
+| SMA20 dist | -11.93% | ROA | 10.64% |
+| SMA50 dist | -8.37% | ROE | 39.84% |
+| SMA200 dist | +22.46% | Revenue (ttm) | $168.19B |
 | 52W high | $297.29 | Revenue growth y/y | 46.40% |
 | 52W low | $125.13 | Inst. ownership | 81.92% |
-| P/E (ttm) | 7.91 | Insider ownership | 0.22% |
-| Forward P/E | 7.85 | Short float | 2.01% |
+| P/E (ttm) | 7.88 | Insider ownership | 0.22% |
+| Forward P/E | 7.82 | Short float | 2.01% |
 | PEG (trailing) | 0.83 | Avg volume | 2,946,275 |
 | P/S | 0.57 | Employees | 12,600 |
-| P/B | 2.80 | Analyst rec (1=buy..5=sell) | 2.1 |
+| P/B | 2.79 | Analyst rec (1=buy..5=sell) | 2.1 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

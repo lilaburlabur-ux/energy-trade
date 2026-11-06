@@ -4,7 +4,7 @@ Signed file: `BKR.research.06.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $47.89 (2026-11-06, ~15-min delayed) |
+| Current price | $47.87 (2026-11-06, ~15-min delayed) |
 | Market cap | $47.54B |
 | Sector / Industry | Energy / Oil & Gas Equipment & Services |
 | Main theme | Oil & Gas Equipment & Services — see catalysts below |
@@ -15,8 +15,8 @@ Signed file: `BKR.research.06.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-20.10%) with negative half-year (-24.77%). |
-| Fresh setup quality | Poor / broken | -30.78% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-20.14%) with negative half-year (-24.80%). |
+| Fresh setup quality | Poor / broken | -30.81% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 10.08%, revenue growth 14.50%. |
 | Value attractiveness | Reasonable | Forward P/E 16.77, EV/Sales 2.06. |
 | Risk level | Elevated | Beta 1.06, ATR 4.5% of price, short float 2.87%. |
@@ -44,22 +44,22 @@ Baker Hughes Company provides a portfolio of technologies and services to energy
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $47.89; 52w high $69.18 (-30.78%); 52w low $43.99 (+8.86%) |
-| Trend | -20.10% vs SMA200, -15.86% vs SMA50, -11.66% vs SMA20 |
-| Momentum | RSI(14) 33.2 (neutral) |
+| Price vs 52-week range | Close $47.87; 52w high $69.18 (-30.81%); 52w low $43.99 (+8.81%) |
+| Trend | -20.14% vs SMA200, -15.90% vs SMA50, -11.70% vs SMA20 |
+| Momentum | RSI(14) 33.1 (neutral) |
 | Volatility | ATR(14) 2.18 (~4.5% of price); beta 1.06 |
-| Setup perspective | -30.78% from 52w high — base needs to rebuild. |
+| Setup perspective | -30.81% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
 | Week | -13.3% |
-| Month | -14.9% |
+| Month | -15.0% |
 | Quarter | -25.3% |
 | Half Y | -24.8% |
 | 1Y | +2.9% |
-| YTD | +2.7% |
+| YTD | +2.6% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -111,14 +111,14 @@ Baker Hughes Company provides a portfolio of technologies and services to energy
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $47.89 | EV/Sales | 2.06 |
+| Price | $47.87 | EV/Sales | 2.06 |
 | Market cap | $47.54B | EV/EBITDA | 11.79 |
 | Beta | 1.06 | Gross margin | 23.70% |
-| RSI(14) | 33.2 | Operating margin | 11.29% |
+| RSI(14) | 33.1 | Operating margin | 11.29% |
 | ATR(14) | 2.18 | Profit margin | 10.08% |
-| SMA20 dist | -11.66% | ROA | 4.46% |
-| SMA50 dist | -15.86% | ROE | 15.06% |
-| SMA200 dist | -20.10% | Revenue (ttm) | $28.74B |
+| SMA20 dist | -11.70% | ROA | 4.46% |
+| SMA50 dist | -15.90% | ROE | 15.06% |
+| SMA200 dist | -20.14% | Revenue (ttm) | $28.74B |
 | 52W high | $69.18 | Revenue growth y/y | 14.50% |
 | 52W low | $43.99 | Inst. ownership | 100.10% |
 | P/E (ttm) | 16.45 | Insider ownership | 0.15% |

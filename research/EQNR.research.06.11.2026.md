@@ -5,7 +5,7 @@ Signed file: `EQNR.research.06.11.2026`
 | Field | Value |
 |---|---|
 | Current price | $41.99 (2026-11-06, ~15-min delayed) |
-| Market cap | $99.38B |
+| Market cap | $99.39B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
 | Current stance | High technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
@@ -15,7 +15,7 @@ Signed file: `EQNR.research.06.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +85.09%; price +11.52% vs SMA200. |
+| Technical momentum | High | 1Y +85.10%; price +11.53% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -13.99% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 9.79%, revenue growth 26.60%. |
 | Value attractiveness | Reasonable | Forward P/E 8.45, EV/Sales 1.72. |
@@ -44,8 +44,8 @@ Equinor ASA operates as an energy company in Norway and internationally. It oper
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $41.99; 52w high $48.82 (-13.99%); 52w low $21.68 (+93.67%) |
-| Trend | +11.52% vs SMA200, -5.03% vs SMA50, -8.42% vs SMA20 |
+| Price vs 52-week range | Close $41.99; 52w high $48.82 (-13.99%); 52w low $21.68 (+93.68%) |
+| Trend | +11.53% vs SMA200, -5.02% vs SMA50, -8.41% vs SMA20 |
 | Momentum | RSI(14) 38.5 (neutral) |
 | Volatility | ATR(14) 1.50 (~3.6% of price); beta -0.66 |
 | Setup perspective | -13.99% from 52w high; no clean fresh pivot by default. |
@@ -111,13 +111,13 @@ Equinor ASA operates as an energy company in Norway and internationally. It oper
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $41.99 | EV/Sales | 1.72 |
-| Market cap | $99.38B | EV/EBITDA | 4.32 |
+| Market cap | $99.39B | EV/EBITDA | 4.32 |
 | Beta | -0.66 | Gross margin | 43.18% |
 | RSI(14) | 38.5 | Operating margin | 37.00% |
 | ATR(14) | 1.50 | Profit margin | 9.79% |
-| SMA20 dist | -8.42% | ROA | 17.09% |
-| SMA50 dist | -5.03% | ROE | 27.57% |
-| SMA200 dist | +11.52% | Revenue (ttm) | $120.57B |
+| SMA20 dist | -8.41% | ROA | 17.09% |
+| SMA50 dist | -5.02% | ROE | 27.57% |
+| SMA200 dist | +11.53% | Revenue (ttm) | $120.57B |
 | 52W high | $48.82 | Revenue growth y/y | 26.60% |
 | 52W low | $21.68 | Inst. ownership | 6.92% |
 | P/E (ttm) | 8.71 | Insider ownership | 0.00% |

@@ -4,8 +4,8 @@ Signed file: `LEU.research.06.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $105.44 (2026-11-06, ~15-min delayed) |
-| Market cap | $2.16B |
+| Current price | $104.60 (2026-11-06, ~15-min delayed) |
+| Market cap | $2.14B |
 | Sector / Industry | Energy / Uranium |
 | Main theme | Uranium — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: fair-to-demanding, risk: high. |
@@ -15,11 +15,11 @@ Signed file: `LEU.research.06.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-41.43%) with negative half-year (-49.14%). |
-| Fresh setup quality | Poor / broken | -68.78% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-41.90%) with negative half-year (-49.55%). |
+| Fresh setup quality | Poor / broken | -69.03% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 16.77%, revenue growth -25.90%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 23.75, EV/Sales 1.68. |
-| Risk level | High | Beta 1.41, ATR 8.9% of price, short float 30.28%. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 23.56, EV/Sales 1.68. |
+| Risk level | High | Beta 1.41, ATR 9.0% of price, short float 30.28%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: fair-to-demanding, risk: high.
 
@@ -44,22 +44,22 @@ Centrus Energy Corp. supplies nuclear fuel components for the nuclear power indu
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $105.44; 52w high $337.76 (-68.78%); 52w low $89.03 (+18.43%) |
-| Trend | -41.43% vs SMA200, -22.46% vs SMA50, -3.19% vs SMA20 |
-| Momentum | RSI(14) 43.0 (neutral) |
-| Volatility | ATR(14) 9.38 (~8.9% of price); beta 1.41 |
-| Setup perspective | -68.78% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $104.60; 52w high $337.76 (-69.03%); 52w low $89.03 (+17.49%) |
+| Trend | -41.90% vs SMA200, -23.07% vs SMA50, -3.92% vs SMA20 |
+| Momentum | RSI(14) 42.4 (neutral) |
+| Volatility | ATR(14) 9.38 (~9.0% of price); beta 1.41 |
+| Setup perspective | -69.03% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +2.1% |
-| Month | -25.8% |
-| Quarter | -44.3% |
-| Half Y | -49.1% |
-| 1Y | -67.6% |
-| YTD | -61.3% |
+| Week | +1.3% |
+| Month | -26.4% |
+| Quarter | -44.8% |
+| Half Y | -49.5% |
+| 1Y | -67.9% |
+| YTD | -61.6% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Centrus Energy Corp. supplies nuclear fuel components for the nuclear power indu
 | Revenue (ttm) | $454.50M | Revenue growth -25.90% y/y |
 | Profitability | Gross 23.28%, operating -55.32%, net 16.77% | ROA -0.31%, ROE 10.38% |
 | Balance sheet | Cash $2.24B, debt $1.18B | Current ratio 8.61, debt/equity 106.67 |
-| Valuation | P/E 31.29, forward P/E 23.75, P/S 4.74, P/B 1.95 | EV/Sales 1.68, EV/EBITDA -272.73 |
+| Valuation | P/E 31.04, forward P/E 23.56, P/S 4.71, P/B 1.94 | EV/Sales 1.68, EV/EBITDA -272.73 |
 | Growth expectations | Earnings growth 642.10%, EPS q/q 710.30% | Analyst mean target $206.36 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,8 +95,8 @@ Centrus Energy Corp. supplies nuclear fuel components for the nuclear power indu
 | Renaissance Technologies, LLC | 280,482 | 1.41% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 23.75, EV/Sales 1.68. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 1.41, ATR 8.9% of price, short float 30.28%. Size positions accordingly.
+- **Valuation risk:** Forward P/E 23.56, EV/Sales 1.68. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 1.41, ATR 9.0% of price, short float 30.28%. Size positions accordingly.
 - **Short interest risk:** short float 30.28% can fuel squeezes both ways around news.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
@@ -113,21 +113,21 @@ Centrus Energy Corp. supplies nuclear fuel components for the nuclear power indu
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $105.44 | EV/Sales | 1.68 |
-| Market cap | $2.16B | EV/EBITDA | -272.73 |
+| Price | $104.60 | EV/Sales | 1.68 |
+| Market cap | $2.14B | EV/EBITDA | -272.73 |
 | Beta | 1.41 | Gross margin | 23.28% |
-| RSI(14) | 43.0 | Operating margin | -55.32% |
+| RSI(14) | 42.4 | Operating margin | -55.32% |
 | ATR(14) | 9.38 | Profit margin | 16.77% |
-| SMA20 dist | -3.19% | ROA | -0.31% |
-| SMA50 dist | -22.46% | ROE | 10.38% |
-| SMA200 dist | -41.43% | Revenue (ttm) | $454.50M |
+| SMA20 dist | -3.92% | ROA | -0.31% |
+| SMA50 dist | -23.07% | ROE | 10.38% |
+| SMA200 dist | -41.90% | Revenue (ttm) | $454.50M |
 | 52W high | $337.76 | Revenue growth y/y | -25.90% |
 | 52W low | $89.03 | Inst. ownership | 85.19% |
-| P/E (ttm) | 31.29 | Insider ownership | 1.03% |
-| Forward P/E | 23.75 | Short float | 30.28% |
+| P/E (ttm) | 31.04 | Insider ownership | 1.03% |
+| Forward P/E | 23.56 | Short float | 30.28% |
 | PEG (trailing) | — | Avg volume | 761,398 |
-| P/S | 4.74 | Employees | 467 |
-| P/B | 1.95 | Analyst rec (1=buy..5=sell) | 1.9 |
+| P/S | 4.71 | Employees | 467 |
+| P/B | 1.94 | Analyst rec (1=buy..5=sell) | 1.9 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

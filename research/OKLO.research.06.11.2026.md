@@ -4,8 +4,8 @@ Signed file: `OKLO.research.06.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $23.73 (2026-11-06, ~15-min delayed) |
-| Market cap | $4.41B |
+| Current price | $23.55 (2026-11-06, ~15-min delayed) |
+| Market cap | $4.38B |
 | Sector / Industry | Utilities / Utilities - Independent Power Producers |
 | Main theme | Utilities - Independent Power Producers — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: high. |
@@ -15,10 +15,10 @@ Signed file: `OKLO.research.06.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-54.47%) with negative half-year (-67.27%). |
-| Fresh setup quality | Poor / broken | -78.93% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-54.82%) with negative half-year (-67.52%). |
+| Fresh setup quality | Poor / broken | -79.09% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 0.00%, revenue growth —. |
-| Value attractiveness | Reasonable | Forward P/E -22.30, EV/Sales 917.79. |
+| Value attractiveness | Reasonable | Forward P/E -22.13, EV/Sales 917.79. |
 | Risk level | High | Beta 1.31, ATR 9.6% of price, short float 21.92%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: high.
@@ -36,30 +36,30 @@ Oklo Inc. develops fission power plants to provide energy at scale to customers 
 
 | Headline | Source | Date |
 |---|---|---|
+| NuScale: We’re “Not Reliant on Data Centers” | TIKR | 2026-11-06 |
 | Why Oklo Stock Is Up 21.8% Today | Motley Fool | 2026-11-06 |
 | Oklo (OKLO) Stock Fair Value Falls As Analysts Cut Targets On Rate And Execution Risks | Simply Wall St. | 2026-11-06 |
 | Not Oklo. Not X-Energy. This SMR Stock Just Signed a Contract to Start Building Reactor Components. | Motley Fool | 2026-11-06 |
-| Is Oklo Stock a Buy in November? | Motley Fool | 2026-11-06 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $23.73; 52w high $112.65 (-78.93%); 52w low $19.20 (+23.59%) |
-| Trend | -54.47% vs SMA200, -29.30% vs SMA50, -10.68% vs SMA20 |
-| Momentum | RSI(14) 37.4 (neutral) |
+| Price vs 52-week range | Close $23.55; 52w high $112.65 (-79.09%); 52w low $19.20 (+22.66%) |
+| Trend | -54.82% vs SMA200, -29.83% vs SMA50, -11.32% vs SMA20 |
+| Momentum | RSI(14) 36.9 (neutral) |
 | Volatility | ATR(14) 2.27 (~9.6% of price); beta 1.31 |
-| Setup perspective | -78.93% from 52w high — base needs to rebuild. |
+| Setup perspective | -79.09% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -6.0% |
-| Month | -31.4% |
-| Quarter | -46.7% |
-| Half Y | -67.3% |
-| 1Y | -80.4% |
-| YTD | -69.5% |
+| Week | -6.7% |
+| Month | -31.9% |
+| Quarter | -47.1% |
+| Half Y | -67.5% |
+| 1Y | -80.6% |
+| YTD | -69.7% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Oklo Inc. develops fission power plants to provide energy at scale to customers 
 | Revenue (ttm) | $1.21M | Revenue growth — y/y |
 | Profitability | Gross 40.41%, operating -6048.76%, net 0.00% | ROA -6.65%, ROE -7.70% |
 | Balance sheet | Cash $2.47B, debt $4.15M | Current ratio 48.46, debt/equity 0.13 |
-| Valuation | P/E —, forward P/E -22.30, P/S 3,648.10, P/B 1.34 | EV/Sales 917.79, EV/EBITDA -5.12 |
+| Valuation | P/E —, forward P/E -22.13, P/S 3,620.43, P/B 1.33 | EV/Sales 917.79, EV/EBITDA -5.12 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $65.25 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -112,21 +112,21 @@ Oklo Inc. develops fission power plants to provide energy at scale to customers 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $23.73 | EV/Sales | 917.79 |
-| Market cap | $4.41B | EV/EBITDA | -5.12 |
+| Price | $23.55 | EV/Sales | 917.79 |
+| Market cap | $4.38B | EV/EBITDA | -5.12 |
 | Beta | 1.31 | Gross margin | 40.41% |
-| RSI(14) | 37.4 | Operating margin | -6048.76% |
+| RSI(14) | 36.9 | Operating margin | -6048.76% |
 | ATR(14) | 2.27 | Profit margin | 0.00% |
-| SMA20 dist | -10.68% | ROA | -6.65% |
-| SMA50 dist | -29.30% | ROE | -7.70% |
-| SMA200 dist | -54.47% | Revenue (ttm) | $1.21M |
+| SMA20 dist | -11.32% | ROA | -6.65% |
+| SMA50 dist | -29.83% | ROE | -7.70% |
+| SMA200 dist | -54.82% | Revenue (ttm) | $1.21M |
 | 52W high | $112.65 | Revenue growth y/y | — |
 | 52W low | $19.20 | Inst. ownership | 47.89% |
 | P/E (ttm) | — | Insider ownership | 15.30% |
-| Forward P/E | -22.30 | Short float | 21.92% |
+| Forward P/E | -22.13 | Short float | 21.92% |
 | PEG (trailing) | — | Avg volume | 9,992,220 |
-| P/S | 3,648.10 | Employees | 215 |
-| P/B | 1.34 | Analyst rec (1=buy..5=sell) | 2.1 |
+| P/S | 3,620.43 | Employees | 215 |
+| P/B | 1.33 | Analyst rec (1=buy..5=sell) | 2.1 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
