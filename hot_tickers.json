@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-06T19:59:49+00:00",
+  "as_of": "2026-11-06T20:14:55+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,9 +11,9 @@
    "rank": 1,
    "ticker": "OKLO",
    "company": "Oklo Inc.",
-   "move_pct": 24.58,
-   "price": 23.92,
-   "volume": 19322552,
+   "move_pct": 24.32,
+   "price": 23.87,
+   "volume": 19939828,
    "volume_vs_avg": "~2x",
    "heat_score": 88,
    "direction": "up",
@@ -27,10 +27,10 @@
    "rank": 2,
    "ticker": "LEU",
    "company": "Centrus Energy Corp.",
-   "move_pct": 19.78,
-   "price": 106.64,
-   "volume": 963599,
-   "volume_vs_avg": "~1.1x",
+   "move_pct": 19.07,
+   "price": 106.01,
+   "volume": 988353,
+   "volume_vs_avg": "~1.2x",
    "heat_score": 83,
    "direction": "up",
    "why": "A director receives 966 stock units at Centrus Energy (LEU), vesting June 16, 2027.",
@@ -38,6 +38,22 @@
    "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNHpVRjBYN19TWjJEeWdBVWhrUVEyX2dBdVBlY0RSSkFIUllpcHh1ZzZlX09JN0wwcHdkcjFlWEg1Znh0Q0NTaWRFVUJPR24wdFRMUnpjM0xuNmtOTHhjbFRDLVQ2bl8wM05aMGZTbktUQUFYa0tFaXI3eXRsU3g3Rk1BYzloSUZGZEdSSGRVTHpfQmNXNmVfM0t5QVNpall5djUtZHctNUZ0ZUxNQ09DSDNR?oc=5",
    "published": "2026-11-06T18:19:09+00:00",
    "sector": "Nuclear & Uranium"
+  },
+  {
+   "rank": 3,
+   "ticker": "VST",
+   "company": "Vistra Corp.",
+   "move_pct": 11.02,
+   "price": 125.33,
+   "volume": 8970550,
+   "volume_vs_avg": "~1.2x",
+   "heat_score": 69,
+   "direction": "up",
+   "why": "Vistra Stocks Jump 7.69% After Earnings Surge and Fresh $1.5 Billion Buyback",
+   "catalyst_type": "earnings",
+   "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5mM2E4Uk1la3lRYWNGS1JrYUlRU1VpdG93dTlRUlZ1eXZKWjctOVcxYlpReV9uSUJ4Z1k0UUViaFR0SkVUVHF6YjlvTmtwbUxOUXlORVdfUDVUWVhWdGpjbGF2bnJMQnRFOVJ5bEVQVTdTTlpwSDlGcFV2Zm4?oc=5",
+   "published": "2026-11-06T19:07:27+00:00",
+   "sector": "Power & IPPs"
   }
  ]
 }
