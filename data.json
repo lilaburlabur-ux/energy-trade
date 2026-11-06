@@ -1,37 +1,11 @@
 {
-  "as_of_utc": "2026-11-06T14:08:10+00:00",
-  "as_of_local": "2026-11-06 14:08:10 UTC",
+  "as_of_utc": "2026-11-06T14:13:19+00:00",
+  "as_of_local": "2026-11-06 14:13:19 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "XOM"
+  ],
   "stocks": [
-    {
-      "symbol": "XOM",
-      "name": "ExxonMobil",
-      "price": 165.3,
-      "previous_close": 169.27,
-      "change_pct": -2.35,
-      "market_cap": 674295482441.999,
-      "headlines": [
-        {
-          "title": "State Street Energy SPDR (XLE) Sells $75.9 Million of Exxon on Nov. 4",
-          "url": "https://finance.yahoo.com/energy/articles/state-street-energy-spdr-xle-110525697.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-06T11:05:25Z"
-        },
-        {
-          "title": "ETFs Are Net Sellers of ExxonMobil (XOM) on Nov. 4",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-exxonmobil-xom-110227273.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-06T11:02:27Z"
-        },
-        {
-          "title": "Targa Resources Corp. Q3 2026 Earnings Call Summary",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/targa-resources-corp-q3-2026-230235227.html",
-          "publisher": "Moby",
-          "published": "2026-11-05T23:02:35Z"
-        }
-      ]
-    },
     {
       "symbol": "CVX",
       "name": "Chevron",
@@ -467,16 +441,16 @@
           "published": "2026-11-06T11:03:44Z"
         },
         {
+          "title": "What Are Wall Street Analysts' Target Price for Williams Companies Stock?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-075605703.html",
+          "publisher": "Barchart",
+          "published": "2026-11-06T07:56:05Z"
+        },
+        {
           "title": "A $750,000 Dividend Portfolio Could Cost You $9,000 a Year in Taxes. Here\u2019s How",
           "url": "https://finance.yahoo.com/markets/stocks/articles/750-000-dividend-portfolio-could-174836690.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-05T17:48:36Z"
-        },
-        {
-          "title": "Murphy Oil Q3 Earnings Beat Estimates on Strong Prices & Lower Costs",
-          "url": "https://finance.yahoo.com/energy/articles/murphy-oil-q3-earnings-beat-164800166.html",
-          "publisher": "Zacks",
-          "published": "2026-11-05T16:48:00Z"
         }
       ]
     },
@@ -537,34 +511,6 @@
       ]
     },
     {
-      "symbol": "EOG",
-      "name": "EOG Resources",
-      "price": 144.89,
-      "previous_close": 147.06,
-      "change_pct": -1.48,
-      "market_cap": 77172547386.60934,
-      "headlines": [
-        {
-          "title": "Time to Cash Out? 4 Energy Stocks I'd Sell Before It's Too Late",
-          "url": "https://finance.yahoo.com/energy/articles/time-cash-4-energy-stocks-033500680.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-06T03:35:00Z"
-        },
-        {
-          "title": "EOG Resources Lifts Dividend 8% as Q3 Profit Surges 89%",
-          "url": "https://finance.yahoo.com/energy/articles/eog-resources-lifts-dividend-8-024000468.html",
-          "publisher": "Oilprice.com",
-          "published": "2026-11-06T02:40:00Z"
-        },
-        {
-          "title": "Compared to Estimates, EOG Resources (EOG) Q3 Earnings: A Look at Key Metrics",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/compared-estimates-eog-resources-eog-220003973.html",
-          "publisher": "Zacks",
-          "published": "2026-11-05T22:00:03Z"
-        }
-      ]
-    },
-    {
       "symbol": "PWR",
       "name": "Quanta Services",
       "price": 509.06,
@@ -589,6 +535,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-stock-real-bargain-040023182.html",
           "publisher": "Trefis",
           "published": "2026-11-06T04:00:23Z"
+        }
+      ]
+    },
+    {
+      "symbol": "EOG",
+      "name": "EOG Resources",
+      "price": 144.89,
+      "previous_close": 147.06,
+      "change_pct": -1.48,
+      "market_cap": 75999031990.4928,
+      "headlines": [
+        {
+          "title": "Time to Cash Out? 4 Energy Stocks I'd Sell Before It's Too Late",
+          "url": "https://finance.yahoo.com/energy/articles/time-cash-4-energy-stocks-033500680.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-06T03:35:00Z"
+        },
+        {
+          "title": "EOG Resources Lifts Dividend 8% as Q3 Profit Surges 89%",
+          "url": "https://finance.yahoo.com/energy/articles/eog-resources-lifts-dividend-8-024000468.html",
+          "publisher": "Oilprice.com",
+          "published": "2026-11-06T02:40:00Z"
+        },
+        {
+          "title": "Compared to Estimates, EOG Resources (EOG) Q3 Earnings: A Look at Key Metrics",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/compared-estimates-eog-resources-eog-220003973.html",
+          "publisher": "Zacks",
+          "published": "2026-11-05T22:00:03Z"
         }
       ]
     },
@@ -1494,7 +1468,7 @@
       "price": 30.64,
       "previous_close": 30.91,
       "change_pct": -0.87,
-      "market_cap": 9292375382.49504,
+      "market_cap": 9195420037.4664,
       "headlines": [
         {
           "title": "I Love Brookfield Renewable for 1 Reason, and It\u2019s Not the Dividend",
@@ -1921,8 +1895,8 @@
           "name": "ExxonMobil Holdings Corp",
           "short": "ExxonMobil",
           "weight_pct": 24.29,
-          "change_pct": -2.35,
-          "price": 165.3,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -2020,8 +1994,8 @@
         "name": "ExxonMobil Holdings Corp",
         "short": "ExxonMobil",
         "weight_pct": 24.29,
-        "change_pct": -2.35,
-        "price": 165.3,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 90.87,
-      "change_pct": 0.39
+      "price": 90.71,
+      "change_pct": 0.21
     },
     {
       "label": "Brent",
-      "price": 98.25,
-      "change_pct": -0.04
+      "price": 98.11,
+      "change_pct": -0.18
     },
     {
       "label": "NatGas",
       "price": 2.99,
-      "change_pct": 1.56
+      "change_pct": 1.49
     }
   ]
 }
