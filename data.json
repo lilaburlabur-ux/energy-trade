@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-06T11:10:47+00:00",
-  "as_of_local": "2026-11-06 11:10:47 UTC",
+  "as_of_utc": "2026-11-06T11:15:52+00:00",
+  "as_of_local": "2026-11-06 11:15:52 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "SHEL"
+    "EQT"
   ],
   "stocks": [
     {
@@ -59,6 +59,34 @@
           "url": "https://finance.yahoo.com/energy/articles/chevrons-record-natural-gas-output-151500530.html",
           "publisher": "Zacks",
           "published": "2026-11-05T15:15:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "SHEL",
+      "name": "Shell",
+      "price": 100.12,
+      "previous_close": 101.86,
+      "change_pct": -1.71,
+      "market_cap": 283697165938.156,
+      "headlines": [
+        {
+          "title": "What DCC Energy Buyers Were Betting On",
+          "url": "https://finance.yahoo.com/energy/articles/dcc-energy-buyers-were-betting-080947543.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-06T08:09:47Z"
+        },
+        {
+          "title": "Teads Holding Co (TEAD) (Q3 2026) Earnings Call Highlights: CTV Surges 37% While Revenue Slides ...",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/teads-holding-co-tead-q3-051245103.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-06T05:12:45Z"
+        },
+        {
+          "title": "Hornbeck Offshore Services Inc (HOS) (Q3 2026) Earnings Call Highlights: Helix Merger Fuels $1. ...",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/hornbeck-offshore-services-inc-hos-011048272.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-06T01:10:48Z"
         }
       ]
     },
@@ -1039,34 +1067,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/edison-international-stock-jump-30-160603870.html",
           "publisher": "Trefis",
           "published": "2026-11-03T16:06:03Z"
-        }
-      ]
-    },
-    {
-      "symbol": "EQT",
-      "name": "EQT Corp",
-      "price": 50.62,
-      "previous_close": 52.52,
-      "change_pct": -3.62,
-      "market_cap": 31665311377.201126,
-      "headlines": [
-        {
-          "title": "Why Is Everyone Ignoring Expand Energy Stock's High Cash Yield?",
-          "url": "https://finance.yahoo.com/energy/articles/why-everyone-ignoring-expand-energy-000859092.html",
-          "publisher": "Trefis",
-          "published": "2026-11-06T00:08:59Z"
-        },
-        {
-          "title": "William Blair shakes up its top stock picks",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/william-blair-shakes-top-stock-162539821.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-02T16:25:39Z"
-        },
-        {
-          "title": "3 Pipeline Stocks Retail Investors May Watch As North American Energy Routes Shift",
-          "url": "https://finance.yahoo.com/energy/articles/3-pipeline-stocks-retail-investors-043140409.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-02T04:31:40Z"
         }
       ]
     },
@@ -2089,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 90.58,
-      "change_pct": 0.07
+      "price": 90.67,
+      "change_pct": 0.17
     },
     {
       "label": "Brent",
-      "price": 98.12,
-      "change_pct": -0.17
+      "price": 98.18,
+      "change_pct": -0.11
     },
     {
       "label": "NatGas",
-      "price": 3.0,
-      "change_pct": 1.93
+      "price": 3.01,
+      "change_pct": 1.97
     }
   ]
 }
