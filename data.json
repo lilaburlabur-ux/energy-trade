@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-06T11:46:03+00:00",
-  "as_of_local": "2026-11-06 11:46:03 UTC",
+  "as_of_utc": "2026-11-06T11:51:24+00:00",
+  "as_of_local": "2026-11-06 11:51:24 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "NOV"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -539,34 +537,6 @@
       ]
     },
     {
-      "symbol": "EOG",
-      "name": "EOG Resources",
-      "price": 144.89,
-      "previous_close": 147.06,
-      "change_pct": -1.48,
-      "market_cap": 77172547386.60934,
-      "headlines": [
-        {
-          "title": "Time to Cash Out? 4 Energy Stocks I'd Sell Before It's Too Late",
-          "url": "https://finance.yahoo.com/energy/articles/time-cash-4-energy-stocks-033500680.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-06T03:35:00Z"
-        },
-        {
-          "title": "EOG Resources Lifts Dividend 8% as Q3 Profit Surges 89%",
-          "url": "https://finance.yahoo.com/energy/articles/eog-resources-lifts-dividend-8-024000468.html",
-          "publisher": "Oilprice.com",
-          "published": "2026-11-06T02:40:00Z"
-        },
-        {
-          "title": "Compared to Estimates, EOG Resources (EOG) Q3 Earnings: A Look at Key Metrics",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/compared-estimates-eog-resources-eog-220003973.html",
-          "publisher": "Zacks",
-          "published": "2026-11-05T22:00:03Z"
-        }
-      ]
-    },
-    {
       "symbol": "PWR",
       "name": "Quanta Services",
       "price": 509.06,
@@ -591,6 +561,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-stock-real-bargain-040023182.html",
           "publisher": "Trefis",
           "published": "2026-11-06T04:00:23Z"
+        }
+      ]
+    },
+    {
+      "symbol": "EOG",
+      "name": "EOG Resources",
+      "price": 144.89,
+      "previous_close": 147.06,
+      "change_pct": -1.48,
+      "market_cap": 75999031990.4928,
+      "headlines": [
+        {
+          "title": "Time to Cash Out? 4 Energy Stocks I'd Sell Before It's Too Late",
+          "url": "https://finance.yahoo.com/energy/articles/time-cash-4-energy-stocks-033500680.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-06T03:35:00Z"
+        },
+        {
+          "title": "EOG Resources Lifts Dividend 8% as Q3 Profit Surges 89%",
+          "url": "https://finance.yahoo.com/energy/articles/eog-resources-lifts-dividend-8-024000468.html",
+          "publisher": "Oilprice.com",
+          "published": "2026-11-06T02:40:00Z"
+        },
+        {
+          "title": "Compared to Estimates, EOG Resources (EOG) Q3 Earnings: A Look at Key Metrics",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/compared-estimates-eog-resources-eog-220003973.html",
+          "publisher": "Zacks",
+          "published": "2026-11-05T22:00:03Z"
         }
       ]
     },
@@ -1496,7 +1494,7 @@
       "price": 30.64,
       "previous_close": 30.91,
       "change_pct": -0.87,
-      "market_cap": 9292375382.49504,
+      "market_cap": 9195420037.4664,
       "headlines": [
         {
           "title": "I Love Brookfield Renewable for 1 Reason, and It\u2019s Not the Dividend",
@@ -1515,6 +1513,34 @@
           "url": "https://finance.yahoo.com/energy/articles/brookfield-renewable-partners-q3-earnings-221436429.html",
           "publisher": "MarketBeat",
           "published": "2026-11-04T22:14:36Z"
+        }
+      ]
+    },
+    {
+      "symbol": "NOV",
+      "name": "NOV Inc",
+      "price": 17.39,
+      "previous_close": 18.03,
+      "change_pct": -3.55,
+      "market_cap": 6199752000.892044,
+      "headlines": [
+        {
+          "title": "CRGY Q3 Earnings Beat on Higher Oil Prices and Production",
+          "url": "https://finance.yahoo.com/energy/articles/crgy-q3-earnings-beat-higher-163600754.html",
+          "publisher": "Zacks",
+          "published": "2026-11-05T16:36:00Z"
+        },
+        {
+          "title": "NOV Expects Higher Offshore Bookings on Strong FPSO Project Pipeline",
+          "url": "https://finance.yahoo.com/energy/articles/nov-expects-higher-offshore-bookings-141000583.html",
+          "publisher": "Zacks",
+          "published": "2026-11-02T14:10:00Z"
+        },
+        {
+          "title": "What Just Happened To TechnipFMC Stock?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/just-happened-technipfmc-stock-163324798.html",
+          "publisher": "Trefis",
+          "published": "2026-10-30T16:33:24Z"
         }
       ]
     },
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 90.99,
-      "change_pct": 0.52
+      "price": 91.03,
+      "change_pct": 0.56
     },
     {
       "label": "Brent",
-      "price": 98.68,
-      "change_pct": 0.4
+      "price": 98.72,
+      "change_pct": 0.44
     },
     {
       "label": "NatGas",
       "price": 3.01,
-      "change_pct": 2.1
+      "change_pct": 2.17
     }
   ]
 }
