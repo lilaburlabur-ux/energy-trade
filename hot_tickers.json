@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-06T21:20:52+00:00",
+  "as_of": "2026-11-06T21:36:02+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,8 +11,8 @@
    "rank": 1,
    "ticker": "OKLO",
    "company": "Oklo Inc.",
-   "move_pct": 22.81,
-   "price": 23.58,
+   "move_pct": 22.34,
+   "price": 23.49,
    "volume": 24783765,
    "volume_vs_avg": "~3x",
    "heat_score": 90,
@@ -27,8 +27,8 @@
    "rank": 2,
    "ticker": "LEU",
    "company": "Centrus Energy Corp.",
-   "move_pct": 16.25,
-   "price": 103.5,
+   "move_pct": 18.05,
+   "price": 105.1,
    "volume": 1313412,
    "volume_vs_avg": "~2x",
    "heat_score": 85,
@@ -38,6 +38,22 @@
    "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONWZ4THQ4T1VDRXMtM0FWOVlwd2ZXMXpFc21ZbEZ1NjNVUHpHTlh2X1ZCa1FldmZrdHhDbEg5OHBzM0xoaVZWM01sRGx5VlJkOXVDeEFWR05KbktvTU9zRm9RRkxqSmswR2VmZHRXTHBQaHZvd0NHNGFzenBZQURFZ05QNTRVSExkdTcybFJuelZ5YUp1TWM0dU9kYWx6elpsbHJBOGVNRk9lY2x1QnhJNw?oc=5",
    "published": "2026-11-06T20:59:59+00:00",
    "sector": "Nuclear & Uranium"
+  },
+  {
+   "rank": 3,
+   "ticker": "PWR",
+   "company": "Quanta Services, Inc.",
+   "move_pct": 6.42,
+   "price": 541.75,
+   "volume": 2763186,
+   "volume_vs_avg": "~2x",
+   "heat_score": 48,
+   "direction": "up",
+   "why": "Quanta Services Inc Stock (PWR) Closed Up by 6.25% on Nov 6: What Investors Need To Know",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTTltdEU1dWVZLTcxdXV2OFFJdnk2bG5hMHRyRkgzUURzTlJ2aEhkRlpMdGd2c3BxQUk2eXFNNmJUQVBEMW9yNjE2V3BqbEFXYkVCSGJSV1ZpeFZBa0lJZDdWWS11eGpsNjlyRWgxakRxV1BPNGNSUk1BTlBKZTJQbjFKRVM4QndtV2c?oc=5",
+   "published": "2026-11-06T21:15:44+00:00",
+   "sector": "Grid, Storage & Electrification"
   }
  ]
 }
