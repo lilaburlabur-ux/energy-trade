@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-06T09:13:24+00:00",
+  "as_of": "2026-11-06T09:28:33+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,29 +9,13 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "BE",
-   "company": "Bloom Energy Corporation",
-   "move_pct": 8.38,
-   "price": 181.55,
-   "volume": 37102400,
-   "volume_vs_avg": "~2x",
-   "heat_score": 66,
-   "direction": "up",
-   "why": "Should You Wait Before Buying Bloom Energy Stock?",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNnZMSXBLbl9SNTFDT1BmZEpkTHVVUG9nb3VXakhnNzU0SXhfbDJQQnVpQTlsMWRwMllud25lNEtiS1ZBenV2bnpzcjVVcGVxaTBhVDVaRTlHNHdYSDRrV1gwaTJ6M2Q5dFZqdU5Ha1NIQmVKUVJRMW1qTXFKNGRuUUdSb0pCTmhiUVFyUnBtUXkwSl9KRjU3dTVXcw?oc=5",
-   "published": "2026-11-06T05:18:11+00:00",
-   "sector": "Grid, Storage & Electrification"
-  },
-  {
-   "rank": 2,
    "ticker": "PWR",
    "company": "Quanta Services, Inc.",
-   "move_pct": 2.09,
-   "price": 519.69,
+   "move_pct": 3.13,
+   "price": 525.0,
    "volume": 4907100,
    "volume_vs_avg": "~4x",
-   "heat_score": 42,
+   "heat_score": 46,
    "direction": "up",
    "why": "Quanta Services (PWR) Raised Guidance, Is The Pullback A Valuation Gap?",
    "catalyst_type": "earnings",
