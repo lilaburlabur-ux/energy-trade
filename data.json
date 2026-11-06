@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-06T21:57:01+00:00",
-  "as_of_local": "2026-11-06 21:57:01 UTC",
+  "as_of_utc": "2026-11-06T22:02:12+00:00",
+  "as_of_local": "2026-11-06 22:02:12 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -993,6 +993,12 @@
       "market_cap": 46430998992.91992,
       "headlines": [
         {
+          "title": "5 Activist Target Stocks with High Cash and Low Valuation",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/5-activist-target-stocks-high-214729551.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-11-06T21:47:29Z"
+        },
+        {
           "title": "Sector Update: Energy Stocks Lower Late Afternoon",
           "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-lower-afternoon-205956608.html",
           "publisher": "MT Newswires",
@@ -1003,12 +1009,6 @@
           "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-higher-friday-184319151.html",
           "publisher": "MT Newswires",
           "published": "2026-11-06T18:43:19Z"
-        },
-        {
-          "title": "Sector Update: Energy",
-          "url": "https://finance.yahoo.com/energy/articles/sector-energy-181446029.html",
-          "publisher": "MT Newswires",
-          "published": "2026-11-06T18:14:46Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 90.48,
-      "change_pct": -0.04
+      "price": 90.38,
+      "change_pct": -0.15
     },
     {
       "label": "Brent",
-      "price": 97.86,
-      "change_pct": -0.44
+      "price": 97.76,
+      "change_pct": -0.54
     },
     {
       "label": "NatGas",
       "price": 2.98,
-      "change_pct": 1.09
+      "change_pct": 1.26
     }
   ]
 }
