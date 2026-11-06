@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-06T00:02:43+00:00",
-  "as_of_local": "2026-11-06 00:02:43 UTC",
+  "as_of_utc": "2026-11-06T00:05:31+00:00",
+  "as_of_local": "2026-11-06 00:05:31 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "BP"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -227,6 +225,34 @@
           "url": "https://finance.yahoo.com/energy/articles/eaton-ceo-ac-dc-migration-170542327.html",
           "publisher": "Utility Dive",
           "published": "2026-11-05T17:05:42Z"
+        }
+      ]
+    },
+    {
+      "symbol": "BP",
+      "name": "BP",
+      "price": 44.7,
+      "previous_close": 45.61,
+      "change_pct": -2.0,
+      "market_cap": 115131651147.96661,
+      "headlines": [
+        {
+          "title": "3 British Energy Stocks With Earnings Growth Over 60%",
+          "url": "https://finance.yahoo.com/energy/articles/3-british-energy-stocks-earnings-211322595.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-05T21:13:22Z"
+        },
+        {
+          "title": "Sector Update: Energy Stocks Drop Thursday",
+          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-drop-thursday-210255557.html",
+          "publisher": "MT Newswires",
+          "published": "2026-11-05T21:02:55Z"
+        },
+        {
+          "title": "Sector Update: Energy Stocks Lower Thursday Afternoon",
+          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-lower-thursday-183515064.html",
+          "publisher": "MT Newswires",
+          "published": "2026-11-05T18:35:15Z"
         }
       ]
     },
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 91.25,
-      "change_pct": 3.55
+      "price": 91.28,
+      "change_pct": 3.59
     },
     {
       "label": "Brent",
-      "price": 99.24,
-      "change_pct": 4.88
+      "price": 99.23,
+      "change_pct": 4.87
     },
     {
       "label": "NatGas",
       "price": 2.95,
-      "change_pct": -0.24
+      "change_pct": -0.34
     }
   ]
 }
