@@ -4,8 +4,8 @@ Signed file: `MPC.research.06.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $374.98 (2026-11-06, ~15-min delayed) |
-| Market cap | $102.10B |
+| Current price | $375.08 (2026-11-06, ~15-min delayed) |
+| Market cap | $102.13B |
 | Sector / Industry | Energy / Oil & Gas Refining & Marketing |
 | Main theme | Oil & Gas Refining & Marketing — see catalysts below |
 | Current stance | High technical momentum, mixed fundamentals, value: reasonable, risk: high. |
@@ -15,8 +15,8 @@ Signed file: `MPC.research.06.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +104.77%; price +27.03% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -22.67% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +104.82%; price +27.06% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -22.65% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 8.34%, revenue growth 60.90%. |
 | Value attractiveness | Reasonable | Forward P/E 6.07, EV/Sales 0.74. |
 | Risk level | High | Beta 0.51, ATR 5.3% of price, short float 3.03%. |
@@ -44,22 +44,22 @@ Marathon Petroleum Corporation, together with its subsidiaries, operates as an i
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $374.98; 52w high $484.92 (-22.67%); 52w low $160.76 (+133.25%) |
-| Trend | +27.03% vs SMA200, -11.10% vs SMA50, -16.08% vs SMA20 |
+| Price vs 52-week range | Close $375.08; 52w high $484.92 (-22.65%); 52w low $160.76 (+133.31%) |
+| Trend | +27.06% vs SMA200, -11.08% vs SMA50, -16.06% vs SMA20 |
 | Momentum | RSI(14) 30.6 (neutral) |
 | Volatility | ATR(14) 19.95 (~5.3% of price); beta 0.51 |
-| Setup perspective | -22.67% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -22.65% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
 | Week | -15.7% |
-| Month | -19.1% |
+| Month | -19.0% |
 | Quarter | +17.4% |
-| Half Y | +54.1% |
+| Half Y | +54.2% |
 | 1Y | +104.8% |
-| YTD | +129.7% |
+| YTD | +129.8% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -110,14 +110,14 @@ Marathon Petroleum Corporation, together with its subsidiaries, operates as an i
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $374.98 | EV/Sales | 0.74 |
-| Market cap | $102.10B | EV/EBITDA | 5.48 |
+| Price | $375.08 | EV/Sales | 0.74 |
+| Market cap | $102.13B | EV/EBITDA | 5.48 |
 | Beta | 0.51 | Gross margin | 16.20% |
 | RSI(14) | 30.6 | Operating margin | 17.98% |
 | ATR(14) | 19.95 | Profit margin | 8.34% |
-| SMA20 dist | -16.08% | ROA | 13.75% |
-| SMA50 dist | -11.10% | ROE | 60.46% |
-| SMA200 dist | +27.03% | Revenue (ttm) | $175.40B |
+| SMA20 dist | -16.06% | ROA | 13.75% |
+| SMA50 dist | -11.08% | ROE | 60.46% |
+| SMA200 dist | +27.06% | Revenue (ttm) | $175.40B |
 | 52W high | $484.92 | Revenue growth y/y | 60.90% |
 | 52W low | $160.76 | Inst. ownership | 81.16% |
 | P/E (ttm) | 7.43 | Insider ownership | 0.34% |

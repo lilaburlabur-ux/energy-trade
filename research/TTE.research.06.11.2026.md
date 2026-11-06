@@ -5,7 +5,7 @@ Signed file: `TTE.research.06.11.2026`
 | Field | Value |
 |---|---|
 | Current price | $88.35 (2026-11-06, ~15-min delayed) |
-| Market cap | $193.96B |
+| Market cap | $193.98B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,8 +15,8 @@ Signed file: `TTE.research.06.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +50.40%; price +4.11% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -7.33% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +50.41%; price +4.11% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -7.32% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 10.46%, revenue growth 41.10%. |
 | Value attractiveness | Reasonable | Forward P/E 7.44, EV/Sales 1.05. |
 | Risk level | Moderate | Beta 0.04, ATR 2.3% of price, short float 0.22%. |
@@ -44,11 +44,11 @@ TotalEnergies SE, an integrated energy company, produces and markets oil and bio
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $88.35; 52w high $95.33 (-7.33%); 52w low $58.85 (+50.11%) |
-| Trend | +4.11% vs SMA200, -1.10% vs SMA50, -3.04% vs SMA20 |
+| Price vs 52-week range | Close $88.35; 52w high $95.33 (-7.32%); 52w low $58.85 (+50.12%) |
+| Trend | +4.11% vs SMA200, -1.09% vs SMA50, -3.03% vs SMA20 |
 | Momentum | RSI(14) 43.2 (neutral) |
 | Volatility | ATR(14) 2.00 (~2.3% of price); beta 0.04 |
-| Setup perspective | -7.33% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -7.32% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
@@ -111,12 +111,12 @@ TotalEnergies SE, an integrated energy company, produces and markets oil and bio
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $88.35 | EV/Sales | 1.05 |
-| Market cap | $193.96B | EV/EBITDA | 4.64 |
+| Market cap | $193.98B | EV/EBITDA | 4.64 |
 | Beta | 0.04 | Gross margin | 39.18% |
 | RSI(14) | 43.2 | Operating margin | 24.51% |
 | ATR(14) | 2.00 | Profit margin | 10.46% |
-| SMA20 dist | -3.04% | ROA | 7.19% |
-| SMA50 dist | -1.10% | ROE | 17.83% |
+| SMA20 dist | -3.03% | ROA | 7.19% |
+| SMA50 dist | -1.09% | ROE | 17.83% |
 | SMA200 dist | +4.11% | Revenue (ttm) | $214.40B |
 | 52W high | $95.33 | Revenue growth y/y | 41.10% |
 | 52W low | $58.85 | Inst. ownership | 54.18% |

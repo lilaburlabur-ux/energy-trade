@@ -5,7 +5,7 @@ Signed file: `XOM.research.06.11.2026`
 | Field | Value |
 |---|---|
 | Current price | $166.24 (2026-11-06, ~15-min delayed) |
-| Market cap | $678.13B |
+| Market cap | $678.15B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,7 +15,7 @@ Signed file: `XOM.research.06.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +50.47%; price +7.63% vs SMA200. |
+| Technical momentum | Moderate | 1Y +50.48%; price +7.63% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -11.22% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 10.46%, revenue growth 32.60%. |
 | Value attractiveness | Reasonable | Forward P/E 13.43, EV/Sales 1.81. |
@@ -45,8 +45,8 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 | Technical item | Read |
 |---|---|
 | Price vs 52-week range | Close $166.24; 52w high $187.25 (-11.22%); 52w low $111.27 (+49.40%) |
-| Trend | +7.63% vs SMA200, -1.54% vs SMA50, -6.28% vs SMA20 |
-| Momentum | RSI(14) 39.9 (neutral) |
+| Trend | +7.63% vs SMA200, -1.53% vs SMA50, -6.28% vs SMA20 |
+| Momentum | RSI(14) 40.0 (neutral) |
 | Volatility | ATR(14) 4.74 (~2.9% of price); beta 0.14 |
 | Setup perspective | -11.22% from 52w high; no clean fresh pivot by default. |
 
@@ -110,12 +110,12 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $166.24 | EV/Sales | 1.81 |
-| Market cap | $678.13B | EV/EBITDA | 8.91 |
+| Market cap | $678.15B | EV/EBITDA | 8.91 |
 | Beta | 0.14 | Gross margin | 29.81% |
-| RSI(14) | 39.9 | Operating margin | 16.98% |
+| RSI(14) | 40.0 | Operating margin | 16.98% |
 | ATR(14) | 4.74 | Profit margin | 10.46% |
 | SMA20 dist | -6.28% | ROA | 6.88% |
-| SMA50 dist | -1.54% | ROE | 15.53% |
+| SMA50 dist | -1.53% | ROE | 15.53% |
 | SMA200 dist | +7.63% | Revenue (ttm) | $388.23B |
 | 52W high | $187.25 | Revenue growth y/y | 32.60% |
 | 52W low | $111.27 | Inst. ownership | 68.52% |

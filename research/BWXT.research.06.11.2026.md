@@ -4,7 +4,7 @@ Signed file: `BWXT.research.06.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $119.84 (2026-11-06, ~15-min delayed) |
+| Current price | $119.79 (2026-11-06, ~15-min delayed) |
 | Market cap | $10.98B |
 | Sector / Industry | Industrials / Aerospace & Defense |
 | Main theme | Aerospace & Defense — see catalysts below |
@@ -15,10 +15,10 @@ Signed file: `BWXT.research.06.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-34.27%) with negative half-year (-41.47%). |
-| Fresh setup quality | Poor / broken | -49.59% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-34.29%) with negative half-year (-41.49%). |
+| Fresh setup quality | Poor / broken | -49.61% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 10.41%, revenue growth 10.00%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 23.17, EV/Sales 3.33. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 23.16, EV/Sales 3.33. |
 | Risk level | High | Beta 0.72, ATR 5.1% of price, short float 4.64%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: fair-to-demanding, risk: high.
@@ -44,19 +44,19 @@ BWX Technologies, Inc. manufactures and sells nuclear components in the United S
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $119.84; 52w high $237.73 (-49.59%); 52w low $114.96 (+4.24%) |
-| Trend | -34.27% vs SMA200, -14.76% vs SMA50, -9.02% vs SMA20 |
+| Price vs 52-week range | Close $119.79; 52w high $237.73 (-49.61%); 52w low $114.96 (+4.21%) |
+| Trend | -34.29% vs SMA200, -14.79% vs SMA50, -9.06% vs SMA20 |
 | Momentum | RSI(14) 35.3 (neutral) |
 | Volatility | ATR(14) 6.17 (~5.1% of price); beta 0.72 |
-| Setup perspective | -49.59% from 52w high — base needs to rebuild. |
+| Setup perspective | -49.61% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
 | Week | -8.3% |
-| Month | -15.7% |
-| Quarter | -28.9% |
+| Month | -15.8% |
+| Quarter | -29.0% |
 | Half Y | -41.5% |
 | 1Y | -39.2% |
 | YTD | -33.8% |
@@ -68,7 +68,7 @@ BWX Technologies, Inc. manufactures and sells nuclear components in the United S
 | Revenue (ttm) | $3.60B | Revenue growth 10.00% y/y |
 | Profitability | Gross 22.61%, operating 11.55%, net 10.41% | ROA 5.49%, ROE 28.27% |
 | Balance sheet | Cash $568.53M, debt $2.02B | Current ratio 1.88, debt/equity 142.56 |
-| Valuation | P/E 29.44, forward P/E 23.17, P/S 3.05, P/B 7.74 | EV/Sales 3.33, EV/EBITDA 24.11 |
+| Valuation | P/E 29.43, forward P/E 23.16, P/S 3.05, P/B 7.74 | EV/Sales 3.33, EV/EBITDA 24.11 |
 | Growth expectations | Earnings growth 24.60%, EPS q/q 23.90% | Analyst mean target $206.57 (16 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ BWX Technologies, Inc. manufactures and sells nuclear components in the United S
 | Invesco Ltd. | 1,835,328 | 2.00% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 23.17, EV/Sales 3.33. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 23.16, EV/Sales 3.33. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 0.72, ATR 5.1% of price, short float 4.64%. Size positions accordingly.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** defense/aerospace names live and die on government budgets, appropriations timing, and program/contract awards — revenue is policy-driven and lumpy.
@@ -112,18 +112,18 @@ BWX Technologies, Inc. manufactures and sells nuclear components in the United S
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $119.84 | EV/Sales | 3.33 |
+| Price | $119.79 | EV/Sales | 3.33 |
 | Market cap | $10.98B | EV/EBITDA | 24.11 |
 | Beta | 0.72 | Gross margin | 22.61% |
 | RSI(14) | 35.3 | Operating margin | 11.55% |
 | ATR(14) | 6.17 | Profit margin | 10.41% |
-| SMA20 dist | -9.02% | ROA | 5.49% |
-| SMA50 dist | -14.76% | ROE | 28.27% |
-| SMA200 dist | -34.27% | Revenue (ttm) | $3.60B |
+| SMA20 dist | -9.06% | ROA | 5.49% |
+| SMA50 dist | -14.79% | ROE | 28.27% |
+| SMA200 dist | -34.29% | Revenue (ttm) | $3.60B |
 | 52W high | $237.73 | Revenue growth y/y | 10.00% |
 | 52W low | $114.96 | Inst. ownership | 93.75% |
-| P/E (ttm) | 29.44 | Insider ownership | 0.36% |
-| Forward P/E | 23.17 | Short float | 4.64% |
+| P/E (ttm) | 29.43 | Insider ownership | 0.36% |
+| Forward P/E | 23.16 | Short float | 4.64% |
 | PEG (trailing) | — | Avg volume | 1,182,412 |
 | P/S | 3.05 | Employees | 10,400 |
 | P/B | 7.74 | Analyst rec (1=buy..5=sell) | 1.6 |

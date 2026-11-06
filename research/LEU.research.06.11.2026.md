@@ -4,7 +4,7 @@ Signed file: `LEU.research.06.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $105.45 (2026-11-06, ~15-min delayed) |
+| Current price | $105.44 (2026-11-06, ~15-min delayed) |
 | Market cap | $2.16B |
 | Sector / Industry | Energy / Uranium |
 | Main theme | Uranium — see catalysts below |
@@ -44,9 +44,9 @@ Centrus Energy Corp. supplies nuclear fuel components for the nuclear power indu
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $105.45; 52w high $337.76 (-68.78%); 52w low $89.03 (+18.44%) |
-| Trend | -41.43% vs SMA200, -22.45% vs SMA50, -3.18% vs SMA20 |
-| Momentum | RSI(14) 43.1 (neutral) |
+| Price vs 52-week range | Close $105.44; 52w high $337.76 (-68.78%); 52w low $89.03 (+18.43%) |
+| Trend | -41.43% vs SMA200, -22.46% vs SMA50, -3.19% vs SMA20 |
+| Momentum | RSI(14) 43.0 (neutral) |
 | Volatility | ATR(14) 9.38 (~8.9% of price); beta 1.41 |
 | Setup perspective | -68.78% from 52w high — base needs to rebuild. |
 
@@ -68,7 +68,7 @@ Centrus Energy Corp. supplies nuclear fuel components for the nuclear power indu
 | Revenue (ttm) | $454.50M | Revenue growth -25.90% y/y |
 | Profitability | Gross 23.28%, operating -55.32%, net 16.77% | ROA -0.31%, ROE 10.38% |
 | Balance sheet | Cash $2.24B, debt $1.18B | Current ratio 8.61, debt/equity 106.67 |
-| Valuation | P/E 31.29, forward P/E 23.75, P/S 4.75, P/B 1.95 | EV/Sales 1.68, EV/EBITDA -272.73 |
+| Valuation | P/E 31.29, forward P/E 23.75, P/S 4.74, P/B 1.95 | EV/Sales 1.68, EV/EBITDA -272.73 |
 | Growth expectations | Earnings growth 642.10%, EPS q/q 710.30% | Analyst mean target $206.36 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -113,20 +113,20 @@ Centrus Energy Corp. supplies nuclear fuel components for the nuclear power indu
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $105.45 | EV/Sales | 1.68 |
+| Price | $105.44 | EV/Sales | 1.68 |
 | Market cap | $2.16B | EV/EBITDA | -272.73 |
 | Beta | 1.41 | Gross margin | 23.28% |
-| RSI(14) | 43.1 | Operating margin | -55.32% |
+| RSI(14) | 43.0 | Operating margin | -55.32% |
 | ATR(14) | 9.38 | Profit margin | 16.77% |
-| SMA20 dist | -3.18% | ROA | -0.31% |
-| SMA50 dist | -22.45% | ROE | 10.38% |
+| SMA20 dist | -3.19% | ROA | -0.31% |
+| SMA50 dist | -22.46% | ROE | 10.38% |
 | SMA200 dist | -41.43% | Revenue (ttm) | $454.50M |
 | 52W high | $337.76 | Revenue growth y/y | -25.90% |
 | 52W low | $89.03 | Inst. ownership | 85.19% |
 | P/E (ttm) | 31.29 | Insider ownership | 1.03% |
 | Forward P/E | 23.75 | Short float | 30.28% |
 | PEG (trailing) | — | Avg volume | 761,398 |
-| P/S | 4.75 | Employees | 467 |
+| P/S | 4.74 | Employees | 467 |
 | P/B | 1.95 | Analyst rec (1=buy..5=sell) | 1.9 |
 
 ## 8. Analyst Actions

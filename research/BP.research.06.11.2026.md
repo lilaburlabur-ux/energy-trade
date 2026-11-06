@@ -4,8 +4,8 @@ Signed file: `BP.research.06.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $44.66 (2026-11-06, ~15-min delayed) |
-| Market cap | $115.03B |
+| Current price | $44.65 (2026-11-06, ~15-min delayed) |
+| Market cap | $114.99B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,8 +15,8 @@ Signed file: `BP.research.06.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +31.62%; price +4.63% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -12.98% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +31.57%; price +4.60% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -13.01% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 3.84%, revenue growth 41.40%. |
 | Value attractiveness | Reasonable | Forward P/E 7.66, EV/Sales 2.16. |
 | Risk level | Moderate | Beta -0.26, ATR 2.9% of price, short float 0.37%. |
@@ -44,11 +44,11 @@ BP p.l.c., an integrated energy company, engages in the oil and gas business wor
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $44.66; 52w high $51.32 (-12.98%); 52w low $32.12 (+39.05%) |
-| Trend | +4.63% vs SMA200, -3.43% vs SMA50, -8.22% vs SMA20 |
+| Price vs 52-week range | Close $44.65; 52w high $51.32 (-13.01%); 52w low $32.12 (+39.01%) |
+| Trend | +4.60% vs SMA200, -3.46% vs SMA50, -8.25% vs SMA20 |
 | Momentum | RSI(14) 37.0 (neutral) |
 | Volatility | ATR(14) 1.31 (~2.9% of price); beta -0.26 |
-| Setup perspective | -12.98% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -13.01% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
@@ -59,7 +59,7 @@ BP p.l.c., an integrated energy company, engages in the oil and gas business wor
 | Quarter | +5.4% |
 | Half Y | +5.5% |
 | 1Y | +31.6% |
-| YTD | +29.3% |
+| YTD | +29.2% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ BP p.l.c., an integrated energy company, engages in the oil and gas business wor
 | Revenue (ttm) | $235.14B | Revenue growth 41.40% y/y |
 | Profitability | Gross 29.56%, operating 18.59%, net 3.84% | ROA 6.75%, ROE 13.42% |
 | Balance sheet | Cash $43.05B, debt $69.62B | Current ratio 1.29, debt/equity 87.47 |
-| Valuation | P/E 21.79, forward P/E 7.66, P/S 0.49, P/B 7.45 | EV/Sales 2.16, EV/EBITDA 10.78 |
+| Valuation | P/E 21.78, forward P/E 7.66, P/S 0.49, P/B 7.45 | EV/Sales 2.16, EV/EBITDA 10.78 |
 | Growth expectations | Earnings growth 305.00%, EPS q/q 304.50% | Analyst mean target $54.79 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -109,17 +109,17 @@ BP p.l.c., an integrated energy company, engages in the oil and gas business wor
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $44.66 | EV/Sales | 2.16 |
-| Market cap | $115.03B | EV/EBITDA | 10.78 |
+| Price | $44.65 | EV/Sales | 2.16 |
+| Market cap | $114.99B | EV/EBITDA | 10.78 |
 | Beta | -0.26 | Gross margin | 29.56% |
 | RSI(14) | 37.0 | Operating margin | 18.59% |
 | ATR(14) | 1.31 | Profit margin | 3.84% |
-| SMA20 dist | -8.22% | ROA | 6.75% |
-| SMA50 dist | -3.43% | ROE | 13.42% |
-| SMA200 dist | +4.63% | Revenue (ttm) | $235.14B |
+| SMA20 dist | -8.25% | ROA | 6.75% |
+| SMA50 dist | -3.46% | ROE | 13.42% |
+| SMA200 dist | +4.60% | Revenue (ttm) | $235.14B |
 | 52W high | $51.32 | Revenue growth y/y | 41.40% |
 | 52W low | $32.12 | Inst. ownership | 14.18% |
-| P/E (ttm) | 21.79 | Insider ownership | 0.01% |
+| P/E (ttm) | 21.78 | Insider ownership | 0.01% |
 | Forward P/E | 7.66 | Short float | 0.37% |
 | PEG (trailing) | 0.04 | Avg volume | 9,139,192 |
 | P/S | 0.49 | Employees | 93,700 |

@@ -4,8 +4,8 @@ Signed file: `OVV.research.06.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $61.17 (2026-11-06, ~15-min delayed) |
-| Market cap | $16.44B |
+| Current price | $61.10 (2026-11-06, ~15-min delayed) |
+| Market cap | $16.42B |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
 | Current stance | High technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
@@ -15,8 +15,8 @@ Signed file: `OVV.research.06.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +70.78%; price +5.74% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -15.77% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +70.59%; price +5.62% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -15.87% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 13.13%, revenue growth 26.60%. |
 | Value attractiveness | Reasonable | Forward P/E 6.98, EV/Sales 2.11. |
 | Risk level | Elevated | Beta 0.56, ATR 3.9% of price, short float 5.26%. |
@@ -44,22 +44,22 @@ Ovintiv Inc., together with its subsidiaries, operates as an oil and natural gas
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $61.17; 52w high $72.62 (-15.77%); 52w low $36.42 (+67.95%) |
-| Trend | +5.74% vs SMA200, -5.57% vs SMA50, -10.31% vs SMA20 |
-| Momentum | RSI(14) 35.5 (neutral) |
+| Price vs 52-week range | Close $61.10; 52w high $72.62 (-15.87%); 52w low $36.42 (+67.76%) |
+| Trend | +5.62% vs SMA200, -5.68% vs SMA50, -10.41% vs SMA20 |
+| Momentum | RSI(14) 35.2 (neutral) |
 | Volatility | ATR(14) 2.36 (~3.9% of price); beta 0.56 |
-| Setup perspective | -15.77% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -15.87% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -15.8% |
-| Month | -3.5% |
-| Quarter | -3.3% |
-| Half Y | +6.8% |
-| 1Y | +70.8% |
-| YTD | +53.4% |
+| Week | -15.9% |
+| Month | -3.6% |
+| Quarter | -3.4% |
+| Half Y | +6.7% |
+| 1Y | +70.6% |
+| YTD | +53.2% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Ovintiv Inc., together with its subsidiaries, operates as an oil and natural gas
 | Revenue (ttm) | $10.06B | Revenue growth 26.60% y/y |
 | Profitability | Gross 55.81%, operating 34.32%, net 13.13% | ROA 10.13%, ROE 12.10% |
 | Balance sheet | Cash $176.00M, debt $5.07B | Current ratio 0.84, debt/equity 43.69 |
-| Valuation | P/E 12.21, forward P/E 6.98, P/S 1.63, P/B 1.42 | EV/Sales 2.11, EV/EBITDA 3.97 |
+| Valuation | P/E 12.19, forward P/E 6.98, P/S 1.63, P/B 1.42 | EV/Sales 2.11, EV/EBITDA 3.97 |
 | Growth expectations | Earnings growth 249.10%, EPS q/q 270.90% | Analyst mean target $81.48 (21 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -111,17 +111,17 @@ Ovintiv Inc., together with its subsidiaries, operates as an oil and natural gas
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $61.17 | EV/Sales | 2.11 |
-| Market cap | $16.44B | EV/EBITDA | 3.97 |
+| Price | $61.10 | EV/Sales | 2.11 |
+| Market cap | $16.42B | EV/EBITDA | 3.97 |
 | Beta | 0.56 | Gross margin | 55.81% |
-| RSI(14) | 35.5 | Operating margin | 34.32% |
+| RSI(14) | 35.2 | Operating margin | 34.32% |
 | ATR(14) | 2.36 | Profit margin | 13.13% |
-| SMA20 dist | -10.31% | ROA | 10.13% |
-| SMA50 dist | -5.57% | ROE | 12.10% |
-| SMA200 dist | +5.74% | Revenue (ttm) | $10.06B |
+| SMA20 dist | -10.41% | ROA | 10.13% |
+| SMA50 dist | -5.68% | ROE | 12.10% |
+| SMA200 dist | +5.62% | Revenue (ttm) | $10.06B |
 | 52W high | $72.62 | Revenue growth y/y | 26.60% |
 | 52W low | $36.42 | Inst. ownership | 99.30% |
-| P/E (ttm) | 12.21 | Insider ownership | 0.47% |
+| P/E (ttm) | 12.19 | Insider ownership | 0.47% |
 | Forward P/E | 6.98 | Short float | 5.26% |
 | PEG (trailing) | 2.74 | Avg volume | 3,345,743 |
 | P/S | 1.63 | Employees | 1,465 |

@@ -4,8 +4,8 @@ Signed file: `COP.research.06.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $136.78 (2026-11-06, ~15-min delayed) |
-| Market cap | $164.32B |
+| Current price | $136.99 (2026-11-06, ~15-min delayed) |
+| Market cap | $164.58B |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
 | Current stance | High technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
@@ -15,10 +15,10 @@ Signed file: `COP.research.06.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +60.88%; price +12.63% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -11.20% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +61.13%; price +12.80% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -11.06% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 14.40%, revenue growth 35.50%. |
-| Value attractiveness | Reasonable | Forward P/E 12.58, EV/Sales 2.79. |
+| Value attractiveness | Reasonable | Forward P/E 12.60, EV/Sales 2.79. |
 | Risk level | Elevated | Beta 0.16, ATR 3.1% of price, short float 1.55%. |
 
 **Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
@@ -44,22 +44,22 @@ ConocoPhillips explores for, produces, transports, and markets crude oil, bitume
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $136.78; 52w high $154.03 (-11.20%); 52w low $83.04 (+64.71%) |
-| Trend | +12.63% vs SMA200, -0.11% vs SMA50, -5.51% vs SMA20 |
-| Momentum | RSI(14) 43.4 (neutral) |
+| Price vs 52-week range | Close $136.99; 52w high $154.03 (-11.06%); 52w low $83.04 (+64.97%) |
+| Trend | +12.80% vs SMA200, +0.04% vs SMA50, -5.37% vs SMA20 |
+| Momentum | RSI(14) 43.8 (neutral) |
 | Volatility | ATR(14) 4.25 (~3.1% of price); beta 0.16 |
-| Setup perspective | -11.20% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -11.06% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -11.2% |
-| Month | +1.9% |
-| Quarter | +11.9% |
-| Half Y | +21.8% |
-| 1Y | +60.9% |
-| YTD | +44.6% |
+| Week | -11.1% |
+| Month | +2.1% |
+| Quarter | +12.1% |
+| Half Y | +22.0% |
+| 1Y | +61.1% |
+| YTD | +44.8% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ ConocoPhillips explores for, produces, transports, and markets crude oil, bitume
 | Revenue (ttm) | $64.46B | Revenue growth 35.50% y/y |
 | Profitability | Gross 47.57%, operating 31.51%, net 14.40% | ROA 7.53%, ROE 14.18% |
 | Balance sheet | Cash $7.69B, debt $23.29B | Current ratio 1.54, debt/equity 35.64 |
-| Valuation | P/E 14.41, forward P/E 12.58, P/S 2.55, P/B 2.60 | EV/Sales 2.79, EV/EBITDA 6.73 |
+| Valuation | P/E 14.44, forward P/E 12.60, P/S 2.55, P/B 2.60 | EV/Sales 2.79, EV/EBITDA 6.73 |
 | Growth expectations | Earnings growth 107.00%, EPS q/q 99.40% | Analyst mean target $151.56 (27 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -110,18 +110,18 @@ ConocoPhillips explores for, produces, transports, and markets crude oil, bitume
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $136.78 | EV/Sales | 2.79 |
-| Market cap | $164.32B | EV/EBITDA | 6.73 |
+| Price | $136.99 | EV/Sales | 2.79 |
+| Market cap | $164.58B | EV/EBITDA | 6.73 |
 | Beta | 0.16 | Gross margin | 47.57% |
-| RSI(14) | 43.4 | Operating margin | 31.51% |
+| RSI(14) | 43.8 | Operating margin | 31.51% |
 | ATR(14) | 4.25 | Profit margin | 14.40% |
-| SMA20 dist | -5.51% | ROA | 7.53% |
-| SMA50 dist | -0.11% | ROE | 14.18% |
-| SMA200 dist | +12.63% | Revenue (ttm) | $64.46B |
+| SMA20 dist | -5.37% | ROA | 7.53% |
+| SMA50 dist | +0.04% | ROE | 14.18% |
+| SMA200 dist | +12.80% | Revenue (ttm) | $64.46B |
 | 52W high | $154.03 | Revenue growth y/y | 35.50% |
 | 52W low | $83.04 | Inst. ownership | 87.03% |
-| P/E (ttm) | 14.41 | Insider ownership | 0.10% |
-| Forward P/E | 12.58 | Short float | 1.55% |
+| P/E (ttm) | 14.44 | Insider ownership | 0.10% |
+| Forward P/E | 12.60 | Short float | 1.55% |
 | PEG (trailing) | 1.00 | Avg volume | 6,668,626 |
 | P/S | 2.55 | Employees | 9,600 |
 | P/B | 2.60 | Analyst rec (1=buy..5=sell) | 1.9 |

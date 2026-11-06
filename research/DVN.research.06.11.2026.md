@@ -5,7 +5,7 @@ Signed file: `DVN.research.06.11.2026`
 | Field | Value |
 |---|---|
 | Current price | $42.44 (2026-11-06, ~15-min delayed) |
-| Market cap | $46.69B |
+| Market cap | $46.68B |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
 | Current stance | Low technical momentum, strong fundamentals, value: reasonable, risk: elevated. |
@@ -15,8 +15,8 @@ Signed file: `DVN.research.06.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-7.21%) with negative half-year (-5.67%). |
-| Fresh setup quality | Moderate / wait | -18.61% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-7.22%) with negative half-year (-5.68%). |
+| Fresh setup quality | Moderate / wait | -18.62% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 16.69%, revenue growth 68.70%. |
 | Value attractiveness | Reasonable | Forward P/E 7.88, EV/Sales 2.76. |
 | Risk level | Elevated | Beta —, ATR 4.1% of price, short float 2.52%. |
@@ -44,11 +44,11 @@ Devon Energy Corporation, an independent energy company, engages in the explorat
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $42.44; 52w high $52.15 (-18.61%); 52w low $31.62 (+34.22%) |
-| Trend | -7.21% vs SMA200, -12.65% vs SMA50, -13.73% vs SMA20 |
+| Price vs 52-week range | Close $42.44; 52w high $52.15 (-18.62%); 52w low $31.62 (+34.20%) |
+| Trend | -7.22% vs SMA200, -12.66% vs SMA50, -13.74% vs SMA20 |
 | Momentum | RSI(14) 28.3 (oversold) |
 | Volatility | ATR(14) 1.76 (~4.1% of price); beta — |
-| Setup perspective | -18.61% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -18.62% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
@@ -111,13 +111,13 @@ Devon Energy Corporation, an independent energy company, engages in the explorat
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $42.44 | EV/Sales | 2.76 |
-| Market cap | $46.69B | EV/EBITDA | 5.83 |
+| Market cap | $46.68B | EV/EBITDA | 5.83 |
 | Beta | — | Gross margin | 50.48% |
 | RSI(14) | 28.3 | Operating margin | 21.40% |
 | ATR(14) | 1.76 | Profit margin | 16.69% |
-| SMA20 dist | -13.73% | ROA | 6.52% |
-| SMA50 dist | -12.65% | ROE | 12.55% |
-| SMA200 dist | -7.21% | Revenue (ttm) | $21.57B |
+| SMA20 dist | -13.74% | ROA | 6.52% |
+| SMA50 dist | -12.66% | ROE | 12.55% |
+| SMA200 dist | -7.22% | Revenue (ttm) | $21.57B |
 | 52W high | $52.15 | Revenue growth y/y | 68.70% |
 | 52W low | $31.62 | Inst. ownership | 96.86% |
 | P/E (ttm) | 10.61 | Insider ownership | 0.77% |

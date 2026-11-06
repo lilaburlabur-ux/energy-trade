@@ -4,8 +4,8 @@ Signed file: `VRT.research.06.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $183.47 (2026-11-06, ~15-min delayed) |
-| Market cap | $70.65B |
+| Current price | $183.70 (2026-11-06, ~15-min delayed) |
+| Market cap | $70.74B |
 | Sector / Industry | Industrials / Electrical Equipment & Parts |
 | Main theme | Electrical Equipment & Parts — see catalysts below |
 | Current stance | Low technical momentum, strong fundamentals, value: reasonable, risk: high. |
@@ -15,10 +15,10 @@ Signed file: `VRT.research.06.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-32.33%) with negative half-year (-46.01%). |
-| Fresh setup quality | Poor / broken | -51.21% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-32.25%) with negative half-year (-45.94%). |
+| Fresh setup quality | Poor / broken | -51.15% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 16.00%, revenue growth 61.20%. |
-| Value attractiveness | Reasonable | Forward P/E 18.64, EV/Sales 5.16. |
+| Value attractiveness | Reasonable | Forward P/E 18.66, EV/Sales 5.16. |
 | Risk level | High | Beta 2.11, ATR 9.2% of price, short float 3.63%. |
 
 **Bottom line:** Low technical momentum, strong fundamentals, value: reasonable, risk: high.
@@ -44,22 +44,22 @@ Vertiv Holdings Co designs, manufactures, and services critical digital infrastr
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $183.47; 52w high $376.06 (-51.21%); 52w low $149.73 (+22.54%) |
-| Trend | -32.33% vs SMA200, -22.59% vs SMA50, -14.43% vs SMA20 |
-| Momentum | RSI(14) 36.9 (neutral) |
+| Price vs 52-week range | Close $183.70; 52w high $376.06 (-51.15%); 52w low $149.73 (+22.69%) |
+| Trend | -32.25% vs SMA200, -22.49% vs SMA50, -14.32% vs SMA20 |
+| Momentum | RSI(14) 37.0 (neutral) |
 | Volatility | ATR(14) 16.96 (~9.2% of price); beta 2.11 |
-| Setup perspective | -51.21% from 52w high — base needs to rebuild. |
+| Setup perspective | -51.15% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -21.1% |
-| Month | -24.7% |
-| Quarter | -32.1% |
-| Half Y | -46.0% |
-| 1Y | -3.7% |
-| YTD | +4.5% |
+| Week | -21.0% |
+| Month | -24.6% |
+| Quarter | -32.0% |
+| Half Y | -45.9% |
+| 1Y | -3.6% |
+| YTD | +4.7% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Vertiv Holdings Co designs, manufactures, and services critical digital infrastr
 | Revenue (ttm) | $13.12B | Revenue growth 61.20% y/y |
 | Profitability | Gross 38.12%, operating 23.77%, net 16.00% | ROA 11.94%, ROE 46.57% |
 | Balance sheet | Cash $3.71B, debt $3.36B | Current ratio 1.39, debt/equity 61.01 |
-| Valuation | P/E 34.29, forward P/E 18.64, P/S 5.38, P/B 12.84 | EV/Sales 5.16, EV/EBITDA 21.23 |
+| Valuation | P/E 34.34, forward P/E 18.66, P/S 5.39, P/B 12.86 | EV/Sales 5.16, EV/EBITDA 21.23 |
 | Growth expectations | Earnings growth 91.20%, EPS q/q 91.80% | Analyst mean target $339.07 (28 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -111,21 +111,21 @@ Vertiv Holdings Co designs, manufactures, and services critical digital infrastr
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $183.47 | EV/Sales | 5.16 |
-| Market cap | $70.65B | EV/EBITDA | 21.23 |
+| Price | $183.70 | EV/Sales | 5.16 |
+| Market cap | $70.74B | EV/EBITDA | 21.23 |
 | Beta | 2.11 | Gross margin | 38.12% |
-| RSI(14) | 36.9 | Operating margin | 23.77% |
+| RSI(14) | 37.0 | Operating margin | 23.77% |
 | ATR(14) | 16.96 | Profit margin | 16.00% |
-| SMA20 dist | -14.43% | ROA | 11.94% |
-| SMA50 dist | -22.59% | ROE | 46.57% |
-| SMA200 dist | -32.33% | Revenue (ttm) | $13.12B |
+| SMA20 dist | -14.32% | ROA | 11.94% |
+| SMA50 dist | -22.49% | ROE | 46.57% |
+| SMA200 dist | -32.25% | Revenue (ttm) | $13.12B |
 | 52W high | $376.06 | Revenue growth y/y | 61.20% |
 | 52W low | $149.73 | Inst. ownership | 84.23% |
-| P/E (ttm) | 34.29 | Insider ownership | 0.24% |
-| Forward P/E | 18.64 | Short float | 3.63% |
+| P/E (ttm) | 34.34 | Insider ownership | 0.24% |
+| Forward P/E | 18.66 | Short float | 3.63% |
 | PEG (trailing) | 0.52 | Avg volume | 5,834,807 |
-| P/S | 5.38 | Employees | 34,000 |
-| P/B | 12.84 | Analyst rec (1=buy..5=sell) | 1.4 |
+| P/S | 5.39 | Employees | 34,000 |
+| P/B | 12.86 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
