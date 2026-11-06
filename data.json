@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-06T11:05:36+00:00",
-  "as_of_local": "2026-11-06 11:05:36 UTC",
+  "as_of_utc": "2026-11-06T11:10:47+00:00",
+  "as_of_local": "2026-11-06 11:10:47 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "LNG"
+    "SHEL"
   ],
   "stocks": [
     {
@@ -59,34 +59,6 @@
           "url": "https://finance.yahoo.com/energy/articles/chevrons-record-natural-gas-output-151500530.html",
           "publisher": "Zacks",
           "published": "2026-11-05T15:15:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "SHEL",
-      "name": "Shell",
-      "price": 100.12,
-      "previous_close": 101.86,
-      "change_pct": -1.71,
-      "market_cap": 283697165938.156,
-      "headlines": [
-        {
-          "title": "What DCC Energy Buyers Were Betting On",
-          "url": "https://finance.yahoo.com/energy/articles/dcc-energy-buyers-were-betting-080947543.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-06T08:09:47Z"
-        },
-        {
-          "title": "Teads Holding Co (TEAD) (Q3 2026) Earnings Call Highlights: CTV Surges 37% While Revenue Slides ...",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/teads-holding-co-tead-q3-051245103.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-06T05:12:45Z"
-        },
-        {
-          "title": "Hornbeck Offshore Services Inc (HOS) (Q3 2026) Earnings Call Highlights: Helix Merger Fuels $1. ...",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/hornbeck-offshore-services-inc-hos-011048272.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-06T01:10:48Z"
         }
       ]
     },
@@ -787,6 +759,34 @@
           "url": "https://finance.yahoo.com/energy/articles/mpc-q3-earnings-beat-estimates-162400083.html",
           "publisher": "Zacks",
           "published": "2026-11-04T16:24:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "LNG",
+      "name": "Cheniere Energy",
+      "price": 279.57,
+      "previous_close": 292.02,
+      "change_pct": -4.26,
+      "market_cap": 57089289732.614136,
+      "headlines": [
+        {
+          "title": "QatarEnergy eyes more US LNG deals to shield supply from Mideast conflict - report",
+          "url": "https://finance.yahoo.com/energy/articles/qatarenergy-eyes-more-us-lng-181315275.html",
+          "publisher": "Investing.com",
+          "published": "2026-11-05T18:13:15Z"
+        },
+        {
+          "title": "Qatar in Talks to Buy More US LNG, Diversify Supply Outside Persian Gulf",
+          "url": "https://finance.yahoo.com/energy/articles/qatar-talks-buy-more-us-165623170.html",
+          "publisher": "Bloomberg",
+          "published": "2026-11-05T16:56:23Z"
+        },
+        {
+          "title": "3 LNG Stocks Investors Are Watching As Long Term Gas Contracts Return",
+          "url": "https://finance.yahoo.com/energy/articles/3-lng-stocks-investors-watching-051934435.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-05T05:19:34Z"
         }
       ]
     },
@@ -2089,13 +2089,13 @@
     },
     {
       "label": "WTI",
-      "price": 90.69,
-      "change_pct": 0.19
+      "price": 90.58,
+      "change_pct": 0.07
     },
     {
       "label": "Brent",
-      "price": 98.2,
-      "change_pct": -0.09
+      "price": 98.12,
+      "change_pct": -0.17
     },
     {
       "label": "NatGas",
