@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-06T05:31:55+00:00",
-  "as_of_local": "2026-11-06 05:31:55 UTC",
+  "as_of_utc": "2026-11-06T05:47:01+00:00",
+  "as_of_local": "2026-11-06 05:47:01 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "ET"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -125,6 +127,12 @@
       "market_cap": 194853369593.75,
       "headlines": [
         {
+          "title": "Clean Energy Fuels Corp (CLNE) (Q3 2026) Earnings Call Highlights: Raised Guidance, Surging RNG ...",
+          "url": "https://finance.yahoo.com/energy/articles/clean-energy-fuels-corp-clne-052748917.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-06T05:27:48Z"
+        },
+        {
           "title": "Sempra's Q3 Earnings Outpace Estimates, Revenues Increase Y/Y",
           "url": "https://finance.yahoo.com/markets/stocks/articles/sempras-q3-earnings-outpace-estimates-180200978.html",
           "publisher": "Zacks",
@@ -135,12 +143,6 @@
           "url": "https://finance.yahoo.com/energy/articles/murphy-oil-q3-earnings-beat-164800166.html",
           "publisher": "Zacks",
           "published": "2026-11-05T16:48:00Z"
-        },
-        {
-          "title": "Ormat Technologies Q3 Earnings and Revenues Beat Estimates",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ormat-technologies-q3-earnings-revenues-133800672.html",
-          "publisher": "Zacks",
-          "published": "2026-11-05T13:38:00Z"
         }
       ]
     },
@@ -237,6 +239,12 @@
       "market_cap": 115131651147.96661,
       "headlines": [
         {
+          "title": "Clean Energy Fuels Corp (CLNE) (Q3 2026) Earnings Call Highlights: Raised Guidance, Surging RNG ...",
+          "url": "https://finance.yahoo.com/energy/articles/clean-energy-fuels-corp-clne-052748917.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-06T05:27:48Z"
+        },
+        {
           "title": "3 British Energy Stocks With Earnings Growth Over 60%",
           "url": "https://finance.yahoo.com/energy/articles/3-british-energy-stocks-earnings-211322595.html",
           "publisher": "Simply Wall St.",
@@ -247,12 +255,6 @@
           "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-drop-thursday-210255557.html",
           "publisher": "MT Newswires",
           "published": "2026-11-05T21:02:55Z"
-        },
-        {
-          "title": "Sector Update: Energy Stocks Lower Thursday Afternoon",
-          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-lower-thursday-183515064.html",
-          "publisher": "MT Newswires",
-          "published": "2026-11-05T18:35:15Z"
         }
       ]
     },
@@ -677,34 +679,6 @@
       ]
     },
     {
-      "symbol": "ET",
-      "name": "Energy Transfer",
-      "price": 19.19,
-      "previous_close": 19.46,
-      "change_pct": -1.39,
-      "market_cap": 66076921182.11038,
-      "headlines": [
-        {
-          "title": "Sempra's Q3 Earnings Outpace Estimates, Revenues Increase Y/Y",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/sempras-q3-earnings-outpace-estimates-180200978.html",
-          "publisher": "Zacks",
-          "published": "2026-11-05T18:02:00Z"
-        },
-        {
-          "title": "National Fuel Gas Q4 Earnings Outpace Estimates, Revenues Increase Y/Y",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/national-fuel-gas-q4-earnings-142000319.html",
-          "publisher": "Zacks",
-          "published": "2026-11-05T14:20:00Z"
-        },
-        {
-          "title": "ET Q3 Earnings Call Puts Gas Demand and Capital Spending in Focus",
-          "url": "https://finance.yahoo.com/energy/articles/et-q3-earnings-call-puts-140000521.html",
-          "publisher": "Zacks",
-          "published": "2026-11-04T14:00:00Z"
-        }
-      ]
-    },
-    {
       "symbol": "D",
       "name": "Dominion Energy",
       "price": 69.64,
@@ -937,6 +911,12 @@
       "market_cap": 49508395854.511215,
       "headlines": [
         {
+          "title": "Is Bloom Energy (BE) A Bargain Following Election Driven AI Data Center Fears?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-bargain-following-election-051346362.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-06T05:13:46Z"
+        },
+        {
           "title": "Should You Wait Before Buying Bloom Energy Stock?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/wait-buying-bloom-energy-stock-045327425.html",
           "publisher": "Trefis",
@@ -947,12 +927,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-stock-jump-50-032911335.html",
           "publisher": "Trefis",
           "published": "2026-11-06T03:29:11Z"
-        },
-        {
-          "title": "Bloom Energy Sinks 16% Despite 900 MW NTT DATA Deal as Midterm Fears Hit AI Power Stocks",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-sinks-16-despite-000230240.html",
-          "publisher": "TIKR",
-          "published": "2026-11-06T00:02:30Z"
         }
       ]
     },
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 91.29,
-      "change_pct": 0.85
+      "price": 91.28,
+      "change_pct": 0.84
     },
     {
       "label": "Brent",
-      "price": 99.49,
-      "change_pct": 1.22
+      "price": 99.53,
+      "change_pct": 1.26
     },
     {
       "label": "NatGas",
-      "price": 2.96,
-      "change_pct": 0.44
+      "price": 2.98,
+      "change_pct": 1.05
     }
   ]
 }
