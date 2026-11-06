@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-06T13:52:51+00:00",
-  "as_of_local": "2026-11-06 13:52:51 UTC",
+  "as_of_utc": "2026-11-06T13:59:07+00:00",
+  "as_of_local": "2026-11-06 13:59:07 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "BE"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -911,6 +909,12 @@
       "market_cap": 50132961397.951584,
       "headlines": [
         {
+          "title": "Diamondback Just Raised Its Dividend 7.3%. These 3 Energy Stocks Are Paying Investors Too",
+          "url": "https://finance.yahoo.com/energy/articles/diamondback-just-raised-dividend-7-134756280.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-06T13:47:56Z"
+        },
+        {
           "title": "New Strong Buy Stocks for November 6th",
           "url": "https://finance.yahoo.com/markets/stocks/articles/strong-buy-stocks-november-6th-074800659.html",
           "publisher": "Zacks",
@@ -921,12 +925,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/best-income-stocks-buy-november-072000391.html",
           "publisher": "Zacks",
           "published": "2026-11-06T07:20:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "BE",
+      "name": "Bloom Energy",
+      "price": 167.52,
+      "previous_close": 200.4,
+      "change_pct": -16.41,
+      "market_cap": 49508395854.511215,
+      "headlines": [
+        {
+          "title": "Is Bloom Energy (BE) A Bargain Following Election Driven AI Data Center Fears?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-bargain-following-election-051346362.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-06T05:13:46Z"
         },
         {
-          "title": "Best Value Stocks to Buy for November 6th",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/best-value-stocks-buy-november-071400921.html",
-          "publisher": "Zacks",
-          "published": "2026-11-06T07:14:00Z"
+          "title": "Should You Wait Before Buying Bloom Energy Stock?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/wait-buying-bloom-energy-stock-045327425.html",
+          "publisher": "Trefis",
+          "published": "2026-11-06T04:53:27Z"
+        },
+        {
+          "title": "Can Bloom Energy Stock Jump 50%?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-stock-jump-50-032911335.html",
+          "publisher": "Trefis",
+          "published": "2026-11-06T03:29:11Z"
         }
       ]
     },
@@ -1611,6 +1637,12 @@
       "market_cap": 3571539021.920204,
       "headlines": [
         {
+          "title": "Oklo Inc. (OKLO) Reports Q3 Loss, Lags Revenue Estimates",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/oklo-inc-oklo-reports-q3-124501985.html",
+          "publisher": "Zacks",
+          "published": "2026-11-06T12:45:01Z"
+        },
+        {
           "title": "Bloom Energy Sinks 16% Despite 900 MW NTT DATA Deal as Midterm Fears Hit AI Power Stocks",
           "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-sinks-16-despite-000230240.html",
           "publisher": "TIKR",
@@ -1621,12 +1653,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/oklo-sank-10-day-democratic-152553806.html",
           "publisher": "TIKR",
           "published": "2026-11-05T15:25:53Z"
-        },
-        {
-          "title": "Dear Oklo Stock Fans, Mark Your Calendars for November 6",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/dear-oklo-stock-fans-mark-151015896.html",
-          "publisher": "Barchart",
-          "published": "2026-11-05T15:10:15Z"
         }
       ]
     },
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 91.14,
-      "change_pct": 0.68
+      "price": 91.11,
+      "change_pct": 0.65
     },
     {
       "label": "Brent",
-      "price": 98.69,
-      "change_pct": 0.41
+      "price": 98.52,
+      "change_pct": 0.23
     },
     {
       "label": "NatGas",
       "price": 2.99,
-      "change_pct": 1.63
+      "change_pct": 1.32
     }
   ]
 }
