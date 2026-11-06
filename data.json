@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-06T22:17:23+00:00",
-  "as_of_local": "2026-11-06 22:17:23 UTC",
+  "as_of_utc": "2026-11-06T22:22:15+00:00",
+  "as_of_local": "2026-11-06 22:22:15 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NRG"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -570,7 +572,7 @@
       "price": 147.13,
       "previous_close": 144.89,
       "change_pct": 1.55,
-      "market_cap": 78365638219.62524,
+      "market_cap": 77173980226.05762,
       "headlines": [
         {
           "title": "EOG Resources (EOG) Q3 2026 Earnings Call Transcript",
@@ -1233,34 +1235,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/first-solar-inc-fslr-attracting-130004912.html",
           "publisher": "Zacks",
           "published": "2026-11-06T13:00:04Z"
-        }
-      ]
-    },
-    {
-      "symbol": "NRG",
-      "name": "NRG Energy",
-      "price": 88.29,
-      "previous_close": 80.55,
-      "change_pct": 9.61,
-      "market_cap": 18559483736.523445,
-      "headlines": [
-        {
-          "title": "PPL Q3 Earnings Beat Estimates on Higher Rates, Sales Volumes",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ppl-q3-earnings-beat-estimates-171300630.html",
-          "publisher": "Zacks",
-          "published": "2026-11-06T17:13:00Z"
-        },
-        {
-          "title": "Vistra Soars 8% on 50% EBITDA Jump and First 2027 Outlook: \u201cMore of These Opportunities\u201d",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-soars-8-50-ebitda-144334241.html",
-          "publisher": "TIKR",
-          "published": "2026-11-06T14:43:34Z"
-        },
-        {
-          "title": "Algonquin Power & Utilities (AQN) Q3 Earnings and Revenues Beat Estimates",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/algonquin-power-utilities-aqn-q3-115502363.html",
-          "publisher": "Zacks",
-          "published": "2026-11-06T11:55:02Z"
         }
       ]
     },
