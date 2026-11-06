@@ -36,10 +36,10 @@ Shell plc operates as an energy and petrochemical company in Europe, Asia, Ocean
 
 | Headline | Source | Date |
 |---|---|---|
+| Top Analyst Reports for Shell, Dell & Amphenol | Zacks | 2026-11-06 |
 | Top Funds Feast On Shell, Microsoft, Palantir And 24 More Stocks | Investor's Business Daily | 2026-11-06 |
 | ‘I can’t get a job at 62. How can I make my savings last?’ | The Telegraph | 2026-11-06 |
 | What DCC Energy Buyers Were Betting On | Simply Wall St. | 2026-11-06 |
-| Teads Holding Co (TEAD) (Q3 2026) Earnings Call Highlights: CTV Surges 37% While Revenue Slides ... | GuruFocus.com | 2026-11-06 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

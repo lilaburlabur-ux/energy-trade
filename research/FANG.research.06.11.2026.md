@@ -36,10 +36,10 @@ Diamondback Energy, Inc., an independent oil and natural gas company, acquires, 
 
 | Headline | Source | Date |
 |---|---|---|
+| Top Analyst Reports for Shell, Dell & Amphenol | Zacks | 2026-11-06 |
 | APA Q3 Earnings Beat on Strong Oil Prices and U.S. Output | Zacks | 2026-11-06 |
 | 5 Dividend Stocks With Ex-Dividend Deadlines Next Week. Don’t Miss These Dates | 24/7 Wall St. | 2026-11-06 |
 | Diamondback Just Raised Its Dividend 7.3%. These 3 Energy Stocks Are Paying Investors Too | 24/7 Wall St. | 2026-11-06 |
-| New Strong Buy Stocks for November 6th | Zacks | 2026-11-06 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

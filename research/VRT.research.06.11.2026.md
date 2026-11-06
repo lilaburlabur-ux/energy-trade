@@ -36,10 +36,10 @@ Vertiv Holdings Co designs, manufactures, and services critical digital infrastr
 
 | Headline | Source | Date |
 |---|---|---|
+| Microsoft and Oracle's AI ambitions are suddenly a lot more expensive | TheStreet | 2026-11-06 |
 | Constellation Energy Fell 9% on the Midterm Sweep. Monday’s Report Has to Defend Its Growth Estimates | TIKR | 2026-11-06 |
 | Can Eaton Convert Its Record Backlog Into Stronger Earnings? | Zacks | 2026-11-06 |
 | Stocks to Watch: DraftKings, Airbnb, Iren, CoreWeave | The Wall Street Journal | 2026-11-06 |
-| Vertiv Beat by $550 Million Last Week. It Has Lost 23% Since Tuesday’s Vote | TIKR | 2026-11-06 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
