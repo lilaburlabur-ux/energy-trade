@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-06T23:51:52+00:00",
-  "as_of_local": "2026-11-06 23:51:52 UTC",
+  "as_of_utc": "2026-11-06T23:56:40+00:00",
+  "as_of_local": "2026-11-06 23:56:40 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "FANG"
+    "EPD"
   ],
   "stocks": [
     {
@@ -511,34 +511,6 @@
       ]
     },
     {
-      "symbol": "EPD",
-      "name": "Enterprise Products",
-      "price": 37.03,
-      "previous_close": 36.62,
-      "change_pct": 1.12,
-      "market_cap": 79859075259.16571,
-      "headlines": [
-        {
-          "title": "Enterprise Products (EPD) Q3 Earnings: Taking a Look at Key Metrics Versus Estimates",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/enterprise-products-epd-q3-earnings-210001954.html",
-          "publisher": "Zacks",
-          "published": "2026-11-06T21:00:01Z"
-        },
-        {
-          "title": "Enterprise Products Gains 24.3% in a Year: Should You Buy or Exit?",
-          "url": "https://finance.yahoo.com/energy/articles/enterprise-products-gains-24-3-171500090.html",
-          "publisher": "Zacks",
-          "published": "2026-11-06T17:15:00Z"
-        },
-        {
-          "title": "How Much of a $1.15 Million IRA Should a 66-Year-Old Convert to Roth to Collect $5,900 a Month Tax-Free?",
-          "url": "https://finance.yahoo.com/markets/options/articles/much-1-15-million-ira-141218725.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-05T14:12:18Z"
-        }
-      ]
-    },
-    {
       "symbol": "SU",
       "name": "Suncor Energy",
       "price": 68.74,
@@ -927,6 +899,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/ai-stocks-plunge-buy-sell-171600469.html",
           "publisher": "Zacks",
           "published": "2026-11-06T17:16:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "FANG",
+      "name": "Diamondback Energy",
+      "price": 178.96,
+      "previous_close": 179.58,
+      "change_pct": -0.35,
+      "market_cap": 49959878699.65581,
+      "headlines": [
+        {
+          "title": "Here's What Key Metrics Tell Us About Diamondback (FANG) Q3 Earnings",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/heres-key-metrics-tell-us-223002143.html",
+          "publisher": "Zacks",
+          "published": "2026-11-06T22:30:02Z"
+        },
+        {
+          "title": "Top Analyst Reports for Shell, Dell & Amphenol",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/top-analyst-reports-shell-dell-200700415.html",
+          "publisher": "Zacks",
+          "published": "2026-11-06T20:07:00Z"
+        },
+        {
+          "title": "APA Q3 Earnings Beat on Strong Oil Prices and U.S. Output",
+          "url": "https://finance.yahoo.com/energy/articles/apa-q3-earnings-beat-strong-155200571.html",
+          "publisher": "Zacks",
+          "published": "2026-11-06T15:52:00Z"
         }
       ]
     },
