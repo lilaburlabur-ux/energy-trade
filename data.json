@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-06T11:41:10+00:00",
-  "as_of_local": "2026-11-06 11:41:10 UTC",
+  "as_of_utc": "2026-11-06T11:46:03+00:00",
+  "as_of_local": "2026-11-06 11:46:03 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NOV"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1517,34 +1519,6 @@
       ]
     },
     {
-      "symbol": "NOV",
-      "name": "NOV Inc",
-      "price": 17.39,
-      "previous_close": 18.03,
-      "change_pct": -3.55,
-      "market_cap": 6199752000.892044,
-      "headlines": [
-        {
-          "title": "CRGY Q3 Earnings Beat on Higher Oil Prices and Production",
-          "url": "https://finance.yahoo.com/energy/articles/crgy-q3-earnings-beat-higher-163600754.html",
-          "publisher": "Zacks",
-          "published": "2026-11-05T16:36:00Z"
-        },
-        {
-          "title": "NOV Expects Higher Offshore Bookings on Strong FPSO Project Pipeline",
-          "url": "https://finance.yahoo.com/energy/articles/nov-expects-higher-offshore-bookings-141000583.html",
-          "publisher": "Zacks",
-          "published": "2026-11-02T14:10:00Z"
-        },
-        {
-          "title": "What Just Happened To TechnipFMC Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/just-happened-technipfmc-stock-163324798.html",
-          "publisher": "Trefis",
-          "published": "2026-10-30T16:33:24Z"
-        }
-      ]
-    },
-    {
       "symbol": "WFRD",
       "name": "Weatherford",
       "price": 82.32,
@@ -2120,13 +2094,13 @@
     },
     {
       "label": "Brent",
-      "price": 98.62,
-      "change_pct": 0.34
+      "price": 98.68,
+      "change_pct": 0.4
     },
     {
       "label": "NatGas",
-      "price": 3.0,
-      "change_pct": 1.9
+      "price": 3.01,
+      "change_pct": 2.1
     }
   ]
 }
