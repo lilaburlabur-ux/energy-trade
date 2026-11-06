@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-06T10:09:48+00:00",
-  "as_of_local": "2026-11-06 10:09:48 UTC",
+  "as_of_utc": "2026-11-06T10:14:50+00:00",
+  "as_of_local": "2026-11-06 10:14:50 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "PR"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1237,34 +1239,6 @@
       ]
     },
     {
-      "symbol": "PR",
-      "name": "Permian Resources",
-      "price": 21.34,
-      "previous_close": 22.43,
-      "change_pct": -4.86,
-      "market_cap": 17873467126.66106,
-      "headlines": [
-        {
-          "title": "Permian Res (PR) Q3 2026 Earnings Call Transcript",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/permian-res-pr-q3-2026-211548158.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-05T21:15:48Z"
-        },
-        {
-          "title": "How Much Upside is Left in Permian Resources (PR)? Wall Street Analysts Think 27.37%",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/much-upside-left-permian-resources-135502666.html",
-          "publisher": "Zacks",
-          "published": "2026-11-05T13:55:02Z"
-        },
-        {
-          "title": "Permian Resources (PR) Q3 Earnings and Revenues Surpass Estimates",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/permian-resources-pr-q3-earnings-234504091.html",
-          "publisher": "Zacks",
-          "published": "2026-11-04T23:45:04Z"
-        }
-      ]
-    },
-    {
       "symbol": "NRG",
       "name": "NRG Energy",
       "price": 80.55,
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 89.25,
-      "change_pct": -1.4
+      "price": 89.63,
+      "change_pct": -0.98
     },
     {
       "label": "Brent",
-      "price": 96.88,
-      "change_pct": -1.43
+      "price": 97.12,
+      "change_pct": -1.19
     },
     {
       "label": "NatGas",
       "price": 3.0,
-      "change_pct": 1.83
+      "change_pct": 1.9
     }
   ]
 }
