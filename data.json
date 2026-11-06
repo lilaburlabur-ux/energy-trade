@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-06T13:12:21+00:00",
-  "as_of_local": "2026-11-06 13:12:21 UTC",
+  "as_of_utc": "2026-11-06T13:17:41+00:00",
+  "as_of_local": "2026-11-06 13:17:41 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "AR"
+    "EOG"
   ],
   "stocks": [
     {
@@ -71,6 +71,12 @@
       "market_cap": 283697165938.156,
       "headlines": [
         {
+          "title": "Top Funds Feast On Shell, Microsoft, Palantir And 24 More Stocks",
+          "url": "https://www.investors.com/etfs-and-funds/mutual-funds/best-mutual-funds-feast-on-shell-microsoft-palantir-lilly-apple-and-more-stocks-to-watch/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-11-06T13:00:49Z"
+        },
+        {
           "title": "\u2018I can\u2019t get a job at 62. How can I make my savings last?\u2019",
           "url": "https://finance.yahoo.com/news/t-job-62-savings-last-120000552.html",
           "publisher": "The Telegraph",
@@ -81,12 +87,6 @@
           "url": "https://finance.yahoo.com/energy/articles/dcc-energy-buyers-were-betting-080947543.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-06T08:09:47Z"
-        },
-        {
-          "title": "Teads Holding Co (TEAD) (Q3 2026) Earnings Call Highlights: CTV Surges 37% While Revenue Slides ...",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/teads-holding-co-tead-q3-051245103.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-06T05:12:45Z"
         }
       ]
     },
@@ -535,34 +535,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/10-treasury-yields-4-91-164702607.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-04T16:47:02Z"
-        }
-      ]
-    },
-    {
-      "symbol": "EOG",
-      "name": "EOG Resources",
-      "price": 144.89,
-      "previous_close": 147.06,
-      "change_pct": -1.48,
-      "market_cap": 77172547386.60934,
-      "headlines": [
-        {
-          "title": "Time to Cash Out? 4 Energy Stocks I'd Sell Before It's Too Late",
-          "url": "https://finance.yahoo.com/energy/articles/time-cash-4-energy-stocks-033500680.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-06T03:35:00Z"
-        },
-        {
-          "title": "EOG Resources Lifts Dividend 8% as Q3 Profit Surges 89%",
-          "url": "https://finance.yahoo.com/energy/articles/eog-resources-lifts-dividend-8-024000468.html",
-          "publisher": "Oilprice.com",
-          "published": "2026-11-06T02:40:00Z"
-        },
-        {
-          "title": "Compared to Estimates, EOG Resources (EOG) Q3 Earnings: A Look at Key Metrics",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/compared-estimates-eog-resources-eog-220003973.html",
-          "publisher": "Zacks",
-          "published": "2026-11-05T22:00:03Z"
         }
       ]
     },
@@ -1435,6 +1407,34 @@
       ]
     },
     {
+      "symbol": "AR",
+      "name": "Antero Resources",
+      "price": 36.38,
+      "previous_close": 37.43,
+      "change_pct": -2.81,
+      "market_cap": 11173608008.05664,
+      "headlines": [
+        {
+          "title": "Why Is Everyone Ignoring Expand Energy Stock's High Cash Yield?",
+          "url": "https://finance.yahoo.com/energy/articles/why-everyone-ignoring-expand-energy-000859092.html",
+          "publisher": "Trefis",
+          "published": "2026-11-06T00:08:59Z"
+        },
+        {
+          "title": "1 growth stock to add to your roster and 2 we turn down",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/1-growth-stock-add-roster-115736291.html",
+          "publisher": "StockStory",
+          "published": "2026-11-03T11:57:36Z"
+        },
+        {
+          "title": "Eni Begins Maha Gas Production, Boosting Indonesia's Offshore Output",
+          "url": "https://finance.yahoo.com/energy/articles/eni-begins-maha-gas-production-160100997.html",
+          "publisher": "Zacks",
+          "published": "2026-11-02T16:01:00Z"
+        }
+      ]
+    },
+    {
       "symbol": "BWXT",
       "name": "BWX Technologies",
       "price": 114.96,
@@ -1468,7 +1468,7 @@
       "price": 30.64,
       "previous_close": 30.91,
       "change_pct": -0.87,
-      "market_cap": 9292375382.49504,
+      "market_cap": 9195420037.4664,
       "headlines": [
         {
           "title": "I Love Brookfield Renewable for 1 Reason, and It\u2019s Not the Dividend",
@@ -1958,8 +1958,8 @@
           "name": "EOG Resources Inc",
           "short": "EOG Resources",
           "weight_pct": 4.07,
-          "change_pct": -1.48,
-          "price": 144.89,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -2057,8 +2057,8 @@
         "name": "EOG Resources Inc",
         "short": "EOG Resources",
         "weight_pct": 4.07,
-        "change_pct": -1.48,
-        "price": 144.89,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -2089,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 90.48,
-      "change_pct": -0.04
+      "price": 91.01,
+      "change_pct": 0.54
     },
     {
       "label": "Brent",
-      "price": 98.1,
-      "change_pct": -0.19
+      "price": 98.52,
+      "change_pct": 0.23
     },
     {
       "label": "NatGas",
       "price": 3.0,
-      "change_pct": 1.8
+      "change_pct": 1.7
     }
   ]
 }
