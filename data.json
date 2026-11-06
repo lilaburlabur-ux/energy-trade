@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-06T12:41:51+00:00",
-  "as_of_local": "2026-11-06 12:41:51 UTC",
+  "as_of_utc": "2026-11-06T12:46:54+00:00",
+  "as_of_local": "2026-11-06 12:46:54 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "HAL"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1125,34 +1127,6 @@
       ]
     },
     {
-      "symbol": "HAL",
-      "name": "Halliburton",
-      "price": 31.92,
-      "previous_close": 33.0,
-      "change_pct": -3.27,
-      "market_cap": 26401872899.74473,
-      "headlines": [
-        {
-          "title": "CLB Q3 Earnings Miss Estimates on Higher Costs and Disruptions",
-          "url": "https://finance.yahoo.com/energy/articles/clb-q3-earnings-miss-estimates-155400926.html",
-          "publisher": "Zacks",
-          "published": "2026-11-03T15:54:00Z"
-        },
-        {
-          "title": "Questions Mount Over Venezuela\u2019s Biggest Oil Deal",
-          "url": "https://finance.yahoo.com/energy/articles/questions-mount-over-venezuela-biggest-010000297.html",
-          "publisher": "Oilprice.com",
-          "published": "2026-11-03T01:00:00Z"
-        },
-        {
-          "title": "What Just Happened To TechnipFMC Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/just-happened-technipfmc-stock-163324798.html",
-          "publisher": "Trefis",
-          "published": "2026-10-30T16:33:24Z"
-        }
-      ]
-    },
-    {
       "symbol": "FTI",
       "name": "TechnipFMC",
       "price": 61.59,
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 90.58,
-      "change_pct": 0.07
+      "price": 90.64,
+      "change_pct": 0.13
     },
     {
       "label": "Brent",
-      "price": 98.17,
-      "change_pct": -0.12
+      "price": 98.15,
+      "change_pct": -0.14
     },
     {
       "label": "NatGas",
-      "price": 3.0,
-      "change_pct": 1.83
+      "price": 3.01,
+      "change_pct": 1.97
     }
   ]
 }
