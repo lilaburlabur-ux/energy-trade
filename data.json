@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-06T10:55:20+00:00",
-  "as_of_local": "2026-11-06 10:55:20 UTC",
+  "as_of_utc": "2026-11-06T10:56:38+00:00",
+  "as_of_local": "2026-11-06 10:56:38 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "ETR"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -869,34 +871,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/ormat-technologies-q3-earnings-revenues-133800672.html",
           "publisher": "Zacks",
           "published": "2026-11-05T13:38:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "ETR",
-      "name": "Entergy",
-      "price": 110.3,
-      "previous_close": 111.9,
-      "change_pct": -1.43,
-      "market_cap": 52704332904.51265,
-      "headlines": [
-        {
-          "title": "New Dividend Growth ETF Enters the Market",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/dividend-growth-etf-enters-market-164400096.html",
-          "publisher": "Zacks",
-          "published": "2026-11-05T16:44:00Z"
-        },
-        {
-          "title": "Entergy sees progress on Arkansas data center deal, strong Q3 sales",
-          "url": "https://finance.yahoo.com/energy/articles/entergy-sees-progress-arkansas-data-155149336.html",
-          "publisher": "Utility Dive",
-          "published": "2026-11-05T15:51:49Z"
-        },
-        {
-          "title": "Duke Energy Q3 Earnings Surpass Estimates on 2% Retail Load Growth",
-          "url": "https://finance.yahoo.com/energy/articles/duke-energy-q3-earnings-surpass-130100692.html",
-          "publisher": "Zacks",
-          "published": "2026-11-05T13:01:00Z"
         }
       ]
     },
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 90.63,
-      "change_pct": 0.12
+      "price": 90.69,
+      "change_pct": 0.19
     },
     {
       "label": "Brent",
-      "price": 98.21,
-      "change_pct": -0.08
+      "price": 98.24,
+      "change_pct": -0.05
     },
     {
       "label": "NatGas",
       "price": 3.0,
-      "change_pct": 1.73
+      "change_pct": 1.8
     }
   ]
 }
