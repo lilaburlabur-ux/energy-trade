@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-06T21:31:31+00:00",
-  "as_of_local": "2026-11-06 21:31:31 UTC",
+  "as_of_utc": "2026-11-06T21:36:45+00:00",
+  "as_of_local": "2026-11-06 21:36:45 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "ARRY"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -153,6 +155,12 @@
       "market_cap": 182360754560.0799,
       "headlines": [
         {
+          "title": "NextEra Energy (NEE) Stock Could Be 14% Above Fair Value On Energy Hub Funding",
+          "url": "https://finance.yahoo.com/energy/articles/nextera-energy-nee-stock-could-211940016.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-06T21:19:40Z"
+        },
+        {
           "title": "Microsoft and Google Face a New Bill as Data Centers \u201cHave to Pay Their Own Costs\u201d",
           "url": "https://finance.yahoo.com/technology/articles/microsoft-google-face-bill-data-193517316.html",
           "publisher": "TIKR",
@@ -163,12 +171,6 @@
           "url": "https://finance.yahoo.com/energy/articles/nextera-energy-vs-aes-corporation-174545387.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-06T17:45:45Z"
-        },
-        {
-          "title": "Is NextEra's Dividend Enough To Make Up For Its Lagging Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nexteras-dividend-enough-lagging-stock-142600112.html",
-          "publisher": "Trefis",
-          "published": "2026-11-06T14:26:00Z"
         }
       ]
     },
@@ -1825,34 +1827,6 @@
       ]
     },
     {
-      "symbol": "ARRY",
-      "name": "Array Technologies",
-      "price": 5.86,
-      "previous_close": 5.3,
-      "change_pct": 10.47,
-      "market_cap": 903247140.8724546,
-      "headlines": [
-        {
-          "title": "Array Technologies (ARRY) Q3 2026 Earnings Call Transcript",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/array-technologies-arry-q3-2026-080325432.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-06T08:03:25Z"
-        },
-        {
-          "title": "Array Technologies to merge with Shoals in $1 billion deal, combining solar suppliers",
-          "url": "https://finance.yahoo.com/energy/articles/array-technologies-merge-shoals-1-040800454.html",
-          "publisher": "Albuquerque Journal, N.M.",
-          "published": "2026-11-05T04:08:00Z"
-        },
-        {
-          "title": "Array\u2019s (NASDAQ:ARRY) Q3 2026 sales beat estimates but full-year sales guidance misses expectations significantly",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/array-nasdaq-arry-q3-2026-224142737.html",
-          "publisher": "StockStory",
-          "published": "2026-11-04T22:41:42Z"
-        }
-      ]
-    },
-    {
       "symbol": "FLNC",
       "name": "Fluence Energy",
       "price": 5.27,
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 90.43,
-      "change_pct": -0.1
+      "price": 90.52,
+      "change_pct": 0.0
     },
     {
       "label": "Brent",
-      "price": 97.87,
-      "change_pct": -0.43
+      "price": 97.9,
+      "change_pct": -0.4
     },
     {
       "label": "NatGas",
       "price": 2.97,
-      "change_pct": 0.78
+      "change_pct": 0.95
     }
   ]
 }
