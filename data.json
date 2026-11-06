@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-06T06:07:08+00:00",
-  "as_of_local": "2026-11-06 06:07:08 UTC",
+  "as_of_utc": "2026-11-06T06:22:04+00:00",
+  "as_of_local": "2026-11-06 06:22:04 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "CCJ"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1097,34 +1099,6 @@
       ]
     },
     {
-      "symbol": "CCJ",
-      "name": "Cameco",
-      "price": 68.33,
-      "previous_close": 71.68,
-      "change_pct": -4.67,
-      "market_cap": 29759969252.554703,
-      "headlines": [
-        {
-          "title": "3 Nuclear Stocks With Revenue Growth Up To 384%",
-          "url": "https://finance.yahoo.com/energy/articles/3-nuclear-stocks-revenue-growth-101429024.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-05T10:14:29Z"
-        },
-        {
-          "title": "Mine, Enrich, Build, Operate: Which Link in the Nuclear Supply Chain Is the Best Stock Right Now?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/mine-enrich-build-operate-nuclear-033500270.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-05T03:35:00Z"
-        },
-        {
-          "title": "3 Canadian Nuclear Stocks To Own In November 2026",
-          "url": "https://finance.yahoo.com/energy/articles/3-canadian-nuclear-stocks-own-232035019.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-04T23:20:35Z"
-        }
-      ]
-    },
-    {
       "symbol": "HAL",
       "name": "Halliburton",
       "price": 31.92,
@@ -2115,8 +2089,8 @@
     },
     {
       "label": "WTI",
-      "price": 91.6,
-      "change_pct": 1.19
+      "price": 91.57,
+      "change_pct": 1.16
     },
     {
       "label": "Brent",
@@ -2125,8 +2099,8 @@
     },
     {
       "label": "NatGas",
-      "price": 2.98,
-      "change_pct": 1.26
+      "price": 2.99,
+      "change_pct": 1.36
     }
   ]
 }
