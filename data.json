@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-06T21:26:30+00:00",
-  "as_of_local": "2026-11-06 21:26:30 UTC",
+  "as_of_utc": "2026-11-06T21:31:31+00:00",
+  "as_of_local": "2026-11-06 21:31:31 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -1771,10 +1771,10 @@
     {
       "symbol": "UUUU",
       "name": "Energy Fuels",
-      "price": 6.7,
+      "price": 6.66,
       "previous_close": 6.59,
-      "change_pct": 1.67,
-      "market_cap": 1774347134.0880795,
+      "change_pct": 1.06,
+      "market_cap": 1763754026.6704636,
       "headlines": [
         {
           "title": "Purepoint Uranium CEO explains why rising uranium prices aren't lifting stocks",
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 90.51,
-      "change_pct": -0.01
+      "price": 90.43,
+      "change_pct": -0.1
     },
     {
       "label": "Brent",
-      "price": 97.96,
-      "change_pct": -0.34
+      "price": 97.87,
+      "change_pct": -0.43
     },
     {
       "label": "NatGas",
       "price": 2.97,
-      "change_pct": 0.81
+      "change_pct": 0.78
     }
   ]
 }
