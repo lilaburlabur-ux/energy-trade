@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-06T21:41:17+00:00",
+  "as_of": "2026-11-06T21:56:26+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,8 +11,8 @@
    "rank": 1,
    "ticker": "OKLO",
    "company": "Oklo Inc.",
-   "move_pct": 22.17,
-   "price": 23.46,
+   "move_pct": 22.24,
+   "price": 23.47,
    "volume": 24783765,
    "volume_vs_avg": "~3x",
    "heat_score": 90,
@@ -41,18 +41,34 @@
   },
   {
    "rank": 3,
+   "ticker": "NRG",
+   "company": "NRG Energy, Inc.",
+   "move_pct": 9.61,
+   "price": 88.29,
+   "volume": 8670857,
+   "volume_vs_avg": "~2x",
+   "heat_score": 71,
+   "direction": "up",
+   "why": "NRG Energy Inc. stock outperforms competitors on strong trading day",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPX2djUTRrUEdBTjZPVHJRRnlyd3pEOGdPRWJxMmw5MzludW1XMHNneFBwYWhvbWV5WW16U0JwZTRXN0tjRktKV2ZSRlNNRFVLWDVDWjg1cmdMZEVTR0pMaHkwQWMzdkJVSDlET1VPMEVKTGhwUmJGYTJ1QlFjNjA2YmVaVGpkcVJoN2dCbVFkNWdfSXNISmVEVkdhTURFVHJUQm5vZ2Vyc3JEQ0VuN21EUDQ3LXIwSjVrVUw3Sm9CQ3N4U3Jx?oc=5",
+   "published": "2026-11-06T21:30:00+00:00",
+   "sector": "Power & IPPs"
+  },
+  {
+   "rank": 4,
    "ticker": "PWR",
    "company": "Quanta Services, Inc.",
-   "move_pct": 6.42,
-   "price": 541.75,
+   "move_pct": 6.08,
+   "price": 540.0,
    "volume": 2763186,
    "volume_vs_avg": "~2x",
-   "heat_score": 48,
+   "heat_score": 46,
    "direction": "up",
-   "why": "Quanta Services Inc Stock (PWR) Closed Up by 6.25% on Nov 6: What Investors Need To Know",
+   "why": "Quanta Services Inc. stock outperforms competitors on strong trading day",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTTltdEU1dWVZLTcxdXV2OFFJdnk2bG5hMHRyRkgzUURzTlJ2aEhkRlpMdGd2c3BxQUk2eXFNNmJUQVBEMW9yNjE2V3BqbEFXYkVCSGJSV1ZpeFZBa0lJZDdWWS11eGpsNjlyRWgxakRxV1BPNGNSUk1BTlBKZTJQbjFKRVM4QndtV2c?oc=5",
-   "published": "2026-11-06T21:15:44+00:00",
+   "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeWJuaDZEMU13TlB5bUM2VFdtRUxaSkh5dDk3V2lEclhiLXV2VDdwdlZnUWxDbkNRNVVqNTVNMVcwVEFhZjUtZ3F3ZnJCczlIVDZTdVcwX3VCRzVBM05EMGJleHp5QVNMRW5wVldZdm83Tzd6cU5JektRVmQ0RHlTT1dxSFJmTEMwc0NERER1QlhFYUZyN1ZPdWI5TDk5d0Y3LWZBQkFscFNwUDI1N3VPNGRzRWhLRkd2aklkYUhjNDNRWjMxa2FydjhlTQ?oc=5",
+   "published": "2026-11-06T21:30:00+00:00",
    "sector": "Grid, Storage & Electrification"
   }
  ]
