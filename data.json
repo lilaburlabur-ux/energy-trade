@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-06T09:15:13+00:00",
-  "as_of_local": "2026-11-06 09:15:13 UTC",
+  "as_of_utc": "2026-11-06T09:19:17+00:00",
+  "as_of_local": "2026-11-06 09:19:17 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "MPLX"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -759,6 +757,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/targa-resources-trgp-reports-q3-210001870.html",
           "publisher": "Zacks",
           "published": "2026-11-05T21:00:01Z"
+        }
+      ]
+    },
+    {
+      "symbol": "MPLX",
+      "name": "MPLX",
+      "price": 56.55,
+      "previous_close": 56.25,
+      "change_pct": 0.53,
+      "market_cap": 57286678282.5717,
+      "headlines": [
+        {
+          "title": "MPLX (MPLX) Stock Looks Undervalued Even After A Strong Run",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/mplx-mplx-stock-looks-undervalued-211920916.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-04T21:19:20Z"
+        },
+        {
+          "title": "The 10-Year Treasury Yields 4.91%. These 4 Dividend Stocks Pay More",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/10-treasury-yields-4-91-164702607.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-04T16:47:02Z"
+        },
+        {
+          "title": "MPC Q3 Earnings Beat Estimates on Strong Refining Margins",
+          "url": "https://finance.yahoo.com/energy/articles/mpc-q3-earnings-beat-estimates-162400083.html",
+          "publisher": "Zacks",
+          "published": "2026-11-04T16:24:00Z"
         }
       ]
     },
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 89.91,
-      "change_pct": -0.67
+      "price": 89.87,
+      "change_pct": -0.72
     },
     {
       "label": "Brent",
-      "price": 97.78,
-      "change_pct": -0.52
+      "price": 97.64,
+      "change_pct": -0.66
     },
     {
       "label": "NatGas",
-      "price": 3.01,
-      "change_pct": 2.1
+      "price": 3.0,
+      "change_pct": 1.87
     }
   ]
 }
