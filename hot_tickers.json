@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-06T13:37:01+00:00",
+  "as_of": "2026-11-06T13:52:14+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,13 +9,29 @@
  "hot_tickers": [
   {
    "rank": 1,
+   "ticker": "OKLO",
+   "company": "Oklo Inc.",
+   "move_pct": 11.25,
+   "price": 21.36,
+   "volume": 19145200,
+   "volume_vs_avg": "~2x",
+   "heat_score": 75,
+   "direction": "up",
+   "why": "OKLO Stock Rises After Q3 Earnings Beat",
+   "catalyst_type": "earnings",
+   "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5jSWJ4NjEwYUNtd2xyYXZwcVB5dlVwMjM0MVdKWmZnOFgtd3NTZjN1bmJpTWdJMU9PQzJCNVA3N2dEaXAyZmRobE01RHBMbnBySFQ0V3hxQTZxSEtaTVFBLTJhZVRTRmRPNW1UVmhWNDZteDJJa0FXdA?oc=5",
+   "published": "2026-11-06T13:27:37+00:00",
+   "sector": "Nuclear & Uranium"
+  },
+  {
+   "rank": 2,
    "ticker": "BE",
    "company": "Bloom Energy Corporation",
-   "move_pct": 9.54,
-   "price": 183.5,
+   "move_pct": 10.51,
+   "price": 185.13,
    "volume": 37102400,
    "volume_vs_avg": "~2x",
-   "heat_score": 70,
+   "heat_score": 74,
    "direction": "up",
    "why": "Why Is Bloom Energy Stock Surging Friday? - Bloom Energy (NYSE:BE)",
    "catalyst_type": "momentum_narrative",
@@ -24,7 +40,7 @@
    "sector": "Grid, Storage & Electrification"
   },
   {
-   "rank": 2,
+   "rank": 3,
    "ticker": "PWR",
    "company": "Quanta Services, Inc.",
    "move_pct": 5.15,
@@ -40,20 +56,36 @@
    "sector": "Grid, Storage & Electrification"
   },
   {
-   "rank": 3,
+   "rank": 4,
    "ticker": "VST",
    "company": "Vistra Corp.",
-   "move_pct": 5.5,
-   "price": 119.1,
+   "move_pct": 7.18,
+   "price": 120.99,
    "volume": 15275600,
    "volume_vs_avg": "~2x",
-   "heat_score": 45,
+   "heat_score": 50,
    "direction": "up",
    "why": "Why is Vistra stock surging today? By Investing.com",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdExZcmlKN0kzaTZ0UnRoVm9aZU1XaDk0UjB5UG9VZFg5TjRPeG1Bc0FETDJPSkNybk13WXhQV2FSNXBTQ2NWQXZMWFplemhqVFZqdlZ5eXhvc0hTbjlCNU44LW5KSk5hanh6RGxWUEtEM3ZQbERCb05INlUzTDQ1Mjg2UTJzdUZXTXA1eGRkbHVOdjUtcmJudURR?oc=5",
    "published": "2026-11-06T13:02:00+00:00",
    "sector": "Power & IPPs"
+  },
+  {
+   "rank": 5,
+   "ticker": "LEU",
+   "company": "Centrus Energy Corp.",
+   "move_pct": 6.14,
+   "price": 94.5,
+   "volume": 1477000,
+   "volume_vs_avg": "~2x",
+   "heat_score": 45,
+   "direction": "up",
+   "why": "How Investors May Respond To Centrus Energy (LEU) Earnings Beat",
+   "catalyst_type": "earnings",
+   "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaGcteWY1Y1VZaC1xNElTRWhTWVB4U3BubGMxVXEyLU9vRExoSDFjbDBqc1d6ck0zWmRXUjJXZnJmbm1QNUhCc1d6bVBxSi14Zk1ETXFnWGU4S1hPbXVZU09ianYydEh5UThOUW9IYnZYLWdYcFpYZkJreTl4bzYwSktBTG5CYUFkMG1IX2hyallQbnk4ZEVzM2s1Njk2Wi1DZlc2OFVnOTlHTmk0Q0lkUDN1S3pNQlg1UDItQ2pDLXB3YXNMWUow0gHMAUFVX3lxTE9tUDdYX0JRZEE0VTJnVDN5Y2dyeWtJWjJBWTd5X0hJOE5RZFNHeVFkczBoWGM5RzJ4X2ViOVpfRDU2Q2Z0VXZ4ZHNkbWhqVWZ4MnJQZWlIZnB3NncySXc2MTR0akpDOW1vRVpNQUowOU5SVmt4emNqX3pmWlhmYkg5TE9ULXJPVi01MUR2MUxRUlVrR3NZTXROVDhLTWQ4TGZXalJZSHNFSE8zdFNmM0NKdHZkeGJJZXUxWjJfcWFyVlU5V0puZnBvR2tEdg?oc=5",
+   "published": "2026-11-06T12:31:54+00:00",
+   "sector": "Nuclear & Uranium"
   }
  ]
 }
