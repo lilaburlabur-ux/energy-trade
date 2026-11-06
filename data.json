@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-06T11:30:50+00:00",
-  "as_of_local": "2026-11-06 11:30:50 UTC",
+  "as_of_utc": "2026-11-06T11:36:07+00:00",
+  "as_of_local": "2026-11-06 11:36:07 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "MPLX"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -763,6 +761,34 @@
       ]
     },
     {
+      "symbol": "MPLX",
+      "name": "MPLX",
+      "price": 56.55,
+      "previous_close": 56.25,
+      "change_pct": 0.53,
+      "market_cap": 57286678282.5717,
+      "headlines": [
+        {
+          "title": "MPLX (MPLX) Stock Looks Undervalued Even After A Strong Run",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/mplx-mplx-stock-looks-undervalued-211920916.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-04T21:19:20Z"
+        },
+        {
+          "title": "The 10-Year Treasury Yields 4.91%. These 4 Dividend Stocks Pay More",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/10-treasury-yields-4-91-164702607.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-04T16:47:02Z"
+        },
+        {
+          "title": "MPC Q3 Earnings Beat Estimates on Strong Refining Margins",
+          "url": "https://finance.yahoo.com/energy/articles/mpc-q3-earnings-beat-estimates-162400083.html",
+          "publisher": "Zacks",
+          "published": "2026-11-04T16:24:00Z"
+        }
+      ]
+    },
+    {
       "symbol": "LNG",
       "name": "Cheniere Energy",
       "price": 279.57,
@@ -1247,6 +1273,12 @@
       "market_cap": 16932455047.161484,
       "headlines": [
         {
+          "title": "What NRG Energy (NRG)'s Revenue Beat Means For Shareholders",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nrg-energy-nrg-revenue-beat-111527395.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-06T11:15:27Z"
+        },
+        {
           "title": "NRG Energy (NRG) Stock Sees Modest Fair Value Cut As Analyst Targets Reset",
           "url": "https://finance.yahoo.com/markets/stocks/articles/nrg-energy-nrg-stock-sees-032651283.html",
           "publisher": "Simply Wall St.",
@@ -1257,12 +1289,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/nrg-energy-nrg-undervalued-following-001954778.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-06T00:19:54Z"
-        },
-        {
-          "title": "Clearway Energy (CWEN) Stock Moves -4.00%: What You Should Know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/clearway-energy-cwen-stock-moves-221503509.html",
-          "publisher": "Zacks",
-          "published": "2026-11-05T22:15:03Z"
         }
       ]
     },
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 90.98,
-      "change_pct": 0.51
+      "price": 90.86,
+      "change_pct": 0.38
     },
     {
       "label": "Brent",
-      "price": 98.57,
-      "change_pct": 0.28
+      "price": 98.44,
+      "change_pct": 0.15
     },
     {
       "label": "NatGas",
-      "price": 3.01,
-      "change_pct": 2.0
+      "price": 3.0,
+      "change_pct": 1.93
     }
   ]
 }
