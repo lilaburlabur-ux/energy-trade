@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-06T23:25:54+00:00",
+  "as_of": "2026-11-06T23:41:02+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,22 +9,6 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "OKLO",
-   "company": "Oklo Inc.",
-   "move_pct": 22.53,
-   "price": 23.53,
-   "volume": 24843170,
-   "volume_vs_avg": "~3x",
-   "heat_score": 90,
-   "direction": "up",
-   "why": "Oklo Stock Jumps on Promising Updates on Its Novel Nuclear Reactors",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBrRmJJWUcxdzBUQUVOYURmaFFJWVhNUTl2cnVhb0hEQlp0cE5sdXJkVkl3MzE5ekZyMXpnNDd5VW1WVWExLWZhRXp5cy1weUFZU0N3NGg5dDNSTWpqb0oxRmc4WEhVenBIR01zdW44XzNxWUE3OGc?oc=5",
-   "published": "2026-11-06T23:07:00+00:00",
-   "sector": "Nuclear & Uranium"
-  },
-  {
-   "rank": 2,
    "ticker": "LEU",
    "company": "Centrus Energy Corp.",
    "move_pct": 17.86,
@@ -40,7 +24,7 @@
    "sector": "Nuclear & Uranium"
   },
   {
-   "rank": 3,
+   "rank": 2,
    "ticker": "NRG",
    "company": "NRG Energy, Inc.",
    "move_pct": 10.49,
@@ -56,14 +40,14 @@
    "sector": "Power & IPPs"
   },
   {
-   "rank": 4,
+   "rank": 3,
    "ticker": "VST",
    "company": "Vistra Corp.",
-   "move_pct": 11.16,
-   "price": 125.49,
+   "move_pct": 10.91,
+   "price": 125.21,
    "volume": 12501439,
    "volume_vs_avg": "~2x",
-   "heat_score": 72,
+   "heat_score": 71,
    "direction": "up",
    "why": "Vistra Corp. Q3 2026 Earnings Call Summary",
    "catalyst_type": "earnings",
@@ -72,7 +56,7 @@
    "sector": "Power & IPPs"
   },
   {
-   "rank": 5,
+   "rank": 4,
    "ticker": "PWR",
    "company": "Quanta Services, Inc.",
    "move_pct": 7.06,
