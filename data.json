@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-06T08:43:28+00:00",
-  "as_of_local": "2026-11-06 08:43:28 UTC",
+  "as_of_utc": "2026-11-06T08:48:30+00:00",
+  "as_of_local": "2026-11-06 08:48:30 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "WFRD"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1547,6 +1545,34 @@
       ]
     },
     {
+      "symbol": "WFRD",
+      "name": "Weatherford",
+      "price": 82.32,
+      "previous_close": 86.04,
+      "change_pct": -4.32,
+      "market_cap": 5965753756.763824,
+      "headlines": [
+        {
+          "title": "Should Jun\u00edn 5 Support Work Require Action From Weatherford International (WFRD) Investors?",
+          "url": "https://finance.yahoo.com/energy/articles/jun-n-5-support-require-131419197.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-10-30T13:14:19Z"
+        },
+        {
+          "title": "Weatherford: 3 Key Takeaways for Long-Term Investors",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/weatherford-3-key-takeaways-long-212002900.html",
+          "publisher": "Motley Fool",
+          "published": "2026-10-28T21:20:02Z"
+        },
+        {
+          "title": "The Energy Stocks With the Most at Stake in the Midterms",
+          "url": "https://www.barrons.com/articles/midterm-elections-affect-energy-stocks-9249616b?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-10-26T09:55:00Z"
+        }
+      ]
+    },
+    {
       "symbol": "NXE",
       "name": "NexGen Energy",
       "price": 7.93,
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 89.97,
-      "change_pct": -0.61
+      "price": 89.83,
+      "change_pct": -0.76
     },
     {
       "label": "Brent",
-      "price": 97.73,
-      "change_pct": -0.57
+      "price": 97.54,
+      "change_pct": -0.76
     },
     {
       "label": "NatGas",
       "price": 3.01,
-      "change_pct": 2.21
+      "change_pct": 2.07
     }
   ]
 }
