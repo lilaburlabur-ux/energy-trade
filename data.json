@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-06T12:46:54+00:00",
-  "as_of_local": "2026-11-06 12:46:54 UTC",
+  "as_of_utc": "2026-11-06T12:51:57+00:00",
+  "as_of_local": "2026-11-06 12:51:57 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "HAL"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1023,6 +1021,12 @@
       "market_cap": 37889856958.694534,
       "headlines": [
         {
+          "title": "Vistra stock jumps despite revenue miss",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-stock-jumps-despite-revenue-124435138.html",
+          "publisher": "Investing.com",
+          "published": "2026-11-06T12:44:35Z"
+        },
+        {
           "title": "Here Is What The Trailing P/E Misses About Constellation Energy Stock",
           "url": "https://finance.yahoo.com/markets/stocks/articles/trailing-p-e-misses-constellation-021449906.html",
           "publisher": "Trefis",
@@ -1033,12 +1037,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/ahead-vistra-earnings-heres-barchart-175614537.html",
           "publisher": "Barchart",
           "published": "2026-11-05T17:56:14Z"
-        },
-        {
-          "title": "FuelCell Energy Plunges 17%, Bloom Energy Sinks 14% Despite NTT Data Deal, Plug Power Drops 7%",
-          "url": "https://finance.yahoo.com/energy/articles/fuelcell-energy-plunges-17-bloom-170728747.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-05T17:07:28Z"
         }
       ]
     },
@@ -1123,6 +1121,34 @@
           "url": "https://finance.yahoo.com/energy/articles/3-canadian-nuclear-stocks-own-232035019.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-04T23:20:35Z"
+        }
+      ]
+    },
+    {
+      "symbol": "HAL",
+      "name": "Halliburton",
+      "price": 31.92,
+      "previous_close": 33.0,
+      "change_pct": -3.27,
+      "market_cap": 26401872899.74473,
+      "headlines": [
+        {
+          "title": "CLB Q3 Earnings Miss Estimates on Higher Costs and Disruptions",
+          "url": "https://finance.yahoo.com/energy/articles/clb-q3-earnings-miss-estimates-155400926.html",
+          "publisher": "Zacks",
+          "published": "2026-11-03T15:54:00Z"
+        },
+        {
+          "title": "Questions Mount Over Venezuela\u2019s Biggest Oil Deal",
+          "url": "https://finance.yahoo.com/energy/articles/questions-mount-over-venezuela-biggest-010000297.html",
+          "publisher": "Oilprice.com",
+          "published": "2026-11-03T01:00:00Z"
+        },
+        {
+          "title": "What Just Happened To TechnipFMC Stock?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/just-happened-technipfmc-stock-163324798.html",
+          "publisher": "Trefis",
+          "published": "2026-10-30T16:33:24Z"
         }
       ]
     },
@@ -2089,13 +2115,13 @@
     },
     {
       "label": "WTI",
-      "price": 90.64,
-      "change_pct": 0.13
+      "price": 90.1,
+      "change_pct": -0.46
     },
     {
       "label": "Brent",
-      "price": 98.15,
-      "change_pct": -0.14
+      "price": 97.59,
+      "change_pct": -0.71
     },
     {
       "label": "NatGas",
