@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-06T09:34:22+00:00",
-  "as_of_local": "2026-11-06 09:34:22 UTC",
+  "as_of_utc": "2026-11-06T09:44:25+00:00",
+  "as_of_local": "2026-11-06 09:44:25 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -1749,6 +1749,12 @@
       "market_cap": 1793402164.1746464,
       "headlines": [
         {
+          "title": "NuScale Power Corp (SMR) (Q3 2026) Earnings Call Highlights: First Article Production Begins as ...",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nuscale-power-corp-smr-q3-091654994.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-06T09:16:54Z"
+        },
+        {
           "title": "NuScale Power (SMR) Q3 2026 Earnings Call Transcript",
           "url": "https://finance.yahoo.com/energy/articles/nuscale-power-smr-q3-2026-070158166.html",
           "publisher": "Motley Fool",
@@ -1759,12 +1765,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/nuscale-power-corporation-smr-reports-000013502.html",
           "publisher": "Zacks",
           "published": "2026-11-06T00:00:13Z"
-        },
-        {
-          "title": "Oklo Sank 10% a Day After the Democratic Sweep Rattled AI Power Stocks. Here\u2019s What Friday\u2019s Report Has to Settle",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/oklo-sank-10-day-democratic-152553806.html",
-          "publisher": "TIKR",
-          "published": "2026-11-05T15:25:53Z"
         }
       ]
     },
@@ -2114,14 +2114,19 @@
       "change_pct": -4.36
     },
     {
+      "label": "WTI",
+      "price": 89.35,
+      "change_pct": -1.29
+    },
+    {
       "label": "Brent",
-      "price": 96.97,
-      "change_pct": -1.34
+      "price": 97.11,
+      "change_pct": -1.2
     },
     {
       "label": "NatGas",
-      "price": 3.0,
-      "change_pct": 1.87
+      "price": 3.01,
+      "change_pct": 2.04
     }
   ]
 }
