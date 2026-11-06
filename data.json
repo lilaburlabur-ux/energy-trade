@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-06T13:17:41+00:00",
-  "as_of_local": "2026-11-06 13:17:41 UTC",
+  "as_of_utc": "2026-11-06T13:22:22+00:00",
+  "as_of_local": "2026-11-06 13:22:22 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "EOG"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -183,7 +181,7 @@
       "market_cap": 165030114367.68414,
       "headlines": [
         {
-          "title": "Earnings live updates: Moderna stock pops after COVID vaccine sales drive revenue growth, raised outlook",
+          "title": "Earnings live updates: Moderna's COVID vaccine sales drive revenue growth, raised outlook",
           "url": "https://finance.yahoo.com/markets/live/earnings-live-updates-apple-palantir-roku-and-more-212856249.html",
           "publisher": "Yahoo Finance",
           "published": "2026-11-02T21:28:56Z"
@@ -535,6 +533,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/10-treasury-yields-4-91-164702607.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-04T16:47:02Z"
+        }
+      ]
+    },
+    {
+      "symbol": "EOG",
+      "name": "EOG Resources",
+      "price": 144.89,
+      "previous_close": 147.06,
+      "change_pct": -1.48,
+      "market_cap": 77172547386.60934,
+      "headlines": [
+        {
+          "title": "Time to Cash Out? 4 Energy Stocks I'd Sell Before It's Too Late",
+          "url": "https://finance.yahoo.com/energy/articles/time-cash-4-energy-stocks-033500680.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-06T03:35:00Z"
+        },
+        {
+          "title": "EOG Resources Lifts Dividend 8% as Q3 Profit Surges 89%",
+          "url": "https://finance.yahoo.com/energy/articles/eog-resources-lifts-dividend-8-024000468.html",
+          "publisher": "Oilprice.com",
+          "published": "2026-11-06T02:40:00Z"
+        },
+        {
+          "title": "Compared to Estimates, EOG Resources (EOG) Q3 Earnings: A Look at Key Metrics",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/compared-estimates-eog-resources-eog-220003973.html",
+          "publisher": "Zacks",
+          "published": "2026-11-05T22:00:03Z"
         }
       ]
     },
@@ -1468,7 +1494,7 @@
       "price": 30.64,
       "previous_close": 30.91,
       "change_pct": -0.87,
-      "market_cap": 9195420037.4664,
+      "market_cap": 9292375382.49504,
       "headlines": [
         {
           "title": "I Love Brookfield Renewable for 1 Reason, and It\u2019s Not the Dividend",
@@ -1958,8 +1984,8 @@
           "name": "EOG Resources Inc",
           "short": "EOG Resources",
           "weight_pct": 4.07,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": -1.48,
+          "price": 144.89,
           "currency": "USD"
         },
         {
@@ -2057,8 +2083,8 @@
         "name": "EOG Resources Inc",
         "short": "EOG Resources",
         "weight_pct": 4.07,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": -1.48,
+        "price": 144.89,
         "currency": "USD"
       },
       {
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 91.01,
-      "change_pct": 0.54
+      "price": 90.53,
+      "change_pct": 0.01
     },
     {
       "label": "Brent",
-      "price": 98.52,
-      "change_pct": 0.23
+      "price": 98.13,
+      "change_pct": -0.16
     },
     {
       "label": "NatGas",
-      "price": 3.0,
-      "change_pct": 1.7
+      "price": 2.99,
+      "change_pct": 1.56
     }
   ]
 }
