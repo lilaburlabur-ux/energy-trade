@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-06T21:18:46+00:00",
-  "as_of_local": "2026-11-06 21:18:46 UTC",
+  "as_of_utc": "2026-11-06T21:21:08+00:00",
+  "as_of_local": "2026-11-06 21:21:08 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "DUK"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -69,6 +71,12 @@
       "market_cap": 280778569343.792,
       "headlines": [
         {
+          "title": "Top Analyst Reports for Shell, Dell & Amphenol",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/top-analyst-reports-shell-dell-200700415.html",
+          "publisher": "Zacks",
+          "published": "2026-11-06T20:07:00Z"
+        },
+        {
           "title": "Top Funds Feast On Shell, Microsoft, Palantir And 24 More Stocks",
           "url": "https://www.investors.com/etfs-and-funds/mutual-funds/best-mutual-funds-feast-on-shell-microsoft-palantir-lilly-apple-and-more-stocks-to-watch/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
@@ -79,12 +87,6 @@
           "url": "https://finance.yahoo.com/news/t-job-62-savings-last-120000552.html",
           "publisher": "The Telegraph",
           "published": "2026-11-06T12:00:00Z"
-        },
-        {
-          "title": "What DCC Energy Buyers Were Betting On",
-          "url": "https://finance.yahoo.com/energy/articles/dcc-energy-buyers-were-betting-080947543.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-06T08:09:47Z"
         }
       ]
     },
@@ -309,34 +311,6 @@
           "url": "https://finance.yahoo.com/energy/articles/3-refining-stocks-doubled-2026-130900865.html",
           "publisher": "Zacks",
           "published": "2026-11-06T13:09:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "DUK",
-      "name": "Duke Energy",
-      "price": 127.78,
-      "previous_close": 130.08,
-      "change_pct": -1.77,
-      "market_cap": 99630345269.7551,
-      "headlines": [
-        {
-          "title": "Duke Energy to stay course on data center-fueled growth plan after \u2018historic\u2019 election",
-          "url": "https://finance.yahoo.com/energy/articles/duke-energy-stay-course-data-180000944.html",
-          "publisher": "Utility Dive",
-          "published": "2026-11-06T18:00:00Z"
-        },
-        {
-          "title": "$600,000 in Dividend Stocks: How a Roth IRA Could Save You $4,460 a Year",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/600-000-dividend-stocks-roth-174735264.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-06T17:47:35Z"
-        },
-        {
-          "title": "Is NextEra's Dividend Enough To Make Up For Its Lagging Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nexteras-dividend-enough-lagging-stock-142600112.html",
-          "publisher": "Trefis",
-          "published": "2026-11-06T14:26:00Z"
         }
       ]
     },
@@ -937,6 +911,12 @@
       "market_cap": 49959878699.65581,
       "headlines": [
         {
+          "title": "Top Analyst Reports for Shell, Dell & Amphenol",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/top-analyst-reports-shell-dell-200700415.html",
+          "publisher": "Zacks",
+          "published": "2026-11-06T20:07:00Z"
+        },
+        {
           "title": "APA Q3 Earnings Beat on Strong Oil Prices and U.S. Output",
           "url": "https://finance.yahoo.com/energy/articles/apa-q3-earnings-beat-strong-155200571.html",
           "publisher": "Zacks",
@@ -947,12 +927,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/5-dividend-stocks-ex-dividend-144711221.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-06T14:47:11Z"
-        },
-        {
-          "title": "Diamondback Just Raised Its Dividend 7.3%. These 3 Energy Stocks Are Paying Investors Too",
-          "url": "https://finance.yahoo.com/energy/articles/diamondback-just-raised-dividend-7-134756280.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-06T13:47:56Z"
         }
       ]
     },
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 90.51,
-      "change_pct": -0.01
+      "price": 90.53,
+      "change_pct": 0.01
     },
     {
       "label": "Brent",
-      "price": 97.91,
-      "change_pct": -0.39
+      "price": 97.96,
+      "change_pct": -0.34
     },
     {
       "label": "NatGas",
       "price": 2.97,
-      "change_pct": 0.71
+      "change_pct": 0.78
     }
   ]
 }
