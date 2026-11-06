@@ -1,11 +1,37 @@
 {
-  "as_of_utc": "2026-11-06T14:13:19+00:00",
-  "as_of_local": "2026-11-06 14:13:19 UTC",
+  "as_of_utc": "2026-11-06T14:18:13+00:00",
+  "as_of_local": "2026-11-06 14:18:13 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "XOM"
-  ],
+  "errors": [],
   "stocks": [
+    {
+      "symbol": "XOM",
+      "name": "ExxonMobil",
+      "price": 165.3,
+      "previous_close": 169.27,
+      "change_pct": -2.35,
+      "market_cap": 674295482441.999,
+      "headlines": [
+        {
+          "title": "State Street Energy SPDR (XLE) Sells $75.9 Million of Exxon on Nov. 4",
+          "url": "https://finance.yahoo.com/energy/articles/state-street-energy-spdr-xle-110525697.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-06T11:05:25Z"
+        },
+        {
+          "title": "ETFs Are Net Sellers of ExxonMobil (XOM) on Nov. 4",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-exxonmobil-xom-110227273.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-06T11:02:27Z"
+        },
+        {
+          "title": "Targa Resources Corp. Q3 2026 Earnings Call Summary",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/targa-resources-corp-q3-2026-230235227.html",
+          "publisher": "Moby",
+          "published": "2026-11-05T23:02:35Z"
+        }
+      ]
+    },
     {
       "symbol": "CVX",
       "name": "Chevron",
@@ -14,6 +40,12 @@
       "change_pct": -1.86,
       "market_cap": 415426415710.4492,
       "headlines": [
+        {
+          "title": "The Zacks Analyst Blog Highlights Berkshire Hathaway, Micron Technology, Chevron and Orbit International",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-berkshire-130500361.html",
+          "publisher": "Zacks",
+          "published": "2026-11-06T13:05:00Z"
+        },
         {
           "title": "State Street Energy SPDR (XLE) Sells $75.9 Million of Exxon on Nov. 4",
           "url": "https://finance.yahoo.com/energy/articles/state-street-energy-spdr-xle-110525697.html",
@@ -25,12 +57,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-chevron-cvx-110250042.html",
           "publisher": "GuruFocus.com",
           "published": "2026-11-06T11:02:50Z"
-        },
-        {
-          "title": "Top Stock Reports for Berkshire Hathaway, Micron & Chevron",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/top-stock-reports-berkshire-hathaway-200900700.html",
-          "publisher": "Zacks",
-          "published": "2026-11-05T20:09:00Z"
         }
       ]
     },
@@ -267,22 +293,22 @@
       "market_cap": 102737551883.85498,
       "headlines": [
         {
+          "title": "3 Refining Stocks That Have Doubled in 2026: What's Next?",
+          "url": "https://finance.yahoo.com/energy/articles/3-refining-stocks-doubled-2026-130900865.html",
+          "publisher": "Zacks",
+          "published": "2026-11-06T13:09:00Z"
+        },
+        {
+          "title": "Can Par Pacific's Heavy Crude Exposure Improve Refining Economics?",
+          "url": "https://finance.yahoo.com/energy/articles/par-pacifics-heavy-crude-exposure-130800591.html",
+          "publisher": "Zacks",
+          "published": "2026-11-06T13:08:00Z"
+        },
+        {
           "title": "ETFs Are Net Sellers of Marathon Petroleum (MPC) on Wednesday",
           "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-marathon-petroleum-110332611.html",
           "publisher": "GuruFocus.com",
           "published": "2026-11-06T11:03:32Z"
-        },
-        {
-          "title": "3 Refining Stocks To Watch As Cheaper Crude Tests Margins",
-          "url": "https://finance.yahoo.com/energy/articles/3-refining-stocks-watch-cheaper-032523819.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-06T03:25:23Z"
-        },
-        {
-          "title": "St. Paul Park refinery sold as part of $4.2B deal",
-          "url": "https://finance.yahoo.com/energy/articles/st-paul-park-refinery-sold-193900072.html",
-          "publisher": "Pioneer Press, St. Paul, Minn.",
-          "published": "2026-11-05T19:39:00Z"
         }
       ]
     },
@@ -351,6 +377,12 @@
       "market_cap": 97952570875.91553,
       "headlines": [
         {
+          "title": "3 Refining Stocks That Have Doubled in 2026: What's Next?",
+          "url": "https://finance.yahoo.com/energy/articles/3-refining-stocks-doubled-2026-130900865.html",
+          "publisher": "Zacks",
+          "published": "2026-11-06T13:09:00Z"
+        },
+        {
           "title": "3 Refining Stocks To Watch As Cheaper Crude Tests Margins",
           "url": "https://finance.yahoo.com/energy/articles/3-refining-stocks-watch-cheaper-032523819.html",
           "publisher": "Simply Wall St.",
@@ -361,12 +393,6 @@
           "url": "https://finance.yahoo.com/energy/articles/mpcs-gulf-coast-focus-fuel-163900782.html",
           "publisher": "Zacks",
           "published": "2026-11-05T16:39:00Z"
-        },
-        {
-          "title": "Par Pacific makes EVP shift",
-          "url": "https://finance.yahoo.com/energy/articles/par-pacific-makes-evp-shift-134840910.html",
-          "publisher": "C-Store Dive",
-          "published": "2026-11-05T13:48:40Z"
         }
       ]
     },
@@ -855,22 +881,22 @@
       "market_cap": 52704332904.51265,
       "headlines": [
         {
+          "title": "Consolidated Edison Q3 Earnings Lag Estimates, Revenues Rise Y/Y",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/consolidated-edison-q3-earnings-lag-130900521.html",
+          "publisher": "Zacks",
+          "published": "2026-11-06T13:09:00Z"
+        },
+        {
+          "title": "Ameren Q3 Earnings Surpass Estimates, Revenues Increase Y/Y",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ameren-q3-earnings-surpass-estimates-130600436.html",
+          "publisher": "Zacks",
+          "published": "2026-11-06T13:06:00Z"
+        },
+        {
           "title": "New Dividend Growth ETF Enters the Market",
           "url": "https://finance.yahoo.com/markets/stocks/articles/dividend-growth-etf-enters-market-164400096.html",
           "publisher": "Zacks",
           "published": "2026-11-05T16:44:00Z"
-        },
-        {
-          "title": "Entergy sees progress on Arkansas data center deal, strong Q3 sales",
-          "url": "https://finance.yahoo.com/energy/articles/entergy-sees-progress-arkansas-data-155149336.html",
-          "publisher": "Utility Dive",
-          "published": "2026-11-05T15:51:49Z"
-        },
-        {
-          "title": "Duke Energy Q3 Earnings Surpass Estimates on 2% Retail Load Growth",
-          "url": "https://finance.yahoo.com/energy/articles/duke-energy-q3-earnings-surpass-130100692.html",
-          "publisher": "Zacks",
-          "published": "2026-11-05T13:01:00Z"
         }
       ]
     },
@@ -1895,8 +1921,8 @@
           "name": "ExxonMobil Holdings Corp",
           "short": "ExxonMobil",
           "weight_pct": 24.29,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": -2.35,
+          "price": 165.3,
           "currency": "USD"
         },
         {
@@ -1994,8 +2020,8 @@
         "name": "ExxonMobil Holdings Corp",
         "short": "ExxonMobil",
         "weight_pct": 24.29,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": -2.35,
+        "price": 165.3,
         "currency": "USD"
       },
       {
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 90.71,
-      "change_pct": 0.21
+      "price": 90.99,
+      "change_pct": 0.52
     },
     {
       "label": "Brent",
-      "price": 98.11,
-      "change_pct": -0.18
+      "price": 98.43,
+      "change_pct": 0.14
     },
     {
       "label": "NatGas",
-      "price": 2.99,
-      "change_pct": 1.49
+      "price": 2.98,
+      "change_pct": 1.05
     }
   ]
 }
