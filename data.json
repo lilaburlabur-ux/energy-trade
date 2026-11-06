@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-06T04:26:31+00:00",
-  "as_of_local": "2026-11-06 04:26:31 UTC",
+  "as_of_utc": "2026-11-06T04:41:29+00:00",
+  "as_of_local": "2026-11-06 04:41:29 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "ARRY"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -267,6 +265,12 @@
       "market_cap": 107374875033.685,
       "headlines": [
         {
+          "title": "PPL Reports Soon: How Has The Stock Reacted To Past Earnings?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ppl-reports-soon-stock-reacted-041643196.html",
+          "publisher": "Trefis",
+          "published": "2026-11-06T04:16:43Z"
+        },
+        {
           "title": "Southern Co (SO) (Q3 2026) Earnings Call Highlights: Soaring Data Center Demand and Raised Guidance",
           "url": "https://finance.yahoo.com/energy/articles/southern-co-q3-2026-earnings-031904789.html",
           "publisher": "GuruFocus.com",
@@ -277,12 +281,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/trailing-p-e-misses-constellation-021449906.html",
           "publisher": "Trefis",
           "published": "2026-11-06T02:14:49Z"
-        },
-        {
-          "title": "Southern Co (SO) Q3 2026 Earnings Call Transcript",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/southern-co-q3-2026-earnings-220446781.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-05T22:04:46Z"
         }
       ]
     },
@@ -323,6 +321,12 @@
       "market_cap": 101423662693.11736,
       "headlines": [
         {
+          "title": "PPL Reports Soon: How Has The Stock Reacted To Past Earnings?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ppl-reports-soon-stock-reacted-041643196.html",
+          "publisher": "Trefis",
+          "published": "2026-11-06T04:16:43Z"
+        },
+        {
           "title": "Here Is What The Trailing P/E Misses About Constellation Energy Stock",
           "url": "https://finance.yahoo.com/markets/stocks/articles/trailing-p-e-misses-constellation-021449906.html",
           "publisher": "Trefis",
@@ -333,12 +337,6 @@
           "url": "https://finance.yahoo.com/energy/articles/duke-energy-corporation-q3-2026-234532890.html",
           "publisher": "Moby",
           "published": "2026-11-05T23:45:32Z"
-        },
-        {
-          "title": "American Electric Power\u2019s Dividend Has a Data Center Tailwind. How Safe Is It?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/american-electric-power-dividend-data-204812561.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-05T20:48:12Z"
         }
       ]
     },
@@ -435,6 +433,12 @@
       "market_cap": 84909761214.82938,
       "headlines": [
         {
+          "title": "PPL Reports Soon: How Has The Stock Reacted To Past Earnings?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ppl-reports-soon-stock-reacted-041643196.html",
+          "publisher": "Trefis",
+          "published": "2026-11-06T04:16:43Z"
+        },
+        {
           "title": "Here Is What The Trailing P/E Misses About Constellation Energy Stock",
           "url": "https://finance.yahoo.com/markets/stocks/articles/trailing-p-e-misses-constellation-021449906.html",
           "publisher": "Trefis",
@@ -445,12 +449,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/drilling-tools-international-corp-dti-000006796.html",
           "publisher": "Zacks",
           "published": "2026-11-06T00:00:06Z"
-        },
-        {
-          "title": "Should You Buy, Hold or Sell Constellation Energy Before Q3 Earnings?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/buy-hold-sell-constellation-energy-171800205.html",
-          "publisher": "Zacks",
-          "published": "2026-11-05T17:18:00Z"
         }
       ]
     },
@@ -1827,6 +1825,34 @@
       ]
     },
     {
+      "symbol": "ARRY",
+      "name": "Array Technologies",
+      "price": 5.3,
+      "previous_close": 5.33,
+      "change_pct": -0.56,
+      "market_cap": 817627669.2245464,
+      "headlines": [
+        {
+          "title": "Array Technologies to merge with Shoals in $1 billion deal, combining solar suppliers",
+          "url": "https://finance.yahoo.com/energy/articles/array-technologies-merge-shoals-1-040800454.html",
+          "publisher": "Albuquerque Journal, N.M.",
+          "published": "2026-11-05T04:08:00Z"
+        },
+        {
+          "title": "Array\u2019s (NASDAQ:ARRY) Q3 2026 sales beat estimates but full-year sales guidance misses expectations significantly",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/array-nasdaq-arry-q3-2026-224142737.html",
+          "publisher": "StockStory",
+          "published": "2026-11-04T22:41:42Z"
+        },
+        {
+          "title": "SolarEdge Technologies' Q3 Earnings Top Estimates, Revenues Fall Y/Y",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/solaredge-technologies-q3-earnings-top-133900849.html",
+          "publisher": "Zacks",
+          "published": "2026-11-04T13:39:00Z"
+        }
+      ]
+    },
+    {
       "symbol": "FLNC",
       "name": "Fluence Energy",
       "price": 5.09,
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 91.82,
-      "change_pct": 4.2
+      "price": 91.99,
+      "change_pct": 4.39
     },
     {
       "label": "Brent",
-      "price": 100.15,
-      "change_pct": 5.84
+      "price": 100.22,
+      "change_pct": 5.92
     },
     {
       "label": "NatGas",
       "price": 2.98,
-      "change_pct": 0.74
+      "change_pct": 0.68
     }
   ]
 }
