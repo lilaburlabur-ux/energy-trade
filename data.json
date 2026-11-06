@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-06T05:47:01+00:00",
-  "as_of_local": "2026-11-06 05:47:01 UTC",
+  "as_of_utc": "2026-11-06T05:52:06+00:00",
+  "as_of_local": "2026-11-06 05:52:06 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "ET"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -539,34 +537,6 @@
       ]
     },
     {
-      "symbol": "EOG",
-      "name": "EOG Resources",
-      "price": 144.89,
-      "previous_close": 147.06,
-      "change_pct": -1.48,
-      "market_cap": 77172547386.60934,
-      "headlines": [
-        {
-          "title": "Time to Cash Out? 4 Energy Stocks I'd Sell Before It's Too Late",
-          "url": "https://finance.yahoo.com/energy/articles/time-cash-4-energy-stocks-033500680.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-06T03:35:00Z"
-        },
-        {
-          "title": "EOG Resources Lifts Dividend 8% as Q3 Profit Surges 89%",
-          "url": "https://finance.yahoo.com/energy/articles/eog-resources-lifts-dividend-8-024000468.html",
-          "publisher": "Oilprice.com",
-          "published": "2026-11-06T02:40:00Z"
-        },
-        {
-          "title": "Compared to Estimates, EOG Resources (EOG) Q3 Earnings: A Look at Key Metrics",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/compared-estimates-eog-resources-eog-220003973.html",
-          "publisher": "Zacks",
-          "published": "2026-11-05T22:00:03Z"
-        }
-      ]
-    },
-    {
       "symbol": "PWR",
       "name": "Quanta Services",
       "price": 509.06,
@@ -591,6 +561,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/does-fall-mastec-stock-change-024552498.html",
           "publisher": "Trefis",
           "published": "2026-11-06T02:45:52Z"
+        }
+      ]
+    },
+    {
+      "symbol": "EOG",
+      "name": "EOG Resources",
+      "price": 144.89,
+      "previous_close": 147.06,
+      "change_pct": -1.48,
+      "market_cap": 75999031990.4928,
+      "headlines": [
+        {
+          "title": "Time to Cash Out? 4 Energy Stocks I'd Sell Before It's Too Late",
+          "url": "https://finance.yahoo.com/energy/articles/time-cash-4-energy-stocks-033500680.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-06T03:35:00Z"
+        },
+        {
+          "title": "EOG Resources Lifts Dividend 8% as Q3 Profit Surges 89%",
+          "url": "https://finance.yahoo.com/energy/articles/eog-resources-lifts-dividend-8-024000468.html",
+          "publisher": "Oilprice.com",
+          "published": "2026-11-06T02:40:00Z"
+        },
+        {
+          "title": "Compared to Estimates, EOG Resources (EOG) Q3 Earnings: A Look at Key Metrics",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/compared-estimates-eog-resources-eog-220003973.html",
+          "publisher": "Zacks",
+          "published": "2026-11-05T22:00:03Z"
         }
       ]
     },
@@ -675,6 +673,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-kinder-morgan-110234073.html",
           "publisher": "GuruFocus.com",
           "published": "2026-11-04T11:02:34Z"
+        }
+      ]
+    },
+    {
+      "symbol": "ET",
+      "name": "Energy Transfer",
+      "price": 19.19,
+      "previous_close": 19.46,
+      "change_pct": -1.39,
+      "market_cap": 66076921182.11038,
+      "headlines": [
+        {
+          "title": "Sempra's Q3 Earnings Outpace Estimates, Revenues Increase Y/Y",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/sempras-q3-earnings-outpace-estimates-180200978.html",
+          "publisher": "Zacks",
+          "published": "2026-11-05T18:02:00Z"
+        },
+        {
+          "title": "National Fuel Gas Q4 Earnings Outpace Estimates, Revenues Increase Y/Y",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/national-fuel-gas-q4-earnings-142000319.html",
+          "publisher": "Zacks",
+          "published": "2026-11-05T14:20:00Z"
+        },
+        {
+          "title": "ET Q3 Earnings Call Puts Gas Demand and Capital Spending in Focus",
+          "url": "https://finance.yahoo.com/energy/articles/et-q3-earnings-call-puts-140000521.html",
+          "publisher": "Zacks",
+          "published": "2026-11-04T14:00:00Z"
         }
       ]
     },
@@ -1468,7 +1494,7 @@
       "price": 30.64,
       "previous_close": 30.91,
       "change_pct": -0.87,
-      "market_cap": 9292375382.49504,
+      "market_cap": 9195420037.4664,
       "headlines": [
         {
           "title": "I Love Brookfield Renewable for 1 Reason, and It\u2019s Not the Dividend",
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 91.28,
-      "change_pct": 0.84
+      "price": 91.38,
+      "change_pct": 0.95
     },
     {
       "label": "Brent",
-      "price": 99.53,
-      "change_pct": 1.26
+      "price": 99.65,
+      "change_pct": 1.38
     },
     {
       "label": "NatGas",
       "price": 2.98,
-      "change_pct": 1.05
+      "change_pct": 1.15
     }
   ]
 }
