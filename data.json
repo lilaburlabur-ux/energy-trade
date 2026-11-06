@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-06T09:54:28+00:00",
-  "as_of_local": "2026-11-06 09:54:28 UTC",
+  "as_of_utc": "2026-11-06T09:59:29+00:00",
+  "as_of_local": "2026-11-06 09:59:29 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -685,6 +685,12 @@
       "market_cap": 66076921182.11038,
       "headlines": [
         {
+          "title": "With a Nearly 7% Yield, Is Energy Transfer Stock a Buy as It Looks to Turbocharge Growth?",
+          "url": "https://finance.yahoo.com/energy/articles/nearly-7-yield-energy-transfer-095000486.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-06T09:50:00Z"
+        },
+        {
           "title": "Sempra's Q3 Earnings Outpace Estimates, Revenues Increase Y/Y",
           "url": "https://finance.yahoo.com/markets/stocks/articles/sempras-q3-earnings-outpace-estimates-180200978.html",
           "publisher": "Zacks",
@@ -695,12 +701,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/national-fuel-gas-q4-earnings-142000319.html",
           "publisher": "Zacks",
           "published": "2026-11-05T14:20:00Z"
-        },
-        {
-          "title": "ET Q3 Earnings Call Puts Gas Demand and Capital Spending in Focus",
-          "url": "https://finance.yahoo.com/energy/articles/et-q3-earnings-call-puts-140000521.html",
-          "publisher": "Zacks",
-          "published": "2026-11-04T14:00:00Z"
         }
       ]
     },
@@ -2115,13 +2115,13 @@
     },
     {
       "label": "WTI",
-      "price": 89.24,
-      "change_pct": -1.41
+      "price": 89.1,
+      "change_pct": -1.57
     },
     {
       "label": "Brent",
-      "price": 96.91,
-      "change_pct": -1.4
+      "price": 96.72,
+      "change_pct": -1.6
     },
     {
       "label": "NatGas",
