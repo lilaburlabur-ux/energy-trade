@@ -4,8 +4,8 @@ Signed file: `EPD.research.06.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-06, ~15-min delayed) |
-| Market cap | $78.97B |
+| Current price | $36.98 (2026-11-06, ~15-min delayed) |
+| Market cap | $79.75B |
 | Sector / Industry | Energy / Oil & Gas Midstream |
 | Main theme | Oil & Gas Midstream — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `EPD.research.06.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +28.00%; price +1.72% vs SMA200. |
+| Fresh setup quality | Watch | -4.68% from 52w high and near SMA20 — check for a tight base. |
 | Fundamental quality | Mixed | Profit margin 10.24%, revenue growth 49.30%. |
-| Value attractiveness | Reasonable | Forward P/E 11.54, EV/Sales 1.77. |
-| Risk level | Moderate | Beta 0.46, ATR nan% of price, short float 2.51%. |
+| Value attractiveness | Reasonable | Forward P/E 11.65, EV/Sales 1.77. |
+| Risk level | Moderate | Beta 0.46, ATR 2.0% of price, short float 2.51%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
@@ -36,30 +36,30 @@ Enterprise Products Partners L.P. provides midstream energy services to producer
 
 | Headline | Source | Date |
 |---|---|---|
+| Enterprise Products Gains 24.3% in a Year: Should You Buy or Exit? | Zacks | 2026-11-06 |
 | How Much of a $1.15 Million IRA Should a 66-Year-Old Convert to Roth to Collect $5,900 a Month Tax-Free? | 24/7 Wall St. | 2026-11-05 |
 | This ETF Makes It Easy to Invest in Hard Assets | Barrons.com | 2026-11-04 |
 | The 10-Year Treasury Yields 4.91%. These 4 Dividend Stocks Pay More | 24/7 Wall St. | 2026-11-04 |
-| Enterprise Products Partners' Distribution Growth Has Slowed From 5% to 2.7%. Is That a Red Flag or a Feature? | Motley Fool | 2026-11-04 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $38.80 (+nan%); 52w low $28.89 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 49.1 (neutral) |
-| Volatility | ATR(14) 0.73 (~nan% of price); beta 0.46 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $36.98; 52w high $38.80 (-4.68%); 52w low $29.17 (+26.76%) |
+| Trend | +1.72% vs SMA200, -0.10% vs SMA50, +1.13% vs SMA20 |
+| Momentum | RSI(14) 51.6 (neutral) |
+| Volatility | ATR(14) 0.74 (~2.0% of price); beta 0.46 |
+| Setup perspective | -4.68% from 52w high and near SMA20 — check for a tight base. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -3.1% |
+| Month | +2.1% |
+| Quarter | -1.2% |
+| Half Y | +2.4% |
+| 1Y | +28.0% |
+| YTD | +22.1% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ Enterprise Products Partners L.P. provides midstream energy services to producer
 | Revenue (ttm) | $64.40B | Revenue growth 49.30% y/y |
 | Profitability | Gross 12.56%, operating 10.64%, net 10.24% | ROA —, ROE — |
 | Balance sheet | Cash $246.00M, debt $34.21B | Current ratio —, debt/equity 109.97 |
-| Valuation | P/E 12.13, forward P/E 11.54, P/S 1.23, P/B 2.61 | EV/Sales 1.77, EV/EBITDA 10.66 |
+| Valuation | P/E 12.25, forward P/E 11.65, P/S 1.24, P/B 2.64 | EV/Sales 1.77, EV/EBITDA 10.66 |
 | Growth expectations | Earnings growth 21.60%, EPS q/q 21.40% | Analyst mean target $41.67 (21 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 25.82% |
+| Institutional ownership | 25.81% |
 | Insider ownership | 33.09% |
 | Short float | 2.51% |
 | Short ratio (days to cover) | 5.2 |
@@ -95,6 +95,7 @@ Enterprise Products Partners L.P. provides midstream energy services to producer
 | Kayne Anderson Capital Advisors, L.P. | 12,869,425 | 0.60% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
+- **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -109,21 +110,21 @@ Enterprise Products Partners L.P. provides midstream energy services to producer
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 1.77 |
-| Market cap | $78.97B | EV/EBITDA | 10.66 |
+| Price | $36.98 | EV/Sales | 1.77 |
+| Market cap | $79.75B | EV/EBITDA | 10.66 |
 | Beta | 0.46 | Gross margin | 12.56% |
-| RSI(14) | 49.1 | Operating margin | 10.64% |
-| ATR(14) | 0.73 | Profit margin | 10.24% |
-| SMA20 dist | +nan% | ROA | — |
-| SMA50 dist | +nan% | ROE | — |
-| SMA200 dist | +nan% | Revenue (ttm) | $64.40B |
+| RSI(14) | 51.6 | Operating margin | 10.64% |
+| ATR(14) | 0.74 | Profit margin | 10.24% |
+| SMA20 dist | +1.13% | ROA | — |
+| SMA50 dist | -0.10% | ROE | — |
+| SMA200 dist | +1.72% | Revenue (ttm) | $64.40B |
 | 52W high | $38.80 | Revenue growth y/y | 49.30% |
-| 52W low | $28.89 | Inst. ownership | 25.82% |
-| P/E (ttm) | 12.13 | Insider ownership | 33.09% |
-| Forward P/E | 11.54 | Short float | 2.51% |
-| PEG (trailing) | 1.21 | Avg volume | 3,325,159 |
-| P/S | 1.23 | Employees | 0 |
-| P/B | 2.61 | Analyst rec (1=buy..5=sell) | 2.3 |
+| 52W low | $29.17 | Inst. ownership | 25.81% |
+| P/E (ttm) | 12.25 | Insider ownership | 33.09% |
+| Forward P/E | 11.65 | Short float | 2.51% |
+| PEG (trailing) | 1.21 | Avg volume | 3,375,054 |
+| P/S | 1.24 | Employees | 0 |
+| P/B | 2.64 | Analyst rec (1=buy..5=sell) | 2.3 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

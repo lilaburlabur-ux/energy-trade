@@ -4,24 +4,24 @@ Signed file: `EQNR.research.06.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-06, ~15-min delayed) |
-| Market cap | $100.69B |
+| Current price | $42.03 (2026-11-06, ~15-min delayed) |
+| Market cap | $99.47B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
-| Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
+| Current stance | High technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-06.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +85.25%; price +11.62% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -13.92% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 9.79%, revenue growth 26.60%. |
-| Value attractiveness | Reasonable | Forward P/E 8.56, EV/Sales 1.72. |
-| Risk level | Moderate | Beta -0.65, ATR nan% of price, short float 2.85%. |
+| Value attractiveness | Reasonable | Forward P/E 8.46, EV/Sales 1.72. |
+| Risk level | Elevated | Beta -0.66, ATR 3.6% of price, short float 2.85%. |
 
-**Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
+**Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -36,30 +36,30 @@ Equinor ASA operates as an energy company in Norway and internationally. It oper
 
 | Headline | Source | Date |
 |---|---|---|
+| ConocoPhillips Q3 Earnings Beat Estimates on Higher Commodity Prices | Zacks | 2026-11-06 |
+| Orlen SA (PSKOF) (Q3 2026) Earnings Call Highlights: Record Revenue, Resilient Strategy, and ... | GuruFocus.com | 2026-11-06 |
 | European Equities Traded in the US as American Depositary Receipts Fall in Thursday Trading | MT Newswires | 2026-11-05 |
 | Equinor (OB:EQNR) Rolls Out Resident AUVs As U.S. Lithium Project Nears Decision | Simply Wall St. | 2026-11-04 |
-| Equinor Q3 Earnings Call Highlights Higher Production Outlook | Zacks | 2026-11-04 |
-| European Equities Traded in the US as American Depositary Receipts Advance Sharply in Wednesday Trading | MT Newswires | 2026-11-04 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $48.82 (+nan%); 52w low $21.68 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 40.9 (neutral) |
-| Volatility | ATR(14) 1.53 (~nan% of price); beta -0.65 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $42.03; 52w high $48.82 (-13.92%); 52w low $21.68 (+93.84%) |
+| Trend | +11.62% vs SMA200, -4.95% vs SMA50, -8.34% vs SMA20 |
+| Momentum | RSI(14) 38.6 (neutral) |
+| Volatility | ATR(14) 1.50 (~3.6% of price); beta -0.66 |
+| Setup perspective | -13.92% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -13.8% |
+| Month | -2.1% |
+| Quarter | +3.5% |
+| Half Y | +16.8% |
+| 1Y | +85.3% |
+| YTD | +76.9% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ Equinor ASA operates as an energy company in Norway and internationally. It oper
 | Revenue (ttm) | $120.57B | Revenue growth 26.60% y/y |
 | Profitability | Gross 43.18%, operating 37.00%, net 9.79% | ROA 17.09%, ROE 27.57% |
 | Balance sheet | Cash $24.00B, debt $29.66B | Current ratio 1.18, debt/equity 65.92 |
-| Valuation | P/E 8.83, forward P/E 8.56, P/S 0.84, P/B 4.50 | EV/Sales 1.72, EV/EBITDA 4.32 |
+| Valuation | P/E 8.72, forward P/E 8.46, P/S 0.82, P/B 4.44 | EV/Sales 1.72, EV/EBITDA 4.32 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $40.71 (7 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 6.91% |
+| Institutional ownership | 6.92% |
 | Insider ownership | 0.00% |
 | Short float | 2.85% |
 | Short ratio (days to cover) | 4.5 |
@@ -95,6 +95,7 @@ Equinor ASA operates as an energy company in Norway and internationally. It oper
 | Voloridge Investment Management, LLC | 1,739,449 | 0.07% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
+- **Volatility risk:** Beta -0.66, ATR 3.6% of price, short float 2.85%. Size positions accordingly.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -109,21 +110,21 @@ Equinor ASA operates as an energy company in Norway and internationally. It oper
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 1.72 |
-| Market cap | $100.69B | EV/EBITDA | 4.32 |
-| Beta | -0.65 | Gross margin | 43.18% |
-| RSI(14) | 40.9 | Operating margin | 37.00% |
-| ATR(14) | 1.53 | Profit margin | 9.79% |
-| SMA20 dist | +nan% | ROA | 17.09% |
-| SMA50 dist | +nan% | ROE | 27.57% |
-| SMA200 dist | +nan% | Revenue (ttm) | $120.57B |
+| Price | $42.03 | EV/Sales | 1.72 |
+| Market cap | $99.47B | EV/EBITDA | 4.32 |
+| Beta | -0.66 | Gross margin | 43.18% |
+| RSI(14) | 38.6 | Operating margin | 37.00% |
+| ATR(14) | 1.50 | Profit margin | 9.79% |
+| SMA20 dist | -8.34% | ROA | 17.09% |
+| SMA50 dist | -4.95% | ROE | 27.57% |
+| SMA200 dist | +11.62% | Revenue (ttm) | $120.57B |
 | 52W high | $48.82 | Revenue growth y/y | 26.60% |
-| 52W low | $21.68 | Inst. ownership | 6.91% |
-| P/E (ttm) | 8.83 | Insider ownership | 0.00% |
-| Forward P/E | 8.56 | Short float | 2.85% |
-| PEG (trailing) | 0.95 | Avg volume | 3,686,946 |
-| P/S | 0.84 | Employees | 23,545 |
-| P/B | 4.50 | Analyst rec (1=buy..5=sell) | 3.0 |
+| 52W low | $21.68 | Inst. ownership | 6.92% |
+| P/E (ttm) | 8.72 | Insider ownership | 0.00% |
+| Forward P/E | 8.46 | Short float | 2.85% |
+| PEG (trailing) | 0.91 | Avg volume | 3,740,273 |
+| P/S | 0.82 | Employees | 23,545 |
+| P/B | 4.44 | Analyst rec (1=buy..5=sell) | 3.0 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
@@ -138,7 +139,7 @@ Equinor ASA operates as an energy company in Norway and internationally. It oper
 | 2025-05-07 | down | JP Morgan | Overweight → Neutral |
 
 ## 9. Conclusion
-EQNR: Moderate momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+EQNR: High momentum / mixed fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

@@ -4,24 +4,24 @@ Signed file: `HUBB.research.06.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-06, ~15-min delayed) |
-| Market cap | $22.13B |
+| Current price | $429.78 (2026-11-06, ~15-min delayed) |
+| Market cap | $22.71B |
 | Sector / Industry | Industrials / Electrical Equipment & Parts |
 | Main theme | Electrical Equipment & Parts — see catalysts below |
-| Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
+| Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-06.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-11.38%) with negative half-year (-12.22%). |
+| Fresh setup quality | Moderate / wait | -22.49% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 13.78%, revenue growth 24.60%. |
-| Value attractiveness | Reasonable | Forward P/E 18.17, EV/Sales 4.11. |
-| Risk level | Moderate | Beta 0.84, ATR nan% of price, short float 5.82%. |
+| Value attractiveness | Reasonable | Forward P/E 18.64, EV/Sales 4.11. |
+| Risk level | Elevated | Beta 0.84, ATR 3.8% of price, short float 5.82%. |
 
-**Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
+**Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -36,30 +36,30 @@ Hubbell Incorporated, together with its subsidiaries, manufactures and sells ele
 
 | Headline | Source | Date |
 |---|---|---|
+| Betting On Infrastructure Spending: Is Dover Or Hubbell The Better Way In? | Trefis | 2026-11-06 |
+| What Is Behind The Move In Eaton Stock? | Trefis | 2026-11-06 |
+| What Are Eaton Stock Bulls Not Worried About? | Trefis | 2026-11-06 |
 | NVT Stock Declines 6% Post Q3 Results: Should You Buy, Sell or Hold? | Zacks | 2026-11-04 |
-| What Is Behind The Move In nVent Stock? | Trefis | 2026-11-02 |
-| HUBB Q3 deep dive: Data center strength offsets utility softness, capacity investments shape outlook | StockStory | 2026-10-31 |
-| Buy These 4 Stocks That Declared Dividend Hikes Amid Market Volatility | Zacks | 2026-10-30 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $554.46 (+nan%); 52w low $402.45 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 43.2 (neutral) |
-| Volatility | ATR(14) 15.66 (~nan% of price); beta 0.84 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $429.78; 52w high $554.46 (-22.49%); 52w low $402.45 (+6.79%) |
+| Trend | -11.38% vs SMA200, -5.68% vs SMA50, -4.40% vs SMA20 |
+| Momentum | RSI(14) 42.0 (neutral) |
+| Volatility | ATR(14) 16.33 (~3.8% of price); beta 0.84 |
+| Setup perspective | -22.49% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | +1.7% |
+| Month | -9.6% |
+| Quarter | -14.6% |
+| Half Y | -12.2% |
+| 1Y | -7.1% |
+| YTD | -6.4% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ Hubbell Incorporated, together with its subsidiaries, manufactures and sells ele
 | Revenue (ttm) | $6.59B | Revenue growth 24.60% y/y |
 | Profitability | Gross 35.02%, operating 20.52%, net 13.78% | ROA 8.53%, ROE 23.43% |
 | Balance sheet | Cash $355.00M, debt $5.31B | Current ratio 1.53, debt/equity 128.87 |
-| Valuation | P/E 24.56, forward P/E 18.17, P/S 3.36, P/B 5.39 | EV/Sales 4.11, EV/EBITDA 16.90 |
+| Valuation | P/E 25.21, forward P/E 18.64, P/S 3.44, P/B 5.53 | EV/Sales 4.11, EV/EBITDA 16.90 |
 | Growth expectations | Earnings growth 3.60%, EPS q/q 2.70% | Analyst mean target $538.85 (13 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 99.21% |
+| Institutional ownership | 99.22% |
 | Insider ownership | 0.34% |
 | Short float | 5.82% |
 | Short ratio (days to cover) | 5.4 |
@@ -88,13 +88,14 @@ Hubbell Incorporated, together with its subsidiaries, manufactures and sells ele
 | Vanguard Portfolio Management LLC | 2,677,321 | 5.07% | 2026-06-30 |
 | State Street Corporation | 2,386,602 | 4.52% | 2026-06-30 |
 | Massachusetts Financial Services Co. | 1,546,097 | 2.93% | 2026-06-30 |
-| Bank Of New York Mellon Corporation | 1,496,831 | 2.83% | 2026-06-30 |
 | Geode Capital Management, LLC | 1,418,350 | 2.68% | 2026-06-30 |
+| Bank Of New York Mellon Corporation | 1,318,902 | 2.50% | 2026-09-30 |
 | Deutsche Bank AG | 1,166,004 | 2.21% | 2026-06-30 |
 | Boston Partners | 1,103,899 | 2.09% | 2026-06-30 |
 | Invesco Ltd. | 1,050,622 | 1.99% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
+- **Volatility risk:** Beta 0.84, ATR 3.8% of price, short float 5.82%. Size positions accordingly.
 - **Short interest risk:** short float 5.82% can fuel squeezes both ways around news.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -110,21 +111,21 @@ Hubbell Incorporated, together with its subsidiaries, manufactures and sells ele
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 4.11 |
-| Market cap | $22.13B | EV/EBITDA | 16.90 |
+| Price | $429.78 | EV/Sales | 4.11 |
+| Market cap | $22.71B | EV/EBITDA | 16.90 |
 | Beta | 0.84 | Gross margin | 35.02% |
-| RSI(14) | 43.2 | Operating margin | 20.52% |
-| ATR(14) | 15.66 | Profit margin | 13.78% |
-| SMA20 dist | +nan% | ROA | 8.53% |
-| SMA50 dist | +nan% | ROE | 23.43% |
-| SMA200 dist | +nan% | Revenue (ttm) | $6.59B |
+| RSI(14) | 42.0 | Operating margin | 20.52% |
+| ATR(14) | 16.33 | Profit margin | 13.78% |
+| SMA20 dist | -4.40% | ROA | 8.53% |
+| SMA50 dist | -5.68% | ROE | 23.43% |
+| SMA200 dist | -11.38% | Revenue (ttm) | $6.59B |
 | 52W high | $554.46 | Revenue growth y/y | 24.60% |
-| 52W low | $402.45 | Inst. ownership | 99.21% |
-| P/E (ttm) | 24.56 | Insider ownership | 0.34% |
-| Forward P/E | 18.17 | Short float | 5.82% |
-| PEG (trailing) | 1.61 | Avg volume | 537,749 |
-| P/S | 3.36 | Employees | 19,600 |
-| P/B | 5.39 | Analyst rec (1=buy..5=sell) | 2.0 |
+| 52W low | $402.45 | Inst. ownership | 99.22% |
+| P/E (ttm) | 25.21 | Insider ownership | 0.34% |
+| Forward P/E | 18.64 | Short float | 5.82% |
+| PEG (trailing) | 1.54 | Avg volume | 554,495 |
+| P/S | 3.44 | Employees | 19,600 |
+| P/B | 5.53 | Analyst rec (1=buy..5=sell) | 2.0 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
@@ -139,7 +140,7 @@ Hubbell Incorporated, together with its subsidiaries, manufactures and sells ele
 | 2026-08-21 | init | Baird | — → Outperform |
 
 ## 9. Conclusion
-HUBB: Moderate momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+HUBB: Low momentum / mixed fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

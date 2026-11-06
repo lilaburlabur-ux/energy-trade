@@ -4,8 +4,8 @@ Signed file: `SHEL.research.06.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-06, ~15-min delayed) |
-| Market cap | $283.70B |
+| Current price | $99.21 (2026-11-06, ~15-min delayed) |
+| Market cap | $281.10B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `SHEL.research.06.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +37.91%; price +12.55% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -8.73% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 10.18%, revenue growth 36.20%. |
-| Value attractiveness | Reasonable | Forward P/E 9.30, EV/Sales 1.02. |
-| Risk level | Moderate | Beta -0.24, ATR nan% of price, short float 1.22%. |
+| Value attractiveness | Reasonable | Forward P/E 9.22, EV/Sales 1.02. |
+| Risk level | Moderate | Beta -0.25, ATR 2.2% of price, short float 1.22%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
@@ -36,30 +36,30 @@ Shell plc operates as an energy and petrochemical company in Europe, Asia, Ocean
 
 | Headline | Source | Date |
 |---|---|---|
-| Hornbeck Offshore Services Inc (HOS) (Q3 2026) Earnings Call Highlights: Helix Merger Fuels $1. ... | GuruFocus.com | 2026-11-06 |
-| Is ExxonMobil Holdings (XOM) Rethinking Its Portfolio With An Infineum Exit? | Simply Wall St. | 2026-11-05 |
-| 3 British Energy Stocks With Earnings Growth Over 60% | Simply Wall St. | 2026-11-05 |
-| Can Chevron's Record Natural Gas Output Strengthen Its LNG Position? | Zacks | 2026-11-05 |
+| Top Funds Feast On Shell, Microsoft, Palantir And 24 More Stocks | Investor's Business Daily | 2026-11-06 |
+| ‘I can’t get a job at 62. How can I make my savings last?’ | The Telegraph | 2026-11-06 |
+| What DCC Energy Buyers Were Betting On | Simply Wall St. | 2026-11-06 |
+| Teads Holding Co (TEAD) (Q3 2026) Earnings Call Highlights: CTV Surges 37% While Revenue Slides ... | GuruFocus.com | 2026-11-06 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $108.69 (+nan%); 52w low $68.43 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 47.6 (neutral) |
-| Volatility | ATR(14) 2.12 (~nan% of price); beta -0.24 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $99.21; 52w high $108.69 (-8.73%); 52w low $68.43 (+44.97%) |
+| Trend | +12.55% vs SMA200, +0.11% vs SMA50, -5.14% vs SMA20 |
+| Momentum | RSI(14) 41.5 (neutral) |
+| Volatility | ATR(14) 2.15 (~2.2% of price); beta -0.25 |
+| Setup perspective | -8.73% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -8.7% |
+| Month | -1.0% |
+| Quarter | +11.3% |
+| Half Y | +20.3% |
+| 1Y | +37.9% |
+| YTD | +35.1% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Shell plc operates as an energy and petrochemical company in Europe, Asia, Ocean
 | Revenue (ttm) | $321.29B | Revenue growth 36.20% y/y |
 | Profitability | Gross 26.93%, operating 18.76%, net 10.18% | ROA 7.67%, ROE 17.43% |
 | Balance sheet | Cash $36.42B, debt $76.07B | Current ratio 1.38, debt/equity 38.13 |
-| Valuation | P/E 8.69, forward P/E 9.30, P/S 0.88, P/B 1.45 | EV/Sales 1.02, EV/EBITDA 4.85 |
+| Valuation | P/E 8.61, forward P/E 9.22, P/S 0.87, P/B 1.43 | EV/Sales 1.02, EV/EBITDA 4.85 |
 | Growth expectations | Earnings growth 136.70%, EPS q/q 126.60% | Analyst mean target $110.55 (15 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -109,21 +109,21 @@ Shell plc operates as an energy and petrochemical company in Europe, Asia, Ocean
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 1.02 |
-| Market cap | $283.70B | EV/EBITDA | 4.85 |
-| Beta | -0.24 | Gross margin | 26.93% |
-| RSI(14) | 47.6 | Operating margin | 18.76% |
-| ATR(14) | 2.12 | Profit margin | 10.18% |
-| SMA20 dist | +nan% | ROA | 7.67% |
-| SMA50 dist | +nan% | ROE | 17.43% |
-| SMA200 dist | +nan% | Revenue (ttm) | $321.29B |
+| Price | $99.21 | EV/Sales | 1.02 |
+| Market cap | $281.10B | EV/EBITDA | 4.85 |
+| Beta | -0.25 | Gross margin | 26.93% |
+| RSI(14) | 41.5 | Operating margin | 18.76% |
+| ATR(14) | 2.15 | Profit margin | 10.18% |
+| SMA20 dist | -5.14% | ROA | 7.67% |
+| SMA50 dist | +0.11% | ROE | 17.43% |
+| SMA200 dist | +12.55% | Revenue (ttm) | $321.29B |
 | 52W high | $108.69 | Revenue growth y/y | 36.20% |
 | 52W low | $68.43 | Inst. ownership | 13.54% |
-| P/E (ttm) | 8.69 | Insider ownership | 0.01% |
-| Forward P/E | 9.30 | Short float | 1.22% |
-| PEG (trailing) | 1.41 | Avg volume | 6,085,234 |
-| P/S | 0.88 | Employees | 84,000 |
-| P/B | 1.45 | Analyst rec (1=buy..5=sell) | 2.2 |
+| P/E (ttm) | 8.61 | Insider ownership | 0.01% |
+| Forward P/E | 9.22 | Short float | 1.22% |
+| PEG (trailing) | 1.39 | Avg volume | 6,037,176 |
+| P/S | 0.87 | Employees | 84,000 |
+| P/B | 1.43 | Analyst rec (1=buy..5=sell) | 2.2 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

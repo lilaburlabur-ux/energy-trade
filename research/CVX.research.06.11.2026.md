@@ -4,8 +4,8 @@ Signed file: `CVX.research.06.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-06, ~15-min delayed) |
-| Market cap | $415.43B |
+| Current price | $213.40 (2026-11-06, ~15-min delayed) |
+| Market cap | $416.35B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `CVX.research.06.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +45.30%; price +10.75% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -9.39% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 11.92%, revenue growth 34.80%. |
-| Value attractiveness | Reasonable | Forward P/E 13.02, EV/Sales 1.99. |
-| Risk level | Moderate | Beta 0.45, ATR nan% of price, short float 1.32%. |
+| Value attractiveness | Reasonable | Forward P/E 13.05, EV/Sales 1.99. |
+| Risk level | Moderate | Beta 0.45, ATR 2.5% of price, short float 1.32%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
@@ -36,30 +36,30 @@ Chevron Corporation, through its subsidiaries, engages in the integrated energy 
 
 | Headline | Source | Date |
 |---|---|---|
-| Top Stock Reports for Berkshire Hathaway, Micron & Chevron | Zacks | 2026-11-05 |
-| Chevron Has Become Very Interesting Again Following the Midterms | 24/7 Wall St. | 2026-11-05 |
-| Can Chevron's Record Natural Gas Output Strengthen Its LNG Position? | Zacks | 2026-11-05 |
-| Is Exxon Mobil Stock Still Worth Owning After Its Quarter? | Trefis | 2026-11-05 |
+| $600,000 in Dividend Stocks: How a Roth IRA Could Save You $4,460 a Year | 24/7 Wall St. | 2026-11-06 |
+| Will Suncor's Refining Strength Continue to Drive Cash Flow? | Zacks | 2026-11-06 |
+| The Zacks Analyst Blog Highlights Berkshire Hathaway, Micron Technology, Chevron and Orbit International | Zacks | 2026-11-06 |
+| State Street Energy SPDR (XLE) Sells $75.9 Million of Exxon on Nov. 4 | GuruFocus.com | 2026-11-06 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $235.52 (+nan%); 52w low $142.76 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 44.9 (neutral) |
-| Volatility | ATR(14) 5.15 (~nan% of price); beta 0.45 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $213.40; 52w high $235.52 (-9.39%); 52w low $142.76 (+49.48%) |
+| Trend | +10.75% vs SMA200, -0.70% vs SMA50, -4.91% vs SMA20 |
+| Momentum | RSI(14) 41.6 (neutral) |
+| Volatility | ATR(14) 5.43 (~2.5% of price); beta 0.45 |
+| Setup perspective | -9.39% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -9.4% |
+| Month | +0.9% |
+| Quarter | +10.4% |
+| Half Y | +19.6% |
+| 1Y | +45.3% |
+| YTD | +40.7% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ Chevron Corporation, through its subsidiaries, engages in the integrated energy 
 | Revenue (ttm) | $226.33B | Revenue growth 34.80% y/y |
 | Profitability | Gross 44.40%, operating 18.01%, net 11.92% | ROA —, ROE — |
 | Balance sheet | Cash $8.53B, debt $37.08B | Current ratio —, debt/equity 18.96 |
-| Valuation | P/E 15.63, forward P/E 13.02, P/S 1.84, P/B 2.20 | EV/Sales 1.99, EV/EBITDA 7.73 |
+| Valuation | P/E 15.67, forward P/E 13.05, P/S 1.84, P/B 2.20 | EV/Sales 1.99, EV/EBITDA 7.73 |
 | Growth expectations | Earnings growth 178.00%, EPS q/q 180.40% | Analyst mean target $241.67 (24 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 72.08% |
+| Institutional ownership | 72.11% |
 | Insider ownership | 4.83% |
 | Short float | 1.32% |
 | Short ratio (days to cover) | 2.8 |
@@ -109,25 +109,26 @@ Chevron Corporation, through its subsidiaries, engages in the integrated energy 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 1.99 |
-| Market cap | $415.43B | EV/EBITDA | 7.73 |
+| Price | $213.40 | EV/Sales | 1.99 |
+| Market cap | $416.35B | EV/EBITDA | 7.73 |
 | Beta | 0.45 | Gross margin | 44.40% |
-| RSI(14) | 44.9 | Operating margin | 18.01% |
-| ATR(14) | 5.15 | Profit margin | 11.92% |
-| SMA20 dist | +nan% | ROA | — |
-| SMA50 dist | +nan% | ROE | — |
-| SMA200 dist | +nan% | Revenue (ttm) | $226.33B |
+| RSI(14) | 41.6 | Operating margin | 18.01% |
+| ATR(14) | 5.43 | Profit margin | 11.92% |
+| SMA20 dist | -4.91% | ROA | — |
+| SMA50 dist | -0.70% | ROE | — |
+| SMA200 dist | +10.75% | Revenue (ttm) | $226.33B |
 | 52W high | $235.52 | Revenue growth y/y | 34.80% |
-| 52W low | $142.76 | Inst. ownership | 72.08% |
-| P/E (ttm) | 15.63 | Insider ownership | 4.83% |
-| Forward P/E | 13.02 | Short float | 1.32% |
-| PEG (trailing) | 0.84 | Avg volume | 8,418,404 |
+| 52W low | $142.76 | Inst. ownership | 72.11% |
+| P/E (ttm) | 15.67 | Insider ownership | 4.83% |
+| Forward P/E | 13.05 | Short float | 1.32% |
+| PEG (trailing) | 0.81 | Avg volume | 8,469,450 |
 | P/S | 1.84 | Employees | 43,039 |
 | P/B | 2.20 | Analyst rec (1=buy..5=sell) | 1.7 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-11-06 | up | Freedom Broker | Sell → Hold |
 | 2026-11-02 | main | UBS | Buy → Buy |
 | 2026-11-02 | main | Barclays | Equal-Weight → Equal-Weight |
 | 2026-11-02 | main | Morgan Stanley | Overweight → Overweight |
@@ -135,7 +136,6 @@ Chevron Corporation, through its subsidiaries, engages in the integrated energy 
 | 2026-11-02 | main | Wells Fargo | Overweight → Overweight |
 | 2026-10-15 | main | Morgan Stanley | Overweight → Overweight |
 | 2026-10-12 | main | TD Cowen | Hold → Hold |
-| 2026-10-08 | main | UBS | Buy → Buy |
 
 ## 9. Conclusion
 CVX: Moderate momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

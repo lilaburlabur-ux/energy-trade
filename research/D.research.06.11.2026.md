@@ -4,8 +4,8 @@ Signed file: `D.research.06.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-06, ~15-min delayed) |
-| Market cap | $61.25B |
+| Current price | $68.79 (2026-11-06, ~15-min delayed) |
+| Market cap | $60.51B |
 | Sector / Industry | Utilities / Utilities - Regulated Electric |
 | Main theme | Utilities - Regulated Electric — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `D.research.06.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +20.18%; price +7.25% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -3.07% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 13.99%, revenue growth 24.10%. |
-| Value attractiveness | Reasonable | Forward P/E 18.25, EV/Sales 6.37. |
-| Risk level | Moderate | Beta 0.59, ATR nan% of price, short float 2.72%. |
+| Value attractiveness | Reasonable | Forward P/E 18.01, EV/Sales 6.37. |
+| Risk level | Moderate | Beta 0.59, ATR 2.1% of price, short float 2.72%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
@@ -36,30 +36,30 @@ Dominion Energy, Inc. provides regulated electricity and natural gas services in
 
 | Headline | Source | Date |
 |---|---|---|
-| Virginia Chamber of Commerce promotes study touting Dominion merger benefits | The Virginian-Pilot | 2026-11-06 |
-| RMDs Start at 73. The Roth Conversion Plan That Turns a $1.4 Million IRA Into $7,100 a Month Tax-Free | 24/7 Wall St. | 2026-11-05 |
-| Mine, Enrich, Build, Operate: Which Link in the Nuclear Supply Chain Is the Best Stock Right Now? | Motley Fool | 2026-11-05 |
-| What Has Changed About Owning Xcel Energy Stock? | Trefis | 2026-11-04 |
+| Western Union Yields 13.5%. Is This Dividend Stock a Trap? | 24/7 Wall St. | 2026-11-06 |
+| NextEra Energy Vs. AES Corporation: Utility Scale Energy Production Just Got a Major Blue Boost | 24/7 Wall St. | 2026-11-06 |
+| Is NextEra's Dividend Enough To Make Up For Its Lagging Stock? | Trefis | 2026-11-06 |
+| These 6 Utility Stocks Offer Income and a Link to Power Demand | Motley Fool | 2026-11-06 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $70.97 (+nan%); 52w low $55.36 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 71.6 (overbought) |
-| Volatility | ATR(14) 1.41 (~nan% of price); beta 0.59 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $68.79; 52w high $70.97 (-3.07%); 52w low $55.36 (+24.27%) |
+| Trend | +7.25% vs SMA200, +7.70% vs SMA50, +5.75% vs SMA20 |
+| Momentum | RSI(14) 65.9 (neutral) |
+| Volatility | ATR(14) 1.46 (~2.1% of price); beta 0.59 |
+| Setup perspective | -3.07% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | +3.3% |
+| Month | +11.4% |
+| Quarter | +3.5% |
+| Half Y | +13.4% |
+| 1Y | +20.2% |
+| YTD | +19.7% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ Dominion Energy, Inc. provides regulated electricity and natural gas services in
 | Revenue (ttm) | $19.21B | Revenue growth 24.10% y/y |
 | Profitability | Gross 46.51%, operating 35.07%, net 13.99% | ROA 3.17%, ROE 8.82% |
 | Balance sheet | Cash $435.00M, debt $55.60B | Current ratio 0.88, debt/equity 161.56 |
-| Valuation | P/E 22.98, forward P/E 18.25, P/S 3.19, P/B 2.15 | EV/Sales 6.37, EV/EBITDA 13.77 |
-| Growth expectations | Earnings growth 12.00%, EPS q/q 15.30% | Analyst mean target $69.92 (12 analysts) |
+| Valuation | P/E 22.70, forward P/E 18.01, P/S 3.15, P/B 2.12 | EV/Sales 6.37, EV/EBITDA 13.77 |
+| Growth expectations | Earnings growth 12.00%, EPS q/q 15.30% | Analyst mean target $70.17 (12 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 82.68% |
+| Institutional ownership | 83.99% |
 | Insider ownership | 0.14% |
 | Short float | 2.72% |
 | Short ratio (days to cover) | 5.0 |
@@ -95,6 +95,7 @@ Dominion Energy, Inc. provides regulated electricity and natural gas services in
 | JPMORGAN CHASE & CO | 14,884,625 | 1.69% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
+- **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -109,21 +110,21 @@ Dominion Energy, Inc. provides regulated electricity and natural gas services in
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 6.37 |
-| Market cap | $61.25B | EV/EBITDA | 13.77 |
+| Price | $68.79 | EV/Sales | 6.37 |
+| Market cap | $60.51B | EV/EBITDA | 13.77 |
 | Beta | 0.59 | Gross margin | 46.51% |
-| RSI(14) | 71.6 | Operating margin | 35.07% |
-| ATR(14) | 1.41 | Profit margin | 13.99% |
-| SMA20 dist | +nan% | ROA | 3.17% |
-| SMA50 dist | +nan% | ROE | 8.82% |
-| SMA200 dist | +nan% | Revenue (ttm) | $19.21B |
+| RSI(14) | 65.9 | Operating margin | 35.07% |
+| ATR(14) | 1.46 | Profit margin | 13.99% |
+| SMA20 dist | +5.75% | ROA | 3.17% |
+| SMA50 dist | +7.70% | ROE | 8.82% |
+| SMA200 dist | +7.25% | Revenue (ttm) | $19.21B |
 | 52W high | $70.97 | Revenue growth y/y | 24.10% |
-| 52W low | $55.36 | Inst. ownership | 82.68% |
-| P/E (ttm) | 22.98 | Insider ownership | 0.14% |
-| Forward P/E | 18.25 | Short float | 2.72% |
-| PEG (trailing) | 2.71 | Avg volume | 4,524,071 |
-| P/S | 3.19 | Employees | 15,200 |
-| P/B | 2.15 | Analyst rec (1=buy..5=sell) | 2.5 |
+| 52W low | $55.36 | Inst. ownership | 83.99% |
+| P/E (ttm) | 22.70 | Insider ownership | 0.14% |
+| Forward P/E | 18.01 | Short float | 2.72% |
+| PEG (trailing) | 2.71 | Avg volume | 4,482,454 |
+| P/S | 3.15 | Employees | 15,200 |
+| P/B | 2.12 | Analyst rec (1=buy..5=sell) | 2.5 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

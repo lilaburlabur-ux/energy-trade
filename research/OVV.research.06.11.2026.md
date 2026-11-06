@@ -4,24 +4,24 @@ Signed file: `OVV.research.06.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-06, ~15-min delayed) |
-| Market cap | $16.37B |
+| Current price | $61.17 (2026-11-06, ~15-min delayed) |
+| Market cap | $16.44B |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
-| Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
+| Current stance | High technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-06.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +70.78%; price +5.74% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -15.77% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 13.13%, revenue growth 26.60%. |
-| Value attractiveness | Reasonable | Forward P/E 7.11, EV/Sales 2.11. |
-| Risk level | Moderate | Beta 0.56, ATR nan% of price, short float 5.26%. |
+| Value attractiveness | Reasonable | Forward P/E 6.98, EV/Sales 2.11. |
+| Risk level | Elevated | Beta 0.56, ATR 3.9% of price, short float 5.26%. |
 
-**Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
+**Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -36,30 +36,30 @@ Ovintiv Inc., together with its subsidiaries, operates as an oil and natural gas
 
 | Headline | Source | Date |
 |---|---|---|
+| Are Investors Undervaluing Ovintiv (OVV) Right Now? | Zacks | 2026-11-06 |
 | Ovintiv Inc (OVV) Q3 2026 Earnings Call Highlights: Strong Cash Flow, Logan Energy Deal, and ... | GuruFocus.com | 2026-11-05 |
 | Ovintiv (OVV) Q3 2026 Earnings Call Transcript | Motley Fool | 2026-11-04 |
 | Ovintiv Inc. Q3 2026 Earnings Call Summary | Moby | 2026-11-04 |
-| Ovintiv (OVV) Q3 Earnings: Taking a Look at Key Metrics Versus Estimates | Zacks | 2026-11-04 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $72.62 (+nan%); 52w low $35.81 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 38.0 (neutral) |
-| Volatility | ATR(14) 2.32 (~nan% of price); beta 0.56 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $61.17; 52w high $72.62 (-15.77%); 52w low $36.42 (+67.95%) |
+| Trend | +5.74% vs SMA200, -5.57% vs SMA50, -10.31% vs SMA20 |
+| Momentum | RSI(14) 35.5 (neutral) |
+| Volatility | ATR(14) 2.36 (~3.9% of price); beta 0.56 |
+| Setup perspective | -15.77% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -15.8% |
+| Month | -3.5% |
+| Quarter | -3.3% |
+| Half Y | +6.8% |
+| 1Y | +70.8% |
+| YTD | +53.4% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ Ovintiv Inc., together with its subsidiaries, operates as an oil and natural gas
 | Revenue (ttm) | $10.06B | Revenue growth 26.60% y/y |
 | Profitability | Gross 55.81%, operating 34.32%, net 13.13% | ROA 10.13%, ROE 12.10% |
 | Balance sheet | Cash $176.00M, debt $5.07B | Current ratio 0.84, debt/equity 43.69 |
-| Valuation | P/E 12.16, forward P/E 7.11, P/S 1.63, P/B 1.42 | EV/Sales 2.11, EV/EBITDA 3.97 |
-| Growth expectations | Earnings growth 249.10%, EPS q/q 270.90% | Analyst mean target $81.52 (21 analysts) |
+| Valuation | P/E 12.21, forward P/E 6.98, P/S 1.63, P/B 1.42 | EV/Sales 2.11, EV/EBITDA 3.97 |
+| Growth expectations | Earnings growth 249.10%, EPS q/q 270.90% | Analyst mean target $81.48 (21 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 99.23% |
+| Institutional ownership | 99.30% |
 | Insider ownership | 0.47% |
 | Short float | 5.26% |
 | Short ratio (days to cover) | 4.0 |
@@ -95,6 +95,7 @@ Ovintiv Inc., together with its subsidiaries, operates as an oil and natural gas
 | Invesco Ltd. | 6,961,851 | 2.59% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
+- **Volatility risk:** Beta 0.56, ATR 3.9% of price, short float 5.26%. Size positions accordingly.
 - **Short interest risk:** short float 5.26% can fuel squeezes both ways around news.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -110,21 +111,21 @@ Ovintiv Inc., together with its subsidiaries, operates as an oil and natural gas
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 2.11 |
-| Market cap | $16.37B | EV/EBITDA | 3.97 |
+| Price | $61.17 | EV/Sales | 2.11 |
+| Market cap | $16.44B | EV/EBITDA | 3.97 |
 | Beta | 0.56 | Gross margin | 55.81% |
-| RSI(14) | 38.0 | Operating margin | 34.32% |
-| ATR(14) | 2.32 | Profit margin | 13.13% |
-| SMA20 dist | +nan% | ROA | 10.13% |
-| SMA50 dist | +nan% | ROE | 12.10% |
-| SMA200 dist | +nan% | Revenue (ttm) | $10.06B |
+| RSI(14) | 35.5 | Operating margin | 34.32% |
+| ATR(14) | 2.36 | Profit margin | 13.13% |
+| SMA20 dist | -10.31% | ROA | 10.13% |
+| SMA50 dist | -5.57% | ROE | 12.10% |
+| SMA200 dist | +5.74% | Revenue (ttm) | $10.06B |
 | 52W high | $72.62 | Revenue growth y/y | 26.60% |
-| 52W low | $35.81 | Inst. ownership | 99.23% |
-| P/E (ttm) | 12.16 | Insider ownership | 0.47% |
-| Forward P/E | 7.11 | Short float | 5.26% |
-| PEG (trailing) | 2.82 | Avg volume | 3,341,303 |
+| 52W low | $36.42 | Inst. ownership | 99.30% |
+| P/E (ttm) | 12.21 | Insider ownership | 0.47% |
+| Forward P/E | 6.98 | Short float | 5.26% |
+| PEG (trailing) | 2.74 | Avg volume | 3,345,743 |
 | P/S | 1.63 | Employees | 1,465 |
-| P/B | 1.42 | Analyst rec (1=buy..5=sell) | 1.6 |
+| P/B | 1.42 | Analyst rec (1=buy..5=sell) | 1.5 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
@@ -139,7 +140,7 @@ Ovintiv Inc., together with its subsidiaries, operates as an oil and natural gas
 | 2026-10-15 | main | Morgan Stanley | Equal-Weight → Equal-Weight |
 
 ## 9. Conclusion
-OVV: Moderate momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+OVV: High momentum / mixed fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

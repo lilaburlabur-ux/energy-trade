@@ -4,24 +4,24 @@ Signed file: `FANG.research.06.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-06, ~15-min delayed) |
-| Market cap | $50.15B |
+| Current price | $180.80 (2026-11-06, ~15-min delayed) |
+| Market cap | $50.47B |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
-| Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
+| Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-06.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
-| Fundamental quality | Mixed | Profit margin 11.51%, revenue growth 44.00%. |
-| Value attractiveness | Reasonable | Forward P/E 8.31, EV/Sales 3.87. |
-| Risk level | Moderate | Beta 0.47, ATR nan% of price, short float 3.56%. |
+| Technical momentum | Low | Below SMA200 (-4.49%) with negative half-year (-3.13%). |
+| Fresh setup quality | Moderate / wait | -14.75% from 52w high; no clean fresh pivot by default. |
+| Fundamental quality | Mixed | Profit margin 11.62%, revenue growth 32.00%. |
+| Value attractiveness | Reasonable | Forward P/E 8.27, EV/Sales 3.90. |
+| Risk level | Elevated | Beta 0.47, ATR 3.6% of price, short float 3.56%. |
 
-**Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
+**Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -36,45 +36,45 @@ Diamondback Energy, Inc., an independent oil and natural gas company, acquires, 
 
 | Headline | Source | Date |
 |---|---|---|
-| U.S. Shale Giants Hold Back on Drilling Despite Higher Oil Prices | Oilprice.com | 2026-11-06 |
-| Diamondback Energy Inc (FANG) Q3 2026 Earnings Call Highlights: Low Reinvestment Rates, Barnett ... | GuruFocus.com | 2026-11-04 |
-| EOG Resources Earnings Ahead: What Past Reactions Say About The Stock | Trefis | 2026-11-04 |
-| FANG Q3 Earnings Call Highlights Capital Discipline and Permian Growth | Zacks | 2026-11-04 |
+| APA Q3 Earnings Beat on Strong Oil Prices and U.S. Output | Zacks | 2026-11-06 |
+| 5 Dividend Stocks With Ex-Dividend Deadlines Next Week. Don’t Miss These Dates | 24/7 Wall St. | 2026-11-06 |
+| Diamondback Just Raised Its Dividend 7.3%. These 3 Energy Stocks Are Paying Investors Too | 24/7 Wall St. | 2026-11-06 |
+| New Strong Buy Stocks for November 6th | Zacks | 2026-11-06 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $212.08 (+nan%); 52w low $134.06 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 36.2 (neutral) |
-| Volatility | ATR(14) 6.55 (~nan% of price); beta 0.47 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $180.80; 52w high $212.08 (-14.75%); 52w low $137.46 (+31.53%) |
+| Trend | -4.49% vs SMA200, -7.64% vs SMA50, -8.95% vs SMA20 |
+| Momentum | RSI(14) 35.6 (neutral) |
+| Volatility | ATR(14) 6.55 (~3.6% of price); beta 0.47 |
+| Setup perspective | -14.75% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -14.7% |
+| Month | -5.7% |
+| Quarter | -8.6% |
+| Half Y | -3.1% |
+| 1Y | +34.9% |
+| YTD | +20.7% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
 | Next earnings | 2026-11-02 | Next scheduled report (Yahoo estimate) |
-| Revenue (ttm) | $17.83B | Revenue growth 44.00% y/y |
-| Profitability | Gross 72.73%, operating 43.01%, net 11.51% | ROA 2.05%, ROE 4.86% |
+| Revenue (ttm) | $17.66B | Revenue growth 32.00% y/y |
+| Profitability | Gross 73.62%, operating 44.95%, net 11.62% | ROA 2.07%, ROE 4.86% |
 | Balance sheet | Cash $558.00M, debt $13.23B | Current ratio 0.55, debt/equity 29.31 |
-| Valuation | P/E 24.17, forward P/E 8.31, P/S 2.81, P/B 1.29 | EV/Sales 3.87, EV/EBITDA 5.41 |
-| Growth expectations | Earnings growth 62.10%, EPS q/q 57.50% | Analyst mean target $238.90 (30 analysts) |
+| Valuation | P/E 24.33, forward P/E 8.27, P/S 2.86, P/B 1.30 | EV/Sales 3.90, EV/EBITDA 5.40 |
+| Growth expectations | Earnings growth 62.10%, EPS q/q 57.50% | Analyst mean target $239.23 (30 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 73.68% |
+| Institutional ownership | 73.58% |
 | Insider ownership | 23.96% |
 | Short float | 3.56% |
 | Short ratio (days to cover) | 2.1 |
@@ -92,9 +92,10 @@ Diamondback Energy, Inc., an independent oil and natural gas company, acquires, 
 | Capital World Investors | 8,944,927 | 3.19% | 2026-06-30 |
 | Boston Partners | 5,850,054 | 2.09% | 2026-06-30 |
 | Geode Capital Management, LLC | 5,387,025 | 1.92% | 2026-06-30 |
-| Bank Of New York Mellon Corporation | 4,851,470 | 1.73% | 2026-06-30 |
+| FMR, LLC | 4,594,399 | 1.64% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
+- **Volatility risk:** Beta 0.47, ATR 3.6% of price, short float 3.56%. Size positions accordingly.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -109,21 +110,21 @@ Diamondback Energy, Inc., an independent oil and natural gas company, acquires, 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 3.87 |
-| Market cap | $50.15B | EV/EBITDA | 5.41 |
-| Beta | 0.47 | Gross margin | 72.73% |
-| RSI(14) | 36.2 | Operating margin | 43.01% |
-| ATR(14) | 6.55 | Profit margin | 11.51% |
-| SMA20 dist | +nan% | ROA | 2.05% |
-| SMA50 dist | +nan% | ROE | 4.86% |
-| SMA200 dist | +nan% | Revenue (ttm) | $17.83B |
-| 52W high | $212.08 | Revenue growth y/y | 44.00% |
-| 52W low | $134.06 | Inst. ownership | 73.68% |
-| P/E (ttm) | 24.17 | Insider ownership | 23.96% |
-| Forward P/E | 8.31 | Short float | 3.56% |
-| PEG (trailing) | 9.39 | Avg volume | 2,370,329 |
-| P/S | 2.81 | Employees | 1,762 |
-| P/B | 1.29 | Analyst rec (1=buy..5=sell) | 1.5 |
+| Price | $180.80 | EV/Sales | 3.90 |
+| Market cap | $50.47B | EV/EBITDA | 5.40 |
+| Beta | 0.47 | Gross margin | 73.62% |
+| RSI(14) | 35.6 | Operating margin | 44.95% |
+| ATR(14) | 6.55 | Profit margin | 11.62% |
+| SMA20 dist | -8.95% | ROA | 2.07% |
+| SMA50 dist | -7.64% | ROE | 4.86% |
+| SMA200 dist | -4.49% | Revenue (ttm) | $17.66B |
+| 52W high | $212.08 | Revenue growth y/y | 32.00% |
+| 52W low | $137.46 | Inst. ownership | 73.58% |
+| P/E (ttm) | 24.33 | Insider ownership | 23.96% |
+| Forward P/E | 8.27 | Short float | 3.56% |
+| PEG (trailing) | 8.77 | Avg volume | 2,403,704 |
+| P/S | 2.86 | Employees | 1,762 |
+| P/B | 1.30 | Analyst rec (1=buy..5=sell) | 1.5 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
@@ -138,7 +139,7 @@ Diamondback Energy, Inc., an independent oil and natural gas company, acquires, 
 | 2026-09-14 | main | UBS | Buy → Buy |
 
 ## 9. Conclusion
-FANG: Moderate momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+FANG: Low momentum / mixed fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

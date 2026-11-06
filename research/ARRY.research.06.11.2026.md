@@ -4,24 +4,24 @@ Signed file: `ARRY.research.06.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-06, ~15-min delayed) |
-| Market cap | $817.63M |
+| Current price | $5.80 (2026-11-06, ~15-min delayed) |
+| Market cap | $895.53M |
 | Sector / Industry | Technology / Solar |
 | Main theme | Solar — see catalysts below |
-| Current stance | Moderate technical momentum, weak fundamentals, value: reasonable, risk: high. |
+| Current stance | Low technical momentum, weak fundamentals, value: reasonable, risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-06.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-14.30%) with negative half-year (-32.26%). |
+| Fresh setup quality | Poor / broken | -51.46% from 52w high — base needs to rebuild. |
 | Fundamental quality | Weak | Negative profit margin (-9.91%). |
-| Value attractiveness | Reasonable | Forward P/E 5.68, EV/Sales 1.73. |
-| Risk level | High | Beta —, ATR nan% of price, short float 35.42%. |
+| Value attractiveness | Reasonable | Forward P/E 6.23, EV/Sales 1.73. |
+| Risk level | High | Beta 1.78, ATR 6.9% of price, short float 35.42%. |
 
-**Bottom line:** Moderate technical momentum, weak fundamentals, value: reasonable, risk: high.
+**Bottom line:** Low technical momentum, weak fundamentals, value: reasonable, risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -36,45 +36,45 @@ Array Technologies, Inc. engages in the manufacture and sale of solar tracking t
 
 | Headline | Source | Date |
 |---|---|---|
+| Array Technologies (ARRY) Q3 2026 Earnings Call Transcript | Motley Fool | 2026-11-06 |
 | Array Technologies to merge with Shoals in $1 billion deal, combining solar suppliers | Albuquerque Journal, N.M. | 2026-11-05 |
 | Array’s (NASDAQ:ARRY) Q3 2026 sales beat estimates but full-year sales guidance misses expectations significantly | StockStory | 2026-11-04 |
 | SolarEdge Technologies' Q3 Earnings Top Estimates, Revenues Fall Y/Y | Zacks | 2026-11-04 |
-| Array Technologies, Inc. (ARRY) Misses Q3 Earnings Estimates | Zacks | 2026-11-04 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $11.96 (+nan%); 52w low $3.15 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 75.0 (overbought) |
-| Volatility | ATR(14) 0.35 (~nan% of price); beta — |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $5.80; 52w high $11.96 (-51.46%); 52w low $3.15 (+84.29%) |
+| Trend | -14.30% vs SMA200, +44.00% vs SMA50, +52.83% vs SMA20 |
+| Momentum | RSI(14) 78.2 (overbought) |
+| Volatility | ATR(14) 0.40 (~6.9% of price); beta 1.78 |
+| Setup perspective | -51.46% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | +71.2% |
+| Month | +54.8% |
+| Quarter | +9.1% |
+| Half Y | -32.3% |
+| 1Y | -30.2% |
+| YTD | -40.0% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
 | Next earnings | 2026-11-04 | Next scheduled report (Yahoo estimate) |
 | Revenue (ttm) | $1.12B | Revenue growth -16.10% y/y |
-| Profitability | Gross 25.02%, operating 1.10%, net -9.91% | ROA 1.53%, ROE -31.49% |
+| Profitability | Gross 25.00%, operating 4.29%, net -9.91% | ROA 1.89%, ROE -31.49% |
 | Balance sheet | Cash $143.28M, debt $759.38M | Current ratio 1.62, debt/equity 251.77 |
-| Valuation | P/E —, forward P/E 5.68, P/S 0.73, P/B -3.92 | EV/Sales 1.73, EV/EBITDA 24.87 |
+| Valuation | P/E —, forward P/E 6.23, P/S 0.80, P/B -4.30 | EV/Sales 1.73, EV/EBITDA 22.23 |
 | Growth expectations | Earnings growth —, EPS q/q -75.50% | Analyst mean target $6.94 (22 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 142.26% |
+| Institutional ownership | 142.02% |
 | Insider ownership | 0.79% |
 | Short float | 35.42% |
 | Short ratio (days to cover) | 6.2 |
@@ -95,9 +95,10 @@ Array Technologies, Inc. engages in the manufacture and sale of solar tracking t
 | Vanguard Capital Management LLC | 6,806,056 | 4.42% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta —, ATR nan% of price, short float 35.42%. Size positions accordingly.
+- **Volatility risk:** Beta 1.78, ATR 6.9% of price, short float 35.42%. Size positions accordingly.
 - **Short interest risk:** short float 35.42% can fuel squeezes both ways around news.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
+- **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -112,21 +113,21 @@ Array Technologies, Inc. engages in the manufacture and sale of solar tracking t
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 1.73 |
-| Market cap | $817.63M | EV/EBITDA | 24.87 |
-| Beta | — | Gross margin | 25.02% |
-| RSI(14) | 75.0 | Operating margin | 1.10% |
-| ATR(14) | 0.35 | Profit margin | -9.91% |
-| SMA20 dist | +nan% | ROA | 1.53% |
-| SMA50 dist | +nan% | ROE | -31.49% |
-| SMA200 dist | +nan% | Revenue (ttm) | $1.12B |
+| Price | $5.80 | EV/Sales | 1.73 |
+| Market cap | $895.53M | EV/EBITDA | 22.23 |
+| Beta | 1.78 | Gross margin | 25.00% |
+| RSI(14) | 78.2 | Operating margin | 4.29% |
+| ATR(14) | 0.40 | Profit margin | -9.91% |
+| SMA20 dist | +52.83% | ROA | 1.89% |
+| SMA50 dist | +44.00% | ROE | -31.49% |
+| SMA200 dist | -14.30% | Revenue (ttm) | $1.12B |
 | 52W high | $11.96 | Revenue growth y/y | -16.10% |
-| 52W low | $3.15 | Inst. ownership | 142.26% |
+| 52W low | $3.15 | Inst. ownership | 142.02% |
 | P/E (ttm) | — | Insider ownership | 0.79% |
-| Forward P/E | 5.68 | Short float | 35.42% |
-| PEG (trailing) | 0.47 | Avg volume | 7,834,176 |
-| P/S | 0.73 | Employees | 1,200 |
-| P/B | -3.92 | Analyst rec (1=buy..5=sell) | 2.1 |
+| Forward P/E | 6.23 | Short float | 35.42% |
+| PEG (trailing) | 0.53 | Avg volume | 7,846,403 |
+| P/S | 0.80 | Employees | 1,200 |
+| P/B | -4.30 | Analyst rec (1=buy..5=sell) | 2.1 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
@@ -141,7 +142,7 @@ Array Technologies, Inc. engages in the manufacture and sale of solar tracking t
 | 2026-09-30 | main | Piper Sandler | Neutral → Neutral |
 
 ## 9. Conclusion
-ARRY: Moderate momentum / weak fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+ARRY: Low momentum / weak fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

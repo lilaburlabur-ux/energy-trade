@@ -4,24 +4,24 @@ Signed file: `COP.research.06.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-06, ~15-min delayed) |
-| Market cap | $162.73B |
+| Current price | $136.78 (2026-11-06, ~15-min delayed) |
+| Market cap | $164.32B |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
-| Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
+| Current stance | High technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-06.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +60.88%; price +12.63% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -11.20% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 14.40%, revenue growth 35.50%. |
-| Value attractiveness | Reasonable | Forward P/E 12.40, EV/Sales 2.79. |
-| Risk level | Moderate | Beta 0.16, ATR nan% of price, short float 1.55%. |
+| Value attractiveness | Reasonable | Forward P/E 12.58, EV/Sales 2.79. |
+| Risk level | Elevated | Beta 0.16, ATR 3.1% of price, short float 1.55%. |
 
-**Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
+**Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -36,39 +36,39 @@ ConocoPhillips explores for, produces, transports, and markets crude oil, bitume
 
 | Headline | Source | Date |
 |---|---|---|
-| ConocoPhillips Q3 2026 Earnings Call Summary | Moby | 2026-11-05 |
-| Earnings live updates: Airbnb stock jumps as Wall Street cheers 'growth mode,' upbeat outlook | Yahoo Finance | 2026-11-02 |
-| ConocoPhillips (COP) Q3 2026 Earnings Call Transcript | Motley Fool | 2026-11-05 |
-| ConocoPhillips Reports Higher Q3 Earnings as Oil Prices Support Profit Growth | InvestorsHub | 2026-11-05 |
+| ConocoPhillips Just Raised Its Dividend 11%. Is It a Better Buy Than Murphy Oil? | 24/7 Wall St. | 2026-11-06 |
+| Earnings live updates: Moderna's COVID vaccine sales drive revenue growth, raised outlook | Yahoo Finance | 2026-11-02 |
+| Is ConocoPhillips a Buy After Its Latest Earnings Report? | Motley Fool | 2026-11-06 |
+| COP Q3 Earnings Call Highlights Cash Flow Growth and Lower Spending | Zacks | 2026-11-06 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $154.03 (+nan%); 52w low $83.04 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 43.0 (neutral) |
-| Volatility | ATR(14) 4.16 (~nan% of price); beta 0.16 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $136.78; 52w high $154.03 (-11.20%); 52w low $83.04 (+64.71%) |
+| Trend | +12.63% vs SMA200, -0.11% vs SMA50, -5.51% vs SMA20 |
+| Momentum | RSI(14) 43.4 (neutral) |
+| Volatility | ATR(14) 4.25 (~3.1% of price); beta 0.16 |
+| Setup perspective | -11.20% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -11.2% |
+| Month | +1.9% |
+| Quarter | +11.9% |
+| Half Y | +21.8% |
+| 1Y | +60.9% |
+| YTD | +44.6% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
-| Next earnings | 2026-11-05 | Next scheduled report (Yahoo estimate) |
+| Next earnings | 2027-02-04 | Next scheduled report (Yahoo estimate) |
 | Revenue (ttm) | $64.46B | Revenue growth 35.50% y/y |
 | Profitability | Gross 47.57%, operating 31.51%, net 14.40% | ROA 7.53%, ROE 14.18% |
 | Balance sheet | Cash $7.69B, debt $23.29B | Current ratio 1.54, debt/equity 35.64 |
-| Valuation | P/E 17.94, forward P/E 12.40, P/S 2.52, P/B 2.57 | EV/Sales 2.79, EV/EBITDA 6.73 |
+| Valuation | P/E 14.41, forward P/E 12.58, P/S 2.55, P/B 2.60 | EV/Sales 2.79, EV/EBITDA 6.73 |
 | Growth expectations | Earnings growth 107.00%, EPS q/q 99.40% | Analyst mean target $151.56 (27 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,6 +95,7 @@ ConocoPhillips explores for, produces, transports, and markets crude oil, bitume
 | Vanguard Portfolio Management LLC | 28,503,663 | 2.37% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
+- **Volatility risk:** Beta 0.16, ATR 3.1% of price, short float 1.55%. Size positions accordingly.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -109,25 +110,26 @@ ConocoPhillips explores for, produces, transports, and markets crude oil, bitume
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 2.79 |
-| Market cap | $162.73B | EV/EBITDA | 6.73 |
+| Price | $136.78 | EV/Sales | 2.79 |
+| Market cap | $164.32B | EV/EBITDA | 6.73 |
 | Beta | 0.16 | Gross margin | 47.57% |
-| RSI(14) | 43.0 | Operating margin | 31.51% |
-| ATR(14) | 4.16 | Profit margin | 14.40% |
-| SMA20 dist | +nan% | ROA | 7.53% |
-| SMA50 dist | +nan% | ROE | 14.18% |
-| SMA200 dist | +nan% | Revenue (ttm) | $64.46B |
+| RSI(14) | 43.4 | Operating margin | 31.51% |
+| ATR(14) | 4.25 | Profit margin | 14.40% |
+| SMA20 dist | -5.51% | ROA | 7.53% |
+| SMA50 dist | -0.11% | ROE | 14.18% |
+| SMA200 dist | +12.63% | Revenue (ttm) | $64.46B |
 | 52W high | $154.03 | Revenue growth y/y | 35.50% |
 | 52W low | $83.04 | Inst. ownership | 87.03% |
-| P/E (ttm) | 17.94 | Insider ownership | 0.10% |
-| Forward P/E | 12.40 | Short float | 1.55% |
-| PEG (trailing) | 1.01 | Avg volume | 6,659,578 |
-| P/S | 2.52 | Employees | 9,600 |
-| P/B | 2.57 | Analyst rec (1=buy..5=sell) | 1.9 |
+| P/E (ttm) | 14.41 | Insider ownership | 0.10% |
+| Forward P/E | 12.58 | Short float | 1.55% |
+| PEG (trailing) | 1.00 | Avg volume | 6,668,626 |
+| P/S | 2.55 | Employees | 9,600 |
+| P/B | 2.60 | Analyst rec (1=buy..5=sell) | 1.9 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-11-06 | main | Wells Fargo | Overweight → Overweight |
 | 2026-10-20 | main | Susquehanna | Positive → Positive |
 | 2026-10-15 | main | Morgan Stanley | Overweight → Overweight |
 | 2026-10-07 | main | Jefferies | Buy → Buy |
@@ -135,10 +137,9 @@ ConocoPhillips explores for, produces, transports, and markets crude oil, bitume
 | 2026-09-14 | main | UBS | Buy → Buy |
 | 2026-09-03 | init | Seaport Global | — → Neutral |
 | 2026-08-19 | main | Morgan Stanley | Overweight → Overweight |
-| 2026-08-19 | main | Argus Research | Buy → Buy |
 
 ## 9. Conclusion
-COP: Moderate momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+COP: High momentum / mixed fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |
