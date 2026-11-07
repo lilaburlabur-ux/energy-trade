@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-07T15:48:33+00:00",
-  "as_of_local": "2026-11-07 15:48:33 UTC",
+  "as_of_utc": "2026-11-07T16:03:28+00:00",
+  "as_of_local": "2026-11-07 16:03:28 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "MPC"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -281,34 +283,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/nexteras-dividend-enough-lagging-stock-142600112.html",
           "publisher": "Trefis",
           "published": "2026-11-06T14:26:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "MPC",
-      "name": "Marathon Petroleum",
-      "price": 372.74,
-      "previous_close": 377.32,
-      "change_pct": -1.21,
-      "market_cap": 101490494388.19336,
-      "headlines": [
-        {
-          "title": "Marathon Petroleum And 2 Top Pipeline Stocks",
-          "url": "https://finance.yahoo.com/energy/articles/marathon-petroleum-2-top-pipeline-161309722.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-06T16:13:09Z"
-        },
-        {
-          "title": "Petrobras Strengthens Oil Spill Response With New Vessel Charter",
-          "url": "https://finance.yahoo.com/energy/articles/petrobras-strengthens-oil-spill-response-144300173.html",
-          "publisher": "Zacks",
-          "published": "2026-11-06T14:43:00Z"
-        },
-        {
-          "title": "3 Refining Stocks That Have Doubled in 2026: What's Next?",
-          "url": "https://finance.yahoo.com/energy/articles/3-refining-stocks-doubled-2026-130900865.html",
-          "publisher": "Zacks",
-          "published": "2026-11-06T13:09:00Z"
         }
       ]
     },
@@ -1948,8 +1922,8 @@
           "name": "Marathon Petroleum Corp",
           "short": "Marathon",
           "weight_pct": 4.64,
-          "change_pct": -1.21,
-          "price": 372.74,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -2047,8 +2021,8 @@
         "name": "Marathon Petroleum Corp",
         "short": "Marathon",
         "weight_pct": 4.64,
-        "change_pct": -1.21,
-        "price": 372.74,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
