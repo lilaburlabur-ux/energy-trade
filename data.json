@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-07T05:02:05+00:00",
-  "as_of_local": "2026-11-07 05:02:05 UTC",
+  "as_of_utc": "2026-11-07T05:17:06+00:00",
+  "as_of_local": "2026-11-07 05:17:06 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "ET"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -673,34 +675,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/invested-25-000-4-dividend-164724788.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-05T16:47:24Z"
-        }
-      ]
-    },
-    {
-      "symbol": "ET",
-      "name": "Energy Transfer",
-      "price": 18.92,
-      "previous_close": 18.85,
-      "change_pct": 0.39,
-      "market_cap": 65147228713.62291,
-      "headlines": [
-        {
-          "title": "Enterprise Products Gains 24.3% in a Year: Should You Buy or Exit?",
-          "url": "https://finance.yahoo.com/energy/articles/enterprise-products-gains-24-3-171500090.html",
-          "publisher": "Zacks",
-          "published": "2026-11-06T17:15:00Z"
-        },
-        {
-          "title": "Occidental Petroleum to Release Q3 Earnings: What's in the Cards?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/occidental-petroleum-release-q3-earnings-135700931.html",
-          "publisher": "Zacks",
-          "published": "2026-11-06T13:57:00Z"
-        },
-        {
-          "title": "With a Nearly 7% Yield, Is Energy Transfer Stock a Buy as It Looks to Turbocharge Growth?",
-          "url": "https://finance.yahoo.com/energy/articles/nearly-7-yield-energy-transfer-095000486.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-06T09:50:00Z"
         }
       ]
     },
