@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-07T18:25:53+00:00",
-  "as_of_local": "2026-11-07 18:25:53 UTC",
+  "as_of_utc": "2026-11-07T18:40:55+00:00",
+  "as_of_local": "2026-11-07 18:40:55 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "EPD"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -509,34 +511,6 @@
       ]
     },
     {
-      "symbol": "EPD",
-      "name": "Enterprise Products",
-      "price": 37.03,
-      "previous_close": 36.62,
-      "change_pct": 1.12,
-      "market_cap": 79859075259.16571,
-      "headlines": [
-        {
-          "title": "Everyone Loves This 6.5% Pipeline Yield. Here's the Risk I Think They're Ignoring.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/everyone-loves-6-5-pipeline-133500436.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-07T13:35:00Z"
-        },
-        {
-          "title": "Enterprise Products (EPD) Q3 Earnings: Taking a Look at Key Metrics Versus Estimates",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/enterprise-products-epd-q3-earnings-210001954.html",
-          "publisher": "Zacks",
-          "published": "2026-11-06T21:00:01Z"
-        },
-        {
-          "title": "Enterprise Products Gains 24.3% in a Year: Should You Buy or Exit?",
-          "url": "https://finance.yahoo.com/energy/articles/enterprise-products-gains-24-3-171500090.html",
-          "publisher": "Zacks",
-          "published": "2026-11-06T17:15:00Z"
-        }
-      ]
-    },
-    {
       "symbol": "SU",
       "name": "Suncor Energy",
       "price": 68.74,
@@ -629,6 +603,12 @@
       "market_cap": 70412148819.08223,
       "headlines": [
         {
+          "title": "Vertiv (VRT) Stock Looks Below Fair Value After Recent Deals",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/vertiv-vrt-stock-looks-below-181453440.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-07T18:14:53Z"
+        },
+        {
           "title": "Are You Sure You Understand Vertiv Stock's Risk?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/sure-understand-vertiv-stocks-risk-010525405.html",
           "publisher": "Trefis",
@@ -639,12 +619,6 @@
           "url": "https://www.wsj.com/livecoverage/october-jobs-report-stock-market-11-06-2026/card/stocks-to-watch-draftkings-airbnb-iren-coreweave-K3mHErTnFxPagbWPHHSI?siteid=yhoof2&yptr=yahoo",
           "publisher": "The Wall Street Journal",
           "published": "2026-11-06T21:25:13Z"
-        },
-        {
-          "title": "Microsoft and Oracle's AI ambitions are suddenly a lot more expensive",
-          "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-oracles-ai-ambitions-suddenly-210700883.html",
-          "publisher": "TheStreet",
-          "published": "2026-11-06T21:07:00Z"
         }
       ]
     },
@@ -657,6 +631,12 @@
       "market_cap": 66742346221.30579,
       "headlines": [
         {
+          "title": "A 64-Year-Old Swapped XYLD for SPYI in a $1.37 Million Portfolio. Here\u2019s What Happened to His $7,300 Monthly Paycheck",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/64-old-swapped-xyld-spyi-182129291.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-07T18:21:29Z"
+        },
+        {
           "title": "Marathon Petroleum And 2 Top Pipeline Stocks",
           "url": "https://finance.yahoo.com/energy/articles/marathon-petroleum-2-top-pipeline-161309722.html",
           "publisher": "Simply Wall St.",
@@ -667,12 +647,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/know-beyond-why-kinder-morgan-130004130.html",
           "publisher": "Zacks",
           "published": "2026-11-06T13:00:04Z"
-        },
-        {
-          "title": "If You Invested $25,000 in These 4 Dividend Stocks, Here\u2019s What They\u2019d Pay You",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/invested-25-000-4-dividend-164724788.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-05T16:47:24Z"
         }
       ]
     },
@@ -1861,6 +1835,12 @@
       "market_cap": 754472106.0293713,
       "headlines": [
         {
+          "title": "What The Bulls Got Wrong Before Fluence Energy Fell 77%",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bulls-got-wrong-fluence-energy-181531924.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-07T18:15:31Z"
+        },
+        {
           "title": "Is Fluence Energy (FLNC) A Bargain After Its Leadership Reset?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/fluence-energy-flnc-bargain-leadership-070952651.html",
           "publisher": "Simply Wall St.",
@@ -1871,12 +1851,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/fluence-energy-flnc-stock-may-011218282.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-07T01:12:18Z"
-        },
-        {
-          "title": "Fluence Energy (FLNC) Replaces Top Executives And Adds Board Manufacturing Oversight",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/fluence-energy-flnc-replaces-top-001110057.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-07T00:11:10Z"
         }
       ]
     },
