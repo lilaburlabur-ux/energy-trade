@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-07T01:57:37+00:00",
-  "as_of_local": "2026-11-07 01:57:37 UTC",
+  "as_of_utc": "2026-11-07T02:12:43+00:00",
+  "as_of_local": "2026-11-07 02:12:43 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "WMB"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -483,6 +481,34 @@
       ]
     },
     {
+      "symbol": "WMB",
+      "name": "Williams Companies",
+      "price": 64.08,
+      "previous_close": 64.25,
+      "change_pct": -0.26,
+      "market_cap": 80112979514.46918,
+      "headlines": [
+        {
+          "title": "ETFs Are Net Sellers of Williams (WMB) on Nov. 4",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-williams-wmb-110344609.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-06T11:03:44Z"
+        },
+        {
+          "title": "What Are Wall Street Analysts' Target Price for Williams Companies Stock?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-075605703.html",
+          "publisher": "Barchart",
+          "published": "2026-11-06T07:56:05Z"
+        },
+        {
+          "title": "A $750,000 Dividend Portfolio Could Cost You $9,000 a Year in Taxes. Here\u2019s How",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/750-000-dividend-portfolio-could-174836690.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-05T17:48:36Z"
+        }
+      ]
+    },
+    {
       "symbol": "EPD",
       "name": "Enterprise Products",
       "price": 37.03,
@@ -544,7 +570,7 @@
       "price": 147.13,
       "previous_close": 144.89,
       "change_pct": 1.55,
-      "market_cap": 77173980226.05762,
+      "market_cap": 78365638219.62524,
       "headlines": [
         {
           "title": "EOG Resources (EOG) Q3 2026 Earnings Call Transcript",
@@ -1949,8 +1975,8 @@
           "name": "Williams Companies Inc",
           "short": "Williams",
           "weight_pct": 4.12,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": -0.26,
+          "price": 64.08,
           "currency": "USD"
         },
         {
@@ -2048,8 +2074,8 @@
         "name": "Williams Companies Inc",
         "short": "Williams",
         "weight_pct": 4.12,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": -0.26,
+        "price": 64.08,
         "currency": "USD"
       },
       {
