@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-07T00:17:02+00:00",
-  "as_of_local": "2026-11-07 00:17:02 UTC",
+  "as_of_utc": "2026-11-07T00:22:27+00:00",
+  "as_of_local": "2026-11-07 00:22:27 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "LEU"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1709,34 +1711,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/behind-move-tesla-stock-141948898.html",
           "publisher": "Trefis",
           "published": "2026-11-06T14:19:48Z"
-        }
-      ]
-    },
-    {
-      "symbol": "LEU",
-      "name": "Centrus Energy",
-      "price": 104.6,
-      "previous_close": 89.03,
-      "change_pct": 17.49,
-      "market_cap": 2139395065.591034,
-      "headlines": [
-        {
-          "title": "Centrus Energy Q3 Earnings Call Highlights Enrichment Expansion Progress",
-          "url": "https://finance.yahoo.com/energy/articles/centrus-energy-q3-earnings-call-161600355.html",
-          "publisher": "Zacks",
-          "published": "2026-11-06T16:16:00Z"
-        },
-        {
-          "title": "Molson Coors downgraded, SiTime upgraded: Wall Street's top analyst calls",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/molson-coors-downgraded-sitime-upgraded-150719956.html",
-          "publisher": "The Fly",
-          "published": "2026-11-06T15:07:19Z"
-        },
-        {
-          "title": "LEU Q3 Earnings Beat Estimates on Warrant Gain, Sales Decline",
-          "url": "https://finance.yahoo.com/energy/articles/leu-q3-earnings-beat-estimates-135700756.html",
-          "publisher": "Zacks",
-          "published": "2026-11-06T13:57:00Z"
         }
       ]
     },
