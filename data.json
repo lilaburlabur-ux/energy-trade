@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-07T17:20:29+00:00",
-  "as_of_local": "2026-11-07 17:20:29 UTC",
+  "as_of_utc": "2026-11-07T17:35:32+00:00",
+  "as_of_local": "2026-11-07 17:35:32 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "TLN"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1407,6 +1405,34 @@
       ]
     },
     {
+      "symbol": "TLN",
+      "name": "Talen Energy",
+      "price": 338.64,
+      "previous_close": 316.23,
+      "change_pct": 7.09,
+      "market_cap": 14732639492.964844,
+      "headlines": [
+        {
+          "title": "Vistra Soars 8% on 50% EBITDA Jump and First 2027 Outlook: \u201cMore of These Opportunities\u201d",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-soars-8-50-ebitda-144334241.html",
+          "publisher": "TIKR",
+          "published": "2026-11-06T14:43:34Z"
+        },
+        {
+          "title": "Growing US Power Demand Positions Talen Energy (TLN) for Long-Term Upside",
+          "url": "https://finance.yahoo.com/energy/articles/growing-us-power-demand-positions-150358450.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-11-05T15:03:58Z"
+        },
+        {
+          "title": "GE Vernova Soars 6%, Eaton Up 7% on Record Orders and Bernstein\u2019s Data Center Call",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-soars-6-eaton-135445573.html",
+          "publisher": "TIKR",
+          "published": "2026-11-04T13:54:45Z"
+        }
+      ]
+    },
+    {
       "symbol": "AR",
       "name": "Antero Resources",
       "price": 36.08,
@@ -1807,6 +1833,12 @@
       "market_cap": 903247140.8724546,
       "headlines": [
         {
+          "title": "Array and Shoals Are Merging: Who Really Wins the All-Stock Solar Deal?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/array-shoals-merging-really-wins-171500136.html",
+          "publisher": "MarketBeat",
+          "published": "2026-11-06T17:15:00Z"
+        },
+        {
           "title": "Array Technologies (ARRY) Q3 2026 Earnings Call Transcript",
           "url": "https://finance.yahoo.com/markets/stocks/articles/array-technologies-arry-q3-2026-080325432.html",
           "publisher": "Motley Fool",
@@ -1817,12 +1849,6 @@
           "url": "https://finance.yahoo.com/energy/articles/array-technologies-merge-shoals-1-040800454.html",
           "publisher": "Albuquerque Journal, N.M.",
           "published": "2026-11-05T04:08:00Z"
-        },
-        {
-          "title": "Array\u2019s (NASDAQ:ARRY) Q3 2026 sales beat estimates but full-year sales guidance misses expectations significantly",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/array-nasdaq-arry-q3-2026-224142737.html",
-          "publisher": "StockStory",
-          "published": "2026-11-04T22:41:42Z"
         }
       ]
     },
