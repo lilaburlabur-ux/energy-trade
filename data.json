@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-07T23:42:57+00:00",
-  "as_of_local": "2026-11-07 23:42:57 UTC",
+  "as_of_utc": "2026-11-07T23:47:59+00:00",
+  "as_of_local": "2026-11-07 23:47:59 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "EQT"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1095,6 +1093,34 @@
           "url": "https://finance.yahoo.com/energy/articles/leu-q3-earnings-beat-estimates-135700756.html",
           "publisher": "Zacks",
           "published": "2026-11-06T13:57:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "EQT",
+      "name": "EQT Corp",
+      "price": 49.4,
+      "previous_close": 50.62,
+      "change_pct": -2.41,
+      "market_cap": 30902142697.712677,
+      "headlines": [
+        {
+          "title": "Do Wall Street Analysts Like EQT Corporation Stock?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-eqt-corporation-111402304.html",
+          "publisher": "Barchart",
+          "published": "2026-11-06T11:14:02Z"
+        },
+        {
+          "title": "Why Is Everyone Ignoring Expand Energy Stock's High Cash Yield?",
+          "url": "https://finance.yahoo.com/energy/articles/why-everyone-ignoring-expand-energy-000859092.html",
+          "publisher": "Trefis",
+          "published": "2026-11-06T00:08:59Z"
+        },
+        {
+          "title": "William Blair shakes up its top stock picks",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/william-blair-shakes-top-stock-162539821.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-02T16:25:39Z"
         }
       ]
     },
