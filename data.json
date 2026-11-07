@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-07T20:41:47+00:00",
-  "as_of_local": "2026-11-07 20:41:47 UTC",
+  "as_of_utc": "2026-11-07T20:56:50+00:00",
+  "as_of_local": "2026-11-07 20:56:50 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "RUN"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1681,34 +1683,6 @@
           "url": "https://finance.yahoo.com/energy/articles/uranium-energy-corp-secures-long-114830022.html",
           "publisher": "InvestorsHub",
           "published": "2026-11-05T11:48:30Z"
-        }
-      ]
-    },
-    {
-      "symbol": "RUN",
-      "name": "Sunrun",
-      "price": 9.98,
-      "previous_close": 9.87,
-      "change_pct": 1.11,
-      "market_cap": 2414767286.0191994,
-      "headlines": [
-        {
-          "title": "Why Sunrun Stock Surged 33.4% This Week",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-sunrun-stock-surged-33-191716689.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-07T19:17:16Z"
-        },
-        {
-          "title": "5 Best Small-Cap Value Stocks to Invest In Now",
-          "url": "https://finance.yahoo.com/small-business/articles/5-best-small-cap-value-161144840.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-11-06T16:11:44Z"
-        },
-        {
-          "title": "What Can Make Tesla Stock A Buy?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-buy-144148844.html",
-          "publisher": "Trefis",
-          "published": "2026-11-06T14:41:48Z"
         }
       ]
     },
