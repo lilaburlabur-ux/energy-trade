@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-07T16:30:06+00:00",
-  "as_of_local": "2026-11-07 16:30:06 UTC",
+  "as_of_utc": "2026-11-07T16:45:18+00:00",
+  "as_of_local": "2026-11-07 16:45:18 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "CVX"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -31,6 +29,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/5-9-billion-fund-betting-151343289.html",
           "publisher": "TIKR",
           "published": "2026-11-06T15:13:43Z"
+        }
+      ]
+    },
+    {
+      "symbol": "CVX",
+      "name": "Chevron",
+      "price": 212.61,
+      "previous_close": 212.93,
+      "change_pct": -0.15,
+      "market_cap": 414802111190.7959,
+      "headlines": [
+        {
+          "title": "3 Oil Stocks Trading At Least 43% Below Future Cash Flow Value",
+          "url": "https://finance.yahoo.com/energy/articles/3-oil-stocks-trading-least-091325867.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-07T09:13:25Z"
+        },
+        {
+          "title": "Chevron (CVX) Q3 Earnings Spotlight Strong Cash Flow And Flat Production",
+          "url": "https://finance.yahoo.com/energy/articles/chevron-cvx-q3-earnings-spotlight-001411385.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-07T00:14:11Z"
+        },
+        {
+          "title": "Compared to Estimates, Chevron (CVX) Q3 Earnings: A Look at Key Metrics",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/compared-estimates-chevron-cvx-q3-223002474.html",
+          "publisher": "Zacks",
+          "published": "2026-11-06T22:30:02Z"
         }
       ]
     },
@@ -127,6 +153,12 @@
       "market_cap": 182360754560.0799,
       "headlines": [
         {
+          "title": "3 Top Picks With At Least 2% Dividend Yield",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-top-picks-least-2-160951965.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-07T16:09:51Z"
+        },
+        {
           "title": "5 Best Stocks to Buy After Democrats\u2019 Midterm Election Victory",
           "url": "https://finance.yahoo.com/markets/stocks/articles/5-best-stocks-buy-democrats-135533261.html",
           "publisher": "Insider Monkey",
@@ -137,12 +169,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/just-happened-vistra-stock-124942088.html",
           "publisher": "Trefis",
           "published": "2026-11-07T12:49:42Z"
-        },
-        {
-          "title": "Duke Energy Q3 Earnings Call Highlights",
-          "url": "https://finance.yahoo.com/energy/articles/duke-energy-q3-earnings-call-031430724.html",
-          "publisher": "MarketBeat",
-          "published": "2026-11-07T03:14:30Z"
         }
       ]
     },
@@ -1904,8 +1930,8 @@
           "name": "Chevron Corp",
           "short": "Chevron",
           "weight_pct": 18.29,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": -0.15,
+          "price": 212.61,
           "currency": "USD"
         },
         {
@@ -2003,8 +2029,8 @@
         "name": "Chevron Corp",
         "short": "Chevron",
         "weight_pct": 18.29,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": -0.15,
+        "price": 212.61,
         "currency": "USD"
       },
       {
