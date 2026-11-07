@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-07T07:33:13+00:00",
-  "as_of_local": "2026-11-07 07:33:13 UTC",
+  "as_of_utc": "2026-11-07T07:48:05+00:00",
+  "as_of_local": "2026-11-07 07:48:05 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "PSX"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -399,6 +397,34 @@
       ]
     },
     {
+      "symbol": "PSX",
+      "name": "Phillips 66",
+      "price": 245.72,
+      "previous_close": 247.04,
+      "change_pct": -0.53,
+      "market_cap": 95848581266.80255,
+      "headlines": [
+        {
+          "title": "Is Phillips 66 Stock Worth Buying Despite Its Premium Valuation?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/phillips-66-stock-worth-buying-143300695.html",
+          "publisher": "Zacks",
+          "published": "2026-11-06T14:33:00Z"
+        },
+        {
+          "title": "State Street Energy SPDR (XLE) Sells $75.9 Million of Exxon on Nov. 4",
+          "url": "https://finance.yahoo.com/energy/articles/state-street-energy-spdr-xle-110525697.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-06T11:05:25Z"
+        },
+        {
+          "title": "Can MPC's Gulf Coast Focus Fuel Stronger Future Refining Returns?",
+          "url": "https://finance.yahoo.com/energy/articles/mpcs-gulf-coast-focus-fuel-163900782.html",
+          "publisher": "Zacks",
+          "published": "2026-11-05T16:39:00Z"
+        }
+      ]
+    },
+    {
       "symbol": "CEG",
       "name": "Constellation Energy",
       "price": 249.95,
@@ -544,7 +570,7 @@
       "price": 147.13,
       "previous_close": 144.89,
       "change_pct": 1.55,
-      "market_cap": 77173980226.05762,
+      "market_cap": 78365638219.62524,
       "headlines": [
         {
           "title": "EOG Resources (EOG) Q3 2026 Earnings Call Transcript",
@@ -1931,8 +1957,8 @@
           "name": "Phillips 66",
           "short": "Phillips",
           "weight_pct": 4.52,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": -0.53,
+          "price": 245.72,
           "currency": "USD"
         },
         {
@@ -2030,8 +2056,8 @@
         "name": "Phillips 66",
         "short": "Phillips",
         "weight_pct": 4.52,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": -0.53,
+        "price": 245.72,
         "currency": "USD"
       },
       {
