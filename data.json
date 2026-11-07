@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-07T05:37:39+00:00",
-  "as_of_local": "2026-11-07 05:37:39 UTC",
+  "as_of_utc": "2026-11-07T05:52:24+00:00",
+  "as_of_local": "2026-11-07 05:52:24 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "OXY"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -813,34 +815,6 @@
           "url": "https://finance.yahoo.com/energy/articles/mpc-q3-earnings-beat-estimates-162400083.html",
           "publisher": "Zacks",
           "published": "2026-11-04T16:24:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "OXY",
-      "name": "Occidental Petroleum",
-      "price": 56.38,
-      "previous_close": 56.36,
-      "change_pct": 0.04,
-      "market_cap": 56359556044.7079,
-      "headlines": [
-        {
-          "title": "Occidental Petroleum to Release Q3 Earnings: What's in the Cards?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/occidental-petroleum-release-q3-earnings-135700931.html",
-          "publisher": "Zacks",
-          "published": "2026-11-06T13:57:00Z"
-        },
-        {
-          "title": "Occidental Petroleum (OXY) Stock Moves -1.69%: What You Should Know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/occidental-petroleum-oxy-stock-moves-215002287.html",
-          "publisher": "Zacks",
-          "published": "2026-11-05T21:50:02Z"
-        },
-        {
-          "title": "What Analyst Projections for Key Metrics Reveal About Occidental (OXY) Q3 Earnings",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/analyst-projections-key-metrics-reveal-131511988.html",
-          "publisher": "Zacks",
-          "published": "2026-11-05T13:15:11Z"
         }
       ]
     },
