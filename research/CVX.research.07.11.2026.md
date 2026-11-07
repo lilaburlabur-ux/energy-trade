@@ -18,7 +18,7 @@ Signed file: `CVX.research.07.11.2026`
 | Technical momentum | Moderate | 1Y +44.76%; price +10.34% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -9.73% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 11.92%, revenue growth 34.80%. |
-| Value attractiveness | Reasonable | Forward P/E 13.00, EV/Sales 1.99. |
+| Value attractiveness | Reasonable | Forward P/E 13.00, EV/Sales 1.98. |
 | Risk level | Moderate | Beta 0.45, ATR 2.6% of price, short float 1.32%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -36,10 +36,10 @@ Chevron Corporation, through its subsidiaries, engages in the integrated energy 
 
 | Headline | Source | Date |
 |---|---|---|
+| Chevron (CVX) Q3 Earnings Spotlight Strong Cash Flow And Flat Production | Simply Wall St. | 2026-11-07 |
 | Compared to Estimates, Chevron (CVX) Q3 Earnings: A Look at Key Metrics | Zacks | 2026-11-06 |
 | $600,000 in Dividend Stocks: How a Roth IRA Could Save You $4,460 a Year | 24/7 Wall St. | 2026-11-06 |
 | Will Suncor's Refining Strength Continue to Drive Cash Flow? | Zacks | 2026-11-06 |
-| The Zacks Analyst Blog Highlights Berkshire Hathaway, Micron Technology, Chevron and Orbit International | Zacks | 2026-11-06 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ Chevron Corporation, through its subsidiaries, engages in the integrated energy 
 | Revenue (ttm) | $226.33B | Revenue growth 34.80% y/y |
 | Profitability | Gross 44.40%, operating 18.01%, net 11.92% | ROA —, ROE — |
 | Balance sheet | Cash $8.53B, debt $37.08B | Current ratio —, debt/equity 18.96 |
-| Valuation | P/E 15.61, forward P/E 13.00, P/S 1.83, P/B 2.20 | EV/Sales 1.99, EV/EBITDA 7.73 |
+| Valuation | P/E 15.61, forward P/E 13.00, P/S 1.83, P/B 2.20 | EV/Sales 1.98, EV/EBITDA 7.72 |
 | Growth expectations | Earnings growth 178.00%, EPS q/q 180.40% | Analyst mean target $241.67 (24 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -109,8 +109,8 @@ Chevron Corporation, through its subsidiaries, engages in the integrated energy 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $212.61 | EV/Sales | 1.99 |
-| Market cap | $414.80B | EV/EBITDA | 7.73 |
+| Price | $212.61 | EV/Sales | 1.98 |
+| Market cap | $414.80B | EV/EBITDA | 7.72 |
 | Beta | 0.45 | Gross margin | 44.40% |
 | RSI(14) | 40.6 | Operating margin | 18.01% |
 | ATR(14) | 5.43 | Profit margin | 11.92% |

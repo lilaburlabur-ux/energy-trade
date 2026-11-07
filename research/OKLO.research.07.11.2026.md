@@ -36,10 +36,10 @@ Oklo Inc. develops fission power plants to provide energy at scale to customers 
 
 | Headline | Source | Date |
 |---|---|---|
+| Oklo (OKLO) Q3 2026 Earnings Call Transcript | Motley Fool | 2026-11-07 |
 | Nuclear Reactor Firm Oklo Beats Earnings Expectations. That’s Not Why the Stock Is Up. | Barrons.com | 2026-11-06 |
 | OKLO Stock Rises After Q3 Earnings Beat | TipRanks | 2026-11-06 |
 | NuScale: We’re “Not Reliant on Data Centers” | TIKR | 2026-11-06 |
-| Why Oklo Stock Is Up 21.8% Today | Motley Fool | 2026-11-06 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ Oklo Inc. develops fission power plants to provide energy at scale to customers 
 | Revenue (ttm) | $1.21M | Revenue growth — y/y |
 | Profitability | Gross 40.41%, operating -6048.76%, net 0.00% | ROA -6.65%, ROE -7.70% |
 | Balance sheet | Cash $2.47B, debt $4.15M | Current ratio 48.46, debt/equity 0.13 |
-| Valuation | P/E —, forward P/E -22.13, P/S 3,620.43, P/B 2.56 | EV/Sales 917.79, EV/EBITDA -5.12 |
+| Valuation | P/E —, forward P/E -22.13, P/S 3,620.43, P/B 1.33 | EV/Sales 917.79, EV/EBITDA -5.12 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $65.25 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -126,7 +126,7 @@ Oklo Inc. develops fission power plants to provide energy at scale to customers 
 | Forward P/E | -22.13 | Short float | 21.92% |
 | PEG (trailing) | — | Avg volume | 9,992,220 |
 | P/S | 3,620.43 | Employees | 215 |
-| P/B | 2.56 | Analyst rec (1=buy..5=sell) | 2.1 |
+| P/B | 1.33 | Analyst rec (1=buy..5=sell) | 2.1 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

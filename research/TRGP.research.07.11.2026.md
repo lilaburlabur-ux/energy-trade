@@ -130,6 +130,7 @@ Targa Resources Corp., together with its subsidiaries, owns, operates, acquires,
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-11-07 | main | Jefferies | Buy → Buy |
 | 2026-11-06 | main | Citigroup | Buy → Buy |
 | 2026-10-21 | main | BMO Capital | Outperform → Outperform |
 | 2026-10-13 | main | Citigroup | Buy → Buy |
@@ -137,7 +138,6 @@ Targa Resources Corp., together with its subsidiaries, owns, operates, acquires,
 | 2026-09-21 | reit | Truist Securities | Buy → Buy |
 | 2026-09-18 | up | TD Cowen | Hold → Buy |
 | 2026-09-16 | main | Morgan Stanley | Overweight → Overweight |
-| 2026-09-11 | main | Mizuho | Outperform → Outperform |
 
 ## 9. Conclusion
 TRGP: High momentum / mixed fundamentals / fair-to-demanding value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

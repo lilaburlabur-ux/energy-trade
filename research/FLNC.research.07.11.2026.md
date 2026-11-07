@@ -36,10 +36,10 @@ Fluence Energy, Inc., through its subsidiaries, provides energy storage and opti
 
 | Headline | Source | Date |
 |---|---|---|
+| Fluence Energy (FLNC) Replaces Top Executives And Adds Board Manufacturing Oversight | Simply Wall St. | 2026-11-07 |
 | Top clean energy stocks to watch as Democratic sweep improves outlook | Investing.com | 2026-11-04 |
 | Fluence Energy names interim CEO, CFO amid supply chain hiccups | CFO Dive | 2026-11-03 |
 | Enlight Renewable Energy Ltd. (ENLT) Q3 Earnings and Revenues Top Estimates | Zacks | 2026-11-03 |
-| Fluence Energy Stock Drops on Leadership Overhaul | Barrons.com | 2026-11-02 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

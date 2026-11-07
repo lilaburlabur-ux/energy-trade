@@ -36,10 +36,10 @@ Devon Energy Corporation, an independent energy company, engages in the explorat
 
 | Headline | Source | Date |
 |---|---|---|
+| Devon Energy (DVN) Q3 2026 Earnings Call Transcript | Motley Fool | 2026-11-07 |
 | Devon Energy (DVN) Reports Q3 Earnings: What Key Metrics Have to Say | Zacks | 2026-11-06 |
 | 5 Activist Target Stocks with High Cash and Low Valuation | Insider Monkey | 2026-11-06 |
 | Sector Update: Energy Stocks Lower Late Afternoon | MT Newswires | 2026-11-06 |
-| Sector Update: Energy Stocks Higher Friday Afternoon | MT Newswires | 2026-11-06 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

@@ -18,7 +18,7 @@ Signed file: `D.research.07.11.2026`
 | Technical momentum | Moderate | 1Y +19.84%; price +6.95% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -3.34% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 13.99%, revenue growth 24.10%. |
-| Value attractiveness | Reasonable | Forward P/E 17.96, EV/Sales 6.37. |
+| Value attractiveness | Reasonable | Forward P/E 17.97, EV/Sales 6.32. |
 | Risk level | Moderate | Beta 0.59, ATR 2.1% of price, short float 2.72%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -68,7 +68,7 @@ Dominion Energy, Inc. provides regulated electricity and natural gas services in
 | Revenue (ttm) | $19.21B | Revenue growth 24.10% y/y |
 | Profitability | Gross 46.51%, operating 35.07%, net 13.99% | ROA 3.17%, ROE 8.82% |
 | Balance sheet | Cash $435.00M, debt $55.60B | Current ratio 0.88, debt/equity 161.56 |
-| Valuation | P/E 22.64, forward P/E 17.96, P/S 3.14, P/B 2.11 | EV/Sales 6.37, EV/EBITDA 13.77 |
+| Valuation | P/E 22.64, forward P/E 17.97, P/S 3.14, P/B 2.11 | EV/Sales 6.32, EV/EBITDA 13.67 |
 | Growth expectations | Earnings growth 12.00%, EPS q/q 15.30% | Analyst mean target $70.17 (12 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -110,8 +110,8 @@ Dominion Energy, Inc. provides regulated electricity and natural gas services in
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $68.60 | EV/Sales | 6.37 |
-| Market cap | $60.34B | EV/EBITDA | 13.77 |
+| Price | $68.60 | EV/Sales | 6.32 |
+| Market cap | $60.34B | EV/EBITDA | 13.67 |
 | Beta | 0.59 | Gross margin | 46.51% |
 | RSI(14) | 64.9 | Operating margin | 35.07% |
 | ATR(14) | 1.46 | Profit margin | 13.99% |
@@ -121,7 +121,7 @@ Dominion Energy, Inc. provides regulated electricity and natural gas services in
 | 52W high | $70.97 | Revenue growth y/y | 24.10% |
 | 52W low | $55.36 | Inst. ownership | 83.99% |
 | P/E (ttm) | 22.64 | Insider ownership | 0.14% |
-| Forward P/E | 17.96 | Short float | 2.72% |
+| Forward P/E | 17.97 | Short float | 2.72% |
 | PEG (trailing) | 2.71 | Avg volume | 4,482,454 |
 | P/S | 3.14 | Employees | 15,200 |
 | P/B | 2.11 | Analyst rec (1=buy..5=sell) | 2.5 |

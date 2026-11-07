@@ -47,7 +47,7 @@ Nextpower Inc. provides solar and energy technology solutions for utility-scale 
 | Price vs 52-week range | Close $104.90; 52w high $156.40 (-32.93%); 52w low $76.48 (+37.17%) |
 | Trend | -1.85% vs SMA200, +25.29% vs SMA50, +22.54% vs SMA20 |
 | Momentum | RSI(14) 67.2 (neutral) |
-| Volatility | ATR(14) 6.75 (~6.4% of price); beta 1.93 |
+| Volatility | ATR(14) 6.76 (~6.4% of price); beta 1.93 |
 | Setup perspective | -32.93% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
@@ -116,7 +116,7 @@ Nextpower Inc. provides solar and energy technology solutions for utility-scale 
 | Market cap | $16.00B | EV/EBITDA | 19.60 |
 | Beta | 1.93 | Gross margin | 21.84% |
 | RSI(14) | 67.2 | Operating margin | 20.05% |
-| ATR(14) | 6.75 | Profit margin | 15.98% |
+| ATR(14) | 6.76 | Profit margin | 15.98% |
 | SMA20 dist | +22.54% | ROA | 10.75% |
 | SMA50 dist | +25.29% | ROE | 26.46% |
 | SMA200 dist | -1.85% | Revenue (ttm) | $3.83B |

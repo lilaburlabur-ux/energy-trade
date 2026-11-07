@@ -18,7 +18,7 @@ Signed file: `BKR.research.07.11.2026`
 | Technical momentum | Low | Below SMA200 (-20.14%) with negative half-year (-24.80%). |
 | Fresh setup quality | Poor / broken | -30.81% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 10.08%, revenue growth 14.50%. |
-| Value attractiveness | Reasonable | Forward P/E 16.77, EV/Sales 2.06. |
+| Value attractiveness | Reasonable | Forward P/E 16.77, EV/Sales 2.12. |
 | Risk level | Elevated | Beta 1.06, ATR 4.5% of price, short float 2.87%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
@@ -68,7 +68,7 @@ Baker Hughes Company provides a portfolio of technologies and services to energy
 | Revenue (ttm) | $28.74B | Revenue growth 14.50% y/y |
 | Profitability | Gross 23.70%, operating 11.29%, net 10.08% | ROA 4.46%, ROE 15.06% |
 | Balance sheet | Cash $5.38B, debt $18.26B | Current ratio 1.24, debt/equity 88.83 |
-| Valuation | P/E 16.45, forward P/E 16.77, P/S 1.65, P/B 2.36 | EV/Sales 2.06, EV/EBITDA 11.79 |
+| Valuation | P/E 16.45, forward P/E 16.77, P/S 1.65, P/B 2.36 | EV/Sales 2.12, EV/EBITDA 12.12 |
 | Growth expectations | Earnings growth -32.80%, EPS q/q -32.50% | Analyst mean target $70.12 (24 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -111,8 +111,8 @@ Baker Hughes Company provides a portfolio of technologies and services to energy
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $47.87 | EV/Sales | 2.06 |
-| Market cap | $47.54B | EV/EBITDA | 11.79 |
+| Price | $47.87 | EV/Sales | 2.12 |
+| Market cap | $47.54B | EV/EBITDA | 12.12 |
 | Beta | 1.06 | Gross margin | 23.70% |
 | RSI(14) | 33.1 | Operating margin | 11.29% |
 | ATR(14) | 2.18 | Profit margin | 10.08% |

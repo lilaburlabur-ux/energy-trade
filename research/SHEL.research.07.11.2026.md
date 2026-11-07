@@ -18,7 +18,7 @@ Signed file: `SHEL.research.07.11.2026`
 | Technical momentum | Moderate | 1Y +37.75%; price +12.42% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -8.83% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 10.18%, revenue growth 36.20%. |
-| Value attractiveness | Reasonable | Forward P/E 9.21, EV/Sales 1.02. |
+| Value attractiveness | Reasonable | Forward P/E 9.21, EV/Sales 1.01. |
 | Risk level | Moderate | Beta -0.25, ATR 2.2% of price, short float 1.22%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -68,7 +68,7 @@ Shell plc operates as an energy and petrochemical company in Europe, Asia, Ocean
 | Revenue (ttm) | $321.29B | Revenue growth 36.20% y/y |
 | Profitability | Gross 26.93%, operating 18.76%, net 10.18% | ROA 7.67%, ROE 17.43% |
 | Balance sheet | Cash $36.42B, debt $76.07B | Current ratio 1.38, debt/equity 38.13 |
-| Valuation | P/E 8.60, forward P/E 9.21, P/S 0.87, P/B 1.43 | EV/Sales 1.02, EV/EBITDA 4.85 |
+| Valuation | P/E 8.60, forward P/E 9.21, P/S 0.87, P/B 1.43 | EV/Sales 1.01, EV/EBITDA 4.80 |
 | Growth expectations | Earnings growth 136.70%, EPS q/q 126.60% | Analyst mean target $110.55 (15 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -109,8 +109,8 @@ Shell plc operates as an energy and petrochemical company in Europe, Asia, Ocean
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $99.09 | EV/Sales | 1.02 |
-| Market cap | $280.78B | EV/EBITDA | 4.85 |
+| Price | $99.09 | EV/Sales | 1.01 |
+| Market cap | $280.78B | EV/EBITDA | 4.80 |
 | Beta | -0.25 | Gross margin | 26.93% |
 | RSI(14) | 41.2 | Operating margin | 18.76% |
 | ATR(14) | 2.15 | Profit margin | 10.18% |

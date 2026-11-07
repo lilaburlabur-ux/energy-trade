@@ -18,7 +18,7 @@ Signed file: `TTE.research.07.11.2026`
 | Technical momentum | Moderate | 1Y +49.51%; price +3.49% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -7.88% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 10.46%, revenue growth 41.10%. |
-| Value attractiveness | Reasonable | Forward P/E 7.40, EV/Sales 1.05. |
+| Value attractiveness | Reasonable | Forward P/E 7.40, EV/Sales 1.04. |
 | Risk level | Moderate | Beta 0.04, ATR 2.3% of price, short float 0.22%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -68,7 +68,7 @@ TotalEnergies SE, an integrated energy company, produces and markets oil and bio
 | Revenue (ttm) | $214.40B | Revenue growth 41.10% y/y |
 | Profitability | Gross 39.18%, operating 24.51%, net 10.46% | ROA 7.19%, ROE 17.83% |
 | Balance sheet | Cash $37.80B, debt $63.17B | Current ratio 1.11, debt/equity 46.12 |
-| Valuation | P/E 8.76, forward P/E 7.40, P/S 0.90, P/B 1.46 | EV/Sales 1.05, EV/EBITDA 4.64 |
+| Valuation | P/E 8.76, forward P/E 7.40, P/S 0.90, P/B 1.46 | EV/Sales 1.04, EV/EBITDA 4.60 |
 | Growth expectations | Earnings growth 123.20%, EPS q/q 124.40% | Analyst mean target $100.65 (10 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -110,8 +110,8 @@ TotalEnergies SE, an integrated energy company, produces and markets oil and bio
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $87.82 | EV/Sales | 1.05 |
-| Market cap | $192.81B | EV/EBITDA | 4.64 |
+| Price | $87.82 | EV/Sales | 1.04 |
+| Market cap | $192.81B | EV/EBITDA | 4.60 |
 | Beta | 0.04 | Gross margin | 39.18% |
 | RSI(14) | 41.8 | Operating margin | 24.51% |
 | ATR(14) | 2.00 | Profit margin | 10.46% |

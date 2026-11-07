@@ -36,10 +36,10 @@ SLB N.V. engages in the provision of technology for the energy industry worldwid
 
 | Headline | Source | Date |
 |---|---|---|
+| Why Is SLB (SLB) Pairing A Norway Contract With New Production Chemistry? | Simply Wall St. | 2026-11-07 |
 | Why Is Baker Hughes Stock Falling? | Trefis | 2026-11-06 |
 | Wall Street Bulls Look Optimistic About SLB (SLB): Should You Buy? | Zacks | 2026-11-06 |
 | SLB: 3 Key Takeaways for Long-Term Investors | Motley Fool | 2026-11-05 |
-| What Vanguard U.S. Momentum Factor ETF (VFMO) Sold: Vertiv Leads on Oct. 30 | GuruFocus.com | 2026-11-03 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

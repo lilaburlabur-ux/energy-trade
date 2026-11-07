@@ -11,14 +11,14 @@
 | COP | $163.71B | +60% | 12.5 | 14% | High | Reasonable | Elevated |
 | EQNR | $99.39B | +85% | 8.5 | 10% | High | Reasonable | Elevated |
 | SU | $79.14B | +70% | 9.9 | 18% | High | Reasonable | Elevated |
-| EOG | $77.17B | +44% | 9.0 | 28% | Moderate | Reasonable | Elevated |
+| EOG | $78.37B | +44% | 9.0 | 28% | Moderate | Reasonable | Elevated |
 | FANG | $49.96B | +33% | 8.2 | 12% | Low | Reasonable | Elevated |
 | DVN | $46.43B | +34% | 7.8 | 17% | Low | Reasonable | Elevated |
 | OXY | $56.36B | +45% | 11.2 | 30% | Moderate | Reasonable | Elevated |
 | APA | $15.17B | +112% | 8.3 | 23% | High | Reasonable | Elevated |
 | EQT | $30.90B | -11% | 14.1 | 29% | Low | Reasonable | Elevated |
 | AR | $11.08B | +10% | 7.9 | 23% | Moderate | Reasonable | Elevated |
-| PR | $18.24B | +86% | 8.7 | 25% | High | Reasonable | Elevated |
+| PR | $18.24B | +86% | 8.9 | 25% | High | Reasonable | Elevated |
 | OVV | $16.26B | +69% | 6.9 | 13% | High | Reasonable | Elevated |
 | SLB | $73.68B | +40% | 16.2 | 8% | Low | Reasonable | Elevated |
 | HAL | $26.34B | +20% | 10.8 | 9% | Low | Reasonable | Elevated |
@@ -43,7 +43,7 @@
 | OKLO | $4.38B | -81% | -22.1 | 0% | Low | Reasonable | High |
 | SMR | $2.08B | -87% | -8.2 | 0% | Low | Reasonable | High |
 | LEU | $2.14B | -68% | 23.6 | 17% | Low | Fair-to-demanding | High |
-| NXE | $5.53B | -6% | -65.3 | 0% | Low | Reasonable | High |
+| NXE | $5.46B | -6% | -65.3 | 0% | Low | Reasonable | High |
 | UEC | $3.43B | -47% | -93.5 | 0% | Low | Reasonable | High |
 | UUUU | $1.76B | -59% | 13.7 | -100% | Low | Reasonable | High |
 | BWXT | $10.95B | -39% | 23.1 | 10% | Low | Fair-to-demanding | High |
@@ -51,7 +51,7 @@
 | ENPH | $3.77B | -12% | 19.9 | 7% | Low | Reasonable | High |
 | NEE | $182.36B | +9% | 19.9 | 40% | Moderate | Reasonable | Moderate |
 | RUN | $2.41B | -52% | 21.5 | 14% | Low | Fair-to-demanding | High |
-| SEDG | $1.70B | -33% | 38.7 | -17% | Low | Low (expensive) | High |
+| SEDG | $1.70B | -33% | 34.4 | -17% | Low | Fair-to-demanding | High |
 | NXT | $16.00B | -6% | 18.2 | 16% | Low | Reasonable | High |
 | ARRY | $903.25M | -30% | 6.5 | -10% | Low | Reasonable | High |
 | BEP | $21.29B | +6% | -15.6 | -4% | Low | Reasonable | Moderate |
@@ -61,7 +61,7 @@
 | PWR | $81.50B | +19% | 25.0 | 5% | Low | Fair-to-demanding | High |
 | FLNC | $1.03B | -75% | -9.9 | -3% | Low | Reasonable | High |
 | BE | $51.20B | +23% | 32.5 | 14% | Low | Fair-to-demanding | High |
-| EOSE | $629.34M | -88% | -10.0 | -247% | Low | Reasonable | High |
+| EOSE | $633.65M | -88% | -10.0 | -247% | Low | Reasonable | High |
 | HUBB | $22.69B | -7% | 18.6 | 14% | Low | Reasonable | Elevated |
 | VST | $41.89B | -34% | 13.1 | 12% | Low | Reasonable | High |
 | NRG | $18.56B | -48% | 8.3 | 3% | Low | Reasonable | High |

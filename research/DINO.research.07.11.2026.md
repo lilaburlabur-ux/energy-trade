@@ -47,7 +47,7 @@ HF Sinclair Corporation operates as an independent energy company in the United 
 | Price vs 52-week range | Close $97.18; 52w high $128.23 (-24.21%); 52w low $44.83 (+116.78%) |
 | Trend | +22.54% vs SMA200, -13.83% vs SMA50, -17.33% vs SMA20 |
 | Momentum | RSI(14) 29.5 (oversold) |
-| Volatility | ATR(14) 5.75 (~5.9% of price); beta 0.71 |
+| Volatility | ATR(14) 5.74 (~5.9% of price); beta 0.71 |
 | Setup perspective | -24.21% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
@@ -114,7 +114,7 @@ HF Sinclair Corporation operates as an independent energy company in the United 
 | Market cap | $16.65B | EV/EBITDA | 3.09 |
 | Beta | 0.71 | Gross margin | 18.01% |
 | RSI(14) | 29.5 | Operating margin | 25.13% |
-| ATR(14) | 5.75 | Profit margin | 10.12% |
+| ATR(14) | 5.74 | Profit margin | 10.12% |
 | SMA20 dist | -17.33% | ROA | 15.77% |
 | SMA50 dist | -13.83% | ROE | 33.21% |
 | SMA200 dist | +22.54% | Revenue (ttm) | $34.83B |

@@ -8,7 +8,7 @@ Signed file: `SEDG.research.07.11.2026`
 | Market cap | $1.70B |
 | Sector / Industry | Technology / Solar |
 | Main theme | Solar — see catalysts below |
-| Current stance | Low technical momentum, weak fundamentals, value: low (expensive), risk: high. |
+| Current stance | Low technical momentum, weak fundamentals, value: fair-to-demanding, risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-07.
 
@@ -18,10 +18,10 @@ Signed file: `SEDG.research.07.11.2026`
 | Technical momentum | Low | Below SMA200 (-34.81%) with negative half-year (-33.39%). |
 | Fresh setup quality | Poor / broken | -64.96% from 52w high — base needs to rebuild. |
 | Fundamental quality | Weak | Negative profit margin (-17.34%). |
-| Value attractiveness | Low (expensive) | Forward P/E 38.69, EV/Sales 1.11. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 34.45, EV/Sales 1.17. |
 | Risk level | High | Beta 1.30, ATR 9.4% of price, short float 20.54%. |
 
-**Bottom line:** Low technical momentum, weak fundamentals, value: low (expensive), risk: high.
+**Bottom line:** Low technical momentum, weak fundamentals, value: fair-to-demanding, risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -68,7 +68,7 @@ SolarEdge Technologies, Inc., together with its subsidiaries, operates as an ene
 | Revenue (ttm) | $1.32B | Revenue growth -4.10% y/y |
 | Profitability | Gross 25.25%, operating -11.62%, net -17.34% | ROA -1.93%, ROE -50.64% |
 | Balance sheet | Cash $555.08M, debt $391.86M | Current ratio 2.12, debt/equity 92.59 |
-| Valuation | P/E —, forward P/E 38.69, P/S 1.29, P/B 4.02 | EV/Sales 1.11, EV/EBITDA -32.23 |
+| Valuation | P/E —, forward P/E 34.45, P/S 1.29, P/B 4.02 | EV/Sales 1.17, EV/EBITDA -34.01 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $36.16 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ SolarEdge Technologies, Inc., together with its subsidiaries, operates as an ene
 | Legal & General Group PLC | 1,302,103 | 2.12% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 38.69, EV/Sales 1.11. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 34.45, EV/Sales 1.17. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 1.30, ATR 9.4% of price, short float 20.54%. Size positions accordingly.
 - **Short interest risk:** short float 20.54% can fuel squeezes both ways around news.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
@@ -114,8 +114,8 @@ SolarEdge Technologies, Inc., together with its subsidiaries, operates as an ene
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $27.51 | EV/Sales | 1.11 |
-| Market cap | $1.70B | EV/EBITDA | -32.23 |
+| Price | $27.51 | EV/Sales | 1.17 |
+| Market cap | $1.70B | EV/EBITDA | -34.01 |
 | Beta | 1.30 | Gross margin | 25.25% |
 | RSI(14) | 39.4 | Operating margin | -11.62% |
 | ATR(14) | 2.58 | Profit margin | -17.34% |
@@ -125,7 +125,7 @@ SolarEdge Technologies, Inc., together with its subsidiaries, operates as an ene
 | 52W high | $78.51 | Revenue growth y/y | -4.10% |
 | 52W low | $26.20 | Inst. ownership | 99.69% |
 | P/E (ttm) | — | Insider ownership | 1.11% |
-| Forward P/E | 38.69 | Short float | 20.54% |
+| Forward P/E | 34.45 | Short float | 20.54% |
 | PEG (trailing) | — | Avg volume | 3,056,793 |
 | P/S | 1.29 | Employees | 3,576 |
 | P/B | 4.02 | Analyst rec (1=buy..5=sell) | 3.1 |
@@ -143,7 +143,7 @@ SolarEdge Technologies, Inc., together with its subsidiaries, operates as an ene
 | 2026-10-14 | main | Susquehanna | Neutral → Neutral |
 
 ## 9. Conclusion
-SEDG: Low momentum / weak fundamentals / low (expensive) value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+SEDG: Low momentum / weak fundamentals / fair-to-demanding value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |
