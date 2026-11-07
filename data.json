@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-07T07:17:59+00:00",
-  "as_of_local": "2026-11-07 07:17:59 UTC",
+  "as_of_utc": "2026-11-07T07:33:13+00:00",
+  "as_of_local": "2026-11-07 07:33:13 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "PSX"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -393,34 +395,6 @@
           "url": "https://finance.yahoo.com/energy/articles/3-refining-stocks-watch-cheaper-032523819.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-06T03:25:23Z"
-        }
-      ]
-    },
-    {
-      "symbol": "PSX",
-      "name": "Phillips 66",
-      "price": 245.72,
-      "previous_close": 247.04,
-      "change_pct": -0.53,
-      "market_cap": 95848581266.80255,
-      "headlines": [
-        {
-          "title": "Is Phillips 66 Stock Worth Buying Despite Its Premium Valuation?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/phillips-66-stock-worth-buying-143300695.html",
-          "publisher": "Zacks",
-          "published": "2026-11-06T14:33:00Z"
-        },
-        {
-          "title": "State Street Energy SPDR (XLE) Sells $75.9 Million of Exxon on Nov. 4",
-          "url": "https://finance.yahoo.com/energy/articles/state-street-energy-spdr-xle-110525697.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-06T11:05:25Z"
-        },
-        {
-          "title": "Can MPC's Gulf Coast Focus Fuel Stronger Future Refining Returns?",
-          "url": "https://finance.yahoo.com/energy/articles/mpcs-gulf-coast-focus-fuel-163900782.html",
-          "publisher": "Zacks",
-          "published": "2026-11-05T16:39:00Z"
         }
       ]
     },
@@ -1861,6 +1835,12 @@
       "market_cap": 754472106.0293713,
       "headlines": [
         {
+          "title": "Is Fluence Energy (FLNC) A Bargain After Its Leadership Reset?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/fluence-energy-flnc-bargain-leadership-070952651.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-07T07:09:52Z"
+        },
+        {
           "title": "Fluence Energy (FLNC) Stock May Be 27% Undervalued Following Storage Market Growth News",
           "url": "https://finance.yahoo.com/markets/stocks/articles/fluence-energy-flnc-stock-may-011218282.html",
           "publisher": "Simply Wall St.",
@@ -1871,12 +1851,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/fluence-energy-flnc-replaces-top-001110057.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-07T00:11:10Z"
-        },
-        {
-          "title": "Top clean energy stocks to watch as Democratic sweep improves outlook",
-          "url": "https://finance.yahoo.com/energy/articles/top-clean-energy-stocks-watch-125922163.html",
-          "publisher": "Investing.com",
-          "published": "2026-11-04T12:59:22Z"
         }
       ]
     },
@@ -1957,8 +1931,8 @@
           "name": "Phillips 66",
           "short": "Phillips",
           "weight_pct": 4.52,
-          "change_pct": -0.53,
-          "price": 245.72,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -2056,8 +2030,8 @@
         "name": "Phillips 66",
         "short": "Phillips",
         "weight_pct": 4.52,
-        "change_pct": -0.53,
-        "price": 245.72,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
