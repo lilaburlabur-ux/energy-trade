@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-07T17:00:20+00:00",
-  "as_of_local": "2026-11-07 17:00:20 UTC",
+  "as_of_utc": "2026-11-07T17:05:22+00:00",
+  "as_of_local": "2026-11-07 17:05:22 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "ETR"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -875,6 +873,34 @@
       ]
     },
     {
+      "symbol": "ETR",
+      "name": "Entergy",
+      "price": 110.55,
+      "previous_close": 110.3,
+      "change_pct": 0.23,
+      "market_cap": 52823789684.76265,
+      "headlines": [
+        {
+          "title": "Entergy Arkansas (EAI) Q3 2026 Earnings Call Transcript",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/entergy-arkansas-eai-q3-2026-233020138.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-06T23:30:20Z"
+        },
+        {
+          "title": "Consolidated Edison Q3 Earnings Lag Estimates, Revenues Rise Y/Y",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/consolidated-edison-q3-earnings-lag-130900521.html",
+          "publisher": "Zacks",
+          "published": "2026-11-06T13:09:00Z"
+        },
+        {
+          "title": "Ameren Q3 Earnings Surpass Estimates, Revenues Increase Y/Y",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ameren-q3-earnings-surpass-estimates-130600436.html",
+          "publisher": "Zacks",
+          "published": "2026-11-06T13:06:00Z"
+        }
+      ]
+    },
+    {
       "symbol": "BE",
       "name": "Bloom Energy",
       "price": 173.24,
@@ -1561,16 +1587,16 @@
           "published": "2026-11-05T17:45:00Z"
         },
         {
-          "title": "NuScale Power Advances SMR Manufacturing With Doosan Deal",
-          "url": "https://finance.yahoo.com/energy/articles/nuscale-power-advances-smr-manufacturing-163500821.html",
-          "publisher": "Zacks",
-          "published": "2026-11-02T16:35:00Z"
-        },
-        {
           "title": "What Is Behind The Move In Cameco Stock?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/behind-move-cameco-stock-012341659.html",
           "publisher": "Trefis",
           "published": "2026-11-02T01:23:41Z"
+        },
+        {
+          "title": "Azincourt Energy Advances Labrador Uranium Exploration With New Snegamook Drilling Results",
+          "url": "https://finance.yahoo.com/energy/articles/azincourt-energy-advances-labrador-uranium-213911390.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-10-26T21:39:11Z"
         }
       ]
     },
