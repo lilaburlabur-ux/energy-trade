@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-06T23:56:14+00:00",
+  "as_of": "2026-11-07T00:40:07+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,8 +11,8 @@
    "rank": 1,
    "ticker": "LEU",
    "company": "Centrus Energy Corp.",
-   "move_pct": 17.86,
-   "price": 104.93,
+   "move_pct": 16.59,
+   "price": 103.8,
    "volume": 1318617,
    "volume_vs_avg": "~2x",
    "heat_score": 85,
@@ -25,22 +25,6 @@
   },
   {
    "rank": 2,
-   "ticker": "VST",
-   "company": "Vistra Corp.",
-   "move_pct": 11.27,
-   "price": 125.61,
-   "volume": 12501439,
-   "volume_vs_avg": "~2x",
-   "heat_score": 72,
-   "direction": "up",
-   "why": "Vistra Corp. Q3 2026 Earnings Call Summary",
-   "catalyst_type": "earnings",
-   "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbDROVjBBTHhBS3pkWVk4YTl3U2lEYXFhWmNQbTFsQWE5b0VfUk92X2EzVVd1MkYwSkRLcV9ELUhTTlRXVXo0S0UwaTRHdnRpUTNZdkxudDk0cHpFUXdhdWJlRk9NQUJrLWZfNkVySUVFQmNWbEd4M21qcFVRWDhfZnpWOUM0ckNpYlZDWnZ3?oc=5",
-   "published": "2026-11-06T22:05:01+00:00",
-   "sector": "Power & IPPs"
-  },
-  {
-   "rank": 3,
    "ticker": "NRG",
    "company": "NRG Energy, Inc.",
    "move_pct": 9.87,
@@ -56,7 +40,7 @@
    "sector": "Power & IPPs"
   },
   {
-   "rank": 4,
+   "rank": 3,
    "ticker": "PWR",
    "company": "Quanta Services, Inc.",
    "move_pct": 6.55,
@@ -70,6 +54,22 @@
    "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeWJuaDZEMU13TlB5bUM2VFdtRUxaSkh5dDk3V2lEclhiLXV2VDdwdlZnUWxDbkNRNVVqNTVNMVcwVEFhZjUtZ3F3ZnJCczlIVDZTdVcwX3VCRzVBM05EMGJleHp5QVNMRW5wVldZdm83Tzd6cU5JektRVmQ0RHlTT1dxSFJmTEMwc0NERER1QlhFYUZyN1ZPdWI5TDk5d0Y3LWZBQkFscFNwUDI1N3VPNGRzRWhLRkd2aklkYUhjNDNRWjMxa2FydjhlTQ?oc=5",
    "published": "2026-11-06T21:30:00+00:00",
    "sector": "Grid, Storage & Electrification"
+  },
+  {
+   "rank": 4,
+   "ticker": "TLN",
+   "company": "Talen Energy Corporation",
+   "move_pct": 6.89,
+   "price": 338.0,
+   "volume": 1265387,
+   "volume_vs_avg": "~1.0x",
+   "heat_score": 44,
+   "direction": "up",
+   "why": "Talen Energy (TLN) Expands Buybacks And Guidance, Is The Stock A Bargain?",
+   "catalyst_type": "earnings",
+   "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeVF1dzVvdEJjaVZhVWRmVVN3Z1h5RUh4S2hlRmdKX0dTUEVMVDl0LUlmVzNaXzdkYTFRbkR6c1Q3WHRrNzVXbGhSUU5yRWE4NmtLVlBLclNQU0tBcDJUSkVPYUI3VXFPV2dac0UtV2JTYkZkdy11TGRuUmhPNl94UTYtRHRoaC11dEhNcXduVlN1YWpkZktmdUZXYVFTeXYtdDZKWUNENTN1ekxaTXh2U3g5RmxESzgzMFpnTC1Rek9JZHRLdEJfYnFn0gHPAUFVX3lxTFBvZkp4TUlYRkJ5STZHcktoc0NSWkJlN3dnUDNHWG1Ma0Mxdlc4U3pZNU5DYWVBcnR6ZjVXMmxtMXNoUjBOUlI1bnB2S3NQOFVNLWdrY1JTOFdWWEpkRVpHOEl3SUVDc2tFYjBmRjVxczR5c09NanRJbms1NkRBOUoySGsxaXZwOUY0MWU3RWMwaWVYQ1RERUhlSHRaTkYxblM2WDVQUWwxekhtSHZyTHplMUFuRWZDbElKWmFVTnctMC1ZQWgxUVNZbl9VUE94VQ?oc=5",
+   "published": "2026-11-06T23:49:45+00:00",
+   "sector": "Power & IPPs"
   }
  ]
 }
