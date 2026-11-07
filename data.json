@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-07T08:23:32+00:00",
-  "as_of_local": "2026-11-07 08:23:32 UTC",
+  "as_of_utc": "2026-11-07T08:38:30+00:00",
+  "as_of_local": "2026-11-07 08:38:30 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "FSLR"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1205,34 +1207,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/behind-move-eaton-stock-141913569.html",
           "publisher": "Trefis",
           "published": "2026-11-06T14:19:13Z"
-        }
-      ]
-    },
-    {
-      "symbol": "FSLR",
-      "name": "First Solar",
-      "price": 201.14,
-      "previous_close": 195.76,
-      "change_pct": 2.75,
-      "market_cap": 21618758646.53871,
-      "headlines": [
-        {
-          "title": "Micron Stock Is the Cheapest Right Now -- Here's Why",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-cheapest-now-heres-191642844.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-06T19:16:42Z"
-        },
-        {
-          "title": "Where Trump and the Dems Can Meet in the Middle",
-          "url": "https://www.barrons.com/articles/trump-democrats-gridlock-compromise-markets-ba8d36d1?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-11-06T18:44:00Z"
-        },
-        {
-          "title": "First Solar, Inc. (FSLR) is Attracting Investor Attention: Here is What You Should Know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/first-solar-inc-fslr-attracting-130004912.html",
-          "publisher": "Zacks",
-          "published": "2026-11-06T13:00:04Z"
         }
       ]
     },
