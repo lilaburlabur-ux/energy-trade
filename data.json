@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-07T11:16:51+00:00",
-  "as_of_local": "2026-11-07 11:16:51 UTC",
+  "as_of_utc": "2026-11-07T11:31:45+00:00",
+  "as_of_local": "2026-11-07 11:31:45 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "EOG"
+    "NOV"
   ],
   "stocks": [
     {
@@ -563,6 +563,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/stantec-heads-3-canadian-undervalued-032245754.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-06T03:22:45Z"
+        }
+      ]
+    },
+    {
+      "symbol": "EOG",
+      "name": "EOG Resources",
+      "price": 147.13,
+      "previous_close": 144.89,
+      "change_pct": 1.55,
+      "market_cap": 77173980226.05762,
+      "headlines": [
+        {
+          "title": "EOG Resources Inc (EOG) (Q3 2026) Earnings Call Highlights: Record Production, Dividend Hike ...",
+          "url": "https://finance.yahoo.com/energy/articles/eog-resources-inc-eog-q3-091327755.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-07T09:13:27Z"
+        },
+        {
+          "title": "EOG Resources (EOG) Q3 2026 Earnings Call Transcript",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/eog-resources-eog-q3-2026-193241089.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-06T19:32:41Z"
+        },
+        {
+          "title": "EOG Q3 Earnings Beat Estimates on Record Production, Strong Pricing",
+          "url": "https://finance.yahoo.com/energy/articles/eog-q3-earnings-beat-estimates-173400832.html",
+          "publisher": "Zacks",
+          "published": "2026-11-06T17:34:00Z"
         }
       ]
     },
@@ -1491,34 +1519,6 @@
       ]
     },
     {
-      "symbol": "NOV",
-      "name": "NOV Inc",
-      "price": 17.56,
-      "previous_close": 17.39,
-      "change_pct": 0.98,
-      "market_cap": 6260359151.561789,
-      "headlines": [
-        {
-          "title": "Why Is Baker Hughes Stock Falling?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-baker-hughes-stock-falling-141921435.html",
-          "publisher": "Trefis",
-          "published": "2026-11-06T14:19:21Z"
-        },
-        {
-          "title": "CRGY Q3 Earnings Beat on Higher Oil Prices and Production",
-          "url": "https://finance.yahoo.com/energy/articles/crgy-q3-earnings-beat-higher-163600754.html",
-          "publisher": "Zacks",
-          "published": "2026-11-05T16:36:00Z"
-        },
-        {
-          "title": "NOV Expects Higher Offshore Bookings on Strong FPSO Project Pipeline",
-          "url": "https://finance.yahoo.com/energy/articles/nov-expects-higher-offshore-bookings-141000583.html",
-          "publisher": "Zacks",
-          "published": "2026-11-02T14:10:00Z"
-        }
-      ]
-    },
-    {
       "symbol": "WFRD",
       "name": "Weatherford",
       "price": 84.43,
@@ -1958,8 +1958,8 @@
           "name": "EOG Resources Inc",
           "short": "EOG Resources",
           "weight_pct": 4.07,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": 1.55,
+          "price": 147.13,
           "currency": "USD"
         },
         {
@@ -2057,8 +2057,8 @@
         "name": "EOG Resources Inc",
         "short": "EOG Resources",
         "weight_pct": 4.07,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": 1.55,
+        "price": 147.13,
         "currency": "USD"
       },
       {
