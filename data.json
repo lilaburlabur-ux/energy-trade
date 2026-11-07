@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-07T19:36:19+00:00",
-  "as_of_local": "2026-11-07 19:36:19 UTC",
+  "as_of_utc": "2026-11-07T19:51:37+00:00",
+  "as_of_local": "2026-11-07 19:51:37 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "SO"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -253,34 +255,6 @@
           "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-drop-thursday-210255557.html",
           "publisher": "MT Newswires",
           "published": "2026-11-05T21:02:55Z"
-        }
-      ]
-    },
-    {
-      "symbol": "SO",
-      "name": "Southern Company",
-      "price": 92.34,
-      "previous_close": 93.34,
-      "change_pct": -1.07,
-      "market_cap": 107507859154.20877,
-      "headlines": [
-        {
-          "title": "What Just Happened To Vistra Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/just-happened-vistra-stock-124942088.html",
-          "publisher": "Trefis",
-          "published": "2026-11-07T12:49:42Z"
-        },
-        {
-          "title": "Constellation Energy Earnings Ahead: What Past Reactions Say About The Stock",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/constellation-energy-earnings-ahead-past-234505687.html",
-          "publisher": "Trefis",
-          "published": "2026-11-06T23:45:05Z"
-        },
-        {
-          "title": "Is NextEra's Dividend Enough To Make Up For Its Lagging Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nexteras-dividend-enough-lagging-stock-142600112.html",
-          "publisher": "Trefis",
-          "published": "2026-11-06T14:26:00Z"
         }
       ]
     },
@@ -909,6 +883,12 @@
       "market_cap": 51198869096.51442,
       "headlines": [
         {
+          "title": "Bloom Energy wins abroad while Texas turns against data centers",
+          "url": "https://finance.yahoo.com/energy/articles/bloom-energy-wins-abroad-while-193300044.html",
+          "publisher": "TheStreet",
+          "published": "2026-11-07T19:33:00Z"
+        },
+        {
           "title": "Bloom Energy Just Dropped 12% in a Week. Is It Time to Sell, or Load Up?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-just-dropped-12-123538640.html",
           "publisher": "TIKR",
@@ -919,12 +899,6 @@
           "url": "https://finance.yahoo.com/energy/articles/google-spending-17-billion-wyoming-192629782.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-06T19:26:29Z"
-        },
-        {
-          "title": "Bloom Energy Rises 2%, AMD Up 8% as AI Stocks Rebound From Midterm Rout",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-rises-2-amd-182816164.html",
-          "publisher": "TIKR",
-          "published": "2026-11-06T18:28:16Z"
         }
       ]
     },
