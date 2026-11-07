@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-07T22:52:43+00:00",
-  "as_of_local": "2026-11-07 22:52:43 UTC",
+  "as_of_utc": "2026-11-07T22:57:47+00:00",
+  "as_of_local": "2026-11-07 22:57:47 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "COP"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -171,6 +169,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/just-happened-vistra-stock-124942088.html",
           "publisher": "Trefis",
           "published": "2026-11-07T12:49:42Z"
+        }
+      ]
+    },
+    {
+      "symbol": "COP",
+      "name": "ConocoPhillips",
+      "price": 136.27,
+      "previous_close": 135.46,
+      "change_pct": 0.6,
+      "market_cap": 161116803268.87036,
+      "headlines": [
+        {
+          "title": "3 Oil Stocks Trading At Least 43% Below Future Cash Flow Value",
+          "url": "https://finance.yahoo.com/energy/articles/3-oil-stocks-trading-least-091325867.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-07T09:13:25Z"
+        },
+        {
+          "title": "What ConocoPhillips (COP) Said on Its Q3 Earnings Call",
+          "url": "https://finance.yahoo.com/energy/articles/conocophillips-cop-said-q3-earnings-041451823.html",
+          "publisher": "MarketBeat",
+          "published": "2026-11-07T04:14:51Z"
+        },
+        {
+          "title": "ConocoPhillips (COP) Earnings Beat And Dividend Hike Put Valuation Back In Focus",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/conocophillips-cop-earnings-beat-dividend-011128362.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-07T01:11:28Z"
         }
       ]
     },
@@ -1913,8 +1939,8 @@
           "name": "ConocoPhillips",
           "short": "ConocoPhillips",
           "weight_pct": 7.27,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": 0.6,
+          "price": 136.27,
           "currency": "USD"
         },
         {
@@ -2012,8 +2038,8 @@
         "name": "ConocoPhillips",
         "short": "ConocoPhillips",
         "weight_pct": 7.27,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": 0.6,
+        "price": 136.27,
         "currency": "USD"
       },
       {
