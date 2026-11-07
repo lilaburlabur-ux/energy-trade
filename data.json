@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-07T02:48:13+00:00",
-  "as_of_local": "2026-11-07 02:48:13 UTC",
+  "as_of_utc": "2026-11-07T03:03:03+00:00",
+  "as_of_local": "2026-11-07 03:03:03 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "ETN"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -197,34 +199,6 @@
           "url": "https://finance.yahoo.com/markets/live/earnings-live-updates-apple-palantir-roku-and-more-212856249.html",
           "publisher": "Yahoo Finance",
           "published": "2026-11-02T21:28:56Z"
-        }
-      ]
-    },
-    {
-      "symbol": "ETN",
-      "name": "Eaton",
-      "price": 341.72,
-      "previous_close": 327.02,
-      "change_pct": 4.5,
-      "market_cap": 132758220474.24316,
-      "headlines": [
-        {
-          "title": "Are You Sure You Understand Vertiv Stock's Risk?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/sure-understand-vertiv-stocks-risk-010525405.html",
-          "publisher": "Trefis",
-          "published": "2026-11-07T01:05:25Z"
-        },
-        {
-          "title": "What Should Eaton Stock Holders Take From The September Quarter?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/eaton-stock-holders-september-quarter-231057575.html",
-          "publisher": "Trefis",
-          "published": "2026-11-06T23:10:57Z"
-        },
-        {
-          "title": "Stocks to Watch Recap: DraftKings, Airbnb, Iren, CoreWeave",
-          "url": "https://www.wsj.com/livecoverage/october-jobs-report-stock-market-11-06-2026/card/stocks-to-watch-draftkings-airbnb-iren-coreweave-K3mHErTnFxPagbWPHHSI?siteid=yhoof2&yptr=yahoo",
-          "publisher": "The Wall Street Journal",
-          "published": "2026-11-06T21:25:13Z"
         }
       ]
     },
@@ -570,7 +544,7 @@
       "price": 147.13,
       "previous_close": 144.89,
       "change_pct": 1.55,
-      "market_cap": 77173980226.05762,
+      "market_cap": 78365638219.62524,
       "headlines": [
         {
           "title": "EOG Resources (EOG) Q3 2026 Earnings Call Transcript",
