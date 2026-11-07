@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-07T18:40:55+00:00",
-  "as_of_local": "2026-11-07 18:40:55 UTC",
+  "as_of_utc": "2026-11-07T18:46:04+00:00",
+  "as_of_local": "2026-11-07 18:46:04 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "EPD"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -507,6 +505,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/750-000-dividend-portfolio-could-174836690.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-05T17:48:36Z"
+        }
+      ]
+    },
+    {
+      "symbol": "EPD",
+      "name": "Enterprise Products",
+      "price": 37.03,
+      "previous_close": 36.62,
+      "change_pct": 1.12,
+      "market_cap": 79859075259.16571,
+      "headlines": [
+        {
+          "title": "Everyone Loves This 6.5% Pipeline Yield. Here's the Risk I Think They're Ignoring.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/everyone-loves-6-5-pipeline-133500436.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-07T13:35:00Z"
+        },
+        {
+          "title": "Enterprise Products (EPD) Q3 Earnings: Taking a Look at Key Metrics Versus Estimates",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/enterprise-products-epd-q3-earnings-210001954.html",
+          "publisher": "Zacks",
+          "published": "2026-11-06T21:00:01Z"
+        },
+        {
+          "title": "Enterprise Products Gains 24.3% in a Year: Should You Buy or Exit?",
+          "url": "https://finance.yahoo.com/energy/articles/enterprise-products-gains-24-3-171500090.html",
+          "publisher": "Zacks",
+          "published": "2026-11-06T17:15:00Z"
         }
       ]
     },
