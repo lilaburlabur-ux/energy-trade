@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-07T08:53:31+00:00",
-  "as_of_local": "2026-11-07 08:53:31 UTC",
+  "as_of_utc": "2026-11-07T08:58:33+00:00",
+  "as_of_local": "2026-11-07 08:58:33 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "HAL"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -572,7 +570,7 @@
       "price": 147.13,
       "previous_close": 144.89,
       "change_pct": 1.55,
-      "market_cap": 78365638219.62524,
+      "market_cap": 77173980226.05762,
       "headlines": [
         {
           "title": "EOG Resources (EOG) Q3 2026 Earnings Call Transcript",
@@ -1123,6 +1121,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/william-blair-shakes-top-stock-162539821.html",
           "publisher": "GuruFocus.com",
           "published": "2026-11-02T16:25:39Z"
+        }
+      ]
+    },
+    {
+      "symbol": "HAL",
+      "name": "Halliburton",
+      "price": 31.84,
+      "previous_close": 31.92,
+      "change_pct": -0.25,
+      "market_cap": 26335702855.489464,
+      "headlines": [
+        {
+          "title": "Why Is Baker Hughes Stock Falling?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-baker-hughes-stock-falling-141921435.html",
+          "publisher": "Trefis",
+          "published": "2026-11-06T14:19:21Z"
+        },
+        {
+          "title": "CLB Q3 Earnings Miss Estimates on Higher Costs and Disruptions",
+          "url": "https://finance.yahoo.com/energy/articles/clb-q3-earnings-miss-estimates-155400926.html",
+          "publisher": "Zacks",
+          "published": "2026-11-03T15:54:00Z"
+        },
+        {
+          "title": "Questions Mount Over Venezuela\u2019s Biggest Oil Deal",
+          "url": "https://finance.yahoo.com/energy/articles/questions-mount-over-venezuela-biggest-010000297.html",
+          "publisher": "Oilprice.com",
+          "published": "2026-11-03T01:00:00Z"
         }
       ]
     },
