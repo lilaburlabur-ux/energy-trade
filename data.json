@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-07T08:38:30+00:00",
-  "as_of_local": "2026-11-07 08:38:30 UTC",
+  "as_of_utc": "2026-11-07T08:53:31+00:00",
+  "as_of_local": "2026-11-07 08:53:31 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "FSLR"
+    "HAL"
   ],
   "stocks": [
     {
@@ -572,7 +572,7 @@
       "price": 147.13,
       "previous_close": 144.89,
       "change_pct": 1.55,
-      "market_cap": 77173980226.05762,
+      "market_cap": 78365638219.62524,
       "headlines": [
         {
           "title": "EOG Resources (EOG) Q3 2026 Earnings Call Transcript",
@@ -1127,34 +1127,6 @@
       ]
     },
     {
-      "symbol": "HAL",
-      "name": "Halliburton",
-      "price": 31.84,
-      "previous_close": 31.92,
-      "change_pct": -0.25,
-      "market_cap": 26335702855.489464,
-      "headlines": [
-        {
-          "title": "Why Is Baker Hughes Stock Falling?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-baker-hughes-stock-falling-141921435.html",
-          "publisher": "Trefis",
-          "published": "2026-11-06T14:19:21Z"
-        },
-        {
-          "title": "CLB Q3 Earnings Miss Estimates on Higher Costs and Disruptions",
-          "url": "https://finance.yahoo.com/energy/articles/clb-q3-earnings-miss-estimates-155400926.html",
-          "publisher": "Zacks",
-          "published": "2026-11-03T15:54:00Z"
-        },
-        {
-          "title": "Questions Mount Over Venezuela\u2019s Biggest Oil Deal",
-          "url": "https://finance.yahoo.com/energy/articles/questions-mount-over-venezuela-biggest-010000297.html",
-          "publisher": "Oilprice.com",
-          "published": "2026-11-03T01:00:00Z"
-        }
-      ]
-    },
-    {
       "symbol": "FTI",
       "name": "TechnipFMC",
       "price": 63.52,
@@ -1207,6 +1179,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/behind-move-eaton-stock-141913569.html",
           "publisher": "Trefis",
           "published": "2026-11-06T14:19:13Z"
+        }
+      ]
+    },
+    {
+      "symbol": "FSLR",
+      "name": "First Solar",
+      "price": 201.14,
+      "previous_close": 195.76,
+      "change_pct": 2.75,
+      "market_cap": 21618758646.53871,
+      "headlines": [
+        {
+          "title": "Micron Stock Is the Cheapest Right Now -- Here's Why",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-cheapest-now-heres-191642844.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-06T19:16:42Z"
+        },
+        {
+          "title": "Where Trump and the Dems Can Meet in the Middle",
+          "url": "https://www.barrons.com/articles/trump-democrats-gridlock-compromise-markets-ba8d36d1?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-11-06T18:44:00Z"
+        },
+        {
+          "title": "First Solar, Inc. (FSLR) is Attracting Investor Attention: Here is What You Should Know",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/first-solar-inc-fslr-attracting-130004912.html",
+          "publisher": "Zacks",
+          "published": "2026-11-06T13:00:04Z"
         }
       ]
     },
