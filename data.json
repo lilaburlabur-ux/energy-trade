@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-07T17:05:22+00:00",
-  "as_of_local": "2026-11-07 17:05:22 UTC",
+  "as_of_utc": "2026-11-07T17:20:29+00:00",
+  "as_of_local": "2026-11-07 17:20:29 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "TLN"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -97,6 +99,12 @@
       "market_cap": 204889159684.15454,
       "headlines": [
         {
+          "title": "Apple Completes the Set: Every Magnificent Seven Stock Opts Out of OKX-ICE Venue",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/apple-completes-set-every-magnificent-170103142.html",
+          "publisher": "decrypt",
+          "published": "2026-11-07T17:01:03Z"
+        },
+        {
           "title": "What Is Behind The Move In Oklo Stock?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/behind-move-oklo-stock-124940313.html",
           "publisher": "Trefis",
@@ -107,12 +115,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/needs-true-buy-nuscale-power-100649112.html",
           "publisher": "Trefis",
           "published": "2026-11-07T10:06:49Z"
-        },
-        {
-          "title": "GE Vernova vs. Vistra: Which Industrials Stock Is a Better Buy for 2027?",
-          "url": "https://finance.yahoo.com/energy/articles/ge-vernova-vs-vistra-industrials-021502810.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-07T02:15:02Z"
         }
       ]
     },
@@ -1405,34 +1407,6 @@
       ]
     },
     {
-      "symbol": "TLN",
-      "name": "Talen Energy",
-      "price": 338.64,
-      "previous_close": 316.23,
-      "change_pct": 7.09,
-      "market_cap": 14732639492.964844,
-      "headlines": [
-        {
-          "title": "Vistra Soars 8% on 50% EBITDA Jump and First 2027 Outlook: \u201cMore of These Opportunities\u201d",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-soars-8-50-ebitda-144334241.html",
-          "publisher": "TIKR",
-          "published": "2026-11-06T14:43:34Z"
-        },
-        {
-          "title": "Growing US Power Demand Positions Talen Energy (TLN) for Long-Term Upside",
-          "url": "https://finance.yahoo.com/energy/articles/growing-us-power-demand-positions-150358450.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-11-05T15:03:58Z"
-        },
-        {
-          "title": "GE Vernova Soars 6%, Eaton Up 7% on Record Orders and Bernstein\u2019s Data Center Call",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-soars-6-eaton-135445573.html",
-          "publisher": "TIKR",
-          "published": "2026-11-04T13:54:45Z"
-        }
-      ]
-    },
-    {
       "symbol": "AR",
       "name": "Antero Resources",
       "price": 36.08,
@@ -1587,16 +1561,16 @@
           "published": "2026-11-05T17:45:00Z"
         },
         {
+          "title": "NuScale Power Advances SMR Manufacturing With Doosan Deal",
+          "url": "https://finance.yahoo.com/energy/articles/nuscale-power-advances-smr-manufacturing-163500821.html",
+          "publisher": "Zacks",
+          "published": "2026-11-02T16:35:00Z"
+        },
+        {
           "title": "What Is Behind The Move In Cameco Stock?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/behind-move-cameco-stock-012341659.html",
           "publisher": "Trefis",
           "published": "2026-11-02T01:23:41Z"
-        },
-        {
-          "title": "Azincourt Energy Advances Labrador Uranium Exploration With New Snegamook Drilling Results",
-          "url": "https://finance.yahoo.com/energy/articles/azincourt-energy-advances-labrador-uranium-213911390.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-10-26T21:39:11Z"
         }
       ]
     },
