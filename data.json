@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-08T14:43:39+00:00",
-  "as_of_local": "2026-11-08 14:43:39 UTC",
+  "as_of_utc": "2026-11-08T14:48:43+00:00",
+  "as_of_local": "2026-11-08 14:48:43 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "BKR"
+    "OKLO"
   ],
   "stocks": [
     {
@@ -987,6 +987,34 @@
       ]
     },
     {
+      "symbol": "BKR",
+      "name": "Baker Hughes",
+      "price": 47.87,
+      "previous_close": 46.2,
+      "change_pct": 3.61,
+      "market_cap": 47538665441.78775,
+      "headlines": [
+        {
+          "title": "Basin rig count up one as prices drop",
+          "url": "https://finance.yahoo.com/energy/articles/basin-rig-count-one-prices-010100109.html",
+          "publisher": "Odessa American, Texas",
+          "published": "2026-11-07T01:01:00Z"
+        },
+        {
+          "title": "U.S. Oil, Gas Drillers See Minor Uptick as Oil Prices Crash",
+          "url": "https://finance.yahoo.com/energy/articles/u-oil-gas-drillers-see-182100596.html",
+          "publisher": "Oilprice.com",
+          "published": "2026-11-06T18:21:00Z"
+        },
+        {
+          "title": "Baker Hughes Sharpens Portfolio Focus With $1.45B Waygate Sale",
+          "url": "https://finance.yahoo.com/energy/articles/baker-hughes-sharpens-portfolio-focus-170600313.html",
+          "publisher": "Zacks",
+          "published": "2026-11-06T17:06:00Z"
+        }
+      ]
+    },
+    {
       "symbol": "VST",
       "name": "Vistra",
       "price": 124.8,
@@ -1571,34 +1599,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/behind-move-cameco-stock-012341659.html",
           "publisher": "Trefis",
           "published": "2026-11-02T01:23:41Z"
-        }
-      ]
-    },
-    {
-      "symbol": "OKLO",
-      "name": "Oklo",
-      "price": 23.55,
-      "previous_close": 19.2,
-      "change_pct": 22.66,
-      "market_cap": 4599069766.155865,
-      "headlines": [
-        {
-          "title": "Fervo Energy Just Dropped 35% in a Month. Is It Time to Sell, or Load Up?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/fervo-energy-just-dropped-35-032611021.html",
-          "publisher": "TIKR",
-          "published": "2026-11-08T03:26:11Z"
-        },
-        {
-          "title": "NuScale Just Hit a New 52-Week Low After Losing 26% in a Week. Is the Selling Overdone?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nuscale-just-hit-52-week-234937076.html",
-          "publisher": "TIKR",
-          "published": "2026-11-07T23:49:37Z"
-        },
-        {
-          "title": "Why Is Oklo (OKLO) Locking In Domestic Reactor Manufacturing Capacity?",
-          "url": "https://finance.yahoo.com/energy/articles/why-oklo-oklo-locking-domestic-221608889.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-07T22:16:08Z"
         }
       ]
     },
