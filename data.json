@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-08T09:30:15+00:00",
-  "as_of_local": "2026-11-08 09:30:15 UTC",
+  "as_of_utc": "2026-11-08T09:45:20+00:00",
+  "as_of_local": "2026-11-08 09:45:20 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "OXY"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -819,6 +817,34 @@
       ]
     },
     {
+      "symbol": "OXY",
+      "name": "Occidental Petroleum",
+      "price": 56.38,
+      "previous_close": 56.36,
+      "change_pct": 0.04,
+      "market_cap": 56359556044.7079,
+      "headlines": [
+        {
+          "title": "Occidental Petroleum to Release Q3 Earnings: What's in the Cards?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/occidental-petroleum-release-q3-earnings-135700931.html",
+          "publisher": "Zacks",
+          "published": "2026-11-06T13:57:00Z"
+        },
+        {
+          "title": "Occidental Petroleum (OXY) Stock Moves -1.69%: What You Should Know",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/occidental-petroleum-oxy-stock-moves-215002287.html",
+          "publisher": "Zacks",
+          "published": "2026-11-05T21:50:02Z"
+        },
+        {
+          "title": "What Analyst Projections for Key Metrics Reveal About Occidental (OXY) Q3 Earnings",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/analyst-projections-key-metrics-reveal-131511988.html",
+          "publisher": "Zacks",
+          "published": "2026-11-05T13:15:11Z"
+        }
+      ]
+    },
+    {
       "symbol": "OKE",
       "name": "ONEOK",
       "price": 85.19,
@@ -939,6 +965,12 @@
       "market_cap": 48107339981.660385,
       "headlines": [
         {
+          "title": "Devon Energy (DVN) Stock May Be Undervalued Despite Its $4.2 Billion Asset Sale",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/devon-energy-dvn-stock-may-091508841.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-08T09:15:08Z"
+        },
+        {
           "title": "Devon Energy (DVN) Opens Door To Takeover Offers After Shareholder Sale Push",
           "url": "https://finance.yahoo.com/markets/stocks/articles/devon-energy-dvn-opens-door-070808519.html",
           "publisher": "Simply Wall St.",
@@ -949,12 +981,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/devon-energy-dvn-earnings-buyback-011508048.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-08T01:15:08Z"
-        },
-        {
-          "title": "Devon Energy Stock And Other Oil Producers Facing Inflation Pressure",
-          "url": "https://finance.yahoo.com/energy/articles/devon-energy-stock-other-oil-221413315.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-07T22:14:13Z"
         }
       ]
     },
