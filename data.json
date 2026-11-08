@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-08T07:14:25+00:00",
-  "as_of_local": "2026-11-08 07:14:25 UTC",
+  "as_of_utc": "2026-11-08T07:19:59+00:00",
+  "as_of_local": "2026-11-08 07:19:59 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "OKLO"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1599,6 +1597,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/behind-move-cameco-stock-012341659.html",
           "publisher": "Trefis",
           "published": "2026-11-02T01:23:41Z"
+        }
+      ]
+    },
+    {
+      "symbol": "OKLO",
+      "name": "Oklo",
+      "price": 23.55,
+      "previous_close": 19.2,
+      "change_pct": 22.66,
+      "market_cap": 4380715515.579796,
+      "headlines": [
+        {
+          "title": "Why Is Oklo (OKLO) Locking In Domestic Reactor Manufacturing Capacity?",
+          "url": "https://finance.yahoo.com/energy/articles/why-oklo-oklo-locking-domestic-221608889.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-07T22:16:08Z"
+        },
+        {
+          "title": "Oklo Q3 Earnings Call Highlights",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/oklo-q3-earnings-call-highlights-181416161.html",
+          "publisher": "MarketBeat",
+          "published": "2026-11-07T18:14:16Z"
+        },
+        {
+          "title": "NuScale Jumps 16% as CEO Hails Shift \u201cFrom Development to Physical Production\u201d",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nuscale-jumps-16-ceo-hails-175101211.html",
+          "publisher": "TIKR",
+          "published": "2026-11-07T17:51:01Z"
         }
       ]
     },
