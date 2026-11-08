@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-08T23:09:08+00:00",
-  "as_of_local": "2026-11-08 23:09:08 UTC",
+  "as_of_utc": "2026-11-08T23:14:10+00:00",
+  "as_of_local": "2026-11-08 23:14:10 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "OKE"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -841,34 +843,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/analyst-projections-key-metrics-reveal-131511988.html",
           "publisher": "Zacks",
           "published": "2026-11-05T13:15:11Z"
-        }
-      ]
-    },
-    {
-      "symbol": "OKE",
-      "name": "ONEOK",
-      "price": 85.19,
-      "previous_close": 86.25,
-      "change_pct": -1.23,
-      "market_cap": 53708074267.21564,
-      "headlines": [
-        {
-          "title": "Devon Q3 Earnings Outpace Estimates on Higher Output, Revenues Miss",
-          "url": "https://finance.yahoo.com/energy/articles/devon-q3-earnings-outpace-estimates-151700373.html",
-          "publisher": "Zacks",
-          "published": "2026-11-06T15:17:00Z"
-        },
-        {
-          "title": "Plains All American Q3 Earnings Lag Estimates, Sales Increase Y/Y",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/plains-american-q3-earnings-lag-145900027.html",
-          "publisher": "Zacks",
-          "published": "2026-11-06T14:59:00Z"
-        },
-        {
-          "title": "Occidental Petroleum to Release Q3 Earnings: What's in the Cards?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/occidental-petroleum-release-q3-earnings-135700931.html",
-          "publisher": "Zacks",
-          "published": "2026-11-06T13:57:00Z"
         }
       ]
     },
@@ -2116,17 +2090,17 @@
     {
       "label": "WTI",
       "price": 90.83,
-      "change_pct": 0.34
+      "change_pct": 0.0
     },
     {
       "label": "Brent",
       "price": 98.32,
-      "change_pct": 0.03
+      "change_pct": 0.0
     },
     {
       "label": "NatGas",
       "price": 3.0,
-      "change_pct": 1.73
+      "change_pct": 0.0
     }
   ]
 }
