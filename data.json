@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-08T09:00:10+00:00",
-  "as_of_local": "2026-11-08 09:00:10 UTC",
+  "as_of_utc": "2026-11-08T09:15:29+00:00",
+  "as_of_local": "2026-11-08 09:15:29 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AR"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1431,6 +1429,34 @@
           "url": "https://finance.yahoo.com/energy/articles/growing-us-power-demand-positions-150358450.html",
           "publisher": "Insider Monkey",
           "published": "2026-11-05T15:03:58Z"
+        }
+      ]
+    },
+    {
+      "symbol": "AR",
+      "name": "Antero Resources",
+      "price": 36.08,
+      "previous_close": 36.38,
+      "change_pct": -0.82,
+      "market_cap": 11081467442.382812,
+      "headlines": [
+        {
+          "title": "Why Is Everyone Ignoring Expand Energy Stock's High Cash Yield?",
+          "url": "https://finance.yahoo.com/energy/articles/why-everyone-ignoring-expand-energy-000859092.html",
+          "publisher": "Trefis",
+          "published": "2026-11-06T00:08:59Z"
+        },
+        {
+          "title": "1 growth stock to add to your roster and 2 we turn down",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/1-growth-stock-add-roster-115736291.html",
+          "publisher": "StockStory",
+          "published": "2026-11-03T11:57:36Z"
+        },
+        {
+          "title": "Eni Begins Maha Gas Production, Boosting Indonesia's Offshore Output",
+          "url": "https://finance.yahoo.com/energy/articles/eni-begins-maha-gas-production-160100997.html",
+          "publisher": "Zacks",
+          "published": "2026-11-02T16:01:00Z"
         }
       ]
     },
