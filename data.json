@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-08T23:44:25+00:00",
-  "as_of_local": "2026-11-08 23:44:25 UTC",
+  "as_of_utc": "2026-11-08T23:59:33+00:00",
+  "as_of_local": "2026-11-08 23:59:33 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "NRG"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1239,6 +1237,34 @@
       ]
     },
     {
+      "symbol": "NRG",
+      "name": "NRG Energy",
+      "price": 88.29,
+      "previous_close": 80.55,
+      "change_pct": 9.61,
+      "market_cap": 18559483736.523445,
+      "headlines": [
+        {
+          "title": "What Just Happened To Vistra Stock?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/just-happened-vistra-stock-124942088.html",
+          "publisher": "Trefis",
+          "published": "2026-11-07T12:49:42Z"
+        },
+        {
+          "title": "NRG Energy Reports Soon: How Has The Stock Reacted To Past Earnings?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nrg-energy-reports-soon-stock-012001063.html",
+          "publisher": "Trefis",
+          "published": "2026-11-07T01:20:01Z"
+        },
+        {
+          "title": "PPL Q3 Earnings Beat Estimates on Higher Rates, Sales Volumes",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ppl-q3-earnings-beat-estimates-171300630.html",
+          "publisher": "Zacks",
+          "published": "2026-11-06T17:13:00Z"
+        }
+      ]
+    },
+    {
       "symbol": "PR",
       "name": "Permian Resources",
       "price": 21.75,
@@ -2089,13 +2115,13 @@
     },
     {
       "label": "WTI",
-      "price": 90.37,
-      "change_pct": -0.51
+      "price": 90.41,
+      "change_pct": -0.46
     },
     {
       "label": "Brent",
-      "price": 97.46,
-      "change_pct": -0.87
+      "price": 97.65,
+      "change_pct": -0.68
     },
     {
       "label": "NatGas",
