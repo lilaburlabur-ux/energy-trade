@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-08T00:07:10+00:00",
-  "as_of_local": "2026-11-08 00:07:10 UTC",
+  "as_of_utc": "2026-11-08T00:22:11+00:00",
+  "as_of_local": "2026-11-08 00:22:11 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "CCJ"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -38,7 +40,7 @@
       "price": 212.61,
       "previous_close": 212.93,
       "change_pct": -0.15,
-      "market_cap": 414802111190.7959,
+      "market_cap": 414856047371.41077,
       "headlines": [
         {
           "title": "3 Oil Stocks Trading At Least 43% Below Future Cash Flow Value",
@@ -66,7 +68,7 @@
       "price": 99.09,
       "previous_close": 100.12,
       "change_pct": -1.03,
-      "market_cap": 280778569343.792,
+      "market_cap": 280589392866.36346,
       "headlines": [
         {
           "title": "Shell And 2 British Undervalued Stocks To Watch",
@@ -1069,34 +1071,6 @@
       ]
     },
     {
-      "symbol": "CCJ",
-      "name": "Cameco",
-      "price": 71.3,
-      "previous_close": 68.33,
-      "change_pct": 4.35,
-      "market_cap": 31053502731.84117,
-      "headlines": [
-        {
-          "title": "A $120 Billion Westinghouse Reactor Plan Is Taking Shape. Here\u2019s What History Says Happened the Last Time the U.S. Built Them.",
-          "url": "https://finance.yahoo.com/energy/articles/120-billion-westinghouse-reactor-plan-102302085.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-07T10:23:02Z"
-        },
-        {
-          "title": "NuScale: We\u2019re \u201cNot Reliant on Data Centers\u201d",
-          "url": "https://finance.yahoo.com/energy/articles/nuscale-not-reliant-data-centers-201421226.html",
-          "publisher": "TIKR",
-          "published": "2026-11-06T20:14:21Z"
-        },
-        {
-          "title": "LEU Q3 Earnings Beat Estimates on Warrant Gain, Sales Decline",
-          "url": "https://finance.yahoo.com/energy/articles/leu-q3-earnings-beat-estimates-135700756.html",
-          "publisher": "Zacks",
-          "published": "2026-11-06T13:57:00Z"
-        }
-      ]
-    },
-    {
       "symbol": "EQT",
       "name": "EQT Corp",
       "price": 49.4,
@@ -1469,6 +1443,12 @@
       "market_cap": 10951043237.860298,
       "headlines": [
         {
+          "title": "BWX Technologies: 3 Key Takeaways for Long-Term Investors",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bwx-technologies-3-key-takeaways-000601309.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-08T00:06:01Z"
+        },
+        {
           "title": "What Is Behind The Move In Oklo Stock?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/behind-move-oklo-stock-124940313.html",
           "publisher": "Trefis",
@@ -1479,12 +1459,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/needs-true-buy-nuscale-power-100649112.html",
           "publisher": "Trefis",
           "published": "2026-11-07T10:06:49Z"
-        },
-        {
-          "title": "Better Nuclear Energy Stock to Buy After the Sell-Off: Oklo vs. BWX Technologies",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/better-nuclear-energy-stock-buy-042000576.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-05T04:20:00Z"
         }
       ]
     },
