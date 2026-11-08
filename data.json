@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-08T08:25:00+00:00",
-  "as_of_local": "2026-11-08 08:25:00 UTC",
+  "as_of_utc": "2026-11-08T08:39:52+00:00",
+  "as_of_local": "2026-11-08 08:39:52 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "ET"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -677,34 +679,6 @@
       ]
     },
     {
-      "symbol": "ET",
-      "name": "Energy Transfer",
-      "price": 18.92,
-      "previous_close": 18.85,
-      "change_pct": 0.39,
-      "market_cap": 65165251659.73559,
-      "headlines": [
-        {
-          "title": "Energy Transfer Just Raised Its Distribution for the 20th Straight Quarter. Here's How Much $10,000 Invested Pays Annually.",
-          "url": "https://finance.yahoo.com/energy/articles/energy-transfer-just-raised-distribution-002000284.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-08T00:20:00Z"
-        },
-        {
-          "title": "Everyone Loves This 6.5% Pipeline Yield. Here's the Risk I Think They're Ignoring.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/everyone-loves-6-5-pipeline-133500436.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-07T13:35:00Z"
-        },
-        {
-          "title": "Enterprise Products Gains 24.3% in a Year: Should You Buy or Exit?",
-          "url": "https://finance.yahoo.com/energy/articles/enterprise-products-gains-24-3-171500090.html",
-          "publisher": "Zacks",
-          "published": "2026-11-06T17:15:00Z"
-        }
-      ]
-    },
-    {
       "symbol": "D",
       "name": "Dominion Energy",
       "price": 68.6,
@@ -937,6 +911,12 @@
       "market_cap": 49959878699.65581,
       "headlines": [
         {
+          "title": "Diamondback Energy (FANG) Raises Dividend While Holding Shale Drilling In Check",
+          "url": "https://finance.yahoo.com/energy/articles/diamondback-energy-fang-raises-dividend-080848730.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-08T08:08:48Z"
+        },
+        {
           "title": "Devon Energy Stock And Other Oil Producers Facing Inflation Pressure",
           "url": "https://finance.yahoo.com/energy/articles/devon-energy-stock-other-oil-221413315.html",
           "publisher": "Simply Wall St.",
@@ -947,12 +927,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/heres-key-metrics-tell-us-223002143.html",
           "publisher": "Zacks",
           "published": "2026-11-06T22:30:02Z"
-        },
-        {
-          "title": "Top Analyst Reports for Shell, Dell & Amphenol",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/top-analyst-reports-shell-dell-200700415.html",
-          "publisher": "Zacks",
-          "published": "2026-11-06T20:07:00Z"
         }
       ]
     },
