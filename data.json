@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-08T04:49:07+00:00",
-  "as_of_local": "2026-11-08 04:49:07 UTC",
+  "as_of_utc": "2026-11-08T04:54:21+00:00",
+  "as_of_local": "2026-11-08 04:54:21 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "GEV"
+    "WMB"
   ],
   "stocks": [
     {
@@ -87,6 +87,34 @@
           "url": "https://www.investors.com/etfs-and-funds/mutual-funds/best-mutual-funds-feast-on-shell-microsoft-palantir-lilly-apple-and-more-stocks-to-watch/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
           "published": "2026-11-06T13:00:49Z"
+        }
+      ]
+    },
+    {
+      "symbol": "GEV",
+      "name": "GE Vernova",
+      "price": 774.11,
+      "previous_close": 770.51,
+      "change_pct": 0.47,
+      "market_cap": 204889159684.15454,
+      "headlines": [
+        {
+          "title": "Is GE Vernova (GEV) Trading At A Premium After Its $9b Deal?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-gev-trading-premium-221607654.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-07T22:16:07Z"
+        },
+        {
+          "title": "Apple Completes the Set: Every Magnificent Seven Stock Opts Out of OKX-ICE Venue",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/apple-completes-set-every-magnificent-170103142.html",
+          "publisher": "decrypt",
+          "published": "2026-11-07T17:01:03Z"
+        },
+        {
+          "title": "What Is Behind The Move In Oklo Stock?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/behind-move-oklo-stock-124940313.html",
+          "publisher": "Trefis",
+          "published": "2026-11-07T12:49:40Z"
         }
       ]
     },
@@ -451,34 +479,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/ai-stocks-plunge-buy-sell-171600469.html",
           "publisher": "Zacks",
           "published": "2026-11-06T17:16:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "WMB",
-      "name": "Williams Companies",
-      "price": 64.08,
-      "previous_close": 64.25,
-      "change_pct": -0.26,
-      "market_cap": 80112979514.46918,
-      "headlines": [
-        {
-          "title": "ETFs Are Net Sellers of Williams (WMB) on Nov. 4",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-williams-wmb-110344609.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-06T11:03:44Z"
-        },
-        {
-          "title": "What Are Wall Street Analysts' Target Price for Williams Companies Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-075605703.html",
-          "publisher": "Barchart",
-          "published": "2026-11-06T07:56:05Z"
-        },
-        {
-          "title": "A $750,000 Dividend Portfolio Could Cost You $9,000 a Year in Taxes. Here\u2019s How",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/750-000-dividend-portfolio-could-174836690.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-05T17:48:36Z"
         }
       ]
     },
@@ -1949,8 +1949,8 @@
           "name": "Williams Companies Inc",
           "short": "Williams",
           "weight_pct": 4.12,
-          "change_pct": -0.26,
-          "price": 64.08,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -2048,8 +2048,8 @@
         "name": "Williams Companies Inc",
         "short": "Williams",
         "weight_pct": 4.12,
-        "change_pct": -0.26,
-        "price": 64.08,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
