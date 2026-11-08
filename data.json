@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-08T17:49:55+00:00",
-  "as_of_local": "2026-11-08 17:49:55 UTC",
+  "as_of_utc": "2026-11-08T18:05:01+00:00",
+  "as_of_local": "2026-11-08 18:05:01 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NEE"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -141,34 +143,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/plains-american-q3-earnings-lag-145900027.html",
           "publisher": "Zacks",
           "published": "2026-11-06T14:59:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "NEE",
-      "name": "NextEra Energy",
-      "price": 86.95,
-      "previous_close": 88.25,
-      "change_pct": -1.47,
-      "market_cap": 182360754560.0799,
-      "headlines": [
-        {
-          "title": "NextEra Energy vs. Southern Company: Which Dividend Stock Is Better for Retirement?",
-          "url": "https://finance.yahoo.com/energy/articles/nextera-energy-vs-southern-company-170424659.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-08T17:04:24Z"
-        },
-        {
-          "title": "3 Top Picks With At Least 2% Dividend Yield",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-top-picks-least-2-160951965.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-07T16:09:51Z"
-        },
-        {
-          "title": "5 Best Stocks to Buy After Democrats\u2019 Midterm Election Victory",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/5-best-stocks-buy-democrats-135533261.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-11-07T13:55:33Z"
         }
       ]
     },
