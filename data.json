@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-08T16:44:33+00:00",
-  "as_of_local": "2026-11-08 16:44:33 UTC",
+  "as_of_utc": "2026-11-08T16:59:29+00:00",
+  "as_of_local": "2026-11-08 16:59:29 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "BEP"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1485,34 +1487,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/needs-true-buy-nuscale-power-100649112.html",
           "publisher": "Trefis",
           "published": "2026-11-07T10:06:49Z"
-        }
-      ]
-    },
-    {
-      "symbol": "BEP",
-      "name": "Brookfield Renewable",
-      "price": 31.14,
-      "previous_close": 30.64,
-      "change_pct": 1.63,
-      "market_cap": 9428639827.556366,
-      "headlines": [
-        {
-          "title": "Brookfield Renewable Partners LP (BEP) (Q3 2026) Earnings Call Highlights: Record FFO, $3 ...",
-          "url": "https://finance.yahoo.com/energy/articles/brookfield-renewable-partners-lp-bep-131100251.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-07T13:11:00Z"
-        },
-        {
-          "title": "A $120 Billion Westinghouse Reactor Plan Is Taking Shape. Here\u2019s What History Says Happened the Last Time the U.S. Built Them.",
-          "url": "https://finance.yahoo.com/energy/articles/120-billion-westinghouse-reactor-plan-102302085.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-07T10:23:02Z"
-        },
-        {
-          "title": "Brookfield Renewable Q3 Results: 3 Key Takeaways for Long-Term Investors",
-          "url": "https://finance.yahoo.com/energy/articles/brookfield-renewable-q3-results-3-150222431.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-06T15:02:22Z"
         }
       ]
     },
