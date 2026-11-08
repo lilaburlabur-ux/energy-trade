@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-08T04:03:58+00:00",
-  "as_of_local": "2026-11-08 04:03:58 UTC",
+  "as_of_utc": "2026-11-08T04:18:56+00:00",
+  "as_of_local": "2026-11-08 04:18:56 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "EOSE"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1721,6 +1723,12 @@
       "market_cap": 2156689838.538742,
       "headlines": [
         {
+          "title": "What Centrus Energy (LEU) Said on Its Q3 Earnings Call",
+          "url": "https://finance.yahoo.com/energy/articles/centrus-energy-leu-said-q3-041420266.html",
+          "publisher": "MarketBeat",
+          "published": "2026-11-08T04:14:20Z"
+        },
+        {
           "title": "What Is Behind The Move In Oklo Stock?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/behind-move-oklo-stock-124940313.html",
           "publisher": "Trefis",
@@ -1731,12 +1739,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/centrus-energy-leu-stock-fair-042900970.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-07T04:29:00Z"
-        },
-        {
-          "title": "Centrus Energy Q3 Earnings Call Highlights Enrichment Expansion Progress",
-          "url": "https://finance.yahoo.com/energy/articles/centrus-energy-q3-earnings-call-161600355.html",
-          "publisher": "Zacks",
-          "published": "2026-11-06T16:16:00Z"
         }
       ]
     },
@@ -1877,34 +1879,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/fluence-energy-flnc-stock-may-011218282.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-07T01:12:18Z"
-        }
-      ]
-    },
-    {
-      "symbol": "EOSE",
-      "name": "Eos Energy",
-      "price": 1.74,
-      "previous_close": 1.88,
-      "change_pct": -7.45,
-      "market_cap": 637473361.7539194,
-      "headlines": [
-        {
-          "title": "Eos Energy Enterprises (EOSE) Stock Looks Fully Priced After Revenue Jump",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/eos-energy-enterprises-eose-stock-131808170.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-06T13:18:08Z"
-        },
-        {
-          "title": "Eos Energy Enterprises Inc (EOSE) Q3 2026 Earnings Call Highlights: Record Revenue and Margin ...",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/eos-energy-enterprises-inc-eose-071128915.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-06T07:11:28Z"
-        },
-        {
-          "title": "Eos Energy Enterprises, Inc. Q3 2026 Earnings Call Summary",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/eos-energy-enterprises-inc-q3-040539828.html",
-          "publisher": "Moby",
-          "published": "2026-11-06T04:05:39Z"
         }
       ]
     }
