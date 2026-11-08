@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-08T13:58:27+00:00",
-  "as_of_local": "2026-11-08 13:58:27 UTC",
+  "as_of_utc": "2026-11-08T14:13:32+00:00",
+  "as_of_local": "2026-11-08 14:13:32 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "HAL"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -909,6 +911,12 @@
       "market_cap": 51198869096.51442,
       "headlines": [
         {
+          "title": "Fervo Energy Just Dropped 35% in a Month. Is It Time to Sell, or Load Up?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/fervo-energy-just-dropped-35-032611021.html",
+          "publisher": "TIKR",
+          "published": "2026-11-08T03:26:11Z"
+        },
+        {
           "title": "Here's What $10,000 Invested in Bloom Energy (BE) Stock Could Be Worth in 3 Years",
           "url": "https://finance.yahoo.com/markets/stocks/articles/heres-10-000-invested-bloom-195000723.html",
           "publisher": "Motley Fool",
@@ -919,12 +927,6 @@
           "url": "https://finance.yahoo.com/energy/articles/bloom-energy-wins-abroad-while-193300044.html",
           "publisher": "TheStreet",
           "published": "2026-11-07T19:33:00Z"
-        },
-        {
-          "title": "Bloom Energy Stock Rallies as Barclays Turns Bullish on California Power Partnership",
-          "url": "https://finance.yahoo.com/energy/articles/bloom-energy-stock-rallies-barclays-140003665.html",
-          "publisher": "Barchart",
-          "published": "2026-11-07T14:00:03Z"
         }
       ]
     },
@@ -1121,34 +1123,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/william-blair-shakes-top-stock-162539821.html",
           "publisher": "GuruFocus.com",
           "published": "2026-11-02T16:25:39Z"
-        }
-      ]
-    },
-    {
-      "symbol": "HAL",
-      "name": "Halliburton",
-      "price": 31.84,
-      "previous_close": 31.92,
-      "change_pct": -0.25,
-      "market_cap": 26335702855.489464,
-      "headlines": [
-        {
-          "title": "Why Is Baker Hughes Stock Falling?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-baker-hughes-stock-falling-141921435.html",
-          "publisher": "Trefis",
-          "published": "2026-11-06T14:19:21Z"
-        },
-        {
-          "title": "CLB Q3 Earnings Miss Estimates on Higher Costs and Disruptions",
-          "url": "https://finance.yahoo.com/energy/articles/clb-q3-earnings-miss-estimates-155400926.html",
-          "publisher": "Zacks",
-          "published": "2026-11-03T15:54:00Z"
-        },
-        {
-          "title": "Questions Mount Over Venezuela\u2019s Biggest Oil Deal",
-          "url": "https://finance.yahoo.com/energy/articles/questions-mount-over-venezuela-biggest-010000297.html",
-          "publisher": "Oilprice.com",
-          "published": "2026-11-03T01:00:00Z"
         }
       ]
     },
