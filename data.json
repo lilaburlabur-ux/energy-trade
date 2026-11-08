@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-08T20:50:42+00:00",
-  "as_of_local": "2026-11-08 20:50:42 UTC",
+  "as_of_utc": "2026-11-08T21:05:48+00:00",
+  "as_of_local": "2026-11-08 21:05:48 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "TTE"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -113,34 +115,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/ai-power-stocks-just-fell-145500327.html",
           "publisher": "Motley Fool",
           "published": "2026-11-08T14:55:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "TTE",
-      "name": "TotalEnergies",
-      "price": 87.82,
-      "previous_close": 88.75,
-      "change_pct": -1.05,
-      "market_cap": 192811525163.47714,
-      "headlines": [
-        {
-          "title": "How Investors May Respond To TotalEnergies (ENXTPA:TTE) Strong Q3 Earnings",
-          "url": "https://finance.yahoo.com/energy/articles/investors-may-respond-totalenergies-enxtpa-190944934.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-08T19:09:44Z"
-        },
-        {
-          "title": "TotalEnergies (ENXTPA:TTE) Advances Mozambique LNG Project",
-          "url": "https://finance.yahoo.com/energy/articles/totalenergies-enxtpa-tte-advances-mozambique-180725769.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-08T18:07:25Z"
-        },
-        {
-          "title": "Chevron\u2019s Refineries Ran at 98%. Its January Report Must Absorb a $4 Billion Hess Charge",
-          "url": "https://finance.yahoo.com/energy/articles/chevron-refineries-ran-98-january-155014932.html",
-          "publisher": "TIKR",
-          "published": "2026-11-08T15:50:14Z"
         }
       ]
     },
