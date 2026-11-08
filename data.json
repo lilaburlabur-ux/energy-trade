@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-08T01:32:55+00:00",
-  "as_of_local": "2026-11-08 01:32:55 UTC",
+  "as_of_utc": "2026-11-08T01:47:51+00:00",
+  "as_of_local": "2026-11-08 01:47:51 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "D"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -703,6 +701,34 @@
           "url": "https://finance.yahoo.com/energy/articles/enterprise-products-gains-24-3-171500090.html",
           "publisher": "Zacks",
           "published": "2026-11-06T17:15:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "D",
+      "name": "Dominion Energy",
+      "price": 68.6,
+      "previous_close": 69.64,
+      "change_pct": -1.49,
+      "market_cap": 60338231608.688675,
+      "headlines": [
+        {
+          "title": "Western Union Yields 13.5%. Is This Dividend Stock a Trap?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/western-union-yields-13-5-194740503.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-06T19:47:40Z"
+        },
+        {
+          "title": "NextEra Energy Vs. AES Corporation: Utility Scale Energy Production Just Got a Major Blue Boost",
+          "url": "https://finance.yahoo.com/energy/articles/nextera-energy-vs-aes-corporation-174545387.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-06T17:45:45Z"
+        },
+        {
+          "title": "Is NextEra's Dividend Enough To Make Up For Its Lagging Stock?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nexteras-dividend-enough-lagging-stock-142600112.html",
+          "publisher": "Trefis",
+          "published": "2026-11-06T14:26:00Z"
         }
       ]
     },
