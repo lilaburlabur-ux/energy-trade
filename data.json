@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-08T14:28:43+00:00",
-  "as_of_local": "2026-11-08 14:28:43 UTC",
+  "as_of_utc": "2026-11-08T14:43:39+00:00",
+  "as_of_local": "2026-11-08 14:43:39 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "BKR"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -981,34 +983,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/devon-energy-dvn-opens-door-070808519.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-08T07:08:08Z"
-        }
-      ]
-    },
-    {
-      "symbol": "BKR",
-      "name": "Baker Hughes",
-      "price": 47.87,
-      "previous_close": 46.2,
-      "change_pct": 3.61,
-      "market_cap": 47538665441.78775,
-      "headlines": [
-        {
-          "title": "Basin rig count up one as prices drop",
-          "url": "https://finance.yahoo.com/energy/articles/basin-rig-count-one-prices-010100109.html",
-          "publisher": "Odessa American, Texas",
-          "published": "2026-11-07T01:01:00Z"
-        },
-        {
-          "title": "U.S. Oil, Gas Drillers See Minor Uptick as Oil Prices Crash",
-          "url": "https://finance.yahoo.com/energy/articles/u-oil-gas-drillers-see-182100596.html",
-          "publisher": "Oilprice.com",
-          "published": "2026-11-06T18:21:00Z"
-        },
-        {
-          "title": "Baker Hughes Sharpens Portfolio Focus With $1.45B Waygate Sale",
-          "url": "https://finance.yahoo.com/energy/articles/baker-hughes-sharpens-portfolio-focus-170600313.html",
-          "publisher": "Zacks",
-          "published": "2026-11-06T17:06:00Z"
         }
       ]
     },
