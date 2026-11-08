@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-08T14:13:32+00:00",
-  "as_of_local": "2026-11-08 14:13:32 UTC",
+  "as_of_utc": "2026-11-08T14:26:10+00:00",
+  "as_of_local": "2026-11-08 14:26:10 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "HAL"
+    "TTE"
   ],
   "stocks": [
     {
@@ -115,34 +115,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/behind-move-oklo-stock-124940313.html",
           "publisher": "Trefis",
           "published": "2026-11-07T12:49:40Z"
-        }
-      ]
-    },
-    {
-      "symbol": "TTE",
-      "name": "TotalEnergies",
-      "price": 87.82,
-      "previous_close": 88.75,
-      "change_pct": -1.05,
-      "market_cap": 192811525163.47714,
-      "headlines": [
-        {
-          "title": "Devon Q3 Earnings Outpace Estimates on Higher Output, Revenues Miss",
-          "url": "https://finance.yahoo.com/energy/articles/devon-q3-earnings-outpace-estimates-151700373.html",
-          "publisher": "Zacks",
-          "published": "2026-11-06T15:17:00Z"
-        },
-        {
-          "title": "Plains All American Q3 Earnings Lag Estimates, Sales Increase Y/Y",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/plains-american-q3-earnings-lag-145900027.html",
-          "publisher": "Zacks",
-          "published": "2026-11-06T14:59:00Z"
-        },
-        {
-          "title": "Clean Energy Fuels Corp (CLNE) (Q3 2026) Earnings Call Highlights: Raised Guidance, Surging RNG ...",
-          "url": "https://finance.yahoo.com/energy/articles/clean-energy-fuels-corp-clne-052748917.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-06T05:27:48Z"
         }
       ]
     },
@@ -1127,6 +1099,34 @@
       ]
     },
     {
+      "symbol": "HAL",
+      "name": "Halliburton",
+      "price": 31.84,
+      "previous_close": 31.92,
+      "change_pct": -0.25,
+      "market_cap": 26335702855.489464,
+      "headlines": [
+        {
+          "title": "Why Is Baker Hughes Stock Falling?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-baker-hughes-stock-falling-141921435.html",
+          "publisher": "Trefis",
+          "published": "2026-11-06T14:19:21Z"
+        },
+        {
+          "title": "CLB Q3 Earnings Miss Estimates on Higher Costs and Disruptions",
+          "url": "https://finance.yahoo.com/energy/articles/clb-q3-earnings-miss-estimates-155400926.html",
+          "publisher": "Zacks",
+          "published": "2026-11-03T15:54:00Z"
+        },
+        {
+          "title": "Questions Mount Over Venezuela\u2019s Biggest Oil Deal",
+          "url": "https://finance.yahoo.com/energy/articles/questions-mount-over-venezuela-biggest-010000297.html",
+          "publisher": "Oilprice.com",
+          "published": "2026-11-03T01:00:00Z"
+        }
+      ]
+    },
+    {
       "symbol": "FTI",
       "name": "TechnipFMC",
       "price": 63.52,
@@ -1583,6 +1583,12 @@
       "market_cap": 4599069766.155865,
       "headlines": [
         {
+          "title": "Fervo Energy Just Dropped 35% in a Month. Is It Time to Sell, or Load Up?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/fervo-energy-just-dropped-35-032611021.html",
+          "publisher": "TIKR",
+          "published": "2026-11-08T03:26:11Z"
+        },
+        {
           "title": "NuScale Just Hit a New 52-Week Low After Losing 26% in a Week. Is the Selling Overdone?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/nuscale-just-hit-52-week-234937076.html",
           "publisher": "TIKR",
@@ -1593,12 +1599,6 @@
           "url": "https://finance.yahoo.com/energy/articles/why-oklo-oklo-locking-domestic-221608889.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-07T22:16:08Z"
-        },
-        {
-          "title": "Oklo Q3 Earnings Call Highlights",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/oklo-q3-earnings-call-highlights-181416161.html",
-          "publisher": "MarketBeat",
-          "published": "2026-11-07T18:14:16Z"
         }
       ]
     },
