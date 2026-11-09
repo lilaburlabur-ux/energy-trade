@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-09T14:31:36+00:00",
+  "as_of": "2026-11-09T14:36:51+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,12 +9,28 @@
  "hot_tickers": [
   {
    "rank": 1,
+   "ticker": "BE",
+   "company": "Bloom Energy Corporation",
+   "move_pct": 8.56,
+   "price": 188.07,
+   "volume": 2285682,
+   "volume_vs_avg": "~0.1x",
+   "heat_score": 56,
+   "direction": "up",
+   "why": "The On-Site Power Duel: Bloom Energy vs. GE Vernova",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOGNUa0p3aHFPXzZjWkVYMGtMLUdvZE1GdzZaaU41NTRVci1vYWlKdGtTV1JTdnNMdFpiRUFJUG1rbk1nc1FFbUZsdWxad0RWd1JNRXhQSzQ1dExyLXRXZHFsY1pJMmpoMVIyMWNySEhNQWk1S0ZaYlp4X1lmVVgyR2M5cXFsRFVYbGdF?oc=5",
+   "published": "2026-11-09T12:15:09+00:00",
+   "sector": "Grid, Storage & Electrification"
+  },
+  {
+   "rank": 2,
    "ticker": "NRG",
    "company": "NRG Energy, Inc.",
-   "move_pct": 6.03,
-   "price": 93.61,
-   "volume": 295687,
-   "volume_vs_avg": "~0.1x",
+   "move_pct": 5.69,
+   "price": 93.31,
+   "volume": 640818,
+   "volume_vs_avg": "~0.2x",
    "heat_score": 36,
    "direction": "up",
    "why": "Why is NRG Energy stock surging today?",
@@ -24,19 +40,35 @@
    "sector": "Power & IPPs"
   },
   {
-   "rank": 2,
-   "ticker": "BE",
-   "company": "Bloom Energy Corporation",
-   "move_pct": 5.05,
-   "price": 181.99,
-   "volume": 1240351,
+   "rank": 3,
+   "ticker": "GEV",
+   "company": "GE Vernova Inc.",
+   "move_pct": 5.35,
+   "price": 815.5,
+   "volume": 344769,
+   "volume_vs_avg": "~0.1x",
+   "heat_score": 34,
+   "direction": "up",
+   "why": "GE Vernova Lands Wind Turbine Order With 20-Year Service Deal",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONlVRUHU4UkMwZ0d5dExJZEJnNnlHMi1xc0gxY29NV3hlOGpSeTBjaERxV2VCR0UtNk45b0tYV1o1NHhMRVd3Qml0bXV0LUdSaDU2ZjB3Njd2ZGpmaG5leEFKM1g3bmFRb2F1ZGl0dlp5Z1UzblVwalE1dVBETzFtYVFMeWtwOVVHMWxWSXZickk1UUlvWEVPZ0ZWS3MzZjdzaVFBd2Y2SmFGeWdFRzZPQ1FyX0pqMVF6MGlLMXI5Yw?oc=5",
+   "published": "2026-11-09T12:55:06+00:00",
+   "sector": "Grid, Storage & Electrification"
+  },
+  {
+   "rank": 4,
+   "ticker": "VRT",
+   "company": "Vertiv Holdings, LLC",
+   "move_pct": 5.03,
+   "price": 192.05,
+   "volume": 488829,
    "volume_vs_avg": "~0.1x",
    "heat_score": 33,
    "direction": "up",
-   "why": "The On-Site Power Duel: Bloom Energy vs. GE Vernova",
+   "why": "Is Vertiv Stock Really Expensive?",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOGNUa0p3aHFPXzZjWkVYMGtMLUdvZE1GdzZaaU41NTRVci1vYWlKdGtTV1JTdnNMdFpiRUFJUG1rbk1nc1FFbUZsdWxad0RWd1JNRXhQSzQ1dExyLXRXZHFsY1pJMmpoMVIyMWNySEhNQWk1S0ZaYlp4X1lmVVgyR2M5cXFsRFVYbGdF?oc=5",
-   "published": "2026-11-09T12:15:09+00:00",
+   "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMzNzVVFCWThhai1mNzdncklIemE3SEc0SEM4ajlSek9jZkRlT0NBRnlrSkRDMkhuc3ZLZVo0Q0t1UnQ5alM3Zk1kRUdleElDc1VkdFdwZlZZaUFDRjJHVElQOVpCeUlNcWREekZRbVVxcl90UjBuV1EtbzJpUGE2NUgtcU9tRVhqdThaXzJZZmlKSWlyYk54MDZn?oc=5",
+   "published": "2026-11-09T12:46:09+00:00",
    "sector": "Grid, Storage & Electrification"
   }
  ]
