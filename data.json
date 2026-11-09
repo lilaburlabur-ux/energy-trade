@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-09T11:34:54+00:00",
-  "as_of_local": "2026-11-09 11:34:54 UTC",
+  "as_of_utc": "2026-11-09T11:39:57+00:00",
+  "as_of_local": "2026-11-09 11:39:57 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "SLB"
+    "GEV"
   ],
   "stocks": [
     {
@@ -87,34 +87,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/shell-2-british-undervalued-stocks-061351421.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-07T06:13:51Z"
-        }
-      ]
-    },
-    {
-      "symbol": "GEV",
-      "name": "GE Vernova",
-      "price": 774.11,
-      "previous_close": 770.51,
-      "change_pct": 0.47,
-      "market_cap": 204889159684.15454,
-      "headlines": [
-        {
-          "title": "What State Street Industrial Select SPDR (XLI) Sold: GE Leads on Nov. 5",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/state-street-industrial-select-spdr-110548649.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-09T11:05:48Z"
-        },
-        {
-          "title": "What NuScale Power (SMR) Said on Its Q3 Earnings Call",
-          "url": "https://finance.yahoo.com/energy/articles/nuscale-power-smr-said-q3-201417452.html",
-          "publisher": "MarketBeat",
-          "published": "2026-11-08T20:14:17Z"
-        },
-        {
-          "title": "Not Bloom Energy. Not Vistra. This AI Power Stock Just Posted a 96% Jump in Orders.",
-          "url": "https://finance.yahoo.com/energy/articles/not-bloom-energy-not-vistra-180500572.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-08T18:05:00Z"
         }
       ]
     },
@@ -591,6 +563,34 @@
           "url": "https://finance.yahoo.com/energy/articles/eog-resources-inc-eog-q3-091327755.html",
           "publisher": "GuruFocus.com",
           "published": "2026-11-07T09:13:27Z"
+        }
+      ]
+    },
+    {
+      "symbol": "SLB",
+      "name": "SLB (Schlumberger)",
+      "price": 49.92,
+      "previous_close": 49.64,
+      "change_pct": 0.56,
+      "market_cap": 73683395578.26906,
+      "headlines": [
+        {
+          "title": "SLB (SLB) Stock Still Looks Undervalued Despite Its 70% Run",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/slb-slb-stock-still-looks-151819577.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-07T15:18:19Z"
+        },
+        {
+          "title": "SLB (SLB) Could Be 20% Below Fair Value After New Contract Wins",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/slb-slb-could-20-below-141006503.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-07T14:10:06Z"
+        },
+        {
+          "title": "Why Is SLB (SLB) Pairing A Norway Contract With New Production Chemistry?",
+          "url": "https://finance.yahoo.com/energy/articles/why-slb-slb-pairing-norway-001149806.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-07T00:11:49Z"
         }
       ]
     },
@@ -1967,8 +1967,8 @@
           "name": "SLB Ltd",
           "short": "SLB",
           "weight_pct": 3.74,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": 0.56,
+          "price": 49.92,
           "currency": "USD"
         },
         {
@@ -2066,8 +2066,8 @@
         "name": "SLB Ltd",
         "short": "SLB",
         "weight_pct": 3.74,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": 0.56,
+        "price": 49.92,
         "currency": "USD"
       },
       {
@@ -2089,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 88.19,
-      "change_pct": -2.91
+      "price": 88.31,
+      "change_pct": -2.77
     },
     {
       "label": "Brent",
-      "price": 95.15,
-      "change_pct": -3.22
+      "price": 95.06,
+      "change_pct": -3.32
     },
     {
       "label": "NatGas",
-      "price": 3.01,
-      "change_pct": 0.33
+      "price": 3.0,
+      "change_pct": 0.17
     }
   ]
 }
