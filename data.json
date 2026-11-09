@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-09T10:08:47+00:00",
-  "as_of_local": "2026-11-09 10:08:47 UTC",
+  "as_of_utc": "2026-11-09T10:13:44+00:00",
+  "as_of_local": "2026-11-09 10:13:44 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "DINO"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1295,6 +1293,34 @@
       ]
     },
     {
+      "symbol": "DINO",
+      "name": "HF Sinclair",
+      "price": 97.18,
+      "previous_close": 97.77,
+      "change_pct": -0.6,
+      "market_cap": 16449771769.17746,
+      "headlines": [
+        {
+          "title": "EOG Q3 Earnings Beat Estimates on Record Production, Strong Pricing",
+          "url": "https://finance.yahoo.com/energy/articles/eog-q3-earnings-beat-estimates-173400832.html",
+          "publisher": "Zacks",
+          "published": "2026-11-06T17:34:00Z"
+        },
+        {
+          "title": "Baker Hughes Sharpens Portfolio Focus With $1.45B Waygate Sale",
+          "url": "https://finance.yahoo.com/energy/articles/baker-hughes-sharpens-portfolio-focus-170600313.html",
+          "publisher": "Zacks",
+          "published": "2026-11-06T17:06:00Z"
+        },
+        {
+          "title": "NESR to Report Q3 Earnings: Here's What Investors Should Know",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nesr-report-q3-earnings-heres-170400655.html",
+          "publisher": "Zacks",
+          "published": "2026-11-06T17:04:00Z"
+        }
+      ]
+    },
+    {
       "symbol": "OVV",
       "name": "Ovintiv",
       "price": 60.52,
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 90.25,
-      "change_pct": -0.64
+      "price": 90.38,
+      "change_pct": -0.5
     },
     {
       "label": "Brent",
-      "price": 97.33,
-      "change_pct": -1.01
+      "price": 97.41,
+      "change_pct": -0.93
     },
     {
       "label": "NatGas",
-      "price": 3.02,
-      "change_pct": 0.83
+      "price": 3.03,
+      "change_pct": 0.93
     }
   ]
 }
