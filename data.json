@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-09T22:16:54+00:00",
-  "as_of_local": "2026-11-09 22:16:54 UTC",
+  "as_of_utc": "2026-11-09T22:21:48+00:00",
+  "as_of_local": "2026-11-09 22:21:48 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "BKR"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -155,6 +153,12 @@
       "market_cap": 182172004696.234,
       "headlines": [
         {
+          "title": "People Pay the Power Bill Before Almost Anything Else. $45,000 in Each of These 3 Utilities Pays $5,915 a Year",
+          "url": "https://finance.yahoo.com/energy/articles/people-pay-power-bill-almost-221425733.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-09T22:14:25Z"
+        },
+        {
           "title": "Can DTE Energy Stock Jump 40%?",
           "url": "https://finance.yahoo.com/energy/articles/dte-energy-stock-jump-40-124601912.html",
           "publisher": "Trefis",
@@ -165,12 +169,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/state-street-utilities-spdr-xlu-110534996.html",
           "publisher": "GuruFocus.com",
           "published": "2026-11-09T11:05:34Z"
-        },
-        {
-          "title": "ETFs Are Net Sellers of NextEra Energy (NEE) on Thursday",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-nextera-energy-110357659.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-09T11:03:57Z"
         }
       ]
     },
@@ -715,6 +713,12 @@
       "market_cap": 60021587283.764145,
       "headlines": [
         {
+          "title": "People Pay the Power Bill Before Almost Anything Else. $45,000 in Each of These 3 Utilities Pays $5,915 a Year",
+          "url": "https://finance.yahoo.com/energy/articles/people-pay-power-bill-almost-221425733.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-09T22:14:25Z"
+        },
+        {
           "title": "NextEra Energy vs. Southern Company: Which Dividend Stock Is Better for Retirement?",
           "url": "https://finance.yahoo.com/energy/articles/nextera-energy-vs-southern-company-170424659.html",
           "publisher": "24/7 Wall St.",
@@ -725,12 +729,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/western-union-yields-13-5-194740503.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-06T19:47:40Z"
-        },
-        {
-          "title": "NextEra Energy Vs. AES Corporation: Utility Scale Energy Production Just Got a Major Blue Boost",
-          "url": "https://finance.yahoo.com/energy/articles/nextera-energy-vs-aes-corporation-174545387.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-06T17:45:45Z"
         }
       ]
     },
@@ -861,16 +859,16 @@
           "published": "2026-11-09T22:00:15Z"
         },
         {
+          "title": "Occidental Petroleum (NYSE:OXY) reports sales below analyst estimates in Q3 2026 earnings",
+          "url": "https://finance.yahoo.com/energy/articles/occidental-petroleum-nyse-oxy-reports-215151213.html",
+          "publisher": "StockStory",
+          "published": "2026-11-09T21:51:51Z"
+        },
+        {
           "title": "Occidental: Q3 Earnings Snapshot",
           "url": "https://finance.yahoo.com/markets/stocks/articles/occidental-q3-earnings-snapshot-213411526.html",
           "publisher": "Associated Press",
           "published": "2026-11-09T21:34:11Z"
-        },
-        {
-          "title": "5 Oil Stocks Could Turn $500,000 Into $14,000 a Year in Dividend Income",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/5-oil-stocks-could-turn-143720430.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-09T14:37:20Z"
         }
       ]
     },
@@ -983,6 +981,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/devon-energy-corporation-dvn-trending-130004805.html",
           "publisher": "Zacks",
           "published": "2026-11-09T13:00:04Z"
+        }
+      ]
+    },
+    {
+      "symbol": "BKR",
+      "name": "Baker Hughes",
+      "price": 48.45,
+      "previous_close": 47.87,
+      "change_pct": 1.21,
+      "market_cap": 48114652774.50874,
+      "headlines": [
+        {
+          "title": "Core Natural Resources, Bristow Group, CVR Energy, Baker Hughes, and Oceaneering shares plummet, what you need to know",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/core-natural-resources-bristow-group-182136821.html",
+          "publisher": "StockStory",
+          "published": "2026-11-08T18:21:36Z"
+        },
+        {
+          "title": "Basin rig count up one as prices drop",
+          "url": "https://finance.yahoo.com/energy/articles/basin-rig-count-one-prices-010100109.html",
+          "publisher": "Odessa American, Texas",
+          "published": "2026-11-07T01:01:00Z"
+        },
+        {
+          "title": "U.S. Oil, Gas Drillers See Minor Uptick as Oil Prices Crash",
+          "url": "https://finance.yahoo.com/energy/articles/u-oil-gas-drillers-see-182100596.html",
+          "publisher": "Oilprice.com",
+          "published": "2026-11-06T18:21:00Z"
         }
       ]
     },
