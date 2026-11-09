@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-09T23:12:37+00:00",
-  "as_of_local": "2026-11-09 23:12:37 UTC",
+  "as_of_utc": "2026-11-09T23:17:43+00:00",
+  "as_of_local": "2026-11-09 23:17:43 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "WFRD"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1545,34 +1547,6 @@
       ]
     },
     {
-      "symbol": "WFRD",
-      "name": "Weatherford",
-      "price": 85.5,
-      "previous_close": 84.43,
-      "change_pct": 1.27,
-      "market_cap": 6196209282.0,
-      "headlines": [
-        {
-          "title": "Why Is Baker Hughes Stock Falling?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-baker-hughes-stock-falling-141921435.html",
-          "publisher": "Trefis",
-          "published": "2026-11-06T14:19:21Z"
-        },
-        {
-          "title": "Should Jun\u00edn 5 Support Work Require Action From Weatherford International (WFRD) Investors?",
-          "url": "https://finance.yahoo.com/energy/articles/jun-n-5-support-require-131419197.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-10-30T13:14:19Z"
-        },
-        {
-          "title": "Weatherford: 3 Key Takeaways for Long-Term Investors",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/weatherford-3-key-takeaways-long-212002900.html",
-          "publisher": "Motley Fool",
-          "published": "2026-10-28T21:20:02Z"
-        }
-      ]
-    },
-    {
       "symbol": "NXE",
       "name": "NexGen Energy",
       "price": 8.75,
@@ -2115,8 +2089,8 @@
     },
     {
       "label": "WTI",
-      "price": 86.6,
-      "change_pct": -4.66
+      "price": 86.5,
+      "change_pct": -4.77
     },
     {
       "label": "Brent",
