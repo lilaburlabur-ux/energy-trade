@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-09T23:43:04+00:00",
-  "as_of_local": "2026-11-09 23:43:04 UTC",
+  "as_of_utc": "2026-11-09T23:48:15+00:00",
+  "as_of_local": "2026-11-09 23:48:15 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "WFRD"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -12,6 +14,12 @@
       "change_pct": -0.69,
       "market_cap": 671970295771.8015,
       "headlines": [
+        {
+          "title": "Exxon and Chevron Are Near Record Highs. Here's What History Says Happens Next.",
+          "url": "https://finance.yahoo.com/energy/articles/exxon-chevron-near-record-highs-233500920.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-09T23:35:00Z"
+        },
         {
           "title": "Exxon Mobil Stocks Move Lower 0.31% as Crude Slides Toward $87",
           "url": "https://finance.yahoo.com/energy/articles/exxon-mobil-stocks-move-lower-190037292.html",
@@ -23,12 +31,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/400-000-dividend-stocks-roth-181741045.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-09T18:17:41Z"
-        },
-        {
-          "title": "ExxonMobil (XOM) Pauses Work On Its Texas Hydrogen Facility",
-          "url": "https://finance.yahoo.com/energy/articles/exxonmobil-xom-pauses-texas-hydrogen-180912852.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-09T18:09:12Z"
         }
       ]
     },
@@ -41,6 +43,12 @@
       "market_cap": 411285249553.1785,
       "headlines": [
         {
+          "title": "Exxon and Chevron Are Near Record Highs. Here's What History Says Happens Next.",
+          "url": "https://finance.yahoo.com/energy/articles/exxon-chevron-near-record-highs-233500920.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-09T23:35:00Z"
+        },
+        {
           "title": "Kent Companies joins Pay With Points",
           "url": "https://finance.yahoo.com/small-business/articles/kent-companies-joins-pay-points-150000322.html",
           "publisher": "C-Store Dive",
@@ -51,12 +59,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/mattered-most-chevrons-latest-quarter-124605786.html",
           "publisher": "Trefis",
           "published": "2026-11-09T12:46:05Z"
-        },
-        {
-          "title": "3 Dividend Aristocrats Yielding More Than the 2027 COLA",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-dividend-aristocrats-yielding-more-123754735.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-09T12:37:54Z"
         }
       ]
     },
@@ -1033,9 +1035,9 @@
           "published": "2026-11-09T18:51:00Z"
         },
         {
-          "title": "Vistra and Constellation Both Fell Sharply After the Election. One Has Far More Exposure to Texas.",
-          "url": "https://finance.yahoo.com/energy/articles/vistra-constellation-both-fell-sharply-182500253.html",
-          "publisher": "Motley Fool",
+          "title": "Data-Center Moratoriums? They Aren\u2019t Showing Up in Constellation Energy\u2019s Guidance.",
+          "url": "https://www.barrons.com/articles/constellation-energy-earnings-stock-price-89dc5612?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
           "published": "2026-11-09T18:25:00Z"
         }
       ]
@@ -1545,34 +1547,6 @@
       ]
     },
     {
-      "symbol": "WFRD",
-      "name": "Weatherford",
-      "price": 85.5,
-      "previous_close": 84.43,
-      "change_pct": 1.27,
-      "market_cap": 6196209282.0,
-      "headlines": [
-        {
-          "title": "Why Is Baker Hughes Stock Falling?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-baker-hughes-stock-falling-141921435.html",
-          "publisher": "Trefis",
-          "published": "2026-11-06T14:19:21Z"
-        },
-        {
-          "title": "Should Jun\u00edn 5 Support Work Require Action From Weatherford International (WFRD) Investors?",
-          "url": "https://finance.yahoo.com/energy/articles/jun-n-5-support-require-131419197.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-10-30T13:14:19Z"
-        },
-        {
-          "title": "Weatherford: 3 Key Takeaways for Long-Term Investors",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/weatherford-3-key-takeaways-long-212002900.html",
-          "publisher": "Motley Fool",
-          "published": "2026-10-28T21:20:02Z"
-        }
-      ]
-    },
-    {
       "symbol": "NXE",
       "name": "NexGen Energy",
       "price": 8.75,
@@ -1861,6 +1835,12 @@
       "market_cap": 773083388.8531437,
       "headlines": [
         {
+          "title": "Hallador Energy (HNRG) Reports Break-Even Earnings for Q3",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/hallador-energy-hnrg-reports-break-223505693.html",
+          "publisher": "Zacks",
+          "published": "2026-11-09T22:35:05Z"
+        },
+        {
           "title": "What The Bulls Got Wrong Before Fluence Energy Fell 77%",
           "url": "https://finance.yahoo.com/markets/stocks/articles/bulls-got-wrong-fluence-energy-181531924.html",
           "publisher": "Simply Wall St.",
@@ -1871,12 +1851,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/fluence-energy-flnc-bargain-leadership-070952651.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-07T07:09:52Z"
-        },
-        {
-          "title": "Fluence Energy (FLNC) Stock May Be 27% Undervalued Following Storage Market Growth News",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/fluence-energy-flnc-stock-may-011218282.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-07T01:12:18Z"
         }
       ]
     },
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 86.35,
-      "change_pct": -4.93
+      "price": 86.46,
+      "change_pct": -4.81
     },
     {
       "label": "Brent",
-      "price": 92.24,
-      "change_pct": -6.18
+      "price": 92.39,
+      "change_pct": -6.03
     },
     {
       "label": "NatGas",
       "price": 3.2,
-      "change_pct": 6.87
+      "change_pct": 6.8
     }
   ]
 }
