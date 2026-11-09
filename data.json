@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-09T12:05:26+00:00",
-  "as_of_local": "2026-11-09 12:05:26 UTC",
+  "as_of_utc": "2026-11-09T12:10:27+00:00",
+  "as_of_local": "2026-11-09 12:10:27 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -97,6 +97,12 @@
       "market_cap": 204889159684.15454,
       "headlines": [
         {
+          "title": "GE Vernova Secures German Wind Turbine Order from Stadtwerke Heidenheim for 16.5 MW Project",
+          "url": "https://finance.yahoo.com/energy/articles/ge-vernova-secures-german-wind-114029355.html",
+          "publisher": "InvestorsHub",
+          "published": "2026-11-09T11:40:29Z"
+        },
+        {
           "title": "What State Street Industrial Select SPDR (XLI) Sold: GE Leads on Nov. 5",
           "url": "https://finance.yahoo.com/markets/stocks/articles/state-street-industrial-select-spdr-110548649.html",
           "publisher": "GuruFocus.com",
@@ -107,12 +113,6 @@
           "url": "https://finance.yahoo.com/energy/articles/nuscale-power-smr-said-q3-201417452.html",
           "publisher": "MarketBeat",
           "published": "2026-11-08T20:14:17Z"
-        },
-        {
-          "title": "Not Bloom Energy. Not Vistra. This AI Power Stock Just Posted a 96% Jump in Orders.",
-          "url": "https://finance.yahoo.com/energy/articles/not-bloom-energy-not-vistra-180500572.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-08T18:05:00Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 88.33,
-      "change_pct": -2.75
+      "price": 88.48,
+      "change_pct": -2.59
     },
     {
       "label": "Brent",
-      "price": 94.85,
-      "change_pct": -3.53
+      "price": 95.09,
+      "change_pct": -3.29
     },
     {
       "label": "NatGas",
-      "price": 3.01,
-      "change_pct": 0.37
+      "price": 3.02,
+      "change_pct": 0.83
     }
   ]
 }
