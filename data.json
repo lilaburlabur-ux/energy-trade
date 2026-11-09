@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-09T08:41:30+00:00",
-  "as_of_local": "2026-11-09 08:41:30 UTC",
+  "as_of_utc": "2026-11-09T08:46:36+00:00",
+  "as_of_local": "2026-11-09 08:46:36 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "D"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -701,34 +703,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/everyone-loves-6-5-pipeline-133500436.html",
           "publisher": "Motley Fool",
           "published": "2026-11-07T13:35:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "D",
-      "name": "Dominion Energy",
-      "price": 68.6,
-      "previous_close": 69.64,
-      "change_pct": -1.49,
-      "market_cap": 60338231608.688675,
-      "headlines": [
-        {
-          "title": "NextEra Energy vs. Southern Company: Which Dividend Stock Is Better for Retirement?",
-          "url": "https://finance.yahoo.com/energy/articles/nextera-energy-vs-southern-company-170424659.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-08T17:04:24Z"
-        },
-        {
-          "title": "Western Union Yields 13.5%. Is This Dividend Stock a Trap?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/western-union-yields-13-5-194740503.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-06T19:47:40Z"
-        },
-        {
-          "title": "NextEra Energy Vs. AES Corporation: Utility Scale Energy Production Just Got a Major Blue Boost",
-          "url": "https://finance.yahoo.com/energy/articles/nextera-energy-vs-aes-corporation-174545387.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-06T17:45:45Z"
         }
       ]
     },
@@ -2115,13 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 89.84,
-      "change_pct": -1.09
+      "price": 89.37,
+      "change_pct": -1.61
+    },
+    {
+      "label": "Brent",
+      "price": 96.2,
+      "change_pct": -2.16
     },
     {
       "label": "NatGas",
       "price": 3.02,
-      "change_pct": 0.73
+      "change_pct": 0.6
     }
   ]
 }
