@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-09T23:01:54+00:00",
+  "as_of": "2026-11-09T23:17:02+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -17,10 +17,10 @@
    "volume_vs_avg": "~1.1x",
    "heat_score": 68,
    "direction": "up",
-   "why": "Energy Fuels appoints Jeffrey Olsen to board of directors and audit committee",
+   "why": "UUUU: Energy Fuels Inc filed SEC Form 8-K: Leadership Update",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUVdKSHE1R0dIb3dGU0lhTGY5MFpNblJOSnhUZDg3U2NWYVR2ME5FUmhNRnBkTGtLQU9iZDUxenVKLU16Z3VDcnpqR3ZNemdQcUpvRkY4aHFiR1EtYTJVbmVKY1V4X2ZzTTdUOTFjX0NIUkktV2xyeDZtWEluWWt6bjVSeFhHT1JzODBrTEZ2bkg5RkxjZzhRQ0ZNLW92ZUZkYURRZXJZMVhadlJ5SHRPcUU3RzhDWGFvN18wenljQi1RR25EY1ZZZzFtNDhaVDVyZks4LQ?oc=5",
-   "published": "2026-11-09T22:02:00+00:00",
+   "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZ0dfOEJOaDBKSkpTX2xkQThycmxQcmdXTTJTcXdJcVF3WHliT0lTSkE3eEMwUGdhU0p4R1VjbUxVMEMyckxOZ2RybFgwUjRWRGVVYjFEbGdDYU1CMWRqbVhxZW9RcHVrZy1vNmwzQ2hMOGVfMjlObmZBXzJNakJPQV9lVDF1Y1RwMDJXWDlFdHdDOTRhTXBRc2FiSVg?oc=5",
+   "published": "2026-11-09T21:52:46+00:00",
    "sector": "Nuclear & Uranium"
   },
   {
@@ -59,8 +59,8 @@
    "rank": 4,
    "ticker": "GEV",
    "company": "GE Vernova Inc.",
-   "move_pct": 7.27,
-   "price": 830.37,
+   "move_pct": 7.24,
+   "price": 830.12,
    "volume": 4344714,
    "volume_vs_avg": "~1.3x",
    "heat_score": 47,
@@ -75,8 +75,8 @@
    "rank": 5,
    "ticker": "VST",
    "company": "Vistra Corp.",
-   "move_pct": 7.37,
-   "price": 134.0,
+   "move_pct": 7.35,
+   "price": 133.97,
    "volume": 7364286,
    "volume_vs_avg": "~0.9x",
    "heat_score": 45,
