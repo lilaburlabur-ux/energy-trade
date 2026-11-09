@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-09T22:06:44+00:00",
-  "as_of_local": "2026-11-09 22:06:44 UTC",
+  "as_of_utc": "2026-11-09T22:11:44+00:00",
+  "as_of_local": "2026-11-09 22:11:44 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "CVX"
+    "NEE"
   ],
   "stocks": [
     {
@@ -31,6 +31,34 @@
           "url": "https://finance.yahoo.com/energy/articles/exxonmobil-xom-pauses-texas-hydrogen-180912852.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-09T18:09:12Z"
+        }
+      ]
+    },
+    {
+      "symbol": "CVX",
+      "name": "Chevron",
+      "price": 210.78,
+      "previous_close": 212.61,
+      "change_pct": -0.86,
+      "market_cap": 411285249553.1785,
+      "headlines": [
+        {
+          "title": "Kent Companies joins Pay With Points",
+          "url": "https://finance.yahoo.com/small-business/articles/kent-companies-joins-pay-points-150000322.html",
+          "publisher": "C-Store Dive",
+          "published": "2026-11-09T15:00:00Z"
+        },
+        {
+          "title": "What Mattered Most In Chevron's Latest Quarter?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/mattered-most-chevrons-latest-quarter-124605786.html",
+          "publisher": "Trefis",
+          "published": "2026-11-09T12:46:05Z"
+        },
+        {
+          "title": "3 Dividend Aristocrats Yielding More Than the 2027 COLA",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-dividend-aristocrats-yielding-more-123754735.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-09T12:37:54Z"
         }
       ]
     },
@@ -115,34 +143,6 @@
           "url": "https://finance.yahoo.com/energy/articles/investors-may-respond-totalenergies-enxtpa-190944934.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-08T19:09:44Z"
-        }
-      ]
-    },
-    {
-      "symbol": "NEE",
-      "name": "NextEra Energy",
-      "price": 86.86,
-      "previous_close": 86.95,
-      "change_pct": -0.1,
-      "market_cap": 182172004696.234,
-      "headlines": [
-        {
-          "title": "Can DTE Energy Stock Jump 40%?",
-          "url": "https://finance.yahoo.com/energy/articles/dte-energy-stock-jump-40-124601912.html",
-          "publisher": "Trefis",
-          "published": "2026-11-09T12:46:01Z"
-        },
-        {
-          "title": "State Street Utilities SPDR (XLU) Sells NextEra and Southern on Nov. 5",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/state-street-utilities-spdr-xlu-110534996.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-09T11:05:34Z"
-        },
-        {
-          "title": "ETFs Are Net Sellers of NextEra Energy (NEE) on Thursday",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-nextera-energy-110357659.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-09T11:03:57Z"
         }
       ]
     },
@@ -1904,8 +1904,8 @@
           "name": "Chevron Corp",
           "short": "Chevron",
           "weight_pct": 18.29,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": -0.86,
+          "price": 210.78,
           "currency": "USD"
         },
         {
@@ -2003,8 +2003,8 @@
         "name": "Chevron Corp",
         "short": "Chevron",
         "weight_pct": 18.29,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": -0.86,
+        "price": 210.78,
         "currency": "USD"
       },
       {
@@ -2089,8 +2089,8 @@
     },
     {
       "label": "WTI",
-      "price": 86.4,
-      "change_pct": -4.88
+      "price": 86.38,
+      "change_pct": -4.9
     },
     {
       "label": "Brent",
@@ -2099,8 +2099,8 @@
     },
     {
       "label": "NatGas",
-      "price": 3.21,
-      "change_pct": 7.04
+      "price": 3.2,
+      "change_pct": 6.9
     }
   ]
 }
