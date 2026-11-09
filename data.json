@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-09T01:40:30+00:00",
-  "as_of_local": "2026-11-09 01:40:30 UTC",
+  "as_of_utc": "2026-11-09T01:45:45+00:00",
+  "as_of_local": "2026-11-09 01:45:45 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "NEE"
+    "OVV"
   ],
   "stocks": [
     {
@@ -143,6 +143,34 @@
           "url": "https://finance.yahoo.com/energy/articles/chevron-refineries-ran-98-january-155014932.html",
           "publisher": "TIKR",
           "published": "2026-11-08T15:50:14Z"
+        }
+      ]
+    },
+    {
+      "symbol": "NEE",
+      "name": "NextEra Energy",
+      "price": 86.95,
+      "previous_close": 88.25,
+      "change_pct": -1.47,
+      "market_cap": 182360754560.0799,
+      "headlines": [
+        {
+          "title": "NextEra Energy vs. Southern Company: Which Dividend Stock Is Better for Retirement?",
+          "url": "https://finance.yahoo.com/energy/articles/nextera-energy-vs-southern-company-170424659.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-08T17:04:24Z"
+        },
+        {
+          "title": "3 Top Picks With At Least 2% Dividend Yield",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-top-picks-least-2-160951965.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-07T16:09:51Z"
+        },
+        {
+          "title": "5 Best Stocks to Buy After Democrats\u2019 Midterm Election Victory",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/5-best-stocks-buy-democrats-135533261.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-11-07T13:55:33Z"
         }
       ]
     },
@@ -1295,34 +1323,6 @@
       ]
     },
     {
-      "symbol": "OVV",
-      "name": "Ovintiv",
-      "price": 60.52,
-      "previous_close": 60.91,
-      "change_pct": -0.64,
-      "market_cap": 16262212095.76479,
-      "headlines": [
-        {
-          "title": "Ovintiv Q3 Earnings Call Highlights",
-          "url": "https://finance.yahoo.com/energy/articles/ovintiv-q3-earnings-call-highlights-231409890.html",
-          "publisher": "MarketBeat",
-          "published": "2026-11-07T23:14:09Z"
-        },
-        {
-          "title": "Are Investors Undervaluing Ovintiv (OVV) Right Now?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/investors-undervaluing-ovintiv-ovv-now-134004981.html",
-          "publisher": "Zacks",
-          "published": "2026-11-06T13:40:04Z"
-        },
-        {
-          "title": "Ovintiv Inc (OVV) Q3 2026 Earnings Call Highlights: Strong Cash Flow, Logan Energy Deal, and ...",
-          "url": "https://finance.yahoo.com/energy/articles/ovintiv-inc-ovv-q3-2026-050822109.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-05T05:08:22Z"
-        }
-      ]
-    },
-    {
       "symbol": "NXT",
       "name": "Nextracker",
       "price": 104.9,
@@ -2089,13 +2089,13 @@
     },
     {
       "label": "WTI",
-      "price": 90.54,
-      "change_pct": -0.32
+      "price": 90.24,
+      "change_pct": -0.65
     },
     {
       "label": "Brent",
-      "price": 97.42,
-      "change_pct": -0.92
+      "price": 97.17,
+      "change_pct": -1.17
     },
     {
       "label": "NatGas",
