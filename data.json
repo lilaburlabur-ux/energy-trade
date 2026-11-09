@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-09T14:22:11+00:00",
-  "as_of_local": "2026-11-09 14:22:11 UTC",
+  "as_of_utc": "2026-11-09T14:27:08+00:00",
+  "as_of_local": "2026-11-09 14:27:08 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -461,6 +461,12 @@
       "market_cap": 81501271409.14124,
       "headlines": [
         {
+          "title": "A Fund With $4.4 Billion in US Equities Bought These 3 Stocks",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/fund-4-4-billion-us-135107188.html",
+          "publisher": "TIKR",
+          "published": "2026-11-09T13:51:07Z"
+        },
+        {
           "title": "Can Utility Infrastructure Spending Boost Quanta's Transmission Work?",
           "url": "https://finance.yahoo.com/energy/articles/utility-infrastructure-spending-boost-quantas-130100784.html",
           "publisher": "Zacks",
@@ -471,12 +477,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-091400948.html",
           "publisher": "Zacks",
           "published": "2026-11-09T09:14:00Z"
-        },
-        {
-          "title": "What Sent Quanta Stock Lower?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/sent-quanta-stock-lower-012851673.html",
-          "publisher": "Trefis",
-          "published": "2026-11-07T01:28:51Z"
         }
       ]
     },
@@ -1105,6 +1105,12 @@
       "market_cap": 30902142697.712677,
       "headlines": [
         {
+          "title": "Natural Gas Prices Gain 3.5% for the Week: What's Next?",
+          "url": "https://finance.yahoo.com/energy/articles/natural-gas-prices-gain-3-131200133.html",
+          "publisher": "Zacks",
+          "published": "2026-11-09T13:12:00Z"
+        },
+        {
           "title": "Do Wall Street Analysts Like EQT Corporation Stock?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-eqt-corporation-111402304.html",
           "publisher": "Barchart",
@@ -1115,12 +1121,6 @@
           "url": "https://finance.yahoo.com/energy/articles/why-everyone-ignoring-expand-energy-000859092.html",
           "publisher": "Trefis",
           "published": "2026-11-06T00:08:59Z"
-        },
-        {
-          "title": "William Blair shakes up its top stock picks",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/william-blair-shakes-top-stock-162539821.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-02T16:25:39Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 86.85,
-      "change_pct": -4.38
+      "price": 86.88,
+      "change_pct": -4.35
     },
     {
       "label": "Brent",
-      "price": 93.59,
-      "change_pct": -4.81
+      "price": 93.57,
+      "change_pct": -4.83
     },
     {
       "label": "NatGas",
-      "price": 3.15,
-      "change_pct": 4.97
+      "price": 3.17,
+      "change_pct": 5.67
     }
   ]
 }
