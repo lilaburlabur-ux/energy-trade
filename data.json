@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-09T06:55:34+00:00",
-  "as_of_local": "2026-11-09 06:55:34 UTC",
+  "as_of_utc": "2026-11-09T07:10:48+00:00",
+  "as_of_local": "2026-11-09 07:10:48 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "FANG"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -927,6 +925,34 @@
           "url": "https://finance.yahoo.com/energy/articles/bloom-energy-lands-900-megawatt-160915925.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-08T16:09:15Z"
+        }
+      ]
+    },
+    {
+      "symbol": "FANG",
+      "name": "Diamondback Energy",
+      "price": 178.96,
+      "previous_close": 179.58,
+      "change_pct": -0.35,
+      "market_cap": 49959878699.65581,
+      "headlines": [
+        {
+          "title": "Diamondback Energy (FANG) Raises Dividend While Holding Shale Drilling In Check",
+          "url": "https://finance.yahoo.com/energy/articles/diamondback-energy-fang-raises-dividend-080848730.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-08T08:08:48Z"
+        },
+        {
+          "title": "Devon Energy Stock And Other Oil Producers Facing Inflation Pressure",
+          "url": "https://finance.yahoo.com/energy/articles/devon-energy-stock-other-oil-221413315.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-07T22:14:13Z"
+        },
+        {
+          "title": "Here's What Key Metrics Tell Us About Diamondback (FANG) Q3 Earnings",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/heres-key-metrics-tell-us-223002143.html",
+          "publisher": "Zacks",
+          "published": "2026-11-06T22:30:02Z"
         }
       ]
     },
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 89.6,
-      "change_pct": -1.35
+      "price": 89.97,
+      "change_pct": -0.95
     },
     {
       "label": "Brent",
-      "price": 96.5,
-      "change_pct": -1.85
+      "price": 96.88,
+      "change_pct": -1.46
     },
     {
       "label": "NatGas",
-      "price": 3.02,
-      "change_pct": 0.57
+      "price": 3.0,
+      "change_pct": 0.13
     }
   ]
 }
