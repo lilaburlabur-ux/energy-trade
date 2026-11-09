@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-09T22:37:15+00:00",
-  "as_of_local": "2026-11-09 22:37:15 UTC",
+  "as_of_utc": "2026-11-09T22:42:13+00:00",
+  "as_of_local": "2026-11-09 22:42:13 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "SLB"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -623,6 +621,34 @@
       ]
     },
     {
+      "symbol": "SLB",
+      "name": "SLB (Schlumberger)",
+      "price": 50.38,
+      "previous_close": 49.92,
+      "change_pct": 0.92,
+      "market_cap": 74362373479.50972,
+      "headlines": [
+        {
+          "title": "SLB (SLB) Stock Still Looks Undervalued Despite Its 70% Run",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/slb-slb-stock-still-looks-151819577.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-07T15:18:19Z"
+        },
+        {
+          "title": "SLB (SLB) Could Be 20% Below Fair Value After New Contract Wins",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/slb-slb-could-20-below-141006503.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-07T14:10:06Z"
+        },
+        {
+          "title": "Why Is SLB (SLB) Pairing A Norway Contract With New Production Chemistry?",
+          "url": "https://finance.yahoo.com/energy/articles/why-slb-slb-pairing-norway-001149806.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-07T00:11:49Z"
+        }
+      ]
+    },
+    {
       "symbol": "KMI",
       "name": "Kinder Morgan",
       "price": 30.57,
@@ -889,14 +915,14 @@
           "published": "2026-11-09T18:00:00Z"
         },
         {
-          "title": "Entergy Louisiana (ELC) Q3 2026 Earnings Call Transcript",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/entergy-louisiana-elc-q3-2026-153058722.html",
+          "title": "Entergy Mississippi (EMP) Q3 2026 Earnings Call Transcript",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/entergy-mississippi-emp-q3-2026-153058833.html",
           "publisher": "Motley Fool",
           "published": "2026-11-09T15:30:58Z"
         },
         {
-          "title": "Entergy Mississippi (EMP) Q3 2026 Earnings Call Transcript",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/entergy-mississippi-emp-q3-2026-153058833.html",
+          "title": "Entergy Louisiana (ELC) Q3 2026 Earnings Call Transcript",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/entergy-louisiana-elc-q3-2026-153058722.html",
           "publisher": "Motley Fool",
           "published": "2026-11-09T15:30:58Z"
         }
@@ -1007,9 +1033,9 @@
           "published": "2026-11-09T18:51:00Z"
         },
         {
-          "title": "Data-Center Moratoriums? They Aren\u2019t Showing Up in Constellation Energy\u2019s Guidance.",
-          "url": "https://www.barrons.com/articles/constellation-energy-earnings-stock-price-89dc5612?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
+          "title": "Vistra and Constellation Both Fell Sharply After the Election. One Has Far More Exposure to Texas.",
+          "url": "https://finance.yahoo.com/energy/articles/vistra-constellation-both-fell-sharply-182500253.html",
+          "publisher": "Motley Fool",
           "published": "2026-11-09T18:25:00Z"
         }
       ]
@@ -1967,8 +1993,8 @@
           "name": "SLB Ltd",
           "short": "SLB",
           "weight_pct": 3.74,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": 0.92,
+          "price": 50.38,
           "currency": "USD"
         },
         {
@@ -2066,8 +2092,8 @@
         "name": "SLB Ltd",
         "short": "SLB",
         "weight_pct": 3.74,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": 0.92,
+        "price": 50.38,
         "currency": "USD"
       },
       {
