@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-09T10:54:25+00:00",
-  "as_of_local": "2026-11-09 10:54:25 UTC",
+  "as_of_utc": "2026-11-09T10:59:22+00:00",
+  "as_of_local": "2026-11-09 10:59:22 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NOV"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1517,34 +1519,6 @@
       ]
     },
     {
-      "symbol": "NOV",
-      "name": "NOV Inc",
-      "price": 17.56,
-      "previous_close": 17.39,
-      "change_pct": 0.98,
-      "market_cap": 6260359151.561789,
-      "headlines": [
-        {
-          "title": "Why Is Baker Hughes Stock Falling?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-baker-hughes-stock-falling-141921435.html",
-          "publisher": "Trefis",
-          "published": "2026-11-06T14:19:21Z"
-        },
-        {
-          "title": "CRGY Q3 Earnings Beat on Higher Oil Prices and Production",
-          "url": "https://finance.yahoo.com/energy/articles/crgy-q3-earnings-beat-higher-163600754.html",
-          "publisher": "Zacks",
-          "published": "2026-11-05T16:36:00Z"
-        },
-        {
-          "title": "NOV Expects Higher Offshore Bookings on Strong FPSO Project Pipeline",
-          "url": "https://finance.yahoo.com/energy/articles/nov-expects-higher-offshore-bookings-141000583.html",
-          "publisher": "Zacks",
-          "published": "2026-11-02T14:10:00Z"
-        }
-      ]
-    },
-    {
       "symbol": "WFRD",
       "name": "Weatherford",
       "price": 84.43,
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 89.86,
-      "change_pct": -1.07
+      "price": 89.66,
+      "change_pct": -1.29
     },
     {
       "label": "Brent",
-      "price": 96.94,
-      "change_pct": -1.4
+      "price": 96.65,
+      "change_pct": -1.7
     },
     {
       "label": "NatGas",
       "price": 3.02,
-      "change_pct": 0.8
+      "change_pct": 0.87
     }
   ]
 }
