@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-09T08:51:44+00:00",
-  "as_of_local": "2026-11-09 08:51:44 UTC",
+  "as_of_utc": "2026-11-09T08:56:42+00:00",
+  "as_of_local": "2026-11-09 08:56:42 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "CEG"
+    "AR"
   ],
   "stocks": [
     {
@@ -423,6 +423,34 @@
           "url": "https://finance.yahoo.com/energy/articles/mpcs-gulf-coast-focus-fuel-163900782.html",
           "publisher": "Zacks",
           "published": "2026-11-05T16:39:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "CEG",
+      "name": "Constellation Energy",
+      "price": 249.95,
+      "previous_close": 239.65,
+      "change_pct": 4.3,
+      "market_cap": 88559128299.78969,
+      "headlines": [
+        {
+          "title": "Inflation Data, Constellation Energy, Skydance, Applied Materials, and More to Watch This Week",
+          "url": "https://www.barrons.com/articles/inflation-data-constellation-energy-skydance-applied-materials-stocks-b662c219?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-11-08T19:00:00Z"
+        },
+        {
+          "title": "Dear Constellation Energy Stock Fans, Mark Your Calendars for November 9",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/dear-constellation-energy-stock-fans-135824383.html",
+          "publisher": "Barchart",
+          "published": "2026-11-08T13:58:24Z"
+        },
+        {
+          "title": "Constellation Energy Just Dropped 17% in a Month. Is It Time to Sell, or Load Up?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/constellation-energy-just-dropped-17-040804790.html",
+          "publisher": "TIKR",
+          "published": "2026-11-08T04:08:04Z"
         }
       ]
     },
@@ -1407,34 +1435,6 @@
       ]
     },
     {
-      "symbol": "AR",
-      "name": "Antero Resources",
-      "price": 36.08,
-      "previous_close": 36.38,
-      "change_pct": -0.82,
-      "market_cap": 11081467442.382812,
-      "headlines": [
-        {
-          "title": "Why Is Everyone Ignoring Expand Energy Stock's High Cash Yield?",
-          "url": "https://finance.yahoo.com/energy/articles/why-everyone-ignoring-expand-energy-000859092.html",
-          "publisher": "Trefis",
-          "published": "2026-11-06T00:08:59Z"
-        },
-        {
-          "title": "1 growth stock to add to your roster and 2 we turn down",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/1-growth-stock-add-roster-115736291.html",
-          "publisher": "StockStory",
-          "published": "2026-11-03T11:57:36Z"
-        },
-        {
-          "title": "Eni Begins Maha Gas Production, Boosting Indonesia's Offshore Output",
-          "url": "https://finance.yahoo.com/energy/articles/eni-begins-maha-gas-production-160100997.html",
-          "publisher": "Zacks",
-          "published": "2026-11-02T16:01:00Z"
-        }
-      ]
-    },
-    {
       "symbol": "BWXT",
       "name": "BWX Technologies",
       "price": 119.52,
@@ -2089,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 89.63,
-      "change_pct": -1.32
+      "price": 89.64,
+      "change_pct": -1.31
     },
     {
       "label": "Brent",
-      "price": 96.38,
-      "change_pct": -1.97
+      "price": 96.55,
+      "change_pct": -1.8
     },
     {
       "label": "NatGas",
-      "price": 3.02,
-      "change_pct": 0.77
+      "price": 3.03,
+      "change_pct": 0.93
     }
   ]
 }
