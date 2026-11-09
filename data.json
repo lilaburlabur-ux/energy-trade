@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-09T14:01:58+00:00",
-  "as_of_local": "2026-11-09 14:01:58 UTC",
+  "as_of_utc": "2026-11-09T14:07:13+00:00",
+  "as_of_local": "2026-11-09 14:07:13 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "HUBB"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1181,34 +1183,6 @@
       ]
     },
     {
-      "symbol": "HUBB",
-      "name": "Hubbell",
-      "price": 429.45,
-      "previous_close": 418.79,
-      "change_pct": 2.55,
-      "market_cap": 22690006425.708923,
-      "headlines": [
-        {
-          "title": "Hubbell: 3 Key Takeaways for Long-Term Investors",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/hubbell-3-key-takeaways-long-232002420.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-08T23:20:02Z"
-        },
-        {
-          "title": "3 Value Dividend Stocks To Watch As Rate Cut Hopes Fade",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-value-dividend-stocks-watch-191455855.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-07T19:14:55Z"
-        },
-        {
-          "title": "What Should Eaton Stock Holders Take From The September Quarter?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/eaton-stock-holders-september-quarter-231057575.html",
-          "publisher": "Trefis",
-          "published": "2026-11-06T23:10:57Z"
-        }
-      ]
-    },
-    {
       "symbol": "FSLR",
       "name": "First Solar",
       "price": 201.14,
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 86.8,
-      "change_pct": -4.44
+      "price": 86.66,
+      "change_pct": -4.59
     },
     {
       "label": "Brent",
-      "price": 93.67,
-      "change_pct": -4.73
+      "price": 93.52,
+      "change_pct": -4.88
     },
     {
       "label": "NatGas",
-      "price": 3.14,
-      "change_pct": 4.77
+      "price": 3.13,
+      "change_pct": 4.57
     }
   ]
 }
