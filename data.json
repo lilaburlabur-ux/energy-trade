@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-09T12:10:27+00:00",
-  "as_of_local": "2026-11-09 12:10:27 UTC",
+  "as_of_utc": "2026-11-09T12:15:27+00:00",
+  "as_of_local": "2026-11-09 12:15:27 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -237,6 +237,12 @@
       "market_cap": 114693785180.60342,
       "headlines": [
         {
+          "title": "Take the Zacks Approach to Beat the Markets: Ulta Beauty, Accenture, HCA in Focus",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-approach-beat-markets-ulta-110300678.html",
+          "publisher": "Zacks",
+          "published": "2026-11-09T11:03:00Z"
+        },
+        {
           "title": "Clean Energy Fuels Corp (CLNE) (Q3 2026) Earnings Call Highlights: Raised Guidance, Surging RNG ...",
           "url": "https://finance.yahoo.com/energy/articles/clean-energy-fuels-corp-clne-052748917.html",
           "publisher": "GuruFocus.com",
@@ -247,12 +253,6 @@
           "url": "https://finance.yahoo.com/energy/articles/3-british-energy-stocks-earnings-211322595.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-05T21:13:22Z"
-        },
-        {
-          "title": "Sector Update: Energy Stocks Drop Thursday",
-          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-drop-thursday-210255557.html",
-          "publisher": "MT Newswires",
-          "published": "2026-11-05T21:02:55Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 88.48,
-      "change_pct": -2.59
+      "price": 88.33,
+      "change_pct": -2.75
     },
     {
       "label": "Brent",
-      "price": 95.09,
-      "change_pct": -3.29
+      "price": 94.98,
+      "change_pct": -3.4
     },
     {
       "label": "NatGas",
-      "price": 3.02,
-      "change_pct": 0.83
+      "price": 3.01,
+      "change_pct": 0.5
     }
   ]
 }
