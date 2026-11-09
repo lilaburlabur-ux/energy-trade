@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-07T05:19:47+00:00",
+  "as_of": "2026-11-09T00:04:02+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,35 +9,19 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "VST",
-   "company": "Vistra Corp.",
-   "move_pct": 10.55,
-   "price": 124.8,
-   "volume": 12511500,
-   "volume_vs_avg": "~2x",
-   "heat_score": 70,
+   "ticker": "OKLO",
+   "company": "Oklo Inc.",
+   "move_pct": 22.66,
+   "price": 23.55,
+   "volume": 24874600,
+   "volume_vs_avg": "~3x",
+   "heat_score": 91,
    "direction": "up",
-   "why": "GE Vernova vs. Vistra: Which Industrials Stock Is a Better Buy for 2027?",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWDczNC1QeW44WUhDVkFRcVc2VTUtbG5rQjNHLWV0b2VUeEtpbU9TX0NDYzl5eGM3ZHZ6QmcyOFVYVEhyODg5VEpneU9CbUVqVnF3eU0yV2NpYnlWVHg1RWFsS0NSVHdmUFdRNlEzLWpIQVFpbEUtWTNDVVNsSkthdEVoYzhucDFrWERLZlJTUF9JRzQ?oc=5",
-   "published": "2026-11-07T02:37:30+00:00",
-   "sector": "Power & IPPs"
-  },
-  {
-   "rank": 2,
-   "ticker": "PWR",
-   "company": "Quanta Services, Inc.",
-   "move_pct": 6.25,
-   "price": 540.9,
-   "volume": 2775400,
-   "volume_vs_avg": "~2x",
-   "heat_score": 47,
-   "direction": "up",
-   "why": "What Sent Quanta Stock Lower?",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcWtPQ3RUMEMxME16SVRPdFdiNlBKamF1SG1SWXkyZWRUOUtGZEgxYUN1Z19RZGJWMkhmWVBpQlp5b0FFNXYxSzRvUlpCV1Vqa2xZZVZqYWZPOWdOSnFUM0VCMmNoSU9Xb3ZYU0RUN0RuUEc0M0t3RXl5c0c3WXljQ0JpREpvaW8yaVYxbkNjVEdRZw?oc=5",
-   "published": "2026-11-07T01:27:22+00:00",
-   "sector": "Grid, Storage & Electrification"
+   "why": "Nuclear stocks surge as Oklo results spark rally for reactors, uranium suppliers (OKLO:NYSE)",
+   "catalyst_type": "earnings",
+   "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMW5tUE91cENKZnpEaS03QVNBZVluM3hnVXlhb3NIWEZpeWgyWExkMWljWlhpMVJfd0Rpcms4N0JPMXFnS1BqenFUeFd6ZG1abkV0N1IxVFcyYXRuMmxSS19iNmh0QTh0Z0tlYTh1amhxUllkT3NsQ2s1TERpZUZ0Mlk3R3ZJemZZMG9nbEtKdk5jS1ZCQ29lTzJmRVcyaWszZHo5V3pvMEszMmZhNXYxaTZnaGVjeXhD?oc=5",
+   "published": "2026-11-08T22:51:00+00:00",
+   "sector": "Nuclear & Uranium"
   }
  ]
 }
