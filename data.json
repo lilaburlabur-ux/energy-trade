@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-09T11:39:57+00:00",
-  "as_of_local": "2026-11-09 11:39:57 UTC",
+  "as_of_utc": "2026-11-09T11:45:09+00:00",
+  "as_of_local": "2026-11-09 11:45:09 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "GEV"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -87,6 +85,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/shell-2-british-undervalued-stocks-061351421.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-07T06:13:51Z"
+        }
+      ]
+    },
+    {
+      "symbol": "GEV",
+      "name": "GE Vernova",
+      "price": 774.11,
+      "previous_close": 770.51,
+      "change_pct": 0.47,
+      "market_cap": 204889159684.15454,
+      "headlines": [
+        {
+          "title": "What State Street Industrial Select SPDR (XLI) Sold: GE Leads on Nov. 5",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/state-street-industrial-select-spdr-110548649.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-09T11:05:48Z"
+        },
+        {
+          "title": "What NuScale Power (SMR) Said on Its Q3 Earnings Call",
+          "url": "https://finance.yahoo.com/energy/articles/nuscale-power-smr-said-q3-201417452.html",
+          "publisher": "MarketBeat",
+          "published": "2026-11-08T20:14:17Z"
+        },
+        {
+          "title": "Not Bloom Energy. Not Vistra. This AI Power Stock Just Posted a 96% Jump in Orders.",
+          "url": "https://finance.yahoo.com/energy/articles/not-bloom-energy-not-vistra-180500572.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-08T18:05:00Z"
         }
       ]
     },
@@ -2089,8 +2115,8 @@
     },
     {
       "label": "WTI",
-      "price": 88.31,
-      "change_pct": -2.77
+      "price": 88.22,
+      "change_pct": -2.87
     },
     {
       "label": "Brent",
@@ -2100,7 +2126,7 @@
     {
       "label": "NatGas",
       "price": 3.0,
-      "change_pct": 0.17
+      "change_pct": 0.2
     }
   ]
 }
