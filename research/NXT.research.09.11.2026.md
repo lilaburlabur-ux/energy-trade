@@ -4,8 +4,8 @@ Signed file: `NXT.research.09.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $106.24 (2026-11-09, ~15-min delayed) |
-| Market cap | $16.20B |
+| Current price | $106.19 (2026-11-09, ~15-min delayed) |
+| Market cap | $16.19B |
 | Sector / Industry | Technology / Solar |
 | Main theme | Solar — see catalysts below |
 | Current stance | Low technical momentum, strong fundamentals, value: reasonable, risk: high. |
@@ -15,8 +15,8 @@ Signed file: `NXT.research.09.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-0.61%) with negative half-year (-15.86%). |
-| Fresh setup quality | Poor / broken | -32.07% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-0.65%) with negative half-year (-15.90%). |
+| Fresh setup quality | Poor / broken | -32.10% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 15.98%, revenue growth 22.50%. |
 | Value attractiveness | Reasonable | Forward P/E 18.59, EV/Sales 3.86. |
 | Risk level | High | Beta 1.93, ATR 6.4% of price, short float 8.91%. |
@@ -44,19 +44,19 @@ Nextpower Inc. provides solar and energy technology solutions for utility-scale 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $106.24; 52w high $156.40 (-32.07%); 52w low $76.48 (+38.91%) |
-| Trend | -0.61% vs SMA200, +26.26% vs SMA50, +22.57% vs SMA20 |
+| Price vs 52-week range | Close $106.19; 52w high $156.40 (-32.10%); 52w low $76.48 (+38.85%) |
+| Trend | -0.65% vs SMA200, +26.20% vs SMA50, +22.51% vs SMA20 |
 | Momentum | RSI(14) 68.0 (neutral) |
 | Volatility | ATR(14) 6.79 (~6.4% of price); beta 1.93 |
-| Setup perspective | -32.07% from 52w high — base needs to rebuild. |
+| Setup perspective | -32.10% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +16.6% |
-| Month | +23.4% |
-| Quarter | +1.3% |
+| Week | +16.5% |
+| Month | +23.3% |
+| Quarter | +1.2% |
 | Half Y | -15.9% |
 | 1Y | -0.3% |
 | YTD | +14.5% |
@@ -68,7 +68,7 @@ Nextpower Inc. provides solar and energy technology solutions for utility-scale 
 | Revenue (ttm) | $3.83B | Revenue growth 22.50% y/y |
 | Profitability | Gross 21.84%, operating 20.05%, net 15.98% | ROA 10.75%, ROE 26.46% |
 | Balance sheet | Cash $1.03B, debt $44.50M | Current ratio 2.23, debt/equity 1.68 |
-| Valuation | P/E 26.76, forward P/E 18.59, P/S 4.22, P/B 6.05 | EV/Sales 3.86, EV/EBITDA 19.60 |
+| Valuation | P/E 26.75, forward P/E 18.59, P/S 4.22, P/B 6.05 | EV/Sales 3.86, EV/EBITDA 19.60 |
 | Growth expectations | Earnings growth 11.30%, EPS q/q 12.70% | Analyst mean target $127.14 (29 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -112,17 +112,17 @@ Nextpower Inc. provides solar and energy technology solutions for utility-scale 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $106.24 | EV/Sales | 3.86 |
-| Market cap | $16.20B | EV/EBITDA | 19.60 |
+| Price | $106.19 | EV/Sales | 3.86 |
+| Market cap | $16.19B | EV/EBITDA | 19.60 |
 | Beta | 1.93 | Gross margin | 21.84% |
 | RSI(14) | 68.0 | Operating margin | 20.05% |
 | ATR(14) | 6.79 | Profit margin | 15.98% |
-| SMA20 dist | +22.57% | ROA | 10.75% |
-| SMA50 dist | +26.26% | ROE | 26.46% |
-| SMA200 dist | -0.61% | Revenue (ttm) | $3.83B |
+| SMA20 dist | +22.51% | ROA | 10.75% |
+| SMA50 dist | +26.20% | ROE | 26.46% |
+| SMA200 dist | -0.65% | Revenue (ttm) | $3.83B |
 | 52W high | $156.40 | Revenue growth y/y | 22.50% |
 | 52W low | $76.48 | Inst. ownership | 110.00% |
-| P/E (ttm) | 26.76 | Insider ownership | 0.65% |
+| P/E (ttm) | 26.75 | Insider ownership | 0.65% |
 | Forward P/E | 18.59 | Short float | 8.91% |
 | PEG (trailing) | 3.15 | Avg volume | 2,399,073 |
 | P/S | 4.22 | Employees | 1,993 |

@@ -4,8 +4,8 @@ Signed file: `PWR.research.09.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $595.02 (2026-11-09, ~15-min delayed) |
-| Market cap | $89.66B |
+| Current price | $594.78 (2026-11-09, ~15-min delayed) |
+| Market cap | $89.62B |
 | Sector / Industry | Industrials / Engineering & Construction |
 | Main theme | Engineering & Construction — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: fair-to-demanding, risk: high. |
@@ -15,10 +15,10 @@ Signed file: `PWR.research.09.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-5.50%) with negative half-year (-23.83%). |
-| Fresh setup quality | Moderate / wait | -24.20% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-5.54%) with negative half-year (-23.86%). |
+| Fresh setup quality | Moderate / wait | -24.23% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 4.51%, revenue growth 57.40%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 27.50, EV/Sales 2.33. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 27.49, EV/Sales 2.33. |
 | Risk level | High | Beta 1.28, ATR 6.5% of price, short float 2.63%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: fair-to-demanding, risk: high.
@@ -44,11 +44,11 @@ Quanta Services, Inc. offers infrastructure solutions for the electric and gas u
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $595.02; 52w high $784.99 (-24.20%); 52w low $412.96 (+44.09%) |
-| Trend | -5.50% vs SMA200, -5.38% vs SMA50, -1.22% vs SMA20 |
+| Price vs 52-week range | Close $594.78; 52w high $784.99 (-24.23%); 52w low $412.96 (+44.03%) |
+| Trend | -5.54% vs SMA200, -5.42% vs SMA50, -1.26% vs SMA20 |
 | Momentum | RSI(14) 48.0 (neutral) |
-| Volatility | ATR(14) 38.42 (~6.5% of price); beta 1.28 |
-| Setup perspective | -24.20% from 52w high; no clean fresh pivot by default. |
+| Volatility | ATR(14) 38.45 (~6.5% of price); beta 1.28 |
+| Setup perspective | -24.23% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
@@ -57,9 +57,9 @@ Quanta Services, Inc. offers infrastructure solutions for the electric and gas u
 | Week | -4.2% |
 | Month | -15.7% |
 | Quarter | -11.3% |
-| Half Y | -23.8% |
-| 1Y | +34.5% |
-| YTD | +35.4% |
+| Half Y | -23.9% |
+| 1Y | +34.4% |
+| YTD | +35.3% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Quanta Services, Inc. offers infrastructure solutions for the electric and gas u
 | Revenue (ttm) | $37.29B | Revenue growth 57.40% y/y |
 | Profitability | Gross 15.76%, operating 8.63%, net 4.51% | ROA 5.72%, ROE 18.02% |
 | Balance sheet | Cash $2.32B, debt $7.51B | Current ratio 1.16, debt/equity 70.72 |
-| Valuation | P/E 53.85, forward P/E 27.50, P/S 2.40, P/B 8.51 | EV/Sales 2.33, EV/EBITDA 23.82 |
+| Valuation | P/E 53.83, forward P/E 27.49, P/S 2.40, P/B 8.50 | EV/Sales 2.33, EV/EBITDA 23.82 |
 | Growth expectations | Earnings growth 103.10%, EPS q/q 104.70% | Analyst mean target $770.42 (29 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ Quanta Services, Inc. offers infrastructure solutions for the electric and gas u
 | Morgan Stanley | 2,311,374 | 1.53% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 27.50, EV/Sales 2.33. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 27.49, EV/Sales 2.33. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 1.28, ATR 6.5% of price, short float 2.63%. Size positions accordingly.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -111,21 +111,21 @@ Quanta Services, Inc. offers infrastructure solutions for the electric and gas u
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $595.02 | EV/Sales | 2.33 |
-| Market cap | $89.66B | EV/EBITDA | 23.82 |
+| Price | $594.78 | EV/Sales | 2.33 |
+| Market cap | $89.62B | EV/EBITDA | 23.82 |
 | Beta | 1.28 | Gross margin | 15.76% |
 | RSI(14) | 48.0 | Operating margin | 8.63% |
-| ATR(14) | 38.42 | Profit margin | 4.51% |
-| SMA20 dist | -1.22% | ROA | 5.72% |
-| SMA50 dist | -5.38% | ROE | 18.02% |
-| SMA200 dist | -5.50% | Revenue (ttm) | $37.29B |
+| ATR(14) | 38.45 | Profit margin | 4.51% |
+| SMA20 dist | -1.26% | ROA | 5.72% |
+| SMA50 dist | -5.42% | ROE | 18.02% |
+| SMA200 dist | -5.54% | Revenue (ttm) | $37.29B |
 | 52W high | $784.99 | Revenue growth y/y | 57.40% |
 | 52W low | $412.96 | Inst. ownership | 91.79% |
-| P/E (ttm) | 53.85 | Insider ownership | 0.65% |
-| Forward P/E | 27.50 | Short float | 2.63% |
+| P/E (ttm) | 53.83 | Insider ownership | 0.65% |
+| Forward P/E | 27.49 | Short float | 2.63% |
 | PEG (trailing) | 0.98 | Avg volume | 1,191,154 |
 | P/S | 2.40 | Employees | 69,500 |
-| P/B | 8.51 | Analyst rec (1=buy..5=sell) | 1.4 |
+| P/B | 8.50 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

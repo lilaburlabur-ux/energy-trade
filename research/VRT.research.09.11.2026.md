@@ -4,8 +4,8 @@ Signed file: `VRT.research.09.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $201.12 (2026-11-09, ~15-min delayed) |
-| Market cap | $77.44B |
+| Current price | $201.03 (2026-11-09, ~15-min delayed) |
+| Market cap | $77.41B |
 | Sector / Industry | Industrials / Electrical Equipment & Parts |
 | Main theme | Electrical Equipment & Parts — see catalysts below |
 | Current stance | Low technical momentum, strong fundamentals, value: fair-to-demanding, risk: high. |
@@ -15,8 +15,8 @@ Signed file: `VRT.research.09.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-25.85%) with negative half-year (-45.31%). |
-| Fresh setup quality | Poor / broken | -46.52% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-25.88%) with negative half-year (-45.34%). |
+| Fresh setup quality | Poor / broken | -46.54% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 16.00%, revenue growth 61.20%. |
 | Value attractiveness | Fair-to-demanding | Forward P/E 20.43, EV/Sales 5.34. |
 | Risk level | High | Beta 2.11, ATR 8.6% of price, short float 3.63%. |
@@ -44,17 +44,17 @@ Vertiv Holdings Co designs, manufactures, and services critical digital infrastr
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $201.12; 52w high $376.06 (-46.52%); 52w low $149.73 (+34.32%) |
-| Trend | -25.85% vs SMA200, -14.73% vs SMA50, -5.34% vs SMA20 |
+| Price vs 52-week range | Close $201.03; 52w high $376.06 (-46.54%); 52w low $149.73 (+34.26%) |
+| Trend | -25.88% vs SMA200, -14.77% vs SMA50, -5.38% vs SMA20 |
 | Momentum | RSI(14) 43.8 (neutral) |
 | Volatility | ATR(14) 17.21 (~8.6% of price); beta 2.11 |
-| Setup perspective | -46.52% from 52w high — base needs to rebuild. |
+| Setup perspective | -46.54% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -10.3% |
+| Week | -10.4% |
 | Month | -17.2% |
 | Quarter | -28.6% |
 | Half Y | -45.3% |
@@ -68,7 +68,7 @@ Vertiv Holdings Co designs, manufactures, and services critical digital infrastr
 | Revenue (ttm) | $13.12B | Revenue growth 61.20% y/y |
 | Profitability | Gross 38.12%, operating 23.77%, net 16.00% | ROA 11.94%, ROE 46.57% |
 | Balance sheet | Cash $3.71B, debt $3.36B | Current ratio 1.39, debt/equity 61.01 |
-| Valuation | P/E 37.59, forward P/E 20.43, P/S 5.90, P/B 14.07 | EV/Sales 5.34, EV/EBITDA 21.97 |
+| Valuation | P/E 37.58, forward P/E 20.43, P/S 5.90, P/B 14.07 | EV/Sales 5.34, EV/EBITDA 21.97 |
 | Growth expectations | Earnings growth 91.20%, EPS q/q 91.80% | Analyst mean target $337.54 (29 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -112,17 +112,17 @@ Vertiv Holdings Co designs, manufactures, and services critical digital infrastr
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $201.12 | EV/Sales | 5.34 |
-| Market cap | $77.44B | EV/EBITDA | 21.97 |
+| Price | $201.03 | EV/Sales | 5.34 |
+| Market cap | $77.41B | EV/EBITDA | 21.97 |
 | Beta | 2.11 | Gross margin | 38.12% |
 | RSI(14) | 43.8 | Operating margin | 23.77% |
 | ATR(14) | 17.21 | Profit margin | 16.00% |
-| SMA20 dist | -5.34% | ROA | 11.94% |
-| SMA50 dist | -14.73% | ROE | 46.57% |
-| SMA200 dist | -25.85% | Revenue (ttm) | $13.12B |
+| SMA20 dist | -5.38% | ROA | 11.94% |
+| SMA50 dist | -14.77% | ROE | 46.57% |
+| SMA200 dist | -25.88% | Revenue (ttm) | $13.12B |
 | 52W high | $376.06 | Revenue growth y/y | 61.20% |
 | 52W low | $149.73 | Inst. ownership | 84.16% |
-| P/E (ttm) | 37.59 | Insider ownership | 0.24% |
+| P/E (ttm) | 37.58 | Insider ownership | 0.24% |
 | Forward P/E | 20.43 | Short float | 3.63% |
 | PEG (trailing) | 0.54 | Avg volume | 5,924,959 |
 | P/S | 5.90 | Employees | 34,000 |

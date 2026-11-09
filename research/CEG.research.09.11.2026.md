@@ -4,8 +4,8 @@ Signed file: `CEG.research.09.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $275.56 (2026-11-09, ~15-min delayed) |
-| Market cap | $97.63B |
+| Current price | $276.32 (2026-11-09, ~15-min delayed) |
+| Market cap | $97.90B |
 | Sector / Industry | Utilities / Utilities - Independent Power Producers |
 | Main theme | Utilities - Independent Power Producers — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: fair-to-demanding, risk: high. |
@@ -15,11 +15,11 @@ Signed file: `CEG.research.09.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-0.91%) with negative half-year (-7.77%). |
-| Fresh setup quality | Poor / broken | -26.89% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-0.64%) with negative half-year (-7.51%). |
+| Fresh setup quality | Poor / broken | -26.69% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 11.08%, revenue growth 23.00%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 20.56, EV/Sales 3.61. |
-| Risk level | High | Beta 1.13, ATR 5.2% of price, short float 3.75%. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 20.62, EV/Sales 3.61. |
+| Risk level | High | Beta 1.13, ATR 5.1% of price, short float 3.75%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: fair-to-demanding, risk: high.
 
@@ -38,28 +38,28 @@ Constellation Energy Corporation produces and sells energy products and services
 |---|---|---|
 | Constellation Energy (CEG) Q3 2026 Earnings Call Transcript | Motley Fool | 2026-11-09 |
 | Sector Update: Energy Stocks Higher Monday Afternoon | MT Newswires | 2026-11-09 |
-| Data-Center Moratoriums? They Aren’t Showing Up in Constellation Energy’s Guidance. | Barrons.com | 2026-11-09 |
 | Vistra and Constellation Both Fell Sharply After the Election. One Has Far More Exposure to Texas. | Motley Fool | 2026-11-09 |
+| Data-Center Moratoriums? They Aren’t Showing Up in Constellation Energy’s Guidance. | Barrons.com | 2026-11-09 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $275.56; 52w high $376.93 (-26.89%); 52w low $236.14 (+16.69%) |
-| Trend | -0.91% vs SMA200, +2.06% vs SMA50, +4.95% vs SMA20 |
-| Momentum | RSI(14) 55.5 (neutral) |
-| Volatility | ATR(14) 14.20 (~5.2% of price); beta 1.13 |
-| Setup perspective | -26.89% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $276.32; 52w high $376.93 (-26.69%); 52w low $236.14 (+17.01%) |
+| Trend | -0.64% vs SMA200, +2.33% vs SMA50, +5.22% vs SMA20 |
+| Momentum | RSI(14) 55.8 (neutral) |
+| Volatility | ATR(14) 14.20 (~5.1% of price); beta 1.13 |
+| Setup perspective | -26.69% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +7.1% |
-| Month | -7.6% |
-| Quarter | -0.9% |
-| Half Y | -7.8% |
-| 1Y | -21.1% |
-| YTD | -24.4% |
+| Week | +7.4% |
+| Month | -7.3% |
+| Quarter | -0.6% |
+| Half Y | -7.5% |
+| 1Y | -20.9% |
+| YTD | -24.2% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Constellation Energy Corporation produces and sells energy products and services
 | Revenue (ttm) | $31.27B | Revenue growth 23.00% y/y |
 | Profitability | Gross 22.11%, operating 8.66%, net 11.08% | ROA 3.89%, ROE 15.06% |
 | Balance sheet | Cash $697.00M, debt $24.70B | Current ratio 1.46, debt/equity 76.42 |
-| Valuation | P/E 26.94, forward P/E 20.56, P/S 3.12, P/B 3.06 | EV/Sales 3.61, EV/EBITDA 14.20 |
+| Valuation | P/E 27.01, forward P/E 20.62, P/S 3.13, P/B 3.07 | EV/Sales 3.61, EV/EBITDA 14.20 |
 | Growth expectations | Earnings growth -46.80%, EPS q/q -38.90% | Analyst mean target $337.77 (23 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,8 +95,8 @@ Constellation Energy Corporation produces and sells energy products and services
 | FMR, LLC | 6,538,601 | 1.85% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 20.56, EV/Sales 3.61. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 1.13, ATR 5.2% of price, short float 3.75%. Size positions accordingly.
+- **Valuation risk:** Forward P/E 20.62, EV/Sales 3.61. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 1.13, ATR 5.1% of price, short float 3.75%. Size positions accordingly.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -112,21 +112,21 @@ Constellation Energy Corporation produces and sells energy products and services
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $275.56 | EV/Sales | 3.61 |
-| Market cap | $97.63B | EV/EBITDA | 14.20 |
+| Price | $276.32 | EV/Sales | 3.61 |
+| Market cap | $97.90B | EV/EBITDA | 14.20 |
 | Beta | 1.13 | Gross margin | 22.11% |
-| RSI(14) | 55.5 | Operating margin | 8.66% |
+| RSI(14) | 55.8 | Operating margin | 8.66% |
 | ATR(14) | 14.20 | Profit margin | 11.08% |
-| SMA20 dist | +4.95% | ROA | 3.89% |
-| SMA50 dist | +2.06% | ROE | 15.06% |
-| SMA200 dist | -0.91% | Revenue (ttm) | $31.27B |
+| SMA20 dist | +5.22% | ROA | 3.89% |
+| SMA50 dist | +2.33% | ROE | 15.06% |
+| SMA200 dist | -0.64% | Revenue (ttm) | $31.27B |
 | 52W high | $376.93 | Revenue growth y/y | 23.00% |
 | 52W low | $236.14 | Inst. ownership | 83.02% |
-| P/E (ttm) | 26.94 | Insider ownership | 0.34% |
-| Forward P/E | 20.56 | Short float | 3.75% |
+| P/E (ttm) | 27.01 | Insider ownership | 0.34% |
+| Forward P/E | 20.62 | Short float | 3.75% |
 | PEG (trailing) | — | Avg volume | 3,382,626 |
-| P/S | 3.12 | Employees | 15,291 |
-| P/B | 3.06 | Analyst rec (1=buy..5=sell) | 1.6 |
+| P/S | 3.13 | Employees | 15,291 |
+| P/B | 3.07 | Analyst rec (1=buy..5=sell) | 1.6 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

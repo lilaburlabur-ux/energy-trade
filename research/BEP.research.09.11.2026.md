@@ -4,8 +4,8 @@ Signed file: `BEP.research.09.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $31.52 (2026-11-09, ~15-min delayed) |
-| Market cap | $21.55B |
+| Current price | $31.50 (2026-11-09, ~15-min delayed) |
+| Market cap | $21.53B |
 | Sector / Industry | Utilities / Utilities - Renewable |
 | Main theme | Utilities - Renewable — see catalysts below |
 | Current stance | Low technical momentum, weak fundamentals, value: reasonable, risk: moderate. |
@@ -15,10 +15,10 @@ Signed file: `BEP.research.09.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-0.45%) with negative half-year (-6.32%). |
-| Fresh setup quality | Moderate / wait | -13.95% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-0.51%) with negative half-year (-6.38%). |
+| Fresh setup quality | Moderate / wait | -14.01% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Weak | Negative profit margin (-4.19%). |
-| Value attractiveness | Reasonable | Forward P/E -15.84, EV/Sales 13.59. |
+| Value attractiveness | Reasonable | Forward P/E -15.83, EV/Sales 13.59. |
 | Risk level | Moderate | Beta 0.95, ATR 2.7% of price, short float 0.56%. |
 
 **Bottom line:** Low technical momentum, weak fundamentals, value: reasonable, risk: moderate.
@@ -44,22 +44,22 @@ Brookfield Renewable Partners L.P. owns a portfolio of renewable power generatin
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $31.52; 52w high $36.63 (-13.95%); 52w low $25.75 (+22.42%) |
-| Trend | -0.45% vs SMA200, +6.91% vs SMA50, +7.64% vs SMA20 |
-| Momentum | RSI(14) 66.6 (neutral) |
+| Price vs 52-week range | Close $31.50; 52w high $36.63 (-14.01%); 52w low $25.75 (+22.34%) |
+| Trend | -0.51% vs SMA200, +6.85% vs SMA50, +7.58% vs SMA20 |
+| Momentum | RSI(14) 66.5 (neutral) |
 | Volatility | ATR(14) 0.84 (~2.7% of price); beta 0.95 |
-| Setup perspective | -13.95% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -14.01% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +4.9% |
+| Week | +4.8% |
 | Month | +6.7% |
 | Quarter | -6.8% |
-| Half Y | -6.3% |
-| 1Y | +5.3% |
-| YTD | +16.9% |
+| Half Y | -6.4% |
+| 1Y | +5.2% |
+| YTD | +16.8% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Brookfield Renewable Partners L.P. owns a portfolio of renewable power generatin
 | Revenue (ttm) | $6.54B | Revenue growth 11.50% y/y |
 | Profitability | Gross 48.30%, operating 6.57%, net -4.19% | ROA 0.35%, ROE -0.75% |
 | Balance sheet | Cash $3.82B, debt $43.18B | Current ratio 0.78, debt/equity 114.10 |
-| Valuation | P/E —, forward P/E -15.84, P/S 3.29, P/B 2.44 | EV/Sales 13.59, EV/EBITDA 30.81 |
+| Valuation | P/E —, forward P/E -15.83, P/S 3.29, P/B 2.44 | EV/Sales 13.59, EV/EBITDA 30.81 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $34.24 (14 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -110,18 +110,18 @@ Brookfield Renewable Partners L.P. owns a portfolio of renewable power generatin
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $31.52 | EV/Sales | 13.59 |
-| Market cap | $21.55B | EV/EBITDA | 30.81 |
+| Price | $31.50 | EV/Sales | 13.59 |
+| Market cap | $21.53B | EV/EBITDA | 30.81 |
 | Beta | 0.95 | Gross margin | 48.30% |
-| RSI(14) | 66.6 | Operating margin | 6.57% |
+| RSI(14) | 66.5 | Operating margin | 6.57% |
 | ATR(14) | 0.84 | Profit margin | -4.19% |
-| SMA20 dist | +7.64% | ROA | 0.35% |
-| SMA50 dist | +6.91% | ROE | -0.75% |
-| SMA200 dist | -0.45% | Revenue (ttm) | $6.54B |
+| SMA20 dist | +7.58% | ROA | 0.35% |
+| SMA50 dist | +6.85% | ROE | -0.75% |
+| SMA200 dist | -0.51% | Revenue (ttm) | $6.54B |
 | 52W high | $36.63 | Revenue growth y/y | 11.50% |
 | 52W low | $25.75 | Inst. ownership | 64.38% |
 | P/E (ttm) | — | Insider ownership | 0.07% |
-| Forward P/E | -15.84 | Short float | 0.56% |
+| Forward P/E | -15.83 | Short float | 0.56% |
 | PEG (trailing) | — | Avg volume | 1,105,993 |
 | P/S | 3.29 | Employees | 6,700 |
 | P/B | 2.44 | Analyst rec (1=buy..5=sell) | 2.2 |
