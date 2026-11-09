@@ -36,10 +36,10 @@ Suncor Energy Inc. operates as an integrated energy company in Canada, the Unite
 
 | Headline | Source | Date |
 |---|---|---|
+| Suncor Energy (TSX:SU) Lifts Dividend As Investors Ask If The Pullback Is A Buying Chance | Simply Wall St. | 2026-11-09 |
 | Are Investors Undervaluing Suncor Energy (SU) Right Now? | Zacks | 2026-11-09 |
 | What Suncor Energy (SU) Said on Its Q3 Earnings Call | MarketBeat | 2026-11-08 |
 | Will Suncor's Refining Strength Continue to Drive Cash Flow? | Zacks | 2026-11-06 |
-| Elite Canadian Energy Stocks To Own In November 2026 | Simply Wall St. | 2026-11-06 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

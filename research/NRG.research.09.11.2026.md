@@ -36,10 +36,10 @@ NRG Energy, Inc., together with its subsidiaries, operates as an energy and home
 
 | Headline | Source | Date |
 |---|---|---|
+| Clearway Energy: Q3 Earnings Snapshot | Associated Press | 2026-11-09 |
 | NRG Energy (NRG) Q3 2026 Earnings Call Transcript | Motley Fool | 2026-11-09 |
 | NRG Energy earnings analysis: questions answered and next catalysts | Investing.com | 2026-11-09 |
 | What NRG Energy (NRG) Said on Its Q3 Earnings Call | MarketBeat | 2026-11-09 |
-| Sector Update: Energy Stocks Higher Monday Afternoon | MT Newswires | 2026-11-09 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
