@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-09T23:22:17+00:00",
+  "as_of": "2026-11-09T23:37:30+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -59,16 +59,16 @@
    "rank": 4,
    "ticker": "GEV",
    "company": "GE Vernova Inc.",
-   "move_pct": 7.27,
-   "price": 830.37,
+   "move_pct": 7.61,
+   "price": 833.0,
    "volume": 4344714,
    "volume_vs_avg": "~1.3x",
-   "heat_score": 47,
+   "heat_score": 48,
    "direction": "up",
-   "why": "GE Vernova Inc. stock rises Monday, outperforms market",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNDd3WXpvRjB0dC1ENVFpSDFNbm5mQjdrTV8zWVRkSG9VSE9HSmoxVFhzNko3RTl6RHF1bVhHYlA1WUs1M25KTFdXaS01NmFuZnc2SlcwWFMxcEI5eDdoR2FXRFRKaGFoT24tM0Z1QmZ3X1VDM2o3Qlh4SVZ2d3VicnZlaGk5Q3lVN3lSWms0a1pqMzZFek5VdzloeDVaLV9NejIyUDVXVEpSSlRDZV9UaktzS1RZNE84dmlsNDZ1S19QOXc5Zk13MjNR?oc=5",
-   "published": "2026-11-09T21:34:00+00:00",
+   "why": "GE Vernova Soars 7% as Constellation Raises Guidance, Easing Data-Center Moratorium Fears",
+   "catalyst_type": "earnings",
+   "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQd2VXcTBPSW1IeUVRamJBeFlFcXFCa0I2czNxS2F0U1VQSkY4SXRTcXgwM2oyMjBpaXZ2NHE0NzlyM1JYUERvRFZZMXpGYndfc0RaM0VSY0VLNnE2QTRrd19MS2tSS3BrWkphZWI5YlRhRmNXOHd3R0NzekVIS2hKQUthZXYzb2U5OGRZQnVOQWpEbjBsZWJaZGE2M2phU3N2eEhEX2lmbmNIbGl6YnpvYVFQMA?oc=5",
+   "published": "2026-11-09T23:15:00+00:00",
    "sector": "Grid, Storage & Electrification"
   },
   {
