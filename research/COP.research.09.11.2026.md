@@ -4,8 +4,8 @@ Signed file: `COP.research.09.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $134.49 (2026-11-09, ~15-min delayed) |
-| Market cap | $159.02B |
+| Current price | $134.47 (2026-11-09, ~15-min delayed) |
+| Market cap | $158.99B |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
 | Current stance | High technical momentum, strong fundamentals, value: reasonable, risk: elevated. |
@@ -15,8 +15,8 @@ Signed file: `COP.research.09.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +61.96%; price +10.57% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -12.68% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +61.93%; price +10.55% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -12.70% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 16.76%, revenue growth 29.30%. |
 | Value attractiveness | Reasonable | Forward P/E 11.93, EV/Sales 2.53. |
 | Risk level | Elevated | Beta 0.16, ATR 3.1% of price, short float 1.58%. |
@@ -44,11 +44,11 @@ ConocoPhillips explores for, produces, transports, and markets crude oil, bitume
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $134.49; 52w high $154.03 (-12.68%); 52w low $84.18 (+59.78%) |
-| Trend | +10.57% vs SMA200, -1.83% vs SMA50, -6.98% vs SMA20 |
+| Price vs 52-week range | Close $134.47; 52w high $154.03 (-12.70%); 52w low $84.18 (+59.75%) |
+| Trend | +10.55% vs SMA200, -1.85% vs SMA50, -6.99% vs SMA20 |
 | Momentum | RSI(14) 40.4 (neutral) |
 | Volatility | ATR(14) 4.17 (~3.1% of price); beta 0.16 |
-| Setup perspective | -12.68% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -12.70% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
@@ -58,8 +58,8 @@ ConocoPhillips explores for, produces, transports, and markets crude oil, bitume
 | Month | +0.3% |
 | Quarter | +7.5% |
 | Half Y | +17.2% |
-| 1Y | +62.0% |
-| YTD | +42.2% |
+| 1Y | +61.9% |
+| YTD | +42.1% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -110,14 +110,14 @@ ConocoPhillips explores for, produces, transports, and markets crude oil, bitume
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $134.49 | EV/Sales | 2.53 |
-| Market cap | $159.02B | EV/EBITDA | 5.85 |
+| Price | $134.47 | EV/Sales | 2.53 |
+| Market cap | $158.99B | EV/EBITDA | 5.85 |
 | Beta | 0.16 | Gross margin | 49.01% |
 | RSI(14) | 40.4 | Operating margin | 30.05% |
 | ATR(14) | 4.17 | Profit margin | 16.76% |
-| SMA20 dist | -6.98% | ROA | 8.98% |
-| SMA50 dist | -1.83% | ROE | 17.66% |
-| SMA200 dist | +10.57% | Revenue (ttm) | $68.97B |
+| SMA20 dist | -6.99% | ROA | 8.98% |
+| SMA50 dist | -1.85% | ROE | 17.66% |
+| SMA200 dist | +10.55% | Revenue (ttm) | $68.97B |
 | 52W high | $154.03 | Revenue growth y/y | 29.30% |
 | 52W low | $84.18 | Inst. ownership | 87.11% |
 | P/E (ttm) | 14.17 | Insider ownership | 0.10% |

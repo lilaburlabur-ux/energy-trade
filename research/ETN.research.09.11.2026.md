@@ -4,8 +4,8 @@ Signed file: `ETN.research.09.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $362.32 (2026-11-09, ~15-min delayed) |
-| Market cap | $140.76B |
+| Current price | $359.30 (2026-11-09, ~15-min delayed) |
+| Market cap | $139.59B |
 | Sector / Industry | Industrials / Specialty Industrial Machinery |
 | Main theme | Specialty Industrial Machinery — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: fair-to-demanding, risk: high. |
@@ -15,11 +15,11 @@ Signed file: `ETN.research.09.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-8.59%) with negative half-year (-13.32%). |
-| Fresh setup quality | Moderate / wait | -21.23% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-9.35%) with negative half-year (-14.04%). |
+| Fresh setup quality | Moderate / wait | -21.88% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 12.18%, revenue growth 28.00%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 22.02, EV/Sales 4.78. |
-| Risk level | High | Beta 1.14, ATR 5.4% of price, short float 1.94%. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 21.83, EV/Sales 4.78. |
+| Risk level | High | Beta 1.14, ATR 5.5% of price, short float 1.94%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: fair-to-demanding, risk: high.
 
@@ -36,30 +36,30 @@ Eaton Corporation plc operates as a power management company in the United State
 
 | Headline | Source | Date |
 |---|---|---|
+| Industrials Push Stock Indexes to Broad-Based Rally | The Wall Street Journal | 2026-11-09 |
 | Eaton Lost 23% in a Month. RBC Sees 58% Upside From Here | TIKR | 2026-11-09 |
 | DraftKings downgraded, AMD upgraded: Wall Street's top analyst calls | The Fly | 2026-11-09 |
 | Is Vertiv Stock Really Expensive? | Trefis | 2026-11-09 |
-| Cummins After Q3: Is the Stock a Buy on AI Data Center Boom? | Zacks | 2026-11-09 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $362.32; 52w high $459.96 (-21.23%); 52w low $313.20 (+15.68%) |
-| Trend | -8.59% vs SMA200, -10.42% vs SMA50, -4.50% vs SMA20 |
-| Momentum | RSI(14) 43.8 (neutral) |
-| Volatility | ATR(14) 19.73 (~5.4% of price); beta 1.14 |
-| Setup perspective | -21.23% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $359.30; 52w high $459.96 (-21.88%); 52w low $313.20 (+14.72%) |
+| Trend | -9.35% vs SMA200, -11.15% vs SMA50, -5.26% vs SMA20 |
+| Momentum | RSI(14) 42.9 (neutral) |
+| Volatility | ATR(14) 19.73 (~5.5% of price); beta 1.14 |
+| Setup perspective | -21.88% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -1.0% |
-| Month | -15.7% |
-| Quarter | -21.1% |
-| Half Y | -13.3% |
-| 1Y | -3.2% |
-| YTD | +11.6% |
+| Week | -1.8% |
+| Month | -16.4% |
+| Quarter | -21.8% |
+| Half Y | -14.0% |
+| 1Y | -4.0% |
+| YTD | +10.7% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Eaton Corporation plc operates as a power management company in the United State
 | Revenue (ttm) | $31.98B | Revenue growth 28.00% y/y |
 | Profitability | Gross 35.15%, operating 17.85%, net 12.18% | ROA 7.22%, ROE 19.55% |
 | Balance sheet | Cash $818.00M, debt $20.92B | Current ratio 1.23, debt/equity 99.52 |
-| Valuation | P/E 36.20, forward P/E 22.02, P/S 4.40, P/B 6.71 | EV/Sales 4.78, EV/EBITDA 21.66 |
+| Valuation | P/E 35.89, forward P/E 21.83, P/S 4.36, P/B 6.65 | EV/Sales 4.78, EV/EBITDA 21.66 |
 | Growth expectations | Earnings growth 7.00%, EPS q/q 6.70% | Analyst mean target $476.97 (26 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,8 +95,8 @@ Eaton Corporation plc operates as a power management company in the United State
 | Wellington Management Group, LLP | 6,827,266 | 1.76% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 22.02, EV/Sales 4.78. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 1.14, ATR 5.4% of price, short float 1.94%. Size positions accordingly.
+- **Valuation risk:** Forward P/E 21.83, EV/Sales 4.78. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 1.14, ATR 5.5% of price, short float 1.94%. Size positions accordingly.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -111,21 +111,21 @@ Eaton Corporation plc operates as a power management company in the United State
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $362.32 | EV/Sales | 4.78 |
-| Market cap | $140.76B | EV/EBITDA | 21.66 |
+| Price | $359.30 | EV/Sales | 4.78 |
+| Market cap | $139.59B | EV/EBITDA | 21.66 |
 | Beta | 1.14 | Gross margin | 35.15% |
-| RSI(14) | 43.8 | Operating margin | 17.85% |
+| RSI(14) | 42.9 | Operating margin | 17.85% |
 | ATR(14) | 19.73 | Profit margin | 12.18% |
-| SMA20 dist | -4.50% | ROA | 7.22% |
-| SMA50 dist | -10.42% | ROE | 19.55% |
-| SMA200 dist | -8.59% | Revenue (ttm) | $31.98B |
+| SMA20 dist | -5.26% | ROA | 7.22% |
+| SMA50 dist | -11.15% | ROE | 19.55% |
+| SMA200 dist | -9.35% | Revenue (ttm) | $31.98B |
 | 52W high | $459.96 | Revenue growth y/y | 28.00% |
 | 52W low | $313.20 | Inst. ownership | 87.74% |
-| P/E (ttm) | 36.20 | Insider ownership | 0.07% |
-| Forward P/E | 22.02 | Short float | 1.94% |
+| P/E (ttm) | 35.89 | Insider ownership | 0.07% |
+| Forward P/E | 21.83 | Short float | 1.94% |
 | PEG (trailing) | 1.83 | Avg volume | 2,328,065 |
-| P/S | 4.40 | Employees | 97,303 |
-| P/B | 6.71 | Analyst rec (1=buy..5=sell) | 1.5 |
+| P/S | 4.36 | Employees | 97,303 |
+| P/B | 6.65 | Analyst rec (1=buy..5=sell) | 1.5 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

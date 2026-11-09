@@ -4,8 +4,8 @@ Signed file: `VST.research.09.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $134.50 (2026-11-09, ~15-min delayed) |
-| Market cap | $45.60B |
+| Current price | $133.92 (2026-11-09, ~15-min delayed) |
+| Market cap | $45.40B |
 | Sector / Industry | Utilities / Utilities - Independent Power Producers |
 | Main theme | Utilities - Independent Power Producers — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: high. |
@@ -15,11 +15,11 @@ Signed file: `VST.research.09.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-11.60%) with negative half-year (-11.27%). |
-| Fresh setup quality | Poor / broken | -29.17% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-11.98%) with negative half-year (-11.66%). |
+| Fresh setup quality | Poor / broken | -29.48% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 13.15%, revenue growth 27.70%. |
-| Value attractiveness | Reasonable | Forward P/E 14.22, EV/Sales 3.15. |
-| Risk level | High | Beta 1.38, ATR 6.4% of price, short float 3.43%. |
+| Value attractiveness | Reasonable | Forward P/E 14.16, EV/Sales 3.15. |
+| Risk level | High | Beta 1.38, ATR 6.5% of price, short float 3.43%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: high.
 
@@ -37,29 +37,29 @@ Vistra Corp., together with its subsidiaries, operates as an integrated retail e
 | Headline | Source | Date |
 |---|---|---|
 | Vistra Q3 Earnings Call Highlights Cash Flow Plans & Demand Risks | Zacks | 2026-11-09 |
-| Data-Center Moratoriums? They Aren’t Showing Up in Constellation Energy’s Guidance. | Barrons.com | 2026-11-09 |
 | Vistra and Constellation Both Fell Sharply After the Election. One Has Far More Exposure to Texas. | Motley Fool | 2026-11-09 |
+| Data-Center Moratoriums? They Aren’t Showing Up in Constellation Energy’s Guidance. | Barrons.com | 2026-11-09 |
 | Vistra (VST) Stock Looks Reasonable As Its Five Year Run Continues | Simply Wall St. | 2026-11-09 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $134.50; 52w high $189.90 (-29.17%); 52w low $112.89 (+19.14%) |
-| Trend | -11.60% vs SMA200, -6.46% vs SMA50, -5.10% vs SMA20 |
-| Momentum | RSI(14) 46.7 (neutral) |
-| Volatility | ATR(14) 8.64 (~6.4% of price); beta 1.38 |
-| Setup perspective | -29.17% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $133.92; 52w high $189.90 (-29.48%); 52w low $112.89 (+18.63%) |
+| Trend | -11.98% vs SMA200, -6.85% vs SMA50, -5.49% vs SMA20 |
+| Momentum | RSI(14) 46.3 (neutral) |
+| Volatility | ATR(14) 8.66 (~6.5% of price); beta 1.38 |
+| Setup perspective | -29.48% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -0.1% |
-| Month | -16.7% |
-| Quarter | -7.0% |
-| Half Y | -11.3% |
-| 1Y | -26.7% |
-| YTD | -18.2% |
+| Week | -0.5% |
+| Month | -17.1% |
+| Quarter | -7.4% |
+| Half Y | -11.7% |
+| 1Y | -27.0% |
+| YTD | -18.6% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Vistra Corp., together with its subsidiaries, operates as an integrated retail e
 | Revenue (ttm) | $20.59B | Revenue growth 27.70% y/y |
 | Profitability | Gross 41.52%, operating 31.12%, net 13.15% | ROA —, ROE — |
 | Balance sheet | Cash $435.00M, debt $20.51B | Current ratio —, debt/equity 373.28 |
-| Valuation | P/E 18.10, forward P/E 14.22, P/S 2.21, P/B 15.03 | EV/Sales 3.15, EV/EBITDA 8.25 |
+| Valuation | P/E 18.02, forward P/E 14.16, P/S 2.21, P/B 14.97 | EV/Sales 3.15, EV/EBITDA 8.25 |
 | Growth expectations | Earnings growth 84.10%, EPS q/q 74.80% | Analyst mean target $202.67 (21 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ Vistra Corp., together with its subsidiaries, operates as an integrated retail e
 | Goldman Sachs Group Inc | 4,742,324 | 1.41% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.38, ATR 6.4% of price, short float 3.43%. Size positions accordingly.
+- **Volatility risk:** Beta 1.38, ATR 6.5% of price, short float 3.43%. Size positions accordingly.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -111,21 +111,21 @@ Vistra Corp., together with its subsidiaries, operates as an integrated retail e
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $134.50 | EV/Sales | 3.15 |
-| Market cap | $45.60B | EV/EBITDA | 8.25 |
+| Price | $133.92 | EV/Sales | 3.15 |
+| Market cap | $45.40B | EV/EBITDA | 8.25 |
 | Beta | 1.38 | Gross margin | 41.52% |
-| RSI(14) | 46.7 | Operating margin | 31.12% |
-| ATR(14) | 8.64 | Profit margin | 13.15% |
-| SMA20 dist | -5.10% | ROA | — |
-| SMA50 dist | -6.46% | ROE | — |
-| SMA200 dist | -11.60% | Revenue (ttm) | $20.59B |
+| RSI(14) | 46.3 | Operating margin | 31.12% |
+| ATR(14) | 8.66 | Profit margin | 13.15% |
+| SMA20 dist | -5.49% | ROA | — |
+| SMA50 dist | -6.85% | ROE | — |
+| SMA200 dist | -11.98% | Revenue (ttm) | $20.59B |
 | 52W high | $189.90 | Revenue growth y/y | 27.70% |
 | 52W low | $112.89 | Inst. ownership | 92.61% |
-| P/E (ttm) | 18.10 | Insider ownership | 0.77% |
-| Forward P/E | 14.22 | Short float | 3.43% |
+| P/E (ttm) | 18.02 | Insider ownership | 0.77% |
+| Forward P/E | 14.16 | Short float | 3.43% |
 | PEG (trailing) | 0.35 | Avg volume | 6,009,893 |
 | P/S | 2.21 | Employees | 6,390 |
-| P/B | 15.03 | Analyst rec (1=buy..5=sell) | 1.3 |
+| P/B | 14.97 | Analyst rec (1=buy..5=sell) | 1.3 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

@@ -4,8 +4,8 @@ Signed file: `OXY.research.09.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $55.75 (2026-11-09, ~15-min delayed) |
-| Market cap | $55.73B |
+| Current price | $55.76 (2026-11-09, ~15-min delayed) |
+| Market cap | $55.74B |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
 | Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated. |
@@ -15,8 +15,8 @@ Signed file: `OXY.research.09.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +41.09%; price -0.72% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -15.06% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +41.12%; price -0.70% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -15.04% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 30.32%, revenue growth 53.40%. |
 | Value attractiveness | Reasonable | Forward P/E 11.12, EV/Sales 3.17. |
 | Risk level | Elevated | Beta 0.15, ATR 3.2% of price, short float 0.02%. |
@@ -44,20 +44,20 @@ Occidental Petroleum Corporation, together with its subsidiaries, engages in the
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $55.75; 52w high $65.63 (-15.06%); 52w low $38.38 (+45.25%) |
-| Trend | -0.72% vs SMA200, -7.00% vs SMA50, -8.96% vs SMA20 |
-| Momentum | RSI(14) 31.8 (neutral) |
+| Price vs 52-week range | Close $55.76; 52w high $65.63 (-15.04%); 52w low $38.38 (+45.28%) |
+| Trend | -0.70% vs SMA200, -6.98% vs SMA50, -8.95% vs SMA20 |
+| Momentum | RSI(14) 31.9 (neutral) |
 | Volatility | ATR(14) 1.78 (~3.2% of price); beta 0.15 |
-| Setup perspective | -15.06% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -15.04% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
 | Week | -8.2% |
-| Month | -7.3% |
+| Month | -7.2% |
 | Quarter | -5.2% |
-| Half Y | +2.0% |
+| Half Y | +2.1% |
 | 1Y | +41.1% |
 | YTD | +33.4% |
 
@@ -110,14 +110,14 @@ Occidental Petroleum Corporation, together with its subsidiaries, engages in the
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $55.75 | EV/Sales | 3.17 |
-| Market cap | $55.73B | EV/EBITDA | 5.52 |
+| Price | $55.76 | EV/Sales | 3.17 |
+| Market cap | $55.74B | EV/EBITDA | 5.52 |
 | Beta | 0.15 | Gross margin | 73.32% |
-| RSI(14) | 31.8 | Operating margin | 45.44% |
+| RSI(14) | 31.9 | Operating margin | 45.44% |
 | ATR(14) | 1.78 | Profit margin | 30.32% |
-| SMA20 dist | -8.96% | ROA | 4.68% |
-| SMA50 dist | -7.00% | ROE | 10.63% |
-| SMA200 dist | -0.72% | Revenue (ttm) | $23.93B |
+| SMA20 dist | -8.95% | ROA | 4.68% |
+| SMA50 dist | -6.98% | ROE | 10.63% |
+| SMA200 dist | -0.70% | Revenue (ttm) | $23.93B |
 | 52W high | $65.63 | Revenue growth y/y | 53.40% |
 | 52W low | $38.38 | Inst. ownership | 59.01% |
 | P/E (ttm) | 15.84 | Insider ownership | 26.81% |

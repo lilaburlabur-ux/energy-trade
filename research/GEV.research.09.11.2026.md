@@ -4,8 +4,8 @@ Signed file: `GEV.research.09.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $835.41 (2026-11-09, ~15-min delayed) |
-| Market cap | $221.11B |
+| Current price | $829.34 (2026-11-09, ~15-min delayed) |
+| Market cap | $219.51B |
 | Sector / Industry | Industrials / Specialty Industrial Machinery |
 | Main theme | Specialty Industrial Machinery — see catalysts below |
 | Current stance | Low technical momentum, strong fundamentals, value: fair-to-demanding, risk: high. |
@@ -15,10 +15,10 @@ Signed file: `GEV.research.09.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-11.95%) with negative half-year (-22.06%). |
-| Fresh setup quality | Poor / broken | -28.85% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-12.59%) with negative half-year (-22.63%). |
+| Fresh setup quality | Poor / broken | -29.37% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 23.54%, revenue growth 26.80%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 32.30, EV/Sales 4.39. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 32.06, EV/Sales 4.39. |
 | Risk level | High | Beta 1.06, ATR 6.8% of price, short float 2.79%. |
 
 **Bottom line:** Low technical momentum, strong fundamentals, value: fair-to-demanding, risk: high.
@@ -36,30 +36,30 @@ GE Vernova Inc., an energy company, engages in the provision of various products
 
 | Headline | Source | Date |
 |---|---|---|
+| AI Data Centers Are Buying Used Jet Engines as New Power Turbines Take Six Years | decrypt | 2026-11-09 |
+| Industrials Push Stock Indexes to Broad-Based Rally | The Wall Street Journal | 2026-11-09 |
 | Musk: “SoftBank Is Defaulting on Their Turbine Orders.” That’s a Warning for GE Vernova | TIKR | 2026-11-09 |
 | Eaton Lost 23% in a Month. RBC Sees 58% Upside From Here | TIKR | 2026-11-09 |
-| GE Vernova Stock Rises on New Wind Turbine Order From Germany | GuruFocus.com | 2026-11-09 |
-| GE Vernova to Support India’s Energy Transition With 6-GW HVDC Transmission Project | POWER Magazine | 2026-11-09 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $835.41; 52w high $1,174.17 (-28.85%); 52w low $553.58 (+50.91%) |
-| Trend | -11.95% vs SMA200, -9.35% vs SMA50, -4.65% vs SMA20 |
-| Momentum | RSI(14) 44.1 (neutral) |
-| Volatility | ATR(14) 56.55 (~6.8% of price); beta 1.06 |
-| Setup perspective | -28.85% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $829.34; 52w high $1,174.17 (-29.37%); 52w low $553.58 (+49.81%) |
+| Trend | -12.59% vs SMA200, -9.99% vs SMA50, -5.31% vs SMA20 |
+| Momentum | RSI(14) 43.3 (neutral) |
+| Volatility | ATR(14) 56.56 (~6.8% of price); beta 1.06 |
+| Setup perspective | -29.37% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -3.1% |
-| Month | -16.8% |
-| Quarter | -17.4% |
-| Half Y | -22.1% |
-| 1Y | +52.2% |
-| YTD | +23.2% |
+| Week | -3.8% |
+| Month | -17.4% |
+| Quarter | -18.0% |
+| Half Y | -22.6% |
+| 1Y | +51.1% |
+| YTD | +22.3% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ GE Vernova Inc., an energy company, engages in the provision of various products
 | Revenue (ttm) | $44.04B | Revenue growth 26.80% y/y |
 | Profitability | Gross 21.79%, operating 12.77%, net 23.54% | ROA 3.22%, ROE 93.04% |
 | Balance sheet | Cash $16.36B, debt $3.75B | Current ratio 0.83, debt/equity 29.89 |
-| Valuation | P/E 21.93, forward P/E 32.30, P/S 5.02, P/B 19.43 | EV/Sales 4.39, EV/EBITDA 38.33 |
+| Valuation | P/E 21.77, forward P/E 32.06, P/S 4.98, P/B 19.29 | EV/Sales 4.39, EV/EBITDA 38.33 |
 | Growth expectations | Earnings growth 193.30%, EPS q/q 185.60% | Analyst mean target $1,182.83 (33 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ GE Vernova Inc., an energy company, engages in the provision of various products
 | Vanguard Portfolio Management LLC | 4,723,958 | 1.78% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 32.30, EV/Sales 4.39. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 32.06, EV/Sales 4.39. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 1.06, ATR 6.8% of price, short float 2.79%. Size positions accordingly.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
@@ -112,21 +112,21 @@ GE Vernova Inc., an energy company, engages in the provision of various products
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $835.41 | EV/Sales | 4.39 |
-| Market cap | $221.11B | EV/EBITDA | 38.33 |
+| Price | $829.34 | EV/Sales | 4.39 |
+| Market cap | $219.51B | EV/EBITDA | 38.33 |
 | Beta | 1.06 | Gross margin | 21.79% |
-| RSI(14) | 44.1 | Operating margin | 12.77% |
-| ATR(14) | 56.55 | Profit margin | 23.54% |
-| SMA20 dist | -4.65% | ROA | 3.22% |
-| SMA50 dist | -9.35% | ROE | 93.04% |
-| SMA200 dist | -11.95% | Revenue (ttm) | $44.04B |
+| RSI(14) | 43.3 | Operating margin | 12.77% |
+| ATR(14) | 56.56 | Profit margin | 23.54% |
+| SMA20 dist | -5.31% | ROA | 3.22% |
+| SMA50 dist | -9.99% | ROE | 93.04% |
+| SMA200 dist | -12.59% | Revenue (ttm) | $44.04B |
 | 52W high | $1,174.17 | Revenue growth y/y | 26.80% |
 | 52W low | $553.58 | Inst. ownership | 82.18% |
-| P/E (ttm) | 21.93 | Insider ownership | 0.13% |
-| Forward P/E | 32.30 | Short float | 2.79% |
+| P/E (ttm) | 21.77 | Insider ownership | 0.13% |
+| Forward P/E | 32.06 | Short float | 2.79% |
 | PEG (trailing) | 1.43 | Avg volume | 2,660,012 |
-| P/S | 5.02 | Employees | 78,000 |
-| P/B | 19.43 | Analyst rec (1=buy..5=sell) | 1.4 |
+| P/S | 4.98 | Employees | 78,000 |
+| P/B | 19.29 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
