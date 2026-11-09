@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-09T00:19:46+00:00",
-  "as_of_local": "2026-11-09 00:19:46 UTC",
+  "as_of_utc": "2026-11-09T00:24:51+00:00",
+  "as_of_local": "2026-11-09 00:24:51 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "SHEL"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -59,6 +57,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/3-great-dividend-stocks-yield-042328185.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-08T04:23:28Z"
+        }
+      ]
+    },
+    {
+      "symbol": "SHEL",
+      "name": "Shell",
+      "price": 99.09,
+      "previous_close": 100.12,
+      "change_pct": -1.03,
+      "market_cap": 280589392866.36346,
+      "headlines": [
+        {
+          "title": "Top 3 British Value Stocks To Watch In November 2026",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/top-3-british-value-stocks-161033547.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-08T16:10:33Z"
+        },
+        {
+          "title": "Shell And 2 British Undervalued Stocks To Watch",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/shell-2-british-undervalued-stocks-061351421.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-07T06:13:51Z"
+        },
+        {
+          "title": "Better Dividend Stock: Chevron vs. Shell",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/better-dividend-stock-chevron-vs-215325295.html",
+          "publisher": "TIKR",
+          "published": "2026-11-06T21:53:25Z"
         }
       ]
     },
@@ -2089,8 +2115,8 @@
     },
     {
       "label": "WTI",
-      "price": 90.26,
-      "change_pct": -0.63
+      "price": 90.21,
+      "change_pct": -0.68
     },
     {
       "label": "Brent",
@@ -2100,7 +2126,7 @@
     {
       "label": "NatGas",
       "price": 3.01,
-      "change_pct": 0.3
+      "change_pct": 0.33
     }
   ]
 }
