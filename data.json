@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-09T12:50:45+00:00",
-  "as_of_local": "2026-11-09 12:50:45 UTC",
+  "as_of_utc": "2026-11-09T12:56:09+00:00",
+  "as_of_local": "2026-11-09 12:56:09 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -97,6 +97,12 @@
       "market_cap": 204889159684.15454,
       "headlines": [
         {
+          "title": "GE Vernova Secures New German Wind Turbine Order \u2014 Adds 20-Year Service Agreement",
+          "url": "https://finance.yahoo.com/energy/articles/ge-vernova-secures-german-wind-124755808.html",
+          "publisher": "Stocktwits",
+          "published": "2026-11-09T12:47:55Z"
+        },
+        {
           "title": "The On-Site Power Duel: Bloom Energy vs. GE Vernova",
           "url": "https://finance.yahoo.com/energy/articles/power-duel-bloom-energy-vs-121509912.html",
           "publisher": "24/7 Wall St.",
@@ -107,12 +113,6 @@
           "url": "https://finance.yahoo.com/energy/articles/ge-vernova-secures-german-wind-114029355.html",
           "publisher": "InvestorsHub",
           "published": "2026-11-09T11:40:29Z"
-        },
-        {
-          "title": "What State Street Industrial Select SPDR (XLI) Sold: GE Leads on Nov. 5",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/state-street-industrial-select-spdr-110548649.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-09T11:05:48Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 88.2,
-      "change_pct": -2.9
+      "price": 88.36,
+      "change_pct": -2.72
     },
     {
       "label": "Brent",
-      "price": 94.8,
-      "change_pct": -3.58
+      "price": 95.04,
+      "change_pct": -3.34
     },
     {
       "label": "NatGas",
-      "price": 3.06,
-      "change_pct": 1.93
+      "price": 3.07,
+      "change_pct": 2.5
     }
   ]
 }
