@@ -1,10 +1,27 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-09T13:25:44+00:00",
+  "as_of": "2026-11-09T13:40:58+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": []
+ "hot_tickers": [
+  {
+   "rank": 1,
+   "ticker": "NRG",
+   "company": "NRG Energy, Inc.",
+   "move_pct": 5.33,
+   "price": 93.0,
+   "volume": 8716100,
+   "volume_vs_avg": "~2x",
+   "heat_score": 46,
+   "direction": "up",
+   "why": "NRG Energy to sell six gas generation assets to LS Power in $4B deal (NRG:NYSE)",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWEhoUEJwMC15ZEw5UzdVZDlSR0hnWGNwcFBvdVZCQ1A3a3NCcUEzUmxjYV9xTk01Umx1TzgzYmVRblFIQkV6bkt1TjB4WUs2RWl2dE8ybXJOS1JQNFpMWW1oek1LUGFqUlhweWhXdlZxSXMyTFZjdkNmWjFSU19rS3VKZ3FDM3AxRXlpSUZ4YS1oWlgySFdONnRvX2hmRzJ3dEZFdDFqYjU?oc=5",
+   "published": "2026-11-09T12:15:00+00:00",
+   "sector": "Power & IPPs"
+  }
+ ]
 }
