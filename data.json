@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-09T01:45:45+00:00",
-  "as_of_local": "2026-11-09 01:45:45 UTC",
+  "as_of_utc": "2026-11-09T01:53:53+00:00",
+  "as_of_local": "2026-11-09 01:53:53 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "OVV"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1323,6 +1321,34 @@
       ]
     },
     {
+      "symbol": "OVV",
+      "name": "Ovintiv",
+      "price": 60.52,
+      "previous_close": 60.91,
+      "change_pct": -0.64,
+      "market_cap": 16262212095.76479,
+      "headlines": [
+        {
+          "title": "Ovintiv Q3 Earnings Call Highlights",
+          "url": "https://finance.yahoo.com/energy/articles/ovintiv-q3-earnings-call-highlights-231409890.html",
+          "publisher": "MarketBeat",
+          "published": "2026-11-07T23:14:09Z"
+        },
+        {
+          "title": "Are Investors Undervaluing Ovintiv (OVV) Right Now?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/investors-undervaluing-ovintiv-ovv-now-134004981.html",
+          "publisher": "Zacks",
+          "published": "2026-11-06T13:40:04Z"
+        },
+        {
+          "title": "Ovintiv Inc (OVV) Q3 2026 Earnings Call Highlights: Strong Cash Flow, Logan Energy Deal, and ...",
+          "url": "https://finance.yahoo.com/energy/articles/ovintiv-inc-ovv-q3-2026-050822109.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-05T05:08:22Z"
+        }
+      ]
+    },
+    {
       "symbol": "NXT",
       "name": "Nextracker",
       "price": 104.9,
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 90.24,
-      "change_pct": -0.65
+      "price": 90.5,
+      "change_pct": -0.36
     },
     {
       "label": "Brent",
-      "price": 97.17,
-      "change_pct": -1.17
+      "price": 97.47,
+      "change_pct": -0.86
     },
     {
       "label": "NatGas",
-      "price": 2.99,
-      "change_pct": -0.1
+      "price": 3.0,
+      "change_pct": 0.0
     }
   ]
 }
