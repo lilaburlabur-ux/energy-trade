@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-09T00:40:00+00:00",
-  "as_of_local": "2026-11-09 00:40:00 UTC",
+  "as_of_utc": "2026-11-09T00:44:54+00:00",
+  "as_of_local": "2026-11-09 00:44:54 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "SU"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -533,34 +535,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/enterprise-products-epd-q3-earnings-210001954.html",
           "publisher": "Zacks",
           "published": "2026-11-06T21:00:01Z"
-        }
-      ]
-    },
-    {
-      "symbol": "SU",
-      "name": "Suncor Energy",
-      "price": 68.74,
-      "previous_close": 69.06,
-      "change_pct": -0.46,
-      "market_cap": 79135151248.39972,
-      "headlines": [
-        {
-          "title": "What Suncor Energy (SU) Said on Its Q3 Earnings Call",
-          "url": "https://finance.yahoo.com/energy/articles/suncor-energy-su-said-q3-001409683.html",
-          "publisher": "MarketBeat",
-          "published": "2026-11-08T00:14:09Z"
-        },
-        {
-          "title": "Will Suncor's Refining Strength Continue to Drive Cash Flow?",
-          "url": "https://finance.yahoo.com/energy/articles/suncors-refining-strength-continue-drive-144500622.html",
-          "publisher": "Zacks",
-          "published": "2026-11-06T14:45:00Z"
-        },
-        {
-          "title": "Elite Canadian Energy Stocks To Own In November 2026",
-          "url": "https://finance.yahoo.com/energy/articles/elite-canadian-energy-stocks-own-071103890.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-06T07:11:03Z"
         }
       ]
     },
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 90.41,
-      "change_pct": -0.46
+      "price": 90.56,
+      "change_pct": -0.3
     },
     {
       "label": "Brent",
-      "price": 97.51,
-      "change_pct": -0.82
+      "price": 97.7,
+      "change_pct": -0.63
     },
     {
       "label": "NatGas",
-      "price": 3.01,
-      "change_pct": 0.27
+      "price": 3.0,
+      "change_pct": 0.17
     }
   ]
 }
