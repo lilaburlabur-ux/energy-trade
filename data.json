@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-09T10:18:54+00:00",
-  "as_of_local": "2026-11-09 10:18:54 UTC",
+  "as_of_utc": "2026-11-09T10:24:22+00:00",
+  "as_of_local": "2026-11-09 10:24:22 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -461,6 +461,12 @@
       "market_cap": 81501271409.14124,
       "headlines": [
         {
+          "title": "Zacks Investment Ideas feature highlights: Bloom Energy, Skyworks Solutions and Quanta Services",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-091400948.html",
+          "publisher": "Zacks",
+          "published": "2026-11-09T09:14:00Z"
+        },
+        {
           "title": "What Sent Quanta Stock Lower?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/sent-quanta-stock-lower-012851673.html",
           "publisher": "Trefis",
@@ -471,12 +477,6 @@
           "url": "https://finance.yahoo.com/energy/articles/ge-vernova-something-nvidia-needs-174526396.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-06T17:45:26Z"
-        },
-        {
-          "title": "AI Stocks Plunge: Buy, Sell or Hold?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ai-stocks-plunge-buy-sell-171600469.html",
-          "publisher": "Zacks",
-          "published": "2026-11-06T17:16:00Z"
         }
       ]
     },
@@ -909,6 +909,12 @@
       "market_cap": 51198869096.51442,
       "headlines": [
         {
+          "title": "Zacks Investment Ideas feature highlights: Bloom Energy, Skyworks Solutions and Quanta Services",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-091400948.html",
+          "publisher": "Zacks",
+          "published": "2026-11-09T09:14:00Z"
+        },
+        {
           "title": "Bloom Energy Stock Fell 16% on the Same Day 2 Giant Data Center Deals Named It. Is It a Buy?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-stock-fell-16-003602254.html",
           "publisher": "Motley Fool",
@@ -919,12 +925,6 @@
           "url": "https://finance.yahoo.com/energy/articles/not-bloom-energy-not-vistra-180500572.html",
           "publisher": "Motley Fool",
           "published": "2026-11-08T18:05:00Z"
-        },
-        {
-          "title": "Bloom Energy (BE) Lands 900 Megawatt Data Center Power Deal In Biggest Overseas Win",
-          "url": "https://finance.yahoo.com/energy/articles/bloom-energy-lands-900-megawatt-160915925.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-08T16:09:15Z"
         }
       ]
     },
@@ -2115,8 +2115,8 @@
     },
     {
       "label": "WTI",
-      "price": 90.34,
-      "change_pct": -0.54
+      "price": 90.41,
+      "change_pct": -0.46
     },
     {
       "label": "Brent",
@@ -2126,7 +2126,7 @@
     {
       "label": "NatGas",
       "price": 3.03,
-      "change_pct": 1.03
+      "change_pct": 1.17
     }
   ]
 }
