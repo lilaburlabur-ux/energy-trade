@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-09T21:51:33+00:00",
-  "as_of_local": "2026-11-09 21:51:33 UTC",
+  "as_of_utc": "2026-11-09T21:56:41+00:00",
+  "as_of_local": "2026-11-09 21:56:41 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "OKLO"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1603,6 +1601,34 @@
       ]
     },
     {
+      "symbol": "OKLO",
+      "name": "Oklo",
+      "price": 26.84,
+      "previous_close": 23.55,
+      "change_pct": 13.97,
+      "market_cap": 5241572705.918827,
+      "headlines": [
+        {
+          "title": "Should You Buy Oklo Stock While It's Under $30?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/buy-oklo-stock-while-under-213402993.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-09T21:34:02Z"
+        },
+        {
+          "title": "NuScale Is Still Down 61% in 2026: Did Today Mark the Bottom for SMR Stock?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nuscale-still-down-61-2026-200226711.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-09T20:02:26Z"
+        },
+        {
+          "title": "Oklo Is Down 86% From Its High. Will Shares Soar When Meta's Reactor Comes Online?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/oklo-down-86-high-shares-184300535.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-09T18:43:00Z"
+        }
+      ]
+    },
+    {
       "symbol": "ENPH",
       "name": "Enphase Energy",
       "price": 29.08,
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 86.7,
-      "change_pct": -4.55
+      "price": 86.73,
+      "change_pct": -4.51
     },
     {
       "label": "Brent",
-      "price": 92.39,
-      "change_pct": -6.03
+      "price": 92.47,
+      "change_pct": -5.95
     },
     {
       "label": "NatGas",
       "price": 3.21,
-      "change_pct": 7.24
+      "change_pct": 7.14
     }
   ]
 }
