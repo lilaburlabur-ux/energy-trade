@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-09T13:31:19+00:00",
-  "as_of_local": "2026-11-09 13:31:19 UTC",
+  "as_of_utc": "2026-11-09T13:36:21+00:00",
+  "as_of_local": "2026-11-09 13:36:21 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -1021,6 +1021,12 @@
       "market_cap": 42307201034.5459,
       "headlines": [
         {
+          "title": "Nuclear Stocks Jump After Brutal Election Week",
+          "url": "https://finance.yahoo.com/energy/articles/nuclear-stocks-jump-brutal-election-131053554.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-09T13:10:53Z"
+        },
+        {
           "title": "Data-Center Moratoriums? They Aren\u2019t Showing Up in Constellation Energy\u2019s Guidance.",
           "url": "https://www.barrons.com/articles/constellation-energy-earnings-stock-price-89dc5612?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
@@ -1031,12 +1037,6 @@
           "url": "https://finance.yahoo.com/energy/articles/not-bloom-energy-not-vistra-180500572.html",
           "publisher": "Motley Fool",
           "published": "2026-11-08T18:05:00Z"
-        },
-        {
-          "title": "Vistra Q3 Earnings Call Highlights",
-          "url": "https://finance.yahoo.com/energy/articles/vistra-q3-earnings-call-highlights-061409505.html",
-          "publisher": "MarketBeat",
-          "published": "2026-11-08T06:14:09Z"
         }
       ]
     },
@@ -1245,6 +1245,12 @@
       "market_cap": 18559483736.523445,
       "headlines": [
         {
+          "title": "NRG Energy Signs $4 Billion Asset-Sale Agreement, Posts Higher Quarterly Earnings",
+          "url": "https://www.wsj.com/business/earnings/nrg-energy-signs-4-billion-asset-sale-agreement-posts-higher-quarterly-earnings-457b3efe?siteid=yhoof2&yptr=yahoo",
+          "publisher": "The Wall Street Journal",
+          "published": "2026-11-09T13:28:00Z"
+        },
+        {
           "title": "NRG Energy (NRG) Beats Q3 Earnings and Revenue Estimates",
           "url": "https://finance.yahoo.com/markets/stocks/articles/nrg-energy-nrg-beats-q3-115501662.html",
           "publisher": "Zacks",
@@ -1255,12 +1261,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/nrg-q3-earnings-snapshot-115334417.html",
           "publisher": "Associated Press",
           "published": "2026-11-09T11:53:34Z"
-        },
-        {
-          "title": "What Just Happened To Vistra Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/just-happened-vistra-stock-124942088.html",
-          "publisher": "Trefis",
-          "published": "2026-11-07T12:49:42Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 87.53,
-      "change_pct": -3.63
+      "price": 87.77,
+      "change_pct": -3.37
     },
     {
       "label": "Brent",
-      "price": 94.24,
-      "change_pct": -4.15
+      "price": 94.54,
+      "change_pct": -3.84
     },
     {
       "label": "NatGas",
       "price": 3.1,
-      "change_pct": 3.24
+      "change_pct": 3.47
     }
   ]
 }
