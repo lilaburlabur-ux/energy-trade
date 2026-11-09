@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-09T09:43:32+00:00",
-  "as_of_local": "2026-11-09 09:43:32 UTC",
+  "as_of_utc": "2026-11-09T09:48:41+00:00",
+  "as_of_local": "2026-11-09 09:48:41 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "VST"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1011,6 +1009,34 @@
           "url": "https://finance.yahoo.com/energy/articles/u-oil-gas-drillers-see-182100596.html",
           "publisher": "Oilprice.com",
           "published": "2026-11-06T18:21:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "VST",
+      "name": "Vistra",
+      "price": 124.8,
+      "previous_close": 112.89,
+      "change_pct": 10.55,
+      "market_cap": 42307201034.5459,
+      "headlines": [
+        {
+          "title": "Not Bloom Energy. Not Vistra. This AI Power Stock Just Posted a 96% Jump in Orders.",
+          "url": "https://finance.yahoo.com/energy/articles/not-bloom-energy-not-vistra-180500572.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-08T18:05:00Z"
+        },
+        {
+          "title": "Vistra Q3 Earnings Call Highlights",
+          "url": "https://finance.yahoo.com/energy/articles/vistra-q3-earnings-call-highlights-061409505.html",
+          "publisher": "MarketBeat",
+          "published": "2026-11-08T06:14:09Z"
+        },
+        {
+          "title": "Constellation Energy Just Dropped 17% in a Month. Is It Time to Sell, or Load Up?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/constellation-energy-just-dropped-17-040804790.html",
+          "publisher": "TIKR",
+          "published": "2026-11-08T04:08:04Z"
         }
       ]
     },
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 90.02,
-      "change_pct": -0.89
+      "price": 90.18,
+      "change_pct": -0.72
     },
     {
       "label": "Brent",
-      "price": 97.08,
-      "change_pct": -1.26
+      "price": 97.21,
+      "change_pct": -1.13
     },
     {
       "label": "NatGas",
       "price": 3.03,
-      "change_pct": 1.17
+      "change_pct": 0.93
     }
   ]
 }
