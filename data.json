@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-09T22:01:34+00:00",
-  "as_of_local": "2026-11-09 22:01:34 UTC",
+  "as_of_utc": "2026-11-09T22:06:44+00:00",
+  "as_of_local": "2026-11-09 22:06:44 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "CVX"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -29,34 +31,6 @@
           "url": "https://finance.yahoo.com/energy/articles/exxonmobil-xom-pauses-texas-hydrogen-180912852.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-09T18:09:12Z"
-        }
-      ]
-    },
-    {
-      "symbol": "CVX",
-      "name": "Chevron",
-      "price": 210.78,
-      "previous_close": 212.61,
-      "change_pct": -0.86,
-      "market_cap": 411285249553.1785,
-      "headlines": [
-        {
-          "title": "Kent Companies joins Pay With Points",
-          "url": "https://finance.yahoo.com/small-business/articles/kent-companies-joins-pay-points-150000322.html",
-          "publisher": "C-Store Dive",
-          "published": "2026-11-09T15:00:00Z"
-        },
-        {
-          "title": "What Mattered Most In Chevron's Latest Quarter?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/mattered-most-chevrons-latest-quarter-124605786.html",
-          "publisher": "Trefis",
-          "published": "2026-11-09T12:46:05Z"
-        },
-        {
-          "title": "3 Dividend Aristocrats Yielding More Than the 2027 COLA",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-dividend-aristocrats-yielding-more-123754735.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-09T12:37:54Z"
         }
       ]
     },
@@ -1027,15 +1001,15 @@
           "published": "2026-11-09T18:51:00Z"
         },
         {
-          "title": "Vistra and Constellation Both Fell Sharply After the Election. One Has Far More Exposure to Texas.",
-          "url": "https://finance.yahoo.com/energy/articles/vistra-constellation-both-fell-sharply-182500253.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-09T18:25:00Z"
-        },
-        {
           "title": "Data-Center Moratoriums? They Aren\u2019t Showing Up in Constellation Energy\u2019s Guidance.",
           "url": "https://www.barrons.com/articles/constellation-energy-earnings-stock-price-89dc5612?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
+          "published": "2026-11-09T18:25:00Z"
+        },
+        {
+          "title": "Vistra and Constellation Both Fell Sharply After the Election. One Has Far More Exposure to Texas.",
+          "url": "https://finance.yahoo.com/energy/articles/vistra-constellation-both-fell-sharply-182500253.html",
+          "publisher": "Motley Fool",
           "published": "2026-11-09T18:25:00Z"
         }
       ]
@@ -1930,8 +1904,8 @@
           "name": "Chevron Corp",
           "short": "Chevron",
           "weight_pct": 18.29,
-          "change_pct": -0.86,
-          "price": 210.78,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -2029,8 +2003,8 @@
         "name": "Chevron Corp",
         "short": "Chevron",
         "weight_pct": 18.29,
-        "change_pct": -0.86,
-        "price": 210.78,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 86.53,
-      "change_pct": -4.73
+      "price": 86.4,
+      "change_pct": -4.88
     },
     {
       "label": "Brent",
-      "price": 92.3,
-      "change_pct": -6.12
+      "price": 92.17,
+      "change_pct": -6.26
     },
     {
       "label": "NatGas",
       "price": 3.21,
-      "change_pct": 6.94
+      "change_pct": 7.04
     }
   ]
 }
