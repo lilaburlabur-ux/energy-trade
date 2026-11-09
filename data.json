@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-09T03:29:19+00:00",
-  "as_of_local": "2026-11-09 03:29:19 UTC",
+  "as_of_utc": "2026-11-09T03:34:30+00:00",
+  "as_of_local": "2026-11-09 03:34:30 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "EQT"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1099,6 +1097,34 @@
       ]
     },
     {
+      "symbol": "EQT",
+      "name": "EQT Corp",
+      "price": 49.4,
+      "previous_close": 50.62,
+      "change_pct": -2.41,
+      "market_cap": 30902142697.712677,
+      "headlines": [
+        {
+          "title": "Do Wall Street Analysts Like EQT Corporation Stock?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-eqt-corporation-111402304.html",
+          "publisher": "Barchart",
+          "published": "2026-11-06T11:14:02Z"
+        },
+        {
+          "title": "Why Is Everyone Ignoring Expand Energy Stock's High Cash Yield?",
+          "url": "https://finance.yahoo.com/energy/articles/why-everyone-ignoring-expand-energy-000859092.html",
+          "publisher": "Trefis",
+          "published": "2026-11-06T00:08:59Z"
+        },
+        {
+          "title": "William Blair shakes up its top stock picks",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/william-blair-shakes-top-stock-162539821.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-02T16:25:39Z"
+        }
+      ]
+    },
+    {
       "symbol": "HAL",
       "name": "Halliburton",
       "price": 31.84,
@@ -2089,13 +2115,13 @@
     },
     {
       "label": "WTI",
-      "price": 91.29,
-      "change_pct": 0.51
+      "price": 91.2,
+      "change_pct": 0.41
     },
     {
       "label": "Brent",
-      "price": 98.29,
-      "change_pct": -0.03
+      "price": 98.17,
+      "change_pct": -0.15
     },
     {
       "label": "NatGas",
