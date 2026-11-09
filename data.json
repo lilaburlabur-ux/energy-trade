@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-09T09:33:26+00:00",
-  "as_of_local": "2026-11-09 09:33:26 UTC",
+  "as_of_utc": "2026-11-09T09:38:36+00:00",
+  "as_of_local": "2026-11-09 09:38:36 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -685,6 +685,12 @@
       "market_cap": 65165251659.73559,
       "headlines": [
         {
+          "title": "A 68-Year-Old Swapped His Bond Funds for DIVO and GPIX in a $1.1 Million Portfolio. Here\u2019s What Happened to His $6,700 Monthly Paycheck",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/68-old-swapped-bond-funds-183743434.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-08T18:37:43Z"
+        },
+        {
           "title": "Energy Transfer Just Raised Its Distribution for the 20th Straight Quarter. Here's How Much $10,000 Invested Pays Annually.",
           "url": "https://finance.yahoo.com/energy/articles/energy-transfer-just-raised-distribution-002000284.html",
           "publisher": "Motley Fool",
@@ -695,12 +701,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/everyone-loves-6-5-pipeline-133500436.html",
           "publisher": "Motley Fool",
           "published": "2026-11-07T13:35:00Z"
-        },
-        {
-          "title": "MarketBeat Week in Review \u2013 11/2 - 11/6",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/marketbeat-week-review-11-2-120000947.html",
-          "publisher": "MarketBeat",
-          "published": "2026-11-07T12:00:00Z"
         }
       ]
     },
@@ -1797,6 +1797,34 @@
       ]
     },
     {
+      "symbol": "SEDG",
+      "name": "SolarEdge",
+      "price": 27.51,
+      "previous_close": 26.2,
+      "change_pct": 5.0,
+      "market_cap": 1703265185.6810818,
+      "headlines": [
+        {
+          "title": "SolarEdge (SEDG) Reports Q3 Earnings: What Key Metrics Have to Say",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/solaredge-sedg-reports-q3-earnings-210002423.html",
+          "publisher": "Zacks",
+          "published": "2026-11-06T21:00:02Z"
+        },
+        {
+          "title": "Earnings Beat Altering The Investment Case For SolarEdge Stock?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/earnings-beat-altering-investment-case-201044794.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-06T20:10:44Z"
+        },
+        {
+          "title": "Can First Solar Stock Fall 30%?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/first-solar-stock-fall-30-122056986.html",
+          "publisher": "Trefis",
+          "published": "2026-11-06T12:20:56Z"
+        }
+      ]
+    },
+    {
       "symbol": "ARRY",
       "name": "Array Technologies",
       "price": 5.86,
@@ -2087,18 +2115,13 @@
     },
     {
       "label": "WTI",
-      "price": 90.09,
-      "change_pct": -0.81
+      "price": 90.03,
+      "change_pct": -0.88
     },
     {
       "label": "Brent",
-      "price": 97.01,
-      "change_pct": -1.33
-    },
-    {
-      "label": "NatGas",
-      "price": 3.04,
-      "change_pct": 1.33
+      "price": 97.08,
+      "change_pct": -1.26
     }
   ]
 }
