@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-09T02:44:10+00:00",
-  "as_of_local": "2026-11-09 02:44:10 UTC",
+  "as_of_utc": "2026-11-09T02:59:04+00:00",
+  "as_of_local": "2026-11-09 02:59:04 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -1385,6 +1385,12 @@
       "market_cap": 14984790861.776104,
       "headlines": [
         {
+          "title": "APA Corporation\u2019s Q3 2026 earnings call: our top 5 analyst questions",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/apa-corporation-q3-2026-earnings-024536008.html",
+          "publisher": "StockStory",
+          "published": "2026-11-09T02:45:36Z"
+        },
+        {
           "title": "APA Q3 Earnings Beat on Strong Oil Prices and U.S. Output",
           "url": "https://finance.yahoo.com/energy/articles/apa-q3-earnings-beat-strong-155200571.html",
           "publisher": "Zacks",
@@ -1395,12 +1401,6 @@
           "url": "https://finance.yahoo.com/energy/articles/apa-q3-earnings-call-highlights-150000070.html",
           "publisher": "Zacks",
           "published": "2026-11-06T15:00:00Z"
-        },
-        {
-          "title": "APA Corp (APA) Q3 2026 Earnings Call Transcript",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/apa-corp-apa-q3-2026-213241058.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-05T21:32:41Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 90.81,
-      "change_pct": -0.02
+      "price": 90.89,
+      "change_pct": 0.07
     },
     {
       "label": "Brent",
-      "price": 97.86,
-      "change_pct": -0.47
+      "price": 97.96,
+      "change_pct": -0.37
     },
     {
       "label": "NatGas",
       "price": 3.02,
-      "change_pct": 0.63
+      "change_pct": 0.77
     }
   ]
 }
