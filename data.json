@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-09T05:15:06+00:00",
-  "as_of_local": "2026-11-09 05:15:06 UTC",
+  "as_of_utc": "2026-11-09T05:30:15+00:00",
+  "as_of_local": "2026-11-09 05:30:15 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "PR"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1267,6 +1265,34 @@
       ]
     },
     {
+      "symbol": "PR",
+      "name": "Permian Resources",
+      "price": 21.75,
+      "previous_close": 21.34,
+      "change_pct": 1.92,
+      "market_cap": 18242286106.5,
+      "headlines": [
+        {
+          "title": "The top 5 analyst questions from Permian Resources\u2019s Q3 2026 earnings call",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-permian-220536252.html",
+          "publisher": "StockStory",
+          "published": "2026-11-08T22:05:36Z"
+        },
+        {
+          "title": "Permian Resources Q3 Earnings Call Highlights",
+          "url": "https://finance.yahoo.com/energy/articles/permian-resources-q3-earnings-call-051413053.html",
+          "publisher": "MarketBeat",
+          "published": "2026-11-08T05:14:13Z"
+        },
+        {
+          "title": "Permian Resources Corp (PR) (Q3 2026) Earnings Call Highlights: Record Free Cash Flow, $1. ...",
+          "url": "https://finance.yahoo.com/energy/articles/permian-resources-corp-pr-q3-151241779.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-07T15:12:41Z"
+        }
+      ]
+    },
+    {
       "symbol": "DINO",
       "name": "HF Sinclair",
       "price": 97.18,
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 91.09,
-      "change_pct": 0.29
+      "price": 90.46,
+      "change_pct": -0.41
     },
     {
       "label": "Brent",
-      "price": 98.11,
-      "change_pct": -0.21
+      "price": 97.4,
+      "change_pct": -0.94
     },
     {
       "label": "NatGas",
       "price": 3.02,
-      "change_pct": 0.57
+      "change_pct": 0.77
     }
   ]
 }
