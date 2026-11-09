@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-09T11:14:53+00:00",
-  "as_of_local": "2026-11-09 11:14:53 UTC",
+  "as_of_utc": "2026-11-09T11:19:45+00:00",
+  "as_of_local": "2026-11-09 11:19:45 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "ETR"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -871,6 +869,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/occidental-petroleum-release-q3-earnings-135700931.html",
           "publisher": "Zacks",
           "published": "2026-11-06T13:57:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "ETR",
+      "name": "Entergy",
+      "price": 110.55,
+      "previous_close": 110.3,
+      "change_pct": 0.23,
+      "market_cap": 52823789684.76265,
+      "headlines": [
+        {
+          "title": "Entergy Arkansas (EAI) Q3 2026 Earnings Call Transcript",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/entergy-arkansas-eai-q3-2026-233020138.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-06T23:30:20Z"
+        },
+        {
+          "title": "Consolidated Edison Q3 Earnings Lag Estimates, Revenues Rise Y/Y",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/consolidated-edison-q3-earnings-lag-130900521.html",
+          "publisher": "Zacks",
+          "published": "2026-11-06T13:09:00Z"
+        },
+        {
+          "title": "Ameren Q3 Earnings Surpass Estimates, Revenues Increase Y/Y",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ameren-q3-earnings-surpass-estimates-130600436.html",
+          "publisher": "Zacks",
+          "published": "2026-11-06T13:06:00Z"
         }
       ]
     },
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 89.42,
-      "change_pct": -1.55
+      "price": 89.37,
+      "change_pct": -1.61
     },
     {
       "label": "Brent",
-      "price": 96.39,
-      "change_pct": -1.96
+      "price": 96.35,
+      "change_pct": -2.0
     },
     {
       "label": "NatGas",
       "price": 3.02,
-      "change_pct": 0.83
+      "change_pct": 0.73
     }
   ]
 }
