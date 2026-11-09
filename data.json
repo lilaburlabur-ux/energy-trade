@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-09T09:27:21+00:00",
-  "as_of_local": "2026-11-09 09:27:21 UTC",
+  "as_of_utc": "2026-11-09T09:32:17+00:00",
+  "as_of_local": "2026-11-09 09:32:17 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "SMR"
+    "SEDG"
   ],
   "stocks": [
     {
@@ -687,12 +687,6 @@
       "market_cap": 65165251659.73559,
       "headlines": [
         {
-          "title": "A 68-Year-Old Swapped His Bond Funds for DIVO and GPIX in a $1.1 Million Portfolio. Here\u2019s What Happened to His $6,700 Monthly Paycheck",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/68-old-swapped-bond-funds-183743434.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-08T18:37:43Z"
-        },
-        {
           "title": "Energy Transfer Just Raised Its Distribution for the 20th Straight Quarter. Here's How Much $10,000 Invested Pays Annually.",
           "url": "https://finance.yahoo.com/energy/articles/energy-transfer-just-raised-distribution-002000284.html",
           "publisher": "Motley Fool",
@@ -703,6 +697,12 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/everyone-loves-6-5-pipeline-133500436.html",
           "publisher": "Motley Fool",
           "published": "2026-11-07T13:35:00Z"
+        },
+        {
+          "title": "MarketBeat Week in Review \u2013 11/2 - 11/6",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/marketbeat-week-review-11-2-120000947.html",
+          "publisher": "MarketBeat",
+          "published": "2026-11-07T12:00:00Z"
         }
       ]
     },
@@ -1743,6 +1743,34 @@
       ]
     },
     {
+      "symbol": "SMR",
+      "name": "NuScale Power",
+      "price": 5.08,
+      "previous_close": 4.37,
+      "change_pct": 16.25,
+      "market_cap": 2085550240.0381775,
+      "headlines": [
+        {
+          "title": "What NuScale Power (SMR) Said on Its Q3 Earnings Call",
+          "url": "https://finance.yahoo.com/energy/articles/nuscale-power-smr-said-q3-201417452.html",
+          "publisher": "MarketBeat",
+          "published": "2026-11-08T20:14:17Z"
+        },
+        {
+          "title": "NuScale Has Lost 84% in a Year. Cantor Fitzgerald Still Sees $15",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nuscale-lost-84-cantor-fitzgerald-110608254.html",
+          "publisher": "TIKR",
+          "published": "2026-11-08T11:06:08Z"
+        },
+        {
+          "title": "NuScale Just Hit a New 52-Week Low After Losing 26% in a Week. Is the Selling Overdone?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nuscale-just-hit-52-week-234937076.html",
+          "publisher": "TIKR",
+          "published": "2026-11-07T23:49:37Z"
+        }
+      ]
+    },
+    {
       "symbol": "UUUU",
       "name": "Energy Fuels",
       "price": 6.66,
@@ -1767,34 +1795,6 @@
           "url": "https://finance.yahoo.com/energy/articles/atkinsr-alis-group-2-canadian-002032927.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-08T00:20:32Z"
-        }
-      ]
-    },
-    {
-      "symbol": "SEDG",
-      "name": "SolarEdge",
-      "price": 27.51,
-      "previous_close": 26.2,
-      "change_pct": 5.0,
-      "market_cap": 1703265185.6810818,
-      "headlines": [
-        {
-          "title": "SolarEdge (SEDG) Reports Q3 Earnings: What Key Metrics Have to Say",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/solaredge-sedg-reports-q3-earnings-210002423.html",
-          "publisher": "Zacks",
-          "published": "2026-11-06T21:00:02Z"
-        },
-        {
-          "title": "Earnings Beat Altering The Investment Case For SolarEdge Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/earnings-beat-altering-investment-case-201044794.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-06T20:10:44Z"
-        },
-        {
-          "title": "Can First Solar Stock Fall 30%?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/first-solar-stock-fall-30-122056986.html",
-          "publisher": "Trefis",
-          "published": "2026-11-06T12:20:56Z"
         }
       ]
     },
@@ -2089,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 89.65,
-      "change_pct": -1.3
+      "price": 90.05,
+      "change_pct": -0.86
     },
     {
       "label": "Brent",
-      "price": 96.54,
-      "change_pct": -1.81
+      "price": 97.04,
+      "change_pct": -1.3
     },
     {
       "label": "NatGas",
       "price": 3.04,
-      "change_pct": 1.23
+      "change_pct": 1.3
     }
   ]
 }
