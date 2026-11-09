@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-09T04:39:44+00:00",
-  "as_of_local": "2026-11-09 04:39:44 UTC",
+  "as_of_utc": "2026-11-09T04:54:51+00:00",
+  "as_of_local": "2026-11-09 04:54:51 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "EPD"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -507,6 +505,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/750-000-dividend-portfolio-could-174836690.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-05T17:48:36Z"
+        }
+      ]
+    },
+    {
+      "symbol": "EPD",
+      "name": "Enterprise Products",
+      "price": 37.03,
+      "previous_close": 36.62,
+      "change_pct": 1.12,
+      "market_cap": 79859075259.16571,
+      "headlines": [
+        {
+          "title": "The Best Energy Stock to Buy With Oil Near $105 Isn't an Oil Producer",
+          "url": "https://finance.yahoo.com/energy/articles/best-energy-stock-buy-oil-133500116.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-08T13:35:00Z"
+        },
+        {
+          "title": "Everyone Loves This 6.5% Pipeline Yield. Here's the Risk I Think They're Ignoring.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/everyone-loves-6-5-pipeline-133500436.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-07T13:35:00Z"
+        },
+        {
+          "title": "Enterprise Products (EPD) Q3 Earnings: Taking a Look at Key Metrics Versus Estimates",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/enterprise-products-epd-q3-earnings-210001954.html",
+          "publisher": "Zacks",
+          "published": "2026-11-06T21:00:01Z"
         }
       ]
     },
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 91.38,
-      "change_pct": 0.61
+      "price": 91.25,
+      "change_pct": 0.46
     },
     {
       "label": "Brent",
-      "price": 98.4,
-      "change_pct": 0.08
+      "price": 98.29,
+      "change_pct": -0.03
     },
     {
       "label": "NatGas",
       "price": 3.03,
-      "change_pct": 1.17
+      "change_pct": 1.0
     }
   ]
 }
