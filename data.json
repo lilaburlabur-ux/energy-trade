@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-09T12:00:08+00:00",
-  "as_of_local": "2026-11-09 12:00:08 UTC",
+  "as_of_utc": "2026-11-09T12:05:26+00:00",
+  "as_of_local": "2026-11-09 12:05:26 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -1245,6 +1245,12 @@
       "market_cap": 18559483736.523445,
       "headlines": [
         {
+          "title": "NRG: Q3 Earnings Snapshot",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nrg-q3-earnings-snapshot-115334417.html",
+          "publisher": "Associated Press",
+          "published": "2026-11-09T11:53:34Z"
+        },
+        {
           "title": "What Just Happened To Vistra Stock?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/just-happened-vistra-stock-124942088.html",
           "publisher": "Trefis",
@@ -1255,12 +1261,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/nrg-energy-reports-soon-stock-012001063.html",
           "publisher": "Trefis",
           "published": "2026-11-07T01:20:01Z"
-        },
-        {
-          "title": "PPL Q3 Earnings Beat Estimates on Higher Rates, Sales Volumes",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ppl-q3-earnings-beat-estimates-171300630.html",
-          "publisher": "Zacks",
-          "published": "2026-11-06T17:13:00Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 88.19,
-      "change_pct": -2.91
+      "price": 88.33,
+      "change_pct": -2.75
     },
     {
       "label": "Brent",
-      "price": 94.83,
-      "change_pct": -3.55
+      "price": 94.85,
+      "change_pct": -3.53
     },
     {
       "label": "NatGas",
-      "price": 3.02,
-      "change_pct": 0.63
+      "price": 3.01,
+      "change_pct": 0.37
     }
   ]
 }
