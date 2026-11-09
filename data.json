@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-09T10:59:22+00:00",
-  "as_of_local": "2026-11-09 10:59:22 UTC",
+  "as_of_utc": "2026-11-09T11:04:36+00:00",
+  "as_of_local": "2026-11-09 11:04:36 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "NOV"
+    "NEE"
   ],
   "stocks": [
     {
@@ -71,6 +71,12 @@
       "market_cap": 280589392866.36346,
       "headlines": [
         {
+          "title": "The Zacks Analyst Blog Highlights Shell, Dell and Amphenol and Versus Systems",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-shell-095700368.html",
+          "publisher": "Zacks",
+          "published": "2026-11-09T09:57:00Z"
+        },
+        {
           "title": "Top 3 British Value Stocks To Watch In November 2026",
           "url": "https://finance.yahoo.com/markets/stocks/articles/top-3-british-value-stocks-161033547.html",
           "publisher": "Simply Wall St.",
@@ -81,12 +87,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/shell-2-british-undervalued-stocks-061351421.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-07T06:13:51Z"
-        },
-        {
-          "title": "Better Dividend Stock: Chevron vs. Shell",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/better-dividend-stock-chevron-vs-215325295.html",
-          "publisher": "TIKR",
-          "published": "2026-11-06T21:53:25Z"
         }
       ]
     },
@@ -143,34 +143,6 @@
           "url": "https://finance.yahoo.com/energy/articles/chevron-refineries-ran-98-january-155014932.html",
           "publisher": "TIKR",
           "published": "2026-11-08T15:50:14Z"
-        }
-      ]
-    },
-    {
-      "symbol": "NEE",
-      "name": "NextEra Energy",
-      "price": 86.95,
-      "previous_close": 88.25,
-      "change_pct": -1.47,
-      "market_cap": 182360754560.0799,
-      "headlines": [
-        {
-          "title": "NextEra Energy vs. Southern Company: Which Dividend Stock Is Better for Retirement?",
-          "url": "https://finance.yahoo.com/energy/articles/nextera-energy-vs-southern-company-170424659.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-08T17:04:24Z"
-        },
-        {
-          "title": "3 Top Picks With At Least 2% Dividend Yield",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-top-picks-least-2-160951965.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-07T16:09:51Z"
-        },
-        {
-          "title": "5 Best Stocks to Buy After Democrats\u2019 Midterm Election Victory",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/5-best-stocks-buy-democrats-135533261.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-11-07T13:55:33Z"
         }
       ]
     },
@@ -1519,6 +1491,34 @@
       ]
     },
     {
+      "symbol": "NOV",
+      "name": "NOV Inc",
+      "price": 17.56,
+      "previous_close": 17.39,
+      "change_pct": 0.98,
+      "market_cap": 6260359151.561789,
+      "headlines": [
+        {
+          "title": "Why Is Baker Hughes Stock Falling?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-baker-hughes-stock-falling-141921435.html",
+          "publisher": "Trefis",
+          "published": "2026-11-06T14:19:21Z"
+        },
+        {
+          "title": "CRGY Q3 Earnings Beat on Higher Oil Prices and Production",
+          "url": "https://finance.yahoo.com/energy/articles/crgy-q3-earnings-beat-higher-163600754.html",
+          "publisher": "Zacks",
+          "published": "2026-11-05T16:36:00Z"
+        },
+        {
+          "title": "NOV Expects Higher Offshore Bookings on Strong FPSO Project Pipeline",
+          "url": "https://finance.yahoo.com/energy/articles/nov-expects-higher-offshore-bookings-141000583.html",
+          "publisher": "Zacks",
+          "published": "2026-11-02T14:10:00Z"
+        }
+      ]
+    },
+    {
       "symbol": "WFRD",
       "name": "Weatherford",
       "price": 84.43,
@@ -2089,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 89.66,
-      "change_pct": -1.29
+      "price": 89.56,
+      "change_pct": -1.4
     },
     {
       "label": "Brent",
-      "price": 96.65,
-      "change_pct": -1.7
+      "price": 96.58,
+      "change_pct": -1.77
     },
     {
       "label": "NatGas",
-      "price": 3.02,
-      "change_pct": 0.87
+      "price": 3.03,
+      "change_pct": 0.93
     }
   ]
 }
