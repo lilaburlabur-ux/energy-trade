@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-09T08:16:12+00:00",
-  "as_of_local": "2026-11-09 08:16:12 UTC",
+  "as_of_utc": "2026-11-09T08:21:11+00:00",
+  "as_of_local": "2026-11-09 08:21:11 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -907,7 +907,26 @@
       "previous_close": 167.52,
       "change_pct": 3.41,
       "market_cap": 51198869096.51442,
-      "headlines": []
+      "headlines": [
+        {
+          "title": "Bloom Energy Stock Fell 16% on the Same Day 2 Giant Data Center Deals Named It. Is It a Buy?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-stock-fell-16-003602254.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-09T00:36:02Z"
+        },
+        {
+          "title": "Not Bloom Energy. Not Vistra. This AI Power Stock Just Posted a 96% Jump in Orders.",
+          "url": "https://finance.yahoo.com/energy/articles/not-bloom-energy-not-vistra-180500572.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-08T18:05:00Z"
+        },
+        {
+          "title": "Bloom Energy (BE) Lands 900 Megawatt Data Center Power Deal In Biggest Overseas Win",
+          "url": "https://finance.yahoo.com/energy/articles/bloom-energy-lands-900-megawatt-160915925.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-08T16:09:15Z"
+        }
+      ]
     },
     {
       "symbol": "FANG",
@@ -2096,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 90.03,
-      "change_pct": -0.88
+      "price": 90.05,
+      "change_pct": -0.86
     },
     {
       "label": "Brent",
-      "price": 96.86,
-      "change_pct": -1.48
+      "price": 96.79,
+      "change_pct": -1.56
     },
     {
       "label": "NatGas",
-      "price": 3.01,
-      "change_pct": 0.47
+      "price": 3.02,
+      "change_pct": 0.57
     }
   ]
 }
