@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-09T10:39:09+00:00",
-  "as_of_local": "2026-11-09 10:39:09 UTC",
+  "as_of_utc": "2026-11-09T10:44:20+00:00",
+  "as_of_local": "2026-11-09 10:44:20 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "BP"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -227,6 +225,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/sure-understand-vertiv-stocks-risk-010525405.html",
           "publisher": "Trefis",
           "published": "2026-11-07T01:05:25Z"
+        }
+      ]
+    },
+    {
+      "symbol": "BP",
+      "name": "BP",
+      "price": 44.53,
+      "previous_close": 44.7,
+      "change_pct": -0.38,
+      "market_cap": 114693785180.60342,
+      "headlines": [
+        {
+          "title": "Clean Energy Fuels Corp (CLNE) (Q3 2026) Earnings Call Highlights: Raised Guidance, Surging RNG ...",
+          "url": "https://finance.yahoo.com/energy/articles/clean-energy-fuels-corp-clne-052748917.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-06T05:27:48Z"
+        },
+        {
+          "title": "3 British Energy Stocks With Earnings Growth Over 60%",
+          "url": "https://finance.yahoo.com/energy/articles/3-british-energy-stocks-earnings-211322595.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-05T21:13:22Z"
+        },
+        {
+          "title": "Sector Update: Energy Stocks Drop Thursday",
+          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-drop-thursday-210255557.html",
+          "publisher": "MT Newswires",
+          "published": "2026-11-05T21:02:55Z"
         }
       ]
     },
@@ -1275,6 +1301,12 @@
       "market_cap": 16449771769.17746,
       "headlines": [
         {
+          "title": "Zacks.com featured highlights include DMC Global, HF Sinclair, Cenovus Energy, ZIM Integrated Shipping and POSCO",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-com-featured-highlights-dmc-092900036.html",
+          "publisher": "Zacks",
+          "published": "2026-11-09T09:29:00Z"
+        },
+        {
           "title": "EOG Q3 Earnings Beat Estimates on Record Production, Strong Pricing",
           "url": "https://finance.yahoo.com/energy/articles/eog-q3-earnings-beat-estimates-173400832.html",
           "publisher": "Zacks",
@@ -1285,12 +1317,6 @@
           "url": "https://finance.yahoo.com/energy/articles/baker-hughes-sharpens-portfolio-focus-170600313.html",
           "publisher": "Zacks",
           "published": "2026-11-06T17:06:00Z"
-        },
-        {
-          "title": "NESR to Report Q3 Earnings: Here's What Investors Should Know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nesr-report-q3-earnings-heres-170400655.html",
-          "publisher": "Zacks",
-          "published": "2026-11-06T17:04:00Z"
         }
       ]
     },
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 89.89,
-      "change_pct": -1.03
+      "price": 89.93,
+      "change_pct": -0.99
     },
     {
       "label": "Brent",
-      "price": 96.97,
-      "change_pct": -1.37
+      "price": 97.02,
+      "change_pct": -1.32
     },
     {
       "label": "NatGas",
-      "price": 3.03,
-      "change_pct": 0.97
+      "price": 3.0,
+      "change_pct": 1.73
     }
   ]
 }
