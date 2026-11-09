@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-09T23:23:09+00:00",
-  "as_of_local": "2026-11-09 23:23:09 UTC",
+  "as_of_utc": "2026-11-09T23:28:03+00:00",
+  "as_of_local": "2026-11-09 23:28:03 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "BP"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -225,34 +227,6 @@
           "url": "https://finance.yahoo.com/news/netflix-resumed-starbucks-downgraded-wall-133343741.html",
           "publisher": "The Fly",
           "published": "2026-11-09T14:35:30Z"
-        }
-      ]
-    },
-    {
-      "symbol": "BP",
-      "name": "BP",
-      "price": 44.59,
-      "previous_close": 44.53,
-      "change_pct": 0.13,
-      "market_cap": 114848327844.14333,
-      "headlines": [
-        {
-          "title": "BP Completes $6B Castrol Stake Sale: A Boost to Its Balance Sheet?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bp-completes-6b-castrol-stake-125500970.html",
-          "publisher": "Zacks",
-          "published": "2026-11-09T12:55:00Z"
-        },
-        {
-          "title": "Take the Zacks Approach to Beat the Markets: Ulta Beauty, Accenture, HCA in Focus",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-approach-beat-markets-ulta-110300678.html",
-          "publisher": "Zacks",
-          "published": "2026-11-09T11:03:00Z"
-        },
-        {
-          "title": "Clean Energy Fuels Corp (CLNE) (Q3 2026) Earnings Call Highlights: Raised Guidance, Surging RNG ...",
-          "url": "https://finance.yahoo.com/energy/articles/clean-energy-fuels-corp-clne-052748917.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-06T05:27:48Z"
         }
       ]
     },
@@ -1581,6 +1555,12 @@
       "market_cap": 5866928383.75,
       "headlines": [
         {
+          "title": "NexGen Energy: Q3 Earnings Snapshot",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nexgen-energy-q3-earnings-snapshot-232324648.html",
+          "publisher": "Associated Press",
+          "published": "2026-11-09T23:23:24Z"
+        },
+        {
           "title": "Oil, Uranium, or Renewables? 3 Energy Plays for a Changing Market",
           "url": "https://finance.yahoo.com/energy/articles/oil-uranium-renewables-3-energy-174500461.html",
           "publisher": "MarketBeat",
@@ -1591,12 +1571,6 @@
           "url": "https://finance.yahoo.com/energy/articles/nuscale-power-advances-smr-manufacturing-163500821.html",
           "publisher": "Zacks",
           "published": "2026-11-02T16:35:00Z"
-        },
-        {
-          "title": "What Is Behind The Move In Cameco Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/behind-move-cameco-stock-012341659.html",
-          "publisher": "Trefis",
-          "published": "2026-11-02T01:23:41Z"
         }
       ]
     },
@@ -2120,8 +2094,8 @@
     },
     {
       "label": "Brent",
-      "price": 92.14,
-      "change_pct": -6.29
+      "price": 92.13,
+      "change_pct": -6.3
     },
     {
       "label": "NatGas",
