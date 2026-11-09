@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-09T22:26:54+00:00",
-  "as_of_local": "2026-11-09 22:26:54 UTC",
+  "as_of_utc": "2026-11-09T22:32:23+00:00",
+  "as_of_local": "2026-11-09 22:32:23 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "KMI"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -545,6 +547,12 @@
       "market_cap": 77638565016.68604,
       "headlines": [
         {
+          "title": "Is Suncor Energy (TSX:SU) A Bargain After Its 269% Run?",
+          "url": "https://finance.yahoo.com/energy/articles/suncor-energy-tsx-su-bargain-220932255.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-09T22:09:32Z"
+        },
+        {
           "title": "Suncor Energy (TSX:SU) Lifts Dividend As Investors Ask If The Pullback Is A Buying Chance",
           "url": "https://finance.yahoo.com/energy/articles/suncor-energy-tsx-su-lifts-210832875.html",
           "publisher": "Simply Wall St.",
@@ -555,12 +563,6 @@
           "url": "https://finance.yahoo.com/news/investors-undervaluing-suncor-energy-su-134003019.html",
           "publisher": "Zacks",
           "published": "2026-11-09T13:40:03Z"
-        },
-        {
-          "title": "What Suncor Energy (SU) Said on Its Q3 Earnings Call",
-          "url": "https://finance.yahoo.com/energy/articles/suncor-energy-su-said-q3-001409683.html",
-          "publisher": "MarketBeat",
-          "published": "2026-11-08T00:14:09Z"
         }
       ]
     },
@@ -645,34 +647,6 @@
           "url": "https://finance.yahoo.com/energy/articles/why-slb-slb-pairing-norway-001149806.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-07T00:11:49Z"
-        }
-      ]
-    },
-    {
-      "symbol": "KMI",
-      "name": "Kinder Morgan",
-      "price": 30.57,
-      "previous_close": 29.96,
-      "change_pct": 2.04,
-      "market_cap": 68101253870.685265,
-      "headlines": [
-        {
-          "title": "CNQ Q3 Earnings Beat on Strong Pricing and Record Thermal Output",
-          "url": "https://finance.yahoo.com/energy/articles/cnq-q3-earnings-beat-strong-152800153.html",
-          "publisher": "Zacks",
-          "published": "2026-11-09T15:28:00Z"
-        },
-        {
-          "title": "A 64-Year-Old Swapped XYLD for SPYI in a $1.37 Million Portfolio. Here\u2019s What Happened to His $7,300 Monthly Paycheck",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/64-old-swapped-xyld-spyi-182129291.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-07T18:21:29Z"
-        },
-        {
-          "title": "Chevron or Kinder Morgan: Only One Gets My Dividend Dollars for the Next 10 Years",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/chevron-kinder-morgan-only-one-215416051.html",
-          "publisher": "TIKR",
-          "published": "2026-11-06T21:54:16Z"
         }
       ]
     },
@@ -825,6 +799,12 @@
       "market_cap": 57298757075.01282,
       "headlines": [
         {
+          "title": "Stock Market Today, Nov. 9: Plug Power Rises 3.45% on Positioning Ahead of Q3 Report",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-9-222410685.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-09T22:24:10Z"
+        },
+        {
           "title": "Is Bloom Energy Really Worth $200 Right Now? Here's the Math.",
           "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-really-worth-200-213502939.html",
           "publisher": "Motley Fool",
@@ -835,12 +815,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-left-one-thing-friendly-181700744.html",
           "publisher": "TheStreet",
           "published": "2026-11-09T18:17:00Z"
-        },
-        {
-          "title": "This AI-Adjacent Company Doesn\u2019t See Much Delay or Pause in Data-Center Projects",
-          "url": "https://www.barrons.com/articles/ferguson-enterprises-earnings-stock-price-87840ac8?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-11-09T17:28:00Z"
         }
       ]
     },
@@ -1027,15 +1001,15 @@
           "published": "2026-11-09T18:51:00Z"
         },
         {
-          "title": "Vistra and Constellation Both Fell Sharply After the Election. One Has Far More Exposure to Texas.",
-          "url": "https://finance.yahoo.com/energy/articles/vistra-constellation-both-fell-sharply-182500253.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-09T18:25:00Z"
-        },
-        {
           "title": "Data-Center Moratoriums? They Aren\u2019t Showing Up in Constellation Energy\u2019s Guidance.",
           "url": "https://www.barrons.com/articles/constellation-energy-earnings-stock-price-89dc5612?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
+          "published": "2026-11-09T18:25:00Z"
+        },
+        {
+          "title": "Vistra and Constellation Both Fell Sharply After the Election. One Has Far More Exposure to Texas.",
+          "url": "https://finance.yahoo.com/energy/articles/vistra-constellation-both-fell-sharply-182500253.html",
+          "publisher": "Motley Fool",
           "published": "2026-11-09T18:25:00Z"
         }
       ]
