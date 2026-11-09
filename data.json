@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-09T13:41:31+00:00",
-  "as_of_local": "2026-11-09 13:41:31 UTC",
+  "as_of_utc": "2026-11-09T13:47:09+00:00",
+  "as_of_local": "2026-11-09 13:47:09 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -433,6 +433,12 @@
       "market_cap": 88559128299.78969,
       "headlines": [
         {
+          "title": "Constellation Energy raises 2026 earnings guidance after quarterly profit more than doubles",
+          "url": "https://finance.yahoo.com/energy/articles/constellation-energy-raises-2026-earnings-133300312.html",
+          "publisher": "Proactive",
+          "published": "2026-11-09T13:33:00Z"
+        },
+        {
           "title": "Constellation shares up 4% in premarket trade on Q3 earnings beat, higher outlook",
           "url": "https://finance.yahoo.com/markets/stocks/articles/constellation-shares-4-premarket-trade-123515757.html",
           "publisher": "Investing.com",
@@ -443,12 +449,6 @@
           "url": "https://www.barrons.com/articles/constellation-energy-earnings-stock-price-89dc5612?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
           "published": "2026-11-09T12:34:00Z"
-        },
-        {
-          "title": "Constellation Energy Corporation (CEG) Beats Q3 Earnings and Revenue Estimates",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/constellation-energy-corporation-ceg-beats-120001993.html",
-          "publisher": "Zacks",
-          "published": "2026-11-09T12:00:01Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 87.51,
-      "change_pct": -3.66
+      "price": 87.13,
+      "change_pct": -4.07
     },
     {
       "label": "Brent",
-      "price": 94.48,
-      "change_pct": -3.91
+      "price": 93.9,
+      "change_pct": -4.5
     },
     {
       "label": "NatGas",
-      "price": 3.11,
-      "change_pct": 3.74
+      "price": 3.13,
+      "change_pct": 4.57
     }
   ]
 }
