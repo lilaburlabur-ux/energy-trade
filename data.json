@@ -1,39 +1,11 @@
 {
-  "as_of_utc": "2026-11-09T08:00:58+00:00",
-  "as_of_local": "2026-11-09 08:00:58 UTC",
+  "as_of_utc": "2026-11-09T08:06:03+00:00",
+  "as_of_local": "2026-11-09 08:06:03 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "SU"
+    "XOM"
   ],
   "stocks": [
-    {
-      "symbol": "XOM",
-      "name": "ExxonMobil",
-      "price": 165.87,
-      "previous_close": 165.3,
-      "change_pct": 0.34,
-      "market_cap": 676620606868.2017,
-      "headlines": [
-        {
-          "title": "What Targa Resources (TRGP) Said on Its Q3 Earnings Call",
-          "url": "https://finance.yahoo.com/energy/articles/targa-resources-trgp-said-q3-171429077.html",
-          "publisher": "MarketBeat",
-          "published": "2026-11-08T17:14:29Z"
-        },
-        {
-          "title": "ExxonMobil Is Up 38% in 2026 and Chevron Is Up 39%: Take Profits, or Hold On?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/exxonmobil-38-2026-chevron-39-234559956.html",
-          "publisher": "TIKR",
-          "published": "2026-11-07T23:45:59Z"
-        },
-        {
-          "title": "Exxon (XOM) Reports Q3 Earnings: What Key Metrics Have to Say",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/exxon-xom-reports-q3-earnings-220002638.html",
-          "publisher": "Zacks",
-          "published": "2026-11-06T22:00:02Z"
-        }
-      ]
-    },
     {
       "symbol": "CVX",
       "name": "Chevron",
@@ -535,6 +507,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/enterprise-products-epd-q3-earnings-210001954.html",
           "publisher": "Zacks",
           "published": "2026-11-06T21:00:01Z"
+        }
+      ]
+    },
+    {
+      "symbol": "SU",
+      "name": "Suncor Energy",
+      "price": 68.74,
+      "previous_close": 69.06,
+      "change_pct": -0.46,
+      "market_cap": 79135151248.39972,
+      "headlines": [
+        {
+          "title": "What Suncor Energy (SU) Said on Its Q3 Earnings Call",
+          "url": "https://finance.yahoo.com/energy/articles/suncor-energy-su-said-q3-001409683.html",
+          "publisher": "MarketBeat",
+          "published": "2026-11-08T00:14:09Z"
+        },
+        {
+          "title": "Will Suncor's Refining Strength Continue to Drive Cash Flow?",
+          "url": "https://finance.yahoo.com/energy/articles/suncors-refining-strength-continue-drive-144500622.html",
+          "publisher": "Zacks",
+          "published": "2026-11-06T14:45:00Z"
+        },
+        {
+          "title": "Elite Canadian Energy Stocks To Own In November 2026",
+          "url": "https://finance.yahoo.com/energy/articles/elite-canadian-energy-stocks-own-071103890.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-06T07:11:03Z"
         }
       ]
     },
@@ -1895,8 +1895,8 @@
           "name": "ExxonMobil Holdings Corp",
           "short": "ExxonMobil",
           "weight_pct": 24.29,
-          "change_pct": 0.34,
-          "price": 165.87,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -1994,8 +1994,8 @@
         "name": "ExxonMobil Holdings Corp",
         "short": "ExxonMobil",
         "weight_pct": 24.29,
-        "change_pct": 0.34,
-        "price": 165.87,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -2089,13 +2089,13 @@
     },
     {
       "label": "WTI",
-      "price": 89.74,
-      "change_pct": -1.2
+      "price": 89.78,
+      "change_pct": -1.16
     },
     {
       "label": "Brent",
-      "price": 96.49,
-      "change_pct": -1.86
+      "price": 96.51,
+      "change_pct": -1.84
     },
     {
       "label": "NatGas",
