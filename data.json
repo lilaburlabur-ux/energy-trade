@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-09T23:17:43+00:00",
-  "as_of_local": "2026-11-09 23:17:43 UTC",
+  "as_of_utc": "2026-11-09T23:23:09+00:00",
+  "as_of_local": "2026-11-09 23:23:09 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "WFRD"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -855,6 +853,12 @@
       "market_cap": 55739778129.10187,
       "headlines": [
         {
+          "title": "Occidental beats Q3 forecasts as production offsets lower crude prices",
+          "url": "https://finance.yahoo.com/energy/articles/occidental-beats-q3-forecasts-production-221839911.html",
+          "publisher": "Investing.com",
+          "published": "2026-11-09T22:18:39Z"
+        },
+        {
           "title": "Dow Jones Soars 1,132 Points As Amazon, Tesla Rally, But Nvidia Dives; CPI Inflation Report Next",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-amazon-tesla-nvidia-cpi-inflation-report/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
@@ -865,12 +869,6 @@
           "url": "https://finance.yahoo.com/energy/articles/occidental-petroleum-nyse-oxy-reports-215151213.html",
           "publisher": "StockStory",
           "published": "2026-11-09T21:51:51Z"
-        },
-        {
-          "title": "Occidental Petroleum (OXY) Q3 Earnings and Revenues Top Estimates",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/occidental-petroleum-oxy-q3-earnings-213503286.html",
-          "publisher": "Zacks",
-          "published": "2026-11-09T21:35:03Z"
         }
       ]
     },
@@ -1035,9 +1033,9 @@
           "published": "2026-11-09T18:51:00Z"
         },
         {
-          "title": "Data-Center Moratoriums? They Aren\u2019t Showing Up in Constellation Energy\u2019s Guidance.",
-          "url": "https://www.barrons.com/articles/constellation-energy-earnings-stock-price-89dc5612?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
+          "title": "Vistra and Constellation Both Fell Sharply After the Election. One Has Far More Exposure to Texas.",
+          "url": "https://finance.yahoo.com/energy/articles/vistra-constellation-both-fell-sharply-182500253.html",
+          "publisher": "Motley Fool",
           "published": "2026-11-09T18:25:00Z"
         }
       ]
@@ -1543,6 +1541,34 @@
           "url": "https://finance.yahoo.com/energy/articles/crgy-q3-earnings-beat-higher-163600754.html",
           "publisher": "Zacks",
           "published": "2026-11-05T16:36:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "WFRD",
+      "name": "Weatherford",
+      "price": 85.5,
+      "previous_close": 84.43,
+      "change_pct": 1.27,
+      "market_cap": 6196209282.0,
+      "headlines": [
+        {
+          "title": "Why Is Baker Hughes Stock Falling?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-baker-hughes-stock-falling-141921435.html",
+          "publisher": "Trefis",
+          "published": "2026-11-06T14:19:21Z"
+        },
+        {
+          "title": "Should Jun\u00edn 5 Support Work Require Action From Weatherford International (WFRD) Investors?",
+          "url": "https://finance.yahoo.com/energy/articles/jun-n-5-support-require-131419197.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-10-30T13:14:19Z"
+        },
+        {
+          "title": "Weatherford: 3 Key Takeaways for Long-Term Investors",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/weatherford-3-key-takeaways-long-212002900.html",
+          "publisher": "Motley Fool",
+          "published": "2026-10-28T21:20:02Z"
         }
       ]
     },
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 86.5,
-      "change_pct": -4.77
+      "price": 86.2,
+      "change_pct": -5.1
     },
     {
       "label": "Brent",
-      "price": 92.45,
-      "change_pct": -5.97
+      "price": 92.14,
+      "change_pct": -6.29
     },
     {
       "label": "NatGas",
-      "price": 3.2,
-      "change_pct": 6.7
+      "price": 3.21,
+      "change_pct": 7.0
     }
   ]
 }
