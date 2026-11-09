@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-09T11:24:54+00:00",
-  "as_of_local": "2026-11-09 11:24:54 UTC",
+  "as_of_utc": "2026-11-09T11:29:59+00:00",
+  "as_of_local": "2026-11-09 11:29:59 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "ETR"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -43,6 +41,12 @@
       "market_cap": 414856047371.41077,
       "headlines": [
         {
+          "title": "3 Dividend Stocks With Yields Up To 4%",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-dividend-stocks-yields-4-110938370.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-09T11:09:38Z"
+        },
+        {
           "title": "Chevron\u2019s Refineries Ran at 98%. Its January Report Must Absorb a $4 Billion Hess Charge",
           "url": "https://finance.yahoo.com/energy/articles/chevron-refineries-ran-98-january-155014932.html",
           "publisher": "TIKR",
@@ -53,12 +57,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/3-dividend-stocks-worth-researching-133253068.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-08T13:32:53Z"
-        },
-        {
-          "title": "3 Great Dividend Stocks With Yield Over 3%",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-great-dividend-stocks-yield-042328185.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-08T04:23:28Z"
         }
       ]
     },
@@ -871,6 +869,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/occidental-petroleum-release-q3-earnings-135700931.html",
           "publisher": "Zacks",
           "published": "2026-11-06T13:57:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "ETR",
+      "name": "Entergy",
+      "price": 110.55,
+      "previous_close": 110.3,
+      "change_pct": 0.23,
+      "market_cap": 52823789684.76265,
+      "headlines": [
+        {
+          "title": "Entergy Arkansas (EAI) Q3 2026 Earnings Call Transcript",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/entergy-arkansas-eai-q3-2026-233020138.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-06T23:30:20Z"
+        },
+        {
+          "title": "Consolidated Edison Q3 Earnings Lag Estimates, Revenues Rise Y/Y",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/consolidated-edison-q3-earnings-lag-130900521.html",
+          "publisher": "Zacks",
+          "published": "2026-11-06T13:09:00Z"
+        },
+        {
+          "title": "Ameren Q3 Earnings Surpass Estimates, Revenues Increase Y/Y",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ameren-q3-earnings-surpass-estimates-130600436.html",
+          "publisher": "Zacks",
+          "published": "2026-11-06T13:06:00Z"
         }
       ]
     },
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 88.92,
-      "change_pct": -2.1
+      "price": 87.78,
+      "change_pct": -3.36
     },
     {
       "label": "Brent",
-      "price": 95.98,
-      "change_pct": -2.38
+      "price": 94.67,
+      "change_pct": -3.71
     },
     {
       "label": "NatGas",
-      "price": 3.02,
-      "change_pct": 0.67
+      "price": 3.0,
+      "change_pct": 0.13
     }
   ]
 }
