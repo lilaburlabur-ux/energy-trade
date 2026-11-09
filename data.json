@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-09T14:07:13+00:00",
-  "as_of_local": "2026-11-09 14:07:13 UTC",
+  "as_of_utc": "2026-11-09T14:11:56+00:00",
+  "as_of_local": "2026-11-09 14:11:56 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "HUBB"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -435,22 +433,22 @@
       "market_cap": 88559128299.78969,
       "headlines": [
         {
+          "title": "Constellation Energy Raises 2026 Earnings Outlook After Q3 Beat \u2014 CEO Highlights Growing Demand For Reliable Power",
+          "url": "https://finance.yahoo.com/energy/articles/constellation-energy-raises-2026-earnings-140049405.html",
+          "publisher": "Stocktwits",
+          "published": "2026-11-09T14:00:49Z"
+        },
+        {
+          "title": "Constellation Energy Shares Rise Over 4% as Q3 Earnings Beat Estimates and 2026 Outlook Improves",
+          "url": "https://finance.yahoo.com/energy/articles/constellation-energy-shares-rise-over-135340830.html",
+          "publisher": "InvestorsHub",
+          "published": "2026-11-09T13:53:40Z"
+        },
+        {
           "title": "Constellation Energy raises 2026 earnings guidance after quarterly profit more than doubles",
           "url": "https://finance.yahoo.com/energy/articles/constellation-energy-raises-2026-earnings-133300312.html",
           "publisher": "Proactive",
           "published": "2026-11-09T13:33:00Z"
-        },
-        {
-          "title": "Constellation shares up 4% in premarket trade on Q3 earnings beat, higher outlook",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/constellation-shares-4-premarket-trade-123515757.html",
-          "publisher": "Investing.com",
-          "published": "2026-11-09T12:35:15Z"
-        },
-        {
-          "title": "Data-Center Moratoriums? They Aren\u2019t Showing Up in Constellation Energy\u2019s Guidance.",
-          "url": "https://www.barrons.com/articles/constellation-energy-earnings-stock-price-89dc5612?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-11-09T12:34:00Z"
         }
       ]
     },
@@ -1183,6 +1181,34 @@
       ]
     },
     {
+      "symbol": "HUBB",
+      "name": "Hubbell",
+      "price": 429.45,
+      "previous_close": 418.79,
+      "change_pct": 2.55,
+      "market_cap": 22690006425.708923,
+      "headlines": [
+        {
+          "title": "Hubbell: 3 Key Takeaways for Long-Term Investors",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/hubbell-3-key-takeaways-long-232002420.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-08T23:20:02Z"
+        },
+        {
+          "title": "3 Value Dividend Stocks To Watch As Rate Cut Hopes Fade",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-value-dividend-stocks-watch-191455855.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-07T19:14:55Z"
+        },
+        {
+          "title": "What Should Eaton Stock Holders Take From The September Quarter?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/eaton-stock-holders-september-quarter-231057575.html",
+          "publisher": "Trefis",
+          "published": "2026-11-06T23:10:57Z"
+        }
+      ]
+    },
+    {
       "symbol": "FSLR",
       "name": "First Solar",
       "price": 201.14,
@@ -1219,6 +1245,12 @@
       "market_cap": 18559483736.523445,
       "headlines": [
         {
+          "title": "NRG Energy Shares Rise 4.2% Following $4 Billion Natural Gas Asset Sale Agreement",
+          "url": "https://finance.yahoo.com/energy/articles/nrg-energy-shares-rise-4-133116706.html",
+          "publisher": "InvestorsHub",
+          "published": "2026-11-09T13:31:16Z"
+        },
+        {
           "title": "NRG Energy Signs $4 Billion Asset-Sale Agreement, Posts Higher Quarterly Earnings",
           "url": "https://www.wsj.com/business/earnings/nrg-energy-signs-4-billion-asset-sale-agreement-posts-higher-quarterly-earnings-457b3efe?siteid=yhoof2&yptr=yahoo",
           "publisher": "The Wall Street Journal",
@@ -1229,12 +1261,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/nrg-energy-nrg-beats-q3-115501662.html",
           "publisher": "Zacks",
           "published": "2026-11-09T11:55:01Z"
-        },
-        {
-          "title": "NRG: Q3 Earnings Snapshot",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nrg-q3-earnings-snapshot-115334417.html",
-          "publisher": "Associated Press",
-          "published": "2026-11-09T11:53:34Z"
         }
       ]
     },
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 86.66,
-      "change_pct": -4.59
+      "price": 86.83,
+      "change_pct": -4.4
     },
     {
       "label": "Brent",
-      "price": 93.52,
-      "change_pct": -4.88
+      "price": 93.72,
+      "change_pct": -4.68
     },
     {
       "label": "NatGas",
       "price": 3.13,
-      "change_pct": 4.57
+      "change_pct": 4.54
     }
   ]
 }
