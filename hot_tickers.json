@@ -1,10 +1,27 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-09T11:59:31+00:00",
+  "as_of": "2026-11-09T12:04:36+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": []
+ "hot_tickers": [
+  {
+   "rank": 1,
+   "ticker": "NRG",
+   "company": "NRG Energy, Inc.",
+   "move_pct": 5.33,
+   "price": 93.0,
+   "volume": 8716100,
+   "volume_vs_avg": "~2x",
+   "heat_score": 46,
+   "direction": "up",
+   "why": "Do Wall Street Analysts Like NRG Energy Stock?",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWTF6TXlVSjZhTzJQdHE3enRMMzlVQzc3MkNxeFllUDBEQ0FpT01yRUc0Uk16U2FQcHRPY2otcUtVbGhtRDMxekNKUVhGNDBEc20zcVhmMnY1cGNCVjRRcEhmX1pZZS1ZbDUySEdaQld0UjkxdVNFLTFJOXBmOXdUU0tWXzdSV3hHNkxmWEI5V2stQlE?oc=5",
+   "published": "2026-11-09T10:41:20+00:00",
+   "sector": "Power & IPPs"
+  }
+ ]
 }
