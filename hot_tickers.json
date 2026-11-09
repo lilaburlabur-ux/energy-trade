@@ -1,43 +1,10 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-09T00:54:52+00:00",
+  "as_of": "2026-11-09T08:15:33+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": [
-  {
-   "rank": 1,
-   "ticker": "OKLO",
-   "company": "Oklo Inc.",
-   "move_pct": 22.66,
-   "price": 23.55,
-   "volume": 24874600,
-   "volume_vs_avg": "~3x",
-   "heat_score": 91,
-   "direction": "up",
-   "why": "Nuclear stocks surge as Oklo results spark rally for reactors, uranium suppliers (OKLO:NYSE)",
-   "catalyst_type": "earnings",
-   "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMW5tUE91cENKZnpEaS03QVNBZVluM3hnVXlhb3NIWEZpeWgyWExkMWljWlhpMVJfd0Rpcms4N0JPMXFnS1BqenFUeFd6ZG1abkV0N1IxVFcyYXRuMmxSS19iNmh0QTh0Z0tlYTh1amhxUllkT3NsQ2s1TERpZUZ0Mlk3R3ZJemZZMG9nbEtKdk5jS1ZCQ29lTzJmRVcyaWszZHo5V3pvMEszMmZhNXYxaTZnaGVjeXhD?oc=5",
-   "published": "2026-11-08T22:51:00+00:00",
-   "sector": "Nuclear & Uranium"
-  },
-  {
-   "rank": 2,
-   "ticker": "LEU",
-   "company": "Centrus Energy Corp.",
-   "move_pct": 17.49,
-   "price": 104.6,
-   "volume": 1319500,
-   "volume_vs_avg": "~2x",
-   "heat_score": 85,
-   "direction": "up",
-   "why": "Certain Class A Common Stock of Centrus Energy Corp. are subject to a Lock-Up Agreement Ending on 9-NOV-2026.",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQXN2OUg3THVEZWoweWVGWHlabjdBUzhDZk9HbVJtaTBkLWM5Q1dZU2VxOVFwM2FhU1J2VkNTc1dsUUxhV2QycG54MUdPYmxSVldmb3NXV1dMZy1JYVJVeW1leE16NzNxWFRRaVl2TjlmVkNxb213bXdMTmhPUVRWTXRCLVJDckxSaS05TGY2NmtnNV9JTmRSTnE5Ujh6OWZxSEhacmF3bjZNVE50MEVCNlRjRGdic1BkcTFTR1RHZ2N5S2o4cWpHQzJ5RC1HNWZHdXdnTGlORlFYMTZFNFI1QjZjOGZTQQ?oc=5",
-   "published": "2026-11-09T00:23:50+00:00",
-   "sector": "Nuclear & Uranium"
-  }
- ]
+ "hot_tickers": []
 }
