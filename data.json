@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-10T13:39:30+00:00",
-  "as_of_local": "2026-11-10 13:39:30 UTC",
+  "as_of_utc": "2026-11-10T13:44:30+00:00",
+  "as_of_local": "2026-11-10 13:44:30 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -13,6 +13,12 @@
       "market_cap": 671970295771.8015,
       "headlines": [
         {
+          "title": "Meet Wall Street\u2019s Safest Dividend Stocks: 3 Companies That Have Paid Through Recessions, Wars and Market Crashes",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/meet-wall-street-safest-dividend-133111461.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-10T13:31:11Z"
+        },
+        {
           "title": "Should You Buy Exxon Mobil Stock For Its Cash?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/buy-exxon-mobil-stock-cash-130526725.html",
           "publisher": "Trefis",
@@ -23,12 +29,6 @@
           "url": "https://finance.yahoo.com/energy/articles/market-chatter-exxon-mobil-signs-105240626.html",
           "publisher": "MT Newswires",
           "published": "2026-11-10T10:52:40Z"
-        },
-        {
-          "title": "Exxon Takes First Step Toward Investing in Venezuela",
-          "url": "https://www.wsj.com/business/energy-oil/exxon-takes-first-step-toward-investing-in-venezuela-f8e0f5e0?siteid=yhoof2&yptr=yahoo",
-          "publisher": "The Wall Street Journal",
-          "published": "2026-11-10T00:58:00Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 85.05,
-      "change_pct": -2.07
+      "price": 84.6,
+      "change_pct": -2.59
     },
     {
       "label": "Brent",
-      "price": 90.14,
-      "change_pct": -2.63
+      "price": 89.78,
+      "change_pct": -3.01
     },
     {
       "label": "NatGas",
       "price": 3.24,
-      "change_pct": 0.78
+      "change_pct": 0.81
     }
   ]
 }
