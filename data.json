@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-10T00:18:56+00:00",
-  "as_of_local": "2026-11-10 00:18:56 UTC",
+  "as_of_utc": "2026-11-10T00:23:53+00:00",
+  "as_of_local": "2026-11-10 00:23:53 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "SMR"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1743,6 +1741,34 @@
       ]
     },
     {
+      "symbol": "SMR",
+      "name": "NuScale Power",
+      "price": 5.44,
+      "previous_close": 5.08,
+      "change_pct": 7.09,
+      "market_cap": 2233345195.971367,
+      "headlines": [
+        {
+          "title": "NuScale Is Still Down 61% in 2026: Did Today Mark the Bottom for SMR Stock?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nuscale-still-down-61-2026-200226711.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-09T20:02:26Z"
+        },
+        {
+          "title": "NuScale Power (SMR) Recovery Now Rests On Unfinished Power Purchase Talks",
+          "url": "https://finance.yahoo.com/energy/articles/nuscale-power-smr-recovery-now-191505007.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-09T19:15:05Z"
+        },
+        {
+          "title": "What NuScale Power (SMR) Said on Its Q3 Earnings Call",
+          "url": "https://finance.yahoo.com/energy/articles/nuscale-power-smr-said-q3-201417452.html",
+          "publisher": "MarketBeat",
+          "published": "2026-11-08T20:14:17Z"
+        }
+      ]
+    },
+    {
       "symbol": "UUUU",
       "name": "Energy Fuels",
       "price": 7.31,
@@ -2089,8 +2115,8 @@
     },
     {
       "label": "WTI",
-      "price": 86.43,
-      "change_pct": -4.84
+      "price": 86.39,
+      "change_pct": -4.89
     },
     {
       "label": "Brent",
@@ -2099,8 +2125,8 @@
     },
     {
       "label": "NatGas",
-      "price": 3.2,
-      "change_pct": 6.87
+      "price": 3.21,
+      "change_pct": 6.94
     }
   ]
 }
