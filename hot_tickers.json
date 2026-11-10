@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-10T08:30:52+00:00",
+  "as_of": "2026-11-10T08:46:06+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -38,22 +38,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQLTk3MDIyVFFZYnY3MXFScFB5c1I2ekFRUEMwVDdlQWI1NmxRWlZObXlRam5ocUdsMGlMRUdyYVdzZVJCMDFNRDN3d096cmpTbDU4andvUU5VcFRRczh2cVd4Mk93V1kxUkxPTHkyTmJQbC1yeVZvY0VsSDVOdDRaRHRmMWc5cEZfamxwRl9vUU4xS0pTazRUT0lOcDRMZ3dEQ190QU5wb0VoZy13Y3J1OC1oOFlUSlRYYnY2dHg4WHc2dGhEcUE?oc=5",
    "published": "2026-11-10T08:14:31+00:00",
    "sector": "Grid, Storage & Electrification"
-  },
-  {
-   "rank": 3,
-   "ticker": "NXE",
-   "company": "Nexgen Energy Ltd.",
-   "move_pct": 6.06,
-   "price": 8.75,
-   "volume": 6188300,
-   "volume_vs_avg": "~1.1x",
-   "heat_score": 42,
-   "direction": "up",
-   "why": "NexGen Energy Ltd. (NXE) Stock Price, News, Quote & History",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAweUFRT2JmYkRZZEV4ZlZKZlNWVzV2NElNTGhrdHBwRFA3czUtbTFlSklMYjBVWkdia3ZyS1BHWW1qc1hrWDhlOHRyTVNUMHJP?oc=5",
-   "published": "2026-11-10T05:09:32+00:00",
-   "sector": "Nuclear & Uranium"
   }
  ]
 }
