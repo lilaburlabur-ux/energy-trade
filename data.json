@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-10T11:27:28+00:00",
-  "as_of_local": "2026-11-10 11:27:28 UTC",
+  "as_of_utc": "2026-11-10T11:32:42+00:00",
+  "as_of_local": "2026-11-10 11:32:42 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -405,6 +405,12 @@
       "market_cap": 97820722970.59763,
       "headlines": [
         {
+          "title": "AI Is Creating a Power Crisis. Constellation Energy Just Showed How It Plans to Cash In.",
+          "url": "https://finance.yahoo.com/energy/articles/ai-creating-power-crisis-constellation-111302294.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-10T11:13:02Z"
+        },
+        {
           "title": "Vertiv Sinks 11% in a Week as Midterm Sweep Hits Data Center Stocks",
           "url": "https://finance.yahoo.com/markets/stocks/articles/vertiv-sinks-11-week-midterm-044648961.html",
           "publisher": "TIKR",
@@ -415,12 +421,6 @@
           "url": "https://finance.yahoo.com/energy/articles/constellation-energy-corporation-q3-2026-214847413.html",
           "publisher": "Moby",
           "published": "2026-11-09T21:48:47Z"
-        },
-        {
-          "title": "Constellation Energy earnings analysis: questions answered and next catalysts",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/constellation-energy-earnings-analysis-questions-210433839.html",
-          "publisher": "Investing.com",
-          "published": "2026-11-09T21:04:33Z"
         }
       ]
     },
@@ -1033,9 +1033,9 @@
           "published": "2026-11-09T18:51:00Z"
         },
         {
-          "title": "Vistra and Constellation Both Fell Sharply After the Election. One Has Far More Exposure to Texas.",
-          "url": "https://finance.yahoo.com/energy/articles/vistra-constellation-both-fell-sharply-182500253.html",
-          "publisher": "Motley Fool",
+          "title": "Data-Center Moratoriums? They Aren\u2019t Showing Up in Constellation Energy\u2019s Guidance.",
+          "url": "https://www.barrons.com/articles/constellation-energy-earnings-stock-price-89dc5612?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
           "published": "2026-11-09T18:25:00Z"
         }
       ]
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 85.83,
-      "change_pct": -1.17
+      "price": 85.91,
+      "change_pct": -1.08
     },
     {
       "label": "Brent",
-      "price": 91.17,
-      "change_pct": -1.51
+      "price": 91.3,
+      "change_pct": -1.37
     },
     {
       "label": "NatGas",
       "price": 3.26,
-      "change_pct": 1.15
+      "change_pct": 1.21
     }
   ]
 }
