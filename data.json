@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-10T22:02:45+00:00",
-  "as_of_local": "2026-11-10 22:02:45 UTC",
+  "as_of_utc": "2026-11-10T22:07:45+00:00",
+  "as_of_local": "2026-11-10 22:07:45 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -209,6 +209,12 @@
       "market_cap": 137614470474.24316,
       "headlines": [
         {
+          "title": "How Has Eaton's Story Changed?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/eatons-story-changed-214508489.html",
+          "publisher": "Trefis",
+          "published": "2026-11-10T21:45:08Z"
+        },
+        {
           "title": "Which Dates Could Move Honeywell Stock Most?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/dates-could-move-honeywell-stock-131130919.html",
           "publisher": "Trefis",
@@ -219,12 +225,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/nvts-ai-data-center-exposure-130100548.html",
           "publisher": "Zacks",
           "published": "2026-11-10T13:01:00Z"
-        },
-        {
-          "title": "Industrials Push Stock Indexes to Broad-Based Rally",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-09-2026/card/industrials-push-stock-indexes-to-broad-based-rally-9byZnVAbDSw1nB5gbvdD?siteid=yhoof2&yptr=yahoo",
-          "publisher": "The Wall Street Journal",
-          "published": "2026-11-09T20:32:09Z"
         }
       ]
     },
@@ -1189,6 +1189,12 @@
       "market_cap": 23130650424.121246,
       "headlines": [
         {
+          "title": "How Has Eaton's Story Changed?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/eatons-story-changed-214508489.html",
+          "publisher": "Trefis",
+          "published": "2026-11-10T21:45:08Z"
+        },
+        {
           "title": "Hubbell: 3 Key Takeaways for Long-Term Investors",
           "url": "https://finance.yahoo.com/markets/stocks/articles/hubbell-3-key-takeaways-long-232002420.html",
           "publisher": "Motley Fool",
@@ -1199,12 +1205,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/3-value-dividend-stocks-watch-191455855.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-07T19:14:55Z"
-        },
-        {
-          "title": "What Should Eaton Stock Holders Take From The September Quarter?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/eaton-stock-holders-september-quarter-231057575.html",
-          "publisher": "Trefis",
-          "published": "2026-11-06T23:10:57Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 86.52,
-      "change_pct": -0.38
+      "price": 86.49,
+      "change_pct": -0.41
     },
     {
       "label": "Brent",
-      "price": 91.99,
-      "change_pct": -0.63
+      "price": 92.07,
+      "change_pct": -0.54
     },
     {
       "label": "NatGas",
       "price": 3.3,
-      "change_pct": 2.52
+      "change_pct": 2.49
     }
   ]
 }
