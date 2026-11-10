@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-10T14:20:13+00:00",
-  "as_of_local": "2026-11-10 14:20:13 UTC",
+  "as_of_utc": "2026-11-10T14:25:08+00:00",
+  "as_of_local": "2026-11-10 14:25:08 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "FANG"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -181,6 +183,12 @@
       "market_cap": 158988596558.0701,
       "headlines": [
         {
+          "title": "COP Q3 2026 deep dive: capital discipline and portfolio efficiency offset production decline",
+          "url": "https://finance.yahoo.com/energy/articles/cop-q3-2026-deep-dive-141336870.html",
+          "publisher": "StockStory",
+          "published": "2026-11-10T14:13:36Z"
+        },
+        {
           "title": "Should You Buy Exxon Mobil Stock For Its Cash?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/buy-exxon-mobil-stock-cash-130526725.html",
           "publisher": "Trefis",
@@ -191,12 +199,6 @@
           "url": "https://finance.yahoo.com/energy/articles/conocophillips-sustain-future-production-growth-124100957.html",
           "publisher": "Zacks",
           "published": "2026-11-10T12:41:00Z"
-        },
-        {
-          "title": "Diamondback Just Hiked Its Dividend by Over 7%. If You Buy the Stock Here, Keep a Close Eye on Oil Prices.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/diamondback-just-hiked-dividend-over-003004795.html",
-          "publisher": "Barchart",
-          "published": "2026-11-10T00:30:04Z"
         }
       ]
     },
@@ -925,34 +927,6 @@
           "url": "https://finance.yahoo.com/energy/articles/ai-power-grab-could-upend-180000495.html",
           "publisher": "Oilprice.com",
           "published": "2026-11-09T18:00:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "FANG",
-      "name": "Diamondback Energy",
-      "price": 178.17,
-      "previous_close": 178.96,
-      "change_pct": -0.44,
-      "market_cap": 49739333719.798416,
-      "headlines": [
-        {
-          "title": "Can ConocoPhillips Sustain Future Production Growth With Lower CapEx?",
-          "url": "https://finance.yahoo.com/energy/articles/conocophillips-sustain-future-production-growth-124100957.html",
-          "publisher": "Zacks",
-          "published": "2026-11-10T12:41:00Z"
-        },
-        {
-          "title": "Diamondback Just Hiked Its Dividend by Over 7%. If You Buy the Stock Here, Keep a Close Eye on Oil Prices.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/diamondback-just-hiked-dividend-over-003004795.html",
-          "publisher": "Barchart",
-          "published": "2026-11-10T00:30:04Z"
-        },
-        {
-          "title": "ConocoPhillips Trades at a Premium: Is It the Right Time to Buy?",
-          "url": "https://finance.yahoo.com/energy/articles/conocophillips-trades-premium-time-buy-170300578.html",
-          "publisher": "Zacks",
-          "published": "2026-11-09T17:03:00Z"
         }
       ]
     },
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 84.56,
-      "change_pct": -2.64
+      "price": 84.5,
+      "change_pct": -2.71
     },
     {
       "label": "Brent",
-      "price": 89.39,
-      "change_pct": -3.44
+      "price": 89.5,
+      "change_pct": -3.32
     },
     {
       "label": "NatGas",
       "price": 3.25,
-      "change_pct": 0.93
+      "change_pct": 1.09
     }
   ]
 }
