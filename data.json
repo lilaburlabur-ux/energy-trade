@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-10T02:47:30+00:00",
-  "as_of_local": "2026-11-10 02:47:30 UTC",
+  "as_of_utc": "2026-11-10T02:51:37+00:00",
+  "as_of_local": "2026-11-10 02:51:37 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "D"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -705,34 +707,6 @@
       ]
     },
     {
-      "symbol": "D",
-      "name": "Dominion Energy",
-      "price": 68.24,
-      "previous_close": 68.6,
-      "change_pct": -0.52,
-      "market_cap": 60021587283.764145,
-      "headlines": [
-        {
-          "title": "People Pay the Power Bill Before Almost Anything Else. $45,000 in Each of These 3 Utilities Pays $5,915 a Year",
-          "url": "https://finance.yahoo.com/news/people-pay-power-bill-almost-221425733.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-09T22:14:25Z"
-        },
-        {
-          "title": "NextEra Energy vs. Southern Company: Which Dividend Stock Is Better for Retirement?",
-          "url": "https://finance.yahoo.com/energy/articles/nextera-energy-vs-southern-company-170424659.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-08T17:04:24Z"
-        },
-        {
-          "title": "Western Union Yields 13.5%. Is This Dividend Stock a Trap?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/western-union-yields-13-5-194740503.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-06T19:47:40Z"
-        }
-      ]
-    },
-    {
       "symbol": "TRGP",
       "name": "Targa Resources",
       "price": 273.63,
@@ -915,14 +889,14 @@
           "published": "2026-11-09T18:00:00Z"
         },
         {
-          "title": "Entergy Louisiana (ELC) Q3 2026 Earnings Call Transcript",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/entergy-louisiana-elc-q3-2026-153058722.html",
+          "title": "Entergy Mississippi (EMP) Q3 2026 Earnings Call Transcript",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/entergy-mississippi-emp-q3-2026-153058833.html",
           "publisher": "Motley Fool",
           "published": "2026-11-09T15:30:58Z"
         },
         {
-          "title": "Entergy Mississippi (EMP) Q3 2026 Earnings Call Transcript",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/entergy-mississippi-emp-q3-2026-153058833.html",
+          "title": "Entergy Louisiana (ELC) Q3 2026 Earnings Call Transcript",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/entergy-louisiana-elc-q3-2026-153058722.html",
           "publisher": "Motley Fool",
           "published": "2026-11-09T15:30:58Z"
         }
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 86.23,
-      "change_pct": -5.06
+      "price": 86.25,
+      "change_pct": -5.04
     },
     {
       "label": "Brent",
-      "price": 92.03,
-      "change_pct": -6.4
+      "price": 92.01,
+      "change_pct": -6.42
     },
     {
       "label": "NatGas",
       "price": 3.2,
-      "change_pct": 6.84
+      "change_pct": 6.8
     }
   ]
 }
