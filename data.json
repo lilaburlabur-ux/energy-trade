@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-10T01:04:33+00:00",
-  "as_of_local": "2026-11-10 01:04:33 UTC",
+  "as_of_utc": "2026-11-10T01:19:28+00:00",
+  "as_of_local": "2026-11-10 01:19:28 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "ENPH"
+    "NEE"
   ],
   "stocks": [
     {
@@ -143,34 +143,6 @@
           "url": "https://finance.yahoo.com/energy/articles/investors-may-respond-totalenergies-enxtpa-190944934.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-08T19:09:44Z"
-        }
-      ]
-    },
-    {
-      "symbol": "NEE",
-      "name": "NextEra Energy",
-      "price": 86.95,
-      "previous_close": 88.25,
-      "change_pct": -1.47,
-      "market_cap": 182172003416.13998,
-      "headlines": [
-        {
-          "title": "People Pay the Power Bill Before Almost Anything Else. $45,000 in Each of These 3 Utilities Pays $5,915 a Year",
-          "url": "https://finance.yahoo.com/energy/articles/people-pay-power-bill-almost-221425733.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-09T22:14:25Z"
-        },
-        {
-          "title": "Can DTE Energy Stock Jump 40%?",
-          "url": "https://finance.yahoo.com/energy/articles/dte-energy-stock-jump-40-124601912.html",
-          "publisher": "Trefis",
-          "published": "2026-11-09T12:46:01Z"
-        },
-        {
-          "title": "State Street Utilities SPDR (XLU) Sells NextEra and Southern on Nov. 5",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/state-street-utilities-spdr-xlu-110534996.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-09T11:05:34Z"
         }
       ]
     },
@@ -715,6 +687,12 @@
       "market_cap": 60021589162.71999,
       "headlines": [
         {
+          "title": "People Pay the Power Bill Before Almost Anything Else. $45,000 in Each of These 3 Utilities Pays $5,915 a Year",
+          "url": "https://finance.yahoo.com/energy/articles/people-pay-power-bill-almost-221425733.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-09T22:14:25Z"
+        },
+        {
           "title": "NextEra Energy vs. Southern Company: Which Dividend Stock Is Better for Retirement?",
           "url": "https://finance.yahoo.com/energy/articles/nextera-energy-vs-southern-company-170424659.html",
           "publisher": "24/7 Wall St.",
@@ -725,12 +703,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/western-union-yields-13-5-194740503.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-06T19:47:40Z"
-        },
-        {
-          "title": "NextEra Energy Vs. AES Corporation: Utility Scale Energy Production Just Got a Major Blue Boost",
-          "url": "https://finance.yahoo.com/energy/articles/nextera-energy-vs-aes-corporation-174545387.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-06T17:45:45Z"
         }
       ]
     },
@@ -1035,9 +1007,9 @@
           "published": "2026-11-09T18:51:00Z"
         },
         {
-          "title": "Vistra and Constellation Both Fell Sharply After the Election. One Has Far More Exposure to Texas.",
-          "url": "https://finance.yahoo.com/energy/articles/vistra-constellation-both-fell-sharply-182500253.html",
-          "publisher": "Motley Fool",
+          "title": "Data-Center Moratoriums? They Aren\u2019t Showing Up in Constellation Energy\u2019s Guidance.",
+          "url": "https://www.barrons.com/articles/constellation-energy-earnings-stock-price-89dc5612?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
           "published": "2026-11-09T18:25:00Z"
         }
       ]
@@ -1631,6 +1603,34 @@
       ]
     },
     {
+      "symbol": "ENPH",
+      "name": "Enphase Energy",
+      "price": 28.47,
+      "previous_close": 28.97,
+      "change_pct": -1.73,
+      "market_cap": 3847699175.16,
+      "headlines": [
+        {
+          "title": "Can First Solar Stock Fall 30%?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/first-solar-stock-fall-30-122056986.html",
+          "publisher": "Trefis",
+          "published": "2026-11-06T12:20:56Z"
+        },
+        {
+          "title": "Is First Solar Stock Still Worth Owning After Its Quarter?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/first-solar-stock-still-worth-190219321.html",
+          "publisher": "Trefis",
+          "published": "2026-11-05T19:02:19Z"
+        },
+        {
+          "title": "Could Enphase Or Centene Stock Double?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/could-enphase-centene-stock-double-131256274.html",
+          "publisher": "Trefis",
+          "published": "2026-11-05T13:12:56Z"
+        }
+      ]
+    },
+    {
       "symbol": "UEC",
       "name": "Uranium Energy Corp",
       "price": 6.92,
@@ -2089,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 86.61,
-      "change_pct": -4.65
+      "price": 86.36,
+      "change_pct": -4.92
     },
     {
       "label": "Brent",
-      "price": 92.45,
-      "change_pct": -5.97
+      "price": 92.21,
+      "change_pct": -6.21
     },
     {
       "label": "NatGas",
       "price": 3.21,
-      "change_pct": 7.1
+      "change_pct": 7.2
     }
   ]
 }
