@@ -36,10 +36,10 @@ NexGen Energy Ltd., an exploration and development stage company, engages in the
 
 | Headline | Source | Date |
 |---|---|---|
+| NexGen Energy Q3 Earnings Call Highlights | MarketBeat | 2026-11-10 |
 | NexGen Energy (NXE) Q3 2026 Earnings Call Transcript | Motley Fool | 2026-11-10 |
 | NexGen Energy: Q3 Earnings Snapshot | Associated Press | 2026-11-09 |
 | Oil, Uranium, or Renewables? 3 Energy Plays for a Changing Market | MarketBeat | 2026-11-05 |
-| NuScale Power Advances SMR Manufacturing With Doosan Deal | Zacks | 2026-11-02 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -69,7 +69,7 @@ NexGen Energy Ltd., an exploration and development stage company, engages in the
 | Profitability | Gross 0.00%, operating 0.00%, net 0.00% | ROA -4.15%, ROE -10.28% |
 | Balance sheet | Cash $821.57M, debt $509.20M | Current ratio 1.42, debt/equity 26.33 |
 | Valuation | P/E —, forward P/E -65.90, P/S —, P/B 4.06 | EV/Sales —, EV/EBITDA -41.41 |
-| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $16.38 (2 analysts) |
+| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $16.39 (2 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |

@@ -4,7 +4,7 @@
 | Ticker | Mkt cap | 1Y | Fwd P/E | Net margin | Momentum | Value | Risk |
 |---|---|---|---|---|---|---|---|
 | XOM | $670.91B | +44% | 13.2 | 10% | Moderate | Reasonable | Moderate |
-| CVX | $412.18B | +42% | 12.8 | 12% | Moderate | Reasonable | Moderate |
+| CVX | $412.14B | +42% | 12.8 | 12% | Moderate | Reasonable | Moderate |
 | SHEL | $275.34B | +33% | 8.9 | 10% | Moderate | Reasonable | Moderate |
 | TTE | $192.94B | +47% | 7.2 | 10% | Moderate | Reasonable | Moderate |
 | BP | $114.82B | +28% | 7.4 | 4% | Moderate | Reasonable | Moderate |
@@ -16,7 +16,7 @@
 | DVN | $49.47B | +32% | 8.2 | 16% | Low | Reasonable | Elevated |
 | OXY | $56.88B | +40% | 11.2 | 34% | Moderate | Reasonable | Elevated |
 | APA | $15.15B | +95% | 8.2 | 23% | High | Reasonable | Elevated |
-| EQT | $32.54B | -9% | 15.1 | 29% | Low | Reasonable | Elevated |
+| EQT | $32.53B | -9% | 15.1 | 29% | Low | Reasonable | Elevated |
 | AR | $11.56B | +12% | 8.2 | 23% | Moderate | Reasonable | Elevated |
 | PR | $18.22B | +69% | 7.6 | 25% | High | Reasonable | Elevated |
 | OVV | $16.55B | +62% | 7.1 | 13% | High | Reasonable | Elevated |
@@ -24,7 +24,7 @@
 | HAL | $26.35B | +18% | 10.8 | 9% | Low | Reasonable | Elevated |
 | BKR | $47.44B | +1% | 16.9 | 10% | Low | Reasonable | Elevated |
 | NOV | $6.30B | +17% | 13.9 | 2% | Low | Reasonable | High |
-| FTI | $25.11B | +51% | 17.2 | 12% | Low | Reasonable | Elevated |
+| FTI | $25.10B | +51% | 17.2 | 12% | Low | Reasonable | Elevated |
 | WFRD | $6.11B | +16% | 12.9 | 9% | Low | Reasonable | Elevated |
 | LNG | $59.93B | +42% | 14.2 | 13% | Moderate | Reasonable | Elevated |
 | KMI | $69.48B | +22% | 20.3 | 20% | Low | Fair-to-demanding | Elevated |
@@ -67,7 +67,7 @@
 | NRG | $20.39B | -43% | 9.7 | 4% | Low | Reasonable | High |
 | TLN | $15.71B | -7% | 11.8 | -6% | Moderate | Reasonable | High |
 | DUK | $100.54B | +8% | 18.0 | 16% | Moderate | Reasonable | Moderate |
-| SO | $109.04B | +6% | 19.0 | 16% | Moderate | Reasonable | Moderate |
+| SO | $109.03B | +6% | 19.0 | 16% | Moderate | Reasonable | Moderate |
 | D | $60.14B | +16% | 17.9 | 14% | Moderate | Reasonable | Moderate |
 | PEG | $37.23B | -7% | 16.1 | 14% | Low | Reasonable | Moderate |
 | ETR | $53.38B | +18% | 21.8 | 15% | Moderate | Fair-to-demanding | Moderate |

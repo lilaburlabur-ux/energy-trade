@@ -37,9 +37,9 @@ Duke Energy Corporation, through its subsidiaries, operates as an energy company
 | Headline | Source | Date |
 |---|---|---|
 | AI Boom Fuels Southern Company's Data Center Power Usage Growth | Zacks | 2026-11-10 |
-| The Kiplinger Dividend 15: Our Favorite Dividend-Paying Stocks | Kiplinger | 2026-11-10 |
 | $300,000 in Duke Energy, Philip Morris and Johnson & Johnson: Here’s What It Pays | 24/7 Wall St. | 2026-11-10 |
 | After the Democratic Midterm Sweep: 4 Dividend Stocks Built for Gridlock | 24/7 Wall St. | 2026-11-09 |
+| Can DTE Energy Stock Jump 40%? | Trefis | 2026-11-09 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

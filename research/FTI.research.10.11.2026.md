@@ -4,8 +4,8 @@ Signed file: `FTI.research.10.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $64.57 (2026-11-10, ~15-min delayed) |
-| Market cap | $25.11B |
+| Current price | $64.55 (2026-11-10, ~15-min delayed) |
+| Market cap | $25.10B |
 | Sector / Industry | Energy / Oil & Gas Equipment & Services |
 | Main theme | Oil & Gas Equipment & Services — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
@@ -15,8 +15,8 @@ Signed file: `FTI.research.10.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-7.19%) with negative half-year (-11.67%). |
-| Fresh setup quality | Moderate / wait | -19.37% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-7.21%) with negative half-year (-11.69%). |
+| Fresh setup quality | Moderate / wait | -19.39% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 12.04%, revenue growth 9.40%. |
 | Value attractiveness | Reasonable | Forward P/E 17.20, EV/Sales 2.36. |
 | Risk level | Elevated | Beta 0.85, ATR 4.0% of price, short float 3.87%. |
@@ -44,22 +44,22 @@ TechnipFMC plc engages in the oil and natural gas projects, technologies, system
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $64.57; 52w high $80.08 (-19.37%); 52w low $42.59 (+51.59%) |
-| Trend | -7.19% vs SMA200, -8.63% vs SMA50, -4.60% vs SMA20 |
-| Momentum | RSI(14) 40.9 (neutral) |
+| Price vs 52-week range | Close $64.55; 52w high $80.08 (-19.39%); 52w low $42.59 (+51.56%) |
+| Trend | -7.21% vs SMA200, -8.66% vs SMA50, -4.62% vs SMA20 |
+| Momentum | RSI(14) 40.8 (neutral) |
 | Volatility | ATR(14) 2.61 (~4.0% of price); beta 0.85 |
-| Setup perspective | -19.37% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -19.39% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
 | Week | -3.3% |
-| Month | -7.4% |
+| Month | -7.5% |
 | Quarter | -14.2% |
 | Half Y | -11.7% |
-| 1Y | +51.2% |
-| YTD | +36.8% |
+| 1Y | +51.1% |
+| YTD | +36.7% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -110,14 +110,14 @@ TechnipFMC plc engages in the oil and natural gas projects, technologies, system
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $64.57 | EV/Sales | 2.36 |
-| Market cap | $25.11B | EV/EBITDA | 12.11 |
+| Price | $64.55 | EV/Sales | 2.36 |
+| Market cap | $25.10B | EV/EBITDA | 12.11 |
 | Beta | 0.85 | Gross margin | 23.60% |
-| RSI(14) | 40.9 | Operating margin | 17.77% |
+| RSI(14) | 40.8 | Operating margin | 17.77% |
 | ATR(14) | 2.61 | Profit margin | 12.04% |
-| SMA20 dist | -4.60% | ROA | 10.08% |
-| SMA50 dist | -8.63% | ROE | 38.30% |
-| SMA200 dist | -7.19% | Revenue (ttm) | $10.67B |
+| SMA20 dist | -4.62% | ROA | 10.08% |
+| SMA50 dist | -8.66% | ROE | 38.30% |
+| SMA200 dist | -7.21% | Revenue (ttm) | $10.67B |
 | 52W high | $80.08 | Revenue growth y/y | 9.40% |
 | 52W low | $42.59 | Inst. ownership | 102.09% |
 | P/E (ttm) | 20.30 | Insider ownership | 1.57% |
