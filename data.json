@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-10T10:07:47+00:00",
-  "as_of_local": "2026-11-10 10:07:47 UTC",
+  "as_of_utc": "2026-11-10T10:13:09+00:00",
+  "as_of_local": "2026-11-10 10:13:09 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -517,6 +517,12 @@
       "market_cap": 79147399933.95892,
       "headlines": [
         {
+          "title": "Enterprise Raised Its Distribution by 2.8%. MPLX Raised Its by 12.5%. Here's What's Behind the Gap.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/enterprise-raised-distribution-2-8-100400542.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-10T10:04:00Z"
+        },
+        {
           "title": "4 High-Yield Dividend Stocks You Can Buy Today and Hold Forever",
           "url": "https://finance.yahoo.com/markets/stocks/articles/4-high-yield-dividend-stocks-143704707.html",
           "publisher": "24/7 Wall St.",
@@ -527,12 +533,6 @@
           "url": "https://finance.yahoo.com/energy/articles/best-energy-stock-buy-oil-133500116.html",
           "publisher": "Motley Fool",
           "published": "2026-11-08T13:35:00Z"
-        },
-        {
-          "title": "Everyone Loves This 6.5% Pipeline Yield. Here's the Risk I Think They're Ignoring.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/everyone-loves-6-5-pipeline-133500436.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-07T13:35:00Z"
         }
       ]
     },
@@ -797,6 +797,12 @@
       "market_cap": 57539935042.3217,
       "headlines": [
         {
+          "title": "Enterprise Raised Its Distribution by 2.8%. MPLX Raised Its by 12.5%. Here's What's Behind the Gap.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/enterprise-raised-distribution-2-8-100400542.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-10T10:04:00Z"
+        },
+        {
           "title": "5 Defensive Dividend Stocks Yielding Up to 8.7% for Retirement Income",
           "url": "https://finance.yahoo.com/markets/stocks/articles/5-defensive-dividend-stocks-yielding-133701544.html",
           "publisher": "24/7 Wall St.",
@@ -807,12 +813,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/mplx-mplx-stock-looks-undervalued-211920916.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-04T21:19:20Z"
-        },
-        {
-          "title": "The 10-Year Treasury Yields 4.91%. These 4 Dividend Stocks Pay More",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/10-treasury-yields-4-91-164702607.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-04T16:47:02Z"
         }
       ]
     },
@@ -1033,9 +1033,9 @@
           "published": "2026-11-09T18:51:00Z"
         },
         {
-          "title": "Vistra and Constellation Both Fell Sharply After the Election. One Has Far More Exposure to Texas.",
-          "url": "https://finance.yahoo.com/energy/articles/vistra-constellation-both-fell-sharply-182500253.html",
-          "publisher": "Motley Fool",
+          "title": "Data-Center Moratoriums? They Aren\u2019t Showing Up in Constellation Energy\u2019s Guidance.",
+          "url": "https://www.barrons.com/articles/constellation-energy-earnings-stock-price-89dc5612?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
           "published": "2026-11-09T18:25:00Z"
         }
       ]
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 84.2,
-      "change_pct": -3.05
+      "price": 84.36,
+      "change_pct": -2.87
     },
     {
       "label": "Brent",
-      "price": 89.45,
-      "change_pct": -3.37
+      "price": 89.66,
+      "change_pct": -3.14
     },
     {
       "label": "NatGas",
       "price": 3.24,
-      "change_pct": 0.56
+      "change_pct": 0.81
     }
   ]
 }
