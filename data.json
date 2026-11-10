@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-10T07:05:39+00:00",
-  "as_of_local": "2026-11-10 07:05:39 UTC",
+  "as_of_utc": "2026-11-10T07:20:43+00:00",
+  "as_of_local": "2026-11-10 07:20:43 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "CCJ"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1035,9 +1033,9 @@
           "published": "2026-11-09T18:51:00Z"
         },
         {
-          "title": "Vistra and Constellation Both Fell Sharply After the Election. One Has Far More Exposure to Texas.",
-          "url": "https://finance.yahoo.com/energy/articles/vistra-constellation-both-fell-sharply-182500253.html",
-          "publisher": "Motley Fool",
+          "title": "Data-Center Moratoriums? They Aren\u2019t Showing Up in Constellation Energy\u2019s Guidance.",
+          "url": "https://www.barrons.com/articles/constellation-energy-earnings-stock-price-89dc5612?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
           "published": "2026-11-09T18:25:00Z"
         }
       ]
@@ -1067,6 +1065,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/edison-international-stock-jump-30-160603870.html",
           "publisher": "Trefis",
           "published": "2026-11-03T16:06:03Z"
+        }
+      ]
+    },
+    {
+      "symbol": "CCJ",
+      "name": "Cameco",
+      "price": 75.37,
+      "previous_close": 71.3,
+      "change_pct": 5.71,
+      "market_cap": 32826121823.457054,
+      "headlines": [
+        {
+          "title": "3 Canadian Growth Stocks To Own In November 2026",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-canadian-growth-stocks-own-001900465.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-10T00:19:00Z"
+        },
+        {
+          "title": "UUUU Q3 Earnings Miss on Investment Losses, Uranium Sales Rise",
+          "url": "https://finance.yahoo.com/energy/articles/uuuu-q3-earnings-miss-investment-142200932.html",
+          "publisher": "Zacks",
+          "published": "2026-11-09T14:22:00Z"
+        },
+        {
+          "title": "What Energy Fuels (EFR) Said on Its Q3 Earnings Call",
+          "url": "https://finance.yahoo.com/energy/articles/energy-fuels-efr-said-q3-231418810.html",
+          "publisher": "MarketBeat",
+          "published": "2026-11-08T23:14:18Z"
         }
       ]
     },
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 85.3,
-      "change_pct": -1.78
+      "price": 85.65,
+      "change_pct": -1.38
     },
     {
       "label": "Brent",
-      "price": 90.97,
-      "change_pct": -1.73
+      "price": 91.44,
+      "change_pct": -1.22
     },
     {
       "label": "NatGas",
-      "price": 3.23,
-      "change_pct": 0.47
+      "price": 3.21,
+      "change_pct": -0.25
     }
   ]
 }
