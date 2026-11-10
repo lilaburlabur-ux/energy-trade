@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-10T02:09:47+00:00",
-  "as_of_local": "2026-11-10 02:09:47 UTC",
+  "as_of_utc": "2026-11-10T02:24:58+00:00",
+  "as_of_local": "2026-11-10 02:24:58 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -154,7 +154,7 @@
       "headlines": [
         {
           "title": "People Pay the Power Bill Before Almost Anything Else. $45,000 in Each of These 3 Utilities Pays $5,915 a Year",
-          "url": "https://finance.yahoo.com/energy/articles/people-pay-power-bill-almost-221425733.html",
+          "url": "https://finance.yahoo.com/news/people-pay-power-bill-almost-221425733.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-09T22:14:25Z"
         },
@@ -714,7 +714,7 @@
       "headlines": [
         {
           "title": "People Pay the Power Bill Before Almost Anything Else. $45,000 in Each of These 3 Utilities Pays $5,915 a Year",
-          "url": "https://finance.yahoo.com/energy/articles/people-pay-power-bill-almost-221425733.html",
+          "url": "https://finance.yahoo.com/news/people-pay-power-bill-almost-221425733.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-09T22:14:25Z"
         },
@@ -1033,9 +1033,9 @@
           "published": "2026-11-09T18:51:00Z"
         },
         {
-          "title": "Data-Center Moratoriums? They Aren\u2019t Showing Up in Constellation Energy\u2019s Guidance.",
-          "url": "https://www.barrons.com/articles/constellation-energy-earnings-stock-price-89dc5612?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
+          "title": "Vistra and Constellation Both Fell Sharply After the Election. One Has Far More Exposure to Texas.",
+          "url": "https://finance.yahoo.com/energy/articles/vistra-constellation-both-fell-sharply-182500253.html",
+          "publisher": "Motley Fool",
           "published": "2026-11-09T18:25:00Z"
         }
       ]
@@ -1622,7 +1622,7 @@
         },
         {
           "title": "NuScale Is Still Down 61% in 2026: Did Today Mark the Bottom for SMR Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nuscale-still-down-61-2026-200226711.html",
+          "url": "https://finance.yahoo.com/news/nuscale-still-down-61-2026-200226711.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-09T20:02:26Z"
         }
@@ -1750,7 +1750,7 @@
       "headlines": [
         {
           "title": "NuScale Is Still Down 61% in 2026: Did Today Mark the Bottom for SMR Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nuscale-still-down-61-2026-200226711.html",
+          "url": "https://finance.yahoo.com/news/nuscale-still-down-61-2026-200226711.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-09T20:02:26Z"
         },
@@ -2109,24 +2109,19 @@
   },
   "tape": [
     {
-      "label": "SPX",
-      "price": 7549.94,
-      "change_pct": 2.35
-    },
-    {
       "label": "WTI",
-      "price": 86.01,
-      "change_pct": -5.31
+      "price": 86.27,
+      "change_pct": -5.02
     },
     {
       "label": "Brent",
-      "price": 91.79,
-      "change_pct": -6.64
+      "price": 92.09,
+      "change_pct": -6.34
     },
     {
       "label": "NatGas",
       "price": 3.21,
-      "change_pct": 7.0
+      "change_pct": 6.94
     }
   ]
 }
