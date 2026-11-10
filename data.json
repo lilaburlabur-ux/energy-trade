@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-10T11:17:19+00:00",
-  "as_of_local": "2026-11-10 11:17:19 UTC",
+  "as_of_utc": "2026-11-10T11:22:19+00:00",
+  "as_of_local": "2026-11-10 11:22:19 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "PWR"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -449,34 +451,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/best-value-stocks-buy-november-052200444.html",
           "publisher": "Zacks",
           "published": "2026-11-09T05:22:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "PWR",
-      "name": "Quanta Services",
-      "price": 591.48,
-      "previous_close": 540.9,
-      "change_pct": 9.35,
-      "market_cap": 89122514781.68701,
-      "headlines": [
-        {
-          "title": "Arista Networks & 2 Momentum Stocks to Buy for Big Gains",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/arista-networks-2-momentum-stocks-190000524.html",
-          "publisher": "Zacks",
-          "published": "2026-11-09T19:00:00Z"
-        },
-        {
-          "title": "Can EMCOR Keep Its 10.5% Adjusted Margin as Project Volumes Scale?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/emcor-keep-10-5-adjusted-141900948.html",
-          "publisher": "Zacks",
-          "published": "2026-11-09T14:19:00Z"
-        },
-        {
-          "title": "A Fund With $4.4 Billion in US Equities Bought These 3 Stocks",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/fund-4-4-billion-us-135107188.html",
-          "publisher": "TIKR",
-          "published": "2026-11-09T13:51:07Z"
         }
       ]
     },
@@ -1033,9 +1007,9 @@
           "published": "2026-11-09T18:51:00Z"
         },
         {
-          "title": "Data-Center Moratoriums? They Aren\u2019t Showing Up in Constellation Energy\u2019s Guidance.",
-          "url": "https://www.barrons.com/articles/constellation-energy-earnings-stock-price-89dc5612?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
+          "title": "Vistra and Constellation Both Fell Sharply After the Election. One Has Far More Exposure to Texas.",
+          "url": "https://finance.yahoo.com/energy/articles/vistra-constellation-both-fell-sharply-182500253.html",
+          "publisher": "Motley Fool",
           "published": "2026-11-09T18:25:00Z"
         }
       ]
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 85.77,
-      "change_pct": -1.24
+      "price": 85.8,
+      "change_pct": -1.21
     },
     {
       "label": "Brent",
-      "price": 91.15,
-      "change_pct": -1.53
+      "price": 91.18,
+      "change_pct": -1.5
     },
     {
       "label": "NatGas",
-      "price": 3.24,
-      "change_pct": 0.75
+      "price": 3.25,
+      "change_pct": 0.87
     }
   ]
 }
