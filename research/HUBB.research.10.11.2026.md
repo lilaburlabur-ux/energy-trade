@@ -68,7 +68,7 @@ Hubbell Incorporated, together with its subsidiaries, manufactures and sells ele
 | Revenue (ttm) | $6.59B | Revenue growth 24.60% y/y |
 | Profitability | Gross 35.02%, operating 20.52%, net 13.78% | ROA 8.53%, ROE 23.43% |
 | Balance sheet | Cash $355.00M, debt $5.31B | Current ratio 1.53, debt/equity 128.87 |
-| Valuation | P/E 25.90, forward P/E 19.15, P/S 3.54, P/B 5.68 | EV/Sales 4.29, EV/EBITDA 17.65 |
+| Valuation | P/E 25.19, forward P/E 19.15, P/S 3.54, P/B 5.68 | EV/Sales 4.29, EV/EBITDA 17.65 |
 | Growth expectations | Earnings growth 3.60%, EPS q/q 2.70% | Analyst mean target $538.85 (13 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -121,7 +121,7 @@ Hubbell Incorporated, together with its subsidiaries, manufactures and sells ele
 | SMA200 dist | -8.91% | Revenue (ttm) | $6.59B |
 | 52W high | $554.46 | Revenue growth y/y | 24.60% |
 | 52W low | $402.45 | Inst. ownership | 99.27% |
-| P/E (ttm) | 25.90 | Insider ownership | 0.34% |
+| P/E (ttm) | 25.19 | Insider ownership | 0.34% |
 | Forward P/E | 19.15 | Short float | 5.82% |
 | PEG (trailing) | 1.58 | Avg volume | 564,487 |
 | P/S | 3.54 | Employees | 19,600 |

@@ -36,10 +36,10 @@ Occidental Petroleum Corporation, together with its subsidiaries, engages in the
 
 | Headline | Source | Date |
 |---|---|---|
+| Occidental Cuts Debt to $10 Billion as Q3 Cash Flow Hits $4.1 Billion | Oilprice.com | 2026-11-10 |
 | Dow Jones Soars 1,132 Points As Amazon, Tesla Rally, But Nvidia Dives; CPI Inflation Report Next | Investor's Business Daily | 2026-11-10 |
 | Occidental (OXY) Reports Q3 Earnings: What Key Metrics Have to Say | Zacks | 2026-11-09 |
 | Occidental beats Q3 forecasts as production offsets lower crude prices | Investing.com | 2026-11-09 |
-| Occidental Petroleum (NYSE:OXY) reports sales below analyst estimates in Q3 2026 earnings | StockStory | 2026-11-09 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
@@ -68,7 +68,7 @@ Occidental Petroleum Corporation, together with its subsidiaries, engages in the
 | Revenue (ttm) | $23.93B | Revenue growth 53.40% y/y |
 | Profitability | Gross 73.32%, operating 45.44%, net 30.32% | ROA 4.68%, ROE 10.63% |
 | Balance sheet | Cash $4.15B, debt $14.63B | Current ratio 1.41, debt/equity 34.51 |
-| Valuation | P/E 15.84, forward P/E 11.12, P/S 2.33, P/B 1.67 | EV/Sales 3.14, EV/EBITDA 5.48 |
+| Valuation | P/E 16.02, forward P/E 11.12, P/S 2.33, P/B 1.67 | EV/Sales 3.14, EV/EBITDA 5.48 |
 | Growth expectations | Earnings growth 964.90%, EPS q/q 550.00% | Analyst mean target $70.74 (27 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -120,7 +120,7 @@ Occidental Petroleum Corporation, together with its subsidiaries, engages in the
 | SMA200 dist | -0.70% | Revenue (ttm) | $23.93B |
 | 52W high | $65.63 | Revenue growth y/y | 53.40% |
 | 52W low | $38.38 | Inst. ownership | 59.01% |
-| P/E (ttm) | 15.84 | Insider ownership | 26.81% |
+| P/E (ttm) | 16.02 | Insider ownership | 26.81% |
 | Forward P/E | 11.12 | Short float | 0.02% |
 | PEG (trailing) | 0.85 | Avg volume | 8,578,431 |
 | P/S | 2.33 | Employees | 10,412 |

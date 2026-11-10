@@ -18,7 +18,7 @@ Signed file: `EPD.research.10.11.2026`
 | Technical momentum | Moderate | 1Y +25.80%; price +0.87% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -5.40% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 10.24%, revenue growth 49.30%. |
-| Value attractiveness | Reasonable | Forward P/E 11.56, EV/Sales 1.77. |
+| Value attractiveness | Reasonable | Forward P/E 11.62, EV/Sales 1.77. |
 | Risk level | Moderate | Beta 0.46, ATR 2.0% of price, short float 2.51%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -68,7 +68,7 @@ Enterprise Products Partners L.P. provides midstream energy services to producer
 | Revenue (ttm) | $64.40B | Revenue growth 49.30% y/y |
 | Profitability | Gross 12.56%, operating 10.64%, net 10.24% | ROA —, ROE — |
 | Balance sheet | Cash $246.00M, debt $34.21B | Current ratio —, debt/equity 109.97 |
-| Valuation | P/E 12.15, forward P/E 11.56, P/S 1.23, P/B 2.62 | EV/Sales 1.77, EV/EBITDA 10.67 |
+| Valuation | P/E 12.27, forward P/E 11.62, P/S 1.23, P/B 2.62 | EV/Sales 1.77, EV/EBITDA 10.67 |
 | Growth expectations | Earnings growth 21.60%, EPS q/q 21.40% | Analyst mean target $41.76 (21 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -120,8 +120,8 @@ Enterprise Products Partners L.P. provides midstream energy services to producer
 | SMA200 dist | +0.87% | Revenue (ttm) | $64.40B |
 | 52W high | $38.80 | Revenue growth y/y | 49.30% |
 | 52W low | $29.45 | Inst. ownership | 25.80% |
-| P/E (ttm) | 12.15 | Insider ownership | 33.09% |
-| Forward P/E | 11.56 | Short float | 2.51% |
+| P/E (ttm) | 12.27 | Insider ownership | 33.09% |
+| Forward P/E | 11.62 | Short float | 2.51% |
 | PEG (trailing) | 1.22 | Avg volume | 3,388,062 |
 | P/S | 1.23 | Employees | 0 |
 | P/B | 2.62 | Analyst rec (1=buy..5=sell) | 2.3 |

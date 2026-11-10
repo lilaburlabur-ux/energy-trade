@@ -68,7 +68,7 @@ ConocoPhillips explores for, produces, transports, and markets crude oil, bitume
 | Revenue (ttm) | $68.97B | Revenue growth 29.30% y/y |
 | Profitability | Gross 49.01%, operating 30.05%, net 16.76% | ROA 8.98%, ROE 17.66% |
 | Balance sheet | Cash $9.93B, debt $23.26B | Current ratio 1.52, debt/equity 35.25 |
-| Valuation | P/E 14.17, forward P/E 11.93, P/S 2.31, P/B 2.41 | EV/Sales 2.50, EV/EBITDA 5.78 |
+| Valuation | P/E 14.37, forward P/E 11.93, P/S 2.31, P/B 2.41 | EV/Sales 2.50, EV/EBITDA 5.78 |
 | Growth expectations | Earnings growth 141.90%, EPS q/q 131.80% | Analyst mean target $152.00 (27 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -120,7 +120,7 @@ ConocoPhillips explores for, produces, transports, and markets crude oil, bitume
 | SMA200 dist | +10.55% | Revenue (ttm) | $68.97B |
 | 52W high | $154.03 | Revenue growth y/y | 29.30% |
 | 52W low | $84.18 | Inst. ownership | 87.11% |
-| P/E (ttm) | 14.17 | Insider ownership | 0.10% |
+| P/E (ttm) | 14.37 | Insider ownership | 0.10% |
 | Forward P/E | 11.93 | Short float | 1.58% |
 | PEG (trailing) | 1.00 | Avg volume | 6,665,348 |
 | P/S | 2.31 | Employees | 9,600 |

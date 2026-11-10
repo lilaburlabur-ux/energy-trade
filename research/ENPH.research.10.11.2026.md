@@ -36,10 +36,10 @@ Enphase Energy, Inc., together with its subsidiaries, designs, develops, manufac
 
 | Headline | Source | Date |
 |---|---|---|
+| Enphase and Other Solar Stocks Are Up After Democrats Sweep Congress, But I Wouldn’t Chase ENPH Here | Barchart | 2026-11-09 |
 | Can First Solar Stock Fall 30%? | Trefis | 2026-11-06 |
 | Is First Solar Stock Still Worth Owning After Its Quarter? | Trefis | 2026-11-05 |
 | Could Enphase Or Centene Stock Double? | Trefis | 2026-11-05 |
-| Can First Solar Stock Jump 50%? | Trefis | 2026-11-04 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

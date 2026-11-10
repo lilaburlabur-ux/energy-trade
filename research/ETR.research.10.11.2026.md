@@ -37,8 +37,8 @@ Entergy Corporation, together with its subsidiaries, engages in the production a
 | Headline | Source | Date |
 |---|---|---|
 | The AI Power Grab That Could Upend America's Electricity Industry | Oilprice.com | 2026-11-09 |
-| Entergy Louisiana (ELC) Q3 2026 Earnings Call Transcript | Motley Fool | 2026-11-09 |
 | Entergy Mississippi (EMP) Q3 2026 Earnings Call Transcript | Motley Fool | 2026-11-09 |
+| Entergy Louisiana (ELC) Q3 2026 Earnings Call Transcript | Motley Fool | 2026-11-09 |
 | Entergy New Orleans (ENO) Q3 2026 Earnings Call Transcript | Motley Fool | 2026-11-09 |
 
 ## 3. Technical Analysis
@@ -68,7 +68,7 @@ Entergy Corporation, together with its subsidiaries, engages in the production a
 | Revenue (ttm) | $14.04B | Revenue growth 14.50% y/y |
 | Profitability | Gross 47.93%, operating 34.20%, net 14.56% | ROA 2.89%, ROE 11.02% |
 | Balance sheet | Cash $4.21B, debt $34.81B | Current ratio 1.18, debt/equity 173.10 |
-| Valuation | P/E 25.58, forward P/E 21.86, P/S 3.81, P/B 2.70 | EV/Sales 6.01, EV/EBITDA 14.25 |
+| Valuation | P/E 25.29, forward P/E 21.86, P/S 3.81, P/B 2.70 | EV/Sales 6.01, EV/EBITDA 14.25 |
 | Growth expectations | Earnings growth 29.40%, EPS q/q 35.50% | Analyst mean target $120.38 (21 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -121,7 +121,7 @@ Entergy Corporation, together with its subsidiaries, engages in the production a
 | SMA200 dist | +4.17% | Revenue (ttm) | $14.04B |
 | 52W high | $116.66 | Revenue growth y/y | 14.50% |
 | 52W low | $89.57 | Inst. ownership | 98.80% |
-| P/E (ttm) | 25.58 | Insider ownership | 0.22% |
+| P/E (ttm) | 25.29 | Insider ownership | 0.22% |
 | Forward P/E | 21.86 | Short float | 3.97% |
 | PEG (trailing) | 1.70 | Avg volume | 2,787,118 |
 | P/S | 3.81 | Employees | 12,233 |

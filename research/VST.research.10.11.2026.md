@@ -38,8 +38,8 @@ Vistra Corp., together with its subsidiaries, operates as an integrated retail e
 |---|---|---|
 | NRG Soars 10% on $4 Billion Gas Plant Sale and $3 Billion Buyback Plan: “Unlocking Substantial Value” | TIKR | 2026-11-09 |
 | Vistra Q3 Earnings Call Highlights Cash Flow Plans & Demand Risks | Zacks | 2026-11-09 |
-| Data-Center Moratoriums? They Aren’t Showing Up in Constellation Energy’s Guidance. | Barrons.com | 2026-11-09 |
 | Vistra and Constellation Both Fell Sharply After the Election. One Has Far More Exposure to Texas. | Motley Fool | 2026-11-09 |
+| Data-Center Moratoriums? They Aren’t Showing Up in Constellation Energy’s Guidance. | Barrons.com | 2026-11-09 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
