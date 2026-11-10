@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-10T22:07:45+00:00",
-  "as_of_local": "2026-11-10 22:07:45 UTC",
+  "as_of_utc": "2026-11-10T22:12:44+00:00",
+  "as_of_local": "2026-11-10 22:12:44 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "FLNC"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1853,34 +1855,6 @@
       ]
     },
     {
-      "symbol": "FLNC",
-      "name": "Fluence Energy",
-      "price": 4.91,
-      "previous_close": 5.4,
-      "change_pct": -9.07,
-      "market_cap": 702933195.2349701,
-      "headlines": [
-        {
-          "title": "Hallador Energy (HNRG) Reports Break-Even Earnings for Q3",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/hallador-energy-hnrg-reports-break-223505693.html",
-          "publisher": "Zacks",
-          "published": "2026-11-09T22:35:05Z"
-        },
-        {
-          "title": "What The Bulls Got Wrong Before Fluence Energy Fell 77%",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bulls-got-wrong-fluence-energy-181531924.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-07T18:15:31Z"
-        },
-        {
-          "title": "Is Fluence Energy (FLNC) A Bargain After Its Leadership Reset?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/fluence-energy-flnc-bargain-leadership-070952651.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-07T07:09:52Z"
-        }
-      ]
-    },
-    {
       "symbol": "EOSE",
       "name": "Eos Energy",
       "price": 1.74,
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 86.49,
-      "change_pct": -0.41
+      "price": 86.44,
+      "change_pct": -0.47
     },
     {
       "label": "Brent",
-      "price": 92.07,
-      "change_pct": -0.54
+      "price": 92.06,
+      "change_pct": -0.55
     },
     {
       "label": "NatGas",
-      "price": 3.3,
-      "change_pct": 2.49
+      "price": 3.29,
+      "change_pct": 2.36
     }
   ]
 }
