@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-10T21:27:04+00:00",
-  "as_of_local": "2026-11-10 21:27:04 UTC",
+  "as_of_utc": "2026-11-10T21:29:05+00:00",
+  "as_of_local": "2026-11-10 21:29:05 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "CEG"
+    "BKR"
   ],
   "stocks": [
     {
@@ -427,6 +427,34 @@
       ]
     },
     {
+      "symbol": "CEG",
+      "name": "Constellation Energy",
+      "price": 267.76,
+      "previous_close": 276.09,
+      "change_pct": -3.02,
+      "market_cap": 94869347261.073,
+      "headlines": [
+        {
+          "title": "Constellation Q3 Earnings Call Highlights Long-Term Nuclear Contracts",
+          "url": "https://finance.yahoo.com/energy/articles/constellation-q3-earnings-call-highlights-185900032.html",
+          "publisher": "Zacks",
+          "published": "2026-11-10T18:59:00Z"
+        },
+        {
+          "title": "Constellation CEO Sounds the Alarm: Data Center Demand Was a \u201cMassive Overestimation.\u201d Its Nuclear Contracts Run to the 2040s",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/constellation-ceo-sounds-alarm-data-171915165.html",
+          "publisher": "TIKR",
+          "published": "2026-11-10T17:19:15Z"
+        },
+        {
+          "title": "Constellation and Vistra Get the Headlines. These 2 Power Producers Barely Get Mentioned.",
+          "url": "https://finance.yahoo.com/energy/articles/constellation-vistra-headlines-2-power-170500740.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-10T17:05:00Z"
+        }
+      ]
+    },
+    {
       "symbol": "PWR",
       "name": "Quanta Services",
       "price": 583.14,
@@ -575,6 +603,12 @@
       "market_cap": 74786435436.66446,
       "headlines": [
         {
+          "title": "Vertiv Holdings Co (VRT) Secures Infineon Supply Deal, Is The Valuation Gap Still Compelling?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/vertiv-holdings-co-vrt-secures-211107866.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-10T21:11:07Z"
+        },
+        {
           "title": "Does Earnings Beat Change The Bull Case For Vertiv Holdings Co (VRT)?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/does-earnings-beat-change-bull-201034319.html",
           "publisher": "Simply Wall St.",
@@ -585,12 +619,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/4-stocks-impressive-interest-coverage-174500885.html",
           "publisher": "Zacks",
           "published": "2026-11-10T17:45:00Z"
-        },
-        {
-          "title": "Tech investors need to 'zoom out' and look at the 'big picture' this week",
-          "url": "https://finance.yahoo.com/video/tech-investors-need-to-zoom-out-and-look-at-the-big-picture-this-week-164246983.html",
-          "publisher": "Yahoo Finance Video",
-          "published": "2026-11-10T16:42:46Z"
         }
       ]
     },
@@ -955,34 +983,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/devon-energy-dvn-loses-13-133501348.html",
           "publisher": "Zacks",
           "published": "2026-11-10T13:35:01Z"
-        }
-      ]
-    },
-    {
-      "symbol": "BKR",
-      "name": "Baker Hughes",
-      "price": 47.77,
-      "previous_close": 48.45,
-      "change_pct": -1.4,
-      "market_cap": 47439359109.80525,
-      "headlines": [
-        {
-          "title": "Top 5 Activist Target Stocks for Spin-offs or Breakups",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/top-5-activist-target-stocks-185813908.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-11-10T18:58:13Z"
-        },
-        {
-          "title": "Baker Hughes Stock Outlook: Is Wall Street Bullish or Bearish?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/baker-hughes-stock-outlook-wall-145105064.html",
-          "publisher": "Barchart",
-          "published": "2026-11-10T14:51:05Z"
-        },
-        {
-          "title": "Venture Global CEO Eyes New Growth Opportunity In Off-Grid Power For AI Data Centers \u2013 Firm Raises FY2026 Guidance After Record Q3 Earnings",
-          "url": "https://finance.yahoo.com/energy/articles/venture-global-ceo-eyes-growth-133349752.html",
-          "publisher": "Stocktwits",
-          "published": "2026-11-10T13:33:49Z"
         }
       ]
     },
@@ -2089,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 86.37,
-      "change_pct": -0.55
+      "price": 86.39,
+      "change_pct": -0.53
     },
     {
       "label": "Brent",
-      "price": 91.93,
-      "change_pct": -0.69
+      "price": 91.95,
+      "change_pct": -0.67
     },
     {
       "label": "NatGas",
       "price": 3.31,
-      "change_pct": 2.86
+      "change_pct": 2.7
     }
   ]
 }
