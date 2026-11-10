@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-10T23:50:54+00:00",
-  "as_of_local": "2026-11-10 23:50:54 UTC",
+  "as_of_utc": "2026-11-10T23:55:58+00:00",
+  "as_of_local": "2026-11-10 23:55:58 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "VST"
+    "NXT"
   ],
   "stocks": [
     {
@@ -1015,6 +1015,34 @@
       ]
     },
     {
+      "symbol": "VST",
+      "name": "Vistra",
+      "price": 131.18,
+      "previous_close": 133.92,
+      "change_pct": -2.05,
+      "market_cap": 44521792030.1391,
+      "headlines": [
+        {
+          "title": "VST Q3 Earnings Beat on Strong Power Pricing, Revenues Rise Y/Y",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/vst-q3-earnings-beat-strong-180600034.html",
+          "publisher": "Zacks",
+          "published": "2026-11-10T18:06:00Z"
+        },
+        {
+          "title": "Constellation CEO Sounds the Alarm: Data Center Demand Was a \u201cMassive Overestimation.\u201d Its Nuclear Contracts Run to the 2040s",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/constellation-ceo-sounds-alarm-data-171915165.html",
+          "publisher": "TIKR",
+          "published": "2026-11-10T17:19:15Z"
+        },
+        {
+          "title": "Constellation and Vistra Get the Headlines. These 2 Power Producers Barely Get Mentioned.",
+          "url": "https://finance.yahoo.com/energy/articles/constellation-vistra-headlines-2-power-170500740.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-10T17:05:00Z"
+        }
+      ]
+    },
+    {
       "symbol": "PEG",
       "name": "Public Service Enterprise",
       "price": 74.68,
@@ -1375,34 +1403,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/buy-5-non-tech-nasdaq-125600839.html",
           "publisher": "Zacks",
           "published": "2026-11-09T12:56:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "NXT",
-      "name": "Nextracker",
-      "price": 99.82,
-      "previous_close": 104.89,
-      "change_pct": -4.83,
-      "market_cap": 15030449857.747993,
-      "headlines": [
-        {
-          "title": "The Zacks Analyst Blog Highlights Microsoft, Amazon, Alphabet, Nextpower and Centene",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-microsoft-125800453.html",
-          "publisher": "Zacks",
-          "published": "2026-11-06T12:58:00Z"
-        },
-        {
-          "title": "Solar Stocks Pop And Plunge; Analysts Think They Know Why",
-          "url": "https://www.investors.com/news/sunrun-stock-solar-stocks-after-election/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-11-05T19:21:44Z"
-        },
-        {
-          "title": "Midterm Results Put These 4 Renewable, Healthcare & AI Stocks in Focus",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/midterm-results-put-4-renewable-152400817.html",
-          "publisher": "Zacks",
-          "published": "2026-11-05T15:24:00Z"
         }
       ]
     },
@@ -2089,8 +2089,8 @@
     },
     {
       "label": "WTI",
-      "price": 86.33,
-      "change_pct": -0.6
+      "price": 86.31,
+      "change_pct": -0.62
     },
     {
       "label": "Brent",
@@ -2100,7 +2100,7 @@
     {
       "label": "NatGas",
       "price": 3.3,
-      "change_pct": 2.45
+      "change_pct": 2.42
     }
   ]
 }
