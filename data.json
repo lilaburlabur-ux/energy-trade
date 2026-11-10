@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-10T14:14:46+00:00",
-  "as_of_local": "2026-11-10 14:14:46 UTC",
+  "as_of_utc": "2026-11-10T14:20:13+00:00",
+  "as_of_local": "2026-11-10 14:20:13 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -713,6 +713,12 @@
       "market_cap": 60021587283.764145,
       "headlines": [
         {
+          "title": "What Are Wall Street Analysts' Target Price for Dominion Energy Stock?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-081055170.html",
+          "publisher": "Barchart",
+          "published": "2026-11-10T08:10:55Z"
+        },
+        {
           "title": "People Pay the Power Bill Before Almost Anything Else. $45,000 in Each of These 3 Utilities Pays $5,915 a Year",
           "url": "https://finance.yahoo.com/news/people-pay-power-bill-almost-221425733.html",
           "publisher": "24/7 Wall St.",
@@ -723,12 +729,6 @@
           "url": "https://finance.yahoo.com/energy/articles/nextera-energy-vs-southern-company-170424659.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-08T17:04:24Z"
-        },
-        {
-          "title": "Western Union Yields 13.5%. Is This Dividend Stock a Trap?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/western-union-yields-13-5-194740503.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-06T19:47:40Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 84.7,
-      "change_pct": -2.48
+      "price": 84.56,
+      "change_pct": -2.64
     },
     {
       "label": "Brent",
-      "price": 89.67,
-      "change_pct": -3.13
+      "price": 89.39,
+      "change_pct": -3.44
     },
     {
       "label": "NatGas",
-      "price": 3.24,
-      "change_pct": 0.68
+      "price": 3.25,
+      "change_pct": 0.93
     }
   ]
 }
