@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-10T12:13:15+00:00",
-  "as_of_local": "2026-11-10 12:13:15 UTC",
+  "as_of_utc": "2026-11-10T12:18:17+00:00",
+  "as_of_local": "2026-11-10 12:18:17 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "TLN"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1349,34 +1351,6 @@
       ]
     },
     {
-      "symbol": "TLN",
-      "name": "Talen Energy",
-      "price": 363.13,
-      "previous_close": 338.64,
-      "change_pct": 7.23,
-      "market_cap": 15798084158.988281,
-      "headlines": [
-        {
-          "title": "NRG Soars 10% on $4 Billion Gas Plant Sale and $3 Billion Buyback Plan: \u201cUnlocking Substantial Value\u201d",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nrg-soars-10-4-billion-221526956.html",
-          "publisher": "TIKR",
-          "published": "2026-11-09T22:15:26Z"
-        },
-        {
-          "title": "Shortage of Turbines Drives Market for Second-Hand Market for AI Data Centers",
-          "url": "https://finance.yahoo.com/energy/articles/shortage-turbines-drives-market-second-164700628.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-09T16:47:00Z"
-        },
-        {
-          "title": "Vistra Q3 Earnings Call Highlights",
-          "url": "https://finance.yahoo.com/energy/articles/vistra-q3-earnings-call-highlights-061409505.html",
-          "publisher": "MarketBeat",
-          "published": "2026-11-08T06:14:09Z"
-        }
-      ]
-    },
-    {
       "symbol": "NXT",
       "name": "Nextracker",
       "price": 104.89,
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 85.24,
-      "change_pct": -1.85
+      "price": 85.21,
+      "change_pct": -1.89
     },
     {
       "label": "Brent",
-      "price": 90.56,
-      "change_pct": -2.17
+      "price": 90.52,
+      "change_pct": -2.21
     },
     {
       "label": "NatGas",
       "price": 3.27,
-      "change_pct": 1.52
+      "change_pct": 1.49
     }
   ]
 }
