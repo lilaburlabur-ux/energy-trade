@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-10T21:47:10+00:00",
-  "as_of_local": "2026-11-10 21:47:10 UTC",
+  "as_of_utc": "2026-11-10T21:52:13+00:00",
+  "as_of_local": "2026-11-10 21:52:13 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "HUBB"
+    "FANG"
   ],
   "stocks": [
     {
@@ -931,34 +931,6 @@
       ]
     },
     {
-      "symbol": "FANG",
-      "name": "Diamondback Energy",
-      "price": 178.08,
-      "previous_close": 178.17,
-      "change_pct": -0.05,
-      "market_cap": 49714209636.451584,
-      "headlines": [
-        {
-          "title": "Buy These 3 Stocks with Broker Rating Upgrades for Big Gains",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/buy-3-stocks-broker-rating-174100677.html",
-          "publisher": "Zacks",
-          "published": "2026-11-10T17:41:00Z"
-        },
-        {
-          "title": "Sector Update: Energy Stocks Fall Pre-Bell Tuesday",
-          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-fall-pre-141948947.html",
-          "publisher": "MT Newswires",
-          "published": "2026-11-10T14:19:48Z"
-        },
-        {
-          "title": "Can ConocoPhillips Sustain Future Production Growth With Lower CapEx?",
-          "url": "https://finance.yahoo.com/energy/articles/conocophillips-sustain-future-production-growth-124100957.html",
-          "publisher": "Zacks",
-          "published": "2026-11-10T12:41:00Z"
-        }
-      ]
-    },
-    {
       "symbol": "DVN",
       "name": "Devon Energy",
       "price": 43.41,
@@ -1179,6 +1151,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-baker-hughes-stock-falling-141921435.html",
           "publisher": "Trefis",
           "published": "2026-11-06T14:19:21Z"
+        }
+      ]
+    },
+    {
+      "symbol": "HUBB",
+      "name": "Hubbell",
+      "price": 437.79,
+      "previous_close": 441.57,
+      "change_pct": -0.86,
+      "market_cap": 23130650424.121246,
+      "headlines": [
+        {
+          "title": "Hubbell: 3 Key Takeaways for Long-Term Investors",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/hubbell-3-key-takeaways-long-232002420.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-08T23:20:02Z"
+        },
+        {
+          "title": "3 Value Dividend Stocks To Watch As Rate Cut Hopes Fade",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-value-dividend-stocks-watch-191455855.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-07T19:14:55Z"
+        },
+        {
+          "title": "What Should Eaton Stock Holders Take From The September Quarter?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/eaton-stock-holders-september-quarter-231057575.html",
+          "publisher": "Trefis",
+          "published": "2026-11-06T23:10:57Z"
         }
       ]
     },
@@ -2089,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 86.46,
-      "change_pct": -0.45
+      "price": 86.48,
+      "change_pct": -0.43
     },
     {
       "label": "Brent",
-      "price": 91.99,
-      "change_pct": -0.63
+      "price": 92.11,
+      "change_pct": -0.5
     },
     {
       "label": "NatGas",
       "price": 3.3,
-      "change_pct": 2.64
+      "change_pct": 2.55
     }
   ]
 }
