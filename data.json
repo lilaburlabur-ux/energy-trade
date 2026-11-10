@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-10T09:01:53+00:00",
-  "as_of_local": "2026-11-10 09:01:53 UTC",
+  "as_of_utc": "2026-11-10T09:06:53+00:00",
+  "as_of_local": "2026-11-10 09:06:53 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "DINO"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1247,6 +1245,12 @@
       "market_cap": 20474501364.95574,
       "headlines": [
         {
+          "title": "NRG to sell six natural gas assets to LS Power for $4bn",
+          "url": "https://finance.yahoo.com/news/nrg-sell-six-natural-gas-085400722.html",
+          "publisher": "Power Technology",
+          "published": "2026-11-10T08:54:00Z"
+        },
+        {
           "title": "NRG Energy (NRG) Strikes $4 Billion Plant Deal And Lifts Dividend 8%",
           "url": "https://finance.yahoo.com/energy/articles/nrg-energy-nrg-strikes-4-011520837.html",
           "publisher": "Simply Wall St.",
@@ -1257,12 +1261,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/nrg-soars-10-4-billion-221526956.html",
           "publisher": "TIKR",
           "published": "2026-11-09T22:15:26Z"
-        },
-        {
-          "title": "NRG Energy, Inc. Q3 2026 Earnings Call Summary",
-          "url": "https://finance.yahoo.com/energy/articles/nrg-energy-inc-q3-2026-215524764.html",
-          "publisher": "Moby",
-          "published": "2026-11-09T21:55:24Z"
         }
       ]
     },
@@ -1291,6 +1289,34 @@
           "url": "https://finance.yahoo.com/energy/articles/permian-resources-q3-earnings-call-051413053.html",
           "publisher": "MarketBeat",
           "published": "2026-11-08T05:14:13Z"
+        }
+      ]
+    },
+    {
+      "symbol": "DINO",
+      "name": "HF Sinclair",
+      "price": 99.76,
+      "previous_close": 97.18,
+      "change_pct": 2.65,
+      "market_cap": 16886491682.242218,
+      "headlines": [
+        {
+          "title": "Sinclair: 3 Key Takeaways for Long-Term Investors",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/sinclair-3-key-takeaways-long-180502221.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-09T18:05:02Z"
+        },
+        {
+          "title": "Zacks.com featured highlights include DMC Global, HF Sinclair, Cenovus Energy, ZIM Integrated Shipping and POSCO",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-com-featured-highlights-dmc-092900036.html",
+          "publisher": "Zacks",
+          "published": "2026-11-09T09:29:00Z"
+        },
+        {
+          "title": "EOG Q3 Earnings Beat Estimates on Record Production, Strong Pricing",
+          "url": "https://finance.yahoo.com/energy/articles/eog-q3-earnings-beat-estimates-173400832.html",
+          "publisher": "Zacks",
+          "published": "2026-11-06T17:34:00Z"
         }
       ]
     },
@@ -2089,13 +2115,13 @@
     },
     {
       "label": "WTI",
-      "price": 84.4,
-      "change_pct": -2.82
+      "price": 84.56,
+      "change_pct": -2.64
     },
     {
       "label": "Brent",
-      "price": 89.9,
-      "change_pct": -2.88
+      "price": 90.0,
+      "change_pct": -2.78
     },
     {
       "label": "NatGas",
