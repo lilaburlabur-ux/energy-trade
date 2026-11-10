@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-10T13:14:06+00:00",
-  "as_of_local": "2026-11-10 13:14:06 UTC",
+  "as_of_utc": "2026-11-10T13:19:14+00:00",
+  "as_of_local": "2026-11-10 13:19:14 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "PEG"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1043,6 +1041,34 @@
       ]
     },
     {
+      "symbol": "PEG",
+      "name": "Public Service Enterprise",
+      "price": 75.03,
+      "previous_close": 72.61,
+      "change_pct": 3.33,
+      "market_cap": 37403611128.97067,
+      "headlines": [
+        {
+          "title": "How Earnings Miss Will Impact PSEG Stock Investors",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/earnings-miss-impact-pseg-stock-011704773.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-04T01:17:04Z"
+        },
+        {
+          "title": "Public Service Enterprise Group (PEG) Holds Guidance After Earnings Misses While Fair Value Still Leads",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/public-enterprise-group-peg-holds-221813853.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-03T22:18:13Z"
+        },
+        {
+          "title": "Can Edison International Stock Jump 30%?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/edison-international-stock-jump-30-160603870.html",
+          "publisher": "Trefis",
+          "published": "2026-11-03T16:06:03Z"
+        }
+      ]
+    },
+    {
       "symbol": "CCJ",
       "name": "Cameco",
       "price": 75.37,
@@ -1567,10 +1593,10 @@
           "published": "2026-11-05T17:45:00Z"
         },
         {
-          "title": "NuScale Power Advances SMR Manufacturing With Doosan Deal",
-          "url": "https://finance.yahoo.com/energy/articles/nuscale-power-advances-smr-manufacturing-163500821.html",
-          "publisher": "Zacks",
-          "published": "2026-11-02T16:35:00Z"
+          "title": "What Is Behind The Move In Cameco Stock?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/behind-move-cameco-stock-012341659.html",
+          "publisher": "Trefis",
+          "published": "2026-11-02T01:23:41Z"
         }
       ]
     },
@@ -2089,13 +2115,13 @@
     },
     {
       "label": "WTI",
-      "price": 84.96,
-      "change_pct": -2.18
+      "price": 84.91,
+      "change_pct": -2.23
     },
     {
       "label": "Brent",
-      "price": 90.2,
-      "change_pct": -2.56
+      "price": 90.09,
+      "change_pct": -2.68
     },
     {
       "label": "NatGas",
