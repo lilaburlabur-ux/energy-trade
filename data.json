@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-09T23:58:27+00:00",
-  "as_of_local": "2026-11-09 23:58:27 UTC",
+  "as_of_utc": "2026-11-10T00:03:24+00:00",
+  "as_of_local": "2026-11-10 00:03:24 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "BE"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -817,34 +819,6 @@
       ]
     },
     {
-      "symbol": "BE",
-      "name": "Bloom Energy",
-      "price": 193.88,
-      "previous_close": 173.24,
-      "change_pct": 11.91,
-      "market_cap": 57298757075.01282,
-      "headlines": [
-        {
-          "title": "Stock Market Today, Nov. 9: Plug Power Rises 3.45% on Positioning Ahead of Q3 Report",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-9-222410685.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-09T22:24:10Z"
-        },
-        {
-          "title": "Is Bloom Energy Really Worth $200 Right Now? Here's the Math.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-really-worth-200-213502939.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-09T21:35:02Z"
-        },
-        {
-          "title": "CoreWeave left one thing out of its friendly letter to Texas",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-left-one-thing-friendly-181700744.html",
-          "publisher": "TheStreet",
-          "published": "2026-11-09T18:17:00Z"
-        }
-      ]
-    },
-    {
       "symbol": "OXY",
       "name": "Occidental Petroleum",
       "price": 55.76,
@@ -1033,9 +1007,9 @@
           "published": "2026-11-09T18:51:00Z"
         },
         {
-          "title": "Vistra and Constellation Both Fell Sharply After the Election. One Has Far More Exposure to Texas.",
-          "url": "https://finance.yahoo.com/energy/articles/vistra-constellation-both-fell-sharply-182500253.html",
-          "publisher": "Motley Fool",
+          "title": "Data-Center Moratoriums? They Aren\u2019t Showing Up in Constellation Energy\u2019s Guidance.",
+          "url": "https://www.barrons.com/articles/constellation-energy-earnings-stock-price-89dc5612?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
           "published": "2026-11-09T18:25:00Z"
         }
       ]
@@ -2115,8 +2089,8 @@
     },
     {
       "label": "WTI",
-      "price": 86.53,
-      "change_pct": -4.73
+      "price": 86.46,
+      "change_pct": -4.81
     },
     {
       "label": "Brent",
@@ -2126,7 +2100,7 @@
     {
       "label": "NatGas",
       "price": 3.2,
-      "change_pct": 6.8
+      "change_pct": 6.84
     }
   ]
 }
