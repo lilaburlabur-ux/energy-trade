@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-10T01:18:00+00:00",
+  "as_of": "2026-11-10T06:39:55+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,51 +9,19 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "VST",
-   "company": "Vistra Corp.",
-   "move_pct": 10.55,
-   "price": 124.8,
-   "volume": 7364286,
-   "volume_vs_avg": "~0.9x",
-   "heat_score": 67,
-   "direction": "up",
-   "why": "Vistra Files Prospectus Supplement With SEC for Securities Offering",
-   "catalyst_type": "financing",
-   "source_url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPXzJ6Zm8xbTlHM1RFa0R0S1NiSGRYb09Ob2xRMWtWOWtqemJwejA3SnBDT3Z2cEdvZjJaWVo3cXVYRWNrZG80SWJQU2dycVlfVXRRNzZhdjBkRTFqTWFvR1c3WUMzV3VkbTFxM05DNWN6WURCSVl3ejFsUkdXcnBmeWJNTEF2WU04eVUzSUZra2I4SUoyQWplVXFXcjVjMTJUa3VELXpJeFZkS3ZJSWlYQ25JdVpoSUIxNVhRSHd6d25obTJnY0d5Z3pGWE9UUDQwMXVtZm5zZ0JHb2t1Y2V1RFNtWlFPVW1GRUlnMHpzLWNyVUttUHFDbg?oc=5",
-   "published": "2026-11-09T22:30:00+00:00",
-   "sector": "Power & IPPs"
-  },
-  {
-   "rank": 2,
    "ticker": "NRG",
    "company": "NRG Energy, Inc.",
-   "move_pct": 9.61,
-   "price": 88.29,
-   "volume": 5821420,
+   "move_pct": 10.32,
+   "price": 97.4,
+   "volume": 5822900,
    "volume_vs_avg": "~2x",
-   "heat_score": 66,
+   "heat_score": 69,
    "direction": "up",
-   "why": "NRG Energy Inc. stock outperforms competitors on strong trading day",
+   "why": "NRG Energy Inc (NRG) Stock Up 10.3% and Still Undervalued -- GF Score: 80/100",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTmZBc1kyc3JtbTRMTG9CYVRNRTVkcnZJZy1IZjVObXFfM3hCU1hvODZlaExVajl2ZzRJMXo0R1hwcEQtVHgtaFZXT2tMOVBrS18tdlROV05POHJzR3lQZ1FEYlJoMURyeDJDTFZ0UFBwTjRxUGVvd1ZJSFUyYUFubjVkTmU0b21QTDBEdV9LQWdISHJsUjNwUFpKYnFDZnZaR21NS3pzWVVoaGpDZ1k5WlAzT3NvQzFUMDc0X21vXzk0YjF6?oc=5",
-   "published": "2026-11-09T21:30:00+00:00",
+   "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZnIxa0luZkJFa0FqZmdUVzZ1MG1weFRuQndoUUUxZkdldnVJbi1vcWExQUM1OTJEVzlIRUxaaTZQa2ZNM1FrOGpYSS1UbVR4aW5XWGFxUDliamJNRXh4UmhjMG9ZdlZxeU40LXJnU0tBOVM0YlNjc1lkd0RGUW0yN1ExVldHVndRWUZMYVdfOWNYbGJQc1hxbTlEcHZXWUMxZ3Q3NDZPemFiVWc?oc=5",
+   "published": "2026-11-10T03:45:00+00:00",
    "sector": "Power & IPPs"
-  },
-  {
-   "rank": 3,
-   "ticker": "PWR",
-   "company": "Quanta Services, Inc.",
-   "move_pct": 6.25,
-   "price": 540.9,
-   "volume": 1885457,
-   "volume_vs_avg": "~1.3x",
-   "heat_score": 43,
-   "direction": "up",
-   "why": "Quanta Services Inc (PWR) Shares Surge 9.3% -- What GF Score of 96 Tells Investors",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUTM5SkN5dzI1STBVOHdHWE15YkRpSWZxQzQxbnByNTlfdzNOMnRwYkg3VVN6bXpPclIteC1qSkhGY196aGlUTlMzeGVWMHpzRWQ5ODJzVHdCSXJWdmRfVXlGQUxzZjZWb1k3NF81N3FpNHJtUFY3ckM1VHRySWFzMlMyb2gyc0RyYUItLVY1U0ZRaGVjWmk0aWpTXzlHanU0elpQU0tMemp1Wk42RWxzSEM3RFo?oc=5",
-   "published": "2026-11-09T23:36:10+00:00",
-   "sector": "Grid, Storage & Electrification"
   }
  ]
 }
