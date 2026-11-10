@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-10T00:08:32+00:00",
-  "as_of_local": "2026-11-10 00:08:32 UTC",
+  "as_of_utc": "2026-11-10T00:13:50+00:00",
+  "as_of_local": "2026-11-10 00:13:50 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "UEC"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1035,9 +1033,9 @@
           "published": "2026-11-09T18:51:00Z"
         },
         {
-          "title": "Vistra and Constellation Both Fell Sharply After the Election. One Has Far More Exposure to Texas.",
-          "url": "https://finance.yahoo.com/energy/articles/vistra-constellation-both-fell-sharply-182500253.html",
-          "publisher": "Motley Fool",
+          "title": "Data-Center Moratoriums? They Aren\u2019t Showing Up in Constellation Energy\u2019s Guidance.",
+          "url": "https://www.barrons.com/articles/constellation-energy-earnings-stock-price-89dc5612?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
           "published": "2026-11-09T18:25:00Z"
         }
       ]
@@ -1659,6 +1657,34 @@
       ]
     },
     {
+      "symbol": "UEC",
+      "name": "Uranium Energy Corp",
+      "price": 7.62,
+      "previous_close": 6.92,
+      "change_pct": 10.12,
+      "market_cap": 3776355090.584836,
+      "headlines": [
+        {
+          "title": "Purepoint Uranium CEO explains why rising uranium prices aren't lifting stocks",
+          "url": "https://finance.yahoo.com/news/purepoint-uranium-ceo-explains-why-151300252.html",
+          "publisher": "Proactive",
+          "published": "2026-11-06T15:13:00Z"
+        },
+        {
+          "title": "Is Uranium Energy (UEC) Priced Too Richly On Book Value?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/uranium-energy-uec-priced-too-002024703.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-06T00:20:24Z"
+        },
+        {
+          "title": "Uranium Energy Corp Secures Long-Term Supply Agreements With Two US Nuclear Utilities",
+          "url": "https://finance.yahoo.com/energy/articles/uranium-energy-corp-secures-long-114830022.html",
+          "publisher": "InvestorsHub",
+          "published": "2026-11-05T11:48:30Z"
+        }
+      ]
+    },
+    {
       "symbol": "LEU",
       "name": "Centrus Energy",
       "price": 117.34,
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 86.45,
-      "change_pct": -4.82
+      "price": 86.43,
+      "change_pct": -4.84
     },
     {
       "label": "Brent",
-      "price": 92.36,
-      "change_pct": -6.06
+      "price": 92.32,
+      "change_pct": -6.1
     },
     {
       "label": "NatGas",
       "price": 3.2,
-      "change_pct": 6.8
+      "change_pct": 6.84
     }
   ]
 }
