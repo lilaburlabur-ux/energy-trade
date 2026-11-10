@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-10T05:04:40+00:00",
-  "as_of_local": "2026-11-10 05:04:40 UTC",
+  "as_of_utc": "2026-11-10T05:09:55+00:00",
+  "as_of_local": "2026-11-10 05:09:55 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "SU"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -539,6 +537,34 @@
       ]
     },
     {
+      "symbol": "SU",
+      "name": "Suncor Energy",
+      "price": 67.44,
+      "previous_close": 68.74,
+      "change_pct": -1.89,
+      "market_cap": 77638565016.68604,
+      "headlines": [
+        {
+          "title": "Is Suncor Energy (TSX:SU) A Bargain After Its 269% Run?",
+          "url": "https://finance.yahoo.com/energy/articles/suncor-energy-tsx-su-bargain-220932255.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-09T22:09:32Z"
+        },
+        {
+          "title": "Suncor Energy (TSX:SU) Lifts Dividend As Investors Ask If The Pullback Is A Buying Chance",
+          "url": "https://finance.yahoo.com/energy/articles/suncor-energy-tsx-su-lifts-210832875.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-09T21:08:32Z"
+        },
+        {
+          "title": "Are Investors Undervaluing Suncor Energy (SU) Right Now?",
+          "url": "https://finance.yahoo.com/news/investors-undervaluing-suncor-energy-su-134003019.html",
+          "publisher": "Zacks",
+          "published": "2026-11-09T13:40:03Z"
+        }
+      ]
+    },
+    {
       "symbol": "VRT",
       "name": "Vertiv",
       "price": 200.47,
@@ -1007,9 +1033,9 @@
           "published": "2026-11-09T18:51:00Z"
         },
         {
-          "title": "Data-Center Moratoriums? They Aren\u2019t Showing Up in Constellation Energy\u2019s Guidance.",
-          "url": "https://www.barrons.com/articles/constellation-energy-earnings-stock-price-89dc5612?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
+          "title": "Vistra and Constellation Both Fell Sharply After the Election. One Has Far More Exposure to Texas.",
+          "url": "https://finance.yahoo.com/energy/articles/vistra-constellation-both-fell-sharply-182500253.html",
+          "publisher": "Motley Fool",
           "published": "2026-11-09T18:25:00Z"
         }
       ]
