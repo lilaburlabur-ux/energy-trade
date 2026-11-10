@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-10T07:20:43+00:00",
-  "as_of_local": "2026-11-10 07:20:43 UTC",
+  "as_of_utc": "2026-11-10T07:35:58+00:00",
+  "as_of_local": "2026-11-10 07:35:58 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "SLB"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -97,6 +99,12 @@
       "market_cap": 219507285024.46667,
       "headlines": [
         {
+          "title": "Azad Engineering Ltd (NSE:AZAD) (Q2 2027) Earnings Call Highlights: Record Revenue of Rs 187. ...",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/azad-engineering-ltd-nse-azad-070716516.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-10T07:07:16Z"
+        },
+        {
           "title": "Alphabet Almost Sets a Record No One Wants",
           "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-almost-sets-record-no-004302879.html",
           "publisher": "Motley Fool",
@@ -107,12 +115,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-stock-focus-germany-001553145.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-10T00:15:53Z"
-        },
-        {
-          "title": "X-Energy Can Construct Its First Nuclear Reactors, U.S. Says",
-          "url": "https://www.barrons.com/articles/x-energy-stock-nuclear-28dee48d?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-11-09T21:47:00Z"
         }
       ]
     },
@@ -621,34 +623,6 @@
       ]
     },
     {
-      "symbol": "SLB",
-      "name": "SLB (Schlumberger)",
-      "price": 50.38,
-      "previous_close": 49.92,
-      "change_pct": 0.92,
-      "market_cap": 74362373479.50972,
-      "headlines": [
-        {
-          "title": "SLB (SLB) Stock Still Looks Undervalued Despite Its 70% Run",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/slb-slb-stock-still-looks-151819577.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-07T15:18:19Z"
-        },
-        {
-          "title": "SLB (SLB) Could Be 20% Below Fair Value After New Contract Wins",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/slb-slb-could-20-below-141006503.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-07T14:10:06Z"
-        },
-        {
-          "title": "Why Is SLB (SLB) Pairing A Norway Contract With New Production Chemistry?",
-          "url": "https://finance.yahoo.com/energy/articles/why-slb-slb-pairing-norway-001149806.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-07T00:11:49Z"
-        }
-      ]
-    },
-    {
       "symbol": "KMI",
       "name": "Kinder Morgan",
       "price": 30.57,
@@ -769,6 +743,12 @@
       "market_cap": 58187907787.02356,
       "headlines": [
         {
+          "title": "The Zacks Analyst Blog Highlights Nucor, UCB and Cheniere Energy",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-nucor-062000448.html",
+          "publisher": "Zacks",
+          "published": "2026-11-10T06:20:00Z"
+        },
+        {
           "title": "Oklo Secures U.S. Forging Capacity for Future Aurora Expansion",
           "url": "https://finance.yahoo.com/energy/articles/oklo-secures-u-forging-capacity-152300844.html",
           "publisher": "Zacks",
@@ -779,12 +759,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/3-dividend-stocks-just-gave-144736547.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-09T14:47:36Z"
-        },
-        {
-          "title": "APA Q3 Earnings Beat on Strong Oil Prices and U.S. Output",
-          "url": "https://finance.yahoo.com/energy/articles/apa-q3-earnings-beat-strong-155200571.html",
-          "publisher": "Zacks",
-          "published": "2026-11-06T15:52:00Z"
         }
       ]
     },
@@ -993,6 +967,12 @@
       "market_cap": 48114652774.50874,
       "headlines": [
         {
+          "title": "Azad Engineering Ltd (NSE:AZAD) (Q2 2027) Earnings Call Highlights: Record Revenue of Rs 187. ...",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/azad-engineering-ltd-nse-azad-070716516.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-10T07:07:16Z"
+        },
+        {
           "title": "North America Goes Back to Losing Rigs, BH Shows",
           "url": "https://finance.yahoo.com/energy/articles/north-america-goes-back-losing-183103669.html",
           "publisher": "Rigzone.com",
@@ -1003,12 +983,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/core-natural-resources-bristow-group-182136821.html",
           "publisher": "StockStory",
           "published": "2026-11-08T18:21:36Z"
-        },
-        {
-          "title": "Basin rig count up one as prices drop",
-          "url": "https://finance.yahoo.com/energy/articles/basin-rig-count-one-prices-010100109.html",
-          "publisher": "Odessa American, Texas",
-          "published": "2026-11-07T01:01:00Z"
         }
       ]
     },
@@ -1993,8 +1967,8 @@
           "name": "SLB Ltd",
           "short": "SLB",
           "weight_pct": 3.74,
-          "change_pct": 0.92,
-          "price": 50.38,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -2092,8 +2066,8 @@
         "name": "SLB Ltd",
         "short": "SLB",
         "weight_pct": 3.74,
-        "change_pct": 0.92,
-        "price": 50.38,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 85.65,
-      "change_pct": -1.38
+      "price": 85.62,
+      "change_pct": -1.42
     },
     {
       "label": "Brent",
-      "price": 91.44,
-      "change_pct": -1.22
+      "price": 91.38,
+      "change_pct": -1.29
     },
     {
       "label": "NatGas",
-      "price": 3.21,
-      "change_pct": -0.25
+      "price": 3.23,
+      "change_pct": 0.25
     }
   ]
 }
