@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-10T08:06:04+00:00",
-  "as_of_local": "2026-11-10 08:06:04 UTC",
+  "as_of_utc": "2026-11-10T08:11:00+00:00",
+  "as_of_local": "2026-11-10 08:11:00 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "EPD"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -507,6 +505,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/750-000-dividend-portfolio-could-174836690.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-05T17:48:36Z"
+        }
+      ]
+    },
+    {
+      "symbol": "EPD",
+      "name": "Enterprise Products",
+      "price": 36.7,
+      "previous_close": 37.03,
+      "change_pct": -0.89,
+      "market_cap": 79147399933.95892,
+      "headlines": [
+        {
+          "title": "4 High-Yield Dividend Stocks You Can Buy Today and Hold Forever",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/4-high-yield-dividend-stocks-143704707.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-09T14:37:04Z"
+        },
+        {
+          "title": "The Best Energy Stock to Buy With Oil Near $105 Isn't an Oil Producer",
+          "url": "https://finance.yahoo.com/energy/articles/best-energy-stock-buy-oil-133500116.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-08T13:35:00Z"
+        },
+        {
+          "title": "Everyone Loves This 6.5% Pipeline Yield. Here's the Risk I Think They're Ignoring.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/everyone-loves-6-5-pipeline-133500436.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-07T13:35:00Z"
         }
       ]
     },
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 85.46,
-      "change_pct": -1.6
+      "price": 85.35,
+      "change_pct": -1.73
     },
     {
       "label": "Brent",
-      "price": 91.16,
-      "change_pct": -1.52
+      "price": 91.04,
+      "change_pct": -1.65
     },
     {
       "label": "NatGas",
       "price": 3.23,
-      "change_pct": 0.28
+      "change_pct": 0.37
     }
   ]
 }
