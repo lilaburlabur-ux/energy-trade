@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-10T21:29:05+00:00",
-  "as_of_local": "2026-11-10 21:29:05 UTC",
+  "as_of_utc": "2026-11-10T21:31:56+00:00",
+  "as_of_local": "2026-11-10 21:31:56 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "BKR"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -71,6 +69,12 @@
       "market_cap": 275339665846.27484,
       "headlines": [
         {
+          "title": "Did First Half Earnings Just Shift DCC Energy (LSE:DCC) Investment Narrative?",
+          "url": "https://finance.yahoo.com/energy/articles/did-first-half-earnings-just-211158837.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-10T21:11:58Z"
+        },
+        {
           "title": "3 British Undervalued Stocks Trading Up To 46% Below Cash Flow Value",
           "url": "https://finance.yahoo.com/markets/stocks/articles/3-british-undervalued-stocks-trading-191024463.html",
           "publisher": "Simply Wall St.",
@@ -81,12 +85,6 @@
           "url": "https://finance.yahoo.com/markets/world-indices/articles/ftse-100-climbs-sinking-crude-091048234.html",
           "publisher": "Investing.com",
           "published": "2026-11-10T09:10:48Z"
-        },
-        {
-          "title": "3 British Undervalued Stocks Trading Up To 45% Below Cash Flow Value",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-british-undervalued-stocks-trading-181134707.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-09T18:11:34Z"
         }
       ]
     },
@@ -983,6 +981,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/devon-energy-dvn-loses-13-133501348.html",
           "publisher": "Zacks",
           "published": "2026-11-10T13:35:01Z"
+        }
+      ]
+    },
+    {
+      "symbol": "BKR",
+      "name": "Baker Hughes",
+      "price": 47.77,
+      "previous_close": 48.45,
+      "change_pct": -1.4,
+      "market_cap": 47439359109.80525,
+      "headlines": [
+        {
+          "title": "Top 5 Activist Target Stocks for Spin-offs or Breakups",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/top-5-activist-target-stocks-185813908.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-11-10T18:58:13Z"
+        },
+        {
+          "title": "Baker Hughes Stock Outlook: Is Wall Street Bullish or Bearish?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/baker-hughes-stock-outlook-wall-145105064.html",
+          "publisher": "Barchart",
+          "published": "2026-11-10T14:51:05Z"
+        },
+        {
+          "title": "Venture Global CEO Eyes New Growth Opportunity In Off-Grid Power For AI Data Centers \u2013 Firm Raises FY2026 Guidance After Record Q3 Earnings",
+          "url": "https://finance.yahoo.com/energy/articles/venture-global-ceo-eyes-growth-133349752.html",
+          "publisher": "Stocktwits",
+          "published": "2026-11-10T13:33:49Z"
         }
       ]
     },
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 86.39,
-      "change_pct": -0.53
+      "price": 86.41,
+      "change_pct": -0.51
     },
     {
       "label": "Brent",
-      "price": 91.95,
-      "change_pct": -0.67
+      "price": 91.98,
+      "change_pct": -0.64
     },
     {
       "label": "NatGas",
-      "price": 3.31,
-      "change_pct": 2.7
+      "price": 3.3,
+      "change_pct": 2.67
     }
   ]
 }
