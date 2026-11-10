@@ -4,24 +4,24 @@ Signed file: `AR.research.10.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $36.36 (2026-11-10, ~15-min delayed) |
-| Market cap | $11.17B |
+| Current price | $37.85 (2026-11-10, ~15-min delayed) |
+| Market cap | $11.62B |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
-| Current stance | Low technical momentum, strong fundamentals, value: reasonable, risk: elevated. |
+| Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-10.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-1.60%) with negative half-year (-0.63%). |
-| Fresh setup quality | Moderate / wait | -19.47% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +12.47%; price +2.39% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -16.18% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 22.98%, revenue growth 17.10%. |
-| Value attractiveness | Reasonable | Forward P/E 7.95, EV/Sales —. |
+| Value attractiveness | Reasonable | Forward P/E 8.27, EV/Sales —. |
 | Risk level | Elevated | Beta 0.48, ATR 3.9% of price, short float 4.35%. |
 
-**Bottom line:** Low technical momentum, strong fundamentals, value: reasonable, risk: elevated.
+**Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -44,22 +44,22 @@ Antero Resources Corporation, an independent oil and natural gas company, engage
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $36.36; 52w high $45.15 (-19.47%); 52w low $31.38 (+15.87%) |
-| Trend | -1.60% vs SMA200, -3.06% vs SMA50, -6.83% vs SMA20 |
-| Momentum | RSI(14) 40.8 (neutral) |
-| Volatility | ATR(14) 1.43 (~3.9% of price); beta 0.48 |
-| Setup perspective | -19.47% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $37.85; 52w high $45.15 (-16.18%); 52w low $31.38 (+20.60%) |
+| Trend | +2.39% vs SMA200, +0.94% vs SMA50, -3.06% vs SMA20 |
+| Momentum | RSI(14) 48.4 (neutral) |
+| Volatility | ATR(14) 1.47 (~3.9% of price); beta 0.48 |
+| Setup perspective | -16.18% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -10.5% |
-| Month | +1.3% |
-| Quarter | -3.9% |
-| Half Y | -0.6% |
-| 1Y | +11.4% |
-| YTD | +6.3% |
+| Week | -5.2% |
+| Month | +3.5% |
+| Quarter | +1.0% |
+| Half Y | +4.2% |
+| 1Y | +12.5% |
+| YTD | +10.6% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ Antero Resources Corporation, an independent oil and natural gas company, engage
 | Revenue (ttm) | $5.98B | Revenue growth 17.10% y/y |
 | Profitability | Gross 68.28%, operating 29.50%, net 22.98% | ROA 7.69%, ROE 17.39% |
 | Balance sheet | Cash —, debt $4.65B | Current ratio 0.39, debt/equity 53.84 |
-| Valuation | P/E 8.21, forward P/E 7.95, P/S 1.87, P/B 1.29 | EV/Sales —, EV/EBITDA — |
+| Valuation | P/E 8.54, forward P/E 8.27, P/S 1.94, P/B 1.35 | EV/Sales —, EV/EBITDA — |
 | Growth expectations | Earnings growth 395.80%, EPS q/q 381.90% | Analyst mean target $50.77 (22 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 92.15% |
+| Institutional ownership | 92.22% |
 | Insider ownership | 4.41% |
 | Short float | 4.35% |
 | Short ratio (days to cover) | 3.1 |
@@ -110,21 +110,21 @@ Antero Resources Corporation, an independent oil and natural gas company, engage
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $36.36 | EV/Sales | — |
-| Market cap | $11.17B | EV/EBITDA | — |
+| Price | $37.85 | EV/Sales | — |
+| Market cap | $11.62B | EV/EBITDA | — |
 | Beta | 0.48 | Gross margin | 68.28% |
-| RSI(14) | 40.8 | Operating margin | 29.50% |
-| ATR(14) | 1.43 | Profit margin | 22.98% |
-| SMA20 dist | -6.83% | ROA | 7.69% |
-| SMA50 dist | -3.06% | ROE | 17.39% |
-| SMA200 dist | -1.60% | Revenue (ttm) | $5.98B |
+| RSI(14) | 48.4 | Operating margin | 29.50% |
+| ATR(14) | 1.47 | Profit margin | 22.98% |
+| SMA20 dist | -3.06% | ROA | 7.69% |
+| SMA50 dist | +0.94% | ROE | 17.39% |
+| SMA200 dist | +2.39% | Revenue (ttm) | $5.98B |
 | 52W high | $45.15 | Revenue growth y/y | 17.10% |
-| 52W low | $31.38 | Inst. ownership | 92.15% |
-| P/E (ttm) | 8.21 | Insider ownership | 4.41% |
-| Forward P/E | 7.95 | Short float | 4.35% |
-| PEG (trailing) | 0.35 | Avg volume | 4,091,350 |
-| P/S | 1.87 | Employees | 632 |
-| P/B | 1.29 | Analyst rec (1=buy..5=sell) | 1.8 |
+| 52W low | $31.38 | Inst. ownership | 92.22% |
+| P/E (ttm) | 8.54 | Insider ownership | 4.41% |
+| Forward P/E | 8.27 | Short float | 4.35% |
+| PEG (trailing) | 0.35 | Avg volume | 4,067,317 |
+| P/S | 1.94 | Employees | 632 |
+| P/B | 1.35 | Analyst rec (1=buy..5=sell) | 1.8 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
@@ -139,7 +139,7 @@ Antero Resources Corporation, an independent oil and natural gas company, engage
 | 2026-10-05 | main | Truist Securities | Buy → Buy |
 
 ## 9. Conclusion
-AR: Low momentum / strong fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+AR: Moderate momentum / strong fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

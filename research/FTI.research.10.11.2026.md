@@ -4,8 +4,8 @@ Signed file: `FTI.research.10.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $63.98 (2026-11-10, ~15-min delayed) |
-| Market cap | $24.88B |
+| Current price | $64.75 (2026-11-10, ~15-min delayed) |
+| Market cap | $25.18B |
 | Sector / Industry | Energy / Oil & Gas Equipment & Services |
 | Main theme | Oil & Gas Equipment & Services — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
@@ -15,11 +15,11 @@ Signed file: `FTI.research.10.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-7.96%) with negative half-year (-9.96%). |
-| Fresh setup quality | Moderate / wait | -20.10% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-6.92%) with negative half-year (-11.42%). |
+| Fresh setup quality | Moderate / wait | -19.14% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 12.04%, revenue growth 9.40%. |
-| Value attractiveness | Reasonable | Forward P/E 17.05, EV/Sales 2.36. |
-| Risk level | Elevated | Beta 0.85, ATR 4.1% of price, short float 3.87%. |
+| Value attractiveness | Reasonable | Forward P/E 17.25, EV/Sales 2.36. |
+| Risk level | Elevated | Beta 0.85, ATR 4.0% of price, short float 3.87%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
 
@@ -36,30 +36,30 @@ TechnipFMC plc engages in the oil and natural gas projects, technologies, system
 
 | Headline | Source | Date |
 |---|---|---|
+| What State Street SPDR S&P MidCap 400 ETF (MDY) Sold: TechnipFMC Leads on Friday | GuruFocus.com | 2026-11-10 |
 | 3 Reasons Growth Investors Will Love FMC Technologies (FTI) | Zacks | 2026-11-06 |
 | Why Is Baker Hughes Stock Falling? | Trefis | 2026-11-06 |
 | SPDR S&P MidCap 400 ETF (MDY) Adds Glaukos and United Therapeutics on Wednesday | GuruFocus.com | 2026-11-06 |
-| SPDR Portfolio S&P 400 Mid Cap ETF (SPMD) Buys $75.3 Million More Glaukos on Tuesday | GuruFocus.com | 2026-11-05 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $63.98; 52w high $80.08 (-20.10%); 52w low $42.59 (+50.22%) |
-| Trend | -7.96% vs SMA200, -9.81% vs SMA50, -5.89% vs SMA20 |
-| Momentum | RSI(14) 39.0 (neutral) |
-| Volatility | ATR(14) 2.64 (~4.1% of price); beta 0.85 |
-| Setup perspective | -20.10% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $64.75; 52w high $80.08 (-19.14%); 52w low $42.59 (+52.03%) |
+| Trend | -6.92% vs SMA200, -8.38% vs SMA50, -4.34% vs SMA20 |
+| Momentum | RSI(14) 41.5 (neutral) |
+| Volatility | ATR(14) 2.61 (~4.0% of price); beta 0.85 |
+| Setup perspective | -19.14% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -4.3% |
-| Month | -8.0% |
-| Quarter | -15.0% |
-| Half Y | -10.0% |
-| 1Y | +51.5% |
-| YTD | +35.5% |
+| Week | -3.0% |
+| Month | -7.2% |
+| Quarter | -13.9% |
+| Half Y | -11.4% |
+| 1Y | +51.6% |
+| YTD | +37.1% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ TechnipFMC plc engages in the oil and natural gas projects, technologies, system
 | Revenue (ttm) | $10.67B | Revenue growth 9.40% y/y |
 | Profitability | Gross 23.60%, operating 17.77%, net 12.04% | ROA 10.08%, ROE 38.30% |
 | Balance sheet | Cash $1.05B, debt $1.30B | Current ratio 1.09, debt/equity 38.93 |
-| Valuation | P/E 19.99, forward P/E 17.05, P/S 2.33, P/B 7.49 | EV/Sales 2.36, EV/EBITDA 12.11 |
+| Valuation | P/E 20.36, forward P/E 17.25, P/S 2.36, P/B 7.58 | EV/Sales 2.36, EV/EBITDA 12.11 |
 | Growth expectations | Earnings growth 40.00%, EPS q/q 35.10% | Analyst mean target $77.14 (22 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 102.14% |
+| Institutional ownership | 102.09% |
 | Insider ownership | 1.57% |
 | Short float | 3.87% |
 | Short ratio (days to cover) | 5.2 |
@@ -95,7 +95,7 @@ TechnipFMC plc engages in the oil and natural gas projects, technologies, system
 | T. Rowe Price Investment Management, Inc. | 9,275,901 | 2.39% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 0.85, ATR 4.1% of price, short float 3.87%. Size positions accordingly.
+- **Volatility risk:** Beta 0.85, ATR 4.0% of price, short float 3.87%. Size positions accordingly.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -110,21 +110,21 @@ TechnipFMC plc engages in the oil and natural gas projects, technologies, system
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $63.98 | EV/Sales | 2.36 |
-| Market cap | $24.88B | EV/EBITDA | 12.11 |
+| Price | $64.75 | EV/Sales | 2.36 |
+| Market cap | $25.18B | EV/EBITDA | 12.11 |
 | Beta | 0.85 | Gross margin | 23.60% |
-| RSI(14) | 39.0 | Operating margin | 17.77% |
-| ATR(14) | 2.64 | Profit margin | 12.04% |
-| SMA20 dist | -5.89% | ROA | 10.08% |
-| SMA50 dist | -9.81% | ROE | 38.30% |
-| SMA200 dist | -7.96% | Revenue (ttm) | $10.67B |
+| RSI(14) | 41.5 | Operating margin | 17.77% |
+| ATR(14) | 2.61 | Profit margin | 12.04% |
+| SMA20 dist | -4.34% | ROA | 10.08% |
+| SMA50 dist | -8.38% | ROE | 38.30% |
+| SMA200 dist | -6.92% | Revenue (ttm) | $10.67B |
 | 52W high | $80.08 | Revenue growth y/y | 9.40% |
-| 52W low | $42.59 | Inst. ownership | 102.14% |
-| P/E (ttm) | 19.99 | Insider ownership | 1.57% |
-| Forward P/E | 17.05 | Short float | 3.87% |
-| PEG (trailing) | — | Avg volume | 2,899,650 |
-| P/S | 2.33 | Employees | 21,975 |
-| P/B | 7.49 | Analyst rec (1=buy..5=sell) | 1.9 |
+| 52W low | $42.59 | Inst. ownership | 102.09% |
+| P/E (ttm) | 20.36 | Insider ownership | 1.57% |
+| Forward P/E | 17.25 | Short float | 3.87% |
+| PEG (trailing) | — | Avg volume | 2,877,235 |
+| P/S | 2.36 | Employees | 21,975 |
+| P/B | 7.58 | Analyst rec (1=buy..5=sell) | 1.9 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

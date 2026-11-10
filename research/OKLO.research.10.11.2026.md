@@ -4,8 +4,8 @@ Signed file: `OKLO.research.10.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $26.84 (2026-11-10, ~15-min delayed) |
-| Market cap | $5.24B |
+| Current price | $25.17 (2026-11-10, ~15-min delayed) |
+| Market cap | $4.92B |
 | Sector / Industry | Utilities / Utilities - Independent Power Producers |
 | Main theme | Utilities - Independent Power Producers — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: high. |
@@ -15,11 +15,11 @@ Signed file: `OKLO.research.10.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-48.21%) with negative half-year (-65.65%). |
-| Fresh setup quality | Poor / broken | -76.17% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-51.16%) with negative half-year (-65.82%). |
+| Fresh setup quality | Poor / broken | -77.46% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 0.00%, revenue growth —. |
-| Value attractiveness | Reasonable | Forward P/E -25.54, EV/Sales 893.57. |
-| Risk level | High | Beta 1.31, ATR 9.2% of price, short float 21.92%. |
+| Value attractiveness | Reasonable | Forward P/E -22.06, EV/Sales 893.57. |
+| Risk level | High | Beta 1.31, ATR 9.7% of price, short float 20.76%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: high.
 
@@ -36,30 +36,30 @@ Oklo Inc. develops fission power plants to provide energy at scale to customers 
 
 | Headline | Source | Date |
 |---|---|---|
+| These Nuclear Energy Stocks Are Top Of The Class For November 2026 | Simply Wall St. | 2026-11-10 |
+| Oklo Soars 14% in a Week on a Narrower Loss and a Deal for 27 Reactors’ Worth of Forgings | TIKR | 2026-11-10 |
+| Oklo Stock and Its Manufacturing Deal Have The Bull Case Changed? | Simply Wall St. | 2026-11-10 |
 | OKLO Stock Is On Track To Reverse 6 Weeks Of Losses, But This Analyst Warns Nuclear Euphoria Is Fading | Stocktwits | 2026-11-10 |
-| Should You Buy Oklo Stock While It's Under $30? | Motley Fool | 2026-11-09 |
-| NuScale Is Still Down 61% in 2026: Did Today Mark the Bottom for SMR Stock? | 24/7 Wall St. | 2026-11-09 |
-| Oklo Is Down 86% From Its High. Will Shares Soar When Meta's Reactor Comes Online? | Motley Fool | 2026-11-09 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $26.84; 52w high $112.65 (-76.17%); 52w low $19.20 (+39.79%) |
-| Trend | -48.21% vs SMA200, -19.39% vs SMA50, +2.10% vs SMA20 |
-| Momentum | RSI(14) 46.6 (neutral) |
-| Volatility | ATR(14) 2.47 (~9.2% of price); beta 1.31 |
-| Setup perspective | -76.17% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $25.17; 52w high $111.65 (-77.46%); 52w low $19.20 (+31.09%) |
+| Trend | -51.16% vs SMA200, -23.70% vs SMA50, -3.04% vs SMA20 |
+| Momentum | RSI(14) 43.0 (neutral) |
+| Volatility | ATR(14) 2.43 (~9.7% of price); beta 1.31 |
+| Setup perspective | -77.46% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +14.1% |
-| Month | -22.7% |
-| Quarter | -42.9% |
-| Half Y | -65.6% |
-| 1Y | -74.9% |
-| YTD | -65.5% |
+| Week | +7.2% |
+| Month | -21.9% |
+| Quarter | -44.2% |
+| Half Y | -65.8% |
+| 1Y | -77.7% |
+| YTD | -67.6% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,35 +68,35 @@ Oklo Inc. develops fission power plants to provide energy at scale to customers 
 | Revenue (ttm) | $3.07M | Revenue growth — y/y |
 | Profitability | Gross 41.06%, operating -4430.25%, net 0.00% | ROA -6.57%, ROE -6.79% |
 | Balance sheet | Cash $2.50B, debt $4.41M | Current ratio 31.20, debt/equity 0.12 |
-| Valuation | P/E —, forward P/E -25.54, P/S 1,706.80, P/B 1.44 | EV/Sales 893.57, EV/EBITDA -10.46 |
-| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $57.19 (21 analysts) |
+| Valuation | P/E —, forward P/E -22.06, P/S 1,600.60, P/B 1.35 | EV/Sales 893.57, EV/EBITDA -10.46 |
+| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $55.57 (21 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 48.56% |
-| Insider ownership | 15.30% |
-| Short float | 21.92% |
+| Institutional ownership | 46.15% |
+| Insider ownership | 14.58% |
+| Short float | 20.76% |
 | Short ratio (days to cover) | 3.6 |
 
 **Top institutional holders:**
 
 | Holder | Shares | % Out | Reported |
 |---|---|---|---|
-| Mirae Asset Global ETFs Holdings Ltd. | 8,935,822 | 4.80% | 2026-06-30 |
-| Van Eck Associates Corporation | 7,912,353 | 4.25% | 2026-06-30 |
-| Blackrock Inc. | 7,311,968 | 3.93% | 2026-06-30 |
-| Vanguard Capital Management LLC | 6,539,334 | 3.52% | 2026-06-30 |
-| Vanguard Portfolio Management LLC | 6,425,515 | 3.45% | 2026-06-30 |
-| Morgan Stanley | 3,262,878 | 1.75% | 2026-06-30 |
-| Geode Capital Management, LLC | 2,612,897 | 1.40% | 2026-09-30 |
-| State Street Corporation | 2,378,058 | 1.28% | 2026-06-30 |
-| UBS Group AG | 2,095,153 | 1.13% | 2026-06-30 |
-| NORGES BANK | 1,758,267 | 0.95% | 2026-06-30 |
+| Mirae Asset Global ETFs Holdings Ltd. | 8,935,822 | 4.58% | 2026-06-30 |
+| Van Eck Associates Corporation | 7,912,353 | 4.05% | 2026-06-30 |
+| Blackrock Inc. | 7,311,968 | 3.74% | 2026-06-30 |
+| Vanguard Capital Management LLC | 6,539,334 | 3.35% | 2026-06-30 |
+| Vanguard Portfolio Management LLC | 6,425,515 | 3.29% | 2026-06-30 |
+| Morgan Stanley | 3,262,878 | 1.67% | 2026-06-30 |
+| Geode Capital Management, LLC | 2,612,897 | 1.34% | 2026-09-30 |
+| State Street Corporation | 2,378,058 | 1.22% | 2026-06-30 |
+| UBS Group AG | 2,095,153 | 1.07% | 2026-06-30 |
+| NORGES BANK | 1,758,267 | 0.90% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.31, ATR 9.2% of price, short float 21.92%. Size positions accordingly.
-- **Short interest risk:** short float 21.92% can fuel squeezes both ways around news.
+- **Volatility risk:** Beta 1.31, ATR 9.7% of price, short float 20.76%. Size positions accordingly.
+- **Short interest risk:** short float 20.76% can fuel squeezes both ways around news.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -112,21 +112,21 @@ Oklo Inc. develops fission power plants to provide energy at scale to customers 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $26.84 | EV/Sales | 893.57 |
-| Market cap | $5.24B | EV/EBITDA | -10.46 |
+| Price | $25.17 | EV/Sales | 893.57 |
+| Market cap | $4.92B | EV/EBITDA | -10.46 |
 | Beta | 1.31 | Gross margin | 41.06% |
-| RSI(14) | 46.6 | Operating margin | -4430.25% |
-| ATR(14) | 2.47 | Profit margin | 0.00% |
-| SMA20 dist | +2.10% | ROA | -6.57% |
-| SMA50 dist | -19.39% | ROE | -6.79% |
-| SMA200 dist | -48.21% | Revenue (ttm) | $3.07M |
-| 52W high | $112.65 | Revenue growth y/y | — |
-| 52W low | $19.20 | Inst. ownership | 48.56% |
-| P/E (ttm) | — | Insider ownership | 15.30% |
-| Forward P/E | -25.54 | Short float | 21.92% |
-| PEG (trailing) | — | Avg volume | 10,037,042 |
-| P/S | 1,706.80 | Employees | 215 |
-| P/B | 1.44 | Analyst rec (1=buy..5=sell) | 2.1 |
+| RSI(14) | 43.0 | Operating margin | -4430.25% |
+| ATR(14) | 2.43 | Profit margin | 0.00% |
+| SMA20 dist | -3.04% | ROA | -6.57% |
+| SMA50 dist | -23.70% | ROE | -6.79% |
+| SMA200 dist | -51.16% | Revenue (ttm) | $3.07M |
+| 52W high | $111.65 | Revenue growth y/y | — |
+| 52W low | $19.20 | Inst. ownership | 46.15% |
+| P/E (ttm) | — | Insider ownership | 14.58% |
+| Forward P/E | -22.06 | Short float | 20.76% |
+| PEG (trailing) | — | Avg volume | 10,126,756 |
+| P/S | 1,600.60 | Employees | 215 |
+| P/B | 1.35 | Analyst rec (1=buy..5=sell) | 2.1 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

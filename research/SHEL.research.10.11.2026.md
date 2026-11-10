@@ -4,8 +4,8 @@ Signed file: `SHEL.research.10.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $98.88 (2026-11-10, ~15-min delayed) |
-| Market cap | $279.99B |
+| Current price | $97.54 (2026-11-10, ~15-min delayed) |
+| Market cap | $276.12B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `SHEL.research.10.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +38.18%; price +12.01% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -9.03% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +33.85%; price +10.34% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -10.25% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 10.18%, revenue growth 36.20%. |
-| Value attractiveness | Reasonable | Forward P/E 9.06, EV/Sales 1.01. |
-| Risk level | Moderate | Beta -0.25, ATR 2.1% of price, short float 1.22%. |
+| Value attractiveness | Reasonable | Forward P/E 8.94, EV/Sales 1.01. |
+| Risk level | Moderate | Beta -0.25, ATR 2.2% of price, short float 1.22%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
@@ -36,30 +36,30 @@ Shell plc operates as an energy and petrochemical company in Europe, Asia, Ocean
 
 | Headline | Source | Date |
 |---|---|---|
+| 3 British Undervalued Stocks Trading Up To 46% Below Cash Flow Value | Simply Wall St. | 2026-11-10 |
+| FTSE 100 edges down as falling oil weigh on energy majors amid hot U.S. CPI | Investing.com | 2026-11-10 |
 | 3 British Undervalued Stocks Trading Up To 45% Below Cash Flow Value | Simply Wall St. | 2026-11-09 |
 | Is Shell (SHEL) Stock Undervalued Right Now? | Zacks | 2026-11-09 |
-| BP Completes $6B Castrol Stake Sale: A Boost to Its Balance Sheet? | Zacks | 2026-11-09 |
-| The Zacks Analyst Blog Highlights Shell, Dell and Amphenol and Versus Systems | Zacks | 2026-11-09 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $98.88; 52w high $108.69 (-9.03%); 52w low $68.43 (+44.49%) |
-| Trend | +12.01% vs SMA200, -0.37% vs SMA50, -5.32% vs SMA20 |
-| Momentum | RSI(14) 40.8 (neutral) |
-| Volatility | ATR(14) 2.10 (~2.1% of price); beta -0.25 |
-| Setup perspective | -9.03% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $97.54; 52w high $108.69 (-10.25%); 52w low $68.43 (+42.54%) |
+| Trend | +10.34% vs SMA200, -1.84% vs SMA50, -6.36% vs SMA20 |
+| Momentum | RSI(14) 37.8 (neutral) |
+| Volatility | ATR(14) 2.14 (~2.2% of price); beta -0.25 |
+| Setup perspective | -10.25% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -5.8% |
-| Month | -1.3% |
-| Quarter | +10.2% |
-| Half Y | +17.9% |
-| 1Y | +38.2% |
-| YTD | +34.7% |
+| Week | -6.4% |
+| Month | -4.0% |
+| Quarter | +9.2% |
+| Half Y | +16.3% |
+| 1Y | +33.8% |
+| YTD | +32.8% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ Shell plc operates as an energy and petrochemical company in Europe, Asia, Ocean
 | Revenue (ttm) | $321.29B | Revenue growth 36.20% y/y |
 | Profitability | Gross 26.93%, operating 18.76%, net 10.18% | ROA 7.67%, ROE 17.43% |
 | Balance sheet | Cash $36.42B, debt $76.07B | Current ratio 1.38, debt/equity 38.13 |
-| Valuation | P/E 8.58, forward P/E 9.06, P/S 0.87, P/B 1.43 | EV/Sales 1.01, EV/EBITDA 4.79 |
+| Valuation | P/E 8.47, forward P/E 8.94, P/S 0.86, P/B 1.41 | EV/Sales 1.01, EV/EBITDA 4.79 |
 | Growth expectations | Earnings growth 136.70%, EPS q/q 126.60% | Analyst mean target $110.87 (15 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 13.50% |
+| Institutional ownership | 13.47% |
 | Insider ownership | 0.01% |
 | Short float | 1.22% |
 | Short ratio (days to cover) | 3.0 |
@@ -109,21 +109,21 @@ Shell plc operates as an energy and petrochemical company in Europe, Asia, Ocean
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $98.88 | EV/Sales | 1.01 |
-| Market cap | $279.99B | EV/EBITDA | 4.79 |
+| Price | $97.54 | EV/Sales | 1.01 |
+| Market cap | $276.12B | EV/EBITDA | 4.79 |
 | Beta | -0.25 | Gross margin | 26.93% |
-| RSI(14) | 40.8 | Operating margin | 18.76% |
-| ATR(14) | 2.10 | Profit margin | 10.18% |
-| SMA20 dist | -5.32% | ROA | 7.67% |
-| SMA50 dist | -0.37% | ROE | 17.43% |
-| SMA200 dist | +12.01% | Revenue (ttm) | $321.29B |
+| RSI(14) | 37.8 | Operating margin | 18.76% |
+| ATR(14) | 2.14 | Profit margin | 10.18% |
+| SMA20 dist | -6.36% | ROA | 7.67% |
+| SMA50 dist | -1.84% | ROE | 17.43% |
+| SMA200 dist | +10.34% | Revenue (ttm) | $321.29B |
 | 52W high | $108.69 | Revenue growth y/y | 36.20% |
-| 52W low | $68.43 | Inst. ownership | 13.50% |
-| P/E (ttm) | 8.58 | Insider ownership | 0.01% |
-| Forward P/E | 9.06 | Short float | 1.22% |
-| PEG (trailing) | 1.38 | Avg volume | 6,058,826 |
-| P/S | 0.87 | Employees | 84,000 |
-| P/B | 1.43 | Analyst rec (1=buy..5=sell) | 2.2 |
+| 52W low | $68.43 | Inst. ownership | 13.47% |
+| P/E (ttm) | 8.47 | Insider ownership | 0.01% |
+| Forward P/E | 8.94 | Short float | 1.22% |
+| PEG (trailing) | 1.37 | Avg volume | 6,078,326 |
+| P/S | 0.86 | Employees | 84,000 |
+| P/B | 1.41 | Analyst rec (1=buy..5=sell) | 2.2 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

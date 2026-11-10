@@ -4,8 +4,8 @@ Signed file: `XOM.research.10.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $164.73 (2026-11-10, ~15-min delayed) |
-| Market cap | $671.97B |
+| Current price | $164.86 (2026-11-10, ~15-min delayed) |
+| Market cap | $672.50B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,10 +15,10 @@ Signed file: `XOM.research.10.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +48.04%; price +6.54% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -12.03% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +44.72%; price +6.51% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -11.96% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 10.46%, revenue growth 32.60%. |
-| Value attractiveness | Reasonable | Forward P/E 13.24, EV/Sales 1.80. |
+| Value attractiveness | Reasonable | Forward P/E 13.25, EV/Sales 1.80. |
 | Risk level | Moderate | Beta 0.14, ATR 2.8% of price, short float 1.16%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -36,30 +36,30 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 
 | Headline | Source | Date |
 |---|---|---|
-| Exxon Takes First Step Toward Investing in Venezuela | The Wall Street Journal | 2026-11-10 |
-| Exxon and Chevron Are Near Record Highs. Here's What History Says Happens Next. | Motley Fool | 2026-11-09 |
-| Exxon Mobil Stocks Move Lower 0.31% as Crude Slides Toward $87 | GuruFocus.com | 2026-11-09 |
-| $400,000 in Dividend Stocks: How a Roth IRA Could Save You $3,780 a Year | 24/7 Wall St. | 2026-11-09 |
+| Treasuries Now Offer 2.66% Above Inflation. Are Dividend Stocks in Trouble? | 24/7 Wall St. | 2026-11-10 |
+| Oil Prices Just Fell to Their Lowest Since August as Trump Says the Iran War Is ‘Effectively Over’ | 24/7 Wall St. | 2026-11-10 |
+| Is Chevron Stock A Real Bargain? | Trefis | 2026-11-10 |
+| Enbridge vs. ExxonMobil: Which Energy Stock Is a Better Buy for 2027? | Motley Fool | 2026-11-10 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $164.73; 52w high $187.25 (-12.03%); 52w low $112.26 (+46.74%) |
-| Trend | +6.54% vs SMA200, -2.52% vs SMA50, -6.93% vs SMA20 |
-| Momentum | RSI(14) 38.2 (neutral) |
-| Volatility | ATR(14) 4.62 (~2.8% of price); beta 0.14 |
-| Setup perspective | -12.03% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $164.86; 52w high $187.25 (-11.96%); 52w low $112.26 (+46.86%) |
+| Trend | +6.51% vs SMA200, -2.49% vs SMA50, -6.61% vs SMA20 |
+| Momentum | RSI(14) 38.4 (neutral) |
+| Volatility | ATR(14) 4.63 (~2.8% of price); beta 0.14 |
+| Setup perspective | -11.96% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -8.3% |
-| Month | -2.5% |
-| Quarter | +3.8% |
-| Half Y | +11.5% |
-| 1Y | +48.0% |
-| YTD | +37.0% |
+| Week | -7.1% |
+| Month | -4.2% |
+| Quarter | +3.9% |
+| Half Y | +10.9% |
+| 1Y | +44.7% |
+| YTD | +37.1% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 | Revenue (ttm) | $388.23B | Revenue growth 32.60% y/y |
 | Profitability | Gross 29.81%, operating 16.98%, net 10.46% | ROA 6.75%, ROE 15.53% |
 | Balance sheet | Cash $12.15B, debt $34.25B | Current ratio 1.19, debt/equity 12.57 |
-| Valuation | P/E 16.95, forward P/E 13.24, P/S 1.73, P/B 2.53 | EV/Sales 1.80, EV/EBITDA 8.99 |
+| Valuation | P/E 16.96, forward P/E 13.25, P/S 1.73, P/B 2.53 | EV/Sales 1.80, EV/EBITDA 8.99 |
 | Growth expectations | Earnings growth 111.40%, EPS q/q 104.20% | Analyst mean target $185.05 (22 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 68.55% |
+| Institutional ownership | 68.51% |
 | Insider ownership | 0.08% |
 | Short float | 1.16% |
 | Short ratio (days to cover) | 3.3 |
@@ -109,19 +109,19 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $164.73 | EV/Sales | 1.80 |
-| Market cap | $671.97B | EV/EBITDA | 8.99 |
+| Price | $164.86 | EV/Sales | 1.80 |
+| Market cap | $672.50B | EV/EBITDA | 8.99 |
 | Beta | 0.14 | Gross margin | 29.81% |
-| RSI(14) | 38.2 | Operating margin | 16.98% |
-| ATR(14) | 4.62 | Profit margin | 10.46% |
-| SMA20 dist | -6.93% | ROA | 6.75% |
-| SMA50 dist | -2.52% | ROE | 15.53% |
-| SMA200 dist | +6.54% | Revenue (ttm) | $388.23B |
+| RSI(14) | 38.4 | Operating margin | 16.98% |
+| ATR(14) | 4.63 | Profit margin | 10.46% |
+| SMA20 dist | -6.61% | ROA | 6.75% |
+| SMA50 dist | -2.49% | ROE | 15.53% |
+| SMA200 dist | +6.51% | Revenue (ttm) | $388.23B |
 | 52W high | $187.25 | Revenue growth y/y | 32.60% |
-| 52W low | $112.26 | Inst. ownership | 68.55% |
-| P/E (ttm) | 16.95 | Insider ownership | 0.08% |
-| Forward P/E | 13.24 | Short float | 1.16% |
-| PEG (trailing) | 1.31 | Avg volume | 13,684,900 |
+| 52W low | $112.26 | Inst. ownership | 68.51% |
+| P/E (ttm) | 16.96 | Insider ownership | 0.08% |
+| Forward P/E | 13.25 | Short float | 1.16% |
+| PEG (trailing) | 1.30 | Avg volume | 13,644,592 |
 | P/S | 1.73 | Employees | 57,900 |
 | P/B | 2.53 | Analyst rec (1=buy..5=sell) | 2.4 |
 

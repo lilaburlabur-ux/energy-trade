@@ -4,8 +4,8 @@ Signed file: `BKR.research.10.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $48.45 (2026-11-10, ~15-min delayed) |
-| Market cap | $48.11B |
+| Current price | $47.85 (2026-11-10, ~15-min delayed) |
+| Market cap | $47.52B |
 | Sector / Industry | Energy / Oil & Gas Equipment & Services |
 | Main theme | Oil & Gas Equipment & Services — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
@@ -15,10 +15,10 @@ Signed file: `BKR.research.10.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-19.13%) with negative half-year (-24.72%). |
-| Fresh setup quality | Poor / broken | -29.97% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-20.08%) with negative half-year (-26.39%). |
+| Fresh setup quality | Poor / broken | -30.84% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 10.08%, revenue growth 14.50%. |
-| Value attractiveness | Reasonable | Forward P/E 17.10, EV/Sales 2.14. |
+| Value attractiveness | Reasonable | Forward P/E 16.95, EV/Sales 2.14. |
 | Risk level | Elevated | Beta 1.06, ATR 4.4% of price, short float 2.87%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
@@ -36,30 +36,30 @@ Baker Hughes Company provides a portfolio of technologies and services to energy
 
 | Headline | Source | Date |
 |---|---|---|
-| Core Natural Resources, Bristow Group, CVR Energy, Baker Hughes, and Oceaneering shares plummet, what you need to know | StockStory | 2026-11-08 |
-| Basin rig count up one as prices drop | Odessa American, Texas | 2026-11-07 |
-| U.S. Oil, Gas Drillers See Minor Uptick as Oil Prices Crash | Oilprice.com | 2026-11-06 |
-| Baker Hughes Sharpens Portfolio Focus With $1.45B Waygate Sale | Zacks | 2026-11-06 |
+| Top 5 Activist Target Stocks for Spin-offs or Breakups | Insider Monkey | 2026-11-10 |
+| Venture Global CEO Eyes New Growth Opportunity In Off-Grid Power For AI Data Centers – Firm Raises FY2026 Guidance After Record Q3 Earnings | Stocktwits | 2026-11-10 |
+| 2 Stocks Sidestep the Data Center Backlash | 24/7 Wall St. | 2026-11-10 |
+| LNG Giant Venture Global Looks to Become a Vertically Integrated AI Utility | Barrons.com | 2026-11-10 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $48.45; 52w high $69.18 (-29.97%); 52w low $43.99 (+10.13%) |
-| Trend | -19.13% vs SMA200, -14.46% vs SMA50, -9.99% vs SMA20 |
-| Momentum | RSI(14) 35.1 (neutral) |
+| Price vs 52-week range | Close $47.85; 52w high $69.18 (-30.84%); 52w low $43.99 (+8.77%) |
+| Trend | -20.08% vs SMA200, -15.05% vs SMA50, -10.38% vs SMA20 |
+| Momentum | RSI(14) 34.0 (neutral) |
 | Volatility | ATR(14) 2.12 (~4.4% of price); beta 1.06 |
-| Setup perspective | -29.97% from 52w high — base needs to rebuild. |
+| Setup perspective | -30.84% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -8.7% |
-| Month | -14.6% |
-| Quarter | -25.2% |
-| Half Y | -24.7% |
-| 1Y | +3.6% |
-| YTD | +3.9% |
+| Week | -9.4% |
+| Month | -14.8% |
+| Quarter | -25.6% |
+| Half Y | -26.4% |
+| 1Y | +1.0% |
+| YTD | +2.6% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ Baker Hughes Company provides a portfolio of technologies and services to energy
 | Revenue (ttm) | $28.74B | Revenue growth 14.50% y/y |
 | Profitability | Gross 23.70%, operating 11.29%, net 10.08% | ROA 4.46%, ROE 15.06% |
 | Balance sheet | Cash $5.38B, debt $18.26B | Current ratio 1.24, debt/equity 88.83 |
-| Valuation | P/E 16.65, forward P/E 17.10, P/S 1.67, P/B 2.39 | EV/Sales 2.14, EV/EBITDA 12.24 |
+| Valuation | P/E 16.44, forward P/E 16.95, P/S 1.65, P/B 2.36 | EV/Sales 2.14, EV/EBITDA 12.24 |
 | Growth expectations | Earnings growth -32.80%, EPS q/q -32.50% | Analyst mean target $70.12 (24 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 99.95% |
+| Institutional ownership | 100.08% |
 | Insider ownership | 0.15% |
 | Short float | 2.87% |
 | Short ratio (days to cover) | 3.4 |
@@ -111,21 +111,21 @@ Baker Hughes Company provides a portfolio of technologies and services to energy
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $48.45 | EV/Sales | 2.14 |
-| Market cap | $48.11B | EV/EBITDA | 12.24 |
+| Price | $47.85 | EV/Sales | 2.14 |
+| Market cap | $47.52B | EV/EBITDA | 12.24 |
 | Beta | 1.06 | Gross margin | 23.70% |
-| RSI(14) | 35.1 | Operating margin | 11.29% |
+| RSI(14) | 34.0 | Operating margin | 11.29% |
 | ATR(14) | 2.12 | Profit margin | 10.08% |
-| SMA20 dist | -9.99% | ROA | 4.46% |
-| SMA50 dist | -14.46% | ROE | 15.06% |
-| SMA200 dist | -19.13% | Revenue (ttm) | $28.74B |
+| SMA20 dist | -10.38% | ROA | 4.46% |
+| SMA50 dist | -15.05% | ROE | 15.06% |
+| SMA200 dist | -20.08% | Revenue (ttm) | $28.74B |
 | 52W high | $69.18 | Revenue growth y/y | 14.50% |
-| 52W low | $43.99 | Inst. ownership | 99.95% |
-| P/E (ttm) | 16.65 | Insider ownership | 0.15% |
-| Forward P/E | 17.10 | Short float | 2.87% |
-| PEG (trailing) | 1.36 | Avg volume | 7,725,935 |
-| P/S | 1.67 | Employees | 65,600 |
-| P/B | 2.39 | Analyst rec (1=buy..5=sell) | 1.6 |
+| 52W low | $43.99 | Inst. ownership | 100.08% |
+| P/E (ttm) | 16.44 | Insider ownership | 0.15% |
+| Forward P/E | 16.95 | Short float | 2.87% |
+| PEG (trailing) | 1.38 | Avg volume | 7,822,917 |
+| P/S | 1.65 | Employees | 65,600 |
+| P/B | 2.36 | Analyst rec (1=buy..5=sell) | 1.6 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

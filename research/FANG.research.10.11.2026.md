@@ -4,8 +4,8 @@ Signed file: `FANG.research.10.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $178.17 (2026-11-10, ~15-min delayed) |
-| Market cap | $49.74B |
+| Current price | $179.77 (2026-11-10, ~15-min delayed) |
+| Market cap | $50.19B |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
@@ -15,11 +15,11 @@ Signed file: `FANG.research.10.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-5.95%) with negative half-year (-8.16%). |
-| Fresh setup quality | Moderate / wait | -15.99% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-5.17%) with negative half-year (-8.27%). |
+| Fresh setup quality | Moderate / wait | -15.23% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 11.62%, revenue growth 32.00%. |
-| Value attractiveness | Reasonable | Forward P/E 8.17, EV/Sales 3.88. |
-| Risk level | Elevated | Beta 0.47, ATR 3.6% of price, short float 3.56%. |
+| Value attractiveness | Reasonable | Forward P/E 8.24, EV/Sales 3.88. |
+| Risk level | Elevated | Beta 0.47, ATR 3.7% of price, short float 3.56%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
 
@@ -36,30 +36,30 @@ Diamondback Energy, Inc., an independent oil and natural gas company, acquires, 
 
 | Headline | Source | Date |
 |---|---|---|
-| ConocoPhillips Trades at a Premium: Is It the Right Time to Buy? | Zacks | 2026-11-09 |
-| 5 Oil Stocks Could Turn $500,000 Into $14,000 a Year in Dividend Income | 24/7 Wall St. | 2026-11-09 |
-| Diamondback Energy Sees New Revenue Potential in AI Power Boom | Zacks | 2026-11-09 |
-| The Oil Slump Has Gone Too Far. Where Prices Could Go Next. | Barrons.com | 2026-11-09 |
+| Buy These 3 Stocks with Broker Rating Upgrades for Big Gains | Zacks | 2026-11-10 |
+| Sector Update: Energy Stocks Fall Pre-Bell Tuesday | MT Newswires | 2026-11-10 |
+| Can ConocoPhillips Sustain Future Production Growth With Lower CapEx? | Zacks | 2026-11-10 |
+| Diamondback Just Hiked Its Dividend by Over 7%. If You Buy the Stock Here, Keep a Close Eye on Oil Prices. | Barchart | 2026-11-10 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $178.17; 52w high $212.08 (-15.99%); 52w low $138.09 (+29.02%) |
-| Trend | -5.95% vs SMA200, -8.78% vs SMA50, -9.85% vs SMA20 |
-| Momentum | RSI(14) 33.2 (neutral) |
-| Volatility | ATR(14) 6.46 (~3.6% of price); beta 0.47 |
-| Setup perspective | -15.99% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $179.77; 52w high $212.08 (-15.23%); 52w low $138.09 (+30.18%) |
+| Trend | -5.17% vs SMA200, -7.77% vs SMA50, -8.61% vs SMA20 |
+| Momentum | RSI(14) 35.4 (neutral) |
+| Volatility | ATR(14) 6.58 (~3.7% of price); beta 0.47 |
+| Setup perspective | -15.23% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -10.8% |
-| Month | -7.3% |
-| Quarter | -11.2% |
-| Half Y | -8.2% |
-| 1Y | +29.6% |
-| YTD | +19.0% |
+| Week | -6.5% |
+| Month | -7.9% |
+| Quarter | -10.0% |
+| Half Y | -8.3% |
+| 1Y | +28.2% |
+| YTD | +20.0% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ Diamondback Energy, Inc., an independent oil and natural gas company, acquires, 
 | Revenue (ttm) | $17.66B | Revenue growth 32.00% y/y |
 | Profitability | Gross 73.62%, operating 44.95%, net 11.62% | ROA 2.07%, ROE 4.86% |
 | Balance sheet | Cash $558.00M, debt $13.23B | Current ratio 0.55, debt/equity 29.31 |
-| Valuation | P/E 23.98, forward P/E 8.17, P/S 2.82, P/B 1.28 | EV/Sales 3.88, EV/EBITDA 5.37 |
+| Valuation | P/E 24.20, forward P/E 8.24, P/S 2.84, P/B 1.29 | EV/Sales 3.88, EV/EBITDA 5.37 |
 | Growth expectations | Earnings growth 62.10%, EPS q/q 57.50% | Analyst mean target $238.73 (30 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 73.92% |
+| Institutional ownership | 73.68% |
 | Insider ownership | 23.96% |
 | Short float | 3.56% |
 | Short ratio (days to cover) | 2.1 |
@@ -95,7 +95,7 @@ Diamondback Energy, Inc., an independent oil and natural gas company, acquires, 
 | FMR, LLC | 4,594,399 | 1.65% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 0.47, ATR 3.6% of price, short float 3.56%. Size positions accordingly.
+- **Volatility risk:** Beta 0.47, ATR 3.7% of price, short float 3.56%. Size positions accordingly.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -110,21 +110,21 @@ Diamondback Energy, Inc., an independent oil and natural gas company, acquires, 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $178.17 | EV/Sales | 3.88 |
-| Market cap | $49.74B | EV/EBITDA | 5.37 |
+| Price | $179.77 | EV/Sales | 3.88 |
+| Market cap | $50.19B | EV/EBITDA | 5.37 |
 | Beta | 0.47 | Gross margin | 73.62% |
-| RSI(14) | 33.2 | Operating margin | 44.95% |
-| ATR(14) | 6.46 | Profit margin | 11.62% |
-| SMA20 dist | -9.85% | ROA | 2.07% |
-| SMA50 dist | -8.78% | ROE | 4.86% |
-| SMA200 dist | -5.95% | Revenue (ttm) | $17.66B |
+| RSI(14) | 35.4 | Operating margin | 44.95% |
+| ATR(14) | 6.58 | Profit margin | 11.62% |
+| SMA20 dist | -8.61% | ROA | 2.07% |
+| SMA50 dist | -7.77% | ROE | 4.86% |
+| SMA200 dist | -5.17% | Revenue (ttm) | $17.66B |
 | 52W high | $212.08 | Revenue growth y/y | 32.00% |
-| 52W low | $138.09 | Inst. ownership | 73.92% |
-| P/E (ttm) | 23.98 | Insider ownership | 23.96% |
-| Forward P/E | 8.17 | Short float | 3.56% |
-| PEG (trailing) | 1.05 | Avg volume | 2,405,737 |
-| P/S | 2.82 | Employees | 1,762 |
-| P/B | 1.28 | Analyst rec (1=buy..5=sell) | 1.5 |
+| 52W low | $138.09 | Inst. ownership | 73.68% |
+| P/E (ttm) | 24.20 | Insider ownership | 23.96% |
+| Forward P/E | 8.24 | Short float | 3.56% |
+| PEG (trailing) | 1.04 | Avg volume | 2,420,584 |
+| P/S | 2.84 | Employees | 1,762 |
+| P/B | 1.29 | Analyst rec (1=buy..5=sell) | 1.5 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

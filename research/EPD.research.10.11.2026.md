@@ -4,8 +4,8 @@ Signed file: `EPD.research.10.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $36.70 (2026-11-10, ~15-min delayed) |
-| Market cap | $79.15B |
+| Current price | $37.15 (2026-11-10, ~15-min delayed) |
+| Market cap | $80.11B |
 | Sector / Industry | Energy / Oil & Gas Midstream |
 | Main theme | Oil & Gas Midstream — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,10 +15,10 @@ Signed file: `EPD.research.10.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +25.80%; price +0.87% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -5.40% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +26.15%; price +2.01% vs SMA200. |
+| Fresh setup quality | Watch | -4.25% from 52w high and near SMA20 — check for a tight base. |
 | Fundamental quality | Mixed | Profit margin 10.24%, revenue growth 49.30%. |
-| Value attractiveness | Reasonable | Forward P/E 11.62, EV/Sales 1.77. |
+| Value attractiveness | Reasonable | Forward P/E 11.76, EV/Sales 1.77. |
 | Risk level | Moderate | Beta 0.46, ATR 2.0% of price, short float 2.51%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -36,30 +36,30 @@ Enterprise Products Partners L.P. provides midstream energy services to producer
 
 | Headline | Source | Date |
 |---|---|---|
+| 4 Pipeline Stocks Ranked By Which One I'd Buy First | Motley Fool | 2026-11-10 |
+| Enterprise Raised Its Distribution by 2.8%. MPLX Raised Its by 12.5%. Here's What's Behind the Gap. | Motley Fool | 2026-11-10 |
 | 4 High-Yield Dividend Stocks You Can Buy Today and Hold Forever | 24/7 Wall St. | 2026-11-09 |
 | The Best Energy Stock to Buy With Oil Near $105 Isn't an Oil Producer | Motley Fool | 2026-11-08 |
-| Everyone Loves This 6.5% Pipeline Yield. Here's the Risk I Think They're Ignoring. | Motley Fool | 2026-11-07 |
-| Better Dividend Stock: AbbVie vs. Enterprise Products | TIKR | 2026-11-06 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $36.70; 52w high $38.80 (-5.40%); 52w low $29.45 (+24.63%) |
-| Trend | +0.87% vs SMA200, -0.77% vs SMA50, +0.18% vs SMA20 |
-| Momentum | RSI(14) 49.0 (neutral) |
+| Price vs 52-week range | Close $37.15; 52w high $38.80 (-4.25%); 52w low $29.46 (+26.07%) |
+| Trend | +2.01% vs SMA200, +0.49% vs SMA50, +1.17% vs SMA20 |
+| Momentum | RSI(14) 53.0 (neutral) |
 | Volatility | ATR(14) 0.74 (~2.0% of price); beta 0.46 |
-| Setup perspective | -5.40% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -4.25% from 52w high and near SMA20 — check for a tight base. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -1.8% |
-| Month | +3.2% |
-| Quarter | -1.7% |
-| Half Y | -0.3% |
-| 1Y | +25.8% |
-| YTD | +21.1% |
+| Week | -0.9% |
+| Month | +4.9% |
+| Quarter | -0.6% |
+| Half Y | +0.2% |
+| 1Y | +26.1% |
+| YTD | +22.6% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ Enterprise Products Partners L.P. provides midstream energy services to producer
 | Revenue (ttm) | $64.40B | Revenue growth 49.30% y/y |
 | Profitability | Gross 12.56%, operating 10.64%, net 10.24% | ROA —, ROE — |
 | Balance sheet | Cash $246.00M, debt $34.21B | Current ratio —, debt/equity 109.97 |
-| Valuation | P/E 12.27, forward P/E 11.62, P/S 1.23, P/B 2.62 | EV/Sales 1.77, EV/EBITDA 10.67 |
+| Valuation | P/E 12.30, forward P/E 11.76, P/S 1.24, P/B 2.65 | EV/Sales 1.77, EV/EBITDA 10.67 |
 | Growth expectations | Earnings growth 21.60%, EPS q/q 21.40% | Analyst mean target $41.76 (21 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 25.80% |
+| Institutional ownership | 25.78% |
 | Insider ownership | 33.09% |
 | Short float | 2.51% |
 | Short ratio (days to cover) | 5.2 |
@@ -110,21 +110,21 @@ Enterprise Products Partners L.P. provides midstream energy services to producer
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $36.70 | EV/Sales | 1.77 |
-| Market cap | $79.15B | EV/EBITDA | 10.67 |
+| Price | $37.15 | EV/Sales | 1.77 |
+| Market cap | $80.11B | EV/EBITDA | 10.67 |
 | Beta | 0.46 | Gross margin | 12.56% |
-| RSI(14) | 49.0 | Operating margin | 10.64% |
+| RSI(14) | 53.0 | Operating margin | 10.64% |
 | ATR(14) | 0.74 | Profit margin | 10.24% |
-| SMA20 dist | +0.18% | ROA | — |
-| SMA50 dist | -0.77% | ROE | — |
-| SMA200 dist | +0.87% | Revenue (ttm) | $64.40B |
+| SMA20 dist | +1.17% | ROA | — |
+| SMA50 dist | +0.49% | ROE | — |
+| SMA200 dist | +2.01% | Revenue (ttm) | $64.40B |
 | 52W high | $38.80 | Revenue growth y/y | 49.30% |
-| 52W low | $29.45 | Inst. ownership | 25.80% |
-| P/E (ttm) | 12.27 | Insider ownership | 33.09% |
-| Forward P/E | 11.62 | Short float | 2.51% |
-| PEG (trailing) | 1.22 | Avg volume | 3,388,062 |
-| P/S | 1.23 | Employees | 0 |
-| P/B | 2.62 | Analyst rec (1=buy..5=sell) | 2.3 |
+| 52W low | $29.46 | Inst. ownership | 25.78% |
+| P/E (ttm) | 12.30 | Insider ownership | 33.09% |
+| Forward P/E | 11.76 | Short float | 2.51% |
+| PEG (trailing) | 1.21 | Avg volume | 3,398,956 |
+| P/S | 1.24 | Employees | 0 |
+| P/B | 2.65 | Analyst rec (1=buy..5=sell) | 2.3 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

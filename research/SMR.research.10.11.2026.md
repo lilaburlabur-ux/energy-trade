@@ -4,8 +4,8 @@ Signed file: `SMR.research.10.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $5.44 (2026-11-10, ~15-min delayed) |
-| Market cap | $2.23B |
+| Current price | $5.22 (2026-11-10, ~15-min delayed) |
+| Market cap | $2.15B |
 | Sector / Industry | Industrials / Specialty Industrial Machinery |
 | Main theme | Specialty Industrial Machinery — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: high. |
@@ -15,11 +15,11 @@ Signed file: `SMR.research.10.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-47.75%) with negative half-year (-59.07%). |
-| Fresh setup quality | Poor / broken | -82.07% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-49.49%) with negative half-year (-56.46%). |
+| Fresh setup quality | Poor / broken | -81.62% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 0.00%, revenue growth -96.60%. |
-| Value attractiveness | Reasonable | Forward P/E -8.10, EV/Sales 460.63. |
-| Risk level | High | Beta 2.43, ATR 9.6% of price, short float 24.84%. |
+| Value attractiveness | Reasonable | Forward P/E -7.79, EV/Sales 460.63. |
+| Risk level | High | Beta 2.43, ATR 9.8% of price, short float 24.84%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: high.
 
@@ -36,30 +36,30 @@ NuScale Power Corporation provides small modular reactor technology solutions. I
 
 | Headline | Source | Date |
 |---|---|---|
+| Oklo Soars 14% in a Week on a Narrower Loss and a Deal for 27 Reactors’ Worth of Forgings | TIKR | 2026-11-10 |
 | NuScale Is Still Down 61% in 2026: Did Today Mark the Bottom for SMR Stock? | 24/7 Wall St. | 2026-11-09 |
 | NuScale Power (SMR) Recovery Now Rests On Unfinished Power Purchase Talks | Simply Wall St. | 2026-11-09 |
 | What NuScale Power (SMR) Said on Its Q3 Earnings Call | MarketBeat | 2026-11-08 |
-| NuScale Has Lost 84% in a Year. Cantor Fitzgerald Still Sees $15 | TIKR | 2026-11-08 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $5.44; 52w high $30.34 (-82.07%); 52w low $4.37 (+24.49%) |
-| Trend | -47.75% vs SMA200, -26.20% vs SMA50, -1.76% vs SMA20 |
-| Momentum | RSI(14) 42.3 (neutral) |
-| Volatility | ATR(14) 0.52 (~9.6% of price); beta 2.43 |
-| Setup perspective | -82.07% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $5.22; 52w high $28.43 (-81.62%); 52w low $4.37 (+19.57%) |
+| Trend | -49.49% vs SMA200, -28.33% vs SMA50, -4.55% vs SMA20 |
+| Momentum | RSI(14) 40.2 (neutral) |
+| Volatility | ATR(14) 0.51 (~9.8% of price); beta 2.43 |
+| Setup perspective | -81.62% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +1.7% |
-| Month | -24.4% |
-| Quarter | -45.0% |
-| Half Y | -59.1% |
-| 1Y | -83.2% |
-| YTD | -66.6% |
+| Week | -2.7% |
+| Month | -22.0% |
+| Quarter | -45.5% |
+| Half Y | -56.5% |
+| 1Y | -82.8% |
+| YTD | -68.0% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ NuScale Power Corporation provides small modular reactor technology solutions. I
 | Revenue (ttm) | $2.73M | Revenue growth -96.60% y/y |
 | Profitability | Gross -2.16%, operating -23067.62%, net 0.00% | ROA 10.69%, ROE -17.12% |
 | Balance sheet | Cash $933.39M, debt $6.63M | Current ratio 24.40, debt/equity 0.34 |
-| Valuation | P/E —, forward P/E -8.10, P/S 818.37, P/B 1.10 | EV/Sales 460.63, EV/EBITDA 5.04 |
+| Valuation | P/E —, forward P/E -7.79, P/S 786.03, P/B 1.06 | EV/Sales 460.63, EV/EBITDA 5.04 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $8.59 (16 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 61.25% |
+| Institutional ownership | 61.19% |
 | Insider ownership | 1.70% |
 | Short float | 24.84% |
 | Short ratio (days to cover) | 2.5 |
@@ -95,7 +95,7 @@ NuScale Power Corporation provides small modular reactor technology solutions. I
 | State Street Corporation | 6,662,750 | 1.62% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 2.43, ATR 9.6% of price, short float 24.84%. Size positions accordingly.
+- **Volatility risk:** Beta 2.43, ATR 9.8% of price, short float 24.84%. Size positions accordingly.
 - **Short interest risk:** short float 24.84% can fuel squeezes both ways around news.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
@@ -112,21 +112,21 @@ NuScale Power Corporation provides small modular reactor technology solutions. I
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $5.44 | EV/Sales | 460.63 |
-| Market cap | $2.23B | EV/EBITDA | 5.04 |
+| Price | $5.22 | EV/Sales | 460.63 |
+| Market cap | $2.15B | EV/EBITDA | 5.04 |
 | Beta | 2.43 | Gross margin | -2.16% |
-| RSI(14) | 42.3 | Operating margin | -23067.62% |
-| ATR(14) | 0.52 | Profit margin | 0.00% |
-| SMA20 dist | -1.76% | ROA | 10.69% |
-| SMA50 dist | -26.20% | ROE | -17.12% |
-| SMA200 dist | -47.75% | Revenue (ttm) | $2.73M |
-| 52W high | $30.34 | Revenue growth y/y | -96.60% |
-| 52W low | $4.37 | Inst. ownership | 61.25% |
+| RSI(14) | 40.2 | Operating margin | -23067.62% |
+| ATR(14) | 0.51 | Profit margin | 0.00% |
+| SMA20 dist | -4.55% | ROA | 10.69% |
+| SMA50 dist | -28.33% | ROE | -17.12% |
+| SMA200 dist | -49.49% | Revenue (ttm) | $2.73M |
+| 52W high | $28.43 | Revenue growth y/y | -96.60% |
+| 52W low | $4.37 | Inst. ownership | 61.19% |
 | P/E (ttm) | — | Insider ownership | 1.70% |
-| Forward P/E | -8.10 | Short float | 24.84% |
-| PEG (trailing) | — | Avg volume | 33,962,559 |
-| P/S | 818.37 | Employees | 428 |
-| P/B | 1.10 | Analyst rec (1=buy..5=sell) | 2.8 |
+| Forward P/E | -7.79 | Short float | 24.84% |
+| PEG (trailing) | — | Avg volume | 34,162,828 |
+| P/S | 786.03 | Employees | 428 |
+| P/B | 1.06 | Analyst rec (1=buy..5=sell) | 2.8 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

@@ -4,8 +4,8 @@ Signed file: `MPLX.research.10.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $56.80 (2026-11-10, ~15-min delayed) |
-| Market cap | $57.54B |
+| Current price | $56.70 (2026-11-10, ~15-min delayed) |
+| Market cap | $57.44B |
 | Sector / Industry | Energy / Oil & Gas Midstream |
 | Main theme | Oil & Gas Midstream — see catalysts below |
 | Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate. |
@@ -15,10 +15,10 @@ Signed file: `MPLX.research.10.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +21.76%; price +3.34% vs SMA200. |
-| Fresh setup quality | Watch | -3.63% from 52w high and near SMA20 — check for a tight base. |
+| Technical momentum | Moderate | 1Y +19.61%; price +3.10% vs SMA200. |
+| Fresh setup quality | Watch | -3.80% from 52w high and near SMA20 — check for a tight base. |
 | Fundamental quality | Strong | Profit margin 35.03%, revenue growth 12.70%. |
-| Value attractiveness | Reasonable | Forward P/E 11.84, EV/Sales 6.68. |
+| Value attractiveness | Reasonable | Forward P/E 11.81, EV/Sales 6.73. |
 | Risk level | Moderate | Beta 0.45, ATR 2.1% of price, short float 1.77%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate.
@@ -36,45 +36,45 @@ MPLX LP owns and operates midstream energy infrastructure and logistics assets p
 
 | Headline | Source | Date |
 |---|---|---|
+| $200,000 in Dividend Stocks: How a Roth IRA Could Save You $2,166 a Year | 24/7 Wall St. | 2026-11-10 |
+| How Much Do You Really Need Invested to Replace a $175,000 Salary With Dividends? | 24/7 Wall St. | 2026-11-10 |
+| Enterprise Raised Its Distribution by 2.8%. MPLX Raised Its by 12.5%. Here's What's Behind the Gap. | Motley Fool | 2026-11-10 |
 | 5 Defensive Dividend Stocks Yielding Up to 8.7% for Retirement Income | 24/7 Wall St. | 2026-11-09 |
-| MPLX (MPLX) Stock Looks Undervalued Even After A Strong Run | Simply Wall St. | 2026-11-04 |
-| The 10-Year Treasury Yields 4.91%. These 4 Dividend Stocks Pay More | 24/7 Wall St. | 2026-11-04 |
-| MPC Q3 Earnings Beat Estimates on Strong Refining Margins | Zacks | 2026-11-04 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $56.80; 52w high $58.94 (-3.63%); 52w low $47.40 (+19.82%) |
-| Trend | +3.34% vs SMA200, -0.25% vs SMA50, -0.11% vs SMA20 |
-| Momentum | RSI(14) 50.4 (neutral) |
-| Volatility | ATR(14) 1.22 (~2.1% of price); beta 0.45 |
-| Setup perspective | -3.63% from 52w high and near SMA20 — check for a tight base. |
+| Price vs 52-week range | Close $56.70; 52w high $58.94 (-3.80%); 52w low $47.88 (+18.43%) |
+| Trend | +3.10% vs SMA200, -0.38% vs SMA50, -0.37% vs SMA20 |
+| Momentum | RSI(14) 49.8 (neutral) |
+| Volatility | ATR(14) 1.18 (~2.1% of price); beta 0.45 |
+| Setup perspective | -3.80% from 52w high and near SMA20 — check for a tight base. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -1.5% |
-| Month | +3.1% |
-| Quarter | -2.1% |
-| Half Y | +9.4% |
-| 1Y | +21.8% |
-| YTD | +14.0% |
+| Week | +0.8% |
+| Month | +2.0% |
+| Quarter | -3.3% |
+| Half Y | +8.5% |
+| 1Y | +19.6% |
+| YTD | +13.8% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
 | Next earnings | 2027-02-02 | Next scheduled report (Yahoo estimate) |
 | Revenue (ttm) | $12.41B | Revenue growth 12.70% y/y |
-| Profitability | Gross 54.82%, operating 35.93%, net 35.03% | ROA —, ROE — |
-| Balance sheet | Cash $1.03B, debt $26.13B | Current ratio —, debt/equity 183.36 |
-| Valuation | P/E 13.06, forward P/E 11.84, P/S 4.64, P/B 4.11 | EV/Sales 6.68, EV/EBITDA 13.37 |
-| Growth expectations | Earnings growth -24.20%, EPS q/q -24.70% | Analyst mean target $62.77 (13 analysts) |
+| Profitability | Gross 54.82%, operating 35.93%, net 35.03% | ROA 6.79%, ROE 30.44% |
+| Balance sheet | Cash $1.30B, debt $27.09B | Current ratio 1.56, debt/equity 189.56 |
+| Valuation | P/E 13.25, forward P/E 11.81, P/S 4.63, P/B 4.08 | EV/Sales 6.73, EV/EBITDA 13.46 |
+| Growth expectations | Earnings growth -24.30%, EPS q/q -24.70% | Analyst mean target $62.77 (13 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 19.91% |
+| Institutional ownership | 19.89% |
 | Insider ownership | 64.08% |
 | Short float | 1.77% |
 | Short ratio (days to cover) | 4.6 |
@@ -110,25 +110,26 @@ MPLX LP owns and operates midstream energy infrastructure and logistics assets p
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $56.80 | EV/Sales | 6.68 |
-| Market cap | $57.54B | EV/EBITDA | 13.37 |
+| Price | $56.70 | EV/Sales | 6.73 |
+| Market cap | $57.44B | EV/EBITDA | 13.46 |
 | Beta | 0.45 | Gross margin | 54.82% |
-| RSI(14) | 50.4 | Operating margin | 35.93% |
-| ATR(14) | 1.22 | Profit margin | 35.03% |
-| SMA20 dist | -0.11% | ROA | — |
-| SMA50 dist | -0.25% | ROE | — |
-| SMA200 dist | +3.34% | Revenue (ttm) | $12.41B |
+| RSI(14) | 49.8 | Operating margin | 35.93% |
+| ATR(14) | 1.18 | Profit margin | 35.03% |
+| SMA20 dist | -0.37% | ROA | 6.79% |
+| SMA50 dist | -0.38% | ROE | 30.44% |
+| SMA200 dist | +3.10% | Revenue (ttm) | $12.41B |
 | 52W high | $58.94 | Revenue growth y/y | 12.70% |
-| 52W low | $47.40 | Inst. ownership | 19.91% |
-| P/E (ttm) | 13.06 | Insider ownership | 64.08% |
-| Forward P/E | 11.84 | Short float | 1.77% |
-| PEG (trailing) | 2.97 | Avg volume | 1,411,143 |
-| P/S | 4.64 | Employees | 0 |
-| P/B | 4.11 | Analyst rec (1=buy..5=sell) | 2.4 |
+| 52W low | $47.88 | Inst. ownership | 19.89% |
+| P/E (ttm) | 13.25 | Insider ownership | 64.08% |
+| Forward P/E | 11.81 | Short float | 1.77% |
+| PEG (trailing) | 3.02 | Avg volume | 1,420,750 |
+| P/S | 4.63 | Employees | 0 |
+| P/B | 4.08 | Analyst rec (1=buy..5=sell) | 2.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-11-10 | main | Morgan Stanley | Equal-Weight → Equal-Weight |
 | 2026-11-05 | main | Citigroup | Neutral → Neutral |
 | 2026-10-13 | main | Morgan Stanley | Equal-Weight → Equal-Weight |
 | 2026-08-21 | main | RBC Capital | Outperform → Outperform |
@@ -136,7 +137,6 @@ MPLX LP owns and operates midstream energy infrastructure and logistics assets p
 | 2026-08-06 | main | Barclays | Overweight → Overweight |
 | 2026-08-05 | main | Wells Fargo | Overweight → Overweight |
 | 2026-07-29 | down | Wolfe Research | Outperform → Peer Perform |
-| 2026-07-02 | reit | RBC Capital | Outperform → Outperform |
 
 ## 9. Conclusion
 MPLX: Moderate momentum / strong fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

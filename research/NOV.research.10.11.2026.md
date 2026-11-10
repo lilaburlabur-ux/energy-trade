@@ -4,8 +4,8 @@ Signed file: `NOV.research.10.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $17.69 (2026-11-10, ~15-min delayed) |
-| Market cap | $6.31B |
+| Current price | $17.73 (2026-11-10, ~15-min delayed) |
+| Market cap | $6.32B |
 | Sector / Industry | Energy / Oil & Gas Equipment & Services |
 | Main theme | Oil & Gas Equipment & Services — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: high. |
@@ -15,10 +15,10 @@ Signed file: `NOV.research.10.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-9.27%) with negative half-year (-9.35%). |
-| Fresh setup quality | Moderate / wait | -18.17% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-9.08%) with negative half-year (-12.57%). |
+| Fresh setup quality | Moderate / wait | -18.01% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 1.65%, revenue growth 2.30%. |
-| Value attractiveness | Reasonable | Forward P/E 14.00, EV/Sales 0.88. |
+| Value attractiveness | Reasonable | Forward P/E 13.96, EV/Sales 0.88. |
 | Risk level | High | Beta 0.95, ATR 3.7% of price, short float 14.31%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: high.
@@ -36,30 +36,30 @@ NOV Inc. designs, constructs, manufactures, and sells systems, components, and p
 
 | Headline | Source | Date |
 |---|---|---|
+| DTI Q3 Earnings Miss Estimates on Higher Costs Despite Sales Growth | Zacks | 2026-11-10 |
 | CNQ Q3 Earnings Beat on Strong Pricing and Record Thermal Output | Zacks | 2026-11-09 |
 | Why Is Baker Hughes Stock Falling? | Trefis | 2026-11-06 |
 | CRGY Q3 Earnings Beat on Higher Oil Prices and Production | Zacks | 2026-11-05 |
-| NOV Expects Higher Offshore Bookings on Strong FPSO Project Pipeline | Zacks | 2026-11-02 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $17.69; 52w high $21.62 (-18.17%); 52w low $14.06 (+25.81%) |
-| Trend | -9.27% vs SMA200, -9.84% vs SMA50, -6.22% vs SMA20 |
-| Momentum | RSI(14) 36.8 (neutral) |
+| Price vs 52-week range | Close $17.73; 52w high $21.62 (-18.01%); 52w low $14.06 (+26.06%) |
+| Trend | -9.08% vs SMA200, -9.34% vs SMA50, -5.73% vs SMA20 |
+| Momentum | RSI(14) 37.3 (neutral) |
 | Volatility | ATR(14) 0.65 (~3.7% of price); beta 0.95 |
-| Setup perspective | -18.17% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -18.01% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -5.3% |
-| Month | -6.7% |
-| Quarter | -15.5% |
-| Half Y | -9.3% |
+| Week | -4.1% |
+| Month | -6.2% |
+| Quarter | -14.9% |
+| Half Y | -12.6% |
 | 1Y | +17.7% |
-| YTD | +9.7% |
+| YTD | +10.0% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ NOV Inc. designs, constructs, manufactures, and sells systems, components, and p
 | Revenue (ttm) | $8.69B | Revenue growth 2.30% y/y |
 | Profitability | Gross 21.31%, operating 6.16%, net 1.65% | ROA 3.39%, ROE 2.34% |
 | Balance sheet | Cash $1.06B, debt $2.32B | Current ratio 2.51, debt/equity 36.76 |
-| Valuation | P/E 43.15, forward P/E 14.00, P/S 0.73, P/B 1.01 | EV/Sales 0.88, EV/EBITDA 7.78 |
+| Valuation | P/E 43.23, forward P/E 13.96, P/S 0.73, P/B 1.01 | EV/Sales 0.88, EV/EBITDA 7.78 |
 | Growth expectations | Earnings growth 127.30%, EPS q/q 114.30% | Analyst mean target $22.25 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 108.19% |
+| Institutional ownership | 108.00% |
 | Insider ownership | 0.73% |
 | Short float | 14.31% |
 | Short ratio (days to cover) | 8.0 |
@@ -111,19 +111,19 @@ NOV Inc. designs, constructs, manufactures, and sells systems, components, and p
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $17.69 | EV/Sales | 0.88 |
-| Market cap | $6.31B | EV/EBITDA | 7.78 |
+| Price | $17.73 | EV/Sales | 0.88 |
+| Market cap | $6.32B | EV/EBITDA | 7.78 |
 | Beta | 0.95 | Gross margin | 21.31% |
-| RSI(14) | 36.8 | Operating margin | 6.16% |
+| RSI(14) | 37.3 | Operating margin | 6.16% |
 | ATR(14) | 0.65 | Profit margin | 1.65% |
-| SMA20 dist | -6.22% | ROA | 3.39% |
-| SMA50 dist | -9.84% | ROE | 2.34% |
-| SMA200 dist | -9.27% | Revenue (ttm) | $8.69B |
+| SMA20 dist | -5.73% | ROA | 3.39% |
+| SMA50 dist | -9.34% | ROE | 2.34% |
+| SMA200 dist | -9.08% | Revenue (ttm) | $8.69B |
 | 52W high | $21.62 | Revenue growth y/y | 2.30% |
-| 52W low | $14.06 | Inst. ownership | 108.19% |
-| P/E (ttm) | 43.15 | Insider ownership | 0.73% |
-| Forward P/E | 14.00 | Short float | 14.31% |
-| PEG (trailing) | 0.72 | Avg volume | 3,544,935 |
+| 52W low | $14.06 | Inst. ownership | 108.00% |
+| P/E (ttm) | 43.23 | Insider ownership | 0.73% |
+| Forward P/E | 13.96 | Short float | 14.31% |
+| PEG (trailing) | 0.72 | Avg volume | 3,534,201 |
 | P/S | 0.73 | Employees | 31,605 |
 | P/B | 1.01 | Analyst rec (1=buy..5=sell) | 2.5 |
 

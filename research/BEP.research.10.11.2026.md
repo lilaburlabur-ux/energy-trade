@@ -4,8 +4,8 @@ Signed file: `BEP.research.10.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $31.19 (2026-11-10, ~15-min delayed) |
-| Market cap | $21.32B |
+| Current price | $30.07 (2026-11-10, ~15-min delayed) |
+| Market cap | $20.56B |
 | Sector / Industry | Utilities / Utilities - Renewable |
 | Main theme | Utilities - Renewable — see catalysts below |
 | Current stance | Low technical momentum, weak fundamentals, value: reasonable, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `BEP.research.10.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-1.48%) with negative half-year (-7.30%). |
-| Fresh setup quality | Moderate / wait | -14.86% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-5.06%) with negative half-year (-10.29%). |
+| Fresh setup quality | Moderate / wait | -17.91% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Weak | Negative profit margin (-4.19%). |
-| Value attractiveness | Reasonable | Forward P/E -15.67, EV/Sales 13.60. |
-| Risk level | Moderate | Beta 0.95, ATR 2.7% of price, short float 0.56%. |
+| Value attractiveness | Reasonable | Forward P/E -15.11, EV/Sales 13.60. |
+| Risk level | Moderate | Beta 0.95, ATR 2.9% of price, short float 0.56%. |
 
 **Bottom line:** Low technical momentum, weak fundamentals, value: reasonable, risk: moderate.
 
@@ -44,22 +44,22 @@ Brookfield Renewable Partners L.P. owns a portfolio of renewable power generatin
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $31.19; 52w high $36.63 (-14.86%); 52w low $25.75 (+21.13%) |
-| Trend | -1.48% vs SMA200, +5.82% vs SMA50, +6.58% vs SMA20 |
-| Momentum | RSI(14) 64.6 (neutral) |
-| Volatility | ATR(14) 0.85 (~2.7% of price); beta 0.95 |
-| Setup perspective | -14.86% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $30.07; 52w high $36.63 (-17.91%); 52w low $25.75 (+16.78%) |
+| Trend | -5.06% vs SMA200, +2.13% vs SMA50, +2.50% vs SMA20 |
+| Momentum | RSI(14) 53.4 (neutral) |
+| Volatility | ATR(14) 0.87 (~2.9% of price); beta 0.95 |
+| Setup perspective | -17.91% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +3.8% |
-| Month | +5.6% |
-| Quarter | -7.7% |
-| Half Y | -7.3% |
-| 1Y | +4.2% |
-| YTD | +15.7% |
+| Week | -0.8% |
+| Month | +3.4% |
+| Quarter | -11.5% |
+| Half Y | -10.3% |
+| 1Y | +0.1% |
+| YTD | +11.5% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ Brookfield Renewable Partners L.P. owns a portfolio of renewable power generatin
 | Revenue (ttm) | $6.54B | Revenue growth 11.50% y/y |
 | Profitability | Gross 48.30%, operating 6.57%, net -4.19% | ROA 0.35%, ROE -0.75% |
 | Balance sheet | Cash $3.82B, debt $43.18B | Current ratio 0.78, debt/equity 114.10 |
-| Valuation | P/E —, forward P/E -15.67, P/S 3.26, P/B 2.41 | EV/Sales 13.60, EV/EBITDA 30.82 |
+| Valuation | P/E —, forward P/E -15.11, P/S 3.14, P/B 2.32 | EV/Sales 13.60, EV/EBITDA 30.82 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $34.24 (14 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 64.38% |
+| Institutional ownership | 64.55% |
 | Insider ownership | 0.07% |
 | Short float | 0.56% |
 | Short ratio (days to cover) | 1.3 |
@@ -85,7 +85,7 @@ Brookfield Renewable Partners L.P. owns a portfolio of renewable power generatin
 |---|---|---|---|
 | Brookfield Corp /ON/ | 81,306,719 | 26.85% | 2026-06-30 |
 | Royal Bank of Canada | 15,093,939 | 4.99% | 2026-06-30 |
-| Bank of Montreal /CAN/ | 8,149,658 | 2.69% | 2026-06-30 |
+| Bank of Montreal /CAN/ | 8,632,032 | 2.85% | 2026-09-30 |
 | FIL LTD | 7,616,731 | 2.52% | 2026-06-30 |
 | Principal Financial Group, Inc. | 7,442,593 | 2.46% | 2026-09-30 |
 | Morgan Stanley | 6,797,319 | 2.24% | 2026-06-30 |
@@ -110,21 +110,21 @@ Brookfield Renewable Partners L.P. owns a portfolio of renewable power generatin
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $31.19 | EV/Sales | 13.60 |
-| Market cap | $21.32B | EV/EBITDA | 30.82 |
+| Price | $30.07 | EV/Sales | 13.60 |
+| Market cap | $20.56B | EV/EBITDA | 30.82 |
 | Beta | 0.95 | Gross margin | 48.30% |
-| RSI(14) | 64.6 | Operating margin | 6.57% |
-| ATR(14) | 0.85 | Profit margin | -4.19% |
-| SMA20 dist | +6.58% | ROA | 0.35% |
-| SMA50 dist | +5.82% | ROE | -0.75% |
-| SMA200 dist | -1.48% | Revenue (ttm) | $6.54B |
+| RSI(14) | 53.4 | Operating margin | 6.57% |
+| ATR(14) | 0.87 | Profit margin | -4.19% |
+| SMA20 dist | +2.50% | ROA | 0.35% |
+| SMA50 dist | +2.13% | ROE | -0.75% |
+| SMA200 dist | -5.06% | Revenue (ttm) | $6.54B |
 | 52W high | $36.63 | Revenue growth y/y | 11.50% |
-| 52W low | $25.75 | Inst. ownership | 64.38% |
+| 52W low | $25.75 | Inst. ownership | 64.55% |
 | P/E (ttm) | — | Insider ownership | 0.07% |
-| Forward P/E | -15.67 | Short float | 0.56% |
-| PEG (trailing) | — | Avg volume | 1,105,993 |
-| P/S | 3.26 | Employees | 6,700 |
-| P/B | 2.41 | Analyst rec (1=buy..5=sell) | 2.2 |
+| Forward P/E | -15.11 | Short float | 0.56% |
+| PEG (trailing) | — | Avg volume | 1,106,971 |
+| P/S | 3.14 | Employees | 6,700 |
+| P/B | 2.32 | Analyst rec (1=buy..5=sell) | 2.2 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

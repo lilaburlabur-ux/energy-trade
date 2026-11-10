@@ -4,8 +4,8 @@ Signed file: `LNG.research.10.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $284.95 (2026-11-10, ~15-min delayed) |
-| Market cap | $58.19B |
+| Current price | $293.35 (2026-11-10, ~15-min delayed) |
+| Market cap | $59.90B |
 | Sector / Industry | Energy / Oil & Gas Midstream |
 | Main theme | Oil & Gas Midstream — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
@@ -15,11 +15,11 @@ Signed file: `LNG.research.10.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +38.64%; price +10.48% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -13.54% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +42.43%; price +13.54% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -10.99% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 13.40%, revenue growth 39.90%. |
-| Value attractiveness | Reasonable | Forward P/E 13.76, EV/Sales 3.95. |
-| Risk level | Elevated | Beta 0.00, ATR 3.9% of price, short float 2.29%. |
+| Value attractiveness | Reasonable | Forward P/E 14.16, EV/Sales 3.95. |
+| Risk level | Elevated | Beta 0.00, ATR 3.8% of price, short float 2.29%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
 
@@ -36,30 +36,30 @@ Cheniere Energy, Inc., an energy infrastructure company, primarily engages in th
 
 | Headline | Source | Date |
 |---|---|---|
-| Oklo Secures U.S. Forging Capacity for Future Aurora Expansion | Zacks | 2026-11-09 |
-| 3 Dividend Stocks Just Gave Investors a Raise. Two Hiked Payouts More Than 12% | 24/7 Wall St. | 2026-11-09 |
-| APA Q3 Earnings Beat on Strong Oil Prices and U.S. Output | Zacks | 2026-11-06 |
-| QatarEnergy eyes more US LNG deals to shield supply from Mideast conflict - report | Investing.com | 2026-11-05 |
+| 4 Energy Stocks to Watch as QatarEnergy Eyes More U.S. LNG Deals | Zacks | 2026-11-10 |
+| TC Energy Approves $2B Pipeline Expansion to Tap Growing Gas Demand | Zacks | 2026-11-10 |
+| Venture Global plans to become the world’s largest gas exporter in a year—and now aims to build power for hyperscaler data centers | Fortune | 2026-11-10 |
+| The Zacks Analyst Blog Highlights Nucor, UCB and Cheniere Energy | Zacks | 2026-11-10 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $284.95; 52w high $329.58 (-13.54%); 52w low $187.07 (+52.32%) |
-| Trend | +10.48% vs SMA200, +0.70% vs SMA50, -2.87% vs SMA20 |
-| Momentum | RSI(14) 47.3 (neutral) |
-| Volatility | ATR(14) 11.06 (~3.9% of price); beta 0.00 |
-| Setup perspective | -13.54% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $293.35; 52w high $329.58 (-10.99%); 52w low $187.07 (+56.81%) |
+| Trend | +13.54% vs SMA200, +3.66% vs SMA50, -0.12% vs SMA20 |
+| Momentum | RSI(14) 51.8 (neutral) |
+| Volatility | ATR(14) 11.20 (~3.8% of price); beta 0.00 |
+| Setup perspective | -10.99% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -8.4% |
-| Month | +2.7% |
-| Quarter | +7.6% |
-| Half Y | +18.9% |
-| 1Y | +38.6% |
-| YTD | +45.4% |
+| Week | -5.5% |
+| Month | +4.1% |
+| Quarter | +9.7% |
+| Half Y | +20.6% |
+| 1Y | +42.4% |
+| YTD | +49.7% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ Cheniere Energy, Inc., an energy infrastructure company, primarily engages in th
 | Revenue (ttm) | $22.67B | Revenue growth 39.90% y/y |
 | Profitability | Gross 34.89%, operating 30.82%, net 13.40% | ROA 8.61%, ROE 39.68% |
 | Balance sheet | Cash $1.68B, debt $27.69B | Current ratio 0.90, debt/equity 231.29 |
-| Valuation | P/E 19.79, forward P/E 13.76, P/S 2.57, P/B 8.92 | EV/Sales 3.95, EV/EBITDA 11.25 |
+| Valuation | P/E 20.88, forward P/E 14.16, P/S 2.64, P/B 9.18 | EV/Sales 3.95, EV/EBITDA 11.25 |
 | Growth expectations | Earnings growth 18.90%, EPS q/q 11.50% | Analyst mean target $335.70 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 93.31% |
+| Institutional ownership | 93.54% |
 | Insider ownership | 0.64% |
 | Short float | 2.29% |
 | Short ratio (days to cover) | 2.6 |
@@ -95,7 +95,7 @@ Cheniere Energy, Inc., an energy infrastructure company, primarily engages in th
 | JPMORGAN CHASE & CO | 3,109,949 | 1.52% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 0.00, ATR 3.9% of price, short float 2.29%. Size positions accordingly.
+- **Volatility risk:** Beta 0.00, ATR 3.8% of price, short float 2.29%. Size positions accordingly.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -110,21 +110,21 @@ Cheniere Energy, Inc., an energy infrastructure company, primarily engages in th
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $284.95 | EV/Sales | 3.95 |
-| Market cap | $58.19B | EV/EBITDA | 11.25 |
+| Price | $293.35 | EV/Sales | 3.95 |
+| Market cap | $59.90B | EV/EBITDA | 11.25 |
 | Beta | 0.00 | Gross margin | 34.89% |
-| RSI(14) | 47.3 | Operating margin | 30.82% |
-| ATR(14) | 11.06 | Profit margin | 13.40% |
-| SMA20 dist | -2.87% | ROA | 8.61% |
-| SMA50 dist | +0.70% | ROE | 39.68% |
-| SMA200 dist | +10.48% | Revenue (ttm) | $22.67B |
+| RSI(14) | 51.8 | Operating margin | 30.82% |
+| ATR(14) | 11.20 | Profit margin | 13.40% |
+| SMA20 dist | -0.12% | ROA | 8.61% |
+| SMA50 dist | +3.66% | ROE | 39.68% |
+| SMA200 dist | +13.54% | Revenue (ttm) | $22.67B |
 | 52W high | $329.58 | Revenue growth y/y | 39.90% |
-| 52W low | $187.07 | Inst. ownership | 93.31% |
-| P/E (ttm) | 19.79 | Insider ownership | 0.64% |
-| Forward P/E | 13.76 | Short float | 2.29% |
-| PEG (trailing) | — | Avg volume | 2,015,314 |
-| P/S | 2.57 | Employees | 1,717 |
-| P/B | 8.92 | Analyst rec (1=buy..5=sell) | 1.5 |
+| 52W low | $187.07 | Inst. ownership | 93.54% |
+| P/E (ttm) | 20.88 | Insider ownership | 0.64% |
+| Forward P/E | 14.16 | Short float | 2.29% |
+| PEG (trailing) | — | Avg volume | 2,021,656 |
+| P/S | 2.64 | Employees | 1,717 |
+| P/B | 9.18 | Analyst rec (1=buy..5=sell) | 1.5 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

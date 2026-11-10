@@ -4,8 +4,8 @@ Signed file: `DUK.research.10.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $128.10 (2026-11-10, ~15-min delayed) |
-| Market cap | $99.88B |
+| Current price | $128.89 (2026-11-10, ~15-min delayed) |
+| Market cap | $100.50B |
 | Sector / Industry | Utilities / Utilities - Regulated Electric |
 | Main theme | Utilities - Regulated Electric — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,10 +15,10 @@ Signed file: `DUK.research.10.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +6.93%; price +3.81% vs SMA200. |
-| Fresh setup quality | Watch | -2.34% from 52w high and near SMA20 — check for a tight base. |
+| Technical momentum | Moderate | 1Y +7.89%; price +4.40% vs SMA200. |
+| Fresh setup quality | Watch | -1.73% from 52w high and near SMA20 — check for a tight base. |
 | Fundamental quality | Mixed | Profit margin 16.16%, revenue growth 6.60%. |
-| Value attractiveness | Reasonable | Forward P/E 17.87, EV/Sales 5.88. |
+| Value attractiveness | Reasonable | Forward P/E 17.99, EV/Sales 5.88. |
 | Risk level | Moderate | Beta 0.31, ATR 1.8% of price, short float 2.59%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -36,30 +36,30 @@ Duke Energy Corporation, through its subsidiaries, operates as an energy company
 
 | Headline | Source | Date |
 |---|---|---|
+| AI Boom Fuels Southern Company's Data Center Power Usage Growth | Zacks | 2026-11-10 |
+| The Kiplinger Dividend 15: Our Favorite Dividend-Paying Stocks | Kiplinger | 2026-11-10 |
+| $300,000 in Duke Energy, Philip Morris and Johnson & Johnson: Here’s What It Pays | 24/7 Wall St. | 2026-11-10 |
 | After the Democratic Midterm Sweep: 4 Dividend Stocks Built for Gridlock | 24/7 Wall St. | 2026-11-09 |
-| Can DTE Energy Stock Jump 40%? | Trefis | 2026-11-09 |
-| Are Wall Street Analysts Predicting Duke Energy Stock Will Climb or Sink? | Barchart | 2026-11-09 |
-| State Street Utilities SPDR (XLU) Sells NextEra and Southern on Nov. 5 | GuruFocus.com | 2026-11-09 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $128.10; 52w high $131.16 (-2.34%); 52w low $111.09 (+15.31%) |
-| Trend | +3.81% vs SMA200, +6.76% vs SMA50, +3.04% vs SMA20 |
-| Momentum | RSI(14) 62.8 (neutral) |
-| Volatility | ATR(14) 2.25 (~1.8% of price); beta 0.31 |
-| Setup perspective | -2.34% from 52w high and near SMA20 — check for a tight base. |
+| Price vs 52-week range | Close $128.89; 52w high $131.16 (-1.73%); 52w low $111.09 (+16.02%) |
+| Trend | +4.40% vs SMA200, +7.26% vs SMA50, +3.23% vs SMA20 |
+| Momentum | RSI(14) 64.5 (neutral) |
+| Volatility | ATR(14) 2.29 (~1.8% of price); beta 0.31 |
+| Setup perspective | -1.73% from 52w high and near SMA20 — check for a tight base. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -0.2% |
-| Month | +9.8% |
-| Quarter | +4.9% |
-| Half Y | +4.4% |
-| 1Y | +6.9% |
-| YTD | +11.9% |
+| Week | +1.9% |
+| Month | +9.5% |
+| Quarter | +5.3% |
+| Half Y | +4.9% |
+| 1Y | +7.9% |
+| YTD | +12.6% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ Duke Energy Corporation, through its subsidiaries, operates as an energy company
 | Revenue (ttm) | $33.37B | Revenue growth 6.60% y/y |
 | Profitability | Gross 52.58%, operating 30.03%, net 16.16% | ROA 2.92%, ROE 10.10% |
 | Balance sheet | Cash $451.00M, debt $93.78B | Current ratio 0.68, debt/equity 162.98 |
-| Valuation | P/E 18.78, forward P/E 17.87, P/S 2.99, P/B 1.84 | EV/Sales 5.88, EV/EBITDA 11.72 |
+| Valuation | P/E 18.90, forward P/E 17.99, P/S 3.01, P/B 1.85 | EV/Sales 5.88, EV/EBITDA 11.72 |
 | Growth expectations | Earnings growth 10.00%, EPS q/q 10.10% | Analyst mean target $132.26 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 71.13% |
+| Institutional ownership | 71.20% |
 | Insider ownership | 0.13% |
 | Short float | 2.59% |
 | Short ratio (days to cover) | 4.2 |
@@ -110,21 +110,21 @@ Duke Energy Corporation, through its subsidiaries, operates as an energy company
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $128.10 | EV/Sales | 5.88 |
-| Market cap | $99.88B | EV/EBITDA | 11.72 |
+| Price | $128.89 | EV/Sales | 5.88 |
+| Market cap | $100.50B | EV/EBITDA | 11.72 |
 | Beta | 0.31 | Gross margin | 52.58% |
-| RSI(14) | 62.8 | Operating margin | 30.03% |
-| ATR(14) | 2.25 | Profit margin | 16.16% |
-| SMA20 dist | +3.04% | ROA | 2.92% |
-| SMA50 dist | +6.76% | ROE | 10.10% |
-| SMA200 dist | +3.81% | Revenue (ttm) | $33.37B |
+| RSI(14) | 64.5 | Operating margin | 30.03% |
+| ATR(14) | 2.29 | Profit margin | 16.16% |
+| SMA20 dist | +3.23% | ROA | 2.92% |
+| SMA50 dist | +7.26% | ROE | 10.10% |
+| SMA200 dist | +4.40% | Revenue (ttm) | $33.37B |
 | 52W high | $131.16 | Revenue growth y/y | 6.60% |
-| 52W low | $111.09 | Inst. ownership | 71.13% |
-| P/E (ttm) | 18.78 | Insider ownership | 0.13% |
-| Forward P/E | 17.87 | Short float | 2.59% |
-| PEG (trailing) | 2.38 | Avg volume | 4,159,951 |
-| P/S | 2.99 | Employees | 26,441 |
-| P/B | 1.84 | Analyst rec (1=buy..5=sell) | 2.1 |
+| 52W low | $111.09 | Inst. ownership | 71.20% |
+| P/E (ttm) | 18.90 | Insider ownership | 0.13% |
+| Forward P/E | 17.99 | Short float | 2.59% |
+| PEG (trailing) | 2.39 | Avg volume | 4,071,359 |
+| P/S | 3.01 | Employees | 26,441 |
+| P/B | 1.85 | Analyst rec (1=buy..5=sell) | 2.1 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

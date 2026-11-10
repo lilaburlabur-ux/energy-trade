@@ -4,8 +4,8 @@ Signed file: `APA.research.10.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $44.55 (2026-11-10, ~15-min delayed) |
-| Market cap | $14.96B |
+| Current price | $45.49 (2026-11-10, ~15-min delayed) |
+| Market cap | $15.28B |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
 | Current stance | High technical momentum, strong fundamentals, value: reasonable, risk: elevated. |
@@ -15,10 +15,10 @@ Signed file: `APA.research.10.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +93.84%; price +17.46% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -15.66% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +96.38%; price +19.62% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -13.87% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 23.49%, revenue growth 31.50%. |
-| Value attractiveness | Reasonable | Forward P/E 8.19, EV/Sales 2.08. |
+| Value attractiveness | Reasonable | Forward P/E 8.37, EV/Sales 2.08. |
 | Risk level | Elevated | Beta 0.28, ATR 4.4% of price, short float 9.12%. |
 
 **Bottom line:** High technical momentum, strong fundamentals, value: reasonable, risk: elevated.
@@ -36,30 +36,30 @@ APA Corporation, an independent energy company, explores for, develops, and prod
 
 | Headline | Source | Date |
 |---|---|---|
+| Did APA's 88% Run Pass You By? What The Bulls Got Right | Simply Wall St. | 2026-11-10 |
 | APA Beats Q3 Earnings: Can Strong Momentum Drive the Stock Higher? | Zacks | 2026-11-09 |
 | Buy 5 Non-Tech Nasdaq Stocks to Enhance Your Portfolio Returns in Q4 | Zacks | 2026-11-09 |
 | APA Corp (APA) (Q3 2026) Earnings Call Highlights: $699 Million Free Cash Flow, Raised Outlook ... | GuruFocus.com | 2026-11-09 |
-| APA Corporation’s Q3 2026 earnings call: our top 5 analyst questions | StockStory | 2026-11-09 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $44.55; 52w high $52.82 (-15.66%); 52w low $22.73 (+96.00%) |
-| Trend | +17.46% vs SMA200, -2.70% vs SMA50, -8.36% vs SMA20 |
-| Momentum | RSI(14) 41.1 (neutral) |
-| Volatility | ATR(14) 1.96 (~4.4% of price); beta 0.28 |
-| Setup perspective | -15.66% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $45.49; 52w high $52.82 (-13.87%); 52w low $22.73 (+100.15%) |
+| Trend | +19.62% vs SMA200, -0.74% vs SMA50, -6.20% vs SMA20 |
+| Momentum | RSI(14) 44.8 (neutral) |
+| Volatility | ATR(14) 2.00 (~4.4% of price); beta 0.28 |
+| Setup perspective | -13.87% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -8.7% |
+| Week | -4.8% |
 | Month | -2.4% |
-| Quarter | +10.2% |
-| Half Y | +22.9% |
-| 1Y | +93.8% |
-| YTD | +80.7% |
+| Quarter | +14.4% |
+| Half Y | +24.1% |
+| 1Y | +96.4% |
+| YTD | +84.5% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ APA Corporation, an independent energy company, explores for, develops, and prod
 | Revenue (ttm) | $9.24B | Revenue growth 31.50% y/y |
 | Profitability | Gross 78.98%, operating 44.25%, net 23.49% | ROA 14.06%, ROE 33.32% |
 | Balance sheet | Cash $75.00M, debt $3.43B | Current ratio 0.84, debt/equity 42.23 |
-| Valuation | P/E 7.24, forward P/E 8.19, P/S 1.62, P/B 2.11 | EV/Sales 2.08, EV/EBITDA 3.02 |
-| Growth expectations | Earnings growth 250.90%, EPS q/q 240.50% | Analyst mean target $49.65 (26 analysts) |
+| Valuation | P/E 7.40, forward P/E 8.37, P/S 1.65, P/B 2.15 | EV/Sales 2.08, EV/EBITDA 3.02 |
+| Growth expectations | Earnings growth 250.90%, EPS q/q 240.50% | Analyst mean target $49.85 (26 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 112.25% |
+| Institutional ownership | 113.67% |
 | Insider ownership | 0.46% |
 | Short float | 9.12% |
 | Short ratio (days to cover) | 4.0 |
@@ -111,21 +111,21 @@ APA Corporation, an independent energy company, explores for, develops, and prod
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $44.55 | EV/Sales | 2.08 |
-| Market cap | $14.96B | EV/EBITDA | 3.02 |
+| Price | $45.49 | EV/Sales | 2.08 |
+| Market cap | $15.28B | EV/EBITDA | 3.02 |
 | Beta | 0.28 | Gross margin | 78.98% |
-| RSI(14) | 41.1 | Operating margin | 44.25% |
-| ATR(14) | 1.96 | Profit margin | 23.49% |
-| SMA20 dist | -8.36% | ROA | 14.06% |
-| SMA50 dist | -2.70% | ROE | 33.32% |
-| SMA200 dist | +17.46% | Revenue (ttm) | $9.24B |
+| RSI(14) | 44.8 | Operating margin | 44.25% |
+| ATR(14) | 2.00 | Profit margin | 23.49% |
+| SMA20 dist | -6.20% | ROA | 14.06% |
+| SMA50 dist | -0.74% | ROE | 33.32% |
+| SMA200 dist | +19.62% | Revenue (ttm) | $9.24B |
 | 52W high | $52.82 | Revenue growth y/y | 31.50% |
-| 52W low | $22.73 | Inst. ownership | 112.25% |
-| P/E (ttm) | 7.24 | Insider ownership | 0.46% |
-| Forward P/E | 8.19 | Short float | 9.12% |
-| PEG (trailing) | 1.10 | Avg volume | 5,725,360 |
-| P/S | 1.62 | Employees | 1,791 |
-| P/B | 2.11 | Analyst rec (1=buy..5=sell) | 2.6 |
+| 52W low | $22.73 | Inst. ownership | 113.67% |
+| P/E (ttm) | 7.40 | Insider ownership | 0.46% |
+| Forward P/E | 8.37 | Short float | 9.12% |
+| PEG (trailing) | 1.10 | Avg volume | 5,702,285 |
+| P/S | 1.65 | Employees | 1,791 |
+| P/B | 2.15 | Analyst rec (1=buy..5=sell) | 2.6 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

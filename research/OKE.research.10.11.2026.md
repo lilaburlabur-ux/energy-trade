@@ -4,8 +4,8 @@ Signed file: `OKE.research.10.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $85.98 (2026-11-10, ~15-min delayed) |
-| Market cap | $54.21B |
+| Current price | $87.57 (2026-11-10, ~15-min delayed) |
+| Market cap | $55.21B |
 | Sector / Industry | Energy / Oil & Gas Midstream |
 | Main theme | Oil & Gas Midstream — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,10 +15,10 @@ Signed file: `OKE.research.10.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +33.09%; price -1.32% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -10.84% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +34.93%; price +0.42% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -9.20% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 9.42%, revenue growth 44.30%. |
-| Value attractiveness | Reasonable | Forward P/E 13.99, EV/Sales 2.12. |
+| Value attractiveness | Reasonable | Forward P/E 14.31, EV/Sales 2.12. |
 | Risk level | Moderate | Beta 0.74, ATR 3.0% of price, short float 4.21%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -36,30 +36,30 @@ ONEOK, Inc. operates as a midstream service provider of gathering, processing, f
 
 | Headline | Source | Date |
 |---|---|---|
+| How Much Does a 60-Year-Old Need Invested to Replace a $125,000 Salary With Dividends and Never Sell a Share? | 24/7 Wall St. | 2026-11-10 |
+| Buy, Sell, or Hold? Tuesday’s Top Upgrades and Downgrades: Cloudflare, Deckers Outdoors, DraftKings, MongoDB, Nike, Oneok, Philip Morris International, Riot Platforms, Wix.com, and More | 24/7 Wall St. | 2026-11-10 |
 | Devon Q3 Earnings Outpace Estimates on Higher Output, Revenues Miss | Zacks | 2026-11-06 |
 | Plains All American Q3 Earnings Lag Estimates, Sales Increase Y/Y | Zacks | 2026-11-06 |
-| Occidental Petroleum to Release Q3 Earnings: What's in the Cards? | Zacks | 2026-11-06 |
-| Sempra's Q3 Earnings Outpace Estimates, Revenues Increase Y/Y | Zacks | 2026-11-05 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $85.98; 52w high $96.44 (-10.84%); 52w low $64.69 (+32.91%) |
-| Trend | -1.32% vs SMA200, -5.81% vs SMA50, -6.20% vs SMA20 |
-| Momentum | RSI(14) 37.0 (neutral) |
-| Volatility | ATR(14) 2.57 (~3.0% of price); beta 0.74 |
-| Setup perspective | -10.84% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $87.57; 52w high $96.44 (-9.20%); 52w low $64.69 (+35.36%) |
+| Trend | +0.42% vs SMA200, -3.92% vs SMA50, -4.22% vs SMA20 |
+| Momentum | RSI(14) 42.1 (neutral) |
+| Volatility | ATR(14) 2.63 (~3.0% of price); beta 0.74 |
+| Setup perspective | -9.20% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -7.1% |
-| Month | -3.2% |
-| Quarter | -5.0% |
-| Half Y | +0.2% |
-| 1Y | +33.1% |
-| YTD | +21.4% |
+| Week | -4.8% |
+| Month | -3.8% |
+| Quarter | -4.2% |
+| Half Y | +1.3% |
+| 1Y | +34.9% |
+| YTD | +23.6% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ ONEOK, Inc. operates as a midstream service provider of gathering, processing, f
 | Revenue (ttm) | $43.19B | Revenue growth 44.30% y/y |
 | Profitability | Gross 25.20%, operating 12.71%, net 9.42% | ROA 5.46%, ROE 15.02% |
 | Balance sheet | Cash $186.00M, debt $28.52B | Current ratio 0.84, debt/equity 87.73 |
-| Valuation | P/E 13.35, forward P/E 13.99, P/S 1.26, P/B 2.32 | EV/Sales 2.12, EV/EBITDA 11.91 |
-| Growth expectations | Earnings growth 43.00%, EPS q/q 43.80% | Analyst mean target $102.75 (20 analysts) |
+| Valuation | P/E 13.60, forward P/E 14.31, P/S 1.28, P/B 2.37 | EV/Sales 2.12, EV/EBITDA 11.91 |
+| Growth expectations | Earnings growth 43.00%, EPS q/q 43.80% | Analyst mean target $102.33 (21 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 83.75% |
+| Institutional ownership | 83.74% |
 | Insider ownership | 0.16% |
 | Short float | 4.21% |
 | Short ratio (days to cover) | 6.4 |
@@ -109,21 +109,21 @@ ONEOK, Inc. operates as a midstream service provider of gathering, processing, f
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $85.98 | EV/Sales | 2.12 |
-| Market cap | $54.21B | EV/EBITDA | 11.91 |
+| Price | $87.57 | EV/Sales | 2.12 |
+| Market cap | $55.21B | EV/EBITDA | 11.91 |
 | Beta | 0.74 | Gross margin | 25.20% |
-| RSI(14) | 37.0 | Operating margin | 12.71% |
-| ATR(14) | 2.57 | Profit margin | 9.42% |
-| SMA20 dist | -6.20% | ROA | 5.46% |
-| SMA50 dist | -5.81% | ROE | 15.02% |
-| SMA200 dist | -1.32% | Revenue (ttm) | $43.19B |
+| RSI(14) | 42.1 | Operating margin | 12.71% |
+| ATR(14) | 2.63 | Profit margin | 9.42% |
+| SMA20 dist | -4.22% | ROA | 5.46% |
+| SMA50 dist | -3.92% | ROE | 15.02% |
+| SMA200 dist | +0.42% | Revenue (ttm) | $43.19B |
 | 52W high | $96.44 | Revenue growth y/y | 44.30% |
-| 52W low | $64.69 | Inst. ownership | 83.75% |
-| P/E (ttm) | 13.35 | Insider ownership | 0.16% |
-| Forward P/E | 13.99 | Short float | 4.21% |
-| PEG (trailing) | 1.40 | Avg volume | 3,420,804 |
-| P/S | 1.26 | Employees | 6,326 |
-| P/B | 2.32 | Analyst rec (1=buy..5=sell) | 2.2 |
+| 52W low | $64.69 | Inst. ownership | 83.74% |
+| P/E (ttm) | 13.60 | Insider ownership | 0.16% |
+| Forward P/E | 14.31 | Short float | 4.21% |
+| PEG (trailing) | 1.42 | Avg volume | 3,424,471 |
+| P/S | 1.28 | Employees | 6,326 |
+| P/B | 2.37 | Analyst rec (1=buy..5=sell) | 2.2 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
