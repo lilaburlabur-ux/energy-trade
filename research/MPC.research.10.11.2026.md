@@ -4,8 +4,8 @@ Signed file: `MPC.research.10.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $389.40 (2026-11-10, ~15-min delayed) |
-| Market cap | $106.01B |
+| Current price | $389.55 (2026-11-10, ~15-min delayed) |
+| Market cap | $106.07B |
 | Sector / Industry | Energy / Oil & Gas Refining & Marketing |
 | Main theme | Oil & Gas Refining & Marketing — see catalysts below |
 | Current stance | High technical momentum, mixed fundamentals, value: reasonable, risk: high. |
@@ -15,8 +15,8 @@ Signed file: `MPC.research.10.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +104.33%; price +30.96% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -19.70% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +104.41%; price +31.01% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -19.67% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 8.34%, revenue growth 60.90%. |
 | Value attractiveness | Reasonable | Forward P/E 6.34, EV/Sales 0.76. |
 | Risk level | High | Beta 0.51, ATR 5.1% of price, short float 3.03%. |
@@ -44,22 +44,22 @@ Marathon Petroleum Corporation, together with its subsidiaries, operates as an i
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $389.40; 52w high $484.92 (-19.70%); 52w low $160.76 (+142.22%) |
-| Trend | +30.96% vs SMA200, -7.83% vs SMA50, -11.27% vs SMA20 |
+| Price vs 52-week range | Close $389.55; 52w high $484.92 (-19.67%); 52w low $160.76 (+142.31%) |
+| Trend | +31.01% vs SMA200, -7.80% vs SMA50, -11.24% vs SMA20 |
 | Momentum | RSI(14) 37.7 (neutral) |
 | Volatility | ATR(14) 19.69 (~5.1% of price); beta 0.51 |
-| Setup perspective | -19.70% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -19.67% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -8.9% |
+| Week | -8.8% |
 | Month | -15.1% |
-| Quarter | +12.1% |
-| Half Y | +55.5% |
-| 1Y | +104.3% |
-| YTD | +138.5% |
+| Quarter | +12.2% |
+| Half Y | +55.6% |
+| 1Y | +104.4% |
+| YTD | +138.6% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Marathon Petroleum Corporation, together with its subsidiaries, operates as an i
 | Revenue (ttm) | $175.40B | Revenue growth 60.90% y/y |
 | Profitability | Gross 16.20%, operating 17.98%, net 8.34% | ROA 13.75%, ROE 60.46% |
 | Balance sheet | Cash $13.61B, debt $34.45B | Current ratio 1.45, debt/equity 115.42 |
-| Valuation | P/E 7.71, forward P/E 6.34, P/S 0.60, P/B 4.61 | EV/Sales 0.76, EV/EBITDA 5.63 |
+| Valuation | P/E 7.72, forward P/E 6.34, P/S 0.60, P/B 4.62 | EV/Sales 0.76, EV/EBITDA 5.63 |
 | Growth expectations | Earnings growth 489.60%, EPS q/q 443.60% | Analyst mean target $466.94 (17 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -110,21 +110,21 @@ Marathon Petroleum Corporation, together with its subsidiaries, operates as an i
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $389.40 | EV/Sales | 0.76 |
-| Market cap | $106.01B | EV/EBITDA | 5.63 |
+| Price | $389.55 | EV/Sales | 0.76 |
+| Market cap | $106.07B | EV/EBITDA | 5.63 |
 | Beta | 0.51 | Gross margin | 16.20% |
 | RSI(14) | 37.7 | Operating margin | 17.98% |
 | ATR(14) | 19.69 | Profit margin | 8.34% |
-| SMA20 dist | -11.27% | ROA | 13.75% |
-| SMA50 dist | -7.83% | ROE | 60.46% |
-| SMA200 dist | +30.96% | Revenue (ttm) | $175.40B |
+| SMA20 dist | -11.24% | ROA | 13.75% |
+| SMA50 dist | -7.80% | ROE | 60.46% |
+| SMA200 dist | +31.01% | Revenue (ttm) | $175.40B |
 | 52W high | $484.92 | Revenue growth y/y | 60.90% |
 | 52W low | $160.76 | Inst. ownership | 81.21% |
-| P/E (ttm) | 7.71 | Insider ownership | 0.34% |
+| P/E (ttm) | 7.72 | Insider ownership | 0.34% |
 | Forward P/E | 6.34 | Short float | 3.03% |
 | PEG (trailing) | 0.90 | Avg volume | 2,563,462 |
 | P/S | 0.60 | Employees | 18,500 |
-| P/B | 4.61 | Analyst rec (1=buy..5=sell) | 2.3 |
+| P/B | 4.62 | Analyst rec (1=buy..5=sell) | 2.3 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

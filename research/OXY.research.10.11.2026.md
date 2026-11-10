@@ -4,8 +4,8 @@ Signed file: `OXY.research.10.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $56.99 (2026-11-10, ~15-min delayed) |
-| Market cap | $56.97B |
+| Current price | $56.90 (2026-11-10, ~15-min delayed) |
+| Market cap | $56.88B |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
@@ -15,10 +15,10 @@ Signed file: `OXY.research.10.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +40.70%; price +1.36% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -13.17% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +40.48%; price +1.20% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -13.31% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 33.99%, revenue growth 2.20%. |
-| Value attractiveness | Reasonable | Forward P/E 11.22, EV/Sales 3.00. |
+| Value attractiveness | Reasonable | Forward P/E 11.20, EV/Sales 3.00. |
 | Risk level | Elevated | Beta —, ATR 3.3% of price, short float 0.02%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
@@ -36,30 +36,30 @@ Occidental Petroleum Corporation, together with its subsidiaries, engages in the
 
 | Headline | Source | Date |
 |---|---|---|
+| Occidental's Debt Reduction, Carbon Strategy Support Outlook, UBS Says | MT Newswires | 2026-11-10 |
 | Occidental Petroleum earnings: what to look for from OXY | StockStory | 2026-11-10 |
 | Should You Buy Exxon Mobil Stock For Its Cash? | Trefis | 2026-11-10 |
 | Occidental Cuts Debt to $10 Billion as Q3 Cash Flow Hits $4.1 Billion | Oilprice.com | 2026-11-10 |
-| Dow Jones Soars 1,132 Points As Amazon, Tesla Rally, But Nvidia Dives; CPI Inflation Report Next | Investor's Business Daily | 2026-11-10 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $56.99; 52w high $65.63 (-13.17%); 52w low $38.38 (+48.48%) |
-| Trend | +1.36% vs SMA200, -4.84% vs SMA50, -6.58% vs SMA20 |
-| Momentum | RSI(14) 38.3 (neutral) |
+| Price vs 52-week range | Close $56.90; 52w high $65.63 (-13.31%); 52w low $38.38 (+48.25%) |
+| Trend | +1.20% vs SMA200, -4.99% vs SMA50, -6.72% vs SMA20 |
+| Momentum | RSI(14) 37.9 (neutral) |
 | Volatility | ATR(14) 1.89 (~3.3% of price); beta — |
-| Setup perspective | -13.17% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -13.31% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -5.7% |
-| Month | -6.8% |
-| Quarter | -2.2% |
-| Half Y | +2.2% |
-| 1Y | +40.7% |
-| YTD | +36.4% |
+| Week | -5.8% |
+| Month | -6.9% |
+| Quarter | -2.4% |
+| Half Y | +2.1% |
+| 1Y | +40.5% |
+| YTD | +36.1% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Occidental Petroleum Corporation, together with its subsidiaries, engages in the
 | Revenue (ttm) | $24.21B | Revenue growth 2.20% y/y |
 | Profitability | Gross 76.80%, operating 34.55%, net 33.99% | ROA 5.60%, ROE 12.84% |
 | Balance sheet | Cash $3.88B, debt $11.83B | Current ratio 1.39, debt/equity 27.01 |
-| Valuation | P/E 16.19, forward P/E 11.22, P/S 2.35, P/B 1.63 | EV/Sales 3.00, EV/EBITDA 4.98 |
+| Valuation | P/E 16.16, forward P/E 11.20, P/S 2.35, P/B 1.63 | EV/Sales 3.00, EV/EBITDA 4.98 |
 | Growth expectations | Earnings growth 145.80%, EPS q/q 117.60% | Analyst mean target $70.74 (27 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -110,18 +110,18 @@ Occidental Petroleum Corporation, together with its subsidiaries, engages in the
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $56.99 | EV/Sales | 3.00 |
-| Market cap | $56.97B | EV/EBITDA | 4.98 |
+| Price | $56.90 | EV/Sales | 3.00 |
+| Market cap | $56.88B | EV/EBITDA | 4.98 |
 | Beta | — | Gross margin | 76.80% |
-| RSI(14) | 38.3 | Operating margin | 34.55% |
+| RSI(14) | 37.9 | Operating margin | 34.55% |
 | ATR(14) | 1.89 | Profit margin | 33.99% |
-| SMA20 dist | -6.58% | ROA | 5.60% |
-| SMA50 dist | -4.84% | ROE | 12.84% |
-| SMA200 dist | +1.36% | Revenue (ttm) | $24.21B |
+| SMA20 dist | -6.72% | ROA | 5.60% |
+| SMA50 dist | -4.99% | ROE | 12.84% |
+| SMA200 dist | +1.20% | Revenue (ttm) | $24.21B |
 | 52W high | $65.63 | Revenue growth y/y | 2.20% |
 | 52W low | $38.38 | Inst. ownership | 59.15% |
-| P/E (ttm) | 16.19 | Insider ownership | 26.81% |
-| Forward P/E | 11.22 | Short float | 0.02% |
+| P/E (ttm) | 16.16 | Insider ownership | 26.81% |
+| Forward P/E | 11.20 | Short float | 0.02% |
 | PEG (trailing) | 0.84 | Avg volume | 8,606,039 |
 | P/S | 2.35 | Employees | 10,412 |
 | P/B | 1.63 | Analyst rec (1=buy..5=sell) | 2.2 |

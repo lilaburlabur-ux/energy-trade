@@ -4,8 +4,8 @@ Signed file: `KMI.research.10.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $31.25 (2026-11-10, ~15-min delayed) |
-| Market cap | $69.63B |
+| Current price | $31.19 (2026-11-10, ~15-min delayed) |
+| Market cap | $69.48B |
 | Sector / Industry | Energy / Oil & Gas Midstream |
 | Main theme | Oil & Gas Midstream — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: fair-to-demanding, risk: elevated. |
@@ -15,10 +15,10 @@ Signed file: `KMI.research.10.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-1.09%) with negative half-year (-1.92%). |
-| Fresh setup quality | Moderate / wait | -8.42% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-1.29%) with negative half-year (-2.12%). |
+| Fresh setup quality | Moderate / wait | -8.61% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 19.64%, revenue growth 9.30%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 20.34, EV/Sales 5.55. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 20.30, EV/Sales 5.55. |
 | Risk level | Elevated | Beta 0.57, ATR 3.0% of price, short float 2.26%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: fair-to-demanding, risk: elevated.
@@ -44,22 +44,22 @@ Kinder Morgan, Inc. operates as an energy infrastructure company primarily in No
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $31.25; 52w high $34.13 (-8.42%); 52w low $25.37 (+23.18%) |
-| Trend | -1.09% vs SMA200, -1.67% vs SMA50, -4.40% vs SMA20 |
-| Momentum | RSI(14) 44.0 (neutral) |
+| Price vs 52-week range | Close $31.19; 52w high $34.13 (-8.61%); 52w low $25.37 (+22.92%) |
+| Trend | -1.29% vs SMA200, -1.87% vs SMA50, -4.59% vs SMA20 |
+| Momentum | RSI(14) 43.5 (neutral) |
 | Volatility | ATR(14) 0.95 (~3.0% of price); beta 0.57 |
-| Setup perspective | -8.42% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -8.61% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -4.9% |
-| Month | -4.7% |
-| Quarter | -0.6% |
-| Half Y | -1.9% |
-| 1Y | +22.2% |
-| YTD | +17.0% |
+| Week | -5.1% |
+| Month | -4.9% |
+| Quarter | -0.8% |
+| Half Y | -2.1% |
+| 1Y | +21.9% |
+| YTD | +16.8% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Kinder Morgan, Inc. operates as an energy infrastructure company primarily in No
 | Revenue (ttm) | $18.34B | Revenue growth 9.30% y/y |
 | Profitability | Gross 48.65%, operating 24.03%, net 19.64% | ROA 4.44%, ROE 11.43% |
 | Balance sheet | Cash $920.00M, debt $33.40B | Current ratio 0.67, debt/equity 101.74 |
-| Valuation | P/E 19.29, forward P/E 20.34, P/S 3.80, P/B 2.20 | EV/Sales 5.55, EV/EBITDA 13.26 |
+| Valuation | P/E 19.25, forward P/E 20.30, P/S 3.79, P/B 2.20 | EV/Sales 5.55, EV/EBITDA 13.26 |
 | Growth expectations | Earnings growth 21.60%, EPS q/q 21.70% | Analyst mean target $37.50 (22 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ Kinder Morgan, Inc. operates as an energy infrastructure company primarily in No
 | Charles Schwab Investment Management, Inc. | 29,766,795 | 1.34% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 20.34, EV/Sales 5.55. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 20.30, EV/Sales 5.55. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 0.57, ATR 3.0% of price, short float 2.26%. Size positions accordingly.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -111,20 +111,20 @@ Kinder Morgan, Inc. operates as an energy infrastructure company primarily in No
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $31.25 | EV/Sales | 5.55 |
-| Market cap | $69.63B | EV/EBITDA | 13.26 |
+| Price | $31.19 | EV/Sales | 5.55 |
+| Market cap | $69.48B | EV/EBITDA | 13.26 |
 | Beta | 0.57 | Gross margin | 48.65% |
-| RSI(14) | 44.0 | Operating margin | 24.03% |
+| RSI(14) | 43.5 | Operating margin | 24.03% |
 | ATR(14) | 0.95 | Profit margin | 19.64% |
-| SMA20 dist | -4.40% | ROA | 4.44% |
-| SMA50 dist | -1.67% | ROE | 11.43% |
-| SMA200 dist | -1.09% | Revenue (ttm) | $18.34B |
+| SMA20 dist | -4.59% | ROA | 4.44% |
+| SMA50 dist | -1.87% | ROE | 11.43% |
+| SMA200 dist | -1.29% | Revenue (ttm) | $18.34B |
 | 52W high | $34.13 | Revenue growth y/y | 9.30% |
 | 52W low | $25.37 | Inst. ownership | 70.28% |
-| P/E (ttm) | 19.29 | Insider ownership | 12.69% |
-| Forward P/E | 20.34 | Short float | 2.26% |
+| P/E (ttm) | 19.25 | Insider ownership | 12.69% |
+| Forward P/E | 20.30 | Short float | 2.26% |
 | PEG (trailing) | 2.66 | Avg volume | 13,109,765 |
-| P/S | 3.80 | Employees | 11,028 |
+| P/S | 3.79 | Employees | 11,028 |
 | P/B | 2.20 | Analyst rec (1=buy..5=sell) | 2.0 |
 
 ## 8. Analyst Actions

@@ -4,8 +4,8 @@ Signed file: `FSLR.research.10.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $179.35 (2026-11-10, ~15-min delayed) |
-| Market cap | $19.28B |
+| Current price | $180.98 (2026-11-10, ~15-min delayed) |
+| Market cap | $19.45B |
 | Sector / Industry | Technology / Solar |
 | Main theme | Solar — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: high. |
@@ -15,11 +15,11 @@ Signed file: `FSLR.research.10.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-16.22%) with negative half-year (-21.36%). |
-| Fresh setup quality | Poor / broken | -43.64% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-15.47%) with negative half-year (-20.64%). |
+| Fresh setup quality | Poor / broken | -43.13% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 37.12%, revenue growth -22.80%. |
-| Value attractiveness | Reasonable | Forward P/E 7.74, EV/Sales 3.85. |
-| Risk level | High | Beta 1.71, ATR 6.1% of price, short float 14.10%. |
+| Value attractiveness | Reasonable | Forward P/E 7.81, EV/Sales 3.85. |
+| Risk level | High | Beta 1.71, ATR 6.0% of price, short float 14.10%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: high.
 
@@ -44,22 +44,22 @@ First Solar, Inc., a solar technology company, provides photovoltaic (PV) solar 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $179.35; 52w high $318.25 (-43.64%); 52w low $168.15 (+6.66%) |
-| Trend | -16.22% vs SMA200, -3.72% vs SMA50, -0.27% vs SMA20 |
-| Momentum | RSI(14) 46.5 (neutral) |
-| Volatility | ATR(14) 10.88 (~6.1% of price); beta 1.71 |
-| Setup perspective | -43.64% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $180.98; 52w high $318.25 (-43.13%); 52w low $168.15 (+7.63%) |
+| Trend | -15.47% vs SMA200, -2.87% vs SMA50, +0.59% vs SMA20 |
+| Momentum | RSI(14) 47.6 (neutral) |
+| Volatility | ATR(14) 10.88 (~6.0% of price); beta 1.71 |
+| Setup perspective | -43.13% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -3.5% |
-| Month | -0.2% |
-| Quarter | -20.9% |
-| Half Y | -21.4% |
-| 1Y | -33.0% |
-| YTD | -34.6% |
+| Week | -2.6% |
+| Month | +0.7% |
+| Quarter | -20.2% |
+| Half Y | -20.6% |
+| 1Y | -32.4% |
+| YTD | -34.0% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ First Solar, Inc., a solar technology company, provides photovoltaic (PV) solar 
 | Revenue (ttm) | $5.01B | Revenue growth -22.80% y/y |
 | Profitability | Gross 49.25%, operating 44.37%, net 37.12% | ROA 8.60%, ROE 18.71% |
 | Balance sheet | Cash $1.62B, debt $324.97M | Current ratio 2.57, debt/equity 2.99 |
-| Valuation | P/E 10.37, forward P/E 7.74, P/S 3.84, P/B 1.77 | EV/Sales 3.85, EV/EBITDA 7.78 |
+| Valuation | P/E 10.47, forward P/E 7.81, P/S 3.88, P/B 1.79 | EV/Sales 3.85, EV/EBITDA 7.78 |
 | Growth expectations | Earnings growth 25.00%, EPS q/q 25.20% | Analyst mean target $254.70 (30 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ First Solar, Inc., a solar technology company, provides photovoltaic (PV) solar 
 | Amundi | 1,899,433 | 1.77% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.71, ATR 6.1% of price, short float 14.10%. Size positions accordingly.
+- **Volatility risk:** Beta 1.71, ATR 6.0% of price, short float 14.10%. Size positions accordingly.
 - **Short interest risk:** short float 14.10% can fuel squeezes both ways around news.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
@@ -112,25 +112,26 @@ First Solar, Inc., a solar technology company, provides photovoltaic (PV) solar 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $179.35 | EV/Sales | 3.85 |
-| Market cap | $19.28B | EV/EBITDA | 7.78 |
+| Price | $180.98 | EV/Sales | 3.85 |
+| Market cap | $19.45B | EV/EBITDA | 7.78 |
 | Beta | 1.71 | Gross margin | 49.25% |
-| RSI(14) | 46.5 | Operating margin | 44.37% |
+| RSI(14) | 47.6 | Operating margin | 44.37% |
 | ATR(14) | 10.88 | Profit margin | 37.12% |
-| SMA20 dist | -0.27% | ROA | 8.60% |
-| SMA50 dist | -3.72% | ROE | 18.71% |
-| SMA200 dist | -16.22% | Revenue (ttm) | $5.01B |
+| SMA20 dist | +0.59% | ROA | 8.60% |
+| SMA50 dist | -2.87% | ROE | 18.71% |
+| SMA200 dist | -15.47% | Revenue (ttm) | $5.01B |
 | 52W high | $318.25 | Revenue growth y/y | -22.80% |
 | 52W low | $168.15 | Inst. ownership | 103.11% |
-| P/E (ttm) | 10.37 | Insider ownership | 5.36% |
-| Forward P/E | 7.74 | Short float | 14.10% |
+| P/E (ttm) | 10.47 | Insider ownership | 5.36% |
+| Forward P/E | 7.81 | Short float | 14.10% |
 | PEG (trailing) | 0.34 | Avg volume | 2,425,000 |
-| P/S | 3.84 | Employees | 7,900 |
-| P/B | 1.77 | Analyst rec (1=buy..5=sell) | 1.8 |
+| P/S | 3.88 | Employees | 7,900 |
+| P/B | 1.79 | Analyst rec (1=buy..5=sell) | 1.8 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-11-10 | main | UBS | Buy → Buy |
 | 2026-11-09 | main | Piper Sandler | Overweight → Overweight |
 | 2026-11-05 | up | William Blair | Market Perform → Outperform |
 | 2026-11-02 | main | Barclays | Overweight → Overweight |
@@ -138,7 +139,6 @@ First Solar, Inc., a solar technology company, provides photovoltaic (PV) solar 
 | 2026-11-02 | main | Guggenheim | Buy → Buy |
 | 2026-11-02 | main | Baird | Outperform → Outperform |
 | 2026-10-30 | main | JP Morgan | Overweight → Overweight |
-| 2026-10-30 | main | Morgan Stanley | Overweight → Overweight |
 
 ## 9. Conclusion
 FSLR: Low momentum / mixed fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

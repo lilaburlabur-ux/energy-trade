@@ -15,7 +15,7 @@ Signed file: `BWXT.research.10.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-30.24%) with negative half-year (-38.59%). |
+| Technical momentum | Low | Below SMA200 (-30.23%) with negative half-year (-38.59%). |
 | Fresh setup quality | Poor / broken | -46.73% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 10.41%, revenue growth 10.00%. |
 | Value attractiveness | Fair-to-demanding | Forward P/E 24.27, EV/Sales 3.66. |
@@ -45,7 +45,7 @@ BWX Technologies, Inc. manufactures and sells nuclear components in the United S
 | Technical item | Read |
 |---|---|
 | Price vs 52-week range | Close $126.64; 52w high $237.73 (-46.73%); 52w low $114.96 (+10.16%) |
-| Trend | -30.24% vs SMA200, -9.27% vs SMA50, -2.96% vs SMA20 |
+| Trend | -30.23% vs SMA200, -9.27% vs SMA50, -2.96% vs SMA20 |
 | Momentum | RSI(14) 44.0 (neutral) |
 | Volatility | ATR(14) 6.23 (~4.9% of price); beta 0.72 |
 | Setup perspective | -46.73% from 52w high — base needs to rebuild. |
@@ -68,7 +68,7 @@ BWX Technologies, Inc. manufactures and sells nuclear components in the United S
 | Revenue (ttm) | $3.60B | Revenue growth 10.00% y/y |
 | Profitability | Gross 22.61%, operating 11.55%, net 10.41% | ROA 5.49%, ROE 28.27% |
 | Balance sheet | Cash $568.53M, debt $2.02B | Current ratio 1.88, debt/equity 142.56 |
-| Valuation | P/E 31.11, forward P/E 24.27, P/S 3.22, P/B 8.18 | EV/Sales 3.66, EV/EBITDA 26.52 |
+| Valuation | P/E 31.12, forward P/E 24.27, P/S 3.22, P/B 8.18 | EV/Sales 3.66, EV/EBITDA 26.52 |
 | Growth expectations | Earnings growth 24.60%, EPS q/q 23.90% | Analyst mean target $202.32 (16 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -119,10 +119,10 @@ BWX Technologies, Inc. manufactures and sells nuclear components in the United S
 | ATR(14) | 6.23 | Profit margin | 10.41% |
 | SMA20 dist | -2.96% | ROA | 5.49% |
 | SMA50 dist | -9.27% | ROE | 28.27% |
-| SMA200 dist | -30.24% | Revenue (ttm) | $3.60B |
+| SMA200 dist | -30.23% | Revenue (ttm) | $3.60B |
 | 52W high | $237.73 | Revenue growth y/y | 10.00% |
 | 52W low | $114.96 | Inst. ownership | 93.36% |
-| P/E (ttm) | 31.11 | Insider ownership | 0.36% |
+| P/E (ttm) | 31.12 | Insider ownership | 0.36% |
 | Forward P/E | 24.27 | Short float | 4.64% |
 | PEG (trailing) | — | Avg volume | 1,218,709 |
 | P/S | 3.22 | Employees | 10,400 |

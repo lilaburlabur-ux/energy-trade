@@ -4,7 +4,7 @@ Signed file: `FTI.research.10.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $64.59 (2026-11-10, ~15-min delayed) |
+| Current price | $64.57 (2026-11-10, ~15-min delayed) |
 | Market cap | $25.11B |
 | Sector / Industry | Energy / Oil & Gas Equipment & Services |
 | Main theme | Oil & Gas Equipment & Services — see catalysts below |
@@ -15,10 +15,10 @@ Signed file: `FTI.research.10.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-7.15%) with negative half-year (-11.63%). |
-| Fresh setup quality | Moderate / wait | -19.34% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-7.19%) with negative half-year (-11.67%). |
+| Fresh setup quality | Moderate / wait | -19.37% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 12.04%, revenue growth 9.40%. |
-| Value attractiveness | Reasonable | Forward P/E 17.21, EV/Sales 2.36. |
+| Value attractiveness | Reasonable | Forward P/E 17.20, EV/Sales 2.36. |
 | Risk level | Elevated | Beta 0.85, ATR 4.0% of price, short float 3.87%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
@@ -44,20 +44,20 @@ TechnipFMC plc engages in the oil and natural gas projects, technologies, system
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $64.59; 52w high $80.08 (-19.34%); 52w low $42.59 (+51.65%) |
-| Trend | -7.15% vs SMA200, -8.60% vs SMA50, -4.57% vs SMA20 |
-| Momentum | RSI(14) 41.0 (neutral) |
+| Price vs 52-week range | Close $64.57; 52w high $80.08 (-19.37%); 52w low $42.59 (+51.59%) |
+| Trend | -7.19% vs SMA200, -8.63% vs SMA50, -4.60% vs SMA20 |
+| Momentum | RSI(14) 40.9 (neutral) |
 | Volatility | ATR(14) 2.61 (~4.0% of price); beta 0.85 |
-| Setup perspective | -19.34% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -19.37% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -3.2% |
+| Week | -3.3% |
 | Month | -7.4% |
-| Quarter | -14.1% |
-| Half Y | -11.6% |
+| Quarter | -14.2% |
+| Half Y | -11.7% |
 | 1Y | +51.2% |
 | YTD | +36.8% |
 
@@ -68,7 +68,7 @@ TechnipFMC plc engages in the oil and natural gas projects, technologies, system
 | Revenue (ttm) | $10.67B | Revenue growth 9.40% y/y |
 | Profitability | Gross 23.60%, operating 17.77%, net 12.04% | ROA 10.08%, ROE 38.30% |
 | Balance sheet | Cash $1.05B, debt $1.30B | Current ratio 1.09, debt/equity 38.93 |
-| Valuation | P/E 20.31, forward P/E 17.21, P/S 2.35, P/B 7.56 | EV/Sales 2.36, EV/EBITDA 12.11 |
+| Valuation | P/E 20.30, forward P/E 17.20, P/S 2.35, P/B 7.56 | EV/Sales 2.36, EV/EBITDA 12.11 |
 | Growth expectations | Earnings growth 40.00%, EPS q/q 35.10% | Analyst mean target $77.14 (22 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -110,18 +110,18 @@ TechnipFMC plc engages in the oil and natural gas projects, technologies, system
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $64.59 | EV/Sales | 2.36 |
+| Price | $64.57 | EV/Sales | 2.36 |
 | Market cap | $25.11B | EV/EBITDA | 12.11 |
 | Beta | 0.85 | Gross margin | 23.60% |
-| RSI(14) | 41.0 | Operating margin | 17.77% |
+| RSI(14) | 40.9 | Operating margin | 17.77% |
 | ATR(14) | 2.61 | Profit margin | 12.04% |
-| SMA20 dist | -4.57% | ROA | 10.08% |
-| SMA50 dist | -8.60% | ROE | 38.30% |
-| SMA200 dist | -7.15% | Revenue (ttm) | $10.67B |
+| SMA20 dist | -4.60% | ROA | 10.08% |
+| SMA50 dist | -8.63% | ROE | 38.30% |
+| SMA200 dist | -7.19% | Revenue (ttm) | $10.67B |
 | 52W high | $80.08 | Revenue growth y/y | 9.40% |
 | 52W low | $42.59 | Inst. ownership | 102.09% |
-| P/E (ttm) | 20.31 | Insider ownership | 1.57% |
-| Forward P/E | 17.21 | Short float | 3.87% |
+| P/E (ttm) | 20.30 | Insider ownership | 1.57% |
+| Forward P/E | 17.20 | Short float | 3.87% |
 | PEG (trailing) | — | Avg volume | 2,877,235 |
 | P/S | 2.35 | Employees | 21,975 |
 | P/B | 7.56 | Analyst rec (1=buy..5=sell) | 1.9 |

@@ -4,8 +4,8 @@ Signed file: `DUK.research.10.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $128.93 (2026-11-10, ~15-min delayed) |
-| Market cap | $100.53B |
+| Current price | $128.94 (2026-11-10, ~15-min delayed) |
+| Market cap | $100.54B |
 | Sector / Industry | Utilities / Utilities - Regulated Electric |
 | Main theme | Utilities - Regulated Electric — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,7 +15,7 @@ Signed file: `DUK.research.10.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +7.92%; price +4.43% vs SMA200. |
+| Technical momentum | Moderate | 1Y +7.93%; price +4.44% vs SMA200. |
 | Fresh setup quality | Watch | -1.70% from 52w high and near SMA20 — check for a tight base. |
 | Fundamental quality | Mixed | Profit margin 16.16%, revenue growth 6.60%. |
 | Value attractiveness | Reasonable | Forward P/E 17.99, EV/Sales 5.88. |
@@ -44,9 +44,9 @@ Duke Energy Corporation, through its subsidiaries, operates as an energy company
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $128.93; 52w high $131.16 (-1.70%); 52w low $111.09 (+16.06%) |
-| Trend | +4.43% vs SMA200, +7.29% vs SMA50, +3.27% vs SMA20 |
-| Momentum | RSI(14) 64.5 (neutral) |
+| Price vs 52-week range | Close $128.94; 52w high $131.16 (-1.70%); 52w low $111.09 (+16.07%) |
+| Trend | +4.44% vs SMA200, +7.30% vs SMA50, +3.27% vs SMA20 |
+| Momentum | RSI(14) 64.6 (neutral) |
 | Volatility | ATR(14) 2.29 (~1.8% of price); beta 0.31 |
 | Setup perspective | -1.70% from 52w high and near SMA20 — check for a tight base. |
 
@@ -110,14 +110,14 @@ Duke Energy Corporation, through its subsidiaries, operates as an energy company
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $128.93 | EV/Sales | 5.88 |
-| Market cap | $100.53B | EV/EBITDA | 11.72 |
+| Price | $128.94 | EV/Sales | 5.88 |
+| Market cap | $100.54B | EV/EBITDA | 11.72 |
 | Beta | 0.31 | Gross margin | 52.58% |
-| RSI(14) | 64.5 | Operating margin | 30.03% |
+| RSI(14) | 64.6 | Operating margin | 30.03% |
 | ATR(14) | 2.29 | Profit margin | 16.16% |
 | SMA20 dist | +3.27% | ROA | 2.92% |
-| SMA50 dist | +7.29% | ROE | 10.10% |
-| SMA200 dist | +4.43% | Revenue (ttm) | $33.37B |
+| SMA50 dist | +7.30% | ROE | 10.10% |
+| SMA200 dist | +4.44% | Revenue (ttm) | $33.37B |
 | 52W high | $131.16 | Revenue growth y/y | 6.60% |
 | 52W low | $111.09 | Inst. ownership | 71.20% |
 | P/E (ttm) | 18.91 | Insider ownership | 0.13% |

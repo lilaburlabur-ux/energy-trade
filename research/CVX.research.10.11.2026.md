@@ -4,8 +4,8 @@ Signed file: `CVX.research.10.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $211.55 (2026-11-10, ~15-min delayed) |
-| Market cap | $412.79B |
+| Current price | $211.24 (2026-11-10, ~15-min delayed) |
+| Market cap | $412.18B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,10 +15,10 @@ Signed file: `CVX.research.10.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +41.84%; price +9.51% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -10.18% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +41.64%; price +9.35% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -10.31% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 11.92%, revenue growth 34.80%. |
-| Value attractiveness | Reasonable | Forward P/E 12.82, EV/Sales 1.93. |
+| Value attractiveness | Reasonable | Forward P/E 12.81, EV/Sales 1.93. |
 | Risk level | Moderate | Beta 0.45, ATR 2.5% of price, short float 1.32%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -36,30 +36,30 @@ Chevron Corporation, through its subsidiaries, engages in the integrated energy 
 
 | Headline | Source | Date |
 |---|---|---|
+| Worried About a Market Crash? These 3 High-Yielding Stocks Can Be Safe Long-Term Options | Motley Fool | 2026-11-10 |
 | Can Chevron's $13.8B Vaca Muerta Bet Fuel Long-Term Growth? | Zacks | 2026-11-10 |
 | Oil Prices Just Fell to Their Lowest Since August as Trump Says the Iran War Is ‘Effectively Over’ | 24/7 Wall St. | 2026-11-10 |
 | Chevron Expands Namibia Ties With QatarEnergy Offshore Stake Deal | Zacks | 2026-11-10 |
-| Is Chevron Stock A Real Bargain? | Trefis | 2026-11-10 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $211.55; 52w high $235.52 (-10.18%); 52w low $142.76 (+48.18%) |
-| Trend | +9.51% vs SMA200, -1.69% vs SMA50, -5.50% vs SMA20 |
-| Momentum | RSI(14) 40.0 (neutral) |
+| Price vs 52-week range | Close $211.24; 52w high $235.52 (-10.31%); 52w low $142.76 (+47.97%) |
+| Trend | +9.35% vs SMA200, -1.83% vs SMA50, -5.63% vs SMA20 |
+| Momentum | RSI(14) 39.6 (neutral) |
 | Volatility | ATR(14) 5.35 (~2.5% of price); beta 0.45 |
-| Setup perspective | -10.18% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -10.31% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -6.1% |
-| Month | -1.6% |
-| Quarter | +8.5% |
-| Half Y | +15.8% |
-| 1Y | +41.8% |
-| YTD | +39.5% |
+| Week | -6.2% |
+| Month | -1.7% |
+| Quarter | +8.4% |
+| Half Y | +15.6% |
+| 1Y | +41.6% |
+| YTD | +39.3% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Chevron Corporation, through its subsidiaries, engages in the integrated energy 
 | Revenue (ttm) | $226.26B | Revenue growth 34.80% y/y |
 | Profitability | Gross 44.38%, operating 17.89%, net 11.92% | ROA 6.47%, ROE 13.85% |
 | Balance sheet | Cash $12.80B, debt $33.53B | Current ratio 1.34, debt/equity 16.77 |
-| Valuation | P/E 15.53, forward P/E 12.82, P/S 1.82, P/B 2.12 | EV/Sales 1.93, EV/EBITDA 7.53 |
+| Valuation | P/E 15.51, forward P/E 12.81, P/S 1.82, P/B 2.12 | EV/Sales 1.93, EV/EBITDA 7.53 |
 | Growth expectations | Earnings growth 178.00%, EPS q/q 180.40% | Analyst mean target $243.46 (24 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -109,18 +109,18 @@ Chevron Corporation, through its subsidiaries, engages in the integrated energy 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $211.55 | EV/Sales | 1.93 |
-| Market cap | $412.79B | EV/EBITDA | 7.53 |
+| Price | $211.24 | EV/Sales | 1.93 |
+| Market cap | $412.18B | EV/EBITDA | 7.53 |
 | Beta | 0.45 | Gross margin | 44.38% |
-| RSI(14) | 40.0 | Operating margin | 17.89% |
+| RSI(14) | 39.6 | Operating margin | 17.89% |
 | ATR(14) | 5.35 | Profit margin | 11.92% |
-| SMA20 dist | -5.50% | ROA | 6.47% |
-| SMA50 dist | -1.69% | ROE | 13.85% |
-| SMA200 dist | +9.51% | Revenue (ttm) | $226.26B |
+| SMA20 dist | -5.63% | ROA | 6.47% |
+| SMA50 dist | -1.83% | ROE | 13.85% |
+| SMA200 dist | +9.35% | Revenue (ttm) | $226.26B |
 | 52W high | $235.52 | Revenue growth y/y | 34.80% |
 | 52W low | $142.76 | Inst. ownership | 71.80% |
-| P/E (ttm) | 15.53 | Insider ownership | 4.79% |
-| Forward P/E | 12.82 | Short float | 1.32% |
+| P/E (ttm) | 15.51 | Insider ownership | 4.79% |
+| Forward P/E | 12.81 | Short float | 1.32% |
 | PEG (trailing) | 0.79 | Avg volume | 8,418,081 |
 | P/S | 1.82 | Employees | 43,039 |
 | P/B | 2.12 | Analyst rec (1=buy..5=sell) | 1.6 |

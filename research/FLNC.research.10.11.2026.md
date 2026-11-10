@@ -5,7 +5,7 @@ Signed file: `FLNC.research.10.11.2026`
 | Field | Value |
 |---|---|
 | Current price | $4.91 (2026-11-10, ~15-min delayed) |
-| Market cap | $954.82M |
+| Market cap | $955.79M |
 | Sector / Industry | Industrials / Electrical Equipment & Parts |
 | Main theme | Electrical Equipment & Parts — see catalysts below |
 | Current stance | Low technical momentum, weak fundamentals, value: reasonable, risk: high. |
@@ -15,8 +15,8 @@ Signed file: `FLNC.research.10.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-66.72%) with negative half-year (-76.95%). |
-| Fresh setup quality | Poor / broken | -84.78% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-66.69%) with negative half-year (-76.93%). |
+| Fresh setup quality | Poor / broken | -84.77% from 52w high — base needs to rebuild. |
 | Fundamental quality | Weak | Negative profit margin (-3.07%). |
 | Value attractiveness | Reasonable | Forward P/E -9.25, EV/Sales 0.34. |
 | Risk level | High | Beta 2.79, ATR 11.1% of price, short float 47.26%. |
@@ -44,20 +44,20 @@ Fluence Energy, Inc., through its subsidiaries, provides energy storage and opti
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $4.91; 52w high $32.23 (-84.78%); 52w low $4.91 (+0.00%) |
-| Trend | -66.72% vs SMA200, -33.23% vs SMA50, -14.30% vs SMA20 |
+| Price vs 52-week range | Close $4.91; 52w high $32.23 (-84.77%); 52w low $4.91 (+0.00%) |
+| Trend | -66.69% vs SMA200, -33.17% vs SMA50, -14.22% vs SMA20 |
 | Momentum | RSI(14) 34.7 (neutral) |
 | Volatility | ATR(14) 0.55 (~11.1% of price); beta 2.79 |
-| Setup perspective | -84.78% from 52w high — base needs to rebuild. |
+| Setup perspective | -84.77% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -10.8% |
+| Week | -10.7% |
 | Month | -30.6% |
 | Quarter | -62.8% |
-| Half Y | -77.0% |
+| Half Y | -76.9% |
 | 1Y | -76.4% |
 | YTD | -78.7% |
 
@@ -114,13 +114,13 @@ Fluence Energy, Inc., through its subsidiaries, provides energy storage and opti
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $4.91 | EV/Sales | 0.34 |
-| Market cap | $954.82M | EV/EBITDA | -11.61 |
+| Market cap | $955.79M | EV/EBITDA | -11.61 |
 | Beta | 2.79 | Gross margin | 9.36% |
 | RSI(14) | 34.7 | Operating margin | -8.85% |
 | ATR(14) | 0.55 | Profit margin | -3.07% |
-| SMA20 dist | -14.30% | ROA | -2.95% |
-| SMA50 dist | -33.23% | ROE | -23.54% |
-| SMA200 dist | -66.72% | Revenue (ttm) | $2.63B |
+| SMA20 dist | -14.22% | ROA | -2.95% |
+| SMA50 dist | -33.17% | ROE | -23.54% |
+| SMA200 dist | -66.69% | Revenue (ttm) | $2.63B |
 | 52W high | $32.23 | Revenue growth y/y | 7.90% |
 | 52W low | $4.91 | Inst. ownership | 84.43% |
 | P/E (ttm) | — | Insider ownership | 14.43% |
