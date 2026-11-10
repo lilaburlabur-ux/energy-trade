@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-10T10:57:03+00:00",
-  "as_of_local": "2026-11-10 10:57:03 UTC",
+  "as_of_utc": "2026-11-10T11:01:59+00:00",
+  "as_of_local": "2026-11-10 11:01:59 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -13,6 +13,12 @@
       "market_cap": 671970295771.8015,
       "headlines": [
         {
+          "title": "Market Chatter: Exxon Mobil Signs MoU With Venezuela to Evaluate Oil Investment Opportunities",
+          "url": "https://finance.yahoo.com/energy/articles/market-chatter-exxon-mobil-signs-105240626.html",
+          "publisher": "MT Newswires",
+          "published": "2026-11-10T10:52:40Z"
+        },
+        {
           "title": "Exxon Takes First Step Toward Investing in Venezuela",
           "url": "https://www.wsj.com/business/energy-oil/exxon-takes-first-step-toward-investing-in-venezuela-f8e0f5e0?siteid=yhoof2&yptr=yahoo",
           "publisher": "The Wall Street Journal",
@@ -23,12 +29,6 @@
           "url": "https://finance.yahoo.com/energy/articles/exxon-chevron-near-record-highs-233500920.html",
           "publisher": "Motley Fool",
           "published": "2026-11-09T23:35:00Z"
-        },
-        {
-          "title": "Exxon Mobil Stocks Move Lower 0.31% as Crude Slides Toward $87",
-          "url": "https://finance.yahoo.com/energy/articles/exxon-mobil-stocks-move-lower-190037292.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-09T19:00:37Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 85.25,
-      "change_pct": -1.84
+      "price": 85.4,
+      "change_pct": -1.67
     },
     {
       "label": "Brent",
-      "price": 90.5,
-      "change_pct": -2.24
+      "price": 90.73,
+      "change_pct": -1.99
     },
     {
       "label": "NatGas",
-      "price": 3.24,
-      "change_pct": 0.84
+      "price": 3.25,
+      "change_pct": 0.96
     }
   ]
 }
