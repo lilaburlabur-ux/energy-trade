@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-10T21:19:28+00:00",
-  "as_of_local": "2026-11-10 21:19:28 UTC",
+  "as_of_utc": "2026-11-10T21:22:00+00:00",
+  "as_of_local": "2026-11-10 21:22:00 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -261,7 +261,7 @@
       "name": "Southern Company",
       "price": 93.65,
       "previous_close": 93.57,
-      "change_pct": 0.1,
+      "change_pct": 0.09,
       "market_cap": 109033047142.37134,
       "headlines": [
         {
@@ -1581,6 +1581,12 @@
       "market_cap": 5585315770.174444,
       "headlines": [
         {
+          "title": "NexGen Energy Q3 Earnings Call Highlights",
+          "url": "https://finance.yahoo.com/energy/articles/nexgen-energy-q3-earnings-call-211522225.html",
+          "publisher": "MarketBeat",
+          "published": "2026-11-10T21:15:22Z"
+        },
+        {
           "title": "NexGen Energy (NXE) Q3 2026 Earnings Call Transcript",
           "url": "https://finance.yahoo.com/markets/stocks/articles/nexgen-energy-nxe-q3-2026-182028615.html",
           "publisher": "Motley Fool",
@@ -1591,12 +1597,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/nexgen-energy-q3-earnings-snapshot-232324648.html",
           "publisher": "Associated Press",
           "published": "2026-11-09T23:23:24Z"
-        },
-        {
-          "title": "Oil, Uranium, or Renewables? 3 Energy Plays for a Changing Market",
-          "url": "https://finance.yahoo.com/energy/articles/oil-uranium-renewables-3-energy-174500461.html",
-          "publisher": "MarketBeat",
-          "published": "2026-11-05T17:45:00Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 86.29,
-      "change_pct": -0.64
+      "price": 86.34,
+      "change_pct": -0.59
     },
     {
       "label": "Brent",
-      "price": 91.91,
-      "change_pct": -0.71
+      "price": 91.92,
+      "change_pct": -0.7
     },
     {
       "label": "NatGas",
       "price": 3.31,
-      "change_pct": 2.86
+      "change_pct": 2.7
     }
   ]
 }
