@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-10T21:42:18+00:00",
-  "as_of_local": "2026-11-10 21:42:18 UTC",
+  "as_of_utc": "2026-11-10T21:47:10+00:00",
+  "as_of_local": "2026-11-10 21:47:10 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "HUBB"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -825,6 +827,12 @@
       "market_cap": 56879367935.22558,
       "headlines": [
         {
+          "title": "Enbridge vs. Occidental Petroleum: Does a Midstream or Upstream Energy Focus Make for a Better Stock Buy for 2027?",
+          "url": "https://finance.yahoo.com/energy/articles/enbridge-vs-occidental-petroleum-does-213202397.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-10T21:32:02Z"
+        },
+        {
           "title": "Occidental's Debt Reduction, Carbon Strategy Support Outlook, UBS Says",
           "url": "https://finance.yahoo.com/energy/articles/occidental-apos-debt-reduction-carbon-203207354.html",
           "publisher": "MT Newswires",
@@ -835,12 +843,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/occidental-petroleum-earnings-look-oxy-175736497.html",
           "publisher": "StockStory",
           "published": "2026-11-10T17:57:36Z"
-        },
-        {
-          "title": "Should You Buy Exxon Mobil Stock For Its Cash?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/buy-exxon-mobil-stock-cash-130526725.html",
-          "publisher": "Trefis",
-          "published": "2026-11-10T13:05:26Z"
         }
       ]
     },
@@ -1177,34 +1179,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-baker-hughes-stock-falling-141921435.html",
           "publisher": "Trefis",
           "published": "2026-11-06T14:19:21Z"
-        }
-      ]
-    },
-    {
-      "symbol": "HUBB",
-      "name": "Hubbell",
-      "price": 437.79,
-      "previous_close": 441.57,
-      "change_pct": -0.86,
-      "market_cap": 23130650424.121246,
-      "headlines": [
-        {
-          "title": "Hubbell: 3 Key Takeaways for Long-Term Investors",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/hubbell-3-key-takeaways-long-232002420.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-08T23:20:02Z"
-        },
-        {
-          "title": "3 Value Dividend Stocks To Watch As Rate Cut Hopes Fade",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-value-dividend-stocks-watch-191455855.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-07T19:14:55Z"
-        },
-        {
-          "title": "What Should Eaton Stock Holders Take From The September Quarter?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/eaton-stock-holders-september-quarter-231057575.html",
-          "publisher": "Trefis",
-          "published": "2026-11-06T23:10:57Z"
         }
       ]
     },
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 86.4,
-      "change_pct": -0.52
+      "price": 86.46,
+      "change_pct": -0.45
     },
     {
       "label": "Brent",
-      "price": 91.93,
-      "change_pct": -0.69
+      "price": 91.99,
+      "change_pct": -0.63
     },
     {
       "label": "NatGas",
       "price": 3.3,
-      "change_pct": 2.67
+      "change_pct": 2.64
     }
   ]
 }
