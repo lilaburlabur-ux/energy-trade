@@ -1,7 +1,7 @@
 {
  "meta": {
   "source": "Energy Trade curated universe (seed_energy_universe.py)",
-  "as_of": "2026-11-10 11:32 UTC",
+  "as_of": "2026-11-10 11:37 UTC",
   "total_tickers": 67,
   "min_bubble_size": 7,
   "render_spec": {
@@ -18,8 +18,8 @@
    "label": "Oil & Gas Majors",
    "color": "#E8A33D",
    "count": 8,
-   "total_market_cap_b": 2020.2,
-   "avg_change_pct": -0.79,
+   "total_market_cap_b": 2020.76,
+   "avg_change_pct": -0.77,
    "industries_included": [
     "Oil & Gas E&P",
     "Oil & Gas Integrated"
@@ -82,10 +82,10 @@
      "sector": "Energy",
      "industry": "Oil & Gas Integrated",
      "country": "United States",
-     "market_cap_b": 421.49,
+     "market_cap_b": 421.97,
      "pe": 15.48,
-     "price": 209.78,
-     "change_pct": -0.47,
+     "price": 210.02,
+     "change_pct": -0.36,
      "volume": 9396900,
      "perf": {
       "1W": -7.5,
@@ -133,10 +133,10 @@
      "sector": "Energy",
      "industry": "Oil & Gas Integrated",
      "country": "United Kingdom",
-     "market_cap_b": 272.54,
+     "market_cap_b": 272.62,
      "pe": 8.58,
-     "price": 97.71,
-     "change_pct": -1.18,
+     "price": 97.74,
+     "change_pct": -1.15,
      "volume": 5474417,
      "perf": {
       "1W": -5.8,
@@ -1660,8 +1660,8 @@
    "label": "Refining & Downstream",
    "color": "#B65D32",
    "count": 4,
-   "total_market_cap_b": 330.93,
-   "avg_change_pct": -0.91,
+   "total_market_cap_b": 331.37,
+   "avg_change_pct": -0.78,
    "industries_included": [
     "Oil & Gas Refining & Marketing"
    ],
@@ -1672,10 +1672,10 @@
      "sector": "Energy",
      "industry": "Oil & Gas Refining & Marketing",
      "country": "United States",
-     "market_cap_b": 111.98,
+     "market_cap_b": 112.42,
      "pe": 7.72,
-     "price": 384.22,
-     "change_pct": -1.45,
+     "price": 385.74,
+     "change_pct": -1.06,
      "volume": 2665500,
      "perf": {
       "1W": -9.4,
@@ -1871,7 +1871,7 @@
      "fwd_eps": 17.85
     }
    ],
-   "median_change_pct": -0.69,
+   "median_change_pct": -0.56,
    "pe_hm": 7.7
   },
   {
@@ -3053,8 +3053,8 @@
      "country": "United States",
      "market_cap_b": 1.13,
      "pe": null,
-     "price": 5.45,
-     "change_pct": 0.93,
+     "price": 5.44,
+     "change_pct": 0.74,
      "volume": 5431700,
      "perf": {
       "1W": 3.6,
