@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-10T13:29:33+00:00",
-  "as_of_local": "2026-11-10 13:29:33 UTC",
+  "as_of_utc": "2026-11-10T13:34:23+00:00",
+  "as_of_local": "2026-11-10 13:34:23 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -209,6 +209,12 @@
       "market_cap": 139588045257.56836,
       "headlines": [
         {
+          "title": "Which Dates Could Move Honeywell Stock Most?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/dates-could-move-honeywell-stock-131130919.html",
+          "publisher": "Trefis",
+          "published": "2026-11-10T13:11:30Z"
+        },
+        {
           "title": "Industrials Push Stock Indexes to Broad-Based Rally",
           "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-09-2026/card/industrials-push-stock-indexes-to-broad-based-rally-9byZnVAbDSw1nB5gbvdD?siteid=yhoof2&yptr=yahoo",
           "publisher": "The Wall Street Journal",
@@ -219,12 +225,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/eaton-lost-23-month-rbc-193653739.html",
           "publisher": "TIKR",
           "published": "2026-11-09T19:36:53Z"
-        },
-        {
-          "title": "DraftKings downgraded, AMD upgraded: Wall Street's top analyst calls",
-          "url": "https://finance.yahoo.com/news/netflix-resumed-starbucks-downgraded-wall-133343741.html",
-          "publisher": "The Fly",
-          "published": "2026-11-09T14:35:30Z"
         }
       ]
     },
@@ -909,6 +909,12 @@
       "market_cap": 53416294294.053795,
       "headlines": [
         {
+          "title": "Entergy (ETR) Tests Valuation After Earnings And Dividend Raise",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/entergy-etr-tests-valuation-earnings-131035840.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-10T13:10:35Z"
+        },
+        {
           "title": "Is Entergy (ETR) Priced Beyond What Its Dividend Can Support?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/entergy-etr-priced-beyond-dividend-121026447.html",
           "publisher": "Simply Wall St.",
@@ -919,12 +925,6 @@
           "url": "https://finance.yahoo.com/energy/articles/ai-power-grab-could-upend-180000495.html",
           "publisher": "Oilprice.com",
           "published": "2026-11-09T18:00:00Z"
-        },
-        {
-          "title": "Entergy Mississippi (EMP) Q3 2026 Earnings Call Transcript",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/entergy-mississippi-emp-q3-2026-153058833.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-09T15:30:58Z"
         }
       ]
     },
@@ -1217,6 +1217,12 @@
       "market_cap": 20594463408.71129,
       "headlines": [
         {
+          "title": "US Stock Market Today: S&P 500 Futures Edge Higher On Key CPI Focus",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-131015557.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-10T13:10:15Z"
+        },
+        {
           "title": "Nvidia, AMD, CoreWeave, Coherent, First Solar, Trade Desk, and More Stocks That Explain Today\u2019s Market",
           "url": "https://www.barrons.com/articles/stock-movers-d80c8da0?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
@@ -1227,12 +1233,6 @@
           "url": "https://finance.yahoo.com/energy/articles/enphase-other-solar-stocks-democrats-210608500.html",
           "publisher": "Barchart",
           "published": "2026-11-09T21:06:08Z"
-        },
-        {
-          "title": "First Solar Stock Is the Worst in the S&P 500 Today. Was Blue Wave Optimism Premature?",
-          "url": "https://www.barrons.com/articles/first-solar-stock-price-9bf61d5f?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-11-09T18:47:00Z"
         }
       ]
     },
@@ -1413,6 +1413,12 @@
       "market_cap": 14957929766.588497,
       "headlines": [
         {
+          "title": "Did APA's 88% Run Pass You By? What The Bulls Got Right",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/did-apas-88-run-pass-131039350.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-10T13:10:39Z"
+        },
+        {
           "title": "APA Beats Q3 Earnings: Can Strong Momentum Drive the Stock Higher?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/apa-beats-q3-earnings-strong-152500793.html",
           "publisher": "Zacks",
@@ -1423,12 +1429,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/buy-5-non-tech-nasdaq-125600839.html",
           "publisher": "Zacks",
           "published": "2026-11-09T12:56:00Z"
-        },
-        {
-          "title": "APA Corp (APA) (Q3 2026) Earnings Call Highlights: $699 Million Free Cash Flow, Raised Outlook ...",
-          "url": "https://finance.yahoo.com/energy/articles/apa-corp-apa-q3-2026-070301873.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-09T07:03:01Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 84.81,
-      "change_pct": -2.35
+      "price": 84.8,
+      "change_pct": -2.36
     },
     {
       "label": "Brent",
-      "price": 89.97,
-      "change_pct": -2.81
+      "price": 89.94,
+      "change_pct": -2.84
     },
     {
       "label": "NatGas",
       "price": 3.26,
-      "change_pct": 1.27
+      "change_pct": 1.18
     }
   ]
 }
