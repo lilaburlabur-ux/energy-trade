@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-10T09:32:20+00:00",
-  "as_of_local": "2026-11-10 09:32:20 UTC",
+  "as_of_utc": "2026-11-10T09:37:40+00:00",
+  "as_of_local": "2026-11-10 09:37:40 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "PWR"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -449,34 +451,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/best-value-stocks-buy-november-052200444.html",
           "publisher": "Zacks",
           "published": "2026-11-09T05:22:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "PWR",
-      "name": "Quanta Services",
-      "price": 591.48,
-      "previous_close": 540.9,
-      "change_pct": 9.35,
-      "market_cap": 89122514781.68701,
-      "headlines": [
-        {
-          "title": "Arista Networks & 2 Momentum Stocks to Buy for Big Gains",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/arista-networks-2-momentum-stocks-190000524.html",
-          "publisher": "Zacks",
-          "published": "2026-11-09T19:00:00Z"
-        },
-        {
-          "title": "Can EMCOR Keep Its 10.5% Adjusted Margin as Project Volumes Scale?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/emcor-keep-10-5-adjusted-141900948.html",
-          "publisher": "Zacks",
-          "published": "2026-11-09T14:19:00Z"
-        },
-        {
-          "title": "A Fund With $4.4 Billion in US Equities Bought These 3 Stocks",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/fund-4-4-billion-us-135107188.html",
-          "publisher": "TIKR",
-          "published": "2026-11-09T13:51:07Z"
         }
       ]
     },
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 84.93,
-      "change_pct": -2.21
+      "price": 85.18,
+      "change_pct": -1.92
     },
     {
       "label": "Brent",
-      "price": 90.32,
-      "change_pct": -2.43
+      "price": 90.61,
+      "change_pct": -2.12
     },
     {
       "label": "NatGas",
-      "price": 3.23,
-      "change_pct": 0.47
+      "price": 3.24,
+      "change_pct": 0.62
     }
   ]
 }
