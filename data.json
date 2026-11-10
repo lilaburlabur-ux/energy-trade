@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-10T08:46:34+00:00",
-  "as_of_local": "2026-11-10 08:46:34 UTC",
+  "as_of_utc": "2026-11-10T08:51:57+00:00",
+  "as_of_local": "2026-11-10 08:51:57 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "WMB"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -481,34 +483,6 @@
       ]
     },
     {
-      "symbol": "WMB",
-      "name": "Williams Companies",
-      "price": 66.45,
-      "previous_close": 64.08,
-      "change_pct": 3.7,
-      "market_cap": 83075953372.8847,
-      "headlines": [
-        {
-          "title": "ETFs Are Net Sellers of Williams (WMB) on Nov. 4",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-williams-wmb-110344609.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-06T11:03:44Z"
-        },
-        {
-          "title": "What Are Wall Street Analysts' Target Price for Williams Companies Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-075605703.html",
-          "publisher": "Barchart",
-          "published": "2026-11-06T07:56:05Z"
-        },
-        {
-          "title": "A $750,000 Dividend Portfolio Could Cost You $9,000 a Year in Taxes. Here\u2019s How",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/750-000-dividend-portfolio-could-174836690.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-05T17:48:36Z"
-        }
-      ]
-    },
-    {
       "symbol": "EPD",
       "name": "Enterprise Products",
       "price": 36.7,
@@ -915,14 +889,14 @@
           "published": "2026-11-09T18:00:00Z"
         },
         {
-          "title": "Entergy Louisiana (ELC) Q3 2026 Earnings Call Transcript",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/entergy-louisiana-elc-q3-2026-153058722.html",
+          "title": "Entergy Mississippi (EMP) Q3 2026 Earnings Call Transcript",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/entergy-mississippi-emp-q3-2026-153058833.html",
           "publisher": "Motley Fool",
           "published": "2026-11-09T15:30:58Z"
         },
         {
-          "title": "Entergy Mississippi (EMP) Q3 2026 Earnings Call Transcript",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/entergy-mississippi-emp-q3-2026-153058833.html",
+          "title": "Entergy Louisiana (ELC) Q3 2026 Earnings Call Transcript",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/entergy-louisiana-elc-q3-2026-153058722.html",
           "publisher": "Motley Fool",
           "published": "2026-11-09T15:30:58Z"
         }
@@ -1033,9 +1007,9 @@
           "published": "2026-11-09T18:51:00Z"
         },
         {
-          "title": "Data-Center Moratoriums? They Aren\u2019t Showing Up in Constellation Energy\u2019s Guidance.",
-          "url": "https://www.barrons.com/articles/constellation-energy-earnings-stock-price-89dc5612?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
+          "title": "Vistra and Constellation Both Fell Sharply After the Election. One Has Far More Exposure to Texas.",
+          "url": "https://finance.yahoo.com/energy/articles/vistra-constellation-both-fell-sharply-182500253.html",
+          "publisher": "Motley Fool",
           "published": "2026-11-09T18:25:00Z"
         }
       ]
@@ -1975,8 +1949,8 @@
           "name": "Williams Companies Inc",
           "short": "Williams",
           "weight_pct": 4.12,
-          "change_pct": 3.7,
-          "price": 66.45,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -2074,8 +2048,8 @@
         "name": "Williams Companies Inc",
         "short": "Williams",
         "weight_pct": 4.12,
-        "change_pct": 3.7,
-        "price": 66.45,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 84.59,
-      "change_pct": -2.6
+      "price": 85.02,
+      "change_pct": -2.11
     },
     {
       "label": "Brent",
-      "price": 90.2,
-      "change_pct": -2.56
+      "price": 90.8,
+      "change_pct": -1.91
     },
     {
       "label": "NatGas",
-      "price": 3.22,
-      "change_pct": 0.0
+      "price": 3.21,
+      "change_pct": -0.09
     }
   ]
 }
