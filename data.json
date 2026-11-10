@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-10T12:43:43+00:00",
-  "as_of_local": "2026-11-10 12:43:43 UTC",
+  "as_of_utc": "2026-11-10T12:48:40+00:00",
+  "as_of_local": "2026-11-10 12:48:40 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "CVX"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -29,34 +31,6 @@
           "url": "https://finance.yahoo.com/energy/articles/exxon-chevron-near-record-highs-233500920.html",
           "publisher": "Motley Fool",
           "published": "2026-11-09T23:35:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "CVX",
-      "name": "Chevron",
-      "price": 210.78,
-      "previous_close": 212.61,
-      "change_pct": -0.86,
-      "market_cap": 411285249553.1785,
-      "headlines": [
-        {
-          "title": "3 Dividend Stocks To Own In November 2026",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-dividend-stocks-own-november-121253829.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-10T12:12:53Z"
-        },
-        {
-          "title": "QatarEnergy to acquire 25% stake in Namibia\u2019s PEL82 licence",
-          "url": "https://finance.yahoo.com/news/qatarenergy-acquire-25-stake-namibia-110338806.html",
-          "publisher": "Offshore Technology",
-          "published": "2026-11-10T11:03:38Z"
-        },
-        {
-          "title": "Sintana Energy: Qatar Energy farms into Namibia project in deal with Chevron",
-          "url": "https://finance.yahoo.com/news/sintana-energy-qatar-energy-farms-072400740.html",
-          "publisher": "Proactive",
-          "published": "2026-11-10T07:24:00Z"
         }
       ]
     },
@@ -1930,8 +1904,8 @@
           "name": "Chevron Corp",
           "short": "Chevron",
           "weight_pct": 18.29,
-          "change_pct": -0.86,
-          "price": 210.78,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -2029,8 +2003,8 @@
         "name": "Chevron Corp",
         "short": "Chevron",
         "weight_pct": 18.29,
-        "change_pct": -0.86,
-        "price": 210.78,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 85.24,
-      "change_pct": -1.85
+      "price": 84.9,
+      "change_pct": -2.25
     },
     {
       "label": "Brent",
-      "price": 90.56,
-      "change_pct": -2.17
+      "price": 89.93,
+      "change_pct": -2.85
     },
     {
       "label": "NatGas",
       "price": 3.27,
-      "change_pct": 1.55
+      "change_pct": 1.46
     }
   ]
 }
