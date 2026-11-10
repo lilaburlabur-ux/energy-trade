@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-10T08:51:57+00:00",
-  "as_of_local": "2026-11-10 08:51:57 UTC",
+  "as_of_utc": "2026-11-10T08:56:48+00:00",
+  "as_of_local": "2026-11-10 08:56:48 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "WMB"
+    "PR"
   ],
   "stocks": [
     {
@@ -479,6 +479,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/fund-4-4-billion-us-135107188.html",
           "publisher": "TIKR",
           "published": "2026-11-09T13:51:07Z"
+        }
+      ]
+    },
+    {
+      "symbol": "WMB",
+      "name": "Williams Companies",
+      "price": 66.45,
+      "previous_close": 64.08,
+      "change_pct": 3.7,
+      "market_cap": 83075953372.8847,
+      "headlines": [
+        {
+          "title": "ETFs Are Net Sellers of Williams (WMB) on Nov. 4",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-williams-wmb-110344609.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-06T11:03:44Z"
+        },
+        {
+          "title": "What Are Wall Street Analysts' Target Price for Williams Companies Stock?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-075605703.html",
+          "publisher": "Barchart",
+          "published": "2026-11-06T07:56:05Z"
+        },
+        {
+          "title": "A $750,000 Dividend Portfolio Could Cost You $9,000 a Year in Taxes. Here\u2019s How",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/750-000-dividend-portfolio-could-174836690.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-05T17:48:36Z"
         }
       ]
     },
@@ -1239,34 +1267,6 @@
       ]
     },
     {
-      "symbol": "PR",
-      "name": "Permian Resources",
-      "price": 21.52,
-      "previous_close": 21.75,
-      "change_pct": -1.06,
-      "market_cap": 18049379556.8982,
-      "headlines": [
-        {
-          "title": "The Oil Slump Has Gone Too Far. Where Prices Could Go Next.",
-          "url": "https://www.barrons.com/articles/oil-prices-stocks-fall-where-they-could-go-next-0162a3c2?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-11-09T10:55:00Z"
-        },
-        {
-          "title": "The top 5 analyst questions from Permian Resources\u2019s Q3 2026 earnings call",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-permian-220536252.html",
-          "publisher": "StockStory",
-          "published": "2026-11-08T22:05:36Z"
-        },
-        {
-          "title": "Permian Resources Q3 Earnings Call Highlights",
-          "url": "https://finance.yahoo.com/energy/articles/permian-resources-q3-earnings-call-051413053.html",
-          "publisher": "MarketBeat",
-          "published": "2026-11-08T05:14:13Z"
-        }
-      ]
-    },
-    {
       "symbol": "DINO",
       "name": "HF Sinclair",
       "price": 99.76,
@@ -1949,8 +1949,8 @@
           "name": "Williams Companies Inc",
           "short": "Williams",
           "weight_pct": 4.12,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": 3.7,
+          "price": 66.45,
           "currency": "USD"
         },
         {
@@ -2048,8 +2048,8 @@
         "name": "Williams Companies Inc",
         "short": "Williams",
         "weight_pct": 4.12,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": 3.7,
+        "price": 66.45,
         "currency": "USD"
       },
       {
@@ -2089,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 85.02,
-      "change_pct": -2.11
+      "price": 84.85,
+      "change_pct": -2.3
     },
     {
       "label": "Brent",
-      "price": 90.8,
-      "change_pct": -1.91
+      "price": 90.45,
+      "change_pct": -2.29
     },
     {
       "label": "NatGas",
-      "price": 3.21,
-      "change_pct": -0.09
+      "price": 3.22,
+      "change_pct": 0.03
     }
   ]
 }
