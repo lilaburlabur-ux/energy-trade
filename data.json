@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-10T12:18:17+00:00",
-  "as_of_local": "2026-11-10 12:18:17 UTC",
+  "as_of_utc": "2026-11-10T12:23:11+00:00",
+  "as_of_local": "2026-11-10 12:23:11 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "TLN"
+    "SHEL"
   ],
   "stocks": [
     {
@@ -59,34 +59,6 @@
           "url": "https://finance.yahoo.com/energy/articles/sintana-energy-qatar-energy-farms-072400701.html",
           "publisher": "Proactive",
           "published": "2026-11-10T07:24:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "SHEL",
-      "name": "Shell",
-      "price": 98.88,
-      "previous_close": 99.09,
-      "change_pct": -0.21,
-      "market_cap": 279897052968.3612,
-      "headlines": [
-        {
-          "title": "3 British Undervalued Stocks Trading Up To 45% Below Cash Flow Value",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-british-undervalued-stocks-trading-181134707.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-09T18:11:34Z"
-        },
-        {
-          "title": "Is Shell (SHEL) Stock Undervalued Right Now?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/shell-shel-stock-undervalued-now-134003766.html",
-          "publisher": "Zacks",
-          "published": "2026-11-09T13:40:03Z"
-        },
-        {
-          "title": "BP Completes $6B Castrol Stake Sale: A Boost to Its Balance Sheet?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bp-completes-6b-castrol-stake-125500970.html",
-          "publisher": "Zacks",
-          "published": "2026-11-09T12:55:00Z"
         }
       ]
     },
@@ -1351,6 +1323,34 @@
       ]
     },
     {
+      "symbol": "TLN",
+      "name": "Talen Energy",
+      "price": 363.13,
+      "previous_close": 338.64,
+      "change_pct": 7.23,
+      "market_cap": 15798084158.988281,
+      "headlines": [
+        {
+          "title": "NRG Soars 10% on $4 Billion Gas Plant Sale and $3 Billion Buyback Plan: \u201cUnlocking Substantial Value\u201d",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nrg-soars-10-4-billion-221526956.html",
+          "publisher": "TIKR",
+          "published": "2026-11-09T22:15:26Z"
+        },
+        {
+          "title": "Shortage of Turbines Drives Market for Second-Hand Market for AI Data Centers",
+          "url": "https://finance.yahoo.com/energy/articles/shortage-turbines-drives-market-second-164700628.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-09T16:47:00Z"
+        },
+        {
+          "title": "Vistra Q3 Earnings Call Highlights",
+          "url": "https://finance.yahoo.com/energy/articles/vistra-q3-earnings-call-highlights-061409505.html",
+          "publisher": "MarketBeat",
+          "published": "2026-11-08T06:14:09Z"
+        }
+      ]
+    },
+    {
       "symbol": "NXT",
       "name": "Nextracker",
       "price": 104.89,
@@ -2089,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 85.21,
-      "change_pct": -1.89
+      "price": 85.12,
+      "change_pct": -1.99
     },
     {
       "label": "Brent",
-      "price": 90.52,
-      "change_pct": -2.21
+      "price": 90.37,
+      "change_pct": -2.38
     },
     {
       "label": "NatGas",
       "price": 3.27,
-      "change_pct": 1.49
+      "change_pct": 1.68
     }
   ]
 }
