@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-10T22:48:16+00:00",
-  "as_of_local": "2026-11-10 22:48:16 UTC",
+  "as_of_utc": "2026-11-10T22:53:17+00:00",
+  "as_of_local": "2026-11-10 22:53:17 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "NRG"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1211,6 +1209,34 @@
       ]
     },
     {
+      "symbol": "NRG",
+      "name": "NRG Energy",
+      "price": 97.11,
+      "previous_close": 97.4,
+      "change_pct": -0.3,
+      "market_cap": 20391441877.803406,
+      "headlines": [
+        {
+          "title": "NRG Q3 Earnings Call Focuses on Asset Sale and 2027 Outlook",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nrg-q3-earnings-call-focuses-191200587.html",
+          "publisher": "Zacks",
+          "published": "2026-11-10T19:12:00Z"
+        },
+        {
+          "title": "Constellation and Vistra Get the Headlines. These 2 Power Producers Barely Get Mentioned.",
+          "url": "https://finance.yahoo.com/energy/articles/constellation-vistra-headlines-2-power-170500740.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-10T17:05:00Z"
+        },
+        {
+          "title": "NRG Energy, Inc. (NRG) Secured a 15-Year Hyperscaler Contract: Could AI Power Demand Drive Its Growth?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nrg-energy-inc-nrg-secured-161747138.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-11-10T16:17:47Z"
+        }
+      ]
+    },
+    {
       "symbol": "FSLR",
       "name": "First Solar",
       "price": 180.98,
@@ -1835,6 +1861,12 @@
       "market_cap": 702933195.2349701,
       "headlines": [
         {
+          "title": "Gevo, Inc. (GEVO) Q3 Earnings and Revenues Beat Estimates",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/gevo-inc-gevo-q3-earnings-214002018.html",
+          "publisher": "Zacks",
+          "published": "2026-11-10T21:40:02Z"
+        },
+        {
           "title": "Hallador Energy (HNRG) Reports Break-Even Earnings for Q3",
           "url": "https://finance.yahoo.com/markets/stocks/articles/hallador-energy-hnrg-reports-break-223505693.html",
           "publisher": "Zacks",
@@ -1845,12 +1877,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/bulls-got-wrong-fluence-energy-181531924.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-07T18:15:31Z"
-        },
-        {
-          "title": "Is Fluence Energy (FLNC) A Bargain After Its Leadership Reset?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/fluence-energy-flnc-bargain-leadership-070952651.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-07T07:09:52Z"
         }
       ]
     },
