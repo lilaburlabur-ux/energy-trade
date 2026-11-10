@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-10T23:46:04+00:00",
-  "as_of_local": "2026-11-10 23:46:04 UTC",
+  "as_of_utc": "2026-11-10T23:50:54+00:00",
+  "as_of_local": "2026-11-10 23:50:54 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "NEE"
+    "VST"
   ],
   "stocks": [
     {
@@ -143,6 +143,34 @@
           "url": "https://finance.yahoo.com/energy/articles/investors-may-respond-totalenergies-enxtpa-190944934.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-08T19:09:44Z"
+        }
+      ]
+    },
+    {
+      "symbol": "NEE",
+      "name": "NextEra Energy",
+      "price": 86.27,
+      "previous_close": 86.86,
+      "change_pct": -0.68,
+      "market_cap": 180934585806.71286,
+      "headlines": [
+        {
+          "title": "People Pay the Power Bill Before Almost Anything Else. $45,000 in Each of These 3 Utilities Pays $5,915 a Year",
+          "url": "https://finance.yahoo.com/news/people-pay-power-bill-almost-221425733.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-09T22:14:25Z"
+        },
+        {
+          "title": "Can DTE Energy Stock Jump 40%?",
+          "url": "https://finance.yahoo.com/energy/articles/dte-energy-stock-jump-40-124601912.html",
+          "publisher": "Trefis",
+          "published": "2026-11-09T12:46:01Z"
+        },
+        {
+          "title": "State Street Utilities SPDR (XLU) Sells NextEra and Southern on Nov. 5",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/state-street-utilities-spdr-xlu-110534996.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-09T11:05:34Z"
         }
       ]
     },
@@ -983,34 +1011,6 @@
           "url": "https://finance.yahoo.com/energy/articles/venture-global-ceo-eyes-growth-133349752.html",
           "publisher": "Stocktwits",
           "published": "2026-11-10T13:33:49Z"
-        }
-      ]
-    },
-    {
-      "symbol": "VST",
-      "name": "Vistra",
-      "price": 131.18,
-      "previous_close": 133.92,
-      "change_pct": -2.05,
-      "market_cap": 44521792030.1391,
-      "headlines": [
-        {
-          "title": "VST Q3 Earnings Beat on Strong Power Pricing, Revenues Rise Y/Y",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/vst-q3-earnings-beat-strong-180600034.html",
-          "publisher": "Zacks",
-          "published": "2026-11-10T18:06:00Z"
-        },
-        {
-          "title": "Constellation CEO Sounds the Alarm: Data Center Demand Was a \u201cMassive Overestimation.\u201d Its Nuclear Contracts Run to the 2040s",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/constellation-ceo-sounds-alarm-data-171915165.html",
-          "publisher": "TIKR",
-          "published": "2026-11-10T17:19:15Z"
-        },
-        {
-          "title": "Constellation and Vistra Get the Headlines. These 2 Power Producers Barely Get Mentioned.",
-          "url": "https://finance.yahoo.com/energy/articles/constellation-vistra-headlines-2-power-170500740.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-10T17:05:00Z"
         }
       ]
     },
@@ -2088,6 +2088,11 @@
       "change_pct": -0.38
     },
     {
+      "label": "WTI",
+      "price": 86.33,
+      "change_pct": -0.6
+    },
+    {
       "label": "Brent",
       "price": 91.82,
       "change_pct": -0.81
@@ -2095,7 +2100,7 @@
     {
       "label": "NatGas",
       "price": 3.3,
-      "change_pct": 2.39
+      "change_pct": 2.45
     }
   ]
 }
