@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-10T00:23:53+00:00",
-  "as_of_local": "2026-11-10 00:23:53 UTC",
+  "as_of_utc": "2026-11-10T00:28:50+00:00",
+  "as_of_local": "2026-11-10 00:28:50 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "DVN"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -957,34 +959,6 @@
       ]
     },
     {
-      "symbol": "DVN",
-      "name": "Devon Energy",
-      "price": 42.4,
-      "previous_close": 42.21,
-      "change_pct": 0.45,
-      "market_cap": 48323888483.066025,
-      "headlines": [
-        {
-          "title": "Devon Energy Corp (DVN) (Q3 2026) Earnings Call Highlights: Record Production, $2 Billion Free ...",
-          "url": "https://finance.yahoo.com/energy/articles/devon-energy-corp-dvn-q3-170403468.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-09T17:04:03Z"
-        },
-        {
-          "title": "CEG Q3 Earnings Beat on Calpine, Strong Commercial Performance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ceg-q3-earnings-beat-calpine-143100106.html",
-          "publisher": "Zacks",
-          "published": "2026-11-09T14:31:00Z"
-        },
-        {
-          "title": "Devon Energy Corporation (DVN) Is a Trending Stock: Facts to Know Before Betting on It",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/devon-energy-corporation-dvn-trending-130004805.html",
-          "publisher": "Zacks",
-          "published": "2026-11-09T13:00:04Z"
-        }
-      ]
-    },
-    {
       "symbol": "BKR",
       "name": "Baker Hughes",
       "price": 48.45,
@@ -1033,9 +1007,9 @@
           "published": "2026-11-09T18:51:00Z"
         },
         {
-          "title": "Vistra and Constellation Both Fell Sharply After the Election. One Has Far More Exposure to Texas.",
-          "url": "https://finance.yahoo.com/energy/articles/vistra-constellation-both-fell-sharply-182500253.html",
-          "publisher": "Motley Fool",
+          "title": "Data-Center Moratoriums? They Aren\u2019t Showing Up in Constellation Energy\u2019s Guidance.",
+          "url": "https://www.barrons.com/articles/constellation-energy-earnings-stock-price-89dc5612?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
           "published": "2026-11-09T18:25:00Z"
         }
       ]
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 86.39,
-      "change_pct": -4.89
+      "price": 86.48,
+      "change_pct": -4.79
     },
     {
       "label": "Brent",
-      "price": 92.35,
-      "change_pct": -6.07
+      "price": 92.34,
+      "change_pct": -6.08
     },
     {
       "label": "NatGas",
       "price": 3.21,
-      "change_pct": 6.94
+      "change_pct": 7.0
     }
   ]
 }
