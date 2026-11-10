@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-10T21:52:13+00:00",
-  "as_of_local": "2026-11-10 21:52:13 UTC",
+  "as_of_utc": "2026-11-10T21:57:57+00:00",
+  "as_of_local": "2026-11-10 21:57:57 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "FANG"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -927,6 +925,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/entergy-etr-tests-valuation-earnings-131035840.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-10T13:10:35Z"
+        }
+      ]
+    },
+    {
+      "symbol": "FANG",
+      "name": "Diamondback Energy",
+      "price": 178.08,
+      "previous_close": 178.17,
+      "change_pct": -0.05,
+      "market_cap": 49714209636.451584,
+      "headlines": [
+        {
+          "title": "Buy These 3 Stocks with Broker Rating Upgrades for Big Gains",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/buy-3-stocks-broker-rating-174100677.html",
+          "publisher": "Zacks",
+          "published": "2026-11-10T17:41:00Z"
+        },
+        {
+          "title": "Sector Update: Energy Stocks Fall Pre-Bell Tuesday",
+          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-fall-pre-141948947.html",
+          "publisher": "MT Newswires",
+          "published": "2026-11-10T14:19:48Z"
+        },
+        {
+          "title": "Can ConocoPhillips Sustain Future Production Growth With Lower CapEx?",
+          "url": "https://finance.yahoo.com/energy/articles/conocophillips-sustain-future-production-growth-124100957.html",
+          "publisher": "Zacks",
+          "published": "2026-11-10T12:41:00Z"
         }
       ]
     },
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 86.48,
-      "change_pct": -0.43
+      "price": 86.53,
+      "change_pct": -0.37
     },
     {
       "label": "Brent",
-      "price": 92.11,
-      "change_pct": -0.5
+      "price": 92.05,
+      "change_pct": -0.56
     },
     {
       "label": "NatGas",
       "price": 3.3,
-      "change_pct": 2.55
+      "change_pct": 2.58
     }
   ]
 }
