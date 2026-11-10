@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-10T05:09:55+00:00",
-  "as_of_local": "2026-11-10 05:09:55 UTC",
+  "as_of_utc": "2026-11-10T05:25:04+00:00",
+  "as_of_local": "2026-11-10 05:25:04 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -573,6 +573,12 @@
       "market_cap": 77193063067.91446,
       "headlines": [
         {
+          "title": "Founders Bootcamp: Boards, Banking and Risk Management, 6th Palm Beach CorpGov Forum",
+          "url": "https://finance.yahoo.com/small-business/articles/founders-bootcamp-boards-banking-risk-230651823.html",
+          "publisher": "CorpGov.com",
+          "published": "2026-11-09T23:06:51Z"
+        },
+        {
           "title": "Eaton Lost 23% in a Month. RBC Sees 58% Upside From Here",
           "url": "https://finance.yahoo.com/markets/stocks/articles/eaton-lost-23-month-rbc-193653739.html",
           "publisher": "TIKR",
@@ -583,12 +589,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/seagate-soars-10-ai-rebound-185516979.html",
           "publisher": "TIKR",
           "published": "2026-11-09T18:55:16Z"
-        },
-        {
-          "title": "GE Vernova Soars 7% as Constellation Raises Guidance, Easing Data-Center Moratorium Fears",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-soars-7-constellation-154818525.html",
-          "publisher": "TIKR",
-          "published": "2026-11-09T15:48:18Z"
         }
       ]
     },
@@ -915,14 +915,14 @@
           "published": "2026-11-09T18:00:00Z"
         },
         {
-          "title": "Entergy Mississippi (EMP) Q3 2026 Earnings Call Transcript",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/entergy-mississippi-emp-q3-2026-153058833.html",
+          "title": "Entergy Louisiana (ELC) Q3 2026 Earnings Call Transcript",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/entergy-louisiana-elc-q3-2026-153058722.html",
           "publisher": "Motley Fool",
           "published": "2026-11-09T15:30:58Z"
         },
         {
-          "title": "Entergy Louisiana (ELC) Q3 2026 Earnings Call Transcript",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/entergy-louisiana-elc-q3-2026-153058722.html",
+          "title": "Entergy Mississippi (EMP) Q3 2026 Earnings Call Transcript",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/entergy-mississippi-emp-q3-2026-153058833.html",
           "publisher": "Motley Fool",
           "published": "2026-11-09T15:30:58Z"
         }
@@ -1033,9 +1033,9 @@
           "published": "2026-11-09T18:51:00Z"
         },
         {
-          "title": "Vistra and Constellation Both Fell Sharply After the Election. One Has Far More Exposure to Texas.",
-          "url": "https://finance.yahoo.com/energy/articles/vistra-constellation-both-fell-sharply-182500253.html",
-          "publisher": "Motley Fool",
+          "title": "Data-Center Moratoriums? They Aren\u2019t Showing Up in Constellation Energy\u2019s Guidance.",
+          "url": "https://www.barrons.com/articles/constellation-energy-earnings-stock-price-89dc5612?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
           "published": "2026-11-09T18:25:00Z"
         }
       ]
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 86.85,
-      "change_pct": -4.38
+      "price": 85.8,
+      "change_pct": -1.21
     },
     {
       "label": "Brent",
-      "price": 92.57,
-      "change_pct": -5.85
+      "price": 91.54,
+      "change_pct": -1.11
     },
     {
       "label": "NatGas",
       "price": 3.22,
-      "change_pct": 7.34
+      "change_pct": 0.12
     }
   ]
 }
