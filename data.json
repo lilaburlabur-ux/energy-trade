@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-10T07:55:58+00:00",
-  "as_of_local": "2026-11-10 07:55:58 UTC",
+  "as_of_utc": "2026-11-10T08:06:04+00:00",
+  "as_of_local": "2026-11-10 08:06:04 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "EPD"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -97,6 +99,12 @@
       "market_cap": 219507285024.46667,
       "headlines": [
         {
+          "title": "A $28 Billion Fund Bought These 3 Stocks",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/28-billion-fund-bought-3-074644149.html",
+          "publisher": "TIKR",
+          "published": "2026-11-10T07:46:44Z"
+        },
+        {
           "title": "Azad Engineering Ltd (NSE:AZAD) (Q2 2027) Earnings Call Highlights: Record Revenue of Rs 187. ...",
           "url": "https://finance.yahoo.com/markets/stocks/articles/azad-engineering-ltd-nse-azad-070716516.html",
           "publisher": "GuruFocus.com",
@@ -107,12 +115,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-almost-sets-record-no-004302879.html",
           "publisher": "Motley Fool",
           "published": "2026-11-10T00:43:02Z"
-        },
-        {
-          "title": "GE Vernova Stock In Focus After Germany Wind Turbine Order",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-stock-focus-germany-001553145.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-10T00:15:53Z"
         }
       ]
     },
@@ -505,34 +507,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/750-000-dividend-portfolio-could-174836690.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-05T17:48:36Z"
-        }
-      ]
-    },
-    {
-      "symbol": "EPD",
-      "name": "Enterprise Products",
-      "price": 36.7,
-      "previous_close": 37.03,
-      "change_pct": -0.89,
-      "market_cap": 79147399933.95892,
-      "headlines": [
-        {
-          "title": "4 High-Yield Dividend Stocks You Can Buy Today and Hold Forever",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/4-high-yield-dividend-stocks-143704707.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-09T14:37:04Z"
-        },
-        {
-          "title": "The Best Energy Stock to Buy With Oil Near $105 Isn't an Oil Producer",
-          "url": "https://finance.yahoo.com/energy/articles/best-energy-stock-buy-oil-133500116.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-08T13:35:00Z"
-        },
-        {
-          "title": "Everyone Loves This 6.5% Pipeline Yield. Here's the Risk I Think They're Ignoring.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/everyone-loves-6-5-pipeline-133500436.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-07T13:35:00Z"
         }
       ]
     },
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 85.15,
-      "change_pct": -1.96
+      "price": 85.46,
+      "change_pct": -1.6
     },
     {
       "label": "Brent",
-      "price": 90.91,
-      "change_pct": -1.79
+      "price": 91.16,
+      "change_pct": -1.52
     },
     {
       "label": "NatGas",
-      "price": 3.22,
-      "change_pct": 0.0
+      "price": 3.23,
+      "change_pct": 0.28
     }
   ]
 }
