@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-10T22:17:46+00:00",
-  "as_of_local": "2026-11-10 22:17:46 UTC",
+  "as_of_utc": "2026-11-10T22:22:51+00:00",
+  "as_of_local": "2026-11-10 22:22:51 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "ETR"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -489,12 +491,6 @@
       "market_cap": 84338660584.76541,
       "headlines": [
         {
-          "title": "ETFs Are Net Sellers of Williams (WMB) on Nov. 4",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-williams-wmb-110344609.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-06T11:03:44Z"
-        },
-        {
           "title": "What Are Wall Street Analysts' Target Price for Williams Companies Stock?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-075605703.html",
           "publisher": "Barchart",
@@ -505,6 +501,12 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/750-000-dividend-portfolio-could-174836690.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-05T17:48:36Z"
+        },
+        {
+          "title": "Murphy Oil Q3 Earnings Beat Estimates on Strong Prices & Lower Costs",
+          "url": "https://finance.yahoo.com/energy/articles/murphy-oil-q3-earnings-beat-164800166.html",
+          "publisher": "Zacks",
+          "published": "2026-11-05T16:48:00Z"
         }
       ]
     },
@@ -825,6 +827,12 @@
       "market_cap": 56879367935.22558,
       "headlines": [
         {
+          "title": "What Occidental Petroleum (OXY) Said on Its Q3 Earnings Call",
+          "url": "https://finance.yahoo.com/energy/articles/occidental-petroleum-oxy-said-q3-221444681.html",
+          "publisher": "MarketBeat",
+          "published": "2026-11-10T22:14:44Z"
+        },
+        {
           "title": "Enbridge vs. Occidental Petroleum: Does a Midstream or Upstream Energy Focus Make for a Better Stock Buy for 2027?",
           "url": "https://finance.yahoo.com/energy/articles/enbridge-vs-occidental-petroleum-does-213202397.html",
           "publisher": "Motley Fool",
@@ -835,12 +843,6 @@
           "url": "https://finance.yahoo.com/energy/articles/occidental-apos-debt-reduction-carbon-203207354.html",
           "publisher": "MT Newswires",
           "published": "2026-11-10T20:32:07Z"
-        },
-        {
-          "title": "Occidental Petroleum earnings: what to look for from OXY",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/occidental-petroleum-earnings-look-oxy-175736497.html",
-          "publisher": "StockStory",
-          "published": "2026-11-10T17:57:36Z"
         }
       ]
     },
@@ -897,34 +899,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/bloom-energy-lands-major-ai-164403284.html",
           "publisher": "Insider Monkey",
           "published": "2026-11-10T16:44:03Z"
-        }
-      ]
-    },
-    {
-      "symbol": "ETR",
-      "name": "Entergy",
-      "price": 111.71,
-      "previous_close": 111.79,
-      "change_pct": -0.07,
-      "market_cap": 53378067249.446205,
-      "headlines": [
-        {
-          "title": "All You Need to Know About Entergy (ETR) Rating Upgrade to Buy",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/know-entergy-etr-rating-upgrade-194326125.html",
-          "publisher": "Zacks",
-          "published": "2026-11-10T19:43:26Z"
-        },
-        {
-          "title": "Learn Why The Bull Case For Entergy Stock Could Change Following Rate Plan Extension",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/learn-why-bull-case-entergy-141050356.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-10T14:10:50Z"
-        },
-        {
-          "title": "Entergy (ETR) Tests Valuation After Earnings And Dividend Raise",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/entergy-etr-tests-valuation-earnings-131035840.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-10T13:10:35Z"
         }
       ]
     },
