@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-10T14:49:46+00:00",
+  "as_of": "2026-11-10T15:05:03+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,35 +9,19 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "OKLO",
-   "company": "Oklo Inc.",
-   "move_pct": -5.3,
-   "price": 25.42,
-   "volume": 1731091,
-   "volume_vs_avg": "~0.2x",
-   "heat_score": 34,
+   "ticker": "GEV",
+   "company": "GE Vernova Inc.",
+   "move_pct": -6.02,
+   "price": 779.41,
+   "volume": 1984313,
+   "volume_vs_avg": "~0.6x",
+   "heat_score": 39,
    "direction": "down",
-   "why": "Oklo Stock and Its Manufacturing Deal Have The Bull Case Changed?",
+   "why": "Ge Vernova Inc Stock (GEV) Opened Down by 7.06% on Nov 10: Key Drivers Unveiled",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORzZjXzJ5ejEzaXl5Y0NFNUxfM1lzZWZxRjdCZkJHRFhnTm82NWw1bFFoWk9weGhVUWppRGRYYV81bzFtWnkyRnNmOGtYcWZMb0FBbUprZHppUVpWMlNtMkpxNFVnMnNWbGltbXBmdGx5bW01WmxreHlGbGVKcWRoUkxwVjNNVEh3dndF?oc=5",
-   "published": "2026-11-10T12:11:55+00:00",
-   "sector": "Nuclear & Uranium"
-  },
-  {
-   "rank": 2,
-   "ticker": "LEU",
-   "company": "Centrus Energy Corp.",
-   "move_pct": -5.01,
-   "price": 111.46,
-   "volume": 60706,
-   "volume_vs_avg": "~0.1x",
-   "heat_score": 33,
-   "direction": "down",
-   "why": "Two holders report stakes above 5% in Centrus Energy (LEU), including State Street.",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUE1iSzhsdWlMbG12aDlOaFNaLVN6YUF2RlQxNWxVSmFGN3h0V1htb3RwUVk4NGxMdDgzQjkwRDAwWHdsSU45UVNmRExPVU9FYjRaNVd1VFlhV1dsQ0V1U3RyQlljQV9Hc2tCWjJYdU5YUEl2dHVnZk9rZThqemNjamVzbXk0M0RmcFczbTF3Q21NUE9yTk1McVd2aFhTSlhBaWszczJnWWM2WGxUSm9LcWhMZEM1UlBpVWlRYWdHQ2NJeUk?oc=5",
-   "published": "2026-11-10T11:51:13+00:00",
-   "sector": "Nuclear & Uranium"
+   "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUTlMUG9fMWhINFlmSTJlaTBuV3J6cEY1QlRzZjZNLUo4a0hiMHNtbUNhOFdnaEJycTIxVjhacFJuUXhWNmYyMU1pRE1BVzNmTmh5ZjNFenhSemRQVmE1X2hGQmlQdHJzdFlPME0zSDY3YWR5NDc3TWdIanJ3ajRXbkpkbmp0b2FYN0E?oc=5",
+   "published": "2026-11-10T14:47:20+00:00",
+   "sector": "Grid, Storage & Electrification"
   }
  ]
 }
