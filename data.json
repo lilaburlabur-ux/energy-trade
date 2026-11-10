@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-10T21:24:09+00:00",
-  "as_of_local": "2026-11-10 21:24:09 UTC",
+  "as_of_utc": "2026-11-10T21:27:04+00:00",
+  "as_of_local": "2026-11-10 21:27:04 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "CEG"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -327,16 +329,16 @@
           "published": "2026-11-10T18:15:00Z"
         },
         {
+          "title": "The Kiplinger Dividend 15: Our Favorite Dividend-Paying Stocks",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/kiplinger-dividend-15-favorite-dividend-165805543.html",
+          "publisher": "Kiplinger",
+          "published": "2026-11-10T16:58:05Z"
+        },
+        {
           "title": "$300,000 in Duke Energy, Philip Morris and Johnson & Johnson: Here\u2019s What It Pays",
           "url": "https://finance.yahoo.com/markets/stocks/articles/300-000-duke-energy-philip-151738998.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-10T15:17:38Z"
-        },
-        {
-          "title": "After the Democratic Midterm Sweep: 4 Dividend Stocks Built for Gridlock",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/democratic-midterm-sweep-4-dividend-142709878.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-09T14:27:09Z"
         }
       ]
     },
@@ -421,34 +423,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/strong-buy-stocks-november-9th-053100124.html",
           "publisher": "Zacks",
           "published": "2026-11-09T05:31:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "CEG",
-      "name": "Constellation Energy",
-      "price": 267.76,
-      "previous_close": 276.09,
-      "change_pct": -3.02,
-      "market_cap": 94869347261.073,
-      "headlines": [
-        {
-          "title": "Constellation Q3 Earnings Call Highlights Long-Term Nuclear Contracts",
-          "url": "https://finance.yahoo.com/energy/articles/constellation-q3-earnings-call-highlights-185900032.html",
-          "publisher": "Zacks",
-          "published": "2026-11-10T18:59:00Z"
-        },
-        {
-          "title": "Constellation CEO Sounds the Alarm: Data Center Demand Was a \u201cMassive Overestimation.\u201d Its Nuclear Contracts Run to the 2040s",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/constellation-ceo-sounds-alarm-data-171915165.html",
-          "publisher": "TIKR",
-          "published": "2026-11-10T17:19:15Z"
-        },
-        {
-          "title": "Constellation and Vistra Get the Headlines. These 2 Power Producers Barely Get Mentioned.",
-          "url": "https://finance.yahoo.com/energy/articles/constellation-vistra-headlines-2-power-170500740.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-10T17:05:00Z"
         }
       ]
     },
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 86.38,
-      "change_pct": -0.54
+      "price": 86.37,
+      "change_pct": -0.55
     },
     {
       "label": "Brent",
-      "price": 91.99,
-      "change_pct": -0.63
+      "price": 91.93,
+      "change_pct": -0.69
     },
     {
       "label": "NatGas",
       "price": 3.31,
-      "change_pct": 2.83
+      "change_pct": 2.86
     }
   ]
 }
