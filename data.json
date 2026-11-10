@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-10T11:42:50+00:00",
-  "as_of_local": "2026-11-10 11:42:50 UTC",
+  "as_of_utc": "2026-11-10T11:47:57+00:00",
+  "as_of_local": "2026-11-10 11:47:57 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -685,6 +685,12 @@
       "market_cap": 65750774794.471176,
       "headlines": [
         {
+          "title": "Social Buzz: Wallstreetbets Stocks Mixed Pre-Bell Tuesday; Rocket Lab, AMD to Open Lower",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/social-buzz-wallstreetbets-stocks-mixed-113659846.html",
+          "publisher": "MT Newswires",
+          "published": "2026-11-10T11:36:59Z"
+        },
+        {
           "title": "A 68-Year-Old Swapped His Bond Funds for DIVO and GPIX in a $1.1 Million Portfolio. Here\u2019s What Happened to His $6,700 Monthly Paycheck",
           "url": "https://finance.yahoo.com/markets/stocks/articles/68-old-swapped-bond-funds-183743434.html",
           "publisher": "24/7 Wall St.",
@@ -695,12 +701,6 @@
           "url": "https://finance.yahoo.com/energy/articles/energy-transfer-just-raised-distribution-002000284.html",
           "publisher": "Motley Fool",
           "published": "2026-11-08T00:20:00Z"
-        },
-        {
-          "title": "Everyone Loves This 6.5% Pipeline Yield. Here's the Risk I Think They're Ignoring.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/everyone-loves-6-5-pipeline-133500436.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-07T13:35:00Z"
         }
       ]
     },
@@ -1033,9 +1033,9 @@
           "published": "2026-11-09T18:51:00Z"
         },
         {
-          "title": "Data-Center Moratoriums? They Aren\u2019t Showing Up in Constellation Energy\u2019s Guidance.",
-          "url": "https://www.barrons.com/articles/constellation-energy-earnings-stock-price-89dc5612?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
+          "title": "Vistra and Constellation Both Fell Sharply After the Election. One Has Far More Exposure to Texas.",
+          "url": "https://finance.yahoo.com/energy/articles/vistra-constellation-both-fell-sharply-182500253.html",
+          "publisher": "Motley Fool",
           "published": "2026-11-09T18:25:00Z"
         }
       ]
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 85.82,
-      "change_pct": -1.19
+      "price": 85.7,
+      "change_pct": -1.32
     },
     {
       "label": "Brent",
-      "price": 91.21,
-      "change_pct": -1.47
+      "price": 91.06,
+      "change_pct": -1.63
     },
     {
       "label": "NatGas",
-      "price": 3.26,
-      "change_pct": 1.24
+      "price": 3.28,
+      "change_pct": 1.8
     }
   ]
 }
