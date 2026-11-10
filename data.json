@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-10T02:51:37+00:00",
-  "as_of_local": "2026-11-10 02:51:37 UTC",
+  "as_of_utc": "2026-11-10T02:53:57+00:00",
+  "as_of_local": "2026-11-10 02:53:57 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "D"
+    "WFRD"
   ],
   "stocks": [
     {
@@ -703,6 +703,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/everyone-loves-6-5-pipeline-133500436.html",
           "publisher": "Motley Fool",
           "published": "2026-11-07T13:35:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "D",
+      "name": "Dominion Energy",
+      "price": 68.24,
+      "previous_close": 68.6,
+      "change_pct": -0.52,
+      "market_cap": 60021587283.764145,
+      "headlines": [
+        {
+          "title": "People Pay the Power Bill Before Almost Anything Else. $45,000 in Each of These 3 Utilities Pays $5,915 a Year",
+          "url": "https://finance.yahoo.com/news/people-pay-power-bill-almost-221425733.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-09T22:14:25Z"
+        },
+        {
+          "title": "NextEra Energy vs. Southern Company: Which Dividend Stock Is Better for Retirement?",
+          "url": "https://finance.yahoo.com/energy/articles/nextera-energy-vs-southern-company-170424659.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-08T17:04:24Z"
+        },
+        {
+          "title": "Western Union Yields 13.5%. Is This Dividend Stock a Trap?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/western-union-yields-13-5-194740503.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-06T19:47:40Z"
         }
       ]
     },
@@ -1519,34 +1547,6 @@
       ]
     },
     {
-      "symbol": "WFRD",
-      "name": "Weatherford",
-      "price": 85.5,
-      "previous_close": 84.43,
-      "change_pct": 1.27,
-      "market_cap": 6196209282.0,
-      "headlines": [
-        {
-          "title": "Why Is Baker Hughes Stock Falling?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-baker-hughes-stock-falling-141921435.html",
-          "publisher": "Trefis",
-          "published": "2026-11-06T14:19:21Z"
-        },
-        {
-          "title": "Should Jun\u00edn 5 Support Work Require Action From Weatherford International (WFRD) Investors?",
-          "url": "https://finance.yahoo.com/energy/articles/jun-n-5-support-require-131419197.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-10-30T13:14:19Z"
-        },
-        {
-          "title": "Weatherford: 3 Key Takeaways for Long-Term Investors",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/weatherford-3-key-takeaways-long-212002900.html",
-          "publisher": "Motley Fool",
-          "published": "2026-10-28T21:20:02Z"
-        }
-      ]
-    },
-    {
       "symbol": "NXE",
       "name": "NexGen Energy",
       "price": 8.75,
@@ -2089,13 +2089,13 @@
     },
     {
       "label": "WTI",
-      "price": 86.25,
-      "change_pct": -5.04
+      "price": 86.07,
+      "change_pct": -5.24
     },
     {
       "label": "Brent",
-      "price": 92.01,
-      "change_pct": -6.42
+      "price": 91.92,
+      "change_pct": -6.51
     },
     {
       "label": "NatGas",
