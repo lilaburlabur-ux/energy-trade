@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-10T12:28:04+00:00",
-  "as_of_local": "2026-11-10 12:28:04 UTC",
+  "as_of_utc": "2026-11-10T12:33:30+00:00",
+  "as_of_local": "2026-11-10 12:33:30 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "OVV"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -43,6 +41,12 @@
       "market_cap": 411285249553.1785,
       "headlines": [
         {
+          "title": "3 Dividend Stocks To Own In November 2026",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-dividend-stocks-own-november-121253829.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-10T12:12:53Z"
+        },
+        {
           "title": "QatarEnergy to acquire 25% stake in Namibia\u2019s PEL82 licence",
           "url": "https://finance.yahoo.com/news/qatarenergy-acquire-25-stake-namibia-110338806.html",
           "publisher": "Offshore Technology",
@@ -51,12 +55,6 @@
         {
           "title": "Sintana Energy: Qatar Energy farms into Namibia project in deal with Chevron",
           "url": "https://finance.yahoo.com/news/sintana-energy-qatar-energy-farms-072400740.html",
-          "publisher": "Proactive",
-          "published": "2026-11-10T07:24:00Z"
-        },
-        {
-          "title": "Sintana Energy: Qatar Energy farms into Namibia project in deal with Chevron",
-          "url": "https://finance.yahoo.com/energy/articles/sintana-energy-qatar-energy-farms-072400701.html",
           "publisher": "Proactive",
           "published": "2026-11-10T07:24:00Z"
         }
@@ -1323,6 +1321,34 @@
       ]
     },
     {
+      "symbol": "OVV",
+      "name": "Ovintiv",
+      "price": 60.5,
+      "previous_close": 60.52,
+      "change_pct": -0.03,
+      "market_cap": 16256837811.5,
+      "headlines": [
+        {
+          "title": "Carney Gives Canada\u2019s Oil Firms a Tax Windfall and Hopes They\u2019ll Spend It",
+          "url": "https://finance.yahoo.com/energy/articles/carney-gives-canada-oil-firms-120000385.html",
+          "publisher": "Bloomberg",
+          "published": "2026-11-09T12:00:00Z"
+        },
+        {
+          "title": "Ovintiv Q3 Earnings Call Highlights",
+          "url": "https://finance.yahoo.com/energy/articles/ovintiv-q3-earnings-call-highlights-231409890.html",
+          "publisher": "MarketBeat",
+          "published": "2026-11-07T23:14:09Z"
+        },
+        {
+          "title": "Are Investors Undervaluing Ovintiv (OVV) Right Now?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/investors-undervaluing-ovintiv-ovv-now-134004981.html",
+          "publisher": "Zacks",
+          "published": "2026-11-06T13:40:04Z"
+        }
+      ]
+    },
+    {
       "symbol": "TLN",
       "name": "Talen Energy",
       "price": 363.13,
@@ -2094,13 +2120,13 @@
     },
     {
       "label": "Brent",
-      "price": 90.49,
-      "change_pct": -2.25
+      "price": 90.56,
+      "change_pct": -2.17
     },
     {
       "label": "NatGas",
       "price": 3.27,
-      "change_pct": 1.74
+      "change_pct": 1.71
     }
   ]
 }
