@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-10T22:47:42+00:00",
+  "as_of": "2026-11-10T23:02:42+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,11 +11,11 @@
    "rank": 1,
    "ticker": "RUN",
    "company": "Sunrun Inc.",
-   "move_pct": -10.47,
-   "price": 8.72,
+   "move_pct": -10.57,
+   "price": 8.71,
    "volume": 14409880,
    "volume_vs_avg": "~1.3x",
-   "heat_score": 68,
+   "heat_score": 69,
    "direction": "down",
    "why": "Fluence Energy, Sunrun, FuelCell Energy, Enphase, and SolarEdge stocks trade down, what you need to know",
    "catalyst_type": "momentum_narrative",
@@ -27,11 +27,11 @@
    "rank": 2,
    "ticker": "ARRY",
    "company": "Array Technologies, Inc.",
-   "move_pct": -8.48,
-   "price": 4.75,
+   "move_pct": -8.85,
+   "price": 4.73,
    "volume": 13834370,
    "volume_vs_avg": "~1.4x",
-   "heat_score": 61,
+   "heat_score": 63,
    "direction": "down",
    "why": "Nextpower, Blink Charging, FTAI Aviation, Array, and Shoals shares plummet, what you need to know",
    "catalyst_type": "momentum_narrative",
@@ -43,11 +43,11 @@
    "rank": 3,
    "ticker": "FLNC",
    "company": "Fluence Energy, Inc.",
-   "move_pct": -8.7,
-   "price": 4.93,
+   "move_pct": -8.53,
+   "price": 4.94,
    "volume": 6918221,
    "volume_vs_avg": "~1.1x",
-   "heat_score": 61,
+   "heat_score": 60,
    "direction": "down",
    "why": "Siemens reports a stake in Fluence Energy (FLNC), where a group is deemed to own 51.3%.",
    "catalyst_type": "mna",
@@ -57,22 +57,6 @@
   },
   {
    "rank": 4,
-   "ticker": "UUUU",
-   "company": "Energy Fuels Inc",
-   "move_pct": -7.25,
-   "price": 6.78,
-   "volume": 8358831,
-   "volume_vs_avg": "~0.9x",
-   "heat_score": 45,
-   "direction": "down",
-   "why": "USA Rare Earth Sinks 11% as Q3 Miss Overshadows First Magnet Sales; Energy Fuels Retreats 8%, MP Materials Falls 5%",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZ0tVMVU0TmFDTzJHTDJNUEZaeDRIUzlRQ1UwS21wMnkwZ3l3dVhvREh0b2YxTnNHMHNDMFZaWFNnVFg4SmMtR3Q0Y3pPVm9ncURJMXhITXNfbFNTekhpeW5XZmZ1elVzNGFBLTNwS1pXdGJrUGRJOGxBTnd2UHN6NzhNa2E5ZVpTN21aVl9iZGFkaEZ2YTFKUVNVSjZ6LVVTVzUwLW5fZnlza0FzMXBNRW1PREptOTB6MFRxejI3TERrYmF6MGhBbi1jQXRMOG5kWE04TUl6Rld0RnR6UWhhcUo2elpRd0tja0E?oc=5",
-   "published": "2026-11-10T19:02:00+00:00",
-   "sector": "Nuclear & Uranium"
-  },
-  {
-   "rank": 5,
    "ticker": "FSLR",
    "company": "First Solar, Inc.",
    "move_pct": -5.64,
@@ -88,7 +72,7 @@
    "sector": "Renewables & Solar"
   },
   {
-   "rank": 6,
+   "rank": 5,
    "ticker": "LEU",
    "company": "Centrus Energy Corp.",
    "move_pct": -6.37,
@@ -104,7 +88,7 @@
    "sector": "Nuclear & Uranium"
   },
   {
-   "rank": 7,
+   "rank": 6,
    "ticker": "SEDG",
    "company": "SolarEdge Technologies, Inc.",
    "move_pct": -5.82,
@@ -117,6 +101,22 @@
    "catalyst_type": "momentum_narrative",
    "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNZ3JtUkhMLVAycnRzMDFoS0o1SFhWeGluNWltN3VXdlU3NTJBeE5Va3A5a1lTX2o2bUxob2tHd0xMak93RWh1WVVTN3g3elJLOVdhNVh1bXVKaXRYZVJlb051MmdjVFU4eUVBdC1QeVR3dGxJMGh4Y3hVQ0c5MzhZNk1IODcwR1AzSTAxaF9MWkQ1WmgteTZSQy1MT3o1ZHVfTXRzdG91SDM2MzByNE1QNGZEWVdhRHY4TGM4a3A2azdLaGV1WjdMcmFVUThMci1nN3BlMTh1OVAxSXBIQ1pjUGcxRTh3MF9pX3k5ZXBmZy0tZw?oc=5",
    "published": "2026-11-10T21:00:49+00:00",
+   "sector": "Renewables & Solar"
+  },
+  {
+   "rank": 7,
+   "ticker": "ENPH",
+   "company": "Enphase Energy, Inc.",
+   "move_pct": -5.09,
+   "price": 27.6,
+   "volume": 6125494,
+   "volume_vs_avg": "~0.8x",
+   "heat_score": 37,
+   "direction": "down",
+   "why": "Enphase Energy Inc. stock underperforms Tuesday when compared to competitors",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNYmlCcHJCVk05ZF9tZGNPTDJzNHdCelNXbmNoVFIwbmVrQ3NJUWI4ZmQ4RC13cWJuY0JsT1NaT2h6MFN4Z2FOZ0JHUUVCZExmbV9VdGJrVmRjQk1DYkl1S1kydEUxNWdRTUR5NzNWQnZUU1gybUhvYm1WT0VsYWx3SGw4aWNHZWVEMzcxUnQ0WDZ3enNKUFRRdWI2ZTdLNGZIUlRmbkxmZ1pqM2c4ZjJZSkduOWYxamxLZGdHV0R4czBrRGhrNDRjR1VyZHUxZVI5NzU4NGhldEpsMWxqNXBlb2VXYWRmOElF?oc=5",
+   "published": "2026-11-10T22:22:00+00:00",
    "sector": "Renewables & Solar"
   }
  ]
