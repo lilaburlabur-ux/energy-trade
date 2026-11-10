@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-10T12:54:00+00:00",
-  "as_of_local": "2026-11-10 12:54:00 UTC",
+  "as_of_utc": "2026-11-10T12:58:55+00:00",
+  "as_of_local": "2026-11-10 12:58:55 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -685,6 +685,12 @@
       "market_cap": 65750774794.471176,
       "headlines": [
         {
+          "title": "Energy Transfer\u2019s EPS Missed by 20%. Enbridge\u2019s Profit Nearly Doubled. Here\u2019s Why I\u2019m Not Worried About Either Dividend Even Though Both Still Fell Short.",
+          "url": "https://finance.yahoo.com/energy/articles/energy-transfer-eps-missed-20-125002039.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-10T12:50:02Z"
+        },
+        {
           "title": "Social Buzz: Wallstreetbets Stocks Mixed Pre-Bell Tuesday; Rocket Lab, AMD to Open Lower",
           "url": "https://finance.yahoo.com/markets/stocks/articles/social-buzz-wallstreetbets-stocks-mixed-113659846.html",
           "publisher": "MT Newswires",
@@ -695,12 +701,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/68-old-swapped-bond-funds-183743434.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-08T18:37:43Z"
-        },
-        {
-          "title": "Energy Transfer Just Raised Its Distribution for the 20th Straight Quarter. Here's How Much $10,000 Invested Pays Annually.",
-          "url": "https://finance.yahoo.com/energy/articles/energy-transfer-just-raised-distribution-002000284.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-08T00:20:00Z"
         }
       ]
     },
@@ -881,6 +881,12 @@
       "market_cap": 54206130689.64025,
       "headlines": [
         {
+          "title": "Buy, Sell, or Hold? Tuesday\u2019s Top Upgrades and Downgrades: Cloudflare, Deckers Outdoors, DraftKings, MongoDB, Nike, Oneok, Philip Morris International, Riot Platforms, Wix.com, and More",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/buy-sell-hold-tuesday-top-124706526.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-10T12:47:06Z"
+        },
+        {
           "title": "Devon Q3 Earnings Outpace Estimates on Higher Output, Revenues Miss",
           "url": "https://finance.yahoo.com/energy/articles/devon-q3-earnings-outpace-estimates-151700373.html",
           "publisher": "Zacks",
@@ -891,12 +897,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/plains-american-q3-earnings-lag-145900027.html",
           "publisher": "Zacks",
           "published": "2026-11-06T14:59:00Z"
-        },
-        {
-          "title": "Occidental Petroleum to Release Q3 Earnings: What's in the Cards?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/occidental-petroleum-release-q3-earnings-135700931.html",
-          "publisher": "Zacks",
-          "published": "2026-11-06T13:57:00Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 85.21,
-      "change_pct": -1.89
+      "price": 85.15,
+      "change_pct": -1.96
     },
     {
       "label": "Brent",
-      "price": 90.28,
-      "change_pct": -2.47
+      "price": 90.31,
+      "change_pct": -2.44
     },
     {
       "label": "NatGas",
-      "price": 3.27,
-      "change_pct": 1.55
+      "price": 3.25,
+      "change_pct": 0.96
     }
   ]
 }
