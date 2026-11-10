@@ -4,8 +4,8 @@ Signed file: `VLO.research.10.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $350.72 (2026-11-10, ~15-min delayed) |
-| Market cap | $97.81B |
+| Current price | $349.94 (2026-11-10, ~15-min delayed) |
+| Market cap | $97.59B |
 | Sector / Industry | Energy / Oil & Gas Refining & Marketing |
 | Main theme | Oil & Gas Refining & Marketing — see catalysts below |
 | Current stance | High technical momentum, mixed fundamentals, value: reasonable, risk: high. |
@@ -15,10 +15,10 @@ Signed file: `VLO.research.10.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +103.94%; price +20.58% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -23.72% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +103.48%; price +20.32% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -23.89% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 8.83%, revenue growth 46.50%. |
-| Value attractiveness | Reasonable | Forward P/E 6.56, EV/Sales 0.71. |
+| Value attractiveness | Reasonable | Forward P/E 6.54, EV/Sales 0.71. |
 | Risk level | High | Beta 0.55, ATR 5.3% of price, short float 3.35%. |
 
 **Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: high.
@@ -44,22 +44,22 @@ Valero Energy Corporation manufactures, markets, and sells petroleum-based and l
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $350.72; 52w high $459.78 (-23.72%); 52w low $159.58 (+119.78%) |
-| Trend | +20.58% vs SMA200, -12.23% vs SMA50, -12.58% vs SMA20 |
-| Momentum | RSI(14) 34.6 (neutral) |
+| Price vs 52-week range | Close $349.94; 52w high $459.78 (-23.89%); 52w low $159.58 (+119.29%) |
+| Trend | +20.32% vs SMA200, -12.42% vs SMA50, -12.77% vs SMA20 |
+| Momentum | RSI(14) 34.5 (neutral) |
 | Volatility | ATR(14) 18.50 (~5.3% of price); beta 0.55 |
-| Setup perspective | -23.72% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -23.89% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -9.5% |
-| Month | -19.6% |
-| Quarter | +6.2% |
-| Half Y | +43.1% |
-| 1Y | +103.9% |
-| YTD | +115.3% |
+| Week | -9.7% |
+| Month | -19.7% |
+| Quarter | +6.0% |
+| Half Y | +42.8% |
+| 1Y | +103.5% |
+| YTD | +114.8% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Valero Energy Corporation manufactures, markets, and sells petroleum-based and l
 | Revenue (ttm) | $146.53B | Revenue growth 46.50% y/y |
 | Profitability | Gross 19.52%, operating 20.47%, net 8.83% | ROA 17.68%, ROE 46.87% |
 | Balance sheet | Cash $9.84B, debt $11.00B | Current ratio 1.72, debt/equity 35.39 |
-| Valuation | P/E 7.98, forward P/E 6.56, P/S 0.67, P/B 3.50 | EV/Sales 0.71, EV/EBITDA 5.00 |
+| Valuation | P/E 7.96, forward P/E 6.54, P/S 0.67, P/B 3.49 | EV/Sales 0.71, EV/EBITDA 5.00 |
 | Growth expectations | Earnings growth 576.80%, EPS q/q 523.60% | Analyst mean target $427.00 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -110,21 +110,21 @@ Valero Energy Corporation manufactures, markets, and sells petroleum-based and l
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $350.72 | EV/Sales | 0.71 |
-| Market cap | $97.81B | EV/EBITDA | 5.00 |
+| Price | $349.94 | EV/Sales | 0.71 |
+| Market cap | $97.59B | EV/EBITDA | 5.00 |
 | Beta | 0.55 | Gross margin | 19.52% |
-| RSI(14) | 34.6 | Operating margin | 20.47% |
+| RSI(14) | 34.5 | Operating margin | 20.47% |
 | ATR(14) | 18.50 | Profit margin | 8.83% |
-| SMA20 dist | -12.58% | ROA | 17.68% |
-| SMA50 dist | -12.23% | ROE | 46.87% |
-| SMA200 dist | +20.58% | Revenue (ttm) | $146.53B |
+| SMA20 dist | -12.77% | ROA | 17.68% |
+| SMA50 dist | -12.42% | ROE | 46.87% |
+| SMA200 dist | +20.32% | Revenue (ttm) | $146.53B |
 | 52W high | $459.78 | Revenue growth y/y | 46.50% |
 | 52W low | $159.58 | Inst. ownership | 89.67% |
-| P/E (ttm) | 7.98 | Insider ownership | 0.44% |
-| Forward P/E | 6.56 | Short float | 3.35% |
+| P/E (ttm) | 7.96 | Insider ownership | 0.44% |
+| Forward P/E | 6.54 | Short float | 3.35% |
 | PEG (trailing) | 1.29 | Avg volume | 3,077,635 |
 | P/S | 0.67 | Employees | 9,785 |
-| P/B | 3.50 | Analyst rec (1=buy..5=sell) | 2.5 |
+| P/B | 3.49 | Analyst rec (1=buy..5=sell) | 2.5 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

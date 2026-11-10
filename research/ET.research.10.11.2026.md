@@ -4,8 +4,8 @@ Signed file: `ET.research.10.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $19.51 (2026-11-10, ~15-min delayed) |
-| Market cap | $67.20B |
+| Current price | $19.50 (2026-11-10, ~15-min delayed) |
+| Market cap | $67.16B |
 | Sector / Industry | Energy / Oil & Gas Midstream |
 | Main theme | Oil & Gas Midstream — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,10 +15,10 @@ Signed file: `ET.research.10.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +27.24%; price +2.36% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -8.58% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +27.18%; price +2.31% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -8.63% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 4.39%, revenue growth 85.90%. |
-| Value attractiveness | Reasonable | Forward P/E 11.16, EV/Sales 1.23. |
+| Value attractiveness | Reasonable | Forward P/E 11.15, EV/Sales 1.23. |
 | Risk level | Moderate | Beta 0.60, ATR 2.4% of price, short float 0.87%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -44,11 +44,11 @@ Energy Transfer LP, together with its subsidiaries, provides energy-related serv
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $19.51; 52w high $21.34 (-8.58%); 52w low $15.11 (+29.13%) |
-| Trend | +2.36% vs SMA200, -3.28% vs SMA50, -1.14% vs SMA20 |
-| Momentum | RSI(14) 45.9 (neutral) |
+| Price vs 52-week range | Close $19.50; 52w high $21.34 (-8.63%); 52w low $15.11 (+29.06%) |
+| Trend | +2.31% vs SMA200, -3.33% vs SMA50, -1.19% vs SMA20 |
+| Momentum | RSI(14) 45.8 (neutral) |
 | Volatility | ATR(14) 0.46 (~2.4% of price); beta 0.60 |
-| Setup perspective | -8.58% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -8.63% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
@@ -57,9 +57,9 @@ Energy Transfer LP, together with its subsidiaries, provides energy-related serv
 | Week | -1.5% |
 | Month | -2.7% |
 | Quarter | -5.2% |
-| Half Y | +1.0% |
+| Half Y | +0.9% |
 | 1Y | +27.2% |
-| YTD | +26.2% |
+| YTD | +26.1% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Energy Transfer LP, together with its subsidiaries, provides energy-related serv
 | Revenue (ttm) | $124.53B | Revenue growth 85.90% y/y |
 | Profitability | Gross 15.84%, operating 7.50%, net 4.39% | ROA 5.24%, ROE 15.57% |
 | Balance sheet | Cash $926.00M, debt $70.71B | Current ratio 1.16, debt/equity 141.66 |
-| Valuation | P/E 12.92, forward P/E 11.16, P/S 0.54, P/B 2.10 | EV/Sales 1.23, EV/EBITDA 8.55 |
+| Valuation | P/E 12.91, forward P/E 11.15, P/S 0.54, P/B 2.10 | EV/Sales 1.23, EV/EBITDA 8.55 |
 | Growth expectations | Earnings growth 18.10%, EPS q/q 18.50% | Analyst mean target $24.87 (23 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -109,18 +109,18 @@ Energy Transfer LP, together with its subsidiaries, provides energy-related serv
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $19.51 | EV/Sales | 1.23 |
-| Market cap | $67.20B | EV/EBITDA | 8.55 |
+| Price | $19.50 | EV/Sales | 1.23 |
+| Market cap | $67.16B | EV/EBITDA | 8.55 |
 | Beta | 0.60 | Gross margin | 15.84% |
-| RSI(14) | 45.9 | Operating margin | 7.50% |
+| RSI(14) | 45.8 | Operating margin | 7.50% |
 | ATR(14) | 0.46 | Profit margin | 4.39% |
-| SMA20 dist | -1.14% | ROA | 5.24% |
-| SMA50 dist | -3.28% | ROE | 15.57% |
-| SMA200 dist | +2.36% | Revenue (ttm) | $124.53B |
+| SMA20 dist | -1.19% | ROA | 5.24% |
+| SMA50 dist | -3.33% | ROE | 15.57% |
+| SMA200 dist | +2.31% | Revenue (ttm) | $124.53B |
 | 52W high | $21.34 | Revenue growth y/y | 85.90% |
 | 52W low | $15.11 | Inst. ownership | 32.45% |
-| P/E (ttm) | 12.92 | Insider ownership | 10.29% |
-| Forward P/E | 11.16 | Short float | 0.87% |
+| P/E (ttm) | 12.91 | Insider ownership | 10.29% |
+| Forward P/E | 11.15 | Short float | 0.87% |
 | PEG (trailing) | 0.54 | Avg volume | 8,709,826 |
 | P/S | 0.54 | Employees | 22,311 |
 | P/B | 2.10 | Analyst rec (1=buy..5=sell) | 1.5 |

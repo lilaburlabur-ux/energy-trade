@@ -4,8 +4,8 @@ Signed file: `SHEL.research.10.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $97.54 (2026-11-10, ~15-min delayed) |
-| Market cap | $276.12B |
+| Current price | $97.48 (2026-11-10, ~15-min delayed) |
+| Market cap | $275.93B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,10 +15,10 @@ Signed file: `SHEL.research.10.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +33.85%; price +10.34% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -10.25% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +33.76%; price +10.26% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -10.31% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 10.18%, revenue growth 36.20%. |
-| Value attractiveness | Reasonable | Forward P/E 8.94, EV/Sales 1.01. |
+| Value attractiveness | Reasonable | Forward P/E 8.93, EV/Sales 1.01. |
 | Risk level | Moderate | Beta -0.25, ATR 2.2% of price, short float 1.22%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -44,11 +44,11 @@ Shell plc operates as an energy and petrochemical company in Europe, Asia, Ocean
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $97.54; 52w high $108.69 (-10.25%); 52w low $68.43 (+42.54%) |
-| Trend | +10.34% vs SMA200, -1.84% vs SMA50, -6.36% vs SMA20 |
-| Momentum | RSI(14) 37.8 (neutral) |
+| Price vs 52-week range | Close $97.48; 52w high $108.69 (-10.31%); 52w low $68.43 (+42.44%) |
+| Trend | +10.26% vs SMA200, -1.90% vs SMA50, -6.42% vs SMA20 |
+| Momentum | RSI(14) 37.7 (neutral) |
 | Volatility | ATR(14) 2.14 (~2.2% of price); beta -0.25 |
-| Setup perspective | -10.25% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -10.31% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
@@ -68,7 +68,7 @@ Shell plc operates as an energy and petrochemical company in Europe, Asia, Ocean
 | Revenue (ttm) | $321.29B | Revenue growth 36.20% y/y |
 | Profitability | Gross 26.93%, operating 18.76%, net 10.18% | ROA 7.67%, ROE 17.43% |
 | Balance sheet | Cash $36.42B, debt $76.07B | Current ratio 1.38, debt/equity 38.13 |
-| Valuation | P/E 8.47, forward P/E 8.94, P/S 0.86, P/B 1.41 | EV/Sales 1.01, EV/EBITDA 4.79 |
+| Valuation | P/E 8.46, forward P/E 8.93, P/S 0.86, P/B 1.41 | EV/Sales 1.01, EV/EBITDA 4.79 |
 | Growth expectations | Earnings growth 136.70%, EPS q/q 126.60% | Analyst mean target $110.87 (15 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -109,18 +109,18 @@ Shell plc operates as an energy and petrochemical company in Europe, Asia, Ocean
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $97.54 | EV/Sales | 1.01 |
-| Market cap | $276.12B | EV/EBITDA | 4.79 |
+| Price | $97.48 | EV/Sales | 1.01 |
+| Market cap | $275.93B | EV/EBITDA | 4.79 |
 | Beta | -0.25 | Gross margin | 26.93% |
-| RSI(14) | 37.8 | Operating margin | 18.76% |
+| RSI(14) | 37.7 | Operating margin | 18.76% |
 | ATR(14) | 2.14 | Profit margin | 10.18% |
-| SMA20 dist | -6.36% | ROA | 7.67% |
-| SMA50 dist | -1.84% | ROE | 17.43% |
-| SMA200 dist | +10.34% | Revenue (ttm) | $321.29B |
+| SMA20 dist | -6.42% | ROA | 7.67% |
+| SMA50 dist | -1.90% | ROE | 17.43% |
+| SMA200 dist | +10.26% | Revenue (ttm) | $321.29B |
 | 52W high | $108.69 | Revenue growth y/y | 36.20% |
 | 52W low | $68.43 | Inst. ownership | 13.47% |
-| P/E (ttm) | 8.47 | Insider ownership | 0.01% |
-| Forward P/E | 8.94 | Short float | 1.22% |
+| P/E (ttm) | 8.46 | Insider ownership | 0.01% |
+| Forward P/E | 8.93 | Short float | 1.22% |
 | PEG (trailing) | 1.37 | Avg volume | 6,078,326 |
 | P/S | 0.86 | Employees | 84,000 |
 | P/B | 1.41 | Analyst rec (1=buy..5=sell) | 2.2 |

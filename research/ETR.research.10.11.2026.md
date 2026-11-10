@@ -4,8 +4,8 @@ Signed file: `ETR.research.10.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $111.44 (2026-11-10, ~15-min delayed) |
-| Market cap | $53.25B |
+| Current price | $111.43 (2026-11-10, ~15-min delayed) |
+| Market cap | $53.24B |
 | Sector / Industry | Utilities / Utilities - Regulated Electric |
 | Main theme | Utilities - Regulated Electric — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: fair-to-demanding, risk: moderate. |
@@ -15,8 +15,8 @@ Signed file: `ETR.research.10.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +17.52%; price +3.76% vs SMA200. |
-| Fresh setup quality | Watch | -4.48% from 52w high and near SMA20 — check for a tight base. |
+| Technical momentum | Moderate | 1Y +17.51%; price +3.75% vs SMA200. |
+| Fresh setup quality | Watch | -4.49% from 52w high and near SMA20 — check for a tight base. |
 | Fundamental quality | Mixed | Profit margin 14.56%, revenue growth 14.50%. |
 | Value attractiveness | Fair-to-demanding | Forward P/E 21.79, EV/Sales 6.01. |
 | Risk level | Moderate | Beta 0.43, ATR 1.9% of price, short float 3.97%. |
@@ -44,11 +44,11 @@ Entergy Corporation, together with its subsidiaries, engages in the production a
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $111.44; 52w high $116.66 (-4.48%); 52w low $89.57 (+24.42%) |
-| Trend | +3.76% vs SMA200, +6.12% vs SMA50, +3.05% vs SMA20 |
+| Price vs 52-week range | Close $111.43; 52w high $116.66 (-4.49%); 52w low $89.57 (+24.41%) |
+| Trend | +3.75% vs SMA200, +6.11% vs SMA50, +3.04% vs SMA20 |
 | Momentum | RSI(14) 64.6 (neutral) |
 | Volatility | ATR(14) 2.11 (~1.9% of price); beta 0.43 |
-| Setup perspective | -4.48% from 52w high and near SMA20 — check for a tight base. |
+| Setup perspective | -4.49% from 52w high and near SMA20 — check for a tight base. |
 
 **Performance snapshot:**
 
@@ -111,14 +111,14 @@ Entergy Corporation, together with its subsidiaries, engages in the production a
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $111.44 | EV/Sales | 6.01 |
-| Market cap | $53.25B | EV/EBITDA | 14.25 |
+| Price | $111.43 | EV/Sales | 6.01 |
+| Market cap | $53.24B | EV/EBITDA | 14.25 |
 | Beta | 0.43 | Gross margin | 47.93% |
 | RSI(14) | 64.6 | Operating margin | 34.20% |
 | ATR(14) | 2.11 | Profit margin | 14.56% |
-| SMA20 dist | +3.05% | ROA | 2.89% |
-| SMA50 dist | +6.12% | ROE | 11.02% |
-| SMA200 dist | +3.76% | Revenue (ttm) | $14.04B |
+| SMA20 dist | +3.04% | ROA | 2.89% |
+| SMA50 dist | +6.11% | ROE | 11.02% |
+| SMA200 dist | +3.75% | Revenue (ttm) | $14.04B |
 | 52W high | $116.66 | Revenue growth y/y | 14.50% |
 | 52W low | $89.57 | Inst. ownership | 98.83% |
 | P/E (ttm) | 25.50 | Insider ownership | 0.22% |
