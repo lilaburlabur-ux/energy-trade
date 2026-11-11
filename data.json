@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-11T07:55:56+00:00",
-  "as_of_local": "2026-11-11 07:55:56 UTC",
+  "as_of_utc": "2026-11-11T08:06:07+00:00",
+  "as_of_local": "2026-11-11 08:06:07 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "EQNR"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -393,34 +395,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/dti-q3-earnings-miss-estimates-181500794.html",
           "publisher": "Zacks",
           "published": "2026-11-10T18:15:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "EQNR",
-      "name": "Equinor",
-      "price": 40.68,
-      "previous_close": 41.12,
-      "change_pct": -1.07,
-      "market_cap": 96285001429.95688,
-      "headlines": [
-        {
-          "title": "European Equities Traded in the US as American Depositary Receipts Decline in Tuesday Trading",
-          "url": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-american-161543882.html",
-          "publisher": "MT Newswires",
-          "published": "2026-11-10T16:15:43Z"
-        },
-        {
-          "title": "European Equities Traded in the US as American Depositary Receipts Surge in Monday Trading",
-          "url": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-american-161302851.html",
-          "publisher": "MT Newswires",
-          "published": "2026-11-09T16:13:02Z"
-        },
-        {
-          "title": "New Strong Buy Stocks for November 9th",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/strong-buy-stocks-november-9th-053100124.html",
-          "publisher": "Zacks",
-          "published": "2026-11-09T05:31:00Z"
         }
       ]
     },
@@ -937,6 +911,12 @@
       "market_cap": 49714209636.451584,
       "headlines": [
         {
+          "title": "Diamondback, KKR to buy Five Point\u2019s 70% stake in Deep Blue",
+          "url": "https://finance.yahoo.com/news/diamondback-kkr-buy-five-point-075219222.html",
+          "publisher": "Offshore Technology",
+          "published": "2026-11-11T07:52:19Z"
+        },
+        {
           "title": "Diamondback Energy (FANG) Stock May Look Rich Following Raised Dividend And Guidance",
           "url": "https://finance.yahoo.com/markets/stocks/articles/diamondback-energy-fang-stock-may-071302120.html",
           "publisher": "Simply Wall St.",
@@ -947,12 +927,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-com-featured-highlights-cinemark-060300659.html",
           "publisher": "Zacks",
           "published": "2026-11-11T06:03:00Z"
-        },
-        {
-          "title": "Diamondback Energy (FANG) Following Deep Blue Deal Has The Undervalued Case Changed",
-          "url": "https://finance.yahoo.com/energy/articles/diamondback-energy-fang-following-deep-021610570.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-11T02:16:10Z"
         }
       ]
     },
@@ -1721,6 +1695,12 @@
       "market_cap": 2143025980.104988,
       "headlines": [
         {
+          "title": "Here's the 1 Thing I'd Wait to See Before Buying NuScale Stock",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/heres-1-thing-id-wait-075000257.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-11T07:50:00Z"
+        },
+        {
           "title": "3 Nuclear Stocks Retail Investors Are Watching After The X Energy SMR Approval",
           "url": "https://finance.yahoo.com/energy/articles/3-nuclear-stocks-retail-investors-061604315.html",
           "publisher": "Simply Wall St.",
@@ -1731,12 +1711,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-falls-4-softbank-211730358.html",
           "publisher": "TIKR",
           "published": "2026-11-10T21:17:30Z"
-        },
-        {
-          "title": "Oklo Soars 14% in a Week on a Narrower Loss and a Deal for 27 Reactors\u2019 Worth of Forgings",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/oklo-soars-14-week-narrower-132928173.html",
-          "publisher": "TIKR",
-          "published": "2026-11-10T13:29:28Z"
         }
       ]
     },
@@ -2115,13 +2089,13 @@
     },
     {
       "label": "WTI",
-      "price": 86.4,
-      "change_pct": 0.42
+      "price": 86.43,
+      "change_pct": 0.45
     },
     {
       "label": "Brent",
-      "price": 92.21,
-      "change_pct": 0.79
+      "price": 92.25,
+      "change_pct": 0.83
     },
     {
       "label": "NatGas",
