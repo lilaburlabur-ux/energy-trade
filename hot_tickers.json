@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-11T20:07:42+00:00",
+  "as_of": "2026-11-11T21:11:50+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,16 +11,32 @@
    "rank": 1,
    "ticker": "BE",
    "company": "Bloom Energy Corporation",
-   "move_pct": 14.37,
-   "price": 212.07,
-   "volume": 14966221,
-   "volume_vs_avg": "~0.9x",
+   "move_pct": 14.07,
+   "price": 211.5,
+   "volume": 17156278,
+   "volume_vs_avg": "~1.1x",
    "heat_score": 80,
    "direction": "up",
    "why": "Bloom Energy surges, helping to erase much of this week\u2019s AI jitters",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYV9JSHBxRWFLR01KRTlFTnIxeDJReXctS25HRHBpS0Nid1RXWGotMWh0MkxncHlhWGwtb1JxV0Z6YnZwU0JiaThaMjJscGRTN2lGLTNxQUFsNGd2RUllaVUwaWVsNWRsVjNPeHN6Z1IyZzJHSWJGcWEwS2JXVWpKVFJBTFluUUFPWkVDUFlTZmtCVkM3UGhPSnJDenhIUXZvRExfc0NySW5yRmtIS3dBLTZ4aXVZbXV1RGItcXA2QlFMczhFV01DWEtxZDFSbThUdTBuZQ?oc=5",
    "published": "2026-11-11T18:53:58+00:00",
+   "sector": "Grid, Storage & Electrification"
+  },
+  {
+   "rank": 2,
+   "ticker": "VRT",
+   "company": "Vertiv Holdings, LLC",
+   "move_pct": 7.51,
+   "price": 208.8,
+   "volume": 6284298,
+   "volume_vs_avg": "~0.9x",
+   "heat_score": 46,
+   "direction": "up",
+   "why": "Vertiv Stocks Climb 6.9% as AI Data Center Rebound Lifts Power and Cooling Supplier",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9Fbk4tY3ktaDkxZkRPWFVWYWtPZ2JpSHdoa0NsdGU5bnlLN0RWTHZDaUVhdmJEclhPdHdXNWtCOHhUdXVLWE1GcmZ6Y01BdmdWSUZVY295bERjOHFmQnVpbGg2c0ItSFpFXzVwNGY1RWhBQXhFUi1PRVZUTE0?oc=5",
+   "published": "2026-11-11T18:54:08+00:00",
    "sector": "Grid, Storage & Electrification"
   }
  ]
