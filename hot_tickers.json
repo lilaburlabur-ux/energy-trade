@@ -1,10 +1,43 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-11T09:06:27+00:00",
+  "as_of": "2026-11-11T09:21:37+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": []
+ "hot_tickers": [
+  {
+   "rank": 1,
+   "ticker": "VRT",
+   "company": "Vertiv Holdings, LLC",
+   "move_pct": 7.25,
+   "price": 208.31,
+   "volume": 6759600,
+   "volume_vs_avg": "~0.9x",
+   "heat_score": 45,
+   "direction": "up",
+   "why": "Zacks.com featured highlights include Stride, Ralph Lauren, Cardinal Health and Vertiv",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPd3IwQ010R1lObXoxNjJKT0hWNFB5S3RXOVppLVdNYzBGc3pfZVliSjBfMWFmcU9mSjBHVUxNMHgzSlNHd1lWME5DMGw0VEdkOURCUXJVaFpmZ1NEcHlONGYtUmpmMVljejBRTGZ3ZWJqemQ2cnoxOW5GZFdESFdtN0lVc1hWOWVXdTdmal9nXzV6bTdhYlRDUFp6ZmZqTGd3UDBF?oc=5",
+   "published": "2026-11-11T06:10:00+00:00",
+   "sector": "Grid, Storage & Electrification"
+  },
+  {
+   "rank": 2,
+   "ticker": "BE",
+   "company": "Bloom Energy Corporation",
+   "move_pct": 7.11,
+   "price": 198.61,
+   "volume": 13213800,
+   "volume_vs_avg": "~0.8x",
+   "heat_score": 44,
+   "direction": "up",
+   "why": "Can Bloom Energy (BE) Justify Its Price on Future Cash Flow?",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNX3ppaW05cUpDLVA2d3FrY0lCN0I3ZUdDaUNsRGVFLVRZeTV3OFlsdW4ybUFCczA5cFo2RjBWd1F1V0ZYOUhCU00wRmJhbDZuLW11RWxmY1FlV0tPQnRfSnVSQVQxUkZ5NDlxdUJoOW5ZalIyOVV4UDk2eDN0VWJhaXVjSV9WVGVzYmd5R3hwUEktSHFsWE5FamRtSmg4TlE?oc=5",
+   "published": "2026-11-11T06:14:06+00:00",
+   "sector": "Grid, Storage & Electrification"
+  }
+ ]
 }
