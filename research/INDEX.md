@@ -1,5 +1,5 @@
-# Watchlist Research Index — 10.11.2026
-> Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-10.
+# Watchlist Research Index — 11.11.2026
+> Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-11.
 
 | Ticker | Mkt cap | 1Y | Fwd P/E | Net margin | Momentum | Value | Risk |
 |---|---|---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | OKLO | $4.90B | -78% | -22.0 | 0% | Low | Reasonable | High |
 | SMR | $2.14B | -83% | -7.8 | 0% | Low | Reasonable | High |
 | LEU | $2.27B | -63% | 26.3 | 17% | Low | Fair-to-demanding | High |
-| NXE | $5.59B | -1% | -65.9 | 0% | Low | Reasonable | High |
+| NXE | $5.59B | -1% | -62.4 | 0% | Low | Reasonable | High |
 | UEC | $3.55B | -41% | -96.9 | 0% | Low | Reasonable | High |
 | UUUU | $1.78B | -57% | 13.9 | -100% | Low | Reasonable | High |
 | BWXT | $11.60B | -34% | 24.3 | 10% | Low | Fair-to-demanding | Elevated |
