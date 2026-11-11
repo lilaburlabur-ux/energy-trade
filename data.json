@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-11T01:01:45+00:00",
-  "as_of_local": "2026-11-11 01:01:45 UTC",
+  "as_of_utc": "2026-11-11T01:17:03+00:00",
+  "as_of_local": "2026-11-11 01:17:03 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "FLNC"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1853,34 +1855,6 @@
       ]
     },
     {
-      "symbol": "FLNC",
-      "name": "Fluence Energy",
-      "price": 5.4,
-      "previous_close": 5.27,
-      "change_pct": 2.47,
-      "market_cap": 702933217.08,
-      "headlines": [
-        {
-          "title": "Gevo, Inc. (GEVO) Q3 Earnings and Revenues Beat Estimates",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/gevo-inc-gevo-q3-earnings-214002018.html",
-          "publisher": "Zacks",
-          "published": "2026-11-10T21:40:02Z"
-        },
-        {
-          "title": "Hallador Energy (HNRG) Reports Break-Even Earnings for Q3",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/hallador-energy-hnrg-reports-break-223505693.html",
-          "publisher": "Zacks",
-          "published": "2026-11-09T22:35:05Z"
-        },
-        {
-          "title": "What The Bulls Got Wrong Before Fluence Energy Fell 77%",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bulls-got-wrong-fluence-energy-181531924.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-07T18:15:31Z"
-        }
-      ]
-    },
-    {
       "symbol": "EOSE",
       "name": "Eos Energy",
       "price": 1.88,
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 86.36,
-      "change_pct": -0.56
+      "price": 86.46,
+      "change_pct": -0.45
     },
     {
       "label": "Brent",
-      "price": 91.94,
-      "change_pct": -0.68
+      "price": 92.02,
+      "change_pct": -0.59
     },
     {
       "label": "NatGas",
-      "price": 3.3,
-      "change_pct": 2.55
+      "price": 3.31,
+      "change_pct": 2.8
     }
   ]
 }
