@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-11T10:18:11+00:00",
-  "as_of_local": "2026-11-11 10:18:11 UTC",
+  "as_of_utc": "2026-11-11T10:23:02+00:00",
+  "as_of_local": "2026-11-11 10:23:02 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "BE"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -869,34 +871,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/national-fuel-gas-paid-dividend-204712533.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-10T20:47:12Z"
-        }
-      ]
-    },
-    {
-      "symbol": "BE",
-      "name": "Bloom Energy",
-      "price": 185.42,
-      "previous_close": 193.88,
-      "change_pct": -4.36,
-      "market_cap": 54798510234.99519,
-      "headlines": [
-        {
-          "title": "Can Bloom Energy (BE) Justify Its Price on Future Cash Flow?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-justify-price-future-061406494.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-11T06:14:06Z"
-        },
-        {
-          "title": "GE Vernova Falls 4% as SoftBank\u2019s Ohio Data Center Undergoes \u201cA Thorough Reassessment\u201d",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-falls-4-softbank-211730358.html",
-          "publisher": "TIKR",
-          "published": "2026-11-10T21:17:30Z"
-        },
-        {
-          "title": "AMD and Coherent: What the Biggest Gainers Since the Midterms Selloff Say About the AI Trade",
-          "url": "https://www.barrons.com/articles/amd-stock-coherent-ai-selloff-e457aa02?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-11-10T18:49:00Z"
         }
       ]
     },
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 86.91,
-      "change_pct": 1.01
+      "price": 87.15,
+      "change_pct": 1.29
     },
     {
       "label": "Brent",
-      "price": 93.08,
-      "change_pct": 1.74
+      "price": 93.31,
+      "change_pct": 1.99
     },
     {
       "label": "NatGas",
       "price": 3.31,
-      "change_pct": 0.49
+      "change_pct": 0.46
     }
   ]
 }
