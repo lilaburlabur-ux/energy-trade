@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-11T06:35:43+00:00",
-  "as_of_local": "2026-11-11 06:35:43 UTC",
+  "as_of_utc": "2026-11-11T06:50:39+00:00",
+  "as_of_local": "2026-11-11 06:50:39 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -293,6 +293,12 @@
       "market_cap": 106067558850.2417,
       "headlines": [
         {
+          "title": "Zacks Investment Ideas feature highlights: CVR Energy, Delek US, Northern Oil and Gas and Marathon Petroleum",
+          "url": "https://finance.yahoo.com/energy/articles/zacks-investment-ideas-feature-highlights-053300546.html",
+          "publisher": "Zacks",
+          "published": "2026-11-11T05:33:00Z"
+        },
+        {
           "title": "3 Oil Stocks to Buy on the Dip After Crushing Q3 Expectations: CVI, DK, NOG",
           "url": "https://finance.yahoo.com/energy/articles/3-oil-stocks-buy-dip-185500685.html",
           "publisher": "Zacks",
@@ -303,12 +309,6 @@
           "url": "https://finance.yahoo.com/energy/articles/chevron-expands-namibia-ties-qatarenergy-181600970.html",
           "publisher": "Zacks",
           "published": "2026-11-10T18:16:00Z"
-        },
-        {
-          "title": "Is Chevron Stock A Real Bargain?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/chevron-stock-real-bargain-180503380.html",
-          "publisher": "Trefis",
-          "published": "2026-11-10T18:05:03Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 86.67,
-      "change_pct": 0.73
+      "price": 86.63,
+      "change_pct": 0.69
     },
     {
       "label": "Brent",
-      "price": 92.53,
-      "change_pct": 1.14
+      "price": 92.5,
+      "change_pct": 1.1
     },
     {
       "label": "NatGas",
-      "price": 3.29,
-      "change_pct": -0.18
+      "price": 3.31,
+      "change_pct": 0.27
     }
   ]
 }
