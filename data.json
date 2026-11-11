@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-11T03:52:56+00:00",
-  "as_of_local": "2026-11-11 03:52:56 UTC",
+  "as_of_utc": "2026-11-11T04:08:09+00:00",
+  "as_of_local": "2026-11-11 04:08:09 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NOV"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1517,34 +1519,6 @@
       ]
     },
     {
-      "symbol": "NOV",
-      "name": "NOV Inc",
-      "price": 17.68,
-      "previous_close": 17.69,
-      "change_pct": -0.06,
-      "market_cap": 6303140949.678978,
-      "headlines": [
-        {
-          "title": "DTI Q3 Earnings Miss Estimates on Higher Costs Despite Sales Growth",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/dti-q3-earnings-miss-estimates-181500794.html",
-          "publisher": "Zacks",
-          "published": "2026-11-10T18:15:00Z"
-        },
-        {
-          "title": "CNQ Q3 Earnings Beat on Strong Pricing and Record Thermal Output",
-          "url": "https://finance.yahoo.com/energy/articles/cnq-q3-earnings-beat-strong-152800153.html",
-          "publisher": "Zacks",
-          "published": "2026-11-09T15:28:00Z"
-        },
-        {
-          "title": "Why Is Baker Hughes Stock Falling?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-baker-hughes-stock-falling-141921435.html",
-          "publisher": "Trefis",
-          "published": "2026-11-06T14:19:21Z"
-        }
-      ]
-    },
-    {
       "symbol": "WFRD",
       "name": "Weatherford",
       "price": 84.31,
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 86.65,
-      "change_pct": -0.23
+      "price": 86.66,
+      "change_pct": -0.22
     },
     {
       "label": "Brent",
-      "price": 92.47,
-      "change_pct": -0.11
+      "price": 92.49,
+      "change_pct": -0.09
     },
     {
       "label": "NatGas",
       "price": 3.3,
-      "change_pct": 2.49
+      "change_pct": 2.39
     }
   ]
 }
