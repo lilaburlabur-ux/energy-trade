@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-11T22:23:21+00:00",
-  "as_of_local": "2026-11-11 22:23:21 UTC",
+  "as_of_utc": "2026-11-11T22:28:30+00:00",
+  "as_of_local": "2026-11-11 22:28:30 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "OKLO"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -99,6 +97,12 @@
       "market_cap": 213922589239.10303,
       "headlines": [
         {
+          "title": "GE Vernova Fell 25% on Data Center Fears. Only About 20% of Its Gas Turbine Customers Are Data Centers. Time to Buy?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-fell-25-data-222500414.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-11T22:25:00Z"
+        },
+        {
           "title": "AI Stocks, Neoclouds Rebound From SoftBank Bump, Get CoreWeave Lift",
           "url": "https://www.investors.com/news/softbank-coreweave-earnings-ai-neocloud-rally-demand-fears-ai-stocks/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
@@ -109,12 +113,6 @@
           "url": "https://www.barrons.com/articles/ge-vernova-hitachi-stock-nuclear-energy-51a5d81c?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
           "published": "2026-11-11T19:46:00Z"
-        },
-        {
-          "title": "GE Vernova Stocks Rise Nearly 3% After SoftBank's $3.7 Billion Power-Equipment Charge",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-stocks-rise-nearly-183214486.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-11T18:32:14Z"
         }
       ]
     },
@@ -1599,6 +1597,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/nexgen-energy-ltd-nxe-q3-010439781.html",
           "publisher": "GuruFocus.com",
           "published": "2026-11-11T01:04:39Z"
+        }
+      ]
+    },
+    {
+      "symbol": "OKLO",
+      "name": "Oklo",
+      "price": 25.86,
+      "previous_close": 25.09,
+      "change_pct": 3.07,
+      "market_cap": 5050188994.175308,
+      "headlines": [
+        {
+          "title": "Bad News for Nuclear: A Landmark Reactor Just Got Delayed",
+          "url": "https://www.barrons.com/articles/ge-vernova-hitachi-stock-nuclear-energy-51a5d81c?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-11-11T19:46:00Z"
+        },
+        {
+          "title": "Craig-Hallum Just Cut Its Oklo Target From $53 to $27 After a Better-Than-Expected Quarter",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/craig-hallum-just-cut-oklo-192029054.html",
+          "publisher": "TIKR",
+          "published": "2026-11-11T19:20:29Z"
+        },
+        {
+          "title": "OKLO Stock After Q3 Earnings: Buy, Sell or Hold for Now?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/oklo-stock-q3-earnings-buy-162900487.html",
+          "publisher": "Zacks",
+          "published": "2026-11-11T16:29:00Z"
         }
       ]
     },
