@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-11T12:04:26+00:00",
-  "as_of_local": "2026-11-11 12:04:26 UTC",
+  "as_of_utc": "2026-11-11T12:09:36+00:00",
+  "as_of_local": "2026-11-11 12:09:36 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "TRGP"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -183,6 +181,12 @@
       "market_cap": 160312806048.7897,
       "headlines": [
         {
+          "title": "Venture Global, Inc. Q3 2026 Earnings Call Summary",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/venture-global-inc-q3-2026-015344341.html",
+          "publisher": "Moby",
+          "published": "2026-11-11T01:53:44Z"
+        },
+        {
           "title": "This Energy Stock Just Raised Its Dividend by More Than 10%",
           "url": "https://finance.yahoo.com/energy/articles/energy-stock-just-raised-dividend-003004663.html",
           "publisher": "Barchart",
@@ -193,12 +197,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/chevron-stock-real-bargain-180503380.html",
           "publisher": "Trefis",
           "published": "2026-11-10T18:05:03Z"
-        },
-        {
-          "title": "ConocoPhillips Just Raised Its Dividend 10.7%. Does Its Free Cash Flow Cover the 2.5% Yield?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/conocophillips-just-raised-dividend-10-145841774.html",
-          "publisher": "TIKR",
-          "published": "2026-11-10T14:58:41Z"
         }
       ]
     },
@@ -703,6 +701,34 @@
           "url": "https://finance.yahoo.com/energy/articles/4-pipeline-stocks-ranked-one-163500970.html",
           "publisher": "Motley Fool",
           "published": "2026-11-10T16:35:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "TRGP",
+      "name": "Targa Resources",
+      "price": 281.32,
+      "previous_close": 273.63,
+      "change_pct": 2.81,
+      "market_cap": 60358335945.96051,
+      "headlines": [
+        {
+          "title": "What Targa Resources (TRGP) Said on Its Q3 Earnings Call",
+          "url": "https://finance.yahoo.com/energy/articles/targa-resources-trgp-said-q3-171429077.html",
+          "publisher": "MarketBeat",
+          "published": "2026-11-08T17:14:29Z"
+        },
+        {
+          "title": "Targa Resources Corp (TRGP) (Q3 2026) Earnings Call Highlights: Record Permian Volumes Drive $6 ...",
+          "url": "https://finance.yahoo.com/energy/articles/targa-resources-corp-trgp-q3-071457239.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-06T07:14:57Z"
+        },
+        {
+          "title": "Targa Resources Corp. Q3 2026 Earnings Call Summary",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/targa-resources-corp-q3-2026-230235227.html",
+          "publisher": "Moby",
+          "published": "2026-11-05T23:02:35Z"
         }
       ]
     },
@@ -1331,6 +1357,12 @@
       "market_cap": 15713248269.517578,
       "headlines": [
         {
+          "title": "Talen Energy Receives Seven-Year Capacity Deal Worth $100 Million Annually",
+          "url": "https://finance.yahoo.com/energy/articles/talen-energy-receives-seven-capacity-115512568.html",
+          "publisher": "MT Newswires",
+          "published": "2026-11-11T11:55:12Z"
+        },
+        {
           "title": "Can Talen Energy (TLN) Still Look Cheap After Its Huge Run?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/talen-energy-tln-still-look-111342154.html",
           "publisher": "Simply Wall St.",
@@ -1341,12 +1373,6 @@
           "url": "https://finance.yahoo.com/energy/articles/constellation-vistra-headlines-2-power-170500740.html",
           "publisher": "Motley Fool",
           "published": "2026-11-10T17:05:00Z"
-        },
-        {
-          "title": "NRG Soars 10% on $4 Billion Gas Plant Sale and $3 Billion Buyback Plan: \u201cUnlocking Substantial Value\u201d",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nrg-soars-10-4-billion-221526956.html",
-          "publisher": "TIKR",
-          "published": "2026-11-09T22:15:26Z"
         }
       ]
     },
@@ -1976,8 +2002,8 @@
           "name": "Targa Resources Corp",
           "short": "Targa",
           "weight_pct": 3.16,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": 2.81,
+          "price": 281.32,
           "currency": "USD"
         }
       ]
@@ -2075,8 +2101,8 @@
         "name": "Targa Resources Corp",
         "short": "Targa",
         "weight_pct": 3.16,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": 2.81,
+        "price": 281.32,
         "currency": "USD"
       }
     ]
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 86.68,
-      "change_pct": 0.74
+      "price": 86.62,
+      "change_pct": 0.67
     },
     {
       "label": "Brent",
-      "price": 92.76,
-      "change_pct": 1.39
+      "price": 92.71,
+      "change_pct": 1.33
     },
     {
       "label": "NatGas",
       "price": 3.33,
-      "change_pct": 1.06
+      "change_pct": 1.12
     }
   ]
 }
