@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-11T04:23:11+00:00",
-  "as_of_local": "2026-11-11 04:23:11 UTC",
+  "as_of_utc": "2026-11-11T04:38:12+00:00",
+  "as_of_local": "2026-11-11 04:38:12 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "EOSE"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -435,6 +433,12 @@
       "market_cap": 94869347261.073,
       "headlines": [
         {
+          "title": "CEG Stock Is On Track To Reverse Last Week's Losses: Here's Why This Analyst Sees An Upside Of 29%",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ceg-stock-track-reverse-last-042730883.html",
+          "publisher": "Stocktwits",
+          "published": "2026-11-11T04:27:30Z"
+        },
+        {
           "title": "America Has 6\u20137 Years of Untapped Power for AI Data Centers, Constellation CEO Says",
           "url": "https://finance.yahoo.com/energy/articles/america-6-7-years-untapped-022949127.html",
           "publisher": "Benzinga",
@@ -445,12 +449,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/constellation-energy-ceg-stock-cools-021550597.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-11T02:15:50Z"
-        },
-        {
-          "title": "Surprised By Constellation Energy's Slide? What Investors Missed",
-          "url": "https://finance.yahoo.com/energy/articles/surprised-constellation-energys-slide-investors-001534913.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-11T00:15:34Z"
         }
       ]
     },
@@ -1881,6 +1879,34 @@
           "published": "2026-11-07T18:15:31Z"
         }
       ]
+    },
+    {
+      "symbol": "EOSE",
+      "name": "Eos Energy",
+      "price": 1.74,
+      "previous_close": 1.88,
+      "change_pct": -7.45,
+      "market_cap": 637473361.7539194,
+      "headlines": [
+        {
+          "title": "Eos Energy Enterprises (EOSE) Stock Looks Fully Priced After Revenue Jump",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/eos-energy-enterprises-eose-stock-131808170.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-06T13:18:08Z"
+        },
+        {
+          "title": "Eos Energy Enterprises Inc (EOSE) Q3 2026 Earnings Call Highlights: Record Revenue and Margin ...",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/eos-energy-enterprises-inc-eose-071128915.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-06T07:11:28Z"
+        },
+        {
+          "title": "Eos Energy Enterprises, Inc. Q3 2026 Earnings Call Summary",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/eos-energy-enterprises-inc-q3-040539828.html",
+          "publisher": "Moby",
+          "published": "2026-11-06T04:05:39Z"
+        }
+      ]
     }
   ],
   "etfs": [
@@ -2094,13 +2120,13 @@
     },
     {
       "label": "Brent",
-      "price": 92.45,
-      "change_pct": -0.13
+      "price": 92.41,
+      "change_pct": -0.17
     },
     {
       "label": "NatGas",
       "price": 3.29,
-      "change_pct": 2.3
+      "change_pct": 2.21
     }
   ]
 }
