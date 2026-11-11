@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-11T00:31:45+00:00",
-  "as_of_local": "2026-11-11 00:31:45 UTC",
+  "as_of_utc": "2026-11-11T00:36:42+00:00",
+  "as_of_local": "2026-11-11 00:36:42 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "OKE"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -843,6 +841,34 @@
           "url": "https://finance.yahoo.com/energy/articles/occidental-apos-debt-reduction-carbon-203207354.html",
           "publisher": "MT Newswires",
           "published": "2026-11-10T20:32:07Z"
+        }
+      ]
+    },
+    {
+      "symbol": "OKE",
+      "name": "ONEOK",
+      "price": 87.37,
+      "previous_close": 85.98,
+      "change_pct": 1.62,
+      "market_cap": 55082456412.27384,
+      "headlines": [
+        {
+          "title": "A 70-Year-Old With $1,000,000 in Hormel, AT&T and ONEOK Collects $4,230 a Month in Dividends. How Safe Is Each Check?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/70-old-1-000-000-222344569.html",
+          "publisher": "TIKR",
+          "published": "2026-11-10T22:23:44Z"
+        },
+        {
+          "title": "National Fuel Gas Has Paid a Dividend for 124 Straight Years. Can It Keep Going?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/national-fuel-gas-paid-dividend-204712533.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-10T20:47:12Z"
+        },
+        {
+          "title": "How Much Does a 60-Year-Old Need Invested to Replace a $125,000 Salary With Dividends and Never Sell a Share?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/much-does-60-old-invested-200707706.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-10T20:07:07Z"
         }
       ]
     },
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 86.2,
-      "change_pct": -0.75
+      "price": 86.25,
+      "change_pct": -0.69
     },
     {
       "label": "Brent",
-      "price": 91.8,
-      "change_pct": -0.83
+      "price": 91.84,
+      "change_pct": -0.79
     },
     {
       "label": "NatGas",
-      "price": 3.29,
-      "change_pct": 2.33
+      "price": 3.3,
+      "change_pct": 2.45
     }
   ]
 }
