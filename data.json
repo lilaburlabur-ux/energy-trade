@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-11T08:16:41+00:00",
-  "as_of_local": "2026-11-11 08:16:41 UTC",
+  "as_of_utc": "2026-11-11T08:21:19+00:00",
+  "as_of_local": "2026-11-11 08:21:19 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "VRT"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -591,6 +589,34 @@
           "url": "https://finance.yahoo.com/energy/articles/suncor-energy-tsx-su-lifts-210832875.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-09T21:08:32Z"
+        }
+      ]
+    },
+    {
+      "symbol": "VRT",
+      "name": "Vertiv",
+      "price": 194.22,
+      "previous_close": 200.47,
+      "change_pct": -3.12,
+      "market_cap": 74786435436.66446,
+      "headlines": [
+        {
+          "title": "Zacks.com featured highlights include Stride, Ralph Lauren, Cardinal Health and Vertiv",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-com-featured-highlights-stride-061000612.html",
+          "publisher": "Zacks",
+          "published": "2026-11-11T06:10:00Z"
+        },
+        {
+          "title": "GE Vernova Falls 4% as SoftBank\u2019s Ohio Data Center Undergoes \u201cA Thorough Reassessment\u201d",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-falls-4-softbank-211730358.html",
+          "publisher": "TIKR",
+          "published": "2026-11-10T21:17:30Z"
+        },
+        {
+          "title": "Vertiv Holdings Co (VRT) Secures Infineon Supply Deal, Is The Valuation Gap Still Compelling?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/vertiv-holdings-co-vrt-secures-211107866.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-10T21:11:07Z"
         }
       ]
     },
@@ -2089,13 +2115,13 @@
     },
     {
       "label": "WTI",
-      "price": 86.22,
-      "change_pct": 0.21
+      "price": 86.32,
+      "change_pct": 0.33
     },
     {
       "label": "Brent",
-      "price": 92.04,
-      "change_pct": 0.6
+      "price": 92.1,
+      "change_pct": 0.67
     },
     {
       "label": "NatGas",
