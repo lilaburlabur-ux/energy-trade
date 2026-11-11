@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-11T00:30:51+00:00",
+  "as_of": "2026-11-11T00:46:07+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -27,11 +27,11 @@
    "rank": 2,
    "ticker": "ARRY",
    "company": "Array Technologies, Inc.",
-   "move_pct": -8.86,
-   "price": 4.73,
+   "move_pct": -8.47,
+   "price": 4.75,
    "volume": 13839893,
    "volume_vs_avg": "~1.4x",
-   "heat_score": 63,
+   "heat_score": 61,
    "direction": "down",
    "why": "Nextpower, Blink Charging, FTAI Aviation, Array, and Shoals shares plummet, what you need to know",
    "catalyst_type": "momentum_narrative",
@@ -43,7 +43,7 @@
    "rank": 3,
    "ticker": "FLNC",
    "company": "Fluence Energy, Inc.",
-   "move_pct": -8.39,
+   "move_pct": -8.34,
    "price": 4.95,
    "volume": 6925354,
    "volume_vs_avg": "~1.1x",
