@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-11T13:00:14+00:00",
-  "as_of_local": "2026-11-11 13:00:14 UTC",
+  "as_of_utc": "2026-11-11T13:05:00+00:00",
+  "as_of_local": "2026-11-11 13:05:00 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -433,6 +433,12 @@
       "market_cap": 94146696464.7168,
       "headlines": [
         {
+          "title": "Constellation Has Done Something \u2018Unseen\u2019 in the Power Industry, CEO Says",
+          "url": "https://finance.yahoo.com/energy/articles/constellation-done-something-unseen-power-120014364.html",
+          "publisher": "Benzinga",
+          "published": "2026-11-11T12:00:14Z"
+        },
+        {
           "title": "State Street Utilities SPDR (XLU) Buys $76 Million More NextEra on Monday",
           "url": "https://finance.yahoo.com/markets/stocks/articles/state-street-utilities-spdr-xlu-110336513.html",
           "publisher": "GuruFocus.com",
@@ -443,12 +449,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/ceg-stock-track-reverse-last-042730883.html",
           "publisher": "Stocktwits",
           "published": "2026-11-11T04:27:30Z"
-        },
-        {
-          "title": "America Has 6\u20137 Years of Untapped Power for AI Data Centers, Constellation CEO Says",
-          "url": "https://finance.yahoo.com/energy/articles/america-6-7-years-untapped-022949127.html",
-          "publisher": "Benzinga",
-          "published": "2026-11-11T02:29:49Z"
         }
       ]
     },
@@ -881,6 +881,12 @@
       "market_cap": 54798510234.99519,
       "headlines": [
         {
+          "title": "10 Stocks Rode Trump Era \u2014 What Happens As MAGA 'Disintegrates'?",
+          "url": "https://www.investors.com/etfs-and-funds/sectors/sp500-stocks-rode-trump-era-what-happens-as-maga-disintegrates/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-11-11T13:00:00Z"
+        },
+        {
           "title": "AI Villain Turns Hero but Stock Market Chaos Is Just Getting Started",
           "url": "https://www.barrons.com/articles/stock-market-things-to-know-today-d180c193?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
@@ -891,12 +897,6 @@
           "url": "https://www.barrons.com/articles/coreweave-ai-bloom-energy-stock-power-addbb638?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
           "published": "2026-11-11T11:39:00Z"
-        },
-        {
-          "title": "Nvidia, CoreWeave, Marvell, Dell, Costco, and More Stocks That Explain Today\u2019s Market",
-          "url": "https://www.barrons.com/articles/stock-movers-e9c667c2?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-11-11T11:27:00Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 87.27,
-      "change_pct": 1.43
+      "price": 87.22,
+      "change_pct": 1.37
     },
     {
       "label": "Brent",
-      "price": 93.29,
-      "change_pct": 1.97
+      "price": 93.13,
+      "change_pct": 1.79
     },
     {
       "label": "NatGas",
-      "price": 3.33,
-      "change_pct": 0.94
+      "price": 3.34,
+      "change_pct": 1.21
     }
   ]
 }
