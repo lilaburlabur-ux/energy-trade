@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-11T03:17:52+00:00",
-  "as_of_local": "2026-11-11 03:17:52 UTC",
+  "as_of_utc": "2026-11-11T03:32:46+00:00",
+  "as_of_local": "2026-11-11 03:32:46 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -433,6 +433,12 @@
       "market_cap": 94869347261.073,
       "headlines": [
         {
+          "title": "America Has 6\u20137 Years of Untapped Power for AI Data Centers, Constellation CEO Says",
+          "url": "https://finance.yahoo.com/energy/articles/america-6-7-years-untapped-022949127.html",
+          "publisher": "Benzinga",
+          "published": "2026-11-11T02:29:49Z"
+        },
+        {
           "title": "Constellation Energy (CEG) Stock Cools After Q3 Earnings Powerhouse",
           "url": "https://finance.yahoo.com/markets/stocks/articles/constellation-energy-ceg-stock-cools-021550597.html",
           "publisher": "Simply Wall St.",
@@ -443,12 +449,6 @@
           "url": "https://finance.yahoo.com/energy/articles/surprised-constellation-energys-slide-investors-001534913.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-11T00:15:34Z"
-        },
-        {
-          "title": "Earnings Calendar and Analysis for This Week",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/earnings-calendar-analysis-week-june-162434561.html",
-          "publisher": "Kiplinger",
-          "published": "2026-11-10T21:25:47Z"
         }
       ]
     },
@@ -993,6 +993,12 @@
       "market_cap": 47439359109.80525,
       "headlines": [
         {
+          "title": "What Does Baker Hughes (BKR) Winning The Cronos Cyprus Contract Mean?",
+          "url": "https://finance.yahoo.com/energy/articles/does-baker-hughes-bkr-winning-031556444.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-11T03:15:56Z"
+        },
+        {
           "title": "Top 5 Activist Target Stocks for Spin-offs or Breakups",
           "url": "https://finance.yahoo.com/markets/stocks/articles/top-5-activist-target-stocks-185813908.html",
           "publisher": "Insider Monkey",
@@ -1003,12 +1009,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/baker-hughes-stock-outlook-wall-145105064.html",
           "publisher": "Barchart",
           "published": "2026-11-10T14:51:05Z"
-        },
-        {
-          "title": "Venture Global CEO Eyes New Growth Opportunity In Off-Grid Power For AI Data Centers \u2013 Firm Raises FY2026 Guidance After Record Q3 Earnings",
-          "url": "https://finance.yahoo.com/energy/articles/venture-global-ceo-eyes-growth-133349752.html",
-          "publisher": "Stocktwits",
-          "published": "2026-11-10T13:33:49Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 86.54,
-      "change_pct": -0.36
+      "price": 86.49,
+      "change_pct": -0.41
     },
     {
       "label": "Brent",
-      "price": 92.39,
-      "change_pct": -0.19
+      "price": 92.32,
+      "change_pct": -0.27
     },
     {
       "label": "NatGas",
-      "price": 3.31,
-      "change_pct": 2.77
+      "price": 3.3,
+      "change_pct": 2.64
     }
   ]
 }
