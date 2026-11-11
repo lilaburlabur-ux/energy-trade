@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-11T10:57:29+00:00",
-  "as_of_local": "2026-11-11 10:57:29 UTC",
+  "as_of_utc": "2026-11-11T10:58:36+00:00",
+  "as_of_local": "2026-11-11 10:58:36 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "UEC"
+    "LNG"
   ],
   "stocks": [
     {
@@ -759,34 +759,6 @@
           "url": "https://finance.yahoo.com/news/people-pay-power-bill-almost-221425733.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-09T22:14:25Z"
-        }
-      ]
-    },
-    {
-      "symbol": "LNG",
-      "name": "Cheniere Energy",
-      "price": 293.49,
-      "previous_close": 284.95,
-      "change_pct": 3.0,
-      "market_cap": 59931804725.68115,
-      "headlines": [
-        {
-          "title": "Cheniere Energy (LNG) Locks In New Debt As Its LNG Growth Story Keeps Valuation In Focus",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/cheniere-energy-lng-locks-debt-052030510.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-11T05:20:30Z"
-        },
-        {
-          "title": "Has Cheniere Energy (LNG) Priced In Its Stronger Cash Flow Outlook?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/cheniere-energy-lng-priced-stronger-021521231.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-11T02:15:21Z"
-        },
-        {
-          "title": "4 Energy Stocks to Watch as QatarEnergy Eyes More U.S. LNG Deals",
-          "url": "https://finance.yahoo.com/energy/articles/4-energy-stocks-watch-qatarenergy-181900396.html",
-          "publisher": "Zacks",
-          "published": "2026-11-10T18:19:00Z"
         }
       ]
     },
@@ -2089,18 +2061,18 @@
     },
     {
       "label": "WTI",
-      "price": 87.24,
-      "change_pct": 1.39
+      "price": 87.14,
+      "change_pct": 1.28
     },
     {
       "label": "Brent",
-      "price": 93.46,
-      "change_pct": 2.15
+      "price": 93.33,
+      "change_pct": 2.01
     },
     {
       "label": "NatGas",
-      "price": 3.32,
-      "change_pct": 0.67
+      "price": 3.31,
+      "change_pct": 0.46
     }
   ]
 }
