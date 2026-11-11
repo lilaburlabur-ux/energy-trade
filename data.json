@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-11T23:29:15+00:00",
-  "as_of_local": "2026-11-11 23:29:15 UTC",
+  "as_of_utc": "2026-11-11T23:34:17+00:00",
+  "as_of_local": "2026-11-11 23:34:17 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -97,6 +97,12 @@
       "market_cap": 213922589239.10303,
       "headlines": [
         {
+          "title": "GE Vernova\u2019s Ontario Nuclear Plant Is Facing Delays And Rising Costs",
+          "url": "https://finance.yahoo.com/energy/articles/ge-vernova-ontario-nuclear-plant-232639767.html",
+          "publisher": "Stocktwits",
+          "published": "2026-11-11T23:26:39Z"
+        },
+        {
           "title": "GE Vernova Fell 25% on Data Center Fears. Only About 20% of Its Gas Turbine Customers Are Data Centers. Time to Buy?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-fell-25-data-222500414.html",
           "publisher": "Motley Fool",
@@ -107,12 +113,6 @@
           "url": "https://www.investors.com/news/softbank-coreweave-earnings-ai-neocloud-rally-demand-fears-ai-stocks/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
           "published": "2026-11-11T21:43:40Z"
-        },
-        {
-          "title": "Bad News for Nuclear: A Landmark Reactor Just Got Delayed",
-          "url": "https://www.barrons.com/articles/ge-vernova-hitachi-stock-nuclear-energy-51a5d81c?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-11-11T19:46:00Z"
         }
       ]
     },
@@ -775,16 +775,16 @@
           "published": "2026-11-11T18:53:58Z"
         },
         {
+          "title": "Dow Jones Futures: Techs Tumble Late As Nvidia May Oust CEO Huang; AI Stocks Slide, But Not AMD",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-coreweave-sandisk-nvidia-amd-nebius-bloom/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-11-11T23:28:21Z"
+        },
+        {
           "title": "What\u2019s Propelling Bloom Energy\u2019s (BE) 13% Run?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/propelling-bloom-energy-13-run-232201092.html",
           "publisher": "Insider Monkey",
           "published": "2026-11-11T23:22:01Z"
-        },
-        {
-          "title": "Dow Jones Futures: Techs Tumble Late As Nvidia May Oust CEO Huang; AI Stocks Slide, But Not AMD",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-coreweave-sandisk-nvidia-amd-nebius-bloom/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-11-11T23:15:52Z"
         }
       ]
     },
@@ -1609,6 +1609,12 @@
       "market_cap": 5050188994.175308,
       "headlines": [
         {
+          "title": "GE Vernova\u2019s Ontario Nuclear Plant Is Facing Delays And Rising Costs",
+          "url": "https://finance.yahoo.com/energy/articles/ge-vernova-ontario-nuclear-plant-232639767.html",
+          "publisher": "Stocktwits",
+          "published": "2026-11-11T23:26:39Z"
+        },
+        {
           "title": "Bad News for Nuclear: A Landmark Reactor Just Got Delayed",
           "url": "https://www.barrons.com/articles/ge-vernova-hitachi-stock-nuclear-energy-51a5d81c?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
@@ -1619,12 +1625,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/craig-hallum-just-cut-oklo-192029054.html",
           "publisher": "TIKR",
           "published": "2026-11-11T19:20:29Z"
-        },
-        {
-          "title": "OKLO Stock After Q3 Earnings: Buy, Sell or Hold for Now?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/oklo-stock-q3-earnings-buy-162900487.html",
-          "publisher": "Zacks",
-          "published": "2026-11-11T16:29:00Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 86.21,
-      "change_pct": 0.2
+      "price": 86.25,
+      "change_pct": 0.24
     },
     {
       "label": "Brent",
-      "price": 92.4,
-      "change_pct": 0.99
+      "price": 92.44,
+      "change_pct": 1.04
     },
     {
       "label": "NatGas",
       "price": 3.24,
-      "change_pct": -1.7
+      "change_pct": -1.67
     }
   ]
 }
