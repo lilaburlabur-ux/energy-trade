@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-11T13:25:39+00:00",
-  "as_of_local": "2026-11-11 13:25:39 UTC",
+  "as_of_utc": "2026-11-11T13:30:32+00:00",
+  "as_of_local": "2026-11-11 13:30:32 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "CCJ"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1097,34 +1099,6 @@
       ]
     },
     {
-      "symbol": "CCJ",
-      "name": "Cameco",
-      "price": 72.87,
-      "previous_close": 75.37,
-      "change_pct": -3.32,
-      "market_cap": 31737289375.957054,
-      "headlines": [
-        {
-          "title": "3 Canadian Nuclear Stocks To Own In November 2026",
-          "url": "https://finance.yahoo.com/energy/articles/3-canadian-nuclear-stocks-own-011234187.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-11T01:12:34Z"
-        },
-        {
-          "title": "5 Stocks Analysts Just Upgraded",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/5-stocks-analysts-just-upgraded-222146322.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-11-10T22:21:46Z"
-        },
-        {
-          "title": "Brokers Suggest Investing in Cameco (CCJ): Read This Before Placing a Bet",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/brokers-suggest-investing-cameco-ccj-133003087.html",
-          "publisher": "Zacks",
-          "published": "2026-11-10T13:30:03Z"
-        }
-      ]
-    },
-    {
       "symbol": "HAL",
       "name": "Halliburton",
       "price": 31.86,
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 87.14,
-      "change_pct": 1.28
+      "price": 87.05,
+      "change_pct": 1.17
     },
     {
       "label": "Brent",
-      "price": 92.86,
-      "change_pct": 1.5
+      "price": 92.76,
+      "change_pct": 1.39
     },
     {
       "label": "NatGas",
-      "price": 3.37,
-      "change_pct": 2.25
+      "price": 3.38,
+      "change_pct": 2.4
     }
   ]
 }
