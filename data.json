@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-11T09:27:19+00:00",
-  "as_of_local": "2026-11-11 09:27:19 UTC",
+  "as_of_utc": "2026-11-11T09:32:20+00:00",
+  "as_of_local": "2026-11-11 09:32:20 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -293,6 +293,12 @@
       "market_cap": 106067558850.2417,
       "headlines": [
         {
+          "title": "BoE rate peak of 4.25% \u2018will not be enough\u2019, NIESR says in Autumn 2026 outlook",
+          "url": "https://finance.yahoo.com/economy/policy/articles/boe-rate-peak-4-25-092907206.html",
+          "publisher": "Investing.com",
+          "published": "2026-11-11T09:29:07Z"
+        },
+        {
           "title": "Zacks Investment Ideas feature highlights: CVR Energy, Delek US, Northern Oil and Gas and Marathon Petroleum",
           "url": "https://finance.yahoo.com/energy/articles/zacks-investment-ideas-feature-highlights-053300546.html",
           "publisher": "Zacks",
@@ -303,12 +309,6 @@
           "url": "https://finance.yahoo.com/energy/articles/3-oil-stocks-buy-dip-185500685.html",
           "publisher": "Zacks",
           "published": "2026-11-10T18:55:00Z"
-        },
-        {
-          "title": "Chevron Expands Namibia Ties With QatarEnergy Offshore Stake Deal",
-          "url": "https://finance.yahoo.com/energy/articles/chevron-expands-namibia-ties-qatarenergy-181600970.html",
-          "publisher": "Zacks",
-          "published": "2026-11-10T18:16:00Z"
         }
       ]
     },
@@ -377,6 +377,12 @@
       "market_cap": 97791139962.99362,
       "headlines": [
         {
+          "title": "3 Oil And Gas Stocks Facing The Next Margin Test",
+          "url": "https://finance.yahoo.com/energy/articles/3-oil-gas-stocks-facing-091307870.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-11T09:13:07Z"
+        },
+        {
           "title": "The Zacks Analyst Blog Highlights Quanta, BrightSpring Health, Phillips 66, Valero Energy and HF Sinclair",
           "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-quanta-064100733.html",
           "publisher": "Zacks",
@@ -387,12 +393,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/par-pacific-now-undervalued-strong-184100364.html",
           "publisher": "Zacks",
           "published": "2026-11-10T18:41:00Z"
-        },
-        {
-          "title": "DTI Q3 Earnings Miss Estimates on Higher Costs Despite Sales Growth",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/dti-q3-earnings-miss-estimates-181500794.html",
-          "publisher": "Zacks",
-          "published": "2026-11-10T18:15:00Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 86.42,
-      "change_pct": 0.44
+      "price": 86.83,
+      "change_pct": 0.92
     },
     {
       "label": "Brent",
-      "price": 92.11,
-      "change_pct": 0.68
+      "price": 92.64,
+      "change_pct": 1.26
     },
     {
       "label": "NatGas",
       "price": 3.33,
-      "change_pct": 0.91
+      "change_pct": 0.88
     }
   ]
 }
