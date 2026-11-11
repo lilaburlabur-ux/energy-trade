@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-11T01:52:04+00:00",
-  "as_of_local": "2026-11-11 01:52:04 UTC",
+  "as_of_utc": "2026-11-11T02:07:11+00:00",
+  "as_of_local": "2026-11-11 02:07:11 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "FANG"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -929,34 +931,6 @@
       ]
     },
     {
-      "symbol": "FANG",
-      "name": "Diamondback Energy",
-      "price": 178.17,
-      "previous_close": 178.96,
-      "change_pct": -0.44,
-      "market_cap": 49714209125.28001,
-      "headlines": [
-        {
-          "title": "Buy These 3 Stocks with Broker Rating Upgrades for Big Gains",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/buy-3-stocks-broker-rating-174100677.html",
-          "publisher": "Zacks",
-          "published": "2026-11-10T17:41:00Z"
-        },
-        {
-          "title": "Sector Update: Energy Stocks Fall Pre-Bell Tuesday",
-          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-fall-pre-141948947.html",
-          "publisher": "MT Newswires",
-          "published": "2026-11-10T14:19:48Z"
-        },
-        {
-          "title": "Can ConocoPhillips Sustain Future Production Growth With Lower CapEx?",
-          "url": "https://finance.yahoo.com/energy/articles/conocophillips-sustain-future-production-growth-124100957.html",
-          "publisher": "Zacks",
-          "published": "2026-11-10T12:41:00Z"
-        }
-      ]
-    },
-    {
       "symbol": "DVN",
       "name": "Devon Energy",
       "price": 43.41,
@@ -1189,6 +1163,12 @@
       "market_cap": 23130649972.65,
       "headlines": [
         {
+          "title": "Ingersoll Rand Vs Hubbell: Which Stock Is The Better Buy?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ingersoll-rand-vs-hubbell-stock-014004146.html",
+          "publisher": "Trefis",
+          "published": "2026-11-11T01:40:04Z"
+        },
+        {
           "title": "How Has Eaton's Story Changed?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/eatons-story-changed-214508489.html",
           "publisher": "Trefis",
@@ -1199,12 +1179,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/hubbell-3-key-takeaways-long-232002420.html",
           "publisher": "Motley Fool",
           "published": "2026-11-08T23:20:02Z"
-        },
-        {
-          "title": "3 Value Dividend Stocks To Watch As Rate Cut Hopes Fade",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-value-dividend-stocks-watch-191455855.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-07T19:14:55Z"
         }
       ]
     },
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 86.24,
-      "change_pct": -0.7
+      "price": 86.22,
+      "change_pct": -0.73
     },
     {
       "label": "Brent",
-      "price": 91.86,
-      "change_pct": -0.77
+      "price": 91.9,
+      "change_pct": -0.72
     },
     {
       "label": "NatGas",
-      "price": 3.3,
-      "change_pct": 2.45
+      "price": 3.31,
+      "change_pct": 2.8
     }
   ]
 }
