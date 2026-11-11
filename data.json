@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-11T11:59:21+00:00",
-  "as_of_local": "2026-11-11 11:59:21 UTC",
+  "as_of_utc": "2026-11-11T12:04:26+00:00",
+  "as_of_local": "2026-11-11 12:04:26 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "TRGP"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -14,13 +16,13 @@
       "headlines": [
         {
           "title": "Oil giant Exxon plots Venezuela return ahead of Democrat crackdown",
-          "url": "https://finance.yahoo.com/energy/articles/oil-giant-exxon-plots-venezuela-083000530.html",
+          "url": "https://finance.yahoo.com/news/oil-giant-exxon-plots-venezuela-083000426.html",
           "publisher": "The Telegraph",
           "published": "2026-11-11T08:30:00Z"
         },
         {
           "title": "Oil giant Exxon plots Venezuela return ahead of Democrat crackdown",
-          "url": "https://finance.yahoo.com/news/oil-giant-exxon-plots-venezuela-083000426.html",
+          "url": "https://finance.yahoo.com/energy/articles/oil-giant-exxon-plots-venezuela-083000530.html",
           "publisher": "The Telegraph",
           "published": "2026-11-11T08:30:00Z"
         },
@@ -601,6 +603,12 @@
       "market_cap": 74786435436.66446,
       "headlines": [
         {
+          "title": "GEV, VRT, HUBB In Focus \u2014 JPMorgan Sees Potential AI Stock Rebound, But Remains Cautious On Electrical Equipment Sector",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/gev-vrt-hubb-focus-jpmorgan-115118357.html",
+          "publisher": "Stocktwits",
+          "published": "2026-11-11T11:51:18Z"
+        },
+        {
           "title": "Zacks.com featured highlights include Stride, Ralph Lauren, Cardinal Health and Vertiv",
           "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-com-featured-highlights-stride-061000612.html",
           "publisher": "Zacks",
@@ -611,12 +619,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-falls-4-softbank-211730358.html",
           "publisher": "TIKR",
           "published": "2026-11-10T21:17:30Z"
-        },
-        {
-          "title": "Vertiv Holdings Co (VRT) Secures Infineon Supply Deal, Is The Valuation Gap Still Compelling?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/vertiv-holdings-co-vrt-secures-211107866.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-10T21:11:07Z"
         }
       ]
     },
@@ -701,34 +703,6 @@
           "url": "https://finance.yahoo.com/energy/articles/4-pipeline-stocks-ranked-one-163500970.html",
           "publisher": "Motley Fool",
           "published": "2026-11-10T16:35:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "TRGP",
-      "name": "Targa Resources",
-      "price": 281.32,
-      "previous_close": 273.63,
-      "change_pct": 2.81,
-      "market_cap": 60358335945.96051,
-      "headlines": [
-        {
-          "title": "What Targa Resources (TRGP) Said on Its Q3 Earnings Call",
-          "url": "https://finance.yahoo.com/energy/articles/targa-resources-trgp-said-q3-171429077.html",
-          "publisher": "MarketBeat",
-          "published": "2026-11-08T17:14:29Z"
-        },
-        {
-          "title": "Targa Resources Corp (TRGP) (Q3 2026) Earnings Call Highlights: Record Permian Volumes Drive $6 ...",
-          "url": "https://finance.yahoo.com/energy/articles/targa-resources-corp-trgp-q3-071457239.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-06T07:14:57Z"
-        },
-        {
-          "title": "Targa Resources Corp. Q3 2026 Earnings Call Summary",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/targa-resources-corp-q3-2026-230235227.html",
-          "publisher": "Moby",
-          "published": "2026-11-05T23:02:35Z"
         }
       ]
     },
@@ -2002,8 +1976,8 @@
           "name": "Targa Resources Corp",
           "short": "Targa",
           "weight_pct": 3.16,
-          "change_pct": 2.81,
-          "price": 281.32,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         }
       ]
@@ -2101,8 +2075,8 @@
         "name": "Targa Resources Corp",
         "short": "Targa",
         "weight_pct": 3.16,
-        "change_pct": 2.81,
-        "price": 281.32,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       }
     ]
@@ -2115,13 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 86.71,
-      "change_pct": 0.78
+      "price": 86.68,
+      "change_pct": 0.74
     },
     {
       "label": "Brent",
-      "price": 92.78,
-      "change_pct": 1.41
+      "price": 92.76,
+      "change_pct": 1.39
+    },
+    {
+      "label": "NatGas",
+      "price": 3.33,
+      "change_pct": 1.06
     }
   ]
 }
