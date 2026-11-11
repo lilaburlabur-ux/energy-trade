@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-11T13:05:00+00:00",
-  "as_of_local": "2026-11-11 13:05:00 UTC",
+  "as_of_utc": "2026-11-11T13:10:10+00:00",
+  "as_of_local": "2026-11-11 13:10:10 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "CEG"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -421,34 +423,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/strong-buy-stocks-november-9th-053100124.html",
           "publisher": "Zacks",
           "published": "2026-11-09T05:31:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "CEG",
-      "name": "Constellation Energy",
-      "price": 267.76,
-      "previous_close": 276.09,
-      "change_pct": -3.02,
-      "market_cap": 94146696464.7168,
-      "headlines": [
-        {
-          "title": "Constellation Has Done Something \u2018Unseen\u2019 in the Power Industry, CEO Says",
-          "url": "https://finance.yahoo.com/energy/articles/constellation-done-something-unseen-power-120014364.html",
-          "publisher": "Benzinga",
-          "published": "2026-11-11T12:00:14Z"
-        },
-        {
-          "title": "State Street Utilities SPDR (XLU) Buys $76 Million More NextEra on Monday",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/state-street-utilities-spdr-xlu-110336513.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-11T11:03:36Z"
-        },
-        {
-          "title": "CEG Stock Is On Track To Reverse Last Week's Losses: Here's Why This Analyst Sees An Upside Of 29%",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ceg-stock-track-reverse-last-042730883.html",
-          "publisher": "Stocktwits",
-          "published": "2026-11-11T04:27:30Z"
         }
       ]
     },
@@ -2115,13 +2089,13 @@
     },
     {
       "label": "WTI",
-      "price": 87.22,
-      "change_pct": 1.37
+      "price": 87.27,
+      "change_pct": 1.43
     },
     {
       "label": "Brent",
-      "price": 93.13,
-      "change_pct": 1.79
+      "price": 93.17,
+      "change_pct": 1.84
     },
     {
       "label": "NatGas",
