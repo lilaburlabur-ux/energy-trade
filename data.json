@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-11T21:48:00+00:00",
-  "as_of_local": "2026-11-11 21:48:00 UTC",
+  "as_of_utc": "2026-11-11T21:52:53+00:00",
+  "as_of_local": "2026-11-11 21:52:53 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -97,6 +97,12 @@
       "market_cap": 213922589239.10303,
       "headlines": [
         {
+          "title": "AI Stocks, Neoclouds Rebound From SoftBank Bump, Get CoreWeave Lift",
+          "url": "https://www.investors.com/news/softbank-coreweave-earnings-ai-neocloud-rally-demand-fears-ai-stocks/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-11-11T21:43:40Z"
+        },
+        {
           "title": "Bad News for Nuclear: A Landmark Reactor Just Got Delayed",
           "url": "https://www.barrons.com/articles/ge-vernova-hitachi-stock-nuclear-energy-51a5d81c?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
@@ -107,12 +113,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-stocks-rise-nearly-183214486.html",
           "publisher": "GuruFocus.com",
           "published": "2026-11-11T18:32:14Z"
-        },
-        {
-          "title": "AI Stocks, Neoclouds Rebound From SoftBank Bump, Get CoreWeave Lift",
-          "url": "https://www.investors.com/news/softbank-coreweave-earnings-ai-neocloud-rally-demand-fears-ai-stocks/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-11-11T16:54:29Z"
         }
       ]
     },
@@ -775,10 +775,10 @@
           "published": "2026-11-11T18:53:58Z"
         },
         {
-          "title": "Dow Jones Futures: CoreWeave, Sandisk, Nvidia, AMD, Nebius Lead Bullish Market Move",
+          "title": "Dow Jones Futures: CoreWeave, Sandisk, Nvidia, AMD, Nebius Lead Bullish Market Move; What To Do Now",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-coreweave-sandisk-nvidia-amd-nebius-bloom/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
-          "published": "2026-11-11T21:22:08Z"
+          "published": "2026-11-11T21:38:03Z"
         },
         {
           "title": "Here's Why Bloom Energy Stock Popped Today",
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 86.44,
-      "change_pct": 0.46
+      "price": 86.47,
+      "change_pct": 0.5
     },
     {
       "label": "Brent",
-      "price": 92.6,
-      "change_pct": 1.21
+      "price": 92.61,
+      "change_pct": 1.22
     },
     {
       "label": "NatGas",
-      "price": 3.24,
-      "change_pct": -1.58
+      "price": 3.25,
+      "change_pct": -1.43
     }
   ]
 }
