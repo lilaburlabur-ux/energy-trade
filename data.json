@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-11T23:44:42+00:00",
-  "as_of_local": "2026-11-11 23:44:42 UTC",
+  "as_of_utc": "2026-11-11T23:49:41+00:00",
+  "as_of_local": "2026-11-11 23:49:41 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -433,6 +433,12 @@
       "market_cap": 96597408166.8064,
       "headlines": [
         {
+          "title": "Fusion's Next Race Is Over Superconducting Tape, Not Plasma",
+          "url": "https://finance.yahoo.com/energy/articles/fusions-next-race-over-superconducting-230000192.html",
+          "publisher": "Oilprice.com",
+          "published": "2026-11-11T23:00:00Z"
+        },
+        {
           "title": "Constellation Energy\u2019s Dividend Is Small. AI Power Demand Could Change That",
           "url": "https://finance.yahoo.com/energy/articles/constellation-energy-dividend-small-ai-181715518.html",
           "publisher": "24/7 Wall St.",
@@ -443,12 +449,6 @@
           "url": "https://finance.yahoo.com/energy/articles/constellation-pursues-hybrid-capacity-contracts-170719654.html",
           "publisher": "Utility Dive",
           "published": "2026-11-11T17:07:19Z"
-        },
-        {
-          "title": "Constellation Has Done Something \u2018Unseen\u2019 in the Power Industry, CEO Says",
-          "url": "https://finance.yahoo.com/energy/articles/constellation-done-something-unseen-power-120014364.html",
-          "publisher": "Benzinga",
-          "published": "2026-11-11T12:00:14Z"
         }
       ]
     },
@@ -2126,7 +2126,7 @@
     {
       "label": "NatGas",
       "price": 3.24,
-      "change_pct": -1.61
+      "change_pct": -1.58
     }
   ]
 }
