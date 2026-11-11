@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-11T03:32:46+00:00",
-  "as_of_local": "2026-11-11 03:32:46 UTC",
+  "as_of_utc": "2026-11-11T03:48:00+00:00",
+  "as_of_local": "2026-11-11 03:48:00 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "LEU"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1685,34 +1687,6 @@
       ]
     },
     {
-      "symbol": "LEU",
-      "name": "Centrus Energy",
-      "price": 109.87,
-      "previous_close": 117.34,
-      "change_pct": -6.37,
-      "market_cap": 2265349158.1302643,
-      "headlines": [
-        {
-          "title": "UUUU Q3 Earnings Miss on Investment Losses, Uranium Sales Rise",
-          "url": "https://finance.yahoo.com/energy/articles/uuuu-q3-earnings-miss-investment-142200932.html",
-          "publisher": "Zacks",
-          "published": "2026-11-09T14:22:00Z"
-        },
-        {
-          "title": "The top 5 analyst questions from Centrus Energy\u2019s Q3 2026 earnings call",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-centrus-033336527.html",
-          "publisher": "StockStory",
-          "published": "2026-11-09T03:33:36Z"
-        },
-        {
-          "title": "Don\u2019t Miss Out: 5 Stocks Getting Major Upgrades From Top Analysts",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/don-t-miss-5-stocks-230746266.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-11-08T23:07:46Z"
-        }
-      ]
-    },
-    {
       "symbol": "SMR",
       "name": "NuScale Power",
       "price": 5.22,
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 86.49,
-      "change_pct": -0.41
+      "price": 86.54,
+      "change_pct": -0.36
     },
     {
       "label": "Brent",
-      "price": 92.32,
-      "change_pct": -0.27
+      "price": 92.41,
+      "change_pct": -0.17
     },
     {
       "label": "NatGas",
       "price": 3.3,
-      "change_pct": 2.64
+      "change_pct": 2.67
     }
   ]
 }
