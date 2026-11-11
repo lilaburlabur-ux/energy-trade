@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-11T06:15:13+00:00",
-  "as_of_local": "2026-11-11 06:15:13 UTC",
+  "as_of_utc": "2026-11-11T06:30:20+00:00",
+  "as_of_local": "2026-11-11 06:30:20 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -881,6 +881,12 @@
       "market_cap": 54798510234.99519,
       "headlines": [
         {
+          "title": "Can Bloom Energy (BE) Justify Its Price on Future Cash Flow?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-justify-price-future-061406494.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-11T06:14:06Z"
+        },
+        {
           "title": "GE Vernova Falls 4% as SoftBank\u2019s Ohio Data Center Undergoes \u201cA Thorough Reassessment\u201d",
           "url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-falls-4-softbank-211730358.html",
           "publisher": "TIKR",
@@ -891,12 +897,6 @@
           "url": "https://www.barrons.com/articles/amd-stock-coherent-ai-selloff-e457aa02?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
           "published": "2026-11-10T18:49:00Z"
-        },
-        {
-          "title": "Bloom Energy (BE) Lands a Major AI Data Center Deal as Revenue Surges",
-          "url": "https://finance.yahoo.com/technology/ai/articles/bloom-energy-lands-major-ai-164403284.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-11-10T16:44:03Z"
         }
       ]
     },
@@ -1721,6 +1721,12 @@
       "market_cap": 2143025980.104988,
       "headlines": [
         {
+          "title": "3 Nuclear Stocks Retail Investors Are Watching After The X Energy SMR Approval",
+          "url": "https://finance.yahoo.com/energy/articles/3-nuclear-stocks-retail-investors-061604315.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-11T06:16:04Z"
+        },
+        {
           "title": "GE Vernova Falls 4% as SoftBank\u2019s Ohio Data Center Undergoes \u201cA Thorough Reassessment\u201d",
           "url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-falls-4-softbank-211730358.html",
           "publisher": "TIKR",
@@ -1731,12 +1737,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/oklo-soars-14-week-narrower-132928173.html",
           "publisher": "TIKR",
           "published": "2026-11-10T13:29:28Z"
-        },
-        {
-          "title": "NuScale Is Still Down 61% in 2026: Did Today Mark the Bottom for SMR Stock?",
-          "url": "https://finance.yahoo.com/news/nuscale-still-down-61-2026-200226711.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-09T20:02:26Z"
         }
       ]
     },
@@ -2115,13 +2115,13 @@
     },
     {
       "label": "WTI",
-      "price": 86.64,
-      "change_pct": 0.7
+      "price": 86.74,
+      "change_pct": 0.81
     },
     {
       "label": "Brent",
-      "price": 92.5,
-      "change_pct": 1.1
+      "price": 92.58,
+      "change_pct": 1.19
     },
     {
       "label": "NatGas",
