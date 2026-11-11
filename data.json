@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-11T02:07:11+00:00",
-  "as_of_local": "2026-11-11 02:07:11 UTC",
+  "as_of_utc": "2026-11-11T02:12:21+00:00",
+  "as_of_local": "2026-11-11 02:12:21 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "FANG"
+    "PSX"
   ],
   "stocks": [
     {
@@ -367,34 +367,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/par-pacific-now-undervalued-strong-184100364.html",
           "publisher": "Zacks",
           "published": "2026-11-10T18:41:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "PSX",
-      "name": "Phillips 66",
-      "price": 253.02,
-      "previous_close": 245.72,
-      "change_pct": 2.97,
-      "market_cap": 97791141153.4,
-      "headlines": [
-        {
-          "title": "Par Pacific Is Now Undervalued: Is It a Strong Entry Point?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/par-pacific-now-undervalued-strong-184100364.html",
-          "publisher": "Zacks",
-          "published": "2026-11-10T18:41:00Z"
-        },
-        {
-          "title": "DTI Q3 Earnings Miss Estimates on Higher Costs Despite Sales Growth",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/dti-q3-earnings-miss-estimates-181500794.html",
-          "publisher": "Zacks",
-          "published": "2026-11-10T18:15:00Z"
-        },
-        {
-          "title": "Is Chevron Stock A Real Bargain?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/chevron-stock-real-bargain-180503380.html",
-          "publisher": "Trefis",
-          "published": "2026-11-10T18:05:03Z"
         }
       ]
     },
@@ -927,6 +899,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/entergy-etr-tests-valuation-earnings-131035840.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-10T13:10:35Z"
+        }
+      ]
+    },
+    {
+      "symbol": "FANG",
+      "name": "Diamondback Energy",
+      "price": 178.17,
+      "previous_close": 178.96,
+      "change_pct": -0.44,
+      "market_cap": 49714209125.28001,
+      "headlines": [
+        {
+          "title": "Buy These 3 Stocks with Broker Rating Upgrades for Big Gains",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/buy-3-stocks-broker-rating-174100677.html",
+          "publisher": "Zacks",
+          "published": "2026-11-10T17:41:00Z"
+        },
+        {
+          "title": "Sector Update: Energy Stocks Fall Pre-Bell Tuesday",
+          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-fall-pre-141948947.html",
+          "publisher": "MT Newswires",
+          "published": "2026-11-10T14:19:48Z"
+        },
+        {
+          "title": "Can ConocoPhillips Sustain Future Production Growth With Lower CapEx?",
+          "url": "https://finance.yahoo.com/energy/articles/conocophillips-sustain-future-production-growth-124100957.html",
+          "publisher": "Zacks",
+          "published": "2026-11-10T12:41:00Z"
         }
       ]
     },
@@ -1931,8 +1931,8 @@
           "name": "Phillips 66",
           "short": "Phillips",
           "weight_pct": 4.52,
-          "change_pct": 2.97,
-          "price": 253.02,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -2030,8 +2030,8 @@
         "name": "Phillips 66",
         "short": "Phillips",
         "weight_pct": 4.52,
-        "change_pct": 2.97,
-        "price": 253.02,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -2089,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 86.22,
-      "change_pct": -0.73
+      "price": 86.24,
+      "change_pct": -0.7
     },
     {
       "label": "Brent",
-      "price": 91.9,
-      "change_pct": -0.72
+      "price": 91.94,
+      "change_pct": -0.68
     },
     {
       "label": "NatGas",
       "price": 3.31,
-      "change_pct": 2.8
+      "change_pct": 2.77
     }
   ]
 }
