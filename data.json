@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-11T09:32:20+00:00",
-  "as_of_local": "2026-11-11 09:32:20 UTC",
+  "as_of_utc": "2026-11-11T09:37:22+00:00",
+  "as_of_local": "2026-11-11 09:37:22 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "D"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -19,16 +21,16 @@
           "published": "2026-11-11T08:30:00Z"
         },
         {
+          "title": "Oil giant Exxon plots Venezuela return ahead of Democrat crackdown",
+          "url": "https://finance.yahoo.com/energy/articles/oil-giant-exxon-plots-venezuela-083000530.html",
+          "publisher": "The Telegraph",
+          "published": "2026-11-11T08:30:00Z"
+        },
+        {
           "title": "A Venezuelan Billionaire Just Shared The Details Behind Trump\u2019s \u201cBiggest Oil Deal In World History.\u201d Here\u2019s What It Means For A 68 Year Old With A $2.4M Portfolio Heavily Invested In Energy Stocks",
           "url": "https://finance.yahoo.com/energy/articles/venezuelan-billionaire-just-shared-details-024347613.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-11T02:43:47Z"
-        },
-        {
-          "title": "Treasuries Now Offer 2.66% Above Inflation. Are Dividend Stocks in Trouble?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/treasuries-now-offer-2-66-191754570.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-10T19:17:54Z"
         }
       ]
     },
@@ -729,34 +731,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/targa-resources-corp-q3-2026-230235227.html",
           "publisher": "Moby",
           "published": "2026-11-05T23:02:35Z"
-        }
-      ]
-    },
-    {
-      "symbol": "D",
-      "name": "Dominion Energy",
-      "price": 68.37,
-      "previous_close": 68.24,
-      "change_pct": 0.19,
-      "market_cap": 60135935168.660385,
-      "headlines": [
-        {
-          "title": "AI Boom Fuels Southern Company's Data Center Power Usage Growth",
-          "url": "https://finance.yahoo.com/energy/articles/ai-boom-fuels-southern-companys-181500524.html",
-          "publisher": "Zacks",
-          "published": "2026-11-10T18:15:00Z"
-        },
-        {
-          "title": "What Are Wall Street Analysts' Target Price for Dominion Energy Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-081055170.html",
-          "publisher": "Barchart",
-          "published": "2026-11-10T08:10:55Z"
-        },
-        {
-          "title": "People Pay the Power Bill Before Almost Anything Else. $45,000 in Each of These 3 Utilities Pays $5,915 a Year",
-          "url": "https://finance.yahoo.com/news/people-pay-power-bill-almost-221425733.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-09T22:14:25Z"
         }
       ]
     },
@@ -2115,13 +2089,13 @@
     },
     {
       "label": "WTI",
-      "price": 86.83,
-      "change_pct": 0.92
+      "price": 86.73,
+      "change_pct": 0.8
     },
     {
       "label": "Brent",
-      "price": 92.64,
-      "change_pct": 1.26
+      "price": 92.6,
+      "change_pct": 1.21
     },
     {
       "label": "NatGas",
