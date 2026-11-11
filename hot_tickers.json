@@ -1,10 +1,27 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-11T11:53:40+00:00",
+  "as_of": "2026-11-11T12:08:52+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": []
+ "hot_tickers": [
+  {
+   "rank": 1,
+   "ticker": "GEV",
+   "company": "GE Vernova Inc.",
+   "move_pct": 5.26,
+   "price": 839.0,
+   "volume": 6230700,
+   "volume_vs_avg": "~2x",
+   "heat_score": 43,
+   "direction": "up",
+   "why": "GE Vernova's Orders Jumped 96%. The Number Hiding Underneath Is Electrification's 9% Decline.",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWXk0Q2diOEZYY1hFVm85U1hhRllCUE85OTVjNHVtVHV0cWYyUjhXc1pMM05EU3B6UHpPTXlnb0tGcFRubnRwVy1mX1RHcVlLVlU1S00xamZpRmhWbGttMFZ6OEpIbVp2RE1aNnZuVU5YN1lyaFppREFqZG1hbFVCTTFWVzg4TXR2OEZzdmFwNjhsTVFpZG8tZg?oc=5",
+   "published": "2026-11-11T11:15:00+00:00",
+   "sector": "Grid, Storage & Electrification"
+  }
+ ]
 }
