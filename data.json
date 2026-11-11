@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-11T13:50:54+00:00",
-  "as_of_local": "2026-11-11 13:50:54 UTC",
+  "as_of_utc": "2026-11-11T13:56:07+00:00",
+  "as_of_local": "2026-11-11 13:56:07 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -69,6 +69,12 @@
       "market_cap": 275339665846.27484,
       "headlines": [
         {
+          "title": "Poland\u2019s Orlen Cancels Qatar LNG Supply Deal After Months of Force Majeure",
+          "url": "https://www.wsj.com/finance/commodities-futures/polands-orlen-cancels-qatar-lng-supply-deal-after-months-of-force-majeure-88f37e7b?siteid=yhoof2&yptr=yahoo",
+          "publisher": "The Wall Street Journal",
+          "published": "2026-11-11T13:36:00Z"
+        },
+        {
           "title": "Kraken Parent Payward Brings 200 UK and EU Stocks Onchain as xStocks",
           "url": "https://finance.yahoo.com/markets/crypto/articles/kraken-parent-payward-brings-200-124624805.html",
           "publisher": "decrypt",
@@ -79,12 +85,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/ftse-100-today-stocks-rise-084246110.html",
           "publisher": "Investing.com",
           "published": "2026-11-11T08:42:46Z"
-        },
-        {
-          "title": "Did First Half Earnings Just Shift DCC Energy (LSE:DCC) Investment Narrative?",
-          "url": "https://finance.yahoo.com/energy/articles/did-first-half-earnings-just-211158837.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-10T21:11:58Z"
         }
       ]
     },
@@ -125,6 +125,12 @@
       "market_cap": 192943251658.79422,
       "headlines": [
         {
+          "title": "Poland\u2019s Orlen Cancels Qatar LNG Supply Deal After Months of Force Majeure",
+          "url": "https://www.wsj.com/finance/commodities-futures/polands-orlen-cancels-qatar-lng-supply-deal-after-months-of-force-majeure-88f37e7b?siteid=yhoof2&yptr=yahoo",
+          "publisher": "The Wall Street Journal",
+          "published": "2026-11-11T13:36:00Z"
+        },
+        {
           "title": "CEG Q3 Earnings Beat on Calpine, Strong Commercial Performance",
           "url": "https://finance.yahoo.com/markets/stocks/articles/ceg-q3-earnings-beat-calpine-143100106.html",
           "publisher": "Zacks",
@@ -135,12 +141,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/bp-completes-6b-castrol-stake-125500970.html",
           "publisher": "Zacks",
           "published": "2026-11-09T12:55:00Z"
-        },
-        {
-          "title": "How Investors May Respond To TotalEnergies (ENXTPA:TTE) Strong Q3 Earnings",
-          "url": "https://finance.yahoo.com/energy/articles/investors-may-respond-totalenergies-enxtpa-190944934.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-08T19:09:44Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 87.53,
-      "change_pct": 1.73
+      "price": 87.38,
+      "change_pct": 1.56
     },
     {
       "label": "Brent",
-      "price": 92.95,
-      "change_pct": 1.6
+      "price": 92.85,
+      "change_pct": 1.49
     },
     {
       "label": "NatGas",
-      "price": 3.36,
-      "change_pct": 1.82
+      "price": 3.35,
+      "change_pct": 1.67
     }
   ]
 }
