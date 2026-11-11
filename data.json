@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-11T23:54:32+00:00",
-  "as_of_local": "2026-11-11 23:54:32 UTC",
+  "as_of_utc": "2026-11-11T23:59:39+00:00",
+  "as_of_local": "2026-11-11 23:59:39 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "TLN"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1351,6 +1349,34 @@
       ]
     },
     {
+      "symbol": "TLN",
+      "name": "Talen Energy",
+      "price": 378.71,
+      "previous_close": 361.18,
+      "change_pct": 4.85,
+      "market_cap": 16475896335.770508,
+      "headlines": [
+        {
+          "title": "Sector Update: Energy Stocks Higher Late Afternoon",
+          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-higher-afternoon-205545591.html",
+          "publisher": "MT Newswires",
+          "published": "2026-11-11T20:55:45Z"
+        },
+        {
+          "title": "Sector Update: Energy Stocks Rise Wednesday Afternoon",
+          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-rise-wednesday-183855251.html",
+          "publisher": "MT Newswires",
+          "published": "2026-11-11T18:38:55Z"
+        },
+        {
+          "title": "OKLO Stock After Q3 Earnings: Buy, Sell or Hold for Now?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/oklo-stock-q3-earnings-buy-162900487.html",
+          "publisher": "Zacks",
+          "published": "2026-11-11T16:29:00Z"
+        }
+      ]
+    },
+    {
       "symbol": "APA",
       "name": "APA Corp",
       "price": 46.74,
@@ -2089,8 +2115,8 @@
     },
     {
       "label": "WTI",
-      "price": 86.27,
-      "change_pct": 0.27
+      "price": 86.25,
+      "change_pct": 0.24
     },
     {
       "label": "Brent",
@@ -2100,7 +2126,7 @@
     {
       "label": "NatGas",
       "price": 3.25,
-      "change_pct": -1.52
+      "change_pct": -1.49
     }
   ]
 }
