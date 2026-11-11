@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-11T06:30:20+00:00",
-  "as_of_local": "2026-11-11 06:30:20 UTC",
+  "as_of_utc": "2026-11-11T06:35:43+00:00",
+  "as_of_local": "2026-11-11 06:35:43 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -181,6 +181,12 @@
       "market_cap": 160312806048.7897,
       "headlines": [
         {
+          "title": "This Energy Stock Just Raised Its Dividend by More Than 10%",
+          "url": "https://finance.yahoo.com/energy/articles/energy-stock-just-raised-dividend-003004663.html",
+          "publisher": "Barchart",
+          "published": "2026-11-11T00:30:04Z"
+        },
+        {
           "title": "Is Chevron Stock A Real Bargain?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/chevron-stock-real-bargain-180503380.html",
           "publisher": "Trefis",
@@ -191,12 +197,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/conocophillips-just-raised-dividend-10-145841774.html",
           "publisher": "TIKR",
           "published": "2026-11-10T14:58:41Z"
-        },
-        {
-          "title": "COP Q3 2026 deep dive: capital discipline and portfolio efficiency offset production decline",
-          "url": "https://finance.yahoo.com/energy/articles/cop-q3-2026-deep-dive-141336870.html",
-          "publisher": "StockStory",
-          "published": "2026-11-10T14:13:36Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 86.74,
-      "change_pct": 0.81
+      "price": 86.67,
+      "change_pct": 0.73
     },
     {
       "label": "Brent",
-      "price": 92.58,
-      "change_pct": 1.19
+      "price": 92.53,
+      "change_pct": 1.14
     },
     {
       "label": "NatGas",
       "price": 3.29,
-      "change_pct": -0.15
+      "change_pct": -0.18
     }
   ]
 }
