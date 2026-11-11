@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-11T10:53:31+00:00",
-  "as_of_local": "2026-11-11 10:53:31 UTC",
+  "as_of_utc": "2026-11-11T10:57:29+00:00",
+  "as_of_local": "2026-11-11 10:57:29 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "UEC"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1657,34 +1659,6 @@
       ]
     },
     {
-      "symbol": "UEC",
-      "name": "Uranium Energy Corp",
-      "price": 7.17,
-      "previous_close": 7.62,
-      "change_pct": -5.91,
-      "market_cap": 3553342085.8601093,
-      "headlines": [
-        {
-          "title": "Purepoint Uranium CEO explains why rising uranium prices aren't lifting stocks",
-          "url": "https://finance.yahoo.com/news/purepoint-uranium-ceo-explains-why-151300252.html",
-          "publisher": "Proactive",
-          "published": "2026-11-06T15:13:00Z"
-        },
-        {
-          "title": "Is Uranium Energy (UEC) Priced Too Richly On Book Value?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/uranium-energy-uec-priced-too-002024703.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-06T00:20:24Z"
-        },
-        {
-          "title": "Uranium Energy Corp Secures Long-Term Supply Agreements With Two US Nuclear Utilities",
-          "url": "https://finance.yahoo.com/energy/articles/uranium-energy-corp-secures-long-114830022.html",
-          "publisher": "InvestorsHub",
-          "published": "2026-11-05T11:48:30Z"
-        }
-      ]
-    },
-    {
       "symbol": "LEU",
       "name": "Centrus Energy",
       "price": 109.87,
@@ -2115,13 +2089,13 @@
     },
     {
       "label": "WTI",
-      "price": 87.22,
-      "change_pct": 1.37
+      "price": 87.24,
+      "change_pct": 1.39
     },
     {
       "label": "Brent",
-      "price": 93.44,
-      "change_pct": 2.13
+      "price": 93.46,
+      "change_pct": 2.15
     },
     {
       "label": "NatGas",
