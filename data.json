@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-11T00:16:10+00:00",
-  "as_of_local": "2026-11-11 00:16:10 UTC",
+  "as_of_utc": "2026-11-11T00:21:21+00:00",
+  "as_of_local": "2026-11-11 00:21:21 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "MPLX"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -787,6 +785,34 @@
           "url": "https://finance.yahoo.com/energy/articles/venture-global-plans-become-world-114000121.html",
           "publisher": "Fortune",
           "published": "2026-11-10T11:40:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "MPLX",
+      "name": "MPLX",
+      "price": 56.71,
+      "previous_close": 56.8,
+      "change_pct": -0.16,
+      "market_cap": 57448762454.236046,
+      "headlines": [
+        {
+          "title": "$200,000 in Dividend Stocks: How a Roth IRA Could Save You $2,166 a Year",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/200-000-dividend-stocks-roth-171701333.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-10T17:17:01Z"
+        },
+        {
+          "title": "How Much Do You Really Need Invested to Replace a $175,000 Salary With Dividends?",
+          "url": "https://finance.yahoo.com/news/much-really-invested-replace-175-164926071.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-10T16:49:26Z"
+        },
+        {
+          "title": "Enterprise Raised Its Distribution by 2.8%. MPLX Raised Its by 12.5%. Here's What's Behind the Gap.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/enterprise-raised-distribution-2-8-100400542.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-10T10:04:00Z"
         }
       ]
     },
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 86.2,
-      "change_pct": -0.75
+      "price": 86.22,
+      "change_pct": -0.73
     },
     {
       "label": "Brent",
-      "price": 91.82,
-      "change_pct": -0.81
+      "price": 91.83,
+      "change_pct": -0.8
     },
     {
       "label": "NatGas",
       "price": 3.29,
-      "change_pct": 2.3
+      "change_pct": 2.33
     }
   ]
 }
