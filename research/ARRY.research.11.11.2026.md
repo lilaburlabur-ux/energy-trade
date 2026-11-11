@@ -4,24 +4,24 @@ Signed file: `ARRY.research.11.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-11, ~15-min delayed) |
-| Market cap | $729.69M |
+| Current price | $5.20 (2026-11-11, ~15-min delayed) |
+| Market cap | $802.20M |
 | Sector / Industry | Technology / Solar |
 | Main theme | Solar — see catalysts below |
-| Current stance | Moderate technical momentum, weak fundamentals, value: reasonable, risk: high. |
+| Current stance | Low technical momentum, weak fundamentals, value: reasonable, risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-11.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-22.20%) with negative half-year (-40.84%). |
+| Fresh setup quality | Poor / broken | -56.52% from 52w high — base needs to rebuild. |
 | Fundamental quality | Weak | Negative profit margin (-9.91%). |
-| Value attractiveness | Reasonable | Forward P/E 5.38, EV/Sales 1.65. |
-| Risk level | High | Beta 1.78, ATR nan% of price, short float 35.42%. |
+| Value attractiveness | Reasonable | Forward P/E 5.91, EV/Sales 1.65. |
+| Risk level | High | Beta 1.78, ATR 8.5% of price, short float 32.85%. |
 
-**Bottom line:** Moderate technical momentum, weak fundamentals, value: reasonable, risk: high.
+**Bottom line:** Low technical momentum, weak fundamentals, value: reasonable, risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -44,60 +44,61 @@ Array Technologies, Inc. engages in the manufacture and sale of solar tracking t
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $11.96 (+nan%); 52w low $3.15 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 64.7 (neutral) |
-| Volatility | ATR(14) 0.42 (~nan% of price); beta 1.78 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $5.20; 52w high $11.96 (-56.52%); 52w low $3.15 (+65.08%) |
+| Trend | -22.20% vs SMA200, +27.85% vs SMA50, +29.06% vs SMA20 |
+| Momentum | RSI(14) 62.0 (neutral) |
+| Volatility | ATR(14) 0.44 (~8.5% of price); beta 1.78 |
+| Setup perspective | -56.52% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -2.4% |
+| Month | +45.7% |
+| Quarter | +0.6% |
+| Half Y | -40.8% |
+| 1Y | -43.3% |
+| YTD | -46.3% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
 | Next earnings | 2026-11-04 | Next scheduled report (Yahoo estimate) |
 | Revenue (ttm) | $1.12B | Revenue growth -16.10% y/y |
-| Profitability | Gross 25.00%, operating 4.29%, net -9.91% | ROA 1.89%, ROE -31.49% |
+| Profitability | Gross 25.02%, operating 4.00%, net -9.91% | ROA 1.76%, ROE -31.49% |
 | Balance sheet | Cash $143.28M, debt $759.38M | Current ratio 1.62, debt/equity 251.77 |
-| Valuation | P/E —, forward P/E 5.38, P/S 0.65, P/B -3.50 | EV/Sales 1.65, EV/EBITDA 21.23 |
-| Growth expectations | Earnings growth —, EPS q/q -75.50% | Analyst mean target $6.93 (19 analysts) |
+| Valuation | P/E —, forward P/E 5.91, P/S 0.72, P/B -3.85 | EV/Sales 1.65, EV/EBITDA 22.11 |
+| Growth expectations | Earnings growth —, EPS q/q -75.50% | Analyst mean target $6.95 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 139.52% |
+| Institutional ownership | 134.89% |
 | Insider ownership | 0.79% |
-| Short float | 35.42% |
-| Short ratio (days to cover) | 6.2 |
+| Short float | 32.85% |
+| Short ratio (days to cover) | 5.7 |
 
 **Top institutional holders:**
 
 | Holder | Shares | % Out | Reported |
 |---|---|---|---|
-| Blackrock Inc. | 29,253,142 | 18.99% | 2026-06-30 |
-| Hill City Capital, Lp | 12,891,300 | 8.37% | 2026-06-30 |
-| Grantham, Mayo, Van Otterloo & Co. LLC | 11,890,976 | 7.72% | 2026-06-30 |
-| UBS Group AG | 11,472,621 | 7.45% | 2026-06-30 |
-| First Trust Advisors LP | 10,341,255 | 6.71% | 2026-06-30 |
-| BNP Paribas Asset Management Holding S.A. | 9,572,330 | 6.22% | 2026-06-30 |
-| Price (T.Rowe) Associates Inc | 8,642,626 | 5.61% | 2026-06-30 |
-| Vanguard Portfolio Management LLC | 7,994,828 | 5.19% | 2026-06-30 |
+| Blackrock Inc. | 29,253,142 | 18.96% | 2026-06-30 |
+| Hill City Capital, Lp | 12,891,300 | 8.36% | 2026-06-30 |
+| Grantham, Mayo, Van Otterloo & Co. LLC | 11,890,976 | 7.71% | 2026-06-30 |
+| First Trust Advisors LP | 10,341,255 | 6.70% | 2026-06-30 |
+| BNP Paribas Asset Management Holding S.A. | 9,572,330 | 6.20% | 2026-06-30 |
+| Price (T.Rowe) Associates Inc | 8,642,626 | 5.60% | 2026-06-30 |
+| Vanguard Portfolio Management LLC | 7,994,828 | 5.18% | 2026-06-30 |
 | Invesco Ltd. | 7,443,696 | 4.83% | 2026-06-30 |
-| Vanguard Capital Management LLC | 6,806,056 | 4.42% | 2026-06-30 |
+| Vanguard Capital Management LLC | 6,806,056 | 4.41% | 2026-06-30 |
+| Morgan Stanley | 6,707,669 | 4.35% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.78, ATR nan% of price, short float 35.42%. Size positions accordingly.
-- **Short interest risk:** short float 35.42% can fuel squeezes both ways around news.
+- **Volatility risk:** Beta 1.78, ATR 8.5% of price, short float 32.85%. Size positions accordingly.
+- **Short interest risk:** short float 32.85% can fuel squeezes both ways around news.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
+- **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -112,21 +113,21 @@ Array Technologies, Inc. engages in the manufacture and sale of solar tracking t
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 1.65 |
-| Market cap | $729.69M | EV/EBITDA | 21.23 |
-| Beta | 1.78 | Gross margin | 25.00% |
-| RSI(14) | 64.7 | Operating margin | 4.29% |
-| ATR(14) | 0.42 | Profit margin | -9.91% |
-| SMA20 dist | +nan% | ROA | 1.89% |
-| SMA50 dist | +nan% | ROE | -31.49% |
-| SMA200 dist | +nan% | Revenue (ttm) | $1.12B |
+| Price | $5.20 | EV/Sales | 1.65 |
+| Market cap | $802.20M | EV/EBITDA | 22.11 |
+| Beta | 1.78 | Gross margin | 25.02% |
+| RSI(14) | 62.0 | Operating margin | 4.00% |
+| ATR(14) | 0.44 | Profit margin | -9.91% |
+| SMA20 dist | +29.06% | ROA | 1.76% |
+| SMA50 dist | +27.85% | ROE | -31.49% |
+| SMA200 dist | -22.20% | Revenue (ttm) | $1.12B |
 | 52W high | $11.96 | Revenue growth y/y | -16.10% |
-| 52W low | $3.15 | Inst. ownership | 139.52% |
+| 52W low | $3.15 | Inst. ownership | 134.89% |
 | P/E (ttm) | — | Insider ownership | 0.79% |
-| Forward P/E | 5.38 | Short float | 35.42% |
-| PEG (trailing) | 0.52 | Avg volume | 8,036,746 |
-| P/S | 0.65 | Employees | 1,200 |
-| P/B | -3.50 | Analyst rec (1=buy..5=sell) | 2.2 |
+| Forward P/E | 5.91 | Short float | 32.85% |
+| PEG (trailing) | 0.47 | Avg volume | 8,183,550 |
+| P/S | 0.72 | Employees | 1,200 |
+| P/B | -3.85 | Analyst rec (1=buy..5=sell) | 2.2 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
@@ -141,7 +142,7 @@ Array Technologies, Inc. engages in the manufacture and sale of solar tracking t
 | 2026-10-14 | main | Morgan Stanley | Equal-Weight → Equal-Weight |
 
 ## 9. Conclusion
-ARRY: Moderate momentum / weak fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+ARRY: Low momentum / weak fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

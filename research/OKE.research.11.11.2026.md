@@ -4,8 +4,8 @@ Signed file: `OKE.research.11.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-11, ~15-min delayed) |
-| Market cap | $55.08B |
+| Current price | $88.17 (2026-11-11, ~15-min delayed) |
+| Market cap | $55.59B |
 | Sector / Industry | Energy / Oil & Gas Midstream |
 | Main theme | Oil & Gas Midstream — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `OKE.research.11.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +36.30%; price +1.03% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -8.57% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 9.42%, revenue growth 44.30%. |
-| Value attractiveness | Reasonable | Forward P/E 14.27, EV/Sales 2.14. |
-| Risk level | Moderate | Beta 0.74, ATR nan% of price, short float 4.21%. |
+| Value attractiveness | Reasonable | Forward P/E 14.40, EV/Sales 2.14. |
+| Risk level | Moderate | Beta 0.74, ATR 2.9% of price, short float 4.86%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
@@ -36,63 +36,63 @@ ONEOK, Inc. operates as a midstream service provider of gathering, processing, f
 
 | Headline | Source | Date |
 |---|---|---|
+| Energy Transfer Just Sent a Message to Anyone Collecting $13,700 a Year by Raising Its Payout After an Earnings Miss | 24/7 Wall St. | 2026-11-11 |
 | A 70-Year-Old With $1,000,000 in Hormel, AT&T and ONEOK Collects $4,230 a Month in Dividends. How Safe Is Each Check? | TIKR | 2026-11-10 |
 | National Fuel Gas Has Paid a Dividend for 124 Straight Years. Can It Keep Going? | 24/7 Wall St. | 2026-11-10 |
 | How Much Does a 60-Year-Old Need Invested to Replace a $125,000 Salary With Dividends and Never Sell a Share? | 24/7 Wall St. | 2026-11-10 |
-| Buy, Sell, or Hold? Tuesday’s Top Upgrades and Downgrades: Cloudflare, Deckers Outdoors, DraftKings, MongoDB, Nike, Oneok, Philip Morris International, Riot Platforms, Wix.com, and More | 24/7 Wall St. | 2026-11-10 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $96.44 (+nan%); 52w low $64.69 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 37.0 (neutral) |
-| Volatility | ATR(14) 2.57 (~nan% of price); beta 0.74 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $88.17; 52w high $96.44 (-8.57%); 52w low $65.60 (+34.40%) |
+| Trend | +1.03% vs SMA200, -3.12% vs SMA50, -3.40% vs SMA20 |
+| Momentum | RSI(14) 44.0 (neutral) |
+| Volatility | ATR(14) 2.55 (~2.9% of price); beta 0.74 |
+| Setup perspective | -8.57% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -0.5% |
+| Month | -4.5% |
+| Quarter | -3.8% |
+| Half Y | +1.6% |
+| 1Y | +36.3% |
+| YTD | +24.5% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
 | Next earnings | 2026-10-27 | Next scheduled report (Yahoo estimate) |
 | Revenue (ttm) | $43.19B | Revenue growth 44.30% y/y |
-| Profitability | Gross 25.20%, operating 12.71%, net 9.42% | ROA 5.46%, ROE 15.02% |
+| Profitability | Gross 25.20%, operating 14.25%, net 9.42% | ROA 5.46%, ROE 15.02% |
 | Balance sheet | Cash $186.00M, debt $28.52B | Current ratio 0.84, debt/equity 87.73 |
-| Valuation | P/E 13.57, forward P/E 14.27, P/S 1.28, P/B 2.36 | EV/Sales 2.14, EV/EBITDA 12.02 |
+| Valuation | P/E 13.69, forward P/E 14.40, P/S 1.29, P/B 2.38 | EV/Sales 2.14, EV/EBITDA 12.02 |
 | Growth expectations | Earnings growth 43.00%, EPS q/q 43.80% | Analyst mean target $102.33 (21 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 83.74% |
+| Institutional ownership | 83.64% |
 | Insider ownership | 0.16% |
-| Short float | 4.21% |
-| Short ratio (days to cover) | 6.4 |
+| Short float | 4.86% |
+| Short ratio (days to cover) | 8.8 |
 
 **Top institutional holders:**
 
 | Holder | Shares | % Out | Reported |
 |---|---|---|---|
-| Blackrock Inc. | 64,537,467 | 0.00% | 2026-06-30 |
-| State Street Corporation | 43,633,749 | 0.00% | 2026-06-30 |
-| Vanguard Capital Management LLC | 41,112,675 | 0.00% | 2026-06-30 |
-| Vanguard Portfolio Management LLC | 30,904,162 | 0.00% | 2026-06-30 |
-| Charles Schwab Investment Management, Inc. | 20,373,418 | 0.00% | 2026-06-30 |
-| Geode Capital Management, LLC | 17,439,867 | 0.00% | 2026-06-30 |
-| Capital International Investors | 17,204,063 | 0.00% | 2026-06-30 |
-| Morgan Stanley | 11,886,409 | 0.00% | 2026-06-30 |
-| First Eagle Investment Management, LLC | 11,834,827 | 0.00% | 2026-06-30 |
-| UBS Group AG | 11,588,291 | 0.00% | 2026-06-30 |
+| Blackrock Inc. | 64,537,467 | 10.24% | 2026-06-30 |
+| State Street Corporation | 43,633,749 | 6.92% | 2026-06-30 |
+| Vanguard Capital Management LLC | 41,112,675 | 6.52% | 2026-06-30 |
+| Vanguard Portfolio Management LLC | 30,904,162 | 4.90% | 2026-06-30 |
+| Charles Schwab Investment Management, Inc. | 20,373,418 | 3.23% | 2026-06-30 |
+| Geode Capital Management, LLC | 17,732,291 | 2.81% | 2026-09-30 |
+| Capital International Investors | 17,204,063 | 2.73% | 2026-06-30 |
+| Morgan Stanley | 11,886,409 | 1.89% | 2026-06-30 |
+| First Eagle Investment Management, LLC | 11,838,297 | 1.88% | 2026-09-30 |
+| UBS Group AG | 9,459,474 | 1.50% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
@@ -109,21 +109,21 @@ ONEOK, Inc. operates as a midstream service provider of gathering, processing, f
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 2.14 |
-| Market cap | $55.08B | EV/EBITDA | 12.02 |
+| Price | $88.17 | EV/Sales | 2.14 |
+| Market cap | $55.59B | EV/EBITDA | 12.02 |
 | Beta | 0.74 | Gross margin | 25.20% |
-| RSI(14) | 37.0 | Operating margin | 12.71% |
-| ATR(14) | 2.57 | Profit margin | 9.42% |
-| SMA20 dist | +nan% | ROA | 5.46% |
-| SMA50 dist | +nan% | ROE | 15.02% |
-| SMA200 dist | +nan% | Revenue (ttm) | $43.19B |
+| RSI(14) | 44.0 | Operating margin | 14.25% |
+| ATR(14) | 2.55 | Profit margin | 9.42% |
+| SMA20 dist | -3.40% | ROA | 5.46% |
+| SMA50 dist | -3.12% | ROE | 15.02% |
+| SMA200 dist | +1.03% | Revenue (ttm) | $43.19B |
 | 52W high | $96.44 | Revenue growth y/y | 44.30% |
-| 52W low | $64.69 | Inst. ownership | 83.74% |
-| P/E (ttm) | 13.57 | Insider ownership | 0.16% |
-| Forward P/E | 14.27 | Short float | 4.21% |
-| PEG (trailing) | 1.42 | Avg volume | 3,424,471 |
-| P/S | 1.28 | Employees | 6,326 |
-| P/B | 2.36 | Analyst rec (1=buy..5=sell) | 2.2 |
+| 52W low | $65.60 | Inst. ownership | 83.64% |
+| P/E (ttm) | 13.69 | Insider ownership | 0.16% |
+| Forward P/E | 14.40 | Short float | 4.86% |
+| PEG (trailing) | 1.44 | Avg volume | 3,451,245 |
+| P/S | 1.29 | Employees | 6,326 |
+| P/B | 2.38 | Analyst rec (1=buy..5=sell) | 2.3 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

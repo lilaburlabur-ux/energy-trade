@@ -4,8 +4,8 @@ Signed file: `ETR.research.11.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-11, ~15-min delayed) |
-| Market cap | $53.38B |
+| Current price | $111.99 (2026-11-11, ~15-min delayed) |
+| Market cap | $53.51B |
 | Sector / Industry | Utilities / Utilities - Regulated Electric |
 | Main theme | Utilities - Regulated Electric — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: fair-to-demanding, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `ETR.research.11.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +18.20%; price +4.18% vs SMA200. |
+| Fresh setup quality | Watch | -4.01% from 52w high and near SMA20 — check for a tight base. |
 | Fundamental quality | Mixed | Profit margin 14.56%, revenue growth 14.50%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 21.85, EV/Sales 6.01. |
-| Risk level | Moderate | Beta 0.43, ATR nan% of price, short float 3.97%. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 21.90, EV/Sales 6.01. |
+| Risk level | Moderate | Beta 0.43, ATR 1.8% of price, short float 3.92%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: fair-to-demanding, risk: moderate.
 
@@ -44,58 +44,59 @@ Entergy Corporation, together with its subsidiaries, engages in the production a
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $116.66 (+nan%); 52w low $89.57 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 66.3 (neutral) |
-| Volatility | ATR(14) 2.15 (~nan% of price); beta 0.43 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $111.99; 52w high $116.66 (-4.01%); 52w low $89.57 (+25.03%) |
+| Trend | +4.18% vs SMA200, +6.53% vs SMA50, +3.19% vs SMA20 |
+| Momentum | RSI(14) 66.7 (neutral) |
+| Volatility | ATR(14) 2.04 (~1.8% of price); beta 0.43 |
+| Setup perspective | -4.01% from 52w high and near SMA20 — check for a tight base. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | +0.1% |
+| Month | +6.7% |
+| Quarter | +4.8% |
+| Half Y | +0.3% |
+| 1Y | +18.2% |
+| YTD | +21.5% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
 | Next earnings | 2026-11-02 | Next scheduled report (Yahoo estimate) |
 | Revenue (ttm) | $14.04B | Revenue growth 14.50% y/y |
-| Profitability | Gross 47.93%, operating 34.20%, net 14.56% | ROA 2.89%, ROE 11.02% |
+| Profitability | Gross 47.93%, operating 25.01%, net 14.56% | ROA 2.89%, ROE 11.02% |
 | Balance sheet | Cash $4.21B, debt $34.81B | Current ratio 1.18, debt/equity 173.10 |
-| Valuation | P/E 25.56, forward P/E 21.85, P/S 3.80, P/B 2.70 | EV/Sales 6.01, EV/EBITDA 14.24 |
+| Valuation | P/E 25.63, forward P/E 21.90, P/S 3.81, P/B 2.70 | EV/Sales 6.01, EV/EBITDA 14.24 |
 | Growth expectations | Earnings growth 29.40%, EPS q/q 35.50% | Analyst mean target $120.38 (21 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 98.83% |
+| Institutional ownership | 98.93% |
 | Insider ownership | 0.22% |
-| Short float | 3.97% |
-| Short ratio (days to cover) | 5.6 |
+| Short float | 3.92% |
+| Short ratio (days to cover) | 6.2 |
 
 **Top institutional holders:**
 
 | Holder | Shares | % Out | Reported |
 |---|---|---|---|
-| Blackrock Inc. | 42,324,362 | 9.07% | 2026-06-30 |
-| Vanguard Capital Management LLC | 30,538,725 | 6.54% | 2026-06-30 |
-| Vanguard Portfolio Management LLC | 26,857,755 | 5.76% | 2026-06-30 |
-| State Street Corporation | 25,587,118 | 5.48% | 2026-06-30 |
-| JPMORGAN CHASE & CO | 24,917,975 | 5.34% | 2026-06-30 |
-| Bank of America Corporation | 17,339,974 | 3.72% | 2026-06-30 |
-| Ameriprise Financial, Inc. | 14,077,782 | 3.02% | 2026-06-30 |
-| FMR, LLC | 13,241,867 | 2.84% | 2026-06-30 |
-| Geode Capital Management, LLC | 12,156,825 | 2.61% | 2026-06-30 |
-| Morgan Stanley | 9,808,504 | 2.10% | 2026-06-30 |
+| Blackrock Inc. | 42,324,362 | 8.86% | 2026-06-30 |
+| Vanguard Capital Management LLC | 30,538,725 | 6.39% | 2026-06-30 |
+| Vanguard Portfolio Management LLC | 26,857,755 | 5.62% | 2026-06-30 |
+| State Street Corporation | 25,587,118 | 5.35% | 2026-06-30 |
+| JPMORGAN CHASE & CO | 24,917,975 | 5.21% | 2026-06-30 |
+| Bank of America Corporation | 17,339,974 | 3.63% | 2026-06-30 |
+| Ameriprise Financial, Inc. | 14,077,782 | 2.95% | 2026-06-30 |
+| Geode Capital Management, LLC | 12,462,961 | 2.61% | 2026-09-30 |
+| FMR, LLC | 12,287,486 | 2.57% | 2026-09-30 |
+| Morgan Stanley | 9,808,504 | 2.05% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 21.85, EV/Sales 6.01. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 21.90, EV/Sales 6.01. Multiple compression is the main downside if growth disappoints.
+- **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -110,20 +111,20 @@ Entergy Corporation, together with its subsidiaries, engages in the production a
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 6.01 |
-| Market cap | $53.38B | EV/EBITDA | 14.24 |
+| Price | $111.99 | EV/Sales | 6.01 |
+| Market cap | $53.51B | EV/EBITDA | 14.24 |
 | Beta | 0.43 | Gross margin | 47.93% |
-| RSI(14) | 66.3 | Operating margin | 34.20% |
-| ATR(14) | 2.15 | Profit margin | 14.56% |
-| SMA20 dist | +nan% | ROA | 2.89% |
-| SMA50 dist | +nan% | ROE | 11.02% |
-| SMA200 dist | +nan% | Revenue (ttm) | $14.04B |
+| RSI(14) | 66.7 | Operating margin | 25.01% |
+| ATR(14) | 2.04 | Profit margin | 14.56% |
+| SMA20 dist | +3.19% | ROA | 2.89% |
+| SMA50 dist | +6.53% | ROE | 11.02% |
+| SMA200 dist | +4.18% | Revenue (ttm) | $14.04B |
 | 52W high | $116.66 | Revenue growth y/y | 14.50% |
-| 52W low | $89.57 | Inst. ownership | 98.83% |
-| P/E (ttm) | 25.56 | Insider ownership | 0.22% |
-| Forward P/E | 21.85 | Short float | 3.97% |
-| PEG (trailing) | 1.72 | Avg volume | 2,813,607 |
-| P/S | 3.80 | Employees | 12,233 |
+| 52W low | $89.57 | Inst. ownership | 98.93% |
+| P/E (ttm) | 25.63 | Insider ownership | 0.22% |
+| Forward P/E | 21.90 | Short float | 3.92% |
+| PEG (trailing) | 1.72 | Avg volume | 2,808,790 |
+| P/S | 3.81 | Employees | 12,233 |
 | P/B | 2.70 | Analyst rec (1=buy..5=sell) | 1.7 |
 
 ## 8. Analyst Actions

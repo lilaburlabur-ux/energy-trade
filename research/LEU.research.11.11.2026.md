@@ -4,24 +4,24 @@ Signed file: `LEU.research.11.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-11, ~15-min delayed) |
-| Market cap | $2.27B |
+| Current price | $112.17 (2026-11-11, ~15-min delayed) |
+| Market cap | $2.31B |
 | Sector / Industry | Energy / Uranium |
 | Main theme | Uranium — see catalysts below |
-| Current stance | Moderate technical momentum, mixed fundamentals, value: fair-to-demanding, risk: high. |
+| Current stance | Low technical momentum, mixed fundamentals, value: fair-to-demanding, risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-11.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-36.73%) with negative half-year (-41.67%). |
+| Fresh setup quality | Poor / broken | -66.79% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 16.77%, revenue growth -25.90%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 26.29, EV/Sales 2.66. |
-| Risk level | High | Beta 1.41, ATR nan% of price, short float 30.28%. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 26.84, EV/Sales 2.66. |
+| Risk level | High | Beta 1.41, ATR 8.5% of price, short float 29.58%. |
 
-**Bottom line:** Moderate technical momentum, mixed fundamentals, value: fair-to-demanding, risk: high.
+**Bottom line:** Low technical momentum, mixed fundamentals, value: fair-to-demanding, risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -44,60 +44,61 @@ Centrus Energy Corp. supplies nuclear fuel components for the nuclear power indu
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $337.76 (+nan%); 52w low $89.03 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 51.1 (neutral) |
-| Volatility | ATR(14) 9.69 (~nan% of price); beta 1.41 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $112.17; 52w high $337.76 (-66.79%); 52w low $89.03 (+25.99%) |
+| Trend | -36.73% vs SMA200, -15.31% vs SMA50, +5.46% vs SMA20 |
+| Momentum | RSI(14) 48.2 (neutral) |
+| Volatility | ATR(14) 9.50 (~8.5% of price); beta 1.41 |
+| Setup perspective | -66.79% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | +21.2% |
+| Month | -16.5% |
+| Quarter | -41.5% |
+| Half Y | -41.7% |
+| 1Y | -61.3% |
+| YTD | -58.8% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
 | Next earnings | 2026-11-04 | Next scheduled report (Yahoo estimate) |
 | Revenue (ttm) | $454.50M | Revenue growth -25.90% y/y |
-| Profitability | Gross 23.28%, operating -55.32%, net 16.77% | ROA -0.31%, ROE 10.38% |
+| Profitability | Gross 23.28%, operating -2.77%, net 16.77% | ROA -0.31%, ROE 10.38% |
 | Balance sheet | Cash $2.24B, debt $1.18B | Current ratio 8.61, debt/equity 106.67 |
-| Valuation | P/E 32.60, forward P/E 26.29, P/S 4.98, P/B 2.03 | EV/Sales 2.66, EV/EBITDA -431.45 |
+| Valuation | P/E 33.28, forward P/E 26.84, P/S 5.09, P/B 2.08 | EV/Sales 2.66, EV/EBITDA -431.45 |
 | Growth expectations | Earnings growth 642.10%, EPS q/q 710.30% | Analyst mean target $194.09 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 85.40% |
-| Insider ownership | 1.03% |
-| Short float | 30.28% |
-| Short ratio (days to cover) | 7.4 |
+| Institutional ownership | 84.64% |
+| Insider ownership | 1.02% |
+| Short float | 29.58% |
+| Short ratio (days to cover) | 6.6 |
 
 **Top institutional holders:**
 
 | Holder | Shares | % Out | Reported |
 |---|---|---|---|
-| Van Eck Associates Corporation | 1,651,915 | 8.59% | 2026-06-30 |
-| State Street Corporation | 1,639,266 | 8.52% | 2026-06-30 |
-| Blackrock Inc. | 1,547,719 | 8.05% | 2026-06-30 |
-| Mirae Asset Global ETFs Holdings Ltd. | 1,258,106 | 6.54% | 2026-06-30 |
-| Vanguard Capital Management LLC | 809,186 | 4.21% | 2026-06-30 |
-| Geode Capital Management, LLC | 474,822 | 2.47% | 2026-06-30 |
-| Bank Of New York Mellon Corporation | 406,771 | 2.11% | 2026-06-30 |
-| Dimensional Fund Advisors LP | 366,246 | 1.90% | 2026-06-30 |
-| Morgan Stanley | 303,523 | 1.58% | 2026-06-30 |
-| Renaissance Technologies, LLC | 280,482 | 1.46% | 2026-06-30 |
+| Van Eck Associates Corporation | 1,651,915 | 8.30% | 2026-06-30 |
+| State Street Corporation | 1,639,266 | 8.24% | 2026-06-30 |
+| Blackrock Inc. | 1,547,719 | 7.78% | 2026-06-30 |
+| Mirae Asset Global ETFs Holdings Ltd. | 1,258,106 | 6.32% | 2026-06-30 |
+| Vanguard Capital Management LLC | 809,186 | 4.07% | 2026-06-30 |
+| Geode Capital Management, LLC | 474,838 | 2.39% | 2026-09-30 |
+| UBS Group AG | 422,540 | 2.12% | 2026-09-30 |
+| Dimensional Fund Advisors LP | 378,242 | 1.90% | 2026-09-30 |
+| Bank Of New York Mellon Corporation | 322,037 | 1.62% | 2026-09-30 |
+| Morgan Stanley | 303,523 | 1.53% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 26.29, EV/Sales 2.66. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 1.41, ATR nan% of price, short float 30.28%. Size positions accordingly.
-- **Short interest risk:** short float 30.28% can fuel squeezes both ways around news.
+- **Valuation risk:** Forward P/E 26.84, EV/Sales 2.66. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 1.41, ATR 8.5% of price, short float 29.58%. Size positions accordingly.
+- **Short interest risk:** short float 29.58% can fuel squeezes both ways around news.
+- **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -112,21 +113,21 @@ Centrus Energy Corp. supplies nuclear fuel components for the nuclear power indu
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 2.66 |
-| Market cap | $2.27B | EV/EBITDA | -431.45 |
+| Price | $112.17 | EV/Sales | 2.66 |
+| Market cap | $2.31B | EV/EBITDA | -431.45 |
 | Beta | 1.41 | Gross margin | 23.28% |
-| RSI(14) | 51.1 | Operating margin | -55.32% |
-| ATR(14) | 9.69 | Profit margin | 16.77% |
-| SMA20 dist | +nan% | ROA | -0.31% |
-| SMA50 dist | +nan% | ROE | 10.38% |
-| SMA200 dist | +nan% | Revenue (ttm) | $454.50M |
+| RSI(14) | 48.2 | Operating margin | -2.77% |
+| ATR(14) | 9.50 | Profit margin | 16.77% |
+| SMA20 dist | +5.46% | ROA | -0.31% |
+| SMA50 dist | -15.31% | ROE | 10.38% |
+| SMA200 dist | -36.73% | Revenue (ttm) | $454.50M |
 | 52W high | $337.76 | Revenue growth y/y | -25.90% |
-| 52W low | $89.03 | Inst. ownership | 85.40% |
-| P/E (ttm) | 32.60 | Insider ownership | 1.03% |
-| Forward P/E | 26.29 | Short float | 30.28% |
-| PEG (trailing) | — | Avg volume | 782,850 |
-| P/S | 4.98 | Employees | 467 |
-| P/B | 2.03 | Analyst rec (1=buy..5=sell) | 1.8 |
+| 52W low | $89.03 | Inst. ownership | 84.64% |
+| P/E (ttm) | 33.28 | Insider ownership | 1.02% |
+| Forward P/E | 26.84 | Short float | 29.58% |
+| PEG (trailing) | — | Avg volume | 788,915 |
+| P/S | 5.09 | Employees | 467 |
+| P/B | 2.08 | Analyst rec (1=buy..5=sell) | 1.8 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
@@ -141,7 +142,7 @@ Centrus Energy Corp. supplies nuclear fuel components for the nuclear power indu
 | 2026-10-23 | main | Barclays | Equal-Weight → Equal-Weight |
 
 ## 9. Conclusion
-LEU: Moderate momentum / mixed fundamentals / fair-to-demanding value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+LEU: Low momentum / mixed fundamentals / fair-to-demanding value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

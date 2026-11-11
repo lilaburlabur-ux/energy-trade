@@ -4,24 +4,24 @@ Signed file: `DVN.research.11.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-11, ~15-min delayed) |
-| Market cap | $49.47B |
+| Current price | $44.95 (2026-11-11, ~15-min delayed) |
+| Market cap | $51.23B |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
-| Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate. |
+| Current stance | Low technical momentum, strong fundamentals, value: reasonable, risk: elevated. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-11.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-1.90%) with negative half-year (-2.85%). |
+| Fresh setup quality | Moderate / wait | -13.81% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 16.28%, revenue growth 74.00%. |
-| Value attractiveness | Reasonable | Forward P/E 8.21, EV/Sales 2.73. |
-| Risk level | Moderate | Beta 0.48, ATR nan% of price, short float 2.42%. |
+| Value attractiveness | Reasonable | Forward P/E 8.61, EV/Sales 2.73. |
+| Risk level | Elevated | Beta 0.48, ATR 3.9% of price, short float 2.46%. |
 
-**Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate.
+**Bottom line:** Low technical momentum, strong fundamentals, value: reasonable, risk: elevated.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -36,65 +36,66 @@ Devon Energy Corporation, an independent energy company, engages in the explorat
 
 | Headline | Source | Date |
 |---|---|---|
+| Inflation Is Running Above 3%. These 3 Energy Dividend Stocks Can Keep Up. | 24/7 Wall St. | 2026-11-11 |
 | Devon Energy Q3 Earnings Call Highlights Permian Focus and Buybacks | Zacks | 2026-11-10 |
 | Is Crescent Energy's Royalty Business Its Next Big Growth Engine? | Zacks | 2026-11-10 |
 | Devon Energy (DVN) Loses 13.4% in 4 Weeks, Here's Why a Trend Reversal May be Around the Corner | Zacks | 2026-11-10 |
-| Devon Energy Corp (DVN) (Q3 2026) Earnings Call Highlights: Record Production, $2 Billion Free ... | GuruFocus.com | 2026-11-09 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $52.15 (+nan%); 52w low $33.08 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 28.8 (oversold) |
-| Volatility | ATR(14) 1.72 (~nan% of price); beta 0.48 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $44.95; 52w high $52.15 (-13.81%); 52w low $33.83 (+32.87%) |
+| Trend | -1.90% vs SMA200, -6.98% vs SMA50, -6.88% vs SMA20 |
+| Momentum | RSI(14) 41.1 (neutral) |
+| Volatility | ATR(14) 1.74 (~3.9% of price); beta 0.48 |
+| Setup perspective | -13.81% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | +1.9% |
+| Month | -10.5% |
+| Quarter | +1.9% |
+| Half Y | -2.9% |
+| 1Y | +35.9% |
+| YTD | +20.9% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
 | Next earnings | 2026-11-05 | Next scheduled report (Yahoo estimate) |
 | Revenue (ttm) | $22.11B | Revenue growth 74.00% y/y |
-| Profitability | Gross 53.48%, operating 19.84%, net 16.28% | ROA 6.50%, ROE 12.55% |
+| Profitability | Gross 53.48%, operating 24.01%, net 16.28% | ROA 6.50%, ROE 12.55% |
 | Balance sheet | Cash $352.00M, debt $11.20B | Current ratio 0.70, debt/equity 26.66 |
-| Valuation | P/E 10.19, forward P/E 8.21, P/S 2.24, P/B 1.18 | EV/Sales 2.73, EV/EBITDA 5.91 |
-| Growth expectations | Earnings growth -19.30%, EPS q/q 46.70% | Analyst mean target $61.52 (27 analysts) |
+| Valuation | P/E 10.55, forward P/E 8.61, P/S 2.32, P/B 1.22 | EV/Sales 2.73, EV/EBITDA 5.91 |
+| Growth expectations | Earnings growth -19.30%, EPS q/q 46.70% | Analyst mean target $60.81 (27 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 93.00% |
+| Institutional ownership | 93.27% |
 | Insider ownership | 0.74% |
-| Short float | 2.42% |
-| Short ratio (days to cover) | 2.3 |
+| Short float | 2.46% |
+| Short ratio (days to cover) | 3.1 |
 
 **Top institutional holders:**
 
 | Holder | Shares | % Out | Reported |
 |---|---|---|---|
-| Blackrock Inc. | 95,378,854 | 8.67% | 2026-06-30 |
-| Vanguard Capital Management LLC | 75,348,040 | 6.85% | 2026-06-30 |
-| State Street Corporation | 73,179,266 | 6.65% | 2026-06-30 |
-| Vanguard Portfolio Management LLC | 57,263,240 | 5.21% | 2026-06-30 |
-| Wellington Management Group, LLP | 51,522,376 | 4.68% | 2026-06-30 |
-| Charles Schwab Investment Management, Inc. | 38,323,956 | 3.48% | 2026-06-30 |
-| Geode Capital Management, LLC | 30,520,177 | 2.77% | 2026-06-30 |
-| Davis Selected Advisers | 25,297,991 | 2.30% | 2026-06-30 |
-| Invesco Ltd. | 24,148,878 | 2.20% | 2026-06-30 |
-| Morgan Stanley | 23,513,769 | 2.14% | 2026-06-30 |
+| Blackrock Inc. | 95,378,854 | 8.37% | 2026-06-30 |
+| Vanguard Capital Management LLC | 75,348,040 | 6.61% | 2026-06-30 |
+| State Street Corporation | 73,179,266 | 6.42% | 2026-06-30 |
+| Vanguard Portfolio Management LLC | 57,263,240 | 5.02% | 2026-06-30 |
+| Wellington Management Group, LLP | 51,522,376 | 4.52% | 2026-06-30 |
+| Charles Schwab Investment Management, Inc. | 38,323,956 | 3.36% | 2026-06-30 |
+| Geode Capital Management, LLC | 30,886,672 | 2.71% | 2026-09-30 |
+| Davis Selected Advisers | 26,018,896 | 2.28% | 2026-09-30 |
+| Invesco Ltd. | 24,148,878 | 2.12% | 2026-06-30 |
+| Bank Of New York Mellon Corporation | 24,210,181 | 2.12% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
+- **Volatility risk:** Beta 0.48, ATR 3.9% of price, short float 2.46%. Size positions accordingly.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -109,21 +110,21 @@ Devon Energy Corporation, an independent energy company, engages in the explorat
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 2.73 |
-| Market cap | $49.47B | EV/EBITDA | 5.91 |
+| Price | $44.95 | EV/Sales | 2.73 |
+| Market cap | $51.23B | EV/EBITDA | 5.91 |
 | Beta | 0.48 | Gross margin | 53.48% |
-| RSI(14) | 28.8 | Operating margin | 19.84% |
-| ATR(14) | 1.72 | Profit margin | 16.28% |
-| SMA20 dist | +nan% | ROA | 6.50% |
-| SMA50 dist | +nan% | ROE | 12.55% |
-| SMA200 dist | +nan% | Revenue (ttm) | $22.11B |
+| RSI(14) | 41.1 | Operating margin | 24.01% |
+| ATR(14) | 1.74 | Profit margin | 16.28% |
+| SMA20 dist | -6.88% | ROA | 6.50% |
+| SMA50 dist | -6.98% | ROE | 12.55% |
+| SMA200 dist | -1.90% | Revenue (ttm) | $22.11B |
 | 52W high | $52.15 | Revenue growth y/y | 74.00% |
-| 52W low | $33.08 | Inst. ownership | 93.00% |
-| P/E (ttm) | 10.19 | Insider ownership | 0.74% |
-| Forward P/E | 8.21 | Short float | 2.42% |
-| PEG (trailing) | — | Avg volume | 10,952,760 |
-| P/S | 2.24 | Employees | 2,200 |
-| P/B | 1.18 | Analyst rec (1=buy..5=sell) | 1.2 |
+| 52W low | $33.83 | Inst. ownership | 93.27% |
+| P/E (ttm) | 10.55 | Insider ownership | 0.74% |
+| Forward P/E | 8.61 | Short float | 2.46% |
+| PEG (trailing) | — | Avg volume | 11,008,650 |
+| P/S | 2.32 | Employees | 2,200 |
+| P/B | 1.22 | Analyst rec (1=buy..5=sell) | 1.2 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
@@ -138,7 +139,7 @@ Devon Energy Corporation, an independent energy company, engages in the explorat
 | 2026-10-15 | init | Scotiabank | — → Sector Outperform |
 
 ## 9. Conclusion
-DVN: Moderate momentum / strong fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+DVN: Low momentum / strong fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

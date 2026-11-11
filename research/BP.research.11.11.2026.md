@@ -4,8 +4,8 @@ Signed file: `BP.research.11.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-11, ~15-min delayed) |
-| Market cap | $114.82B |
+| Current price | $45.26 (2026-11-11, ~15-min delayed) |
+| Market cap | $116.57B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `BP.research.11.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +28.21%; price +5.70% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -11.81% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 3.84%, revenue growth 41.40%. |
-| Value attractiveness | Reasonable | Forward P/E 7.39, EV/Sales 2.15. |
-| Risk level | Moderate | Beta -0.26, ATR nan% of price, short float 0.37%. |
+| Value attractiveness | Reasonable | Forward P/E 7.51, EV/Sales 2.15. |
+| Risk level | Moderate | Beta -0.26, ATR 2.7% of price, short float 0.31%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
@@ -36,63 +36,63 @@ BP p.l.c., an integrated energy company, engages in the oil and gas business wor
 
 | Headline | Source | Date |
 |---|---|---|
+| FTSE 100 today: Stocks gain as oil rebounds; Spirax tops gainers | Investing.com | 2026-11-11 |
 | FTSE 100 edges down as falling oil weigh on energy majors amid hot U.S. CPI | Investing.com | 2026-11-10 |
 | BP Completes $6B Castrol Stake Sale: A Boost to Its Balance Sheet? | Zacks | 2026-11-09 |
 | Take the Zacks Approach to Beat the Markets: Ulta Beauty, Accenture, HCA in Focus | Zacks | 2026-11-09 |
-| Clean Energy Fuels Corp (CLNE) (Q3 2026) Earnings Call Highlights: Raised Guidance, Surging RNG ... | GuruFocus.com | 2026-11-06 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $51.32 (+nan%); 52w low $32.12 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 37.0 (neutral) |
-| Volatility | ATR(14) 1.28 (~nan% of price); beta -0.26 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $45.26; 52w high $51.32 (-11.81%); 52w low $32.12 (+40.92%) |
+| Trend | +5.70% vs SMA200, -2.34% vs SMA50, -6.04% vs SMA20 |
+| Momentum | RSI(14) 41.3 (neutral) |
+| Volatility | ATR(14) 1.24 (~2.7% of price); beta -0.26 |
+| Setup perspective | -11.81% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -0.8% |
+| Month | -6.7% |
+| Quarter | +7.0% |
+| Half Y | +5.0% |
+| 1Y | +28.2% |
+| YTD | +31.0% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
 | Next earnings | 2026-10-30 | Next scheduled report (Yahoo estimate) |
 | Revenue (ttm) | $235.14B | Revenue growth 41.40% y/y |
-| Profitability | Gross 29.56%, operating 18.59%, net 3.84% | ROA 6.75%, ROE 13.42% |
+| Profitability | Gross 29.56%, operating 13.41%, net 3.84% | ROA 6.75%, ROE 13.42% |
 | Balance sheet | Cash $43.05B, debt $69.62B | Current ratio 1.29, debt/equity 87.47 |
-| Valuation | P/E 21.75, forward P/E 7.39, P/S 0.49, P/B 7.44 | EV/Sales 2.15, EV/EBITDA 10.75 |
+| Valuation | P/E 22.08, forward P/E 7.51, P/S 0.50, P/B 7.55 | EV/Sales 2.15, EV/EBITDA 10.75 |
 | Growth expectations | Earnings growth 305.00%, EPS q/q 304.50% | Analyst mean target $55.31 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 14.03% |
+| Institutional ownership | 14.06% |
 | Insider ownership | 0.01% |
-| Short float | 0.37% |
-| Short ratio (days to cover) | 0.9 |
+| Short float | 0.31% |
+| Short ratio (days to cover) | 0.8 |
 
 **Top institutional holders:**
 
 | Holder | Shares | % Out | Reported |
 |---|---|---|---|
-| Fisher Asset Management, LLC | 66,310,416 | 2.53% | 2026-06-30 |
-| Acadian Asset Management. LLC | 23,072,128 | 0.88% | 2026-06-30 |
-| Dimensional Fund Advisors LP | 18,733,560 | 0.72% | 2026-06-30 |
+| Fisher Asset Management, LLC | 65,437,382 | 2.50% | 2026-09-30 |
+| Acadian Asset Management. LLC | 25,263,597 | 0.96% | 2026-09-30 |
+| Dimensional Fund Advisors LP | 19,461,415 | 0.74% | 2026-09-30 |
 | Arrowstreet Capital, Limited Partnership | 17,366,858 | 0.66% | 2026-06-30 |
 | State Street Corporation | 15,040,506 | 0.57% | 2026-06-30 |
 | GQG Partners LLC | 14,138,369 | 0.54% | 2026-06-30 |
 | Morgan Stanley | 10,755,188 | 0.41% | 2026-06-30 |
 | Goldman Sachs Group Inc | 10,653,929 | 0.41% | 2026-06-30 |
 | Blackrock Inc. | 8,139,211 | 0.31% | 2026-06-30 |
-| Bank of Montreal /CAN/ | 6,527,262 | 0.25% | 2026-06-30 |
+| Capital World Investors | 6,187,067 | 0.24% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
@@ -109,21 +109,21 @@ BP p.l.c., an integrated energy company, engages in the oil and gas business wor
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 2.15 |
-| Market cap | $114.82B | EV/EBITDA | 10.75 |
+| Price | $45.26 | EV/Sales | 2.15 |
+| Market cap | $116.57B | EV/EBITDA | 10.75 |
 | Beta | -0.26 | Gross margin | 29.56% |
-| RSI(14) | 37.0 | Operating margin | 18.59% |
-| ATR(14) | 1.28 | Profit margin | 3.84% |
-| SMA20 dist | +nan% | ROA | 6.75% |
-| SMA50 dist | +nan% | ROE | 13.42% |
-| SMA200 dist | +nan% | Revenue (ttm) | $235.14B |
+| RSI(14) | 41.3 | Operating margin | 13.41% |
+| ATR(14) | 1.24 | Profit margin | 3.84% |
+| SMA20 dist | -6.04% | ROA | 6.75% |
+| SMA50 dist | -2.34% | ROE | 13.42% |
+| SMA200 dist | +5.70% | Revenue (ttm) | $235.14B |
 | 52W high | $51.32 | Revenue growth y/y | 41.40% |
-| 52W low | $32.12 | Inst. ownership | 14.03% |
-| P/E (ttm) | 21.75 | Insider ownership | 0.01% |
-| Forward P/E | 7.39 | Short float | 0.37% |
-| PEG (trailing) | 0.04 | Avg volume | 9,181,845 |
-| P/S | 0.49 | Employees | 93,700 |
-| P/B | 7.44 | Analyst rec (1=buy..5=sell) | 2.2 |
+| 52W low | $32.12 | Inst. ownership | 14.06% |
+| P/E (ttm) | 22.08 | Insider ownership | 0.01% |
+| Forward P/E | 7.51 | Short float | 0.31% |
+| PEG (trailing) | 0.04 | Avg volume | 9,223,779 |
+| P/S | 0.50 | Employees | 93,700 |
+| P/B | 7.55 | Analyst rec (1=buy..5=sell) | 2.2 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

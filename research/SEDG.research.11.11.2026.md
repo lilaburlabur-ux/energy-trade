@@ -4,24 +4,24 @@ Signed file: `SEDG.research.11.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-11, ~15-min delayed) |
-| Market cap | $1.60B |
+| Current price | $26.67 (2026-11-11, ~15-min delayed) |
+| Market cap | $1.65B |
 | Sector / Industry | Technology / Solar |
 | Main theme | Solar — see catalysts below |
-| Current stance | Moderate technical momentum, weak fundamentals, value: low (expensive), risk: high. |
+| Current stance | Low technical momentum, weak fundamentals, value: low (expensive), risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-11.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-36.62%) with negative half-year (-37.64%). |
+| Fresh setup quality | Poor / broken | -66.03% from 52w high — base needs to rebuild. |
 | Fundamental quality | Weak | Negative profit margin (-17.34%). |
-| Value attractiveness | Low (expensive) | Forward P/E 267.59, EV/Sales 1.10. |
-| Risk level | High | Beta 1.30, ATR nan% of price, short float 20.54%. |
+| Value attractiveness | Low (expensive) | Forward P/E 275.97, EV/Sales 1.10. |
+| Risk level | High | Beta 1.30, ATR 9.1% of price, short float 19.02%. |
 
-**Bottom line:** Moderate technical momentum, weak fundamentals, value: low (expensive), risk: high.
+**Bottom line:** Low technical momentum, weak fundamentals, value: low (expensive), risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -44,50 +44,50 @@ SolarEdge Technologies, Inc., together with its subsidiaries, operates as an ene
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $78.51 (+nan%); 52w low $26.20 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 39.9 (neutral) |
-| Volatility | ATR(14) 2.53 (~nan% of price); beta 1.30 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $26.67; 52w high $78.51 (-66.03%); 52w low $25.86 (+3.13%) |
+| Trend | -36.62% vs SMA200, -17.52% vs SMA50, -12.06% vs SMA20 |
+| Momentum | RSI(14) 38.9 (neutral) |
+| Volatility | ATR(14) 2.42 (~9.1% of price); beta 1.30 |
+| Setup perspective | -66.03% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -11.2% |
+| Month | -18.0% |
+| Quarter | -17.1% |
+| Half Y | -37.6% |
+| 1Y | -41.2% |
+| YTD | -15.0% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
 | Next earnings | 2026-11-04 | Next scheduled report (Yahoo estimate) |
 | Revenue (ttm) | $1.32B | Revenue growth -4.10% y/y |
-| Profitability | Gross 21.49%, operating -10.02%, net -17.34% | ROA -4.03%, ROE -50.64% |
+| Profitability | Gross 21.49%, operating -11.01%, net -17.34% | ROA -4.03%, ROE -50.64% |
 | Balance sheet | Cash $555.08M, debt $403.18M | Current ratio 2.12, debt/equity 95.26 |
-| Valuation | P/E —, forward P/E 267.59, P/S 1.21, P/B 3.78 | EV/Sales 1.10, EV/EBITDA -11.98 |
+| Valuation | P/E —, forward P/E 275.97, P/S 1.25, P/B 3.90 | EV/Sales 1.10, EV/EBITDA -11.98 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $34.58 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 102.58% |
+| Institutional ownership | 104.71% |
 | Insider ownership | 1.11% |
-| Short float | 20.54% |
-| Short ratio (days to cover) | 4.3 |
+| Short float | 19.02% |
+| Short ratio (days to cover) | 4.1 |
 
 **Top institutional holders:**
 
 | Holder | Shares | % Out | Reported |
 |---|---|---|---|
 | Blackrock Inc. | 9,578,632 | 15.47% | 2026-06-30 |
+| UBS Group AG | 4,393,870 | 7.10% | 2026-09-30 |
 | Harel Insurance Investments & Financial Services Ltd. | 3,037,254 | 4.91% | 2026-09-30 |
 | Migdal Insurance & Financial Holdings Ltd. | 2,693,340 | 4.35% | 2026-09-30 |
 | Invesco Ltd. | 2,595,869 | 4.19% | 2026-06-30 |
-| UBS Group AG | 2,470,352 | 3.99% | 2026-06-30 |
 | Menora Mivtachim Holdings Ltd. | 2,394,421 | 3.87% | 2026-06-30 |
 | Vanguard Portfolio Management LLC | 2,161,832 | 3.49% | 2026-06-30 |
 | State Street Corporation | 1,761,901 | 2.85% | 2026-06-30 |
@@ -95,10 +95,11 @@ SolarEdge Technologies, Inc., together with its subsidiaries, operates as an ene
 | Handelsbanken Fonder AB | 1,340,004 | 2.16% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 267.59, EV/Sales 1.10. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 1.30, ATR nan% of price, short float 20.54%. Size positions accordingly.
-- **Short interest risk:** short float 20.54% can fuel squeezes both ways around news.
+- **Valuation risk:** Forward P/E 275.97, EV/Sales 1.10. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 1.30, ATR 9.1% of price, short float 19.02%. Size positions accordingly.
+- **Short interest risk:** short float 19.02% can fuel squeezes both ways around news.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
+- **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -113,21 +114,21 @@ SolarEdge Technologies, Inc., together with its subsidiaries, operates as an ene
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 1.10 |
-| Market cap | $1.60B | EV/EBITDA | -11.98 |
+| Price | $26.67 | EV/Sales | 1.10 |
+| Market cap | $1.65B | EV/EBITDA | -11.98 |
 | Beta | 1.30 | Gross margin | 21.49% |
-| RSI(14) | 39.9 | Operating margin | -10.02% |
-| ATR(14) | 2.53 | Profit margin | -17.34% |
-| SMA20 dist | +nan% | ROA | -4.03% |
-| SMA50 dist | +nan% | ROE | -50.64% |
-| SMA200 dist | +nan% | Revenue (ttm) | $1.32B |
+| RSI(14) | 38.9 | Operating margin | -11.01% |
+| ATR(14) | 2.42 | Profit margin | -17.34% |
+| SMA20 dist | -12.06% | ROA | -4.03% |
+| SMA50 dist | -17.52% | ROE | -50.64% |
+| SMA200 dist | -36.62% | Revenue (ttm) | $1.32B |
 | 52W high | $78.51 | Revenue growth y/y | -4.10% |
-| 52W low | $26.20 | Inst. ownership | 102.58% |
+| 52W low | $25.86 | Inst. ownership | 104.71% |
 | P/E (ttm) | — | Insider ownership | 1.11% |
-| Forward P/E | 267.59 | Short float | 20.54% |
-| PEG (trailing) | — | Avg volume | 2,950,526 |
-| P/S | 1.21 | Employees | 3,576 |
-| P/B | 3.78 | Analyst rec (1=buy..5=sell) | 3.1 |
+| Forward P/E | 275.97 | Short float | 19.02% |
+| PEG (trailing) | — | Avg volume | 2,956,040 |
+| P/S | 1.25 | Employees | 3,576 |
+| P/B | 3.90 | Analyst rec (1=buy..5=sell) | 3.1 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
@@ -142,7 +143,7 @@ SolarEdge Technologies, Inc., together with its subsidiaries, operates as an ene
 | 2026-10-14 | main | Susquehanna | Neutral → Neutral |
 
 ## 9. Conclusion
-SEDG: Moderate momentum / weak fundamentals / low (expensive) value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+SEDG: Low momentum / weak fundamentals / low (expensive) value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

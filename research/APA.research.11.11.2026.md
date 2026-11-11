@@ -4,24 +4,24 @@ Signed file: `APA.research.11.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-11, ~15-min delayed) |
-| Market cap | $15.15B |
+| Current price | $46.74 (2026-11-11, ~15-min delayed) |
+| Market cap | $15.69B |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
-| Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate. |
+| Current stance | High technical momentum, strong fundamentals, value: reasonable, risk: elevated. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-11.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +97.44%; price +22.56% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -11.51% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 23.49%, revenue growth 31.50%. |
-| Value attractiveness | Reasonable | Forward P/E 8.18, EV/Sales 2.10. |
-| Risk level | Moderate | Beta 0.28, ATR nan% of price, short float 9.12%. |
+| Value attractiveness | Reasonable | Forward P/E 8.47, EV/Sales 2.10. |
+| Risk level | Elevated | Beta 0.28, ATR 4.2% of price, short float 9.07%. |
 
-**Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate.
+**Bottom line:** High technical momentum, strong fundamentals, value: reasonable, risk: elevated.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -36,66 +36,67 @@ APA Corporation, an independent energy company, explores for, develops, and prod
 
 | Headline | Source | Date |
 |---|---|---|
+| Should Value Investors Buy APA (APA) Stock? | Zacks | 2026-11-11 |
+| APA Raises 2026 Free Cash Flow Forecast to $2.9B After Q3 Results | Zacks | 2026-11-11 |
 | Did APA's 88% Run Pass You By? What The Bulls Got Right | Simply Wall St. | 2026-11-10 |
 | APA Beats Q3 Earnings: Can Strong Momentum Drive the Stock Higher? | Zacks | 2026-11-09 |
-| Buy 5 Non-Tech Nasdaq Stocks to Enhance Your Portfolio Returns in Q4 | Zacks | 2026-11-09 |
-| APA Corp (APA) (Q3 2026) Earnings Call Highlights: $699 Million Free Cash Flow, Raised Outlook ... | GuruFocus.com | 2026-11-09 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $52.82 (+nan%); 52w low $22.73 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 41.1 (neutral) |
-| Volatility | ATR(14) 1.96 (~nan% of price); beta 0.28 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $46.74; 52w high $52.82 (-11.51%); 52w low $22.73 (+105.63%) |
+| Trend | +22.56% vs SMA200, +1.87% vs SMA50, -3.56% vs SMA20 |
+| Momentum | RSI(14) 49.5 (neutral) |
+| Volatility | ATR(14) 1.98 (~4.2% of price); beta 0.28 |
+| Setup perspective | -11.51% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | +5.1% |
+| Month | -2.2% |
+| Quarter | +17.4% |
+| Half Y | +28.0% |
+| 1Y | +97.4% |
+| YTD | +89.6% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
 | Next earnings | 2026-11-04 | Next scheduled report (Yahoo estimate) |
 | Revenue (ttm) | $9.24B | Revenue growth 31.50% y/y |
-| Profitability | Gross 78.98%, operating 44.25%, net 23.49% | ROA 14.06%, ROE 33.32% |
+| Profitability | Gross 78.98%, operating 43.31%, net 23.49% | ROA 14.06%, ROE 33.32% |
 | Balance sheet | Cash $75.00M, debt $3.43B | Current ratio 0.84, debt/equity 42.23 |
-| Valuation | P/E 7.34, forward P/E 8.18, P/S 1.64, P/B 2.14 | EV/Sales 2.10, EV/EBITDA 3.05 |
-| Growth expectations | Earnings growth 250.90%, EPS q/q 240.50% | Analyst mean target $49.85 (26 analysts) |
+| Valuation | P/E 7.60, forward P/E 8.47, P/S 1.70, P/B 2.21 | EV/Sales 2.10, EV/EBITDA 3.05 |
+| Growth expectations | Earnings growth 250.90%, EPS q/q 240.50% | Analyst mean target $50.00 (26 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 113.67% |
+| Institutional ownership | 113.61% |
 | Insider ownership | 0.46% |
-| Short float | 9.12% |
-| Short ratio (days to cover) | 4.0 |
+| Short float | 9.07% |
+| Short ratio (days to cover) | 4.5 |
 
 **Top institutional holders:**
 
 | Holder | Shares | % Out | Reported |
 |---|---|---|---|
-| Blackrock Inc. | 36,021,838 | 10.28% | 2026-06-30 |
-| Hotchkis & Wiley Capital Management, LLC | 31,695,303 | 9.05% | 2026-06-30 |
-| State Street Corporation | 25,181,423 | 7.19% | 2026-06-30 |
-| Vanguard Capital Management LLC | 23,098,547 | 6.59% | 2026-06-30 |
-| Vanguard Portfolio Management LLC | 17,331,282 | 4.95% | 2026-06-30 |
-| Dimensional Fund Advisors LP | 16,838,388 | 4.81% | 2026-06-30 |
-| Invesco Ltd. | 15,316,704 | 4.37% | 2026-06-30 |
-| Charles Schwab Investment Management, Inc. | 13,296,552 | 3.80% | 2026-06-30 |
-| Geode Capital Management, LLC | 12,855,410 | 3.67% | 2026-06-30 |
-| FMR, LLC | 9,834,880 | 2.81% | 2026-06-30 |
+| Blackrock Inc. | 36,021,838 | 10.73% | 2026-06-30 |
+| Hotchkis & Wiley Capital Management, LLC | 31,695,303 | 9.44% | 2026-06-30 |
+| State Street Corporation | 25,181,423 | 7.50% | 2026-06-30 |
+| Vanguard Capital Management LLC | 23,098,547 | 6.88% | 2026-06-30 |
+| Vanguard Portfolio Management LLC | 17,331,282 | 5.16% | 2026-06-30 |
+| Invesco Ltd. | 15,316,704 | 4.56% | 2026-06-30 |
+| Dimensional Fund Advisors LP | 14,977,643 | 4.46% | 2026-09-30 |
+| Charles Schwab Investment Management, Inc. | 13,296,552 | 3.96% | 2026-06-30 |
+| Geode Capital Management, LLC | 11,624,432 | 3.46% | 2026-09-30 |
+| FMR, LLC | 9,483,234 | 2.82% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Short interest risk:** short float 9.12% can fuel squeezes both ways around news.
+- **Volatility risk:** Beta 0.28, ATR 4.2% of price, short float 9.07%. Size positions accordingly.
+- **Short interest risk:** short float 9.07% can fuel squeezes both ways around news.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -110,21 +111,21 @@ APA Corporation, an independent energy company, explores for, develops, and prod
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 2.10 |
-| Market cap | $15.15B | EV/EBITDA | 3.05 |
+| Price | $46.74 | EV/Sales | 2.10 |
+| Market cap | $15.69B | EV/EBITDA | 3.05 |
 | Beta | 0.28 | Gross margin | 78.98% |
-| RSI(14) | 41.1 | Operating margin | 44.25% |
-| ATR(14) | 1.96 | Profit margin | 23.49% |
-| SMA20 dist | +nan% | ROA | 14.06% |
-| SMA50 dist | +nan% | ROE | 33.32% |
-| SMA200 dist | +nan% | Revenue (ttm) | $9.24B |
+| RSI(14) | 49.5 | Operating margin | 43.31% |
+| ATR(14) | 1.98 | Profit margin | 23.49% |
+| SMA20 dist | -3.56% | ROA | 14.06% |
+| SMA50 dist | +1.87% | ROE | 33.32% |
+| SMA200 dist | +22.56% | Revenue (ttm) | $9.24B |
 | 52W high | $52.82 | Revenue growth y/y | 31.50% |
-| 52W low | $22.73 | Inst. ownership | 113.67% |
-| P/E (ttm) | 7.34 | Insider ownership | 0.46% |
-| Forward P/E | 8.18 | Short float | 9.12% |
-| PEG (trailing) | 1.10 | Avg volume | 5,702,285 |
-| P/S | 1.64 | Employees | 1,791 |
-| P/B | 2.14 | Analyst rec (1=buy..5=sell) | 2.6 |
+| 52W low | $22.73 | Inst. ownership | 113.61% |
+| P/E (ttm) | 7.60 | Insider ownership | 0.46% |
+| Forward P/E | 8.47 | Short float | 9.07% |
+| PEG (trailing) | 1.11 | Avg volume | 5,687,996 |
+| P/S | 1.70 | Employees | 1,791 |
+| P/B | 2.21 | Analyst rec (1=buy..5=sell) | 2.6 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
@@ -139,7 +140,7 @@ APA Corporation, an independent energy company, explores for, develops, and prod
 | 2026-10-15 | main | Morgan Stanley | Underweight → Underweight |
 
 ## 9. Conclusion
-APA: Moderate momentum / strong fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+APA: High momentum / strong fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

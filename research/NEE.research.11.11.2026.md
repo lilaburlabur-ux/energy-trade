@@ -4,24 +4,24 @@ Signed file: `NEE.research.11.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-11, ~15-min delayed) |
-| Market cap | $180.93B |
+| Current price | $85.99 (2026-11-11, ~15-min delayed) |
+| Market cap | $180.35B |
 | Sector / Industry | Utilities / Utilities - Regulated Electric |
 | Main theme | Utilities - Regulated Electric — see catalysts below |
-| Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
+| Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-11.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-0.64%) with negative half-year (-7.99%). |
+| Fresh setup quality | Moderate / wait | -10.84% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 40.37%, revenue growth 1.60%. |
-| Value attractiveness | Reasonable | Forward P/E 19.72, EV/Sales 10.48. |
-| Risk level | Moderate | Beta 0.60, ATR nan% of price, short float 0.00%. |
+| Value attractiveness | Reasonable | Forward P/E 19.65, EV/Sales 10.48. |
+| Risk level | Moderate | Beta 0.60, ATR 2.0% of price, short float 0.00%. |
 
-**Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
+**Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -36,45 +36,45 @@ NextEra Energy, Inc., through its subsidiaries, generates, stores, transmits, di
 
 | Headline | Source | Date |
 |---|---|---|
+| Constellation Energy’s Dividend Is Small. AI Power Demand Could Change That | 24/7 Wall St. | 2026-11-11 |
+| State Street Utilities SPDR (XLU) Buys $76 Million More NextEra on Monday | GuruFocus.com | 2026-11-11 |
 | People Pay the Power Bill Before Almost Anything Else. $45,000 in Each of These 3 Utilities Pays $5,915 a Year | 24/7 Wall St. | 2026-11-09 |
 | Can DTE Energy Stock Jump 40%? | Trefis | 2026-11-09 |
-| State Street Utilities SPDR (XLU) Sells NextEra and Southern on Nov. 5 | GuruFocus.com | 2026-11-09 |
-| ETFs Are Net Sellers of NextEra Energy (NEE) on Thursday | GuruFocus.com | 2026-11-09 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $96.44 (+nan%); 52w low $75.49 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 66.4 (neutral) |
-| Volatility | ATR(14) 1.80 (~nan% of price); beta 0.60 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $85.99; 52w high $96.44 (-10.84%); 52w low $75.49 (+13.91%) |
+| Trend | -0.64% vs SMA200, +6.50% vs SMA50, +3.51% vs SMA20 |
+| Momentum | RSI(14) 62.2 (neutral) |
+| Volatility | ATR(14) 1.68 (~2.0% of price); beta 0.60 |
+| Setup perspective | -10.84% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -2.8% |
+| Month | +9.9% |
+| Quarter | +0.7% |
+| Half Y | -8.0% |
+| 1Y | +4.4% |
+| YTD | +8.6% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
 | Next earnings | 2027-01-27 | Next scheduled report (Yahoo estimate) |
 | Revenue (ttm) | $28.82B | Revenue growth 1.60% y/y |
-| Profitability | Gross 60.17%, operating 33.00%, net 40.37% | ROA 2.41%, ROE 14.06% |
+| Profitability | Gross 60.17%, operating 30.03%, net 40.37% | ROA 2.41%, ROE 14.06% |
 | Balance sheet | Cash $5.58B, debt $113.93B | Current ratio 0.53, debt/equity 153.25 |
-| Valuation | P/E 15.54, forward P/E 19.72, P/S 6.28, P/B 2.94 | EV/Sales 10.48, EV/EBITDA 22.55 |
+| Valuation | P/E 15.49, forward P/E 19.65, P/S 6.26, P/B 2.93 | EV/Sales 10.48, EV/EBITDA 22.55 |
 | Growth expectations | Earnings growth 93.20%, EPS q/q 95.90% | Analyst mean target $94.00 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 86.77% |
+| Institutional ownership | 86.80% |
 | Insider ownership | 0.12% |
 | Short float | 0.00% |
 | Short ratio (days to cover) | 0.0 |
@@ -109,21 +109,21 @@ NextEra Energy, Inc., through its subsidiaries, generates, stores, transmits, di
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 10.48 |
-| Market cap | $180.93B | EV/EBITDA | 22.55 |
+| Price | $85.99 | EV/Sales | 10.48 |
+| Market cap | $180.35B | EV/EBITDA | 22.55 |
 | Beta | 0.60 | Gross margin | 60.17% |
-| RSI(14) | 66.4 | Operating margin | 33.00% |
-| ATR(14) | 1.80 | Profit margin | 40.37% |
-| SMA20 dist | +nan% | ROA | 2.41% |
-| SMA50 dist | +nan% | ROE | 14.06% |
-| SMA200 dist | +nan% | Revenue (ttm) | $28.82B |
+| RSI(14) | 62.2 | Operating margin | 30.03% |
+| ATR(14) | 1.68 | Profit margin | 40.37% |
+| SMA20 dist | +3.51% | ROA | 2.41% |
+| SMA50 dist | +6.50% | ROE | 14.06% |
+| SMA200 dist | -0.64% | Revenue (ttm) | $28.82B |
 | 52W high | $96.44 | Revenue growth y/y | 1.60% |
-| 52W low | $75.49 | Inst. ownership | 86.77% |
-| P/E (ttm) | 15.54 | Insider ownership | 0.12% |
-| Forward P/E | 19.72 | Short float | 0.00% |
-| PEG (trailing) | 1.77 | Avg volume | 12,062,265 |
-| P/S | 6.28 | Employees | 17,400 |
-| P/B | 2.94 | Analyst rec (1=buy..5=sell) | 1.9 |
+| 52W low | $75.49 | Inst. ownership | 86.80% |
+| P/E (ttm) | 15.49 | Insider ownership | 0.12% |
+| Forward P/E | 19.65 | Short float | 0.00% |
+| PEG (trailing) | 1.76 | Avg volume | 12,133,806 |
+| P/S | 6.26 | Employees | 17,400 |
+| P/B | 2.93 | Analyst rec (1=buy..5=sell) | 1.9 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
@@ -138,7 +138,7 @@ NextEra Energy, Inc., through its subsidiaries, generates, stores, transmits, di
 | 2026-09-18 | main | Morgan Stanley | Overweight → Overweight |
 
 ## 9. Conclusion
-NEE: Moderate momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+NEE: Low momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

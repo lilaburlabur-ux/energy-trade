@@ -4,8 +4,8 @@ Signed file: `SO.research.11.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-11, ~15-min delayed) |
-| Market cap | $109.03B |
+| Current price | $93.84 (2026-11-11, ~15-min delayed) |
+| Market cap | $109.25B |
 | Sector / Industry | Utilities / Utilities - Regulated Electric |
 | Main theme | Utilities - Regulated Electric — see catalysts below |
 | Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `SO.research.11.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +6.81%; price +2.26% vs SMA200. |
+| Fresh setup quality | Watch | -3.75% from 52w high and near SMA20 — check for a tight base. |
 | Fundamental quality | Strong | Profit margin 16.00%, revenue growth 13.00%. |
-| Value attractiveness | Reasonable | Forward P/E 18.98, EV/Sales 5.95. |
-| Risk level | Moderate | Beta 0.29, ATR nan% of price, short float 2.53%. |
+| Value attractiveness | Reasonable | Forward P/E 19.02, EV/Sales 5.95. |
+| Risk level | Moderate | Beta 0.29, ATR 1.9% of price, short float 2.61%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate.
 
@@ -36,48 +36,48 @@ The Southern Company, through its subsidiaries, engages in the sale of electrici
 
 | Headline | Source | Date |
 |---|---|---|
+| State Street Utilities SPDR (XLU) Buys $76 Million More NextEra on Monday | GuruFocus.com | 2026-11-11 |
 | AI Boom Fuels Southern Company's Data Center Power Usage Growth | Zacks | 2026-11-10 |
 | State Street Utilities SPDR (XLU) Sells NextEra and Southern on Nov. 5 | GuruFocus.com | 2026-11-09 |
 | What Southern (SO) Said on Its Q3 Earnings Call | MarketBeat | 2026-11-08 |
-| NextEra Energy vs. Southern Company: Which Dividend Stock Is Better for Retirement? | 24/7 Wall St. | 2026-11-08 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $97.49 (+nan%); 52w low $82.06 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 61.0 (neutral) |
-| Volatility | ATR(14) 1.87 (~nan% of price); beta 0.29 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $93.84; 52w high $97.49 (-3.75%); 52w low $82.06 (+14.35%) |
+| Trend | +2.26% vs SMA200, +6.03% vs SMA50, +1.50% vs SMA20 |
+| Momentum | RSI(14) 62.0 (neutral) |
+| Volatility | ATR(14) 1.80 (~1.9% of price); beta 0.29 |
+| Setup perspective | -3.75% from 52w high and near SMA20 — check for a tight base. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | +0.8% |
+| Month | +6.5% |
+| Quarter | +2.0% |
+| Half Y | +2.4% |
+| 1Y | +6.8% |
+| YTD | +10.3% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
 | Next earnings | 2026-11-05 | Next scheduled report (Yahoo estimate) |
 | Revenue (ttm) | $31.20B | Revenue growth 13.00% y/y |
-| Profitability | Gross 48.55%, operating 36.92%, net 16.00% | ROA 3.36%, ROE 11.90% |
+| Profitability | Gross 48.55%, operating 27.38%, net 16.00% | ROA 3.36%, ROE 11.90% |
 | Balance sheet | Cash $1.74B, debt $75.49B | Current ratio 0.84, debt/equity 168.49 |
-| Valuation | P/E 21.38, forward P/E 18.98, P/S 3.49, P/B 2.59 | EV/Sales 5.95, EV/EBITDA 12.60 |
-| Growth expectations | Earnings growth 14.30%, EPS q/q 19.60% | Analyst mean target $96.10 (20 analysts) |
+| Valuation | P/E 21.42, forward P/E 19.02, P/S 3.50, P/B 2.60 | EV/Sales 5.95, EV/EBITDA 12.60 |
+| Growth expectations | Earnings growth 14.30%, EPS q/q 19.60% | Analyst mean target $96.15 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 73.53% |
+| Institutional ownership | 73.78% |
 | Insider ownership | 0.10% |
-| Short float | 2.53% |
-| Short ratio (days to cover) | 4.5 |
+| Short float | 2.61% |
+| Short ratio (days to cover) | 5.1 |
 
 **Top institutional holders:**
 
@@ -91,10 +91,11 @@ The Southern Company, through its subsidiaries, engages in the sale of electrici
 | JPMORGAN CHASE & CO | 32,778,201 | 2.82% | 2026-06-30 |
 | Geode Capital Management, LLC | 30,415,075 | 2.61% | 2026-09-30 |
 | Vanguard Portfolio Management LLC | 27,023,691 | 2.32% | 2026-06-30 |
-| FMR, LLC | 22,537,244 | 1.94% | 2026-06-30 |
+| FMR, LLC | 22,242,218 | 1.91% | 2026-09-30 |
 | Franklin Resources, Inc. | 16,561,908 | 1.42% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
+- **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -109,21 +110,21 @@ The Southern Company, through its subsidiaries, engages in the sale of electrici
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 5.95 |
-| Market cap | $109.03B | EV/EBITDA | 12.60 |
+| Price | $93.84 | EV/Sales | 5.95 |
+| Market cap | $109.25B | EV/EBITDA | 12.60 |
 | Beta | 0.29 | Gross margin | 48.55% |
-| RSI(14) | 61.0 | Operating margin | 36.92% |
-| ATR(14) | 1.87 | Profit margin | 16.00% |
-| SMA20 dist | +nan% | ROA | 3.36% |
-| SMA50 dist | +nan% | ROE | 11.90% |
-| SMA200 dist | +nan% | Revenue (ttm) | $31.20B |
+| RSI(14) | 62.0 | Operating margin | 27.38% |
+| ATR(14) | 1.80 | Profit margin | 16.00% |
+| SMA20 dist | +1.50% | ROA | 3.36% |
+| SMA50 dist | +6.03% | ROE | 11.90% |
+| SMA200 dist | +2.26% | Revenue (ttm) | $31.20B |
 | 52W high | $97.49 | Revenue growth y/y | 13.00% |
-| 52W low | $82.06 | Inst. ownership | 73.53% |
-| P/E (ttm) | 21.38 | Insider ownership | 0.10% |
-| Forward P/E | 18.98 | Short float | 2.53% |
-| PEG (trailing) | 2.21 | Avg volume | 6,267,275 |
-| P/S | 3.49 | Employees | 29,502 |
-| P/B | 2.59 | Analyst rec (1=buy..5=sell) | 2.6 |
+| 52W low | $82.06 | Inst. ownership | 73.78% |
+| P/E (ttm) | 21.42 | Insider ownership | 0.10% |
+| Forward P/E | 19.02 | Short float | 2.61% |
+| PEG (trailing) | 2.21 | Avg volume | 6,262,253 |
+| P/S | 3.50 | Employees | 29,502 |
+| P/B | 2.60 | Analyst rec (1=buy..5=sell) | 2.6 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

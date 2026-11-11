@@ -4,24 +4,24 @@ Signed file: `TLN.research.11.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-11, ~15-min delayed) |
-| Market cap | $15.71B |
+| Current price | $378.71 (2026-11-11, ~15-min delayed) |
+| Market cap | $16.48B |
 | Sector / Industry | Utilities / Utilities - Independent Power Producers |
 | Main theme | Utilities - Independent Power Producers — see catalysts below |
-| Current stance | Moderate technical momentum, weak fundamentals, value: reasonable, risk: elevated. |
+| Current stance | Moderate technical momentum, weak fundamentals, value: reasonable, risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-11.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y -3.79%; price +8.64% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -13.56% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Weak | Negative profit margin (-5.67%). |
-| Value attractiveness | Reasonable | Forward P/E 11.83, EV/Sales 5.57. |
-| Risk level | Elevated | Beta 1.58, ATR nan% of price, short float 9.99%. |
+| Value attractiveness | Reasonable | Forward P/E 13.49, EV/Sales 5.57. |
+| Risk level | High | Beta 1.58, ATR 5.4% of price, short float 10.86%. |
 
-**Bottom line:** Moderate technical momentum, weak fundamentals, value: reasonable, risk: elevated.
+**Bottom line:** Moderate technical momentum, weak fundamentals, value: reasonable, risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -36,48 +36,48 @@ Talen Energy Corporation, an independent power producer and infrastructure compa
 
 | Headline | Source | Date |
 |---|---|---|
-| Constellation and Vistra Get the Headlines. These 2 Power Producers Barely Get Mentioned. | Motley Fool | 2026-11-10 |
-| NRG Soars 10% on $4 Billion Gas Plant Sale and $3 Billion Buyback Plan: “Unlocking Substantial Value” | TIKR | 2026-11-09 |
-| Shortage of Turbines Drives Market for Second-Hand Market for AI Data Centers | 24/7 Wall St. | 2026-11-09 |
-| Vistra Q3 Earnings Call Highlights | MarketBeat | 2026-11-08 |
+| Sector Update: Energy Stocks Higher Late Afternoon | MT Newswires | 2026-11-11 |
+| Sector Update: Energy Stocks Rise Wednesday Afternoon | MT Newswires | 2026-11-11 |
+| OKLO Stock After Q3 Earnings: Buy, Sell or Hold for Now? | Zacks | 2026-11-11 |
+| Talen Energy Stock Rises on Another Big Power Deal. Wall Street Sees More Upside. | Barrons.com | 2026-11-11 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $438.12 (+nan%); 52w low $282.15 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 56.8 (neutral) |
-| Volatility | ATR(14) 21.00 (~nan% of price); beta 1.58 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $378.71; 52w high $438.12 (-13.56%); 52w low $282.15 (+34.22%) |
+| Trend | +8.64% vs SMA200, +14.22% vs SMA50, +9.36% vs SMA20 |
+| Momentum | RSI(14) 60.6 (neutral) |
+| Volatility | ATR(14) 20.52 (~5.4% of price); beta 1.58 |
+| Setup perspective | -13.56% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | +15.9% |
+| Month | -0.9% |
+| Quarter | +5.7% |
+| Half Y | +7.9% |
+| 1Y | -3.8% |
+| YTD | -4.5% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
 | Next earnings | 2026-11-03 | Next scheduled report (Yahoo estimate) |
 | Revenue (ttm) | $4.48B | Revenue growth 96.10% y/y |
-| Profitability | Gross 42.67%, operating 17.35%, net -5.67% | ROA 0.88%, ROE -16.54% |
+| Profitability | Gross 42.67%, operating 3.33%, net -5.67% | ROA 0.88%, ROE -16.54% |
 | Balance sheet | Cash $339.00M, debt $9.57B | Current ratio 0.89, debt/equity 596.94 |
-| Valuation | P/E —, forward P/E 11.83, P/S 3.51, P/B 10.82 | EV/Sales 5.57, EV/EBITDA 37.04 |
-| Growth expectations | Earnings growth -32.20%, EPS q/q -33.30% | Analyst mean target $453.81 (20 analysts) |
+| Valuation | P/E —, forward P/E 13.49, P/S 3.68, P/B 11.34 | EV/Sales 5.57, EV/EBITDA 37.04 |
+| Growth expectations | Earnings growth -32.20%, EPS q/q -33.30% | Analyst mean target $452.51 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 112.07% |
+| Institutional ownership | 112.41% |
 | Insider ownership | 1.50% |
-| Short float | 9.99% |
-| Short ratio (days to cover) | 3.7 |
+| Short float | 10.86% |
+| Short ratio (days to cover) | 3.9 |
 
 **Top institutional holders:**
 
@@ -95,8 +95,8 @@ Talen Energy Corporation, an independent power producer and infrastructure compa
 | Sachem Head Capital Management, LP | 1,370,000 | 2.32% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.58, ATR nan% of price, short float 9.99%. Size positions accordingly.
-- **Short interest risk:** short float 9.99% can fuel squeezes both ways around news.
+- **Volatility risk:** Beta 1.58, ATR 5.4% of price, short float 10.86%. Size positions accordingly.
+- **Short interest risk:** short float 10.86% can fuel squeezes both ways around news.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -112,21 +112,21 @@ Talen Energy Corporation, an independent power producer and infrastructure compa
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 5.57 |
-| Market cap | $15.71B | EV/EBITDA | 37.04 |
+| Price | $378.71 | EV/Sales | 5.57 |
+| Market cap | $16.48B | EV/EBITDA | 37.04 |
 | Beta | 1.58 | Gross margin | 42.67% |
-| RSI(14) | 56.8 | Operating margin | 17.35% |
-| ATR(14) | 21.00 | Profit margin | -5.67% |
-| SMA20 dist | +nan% | ROA | 0.88% |
-| SMA50 dist | +nan% | ROE | -16.54% |
-| SMA200 dist | +nan% | Revenue (ttm) | $4.48B |
+| RSI(14) | 60.6 | Operating margin | 3.33% |
+| ATR(14) | 20.52 | Profit margin | -5.67% |
+| SMA20 dist | +9.36% | ROA | 0.88% |
+| SMA50 dist | +14.22% | ROE | -16.54% |
+| SMA200 dist | +8.64% | Revenue (ttm) | $4.48B |
 | 52W high | $438.12 | Revenue growth y/y | 96.10% |
-| 52W low | $282.15 | Inst. ownership | 112.07% |
+| 52W low | $282.15 | Inst. ownership | 112.41% |
 | P/E (ttm) | — | Insider ownership | 1.50% |
-| Forward P/E | 11.83 | Short float | 9.99% |
-| PEG (trailing) | — | Avg volume | 1,024,400 |
-| P/S | 3.51 | Employees | 1,880 |
-| P/B | 10.82 | Analyst rec (1=buy..5=sell) | 1.5 |
+| Forward P/E | 13.49 | Short float | 10.86% |
+| PEG (trailing) | — | Avg volume | 1,023,440 |
+| P/S | 3.68 | Employees | 1,880 |
+| P/B | 11.34 | Analyst rec (1=buy..5=sell) | 1.5 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
@@ -141,7 +141,7 @@ Talen Energy Corporation, an independent power producer and infrastructure compa
 | 2026-10-16 | init | CIBC | — → Outperformer |
 
 ## 9. Conclusion
-TLN: Moderate momentum / weak fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+TLN: Moderate momentum / weak fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

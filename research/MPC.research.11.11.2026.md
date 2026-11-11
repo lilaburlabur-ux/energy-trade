@@ -4,24 +4,24 @@ Signed file: `MPC.research.11.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-11, ~15-min delayed) |
-| Market cap | $106.07B |
+| Current price | $402.84 (2026-11-11, ~15-min delayed) |
+| Market cap | $109.69B |
 | Sector / Industry | Energy / Oil & Gas Refining & Marketing |
 | Main theme | Oil & Gas Refining & Marketing — see catalysts below |
-| Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
+| Current stance | High technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-11.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +108.58%; price +34.95% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -16.93% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 8.34%, revenue growth 60.90%. |
-| Value attractiveness | Reasonable | Forward P/E 6.34, EV/Sales 0.76. |
-| Risk level | Moderate | Beta 0.51, ATR nan% of price, short float 3.03%. |
+| Value attractiveness | Reasonable | Forward P/E 6.56, EV/Sales 0.76. |
+| Risk level | Elevated | Beta 0.51, ATR 4.8% of price, short float 2.73%. |
 
-**Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
+**Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -36,48 +36,48 @@ Marathon Petroleum Corporation, together with its subsidiaries, operates as an i
 
 | Headline | Source | Date |
 |---|---|---|
-| 3 Oil Stocks to Buy on the Dip After Crushing Q3 Expectations: CVI, DK, NOG | Zacks | 2026-11-10 |
-| Chevron Expands Namibia Ties With QatarEnergy Offshore Stake Deal | Zacks | 2026-11-10 |
-| Is Chevron Stock A Real Bargain? | Trefis | 2026-11-10 |
-| Should You Buy Exxon Mobil Stock For Its Cash? | Trefis | 2026-11-10 |
+| APA Raises 2026 Free Cash Flow Forecast to $2.9B After Q3 Results | Zacks | 2026-11-11 |
+| Diamondback and KKR to Acquire Five Point's 70% Stake in Deep Blue | Zacks | 2026-11-11 |
+| BoE rate peak of 4.25% ‘will not be enough’, NIESR says in Autumn 2026 outlook | Investing.com | 2026-11-11 |
+| Zacks Investment Ideas feature highlights: CVR Energy, Delek US, Northern Oil and Gas and Marathon Petroleum | Zacks | 2026-11-11 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $484.92 (+nan%); 52w low $160.76 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 37.8 (neutral) |
-| Volatility | ATR(14) 20.10 (~nan% of price); beta 0.51 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $402.84; 52w high $484.92 (-16.93%); 52w low $160.76 (+150.58%) |
+| Trend | +34.95% vs SMA200, -4.74% vs SMA50, -7.35% vs SMA20 |
+| Momentum | RSI(14) 43.3 (neutral) |
+| Volatility | ATR(14) 19.24 (~4.8% of price); beta 0.51 |
+| Setup perspective | -16.93% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | +2.6% |
+| Month | -15.5% |
+| Quarter | +13.3% |
+| Half Y | +62.8% |
+| 1Y | +108.6% |
+| YTD | +146.8% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
 | Next earnings | 2027-02-02 | Next scheduled report (Yahoo estimate) |
 | Revenue (ttm) | $175.40B | Revenue growth 60.90% y/y |
-| Profitability | Gross 16.20%, operating 17.98%, net 8.34% | ROA 13.75%, ROE 60.46% |
+| Profitability | Gross 16.20%, operating 11.65%, net 8.34% | ROA 13.75%, ROE 60.46% |
 | Balance sheet | Cash $13.61B, debt $34.45B | Current ratio 1.45, debt/equity 115.42 |
-| Valuation | P/E 7.72, forward P/E 6.34, P/S 0.60, P/B 4.62 | EV/Sales 0.76, EV/EBITDA 5.62 |
-| Growth expectations | Earnings growth 489.60%, EPS q/q 443.60% | Analyst mean target $466.94 (17 analysts) |
+| Valuation | P/E 7.98, forward P/E 6.56, P/S 0.63, P/B 4.77 | EV/Sales 0.76, EV/EBITDA 5.62 |
+| Growth expectations | Earnings growth 489.60%, EPS q/q 443.60% | Analyst mean target $461.94 (17 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 81.21% |
+| Institutional ownership | 80.80% |
 | Insider ownership | 0.34% |
-| Short float | 3.03% |
-| Short ratio (days to cover) | 2.6 |
+| Short float | 2.73% |
+| Short ratio (days to cover) | 3.1 |
 
 **Top institutional holders:**
 
@@ -90,11 +90,12 @@ Marathon Petroleum Corporation, together with its subsidiaries, operates as an i
 | Geode Capital Management, LLC | 8,276,036 | 3.04% | 2026-09-30 |
 | Morgan Stanley | 5,887,382 | 2.16% | 2026-06-30 |
 | Raymond James Financial, Inc. | 5,684,963 | 2.09% | 2026-06-30 |
-| FMR, LLC | 5,419,718 | 1.99% | 2026-06-30 |
-| Boston Partners | 3,515,417 | 1.29% | 2026-06-30 |
+| FMR, LLC | 4,091,566 | 1.50% | 2026-09-30 |
 | Wellington Management Group, LLP | 3,252,153 | 1.19% | 2026-06-30 |
+| Northern Trust Corporation | 3,126,059 | 1.15% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
+- **Volatility risk:** Beta 0.51, ATR 4.8% of price, short float 2.73%. Size positions accordingly.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -109,21 +110,21 @@ Marathon Petroleum Corporation, together with its subsidiaries, operates as an i
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 0.76 |
-| Market cap | $106.07B | EV/EBITDA | 5.62 |
+| Price | $402.84 | EV/Sales | 0.76 |
+| Market cap | $109.69B | EV/EBITDA | 5.62 |
 | Beta | 0.51 | Gross margin | 16.20% |
-| RSI(14) | 37.8 | Operating margin | 17.98% |
-| ATR(14) | 20.10 | Profit margin | 8.34% |
-| SMA20 dist | +nan% | ROA | 13.75% |
-| SMA50 dist | +nan% | ROE | 60.46% |
-| SMA200 dist | +nan% | Revenue (ttm) | $175.40B |
+| RSI(14) | 43.3 | Operating margin | 11.65% |
+| ATR(14) | 19.24 | Profit margin | 8.34% |
+| SMA20 dist | -7.35% | ROA | 13.75% |
+| SMA50 dist | -4.74% | ROE | 60.46% |
+| SMA200 dist | +34.95% | Revenue (ttm) | $175.40B |
 | 52W high | $484.92 | Revenue growth y/y | 60.90% |
-| 52W low | $160.76 | Inst. ownership | 81.21% |
-| P/E (ttm) | 7.72 | Insider ownership | 0.34% |
-| Forward P/E | 6.34 | Short float | 3.03% |
-| PEG (trailing) | 0.90 | Avg volume | 2,563,462 |
-| P/S | 0.60 | Employees | 18,500 |
-| P/B | 4.62 | Analyst rec (1=buy..5=sell) | 2.3 |
+| 52W low | $160.76 | Inst. ownership | 80.80% |
+| P/E (ttm) | 7.98 | Insider ownership | 0.34% |
+| Forward P/E | 6.56 | Short float | 2.73% |
+| PEG (trailing) | 0.90 | Avg volume | 2,548,145 |
+| P/S | 0.63 | Employees | 18,500 |
+| P/B | 4.77 | Analyst rec (1=buy..5=sell) | 2.3 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
@@ -138,7 +139,7 @@ Marathon Petroleum Corporation, together with its subsidiaries, operates as an i
 | 2026-10-12 | main | Evercore ISI Group | In-Line → In-Line |
 
 ## 9. Conclusion
-MPC: Moderate momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+MPC: High momentum / mixed fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

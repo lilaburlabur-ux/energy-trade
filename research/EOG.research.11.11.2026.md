@@ -4,8 +4,8 @@ Signed file: `EOG.research.11.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-11, ~15-min delayed) |
-| Market cap | $78.56B |
+| Current price | $153.77 (2026-11-11, ~15-min delayed) |
+| Market cap | $79.73B |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
 | Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `EOG.research.11.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +48.88%; price +12.13% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -7.11% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 28.06%, revenue growth 42.70%. |
-| Value attractiveness | Reasonable | Forward P/E 9.16, EV/Sales 2.78. |
-| Risk level | Moderate | Beta 0.27, ATR nan% of price, short float 3.70%. |
+| Value attractiveness | Reasonable | Forward P/E 9.21, EV/Sales 2.78. |
+| Risk level | Moderate | Beta 0.27, ATR 3.0% of price, short float 3.62%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate.
 
@@ -36,65 +36,66 @@ EOG Resources, Inc., together with its subsidiaries, explores for, develops, pro
 
 | Headline | Source | Date |
 |---|---|---|
+| EOG’s 8% Dividend Raise Is a Bet on Surviving Any Oil Cycle | 24/7 Wall St. | 2026-11-11 |
 | EOG Resources Just Raised Its Dividend 7.8%. Does Its Free Cash Flow Cover the 2.8% Yield? | TIKR | 2026-11-10 |
 | Can ConocoPhillips Sustain Future Production Growth With Lower CapEx? | Zacks | 2026-11-10 |
 | ConocoPhillips Trades at a Premium: Is It the Right Time to Buy? | Zacks | 2026-11-09 |
-| 5 Oil Stocks Could Turn $500,000 Into $14,000 a Year in Dividend Income | 24/7 Wall St. | 2026-11-09 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $165.54 (+nan%); 52w low $98.64 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 43.8 (neutral) |
-| Volatility | ATR(14) 4.53 (~nan% of price); beta 0.27 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $153.77; 52w high $165.54 (-7.11%); 52w low $98.64 (+55.89%) |
+| Trend | +12.13% vs SMA200, +3.17% vs SMA50, -1.54% vs SMA20 |
+| Momentum | RSI(14) 51.9 (neutral) |
+| Volatility | ATR(14) 4.57 (~3.0% of price); beta 0.27 |
+| Setup perspective | -7.11% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | +4.6% |
+| Month | +1.1% |
+| Quarter | +9.5% |
+| Half Y | +15.6% |
+| 1Y | +48.9% |
+| YTD | +47.9% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
 | Next earnings | 2026-11-05 | Next scheduled report (Yahoo estimate) |
 | Revenue (ttm) | $29.17B | Revenue growth 42.70% y/y |
-| Profitability | Gross 62.98%, operating 40.84%, net 28.06% | ROA 11.90%, ROE 25.83% |
+| Profitability | Gross 62.98%, operating 35.47%, net 28.06% | ROA 11.90%, ROE 25.83% |
 | Balance sheet | Cash $5.75B, debt $8.26B | Current ratio 1.90, debt/equity 24.96 |
-| Valuation | P/E 9.78, forward P/E 9.16, P/S 2.69, P/B 2.38 | EV/Sales 2.78, EV/EBITDA 5.05 |
-| Growth expectations | Earnings growth 97.40%, EPS q/q 89.10% | Analyst mean target $168.10 (29 analysts) |
+| Valuation | P/E 9.93, forward P/E 9.21, P/S 2.73, P/B 2.42 | EV/Sales 2.78, EV/EBITDA 5.05 |
+| Growth expectations | Earnings growth 97.40%, EPS q/q 89.10% | Analyst mean target $167.41 (29 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 99.22% |
+| Institutional ownership | 99.34% |
 | Insider ownership | 0.29% |
-| Short float | 3.70% |
-| Short ratio (days to cover) | 5.5 |
+| Short float | 3.62% |
+| Short ratio (days to cover) | 6.2 |
 
 **Top institutional holders:**
 
 | Holder | Shares | % Out | Reported |
 |---|---|---|---|
-| Capital World Investors | 55,451,748 | 10.57% | 2026-06-30 |
-| Blackrock Inc. | 45,522,136 | 8.68% | 2026-06-30 |
-| Vanguard Capital Management LLC | 34,792,072 | 6.63% | 2026-06-30 |
-| State Street Corporation | 33,971,430 | 6.48% | 2026-06-30 |
-| JPMORGAN CHASE & CO | 28,230,286 | 5.38% | 2026-06-30 |
-| Capital Research Global Investors | 21,516,340 | 4.10% | 2026-06-30 |
-| Charles Schwab Investment Management, Inc. | 17,635,817 | 3.36% | 2026-06-30 |
-| Vanguard Portfolio Management LLC | 13,406,956 | 2.56% | 2026-06-30 |
-| Geode Capital Management, LLC | 12,704,111 | 2.42% | 2026-06-30 |
-| Ameriprise Financial, Inc. | 9,274,800 | 1.77% | 2026-06-30 |
+| Capital World Investors | 55,451,748 | 10.69% | 2026-06-30 |
+| Blackrock Inc. | 45,522,136 | 8.78% | 2026-06-30 |
+| Vanguard Capital Management LLC | 34,792,072 | 6.71% | 2026-06-30 |
+| State Street Corporation | 33,971,430 | 6.55% | 2026-06-30 |
+| JPMORGAN CHASE & CO | 28,230,286 | 5.44% | 2026-06-30 |
+| Capital Research Global Investors | 21,516,340 | 4.15% | 2026-06-30 |
+| Charles Schwab Investment Management, Inc. | 17,635,817 | 3.40% | 2026-06-30 |
+| Geode Capital Management, LLC | 13,475,471 | 2.60% | 2026-09-30 |
+| Vanguard Portfolio Management LLC | 13,406,956 | 2.59% | 2026-06-30 |
+| Ameriprise Financial, Inc. | 9,274,800 | 1.79% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
+- **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -109,21 +110,21 @@ EOG Resources, Inc., together with its subsidiaries, explores for, develops, pro
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 2.78 |
-| Market cap | $78.56B | EV/EBITDA | 5.05 |
+| Price | $153.77 | EV/Sales | 2.78 |
+| Market cap | $79.73B | EV/EBITDA | 5.05 |
 | Beta | 0.27 | Gross margin | 62.98% |
-| RSI(14) | 43.8 | Operating margin | 40.84% |
-| ATR(14) | 4.53 | Profit margin | 28.06% |
-| SMA20 dist | +nan% | ROA | 11.90% |
-| SMA50 dist | +nan% | ROE | 25.83% |
-| SMA200 dist | +nan% | Revenue (ttm) | $29.17B |
+| RSI(14) | 51.9 | Operating margin | 35.47% |
+| ATR(14) | 4.57 | Profit margin | 28.06% |
+| SMA20 dist | -1.54% | ROA | 11.90% |
+| SMA50 dist | +3.17% | ROE | 25.83% |
+| SMA200 dist | +12.13% | Revenue (ttm) | $29.17B |
 | 52W high | $165.54 | Revenue growth y/y | 42.70% |
-| 52W low | $98.64 | Inst. ownership | 99.22% |
-| P/E (ttm) | 9.78 | Insider ownership | 0.29% |
-| Forward P/E | 9.16 | Short float | 3.70% |
-| PEG (trailing) | 1.12 | Avg volume | 3,039,017 |
-| P/S | 2.69 | Employees | 3,400 |
-| P/B | 2.38 | Analyst rec (1=buy..5=sell) | 2.4 |
+| 52W low | $98.64 | Inst. ownership | 99.34% |
+| P/E (ttm) | 9.93 | Insider ownership | 0.29% |
+| Forward P/E | 9.21 | Short float | 3.62% |
+| PEG (trailing) | 1.15 | Avg volume | 3,064,335 |
+| P/S | 2.73 | Employees | 3,400 |
+| P/B | 2.42 | Analyst rec (1=buy..5=sell) | 2.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

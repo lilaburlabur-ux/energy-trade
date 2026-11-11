@@ -4,8 +4,8 @@ Signed file: `DUK.research.11.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-11, ~15-min delayed) |
-| Market cap | $100.54B |
+| Current price | $128.77 (2026-11-11, ~15-min delayed) |
+| Market cap | $100.40B |
 | Sector / Industry | Utilities / Utilities - Regulated Electric |
 | Main theme | Utilities - Regulated Electric — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `DUK.research.11.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +8.43%; price +4.25% vs SMA200. |
+| Fresh setup quality | Watch | -1.82% from 52w high and near SMA20 — check for a tight base. |
 | Fundamental quality | Mixed | Profit margin 16.16%, revenue growth 6.60%. |
-| Value attractiveness | Reasonable | Forward P/E 17.99, EV/Sales 5.90. |
-| Risk level | Moderate | Beta 0.31, ATR nan% of price, short float 2.59%. |
+| Value attractiveness | Reasonable | Forward P/E 17.97, EV/Sales 5.90. |
+| Risk level | Moderate | Beta 0.31, ATR 1.7% of price, short float 2.57%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
@@ -36,48 +36,48 @@ Duke Energy Corporation, through its subsidiaries, operates as an energy company
 
 | Headline | Source | Date |
 |---|---|---|
+| Better Dividend Stock: Chevron vs. Duke Energy | TIKR | 2026-11-11 |
+| State Street Utilities SPDR (XLU) Buys $76 Million More NextEra on Monday | GuruFocus.com | 2026-11-11 |
 | How Many Shares of Consolidated Edison, Duke Energy or AEP Pay $1,000 a Month in Dividends? | TIKR | 2026-11-10 |
 | AI Boom Fuels Southern Company's Data Center Power Usage Growth | Zacks | 2026-11-10 |
-| The Kiplinger Dividend 15: Our Favorite Dividend-Paying Stocks | Kiplinger | 2026-11-10 |
-| $300,000 in Duke Energy, Philip Morris and Johnson & Johnson: Here’s What It Pays | 24/7 Wall St. | 2026-11-10 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $131.16 (+nan%); 52w low $111.09 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 62.8 (neutral) |
-| Volatility | ATR(14) 2.25 (~nan% of price); beta 0.31 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $128.77; 52w high $131.16 (-1.82%); 52w low $111.09 (+15.91%) |
+| Trend | +4.25% vs SMA200, +7.01% vs SMA50, +2.76% vs SMA20 |
+| Momentum | RSI(14) 63.9 (neutral) |
+| Volatility | ATR(14) 2.21 (~1.7% of price); beta 0.31 |
+| Setup perspective | -1.82% from 52w high and near SMA20 — check for a tight base. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -0.6% |
+| Month | +9.0% |
+| Quarter | +4.3% |
+| Half Y | +5.8% |
+| 1Y | +8.4% |
+| YTD | +12.5% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
 | Next earnings | 2026-11-05 | Next scheduled report (Yahoo estimate) |
 | Revenue (ttm) | $33.37B | Revenue growth 6.60% y/y |
-| Profitability | Gross 52.58%, operating 30.03%, net 16.16% | ROA 2.92%, ROE 10.10% |
+| Profitability | Gross 52.58%, operating 27.77%, net 16.16% | ROA 2.92%, ROE 10.10% |
 | Balance sheet | Cash $451.00M, debt $93.78B | Current ratio 0.68, debt/equity 162.98 |
-| Valuation | P/E 18.91, forward P/E 17.99, P/S 3.01, P/B 1.85 | EV/Sales 5.90, EV/EBITDA 11.76 |
+| Valuation | P/E 18.88, forward P/E 17.97, P/S 3.01, P/B 1.85 | EV/Sales 5.90, EV/EBITDA 11.76 |
 | Growth expectations | Earnings growth 10.00%, EPS q/q 10.10% | Analyst mean target $132.26 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 71.20% |
+| Institutional ownership | 71.42% |
 | Insider ownership | 0.13% |
-| Short float | 2.59% |
-| Short ratio (days to cover) | 4.2 |
+| Short float | 2.57% |
+| Short ratio (days to cover) | 4.7 |
 
 **Top institutional holders:**
 
@@ -86,15 +86,16 @@ Duke Energy Corporation, through its subsidiaries, operates as an energy company
 | Blackrock Inc. | 70,543,988 | 9.05% | 2026-06-30 |
 | Vanguard Capital Management LLC | 50,837,658 | 6.52% | 2026-06-30 |
 | State Street Corporation | 44,953,588 | 5.77% | 2026-06-30 |
-| Geode Capital Management, LLC | 20,367,382 | 2.61% | 2026-06-30 |
+| Geode Capital Management, LLC | 20,768,089 | 2.66% | 2026-09-30 |
 | Vanguard Portfolio Management LLC | 20,366,327 | 2.61% | 2026-06-30 |
 | Morgan Stanley | 13,107,459 | 1.68% | 2026-06-30 |
 | Massachusetts Financial Services Co. | 12,742,489 | 1.63% | 2026-06-30 |
 | Franklin Resources, Inc. | 10,537,072 | 1.35% | 2026-06-30 |
-| FMR, LLC | 9,703,239 | 1.24% | 2026-06-30 |
 | Charles Schwab Investment Management, Inc. | 9,226,192 | 1.18% | 2026-06-30 |
+| FMR, LLC | 8,928,138 | 1.15% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
+- **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -109,19 +110,19 @@ Duke Energy Corporation, through its subsidiaries, operates as an energy company
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 5.90 |
-| Market cap | $100.54B | EV/EBITDA | 11.76 |
+| Price | $128.77 | EV/Sales | 5.90 |
+| Market cap | $100.40B | EV/EBITDA | 11.76 |
 | Beta | 0.31 | Gross margin | 52.58% |
-| RSI(14) | 62.8 | Operating margin | 30.03% |
-| ATR(14) | 2.25 | Profit margin | 16.16% |
-| SMA20 dist | +nan% | ROA | 2.92% |
-| SMA50 dist | +nan% | ROE | 10.10% |
-| SMA200 dist | +nan% | Revenue (ttm) | $33.37B |
+| RSI(14) | 63.9 | Operating margin | 27.77% |
+| ATR(14) | 2.21 | Profit margin | 16.16% |
+| SMA20 dist | +2.76% | ROA | 2.92% |
+| SMA50 dist | +7.01% | ROE | 10.10% |
+| SMA200 dist | +4.25% | Revenue (ttm) | $33.37B |
 | 52W high | $131.16 | Revenue growth y/y | 6.60% |
-| 52W low | $111.09 | Inst. ownership | 71.20% |
-| P/E (ttm) | 18.91 | Insider ownership | 0.13% |
-| Forward P/E | 17.99 | Short float | 2.59% |
-| PEG (trailing) | 2.39 | Avg volume | 4,071,359 |
+| 52W low | $111.09 | Inst. ownership | 71.42% |
+| P/E (ttm) | 18.88 | Insider ownership | 0.13% |
+| Forward P/E | 17.97 | Short float | 2.57% |
+| PEG (trailing) | 2.40 | Avg volume | 4,047,950 |
 | P/S | 3.01 | Employees | 26,441 |
 | P/B | 1.85 | Analyst rec (1=buy..5=sell) | 2.1 |
 
