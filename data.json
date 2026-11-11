@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-11T04:38:12+00:00",
-  "as_of_local": "2026-11-11 04:38:12 UTC",
+  "as_of_utc": "2026-11-11T04:43:19+00:00",
+  "as_of_local": "2026-11-11 04:43:19 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -349,6 +349,12 @@
       "market_cap": 97807545540.95459,
       "headlines": [
         {
+          "title": "Jim Cramer Ties CPI Relief to $40 Oil, but Brent Trades Over $92",
+          "url": "https://finance.yahoo.com/economy/policy/articles/jim-cramer-ties-cpi-relief-042530371.html",
+          "publisher": "BeInCrypto",
+          "published": "2026-11-11T04:25:30Z"
+        },
+        {
           "title": "How Investors May Respond To Valero Energy (VLO) Dividend Affirmation",
           "url": "https://finance.yahoo.com/markets/stocks/articles/investors-may-respond-valero-energy-221552897.html",
           "publisher": "Simply Wall St.",
@@ -359,12 +365,6 @@
           "url": "https://finance.yahoo.com/economy/articles/rising-q3-transportation-costs-squeeze-192213474.html",
           "publisher": "FreightWaves",
           "published": "2026-11-10T19:22:13Z"
-        },
-        {
-          "title": "Par Pacific Is Now Undervalued: Is It a Strong Entry Point?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/par-pacific-now-undervalued-strong-184100364.html",
-          "publisher": "Zacks",
-          "published": "2026-11-10T18:41:00Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 86.64,
-      "change_pct": -0.24
+      "price": 86.62,
+      "change_pct": -0.26
     },
     {
       "label": "Brent",
-      "price": 92.41,
-      "change_pct": -0.17
+      "price": 92.38,
+      "change_pct": -0.21
     },
     {
       "label": "NatGas",
       "price": 3.29,
-      "change_pct": 2.21
+      "change_pct": 2.24
     }
   ]
 }
