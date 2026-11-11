@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-11T09:42:28+00:00",
-  "as_of_local": "2026-11-11 09:42:28 UTC",
+  "as_of_utc": "2026-11-11T09:47:38+00:00",
+  "as_of_local": "2026-11-11 09:47:38 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "ETR"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -14,13 +16,13 @@
       "headlines": [
         {
           "title": "Oil giant Exxon plots Venezuela return ahead of Democrat crackdown",
-          "url": "https://finance.yahoo.com/energy/articles/oil-giant-exxon-plots-venezuela-083000530.html",
+          "url": "https://finance.yahoo.com/news/oil-giant-exxon-plots-venezuela-083000426.html",
           "publisher": "The Telegraph",
           "published": "2026-11-11T08:30:00Z"
         },
         {
           "title": "Oil giant Exxon plots Venezuela return ahead of Democrat crackdown",
-          "url": "https://finance.yahoo.com/news/oil-giant-exxon-plots-venezuela-083000426.html",
+          "url": "https://finance.yahoo.com/energy/articles/oil-giant-exxon-plots-venezuela-083000530.html",
           "publisher": "The Telegraph",
           "published": "2026-11-11T08:30:00Z"
         },
@@ -897,34 +899,6 @@
           "url": "https://www.barrons.com/articles/amd-stock-coherent-ai-selloff-e457aa02?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
           "published": "2026-11-10T18:49:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "ETR",
-      "name": "Entergy",
-      "price": 111.71,
-      "previous_close": 111.79,
-      "change_pct": -0.07,
-      "market_cap": 53378067249.446205,
-      "headlines": [
-        {
-          "title": "All You Need to Know About Entergy (ETR) Rating Upgrade to Buy",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/know-entergy-etr-rating-upgrade-194326125.html",
-          "publisher": "Zacks",
-          "published": "2026-11-10T19:43:26Z"
-        },
-        {
-          "title": "Learn Why The Bull Case For Entergy Stock Could Change Following Rate Plan Extension",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/learn-why-bull-case-entergy-141050356.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-10T14:10:50Z"
-        },
-        {
-          "title": "Entergy (ETR) Tests Valuation After Earnings And Dividend Raise",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/entergy-etr-tests-valuation-earnings-131035840.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-10T13:10:35Z"
         }
       ]
     },
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 86.93,
-      "change_pct": 1.03
+      "price": 86.72,
+      "change_pct": 0.79
     },
     {
       "label": "Brent",
-      "price": 92.88,
-      "change_pct": 1.52
+      "price": 92.7,
+      "change_pct": 1.32
     },
     {
       "label": "NatGas",
-      "price": 3.32,
-      "change_pct": 0.79
+      "price": 3.31,
+      "change_pct": 0.49
     }
   ]
 }
