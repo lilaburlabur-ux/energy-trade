@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-11T10:58:36+00:00",
-  "as_of_local": "2026-11-11 10:58:36 UTC",
+  "as_of_utc": "2026-11-11T11:03:43+00:00",
+  "as_of_local": "2026-11-11 11:03:43 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "LNG"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -491,12 +489,6 @@
       "market_cap": 84338660584.76541,
       "headlines": [
         {
-          "title": "ETFs Are Net Sellers of Williams (WMB) on Nov. 4",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-williams-wmb-110344609.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-06T11:03:44Z"
-        },
-        {
           "title": "What Are Wall Street Analysts' Target Price for Williams Companies Stock?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-075605703.html",
           "publisher": "Barchart",
@@ -507,6 +499,12 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/750-000-dividend-portfolio-could-174836690.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-05T17:48:36Z"
+        },
+        {
+          "title": "Murphy Oil Q3 Earnings Beat Estimates on Strong Prices & Lower Costs",
+          "url": "https://finance.yahoo.com/energy/articles/murphy-oil-q3-earnings-beat-164800166.html",
+          "publisher": "Zacks",
+          "published": "2026-11-05T16:48:00Z"
         }
       ]
     },
@@ -759,6 +757,34 @@
           "url": "https://finance.yahoo.com/news/people-pay-power-bill-almost-221425733.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-09T22:14:25Z"
+        }
+      ]
+    },
+    {
+      "symbol": "LNG",
+      "name": "Cheniere Energy",
+      "price": 293.49,
+      "previous_close": 284.95,
+      "change_pct": 3.0,
+      "market_cap": 59931804725.68115,
+      "headlines": [
+        {
+          "title": "Cheniere Energy (LNG) Locks In New Debt As Its LNG Growth Story Keeps Valuation In Focus",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/cheniere-energy-lng-locks-debt-052030510.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-11T05:20:30Z"
+        },
+        {
+          "title": "Has Cheniere Energy (LNG) Priced In Its Stronger Cash Flow Outlook?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/cheniere-energy-lng-priced-stronger-021521231.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-11T02:15:21Z"
+        },
+        {
+          "title": "4 Energy Stocks to Watch as QatarEnergy Eyes More U.S. LNG Deals",
+          "url": "https://finance.yahoo.com/energy/articles/4-energy-stocks-watch-qatarenergy-181900396.html",
+          "publisher": "Zacks",
+          "published": "2026-11-10T18:19:00Z"
         }
       ]
     },
@@ -1631,6 +1657,34 @@
       ]
     },
     {
+      "symbol": "UEC",
+      "name": "Uranium Energy Corp",
+      "price": 7.17,
+      "previous_close": 7.62,
+      "change_pct": -5.91,
+      "market_cap": 3553342085.8601093,
+      "headlines": [
+        {
+          "title": "Purepoint Uranium CEO explains why rising uranium prices aren't lifting stocks",
+          "url": "https://finance.yahoo.com/news/purepoint-uranium-ceo-explains-why-151300252.html",
+          "publisher": "Proactive",
+          "published": "2026-11-06T15:13:00Z"
+        },
+        {
+          "title": "Is Uranium Energy (UEC) Priced Too Richly On Book Value?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/uranium-energy-uec-priced-too-002024703.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-06T00:20:24Z"
+        },
+        {
+          "title": "Uranium Energy Corp Secures Long-Term Supply Agreements With Two US Nuclear Utilities",
+          "url": "https://finance.yahoo.com/energy/articles/uranium-energy-corp-secures-long-114830022.html",
+          "publisher": "InvestorsHub",
+          "published": "2026-11-05T11:48:30Z"
+        }
+      ]
+    },
+    {
       "symbol": "LEU",
       "name": "Centrus Energy",
       "price": 109.87,
@@ -2061,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 87.14,
-      "change_pct": 1.28
+      "price": 87.0,
+      "change_pct": 1.12
     },
     {
       "label": "Brent",
-      "price": 93.33,
-      "change_pct": 2.01
+      "price": 93.18,
+      "change_pct": 1.85
     },
     {
       "label": "NatGas",
-      "price": 3.31,
-      "change_pct": 0.46
+      "price": 3.32,
+      "change_pct": 0.61
     }
   ]
 }
