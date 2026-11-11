@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-11T12:44:27+00:00",
+  "as_of": "2026-11-11T12:59:32+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,16 +11,32 @@
    "rank": 1,
    "ticker": "GEV",
    "company": "GE Vernova Inc.",
-   "move_pct": 6.77,
-   "price": 850.99,
+   "move_pct": 5.74,
+   "price": 842.79,
    "volume": 6230700,
    "volume_vs_avg": "~2x",
-   "heat_score": 48,
+   "heat_score": 44,
    "direction": "up",
-   "why": "BE vs GEV stock comparison - side by side",
+   "why": "GEV, VRT, HUBB In Focus \u2014 JPMorgan Sees Potential AI Stock Rebound, But Remains Cautious On Electrical Equipment Sector",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE92SGVUam1jOVVZSll3RVJiZFJ1RDJNSXJhVHFHMVY5QmxSbUtwLXpxNnRVSldNb2t3Z2I5TFpWQ2JEdEhzUTB5eWdEZmxLQ2plaWxZYll1RQ?oc=5",
-   "published": "2026-11-11T11:19:21+00:00",
+   "source_url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNRmFGUGgtRE8xd0YzbTFxTEh1SC1adnZtM1hIT25RSFNxWjN5WnRoYjlRSEJ5V0NVNTVkMEtVYzBjUWlLQ3UzYnREM0lWMU5PNFF5Tml2dVJLNmpTbmowUWJ1TFpKSENUMDVMam8tek9qdE5hVXJNUktoVzFHdi1BUC0xY1NmYTI2T3dfekhmV2VKUmtVUU1vdnZNdkNJS3luUzZVcUhfTjZCNTBNNkRIeGdPRWdYdW12MU5neXlwUDFfY0RhXy1teHhoTGo5OGsycWVhOE5TUXJOUkFVSVI5anRNSHBRTTRrWE5tLVBvdHA3TjJnTXVNbXNBTFlEYkIyZk15SEd3?oc=5",
+   "published": "2026-11-11T11:51:18+00:00",
+   "sector": "Grid, Storage & Electrification"
+  },
+  {
+   "rank": 2,
+   "ticker": "VRT",
+   "company": "Vertiv Holdings, LLC",
+   "move_pct": 5.81,
+   "price": 205.5,
+   "volume": 6759600,
+   "volume_vs_avg": "~0.9x",
+   "heat_score": 40,
+   "direction": "up",
+   "why": "GEV, VRT, HUBB In Focus \u2014 JPMorgan Sees Potential AI Stock Rebound, But Remains Cautious On Electrical Equipment Sector",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNRmFGUGgtRE8xd0YzbTFxTEh1SC1adnZtM1hIT25RSFNxWjN5WnRoYjlRSEJ5V0NVNTVkMEtVYzBjUWlLQ3UzYnREM0lWMU5PNFF5Tml2dVJLNmpTbmowUWJ1TFpKSENUMDVMam8tek9qdE5hVXJNUktoVzFHdi1BUC0xY1NmYTI2T3dfekhmV2VKUmtVUU1vdnZNdkNJS3luUzZVcUhfTjZCNTBNNkRIeGdPRWdYdW12MU5neXlwUDFfY0RhXy1teHhoTGo5OGsycWVhOE5TUXJOUkFVSVI5anRNSHBRTTRrWE5tLVBvdHA3TjJnTXVNbXNBTFlEYkIyZk15SEd3?oc=5",
+   "published": "2026-11-11T11:51:18+00:00",
    "sector": "Grid, Storage & Electrification"
   }
  ]
