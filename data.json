@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-11T04:58:19+00:00",
-  "as_of_local": "2026-11-11 04:58:19 UTC",
+  "as_of_utc": "2026-11-11T05:13:25+00:00",
+  "as_of_local": "2026-11-11 05:13:25 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -825,6 +825,12 @@
       "market_cap": 56879367935.22558,
       "headlines": [
         {
+          "title": "Occidental Petroleum (OXY) Q3 2026 Earnings Call Transcript",
+          "url": "https://finance.yahoo.com/energy/articles/occidental-petroleum-oxy-q3-2026-045154998.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-11T04:51:54Z"
+        },
+        {
           "title": "What Occidental Petroleum (OXY) Said on Its Q3 Earnings Call",
           "url": "https://finance.yahoo.com/energy/articles/occidental-petroleum-oxy-said-q3-221444681.html",
           "publisher": "MarketBeat",
@@ -835,12 +841,6 @@
           "url": "https://finance.yahoo.com/energy/articles/enbridge-vs-occidental-petroleum-does-213202397.html",
           "publisher": "Motley Fool",
           "published": "2026-11-10T21:32:02Z"
-        },
-        {
-          "title": "Occidental's Debt Reduction, Carbon Strategy Support Outlook, UBS Says",
-          "url": "https://finance.yahoo.com/energy/articles/occidental-apos-debt-reduction-carbon-203207354.html",
-          "publisher": "MT Newswires",
-          "published": "2026-11-10T20:32:07Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 86.72,
-      "change_pct": -0.15
+      "price": 86.61,
+      "change_pct": 0.66
     },
     {
       "label": "Brent",
-      "price": 92.48,
-      "change_pct": -0.1
+      "price": 92.4,
+      "change_pct": 0.99
     },
     {
       "label": "NatGas",
-      "price": 3.29,
-      "change_pct": 2.21
+      "price": 3.3,
+      "change_pct": 0.0
     }
   ]
 }
