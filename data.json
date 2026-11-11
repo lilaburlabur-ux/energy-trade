@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-11T08:06:07+00:00",
-  "as_of_local": "2026-11-11 08:06:07 UTC",
+  "as_of_utc": "2026-11-11T08:11:06+00:00",
+  "as_of_local": "2026-11-11 08:11:06 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "EQNR"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -395,6 +393,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/dti-q3-earnings-miss-estimates-181500794.html",
           "publisher": "Zacks",
           "published": "2026-11-10T18:15:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "EQNR",
+      "name": "Equinor",
+      "price": 40.68,
+      "previous_close": 41.12,
+      "change_pct": -1.07,
+      "market_cap": 96285001429.95688,
+      "headlines": [
+        {
+          "title": "European Equities Traded in the US as American Depositary Receipts Decline in Tuesday Trading",
+          "url": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-american-161543882.html",
+          "publisher": "MT Newswires",
+          "published": "2026-11-10T16:15:43Z"
+        },
+        {
+          "title": "European Equities Traded in the US as American Depositary Receipts Surge in Monday Trading",
+          "url": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-american-161302851.html",
+          "publisher": "MT Newswires",
+          "published": "2026-11-09T16:13:02Z"
+        },
+        {
+          "title": "New Strong Buy Stocks for November 9th",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/strong-buy-stocks-november-9th-053100124.html",
+          "publisher": "Zacks",
+          "published": "2026-11-09T05:31:00Z"
         }
       ]
     },
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 86.43,
-      "change_pct": 0.45
+      "price": 86.32,
+      "change_pct": 0.33
     },
     {
       "label": "Brent",
-      "price": 92.25,
-      "change_pct": 0.83
+      "price": 92.13,
+      "change_pct": 0.7
     },
     {
       "label": "NatGas",
       "price": 3.3,
-      "change_pct": -0.03
+      "change_pct": 0.12
     }
   ]
 }
