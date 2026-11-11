@@ -4,24 +4,24 @@ Signed file: `FANG.research.11.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $178.08 (2026-11-11, ~15-min delayed) |
+| Current price | $nan (2026-11-11, ~15-min delayed) |
 | Market cap | $49.71B |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
-| Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
+| Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-11.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-6.06%) with negative half-year (-9.14%). |
-| Fresh setup quality | Moderate / wait | -16.03% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
+| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 11.62%, revenue growth 32.00%. |
-| Value attractiveness | Reasonable | Forward P/E 8.19, EV/Sales 3.88. |
-| Risk level | Elevated | Beta 0.47, ATR 3.7% of price, short float 3.56%. |
+| Value attractiveness | Reasonable | Forward P/E 8.16, EV/Sales 3.88. |
+| Risk level | Moderate | Beta 0.47, ATR nan% of price, short float 3.56%. |
 
-**Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
+**Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -44,22 +44,22 @@ Diamondback Energy, Inc., an independent oil and natural gas company, acquires, 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $178.08; 52w high $212.08 (-16.03%); 52w low $138.09 (+28.96%) |
-| Trend | -6.06% vs SMA200, -8.62% vs SMA50, -9.43% vs SMA20 |
-| Momentum | RSI(14) 33.1 (neutral) |
-| Volatility | ATR(14) 6.58 (~3.7% of price); beta 0.47 |
-| Setup perspective | -16.03% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $nan; 52w high $212.08 (+nan%); 52w low $138.09 (+nan%) |
+| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
+| Momentum | RSI(14) 33.2 (neutral) |
+| Volatility | ATR(14) 6.46 (~nan% of price); beta 0.47 |
+| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -7.4% |
-| Month | -8.7% |
-| Quarter | -10.8% |
-| Half Y | -9.1% |
-| 1Y | +27.0% |
-| YTD | +18.9% |
+| Week | +nan% |
+| Month | +nan% |
+| Quarter | +nan% |
+| Half Y | +nan% |
+| 1Y | +nan% |
+| YTD | +nan% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,8 +68,8 @@ Diamondback Energy, Inc., an independent oil and natural gas company, acquires, 
 | Revenue (ttm) | $17.66B | Revenue growth 32.00% y/y |
 | Profitability | Gross 73.62%, operating 44.95%, net 11.62% | ROA 2.07%, ROE 4.86% |
 | Balance sheet | Cash $558.00M, debt $13.23B | Current ratio 0.55, debt/equity 29.31 |
-| Valuation | P/E 23.97, forward P/E 8.19, P/S 2.81, P/B 1.28 | EV/Sales 3.88, EV/EBITDA 5.37 |
-| Growth expectations | Earnings growth 62.10%, EPS q/q 57.50% | Analyst mean target $238.73 (30 analysts) |
+| Valuation | P/E 23.97, forward P/E 8.16, P/S 2.81, P/B 1.28 | EV/Sales 3.88, EV/EBITDA 5.37 |
+| Growth expectations | Earnings growth 62.10%, EPS q/q 57.50% | Analyst mean target $238.40 (30 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
@@ -83,19 +83,18 @@ Diamondback Energy, Inc., an independent oil and natural gas company, acquires, 
 
 | Holder | Shares | % Out | Reported |
 |---|---|---|---|
-| Blackrock Inc. | 18,792,594 | 6.73% | 2026-06-30 |
-| Wellington Management Group, LLP | 16,420,247 | 5.88% | 2026-06-30 |
-| Vanguard Capital Management LLC | 12,775,007 | 4.58% | 2026-06-30 |
-| State Street Corporation | 12,562,224 | 4.50% | 2026-06-30 |
-| Invesco Ltd. | 11,180,445 | 4.00% | 2026-06-30 |
-| Vanguard Portfolio Management LLC | 9,706,610 | 3.48% | 2026-06-30 |
-| Capital World Investors | 8,944,927 | 3.20% | 2026-06-30 |
-| Geode Capital Management, LLC | 5,982,310 | 2.14% | 2026-09-30 |
-| Boston Partners | 5,850,054 | 2.10% | 2026-06-30 |
-| FMR, LLC | 4,594,399 | 1.65% | 2026-06-30 |
+| Blackrock Inc. | 18,792,594 | 6.71% | 2026-06-30 |
+| Wellington Management Group, LLP | 16,420,247 | 5.86% | 2026-06-30 |
+| Vanguard Capital Management LLC | 12,775,007 | 4.56% | 2026-06-30 |
+| State Street Corporation | 12,562,224 | 4.49% | 2026-06-30 |
+| Invesco Ltd. | 11,180,445 | 3.99% | 2026-06-30 |
+| Vanguard Portfolio Management LLC | 9,706,610 | 3.47% | 2026-06-30 |
+| Capital World Investors | 8,944,927 | 3.19% | 2026-06-30 |
+| Boston Partners | 5,850,054 | 2.09% | 2026-06-30 |
+| Geode Capital Management, LLC | 5,387,025 | 1.92% | 2026-06-30 |
+| Bank Of New York Mellon Corporation | 4,851,470 | 1.73% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 0.47, ATR 3.7% of price, short float 3.56%. Size positions accordingly.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -110,18 +109,18 @@ Diamondback Energy, Inc., an independent oil and natural gas company, acquires, 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $178.08 | EV/Sales | 3.88 |
+| Price | $nan | EV/Sales | 3.88 |
 | Market cap | $49.71B | EV/EBITDA | 5.37 |
 | Beta | 0.47 | Gross margin | 73.62% |
-| RSI(14) | 33.1 | Operating margin | 44.95% |
-| ATR(14) | 6.58 | Profit margin | 11.62% |
-| SMA20 dist | -9.43% | ROA | 2.07% |
-| SMA50 dist | -8.62% | ROE | 4.86% |
-| SMA200 dist | -6.06% | Revenue (ttm) | $17.66B |
+| RSI(14) | 33.2 | Operating margin | 44.95% |
+| ATR(14) | 6.46 | Profit margin | 11.62% |
+| SMA20 dist | +nan% | ROA | 2.07% |
+| SMA50 dist | +nan% | ROE | 4.86% |
+| SMA200 dist | +nan% | Revenue (ttm) | $17.66B |
 | 52W high | $212.08 | Revenue growth y/y | 32.00% |
 | 52W low | $138.09 | Inst. ownership | 73.68% |
 | P/E (ttm) | 23.97 | Insider ownership | 23.96% |
-| Forward P/E | 8.19 | Short float | 3.56% |
+| Forward P/E | 8.16 | Short float | 3.56% |
 | PEG (trailing) | 1.04 | Avg volume | 2,420,584 |
 | P/S | 2.81 | Employees | 1,762 |
 | P/B | 1.28 | Analyst rec (1=buy..5=sell) | 1.5 |
@@ -139,7 +138,7 @@ Diamondback Energy, Inc., an independent oil and natural gas company, acquires, 
 | 2026-09-14 | main | UBS | Buy → Buy |
 
 ## 9. Conclusion
-FANG: Low momentum / mixed fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+FANG: Moderate momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

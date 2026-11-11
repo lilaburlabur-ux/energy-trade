@@ -4,24 +4,24 @@ Signed file: `LNG.research.11.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $293.49 (2026-11-11, ~15-min delayed) |
+| Current price | $nan (2026-11-11, ~15-min delayed) |
 | Market cap | $59.93B |
 | Sector / Industry | Energy / Oil & Gas Midstream |
 | Main theme | Oil & Gas Midstream — see catalysts below |
-| Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
+| Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-11.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +42.50%; price +13.60% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -10.95% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
+| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 13.40%, revenue growth 39.90%. |
 | Value attractiveness | Reasonable | Forward P/E 14.17, EV/Sales 4.03. |
-| Risk level | Elevated | Beta 0.00, ATR 3.8% of price, short float 2.29%. |
+| Risk level | Moderate | Beta 0.00, ATR nan% of price, short float 2.29%. |
 
-**Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
+**Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -44,22 +44,22 @@ Cheniere Energy, Inc., an energy infrastructure company, primarily engages in th
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $293.49; 52w high $329.58 (-10.95%); 52w low $187.07 (+56.89%) |
-| Trend | +13.60% vs SMA200, +3.70% vs SMA50, -0.08% vs SMA20 |
-| Momentum | RSI(14) 51.9 (neutral) |
-| Volatility | ATR(14) 11.20 (~3.8% of price); beta 0.00 |
-| Setup perspective | -10.95% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $nan; 52w high $329.58 (+nan%); 52w low $187.07 (+nan%) |
+| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
+| Momentum | RSI(14) 47.3 (neutral) |
+| Volatility | ATR(14) 11.06 (~nan% of price); beta 0.00 |
+| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -5.5% |
-| Month | +4.1% |
-| Quarter | +9.7% |
-| Half Y | +20.7% |
-| 1Y | +42.5% |
-| YTD | +49.8% |
+| Week | +nan% |
+| Month | +nan% |
+| Quarter | +nan% |
+| Half Y | +nan% |
+| 1Y | +nan% |
+| YTD | +nan% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -83,19 +83,18 @@ Cheniere Energy, Inc., an energy infrastructure company, primarily engages in th
 
 | Holder | Shares | % Out | Reported |
 |---|---|---|---|
-| Blackrock Inc. | 17,712,080 | 8.67% | 2026-06-30 |
-| Vanguard Portfolio Management LLC | 9,603,722 | 4.70% | 2026-06-30 |
-| Vanguard Capital Management LLC | 9,476,116 | 4.64% | 2026-06-30 |
-| State Street Corporation | 5,938,476 | 2.91% | 2026-06-30 |
-| FMR, LLC | 4,938,766 | 2.42% | 2026-06-30 |
-| Morgan Stanley | 4,573,650 | 2.24% | 2026-06-30 |
-| NORGES BANK | 3,581,124 | 1.75% | 2026-06-30 |
-| Geode Capital Management, LLC | 3,574,592 | 1.75% | 2026-09-30 |
-| Canada Pension Plan Investment Board | 3,112,696 | 1.52% | 2026-06-30 |
-| JPMORGAN CHASE & CO | 3,109,949 | 1.52% | 2026-06-30 |
+| Blackrock Inc. | 17,712,080 | 8.58% | 2026-06-30 |
+| Vanguard Portfolio Management LLC | 9,603,722 | 4.65% | 2026-06-30 |
+| Vanguard Capital Management LLC | 9,476,116 | 4.59% | 2026-06-30 |
+| State Street Corporation | 5,938,476 | 2.88% | 2026-06-30 |
+| FMR, LLC | 4,938,766 | 2.39% | 2026-06-30 |
+| Morgan Stanley | 4,573,650 | 2.21% | 2026-06-30 |
+| Geode Capital Management, LLC | 3,717,072 | 1.80% | 2026-06-30 |
+| NORGES BANK | 3,581,124 | 1.73% | 2026-06-30 |
+| Canada Pension Plan Investment Board | 3,112,696 | 1.51% | 2026-06-30 |
+| JPMORGAN CHASE & CO | 3,109,949 | 1.51% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 0.00, ATR 3.8% of price, short float 2.29%. Size positions accordingly.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -110,14 +109,14 @@ Cheniere Energy, Inc., an energy infrastructure company, primarily engages in th
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $293.49 | EV/Sales | 4.03 |
+| Price | $nan | EV/Sales | 4.03 |
 | Market cap | $59.93B | EV/EBITDA | 11.47 |
 | Beta | 0.00 | Gross margin | 34.89% |
-| RSI(14) | 51.9 | Operating margin | 30.82% |
-| ATR(14) | 11.20 | Profit margin | 13.40% |
-| SMA20 dist | -0.08% | ROA | 8.61% |
-| SMA50 dist | +3.70% | ROE | 39.68% |
-| SMA200 dist | +13.60% | Revenue (ttm) | $22.67B |
+| RSI(14) | 47.3 | Operating margin | 30.82% |
+| ATR(14) | 11.06 | Profit margin | 13.40% |
+| SMA20 dist | +nan% | ROA | 8.61% |
+| SMA50 dist | +nan% | ROE | 39.68% |
+| SMA200 dist | +nan% | Revenue (ttm) | $22.67B |
 | 52W high | $329.58 | Revenue growth y/y | 39.90% |
 | 52W low | $187.07 | Inst. ownership | 93.54% |
 | P/E (ttm) | 20.89 | Insider ownership | 0.64% |
@@ -139,7 +138,7 @@ Cheniere Energy, Inc., an energy infrastructure company, primarily engages in th
 | 2026-10-23 | main | JP Morgan | Overweight → Overweight |
 
 ## 9. Conclusion
-LNG: Moderate momentum / mixed fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+LNG: Moderate momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

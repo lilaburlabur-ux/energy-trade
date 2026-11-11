@@ -4,7 +4,7 @@ Signed file: `SHEL.research.11.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $97.27 (2026-11-11, ~15-min delayed) |
+| Current price | $nan (2026-11-11, ~15-min delayed) |
 | Market cap | $275.34B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
@@ -15,11 +15,11 @@ Signed file: `SHEL.research.11.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +33.47%; price +10.03% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -10.51% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
+| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 10.18%, revenue growth 36.20%. |
 | Value attractiveness | Reasonable | Forward P/E 8.91, EV/Sales 0.99. |
-| Risk level | Moderate | Beta -0.25, ATR 2.2% of price, short float 1.22%. |
+| Risk level | Moderate | Beta -0.25, ATR nan% of price, short float 1.22%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
@@ -44,22 +44,22 @@ Shell plc operates as an energy and petrochemical company in Europe, Asia, Ocean
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $97.27; 52w high $108.69 (-10.51%); 52w low $68.43 (+42.14%) |
-| Trend | +10.03% vs SMA200, -2.11% vs SMA50, -6.61% vs SMA20 |
-| Momentum | RSI(14) 37.3 (neutral) |
-| Volatility | ATR(14) 2.14 (~2.2% of price); beta -0.25 |
-| Setup perspective | -10.51% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $nan; 52w high $108.69 (+nan%); 52w low $68.43 (+nan%) |
+| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
+| Momentum | RSI(14) 40.8 (neutral) |
+| Volatility | ATR(14) 2.10 (~nan% of price); beta -0.25 |
+| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -6.7% |
-| Month | -4.3% |
-| Quarter | +8.9% |
-| Half Y | +16.0% |
-| 1Y | +33.5% |
-| YTD | +32.5% |
+| Week | +nan% |
+| Month | +nan% |
+| Quarter | +nan% |
+| Half Y | +nan% |
+| 1Y | +nan% |
+| YTD | +nan% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -109,14 +109,14 @@ Shell plc operates as an energy and petrochemical company in Europe, Asia, Ocean
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $97.27 | EV/Sales | 0.99 |
+| Price | $nan | EV/Sales | 0.99 |
 | Market cap | $275.34B | EV/EBITDA | 4.73 |
 | Beta | -0.25 | Gross margin | 26.93% |
-| RSI(14) | 37.3 | Operating margin | 18.76% |
-| ATR(14) | 2.14 | Profit margin | 10.18% |
-| SMA20 dist | -6.61% | ROA | 7.67% |
-| SMA50 dist | -2.11% | ROE | 17.43% |
-| SMA200 dist | +10.03% | Revenue (ttm) | $321.29B |
+| RSI(14) | 40.8 | Operating margin | 18.76% |
+| ATR(14) | 2.10 | Profit margin | 10.18% |
+| SMA20 dist | +nan% | ROA | 7.67% |
+| SMA50 dist | +nan% | ROE | 17.43% |
+| SMA200 dist | +nan% | Revenue (ttm) | $321.29B |
 | 52W high | $108.69 | Revenue growth y/y | 36.20% |
 | 52W low | $68.43 | Inst. ownership | 13.47% |
 | P/E (ttm) | 8.44 | Insider ownership | 0.01% |

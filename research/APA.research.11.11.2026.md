@@ -4,24 +4,24 @@ Signed file: `APA.research.11.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $45.12 (2026-11-11, ~15-min delayed) |
+| Current price | $nan (2026-11-11, ~15-min delayed) |
 | Market cap | $15.15B |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
-| Current stance | High technical momentum, strong fundamentals, value: reasonable, risk: elevated. |
+| Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-11.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +94.76%; price +18.64% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -14.58% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
+| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 23.49%, revenue growth 31.50%. |
 | Value attractiveness | Reasonable | Forward P/E 8.18, EV/Sales 2.10. |
-| Risk level | Elevated | Beta 0.28, ATR 4.4% of price, short float 9.12%. |
+| Risk level | Moderate | Beta 0.28, ATR nan% of price, short float 9.12%. |
 
-**Bottom line:** High technical momentum, strong fundamentals, value: reasonable, risk: elevated.
+**Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -44,22 +44,22 @@ APA Corporation, an independent energy company, explores for, develops, and prod
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $45.12; 52w high $52.82 (-14.58%); 52w low $22.73 (+98.50%) |
-| Trend | +18.64% vs SMA200, -1.54% vs SMA50, -6.94% vs SMA20 |
-| Momentum | RSI(14) 43.4 (neutral) |
-| Volatility | ATR(14) 2.00 (~4.4% of price); beta 0.28 |
-| Setup perspective | -14.58% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $nan; 52w high $52.82 (+nan%); 52w low $22.73 (+nan%) |
+| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
+| Momentum | RSI(14) 41.1 (neutral) |
+| Volatility | ATR(14) 1.96 (~nan% of price); beta 0.28 |
+| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -5.5% |
-| Month | -3.2% |
-| Quarter | +13.5% |
-| Half Y | +23.1% |
-| 1Y | +94.8% |
-| YTD | +83.0% |
+| Week | +nan% |
+| Month | +nan% |
+| Quarter | +nan% |
+| Half Y | +nan% |
+| 1Y | +nan% |
+| YTD | +nan% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -83,19 +83,18 @@ APA Corporation, an independent energy company, explores for, develops, and prod
 
 | Holder | Shares | % Out | Reported |
 |---|---|---|---|
-| Blackrock Inc. | 36,021,838 | 10.73% | 2026-06-30 |
-| Hotchkis & Wiley Capital Management, LLC | 31,695,303 | 9.44% | 2026-06-30 |
-| State Street Corporation | 25,181,423 | 7.50% | 2026-06-30 |
-| Vanguard Capital Management LLC | 23,098,547 | 6.88% | 2026-06-30 |
-| Vanguard Portfolio Management LLC | 17,331,282 | 5.16% | 2026-06-30 |
-| Invesco Ltd. | 15,316,704 | 4.56% | 2026-06-30 |
-| Dimensional Fund Advisors LP | 14,977,643 | 4.46% | 2026-09-30 |
-| Charles Schwab Investment Management, Inc. | 13,296,552 | 3.96% | 2026-06-30 |
-| Geode Capital Management, LLC | 11,624,432 | 3.46% | 2026-09-30 |
-| FMR, LLC | 9,834,880 | 2.93% | 2026-06-30 |
+| Blackrock Inc. | 36,021,838 | 10.28% | 2026-06-30 |
+| Hotchkis & Wiley Capital Management, LLC | 31,695,303 | 9.05% | 2026-06-30 |
+| State Street Corporation | 25,181,423 | 7.19% | 2026-06-30 |
+| Vanguard Capital Management LLC | 23,098,547 | 6.59% | 2026-06-30 |
+| Vanguard Portfolio Management LLC | 17,331,282 | 4.95% | 2026-06-30 |
+| Dimensional Fund Advisors LP | 16,838,388 | 4.81% | 2026-06-30 |
+| Invesco Ltd. | 15,316,704 | 4.37% | 2026-06-30 |
+| Charles Schwab Investment Management, Inc. | 13,296,552 | 3.80% | 2026-06-30 |
+| Geode Capital Management, LLC | 12,855,410 | 3.67% | 2026-06-30 |
+| FMR, LLC | 9,834,880 | 2.81% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 0.28, ATR 4.4% of price, short float 9.12%. Size positions accordingly.
 - **Short interest risk:** short float 9.12% can fuel squeezes both ways around news.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -111,14 +110,14 @@ APA Corporation, an independent energy company, explores for, develops, and prod
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $45.12 | EV/Sales | 2.10 |
+| Price | $nan | EV/Sales | 2.10 |
 | Market cap | $15.15B | EV/EBITDA | 3.05 |
 | Beta | 0.28 | Gross margin | 78.98% |
-| RSI(14) | 43.4 | Operating margin | 44.25% |
-| ATR(14) | 2.00 | Profit margin | 23.49% |
-| SMA20 dist | -6.94% | ROA | 14.06% |
-| SMA50 dist | -1.54% | ROE | 33.32% |
-| SMA200 dist | +18.64% | Revenue (ttm) | $9.24B |
+| RSI(14) | 41.1 | Operating margin | 44.25% |
+| ATR(14) | 1.96 | Profit margin | 23.49% |
+| SMA20 dist | +nan% | ROA | 14.06% |
+| SMA50 dist | +nan% | ROE | 33.32% |
+| SMA200 dist | +nan% | Revenue (ttm) | $9.24B |
 | 52W high | $52.82 | Revenue growth y/y | 31.50% |
 | 52W low | $22.73 | Inst. ownership | 113.67% |
 | P/E (ttm) | 7.34 | Insider ownership | 0.46% |
@@ -140,7 +139,7 @@ APA Corporation, an independent energy company, explores for, develops, and prod
 | 2026-10-15 | main | Morgan Stanley | Underweight → Underweight |
 
 ## 9. Conclusion
-APA: High momentum / strong fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+APA: Moderate momentum / strong fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

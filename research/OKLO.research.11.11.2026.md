@@ -4,24 +4,24 @@ Signed file: `OKLO.research.11.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $25.09 (2026-11-11, ~15-min delayed) |
+| Current price | $nan (2026-11-11, ~15-min delayed) |
 | Market cap | $4.90B |
 | Sector / Industry | Utilities / Utilities - Independent Power Producers |
 | Main theme | Utilities - Independent Power Producers — see catalysts below |
-| Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: high. |
+| Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-11.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-51.31%) with negative half-year (-65.92%). |
-| Fresh setup quality | Poor / broken | -77.53% from 52w high — base needs to rebuild. |
+| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
+| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 0.00%, revenue growth —. |
 | Value attractiveness | Reasonable | Forward P/E -21.99, EV/Sales 782.28. |
-| Risk level | High | Beta 1.31, ATR 9.7% of price, short float 20.76%. |
+| Risk level | High | Beta 1.31, ATR nan% of price, short float 20.76%. |
 
-**Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: high.
+**Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -44,22 +44,22 @@ Oklo Inc. develops fission power plants to provide energy at scale to customers 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $25.09; 52w high $111.65 (-77.53%); 52w low $19.20 (+30.68%) |
-| Trend | -51.31% vs SMA200, -23.94% vs SMA50, -3.33% vs SMA20 |
-| Momentum | RSI(14) 42.8 (neutral) |
-| Volatility | ATR(14) 2.43 (~9.7% of price); beta 1.31 |
-| Setup perspective | -77.53% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $nan; 52w high $111.65 (+nan%); 52w low $19.20 (+nan%) |
+| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
+| Momentum | RSI(14) 46.6 (neutral) |
+| Volatility | ATR(14) 2.47 (~nan% of price); beta 1.31 |
+| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +6.8% |
-| Month | -22.1% |
-| Quarter | -44.4% |
-| Half Y | -65.9% |
-| 1Y | -77.7% |
-| YTD | -67.8% |
+| Week | +nan% |
+| Month | +nan% |
+| Quarter | +nan% |
+| Half Y | +nan% |
+| 1Y | +nan% |
+| YTD | +nan% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -83,21 +83,20 @@ Oklo Inc. develops fission power plants to provide energy at scale to customers 
 
 | Holder | Shares | % Out | Reported |
 |---|---|---|---|
-| Mirae Asset Global ETFs Holdings Ltd. | 8,935,822 | 4.58% | 2026-06-30 |
-| Van Eck Associates Corporation | 7,912,353 | 4.05% | 2026-06-30 |
-| Blackrock Inc. | 7,311,968 | 3.74% | 2026-06-30 |
-| Vanguard Capital Management LLC | 6,539,334 | 3.35% | 2026-06-30 |
-| Vanguard Portfolio Management LLC | 6,425,515 | 3.29% | 2026-06-30 |
-| Morgan Stanley | 3,262,878 | 1.67% | 2026-06-30 |
-| Geode Capital Management, LLC | 2,612,897 | 1.34% | 2026-09-30 |
-| State Street Corporation | 2,378,058 | 1.22% | 2026-06-30 |
-| UBS Group AG | 2,095,153 | 1.07% | 2026-06-30 |
-| NORGES BANK | 1,758,267 | 0.90% | 2026-06-30 |
+| Mirae Asset Global ETFs Holdings Ltd. | 8,935,822 | 4.80% | 2026-06-30 |
+| Van Eck Associates Corporation | 7,912,353 | 4.25% | 2026-06-30 |
+| Blackrock Inc. | 7,311,968 | 3.93% | 2026-06-30 |
+| Vanguard Capital Management LLC | 6,539,334 | 3.52% | 2026-06-30 |
+| Vanguard Portfolio Management LLC | 6,425,515 | 3.45% | 2026-06-30 |
+| Morgan Stanley | 3,262,878 | 1.75% | 2026-06-30 |
+| State Street Corporation | 2,378,058 | 1.28% | 2026-06-30 |
+| Geode Capital Management, LLC | 2,364,428 | 1.27% | 2026-06-30 |
+| UBS Group AG | 2,095,153 | 1.13% | 2026-06-30 |
+| NORGES BANK | 1,758,267 | 0.95% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.31, ATR 9.7% of price, short float 20.76%. Size positions accordingly.
+- **Volatility risk:** Beta 1.31, ATR nan% of price, short float 20.76%. Size positions accordingly.
 - **Short interest risk:** short float 20.76% can fuel squeezes both ways around news.
-- **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -112,14 +111,14 @@ Oklo Inc. develops fission power plants to provide energy at scale to customers 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $25.09 | EV/Sales | 782.28 |
+| Price | $nan | EV/Sales | 782.28 |
 | Market cap | $4.90B | EV/EBITDA | -9.16 |
 | Beta | 1.31 | Gross margin | 41.06% |
-| RSI(14) | 42.8 | Operating margin | -4430.25% |
-| ATR(14) | 2.43 | Profit margin | 0.00% |
-| SMA20 dist | -3.33% | ROA | -6.57% |
-| SMA50 dist | -23.94% | ROE | -6.79% |
-| SMA200 dist | -51.31% | Revenue (ttm) | $3.07M |
+| RSI(14) | 46.6 | Operating margin | -4430.25% |
+| ATR(14) | 2.47 | Profit margin | 0.00% |
+| SMA20 dist | +nan% | ROA | -6.57% |
+| SMA50 dist | +nan% | ROE | -6.79% |
+| SMA200 dist | +nan% | Revenue (ttm) | $3.07M |
 | 52W high | $111.65 | Revenue growth y/y | — |
 | 52W low | $19.20 | Inst. ownership | 46.15% |
 | P/E (ttm) | — | Insider ownership | 14.58% |
@@ -141,7 +140,7 @@ Oklo Inc. develops fission power plants to provide energy at scale to customers 
 | 2026-10-20 | main | Barclays | Overweight → Overweight |
 
 ## 9. Conclusion
-OKLO: Low momentum / mixed fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+OKLO: Moderate momentum / mixed fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

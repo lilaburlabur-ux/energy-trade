@@ -4,24 +4,24 @@ Signed file: `WMB.research.11.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $67.46 (2026-11-11, ~15-min delayed) |
+| Current price | $nan (2026-11-11, ~15-min delayed) |
 | Market cap | $84.34B |
 | Sector / Industry | Energy / Oil & Gas Midstream |
 | Main theme | Oil & Gas Midstream — see catalysts below |
-| Current stance | Low technical momentum, strong fundamentals, value: fair-to-demanding, risk: elevated. |
+| Current stance | Moderate technical momentum, strong fundamentals, value: fair-to-demanding, risk: moderate. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-11.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-6.10%) with negative half-year (-8.40%). |
-| Fresh setup quality | Moderate / wait | -13.79% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
+| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 24.66%, revenue growth 12.30%. |
 | Value attractiveness | Fair-to-demanding | Forward P/E 25.92, EV/Sales 9.65. |
-| Risk level | Elevated | Beta 0.63, ATR 4.1% of price, short float 2.39%. |
+| Risk level | Moderate | Beta 0.63, ATR nan% of price, short float 2.39%. |
 
-**Bottom line:** Low technical momentum, strong fundamentals, value: fair-to-demanding, risk: elevated.
+**Bottom line:** Moderate technical momentum, strong fundamentals, value: fair-to-demanding, risk: moderate.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -44,22 +44,22 @@ The Williams Companies, Inc., together with its subsidiaries, operates as an ene
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $67.46; 52w high $78.25 (-13.79%); 52w low $57.01 (+18.34%) |
-| Trend | -6.10% vs SMA200, -5.50% vs SMA50, -4.46% vs SMA20 |
-| Momentum | RSI(14) 42.9 (neutral) |
-| Volatility | ATR(14) 2.75 (~4.1% of price); beta 0.63 |
-| Setup perspective | -13.79% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $nan; 52w high $78.25 (+nan%); 52w low $57.01 (+nan%) |
+| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
+| Momentum | RSI(14) 40.0 (neutral) |
+| Volatility | ATR(14) 2.74 (~nan% of price); beta 0.63 |
+| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -6.9% |
-| Month | -9.0% |
-| Quarter | -7.8% |
-| Half Y | -8.4% |
-| 1Y | +16.7% |
-| YTD | +13.3% |
+| Week | +nan% |
+| Month | +nan% |
+| Quarter | +nan% |
+| Half Y | +nan% |
+| 1Y | +nan% |
+| YTD | +nan% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -96,7 +96,6 @@ The Williams Companies, Inc., together with its subsidiaries, operates as an ene
 
 ## 6. Risk Review and Setup Plan
 - **Valuation risk:** Forward P/E 25.92, EV/Sales 9.65. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 0.63, ATR 4.1% of price, short float 2.39%. Size positions accordingly.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -111,14 +110,14 @@ The Williams Companies, Inc., together with its subsidiaries, operates as an ene
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $67.46 | EV/Sales | 9.65 |
+| Price | $nan | EV/Sales | 9.65 |
 | Market cap | $84.34B | EV/EBITDA | 17.39 |
 | Beta | 0.63 | Gross margin | 63.05% |
-| RSI(14) | 42.9 | Operating margin | 32.69% |
-| ATR(14) | 2.75 | Profit margin | 24.66% |
-| SMA20 dist | -4.46% | ROA | 4.59% |
-| SMA50 dist | -5.50% | ROE | 18.31% |
-| SMA200 dist | -6.10% | Revenue (ttm) | $12.68B |
+| RSI(14) | 40.0 | Operating margin | 32.69% |
+| ATR(14) | 2.74 | Profit margin | 24.66% |
+| SMA20 dist | +nan% | ROA | 4.59% |
+| SMA50 dist | +nan% | ROE | 18.31% |
+| SMA200 dist | +nan% | Revenue (ttm) | $12.68B |
 | 52W high | $78.25 | Revenue growth y/y | 12.30% |
 | 52W low | $57.01 | Inst. ownership | 89.67% |
 | P/E (ttm) | 26.56 | Insider ownership | 0.44% |
@@ -140,7 +139,7 @@ The Williams Companies, Inc., together with its subsidiaries, operates as an ene
 | 2026-07-14 | main | Morgan Stanley | Overweight → Overweight |
 
 ## 9. Conclusion
-WMB: Low momentum / strong fundamentals / fair-to-demanding value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+WMB: Moderate momentum / strong fundamentals / fair-to-demanding value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

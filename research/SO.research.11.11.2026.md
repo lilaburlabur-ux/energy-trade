@@ -4,7 +4,7 @@ Signed file: `SO.research.11.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $93.65 (2026-11-11, ~15-min delayed) |
+| Current price | $nan (2026-11-11, ~15-min delayed) |
 | Market cap | $109.03B |
 | Sector / Industry | Utilities / Utilities - Regulated Electric |
 | Main theme | Utilities - Regulated Electric — see catalysts below |
@@ -15,11 +15,11 @@ Signed file: `SO.research.11.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +5.80%; price +2.09% vs SMA200. |
-| Fresh setup quality | Watch | -3.94% from 52w high and near SMA20 — check for a tight base. |
+| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
+| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 16.00%, revenue growth 13.00%. |
 | Value attractiveness | Reasonable | Forward P/E 18.98, EV/Sales 5.95. |
-| Risk level | Moderate | Beta 0.29, ATR 2.0% of price, short float 2.53%. |
+| Risk level | Moderate | Beta 0.29, ATR nan% of price, short float 2.53%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate.
 
@@ -44,22 +44,22 @@ The Southern Company, through its subsidiaries, engages in the sale of electrici
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $93.65; 52w high $97.49 (-3.94%); 52w low $82.06 (+14.12%) |
-| Trend | +2.09% vs SMA200, +5.95% vs SMA50, +1.54% vs SMA20 |
-| Momentum | RSI(14) 61.3 (neutral) |
-| Volatility | ATR(14) 1.86 (~2.0% of price); beta 0.29 |
-| Setup perspective | -3.94% from 52w high and near SMA20 — check for a tight base. |
+| Price vs 52-week range | Close $nan; 52w high $97.49 (+nan%); 52w low $82.06 (+nan%) |
+| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
+| Momentum | RSI(14) 61.0 (neutral) |
+| Volatility | ATR(14) 1.87 (~nan% of price); beta 0.29 |
+| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -0.1% |
-| Month | +7.6% |
-| Quarter | +2.1% |
-| Half Y | +1.9% |
-| 1Y | +5.8% |
-| YTD | +10.1% |
+| Week | +nan% |
+| Month | +nan% |
+| Quarter | +nan% |
+| Half Y | +nan% |
+| 1Y | +nan% |
+| YTD | +nan% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -95,7 +95,6 @@ The Southern Company, through its subsidiaries, engages in the sale of electrici
 | Franklin Resources, Inc. | 16,561,908 | 1.42% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -110,14 +109,14 @@ The Southern Company, through its subsidiaries, engages in the sale of electrici
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $93.65 | EV/Sales | 5.95 |
+| Price | $nan | EV/Sales | 5.95 |
 | Market cap | $109.03B | EV/EBITDA | 12.60 |
 | Beta | 0.29 | Gross margin | 48.55% |
-| RSI(14) | 61.3 | Operating margin | 36.92% |
-| ATR(14) | 1.86 | Profit margin | 16.00% |
-| SMA20 dist | +1.54% | ROA | 3.36% |
-| SMA50 dist | +5.95% | ROE | 11.90% |
-| SMA200 dist | +2.09% | Revenue (ttm) | $31.20B |
+| RSI(14) | 61.0 | Operating margin | 36.92% |
+| ATR(14) | 1.87 | Profit margin | 16.00% |
+| SMA20 dist | +nan% | ROA | 3.36% |
+| SMA50 dist | +nan% | ROE | 11.90% |
+| SMA200 dist | +nan% | Revenue (ttm) | $31.20B |
 | 52W high | $97.49 | Revenue growth y/y | 13.00% |
 | 52W low | $82.06 | Inst. ownership | 73.53% |
 | P/E (ttm) | 21.38 | Insider ownership | 0.10% |

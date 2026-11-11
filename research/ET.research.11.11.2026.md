@@ -4,7 +4,7 @@ Signed file: `ET.research.11.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $19.43 (2026-11-11, ~15-min delayed) |
+| Current price | $nan (2026-11-11, ~15-min delayed) |
 | Market cap | $66.92B |
 | Sector / Industry | Energy / Oil & Gas Midstream |
 | Main theme | Oil & Gas Midstream — see catalysts below |
@@ -15,11 +15,11 @@ Signed file: `ET.research.11.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +26.72%; price +1.95% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -8.96% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
+| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 4.39%, revenue growth 85.90%. |
 | Value attractiveness | Reasonable | Forward P/E 11.06, EV/Sales 1.23. |
-| Risk level | Moderate | Beta 0.60, ATR 2.4% of price, short float 0.87%. |
+| Risk level | Moderate | Beta 0.60, ATR nan% of price, short float 0.87%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
@@ -44,22 +44,22 @@ Energy Transfer LP, together with its subsidiaries, provides energy-related serv
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $19.43; 52w high $21.34 (-8.96%); 52w low $15.11 (+28.60%) |
-| Trend | +1.95% vs SMA200, -3.67% vs SMA50, -1.53% vs SMA20 |
-| Momentum | RSI(14) 44.7 (neutral) |
-| Volatility | ATR(14) 0.46 (~2.4% of price); beta 0.60 |
-| Setup perspective | -8.96% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $nan; 52w high $21.34 (+nan%); 52w low $15.11 (+nan%) |
+| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
+| Momentum | RSI(14) 38.9 (neutral) |
+| Volatility | ATR(14) 0.45 (~nan% of price); beta 0.60 |
+| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -1.9% |
-| Month | -3.1% |
-| Quarter | -5.6% |
-| Half Y | +0.6% |
-| 1Y | +26.7% |
-| YTD | +25.7% |
+| Week | +nan% |
+| Month | +nan% |
+| Quarter | +nan% |
+| Half Y | +nan% |
+| 1Y | +nan% |
+| YTD | +nan% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -83,16 +83,16 @@ Energy Transfer LP, together with its subsidiaries, provides energy-related serv
 
 | Holder | Shares | % Out | Reported |
 |---|---|---|---|
+| Alps Advisors Inc. | 86,904,208 | 2.52% | 2026-06-30 |
 | Morgan Stanley | 85,614,431 | 2.49% | 2026-06-30 |
-| Alps Advisors Inc. | 84,776,083 | 2.46% | 2026-09-30 |
 | JPMORGAN CHASE & CO | 81,080,493 | 2.35% | 2026-06-30 |
 | Goldman Sachs Group Inc | 62,819,419 | 1.82% | 2026-06-30 |
-| Invesco Ltd. | 54,927,735 | 1.59% | 2026-06-30 |
+| Invesco Ltd. | 54,927,735 | 1.60% | 2026-06-30 |
 | Tortoise Capital Advisors, LLC | 37,997,055 | 1.10% | 2026-06-30 |
 | Blackstone Inc | 35,782,842 | 1.04% | 2026-06-30 |
 | UBS Group AG | 30,548,239 | 0.89% | 2026-06-30 |
 | Bank of America Corporation | 28,139,938 | 0.82% | 2026-06-30 |
-| Energy Income Partners, LLC | 25,654,536 | 0.74% | 2026-06-30 |
+| Energy Income Partners, LLC | 25,654,536 | 0.75% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
@@ -109,14 +109,14 @@ Energy Transfer LP, together with its subsidiaries, provides energy-related serv
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $19.43 | EV/Sales | 1.23 |
+| Price | $nan | EV/Sales | 1.23 |
 | Market cap | $66.92B | EV/EBITDA | 8.55 |
 | Beta | 0.60 | Gross margin | 15.84% |
-| RSI(14) | 44.7 | Operating margin | 7.50% |
-| ATR(14) | 0.46 | Profit margin | 4.39% |
-| SMA20 dist | -1.53% | ROA | 5.24% |
-| SMA50 dist | -3.67% | ROE | 15.57% |
-| SMA200 dist | +1.95% | Revenue (ttm) | $124.53B |
+| RSI(14) | 38.9 | Operating margin | 7.50% |
+| ATR(14) | 0.45 | Profit margin | 4.39% |
+| SMA20 dist | +nan% | ROA | 5.24% |
+| SMA50 dist | +nan% | ROE | 15.57% |
+| SMA200 dist | +nan% | Revenue (ttm) | $124.53B |
 | 52W high | $21.34 | Revenue growth y/y | 85.90% |
 | 52W low | $15.11 | Inst. ownership | 32.45% |
 | P/E (ttm) | 12.87 | Insider ownership | 10.29% |

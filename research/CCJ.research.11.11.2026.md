@@ -4,24 +4,24 @@ Signed file: `CCJ.research.11.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $72.87 (2026-11-11, ~15-min delayed) |
+| Current price | $nan (2026-11-11, ~15-min delayed) |
 | Market cap | $31.74B |
 | Sector / Industry | Energy / Uranium |
 | Main theme | Uranium — see catalysts below |
-| Current stance | Low technical momentum, mixed fundamentals, value: low (expensive), risk: high. |
+| Current stance | Moderate technical momentum, mixed fundamentals, value: low (expensive), risk: moderate. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-11.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-29.01%) with negative half-year (-37.68%). |
-| Fresh setup quality | Poor / broken | -45.66% from 52w high — base needs to rebuild. |
+| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
+| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 11.43%, revenue growth 0.70%. |
 | Value attractiveness | Low (expensive) | Forward P/E 42.53, EV/Sales 9.16. |
-| Risk level | High | Beta 1.13, ATR 5.2% of price, short float —. |
+| Risk level | Moderate | Beta 1.13, ATR nan% of price, short float —. |
 
-**Bottom line:** Low technical momentum, mixed fundamentals, value: low (expensive), risk: high.
+**Bottom line:** Moderate technical momentum, mixed fundamentals, value: low (expensive), risk: moderate.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -44,22 +44,22 @@ Cameco Corporation provides uranium for the generation of electricity in the Ame
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $72.87; 52w high $134.09 (-45.66%); 52w low $68.33 (+6.64%) |
-| Trend | -29.01% vs SMA200, -15.50% vs SMA50, -6.47% vs SMA20 |
-| Momentum | RSI(14) 38.6 (neutral) |
-| Volatility | ATR(14) 3.77 (~5.2% of price); beta 1.13 |
-| Setup perspective | -45.66% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $nan; 52w high $134.09 (+nan%); 52w low $68.33 (+nan%) |
+| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
+| Momentum | RSI(14) 41.9 (neutral) |
+| Volatility | ATR(14) 3.83 (~nan% of price); beta 1.13 |
+| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +0.4% |
-| Month | -15.4% |
-| Quarter | -26.4% |
-| Half Y | -37.7% |
-| 1Y | -20.9% |
-| YTD | -26.1% |
+| Week | +nan% |
+| Month | +nan% |
+| Quarter | +nan% |
+| Half Y | +nan% |
+| 1Y | +nan% |
+| YTD | +nan% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -69,7 +69,7 @@ Cameco Corporation provides uranium for the generation of electricity in the Ame
 | Profitability | Gross 33.83%, operating 9.23%, net 11.43% | ROA 2.79%, ROE 5.68% |
 | Balance sheet | Cash $859.82M, debt $1.01B | Current ratio 2.55, debt/equity 13.95 |
 | Valuation | P/E 110.41, forward P/E 42.53, P/S 9.12, P/B 6.16 | EV/Sales 9.16, EV/EBITDA 40.97 |
-| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $116.20 (9 analysts) |
+| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $116.14 (9 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
@@ -89,15 +89,13 @@ Cameco Corporation provides uranium for the generation of electricity in the Ame
 | Royal Bank of Canada | 10,910,330 | 2.51% | 2026-06-30 |
 | FIL LTD | 8,433,160 | 1.94% | 2026-06-30 |
 | FMR, LLC | 7,976,686 | 1.83% | 2026-06-30 |
-| Bank of Montreal /CAN/ | 7,903,994 | 1.81% | 2026-09-30 |
 | Van Eck Associates Corporation | 7,541,479 | 1.73% | 2026-06-30 |
+| Bank of Montreal /CAN/ | 7,363,367 | 1.69% | 2026-06-30 |
 | Bank of America Corporation | 7,220,673 | 1.66% | 2026-06-30 |
-| Geode Capital Management, LLC | 5,478,174 | 1.26% | 2026-09-30 |
+| Morgan Stanley | 5,211,568 | 1.20% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
 - **Valuation risk:** Forward P/E 42.53, EV/Sales 9.16. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 1.13, ATR 5.2% of price, short float —. Size positions accordingly.
-- **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -112,14 +110,14 @@ Cameco Corporation provides uranium for the generation of electricity in the Ame
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $72.87 | EV/Sales | 9.16 |
+| Price | $nan | EV/Sales | 9.16 |
 | Market cap | $31.74B | EV/EBITDA | 40.97 |
 | Beta | 1.13 | Gross margin | 33.83% |
-| RSI(14) | 38.6 | Operating margin | 9.23% |
-| ATR(14) | 3.77 | Profit margin | 11.43% |
-| SMA20 dist | -6.47% | ROA | 2.79% |
-| SMA50 dist | -15.50% | ROE | 5.68% |
-| SMA200 dist | -29.01% | Revenue (ttm) | $3.48B |
+| RSI(14) | 41.9 | Operating margin | 9.23% |
+| ATR(14) | 3.83 | Profit margin | 11.43% |
+| SMA20 dist | +nan% | ROA | 2.79% |
+| SMA50 dist | +nan% | ROE | 5.68% |
+| SMA200 dist | +nan% | Revenue (ttm) | $3.48B |
 | 52W high | $134.09 | Revenue growth y/y | 0.70% |
 | 52W low | $68.33 | Inst. ownership | 70.44% |
 | P/E (ttm) | 110.41 | Insider ownership | 0.14% |
@@ -141,7 +139,7 @@ Cameco Corporation provides uranium for the generation of electricity in the Ame
 | 2026-07-09 | main | B of A Securities | Buy → Buy |
 
 ## 9. Conclusion
-CCJ: Low momentum / mixed fundamentals / low (expensive) value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+CCJ: Moderate momentum / mixed fundamentals / low (expensive) value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

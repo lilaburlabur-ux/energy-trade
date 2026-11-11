@@ -4,7 +4,7 @@ Signed file: `ETR.research.11.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $111.71 (2026-11-11, ~15-min delayed) |
+| Current price | $nan (2026-11-11, ~15-min delayed) |
 | Market cap | $53.38B |
 | Sector / Industry | Utilities / Utilities - Regulated Electric |
 | Main theme | Utilities - Regulated Electric — see catalysts below |
@@ -15,11 +15,11 @@ Signed file: `ETR.research.11.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +17.80%; price +4.01% vs SMA200. |
-| Fresh setup quality | Watch | -4.25% from 52w high and near SMA20 — check for a tight base. |
+| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
+| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 14.56%, revenue growth 14.50%. |
 | Value attractiveness | Fair-to-demanding | Forward P/E 21.85, EV/Sales 6.01. |
-| Risk level | Moderate | Beta 0.43, ATR 1.9% of price, short float 3.97%. |
+| Risk level | Moderate | Beta 0.43, ATR nan% of price, short float 3.97%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: fair-to-demanding, risk: moderate.
 
@@ -44,22 +44,22 @@ Entergy Corporation, together with its subsidiaries, engages in the production a
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $111.71; 52w high $116.66 (-4.25%); 52w low $89.57 (+24.72%) |
-| Trend | +4.01% vs SMA200, +6.37% vs SMA50, +3.29% vs SMA20 |
-| Momentum | RSI(14) 65.9 (neutral) |
-| Volatility | ATR(14) 2.11 (~1.9% of price); beta 0.43 |
-| Setup perspective | -4.25% from 52w high and near SMA20 — check for a tight base. |
+| Price vs 52-week range | Close $nan; 52w high $116.66 (+nan%); 52w low $89.57 (+nan%) |
+| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
+| Momentum | RSI(14) 66.3 (neutral) |
+| Volatility | ATR(14) 2.15 (~nan% of price); beta 0.43 |
+| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +2.6% |
-| Month | +7.4% |
-| Quarter | +4.2% |
-| Half Y | -0.5% |
-| 1Y | +17.8% |
-| YTD | +21.2% |
+| Week | +nan% |
+| Month | +nan% |
+| Quarter | +nan% |
+| Half Y | +nan% |
+| 1Y | +nan% |
+| YTD | +nan% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -83,20 +83,19 @@ Entergy Corporation, together with its subsidiaries, engages in the production a
 
 | Holder | Shares | % Out | Reported |
 |---|---|---|---|
-| Blackrock Inc. | 42,324,362 | 8.86% | 2026-06-30 |
-| Vanguard Capital Management LLC | 30,538,725 | 6.39% | 2026-06-30 |
-| Vanguard Portfolio Management LLC | 26,857,755 | 5.62% | 2026-06-30 |
-| State Street Corporation | 25,587,118 | 5.35% | 2026-06-30 |
-| JPMORGAN CHASE & CO | 24,917,975 | 5.21% | 2026-06-30 |
-| Bank of America Corporation | 17,339,974 | 3.63% | 2026-06-30 |
-| Ameriprise Financial, Inc. | 14,077,782 | 2.95% | 2026-06-30 |
-| FMR, LLC | 13,241,867 | 2.77% | 2026-06-30 |
-| Geode Capital Management, LLC | 12,462,961 | 2.61% | 2026-09-30 |
-| Morgan Stanley | 9,808,504 | 2.05% | 2026-06-30 |
+| Blackrock Inc. | 42,324,362 | 9.07% | 2026-06-30 |
+| Vanguard Capital Management LLC | 30,538,725 | 6.54% | 2026-06-30 |
+| Vanguard Portfolio Management LLC | 26,857,755 | 5.76% | 2026-06-30 |
+| State Street Corporation | 25,587,118 | 5.48% | 2026-06-30 |
+| JPMORGAN CHASE & CO | 24,917,975 | 5.34% | 2026-06-30 |
+| Bank of America Corporation | 17,339,974 | 3.72% | 2026-06-30 |
+| Ameriprise Financial, Inc. | 14,077,782 | 3.02% | 2026-06-30 |
+| FMR, LLC | 13,241,867 | 2.84% | 2026-06-30 |
+| Geode Capital Management, LLC | 12,156,825 | 2.61% | 2026-06-30 |
+| Morgan Stanley | 9,808,504 | 2.10% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
 - **Valuation risk:** Forward P/E 21.85, EV/Sales 6.01. Multiple compression is the main downside if growth disappoints.
-- **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -111,14 +110,14 @@ Entergy Corporation, together with its subsidiaries, engages in the production a
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $111.71 | EV/Sales | 6.01 |
+| Price | $nan | EV/Sales | 6.01 |
 | Market cap | $53.38B | EV/EBITDA | 14.24 |
 | Beta | 0.43 | Gross margin | 47.93% |
-| RSI(14) | 65.9 | Operating margin | 34.20% |
-| ATR(14) | 2.11 | Profit margin | 14.56% |
-| SMA20 dist | +3.29% | ROA | 2.89% |
-| SMA50 dist | +6.37% | ROE | 11.02% |
-| SMA200 dist | +4.01% | Revenue (ttm) | $14.04B |
+| RSI(14) | 66.3 | Operating margin | 34.20% |
+| ATR(14) | 2.15 | Profit margin | 14.56% |
+| SMA20 dist | +nan% | ROA | 2.89% |
+| SMA50 dist | +nan% | ROE | 11.02% |
+| SMA200 dist | +nan% | Revenue (ttm) | $14.04B |
 | 52W high | $116.66 | Revenue growth y/y | 14.50% |
 | 52W low | $89.57 | Inst. ownership | 98.83% |
 | P/E (ttm) | 25.56 | Insider ownership | 0.22% |

@@ -4,24 +4,24 @@ Signed file: `EOG.research.11.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $151.51 (2026-11-11, ~15-min delayed) |
+| Current price | $nan (2026-11-11, ~15-min delayed) |
 | Market cap | $78.56B |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
-| Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated. |
+| Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-11.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +48.31%; price +10.67% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -8.48% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
+| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 28.06%, revenue growth 42.70%. |
 | Value attractiveness | Reasonable | Forward P/E 9.16, EV/Sales 2.78. |
-| Risk level | Elevated | Beta 0.27, ATR 3.1% of price, short float 3.70%. |
+| Risk level | Moderate | Beta 0.27, ATR nan% of price, short float 3.70%. |
 
-**Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated.
+**Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -44,22 +44,22 @@ EOG Resources, Inc., together with its subsidiaries, explores for, develops, pro
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $151.51; 52w high $165.54 (-8.48%); 52w low $98.64 (+53.60%) |
-| Trend | +10.67% vs SMA200, +1.74% vs SMA50, -2.96% vs SMA20 |
-| Momentum | RSI(14) 48.6 (neutral) |
-| Volatility | ATR(14) 4.72 (~3.1% of price); beta 0.27 |
-| Setup perspective | -8.48% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $nan; 52w high $165.54 (+nan%); 52w low $98.64 (+nan%) |
+| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
+| Momentum | RSI(14) 43.8 (neutral) |
+| Volatility | ATR(14) 4.53 (~nan% of price); beta 0.27 |
+| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -2.4% |
-| Month | +1.3% |
-| Quarter | +6.6% |
-| Half Y | +14.6% |
-| 1Y | +48.3% |
-| YTD | +45.7% |
+| Week | +nan% |
+| Month | +nan% |
+| Quarter | +nan% |
+| Half Y | +nan% |
+| 1Y | +nan% |
+| YTD | +nan% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -83,19 +83,18 @@ EOG Resources, Inc., together with its subsidiaries, explores for, develops, pro
 
 | Holder | Shares | % Out | Reported |
 |---|---|---|---|
-| Capital World Investors | 55,451,748 | 10.69% | 2026-06-30 |
-| Blackrock Inc. | 45,522,136 | 8.78% | 2026-06-30 |
-| Vanguard Capital Management LLC | 34,792,072 | 6.71% | 2026-06-30 |
-| State Street Corporation | 33,971,430 | 6.55% | 2026-06-30 |
-| JPMORGAN CHASE & CO | 28,230,286 | 5.44% | 2026-06-30 |
-| Capital Research Global Investors | 21,516,340 | 4.15% | 2026-06-30 |
-| Charles Schwab Investment Management, Inc. | 17,635,817 | 3.40% | 2026-06-30 |
-| Geode Capital Management, LLC | 13,475,471 | 2.60% | 2026-09-30 |
-| Vanguard Portfolio Management LLC | 13,406,956 | 2.59% | 2026-06-30 |
-| Ameriprise Financial, Inc. | 9,274,800 | 1.79% | 2026-06-30 |
+| Capital World Investors | 55,451,748 | 10.57% | 2026-06-30 |
+| Blackrock Inc. | 45,522,136 | 8.68% | 2026-06-30 |
+| Vanguard Capital Management LLC | 34,792,072 | 6.63% | 2026-06-30 |
+| State Street Corporation | 33,971,430 | 6.48% | 2026-06-30 |
+| JPMORGAN CHASE & CO | 28,230,286 | 5.38% | 2026-06-30 |
+| Capital Research Global Investors | 21,516,340 | 4.10% | 2026-06-30 |
+| Charles Schwab Investment Management, Inc. | 17,635,817 | 3.36% | 2026-06-30 |
+| Vanguard Portfolio Management LLC | 13,406,956 | 2.56% | 2026-06-30 |
+| Geode Capital Management, LLC | 12,704,111 | 2.42% | 2026-06-30 |
+| Ameriprise Financial, Inc. | 9,274,800 | 1.77% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 0.27, ATR 3.1% of price, short float 3.70%. Size positions accordingly.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -110,14 +109,14 @@ EOG Resources, Inc., together with its subsidiaries, explores for, develops, pro
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $151.51 | EV/Sales | 2.78 |
+| Price | $nan | EV/Sales | 2.78 |
 | Market cap | $78.56B | EV/EBITDA | 5.05 |
 | Beta | 0.27 | Gross margin | 62.98% |
-| RSI(14) | 48.6 | Operating margin | 40.84% |
-| ATR(14) | 4.72 | Profit margin | 28.06% |
-| SMA20 dist | -2.96% | ROA | 11.90% |
-| SMA50 dist | +1.74% | ROE | 25.83% |
-| SMA200 dist | +10.67% | Revenue (ttm) | $29.17B |
+| RSI(14) | 43.8 | Operating margin | 40.84% |
+| ATR(14) | 4.53 | Profit margin | 28.06% |
+| SMA20 dist | +nan% | ROA | 11.90% |
+| SMA50 dist | +nan% | ROE | 25.83% |
+| SMA200 dist | +nan% | Revenue (ttm) | $29.17B |
 | 52W high | $165.54 | Revenue growth y/y | 42.70% |
 | 52W low | $98.64 | Inst. ownership | 99.22% |
 | P/E (ttm) | 9.78 | Insider ownership | 0.29% |
@@ -139,7 +138,7 @@ EOG Resources, Inc., together with its subsidiaries, explores for, develops, pro
 | 2026-10-09 | main | UBS | Buy → Buy |
 
 ## 9. Conclusion
-EOG: Moderate momentum / strong fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+EOG: Moderate momentum / strong fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |
