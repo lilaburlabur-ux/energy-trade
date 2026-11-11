@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-11T07:05:40+00:00",
-  "as_of_local": "2026-11-11 07:05:40 UTC",
+  "as_of_utc": "2026-11-11T07:20:51+00:00",
+  "as_of_local": "2026-11-11 07:20:51 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -601,6 +601,12 @@
       "market_cap": 74786435436.66446,
       "headlines": [
         {
+          "title": "Zacks.com featured highlights include Stride, Ralph Lauren, Cardinal Health and Vertiv",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-com-featured-highlights-stride-061000612.html",
+          "publisher": "Zacks",
+          "published": "2026-11-11T06:10:00Z"
+        },
+        {
           "title": "GE Vernova Falls 4% as SoftBank\u2019s Ohio Data Center Undergoes \u201cA Thorough Reassessment\u201d",
           "url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-falls-4-softbank-211730358.html",
           "publisher": "TIKR",
@@ -611,12 +617,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/vertiv-holdings-co-vrt-secures-211107866.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-10T21:11:07Z"
-        },
-        {
-          "title": "Does Earnings Beat Change The Bull Case For Vertiv Holdings Co (VRT)?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/does-earnings-beat-change-bull-201034319.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-10T20:10:34Z"
         }
       ]
     },
@@ -937,6 +937,12 @@
       "market_cap": 49714209636.451584,
       "headlines": [
         {
+          "title": "Zacks.com featured highlights include Cinemark, Diamondback Energy and Omnicell",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-com-featured-highlights-cinemark-060300659.html",
+          "publisher": "Zacks",
+          "published": "2026-11-11T06:03:00Z"
+        },
+        {
           "title": "Diamondback Energy (FANG) Following Deep Blue Deal Has The Undervalued Case Changed",
           "url": "https://finance.yahoo.com/energy/articles/diamondback-energy-fang-following-deep-021610570.html",
           "publisher": "Simply Wall St.",
@@ -947,12 +953,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/buy-3-stocks-broker-rating-174100677.html",
           "publisher": "Zacks",
           "published": "2026-11-10T17:41:00Z"
-        },
-        {
-          "title": "Sector Update: Energy Stocks Fall Pre-Bell Tuesday",
-          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-fall-pre-141948947.html",
-          "publisher": "MT Newswires",
-          "published": "2026-11-10T14:19:48Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 86.47,
-      "change_pct": 0.5
+      "price": 86.3,
+      "change_pct": 0.3
     },
     {
       "label": "Brent",
-      "price": 92.29,
-      "change_pct": 0.87
+      "price": 92.14,
+      "change_pct": 0.71
     },
     {
       "label": "NatGas",
       "price": 3.3,
-      "change_pct": 0.21
+      "change_pct": 0.03
     }
   ]
 }
