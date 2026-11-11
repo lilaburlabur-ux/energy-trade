@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-11T01:17:17+00:00",
-  "as_of_local": "2026-11-11 01:17:17 UTC",
+  "as_of_utc": "2026-11-11T01:21:55+00:00",
+  "as_of_local": "2026-11-11 01:21:55 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "FLNC"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1855,6 +1853,34 @@
       ]
     },
     {
+      "symbol": "FLNC",
+      "name": "Fluence Energy",
+      "price": 5.4,
+      "previous_close": 5.27,
+      "change_pct": 2.47,
+      "market_cap": 702933217.08,
+      "headlines": [
+        {
+          "title": "Gevo, Inc. (GEVO) Q3 Earnings and Revenues Beat Estimates",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/gevo-inc-gevo-q3-earnings-214002018.html",
+          "publisher": "Zacks",
+          "published": "2026-11-10T21:40:02Z"
+        },
+        {
+          "title": "Hallador Energy (HNRG) Reports Break-Even Earnings for Q3",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/hallador-energy-hnrg-reports-break-223505693.html",
+          "publisher": "Zacks",
+          "published": "2026-11-09T22:35:05Z"
+        },
+        {
+          "title": "What The Bulls Got Wrong Before Fluence Energy Fell 77%",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bulls-got-wrong-fluence-energy-181531924.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-07T18:15:31Z"
+        }
+      ]
+    },
+    {
       "symbol": "EOSE",
       "name": "Eos Energy",
       "price": 1.88,
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 86.5,
-      "change_pct": -0.4
+      "price": 86.61,
+      "change_pct": -0.28
     },
     {
       "label": "Brent",
-      "price": 92.11,
-      "change_pct": -0.5
+      "price": 92.24,
+      "change_pct": -0.36
     },
     {
       "label": "NatGas",
       "price": 3.31,
-      "change_pct": 2.8
+      "change_pct": 2.95
     }
   ]
 }
