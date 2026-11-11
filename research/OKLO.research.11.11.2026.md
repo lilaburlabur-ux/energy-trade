@@ -18,7 +18,7 @@ Signed file: `OKLO.research.11.11.2026`
 | Technical momentum | Low | Below SMA200 (-49.53%) with negative half-year (-62.88%). |
 | Fresh setup quality | Poor / broken | -76.84% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 0.00%, revenue growth —. |
-| Value attractiveness | Reasonable | Forward P/E -22.59, EV/Sales 782.28. |
+| Value attractiveness | Reasonable | Forward P/E -22.66, EV/Sales 782.28. |
 | Risk level | High | Beta 1.31, ATR 9.2% of price, short float 21.88%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: high.
@@ -68,7 +68,7 @@ Oklo Inc. develops fission power plants to provide energy at scale to customers 
 | Revenue (ttm) | $3.07M | Revenue growth — y/y |
 | Profitability | Gross 41.06%, operating -8587.07%, net 0.00% | ROA -6.57%, ROE -6.79% |
 | Balance sheet | Cash $2.50B, debt $4.41M | Current ratio 31.20, debt/equity 0.12 |
-| Valuation | P/E —, forward P/E -22.59, P/S 1,644.48, P/B 1.38 | EV/Sales 782.28, EV/EBITDA -9.16 |
+| Valuation | P/E —, forward P/E -22.66, P/S 1,644.48, P/B 1.38 | EV/Sales 782.28, EV/EBITDA -9.16 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $55.57 (21 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -123,7 +123,7 @@ Oklo Inc. develops fission power plants to provide energy at scale to customers 
 | 52W high | $111.65 | Revenue growth y/y | — |
 | 52W low | $19.20 | Inst. ownership | 45.95% |
 | P/E (ttm) | — | Insider ownership | 14.58% |
-| Forward P/E | -22.59 | Short float | 21.88% |
+| Forward P/E | -22.66 | Short float | 21.88% |
 | PEG (trailing) | — | Avg volume | 10,134,226 |
 | P/S | 1,644.48 | Employees | 215 |
 | P/B | 1.38 | Analyst rec (1=buy..5=sell) | 2.1 |

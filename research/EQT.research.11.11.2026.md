@@ -15,8 +15,8 @@ Signed file: `EQT.research.11.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-4.47%) with negative half-year (-5.19%). |
-| Fresh setup quality | Moderate / wait | -21.72% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-4.48%) with negative half-year (-5.20%). |
+| Fresh setup quality | Moderate / wait | -21.73% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 29.01%, revenue growth -8.10%. |
 | Value attractiveness | Reasonable | Forward P/E 15.27, EV/Sales 4.54. |
 | Risk level | Elevated | Beta 0.67, ATR 3.4% of price, short float 4.45%. |
@@ -44,11 +44,11 @@ EQT Corporation engages in the exploration, production, gathering, and transmiss
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $52.69; 52w high $67.32 (-21.72%); 52w low $48.41 (+8.86%) |
-| Trend | -4.47% vs SMA200, +0.06% vs SMA50, -1.64% vs SMA20 |
+| Price vs 52-week range | Close $52.69; 52w high $67.32 (-21.73%); 52w low $48.41 (+8.85%) |
+| Trend | -4.48% vs SMA200, +0.05% vs SMA50, -1.65% vs SMA20 |
 | Momentum | RSI(14) 49.4 (neutral) |
 | Volatility | ATR(14) 1.79 (~3.4% of price); beta 0.67 |
-| Setup perspective | -21.72% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -21.73% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
@@ -115,9 +115,9 @@ EQT Corporation engages in the exploration, production, gathering, and transmiss
 | Beta | 0.67 | Gross margin | 80.40% |
 | RSI(14) | 49.4 | Operating margin | 45.15% |
 | ATR(14) | 1.79 | Profit margin | 29.01% |
-| SMA20 dist | -1.64% | ROA | 6.25% |
-| SMA50 dist | +0.06% | ROE | 10.49% |
-| SMA200 dist | -4.47% | Revenue (ttm) | $9.15B |
+| SMA20 dist | -1.65% | ROA | 6.25% |
+| SMA50 dist | +0.05% | ROE | 10.49% |
+| SMA200 dist | -4.48% | Revenue (ttm) | $9.15B |
 | 52W high | $67.32 | Revenue growth y/y | -8.10% |
 | 52W low | $48.41 | Inst. ownership | 95.76% |
 | P/E (ttm) | 12.49 | Insider ownership | 0.88% |
