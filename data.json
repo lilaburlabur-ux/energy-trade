@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-11T22:58:53+00:00",
-  "as_of_local": "2026-11-11 22:58:53 UTC",
+  "as_of_utc": "2026-11-11T23:04:03+00:00",
+  "as_of_local": "2026-11-11 23:04:03 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "LEU"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1681,34 +1683,6 @@
           "url": "https://finance.yahoo.com/energy/articles/uranium-energy-corp-secures-long-114830022.html",
           "publisher": "InvestorsHub",
           "published": "2026-11-05T11:48:30Z"
-        }
-      ]
-    },
-    {
-      "symbol": "LEU",
-      "name": "Centrus Energy",
-      "price": 112.17,
-      "previous_close": 109.87,
-      "change_pct": 2.09,
-      "market_cap": 2312771498.7464905,
-      "headlines": [
-        {
-          "title": "Centrus' Backlog Hit $5.4 Billion. Its Quarterly Revenue Was $55 Million. Here's How Those Numbers Fit Together.",
-          "url": "https://finance.yahoo.com/energy/articles/centrus-backlog-hit-5-4-220500056.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-11T22:05:00Z"
-        },
-        {
-          "title": "UUUU Q3 Earnings Miss on Investment Losses, Uranium Sales Rise",
-          "url": "https://finance.yahoo.com/energy/articles/uuuu-q3-earnings-miss-investment-142200932.html",
-          "publisher": "Zacks",
-          "published": "2026-11-09T14:22:00Z"
-        },
-        {
-          "title": "The top 5 analyst questions from Centrus Energy\u2019s Q3 2026 earnings call",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-centrus-033336527.html",
-          "publisher": "StockStory",
-          "published": "2026-11-09T03:33:36Z"
         }
       ]
     },
