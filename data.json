@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-11T12:55:09+00:00",
-  "as_of_local": "2026-11-11 12:55:09 UTC",
+  "as_of_utc": "2026-11-11T13:00:14+00:00",
+  "as_of_local": "2026-11-11 13:00:14 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -69,6 +69,12 @@
       "market_cap": 275339665846.27484,
       "headlines": [
         {
+          "title": "Kraken Parent Payward Brings 200 UK and EU Stocks Onchain as xStocks",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/kraken-parent-payward-brings-200-124624805.html",
+          "publisher": "decrypt",
+          "published": "2026-11-11T12:46:24Z"
+        },
+        {
           "title": "Did First Half Earnings Just Shift DCC Energy (LSE:DCC) Investment Narrative?",
           "url": "https://finance.yahoo.com/energy/articles/did-first-half-earnings-just-211158837.html",
           "publisher": "Simply Wall St.",
@@ -79,12 +85,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/3-british-undervalued-stocks-trading-191024463.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-10T19:10:24Z"
-        },
-        {
-          "title": "FTSE 100 edges down as falling oil weigh on energy majors amid hot U.S. CPI",
-          "url": "https://finance.yahoo.com/markets/world-indices/articles/ftse-100-climbs-sinking-crude-091048234.html",
-          "publisher": "Investing.com",
-          "published": "2026-11-10T09:10:48Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 87.38,
-      "change_pct": 1.56
+      "price": 87.27,
+      "change_pct": 1.43
     },
     {
       "label": "Brent",
-      "price": 93.45,
-      "change_pct": 2.14
+      "price": 93.29,
+      "change_pct": 1.97
     },
     {
       "label": "NatGas",
-      "price": 3.32,
-      "change_pct": 0.64
+      "price": 3.33,
+      "change_pct": 0.94
     }
   ]
 }
