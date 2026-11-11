@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-11T14:23:05+00:00",
-  "as_of_local": "2026-11-11 14:23:05 UTC",
+  "as_of_utc": "2026-11-11T14:28:01+00:00",
+  "as_of_local": "2026-11-11 14:28:01 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "BE"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -871,6 +869,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/national-fuel-gas-paid-dividend-204712533.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-10T20:47:12Z"
+        }
+      ]
+    },
+    {
+      "symbol": "BE",
+      "name": "Bloom Energy",
+      "price": 185.42,
+      "previous_close": 193.88,
+      "change_pct": -4.36,
+      "market_cap": 54798510234.99519,
+      "headlines": [
+        {
+          "title": "Why You Should Think About Bloom Energy Differently Now",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-think-bloom-energy-differently-132822114.html",
+          "publisher": "Trefis",
+          "published": "2026-11-11T13:28:22Z"
+        },
+        {
+          "title": "10 Stocks Rode Trump Era \u2014 What Happens As MAGA 'Disintegrates'?",
+          "url": "https://www.investors.com/etfs-and-funds/sectors/sp500-stocks-rode-trump-era-what-happens-as-maga-disintegrates/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-11-11T13:00:00Z"
+        },
+        {
+          "title": "AI Villain Turns Hero but Stock Market Chaos Is Just Getting Started",
+          "url": "https://www.barrons.com/articles/stock-market-things-to-know-today-d180c193?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-11-11T12:36:00Z"
         }
       ]
     },
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 87.15,
-      "change_pct": 1.29
+      "price": 87.1,
+      "change_pct": 1.23
     },
     {
       "label": "Brent",
-      "price": 92.72,
-      "change_pct": 1.34
+      "price": 92.73,
+      "change_pct": 1.36
     },
     {
       "label": "NatGas",
       "price": 3.37,
-      "change_pct": 2.15
+      "change_pct": 2.28
     }
   ]
 }
