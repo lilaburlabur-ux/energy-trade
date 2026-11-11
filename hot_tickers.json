@@ -1,75 +1,10 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-11T01:28:49+00:00",
+  "as_of": "2026-11-11T05:26:40+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": [
-  {
-   "rank": 1,
-   "ticker": "LEU",
-   "company": "Centrus Energy Corp.",
-   "move_pct": 12.18,
-   "price": 117.34,
-   "volume": 707675,
-   "volume_vs_avg": "~0.8x",
-   "heat_score": 72,
-   "direction": "up",
-   "why": "A new director brings nearly 30 years in nuclear technology to Centrus Energy",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOR3gtY3p6bTl2bmktbmUyRWZrajhmMU5xN3ZyR1Y1M1Q2Mm1TempqdURnaWhEOXZaWTIwOVc3OXhkQnlfVG9xMW5IQWItRUVxc0Y0Y3R3U0RQdFhyWHlMUFNlMXBTU0ViZ1BpTlQ1eGo1Z2JfbmZMZW1ObG1wMDBPZHlhYXl5cGlNOU9pVjlWcmp0OUZBZVFvLXVfcUtPVEtfYUhpZw?oc=5",
-   "published": "2026-11-10T21:49:00+00:00",
-   "sector": "Nuclear & Uranium"
-  },
-  {
-   "rank": 2,
-   "ticker": "PWR",
-   "company": "Quanta Services, Inc.",
-   "move_pct": 9.35,
-   "price": 591.48,
-   "volume": 1049818,
-   "volume_vs_avg": "~0.7x",
-   "heat_score": 61,
-   "direction": "up",
-   "why": "Quanta Services (PWR) Stock May Be Fully Priced On Its 392% Run",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMUt1WTcySllHUFQ3UVk3WXV0UWxrOEJ3bUJpX3NTdU5FUTJVM1pKZFJma19YUXlsYXZzckV1N0VYajZBbE1vRFloTnZreHowdDB4UDE3ZHZXOGFFbkVmZ1JHUC1tRUkxTkhQaklQV1AxV3QzZFltazhTWjlraC14ZUd0eUVqN3V1VFJGZjJmb2lEcGY5UlI5ZVRB?oc=5",
-   "published": "2026-11-10T23:14:47+00:00",
-   "sector": "Grid, Storage & Electrification"
-  },
-  {
-   "rank": 3,
-   "ticker": "GEV",
-   "company": "GE Vernova Inc.",
-   "move_pct": 7.13,
-   "price": 829.34,
-   "volume": 6215725,
-   "volume_vs_avg": "~2x",
-   "heat_score": 49,
-   "direction": "up",
-   "why": "GE Vernova's Backlog Hit $197 Billion and the Stock Fell Anyway. Here's What a $10,000 Investment Could Be Worth by 2030.",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWC1iQnlEVUN4WGx0aTlrY193N3psYW5KejhFUURmM0FtOW5XOUV5QjZEVmNybkpXYUZSQ0t1Z0JYVFdsaEZPRlM4SV9iWGNCRW5ua3JzUm1Jb0RuU2ptZk5vX2QxcDFSSUE5V0RmeXE4QXdmNURDejM5dDNrMGdKNEtpb2hPaWRfcUxkWkJZeFkwYk90R2Fr?oc=5",
-   "published": "2026-11-10T23:30:00+00:00",
-   "sector": "Grid, Storage & Electrification"
-  },
-  {
-   "rank": 4,
-   "ticker": "ETN",
-   "company": "Eaton Corporation, PLC",
-   "move_pct": 5.14,
-   "price": 359.3,
-   "volume": 2378941,
-   "volume_vs_avg": "~0.8x",
-   "heat_score": 37,
-   "direction": "up",
-   "why": "How Has Eaton\u2019s Story Changed?",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMzlyaXpKckNXLWh2aHM1MDN6NVJqeHZqUUZ6ZWZhbjUxbnhWWG11NUliMWprUEFBOVNZVVZTSXRPWndHTWJpWTlwWWZOVllKNW1wbTMwcHFkbW5YcHI0N19sWWsxamliWE0wSFR4aUVRUS05MEVEQWJMQ19CTEgzZFFHOHhYUDhCd1VkTjk0NzBJQQ?oc=5",
-   "published": "2026-11-10T21:44:28+00:00",
-   "sector": "Grid, Storage & Electrification"
-  }
- ]
+ "hot_tickers": []
 }
