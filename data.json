@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-11T23:49:41+00:00",
-  "as_of_local": "2026-11-11 23:49:41 UTC",
+  "as_of_utc": "2026-11-11T23:54:32+00:00",
+  "as_of_local": "2026-11-11 23:54:32 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "TLN"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -778,7 +780,7 @@
           "title": "Dow Jones Futures: Techs Tumble Late As Nvidia May Oust CEO Huang; AI Stocks Slide, But Not AMD",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-coreweave-sandisk-nvidia-amd-nebius-bloom/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
-          "published": "2026-11-11T23:28:21Z"
+          "published": "2026-11-11T23:48:55Z"
         },
         {
           "title": "What\u2019s Propelling Bloom Energy\u2019s (BE) 13% Run?",
@@ -1345,34 +1347,6 @@
           "url": "https://finance.yahoo.com/energy/articles/ovintiv-q3-earnings-call-highlights-231409890.html",
           "publisher": "MarketBeat",
           "published": "2026-11-07T23:14:09Z"
-        }
-      ]
-    },
-    {
-      "symbol": "TLN",
-      "name": "Talen Energy",
-      "price": 378.71,
-      "previous_close": 361.18,
-      "change_pct": 4.85,
-      "market_cap": 16475896335.770508,
-      "headlines": [
-        {
-          "title": "Sector Update: Energy Stocks Higher Late Afternoon",
-          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-higher-afternoon-205545591.html",
-          "publisher": "MT Newswires",
-          "published": "2026-11-11T20:55:45Z"
-        },
-        {
-          "title": "Sector Update: Energy Stocks Rise Wednesday Afternoon",
-          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-rise-wednesday-183855251.html",
-          "publisher": "MT Newswires",
-          "published": "2026-11-11T18:38:55Z"
-        },
-        {
-          "title": "OKLO Stock After Q3 Earnings: Buy, Sell or Hold for Now?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/oklo-stock-q3-earnings-buy-162900487.html",
-          "publisher": "Zacks",
-          "published": "2026-11-11T16:29:00Z"
         }
       ]
     },
@@ -2120,13 +2094,13 @@
     },
     {
       "label": "Brent",
-      "price": 92.43,
-      "change_pct": 1.03
+      "price": 92.45,
+      "change_pct": 1.05
     },
     {
       "label": "NatGas",
-      "price": 3.24,
-      "change_pct": -1.58
+      "price": 3.25,
+      "change_pct": -1.52
     }
   ]
 }
