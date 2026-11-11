@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-11T11:28:53+00:00",
-  "as_of_local": "2026-11-11 11:28:53 UTC",
+  "as_of_utc": "2026-11-11T11:33:54+00:00",
+  "as_of_local": "2026-11-11 11:33:54 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "FTI"
+    "HAL"
   ],
   "stocks": [
     {
@@ -1127,30 +1127,30 @@
       ]
     },
     {
-      "symbol": "HAL",
-      "name": "Halliburton",
-      "price": 31.86,
-      "previous_close": 31.88,
-      "change_pct": -0.06,
-      "market_cap": 26352245760.957855,
+      "symbol": "FTI",
+      "name": "TechnipFMC",
+      "price": 64.55,
+      "previous_close": 63.98,
+      "change_pct": 0.89,
+      "market_cap": 25099193670.9252,
       "headlines": [
         {
-          "title": "Are Wall Street Analysts Bullish on Halliburton Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-halliburton-094239612.html",
-          "publisher": "Barchart",
-          "published": "2026-11-09T09:42:39Z"
+          "title": "What State Street SPDR S&P MidCap 400 ETF (MDY) Sold: TechnipFMC Leads on Friday",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/state-street-spdr-p-midcap-110557710.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-10T11:05:57Z"
+        },
+        {
+          "title": "3 Reasons Growth Investors Will Love FMC Technologies (FTI)",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-growth-investors-love-164502450.html",
+          "publisher": "Zacks",
+          "published": "2026-11-06T16:45:02Z"
         },
         {
           "title": "Why Is Baker Hughes Stock Falling?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-baker-hughes-stock-falling-141921435.html",
           "publisher": "Trefis",
           "published": "2026-11-06T14:19:21Z"
-        },
-        {
-          "title": "CLB Q3 Earnings Miss Estimates on Higher Costs and Disruptions",
-          "url": "https://finance.yahoo.com/energy/articles/clb-q3-earnings-miss-estimates-155400926.html",
-          "publisher": "Zacks",
-          "published": "2026-11-03T15:54:00Z"
         }
       ]
     },
@@ -1331,6 +1331,12 @@
       "market_cap": 15713248269.517578,
       "headlines": [
         {
+          "title": "Can Talen Energy (TLN) Still Look Cheap After Its Huge Run?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/talen-energy-tln-still-look-111342154.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-11T11:13:42Z"
+        },
+        {
           "title": "Constellation and Vistra Get the Headlines. These 2 Power Producers Barely Get Mentioned.",
           "url": "https://finance.yahoo.com/energy/articles/constellation-vistra-headlines-2-power-170500740.html",
           "publisher": "Motley Fool",
@@ -1341,12 +1347,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/nrg-soars-10-4-billion-221526956.html",
           "publisher": "TIKR",
           "published": "2026-11-09T22:15:26Z"
-        },
-        {
-          "title": "Shortage of Turbines Drives Market for Second-Hand Market for AI Data Centers",
-          "url": "https://finance.yahoo.com/energy/articles/shortage-turbines-drives-market-second-164700628.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-09T16:47:00Z"
         }
       ]
     },
@@ -2089,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 86.68,
-      "change_pct": 0.74
+      "price": 86.69,
+      "change_pct": 0.76
     },
     {
       "label": "Brent",
-      "price": 92.89,
-      "change_pct": 1.53
+      "price": 92.8,
+      "change_pct": 1.43
     },
     {
       "label": "NatGas",
-      "price": 3.31,
-      "change_pct": 0.55
+      "price": 3.32,
+      "change_pct": 0.58
     }
   ]
 }
