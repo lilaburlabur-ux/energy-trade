@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-11T09:37:22+00:00",
-  "as_of_local": "2026-11-11 09:37:22 UTC",
+  "as_of_utc": "2026-11-11T09:42:28+00:00",
+  "as_of_local": "2026-11-11 09:42:28 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "D"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -16,13 +14,13 @@
       "headlines": [
         {
           "title": "Oil giant Exxon plots Venezuela return ahead of Democrat crackdown",
-          "url": "https://finance.yahoo.com/news/oil-giant-exxon-plots-venezuela-083000426.html",
+          "url": "https://finance.yahoo.com/energy/articles/oil-giant-exxon-plots-venezuela-083000530.html",
           "publisher": "The Telegraph",
           "published": "2026-11-11T08:30:00Z"
         },
         {
           "title": "Oil giant Exxon plots Venezuela return ahead of Democrat crackdown",
-          "url": "https://finance.yahoo.com/energy/articles/oil-giant-exxon-plots-venezuela-083000530.html",
+          "url": "https://finance.yahoo.com/news/oil-giant-exxon-plots-venezuela-083000426.html",
           "publisher": "The Telegraph",
           "published": "2026-11-11T08:30:00Z"
         },
@@ -731,6 +729,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/targa-resources-corp-q3-2026-230235227.html",
           "publisher": "Moby",
           "published": "2026-11-05T23:02:35Z"
+        }
+      ]
+    },
+    {
+      "symbol": "D",
+      "name": "Dominion Energy",
+      "price": 68.37,
+      "previous_close": 68.24,
+      "change_pct": 0.19,
+      "market_cap": 60135935168.660385,
+      "headlines": [
+        {
+          "title": "AI Boom Fuels Southern Company's Data Center Power Usage Growth",
+          "url": "https://finance.yahoo.com/energy/articles/ai-boom-fuels-southern-companys-181500524.html",
+          "publisher": "Zacks",
+          "published": "2026-11-10T18:15:00Z"
+        },
+        {
+          "title": "What Are Wall Street Analysts' Target Price for Dominion Energy Stock?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-081055170.html",
+          "publisher": "Barchart",
+          "published": "2026-11-10T08:10:55Z"
+        },
+        {
+          "title": "People Pay the Power Bill Before Almost Anything Else. $45,000 in Each of These 3 Utilities Pays $5,915 a Year",
+          "url": "https://finance.yahoo.com/news/people-pay-power-bill-almost-221425733.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-09T22:14:25Z"
         }
       ]
     },
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 86.73,
-      "change_pct": 0.8
+      "price": 86.93,
+      "change_pct": 1.03
     },
     {
       "label": "Brent",
-      "price": 92.6,
-      "change_pct": 1.21
+      "price": 92.88,
+      "change_pct": 1.52
     },
     {
       "label": "NatGas",
-      "price": 3.33,
-      "change_pct": 0.88
+      "price": 3.32,
+      "change_pct": 0.79
     }
   ]
 }
