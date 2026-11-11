@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-11T11:54:15+00:00",
-  "as_of_local": "2026-11-11 11:54:15 UTC",
+  "as_of_utc": "2026-11-11T11:59:21+00:00",
+  "as_of_local": "2026-11-11 11:59:21 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "PWR"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -16,13 +14,13 @@
       "headlines": [
         {
           "title": "Oil giant Exxon plots Venezuela return ahead of Democrat crackdown",
-          "url": "https://finance.yahoo.com/news/oil-giant-exxon-plots-venezuela-083000426.html",
+          "url": "https://finance.yahoo.com/energy/articles/oil-giant-exxon-plots-venezuela-083000530.html",
           "publisher": "The Telegraph",
           "published": "2026-11-11T08:30:00Z"
         },
         {
           "title": "Oil giant Exxon plots Venezuela return ahead of Democrat crackdown",
-          "url": "https://finance.yahoo.com/energy/articles/oil-giant-exxon-plots-venezuela-083000530.html",
+          "url": "https://finance.yahoo.com/news/oil-giant-exxon-plots-venezuela-083000426.html",
           "publisher": "The Telegraph",
           "published": "2026-11-11T08:30:00Z"
         },
@@ -451,6 +449,34 @@
           "url": "https://finance.yahoo.com/energy/articles/america-6-7-years-untapped-022949127.html",
           "publisher": "Benzinga",
           "published": "2026-11-11T02:29:49Z"
+        }
+      ]
+    },
+    {
+      "symbol": "PWR",
+      "name": "Quanta Services",
+      "price": 583.14,
+      "previous_close": 591.48,
+      "change_pct": -1.41,
+      "market_cap": 87865872542.48474,
+      "headlines": [
+        {
+          "title": "The Zacks Analyst Blog Highlights Quanta, BrightSpring Health, Phillips 66, Valero Energy and HF Sinclair",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-quanta-064100733.html",
+          "publisher": "Zacks",
+          "published": "2026-11-11T06:41:00Z"
+        },
+        {
+          "title": "Zacks.com featured highlights include Arista, Western Digital and Quanta",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-com-featured-highlights-arista-054500099.html",
+          "publisher": "Zacks",
+          "published": "2026-11-11T05:45:00Z"
+        },
+        {
+          "title": "Quanta Services (PWR) Stock May Be Fully Priced On Its 392% Run",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/quanta-services-pwr-stock-may-231447008.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-10T23:14:47Z"
         }
       ]
     },
@@ -1163,6 +1189,12 @@
       "market_cap": 23130650424.121246,
       "headlines": [
         {
+          "title": "GEV, VRT, HUBB In Focus \u2014 JPMorgan Sees Potential AI Stock Rebound, But Remains Cautious On Electrical Equipment Sector",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/gev-vrt-hubb-focus-jpmorgan-115118357.html",
+          "publisher": "Stocktwits",
+          "published": "2026-11-11T11:51:18Z"
+        },
+        {
           "title": "Ingersoll Rand Vs Hubbell: Which Stock Is The Better Buy?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/ingersoll-rand-vs-hubbell-stock-014004146.html",
           "publisher": "Trefis",
@@ -1173,12 +1205,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/eatons-story-changed-214508489.html",
           "publisher": "Trefis",
           "published": "2026-11-10T21:45:08Z"
-        },
-        {
-          "title": "Hubbell: 3 Key Takeaways for Long-Term Investors",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/hubbell-3-key-takeaways-long-232002420.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-08T23:20:02Z"
         }
       ]
     },
@@ -2094,13 +2120,8 @@
     },
     {
       "label": "Brent",
-      "price": 92.82,
-      "change_pct": 1.45
-    },
-    {
-      "label": "NatGas",
-      "price": 3.33,
-      "change_pct": 0.97
+      "price": 92.78,
+      "change_pct": 1.41
     }
   ]
 }
