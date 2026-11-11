@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-11T23:19:06+00:00",
-  "as_of_local": "2026-11-11 23:19:06 UTC",
+  "as_of_utc": "2026-11-11T23:24:03+00:00",
+  "as_of_local": "2026-11-11 23:24:03 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "CEG"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -425,34 +427,6 @@
       ]
     },
     {
-      "symbol": "CEG",
-      "name": "Constellation Energy",
-      "price": 274.73,
-      "previous_close": 267.76,
-      "change_pct": 2.6,
-      "market_cap": 96597408166.8064,
-      "headlines": [
-        {
-          "title": "Constellation Energy\u2019s Dividend Is Small. AI Power Demand Could Change That",
-          "url": "https://finance.yahoo.com/energy/articles/constellation-energy-dividend-small-ai-181715518.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-11T18:17:15Z"
-        },
-        {
-          "title": "Constellation pursues hybrid capacity contracts alongside nuclear uprates",
-          "url": "https://finance.yahoo.com/energy/articles/constellation-pursues-hybrid-capacity-contracts-170719654.html",
-          "publisher": "Utility Dive",
-          "published": "2026-11-11T17:07:19Z"
-        },
-        {
-          "title": "Constellation Has Done Something \u2018Unseen\u2019 in the Power Industry, CEO Says",
-          "url": "https://finance.yahoo.com/energy/articles/constellation-done-something-unseen-power-120014364.html",
-          "publisher": "Benzinga",
-          "published": "2026-11-11T12:00:14Z"
-        }
-      ]
-    },
-    {
       "symbol": "PWR",
       "name": "Quanta Services",
       "price": 607.94,
@@ -775,16 +749,16 @@
           "published": "2026-11-11T18:53:58Z"
         },
         {
-          "title": "Bloom Energy Just Jumped 13% After CoreWeave Calmed AI Data Center Fears. History Says What Usually Comes Next for a Stock That Halved",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-just-jumped-13-230713604.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-11T23:07:13Z"
-        },
-        {
           "title": "Dow Jones Futures: Techs Tumble Late As Nvidia May Oust CEO Huang; AI Stocks Slide, But Not AMD",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-coreweave-sandisk-nvidia-amd-nebius-bloom/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
           "published": "2026-11-11T23:15:52Z"
+        },
+        {
+          "title": "Bloom Energy Just Jumped 13% After CoreWeave Calmed AI Data Center Fears. History Says What Usually Comes Next for a Stock That Halved",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-just-jumped-13-230713604.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-11T23:07:13Z"
         }
       ]
     },
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 86.34,
-      "change_pct": 0.35
+      "price": 86.25,
+      "change_pct": 0.24
     },
     {
       "label": "Brent",
-      "price": 92.51,
-      "change_pct": 1.11
+      "price": 92.4,
+      "change_pct": 0.99
     },
     {
       "label": "NatGas",
       "price": 3.24,
-      "change_pct": -1.73
+      "change_pct": -1.64
     }
   ]
 }
