@@ -1,7 +1,7 @@
 {
  "meta": {
   "source": "Energy Trade curated universe (seed_energy_universe.py)",
-  "as_of": "2026-11-11 13:35 UTC",
+  "as_of": "2026-11-11 13:40 UTC",
   "total_tickers": 67,
   "min_bubble_size": 7,
   "render_spec": {
@@ -599,7 +599,7 @@
       178.08
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
-     "fwd_eps": 21.73
+     "fwd_eps": 21.82
     },
     {
      "ticker": "DVN",
@@ -650,7 +650,7 @@
       43.41
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
-     "fwd_eps": 5.26
+     "fwd_eps": 5.22
     },
     {
      "ticker": "EQT",
@@ -752,7 +752,7 @@
       21.72
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
-     "fwd_eps": 2.86
+     "fwd_eps": 2.58
     },
     {
      "ticker": "OVV",
@@ -1660,8 +1660,8 @@
    "label": "Refining & Downstream",
    "color": "#B65D32",
    "count": 4,
-   "total_market_cap_b": 332.6,
-   "avg_change_pct": 0.12,
+   "total_market_cap_b": 331.1,
+   "avg_change_pct": -0.87,
    "industries_included": [
     "Oil & Gas Refining & Marketing"
    ],
@@ -1723,50 +1723,50 @@
      "sector": "Energy",
      "industry": "Oil & Gas Refining & Marketing",
      "country": "United States",
-     "market_cap_b": 101.98,
-     "pe": 8.11,
-     "price": 356.17,
-     "change_pct": 1.56,
+     "market_cap_b": 100.42,
+     "pe": 7.98,
+     "price": 350.71,
+     "change_pct": -1.69,
      "volume": 3210000,
      "perf": {
-      "1W": -6.5,
-      "1M": -17.8,
-      "1Y": 101.4
+      "1W": -9.5,
+      "1M": -19.6,
+      "1Y": 98.0
      },
      "spark": [
-      350.05,
-      341.51,
-      346.0,
-      348.03,
-      352.36,
-      361.99,
-      370.69,
-      382.85,
-      385.43,
-      382.95,
-      403.28,
-      413.28,
-      377.14,
-      382.86,
-      389.57,
-      387.61,
-      406.3,
-      419.22,
-      443.8,
-      436.0,
-      459.78,
-      444.71,
-      433.42,
-      426.28,
-      426.76,
-      388.48,
-      399.66,
-      387.65,
-      351.23,
-      356.75
+      346.26,
+      348.86,
+      340.41,
+      346.59,
+      358.92,
+      366.09,
+      370.72,
+      388.95,
+      390.42,
+      397.04,
+      412.53,
+      393.27,
+      375.84,
+      387.18,
+      387.72,
+      408.46,
+      419.33,
+      424.1,
+      433.75,
+      456.46,
+      444.06,
+      433.31,
+      436.75,
+      419.28,
+      387.34,
+      384.57,
+      381.46,
+      365.34,
+      346.45,
+      350.71
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
-     "fwd_eps": 54.42
+     "fwd_eps": 53.49
     },
     {
      "ticker": "PSX",
@@ -1871,7 +1871,7 @@
      "fwd_eps": 17.85
     }
    ],
-   "median_change_pct": -0.5,
+   "median_change_pct": -0.96,
    "pe_hm": 7.7
   },
   {
