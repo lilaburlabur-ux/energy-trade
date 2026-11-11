@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-11T21:27:52+00:00",
-  "as_of_local": "2026-11-11 21:27:52 UTC",
+  "as_of_utc": "2026-11-11T21:32:47+00:00",
+  "as_of_local": "2026-11-11 21:32:47 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -209,6 +209,12 @@
       "market_cap": 140100868103.02734,
       "headlines": [
         {
+          "title": "How Many Stocks Have Matched Parker Hannifin's Winning Streak?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/many-stocks-matched-parker-hannifins-211006463.html",
+          "publisher": "Trefis",
+          "published": "2026-11-11T21:10:06Z"
+        },
+        {
           "title": "Eaton (ETN) Stock May Look Reasonable Following Raised Full Year Guidance",
           "url": "https://finance.yahoo.com/markets/stocks/articles/eaton-etn-stock-may-look-171429202.html",
           "publisher": "Simply Wall St.",
@@ -219,12 +225,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/fps-declines-42-month-time-170800439.html",
           "publisher": "Zacks",
           "published": "2026-11-11T17:08:00Z"
-        },
-        {
-          "title": "Eaton (ETN) Covered Its Dividend in a Lean Year. Why Does Jim Cramer Trust It?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/eaton-etn-covered-dividend-lean-161719931.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-11-11T16:17:19Z"
         }
       ]
     },
@@ -775,16 +775,16 @@
           "published": "2026-11-11T18:53:58Z"
         },
         {
+          "title": "Dow Jones Futures: CoreWeave, Sandisk, Nvidia, AMD, Nebius Lead Bullish Market Move",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-coreweave-sandisk-nvidia-amd-nebius-bloom/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-11-11T21:22:08Z"
+        },
+        {
           "title": "Here's Why Bloom Energy Stock Popped Today",
           "url": "https://finance.yahoo.com/markets/stocks/articles/heres-why-bloom-energy-stock-165252291.html",
           "publisher": "Motley Fool",
           "published": "2026-11-11T16:52:52Z"
-        },
-        {
-          "title": "FuelCell Energy Advances AI Data Center Power With New Testbed",
-          "url": "https://finance.yahoo.com/energy/articles/fuelcell-energy-advances-ai-data-160000000.html",
-          "publisher": "Zacks",
-          "published": "2026-11-11T16:00:00Z"
         }
       ]
     },
@@ -1659,10 +1659,10 @@
     {
       "symbol": "UEC",
       "name": "Uranium Energy Corp",
-      "price": 7.24,
+      "price": 7.23,
       "previous_close": 7.17,
-      "change_pct": 0.98,
-      "market_cap": 3588032861.169672,
+      "change_pct": 0.84,
+      "market_cap": 3583077137.4025273,
       "headlines": [
         {
           "title": "Purepoint Uranium CEO explains why rising uranium prices aren't lifting stocks",
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 86.36,
-      "change_pct": 0.37
+      "price": 86.39,
+      "change_pct": 0.41
     },
     {
       "label": "Brent",
-      "price": 92.51,
-      "change_pct": 1.11
+      "price": 92.53,
+      "change_pct": 1.14
     },
     {
       "label": "NatGas",
       "price": 3.25,
-      "change_pct": -1.52
+      "change_pct": -1.43
     }
   ]
 }
