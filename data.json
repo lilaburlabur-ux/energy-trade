@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-11T05:33:41+00:00",
-  "as_of_local": "2026-11-11 05:33:41 UTC",
+  "as_of_utc": "2026-11-11T05:45:09+00:00",
+  "as_of_local": "2026-11-11 05:45:09 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "SMR"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -771,6 +769,12 @@
       "market_cap": 59931804725.68115,
       "headlines": [
         {
+          "title": "Cheniere Energy (LNG) Locks In New Debt As Its LNG Growth Story Keeps Valuation In Focus",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/cheniere-energy-lng-locks-debt-052030510.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-11T05:20:30Z"
+        },
+        {
           "title": "Has Cheniere Energy (LNG) Priced In Its Stronger Cash Flow Outlook?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/cheniere-energy-lng-priced-stronger-021521231.html",
           "publisher": "Simply Wall St.",
@@ -781,12 +785,6 @@
           "url": "https://finance.yahoo.com/energy/articles/4-energy-stocks-watch-qatarenergy-181900396.html",
           "publisher": "Zacks",
           "published": "2026-11-10T18:19:00Z"
-        },
-        {
-          "title": "TC Energy Approves $2B Pipeline Expansion to Tap Growing Gas Demand",
-          "url": "https://finance.yahoo.com/energy/articles/tc-energy-approves-2b-pipeline-181100309.html",
-          "publisher": "Zacks",
-          "published": "2026-11-10T18:11:00Z"
         }
       ]
     },
@@ -1715,6 +1713,34 @@
       ]
     },
     {
+      "symbol": "SMR",
+      "name": "NuScale Power",
+      "price": 5.22,
+      "previous_close": 5.44,
+      "change_pct": -4.04,
+      "market_cap": 2143025980.104988,
+      "headlines": [
+        {
+          "title": "GE Vernova Falls 4% as SoftBank\u2019s Ohio Data Center Undergoes \u201cA Thorough Reassessment\u201d",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-falls-4-softbank-211730358.html",
+          "publisher": "TIKR",
+          "published": "2026-11-10T21:17:30Z"
+        },
+        {
+          "title": "Oklo Soars 14% in a Week on a Narrower Loss and a Deal for 27 Reactors\u2019 Worth of Forgings",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/oklo-soars-14-week-narrower-132928173.html",
+          "publisher": "TIKR",
+          "published": "2026-11-10T13:29:28Z"
+        },
+        {
+          "title": "NuScale Is Still Down 61% in 2026: Did Today Mark the Bottom for SMR Stock?",
+          "url": "https://finance.yahoo.com/news/nuscale-still-down-61-2026-200226711.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-09T20:02:26Z"
+        }
+      ]
+    },
+    {
       "symbol": "RUN",
       "name": "Sunrun",
       "price": 8.71,
@@ -2094,13 +2120,13 @@
     },
     {
       "label": "Brent",
-      "price": 92.26,
-      "change_pct": 0.84
+      "price": 92.28,
+      "change_pct": 0.86
     },
     {
       "label": "NatGas",
-      "price": 3.29,
-      "change_pct": -0.06
+      "price": 3.28,
+      "change_pct": -0.42
     }
   ]
 }
