@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-11T14:07:55+00:00",
-  "as_of_local": "2026-11-11 14:07:55 UTC",
+  "as_of_utc": "2026-11-11T14:12:53+00:00",
+  "as_of_local": "2026-11-11 14:12:53 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "DVN"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -959,6 +957,34 @@
       ]
     },
     {
+      "symbol": "DVN",
+      "name": "Devon Energy",
+      "price": 43.41,
+      "previous_close": 42.4,
+      "change_pct": 2.38,
+      "market_cap": 49474998023.1934,
+      "headlines": [
+        {
+          "title": "Devon Energy Q3 Earnings Call Highlights Permian Focus and Buybacks",
+          "url": "https://finance.yahoo.com/energy/articles/devon-energy-q3-earnings-call-194500617.html",
+          "publisher": "Zacks",
+          "published": "2026-11-10T19:45:00Z"
+        },
+        {
+          "title": "Is Crescent Energy's Royalty Business Its Next Big Growth Engine?",
+          "url": "https://finance.yahoo.com/energy/articles/crescent-energys-royalty-business-next-181300051.html",
+          "publisher": "Zacks",
+          "published": "2026-11-10T18:13:00Z"
+        },
+        {
+          "title": "Devon Energy (DVN) Loses 13.4% in 4 Weeks, Here's Why a Trend Reversal May be Around the Corner",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/devon-energy-dvn-loses-13-133501348.html",
+          "publisher": "Zacks",
+          "published": "2026-11-10T13:35:01Z"
+        }
+      ]
+    },
+    {
       "symbol": "BKR",
       "name": "Baker Hughes",
       "price": 47.77,
@@ -1583,6 +1609,12 @@
       "market_cap": 4899815918.168827,
       "headlines": [
         {
+          "title": "Oklo stock rises after DOE clears reactor for full operations",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/oklo-stock-rises-doe-clears-140125847.html",
+          "publisher": "Investing.com",
+          "published": "2026-11-11T14:01:25Z"
+        },
+        {
           "title": "Oklo Receives DOE Clearance for Groves-1 Reactor Research, Testing and Training Operations",
           "url": "https://finance.yahoo.com/energy/articles/oklo-receives-doe-clearance-groves-134509098.html",
           "publisher": "InvestorsHub",
@@ -1593,12 +1625,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-falls-4-softbank-211730358.html",
           "publisher": "TIKR",
           "published": "2026-11-10T21:17:30Z"
-        },
-        {
-          "title": "These Nuclear Energy Stocks Are Top Of The Class For November 2026",
-          "url": "https://finance.yahoo.com/energy/articles/nuclear-energy-stocks-top-class-171641594.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-10T17:16:41Z"
         }
       ]
     },
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 86.91,
-      "change_pct": 1.01
+      "price": 87.16,
+      "change_pct": 1.3
     },
     {
       "label": "Brent",
-      "price": 92.39,
-      "change_pct": 0.98
+      "price": 92.73,
+      "change_pct": 1.36
     },
     {
       "label": "NatGas",
       "price": 3.36,
-      "change_pct": 1.94
+      "change_pct": 2.0
     }
   ]
 }
