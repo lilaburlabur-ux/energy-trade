@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-11T08:36:29+00:00",
-  "as_of_local": "2026-11-11 08:36:29 UTC",
+  "as_of_utc": "2026-11-11T08:41:41+00:00",
+  "as_of_local": "2026-11-11 08:41:41 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -13,6 +13,12 @@
       "market_cap": 670909720344.1996,
       "headlines": [
         {
+          "title": "Oil giant Exxon plots Venezuela return ahead of Democrat crackdown",
+          "url": "https://finance.yahoo.com/news/oil-giant-exxon-plots-venezuela-083000426.html",
+          "publisher": "The Telegraph",
+          "published": "2026-11-11T08:30:00Z"
+        },
+        {
           "title": "A Venezuelan Billionaire Just Shared The Details Behind Trump\u2019s \u201cBiggest Oil Deal In World History.\u201d Here\u2019s What It Means For A 68 Year Old With A $2.4M Portfolio Heavily Invested In Energy Stocks",
           "url": "https://finance.yahoo.com/energy/articles/venezuelan-billionaire-just-shared-details-024347613.html",
           "publisher": "24/7 Wall St.",
@@ -23,12 +29,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/treasuries-now-offer-2-66-191754570.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-10T19:17:54Z"
-        },
-        {
-          "title": "Oil Prices Just Fell to Their Lowest Since August as Trump Says the Iran War Is \u2018Effectively Over\u2019",
-          "url": "https://finance.yahoo.com/energy/articles/oil-prices-just-fell-lowest-183453938.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-10T18:34:53Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 86.13,
-      "change_pct": 0.1
+      "price": 86.22,
+      "change_pct": 0.21
     },
     {
       "label": "Brent",
-      "price": 91.79,
-      "change_pct": 0.33
+      "price": 91.92,
+      "change_pct": 0.47
     },
     {
       "label": "NatGas",
-      "price": 3.31,
-      "change_pct": 0.49
+      "price": 3.33,
+      "change_pct": 0.91
     }
   ]
 }
