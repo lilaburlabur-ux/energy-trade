@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-11T23:08:57+00:00",
-  "as_of_local": "2026-11-11 23:08:57 UTC",
+  "as_of_utc": "2026-11-11T23:13:54+00:00",
+  "as_of_local": "2026-11-11 23:13:54 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "PR"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1267,6 +1265,34 @@
       ]
     },
     {
+      "symbol": "PR",
+      "name": "Permian Resources",
+      "price": 22.32,
+      "previous_close": 21.72,
+      "change_pct": 2.76,
+      "market_cap": 18720359555.4012,
+      "headlines": [
+        {
+          "title": "The Oil Slump Has Gone Too Far. Where Prices Could Go Next.",
+          "url": "https://www.barrons.com/articles/oil-prices-stocks-fall-where-they-could-go-next-0162a3c2?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-11-09T10:55:00Z"
+        },
+        {
+          "title": "The top 5 analyst questions from Permian Resources\u2019s Q3 2026 earnings call",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-permian-220536252.html",
+          "publisher": "StockStory",
+          "published": "2026-11-08T22:05:36Z"
+        },
+        {
+          "title": "Permian Resources Q3 Earnings Call Highlights",
+          "url": "https://finance.yahoo.com/energy/articles/permian-resources-q3-earnings-call-051413053.html",
+          "publisher": "MarketBeat",
+          "published": "2026-11-08T05:14:13Z"
+        }
+      ]
+    },
+    {
       "symbol": "DINO",
       "name": "HF Sinclair",
       "price": 101.73,
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 86.42,
-      "change_pct": 0.44
+      "price": 86.4,
+      "change_pct": 0.42
     },
     {
       "label": "Brent",
-      "price": 92.63,
-      "change_pct": 1.25
+      "price": 92.5,
+      "change_pct": 1.1
     },
     {
       "label": "NatGas",
       "price": 3.24,
-      "change_pct": -1.55
+      "change_pct": -1.79
     }
   ]
 }
