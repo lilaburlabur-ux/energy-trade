@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-11T19:32:09+00:00",
+  "as_of": "2026-11-11T19:47:36+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,11 +11,11 @@
    "rank": 1,
    "ticker": "BE",
    "company": "Bloom Energy Corporation",
-   "move_pct": 14.24,
-   "price": 211.83,
-   "volume": 14446661,
+   "move_pct": 14.36,
+   "price": 212.04,
+   "volume": 14634303,
    "volume_vs_avg": "~0.9x",
-   "heat_score": 79,
+   "heat_score": 80,
    "direction": "up",
    "why": "Bloom Energy surges, helping to erase much of this week\u2019s AI jitters",
    "catalyst_type": "momentum_narrative",
@@ -25,19 +25,19 @@
   },
   {
    "rank": 2,
-   "ticker": "VRT",
-   "company": "Vertiv Holdings, LLC",
-   "move_pct": 7.62,
-   "price": 209.02,
-   "volume": 4843764,
-   "volume_vs_avg": "~0.7x",
-   "heat_score": 45,
+   "ticker": "TLN",
+   "company": "Talen Energy Corporation",
+   "move_pct": 5.11,
+   "price": 379.64,
+   "volume": 602171,
+   "volume_vs_avg": "~0.5x",
+   "heat_score": 35,
    "direction": "up",
-   "why": "Vertiv Stocks Climb 6.9% as AI Data Center Rebound Lifts Power and Cooling Supplier",
+   "why": "Talen Energy Corporation (TLN) Stock Forecasts",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9Fbk4tY3ktaDkxZkRPWFVWYWtPZ2JpSHdoa0NsdGU5bnlLN0RWTHZDaUVhdmJEclhPdHdXNWtCOHhUdXVLWE1GcmZ6Y01BdmdWSUZVY295bERjOHFmQnVpbGg2c0ItSFpFXzVwNGY1RWhBQXhFUi1PRVZUTE0?oc=5",
-   "published": "2026-11-11T18:54:08+00:00",
-   "sector": "Grid, Storage & Electrification"
+   "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNW5fdzFiR3VaQmYwa2FZUng3SnV3Z2VvZnE5UDZ6UmFsbnJqU1o5RmVucjB6STd6Qzd1MFdBMFlablRBcTdCVTBkTDUtVlo2ZFJ0NXpPS0tQSjNGVkNXUG1YaXBwWTdxM01DSTkwamlvdEhwQm5CQXU5eEVZZThUalJwbFZ1Rk1Ta2NLQUh1VQ?oc=5",
+   "published": "2026-11-11T18:57:38+00:00",
+   "sector": "Power & IPPs"
   }
  ]
 }
