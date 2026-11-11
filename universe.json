@@ -1,7 +1,7 @@
 {
  "meta": {
   "source": "Energy Trade curated universe (seed_energy_universe.py)",
-  "as_of": "2026-11-11 21:33 UTC",
+  "as_of": "2026-11-11 21:37 UTC",
   "total_tickers": 67,
   "min_bubble_size": 7,
   "render_spec": {
@@ -176,7 +176,7 @@
       97.86
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
-     "fwd_eps": 11.22
+     "fwd_eps": 10.91
     },
     {
      "ticker": "TTE",
@@ -752,7 +752,7 @@
       22.32
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
-     "fwd_eps": 2.58
+     "fwd_eps": 2.86
     },
     {
      "ticker": "OVV",
@@ -3104,8 +3104,8 @@
      "country": "United States",
      "market_cap_b": 0.57,
      "pe": null,
-     "price": 1.98,
-     "change_pct": 13.82,
+     "price": 1.99,
+     "change_pct": 14.37,
      "volume": 25614734,
      "perf": {
       "1W": -7.0,
@@ -3526,10 +3526,10 @@
      "sector": "Utilities",
      "industry": "Utilities - Independent Power Producers",
      "country": "United States",
-     "market_cap_b": 17.96,
+     "market_cap_b": 18.35,
      "pe": null,
-     "price": 370.7,
-     "change_pct": 2.64,
+     "price": 378.71,
+     "change_pct": 4.85,
      "volume": 945889,
      "perf": {
       "1W": 15.9,
