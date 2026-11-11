@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-11T14:02:53+00:00",
-  "as_of_local": "2026-11-11 14:02:53 UTC",
+  "as_of_utc": "2026-11-11T14:07:55+00:00",
+  "as_of_local": "2026-11-11 14:07:55 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "ETN"
+    "DVN"
   ],
   "stocks": [
     {
@@ -16,13 +16,13 @@
       "headlines": [
         {
           "title": "Oil giant Exxon plots Venezuela return ahead of Democrat crackdown",
-          "url": "https://finance.yahoo.com/energy/articles/oil-giant-exxon-plots-venezuela-083000530.html",
+          "url": "https://finance.yahoo.com/news/oil-giant-exxon-plots-venezuela-083000426.html",
           "publisher": "The Telegraph",
           "published": "2026-11-11T08:30:00Z"
         },
         {
           "title": "Oil giant Exxon plots Venezuela return ahead of Democrat crackdown",
-          "url": "https://finance.yahoo.com/news/oil-giant-exxon-plots-venezuela-083000426.html",
+          "url": "https://finance.yahoo.com/energy/articles/oil-giant-exxon-plots-venezuela-083000530.html",
           "publisher": "The Telegraph",
           "published": "2026-11-11T08:30:00Z"
         },
@@ -199,6 +199,34 @@
           "url": "https://finance.yahoo.com/energy/articles/energy-stock-just-raised-dividend-003004663.html",
           "publisher": "Barchart",
           "published": "2026-11-11T00:30:04Z"
+        }
+      ]
+    },
+    {
+      "symbol": "ETN",
+      "name": "Eaton",
+      "price": 354.22,
+      "previous_close": 358.2,
+      "change_pct": -1.11,
+      "market_cap": 137614470474.24316,
+      "headlines": [
+        {
+          "title": "Hyperscalers Are Projected to Spend $1.3 Trillion on Capex in 2027. Here's the 1 Industrial Stock That Gets Paid Before a Single AI Token Is Sold.",
+          "url": "https://finance.yahoo.com/technology/ai/articles/hyperscalers-projected-spend-1-3-232500610.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-10T23:25:00Z"
+        },
+        {
+          "title": "How Has Eaton's Story Changed?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/eatons-story-changed-214508489.html",
+          "publisher": "Trefis",
+          "published": "2026-11-10T21:45:08Z"
+        },
+        {
+          "title": "Which Dates Could Move Honeywell Stock Most?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/dates-could-move-honeywell-stock-131130919.html",
+          "publisher": "Trefis",
+          "published": "2026-11-10T13:11:30Z"
         }
       ]
     },
@@ -931,34 +959,6 @@
       ]
     },
     {
-      "symbol": "DVN",
-      "name": "Devon Energy",
-      "price": 43.41,
-      "previous_close": 42.4,
-      "change_pct": 2.38,
-      "market_cap": 49474998023.1934,
-      "headlines": [
-        {
-          "title": "Devon Energy Q3 Earnings Call Highlights Permian Focus and Buybacks",
-          "url": "https://finance.yahoo.com/energy/articles/devon-energy-q3-earnings-call-194500617.html",
-          "publisher": "Zacks",
-          "published": "2026-11-10T19:45:00Z"
-        },
-        {
-          "title": "Is Crescent Energy's Royalty Business Its Next Big Growth Engine?",
-          "url": "https://finance.yahoo.com/energy/articles/crescent-energys-royalty-business-next-181300051.html",
-          "publisher": "Zacks",
-          "published": "2026-11-10T18:13:00Z"
-        },
-        {
-          "title": "Devon Energy (DVN) Loses 13.4% in 4 Weeks, Here's Why a Trend Reversal May be Around the Corner",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/devon-energy-dvn-loses-13-133501348.html",
-          "publisher": "Zacks",
-          "published": "2026-11-10T13:35:01Z"
-        }
-      ]
-    },
-    {
       "symbol": "BKR",
       "name": "Baker Hughes",
       "price": 47.77,
@@ -1583,6 +1583,12 @@
       "market_cap": 4899815918.168827,
       "headlines": [
         {
+          "title": "Oklo Receives DOE Clearance for Groves-1 Reactor Research, Testing and Training Operations",
+          "url": "https://finance.yahoo.com/energy/articles/oklo-receives-doe-clearance-groves-134509098.html",
+          "publisher": "InvestorsHub",
+          "published": "2026-11-11T13:45:09Z"
+        },
+        {
           "title": "GE Vernova Falls 4% as SoftBank\u2019s Ohio Data Center Undergoes \u201cA Thorough Reassessment\u201d",
           "url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-falls-4-softbank-211730358.html",
           "publisher": "TIKR",
@@ -1593,12 +1599,6 @@
           "url": "https://finance.yahoo.com/energy/articles/nuclear-energy-stocks-top-class-171641594.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-10T17:16:41Z"
-        },
-        {
-          "title": "Oklo Soars 14% in a Week on a Narrower Loss and a Deal for 27 Reactors\u2019 Worth of Forgings",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/oklo-soars-14-week-narrower-132928173.html",
-          "publisher": "TIKR",
-          "published": "2026-11-10T13:29:28Z"
         }
       ]
     },
@@ -2089,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 87.32,
-      "change_pct": 1.49
+      "price": 86.91,
+      "change_pct": 1.01
     },
     {
       "label": "Brent",
-      "price": 92.76,
-      "change_pct": 1.39
+      "price": 92.39,
+      "change_pct": 0.98
     },
     {
       "label": "NatGas",
-      "price": 3.35,
-      "change_pct": 1.7
+      "price": 3.36,
+      "change_pct": 1.94
     }
   ]
 }
