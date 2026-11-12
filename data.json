@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-12T21:05:19+00:00",
-  "as_of_local": "2026-11-12 21:05:19 UTC",
+  "as_of_utc": "2026-11-12T21:10:13+00:00",
+  "as_of_local": "2026-11-12 21:10:13 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -69,6 +69,12 @@
       "market_cap": 278807619339.1215,
       "headlines": [
         {
+          "title": "5 Stocks Analysts Are Downgrading Right Now",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/5-stocks-analysts-downgrading-now-205623990.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-11-12T20:56:23Z"
+        },
+        {
           "title": "Chevron Q3 Earnings Surge on Strong Refining: Is the Stock a Buy Now?",
           "url": "https://finance.yahoo.com/energy/articles/chevron-q3-earnings-surge-strong-123000894.html",
           "publisher": "Zacks",
@@ -79,12 +85,6 @@
           "url": "https://finance.yahoo.com/energy/articles/exxon-chevron-shell-just-reported-033500434.html",
           "publisher": "Motley Fool",
           "published": "2026-11-12T03:35:00Z"
-        },
-        {
-          "title": "3 British Value Stocks To Watch In November 2026",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-british-value-stocks-watch-211218659.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-11T21:12:18Z"
         }
       ]
     },
@@ -287,10 +287,10 @@
     {
       "symbol": "SO",
       "name": "Southern Company",
-      "price": 92.46,
+      "price": 92.45,
       "previous_close": 93.84,
-      "change_pct": -1.47,
-      "market_cap": 107647573675.42719,
+      "change_pct": -1.48,
+      "market_cap": 107635928578.00731,
       "headlines": [
         {
           "title": "What Changed In PG&E's Story?",
@@ -399,10 +399,10 @@
     {
       "symbol": "DUK",
       "name": "Duke Energy",
-      "price": 128.6,
+      "price": 128.58,
       "previous_close": 128.77,
-      "change_pct": -0.14,
-      "market_cap": 100266589404.50735,
+      "change_pct": -0.15,
+      "market_cap": 100254894255.94853,
       "headlines": [
         {
           "title": "What Changed In PG&E's Story?",
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 88.94,
-      "change_pct": 2.79
+      "price": 88.93,
+      "change_pct": 2.77
     },
     {
       "label": "Brent",
-      "price": 96.1,
-      "change_pct": 3.6
+      "price": 96.09,
+      "change_pct": 3.59
     },
     {
       "label": "NatGas",
       "price": 3.34,
-      "change_pct": 3.76
+      "change_pct": 3.86
     }
   ]
 }
