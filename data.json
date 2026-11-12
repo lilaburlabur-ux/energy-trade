@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-12T08:59:43+00:00",
-  "as_of_local": "2026-11-12 08:59:43 UTC",
+  "as_of_utc": "2026-11-12T09:04:47+00:00",
+  "as_of_local": "2026-11-12 09:04:47 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "ETR"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -899,6 +897,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-kinder-morgans-chairman-just-213000215.html",
           "publisher": "MarketBeat",
           "published": "2026-11-10T21:30:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "ETR",
+      "name": "Entergy",
+      "price": 111.99,
+      "previous_close": 111.71,
+      "change_pct": 0.25,
+      "market_cap": 53511858260.041145,
+      "headlines": [
+        {
+          "title": "All You Need to Know About Entergy (ETR) Rating Upgrade to Buy",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/know-entergy-etr-rating-upgrade-194326125.html",
+          "publisher": "Zacks",
+          "published": "2026-11-10T19:43:26Z"
+        },
+        {
+          "title": "Learn Why The Bull Case For Entergy Stock Could Change Following Rate Plan Extension",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/learn-why-bull-case-entergy-141050356.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-10T14:10:50Z"
+        },
+        {
+          "title": "Entergy (ETR) Tests Valuation After Earnings And Dividend Raise",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/entergy-etr-tests-valuation-earnings-131035840.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-10T13:10:35Z"
         }
       ]
     },
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 86.78,
-      "change_pct": 0.29
+      "price": 86.69,
+      "change_pct": 0.18
     },
     {
       "label": "Brent",
-      "price": 93.06,
-      "change_pct": 0.32
+      "price": 92.92,
+      "change_pct": 0.17
     },
     {
       "label": "NatGas",
       "price": 3.28,
-      "change_pct": 1.99
+      "change_pct": 2.12
     }
   ]
 }
