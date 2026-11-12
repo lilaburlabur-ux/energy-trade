@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-12T23:16:47+00:00",
-  "as_of_local": "2026-11-12 23:16:47 UTC",
+  "as_of_utc": "2026-11-12T23:21:50+00:00",
+  "as_of_local": "2026-11-12 23:21:50 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "VST"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -21,16 +19,16 @@
           "published": "2026-11-12T22:47:00Z"
         },
         {
+          "title": "Exxon, Partners to Invest in Guyana\u2019s Offshore Gas",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-12-2026/card/exxon-partners-to-invest-in-guyana-s-offshore-gas-feLgErlGBTar002y9lsO?siteid=yhoof2&yptr=yahoo",
+          "publisher": "The Wall Street Journal",
+          "published": "2026-11-12T22:30:02Z"
+        },
+        {
           "title": "Trump Says \u201cWe Don\u2019t Need a Deal With Iran.\u201d Good News for Exxon and Chevron",
           "url": "https://finance.yahoo.com/energy/articles/trump-says-don-t-deal-221959902.html",
           "publisher": "TIKR",
           "published": "2026-11-12T22:19:59Z"
-        },
-        {
-          "title": "ExxonMobil Holdings (XOM) Moves Into Arkansas Lithium With A New Smackover Bet",
-          "url": "https://finance.yahoo.com/energy/articles/exxonmobil-holdings-xom-moves-arkansas-191043984.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-12T19:10:43Z"
         }
       ]
     },
@@ -43,6 +41,12 @@
       "market_cap": 422153746875.60736,
       "headlines": [
         {
+          "title": "Exxon, Partners to Invest in Guyana\u2019s Offshore Gas",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-12-2026/card/exxon-partners-to-invest-in-guyana-s-offshore-gas-feLgErlGBTar002y9lsO?siteid=yhoof2&yptr=yahoo",
+          "publisher": "The Wall Street Journal",
+          "published": "2026-11-12T22:30:02Z"
+        },
+        {
           "title": "Trump Says \u201cWe Don\u2019t Need a Deal With Iran.\u201d Good News for Exxon and Chevron",
           "url": "https://finance.yahoo.com/energy/articles/trump-says-don-t-deal-221959902.html",
           "publisher": "TIKR",
@@ -53,12 +57,6 @@
           "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-rise-pre-142639076.html",
           "publisher": "MT Newswires",
           "published": "2026-11-12T14:26:39Z"
-        },
-        {
-          "title": "Oil Price is Still High: Boon for ExxonMobil's Upstream Business?",
-          "url": "https://finance.yahoo.com/energy/articles/oil-price-still-high-boon-140900676.html",
-          "publisher": "Zacks",
-          "published": "2026-11-12T14:09:00Z"
         }
       ]
     },
@@ -1011,6 +1009,34 @@
           "url": "https://finance.yahoo.com/energy/articles/does-baker-hughes-bkr-winning-031556444.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-11T03:15:56Z"
+        }
+      ]
+    },
+    {
+      "symbol": "VST",
+      "name": "Vistra",
+      "price": 134.51,
+      "previous_close": 133.45,
+      "change_pct": 0.79,
+      "market_cap": 45651976945.979324,
+      "headlines": [
+        {
+          "title": "Do You Like Cash? Consider Vistra Stock",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/cash-consider-vistra-stock-211551348.html",
+          "publisher": "Trefis",
+          "published": "2026-11-12T21:15:51Z"
+        },
+        {
+          "title": "Constellation Energy Soars 13% in a Week on a Guidance Raise: \u201cA Platform Heretofore Unseen\u201d",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/constellation-energy-soars-13-week-163534126.html",
+          "publisher": "TIKR",
+          "published": "2026-11-12T16:35:34Z"
+        },
+        {
+          "title": "Is Constellation Energy Stock Increasing Your Market Risk?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/constellation-energy-stock-increasing-market-155951118.html",
+          "publisher": "Trefis",
+          "published": "2026-11-12T15:59:51Z"
         }
       ]
     },
@@ -2089,8 +2115,8 @@
     },
     {
       "label": "WTI",
-      "price": 88.9,
-      "change_pct": 2.74
+      "price": 88.82,
+      "change_pct": 2.65
     },
     {
       "label": "Brent",
@@ -2100,7 +2126,7 @@
     {
       "label": "NatGas",
       "price": 3.36,
-      "change_pct": 4.45
+      "change_pct": 4.39
     }
   ]
 }
