@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-12T12:46:58+00:00",
-  "as_of_local": "2026-11-12 12:46:58 UTC",
+  "as_of_utc": "2026-11-12T12:52:01+00:00",
+  "as_of_local": "2026-11-12 12:52:01 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "GEV"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -87,6 +85,34 @@
           "url": "https://finance.yahoo.com/markets/crypto/articles/kraken-parent-payward-brings-200-124624805.html",
           "publisher": "decrypt",
           "published": "2026-11-11T12:46:24Z"
+        }
+      ]
+    },
+    {
+      "symbol": "GEV",
+      "name": "GE Vernova",
+      "price": 808.24,
+      "previous_close": 797.04,
+      "change_pct": 1.41,
+      "market_cap": 213922589239.10303,
+      "headlines": [
+        {
+          "title": "Energy Transition Update - Holu Hou Energy Revolutionizes MDU Solar Adoption",
+          "url": "https://finance.yahoo.com/energy/articles/energy-transition-holu-hou-energy-113732760.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-12T11:37:32Z"
+        },
+        {
+          "title": "What Happened To NuScale Power Stock Over The Past Year?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/happened-nuscale-power-stock-over-011843055.html",
+          "publisher": "Trefis",
+          "published": "2026-11-12T01:18:43Z"
+        },
+        {
+          "title": "GE Vernova\u2019s Ontario Nuclear Plant Is Facing Delays And Rising Costs",
+          "url": "https://finance.yahoo.com/energy/articles/ge-vernova-ontario-nuclear-plant-232639767.html",
+          "publisher": "Stocktwits",
+          "published": "2026-11-11T23:26:39Z"
         }
       ]
     },
@@ -746,7 +772,7 @@
           "title": "Dow Jones Futures: Techs Fall As Nvidia Board Mulls Ousting CEO Jensen Huang; CoreWeave Rival Nebius Dives On Results",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-coreweave-sandisk-nvidia-amd-nebius-bloom/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
-          "published": "2026-11-12T12:39:05Z"
+          "published": "2026-11-12T12:46:59Z"
         },
         {
           "title": "BE Stock Clocked Best Single-Day Gain Since July As CoreWeave Flags AI\u2019s Power Crunch \u2013 But Retail Traders Warn Of A 'Fast Fix'",
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 85.85,
-      "change_pct": -0.79
+      "price": 85.89,
+      "change_pct": -0.74
     },
     {
       "label": "Brent",
-      "price": 92.15,
-      "change_pct": -0.66
+      "price": 92.26,
+      "change_pct": -0.54
     },
     {
       "label": "NatGas",
-      "price": 3.29,
-      "change_pct": 2.21
+      "price": 3.28,
+      "change_pct": 1.96
     }
   ]
 }
