@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-12T12:16:37+00:00",
-  "as_of_local": "2026-11-12 12:16:37 UTC",
+  "as_of_utc": "2026-11-12T12:21:25+00:00",
+  "as_of_local": "2026-11-12 12:21:25 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "PR"
+    "SHEL"
   ],
   "stocks": [
     {
@@ -59,34 +59,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-global-energy-etf-ixc-110558884.html",
           "publisher": "GuruFocus.com",
           "published": "2026-11-12T11:05:58Z"
-        }
-      ]
-    },
-    {
-      "symbol": "SHEL",
-      "name": "Shell",
-      "price": 97.86,
-      "previous_close": 97.27,
-      "change_pct": 0.61,
-      "market_cap": 276913411597.68536,
-      "headlines": [
-        {
-          "title": "Exxon, Chevron, and Shell Just Reported. Here's What Each One Said About Where Oil Goes Next.",
-          "url": "https://finance.yahoo.com/energy/articles/exxon-chevron-shell-just-reported-033500434.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-12T03:35:00Z"
-        },
-        {
-          "title": "3 British Value Stocks To Watch In November 2026",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-british-value-stocks-watch-211218659.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-11T21:12:18Z"
-        },
-        {
-          "title": "Kraken Parent Payward Brings 200 UK and EU Stocks Onchain as xStocks",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/kraken-parent-payward-brings-200-124624805.html",
-          "publisher": "decrypt",
-          "published": "2026-11-11T12:46:24Z"
         }
       ]
     },
@@ -774,7 +746,7 @@
           "title": "Dow Jones Futures: Techs Fall As Nvidia Board Mulls Ousting CEO Jensen Huang",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-coreweave-sandisk-nvidia-amd-nebius-bloom/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
-          "published": "2026-11-12T12:02:08Z"
+          "published": "2026-11-12T12:13:10Z"
         },
         {
           "title": "BE Stock Clocked Best Single-Day Gain Since July As CoreWeave Flags AI\u2019s Power Crunch \u2013 But Retail Traders Warn Of A 'Fast Fix'",
@@ -1263,6 +1235,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-131015557.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-10T13:10:15Z"
+        }
+      ]
+    },
+    {
+      "symbol": "PR",
+      "name": "Permian Resources",
+      "price": 22.32,
+      "previous_close": 21.72,
+      "change_pct": 2.76,
+      "market_cap": 18720359555.4012,
+      "headlines": [
+        {
+          "title": "The Oil Slump Has Gone Too Far. Where Prices Could Go Next.",
+          "url": "https://www.barrons.com/articles/oil-prices-stocks-fall-where-they-could-go-next-0162a3c2?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-11-09T10:55:00Z"
+        },
+        {
+          "title": "The top 5 analyst questions from Permian Resources\u2019s Q3 2026 earnings call",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-permian-220536252.html",
+          "publisher": "StockStory",
+          "published": "2026-11-08T22:05:36Z"
+        },
+        {
+          "title": "Permian Resources Q3 Earnings Call Highlights",
+          "url": "https://finance.yahoo.com/energy/articles/permian-resources-q3-earnings-call-051413053.html",
+          "publisher": "MarketBeat",
+          "published": "2026-11-08T05:14:13Z"
         }
       ]
     },
@@ -2089,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 85.83,
-      "change_pct": -0.81
+      "price": 85.93,
+      "change_pct": -0.69
     },
     {
       "label": "Brent",
-      "price": 92.1,
-      "change_pct": -0.71
+      "price": 92.15,
+      "change_pct": -0.66
     },
     {
       "label": "NatGas",
       "price": 3.28,
-      "change_pct": 1.99
+      "change_pct": 1.96
     }
   ]
 }
