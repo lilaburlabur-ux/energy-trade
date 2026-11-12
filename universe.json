@@ -1,7 +1,7 @@
 {
  "meta": {
   "source": "Energy Trade curated universe (seed_energy_universe.py)",
-  "as_of": "2026-11-12 02:16 UTC",
+  "as_of": "2026-11-12 02:17 UTC",
   "total_tickers": 67,
   "min_bubble_size": 7,
   "render_spec": {
@@ -278,7 +278,7 @@
       135.59
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
-     "fwd_eps": 11.06
+     "fwd_eps": 11.07
     },
     {
      "ticker": "BP",
@@ -442,7 +442,7 @@
    "label": "Shale & E&P",
    "color": "#D97742",
    "count": 9,
-   "total_market_cap_b": 333.24,
+   "total_market_cap_b": 333.2,
    "avg_change_pct": 1.94,
    "industries_included": [
     "Oil & Gas E&P"
@@ -916,7 +916,7 @@
    "label": "Oilfield Services",
    "color": "#A67C52",
    "count": 6,
-   "total_market_cap_b": 185.77,
+   "total_market_cap_b": 185.8,
    "avg_change_pct": -0.55,
    "industries_included": [
     "Oil & Gas Equipment & Services"
@@ -1237,7 +1237,7 @@
    "label": "Midstream & LNG",
    "color": "#C9A227",
    "count": 8,
-   "total_market_cap_b": 521.72,
+   "total_market_cap_b": 521.7,
    "avg_change_pct": 1.69,
    "industries_included": [
     "Oil & Gas Midstream"
@@ -1660,7 +1660,7 @@
    "label": "Refining & Downstream",
    "color": "#B65D32",
    "count": 4,
-   "total_market_cap_b": 331.01,
+   "total_market_cap_b": 331.0,
    "avg_change_pct": -0.87,
    "industries_included": [
     "Oil & Gas Refining & Marketing"
@@ -2730,7 +2730,7 @@
    "label": "Grid, Storage & Electrification",
    "color": "#F08C4A",
    "count": 8,
-   "total_market_cap_b": 590.49,
+   "total_market_cap_b": 590.5,
    "avg_change_pct": -2.71,
    "industries_included": [
     "Electrical Equipment & Parts",
@@ -3156,7 +3156,7 @@
    "label": "Power & IPPs",
    "color": "#CB9E6E",
    "count": 8,
-   "total_market_cap_b": 435.57,
+   "total_market_cap_b": 435.6,
    "avg_change_pct": -0.09,
    "industries_included": [
     "Utilities - Independent Power Producers",
