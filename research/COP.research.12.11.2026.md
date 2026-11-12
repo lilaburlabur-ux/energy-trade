@@ -4,8 +4,8 @@ Signed file: `COP.research.12.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-12, ~15-min delayed) |
-| Market cap | $163.00B |
+| Current price | $140.51 (2026-11-12, ~15-min delayed) |
+| Market cap | $166.13B |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
 | Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `COP.research.12.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +59.82%; price +14.95% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -8.78% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 16.76%, revenue growth 29.30%. |
-| Value attractiveness | Reasonable | Forward P/E 12.25, EV/Sales 2.56. |
-| Risk level | Moderate | Beta 0.16, ATR nan% of price, short float 1.35%. |
+| Value attractiveness | Reasonable | Forward P/E 12.24, EV/Sales 2.56. |
+| Risk level | Moderate | Beta 0.16, ATR 2.9% of price, short float 1.35%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate.
 
@@ -36,30 +36,30 @@ ConocoPhillips explores for, produces, transports, and markets crude oil, bitume
 
 | Headline | Source | Date |
 |---|---|---|
-| Should You Pick Occidental Stock Over Its Competitors? | Trefis | 2026-11-12 |
-| 4 Dividend Stocks Just Gave Shareholders a Raise. One Hiked Its Payout 17.5% | 24/7 Wall St. | 2026-11-11 |
-| Venture Global, Inc. Q3 2026 Earnings Call Summary | Moby | 2026-11-11 |
-| This Energy Stock Just Raised Its Dividend by More Than 10% | Barchart | 2026-11-11 |
+| ConocoPhillips (COP) Stock Looks Like A Bargain After Fresh Results | Simply Wall St. | 2026-11-12 |
+| Nvidia downgraded, AMD upgraded: Wall Street's top analyst calls | The Fly | 2026-11-12 |
+| Oil Price is Still High: Boon for ExxonMobil's Upstream Business? | Zacks | 2026-11-12 |
+| Can Occidental Petroleum Stock Fall 30%? | Trefis | 2026-11-12 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $154.03 (+nan%); 52w low $84.75 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 42.4 (neutral) |
-| Volatility | ATR(14) 4.24 (~nan% of price); beta 0.16 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $140.51; 52w high $154.03 (-8.78%); 52w low $84.75 (+65.79%) |
+| Trend | +14.95% vs SMA200, +2.44% vs SMA50, -2.44% vs SMA20 |
+| Momentum | RSI(14) 50.7 (neutral) |
+| Volatility | ATR(14) 4.08 (~2.9% of price); beta 0.16 |
+| Setup perspective | -8.78% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | +3.7% |
+| Month | -1.3% |
+| Quarter | +11.6% |
+| Half Y | +18.9% |
+| 1Y | +59.8% |
+| YTD | +48.5% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,8 +68,8 @@ ConocoPhillips explores for, produces, transports, and markets crude oil, bitume
 | Revenue (ttm) | $68.97B | Revenue growth 29.30% y/y |
 | Profitability | Gross 49.01%, operating 25.88%, net 16.76% | ROA 8.98%, ROE 17.66% |
 | Balance sheet | Cash $9.93B, debt $23.26B | Current ratio 1.52, debt/equity 35.25 |
-| Valuation | P/E 14.53, forward P/E 12.25, P/S 2.36, P/B 2.47 | EV/Sales 2.56, EV/EBITDA 5.91 |
-| Growth expectations | Earnings growth 141.90%, EPS q/q 131.80% | Analyst mean target $152.22 (27 analysts) |
+| Valuation | P/E 14.81, forward P/E 12.24, P/S 2.41, P/B 2.52 | EV/Sales 2.56, EV/EBITDA 5.91 |
+| Growth expectations | Earnings growth 141.90%, EPS q/q 131.80% | Analyst mean target $152.96 (27 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
@@ -109,25 +109,26 @@ ConocoPhillips explores for, produces, transports, and markets crude oil, bitume
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 2.56 |
-| Market cap | $163.00B | EV/EBITDA | 5.91 |
+| Price | $140.51 | EV/Sales | 2.56 |
+| Market cap | $166.13B | EV/EBITDA | 5.91 |
 | Beta | 0.16 | Gross margin | 49.01% |
-| RSI(14) | 42.4 | Operating margin | 25.88% |
-| ATR(14) | 4.24 | Profit margin | 16.76% |
-| SMA20 dist | +nan% | ROA | 8.98% |
-| SMA50 dist | +nan% | ROE | 17.66% |
-| SMA200 dist | +nan% | Revenue (ttm) | $68.97B |
+| RSI(14) | 50.7 | Operating margin | 25.88% |
+| ATR(14) | 4.08 | Profit margin | 16.76% |
+| SMA20 dist | -2.44% | ROA | 8.98% |
+| SMA50 dist | +2.44% | ROE | 17.66% |
+| SMA200 dist | +14.95% | Revenue (ttm) | $68.97B |
 | 52W high | $154.03 | Revenue growth y/y | 29.30% |
 | 52W low | $84.75 | Inst. ownership | 88.26% |
-| P/E (ttm) | 14.53 | Insider ownership | 0.10% |
-| Forward P/E | 12.25 | Short float | 1.35% |
-| PEG (trailing) | 1.00 | Avg volume | 6,767,237 |
-| P/S | 2.36 | Employees | 9,600 |
-| P/B | 2.47 | Analyst rec (1=buy..5=sell) | 1.9 |
+| P/E (ttm) | 14.81 | Insider ownership | 0.10% |
+| Forward P/E | 12.24 | Short float | 1.35% |
+| PEG (trailing) | 0.89 | Avg volume | 6,750,623 |
+| P/S | 2.41 | Employees | 9,600 |
+| P/B | 2.52 | Analyst rec (1=buy..5=sell) | 2.1 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
 |---|---|---|---|
+| 2026-11-12 | down | Bernstein | Outperform → Market Perform |
 | 2026-11-11 | down | Freedom Broker | Buy → Hold |
 | 2026-11-09 | main | Truist Securities | Hold → Hold |
 | 2026-11-06 | main | Wells Fargo | Overweight → Overweight |
@@ -135,7 +136,6 @@ ConocoPhillips explores for, produces, transports, and markets crude oil, bitume
 | 2026-10-15 | main | Morgan Stanley | Overweight → Overweight |
 | 2026-10-07 | main | Jefferies | Buy → Buy |
 | 2026-10-07 | main | Truist Securities | Hold → Hold |
-| 2026-09-14 | main | UBS | Buy → Buy |
 
 ## 9. Conclusion
 COP: Moderate momentum / strong fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.

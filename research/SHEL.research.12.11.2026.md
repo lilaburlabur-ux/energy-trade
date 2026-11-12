@@ -4,8 +4,8 @@ Signed file: `SHEL.research.12.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-12, ~15-min delayed) |
-| Market cap | $276.91B |
+| Current price | $98.76 (2026-11-12, ~15-min delayed) |
+| Market cap | $279.36B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `SHEL.research.12.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +33.01%; price +11.40% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -9.14% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 10.18%, revenue growth 36.20%. |
-| Value attractiveness | Reasonable | Forward P/E 8.97, EV/Sales 1.00. |
-| Risk level | Moderate | Beta -0.25, ATR nan% of price, short float 1.01%. |
+| Value attractiveness | Reasonable | Forward P/E 8.81, EV/Sales 1.00. |
+| Risk level | Moderate | Beta -0.25, ATR 2.0% of price, short float 1.01%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
@@ -36,30 +36,30 @@ Shell plc operates as an energy and petrochemical company in Europe, Asia, Ocean
 
 | Headline | Source | Date |
 |---|---|---|
+| Chevron Q3 Earnings Surge on Strong Refining: Is the Stock a Buy Now? | Zacks | 2026-11-12 |
+| Exxon, Chevron, and Shell Just Reported. Here's What Each One Said About Where Oil Goes Next. | Motley Fool | 2026-11-12 |
 | 3 British Value Stocks To Watch In November 2026 | Simply Wall St. | 2026-11-11 |
 | Kraken Parent Payward Brings 200 UK and EU Stocks Onchain as xStocks | decrypt | 2026-11-11 |
-| FTSE 100 today: Stocks gain as oil rebounds; Spirax tops gainers | Investing.com | 2026-11-11 |
-| Did First Half Earnings Just Shift DCC Energy (LSE:DCC) Investment Narrative? | Simply Wall St. | 2026-11-10 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $108.69 (+nan%); 52w low $68.43 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 37.3 (neutral) |
-| Volatility | ATR(14) 2.14 (~nan% of price); beta -0.25 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $98.76; 52w high $108.69 (-9.14%); 52w low $68.43 (+44.32%) |
+| Trend | +11.40% vs SMA200, -0.81% vs SMA50, -4.70% vs SMA20 |
+| Momentum | RSI(14) 42.4 (neutral) |
+| Volatility | ATR(14) 1.98 (~2.0% of price); beta -0.25 |
+| Setup perspective | -9.14% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -1.4% |
+| Month | -4.7% |
+| Quarter | +9.2% |
+| Half Y | +19.0% |
+| 1Y | +33.0% |
+| YTD | +34.5% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Shell plc operates as an energy and petrochemical company in Europe, Asia, Ocean
 | Revenue (ttm) | $321.29B | Revenue growth 36.20% y/y |
 | Profitability | Gross 26.93%, operating 15.25%, net 10.18% | ROA 7.67%, ROE 17.43% |
 | Balance sheet | Cash $36.42B, debt $76.07B | Current ratio 1.38, debt/equity 38.13 |
-| Valuation | P/E 8.49, forward P/E 8.97, P/S 0.86, P/B 1.41 | EV/Sales 1.00, EV/EBITDA 4.75 |
+| Valuation | P/E 8.57, forward P/E 8.81, P/S 0.87, P/B 1.43 | EV/Sales 1.00, EV/EBITDA 4.75 |
 | Growth expectations | Earnings growth 136.70%, EPS q/q 126.60% | Analyst mean target $110.87 (15 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -109,21 +109,21 @@ Shell plc operates as an energy and petrochemical company in Europe, Asia, Ocean
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 1.00 |
-| Market cap | $276.91B | EV/EBITDA | 4.75 |
+| Price | $98.76 | EV/Sales | 1.00 |
+| Market cap | $279.36B | EV/EBITDA | 4.75 |
 | Beta | -0.25 | Gross margin | 26.93% |
-| RSI(14) | 37.3 | Operating margin | 15.25% |
-| ATR(14) | 2.14 | Profit margin | 10.18% |
-| SMA20 dist | +nan% | ROA | 7.67% |
-| SMA50 dist | +nan% | ROE | 17.43% |
-| SMA200 dist | +nan% | Revenue (ttm) | $321.29B |
+| RSI(14) | 42.4 | Operating margin | 15.25% |
+| ATR(14) | 1.98 | Profit margin | 10.18% |
+| SMA20 dist | -4.70% | ROA | 7.67% |
+| SMA50 dist | -0.81% | ROE | 17.43% |
+| SMA200 dist | +11.40% | Revenue (ttm) | $321.29B |
 | 52W high | $108.69 | Revenue growth y/y | 36.20% |
 | 52W low | $68.43 | Inst. ownership | 13.47% |
-| P/E (ttm) | 8.49 | Insider ownership | 0.01% |
-| Forward P/E | 8.97 | Short float | 1.01% |
-| PEG (trailing) | 1.35 | Avg volume | 6,125,054 |
-| P/S | 0.86 | Employees | 84,000 |
-| P/B | 1.41 | Analyst rec (1=buy..5=sell) | 2.2 |
+| P/E (ttm) | 8.57 | Insider ownership | 0.01% |
+| Forward P/E | 8.81 | Short float | 1.01% |
+| PEG (trailing) | 1.36 | Avg volume | 6,129,850 |
+| P/S | 0.87 | Employees | 84,000 |
+| P/B | 1.43 | Analyst rec (1=buy..5=sell) | 2.2 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

@@ -4,24 +4,24 @@ Signed file: `LEU.research.12.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-12, ~15-min delayed) |
-| Market cap | $2.31B |
+| Current price | $105.14 (2026-11-12, ~15-min delayed) |
+| Market cap | $2.17B |
 | Sector / Industry | Energy / Uranium |
 | Main theme | Uranium — see catalysts below |
-| Current stance | Moderate technical momentum, mixed fundamentals, value: fair-to-demanding, risk: high. |
+| Current stance | Low technical momentum, mixed fundamentals, value: fair-to-demanding, risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-12.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-40.31%) with negative half-year (-45.33%). |
+| Fresh setup quality | Poor / broken | -68.87% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 16.77%, revenue growth -25.90%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 26.84, EV/Sales 2.76. |
-| Risk level | High | Beta 1.41, ATR nan% of price, short float 29.58%. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 25.16, EV/Sales 2.76. |
+| Risk level | High | Beta 1.41, ATR 8.9% of price, short float 29.58%. |
 
-**Bottom line:** Moderate technical momentum, mixed fundamentals, value: fair-to-demanding, risk: high.
+**Bottom line:** Low technical momentum, mixed fundamentals, value: fair-to-demanding, risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -36,30 +36,30 @@ Centrus Energy Corp. supplies nuclear fuel components for the nuclear power indu
 
 | Headline | Source | Date |
 |---|---|---|
+| NuScale Power Just Dropped 25% in a Month: Nuke Your Shares Now, or Hunker Down and Hold? | 24/7 Wall St. | 2026-11-12 |
+| CCJ's Share of Uranium Output Down 20% in Q3: Will 2026 Targets be Met? | Zacks | 2026-11-12 |
+| Energy Fuels Dips Post Q3 Earnings Miss: How to Play the Stock? | Zacks | 2026-11-12 |
 | Centrus' Backlog Hit $5.4 Billion. Its Quarterly Revenue Was $55 Million. Here's How Those Numbers Fit Together. | Motley Fool | 2026-11-11 |
-| UUUU Q3 Earnings Miss on Investment Losses, Uranium Sales Rise | Zacks | 2026-11-09 |
-| The top 5 analyst questions from Centrus Energy’s Q3 2026 earnings call | StockStory | 2026-11-09 |
-| Don’t Miss Out: 5 Stocks Getting Major Upgrades From Top Analysts | Insider Monkey | 2026-11-08 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $337.76 (+nan%); 52w low $89.03 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 46.7 (neutral) |
-| Volatility | ATR(14) 9.67 (~nan% of price); beta 1.41 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $105.14; 52w high $337.76 (-68.87%); 52w low $89.03 (+18.10%) |
+| Trend | -40.31% vs SMA200, -19.81% vs SMA50, -0.12% vs SMA20 |
+| Momentum | RSI(14) 44.1 (neutral) |
+| Volatility | ATR(14) 9.36 (~8.9% of price); beta 1.41 |
+| Setup perspective | -68.87% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | +18.1% |
+| Month | -12.3% |
+| Quarter | -44.7% |
+| Half Y | -45.3% |
+| 1Y | -61.8% |
+| YTD | -61.4% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,8 +68,8 @@ Centrus Energy Corp. supplies nuclear fuel components for the nuclear power indu
 | Revenue (ttm) | $454.50M | Revenue growth -25.90% y/y |
 | Profitability | Gross 23.28%, operating -2.77%, net 16.77% | ROA -0.31%, ROE 10.38% |
 | Balance sheet | Cash $2.24B, debt $1.18B | Current ratio 8.61, debt/equity 106.67 |
-| Valuation | P/E 33.28, forward P/E 26.84, P/S 5.09, P/B 2.08 | EV/Sales 2.76, EV/EBITDA -448.38 |
-| Growth expectations | Earnings growth 642.10%, EPS q/q 710.30% | Analyst mean target $194.09 (19 analysts) |
+| Valuation | P/E 31.20, forward P/E 25.16, P/S 4.77, P/B 1.95 | EV/Sales 2.76, EV/EBITDA -448.38 |
+| Growth expectations | Earnings growth 642.10%, EPS q/q 710.30% | Analyst mean target $190.74 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
@@ -95,9 +95,10 @@ Centrus Energy Corp. supplies nuclear fuel components for the nuclear power indu
 | Morgan Stanley | 303,523 | 1.53% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 26.84, EV/Sales 2.76. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 1.41, ATR nan% of price, short float 29.58%. Size positions accordingly.
+- **Valuation risk:** Forward P/E 25.16, EV/Sales 2.76. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 1.41, ATR 8.9% of price, short float 29.58%. Size positions accordingly.
 - **Short interest risk:** short float 29.58% can fuel squeezes both ways around news.
+- **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -112,21 +113,21 @@ Centrus Energy Corp. supplies nuclear fuel components for the nuclear power indu
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 2.76 |
-| Market cap | $2.31B | EV/EBITDA | -448.38 |
+| Price | $105.14 | EV/Sales | 2.76 |
+| Market cap | $2.17B | EV/EBITDA | -448.38 |
 | Beta | 1.41 | Gross margin | 23.28% |
-| RSI(14) | 46.7 | Operating margin | -2.77% |
-| ATR(14) | 9.67 | Profit margin | 16.77% |
-| SMA20 dist | +nan% | ROA | -0.31% |
-| SMA50 dist | +nan% | ROE | 10.38% |
-| SMA200 dist | +nan% | Revenue (ttm) | $454.50M |
+| RSI(14) | 44.1 | Operating margin | -2.77% |
+| ATR(14) | 9.36 | Profit margin | 16.77% |
+| SMA20 dist | -0.12% | ROA | -0.31% |
+| SMA50 dist | -19.81% | ROE | 10.38% |
+| SMA200 dist | -40.31% | Revenue (ttm) | $454.50M |
 | 52W high | $337.76 | Revenue growth y/y | -25.90% |
 | 52W low | $89.03 | Inst. ownership | 84.64% |
-| P/E (ttm) | 33.28 | Insider ownership | 1.02% |
-| Forward P/E | 26.84 | Short float | 29.58% |
-| PEG (trailing) | — | Avg volume | 788,915 |
-| P/S | 5.09 | Employees | 467 |
-| P/B | 2.08 | Analyst rec (1=buy..5=sell) | 1.8 |
+| P/E (ttm) | 31.20 | Insider ownership | 1.02% |
+| Forward P/E | 25.16 | Short float | 29.58% |
+| PEG (trailing) | — | Avg volume | 795,284 |
+| P/S | 4.77 | Employees | 467 |
+| P/B | 1.95 | Analyst rec (1=buy..5=sell) | 1.8 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
@@ -141,7 +142,7 @@ Centrus Energy Corp. supplies nuclear fuel components for the nuclear power indu
 | 2026-10-23 | main | Barclays | Equal-Weight → Equal-Weight |
 
 ## 9. Conclusion
-LEU: Moderate momentum / mixed fundamentals / fair-to-demanding value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+LEU: Low momentum / mixed fundamentals / fair-to-demanding value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

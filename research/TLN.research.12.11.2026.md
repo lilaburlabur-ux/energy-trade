@@ -4,8 +4,8 @@ Signed file: `TLN.research.12.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-12, ~15-min delayed) |
-| Market cap | $16.48B |
+| Current price | $386.60 (2026-11-12, ~15-min delayed) |
+| Market cap | $16.82B |
 | Sector / Industry | Utilities / Utilities - Independent Power Producers |
 | Main theme | Utilities - Independent Power Producers — see catalysts below |
 | Current stance | Moderate technical momentum, weak fundamentals, value: reasonable, risk: high. |
@@ -15,11 +15,11 @@ Signed file: `TLN.research.12.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +3.22%; price +10.87% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -11.76% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Weak | Negative profit margin (-5.67%). |
-| Value attractiveness | Reasonable | Forward P/E 13.49, EV/Sales 5.74. |
-| Risk level | High | Beta 1.58, ATR nan% of price, short float 10.86%. |
+| Value attractiveness | Reasonable | Forward P/E 12.50, EV/Sales 5.74. |
+| Risk level | High | Beta 1.58, ATR 5.3% of price, short float 10.86%. |
 
 **Bottom line:** Moderate technical momentum, weak fundamentals, value: reasonable, risk: high.
 
@@ -36,30 +36,30 @@ Talen Energy Corporation, an independent power producer and infrastructure compa
 
 | Headline | Source | Date |
 |---|---|---|
+| Can NuScale's TVA Deal Unlock Its First Major Module Order? | Zacks | 2026-11-12 |
+| Talen Energy's 750-MW Capacity Deal Boosts Long-Term Revenue Outlook | Zacks | 2026-11-12 |
 | Sector Update: Energy Stocks Higher Late Afternoon | MT Newswires | 2026-11-11 |
-| Sector Update: Energy Stocks Rise Wednesday Afternoon | MT Newswires | 2026-11-11 |
-| OKLO Stock After Q3 Earnings: Buy, Sell or Hold for Now? | Zacks | 2026-11-11 |
-| Talen Energy Stock Rises on Another Big Power Deal. Wall Street Sees More Upside. | Barrons.com | 2026-11-11 |
+| A $100 Million Reason Why Talen Energy Stock Is Up Today | Barchart | 2026-11-11 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $438.12 (+nan%); 52w low $282.15 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 56.1 (neutral) |
-| Volatility | ATR(14) 20.30 (~nan% of price); beta 1.58 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $386.60; 52w high $438.12 (-11.76%); 52w low $282.15 (+37.02%) |
+| Trend | +10.87% vs SMA200, +16.01% vs SMA50, +11.11% vs SMA20 |
+| Momentum | RSI(14) 62.5 (neutral) |
+| Volatility | ATR(14) 20.39 (~5.3% of price); beta 1.58 |
+| Setup perspective | -11.76% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | +22.3% |
+| Month | +7.9% |
+| Quarter | +6.6% |
+| Half Y | +9.6% |
+| 1Y | +3.2% |
+| YTD | -2.6% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,8 +68,8 @@ Talen Energy Corporation, an independent power producer and infrastructure compa
 | Revenue (ttm) | $4.48B | Revenue growth 96.10% y/y |
 | Profitability | Gross 42.67%, operating 3.33%, net -5.67% | ROA 0.88%, ROE -16.54% |
 | Balance sheet | Cash $339.00M, debt $9.57B | Current ratio 0.89, debt/equity 596.94 |
-| Valuation | P/E —, forward P/E 13.49, P/S 3.68, P/B 11.34 | EV/Sales 5.74, EV/EBITDA 38.17 |
-| Growth expectations | Earnings growth -32.20%, EPS q/q -33.30% | Analyst mean target $452.51 (20 analysts) |
+| Valuation | P/E —, forward P/E 12.50, P/S 3.75, P/B 11.58 | EV/Sales 5.74, EV/EBITDA 38.17 |
+| Growth expectations | Earnings growth -32.20%, EPS q/q -33.30% | Analyst mean target $452.87 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
@@ -95,7 +95,7 @@ Talen Energy Corporation, an independent power producer and infrastructure compa
 | Sachem Head Capital Management, LP | 1,370,000 | 2.32% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.58, ATR nan% of price, short float 10.86%. Size positions accordingly.
+- **Volatility risk:** Beta 1.58, ATR 5.3% of price, short float 10.86%. Size positions accordingly.
 - **Short interest risk:** short float 10.86% can fuel squeezes both ways around news.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
@@ -112,21 +112,21 @@ Talen Energy Corporation, an independent power producer and infrastructure compa
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 5.74 |
-| Market cap | $16.48B | EV/EBITDA | 38.17 |
+| Price | $386.60 | EV/Sales | 5.74 |
+| Market cap | $16.82B | EV/EBITDA | 38.17 |
 | Beta | 1.58 | Gross margin | 42.67% |
-| RSI(14) | 56.1 | Operating margin | 3.33% |
-| ATR(14) | 20.30 | Profit margin | -5.67% |
-| SMA20 dist | +nan% | ROA | 0.88% |
-| SMA50 dist | +nan% | ROE | -16.54% |
-| SMA200 dist | +nan% | Revenue (ttm) | $4.48B |
+| RSI(14) | 62.5 | Operating margin | 3.33% |
+| ATR(14) | 20.39 | Profit margin | -5.67% |
+| SMA20 dist | +11.11% | ROA | 0.88% |
+| SMA50 dist | +16.01% | ROE | -16.54% |
+| SMA200 dist | +10.87% | Revenue (ttm) | $4.48B |
 | 52W high | $438.12 | Revenue growth y/y | 96.10% |
 | 52W low | $282.15 | Inst. ownership | 112.41% |
 | P/E (ttm) | — | Insider ownership | 1.50% |
-| Forward P/E | 13.49 | Short float | 10.86% |
-| PEG (trailing) | — | Avg volume | 1,023,440 |
-| P/S | 3.68 | Employees | 1,880 |
-| P/B | 11.34 | Analyst rec (1=buy..5=sell) | 1.5 |
+| Forward P/E | 12.50 | Short float | 10.86% |
+| PEG (trailing) | — | Avg volume | 1,024,518 |
+| P/S | 3.75 | Employees | 1,880 |
+| P/B | 11.58 | Analyst rec (1=buy..5=sell) | 1.5 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

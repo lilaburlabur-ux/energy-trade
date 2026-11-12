@@ -4,8 +4,8 @@ Signed file: `DUK.research.12.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-12, ~15-min delayed) |
-| Market cap | $100.40B |
+| Current price | $129.20 (2026-11-12, ~15-min delayed) |
+| Market cap | $100.74B |
 | Sector / Industry | Utilities / Utilities - Regulated Electric |
 | Main theme | Utilities - Regulated Electric — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `DUK.research.12.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +8.14%; price +4.55% vs SMA200. |
+| Fresh setup quality | Watch | -1.50% from 52w high and near SMA20 — check for a tight base. |
 | Fundamental quality | Mixed | Profit margin 16.16%, revenue growth 6.60%. |
-| Value attractiveness | Reasonable | Forward P/E 17.97, EV/Sales 5.90. |
-| Risk level | Moderate | Beta 0.31, ATR nan% of price, short float 2.57%. |
+| Value attractiveness | Reasonable | Forward P/E 18.03, EV/Sales 5.90. |
+| Risk level | Moderate | Beta 0.31, ATR 1.7% of price, short float 2.57%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
@@ -36,30 +36,30 @@ Duke Energy Corporation, through its subsidiaries, operates as an energy company
 
 | Headline | Source | Date |
 |---|---|---|
-| Duke Energy (DUK) Secures Merger Credit Consent On A Narrative That Still Sees Value | Simply Wall St. | 2026-11-12 |
-| What Is The Biggest Threat To Vistra Stock? | Trefis | 2026-11-12 |
-| What Could Send Constellation Energy Stock Higher? | Trefis | 2026-11-12 |
-| SPLV Lost $107,460 on $300,000 in the 2020 Crash, More Than VOO’s $102,030 | 24/7 Wall St. | 2026-11-12 |
+| What Changed In PG&E's Story? | Trefis | 2026-11-12 |
+| Is Constellation Energy Stock Increasing Your Market Risk? | Trefis | 2026-11-12 |
+| What Utilities Select Sector SPDR ETF (XLU) Sold: NextEra Leads on Nov. 10 | GuruFocus.com | 2026-11-12 |
+| ETFs Are Net Sellers of Duke Energy (DUK) on Nov. 10 | GuruFocus.com | 2026-11-12 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $131.16 (+nan%); 52w low $111.09 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 64.6 (neutral) |
-| Volatility | ATR(14) 2.29 (~nan% of price); beta 0.31 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $129.20; 52w high $131.16 (-1.50%); 52w low $111.09 (+16.30%) |
+| Trend | +4.55% vs SMA200, +7.21% vs SMA50, +2.68% vs SMA20 |
+| Momentum | RSI(14) 64.9 (neutral) |
+| Volatility | ATR(14) 2.14 (~1.7% of price); beta 0.31 |
+| Setup perspective | -1.50% from 52w high and near SMA20 — check for a tight base. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -0.7% |
+| Month | +8.0% |
+| Quarter | +4.3% |
+| Half Y | +5.8% |
+| 1Y | +8.1% |
+| YTD | +12.9% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Duke Energy Corporation, through its subsidiaries, operates as an energy company
 | Revenue (ttm) | $33.37B | Revenue growth 6.60% y/y |
 | Profitability | Gross 52.58%, operating 27.77%, net 16.16% | ROA 2.92%, ROE 10.10% |
 | Balance sheet | Cash $451.00M, debt $93.78B | Current ratio 0.68, debt/equity 162.98 |
-| Valuation | P/E 18.88, forward P/E 17.97, P/S 3.01, P/B 1.85 | EV/Sales 5.90, EV/EBITDA 11.75 |
+| Valuation | P/E 18.94, forward P/E 18.03, P/S 3.02, P/B 1.85 | EV/Sales 5.90, EV/EBITDA 11.75 |
 | Growth expectations | Earnings growth 10.00%, EPS q/q 10.10% | Analyst mean target $132.26 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,6 +95,7 @@ Duke Energy Corporation, through its subsidiaries, operates as an energy company
 | FMR, LLC | 8,928,138 | 1.15% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
+- **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -109,20 +110,20 @@ Duke Energy Corporation, through its subsidiaries, operates as an energy company
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 5.90 |
-| Market cap | $100.40B | EV/EBITDA | 11.75 |
+| Price | $129.20 | EV/Sales | 5.90 |
+| Market cap | $100.74B | EV/EBITDA | 11.75 |
 | Beta | 0.31 | Gross margin | 52.58% |
-| RSI(14) | 64.6 | Operating margin | 27.77% |
-| ATR(14) | 2.29 | Profit margin | 16.16% |
-| SMA20 dist | +nan% | ROA | 2.92% |
-| SMA50 dist | +nan% | ROE | 10.10% |
-| SMA200 dist | +nan% | Revenue (ttm) | $33.37B |
+| RSI(14) | 64.9 | Operating margin | 27.77% |
+| ATR(14) | 2.14 | Profit margin | 16.16% |
+| SMA20 dist | +2.68% | ROA | 2.92% |
+| SMA50 dist | +7.21% | ROE | 10.10% |
+| SMA200 dist | +4.55% | Revenue (ttm) | $33.37B |
 | 52W high | $131.16 | Revenue growth y/y | 6.60% |
 | 52W low | $111.09 | Inst. ownership | 71.42% |
-| P/E (ttm) | 18.88 | Insider ownership | 0.13% |
-| Forward P/E | 17.97 | Short float | 2.57% |
-| PEG (trailing) | 2.40 | Avg volume | 4,047,950 |
-| P/S | 3.01 | Employees | 26,441 |
+| P/E (ttm) | 18.94 | Insider ownership | 0.13% |
+| Forward P/E | 18.03 | Short float | 2.57% |
+| PEG (trailing) | 2.40 | Avg volume | 4,042,734 |
+| P/S | 3.02 | Employees | 26,441 |
 | P/B | 1.85 | Analyst rec (1=buy..5=sell) | 2.1 |
 
 ## 8. Analyst Actions

@@ -4,8 +4,8 @@ Signed file: `EOG.research.12.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-12, ~15-min delayed) |
-| Market cap | $79.73B |
+| Current price | $156.46 (2026-11-12, ~15-min delayed) |
+| Market cap | $81.12B |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
 | Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `EOG.research.12.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +47.65%; price +13.89% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -5.49% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 28.06%, revenue growth 42.70%. |
-| Value attractiveness | Reasonable | Forward P/E 9.21, EV/Sales 2.82. |
-| Risk level | Moderate | Beta 0.27, ATR nan% of price, short float 3.62%. |
+| Value attractiveness | Reasonable | Forward P/E 9.34, EV/Sales 2.82. |
+| Risk level | Moderate | Beta 0.27, ATR 2.9% of price, short float 3.62%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate.
 
@@ -36,30 +36,30 @@ EOG Resources, Inc., together with its subsidiaries, explores for, develops, pro
 
 | Headline | Source | Date |
 |---|---|---|
+| Can Occidental Petroleum Stock Fall 30%? | Trefis | 2026-11-12 |
+| Oil Still Above $85, EOG Up 41% in a Year: Is the Stock Still a Buy? | Zacks | 2026-11-12 |
 | Should You Pick Occidental Stock Over Its Competitors? | Trefis | 2026-11-12 |
 | EOG’s 8% Dividend Raise Is a Bet on Surviving Any Oil Cycle | 24/7 Wall St. | 2026-11-11 |
-| EOG Resources Just Raised Its Dividend 7.8%. Does Its Free Cash Flow Cover the 2.8% Yield? | TIKR | 2026-11-10 |
-| Can ConocoPhillips Sustain Future Production Growth With Lower CapEx? | Zacks | 2026-11-10 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $165.54 (+nan%); 52w low $98.64 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 48.6 (neutral) |
-| Volatility | ATR(14) 4.73 (~nan% of price); beta 0.27 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $156.46; 52w high $165.54 (-5.49%); 52w low $98.64 (+58.61%) |
+| Trend | +13.89% vs SMA200, +4.86% vs SMA50, +0.03% vs SMA20 |
+| Momentum | RSI(14) 55.5 (neutral) |
+| Volatility | ATR(14) 4.48 (~2.9% of price); beta 0.27 |
+| Setup perspective | -5.49% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | +8.0% |
+| Month | +2.2% |
+| Quarter | +10.4% |
+| Half Y | +16.7% |
+| 1Y | +47.6% |
+| YTD | +50.5% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,8 +68,8 @@ EOG Resources, Inc., together with its subsidiaries, explores for, develops, pro
 | Revenue (ttm) | $29.17B | Revenue growth 42.70% y/y |
 | Profitability | Gross 62.98%, operating 35.47%, net 28.06% | ROA 11.90%, ROE 25.83% |
 | Balance sheet | Cash $5.75B, debt $8.26B | Current ratio 1.90, debt/equity 24.96 |
-| Valuation | P/E 9.93, forward P/E 9.21, P/S 2.73, P/B 2.42 | EV/Sales 2.82, EV/EBITDA 5.12 |
-| Growth expectations | Earnings growth 97.40%, EPS q/q 89.10% | Analyst mean target $167.41 (29 analysts) |
+| Valuation | P/E 10.10, forward P/E 9.34, P/S 2.78, P/B 2.46 | EV/Sales 2.82, EV/EBITDA 5.12 |
+| Growth expectations | Earnings growth 97.40%, EPS q/q 89.10% | Analyst mean target $167.86 (29 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
@@ -95,6 +95,7 @@ EOG Resources, Inc., together with its subsidiaries, explores for, develops, pro
 | Ameriprise Financial, Inc. | 9,274,800 | 1.79% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
+- **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -109,21 +110,21 @@ EOG Resources, Inc., together with its subsidiaries, explores for, develops, pro
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 2.82 |
-| Market cap | $79.73B | EV/EBITDA | 5.12 |
+| Price | $156.46 | EV/Sales | 2.82 |
+| Market cap | $81.12B | EV/EBITDA | 5.12 |
 | Beta | 0.27 | Gross margin | 62.98% |
-| RSI(14) | 48.6 | Operating margin | 35.47% |
-| ATR(14) | 4.73 | Profit margin | 28.06% |
-| SMA20 dist | +nan% | ROA | 11.90% |
-| SMA50 dist | +nan% | ROE | 25.83% |
-| SMA200 dist | +nan% | Revenue (ttm) | $29.17B |
+| RSI(14) | 55.5 | Operating margin | 35.47% |
+| ATR(14) | 4.48 | Profit margin | 28.06% |
+| SMA20 dist | +0.03% | ROA | 11.90% |
+| SMA50 dist | +4.86% | ROE | 25.83% |
+| SMA200 dist | +13.89% | Revenue (ttm) | $29.17B |
 | 52W high | $165.54 | Revenue growth y/y | 42.70% |
 | 52W low | $98.64 | Inst. ownership | 99.34% |
-| P/E (ttm) | 9.93 | Insider ownership | 0.29% |
-| Forward P/E | 9.21 | Short float | 3.62% |
-| PEG (trailing) | 1.15 | Avg volume | 3,064,335 |
-| P/S | 2.73 | Employees | 3,400 |
-| P/B | 2.42 | Analyst rec (1=buy..5=sell) | 2.4 |
+| P/E (ttm) | 10.10 | Insider ownership | 0.29% |
+| Forward P/E | 9.34 | Short float | 3.62% |
+| PEG (trailing) | 1.16 | Avg volume | 3,073,782 |
+| P/S | 2.78 | Employees | 3,400 |
+| P/B | 2.46 | Analyst rec (1=buy..5=sell) | 2.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

@@ -4,8 +4,8 @@ Signed file: `EPD.research.12.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-12, ~15-min delayed) |
-| Market cap | $80.14B |
+| Current price | $37.65 (2026-11-12, ~15-min delayed) |
+| Market cap | $81.21B |
 | Sector / Industry | Energy / Oil & Gas Midstream |
 | Main theme | Oil & Gas Midstream — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `EPD.research.12.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +27.07%; price +3.24% vs SMA200. |
+| Fresh setup quality | Watch | -2.94% from 52w high and near SMA20 — check for a tight base. |
 | Fundamental quality | Mixed | Profit margin 10.24%, revenue growth 49.30%. |
-| Value attractiveness | Reasonable | Forward P/E 11.76, EV/Sales 1.79. |
-| Risk level | Moderate | Beta 0.46, ATR nan% of price, short float 2.30%. |
+| Value attractiveness | Reasonable | Forward P/E 11.92, EV/Sales 1.79. |
+| Risk level | Moderate | Beta 0.46, ATR 1.9% of price, short float 2.30%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
@@ -36,30 +36,30 @@ Enterprise Products Partners L.P. provides midstream energy services to producer
 
 | Headline | Source | Date |
 |---|---|---|
+| A $400,000 Portfolio in UPS, Enterprise Products and Pfizer Pays $23,577 a Year in Dividends. Here’s What Happens if One Cuts | TIKR | 2026-11-12 |
+| Will Permian Gas Demand Unlock Stronger Long-Term Growth for EPD? | Zacks | 2026-11-12 |
 | Inflation Is Running Above 3%. These 3 Energy Dividend Stocks Can Keep Up. | 24/7 Wall St. | 2026-11-11 |
 | Enterprise Products Partners (EPD) Stock Looks Like A Bargain On Earnings | Simply Wall St. | 2026-11-11 |
-| Why Kinder Morgan's Chairman Just Bought $15 Million in Stock | MarketBeat | 2026-11-10 |
-| An $850,000 Portfolio in Verizon, Enterprise Products and UPS Pays $51,000 a Year in Dividends. Here’s What Happens if One Cuts | TIKR | 2026-11-10 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $38.80 (+nan%); 52w low $29.63 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 52.9 (neutral) |
-| Volatility | ATR(14) 0.74 (~nan% of price); beta 0.46 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $37.65; 52w high $38.80 (-2.94%); 52w low $29.74 (+26.62%) |
+| Trend | +3.24% vs SMA200, +2.02% vs SMA50, +1.94% vs SMA20 |
+| Momentum | RSI(14) 57.4 (neutral) |
+| Volatility | ATR(14) 0.72 (~1.9% of price); beta 0.46 |
+| Setup perspective | -2.94% from 52w high and near SMA20 — check for a tight base. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | +2.8% |
+| Month | +6.7% |
+| Quarter | -1.8% |
+| Half Y | -1.2% |
+| 1Y | +27.1% |
+| YTD | +24.3% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Enterprise Products Partners L.P. provides midstream energy services to producer
 | Revenue (ttm) | $64.40B | Revenue growth 49.30% y/y |
 | Profitability | Gross 12.56%, operating 12.17%, net 10.24% | ROA —, ROE — |
 | Balance sheet | Cash $246.00M, debt $34.21B | Current ratio —, debt/equity 109.97 |
-| Valuation | P/E 12.30, forward P/E 11.76, P/S 1.24, P/B 2.65 | EV/Sales 1.79, EV/EBITDA 10.77 |
+| Valuation | P/E 12.47, forward P/E 11.92, P/S 1.26, P/B 2.69 | EV/Sales 1.79, EV/EBITDA 10.77 |
 | Growth expectations | Earnings growth 21.60%, EPS q/q 21.40% | Analyst mean target $41.67 (21 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,6 +95,7 @@ Enterprise Products Partners L.P. provides midstream energy services to producer
 | Kayne Anderson Capital Advisors, L.P. | 12,869,425 | 0.60% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
+- **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -109,21 +110,21 @@ Enterprise Products Partners L.P. provides midstream energy services to producer
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 1.79 |
-| Market cap | $80.14B | EV/EBITDA | 10.77 |
+| Price | $37.65 | EV/Sales | 1.79 |
+| Market cap | $81.21B | EV/EBITDA | 10.77 |
 | Beta | 0.46 | Gross margin | 12.56% |
-| RSI(14) | 52.9 | Operating margin | 12.17% |
-| ATR(14) | 0.74 | Profit margin | 10.24% |
-| SMA20 dist | +nan% | ROA | — |
-| SMA50 dist | +nan% | ROE | — |
-| SMA200 dist | +nan% | Revenue (ttm) | $64.40B |
+| RSI(14) | 57.4 | Operating margin | 12.17% |
+| ATR(14) | 0.72 | Profit margin | 10.24% |
+| SMA20 dist | +1.94% | ROA | — |
+| SMA50 dist | +2.02% | ROE | — |
+| SMA200 dist | +3.24% | Revenue (ttm) | $64.40B |
 | 52W high | $38.80 | Revenue growth y/y | 49.30% |
-| 52W low | $29.63 | Inst. ownership | 25.71% |
-| P/E (ttm) | 12.30 | Insider ownership | 33.09% |
-| Forward P/E | 11.76 | Short float | 2.30% |
-| PEG (trailing) | 1.22 | Avg volume | 3,394,084 |
-| P/S | 1.24 | Employees | 0 |
-| P/B | 2.65 | Analyst rec (1=buy..5=sell) | 2.3 |
+| 52W low | $29.74 | Inst. ownership | 25.71% |
+| P/E (ttm) | 12.47 | Insider ownership | 33.09% |
+| Forward P/E | 11.92 | Short float | 2.30% |
+| PEG (trailing) | 1.23 | Avg volume | 3,388,467 |
+| P/S | 1.26 | Employees | 0 |
+| P/B | 2.69 | Analyst rec (1=buy..5=sell) | 2.3 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

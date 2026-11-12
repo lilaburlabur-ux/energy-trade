@@ -4,24 +4,24 @@ Signed file: `BWXT.research.12.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-12, ~15-min delayed) |
-| Market cap | $11.52B |
+| Current price | $124.63 (2026-11-12, ~15-min delayed) |
+| Market cap | $11.42B |
 | Sector / Industry | Industrials / Aerospace & Defense |
 | Main theme | Aerospace & Defense — see catalysts below |
-| Current stance | Moderate technical momentum, mixed fundamentals, value: fair-to-demanding, risk: moderate. |
+| Current stance | Low technical momentum, mixed fundamentals, value: fair-to-demanding, risk: elevated. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-12.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-31.01%) with negative half-year (-40.74%). |
+| Fresh setup quality | Poor / broken | -47.57% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 10.41%, revenue growth 10.00%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 24.08, EV/Sales 3.60. |
-| Risk level | Moderate | Beta 0.72, ATR nan% of price, short float 5.03%. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 23.88, EV/Sales 3.60. |
+| Risk level | Elevated | Beta 0.72, ATR 4.8% of price, short float 5.03%. |
 
-**Bottom line:** Moderate technical momentum, mixed fundamentals, value: fair-to-demanding, risk: moderate.
+**Bottom line:** Low technical momentum, mixed fundamentals, value: fair-to-demanding, risk: elevated.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -44,22 +44,22 @@ BWX Technologies, Inc. manufactures and sells nuclear components in the United S
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $237.73 (+nan%); 52w low $114.96 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 44.0 (neutral) |
-| Volatility | ATR(14) 6.23 (~nan% of price); beta 0.72 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $124.63; 52w high $237.73 (-47.57%); 52w low $114.96 (+8.41%) |
+| Trend | -31.01% vs SMA200, -9.85% vs SMA50, -3.71% vs SMA20 |
+| Momentum | RSI(14) 42.1 (neutral) |
+| Volatility | ATR(14) 5.96 (~4.8% of price); beta 0.72 |
+| Setup perspective | -47.57% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | +8.4% |
+| Month | -7.3% |
+| Quarter | -27.9% |
+| Half Y | -40.7% |
+| 1Y | -35.9% |
+| YTD | -31.2% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ BWX Technologies, Inc. manufactures and sells nuclear components in the United S
 | Revenue (ttm) | $3.60B | Revenue growth 10.00% y/y |
 | Profitability | Gross 22.61%, operating 10.42%, net 10.41% | ROA 5.49%, ROE 28.27% |
 | Balance sheet | Cash $568.53M, debt $2.02B | Current ratio 1.88, debt/equity 142.56 |
-| Valuation | P/E 30.88, forward P/E 24.08, P/S 3.20, P/B 8.12 | EV/Sales 3.60, EV/EBITDA 26.09 |
+| Valuation | P/E 30.62, forward P/E 23.88, P/S 3.17, P/B 8.05 | EV/Sales 3.60, EV/EBITDA 26.09 |
 | Growth expectations | Earnings growth 24.60%, EPS q/q 23.90% | Analyst mean target $202.32 (16 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,8 +95,10 @@ BWX Technologies, Inc. manufactures and sells nuclear components in the United S
 | Invesco Ltd. | 1,835,328 | 2.00% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 24.08, EV/Sales 3.60. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 23.88, EV/Sales 3.60. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 0.72, ATR 4.8% of price, short float 5.03%. Size positions accordingly.
 - **Short interest risk:** short float 5.03% can fuel squeezes both ways around news.
+- **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** defense/aerospace names live and die on government budgets, appropriations timing, and program/contract awards — revenue is policy-driven and lumpy.
 
 ### Setup checklist for your journal
@@ -111,21 +113,21 @@ BWX Technologies, Inc. manufactures and sells nuclear components in the United S
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 3.60 |
-| Market cap | $11.52B | EV/EBITDA | 26.09 |
+| Price | $124.63 | EV/Sales | 3.60 |
+| Market cap | $11.42B | EV/EBITDA | 26.09 |
 | Beta | 0.72 | Gross margin | 22.61% |
-| RSI(14) | 44.0 | Operating margin | 10.42% |
-| ATR(14) | 6.23 | Profit margin | 10.41% |
-| SMA20 dist | +nan% | ROA | 5.49% |
-| SMA50 dist | +nan% | ROE | 28.27% |
-| SMA200 dist | +nan% | Revenue (ttm) | $3.60B |
+| RSI(14) | 42.1 | Operating margin | 10.42% |
+| ATR(14) | 5.96 | Profit margin | 10.41% |
+| SMA20 dist | -3.71% | ROA | 5.49% |
+| SMA50 dist | -9.85% | ROE | 28.27% |
+| SMA200 dist | -31.01% | Revenue (ttm) | $3.60B |
 | 52W high | $237.73 | Revenue growth y/y | 10.00% |
 | 52W low | $114.96 | Inst. ownership | 92.85% |
-| P/E (ttm) | 30.88 | Insider ownership | 0.36% |
-| Forward P/E | 24.08 | Short float | 5.03% |
-| PEG (trailing) | — | Avg volume | 1,222,321 |
-| P/S | 3.20 | Employees | 10,400 |
-| P/B | 8.12 | Analyst rec (1=buy..5=sell) | 1.6 |
+| P/E (ttm) | 30.62 | Insider ownership | 0.36% |
+| Forward P/E | 23.88 | Short float | 5.03% |
+| PEG (trailing) | — | Avg volume | 1,222,937 |
+| P/S | 3.17 | Employees | 10,400 |
+| P/B | 8.05 | Analyst rec (1=buy..5=sell) | 1.6 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
@@ -140,7 +142,7 @@ BWX Technologies, Inc. manufactures and sells nuclear components in the United S
 | 2026-09-15 | init | Guggenheim | — → Buy |
 
 ## 9. Conclusion
-BWXT: Moderate momentum / mixed fundamentals / fair-to-demanding value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+BWXT: Low momentum / mixed fundamentals / fair-to-demanding value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |
