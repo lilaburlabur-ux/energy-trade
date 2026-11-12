@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-12T10:20:13+00:00",
-  "as_of_local": "2026-11-12 10:20:13 UTC",
+  "as_of_utc": "2026-11-12T10:24:49+00:00",
+  "as_of_local": "2026-11-12 10:24:49 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NXE"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -627,7 +629,26 @@
       "previous_close": 49.9,
       "change_pct": 2.12,
       "market_cap": 75218467727.13452,
-      "headlines": []
+      "headlines": [
+        {
+          "title": "SLB (SLB) Stock Still Looks Undervalued Despite Its 70% Run",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/slb-slb-stock-still-looks-151819577.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-07T15:18:19Z"
+        },
+        {
+          "title": "SLB (SLB) Could Be 20% Below Fair Value After New Contract Wins",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/slb-slb-could-20-below-141006503.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-07T14:10:06Z"
+        },
+        {
+          "title": "Why Is SLB (SLB) Pairing A Norway Contract With New Production Chemistry?",
+          "url": "https://finance.yahoo.com/energy/articles/why-slb-slb-pairing-norway-001149806.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-07T00:11:49Z"
+        }
+      ]
     },
     {
       "symbol": "KMI",
@@ -1112,7 +1133,26 @@
       "previous_close": 31.86,
       "change_pct": 3.36,
       "market_cap": 27237270694.478928,
-      "headlines": []
+      "headlines": [
+        {
+          "title": "Are Wall Street Analysts Bullish on Halliburton Stock?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-halliburton-094239612.html",
+          "publisher": "Barchart",
+          "published": "2026-11-09T09:42:39Z"
+        },
+        {
+          "title": "Why Is Baker Hughes Stock Falling?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-baker-hughes-stock-falling-141921435.html",
+          "publisher": "Trefis",
+          "published": "2026-11-06T14:19:21Z"
+        },
+        {
+          "title": "CLB Q3 Earnings Miss Estimates on Higher Costs and Disruptions",
+          "url": "https://finance.yahoo.com/energy/articles/clb-q3-earnings-miss-estimates-155400926.html",
+          "publisher": "Zacks",
+          "published": "2026-11-03T15:54:00Z"
+        }
+      ]
     },
     {
       "symbol": "FTI",
@@ -1531,34 +1571,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/weatherford-3-key-takeaways-long-212002900.html",
           "publisher": "Motley Fool",
           "published": "2026-10-28T21:20:02Z"
-        }
-      ]
-    },
-    {
-      "symbol": "NXE",
-      "name": "NexGen Energy",
-      "price": 8.32,
-      "previous_close": 8.33,
-      "change_pct": -0.12,
-      "market_cap": 5724449001.548454,
-      "headlines": [
-        {
-          "title": "NexGen Energy (TSX:NXE) Looks Fully Priced After Q3 Loss Narrows",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nexgen-energy-tsx-nxe-looks-161315873.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-11T16:13:15Z"
-        },
-        {
-          "title": "NexGen Energy (TSX:NXE) Stock May Trade At A Premium On Rook I Progress",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nexgen-energy-tsx-nxe-stock-141125243.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-11T14:11:25Z"
-        },
-        {
-          "title": "NexGen Energy Ltd (NXE) (Q3 2026) Earnings Call Highlights: Rook I on Track as Uranium Market ...",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nexgen-energy-ltd-nxe-q3-010439781.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-11T01:04:39Z"
         }
       ]
     },
@@ -2077,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 85.77,
-      "change_pct": -0.88
+      "price": 85.81,
+      "change_pct": -0.83
     },
     {
       "label": "Brent",
-      "price": 91.91,
-      "change_pct": -0.92
+      "price": 91.95,
+      "change_pct": -0.87
     },
     {
       "label": "NatGas",
       "price": 3.31,
-      "change_pct": 3.08
+      "change_pct": 2.8
     }
   ]
 }
