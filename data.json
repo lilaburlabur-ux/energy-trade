@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-12T12:31:42+00:00",
-  "as_of_local": "2026-11-12 12:31:42 UTC",
+  "as_of_utc": "2026-11-12T12:36:42+00:00",
+  "as_of_local": "2026-11-12 12:36:42 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "CEG"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -423,6 +421,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/strong-buy-stocks-november-9th-053100124.html",
           "publisher": "Zacks",
           "published": "2026-11-09T05:31:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "CEG",
+      "name": "Constellation Energy",
+      "price": 274.73,
+      "previous_close": 267.76,
+      "change_pct": 2.6,
+      "market_cap": 96597408166.8064,
+      "headlines": [
+        {
+          "title": "What Utilities Select Sector SPDR ETF (XLU) Sold: NextEra Leads on Nov. 10",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/utilities-select-sector-spdr-etf-110433066.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-12T11:04:33Z"
+        },
+        {
+          "title": "ETFs Are Net Sellers of Constellation Energy (CEG) on Tuesday",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-constellation-energy-110253077.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-12T11:02:53Z"
+        },
+        {
+          "title": "Constellation Energy (CEG) Launched Peak+ Nuclear And Storage Contracts",
+          "url": "https://finance.yahoo.com/energy/articles/constellation-energy-ceg-launched-peak-051302047.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-12T05:13:02Z"
         }
       ]
     },
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 85.85,
-      "change_pct": -0.79
+      "price": 85.77,
+      "change_pct": -0.88
     },
     {
       "label": "Brent",
-      "price": 92.22,
-      "change_pct": -0.58
+      "price": 92.08,
+      "change_pct": -0.73
     },
     {
       "label": "NatGas",
-      "price": 3.28,
-      "change_pct": 1.93
+      "price": 3.29,
+      "change_pct": 2.27
     }
   ]
 }
