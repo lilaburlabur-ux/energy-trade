@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-12T00:57:06+00:00",
-  "as_of_local": "2026-11-12 00:57:06 UTC",
+  "as_of_utc": "2026-11-12T01:00:19+00:00",
+  "as_of_local": "2026-11-12 01:00:19 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "VLO"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -94,7 +96,7 @@
       "price": 808.24,
       "previous_close": 797.04,
       "change_pct": 1.41,
-      "market_cap": 213922589239.10303,
+      "market_cap": 213922591823.84,
       "headlines": [
         {
           "title": "GE Vernova\u2019s Ontario Nuclear Plant Is Facing Delays And Rising Costs",
@@ -150,7 +152,7 @@
       "price": 85.99,
       "previous_close": 86.27,
       "change_pct": -0.32,
-      "market_cap": 180347342673.1809,
+      "market_cap": 180347347153.50998,
       "headlines": [
         {
           "title": "NextEra Energy (NEE) Could Be 8% Undervalued After Dominion Merger Scrutiny",
@@ -206,7 +208,7 @@
       "price": 360.62,
       "previous_close": 354.22,
       "change_pct": 1.81,
-      "market_cap": 140100868103.02734,
+      "market_cap": 140100870000.0,
       "headlines": [
         {
           "title": "The Reason To Buy Vertiv Stock Today",
@@ -290,7 +292,7 @@
       "price": 93.84,
       "previous_close": 93.65,
       "change_pct": 0.2,
-      "market_cap": 109254250697.70877,
+      "market_cap": 109254254961.36,
       "headlines": [
         {
           "title": "State Street Utilities SPDR (XLU) Buys $76 Million More NextEra on Monday",
@@ -309,34 +311,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/state-street-utilities-spdr-xlu-110534996.html",
           "publisher": "GuruFocus.com",
           "published": "2026-11-09T11:05:34Z"
-        }
-      ]
-    },
-    {
-      "symbol": "VLO",
-      "name": "Valero Energy",
-      "price": 363.71,
-      "previous_close": 350.71,
-      "change_pct": 3.71,
-      "market_cap": 101433042740.95459,
-      "headlines": [
-        {
-          "title": "Will Wider Heavy Crude Discounts Strengthen Phillips 66's Margins?",
-          "url": "https://finance.yahoo.com/energy/articles/wider-heavy-crude-discounts-strengthen-171700183.html",
-          "publisher": "Zacks",
-          "published": "2026-11-11T17:17:00Z"
-        },
-        {
-          "title": "3 Reasons Why Growth Investors Shouldn't Overlook Valero Energy (VLO)",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-why-growth-investors-164502537.html",
-          "publisher": "Zacks",
-          "published": "2026-11-11T16:45:02Z"
-        },
-        {
-          "title": "PBF Energy Is Now Undervalued: Is This a Strong Entry Point?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/pbf-energy-now-undervalued-strong-160600490.html",
-          "publisher": "Zacks",
-          "published": "2026-11-11T16:06:00Z"
         }
       ]
     },
@@ -374,7 +348,7 @@
       "price": 128.77,
       "previous_close": 128.94,
       "change_pct": -0.13,
-      "market_cap": 100403040735.96324,
+      "market_cap": 100403037404.69,
       "headlines": [
         {
           "title": "SPLV Lost $107,460 on $300,000 in the 2020 Crash, More Than VOO\u2019s $102,030",
@@ -430,7 +404,7 @@
       "price": 274.73,
       "previous_close": 267.76,
       "change_pct": 2.6,
-      "market_cap": 96597408166.8064,
+      "market_cap": 96597404303.92001,
       "headlines": [
         {
           "title": "Fusion's Next Race Is Over Superconducting Tape, Not Plasma",
@@ -458,7 +432,7 @@
       "price": 607.94,
       "previous_close": 583.14,
       "change_pct": 4.25,
-      "market_cap": 91602663899.16412,
+      "market_cap": 91602663531.3,
       "headlines": [
         {
           "title": "EMCOR Stock Plunges 17% in a Month: Buy the Low Now or Wait?",
@@ -501,10 +475,10 @@
           "published": "2026-11-11T15:39:00Z"
         },
         {
-          "title": "What Are Wall Street Analysts' Target Price for Williams Companies Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-075605703.html",
-          "publisher": "Barchart",
-          "published": "2026-11-06T07:56:05Z"
+          "title": "ETFs Are Net Sellers of Williams (WMB) on Nov. 4",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-williams-wmb-110344609.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-06T11:03:44Z"
         }
       ]
     },
@@ -570,7 +544,7 @@
       "price": 206.51,
       "previous_close": 194.22,
       "change_pct": 6.33,
-      "market_cap": 79518825425.50993,
+      "market_cap": 79518827540.70999,
       "headlines": [
         {
           "title": "The Reason To Buy Vertiv Stock Today",
@@ -766,7 +740,7 @@
       "price": 209.47,
       "previous_close": 185.42,
       "change_pct": 12.97,
-      "market_cap": 61906181205.753204,
+      "market_cap": 61906180844.99,
       "headlines": [
         {
           "title": "Bloom Energy stock surges as CoreWeave earnings spur rally in power stocks",
@@ -778,7 +752,7 @@
           "title": "Dow Jones Futures: Techs Tumble As Nvidia May Oust CEO Huang; AI Stocks Slide, But Not AMD",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-coreweave-sandisk-nvidia-amd-nebius-bloom/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
-          "published": "2026-11-12T00:44:18Z"
+          "published": "2026-11-12T00:49:22Z"
         },
         {
           "title": "What\u2019s Propelling Bloom Energy\u2019s (BE) 13% Run?",
@@ -794,7 +768,7 @@
       "price": 68.06,
       "previous_close": 68.37,
       "change_pct": -0.45,
-      "market_cap": 59863265121.30188,
+      "market_cap": 59863267268.68,
       "headlines": [
         {
           "title": "NextEra Energy (NEE) Could Be 8% Undervalued After Dominion Merger Scrutiny",
@@ -906,7 +880,7 @@
       "price": 111.99,
       "previous_close": 111.71,
       "change_pct": 0.25,
-      "market_cap": 53511858260.041145,
+      "market_cap": 53511859280.79,
       "headlines": [
         {
           "title": "All You Need to Know About Entergy (ETR) Rating Upgrade to Buy",
@@ -1018,7 +992,7 @@
       "price": 133.45,
       "previous_close": 131.18,
       "change_pct": 1.73,
-      "market_cap": 45292219410.599625,
+      "market_cap": 45292220446.35,
       "headlines": [
         {
           "title": "Financial Services Roundup: Market Talk",
@@ -1046,7 +1020,7 @@
       "price": 74.29,
       "previous_close": 74.68,
       "change_pct": -0.52,
-      "market_cap": 37034710785.334496,
+      "market_cap": 37034710328.93,
       "headlines": [
         {
           "title": "How Earnings Miss Will Impact PSEG Stock Investors",
@@ -1102,7 +1076,7 @@
       "price": 74.32,
       "previous_close": 72.87,
       "change_pct": 1.99,
-      "market_cap": 32368810866.365883,
+      "market_cap": 32368810999.28,
       "headlines": [
         {
           "title": "3 Canadian Nuclear Stocks To Own In November 2026",
@@ -1159,26 +1133,7 @@
       "previous_close": 64.55,
       "change_pct": 1.3,
       "market_cap": 25425812257.61496,
-      "headlines": [
-        {
-          "title": "What State Street SPDR S&P MidCap 400 ETF (MDY) Sold: TechnipFMC Leads on Friday",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/state-street-spdr-p-midcap-110557710.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-10T11:05:57Z"
-        },
-        {
-          "title": "3 Reasons Growth Investors Will Love FMC Technologies (FTI)",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-growth-investors-love-164502450.html",
-          "publisher": "Zacks",
-          "published": "2026-11-06T16:45:02Z"
-        },
-        {
-          "title": "Why Is Baker Hughes Stock Falling?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-baker-hughes-stock-falling-141921435.html",
-          "publisher": "Trefis",
-          "published": "2026-11-06T14:19:21Z"
-        }
-      ]
+      "headlines": []
     },
     {
       "symbol": "HUBB",
@@ -1186,7 +1141,7 @@
       "price": 443.48,
       "previous_close": 437.79,
       "change_pct": 1.3,
-      "market_cap": 23431281902.26303,
+      "market_cap": 23431281321.8,
       "headlines": [
         {
           "title": "FPS Declines 42% in a Month: Time to Buy the Stock Now?",
@@ -1242,7 +1197,7 @@
       "price": 178.11,
       "previous_close": 180.98,
       "change_pct": -1.59,
-      "market_cap": 19143467870.21129,
+      "market_cap": 19143467804.61,
       "headlines": [
         {
           "title": "First Solar Stock: Is Wall Street Bullish or Bearish?",
@@ -1298,7 +1253,7 @@
       "price": 101.73,
       "previous_close": 98.76,
       "change_pct": 3.01,
-      "market_cap": 17219956081.952057,
+      "market_cap": 17219955513.72,
       "headlines": [
         {
           "title": "Can HF Sinclair Capitalize on Tight Global Refined Product Supplies?",
@@ -1354,7 +1309,7 @@
       "price": 378.71,
       "previous_close": 361.18,
       "change_pct": 4.85,
-      "market_cap": 16475896335.770508,
+      "market_cap": 16475896707.519999,
       "headlines": [
         {
           "title": "Sector Update: Energy Stocks Higher Late Afternoon",
@@ -1410,7 +1365,7 @@
       "price": 100.59,
       "previous_close": 99.82,
       "change_pct": 0.77,
-      "market_cap": 15146392514.225922,
+      "market_cap": 15146393065.65,
       "headlines": [
         {
           "title": "The Zacks Analyst Blog Highlights Microsoft, Amazon, Alphabet, Nextpower and Centene",
@@ -1466,7 +1421,7 @@
       "price": 125.68,
       "previous_close": 126.64,
       "change_pct": -0.76,
-      "market_cap": 11515454786.921791,
+      "market_cap": 11515454758.960001,
       "headlines": [
         {
           "title": "Q3 Earnings Season Winners: 3 Companies Raising Guidance",
@@ -1494,7 +1449,7 @@
       "price": 30.49,
       "previous_close": 30.08,
       "change_pct": 1.36,
-      "market_cap": 9231831464.958637,
+      "market_cap": 9231831534.26,
       "headlines": [
         {
           "title": "BEP- A Renewable Energy Play that Should Benefit from the Midterms",
@@ -1578,7 +1533,7 @@
       "price": 8.32,
       "previous_close": 8.33,
       "change_pct": -0.12,
-      "market_cap": 5724449001.548454,
+      "market_cap": 5724449211.52,
       "headlines": [
         {
           "title": "NexGen Energy (TSX:NXE) Looks Fully Priced After Q3 Loss Narrows",
@@ -1606,7 +1561,7 @@
       "price": 25.86,
       "previous_close": 25.09,
       "change_pct": 3.07,
-      "market_cap": 5050188994.175308,
+      "market_cap": 5050188874.98,
       "headlines": [
         {
           "title": "GE Vernova\u2019s Ontario Nuclear Plant Is Facing Delays And Rising Costs",
@@ -1634,7 +1589,7 @@
       "price": 28.3,
       "previous_close": 27.64,
       "change_pct": 2.39,
-      "market_cap": 3744493938.152218,
+      "market_cap": 3744494039.1,
       "headlines": [
         {
           "title": "Enphase Energy (ENPH) Could Be 32% Undervalued As Shipments Put Valuation Back In Focus",
@@ -1662,7 +1617,7 @@
       "price": 7.23,
       "previous_close": 7.17,
       "change_pct": 0.84,
-      "market_cap": 3583077137.4025273,
+      "market_cap": 3583077127.9500003,
       "headlines": [
         {
           "title": "Purepoint Uranium CEO explains why rising uranium prices aren't lifting stocks",
@@ -1690,7 +1645,7 @@
       "price": 112.17,
       "previous_close": 109.87,
       "change_pct": 2.09,
-      "market_cap": 2312771498.7464905,
+      "market_cap": 2312771536.5,
       "headlines": [
         {
           "title": "Centrus' Backlog Hit $5.4 Billion. Its Quarterly Revenue Was $55 Million. Here's How Those Numbers Fit Together.",
@@ -1718,7 +1673,7 @@
       "price": 9.07,
       "previous_close": 8.71,
       "change_pct": 4.13,
-      "market_cap": 2194583121.4294662,
+      "market_cap": 2194583195.27,
       "headlines": [
         {
           "title": "Wall Street Analysts See a 45.07% Upside in Sunrun (RUN): Can the Stock Really Move This High?",
@@ -1746,7 +1701,7 @@
       "price": 5.23,
       "previous_close": 5.22,
       "change_pct": 0.19,
-      "market_cap": 2147131487.9904556,
+      "market_cap": 2147131480.16,
       "headlines": [
         {
           "title": "Bad News for Nuclear: A Landmark Reactor Just Got Delayed",
@@ -1774,7 +1729,7 @@
       "price": 6.93,
       "previous_close": 6.74,
       "change_pct": 2.82,
-      "market_cap": 1835257564.8792715,
+      "market_cap": 1835257610.34,
       "headlines": [
         {
           "title": "3 Canadian Nuclear Stocks To Own In November 2026",
@@ -1802,7 +1757,7 @@
       "price": 26.67,
       "previous_close": 25.86,
       "change_pct": 3.13,
-      "market_cap": 1651257079.393694,
+      "market_cap": 1651257074.67,
       "headlines": [
         {
           "title": "T1 Energy to Release Q3 Earnings: Here's What You Need to Know",
@@ -1830,7 +1785,7 @@
       "price": 5.2,
       "previous_close": 4.73,
       "change_pct": 9.94,
-      "market_cap": 802200673.7754536,
+      "market_cap": 802200703.2,
       "headlines": [
         {
           "title": "Array Technologies' Merger With Shoals Expected to Boost Cash Flow, RBC Capital Markets Says",
@@ -1858,7 +1813,7 @@
       "price": 1.99,
       "previous_close": 1.74,
       "change_pct": 14.37,
-      "market_cap": 729064361.5039194,
+      "market_cap": 729064358.01,
       "headlines": [
         {
           "title": "Eos Energy Enterprises (EOSE) Stock Looks Fully Priced After Revenue Jump",
@@ -1886,7 +1841,7 @@
       "price": 5.08,
       "previous_close": 4.91,
       "change_pct": 3.46,
-      "market_cap": 727271016.117485,
+      "market_cap": 727271027.04,
       "headlines": [
         {
           "title": "Gevo, Inc. (GEVO) Q3 Earnings and Revenues Beat Estimates",
@@ -1966,8 +1921,8 @@
           "name": "Valero Energy Corp",
           "short": "Valero",
           "weight_pct": 4.28,
-          "change_pct": 3.71,
-          "price": 363.71,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -2065,8 +2020,8 @@
         "name": "Valero Energy Corp",
         "short": "Valero",
         "weight_pct": 4.28,
-        "change_pct": 3.71,
-        "price": 363.71,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -2115,18 +2070,18 @@
     },
     {
       "label": "WTI",
-      "price": 86.09,
-      "change_pct": 0.06
+      "price": 86.03,
+      "change_pct": -0.01
     },
     {
       "label": "Brent",
-      "price": 92.28,
-      "change_pct": 0.86
+      "price": 92.25,
+      "change_pct": 0.83
     },
     {
       "label": "NatGas",
       "price": 3.25,
-      "change_pct": -1.3
+      "change_pct": -1.33
     }
   ]
 }
