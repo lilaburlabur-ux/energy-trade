@@ -1,10 +1,91 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-12T14:53:19+00:00",
+  "as_of": "2026-11-12T15:08:27+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": []
+ "hot_tickers": [
+  {
+   "rank": 1,
+   "ticker": "BE",
+   "company": "Bloom Energy Corporation",
+   "move_pct": -6.53,
+   "price": 195.79,
+   "volume": 5661315,
+   "volume_vs_avg": "~0.3x",
+   "heat_score": 40,
+   "direction": "down",
+   "why": "What Changed For Bloom Energy Stock, And What Did Not?",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVXJ2UHc1a1VXME1KaVpXdVpRQnQ0TlEzRF9PdEZOU3ltbXNBLWpFVGktMGtBTUJLSWJhUzlTMDhib1hUdzJPV1pCaEpSVnNqTEV0cGoxWFF0eElhS3ZabVNqWmlMdmtEZ1ZZNmhyck5wTmZ1SjJnWFVXVjN3Rkt4cm1uU0FPaGM4ZlRHZVlLUUVLVDZiM1FxTVdLVzEtdGNJZHMtZzh5dkhscXlTQnREYg?oc=5",
+   "published": "2026-11-12T13:25:36+00:00",
+   "sector": "Grid, Storage & Electrification"
+  },
+  {
+   "rank": 2,
+   "ticker": "OKLO",
+   "company": "Oklo Inc.",
+   "move_pct": -6.61,
+   "price": 24.15,
+   "volume": 1700126,
+   "volume_vs_avg": "~0.2x",
+   "heat_score": 39,
+   "direction": "down",
+   "why": "Oklo Signs Multiyear Uranium Supply Deals With Centrus Energy",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUEs1QWkzeWFWQkJqQ2Iwa0ZwUUUwdGRZQ2tEUjVHNDFpUmdIYkFvM1NsM1lQelRUTFF3R05JX0twYmZKQnNTRFk3cVd4UUFUeklINUtjYWotdXRWNXowc1Y5M2N2a3FJZ3k0RWRZZHpmTkxNbTVDbUctWG1XcWo2SFk3NnJDd3AxOG0xTmdMeDlZRXp5eVJBYnloZWt4a3c4aTlqMm9reDNIVmtxUTRXUExYNWw?oc=5",
+   "published": "2026-11-12T14:28:26+00:00",
+   "sector": "Nuclear & Uranium"
+  },
+  {
+   "rank": 3,
+   "ticker": "LEU",
+   "company": "Centrus Energy Corp.",
+   "move_pct": -5.5,
+   "price": 106.0,
+   "volume": 92968,
+   "volume_vs_avg": "~0.1x",
+   "heat_score": 35,
+   "direction": "down",
+   "why": "Oklo Signs Multiyear Uranium Supply Deals With Centrus Energy",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUEs1QWkzeWFWQkJqQ2Iwa0ZwUUUwdGRZQ2tEUjVHNDFpUmdIYkFvM1NsM1lQelRUTFF3R05JX0twYmZKQnNTRFk3cVd4UUFUeklINUtjYWotdXRWNXowc1Y5M2N2a3FJZ3k0RWRZZHpmTkxNbTVDbUctWG1XcWo2SFk3NnJDd3AxOG0xTmdMeDlZRXp5eVJBYnloZWt4a3c4aTlqMm9reDNIVmtxUTRXUExYNWw?oc=5",
+   "published": "2026-11-12T14:28:26+00:00",
+   "sector": "Nuclear & Uranium"
+  },
+  {
+   "rank": 4,
+   "ticker": "RUN",
+   "company": "Sunrun Inc.",
+   "move_pct": -5.35,
+   "price": 8.59,
+   "volume": 1276519,
+   "volume_vs_avg": "~0.1x",
+   "heat_score": 34,
+   "direction": "down",
+   "why": "What The Bulls Got Wrong Before Sunrun Fell 53%",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaXBwSk5HNzM3Y3NWMXpOUnpmck1wc0VVbDYxcGMwOTdDdVZBQVRzVnhCaUFxZkhSdUhRUjBlRnltQldQSVZDSEdhSUwxbTRNLUp1TGYtREVmcVdBUERld1VoSUpmMXpJWEpMMU1ORjV1TUpKcDhpUjl3dHF0RlJTR29jSGhodmdJMmRjU051TmNWMXdFYWNsWFpvR3dmY00zdkFHcGVpYXNyY0NQR2VnRGFBRUlkd9IBuwFBVV95cUxQT3pXWTQ0RVdkS21KODMwNUgydEtFYzU3VEpUbVlPQWZ3WVZWQkhfQXh5dnRCcFk3bU5fdk90SnN1d011V1l5dUhZd0FFMXl5b1ZTUVFCVjVDUV93ZnpTdUlLd2lqa3gzcUpoRF9IYW9xVkpZQkNxaGpXeUktN3FSWXV0OGs4Unc1ZkoyT1Bieks0N1ZibXFNWEt4Z0FNMWRJWnUtX003cFp0SWw1NFFSM1M3MkdJQVhzSU1V?oc=5",
+   "published": "2026-11-12T11:31:47+00:00",
+   "sector": "Renewables & Solar"
+  },
+  {
+   "rank": 5,
+   "ticker": "UEC",
+   "company": "Uranium Energy Corp.",
+   "move_pct": -5.05,
+   "price": 6.86,
+   "volume": 1099741,
+   "volume_vs_avg": "~0.1x",
+   "heat_score": 33,
+   "direction": "down",
+   "why": "Uranium Energy Corp. (UEC.VI) Stock Price, News, Quote & History",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9VQ1U2bVpTZW5hYkVrSzhxZ19hb3UwZ1U5M3BPd0phZmw5RG9UNTd2SHlwN0lxcmVNVG95Z2tLR01CNlBWcWNVSkJjaXBaVmtjRE80NQ?oc=5",
+   "published": "2026-11-12T14:33:58+00:00",
+   "sector": "Nuclear & Uranium"
+  }
+ ]
 }
