@@ -4,8 +4,8 @@ Signed file: `MPC.research.12.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $414.05 (2026-11-12, ~15-min delayed) |
-| Market cap | $112.74B |
+| Current price | $413.92 (2026-11-12, ~15-min delayed) |
+| Market cap | $112.70B |
 | Sector / Industry | Energy / Oil & Gas Refining & Marketing |
 | Main theme | Oil & Gas Refining & Marketing — see catalysts below |
 | Current stance | High technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
@@ -15,8 +15,8 @@ Signed file: `MPC.research.12.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +110.35%; price +38.14% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -14.61% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +110.28%; price +38.10% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -14.64% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 8.34%, revenue growth 60.90%. |
 | Value attractiveness | Reasonable | Forward P/E 6.74, EV/Sales 0.78. |
 | Risk level | Elevated | Beta 0.51, ATR 4.6% of price, short float 2.73%. |
@@ -44,11 +44,11 @@ Marathon Petroleum Corporation, together with its subsidiaries, operates as an i
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $414.05; 52w high $484.92 (-14.61%); 52w low $160.76 (+157.55%) |
-| Trend | +38.14% vs SMA200, -2.21% vs SMA50, -4.07% vs SMA20 |
+| Price vs 52-week range | Close $413.92; 52w high $484.92 (-14.64%); 52w low $160.76 (+157.47%) |
+| Trend | +38.10% vs SMA200, -2.24% vs SMA50, -4.10% vs SMA20 |
 | Momentum | RSI(14) 47.6 (neutral) |
 | Volatility | ATR(14) 18.94 (~4.6% of price); beta 0.51 |
-| Setup perspective | -14.61% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -14.64% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
@@ -57,7 +57,7 @@ Marathon Petroleum Corporation, together with its subsidiaries, operates as an i
 | Week | +9.7% |
 | Month | -14.6% |
 | Quarter | +16.8% |
-| Half Y | +67.5% |
+| Half Y | +67.4% |
 | 1Y | +110.3% |
 | YTD | +153.6% |
 
@@ -68,7 +68,7 @@ Marathon Petroleum Corporation, together with its subsidiaries, operates as an i
 | Revenue (ttm) | $175.40B | Revenue growth 60.90% y/y |
 | Profitability | Gross 16.20%, operating 11.65%, net 8.34% | ROA 13.75%, ROE 60.46% |
 | Balance sheet | Cash $13.61B, debt $34.45B | Current ratio 1.45, debt/equity 115.42 |
-| Valuation | P/E 8.20, forward P/E 6.74, P/S 0.64, P/B 4.91 | EV/Sales 0.78, EV/EBITDA 5.78 |
+| Valuation | P/E 8.20, forward P/E 6.74, P/S 0.64, P/B 4.90 | EV/Sales 0.78, EV/EBITDA 5.78 |
 | Growth expectations | Earnings growth 489.60%, EPS q/q 443.60% | Analyst mean target $461.94 (17 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -110,21 +110,21 @@ Marathon Petroleum Corporation, together with its subsidiaries, operates as an i
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $414.05 | EV/Sales | 0.78 |
-| Market cap | $112.74B | EV/EBITDA | 5.78 |
+| Price | $413.92 | EV/Sales | 0.78 |
+| Market cap | $112.70B | EV/EBITDA | 5.78 |
 | Beta | 0.51 | Gross margin | 16.20% |
 | RSI(14) | 47.6 | Operating margin | 11.65% |
 | ATR(14) | 18.94 | Profit margin | 8.34% |
-| SMA20 dist | -4.07% | ROA | 13.75% |
-| SMA50 dist | -2.21% | ROE | 60.46% |
-| SMA200 dist | +38.14% | Revenue (ttm) | $175.40B |
+| SMA20 dist | -4.10% | ROA | 13.75% |
+| SMA50 dist | -2.24% | ROE | 60.46% |
+| SMA200 dist | +38.10% | Revenue (ttm) | $175.40B |
 | 52W high | $484.92 | Revenue growth y/y | 60.90% |
 | 52W low | $160.76 | Inst. ownership | 80.80% |
 | P/E (ttm) | 8.20 | Insider ownership | 0.34% |
 | Forward P/E | 6.74 | Short float | 2.73% |
 | PEG (trailing) | 0.93 | Avg volume | 2,530,650 |
 | P/S | 0.64 | Employees | 18,500 |
-| P/B | 4.91 | Analyst rec (1=buy..5=sell) | 2.3 |
+| P/B | 4.90 | Analyst rec (1=buy..5=sell) | 2.3 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

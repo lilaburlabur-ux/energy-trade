@@ -4,8 +4,8 @@ Signed file: `VLO.research.12.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $375.84 (2026-11-12, ~15-min delayed) |
-| Market cap | $104.82B |
+| Current price | $376.12 (2026-11-12, ~15-min delayed) |
+| Market cap | $104.90B |
 | Sector / Industry | Energy / Oil & Gas Refining & Marketing |
 | Main theme | Oil & Gas Refining & Marketing — see catalysts below |
 | Current stance | High technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
@@ -15,8 +15,8 @@ Signed file: `VLO.research.12.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +112.21%; price +28.39% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -18.26% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +112.37%; price +28.48% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -18.19% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 8.83%, revenue growth 46.50%. |
 | Value attractiveness | Reasonable | Forward P/E 7.03, EV/Sales 0.72. |
 | Risk level | Elevated | Beta 0.55, ATR 4.8% of price, short float 2.90%. |
@@ -44,22 +44,22 @@ Valero Energy Corporation manufactures, markets, and sells petroleum-based and l
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $375.84; 52w high $459.78 (-18.26%); 52w low $159.58 (+135.52%) |
-| Trend | +28.39% vs SMA200, -5.99% vs SMA50, -4.36% vs SMA20 |
-| Momentum | RSI(14) 45.6 (neutral) |
+| Price vs 52-week range | Close $376.12; 52w high $459.78 (-18.19%); 52w low $159.58 (+135.70%) |
+| Trend | +28.48% vs SMA200, -5.92% vs SMA50, -4.29% vs SMA20 |
+| Momentum | RSI(14) 45.7 (neutral) |
 | Volatility | ATR(14) 18.16 (~4.8% of price); beta 0.55 |
-| Setup perspective | -18.26% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -18.19% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +7.0% |
-| Month | -18.3% |
-| Quarter | +10.0% |
-| Half Y | +54.9% |
-| 1Y | +112.2% |
-| YTD | +130.7% |
+| Week | +7.1% |
+| Month | -18.2% |
+| Quarter | +10.1% |
+| Half Y | +55.0% |
+| 1Y | +112.4% |
+| YTD | +130.9% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -110,14 +110,14 @@ Valero Energy Corporation manufactures, markets, and sells petroleum-based and l
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $375.84 | EV/Sales | 0.72 |
-| Market cap | $104.82B | EV/EBITDA | 5.09 |
+| Price | $376.12 | EV/Sales | 0.72 |
+| Market cap | $104.90B | EV/EBITDA | 5.09 |
 | Beta | 0.55 | Gross margin | 19.52% |
-| RSI(14) | 45.6 | Operating margin | 12.22% |
+| RSI(14) | 45.7 | Operating margin | 12.22% |
 | ATR(14) | 18.16 | Profit margin | 8.83% |
-| SMA20 dist | -4.36% | ROA | 17.68% |
-| SMA50 dist | -5.99% | ROE | 46.87% |
-| SMA200 dist | +28.39% | Revenue (ttm) | $146.53B |
+| SMA20 dist | -4.29% | ROA | 17.68% |
+| SMA50 dist | -5.92% | ROE | 46.87% |
+| SMA200 dist | +28.48% | Revenue (ttm) | $146.53B |
 | 52W high | $459.78 | Revenue growth y/y | 46.50% |
 | 52W low | $159.58 | Inst. ownership | 89.20% |
 | P/E (ttm) | 8.55 | Insider ownership | 0.44% |

@@ -4,8 +4,8 @@ Signed file: `NXT.research.12.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $94.76 (2026-11-12, ~15-min delayed) |
-| Market cap | $14.45B |
+| Current price | $94.26 (2026-11-12, ~15-min delayed) |
+| Market cap | $14.37B |
 | Sector / Industry | Technology / Solar |
 | Main theme | Solar — see catalysts below |
 | Current stance | Low technical momentum, strong fundamentals, value: reasonable, risk: high. |
@@ -15,10 +15,10 @@ Signed file: `NXT.research.12.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-11.18%) with negative half-year (-33.61%). |
-| Fresh setup quality | Poor / broken | -39.41% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-11.65%) with negative half-year (-33.97%). |
+| Fresh setup quality | Poor / broken | -39.73% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 15.98%, revenue growth 22.50%. |
-| Value attractiveness | Reasonable | Forward P/E 16.47, EV/Sales 3.69. |
+| Value attractiveness | Reasonable | Forward P/E 16.38, EV/Sales 3.69. |
 | Risk level | High | Beta 1.93, ATR 7.1% of price, short float 9.42%. |
 
 **Bottom line:** Low technical momentum, strong fundamentals, value: reasonable, risk: high.
@@ -44,22 +44,22 @@ Nextpower Inc. provides solar and energy technology solutions for utility-scale 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $94.76; 52w high $156.40 (-39.41%); 52w low $76.48 (+23.91%) |
-| Trend | -11.18% vs SMA200, +11.40% vs SMA50, +6.92% vs SMA20 |
-| Momentum | RSI(14) 54.4 (neutral) |
-| Volatility | ATR(14) 6.69 (~7.1% of price); beta 1.93 |
-| Setup perspective | -39.41% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $94.26; 52w high $156.40 (-39.73%); 52w low $76.48 (+23.25%) |
+| Trend | -11.65% vs SMA200, +10.82% vs SMA50, +6.38% vs SMA20 |
+| Momentum | RSI(14) 53.9 (neutral) |
+| Volatility | ATR(14) 6.71 (~7.1% of price); beta 1.93 |
+| Setup perspective | -39.73% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -4.8% |
-| Month | +14.8% |
-| Quarter | -6.6% |
-| Half Y | -33.6% |
-| 1Y | -10.5% |
-| YTD | +2.1% |
+| Week | -5.3% |
+| Month | +14.2% |
+| Quarter | -7.1% |
+| Half Y | -34.0% |
+| 1Y | -10.9% |
+| YTD | +1.6% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Nextpower Inc. provides solar and energy technology solutions for utility-scale 
 | Revenue (ttm) | $3.83B | Revenue growth 22.50% y/y |
 | Profitability | Gross 21.84%, operating 18.63%, net 15.98% | ROA 10.75%, ROE 26.46% |
 | Balance sheet | Cash $1.03B, debt $44.50M | Current ratio 2.23, debt/equity 1.68 |
-| Valuation | P/E 23.87, forward P/E 16.47, P/S 3.77, P/B 5.40 | EV/Sales 3.69, EV/EBITDA 18.74 |
+| Valuation | P/E 23.74, forward P/E 16.38, P/S 3.75, P/B 5.37 | EV/Sales 3.69, EV/EBITDA 18.74 |
 | Growth expectations | Earnings growth 11.30%, EPS q/q 12.70% | Analyst mean target $127.69 (29 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -112,21 +112,21 @@ Nextpower Inc. provides solar and energy technology solutions for utility-scale 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $94.76 | EV/Sales | 3.69 |
-| Market cap | $14.45B | EV/EBITDA | 18.74 |
+| Price | $94.26 | EV/Sales | 3.69 |
+| Market cap | $14.37B | EV/EBITDA | 18.74 |
 | Beta | 1.93 | Gross margin | 21.84% |
-| RSI(14) | 54.4 | Operating margin | 18.63% |
-| ATR(14) | 6.69 | Profit margin | 15.98% |
-| SMA20 dist | +6.92% | ROA | 10.75% |
-| SMA50 dist | +11.40% | ROE | 26.46% |
-| SMA200 dist | -11.18% | Revenue (ttm) | $3.83B |
+| RSI(14) | 53.9 | Operating margin | 18.63% |
+| ATR(14) | 6.71 | Profit margin | 15.98% |
+| SMA20 dist | +6.38% | ROA | 10.75% |
+| SMA50 dist | +10.82% | ROE | 26.46% |
+| SMA200 dist | -11.65% | Revenue (ttm) | $3.83B |
 | 52W high | $156.40 | Revenue growth y/y | 22.50% |
 | 52W low | $76.48 | Inst. ownership | 109.87% |
-| P/E (ttm) | 23.87 | Insider ownership | 0.65% |
-| Forward P/E | 16.47 | Short float | 9.42% |
+| P/E (ttm) | 23.74 | Insider ownership | 0.65% |
+| Forward P/E | 16.38 | Short float | 9.42% |
 | PEG (trailing) | 3.15 | Avg volume | 2,431,053 |
-| P/S | 3.77 | Employees | 1,993 |
-| P/B | 5.40 | Analyst rec (1=buy..5=sell) | 1.5 |
+| P/S | 3.75 | Employees | 1,993 |
+| P/B | 5.37 | Analyst rec (1=buy..5=sell) | 1.5 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

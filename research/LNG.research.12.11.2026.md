@@ -4,8 +4,8 @@ Signed file: `LNG.research.12.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $311.49 (2026-11-12, ~15-min delayed) |
-| Market cap | $63.61B |
+| Current price | $311.36 (2026-11-12, ~15-min delayed) |
+| Market cap | $63.58B |
 | Sector / Industry | Energy / Oil & Gas Midstream |
 | Main theme | Oil & Gas Midstream — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
@@ -15,8 +15,8 @@ Signed file: `LNG.research.12.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +48.32%; price +20.09% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -5.49% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +48.25%; price +20.04% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -5.53% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 13.40%, revenue growth 39.90%. |
 | Value attractiveness | Reasonable | Forward P/E 13.67, EV/Sales 4.13. |
 | Risk level | Elevated | Beta 0.00, ATR 3.6% of price, short float 2.27%. |
@@ -44,22 +44,22 @@ Cheniere Energy, Inc., an energy infrastructure company, primarily engages in th
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $311.49; 52w high $329.58 (-5.49%); 52w low $187.07 (+66.51%) |
-| Trend | +20.09% vs SMA200, +9.85% vs SMA50, +5.01% vs SMA20 |
-| Momentum | RSI(14) 60.1 (neutral) |
+| Price vs 52-week range | Close $311.36; 52w high $329.58 (-5.53%); 52w low $187.07 (+66.44%) |
+| Trend | +20.04% vs SMA200, +9.81% vs SMA50, +4.97% vs SMA20 |
+| Momentum | RSI(14) 60.0 (neutral) |
 | Volatility | ATR(14) 11.15 (~3.6% of price); beta 0.00 |
-| Setup perspective | -5.49% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -5.53% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +11.7% |
+| Week | +11.6% |
 | Month | +11.6% |
 | Quarter | +14.9% |
-| Half Y | +29.8% |
+| Half Y | +29.7% |
 | 1Y | +48.3% |
-| YTD | +59.0% |
+| YTD | +58.9% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Cheniere Energy, Inc., an energy infrastructure company, primarily engages in th
 | Revenue (ttm) | $22.67B | Revenue growth 39.90% y/y |
 | Profitability | Gross 34.89%, operating 28.54%, net 13.40% | ROA 8.61%, ROE 39.68% |
 | Balance sheet | Cash $1.68B, debt $27.69B | Current ratio 0.90, debt/equity 231.29 |
-| Valuation | P/E 22.17, forward P/E 13.67, P/S 2.81, P/B 9.75 | EV/Sales 4.13, EV/EBITDA 11.75 |
+| Valuation | P/E 22.16, forward P/E 13.67, P/S 2.80, P/B 9.74 | EV/Sales 4.13, EV/EBITDA 11.75 |
 | Growth expectations | Earnings growth 18.90%, EPS q/q 11.50% | Analyst mean target $335.70 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -111,21 +111,21 @@ Cheniere Energy, Inc., an energy infrastructure company, primarily engages in th
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $311.49 | EV/Sales | 4.13 |
-| Market cap | $63.61B | EV/EBITDA | 11.75 |
+| Price | $311.36 | EV/Sales | 4.13 |
+| Market cap | $63.58B | EV/EBITDA | 11.75 |
 | Beta | 0.00 | Gross margin | 34.89% |
-| RSI(14) | 60.1 | Operating margin | 28.54% |
+| RSI(14) | 60.0 | Operating margin | 28.54% |
 | ATR(14) | 11.15 | Profit margin | 13.40% |
-| SMA20 dist | +5.01% | ROA | 8.61% |
-| SMA50 dist | +9.85% | ROE | 39.68% |
-| SMA200 dist | +20.09% | Revenue (ttm) | $22.67B |
+| SMA20 dist | +4.97% | ROA | 8.61% |
+| SMA50 dist | +9.81% | ROE | 39.68% |
+| SMA200 dist | +20.04% | Revenue (ttm) | $22.67B |
 | 52W high | $329.58 | Revenue growth y/y | 39.90% |
 | 52W low | $187.07 | Inst. ownership | 95.84% |
-| P/E (ttm) | 22.17 | Insider ownership | 0.63% |
+| P/E (ttm) | 22.16 | Insider ownership | 0.63% |
 | Forward P/E | 13.67 | Short float | 2.27% |
 | PEG (trailing) | — | Avg volume | 2,040,912 |
-| P/S | 2.81 | Employees | 1,717 |
-| P/B | 9.75 | Analyst rec (1=buy..5=sell) | 1.5 |
+| P/S | 2.80 | Employees | 1,717 |
+| P/B | 9.74 | Analyst rec (1=buy..5=sell) | 1.5 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

@@ -4,8 +4,8 @@ Signed file: `SU.research.12.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $69.61 (2026-11-12, ~15-min delayed) |
-| Market cap | $80.14B |
+| Current price | $69.60 (2026-11-12, ~15-min delayed) |
+| Market cap | $80.13B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
 | Current stance | High technical momentum, strong fundamentals, value: reasonable, risk: elevated. |
@@ -15,8 +15,8 @@ Signed file: `SU.research.12.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +61.24%; price +9.05% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -12.41% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +61.20%; price +9.03% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -12.43% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 17.68%, revenue growth 50.40%. |
 | Value attractiveness | Reasonable | Forward P/E 9.83, EV/Sales 1.36. |
 | Risk level | Elevated | Beta 0.47, ATR 3.2% of price, short float —. |
@@ -44,11 +44,11 @@ Suncor Energy Inc. operates as an integrated energy company in Canada, the Unite
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $69.61; 52w high $79.48 (-12.41%); 52w low $41.35 (+68.34%) |
-| Trend | +9.05% vs SMA200, -2.88% vs SMA50, -6.90% vs SMA20 |
-| Momentum | RSI(14) 41.5 (neutral) |
+| Price vs 52-week range | Close $69.60; 52w high $79.48 (-12.43%); 52w low $41.35 (+68.30%) |
+| Trend | +9.03% vs SMA200, -2.90% vs SMA50, -6.92% vs SMA20 |
+| Momentum | RSI(14) 41.4 (neutral) |
 | Volatility | ATR(14) 2.26 (~3.2% of price); beta 0.47 |
-| Setup perspective | -12.41% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -12.43% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
@@ -69,7 +69,7 @@ Suncor Energy Inc. operates as an integrated energy company in Canada, the Unite
 | Profitability | Gross 60.55%, operating 24.04%, net 17.68% | ROA 10.11%, ROE 23.46% |
 | Balance sheet | Cash $8.00B, debt $14.44B | Current ratio 1.71, debt/equity 29.07 |
 | Valuation | P/E 10.27, forward P/E 9.83, P/S 1.27, P/B 2.28 | EV/Sales 1.36, EV/EBITDA 3.70 |
-| Growth expectations | Earnings growth 144.60%, EPS q/q 135.60% | Analyst mean target $74.55 (3 analysts) |
+| Growth expectations | Earnings growth 144.60%, EPS q/q 135.60% | Analyst mean target $74.58 (3 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
@@ -110,14 +110,14 @@ Suncor Energy Inc. operates as an integrated energy company in Canada, the Unite
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $69.61 | EV/Sales | 1.36 |
-| Market cap | $80.14B | EV/EBITDA | 3.70 |
+| Price | $69.60 | EV/Sales | 1.36 |
+| Market cap | $80.13B | EV/EBITDA | 3.70 |
 | Beta | 0.47 | Gross margin | 60.55% |
-| RSI(14) | 41.5 | Operating margin | 24.04% |
+| RSI(14) | 41.4 | Operating margin | 24.04% |
 | ATR(14) | 2.26 | Profit margin | 17.68% |
-| SMA20 dist | -6.90% | ROA | 10.11% |
-| SMA50 dist | -2.88% | ROE | 23.46% |
-| SMA200 dist | +9.05% | Revenue (ttm) | $62.90B |
+| SMA20 dist | -6.92% | ROA | 10.11% |
+| SMA50 dist | -2.90% | ROE | 23.46% |
+| SMA200 dist | +9.03% | Revenue (ttm) | $62.90B |
 | 52W high | $79.48 | Revenue growth y/y | 50.40% |
 | 52W low | $41.35 | Inst. ownership | 75.09% |
 | P/E (ttm) | 10.27 | Insider ownership | 0.01% |
