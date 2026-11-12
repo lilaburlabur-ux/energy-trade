@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-12T09:25:00+00:00",
-  "as_of_local": "2026-11-12 09:25:00 UTC",
+  "as_of_utc": "2026-11-12T09:30:24+00:00",
+  "as_of_local": "2026-11-12 09:30:24 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "EQT"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -14,6 +12,12 @@
       "change_pct": 1.36,
       "market_cap": 680047201026.5977,
       "headlines": [
+        {
+          "title": "Market Chatter: Exxon Mobil to Evaluate Seven Areas in Venezuela for Potential Oil and Gas Projects",
+          "url": "https://finance.yahoo.com/energy/articles/market-chatter-exxon-mobil-evaluate-092216903.html",
+          "publisher": "MT Newswires",
+          "published": "2026-11-12T09:22:16Z"
+        },
         {
           "title": "Exxon, Chevron, and Shell Just Reported. Here's What Each One Said About Where Oil Goes Next.",
           "url": "https://finance.yahoo.com/energy/articles/exxon-chevron-shell-just-reported-033500434.html",
@@ -25,12 +29,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/pick-occidental-stock-over-competitors-012700052.html",
           "publisher": "Trefis",
           "published": "2026-11-12T01:27:00Z"
-        },
-        {
-          "title": "Who Will Buy Sable\u2019s Oil if California Keeps Closing Refineries?",
-          "url": "https://finance.yahoo.com/energy/articles/buy-sable-oil-california-keeps-010000630.html",
-          "publisher": "Oilprice.com",
-          "published": "2026-11-12T01:00:00Z"
         }
       ]
     },
@@ -1071,6 +1069,34 @@
       ]
     },
     {
+      "symbol": "EQT",
+      "name": "EQT Corp",
+      "price": 52.69,
+      "previous_close": 52.0,
+      "change_pct": 1.33,
+      "market_cap": 32960198502.25859,
+      "headlines": [
+        {
+          "title": "3 Energy Stocks Facing Oil Price Risk as Hormuz Tensions Rise",
+          "url": "https://finance.yahoo.com/energy/articles/3-energy-stocks-facing-oil-071507309.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-11T07:15:07Z"
+        },
+        {
+          "title": "Natural Gas Prices Gain 3.5% for the Week: What's Next?",
+          "url": "https://finance.yahoo.com/energy/articles/natural-gas-prices-gain-3-131200133.html",
+          "publisher": "Zacks",
+          "published": "2026-11-09T13:12:00Z"
+        },
+        {
+          "title": "Do Wall Street Analysts Like EQT Corporation Stock?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-eqt-corporation-111402304.html",
+          "publisher": "Barchart",
+          "published": "2026-11-06T11:14:02Z"
+        }
+      ]
+    },
+    {
       "symbol": "CCJ",
       "name": "Cameco",
       "price": 74.32,
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 86.57,
-      "change_pct": 0.05
+      "price": 86.4,
+      "change_pct": -0.15
     },
     {
       "label": "Brent",
-      "price": 92.9,
-      "change_pct": 0.15
+      "price": 92.76,
+      "change_pct": 0.0
     },
     {
       "label": "NatGas",
       "price": 3.31,
-      "change_pct": 2.92
+      "change_pct": 2.89
     }
   ]
 }
