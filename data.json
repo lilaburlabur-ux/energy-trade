@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-12T14:03:12+00:00",
-  "as_of_local": "2026-11-12 14:03:12 UTC",
+  "as_of_utc": "2026-11-12T14:08:03+00:00",
+  "as_of_local": "2026-11-12 14:08:03 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "NOV"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1519,6 +1517,34 @@
       ]
     },
     {
+      "symbol": "NOV",
+      "name": "NOV Inc",
+      "price": 18.0,
+      "previous_close": 17.68,
+      "change_pct": 1.81,
+      "market_cap": 6417224838.0,
+      "headlines": [
+        {
+          "title": "DTI Q3 Earnings Miss Estimates on Higher Costs Despite Sales Growth",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/dti-q3-earnings-miss-estimates-181500794.html",
+          "publisher": "Zacks",
+          "published": "2026-11-10T18:15:00Z"
+        },
+        {
+          "title": "CNQ Q3 Earnings Beat on Strong Pricing and Record Thermal Output",
+          "url": "https://finance.yahoo.com/energy/articles/cnq-q3-earnings-beat-strong-152800153.html",
+          "publisher": "Zacks",
+          "published": "2026-11-09T15:28:00Z"
+        },
+        {
+          "title": "Why Is Baker Hughes Stock Falling?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-baker-hughes-stock-falling-141921435.html",
+          "publisher": "Trefis",
+          "published": "2026-11-06T14:19:21Z"
+        }
+      ]
+    },
+    {
       "symbol": "WFRD",
       "name": "Weatherford",
       "price": 86.69,
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 86.86,
-      "change_pct": 0.38
+      "price": 86.84,
+      "change_pct": 0.36
     },
     {
       "label": "Brent",
-      "price": 93.55,
-      "change_pct": 0.85
+      "price": 93.44,
+      "change_pct": 0.73
     },
     {
       "label": "NatGas",
-      "price": 3.31,
-      "change_pct": 2.86
+      "price": 3.32,
+      "change_pct": 3.3
     }
   ]
 }
