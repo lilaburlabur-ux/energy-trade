@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-12T22:26:11+00:00",
-  "as_of_local": "2026-11-12 22:26:11 UTC",
+  "as_of_utc": "2026-11-12T22:31:03+00:00",
+  "as_of_local": "2026-11-12 22:31:03 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "MPC"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -255,6 +253,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/ftse-100-today-stocks-rise-084246110.html",
           "publisher": "Investing.com",
           "published": "2026-11-11T08:42:46Z"
+        }
+      ]
+    },
+    {
+      "symbol": "MPC",
+      "name": "Marathon Petroleum",
+      "price": 412.85,
+      "previous_close": 402.84,
+      "change_pct": 2.48,
+      "market_cap": 112411740959.87915,
+      "headlines": [
+        {
+          "title": "Top Research Reports for Home Depot, Gilead & TotalEnergies",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/top-research-reports-home-depot-200700776.html",
+          "publisher": "Zacks",
+          "published": "2026-11-12T20:07:00Z"
+        },
+        {
+          "title": "Patterson-UTI Expects Higher Rig Demand as 2027 Outlook Improves",
+          "url": "https://finance.yahoo.com/energy/articles/patterson-uti-expects-higher-rig-122400146.html",
+          "publisher": "Zacks",
+          "published": "2026-11-12T12:24:00Z"
+        },
+        {
+          "title": "Halliburton Expands Geothermal Footprint With Sage Geosystems Deal",
+          "url": "https://finance.yahoo.com/energy/articles/halliburton-expands-geothermal-footprint-sage-122200542.html",
+          "publisher": "Zacks",
+          "published": "2026-11-12T12:22:00Z"
         }
       ]
     },
@@ -743,16 +769,16 @@
       "market_cap": 59701953044.315735,
       "headlines": [
         {
+          "title": "Micron, Other Memory Chip Stocks Fall on Nvidia Shakeup. Why They\u2019re at Risk.",
+          "url": "https://www.barrons.com/articles/micron-memory-chip-stocks-nvidia-shakeup-adf6b711?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-11-12T22:24:00Z"
+        },
+        {
           "title": "What Brookfield (BN) Said on Its Q3 Earnings Call",
           "url": "https://finance.yahoo.com/markets/stocks/articles/brookfield-bn-said-q3-earnings-221446137.html",
           "publisher": "MarketBeat",
           "published": "2026-11-12T22:14:46Z"
-        },
-        {
-          "title": "Micron, Other Memory Chip Stocks Fall on Nvidia Shakeup. Why They\u2019re at Risk.",
-          "url": "https://www.barrons.com/articles/micron-memory-chip-stocks-nvidia-shakeup-adf6b711?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-11-12T18:16:00Z"
         },
         {
           "title": "What Sent Bloom Energy Stock Higher On Wednesday?",
@@ -1922,8 +1948,8 @@
           "name": "Marathon Petroleum Corp",
           "short": "Marathon",
           "weight_pct": 4.64,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": 2.48,
+          "price": 412.85,
           "currency": "USD"
         },
         {
@@ -2021,8 +2047,8 @@
         "name": "Marathon Petroleum Corp",
         "short": "Marathon",
         "weight_pct": 4.64,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": 2.48,
+        "price": 412.85,
         "currency": "USD"
       },
       {
