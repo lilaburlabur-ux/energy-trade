@@ -4,8 +4,8 @@ Signed file: `FSLR.research.12.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $172.50 (2026-11-12, ~15-min delayed) |
-| Market cap | $18.54B |
+| Current price | $172.30 (2026-11-12, ~15-min delayed) |
+| Market cap | $18.52B |
 | Sector / Industry | Technology / Solar |
 | Main theme | Solar — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: high. |
@@ -15,10 +15,10 @@ Signed file: `FSLR.research.12.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-19.17%) with negative half-year (-25.52%). |
-| Fresh setup quality | Poor / broken | -45.80% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-19.27%) with negative half-year (-25.61%). |
+| Fresh setup quality | Poor / broken | -45.86% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 37.12%, revenue growth -22.80%. |
-| Value attractiveness | Reasonable | Forward P/E 7.44, EV/Sales 3.56. |
+| Value attractiveness | Reasonable | Forward P/E 7.43, EV/Sales 3.56. |
 | Risk level | High | Beta 1.71, ATR 6.0% of price, short float 13.66%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: high.
@@ -44,22 +44,22 @@ First Solar, Inc., a solar technology company, provides photovoltaic (PV) solar 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $172.50; 52w high $318.25 (-45.80%); 52w low $168.15 (+2.59%) |
-| Trend | -19.17% vs SMA200, -6.90% vs SMA50, -3.93% vs SMA20 |
-| Momentum | RSI(14) 41.6 (neutral) |
+| Price vs 52-week range | Close $172.30; 52w high $318.25 (-45.86%); 52w low $168.15 (+2.47%) |
+| Trend | -19.27% vs SMA200, -7.01% vs SMA50, -4.03% vs SMA20 |
+| Momentum | RSI(14) 41.5 (neutral) |
 | Volatility | ATR(14) 10.37 (~6.0% of price); beta 1.71 |
-| Setup perspective | -45.80% from 52w high — base needs to rebuild. |
+| Setup perspective | -45.86% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -11.9% |
-| Month | -3.7% |
-| Quarter | -23.5% |
-| Half Y | -25.5% |
-| 1Y | -34.7% |
-| YTD | -37.1% |
+| Week | -12.0% |
+| Month | -3.8% |
+| Quarter | -23.6% |
+| Half Y | -25.6% |
+| 1Y | -34.8% |
+| YTD | -37.2% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ First Solar, Inc., a solar technology company, provides photovoltaic (PV) solar 
 | Revenue (ttm) | $5.01B | Revenue growth -22.80% y/y |
 | Profitability | Gross 49.25%, operating 37.69%, net 37.12% | ROA 8.60%, ROE 18.71% |
 | Balance sheet | Cash $1.62B, debt $324.97M | Current ratio 2.57, debt/equity 2.99 |
-| Valuation | P/E 9.98, forward P/E 7.44, P/S 3.70, P/B 1.70 | EV/Sales 3.56, EV/EBITDA 7.19 |
+| Valuation | P/E 9.97, forward P/E 7.43, P/S 3.69, P/B 1.70 | EV/Sales 3.56, EV/EBITDA 7.19 |
 | Growth expectations | Earnings growth 25.00%, EPS q/q 25.20% | Analyst mean target $252.57 (30 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -112,20 +112,20 @@ First Solar, Inc., a solar technology company, provides photovoltaic (PV) solar 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $172.50 | EV/Sales | 3.56 |
-| Market cap | $18.54B | EV/EBITDA | 7.19 |
+| Price | $172.30 | EV/Sales | 3.56 |
+| Market cap | $18.52B | EV/EBITDA | 7.19 |
 | Beta | 1.71 | Gross margin | 49.25% |
-| RSI(14) | 41.6 | Operating margin | 37.69% |
+| RSI(14) | 41.5 | Operating margin | 37.69% |
 | ATR(14) | 10.37 | Profit margin | 37.12% |
-| SMA20 dist | -3.93% | ROA | 8.60% |
-| SMA50 dist | -6.90% | ROE | 18.71% |
-| SMA200 dist | -19.17% | Revenue (ttm) | $5.01B |
+| SMA20 dist | -4.03% | ROA | 8.60% |
+| SMA50 dist | -7.01% | ROE | 18.71% |
+| SMA200 dist | -19.27% | Revenue (ttm) | $5.01B |
 | 52W high | $318.25 | Revenue growth y/y | -22.80% |
 | 52W low | $168.15 | Inst. ownership | 102.32% |
-| P/E (ttm) | 9.98 | Insider ownership | 5.36% |
-| Forward P/E | 7.44 | Short float | 13.66% |
+| P/E (ttm) | 9.97 | Insider ownership | 5.36% |
+| Forward P/E | 7.43 | Short float | 13.66% |
 | PEG (trailing) | 0.32 | Avg volume | 2,468,301 |
-| P/S | 3.70 | Employees | 7,900 |
+| P/S | 3.69 | Employees | 7,900 |
 | P/B | 1.70 | Analyst rec (1=buy..5=sell) | 1.8 |
 
 ## 8. Analyst Actions

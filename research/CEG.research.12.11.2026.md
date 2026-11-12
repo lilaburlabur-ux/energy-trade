@@ -4,8 +4,8 @@ Signed file: `CEG.research.12.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $281.42 (2026-11-12, ~15-min delayed) |
-| Market cap | $98.95B |
+| Current price | $282.40 (2026-11-12, ~15-min delayed) |
+| Market cap | $99.29B |
 | Sector / Industry | Utilities / Utilities - Independent Power Producers |
 | Main theme | Utilities - Independent Power Producers — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: fair-to-demanding, risk: elevated. |
@@ -15,10 +15,10 @@ Signed file: `CEG.research.12.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y -19.53%; price +1.26% vs SMA200. |
-| Fresh setup quality | Poor / broken | -25.34% from 52w high — base needs to rebuild. |
+| Technical momentum | Moderate | 1Y -19.25%; price +1.61% vs SMA200. |
+| Fresh setup quality | Poor / broken | -25.08% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 12.76%, revenue growth 45.40%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 20.97, EV/Sales 3.50. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 21.04, EV/Sales 3.50. |
 | Risk level | Elevated | Beta 1.13, ATR 4.9% of price, short float 3.34%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: fair-to-demanding, risk: elevated.
@@ -36,30 +36,30 @@ Constellation Energy Corporation produces and sells energy products and services
 
 | Headline | Source | Date |
 |---|---|---|
+| GE Vernova Sinks 12%, Vertiv Down 12% in a Week as Data Center Backlash Hits AI Power | TIKR | 2026-11-12 |
+| Will NuScale Power Stock's Jump After Earnings Last? | Trefis | 2026-11-12 |
 | Constellation Energy Soars 13% in a Week on a Guidance Raise: “A Platform Heretofore Unseen” | TIKR | 2026-11-12 |
 | Is Constellation Energy Stock Increasing Your Market Risk? | Trefis | 2026-11-12 |
-| Vistra Is Still Down 17% This Year: Did Earnings Just Mark the Bottom? | TIKR | 2026-11-12 |
-| What Utilities Select Sector SPDR ETF (XLU) Sold: NextEra Leads on Nov. 10 | GuruFocus.com | 2026-11-12 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $281.42; 52w high $376.93 (-25.34%); 52w low $236.14 (+19.18%) |
-| Trend | +1.26% vs SMA200, +4.39% vs SMA50, +7.72% vs SMA20 |
-| Momentum | RSI(14) 57.3 (neutral) |
-| Volatility | ATR(14) 13.72 (~4.9% of price); beta 1.13 |
-| Setup perspective | -25.34% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $282.40; 52w high $376.93 (-25.08%); 52w low $236.14 (+19.59%) |
+| Trend | +1.61% vs SMA200, +4.75% vs SMA50, +8.07% vs SMA20 |
+| Momentum | RSI(14) 57.6 (neutral) |
+| Volatility | ATR(14) 13.76 (~4.9% of price); beta 1.13 |
+| Setup perspective | -25.08% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +17.4% |
-| Month | +0.7% |
-| Quarter | -0.2% |
-| Half Y | +2.6% |
-| 1Y | -19.5% |
-| YTD | -22.8% |
+| Week | +17.8% |
+| Month | +1.0% |
+| Quarter | +0.1% |
+| Half Y | +2.9% |
+| 1Y | -19.2% |
+| YTD | -22.6% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Constellation Energy Corporation produces and sells energy products and services
 | Revenue (ttm) | $34.25B | Revenue growth 45.40% y/y |
 | Profitability | Gross 25.24%, operating 17.94%, net 12.76% | ROA 4.95%, ROE 18.34% |
 | Balance sheet | Cash $603.00M, debt $23.39B | Current ratio 1.49, debt/equity 70.79 |
-| Valuation | P/E 22.62, forward P/E 20.97, P/S 2.89, P/B 3.02 | EV/Sales 3.50, EV/EBITDA 12.63 |
+| Valuation | P/E 22.70, forward P/E 21.04, P/S 2.90, P/B 3.04 | EV/Sales 3.50, EV/EBITDA 12.63 |
 | Growth expectations | Earnings growth 74.50%, EPS q/q 97.30% | Analyst mean target $337.90 (23 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ Constellation Energy Corporation produces and sells energy products and services
 | FMR, LLC | 6,303,287 | 1.79% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 20.97, EV/Sales 3.50. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 21.04, EV/Sales 3.50. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 1.13, ATR 4.9% of price, short float 3.34%. Size positions accordingly.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
@@ -112,21 +112,21 @@ Constellation Energy Corporation produces and sells energy products and services
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $281.42 | EV/Sales | 3.50 |
-| Market cap | $98.95B | EV/EBITDA | 12.63 |
+| Price | $282.40 | EV/Sales | 3.50 |
+| Market cap | $99.29B | EV/EBITDA | 12.63 |
 | Beta | 1.13 | Gross margin | 25.24% |
-| RSI(14) | 57.3 | Operating margin | 17.94% |
-| ATR(14) | 13.72 | Profit margin | 12.76% |
-| SMA20 dist | +7.72% | ROA | 4.95% |
-| SMA50 dist | +4.39% | ROE | 18.34% |
-| SMA200 dist | +1.26% | Revenue (ttm) | $34.25B |
+| RSI(14) | 57.6 | Operating margin | 17.94% |
+| ATR(14) | 13.76 | Profit margin | 12.76% |
+| SMA20 dist | +8.07% | ROA | 4.95% |
+| SMA50 dist | +4.75% | ROE | 18.34% |
+| SMA200 dist | +1.61% | Revenue (ttm) | $34.25B |
 | 52W high | $376.93 | Revenue growth y/y | 45.40% |
 | 52W low | $236.14 | Inst. ownership | 84.19% |
-| P/E (ttm) | 22.62 | Insider ownership | 0.35% |
-| Forward P/E | 20.97 | Short float | 3.34% |
+| P/E (ttm) | 22.70 | Insider ownership | 0.35% |
+| Forward P/E | 21.04 | Short float | 3.34% |
 | PEG (trailing) | — | Avg volume | 3,476,629 |
-| P/S | 2.89 | Employees | 15,291 |
-| P/B | 3.02 | Analyst rec (1=buy..5=sell) | 1.6 |
+| P/S | 2.90 | Employees | 15,291 |
+| P/B | 3.04 | Analyst rec (1=buy..5=sell) | 1.6 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

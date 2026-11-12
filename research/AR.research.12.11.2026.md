@@ -4,8 +4,8 @@ Signed file: `AR.research.12.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $39.03 (2026-11-12, ~15-min delayed) |
-| Market cap | $11.99B |
+| Current price | $38.71 (2026-11-12, ~15-min delayed) |
+| Market cap | $11.89B |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
 | Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated. |
@@ -15,10 +15,10 @@ Signed file: `AR.research.12.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +10.87%; price +5.46% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -13.57% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +9.97%; price +4.61% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -14.26% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 22.98%, revenue growth 17.10%. |
-| Value attractiveness | Reasonable | Forward P/E 8.44, EV/Sales —. |
+| Value attractiveness | Reasonable | Forward P/E 8.38, EV/Sales —. |
 | Risk level | Elevated | Beta 0.48, ATR 3.7% of price, short float 4.15%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated.
@@ -44,22 +44,22 @@ Antero Resources Corporation, an independent oil and natural gas company, engage
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $39.03; 52w high $45.15 (-13.57%); 52w low $31.38 (+24.36%) |
-| Trend | +5.46% vs SMA200, +4.21% vs SMA50, -0.54% vs SMA20 |
-| Momentum | RSI(14) 53.8 (neutral) |
+| Price vs 52-week range | Close $38.71; 52w high $45.15 (-14.26%); 52w low $31.38 (+23.36%) |
+| Trend | +4.61% vs SMA200, +3.39% vs SMA50, -1.30% vs SMA20 |
+| Momentum | RSI(14) 52.4 (neutral) |
 | Volatility | ATR(14) 1.43 (~3.7% of price); beta 0.48 |
-| Setup perspective | -13.57% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -14.26% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +7.3% |
-| Month | +6.5% |
-| Quarter | +4.4% |
-| Half Y | +5.2% |
-| 1Y | +10.9% |
-| YTD | +14.1% |
+| Week | +6.4% |
+| Month | +5.7% |
+| Quarter | +3.6% |
+| Half Y | +4.4% |
+| 1Y | +10.0% |
+| YTD | +13.2% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Antero Resources Corporation, an independent oil and natural gas company, engage
 | Revenue (ttm) | $5.98B | Revenue growth 17.10% y/y |
 | Profitability | Gross 68.28%, operating 29.32%, net 22.98% | ROA 7.69%, ROE 17.39% |
 | Balance sheet | Cash —, debt $4.65B | Current ratio 0.39, debt/equity 53.84 |
-| Valuation | P/E 8.81, forward P/E 8.44, P/S 2.00, P/B 1.39 | EV/Sales —, EV/EBITDA — |
+| Valuation | P/E 8.74, forward P/E 8.38, P/S 1.99, P/B 1.38 | EV/Sales —, EV/EBITDA — |
 | Growth expectations | Earnings growth 395.80%, EPS q/q 381.90% | Analyst mean target $50.32 (22 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -110,21 +110,21 @@ Antero Resources Corporation, an independent oil and natural gas company, engage
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $39.03 | EV/Sales | — |
-| Market cap | $11.99B | EV/EBITDA | — |
+| Price | $38.71 | EV/Sales | — |
+| Market cap | $11.89B | EV/EBITDA | — |
 | Beta | 0.48 | Gross margin | 68.28% |
-| RSI(14) | 53.8 | Operating margin | 29.32% |
+| RSI(14) | 52.4 | Operating margin | 29.32% |
 | ATR(14) | 1.43 | Profit margin | 22.98% |
-| SMA20 dist | -0.54% | ROA | 7.69% |
-| SMA50 dist | +4.21% | ROE | 17.39% |
-| SMA200 dist | +5.46% | Revenue (ttm) | $5.98B |
+| SMA20 dist | -1.30% | ROA | 7.69% |
+| SMA50 dist | +3.39% | ROE | 17.39% |
+| SMA200 dist | +4.61% | Revenue (ttm) | $5.98B |
 | 52W high | $45.15 | Revenue growth y/y | 17.10% |
 | 52W low | $31.38 | Inst. ownership | 92.89% |
-| P/E (ttm) | 8.81 | Insider ownership | 4.41% |
-| Forward P/E | 8.44 | Short float | 4.15% |
+| P/E (ttm) | 8.74 | Insider ownership | 4.41% |
+| Forward P/E | 8.38 | Short float | 4.15% |
 | PEG (trailing) | 0.37 | Avg volume | 4,018,703 |
-| P/S | 2.00 | Employees | 632 |
-| P/B | 1.39 | Analyst rec (1=buy..5=sell) | 1.7 |
+| P/S | 1.99 | Employees | 632 |
+| P/B | 1.38 | Analyst rec (1=buy..5=sell) | 1.7 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

@@ -4,8 +4,8 @@ Signed file: `DVN.research.12.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $46.37 (2026-11-12, ~15-min delayed) |
-| Market cap | $52.84B |
+| Current price | $46.23 (2026-11-12, ~15-min delayed) |
+| Market cap | $52.69B |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
 | Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated. |
@@ -15,11 +15,11 @@ Signed file: `DVN.research.12.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +35.23%; price +1.10% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -11.09% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +34.84%; price +0.81% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -11.35% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 16.28%, revenue growth 74.00%. |
-| Value attractiveness | Reasonable | Forward P/E 8.82, EV/Sales 2.81. |
-| Risk level | Elevated | Beta 0.48, ATR 3.7% of price, short float 2.46%. |
+| Value attractiveness | Reasonable | Forward P/E 8.80, EV/Sales 2.81. |
+| Risk level | Elevated | Beta 0.48, ATR 3.8% of price, short float 2.46%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated.
 
@@ -44,22 +44,22 @@ Devon Energy Corporation, an independent energy company, engages in the explorat
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $46.37; 52w high $52.15 (-11.09%); 52w low $33.83 (+37.05%) |
-| Trend | +1.10% vs SMA200, -3.95% vs SMA50, -3.66% vs SMA20 |
-| Momentum | RSI(14) 46.7 (neutral) |
-| Volatility | ATR(14) 1.73 (~3.7% of price); beta 0.48 |
-| Setup perspective | -11.09% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $46.23; 52w high $52.15 (-11.35%); 52w low $33.83 (+36.66%) |
+| Trend | +0.81% vs SMA200, -4.23% vs SMA50, -3.93% vs SMA20 |
+| Momentum | RSI(14) 46.2 (neutral) |
+| Volatility | ATR(14) 1.73 (~3.8% of price); beta 0.48 |
+| Setup perspective | -11.35% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +8.1% |
-| Month | -7.1% |
-| Quarter | +1.8% |
-| Half Y | -0.5% |
-| 1Y | +35.2% |
-| YTD | +24.7% |
+| Week | +7.8% |
+| Month | -7.4% |
+| Quarter | +1.5% |
+| Half Y | -0.8% |
+| 1Y | +34.8% |
+| YTD | +24.4% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Devon Energy Corporation, an independent energy company, engages in the explorat
 | Revenue (ttm) | $22.11B | Revenue growth 74.00% y/y |
 | Profitability | Gross 53.48%, operating 24.01%, net 16.28% | ROA 6.50%, ROE 12.55% |
 | Balance sheet | Cash $352.00M, debt $11.20B | Current ratio 0.70, debt/equity 26.66 |
-| Valuation | P/E 10.88, forward P/E 8.82, P/S 2.39, P/B 1.26 | EV/Sales 2.81, EV/EBITDA 6.08 |
+| Valuation | P/E 10.85, forward P/E 8.80, P/S 2.38, P/B 1.26 | EV/Sales 2.81, EV/EBITDA 6.08 |
 | Growth expectations | Earnings growth -19.30%, EPS q/q 46.70% | Analyst mean target $60.78 (27 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ Devon Energy Corporation, an independent energy company, engages in the explorat
 | Bank Of New York Mellon Corporation | 24,210,181 | 2.12% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 0.48, ATR 3.7% of price, short float 2.46%. Size positions accordingly.
+- **Volatility risk:** Beta 0.48, ATR 3.8% of price, short float 2.46%. Size positions accordingly.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -110,20 +110,20 @@ Devon Energy Corporation, an independent energy company, engages in the explorat
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $46.37 | EV/Sales | 2.81 |
-| Market cap | $52.84B | EV/EBITDA | 6.08 |
+| Price | $46.23 | EV/Sales | 2.81 |
+| Market cap | $52.69B | EV/EBITDA | 6.08 |
 | Beta | 0.48 | Gross margin | 53.48% |
-| RSI(14) | 46.7 | Operating margin | 24.01% |
+| RSI(14) | 46.2 | Operating margin | 24.01% |
 | ATR(14) | 1.73 | Profit margin | 16.28% |
-| SMA20 dist | -3.66% | ROA | 6.50% |
-| SMA50 dist | -3.95% | ROE | 12.55% |
-| SMA200 dist | +1.10% | Revenue (ttm) | $22.11B |
+| SMA20 dist | -3.93% | ROA | 6.50% |
+| SMA50 dist | -4.23% | ROE | 12.55% |
+| SMA200 dist | +0.81% | Revenue (ttm) | $22.11B |
 | 52W high | $52.15 | Revenue growth y/y | 74.00% |
 | 52W low | $33.83 | Inst. ownership | 93.27% |
-| P/E (ttm) | 10.88 | Insider ownership | 0.74% |
-| Forward P/E | 8.82 | Short float | 2.46% |
+| P/E (ttm) | 10.85 | Insider ownership | 0.74% |
+| Forward P/E | 8.80 | Short float | 2.46% |
 | PEG (trailing) | — | Avg volume | 11,061,718 |
-| P/S | 2.39 | Employees | 2,200 |
+| P/S | 2.38 | Employees | 2,200 |
 | P/B | 1.26 | Analyst rec (1=buy..5=sell) | 1.3 |
 
 ## 8. Analyst Actions

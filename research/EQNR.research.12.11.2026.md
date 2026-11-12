@@ -4,8 +4,8 @@ Signed file: `EQNR.research.12.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $42.97 (2026-11-12, ~15-min delayed) |
-| Market cap | $101.69B |
+| Current price | $42.76 (2026-11-12, ~15-min delayed) |
+| Market cap | $101.18B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
 | Current stance | High technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
@@ -15,10 +15,10 @@ Signed file: `EQNR.research.12.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +82.46%; price +13.16% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -11.97% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +81.55%; price +12.59% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -12.41% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 9.79%, revenue growth 26.60%. |
-| Value attractiveness | Reasonable | Forward P/E 8.63, EV/Sales 1.68. |
+| Value attractiveness | Reasonable | Forward P/E 8.59, EV/Sales 1.68. |
 | Risk level | Elevated | Beta -0.66, ATR 3.5% of price, short float 2.69%. |
 
 **Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
@@ -44,22 +44,22 @@ Equinor ASA operates as an energy company in Norway and internationally. It oper
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $42.97; 52w high $48.82 (-11.97%); 52w low $21.68 (+98.22%) |
-| Trend | +13.16% vs SMA200, -2.53% vs SMA50, -4.91% vs SMA20 |
-| Momentum | RSI(14) 45.7 (neutral) |
+| Price vs 52-week range | Close $42.76; 52w high $48.82 (-12.41%); 52w low $21.68 (+97.23%) |
+| Trend | +12.59% vs SMA200, -3.01% vs SMA50, -5.36% vs SMA20 |
+| Momentum | RSI(14) 44.8 (neutral) |
 | Volatility | ATR(14) 1.50 (~3.5% of price); beta -0.66 |
-| Setup perspective | -11.97% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -12.41% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +1.0% |
-| Month | -5.1% |
-| Quarter | +5.4% |
-| Half Y | +13.8% |
-| 1Y | +82.5% |
-| YTD | +80.9% |
+| Week | +0.5% |
+| Month | -5.6% |
+| Quarter | +4.9% |
+| Half Y | +13.3% |
+| 1Y | +81.6% |
+| YTD | +80.0% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Equinor ASA operates as an energy company in Norway and internationally. It oper
 | Revenue (ttm) | $120.57B | Revenue growth 26.60% y/y |
 | Profitability | Gross 43.18%, operating 32.11%, net 9.79% | ROA 17.09%, ROE 27.57% |
 | Balance sheet | Cash $24.00B, debt $29.66B | Current ratio 1.18, debt/equity 65.92 |
-| Valuation | P/E 8.92, forward P/E 8.63, P/S 0.84, P/B 4.54 | EV/Sales 1.68, EV/EBITDA 4.20 |
+| Valuation | P/E 8.87, forward P/E 8.59, P/S 0.84, P/B 4.52 | EV/Sales 1.68, EV/EBITDA 4.20 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $40.93 (7 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -110,21 +110,21 @@ Equinor ASA operates as an energy company in Norway and internationally. It oper
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $42.97 | EV/Sales | 1.68 |
-| Market cap | $101.69B | EV/EBITDA | 4.20 |
+| Price | $42.76 | EV/Sales | 1.68 |
+| Market cap | $101.18B | EV/EBITDA | 4.20 |
 | Beta | -0.66 | Gross margin | 43.18% |
-| RSI(14) | 45.7 | Operating margin | 32.11% |
+| RSI(14) | 44.8 | Operating margin | 32.11% |
 | ATR(14) | 1.50 | Profit margin | 9.79% |
-| SMA20 dist | -4.91% | ROA | 17.09% |
-| SMA50 dist | -2.53% | ROE | 27.57% |
-| SMA200 dist | +13.16% | Revenue (ttm) | $120.57B |
+| SMA20 dist | -5.36% | ROA | 17.09% |
+| SMA50 dist | -3.01% | ROE | 27.57% |
+| SMA200 dist | +12.59% | Revenue (ttm) | $120.57B |
 | 52W high | $48.82 | Revenue growth y/y | 26.60% |
 | 52W low | $21.68 | Inst. ownership | 6.89% |
-| P/E (ttm) | 8.92 | Insider ownership | 0.00% |
-| Forward P/E | 8.63 | Short float | 2.69% |
+| P/E (ttm) | 8.87 | Insider ownership | 0.00% |
+| Forward P/E | 8.59 | Short float | 2.69% |
 | PEG (trailing) | 0.90 | Avg volume | 3,884,687 |
 | P/S | 0.84 | Employees | 23,545 |
-| P/B | 4.54 | Analyst rec (1=buy..5=sell) | 3.3 |
+| P/B | 4.52 | Analyst rec (1=buy..5=sell) | 3.3 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
