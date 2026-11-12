@@ -18,7 +18,7 @@ Signed file: `PR.research.12.11.2026`
 | Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
 | Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 25.04%, revenue growth 48.10%. |
-| Value attractiveness | Reasonable | Forward P/E 8.65, EV/Sales 3.43. |
+| Value attractiveness | Reasonable | Forward P/E 7.79, EV/Sales 3.43. |
 | Risk level | Moderate | Beta 0.58, ATR nan% of price, short float 3.71%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate.
@@ -68,7 +68,7 @@ Permian Resources Corporation, an independent oil and natural gas company, focus
 | Revenue (ttm) | $6.37B | Revenue growth 48.10% y/y |
 | Profitability | Gross 77.14%, operating 35.35%, net 25.04% | ROA 7.73%, ROE 13.95% |
 | Balance sheet | Cash $95.03M, debt $3.24B | Current ratio 0.50, debt/equity 26.32 |
-| Valuation | P/E 11.56, forward P/E 8.65, P/S 2.94, P/B 1.52 | EV/Sales 3.43, EV/EBITDA 4.96 |
+| Valuation | P/E 11.56, forward P/E 7.79, P/S 2.94, P/B 1.52 | EV/Sales 3.43, EV/EBITDA 4.96 |
 | Growth expectations | Earnings growth 512.50%, EPS q/q 609.30% | Analyst mean target $28.86 (21 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -120,7 +120,7 @@ Permian Resources Corporation, an independent oil and natural gas company, focus
 | 52W high | $26.02 | Revenue growth y/y | 48.10% |
 | 52W low | $12.86 | Inst. ownership | 93.31% |
 | P/E (ttm) | 11.56 | Insider ownership | 4.60% |
-| Forward P/E | 8.65 | Short float | 3.71% |
+| Forward P/E | 7.79 | Short float | 3.71% |
 | PEG (trailing) | 0.80 | Avg volume | 9,964,039 |
 | P/S | 2.94 | Employees | 515 |
 | P/B | 1.52 | Analyst rec (1=buy..5=sell) | 1.3 |

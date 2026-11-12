@@ -37,7 +37,7 @@ Bloom Energy Corporation designs, manufactures, sells, and installs solid oxide 
 | Headline | Source | Date |
 |---|---|---|
 | Bloom Energy stock surges as CoreWeave earnings spur rally in power stocks | Yahoo Finance | 2026-11-11 |
-| Dow Jones Futures: Techs Tumble As Nvidia May Oust CEO Huang; AI Stocks Slide, But Not AMD | Investor's Business Daily | 2026-11-12 |
+| Dow Jones Futures Rise, Techs Fall As Nvidia May Oust CEO Huang After CoreWave Leads Rally | Investor's Business Daily | 2026-11-12 |
 | BE Stock Clocked Best Single-Day Gain Since July As CoreWeave Flags AI’s Power Crunch – But Retail Traders Warn Of A 'Fast Fix' | Stocktwits | 2026-11-12 |
 | What’s Propelling Bloom Energy’s (BE) 13% Run? | Insider Monkey | 2026-11-11 |
 

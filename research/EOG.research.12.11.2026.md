@@ -18,7 +18,7 @@ Signed file: `EOG.research.12.11.2026`
 | Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
 | Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 28.06%, revenue growth 42.70%. |
-| Value attractiveness | Reasonable | Forward P/E 9.30, EV/Sales 2.82. |
+| Value attractiveness | Reasonable | Forward P/E 9.21, EV/Sales 2.82. |
 | Risk level | Moderate | Beta 0.27, ATR nan% of price, short float 3.62%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate.
@@ -68,7 +68,7 @@ EOG Resources, Inc., together with its subsidiaries, explores for, develops, pro
 | Revenue (ttm) | $29.17B | Revenue growth 42.70% y/y |
 | Profitability | Gross 62.98%, operating 35.47%, net 28.06% | ROA 11.90%, ROE 25.83% |
 | Balance sheet | Cash $5.75B, debt $8.26B | Current ratio 1.90, debt/equity 24.96 |
-| Valuation | P/E 9.93, forward P/E 9.30, P/S 2.73, P/B 2.42 | EV/Sales 2.82, EV/EBITDA 5.12 |
+| Valuation | P/E 9.93, forward P/E 9.21, P/S 2.73, P/B 2.42 | EV/Sales 2.82, EV/EBITDA 5.12 |
 | Growth expectations | Earnings growth 97.40%, EPS q/q 89.10% | Analyst mean target $167.41 (29 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -120,7 +120,7 @@ EOG Resources, Inc., together with its subsidiaries, explores for, develops, pro
 | 52W high | $165.54 | Revenue growth y/y | 42.70% |
 | 52W low | $98.64 | Inst. ownership | 99.34% |
 | P/E (ttm) | 9.93 | Insider ownership | 0.29% |
-| Forward P/E | 9.30 | Short float | 3.62% |
+| Forward P/E | 9.21 | Short float | 3.62% |
 | PEG (trailing) | 1.15 | Avg volume | 3,064,335 |
 | P/S | 2.73 | Employees | 3,400 |
 | P/B | 2.42 | Analyst rec (1=buy..5=sell) | 2.4 |
