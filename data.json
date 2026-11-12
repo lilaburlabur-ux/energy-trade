@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-12T21:55:57+00:00",
-  "as_of_local": "2026-11-12 21:55:57 UTC",
+  "as_of_utc": "2026-11-12T22:00:58+00:00",
+  "as_of_local": "2026-11-12 22:00:58 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AR"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1435,6 +1433,34 @@
       ]
     },
     {
+      "symbol": "AR",
+      "name": "Antero Resources",
+      "price": 38.71,
+      "previous_close": 38.21,
+      "change_pct": 1.31,
+      "market_cap": 11889234278.808594,
+      "headlines": [
+        {
+          "title": "David Einhorn\u2019s Best Buy Is Already Up 36%. Is It Too Late to Follow Him?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/david-einhorn-best-buy-already-194953923.html",
+          "publisher": "TIKR",
+          "published": "2026-11-11T19:49:53Z"
+        },
+        {
+          "title": "Did Stronger Earnings Just Shift Antero Resources (AR) Investment Narrative?",
+          "url": "https://finance.yahoo.com/energy/articles/did-stronger-earnings-just-shift-002052830.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-10T00:20:52Z"
+        },
+        {
+          "title": "Why Is Everyone Ignoring Expand Energy Stock's High Cash Yield?",
+          "url": "https://finance.yahoo.com/energy/articles/why-everyone-ignoring-expand-energy-000859092.html",
+          "publisher": "Trefis",
+          "published": "2026-11-06T00:08:59Z"
+        }
+      ]
+    },
+    {
       "symbol": "BWXT",
       "name": "BWX Technologies",
       "price": 123.99,
@@ -2089,13 +2115,13 @@
     },
     {
       "label": "WTI",
-      "price": 88.74,
-      "change_pct": 2.55
+      "price": 88.7,
+      "change_pct": 2.51
     },
     {
       "label": "Brent",
-      "price": 95.79,
-      "change_pct": 3.27
+      "price": 95.77,
+      "change_pct": 3.24
     },
     {
       "label": "NatGas",
