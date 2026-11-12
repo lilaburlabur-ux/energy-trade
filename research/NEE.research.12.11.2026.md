@@ -37,9 +37,9 @@ NextEra Energy, Inc., through its subsidiaries, generates, stores, transmits, di
 | Headline | Source | Date |
 |---|---|---|
 | NextEra Energy (NEE): Shareholders Approve the Dominion Deal. What Comes Next for the Merger? | Insider Monkey | 2026-11-12 |
+| Could Sempra Be The Value Stock For Your Portfolio? | Trefis | 2026-11-12 |
 | What Changed In PG&E's Story? | Trefis | 2026-11-12 |
 | Is Constellation Energy Stock Increasing Your Market Risk? | Trefis | 2026-11-12 |
-| What Utilities Select Sector SPDR ETF (XLU) Sold: NextEra Leads on Nov. 10 | GuruFocus.com | 2026-11-12 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

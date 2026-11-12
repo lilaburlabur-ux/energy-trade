@@ -3,7 +3,7 @@
 
 | Ticker | Mkt cap | 1Y | Fwd P/E | Net margin | Momentum | Value | Risk |
 |---|---|---|---|---|---|---|---|
-| XOM | $692.57B | +46% | 13.6 | 10% | Moderate | Reasonable | Moderate |
+| XOM | $692.57B | +46% | 13.5 | 10% | Moderate | Reasonable | Moderate |
 | CVX | $422.15B | +44% | 13.1 | 12% | Moderate | Reasonable | Moderate |
 | SHEL | $278.79B | +33% | 8.8 | 10% | Moderate | Reasonable | Moderate |
 | TTE | $196.39B | +45% | 7.4 | 10% | Moderate | Reasonable | Moderate |
@@ -18,14 +18,14 @@
 | APA | $16.00B | +99% | 8.6 | 23% | High | Reasonable | Elevated |
 | EQT | $32.75B | -13% | 15.4 | 29% | Low | Reasonable | Elevated |
 | AR | $11.89B | +10% | 8.4 | 23% | Moderate | Reasonable | Elevated |
-| PR | $19.10B | +74% | 8.8 | 25% | High | Reasonable | Elevated |
+| PR | $19.10B | +74% | 8.1 | 25% | High | Reasonable | Elevated |
 | OVV | $17.44B | +68% | 7.5 | 13% | High | Reasonable | Elevated |
 | SLB | $75.14B | +39% | 16.5 | 8% | Low | Reasonable | Elevated |
 | HAL | $27.10B | +19% | 11.2 | 9% | Low | Reasonable | Elevated |
 | BKR | $48.52B | +1% | 17.3 | 10% | Low | Reasonable | Elevated |
 | NOV | $6.35B | +16% | 14.0 | 2% | Low | Reasonable | High |
 | FTI | $25.24B | +50% | 17.1 | 12% | Low | Reasonable | Elevated |
-| WFRD | $6.20B | +14% | 13.1 | 9% | Low | Reasonable | Elevated |
+| WFRD | $6.20B | +14% | 12.8 | 9% | Low | Reasonable | Elevated |
 | LNG | $63.20B | +47% | 13.6 | 13% | Moderate | Reasonable | Elevated |
 | KMI | $71.31B | +23% | 20.8 | 20% | Moderate | Fair-to-demanding | Moderate |
 | WMB | $86.81B | +18% | 26.9 | 25% | Low | Fair-to-demanding | Elevated |
@@ -57,7 +57,7 @@
 | BEP | $20.22B | +4% | -14.9 | -4% | Low | Reasonable | Moderate |
 | GEV | $216.64B | +42% | 31.4 | 24% | Low | Fair-to-demanding | High |
 | ETN | $139.49B | -1% | 21.8 | 12% | Low | Fair-to-demanding | High |
-| VRT | $80.72B | +17% | 21.3 | 16% | Low | Fair-to-demanding | High |
+| VRT | $80.72B | +17% | 21.1 | 16% | Low | Fair-to-demanding | High |
 | PWR | $91.33B | +35% | 27.9 | 5% | Low | Fair-to-demanding | High |
 | FLNC | $921.73M | -77% | -8.9 | -3% | Low | Reasonable | High |
 | BE | $59.70B | +59% | 37.9 | 14% | Low | Low (expensive) | High |

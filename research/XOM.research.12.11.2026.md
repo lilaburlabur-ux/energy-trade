@@ -18,7 +18,7 @@ Signed file: `XOM.research.12.11.2026`
 | Technical momentum | Moderate | 1Y +45.85%; price +9.45% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -9.33% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 10.46%, revenue growth 32.60%. |
-| Value attractiveness | Reasonable | Forward P/E 13.64, EV/Sales 1.83. |
+| Value attractiveness | Reasonable | Forward P/E 13.53, EV/Sales 1.83. |
 | Risk level | Moderate | Beta 0.14, ATR 2.6% of price, short float 1.25%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -68,7 +68,7 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 | Revenue (ttm) | $388.23B | Revenue growth 32.60% y/y |
 | Profitability | Gross 29.81%, operating 12.88%, net 10.46% | ROA 6.75%, ROE 15.53% |
 | Balance sheet | Cash $12.15B, debt $34.25B | Current ratio 1.19, debt/equity 12.57 |
-| Valuation | P/E 17.47, forward P/E 13.64, P/S 1.78, P/B 2.61 | EV/Sales 1.83, EV/EBITDA 9.09 |
+| Valuation | P/E 17.47, forward P/E 13.53, P/S 1.78, P/B 2.61 | EV/Sales 1.83, EV/EBITDA 9.09 |
 | Growth expectations | Earnings growth 111.40%, EPS q/q 104.20% | Analyst mean target $184.32 (22 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -120,7 +120,7 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 | 52W high | $187.25 | Revenue growth y/y | 32.60% |
 | 52W low | $112.26 | Inst. ownership | 69.33% |
 | P/E (ttm) | 17.47 | Insider ownership | 0.08% |
-| Forward P/E | 13.64 | Short float | 1.25% |
+| Forward P/E | 13.53 | Short float | 1.25% |
 | PEG (trailing) | 1.31 | Avg volume | 13,611,864 |
 | P/S | 1.78 | Employees | 57,900 |
 | P/B | 2.61 | Analyst rec (1=buy..5=sell) | 2.4 |
