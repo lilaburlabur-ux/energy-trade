@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-12T11:56:16+00:00",
-  "as_of_local": "2026-11-12 11:56:16 UTC",
+  "as_of_utc": "2026-11-12T12:01:25+00:00",
+  "as_of_local": "2026-11-12 12:01:25 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -97,6 +97,12 @@
       "market_cap": 213922589239.10303,
       "headlines": [
         {
+          "title": "Energy Transition Update - Holu Hou Energy Revolutionizes MDU Solar Adoption",
+          "url": "https://finance.yahoo.com/energy/articles/energy-transition-holu-hou-energy-113732760.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-12T11:37:32Z"
+        },
+        {
           "title": "What Happened To NuScale Power Stock Over The Past Year?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/happened-nuscale-power-stock-over-011843055.html",
           "publisher": "Trefis",
@@ -107,12 +113,6 @@
           "url": "https://finance.yahoo.com/energy/articles/ge-vernova-ontario-nuclear-plant-232639767.html",
           "publisher": "Stocktwits",
           "published": "2026-11-11T23:26:39Z"
-        },
-        {
-          "title": "GE Vernova Fell 25% on Data Center Fears. Only About 20% of Its Gas Turbine Customers Are Data Centers. Time to Buy?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-fell-25-data-222500414.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-11T22:25:00Z"
         }
       ]
     },
@@ -772,7 +772,7 @@
           "title": "Dow Jones Futures: Techs Fall As Nvidia Board Mulls Ousting CEO Jensen Huang",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-coreweave-sandisk-nvidia-amd-nebius-bloom/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
-          "published": "2026-11-12T11:31:38Z"
+          "published": "2026-11-12T11:52:38Z"
         },
         {
           "title": "BE Stock Clocked Best Single-Day Gain Since July As CoreWeave Flags AI\u2019s Power Crunch \u2013 But Retail Traders Warn Of A 'Fast Fix'",
@@ -1021,6 +1021,12 @@
       "market_cap": 45292219410.599625,
       "headlines": [
         {
+          "title": "Energy Transition Update - Holu Hou Energy Revolutionizes MDU Solar Adoption",
+          "url": "https://finance.yahoo.com/energy/articles/energy-transition-holu-hou-energy-113732760.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-12T11:37:32Z"
+        },
+        {
           "title": "ETFs Are Net Sellers of Vistra (VST) on Nov. 10",
           "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-vistra-vst-110321263.html",
           "publisher": "GuruFocus.com",
@@ -1031,12 +1037,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/biggest-threat-vistra-stock-005944429.html",
           "publisher": "Trefis",
           "published": "2026-11-12T00:59:44Z"
-        },
-        {
-          "title": "What Could Send Constellation Energy Stock Higher?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/could-send-constellation-energy-stock-004431903.html",
-          "publisher": "Trefis",
-          "published": "2026-11-12T00:44:31Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 85.95,
-      "change_pct": -0.67
+      "price": 86.0,
+      "change_pct": -0.61
     },
     {
       "label": "Brent",
-      "price": 92.24,
-      "change_pct": -0.56
+      "price": 92.3,
+      "change_pct": -0.5
     },
     {
       "label": "NatGas",
       "price": 3.28,
-      "change_pct": 1.87
+      "change_pct": 1.93
     }
   ]
 }
