@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-12T10:30:07+00:00",
-  "as_of_local": "2026-11-12 10:30:07 UTC",
+  "as_of_utc": "2026-11-12T10:35:03+00:00",
+  "as_of_local": "2026-11-12 10:35:03 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -265,6 +265,12 @@
       "market_cap": 109686192678.07251,
       "headlines": [
         {
+          "title": "Marathon Petroleum (MPC) Posts Stronger Q3 Results, Is It Still 12% Undervalued?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/marathon-petroleum-mpc-posts-stronger-100843023.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-12T10:08:43Z"
+        },
+        {
           "title": "Is Marathon Petroleum (MPC) Too Pricey For Its Future Cash Flow?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/marathon-petroleum-mpc-too-pricey-071435697.html",
           "publisher": "Simply Wall St.",
@@ -275,12 +281,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/know-beyond-why-marathon-petroleum-202120528.html",
           "publisher": "Zacks",
           "published": "2026-11-11T20:21:20Z"
-        },
-        {
-          "title": "APA Raises 2026 Free Cash Flow Forecast to $2.9B After Q3 Results",
-          "url": "https://finance.yahoo.com/energy/articles/apa-raises-2026-free-cash-153800098.html",
-          "publisher": "Zacks",
-          "published": "2026-11-11T15:38:00Z"
         }
       ]
     },
@@ -1189,6 +1189,12 @@
       "market_cap": 23431281902.26303,
       "headlines": [
         {
+          "title": "Hubbell (HUBB), What Is Behind The Fresh Attention?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/hubbell-hubb-behind-fresh-attention-100846444.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-12T10:08:46Z"
+        },
+        {
           "title": "Hubbell (HUBB) Stock May Be Fully Priced On Cash Flow",
           "url": "https://finance.yahoo.com/markets/stocks/articles/hubbell-hubb-stock-may-fully-091001551.html",
           "publisher": "Simply Wall St.",
@@ -1199,12 +1205,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/fps-declines-42-month-time-170800439.html",
           "publisher": "Zacks",
           "published": "2026-11-11T17:08:00Z"
-        },
-        {
-          "title": "GEV, VRT, HUBB In Focus \u2014 JPMorgan Sees Potential AI Stock Rebound, But Remains Cautious On Electrical Equipment Sector",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/gev-vrt-hubb-focus-jpmorgan-115118357.html",
-          "publisher": "Stocktwits",
-          "published": "2026-11-11T11:51:18Z"
         }
       ]
     },
@@ -2115,18 +2115,13 @@
     },
     {
       "label": "WTI",
-      "price": 85.68,
-      "change_pct": -0.98
+      "price": 85.85,
+      "change_pct": -0.79
     },
     {
       "label": "Brent",
-      "price": 91.79,
-      "change_pct": -1.05
-    },
-    {
-      "label": "NatGas",
-      "price": 3.31,
-      "change_pct": 2.8
+      "price": 92.04,
+      "change_pct": -0.78
     }
   ]
 }
