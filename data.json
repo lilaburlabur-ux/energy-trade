@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-12T11:05:50+00:00",
-  "as_of_local": "2026-11-12 11:05:50 UTC",
+  "as_of_utc": "2026-11-12T11:10:45+00:00",
+  "as_of_local": "2026-11-12 11:10:45 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "PR"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -14,6 +12,12 @@
       "change_pct": 1.36,
       "market_cap": 680047201026.5977,
       "headlines": [
+        {
+          "title": "ETFs Are Net Sellers of ExxonMobil (XOM) on Nov. 10",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-exxonmobil-xom-110240481.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-12T11:02:40Z"
+        },
         {
           "title": "Market Chatter: Exxon Mobil to Evaluate Seven Areas in Venezuela for Potential Oil and Gas Projects",
           "url": "https://finance.yahoo.com/energy/articles/market-chatter-exxon-mobil-evaluate-092216903.html",
@@ -25,12 +29,6 @@
           "url": "https://finance.yahoo.com/energy/articles/exxon-chevron-shell-just-reported-033500434.html",
           "publisher": "Motley Fool",
           "published": "2026-11-12T03:35:00Z"
-        },
-        {
-          "title": "Should You Pick Occidental Stock Over Its Competitors?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/pick-occidental-stock-over-competitors-012700052.html",
-          "publisher": "Trefis",
-          "published": "2026-11-12T01:27:00Z"
         }
       ]
     },
@@ -799,6 +797,12 @@
       "market_cap": 59863265121.30188,
       "headlines": [
         {
+          "title": "ETFs Are Net Sellers of Dominion (D) on Nov. 10",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-dominion-d-110247142.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-12T11:02:47Z"
+        },
+        {
           "title": "NextEra Energy (NEE) Draws Fresh Virginia Questions Over Merger Consumer Protections",
           "url": "https://finance.yahoo.com/energy/articles/nextera-energy-nee-draws-fresh-010909823.html",
           "publisher": "Simply Wall St.",
@@ -809,12 +813,6 @@
           "url": "https://finance.yahoo.com/energy/articles/nextera-energy-nee-could-8-001740714.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-12T00:17:40Z"
-        },
-        {
-          "title": "AI Boom Fuels Southern Company's Data Center Power Usage Growth",
-          "url": "https://finance.yahoo.com/energy/articles/ai-boom-fuels-southern-companys-181500524.html",
-          "publisher": "Zacks",
-          "published": "2026-11-10T18:15:00Z"
         }
       ]
     },
@@ -1263,6 +1261,34 @@
           "url": "https://finance.yahoo.com/energy/articles/t1-energy-release-q3-earnings-124100990.html",
           "publisher": "Zacks",
           "published": "2026-11-10T12:41:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "PR",
+      "name": "Permian Resources",
+      "price": 22.32,
+      "previous_close": 21.72,
+      "change_pct": 2.76,
+      "market_cap": 18720359555.4012,
+      "headlines": [
+        {
+          "title": "The Oil Slump Has Gone Too Far. Where Prices Could Go Next.",
+          "url": "https://www.barrons.com/articles/oil-prices-stocks-fall-where-they-could-go-next-0162a3c2?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-11-09T10:55:00Z"
+        },
+        {
+          "title": "The top 5 analyst questions from Permian Resources\u2019s Q3 2026 earnings call",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-permian-220536252.html",
+          "publisher": "StockStory",
+          "published": "2026-11-08T22:05:36Z"
+        },
+        {
+          "title": "Permian Resources Q3 Earnings Call Highlights",
+          "url": "https://finance.yahoo.com/energy/articles/permian-resources-q3-earnings-call-051413053.html",
+          "publisher": "MarketBeat",
+          "published": "2026-11-08T05:14:13Z"
         }
       ]
     },
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 85.63,
-      "change_pct": -1.04
+      "price": 85.8,
+      "change_pct": -0.84
     },
     {
       "label": "Brent",
-      "price": 91.86,
-      "change_pct": -0.97
+      "price": 92.0,
+      "change_pct": -0.82
     },
     {
       "label": "NatGas",
-      "price": 3.29,
-      "change_pct": 2.46
+      "price": 3.28,
+      "change_pct": 1.96
     }
   ]
 }
