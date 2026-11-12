@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-12T03:32:21+00:00",
-  "as_of_local": "2026-11-12 03:32:21 UTC",
+  "as_of_utc": "2026-11-12T03:47:26+00:00",
+  "as_of_local": "2026-11-12 03:47:26 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "HAL"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -435,6 +433,12 @@
       "market_cap": 96597408166.8064,
       "headlines": [
         {
+          "title": "America Has 6\u20137 Years of Untapped Power for AI Data Centers, Constellation CEO Says",
+          "url": "https://finance.yahoo.com/energy/articles/america-6-7-years-untapped-022949127.html",
+          "publisher": "Benzinga",
+          "published": "2026-11-12T02:30:00Z"
+        },
+        {
           "title": "What Happened To NuScale Power Stock Over The Past Year?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/happened-nuscale-power-stock-over-011843055.html",
           "publisher": "Trefis",
@@ -445,12 +449,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/biggest-threat-vistra-stock-005944429.html",
           "publisher": "Trefis",
           "published": "2026-11-12T00:59:44Z"
-        },
-        {
-          "title": "What Could Send Constellation Energy Stock Higher?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/could-send-constellation-energy-stock-004431903.html",
-          "publisher": "Trefis",
-          "published": "2026-11-12T00:44:31Z"
         }
       ]
     },
@@ -1127,6 +1125,34 @@
       ]
     },
     {
+      "symbol": "HAL",
+      "name": "Halliburton",
+      "price": 32.93,
+      "previous_close": 31.86,
+      "change_pct": 3.36,
+      "market_cap": 27237270694.478928,
+      "headlines": [
+        {
+          "title": "Are Wall Street Analysts Bullish on Halliburton Stock?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-halliburton-094239612.html",
+          "publisher": "Barchart",
+          "published": "2026-11-09T09:42:39Z"
+        },
+        {
+          "title": "Why Is Baker Hughes Stock Falling?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-baker-hughes-stock-falling-141921435.html",
+          "publisher": "Trefis",
+          "published": "2026-11-06T14:19:21Z"
+        },
+        {
+          "title": "CLB Q3 Earnings Miss Estimates on Higher Costs and Disruptions",
+          "url": "https://finance.yahoo.com/energy/articles/clb-q3-earnings-miss-estimates-155400926.html",
+          "publisher": "Zacks",
+          "published": "2026-11-03T15:54:00Z"
+        }
+      ]
+    },
+    {
       "symbol": "FTI",
       "name": "TechnipFMC",
       "price": 65.39,
@@ -1583,6 +1609,12 @@
       "market_cap": 5050188994.175308,
       "headlines": [
         {
+          "title": "Can Oklo (OKLO) Be Below Fair Value After Groves Progress?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/oklo-oklo-below-fair-value-031445412.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-12T03:14:45Z"
+        },
+        {
           "title": "What Happened To NuScale Power Stock Over The Past Year?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/happened-nuscale-power-stock-over-011843055.html",
           "publisher": "Trefis",
@@ -1593,12 +1625,6 @@
           "url": "https://finance.yahoo.com/energy/articles/ge-vernova-ontario-nuclear-plant-232639767.html",
           "publisher": "Stocktwits",
           "published": "2026-11-11T23:26:39Z"
-        },
-        {
-          "title": "Bad News for Nuclear: A Landmark Reactor Just Got Delayed",
-          "url": "https://www.barrons.com/articles/ge-vernova-hitachi-stock-nuclear-energy-51a5d81c?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-11-11T19:46:00Z"
         }
       ]
     },
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 85.54,
-      "change_pct": -0.58
+      "price": 85.67,
+      "change_pct": -0.43
     },
     {
       "label": "Brent",
-      "price": 91.67,
-      "change_pct": 0.2
+      "price": 91.77,
+      "change_pct": 0.31
     },
     {
       "label": "NatGas",
-      "price": 3.28,
-      "change_pct": -0.42
+      "price": 3.29,
+      "change_pct": -0.33
     }
   ]
 }
