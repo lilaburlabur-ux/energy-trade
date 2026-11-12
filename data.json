@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-12T00:35:30+00:00",
-  "as_of_local": "2026-11-12 00:35:30 UTC",
+  "as_of_utc": "2026-11-12T00:40:17+00:00",
+  "as_of_local": "2026-11-12 00:40:17 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -153,6 +153,12 @@
       "market_cap": 180347342673.1809,
       "headlines": [
         {
+          "title": "NextEra Energy (NEE) Could Be 8% Undervalued After Dominion Merger Scrutiny",
+          "url": "https://finance.yahoo.com/energy/articles/nextera-energy-nee-could-8-001740714.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-12T00:17:40Z"
+        },
+        {
           "title": "Investors Heavily Search NextEra Energy, Inc. (NEE): Here is What You Need to Know",
           "url": "https://finance.yahoo.com/markets/stocks/articles/investors-heavily-search-nextera-energy-202120458.html",
           "publisher": "Zacks",
@@ -163,12 +169,6 @@
           "url": "https://finance.yahoo.com/energy/articles/constellation-energy-dividend-small-ai-181715518.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-11T18:17:15Z"
-        },
-        {
-          "title": "State Street Utilities SPDR (XLU) Buys $76 Million More NextEra on Monday",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/state-street-utilities-spdr-xlu-110336513.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-11T11:03:36Z"
         }
       ]
     },
@@ -797,6 +797,12 @@
       "market_cap": 59863265121.30188,
       "headlines": [
         {
+          "title": "NextEra Energy (NEE) Could Be 8% Undervalued After Dominion Merger Scrutiny",
+          "url": "https://finance.yahoo.com/energy/articles/nextera-energy-nee-could-8-001740714.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-12T00:17:40Z"
+        },
+        {
           "title": "AI Boom Fuels Southern Company's Data Center Power Usage Growth",
           "url": "https://finance.yahoo.com/energy/articles/ai-boom-fuels-southern-companys-181500524.html",
           "publisher": "Zacks",
@@ -807,12 +813,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-081055170.html",
           "publisher": "Barchart",
           "published": "2026-11-10T08:10:55Z"
-        },
-        {
-          "title": "People Pay the Power Bill Before Almost Anything Else. $45,000 in Each of These 3 Utilities Pays $5,915 a Year",
-          "url": "https://finance.yahoo.com/news/people-pay-power-bill-almost-221425733.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-09T22:14:25Z"
         }
       ]
     },
@@ -2115,8 +2115,8 @@
     },
     {
       "label": "WTI",
-      "price": 86.14,
-      "change_pct": 0.12
+      "price": 86.12,
+      "change_pct": 0.09
     },
     {
       "label": "Brent",
@@ -2126,7 +2126,7 @@
     {
       "label": "NatGas",
       "price": 3.25,
-      "change_pct": -1.4
+      "change_pct": -1.3
     }
   ]
 }
