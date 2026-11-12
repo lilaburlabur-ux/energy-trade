@@ -1,10 +1,9 @@
 {
-  "as_of_utc": "2026-11-12T02:57:00+00:00",
-  "as_of_local": "2026-11-12 02:57:00 UTC",
+  "as_of_utc": "2026-11-12T03:00:57+00:00",
+  "as_of_local": "2026-11-12 03:00:57 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "FANG",
-    "ENPH"
+    "WFRD"
   ],
   "stocks": [
     {
@@ -781,7 +780,7 @@
           "title": "Dow Jones Futures Rise, Techs Fall As Nvidia May Oust CEO Huang After CoreWave Leads Rally",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-coreweave-sandisk-nvidia-amd-nebius-bloom/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
-          "published": "2026-11-12T02:43:30Z"
+          "published": "2026-11-12T02:51:20Z"
         },
         {
           "title": "BE Stock Clocked Best Single-Day Gain Since July As CoreWeave Flags AI\u2019s Power Crunch \u2013 But Retail Traders Warn Of A 'Fast Fix'",
@@ -956,6 +955,34 @@
           "url": "https://finance.yahoo.com/energy/articles/crescent-energys-royalty-business-next-181300051.html",
           "publisher": "Zacks",
           "published": "2026-11-10T18:13:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "FANG",
+      "name": "Diamondback Energy",
+      "price": 180.98,
+      "previous_close": 178.08,
+      "change_pct": 1.63,
+      "market_cap": 50523794671.446304,
+      "headlines": [
+        {
+          "title": "Should You Pick Occidental Stock Over Its Competitors?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/pick-occidental-stock-over-competitors-012700052.html",
+          "publisher": "Trefis",
+          "published": "2026-11-12T01:27:00Z"
+        },
+        {
+          "title": "Diamondback's Deep Blue Deal Fits Infrastructure Strategy, UBS Says",
+          "url": "https://finance.yahoo.com/energy/articles/diamondback-apos-deep-blue-deal-180646571.html",
+          "publisher": "MT Newswires",
+          "published": "2026-11-11T18:06:46Z"
+        },
+        {
+          "title": "Diamondback and KKR to Acquire Five Point's 70% Stake in Deep Blue",
+          "url": "https://finance.yahoo.com/energy/articles/diamondback-kkr-acquire-five-points-153400389.html",
+          "publisher": "Zacks",
+          "published": "2026-11-11T15:34:00Z"
         }
       ]
     },
@@ -1520,34 +1547,6 @@
       ]
     },
     {
-      "symbol": "WFRD",
-      "name": "Weatherford",
-      "price": 86.69,
-      "previous_close": 84.31,
-      "change_pct": 2.82,
-      "market_cap": 6282449096.889404,
-      "headlines": [
-        {
-          "title": "Why Is Baker Hughes Stock Falling?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-baker-hughes-stock-falling-141921435.html",
-          "publisher": "Trefis",
-          "published": "2026-11-06T14:19:21Z"
-        },
-        {
-          "title": "Should Jun\u00edn 5 Support Work Require Action From Weatherford International (WFRD) Investors?",
-          "url": "https://finance.yahoo.com/energy/articles/jun-n-5-support-require-131419197.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-10-30T13:14:19Z"
-        },
-        {
-          "title": "Weatherford: 3 Key Takeaways for Long-Term Investors",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/weatherford-3-key-takeaways-long-212002900.html",
-          "publisher": "Motley Fool",
-          "published": "2026-10-28T21:20:02Z"
-        }
-      ]
-    },
-    {
       "symbol": "NXE",
       "name": "NexGen Energy",
       "price": 8.32,
@@ -1600,6 +1599,34 @@
           "url": "https://www.barrons.com/articles/ge-vernova-hitachi-stock-nuclear-energy-51a5d81c?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
           "published": "2026-11-11T19:46:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "ENPH",
+      "name": "Enphase Energy",
+      "price": 28.3,
+      "previous_close": 27.64,
+      "change_pct": 2.39,
+      "market_cap": 3744493938.152218,
+      "headlines": [
+        {
+          "title": "Enphase Energy (ENPH) Could Be 32% Undervalued As Shipments Put Valuation Back In Focus",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/enphase-energy-enph-could-32-191223695.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-11T19:12:23Z"
+        },
+        {
+          "title": "T1 Energy to Release Q3 Earnings: Here's What You Need to Know",
+          "url": "https://finance.yahoo.com/energy/articles/t1-energy-release-q3-earnings-124100990.html",
+          "publisher": "Zacks",
+          "published": "2026-11-10T12:41:00Z"
+        },
+        {
+          "title": "Enphase and Other Solar Stocks Are Up After Democrats Sweep Congress, But I Wouldn\u2019t Chase ENPH Here",
+          "url": "https://finance.yahoo.com/energy/articles/enphase-other-solar-stocks-democrats-210608500.html",
+          "publisher": "Barchart",
+          "published": "2026-11-09T21:06:08Z"
         }
       ]
     },
@@ -2067,13 +2094,13 @@
     },
     {
       "label": "Brent",
-      "price": 91.98,
-      "change_pct": 0.54
+      "price": 91.97,
+      "change_pct": 0.52
     },
     {
       "label": "NatGas",
       "price": 3.29,
-      "change_pct": -0.3
+      "change_pct": -0.27
     }
   ]
 }
