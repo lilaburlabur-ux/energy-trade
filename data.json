@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-12T10:50:06+00:00",
-  "as_of_local": "2026-11-12 10:50:06 UTC",
+  "as_of_utc": "2026-11-12T10:55:12+00:00",
+  "as_of_local": "2026-11-12 10:55:12 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -769,12 +769,6 @@
       "market_cap": 61906181205.753204,
       "headlines": [
         {
-          "title": "Bloom Energy stock surges as CoreWeave earnings spur rally in power stocks",
-          "url": "https://finance.yahoo.com/markets/stocks/article/bloom-energy-stock-surges-as-coreweave-earnings-spur-rally-in-power-stocks-185358201.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-11T18:53:58Z"
-        },
-        {
           "title": "Dow Jones Futures Rise, Techs Fall As Nvidia May Oust CEO Huang After CoreWave Leads Rally",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-coreweave-sandisk-nvidia-amd-nebius-bloom/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
@@ -785,6 +779,12 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/stock-clocked-best-single-day-013802230.html",
           "publisher": "Stocktwits",
           "published": "2026-11-12T01:38:02Z"
+        },
+        {
+          "title": "What\u2019s Propelling Bloom Energy\u2019s (BE) 13% Run?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/propelling-bloom-energy-13-run-232201092.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-11-11T23:22:01Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 85.87,
-      "change_pct": -0.76
+      "price": 85.77,
+      "change_pct": -0.88
     },
     {
       "label": "Brent",
-      "price": 92.02,
-      "change_pct": -0.8
+      "price": 91.96,
+      "change_pct": -0.86
     },
     {
       "label": "NatGas",
-      "price": 3.31,
-      "change_pct": 2.89
+      "price": 3.3,
+      "change_pct": 2.67
     }
   ]
 }
