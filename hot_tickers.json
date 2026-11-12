@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-12T22:25:31+00:00",
+  "as_of": "2026-11-12T22:40:50+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,8 +11,8 @@
    "rank": 1,
    "ticker": "SEDG",
    "company": "SolarEdge Technologies, Inc.",
-   "move_pct": -8.14,
-   "price": 24.5,
+   "move_pct": -8.17,
+   "price": 24.49,
    "volume": 2592913,
    "volume_vs_avg": "~0.9x",
    "heat_score": 58,
@@ -41,35 +41,35 @@
   },
   {
    "rank": 3,
-   "ticker": "RUN",
-   "company": "Sunrun Inc.",
-   "move_pct": -6.06,
-   "price": 8.52,
-   "volume": 9622044,
-   "volume_vs_avg": "~0.9x",
-   "heat_score": 41,
-   "direction": "down",
-   "why": "SolarEdge Slides 5% as Rising Yields Weigh on Solar Stocks; Sunrun Drops 4%, Enphase Falls 3%",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORW55TFR6TnFoRm5PVkF1eGZWaTRtRjJRdXkydXhPWEM2bnRTdm5zX0xJRzNIN3B5MFFic1dxZDFWaklUZzd2aDJVZTBReHpNMUE3eGQ2ZTdncmNpQWpiZV9aeUc4d1VhRURkU3ZXWEhpZTQ1WjlqUlk3bmVIT21OU2RMUHVOeXFEZWh0bEFISUpfSHVqTlh1WUllLWk0U2ZTaEhfQ282aEN2YUVvNW02MlNKM0hzd0JoNWUwQTdWdnYwSEpLaHRTZmRQaGw?oc=5",
-   "published": "2026-11-12T18:57:00+00:00",
-   "sector": "Renewables & Solar"
-  },
-  {
-   "rank": 4,
    "ticker": "FLNC",
    "company": "Fluence Energy, Inc.",
-   "move_pct": -5.91,
-   "price": 4.78,
+   "move_pct": -6.46,
+   "price": 4.75,
    "volume": 6355515,
    "volume_vs_avg": "~1.0x",
-   "heat_score": 41,
+   "heat_score": 42,
    "direction": "down",
    "why": "NN, Fluence Energy, GRAIL, Tempus AI, and CSW shares are falling, what you need to know",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZEhLdHBQTXRiQzUySXRkSnc3bW9LV3UwR0E4Y19qZzgxZEduVi0wNEJoU1VkNFVYVDhOVjl5ZHY2U2VXWnRKMF9hVmlDczBfVWs4V3ZIQy1Jb1F3Z1p5LXlpazFfUHJmY05IUjRqVVNkRXVUVnRwTmNOQS04Mi1iM2tmZzh1bnAwRFE5T0VBMDZVTV83VS1NdkdVZ1RFUEwtZkg3RDFEX05oY3o3aTNDY042WGN6UTZNOUJUQUU5WHg0M3d1TTh1Rm12T2JWZXQ2VHBWWUdrMFE1VmR2?oc=5",
    "published": "2026-11-12T18:59:28+00:00",
    "sector": "Grid, Storage & Electrification"
+  },
+  {
+   "rank": 4,
+   "ticker": "RUN",
+   "company": "Sunrun Inc.",
+   "move_pct": -5.69,
+   "price": 8.55,
+   "volume": 9622044,
+   "volume_vs_avg": "~0.9x",
+   "heat_score": 39,
+   "direction": "down",
+   "why": "SolarEdge Slides 5% as Rising Yields Weigh on Solar Stocks; Sunrun Drops 4%, Enphase Falls 3%",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORW55TFR6TnFoRm5PVkF1eGZWaTRtRjJRdXkydXhPWEM2bnRTdm5zX0xJRzNIN3B5MFFic1dxZDFWaklUZzd2aDJVZTBReHpNMUE3eGQ2ZTdncmNpQWpiZV9aeUc4d1VhRURkU3ZXWEhpZTQ1WjlqUlk3bmVIT21OU2RMUHVOeXFEZWh0bEFISUpfSHVqTlh1WUllLWk0U2ZTaEhfQ282aEN2YUVvNW02MlNKM0hzd0JoNWUwQTdWdnYwSEpLaHRTZmRQaGw?oc=5",
+   "published": "2026-11-12T18:57:00+00:00",
+   "sector": "Renewables & Solar"
   }
  ]
 }
