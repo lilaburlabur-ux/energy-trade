@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-12T00:45:02+00:00",
-  "as_of_local": "2026-11-12 00:45:02 UTC",
+  "as_of_utc": "2026-11-12T00:50:22+00:00",
+  "as_of_local": "2026-11-12 00:50:22 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "ET"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -679,6 +677,34 @@
       ]
     },
     {
+      "symbol": "ET",
+      "name": "Energy Transfer",
+      "price": 19.45,
+      "previous_close": 19.43,
+      "change_pct": 0.1,
+      "market_cap": 66990707684.35588,
+      "headlines": [
+        {
+          "title": "How Investors May Respond To Energy Transfer Stock 2.7b Bond Offering",
+          "url": "https://finance.yahoo.com/energy/articles/investors-may-respond-energy-transfer-200657549.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-11T20:06:57Z"
+        },
+        {
+          "title": "Energy Transfer (ET) Prices New Bonds, Is The Upside Already Priced In?",
+          "url": "https://finance.yahoo.com/energy/articles/energy-transfer-et-prices-bonds-191124937.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-11T19:11:24Z"
+        },
+        {
+          "title": "Is Energy Transfer (ET) Still Undervalued With $1.6B In New Projects?",
+          "url": "https://finance.yahoo.com/energy/articles/energy-transfer-et-still-undervalued-171732305.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-11T17:17:32Z"
+        }
+      ]
+    },
+    {
       "symbol": "TRGP",
       "name": "Targa Resources",
       "price": 291.78,
@@ -752,7 +778,7 @@
           "title": "Dow Jones Futures: Techs Tumble As Nvidia May Oust CEO Huang; AI Stocks Slide, But Not AMD",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-coreweave-sandisk-nvidia-amd-nebius-bloom/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
-          "published": "2026-11-12T00:20:02Z"
+          "published": "2026-11-12T00:44:18Z"
         },
         {
           "title": "What\u2019s Propelling Bloom Energy\u2019s (BE) 13% Run?",
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 86.11,
-      "change_pct": 0.08
+      "price": 86.15,
+      "change_pct": 0.13
     },
     {
       "label": "Brent",
-      "price": 92.34,
-      "change_pct": 0.93
+      "price": 92.36,
+      "change_pct": 0.95
     },
     {
       "label": "NatGas",
       "price": 3.25,
-      "change_pct": -1.33
+      "change_pct": -1.27
     }
   ]
 }
