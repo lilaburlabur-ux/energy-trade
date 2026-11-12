@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-12T04:07:49+00:00",
-  "as_of_local": "2026-11-12 04:07:49 UTC",
+  "as_of_utc": "2026-11-12T04:22:42+00:00",
+  "as_of_local": "2026-11-12 04:22:42 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "HAL"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -780,7 +778,7 @@
           "title": "Dow Jones Futures Rise, Techs Fall As Nvidia May Oust CEO Huang After CoreWave Leads Rally",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-coreweave-sandisk-nvidia-amd-nebius-bloom/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
-          "published": "2026-11-12T04:03:25Z"
+          "published": "2026-11-12T04:08:47Z"
         },
         {
           "title": "BE Stock Clocked Best Single-Day Gain Since July As CoreWeave Flags AI\u2019s Power Crunch \u2013 But Retail Traders Warn Of A 'Fast Fix'",
@@ -1123,6 +1121,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/5-stocks-analysts-just-upgraded-222146322.html",
           "publisher": "Insider Monkey",
           "published": "2026-11-10T22:21:46Z"
+        }
+      ]
+    },
+    {
+      "symbol": "HAL",
+      "name": "Halliburton",
+      "price": 32.93,
+      "previous_close": 31.86,
+      "change_pct": 3.36,
+      "market_cap": 27237270694.478928,
+      "headlines": [
+        {
+          "title": "Are Wall Street Analysts Bullish on Halliburton Stock?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-halliburton-094239612.html",
+          "publisher": "Barchart",
+          "published": "2026-11-09T09:42:39Z"
+        },
+        {
+          "title": "Why Is Baker Hughes Stock Falling?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-baker-hughes-stock-falling-141921435.html",
+          "publisher": "Trefis",
+          "published": "2026-11-06T14:19:21Z"
+        },
+        {
+          "title": "CLB Q3 Earnings Miss Estimates on Higher Costs and Disruptions",
+          "url": "https://finance.yahoo.com/energy/articles/clb-q3-earnings-miss-estimates-155400926.html",
+          "publisher": "Zacks",
+          "published": "2026-11-03T15:54:00Z"
         }
       ]
     },
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 85.69,
-      "change_pct": -0.41
+      "price": 85.49,
+      "change_pct": -0.64
     },
     {
       "label": "Brent",
-      "price": 91.74,
-      "change_pct": 0.27
+      "price": 91.5,
+      "change_pct": 0.01
     },
     {
       "label": "NatGas",
       "price": 3.28,
-      "change_pct": -0.46
+      "change_pct": -0.64
     }
   ]
 }
