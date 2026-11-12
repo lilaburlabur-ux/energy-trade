@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-12T23:37:20+00:00",
-  "as_of_local": "2026-11-12 23:37:20 UTC",
+  "as_of_utc": "2026-11-12T23:42:19+00:00",
+  "as_of_local": "2026-11-12 23:42:19 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "OXY"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -69,6 +71,12 @@
       "market_cap": 278793462189.7535,
       "headlines": [
         {
+          "title": "Seplat Energy And 2 British Energy Stocks To Watch",
+          "url": "https://finance.yahoo.com/energy/articles/seplat-energy-2-british-energy-232020296.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-12T23:20:20Z"
+        },
+        {
           "title": "5 Stocks Analysts Are Downgrading Right Now",
           "url": "https://finance.yahoo.com/markets/stocks/articles/5-stocks-analysts-downgrading-now-205623990.html",
           "publisher": "Insider Monkey",
@@ -79,12 +87,6 @@
           "url": "https://finance.yahoo.com/energy/articles/chevron-q3-earnings-surge-strong-123000894.html",
           "publisher": "Zacks",
           "published": "2026-11-12T12:30:00Z"
-        },
-        {
-          "title": "Exxon, Chevron, and Shell Just Reported. Here's What Each One Said About Where Oil Goes Next.",
-          "url": "https://finance.yahoo.com/energy/articles/exxon-chevron-shell-just-reported-033500434.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-12T03:35:00Z"
         }
       ]
     },
@@ -237,22 +239,22 @@
       "market_cap": 118016378756.71335,
       "headlines": [
         {
+          "title": "Seplat Energy And 2 British Energy Stocks To Watch",
+          "url": "https://finance.yahoo.com/energy/articles/seplat-energy-2-british-energy-232020296.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-12T23:20:20Z"
+        },
+        {
+          "title": "BP (LSE:BP.) Reset Its Dividend And Guidance, Is It Still 14% Below Fair Value?",
+          "url": "https://finance.yahoo.com/energy/articles/bp-lse-bp-reset-dividend-231839363.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-12T23:18:39Z"
+        },
+        {
           "title": "BP or Bristol Myers Squibb: Only One Gets My Dividend Dollars for the Next 20 Years",
           "url": "https://finance.yahoo.com/markets/stocks/articles/bp-bristol-myers-squibb-only-165343000.html",
           "publisher": "TIKR",
           "published": "2026-11-12T16:53:43Z"
-        },
-        {
-          "title": "Eni Outperforms the Industry YTD: Should Investors Bet on the Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/eni-outperforms-industry-ytd-investors-152100297.html",
-          "publisher": "Zacks",
-          "published": "2026-11-12T15:21:00Z"
-        },
-        {
-          "title": "FTSE 100 today: Stocks gain as oil rebounds; Spirax tops gainers",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ftse-100-today-stocks-rise-084246110.html",
-          "publisher": "Investing.com",
-          "published": "2026-11-11T08:42:46Z"
         }
       ]
     },
@@ -813,34 +815,6 @@
           "url": "https://finance.yahoo.com/energy/articles/nextera-energy-nee-draws-fresh-010909823.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-12T01:09:09Z"
-        }
-      ]
-    },
-    {
-      "symbol": "OXY",
-      "name": "Occidental Petroleum",
-      "price": 58.4,
-      "previous_close": 57.24,
-      "change_pct": 2.03,
-      "market_cap": 58393854633.7183,
-      "headlines": [
-        {
-          "title": "Is TALO Worth Buying as Low Valuation Meets Offshore Execution Risk?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/talo-worth-buying-low-valuation-145000807.html",
-          "publisher": "Zacks",
-          "published": "2026-11-12T14:50:00Z"
-        },
-        {
-          "title": "Can Occidental Petroleum Stock Fall 30%?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/occidental-petroleum-stock-fall-30-134155577.html",
-          "publisher": "Trefis",
-          "published": "2026-11-12T13:41:55Z"
-        },
-        {
-          "title": "Occidental Petroleum Q3 Earnings Beat Estimates on Strong Oil Prices",
-          "url": "https://finance.yahoo.com/energy/articles/occidental-petroleum-q3-earnings-beat-121000987.html",
-          "publisher": "Zacks",
-          "published": "2026-11-12T12:10:00Z"
         }
       ]
     },
@@ -2115,8 +2089,8 @@
     },
     {
       "label": "WTI",
-      "price": 88.8,
-      "change_pct": 2.62
+      "price": 88.76,
+      "change_pct": 2.58
     },
     {
       "label": "Brent",
@@ -2126,7 +2100,7 @@
     {
       "label": "NatGas",
       "price": 3.36,
-      "change_pct": 4.45
+      "change_pct": 4.57
     }
   ]
 }
