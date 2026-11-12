@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-12T12:26:38+00:00",
-  "as_of_local": "2026-11-12 12:26:38 UTC",
+  "as_of_utc": "2026-11-12T12:31:42+00:00",
+  "as_of_local": "2026-11-12 12:31:42 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "CEG"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -265,6 +267,12 @@
       "market_cap": 109686192678.07251,
       "headlines": [
         {
+          "title": "Learn Why The Bull Case For Marathon Petroleum Stock Could Change Following Earnings Beat",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/learn-why-bull-case-marathon-121051253.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-12T12:10:51Z"
+        },
+        {
           "title": "What iShares Global Energy ETF (IXC) Sold: Exxon Mobil Leads on Nov. 10",
           "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-global-energy-etf-ixc-110558884.html",
           "publisher": "GuruFocus.com",
@@ -275,12 +283,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/marathon-petroleum-mpc-posts-stronger-100843023.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-12T10:08:43Z"
-        },
-        {
-          "title": "Is Marathon Petroleum (MPC) Too Pricey For Its Future Cash Flow?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/marathon-petroleum-mpc-too-pricey-071435697.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-12T07:14:35Z"
         }
       ]
     },
@@ -421,34 +423,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/strong-buy-stocks-november-9th-053100124.html",
           "publisher": "Zacks",
           "published": "2026-11-09T05:31:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "CEG",
-      "name": "Constellation Energy",
-      "price": 274.73,
-      "previous_close": 267.76,
-      "change_pct": 2.6,
-      "market_cap": 96597408166.8064,
-      "headlines": [
-        {
-          "title": "What Utilities Select Sector SPDR ETF (XLU) Sold: NextEra Leads on Nov. 10",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/utilities-select-sector-spdr-etf-110433066.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-12T11:04:33Z"
-        },
-        {
-          "title": "ETFs Are Net Sellers of Constellation Energy (CEG) on Tuesday",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-constellation-energy-110253077.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-12T11:02:53Z"
-        },
-        {
-          "title": "Constellation Energy (CEG) Launched Peak+ Nuclear And Storage Contracts",
-          "url": "https://finance.yahoo.com/energy/articles/constellation-energy-ceg-launched-peak-051302047.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-12T05:13:02Z"
         }
       ]
     },
@@ -769,10 +743,10 @@
       "market_cap": 61906181205.753204,
       "headlines": [
         {
-          "title": "Dow Jones Futures: Techs Fall As Nvidia Board Mulls Ousting CEO Jensen Huang",
+          "title": "Dow Jones Futures: Techs Fall As Nvidia Board Mulls Ousting CEO Jensen Huang; CoreWeave Rival Nebius Beats Views",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-coreweave-sandisk-nvidia-amd-nebius-bloom/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
-          "published": "2026-11-12T12:13:10Z"
+          "published": "2026-11-12T12:26:26Z"
         },
         {
           "title": "BE Stock Clocked Best Single-Day Gain Since July As CoreWeave Flags AI\u2019s Power Crunch \u2013 But Retail Traders Warn Of A 'Fast Fix'",
@@ -2115,13 +2089,13 @@
     },
     {
       "label": "WTI",
-      "price": 85.91,
-      "change_pct": -0.72
+      "price": 85.85,
+      "change_pct": -0.79
     },
     {
       "label": "Brent",
-      "price": 92.21,
-      "change_pct": -0.59
+      "price": 92.22,
+      "change_pct": -0.58
     },
     {
       "label": "NatGas",
