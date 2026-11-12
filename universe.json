@@ -1,7 +1,7 @@
 {
  "meta": {
   "source": "Energy Trade curated universe (seed_energy_universe.py)",
-  "as_of": "2026-11-12 21:36 UTC",
+  "as_of": "2026-11-12 21:40 UTC",
   "total_tickers": 67,
   "min_bubble_size": 7,
   "render_spec": {
@@ -31,10 +31,10 @@
      "sector": "Energy",
      "industry": "Oil & Gas Integrated",
      "country": "United States",
-     "market_cap_b": 707.83,
+     "market_cap_b": 707.79,
      "pe": 17.47,
-     "price": 169.79,
-     "change_pct": 1.85,
+     "price": 169.78,
+     "change_pct": 1.84,
      "volume": 12168806,
      "perf": {
       "1W": 2.7,
@@ -74,7 +74,7 @@
       169.78
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
-     "fwd_eps": 12.55
+     "fwd_eps": 12.45
     },
     {
      "ticker": "CVX",
@@ -434,7 +434,7 @@
      "fwd_eps": 7.08
     }
    ],
-   "median_change_pct": 1.6,
+   "median_change_pct": 1.52,
    "pe_hm": 13.1
   },
   {
@@ -505,10 +505,10 @@
      "sector": "Energy",
      "industry": "Oil & Gas E&P",
      "country": "United States",
-     "market_cap_b": 58.19,
+     "market_cap_b": 58.06,
      "pe": 13.01,
-     "price": 58.53,
-     "change_pct": 2.25,
+     "price": 58.4,
+     "change_pct": 2.03,
      "volume": 18409385,
      "perf": {
       "1W": 3.6,
@@ -1894,10 +1894,10 @@
      "sector": "Utilities",
      "industry": "Utilities - Independent Power Producers",
      "country": "United States",
-     "market_cap_b": 101.26,
+     "market_cap_b": 101.37,
      "pe": 22.7,
-     "price": 282.1,
-     "change_pct": 2.68,
+     "price": 282.4,
+     "change_pct": 2.79,
      "volume": 3518381,
      "perf": {
       "1W": 17.8,
@@ -2319,10 +2319,10 @@
      "sector": "Utilities",
      "industry": "Utilities - Regulated Electric",
      "country": "United States",
-     "market_cap_b": 187.22,
+     "market_cap_b": 186.83,
      "pe": 15.37,
-     "price": 85.47,
-     "change_pct": -0.6,
+     "price": 85.29,
+     "change_pct": -0.81,
      "volume": 10317050,
      "perf": {
       "1W": -3.4,
@@ -2423,8 +2423,8 @@
      "country": "Canada",
      "market_cap_b": 14.58,
      "pe": null,
-     "price": 29.57,
-     "change_pct": -3.02,
+     "price": 29.58,
+     "change_pct": -2.98,
      "volume": 1018136,
      "perf": {
       "1W": -3.5,
