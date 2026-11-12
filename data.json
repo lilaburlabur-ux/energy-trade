@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-12T14:13:13+00:00",
-  "as_of_local": "2026-11-12 14:13:13 UTC",
+  "as_of_utc": "2026-11-12T14:18:21+00:00",
+  "as_of_local": "2026-11-12 14:18:21 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -41,6 +41,12 @@
       "market_cap": 416163383768.1785,
       "headlines": [
         {
+          "title": "Chevron's Production Fell. Its Profit Nearly Tripled. Here's How.",
+          "url": "https://finance.yahoo.com/energy/articles/chevrons-production-fell-profit-nearly-140300535.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-12T14:03:00Z"
+        },
+        {
           "title": "Can Occidental Petroleum Stock Fall 30%?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/occidental-petroleum-stock-fall-30-134155577.html",
           "publisher": "Trefis",
@@ -51,12 +57,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/chevron-cvx-stock-looks-discounted-130706328.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-12T13:07:06Z"
-        },
-        {
-          "title": "Chevron Q3 Earnings Surge on Strong Refining: Is the Stock a Buy Now?",
-          "url": "https://finance.yahoo.com/energy/articles/chevron-q3-earnings-surge-strong-123000894.html",
-          "publisher": "Zacks",
-          "published": "2026-11-12T12:30:00Z"
         }
       ]
     },
@@ -126,13 +126,13 @@
       "headlines": [
         {
           "title": "Meren Energy completes Impact restructuring, sharpening focus on Namibia\u2019s Venus project",
-          "url": "https://finance.yahoo.com/energy/articles/meren-energy-completes-impact-restructuring-132900624.html",
+          "url": "https://finance.yahoo.com/news/meren-energy-completes-impact-restructuring-132900912.html",
           "publisher": "Proactive",
           "published": "2026-11-12T13:29:00Z"
         },
         {
           "title": "Meren Energy completes Impact restructuring, sharpening focus on Namibia\u2019s Venus project",
-          "url": "https://finance.yahoo.com/news/meren-energy-completes-impact-restructuring-132900912.html",
+          "url": "https://finance.yahoo.com/energy/articles/meren-energy-completes-impact-restructuring-132900624.html",
           "publisher": "Proactive",
           "published": "2026-11-12T13:29:00Z"
         },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 86.61,
-      "change_pct": 0.09
+      "price": 86.55,
+      "change_pct": 0.02
     },
     {
       "label": "Brent",
-      "price": 93.26,
-      "change_pct": 0.54
+      "price": 93.23,
+      "change_pct": 0.51
     },
     {
       "label": "NatGas",
-      "price": 3.33,
-      "change_pct": 3.42
+      "price": 3.34,
+      "change_pct": 3.95
     }
   ]
 }
