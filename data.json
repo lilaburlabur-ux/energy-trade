@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-12T12:21:25+00:00",
-  "as_of_local": "2026-11-12 12:21:25 UTC",
+  "as_of_utc": "2026-11-12T12:26:38+00:00",
+  "as_of_local": "2026-11-12 12:26:38 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "SHEL"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -59,6 +57,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-global-energy-etf-ixc-110558884.html",
           "publisher": "GuruFocus.com",
           "published": "2026-11-12T11:05:58Z"
+        }
+      ]
+    },
+    {
+      "symbol": "SHEL",
+      "name": "Shell",
+      "price": 97.86,
+      "previous_close": 97.27,
+      "change_pct": 0.61,
+      "market_cap": 276913411597.68536,
+      "headlines": [
+        {
+          "title": "Exxon, Chevron, and Shell Just Reported. Here's What Each One Said About Where Oil Goes Next.",
+          "url": "https://finance.yahoo.com/energy/articles/exxon-chevron-shell-just-reported-033500434.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-12T03:35:00Z"
+        },
+        {
+          "title": "3 British Value Stocks To Watch In November 2026",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-british-value-stocks-watch-211218659.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-11T21:12:18Z"
+        },
+        {
+          "title": "Kraken Parent Payward Brings 200 UK and EU Stocks Onchain as xStocks",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/kraken-parent-payward-brings-200-124624805.html",
+          "publisher": "decrypt",
+          "published": "2026-11-11T12:46:24Z"
         }
       ]
     },
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 85.93,
-      "change_pct": -0.69
+      "price": 85.91,
+      "change_pct": -0.72
     },
     {
       "label": "Brent",
-      "price": 92.15,
-      "change_pct": -0.66
+      "price": 92.21,
+      "change_pct": -0.59
     },
     {
       "label": "NatGas",
       "price": 3.28,
-      "change_pct": 1.96
+      "change_pct": 1.93
     }
   ]
 }
