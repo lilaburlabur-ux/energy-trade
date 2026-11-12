@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-12T10:24:49+00:00",
-  "as_of_local": "2026-11-12 10:24:49 UTC",
+  "as_of_utc": "2026-11-12T10:30:07+00:00",
+  "as_of_local": "2026-11-12 10:30:07 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "NXE"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1575,6 +1573,34 @@
       ]
     },
     {
+      "symbol": "NXE",
+      "name": "NexGen Energy",
+      "price": 8.32,
+      "previous_close": 8.33,
+      "change_pct": -0.12,
+      "market_cap": 5724449001.548454,
+      "headlines": [
+        {
+          "title": "NexGen Energy (TSX:NXE) Looks Fully Priced After Q3 Loss Narrows",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nexgen-energy-tsx-nxe-looks-161315873.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-11T16:13:15Z"
+        },
+        {
+          "title": "NexGen Energy (TSX:NXE) Stock May Trade At A Premium On Rook I Progress",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nexgen-energy-tsx-nxe-stock-141125243.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-11T14:11:25Z"
+        },
+        {
+          "title": "NexGen Energy Ltd (NXE) (Q3 2026) Earnings Call Highlights: Rook I on Track as Uranium Market ...",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nexgen-energy-ltd-nxe-q3-010439781.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-11T01:04:39Z"
+        }
+      ]
+    },
+    {
       "symbol": "OKLO",
       "name": "Oklo",
       "price": 25.86,
@@ -2089,13 +2115,13 @@
     },
     {
       "label": "WTI",
-      "price": 85.81,
-      "change_pct": -0.83
+      "price": 85.68,
+      "change_pct": -0.98
     },
     {
       "label": "Brent",
-      "price": 91.95,
-      "change_pct": -0.87
+      "price": 91.79,
+      "change_pct": -1.05
     },
     {
       "label": "NatGas",
