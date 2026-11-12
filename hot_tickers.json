@@ -1,27 +1,10 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-12T00:49:42+00:00",
+  "as_of": "2026-11-12T03:10:36+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": [
-  {
-   "rank": 1,
-   "ticker": "BE",
-   "company": "Bloom Energy Corporation",
-   "move_pct": 10.32,
-   "price": 204.56,
-   "volume": 18255290,
-   "volume_vs_avg": "~1.1x",
-   "heat_score": 67,
-   "direction": "up",
-   "why": "What\u2019s Propelling Bloom Energy\u2019s (BE) 13% Run?",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQVozQVM1SzFvZ253V3RoNXg3eThQbzJuSkNFaEVHbFNQQ3poQUFUWFhuRnFaNWRfRHFoUEFDeXlabThMT3l5QlIwcUlfQVNCRG1ST1pFUlJUU3pjTjFHRkhmcXRwOEJPUklKb294WkcxNnNtMmJRZHlXT3V0MW1rbkMwMS02TUJBTGJic25nWHNZT19xVkJCYTB6QQ?oc=5",
-   "published": "2026-11-11T23:22:01+00:00",
-   "sector": "Grid, Storage & Electrification"
-  }
- ]
+ "hot_tickers": []
 }
