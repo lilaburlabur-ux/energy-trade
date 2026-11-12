@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-12T03:17:09+00:00",
-  "as_of_local": "2026-11-12 03:17:09 UTC",
+  "as_of_utc": "2026-11-12T03:32:21+00:00",
+  "as_of_local": "2026-11-12 03:32:21 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "HAL"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1125,34 +1127,6 @@
       ]
     },
     {
-      "symbol": "HAL",
-      "name": "Halliburton",
-      "price": 32.93,
-      "previous_close": 31.86,
-      "change_pct": 3.36,
-      "market_cap": 27237270694.478928,
-      "headlines": [
-        {
-          "title": "Are Wall Street Analysts Bullish on Halliburton Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-halliburton-094239612.html",
-          "publisher": "Barchart",
-          "published": "2026-11-09T09:42:39Z"
-        },
-        {
-          "title": "Why Is Baker Hughes Stock Falling?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-baker-hughes-stock-falling-141921435.html",
-          "publisher": "Trefis",
-          "published": "2026-11-06T14:19:21Z"
-        },
-        {
-          "title": "CLB Q3 Earnings Miss Estimates on Higher Costs and Disruptions",
-          "url": "https://finance.yahoo.com/energy/articles/clb-q3-earnings-miss-estimates-155400926.html",
-          "publisher": "Zacks",
-          "published": "2026-11-03T15:54:00Z"
-        }
-      ]
-    },
-    {
       "symbol": "FTI",
       "name": "TechnipFMC",
       "price": 65.39,
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 85.68,
-      "change_pct": -0.42
+      "price": 85.54,
+      "change_pct": -0.58
     },
     {
       "label": "Brent",
-      "price": 91.8,
-      "change_pct": 0.34
+      "price": 91.67,
+      "change_pct": 0.2
     },
     {
       "label": "NatGas",
       "price": 3.28,
-      "change_pct": -0.49
+      "change_pct": -0.42
     }
   ]
 }
