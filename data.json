@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-12T09:15:06+00:00",
-  "as_of_local": "2026-11-12 09:15:06 UTC",
+  "as_of_utc": "2026-11-12T09:20:07+00:00",
+  "as_of_local": "2026-11-12 09:20:07 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "DVN"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -925,34 +927,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/entergy-etr-tests-valuation-earnings-131035840.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-10T13:10:35Z"
-        }
-      ]
-    },
-    {
-      "symbol": "DVN",
-      "name": "Devon Energy",
-      "price": 44.95,
-      "previous_close": 43.41,
-      "change_pct": 3.55,
-      "market_cap": 51230159104.03301,
-      "headlines": [
-        {
-          "title": "Inflation Is Running Above 3%. These 3 Energy Dividend Stocks Can Keep Up.",
-          "url": "https://finance.yahoo.com/energy/articles/inflation-running-above-3-3-143251383.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-11T14:32:51Z"
-        },
-        {
-          "title": "Devon Energy Q3 Earnings Call Highlights Permian Focus and Buybacks",
-          "url": "https://finance.yahoo.com/energy/articles/devon-energy-q3-earnings-call-194500617.html",
-          "publisher": "Zacks",
-          "published": "2026-11-10T19:45:00Z"
-        },
-        {
-          "title": "Is Crescent Energy's Royalty Business Its Next Big Growth Engine?",
-          "url": "https://finance.yahoo.com/energy/articles/crescent-energys-royalty-business-next-181300051.html",
-          "publisher": "Zacks",
-          "published": "2026-11-10T18:13:00Z"
         }
       ]
     },
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 86.56,
-      "change_pct": 0.03
+      "price": 86.52,
+      "change_pct": -0.01
     },
     {
       "label": "Brent",
-      "price": 92.86,
-      "change_pct": 0.11
+      "price": 92.83,
+      "change_pct": 0.08
     },
     {
       "label": "NatGas",
-      "price": 3.29,
-      "change_pct": 2.46
+      "price": 3.3,
+      "change_pct": 2.67
     }
   ]
 }
