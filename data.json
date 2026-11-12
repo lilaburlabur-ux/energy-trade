@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-12T11:30:46+00:00",
-  "as_of_local": "2026-11-12 11:30:46 UTC",
+  "as_of_utc": "2026-11-12T11:36:09+00:00",
+  "as_of_local": "2026-11-12 11:36:09 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "OKE"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -771,10 +769,10 @@
       "market_cap": 61906181205.753204,
       "headlines": [
         {
-          "title": "Dow Jones Futures Rise, Techs Fall As Nvidia Board Mulls Ousting CEO Jensen Huang",
+          "title": "Dow Jones Futures: Techs Fall As Nvidia Board Mulls Ousting CEO Jensen Huang",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-coreweave-sandisk-nvidia-amd-nebius-bloom/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
-          "published": "2026-11-12T11:13:07Z"
+          "published": "2026-11-12T11:21:04Z"
         },
         {
           "title": "BE Stock Clocked Best Single-Day Gain Since July As CoreWeave Flags AI\u2019s Power Crunch \u2013 But Retail Traders Warn Of A 'Fast Fix'",
@@ -871,6 +869,34 @@
           "url": "https://finance.yahoo.com/energy/articles/occidental-q3-earnings-call-centers-154700470.html",
           "publisher": "Zacks",
           "published": "2026-11-11T15:47:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "OKE",
+      "name": "ONEOK",
+      "price": 88.17,
+      "previous_close": 87.37,
+      "change_pct": 0.92,
+      "market_cap": 55586813875.90077,
+      "headlines": [
+        {
+          "title": "Energy Transfer Just Sent a Message to Anyone Collecting $13,700 a Year by Raising Its Payout After an Earnings Miss",
+          "url": "https://finance.yahoo.com/energy/articles/energy-transfer-just-sent-message-023402727.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-11T02:34:02Z"
+        },
+        {
+          "title": "A 70-Year-Old With $1,000,000 in Hormel, AT&T and ONEOK Collects $4,230 a Month in Dividends. How Safe Is Each Check?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/70-old-1-000-000-222344569.html",
+          "publisher": "TIKR",
+          "published": "2026-11-10T22:23:44Z"
+        },
+        {
+          "title": "Why Kinder Morgan's Chairman Just Bought $15 Million in Stock",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-kinder-morgans-chairman-just-213000215.html",
+          "publisher": "MarketBeat",
+          "published": "2026-11-10T21:30:00Z"
         }
       ]
     },
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 85.82,
-      "change_pct": -0.82
+      "price": 86.03,
+      "change_pct": -0.58
     },
     {
       "label": "Brent",
-      "price": 92.05,
-      "change_pct": -0.77
+      "price": 92.34,
+      "change_pct": -0.45
     },
     {
       "label": "NatGas",
       "price": 3.27,
-      "change_pct": 1.71
+      "change_pct": 1.77
     }
   ]
 }
