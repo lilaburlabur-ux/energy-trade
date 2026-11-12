@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-12T00:14:46+00:00",
-  "as_of_local": "2026-11-12 00:14:46 UTC",
+  "as_of_utc": "2026-11-12T00:19:56+00:00",
+  "as_of_local": "2026-11-12 00:19:56 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -377,6 +377,12 @@
       "market_cap": 100403040735.96324,
       "headlines": [
         {
+          "title": "SPLV Lost $107,460 on $300,000 in the 2020 Crash, More Than VOO\u2019s $102,030",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/splv-lost-107-460-300-000321923.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-12T00:03:21Z"
+        },
+        {
           "title": "Investors Heavily Search Duke Energy Corporation (DUK): Here is What You Need to Know",
           "url": "https://finance.yahoo.com/markets/stocks/articles/investors-heavily-search-duke-energy-202144563.html",
           "publisher": "Zacks",
@@ -387,12 +393,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/better-dividend-stock-chevron-vs-143559204.html",
           "publisher": "TIKR",
           "published": "2026-11-11T14:35:59Z"
-        },
-        {
-          "title": "State Street Utilities SPDR (XLU) Buys $76 Million More NextEra on Monday",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/state-street-utilities-spdr-xlu-110336513.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-11T11:03:36Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 86.3,
-      "change_pct": 0.3
+      "price": 86.22,
+      "change_pct": 0.21
     },
     {
       "label": "Brent",
-      "price": 92.51,
-      "change_pct": 1.11
+      "price": 92.4,
+      "change_pct": 0.99
     },
     {
       "label": "NatGas",
-      "price": 3.25,
-      "change_pct": -1.33
+      "price": 3.26,
+      "change_pct": -1.24
     }
   ]
 }
