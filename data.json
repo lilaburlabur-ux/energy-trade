@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-12T14:18:21+00:00",
-  "as_of_local": "2026-11-12 14:18:21 UTC",
+  "as_of_utc": "2026-11-12T14:23:53+00:00",
+  "as_of_local": "2026-11-12 14:23:53 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "SEDG"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1797,34 +1799,6 @@
       ]
     },
     {
-      "symbol": "SEDG",
-      "name": "SolarEdge",
-      "price": 26.67,
-      "previous_close": 25.86,
-      "change_pct": 3.13,
-      "market_cap": 1651257079.393694,
-      "headlines": [
-        {
-          "title": "T1 Energy to Release Q3 Earnings: Here's What You Need to Know",
-          "url": "https://finance.yahoo.com/energy/articles/t1-energy-release-q3-earnings-124100990.html",
-          "publisher": "Zacks",
-          "published": "2026-11-10T12:41:00Z"
-        },
-        {
-          "title": "SolarEdge (SEDG) Reports Q3 Earnings: What Key Metrics Have to Say",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/solaredge-sedg-reports-q3-earnings-210002423.html",
-          "publisher": "Zacks",
-          "published": "2026-11-06T21:00:02Z"
-        },
-        {
-          "title": "Earnings Beat Altering The Investment Case For SolarEdge Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/earnings-beat-altering-investment-case-201044794.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-06T20:10:44Z"
-        }
-      ]
-    },
-    {
       "symbol": "ARRY",
       "name": "Array Technologies",
       "price": 5.2,
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 86.55,
-      "change_pct": 0.02
+      "price": 86.28,
+      "change_pct": -0.29
     },
     {
       "label": "Brent",
-      "price": 93.23,
-      "change_pct": 0.51
+      "price": 93.01,
+      "change_pct": 0.27
     },
     {
       "label": "NatGas",
-      "price": 3.34,
-      "change_pct": 3.95
+      "price": 3.32,
+      "change_pct": 3.39
     }
   ]
 }
