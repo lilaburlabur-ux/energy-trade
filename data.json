@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-12T23:11:44+00:00",
-  "as_of_local": "2026-11-12 23:11:44 UTC",
+  "as_of_utc": "2026-11-12T23:16:47+00:00",
+  "as_of_local": "2026-11-12 23:16:47 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "VST"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1013,34 +1015,6 @@
       ]
     },
     {
-      "symbol": "VST",
-      "name": "Vistra",
-      "price": 134.51,
-      "previous_close": 133.45,
-      "change_pct": 0.79,
-      "market_cap": 45651976945.979324,
-      "headlines": [
-        {
-          "title": "Do You Like Cash? Consider Vistra Stock",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/cash-consider-vistra-stock-211551348.html",
-          "publisher": "Trefis",
-          "published": "2026-11-12T21:15:51Z"
-        },
-        {
-          "title": "Constellation Energy Soars 13% in a Week on a Guidance Raise: \u201cA Platform Heretofore Unseen\u201d",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/constellation-energy-soars-13-week-163534126.html",
-          "publisher": "TIKR",
-          "published": "2026-11-12T16:35:34Z"
-        },
-        {
-          "title": "Is Constellation Energy Stock Increasing Your Market Risk?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/constellation-energy-stock-increasing-market-155951118.html",
-          "publisher": "Trefis",
-          "published": "2026-11-12T15:59:51Z"
-        }
-      ]
-    },
-    {
       "symbol": "PEG",
       "name": "Public Service Enterprise",
       "price": 74.8,
@@ -1861,6 +1835,12 @@
       "market_cap": 677879608.2944012,
       "headlines": [
         {
+          "title": "Prairie Operating Co. (PROP) Q3 Earnings and Revenues Top Estimates",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/prairie-operating-co-prop-q3-220505861.html",
+          "publisher": "Zacks",
+          "published": "2026-11-12T22:05:05Z"
+        },
+        {
           "title": "Gevo, Inc. (GEVO) Q3 Earnings and Revenues Beat Estimates",
           "url": "https://finance.yahoo.com/markets/stocks/articles/gevo-inc-gevo-q3-earnings-214002018.html",
           "publisher": "Zacks",
@@ -1871,12 +1851,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/hallador-energy-hnrg-reports-break-223505693.html",
           "publisher": "Zacks",
           "published": "2026-11-09T22:35:05Z"
-        },
-        {
-          "title": "What The Bulls Got Wrong Before Fluence Energy Fell 77%",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bulls-got-wrong-fluence-energy-181531924.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-07T18:15:31Z"
         }
       ]
     },
@@ -2115,8 +2089,8 @@
     },
     {
       "label": "WTI",
-      "price": 88.87,
-      "change_pct": 2.7
+      "price": 88.9,
+      "change_pct": 2.74
     },
     {
       "label": "Brent",
