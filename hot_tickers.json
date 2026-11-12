@@ -1,27 +1,10 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-12T16:27:13+00:00",
+  "as_of": "2026-11-12T16:34:58+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": [
-  {
-   "rank": 1,
-   "ticker": "SEDG",
-   "company": "SolarEdge Technologies, Inc.",
-   "move_pct": -5.44,
-   "price": 25.22,
-   "volume": 1063212,
-   "volume_vs_avg": "~0.4x",
-   "heat_score": 36,
-   "direction": "down",
-   "why": "SolarEdge Technologies (NASDAQ:SEDG) Sets New 1-Year Low - Here's What Happened",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZVZibWNPZjg1ZFRVOVh1WkI0cTdzcHVVcnVQUVhYcVZ6Rzd4c1NzN1d6STd1bUVISDMxYVBsUGxXRkRJR1ZZSzRJVzVXOTI2WXpqVTZwSTJmX0xjQ3U0S0lQc0p5ZXhpMDhEXzh4ejQ4NXZBQjByUXpCRlMxZTRqS0FqalhMb3NMODVvbnBrVEJPdFQ0bTA3LTBtVDB6YV9KS0VUOGphbUVaTGRRUFJaRzlUWEQ3dXdYOVd0ajN0a1FOSk8xQXZHYlYwS1RodVE?oc=5",
-   "published": "2026-11-12T16:05:55+00:00",
-   "sector": "Renewables & Solar"
-  }
- ]
+ "hot_tickers": []
 }
