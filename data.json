@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-12T09:30:24+00:00",
-  "as_of_local": "2026-11-12 09:30:24 UTC",
+  "as_of_utc": "2026-11-12T09:35:18+00:00",
+  "as_of_local": "2026-11-12 09:35:18 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NEE"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -141,34 +143,6 @@
           "url": "https://finance.yahoo.com/energy/articles/investors-may-respond-totalenergies-enxtpa-190944934.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-08T19:09:44Z"
-        }
-      ]
-    },
-    {
-      "symbol": "NEE",
-      "name": "NextEra Energy",
-      "price": 85.99,
-      "previous_close": 86.27,
-      "change_pct": -0.32,
-      "market_cap": 180347342673.1809,
-      "headlines": [
-        {
-          "title": "NextEra Energy (NEE) Draws Fresh Virginia Questions Over Merger Consumer Protections",
-          "url": "https://finance.yahoo.com/energy/articles/nextera-energy-nee-draws-fresh-010909823.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-12T01:09:09Z"
-        },
-        {
-          "title": "What Is The Biggest Threat To Vistra Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/biggest-threat-vistra-stock-005944429.html",
-          "publisher": "Trefis",
-          "published": "2026-11-12T00:59:44Z"
-        },
-        {
-          "title": "What Could Send Constellation Energy Stock Higher?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/could-send-constellation-energy-stock-004431903.html",
-          "publisher": "Trefis",
-          "published": "2026-11-12T00:44:31Z"
         }
       ]
     },
@@ -1189,6 +1163,12 @@
       "market_cap": 23431281902.26303,
       "headlines": [
         {
+          "title": "Hubbell (HUBB) Stock May Be Fully Priced On Cash Flow",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/hubbell-hubb-stock-may-fully-091001551.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-12T09:10:01Z"
+        },
+        {
           "title": "FPS Declines 42% in a Month: Time to Buy the Stock Now?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/fps-declines-42-month-time-170800439.html",
           "publisher": "Zacks",
@@ -1199,12 +1179,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/gev-vrt-hubb-focus-jpmorgan-115118357.html",
           "publisher": "Stocktwits",
           "published": "2026-11-11T11:51:18Z"
-        },
-        {
-          "title": "Ingersoll Rand Vs Hubbell: Which Stock Is The Better Buy?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ingersoll-rand-vs-hubbell-stock-014004146.html",
-          "publisher": "Trefis",
-          "published": "2026-11-11T01:40:04Z"
         }
       ]
     },
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 86.4,
-      "change_pct": -0.15
+      "price": 86.38,
+      "change_pct": -0.17
     },
     {
       "label": "Brent",
-      "price": 92.76,
-      "change_pct": 0.0
+      "price": 92.75,
+      "change_pct": -0.01
     },
     {
       "label": "NatGas",
       "price": 3.31,
-      "change_pct": 2.89
+      "change_pct": 2.99
     }
   ]
 }
