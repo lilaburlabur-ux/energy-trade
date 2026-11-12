@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-12T23:42:19+00:00",
-  "as_of_local": "2026-11-12 23:42:19 UTC",
+  "as_of_utc": "2026-11-12T23:47:10+00:00",
+  "as_of_local": "2026-11-12 23:47:10 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "OXY"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -815,6 +813,34 @@
           "url": "https://finance.yahoo.com/energy/articles/nextera-energy-nee-draws-fresh-010909823.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-12T01:09:09Z"
+        }
+      ]
+    },
+    {
+      "symbol": "OXY",
+      "name": "Occidental Petroleum",
+      "price": 58.4,
+      "previous_close": 57.24,
+      "change_pct": 2.03,
+      "market_cap": 58393854633.7183,
+      "headlines": [
+        {
+          "title": "Is TALO Worth Buying as Low Valuation Meets Offshore Execution Risk?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/talo-worth-buying-low-valuation-145000807.html",
+          "publisher": "Zacks",
+          "published": "2026-11-12T14:50:00Z"
+        },
+        {
+          "title": "Can Occidental Petroleum Stock Fall 30%?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/occidental-petroleum-stock-fall-30-134155577.html",
+          "publisher": "Trefis",
+          "published": "2026-11-12T13:41:55Z"
+        },
+        {
+          "title": "Occidental Petroleum Q3 Earnings Beat Estimates on Strong Oil Prices",
+          "url": "https://finance.yahoo.com/energy/articles/occidental-petroleum-q3-earnings-beat-121000987.html",
+          "publisher": "Zacks",
+          "published": "2026-11-12T12:10:00Z"
         }
       ]
     },
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 88.76,
-      "change_pct": 2.58
+      "price": 88.81,
+      "change_pct": 2.63
     },
     {
       "label": "Brent",
-      "price": 95.92,
-      "change_pct": 3.41
+      "price": 95.9,
+      "change_pct": 3.39
     },
     {
       "label": "NatGas",
-      "price": 3.36,
-      "change_pct": 4.57
+      "price": 3.37,
+      "change_pct": 4.67
     }
   ]
 }
