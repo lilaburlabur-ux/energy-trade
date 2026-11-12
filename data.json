@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-12T03:00:57+00:00",
-  "as_of_local": "2026-11-12 03:00:57 UTC",
+  "as_of_utc": "2026-11-12T03:12:11+00:00",
+  "as_of_local": "2026-11-12 03:12:11 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "WFRD"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -780,7 +778,7 @@
           "title": "Dow Jones Futures Rise, Techs Fall As Nvidia May Oust CEO Huang After CoreWave Leads Rally",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-coreweave-sandisk-nvidia-amd-nebius-bloom/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
-          "published": "2026-11-12T02:51:20Z"
+          "published": "2026-11-12T03:07:20Z"
         },
         {
           "title": "BE Stock Clocked Best Single-Day Gain Since July As CoreWeave Flags AI\u2019s Power Crunch \u2013 But Retail Traders Warn Of A 'Fast Fix'",
@@ -1547,6 +1545,34 @@
       ]
     },
     {
+      "symbol": "WFRD",
+      "name": "Weatherford",
+      "price": 86.69,
+      "previous_close": 84.31,
+      "change_pct": 2.82,
+      "market_cap": 6282449096.889404,
+      "headlines": [
+        {
+          "title": "Why Is Baker Hughes Stock Falling?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-baker-hughes-stock-falling-141921435.html",
+          "publisher": "Trefis",
+          "published": "2026-11-06T14:19:21Z"
+        },
+        {
+          "title": "Should Jun\u00edn 5 Support Work Require Action From Weatherford International (WFRD) Investors?",
+          "url": "https://finance.yahoo.com/energy/articles/jun-n-5-support-require-131419197.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-10-30T13:14:19Z"
+        },
+        {
+          "title": "Weatherford: 3 Key Takeaways for Long-Term Investors",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/weatherford-3-key-takeaways-long-212002900.html",
+          "publisher": "Motley Fool",
+          "published": "2026-10-28T21:20:02Z"
+        }
+      ]
+    },
+    {
       "symbol": "NXE",
       "name": "NexGen Energy",
       "price": 8.32,
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 85.83,
-      "change_pct": -0.24
+      "price": 85.67,
+      "change_pct": -0.43
     },
     {
       "label": "Brent",
-      "price": 91.97,
-      "change_pct": 0.52
+      "price": 91.79,
+      "change_pct": -1.05
     },
     {
       "label": "NatGas",
-      "price": 3.29,
-      "change_pct": -0.27
+      "price": 3.28,
+      "change_pct": -0.49
     }
   ]
 }
