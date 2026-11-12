@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-12T21:27:45+00:00",
-  "as_of_local": "2026-11-12 21:27:45 UTC",
+  "as_of_utc": "2026-11-12T21:30:35+00:00",
+  "as_of_local": "2026-11-12 21:30:35 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "NEE"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -143,6 +141,34 @@
           "url": "https://finance.yahoo.com/energy/articles/totalenergies-enxtpa-tte-deepens-methane-161554477.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-12T16:15:54Z"
+        }
+      ]
+    },
+    {
+      "symbol": "NEE",
+      "name": "NextEra Energy",
+      "price": 85.29,
+      "previous_close": 85.99,
+      "change_pct": -0.81,
+      "market_cap": 178879234839.35104,
+      "headlines": [
+        {
+          "title": "NextEra Energy (NEE): Shareholders Approve the Dominion Deal. What Comes Next for the Merger?",
+          "url": "https://finance.yahoo.com/energy/articles/nextera-energy-nee-shareholders-approve-211043437.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-11-12T21:10:43Z"
+        },
+        {
+          "title": "Could Sempra Be The Value Stock For Your Portfolio?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/could-sempra-value-stock-portfolio-210032285.html",
+          "publisher": "Trefis",
+          "published": "2026-11-12T21:00:32Z"
+        },
+        {
+          "title": "What Changed In PG&E's Story?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/changed-pg-es-story-165607052.html",
+          "publisher": "Trefis",
+          "published": "2026-11-12T16:56:07Z"
         }
       ]
     },
@@ -2094,8 +2120,8 @@
     },
     {
       "label": "Brent",
-      "price": 96.07,
-      "change_pct": 3.57
+      "price": 96.02,
+      "change_pct": 3.51
     },
     {
       "label": "NatGas",
