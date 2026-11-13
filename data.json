@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-13T03:40:44+00:00",
-  "as_of_local": "2026-11-13 03:40:44 UTC",
+  "as_of_utc": "2026-11-13T03:55:39+00:00",
+  "as_of_local": "2026-11-13 03:55:39 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -657,6 +657,12 @@
       "market_cap": 71309160741.14395,
       "headlines": [
         {
+          "title": "What Kinder Morgan Stock's $13.2b Gas Backlog Means For Shareholders",
+          "url": "https://finance.yahoo.com/energy/articles/kinder-morgan-stocks-13-2b-031959875.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-13T03:19:59Z"
+        },
+        {
           "title": "Can Williams Afford Its Spending Bill?",
           "url": "https://finance.yahoo.com/energy/articles/williams-afford-spending-bill-135216299.html",
           "publisher": "Trefis",
@@ -667,12 +673,6 @@
           "url": "https://finance.yahoo.com/energy/articles/rising-u-natural-gas-demand-153900975.html",
           "publisher": "Zacks",
           "published": "2026-11-11T15:39:00Z"
-        },
-        {
-          "title": "Why Kinder Morgan's Chairman Just Bought $15 Million in Stock",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-kinder-morgans-chairman-just-213000215.html",
-          "publisher": "MarketBeat",
-          "published": "2026-11-10T21:30:00Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 88.16,
-      "change_pct": 1.88
+      "price": 88.26,
+      "change_pct": 2.0
     },
     {
       "label": "Brent",
-      "price": 95.42,
-      "change_pct": 2.87
+      "price": 95.49,
+      "change_pct": 2.94
     },
     {
       "label": "NatGas",
-      "price": 3.34,
-      "change_pct": 3.98
+      "price": 3.35,
+      "change_pct": 4.04
     }
   ]
 }
