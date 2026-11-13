@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-13T10:21:59+00:00",
-  "as_of_local": "2026-11-13 10:21:59 UTC",
+  "as_of_utc": "2026-11-13T10:26:50+00:00",
+  "as_of_local": "2026-11-13 10:26:50 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -433,6 +433,12 @@
       "market_cap": 99294239383.552,
       "headlines": [
         {
+          "title": "Has Constellation Energy (CEG) Fallen Below Fair Value After Raising Earnings Guidance?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/constellation-energy-ceg-fallen-below-100910768.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-13T10:09:10Z"
+        },
+        {
           "title": "Bloom Energy vs. Constellation Energy: On-Site Power or Grid Power, Which Wins the Data Center?",
           "url": "https://finance.yahoo.com/energy/articles/bloom-energy-vs-constellation-energy-090600693.html",
           "publisher": "Motley Fool",
@@ -443,12 +449,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/cash-consider-vistra-stock-211551348.html",
           "publisher": "Trefis",
           "published": "2026-11-12T21:15:51Z"
-        },
-        {
-          "title": "GE Vernova Sinks 12%, Vertiv Down 12% in a Week as Data Center Backlash Hits AI Power",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-sinks-12-vertiv-203526996.html",
-          "publisher": "TIKR",
-          "published": "2026-11-12T20:35:26Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 88.08,
-      "change_pct": -0.74
+      "price": 88.07,
+      "change_pct": -0.76
     },
     {
       "label": "Brent",
-      "price": 95.4,
-      "change_pct": -0.44
+      "price": 95.48,
+      "change_pct": -0.35
     },
     {
       "label": "NatGas",
       "price": 3.27,
-      "change_pct": -2.1
+      "change_pct": -2.04
     }
   ]
 }
