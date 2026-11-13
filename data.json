@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-13T13:14:10+00:00",
-  "as_of_local": "2026-11-13 13:14:10 UTC",
+  "as_of_utc": "2026-11-13T13:19:13+00:00",
+  "as_of_local": "2026-11-13 13:19:13 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -1133,6 +1133,12 @@
       "market_cap": 27096657575.6159,
       "headlines": [
         {
+          "title": "Egypt\u2019s EGPC agrees 50-well programme preparations with Halliburton",
+          "url": "https://finance.yahoo.com/news/egypt-egpc-agrees-50-well-125415360.html",
+          "publisher": "Offshore Technology",
+          "published": "2026-11-13T12:54:15Z"
+        },
+        {
           "title": "Halliburton Expands Geothermal Footprint With Sage Geosystems Deal",
           "url": "https://finance.yahoo.com/energy/articles/halliburton-expands-geothermal-footprint-sage-122200542.html",
           "publisher": "Zacks",
@@ -1143,12 +1149,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-halliburton-094239612.html",
           "publisher": "Barchart",
           "published": "2026-11-09T09:42:39Z"
-        },
-        {
-          "title": "Why Is Baker Hughes Stock Falling?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-baker-hughes-stock-falling-141921435.html",
-          "publisher": "Trefis",
-          "published": "2026-11-06T14:19:21Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 88.59,
-      "change_pct": -0.17
+      "price": 88.56,
+      "change_pct": -0.2
     },
     {
       "label": "Brent",
-      "price": 96.17,
-      "change_pct": 0.37
+      "price": 96.13,
+      "change_pct": 0.32
     },
     {
       "label": "NatGas",
-      "price": 3.29,
-      "change_pct": -1.59
+      "price": 3.26,
+      "change_pct": -2.49
     }
   ]
 }
