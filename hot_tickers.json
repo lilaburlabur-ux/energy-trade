@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-13T15:41:54+00:00",
+  "as_of": "2026-11-13T15:47:44+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,33 +11,17 @@
    "rank": 1,
    "ticker": "VRT",
    "company": "Vertiv Holdings, LLC",
-   "move_pct": -5.55,
-   "price": 197.99,
-   "volume": 1620939,
+   "move_pct": -5.45,
+   "price": 198.23,
+   "volume": 1663619,
    "volume_vs_avg": "~0.2x",
-   "heat_score": 36,
+   "heat_score": 35,
    "direction": "down",
    "why": "Vertiv Holdings Co (VRT) Declined on Organic Growth Softness Despite Upgraded Full-Year Guidance",
    "catalyst_type": "analyst_action",
    "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPLXNfMzJxMUcxZVVOc255QkN4Rks5NWFRb29wS21HdVdMRXBEUXVLRVZQU2RxVW5sS0lQLVZwRGg0S1pNTlI3QkxkVzQ4V1NYQlp4NkdkX3d3U0pjbm1HUXFoZnBJZzgzSU5OaEdROGxmd3piSE9NSk0zZ2Myb0Nod2lMNHU3am1aNE8xVzYtTVg1NzNfenhiOEpidWk?oc=5",
    "published": "2026-11-13T14:53:59+00:00",
    "sector": "Grid, Storage & Electrification"
-  },
-  {
-   "rank": 2,
-   "ticker": "SEDG",
-   "company": "SolarEdge Technologies, Inc.",
-   "move_pct": -5.02,
-   "price": 23.07,
-   "volume": 586962,
-   "volume_vs_avg": "~0.2x",
-   "heat_score": 34,
-   "direction": "down",
-   "why": "Solaredge Technologies stock hits 52-week low at $23.90",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUUhycXg5TGV4eU1hQ3NFSDRnc3VtR0QtQzJEbjdJWTVINmVzY1p2bmUwMVlBUlFBOVlZNElCWmo4TVZvUVo4d2RWb1NKcUxzcVJtWHVPRXJLZU5pWDR0cl9VbzlCdjVGR3ZlV2NXZUxhN2RvQVNFZEFVWEp6MDhBZ3lQczc0NWloWTJ5dmx3NUJYWS1MajVkaDIzaElkTHMzajVQa29fbV82RFRSRXc?oc=5",
-   "published": "2026-11-13T15:05:39+00:00",
-   "sector": "Renewables & Solar"
   }
  ]
 }
