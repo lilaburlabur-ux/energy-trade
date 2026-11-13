@@ -122,7 +122,7 @@ GE Vernova Inc., an energy company, engages in the provision of various products
 | 52W low | $553.58 | Inst. ownership | 81.99% |
 | P/E (ttm) | 21.49 | Insider ownership | 0.12% |
 | Forward P/E | 31.40 | Short float | 2.83% |
-| PEG (trailing) | 1.49 | Avg volume | 2,809,203 |
+| PEG (trailing) | 1.49 | Avg volume | 2,809,371 |
 | P/S | 4.92 | Employees | 78,000 |
 | P/B | 19.03 | Analyst rec (1=buy..5=sell) | 1.5 |
 

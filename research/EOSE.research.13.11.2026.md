@@ -123,7 +123,7 @@ Eos Energy Enterprises, Inc. designs, develops, manufactures, and markets energy
 | 52W low | $1.62 | Inst. ownership | 62.62% |
 | P/E (ttm) | — | Insider ownership | 1.37% |
 | Forward P/E | -7.92 | Short float | 37.88% |
-| PEG (trailing) | — | Avg volume | 26,956,342 |
+| PEG (trailing) | — | Avg volume | 26,959,075 |
 | P/S | 2.49 | Employees | 787 |
 | P/B | -1.44 | Analyst rec (1=buy..5=sell) | 2.4 |
 

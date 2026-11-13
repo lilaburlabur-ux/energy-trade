@@ -123,7 +123,7 @@ NuScale Power Corporation provides small modular reactor technology solutions. I
 | 52W low | $4.37 | Inst. ownership | 62.45% |
 | P/E (ttm) | — | Insider ownership | 1.70% |
 | Forward P/E | -7.19 | Short float | 26.36% |
-| PEG (trailing) | — | Avg volume | 34,431,626 |
+| PEG (trailing) | — | Avg volume | 34,433,160 |
 | P/S | 725.10 | Employees | 428 |
 | P/B | 0.98 | Analyst rec (1=buy..5=sell) | 2.8 |
 

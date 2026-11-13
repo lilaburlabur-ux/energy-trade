@@ -124,7 +124,7 @@ Fluence Energy, Inc., through its subsidiaries, provides energy storage and opti
 | 52W low | $4.91 | Inst. ownership | 84.68% |
 | P/E (ttm) | — | Insider ownership | 14.42% |
 | Forward P/E | -8.93 | Short float | 49.11% |
-| PEG (trailing) | — | Avg volume | 7,083,937 |
+| PEG (trailing) | — | Avg volume | 7,084,567 |
 | P/S | 0.35 | Employees | 1,670 |
 | P/B | 1.82 | Analyst rec (1=buy..5=sell) | 3.0 |
 

@@ -36,10 +36,10 @@ BP p.l.c., an integrated energy company, engages in the oil and gas business wor
 
 | Headline | Source | Date |
 |---|---|---|
+| What Does BP (LSE:BP.) Leaving Indonesia And Running Namibia Blocks Mean? | Simply Wall St. | 2026-11-13 |
 | BP (LSE:BP.) Stock Could Trade At A Discount As Its 116% Run Continues | Simply Wall St. | 2026-11-13 |
 | Seplat Energy And 2 British Energy Stocks To Watch | Simply Wall St. | 2026-11-12 |
 | BP (LSE:BP.) Reset Its Dividend And Guidance, Is It Still 14% Below Fair Value? | Simply Wall St. | 2026-11-12 |
-| BP or Bristol Myers Squibb: Only One Gets My Dividend Dollars for the Next 20 Years | TIKR | 2026-11-12 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
