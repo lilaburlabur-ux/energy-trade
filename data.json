@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-13T07:49:55+00:00",
-  "as_of_local": "2026-11-13 07:49:55 UTC",
+  "as_of_utc": "2026-11-13T08:04:49+00:00",
+  "as_of_local": "2026-11-13 08:04:49 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -125,6 +125,12 @@
       "market_cap": 196391212252.5794,
       "headlines": [
         {
+          "title": "The Zacks Analyst Blog Highlights Home Depot, Gilead Sciences, TotalEnergies, Key Tronic and iPower",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-home-065100996.html",
+          "publisher": "Zacks",
+          "published": "2026-11-13T06:51:00Z"
+        },
+        {
           "title": "Top Research Reports for Home Depot, Gilead & TotalEnergies",
           "url": "https://finance.yahoo.com/markets/stocks/articles/top-research-reports-home-depot-200700776.html",
           "publisher": "Zacks",
@@ -135,12 +141,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/totalenergies-plains-american-only-pick-165214399.html",
           "publisher": "TIKR",
           "published": "2026-11-12T16:52:14Z"
-        },
-        {
-          "title": "TotalEnergies (ENXTPA:TTE) Deepens Methane Reduction Alliances Across Three Countries",
-          "url": "https://finance.yahoo.com/energy/articles/totalenergies-enxtpa-tte-deepens-methane-161554477.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-12T16:15:54Z"
         }
       ]
     },
@@ -741,6 +741,12 @@
       "market_cap": 63197029548.1712,
       "headlines": [
         {
+          "title": "Zacks Investment Ideas feature highlights: American Healthcare REIT, RenaissanceRe and Cheniere Energy",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-065300177.html",
+          "publisher": "Zacks",
+          "published": "2026-11-13T06:53:00Z"
+        },
+        {
           "title": "If the AI Boom Stalls, What Stocks Should You Buy?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/ai-boom-stalls-stocks-buy-174700934.html",
           "publisher": "Zacks",
@@ -751,12 +757,6 @@
           "url": "https://finance.yahoo.com/energy/articles/petrobras-lifts-2026-cash-flow-152500177.html",
           "publisher": "Zacks",
           "published": "2026-11-12T15:25:00Z"
-        },
-        {
-          "title": "Can Williams Afford Its Spending Bill?",
-          "url": "https://finance.yahoo.com/energy/articles/williams-afford-spending-bill-135216299.html",
-          "publisher": "Trefis",
-          "published": "2026-11-12T13:52:16Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 88.66,
-      "change_pct": -0.09
+      "price": 88.24,
+      "change_pct": -0.56
     },
     {
       "label": "Brent",
-      "price": 96.11,
-      "change_pct": 0.3
+      "price": 95.64,
+      "change_pct": -0.19
     },
     {
       "label": "NatGas",
       "price": 3.29,
-      "change_pct": -1.41
+      "change_pct": -1.65
     }
   ]
 }
