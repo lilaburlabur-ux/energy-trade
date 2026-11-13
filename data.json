@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-13T04:51:18+00:00",
-  "as_of_local": "2026-11-13 04:51:18 UTC",
+  "as_of_utc": "2026-11-13T05:06:08+00:00",
+  "as_of_local": "2026-11-13 05:06:08 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -41,6 +41,12 @@
       "market_cap": 422153746875.60736,
       "headlines": [
         {
+          "title": "Chevron And 2 Other Dividend Stocks To Own",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/chevron-2-other-dividend-stocks-043832328.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-13T04:38:32Z"
+        },
+        {
           "title": "XOM, CVX, COP: This Analyst Trims Price Targets, Warns Oil Stocks May 'Struggle To Appreciate'",
           "url": "https://finance.yahoo.com/energy/articles/xom-cvx-cop-analyst-trims-014936143.html",
           "publisher": "Stocktwits",
@@ -51,20 +57,14 @@
           "url": "https://www.barrons.com/articles/the-blue-wave-crashed-on-texas-pacific-land-that-could-be-an-opportunity-1302c677?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
           "published": "2026-11-12T23:14:00Z"
-        },
-        {
-          "title": "Exxon, Partners to Invest in Guyana\u2019s Offshore Gas",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-12-2026/card/exxon-partners-to-invest-in-guyana-s-offshore-gas-feLgErlGBTar002y9lsO?siteid=yhoof2&yptr=yahoo",
-          "publisher": "The Wall Street Journal",
-          "published": "2026-11-12T22:30:02Z"
         }
       ]
     },
     {
       "symbol": "SHEL",
       "name": "Shell",
-      "price": 98.56,
-      "previous_close": 97.86,
+      "price": 97.78,
+      "previous_close": 97.08,
       "change_pct": 0.72,
       "market_cap": 278793462189.7535,
       "headlines": [
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 88.44,
-      "change_pct": 2.21
+      "price": 88.74,
+      "change_pct": 2.55
     },
     {
       "label": "Brent",
-      "price": 95.79,
-      "change_pct": 3.27
+      "price": 95.82,
+      "change_pct": 3.3
     },
     {
       "label": "NatGas",
       "price": 3.34,
-      "change_pct": 3.92
+      "change_pct": 3.89
     }
   ]
 }
