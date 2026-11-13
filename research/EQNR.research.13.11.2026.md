@@ -4,8 +4,8 @@ Signed file: `EQNR.research.13.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $42.87 (2026-11-13, ~15-min delayed) |
-| Market cap | $101.44B |
+| Current price | $42.88 (2026-11-13, ~15-min delayed) |
+| Market cap | $101.45B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
 | Current stance | High technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
@@ -15,8 +15,8 @@ Signed file: `EQNR.research.13.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +85.62%; price +12.63% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -12.19% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +85.64%; price +12.65% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -12.18% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 9.79%, revenue growth 26.60%. |
 | Value attractiveness | Reasonable | Forward P/E 8.61, EV/Sales 1.73. |
 | Risk level | Elevated | Beta -0.66, ATR 3.3% of price, short float 2.69%. |
@@ -44,11 +44,11 @@ Equinor ASA operates as an energy company in Norway and internationally. It oper
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $42.87; 52w high $48.82 (-12.19%); 52w low $21.68 (+97.74%) |
-| Trend | +12.63% vs SMA200, -2.77% vs SMA50, -4.68% vs SMA20 |
+| Price vs 52-week range | Close $42.88; 52w high $48.82 (-12.18%); 52w low $21.68 (+97.76%) |
+| Trend | +12.65% vs SMA200, -2.76% vs SMA50, -4.67% vs SMA20 |
 | Momentum | RSI(14) 45.3 (neutral) |
 | Volatility | ATR(14) 1.43 (~3.3% of price); beta -0.66 |
-| Setup perspective | -12.19% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -12.18% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
@@ -57,7 +57,7 @@ Equinor ASA operates as an energy company in Norway and internationally. It oper
 | Week | +2.1% |
 | Month | -4.6% |
 | Quarter | +2.5% |
-| Half Y | +9.6% |
+| Half Y | +9.7% |
 | 1Y | +85.6% |
 | YTD | +80.5% |
 
@@ -68,7 +68,7 @@ Equinor ASA operates as an energy company in Norway and internationally. It oper
 | Revenue (ttm) | $120.57B | Revenue growth 26.60% y/y |
 | Profitability | Gross 43.18%, operating 32.11%, net 9.79% | ROA 17.09%, ROE 27.57% |
 | Balance sheet | Cash $24.00B, debt $29.66B | Current ratio 1.18, debt/equity 65.92 |
-| Valuation | P/E 8.89, forward P/E 8.61, P/S 0.84, P/B 4.53 | EV/Sales 1.73, EV/EBITDA 4.34 |
+| Valuation | P/E 8.90, forward P/E 8.61, P/S 0.84, P/B 4.53 | EV/Sales 1.73, EV/EBITDA 4.34 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $40.93 (7 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -110,17 +110,17 @@ Equinor ASA operates as an energy company in Norway and internationally. It oper
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $42.87 | EV/Sales | 1.73 |
-| Market cap | $101.44B | EV/EBITDA | 4.34 |
+| Price | $42.88 | EV/Sales | 1.73 |
+| Market cap | $101.45B | EV/EBITDA | 4.34 |
 | Beta | -0.66 | Gross margin | 43.18% |
 | RSI(14) | 45.3 | Operating margin | 32.11% |
 | ATR(14) | 1.43 | Profit margin | 9.79% |
-| SMA20 dist | -4.68% | ROA | 17.09% |
-| SMA50 dist | -2.77% | ROE | 27.57% |
-| SMA200 dist | +12.63% | Revenue (ttm) | $120.57B |
+| SMA20 dist | -4.67% | ROA | 17.09% |
+| SMA50 dist | -2.76% | ROE | 27.57% |
+| SMA200 dist | +12.65% | Revenue (ttm) | $120.57B |
 | 52W high | $48.82 | Revenue growth y/y | 26.60% |
 | 52W low | $21.68 | Inst. ownership | 6.78% |
-| P/E (ttm) | 8.89 | Insider ownership | 0.00% |
+| P/E (ttm) | 8.90 | Insider ownership | 0.00% |
 | Forward P/E | 8.61 | Short float | 2.69% |
 | PEG (trailing) | 0.94 | Avg volume | 3,904,207 |
 | P/S | 0.84 | Employees | 23,545 |

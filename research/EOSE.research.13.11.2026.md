@@ -5,7 +5,7 @@ Signed file: `EOSE.research.13.11.2026`
 | Field | Value |
 |---|---|
 | Current price | $1.88 (2026-11-13, ~15-min delayed) |
-| Market cap | $690.60M |
+| Market cap | $688.76M |
 | Sector / Industry | Industrials / Electrical Equipment & Parts |
 | Main theme | Electrical Equipment & Parts — see catalysts below |
 | Current stance | Low technical momentum, strong fundamentals, value: reasonable, risk: high. |
@@ -15,10 +15,10 @@ Signed file: `EOSE.research.13.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-65.77%) with negative half-year (-76.03%). |
-| Fresh setup quality | Poor / broken | -89.65% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-65.86%) with negative half-year (-76.10%). |
+| Fresh setup quality | Poor / broken | -89.68% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 89.23%, revenue growth 171.10%. |
-| Value attractiveness | Reasonable | Forward P/E -8.25, EV/Sales 5.79. |
+| Value attractiveness | Reasonable | Forward P/E -8.23, EV/Sales 5.79. |
 | Risk level | High | Beta 3.17, ATR 13.1% of price, short float 37.88%. |
 
 **Bottom line:** Low technical momentum, strong fundamentals, value: reasonable, risk: high.
@@ -44,20 +44,20 @@ Eos Energy Enterprises, Inc. designs, develops, manufactures, and markets energy
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $1.88; 52w high $18.22 (-89.65%); 52w low $1.62 (+16.36%) |
-| Trend | -65.77% vs SMA200, -30.65% vs SMA50, +3.02% vs SMA20 |
-| Momentum | RSI(14) 44.2 (neutral) |
+| Price vs 52-week range | Close $1.88; 52w high $18.22 (-89.68%); 52w low $1.62 (+16.05%) |
+| Trend | -65.86% vs SMA200, -30.83% vs SMA50, +2.76% vs SMA20 |
+| Momentum | RSI(14) 44.1 (neutral) |
 | Volatility | ATR(14) 0.25 (~13.1% of price); beta 3.17 |
-| Setup perspective | -89.65% from 52w high — base needs to rebuild. |
+| Setup perspective | -89.68% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +8.3% |
-| Month | -12.7% |
-| Quarter | -52.0% |
-| Half Y | -76.0% |
+| Week | +8.0% |
+| Month | -13.0% |
+| Quarter | -52.2% |
+| Half Y | -76.1% |
 | 1Y | -89.1% |
 | YTD | -85.5% |
 
@@ -68,7 +68,7 @@ Eos Energy Enterprises, Inc. designs, develops, manufactures, and markets energy
 | Revenue (ttm) | $266.47M | Revenue growth 171.10% y/y |
 | Profitability | Gross -72.00%, operating -121.15%, net 89.23% | ROA -28.89%, ROE — |
 | Balance sheet | Cash $271.16M, debt $686.63M | Current ratio 3.31, debt/equity 18,388.48 |
-| Valuation | P/E —, forward P/E -8.25, P/S 2.59, P/B -1.50 | EV/Sales 5.79, EV/EBITDA -5.17 |
+| Valuation | P/E —, forward P/E -8.23, P/S 2.58, P/B -1.49 | EV/Sales 5.79, EV/EBITDA -5.17 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $4.86 (9 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -113,20 +113,20 @@ Eos Energy Enterprises, Inc. designs, develops, manufactures, and markets energy
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $1.88 | EV/Sales | 5.79 |
-| Market cap | $690.60M | EV/EBITDA | -5.17 |
+| Market cap | $688.76M | EV/EBITDA | -5.17 |
 | Beta | 3.17 | Gross margin | -72.00% |
-| RSI(14) | 44.2 | Operating margin | -121.15% |
+| RSI(14) | 44.1 | Operating margin | -121.15% |
 | ATR(14) | 0.25 | Profit margin | 89.23% |
-| SMA20 dist | +3.02% | ROA | -28.89% |
-| SMA50 dist | -30.65% | ROE | — |
-| SMA200 dist | -65.77% | Revenue (ttm) | $266.47M |
+| SMA20 dist | +2.76% | ROA | -28.89% |
+| SMA50 dist | -30.83% | ROE | — |
+| SMA200 dist | -65.86% | Revenue (ttm) | $266.47M |
 | 52W high | $18.22 | Revenue growth y/y | 171.10% |
 | 52W low | $1.62 | Inst. ownership | 63.97% |
 | P/E (ttm) | — | Insider ownership | 1.37% |
-| Forward P/E | -8.25 | Short float | 37.88% |
+| Forward P/E | -8.23 | Short float | 37.88% |
 | PEG (trailing) | — | Avg volume | 26,948,501 |
-| P/S | 2.59 | Employees | 787 |
-| P/B | -1.50 | Analyst rec (1=buy..5=sell) | 2.4 |
+| P/S | 2.58 | Employees | 787 |
+| P/B | -1.49 | Analyst rec (1=buy..5=sell) | 2.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

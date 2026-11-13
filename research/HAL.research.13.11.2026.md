@@ -4,8 +4,8 @@ Signed file: `HAL.research.13.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $33.66 (2026-11-13, ~15-min delayed) |
-| Market cap | $27.84B |
+| Current price | $33.67 (2026-11-13, ~15-min delayed) |
+| Market cap | $27.85B |
 | Sector / Industry | Energy / Oil & Gas Equipment & Services |
 | Main theme | Oil & Gas Equipment & Services — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
@@ -15,8 +15,8 @@ Signed file: `HAL.research.13.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-5.47%) with negative half-year (-18.68%). |
-| Fresh setup quality | Moderate / wait | -20.99% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-5.45%) with negative half-year (-18.67%). |
+| Fresh setup quality | Moderate / wait | -20.97% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 8.90%, revenue growth 1.80%. |
 | Value attractiveness | Reasonable | Forward P/E 11.46, EV/Sales 1.49. |
 | Risk level | Elevated | Beta 0.75, ATR 3.1% of price, short float 5.39%. |
@@ -44,18 +44,18 @@ Halliburton Company provides products and services to the energy industry worldw
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $33.66; 52w high $42.60 (-20.99%); 52w low $25.11 (+34.03%) |
-| Trend | -5.47% vs SMA200, -0.01% vs SMA50, -0.44% vs SMA20 |
-| Momentum | RSI(14) 51.6 (neutral) |
+| Price vs 52-week range | Close $33.67; 52w high $42.60 (-20.97%); 52w low $25.11 (+34.06%) |
+| Trend | -5.45% vs SMA200, +0.01% vs SMA50, -0.41% vs SMA20 |
+| Momentum | RSI(14) 51.7 (neutral) |
 | Volatility | ATR(14) 1.06 (~3.1% of price); beta 0.75 |
-| Setup perspective | -20.99% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -20.97% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
 | Week | +5.7% |
-| Month | +2.3% |
+| Month | +2.4% |
 | Quarter | -2.6% |
 | Half Y | -18.7% |
 | 1Y | +27.5% |
@@ -111,14 +111,14 @@ Halliburton Company provides products and services to the energy industry worldw
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $33.66 | EV/Sales | 1.49 |
-| Market cap | $27.84B | EV/EBITDA | 8.09 |
+| Price | $33.67 | EV/Sales | 1.49 |
+| Market cap | $27.85B | EV/EBITDA | 8.09 |
 | Beta | 0.75 | Gross margin | 14.82% |
-| RSI(14) | 51.6 | Operating margin | 13.18% |
+| RSI(14) | 51.7 | Operating margin | 13.18% |
 | ATR(14) | 1.06 | Profit margin | 8.90% |
-| SMA20 dist | -0.44% | ROA | 7.23% |
-| SMA50 dist | -0.01% | ROE | 18.78% |
-| SMA200 dist | -5.47% | Revenue (ttm) | $22.48B |
+| SMA20 dist | -0.41% | ROA | 7.23% |
+| SMA50 dist | +0.01% | ROE | 18.78% |
+| SMA200 dist | -5.45% | Revenue (ttm) | $22.48B |
 | 52W high | $42.60 | Revenue growth y/y | 1.80% |
 | 52W low | $25.11 | Inst. ownership | 91.01% |
 | P/E (ttm) | 14.14 | Insider ownership | 0.40% |

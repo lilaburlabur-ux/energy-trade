@@ -4,8 +4,8 @@ Signed file: `SHEL.research.13.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $98.85 (2026-11-13, ~15-min delayed) |
-| Market cap | $279.50B |
+| Current price | $98.82 (2026-11-13, ~15-min delayed) |
+| Market cap | $279.43B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,8 +15,8 @@ Signed file: `SHEL.research.13.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +35.25%; price +12.24% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -8.33% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +35.21%; price +12.21% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -8.35% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 10.18%, revenue growth 36.20%. |
 | Value attractiveness | Reasonable | Forward P/E 8.81, EV/Sales 1.01. |
 | Risk level | Moderate | Beta -0.25, ATR 1.9% of price, short float 1.01%. |
@@ -44,11 +44,11 @@ Shell plc operates as an energy and petrochemical company in Europe, Asia, Ocean
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $98.85; 52w high $107.83 (-8.33%); 52w low $67.89 (+45.59%) |
-| Trend | +12.24% vs SMA200, -0.08% vs SMA50, -3.52% vs SMA20 |
-| Momentum | RSI(14) 45.4 (neutral) |
+| Price vs 52-week range | Close $98.82; 52w high $107.83 (-8.35%); 52w low $67.89 (+45.56%) |
+| Trend | +12.21% vs SMA200, -0.10% vs SMA50, -3.54% vs SMA20 |
+| Momentum | RSI(14) 45.3 (neutral) |
 | Volatility | ATR(14) 1.92 (~1.9% of price); beta -0.25 |
-| Setup perspective | -8.33% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -8.35% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
@@ -109,14 +109,14 @@ Shell plc operates as an energy and petrochemical company in Europe, Asia, Ocean
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $98.85 | EV/Sales | 1.01 |
-| Market cap | $279.50B | EV/EBITDA | 4.78 |
+| Price | $98.82 | EV/Sales | 1.01 |
+| Market cap | $279.43B | EV/EBITDA | 4.78 |
 | Beta | -0.25 | Gross margin | 26.93% |
-| RSI(14) | 45.4 | Operating margin | 15.25% |
+| RSI(14) | 45.3 | Operating margin | 15.25% |
 | ATR(14) | 1.92 | Profit margin | 10.18% |
-| SMA20 dist | -3.52% | ROA | 7.67% |
-| SMA50 dist | -0.08% | ROE | 17.43% |
-| SMA200 dist | +12.24% | Revenue (ttm) | $321.29B |
+| SMA20 dist | -3.54% | ROA | 7.67% |
+| SMA50 dist | -0.10% | ROE | 17.43% |
+| SMA200 dist | +12.21% | Revenue (ttm) | $321.29B |
 | 52W high | $107.83 | Revenue growth y/y | 36.20% |
 | 52W low | $67.89 | Inst. ownership | 13.84% |
 | P/E (ttm) | 8.58 | Insider ownership | 0.01% |

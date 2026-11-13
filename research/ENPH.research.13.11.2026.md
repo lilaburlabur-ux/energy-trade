@@ -4,7 +4,7 @@ Signed file: `ENPH.research.13.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $25.92 (2026-11-13, ~15-min delayed) |
+| Current price | $25.90 (2026-11-13, ~15-min delayed) |
 | Market cap | $3.43B |
 | Sector / Industry | Technology / Solar |
 | Main theme | Solar — see catalysts below |
@@ -15,10 +15,10 @@ Signed file: `ENPH.research.13.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-35.94%) with negative half-year (-50.99%). |
-| Fresh setup quality | Poor / broken | -64.16% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-36.00%) with negative half-year (-51.04%). |
+| Fresh setup quality | Poor / broken | -64.20% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 7.49%, revenue growth -28.50%. |
-| Value attractiveness | Reasonable | Forward P/E 18.18, EV/Sales 2.66. |
+| Value attractiveness | Reasonable | Forward P/E 18.16, EV/Sales 2.66. |
 | Risk level | High | Beta 1.45, ATR 8.2% of price, short float 24.85%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: high.
@@ -44,22 +44,22 @@ Enphase Energy, Inc., together with its subsidiaries, designs, develops, manufac
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $25.92; 52w high $72.33 (-64.16%); 52w low $24.99 (+3.72%) |
-| Trend | -35.94% vs SMA200, -18.72% vs SMA50, -10.54% vs SMA20 |
+| Price vs 52-week range | Close $25.90; 52w high $72.33 (-64.20%); 52w low $24.99 (+3.62%) |
+| Trend | -36.00% vs SMA200, -18.80% vs SMA50, -10.62% vs SMA20 |
 | Momentum | RSI(14) 37.8 (neutral) |
 | Volatility | ATR(14) 2.12 (~8.2% of price); beta 1.45 |
-| Setup perspective | -64.16% from 52w high — base needs to rebuild. |
+| Setup perspective | -64.20% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
 | Week | -9.0% |
-| Month | -15.9% |
-| Quarter | -32.9% |
+| Month | -16.0% |
+| Quarter | -33.0% |
 | Half Y | -51.0% |
-| 1Y | -15.6% |
-| YTD | -23.2% |
+| 1Y | -15.7% |
+| YTD | -23.3% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Enphase Energy, Inc., together with its subsidiaries, designs, develops, manufac
 | Revenue (ttm) | $1.21B | Revenue growth -28.50% y/y |
 | Profitability | Gross 24.10%, operating 0.65%, net 7.49% | ROA 0.16%, ROE 8.11% |
 | Balance sheet | Cash $931.85M, debt $614.56M | Current ratio 4.09, debt/equity 49.48 |
-| Valuation | P/E 38.69, forward P/E 18.18, P/S 2.83, P/B 2.76 | EV/Sales 2.66, EV/EBITDA 38.41 |
+| Valuation | P/E 38.64, forward P/E 18.16, P/S 2.83, P/B 2.76 | EV/Sales 2.66, EV/EBITDA 38.41 |
 | Growth expectations | Earnings growth -65.20%, EPS q/q -64.90% | Analyst mean target $40.58 (25 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -112,18 +112,18 @@ Enphase Energy, Inc., together with its subsidiaries, designs, develops, manufac
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $25.92 | EV/Sales | 2.66 |
+| Price | $25.90 | EV/Sales | 2.66 |
 | Market cap | $3.43B | EV/EBITDA | 38.41 |
 | Beta | 1.45 | Gross margin | 24.10% |
 | RSI(14) | 37.8 | Operating margin | 0.65% |
 | ATR(14) | 2.12 | Profit margin | 7.49% |
-| SMA20 dist | -10.54% | ROA | 0.16% |
-| SMA50 dist | -18.72% | ROE | 8.11% |
-| SMA200 dist | -35.94% | Revenue (ttm) | $1.21B |
+| SMA20 dist | -10.62% | ROA | 0.16% |
+| SMA50 dist | -18.80% | ROE | 8.11% |
+| SMA200 dist | -36.00% | Revenue (ttm) | $1.21B |
 | 52W high | $72.33 | Revenue growth y/y | -28.50% |
 | 52W low | $24.99 | Inst. ownership | 94.12% |
-| P/E (ttm) | 38.69 | Insider ownership | 3.08% |
-| Forward P/E | 18.18 | Short float | 24.85% |
+| P/E (ttm) | 38.64 | Insider ownership | 3.08% |
+| Forward P/E | 18.16 | Short float | 24.85% |
 | PEG (trailing) | 0.75 | Avg volume | 5,726,128 |
 | P/S | 2.83 | Employees | 2,872 |
 | P/B | 2.76 | Analyst rec (1=buy..5=sell) | 2.4 |

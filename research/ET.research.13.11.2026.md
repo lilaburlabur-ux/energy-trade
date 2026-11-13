@@ -15,8 +15,8 @@ Signed file: `ET.research.13.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +26.21%; price +2.14% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -8.61% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +26.18%; price +2.12% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -8.63% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 4.39%, revenue growth 85.90%. |
 | Value attractiveness | Reasonable | Forward P/E 11.02, EV/Sales 1.24. |
 | Risk level | Moderate | Beta 0.60, ATR 2.2% of price, short float 0.87%. |
@@ -44,11 +44,11 @@ Energy Transfer LP, together with its subsidiaries, provides energy-related serv
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $19.50; 52w high $21.34 (-8.61%); 52w low $15.11 (+29.09%) |
-| Trend | +2.14% vs SMA200, -2.82% vs SMA50, -0.91% vs SMA20 |
-| Momentum | RSI(14) 46.2 (neutral) |
+| Price vs 52-week range | Close $19.50; 52w high $21.34 (-8.63%); 52w low $15.11 (+29.06%) |
+| Trend | +2.12% vs SMA200, -2.85% vs SMA50, -0.94% vs SMA20 |
+| Momentum | RSI(14) 46.1 (neutral) |
 | Volatility | ATR(14) 0.43 (~2.2% of price); beta 0.60 |
-| Setup perspective | -8.61% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -8.63% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
@@ -112,11 +112,11 @@ Energy Transfer LP, together with its subsidiaries, provides energy-related serv
 | Price | $19.50 | EV/Sales | 1.24 |
 | Market cap | $67.18B | EV/EBITDA | 8.62 |
 | Beta | 0.60 | Gross margin | 15.84% |
-| RSI(14) | 46.2 | Operating margin | 9.39% |
+| RSI(14) | 46.1 | Operating margin | 9.39% |
 | ATR(14) | 0.43 | Profit margin | 4.39% |
-| SMA20 dist | -0.91% | ROA | 5.24% |
-| SMA50 dist | -2.82% | ROE | 15.57% |
-| SMA200 dist | +2.14% | Revenue (ttm) | $124.53B |
+| SMA20 dist | -0.94% | ROA | 5.24% |
+| SMA50 dist | -2.85% | ROE | 15.57% |
+| SMA200 dist | +2.12% | Revenue (ttm) | $124.53B |
 | 52W high | $21.34 | Revenue growth y/y | 85.90% |
 | 52W low | $15.11 | Inst. ownership | 32.52% |
 | P/E (ttm) | 12.92 | Insider ownership | 10.29% |
