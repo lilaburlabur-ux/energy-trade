@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-13T08:39:47+00:00",
+  "as_of": "2026-11-13T08:54:50+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,6 +9,22 @@
  "hot_tickers": [
   {
    "rank": 1,
+   "ticker": "EOSE",
+   "company": "Eos Energy Enterprises, Inc.",
+   "move_pct": -9.05,
+   "price": 1.81,
+   "volume": 15895100,
+   "volume_vs_avg": "~0.6x",
+   "heat_score": 60,
+   "direction": "down",
+   "why": "Eos Energy Enterprises, Inc. (EOSE) latest stock news and headlines",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4zTGJ6YVg0enJTU293dXhqNWhPV1BnXzRza3o0NjN2aDZzVmljTS15VDhUQUc0UnNqR2RuTUlxdXZqMHpIS0hXM2FqZnRnVzJBOXdFYzNDdW0?oc=5",
+   "published": "2026-11-13T08:35:50+00:00",
+   "sector": "Grid, Storage & Electrification"
+  },
+  {
+   "rank": 2,
    "ticker": "NXT",
    "company": "Nextpower Inc.",
    "move_pct": -6.95,
@@ -21,6 +37,38 @@
    "catalyst_type": "momentum_narrative",
    "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5rN3RiN2xRcHR5VnRVQlRhdkNkR1JFd0FWVWk5VWVkdGl2NWFQU01xX05XUVMwMzA3NEw3ZER2SnVpSUROZ004bVg2UjJpa2VaYTlTbUhwVQ?oc=5",
    "published": "2026-11-13T05:24:45+00:00",
+   "sector": "Renewables & Solar"
+  },
+  {
+   "rank": 3,
+   "ticker": "RUN",
+   "company": "Sunrun Inc.",
+   "move_pct": -6.06,
+   "price": 8.52,
+   "volume": 10023400,
+   "volume_vs_avg": "~0.9x",
+   "heat_score": 41,
+   "direction": "down",
+   "why": "Zacks Industry Outlook Highlights First Solar, Sunrun and Tigo Energy",
+   "catalyst_type": "earnings",
+   "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOR21XNjlXRjlieTk5Z0Q3RkFRUTF4TmxoNENVcmlWWHlrTWZoSndDdjFhSGtHWHQ2dnZSa2h2MDFTa0VtcWRkYnM3ZU93NDV0YkZ4M240SmR4Z1U4REJOU2pRQno4WnpxTFNvVmtyaWZPODNDTWtVWHlNZGZvcFhieEdWcENVTy05SnBsZlR4SVY4UGpBWXU3VUI3bnA?oc=5",
+   "published": "2026-11-13T06:33:00+00:00",
+   "sector": "Renewables & Solar"
+  },
+  {
+   "rank": 4,
+   "ticker": "ENPH",
+   "company": "Enphase Energy, Inc.",
+   "move_pct": -5.37,
+   "price": 26.78,
+   "volume": 4197100,
+   "volume_vs_avg": "~0.6x",
+   "heat_score": 37,
+   "direction": "down",
+   "why": "Enphase Energy, Inc. (ENPH) stock price, news, quote and history",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9xRWpVbXp0NXlDVmRlVXp6Sk43aTRkSGJxa2E2dWg5MG9DeGtNNXh6WllvZGFoQk1td1kxUGFPUzBQVjYtOEQ3MGVwQUo5TjhKbFE?oc=5",
+   "published": "2026-11-13T08:35:48+00:00",
    "sector": "Renewables & Solar"
   }
  ]
