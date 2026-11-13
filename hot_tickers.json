@@ -1,27 +1,10 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-13T14:29:27+00:00",
+  "as_of": "2026-11-13T14:34:38+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": [
-  {
-   "rank": 1,
-   "ticker": "EOSE",
-   "company": "Eos Energy Enterprises, Inc.",
-   "move_pct": 6.63,
-   "price": 1.93,
-   "volume": 15895100,
-   "volume_vs_avg": "~0.6x",
-   "heat_score": 41,
-   "direction": "up",
-   "why": "Buying at $1.86 a share leaves Eos Energy (EOSE) director with 294,296 shares held directly.",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWTNoXzI1cnozRlN5U1Rua28zRGxJOWRjVl9MQW5BOTVacUVhYkhSVGJDTEFucG54NFJFTFNSVVUxaktSTk9peTllTEhHdEVYMEtUYkNCajBlMWNsR2RNUzlnSXZ2YjdwYm5KeXp3MW1OM1dFcURIRHQ1R0w0bGEyMUVYRHNiekhNMTlqVUhHblZvSTlpMjllaUJPS1JxdXlfR0hvVDlBVmhBOGdmOEo1Q2hjQVl0YVVHeTJ4Rg?oc=5",
-   "published": "2026-11-13T14:05:49+00:00",
-   "sector": "Grid, Storage & Electrification"
-  }
- ]
+ "hot_tickers": []
 }
