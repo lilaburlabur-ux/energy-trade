@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-13T14:25:07+00:00",
-  "as_of_local": "2026-11-13 14:25:07 UTC",
+  "as_of_utc": "2026-11-13T14:30:04+00:00",
+  "as_of_local": "2026-11-13 14:30:04 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -97,6 +97,12 @@
       "market_cap": 216635529165.60303,
       "headlines": [
         {
+          "title": "Why Is GE Vernova (GEV) Balancing Hydrogen Turbine Progress With A Nuclear Delay?",
+          "url": "https://finance.yahoo.com/energy/articles/why-ge-vernova-gev-balancing-141104459.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-13T14:11:04Z"
+        },
+        {
           "title": "GE Vernova Stock Surges 47.2% in a Year: Worth Investing Now?",
           "url": "https://finance.yahoo.com/energy/articles/ge-vernova-stock-surges-47-112200019.html",
           "publisher": "Zacks",
@@ -107,12 +113,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/state-street-industrial-select-spdr-110440498.html",
           "publisher": "GuruFocus.com",
           "published": "2026-11-13T11:04:40Z"
-        },
-        {
-          "title": "GE Vernova Has Slid Since Summer: Why Evercore ISI Sees 67% Upside",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-slid-since-summer-072517285.html",
-          "publisher": "TIKR",
-          "published": "2026-11-13T07:25:17Z"
         }
       ]
     },
@@ -290,7 +290,7 @@
       "price": 92.47,
       "previous_close": 93.84,
       "change_pct": -1.46,
-      "market_cap": 107659218772.84708,
+      "market_cap": 107659217351.63,
       "headlines": [
         {
           "title": "Is Southern (SO) Fairly Valued As It Files For 5,000,000 New Shares?",
@@ -402,7 +402,7 @@
       "price": 128.59,
       "previous_close": 128.77,
       "change_pct": -0.14,
-      "market_cap": 100262687055.85294,
+      "market_cap": 100262689911.23,
       "headlines": [
         {
           "title": "Do You Like Cash? Consider Vistra Stock",
@@ -794,7 +794,7 @@
       "price": 67.51,
       "previous_close": 68.06,
       "change_pct": -0.81,
-      "market_cap": 59379507804.735855,
+      "market_cap": 59379505925.78001,
       "headlines": [
         {
           "title": "Is NextEra Energy Stock A Real Bargain?",
@@ -906,7 +906,7 @@
       "price": 111.95,
       "previous_close": 111.99,
       "change_pct": -0.04,
-      "market_cap": 53492744737.73735,
+      "market_cap": 53492746195.950005,
       "headlines": [
         {
           "title": "ETFs Are Net Sellers of Entergy (ETR) on Nov. 11",
@@ -1046,7 +1046,7 @@
       "price": 74.8,
       "previous_close": 74.29,
       "change_pct": 0.69,
-      "market_cap": 37288954712.94832,
+      "market_cap": 37288953191.6,
       "headlines": [
         {
           "title": "Do Edison's Dividends Make Up For A Lagging Stock?",
@@ -1214,7 +1214,7 @@
       "price": 98.05,
       "previous_close": 97.5,
       "change_pct": 0.56,
-      "market_cap": 20592587144.934082,
+      "market_cap": 20592586504.0,
       "headlines": [
         {
           "title": "Do You Like Cash? Consider Vistra Stock",
@@ -1354,7 +1354,7 @@
       "price": 386.68,
       "previous_close": 378.71,
       "change_pct": 2.1,
-      "market_cap": 16822633725.517578,
+      "market_cap": 16967071680.0,
       "headlines": [
         {
           "title": "What Is Talen Energy (TLN) Signaling With Its 750 MW Capacity Deal?",
@@ -1385,6 +1385,12 @@
       "market_cap": 16002131147.0677,
       "headlines": [
         {
+          "title": "Is APA (APA) Still Below Fair Value Following Its Strong Q3 Earnings And Raised Output Guidance?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/apa-apa-still-below-fair-141018072.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-13T14:10:18Z"
+        },
+        {
           "title": "APA (APA) Stock Still Looks Like A Bargain After A 102% Run",
           "url": "https://finance.yahoo.com/markets/stocks/articles/apa-apa-stock-still-looks-130823929.html",
           "publisher": "Simply Wall St.",
@@ -1395,12 +1401,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/investors-may-respond-apa-apa-121125418.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-13T12:11:25Z"
-        },
-        {
-          "title": "Should Value Investors Buy APA (APA) Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/value-investors-buy-apa-apa-200802092.html",
-          "publisher": "Zacks",
-          "published": "2026-11-11T20:08:02Z"
         }
       ]
     },
@@ -2115,8 +2115,8 @@
     },
     {
       "label": "WTI",
-      "price": 89.18,
-      "change_pct": 0.5
+      "price": 89.16,
+      "change_pct": 0.47
     },
     {
       "label": "Brent",
@@ -2126,7 +2126,7 @@
     {
       "label": "NatGas",
       "price": 3.23,
-      "change_pct": -3.14
+      "change_pct": -3.41
     }
   ]
 }
