@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-13T00:54:46+00:00",
-  "as_of_local": "2026-11-13 00:54:46 UTC",
+  "as_of_utc": "2026-11-13T00:59:32+00:00",
+  "as_of_local": "2026-11-13 00:59:32 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "EQNR"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -365,34 +367,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/pbf-energy-now-undervalued-strong-160600490.html",
           "publisher": "Zacks",
           "published": "2026-11-11T16:06:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "EQNR",
-      "name": "Equinor",
-      "price": 42.76,
-      "previous_close": 41.33,
-      "change_pct": 3.46,
-      "market_cap": 101177806775.92725,
-      "headlines": [
-        {
-          "title": "Equinor (OB:EQNR) Awaits UK Ruling On Rosebank Oil Field",
-          "url": "https://finance.yahoo.com/energy/articles/equinor-ob-eqnr-awaits-uk-001643131.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-13T00:16:43Z"
-        },
-        {
-          "title": "Equinor: 3 Key Takeaways for Long-Term Investors",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/equinor-3-key-takeaways-long-182003529.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-12T18:20:03Z"
-        },
-        {
-          "title": "European Equities Traded in the US as American Depositary Receipts Decline in Thursday Trading",
-          "url": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-american-161033755.html",
-          "publisher": "MT Newswires",
-          "published": "2026-11-12T16:10:33Z"
         }
       ]
     },
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 88.39,
-      "change_pct": 2.15
+      "price": 88.41,
+      "change_pct": 2.17
     },
     {
       "label": "Brent",
-      "price": 95.57,
-      "change_pct": 3.03
+      "price": 95.53,
+      "change_pct": 2.99
     },
     {
       "label": "NatGas",
       "price": 3.35,
-      "change_pct": 4.26
+      "change_pct": 4.2
     }
   ]
 }
