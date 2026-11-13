@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-13T11:42:41+00:00",
-  "as_of_local": "2026-11-13 11:42:41 UTC",
+  "as_of_utc": "2026-11-13T11:47:57+00:00",
+  "as_of_local": "2026-11-13 11:47:57 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -13,6 +13,12 @@
       "market_cap": 692570381562.8004,
       "headlines": [
         {
+          "title": "ExxonMobil Raised Its Dividend for the 44th Straight Year and Plans $20 Billion of Buybacks in 2027. Here's How It Can Afford Both.",
+          "url": "https://finance.yahoo.com/energy/articles/exxonmobil-raised-dividend-44th-straight-113500324.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-13T11:35:00Z"
+        },
+        {
           "title": "After a 3.9% Raise, Here's How Many Shares of ExxonMobil You'd Now Need for $1,000 a Month in Dividends",
           "url": "https://finance.yahoo.com/markets/stocks/articles/3-9-raise-heres-many-095000678.html",
           "publisher": "Motley Fool",
@@ -23,12 +29,6 @@
           "url": "https://finance.yahoo.com/news/exxonmobil-invest-12-5bn-longtail-085608737.html",
           "publisher": "Offshore Technology",
           "published": "2026-11-13T08:56:08Z"
-        },
-        {
-          "title": "XOM, CVX, COP: This Analyst Trims Price Targets, Warns Oil Stocks May 'Struggle To Appreciate'",
-          "url": "https://finance.yahoo.com/energy/articles/xom-cvx-cop-analyst-trims-014936143.html",
-          "publisher": "Stocktwits",
-          "published": "2026-11-13T01:49:36Z"
         }
       ]
     },
@@ -2115,18 +2115,13 @@
     },
     {
       "label": "WTI",
-      "price": 88.49,
-      "change_pct": -0.28
+      "price": 88.42,
+      "change_pct": -0.36
     },
     {
       "label": "Brent",
-      "price": 95.95,
-      "change_pct": 0.14
-    },
-    {
-      "label": "NatGas",
-      "price": 3.27,
-      "change_pct": -2.13
+      "price": 95.87,
+      "change_pct": 0.05
     }
   ]
 }
