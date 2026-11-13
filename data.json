@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-13T05:21:26+00:00",
-  "as_of_local": "2026-11-13 05:21:26 UTC",
+  "as_of_utc": "2026-11-13T05:36:18+00:00",
+  "as_of_local": "2026-11-13 05:36:18 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -1413,6 +1413,12 @@
       "market_cap": 14093869846.239967,
       "headlines": [
         {
+          "title": "Nextpower Stock In Focus As Lifecycle Services Expand",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nextpower-stock-focus-lifecycle-services-051619309.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-13T05:16:19Z"
+        },
+        {
           "title": "The Zacks Analyst Blog Highlights Microsoft, Amazon, Alphabet, Nextpower and Centene",
           "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-microsoft-125800453.html",
           "publisher": "Zacks",
@@ -1423,12 +1429,6 @@
           "url": "https://www.investors.com/news/sunrun-stock-solar-stocks-after-election/?src=A00220&yptr=yahoo",
           "publisher": "Investor's Business Daily",
           "published": "2026-11-05T19:21:44Z"
-        },
-        {
-          "title": "Midterm Results Put These 4 Renewable, Healthcare & AI Stocks in Focus",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/midterm-results-put-4-renewable-152400817.html",
-          "publisher": "Zacks",
-          "published": "2026-11-05T15:24:00Z"
         }
       ]
     },
@@ -2120,13 +2120,13 @@
     },
     {
       "label": "Brent",
-      "price": 95.56,
-      "change_pct": -0.27
+      "price": 95.5,
+      "change_pct": -0.33
     },
     {
       "label": "NatGas",
       "price": 3.32,
-      "change_pct": -0.6
+      "change_pct": -0.48
     }
   ]
 }
