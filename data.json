@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-13T00:09:01+00:00",
-  "as_of_local": "2026-11-13 00:09:01 UTC",
+  "as_of_utc": "2026-11-13T00:14:06+00:00",
+  "as_of_local": "2026-11-13 00:14:06 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -41,6 +41,12 @@
       "market_cap": 422153746875.60736,
       "headlines": [
         {
+          "title": "The Blue Wave Crashed on Texas Pacific Land. That Could Be an Opportunity.",
+          "url": "https://www.barrons.com/articles/the-blue-wave-crashed-on-texas-pacific-land-that-could-be-an-opportunity-1302c677?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-11-12T23:14:00Z"
+        },
+        {
           "title": "Exxon, Partners to Invest in Guyana\u2019s Offshore Gas",
           "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-12-2026/card/exxon-partners-to-invest-in-guyana-s-offshore-gas-feLgErlGBTar002y9lsO?siteid=yhoof2&yptr=yahoo",
           "publisher": "The Wall Street Journal",
@@ -51,12 +57,6 @@
           "url": "https://finance.yahoo.com/energy/articles/trump-says-don-t-deal-221959902.html",
           "publisher": "TIKR",
           "published": "2026-11-12T22:19:59Z"
-        },
-        {
-          "title": "Sector Update: Energy Stocks Rise Pre-Bell Thursday",
-          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-rise-pre-142639076.html",
-          "publisher": "MT Newswires",
-          "published": "2026-11-12T14:26:39Z"
         }
       ]
     },
@@ -1245,6 +1245,12 @@
       "market_cap": 19097786804.3982,
       "headlines": [
         {
+          "title": "The Blue Wave Crashed on Texas Pacific Land. That Could Be an Opportunity.",
+          "url": "https://www.barrons.com/articles/the-blue-wave-crashed-on-texas-pacific-land-that-could-be-an-opportunity-1302c677?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-11-12T23:14:00Z"
+        },
+        {
           "title": "The Oil Slump Has Gone Too Far. Where Prices Could Go Next.",
           "url": "https://www.barrons.com/articles/oil-prices-stocks-fall-where-they-could-go-next-0162a3c2?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
@@ -1255,12 +1261,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-permian-220536252.html",
           "publisher": "StockStory",
           "published": "2026-11-08T22:05:36Z"
-        },
-        {
-          "title": "Permian Resources Q3 Earnings Call Highlights",
-          "url": "https://finance.yahoo.com/energy/articles/permian-resources-q3-earnings-call-051413053.html",
-          "publisher": "MarketBeat",
-          "published": "2026-11-08T05:14:13Z"
         }
       ]
     },
@@ -2115,8 +2115,8 @@
     },
     {
       "label": "WTI",
-      "price": 88.76,
-      "change_pct": 2.58
+      "price": 88.69,
+      "change_pct": 2.5
     },
     {
       "label": "Brent",
@@ -2126,7 +2126,7 @@
     {
       "label": "NatGas",
       "price": 3.36,
-      "change_pct": 4.54
+      "change_pct": 4.57
     }
   ]
 }
