@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-13T02:56:28+00:00",
-  "as_of_local": "2026-11-13 02:56:28 UTC",
+  "as_of_utc": "2026-11-13T03:05:24+00:00",
+  "as_of_local": "2026-11-13 03:05:24 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "SHEL"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -57,34 +59,6 @@
           "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-12-2026/card/exxon-partners-to-invest-in-guyana-s-offshore-gas-feLgErlGBTar002y9lsO?siteid=yhoof2&yptr=yahoo",
           "publisher": "The Wall Street Journal",
           "published": "2026-11-12T22:30:02Z"
-        }
-      ]
-    },
-    {
-      "symbol": "SHEL",
-      "name": "Shell",
-      "price": 98.56,
-      "previous_close": 97.86,
-      "change_pct": 0.72,
-      "market_cap": 278793462189.7535,
-      "headlines": [
-        {
-          "title": "Seplat Energy And 2 British Energy Stocks To Watch",
-          "url": "https://finance.yahoo.com/energy/articles/seplat-energy-2-british-energy-232020296.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-12T23:20:20Z"
-        },
-        {
-          "title": "5 Stocks Analysts Are Downgrading Right Now",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/5-stocks-analysts-downgrading-now-205623990.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-11-12T20:56:23Z"
-        },
-        {
-          "title": "Chevron Q3 Earnings Surge on Strong Refining: Is the Stock a Buy Now?",
-          "url": "https://finance.yahoo.com/energy/articles/chevron-q3-earnings-surge-strong-123000894.html",
-          "publisher": "Zacks",
-          "published": "2026-11-12T12:30:00Z"
         }
       ]
     },
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 88.49,
-      "change_pct": 2.27
+      "price": 88.23,
+      "change_pct": 1.96
     },
     {
       "label": "Brent",
-      "price": 95.86,
-      "change_pct": 3.34
+      "price": 95.59,
+      "change_pct": 3.05
     },
     {
       "label": "NatGas",
-      "price": 3.35,
-      "change_pct": 4.04
+      "price": 3.34,
+      "change_pct": 3.98
     }
   ]
 }
