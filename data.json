@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-13T10:31:53+00:00",
-  "as_of_local": "2026-11-13 10:31:53 UTC",
+  "as_of_utc": "2026-11-13T10:38:14+00:00",
+  "as_of_local": "2026-11-13 10:38:14 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "BKR"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -981,34 +983,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/occidental-petroleum-stock-fall-30-134155577.html",
           "publisher": "Trefis",
           "published": "2026-11-12T13:41:55Z"
-        }
-      ]
-    },
-    {
-      "symbol": "BKR",
-      "name": "Baker Hughes",
-      "price": 48.86,
-      "previous_close": 49.41,
-      "change_pct": -1.11,
-      "market_cap": 48521814796.907,
-      "headlines": [
-        {
-          "title": "Baker Hughes: 3 Key Takeaways for Long-Term Investors",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/baker-hughes-3-key-takeaways-190502252.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-12T19:05:02Z"
-        },
-        {
-          "title": "Baker Hughes (BKR) Lands Cronos Deal On A Fair Value Story Under Pressure",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/baker-hughes-bkr-lands-cronos-151035201.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-11T15:10:35Z"
-        },
-        {
-          "title": "What Does Baker Hughes (BKR) Winning The Cronos Cyprus Contract Mean?",
-          "url": "https://finance.yahoo.com/energy/articles/does-baker-hughes-bkr-winning-031556444.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-11T03:15:56Z"
         }
       ]
     },
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 88.07,
-      "change_pct": -0.76
+      "price": 88.11,
+      "change_pct": -0.71
     },
     {
       "label": "Brent",
-      "price": 95.5,
-      "change_pct": -0.33
+      "price": 95.47,
+      "change_pct": -0.37
     },
     {
       "label": "NatGas",
       "price": 3.27,
-      "change_pct": -2.22
+      "change_pct": -2.1
     }
   ]
 }
