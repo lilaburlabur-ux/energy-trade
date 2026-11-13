@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-13T09:51:28+00:00",
-  "as_of_local": "2026-11-13 09:51:28 UTC",
+  "as_of_utc": "2026-11-13T09:56:27+00:00",
+  "as_of_local": "2026-11-13 09:56:27 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -13,6 +13,12 @@
       "market_cap": 692570381562.8004,
       "headlines": [
         {
+          "title": "After a 3.9% Raise, Here's How Many Shares of ExxonMobil You'd Now Need for $1,000 a Month in Dividends",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-9-raise-heres-many-095000678.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-13T09:50:00Z"
+        },
+        {
           "title": "ExxonMobil to invest $12.5bn in Longtail development offshore Guyana",
           "url": "https://finance.yahoo.com/news/exxonmobil-invest-12-5bn-longtail-085608737.html",
           "publisher": "Offshore Technology",
@@ -23,12 +29,6 @@
           "url": "https://finance.yahoo.com/energy/articles/xom-cvx-cop-analyst-trims-014936143.html",
           "publisher": "Stocktwits",
           "published": "2026-11-13T01:49:36Z"
-        },
-        {
-          "title": "Wall Street reveals 3 dividend stocks to hold through the AI chaos",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-reveals-3-dividend-224700018.html",
-          "publisher": "TheStreet",
-          "published": "2026-11-12T22:47:00Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 88.59,
-      "change_pct": -0.17
+      "price": 88.51,
+      "change_pct": -0.26
     },
     {
       "label": "Brent",
-      "price": 96.03,
-      "change_pct": 0.22
+      "price": 95.85,
+      "change_pct": 0.03
     },
     {
       "label": "NatGas",
       "price": 3.27,
-      "change_pct": -2.16
+      "change_pct": -2.19
     }
   ]
 }
