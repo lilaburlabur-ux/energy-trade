@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-13T00:24:21+00:00",
-  "as_of_local": "2026-11-13 00:24:21 UTC",
+  "as_of_utc": "2026-11-13T00:29:16+00:00",
+  "as_of_local": "2026-11-13 00:29:16 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NRG"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1209,34 +1211,6 @@
       ]
     },
     {
-      "symbol": "NRG",
-      "name": "NRG Energy",
-      "price": 98.05,
-      "previous_close": 97.5,
-      "change_pct": 0.56,
-      "market_cap": 20592587144.934082,
-      "headlines": [
-        {
-          "title": "Do You Like Cash? Consider Vistra Stock",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/cash-consider-vistra-stock-211551348.html",
-          "publisher": "Trefis",
-          "published": "2026-11-12T21:15:51Z"
-        },
-        {
-          "title": "What Is The Biggest Threat To Vistra Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/biggest-threat-vistra-stock-005944429.html",
-          "publisher": "Trefis",
-          "published": "2026-11-12T00:59:44Z"
-        },
-        {
-          "title": "A $4 Billion Jolt: NRG Energy Powers Data Center Ambitions",
-          "url": "https://finance.yahoo.com/energy/articles/4-billion-jolt-nrg-energy-202000737.html",
-          "publisher": "MarketBeat",
-          "published": "2026-11-10T20:20:00Z"
-        }
-      ]
-    },
-    {
       "symbol": "PR",
       "name": "Permian Resources",
       "price": 22.77,
@@ -2115,8 +2089,8 @@
     },
     {
       "label": "WTI",
-      "price": 88.67,
-      "change_pct": 2.47
+      "price": 88.62,
+      "change_pct": 2.42
     },
     {
       "label": "Brent",
@@ -2126,7 +2100,7 @@
     {
       "label": "NatGas",
       "price": 3.36,
-      "change_pct": 4.54
+      "change_pct": 4.57
     }
   ]
 }
