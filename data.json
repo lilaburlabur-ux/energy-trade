@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-13T13:39:27+00:00",
-  "as_of_local": "2026-11-13 13:39:27 UTC",
+  "as_of_utc": "2026-11-13T13:44:36+00:00",
+  "as_of_local": "2026-11-13 13:44:36 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "PR"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1239,6 +1237,34 @@
       ]
     },
     {
+      "symbol": "PR",
+      "name": "Permian Resources",
+      "price": 22.77,
+      "previous_close": 22.32,
+      "change_pct": 2.02,
+      "market_cap": 19097786804.3982,
+      "headlines": [
+        {
+          "title": "The Blue Wave Crashed on Texas Pacific Land. That Could Be an Opportunity.",
+          "url": "https://www.barrons.com/articles/the-blue-wave-crashed-on-texas-pacific-land-that-could-be-an-opportunity-1302c677?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-11-12T23:14:00Z"
+        },
+        {
+          "title": "The Oil Slump Has Gone Too Far. Where Prices Could Go Next.",
+          "url": "https://www.barrons.com/articles/oil-prices-stocks-fall-where-they-could-go-next-0162a3c2?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-11-09T10:55:00Z"
+        },
+        {
+          "title": "The top 5 analyst questions from Permian Resources\u2019s Q3 2026 earnings call",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-permian-220536252.html",
+          "publisher": "StockStory",
+          "published": "2026-11-08T22:05:36Z"
+        }
+      ]
+    },
+    {
       "symbol": "FSLR",
       "name": "First Solar",
       "price": 172.3,
@@ -2089,18 +2115,13 @@
     },
     {
       "label": "WTI",
-      "price": 88.47,
-      "change_pct": -0.3
+      "price": 88.26,
+      "change_pct": -0.54
     },
     {
       "label": "Brent",
-      "price": 96.13,
-      "change_pct": 0.32
-    },
-    {
-      "label": "NatGas",
-      "price": 3.28,
-      "change_pct": -1.92
+      "price": 95.77,
+      "change_pct": -0.05
     }
   ]
 }
