@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-13T22:02:15+00:00",
-  "as_of_local": "2026-11-13 22:02:15 UTC",
+  "as_of_utc": "2026-11-13T22:07:25+00:00",
+  "as_of_local": "2026-11-13 22:07:25 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "BKR"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -981,34 +983,6 @@
           "url": "https://finance.yahoo.com/news/amd-under-armour-downgraded-wall-133533194.html",
           "publisher": "The Fly",
           "published": "2026-11-12T14:44:01Z"
-        }
-      ]
-    },
-    {
-      "symbol": "BKR",
-      "name": "Baker Hughes",
-      "price": 49.44,
-      "previous_close": 48.86,
-      "change_pct": 1.19,
-      "market_cap": 49097798341.33426,
-      "headlines": [
-        {
-          "title": "US energy rig count drops for first time in six weeks",
-          "url": "https://finance.yahoo.com/energy/articles/us-energy-rig-count-drops-185914224.html",
-          "publisher": "Investing.com",
-          "published": "2026-11-13T18:59:14Z"
-        },
-        {
-          "title": "HSBC Says Buy the Dip in These 11 Stocks -- Alphabet and Oracle Top the List",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/hsbc-says-buy-dip-11-185515397.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-13T18:55:15Z"
-        },
-        {
-          "title": "Baker Hughes: 3 Key Takeaways for Long-Term Investors",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/baker-hughes-3-key-takeaways-190502252.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-12T19:05:02Z"
         }
       ]
     },
@@ -2115,13 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 88.99,
-      "change_pct": 0.28
+      "price": 88.92,
+      "change_pct": 0.2
     },
     {
       "label": "Brent",
-      "price": 96.18,
-      "change_pct": 0.38
+      "price": 96.12,
+      "change_pct": 0.31
+    },
+    {
+      "label": "NatGas",
+      "price": 3.24,
+      "change_pct": -3.02
     }
   ]
 }
