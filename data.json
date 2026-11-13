@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-13T13:54:54+00:00",
-  "as_of_local": "2026-11-13 13:54:54 UTC",
+  "as_of_utc": "2026-11-13T13:59:40+00:00",
+  "as_of_local": "2026-11-13 13:59:40 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -181,6 +181,12 @@
       "market_cap": 165597845196.8598,
       "headlines": [
         {
+          "title": "Oil Staying Above $85: A Growth Catalyst for EOG Resources?",
+          "url": "https://finance.yahoo.com/energy/articles/oil-staying-above-85-growth-125100648.html",
+          "publisher": "Zacks",
+          "published": "2026-11-13T12:51:00Z"
+        },
+        {
           "title": "Oil Above $85, Chord Energy Up 58% in a Year: Is It Still a Buy?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/oil-above-85-chord-energy-124300294.html",
           "publisher": "Zacks",
@@ -191,12 +197,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/chevrons-story-changed-shareholders-121251633.html",
           "publisher": "Trefis",
           "published": "2026-11-13T12:12:51Z"
-        },
-        {
-          "title": "XOM, CVX, COP: This Analyst Trims Price Targets, Warns Oil Stocks May 'Struggle To Appreciate'",
-          "url": "https://finance.yahoo.com/energy/articles/xom-cvx-cop-analyst-trims-014936143.html",
-          "publisher": "Stocktwits",
-          "published": "2026-11-13T01:49:36Z"
         }
       ]
     },
@@ -545,6 +545,12 @@
       "market_cap": 80686512407.21875,
       "headlines": [
         {
+          "title": "Oil Staying Above $85: A Growth Catalyst for EOG Resources?",
+          "url": "https://finance.yahoo.com/energy/articles/oil-staying-above-85-growth-125100648.html",
+          "publisher": "Zacks",
+          "published": "2026-11-13T12:51:00Z"
+        },
+        {
           "title": "Oil Above $85, Chord Energy Up 58% in a Year: Is It Still a Buy?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/oil-above-85-chord-energy-124300294.html",
           "publisher": "Zacks",
@@ -555,12 +561,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/occidental-petroleum-stock-fall-30-134155577.html",
           "publisher": "Trefis",
           "published": "2026-11-12T13:41:55Z"
-        },
-        {
-          "title": "Oil Still Above $85, EOG Up 41% in a Year: Is the Stock Still a Buy?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/oil-still-above-85-eog-134100525.html",
-          "publisher": "Zacks",
-          "published": "2026-11-12T13:41:00Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 88.75,
-      "change_pct": 0.01
+      "price": 89.1,
+      "change_pct": 0.41
     },
     {
       "label": "Brent",
-      "price": 96.3,
-      "change_pct": 0.5
+      "price": 96.71,
+      "change_pct": 0.93
     },
     {
       "label": "NatGas",
-      "price": 3.29,
-      "change_pct": -1.59
+      "price": 3.28,
+      "change_pct": -1.68
     }
   ]
 }
