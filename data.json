@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-13T12:43:34+00:00",
-  "as_of_local": "2026-11-13 12:43:34 UTC",
+  "as_of_utc": "2026-11-13T12:48:39+00:00",
+  "as_of_local": "2026-11-13 12:48:39 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "LEU"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -43,6 +41,12 @@
       "market_cap": 422153746875.60736,
       "headlines": [
         {
+          "title": "How Much Does a 69-Year-Old Need Invested in Dividend Stocks to Collect $3,000 a Month?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/much-does-69-old-invested-123222290.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-13T12:32:22Z"
+        },
+        {
           "title": "Chevron And 2 Other Dividend Stocks To Own",
           "url": "https://finance.yahoo.com/markets/stocks/articles/chevron-2-other-dividend-stocks-043832328.html",
           "publisher": "Simply Wall St.",
@@ -53,12 +57,6 @@
           "url": "https://finance.yahoo.com/energy/articles/xom-cvx-cop-analyst-trims-014936143.html",
           "publisher": "Stocktwits",
           "published": "2026-11-13T01:49:36Z"
-        },
-        {
-          "title": "The Blue Wave Crashed on Texas Pacific Land. That Could Be an Opportunity.",
-          "url": "https://www.barrons.com/articles/the-blue-wave-crashed-on-texas-pacific-land-that-could-be-an-opportunity-1302c677?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-11-12T23:14:00Z"
         }
       ]
     },
@@ -1687,6 +1685,34 @@
       ]
     },
     {
+      "symbol": "LEU",
+      "name": "Centrus Energy",
+      "price": 103.92,
+      "previous_close": 112.17,
+      "change_pct": -7.35,
+      "market_cap": 2142669286.2464905,
+      "headlines": [
+        {
+          "title": "NuScale Power Just Dropped 25% in a Month: Nuke Your Shares Now, or Hunker Down and Hold?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nuscale-power-just-dropped-25-200214225.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-12T20:02:14Z"
+        },
+        {
+          "title": "CCJ's Share of Uranium Output Down 20% in Q3: Will 2026 Targets be Met?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ccjs-share-uranium-output-down-124400298.html",
+          "publisher": "Zacks",
+          "published": "2026-11-12T12:44:00Z"
+        },
+        {
+          "title": "Energy Fuels Dips Post Q3 Earnings Miss: How to Play the Stock?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/energy-fuels-dips-post-q3-071400711.html",
+          "publisher": "Zacks",
+          "published": "2026-11-12T07:14:00Z"
+        }
+      ]
+    },
+    {
       "symbol": "RUN",
       "name": "Sunrun",
       "price": 8.52,
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 88.67,
-      "change_pct": -0.08
+      "price": 88.81,
+      "change_pct": 0.08
     },
     {
       "label": "Brent",
-      "price": 96.23,
-      "change_pct": 0.43
+      "price": 96.46,
+      "change_pct": 0.67
     },
     {
       "label": "NatGas",
-      "price": 3.29,
-      "change_pct": -1.44
+      "price": 3.28,
+      "change_pct": -1.68
     }
   ]
 }
