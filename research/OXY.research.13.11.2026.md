@@ -4,8 +4,8 @@ Signed file: `OXY.research.13.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-13, ~15-min delayed) |
-| Market cap | $58.39B |
+| Current price | $58.77 (2026-11-13, ~15-min delayed) |
+| Market cap | $58.76B |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
 | Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `OXY.research.13.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +42.95%; price +4.15% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -10.46% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 32.95%, revenue growth 19.00%. |
-| Value attractiveness | Reasonable | Forward P/E 11.01, EV/Sales 3.04. |
-| Risk level | Moderate | Beta 0.15, ATR nan% of price, short float 0.02%. |
+| Value attractiveness | Reasonable | Forward P/E 11.00, EV/Sales 3.04. |
+| Risk level | Moderate | Beta 0.15, ATR 3.0% of price, short float 0.02%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate.
 
@@ -36,30 +36,30 @@ Occidental Petroleum Corporation, together with its subsidiaries, engages in the
 
 | Headline | Source | Date |
 |---|---|---|
-| Is TALO Worth Buying as Low Valuation Meets Offshore Execution Risk? | Zacks | 2026-11-12 |
-| Can Occidental Petroleum Stock Fall 30%? | Trefis | 2026-11-12 |
-| Occidental Petroleum Q3 Earnings Beat Estimates on Strong Oil Prices | Zacks | 2026-11-12 |
-| Should You Pick Occidental Stock Over Its Competitors? | Trefis | 2026-11-12 |
+| Why You Need To Pay Attention To Occidental Petroleum Stock? | Trefis | 2026-11-13 |
+| Amazon Joins Goldman Sachs’ Conviction List Alongside 4 Other Stock Picks | 24/7 Wall St. | 2026-11-13 |
+| What Would Cheaper Fuel Mean For Exxon Mobil Stock? | Trefis | 2026-11-13 |
+| Occidental Petroleum Generates Strong FCF - Is OXY Stock Too Cheap? | Barchart | 2026-11-13 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $65.63 (+nan%); 52w low $38.38 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 39.6 (neutral) |
-| Volatility | ATR(14) 1.82 (~nan% of price); beta 0.15 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $58.77; 52w high $65.63 (-10.46%); 52w low $38.38 (+53.12%) |
+| Trend | +4.15% vs SMA200, -1.63% vs SMA50, -2.86% vs SMA20 |
+| Momentum | RSI(14) 46.8 (neutral) |
+| Volatility | ATR(14) 1.75 (~3.0% of price); beta 0.15 |
+| Setup perspective | -10.46% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | +4.2% |
+| Month | -3.1% |
+| Quarter | -0.0% |
+| Half Y | -0.5% |
+| 1Y | +43.0% |
+| YTD | +40.6% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ Occidental Petroleum Corporation, together with its subsidiaries, engages in the
 | Revenue (ttm) | $24.97B | Revenue growth 19.00% y/y |
 | Profitability | Gross 74.49%, operating 29.31%, net 32.95% | ROA 5.61%, ROE 13.18% |
 | Balance sheet | Cash $3.88B, debt $12.62B | Current ratio 1.39, debt/equity 28.80 |
-| Valuation | P/E 13.01, forward P/E 11.01, P/S 2.34, P/B 1.67 | EV/Sales 3.04, EV/EBITDA 5.17 |
-| Growth expectations | Earnings growth 149.40%, EPS q/q 117.60% | Analyst mean target $70.78 (27 analysts) |
+| Valuation | P/E 13.09, forward P/E 11.00, P/S 2.35, P/B 1.68 | EV/Sales 3.04, EV/EBITDA 5.17 |
+| Growth expectations | Earnings growth 149.40%, EPS q/q 117.60% | Analyst mean target $71.04 (27 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 59.29% |
+| Institutional ownership | 59.09% |
 | Insider ownership | 26.80% |
 | Short float | 0.02% |
 | Short ratio (days to cover) | 0.0 |
@@ -87,11 +87,11 @@ Occidental Petroleum Corporation, together with its subsidiaries, engages in the
 | Dodge & Cox Inc. | 72,764,944 | 7.28% | 2026-06-30 |
 | Blackrock Inc. | 55,855,049 | 5.59% | 2026-06-30 |
 | Vanguard Capital Management LLC | 48,097,126 | 4.81% | 2026-06-30 |
-| State Street Corporation | 46,141,269 | 4.61% | 2026-06-30 |
+| State Street Corporation | 44,700,374 | 4.47% | 2026-09-30 |
 | Vanguard Portfolio Management LLC | 39,510,431 | 3.95% | 2026-06-30 |
 | Geode Capital Management, LLC | 20,209,520 | 2.02% | 2026-09-30 |
 | Bank Of New York Mellon Corporation | 14,227,693 | 1.42% | 2026-09-30 |
-| Invesco Ltd. | 12,745,004 | 1.27% | 2026-06-30 |
+| Invesco Ltd. | 13,037,874 | 1.30% | 2026-09-30 |
 | Morgan Stanley | 12,240,048 | 1.22% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
@@ -109,21 +109,21 @@ Occidental Petroleum Corporation, together with its subsidiaries, engages in the
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 3.04 |
-| Market cap | $58.39B | EV/EBITDA | 5.17 |
+| Price | $58.77 | EV/Sales | 3.04 |
+| Market cap | $58.76B | EV/EBITDA | 5.17 |
 | Beta | 0.15 | Gross margin | 74.49% |
-| RSI(14) | 39.6 | Operating margin | 29.31% |
-| ATR(14) | 1.82 | Profit margin | 32.95% |
-| SMA20 dist | +nan% | ROA | 5.61% |
-| SMA50 dist | +nan% | ROE | 13.18% |
-| SMA200 dist | +nan% | Revenue (ttm) | $24.97B |
+| RSI(14) | 46.8 | Operating margin | 29.31% |
+| ATR(14) | 1.75 | Profit margin | 32.95% |
+| SMA20 dist | -2.86% | ROA | 5.61% |
+| SMA50 dist | -1.63% | ROE | 13.18% |
+| SMA200 dist | +4.15% | Revenue (ttm) | $24.97B |
 | 52W high | $65.63 | Revenue growth y/y | 19.00% |
-| 52W low | $38.38 | Inst. ownership | 59.29% |
-| P/E (ttm) | 13.01 | Insider ownership | 26.80% |
-| Forward P/E | 11.01 | Short float | 0.02% |
-| PEG (trailing) | 0.86 | Avg volume | 8,909,585 |
-| P/S | 2.34 | Employees | 10,412 |
-| P/B | 1.67 | Analyst rec (1=buy..5=sell) | 2.2 |
+| 52W low | $38.38 | Inst. ownership | 59.09% |
+| P/E (ttm) | 13.09 | Insider ownership | 26.80% |
+| Forward P/E | 11.00 | Short float | 0.02% |
+| PEG (trailing) | 0.88 | Avg volume | 9,065,942 |
+| P/S | 2.35 | Employees | 10,412 |
+| P/B | 1.68 | Analyst rec (1=buy..5=sell) | 2.2 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

@@ -4,24 +4,24 @@ Signed file: `CCJ.research.13.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-13, ~15-min delayed) |
-| Market cap | $31.26B |
+| Current price | $70.93 (2026-11-13, ~15-min delayed) |
+| Market cap | $30.89B |
 | Sector / Industry | Energy / Uranium |
 | Main theme | Uranium — see catalysts below |
-| Current stance | Moderate technical momentum, mixed fundamentals, value: low (expensive), risk: moderate. |
+| Current stance | Low technical momentum, mixed fundamentals, value: low (expensive), risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-13.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-30.30%) with negative half-year (-34.02%). |
+| Fresh setup quality | Poor / broken | -47.10% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 11.43%, revenue growth 0.70%. |
-| Value attractiveness | Low (expensive) | Forward P/E 41.90, EV/Sales 9.02. |
-| Risk level | Moderate | Beta 1.13, ATR nan% of price, short float —. |
+| Value attractiveness | Low (expensive) | Forward P/E 41.40, EV/Sales 9.03. |
+| Risk level | High | Beta 1.13, ATR 5.0% of price, short float —. |
 
-**Bottom line:** Moderate technical momentum, mixed fundamentals, value: low (expensive), risk: moderate.
+**Bottom line:** Low technical momentum, mixed fundamentals, value: low (expensive), risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -36,30 +36,30 @@ Cameco Corporation provides uranium for the generation of electricity in the Ame
 
 | Headline | Source | Date |
 |---|---|---|
+| UUUU Bets on Pinyon Plain to Meet 2026 Output Goals: Will It Pay Off? | Zacks | 2026-11-13 |
 | CCJ's Share of Uranium Output Down 20% in Q3: Will 2026 Targets be Met? | Zacks | 2026-11-12 |
 | 3 AI Power Stocks With Earnings Growth Over 21% | Simply Wall St. | 2026-11-12 |
 | The Best Uranium Stocks to Buy and Hold as Nuclear Power Expands | Motley Fool | 2026-11-12 |
-| Energy Fuels Dips Post Q3 Earnings Miss: How to Play the Stock? | Zacks | 2026-11-12 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $134.09 (+nan%); 52w low $68.33 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 41.5 (neutral) |
-| Volatility | ATR(14) 3.70 (~nan% of price); beta 1.13 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $70.93; 52w high $134.09 (-47.10%); 52w low $68.33 (+3.81%) |
+| Trend | -30.30% vs SMA200, -16.27% vs SMA50, -7.22% vs SMA20 |
+| Momentum | RSI(14) 37.0 (neutral) |
+| Volatility | ATR(14) 3.58 (~5.0% of price); beta 1.13 |
+| Setup perspective | -47.10% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -0.5% |
+| Month | -14.8% |
+| Quarter | -28.0% |
+| Half Y | -34.0% |
+| 1Y | -23.2% |
+| YTD | -28.0% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ Cameco Corporation provides uranium for the generation of electricity in the Ame
 | Revenue (ttm) | $3.48B | Revenue growth 0.70% y/y |
 | Profitability | Gross 33.83%, operating 12.89%, net 11.43% | ROA 2.79%, ROE 5.68% |
 | Balance sheet | Cash $859.82M, debt $1.01B | Current ratio 2.55, debt/equity 13.95 |
-| Valuation | P/E 108.76, forward P/E 41.90, P/S 8.99, P/B 6.07 | EV/Sales 9.02, EV/EBITDA 40.34 |
-| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $115.64 (9 analysts) |
+| Valuation | P/E 107.47, forward P/E 41.40, P/S 8.88, P/B 6.00 | EV/Sales 9.03, EV/EBITDA 40.36 |
+| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $115.53 (9 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 69.35% |
+| Institutional ownership | 68.59% |
 | Insider ownership | 0.14% |
 | Short float | — |
 | Short ratio (days to cover) | 2.7 |
@@ -84,7 +84,7 @@ Cameco Corporation provides uranium for the generation of electricity in the Ame
 | Holder | Shares | % Out | Reported |
 |---|---|---|---|
 | Mirae Asset Global ETFs Holdings Ltd. | 15,550,064 | 3.57% | 2026-06-30 |
-| Capital World Investors | 13,365,106 | 3.07% | 2026-06-30 |
+| Capital World Investors | 12,893,567 | 2.96% | 2026-09-30 |
 | Vanguard Capital Management LLC | 12,015,804 | 2.76% | 2026-06-30 |
 | Royal Bank of Canada | 10,910,330 | 2.51% | 2026-06-30 |
 | Bank of Montreal /CAN/ | 7,903,994 | 1.81% | 2026-09-30 |
@@ -95,7 +95,9 @@ Cameco Corporation provides uranium for the generation of electricity in the Ame
 | Geode Capital Management, LLC | 5,478,174 | 1.26% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 41.90, EV/Sales 9.02. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 41.40, EV/Sales 9.03. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 1.13, ATR 5.0% of price, short float —. Size positions accordingly.
+- **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -110,21 +112,21 @@ Cameco Corporation provides uranium for the generation of electricity in the Ame
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 9.02 |
-| Market cap | $31.26B | EV/EBITDA | 40.34 |
+| Price | $70.93 | EV/Sales | 9.03 |
+| Market cap | $30.89B | EV/EBITDA | 40.36 |
 | Beta | 1.13 | Gross margin | 33.83% |
-| RSI(14) | 41.5 | Operating margin | 12.89% |
-| ATR(14) | 3.70 | Profit margin | 11.43% |
-| SMA20 dist | +nan% | ROA | 2.79% |
-| SMA50 dist | +nan% | ROE | 5.68% |
-| SMA200 dist | +nan% | Revenue (ttm) | $3.48B |
+| RSI(14) | 37.0 | Operating margin | 12.89% |
+| ATR(14) | 3.58 | Profit margin | 11.43% |
+| SMA20 dist | -7.22% | ROA | 2.79% |
+| SMA50 dist | -16.27% | ROE | 5.68% |
+| SMA200 dist | -30.30% | Revenue (ttm) | $3.48B |
 | 52W high | $134.09 | Revenue growth y/y | 0.70% |
-| 52W low | $68.33 | Inst. ownership | 69.35% |
-| P/E (ttm) | 108.76 | Insider ownership | 0.14% |
-| Forward P/E | 41.90 | Short float | — |
-| PEG (trailing) | — | Avg volume | 3,340,731 |
-| P/S | 8.99 | Employees | 0 |
-| P/B | 6.07 | Analyst rec (1=buy..5=sell) | 1.5 |
+| 52W low | $68.33 | Inst. ownership | 68.59% |
+| P/E (ttm) | 107.47 | Insider ownership | 0.14% |
+| Forward P/E | 41.40 | Short float | — |
+| PEG (trailing) | — | Avg volume | 3,359,364 |
+| P/S | 8.88 | Employees | 0 |
+| P/B | 6.00 | Analyst rec (1=buy..5=sell) | 1.5 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
@@ -139,7 +141,7 @@ Cameco Corporation provides uranium for the generation of electricity in the Ame
 | 2026-07-09 | main | B of A Securities | Buy → Buy |
 
 ## 9. Conclusion
-CCJ: Moderate momentum / mixed fundamentals / low (expensive) value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+CCJ: Low momentum / mixed fundamentals / low (expensive) value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

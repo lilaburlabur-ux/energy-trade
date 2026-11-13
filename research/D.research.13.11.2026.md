@@ -4,8 +4,8 @@ Signed file: `D.research.13.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-13, ~15-min delayed) |
-| Market cap | $59.38B |
+| Current price | $67.38 (2026-11-13, ~15-min delayed) |
+| Market cap | $59.27B |
 | Sector / Industry | Utilities / Utilities - Regulated Electric |
 | Main theme | Utilities - Regulated Electric — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `D.research.13.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +14.48%; price +4.67% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -5.06% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 13.99%, revenue growth 24.10%. |
-| Value attractiveness | Reasonable | Forward P/E 17.68, EV/Sales 6.27. |
-| Risk level | Moderate | Beta 0.59, ATR nan% of price, short float 2.81%. |
+| Value attractiveness | Reasonable | Forward P/E 17.64, EV/Sales 6.27. |
+| Risk level | Moderate | Beta 0.59, ATR 1.9% of price, short float 2.81%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
@@ -36,30 +36,30 @@ Dominion Energy, Inc. provides regulated electricity and natural gas services in
 
 | Headline | Source | Date |
 |---|---|---|
+| How Much You Need in Southern, Dominion and AEP to Collect $1,000 a Month | 24/7 Wall St. | 2026-11-13 |
 | Is NextEra Energy Stock A Real Bargain? | Trefis | 2026-11-12 |
 | ETFs Are Net Sellers of Dominion (D) on Nov. 10 | GuruFocus.com | 2026-11-12 |
 | NextEra Energy (NEE) Draws Fresh Virginia Questions Over Merger Consumer Protections | Simply Wall St. | 2026-11-12 |
-| NextEra Energy (NEE) Could Be 8% Undervalued After Dominion Merger Scrutiny | Simply Wall St. | 2026-11-12 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $70.97 (+nan%); 52w low $55.36 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 61.4 (neutral) |
-| Volatility | ATR(14) 1.36 (~nan% of price); beta 0.59 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $67.38; 52w high $70.97 (-5.06%); 52w low $55.36 (+21.71%) |
+| Trend | +4.67% vs SMA200, +5.09% vs SMA50, +1.59% vs SMA20 |
+| Momentum | RSI(14) 57.4 (neutral) |
+| Volatility | ATR(14) 1.31 (~1.9% of price); beta 0.59 |
+| Setup perspective | -5.06% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -1.8% |
+| Month | +7.2% |
+| Quarter | -1.0% |
+| Half Y | +11.4% |
+| 1Y | +14.5% |
+| YTD | +17.3% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,14 +68,14 @@ Dominion Energy, Inc. provides regulated electricity and natural gas services in
 | Revenue (ttm) | $19.21B | Revenue growth 24.10% y/y |
 | Profitability | Gross 46.51%, operating 31.23%, net 13.99% | ROA 3.17%, ROE 8.82% |
 | Balance sheet | Cash $435.00M, debt $55.60B | Current ratio 0.88, debt/equity 161.56 |
-| Valuation | P/E 22.28, forward P/E 17.68, P/S 3.09, P/B 2.08 | EV/Sales 6.27, EV/EBITDA 13.56 |
+| Valuation | P/E 22.24, forward P/E 17.64, P/S 3.09, P/B 2.08 | EV/Sales 6.27, EV/EBITDA 13.56 |
 | Growth expectations | Earnings growth 12.00%, EPS q/q 15.30% | Analyst mean target $70.17 (12 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 84.39% |
-| Insider ownership | 0.14% |
+| Institutional ownership | 83.91% |
+| Insider ownership | 0.13% |
 | Short float | 2.81% |
 | Short ratio (days to cover) | 5.6 |
 
@@ -83,18 +83,19 @@ Dominion Energy, Inc. provides regulated electricity and natural gas services in
 
 | Holder | Shares | % Out | Reported |
 |---|---|---|---|
-| Capital Research Global Investors | 73,855,890 | 8.40% | 2026-06-30 |
+| Capital Research Global Investors | 86,949,702 | 9.89% | 2026-09-30 |
 | Blackrock Inc. | 73,018,575 | 8.30% | 2026-06-30 |
 | Vanguard Capital Management LLC | 57,396,293 | 6.53% | 2026-06-30 |
-| State Street Corporation | 50,917,469 | 5.79% | 2026-06-30 |
+| State Street Corporation | 52,404,569 | 5.96% | 2026-09-30 |
 | Vanguard Portfolio Management LLC | 45,067,363 | 5.12% | 2026-06-30 |
 | Wellington Management Group, LLP | 40,867,860 | 4.65% | 2026-06-30 |
-| Massachusetts Financial Services Co. | 20,030,451 | 2.28% | 2026-06-30 |
 | Geode Capital Management, LLC | 20,037,360 | 2.28% | 2026-09-30 |
 | Dodge & Cox Inc. | 18,303,470 | 2.08% | 2026-06-30 |
-| JPMORGAN CHASE & CO | 14,884,625 | 1.69% | 2026-06-30 |
+| Massachusetts Financial Services Co. | 17,895,123 | 2.03% | 2026-09-30 |
+| Bank of America Corporation | 14,599,270 | 1.66% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
+- **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -109,19 +110,19 @@ Dominion Energy, Inc. provides regulated electricity and natural gas services in
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 6.27 |
-| Market cap | $59.38B | EV/EBITDA | 13.56 |
+| Price | $67.38 | EV/Sales | 6.27 |
+| Market cap | $59.27B | EV/EBITDA | 13.56 |
 | Beta | 0.59 | Gross margin | 46.51% |
-| RSI(14) | 61.4 | Operating margin | 31.23% |
-| ATR(14) | 1.36 | Profit margin | 13.99% |
-| SMA20 dist | +nan% | ROA | 3.17% |
-| SMA50 dist | +nan% | ROE | 8.82% |
-| SMA200 dist | +nan% | Revenue (ttm) | $19.21B |
+| RSI(14) | 57.4 | Operating margin | 31.23% |
+| ATR(14) | 1.31 | Profit margin | 13.99% |
+| SMA20 dist | +1.59% | ROA | 3.17% |
+| SMA50 dist | +5.09% | ROE | 8.82% |
+| SMA200 dist | +4.67% | Revenue (ttm) | $19.21B |
 | 52W high | $70.97 | Revenue growth y/y | 24.10% |
-| 52W low | $55.36 | Inst. ownership | 84.39% |
-| P/E (ttm) | 22.28 | Insider ownership | 0.14% |
-| Forward P/E | 17.68 | Short float | 2.81% |
-| PEG (trailing) | 2.65 | Avg volume | 4,544,570 |
+| 52W low | $55.36 | Inst. ownership | 83.91% |
+| P/E (ttm) | 22.24 | Insider ownership | 0.13% |
+| Forward P/E | 17.64 | Short float | 2.81% |
+| PEG (trailing) | 2.62 | Avg volume | 4,544,326 |
 | P/S | 3.09 | Employees | 15,200 |
 | P/B | 2.08 | Analyst rec (1=buy..5=sell) | 2.6 |
 

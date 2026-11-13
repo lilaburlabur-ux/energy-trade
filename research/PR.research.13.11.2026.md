@@ -4,24 +4,24 @@ Signed file: `PR.research.13.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-13, ~15-min delayed) |
-| Market cap | $19.10B |
+| Current price | $23.06 (2026-11-13, ~15-min delayed) |
+| Market cap | $19.34B |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
-| Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate. |
+| Current stance | High technical momentum, strong fundamentals, value: reasonable, risk: elevated. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-13.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +79.24%; price +12.00% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -11.40% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 25.04%, revenue growth 48.10%. |
-| Value attractiveness | Reasonable | Forward P/E 8.83, EV/Sales 3.49. |
-| Risk level | Moderate | Beta 0.58, ATR nan% of price, short float 3.71%. |
+| Value attractiveness | Reasonable | Forward P/E 8.30, EV/Sales 3.49. |
+| Risk level | Elevated | Beta 0.58, ATR 3.6% of price, short float 3.71%. |
 
-**Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate.
+**Bottom line:** High technical momentum, strong fundamentals, value: reasonable, risk: elevated.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -36,30 +36,30 @@ Permian Resources Corporation, an independent oil and natural gas company, focus
 
 | Headline | Source | Date |
 |---|---|---|
+| Is Permian Resources (PR) a Solid Growth Stock? 3 Reasons to Think "Yes" | Zacks | 2026-11-13 |
 | The Blue Wave Crashed on Texas Pacific Land. That Could Be an Opportunity. | Barrons.com | 2026-11-12 |
 | The Oil Slump Has Gone Too Far. Where Prices Could Go Next. | Barrons.com | 2026-11-09 |
 | The top 5 analyst questions from Permian Resources’s Q3 2026 earnings call | StockStory | 2026-11-08 |
-| Permian Resources Q3 Earnings Call Highlights | MarketBeat | 2026-11-08 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $26.02 (+nan%); 52w low $12.86 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 42.4 (neutral) |
-| Volatility | ATR(14) 0.87 (~nan% of price); beta 0.58 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $23.06; 52w high $26.02 (-11.40%); 52w low $12.86 (+79.24%) |
+| Trend | +12.00% vs SMA200, -0.69% vs SMA50, -3.57% vs SMA20 |
+| Momentum | RSI(14) 48.3 (neutral) |
+| Volatility | ATR(14) 0.83 (~3.6% of price); beta 0.58 |
+| Setup perspective | -11.40% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | +6.0% |
+| Month | -2.4% |
+| Quarter | +4.6% |
+| Half Y | +12.3% |
+| 1Y | +79.2% |
+| YTD | +63.9% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ Permian Resources Corporation, an independent oil and natural gas company, focus
 | Revenue (ttm) | $6.37B | Revenue growth 48.10% y/y |
 | Profitability | Gross 77.14%, operating 35.35%, net 25.04% | ROA 7.73%, ROE 13.95% |
 | Balance sheet | Cash $95.03M, debt $3.24B | Current ratio 0.50, debt/equity 26.32 |
-| Valuation | P/E 11.80, forward P/E 8.83, P/S 3.00, P/B 1.55 | EV/Sales 3.49, EV/EBITDA 5.05 |
-| Growth expectations | Earnings growth 512.50%, EPS q/q 609.30% | Analyst mean target $28.81 (21 analysts) |
+| Valuation | P/E 11.95, forward P/E 8.30, P/S 3.03, P/B 1.57 | EV/Sales 3.49, EV/EBITDA 5.05 |
+| Growth expectations | Earnings growth 512.50%, EPS q/q 609.30% | Analyst mean target $28.86 (21 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 93.31% |
+| Institutional ownership | 97.14% |
 | Insider ownership | 4.60% |
 | Short float | 3.71% |
 | Short ratio (days to cover) | 3.5 |
@@ -85,16 +85,17 @@ Permian Resources Corporation, an independent oil and natural gas company, focus
 |---|---|---|---|
 | Blackrock Inc. | 79,044,298 | 9.42% | 2026-06-30 |
 | Vanguard Portfolio Management LLC | 41,264,996 | 4.92% | 2026-06-30 |
+| Capital World Investors | 40,193,349 | 4.79% | 2026-09-30 |
 | Price (T.Rowe) Associates Inc | 38,222,120 | 4.56% | 2026-06-30 |
 | Vanguard Capital Management LLC | 35,747,918 | 4.26% | 2026-06-30 |
-| State Street Corporation | 27,699,371 | 3.30% | 2026-06-30 |
+| State Street Corporation | 29,753,207 | 3.55% | 2026-09-30 |
 | T. Rowe Price Investment Management, Inc. | 21,604,211 | 2.58% | 2026-06-30 |
+| Invesco Ltd. | 21,220,202 | 2.53% | 2026-09-30 |
 | Post Oak Energy Holdings, LLC | 21,048,629 | 2.51% | 2026-06-30 |
-| Barrow, Hanley Mewhinney & Strauss, LLC | 20,979,855 | 2.50% | 2026-06-30 |
-| Capital World Investors | 20,324,301 | 2.42% | 2026-06-30 |
-| Wellington Management Group, LLP | 20,156,113 | 2.40% | 2026-06-30 |
+| Barrow, Hanley Mewhinney & Strauss, LLC | 20,650,651 | 2.46% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
+- **Volatility risk:** Beta 0.58, ATR 3.6% of price, short float 3.71%. Size positions accordingly.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -109,21 +110,21 @@ Permian Resources Corporation, an independent oil and natural gas company, focus
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 3.49 |
-| Market cap | $19.10B | EV/EBITDA | 5.05 |
+| Price | $23.06 | EV/Sales | 3.49 |
+| Market cap | $19.34B | EV/EBITDA | 5.05 |
 | Beta | 0.58 | Gross margin | 77.14% |
-| RSI(14) | 42.4 | Operating margin | 35.35% |
-| ATR(14) | 0.87 | Profit margin | 25.04% |
-| SMA20 dist | +nan% | ROA | 7.73% |
-| SMA50 dist | +nan% | ROE | 13.95% |
-| SMA200 dist | +nan% | Revenue (ttm) | $6.37B |
+| RSI(14) | 48.3 | Operating margin | 35.35% |
+| ATR(14) | 0.83 | Profit margin | 25.04% |
+| SMA20 dist | -3.57% | ROA | 7.73% |
+| SMA50 dist | -0.69% | ROE | 13.95% |
+| SMA200 dist | +12.00% | Revenue (ttm) | $6.37B |
 | 52W high | $26.02 | Revenue growth y/y | 48.10% |
-| 52W low | $12.86 | Inst. ownership | 93.31% |
-| P/E (ttm) | 11.80 | Insider ownership | 4.60% |
-| Forward P/E | 8.83 | Short float | 3.71% |
-| PEG (trailing) | 0.77 | Avg volume | 9,966,575 |
-| P/S | 3.00 | Employees | 515 |
-| P/B | 1.55 | Analyst rec (1=buy..5=sell) | 1.3 |
+| 52W low | $12.86 | Inst. ownership | 97.14% |
+| P/E (ttm) | 11.95 | Insider ownership | 4.60% |
+| Forward P/E | 8.30 | Short float | 3.71% |
+| PEG (trailing) | 0.79 | Avg volume | 10,000,154 |
+| P/S | 3.03 | Employees | 515 |
+| P/B | 1.57 | Analyst rec (1=buy..5=sell) | 1.3 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
@@ -138,7 +139,7 @@ Permian Resources Corporation, an independent oil and natural gas company, focus
 | 2026-10-12 | main | Truist Securities | Buy → Buy |
 
 ## 9. Conclusion
-PR: Moderate momentum / strong fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+PR: High momentum / strong fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

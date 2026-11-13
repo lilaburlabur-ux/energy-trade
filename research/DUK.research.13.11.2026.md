@@ -4,8 +4,8 @@ Signed file: `DUK.research.13.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-13, ~15-min delayed) |
-| Market cap | $100.26B |
+| Current price | $129.48 (2026-11-13, ~15-min delayed) |
+| Market cap | $100.96B |
 | Sector / Industry | Utilities / Utilities - Regulated Electric |
 | Main theme | Utilities - Regulated Electric — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `DUK.research.13.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +8.17%; price +4.73% vs SMA200. |
+| Fresh setup quality | Watch | -1.28% from 52w high and near SMA20 — check for a tight base. |
 | Fundamental quality | Mixed | Profit margin 16.16%, revenue growth 6.60%. |
-| Value attractiveness | Reasonable | Forward P/E 17.95, EV/Sales 5.90. |
-| Risk level | Moderate | Beta 0.31, ATR nan% of price, short float 2.57%. |
+| Value attractiveness | Reasonable | Forward P/E 18.07, EV/Sales 5.90. |
+| Risk level | Moderate | Beta 0.31, ATR 1.7% of price, short float 2.57%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
@@ -44,22 +44,22 @@ Duke Energy Corporation, through its subsidiaries, operates as an energy company
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $131.16 (+nan%); 52w low $111.09 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 63.9 (neutral) |
-| Volatility | ATR(14) 2.21 (~nan% of price); beta 0.31 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $129.48; 52w high $131.16 (-1.28%); 52w low $111.09 (+16.55%) |
+| Trend | +4.73% vs SMA200, +7.31% vs SMA50, +2.60% vs SMA20 |
+| Momentum | RSI(14) 65.3 (neutral) |
+| Volatility | ATR(14) 2.14 (~1.7% of price); beta 0.31 |
+| Setup perspective | -1.28% from 52w high and near SMA20 — check for a tight base. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | +1.3% |
+| Month | +8.9% |
+| Quarter | +4.8% |
+| Half Y | +8.0% |
+| 1Y | +8.2% |
+| YTD | +13.1% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Duke Energy Corporation, through its subsidiaries, operates as an energy company
 | Revenue (ttm) | $33.37B | Revenue growth 6.60% y/y |
 | Profitability | Gross 52.58%, operating 27.77%, net 16.16% | ROA 2.92%, ROE 10.10% |
 | Balance sheet | Cash $451.00M, debt $93.78B | Current ratio 0.68, debt/equity 162.98 |
-| Valuation | P/E 18.85, forward P/E 17.95, P/S 3.01, P/B 1.84 | EV/Sales 5.90, EV/EBITDA 11.74 |
+| Valuation | P/E 18.99, forward P/E 18.07, P/S 3.03, P/B 1.86 | EV/Sales 5.90, EV/EBITDA 11.74 |
 | Growth expectations | Earnings growth 10.00%, EPS q/q 10.10% | Analyst mean target $132.26 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -85,16 +85,17 @@ Duke Energy Corporation, through its subsidiaries, operates as an energy company
 |---|---|---|---|
 | Blackrock Inc. | 70,543,988 | 9.05% | 2026-06-30 |
 | Vanguard Capital Management LLC | 50,837,658 | 6.52% | 2026-06-30 |
-| State Street Corporation | 44,953,588 | 5.77% | 2026-06-30 |
+| State Street Corporation | 46,475,241 | 5.96% | 2026-09-30 |
 | Geode Capital Management, LLC | 20,768,089 | 2.66% | 2026-09-30 |
 | Vanguard Portfolio Management LLC | 20,366,327 | 2.61% | 2026-06-30 |
 | Morgan Stanley | 13,107,459 | 1.68% | 2026-06-30 |
-| Massachusetts Financial Services Co. | 12,742,489 | 1.63% | 2026-06-30 |
-| Franklin Resources, Inc. | 10,537,072 | 1.35% | 2026-06-30 |
+| Massachusetts Financial Services Co. | 11,780,753 | 1.51% | 2026-09-30 |
+| Franklin Resources, Inc. | 10,543,459 | 1.35% | 2026-09-30 |
 | Charles Schwab Investment Management, Inc. | 9,226,192 | 1.18% | 2026-06-30 |
 | FMR, LLC | 8,928,138 | 1.15% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
+- **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -109,21 +110,21 @@ Duke Energy Corporation, through its subsidiaries, operates as an energy company
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 5.90 |
-| Market cap | $100.26B | EV/EBITDA | 11.74 |
+| Price | $129.48 | EV/Sales | 5.90 |
+| Market cap | $100.96B | EV/EBITDA | 11.74 |
 | Beta | 0.31 | Gross margin | 52.58% |
-| RSI(14) | 63.9 | Operating margin | 27.77% |
-| ATR(14) | 2.21 | Profit margin | 16.16% |
-| SMA20 dist | +nan% | ROA | 2.92% |
-| SMA50 dist | +nan% | ROE | 10.10% |
-| SMA200 dist | +nan% | Revenue (ttm) | $33.37B |
+| RSI(14) | 65.3 | Operating margin | 27.77% |
+| ATR(14) | 2.14 | Profit margin | 16.16% |
+| SMA20 dist | +2.60% | ROA | 2.92% |
+| SMA50 dist | +7.31% | ROE | 10.10% |
+| SMA200 dist | +4.73% | Revenue (ttm) | $33.37B |
 | 52W high | $131.16 | Revenue growth y/y | 6.60% |
 | 52W low | $111.09 | Inst. ownership | 71.42% |
-| P/E (ttm) | 18.85 | Insider ownership | 0.13% |
-| Forward P/E | 17.95 | Short float | 2.57% |
-| PEG (trailing) | 2.40 | Avg volume | 4,042,734 |
-| P/S | 3.01 | Employees | 26,441 |
-| P/B | 1.84 | Analyst rec (1=buy..5=sell) | 2.1 |
+| P/E (ttm) | 18.99 | Insider ownership | 0.13% |
+| Forward P/E | 18.07 | Short float | 2.57% |
+| PEG (trailing) | 2.39 | Avg volume | 4,045,517 |
+| P/S | 3.03 | Employees | 26,441 |
+| P/B | 1.86 | Analyst rec (1=buy..5=sell) | 2.1 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
