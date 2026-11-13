@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-13T06:24:23+00:00",
-  "as_of_local": "2026-11-13 06:24:23 UTC",
+  "as_of_utc": "2026-11-13T06:39:12+00:00",
+  "as_of_local": "2026-11-13 06:39:12 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -293,6 +293,12 @@
       "market_cap": 107659218772.84708,
       "headlines": [
         {
+          "title": "Is Southern (SO) Fairly Valued As It Files For 5,000,000 New Shares?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/southern-fairly-valued-files-5-061104781.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-13T06:11:04Z"
+        },
+        {
           "title": "What Does Southern (SO) $1.75 Billion Equity Units Offering Mean For Investors?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/does-southern-1-75-billion-232634325.html",
           "publisher": "Simply Wall St.",
@@ -303,12 +309,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/cash-consider-vistra-stock-211551348.html",
           "publisher": "Trefis",
           "published": "2026-11-12T21:15:51Z"
-        },
-        {
-          "title": "Is NextEra Energy Stock A Real Bargain?",
-          "url": "https://finance.yahoo.com/energy/articles/nextera-energy-stock-real-bargain-210851417.html",
-          "publisher": "Trefis",
-          "published": "2026-11-12T21:08:51Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 88.61,
-      "change_pct": -0.15
+      "price": 88.55,
+      "change_pct": -0.21
     },
     {
       "label": "Brent",
-      "price": 96.2,
-      "change_pct": 0.4
+      "price": 96.05,
+      "change_pct": 0.24
     },
     {
       "label": "NatGas",
-      "price": 3.31,
-      "change_pct": -0.9
+      "price": 3.3,
+      "change_pct": -1.14
     }
   ]
 }
