@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-13T11:22:31+00:00",
-  "as_of_local": "2026-11-13 11:22:31 UTC",
+  "as_of_utc": "2026-11-13T11:27:38+00:00",
+  "as_of_local": "2026-11-13 11:27:38 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "SO"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -283,6 +281,34 @@
           "url": "https://finance.yahoo.com/energy/articles/halliburton-expands-geothermal-footprint-sage-122200542.html",
           "publisher": "Zacks",
           "published": "2026-11-12T12:22:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "SO",
+      "name": "Southern Company",
+      "price": 92.47,
+      "previous_close": 93.84,
+      "change_pct": -1.46,
+      "market_cap": 107659218772.84708,
+      "headlines": [
+        {
+          "title": "Is Southern (SO) Fairly Valued As It Files For 5,000,000 New Shares?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/southern-fairly-valued-files-5-061104781.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-13T06:11:04Z"
+        },
+        {
+          "title": "What Does Southern (SO) $1.75 Billion Equity Units Offering Mean For Investors?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/does-southern-1-75-billion-232634325.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-12T23:26:34Z"
+        },
+        {
+          "title": "Do You Like Cash? Consider Vistra Stock",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/cash-consider-vistra-stock-211551348.html",
+          "publisher": "Trefis",
+          "published": "2026-11-12T21:15:51Z"
         }
       ]
     },
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 88.17,
-      "change_pct": -0.64
+      "price": 88.15,
+      "change_pct": -0.66
     },
     {
       "label": "Brent",
-      "price": 95.7,
-      "change_pct": -0.13
+      "price": 95.69,
+      "change_pct": -0.14
     },
     {
       "label": "NatGas",
       "price": 3.28,
-      "change_pct": -1.83
+      "change_pct": -1.95
     }
   ]
 }
