@@ -4,8 +4,8 @@ Signed file: `ENPH.research.13.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $25.90 (2026-11-13, ~15-min delayed) |
-| Market cap | $3.43B |
+| Current price | $26.07 (2026-11-13, ~15-min delayed) |
+| Market cap | $3.45B |
 | Sector / Industry | Technology / Solar |
 | Main theme | Solar — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: high. |
@@ -15,11 +15,11 @@ Signed file: `ENPH.research.13.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-36.00%) with negative half-year (-51.04%). |
-| Fresh setup quality | Poor / broken | -64.20% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-35.57%) with negative half-year (-50.71%). |
+| Fresh setup quality | Poor / broken | -63.96% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 7.49%, revenue growth -28.50%. |
-| Value attractiveness | Reasonable | Forward P/E 18.16, EV/Sales 2.66. |
-| Risk level | High | Beta 1.45, ATR 8.2% of price, short float 24.85%. |
+| Value attractiveness | Reasonable | Forward P/E 18.29, EV/Sales 2.66. |
+| Risk level | High | Beta 1.45, ATR 8.1% of price, short float 24.85%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: high.
 
@@ -44,22 +44,22 @@ Enphase Energy, Inc., together with its subsidiaries, designs, develops, manufac
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $25.90; 52w high $72.33 (-64.20%); 52w low $24.99 (+3.62%) |
-| Trend | -36.00% vs SMA200, -18.80% vs SMA50, -10.62% vs SMA20 |
-| Momentum | RSI(14) 37.8 (neutral) |
-| Volatility | ATR(14) 2.12 (~8.2% of price); beta 1.45 |
-| Setup perspective | -64.20% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $26.07; 52w high $72.33 (-63.96%); 52w low $24.99 (+4.32%) |
+| Trend | -35.57% vs SMA200, -18.26% vs SMA50, -10.05% vs SMA20 |
+| Momentum | RSI(14) 38.2 (neutral) |
+| Volatility | ATR(14) 2.12 (~8.1% of price); beta 1.45 |
+| Setup perspective | -63.96% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -9.0% |
-| Month | -16.0% |
-| Quarter | -33.0% |
-| Half Y | -51.0% |
-| 1Y | -15.7% |
-| YTD | -23.3% |
+| Week | -8.4% |
+| Month | -15.4% |
+| Quarter | -32.5% |
+| Half Y | -50.7% |
+| 1Y | -15.1% |
+| YTD | -22.8% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Enphase Energy, Inc., together with its subsidiaries, designs, develops, manufac
 | Revenue (ttm) | $1.21B | Revenue growth -28.50% y/y |
 | Profitability | Gross 24.10%, operating 0.65%, net 7.49% | ROA 0.16%, ROE 8.11% |
 | Balance sheet | Cash $931.85M, debt $614.56M | Current ratio 4.09, debt/equity 49.48 |
-| Valuation | P/E 38.64, forward P/E 18.16, P/S 2.83, P/B 2.76 | EV/Sales 2.66, EV/EBITDA 38.41 |
+| Valuation | P/E 38.91, forward P/E 18.29, P/S 2.85, P/B 2.78 | EV/Sales 2.66, EV/EBITDA 38.41 |
 | Growth expectations | Earnings growth -65.20%, EPS q/q -64.90% | Analyst mean target $40.58 (25 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -86,16 +86,16 @@ Enphase Energy, Inc., together with its subsidiaries, designs, develops, manufac
 | Blackrock Inc. | 23,451,983 | 17.72% | 2026-06-30 |
 | Vanguard Portfolio Management LLC | 9,066,675 | 6.85% | 2026-06-30 |
 | Vanguard Capital Management LLC | 5,730,831 | 4.33% | 2026-06-30 |
-| State Street Corporation | 4,746,637 | 3.59% | 2026-09-30 |
+| State Street Corporation | 4,746,613 | 3.59% | 2026-06-30 |
 | Two Sigma Investments, LP | 4,655,692 | 3.52% | 2026-06-30 |
+| Invesco Ltd. | 3,661,439 | 2.77% | 2026-06-30 |
 | Gilder Gagnon Howe & Co LLC | 3,478,961 | 2.63% | 2026-06-30 |
-| Invesco Ltd. | 3,030,370 | 2.29% | 2026-09-30 |
 | Slate Path Capital, LP | 2,587,170 | 1.96% | 2026-06-30 |
 | Geode Capital Management, LLC | 2,481,329 | 1.88% | 2026-09-30 |
-| Morgan Stanley | 2,408,561 | 1.82% | 2026-06-30 |
+| JPMORGAN CHASE & CO | 2,416,246 | 1.83% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.45, ATR 8.2% of price, short float 24.85%. Size positions accordingly.
+- **Volatility risk:** Beta 1.45, ATR 8.1% of price, short float 24.85%. Size positions accordingly.
 - **Short interest risk:** short float 24.85% can fuel squeezes both ways around news.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
@@ -112,21 +112,21 @@ Enphase Energy, Inc., together with its subsidiaries, designs, develops, manufac
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $25.90 | EV/Sales | 2.66 |
-| Market cap | $3.43B | EV/EBITDA | 38.41 |
+| Price | $26.07 | EV/Sales | 2.66 |
+| Market cap | $3.45B | EV/EBITDA | 38.41 |
 | Beta | 1.45 | Gross margin | 24.10% |
-| RSI(14) | 37.8 | Operating margin | 0.65% |
+| RSI(14) | 38.2 | Operating margin | 0.65% |
 | ATR(14) | 2.12 | Profit margin | 7.49% |
-| SMA20 dist | -10.62% | ROA | 0.16% |
-| SMA50 dist | -18.80% | ROE | 8.11% |
-| SMA200 dist | -36.00% | Revenue (ttm) | $1.21B |
+| SMA20 dist | -10.05% | ROA | 0.16% |
+| SMA50 dist | -18.26% | ROE | 8.11% |
+| SMA200 dist | -35.57% | Revenue (ttm) | $1.21B |
 | 52W high | $72.33 | Revenue growth y/y | -28.50% |
 | 52W low | $24.99 | Inst. ownership | 94.12% |
-| P/E (ttm) | 38.64 | Insider ownership | 3.08% |
-| Forward P/E | 18.16 | Short float | 24.85% |
+| P/E (ttm) | 38.91 | Insider ownership | 3.08% |
+| Forward P/E | 18.29 | Short float | 24.85% |
 | PEG (trailing) | 0.75 | Avg volume | 5,726,128 |
-| P/S | 2.83 | Employees | 2,872 |
-| P/B | 2.76 | Analyst rec (1=buy..5=sell) | 2.4 |
+| P/S | 2.85 | Employees | 2,872 |
+| P/B | 2.78 | Analyst rec (1=buy..5=sell) | 2.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

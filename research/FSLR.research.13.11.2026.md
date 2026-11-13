@@ -4,8 +4,8 @@ Signed file: `FSLR.research.13.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $170.98 (2026-11-13, ~15-min delayed) |
-| Market cap | $18.38B |
+| Current price | $171.39 (2026-11-13, ~15-min delayed) |
+| Market cap | $18.42B |
 | Sector / Industry | Technology / Solar |
 | Main theme | Solar — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: high. |
@@ -15,10 +15,10 @@ Signed file: `FSLR.research.13.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-19.79%) with negative half-year (-26.73%). |
-| Fresh setup quality | Poor / broken | -46.27% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-19.59%) with negative half-year (-26.56%). |
+| Fresh setup quality | Poor / broken | -46.15% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 37.12%, revenue growth -22.80%. |
-| Value attractiveness | Reasonable | Forward P/E 7.37, EV/Sales 3.43. |
+| Value attractiveness | Reasonable | Forward P/E 7.39, EV/Sales 3.43. |
 | Risk level | High | Beta 1.71, ATR 5.9% of price, short float 13.66%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: high.
@@ -44,22 +44,22 @@ First Solar, Inc., a solar technology company, provides photovoltaic (PV) solar 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $170.98; 52w high $318.25 (-46.27%); 52w low $168.15 (+1.68%) |
-| Trend | -19.79% vs SMA200, -7.35% vs SMA50, -4.73% vs SMA20 |
-| Momentum | RSI(14) 40.6 (neutral) |
-| Volatility | ATR(14) 10.03 (~5.9% of price); beta 1.71 |
-| Setup perspective | -46.27% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $171.39; 52w high $318.25 (-46.15%); 52w low $168.15 (+1.93%) |
+| Trend | -19.59% vs SMA200, -7.14% vs SMA50, -4.51% vs SMA20 |
+| Momentum | RSI(14) 40.9 (neutral) |
+| Volatility | ATR(14) 10.04 (~5.9% of price); beta 1.71 |
+| Setup perspective | -46.15% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -15.0% |
-| Month | -4.4% |
-| Quarter | -21.5% |
-| Half Y | -26.7% |
-| 1Y | -36.1% |
-| YTD | -37.7% |
+| Week | -14.8% |
+| Month | -4.1% |
+| Quarter | -21.3% |
+| Half Y | -26.6% |
+| 1Y | -35.9% |
+| YTD | -37.5% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ First Solar, Inc., a solar technology company, provides photovoltaic (PV) solar 
 | Revenue (ttm) | $5.01B | Revenue growth -22.80% y/y |
 | Profitability | Gross 49.25%, operating 37.69%, net 37.12% | ROA 8.60%, ROE 18.71% |
 | Balance sheet | Cash $1.62B, debt $324.97M | Current ratio 2.57, debt/equity 2.99 |
-| Valuation | P/E 9.89, forward P/E 7.37, P/S 3.67, P/B 1.69 | EV/Sales 3.43, EV/EBITDA 6.94 |
+| Valuation | P/E 9.91, forward P/E 7.39, P/S 3.67, P/B 1.69 | EV/Sales 3.43, EV/EBITDA 6.94 |
 | Growth expectations | Earnings growth 25.00%, EPS q/q 25.20% | Analyst mean target $252.57 (30 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -86,13 +86,13 @@ First Solar, Inc., a solar technology company, provides photovoltaic (PV) solar 
 | Blackrock Inc. | 14,029,065 | 13.05% | 2026-06-30 |
 | Vanguard Capital Management LLC | 6,836,941 | 6.36% | 2026-06-30 |
 | Vanguard Portfolio Management LLC | 5,638,446 | 5.25% | 2026-06-30 |
-| State Street Corporation | 5,602,750 | 5.21% | 2026-09-30 |
-| Capital World Investors | 4,191,669 | 3.90% | 2026-09-30 |
+| State Street Corporation | 5,576,026 | 5.19% | 2026-06-30 |
+| Capital World Investors | 4,114,639 | 3.83% | 2026-06-30 |
 | Geode Capital Management, LLC | 3,161,008 | 2.94% | 2026-09-30 |
-| Invesco Ltd. | 2,657,852 | 2.47% | 2026-09-30 |
 | Hill City Capital, Lp | 2,628,130 | 2.45% | 2026-06-30 |
+| Invesco Ltd. | 2,599,470 | 2.42% | 2026-06-30 |
+| FMR, LLC | 2,179,215 | 2.03% | 2026-06-30 |
 | Amundi | 1,899,433 | 1.77% | 2026-09-30 |
-| Morgan Stanley | 1,790,509 | 1.67% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
 - **Volatility risk:** Beta 1.71, ATR 5.9% of price, short float 13.66%. Size positions accordingly.
@@ -112,18 +112,18 @@ First Solar, Inc., a solar technology company, provides photovoltaic (PV) solar 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $170.98 | EV/Sales | 3.43 |
-| Market cap | $18.38B | EV/EBITDA | 6.94 |
+| Price | $171.39 | EV/Sales | 3.43 |
+| Market cap | $18.42B | EV/EBITDA | 6.94 |
 | Beta | 1.71 | Gross margin | 49.25% |
-| RSI(14) | 40.6 | Operating margin | 37.69% |
-| ATR(14) | 10.03 | Profit margin | 37.12% |
-| SMA20 dist | -4.73% | ROA | 8.60% |
-| SMA50 dist | -7.35% | ROE | 18.71% |
-| SMA200 dist | -19.79% | Revenue (ttm) | $5.01B |
+| RSI(14) | 40.9 | Operating margin | 37.69% |
+| ATR(14) | 10.04 | Profit margin | 37.12% |
+| SMA20 dist | -4.51% | ROA | 8.60% |
+| SMA50 dist | -7.14% | ROE | 18.71% |
+| SMA200 dist | -19.59% | Revenue (ttm) | $5.01B |
 | 52W high | $318.25 | Revenue growth y/y | -22.80% |
 | 52W low | $168.15 | Inst. ownership | 102.92% |
-| P/E (ttm) | 9.89 | Insider ownership | 5.37% |
-| Forward P/E | 7.37 | Short float | 13.66% |
+| P/E (ttm) | 9.91 | Insider ownership | 5.37% |
+| Forward P/E | 7.39 | Short float | 13.66% |
 | PEG (trailing) | 0.31 | Avg volume | 2,481,065 |
 | P/S | 3.67 | Employees | 7,900 |
 | P/B | 1.69 | Analyst rec (1=buy..5=sell) | 1.8 |

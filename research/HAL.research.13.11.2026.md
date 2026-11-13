@@ -4,8 +4,8 @@ Signed file: `HAL.research.13.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $33.67 (2026-11-13, ~15-min delayed) |
-| Market cap | $27.85B |
+| Current price | $33.78 (2026-11-13, ~15-min delayed) |
+| Market cap | $27.94B |
 | Sector / Industry | Energy / Oil & Gas Equipment & Services |
 | Main theme | Oil & Gas Equipment & Services — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
@@ -15,11 +15,11 @@ Signed file: `HAL.research.13.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-5.45%) with negative half-year (-18.67%). |
-| Fresh setup quality | Moderate / wait | -20.97% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-5.13%) with negative half-year (-18.39%). |
+| Fresh setup quality | Moderate / wait | -20.70% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 8.90%, revenue growth 1.80%. |
-| Value attractiveness | Reasonable | Forward P/E 11.46, EV/Sales 1.49. |
-| Risk level | Elevated | Beta 0.75, ATR 3.1% of price, short float 5.39%. |
+| Value attractiveness | Reasonable | Forward P/E 11.50, EV/Sales 1.49. |
+| Risk level | Elevated | Beta 0.75, ATR 3.2% of price, short float 5.39%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
 
@@ -44,22 +44,22 @@ Halliburton Company provides products and services to the energy industry worldw
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $33.67; 52w high $42.60 (-20.97%); 52w low $25.11 (+34.06%) |
-| Trend | -5.45% vs SMA200, +0.01% vs SMA50, -0.41% vs SMA20 |
-| Momentum | RSI(14) 51.7 (neutral) |
-| Volatility | ATR(14) 1.06 (~3.1% of price); beta 0.75 |
-| Setup perspective | -20.97% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $33.78; 52w high $42.60 (-20.70%); 52w low $25.11 (+34.52%) |
+| Trend | -5.13% vs SMA200, +0.34% vs SMA50, -0.09% vs SMA20 |
+| Momentum | RSI(14) 52.4 (neutral) |
+| Volatility | ATR(14) 1.06 (~3.2% of price); beta 0.75 |
+| Setup perspective | -20.70% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +5.7% |
-| Month | +2.4% |
-| Quarter | -2.6% |
-| Half Y | -18.7% |
-| 1Y | +27.5% |
-| YTD | +15.3% |
+| Week | +6.1% |
+| Month | +2.7% |
+| Quarter | -2.3% |
+| Half Y | -18.4% |
+| 1Y | +28.0% |
+| YTD | +15.7% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Halliburton Company provides products and services to the energy industry worldw
 | Revenue (ttm) | $22.48B | Revenue growth 1.80% y/y |
 | Profitability | Gross 14.82%, operating 13.18%, net 8.90% | ROA 7.23%, ROE 18.78% |
 | Balance sheet | Cash $1.84B, debt $8.20B | Current ratio 2.02, debt/equity 73.45 |
-| Valuation | P/E 14.14, forward P/E 11.46, P/S 1.24, P/B 2.50 | EV/Sales 1.49, EV/EBITDA 8.09 |
+| Valuation | P/E 14.19, forward P/E 11.50, P/S 1.24, P/B 2.51 | EV/Sales 1.49, EV/EBITDA 8.09 |
 | Growth expectations | Earnings growth 2400.00%, EPS q/q 2216.70% | Analyst mean target $43.56 (25 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -84,18 +84,18 @@ Halliburton Company provides products and services to the energy industry worldw
 | Holder | Shares | % Out | Reported |
 |---|---|---|---|
 | Blackrock Inc. | 82,837,333 | 10.02% | 2026-06-30 |
-| State Street Corporation | 52,523,108 | 6.35% | 2026-09-30 |
+| State Street Corporation | 56,870,444 | 6.88% | 2026-06-30 |
 | Vanguard Capital Management LLC | 51,872,053 | 6.27% | 2026-06-30 |
 | Vanguard Portfolio Management LLC | 40,080,854 | 4.85% | 2026-06-30 |
 | Geode Capital Management, LLC | 23,217,747 | 2.81% | 2026-09-30 |
 | Morgan Stanley | 16,656,929 | 2.01% | 2026-06-30 |
-| Barrow, Hanley Mewhinney & Strauss, LLC | 13,338,932 | 1.61% | 2026-09-30 |
-| Invesco Ltd. | 12,620,812 | 1.53% | 2026-09-30 |
 | AQR Capital Management, LLC | 11,869,743 | 1.44% | 2026-06-30 |
 | Citigroup Inc. | 11,642,118 | 1.41% | 2026-09-30 |
+| Qube Research & Technologies Ltd | 11,127,397 | 1.35% | 2026-06-30 |
+| Goldman Sachs Group Inc | 10,620,902 | 1.28% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 0.75, ATR 3.1% of price, short float 5.39%. Size positions accordingly.
+- **Volatility risk:** Beta 0.75, ATR 3.2% of price, short float 5.39%. Size positions accordingly.
 - **Short interest risk:** short float 5.39% can fuel squeezes both ways around news.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -111,21 +111,21 @@ Halliburton Company provides products and services to the energy industry worldw
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $33.67 | EV/Sales | 1.49 |
-| Market cap | $27.85B | EV/EBITDA | 8.09 |
+| Price | $33.78 | EV/Sales | 1.49 |
+| Market cap | $27.94B | EV/EBITDA | 8.09 |
 | Beta | 0.75 | Gross margin | 14.82% |
-| RSI(14) | 51.7 | Operating margin | 13.18% |
+| RSI(14) | 52.4 | Operating margin | 13.18% |
 | ATR(14) | 1.06 | Profit margin | 8.90% |
-| SMA20 dist | -0.41% | ROA | 7.23% |
-| SMA50 dist | +0.01% | ROE | 18.78% |
-| SMA200 dist | -5.45% | Revenue (ttm) | $22.48B |
+| SMA20 dist | -0.09% | ROA | 7.23% |
+| SMA50 dist | +0.34% | ROE | 18.78% |
+| SMA200 dist | -5.13% | Revenue (ttm) | $22.48B |
 | 52W high | $42.60 | Revenue growth y/y | 1.80% |
 | 52W low | $25.11 | Inst. ownership | 91.01% |
-| P/E (ttm) | 14.14 | Insider ownership | 0.40% |
-| Forward P/E | 11.46 | Short float | 5.39% |
+| P/E (ttm) | 14.19 | Insider ownership | 0.40% |
+| Forward P/E | 11.50 | Short float | 5.39% |
 | PEG (trailing) | 0.67 | Avg volume | 10,385,243 |
 | P/S | 1.24 | Employees | 46,000 |
-| P/B | 2.50 | Analyst rec (1=buy..5=sell) | 1.7 |
+| P/B | 2.51 | Analyst rec (1=buy..5=sell) | 1.7 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

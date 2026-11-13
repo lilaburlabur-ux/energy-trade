@@ -4,8 +4,8 @@ Signed file: `BKR.research.13.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $49.18 (2026-11-13, ~15-min delayed) |
-| Market cap | $48.84B |
+| Current price | $49.44 (2026-11-13, ~15-min delayed) |
+| Market cap | $49.10B |
 | Sector / Industry | Energy / Oil & Gas Equipment & Services |
 | Main theme | Oil & Gas Equipment & Services — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
@@ -15,10 +15,10 @@ Signed file: `BKR.research.13.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-17.33%) with negative half-year (-22.65%). |
-| Fresh setup quality | Poor / broken | -28.57% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-16.90%) with negative half-year (-22.24%). |
+| Fresh setup quality | Poor / broken | -28.20% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 10.08%, revenue growth 14.50%. |
-| Value attractiveness | Reasonable | Forward P/E 17.42, EV/Sales 2.15. |
+| Value attractiveness | Reasonable | Forward P/E 17.51, EV/Sales 2.15. |
 | Risk level | Elevated | Beta 1.06, ATR 4.1% of price, short float 2.79%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
@@ -44,22 +44,22 @@ Baker Hughes Company provides a portfolio of technologies and services to energy
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $49.18; 52w high $68.85 (-28.57%); 52w low $43.78 (+12.32%) |
-| Trend | -17.33% vs SMA200, -10.89% vs SMA50, -5.94% vs SMA20 |
-| Momentum | RSI(14) 39.9 (neutral) |
+| Price vs 52-week range | Close $49.44; 52w high $68.85 (-28.20%); 52w low $43.78 (+12.92%) |
+| Trend | -16.90% vs SMA200, -10.43% vs SMA50, -5.47% vs SMA20 |
+| Momentum | RSI(14) 40.8 (neutral) |
 | Volatility | ATR(14) 2.02 (~4.1% of price); beta 1.06 |
-| Setup perspective | -28.57% from 52w high — base needs to rebuild. |
+| Setup perspective | -28.20% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +3.2% |
-| Month | -9.2% |
-| Quarter | -23.9% |
-| Half Y | -22.7% |
-| 1Y | +5.1% |
-| YTD | +6.0% |
+| Week | +3.8% |
+| Month | -8.7% |
+| Quarter | -23.5% |
+| Half Y | -22.2% |
+| 1Y | +5.6% |
+| YTD | +6.5% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Baker Hughes Company provides a portfolio of technologies and services to energy
 | Revenue (ttm) | $28.74B | Revenue growth 14.50% y/y |
 | Profitability | Gross 23.70%, operating 12.20%, net 10.08% | ROA 4.46%, ROE 15.06% |
 | Balance sheet | Cash $5.38B, debt $18.26B | Current ratio 1.24, debt/equity 88.83 |
-| Valuation | P/E 16.90, forward P/E 17.42, P/S 1.70, P/B 2.42 | EV/Sales 2.15, EV/EBITDA 12.32 |
+| Valuation | P/E 16.99, forward P/E 17.51, P/S 1.71, P/B 2.44 | EV/Sales 2.15, EV/EBITDA 12.32 |
 | Growth expectations | Earnings growth -32.80%, EPS q/q -32.50% | Analyst mean target $70.00 (24 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -84,15 +84,15 @@ Baker Hughes Company provides a portfolio of technologies and services to energy
 | Holder | Shares | % Out | Reported |
 |---|---|---|---|
 | Blackrock Inc. | 99,116,387 | 11.96% | 2026-06-30 |
-| JPMORGAN CHASE & CO | 67,954,299 | 8.20% | 2026-09-30 |
+| JPMORGAN CHASE & CO | 69,935,638 | 8.44% | 2026-06-30 |
 | Vanguard Capital Management LLC | 64,829,367 | 7.83% | 2026-06-30 |
-| State Street Corporation | 61,156,341 | 7.38% | 2026-09-30 |
+| State Street Corporation | 64,578,131 | 7.79% | 2026-06-30 |
 | Vanguard Portfolio Management LLC | 49,046,664 | 5.92% | 2026-06-30 |
+| Capital World Investors | 47,479,630 | 5.73% | 2026-06-30 |
+| Invesco Ltd. | 35,339,082 | 4.27% | 2026-06-30 |
 | Dodge & Cox Inc. | 34,854,482 | 4.21% | 2026-06-30 |
-| Invesco Ltd. | 33,528,633 | 4.05% | 2026-09-30 |
-| Capital World Investors | 28,606,992 | 3.45% | 2026-09-30 |
 | Geode Capital Management, LLC | 27,591,660 | 3.33% | 2026-09-30 |
-| Capital Research Global Investors | 23,638,093 | 2.85% | 2026-09-30 |
+| Capital Research Global Investors | 22,032,387 | 2.66% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
 - **Volatility risk:** Beta 1.06, ATR 4.1% of price, short float 2.79%. Size positions accordingly.
@@ -111,21 +111,21 @@ Baker Hughes Company provides a portfolio of technologies and services to energy
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $49.18 | EV/Sales | 2.15 |
-| Market cap | $48.84B | EV/EBITDA | 12.32 |
+| Price | $49.44 | EV/Sales | 2.15 |
+| Market cap | $49.10B | EV/EBITDA | 12.32 |
 | Beta | 1.06 | Gross margin | 23.70% |
-| RSI(14) | 39.9 | Operating margin | 12.20% |
+| RSI(14) | 40.8 | Operating margin | 12.20% |
 | ATR(14) | 2.02 | Profit margin | 10.08% |
-| SMA20 dist | -5.94% | ROA | 4.46% |
-| SMA50 dist | -10.89% | ROE | 15.06% |
-| SMA200 dist | -17.33% | Revenue (ttm) | $28.74B |
+| SMA20 dist | -5.47% | ROA | 4.46% |
+| SMA50 dist | -10.43% | ROE | 15.06% |
+| SMA200 dist | -16.90% | Revenue (ttm) | $28.74B |
 | 52W high | $68.85 | Revenue growth y/y | 14.50% |
 | 52W low | $43.78 | Inst. ownership | 98.47% |
-| P/E (ttm) | 16.90 | Insider ownership | 0.19% |
-| Forward P/E | 17.42 | Short float | 2.79% |
+| P/E (ttm) | 16.99 | Insider ownership | 0.19% |
+| Forward P/E | 17.51 | Short float | 2.79% |
 | PEG (trailing) | 1.39 | Avg volume | 7,999,953 |
-| P/S | 1.70 | Employees | 65,600 |
-| P/B | 2.42 | Analyst rec (1=buy..5=sell) | 1.6 |
+| P/S | 1.71 | Employees | 65,600 |
+| P/B | 2.44 | Analyst rec (1=buy..5=sell) | 1.6 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

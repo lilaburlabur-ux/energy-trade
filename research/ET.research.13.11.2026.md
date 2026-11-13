@@ -4,8 +4,8 @@ Signed file: `ET.research.13.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $19.50 (2026-11-13, ~15-min delayed) |
-| Market cap | $67.18B |
+| Current price | $19.40 (2026-11-13, ~15-min delayed) |
+| Market cap | $66.82B |
 | Sector / Industry | Energy / Oil & Gas Midstream |
 | Main theme | Oil & Gas Midstream — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,10 +15,10 @@ Signed file: `ET.research.13.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +26.18%; price +2.12% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -8.63% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +25.53%; price +1.60% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -9.10% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 4.39%, revenue growth 85.90%. |
-| Value attractiveness | Reasonable | Forward P/E 11.02, EV/Sales 1.24. |
+| Value attractiveness | Reasonable | Forward P/E 10.96, EV/Sales 1.24. |
 | Risk level | Moderate | Beta 0.60, ATR 2.2% of price, short float 0.87%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -44,22 +44,22 @@ Energy Transfer LP, together with its subsidiaries, provides energy-related serv
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $19.50; 52w high $21.34 (-8.63%); 52w low $15.11 (+29.06%) |
-| Trend | +2.12% vs SMA200, -2.85% vs SMA50, -0.94% vs SMA20 |
-| Momentum | RSI(14) 46.1 (neutral) |
+| Price vs 52-week range | Close $19.40; 52w high $21.34 (-9.10%); 52w low $15.11 (+28.40%) |
+| Trend | +1.60% vs SMA200, -3.34% vs SMA50, -1.42% vs SMA20 |
+| Momentum | RSI(14) 44.3 (neutral) |
 | Volatility | ATR(14) 0.43 (~2.2% of price); beta 0.60 |
-| Setup perspective | -8.63% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -9.10% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +3.1% |
-| Month | -0.1% |
-| Quarter | -5.2% |
-| Half Y | +0.2% |
-| 1Y | +26.2% |
-| YTD | +26.1% |
+| Week | +2.5% |
+| Month | -0.6% |
+| Quarter | -5.7% |
+| Half Y | -0.3% |
+| 1Y | +25.5% |
+| YTD | +25.5% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Energy Transfer LP, together with its subsidiaries, provides energy-related serv
 | Revenue (ttm) | $124.53B | Revenue growth 85.90% y/y |
 | Profitability | Gross 15.84%, operating 9.39%, net 4.39% | ROA 5.24%, ROE 15.57% |
 | Balance sheet | Cash $926.00M, debt $70.71B | Current ratio 1.16, debt/equity 141.66 |
-| Valuation | P/E 12.92, forward P/E 11.02, P/S 0.54, P/B 2.10 | EV/Sales 1.24, EV/EBITDA 8.62 |
+| Valuation | P/E 12.85, forward P/E 10.96, P/S 0.54, P/B 2.09 | EV/Sales 1.24, EV/EBITDA 8.62 |
 | Growth expectations | Earnings growth 18.10%, EPS q/q 18.50% | Analyst mean target $24.74 (23 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -85,14 +85,14 @@ Energy Transfer LP, together with its subsidiaries, provides energy-related serv
 |---|---|---|---|
 | Morgan Stanley | 85,614,431 | 2.49% | 2026-06-30 |
 | Alps Advisors Inc. | 84,776,083 | 2.46% | 2026-09-30 |
-| JPMORGAN CHASE & CO | 79,603,662 | 2.31% | 2026-09-30 |
+| JPMORGAN CHASE & CO | 81,080,493 | 2.35% | 2026-06-30 |
 | Goldman Sachs Group Inc | 62,819,419 | 1.82% | 2026-06-30 |
-| Invesco Ltd. | 56,306,338 | 1.63% | 2026-09-30 |
+| Invesco Ltd. | 54,927,735 | 1.59% | 2026-06-30 |
 | Tortoise Capital Advisors, LLC | 37,997,055 | 1.10% | 2026-06-30 |
 | Blackstone Inc | 35,782,842 | 1.04% | 2026-06-30 |
-| UBS Group AG | 32,377,628 | 0.94% | 2026-09-30 |
+| UBS Group AG | 30,548,239 | 0.89% | 2026-06-30 |
 | Bank of America Corporation | 28,139,938 | 0.82% | 2026-06-30 |
-| Kayne Anderson Capital Advisors, L.P. | 25,785,501 | 0.75% | 2026-09-30 |
+| Energy Income Partners, LLC | 25,654,536 | 0.74% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
@@ -109,21 +109,21 @@ Energy Transfer LP, together with its subsidiaries, provides energy-related serv
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $19.50 | EV/Sales | 1.24 |
-| Market cap | $67.18B | EV/EBITDA | 8.62 |
+| Price | $19.40 | EV/Sales | 1.24 |
+| Market cap | $66.82B | EV/EBITDA | 8.62 |
 | Beta | 0.60 | Gross margin | 15.84% |
-| RSI(14) | 46.1 | Operating margin | 9.39% |
+| RSI(14) | 44.3 | Operating margin | 9.39% |
 | ATR(14) | 0.43 | Profit margin | 4.39% |
-| SMA20 dist | -0.94% | ROA | 5.24% |
-| SMA50 dist | -2.85% | ROE | 15.57% |
-| SMA200 dist | +2.12% | Revenue (ttm) | $124.53B |
+| SMA20 dist | -1.42% | ROA | 5.24% |
+| SMA50 dist | -3.34% | ROE | 15.57% |
+| SMA200 dist | +1.60% | Revenue (ttm) | $124.53B |
 | 52W high | $21.34 | Revenue growth y/y | 85.90% |
 | 52W low | $15.11 | Inst. ownership | 32.52% |
-| P/E (ttm) | 12.92 | Insider ownership | 10.29% |
-| Forward P/E | 11.02 | Short float | 0.87% |
+| P/E (ttm) | 12.85 | Insider ownership | 10.29% |
+| Forward P/E | 10.96 | Short float | 0.87% |
 | PEG (trailing) | 0.55 | Avg volume | 8,634,704 |
 | P/S | 0.54 | Employees | 22,311 |
-| P/B | 2.10 | Analyst rec (1=buy..5=sell) | 1.5 |
+| P/B | 2.09 | Analyst rec (1=buy..5=sell) | 1.5 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

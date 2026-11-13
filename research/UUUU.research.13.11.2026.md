@@ -16,7 +16,7 @@ Signed file: `UUUU.research.13.11.2026`
 | Area | Score / Read | Reason |
 |---|---|---|
 | Technical momentum | Low | Below SMA200 (-57.52%) with negative half-year (-64.20%). |
-| Fresh setup quality | Poor / broken | -76.22% from 52w high — base needs to rebuild. |
+| Fresh setup quality | Poor / broken | -76.23% from 52w high — base needs to rebuild. |
 | Fundamental quality | Weak | Negative profit margin (-99.99%). |
 | Value attractiveness | Reasonable | Forward P/E 13.59, EV/Sales 13.66. |
 | Risk level | High | Beta 1.93, ATR 8.6% of price, short float 22.03%. |
@@ -36,25 +36,25 @@ Energy Fuels Inc., together with its subsidiaries, engages in the exploration, r
 
 | Headline | Source | Date |
 |---|---|---|
+| 3 Canadian Growth Stocks To Own In November 2026 | Simply Wall St. | 2026-11-13 |
 | MP's Q3 Revenues Jump 176%: Can This Growth Be Sustained? | Zacks | 2026-11-13 |
 | Energy Fuels (UUUU) Is Considered a Good Investment by Brokers: Is That True? | Zacks | 2026-11-13 |
 | UUUU Bets on Pinyon Plain to Meet 2026 Output Goals: Will It Pay Off? | Zacks | 2026-11-13 |
-| CCJ's Share of Uranium Output Down 20% in Q3: Will 2026 Targets be Met? | Zacks | 2026-11-12 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $6.59; 52w high $27.72 (-76.22%); 52w low $6.59 (+0.01%) |
-| Trend | -57.52% vs SMA200, -32.58% vs SMA50, -11.66% vs SMA20 |
+| Price vs 52-week range | Close $6.59; 52w high $27.72 (-76.23%); 52w low $6.59 (+0.00%) |
+| Trend | -57.52% vs SMA200, -32.59% vs SMA50, -11.67% vs SMA20 |
 | Momentum | RSI(14) 31.2 (neutral) |
 | Volatility | ATR(14) 0.57 (~8.6% of price); beta 1.93 |
-| Setup perspective | -76.22% from 52w high — base needs to rebuild. |
+| Setup perspective | -76.23% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -1.0% |
+| Week | -1.1% |
 | Month | -23.1% |
 | Quarter | -55.4% |
 | Half Y | -64.2% |
@@ -92,7 +92,7 @@ Energy Fuels Inc., together with its subsidiaries, engages in the exploration, r
 | Price (T.Rowe) Associates Inc | 8,736,940 | 3.30% | 2026-06-30 |
 | Ameriprise Financial, Inc. | 8,631,120 | 3.26% | 2026-06-30 |
 | Vanguard Portfolio Management LLC | 6,414,737 | 2.42% | 2026-06-30 |
-| American Century Companies Inc | 4,316,389 | 1.63% | 2026-09-30 |
+| American Century Companies Inc | 4,226,355 | 1.60% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
 - **Volatility risk:** Beta 1.93, ATR 8.6% of price, short float 22.03%. Size positions accordingly.
@@ -118,8 +118,8 @@ Energy Fuels Inc., together with its subsidiaries, engages in the exploration, r
 | Beta | 1.93 | Gross margin | 47.90% |
 | RSI(14) | 31.2 | Operating margin | -62.09% |
 | ATR(14) | 0.57 | Profit margin | -99.99% |
-| SMA20 dist | -11.66% | ROA | -3.66% |
-| SMA50 dist | -32.58% | ROE | -14.08% |
+| SMA20 dist | -11.67% | ROA | -3.66% |
+| SMA50 dist | -32.59% | ROE | -14.08% |
 | SMA200 dist | -57.52% | Revenue (ttm) | $117.23M |
 | 52W high | $27.72 | Revenue growth y/y | 64.80% |
 | 52W low | $6.59 | Inst. ownership | 75.55% |

@@ -4,8 +4,8 @@ Signed file: `WMB.research.13.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $69.06 (2026-11-13, ~15-min delayed) |
-| Market cap | $86.34B |
+| Current price | $69.09 (2026-11-13, ~15-min delayed) |
+| Market cap | $86.38B |
 | Sector / Industry | Energy / Oil & Gas Midstream |
 | Main theme | Oil & Gas Midstream — see catalysts below |
 | Current stance | Low technical momentum, strong fundamentals, value: fair-to-demanding, risk: elevated. |
@@ -15,10 +15,10 @@ Signed file: `WMB.research.13.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-3.96%) with negative half-year (-9.84%). |
-| Fresh setup quality | Moderate / wait | -11.74% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-3.92%) with negative half-year (-9.80%). |
+| Fresh setup quality | Moderate / wait | -11.71% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 24.66%, revenue growth 12.30%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 26.74, EV/Sales 9.84. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 26.75, EV/Sales 9.84. |
 | Risk level | Elevated | Beta 0.63, ATR 3.7% of price, short float 2.68%. |
 
 **Bottom line:** Low technical momentum, strong fundamentals, value: fair-to-demanding, risk: elevated.
@@ -36,19 +36,19 @@ The Williams Companies, Inc., together with its subsidiaries, operates as an ene
 
 | Headline | Source | Date |
 |---|---|---|
+| $50,000 in These 3 Pipeline Dividend Stocks Could Pay You $1,900 a Year | 24/7 Wall St. | 2026-11-13 |
 | Goldman Sachs Stays Positive on Gas Pipeline firms After Q3 Updates | Investing.com | 2026-11-13 |
 | Wall Street reveals 3 dividend stocks to hold through the AI chaos | TheStreet | 2026-11-12 |
 | Can Williams Afford Its Spending Bill? | Trefis | 2026-11-12 |
-| Should Sherwin-Williams Stock Holders Look At Albemarle Instead? | Trefis | 2026-11-11 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $69.06; 52w high $78.25 (-11.74%); 52w low $57.01 (+21.15%) |
-| Trend | -3.96% vs SMA200, -2.84% vs SMA50, -1.79% vs SMA20 |
+| Price vs 52-week range | Close $69.09; 52w high $78.25 (-11.71%); 52w low $57.01 (+21.20%) |
+| Trend | -3.92% vs SMA200, -2.80% vs SMA50, -1.75% vs SMA20 |
 | Momentum | RSI(14) 47.2 (neutral) |
 | Volatility | ATR(14) 2.53 (~3.7% of price); beta 0.63 |
-| Setup perspective | -11.74% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -11.71% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
@@ -68,7 +68,7 @@ The Williams Companies, Inc., together with its subsidiaries, operates as an ene
 | Revenue (ttm) | $12.68B | Revenue growth 12.30% y/y |
 | Profitability | Gross 63.05%, operating 36.63%, net 24.66% | ROA 4.59%, ROE 18.31% |
 | Balance sheet | Cash $1.76B, debt $33.93B | Current ratio 0.75, debt/equity 157.88 |
-| Valuation | P/E 27.19, forward P/E 26.74, P/S 6.81, P/B 5.50 | EV/Sales 9.84, EV/EBITDA 17.74 |
+| Valuation | P/E 27.20, forward P/E 26.75, P/S 6.81, P/B 5.51 | EV/Sales 9.84, EV/EBITDA 17.74 |
 | Growth expectations | Earnings growth 5.90%, EPS q/q 8.20% | Analyst mean target $85.38 (24 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ The Williams Companies, Inc., together with its subsidiaries, operates as an ene
 | JPMORGAN CHASE & CO | 20,869,822 | 1.67% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 26.74, EV/Sales 9.84. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 26.75, EV/Sales 9.84. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 0.63, ATR 3.7% of price, short float 2.68%. Size positions accordingly.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -111,21 +111,21 @@ The Williams Companies, Inc., together with its subsidiaries, operates as an ene
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $69.06 | EV/Sales | 9.84 |
-| Market cap | $86.34B | EV/EBITDA | 17.74 |
+| Price | $69.09 | EV/Sales | 9.84 |
+| Market cap | $86.38B | EV/EBITDA | 17.74 |
 | Beta | 0.63 | Gross margin | 63.05% |
 | RSI(14) | 47.2 | Operating margin | 36.63% |
 | ATR(14) | 2.53 | Profit margin | 24.66% |
-| SMA20 dist | -1.79% | ROA | 4.59% |
-| SMA50 dist | -2.84% | ROE | 18.31% |
-| SMA200 dist | -3.96% | Revenue (ttm) | $12.68B |
+| SMA20 dist | -1.75% | ROA | 4.59% |
+| SMA50 dist | -2.80% | ROE | 18.31% |
+| SMA200 dist | -3.92% | Revenue (ttm) | $12.68B |
 | 52W high | $78.25 | Revenue growth y/y | 12.30% |
 | 52W low | $57.01 | Inst. ownership | 89.51% |
-| P/E (ttm) | 27.19 | Insider ownership | 0.44% |
-| Forward P/E | 26.74 | Short float | 2.68% |
+| P/E (ttm) | 27.20 | Insider ownership | 0.44% |
+| Forward P/E | 26.75 | Short float | 2.68% |
 | PEG (trailing) | 1.87 | Avg volume | 8,160,846 |
 | P/S | 6.81 | Employees | 5,987 |
-| P/B | 5.50 | Analyst rec (1=buy..5=sell) | 1.4 |
+| P/B | 5.51 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

@@ -4,8 +4,8 @@ Signed file: `GEV.research.13.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $796.64 (2026-11-13, ~15-min delayed) |
-| Market cap | $210.85B |
+| Current price | $803.13 (2026-11-13, ~15-min delayed) |
+| Market cap | $212.57B |
 | Sector / Industry | Industrials / Specialty Industrial Machinery |
 | Main theme | Specialty Industrial Machinery — see catalysts below |
 | Current stance | Low technical momentum, strong fundamentals, value: fair-to-demanding, risk: high. |
@@ -15,11 +15,11 @@ Signed file: `GEV.research.13.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-16.23%) with negative half-year (-23.99%). |
-| Fresh setup quality | Poor / broken | -32.15% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-15.55%) with negative half-year (-23.37%). |
+| Fresh setup quality | Poor / broken | -31.60% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 23.54%, revenue growth 26.80%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 30.56, EV/Sales 4.66. |
-| Risk level | High | Beta 1.06, ATR 7.2% of price, short float 2.83%. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 30.81, EV/Sales 4.66. |
+| Risk level | High | Beta 1.06, ATR 7.1% of price, short float 2.83%. |
 
 **Bottom line:** Low technical momentum, strong fundamentals, value: fair-to-demanding, risk: high.
 
@@ -36,30 +36,30 @@ GE Vernova Inc., an energy company, engages in the provision of various products
 
 | Headline | Source | Date |
 |---|---|---|
+| Inside Jim Cramer’s Charitable Trust: 5 Stocks He Actually Owns | Insider Monkey | 2026-11-13 |
 | HSBC Says Buy the Dip in These 11 Stocks -- Alphabet and Oracle Top the List | GuruFocus.com | 2026-11-13 |
 | Top 3 Nuclear Stocks To Watch In November 2026 | Simply Wall St. | 2026-11-13 |
 | Inside Ken Fisher’s Portfolio: Every Move He Made in the Third Quarter | TIKR | 2026-11-13 |
-| Ken Fisher Is Buying ExxonMobil | TIKR | 2026-11-13 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $796.64; 52w high $1,174.17 (-32.15%); 52w low $553.58 (+43.91%) |
-| Trend | -16.23% vs SMA200, -12.71% vs SMA50, -5.98% vs SMA20 |
-| Momentum | RSI(14) 40.8 (neutral) |
-| Volatility | ATR(14) 57.27 (~7.2% of price); beta 1.06 |
-| Setup perspective | -32.15% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $803.13; 52w high $1,174.17 (-31.60%); 52w low $553.58 (+45.08%) |
+| Trend | -15.55% vs SMA200, -12.01% vs SMA50, -5.25% vs SMA20 |
+| Momentum | RSI(14) 41.5 (neutral) |
+| Volatility | ATR(14) 57.27 (~7.1% of price); beta 1.06 |
+| Setup perspective | -31.60% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +2.9% |
-| Month | -14.0% |
-| Quarter | -26.1% |
-| Half Y | -24.0% |
-| 1Y | +38.8% |
-| YTD | +17.5% |
+| Week | +3.7% |
+| Month | -13.3% |
+| Quarter | -25.5% |
+| Half Y | -23.4% |
+| 1Y | +39.9% |
+| YTD | +18.5% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ GE Vernova Inc., an energy company, engages in the provision of various products
 | Revenue (ttm) | $44.04B | Revenue growth 26.80% y/y |
 | Profitability | Gross 21.79%, operating 8.22%, net 23.54% | ROA 3.22%, ROE 93.04% |
 | Balance sheet | Cash $16.36B, debt $3.75B | Current ratio 0.83, debt/equity 29.89 |
-| Valuation | P/E 20.91, forward P/E 30.56, P/S 4.79, P/B 18.53 | EV/Sales 4.66, EV/EBITDA 40.65 |
+| Valuation | P/E 21.09, forward P/E 30.81, P/S 4.83, P/B 18.68 | EV/Sales 4.66, EV/EBITDA 40.65 |
 | Growth expectations | Earnings growth 193.30%, EPS q/q 185.60% | Analyst mean target $1,178.39 (32 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -85,18 +85,18 @@ GE Vernova Inc., an energy company, engages in the provision of various products
 |---|---|---|---|
 | Blackrock Inc. | 21,763,980 | 8.22% | 2026-06-30 |
 | Vanguard Capital Management LLC | 17,552,000 | 6.63% | 2026-06-30 |
-| FMR, LLC | 14,765,647 | 5.58% | 2026-09-30 |
-| State Street Corporation | 11,700,250 | 4.42% | 2026-09-30 |
+| FMR, LLC | 16,150,499 | 6.10% | 2026-06-30 |
+| State Street Corporation | 11,765,340 | 4.45% | 2026-06-30 |
 | Geode Capital Management, LLC | 6,430,717 | 2.43% | 2026-09-30 |
+| JPMORGAN CHASE & CO | 6,253,305 | 2.36% | 2026-06-30 |
 | Morgan Stanley | 5,715,959 | 2.16% | 2026-06-30 |
-| Capital World Investors | 5,119,879 | 1.93% | 2026-09-30 |
+| Capital World Investors | 5,007,405 | 1.89% | 2026-06-30 |
 | Fisher Asset Management, LLC | 4,921,063 | 1.86% | 2026-09-30 |
 | Vanguard Portfolio Management LLC | 4,723,958 | 1.78% | 2026-06-30 |
-| JPMORGAN CHASE & CO | 3,765,439 | 1.42% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 30.56, EV/Sales 4.66. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 1.06, ATR 7.2% of price, short float 2.83%. Size positions accordingly.
+- **Valuation risk:** Forward P/E 30.81, EV/Sales 4.66. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 1.06, ATR 7.1% of price, short float 2.83%. Size positions accordingly.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -112,21 +112,21 @@ GE Vernova Inc., an energy company, engages in the provision of various products
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $796.64 | EV/Sales | 4.66 |
-| Market cap | $210.85B | EV/EBITDA | 40.65 |
+| Price | $803.13 | EV/Sales | 4.66 |
+| Market cap | $212.57B | EV/EBITDA | 40.65 |
 | Beta | 1.06 | Gross margin | 21.79% |
-| RSI(14) | 40.8 | Operating margin | 8.22% |
+| RSI(14) | 41.5 | Operating margin | 8.22% |
 | ATR(14) | 57.27 | Profit margin | 23.54% |
-| SMA20 dist | -5.98% | ROA | 3.22% |
-| SMA50 dist | -12.71% | ROE | 93.04% |
-| SMA200 dist | -16.23% | Revenue (ttm) | $44.04B |
+| SMA20 dist | -5.25% | ROA | 3.22% |
+| SMA50 dist | -12.01% | ROE | 93.04% |
+| SMA200 dist | -15.55% | Revenue (ttm) | $44.04B |
 | 52W high | $1,174.17 | Revenue growth y/y | 26.80% |
 | 52W low | $553.58 | Inst. ownership | 80.63% |
-| P/E (ttm) | 20.91 | Insider ownership | 0.12% |
-| Forward P/E | 30.56 | Short float | 2.83% |
+| P/E (ttm) | 21.09 | Insider ownership | 0.12% |
+| Forward P/E | 30.81 | Short float | 2.83% |
 | PEG (trailing) | 1.51 | Avg volume | 2,828,354 |
-| P/S | 4.79 | Employees | 78,000 |
-| P/B | 18.53 | Analyst rec (1=buy..5=sell) | 1.5 |
+| P/S | 4.83 | Employees | 78,000 |
+| P/B | 18.68 | Analyst rec (1=buy..5=sell) | 1.5 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

@@ -4,8 +4,8 @@ Signed file: `OKE.research.13.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $89.69 (2026-11-13, ~15-min delayed) |
-| Market cap | $56.55B |
+| Current price | $89.75 (2026-11-13, ~15-min delayed) |
+| Market cap | $56.58B |
 | Sector / Industry | Energy / Oil & Gas Midstream |
 | Main theme | Oil & Gas Midstream — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,10 +15,10 @@ Signed file: `OKE.research.13.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +36.64%; price +2.61% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -6.99% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +36.73%; price +2.68% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -6.93% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 9.42%, revenue growth 44.30%. |
-| Value attractiveness | Reasonable | Forward P/E 14.65, EV/Sales 2.17. |
+| Value attractiveness | Reasonable | Forward P/E 14.66, EV/Sales 2.17. |
 | Risk level | Moderate | Beta 0.74, ATR 2.7% of price, short float 4.86%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -36,30 +36,30 @@ ONEOK, Inc. operates as a midstream service provider of gathering, processing, f
 
 | Headline | Source | Date |
 |---|---|---|
+| $50,000 in These 3 Pipeline Dividend Stocks Could Pay You $1,900 a Year | 24/7 Wall St. | 2026-11-13 |
 | Can Williams Afford Its Spending Bill? | Trefis | 2026-11-12 |
 | Energy Transfer Just Sent a Message to Anyone Collecting $13,700 a Year by Raising Its Payout After an Earnings Miss | 24/7 Wall St. | 2026-11-11 |
 | A 70-Year-Old With $1,000,000 in Hormel, AT&T and ONEOK Collects $4,230 a Month in Dividends. How Safe Is Each Check? | TIKR | 2026-11-10 |
-| Why Kinder Morgan's Chairman Just Bought $15 Million in Stock | MarketBeat | 2026-11-10 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $89.69; 52w high $96.44 (-6.99%); 52w low $65.60 (+36.72%) |
-| Trend | +2.61% vs SMA200, -1.20% vs SMA50, -1.54% vs SMA20 |
-| Momentum | RSI(14) 48.6 (neutral) |
+| Price vs 52-week range | Close $89.75; 52w high $96.44 (-6.93%); 52w low $65.60 (+36.81%) |
+| Trend | +2.68% vs SMA200, -1.14% vs SMA50, -1.49% vs SMA20 |
+| Momentum | RSI(14) 48.8 (neutral) |
 | Volatility | ATR(14) 2.40 (~2.7% of price); beta 0.74 |
-| Setup perspective | -6.99% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -6.93% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +5.3% |
-| Month | +0.0% |
-| Quarter | -4.9% |
-| Half Y | -0.6% |
-| 1Y | +36.6% |
-| YTD | +26.6% |
+| Week | +5.4% |
+| Month | +0.1% |
+| Quarter | -4.8% |
+| Half Y | -0.5% |
+| 1Y | +36.7% |
+| YTD | +26.7% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ ONEOK, Inc. operates as a midstream service provider of gathering, processing, f
 | Revenue (ttm) | $43.19B | Revenue growth 44.30% y/y |
 | Profitability | Gross 25.20%, operating 14.25%, net 9.42% | ROA 5.46%, ROE 15.02% |
 | Balance sheet | Cash $186.00M, debt $28.52B | Current ratio 0.84, debt/equity 87.73 |
-| Valuation | P/E 13.93, forward P/E 14.65, P/S 1.31, P/B 2.43 | EV/Sales 2.17, EV/EBITDA 12.15 |
+| Valuation | P/E 13.94, forward P/E 14.66, P/S 1.31, P/B 2.43 | EV/Sales 2.17, EV/EBITDA 12.15 |
 | Growth expectations | Earnings growth 43.00%, EPS q/q 43.80% | Analyst mean target $102.24 (21 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -84,15 +84,15 @@ ONEOK, Inc. operates as a midstream service provider of gathering, processing, f
 | Holder | Shares | % Out | Reported |
 |---|---|---|---|
 | Blackrock Inc. | 64,537,467 | 10.24% | 2026-06-30 |
-| State Street Corporation | 41,478,761 | 6.58% | 2026-09-30 |
+| State Street Corporation | 43,633,749 | 6.92% | 2026-06-30 |
 | Vanguard Capital Management LLC | 41,112,675 | 6.52% | 2026-06-30 |
 | Vanguard Portfolio Management LLC | 30,904,162 | 4.90% | 2026-06-30 |
 | Charles Schwab Investment Management, Inc. | 20,373,418 | 3.23% | 2026-06-30 |
 | Geode Capital Management, LLC | 17,732,291 | 2.81% | 2026-09-30 |
-| Capital International Investors | 12,473,528 | 1.98% | 2026-09-30 |
+| Capital International Investors | 17,204,063 | 2.73% | 2026-06-30 |
 | Morgan Stanley | 11,886,409 | 1.89% | 2026-06-30 |
-| First Eagle Investment Management, LLC | 11,838,297 | 1.88% | 2026-09-30 |
-| UBS Group AG | 9,459,474 | 1.50% | 2026-09-30 |
+| First Eagle Investment Management, LLC | 11,834,827 | 1.88% | 2026-06-30 |
+| UBS Group AG | 11,588,291 | 1.84% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
 - **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
@@ -110,18 +110,18 @@ ONEOK, Inc. operates as a midstream service provider of gathering, processing, f
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $89.69 | EV/Sales | 2.17 |
-| Market cap | $56.55B | EV/EBITDA | 12.15 |
+| Price | $89.75 | EV/Sales | 2.17 |
+| Market cap | $56.58B | EV/EBITDA | 12.15 |
 | Beta | 0.74 | Gross margin | 25.20% |
-| RSI(14) | 48.6 | Operating margin | 14.25% |
+| RSI(14) | 48.8 | Operating margin | 14.25% |
 | ATR(14) | 2.40 | Profit margin | 9.42% |
-| SMA20 dist | -1.54% | ROA | 5.46% |
-| SMA50 dist | -1.20% | ROE | 15.02% |
-| SMA200 dist | +2.61% | Revenue (ttm) | $43.19B |
+| SMA20 dist | -1.49% | ROA | 5.46% |
+| SMA50 dist | -1.14% | ROE | 15.02% |
+| SMA200 dist | +2.68% | Revenue (ttm) | $43.19B |
 | 52W high | $96.44 | Revenue growth y/y | 44.30% |
 | 52W low | $65.60 | Inst. ownership | 82.03% |
-| P/E (ttm) | 13.93 | Insider ownership | 0.15% |
-| Forward P/E | 14.65 | Short float | 4.86% |
+| P/E (ttm) | 13.94 | Insider ownership | 0.15% |
+| Forward P/E | 14.66 | Short float | 4.86% |
 | PEG (trailing) | 1.46 | Avg volume | 3,414,950 |
 | P/S | 1.31 | Employees | 6,326 |
 | P/B | 2.43 | Analyst rec (1=buy..5=sell) | 2.3 |

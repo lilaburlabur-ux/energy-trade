@@ -5,7 +5,7 @@ Signed file: `EPD.research.13.11.2026`
 | Field | Value |
 |---|---|
 | Current price | $38.28 (2026-11-13, ~15-min delayed) |
-| Market cap | $82.57B |
+| Market cap | $82.55B |
 | Sector / Industry | Energy / Oil & Gas Midstream |
 | Main theme | Oil & Gas Midstream — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,8 +15,8 @@ Signed file: `EPD.research.13.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +28.74%; price +4.88% vs SMA200. |
-| Fresh setup quality | Watch | -1.32% from 52w high and near SMA20 — check for a tight base. |
+| Technical momentum | Moderate | 1Y +28.72%; price +4.87% vs SMA200. |
+| Fresh setup quality | Watch | -1.33% from 52w high and near SMA20 — check for a tight base. |
 | Fundamental quality | Mixed | Profit margin 10.24%, revenue growth 49.30%. |
 | Value attractiveness | Reasonable | Forward P/E 12.12, EV/Sales 1.81. |
 | Risk level | Moderate | Beta 0.46, ATR 1.9% of price, short float 2.30%. |
@@ -44,11 +44,11 @@ Enterprise Products Partners L.P. provides midstream energy services to producer
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $38.28; 52w high $38.80 (-1.32%); 52w low $29.86 (+28.21%) |
-| Trend | +4.88% vs SMA200, +3.76% vs SMA50, +3.40% vs SMA20 |
+| Price vs 52-week range | Close $38.28; 52w high $38.80 (-1.33%); 52w low $29.86 (+28.20%) |
+| Trend | +4.87% vs SMA200, +3.75% vs SMA50, +3.39% vs SMA20 |
 | Momentum | RSI(14) 62.3 (neutral) |
 | Volatility | ATR(14) 0.74 (~1.9% of price); beta 0.46 |
-| Setup perspective | -1.32% from 52w high and near SMA20 — check for a tight base. |
+| Setup perspective | -1.33% from 52w high and near SMA20 — check for a tight base. |
 
 **Performance snapshot:**
 
@@ -84,15 +84,15 @@ Enterprise Products Partners L.P. provides midstream energy services to producer
 | Holder | Shares | % Out | Reported |
 |---|---|---|---|
 | Alps Advisors Inc. | 46,611,995 | 2.16% | 2026-09-30 |
-| Invesco Ltd. | 26,638,703 | 1.24% | 2026-09-30 |
+| Invesco Ltd. | 26,616,875 | 1.23% | 2026-06-30 |
 | Blackstone Inc | 23,760,341 | 1.10% | 2026-06-30 |
 | Morgan Stanley | 22,249,198 | 1.03% | 2026-06-30 |
 | Tortoise Capital Advisors, LLC | 18,636,746 | 0.86% | 2026-06-30 |
 | Goldman Sachs Group Inc | 17,515,453 | 0.81% | 2026-06-30 |
+| Sarofim, Fayez & Co | 15,998,982 | 0.74% | 2026-06-30 |
 | Energy Income Partners, LLC | 13,831,913 | 0.64% | 2026-06-30 |
-| Sarofim, Fayez & Co | 13,708,341 | 0.64% | 2026-09-30 |
 | Neuberger Berman Group, LLC | 13,560,232 | 0.63% | 2026-06-30 |
-| Kayne Anderson Capital Advisors, L.P. | 12,720,342 | 0.59% | 2026-09-30 |
+| Kayne Anderson Capital Advisors, L.P. | 12,869,425 | 0.60% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
 - **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
@@ -111,13 +111,13 @@ Enterprise Products Partners L.P. provides midstream energy services to producer
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $38.28 | EV/Sales | 1.81 |
-| Market cap | $82.57B | EV/EBITDA | 10.91 |
+| Market cap | $82.55B | EV/EBITDA | 10.91 |
 | Beta | 0.46 | Gross margin | 12.56% |
 | RSI(14) | 62.3 | Operating margin | 12.17% |
 | ATR(14) | 0.74 | Profit margin | 10.24% |
-| SMA20 dist | +3.40% | ROA | 6.07% |
-| SMA50 dist | +3.76% | ROE | 21.69% |
-| SMA200 dist | +4.88% | Revenue (ttm) | $64.40B |
+| SMA20 dist | +3.39% | ROA | 6.07% |
+| SMA50 dist | +3.75% | ROE | 21.69% |
+| SMA200 dist | +4.87% | Revenue (ttm) | $64.40B |
 | 52W high | $38.80 | Revenue growth y/y | 49.30% |
 | 52W low | $29.86 | Inst. ownership | 25.51% |
 | P/E (ttm) | 12.68 | Insider ownership | 33.09% |

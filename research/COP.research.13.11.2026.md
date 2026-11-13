@@ -4,8 +4,8 @@ Signed file: `COP.research.13.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $142.38 (2026-11-13, ~15-min delayed) |
-| Market cap | $168.34B |
+| Current price | $142.28 (2026-11-13, ~15-min delayed) |
+| Market cap | $168.22B |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
 | Current stance | High technical momentum, strong fundamentals, value: reasonable, risk: moderate. |
@@ -15,10 +15,10 @@ Signed file: `COP.research.13.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +64.89%; price +16.28% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -7.56% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +64.78%; price +16.20% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -7.63% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 16.76%, revenue growth 29.30%. |
-| Value attractiveness | Reasonable | Forward P/E 12.40, EV/Sales 2.59. |
+| Value attractiveness | Reasonable | Forward P/E 12.39, EV/Sales 2.59. |
 | Risk level | Moderate | Beta 0.16, ATR 2.8% of price, short float 1.35%. |
 
 **Bottom line:** High technical momentum, strong fundamentals, value: reasonable, risk: moderate.
@@ -44,22 +44,22 @@ ConocoPhillips explores for, produces, transports, and markets crude oil, bitume
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $142.38; 52w high $154.03 (-7.56%); 52w low $84.75 (+68.00%) |
-| Trend | +16.28% vs SMA200, +3.71% vs SMA50, -0.99% vs SMA20 |
-| Momentum | RSI(14) 53.6 (neutral) |
+| Price vs 52-week range | Close $142.28; 52w high $154.03 (-7.63%); 52w low $84.75 (+67.88%) |
+| Trend | +16.20% vs SMA200, +3.64% vs SMA50, -1.05% vs SMA20 |
+| Momentum | RSI(14) 53.5 (neutral) |
 | Volatility | ATR(14) 3.97 (~2.8% of price); beta 0.16 |
-| Setup perspective | -7.56% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -7.63% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +4.5% |
-| Month | +0.5% |
-| Quarter | +11.6% |
-| Half Y | +17.1% |
-| 1Y | +64.9% |
-| YTD | +50.5% |
+| Week | +4.4% |
+| Month | +0.4% |
+| Quarter | +11.5% |
+| Half Y | +17.0% |
+| 1Y | +64.8% |
+| YTD | +50.4% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ ConocoPhillips explores for, produces, transports, and markets crude oil, bitume
 | Revenue (ttm) | $68.97B | Revenue growth 29.30% y/y |
 | Profitability | Gross 49.01%, operating 25.88%, net 16.76% | ROA 8.98%, ROE 17.66% |
 | Balance sheet | Cash $9.93B, debt $23.26B | Current ratio 1.52, debt/equity 35.25 |
-| Valuation | P/E 15.00, forward P/E 12.40, P/S 2.44, P/B 2.55 | EV/Sales 2.59, EV/EBITDA 6.00 |
+| Valuation | P/E 14.99, forward P/E 12.39, P/S 2.44, P/B 2.55 | EV/Sales 2.59, EV/EBITDA 6.00 |
 | Growth expectations | Earnings growth 141.90%, EPS q/q 131.80% | Analyst mean target $152.96 (27 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -85,14 +85,14 @@ ConocoPhillips explores for, produces, transports, and markets crude oil, bitume
 |---|---|---|---|
 | Blackrock Inc. | 93,886,457 | 7.94% | 2026-06-30 |
 | Vanguard Capital Management LLC | 79,600,198 | 6.73% | 2026-06-30 |
-| State Street Corporation | 67,085,653 | 5.67% | 2026-09-30 |
-| JPMORGAN CHASE & CO | 47,877,314 | 4.05% | 2026-09-30 |
+| State Street Corporation | 65,828,184 | 5.57% | 2026-06-30 |
 | Price (T.Rowe) Associates Inc | 44,817,455 | 3.79% | 2026-06-30 |
 | Charles Schwab Investment Management, Inc. | 41,476,189 | 3.51% | 2026-06-30 |
+| JPMORGAN CHASE & CO | 38,047,399 | 3.22% | 2026-06-30 |
 | Geode Capital Management, LLC | 31,793,747 | 2.69% | 2026-09-30 |
-| Capital International Investors | 30,195,605 | 2.55% | 2026-09-30 |
+| Capital International Investors | 28,905,122 | 2.44% | 2026-06-30 |
+| FMR, LLC | 28,697,376 | 2.43% | 2026-06-30 |
 | Vanguard Portfolio Management LLC | 28,503,663 | 2.41% | 2026-06-30 |
-| FMR, LLC | 22,420,714 | 1.90% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
 - **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
@@ -110,18 +110,18 @@ ConocoPhillips explores for, produces, transports, and markets crude oil, bitume
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $142.38 | EV/Sales | 2.59 |
-| Market cap | $168.34B | EV/EBITDA | 6.00 |
+| Price | $142.28 | EV/Sales | 2.59 |
+| Market cap | $168.22B | EV/EBITDA | 6.00 |
 | Beta | 0.16 | Gross margin | 49.01% |
-| RSI(14) | 53.6 | Operating margin | 25.88% |
+| RSI(14) | 53.5 | Operating margin | 25.88% |
 | ATR(14) | 3.97 | Profit margin | 16.76% |
-| SMA20 dist | -0.99% | ROA | 8.98% |
-| SMA50 dist | +3.71% | ROE | 17.66% |
-| SMA200 dist | +16.28% | Revenue (ttm) | $68.97B |
+| SMA20 dist | -1.05% | ROA | 8.98% |
+| SMA50 dist | +3.64% | ROE | 17.66% |
+| SMA200 dist | +16.20% | Revenue (ttm) | $68.97B |
 | 52W high | $154.03 | Revenue growth y/y | 29.30% |
 | 52W low | $84.75 | Inst. ownership | 89.15% |
-| P/E (ttm) | 15.00 | Insider ownership | 0.10% |
-| Forward P/E | 12.40 | Short float | 1.35% |
+| P/E (ttm) | 14.99 | Insider ownership | 0.10% |
+| Forward P/E | 12.39 | Short float | 1.35% |
 | PEG (trailing) | 0.91 | Avg volume | 6,710,435 |
 | P/S | 2.44 | Employees | 9,600 |
 | P/B | 2.55 | Analyst rec (1=buy..5=sell) | 2.1 |
