@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-13T09:10:40+00:00",
-  "as_of_local": "2026-11-13 09:10:40 UTC",
+  "as_of_utc": "2026-11-13T09:15:48+00:00",
+  "as_of_local": "2026-11-13 09:15:48 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -97,6 +97,12 @@
       "market_cap": 216635529165.60303,
       "headlines": [
         {
+          "title": "GE Vernova Has Slid Since Summer: Why Evercore ISI Sees 67% Upside",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-slid-since-summer-072517285.html",
+          "publisher": "TIKR",
+          "published": "2026-11-13T07:25:17Z"
+        },
+        {
           "title": "GE Vernova Sinks 12%, Vertiv Down 12% in a Week as Data Center Backlash Hits AI Power",
           "url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-sinks-12-vertiv-203526996.html",
           "publisher": "TIKR",
@@ -107,12 +113,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/nuscale-power-stocks-jump-earnings-202101895.html",
           "publisher": "Trefis",
           "published": "2026-11-12T20:21:01Z"
-        },
-        {
-          "title": "SoftBank CFO Says \u201cThere Is No Such Default\u201d After Musk\u2019s Turbine Claim, But a $3.7B Charge on Scrapped Turbine Orders Suggests Elon Was Onto Something",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/softbank-cfo-says-no-default-184300696.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-12T18:43:00Z"
         }
       ]
     },
@@ -433,6 +433,12 @@
       "market_cap": 99294239383.552,
       "headlines": [
         {
+          "title": "Bloom Energy vs. Constellation Energy: On-Site Power or Grid Power, Which Wins the Data Center?",
+          "url": "https://finance.yahoo.com/energy/articles/bloom-energy-vs-constellation-energy-090600693.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-13T09:06:00Z"
+        },
+        {
           "title": "Do You Like Cash? Consider Vistra Stock",
           "url": "https://finance.yahoo.com/markets/stocks/articles/cash-consider-vistra-stock-211551348.html",
           "publisher": "Trefis",
@@ -443,12 +449,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-sinks-12-vertiv-203526996.html",
           "publisher": "TIKR",
           "published": "2026-11-12T20:35:26Z"
-        },
-        {
-          "title": "Will NuScale Power Stock's Jump After Earnings Last?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nuscale-power-stocks-jump-earnings-202101895.html",
-          "publisher": "Trefis",
-          "published": "2026-11-12T20:21:01Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 88.96,
-      "change_pct": 0.25
+      "price": 88.68,
+      "change_pct": -0.07
     },
     {
       "label": "Brent",
-      "price": 96.32,
-      "change_pct": 0.52
+      "price": 96.04,
+      "change_pct": 0.23
     },
     {
       "label": "NatGas",
       "price": 3.27,
-      "change_pct": -2.1
+      "change_pct": -1.98
     }
   ]
 }
