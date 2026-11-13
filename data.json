@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-13T22:47:54+00:00",
-  "as_of_local": "2026-11-13 22:47:54 UTC",
+  "as_of_utc": "2026-11-13T22:53:01+00:00",
+  "as_of_local": "2026-11-13 22:53:01 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "OVV"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1291,6 +1289,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/changed-first-solars-story-121251483.html",
           "publisher": "Trefis",
           "published": "2026-11-13T12:12:51Z"
+        }
+      ]
+    },
+    {
+      "symbol": "OVV",
+      "name": "Ovintiv",
+      "price": 65.39,
+      "previous_close": 64.89,
+      "change_pct": 0.77,
+      "market_cap": 17570820075.563614,
+      "headlines": [
+        {
+          "title": "Ovintiv (OVV) Stock Trades At A Discount To Its Earnings",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ovintiv-ovv-stock-trades-discount-200833000.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-10T20:08:33Z"
+        },
+        {
+          "title": "Carney Gives Canada\u2019s Oil Firms a Tax Windfall and Hopes They\u2019ll Spend It",
+          "url": "https://finance.yahoo.com/energy/articles/carney-gives-canada-oil-firms-120000385.html",
+          "publisher": "Bloomberg",
+          "published": "2026-11-09T12:00:00Z"
+        },
+        {
+          "title": "Ovintiv Q3 Earnings Call Highlights",
+          "url": "https://finance.yahoo.com/energy/articles/ovintiv-q3-earnings-call-highlights-231409890.html",
+          "publisher": "MarketBeat",
+          "published": "2026-11-07T23:14:09Z"
         }
       ]
     },
