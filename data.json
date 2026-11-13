@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-13T12:38:43+00:00",
-  "as_of_local": "2026-11-13 12:38:43 UTC",
+  "as_of_utc": "2026-11-13T12:43:34+00:00",
+  "as_of_local": "2026-11-13 12:43:34 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "LEU"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1685,34 +1687,6 @@
       ]
     },
     {
-      "symbol": "LEU",
-      "name": "Centrus Energy",
-      "price": 103.92,
-      "previous_close": 112.17,
-      "change_pct": -7.35,
-      "market_cap": 2142669286.2464905,
-      "headlines": [
-        {
-          "title": "NuScale Power Just Dropped 25% in a Month: Nuke Your Shares Now, or Hunker Down and Hold?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nuscale-power-just-dropped-25-200214225.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-12T20:02:14Z"
-        },
-        {
-          "title": "CCJ's Share of Uranium Output Down 20% in Q3: Will 2026 Targets be Met?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ccjs-share-uranium-output-down-124400298.html",
-          "publisher": "Zacks",
-          "published": "2026-11-12T12:44:00Z"
-        },
-        {
-          "title": "Energy Fuels Dips Post Q3 Earnings Miss: How to Play the Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/energy-fuels-dips-post-q3-071400711.html",
-          "publisher": "Zacks",
-          "published": "2026-11-12T07:14:00Z"
-        }
-      ]
-    },
-    {
       "symbol": "RUN",
       "name": "Sunrun",
       "price": 8.52,
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 88.6,
-      "change_pct": -0.16
+      "price": 88.67,
+      "change_pct": -0.08
     },
     {
       "label": "Brent",
-      "price": 96.24,
-      "change_pct": 0.44
+      "price": 96.23,
+      "change_pct": 0.43
     },
     {
       "label": "NatGas",
       "price": 3.29,
-      "change_pct": -1.62
+      "change_pct": -1.44
     }
   ]
 }
