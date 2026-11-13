@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-13T12:28:31+00:00",
-  "as_of_local": "2026-11-13 12:28:31 UTC",
+  "as_of_utc": "2026-11-13T12:33:26+00:00",
+  "as_of_local": "2026-11-13 12:33:26 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -489,6 +489,12 @@
       "market_cap": 86814065763.29224,
       "headlines": [
         {
+          "title": "Goldman Sachs Stays Positive on Gas Pipeline firms After Q3 Updates",
+          "url": "https://finance.yahoo.com/energy/articles/goldman-sachs-stays-positive-gas-121909261.html",
+          "publisher": "Investing.com",
+          "published": "2026-11-13T12:19:09Z"
+        },
+        {
           "title": "Wall Street reveals 3 dividend stocks to hold through the AI chaos",
           "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-reveals-3-dividend-224700018.html",
           "publisher": "TheStreet",
@@ -499,12 +505,6 @@
           "url": "https://finance.yahoo.com/energy/articles/williams-afford-spending-bill-135216299.html",
           "publisher": "Trefis",
           "published": "2026-11-12T13:52:16Z"
-        },
-        {
-          "title": "Should Sherwin-Williams Stock Holders Look At Albemarle Instead?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/sherwin-williams-stock-holders-look-215913697.html",
-          "publisher": "Trefis",
-          "published": "2026-11-11T21:59:13Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 88.65,
-      "change_pct": -0.1
+      "price": 88.59,
+      "change_pct": -0.17
     },
     {
       "label": "Brent",
-      "price": 96.19,
-      "change_pct": 0.39
+      "price": 96.15,
+      "change_pct": 0.34
     },
     {
       "label": "NatGas",
       "price": 3.28,
-      "change_pct": -1.89
+      "change_pct": -1.68
     }
   ]
 }
