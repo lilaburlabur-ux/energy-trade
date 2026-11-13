@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-13T22:07:25+00:00",
-  "as_of_local": "2026-11-13 22:07:25 UTC",
+  "as_of_utc": "2026-11-13T22:12:47+00:00",
+  "as_of_local": "2026-11-13 22:12:47 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "BKR"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -295,6 +293,12 @@
       "market_cap": 108963185440.45877,
       "headlines": [
         {
+          "title": "What Does Dominion Energy Offer That NiSource Does Not?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/does-dominion-energy-offer-nisource-215100482.html",
+          "publisher": "Trefis",
+          "published": "2026-11-13T21:51:00Z"
+        },
+        {
           "title": "How Much You Need in Southern, Dominion and AEP to Collect $1,000 a Month",
           "url": "https://finance.yahoo.com/markets/stocks/articles/much-southern-dominion-aep-collect-171724956.html",
           "publisher": "24/7 Wall St.",
@@ -305,12 +309,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/q3-earnings-beat-data-center-151600286.html",
           "publisher": "Zacks",
           "published": "2026-11-13T15:16:00Z"
-        },
-        {
-          "title": "Southern Co. eyes $100B spending plan on natural gas, nuclear and other investments",
-          "url": "https://finance.yahoo.com/energy/articles/southern-co-eyes-100b-spending-144520353.html",
-          "publisher": "Utility Dive",
-          "published": "2026-11-13T14:45:20Z"
         }
       ]
     },
@@ -407,6 +405,12 @@
       "market_cap": 100707126495.89706,
       "headlines": [
         {
+          "title": "What Does Dominion Energy Offer That NiSource Does Not?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/does-dominion-energy-offer-nisource-215100482.html",
+          "publisher": "Trefis",
+          "published": "2026-11-13T21:51:00Z"
+        },
+        {
           "title": "Do You Like Cash? Consider Vistra Stock",
           "url": "https://finance.yahoo.com/markets/stocks/articles/cash-consider-vistra-stock-211551348.html",
           "publisher": "Trefis",
@@ -417,12 +421,6 @@
           "url": "https://finance.yahoo.com/energy/articles/nextera-energy-stock-real-bargain-210851417.html",
           "publisher": "Trefis",
           "published": "2026-11-12T21:08:51Z"
-        },
-        {
-          "title": "Could Sempra Be The Value Stock For Your Portfolio?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/could-sempra-value-stock-portfolio-210032285.html",
-          "publisher": "Trefis",
-          "published": "2026-11-12T21:00:32Z"
         }
       ]
     },
@@ -771,6 +769,12 @@
       "market_cap": 59511444058.54718,
       "headlines": [
         {
+          "title": "What Does Dominion Energy Offer That NiSource Does Not?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/does-dominion-energy-offer-nisource-215100482.html",
+          "publisher": "Trefis",
+          "published": "2026-11-13T21:51:00Z"
+        },
+        {
           "title": "How Much You Need in Southern, Dominion and AEP to Collect $1,000 a Month",
           "url": "https://finance.yahoo.com/markets/stocks/articles/much-southern-dominion-aep-collect-171724956.html",
           "publisher": "24/7 Wall St.",
@@ -781,12 +785,6 @@
           "url": "https://finance.yahoo.com/energy/articles/nextera-energy-stock-real-bargain-210851417.html",
           "publisher": "Trefis",
           "published": "2026-11-12T21:08:51Z"
-        },
-        {
-          "title": "ETFs Are Net Sellers of Dominion (D) on Nov. 10",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-dominion-d-110247142.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-12T11:02:47Z"
         }
       ]
     },
@@ -983,6 +981,34 @@
           "url": "https://finance.yahoo.com/news/amd-under-armour-downgraded-wall-133533194.html",
           "publisher": "The Fly",
           "published": "2026-11-12T14:44:01Z"
+        }
+      ]
+    },
+    {
+      "symbol": "BKR",
+      "name": "Baker Hughes",
+      "price": 49.44,
+      "previous_close": 48.86,
+      "change_pct": 1.19,
+      "market_cap": 49097798341.33426,
+      "headlines": [
+        {
+          "title": "Energy & Utilities Roundup: Market Talk",
+          "url": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-723bb970?siteid=yhoof2&yptr=yahoo",
+          "publisher": "The Wall Street Journal",
+          "published": "2026-11-13T21:55:00Z"
+        },
+        {
+          "title": "US energy rig count drops for first time in six weeks",
+          "url": "https://finance.yahoo.com/energy/articles/us-energy-rig-count-drops-185914224.html",
+          "publisher": "Investing.com",
+          "published": "2026-11-13T18:59:14Z"
+        },
+        {
+          "title": "HSBC Says Buy the Dip in These 11 Stocks -- Alphabet and Oracle Top the List",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/hsbc-says-buy-dip-11-185515397.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-13T18:55:15Z"
         }
       ]
     },
@@ -2094,13 +2120,13 @@
     },
     {
       "label": "Brent",
-      "price": 96.12,
-      "change_pct": 0.31
+      "price": 96.08,
+      "change_pct": 0.27
     },
     {
       "label": "NatGas",
       "price": 3.24,
-      "change_pct": -3.02
+      "change_pct": -2.93
     }
   ]
 }
