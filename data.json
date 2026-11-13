@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-13T07:44:40+00:00",
-  "as_of_local": "2026-11-13 07:44:40 UTC",
+  "as_of_utc": "2026-11-13T07:49:55+00:00",
+  "as_of_local": "2026-11-13 07:49:55 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "SMR"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1743,6 +1741,34 @@
       ]
     },
     {
+      "symbol": "SMR",
+      "name": "NuScale Power",
+      "price": 4.82,
+      "previous_close": 5.23,
+      "change_pct": -7.84,
+      "market_cap": 1978809579.9141006,
+      "headlines": [
+        {
+          "title": "Will NuScale Power Stock's Jump After Earnings Last?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nuscale-power-stocks-jump-earnings-202101895.html",
+          "publisher": "Trefis",
+          "published": "2026-11-12T20:21:01Z"
+        },
+        {
+          "title": "NuScale Power Just Dropped 25% in a Month: Nuke Your Shares Now, or Hunker Down and Hold?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nuscale-power-just-dropped-25-200214225.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-12T20:02:14Z"
+        },
+        {
+          "title": "Can NuScale's TVA Deal Unlock Its First Major Module Order?",
+          "url": "https://finance.yahoo.com/energy/articles/nuscales-tva-deal-unlock-first-152900220.html",
+          "publisher": "Zacks",
+          "published": "2026-11-12T15:29:00Z"
+        }
+      ]
+    },
+    {
       "symbol": "UUUU",
       "name": "Energy Fuels",
       "price": 6.68,
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 88.84,
-      "change_pct": 0.11
+      "price": 88.66,
+      "change_pct": -0.09
     },
     {
       "label": "Brent",
-      "price": 96.34,
-      "change_pct": 0.54
+      "price": 96.11,
+      "change_pct": 0.3
     },
     {
       "label": "NatGas",
-      "price": 3.3,
-      "change_pct": -1.11
+      "price": 3.29,
+      "change_pct": -1.41
     }
   ]
 }
