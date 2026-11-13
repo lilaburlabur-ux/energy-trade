@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-13T00:29:16+00:00",
-  "as_of_local": "2026-11-13 00:29:16 UTC",
+  "as_of_utc": "2026-11-13T00:34:21+00:00",
+  "as_of_local": "2026-11-13 00:34:21 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "NRG"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -239,6 +237,12 @@
       "market_cap": 118016378756.71335,
       "headlines": [
         {
+          "title": "BP (LSE:BP.) Stock Could Trade At A Discount As Its 116% Run Continues",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bp-lse-bp-stock-could-001744959.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-13T00:17:44Z"
+        },
+        {
           "title": "Seplat Energy And 2 British Energy Stocks To Watch",
           "url": "https://finance.yahoo.com/energy/articles/seplat-energy-2-british-energy-232020296.html",
           "publisher": "Simply Wall St.",
@@ -249,12 +253,6 @@
           "url": "https://finance.yahoo.com/energy/articles/bp-lse-bp-reset-dividend-231839363.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-12T23:18:39Z"
-        },
-        {
-          "title": "BP or Bristol Myers Squibb: Only One Gets My Dividend Dollars for the Next 20 Years",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bp-bristol-myers-squibb-only-165343000.html",
-          "publisher": "TIKR",
-          "published": "2026-11-12T16:53:43Z"
         }
       ]
     },
@@ -379,6 +377,12 @@
       "market_cap": 101177806775.92725,
       "headlines": [
         {
+          "title": "Equinor (OB:EQNR) Awaits UK Ruling On Rosebank Oil Field",
+          "url": "https://finance.yahoo.com/energy/articles/equinor-ob-eqnr-awaits-uk-001643131.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-13T00:16:43Z"
+        },
+        {
           "title": "Equinor: 3 Key Takeaways for Long-Term Investors",
           "url": "https://finance.yahoo.com/markets/stocks/articles/equinor-3-key-takeaways-long-182003529.html",
           "publisher": "Motley Fool",
@@ -389,12 +393,6 @@
           "url": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-american-161033755.html",
           "publisher": "MT Newswires",
           "published": "2026-11-12T16:10:33Z"
-        },
-        {
-          "title": "European Equities Traded in the US as American Depositary Receipts Decline in Tuesday Trading",
-          "url": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-american-161543882.html",
-          "publisher": "MT Newswires",
-          "published": "2026-11-10T16:15:43Z"
         }
       ]
     },
@@ -1207,6 +1205,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/hubbell-hubb-stock-may-fully-091001551.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-12T09:10:01Z"
+        }
+      ]
+    },
+    {
+      "symbol": "NRG",
+      "name": "NRG Energy",
+      "price": 98.05,
+      "previous_close": 97.5,
+      "change_pct": 0.56,
+      "market_cap": 20592587144.934082,
+      "headlines": [
+        {
+          "title": "Do You Like Cash? Consider Vistra Stock",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/cash-consider-vistra-stock-211551348.html",
+          "publisher": "Trefis",
+          "published": "2026-11-12T21:15:51Z"
+        },
+        {
+          "title": "What Is The Biggest Threat To Vistra Stock?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/biggest-threat-vistra-stock-005944429.html",
+          "publisher": "Trefis",
+          "published": "2026-11-12T00:59:44Z"
+        },
+        {
+          "title": "A $4 Billion Jolt: NRG Energy Powers Data Center Ambitions",
+          "url": "https://finance.yahoo.com/energy/articles/4-billion-jolt-nrg-energy-202000737.html",
+          "publisher": "MarketBeat",
+          "published": "2026-11-10T20:20:00Z"
         }
       ]
     },
@@ -2089,13 +2115,13 @@
     },
     {
       "label": "WTI",
-      "price": 88.62,
-      "change_pct": 2.42
+      "price": 88.42,
+      "change_pct": 2.18
     },
     {
       "label": "Brent",
-      "price": 95.88,
-      "change_pct": 3.36
+      "price": 95.55,
+      "change_pct": 3.01
     },
     {
       "label": "NatGas",
