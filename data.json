@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-13T11:52:50+00:00",
-  "as_of_local": "2026-11-13 11:52:50 UTC",
+  "as_of_utc": "2026-11-13T11:57:56+00:00",
+  "as_of_local": "2026-11-13 11:57:56 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "FTI"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1155,6 +1153,34 @@
       ]
     },
     {
+      "symbol": "FTI",
+      "name": "TechnipFMC",
+      "price": 64.92,
+      "previous_close": 65.39,
+      "change_pct": -0.72,
+      "market_cap": 25243060110.34488,
+      "headlines": [
+        {
+          "title": "What State Street SPDR S&P MidCap 400 ETF (MDY) Sold: TechnipFMC Leads on Nov. 11",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/state-street-spdr-p-midcap-110340208.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-13T11:03:40Z"
+        },
+        {
+          "title": "What iShares S&P Mid-Cap 400 Growth ETF (IJK) Bought: FTI Leads on Tuesday",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-p-mid-cap-400-110524030.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-12T11:05:24Z"
+        },
+        {
+          "title": "iShares Core S&P Mid-Cap (IJH) Adds TechnipFMC and United Therapeutics on Tuesday",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-core-p-mid-cap-110419915.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-12T11:04:19Z"
+        }
+      ]
+    },
+    {
       "symbol": "HUBB",
       "name": "Hubbell",
       "price": 437.98,
@@ -2089,13 +2115,13 @@
     },
     {
       "label": "WTI",
-      "price": 88.41,
-      "change_pct": -0.37
+      "price": 88.43,
+      "change_pct": -0.35
     },
     {
       "label": "Brent",
-      "price": 95.87,
-      "change_pct": 0.05
+      "price": 95.91,
+      "change_pct": 0.09
     },
     {
       "label": "NatGas",
