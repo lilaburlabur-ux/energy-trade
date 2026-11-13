@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-13T05:50:17+00:00",
+  "as_of": "2026-11-13T08:04:26+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,18 +9,18 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "ENPH",
-   "company": "Enphase Energy, Inc.",
-   "move_pct": -5.37,
-   "price": 26.78,
-   "volume": 4197100,
-   "volume_vs_avg": "~0.6x",
-   "heat_score": 37,
+   "ticker": "NXT",
+   "company": "Nextpower Inc.",
+   "move_pct": -6.95,
+   "price": 93.6,
+   "volume": 2832800,
+   "volume_vs_avg": "~1.0x",
+   "heat_score": 44,
    "direction": "down",
-   "why": "Enphase Energy (NASDAQ:ENPH) Stock: Insider Thurman Rodgers Sells 300,000 Shares",
+   "why": "Nextpower Stock In Focus As Lifecycle Services Expand",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUEFXQmM5YlNObktwU0pjanl1WEJzQlc5NFlMY2F2bm1LRHRaQXJfOC1GTU9rOFRkdFQyRDhlcENidmstRlMwNGJhSldNaFp3YVdRbDhITGVfS3NCOHFYRld6Mmx6bGJDR2VQUG5DekNCS1FuSnB2TWlkcEhVRGRDRXBLR0ZmOGZGMTBtTS1xZ2JSWUpPMmkwblhLV0w1anVMY21fVHBrcDFOQVNWcmVFZUM4LVpTMGN1dTAtUFdfdzdreWlNNFRMdndUUG5yZ1czaUxQdA?oc=5",
-   "published": "2026-11-13T02:56:20+00:00",
+   "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONlNpOHlmNS1sQlFsaks2MmExT2RvVUtSNmNwckl2S0JsZ2R6MERKVkx3VUZUTWdyQkpycTE3WG5vRlZ1LXZSQ09Tb05kcTRNU2RDVnlGNVpCdnROYko1Y3pfcW5NVmQ4N0hxYWI1Rm5IWE9DaE5nMmEwNEVkclRzd2RKSVloMjY5OEpYY0g2ak5XYTQ?oc=5",
+   "published": "2026-11-13T05:16:00+00:00",
    "sector": "Renewables & Solar"
   }
  ]
