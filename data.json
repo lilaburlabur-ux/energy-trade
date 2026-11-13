@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-13T09:20:54+00:00",
-  "as_of_local": "2026-11-13 09:20:54 UTC",
+  "as_of_utc": "2026-11-13T09:25:54+00:00",
+  "as_of_local": "2026-11-13 09:25:54 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "PEG"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1037,34 +1039,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/constellation-energy-stock-increasing-market-155951118.html",
           "publisher": "Trefis",
           "published": "2026-11-12T15:59:51Z"
-        }
-      ]
-    },
-    {
-      "symbol": "PEG",
-      "name": "Public Service Enterprise",
-      "price": 74.8,
-      "previous_close": 74.29,
-      "change_pct": 0.69,
-      "market_cap": 37288954712.94832,
-      "headlines": [
-        {
-          "title": "Do Edison's Dividends Make Up For A Lagging Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/edisons-dividends-lagging-stock-173740284.html",
-          "publisher": "Trefis",
-          "published": "2026-11-12T17:37:40Z"
-        },
-        {
-          "title": "ETFs Are Net Sellers of Public Service Enterprise (PEG) on Nov. 10",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-public-enterprise-110332473.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-12T11:03:32Z"
-        },
-        {
-          "title": "How Earnings Miss Will Impact PSEG Stock Investors",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/earnings-miss-impact-pseg-stock-011704773.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-04T01:17:04Z"
         }
       ]
     },
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 88.71,
-      "change_pct": -0.03
+      "price": 88.47,
+      "change_pct": -0.3
     },
     {
       "label": "Brent",
-      "price": 96.08,
-      "change_pct": 0.27
+      "price": 95.83,
+      "change_pct": 0.01
     },
     {
       "label": "NatGas",
       "price": 3.27,
-      "change_pct": -2.01
+      "change_pct": -1.98
     }
   ]
 }
