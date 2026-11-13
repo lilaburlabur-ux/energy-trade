@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-13T08:45:35+00:00",
-  "as_of_local": "2026-11-13 08:45:35 UTC",
+  "as_of_utc": "2026-11-13T08:50:37+00:00",
+  "as_of_local": "2026-11-13 08:50:37 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "ARRY"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1825,34 +1827,6 @@
       ]
     },
     {
-      "symbol": "ARRY",
-      "name": "Array Technologies",
-      "price": 4.8,
-      "previous_close": 5.2,
-      "change_pct": -7.69,
-      "market_cap": 740492986.2245464,
-      "headlines": [
-        {
-          "title": "Array Technologies' Merger With Shoals Expected to Boost Cash Flow, RBC Capital Markets Says",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/array-technologies-apos-merger-shoals-165918395.html",
-          "publisher": "MT Newswires",
-          "published": "2026-11-09T16:59:18Z"
-        },
-        {
-          "title": "Array and Shoals Are Merging: Who Really Wins the All-Stock Solar Deal?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/array-shoals-merging-really-wins-171500136.html",
-          "publisher": "MarketBeat",
-          "published": "2026-11-06T17:15:00Z"
-        },
-        {
-          "title": "Array Technologies (ARRY) Q3 2026 Earnings Call Transcript",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/array-technologies-arry-q3-2026-080325432.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-06T08:03:25Z"
-        }
-      ]
-    },
-    {
       "symbol": "FLNC",
       "name": "Fluence Energy",
       "price": 4.74,
@@ -2120,13 +2094,13 @@
     },
     {
       "label": "Brent",
-      "price": 96.41,
-      "change_pct": 0.62
+      "price": 96.4,
+      "change_pct": 0.61
     },
     {
       "label": "NatGas",
-      "price": 3.28,
-      "change_pct": -1.89
+      "price": 3.27,
+      "change_pct": -2.1
     }
   ]
 }
