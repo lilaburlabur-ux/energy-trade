@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-13T13:44:36+00:00",
-  "as_of_local": "2026-11-13 13:44:36 UTC",
+  "as_of_utc": "2026-11-13T13:49:39+00:00",
+  "as_of_local": "2026-11-13 13:49:39 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -181,6 +181,12 @@
       "market_cap": 165597845196.8598,
       "headlines": [
         {
+          "title": "Oil Above $85, Chord Energy Up 58% in a Year: Is It Still a Buy?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/oil-above-85-chord-energy-124300294.html",
+          "publisher": "Zacks",
+          "published": "2026-11-13T12:43:00Z"
+        },
+        {
           "title": "How Has Chevron's Story Changed For Shareholders?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/chevrons-story-changed-shareholders-121251633.html",
           "publisher": "Trefis",
@@ -191,12 +197,6 @@
           "url": "https://finance.yahoo.com/energy/articles/xom-cvx-cop-analyst-trims-014936143.html",
           "publisher": "Stocktwits",
           "published": "2026-11-13T01:49:36Z"
-        },
-        {
-          "title": "ConocoPhillips (COP) Stock Looks Like A Bargain After Fresh Results",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/conocophillips-cop-stock-looks-bargain-191205400.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-12T19:12:05Z"
         }
       ]
     },
@@ -545,6 +545,12 @@
       "market_cap": 80686512407.21875,
       "headlines": [
         {
+          "title": "Oil Above $85, Chord Energy Up 58% in a Year: Is It Still a Buy?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/oil-above-85-chord-energy-124300294.html",
+          "publisher": "Zacks",
+          "published": "2026-11-13T12:43:00Z"
+        },
+        {
           "title": "Can Occidental Petroleum Stock Fall 30%?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/occidental-petroleum-stock-fall-30-134155577.html",
           "publisher": "Trefis",
@@ -555,12 +561,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/oil-still-above-85-eog-134100525.html",
           "publisher": "Zacks",
           "published": "2026-11-12T13:41:00Z"
-        },
-        {
-          "title": "Should You Pick Occidental Stock Over Its Competitors?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/pick-occidental-stock-over-competitors-012700052.html",
-          "publisher": "Trefis",
-          "published": "2026-11-12T01:27:00Z"
         }
       ]
     },
@@ -2115,13 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 88.26,
-      "change_pct": -0.54
+      "price": 88.55,
+      "change_pct": -0.21
     },
     {
       "label": "Brent",
-      "price": 95.77,
-      "change_pct": -0.05
+      "price": 96.1,
+      "change_pct": 0.29
+    },
+    {
+      "label": "NatGas",
+      "price": 3.28,
+      "change_pct": -1.92
     }
   ]
 }
