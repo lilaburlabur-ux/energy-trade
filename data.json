@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-13T14:04:41+00:00",
-  "as_of_local": "2026-11-13 14:04:41 UTC",
+  "as_of_utc": "2026-11-13T14:09:51+00:00",
+  "as_of_local": "2026-11-13 14:09:51 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -1637,6 +1637,12 @@
       "market_cap": 3543376428.913004,
       "headlines": [
         {
+          "title": "Enphase Energy, Inc. (ENPH) is Attracting Investor Attention: Here is What You Should Know",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/enphase-energy-inc-enph-attracting-130004437.html",
+          "publisher": "Zacks",
+          "published": "2026-11-13T13:00:04Z"
+        },
+        {
           "title": "What Changed In First Solar's Story?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/changed-first-solars-story-121251483.html",
           "publisher": "Trefis",
@@ -1647,12 +1653,6 @@
           "url": "https://finance.yahoo.com/energy/articles/solaredge-slides-5-rising-yields-185756011.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-12T18:57:56Z"
-        },
-        {
-          "title": "Enphase Energy (ENPH) Could Be 32% Undervalued As Shipments Put Valuation Back In Focus",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/enphase-energy-enph-could-32-191223695.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-11T19:12:23Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 89.18,
-      "change_pct": 0.5
+      "price": 89.09,
+      "change_pct": 0.39
     },
     {
       "label": "Brent",
-      "price": 96.82,
-      "change_pct": 1.04
+      "price": 96.8,
+      "change_pct": 1.02
     },
     {
       "label": "NatGas",
-      "price": 3.28,
-      "change_pct": -1.95
+      "price": 3.26,
+      "change_pct": -2.34
     }
   ]
 }
