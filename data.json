@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-13T01:52:35+00:00",
-  "as_of_local": "2026-11-13 01:52:35 UTC",
+  "as_of_utc": "2026-11-13T02:00:03+00:00",
+  "as_of_local": "2026-11-13 02:00:03 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "EOG"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -533,34 +535,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-found-unexpected-customer-160326883.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-12T16:03:26Z"
-        }
-      ]
-    },
-    {
-      "symbol": "EOG",
-      "name": "EOG Resources",
-      "price": 153.77,
-      "previous_close": 151.51,
-      "change_pct": 1.49,
-      "market_cap": 80686514938.88,
-      "headlines": [
-        {
-          "title": "Can Occidental Petroleum Stock Fall 30%?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/occidental-petroleum-stock-fall-30-134155577.html",
-          "publisher": "Trefis",
-          "published": "2026-11-12T13:41:55Z"
-        },
-        {
-          "title": "Oil Still Above $85, EOG Up 41% in a Year: Is the Stock Still a Buy?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/oil-still-above-85-eog-134100525.html",
-          "publisher": "Zacks",
-          "published": "2026-11-12T13:41:00Z"
-        },
-        {
-          "title": "Should You Pick Occidental Stock Over Its Competitors?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/pick-occidental-stock-over-competitors-012700052.html",
-          "publisher": "Trefis",
-          "published": "2026-11-12T01:27:00Z"
         }
       ]
     },
@@ -1984,8 +1958,8 @@
           "name": "EOG Resources Inc",
           "short": "EOG Resources",
           "weight_pct": 4.07,
-          "change_pct": 1.49,
-          "price": 153.77,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -2083,8 +2057,8 @@
         "name": "EOG Resources Inc",
         "short": "EOG Resources",
         "weight_pct": 4.07,
-        "change_pct": 1.49,
-        "price": 153.77,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -2115,8 +2089,8 @@
     },
     {
       "label": "WTI",
-      "price": 88.23,
-      "change_pct": 1.96
+      "price": 88.22,
+      "change_pct": 1.95
     },
     {
       "label": "Brent",
@@ -2126,7 +2100,7 @@
     {
       "label": "NatGas",
       "price": 3.36,
-      "change_pct": 4.6
+      "change_pct": 4.57
     }
   ]
 }
