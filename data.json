@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-13T21:26:59+00:00",
-  "as_of_local": "2026-11-13 21:26:59 UTC",
+  "as_of_utc": "2026-11-13T21:31:59+00:00",
+  "as_of_local": "2026-11-13 21:31:59 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -237,6 +237,12 @@
       "market_cap": 117707303254.96661,
       "headlines": [
         {
+          "title": "How Earnings And Guidance Will Impact BP Stock Investors",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/earnings-guidance-impact-bp-stock-210955198.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-13T21:09:55Z"
+        },
+        {
           "title": "Market Chatter: Enbridge's Woodfibre LNG Project to Receive $140 Million From Canadian Government",
           "url": "https://finance.yahoo.com/energy/articles/market-chatter-enbridge-apos-woodfibre-121312211.html",
           "publisher": "MT Newswires",
@@ -247,12 +253,6 @@
           "url": "https://finance.yahoo.com/markets/world-indices/articles/ftse-100-today-stocks-edge-084813171.html",
           "publisher": "Investing.com",
           "published": "2026-11-13T08:48:13Z"
-        },
-        {
-          "title": "What Does BP (LSE:BP.) Leaving Indonesia And Running Namibia Blocks Mean?",
-          "url": "https://finance.yahoo.com/energy/articles/does-bp-lse-bp-leaving-011435240.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-13T01:14:35Z"
         }
       ]
     },
@@ -1659,10 +1659,10 @@
     {
       "symbol": "UEC",
       "name": "Uranium Energy Corp",
-      "price": 6.67,
+      "price": 6.66,
       "previous_close": 6.8,
-      "change_pct": -1.91,
-      "market_cap": 3305549753.3601093,
+      "change_pct": -2.06,
+      "market_cap": 3300593793.2797813,
       "headlines": [
         {
           "title": "The Best Uranium Stocks to Buy and Hold as Nuclear Power Expands",
@@ -1721,6 +1721,12 @@
       "market_cap": 2088120532.1202002,
       "headlines": [
         {
+          "title": "Sunrun (RUN) Stock May Be Undervalued As Puerto Rico Battery Role Grows",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/sunrun-run-stock-may-undervalued-211217401.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-13T21:12:17Z"
+        },
+        {
           "title": "Sunrun (RUN) CEO Makes TIME100 Climate List As Financing Deal Expands Solar Reach",
           "url": "https://finance.yahoo.com/energy/articles/sunrun-run-ceo-makes-time100-200948461.html",
           "publisher": "Simply Wall St.",
@@ -1731,12 +1737,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/low-first-solar-stock-175441142.html",
           "publisher": "Trefis",
           "published": "2026-11-13T17:54:41Z"
-        },
-        {
-          "title": "What Changed In First Solar's Story?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/changed-first-solars-story-121251483.html",
-          "publisher": "Trefis",
-          "published": "2026-11-13T12:12:51Z"
         }
       ]
     },
@@ -1805,6 +1805,12 @@
       "market_cap": 1476658487.4684696,
       "headlines": [
         {
+          "title": "SolarEdge Technologies (SEDG) Looks Cheap After Yield Pressure Clouds A Tariff Helped Beat",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/solaredge-technologies-sedg-looks-cheap-211107654.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-13T21:11:07Z"
+        },
+        {
           "title": "How Low Can First Solar Stock Go?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/low-first-solar-stock-175441142.html",
           "publisher": "Trefis",
@@ -1815,12 +1821,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/changed-first-solars-story-121251483.html",
           "publisher": "Trefis",
           "published": "2026-11-13T12:12:51Z"
-        },
-        {
-          "title": "SolarEdge Slides 5% as Rising Yields Weigh on Solar Stocks; Sunrun Drops 4%, Enphase Falls 3%",
-          "url": "https://finance.yahoo.com/energy/articles/solaredge-slides-5-rising-yields-185756011.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-12T18:57:56Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 89.05,
-      "change_pct": 0.35
+      "price": 88.94,
+      "change_pct": 0.23
     },
     {
       "label": "Brent",
-      "price": 96.31,
-      "change_pct": 0.51
+      "price": 96.16,
+      "change_pct": 0.35
     },
     {
       "label": "NatGas",
-      "price": 3.24,
-      "change_pct": -2.87
+      "price": 3.25,
+      "change_pct": -2.81
     }
   ]
 }
