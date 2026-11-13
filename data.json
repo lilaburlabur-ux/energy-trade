@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-13T08:04:49+00:00",
-  "as_of_local": "2026-11-13 08:04:49 UTC",
+  "as_of_utc": "2026-11-13T08:09:51+00:00",
+  "as_of_local": "2026-11-13 08:09:51 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "FTI"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1153,34 +1155,6 @@
       ]
     },
     {
-      "symbol": "FTI",
-      "name": "TechnipFMC",
-      "price": 64.92,
-      "previous_close": 65.39,
-      "change_pct": -0.72,
-      "market_cap": 25243060110.34488,
-      "headlines": [
-        {
-          "title": "What iShares S&P Mid-Cap 400 Growth ETF (IJK) Bought: FTI Leads on Tuesday",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-p-mid-cap-400-110524030.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-12T11:05:24Z"
-        },
-        {
-          "title": "iShares Core S&P Mid-Cap (IJH) Adds TechnipFMC and United Therapeutics on Tuesday",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-core-p-mid-cap-110419915.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-12T11:04:19Z"
-        },
-        {
-          "title": "What State Street SPDR S&P MidCap 400 ETF (MDY) Sold: TechnipFMC Leads on Friday",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/state-street-spdr-p-midcap-110557710.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-10T11:05:57Z"
-        }
-      ]
-    },
-    {
       "symbol": "HUBB",
       "name": "Hubbell",
       "price": 437.98,
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 88.24,
-      "change_pct": -0.56
+      "price": 88.52,
+      "change_pct": -0.25
     },
     {
       "label": "Brent",
-      "price": 95.64,
-      "change_pct": -0.19
+      "price": 95.9,
+      "change_pct": 0.08
     },
     {
       "label": "NatGas",
-      "price": 3.29,
-      "change_pct": -1.65
+      "price": 3.28,
+      "change_pct": -1.74
     }
   ]
 }
