@@ -1,27 +1,10 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-13T00:18:30+00:00",
+  "as_of": "2026-11-13T00:33:34+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": [
-  {
-   "rank": 1,
-   "ticker": "LEU",
-   "company": "Centrus Energy Corp.",
-   "move_pct": -5.95,
-   "price": 105.5,
-   "volume": 542048,
-   "volume_vs_avg": "~0.6x",
-   "heat_score": 39,
-   "direction": "down",
-   "why": "Clean Energy Fuels, Centrus Energy, Patterson-UTI, HighPeak Energy, and Kosmos Energy stocks trade up and down, what you need to know",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQTk5Xd3RMaVVzamlkZTJPTXNFdF9YLURZUlBXS01XdTZxaEdic3BhOGlxbGVqVVZ4NU1qeExxNElYUTQ4QXE0ZDdMZnc1TG5kb24wOFBENTJZNVMxVXlqUEgxbE1hSlFNUm5KS2lqbHlDYm5rZkNfdHd6MFNSRmtoeU1JNXNrUi1WWkpYa2czYUQ3TU91aTRfcVZWSEdDNnFRNW9ncnNRNlk0UllzQ3dwZzlIWkFweWFKZC1XSzYtQk5qSzBKWGd4NVFqR3MwOUljb0tlWWRPVGNWZWhMeUhqQUhXWjBwNWtBa25GY3ZLWERYTEJHVmJQeENXMTkyc2hpTnFBZWtFc1ZUUDBuUmZfazdkR1RmZVVk?oc=5",
-   "published": "2026-11-12T20:30:42+00:00",
-   "sector": "Nuclear & Uranium"
-  }
- ]
+ "hot_tickers": []
 }
