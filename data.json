@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-13T06:59:18+00:00",
-  "as_of_local": "2026-11-13 06:59:18 UTC",
+  "as_of_utc": "2026-11-13T07:14:26+00:00",
+  "as_of_local": "2026-11-13 07:14:26 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "COP"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -171,6 +169,34 @@
           "url": "https://finance.yahoo.com/energy/articles/nextera-energy-stock-real-bargain-210851417.html",
           "publisher": "Trefis",
           "published": "2026-11-12T21:08:51Z"
+        }
+      ]
+    },
+    {
+      "symbol": "COP",
+      "name": "ConocoPhillips",
+      "price": 140.06,
+      "previous_close": 137.86,
+      "change_pct": 1.6,
+      "market_cap": 165597845196.8598,
+      "headlines": [
+        {
+          "title": "XOM, CVX, COP: This Analyst Trims Price Targets, Warns Oil Stocks May 'Struggle To Appreciate'",
+          "url": "https://finance.yahoo.com/energy/articles/xom-cvx-cop-analyst-trims-014936143.html",
+          "publisher": "Stocktwits",
+          "published": "2026-11-13T01:49:36Z"
+        },
+        {
+          "title": "ConocoPhillips (COP) Stock Looks Like A Bargain After Fresh Results",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/conocophillips-cop-stock-looks-bargain-191205400.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-12T19:12:05Z"
+        },
+        {
+          "title": "Nvidia downgraded, AMD upgraded: Wall Street's top analyst calls",
+          "url": "https://finance.yahoo.com/news/amd-under-armour-downgraded-wall-133533194.html",
+          "publisher": "The Fly",
+          "published": "2026-11-12T14:44:01Z"
         }
       ]
     },
@@ -1913,8 +1939,8 @@
           "name": "ConocoPhillips",
           "short": "ConocoPhillips",
           "weight_pct": 7.27,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": 1.6,
+          "price": 140.06,
           "currency": "USD"
         },
         {
@@ -2012,8 +2038,8 @@
         "name": "ConocoPhillips",
         "short": "ConocoPhillips",
         "weight_pct": 7.27,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": 1.6,
+        "price": 140.06,
         "currency": "USD"
       },
       {
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 89.05,
-      "change_pct": 0.35
+      "price": 88.91,
+      "change_pct": 0.19
     },
     {
       "label": "Brent",
-      "price": 96.68,
-      "change_pct": 0.9
+      "price": 96.48,
+      "change_pct": 0.69
     },
     {
       "label": "NatGas",
-      "price": 3.3,
-      "change_pct": -1.35
+      "price": 3.31,
+      "change_pct": -1.05
     }
   ]
 }
