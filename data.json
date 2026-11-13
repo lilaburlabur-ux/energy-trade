@@ -1,39 +1,11 @@
 {
-  "as_of_utc": "2026-11-13T12:03:18+00:00",
-  "as_of_local": "2026-11-13 12:03:18 UTC",
+  "as_of_utc": "2026-11-13T12:08:27+00:00",
+  "as_of_local": "2026-11-13 12:08:27 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "NXT"
+    "XOM"
   ],
   "stocks": [
-    {
-      "symbol": "XOM",
-      "name": "ExxonMobil",
-      "price": 169.78,
-      "previous_close": 166.71,
-      "change_pct": 1.84,
-      "market_cap": 692570381562.8004,
-      "headlines": [
-        {
-          "title": "ExxonMobil Raised Its Dividend for the 44th Straight Year and Plans $20 Billion of Buybacks in 2027. Here's How It Can Afford Both.",
-          "url": "https://finance.yahoo.com/energy/articles/exxonmobil-raised-dividend-44th-straight-113500324.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-13T11:35:00Z"
-        },
-        {
-          "title": "After a 3.9% Raise, Here's How Many Shares of ExxonMobil You'd Now Need for $1,000 a Month in Dividends",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-9-raise-heres-many-095000678.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-13T09:50:00Z"
-        },
-        {
-          "title": "ExxonMobil to invest $12.5bn in Longtail development offshore Guyana",
-          "url": "https://finance.yahoo.com/news/exxonmobil-invest-12-5bn-longtail-085608737.html",
-          "publisher": "Offshore Technology",
-          "published": "2026-11-13T08:56:08Z"
-        }
-      ]
-    },
     {
       "symbol": "CVX",
       "name": "Chevron",
@@ -1407,6 +1379,34 @@
       ]
     },
     {
+      "symbol": "NXT",
+      "name": "Nextracker",
+      "price": 93.6,
+      "previous_close": 100.59,
+      "change_pct": -6.95,
+      "market_cap": 14093869846.239967,
+      "headlines": [
+        {
+          "title": "Nextpower Stock In Focus As Lifecycle Services Expand",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nextpower-stock-focus-lifecycle-services-051619309.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-13T05:16:19Z"
+        },
+        {
+          "title": "The Zacks Analyst Blog Highlights Microsoft, Amazon, Alphabet, Nextpower and Centene",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-microsoft-125800453.html",
+          "publisher": "Zacks",
+          "published": "2026-11-06T12:58:00Z"
+        },
+        {
+          "title": "Solar Stocks Pop And Plunge; Analysts Think They Know Why",
+          "url": "https://www.investors.com/news/sunrun-stock-solar-stocks-after-election/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-11-05T19:21:44Z"
+        }
+      ]
+    },
+    {
       "symbol": "AR",
       "name": "Antero Resources",
       "price": 38.71,
@@ -1895,8 +1895,8 @@
           "name": "ExxonMobil Holdings Corp",
           "short": "ExxonMobil",
           "weight_pct": 24.29,
-          "change_pct": 1.84,
-          "price": 169.78,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -1994,8 +1994,8 @@
         "name": "ExxonMobil Holdings Corp",
         "short": "ExxonMobil",
         "weight_pct": 24.29,
-        "change_pct": 1.84,
-        "price": 169.78,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -2089,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 88.43,
-      "change_pct": -0.35
+      "price": 88.62,
+      "change_pct": -0.14
     },
     {
       "label": "Brent",
-      "price": 95.94,
-      "change_pct": 0.13
+      "price": 96.18,
+      "change_pct": 0.38
     },
     {
       "label": "NatGas",
-      "price": 3.27,
-      "change_pct": -2.1
+      "price": 3.26,
+      "change_pct": -2.34
     }
   ]
 }
