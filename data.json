@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-13T11:57:56+00:00",
-  "as_of_local": "2026-11-13 11:57:56 UTC",
+  "as_of_utc": "2026-11-13T12:03:18+00:00",
+  "as_of_local": "2026-11-13 12:03:18 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NXT"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1405,34 +1407,6 @@
       ]
     },
     {
-      "symbol": "NXT",
-      "name": "Nextracker",
-      "price": 93.6,
-      "previous_close": 100.59,
-      "change_pct": -6.95,
-      "market_cap": 14093869846.239967,
-      "headlines": [
-        {
-          "title": "Nextpower Stock In Focus As Lifecycle Services Expand",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nextpower-stock-focus-lifecycle-services-051619309.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-13T05:16:19Z"
-        },
-        {
-          "title": "The Zacks Analyst Blog Highlights Microsoft, Amazon, Alphabet, Nextpower and Centene",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-microsoft-125800453.html",
-          "publisher": "Zacks",
-          "published": "2026-11-06T12:58:00Z"
-        },
-        {
-          "title": "Solar Stocks Pop And Plunge; Analysts Think They Know Why",
-          "url": "https://www.investors.com/news/sunrun-stock-solar-stocks-after-election/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-11-05T19:21:44Z"
-        }
-      ]
-    },
-    {
       "symbol": "AR",
       "name": "Antero Resources",
       "price": 38.71,
@@ -2120,8 +2094,8 @@
     },
     {
       "label": "Brent",
-      "price": 95.91,
-      "change_pct": 0.09
+      "price": 95.94,
+      "change_pct": 0.13
     },
     {
       "label": "NatGas",
