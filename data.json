@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-14T08:17:56+00:00",
-  "as_of_local": "2026-11-14 08:17:56 UTC",
+  "as_of_utc": "2026-11-14T08:23:00+00:00",
+  "as_of_local": "2026-11-14 08:23:00 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "BWXT"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1459,6 +1457,34 @@
           "url": "https://finance.yahoo.com/energy/articles/did-stronger-earnings-just-shift-002052830.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-10T00:20:52Z"
+        }
+      ]
+    },
+    {
+      "symbol": "BWXT",
+      "name": "BWX Technologies",
+      "price": 122.97,
+      "previous_close": 123.99,
+      "change_pct": -0.82,
+      "market_cap": 11267150586.937164,
+      "headlines": [
+        {
+          "title": "ETFs Are Net Sellers of BWX Technologies (BWXT) on Wednesday",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-bwx-technologies-110225961.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-13T11:02:25Z"
+        },
+        {
+          "title": "Will NuScale Power Stock's Jump After Earnings Last?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nuscale-power-stocks-jump-earnings-202101895.html",
+          "publisher": "Trefis",
+          "published": "2026-11-12T20:21:01Z"
+        },
+        {
+          "title": "What Happened To NuScale Power Stock Over The Past Year?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/happened-nuscale-power-stock-over-011843055.html",
+          "publisher": "Trefis",
+          "published": "2026-11-12T01:18:43Z"
         }
       ]
     },
