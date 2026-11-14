@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-14T00:55:50+00:00",
-  "as_of_local": "2026-11-14 00:55:50 UTC",
+  "as_of_utc": "2026-11-14T00:59:35+00:00",
+  "as_of_local": "2026-11-14 00:59:35 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NOV"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1513,34 +1515,6 @@
           "url": "https://finance.yahoo.com/energy/articles/brookfield-renewable-partners-lp-bep-131100251.html",
           "publisher": "GuruFocus.com",
           "published": "2026-11-07T13:11:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "NOV",
-      "name": "NOV Inc",
-      "price": 18.09,
-      "previous_close": 17.8,
-      "change_pct": 1.63,
-      "market_cap": 6449311016.589489,
-      "headlines": [
-        {
-          "title": "DTI Q3 Earnings Miss Estimates on Higher Costs Despite Sales Growth",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/dti-q3-earnings-miss-estimates-181500794.html",
-          "publisher": "Zacks",
-          "published": "2026-11-10T18:15:00Z"
-        },
-        {
-          "title": "CNQ Q3 Earnings Beat on Strong Pricing and Record Thermal Output",
-          "url": "https://finance.yahoo.com/energy/articles/cnq-q3-earnings-beat-strong-152800153.html",
-          "publisher": "Zacks",
-          "published": "2026-11-09T15:28:00Z"
-        },
-        {
-          "title": "Why Is Baker Hughes Stock Falling?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-baker-hughes-stock-falling-141921435.html",
-          "publisher": "Trefis",
-          "published": "2026-11-06T14:19:21Z"
         }
       ]
     },
