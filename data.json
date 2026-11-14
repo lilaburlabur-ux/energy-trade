@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-14T14:42:58+00:00",
-  "as_of_local": "2026-11-14 14:42:58 UTC",
+  "as_of_utc": "2026-11-14T14:58:04+00:00",
+  "as_of_local": "2026-11-14 14:58:04 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "ENPH"
+    "PR"
   ],
   "stocks": [
     {
@@ -68,7 +68,7 @@
       "price": 99.08,
       "previous_close": 97.78,
       "change_pct": 1.33,
-      "market_cap": 280064362830.34845,
+      "market_cap": 280264381376.6849,
       "headlines": [
         {
           "title": "LNG Prices Soar. These Exporters Could Benefit as Europe Faces a Tough Winter.",
@@ -1239,34 +1239,6 @@
       ]
     },
     {
-      "symbol": "PR",
-      "name": "Permian Resources",
-      "price": 23.05,
-      "previous_close": 22.77,
-      "change_pct": 1.23,
-      "market_cap": 19332629004.003,
-      "headlines": [
-        {
-          "title": "Is Permian Resources (PR) a Solid Growth Stock? 3 Reasons to Think \"Yes\"",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/permian-resources-pr-solid-growth-164502658.html",
-          "publisher": "Zacks",
-          "published": "2026-11-13T16:45:02Z"
-        },
-        {
-          "title": "The Blue Wave Crashed on Texas Pacific Land. That Could Be an Opportunity.",
-          "url": "https://www.barrons.com/articles/the-blue-wave-crashed-on-texas-pacific-land-that-could-be-an-opportunity-1302c677?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-11-12T23:14:00Z"
-        },
-        {
-          "title": "The Oil Slump Has Gone Too Far. Where Prices Could Go Next.",
-          "url": "https://www.barrons.com/articles/oil-prices-stocks-fall-where-they-could-go-next-0162a3c2?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-11-09T10:55:00Z"
-        }
-      ]
-    },
-    {
       "symbol": "FSLR",
       "name": "First Solar",
       "price": 171.39,
@@ -1627,6 +1599,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/centrus-energy-leu-stock-may-042050380.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-14T04:20:50Z"
+        }
+      ]
+    },
+    {
+      "symbol": "ENPH",
+      "name": "Enphase Energy",
+      "price": 26.07,
+      "previous_close": 26.78,
+      "change_pct": -2.65,
+      "market_cap": 3449433161.010887,
+      "headlines": [
+        {
+          "title": "How Low Can First Solar Stock Go?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/low-first-solar-stock-175441142.html",
+          "publisher": "Trefis",
+          "published": "2026-11-13T17:54:41Z"
+        },
+        {
+          "title": "Enphase Energy, Inc. (ENPH) is Attracting Investor Attention: Here is What You Should Know",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/enphase-energy-inc-enph-attracting-130004437.html",
+          "publisher": "Zacks",
+          "published": "2026-11-13T13:00:04Z"
+        },
+        {
+          "title": "What Changed In First Solar's Story?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/changed-first-solars-story-121251483.html",
+          "publisher": "Trefis",
+          "published": "2026-11-13T12:12:51Z"
         }
       ]
     },
