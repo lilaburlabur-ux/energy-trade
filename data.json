@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-14T10:11:03+00:00",
-  "as_of_local": "2026-11-14 10:11:03 UTC",
+  "as_of_utc": "2026-11-14T10:26:11+00:00",
+  "as_of_local": "2026-11-14 10:26:11 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "TTE"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -113,34 +115,6 @@
           "url": "https://finance.yahoo.com/energy/articles/top-3-nuclear-stocks-watch-180807383.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-13T18:08:07Z"
-        }
-      ]
-    },
-    {
-      "symbol": "TTE",
-      "name": "TotalEnergies",
-      "price": 90.74,
-      "previous_close": 89.55,
-      "change_pct": 1.33,
-      "market_cap": 199000977922.49442,
-      "headlines": [
-        {
-          "title": "Murphy Oil Signs Offshore Production Sharing Contracts in Cameroon",
-          "url": "https://finance.yahoo.com/energy/articles/murphy-oil-signs-offshore-production-134600650.html",
-          "publisher": "Zacks",
-          "published": "2026-11-13T13:46:00Z"
-        },
-        {
-          "title": "The Zacks Analyst Blog Highlights Home Depot, Gilead Sciences, TotalEnergies, Key Tronic and iPower",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-home-065100996.html",
-          "publisher": "Zacks",
-          "published": "2026-11-13T06:51:00Z"
-        },
-        {
-          "title": "Top Research Reports for Home Depot, Gilead & TotalEnergies",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/top-research-reports-home-depot-200700776.html",
-          "publisher": "Zacks",
-          "published": "2026-11-12T20:07:00Z"
         }
       ]
     },
