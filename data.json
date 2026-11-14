@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-14T02:45:49+00:00",
-  "as_of_local": "2026-11-14 02:45:49 UTC",
+  "as_of_utc": "2026-11-14T03:01:04+00:00",
+  "as_of_local": "2026-11-14 03:01:04 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "COP"
+    "DINO"
   ],
   "stocks": [
     {
@@ -171,6 +171,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/5-dividend-aristocrats-kings-consider-131102614.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-13T13:11:02Z"
+        }
+      ]
+    },
+    {
+      "symbol": "COP",
+      "name": "ConocoPhillips",
+      "price": 142.28,
+      "previous_close": 140.06,
+      "change_pct": 1.59,
+      "market_cap": 168222630466.6799,
+      "headlines": [
+        {
+          "title": "Why You Need To Pay Attention To Occidental Petroleum Stock?",
+          "url": "https://finance.yahoo.com/energy/articles/why-pay-attention-occidental-petroleum-194848133.html",
+          "publisher": "Trefis",
+          "published": "2026-11-13T19:48:48Z"
+        },
+        {
+          "title": "A December Rate Hike Looks Likely: Buy These 3 Energy and Materials Dividend Stocks Before the Fed Moves",
+          "url": "https://finance.yahoo.com/markets/commodities/articles/december-rate-hike-looks-likely-173050546.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-13T17:30:50Z"
+        },
+        {
+          "title": "ConocoPhillips' Lower 48 and Willow Assets: Key to Long-Term Growth?",
+          "url": "https://finance.yahoo.com/energy/articles/conocophillips-lower-48-willow-assets-171100025.html",
+          "publisher": "Zacks",
+          "published": "2026-11-13T17:11:00Z"
         }
       ]
     },
@@ -1295,34 +1323,6 @@
       ]
     },
     {
-      "symbol": "DINO",
-      "name": "HF Sinclair",
-      "price": 102.18,
-      "previous_close": 102.15,
-      "change_pct": 0.03,
-      "market_cap": 17296127589.17746,
-      "headlines": [
-        {
-          "title": "Can HF Sinclair Capitalize on Tight Global Refined Product Supplies?",
-          "url": "https://finance.yahoo.com/energy/articles/hf-sinclair-capitalize-tight-global-172800044.html",
-          "publisher": "Zacks",
-          "published": "2026-11-11T17:28:00Z"
-        },
-        {
-          "title": "Replenish Your Portfolio With These 5 Low Price-to-Sales Stocks",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/replenish-portfolio-5-low-price-153700808.html",
-          "publisher": "Zacks",
-          "published": "2026-11-11T15:37:00Z"
-        },
-        {
-          "title": "The Zacks Analyst Blog Highlights Quanta, BrightSpring Health, Phillips 66, Valero Energy and HF Sinclair",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-quanta-064100733.html",
-          "publisher": "Zacks",
-          "published": "2026-11-11T06:41:00Z"
-        }
-      ]
-    },
-    {
       "symbol": "TLN",
       "name": "Talen Energy",
       "price": 376.01,
@@ -1527,12 +1527,6 @@
       "market_cap": 6265055830.638245,
       "headlines": [
         {
-          "title": "Here\u2019s What Supports Weatherford International\u2019s (WFRD) Multiyear Profit Cycle Growth",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/supports-weatherford-international-wfrd-multiyear-162245266.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-11-12T16:22:45Z"
-        },
-        {
           "title": "Why Is Baker Hughes Stock Falling?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-baker-hughes-stock-falling-141921435.html",
           "publisher": "Trefis",
@@ -1543,6 +1537,12 @@
           "url": "https://finance.yahoo.com/energy/articles/jun-n-5-support-require-131419197.html",
           "publisher": "Simply Wall St.",
           "published": "2026-10-30T13:14:19Z"
+        },
+        {
+          "title": "Weatherford: 3 Key Takeaways for Long-Term Investors",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/weatherford-3-key-takeaways-long-212002900.html",
+          "publisher": "Motley Fool",
+          "published": "2026-10-28T21:20:02Z"
         }
       ]
     },
@@ -1913,8 +1913,8 @@
           "name": "ConocoPhillips",
           "short": "ConocoPhillips",
           "weight_pct": 7.27,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": 1.59,
+          "price": 142.28,
           "currency": "USD"
         },
         {
@@ -2012,8 +2012,8 @@
         "name": "ConocoPhillips",
         "short": "ConocoPhillips",
         "weight_pct": 7.27,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": 1.59,
+        "price": 142.28,
         "currency": "USD"
       },
       {
