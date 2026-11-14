@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-14T20:33:41+00:00",
-  "as_of_local": "2026-11-14 20:33:41 UTC",
+  "as_of_utc": "2026-11-14T20:48:53+00:00",
+  "as_of_local": "2026-11-14 20:48:53 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "FTI"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1151,6 +1149,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-halliburton-094239612.html",
           "publisher": "Barchart",
           "published": "2026-11-09T09:42:39Z"
+        }
+      ]
+    },
+    {
+      "symbol": "FTI",
+      "name": "TechnipFMC",
+      "price": 66.26,
+      "previous_close": 64.92,
+      "change_pct": 2.06,
+      "market_cap": 25764098336.59764,
+      "headlines": [
+        {
+          "title": "What State Street SPDR S&P MidCap 400 ETF (MDY) Sold: TechnipFMC Leads on Nov. 11",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/state-street-spdr-p-midcap-110340208.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-13T11:03:40Z"
+        },
+        {
+          "title": "What iShares S&P Mid-Cap 400 Growth ETF (IJK) Bought: FTI Leads on Tuesday",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-p-mid-cap-400-110524030.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-12T11:05:24Z"
+        },
+        {
+          "title": "iShares Core S&P Mid-Cap (IJH) Adds TechnipFMC and United Therapeutics on Tuesday",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-core-p-mid-cap-110419915.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-12T11:04:19Z"
         }
       ]
     },
