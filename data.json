@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-14T18:58:32+00:00",
-  "as_of_local": "2026-11-14 18:58:32 UTC",
+  "as_of_utc": "2026-11-14T19:03:39+00:00",
+  "as_of_local": "2026-11-14 19:03:39 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "DINO"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1319,6 +1317,34 @@
           "url": "https://finance.yahoo.com/energy/articles/ovintiv-q3-earnings-call-highlights-231409890.html",
           "publisher": "MarketBeat",
           "published": "2026-11-07T23:14:09Z"
+        }
+      ]
+    },
+    {
+      "symbol": "DINO",
+      "name": "HF Sinclair",
+      "price": 102.18,
+      "previous_close": 102.15,
+      "change_pct": 0.03,
+      "market_cap": 17296127589.17746,
+      "headlines": [
+        {
+          "title": "Can HF Sinclair Capitalize on Tight Global Refined Product Supplies?",
+          "url": "https://finance.yahoo.com/energy/articles/hf-sinclair-capitalize-tight-global-172800044.html",
+          "publisher": "Zacks",
+          "published": "2026-11-11T17:28:00Z"
+        },
+        {
+          "title": "Replenish Your Portfolio With These 5 Low Price-to-Sales Stocks",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/replenish-portfolio-5-low-price-153700808.html",
+          "publisher": "Zacks",
+          "published": "2026-11-11T15:37:00Z"
+        },
+        {
+          "title": "The Zacks Analyst Blog Highlights Quanta, BrightSpring Health, Phillips 66, Valero Energy and HF Sinclair",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-quanta-064100733.html",
+          "publisher": "Zacks",
+          "published": "2026-11-11T06:41:00Z"
         }
       ]
     },
