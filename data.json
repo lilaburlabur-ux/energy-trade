@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-14T06:42:22+00:00",
-  "as_of_local": "2026-11-14 06:42:22 UTC",
+  "as_of_utc": "2026-11-14T06:57:28+00:00",
+  "as_of_local": "2026-11-14 06:57:28 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "FLNC"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -68,7 +66,7 @@
       "price": 99.08,
       "previous_close": 97.78,
       "change_pct": 1.33,
-      "market_cap": 280164258855.0746,
+      "market_cap": 280264381376.6849,
       "headlines": [
         {
           "title": "LNG Prices Soar. These Exporters Could Benefit as Europe Faces a Tough Winter.",
@@ -1879,6 +1877,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/eos-energy-enterprises-inc-q3-040539828.html",
           "publisher": "Moby",
           "published": "2026-11-06T04:05:39Z"
+        }
+      ]
+    },
+    {
+      "symbol": "FLNC",
+      "name": "Fluence Energy",
+      "price": 4.68,
+      "previous_close": 4.74,
+      "change_pct": -1.16,
+      "market_cap": 670005567.2643414,
+      "headlines": [
+        {
+          "title": "Prairie Operating Co. (PROP) Q3 Earnings and Revenues Top Estimates",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/prairie-operating-co-prop-q3-220505861.html",
+          "publisher": "Zacks",
+          "published": "2026-11-12T22:05:05Z"
+        },
+        {
+          "title": "Gevo, Inc. (GEVO) Q3 Earnings and Revenues Beat Estimates",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/gevo-inc-gevo-q3-earnings-214002018.html",
+          "publisher": "Zacks",
+          "published": "2026-11-10T21:40:02Z"
+        },
+        {
+          "title": "Hallador Energy (HNRG) Reports Break-Even Earnings for Q3",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/hallador-energy-hnrg-reports-break-223505693.html",
+          "publisher": "Zacks",
+          "published": "2026-11-09T22:35:05Z"
         }
       ]
     }
