@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-14T02:30:42+00:00",
-  "as_of_local": "2026-11-14 02:30:42 UTC",
+  "as_of_utc": "2026-11-14T02:45:49+00:00",
+  "as_of_local": "2026-11-14 02:45:49 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "COP"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -63,10 +65,10 @@
     {
       "symbol": "SHEL",
       "name": "Shell",
-      "price": 97.78,
-      "previous_close": 97.08,
-      "change_pct": 0.72,
-      "market_cap": 280164253677.48,
+      "price": 99.08,
+      "previous_close": 97.78,
+      "change_pct": 1.33,
+      "market_cap": 280164258855.0746,
       "headlines": [
         {
           "title": "LNG Prices Soar. These Exporters Could Benefit as Europe Faces a Tough Winter.",
@@ -91,10 +93,10 @@
     {
       "symbol": "GEV",
       "name": "GE Vernova",
-      "price": 818.49,
-      "previous_close": 808.24,
-      "change_pct": 1.27,
-      "market_cap": 212570092016.58,
+      "price": 803.13,
+      "previous_close": 818.49,
+      "change_pct": -1.88,
+      "market_cap": 212570093308.9485,
       "headlines": [
         {
           "title": "Inside Jim Cramer\u2019s Charitable Trust: 5 Stocks He Actually Owns",
@@ -169,34 +171,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/5-dividend-aristocrats-kings-consider-131102614.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-13T13:11:02Z"
-        }
-      ]
-    },
-    {
-      "symbol": "COP",
-      "name": "ConocoPhillips",
-      "price": 142.28,
-      "previous_close": 140.06,
-      "change_pct": 1.59,
-      "market_cap": 168222630466.6799,
-      "headlines": [
-        {
-          "title": "Why You Need To Pay Attention To Occidental Petroleum Stock?",
-          "url": "https://finance.yahoo.com/energy/articles/why-pay-attention-occidental-petroleum-194848133.html",
-          "publisher": "Trefis",
-          "published": "2026-11-13T19:48:48Z"
-        },
-        {
-          "title": "A December Rate Hike Looks Likely: Buy These 3 Energy and Materials Dividend Stocks Before the Fed Moves",
-          "url": "https://finance.yahoo.com/markets/commodities/articles/december-rate-hike-looks-likely-173050546.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-13T17:30:50Z"
-        },
-        {
-          "title": "ConocoPhillips' Lower 48 and Willow Assets: Key to Long-Term Growth?",
-          "url": "https://finance.yahoo.com/energy/articles/conocophillips-lower-48-willow-assets-171100025.html",
-          "publisher": "Zacks",
-          "published": "2026-11-13T17:11:00Z"
         }
       ]
     },
@@ -343,10 +317,10 @@
     {
       "symbol": "PSX",
       "name": "Phillips 66",
-      "price": 262.91,
-      "previous_close": 258.68,
-      "change_pct": 1.64,
-      "market_cap": 103330168693.79999,
+      "price": 264.9,
+      "previous_close": 262.91,
+      "change_pct": 0.76,
+      "market_cap": 103330166312.98724,
       "headlines": [
         {
           "title": "Best Momentum Stocks to Buy for November 13th",
@@ -427,10 +401,10 @@
     {
       "symbol": "CEG",
       "name": "Constellation Energy",
-      "price": 282.4,
-      "previous_close": 274.73,
-      "change_pct": 2.79,
-      "market_cap": 98520702820.8,
+      "price": 280.2,
+      "previous_close": 282.4,
+      "change_pct": -0.78,
+      "market_cap": 98520707112.896,
       "headlines": [
         {
           "title": "Earnings week scorecard: beats rewarded selectively as AI-infrastructure names pull back",
@@ -595,10 +569,10 @@
     {
       "symbol": "VRT",
       "name": "Vertiv",
-      "price": 209.64,
-      "previous_close": 206.51,
-      "change_pct": 1.52,
-      "market_cap": 77809159271.47,
+      "price": 202.07,
+      "previous_close": 209.64,
+      "change_pct": -3.61,
+      "market_cap": 77809162091.73676,
       "headlines": [
         {
           "title": "Why Should Vertiv Stock Holders Keep Watching This Number?",
@@ -819,9 +793,9 @@
     {
       "symbol": "MPLX",
       "name": "MPLX",
-      "price": 56.59,
-      "previous_close": 56.77,
-      "change_pct": -0.32,
+      "price": 57.25,
+      "previous_close": 56.59,
+      "change_pct": 1.17,
       "market_cap": 57995797982.75,
       "headlines": [
         {
@@ -847,10 +821,10 @@
     {
       "symbol": "BE",
       "name": "Bloom Energy",
-      "price": 201.93,
-      "previous_close": 209.47,
-      "change_pct": -3.6,
-      "market_cap": 56763127721.11,
+      "price": 191.99,
+      "previous_close": 201.93,
+      "change_pct": -4.92,
+      "market_cap": 56763129345.2007,
       "headlines": [
         {
           "title": "Can Bloom Energy Stock Jump 50%?",
@@ -959,10 +933,10 @@
     {
       "symbol": "FANG",
       "name": "Diamondback Energy",
-      "price": 182.2,
-      "previous_close": 179.8,
-      "change_pct": 1.33,
-      "market_cap": 51626508836.130005,
+      "price": 184.93,
+      "previous_close": 182.2,
+      "change_pct": 1.5,
+      "market_cap": 51626506791.443665,
       "headlines": [
         {
           "title": "Why You Need To Pay Attention To Occidental Petroleum Stock?",
@@ -1015,10 +989,10 @@
     {
       "symbol": "VST",
       "name": "Vistra",
-      "price": 134.51,
-      "previous_close": 133.45,
-      "change_pct": 0.79,
-      "market_cap": 45142886785.829994,
+      "price": 133.01,
+      "previous_close": 134.51,
+      "change_pct": -1.12,
+      "market_cap": 45142884921.479324,
       "headlines": [
         {
           "title": "Do You Like Cash? Consider Vistra Stock",
@@ -1105,6 +1079,12 @@
       "market_cap": 30805249066.72529,
       "headlines": [
         {
+          "title": "Canadian Nuclear Stocks To Watch In November 2026",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/canadian-nuclear-stocks-watch-november-021246325.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-14T02:12:46Z"
+        },
+        {
           "title": "3 Canadian Growth Stocks To Own In November 2026",
           "url": "https://finance.yahoo.com/markets/stocks/articles/3-canadian-growth-stocks-own-201055368.html",
           "publisher": "Simply Wall St.",
@@ -1115,12 +1095,6 @@
           "url": "https://finance.yahoo.com/energy/articles/uuuu-bets-pinyon-plain-meet-130800565.html",
           "publisher": "Zacks",
           "published": "2026-11-13T13:08:00Z"
-        },
-        {
-          "title": "CCJ's Share of Uranium Output Down 20% in Q3: Will 2026 Targets be Met?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ccjs-share-uranium-output-down-124400298.html",
-          "publisher": "Zacks",
-          "published": "2026-11-12T12:44:00Z"
         }
       ]
     },
@@ -1183,10 +1157,10 @@
     {
       "symbol": "HUBB",
       "name": "Hubbell",
-      "price": 437.98,
-      "previous_close": 443.48,
-      "change_pct": -1.24,
-      "market_cap": 23087853594.3,
+      "price": 436.98,
+      "previous_close": 437.98,
+      "change_pct": -0.23,
+      "market_cap": 23087854174.76303,
       "headlines": [
         {
           "title": "Is One Shrinking Number The Biggest Risk To Eaton Stock?",
@@ -1239,10 +1213,10 @@
     {
       "symbol": "PR",
       "name": "Permian Resources",
-      "price": 22.77,
-      "previous_close": 22.32,
-      "change_pct": 2.02,
-      "market_cap": 19332629643.9,
+      "price": 23.05,
+      "previous_close": 22.77,
+      "change_pct": 1.23,
+      "market_cap": 19332629004.003,
       "headlines": [
         {
           "title": "Is Permian Resources (PR) a Solid Growth Stock? 3 Reasons to Think \"Yes\"",
@@ -1351,10 +1325,10 @@
     {
       "symbol": "TLN",
       "name": "Talen Energy",
-      "price": 386.68,
-      "previous_close": 378.71,
-      "change_pct": 2.1,
-      "market_cap": 16358432365.119999,
+      "price": 376.01,
+      "previous_close": 386.68,
+      "change_pct": -2.76,
+      "market_cap": 16358432789.976562,
       "headlines": [
         {
           "title": "What Is Talen Energy (TLN) Signaling With Its 750 MW Capacity Deal?",
@@ -1407,10 +1381,10 @@
     {
       "symbol": "NXT",
       "name": "Nextracker",
-      "price": 93.6,
-      "previous_close": 100.59,
-      "change_pct": -6.95,
-      "market_cap": 14309193091.05,
+      "price": 95.03,
+      "previous_close": 93.6,
+      "change_pct": 1.53,
+      "market_cap": 14309192907.241974,
       "headlines": [
         {
           "title": "Nextpower Stock In Focus As Lifecycle Services Expand",
@@ -1435,10 +1409,10 @@
     {
       "symbol": "AR",
       "name": "Antero Resources",
-      "price": 38.71,
-      "previous_close": 38.21,
-      "change_pct": 1.31,
-      "market_cap": 11898448640.0,
+      "price": 38.74,
+      "previous_close": 38.71,
+      "change_pct": 0.08,
+      "market_cap": 11898449155.517578,
       "headlines": [
         {
           "title": "U.S. Targeted Value Portfolio (DFAT) Buys $3.7 Million More Coeur Mining on Wednesday",
@@ -1547,10 +1521,10 @@
     {
       "symbol": "WFRD",
       "name": "Weatherford",
-      "price": 85.51,
-      "previous_close": 86.69,
-      "change_pct": -1.36,
-      "market_cap": 6265056051.8,
+      "price": 86.45,
+      "previous_close": 85.51,
+      "change_pct": 1.1,
+      "market_cap": 6265055830.638245,
       "headlines": [
         {
           "title": "Here\u2019s What Supports Weatherford International\u2019s (WFRD) Multiyear Profit Cycle Growth",
@@ -1575,10 +1549,10 @@
     {
       "symbol": "NXE",
       "name": "NexGen Energy",
-      "price": 7.87,
-      "previous_close": 8.32,
-      "change_pct": -5.41,
-      "market_cap": 5339149745.36,
+      "price": 7.76,
+      "previous_close": 7.87,
+      "change_pct": -1.4,
+      "market_cap": 5339149902.838659,
       "headlines": [
         {
           "title": "Canadian Nuclear Stocks To Watch In November 2026",
@@ -1603,10 +1577,10 @@
     {
       "symbol": "OKLO",
       "name": "Oklo",
-      "price": 24.45,
-      "previous_close": 25.86,
-      "change_pct": -5.45,
-      "market_cap": 4671327064.56,
+      "price": 23.92,
+      "previous_close": 24.45,
+      "change_pct": -2.17,
+      "market_cap": 4671327079.459414,
       "headlines": [
         {
           "title": "Top 3 Nuclear Stocks To Watch In November 2026",
@@ -1631,10 +1605,10 @@
     {
       "symbol": "ENPH",
       "name": "Enphase Energy",
-      "price": 26.78,
-      "previous_close": 28.3,
-      "change_pct": -5.37,
-      "market_cap": 3449433201.39,
+      "price": 26.07,
+      "previous_close": 26.78,
+      "change_pct": -2.65,
+      "market_cap": 3449433161.010887,
       "headlines": [
         {
           "title": "How Low Can First Solar Stock Go?",
@@ -1715,10 +1689,10 @@
     {
       "symbol": "RUN",
       "name": "Sunrun",
-      "price": 8.52,
-      "previous_close": 9.07,
-      "change_pct": -6.06,
-      "market_cap": 2088120504.4300003,
+      "price": 8.63,
+      "previous_close": 8.52,
+      "change_pct": 1.29,
+      "market_cap": 2088120532.1202002,
       "headlines": [
         {
           "title": "Sunrun (RUN) Shares Dropped, So What Is Driving Attention Now?",
@@ -1743,10 +1717,10 @@
     {
       "symbol": "SMR",
       "name": "NuScale Power",
-      "price": 4.82,
-      "previous_close": 5.23,
-      "change_pct": -7.84,
-      "market_cap": 1913122886.72,
+      "price": 4.66,
+      "previous_close": 4.82,
+      "change_pct": -3.32,
+      "market_cap": 1913122824.076355,
       "headlines": [
         {
           "title": "NuScale Power (SMR) As Lawsuit And Earnings Put Its Valuation Story To The Test",
@@ -1799,10 +1773,10 @@
     {
       "symbol": "SEDG",
       "name": "SolarEdge",
-      "price": 24.29,
-      "previous_close": 26.67,
-      "change_pct": -8.92,
-      "market_cap": 1476658463.8500001,
+      "price": 23.85,
+      "previous_close": 24.29,
+      "change_pct": -1.81,
+      "market_cap": 1476658487.4684696,
       "headlines": [
         {
           "title": "SolarEdge Technologies (SEDG) Looks Cheap After Yield Pressure Clouds A Tariff Helped Beat",
@@ -1827,10 +1801,10 @@
     {
       "symbol": "ARRY",
       "name": "Array Technologies",
-      "price": 4.8,
-      "previous_close": 5.2,
-      "change_pct": -7.69,
-      "market_cap": 746663731.4399999,
+      "price": 4.84,
+      "previous_close": 4.8,
+      "change_pct": 0.83,
+      "market_cap": 746663754.9796371,
       "headlines": [
         {
           "title": "Array Technologies' Merger With Shoals Expected to Boost Cash Flow, RBC Capital Markets Says",
@@ -1855,10 +1829,10 @@
     {
       "symbol": "EOSE",
       "name": "Eos Energy",
-      "price": 1.81,
-      "previous_close": 1.99,
-      "change_pct": -9.05,
-      "market_cap": 699755238.0899999,
+      "price": 1.91,
+      "previous_close": 1.81,
+      "change_pct": 5.52,
+      "market_cap": 699755225.8612822,
       "headlines": [
         {
           "title": "Eos Energy Enterprises (EOSE) Stock Looks Fully Priced After Revenue Jump",
@@ -1883,10 +1857,10 @@
     {
       "symbol": "FLNC",
       "name": "Fluence Energy",
-      "price": 4.74,
-      "previous_close": 5.08,
-      "change_pct": -6.79,
-      "market_cap": 670005591.8399999,
+      "price": 4.68,
+      "previous_close": 4.74,
+      "change_pct": -1.16,
+      "market_cap": 670005567.2643414,
       "headlines": [
         {
           "title": "Prairie Operating Co. (PROP) Q3 Earnings and Revenues Top Estimates",
@@ -1939,8 +1913,8 @@
           "name": "ConocoPhillips",
           "short": "ConocoPhillips",
           "weight_pct": 7.27,
-          "change_pct": 1.59,
-          "price": 142.28,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -1957,8 +1931,8 @@
           "name": "Phillips 66",
           "short": "Phillips",
           "weight_pct": 4.52,
-          "change_pct": 1.64,
-          "price": 262.91,
+          "change_pct": 0.76,
+          "price": 264.9,
           "currency": "USD"
         },
         {
@@ -2038,8 +2012,8 @@
         "name": "ConocoPhillips",
         "short": "ConocoPhillips",
         "weight_pct": 7.27,
-        "change_pct": 1.59,
-        "price": 142.28,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -2056,8 +2030,8 @@
         "name": "Phillips 66",
         "short": "Phillips",
         "weight_pct": 4.52,
-        "change_pct": 1.64,
-        "price": 262.91,
+        "change_pct": 0.76,
+        "price": 264.9,
         "currency": "USD"
       },
       {
