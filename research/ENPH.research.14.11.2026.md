@@ -4,24 +4,24 @@ Signed file: `ENPH.research.14.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $26.07 (2026-11-14, ~15-min delayed) |
+| Current price | $nan (2026-11-14, ~15-min delayed) |
 | Market cap | $3.45B |
 | Sector / Industry | Technology / Solar |
 | Main theme | Solar — see catalysts below |
-| Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: high. |
+| Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-14.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-35.57%) with negative half-year (-50.71%). |
-| Fresh setup quality | Poor / broken | -63.96% from 52w high — base needs to rebuild. |
+| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
+| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 7.49%, revenue growth -28.50%. |
-| Value attractiveness | Reasonable | Forward P/E 18.29, EV/Sales 2.66. |
-| Risk level | High | Beta 1.45, ATR 8.1% of price, short float 24.85%. |
+| Value attractiveness | Reasonable | Forward P/E 18.29, EV/Sales 2.59. |
+| Risk level | High | Beta 1.45, ATR nan% of price, short float 24.85%. |
 
-**Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: high.
+**Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -44,22 +44,22 @@ Enphase Energy, Inc., together with its subsidiaries, designs, develops, manufac
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $26.07; 52w high $72.33 (-63.96%); 52w low $24.99 (+4.32%) |
-| Trend | -35.57% vs SMA200, -18.26% vs SMA50, -10.05% vs SMA20 |
-| Momentum | RSI(14) 38.2 (neutral) |
-| Volatility | ATR(14) 2.12 (~8.1% of price); beta 1.45 |
-| Setup perspective | -63.96% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $nan; 52w high $72.33 (+nan%); 52w low $24.99 (+nan%) |
+| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
+| Momentum | RSI(14) 39.9 (neutral) |
+| Volatility | ATR(14) 2.18 (~nan% of price); beta 1.45 |
+| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -8.4% |
-| Month | -15.4% |
-| Quarter | -32.5% |
-| Half Y | -50.7% |
-| 1Y | -15.1% |
-| YTD | -22.8% |
+| Week | +nan% |
+| Month | +nan% |
+| Quarter | +nan% |
+| Half Y | +nan% |
+| 1Y | +nan% |
+| YTD | +nan% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Enphase Energy, Inc., together with its subsidiaries, designs, develops, manufac
 | Revenue (ttm) | $1.21B | Revenue growth -28.50% y/y |
 | Profitability | Gross 24.10%, operating 0.65%, net 7.49% | ROA 0.16%, ROE 8.11% |
 | Balance sheet | Cash $931.85M, debt $614.56M | Current ratio 4.09, debt/equity 49.48 |
-| Valuation | P/E 38.91, forward P/E 18.29, P/S 2.85, P/B 2.78 | EV/Sales 2.66, EV/EBITDA 38.41 |
+| Valuation | P/E 38.91, forward P/E 18.29, P/S 2.85, P/B 2.78 | EV/Sales 2.59, EV/EBITDA 37.29 |
 | Growth expectations | Earnings growth -65.20%, EPS q/q -64.90% | Analyst mean target $40.26 (25 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,9 +95,8 @@ Enphase Energy, Inc., together with its subsidiaries, designs, develops, manufac
 | Morgan Stanley | 2,408,561 | 1.82% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.45, ATR 8.1% of price, short float 24.85%. Size positions accordingly.
+- **Volatility risk:** Beta 1.45, ATR nan% of price, short float 24.85%. Size positions accordingly.
 - **Short interest risk:** short float 24.85% can fuel squeezes both ways around news.
-- **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -112,14 +111,14 @@ Enphase Energy, Inc., together with its subsidiaries, designs, develops, manufac
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $26.07 | EV/Sales | 2.66 |
-| Market cap | $3.45B | EV/EBITDA | 38.41 |
+| Price | $nan | EV/Sales | 2.59 |
+| Market cap | $3.45B | EV/EBITDA | 37.29 |
 | Beta | 1.45 | Gross margin | 24.10% |
-| RSI(14) | 38.2 | Operating margin | 0.65% |
-| ATR(14) | 2.12 | Profit margin | 7.49% |
-| SMA20 dist | -10.05% | ROA | 0.16% |
-| SMA50 dist | -18.26% | ROE | 8.11% |
-| SMA200 dist | -35.57% | Revenue (ttm) | $1.21B |
+| RSI(14) | 39.9 | Operating margin | 0.65% |
+| ATR(14) | 2.18 | Profit margin | 7.49% |
+| SMA20 dist | +nan% | ROA | 0.16% |
+| SMA50 dist | +nan% | ROE | 8.11% |
+| SMA200 dist | +nan% | Revenue (ttm) | $1.21B |
 | 52W high | $72.33 | Revenue growth y/y | -28.50% |
 | 52W low | $24.99 | Inst. ownership | 94.12% |
 | P/E (ttm) | 38.91 | Insider ownership | 3.08% |
@@ -141,7 +140,7 @@ Enphase Energy, Inc., together with its subsidiaries, designs, develops, manufac
 | 2026-10-28 | main | Susquehanna | Neutral → Neutral |
 
 ## 9. Conclusion
-ENPH: Low momentum / mixed fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+ENPH: Moderate momentum / mixed fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

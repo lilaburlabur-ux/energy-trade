@@ -4,24 +4,24 @@ Signed file: `VRT.research.14.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $202.07 (2026-11-14, ~15-min delayed) |
+| Current price | $nan (2026-11-14, ~15-min delayed) |
 | Market cap | $77.81B |
 | Sector / Industry | Industrials / Electrical Equipment & Parts |
 | Main theme | Electrical Equipment & Parts — see catalysts below |
-| Current stance | Low technical momentum, strong fundamentals, value: fair-to-demanding, risk: high. |
+| Current stance | Moderate technical momentum, strong fundamentals, value: fair-to-demanding, risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-14.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-25.57%) with negative half-year (-45.50%). |
-| Fresh setup quality | Poor / broken | -46.27% from 52w high — base needs to rebuild. |
+| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
+| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 16.00%, revenue growth 61.20%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 20.37, EV/Sales 6.13. |
-| Risk level | High | Beta 2.11, ATR 8.5% of price, short float 2.88%. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 20.37, EV/Sales 5.91. |
+| Risk level | High | Beta 2.11, ATR nan% of price, short float 2.88%. |
 
-**Bottom line:** Low technical momentum, strong fundamentals, value: fair-to-demanding, risk: high.
+**Bottom line:** Moderate technical momentum, strong fundamentals, value: fair-to-demanding, risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -44,22 +44,22 @@ Vertiv Holdings Co designs, manufactures, and services critical digital infrastr
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $202.07; 52w high $376.06 (-46.27%); 52w low $149.73 (+34.96%) |
-| Trend | -25.57% vs SMA200, -12.64% vs SMA50, -3.31% vs SMA20 |
-| Momentum | RSI(14) 45.1 (neutral) |
-| Volatility | ATR(14) 17.25 (~8.5% of price); beta 2.11 |
-| Setup perspective | -46.27% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $nan; 52w high $376.06 (+nan%); 52w low $149.73 (+nan%) |
+| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
+| Momentum | RSI(14) 47.5 (neutral) |
+| Volatility | ATR(14) 17.16 (~nan% of price); beta 2.11 |
+| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +10.5% |
-| Month | -5.9% |
-| Quarter | -30.9% |
-| Half Y | -45.5% |
-| 1Y | +16.7% |
-| YTD | +15.1% |
+| Week | +nan% |
+| Month | +nan% |
+| Quarter | +nan% |
+| Half Y | +nan% |
+| 1Y | +nan% |
+| YTD | +nan% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Vertiv Holdings Co designs, manufactures, and services critical digital infrastr
 | Revenue (ttm) | $13.12B | Revenue growth 61.20% y/y |
 | Profitability | Gross 38.12%, operating 21.11%, net 16.00% | ROA 11.94%, ROE 46.57% |
 | Balance sheet | Cash $3.71B, debt $3.36B | Current ratio 1.39, debt/equity 61.01 |
-| Valuation | P/E 37.77, forward P/E 20.37, P/S 5.93, P/B 14.14 | EV/Sales 6.13, EV/EBITDA 25.21 |
+| Valuation | P/E 37.77, forward P/E 20.37, P/S 5.93, P/B 14.14 | EV/Sales 5.91, EV/EBITDA 24.29 |
 | Growth expectations | Earnings growth 91.20%, EPS q/q 91.80% | Analyst mean target $334.29 (30 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,9 +95,8 @@ Vertiv Holdings Co designs, manufactures, and services critical digital infrastr
 | NORGES BANK | 4,859,284 | 1.26% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 20.37, EV/Sales 6.13. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 2.11, ATR 8.5% of price, short float 2.88%. Size positions accordingly.
-- **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
+- **Valuation risk:** Forward P/E 20.37, EV/Sales 5.91. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 2.11, ATR nan% of price, short float 2.88%. Size positions accordingly.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -112,14 +111,14 @@ Vertiv Holdings Co designs, manufactures, and services critical digital infrastr
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $202.07 | EV/Sales | 6.13 |
-| Market cap | $77.81B | EV/EBITDA | 25.21 |
+| Price | $nan | EV/Sales | 5.91 |
+| Market cap | $77.81B | EV/EBITDA | 24.29 |
 | Beta | 2.11 | Gross margin | 38.12% |
-| RSI(14) | 45.1 | Operating margin | 21.11% |
-| ATR(14) | 17.25 | Profit margin | 16.00% |
-| SMA20 dist | -3.31% | ROA | 11.94% |
-| SMA50 dist | -12.64% | ROE | 46.57% |
-| SMA200 dist | -25.57% | Revenue (ttm) | $13.12B |
+| RSI(14) | 47.5 | Operating margin | 21.11% |
+| ATR(14) | 17.16 | Profit margin | 16.00% |
+| SMA20 dist | +nan% | ROA | 11.94% |
+| SMA50 dist | +nan% | ROE | 46.57% |
+| SMA200 dist | +nan% | Revenue (ttm) | $13.12B |
 | 52W high | $376.06 | Revenue growth y/y | 61.20% |
 | 52W low | $149.73 | Inst. ownership | 83.30% |
 | P/E (ttm) | 37.77 | Insider ownership | 0.23% |
@@ -141,7 +140,7 @@ Vertiv Holdings Co designs, manufactures, and services critical digital infrastr
 | 2026-10-14 | main | RBC Capital | Outperform → Outperform |
 
 ## 9. Conclusion
-VRT: Low momentum / strong fundamentals / fair-to-demanding value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+VRT: Moderate momentum / strong fundamentals / fair-to-demanding value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

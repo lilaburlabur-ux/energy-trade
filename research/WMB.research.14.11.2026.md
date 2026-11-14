@@ -4,24 +4,24 @@ Signed file: `WMB.research.14.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $69.09 (2026-11-14, ~15-min delayed) |
+| Current price | $nan (2026-11-14, ~15-min delayed) |
 | Market cap | $86.38B |
 | Sector / Industry | Energy / Oil & Gas Midstream |
 | Main theme | Oil & Gas Midstream — see catalysts below |
-| Current stance | Low technical momentum, strong fundamentals, value: fair-to-demanding, risk: elevated. |
+| Current stance | Moderate technical momentum, strong fundamentals, value: fair-to-demanding, risk: moderate. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-14.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-3.92%) with negative half-year (-9.80%). |
-| Fresh setup quality | Moderate / wait | -11.71% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
+| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 24.66%, revenue growth 12.30%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 26.75, EV/Sales 9.84. |
-| Risk level | Elevated | Beta 0.63, ATR 3.7% of price, short float 2.68%. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 26.75, EV/Sales 9.81. |
+| Risk level | Moderate | Beta 0.63, ATR nan% of price, short float 2.68%. |
 
-**Bottom line:** Low technical momentum, strong fundamentals, value: fair-to-demanding, risk: elevated.
+**Bottom line:** Moderate technical momentum, strong fundamentals, value: fair-to-demanding, risk: moderate.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -44,22 +44,22 @@ The Williams Companies, Inc., together with its subsidiaries, operates as an ene
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $69.09; 52w high $78.25 (-11.71%); 52w low $57.01 (+21.20%) |
-| Trend | -3.92% vs SMA200, -2.80% vs SMA50, -1.75% vs SMA20 |
-| Momentum | RSI(14) 47.2 (neutral) |
-| Volatility | ATR(14) 2.53 (~3.7% of price); beta 0.63 |
-| Setup perspective | -11.71% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $nan; 52w high $78.25 (+nan%); 52w low $57.01 (+nan%) |
+| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
+| Momentum | RSI(14) 48.1 (neutral) |
+| Volatility | ATR(14) 2.61 (~nan% of price); beta 0.63 |
+| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +7.8% |
-| Month | -0.2% |
-| Quarter | -5.3% |
-| Half Y | -9.8% |
-| 1Y | +17.8% |
-| YTD | +16.0% |
+| Week | +nan% |
+| Month | +nan% |
+| Quarter | +nan% |
+| Half Y | +nan% |
+| 1Y | +nan% |
+| YTD | +nan% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ The Williams Companies, Inc., together with its subsidiaries, operates as an ene
 | Revenue (ttm) | $12.68B | Revenue growth 12.30% y/y |
 | Profitability | Gross 63.05%, operating 36.63%, net 24.66% | ROA 4.59%, ROE 18.31% |
 | Balance sheet | Cash $1.76B, debt $33.93B | Current ratio 0.75, debt/equity 157.88 |
-| Valuation | P/E 27.20, forward P/E 26.75, P/S 6.81, P/B 5.51 | EV/Sales 9.84, EV/EBITDA 17.74 |
+| Valuation | P/E 27.20, forward P/E 26.75, P/S 6.81, P/B 5.51 | EV/Sales 9.81, EV/EBITDA 17.68 |
 | Growth expectations | Earnings growth 5.90%, EPS q/q 8.20% | Analyst mean target $85.38 (24 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,8 +95,7 @@ The Williams Companies, Inc., together with its subsidiaries, operates as an ene
 | JPMORGAN CHASE & CO | 20,869,822 | 1.67% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 26.75, EV/Sales 9.84. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 0.63, ATR 3.7% of price, short float 2.68%. Size positions accordingly.
+- **Valuation risk:** Forward P/E 26.75, EV/Sales 9.81. Multiple compression is the main downside if growth disappoints.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -111,14 +110,14 @@ The Williams Companies, Inc., together with its subsidiaries, operates as an ene
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $69.09 | EV/Sales | 9.84 |
-| Market cap | $86.38B | EV/EBITDA | 17.74 |
+| Price | $nan | EV/Sales | 9.81 |
+| Market cap | $86.38B | EV/EBITDA | 17.68 |
 | Beta | 0.63 | Gross margin | 63.05% |
-| RSI(14) | 47.2 | Operating margin | 36.63% |
-| ATR(14) | 2.53 | Profit margin | 24.66% |
-| SMA20 dist | -1.75% | ROA | 4.59% |
-| SMA50 dist | -2.80% | ROE | 18.31% |
-| SMA200 dist | -3.92% | Revenue (ttm) | $12.68B |
+| RSI(14) | 48.1 | Operating margin | 36.63% |
+| ATR(14) | 2.61 | Profit margin | 24.66% |
+| SMA20 dist | +nan% | ROA | 4.59% |
+| SMA50 dist | +nan% | ROE | 18.31% |
+| SMA200 dist | +nan% | Revenue (ttm) | $12.68B |
 | 52W high | $78.25 | Revenue growth y/y | 12.30% |
 | 52W low | $57.01 | Inst. ownership | 89.51% |
 | P/E (ttm) | 27.20 | Insider ownership | 0.44% |
@@ -140,7 +139,7 @@ The Williams Companies, Inc., together with its subsidiaries, operates as an ene
 | 2026-07-14 | main | Morgan Stanley | Overweight → Overweight |
 
 ## 9. Conclusion
-WMB: Low momentum / strong fundamentals / fair-to-demanding value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+WMB: Moderate momentum / strong fundamentals / fair-to-demanding value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

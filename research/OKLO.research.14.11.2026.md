@@ -4,24 +4,24 @@ Signed file: `OKLO.research.14.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $23.92 (2026-11-14, ~15-min delayed) |
+| Current price | $nan (2026-11-14, ~15-min delayed) |
 | Market cap | $4.67B |
 | Sector / Industry | Utilities / Utilities - Independent Power Producers |
 | Main theme | Utilities - Independent Power Producers — see catalysts below |
-| Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: high. |
+| Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-14.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-52.71%) with negative half-year (-61.57%). |
-| Fresh setup quality | Poor / broken | -78.58% from 52w high — base needs to rebuild. |
+| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
+| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 0.00%, revenue growth —. |
-| Value attractiveness | Reasonable | Forward P/E -20.90, EV/Sales 741.59. |
-| Risk level | High | Beta 1.31, ATR 9.7% of price, short float 21.88%. |
+| Value attractiveness | Reasonable | Forward P/E -20.90, EV/Sales 707.88. |
+| Risk level | High | Beta 1.31, ATR nan% of price, short float 21.88%. |
 
-**Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: high.
+**Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -44,22 +44,22 @@ Oklo Inc. develops fission power plants to provide energy at scale to customers 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $23.92; 52w high $111.65 (-78.58%); 52w low $19.20 (+24.58%) |
-| Trend | -52.71% vs SMA200, -25.51% vs SMA50, -5.51% vs SMA20 |
-| Momentum | RSI(14) 40.8 (neutral) |
-| Volatility | ATR(14) 2.31 (~9.7% of price); beta 1.31 |
-| Setup perspective | -78.58% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $nan; 52w high $111.65 (+nan%); 52w low $19.20 (+nan%) |
+| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
+| Momentum | RSI(14) 41.9 (neutral) |
+| Volatility | ATR(14) 2.36 (~nan% of price); beta 1.31 |
+| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +1.6% |
-| Month | -20.3% |
-| Quarter | -45.5% |
-| Half Y | -61.6% |
-| 1Y | -78.5% |
-| YTD | -69.3% |
+| Week | +nan% |
+| Month | +nan% |
+| Quarter | +nan% |
+| Half Y | +nan% |
+| 1Y | +nan% |
+| YTD | +nan% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Oklo Inc. develops fission power plants to provide energy at scale to customers 
 | Revenue (ttm) | $3.07M | Revenue growth — y/y |
 | Profitability | Gross 41.06%, operating -8587.07%, net 0.00% | ROA -6.57%, ROE -6.79% |
 | Balance sheet | Cash $2.50B, debt $4.41M | Current ratio 31.20, debt/equity 0.12 |
-| Valuation | P/E —, forward P/E -20.90, P/S 1,521.11, P/B 1.28 | EV/Sales 741.59, EV/EBITDA -8.68 |
+| Valuation | P/E —, forward P/E -20.90, P/S 1,521.11, P/B 1.28 | EV/Sales 707.88, EV/EBITDA -8.29 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $55.57 (21 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,9 +95,8 @@ Oklo Inc. develops fission power plants to provide energy at scale to customers 
 | UBS Group AG | 1,739,479 | 0.89% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.31, ATR 9.7% of price, short float 21.88%. Size positions accordingly.
+- **Volatility risk:** Beta 1.31, ATR nan% of price, short float 21.88%. Size positions accordingly.
 - **Short interest risk:** short float 21.88% can fuel squeezes both ways around news.
-- **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -112,14 +111,14 @@ Oklo Inc. develops fission power plants to provide energy at scale to customers 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $23.92 | EV/Sales | 741.59 |
-| Market cap | $4.67B | EV/EBITDA | -8.68 |
+| Price | $nan | EV/Sales | 707.88 |
+| Market cap | $4.67B | EV/EBITDA | -8.29 |
 | Beta | 1.31 | Gross margin | 41.06% |
-| RSI(14) | 40.8 | Operating margin | -8587.07% |
-| ATR(14) | 2.31 | Profit margin | 0.00% |
-| SMA20 dist | -5.51% | ROA | -6.57% |
-| SMA50 dist | -25.51% | ROE | -6.79% |
-| SMA200 dist | -52.71% | Revenue (ttm) | $3.07M |
+| RSI(14) | 41.9 | Operating margin | -8587.07% |
+| ATR(14) | 2.36 | Profit margin | 0.00% |
+| SMA20 dist | +nan% | ROA | -6.57% |
+| SMA50 dist | +nan% | ROE | -6.79% |
+| SMA200 dist | +nan% | Revenue (ttm) | $3.07M |
 | 52W high | $111.65 | Revenue growth y/y | — |
 | 52W low | $19.20 | Inst. ownership | 45.78% |
 | P/E (ttm) | — | Insider ownership | 14.58% |
@@ -141,7 +140,7 @@ Oklo Inc. develops fission power plants to provide energy at scale to customers 
 | 2026-10-20 | main | Barclays | Overweight → Overweight |
 
 ## 9. Conclusion
-OKLO: Low momentum / mixed fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+OKLO: Moderate momentum / mixed fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

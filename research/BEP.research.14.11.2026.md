@@ -4,24 +4,24 @@ Signed file: `BEP.research.14.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $29.98 (2026-11-14, ~15-min delayed) |
+| Current price | $nan (2026-11-14, ~15-min delayed) |
 | Market cap | $20.50B |
 | Sector / Industry | Utilities / Utilities - Renewable |
 | Main theme | Utilities - Renewable — see catalysts below |
-| Current stance | Low technical momentum, weak fundamentals, value: reasonable, risk: moderate. |
+| Current stance | Moderate technical momentum, weak fundamentals, value: reasonable, risk: moderate. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-14.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-5.45%) with negative half-year (-10.74%). |
-| Fresh setup quality | Moderate / wait | -18.16% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
+| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Weak | Negative profit margin (-4.19%). |
 | Value attractiveness | Reasonable | Forward P/E -15.06, EV/Sales 13.47. |
-| Risk level | Moderate | Beta 0.95, ATR 2.8% of price, short float 0.71%. |
+| Risk level | Moderate | Beta 0.95, ATR nan% of price, short float 0.71%. |
 
-**Bottom line:** Low technical momentum, weak fundamentals, value: reasonable, risk: moderate.
+**Bottom line:** Moderate technical momentum, weak fundamentals, value: reasonable, risk: moderate.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -44,22 +44,22 @@ Brookfield Renewable Partners L.P. owns a portfolio of renewable power generatin
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $29.98; 52w high $36.63 (-18.16%); 52w low $25.75 (+16.43%) |
-| Trend | -5.45% vs SMA200, +2.05% vs SMA50, +1.31% vs SMA20 |
-| Momentum | RSI(14) 52.0 (neutral) |
-| Volatility | ATR(14) 0.83 (~2.8% of price); beta 0.95 |
-| Setup perspective | -18.16% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $nan; 52w high $36.63 (+nan%); 52w low $25.75 (+nan%) |
+| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
+| Momentum | RSI(14) 48.9 (neutral) |
+| Volatility | ATR(14) 0.87 (~nan% of price); beta 0.95 |
+| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -3.7% |
-| Month | +4.6% |
-| Quarter | -11.9% |
-| Half Y | -10.7% |
-| 1Y | +6.2% |
-| YTD | +11.2% |
+| Week | +nan% |
+| Month | +nan% |
+| Quarter | +nan% |
+| Half Y | +nan% |
+| 1Y | +nan% |
+| YTD | +nan% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -110,14 +110,14 @@ Brookfield Renewable Partners L.P. owns a portfolio of renewable power generatin
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $29.98 | EV/Sales | 13.47 |
+| Price | $nan | EV/Sales | 13.47 |
 | Market cap | $20.50B | EV/EBITDA | 30.54 |
 | Beta | 0.95 | Gross margin | 48.30% |
-| RSI(14) | 52.0 | Operating margin | 8.73% |
-| ATR(14) | 0.83 | Profit margin | -4.19% |
-| SMA20 dist | +1.31% | ROA | 0.35% |
-| SMA50 dist | +2.05% | ROE | -0.75% |
-| SMA200 dist | -5.45% | Revenue (ttm) | $6.54B |
+| RSI(14) | 48.9 | Operating margin | 8.73% |
+| ATR(14) | 0.87 | Profit margin | -4.19% |
+| SMA20 dist | +nan% | ROA | 0.35% |
+| SMA50 dist | +nan% | ROE | -0.75% |
+| SMA200 dist | +nan% | Revenue (ttm) | $6.54B |
 | 52W high | $36.63 | Revenue growth y/y | 11.50% |
 | 52W low | $25.75 | Inst. ownership | 61.47% |
 | P/E (ttm) | — | Insider ownership | 0.07% |
@@ -139,7 +139,7 @@ Brookfield Renewable Partners L.P. owns a portfolio of renewable power generatin
 | 2026-04-20 | main | CIBC | Outperformer → Outperformer |
 
 ## 9. Conclusion
-BEP: Low momentum / weak fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+BEP: Moderate momentum / weak fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

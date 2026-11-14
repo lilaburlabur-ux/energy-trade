@@ -4,24 +4,24 @@ Signed file: `NXT.research.14.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $95.03 (2026-11-14, ~15-min delayed) |
+| Current price | $nan (2026-11-14, ~15-min delayed) |
 | Market cap | $14.49B |
 | Sector / Industry | Technology / Solar |
 | Main theme | Solar — see catalysts below |
-| Current stance | Low technical momentum, strong fundamentals, value: reasonable, risk: high. |
+| Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-14.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-10.82%) with negative half-year (-34.14%). |
-| Fresh setup quality | Poor / broken | -39.24% from 52w high — base needs to rebuild. |
+| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
+| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 15.98%, revenue growth 22.50%. |
-| Value attractiveness | Reasonable | Forward P/E 16.52, EV/Sales 3.42. |
-| Risk level | High | Beta 1.93, ATR 7.0% of price, short float 9.42%. |
+| Value attractiveness | Reasonable | Forward P/E 16.52, EV/Sales 3.48. |
+| Risk level | Elevated | Beta 1.93, ATR nan% of price, short float 9.42%. |
 
-**Bottom line:** Low technical momentum, strong fundamentals, value: reasonable, risk: high.
+**Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -44,22 +44,22 @@ Nextpower Inc. provides solar and energy technology solutions for utility-scale 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $95.03; 52w high $156.40 (-39.24%); 52w low $76.48 (+24.25%) |
-| Trend | -10.82% vs SMA200, +11.44% vs SMA50, +6.39% vs SMA20 |
-| Momentum | RSI(14) 54.5 (neutral) |
-| Volatility | ATR(14) 6.63 (~7.0% of price); beta 1.93 |
-| Setup perspective | -39.24% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $nan; 52w high $156.40 (+nan%); 52w low $76.48 (+nan%) |
+| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
+| Momentum | RSI(14) 53.2 (neutral) |
+| Volatility | ATR(14) 6.79 (~nan% of price); beta 1.93 |
+| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -9.4% |
-| Month | +13.9% |
-| Quarter | -4.1% |
-| Half Y | -34.1% |
-| 1Y | -1.5% |
-| YTD | +2.4% |
+| Week | +nan% |
+| Month | +nan% |
+| Quarter | +nan% |
+| Half Y | +nan% |
+| 1Y | +nan% |
+| YTD | +nan% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Nextpower Inc. provides solar and energy technology solutions for utility-scale 
 | Revenue (ttm) | $3.83B | Revenue growth 22.50% y/y |
 | Profitability | Gross 21.84%, operating 18.63%, net 15.98% | ROA 10.75%, ROE 26.46% |
 | Balance sheet | Cash $1.03B, debt $44.50M | Current ratio 2.23, debt/equity 1.68 |
-| Valuation | P/E 23.94, forward P/E 16.52, P/S 3.78, P/B 5.41 | EV/Sales 3.42, EV/EBITDA 17.35 |
+| Valuation | P/E 23.94, forward P/E 16.52, P/S 3.78, P/B 5.41 | EV/Sales 3.48, EV/EBITDA 17.63 |
 | Growth expectations | Earnings growth 11.30%, EPS q/q 12.70% | Analyst mean target $127.90 (29 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,9 +95,8 @@ Nextpower Inc. provides solar and energy technology solutions for utility-scale 
 | Invesco Ltd. | 3,186,877 | 2.12% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.93, ATR 7.0% of price, short float 9.42%. Size positions accordingly.
+- **Volatility risk:** Beta 1.93, ATR nan% of price, short float 9.42%. Size positions accordingly.
 - **Short interest risk:** short float 9.42% can fuel squeezes both ways around news.
-- **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -112,14 +111,14 @@ Nextpower Inc. provides solar and energy technology solutions for utility-scale 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $95.03 | EV/Sales | 3.42 |
-| Market cap | $14.49B | EV/EBITDA | 17.35 |
+| Price | $nan | EV/Sales | 3.48 |
+| Market cap | $14.49B | EV/EBITDA | 17.63 |
 | Beta | 1.93 | Gross margin | 21.84% |
-| RSI(14) | 54.5 | Operating margin | 18.63% |
-| ATR(14) | 6.63 | Profit margin | 15.98% |
-| SMA20 dist | +6.39% | ROA | 10.75% |
-| SMA50 dist | +11.44% | ROE | 26.46% |
-| SMA200 dist | -10.82% | Revenue (ttm) | $3.83B |
+| RSI(14) | 53.2 | Operating margin | 18.63% |
+| ATR(14) | 6.79 | Profit margin | 15.98% |
+| SMA20 dist | +nan% | ROA | 10.75% |
+| SMA50 dist | +nan% | ROE | 26.46% |
+| SMA200 dist | +nan% | Revenue (ttm) | $3.83B |
 | 52W high | $156.40 | Revenue growth y/y | 22.50% |
 | 52W low | $76.48 | Inst. ownership | 109.85% |
 | P/E (ttm) | 23.94 | Insider ownership | 0.65% |
@@ -141,7 +140,7 @@ Nextpower Inc. provides solar and energy technology solutions for utility-scale 
 | 2026-10-29 | main | JP Morgan | Overweight → Overweight |
 
 ## 9. Conclusion
-NXT: Low momentum / strong fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+NXT: Moderate momentum / strong fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

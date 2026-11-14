@@ -4,24 +4,24 @@ Signed file: `ETN.research.14.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $352.97 (2026-11-14, ~15-min delayed) |
+| Current price | $nan (2026-11-14, ~15-min delayed) |
 | Market cap | $137.13B |
 | Sector / Industry | Industrials / Specialty Industrial Machinery |
 | Main theme | Specialty Industrial Machinery — see catalysts below |
-| Current stance | Low technical momentum, mixed fundamentals, value: fair-to-demanding, risk: high. |
+| Current stance | Moderate technical momentum, mixed fundamentals, value: fair-to-demanding, risk: moderate. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-14.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-10.75%) with negative half-year (-11.14%). |
-| Fresh setup quality | Moderate / wait | -23.03% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
+| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 12.18%, revenue growth 28.00%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 21.48, EV/Sales 4.99. |
-| Risk level | High | Beta 1.14, ATR 5.2% of price, short float 1.85%. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 21.48, EV/Sales 4.92. |
+| Risk level | Moderate | Beta 1.14, ATR nan% of price, short float 1.85%. |
 
-**Bottom line:** Low technical momentum, mixed fundamentals, value: fair-to-demanding, risk: high.
+**Bottom line:** Moderate technical momentum, mixed fundamentals, value: fair-to-demanding, risk: moderate.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -44,22 +44,22 @@ Eaton Corporation plc operates as a power management company in the United State
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $352.97; 52w high $458.55 (-23.03%); 52w low $312.24 (+13.04%) |
-| Trend | -10.75% vs SMA200, -11.80% vs SMA50, -4.12% vs SMA20 |
-| Momentum | RSI(14) 41.9 (neutral) |
-| Volatility | ATR(14) 18.49 (~5.2% of price); beta 1.14 |
-| Setup perspective | -23.03% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $nan; 52w high $458.55 (+nan%); 52w low $312.24 (+nan%) |
+| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
+| Momentum | RSI(14) 43.6 (neutral) |
+| Volatility | ATR(14) 18.72 (~nan% of price); beta 1.14 |
+| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +3.6% |
-| Month | -12.0% |
-| Quarter | -22.3% |
-| Half Y | -11.1% |
-| 1Y | -3.4% |
-| YTD | +9.1% |
+| Week | +nan% |
+| Month | +nan% |
+| Quarter | +nan% |
+| Half Y | +nan% |
+| 1Y | +nan% |
+| YTD | +nan% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Eaton Corporation plc operates as a power management company in the United State
 | Revenue (ttm) | $31.98B | Revenue growth 28.00% y/y |
 | Profitability | Gross 35.15%, operating 17.72%, net 12.18% | ROA 7.22%, ROE 19.55% |
 | Balance sheet | Cash $818.00M, debt $20.92B | Current ratio 1.23, debt/equity 99.52 |
-| Valuation | P/E 35.26, forward P/E 21.48, P/S 4.29, P/B 6.54 | EV/Sales 4.99, EV/EBITDA 22.62 |
+| Valuation | P/E 35.26, forward P/E 21.48, P/S 4.29, P/B 6.54 | EV/Sales 4.92, EV/EBITDA 22.28 |
 | Growth expectations | Earnings growth 7.00%, EPS q/q 6.70% | Analyst mean target $468.59 (27 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,8 +95,7 @@ Eaton Corporation plc operates as a power management company in the United State
 | Wellington Management Group, LLP | 6,827,266 | 1.76% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 21.48, EV/Sales 4.99. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 1.14, ATR 5.2% of price, short float 1.85%. Size positions accordingly.
+- **Valuation risk:** Forward P/E 21.48, EV/Sales 4.92. Multiple compression is the main downside if growth disappoints.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -111,14 +110,14 @@ Eaton Corporation plc operates as a power management company in the United State
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $352.97 | EV/Sales | 4.99 |
-| Market cap | $137.13B | EV/EBITDA | 22.62 |
+| Price | $nan | EV/Sales | 4.92 |
+| Market cap | $137.13B | EV/EBITDA | 22.28 |
 | Beta | 1.14 | Gross margin | 35.15% |
-| RSI(14) | 41.9 | Operating margin | 17.72% |
-| ATR(14) | 18.49 | Profit margin | 12.18% |
-| SMA20 dist | -4.12% | ROA | 7.22% |
-| SMA50 dist | -11.80% | ROE | 19.55% |
-| SMA200 dist | -10.75% | Revenue (ttm) | $31.98B |
+| RSI(14) | 43.6 | Operating margin | 17.72% |
+| ATR(14) | 18.72 | Profit margin | 12.18% |
+| SMA20 dist | +nan% | ROA | 7.22% |
+| SMA50 dist | +nan% | ROE | 19.55% |
+| SMA200 dist | +nan% | Revenue (ttm) | $31.98B |
 | 52W high | $458.55 | Revenue growth y/y | 28.00% |
 | 52W low | $312.24 | Inst. ownership | 86.70% |
 | P/E (ttm) | 35.26 | Insider ownership | 0.08% |
@@ -140,7 +139,7 @@ Eaton Corporation plc operates as a power management company in the United State
 | 2026-08-28 | main | Morgan Stanley | Overweight → Overweight |
 
 ## 9. Conclusion
-ETN: Low momentum / mixed fundamentals / fair-to-demanding value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+ETN: Moderate momentum / mixed fundamentals / fair-to-demanding value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

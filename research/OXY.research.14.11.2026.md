@@ -4,7 +4,7 @@ Signed file: `OXY.research.14.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $58.75 (2026-11-14, ~15-min delayed) |
+| Current price | $nan (2026-11-14, ~15-min delayed) |
 | Market cap | $58.74B |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
@@ -15,11 +15,11 @@ Signed file: `OXY.research.14.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +42.90%; price +4.11% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -10.49% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
+| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 32.95%, revenue growth 19.00%. |
-| Value attractiveness | Reasonable | Forward P/E 10.99, EV/Sales 3.04. |
-| Risk level | Moderate | Beta 0.15, ATR 3.0% of price, short float 0.02%. |
+| Value attractiveness | Reasonable | Forward P/E 10.99, EV/Sales 3.06. |
+| Risk level | Moderate | Beta 0.15, ATR nan% of price, short float 0.02%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate.
 
@@ -44,22 +44,22 @@ Occidental Petroleum Corporation, together with its subsidiaries, engages in the
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $58.75; 52w high $65.63 (-10.49%); 52w low $38.38 (+53.07%) |
-| Trend | +4.11% vs SMA200, -1.66% vs SMA50, -2.89% vs SMA20 |
-| Momentum | RSI(14) 46.8 (neutral) |
-| Volatility | ATR(14) 1.75 (~3.0% of price); beta 0.15 |
-| Setup perspective | -10.49% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $nan; 52w high $65.63 (+nan%); 52w low $38.38 (+nan%) |
+| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
+| Momentum | RSI(14) 45.2 (neutral) |
+| Volatility | ATR(14) 1.82 (~nan% of price); beta 0.15 |
+| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +4.2% |
-| Month | -3.2% |
-| Quarter | -0.0% |
-| Half Y | -0.5% |
-| 1Y | +42.9% |
-| YTD | +40.6% |
+| Week | +nan% |
+| Month | +nan% |
+| Quarter | +nan% |
+| Half Y | +nan% |
+| 1Y | +nan% |
+| YTD | +nan% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Occidental Petroleum Corporation, together with its subsidiaries, engages in the
 | Revenue (ttm) | $24.97B | Revenue growth 19.00% y/y |
 | Profitability | Gross 74.49%, operating 29.31%, net 32.95% | ROA 5.61%, ROE 13.18% |
 | Balance sheet | Cash $3.88B, debt $12.62B | Current ratio 1.39, debt/equity 28.80 |
-| Valuation | P/E 13.08, forward P/E 10.99, P/S 2.35, P/B 1.68 | EV/Sales 3.04, EV/EBITDA 5.17 |
+| Valuation | P/E 13.08, forward P/E 10.99, P/S 2.35, P/B 1.68 | EV/Sales 3.06, EV/EBITDA 5.20 |
 | Growth expectations | Earnings growth 149.40%, EPS q/q 117.60% | Analyst mean target $71.04 (27 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -109,14 +109,14 @@ Occidental Petroleum Corporation, together with its subsidiaries, engages in the
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $58.75 | EV/Sales | 3.04 |
-| Market cap | $58.74B | EV/EBITDA | 5.17 |
+| Price | $nan | EV/Sales | 3.06 |
+| Market cap | $58.74B | EV/EBITDA | 5.20 |
 | Beta | 0.15 | Gross margin | 74.49% |
-| RSI(14) | 46.8 | Operating margin | 29.31% |
-| ATR(14) | 1.75 | Profit margin | 32.95% |
-| SMA20 dist | -2.89% | ROA | 5.61% |
-| SMA50 dist | -1.66% | ROE | 13.18% |
-| SMA200 dist | +4.11% | Revenue (ttm) | $24.97B |
+| RSI(14) | 45.2 | Operating margin | 29.31% |
+| ATR(14) | 1.82 | Profit margin | 32.95% |
+| SMA20 dist | +nan% | ROA | 5.61% |
+| SMA50 dist | +nan% | ROE | 13.18% |
+| SMA200 dist | +nan% | Revenue (ttm) | $24.97B |
 | 52W high | $65.63 | Revenue growth y/y | 19.00% |
 | 52W low | $38.38 | Inst. ownership | 59.09% |
 | P/E (ttm) | 13.08 | Insider ownership | 26.80% |

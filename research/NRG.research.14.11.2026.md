@@ -4,24 +4,24 @@ Signed file: `NRG.research.14.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $97.10 (2026-11-14, ~15-min delayed) |
+| Current price | $nan (2026-11-14, ~15-min delayed) |
 | Market cap | $20.39B |
 | Sector / Industry | Utilities / Utilities - Independent Power Producers |
 | Main theme | Utilities - Independent Power Producers — see catalysts below |
-| Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: high. |
+| Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-14.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-26.01%) with negative half-year (-23.38%). |
-| Fresh setup quality | Poor / broken | -46.62% from 52w high — base needs to rebuild. |
+| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
+| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 3.60%, revenue growth 24.00%. |
 | Value attractiveness | Reasonable | Forward P/E 9.87, EV/Sales 1.26. |
-| Risk level | High | Beta 1.20, ATR 5.1% of price, short float 3.71%. |
+| Risk level | Elevated | Beta 1.20, ATR nan% of price, short float 3.71%. |
 
-**Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: high.
+**Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -44,22 +44,22 @@ NRG Energy, Inc., together with its subsidiaries, operates as an energy and home
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $97.10; 52w high $181.92 (-46.62%); 52w low $80.55 (+20.55%) |
-| Trend | -26.01% vs SMA200, -3.19% vs SMA50, +2.83% vs SMA20 |
-| Momentum | RSI(14) 50.6 (neutral) |
-| Volatility | ATR(14) 4.96 (~5.1% of price); beta 1.20 |
-| Setup perspective | -46.62% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $nan; 52w high $181.92 (+nan%); 52w low $80.55 (+nan%) |
+| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
+| Momentum | RSI(14) 51.8 (neutral) |
+| Volatility | ATR(14) 5.06 (~nan% of price); beta 1.20 |
+| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +10.0% |
-| Month | -5.1% |
-| Quarter | -20.3% |
-| Half Y | -23.4% |
-| 1Y | -41.6% |
-| YTD | -40.7% |
+| Week | +nan% |
+| Month | +nan% |
+| Quarter | +nan% |
+| Half Y | +nan% |
+| 1Y | +nan% |
+| YTD | +nan% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ NRG Energy, Inc., together with its subsidiaries, operates as an energy and home
 | Revenue (ttm) | $34.96B | Revenue growth 24.00% y/y |
 | Profitability | Gross 20.20%, operating 7.89%, net 3.60% | ROA 5.36%, ROE 34.74% |
 | Balance sheet | Cash $154.00M, debt $23.13B | Current ratio 0.99, debt/equity 438.73 |
-| Valuation | P/E 16.98, forward P/E 9.87, P/S 0.58, P/B 4.41 | EV/Sales 1.26, EV/EBITDA 10.77 |
+| Valuation | P/E 16.98, forward P/E 9.87, P/S 0.58, P/B 4.41 | EV/Sales 1.26, EV/EBITDA 10.72 |
 | Growth expectations | Earnings growth 275.40%, EPS q/q 269.10% | Analyst mean target $161.00 (16 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,8 +95,7 @@ NRG Energy, Inc., together with its subsidiaries, operates as an energy and home
 | Millennium Management Llc | 4,257,712 | 2.03% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.20, ATR 5.1% of price, short float 3.71%. Size positions accordingly.
-- **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
+- **Volatility risk:** Beta 1.20, ATR nan% of price, short float 3.71%. Size positions accordingly.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -111,14 +110,14 @@ NRG Energy, Inc., together with its subsidiaries, operates as an energy and home
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $97.10 | EV/Sales | 1.26 |
-| Market cap | $20.39B | EV/EBITDA | 10.77 |
+| Price | $nan | EV/Sales | 1.26 |
+| Market cap | $20.39B | EV/EBITDA | 10.72 |
 | Beta | 1.20 | Gross margin | 20.20% |
-| RSI(14) | 50.6 | Operating margin | 7.89% |
-| ATR(14) | 4.96 | Profit margin | 3.60% |
-| SMA20 dist | +2.83% | ROA | 5.36% |
-| SMA50 dist | -3.19% | ROE | 34.74% |
-| SMA200 dist | -26.01% | Revenue (ttm) | $34.96B |
+| RSI(14) | 51.8 | Operating margin | 7.89% |
+| ATR(14) | 5.06 | Profit margin | 3.60% |
+| SMA20 dist | +nan% | ROA | 5.36% |
+| SMA50 dist | +nan% | ROE | 34.74% |
+| SMA200 dist | +nan% | Revenue (ttm) | $34.96B |
 | 52W high | $181.92 | Revenue growth y/y | 24.00% |
 | 52W low | $80.55 | Inst. ownership | 91.17% |
 | P/E (ttm) | 16.98 | Insider ownership | 4.46% |
@@ -140,7 +139,7 @@ NRG Energy, Inc., together with its subsidiaries, operates as an energy and home
 | 2026-08-21 | main | Morgan Stanley | Equal-Weight → Equal-Weight |
 
 ## 9. Conclusion
-NRG: Low momentum / mixed fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+NRG: Moderate momentum / mixed fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

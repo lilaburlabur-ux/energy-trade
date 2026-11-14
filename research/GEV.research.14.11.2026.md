@@ -4,24 +4,24 @@ Signed file: `GEV.research.14.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $803.13 (2026-11-14, ~15-min delayed) |
+| Current price | $nan (2026-11-14, ~15-min delayed) |
 | Market cap | $212.57B |
 | Sector / Industry | Industrials / Specialty Industrial Machinery |
 | Main theme | Specialty Industrial Machinery — see catalysts below |
-| Current stance | Low technical momentum, strong fundamentals, value: fair-to-demanding, risk: high. |
+| Current stance | Moderate technical momentum, strong fundamentals, value: fair-to-demanding, risk: moderate. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-14.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-15.55%) with negative half-year (-23.37%). |
-| Fresh setup quality | Poor / broken | -31.60% from 52w high — base needs to rebuild. |
+| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
+| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 23.54%, revenue growth 26.80%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 30.81, EV/Sales 4.66. |
-| Risk level | High | Beta 1.06, ATR 7.1% of price, short float 2.83%. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 30.81, EV/Sales 4.57. |
+| Risk level | Moderate | Beta 1.06, ATR nan% of price, short float 2.83%. |
 
-**Bottom line:** Low technical momentum, strong fundamentals, value: fair-to-demanding, risk: high.
+**Bottom line:** Moderate technical momentum, strong fundamentals, value: fair-to-demanding, risk: moderate.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -44,22 +44,22 @@ GE Vernova Inc., an energy company, engages in the provision of various products
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $803.13; 52w high $1,174.17 (-31.60%); 52w low $553.58 (+45.08%) |
-| Trend | -15.55% vs SMA200, -12.01% vs SMA50, -5.25% vs SMA20 |
-| Momentum | RSI(14) 41.5 (neutral) |
-| Volatility | ATR(14) 57.27 (~7.1% of price); beta 1.06 |
-| Setup perspective | -31.60% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $nan; 52w high $1,174.17 (+nan%); 52w low $553.58 (+nan%) |
+| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
+| Momentum | RSI(14) 43.2 (neutral) |
+| Volatility | ATR(14) 57.70 (~nan% of price); beta 1.06 |
+| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +3.7% |
-| Month | -13.3% |
-| Quarter | -25.5% |
-| Half Y | -23.4% |
-| 1Y | +39.9% |
-| YTD | +18.5% |
+| Week | +nan% |
+| Month | +nan% |
+| Quarter | +nan% |
+| Half Y | +nan% |
+| 1Y | +nan% |
+| YTD | +nan% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ GE Vernova Inc., an energy company, engages in the provision of various products
 | Revenue (ttm) | $44.04B | Revenue growth 26.80% y/y |
 | Profitability | Gross 21.79%, operating 8.22%, net 23.54% | ROA 3.22%, ROE 93.04% |
 | Balance sheet | Cash $16.36B, debt $3.75B | Current ratio 0.83, debt/equity 29.89 |
-| Valuation | P/E 21.09, forward P/E 30.81, P/S 4.83, P/B 18.68 | EV/Sales 4.66, EV/EBITDA 40.65 |
+| Valuation | P/E 21.09, forward P/E 30.81, P/S 4.83, P/B 18.68 | EV/Sales 4.57, EV/EBITDA 39.85 |
 | Growth expectations | Earnings growth 193.30%, EPS q/q 185.60% | Analyst mean target $1,178.39 (32 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,9 +95,7 @@ GE Vernova Inc., an energy company, engages in the provision of various products
 | JPMORGAN CHASE & CO | 3,765,439 | 1.42% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 30.81, EV/Sales 4.66. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 1.06, ATR 7.1% of price, short float 2.83%. Size positions accordingly.
-- **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
+- **Valuation risk:** Forward P/E 30.81, EV/Sales 4.57. Multiple compression is the main downside if growth disappoints.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -112,14 +110,14 @@ GE Vernova Inc., an energy company, engages in the provision of various products
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $803.13 | EV/Sales | 4.66 |
-| Market cap | $212.57B | EV/EBITDA | 40.65 |
+| Price | $nan | EV/Sales | 4.57 |
+| Market cap | $212.57B | EV/EBITDA | 39.85 |
 | Beta | 1.06 | Gross margin | 21.79% |
-| RSI(14) | 41.5 | Operating margin | 8.22% |
-| ATR(14) | 57.27 | Profit margin | 23.54% |
-| SMA20 dist | -5.25% | ROA | 3.22% |
-| SMA50 dist | -12.01% | ROE | 93.04% |
-| SMA200 dist | -15.55% | Revenue (ttm) | $44.04B |
+| RSI(14) | 43.2 | Operating margin | 8.22% |
+| ATR(14) | 57.70 | Profit margin | 23.54% |
+| SMA20 dist | +nan% | ROA | 3.22% |
+| SMA50 dist | +nan% | ROE | 93.04% |
+| SMA200 dist | +nan% | Revenue (ttm) | $44.04B |
 | 52W high | $1,174.17 | Revenue growth y/y | 26.80% |
 | 52W low | $553.58 | Inst. ownership | 80.63% |
 | P/E (ttm) | 21.09 | Insider ownership | 0.12% |
@@ -141,7 +139,7 @@ GE Vernova Inc., an energy company, engages in the provision of various products
 | 2026-10-29 | main | RBC Capital | Outperform → Outperform |
 
 ## 9. Conclusion
-GEV: Low momentum / strong fundamentals / fair-to-demanding value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+GEV: Moderate momentum / strong fundamentals / fair-to-demanding value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |
