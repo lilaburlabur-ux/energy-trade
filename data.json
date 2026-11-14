@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-14T07:27:40+00:00",
-  "as_of_local": "2026-11-14 07:27:40 UTC",
+  "as_of_utc": "2026-11-14T07:32:35+00:00",
+  "as_of_local": "2026-11-14 07:32:35 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "EOG"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -533,34 +535,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/5-high-yield-dividend-stocks-154700336.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-13T15:47:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "EOG",
-      "name": "EOG Resources",
-      "price": 158.32,
-      "previous_close": 155.62,
-      "change_pct": 1.74,
-      "market_cap": 82086426141.17188,
-      "headlines": [
-        {
-          "title": "Why You Need To Pay Attention To Occidental Petroleum Stock?",
-          "url": "https://finance.yahoo.com/energy/articles/why-pay-attention-occidental-petroleum-194848133.html",
-          "publisher": "Trefis",
-          "published": "2026-11-13T19:48:48Z"
-        },
-        {
-          "title": "ConocoPhillips' Lower 48 and Willow Assets: Key to Long-Term Growth?",
-          "url": "https://finance.yahoo.com/energy/articles/conocophillips-lower-48-willow-assets-171100025.html",
-          "publisher": "Zacks",
-          "published": "2026-11-13T17:11:00Z"
-        },
-        {
-          "title": "Can CHRD's Four-Mile Laterals Unlock Cost Savings & Earnings Growth?",
-          "url": "https://finance.yahoo.com/energy/articles/chrds-four-mile-laterals-unlock-132800749.html",
-          "publisher": "Zacks",
-          "published": "2026-11-13T13:28:00Z"
         }
       ]
     },
@@ -1984,8 +1958,8 @@
           "name": "EOG Resources Inc",
           "short": "EOG Resources",
           "weight_pct": 4.07,
-          "change_pct": 1.74,
-          "price": 158.32,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -2083,8 +2057,8 @@
         "name": "EOG Resources Inc",
         "short": "EOG Resources",
         "weight_pct": 4.07,
-        "change_pct": 1.74,
-        "price": 158.32,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
