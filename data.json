@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-14T18:08:09+00:00",
-  "as_of_local": "2026-11-14 18:08:09 UTC",
+  "as_of_utc": "2026-11-14T18:13:20+00:00",
+  "as_of_local": "2026-11-14 18:13:20 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "CVX"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -35,12 +33,40 @@
       ]
     },
     {
+      "symbol": "CVX",
+      "name": "Chevron",
+      "price": 219.89,
+      "previous_close": 216.35,
+      "change_pct": 1.64,
+      "market_cap": 429061171823.58923,
+      "headlines": [
+        {
+          "title": "Top 3 Energy Stocks To Watch In November 2026",
+          "url": "https://finance.yahoo.com/energy/articles/top-3-energy-stocks-watch-101140336.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-14T10:11:40Z"
+        },
+        {
+          "title": "LNG Prices Soar. These Exporters Could Benefit as Europe Faces a Tough Winter.",
+          "url": "https://www.barrons.com/articles/lng-prices-europe-venture-global-woodside-stocks-9946520c?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-11-13T20:18:00Z"
+        },
+        {
+          "title": "Why You Need To Pay Attention To Occidental Petroleum Stock?",
+          "url": "https://finance.yahoo.com/energy/articles/why-pay-attention-occidental-petroleum-194848133.html",
+          "publisher": "Trefis",
+          "published": "2026-11-13T19:48:48Z"
+        }
+      ]
+    },
+    {
       "symbol": "SHEL",
       "name": "Shell",
       "price": 99.08,
       "previous_close": 97.78,
       "change_pct": 1.33,
-      "market_cap": 280064362830.34845,
+      "market_cap": 280264381376.6849,
       "headlines": [
         {
           "title": "LNG Prices Soar. These Exporters Could Benefit as Europe Faces a Tough Winter.",
@@ -1904,8 +1930,8 @@
           "name": "Chevron Corp",
           "short": "Chevron",
           "weight_pct": 18.29,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": 1.64,
+          "price": 219.89,
           "currency": "USD"
         },
         {
@@ -2003,8 +2029,8 @@
         "name": "Chevron Corp",
         "short": "Chevron",
         "weight_pct": 18.29,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": 1.64,
+        "price": 219.89,
         "currency": "USD"
       },
       {
