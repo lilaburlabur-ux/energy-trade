@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-14T22:14:35+00:00",
-  "as_of_local": "2026-11-14 22:14:35 UTC",
+  "as_of_utc": "2026-11-14T22:29:29+00:00",
+  "as_of_local": "2026-11-14 22:29:29 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "FSLR"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1261,34 +1263,6 @@
           "url": "https://www.barrons.com/articles/oil-prices-stocks-fall-where-they-could-go-next-0162a3c2?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
           "published": "2026-11-09T10:55:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "FSLR",
-      "name": "First Solar",
-      "price": 171.39,
-      "previous_close": 172.3,
-      "change_pct": -0.53,
-      "market_cap": 18421194404.28871,
-      "headlines": [
-        {
-          "title": "How First Solar (FSLR) Expanded Margins Despite a 23% Revenue Decline",
-          "url": "https://finance.yahoo.com/energy/articles/first-solar-fslr-expanded-margins-152316651.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-11-14T15:23:16Z"
-        },
-        {
-          "title": "First Solar (FSLR) Stock Still Looks Reasonable As Clean Energy Hopes Rise",
-          "url": "https://finance.yahoo.com/energy/articles/first-solar-fslr-stock-still-231155237.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-13T23:11:55Z"
-        },
-        {
-          "title": "How Low Can First Solar Stock Go?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/low-first-solar-stock-175441142.html",
-          "publisher": "Trefis",
-          "published": "2026-11-13T17:54:41Z"
         }
       ]
     },
