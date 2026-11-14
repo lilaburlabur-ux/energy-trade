@@ -1,5 +1,5 @@
-# Watchlist Research Index — 13.11.2026
-> Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-13.
+# Watchlist Research Index — 14.11.2026
+> Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-14.
 
 | Ticker | Mkt cap | 1Y | Fwd P/E | Net margin | Momentum | Value | Risk |
 |---|---|---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | SMR | $1.91B | -82% | -7.0 | 0% | Low | Reasonable | High |
 | LEU | $2.14B | -62% | 24.8 | 17% | Low | Fair-to-demanding | High |
 | NXE | $5.34B | -8% | -58.1 | 0% | Low | Reasonable | High |
-| UEC | $3.31B | -46% | -90.1 | 0% | Low | Reasonable | High |
+| UEC | $3.30B | -46% | -90.0 | 0% | Low | Reasonable | High |
 | UUUU | $1.75B | -58% | 13.6 | -100% | Low | Reasonable | High |
 | BWXT | $11.27B | -37% | 23.6 | 10% | Low | Fair-to-demanding | Elevated |
 | FSLR | $18.42B | -36% | 7.4 | 37% | Low | Reasonable | High |
