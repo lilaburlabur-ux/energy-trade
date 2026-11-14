@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-14T21:39:15+00:00",
-  "as_of_local": "2026-11-14 21:39:15 UTC",
+  "as_of_utc": "2026-11-14T21:54:12+00:00",
+  "as_of_local": "2026-11-14 21:54:12 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "SMR"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -68,7 +66,7 @@
       "price": 99.08,
       "previous_close": 97.78,
       "change_pct": 1.33,
-      "market_cap": 280064362830.34845,
+      "market_cap": 280264381376.6849,
       "headlines": [
         {
           "title": "LNG Prices Soar. These Exporters Could Benefit as Europe Faces a Tough Winter.",
@@ -1739,6 +1737,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/sunrun-run-stock-may-undervalued-211217401.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-13T21:12:17Z"
+        }
+      ]
+    },
+    {
+      "symbol": "SMR",
+      "name": "NuScale Power",
+      "price": 4.66,
+      "previous_close": 4.82,
+      "change_pct": -3.32,
+      "market_cap": 1913122824.076355,
+      "headlines": [
+        {
+          "title": "NuScale Power (SMR) As Lawsuit And Earnings Put Its Valuation Story To The Test",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nuscale-power-smr-lawsuit-earnings-002020119.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-14T00:20:20Z"
+        },
+        {
+          "title": "NuScale Power (SMR) Is Facing A Securities Fraud Class Action",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nuscale-power-smr-facing-securities-231119582.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-13T23:11:19Z"
+        },
+        {
+          "title": "NuScale Rose 10% in a Week as Its First Reactor Module Moved Into Production",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nuscale-rose-10-week-first-114836412.html",
+          "publisher": "TIKR",
+          "published": "2026-11-13T11:48:36Z"
         }
       ]
     },
