@@ -1,8 +1,11 @@
 {
-  "as_of_utc": "2026-11-14T00:09:06+00:00",
-  "as_of_local": "2026-11-14 00:09:06 UTC",
+  "as_of_utc": "2026-11-14T00:24:21+00:00",
+  "as_of_local": "2026-11-14 00:24:21 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "BEP",
+    "DUK"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -66,7 +69,7 @@
       "price": 99.08,
       "previous_close": 97.78,
       "change_pct": 1.33,
-      "market_cap": 280264381376.6849,
+      "market_cap": 280164258855.0746,
       "headlines": [
         {
           "title": "LNG Prices Soar. These Exporters Could Benefit as Europe Faces a Tough Winter.",
@@ -122,7 +125,7 @@
       "price": 90.74,
       "previous_close": 89.55,
       "change_pct": 1.33,
-      "market_cap": 199222471444.33994,
+      "market_cap": 199000977922.49442,
       "headlines": [
         {
           "title": "Murphy Oil Signs Offshore Production Sharing Contracts in Cameroon",
@@ -374,7 +377,7 @@
       "price": 42.95,
       "previous_close": 42.76,
       "change_pct": 0.44,
-      "market_cap": 101657838098.64218,
+      "market_cap": 101627386548.10126,
       "headlines": [
         {
           "title": "Drilling at Jackdaw in North Sea to start within days",
@@ -393,34 +396,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/equinor-3-key-takeaways-long-182003529.html",
           "publisher": "Motley Fool",
           "published": "2026-11-12T18:20:03Z"
-        }
-      ]
-    },
-    {
-      "symbol": "DUK",
-      "name": "Duke Energy",
-      "price": 129.16,
-      "previous_close": 128.59,
-      "change_pct": 0.44,
-      "market_cap": 100707126495.89706,
-      "headlines": [
-        {
-          "title": "What Does Dominion Energy Offer That NiSource Does Not?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/does-dominion-energy-offer-nisource-215100482.html",
-          "publisher": "Trefis",
-          "published": "2026-11-13T21:51:00Z"
-        },
-        {
-          "title": "Do You Like Cash? Consider Vistra Stock",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/cash-consider-vistra-stock-211551348.html",
-          "publisher": "Trefis",
-          "published": "2026-11-12T21:15:51Z"
-        },
-        {
-          "title": "Is NextEra Energy Stock A Real Bargain?",
-          "url": "https://finance.yahoo.com/energy/articles/nextera-energy-stock-real-bargain-210851417.html",
-          "publisher": "Trefis",
-          "published": "2026-11-12T21:08:51Z"
         }
       ]
     },
@@ -794,7 +769,7 @@
       "price": 58.75,
       "previous_close": 58.4,
       "change_pct": 0.6,
-      "market_cap": 58728695546.25,
+      "market_cap": 58743816268.75,
       "headlines": [
         {
           "title": "Earnings week scorecard: beats rewarded selectively as AI-infrastructure names pull back",
@@ -1214,7 +1189,7 @@
       "price": 97.1,
       "previous_close": 98.05,
       "change_pct": -0.97,
-      "market_cap": 20389341599.991486,
+      "market_cap": 20393065967.53296,
       "headlines": [
         {
           "title": "Do You Like Cash? Consider Vistra Stock",
@@ -1489,34 +1464,6 @@
       ]
     },
     {
-      "symbol": "BEP",
-      "name": "Brookfield Renewable",
-      "price": 29.98,
-      "previous_close": 29.58,
-      "change_pct": 1.35,
-      "market_cap": 9077412435.917274,
-      "headlines": [
-        {
-          "title": "Tesla fund makes surprise Microsoft bet, keeps Nvidia stake",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-fund-makes-surprise-microsoft-175904923.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-12T17:59:04Z"
-        },
-        {
-          "title": "BEP- A Renewable Energy Play that Should Benefit from the Midterms",
-          "url": "https://finance.yahoo.com/energy/articles/bep-renewable-energy-play-benefit-050100642.html",
-          "publisher": "MoneyShow",
-          "published": "2026-11-10T05:01:00Z"
-        },
-        {
-          "title": "Brookfield Renewable Partners LP (BEP) (Q3 2026) Earnings Call Highlights: Record FFO, $3 ...",
-          "url": "https://finance.yahoo.com/energy/articles/brookfield-renewable-partners-lp-bep-131100251.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-07T13:11:00Z"
-        }
-      ]
-    },
-    {
       "symbol": "NOV",
       "name": "NOV Inc",
       "price": 18.09,
@@ -1578,7 +1525,7 @@
       "price": 7.76,
       "previous_close": 7.87,
       "change_pct": -1.4,
-      "market_cap": 5203127497.226667,
+      "market_cap": 5339149902.838659,
       "headlines": [
         {
           "title": "Oklo Advances Groves-1 Reactor Into Research and Testing Phase",
