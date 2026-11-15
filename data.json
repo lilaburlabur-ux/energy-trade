@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-15T08:43:27+00:00",
-  "as_of_local": "2026-11-15 08:43:27 UTC",
+  "as_of_utc": "2026-11-15T08:58:24+00:00",
+  "as_of_local": "2026-11-15 08:58:24 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "BE"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -841,34 +843,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/200-000-dividend-stocks-roth-171701333.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-10T17:17:01Z"
-        }
-      ]
-    },
-    {
-      "symbol": "BE",
-      "name": "Bloom Energy",
-      "price": 191.99,
-      "previous_close": 201.93,
-      "change_pct": -4.92,
-      "market_cap": 56763129345.2007,
-      "headlines": [
-        {
-          "title": "Bloom Energy Stock Has More Than Doubled for 2 Years Running. I'd Keep Buying It Bit by Bit.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-stock-more-doubled-094702185.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-14T09:47:02Z"
-        },
-        {
-          "title": "What Could Bloom Energy (BE) Gain From Its 1 Gigawatt California Carbon Plan?",
-          "url": "https://finance.yahoo.com/energy/articles/could-bloom-energy-gain-1-080900102.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-14T08:09:00Z"
-        },
-        {
-          "title": "Can Bloom Energy Stock Jump 50%?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-stock-jump-50-192620723.html",
-          "publisher": "Trefis",
-          "published": "2026-11-13T19:26:20Z"
         }
       ]
     },
