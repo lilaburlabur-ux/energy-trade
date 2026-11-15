@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-15T12:19:56+00:00",
-  "as_of_local": "2026-11-15 12:19:56 UTC",
+  "as_of_utc": "2026-11-15T12:35:05+00:00",
+  "as_of_local": "2026-11-15 12:35:05 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "EQT"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -657,6 +659,12 @@
       "market_cap": 71108670279.64119,
       "headlines": [
         {
+          "title": "How Retirees Can Turn $175,000 Into Passive Income With These 4 Dividend Stocks",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/retirees-turn-175-000-passive-123052455.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-15T12:30:52Z"
+        },
+        {
           "title": "MarketBeat Week in Review \u2013 11/9 - 11/13",
           "url": "https://finance.yahoo.com/markets/stocks/articles/marketbeat-week-review-11-9-120000936.html",
           "publisher": "MarketBeat",
@@ -667,12 +675,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/50-000-3-pipeline-dividend-201707651.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-13T20:17:07Z"
-        },
-        {
-          "title": "What Kinder Morgan Stock's $13.2b Gas Backlog Means For Shareholders",
-          "url": "https://finance.yahoo.com/energy/articles/kinder-morgan-stocks-13-2b-031959875.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-13T03:19:59Z"
         }
       ]
     },
@@ -1065,34 +1067,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/earnings-miss-impact-pseg-stock-011704773.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-04T01:17:04Z"
-        }
-      ]
-    },
-    {
-      "symbol": "EQT",
-      "name": "EQT Corp",
-      "price": 52.81,
-      "previous_close": 52.36,
-      "change_pct": 0.86,
-      "market_cap": 33035266151.74141,
-      "headlines": [
-        {
-          "title": "3 Energy Stocks Facing Oil Price Risk as Hormuz Tensions Rise",
-          "url": "https://finance.yahoo.com/energy/articles/3-energy-stocks-facing-oil-071507309.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-11T07:15:07Z"
-        },
-        {
-          "title": "Natural Gas Prices Gain 3.5% for the Week: What's Next?",
-          "url": "https://finance.yahoo.com/energy/articles/natural-gas-prices-gain-3-131200133.html",
-          "publisher": "Zacks",
-          "published": "2026-11-09T13:12:00Z"
-        },
-        {
-          "title": "Do Wall Street Analysts Like EQT Corporation Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-eqt-corporation-111402304.html",
-          "publisher": "Barchart",
-          "published": "2026-11-06T11:14:02Z"
         }
       ]
     },
