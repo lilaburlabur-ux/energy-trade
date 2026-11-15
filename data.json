@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-15T12:50:04+00:00",
-  "as_of_local": "2026-11-15 12:50:04 UTC",
+  "as_of_utc": "2026-11-15T12:55:03+00:00",
+  "as_of_local": "2026-11-15 12:55:03 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "LNG"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -731,6 +729,34 @@
           "url": "https://finance.yahoo.com/energy/articles/rising-u-natural-gas-demand-153900975.html",
           "publisher": "Zacks",
           "published": "2026-11-11T15:39:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "LNG",
+      "name": "Cheniere Energy",
+      "price": 308.75,
+      "previous_close": 309.48,
+      "change_pct": -0.24,
+      "market_cap": 63047958447.5,
+      "headlines": [
+        {
+          "title": "LNG Prices Soar. These Exporters Could Benefit as Europe Faces a Tough Winter.",
+          "url": "https://www.barrons.com/articles/lng-prices-europe-venture-global-woodside-stocks-9946520c?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-11-13T20:18:00Z"
+        },
+        {
+          "title": "Chevron Eyes Biodiesel Growth With Iowa Facility Restart",
+          "url": "https://finance.yahoo.com/energy/articles/chevron-eyes-biodiesel-growth-iowa-151900022.html",
+          "publisher": "Zacks",
+          "published": "2026-11-13T15:19:00Z"
+        },
+        {
+          "title": "Zacks Investment Ideas feature highlights: American Healthcare REIT, RenaissanceRe and Cheniere Energy",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-065300177.html",
+          "publisher": "Zacks",
+          "published": "2026-11-13T06:53:00Z"
         }
       ]
     },
