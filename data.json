@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-15T12:55:03+00:00",
-  "as_of_local": "2026-11-15 12:55:03 UTC",
+  "as_of_utc": "2026-11-15T13:10:12+00:00",
+  "as_of_local": "2026-11-15 13:10:12 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "SO"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -281,34 +283,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/3-stocks-bought-back-billions-131000909.html",
           "publisher": "MarketBeat",
           "published": "2026-11-13T13:10:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "SO",
-      "name": "Southern Company",
-      "price": 93.59,
-      "previous_close": 92.47,
-      "change_pct": 1.21,
-      "market_cap": 108963185440.45877,
-      "headlines": [
-        {
-          "title": "Retirees Should Put These 4 High-Yield Utility Stocks on Their Buy List for Next Week",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/retirees-put-4-high-yield-150050151.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-14T15:00:50Z"
-        },
-        {
-          "title": "What Does Dominion Energy Offer That NiSource Does Not?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/does-dominion-energy-offer-nisource-215100482.html",
-          "publisher": "Trefis",
-          "published": "2026-11-13T21:51:00Z"
-        },
-        {
-          "title": "How Much You Need in Southern, Dominion and AEP to Collect $1,000 a Month",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/much-southern-dominion-aep-collect-171724956.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-13T17:17:24Z"
         }
       ]
     },
