@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-15T00:24:38+00:00",
-  "as_of_local": "2026-11-15 00:24:38 UTC",
+  "as_of_utc": "2026-11-15T00:39:36+00:00",
+  "as_of_local": "2026-11-15 00:39:36 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "SU"
+    "TLN"
   ],
   "stocks": [
     {
@@ -563,6 +563,34 @@
           "url": "https://finance.yahoo.com/energy/articles/chrds-four-mile-laterals-unlock-132800749.html",
           "publisher": "Zacks",
           "published": "2026-11-13T13:28:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "SU",
+      "name": "Suncor Energy",
+      "price": 69.92,
+      "previous_close": 69.29,
+      "change_pct": 0.91,
+      "market_cap": 80493596193.48547,
+      "headlines": [
+        {
+          "title": "How Investors Are Reacting To Suncor Energy (TSX:SU) Strong Earnings And Higher Dividend",
+          "url": "https://finance.yahoo.com/energy/articles/investors-reacting-suncor-energy-tsx-231143079.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-13T23:11:43Z"
+        },
+        {
+          "title": "Cenovus' Oil Sands Strength and Cost Discipline Support Growth",
+          "url": "https://finance.yahoo.com/energy/articles/cenovus-oil-sands-strength-cost-171400902.html",
+          "publisher": "Zacks",
+          "published": "2026-11-13T17:14:00Z"
+        },
+        {
+          "title": "Top Research Reports for Home Depot, Gilead & TotalEnergies",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/top-research-reports-home-depot-200700776.html",
+          "publisher": "Zacks",
+          "published": "2026-11-12T20:07:00Z"
         }
       ]
     },
@@ -1319,34 +1347,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-quanta-064100733.html",
           "publisher": "Zacks",
           "published": "2026-11-11T06:41:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "TLN",
-      "name": "Talen Energy",
-      "price": 376.01,
-      "previous_close": 386.68,
-      "change_pct": -2.76,
-      "market_cap": 16358432789.976562,
-      "headlines": [
-        {
-          "title": "What Is Talen Energy (TLN) Signaling With Its 750 MW Capacity Deal?",
-          "url": "https://finance.yahoo.com/energy/articles/talen-energy-tln-signaling-750-131328293.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-13T13:13:28Z"
-        },
-        {
-          "title": "Can NuScale's TVA Deal Unlock Its First Major Module Order?",
-          "url": "https://finance.yahoo.com/energy/articles/nuscales-tva-deal-unlock-first-152900220.html",
-          "publisher": "Zacks",
-          "published": "2026-11-12T15:29:00Z"
-        },
-        {
-          "title": "Talen Energy's 750-MW Capacity Deal Boosts Long-Term Revenue Outlook",
-          "url": "https://finance.yahoo.com/energy/articles/talen-energys-750-mw-capacity-152200955.html",
-          "publisher": "Zacks",
-          "published": "2026-11-12T15:22:00Z"
         }
       ]
     },
