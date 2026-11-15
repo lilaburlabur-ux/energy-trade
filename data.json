@@ -1,8 +1,11 @@
 {
-  "as_of_utc": "2026-11-15T06:31:47+00:00",
-  "as_of_local": "2026-11-15 06:31:47 UTC",
+  "as_of_utc": "2026-11-15T06:46:50+00:00",
+  "as_of_local": "2026-11-15 06:46:50 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "SHEL",
+    "EQNR"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -57,34 +60,6 @@
           "url": "https://finance.yahoo.com/energy/articles/why-pay-attention-occidental-petroleum-194848133.html",
           "publisher": "Trefis",
           "published": "2026-11-13T19:48:48Z"
-        }
-      ]
-    },
-    {
-      "symbol": "SHEL",
-      "name": "Shell",
-      "price": 99.08,
-      "previous_close": 97.78,
-      "change_pct": 1.33,
-      "market_cap": 280064362830.34845,
-      "headlines": [
-        {
-          "title": "LNG Prices Soar. These Exporters Could Benefit as Europe Faces a Tough Winter.",
-          "url": "https://www.barrons.com/articles/lng-prices-europe-venture-global-woodside-stocks-9946520c?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-11-13T20:18:00Z"
-        },
-        {
-          "title": "Drilling at Jackdaw in North Sea to start within days",
-          "url": "https://finance.yahoo.com/news/drilling-jackdaw-north-sea-start-164323641.html",
-          "publisher": "The Telegraph",
-          "published": "2026-11-13T16:43:23Z"
-        },
-        {
-          "title": "Hornbeck Offshore Is 48% Below Its High. Its CEO Scrapped a Stock Sale, Then Bought $1.5 Million",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/hornbeck-offshore-48-below-high-114659847.html",
-          "publisher": "TIKR",
-          "published": "2026-11-13T11:46:59Z"
         }
       ]
     },
@@ -365,34 +340,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/strong-buy-stocks-november-13th-075100623.html",
           "publisher": "Zacks",
           "published": "2026-11-13T07:51:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "EQNR",
-      "name": "Equinor",
-      "price": 42.95,
-      "previous_close": 42.76,
-      "change_pct": 0.44,
-      "market_cap": 101627386548.10126,
-      "headlines": [
-        {
-          "title": "Brookfield, CPPIB advance in Uniper sale as Germany plans stake reduction- Reuters",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/duffy-investigates-l3harris-over-faa-184802914.html",
-          "publisher": "Investing.com",
-          "published": "2026-11-14T18:48:02Z"
-        },
-        {
-          "title": "Drilling at Jackdaw in North Sea to start within days",
-          "url": "https://finance.yahoo.com/news/drilling-jackdaw-north-sea-start-164323641.html",
-          "publisher": "The Telegraph",
-          "published": "2026-11-13T16:43:23Z"
-        },
-        {
-          "title": "Equinor (OB:EQNR) Awaits UK Ruling On Rosebank Oil Field",
-          "url": "https://finance.yahoo.com/energy/articles/equinor-ob-eqnr-awaits-uk-001643131.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-13T00:16:43Z"
         }
       ]
     },
