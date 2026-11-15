@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-15T12:35:05+00:00",
-  "as_of_local": "2026-11-15 12:35:05 UTC",
+  "as_of_utc": "2026-11-15T12:50:04+00:00",
+  "as_of_local": "2026-11-15 12:50:04 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "EQT"
+    "LNG"
   ],
   "stocks": [
     {
@@ -735,34 +735,6 @@
       ]
     },
     {
-      "symbol": "LNG",
-      "name": "Cheniere Energy",
-      "price": 308.75,
-      "previous_close": 309.48,
-      "change_pct": -0.24,
-      "market_cap": 63047958447.5,
-      "headlines": [
-        {
-          "title": "LNG Prices Soar. These Exporters Could Benefit as Europe Faces a Tough Winter.",
-          "url": "https://www.barrons.com/articles/lng-prices-europe-venture-global-woodside-stocks-9946520c?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-11-13T20:18:00Z"
-        },
-        {
-          "title": "Chevron Eyes Biodiesel Growth With Iowa Facility Restart",
-          "url": "https://finance.yahoo.com/energy/articles/chevron-eyes-biodiesel-growth-iowa-151900022.html",
-          "publisher": "Zacks",
-          "published": "2026-11-13T15:19:00Z"
-        },
-        {
-          "title": "Zacks Investment Ideas feature highlights: American Healthcare REIT, RenaissanceRe and Cheniere Energy",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-065300177.html",
-          "publisher": "Zacks",
-          "published": "2026-11-13T06:53:00Z"
-        }
-      ]
-    },
-    {
       "symbol": "D",
       "name": "Dominion Energy",
       "price": 67.66,
@@ -1067,6 +1039,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/earnings-miss-impact-pseg-stock-011704773.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-04T01:17:04Z"
+        }
+      ]
+    },
+    {
+      "symbol": "EQT",
+      "name": "EQT Corp",
+      "price": 52.81,
+      "previous_close": 52.36,
+      "change_pct": 0.86,
+      "market_cap": 33035266151.74141,
+      "headlines": [
+        {
+          "title": "3 Energy Stocks Facing Oil Price Risk as Hormuz Tensions Rise",
+          "url": "https://finance.yahoo.com/energy/articles/3-energy-stocks-facing-oil-071507309.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-11T07:15:07Z"
+        },
+        {
+          "title": "Natural Gas Prices Gain 3.5% for the Week: What's Next?",
+          "url": "https://finance.yahoo.com/energy/articles/natural-gas-prices-gain-3-131200133.html",
+          "publisher": "Zacks",
+          "published": "2026-11-09T13:12:00Z"
+        },
+        {
+          "title": "Do Wall Street Analysts Like EQT Corporation Stock?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-eqt-corporation-111402304.html",
+          "publisher": "Barchart",
+          "published": "2026-11-06T11:14:02Z"
         }
       ]
     },
