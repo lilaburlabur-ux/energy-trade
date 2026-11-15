@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-15T13:10:12+00:00",
-  "as_of_local": "2026-11-15 13:10:12 UTC",
+  "as_of_utc": "2026-11-15T13:25:13+00:00",
+  "as_of_local": "2026-11-15 13:25:13 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "SO"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -283,6 +281,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/3-stocks-bought-back-billions-131000909.html",
           "publisher": "MarketBeat",
           "published": "2026-11-13T13:10:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "SO",
+      "name": "Southern Company",
+      "price": 93.59,
+      "previous_close": 92.47,
+      "change_pct": 1.21,
+      "market_cap": 108963185440.45877,
+      "headlines": [
+        {
+          "title": "Retirees Should Put These 4 High-Yield Utility Stocks on Their Buy List for Next Week",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/retirees-put-4-high-yield-150050151.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-14T15:00:50Z"
+        },
+        {
+          "title": "What Does Dominion Energy Offer That NiSource Does Not?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/does-dominion-energy-offer-nisource-215100482.html",
+          "publisher": "Trefis",
+          "published": "2026-11-13T21:51:00Z"
+        },
+        {
+          "title": "How Much You Need in Southern, Dominion and AEP to Collect $1,000 a Month",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/much-southern-dominion-aep-collect-171724956.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-13T17:17:24Z"
         }
       ]
     },
@@ -575,6 +601,12 @@
       "market_cap": 77809162091.73676,
       "headlines": [
         {
+          "title": "3 US Stocks Riding The AI Data Center Power And Cooling Buildout",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-us-stocks-riding-ai-130750054.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-15T13:07:50Z"
+        },
+        {
           "title": "Why Should Vertiv Stock Holders Keep Watching This Number?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-vertiv-stock-holders-keep-224631240.html",
           "publisher": "Trefis",
@@ -585,12 +617,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/hsbc-says-buy-dip-11-185515397.html",
           "publisher": "GuruFocus.com",
           "published": "2026-11-13T18:55:15Z"
-        },
-        {
-          "title": "Samsung Wants to Buy an American AI Data Center Cooling Company",
-          "url": "https://finance.yahoo.com/technology/ai/articles/samsung-wants-buy-american-ai-172759518.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-13T17:27:59Z"
         }
       ]
     },
