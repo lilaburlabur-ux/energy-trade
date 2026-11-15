@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-15T11:44:47+00:00",
-  "as_of_local": "2026-11-15 11:44:47 UTC",
+  "as_of_utc": "2026-11-15T11:59:43+00:00",
+  "as_of_local": "2026-11-15 11:59:43 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "OKLO"
+    "COP"
   ],
   "stocks": [
     {
@@ -171,34 +171,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/much-southern-dominion-aep-collect-171724956.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-13T17:17:24Z"
-        }
-      ]
-    },
-    {
-      "symbol": "COP",
-      "name": "ConocoPhillips",
-      "price": 142.28,
-      "previous_close": 140.06,
-      "change_pct": 1.59,
-      "market_cap": 168222630466.6799,
-      "headlines": [
-        {
-          "title": "Top 3 Energy Stocks To Watch In November 2026",
-          "url": "https://finance.yahoo.com/energy/articles/top-3-energy-stocks-watch-101140336.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-14T10:11:40Z"
-        },
-        {
-          "title": "Why You Need To Pay Attention To Occidental Petroleum Stock?",
-          "url": "https://finance.yahoo.com/energy/articles/why-pay-attention-occidental-petroleum-194848133.html",
-          "publisher": "Trefis",
-          "published": "2026-11-13T19:48:48Z"
-        },
-        {
-          "title": "A December Rate Hike Looks Likely: Buy These 3 Energy and Materials Dividend Stocks Before the Fed Moves",
-          "url": "https://finance.yahoo.com/markets/commodities/articles/december-rate-hike-looks-likely-173050546.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-13T17:30:50Z"
         }
       ]
     },
@@ -1603,6 +1575,34 @@
       ]
     },
     {
+      "symbol": "OKLO",
+      "name": "Oklo",
+      "price": 23.92,
+      "previous_close": 24.45,
+      "change_pct": -2.17,
+      "market_cap": 4671327079.459414,
+      "headlines": [
+        {
+          "title": "Oklo Has Lost 76% in a Year. Wall Street Still Sees $56. Bullish Wedbush Sees Just $36",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/oklo-lost-76-wall-street-092406000.html",
+          "publisher": "TIKR",
+          "published": "2026-11-14T09:24:06Z"
+        },
+        {
+          "title": "Centrus Energy (LEU) Lands Multiyear HALEU Deal Backed By Customer Prepayments",
+          "url": "https://finance.yahoo.com/energy/articles/centrus-energy-leu-lands-multiyear-061743445.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-14T06:17:43Z"
+        },
+        {
+          "title": "Centrus Energy (LEU) Stock May Look Rich Despite A New Fuel Supply Deal",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/centrus-energy-leu-stock-may-042050380.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-14T04:20:50Z"
+        }
+      ]
+    },
+    {
       "symbol": "ENPH",
       "name": "Enphase Energy",
       "price": 26.07,
@@ -1913,8 +1913,8 @@
           "name": "ConocoPhillips",
           "short": "ConocoPhillips",
           "weight_pct": 7.27,
-          "change_pct": 1.59,
-          "price": 142.28,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -2012,8 +2012,8 @@
         "name": "ConocoPhillips",
         "short": "ConocoPhillips",
         "weight_pct": 7.27,
-        "change_pct": 1.59,
-        "price": 142.28,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
