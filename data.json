@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-15T13:25:13+00:00",
-  "as_of_local": "2026-11-15 13:25:13 UTC",
+  "as_of_utc": "2026-11-15T13:40:22+00:00",
+  "as_of_local": "2026-11-15 13:40:22 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "ETN"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -197,34 +199,6 @@
           "url": "https://finance.yahoo.com/markets/commodities/articles/december-rate-hike-looks-likely-173050546.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-13T17:30:50Z"
-        }
-      ]
-    },
-    {
-      "symbol": "ETN",
-      "name": "Eaton",
-      "price": 352.97,
-      "previous_close": 359.04,
-      "change_pct": -1.69,
-      "market_cap": 137128845474.24316,
-      "headlines": [
-        {
-          "title": "Eaton (ETN) Has Record Orders, but One Problem Remains",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/eaton-etn-record-orders-one-152721414.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-11-14T15:27:21Z"
-        },
-        {
-          "title": "Why Should Vertiv Stock Holders Keep Watching This Number?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-vertiv-stock-holders-keep-224631240.html",
-          "publisher": "Trefis",
-          "published": "2026-11-13T22:46:31Z"
-        },
-        {
-          "title": "Is One Shrinking Number The Biggest Risk To Eaton Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/one-shrinking-number-biggest-risk-160600382.html",
-          "publisher": "Trefis",
-          "published": "2026-11-12T16:06:00Z"
         }
       ]
     },
