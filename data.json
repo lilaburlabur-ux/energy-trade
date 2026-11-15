@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-15T10:24:08+00:00",
-  "as_of_local": "2026-11-15 10:24:08 UTC",
+  "as_of_utc": "2026-11-15T10:39:12+00:00",
+  "as_of_local": "2026-11-15 10:39:12 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "RUN"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1711,6 +1709,34 @@
           "url": "https://finance.yahoo.com/energy/articles/centrus-energy-leu-fresh-attention-031235109.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-14T03:12:35Z"
+        }
+      ]
+    },
+    {
+      "symbol": "RUN",
+      "name": "Sunrun",
+      "price": 8.63,
+      "previous_close": 8.52,
+      "change_pct": 1.29,
+      "market_cap": 2088120532.1202002,
+      "headlines": [
+        {
+          "title": "Why Sunrun\u2019s (RUN) Battery Network Matters as Subscriber Additions Fall",
+          "url": "https://finance.yahoo.com/energy/articles/why-sunrun-run-battery-network-152401429.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-11-14T15:24:01Z"
+        },
+        {
+          "title": "Sunrun (RUN) Shares Dropped, So What Is Driving Attention Now?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/sunrun-run-shares-dropped-driving-221446390.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-13T22:14:46Z"
+        },
+        {
+          "title": "Sunrun (RUN) Stock May Be Undervalued As Puerto Rico Battery Role Grows",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/sunrun-run-stock-may-undervalued-211217401.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-13T21:12:17Z"
         }
       ]
     },
