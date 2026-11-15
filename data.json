@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-15T11:29:36+00:00",
-  "as_of_local": "2026-11-15 11:29:36 UTC",
+  "as_of_utc": "2026-11-15T11:44:47+00:00",
+  "as_of_local": "2026-11-15 11:44:47 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "OKLO"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1597,34 +1599,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/nexgen-energy-tsx-nxe-looks-161315873.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-11T16:13:15Z"
-        }
-      ]
-    },
-    {
-      "symbol": "OKLO",
-      "name": "Oklo",
-      "price": 23.92,
-      "previous_close": 24.45,
-      "change_pct": -2.17,
-      "market_cap": 4671327079.459414,
-      "headlines": [
-        {
-          "title": "Oklo Has Lost 76% in a Year. Wall Street Still Sees $56. Bullish Wedbush Sees Just $36",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/oklo-lost-76-wall-street-092406000.html",
-          "publisher": "TIKR",
-          "published": "2026-11-14T09:24:06Z"
-        },
-        {
-          "title": "Centrus Energy (LEU) Lands Multiyear HALEU Deal Backed By Customer Prepayments",
-          "url": "https://finance.yahoo.com/energy/articles/centrus-energy-leu-lands-multiyear-061743445.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-14T06:17:43Z"
-        },
-        {
-          "title": "Centrus Energy (LEU) Stock May Look Rich Despite A New Fuel Supply Deal",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/centrus-energy-leu-stock-may-042050380.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-14T04:20:50Z"
         }
       ]
     },
