@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-15T21:36:52+00:00",
-  "as_of_local": "2026-11-15 21:36:52 UTC",
+  "as_of_utc": "2026-11-15T21:51:55+00:00",
+  "as_of_local": "2026-11-15 21:51:55 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NRG"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1205,34 +1207,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/hubbell-hubb-stock-may-fully-091001551.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-12T09:10:01Z"
-        }
-      ]
-    },
-    {
-      "symbol": "NRG",
-      "name": "NRG Energy",
-      "price": 97.1,
-      "previous_close": 98.05,
-      "change_pct": -0.97,
-      "market_cap": 20393065967.53296,
-      "headlines": [
-        {
-          "title": "Do You Like Cash? Consider Vistra Stock",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/cash-consider-vistra-stock-211551348.html",
-          "publisher": "Trefis",
-          "published": "2026-11-12T21:15:51Z"
-        },
-        {
-          "title": "What Is The Biggest Threat To Vistra Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/biggest-threat-vistra-stock-005944429.html",
-          "publisher": "Trefis",
-          "published": "2026-11-12T00:59:44Z"
-        },
-        {
-          "title": "A $4 Billion Jolt: NRG Energy Powers Data Center Ambitions",
-          "url": "https://finance.yahoo.com/energy/articles/4-billion-jolt-nrg-energy-202000737.html",
-          "publisher": "MarketBeat",
-          "published": "2026-11-10T20:20:00Z"
         }
       ]
     },
