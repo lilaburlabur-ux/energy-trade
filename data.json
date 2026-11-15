@@ -1,11 +1,37 @@
 {
-  "as_of_utc": "2026-11-15T14:54:05+00:00",
-  "as_of_local": "2026-11-15 14:54:05 UTC",
+  "as_of_utc": "2026-11-15T15:09:09+00:00",
+  "as_of_local": "2026-11-15 15:09:09 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "XOM"
-  ],
+  "errors": [],
   "stocks": [
+    {
+      "symbol": "XOM",
+      "name": "ExxonMobil",
+      "price": 170.59,
+      "previous_close": 169.78,
+      "change_pct": 0.48,
+      "market_cap": 695874541783.4012,
+      "headlines": [
+        {
+          "title": "Top 3 Energy Stocks To Watch In November 2026",
+          "url": "https://finance.yahoo.com/energy/articles/top-3-energy-stocks-watch-101140336.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-14T10:11:40Z"
+        },
+        {
+          "title": "Is ExxonMobil Holdings (XOM) Undervalued After Its $12.5b Guyana Longtail Approval?",
+          "url": "https://finance.yahoo.com/energy/articles/exxonmobil-holdings-xom-undervalued-12-011312124.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-14T01:13:12Z"
+        },
+        {
+          "title": "The Price Tag on Jensen Huang\u2019s Resignation: $639 Billion and Counting",
+          "url": "https://www.barrons.com/articles/nvidia-stock-jensen-huang-resignation-cost-1893df0f?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-11-13T20:32:00Z"
+        }
+      ]
+    },
     {
       "symbol": "CVX",
       "name": "Chevron",
@@ -1895,8 +1921,8 @@
           "name": "ExxonMobil Holdings Corp",
           "short": "ExxonMobil",
           "weight_pct": 24.29,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": 0.48,
+          "price": 170.59,
           "currency": "USD"
         },
         {
@@ -1994,8 +2020,8 @@
         "name": "ExxonMobil Holdings Corp",
         "short": "ExxonMobil",
         "weight_pct": 24.29,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": 0.48,
+        "price": 170.59,
         "currency": "USD"
       },
       {
