@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-15T00:39:36+00:00",
-  "as_of_local": "2026-11-15 00:39:36 UTC",
+  "as_of_utc": "2026-11-15T00:54:47+00:00",
+  "as_of_local": "2026-11-15 00:54:47 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "TLN"
+    "DVN"
   ],
   "stocks": [
     {
@@ -931,34 +931,6 @@
       ]
     },
     {
-      "symbol": "DVN",
-      "name": "Devon Energy",
-      "price": 46.58,
-      "previous_close": 46.23,
-      "change_pct": 0.76,
-      "market_cap": 53087894646.67923,
-      "headlines": [
-        {
-          "title": "What Do Rate Hikes Imply for Devon Energy (DVN)?",
-          "url": "https://finance.yahoo.com/economy/policy/articles/rate-hikes-imply-devon-energy-170945305.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-11-14T17:09:45Z"
-        },
-        {
-          "title": "Nvidia downgraded, AMD upgraded: Wall Street's top analyst calls",
-          "url": "https://finance.yahoo.com/news/amd-under-armour-downgraded-wall-133533194.html",
-          "publisher": "The Fly",
-          "published": "2026-11-12T14:44:01Z"
-        },
-        {
-          "title": "Bernstein cuts ConocoPhillips and Diamondback ratings as Iran de-escalation looms",
-          "url": "https://finance.yahoo.com/energy/articles/bernstein-cuts-conocophillips-diamondback-ratings-132928047.html",
-          "publisher": "Investing.com",
-          "published": "2026-11-12T13:29:28Z"
-        }
-      ]
-    },
-    {
       "symbol": "FANG",
       "name": "Diamondback Energy",
       "price": 184.93,
@@ -1347,6 +1319,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-quanta-064100733.html",
           "publisher": "Zacks",
           "published": "2026-11-11T06:41:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "TLN",
+      "name": "Talen Energy",
+      "price": 376.01,
+      "previous_close": 386.68,
+      "change_pct": -2.76,
+      "market_cap": 16358432789.976562,
+      "headlines": [
+        {
+          "title": "What Is Talen Energy (TLN) Signaling With Its 750 MW Capacity Deal?",
+          "url": "https://finance.yahoo.com/energy/articles/talen-energy-tln-signaling-750-131328293.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-13T13:13:28Z"
+        },
+        {
+          "title": "Can NuScale's TVA Deal Unlock Its First Major Module Order?",
+          "url": "https://finance.yahoo.com/energy/articles/nuscales-tva-deal-unlock-first-152900220.html",
+          "publisher": "Zacks",
+          "published": "2026-11-12T15:29:00Z"
+        },
+        {
+          "title": "Talen Energy's 750-MW Capacity Deal Boosts Long-Term Revenue Outlook",
+          "url": "https://finance.yahoo.com/energy/articles/talen-energys-750-mw-capacity-152200955.html",
+          "publisher": "Zacks",
+          "published": "2026-11-12T15:22:00Z"
         }
       ]
     },
