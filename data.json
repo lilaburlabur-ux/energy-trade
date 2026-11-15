@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-15T00:09:25+00:00",
-  "as_of_local": "2026-11-15 00:09:25 UTC",
+  "as_of_utc": "2026-11-15T00:24:38+00:00",
+  "as_of_local": "2026-11-15 00:24:38 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "EPD"
+    "SU"
   ],
   "stocks": [
     {
@@ -68,7 +68,7 @@
       "price": 99.08,
       "previous_close": 97.78,
       "change_pct": 1.33,
-      "market_cap": 280264381376.6849,
+      "market_cap": 280064362830.34845,
       "headlines": [
         {
           "title": "LNG Prices Soar. These Exporters Could Benefit as Europe Faces a Tough Winter.",
@@ -511,6 +511,34 @@
       ]
     },
     {
+      "symbol": "EPD",
+      "name": "Enterprise Products",
+      "price": 38.28,
+      "previous_close": 37.4,
+      "change_pct": 2.35,
+      "market_cap": 82554831331.66571,
+      "headlines": [
+        {
+          "title": "A December Rate Hike Looks Likely: Buy These 3 Energy and Materials Dividend Stocks Before the Fed Moves",
+          "url": "https://finance.yahoo.com/markets/commodities/articles/december-rate-hike-looks-likely-173050546.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-13T17:30:50Z"
+        },
+        {
+          "title": "6 Energy Dividend Stocks Yielding Up to 7.97% That Income Investors Should Know",
+          "url": "https://finance.yahoo.com/energy/articles/6-energy-dividend-stocks-yielding-160824989.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-13T16:08:24Z"
+        },
+        {
+          "title": "5 High-Yield Dividend Stocks That Could Beat a 5% Treasury Yield",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/5-high-yield-dividend-stocks-154700336.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-13T15:47:00Z"
+        }
+      ]
+    },
+    {
       "symbol": "EOG",
       "name": "EOG Resources",
       "price": 158.32,
@@ -535,34 +563,6 @@
           "url": "https://finance.yahoo.com/energy/articles/chrds-four-mile-laterals-unlock-132800749.html",
           "publisher": "Zacks",
           "published": "2026-11-13T13:28:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "SU",
-      "name": "Suncor Energy",
-      "price": 69.92,
-      "previous_close": 69.29,
-      "change_pct": 0.91,
-      "market_cap": 80493596193.48547,
-      "headlines": [
-        {
-          "title": "How Investors Are Reacting To Suncor Energy (TSX:SU) Strong Earnings And Higher Dividend",
-          "url": "https://finance.yahoo.com/energy/articles/investors-reacting-suncor-energy-tsx-231143079.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-13T23:11:43Z"
-        },
-        {
-          "title": "Cenovus' Oil Sands Strength and Cost Discipline Support Growth",
-          "url": "https://finance.yahoo.com/energy/articles/cenovus-oil-sands-strength-cost-171400902.html",
-          "publisher": "Zacks",
-          "published": "2026-11-13T17:14:00Z"
-        },
-        {
-          "title": "Top Research Reports for Home Depot, Gilead & TotalEnergies",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/top-research-reports-home-depot-200700776.html",
-          "publisher": "Zacks",
-          "published": "2026-11-12T20:07:00Z"
         }
       ]
     },
