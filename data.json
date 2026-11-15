@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-15T00:54:47+00:00",
-  "as_of_local": "2026-11-15 00:54:47 UTC",
+  "as_of_utc": "2026-11-15T00:59:39+00:00",
+  "as_of_local": "2026-11-15 00:59:39 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "DVN"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -927,6 +925,34 @@
           "url": "https://www.barrons.com/articles/nvidia-jensen-huang-ai-energy-stocks-bloom-solaris-coreweave-ed1e46d7?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
           "published": "2026-11-12T15:40:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "DVN",
+      "name": "Devon Energy",
+      "price": 46.58,
+      "previous_close": 46.23,
+      "change_pct": 0.76,
+      "market_cap": 53087894646.67923,
+      "headlines": [
+        {
+          "title": "What Do Rate Hikes Imply for Devon Energy (DVN)?",
+          "url": "https://finance.yahoo.com/economy/policy/articles/rate-hikes-imply-devon-energy-170945305.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-11-14T17:09:45Z"
+        },
+        {
+          "title": "Nvidia downgraded, AMD upgraded: Wall Street's top analyst calls",
+          "url": "https://finance.yahoo.com/news/amd-under-armour-downgraded-wall-133533194.html",
+          "publisher": "The Fly",
+          "published": "2026-11-12T14:44:01Z"
+        },
+        {
+          "title": "Bernstein cuts ConocoPhillips and Diamondback ratings as Iran de-escalation looms",
+          "url": "https://finance.yahoo.com/energy/articles/bernstein-cuts-conocophillips-diamondback-ratings-132928047.html",
+          "publisher": "Investing.com",
+          "published": "2026-11-12T13:29:28Z"
         }
       ]
     },
