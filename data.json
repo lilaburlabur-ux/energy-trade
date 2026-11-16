@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-16T21:34:40+00:00",
-  "as_of_local": "2026-11-16 21:34:40 UTC",
+  "as_of_utc": "2026-11-16T21:39:45+00:00",
+  "as_of_local": "2026-11-16 21:39:45 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -41,6 +41,12 @@
       "market_cap": 423695224187.08923,
       "headlines": [
         {
+          "title": "Chevron Reportedly Moves Ahead in Talks to Buy Majority Stake in Gulf Oil Producer Beacon",
+          "url": "https://finance.yahoo.com/energy/articles/chevron-reportedly-moves-ahead-talks-212832438.html",
+          "publisher": "International Business Times",
+          "published": "2026-11-16T21:28:32Z"
+        },
+        {
           "title": "Could Occidental Petroleum Be The Value Stock For Your Portfolio?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/could-occidental-petroleum-value-stock-205505861.html",
           "publisher": "Trefis",
@@ -51,12 +57,6 @@
           "url": "https://finance.yahoo.com/energy/articles/exxonmobils-longtail-project-unlock-guyanas-161700877.html",
           "publisher": "Zacks",
           "published": "2026-11-16T16:17:00Z"
-        },
-        {
-          "title": "Petrobras Stock After Q3 Earnings - Buy, Sell or Hold for Now?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/petrobras-stock-q3-earnings-buy-142300376.html",
-          "publisher": "Zacks",
-          "published": "2026-11-16T14:23:00Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 85.35,
-      "change_pct": -3.62
+      "price": 85.24,
+      "change_pct": -3.75
     },
     {
       "label": "Brent",
-      "price": 92.16,
-      "change_pct": -3.84
+      "price": 92.0,
+      "change_pct": -4.01
     },
     {
       "label": "NatGas",
       "price": 3.13,
-      "change_pct": -3.03
+      "change_pct": -2.97
     }
   ]
 }
