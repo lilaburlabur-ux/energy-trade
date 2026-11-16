@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-16T08:45:52+00:00",
-  "as_of_local": "2026-11-16 08:45:52 UTC",
+  "as_of_utc": "2026-11-16T08:51:10+00:00",
+  "as_of_local": "2026-11-16 08:51:10 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "NEE"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -143,6 +141,34 @@
           "url": "https://finance.yahoo.com/energy/articles/murphy-oil-signs-offshore-production-134600650.html",
           "publisher": "Zacks",
           "published": "2026-11-13T13:46:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "NEE",
+      "name": "NextEra Energy",
+      "price": 85.12,
+      "previous_close": 85.29,
+      "change_pct": -0.2,
+      "market_cap": 178522696651.3031,
+      "headlines": [
+        {
+          "title": "Why Investors Should Own Businesses That Can Win Under Any Administration",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-investors-own-businesses-win-203500535.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-15T20:35:00Z"
+        },
+        {
+          "title": "Retirees Should Put These 4 High-Yield Utility Stocks on Their Buy List for Next Week",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/retirees-put-4-high-yield-150050151.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-14T15:00:50Z"
+        },
+        {
+          "title": "HSBC Says Buy the Dip in These 11 Stocks -- Alphabet and Oracle Top the List",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/hsbc-says-buy-dip-11-185515397.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-13T18:55:15Z"
         }
       ]
     },
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 88.76,
-      "change_pct": 0.23
+      "price": 88.67,
+      "change_pct": 0.12
     },
     {
       "label": "Brent",
-      "price": 93.16,
-      "change_pct": -2.8
+      "price": 92.94,
+      "change_pct": -3.03
     },
     {
       "label": "NatGas",
       "price": 3.11,
-      "change_pct": -3.68
+      "change_pct": -3.84
     }
   ]
 }
