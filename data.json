@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-16T08:25:35+00:00",
-  "as_of_local": "2026-11-16 08:25:35 UTC",
+  "as_of_utc": "2026-11-16T08:30:44+00:00",
+  "as_of_local": "2026-11-16 08:30:44 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "WFRD"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -14,6 +12,12 @@
       "change_pct": 0.48,
       "market_cap": 695874541783.4012,
       "headlines": [
+        {
+          "title": "Was There Any Sign Venture Global Stock Would Run?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/sign-venture-global-stock-run-080804893.html",
+          "publisher": "Trefis",
+          "published": "2026-11-16T08:08:04Z"
+        },
         {
           "title": "Top 3 Energy Stocks To Watch In November 2026",
           "url": "https://finance.yahoo.com/energy/articles/top-3-energy-stocks-watch-101140336.html",
@@ -25,12 +29,6 @@
           "url": "https://finance.yahoo.com/energy/articles/exxonmobil-holdings-xom-undervalued-12-011312124.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-14T01:13:12Z"
-        },
-        {
-          "title": "The Price Tag on Jensen Huang\u2019s Resignation: $639 Billion and Counting",
-          "url": "https://www.barrons.com/articles/nvidia-stock-jensen-huang-resignation-cost-1893df0f?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-11-13T20:32:00Z"
         }
       ]
     },
@@ -43,6 +41,12 @@
       "market_cap": 429061171823.58923,
       "headlines": [
         {
+          "title": "Was There Any Sign Venture Global Stock Would Run?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/sign-venture-global-stock-run-080804893.html",
+          "publisher": "Trefis",
+          "published": "2026-11-16T08:08:04Z"
+        },
+        {
           "title": "Top 3 Energy Stocks To Watch In November 2026",
           "url": "https://finance.yahoo.com/energy/articles/top-3-energy-stocks-watch-101140336.html",
           "publisher": "Simply Wall St.",
@@ -53,12 +57,6 @@
           "url": "https://www.barrons.com/articles/lng-prices-europe-venture-global-woodside-stocks-9946520c?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
           "published": "2026-11-13T20:18:00Z"
-        },
-        {
-          "title": "Why You Need To Pay Attention To Occidental Petroleum Stock?",
-          "url": "https://finance.yahoo.com/energy/articles/why-pay-attention-occidental-petroleum-194848133.html",
-          "publisher": "Trefis",
-          "published": "2026-11-13T19:48:48Z"
         }
       ]
     },
@@ -743,6 +741,12 @@
       "market_cap": 63047958447.5,
       "headlines": [
         {
+          "title": "Was There Any Sign Venture Global Stock Would Run?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/sign-venture-global-stock-run-080804893.html",
+          "publisher": "Trefis",
+          "published": "2026-11-16T08:08:04Z"
+        },
+        {
           "title": "How These 6 Natural Gas Stocks Make Money",
           "url": "https://finance.yahoo.com/markets/stocks/articles/6-natural-gas-stocks-money-153300478.html",
           "publisher": "Motley Fool",
@@ -753,12 +757,6 @@
           "url": "https://www.barrons.com/articles/lng-prices-europe-venture-global-woodside-stocks-9946520c?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
           "published": "2026-11-13T20:18:00Z"
-        },
-        {
-          "title": "Chevron Eyes Biodiesel Growth With Iowa Facility Restart",
-          "url": "https://finance.yahoo.com/energy/articles/chevron-eyes-biodiesel-growth-iowa-151900022.html",
-          "publisher": "Zacks",
-          "published": "2026-11-13T15:19:00Z"
         }
       ]
     },
@@ -1547,6 +1545,34 @@
       ]
     },
     {
+      "symbol": "WFRD",
+      "name": "Weatherford",
+      "price": 86.45,
+      "previous_close": 85.51,
+      "change_pct": 1.1,
+      "market_cap": 6265055830.638245,
+      "headlines": [
+        {
+          "title": "Here\u2019s What Supports Weatherford International\u2019s (WFRD) Multiyear Profit Cycle Growth",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/supports-weatherford-international-wfrd-multiyear-162245266.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-11-12T16:22:45Z"
+        },
+        {
+          "title": "Why Is Baker Hughes Stock Falling?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-baker-hughes-stock-falling-141921435.html",
+          "publisher": "Trefis",
+          "published": "2026-11-06T14:19:21Z"
+        },
+        {
+          "title": "Should Jun\u00edn 5 Support Work Require Action From Weatherford International (WFRD) Investors?",
+          "url": "https://finance.yahoo.com/energy/articles/jun-n-5-support-require-131419197.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-10-30T13:14:19Z"
+        }
+      ]
+    },
+    {
       "symbol": "NXE",
       "name": "NexGen Energy",
       "price": 7.76,
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 88.99,
-      "change_pct": 0.49
+      "price": 88.91,
+      "change_pct": 0.4
     },
     {
       "label": "Brent",
-      "price": 96.12,
-      "change_pct": 0.29
+      "price": 96.09,
+      "change_pct": 0.26
     },
     {
       "label": "NatGas",
       "price": 3.12,
-      "change_pct": -3.44
+      "change_pct": -3.47
     }
   ]
 }
