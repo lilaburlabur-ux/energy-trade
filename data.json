@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-16T09:01:12+00:00",
-  "as_of_local": "2026-11-16 09:01:12 UTC",
+  "as_of_utc": "2026-11-16T09:06:13+00:00",
+  "as_of_local": "2026-11-16 09:06:13 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "SLB"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -617,34 +619,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-vertiv-stock-holders-keep-224631240.html",
           "publisher": "Trefis",
           "published": "2026-11-13T22:46:31Z"
-        }
-      ]
-    },
-    {
-      "symbol": "SLB",
-      "name": "SLB (Schlumberger)",
-      "price": 51.67,
-      "previous_close": 50.91,
-      "change_pct": 1.49,
-      "market_cap": 76266447401.01906,
-      "headlines": [
-        {
-          "title": "SLB Limited (SLB) Is a Trending Stock: Facts to Know Before Betting on It",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/slb-limited-slb-trending-stock-130003946.html",
-          "publisher": "Zacks",
-          "published": "2026-11-12T13:00:03Z"
-        },
-        {
-          "title": "SLB (SLB) Stock Still Looks Undervalued Despite Its 70% Run",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/slb-slb-stock-still-looks-151819577.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-07T15:18:19Z"
-        },
-        {
-          "title": "SLB (SLB) Could Be 20% Below Fair Value After New Contract Wins",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/slb-slb-could-20-below-141006503.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-07T14:10:06Z"
         }
       ]
     },
@@ -1993,8 +1967,8 @@
           "name": "SLB Ltd",
           "short": "SLB",
           "weight_pct": 3.74,
-          "change_pct": 1.49,
-          "price": 51.67,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -2092,8 +2066,8 @@
         "name": "SLB Ltd",
         "short": "SLB",
         "weight_pct": 3.74,
-        "change_pct": 1.49,
-        "price": 51.67,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -2115,13 +2089,13 @@
     },
     {
       "label": "WTI",
-      "price": 88.5,
-      "change_pct": -0.07
+      "price": 88.55,
+      "change_pct": -0.01
     },
     {
       "label": "Brent",
-      "price": 92.68,
-      "change_pct": -3.3
+      "price": 92.77,
+      "change_pct": -3.2
     },
     {
       "label": "NatGas",
