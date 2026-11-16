@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-16T14:16:41+00:00",
-  "as_of_local": "2026-11-16 14:16:41 UTC",
+  "as_of_utc": "2026-11-16T14:21:43+00:00",
+  "as_of_local": "2026-11-16 14:21:43 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "SEDG"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1799,6 +1797,34 @@
       ]
     },
     {
+      "symbol": "SEDG",
+      "name": "SolarEdge",
+      "price": 23.85,
+      "previous_close": 24.29,
+      "change_pct": -1.81,
+      "market_cap": 1476658487.4684696,
+      "headlines": [
+        {
+          "title": "SolarEdge Technologies (SEDG) Looks Cheap After Yield Pressure Clouds A Tariff Helped Beat",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/solaredge-technologies-sedg-looks-cheap-211107654.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-13T21:11:07Z"
+        },
+        {
+          "title": "How Low Can First Solar Stock Go?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/low-first-solar-stock-175441142.html",
+          "publisher": "Trefis",
+          "published": "2026-11-13T17:54:41Z"
+        },
+        {
+          "title": "What Changed In First Solar's Story?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/changed-first-solars-story-121251483.html",
+          "publisher": "Trefis",
+          "published": "2026-11-13T12:12:51Z"
+        }
+      ]
+    },
+    {
       "symbol": "ARRY",
       "name": "Array Technologies",
       "price": 4.84,
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 87.29,
-      "change_pct": -1.43
+      "price": 87.42,
+      "change_pct": -1.29
     },
     {
       "label": "Brent",
-      "price": 94.02,
-      "change_pct": -1.9
+      "price": 94.12,
+      "change_pct": -1.79
     },
     {
       "label": "NatGas",
       "price": 3.16,
-      "change_pct": -2.04
+      "change_pct": -2.01
     }
   ]
 }
