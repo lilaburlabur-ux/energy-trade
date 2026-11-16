@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-16T04:27:31+00:00",
-  "as_of_local": "2026-11-16 04:27:31 UTC",
+  "as_of_utc": "2026-11-16T04:42:30+00:00",
+  "as_of_local": "2026-11-16 04:42:30 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "UEC"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1657,34 +1659,6 @@
       ]
     },
     {
-      "symbol": "UEC",
-      "name": "Uranium Energy Corp",
-      "price": 6.66,
-      "previous_close": 6.8,
-      "change_pct": -2.06,
-      "market_cap": 3300593793.2797813,
-      "headlines": [
-        {
-          "title": "The Best Uranium Stocks to Buy and Hold as Nuclear Power Expands",
-          "url": "https://finance.yahoo.com/energy/articles/best-uranium-stocks-buy-hold-100000182.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-12T10:00:00Z"
-        },
-        {
-          "title": "Purepoint Uranium CEO explains why rising uranium prices aren't lifting stocks",
-          "url": "https://finance.yahoo.com/news/purepoint-uranium-ceo-explains-why-151300252.html",
-          "publisher": "Proactive",
-          "published": "2026-11-06T15:13:00Z"
-        },
-        {
-          "title": "Is Uranium Energy (UEC) Priced Too Richly On Book Value?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/uranium-energy-uec-priced-too-002024703.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-06T00:20:24Z"
-        }
-      ]
-    },
-    {
       "symbol": "LEU",
       "name": "Centrus Energy",
       "price": 103.78,
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 88.48,
-      "change_pct": -0.09
+      "price": 88.29,
+      "change_pct": -0.3
     },
     {
       "label": "Brent",
-      "price": 95.39,
-      "change_pct": -0.47
+      "price": 95.29,
+      "change_pct": -0.57
     },
     {
       "label": "NatGas",
       "price": 3.16,
-      "change_pct": -2.01
+      "change_pct": -2.11
     }
   ]
 }
