@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-16T13:25:06+00:00",
+  "as_of": "2026-11-16T13:40:12+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,16 +11,16 @@
    "rank": 1,
    "ticker": "VRT",
    "company": "Vertiv Holdings, LLC",
-   "move_pct": -5.48,
-   "price": 191.0,
+   "move_pct": -5.47,
+   "price": 191.03,
    "volume": 5401100,
    "volume_vs_avg": "~0.7x",
    "heat_score": 38,
    "direction": "down",
-   "why": "Vertiv Just Raised Its Dividend 60%. Is the AI Power Play Becoming an Income Stock?",
-   "catalyst_type": "financing",
-   "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUURLc21qMDVCdlZuT3BqZGhLWi1RTXlsM0t1a28yVmR4d1hobkMyR0dRZGhtUWNiUks2czN1Szh1OHJaNmFIaHJ1aVowSi0zcGYwYXFmV25pb2NuZmdFRjVHYjV2WERLUUhzeGxxUVdoc2xhSG8xbVNOMXNMX3NQTEsyVGtFM09PcFFQS1hBY2dwaVJydDBGR1BTSQ?oc=5",
-   "published": "2026-11-16T12:47:43+00:00",
+   "why": "Is Texas Data Center Pause Altering The Investment Case For Vertiv Stock (VRT)?",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbnFIeVNhRl9NdENvSldzS1ZIdl9IUXZLWUVwTkRKN0ZYclZTc0FoUjVtRzE1TzBjNzRhblFpX3VmcHd5RXplM2tweE54THRGRTh3NjYyQzhlNEZ4MUJFdlVXdFFQbDZVQXRUcjFrSmJBaHFXNm50eWtwalF5X3RrSG9WcVg2ZW9UUVl3aDNCeWxoaVhXX285N3dOTkpGMnF4OGtuU2kzZ3NZanA4UEp1N0gzaS1LQl9jTHpRVWxuel9LcnFfMm5MNUlIUnhGdC1DTEFlZ9IB2gFBVV95cUxQdlZfQk1qRExFbGJWalpEMW96cXFCVlFVdVZUS0NvZUFubXZFZURDb2J1aGVjbm5QMU5qUWhxbnBqalZGREdEdW00QUtSZ1I5MXhVemxiOGVwSHlFdXlGc0c4aXdhQVE3R3V0QWNNNG04SFB4R0lIY0ZZX2xrUmJVSjFZaWZja21Oc2lMeWpUWlA4S2FteFYtNEc1ekdRZFB3MG1ETUl1NnhLeXgtdm03QjJlT2I1NjczaGFnVGdPUVhnYnZoVTVlUGl2NWtjbkRxdG5ETFhuSjBSZw?oc=5",
+   "published": "2026-11-16T13:11:39+00:00",
    "sector": "Grid, Storage & Electrification"
   }
  ]
