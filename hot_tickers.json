@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-16T15:21:52+00:00",
+  "as_of": "2026-11-16T15:36:57+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,13 +9,29 @@
  "hot_tickers": [
   {
    "rank": 1,
+   "ticker": "FLNC",
+   "company": "Fluence Energy, Inc.",
+   "move_pct": -8.55,
+   "price": 4.28,
+   "volume": 1470572,
+   "volume_vs_avg": "~0.2x",
+   "heat_score": 56,
+   "direction": "down",
+   "why": "Earnings Preview: Fluence Energy, Inc. (FLNC) Q4 Earnings Expected to Decline",
+   "catalyst_type": "earnings",
+   "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMHh6cmowNDdyZVo4T1k4S29TVmZIVGFvVTBNTE9STFp5Q1hMbFJBOWJMYXA5SlVsX1BXSEJOcU90ak1mZ2lQM1lFVE1yX0J2VkQxRUd4Y1EtQ0JZaWRRemtkdmU4dXdqa2pFN2pscUZsUEVxTEdWRG1ieF8zM2xLWlAzT01NaDNnUVhldA?oc=5",
+   "published": "2026-11-16T14:00:03+00:00",
+   "sector": "Grid, Storage & Electrification"
+  },
+  {
+   "rank": 2,
    "ticker": "SEDG",
    "company": "SolarEdge Technologies, Inc.",
-   "move_pct": -7.51,
-   "price": 22.06,
-   "volume": 1391674,
-   "volume_vs_avg": "~0.5x",
-   "heat_score": 44,
+   "move_pct": -7.8,
+   "price": 21.99,
+   "volume": 1577789,
+   "volume_vs_avg": "~0.6x",
+   "heat_score": 45,
    "direction": "down",
    "why": "SolarEdge Debuts U.S.-Made Duo Power Optimizer for Commercial and Industrial Projects, Delivering Module-Level Performance with 50% Fewer Units",
    "catalyst_type": "contract_win",
@@ -24,19 +40,35 @@
    "sector": "Renewables & Solar"
   },
   {
-   "rank": 2,
+   "rank": 3,
+   "ticker": "UUUU",
+   "company": "Energy Fuels Inc",
+   "move_pct": -7.13,
+   "price": 6.12,
+   "volume": 1689155,
+   "volume_vs_avg": "~0.2x",
+   "heat_score": 41,
+   "direction": "down",
+   "why": "Energy Fuels Inc stock hits 52-week low at $6.21 By Investing.com",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUDVKd2QwclhqQkxtd3Q2bHZERkNjZ29KWEM5elMtcmdRZ2Iwb3FER29OY1dGc1VxX1FZLWFfRzlCalYxV3B5aU90TzBucFBTNkYxQ0Z5LTFFMDhBN25iNnhkLUJKY1cwNHlwRVFFbGRHa1pUa3ZlX0IwemYtdUxWRTc5OENRU0RaOUFPbUJqMkplMnkyemxCRUFSY3ZYVDVKVXJXMlZvVk9jdw?oc=5",
+   "published": "2026-11-16T15:18:08+00:00",
+   "sector": "Nuclear & Uranium"
+  },
+  {
+   "rank": 4,
    "ticker": "VRT",
    "company": "Vertiv Holdings, LLC",
-   "move_pct": -6.55,
-   "price": 188.84,
-   "volume": 1419465,
+   "move_pct": -6.66,
+   "price": 188.62,
+   "volume": 1662928,
    "volume_vs_avg": "~0.2x",
    "heat_score": 39,
    "direction": "down",
-   "why": "Vertiv ATLAS Proves AI Infrastructure Ahead of Silicon",
+   "why": "Is It Worth Investing in Vertiv (VRT) Based on Wall Street's Bullish Views?",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYnNEQ1Z6NkNudWN1ZnlYaWQwUUNwUlFQekpTS2ZmYWlGNGw4aU5YUjI1NlFzbFN6dDdHMTNFNzU0aVJRTDUxdmU5NGpiUHk2TkJZUzdyWVZKVHIwSC05d2kxVFFiLTdrYm9oQ0Z1a0duc3lXWnlJTnRlc3pRYUNtcXlodWNNNkY1dmJrbGZZZw?oc=5",
-   "published": "2026-11-16T13:30:00+00:00",
+   "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQjNVT283SFNtbW9CX0h4NjVUQTMzbG93bFVNaXgtRk9KdlYzS0VSSzl2czhLSFdZU3F5aHNuMng1UGhKZ0EtdkV0WnUyV1AwRllCM1NwUTlzV1FSbDQ1ZXhUaGZQRFk2Zkg3UE96M3MyTXQ4NHpRaFRpaHp1Ulk4cHNTNF9xckgy?oc=5",
+   "published": "2026-11-16T13:30:04+00:00",
    "sector": "Grid, Storage & Electrification"
   }
  ]
