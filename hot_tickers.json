@@ -1,10 +1,27 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-16T14:15:50+00:00",
+  "as_of": "2026-11-16T14:30:58+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": []
+ "hot_tickers": [
+  {
+   "rank": 1,
+   "ticker": "VRT",
+   "company": "Vertiv Holdings, LLC",
+   "move_pct": -6.18,
+   "price": 189.59,
+   "volume": 265415,
+   "volume_vs_avg": "~0.0x",
+   "heat_score": 37,
+   "direction": "down",
+   "why": "Vertiv ATLAS Proves AI Infrastructure Ahead of Silicon",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYnNEQ1Z6NkNudWN1ZnlYaWQwUUNwUlFQekpTS2ZmYWlGNGw4aU5YUjI1NlFzbFN6dDdHMTNFNzU0aVJRTDUxdmU5NGpiUHk2TkJZUzdyWVZKVHIwSC05d2kxVFFiLTdrYm9oQ0Z1a0duc3lXWnlJTnRlc3pRYUNtcXlodWNNNkY1dmJrbGZZZw?oc=5",
+   "published": "2026-11-16T13:30:00+00:00",
+   "sector": "Grid, Storage & Electrification"
+  }
+ ]
 }
