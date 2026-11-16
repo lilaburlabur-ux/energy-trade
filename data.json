@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-16T10:53:30+00:00",
-  "as_of_local": "2026-11-16 10:53:30 UTC",
+  "as_of_utc": "2026-11-16T10:58:25+00:00",
+  "as_of_local": "2026-11-16 10:58:25 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "PWR"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -455,6 +453,34 @@
       ]
     },
     {
+      "symbol": "PWR",
+      "name": "Quanta Services",
+      "price": 602.01,
+      "previous_close": 606.16,
+      "change_pct": -0.68,
+      "market_cap": 90709149532.9065,
+      "headlines": [
+        {
+          "title": "Looking for a Growth Stock? 3 Reasons Why Quanta Services (PWR) is a Solid Choice",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/looking-growth-stock-3-reasons-164502607.html",
+          "publisher": "Zacks",
+          "published": "2026-11-13T16:45:02Z"
+        },
+        {
+          "title": "Comfort Systems Plunges 26.8% in a Month: Time to Buy FIX Stock?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/comfort-systems-plunges-26-8-152700284.html",
+          "publisher": "Zacks",
+          "published": "2026-11-13T15:27:00Z"
+        },
+        {
+          "title": "Should Investors Buy Quanta Stock After Impressive Q3 Earnings?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/investors-buy-quanta-stock-impressive-141400157.html",
+          "publisher": "Zacks",
+          "published": "2026-11-13T14:14:00Z"
+        }
+      ]
+    },
+    {
       "symbol": "WMB",
       "name": "Williams Companies",
       "price": 69.09,
@@ -637,16 +663,16 @@
           "published": "2026-11-15T15:33:00Z"
         },
         {
+          "title": "How Retirees Can Turn $175,000 Into Passive Income With These 4 Dividend Stocks",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/retirees-turn-175-000-passive-123052455.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-15T12:30:52Z"
+        },
+        {
           "title": "MarketBeat Week in Review \u2013 11/9 - 11/13",
           "url": "https://finance.yahoo.com/markets/stocks/articles/marketbeat-week-review-11-9-120000936.html",
           "publisher": "MarketBeat",
           "published": "2026-11-14T12:00:00Z"
-        },
-        {
-          "title": "$50,000 in These 3 Pipeline Dividend Stocks Could Pay You $1,900 a Year",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/50-000-3-pipeline-dividend-201707651.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-13T20:17:07Z"
         }
       ]
     },
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 88.39,
-      "change_pct": -0.19
+      "price": 88.48,
+      "change_pct": -0.09
     },
     {
       "label": "Brent",
-      "price": 95.46,
-      "change_pct": -0.4
+      "price": 95.44,
+      "change_pct": -0.42
     },
     {
       "label": "NatGas",
-      "price": 3.13,
-      "change_pct": -3.13
+      "price": 3.14,
+      "change_pct": -2.91
     }
   ]
 }
