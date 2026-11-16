@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-16T05:47:52+00:00",
-  "as_of_local": "2026-11-16 05:47:52 UTC",
+  "as_of_utc": "2026-11-16T06:03:03+00:00",
+  "as_of_local": "2026-11-16 06:03:03 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "COP"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -171,6 +169,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/hsbc-says-buy-dip-11-185515397.html",
           "publisher": "GuruFocus.com",
           "published": "2026-11-13T18:55:15Z"
+        }
+      ]
+    },
+    {
+      "symbol": "COP",
+      "name": "ConocoPhillips",
+      "price": 142.28,
+      "previous_close": 140.06,
+      "change_pct": 1.59,
+      "market_cap": 168222630466.6799,
+      "headlines": [
+        {
+          "title": "What Bernstein Sees Looming Over ConocoPhillips (COP)",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bernstein-sees-looming-over-conocophillips-030556041.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-11-16T03:05:56Z"
+        },
+        {
+          "title": "Top 3 Energy Stocks To Watch In November 2026",
+          "url": "https://finance.yahoo.com/energy/articles/top-3-energy-stocks-watch-101140336.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-14T10:11:40Z"
+        },
+        {
+          "title": "Why You Need To Pay Attention To Occidental Petroleum Stock?",
+          "url": "https://finance.yahoo.com/energy/articles/why-pay-attention-occidental-petroleum-194848133.html",
+          "publisher": "Trefis",
+          "published": "2026-11-13T19:48:48Z"
         }
       ]
     },
@@ -1913,8 +1939,8 @@
           "name": "ConocoPhillips",
           "short": "ConocoPhillips",
           "weight_pct": 7.27,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": 1.59,
+          "price": 142.28,
           "currency": "USD"
         },
         {
@@ -2012,8 +2038,8 @@
         "name": "ConocoPhillips",
         "short": "ConocoPhillips",
         "weight_pct": 7.27,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": 1.59,
+        "price": 142.28,
         "currency": "USD"
       },
       {
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 88.43,
-      "change_pct": -0.15
+      "price": 88.63,
+      "change_pct": 0.08
     },
     {
       "label": "Brent",
-      "price": 95.42,
-      "change_pct": -0.44
+      "price": 95.66,
+      "change_pct": -0.19
     },
     {
       "label": "NatGas",
       "price": 3.15,
-      "change_pct": -2.41
+      "change_pct": -2.45
     }
   ]
 }
