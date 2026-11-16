@@ -4,8 +4,8 @@ Signed file: `GEV.research.16.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $763.72 (2026-11-16, ~15-min delayed) |
-| Market cap | $202.14B |
+| Current price | $763.57 (2026-11-16, ~15-min delayed) |
+| Market cap | $202.10B |
 | Sector / Industry | Industrials / Specialty Industrial Machinery |
 | Main theme | Specialty Industrial Machinery — see catalysts below |
 | Current stance | Low technical momentum, strong fundamentals, value: fair-to-demanding, risk: high. |
@@ -15,8 +15,8 @@ Signed file: `GEV.research.16.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-19.71%) with negative half-year (-24.47%). |
-| Fresh setup quality | Poor / broken | -34.96% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-19.72%) with negative half-year (-24.48%). |
+| Fresh setup quality | Poor / broken | -34.97% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 23.54%, revenue growth 26.80%. |
 | Value attractiveness | Fair-to-demanding | Forward P/E 29.30, EV/Sales 4.57. |
 | Risk level | High | Beta 1.06, ATR 7.4% of price, short float 2.83%. |
@@ -36,30 +36,30 @@ GE Vernova Inc., an energy company, engages in the provision of various products
 
 | Headline | Source | Date |
 |---|---|---|
+| 3 Great Nuclear Energy Stocks To Own In November 2026 | Simply Wall St. | 2026-11-16 |
 | Is GEV Boosting Its Position in the Global Power Infrastructure Market? | Zacks | 2026-11-16 |
 | AirJoule Technologies Q3 Earnings Call Highlights | MarketBeat | 2026-11-16 |
 | State Street Industrial Select Sector SPDR (XLI) Adds GE and Caterpillar on Thursday | GuruFocus.com | 2026-11-16 |
-| BE Stock Falls Overnight: Retail Flags Valuation Concerns As Forward P/E Nears 18-Month Low | Stocktwits | 2026-11-16 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $763.72; 52w high $1,174.17 (-34.96%); 52w low $553.58 (+37.96%) |
-| Trend | -19.71% vs SMA200, -16.00% vs SMA50, -9.12% vs SMA20 |
+| Price vs 52-week range | Close $763.57; 52w high $1,174.17 (-34.97%); 52w low $553.58 (+37.93%) |
+| Trend | -19.72% vs SMA200, -16.02% vs SMA50, -9.14% vs SMA20 |
 | Momentum | RSI(14) 37.4 (neutral) |
-| Volatility | ATR(14) 56.19 (~7.4% of price); beta 1.06 |
-| Setup perspective | -34.96% from 52w high — base needs to rebuild. |
+| Volatility | ATR(14) 56.26 (~7.4% of price); beta 1.06 |
+| Setup perspective | -34.97% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
 | Week | -7.9% |
-| Month | -17.0% |
+| Month | -17.1% |
 | Quarter | -23.9% |
 | Half Y | -24.5% |
-| 1Y | +37.2% |
-| YTD | +12.7% |
+| 1Y | +37.1% |
+| YTD | +12.6% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -112,14 +112,14 @@ GE Vernova Inc., an energy company, engages in the provision of various products
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $763.72 | EV/Sales | 4.57 |
-| Market cap | $202.14B | EV/EBITDA | 39.85 |
+| Price | $763.57 | EV/Sales | 4.57 |
+| Market cap | $202.10B | EV/EBITDA | 39.85 |
 | Beta | 1.06 | Gross margin | 21.79% |
 | RSI(14) | 37.4 | Operating margin | 8.22% |
-| ATR(14) | 56.19 | Profit margin | 23.54% |
-| SMA20 dist | -9.12% | ROA | 3.22% |
-| SMA50 dist | -16.00% | ROE | 93.04% |
-| SMA200 dist | -19.71% | Revenue (ttm) | $44.04B |
+| ATR(14) | 56.26 | Profit margin | 23.54% |
+| SMA20 dist | -9.14% | ROA | 3.22% |
+| SMA50 dist | -16.02% | ROE | 93.04% |
+| SMA200 dist | -19.72% | Revenue (ttm) | $44.04B |
 | 52W high | $1,174.17 | Revenue growth y/y | 26.80% |
 | 52W low | $553.58 | Inst. ownership | 79.77% |
 | P/E (ttm) | 20.05 | Insider ownership | 0.49% |

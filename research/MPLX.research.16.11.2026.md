@@ -4,8 +4,8 @@ Signed file: `MPLX.research.16.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $57.24 (2026-11-16, ~15-min delayed) |
-| Market cap | $57.99B |
+| Current price | $57.29 (2026-11-16, ~15-min delayed) |
+| Market cap | $58.04B |
 | Sector / Industry | Energy / Oil & Gas Midstream |
 | Main theme | Oil & Gas Midstream — see catalysts below |
 | Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate. |
@@ -15,10 +15,10 @@ Signed file: `MPLX.research.16.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +19.17%; price +3.88% vs SMA200. |
-| Fresh setup quality | Watch | -2.88% from 52w high and near SMA20 — check for a tight base. |
+| Technical momentum | Moderate | 1Y +19.27%; price +3.97% vs SMA200. |
+| Fresh setup quality | Watch | -2.80% from 52w high and near SMA20 — check for a tight base. |
 | Fundamental quality | Strong | Profit margin 35.03%, revenue growth 12.70%. |
-| Value attractiveness | Reasonable | Forward P/E 11.94, EV/Sales 6.77. |
+| Value attractiveness | Reasonable | Forward P/E 11.95, EV/Sales 6.77. |
 | Risk level | Moderate | Beta 0.45, ATR 1.9% of price, short float 1.88%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate.
@@ -44,22 +44,22 @@ MPLX LP owns and operates midstream energy infrastructure and logistics assets p
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $57.24; 52w high $58.94 (-2.88%); 52w low $48.28 (+18.55%) |
-| Trend | +3.88% vs SMA200, +0.71% vs SMA50, +0.41% vs SMA20 |
-| Momentum | RSI(14) 53.3 (neutral) |
+| Price vs 52-week range | Close $57.29; 52w high $58.94 (-2.80%); 52w low $48.28 (+18.65%) |
+| Trend | +3.97% vs SMA200, +0.80% vs SMA50, +0.49% vs SMA20 |
+| Momentum | RSI(14) 53.7 (neutral) |
 | Volatility | ATR(14) 1.07 (~1.9% of price); beta 0.45 |
-| Setup perspective | -2.88% from 52w high and near SMA20 — check for a tight base. |
+| Setup perspective | -2.80% from 52w high and near SMA20 — check for a tight base. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +0.8% |
-| Month | +0.6% |
-| Quarter | -1.5% |
-| Half Y | +7.4% |
-| 1Y | +19.2% |
-| YTD | +14.9% |
+| Week | +0.9% |
+| Month | +0.7% |
+| Quarter | -1.4% |
+| Half Y | +7.5% |
+| 1Y | +19.3% |
+| YTD | +15.0% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ MPLX LP owns and operates midstream energy infrastructure and logistics assets p
 | Revenue (ttm) | $12.41B | Revenue growth 12.70% y/y |
 | Profitability | Gross 54.82%, operating 38.30%, net 35.03% | ROA 6.79%, ROE 30.44% |
 | Balance sheet | Cash $1.30B, debt $27.09B | Current ratio 1.56, debt/equity 189.56 |
-| Valuation | P/E 13.37, forward P/E 11.94, P/S 4.67, P/B 4.12 | EV/Sales 6.77, EV/EBITDA 13.53 |
+| Valuation | P/E 13.39, forward P/E 11.95, P/S 4.68, P/B 4.13 | EV/Sales 6.77, EV/EBITDA 13.53 |
 | Growth expectations | Earnings growth -24.30%, EPS q/q -24.70% | Analyst mean target $62.31 (13 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -110,21 +110,21 @@ MPLX LP owns and operates midstream energy infrastructure and logistics assets p
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $57.24 | EV/Sales | 6.77 |
-| Market cap | $57.99B | EV/EBITDA | 13.53 |
+| Price | $57.29 | EV/Sales | 6.77 |
+| Market cap | $58.04B | EV/EBITDA | 13.53 |
 | Beta | 0.45 | Gross margin | 54.82% |
-| RSI(14) | 53.3 | Operating margin | 38.30% |
+| RSI(14) | 53.7 | Operating margin | 38.30% |
 | ATR(14) | 1.07 | Profit margin | 35.03% |
-| SMA20 dist | +0.41% | ROA | 6.79% |
-| SMA50 dist | +0.71% | ROE | 30.44% |
-| SMA200 dist | +3.88% | Revenue (ttm) | $12.41B |
+| SMA20 dist | +0.49% | ROA | 6.79% |
+| SMA50 dist | +0.80% | ROE | 30.44% |
+| SMA200 dist | +3.97% | Revenue (ttm) | $12.41B |
 | 52W high | $58.94 | Revenue growth y/y | 12.70% |
 | 52W low | $48.28 | Inst. ownership | 19.38% |
-| P/E (ttm) | 13.37 | Insider ownership | 64.13% |
-| Forward P/E | 11.94 | Short float | 1.88% |
+| P/E (ttm) | 13.39 | Insider ownership | 64.13% |
+| Forward P/E | 11.95 | Short float | 1.88% |
 | PEG (trailing) | 3.01 | Avg volume | 1,456,525 |
-| P/S | 4.67 | Employees | 0 |
-| P/B | 4.12 | Analyst rec (1=buy..5=sell) | 2.4 |
+| P/S | 4.68 | Employees | 0 |
+| P/B | 4.13 | Analyst rec (1=buy..5=sell) | 2.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

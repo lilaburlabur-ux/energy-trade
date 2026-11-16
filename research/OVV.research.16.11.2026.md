@@ -4,8 +4,8 @@ Signed file: `OVV.research.16.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $64.00 (2026-11-16, ~15-min delayed) |
-| Market cap | $17.20B |
+| Current price | $63.98 (2026-11-16, ~15-min delayed) |
+| Market cap | $17.19B |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
 | Current stance | High technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
@@ -15,8 +15,8 @@ Signed file: `OVV.research.16.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +68.71%; price +9.43% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -11.87% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +68.65%; price +9.39% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -11.90% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 13.13%, revenue growth 26.60%. |
 | Value attractiveness | Reasonable | Forward P/E 7.26, EV/Sales 2.23. |
 | Risk level | Elevated | Beta 0.56, ATR 3.4% of price, short float 4.65%. |
@@ -44,11 +44,11 @@ Ovintiv Inc., together with its subsidiaries, operates as an oil and natural gas
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $64.00; 52w high $72.62 (-11.87%); 52w low $36.42 (+75.74%) |
-| Trend | +9.43% vs SMA200, -0.78% vs SMA50, -4.41% vs SMA20 |
+| Price vs 52-week range | Close $63.98; 52w high $72.62 (-11.90%); 52w low $36.42 (+75.68%) |
+| Trend | +9.39% vs SMA200, -0.81% vs SMA50, -4.44% vs SMA20 |
 | Momentum | RSI(14) 46.2 (neutral) |
-| Volatility | ATR(14) 2.15 (~3.4% of price); beta 0.56 |
-| Setup perspective | -11.87% from 52w high; no clean fresh pivot by default. |
+| Volatility | ATR(14) 2.16 (~3.4% of price); beta 0.56 |
+| Setup perspective | -11.90% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
@@ -57,7 +57,7 @@ Ovintiv Inc., together with its subsidiaries, operates as an oil and natural gas
 | Week | +5.8% |
 | Month | -7.7% |
 | Quarter | -1.1% |
-| Half Y | +7.7% |
+| Half Y | +7.6% |
 | 1Y | +68.7% |
 | YTD | +60.5% |
 
@@ -110,14 +110,14 @@ Ovintiv Inc., together with its subsidiaries, operates as an oil and natural gas
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $64.00 | EV/Sales | 2.23 |
-| Market cap | $17.20B | EV/EBITDA | 4.20 |
+| Price | $63.98 | EV/Sales | 2.23 |
+| Market cap | $17.19B | EV/EBITDA | 4.20 |
 | Beta | 0.56 | Gross margin | 55.81% |
 | RSI(14) | 46.2 | Operating margin | 31.41% |
-| ATR(14) | 2.15 | Profit margin | 13.13% |
-| SMA20 dist | -4.41% | ROA | 10.13% |
-| SMA50 dist | -0.78% | ROE | 12.10% |
-| SMA200 dist | +9.43% | Revenue (ttm) | $10.06B |
+| ATR(14) | 2.16 | Profit margin | 13.13% |
+| SMA20 dist | -4.44% | ROA | 10.13% |
+| SMA50 dist | -0.81% | ROE | 12.10% |
+| SMA200 dist | +9.39% | Revenue (ttm) | $10.06B |
 | 52W high | $72.62 | Revenue growth y/y | 26.60% |
 | 52W low | $36.42 | Inst. ownership | 95.12% |
 | P/E (ttm) | 12.77 | Insider ownership | 0.64% |

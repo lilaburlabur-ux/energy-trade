@@ -4,8 +4,8 @@ Signed file: `NXT.research.16.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $90.61 (2026-11-16, ~15-min delayed) |
-| Market cap | $13.82B |
+| Current price | $89.31 (2026-11-16, ~15-min delayed) |
+| Market cap | $13.62B |
 | Sector / Industry | Technology / Solar |
 | Main theme | Solar — see catalysts below |
 | Current stance | Low technical momentum, strong fundamentals, value: reasonable, risk: high. |
@@ -15,11 +15,11 @@ Signed file: `NXT.research.16.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-14.85%) with negative half-year (-32.62%). |
-| Fresh setup quality | Poor / broken | -42.06% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-16.08%) with negative half-year (-33.59%). |
+| Fresh setup quality | Poor / broken | -42.90% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 15.98%, revenue growth 22.50%. |
-| Value attractiveness | Reasonable | Forward P/E 15.60, EV/Sales 3.48. |
-| Risk level | High | Beta 1.93, ATR 7.2% of price, short float 9.42%. |
+| Value attractiveness | Reasonable | Forward P/E 15.37, EV/Sales 3.48. |
+| Risk level | High | Beta 1.93, ATR 7.4% of price, short float 9.42%. |
 
 **Bottom line:** Low technical momentum, strong fundamentals, value: reasonable, risk: high.
 
@@ -44,22 +44,22 @@ Nextpower Inc. provides solar and energy technology solutions for utility-scale 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $90.61; 52w high $156.40 (-42.06%); 52w low $76.48 (+18.48%) |
-| Trend | -14.85% vs SMA200, +6.11% vs SMA50, +0.83% vs SMA20 |
-| Momentum | RSI(14) 49.8 (neutral) |
-| Volatility | ATR(14) 6.49 (~7.2% of price); beta 1.93 |
-| Setup perspective | -42.06% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $89.31; 52w high $156.40 (-42.90%); 52w low $76.48 (+16.78%) |
+| Trend | -16.08% vs SMA200, +4.61% vs SMA50, -0.55% vs SMA20 |
+| Momentum | RSI(14) 48.6 (neutral) |
+| Volatility | ATR(14) 6.57 (~7.4% of price); beta 1.93 |
+| Setup perspective | -42.90% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -13.6% |
-| Month | +13.2% |
-| Quarter | -0.6% |
-| Half Y | -32.6% |
-| 1Y | +2.9% |
-| YTD | -2.3% |
+| Week | -14.9% |
+| Month | +11.6% |
+| Quarter | -2.0% |
+| Half Y | -33.6% |
+| 1Y | +1.4% |
+| YTD | -3.7% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Nextpower Inc. provides solar and energy technology solutions for utility-scale 
 | Revenue (ttm) | $3.83B | Revenue growth 22.50% y/y |
 | Profitability | Gross 21.84%, operating 18.63%, net 15.98% | ROA 10.75%, ROE 26.46% |
 | Balance sheet | Cash $1.03B, debt $44.50M | Current ratio 2.23, debt/equity 1.68 |
-| Valuation | P/E 22.82, forward P/E 15.60, P/S 3.60, P/B 5.16 | EV/Sales 3.48, EV/EBITDA 17.63 |
+| Valuation | P/E 22.50, forward P/E 15.37, P/S 3.55, P/B 5.09 | EV/Sales 3.48, EV/EBITDA 17.63 |
 | Growth expectations | Earnings growth 11.30%, EPS q/q 12.70% | Analyst mean target $127.90 (29 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ Nextpower Inc. provides solar and energy technology solutions for utility-scale 
 | Invesco Ltd. | 3,186,877 | 2.12% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.93, ATR 7.2% of price, short float 9.42%. Size positions accordingly.
+- **Volatility risk:** Beta 1.93, ATR 7.4% of price, short float 9.42%. Size positions accordingly.
 - **Short interest risk:** short float 9.42% can fuel squeezes both ways around news.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
@@ -112,21 +112,21 @@ Nextpower Inc. provides solar and energy technology solutions for utility-scale 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $90.61 | EV/Sales | 3.48 |
-| Market cap | $13.82B | EV/EBITDA | 17.63 |
+| Price | $89.31 | EV/Sales | 3.48 |
+| Market cap | $13.62B | EV/EBITDA | 17.63 |
 | Beta | 1.93 | Gross margin | 21.84% |
-| RSI(14) | 49.8 | Operating margin | 18.63% |
-| ATR(14) | 6.49 | Profit margin | 15.98% |
-| SMA20 dist | +0.83% | ROA | 10.75% |
-| SMA50 dist | +6.11% | ROE | 26.46% |
-| SMA200 dist | -14.85% | Revenue (ttm) | $3.83B |
+| RSI(14) | 48.6 | Operating margin | 18.63% |
+| ATR(14) | 6.57 | Profit margin | 15.98% |
+| SMA20 dist | -0.55% | ROA | 10.75% |
+| SMA50 dist | +4.61% | ROE | 26.46% |
+| SMA200 dist | -16.08% | Revenue (ttm) | $3.83B |
 | 52W high | $156.40 | Revenue growth y/y | 22.50% |
 | 52W low | $76.48 | Inst. ownership | 107.41% |
-| P/E (ttm) | 22.82 | Insider ownership | 1.50% |
-| Forward P/E | 15.60 | Short float | 9.42% |
+| P/E (ttm) | 22.50 | Insider ownership | 1.50% |
+| Forward P/E | 15.37 | Short float | 9.42% |
 | PEG (trailing) | 3.15 | Avg volume | 2,462,457 |
-| P/S | 3.60 | Employees | 1,993 |
-| P/B | 5.16 | Analyst rec (1=buy..5=sell) | 1.5 |
+| P/S | 3.55 | Employees | 1,993 |
+| P/B | 5.09 | Analyst rec (1=buy..5=sell) | 1.5 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

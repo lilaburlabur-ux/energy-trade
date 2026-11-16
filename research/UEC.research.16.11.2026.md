@@ -4,8 +4,8 @@ Signed file: `UEC.research.16.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $6.18 (2026-11-16, ~15-min delayed) |
-| Market cap | $3.06B |
+| Current price | $6.13 (2026-11-16, ~15-min delayed) |
+| Market cap | $3.04B |
 | Sector / Industry | Energy / Uranium |
 | Main theme | Uranium — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: high. |
@@ -15,11 +15,11 @@ Signed file: `UEC.research.16.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-48.06%) with negative half-year (-53.22%). |
-| Fresh setup quality | Poor / broken | -69.34% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-48.44%) with negative half-year (-53.56%). |
+| Fresh setup quality | Poor / broken | -69.56% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 0.00%, revenue growth —. |
-| Value attractiveness | Reasonable | Forward P/E -83.45, EV/Sales 75.39. |
-| Risk level | High | Beta 1.37, ATR 9.0% of price, short float 16.79%. |
+| Value attractiveness | Reasonable | Forward P/E -82.84, EV/Sales 75.39. |
+| Risk level | High | Beta 1.37, ATR 9.1% of price, short float 16.79%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: high.
 
@@ -44,22 +44,22 @@ Uranium Energy Corp., together with its subsidiaries, engages in the exploration
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $6.18; 52w high $20.14 (-69.34%); 52w low $6.18 (+0.00%) |
-| Trend | -48.06% vs SMA200, -28.99% vs SMA50, -16.30% vs SMA20 |
-| Momentum | RSI(14) 32.7 (neutral) |
-| Volatility | ATR(14) 0.56 (~9.0% of price); beta 1.37 |
-| Setup perspective | -69.34% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $6.13; 52w high $20.14 (-69.56%); 52w low $6.13 (+0.00%) |
+| Trend | -48.44% vs SMA200, -29.50% vs SMA50, -16.89% vs SMA20 |
+| Momentum | RSI(14) 32.4 (neutral) |
+| Volatility | ATR(14) 0.56 (~9.1% of price); beta 1.37 |
+| Setup perspective | -69.56% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -19.0% |
-| Month | -21.9% |
-| Quarter | -43.7% |
-| Half Y | -53.2% |
-| 1Y | -46.7% |
-| YTD | -52.9% |
+| Week | -19.6% |
+| Month | -22.5% |
+| Quarter | -44.1% |
+| Half Y | -53.6% |
+| 1Y | -47.1% |
+| YTD | -53.2% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Uranium Energy Corp., together with its subsidiaries, engages in the exploration
 | Revenue (ttm) | $37.25M | Revenue growth — y/y |
 | Profitability | Gross -183.96%, operating -357.44%, net 0.00% | ROA -6.35%, ROE -11.64% |
 | Balance sheet | Cash $495.46M, debt $2.95M | Current ratio 17.26, debt/equity 0.21 |
-| Valuation | P/E —, forward P/E -83.45, P/S 82.15, P/B 2.23 | EV/Sales 75.39, EV/EBITDA -22.25 |
+| Valuation | P/E —, forward P/E -82.84, P/S 81.56, P/B 2.21 | EV/Sales 75.39, EV/EBITDA -22.25 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $15.85 (11 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ Uranium Energy Corp., together with its subsidiaries, engages in the exploration
 | Alps Advisors Inc. | 11,242,054 | 2.27% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.37, ATR 9.0% of price, short float 16.79%. Size positions accordingly.
+- **Volatility risk:** Beta 1.37, ATR 9.1% of price, short float 16.79%. Size positions accordingly.
 - **Short interest risk:** short float 16.79% can fuel squeezes both ways around news.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
@@ -112,21 +112,21 @@ Uranium Energy Corp., together with its subsidiaries, engages in the exploration
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $6.18 | EV/Sales | 75.39 |
-| Market cap | $3.06B | EV/EBITDA | -22.25 |
+| Price | $6.13 | EV/Sales | 75.39 |
+| Market cap | $3.04B | EV/EBITDA | -22.25 |
 | Beta | 1.37 | Gross margin | -183.96% |
-| RSI(14) | 32.7 | Operating margin | -357.44% |
+| RSI(14) | 32.4 | Operating margin | -357.44% |
 | ATR(14) | 0.56 | Profit margin | 0.00% |
-| SMA20 dist | -16.30% | ROA | -6.35% |
-| SMA50 dist | -28.99% | ROE | -11.64% |
-| SMA200 dist | -48.06% | Revenue (ttm) | $37.25M |
+| SMA20 dist | -16.89% | ROA | -6.35% |
+| SMA50 dist | -29.50% | ROE | -11.64% |
+| SMA200 dist | -48.44% | Revenue (ttm) | $37.25M |
 | 52W high | $20.14 | Revenue growth y/y | — |
-| 52W low | $6.18 | Inst. ownership | 88.79% |
+| 52W low | $6.13 | Inst. ownership | 88.79% |
 | P/E (ttm) | — | Insider ownership | 2.31% |
-| Forward P/E | -83.45 | Short float | 16.79% |
+| Forward P/E | -82.84 | Short float | 16.79% |
 | PEG (trailing) | — | Avg volume | 9,737,617 |
-| P/S | 82.15 | Employees | 257 |
-| P/B | 2.23 | Analyst rec (1=buy..5=sell) | 1.7 |
+| P/S | 81.56 | Employees | 257 |
+| P/B | 2.21 | Analyst rec (1=buy..5=sell) | 1.7 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

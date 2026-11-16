@@ -4,8 +4,8 @@ Signed file: `COP.research.16.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $140.11 (2026-11-16, ~15-min delayed) |
-| Market cap | $165.66B |
+| Current price | $140.52 (2026-11-16, ~15-min delayed) |
+| Market cap | $166.14B |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
 | Current stance | High technical momentum, strong fundamentals, value: reasonable, risk: moderate. |
@@ -15,10 +15,10 @@ Signed file: `COP.research.16.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +61.63%; price +14.25% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -9.04% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +62.10%; price +14.58% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -8.77% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 16.76%, revenue growth 29.30%. |
-| Value attractiveness | Reasonable | Forward P/E 12.19, EV/Sales 2.63. |
+| Value attractiveness | Reasonable | Forward P/E 12.21, EV/Sales 2.63. |
 | Risk level | Moderate | Beta 0.16, ATR 2.8% of price, short float 1.35%. |
 
 **Bottom line:** High technical momentum, strong fundamentals, value: reasonable, risk: moderate.
@@ -36,30 +36,30 @@ ConocoPhillips explores for, produces, transports, and markets crude oil, bitume
 
 | Headline | Source | Date |
 |---|---|---|
+| Could Occidental Petroleum Be The Value Stock For Your Portfolio? | Trefis | 2026-11-16 |
 | Sezzle and Kimball Electronics have been highlighted as Zacks Bull and Bear of the Day | Zacks | 2026-11-16 |
 | What Bernstein Sees Looming Over ConocoPhillips (COP) | Insider Monkey | 2026-11-16 |
 | Top 3 Energy Stocks To Watch In November 2026 | Simply Wall St. | 2026-11-14 |
-| Why You Need To Pay Attention To Occidental Petroleum Stock? | Trefis | 2026-11-13 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $140.11; 52w high $154.03 (-9.04%); 52w low $84.75 (+65.32%) |
-| Trend | +14.25% vs SMA200, +1.97% vs SMA50, -2.39% vs SMA20 |
-| Momentum | RSI(14) 49.9 (neutral) |
+| Price vs 52-week range | Close $140.52; 52w high $154.03 (-8.77%); 52w low $84.75 (+65.80%) |
+| Trend | +14.58% vs SMA200, +2.26% vs SMA50, -2.12% vs SMA20 |
+| Momentum | RSI(14) 50.5 (neutral) |
 | Volatility | ATR(14) 3.93 (~2.8% of price); beta 0.16 |
-| Setup perspective | -9.04% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -8.77% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +4.2% |
-| Month | -4.4% |
-| Quarter | +8.0% |
-| Half Y | +13.3% |
-| 1Y | +61.6% |
-| YTD | +48.1% |
+| Week | +4.5% |
+| Month | -4.1% |
+| Quarter | +8.3% |
+| Half Y | +13.6% |
+| 1Y | +62.1% |
+| YTD | +48.5% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ ConocoPhillips explores for, produces, transports, and markets crude oil, bitume
 | Revenue (ttm) | $68.97B | Revenue growth 29.30% y/y |
 | Profitability | Gross 49.01%, operating 25.88%, net 16.76% | ROA 8.98%, ROE 17.66% |
 | Balance sheet | Cash $9.93B, debt $23.26B | Current ratio 1.52, debt/equity 35.25 |
-| Valuation | P/E 14.76, forward P/E 12.19, P/S 2.40, P/B 2.51 | EV/Sales 2.63, EV/EBITDA 6.09 |
+| Valuation | P/E 14.81, forward P/E 12.21, P/S 2.41, P/B 2.52 | EV/Sales 2.63, EV/EBITDA 6.09 |
 | Growth expectations | Earnings growth 141.90%, EPS q/q 131.80% | Analyst mean target $152.96 (27 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -109,21 +109,21 @@ ConocoPhillips explores for, produces, transports, and markets crude oil, bitume
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $140.11 | EV/Sales | 2.63 |
-| Market cap | $165.66B | EV/EBITDA | 6.09 |
+| Price | $140.52 | EV/Sales | 2.63 |
+| Market cap | $166.14B | EV/EBITDA | 6.09 |
 | Beta | 0.16 | Gross margin | 49.01% |
-| RSI(14) | 49.9 | Operating margin | 25.88% |
+| RSI(14) | 50.5 | Operating margin | 25.88% |
 | ATR(14) | 3.93 | Profit margin | 16.76% |
-| SMA20 dist | -2.39% | ROA | 8.98% |
-| SMA50 dist | +1.97% | ROE | 17.66% |
-| SMA200 dist | +14.25% | Revenue (ttm) | $68.97B |
+| SMA20 dist | -2.12% | ROA | 8.98% |
+| SMA50 dist | +2.26% | ROE | 17.66% |
+| SMA200 dist | +14.58% | Revenue (ttm) | $68.97B |
 | 52W high | $154.03 | Revenue growth y/y | 29.30% |
 | 52W low | $84.75 | Inst. ownership | 88.67% |
-| P/E (ttm) | 14.76 | Insider ownership | 0.38% |
-| Forward P/E | 12.19 | Short float | 1.35% |
+| P/E (ttm) | 14.81 | Insider ownership | 0.38% |
+| Forward P/E | 12.21 | Short float | 1.35% |
 | PEG (trailing) | 0.92 | Avg volume | 6,714,231 |
-| P/S | 2.40 | Employees | 9,600 |
-| P/B | 2.51 | Analyst rec (1=buy..5=sell) | 2.1 |
+| P/S | 2.41 | Employees | 9,600 |
+| P/B | 2.52 | Analyst rec (1=buy..5=sell) | 2.1 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

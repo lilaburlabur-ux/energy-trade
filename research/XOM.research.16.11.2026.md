@@ -4,8 +4,8 @@ Signed file: `XOM.research.16.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $166.67 (2026-11-16, ~15-min delayed) |
-| Market cap | $679.88B |
+| Current price | $166.87 (2026-11-16, ~15-min delayed) |
+| Market cap | $680.70B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,10 +15,10 @@ Signed file: `XOM.research.16.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +44.37%; price +7.24% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -10.99% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +44.55%; price +7.36% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -10.88% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 10.46%, revenue growth 32.60%. |
-| Value attractiveness | Reasonable | Forward P/E 13.18, EV/Sales 1.87. |
+| Value attractiveness | Reasonable | Forward P/E 13.20, EV/Sales 1.87. |
 | Risk level | Moderate | Beta 0.14, ATR 2.6% of price, short float 1.25%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -37,29 +37,29 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 | Headline | Source | Date |
 |---|---|---|
 | Nvidia board needs 'some heavyweights,' ex-Medtronic CEO Bill George says | Yahoo Finance | 2026-11-16 |
+| Sector Update: Energy Stocks Retreat Late Afternoon | MT Newswires | 2026-11-16 |
+| Could Occidental Petroleum Be The Value Stock For Your Portfolio? | Trefis | 2026-11-16 |
 | Sector Update: Energy Stocks Decline Monday Afternoon | MT Newswires | 2026-11-16 |
-| Can ExxonMobil's Longtail Project Unlock Guyana's Growth Potential? | Zacks | 2026-11-16 |
-| Petrobras Stock After Q3 Earnings - Buy, Sell or Hold for Now? | Zacks | 2026-11-16 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $166.67; 52w high $187.25 (-10.99%); 52w low $112.26 (+48.47%) |
-| Trend | +7.24% vs SMA200, -1.68% vs SMA50, -4.62% vs SMA20 |
-| Momentum | RSI(14) 42.9 (neutral) |
+| Price vs 52-week range | Close $166.87; 52w high $187.25 (-10.88%); 52w low $112.26 (+48.65%) |
+| Trend | +7.36% vs SMA200, -1.57% vs SMA50, -4.51% vs SMA20 |
+| Momentum | RSI(14) 43.1 (neutral) |
 | Volatility | ATR(14) 4.30 (~2.6% of price); beta 0.14 |
-| Setup perspective | -10.99% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -10.88% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +1.2% |
-| Month | -6.9% |
-| Quarter | +0.7% |
-| Half Y | +4.5% |
-| 1Y | +44.4% |
-| YTD | +38.6% |
+| Week | +1.3% |
+| Month | -6.8% |
+| Quarter | +0.8% |
+| Half Y | +4.6% |
+| 1Y | +44.5% |
+| YTD | +38.8% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 | Revenue (ttm) | $388.23B | Revenue growth 32.60% y/y |
 | Profitability | Gross 29.81%, operating 12.88%, net 10.46% | ROA 6.75%, ROE 15.53% |
 | Balance sheet | Cash $12.15B, debt $34.25B | Current ratio 1.19, debt/equity 12.57 |
-| Valuation | P/E 17.15, forward P/E 13.18, P/S 1.75, P/B 2.56 | EV/Sales 1.87, EV/EBITDA 9.29 |
+| Valuation | P/E 17.17, forward P/E 13.20, P/S 1.75, P/B 2.56 | EV/Sales 1.87, EV/EBITDA 9.29 |
 | Growth expectations | Earnings growth 111.40%, EPS q/q 104.20% | Analyst mean target $184.18 (22 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -109,18 +109,18 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $166.67 | EV/Sales | 1.87 |
-| Market cap | $679.88B | EV/EBITDA | 9.29 |
+| Price | $166.87 | EV/Sales | 1.87 |
+| Market cap | $680.70B | EV/EBITDA | 9.29 |
 | Beta | 0.14 | Gross margin | 29.81% |
-| RSI(14) | 42.9 | Operating margin | 12.88% |
+| RSI(14) | 43.1 | Operating margin | 12.88% |
 | ATR(14) | 4.30 | Profit margin | 10.46% |
-| SMA20 dist | -4.62% | ROA | 6.75% |
-| SMA50 dist | -1.68% | ROE | 15.53% |
-| SMA200 dist | +7.24% | Revenue (ttm) | $388.23B |
+| SMA20 dist | -4.51% | ROA | 6.75% |
+| SMA50 dist | -1.57% | ROE | 15.53% |
+| SMA200 dist | +7.36% | Revenue (ttm) | $388.23B |
 | 52W high | $187.25 | Revenue growth y/y | 32.60% |
 | 52W low | $112.26 | Inst. ownership | 67.36% |
-| P/E (ttm) | 17.15 | Insider ownership | 0.21% |
-| Forward P/E | 13.18 | Short float | 1.25% |
+| P/E (ttm) | 17.17 | Insider ownership | 0.21% |
+| Forward P/E | 13.20 | Short float | 1.25% |
 | PEG (trailing) | 1.34 | Avg volume | 13,657,870 |
 | P/S | 1.75 | Employees | 57,900 |
 | P/B | 2.56 | Analyst rec (1=buy..5=sell) | 2.4 |

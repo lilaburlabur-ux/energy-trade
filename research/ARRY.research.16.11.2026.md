@@ -4,8 +4,8 @@ Signed file: `ARRY.research.16.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $4.68 (2026-11-16, ~15-min delayed) |
-| Market cap | $721.21M |
+| Current price | $4.67 (2026-11-16, ~15-min delayed) |
+| Market cap | $720.44M |
 | Sector / Industry | Technology / Solar |
 | Main theme | Solar — see catalysts below |
 | Current stance | Low technical momentum, weak fundamentals, value: reasonable, risk: high. |
@@ -15,11 +15,11 @@ Signed file: `ARRY.research.16.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-28.97%) with negative half-year (-44.67%). |
-| Fresh setup quality | Poor / broken | -60.91% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-29.05%) with negative half-year (-44.73%). |
+| Fresh setup quality | Poor / broken | -60.95% from 52w high — base needs to rebuild. |
 | Fundamental quality | Weak | Negative profit margin (-9.91%). |
 | Value attractiveness | Reasonable | Forward P/E 5.44, EV/Sales 1.67. |
-| Risk level | High | Beta 1.78, ATR 9.0% of price, short float 32.85%. |
+| Risk level | High | Beta 1.78, ATR 9.1% of price, short float 32.85%. |
 
 **Bottom line:** Low technical momentum, weak fundamentals, value: reasonable, risk: high.
 
@@ -44,22 +44,22 @@ Array Technologies, Inc. engages in the manufacture and sale of solar tracking t
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $4.68; 52w high $11.96 (-60.91%); 52w low $3.15 (+48.41%) |
-| Trend | -28.97% vs SMA200, +14.60% vs SMA50, +10.47% vs SMA20 |
-| Momentum | RSI(14) 54.2 (neutral) |
-| Volatility | ATR(14) 0.42 (~9.0% of price); beta 1.78 |
-| Setup perspective | -60.91% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $4.67; 52w high $11.96 (-60.95%); 52w low $3.15 (+48.25%) |
+| Trend | -29.05% vs SMA200, +14.48% vs SMA50, +10.36% vs SMA20 |
+| Momentum | RSI(14) 54.1 (neutral) |
+| Volatility | ATR(14) 0.42 (~9.1% of price); beta 1.78 |
+| Setup perspective | -60.95% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -9.9% |
-| Month | +36.3% |
-| Quarter | -2.6% |
+| Week | -10.0% |
+| Month | +36.2% |
+| Quarter | -2.7% |
 | Half Y | -44.7% |
-| 1Y | -38.5% |
-| YTD | -51.7% |
+| 1Y | -38.6% |
+| YTD | -51.8% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -95,7 +95,7 @@ Array Technologies, Inc. engages in the manufacture and sale of solar tracking t
 | Invesco Ltd. | 6,107,900 | 3.96% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.78, ATR 9.0% of price, short float 32.85%. Size positions accordingly.
+- **Volatility risk:** Beta 1.78, ATR 9.1% of price, short float 32.85%. Size positions accordingly.
 - **Short interest risk:** short float 32.85% can fuel squeezes both ways around news.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
@@ -113,14 +113,14 @@ Array Technologies, Inc. engages in the manufacture and sale of solar tracking t
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $4.68 | EV/Sales | 1.67 |
-| Market cap | $721.21M | EV/EBITDA | 22.32 |
+| Price | $4.67 | EV/Sales | 1.67 |
+| Market cap | $720.44M | EV/EBITDA | 22.32 |
 | Beta | 1.78 | Gross margin | 25.02% |
-| RSI(14) | 54.2 | Operating margin | 4.00% |
+| RSI(14) | 54.1 | Operating margin | 4.00% |
 | ATR(14) | 0.42 | Profit margin | -9.91% |
-| SMA20 dist | +10.47% | ROA | 1.76% |
-| SMA50 dist | +14.60% | ROE | -31.49% |
-| SMA200 dist | -28.97% | Revenue (ttm) | $1.12B |
+| SMA20 dist | +10.36% | ROA | 1.76% |
+| SMA50 dist | +14.48% | ROE | -31.49% |
+| SMA200 dist | -29.05% | Revenue (ttm) | $1.12B |
 | 52W high | $11.96 | Revenue growth y/y | -16.10% |
 | 52W low | $3.15 | Inst. ownership | 133.68% |
 | P/E (ttm) | — | Insider ownership | 3.22% |
