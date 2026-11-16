@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-16T08:35:43+00:00",
-  "as_of_local": "2026-11-16 08:35:43 UTC",
+  "as_of_utc": "2026-11-16T08:40:43+00:00",
+  "as_of_local": "2026-11-16 08:40:43 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NRG"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -53,10 +55,10 @@
           "published": "2026-11-14T10:11:40Z"
         },
         {
-          "title": "LNG Prices Soar. These Exporters Could Benefit as Europe Faces a Tough Winter.",
-          "url": "https://www.barrons.com/articles/lng-prices-europe-venture-global-woodside-stocks-9946520c?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-11-13T20:18:00Z"
+          "title": "J.M. Smucker or Chevron: I Can Only Pick One Dividend Stock for the Next 20 Years. Here\u2019s Mine",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/j-m-smucker-chevron-only-031947268.html",
+          "publisher": "TIKR",
+          "published": "2026-11-14T03:19:47Z"
         }
       ]
     },
@@ -1209,34 +1211,6 @@
       ]
     },
     {
-      "symbol": "NRG",
-      "name": "NRG Energy",
-      "price": 97.1,
-      "previous_close": 98.05,
-      "change_pct": -0.97,
-      "market_cap": 20393065967.53296,
-      "headlines": [
-        {
-          "title": "Do You Like Cash? Consider Vistra Stock",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/cash-consider-vistra-stock-211551348.html",
-          "publisher": "Trefis",
-          "published": "2026-11-12T21:15:51Z"
-        },
-        {
-          "title": "What Is The Biggest Threat To Vistra Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/biggest-threat-vistra-stock-005944429.html",
-          "publisher": "Trefis",
-          "published": "2026-11-12T00:59:44Z"
-        },
-        {
-          "title": "A $4 Billion Jolt: NRG Energy Powers Data Center Ambitions",
-          "url": "https://finance.yahoo.com/energy/articles/4-billion-jolt-nrg-energy-202000737.html",
-          "publisher": "MarketBeat",
-          "published": "2026-11-10T20:20:00Z"
-        }
-      ]
-    },
-    {
       "symbol": "PR",
       "name": "Permian Resources",
       "price": 23.05,
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 89.15,
-      "change_pct": 0.67
+      "price": 89.26,
+      "change_pct": 0.79
     },
     {
       "label": "Brent",
-      "price": 96.38,
-      "change_pct": 0.56
+      "price": 96.37,
+      "change_pct": 0.55
     },
     {
       "label": "NatGas",
       "price": 3.12,
-      "change_pct": -3.53
+      "change_pct": -3.5
     }
   ]
 }
