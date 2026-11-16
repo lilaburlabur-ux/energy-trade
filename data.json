@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-16T13:20:13+00:00",
-  "as_of_local": "2026-11-16 13:20:13 UTC",
+  "as_of_utc": "2026-11-16T13:25:59+00:00",
+  "as_of_local": "2026-11-16 13:25:59 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "KMI"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -125,6 +127,12 @@
       "market_cap": 199000977922.49442,
       "headlines": [
         {
+          "title": "TotalEnergies (ENXTPA:TTE) Stock May Be Undervalued As LNG Expansion Builds",
+          "url": "https://finance.yahoo.com/energy/articles/totalenergies-enxtpa-tte-stock-may-131115855.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-16T13:11:15Z"
+        },
+        {
           "title": "5 High-Yield Oil Stocks Paying Retirees Over 4%",
           "url": "https://finance.yahoo.com/markets/stocks/articles/5-high-yield-oil-stocks-120052002.html",
           "publisher": "24/7 Wall St.",
@@ -135,12 +143,6 @@
           "url": "https://www.barrons.com/articles/repsol-oil-stock-beating-exxon-and-chevron-wall-street-sees-more-upside-597252ad?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
           "published": "2026-11-16T10:55:00Z"
-        },
-        {
-          "title": "TotalEnergies or Energy Transfer: Only One Gets My Dividend Dollars for the Next 10 Years",
-          "url": "https://finance.yahoo.com/energy/articles/totalenergies-energy-transfer-only-one-174130464.html",
-          "publisher": "TIKR",
-          "published": "2026-11-13T17:41:30Z"
         }
       ]
     },
@@ -305,10 +307,10 @@
           "published": "2026-11-14T15:00:50Z"
         },
         {
-          "title": "How Much You Need in Southern, Dominion and AEP to Collect $1,000 a Month",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/much-southern-dominion-aep-collect-171724956.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-13T17:17:24Z"
+          "title": "What Does Dominion Energy Offer That NiSource Does Not?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/does-dominion-energy-offer-nisource-215100482.html",
+          "publisher": "Trefis",
+          "published": "2026-11-13T21:51:00Z"
         }
       ]
     },
@@ -405,6 +407,12 @@
       "market_cap": 100707126495.89706,
       "headlines": [
         {
+          "title": "What Does Dominion Energy Offer That NiSource Does Not?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/does-dominion-energy-offer-nisource-215100482.html",
+          "publisher": "Trefis",
+          "published": "2026-11-13T21:51:00Z"
+        },
+        {
           "title": "Do You Like Cash? Consider Vistra Stock",
           "url": "https://finance.yahoo.com/markets/stocks/articles/cash-consider-vistra-stock-211551348.html",
           "publisher": "Trefis",
@@ -415,12 +423,6 @@
           "url": "https://finance.yahoo.com/energy/articles/nextera-energy-stock-real-bargain-210851417.html",
           "publisher": "Trefis",
           "published": "2026-11-12T21:08:51Z"
-        },
-        {
-          "title": "Could Sempra Be The Value Stock For Your Portfolio?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/could-sempra-value-stock-portfolio-210032285.html",
-          "publisher": "Trefis",
-          "published": "2026-11-12T21:00:32Z"
         }
       ]
     },
@@ -649,34 +651,6 @@
       ]
     },
     {
-      "symbol": "KMI",
-      "name": "Kinder Morgan",
-      "price": 31.92,
-      "previous_close": 32.01,
-      "change_pct": -0.28,
-      "market_cap": 71108670279.64119,
-      "headlines": [
-        {
-          "title": "How These 6 Natural Gas Stocks Make Money",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/6-natural-gas-stocks-money-153300478.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-15T15:33:00Z"
-        },
-        {
-          "title": "How Retirees Can Turn $175,000 Into Passive Income With These 4 Dividend Stocks",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/retirees-turn-175-000-passive-123052455.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-15T12:30:52Z"
-        },
-        {
-          "title": "MarketBeat Week in Review \u2013 11/9 - 11/13",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/marketbeat-week-review-11-9-120000936.html",
-          "publisher": "MarketBeat",
-          "published": "2026-11-14T12:00:00Z"
-        }
-      ]
-    },
-    {
       "symbol": "ET",
       "name": "Energy Transfer",
       "price": 19.4,
@@ -684,6 +658,12 @@
       "change_pct": -0.1,
       "market_cap": 66818491133.32206,
       "headlines": [
+        {
+          "title": "Energy Transfer vs. Enbridge: Which High-Yield Pipeline Stock Could Make You Richer Over the Next 10 Years?",
+          "url": "https://finance.yahoo.com/energy/articles/energy-transfer-vs-enbridge-high-132001474.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-16T13:20:01Z"
+        },
         {
           "title": "Better High-Yield Dividend Stock: Plains All American vs. Energy Transfer",
           "url": "https://finance.yahoo.com/markets/stocks/articles/better-high-yield-dividend-stock-032755166.html",
@@ -695,12 +675,6 @@
           "url": "https://finance.yahoo.com/energy/articles/totalenergies-energy-transfer-only-one-174130464.html",
           "publisher": "TIKR",
           "published": "2026-11-13T17:41:30Z"
-        },
-        {
-          "title": "6 Energy Dividend Stocks Yielding Up to 7.97% That Income Investors Should Know",
-          "url": "https://finance.yahoo.com/energy/articles/6-energy-dividend-stocks-yielding-160824989.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-13T16:08:24Z"
         }
       ]
     },
@@ -775,16 +749,16 @@
           "published": "2026-11-14T15:00:50Z"
         },
         {
+          "title": "What Does Dominion Energy Offer That NiSource Does Not?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/does-dominion-energy-offer-nisource-215100482.html",
+          "publisher": "Trefis",
+          "published": "2026-11-13T21:51:00Z"
+        },
+        {
           "title": "How Much You Need in Southern, Dominion and AEP to Collect $1,000 a Month",
           "url": "https://finance.yahoo.com/markets/stocks/articles/much-southern-dominion-aep-collect-171724956.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-13T17:17:24Z"
-        },
-        {
-          "title": "Is NextEra Energy Stock A Real Bargain?",
-          "url": "https://finance.yahoo.com/energy/articles/nextera-energy-stock-real-bargain-210851417.html",
-          "publisher": "Trefis",
-          "published": "2026-11-12T21:08:51Z"
         }
       ]
     },
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 87.76,
-      "change_pct": -0.9
+      "price": 88.0,
+      "change_pct": -0.63
     },
     {
       "label": "Brent",
-      "price": 94.6,
-      "change_pct": -1.29
+      "price": 94.82,
+      "change_pct": -1.06
     },
     {
       "label": "NatGas",
-      "price": 3.17,
-      "change_pct": -1.76
+      "price": 3.18,
+      "change_pct": -1.58
     }
   ]
 }
