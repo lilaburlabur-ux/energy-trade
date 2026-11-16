@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-16T06:38:30+00:00",
-  "as_of_local": "2026-11-16 06:38:30 UTC",
+  "as_of_utc": "2026-11-16T06:53:34+00:00",
+  "as_of_local": "2026-11-16 06:53:34 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "DVN"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -927,6 +925,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-entergy-etr-110242034.html",
           "publisher": "GuruFocus.com",
           "published": "2026-11-13T11:02:42Z"
+        }
+      ]
+    },
+    {
+      "symbol": "DVN",
+      "name": "Devon Energy",
+      "price": 46.58,
+      "previous_close": 46.23,
+      "change_pct": 0.76,
+      "market_cap": 53087894646.67923,
+      "headlines": [
+        {
+          "title": "Sell Alert: 5 Stocks Analysts Downgraded on Thursday",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/sell-alert-5-stocks-analysts-030437408.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-11-16T03:04:37Z"
+        },
+        {
+          "title": "What Do Rate Hikes Imply for Devon Energy (DVN)?",
+          "url": "https://finance.yahoo.com/economy/policy/articles/rate-hikes-imply-devon-energy-170945305.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-11-14T17:09:45Z"
+        },
+        {
+          "title": "Nvidia downgraded, AMD upgraded: Wall Street's top analyst calls",
+          "url": "https://finance.yahoo.com/news/amd-under-armour-downgraded-wall-133533194.html",
+          "publisher": "The Fly",
+          "published": "2026-11-12T14:44:01Z"
         }
       ]
     },
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 89.23,
-      "change_pct": 0.76
+      "price": 89.32,
+      "change_pct": 0.86
     },
     {
       "label": "Brent",
-      "price": 96.4,
-      "change_pct": 0.58
+      "price": 96.63,
+      "change_pct": 0.82
     },
     {
       "label": "NatGas",
-      "price": 3.14,
-      "change_pct": -2.72
+      "price": 3.13,
+      "change_pct": -2.94
     }
   ]
 }
