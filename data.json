@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-16T00:30:41+00:00",
-  "as_of_local": "2026-11-16 00:30:41 UTC",
+  "as_of_utc": "2026-11-16T00:35:48+00:00",
+  "as_of_local": "2026-11-16 00:35:48 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "ARRY"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1827,6 +1825,34 @@
       ]
     },
     {
+      "symbol": "ARRY",
+      "name": "Array Technologies",
+      "price": 4.84,
+      "previous_close": 4.8,
+      "change_pct": 0.83,
+      "market_cap": 746663754.9796371,
+      "headlines": [
+        {
+          "title": "Array Technologies' Merger With Shoals Expected to Boost Cash Flow, RBC Capital Markets Says",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/array-technologies-apos-merger-shoals-165918395.html",
+          "publisher": "MT Newswires",
+          "published": "2026-11-09T16:59:18Z"
+        },
+        {
+          "title": "Array and Shoals Are Merging: Who Really Wins the All-Stock Solar Deal?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/array-shoals-merging-really-wins-171500136.html",
+          "publisher": "MarketBeat",
+          "published": "2026-11-06T17:15:00Z"
+        },
+        {
+          "title": "Array Technologies (ARRY) Q3 2026 Earnings Call Transcript",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/array-technologies-arry-q3-2026-080325432.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-06T08:03:25Z"
+        }
+      ]
+    },
+    {
       "symbol": "EOSE",
       "name": "Eos Energy",
       "price": 1.91,
@@ -2089,18 +2115,13 @@
     },
     {
       "label": "WTI",
-      "price": 88.63,
-      "change_pct": 0.08
+      "price": 88.65,
+      "change_pct": 0.1
     },
     {
       "label": "Brent",
       "price": 95.69,
       "change_pct": -0.16
-    },
-    {
-      "label": "NatGas",
-      "price": 3.16,
-      "change_pct": -2.07
     }
   ]
 }
