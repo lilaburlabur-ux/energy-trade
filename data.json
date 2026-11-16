@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-16T04:42:30+00:00",
-  "as_of_local": "2026-11-16 04:42:30 UTC",
+  "as_of_utc": "2026-11-16T04:57:33+00:00",
+  "as_of_local": "2026-11-16 04:57:33 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "UEC"
+    "COP"
   ],
   "stocks": [
     {
@@ -171,34 +171,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/hsbc-says-buy-dip-11-185515397.html",
           "publisher": "GuruFocus.com",
           "published": "2026-11-13T18:55:15Z"
-        }
-      ]
-    },
-    {
-      "symbol": "COP",
-      "name": "ConocoPhillips",
-      "price": 142.28,
-      "previous_close": 140.06,
-      "change_pct": 1.59,
-      "market_cap": 168222630466.6799,
-      "headlines": [
-        {
-          "title": "What Bernstein Sees Looming Over ConocoPhillips (COP)",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bernstein-sees-looming-over-conocophillips-030556041.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-11-16T03:05:56Z"
-        },
-        {
-          "title": "Top 3 Energy Stocks To Watch In November 2026",
-          "url": "https://finance.yahoo.com/energy/articles/top-3-energy-stocks-watch-101140336.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-14T10:11:40Z"
-        },
-        {
-          "title": "Why You Need To Pay Attention To Occidental Petroleum Stock?",
-          "url": "https://finance.yahoo.com/energy/articles/why-pay-attention-occidental-petroleum-194848133.html",
-          "publisher": "Trefis",
-          "published": "2026-11-13T19:48:48Z"
         }
       ]
     },
@@ -1659,6 +1631,34 @@
       ]
     },
     {
+      "symbol": "UEC",
+      "name": "Uranium Energy Corp",
+      "price": 6.66,
+      "previous_close": 6.8,
+      "change_pct": -2.06,
+      "market_cap": 3300593793.2797813,
+      "headlines": [
+        {
+          "title": "The Best Uranium Stocks to Buy and Hold as Nuclear Power Expands",
+          "url": "https://finance.yahoo.com/energy/articles/best-uranium-stocks-buy-hold-100000182.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-12T10:00:00Z"
+        },
+        {
+          "title": "Purepoint Uranium CEO explains why rising uranium prices aren't lifting stocks",
+          "url": "https://finance.yahoo.com/news/purepoint-uranium-ceo-explains-why-151300252.html",
+          "publisher": "Proactive",
+          "published": "2026-11-06T15:13:00Z"
+        },
+        {
+          "title": "Is Uranium Energy (UEC) Priced Too Richly On Book Value?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/uranium-energy-uec-priced-too-002024703.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-06T00:20:24Z"
+        }
+      ]
+    },
+    {
       "symbol": "LEU",
       "name": "Centrus Energy",
       "price": 103.78,
@@ -1913,8 +1913,8 @@
           "name": "ConocoPhillips",
           "short": "ConocoPhillips",
           "weight_pct": 7.27,
-          "change_pct": 1.59,
-          "price": 142.28,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -2012,8 +2012,8 @@
         "name": "ConocoPhillips",
         "short": "ConocoPhillips",
         "weight_pct": 7.27,
-        "change_pct": 1.59,
-        "price": 142.28,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -2089,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 88.29,
-      "change_pct": -0.3
+      "price": 88.32,
+      "change_pct": -0.27
     },
     {
       "label": "Brent",
-      "price": 95.29,
-      "change_pct": -0.57
+      "price": 95.27,
+      "change_pct": -0.59
     },
     {
       "label": "NatGas",
       "price": 3.16,
-      "change_pct": -2.11
+      "change_pct": -2.2
     }
   ]
 }
