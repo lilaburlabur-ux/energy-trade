@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-16T22:25:27+00:00",
-  "as_of_local": "2026-11-16 22:25:27 UTC",
+  "as_of_utc": "2026-11-16T22:30:29+00:00",
+  "as_of_local": "2026-11-16 22:30:29 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "CCJ"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -461,6 +463,12 @@
       "market_cap": 88281742934.14124,
       "headlines": [
         {
+          "title": "Kevin O\u2019Leary Calls AI \u2018the Number One Use of Capital in Our Economy.\u2019 Voters Disagree. Here\u2019s Why PWR Stock Doesn\u2019t Need to Pick a Side.",
+          "url": "https://finance.yahoo.com/technology/ai/articles/kevin-o-leary-calls-ai-162235279.html",
+          "publisher": "Barchart",
+          "published": "2026-11-16T16:22:35Z"
+        },
+        {
           "title": "EMCOR's P1 Acquisition: Is This a New Growth Driver for 2027?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/emcors-p1-acquisition-growth-driver-160300728.html",
           "publisher": "Zacks",
@@ -471,12 +479,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/sterling-sees-nearly-8b-scope-145300516.html",
           "publisher": "Zacks",
           "published": "2026-11-16T14:53:00Z"
-        },
-        {
-          "title": "Can Quanta's Record Cash Flow Strengthen Its Financial Flexibility?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/quantas-record-cash-flow-strengthen-130700653.html",
-          "publisher": "Zacks",
-          "published": "2026-11-16T13:07:00Z"
         }
       ]
     },
@@ -1093,34 +1095,6 @@
           "url": "https://finance.yahoo.com/energy/articles/natural-gas-prices-gain-3-131200133.html",
           "publisher": "Zacks",
           "published": "2026-11-09T13:12:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "CCJ",
-      "name": "Cameco",
-      "price": 65.99,
-      "previous_close": 70.73,
-      "change_pct": -6.7,
-      "market_cap": 28740820353.81118,
-      "headlines": [
-        {
-          "title": "Nuclear Energy Stocks Gain as Reliable Power Demand Grows in US",
-          "url": "https://finance.yahoo.com/energy/articles/nuclear-energy-stocks-gain-reliable-145900354.html",
-          "publisher": "Zacks",
-          "published": "2026-11-16T14:59:00Z"
-        },
-        {
-          "title": "3 Canadian Growth Stocks With Earnings Growth Up To 72%",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-canadian-growth-stocks-earnings-190835440.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-15T19:08:35Z"
-        },
-        {
-          "title": "Cameco's CEO Says AI Isn't the Reason to Own Nuclear. Here's What He Says It Is.",
-          "url": "https://finance.yahoo.com/energy/articles/camecos-ceo-says-ai-isnt-135700172.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-15T13:57:00Z"
         }
       ]
     },
