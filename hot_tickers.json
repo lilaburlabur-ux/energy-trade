@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-16T23:15:26+00:00",
+  "as_of": "2026-11-16T23:30:33+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,16 +11,16 @@
    "rank": 1,
    "ticker": "BE",
    "company": "Bloom Energy Corporation",
-   "move_pct": -7.55,
-   "price": 177.5,
+   "move_pct": -8.07,
+   "price": 176.5,
    "volume": 12731790,
    "volume_vs_avg": "~0.8x",
-   "heat_score": 45,
+   "heat_score": 57,
    "direction": "down",
    "why": "Here Is What Most Retail Investors Miss About Bloom Energy Stock",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVjNLbWVDalIyWm9IdVR2Tm5YTWFBX05VNFo4UTFUUWRINGxrZDA2QW0yUW12a0xDQ1BVZnhfU2QwZjRDNEtxdWJGQlZIV3BXQ19zVDdZTEdxNmo2WkMtMWhMb3VYYjNSLWU3T21Hd3Z4UEFEcng2eDNNZTV3MXBWd3pCX19VY2Q3RjgzWnNxMWZ1Z3FXbEdfWnFDZGc3bllzLXZjdUp2bGhrUzQ0LUJYWlBUZTRPZ1RKQmM5T2pOYnc?oc=5",
-   "published": "2026-11-16T22:56:10+00:00",
+   "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZk1hdTc2SjlhNmM0Y3VRNkwwdHpPRDQwNWZZMVA5V0w0M29xaEh3a1hCMXExZW9tTG5OUjVQUDBFQzFPeV9IeTFZQ0pRWU8wU0hfZk1wbXJIc2lGdGdDRzBIZmNITE11cXMwZnN1d25oZXNoRDhVTEpjT3E3SWU3aWIzNDF1TGtDTjRTVkdtQ1AxdFl1LUpheVJMLVB1UQ?oc=5",
+   "published": "2026-11-16T22:56:37+00:00",
    "sector": "Grid, Storage & Electrification"
   },
   {
