@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-16T12:14:26+00:00",
-  "as_of_local": "2026-11-16 12:14:26 UTC",
+  "as_of_utc": "2026-11-16T12:19:29+00:00",
+  "as_of_local": "2026-11-16 12:19:29 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -965,6 +965,12 @@
       "market_cap": 51626506791.443665,
       "headlines": [
         {
+          "title": "Diamondback Energy to Acquire Double Eagle Assets for Cash and Stock",
+          "url": "https://finance.yahoo.com/energy/articles/diamondback-energy-acquire-double-eagle-121320836.html",
+          "publisher": "MT Newswires",
+          "published": "2026-11-16T12:13:20Z"
+        },
+        {
           "title": "Sell Alert: 5 Stocks Analysts Downgraded on Thursday",
           "url": "https://finance.yahoo.com/markets/stocks/articles/sell-alert-5-stocks-analysts-030437408.html",
           "publisher": "Insider Monkey",
@@ -975,12 +981,6 @@
           "url": "https://finance.yahoo.com/energy/articles/diamondback-energy-nears-5-bln-225032740.html",
           "publisher": "Investing.com",
           "published": "2026-11-15T22:50:32Z"
-        },
-        {
-          "title": "How Investors May Respond To Diamondback Energy (FANG) Earnings Beat",
-          "url": "https://finance.yahoo.com/energy/articles/investors-may-respond-diamondback-energy-130738319.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-14T13:07:38Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 87.9,
-      "change_pct": -0.75
+      "price": 87.94,
+      "change_pct": -0.7
     },
     {
       "label": "Brent",
-      "price": 95.08,
-      "change_pct": -0.79
+      "price": 95.01,
+      "change_pct": -0.87
     },
     {
       "label": "NatGas",
       "price": 3.16,
-      "change_pct": -2.11
+      "change_pct": -2.17
     }
   ]
 }
