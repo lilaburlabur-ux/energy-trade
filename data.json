@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-16T23:26:06+00:00",
-  "as_of_local": "2026-11-16 23:26:06 UTC",
+  "as_of_utc": "2026-11-16T23:31:10+00:00",
+  "as_of_local": "2026-11-16 23:31:10 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "OKE"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -841,34 +843,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/occidental-petroleum-corporation-oxy-trending-130002086.html",
           "publisher": "Zacks",
           "published": "2026-11-16T13:00:02Z"
-        }
-      ]
-    },
-    {
-      "symbol": "OKE",
-      "name": "ONEOK",
-      "price": 88.08,
-      "previous_close": 89.75,
-      "change_pct": -1.86,
-      "market_cap": 55530075645.34923,
-      "headlines": [
-        {
-          "title": "What Is Devon Getting For All That Spending?",
-          "url": "https://finance.yahoo.com/energy/articles/devon-getting-spending-161308023.html",
-          "publisher": "Trefis",
-          "published": "2026-11-16T16:13:08Z"
-        },
-        {
-          "title": "Better Dividend Stock for Retirees: ONEOK vs. Kinetik",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/better-dividend-stock-retirees-oneok-141109612.html",
-          "publisher": "TIKR",
-          "published": "2026-11-16T14:11:09Z"
-        },
-        {
-          "title": "Is Wall Street Bullish or Bearish on ONEOK Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-bullish-bearish-oneok-110514100.html",
-          "publisher": "Barchart",
-          "published": "2026-11-16T11:05:14Z"
         }
       ]
     },
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 85.34,
-      "change_pct": -3.64
+      "price": 85.4,
+      "change_pct": -3.57
     },
     {
       "label": "Brent",
-      "price": 92.1,
-      "change_pct": -3.9
+      "price": 92.21,
+      "change_pct": -3.79
     },
     {
       "label": "NatGas",
       "price": 3.13,
-      "change_pct": -3.19
+      "change_pct": -3.22
     }
   ]
 }
