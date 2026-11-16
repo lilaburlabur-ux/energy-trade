@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-16T00:55:54+00:00",
-  "as_of_local": "2026-11-16 00:55:54 UTC",
+  "as_of_utc": "2026-11-16T01:00:58+00:00",
+  "as_of_local": "2026-11-16 01:00:58 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "HAL"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1127,6 +1125,34 @@
       ]
     },
     {
+      "symbol": "HAL",
+      "name": "Halliburton",
+      "price": 33.78,
+      "previous_close": 32.76,
+      "change_pct": 3.11,
+      "market_cap": 27940326823.08429,
+      "headlines": [
+        {
+          "title": "Egypt\u2019s EGPC agrees 50-well programme preparations with Halliburton",
+          "url": "https://finance.yahoo.com/news/egypt-egpc-agrees-50-well-125415360.html",
+          "publisher": "Offshore Technology",
+          "published": "2026-11-13T12:54:15Z"
+        },
+        {
+          "title": "Halliburton Expands Geothermal Footprint With Sage Geosystems Deal",
+          "url": "https://finance.yahoo.com/energy/articles/halliburton-expands-geothermal-footprint-sage-122200542.html",
+          "publisher": "Zacks",
+          "published": "2026-11-12T12:22:00Z"
+        },
+        {
+          "title": "Are Wall Street Analysts Bullish on Halliburton Stock?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-halliburton-094239612.html",
+          "publisher": "Barchart",
+          "published": "2026-11-09T09:42:39Z"
+        }
+      ]
+    },
+    {
       "symbol": "FTI",
       "name": "TechnipFMC",
       "price": 66.26,
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 88.38,
-      "change_pct": -0.2
+      "price": 88.28,
+      "change_pct": -0.32
     },
     {
       "label": "Brent",
-      "price": 95.41,
-      "change_pct": -0.45
+      "price": 95.28,
+      "change_pct": -0.58
     },
     {
       "label": "NatGas",
       "price": 3.16,
-      "change_pct": -2.07
+      "change_pct": -2.11
     }
   ]
 }
