@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-16T23:10:40+00:00",
-  "as_of_local": "2026-11-16 23:10:40 UTC",
+  "as_of_utc": "2026-11-16T23:16:10+00:00",
+  "as_of_local": "2026-11-16 23:16:10 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AR"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -911,6 +909,12 @@
       "market_cap": 52414017465.010956,
       "headlines": [
         {
+          "title": "Here Is What Most Retail Investors Miss About Bloom Energy Stock",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/most-retail-investors-miss-bloom-225637896.html",
+          "publisher": "Trefis",
+          "published": "2026-11-16T22:56:37Z"
+        },
+        {
           "title": "S&P 500 Tumbles 1.9%. It\u2019s Not Just AI.",
           "url": "https://www.barrons.com/livecoverage/stock-market-news-today-111626/card/s-p-500-tumbles-1-9-it-s-not-just-ai--FDvmQloAfOi6OQeFoldW?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
@@ -921,12 +925,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-down-26-month-201107307.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-16T20:11:07Z"
-        },
-        {
-          "title": "BE Stock Falls Overnight: Retail Flags Valuation Concerns As Forward P/E Nears 18-Month Low",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-falls-overnight-retail-flags-065444592.html",
-          "publisher": "Stocktwits",
-          "published": "2026-11-16T06:54:44Z"
         }
       ]
     },
@@ -1431,6 +1429,34 @@
           "url": "https://finance.yahoo.com/energy/articles/future-u-renewable-energy-rests-080600968.html",
           "publisher": "Fortune",
           "published": "2026-11-14T08:06:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "AR",
+      "name": "Antero Resources",
+      "price": 37.71,
+      "previous_close": 38.74,
+      "change_pct": -2.66,
+      "market_cap": 11582098278.808594,
+      "headlines": [
+        {
+          "title": "How These 6 Natural Gas Stocks Make Money",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/6-natural-gas-stocks-money-153300478.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-15T15:33:00Z"
+        },
+        {
+          "title": "U.S. Targeted Value Portfolio (DFAT) Buys $3.7 Million More Coeur Mining on Wednesday",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/u-targeted-value-portfolio-dfat-110436527.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-13T11:04:36Z"
+        },
+        {
+          "title": "David Einhorn\u2019s Best Buy Is Already Up 36%. Is It Too Late to Follow Him?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/david-einhorn-best-buy-already-194953923.html",
+          "publisher": "TIKR",
+          "published": "2026-11-11T19:49:53Z"
         }
       ]
     },
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 85.24,
-      "change_pct": -3.75
+      "price": 85.34,
+      "change_pct": -3.64
     },
     {
       "label": "Brent",
-      "price": 91.84,
-      "change_pct": -4.17
+      "price": 92.18,
+      "change_pct": -3.82
     },
     {
       "label": "NatGas",
-      "price": 3.12,
-      "change_pct": -3.37
+      "price": 3.13,
+      "change_pct": -3.13
     }
   ]
 }
