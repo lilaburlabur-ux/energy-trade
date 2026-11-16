@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-16T14:01:09+00:00",
-  "as_of_local": "2026-11-16 14:01:09 UTC",
+  "as_of_utc": "2026-11-16T14:06:08+00:00",
+  "as_of_local": "2026-11-16 14:06:08 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "BP"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -225,34 +227,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-vertiv-stock-holders-keep-224631240.html",
           "publisher": "Trefis",
           "published": "2026-11-13T22:46:31Z"
-        }
-      ]
-    },
-    {
-      "symbol": "BP",
-      "name": "BP",
-      "price": 45.7,
-      "previous_close": 45.3,
-      "change_pct": 0.88,
-      "market_cap": 117707303254.96661,
-      "headlines": [
-        {
-          "title": "5 High-Yield Oil Stocks Paying Retirees Over 4%",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/5-high-yield-oil-stocks-120052002.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-16T12:00:52Z"
-        },
-        {
-          "title": "This Spanish Oil Stock Is Beating Exxon and Chevron. Wall Street Sees More Upside.",
-          "url": "https://www.barrons.com/articles/repsol-oil-stock-beating-exxon-and-chevron-wall-street-sees-more-upside-597252ad?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-11-16T10:55:00Z"
-        },
-        {
-          "title": "How Earnings And Guidance Will Impact BP Stock Investors",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/earnings-guidance-impact-bp-stock-210955198.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-13T21:09:55Z"
         }
       ]
     },
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 87.5,
-      "change_pct": -1.2
+      "price": 87.66,
+      "change_pct": -1.02
     },
     {
       "label": "Brent",
-      "price": 94.12,
-      "change_pct": -1.79
+      "price": 94.28,
+      "change_pct": -1.63
     },
     {
       "label": "NatGas",
       "price": 3.17,
-      "change_pct": -1.83
+      "change_pct": -1.98
     }
   ]
 }
