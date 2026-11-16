@@ -4,8 +4,8 @@ Signed file: `VLO.research.16.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $368.98 (2026-11-16, ~15-min delayed) |
-| Market cap | $102.90B |
+| Current price | $368.66 (2026-11-16, ~15-min delayed) |
+| Market cap | $102.81B |
 | Sector / Industry | Energy / Oil & Gas Refining & Marketing |
 | Main theme | Oil & Gas Refining & Marketing — see catalysts below |
 | Current stance | High technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
@@ -15,8 +15,8 @@ Signed file: `VLO.research.16.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +114.36%; price +25.21% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -19.75% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +114.17%; price +25.10% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -19.82% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 8.83%, revenue growth 46.50%. |
 | Value attractiveness | Reasonable | Forward P/E 7.20, EV/Sales 0.75. |
 | Risk level | Elevated | Beta 0.55, ATR 4.8% of price, short float 2.90%. |
@@ -44,22 +44,22 @@ Valero Energy Corporation manufactures, markets, and sells petroleum-based and l
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $368.98; 52w high $459.78 (-19.75%); 52w low $159.58 (+131.23%) |
-| Trend | +25.21% vs SMA200, -7.74% vs SMA50, -4.53% vs SMA20 |
-| Momentum | RSI(14) 43.5 (neutral) |
+| Price vs 52-week range | Close $368.66; 52w high $459.78 (-19.82%); 52w low $159.58 (+131.02%) |
+| Trend | +25.10% vs SMA200, -7.82% vs SMA50, -4.61% vs SMA20 |
+| Momentum | RSI(14) 43.4 (neutral) |
 | Volatility | ATR(14) 17.57 (~4.8% of price); beta 0.55 |
-| Setup perspective | -19.75% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -19.82% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +3.4% |
-| Month | -17.0% |
-| Quarter | +5.4% |
-| Half Y | +44.0% |
-| 1Y | +114.4% |
-| YTD | +126.5% |
+| Week | +3.3% |
+| Month | -17.1% |
+| Quarter | +5.3% |
+| Half Y | +43.8% |
+| 1Y | +114.2% |
+| YTD | +126.3% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Valero Energy Corporation manufactures, markets, and sells petroleum-based and l
 | Revenue (ttm) | $146.53B | Revenue growth 46.50% y/y |
 | Profitability | Gross 19.52%, operating 12.22%, net 8.83% | ROA 17.68%, ROE 46.87% |
 | Balance sheet | Cash $9.84B, debt $11.00B | Current ratio 1.72, debt/equity 35.39 |
-| Valuation | P/E 8.39, forward P/E 7.20, P/S 0.70, P/B 3.68 | EV/Sales 0.75, EV/EBITDA 5.31 |
+| Valuation | P/E 8.38, forward P/E 7.20, P/S 0.70, P/B 3.68 | EV/Sales 0.75, EV/EBITDA 5.31 |
 | Growth expectations | Earnings growth 576.80%, EPS q/q 523.60% | Analyst mean target $421.32 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -110,17 +110,17 @@ Valero Energy Corporation manufactures, markets, and sells petroleum-based and l
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $368.98 | EV/Sales | 0.75 |
-| Market cap | $102.90B | EV/EBITDA | 5.31 |
+| Price | $368.66 | EV/Sales | 0.75 |
+| Market cap | $102.81B | EV/EBITDA | 5.31 |
 | Beta | 0.55 | Gross margin | 19.52% |
-| RSI(14) | 43.5 | Operating margin | 12.22% |
+| RSI(14) | 43.4 | Operating margin | 12.22% |
 | ATR(14) | 17.57 | Profit margin | 8.83% |
-| SMA20 dist | -4.53% | ROA | 17.68% |
-| SMA50 dist | -7.74% | ROE | 46.87% |
-| SMA200 dist | +25.21% | Revenue (ttm) | $146.53B |
+| SMA20 dist | -4.61% | ROA | 17.68% |
+| SMA50 dist | -7.82% | ROE | 46.87% |
+| SMA200 dist | +25.10% | Revenue (ttm) | $146.53B |
 | 52W high | $459.78 | Revenue growth y/y | 46.50% |
 | 52W low | $159.58 | Inst. ownership | 88.23% |
-| P/E (ttm) | 8.39 | Insider ownership | 0.70% |
+| P/E (ttm) | 8.38 | Insider ownership | 0.70% |
 | Forward P/E | 7.20 | Short float | 2.90% |
 | PEG (trailing) | 1.37 | Avg volume | 3,094,268 |
 | P/S | 0.70 | Employees | 9,785 |

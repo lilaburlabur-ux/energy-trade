@@ -4,8 +4,8 @@ Signed file: `TTE.research.16.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $90.05 (2026-11-16, ~15-min delayed) |
-| Market cap | $197.49B |
+| Current price | $90.10 (2026-11-16, ~15-min delayed) |
+| Market cap | $197.60B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,8 +15,8 @@ Signed file: `TTE.research.16.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +44.05%; price +5.40% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -5.54% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +44.13%; price +5.46% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -5.49% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 10.46%, revenue growth 41.10%. |
 | Value attractiveness | Reasonable | Forward P/E 7.42, EV/Sales 1.07. |
 | Risk level | Moderate | Beta 0.04, ATR 1.9% of price, short float 0.19%. |
@@ -44,21 +44,21 @@ TotalEnergies SE, an integrated energy company, produces and markets oil and bio
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $90.05; 52w high $95.33 (-5.54%); 52w low $61.13 (+47.32%) |
-| Trend | +5.40% vs SMA200, +0.66% vs SMA50, -1.00% vs SMA20 |
-| Momentum | RSI(14) 50.6 (neutral) |
+| Price vs 52-week range | Close $90.10; 52w high $95.33 (-5.49%); 52w low $61.13 (+47.40%) |
+| Trend | +5.46% vs SMA200, +0.72% vs SMA50, -0.95% vs SMA20 |
+| Momentum | RSI(14) 50.8 (neutral) |
 | Volatility | ATR(14) 1.72 (~1.9% of price); beta 0.04 |
-| Setup perspective | -5.54% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -5.49% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +2.3% |
+| Week | +2.4% |
 | Month | -1.4% |
-| Quarter | +2.0% |
-| Half Y | -2.5% |
-| 1Y | +44.0% |
+| Quarter | +2.1% |
+| Half Y | -2.4% |
+| 1Y | +44.1% |
 | YTD | +38.5% |
 
 ## 4. Fundamental Analysis
@@ -110,14 +110,14 @@ TotalEnergies SE, an integrated energy company, produces and markets oil and bio
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $90.05 | EV/Sales | 1.07 |
-| Market cap | $197.49B | EV/EBITDA | 4.73 |
+| Price | $90.10 | EV/Sales | 1.07 |
+| Market cap | $197.60B | EV/EBITDA | 4.73 |
 | Beta | 0.04 | Gross margin | 39.18% |
-| RSI(14) | 50.6 | Operating margin | 17.00% |
+| RSI(14) | 50.8 | Operating margin | 17.00% |
 | ATR(14) | 1.72 | Profit margin | 10.46% |
-| SMA20 dist | -1.00% | ROA | 7.19% |
-| SMA50 dist | +0.66% | ROE | 17.83% |
-| SMA200 dist | +5.40% | Revenue (ttm) | $214.40B |
+| SMA20 dist | -0.95% | ROA | 7.19% |
+| SMA50 dist | +0.72% | ROE | 17.83% |
+| SMA200 dist | +5.46% | Revenue (ttm) | $214.40B |
 | 52W high | $95.33 | Revenue growth y/y | 41.10% |
 | 52W low | $61.13 | Inst. ownership | 55.81% |
 | P/E (ttm) | 8.99 | Insider ownership | 9.05% |

@@ -4,8 +4,8 @@ Signed file: `ETR.research.16.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $110.44 (2026-11-16, ~15-min delayed) |
-| Market cap | $52.77B |
+| Current price | $110.36 (2026-11-16, ~15-min delayed) |
+| Market cap | $52.73B |
 | Sector / Industry | Utilities / Utilities - Regulated Electric |
 | Main theme | Utilities - Regulated Electric — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: fair-to-demanding, risk: moderate. |
@@ -15,10 +15,10 @@ Signed file: `ETR.research.16.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +19.82%; price +3.13% vs SMA200. |
-| Fresh setup quality | Watch | -4.75% from 52w high and near SMA20 — check for a tight base. |
+| Technical momentum | Moderate | 1Y +19.73%; price +3.05% vs SMA200. |
+| Fresh setup quality | Watch | -4.83% from 52w high and near SMA20 — check for a tight base. |
 | Fundamental quality | Mixed | Profit margin 14.56%, revenue growth 14.50%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 21.59, EV/Sales 5.99. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 21.58, EV/Sales 5.99. |
 | Risk level | Moderate | Beta 0.43, ATR 1.7% of price, short float 3.92%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: fair-to-demanding, risk: moderate.
@@ -44,22 +44,22 @@ Entergy Corporation, together with its subsidiaries, engages in the production a
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $110.44; 52w high $115.95 (-4.75%); 52w low $89.02 (+24.06%) |
-| Trend | +3.13% vs SMA200, +5.44% vs SMA50, +1.36% vs SMA20 |
-| Momentum | RSI(14) 61.5 (neutral) |
+| Price vs 52-week range | Close $110.36; 52w high $115.95 (-4.83%); 52w low $89.02 (+23.97%) |
+| Trend | +3.05% vs SMA200, +5.36% vs SMA50, +1.29% vs SMA20 |
+| Momentum | RSI(14) 61.1 (neutral) |
 | Volatility | ATR(14) 1.92 (~1.7% of price); beta 0.43 |
-| Setup perspective | -4.75% from 52w high and near SMA20 — check for a tight base. |
+| Setup perspective | -4.83% from 52w high and near SMA20 — check for a tight base. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -0.6% |
-| Month | +5.7% |
-| Quarter | +2.8% |
-| Half Y | +2.0% |
-| 1Y | +19.8% |
-| YTD | +20.5% |
+| Week | -0.7% |
+| Month | +5.6% |
+| Quarter | +2.7% |
+| Half Y | +1.9% |
+| 1Y | +19.7% |
+| YTD | +20.4% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Entergy Corporation, together with its subsidiaries, engages in the production a
 | Revenue (ttm) | $14.04B | Revenue growth 14.50% y/y |
 | Profitability | Gross 47.93%, operating 25.01%, net 14.56% | ROA 2.89%, ROE 11.02% |
 | Balance sheet | Cash $4.21B, debt $34.81B | Current ratio 1.18, debt/equity 173.10 |
-| Valuation | P/E 25.27, forward P/E 21.59, P/S 3.76, P/B 2.67 | EV/Sales 5.99, EV/EBITDA 14.20 |
+| Valuation | P/E 25.25, forward P/E 21.58, P/S 3.76, P/B 2.66 | EV/Sales 5.99, EV/EBITDA 14.20 |
 | Growth expectations | Earnings growth 29.40%, EPS q/q 35.50% | Analyst mean target $120.57 (21 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ Entergy Corporation, together with its subsidiaries, engages in the production a
 | Franklin Templeton, Inc. | 9,231,221 | 1.93% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 21.59, EV/Sales 5.99. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 21.58, EV/Sales 5.99. Multiple compression is the main downside if growth disappoints.
 - **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -111,21 +111,21 @@ Entergy Corporation, together with its subsidiaries, engages in the production a
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $110.44 | EV/Sales | 5.99 |
-| Market cap | $52.77B | EV/EBITDA | 14.20 |
+| Price | $110.36 | EV/Sales | 5.99 |
+| Market cap | $52.73B | EV/EBITDA | 14.20 |
 | Beta | 0.43 | Gross margin | 47.93% |
-| RSI(14) | 61.5 | Operating margin | 25.01% |
+| RSI(14) | 61.1 | Operating margin | 25.01% |
 | ATR(14) | 1.92 | Profit margin | 14.56% |
-| SMA20 dist | +1.36% | ROA | 2.89% |
-| SMA50 dist | +5.44% | ROE | 11.02% |
-| SMA200 dist | +3.13% | Revenue (ttm) | $14.04B |
+| SMA20 dist | +1.29% | ROA | 2.89% |
+| SMA50 dist | +5.36% | ROE | 11.02% |
+| SMA200 dist | +3.05% | Revenue (ttm) | $14.04B |
 | 52W high | $115.95 | Revenue growth y/y | 14.50% |
 | 52W low | $89.02 | Inst. ownership | 98.08% |
-| P/E (ttm) | 25.27 | Insider ownership | 0.69% |
-| Forward P/E | 21.59 | Short float | 3.92% |
+| P/E (ttm) | 25.25 | Insider ownership | 0.69% |
+| Forward P/E | 21.58 | Short float | 3.92% |
 | PEG (trailing) | 1.71 | Avg volume | 2,853,037 |
 | P/S | 3.76 | Employees | 12,233 |
-| P/B | 2.67 | Analyst rec (1=buy..5=sell) | 1.7 |
+| P/B | 2.66 | Analyst rec (1=buy..5=sell) | 1.7 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

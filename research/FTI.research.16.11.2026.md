@@ -4,8 +4,8 @@ Signed file: `FTI.research.16.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $63.71 (2026-11-16, ~15-min delayed) |
-| Market cap | $24.77B |
+| Current price | $63.82 (2026-11-16, ~15-min delayed) |
+| Market cap | $24.82B |
 | Sector / Industry | Energy / Oil & Gas Equipment & Services |
 | Main theme | Oil & Gas Equipment & Services — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
@@ -15,11 +15,11 @@ Signed file: `FTI.research.16.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-8.68%) with negative half-year (-13.17%). |
-| Fresh setup quality | Moderate / wait | -20.45% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-8.51%) with negative half-year (-13.01%). |
+| Fresh setup quality | Moderate / wait | -20.30% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 12.04%, revenue growth 9.40%. |
-| Value attractiveness | Reasonable | Forward P/E 16.78, EV/Sales 2.44. |
-| Risk level | Elevated | Beta 0.85, ATR 3.9% of price, short float 3.55%. |
+| Value attractiveness | Reasonable | Forward P/E 16.81, EV/Sales 2.44. |
+| Risk level | Elevated | Beta 0.85, ATR 3.8% of price, short float 3.55%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
 
@@ -44,22 +44,22 @@ TechnipFMC plc engages in the oil and natural gas projects, technologies, system
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $63.71; 52w high $80.08 (-20.45%); 52w low $42.59 (+49.57%) |
-| Trend | -8.68% vs SMA200, -8.36% vs SMA50, -4.67% vs SMA20 |
-| Momentum | RSI(14) 40.5 (neutral) |
-| Volatility | ATR(14) 2.45 (~3.9% of price); beta 0.85 |
-| Setup perspective | -20.45% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $63.82; 52w high $80.08 (-20.30%); 52w low $42.59 (+49.84%) |
+| Trend | -8.51% vs SMA200, -8.19% vs SMA50, -4.51% vs SMA20 |
+| Momentum | RSI(14) 40.7 (neutral) |
+| Volatility | ATR(14) 2.45 (~3.8% of price); beta 0.85 |
+| Setup perspective | -20.30% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -0.4% |
-| Month | -8.6% |
-| Quarter | -18.6% |
-| Half Y | -13.2% |
-| 1Y | +48.1% |
-| YTD | +34.9% |
+| Week | -0.3% |
+| Month | -8.4% |
+| Quarter | -18.5% |
+| Half Y | -13.0% |
+| 1Y | +48.4% |
+| YTD | +35.2% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ TechnipFMC plc engages in the oil and natural gas projects, technologies, system
 | Revenue (ttm) | $10.67B | Revenue growth 9.40% y/y |
 | Profitability | Gross 23.60%, operating 15.64%, net 12.04% | ROA 10.08%, ROE 38.30% |
 | Balance sheet | Cash $1.05B, debt $1.30B | Current ratio 1.09, debt/equity 38.93 |
-| Valuation | P/E 20.03, forward P/E 16.78, P/S 2.32, P/B 7.46 | EV/Sales 2.44, EV/EBITDA 12.54 |
+| Valuation | P/E 20.07, forward P/E 16.81, P/S 2.33, P/B 7.47 | EV/Sales 2.44, EV/EBITDA 12.54 |
 | Growth expectations | Earnings growth 40.00%, EPS q/q 35.10% | Analyst mean target $76.64 (22 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ TechnipFMC plc engages in the oil and natural gas projects, technologies, system
 | FMR, LLC | 11,619,603 | 2.99% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 0.85, ATR 3.9% of price, short float 3.55%. Size positions accordingly.
+- **Volatility risk:** Beta 0.85, ATR 3.8% of price, short float 3.55%. Size positions accordingly.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -110,21 +110,21 @@ TechnipFMC plc engages in the oil and natural gas projects, technologies, system
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $63.71 | EV/Sales | 2.44 |
-| Market cap | $24.77B | EV/EBITDA | 12.54 |
+| Price | $63.82 | EV/Sales | 2.44 |
+| Market cap | $24.82B | EV/EBITDA | 12.54 |
 | Beta | 0.85 | Gross margin | 23.60% |
-| RSI(14) | 40.5 | Operating margin | 15.64% |
+| RSI(14) | 40.7 | Operating margin | 15.64% |
 | ATR(14) | 2.45 | Profit margin | 12.04% |
-| SMA20 dist | -4.67% | ROA | 10.08% |
-| SMA50 dist | -8.36% | ROE | 38.30% |
-| SMA200 dist | -8.68% | Revenue (ttm) | $10.67B |
+| SMA20 dist | -4.51% | ROA | 10.08% |
+| SMA50 dist | -8.19% | ROE | 38.30% |
+| SMA200 dist | -8.51% | Revenue (ttm) | $10.67B |
 | 52W high | $80.08 | Revenue growth y/y | 9.40% |
 | 52W low | $42.59 | Inst. ownership | 103.69% |
-| P/E (ttm) | 20.03 | Insider ownership | 1.95% |
-| Forward P/E | 16.78 | Short float | 3.55% |
+| P/E (ttm) | 20.07 | Insider ownership | 1.95% |
+| Forward P/E | 16.81 | Short float | 3.55% |
 | PEG (trailing) | — | Avg volume | 2,861,235 |
-| P/S | 2.32 | Employees | 21,975 |
-| P/B | 7.46 | Analyst rec (1=buy..5=sell) | 2.0 |
+| P/S | 2.33 | Employees | 21,975 |
+| P/B | 7.47 | Analyst rec (1=buy..5=sell) | 2.0 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

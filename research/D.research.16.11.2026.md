@@ -4,8 +4,8 @@ Signed file: `D.research.16.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $67.83 (2026-11-16, ~15-min delayed) |
-| Market cap | $59.66B |
+| Current price | $67.78 (2026-11-16, ~15-min delayed) |
+| Market cap | $59.62B |
 | Sector / Industry | Utilities / Utilities - Regulated Electric |
 | Main theme | Utilities - Regulated Electric — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,10 +15,10 @@ Signed file: `D.research.16.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +16.20%; price +5.29% vs SMA200. |
-| Fresh setup quality | Watch | -4.43% from 52w high and near SMA20 — check for a tight base. |
+| Technical momentum | Moderate | 1Y +16.11%; price +5.21% vs SMA200. |
+| Fresh setup quality | Watch | -4.50% from 52w high and near SMA20 — check for a tight base. |
 | Fundamental quality | Mixed | Profit margin 13.99%, revenue growth 24.10%. |
-| Value attractiveness | Reasonable | Forward P/E 17.76, EV/Sales 6.28. |
+| Value attractiveness | Reasonable | Forward P/E 17.75, EV/Sales 6.28. |
 | Risk level | Moderate | Beta 0.59, ATR 1.9% of price, short float 2.81%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -44,22 +44,22 @@ Dominion Energy, Inc. provides regulated electricity and natural gas services in
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $67.83; 52w high $70.97 (-4.43%); 52w low $55.36 (+22.53%) |
-| Trend | +5.29% vs SMA200, +5.72% vs SMA50, +1.82% vs SMA20 |
-| Momentum | RSI(14) 59.5 (neutral) |
+| Price vs 52-week range | Close $67.78; 52w high $70.97 (-4.50%); 52w low $55.36 (+22.44%) |
+| Trend | +5.21% vs SMA200, +5.64% vs SMA50, +1.74% vs SMA20 |
+| Momentum | RSI(14) 59.3 (neutral) |
 | Volatility | ATR(14) 1.29 (~1.9% of price); beta 0.59 |
-| Setup perspective | -4.43% from 52w high and near SMA20 — check for a tight base. |
+| Setup perspective | -4.50% from 52w high and near SMA20 — check for a tight base. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -0.6% |
-| Month | +6.7% |
-| Quarter | -0.1% |
+| Week | -0.7% |
+| Month | +6.6% |
+| Quarter | -0.2% |
 | Half Y | +2.4% |
-| 1Y | +16.2% |
-| YTD | +18.1% |
+| 1Y | +16.1% |
+| YTD | +18.0% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Dominion Energy, Inc. provides regulated electricity and natural gas services in
 | Revenue (ttm) | $19.21B | Revenue growth 24.10% y/y |
 | Profitability | Gross 46.51%, operating 31.23%, net 13.99% | ROA 3.17%, ROE 8.82% |
 | Balance sheet | Cash $435.00M, debt $55.60B | Current ratio 0.88, debt/equity 161.56 |
-| Valuation | P/E 22.31, forward P/E 17.76, P/S 3.11, P/B 2.09 | EV/Sales 6.28, EV/EBITDA 13.58 |
+| Valuation | P/E 22.37, forward P/E 17.75, P/S 3.10, P/B 2.09 | EV/Sales 6.28, EV/EBITDA 13.58 |
 | Growth expectations | Earnings growth 12.00%, EPS q/q 15.30% | Analyst mean target $70.17 (12 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -110,20 +110,20 @@ Dominion Energy, Inc. provides regulated electricity and natural gas services in
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $67.83 | EV/Sales | 6.28 |
-| Market cap | $59.66B | EV/EBITDA | 13.58 |
+| Price | $67.78 | EV/Sales | 6.28 |
+| Market cap | $59.62B | EV/EBITDA | 13.58 |
 | Beta | 0.59 | Gross margin | 46.51% |
-| RSI(14) | 59.5 | Operating margin | 31.23% |
+| RSI(14) | 59.3 | Operating margin | 31.23% |
 | ATR(14) | 1.29 | Profit margin | 13.99% |
-| SMA20 dist | +1.82% | ROA | 3.17% |
-| SMA50 dist | +5.72% | ROE | 8.82% |
-| SMA200 dist | +5.29% | Revenue (ttm) | $19.21B |
+| SMA20 dist | +1.74% | ROA | 3.17% |
+| SMA50 dist | +5.64% | ROE | 8.82% |
+| SMA200 dist | +5.21% | Revenue (ttm) | $19.21B |
 | 52W high | $70.97 | Revenue growth y/y | 24.10% |
 | 52W low | $55.36 | Inst. ownership | 83.77% |
-| P/E (ttm) | 22.31 | Insider ownership | 0.40% |
-| Forward P/E | 17.76 | Short float | 2.81% |
+| P/E (ttm) | 22.37 | Insider ownership | 0.40% |
+| Forward P/E | 17.75 | Short float | 2.81% |
 | PEG (trailing) | 2.63 | Avg volume | 4,574,435 |
-| P/S | 3.11 | Employees | 15,200 |
+| P/S | 3.10 | Employees | 15,200 |
 | P/B | 2.09 | Analyst rec (1=buy..5=sell) | 2.6 |
 
 ## 8. Analyst Actions

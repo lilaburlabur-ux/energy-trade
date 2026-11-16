@@ -4,8 +4,8 @@ Signed file: `EQNR.research.16.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $40.99 (2026-11-16, ~15-min delayed) |
-| Market cap | $97.00B |
+| Current price | $40.98 (2026-11-16, ~15-min delayed) |
+| Market cap | $96.97B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
 | Current stance | High technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
@@ -15,8 +15,8 @@ Signed file: `EQNR.research.16.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +76.34%; price +7.49% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -16.03% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +76.28%; price +7.45% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -16.06% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 9.79%, revenue growth 26.60%. |
 | Value attractiveness | Reasonable | Forward P/E 8.11, EV/Sales 1.74. |
 | Risk level | Elevated | Beta -0.66, ATR 3.6% of price, short float 2.69%. |
@@ -44,22 +44,22 @@ Equinor ASA operates as an energy company in Norway and internationally. It oper
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $40.99; 52w high $48.82 (-16.03%); 52w low $21.68 (+89.09%) |
-| Trend | +7.49% vs SMA200, -6.98% vs SMA50, -8.34% vs SMA20 |
-| Momentum | RSI(14) 39.1 (neutral) |
+| Price vs 52-week range | Close $40.98; 52w high $48.82 (-16.06%); 52w low $21.68 (+89.02%) |
+| Trend | +7.45% vs SMA200, -7.02% vs SMA50, -8.37% vs SMA20 |
+| Momentum | RSI(14) 39.0 (neutral) |
 | Volatility | ATR(14) 1.48 (~3.6% of price); beta -0.66 |
-| Setup perspective | -16.03% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -16.06% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
 | Week | -0.3% |
-| Month | -12.7% |
-| Quarter | -2.0% |
-| Half Y | +4.4% |
+| Month | -12.8% |
+| Quarter | -2.1% |
+| Half Y | +4.3% |
 | 1Y | +76.3% |
-| YTD | +72.6% |
+| YTD | +72.5% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Equinor ASA operates as an energy company in Norway and internationally. It oper
 | Revenue (ttm) | $120.57B | Revenue growth 26.60% y/y |
 | Profitability | Gross 43.18%, operating 32.11%, net 9.79% | ROA 17.09%, ROE 27.57% |
 | Balance sheet | Cash $24.00B, debt $29.66B | Current ratio 1.18, debt/equity 65.92 |
-| Valuation | P/E 8.51, forward P/E 8.11, P/S 0.80, P/B 4.33 | EV/Sales 1.74, EV/EBITDA 4.36 |
+| Valuation | P/E 8.50, forward P/E 8.11, P/S 0.80, P/B 4.33 | EV/Sales 1.74, EV/EBITDA 4.36 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $40.93 (7 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -110,17 +110,17 @@ Equinor ASA operates as an energy company in Norway and internationally. It oper
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $40.99 | EV/Sales | 1.74 |
-| Market cap | $97.00B | EV/EBITDA | 4.36 |
+| Price | $40.98 | EV/Sales | 1.74 |
+| Market cap | $96.97B | EV/EBITDA | 4.36 |
 | Beta | -0.66 | Gross margin | 43.18% |
-| RSI(14) | 39.1 | Operating margin | 32.11% |
+| RSI(14) | 39.0 | Operating margin | 32.11% |
 | ATR(14) | 1.48 | Profit margin | 9.79% |
-| SMA20 dist | -8.34% | ROA | 17.09% |
-| SMA50 dist | -6.98% | ROE | 27.57% |
-| SMA200 dist | +7.49% | Revenue (ttm) | $120.57B |
+| SMA20 dist | -8.37% | ROA | 17.09% |
+| SMA50 dist | -7.02% | ROE | 27.57% |
+| SMA200 dist | +7.45% | Revenue (ttm) | $120.57B |
 | 52W high | $48.82 | Revenue growth y/y | 26.60% |
 | 52W low | $21.68 | Inst. ownership | 6.76% |
-| P/E (ttm) | 8.51 | Insider ownership | 0.03% |
+| P/E (ttm) | 8.50 | Insider ownership | 0.03% |
 | Forward P/E | 8.11 | Short float | 2.69% |
 | PEG (trailing) | 0.95 | Avg volume | 3,905,712 |
 | P/S | 0.80 | Employees | 23,545 |

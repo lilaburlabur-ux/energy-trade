@@ -5,7 +5,7 @@ Signed file: `KMI.research.16.11.2026`
 | Field | Value |
 |---|---|
 | Current price | $31.38 (2026-11-16, ~15-min delayed) |
-| Market cap | $69.89B |
+| Market cap | $69.91B |
 | Sector / Industry | Energy / Oil & Gas Midstream |
 | Main theme | Oil & Gas Midstream — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: fair-to-demanding, risk: moderate. |
@@ -15,8 +15,8 @@ Signed file: `KMI.research.16.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-0.88%) with negative half-year (-5.42%). |
-| Fresh setup quality | Moderate / wait | -8.06% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-0.86%) with negative half-year (-5.40%). |
+| Fresh setup quality | Moderate / wait | -8.05% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 19.64%, revenue growth 9.30%. |
 | Value attractiveness | Fair-to-demanding | Forward P/E 20.41, EV/Sales 5.71. |
 | Risk level | Moderate | Beta 0.57, ATR 2.8% of price, short float 2.22%. |
@@ -44,11 +44,11 @@ Kinder Morgan, Inc. operates as an energy infrastructure company primarily in No
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $31.38; 52w high $34.13 (-8.06%); 52w low $25.37 (+23.65%) |
-| Trend | -0.88% vs SMA200, -1.35% vs SMA50, -3.18% vs SMA20 |
-| Momentum | RSI(14) 45.1 (neutral) |
+| Price vs 52-week range | Close $31.38; 52w high $34.13 (-8.05%); 52w low $25.37 (+23.67%) |
+| Trend | -0.86% vs SMA200, -1.33% vs SMA50, -3.16% vs SMA20 |
+| Momentum | RSI(14) 45.2 (neutral) |
 | Volatility | ATR(14) 0.87 (~2.8% of price); beta 0.57 |
-| Setup perspective | -8.06% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -8.05% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
@@ -111,13 +111,13 @@ Kinder Morgan, Inc. operates as an energy infrastructure company primarily in No
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $31.38 | EV/Sales | 5.71 |
-| Market cap | $69.89B | EV/EBITDA | 13.65 |
+| Market cap | $69.91B | EV/EBITDA | 13.65 |
 | Beta | 0.57 | Gross margin | 48.65% |
-| RSI(14) | 45.1 | Operating margin | 28.58% |
+| RSI(14) | 45.2 | Operating margin | 28.58% |
 | ATR(14) | 0.87 | Profit margin | 19.64% |
-| SMA20 dist | -3.18% | ROA | 4.44% |
-| SMA50 dist | -1.35% | ROE | 11.43% |
-| SMA200 dist | -0.88% | Revenue (ttm) | $18.34B |
+| SMA20 dist | -3.16% | ROA | 4.44% |
+| SMA50 dist | -1.33% | ROE | 11.43% |
+| SMA200 dist | -0.86% | Revenue (ttm) | $18.34B |
 | 52W high | $34.13 | Revenue growth y/y | 9.30% |
 | 52W low | $25.37 | Inst. ownership | 70.96% |
 | P/E (ttm) | 19.37 | Insider ownership | 12.92% |
