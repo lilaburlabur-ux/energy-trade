@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-16T08:40:43+00:00",
-  "as_of_local": "2026-11-16 08:40:43 UTC",
+  "as_of_utc": "2026-11-16T08:45:52+00:00",
+  "as_of_local": "2026-11-16 08:45:52 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "NRG"
+    "NEE"
   ],
   "stocks": [
     {
@@ -143,34 +143,6 @@
           "url": "https://finance.yahoo.com/energy/articles/murphy-oil-signs-offshore-production-134600650.html",
           "publisher": "Zacks",
           "published": "2026-11-13T13:46:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "NEE",
-      "name": "NextEra Energy",
-      "price": 85.12,
-      "previous_close": 85.29,
-      "change_pct": -0.2,
-      "market_cap": 178522696651.3031,
-      "headlines": [
-        {
-          "title": "Why Investors Should Own Businesses That Can Win Under Any Administration",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-investors-own-businesses-win-203500535.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-15T20:35:00Z"
-        },
-        {
-          "title": "Retirees Should Put These 4 High-Yield Utility Stocks on Their Buy List for Next Week",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/retirees-put-4-high-yield-150050151.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-14T15:00:50Z"
-        },
-        {
-          "title": "HSBC Says Buy the Dip in These 11 Stocks -- Alphabet and Oracle Top the List",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/hsbc-says-buy-dip-11-185515397.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-13T18:55:15Z"
         }
       ]
     },
@@ -1211,6 +1183,34 @@
       ]
     },
     {
+      "symbol": "NRG",
+      "name": "NRG Energy",
+      "price": 97.1,
+      "previous_close": 98.05,
+      "change_pct": -0.97,
+      "market_cap": 20393065967.53296,
+      "headlines": [
+        {
+          "title": "Do You Like Cash? Consider Vistra Stock",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/cash-consider-vistra-stock-211551348.html",
+          "publisher": "Trefis",
+          "published": "2026-11-12T21:15:51Z"
+        },
+        {
+          "title": "What Is The Biggest Threat To Vistra Stock?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/biggest-threat-vistra-stock-005944429.html",
+          "publisher": "Trefis",
+          "published": "2026-11-12T00:59:44Z"
+        },
+        {
+          "title": "A $4 Billion Jolt: NRG Energy Powers Data Center Ambitions",
+          "url": "https://finance.yahoo.com/energy/articles/4-billion-jolt-nrg-energy-202000737.html",
+          "publisher": "MarketBeat",
+          "published": "2026-11-10T20:20:00Z"
+        }
+      ]
+    },
+    {
       "symbol": "PR",
       "name": "Permian Resources",
       "price": 23.05,
@@ -2089,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 89.26,
-      "change_pct": 0.79
+      "price": 88.76,
+      "change_pct": 0.23
     },
     {
       "label": "Brent",
-      "price": 96.37,
-      "change_pct": 0.55
+      "price": 93.16,
+      "change_pct": -2.8
     },
     {
       "label": "NatGas",
-      "price": 3.12,
-      "change_pct": -3.5
+      "price": 3.11,
+      "change_pct": -3.68
     }
   ]
 }
