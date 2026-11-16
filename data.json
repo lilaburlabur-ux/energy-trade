@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-16T08:10:27+00:00",
-  "as_of_local": "2026-11-16 08:10:27 UTC",
+  "as_of_utc": "2026-11-16T08:15:41+00:00",
+  "as_of_local": "2026-11-16 08:15:41 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "MPC"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -255,6 +253,34 @@
           "url": "https://finance.yahoo.com/markets/world-indices/articles/ftse-100-today-stocks-edge-084813171.html",
           "publisher": "Investing.com",
           "published": "2026-11-13T08:48:13Z"
+        }
+      ]
+    },
+    {
+      "symbol": "MPC",
+      "name": "Marathon Petroleum",
+      "price": 414.65,
+      "previous_close": 412.85,
+      "change_pct": 0.44,
+      "market_cap": 112901845740.12085,
+      "headlines": [
+        {
+          "title": "Beat Value Traps: 4 Stocks With Attractive PEG Ratios to Buy Now",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/beat-value-traps-4-stocks-190000039.html",
+          "publisher": "Zacks",
+          "published": "2026-11-13T19:00:00Z"
+        },
+        {
+          "title": "What Would Cheaper Fuel Mean For Exxon Mobil Stock?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/cheaper-fuel-mean-exxon-mobil-152016819.html",
+          "publisher": "Trefis",
+          "published": "2026-11-13T15:20:16Z"
+        },
+        {
+          "title": "These 3 Stocks Have Bought Back Billions, But Which Offers the Best Value?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-stocks-bought-back-billions-131000909.html",
+          "publisher": "MarketBeat",
+          "published": "2026-11-13T13:10:00Z"
         }
       ]
     },
@@ -1922,8 +1948,8 @@
           "name": "Marathon Petroleum Corp",
           "short": "Marathon",
           "weight_pct": 4.64,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": 0.44,
+          "price": 414.65,
           "currency": "USD"
         },
         {
@@ -2021,8 +2047,8 @@
         "name": "Marathon Petroleum Corp",
         "short": "Marathon",
         "weight_pct": 4.64,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": 0.44,
+        "price": 414.65,
         "currency": "USD"
       },
       {
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 88.72,
-      "change_pct": 0.18
+      "price": 88.96,
+      "change_pct": 0.45
     },
     {
       "label": "Brent",
-      "price": 95.91,
-      "change_pct": 0.07
+      "price": 96.18,
+      "change_pct": 0.35
     },
     {
       "label": "NatGas",
       "price": 3.12,
-      "change_pct": -3.41
+      "change_pct": -3.34
     }
   ]
 }
