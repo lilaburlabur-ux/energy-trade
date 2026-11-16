@@ -1,0 +1,154 @@
+# UEC Research Report
+**Uranium Energy Corp.** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+Signed file: `UEC.research.16.11.2026`
+
+| Field | Value |
+|---|---|
+| Current price | $6.21 (2026-11-16, ~15-min delayed) |
+| Market cap | $3.08B |
+| Sector / Industry | Energy / Uranium |
+| Main theme | Uranium — see catalysts below |
+| Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: high. |
+
+> Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-16.
+
+## 1. Executive Summary
+| Area | Score / Read | Reason |
+|---|---|---|
+| Technical momentum | Low | Below SMA200 (-47.77%) with negative half-year (-52.95%). |
+| Fresh setup quality | Poor / broken | -69.17% from 52w high — base needs to rebuild. |
+| Fundamental quality | Mixed | Profit margin 0.00%, revenue growth —. |
+| Value attractiveness | Reasonable | Forward P/E -83.92, EV/Sales 75.39. |
+| Risk level | High | Beta 1.37, ATR 9.0% of price, short float 16.79%. |
+
+**Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: high.
+
+**Key questions before any trade (standard):**
+- Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
+- Where is the actual invalidation level? If that level is too far away, the setup is not clean.
+- Is the move supported by new institutional demand or just retail/short-covering momentum?
+- Can earnings convert fast enough to justify the valuation?
+
+## 2. Company Overview and Recent Catalysts
+Uranium Energy Corp., together with its subsidiaries, engages in the exploration, pre-extraction, extraction, and processing of uranium and titanium concentrates properties in the United States, Canada, and the Republic of Paraguay. Its principal projects are located in Wyoming and Texas in the United States, as well as in Saskatchewan, Canada. The company was formerly known as Carlin Gold Inc. and changed its name to Uranium Energy Corp. in January 2005. The company was incorporated in 2003 and is headquartered in Corpus Christi, Texas.
+
+**Recent headlines (potential catalysts):**
+
+| Headline | Source | Date |
+|---|---|---|
+| The Best Uranium Stocks to Buy and Hold as Nuclear Power Expands | Motley Fool | 2026-11-12 |
+| Purepoint Uranium CEO explains why rising uranium prices aren't lifting stocks | Proactive | 2026-11-06 |
+| Is Uranium Energy (UEC) Priced Too Richly On Book Value? | Simply Wall St. | 2026-11-06 |
+| Uranium Energy Corp Secures Long-Term Supply Agreements With Two US Nuclear Utilities | InvestorsHub | 2026-11-05 |
+
+## 3. Technical Analysis
+| Technical item | Read |
+|---|---|
+| Price vs 52-week range | Close $6.21; 52w high $20.14 (-69.17%); 52w low $6.21 (+0.00%) |
+| Trend | -47.77% vs SMA200, -28.60% vs SMA50, -15.85% vs SMA20 |
+| Momentum | RSI(14) 32.9 (neutral) |
+| Volatility | ATR(14) 0.56 (~9.0% of price); beta 1.37 |
+| Setup perspective | -69.17% from 52w high — base needs to rebuild. |
+
+**Performance snapshot:**
+
+| Window | Return |
+|---|---|
+| Week | -18.5% |
+| Month | -21.5% |
+| Quarter | -43.3% |
+| Half Y | -53.0% |
+| 1Y | -46.4% |
+| YTD | -52.6% |
+
+## 4. Fundamental Analysis
+| Factor | Observation | Implication / extra |
+|---|---|---|
+| Next earnings | 2026-12-08 | Next scheduled report (Yahoo estimate) |
+| Revenue (ttm) | $37.25M | Revenue growth — y/y |
+| Profitability | Gross -183.96%, operating -357.44%, net 0.00% | ROA -6.35%, ROE -11.64% |
+| Balance sheet | Cash $495.46M, debt $2.95M | Current ratio 17.26, debt/equity 0.21 |
+| Valuation | P/E —, forward P/E -83.92, P/S 82.62, P/B 2.24 | EV/Sales 75.39, EV/EBITDA -22.25 |
+| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $15.85 (11 analysts) |
+
+## 5. Institutional Investors and Ownership
+| Metric | Value |
+|---|---|
+| Institutional ownership | 88.79% |
+| Insider ownership | 2.31% |
+| Short float | 16.79% |
+| Short ratio (days to cover) | 6.9 |
+
+**Top institutional holders:**
+
+| Holder | Shares | % Out | Reported |
+|---|---|---|---|
+| Price (T.Rowe) Associates Inc | 75,129,739 | 15.16% | 2026-06-30 |
+| Blackrock Inc. | 38,960,635 | 7.86% | 2026-09-30 |
+| Mirae Asset Global ETFs Holdings Ltd. | 34,695,667 | 7.00% | 2026-06-30 |
+| State Street Corporation | 31,401,974 | 6.34% | 2026-09-30 |
+| Van Eck Associates Corporation | 24,829,240 | 5.01% | 2026-09-30 |
+| Vanguard Portfolio Management LLC | 23,386,996 | 4.72% | 2026-09-30 |
+| Vanguard Capital Management LLC | 22,091,616 | 4.46% | 2026-09-30 |
+| NORGES BANK | 17,499,619 | 3.53% | 2026-06-30 |
+| Geode Capital Management, LLC | 12,340,686 | 2.49% | 2026-09-30 |
+| Alps Advisors Inc. | 11,242,054 | 2.27% | 2026-09-30 |
+
+## 6. Risk Review and Setup Plan
+- **Volatility risk:** Beta 1.37, ATR 9.0% of price, short float 16.79%. Size positions accordingly.
+- **Short interest risk:** short float 16.79% can fuel squeezes both ways around news.
+- **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
+- **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
+
+### Setup checklist for your journal
+| Question | Pass condition |
+|---|---|
+| Is there a new base? | Tight sideways action near highs, declining volume, clear resistance. |
+| Is the pivot obvious? | A clean level that multiple traders can see; not a random candle high. |
+| Is risk defined? | Stop based on structure and less than the expected first upside target. |
+| Is volume confirming? | Breakout volume expands; pullback volume dries up. |
+| Is position size small enough? | A normal shakeout should not cause emotional decision-making. |
+
+## 7. Full Data Snapshot
+| Metric | Value | Metric | Value |
+|---|---|---|---|
+| Price | $6.21 | EV/Sales | 75.39 |
+| Market cap | $3.08B | EV/EBITDA | -22.25 |
+| Beta | 1.37 | Gross margin | -183.96% |
+| RSI(14) | 32.9 | Operating margin | -357.44% |
+| ATR(14) | 0.56 | Profit margin | 0.00% |
+| SMA20 dist | -15.85% | ROA | -6.35% |
+| SMA50 dist | -28.60% | ROE | -11.64% |
+| SMA200 dist | -47.77% | Revenue (ttm) | $37.25M |
+| 52W high | $20.14 | Revenue growth y/y | — |
+| 52W low | $6.21 | Inst. ownership | 88.79% |
+| P/E (ttm) | — | Insider ownership | 2.31% |
+| Forward P/E | -83.92 | Short float | 16.79% |
+| PEG (trailing) | — | Avg volume | 9,737,617 |
+| P/S | 82.62 | Employees | 257 |
+| P/B | 2.24 | Analyst rec (1=buy..5=sell) | 1.7 |
+
+## 8. Analyst Actions
+| Date | Action | Firm | Rating change |
+|---|---|---|---|
+| 2026-10-02 | init | RBC Capital | — → Sector Perform |
+| 2026-09-30 | reit | HC Wainwright & Co. | Buy → Buy |
+| 2026-09-03 | init | Jefferies | — → Hold |
+| 2026-06-10 | reit | HC Wainwright & Co. | Buy → Buy |
+| 2026-05-20 | reit | HC Wainwright & Co. | Buy → Buy |
+| 2026-03-11 | main | TD Securities | Buy → Buy |
+| 2026-03-11 | main | HC Wainwright & Co. | Buy → Buy |
+| 2025-12-11 | reit | Roth Capital | Buy → Buy |
+
+## 9. Conclusion
+UEC: Low momentum / mixed fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+
+## Sources
+| Source | URL | Used for |
+|---|---|---|
+| Yahoo Finance quote/profile/statistics for UEC | https://finance.yahoo.com/quote/UEC | Snapshot metrics, ownership, analyst data |
+| Yahoo Finance price history (via yfinance) | https://finance.yahoo.com/quote/UEC/history | SMA/RSI/ATR/performance calculations |
+| Yahoo Finance news feed | https://finance.yahoo.com/quote/UEC/news | Catalyst headlines |
+| Method template | AEHR.research.31.05.2026.pdf (user's Cowork method) | Report structure, scoring areas, checklist |
+
+_Note: the template's native Finviz/Fintel/ADVFN pages block automated retrieval; equivalent metrics above are computed from Yahoo Finance data instead and labeled accordingly._
