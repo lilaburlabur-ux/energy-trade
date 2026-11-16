@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-16T11:49:04+00:00",
-  "as_of_local": "2026-11-16 11:49:04 UTC",
+  "as_of_utc": "2026-11-16T11:54:15+00:00",
+  "as_of_local": "2026-11-16 11:54:15 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -41,6 +41,12 @@
       "market_cap": 429061171823.58923,
       "headlines": [
         {
+          "title": "Greg Abel's Berkshire Hathaway Still Holds About $18.6 Billion of Chevron Stock After Selling More Than a Third of It",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/greg-abels-berkshire-hathaway-still-115000004.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-16T11:50:00Z"
+        },
+        {
           "title": "This Spanish Oil Stock Is Beating Exxon and Chevron. Wall Street Sees More Upside.",
           "url": "https://www.barrons.com/articles/repsol-oil-stock-beating-exxon-and-chevron-wall-street-sees-more-upside-597252ad?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
@@ -51,12 +57,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/sign-venture-global-stock-run-080804893.html",
           "publisher": "Trefis",
           "published": "2026-11-16T08:08:04Z"
-        },
-        {
-          "title": "Top 3 Energy Stocks To Watch In November 2026",
-          "url": "https://finance.yahoo.com/energy/articles/top-3-energy-stocks-watch-101140336.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-14T10:11:40Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 88.2,
-      "change_pct": -0.41
+      "price": 88.12,
+      "change_pct": -0.5
     },
     {
       "label": "Brent",
-      "price": 95.17,
-      "change_pct": -0.7
+      "price": 95.13,
+      "change_pct": -0.74
     },
     {
       "label": "NatGas",
       "price": 3.15,
-      "change_pct": -2.48
+      "change_pct": -2.6
     }
   ]
 }
