@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-16T13:08:05+00:00",
-  "as_of_local": "2026-11-16 13:08:05 UTC",
+  "as_of_utc": "2026-11-16T13:10:15+00:00",
+  "as_of_local": "2026-11-16 13:10:15 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "NEE"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -127,6 +125,12 @@
       "market_cap": 199000977922.49442,
       "headlines": [
         {
+          "title": "5 High-Yield Oil Stocks Paying Retirees Over 4%",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/5-high-yield-oil-stocks-120052002.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-16T12:00:52Z"
+        },
+        {
           "title": "This Spanish Oil Stock Is Beating Exxon and Chevron. Wall Street Sees More Upside.",
           "url": "https://www.barrons.com/articles/repsol-oil-stock-beating-exxon-and-chevron-wall-street-sees-more-upside-597252ad?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
@@ -137,12 +141,34 @@
           "url": "https://finance.yahoo.com/energy/articles/totalenergies-energy-transfer-only-one-174130464.html",
           "publisher": "TIKR",
           "published": "2026-11-13T17:41:30Z"
+        }
+      ]
+    },
+    {
+      "symbol": "NEE",
+      "name": "NextEra Energy",
+      "price": 85.12,
+      "previous_close": 85.29,
+      "change_pct": -0.2,
+      "market_cap": 178522696651.3031,
+      "headlines": [
+        {
+          "title": "ETFs Are Net Sellers of NextEra Energy Units (NEE) on Thursday",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-nextera-energy-110231755.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-16T11:02:31Z"
         },
         {
-          "title": "Bristol Myers Squibb or TotalEnergies: The One Dividend Stock I\u2019d Hold for the Next 20 Years",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bristol-myers-squibb-totalenergies-one-174104807.html",
-          "publisher": "TIKR",
-          "published": "2026-11-13T17:41:04Z"
+          "title": "Why Investors Should Own Businesses That Can Win Under Any Administration",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-investors-own-businesses-win-203500535.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-15T20:35:00Z"
+        },
+        {
+          "title": "Retirees Should Put These 4 High-Yield Utility Stocks on Their Buy List for Next Week",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/retirees-put-4-high-yield-150050151.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-14T15:00:50Z"
         }
       ]
     },
@@ -211,6 +237,12 @@
       "market_cap": 117707303254.96661,
       "headlines": [
         {
+          "title": "5 High-Yield Oil Stocks Paying Retirees Over 4%",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/5-high-yield-oil-stocks-120052002.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-16T12:00:52Z"
+        },
+        {
           "title": "This Spanish Oil Stock Is Beating Exxon and Chevron. Wall Street Sees More Upside.",
           "url": "https://www.barrons.com/articles/repsol-oil-stock-beating-exxon-and-chevron-wall-street-sees-more-upside-597252ad?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
@@ -221,12 +253,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/earnings-guidance-impact-bp-stock-210955198.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-13T21:09:55Z"
-        },
-        {
-          "title": "Market Chatter: Enbridge's Woodfibre LNG Project to Receive $140 Million From Canadian Government",
-          "url": "https://finance.yahoo.com/energy/articles/market-chatter-enbridge-apos-woodfibre-121312211.html",
-          "publisher": "MT Newswires",
-          "published": "2026-11-13T12:13:12Z"
         }
       ]
     },
@@ -637,16 +663,16 @@
           "published": "2026-11-15T15:33:00Z"
         },
         {
+          "title": "How Retirees Can Turn $175,000 Into Passive Income With These 4 Dividend Stocks",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/retirees-turn-175-000-passive-123052455.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-15T12:30:52Z"
+        },
+        {
           "title": "MarketBeat Week in Review \u2013 11/9 - 11/13",
           "url": "https://finance.yahoo.com/markets/stocks/articles/marketbeat-week-review-11-9-120000936.html",
           "publisher": "MarketBeat",
           "published": "2026-11-14T12:00:00Z"
-        },
-        {
-          "title": "Can Williams Afford Its Spending Bill?",
-          "url": "https://finance.yahoo.com/energy/articles/williams-afford-spending-bill-135216299.html",
-          "publisher": "Trefis",
-          "published": "2026-11-12T13:52:16Z"
         }
       ]
     },
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 87.53,
-      "change_pct": -1.16
+      "price": 87.61,
+      "change_pct": -1.07
     },
     {
       "label": "Brent",
-      "price": 94.43,
-      "change_pct": -1.47
+      "price": 94.49,
+      "change_pct": -1.41
     },
     {
       "label": "NatGas",
       "price": 3.16,
-      "change_pct": -2.17
+      "change_pct": -2.14
     }
   ]
 }
