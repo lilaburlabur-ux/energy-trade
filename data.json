@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-16T14:11:17+00:00",
-  "as_of_local": "2026-11-16 14:11:17 UTC",
+  "as_of_utc": "2026-11-16T14:16:41+00:00",
+  "as_of_local": "2026-11-16 14:16:41 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "SEDG"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -797,6 +799,12 @@
       "market_cap": 58743816268.75,
       "headlines": [
         {
+          "title": "Occidental Petroleum Corporation (OXY) Is a Trending Stock: Facts to Know Before Betting on It",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/occidental-petroleum-corporation-oxy-trending-130002086.html",
+          "publisher": "Zacks",
+          "published": "2026-11-16T13:00:02Z"
+        },
+        {
           "title": "Earnings week scorecard: beats rewarded selectively as AI-infrastructure names pull back",
           "url": "https://finance.yahoo.com/markets/stocks/articles/earnings-week-scorecard-beats-rewarded-203315112.html",
           "publisher": "Investing.com",
@@ -807,12 +815,6 @@
           "url": "https://finance.yahoo.com/energy/articles/why-pay-attention-occidental-petroleum-194848133.html",
           "publisher": "Trefis",
           "published": "2026-11-13T19:48:48Z"
-        },
-        {
-          "title": "Amazon Joins Goldman Sachs\u2019 Conviction List Alongside 4 Other Stock Picks",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-joins-goldman-sachs-conviction-154219158.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-13T15:42:19Z"
         }
       ]
     },
@@ -1329,6 +1331,12 @@
       "market_cap": 17296127589.17746,
       "headlines": [
         {
+          "title": "DK vs. DINO: Which Refining Stock Has the Edge After Q3 Earnings?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/dk-vs-dino-refining-stock-125500963.html",
+          "publisher": "Zacks",
+          "published": "2026-11-16T12:55:00Z"
+        },
+        {
           "title": "Can HF Sinclair Capitalize on Tight Global Refined Product Supplies?",
           "url": "https://finance.yahoo.com/energy/articles/hf-sinclair-capitalize-tight-global-172800044.html",
           "publisher": "Zacks",
@@ -1339,12 +1347,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/replenish-portfolio-5-low-price-153700808.html",
           "publisher": "Zacks",
           "published": "2026-11-11T15:37:00Z"
-        },
-        {
-          "title": "The Zacks Analyst Blog Highlights Quanta, BrightSpring Health, Phillips 66, Valero Energy and HF Sinclair",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-quanta-064100733.html",
-          "publisher": "Zacks",
-          "published": "2026-11-11T06:41:00Z"
         }
       ]
     },
@@ -1797,34 +1799,6 @@
       ]
     },
     {
-      "symbol": "SEDG",
-      "name": "SolarEdge",
-      "price": 23.85,
-      "previous_close": 24.29,
-      "change_pct": -1.81,
-      "market_cap": 1476658487.4684696,
-      "headlines": [
-        {
-          "title": "SolarEdge Technologies (SEDG) Looks Cheap After Yield Pressure Clouds A Tariff Helped Beat",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/solaredge-technologies-sedg-looks-cheap-211107654.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-13T21:11:07Z"
-        },
-        {
-          "title": "How Low Can First Solar Stock Go?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/low-first-solar-stock-175441142.html",
-          "publisher": "Trefis",
-          "published": "2026-11-13T17:54:41Z"
-        },
-        {
-          "title": "What Changed In First Solar's Story?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/changed-first-solars-story-121251483.html",
-          "publisher": "Trefis",
-          "published": "2026-11-13T12:12:51Z"
-        }
-      ]
-    },
-    {
       "symbol": "ARRY",
       "name": "Array Technologies",
       "price": 4.84,
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 87.7,
-      "change_pct": -0.97
+      "price": 87.29,
+      "change_pct": -1.43
     },
     {
       "label": "Brent",
-      "price": 94.36,
-      "change_pct": -1.54
+      "price": 94.02,
+      "change_pct": -1.9
     },
     {
       "label": "NatGas",
-      "price": 3.15,
-      "change_pct": -2.41
+      "price": 3.16,
+      "change_pct": -2.04
     }
   ]
 }
