@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-16T21:26:00+00:00",
-  "as_of_local": "2026-11-16 21:26:00 UTC",
+  "as_of_utc": "2026-11-16T21:29:21+00:00",
+  "as_of_local": "2026-11-16 21:29:21 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -909,6 +909,12 @@
       "market_cap": 52414017465.010956,
       "headlines": [
         {
+          "title": "S&P 500 Tumbles 1.9%. It\u2019s Not Just AI.",
+          "url": "https://www.barrons.com/livecoverage/stock-market-news-today-111626/card/s-p-500-tumbles-1-9-it-s-not-just-ai--FDvmQloAfOi6OQeFoldW?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-11-16T21:03:20Z"
+        },
+        {
           "title": "Bloom Energy Is Down 26% in a Month. What Will It Take to Get BE Stock Back to $250?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-down-26-month-201107307.html",
           "publisher": "24/7 Wall St.",
@@ -919,12 +925,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/stock-falls-overnight-retail-flags-065444592.html",
           "publisher": "Stocktwits",
           "published": "2026-11-16T06:54:44Z"
-        },
-        {
-          "title": "Bloom Energy Is Down 43% From Its High. Should You Buy the Dip?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-down-43-high-111302895.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-15T11:13:02Z"
         }
       ]
     },
@@ -2109,19 +2109,14 @@
   },
   "tape": [
     {
-      "label": "SPX",
-      "price": 7416.59,
-      "change_pct": -1.92
-    },
-    {
       "label": "WTI",
-      "price": 85.37,
-      "change_pct": -3.6
+      "price": 85.39,
+      "change_pct": -3.58
     },
     {
       "label": "Brent",
-      "price": 92.16,
-      "change_pct": -3.84
+      "price": 92.19,
+      "change_pct": -3.81
     },
     {
       "label": "NatGas",
