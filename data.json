@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-16T03:52:14+00:00",
-  "as_of_local": "2026-11-16 03:52:14 UTC",
+  "as_of_utc": "2026-11-16T04:07:11+00:00",
+  "as_of_local": "2026-11-16 04:07:11 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "FTI"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1153,34 +1155,6 @@
       ]
     },
     {
-      "symbol": "FTI",
-      "name": "TechnipFMC",
-      "price": 66.26,
-      "previous_close": 64.92,
-      "change_pct": 2.06,
-      "market_cap": 25764098336.59764,
-      "headlines": [
-        {
-          "title": "What State Street SPDR S&P MidCap 400 ETF (MDY) Sold: TechnipFMC Leads on Nov. 11",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/state-street-spdr-p-midcap-110340208.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-13T11:03:40Z"
-        },
-        {
-          "title": "What iShares S&P Mid-Cap 400 Growth ETF (IJK) Bought: FTI Leads on Tuesday",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-p-mid-cap-400-110524030.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-12T11:05:24Z"
-        },
-        {
-          "title": "iShares Core S&P Mid-Cap (IJH) Adds TechnipFMC and United Therapeutics on Tuesday",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-core-p-mid-cap-110419915.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-12T11:04:19Z"
-        }
-      ]
-    },
-    {
       "symbol": "HUBB",
       "name": "Hubbell",
       "price": 436.98,
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 87.93,
-      "change_pct": -0.71
+      "price": 88.16,
+      "change_pct": -0.45
     },
     {
       "label": "Brent",
-      "price": 94.84,
-      "change_pct": -1.04
+      "price": 95.11,
+      "change_pct": -0.76
     },
     {
       "label": "NatGas",
       "price": 3.16,
-      "change_pct": -2.23
+      "change_pct": -2.17
     }
   ]
 }
