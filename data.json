@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-16T22:00:04+00:00",
-  "as_of_local": "2026-11-16 22:00:04 UTC",
+  "as_of_utc": "2026-11-16T22:04:52+00:00",
+  "as_of_local": "2026-11-16 22:04:52 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -69,16 +69,16 @@
       "market_cap": 276191846286.0758,
       "headlines": [
         {
+          "title": "Energy & Utilities Roundup: Market Talk",
+          "url": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-02dc2fa2?siteid=yhoof2&yptr=yahoo",
+          "publisher": "The Wall Street Journal",
+          "published": "2026-11-16T21:55:00Z"
+        },
+        {
           "title": "Shell vs. BP: One Oil Giant Offers a Higher Yield, but the Other Has a Safer Dividend",
           "url": "https://finance.yahoo.com/energy/articles/shell-vs-bp-one-oil-181731277.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-16T18:17:31Z"
-        },
-        {
-          "title": "Energy & Utilities Roundup: Market Talk",
-          "url": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-02dc2fa2?siteid=yhoof2&yptr=yahoo",
-          "publisher": "The Wall Street Journal",
-          "published": "2026-11-16T17:24:00Z"
         },
         {
           "title": "Shell Starts Mina West Gas Production to Boost Egypt's Supply",
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 85.17,
-      "change_pct": -3.83
+      "price": 85.12,
+      "change_pct": -3.88
     },
     {
       "label": "Brent",
-      "price": 91.83,
-      "change_pct": -4.18
+      "price": 91.86,
+      "change_pct": -4.15
     },
     {
       "label": "NatGas",
       "price": 3.12,
-      "change_pct": -3.25
+      "change_pct": -3.34
     }
   ]
 }
