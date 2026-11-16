@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-16T08:20:36+00:00",
-  "as_of_local": "2026-11-16 08:20:36 UTC",
+  "as_of_utc": "2026-11-16T08:25:35+00:00",
+  "as_of_local": "2026-11-16 08:25:35 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "WFRD"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -69,6 +71,12 @@
       "market_cap": 280064362830.34845,
       "headlines": [
         {
+          "title": "Shell begins gas production at Mina West field in Mediterranean",
+          "url": "https://finance.yahoo.com/news/shell-begins-gas-production-mina-080535998.html",
+          "publisher": "Offshore Technology",
+          "published": "2026-11-16T08:05:35Z"
+        },
+        {
           "title": "Shell or Eversource: Only One Gets My Dividend Dollars for the Next 20 Years",
           "url": "https://finance.yahoo.com/markets/stocks/articles/shell-eversource-only-one-gets-030018653.html",
           "publisher": "TIKR",
@@ -79,12 +87,6 @@
           "url": "https://www.barrons.com/articles/lng-prices-europe-venture-global-woodside-stocks-9946520c?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
           "published": "2026-11-13T20:18:00Z"
-        },
-        {
-          "title": "Production at Jackdaw in North Sea to start within days",
-          "url": "https://finance.yahoo.com/news/drilling-jackdaw-north-sea-start-164323641.html",
-          "publisher": "The Telegraph",
-          "published": "2026-11-13T16:43:23Z"
         }
       ]
     },
@@ -1545,34 +1547,6 @@
       ]
     },
     {
-      "symbol": "WFRD",
-      "name": "Weatherford",
-      "price": 86.45,
-      "previous_close": 85.51,
-      "change_pct": 1.1,
-      "market_cap": 6265055830.638245,
-      "headlines": [
-        {
-          "title": "Here\u2019s What Supports Weatherford International\u2019s (WFRD) Multiyear Profit Cycle Growth",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/supports-weatherford-international-wfrd-multiyear-162245266.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-11-12T16:22:45Z"
-        },
-        {
-          "title": "Why Is Baker Hughes Stock Falling?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-baker-hughes-stock-falling-141921435.html",
-          "publisher": "Trefis",
-          "published": "2026-11-06T14:19:21Z"
-        },
-        {
-          "title": "Should Jun\u00edn 5 Support Work Require Action From Weatherford International (WFRD) Investors?",
-          "url": "https://finance.yahoo.com/energy/articles/jun-n-5-support-require-131419197.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-10-30T13:14:19Z"
-        }
-      ]
-    },
-    {
       "symbol": "NXE",
       "name": "NexGen Energy",
       "price": 7.76,
@@ -1777,6 +1751,12 @@
       "market_cap": 1745216151.8295364,
       "headlines": [
         {
+          "title": "Sovereign Metals hires former Base Resources boss to build Kasiya",
+          "url": "https://finance.yahoo.com/markets/commodities/articles/sovereign-metals-hires-former-resources-071600720.html",
+          "publisher": "Proactive",
+          "published": "2026-11-16T07:16:00Z"
+        },
+        {
           "title": "Sovereign Metals appoints African mine-builder Tim Carstens to lead Kasiya development",
           "url": "https://finance.yahoo.com/energy/articles/sovereign-metals-appoints-african-mine-230800843.html",
           "publisher": "Proactive",
@@ -1787,12 +1767,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/3-canadian-growth-stocks-earnings-190835440.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-15T19:08:35Z"
-        },
-        {
-          "title": "3 Canadian Growth Stocks To Own In November 2026",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-canadian-growth-stocks-own-201055368.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-13T20:10:55Z"
         }
       ]
     },
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 88.88,
-      "change_pct": 0.36
+      "price": 88.99,
+      "change_pct": 0.49
     },
     {
       "label": "Brent",
-      "price": 96.08,
-      "change_pct": 0.25
+      "price": 96.12,
+      "change_pct": 0.29
     },
     {
       "label": "NatGas",
       "price": 3.12,
-      "change_pct": -3.47
+      "change_pct": -3.44
     }
   ]
 }
