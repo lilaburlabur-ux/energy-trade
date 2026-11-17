@@ -4,7 +4,7 @@ Signed file: `OVV.research.17.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $63.94 (2026-11-17, ~15-min delayed) |
+| Current price | $63.95 (2026-11-17, ~15-min delayed) |
 | Market cap | $17.18B |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
@@ -15,8 +15,8 @@ Signed file: `OVV.research.17.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +67.10%; price +9.13% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -11.95% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +67.11%; price +9.13% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -11.94% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 13.13%, revenue growth 26.60%. |
 | Value attractiveness | Reasonable | Forward P/E 7.22, EV/Sales 2.19. |
 | Risk level | Elevated | Beta 0.56, ATR 3.4% of price, short float 4.65%. |
@@ -44,11 +44,11 @@ Ovintiv Inc., together with its subsidiaries, operates as an oil and natural gas
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $63.94; 52w high $72.62 (-11.95%); 52w low $36.42 (+75.59%) |
-| Trend | +9.13% vs SMA200, -0.87% vs SMA50, -4.04% vs SMA20 |
+| Price vs 52-week range | Close $63.95; 52w high $72.62 (-11.94%); 52w low $36.42 (+75.60%) |
+| Trend | +9.13% vs SMA200, -0.87% vs SMA50, -4.03% vs SMA20 |
 | Momentum | RSI(14) 46.1 (neutral) |
 | Volatility | ATR(14) 2.17 (~3.4% of price); beta 0.56 |
-| Setup perspective | -11.95% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -11.94% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
@@ -110,12 +110,12 @@ Ovintiv Inc., together with its subsidiaries, operates as an oil and natural gas
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $63.94 | EV/Sales | 2.19 |
+| Price | $63.95 | EV/Sales | 2.19 |
 | Market cap | $17.18B | EV/EBITDA | 4.13 |
 | Beta | 0.56 | Gross margin | 55.81% |
 | RSI(14) | 46.1 | Operating margin | 31.41% |
 | ATR(14) | 2.17 | Profit margin | 13.13% |
-| SMA20 dist | -4.04% | ROA | 10.13% |
+| SMA20 dist | -4.03% | ROA | 10.13% |
 | SMA50 dist | -0.87% | ROE | 12.10% |
 | SMA200 dist | +9.13% | Revenue (ttm) | $10.06B |
 | 52W high | $72.62 | Revenue growth y/y | 26.60% |

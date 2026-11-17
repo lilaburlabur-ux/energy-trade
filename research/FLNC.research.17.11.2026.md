@@ -4,8 +4,8 @@ Signed file: `FLNC.research.17.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $4.10 (2026-11-17, ~15-min delayed) |
-| Market cap | $798.12M |
+| Current price | $4.11 (2026-11-17, ~15-min delayed) |
+| Market cap | $799.09M |
 | Sector / Industry | Industrials / Electrical Equipment & Parts |
 | Main theme | Electrical Equipment & Parts — see catalysts below |
 | Current stance | Low technical momentum, weak fundamentals, value: reasonable, risk: high. |
@@ -15,10 +15,10 @@ Signed file: `FLNC.research.17.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-70.90%) with negative half-year (-77.11%). |
-| Fresh setup quality | Poor / broken | -87.28% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-70.87%) with negative half-year (-77.08%). |
+| Fresh setup quality | Poor / broken | -87.26% from 52w high — base needs to rebuild. |
 | Fundamental quality | Weak | Negative profit margin (-3.07%). |
-| Value attractiveness | Reasonable | Forward P/E -7.73, EV/Sales 0.28. |
+| Value attractiveness | Reasonable | Forward P/E -7.74, EV/Sales 0.28. |
 | Risk level | High | Beta 2.79, ATR 11.8% of price, short float 49.11%. |
 
 **Bottom line:** Low technical momentum, weak fundamentals, value: reasonable, risk: high.
@@ -44,18 +44,18 @@ Fluence Energy, Inc., through its subsidiaries, provides energy storage and opti
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $4.10; 52w high $32.23 (-87.28%); 52w low $4.10 (+0.00%) |
-| Trend | -70.90% vs SMA200, -39.29% vs SMA50, -23.46% vs SMA20 |
+| Price vs 52-week range | Close $4.11; 52w high $32.23 (-87.26%); 52w low $4.11 (+0.00%) |
+| Trend | -70.87% vs SMA200, -39.21% vs SMA50, -23.37% vs SMA20 |
 | Momentum | RSI(14) 29.5 (oversold) |
 | Volatility | ATR(14) 0.48 (~11.8% of price); beta 2.79 |
-| Setup perspective | -87.28% from 52w high — base needs to rebuild. |
+| Setup perspective | -87.26% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -16.5% |
-| Month | -30.0% |
+| Week | -16.4% |
+| Month | -29.9% |
 | Quarter | -66.0% |
 | Half Y | -77.1% |
 | 1Y | -77.1% |
@@ -68,7 +68,7 @@ Fluence Energy, Inc., through its subsidiaries, provides energy storage and opti
 | Revenue (ttm) | $2.63B | Revenue growth 7.90% y/y |
 | Profitability | Gross 9.36%, operating -4.21%, net -3.07% | ROA -2.95%, ROE -23.54% |
 | Balance sheet | Cash $339.33M, debt $413.16M | Current ratio 1.34, debt/equity 95.81 |
-| Valuation | P/E —, forward P/E -7.73, P/S 0.30, P/B 1.57 | EV/Sales 0.28, EV/EBITDA -9.57 |
+| Valuation | P/E —, forward P/E -7.74, P/S 0.30, P/B 1.57 | EV/Sales 0.28, EV/EBITDA -9.57 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $7.95 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -113,18 +113,18 @@ Fluence Energy, Inc., through its subsidiaries, provides energy storage and opti
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $4.10 | EV/Sales | 0.28 |
-| Market cap | $798.12M | EV/EBITDA | -9.57 |
+| Price | $4.11 | EV/Sales | 0.28 |
+| Market cap | $799.09M | EV/EBITDA | -9.57 |
 | Beta | 2.79 | Gross margin | 9.36% |
 | RSI(14) | 29.5 | Operating margin | -4.21% |
 | ATR(14) | 0.48 | Profit margin | -3.07% |
-| SMA20 dist | -23.46% | ROA | -2.95% |
-| SMA50 dist | -39.29% | ROE | -23.54% |
-| SMA200 dist | -70.90% | Revenue (ttm) | $2.63B |
+| SMA20 dist | -23.37% | ROA | -2.95% |
+| SMA50 dist | -39.21% | ROE | -23.54% |
+| SMA200 dist | -70.87% | Revenue (ttm) | $2.63B |
 | 52W high | $32.23 | Revenue growth y/y | 7.90% |
-| 52W low | $4.10 | Inst. ownership | 80.98% |
+| 52W low | $4.11 | Inst. ownership | 80.98% |
 | P/E (ttm) | — | Insider ownership | 14.42% |
-| Forward P/E | -7.73 | Short float | 49.11% |
+| Forward P/E | -7.74 | Short float | 49.11% |
 | PEG (trailing) | — | Avg volume | 7,106,776 |
 | P/S | 0.30 | Employees | 1,670 |
 | P/B | 1.57 | Analyst rec (1=buy..5=sell) | 3.0 |

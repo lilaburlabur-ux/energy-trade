@@ -4,7 +4,7 @@ Signed file: `RUN.research.17.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $7.82 (2026-11-17, ~15-min delayed) |
+| Current price | $7.80 (2026-11-17, ~15-min delayed) |
 | Market cap | $1.89B |
 | Sector / Industry | Technology / Solar |
 | Main theme | Solar — see catalysts below |
@@ -15,10 +15,10 @@ Signed file: `RUN.research.17.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-33.84%) with negative half-year (-40.66%). |
-| Fresh setup quality | Poor / broken | -63.50% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-34.01%) with negative half-year (-40.81%). |
+| Fresh setup quality | Poor / broken | -63.59% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 14.01%, revenue growth 51.70%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 34.30, EV/Sales 4.76. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 34.21, EV/Sales 4.76. |
 | Risk level | High | Beta 2.32, ATR 8.0% of price, short float 35.14%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: fair-to-demanding, risk: high.
@@ -44,22 +44,22 @@ Sunrun Inc. designs, develops, installs, sells, owns, and maintains residential 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $7.82; 52w high $21.41 (-63.50%); 52w low $6.89 (+13.43%) |
-| Trend | -33.84% vs SMA200, -3.63% vs SMA50, -6.18% vs SMA20 |
-| Momentum | RSI(14) 44.1 (neutral) |
+| Price vs 52-week range | Close $7.80; 52w high $21.41 (-63.59%); 52w low $6.89 (+13.13%) |
+| Trend | -34.01% vs SMA200, -3.87% vs SMA50, -6.41% vs SMA20 |
+| Momentum | RSI(14) 44.0 (neutral) |
 | Volatility | ATR(14) 0.63 (~8.0% of price); beta 2.32 |
-| Setup perspective | -63.50% from 52w high — base needs to rebuild. |
+| Setup perspective | -63.59% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -10.3% |
-| Month | +13.4% |
-| Quarter | -20.3% |
-| Half Y | -40.7% |
-| 1Y | -58.1% |
-| YTD | -59.8% |
+| Week | -10.5% |
+| Month | +13.1% |
+| Quarter | -20.5% |
+| Half Y | -40.8% |
+| 1Y | -58.2% |
+| YTD | -59.9% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Sunrun Inc. designs, develops, installs, sells, owns, and maintains residential 
 | Revenue (ttm) | $3.85B | Revenue growth 51.70% y/y |
 | Profitability | Gross 37.73%, operating 6.29%, net 14.01% | ROA 0.65%, ROE -11.81% |
 | Balance sheet | Cash $734.53M, debt $15.34B | Current ratio 1.52, debt/equity 283.43 |
-| Valuation | P/E 3.95, forward P/E 34.30, P/S 0.49, P/B 0.51 | EV/Sales 4.76, EV/EBITDA 18.24 |
+| Valuation | P/E 3.94, forward P/E 34.21, P/S 0.49, P/B 0.51 | EV/Sales 4.76, EV/EBITDA 18.24 |
 | Growth expectations | Earnings growth 772.80%, EPS q/q 823.80% | Analyst mean target $13.59 (17 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ Sunrun Inc. designs, develops, installs, sells, owns, and maintains residential 
 | Invesco Ltd. | 6,984,605 | 2.89% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 34.30, EV/Sales 4.76. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 34.21, EV/Sales 4.76. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 2.32, ATR 8.0% of price, short float 35.14%. Size positions accordingly.
 - **Short interest risk:** short float 35.14% can fuel squeezes both ways around news.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
@@ -113,18 +113,18 @@ Sunrun Inc. designs, develops, installs, sells, owns, and maintains residential 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $7.82 | EV/Sales | 4.76 |
+| Price | $7.80 | EV/Sales | 4.76 |
 | Market cap | $1.89B | EV/EBITDA | 18.24 |
 | Beta | 2.32 | Gross margin | 37.73% |
-| RSI(14) | 44.1 | Operating margin | 6.29% |
+| RSI(14) | 44.0 | Operating margin | 6.29% |
 | ATR(14) | 0.63 | Profit margin | 14.01% |
-| SMA20 dist | -6.18% | ROA | 0.65% |
-| SMA50 dist | -3.63% | ROE | -11.81% |
-| SMA200 dist | -33.84% | Revenue (ttm) | $3.85B |
+| SMA20 dist | -6.41% | ROA | 0.65% |
+| SMA50 dist | -3.87% | ROE | -11.81% |
+| SMA200 dist | -34.01% | Revenue (ttm) | $3.85B |
 | 52W high | $21.41 | Revenue growth y/y | 51.70% |
 | 52W low | $6.89 | Inst. ownership | 107.16% |
-| P/E (ttm) | 3.95 | Insider ownership | 2.75% |
-| Forward P/E | 34.30 | Short float | 35.14% |
+| P/E (ttm) | 3.94 | Insider ownership | 2.75% |
+| Forward P/E | 34.21 | Short float | 35.14% |
 | PEG (trailing) | — | Avg volume | 9,225,665 |
 | P/S | 0.49 | Employees | 9,059 |
 | P/B | 0.51 | Analyst rec (1=buy..5=sell) | 2.0 |

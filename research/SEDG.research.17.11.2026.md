@@ -4,7 +4,7 @@ Signed file: `SEDG.research.17.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $22.15 (2026-11-17, ~15-min delayed) |
+| Current price | $22.12 (2026-11-17, ~15-min delayed) |
 | Market cap | $1.37B |
 | Sector / Industry | Technology / Solar |
 | Main theme | Solar — see catalysts below |
@@ -15,10 +15,10 @@ Signed file: `SEDG.research.17.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-47.13%) with negative half-year (-59.38%). |
-| Fresh setup quality | Poor / broken | -71.79% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-47.19%) with negative half-year (-59.43%). |
+| Fresh setup quality | Poor / broken | -71.82% from 52w high — base needs to rebuild. |
 | Fundamental quality | Weak | Negative profit margin (-17.34%). |
-| Value attractiveness | Reasonable | Forward P/E -928.33, EV/Sales 0.98. |
+| Value attractiveness | Reasonable | Forward P/E -153.80, EV/Sales 0.98. |
 | Risk level | High | Beta 1.30, ATR 10.4% of price, short float 19.02%. |
 
 **Bottom line:** Low technical momentum, weak fundamentals, value: reasonable, risk: high.
@@ -44,18 +44,18 @@ SolarEdge Technologies, Inc., together with its subsidiaries, operates as an ene
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $22.15; 52w high $78.51 (-71.79%); 52w low $22.15 (+0.00%) |
-| Trend | -47.13% vs SMA200, -29.55% vs SMA50, -22.81% vs SMA20 |
-| Momentum | RSI(14) 30.1 (neutral) |
+| Price vs 52-week range | Close $22.12; 52w high $78.51 (-71.82%); 52w low $22.12 (+0.00%) |
+| Trend | -47.19% vs SMA200, -29.63% vs SMA50, -22.89% vs SMA20 |
+| Momentum | RSI(14) 30.0 (neutral) |
 | Volatility | ATR(14) 2.30 (~10.4% of price); beta 1.30 |
-| Setup perspective | -71.79% from 52w high — base needs to rebuild. |
+| Setup perspective | -71.82% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -14.3% |
-| Month | -28.7% |
+| Week | -14.4% |
+| Month | -28.8% |
 | Quarter | -32.1% |
 | Half Y | -59.4% |
 | 1Y | -38.8% |
@@ -68,7 +68,7 @@ SolarEdge Technologies, Inc., together with its subsidiaries, operates as an ene
 | Revenue (ttm) | $1.32B | Revenue growth -4.10% y/y |
 | Profitability | Gross 21.49%, operating -11.01%, net -17.34% | ROA -4.03%, ROE -50.64% |
 | Balance sheet | Cash $555.08M, debt $403.18M | Current ratio 2.12, debt/equity 95.26 |
-| Valuation | P/E —, forward P/E -928.33, P/S 1.04, P/B 3.24 | EV/Sales 0.98, EV/EBITDA -10.66 |
+| Valuation | P/E —, forward P/E -153.80, P/S 1.04, P/B 3.24 | EV/Sales 0.98, EV/EBITDA -10.66 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $29.89 (18 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -113,18 +113,18 @@ SolarEdge Technologies, Inc., together with its subsidiaries, operates as an ene
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $22.15 | EV/Sales | 0.98 |
+| Price | $22.12 | EV/Sales | 0.98 |
 | Market cap | $1.37B | EV/EBITDA | -10.66 |
 | Beta | 1.30 | Gross margin | 21.49% |
-| RSI(14) | 30.1 | Operating margin | -11.01% |
+| RSI(14) | 30.0 | Operating margin | -11.01% |
 | ATR(14) | 2.30 | Profit margin | -17.34% |
-| SMA20 dist | -22.81% | ROA | -4.03% |
-| SMA50 dist | -29.55% | ROE | -50.64% |
-| SMA200 dist | -47.13% | Revenue (ttm) | $1.32B |
+| SMA20 dist | -22.89% | ROA | -4.03% |
+| SMA50 dist | -29.63% | ROE | -50.64% |
+| SMA200 dist | -47.19% | Revenue (ttm) | $1.32B |
 | 52W high | $78.51 | Revenue growth y/y | -4.10% |
-| 52W low | $22.15 | Inst. ownership | 93.71% |
+| 52W low | $22.12 | Inst. ownership | 93.71% |
 | P/E (ttm) | — | Insider ownership | 1.11% |
-| Forward P/E | -928.33 | Short float | 19.02% |
+| Forward P/E | -153.80 | Short float | 19.02% |
 | PEG (trailing) | — | Avg volume | 2,998,907 |
 | P/S | 1.04 | Employees | 3,576 |
 | P/B | 3.24 | Analyst rec (1=buy..5=sell) | 3.1 |

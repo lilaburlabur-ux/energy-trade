@@ -4,8 +4,8 @@ Signed file: `NEE.research.17.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $84.75 (2026-11-17, ~15-min delayed) |
-| Market cap | $177.74B |
+| Current price | $84.85 (2026-11-17, ~15-min delayed) |
+| Market cap | $177.96B |
 | Sector / Industry | Utilities / Utilities - Regulated Electric |
 | Main theme | Utilities - Regulated Electric — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,10 +15,10 @@ Signed file: `NEE.research.17.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-2.07%) with negative half-year (-4.50%). |
-| Fresh setup quality | Moderate / wait | -12.13% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-1.95%) with negative half-year (-4.38%). |
+| Fresh setup quality | Moderate / wait | -12.02% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 40.37%, revenue growth 1.60%. |
-| Value attractiveness | Reasonable | Forward P/E 19.37, EV/Sales 10.41. |
+| Value attractiveness | Reasonable | Forward P/E 19.39, EV/Sales 10.41. |
 | Risk level | Moderate | Beta 0.60, ATR 1.9% of price, short float 0.00%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -44,22 +44,22 @@ NextEra Energy, Inc., through its subsidiaries, generates, stores, transmits, di
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $84.75; 52w high $96.44 (-12.13%); 52w low $75.49 (+12.26%) |
-| Trend | -2.07% vs SMA200, +4.80% vs SMA50, +0.51% vs SMA20 |
-| Momentum | RSI(14) 55.7 (neutral) |
+| Price vs 52-week range | Close $84.85; 52w high $96.44 (-12.02%); 52w low $75.49 (+12.40%) |
+| Trend | -1.95% vs SMA200, +4.93% vs SMA50, +0.63% vs SMA20 |
+| Momentum | RSI(14) 56.2 (neutral) |
 | Volatility | ATR(14) 1.64 (~1.9% of price); beta 0.60 |
-| Setup perspective | -12.13% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -12.02% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -1.8% |
-| Month | +8.4% |
-| Quarter | -0.6% |
-| Half Y | -4.5% |
-| 1Y | +3.9% |
-| YTD | +7.0% |
+| Week | -1.6% |
+| Month | +8.5% |
+| Quarter | -0.5% |
+| Half Y | -4.4% |
+| 1Y | +4.1% |
+| YTD | +7.1% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ NextEra Energy, Inc., through its subsidiaries, generates, stores, transmits, di
 | Revenue (ttm) | $28.82B | Revenue growth 1.60% y/y |
 | Profitability | Gross 60.17%, operating 30.03%, net 40.37% | ROA 2.41%, ROE 14.06% |
 | Balance sheet | Cash $5.58B, debt $113.93B | Current ratio 0.53, debt/equity 153.25 |
-| Valuation | P/E 15.27, forward P/E 19.37, P/S 6.17, P/B 2.89 | EV/Sales 10.41, EV/EBITDA 22.40 |
+| Valuation | P/E 15.29, forward P/E 19.39, P/S 6.17, P/B 2.89 | EV/Sales 10.41, EV/EBITDA 22.40 |
 | Growth expectations | Earnings growth 93.20%, EPS q/q 95.90% | Analyst mean target $94.11 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -109,18 +109,18 @@ NextEra Energy, Inc., through its subsidiaries, generates, stores, transmits, di
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $84.75 | EV/Sales | 10.41 |
-| Market cap | $177.74B | EV/EBITDA | 22.40 |
+| Price | $84.85 | EV/Sales | 10.41 |
+| Market cap | $177.96B | EV/EBITDA | 22.40 |
 | Beta | 0.60 | Gross margin | 60.17% |
-| RSI(14) | 55.7 | Operating margin | 30.03% |
+| RSI(14) | 56.2 | Operating margin | 30.03% |
 | ATR(14) | 1.64 | Profit margin | 40.37% |
-| SMA20 dist | +0.51% | ROA | 2.41% |
-| SMA50 dist | +4.80% | ROE | 14.06% |
-| SMA200 dist | -2.07% | Revenue (ttm) | $28.82B |
+| SMA20 dist | +0.63% | ROA | 2.41% |
+| SMA50 dist | +4.93% | ROE | 14.06% |
+| SMA200 dist | -1.95% | Revenue (ttm) | $28.82B |
 | 52W high | $96.44 | Revenue growth y/y | 1.60% |
 | 52W low | $75.49 | Inst. ownership | 87.58% |
-| P/E (ttm) | 15.27 | Insider ownership | 0.25% |
-| Forward P/E | 19.37 | Short float | 0.00% |
+| P/E (ttm) | 15.29 | Insider ownership | 0.25% |
+| Forward P/E | 19.39 | Short float | 0.00% |
 | PEG (trailing) | 1.74 | Avg volume | 12,305,775 |
 | P/S | 6.17 | Employees | 17,400 |
 | P/B | 2.89 | Analyst rec (1=buy..5=sell) | 1.9 |

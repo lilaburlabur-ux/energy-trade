@@ -4,8 +4,8 @@ Signed file: `TTE.research.17.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $90.05 (2026-11-17, ~15-min delayed) |
-| Market cap | $197.49B |
+| Current price | $90.07 (2026-11-17, ~15-min delayed) |
+| Market cap | $197.53B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,8 +15,8 @@ Signed file: `TTE.research.17.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +42.97%; price +5.28% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -5.54% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +43.00%; price +5.30% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -5.52% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 10.46%, revenue growth 41.10%. |
 | Value attractiveness | Reasonable | Forward P/E 7.42, EV/Sales 1.06. |
 | Risk level | Moderate | Beta 0.04, ATR 1.8% of price, short float 0.19%. |
@@ -44,11 +44,11 @@ TotalEnergies SE, an integrated energy company, produces and markets oil and bio
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $90.05; 52w high $95.33 (-5.54%); 52w low $61.13 (+47.32%) |
-| Trend | +5.28% vs SMA200, +0.64% vs SMA50, -0.99% vs SMA20 |
-| Momentum | RSI(14) 50.6 (neutral) |
+| Price vs 52-week range | Close $90.07; 52w high $95.33 (-5.52%); 52w low $61.13 (+47.35%) |
+| Trend | +5.30% vs SMA200, +0.66% vs SMA50, -0.97% vs SMA20 |
+| Momentum | RSI(14) 50.7 (neutral) |
 | Volatility | ATR(14) 1.65 (~1.8% of price); beta 0.04 |
-| Setup perspective | -5.54% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -5.52% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
@@ -110,14 +110,14 @@ TotalEnergies SE, an integrated energy company, produces and markets oil and bio
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $90.05 | EV/Sales | 1.06 |
-| Market cap | $197.49B | EV/EBITDA | 4.69 |
+| Price | $90.07 | EV/Sales | 1.06 |
+| Market cap | $197.53B | EV/EBITDA | 4.69 |
 | Beta | 0.04 | Gross margin | 39.18% |
-| RSI(14) | 50.6 | Operating margin | 17.00% |
+| RSI(14) | 50.7 | Operating margin | 17.00% |
 | ATR(14) | 1.65 | Profit margin | 10.46% |
-| SMA20 dist | -0.99% | ROA | 7.19% |
-| SMA50 dist | +0.64% | ROE | 17.83% |
-| SMA200 dist | +5.28% | Revenue (ttm) | $214.40B |
+| SMA20 dist | -0.97% | ROA | 7.19% |
+| SMA50 dist | +0.66% | ROE | 17.83% |
+| SMA200 dist | +5.30% | Revenue (ttm) | $214.40B |
 | 52W high | $95.33 | Revenue growth y/y | 41.10% |
 | 52W low | $61.13 | Inst. ownership | 57.18% |
 | P/E (ttm) | 8.99 | Insider ownership | 8.85% |
