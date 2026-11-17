@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-17T07:59:01+00:00",
-  "as_of_local": "2026-11-17 07:59:01 UTC",
+  "as_of_utc": "2026-11-17T08:03:57+00:00",
+  "as_of_local": "2026-11-17 08:03:57 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -599,7 +599,26 @@
       "previous_close": 51.67,
       "change_pct": -3.08,
       "market_cap": 73919565721.73094,
-      "headlines": []
+      "headlines": [
+        {
+          "title": "SLB Stock: Analyst Estimates & Ratings",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/slb-stock-analyst-estimates-ratings-074754675.html",
+          "publisher": "Barchart",
+          "published": "2026-11-16T07:47:54Z"
+        },
+        {
+          "title": "SLB Limited (SLB) Is a Trending Stock: Facts to Know Before Betting on It",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/slb-limited-slb-trending-stock-130003946.html",
+          "publisher": "Zacks",
+          "published": "2026-11-12T13:00:03Z"
+        },
+        {
+          "title": "SLB (SLB) Stock Still Looks Undervalued Despite Its 70% Run",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/slb-slb-stock-still-looks-151819577.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-07T15:18:19Z"
+        }
+      ]
     },
     {
       "symbol": "VRT",
@@ -2096,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 85.22,
-      "change_pct": -0.58
+      "price": 85.16,
+      "change_pct": -0.65
     },
     {
       "label": "Brent",
-      "price": 91.98,
-      "change_pct": -0.5
+      "price": 91.87,
+      "change_pct": -0.62
     },
     {
       "label": "NatGas",
-      "price": 3.12,
-      "change_pct": 0.03
+      "price": 3.13,
+      "change_pct": 0.13
     }
   ]
 }
