@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-17T22:36:13+00:00",
+  "as_of": "2026-11-17T22:51:20+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -41,29 +41,13 @@
   },
   {
    "rank": 3,
-   "ticker": "FSLR",
-   "company": "First Solar, Inc.",
-   "move_pct": -5.02,
-   "price": 154.3,
-   "volume": 3385740,
-   "volume_vs_avg": "~1.2x",
-   "heat_score": 38,
-   "direction": "down",
-   "why": "First Solar Inc. stock outperforms competitors despite losses on the day",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNU295aVNmdjFRS3dON2dyY3dwZjZSLWFaYkpjUndDc0dKZncwd29HUDlVYUNsM2tqZ2J2N3Z3RFBKUVVoMm9uc29XUnAzazFZUnM0SmJlUXBWenp0OU0zQmFNOXFKczNPWVRKVnlMdGpzbFEzVjlCVkhYRnJJTmhOMUlyS2d3d1hOUWtfNWEyQjk1ZndpRUFicEhBempKMzVHSFFBZlRaQXc4LWhEWl9yNHpybDBOcGsyek5QM3hmN3ZTcHV3WlRpX0xKWQ?oc=5",
-   "published": "2026-11-17T21:30:00+00:00",
-   "sector": "Renewables & Solar"
-  },
-  {
-   "rank": 4,
    "ticker": "VRT",
    "company": "Vertiv Holdings, LLC",
-   "move_pct": 5.22,
-   "price": 198.52,
+   "move_pct": 5.48,
+   "price": 199.0,
    "volume": 5737907,
    "volume_vs_avg": "~0.7x",
-   "heat_score": 37,
+   "heat_score": 38,
    "direction": "up",
    "why": "Caterpillar vs. Vertiv: Which Industrials Stock Is a Better Buy for 2027?",
    "catalyst_type": "momentum_narrative",
