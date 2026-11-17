@@ -4,8 +4,8 @@ Signed file: `XOM.research.17.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $166.58 (2026-11-17, ~15-min delayed) |
-| Market cap | $679.52B |
+| Current price | $167.21 (2026-11-17, ~15-min delayed) |
+| Market cap | $682.09B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,10 +15,10 @@ Signed file: `XOM.research.17.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +43.34%; price +7.74% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -10.48% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +43.89%; price +8.14% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -10.14% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 10.46%, revenue growth 32.60%. |
-| Value attractiveness | Reasonable | Forward P/E 13.28, EV/Sales 1.83. |
+| Value attractiveness | Reasonable | Forward P/E 13.34, EV/Sales 1.83. |
 | Risk level | Moderate | Beta 0.14, ATR 2.5% of price, short float 1.25%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -36,30 +36,30 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 
 | Headline | Source | Date |
 |---|---|---|
+| The Bet Behind ExxonMobil's Rally | Simply Wall St. | 2026-11-17 |
 | ExxonMobil makes a bold $3 billion move to clean up its balance sheet | TheStreet | 2026-11-17 |
 | 4 High-Yield Energy Stocks That Pay Roth IRA Investors Tax-Free Income | 24/7 Wall St. | 2026-11-17 |
 | George Soros and 12 Other Big Funds Bought Salesforce Last Quarter, While 20 Sold. Who’s Right? | TIKR | 2026-11-17 |
-| What Triggered Venture Global Stock's 5% Drop? | Trefis | 2026-11-17 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $166.58; 52w high $186.08 (-10.48%); 52w low $111.55 (+49.33%) |
-| Trend | +7.74% vs SMA200, -1.21% vs SMA50, -3.82% vs SMA20 |
-| Momentum | RSI(14) 44.0 (neutral) |
+| Price vs 52-week range | Close $167.21; 52w high $186.08 (-10.14%); 52w low $111.55 (+49.89%) |
+| Trend | +8.14% vs SMA200, -0.85% vs SMA50, -3.48% vs SMA20 |
+| Momentum | RSI(14) 45.0 (neutral) |
 | Volatility | ATR(14) 4.18 (~2.5% of price); beta 0.14 |
-| Setup perspective | -10.48% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -10.14% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +1.9% |
-| Month | -6.0% |
-| Quarter | +1.7% |
-| Half Y | +3.8% |
-| 1Y | +43.3% |
-| YTD | +39.4% |
+| Week | +2.3% |
+| Month | -5.6% |
+| Quarter | +2.1% |
+| Half Y | +4.2% |
+| 1Y | +43.9% |
+| YTD | +39.9% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 | Revenue (ttm) | $388.23B | Revenue growth 32.60% y/y |
 | Profitability | Gross 29.81%, operating 12.88%, net 10.46% | ROA 6.75%, ROE 15.53% |
 | Balance sheet | Cash $12.15B, debt $34.25B | Current ratio 1.19, debt/equity 12.57 |
-| Valuation | P/E 17.14, forward P/E 13.28, P/S 1.75, P/B 2.56 | EV/Sales 1.83, EV/EBITDA 9.10 |
+| Valuation | P/E 17.20, forward P/E 13.34, P/S 1.76, P/B 2.57 | EV/Sales 1.83, EV/EBITDA 9.10 |
 | Growth expectations | Earnings growth 111.40%, EPS q/q 104.20% | Analyst mean target $184.18 (22 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -109,21 +109,21 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $166.58 | EV/Sales | 1.83 |
-| Market cap | $679.52B | EV/EBITDA | 9.10 |
+| Price | $167.21 | EV/Sales | 1.83 |
+| Market cap | $682.09B | EV/EBITDA | 9.10 |
 | Beta | 0.14 | Gross margin | 29.81% |
-| RSI(14) | 44.0 | Operating margin | 12.88% |
+| RSI(14) | 45.0 | Operating margin | 12.88% |
 | ATR(14) | 4.18 | Profit margin | 10.46% |
-| SMA20 dist | -3.82% | ROA | 6.75% |
-| SMA50 dist | -1.21% | ROE | 15.53% |
-| SMA200 dist | +7.74% | Revenue (ttm) | $388.23B |
+| SMA20 dist | -3.48% | ROA | 6.75% |
+| SMA50 dist | -0.85% | ROE | 15.53% |
+| SMA200 dist | +8.14% | Revenue (ttm) | $388.23B |
 | 52W high | $186.08 | Revenue growth y/y | 32.60% |
 | 52W low | $111.55 | Inst. ownership | 66.95% |
-| P/E (ttm) | 17.14 | Insider ownership | 0.11% |
-| Forward P/E | 13.28 | Short float | 1.25% |
+| P/E (ttm) | 17.20 | Insider ownership | 0.11% |
+| Forward P/E | 13.34 | Short float | 1.25% |
 | PEG (trailing) | 1.31 | Avg volume | 13,680,184 |
-| P/S | 1.75 | Employees | 57,900 |
-| P/B | 2.56 | Analyst rec (1=buy..5=sell) | 2.4 |
+| P/S | 1.76 | Employees | 57,900 |
+| P/B | 2.57 | Analyst rec (1=buy..5=sell) | 2.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

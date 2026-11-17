@@ -4,8 +4,8 @@ Signed file: `HUBB.research.17.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $420.40 (2026-11-17, ~15-min delayed) |
-| Market cap | $22.21B |
+| Current price | $424.82 (2026-11-17, ~15-min delayed) |
+| Market cap | $22.45B |
 | Sector / Industry | Industrials / Electrical Equipment & Parts |
 | Main theme | Electrical Equipment & Parts — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
@@ -15,11 +15,11 @@ Signed file: `HUBB.research.17.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-13.00%) with negative half-year (-8.35%). |
-| Fresh setup quality | Moderate / wait | -24.18% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-12.09%) with negative half-year (-7.39%). |
+| Fresh setup quality | Moderate / wait | -23.38% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 13.78%, revenue growth 24.60%. |
-| Value attractiveness | Reasonable | Forward P/E 18.23, EV/Sales 4.15. |
-| Risk level | Elevated | Beta 0.84, ATR 3.6% of price, short float 5.75%. |
+| Value attractiveness | Reasonable | Forward P/E 18.42, EV/Sales 4.15. |
+| Risk level | Elevated | Beta 0.84, ATR 3.5% of price, short float 5.75%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
 
@@ -44,22 +44,22 @@ Hubbell Incorporated, together with its subsidiaries, manufactures and sells ele
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $420.40; 52w high $554.46 (-24.18%); 52w low $402.45 (+4.46%) |
-| Trend | -13.00% vs SMA200, -7.14% vs SMA50, -4.00% vs SMA20 |
-| Momentum | RSI(14) 39.3 (neutral) |
-| Volatility | ATR(14) 14.97 (~3.6% of price); beta 0.84 |
-| Setup perspective | -24.18% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $424.82; 52w high $554.46 (-23.38%); 52w low $402.45 (+5.56%) |
+| Trend | -12.09% vs SMA200, -6.18% vs SMA50, -3.04% vs SMA20 |
+| Momentum | RSI(14) 40.9 (neutral) |
+| Volatility | ATR(14) 14.97 (~3.5% of price); beta 0.84 |
+| Setup perspective | -23.38% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -4.0% |
-| Month | -9.6% |
-| Quarter | -11.3% |
-| Half Y | -8.3% |
-| 1Y | -1.7% |
-| YTD | -8.4% |
+| Week | -3.0% |
+| Month | -8.6% |
+| Quarter | -10.4% |
+| Half Y | -7.4% |
+| 1Y | -0.7% |
+| YTD | -7.4% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Hubbell Incorporated, together with its subsidiaries, manufactures and sells ele
 | Revenue (ttm) | $6.59B | Revenue growth 24.60% y/y |
 | Profitability | Gross 35.02%, operating 20.10%, net 13.78% | ROA 8.53%, ROE 23.43% |
 | Balance sheet | Cash $355.00M, debt $5.31B | Current ratio 1.53, debt/equity 128.87 |
-| Valuation | P/E 24.66, forward P/E 18.23, P/S 3.37, P/B 5.41 | EV/Sales 4.15, EV/EBITDA 17.08 |
+| Valuation | P/E 24.92, forward P/E 18.42, P/S 3.40, P/B 5.47 | EV/Sales 4.15, EV/EBITDA 17.08 |
 | Growth expectations | Earnings growth 3.60%, EPS q/q 2.70% | Analyst mean target $537.62 (13 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ Hubbell Incorporated, together with its subsidiaries, manufactures and sells ele
 | Parnassus Investments, LLC | 1,049,681 | 1.99% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 0.84, ATR 3.6% of price, short float 5.75%. Size positions accordingly.
+- **Volatility risk:** Beta 0.84, ATR 3.5% of price, short float 5.75%. Size positions accordingly.
 - **Short interest risk:** short float 5.75% can fuel squeezes both ways around news.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -111,21 +111,21 @@ Hubbell Incorporated, together with its subsidiaries, manufactures and sells ele
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $420.40 | EV/Sales | 4.15 |
-| Market cap | $22.21B | EV/EBITDA | 17.08 |
+| Price | $424.82 | EV/Sales | 4.15 |
+| Market cap | $22.45B | EV/EBITDA | 17.08 |
 | Beta | 0.84 | Gross margin | 35.02% |
-| RSI(14) | 39.3 | Operating margin | 20.10% |
+| RSI(14) | 40.9 | Operating margin | 20.10% |
 | ATR(14) | 14.97 | Profit margin | 13.78% |
-| SMA20 dist | -4.00% | ROA | 8.53% |
-| SMA50 dist | -7.14% | ROE | 23.43% |
-| SMA200 dist | -13.00% | Revenue (ttm) | $6.59B |
+| SMA20 dist | -3.04% | ROA | 8.53% |
+| SMA50 dist | -6.18% | ROE | 23.43% |
+| SMA200 dist | -12.09% | Revenue (ttm) | $6.59B |
 | 52W high | $554.46 | Revenue growth y/y | 24.60% |
 | 52W low | $402.45 | Inst. ownership | 97.71% |
-| P/E (ttm) | 24.66 | Insider ownership | 0.39% |
-| Forward P/E | 18.23 | Short float | 5.75% |
+| P/E (ttm) | 24.92 | Insider ownership | 0.39% |
+| Forward P/E | 18.42 | Short float | 5.75% |
 | PEG (trailing) | 1.56 | Avg volume | 570,982 |
-| P/S | 3.37 | Employees | 19,600 |
-| P/B | 5.41 | Analyst rec (1=buy..5=sell) | 2.0 |
+| P/S | 3.40 | Employees | 19,600 |
+| P/B | 5.47 | Analyst rec (1=buy..5=sell) | 2.0 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
