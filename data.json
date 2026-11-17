@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-17T22:01:24+00:00",
-  "as_of_local": "2026-11-17 22:01:24 UTC",
+  "as_of_utc": "2026-11-17T22:06:14+00:00",
+  "as_of_local": "2026-11-17 22:06:14 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -601,6 +601,12 @@
       "market_cap": 73303950465.59216,
       "headlines": [
         {
+          "title": "Caterpillar vs. Vertiv: Which Industrials Stock Is a Better Buy for 2027?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/caterpillar-vs-vertiv-industrials-stock-215002065.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-17T21:50:02Z"
+        },
+        {
           "title": "Steve Eisman Says the Biggest AI Risk Is Local Governments Slowing Data Center Construction",
           "url": "https://finance.yahoo.com/technology/ai/articles/steve-eisman-says-biggest-ai-194755611.html",
           "publisher": "24/7 Wall St.",
@@ -611,12 +617,6 @@
           "url": "https://www.barrons.com/articles/vertiv-new-power-system-ai-data-center-stock-ca8a28c7?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
           "published": "2026-11-17T18:08:00Z"
-        },
-        {
-          "title": "Could Vertiv Actually Climb 99%? Or Is Bernstein Totally Wrong?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/could-vertiv-actually-climb-99-151838447.html",
-          "publisher": "TIKR",
-          "published": "2026-11-17T15:18:38Z"
         }
       ]
     },
@@ -965,6 +965,12 @@
       "market_cap": 49432251650.556335,
       "headlines": [
         {
+          "title": "Do Wall Street Analysts Like Diamondback Energy Stock?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-diamondback-energy-155741340.html",
+          "publisher": "Barchart",
+          "published": "2026-11-17T15:57:41Z"
+        },
+        {
           "title": "What Occidental's Debt Cut Means For Its Stock",
           "url": "https://finance.yahoo.com/markets/stocks/articles/occidentals-debt-cut-means-stock-141342973.html",
           "publisher": "Trefis",
@@ -975,12 +981,6 @@
           "url": "https://finance.yahoo.com/news/diamondback-acquire-double-eagle-midland-102354407.html",
           "publisher": "Offshore Technology",
           "published": "2026-11-17T10:23:54Z"
-        },
-        {
-          "title": "Diamondback Energy (FANG) Makes A $5 Billion Midland Basin Bet",
-          "url": "https://finance.yahoo.com/energy/articles/diamondback-energy-fang-makes-5-081209284.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-17T08:12:09Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 85.64,
-      "change_pct": -0.09
+      "price": 85.62,
+      "change_pct": -0.12
     },
     {
       "label": "Brent",
-      "price": 93.06,
-      "change_pct": 0.67
+      "price": 93.08,
+      "change_pct": 0.69
     },
     {
       "label": "NatGas",
-      "price": 3.2,
-      "change_pct": 2.37
+      "price": 3.19,
+      "change_pct": 2.27
     }
   ]
 }
