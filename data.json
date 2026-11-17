@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-17T13:27:28+00:00",
-  "as_of_local": "2026-11-17 13:27:28 UTC",
+  "as_of_utc": "2026-11-17T13:32:23+00:00",
+  "as_of_local": "2026-11-17 13:32:23 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -1469,6 +1469,12 @@
       "market_cap": 10728393981.188507,
       "headlines": [
         {
+          "title": "Cathie Wood and Jim Cramer Agree on These 10 Stocks: Latest 13F",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-jim-cramer-agree-132819758.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-11-17T13:28:19Z"
+        },
+        {
           "title": "ETFs Are Net Sellers of BWX Technologies (BWXT) on Wednesday",
           "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-bwx-technologies-110225961.html",
           "publisher": "GuruFocus.com",
@@ -1479,12 +1485,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/nuscale-power-stocks-jump-earnings-202101895.html",
           "publisher": "Trefis",
           "published": "2026-11-12T20:21:01Z"
-        },
-        {
-          "title": "What Happened To NuScale Power Stock Over The Past Year?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/happened-nuscale-power-stock-over-011843055.html",
-          "publisher": "Trefis",
-          "published": "2026-11-12T01:18:43Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 86.39,
-      "change_pct": 0.78
+      "price": 86.61,
+      "change_pct": 1.04
     },
     {
       "label": "Brent",
-      "price": 93.27,
-      "change_pct": 0.9
+      "price": 93.48,
+      "change_pct": 1.13
     },
     {
       "label": "NatGas",
-      "price": 3.14,
-      "change_pct": 0.64
+      "price": 3.13,
+      "change_pct": 0.26
     }
   ]
 }
