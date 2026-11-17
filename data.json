@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-17T11:55:59+00:00",
-  "as_of_local": "2026-11-17 11:55:59 UTC",
+  "as_of_utc": "2026-11-17T12:01:07+00:00",
+  "as_of_local": "2026-11-17 12:01:07 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "APA"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -97,6 +99,12 @@
       "market_cap": 202099469224.17273,
       "headlines": [
         {
+          "title": "Latest News In Energy Transition - Statkraft Boosts UK Grid Stability With First Battery System",
+          "url": "https://finance.yahoo.com/energy/articles/latest-news-energy-transition-statkraft-113709666.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-17T11:37:09Z"
+        },
+        {
           "title": "3 Great Nuclear Energy Stocks To Own In November 2026",
           "url": "https://finance.yahoo.com/energy/articles/3-great-nuclear-energy-stocks-202115548.html",
           "publisher": "Simply Wall St.",
@@ -107,12 +115,6 @@
           "url": "https://finance.yahoo.com/energy/articles/gev-boosting-position-global-power-170600522.html",
           "publisher": "Zacks",
           "published": "2026-11-16T17:06:00Z"
-        },
-        {
-          "title": "AirJoule Technologies Q3 Earnings Call Highlights",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/airjoule-technologies-q3-earnings-call-161522609.html",
-          "publisher": "MarketBeat",
-          "published": "2026-11-16T16:15:22Z"
         }
       ]
     },
@@ -1021,6 +1023,12 @@
       "market_cap": 44175613182.18045,
       "headlines": [
         {
+          "title": "Latest News In Energy Transition - Statkraft Boosts UK Grid Stability With First Battery System",
+          "url": "https://finance.yahoo.com/energy/articles/latest-news-energy-transition-statkraft-113709666.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-17T11:37:09Z"
+        },
+        {
           "title": "What Mattered Most In Vistra's Latest Quarter?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/mattered-most-vistras-latest-quarter-010749577.html",
           "publisher": "Trefis",
@@ -1031,12 +1039,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/whats-going-happen-constellation-energy-010027209.html",
           "publisher": "Trefis",
           "published": "2026-11-17T01:00:27Z"
-        },
-        {
-          "title": "Is It Too Late to Buy the Dip? 3 Corners of the Market Still Offering Real Value",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/too-buy-dip-3-corners-135000354.html",
-          "publisher": "MarketBeat",
-          "published": "2026-11-15T13:50:00Z"
         }
       ]
     },
@@ -1345,34 +1347,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/dk-vs-dino-refining-stock-125500963.html",
           "publisher": "Zacks",
           "published": "2026-11-16T12:55:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "APA",
-      "name": "APA Corp",
-      "price": 47.3,
-      "previous_close": 48.44,
-      "change_pct": -2.35,
-      "market_cap": 15881258780.338497,
-      "headlines": [
-        {
-          "title": "What Is Devon Getting For All That Spending?",
-          "url": "https://finance.yahoo.com/energy/articles/devon-getting-spending-161308023.html",
-          "publisher": "Trefis",
-          "published": "2026-11-16T16:13:08Z"
-        },
-        {
-          "title": "Apache North Sea workers stage third strike round, Unite says production halted",
-          "url": "https://finance.yahoo.com/energy/articles/apache-north-sea-workers-stage-065904418.html",
-          "publisher": "Investing.com",
-          "published": "2026-11-16T06:59:04Z"
-        },
-        {
-          "title": "APA Has Rallied by 91% This Year. Here\u2019s Why You Should Take Some Chips Off The Table",
-          "url": "https://finance.yahoo.com/energy/articles/apa-rallied-91-why-chips-172343925.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-11-14T17:23:43Z"
         }
       ]
     },
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 85.97,
-      "change_pct": 0.29
+      "price": 86.24,
+      "change_pct": 0.61
     },
     {
       "label": "Brent",
-      "price": 92.66,
-      "change_pct": 0.24
+      "price": 92.94,
+      "change_pct": 0.54
     },
     {
       "label": "NatGas",
       "price": 3.13,
-      "change_pct": 0.16
+      "change_pct": 0.29
     }
   ]
 }
