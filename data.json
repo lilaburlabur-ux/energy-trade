@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-17T13:42:39+00:00",
-  "as_of_local": "2026-11-17 13:42:39 UTC",
+  "as_of_utc": "2026-11-17T13:47:38+00:00",
+  "as_of_local": "2026-11-17 13:47:38 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -69,6 +69,12 @@
       "market_cap": 276093549733.8668,
       "headlines": [
         {
+          "title": "Shell begins gas production from Rosmari and Marjoram fields",
+          "url": "https://finance.yahoo.com/news/shell-begins-gas-production-rosmari-133446549.html",
+          "publisher": "Offshore Technology",
+          "published": "2026-11-17T13:34:46Z"
+        },
+        {
           "title": "Energy & Utilities Roundup: Market Talk",
           "url": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-02dc2fa2?siteid=yhoof2&yptr=yahoo",
           "publisher": "The Wall Street Journal",
@@ -79,12 +85,6 @@
           "url": "https://finance.yahoo.com/energy/articles/shell-vs-bp-one-oil-181731277.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-16T18:17:31Z"
-        },
-        {
-          "title": "Shell Starts Mina West Gas Production to Boost Egypt's Supply",
-          "url": "https://finance.yahoo.com/energy/articles/shell-starts-mina-west-gas-124800273.html",
-          "publisher": "Zacks",
-          "published": "2026-11-16T12:48:00Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 86.96,
-      "change_pct": 1.45
+      "price": 86.86,
+      "change_pct": 1.33
     },
     {
       "label": "Brent",
-      "price": 93.7,
-      "change_pct": 1.36
+      "price": 93.6,
+      "change_pct": 1.25
     },
     {
       "label": "NatGas",
-      "price": 3.12,
-      "change_pct": 0.06
+      "price": 3.11,
+      "change_pct": -0.48
     }
   ]
 }
