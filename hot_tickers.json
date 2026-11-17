@@ -1,10 +1,27 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-17T15:08:20+00:00",
+  "as_of": "2026-11-17T15:23:33+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": []
+ "hot_tickers": [
+  {
+   "rank": 1,
+   "ticker": "NXT",
+   "company": "Nextpower Inc.",
+   "move_pct": -5.37,
+   "price": 84.51,
+   "volume": 827629,
+   "volume_vs_avg": "~0.3x",
+   "heat_score": 35,
+   "direction": "down",
+   "why": "BMO cuts Nextpower stock price target on delayed earnings timeline",
+   "catalyst_type": "analyst_action",
+   "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZFNIT3dpU1EzX0U1aDdNVUliYU52ajlMX0ZhV19zTnNjcU5QR3J3Y0cxaHVjenlyemoxZ1UwMzlDaVNKTzJYWklzemdzTFVoNmdkXzRjSXlrVFVlXzdtbmJQY1BrNC1aQWFvYzQzYVo4b0prWks1NVhhMEZTLXFHa240aVd3UE5Sc0hvTXk0WXd0RzRrWW80bHgyT1NXRWhRVlBqMjY4RWo4ZnZxNEl4WmIyVnhfYjFYREtrYk53bE1fOXl2?oc=5",
+   "published": "2026-11-17T14:06:30+00:00",
+   "sector": "Renewables & Solar"
+  }
+ ]
 }
