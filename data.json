@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-17T21:22:11+00:00",
-  "as_of_local": "2026-11-17 21:22:11 UTC",
+  "as_of_utc": "2026-11-17T21:25:45+00:00",
+  "as_of_local": "2026-11-17 21:25:45 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "BWXT"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1461,34 +1463,6 @@
       ]
     },
     {
-      "symbol": "BWXT",
-      "name": "BWX Technologies",
-      "price": 118.82,
-      "previous_close": 117.09,
-      "change_pct": 1.48,
-      "market_cap": 10886905879.578209,
-      "headlines": [
-        {
-          "title": "Cathie Wood and Jim Cramer Agree on These 10 Stocks: Latest 13F",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-jim-cramer-agree-132819758.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-11-17T13:28:19Z"
-        },
-        {
-          "title": "ETFs Are Net Sellers of BWX Technologies (BWXT) on Wednesday",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-bwx-technologies-110225961.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-13T11:02:25Z"
-        },
-        {
-          "title": "Will NuScale Power Stock's Jump After Earnings Last?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nuscale-power-stocks-jump-earnings-202101895.html",
-          "publisher": "Trefis",
-          "published": "2026-11-12T20:21:01Z"
-        }
-      ]
-    },
-    {
       "symbol": "BEP",
       "name": "Brookfield Renewable",
       "price": 30.11,
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 85.64,
-      "change_pct": -0.09
+      "price": 85.6,
+      "change_pct": -0.14
     },
     {
       "label": "Brent",
-      "price": 92.9,
-      "change_pct": 0.5
+      "price": 92.88,
+      "change_pct": 0.48
     },
     {
       "label": "NatGas",
-      "price": 3.2,
-      "change_pct": 2.43
+      "price": 3.19,
+      "change_pct": 2.27
     }
   ]
 }
