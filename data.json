@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-17T01:02:23+00:00",
-  "as_of_local": "2026-11-17 01:02:23 UTC",
+  "as_of_utc": "2026-11-17T01:15:39+00:00",
+  "as_of_local": "2026-11-17 01:15:39 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -41,6 +41,12 @@
       "market_cap": 423695225378.04,
       "headlines": [
         {
+          "title": "Chevron and Texaco give drivers a reason to skip Costco gas",
+          "url": "https://finance.yahoo.com/energy/articles/chevron-texaco-drivers-reason-skip-010300710.html",
+          "publisher": "TheStreet",
+          "published": "2026-11-17T01:03:00Z"
+        },
+        {
           "title": "Chevron Reportedly Moves Ahead in Talks to Buy Majority Stake in Gulf Oil Producer Beacon",
           "url": "https://finance.yahoo.com/energy/articles/chevron-reportedly-moves-ahead-talks-212832438.html",
           "publisher": "International Business Times",
@@ -51,12 +57,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/could-occidental-petroleum-value-stock-205505861.html",
           "publisher": "Trefis",
           "published": "2026-11-16T20:55:05Z"
-        },
-        {
-          "title": "Can ExxonMobil's Longtail Project Unlock Guyana's Growth Potential?",
-          "url": "https://finance.yahoo.com/energy/articles/exxonmobils-longtail-project-unlock-guyanas-161700877.html",
-          "publisher": "Zacks",
-          "published": "2026-11-16T16:17:00Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 85.27,
-      "change_pct": -3.71
+      "price": 85.25,
+      "change_pct": -3.74
     },
     {
       "label": "Brent",
-      "price": 92.01,
-      "change_pct": -4.0
+      "price": 91.99,
+      "change_pct": -4.02
     },
     {
       "label": "NatGas",
       "price": 3.12,
-      "change_pct": -3.31
+      "change_pct": -3.28
     }
   ]
 }
