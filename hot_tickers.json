@@ -1,10 +1,27 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-17T18:37:43+00:00",
+  "as_of": "2026-11-17T18:52:46+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": []
+ "hot_tickers": [
+  {
+   "rank": 1,
+   "ticker": "NXT",
+   "company": "Nextpower Inc.",
+   "move_pct": -8.98,
+   "price": 81.29,
+   "volume": 2179939,
+   "volume_vs_avg": "~0.8x",
+   "heat_score": 60,
+   "direction": "down",
+   "why": "Mizuho raises Nextpower stock price target on storage growth",
+   "catalyst_type": "analyst_action",
+   "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVUQyb2NrUzhBQkQzVkRPM25jOTNyLV9vUEhfTjBxQnZ4UzQ4Q19taE9MRGx4RS1UWDFfVWRNMzlCLTBsd1V1TGp3Ukl0WGx1Zm1xektNLVlLcml2VTN5b0o1a3c1T1MzS1YyeWwySDQ5LXRCZzBTZkpPeFN3MzdFMDRSOGFLWXQwTXlENGV3dkpnRFhFc2xEVmxjT2V5QXFLbmNBN1Z4b0FRRzdyVVJhRDBId3lNT2lWSVN0Xw?oc=5",
+   "published": "2026-11-17T17:54:06+00:00",
+   "sector": "Renewables & Solar"
+  }
+ ]
 }
