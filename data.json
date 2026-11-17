@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-17T05:07:30+00:00",
-  "as_of_local": "2026-11-17 05:07:30 UTC",
+  "as_of_utc": "2026-11-17T05:12:47+00:00",
+  "as_of_local": "2026-11-17 05:12:47 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "TTE"
+    "BEP"
   ],
   "stocks": [
     {
@@ -115,6 +115,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/airjoule-technologies-q3-earnings-call-161522609.html",
           "publisher": "MarketBeat",
           "published": "2026-11-16T16:15:22Z"
+        }
+      ]
+    },
+    {
+      "symbol": "TTE",
+      "name": "TotalEnergies",
+      "price": 89.94,
+      "previous_close": 90.74,
+      "change_pct": -0.88,
+      "market_cap": 197246515996.86353,
+      "headlines": [
+        {
+          "title": "4 High-Yield Big Oil Stocks Built to Keep Paying Dividends as Crude Prices Fall",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/4-high-yield-big-oil-201727371.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-16T20:17:27Z"
+        },
+        {
+          "title": "Can ExxonMobil's Longtail Project Unlock Guyana's Growth Potential?",
+          "url": "https://finance.yahoo.com/energy/articles/exxonmobils-longtail-project-unlock-guyanas-161700877.html",
+          "publisher": "Zacks",
+          "published": "2026-11-16T16:17:00Z"
+        },
+        {
+          "title": "TotalEnergies (ENXTPA:TTE) Locks In 15 Year LNG Supply Deal",
+          "url": "https://finance.yahoo.com/energy/articles/totalenergies-enxtpa-tte-locks-15-141409417.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-16T14:14:09Z"
         }
       ]
     },
@@ -1463,34 +1491,6 @@
       ]
     },
     {
-      "symbol": "BEP",
-      "name": "Brookfield Renewable",
-      "price": 29.96,
-      "previous_close": 29.98,
-      "change_pct": -0.07,
-      "market_cap": 9071356651.834549,
-      "headlines": [
-        {
-          "title": "Wind Farms, Solar Fields and Power Plants Sell Electricity to the Grid, and $120,000 Across These 3 Owners Pays $6,286 a Year",
-          "url": "https://finance.yahoo.com/energy/articles/wind-farms-solar-fields-power-195846511.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-15T19:58:46Z"
-        },
-        {
-          "title": "Tesla fund makes surprise Microsoft bet, keeps Nvidia stake",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-fund-makes-surprise-microsoft-175904923.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-12T17:59:04Z"
-        },
-        {
-          "title": "BEP- A Renewable Energy Play that Should Benefit from the Midterms",
-          "url": "https://finance.yahoo.com/energy/articles/bep-renewable-energy-play-benefit-050100642.html",
-          "publisher": "MoneyShow",
-          "published": "2026-11-10T05:01:00Z"
-        }
-      ]
-    },
-    {
       "symbol": "NOV",
       "name": "NOV Inc",
       "price": 17.4,
@@ -2089,8 +2089,8 @@
     },
     {
       "label": "WTI",
-      "price": 85.72,
-      "change_pct": -3.21
+      "price": 85.02,
+      "change_pct": -0.82
     },
     {
       "label": "Brent",
@@ -2099,8 +2099,8 @@
     },
     {
       "label": "NatGas",
-      "price": 3.12,
-      "change_pct": -3.34
+      "price": 3.08,
+      "change_pct": -1.22
     }
   ]
 }
