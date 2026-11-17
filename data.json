@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-17T11:25:36+00:00",
-  "as_of_local": "2026-11-17 11:25:36 UTC",
+  "as_of_utc": "2026-11-17T11:31:07+00:00",
+  "as_of_local": "2026-11-17 11:31:07 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "GEV"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -87,6 +85,34 @@
           "url": "https://finance.yahoo.com/energy/articles/shell-starts-mina-west-gas-124800273.html",
           "publisher": "Zacks",
           "published": "2026-11-16T12:48:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "GEV",
+      "name": "GE Vernova",
+      "price": 763.57,
+      "previous_close": 803.13,
+      "change_pct": -4.93,
+      "market_cap": 202099469224.17273,
+      "headlines": [
+        {
+          "title": "3 Great Nuclear Energy Stocks To Own In November 2026",
+          "url": "https://finance.yahoo.com/energy/articles/3-great-nuclear-energy-stocks-202115548.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-16T20:21:15Z"
+        },
+        {
+          "title": "Is GEV Boosting Its Position in the Global Power Infrastructure Market?",
+          "url": "https://finance.yahoo.com/energy/articles/gev-boosting-position-global-power-170600522.html",
+          "publisher": "Zacks",
+          "published": "2026-11-16T17:06:00Z"
+        },
+        {
+          "title": "AirJoule Technologies Q3 Earnings Call Highlights",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/airjoule-technologies-q3-earnings-call-161522609.html",
+          "publisher": "MarketBeat",
+          "published": "2026-11-16T16:15:22Z"
         }
       ]
     },
@@ -2089,13 +2115,13 @@
     },
     {
       "label": "WTI",
-      "price": 86.02,
-      "change_pct": 0.35
+      "price": 86.07,
+      "change_pct": 0.41
     },
     {
       "label": "Brent",
-      "price": 92.74,
-      "change_pct": 0.32
+      "price": 92.84,
+      "change_pct": 0.43
     },
     {
       "label": "NatGas",
