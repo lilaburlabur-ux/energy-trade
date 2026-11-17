@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-17T10:29:45+00:00",
-  "as_of_local": "2026-11-17 10:29:45 UTC",
+  "as_of_utc": "2026-11-17T10:34:56+00:00",
+  "as_of_local": "2026-11-17 10:34:56 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "SU"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -561,34 +563,6 @@
           "url": "https://finance.yahoo.com/energy/articles/eogs-janus-plant-expansion-strengthen-151700985.html",
           "publisher": "Zacks",
           "published": "2026-11-16T15:17:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "SU",
-      "name": "Suncor Energy",
-      "price": 67.96,
-      "previous_close": 69.92,
-      "change_pct": -2.8,
-      "market_cap": 78237197752.74274,
-      "headlines": [
-        {
-          "title": "Why Is Suncor Energy (TSX:SU) Rethinking Its In Situ Growth Plans?",
-          "url": "https://finance.yahoo.com/energy/articles/why-suncor-energy-tsx-su-043414518.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-17T04:34:14Z"
-        },
-        {
-          "title": "4 High-Yield Big Oil Stocks Built to Keep Paying Dividends as Crude Prices Fall",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/4-high-yield-big-oil-201727371.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-16T20:17:27Z"
-        },
-        {
-          "title": "Buy These 5 Top-Ranked High-Efficiency Stocks With Strong Profit Potential",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/buy-5-top-ranked-high-142700328.html",
-          "publisher": "Zacks",
-          "published": "2026-11-16T14:27:00Z"
         }
       ]
     },
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 85.67,
-      "change_pct": -0.06
+      "price": 85.8,
+      "change_pct": 0.09
     },
     {
       "label": "Brent",
-      "price": 92.26,
-      "change_pct": -0.19
+      "price": 92.48,
+      "change_pct": 0.04
     },
     {
       "label": "NatGas",
-      "price": 3.1,
-      "change_pct": -0.7
+      "price": 3.11,
+      "change_pct": -0.42
     }
   ]
 }
