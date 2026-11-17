@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-17T09:13:46+00:00",
-  "as_of_local": "2026-11-17 09:13:46 UTC",
+  "as_of_utc": "2026-11-17T09:18:50+00:00",
+  "as_of_local": "2026-11-17 09:18:50 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "CEG"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -395,6 +393,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/chevrons-story-changed-shareholders-121251633.html",
           "publisher": "Trefis",
           "published": "2026-11-13T12:12:51Z"
+        }
+      ]
+    },
+    {
+      "symbol": "CEG",
+      "name": "Constellation Energy",
+      "price": 277.82,
+      "previous_close": 279.77,
+      "change_pct": -0.7,
+      "market_cap": 97683877156.5376,
+      "headlines": [
+        {
+          "title": "What Mattered Most In Vistra's Latest Quarter?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/mattered-most-vistras-latest-quarter-010749577.html",
+          "publisher": "Trefis",
+          "published": "2026-11-17T01:07:49Z"
+        },
+        {
+          "title": "What's Going To Happen With Constellation Energy Stock Soon?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/whats-going-happen-constellation-energy-010027209.html",
+          "publisher": "Trefis",
+          "published": "2026-11-17T01:00:27Z"
+        },
+        {
+          "title": "Is GEV Boosting Its Position in the Global Power Infrastructure Market?",
+          "url": "https://finance.yahoo.com/energy/articles/gev-boosting-position-global-power-170600522.html",
+          "publisher": "Zacks",
+          "published": "2026-11-16T17:06:00Z"
         }
       ]
     },
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 85.69,
-      "change_pct": -0.03
+      "price": 85.7,
+      "change_pct": -0.02
     },
     {
       "label": "Brent",
-      "price": 92.48,
-      "change_pct": 0.04
+      "price": 92.51,
+      "change_pct": 0.08
     },
     {
       "label": "NatGas",
       "price": 3.1,
-      "change_pct": -0.7
+      "change_pct": -0.58
     }
   ]
 }
