@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-17T08:24:09+00:00",
-  "as_of_local": "2026-11-17 08:24:09 UTC",
+  "as_of_utc": "2026-11-17T08:29:21+00:00",
+  "as_of_local": "2026-11-17 08:29:21 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -965,6 +965,12 @@
       "market_cap": 49527167694.15317,
       "headlines": [
         {
+          "title": "Diamondback Energy (FANG) Makes A $5 Billion Midland Basin Bet",
+          "url": "https://finance.yahoo.com/energy/articles/diamondback-energy-fang-makes-5-081209284.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-17T08:12:09Z"
+        },
+        {
           "title": "Sector Update: Energy Stocks Retreat Late Afternoon",
           "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-retreat-afternoon-205814412.html",
           "publisher": "MT Newswires",
@@ -975,12 +981,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/could-occidental-petroleum-value-stock-205505861.html",
           "publisher": "Trefis",
           "published": "2026-11-16T20:55:05Z"
-        },
-        {
-          "title": "Sector Update: Energy Stocks Decline Monday Afternoon",
-          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-decline-monday-184007140.html",
-          "publisher": "MT Newswires",
-          "published": "2026-11-16T18:40:07Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 85.22,
-      "change_pct": -0.58
+      "price": 85.48,
+      "change_pct": -0.28
     },
     {
       "label": "Brent",
-      "price": 91.82,
-      "change_pct": -0.67
+      "price": 92.12,
+      "change_pct": -0.35
     },
     {
       "label": "NatGas",
       "price": 3.12,
-      "change_pct": -0.06
+      "change_pct": -0.13
     }
   ]
 }
