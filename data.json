@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-17T06:03:07+00:00",
-  "as_of_local": "2026-11-17 06:03:07 UTC",
+  "as_of_utc": "2026-11-17T06:18:15+00:00",
+  "as_of_local": "2026-11-17 06:18:15 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "PWR"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -449,34 +451,6 @@
           "url": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-american-162136581.html",
           "publisher": "MT Newswires",
           "published": "2026-11-16T16:21:36Z"
-        }
-      ]
-    },
-    {
-      "symbol": "PWR",
-      "name": "Quanta Services",
-      "price": 585.9,
-      "previous_close": 602.01,
-      "change_pct": -2.68,
-      "market_cap": 88281742934.14124,
-      "headlines": [
-        {
-          "title": "Kevin O\u2019Leary Calls AI \u2018the Number One Use of Capital in Our Economy.\u2019 Voters Disagree. Here\u2019s Why PWR Stock Doesn\u2019t Need to Pick a Side.",
-          "url": "https://finance.yahoo.com/technology/ai/articles/kevin-o-leary-calls-ai-162235279.html",
-          "publisher": "Barchart",
-          "published": "2026-11-16T16:22:35Z"
-        },
-        {
-          "title": "EMCOR's P1 Acquisition: Is This a New Growth Driver for 2027?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/emcors-p1-acquisition-growth-driver-160300728.html",
-          "publisher": "Zacks",
-          "published": "2026-11-16T16:03:00Z"
-        },
-        {
-          "title": "Sterling Sees Nearly $8B Scope of Work: Can It Fuel Its Growth Engine?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/sterling-sees-nearly-8b-scope-145300516.html",
-          "publisher": "Zacks",
-          "published": "2026-11-16T14:53:00Z"
         }
       ]
     },
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 84.88,
-      "change_pct": -0.98
+      "price": 84.93,
+      "change_pct": -0.92
     },
     {
       "label": "Brent",
-      "price": 91.66,
-      "change_pct": -0.84
+      "price": 91.78,
+      "change_pct": -0.71
     },
     {
       "label": "NatGas",
       "price": 3.09,
-      "change_pct": -1.09
+      "change_pct": -1.19
     }
   ]
 }
