@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-17T03:26:59+00:00",
-  "as_of_local": "2026-11-17 03:26:59 UTC",
+  "as_of_utc": "2026-11-17T03:31:56+00:00",
+  "as_of_local": "2026-11-17 03:31:56 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "COP"
+    "CVX"
   ],
   "stocks": [
     {
@@ -31,34 +31,6 @@
           "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-retreat-afternoon-205814412.html",
           "publisher": "MT Newswires",
           "published": "2026-11-16T20:58:14Z"
-        }
-      ]
-    },
-    {
-      "symbol": "CVX",
-      "name": "Chevron",
-      "price": 217.14,
-      "previous_close": 219.89,
-      "change_pct": -1.25,
-      "market_cap": 423695224187.08923,
-      "headlines": [
-        {
-          "title": "Chevron, Texaco offer drivers a new way to save on gas",
-          "url": "https://finance.yahoo.com/energy/articles/chevron-texaco-drivers-reason-skip-010300710.html",
-          "publisher": "TheStreet",
-          "published": "2026-11-17T01:03:00Z"
-        },
-        {
-          "title": "Why Iraq Just Fast-Tracked Chevron\u2019s Takeover Of A 14-Billion-Barrel Supergiant",
-          "url": "https://finance.yahoo.com/energy/articles/why-iraq-just-fast-tracked-010000317.html",
-          "publisher": "Oilprice.com",
-          "published": "2026-11-17T01:00:00Z"
-        },
-        {
-          "title": "Gavin Newsom Calls Trump \u2018Wholly Owned Subsidiary of Big Oil\u2019 as Iran Tensions Rattle Oil Markets: Says President\u2019s \u2018Head Is Stuck in Sand Soaked With Oil\u2019",
-          "url": "https://finance.yahoo.com/energy/articles/gavin-newsom-calls-trump-wholly-003005558.html",
-          "publisher": "Benzinga",
-          "published": "2026-11-17T00:30:05Z"
         }
       ]
     },
@@ -171,6 +143,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-nextera-energy-110231755.html",
           "publisher": "GuruFocus.com",
           "published": "2026-11-16T11:02:31Z"
+        }
+      ]
+    },
+    {
+      "symbol": "COP",
+      "name": "ConocoPhillips",
+      "price": 140.52,
+      "previous_close": 141.35,
+      "change_pct": -0.59,
+      "market_cap": 166141727261.12036,
+      "headlines": [
+        {
+          "title": "Could Occidental Petroleum Be The Value Stock For Your Portfolio?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/could-occidental-petroleum-value-stock-205505861.html",
+          "publisher": "Trefis",
+          "published": "2026-11-16T20:55:05Z"
+        },
+        {
+          "title": "Sezzle and Kimball Electronics have been highlighted as Zacks Bull and Bear of the Day",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/sezzle-kimball-electronics-highlighted-zacks-124600895.html",
+          "publisher": "Zacks",
+          "published": "2026-11-16T12:46:00Z"
+        },
+        {
+          "title": "What Bernstein Sees Looming Over ConocoPhillips (COP)",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bernstein-sees-looming-over-conocophillips-030556041.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-11-16T03:05:56Z"
         }
       ]
     },
@@ -1904,8 +1904,8 @@
           "name": "Chevron Corp",
           "short": "Chevron",
           "weight_pct": 18.29,
-          "change_pct": -1.25,
-          "price": 217.14,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -1913,8 +1913,8 @@
           "name": "ConocoPhillips",
           "short": "ConocoPhillips",
           "weight_pct": 7.27,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": -0.59,
+          "price": 140.52,
           "currency": "USD"
         },
         {
@@ -2003,8 +2003,8 @@
         "name": "Chevron Corp",
         "short": "Chevron",
         "weight_pct": 18.29,
-        "change_pct": -1.25,
-        "price": 217.14,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -2012,8 +2012,8 @@
         "name": "ConocoPhillips",
         "short": "ConocoPhillips",
         "weight_pct": 7.27,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": -0.59,
+        "price": 140.52,
         "currency": "USD"
       },
       {
@@ -2089,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 85.04,
-      "change_pct": -3.97
+      "price": 85.03,
+      "change_pct": -3.99
     },
     {
       "label": "Brent",
-      "price": 91.67,
-      "change_pct": -4.35
+      "price": 91.64,
+      "change_pct": -4.38
     },
     {
       "label": "NatGas",
-      "price": 3.11,
-      "change_pct": -3.84
+      "price": 3.1,
+      "change_pct": -4.06
     }
   ]
 }
