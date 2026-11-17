@@ -1,10 +1,43 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-17T01:03:53+00:00",
+  "as_of": "2026-11-17T07:15:23+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": []
+ "hot_tickers": [
+  {
+   "rank": 1,
+   "ticker": "EOSE",
+   "company": "Eos Energy Enterprises, Inc.",
+   "move_pct": -10.47,
+   "price": 1.71,
+   "volume": 13871100,
+   "volume_vs_avg": "~0.5x",
+   "heat_score": 64,
+   "direction": "down",
+   "why": "Eos Energy Enterprises (EOSE) Stock May Be A Bargain Following Record Revenue",
+   "catalyst_type": "earnings",
+   "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNM1FSRjNiazVrc3FScERsRl9lQWx1UnJXUFQ2VHFxN2Z3RFR1NG1jRkQwV1Jqb3poTVJTMWxMQ3NOUmJOdXkyNUNoN3lnc3pjQV9QOTA5ZGUzSWUxaFlKRF9TYTBTY1ZoaW82aHBjY0dYRXVpMlVRcVVwRW82M25wQWhFamFocW1rMXMyaGZSLUhqNzFTVGJkaXpGalZpOGt4dUhaV2d1elE3ZlJTeVJvRGliOXFwbkdEQXFXUmVtTXktbUxEeV9OdFQ5S0Zra3EwTTlRMzFLUkJBU2JOOVF30gHkAUFVX3lxTE9kOEJpcmVwRE9kbFFoTTFIY0FISm4wV3VZc3RrNE4tcHlJUmJwWHNFWkZOYmltZEdxNlhtWFMtNGtHRzBCR255SWtfX1AzOFI3MEdCbjNfU1J4SnVYSVYzazcyN3A4aUtTSmNDOU9WYUoydjlSQWF0WXZ3dUhsNnFvSWxLS25kNkZ2dDA5UW41SWRPQjBQbkxIVjdPLV9lcU50ZEV0VkppUGptUmpMTWpZR0twVFM3WHZSLW1VdDFuZDh0VWVES01WSVFlb3NiU29aM2VQREtqMnFMZDhqR0w2d084OQ?oc=5",
+   "published": "2026-11-17T04:33:59+00:00",
+   "sector": "Grid, Storage & Electrification"
+  },
+  {
+   "rank": 2,
+   "ticker": "VRT",
+   "company": "Vertiv Holdings, LLC",
+   "move_pct": -6.63,
+   "price": 188.67,
+   "volume": 7216600,
+   "volume_vs_avg": "~0.9x",
+   "heat_score": 43,
+   "direction": "down",
+   "why": "Vertiv Holdings, LLC (VRT) Stock Forecasts",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNS0ZPd29kWGQybDc5X1llWnl3cTRWZ3NtUGNKTUlROHVnMEVsNGNjQWNxYWE5QVlhOVNtZ0xzb3RvX3dRODNkRE1BZTRqdENjMHVfY2UwSElsZ2d4YXdMN3VfSWg1ZnE2T1lmMUtFQWRXbThhRzBETjdFTl9lZTBITS1FVEdEZlZDU3JCRQ?oc=5",
+   "published": "2026-11-17T04:46:32+00:00",
+   "sector": "Grid, Storage & Electrification"
+  }
+ ]
 }
