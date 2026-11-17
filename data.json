@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-17T08:09:13+00:00",
-  "as_of_local": "2026-11-17 08:09:13 UTC",
+  "as_of_utc": "2026-11-17T08:13:59+00:00",
+  "as_of_local": "2026-11-17 08:13:59 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "ENPH"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -237,6 +239,12 @@
       "market_cap": 115698287930.28014,
       "headlines": [
         {
+          "title": "Trading at just 8x P/E with 464% EPS growth: Is Valero a bargain?",
+          "url": "https://finance.yahoo.com/energy/articles/trading-just-8x-p-e-075724462.html",
+          "publisher": "Investing.com",
+          "published": "2026-11-17T07:57:24Z"
+        },
+        {
           "title": "Shell vs. BP: One Oil Giant Offers a Higher Yield, but the Other Has a Safer Dividend",
           "url": "https://finance.yahoo.com/energy/articles/shell-vs-bp-one-oil-181731277.html",
           "publisher": "24/7 Wall St.",
@@ -247,12 +255,6 @@
           "url": "https://finance.yahoo.com/energy/articles/corporate-restructuring-operational-efficiency-lifted-140648266.html",
           "publisher": "Insider Monkey",
           "published": "2026-11-16T14:06:48Z"
-        },
-        {
-          "title": "5 High-Yield Oil Stocks Paying Retirees Over 4%",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/5-high-yield-oil-stocks-120052002.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-16T12:00:52Z"
         }
       ]
     },
@@ -321,6 +323,12 @@
       "market_cap": 103111932275.91553,
       "headlines": [
         {
+          "title": "Trading at just 8x P/E with 464% EPS growth: Is Valero a bargain?",
+          "url": "https://finance.yahoo.com/energy/articles/trading-just-8x-p-e-075724462.html",
+          "publisher": "Investing.com",
+          "published": "2026-11-17T07:57:24Z"
+        },
+        {
           "title": "Is Wall Street Bullish or Bearish on Valero Energy Stock?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-bullish-bearish-valero-144437188.html",
           "publisher": "Barchart",
@@ -331,12 +339,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/valero-vlo-stock-looks-below-011010930.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-14T01:10:10Z"
-        },
-        {
-          "title": "What Would Cheaper Fuel Mean For Exxon Mobil Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/cheaper-fuel-mean-exxon-mobil-152016819.html",
-          "publisher": "Trefis",
-          "published": "2026-11-13T15:20:16Z"
         }
       ]
     },
@@ -377,6 +379,12 @@
       "market_cap": 101660657079.7898,
       "headlines": [
         {
+          "title": "Trading at just 8x P/E with 464% EPS growth: Is Valero a bargain?",
+          "url": "https://finance.yahoo.com/energy/articles/trading-just-8x-p-e-075724462.html",
+          "publisher": "Investing.com",
+          "published": "2026-11-17T07:57:24Z"
+        },
+        {
           "title": "Best Momentum Stocks to Buy for November 13th",
           "url": "https://finance.yahoo.com/markets/stocks/articles/best-momentum-stocks-buy-november-140000881.html",
           "publisher": "Zacks",
@@ -387,12 +395,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/chevrons-story-changed-shareholders-121251633.html",
           "publisher": "Trefis",
           "published": "2026-11-13T12:12:51Z"
-        },
-        {
-          "title": "New Strong Buy Stocks for November 13th",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/strong-buy-stocks-november-13th-075100623.html",
-          "publisher": "Zacks",
-          "published": "2026-11-13T07:51:00Z"
         }
       ]
     },
@@ -1629,34 +1631,6 @@
       ]
     },
     {
-      "symbol": "ENPH",
-      "name": "Enphase Energy",
-      "price": 24.95,
-      "previous_close": 26.07,
-      "change_pct": -4.3,
-      "market_cap": 3301241312.097782,
-      "headlines": [
-        {
-          "title": "BE Stock Falls Overnight: Retail Flags Valuation Concerns As Forward P/E Nears 18-Month Low",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-falls-overnight-retail-flags-065444592.html",
-          "publisher": "Stocktwits",
-          "published": "2026-11-16T06:54:44Z"
-        },
-        {
-          "title": "How Low Can First Solar Stock Go?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/low-first-solar-stock-175441142.html",
-          "publisher": "Trefis",
-          "published": "2026-11-13T17:54:41Z"
-        },
-        {
-          "title": "Enphase Energy, Inc. (ENPH) is Attracting Investor Attention: Here is What You Should Know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/enphase-energy-inc-enph-attracting-130004437.html",
-          "publisher": "Zacks",
-          "published": "2026-11-13T13:00:04Z"
-        }
-      ]
-    },
-    {
       "symbol": "UEC",
       "name": "Uranium Energy Corp",
       "price": 6.13,
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 85.08,
-      "change_pct": -0.75
+      "price": 85.16,
+      "change_pct": -0.65
     },
     {
       "label": "Brent",
-      "price": 91.74,
-      "change_pct": -0.76
+      "price": 91.79,
+      "change_pct": -0.7
     },
     {
       "label": "NatGas",
-      "price": 3.12,
-      "change_pct": 0.1
+      "price": 3.13,
+      "change_pct": 0.13
     }
   ]
 }
