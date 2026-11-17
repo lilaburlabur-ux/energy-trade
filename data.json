@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-17T12:01:07+00:00",
-  "as_of_local": "2026-11-17 12:01:07 UTC",
+  "as_of_utc": "2026-11-17T12:06:10+00:00",
+  "as_of_local": "2026-11-17 12:06:10 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "APA"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1351,6 +1349,34 @@
       ]
     },
     {
+      "symbol": "APA",
+      "name": "APA Corp",
+      "price": 47.3,
+      "previous_close": 48.44,
+      "change_pct": -2.35,
+      "market_cap": 15881258780.338497,
+      "headlines": [
+        {
+          "title": "What Is Devon Getting For All That Spending?",
+          "url": "https://finance.yahoo.com/energy/articles/devon-getting-spending-161308023.html",
+          "publisher": "Trefis",
+          "published": "2026-11-16T16:13:08Z"
+        },
+        {
+          "title": "Apache North Sea workers stage third strike round, Unite says production halted",
+          "url": "https://finance.yahoo.com/energy/articles/apache-north-sea-workers-stage-065904418.html",
+          "publisher": "Investing.com",
+          "published": "2026-11-16T06:59:04Z"
+        },
+        {
+          "title": "APA Has Rallied by 91% This Year. Here\u2019s Why You Should Take Some Chips Off The Table",
+          "url": "https://finance.yahoo.com/energy/articles/apa-rallied-91-why-chips-172343925.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-11-14T17:23:43Z"
+        }
+      ]
+    },
+    {
       "symbol": "TLN",
       "name": "Talen Energy",
       "price": 359.74,
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 86.24,
-      "change_pct": 0.61
+      "price": 86.16,
+      "change_pct": 0.51
     },
     {
       "label": "Brent",
-      "price": 92.94,
-      "change_pct": 0.54
+      "price": 92.86,
+      "change_pct": 0.45
     },
     {
       "label": "NatGas",
       "price": 3.13,
-      "change_pct": 0.29
+      "change_pct": 0.19
     }
   ]
 }
