@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-17T08:49:20+00:00",
-  "as_of_local": "2026-11-17 08:49:20 UTC",
+  "as_of_utc": "2026-11-17T08:54:35+00:00",
+  "as_of_local": "2026-11-17 08:54:35 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -41,6 +41,12 @@
       "market_cap": 423695224187.08923,
       "headlines": [
         {
+          "title": "Market Chatter: Chevron Nears $5 Billion Deal for Majority Stake in Blackstone-Backed Gulf Oilfield",
+          "url": "https://finance.yahoo.com/energy/articles/market-chatter-chevron-nears-5-084922138.html",
+          "publisher": "MT Newswires",
+          "published": "2026-11-17T08:49:22Z"
+        },
+        {
           "title": "Chevron nears $5 bln deal for Beacon Offshore Energy stake - report",
           "url": "https://finance.yahoo.com/energy/articles/chevron-nears-5-bln-deal-065318278.html",
           "publisher": "Investing.com",
@@ -51,12 +57,6 @@
           "url": "https://finance.yahoo.com/energy/articles/chevron-texaco-drivers-reason-skip-010300710.html",
           "publisher": "TheStreet",
           "published": "2026-11-17T01:03:00Z"
-        },
-        {
-          "title": "Why Iraq Just Fast-Tracked Chevron\u2019s Takeover Of A 14-Billion-Barrel Supergiant",
-          "url": "https://finance.yahoo.com/energy/articles/why-iraq-just-fast-tracked-010000317.html",
-          "publisher": "Oilprice.com",
-          "published": "2026-11-17T01:00:00Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 85.45,
-      "change_pct": -0.31
+      "price": 85.48,
+      "change_pct": -0.28
     },
     {
       "label": "Brent",
-      "price": 92.07,
-      "change_pct": -0.4
+      "price": 92.14,
+      "change_pct": -0.32
     },
     {
       "label": "NatGas",
-      "price": 3.12,
-      "change_pct": -0.19
+      "price": 3.11,
+      "change_pct": -0.54
     }
   ]
 }
