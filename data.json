@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-17T23:22:07+00:00",
-  "as_of_local": "2026-11-17 23:22:07 UTC",
+  "as_of_utc": "2026-11-17T23:27:42+00:00",
+  "as_of_local": "2026-11-17 23:27:42 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -433,6 +433,12 @@
       "market_cap": 94255694242.5376,
       "headlines": [
         {
+          "title": "Constellation Energy Has Faded Since Last December: Why BMO Sees 23% Upside",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/constellation-energy-faded-since-last-225641375.html",
+          "publisher": "TIKR",
+          "published": "2026-11-17T22:56:41Z"
+        },
+        {
           "title": "Steve Eisman Says the Biggest AI Risk Is Local Governments Slowing Data Center Construction",
           "url": "https://finance.yahoo.com/technology/ai/articles/steve-eisman-says-biggest-ai-194755611.html",
           "publisher": "24/7 Wall St.",
@@ -443,12 +449,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/bernstein-cut-constellation-energy-target-172125160.html",
           "publisher": "TIKR",
           "published": "2026-11-17T17:21:25Z"
-        },
-        {
-          "title": "Constellation Energy vs. Vistra: Which Utilities Stock Is a Better Buy for 2027?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/constellation-energy-vs-vistra-utilities-160525065.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-17T16:05:25Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 85.73,
-      "change_pct": 0.01
+      "price": 85.81,
+      "change_pct": 0.1
     },
     {
       "label": "Brent",
-      "price": 93.3,
-      "change_pct": 0.93
+      "price": 93.33,
+      "change_pct": 0.96
     },
     {
       "label": "NatGas",
       "price": 3.2,
-      "change_pct": 2.43
+      "change_pct": 2.53
     }
   ]
 }
