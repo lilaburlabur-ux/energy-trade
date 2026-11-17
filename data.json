@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-17T13:12:28+00:00",
-  "as_of_local": "2026-11-17 13:12:28 UTC",
+  "as_of_utc": "2026-11-17T13:17:14+00:00",
+  "as_of_local": "2026-11-17 13:17:14 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "APA"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1349,34 +1351,6 @@
       ]
     },
     {
-      "symbol": "APA",
-      "name": "APA Corp",
-      "price": 47.3,
-      "previous_close": 48.44,
-      "change_pct": -2.35,
-      "market_cap": 15881258780.338497,
-      "headlines": [
-        {
-          "title": "What Is Devon Getting For All That Spending?",
-          "url": "https://finance.yahoo.com/energy/articles/devon-getting-spending-161308023.html",
-          "publisher": "Trefis",
-          "published": "2026-11-16T16:13:08Z"
-        },
-        {
-          "title": "Apache North Sea workers stage third strike round, Unite says production halted",
-          "url": "https://finance.yahoo.com/energy/articles/apache-north-sea-workers-stage-065904418.html",
-          "publisher": "Investing.com",
-          "published": "2026-11-16T06:59:04Z"
-        },
-        {
-          "title": "APA Has Rallied by 91% This Year. Here\u2019s Why You Should Take Some Chips Off The Table",
-          "url": "https://finance.yahoo.com/energy/articles/apa-rallied-91-why-chips-172343925.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-11-14T17:23:43Z"
-        }
-      ]
-    },
-    {
       "symbol": "TLN",
       "name": "Talen Energy",
       "price": 359.74,
@@ -2115,8 +2089,8 @@
     },
     {
       "label": "WTI",
-      "price": 86.35,
-      "change_pct": 0.73
+      "price": 86.36,
+      "change_pct": 0.75
     },
     {
       "label": "Brent",
@@ -2126,7 +2100,7 @@
     {
       "label": "NatGas",
       "price": 3.16,
-      "change_pct": 1.25
+      "change_pct": 1.15
     }
   ]
 }
