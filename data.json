@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-17T02:59:07+00:00",
-  "as_of_local": "2026-11-17 02:59:07 UTC",
+  "as_of_utc": "2026-11-17T03:11:40+00:00",
+  "as_of_local": "2026-11-17 03:11:40 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "VST"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1009,34 +1011,6 @@
           "url": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-723bb970?siteid=yhoof2&yptr=yahoo",
           "publisher": "The Wall Street Journal",
           "published": "2026-11-13T21:55:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "VST",
-      "name": "Vistra",
-      "price": 130.16,
-      "previous_close": 133.01,
-      "change_pct": -2.14,
-      "market_cap": 44175613182.18045,
-      "headlines": [
-        {
-          "title": "What Mattered Most In Vistra's Latest Quarter?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/mattered-most-vistras-latest-quarter-010749577.html",
-          "publisher": "Trefis",
-          "published": "2026-11-17T01:07:49Z"
-        },
-        {
-          "title": "What's Going To Happen With Constellation Energy Stock Soon?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/whats-going-happen-constellation-energy-010027209.html",
-          "publisher": "Trefis",
-          "published": "2026-11-17T01:00:27Z"
-        },
-        {
-          "title": "Is It Too Late to Buy the Dip? 3 Corners of the Market Still Offering Real Value",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/too-buy-dip-3-corners-135000354.html",
-          "publisher": "MarketBeat",
-          "published": "2026-11-15T13:50:00Z"
         }
       ]
     },
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 85.02,
-      "change_pct": -4.0
+      "price": 85.05,
+      "change_pct": -0.78
     },
     {
       "label": "Brent",
-      "price": 91.53,
-      "change_pct": -4.5
+      "price": 91.7,
+      "change_pct": -4.32
     },
     {
       "label": "NatGas",
       "price": 3.11,
-      "change_pct": -3.78
+      "change_pct": -0.54
     }
   ]
 }
