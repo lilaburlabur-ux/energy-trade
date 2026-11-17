@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-17T00:52:08+00:00",
-  "as_of_local": "2026-11-17 00:52:08 UTC",
+  "as_of_utc": "2026-11-17T00:57:37+00:00",
+  "as_of_local": "2026-11-17 00:57:37 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "OVV"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1293,34 +1295,6 @@
       ]
     },
     {
-      "symbol": "OVV",
-      "name": "Ovintiv",
-      "price": 63.98,
-      "previous_close": 65.39,
-      "change_pct": -2.16,
-      "market_cap": 17191941747.73521,
-      "headlines": [
-        {
-          "title": "Ovintiv (OVV) Stock Trades At A Discount To Its Earnings",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ovintiv-ovv-stock-trades-discount-200833000.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-10T20:08:33Z"
-        },
-        {
-          "title": "Carney Gives Canada\u2019s Oil Firms a Tax Windfall and Hopes They\u2019ll Spend It",
-          "url": "https://finance.yahoo.com/energy/articles/carney-gives-canada-oil-firms-120000385.html",
-          "publisher": "Bloomberg",
-          "published": "2026-11-09T12:00:00Z"
-        },
-        {
-          "title": "Ovintiv Q3 Earnings Call Highlights",
-          "url": "https://finance.yahoo.com/energy/articles/ovintiv-q3-earnings-call-highlights-231409890.html",
-          "publisher": "MarketBeat",
-          "published": "2026-11-07T23:14:09Z"
-        }
-      ]
-    },
-    {
       "symbol": "DINO",
       "name": "HF Sinclair",
       "price": 99.05,
@@ -2115,13 +2089,13 @@
     },
     {
       "label": "WTI",
-      "price": 85.42,
-      "change_pct": -3.55
+      "price": 85.34,
+      "change_pct": -3.64
     },
     {
       "label": "Brent",
-      "price": 92.12,
-      "change_pct": -3.88
+      "price": 92.07,
+      "change_pct": -3.93
     },
     {
       "label": "NatGas",
