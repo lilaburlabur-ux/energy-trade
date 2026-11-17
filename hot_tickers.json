@@ -1,27 +1,10 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-17T18:16:10+00:00",
+  "as_of": "2026-11-17T18:22:20+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": [
-  {
-   "rank": 1,
-   "ticker": "ENPH",
-   "company": "Enphase Energy, Inc.",
-   "move_pct": -5.73,
-   "price": 23.52,
-   "volume": 1801166,
-   "volume_vs_avg": "~0.3x",
-   "heat_score": 36,
-   "direction": "down",
-   "why": "Enphase Energy stock hits 52-week low at $23.82 By Investing.com",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPelBjZklVVV9MZ3NVWldiMnhNTTM0eXVWQnA2QXZzOF96RHFMZWt1aE1TSEpIWklHQzB5YmdQa3BkUWZFeHE0dFdvQnl2UzNIX0gtU253eE5jb0ZUR2stdXQzZm84QTFHOTF3U1FMNm9KYWJ4WlEwMmVFa3BMckt1MUw5ODB3N2p1VUU2b3hXeHdoM2UyLWxfblAzZTNkMFYteVF5RHloazM?oc=5",
-   "published": "2026-11-17T18:01:43+00:00",
-   "sector": "Renewables & Solar"
-  }
- ]
+ "hot_tickers": []
 }
