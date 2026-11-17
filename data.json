@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-17T13:17:14+00:00",
-  "as_of_local": "2026-11-17 13:17:14 UTC",
+  "as_of_utc": "2026-11-17T13:22:22+00:00",
+  "as_of_local": "2026-11-17 13:22:22 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "APA"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -21,16 +19,16 @@
           "published": "2026-11-17T12:45:50Z"
         },
         {
+          "title": "ExxonMobil Is Up 40% in a Year. Barclays Sees Another 23%",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/exxonmobil-40-barclays-sees-another-124533770.html",
+          "publisher": "TIKR",
+          "published": "2026-11-17T12:45:33Z"
+        },
+        {
           "title": "Is Chevron Stock Overpriced Versus Its Oil Rivals?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/chevron-stock-overpriced-versus-oil-112945595.html",
           "publisher": "Trefis",
           "published": "2026-11-17T11:29:45Z"
-        },
-        {
-          "title": "What iShares S&P 500 Value ETF (IVE) Sold: Apple Leads on Nov. 13",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-p-500-value-etf-110506472.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-17T11:05:06Z"
         }
       ]
     },
@@ -1351,6 +1349,34 @@
       ]
     },
     {
+      "symbol": "APA",
+      "name": "APA Corp",
+      "price": 47.3,
+      "previous_close": 48.44,
+      "change_pct": -2.35,
+      "market_cap": 15881258780.338497,
+      "headlines": [
+        {
+          "title": "What Is Devon Getting For All That Spending?",
+          "url": "https://finance.yahoo.com/energy/articles/devon-getting-spending-161308023.html",
+          "publisher": "Trefis",
+          "published": "2026-11-16T16:13:08Z"
+        },
+        {
+          "title": "Apache North Sea workers stage third strike round, Unite says production halted",
+          "url": "https://finance.yahoo.com/energy/articles/apache-north-sea-workers-stage-065904418.html",
+          "publisher": "Investing.com",
+          "published": "2026-11-16T06:59:04Z"
+        },
+        {
+          "title": "APA Has Rallied by 91% This Year. Here\u2019s Why You Should Take Some Chips Off The Table",
+          "url": "https://finance.yahoo.com/energy/articles/apa-rallied-91-why-chips-172343925.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-11-14T17:23:43Z"
+        }
+      ]
+    },
+    {
       "symbol": "TLN",
       "name": "Talen Energy",
       "price": 359.74,
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 86.36,
-      "change_pct": 0.75
+      "price": 86.37,
+      "change_pct": 0.76
     },
     {
       "label": "Brent",
-      "price": 93.16,
-      "change_pct": 0.78
+      "price": 93.18,
+      "change_pct": 0.8
     },
     {
       "label": "NatGas",
-      "price": 3.16,
-      "change_pct": 1.15
+      "price": 3.15,
+      "change_pct": 0.99
     }
   ]
 }
