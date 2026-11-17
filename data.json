@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-17T11:40:56+00:00",
-  "as_of_local": "2026-11-17 11:40:56 UTC",
+  "as_of_utc": "2026-11-17T11:45:58+00:00",
+  "as_of_local": "2026-11-17 11:45:58 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "KMI"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -209,6 +211,12 @@
       "market_cap": 130877881896.97266,
       "headlines": [
         {
+          "title": "What Could Send Honeywell Stock Higher?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/could-send-honeywell-stock-higher-112945996.html",
+          "publisher": "Trefis",
+          "published": "2026-11-17T11:29:45Z"
+        },
+        {
           "title": "How Much Higher Can Eaton Stock Go From Here?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/much-higher-eaton-stock-211839628.html",
           "publisher": "Trefis",
@@ -219,12 +227,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/3-industrial-dividend-stocks-built-204727177.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-16T20:47:27Z"
-        },
-        {
-          "title": "Eaton Stock Declines More Than 7% in 6 Months: Time to Buy the Dip?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/eaton-stock-declines-more-7-170100681.html",
-          "publisher": "Zacks",
-          "published": "2026-11-16T17:01:00Z"
         }
       ]
     },
@@ -645,34 +647,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/vertiv-vs-teradyne-ai-infrastructure-154800693.html",
           "publisher": "Zacks",
           "published": "2026-11-16T15:48:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "KMI",
-      "name": "Kinder Morgan",
-      "price": 31.42,
-      "previous_close": 31.92,
-      "change_pct": -1.57,
-      "market_cap": 69994812665.14119,
-      "headlines": [
-        {
-          "title": "Zacks Industry Outlook Highlights Kinder Morgan, The Williams and MPLX LP",
-          "url": "https://finance.yahoo.com/energy/articles/zacks-industry-outlook-highlights-kinder-095300150.html",
-          "publisher": "Zacks",
-          "published": "2026-11-17T09:53:00Z"
-        },
-        {
-          "title": "RIG Q3 Earnings Miss Estimates as Rig Utilization Falls",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/rig-q3-earnings-miss-estimates-161600086.html",
-          "publisher": "Zacks",
-          "published": "2026-11-16T16:16:00Z"
-        },
-        {
-          "title": "3 Oil & Gas Pipeline Stocks Offering Resilience in Uncertain Times",
-          "url": "https://finance.yahoo.com/energy/articles/3-oil-gas-pipeline-stocks-133100733.html",
-          "publisher": "Zacks",
-          "published": "2026-11-16T13:31:00Z"
         }
       ]
     },
@@ -1467,7 +1441,26 @@
       "previous_close": 122.97,
       "change_pct": -4.78,
       "market_cap": 10728393981.188507,
-      "headlines": []
+      "headlines": [
+        {
+          "title": "ETFs Are Net Sellers of BWX Technologies (BWXT) on Wednesday",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-bwx-technologies-110225961.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-13T11:02:25Z"
+        },
+        {
+          "title": "Will NuScale Power Stock's Jump After Earnings Last?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nuscale-power-stocks-jump-earnings-202101895.html",
+          "publisher": "Trefis",
+          "published": "2026-11-12T20:21:01Z"
+        },
+        {
+          "title": "What Happened To NuScale Power Stock Over The Past Year?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/happened-nuscale-power-stock-over-011843055.html",
+          "publisher": "Trefis",
+          "published": "2026-11-12T01:18:43Z"
+        }
+      ]
     },
     {
       "symbol": "BEP",
@@ -2096,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 86.05,
-      "change_pct": 0.38
+      "price": 86.2,
+      "change_pct": 0.56
     },
     {
       "label": "Brent",
-      "price": 92.82,
-      "change_pct": 0.41
+      "price": 92.96,
+      "change_pct": 0.56
     },
     {
       "label": "NatGas",
       "price": 3.12,
-      "change_pct": -0.03
+      "change_pct": -0.16
     }
   ]
 }
