@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-17T00:17:06+00:00",
-  "as_of_local": "2026-11-17 00:17:06 UTC",
+  "as_of_utc": "2026-11-17T00:21:54+00:00",
+  "as_of_local": "2026-11-17 00:21:54 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "ENPH"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -909,6 +911,12 @@
       "market_cap": 52414017465.010956,
       "headlines": [
         {
+          "title": "S&P 500, Dow, Nasdaq End Lower As Investors Hold Back Ahead Of Nvidia Earnings, Anthropic IPO This Week \u2014  NVDA, TSLA, ANT In Focus",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-dow-nasdaq-end-000928100.html",
+          "publisher": "Stocktwits",
+          "published": "2026-11-17T00:09:28Z"
+        },
+        {
           "title": "Here Is What Most Retail Investors Miss About Bloom Energy Stock",
           "url": "https://finance.yahoo.com/markets/stocks/articles/most-retail-investors-miss-bloom-225637896.html",
           "publisher": "Trefis",
@@ -919,12 +927,6 @@
           "url": "https://www.barrons.com/livecoverage/stock-market-news-today-111626/card/s-p-500-tumbles-1-9-it-s-not-just-ai--FDvmQloAfOi6OQeFoldW?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
           "published": "2026-11-16T21:03:20Z"
-        },
-        {
-          "title": "Bloom Energy Is Down 26% in a Month. What Will It Take to Get BE Stock Back to $250?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-down-26-month-201107307.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-16T20:11:07Z"
         }
       ]
     },
@@ -1629,34 +1631,6 @@
       ]
     },
     {
-      "symbol": "ENPH",
-      "name": "Enphase Energy",
-      "price": 24.95,
-      "previous_close": 26.07,
-      "change_pct": -4.3,
-      "market_cap": 3301241312.097782,
-      "headlines": [
-        {
-          "title": "BE Stock Falls Overnight: Retail Flags Valuation Concerns As Forward P/E Nears 18-Month Low",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-falls-overnight-retail-flags-065444592.html",
-          "publisher": "Stocktwits",
-          "published": "2026-11-16T06:54:44Z"
-        },
-        {
-          "title": "How Low Can First Solar Stock Go?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/low-first-solar-stock-175441142.html",
-          "publisher": "Trefis",
-          "published": "2026-11-13T17:54:41Z"
-        },
-        {
-          "title": "Enphase Energy, Inc. (ENPH) is Attracting Investor Attention: Here is What You Should Know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/enphase-energy-inc-enph-attracting-130004437.html",
-          "publisher": "Zacks",
-          "published": "2026-11-13T13:00:04Z"
-        }
-      ]
-    },
-    {
       "symbol": "UEC",
       "name": "Uranium Energy Corp",
       "price": 6.13,
@@ -2115,8 +2089,8 @@
     },
     {
       "label": "WTI",
-      "price": 85.28,
-      "change_pct": -3.7
+      "price": 85.29,
+      "change_pct": -3.69
     },
     {
       "label": "Brent",
