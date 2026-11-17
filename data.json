@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-17T23:32:32+00:00",
-  "as_of_local": "2026-11-17 23:32:32 UTC",
+  "as_of_utc": "2026-11-17T23:37:34+00:00",
+  "as_of_local": "2026-11-17 23:37:34 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "COP"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -171,6 +169,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-constellation-energy-stock-141343450.html",
           "publisher": "Trefis",
           "published": "2026-11-17T14:13:43Z"
+        }
+      ]
+    },
+    {
+      "symbol": "COP",
+      "name": "ConocoPhillips",
+      "price": 139.48,
+      "previous_close": 140.52,
+      "change_pct": -0.74,
+      "market_cap": 164912088698.87964,
+      "headlines": [
+        {
+          "title": "EOG vs. ConocoPhillips: The Better Bet as Oil Prices Stay Elevated",
+          "url": "https://finance.yahoo.com/energy/articles/eog-vs-conocophillips-better-bet-143500446.html",
+          "publisher": "Zacks",
+          "published": "2026-11-17T14:35:00Z"
+        },
+        {
+          "title": "What Occidental's Debt Cut Means For Its Stock",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/occidentals-debt-cut-means-stock-141342973.html",
+          "publisher": "Trefis",
+          "published": "2026-11-17T14:13:42Z"
+        },
+        {
+          "title": "Is Chevron Stock Overpriced Versus Its Oil Rivals?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/chevron-stock-overpriced-versus-oil-112945595.html",
+          "publisher": "Trefis",
+          "published": "2026-11-17T14:13:41Z"
         }
       ]
     },
@@ -995,6 +1021,12 @@
       "market_cap": 43154034461.32519,
       "headlines": [
         {
+          "title": "Only 11% of the Power Plants Vistra Just Bought Are in Texas. Here's Why That Matters After the Election.",
+          "url": "https://finance.yahoo.com/energy/articles/only-11-power-plants-vistra-232500621.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-17T23:25:00Z"
+        },
+        {
           "title": "NextEra Energy vs. Vistra: Which Utilities Stock Is a Better Buy for 2027?",
           "url": "https://finance.yahoo.com/energy/articles/nextera-energy-vs-vistra-utilities-205002028.html",
           "publisher": "Motley Fool",
@@ -1005,12 +1037,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-down-41-high-history-192202059.html",
           "publisher": "Motley Fool",
           "published": "2026-11-17T19:22:02Z"
-        },
-        {
-          "title": "Constellation Energy vs. Vistra: Which Utilities Stock Is a Better Buy for 2027?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/constellation-energy-vs-vistra-utilities-160525065.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-17T16:05:25Z"
         }
       ]
     },
@@ -1913,8 +1939,8 @@
           "name": "ConocoPhillips",
           "short": "ConocoPhillips",
           "weight_pct": 7.27,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": -0.74,
+          "price": 139.48,
           "currency": "USD"
         },
         {
@@ -2012,8 +2038,8 @@
         "name": "ConocoPhillips",
         "short": "ConocoPhillips",
         "weight_pct": 7.27,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": -0.74,
+        "price": 139.48,
         "currency": "USD"
       },
       {
@@ -2089,8 +2115,8 @@
     },
     {
       "label": "WTI",
-      "price": 85.81,
-      "change_pct": 0.1
+      "price": 85.88,
+      "change_pct": 0.19
     },
     {
       "label": "Brent",
@@ -2100,7 +2126,7 @@
     {
       "label": "NatGas",
       "price": 3.2,
-      "change_pct": 2.5
+      "change_pct": 2.53
     }
   ]
 }
