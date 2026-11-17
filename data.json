@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-17T04:02:07+00:00",
-  "as_of_local": "2026-11-17 04:02:07 UTC",
+  "as_of_utc": "2026-11-17T04:17:10+00:00",
+  "as_of_local": "2026-11-17 04:17:10 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "OKLO"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1601,34 +1603,6 @@
       ]
     },
     {
-      "symbol": "OKLO",
-      "name": "Oklo",
-      "price": 23.03,
-      "previous_close": 23.92,
-      "change_pct": -3.72,
-      "market_cap": 4497519460.884722,
-      "headlines": [
-        {
-          "title": "NuScale Has $1.9 Billion in Cash. A Signed TVA Deal Could Send $1.2 Billion of It to ENTRA1",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nuscale-1-9-billion-cash-202027107.html",
-          "publisher": "TIKR",
-          "published": "2026-11-16T20:20:27Z"
-        },
-        {
-          "title": "Meta\u2019s Prepayment Is Buying Oklo\u2019s Nuclear Fuel for Up to Five Reactors",
-          "url": "https://finance.yahoo.com/energy/articles/meta-prepayment-buying-oklo-nuclear-172404843.html",
-          "publisher": "TIKR",
-          "published": "2026-11-16T17:24:04Z"
-        },
-        {
-          "title": "Oklo Sits Near Its 52-Week Low After a 5-Reactor Fuel Deal. Is It Time to Sell, or Load Up?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/oklo-sits-near-52-week-092115558.html",
-          "publisher": "TIKR",
-          "published": "2026-11-16T09:21:15Z"
-        }
-      ]
-    },
-    {
       "symbol": "ENPH",
       "name": "Enphase Energy",
       "price": 24.95,
@@ -2120,13 +2094,13 @@
     },
     {
       "label": "Brent",
-      "price": 91.58,
-      "change_pct": -4.44
+      "price": 91.63,
+      "change_pct": -4.39
     },
     {
       "label": "NatGas",
-      "price": 3.1,
-      "change_pct": -4.12
+      "price": 3.09,
+      "change_pct": -4.43
     }
   ]
 }
