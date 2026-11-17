@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-17T00:21:54+00:00",
-  "as_of_local": "2026-11-17 00:21:54 UTC",
+  "as_of_utc": "2026-11-17T00:26:56+00:00",
+  "as_of_local": "2026-11-17 00:26:56 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "ENPH"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1631,6 +1629,34 @@
       ]
     },
     {
+      "symbol": "ENPH",
+      "name": "Enphase Energy",
+      "price": 24.95,
+      "previous_close": 26.07,
+      "change_pct": -4.3,
+      "market_cap": 3301241312.097782,
+      "headlines": [
+        {
+          "title": "BE Stock Falls Overnight: Retail Flags Valuation Concerns As Forward P/E Nears 18-Month Low",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-falls-overnight-retail-flags-065444592.html",
+          "publisher": "Stocktwits",
+          "published": "2026-11-16T06:54:44Z"
+        },
+        {
+          "title": "How Low Can First Solar Stock Go?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/low-first-solar-stock-175441142.html",
+          "publisher": "Trefis",
+          "published": "2026-11-13T17:54:41Z"
+        },
+        {
+          "title": "Enphase Energy, Inc. (ENPH) is Attracting Investor Attention: Here is What You Should Know",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/enphase-energy-inc-enph-attracting-130004437.html",
+          "publisher": "Zacks",
+          "published": "2026-11-13T13:00:04Z"
+        }
+      ]
+    },
+    {
       "symbol": "UEC",
       "name": "Uranium Energy Corp",
       "price": 6.13,
@@ -2089,13 +2115,13 @@
     },
     {
       "label": "WTI",
-      "price": 85.29,
-      "change_pct": -3.69
+      "price": 85.24,
+      "change_pct": -3.75
     },
     {
       "label": "Brent",
-      "price": 92.13,
-      "change_pct": -3.87
+      "price": 92.01,
+      "change_pct": -4.0
     },
     {
       "label": "NatGas",
