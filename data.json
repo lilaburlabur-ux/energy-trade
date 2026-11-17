@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-17T10:45:10+00:00",
-  "as_of_local": "2026-11-17 10:45:10 UTC",
+  "as_of_utc": "2026-11-17T10:50:15+00:00",
+  "as_of_local": "2026-11-17 10:50:15 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "SHEL"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -59,6 +57,34 @@
           "url": "https://finance.yahoo.com/energy/articles/chevron-texaco-drivers-reason-skip-010300710.html",
           "publisher": "TheStreet",
           "published": "2026-11-17T01:03:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "SHEL",
+      "name": "Shell",
+      "price": 97.71,
+      "previous_close": 99.08,
+      "change_pct": -1.38,
+      "market_cap": 276191846286.0758,
+      "headlines": [
+        {
+          "title": "Energy & Utilities Roundup: Market Talk",
+          "url": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-02dc2fa2?siteid=yhoof2&yptr=yahoo",
+          "publisher": "The Wall Street Journal",
+          "published": "2026-11-16T21:55:00Z"
+        },
+        {
+          "title": "Shell vs. BP: One Oil Giant Offers a Higher Yield, but the Other Has a Safer Dividend",
+          "url": "https://finance.yahoo.com/energy/articles/shell-vs-bp-one-oil-181731277.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-16T18:17:31Z"
+        },
+        {
+          "title": "Shell Starts Mina West Gas Production to Boost Egypt's Supply",
+          "url": "https://finance.yahoo.com/energy/articles/shell-starts-mina-west-gas-124800273.html",
+          "publisher": "Zacks",
+          "published": "2026-11-16T12:48:00Z"
         }
       ]
     },
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 85.63,
-      "change_pct": -0.1
+      "price": 85.67,
+      "change_pct": -0.06
     },
     {
       "label": "Brent",
-      "price": 92.33,
-      "change_pct": -0.12
+      "price": 92.37,
+      "change_pct": -0.08
     },
     {
       "label": "NatGas",
-      "price": 3.11,
-      "change_pct": -0.32
+      "price": 3.12,
+      "change_pct": -0.19
     }
   ]
 }
