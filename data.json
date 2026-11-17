@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-17T10:50:15+00:00",
-  "as_of_local": "2026-11-17 10:50:15 UTC",
+  "as_of_utc": "2026-11-17T10:55:16+00:00",
+  "as_of_local": "2026-11-17 10:55:16 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -573,6 +573,12 @@
       "market_cap": 78237197752.74274,
       "headlines": [
         {
+          "title": "Zacks.com featured highlights include Avnet, ATI, Farmers & Merchants, Semtech and Suncor",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-com-featured-highlights-avnet-093600283.html",
+          "publisher": "Zacks",
+          "published": "2026-11-17T09:36:00Z"
+        },
+        {
           "title": "Why Is Suncor Energy (TSX:SU) Rethinking Its In Situ Growth Plans?",
           "url": "https://finance.yahoo.com/energy/articles/why-suncor-energy-tsx-su-043414518.html",
           "publisher": "Simply Wall St.",
@@ -583,12 +589,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/4-high-yield-big-oil-201727371.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-16T20:17:27Z"
-        },
-        {
-          "title": "Buy These 5 Top-Ranked High-Efficiency Stocks With Strong Profit Potential",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/buy-5-top-ranked-high-142700328.html",
-          "publisher": "Zacks",
-          "published": "2026-11-16T14:27:00Z"
         }
       ]
     },
@@ -965,6 +965,12 @@
       "market_cap": 49527167694.15317,
       "headlines": [
         {
+          "title": "Diamondback to acquire Double Eagle Midland Basin assets",
+          "url": "https://finance.yahoo.com/news/diamondback-acquire-double-eagle-midland-102354407.html",
+          "publisher": "Offshore Technology",
+          "published": "2026-11-17T10:23:54Z"
+        },
+        {
           "title": "Diamondback Energy (FANG) Makes A $5 Billion Midland Basin Bet",
           "url": "https://finance.yahoo.com/energy/articles/diamondback-energy-fang-makes-5-081209284.html",
           "publisher": "Simply Wall St.",
@@ -975,12 +981,6 @@
           "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-retreat-afternoon-205814412.html",
           "publisher": "MT Newswires",
           "published": "2026-11-16T20:58:14Z"
-        },
-        {
-          "title": "Could Occidental Petroleum Be The Value Stock For Your Portfolio?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/could-occidental-petroleum-value-stock-205505861.html",
-          "publisher": "Trefis",
-          "published": "2026-11-16T20:55:05Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 85.67,
-      "change_pct": -0.06
+      "price": 85.77,
+      "change_pct": 0.06
     },
     {
       "label": "Brent",
-      "price": 92.37,
-      "change_pct": -0.08
+      "price": 92.5,
+      "change_pct": 0.06
     },
     {
       "label": "NatGas",
       "price": 3.12,
-      "change_pct": -0.19
+      "change_pct": 0.0
     }
   ]
 }
