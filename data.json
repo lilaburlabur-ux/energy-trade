@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-17T09:49:27+00:00",
-  "as_of_local": "2026-11-17 09:49:27 UTC",
+  "as_of_utc": "2026-11-17T09:54:31+00:00",
+  "as_of_local": "2026-11-17 09:54:31 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "BWXT"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1463,6 +1461,34 @@
       ]
     },
     {
+      "symbol": "BWXT",
+      "name": "BWX Technologies",
+      "price": 117.09,
+      "previous_close": 122.97,
+      "change_pct": -4.78,
+      "market_cap": 10728393981.188507,
+      "headlines": [
+        {
+          "title": "ETFs Are Net Sellers of BWX Technologies (BWXT) on Wednesday",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-bwx-technologies-110225961.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-13T11:02:25Z"
+        },
+        {
+          "title": "Will NuScale Power Stock's Jump After Earnings Last?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nuscale-power-stocks-jump-earnings-202101895.html",
+          "publisher": "Trefis",
+          "published": "2026-11-12T20:21:01Z"
+        },
+        {
+          "title": "What Happened To NuScale Power Stock Over The Past Year?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/happened-nuscale-power-stock-over-011843055.html",
+          "publisher": "Trefis",
+          "published": "2026-11-12T01:18:43Z"
+        }
+      ]
+    },
+    {
       "symbol": "BEP",
       "name": "Brookfield Renewable",
       "price": 29.96,
@@ -2089,13 +2115,13 @@
     },
     {
       "label": "WTI",
-      "price": 85.94,
-      "change_pct": 0.26
+      "price": 85.86,
+      "change_pct": 0.16
     },
     {
       "label": "Brent",
-      "price": 92.85,
-      "change_pct": 0.44
+      "price": 92.73,
+      "change_pct": 0.31
     },
     {
       "label": "NatGas",
