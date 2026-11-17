@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-17T11:35:51+00:00",
-  "as_of_local": "2026-11-17 11:35:51 UTC",
+  "as_of_utc": "2026-11-17T11:40:56+00:00",
+  "as_of_local": "2026-11-17 11:40:56 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -41,6 +41,12 @@
       "market_cap": 423695224187.08923,
       "headlines": [
         {
+          "title": "Chevron Reportedly Nears $5 Billion Deal to Acquire Majority Stake in Beacon Offshore Energy",
+          "url": "https://finance.yahoo.com/energy/articles/chevron-reportedly-nears-5-billion-112102727.html",
+          "publisher": "InvestorsHub",
+          "published": "2026-11-17T11:21:02Z"
+        },
+        {
           "title": "ETFs Are Buying Chevron (CVX) on Friday",
           "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-buying-chevron-cvx-friday-110158202.html",
           "publisher": "GuruFocus.com",
@@ -51,12 +57,6 @@
           "url": "https://finance.yahoo.com/energy/articles/market-chatter-chevron-nears-5-084922138.html",
           "publisher": "MT Newswires",
           "published": "2026-11-17T08:49:22Z"
-        },
-        {
-          "title": "Chevron nears $5 bln deal for Beacon Offshore Energy stake - report",
-          "url": "https://finance.yahoo.com/energy/articles/chevron-nears-5-bln-deal-065318278.html",
-          "publisher": "Investing.com",
-          "published": "2026-11-17T06:53:18Z"
         }
       ]
     },
@@ -1467,26 +1467,7 @@
       "previous_close": 122.97,
       "change_pct": -4.78,
       "market_cap": 10728393981.188507,
-      "headlines": [
-        {
-          "title": "ETFs Are Net Sellers of BWX Technologies (BWXT) on Wednesday",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-bwx-technologies-110225961.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-13T11:02:25Z"
-        },
-        {
-          "title": "Will NuScale Power Stock's Jump After Earnings Last?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nuscale-power-stocks-jump-earnings-202101895.html",
-          "publisher": "Trefis",
-          "published": "2026-11-12T20:21:01Z"
-        },
-        {
-          "title": "What Happened To NuScale Power Stock Over The Past Year?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/happened-nuscale-power-stock-over-011843055.html",
-          "publisher": "Trefis",
-          "published": "2026-11-12T01:18:43Z"
-        }
-      ]
+      "headlines": []
     },
     {
       "symbol": "BEP",
@@ -2115,18 +2096,18 @@
     },
     {
       "label": "WTI",
-      "price": 86.1,
-      "change_pct": 0.44
+      "price": 86.05,
+      "change_pct": 0.38
     },
     {
       "label": "Brent",
-      "price": 92.83,
-      "change_pct": 0.42
+      "price": 92.82,
+      "change_pct": 0.41
     },
     {
       "label": "NatGas",
       "price": 3.12,
-      "change_pct": 0.03
+      "change_pct": -0.03
     }
   ]
 }
