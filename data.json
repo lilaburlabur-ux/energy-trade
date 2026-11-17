@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-17T23:37:34+00:00",
-  "as_of_local": "2026-11-17 23:37:34 UTC",
+  "as_of_utc": "2026-11-17T23:42:34+00:00",
+  "as_of_local": "2026-11-17 23:42:34 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "FSLR"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1321,34 +1323,6 @@
       ]
     },
     {
-      "symbol": "FSLR",
-      "name": "First Solar",
-      "price": 152.97,
-      "previous_close": 162.45,
-      "change_pct": -5.84,
-      "market_cap": 16441391799.672577,
-      "headlines": [
-        {
-          "title": "First Solar and Enphase Fall 5% as Solar Selloff Stretches On; SolarEdge Drops 4%",
-          "url": "https://finance.yahoo.com/energy/articles/first-solar-enphase-fall-5-185832430.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-17T18:58:32Z"
-        },
-        {
-          "title": "How First Solar (FSLR) Expanded Margins Despite a 23% Revenue Decline",
-          "url": "https://finance.yahoo.com/energy/articles/first-solar-fslr-expanded-margins-152316651.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-11-14T15:23:16Z"
-        },
-        {
-          "title": "First Solar (FSLR) Stock Still Looks Reasonable As Clean Energy Hopes Rise",
-          "url": "https://finance.yahoo.com/energy/articles/first-solar-fslr-stock-still-231155237.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-13T23:11:55Z"
-        }
-      ]
-    },
-    {
       "symbol": "APA",
       "name": "APA Corp",
       "price": 46.88,
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 85.88,
-      "change_pct": 0.19
+      "price": 85.89,
+      "change_pct": 0.2
     },
     {
       "label": "Brent",
-      "price": 93.36,
-      "change_pct": 1.0
+      "price": 93.42,
+      "change_pct": 1.06
     },
     {
       "label": "NatGas",
       "price": 3.2,
-      "change_pct": 2.53
+      "change_pct": 2.59
     }
   ]
 }
