@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-17T00:01:20+00:00",
-  "as_of_local": "2026-11-17 00:01:20 UTC",
+  "as_of_utc": "2026-11-17T00:07:04+00:00",
+  "as_of_local": "2026-11-17 00:07:04 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AR"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1433,34 +1435,6 @@
       ]
     },
     {
-      "symbol": "AR",
-      "name": "Antero Resources",
-      "price": 37.71,
-      "previous_close": 38.74,
-      "change_pct": -2.66,
-      "market_cap": 11582098278.808594,
-      "headlines": [
-        {
-          "title": "How These 6 Natural Gas Stocks Make Money",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/6-natural-gas-stocks-money-153300478.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-15T15:33:00Z"
-        },
-        {
-          "title": "U.S. Targeted Value Portfolio (DFAT) Buys $3.7 Million More Coeur Mining on Wednesday",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/u-targeted-value-portfolio-dfat-110436527.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-13T11:04:36Z"
-        },
-        {
-          "title": "David Einhorn\u2019s Best Buy Is Already Up 36%. Is It Too Late to Follow Him?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/david-einhorn-best-buy-already-194953923.html",
-          "publisher": "TIKR",
-          "published": "2026-11-11T19:49:53Z"
-        }
-      ]
-    },
-    {
       "symbol": "BWXT",
       "name": "BWX Technologies",
       "price": 117.09,
@@ -2115,8 +2089,8 @@
     },
     {
       "label": "WTI",
-      "price": 85.28,
-      "change_pct": -3.7
+      "price": 85.29,
+      "change_pct": -3.69
     },
     {
       "label": "Brent",
@@ -2126,7 +2100,7 @@
     {
       "label": "NatGas",
       "price": 3.13,
-      "change_pct": -3.13
+      "change_pct": -3.16
     }
   ]
 }
