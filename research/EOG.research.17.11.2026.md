@@ -4,8 +4,8 @@ Signed file: `EOG.research.17.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $155.47 (2026-11-17, ~15-min delayed) |
-| Market cap | $80.61B |
+| Current price | $154.35 (2026-11-17, ~15-min delayed) |
+| Market cap | $80.03B |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
 | Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate. |
@@ -15,10 +15,10 @@ Signed file: `EOG.research.17.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +46.85%; price +12.79% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -6.08% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +44.26%; price +11.78% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -6.76% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 28.06%, revenue growth 42.70%. |
-| Value attractiveness | Reasonable | Forward P/E 9.18, EV/Sales 2.85. |
+| Value attractiveness | Reasonable | Forward P/E 9.09, EV/Sales 2.85. |
 | Risk level | Moderate | Beta 0.27, ATR 2.8% of price, short float 3.62%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate.
@@ -36,30 +36,30 @@ EOG Resources, Inc., together with its subsidiaries, explores for, develops, pro
 
 | Headline | Source | Date |
 |---|---|---|
+| EOG vs. ConocoPhillips: The Better Bet as Oil Prices Stay Elevated | Zacks | 2026-11-17 |
+| What Occidental's Debt Cut Means For Its Stock | Trefis | 2026-11-17 |
+| Are Investors Undervaluing EOG Resources (EOG) Right Now? | Zacks | 2026-11-17 |
 | Could Occidental Petroleum Be The Value Stock For Your Portfolio? | Trefis | 2026-11-16 |
-| What Is Devon Getting For All That Spending? | Trefis | 2026-11-16 |
-| Will EOG's Janus Plant Expansion Strengthen Delaware Basin Margins? | Zacks | 2026-11-16 |
-| Why You Need To Pay Attention To Occidental Petroleum Stock? | Trefis | 2026-11-13 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $155.47; 52w high $165.54 (-6.08%); 52w low $98.64 (+57.61%) |
-| Trend | +12.79% vs SMA200, +3.86% vs SMA50, -0.52% vs SMA20 |
-| Momentum | RSI(14) 53.3 (neutral) |
-| Volatility | ATR(14) 4.29 (~2.8% of price); beta 0.27 |
-| Setup perspective | -6.08% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $154.35; 52w high $165.54 (-6.76%); 52w low $98.64 (+56.48%) |
+| Trend | +11.78% vs SMA200, +2.98% vs SMA50, -1.12% vs SMA20 |
+| Momentum | RSI(14) 51.5 (neutral) |
+| Volatility | ATR(14) 4.25 (~2.8% of price); beta 0.27 |
+| Setup perspective | -6.76% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +4.7% |
-| Month | -1.6% |
-| Quarter | +5.3% |
-| Half Y | +10.3% |
-| 1Y | +46.8% |
-| YTD | +49.5% |
+| Week | +1.9% |
+| Month | -2.1% |
+| Quarter | +4.0% |
+| Half Y | +8.5% |
+| 1Y | +44.3% |
+| YTD | +48.5% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,14 +68,14 @@ EOG Resources, Inc., together with its subsidiaries, explores for, develops, pro
 | Revenue (ttm) | $29.17B | Revenue growth 42.70% y/y |
 | Profitability | Gross 62.98%, operating 35.47%, net 28.06% | ROA 11.90%, ROE 25.83% |
 | Balance sheet | Cash $5.75B, debt $8.26B | Current ratio 1.90, debt/equity 24.96 |
-| Valuation | P/E 10.22, forward P/E 9.18, P/S 2.76, P/B 2.44 | EV/Sales 2.85, EV/EBITDA 5.18 |
+| Valuation | P/E 9.96, forward P/E 9.09, P/S 2.74, P/B 2.42 | EV/Sales 2.85, EV/EBITDA 5.18 |
 | Growth expectations | Earnings growth 97.40%, EPS q/q 89.10% | Analyst mean target $168.17 (29 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 97.77% |
-| Insider ownership | 0.68% |
+| Institutional ownership | 96.80% |
+| Insider ownership | 0.29% |
 | Short float | 3.62% |
 | Short ratio (days to cover) | 6.2 |
 
@@ -88,11 +88,11 @@ EOG Resources, Inc., together with its subsidiaries, explores for, develops, pro
 | Vanguard Capital Management LLC | 34,337,909 | 6.62% | 2026-09-30 |
 | State Street Corporation | 32,590,931 | 6.29% | 2026-09-30 |
 | JPMORGAN CHASE & CO | 28,001,800 | 5.40% | 2026-09-30 |
-| Charles Schwab Investment Management, Inc. | 17,635,817 | 3.40% | 2026-06-30 |
+| Charles Schwab Investment Management, Inc. | 18,699,255 | 3.61% | 2026-09-30 |
 | Capital Research Global Investors | 16,459,673 | 3.17% | 2026-09-30 |
 | Geode Capital Management, LLC | 13,475,471 | 2.60% | 2026-09-30 |
 | Vanguard Portfolio Management LLC | 13,482,482 | 2.60% | 2026-09-30 |
-| Ameriprise Financial, Inc. | 9,274,800 | 1.79% | 2026-06-30 |
+| Ameriprise Financial, Inc. | 8,203,588 | 1.58% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
 - **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
@@ -110,21 +110,21 @@ EOG Resources, Inc., together with its subsidiaries, explores for, develops, pro
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $155.47 | EV/Sales | 2.85 |
-| Market cap | $80.61B | EV/EBITDA | 5.18 |
+| Price | $154.35 | EV/Sales | 2.85 |
+| Market cap | $80.03B | EV/EBITDA | 5.18 |
 | Beta | 0.27 | Gross margin | 62.98% |
-| RSI(14) | 53.3 | Operating margin | 35.47% |
-| ATR(14) | 4.29 | Profit margin | 28.06% |
-| SMA20 dist | -0.52% | ROA | 11.90% |
-| SMA50 dist | +3.86% | ROE | 25.83% |
-| SMA200 dist | +12.79% | Revenue (ttm) | $29.17B |
+| RSI(14) | 51.5 | Operating margin | 35.47% |
+| ATR(14) | 4.25 | Profit margin | 28.06% |
+| SMA20 dist | -1.12% | ROA | 11.90% |
+| SMA50 dist | +2.98% | ROE | 25.83% |
+| SMA200 dist | +11.78% | Revenue (ttm) | $29.17B |
 | 52W high | $165.54 | Revenue growth y/y | 42.70% |
-| 52W low | $98.64 | Inst. ownership | 97.77% |
-| P/E (ttm) | 10.22 | Insider ownership | 0.68% |
-| Forward P/E | 9.18 | Short float | 3.62% |
-| PEG (trailing) | 1.20 | Avg volume | 3,091,056 |
-| P/S | 2.76 | Employees | 3,400 |
-| P/B | 2.44 | Analyst rec (1=buy..5=sell) | 2.4 |
+| 52W low | $98.64 | Inst. ownership | 96.80% |
+| P/E (ttm) | 9.96 | Insider ownership | 0.29% |
+| Forward P/E | 9.09 | Short float | 3.62% |
+| PEG (trailing) | 1.24 | Avg volume | 3,110,812 |
+| P/S | 2.74 | Employees | 3,400 |
+| P/B | 2.42 | Analyst rec (1=buy..5=sell) | 2.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

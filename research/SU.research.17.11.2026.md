@@ -4,8 +4,8 @@ Signed file: `SU.research.17.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $67.96 (2026-11-17, ~15-min delayed) |
-| Market cap | $78.24B |
+| Current price | $68.10 (2026-11-17, ~15-min delayed) |
+| Market cap | $78.39B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
 | Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated. |
@@ -15,11 +15,11 @@ Signed file: `SU.research.17.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +59.06%; price +6.19% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -14.49% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +56.72%; price +6.26% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -14.32% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 17.68%, revenue growth 50.40%. |
-| Value attractiveness | Reasonable | Forward P/E 9.60, EV/Sales 1.35. |
-| Risk level | Elevated | Beta 0.47, ATR 3.2% of price, short float —. |
+| Value attractiveness | Reasonable | Forward P/E 9.61, EV/Sales 1.35. |
+| Risk level | Elevated | Beta 0.47, ATR 3.1% of price, short float —. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated.
 
@@ -36,30 +36,30 @@ Suncor Energy Inc. operates as an integrated energy company in Canada, the Unite
 
 | Headline | Source | Date |
 |---|---|---|
+| Zacks.com featured highlights include Avnet, ATI, Farmers & Merchants, Semtech and Suncor | Zacks | 2026-11-17 |
+| Why Is Suncor Energy (TSX:SU) Rethinking Its In Situ Growth Plans? | Simply Wall St. | 2026-11-17 |
 | 4 High-Yield Big Oil Stocks Built to Keep Paying Dividends as Crude Prices Fall | 24/7 Wall St. | 2026-11-16 |
 | Buy These 5 Top-Ranked High-Efficiency Stocks With Strong Profit Potential | Zacks | 2026-11-16 |
-| How Investors Are Reacting To Suncor Energy (TSX:SU) Strong Earnings And Higher Dividend | Simply Wall St. | 2026-11-13 |
-| Cenovus' Oil Sands Strength and Cost Discipline Support Growth | Zacks | 2026-11-13 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $67.96; 52w high $79.48 (-14.49%); 52w low $41.35 (+64.34%) |
-| Trend | +6.19% vs SMA200, -5.25% vs SMA50, -7.95% vs SMA20 |
-| Momentum | RSI(14) 37.9 (neutral) |
-| Volatility | ATR(14) 2.17 (~3.2% of price); beta 0.47 |
-| Setup perspective | -14.49% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $68.10; 52w high $79.48 (-14.32%); 52w low $41.35 (+64.66%) |
+| Trend | +6.26% vs SMA200, -5.07% vs SMA50, -7.12% vs SMA20 |
+| Momentum | RSI(14) 38.4 (neutral) |
+| Volatility | ATR(14) 2.09 (~3.1% of price); beta 0.47 |
+| Setup perspective | -14.32% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +0.8% |
-| Month | -12.9% |
-| Quarter | +1.1% |
-| Half Y | -1.3% |
-| 1Y | +59.1% |
-| YTD | +52.2% |
+| Week | +0.5% |
+| Month | -13.1% |
+| Quarter | +1.6% |
+| Half Y | -1.0% |
+| 1Y | +56.7% |
+| YTD | +52.5% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,14 +68,14 @@ Suncor Energy Inc. operates as an integrated energy company in Canada, the Unite
 | Revenue (ttm) | $62.90B | Revenue growth 50.40% y/y |
 | Profitability | Gross 60.55%, operating 24.04%, net 17.68% | ROA 10.11%, ROE 23.46% |
 | Balance sheet | Cash $8.00B, debt $14.44B | Current ratio 1.71, debt/equity 29.07 |
-| Valuation | P/E 10.31, forward P/E 9.60, P/S 1.24, P/B 2.23 | EV/Sales 1.35, EV/EBITDA 3.65 |
-| Growth expectations | Earnings growth 144.60%, EPS q/q 135.60% | Analyst mean target $74.32 (3 analysts) |
+| Valuation | P/E 10.04, forward P/E 9.61, P/S 1.25, P/B 2.23 | EV/Sales 1.35, EV/EBITDA 3.65 |
+| Growth expectations | Earnings growth 144.60%, EPS q/q 135.60% | Analyst mean target $74.38 (3 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 74.28% |
-| Insider ownership | 0.10% |
+| Institutional ownership | 73.99% |
+| Insider ownership | 0.01% |
 | Short float | — |
 | Short ratio (days to cover) | 3.6 |
 
@@ -87,7 +87,7 @@ Suncor Energy Inc. operates as an integrated energy company in Canada, the Unite
 | Bank of Montreal /CAN/ | 38,605,870 | 3.33% | 2026-09-30 |
 | Vanguard Capital Management LLC | 34,493,438 | 2.98% | 2026-09-30 |
 | FIL LTD | 31,215,979 | 2.69% | 2026-09-30 |
-| Elliott Investment Management L.P. | 29,454,000 | 2.54% | 2026-06-30 |
+| Elliott Investment Management L.P. | 29,454,000 | 2.54% | 2026-09-30 |
 | Arrowstreet Capital, Limited Partnership | 25,903,810 | 2.24% | 2026-09-30 |
 | Dodge & Cox Inc. | 24,596,454 | 2.12% | 2026-09-30 |
 | FMR, LLC | 21,033,010 | 1.82% | 2026-09-30 |
@@ -95,7 +95,7 @@ Suncor Energy Inc. operates as an integrated energy company in Canada, the Unite
 | TD Asset Management, Inc | 18,821,384 | 1.62% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 0.47, ATR 3.2% of price, short float —. Size positions accordingly.
+- **Volatility risk:** Beta 0.47, ATR 3.1% of price, short float —. Size positions accordingly.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -110,20 +110,20 @@ Suncor Energy Inc. operates as an integrated energy company in Canada, the Unite
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $67.96 | EV/Sales | 1.35 |
-| Market cap | $78.24B | EV/EBITDA | 3.65 |
+| Price | $68.10 | EV/Sales | 1.35 |
+| Market cap | $78.39B | EV/EBITDA | 3.65 |
 | Beta | 0.47 | Gross margin | 60.55% |
-| RSI(14) | 37.9 | Operating margin | 24.04% |
-| ATR(14) | 2.17 | Profit margin | 17.68% |
-| SMA20 dist | -7.95% | ROA | 10.11% |
-| SMA50 dist | -5.25% | ROE | 23.46% |
-| SMA200 dist | +6.19% | Revenue (ttm) | $62.90B |
+| RSI(14) | 38.4 | Operating margin | 24.04% |
+| ATR(14) | 2.09 | Profit margin | 17.68% |
+| SMA20 dist | -7.12% | ROA | 10.11% |
+| SMA50 dist | -5.07% | ROE | 23.46% |
+| SMA200 dist | +6.26% | Revenue (ttm) | $62.90B |
 | 52W high | $79.48 | Revenue growth y/y | 50.40% |
-| 52W low | $41.35 | Inst. ownership | 74.28% |
-| P/E (ttm) | 10.31 | Insider ownership | 0.10% |
-| Forward P/E | 9.60 | Short float | — |
-| PEG (trailing) | — | Avg volume | 4,009,332 |
-| P/S | 1.24 | Employees | 15,424 |
+| 52W low | $41.35 | Inst. ownership | 73.99% |
+| P/E (ttm) | 10.04 | Insider ownership | 0.01% |
+| Forward P/E | 9.61 | Short float | — |
+| PEG (trailing) | — | Avg volume | 4,007,953 |
+| P/S | 1.25 | Employees | 15,424 |
 | P/B | 2.23 | Analyst rec (1=buy..5=sell) | 2.0 |
 
 ## 8. Analyst Actions

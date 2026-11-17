@@ -1,11 +1,11 @@
 # WFRD Research Report
-**Weatherford International plc** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**Weatherford International Corp** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `WFRD.research.17.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $84.64 (2026-11-17, ~15-min delayed) |
-| Market cap | $6.13B |
+| Current price | $81.79 (2026-11-17, ~15-min delayed) |
+| Market cap | $5.93B |
 | Sector / Industry | Energy / Oil & Gas Equipment & Services |
 | Main theme | Oil & Gas Equipment & Services — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
@@ -15,11 +15,11 @@ Signed file: `WFRD.research.17.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-8.29%) with negative half-year (-23.54%). |
-| Fresh setup quality | Moderate / wait | -23.54% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-11.33%) with negative half-year (-24.66%). |
+| Fresh setup quality | Poor / broken | -26.11% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 8.64%, revenue growth -7.20%. |
-| Value attractiveness | Reasonable | Forward P/E 12.64, EV/Sales 1.42. |
-| Risk level | Elevated | Beta 0.83, ATR 4.0% of price, short float 6.42%. |
+| Value attractiveness | Reasonable | Forward P/E 12.22, EV/Sales 1.42. |
+| Risk level | Elevated | Beta 0.83, ATR 4.3% of price, short float 6.42%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
 
@@ -30,7 +30,7 @@ Signed file: `WFRD.research.17.11.2026`
 - Can earnings convert fast enough to justify the valuation?
 
 ## 2. Company Overview and Recent Catalysts
-Weatherford International plc, an energy services company, provides equipment and services for the drilling, evaluation, completion, production, and intervention of oil, geothermal, and natural gas wells worldwide. The company operates through three segments: Drilling and Evaluation; Well Construction and Completions; and Production and Intervention.
+Weatherford International Corp provides equipment and services for the drilling, evaluation, completion, production, and intervention of oil, geothermal, and natural gas wells worldwide. It offers managed pressure drilling; directional drilling, and logging and measurement; services related to rotary-steerable systems, high temperature and high pressure sensors, drilling reamers, and circulation subs; open-hole and cased-hole logging services; wireline and drilling fluids; and intervention and remediation services.
 
 **Recent headlines (potential catalysts):**
 
@@ -44,22 +44,22 @@ Weatherford International plc, an energy services company, provides equipment an
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $84.64; 52w high $110.70 (-23.54%); 52w low $69.15 (+22.40%) |
-| Trend | -8.29% vs SMA200, +1.64% vs SMA50, -1.52% vs SMA20 |
-| Momentum | RSI(14) 50.0 (neutral) |
-| Volatility | ATR(14) 3.36 (~4.0% of price); beta 0.83 |
-| Setup perspective | -23.54% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $81.79; 52w high $110.70 (-26.11%); 52w low $69.15 (+18.28%) |
+| Trend | -11.33% vs SMA200, -1.51% vs SMA50, -4.98% vs SMA20 |
+| Momentum | RSI(14) 44.5 (neutral) |
+| Volatility | ATR(14) 3.49 (~4.3% of price); beta 0.83 |
+| Setup perspective | -26.11% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -1.0% |
-| Month | +11.5% |
-| Quarter | -7.7% |
-| Half Y | -23.5% |
-| 1Y | +18.6% |
-| YTD | +5.9% |
+| Week | -3.0% |
+| Month | +6.5% |
+| Quarter | -11.0% |
+| Half Y | -24.7% |
+| 1Y | +14.6% |
+| YTD | +2.3% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,14 +68,14 @@ Weatherford International plc, an energy services company, provides equipment an
 | Revenue (ttm) | $4.69B | Revenue growth -7.20% y/y |
 | Profitability | Gross 30.80%, operating 13.16%, net 8.64% | ROA 7.27%, ROE 23.32% |
 | Balance sheet | Cash $1.16B, debt $1.63B | Current ratio 2.04, debt/equity 81.73 |
-| Valuation | P/E 15.09, forward P/E 12.64, P/S 1.31, P/B 3.14 | EV/Sales 1.42, EV/EBITDA 7.36 |
+| Valuation | P/E 14.58, forward P/E 12.22, P/S 1.26, P/B 3.03 | EV/Sales 1.42, EV/EBITDA 7.36 |
 | Growth expectations | Earnings growth 48.20%, EPS q/q 48.10% | Analyst mean target $112.33 (12 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | — |
-| Insider ownership | — |
+| Institutional ownership | 105.16% |
+| Insider ownership | 2.13% |
 | Short float | 6.42% |
 | Short ratio (days to cover) | 3.8 |
 
@@ -83,20 +83,21 @@ Weatherford International plc, an energy services company, provides equipment an
 
 | Holder | Shares | % Out | Reported |
 |---|---|---|---|
-| Blackrock Inc. | 7,923,482 | 11.00% | 2026-06-30 |
-| Price (T.Rowe) Associates Inc | 4,472,757 | 6.21% | 2026-06-30 |
-| Vanguard Portfolio Management LLC | 4,158,478 | 5.77% | 2026-06-30 |
-| FMR, LLC | 3,721,163 | 5.16% | 2026-09-30 |
-| American Century Companies Inc | 3,379,375 | 4.69% | 2026-09-30 |
-| Vanguard Capital Management LLC | 3,248,731 | 4.51% | 2026-06-30 |
-| Capital Research Global Investors | 2,725,608 | 3.78% | 2026-09-30 |
-| State Street Corporation | 2,427,011 | 3.37% | 2026-09-30 |
-| Invesco Ltd. | 2,183,371 | 3.03% | 2026-09-30 |
-| Fuller & Thaler Asset Management Inc. | 2,145,791 | 2.98% | 2026-06-30 |
+| Blackrock Inc. | 8,340,163 | 11.51% | 2026-09-30 |
+| Price (T.Rowe) Associates Inc | 4,744,585 | 6.55% | 2026-09-30 |
+| Vanguard Portfolio Management LLC | 3,969,067 | 5.48% | 2026-09-30 |
+| FMR, LLC | 3,721,163 | 5.13% | 2026-09-30 |
+| American Century Companies Inc | 3,379,375 | 4.66% | 2026-09-30 |
+| Vanguard Capital Management LLC | 3,160,768 | 4.36% | 2026-09-30 |
+| Capital Research Global Investors | 2,725,608 | 3.76% | 2026-09-30 |
+| State Street Corporation | 2,427,011 | 3.35% | 2026-09-30 |
+| Invesco Ltd. | 2,183,371 | 3.01% | 2026-09-30 |
+| Fuller & Thaler Asset Management Inc. | 1,990,151 | 2.75% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 0.83, ATR 4.0% of price, short float 6.42%. Size positions accordingly.
+- **Volatility risk:** Beta 0.83, ATR 4.3% of price, short float 6.42%. Size positions accordingly.
 - **Short interest risk:** short float 6.42% can fuel squeezes both ways around news.
+- **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -111,21 +112,21 @@ Weatherford International plc, an energy services company, provides equipment an
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $84.64 | EV/Sales | 1.42 |
-| Market cap | $6.13B | EV/EBITDA | 7.36 |
+| Price | $81.79 | EV/Sales | 1.42 |
+| Market cap | $5.93B | EV/EBITDA | 7.36 |
 | Beta | 0.83 | Gross margin | 30.80% |
-| RSI(14) | 50.0 | Operating margin | 13.16% |
-| ATR(14) | 3.36 | Profit margin | 8.64% |
-| SMA20 dist | -1.52% | ROA | 7.27% |
-| SMA50 dist | +1.64% | ROE | 23.32% |
-| SMA200 dist | -8.29% | Revenue (ttm) | $4.69B |
+| RSI(14) | 44.5 | Operating margin | 13.16% |
+| ATR(14) | 3.49 | Profit margin | 8.64% |
+| SMA20 dist | -4.98% | ROA | 7.27% |
+| SMA50 dist | -1.51% | ROE | 23.32% |
+| SMA200 dist | -11.33% | Revenue (ttm) | $4.69B |
 | 52W high | $110.70 | Revenue growth y/y | -7.20% |
-| 52W low | $69.15 | Inst. ownership | — |
-| P/E (ttm) | 15.09 | Insider ownership | — |
-| Forward P/E | 12.64 | Short float | 6.42% |
-| PEG (trailing) | 1.30 | Avg volume | 1,017,564 |
-| P/S | 1.31 | Employees | 16,700 |
-| P/B | 3.14 | Analyst rec (1=buy..5=sell) | 1.7 |
+| 52W low | $69.15 | Inst. ownership | 105.16% |
+| P/E (ttm) | 14.58 | Insider ownership | 2.13% |
+| Forward P/E | 12.22 | Short float | 6.42% |
+| PEG (trailing) | 1.28 | Avg volume | 1,018,578 |
+| P/S | 1.26 | Employees | 16,700 |
+| P/B | 3.03 | Analyst rec (1=buy..5=sell) | 1.7 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

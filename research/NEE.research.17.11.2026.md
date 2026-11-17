@@ -4,8 +4,8 @@ Signed file: `NEE.research.17.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $85.34 (2026-11-17, ~15-min delayed) |
-| Market cap | $178.98B |
+| Current price | $84.75 (2026-11-17, ~15-min delayed) |
+| Market cap | $177.74B |
 | Sector / Industry | Utilities / Utilities - Regulated Electric |
 | Main theme | Utilities - Regulated Electric — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `NEE.research.17.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-1.38%) with negative half-year (-2.73%). |
-| Fresh setup quality | Moderate / wait | -11.51% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-2.07%) with negative half-year (-4.50%). |
+| Fresh setup quality | Moderate / wait | -12.13% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 40.37%, revenue growth 1.60%. |
-| Value attractiveness | Reasonable | Forward P/E 19.51, EV/Sales 10.41. |
-| Risk level | Moderate | Beta 0.60, ATR 2.0% of price, short float 0.00%. |
+| Value attractiveness | Reasonable | Forward P/E 19.37, EV/Sales 10.41. |
+| Risk level | Moderate | Beta 0.60, ATR 1.9% of price, short float 0.00%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
@@ -36,30 +36,30 @@ NextEra Energy, Inc., through its subsidiaries, generates, stores, transmits, di
 
 | Headline | Source | Date |
 |---|---|---|
+| Why Did Constellation Energy Stock Jump Over 10%? | Trefis | 2026-11-17 |
+| Vistra Stock's $21 Billion Debt: Should Holders Worry? | Trefis | 2026-11-17 |
 | What Mattered Most In Vistra's Latest Quarter? | Trefis | 2026-11-17 |
 | What's Going To Happen With Constellation Energy Stock Soon? | Trefis | 2026-11-17 |
-| ETFs Are Net Sellers of NextEra Energy Units (NEE) on Thursday | GuruFocus.com | 2026-11-16 |
-| Why Investors Should Own Businesses That Can Win Under Any Administration | Motley Fool | 2026-11-15 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $85.34; 52w high $96.44 (-11.51%); 52w low $75.49 (+13.05%) |
-| Trend | -1.38% vs SMA200, +5.56% vs SMA50, +1.57% vs SMA20 |
-| Momentum | RSI(14) 58.8 (neutral) |
-| Volatility | ATR(14) 1.68 (~2.0% of price); beta 0.60 |
-| Setup perspective | -11.51% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $84.75; 52w high $96.44 (-12.13%); 52w low $75.49 (+12.26%) |
+| Trend | -2.07% vs SMA200, +4.80% vs SMA50, +0.51% vs SMA20 |
+| Momentum | RSI(14) 55.7 (neutral) |
+| Volatility | ATR(14) 1.64 (~1.9% of price); beta 0.60 |
+| Setup perspective | -12.13% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -1.7% |
-| Month | +6.9% |
-| Quarter | -0.3% |
-| Half Y | -2.7% |
-| 1Y | +4.5% |
-| YTD | +7.8% |
+| Week | -1.8% |
+| Month | +8.4% |
+| Quarter | -0.6% |
+| Half Y | -4.5% |
+| 1Y | +3.9% |
+| YTD | +7.0% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,14 +68,14 @@ NextEra Energy, Inc., through its subsidiaries, generates, stores, transmits, di
 | Revenue (ttm) | $28.82B | Revenue growth 1.60% y/y |
 | Profitability | Gross 60.17%, operating 30.03%, net 40.37% | ROA 2.41%, ROE 14.06% |
 | Balance sheet | Cash $5.58B, debt $113.93B | Current ratio 0.53, debt/equity 153.25 |
-| Valuation | P/E 15.35, forward P/E 19.51, P/S 6.21, P/B 2.91 | EV/Sales 10.41, EV/EBITDA 22.40 |
+| Valuation | P/E 15.27, forward P/E 19.37, P/S 6.17, P/B 2.89 | EV/Sales 10.41, EV/EBITDA 22.40 |
 | Growth expectations | Earnings growth 93.20%, EPS q/q 95.90% | Analyst mean target $94.11 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 86.82% |
-| Insider ownership | 0.43% |
+| Institutional ownership | 87.58% |
+| Insider ownership | 0.25% |
 | Short float | 0.00% |
 | Short ratio (days to cover) | 0.0 |
 
@@ -92,7 +92,7 @@ NextEra Energy, Inc., through its subsidiaries, generates, stores, transmits, di
 | Geode Capital Management, LLC | 49,669,724 | 2.37% | 2026-09-30 |
 | Franklin Templeton, Inc. | 42,664,427 | 2.03% | 2026-09-30 |
 | NORGES BANK | 32,117,624 | 1.53% | 2026-06-30 |
-| Mirabaud Asset Management Ltd | 30,164,000 | 1.44% | 2026-09-30 |
+| Wells Fargo & Company | 31,174,459 | 1.49% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
@@ -109,21 +109,21 @@ NextEra Energy, Inc., through its subsidiaries, generates, stores, transmits, di
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $85.34 | EV/Sales | 10.41 |
-| Market cap | $178.98B | EV/EBITDA | 22.40 |
+| Price | $84.75 | EV/Sales | 10.41 |
+| Market cap | $177.74B | EV/EBITDA | 22.40 |
 | Beta | 0.60 | Gross margin | 60.17% |
-| RSI(14) | 58.8 | Operating margin | 30.03% |
-| ATR(14) | 1.68 | Profit margin | 40.37% |
-| SMA20 dist | +1.57% | ROA | 2.41% |
-| SMA50 dist | +5.56% | ROE | 14.06% |
-| SMA200 dist | -1.38% | Revenue (ttm) | $28.82B |
+| RSI(14) | 55.7 | Operating margin | 30.03% |
+| ATR(14) | 1.64 | Profit margin | 40.37% |
+| SMA20 dist | +0.51% | ROA | 2.41% |
+| SMA50 dist | +4.80% | ROE | 14.06% |
+| SMA200 dist | -2.07% | Revenue (ttm) | $28.82B |
 | 52W high | $96.44 | Revenue growth y/y | 1.60% |
-| 52W low | $75.49 | Inst. ownership | 86.82% |
-| P/E (ttm) | 15.35 | Insider ownership | 0.43% |
-| Forward P/E | 19.51 | Short float | 0.00% |
-| PEG (trailing) | 1.74 | Avg volume | 12,270,332 |
-| P/S | 6.21 | Employees | 17,400 |
-| P/B | 2.91 | Analyst rec (1=buy..5=sell) | 1.9 |
+| 52W low | $75.49 | Inst. ownership | 87.58% |
+| P/E (ttm) | 15.27 | Insider ownership | 0.25% |
+| Forward P/E | 19.37 | Short float | 0.00% |
+| PEG (trailing) | 1.74 | Avg volume | 12,305,775 |
+| P/S | 6.17 | Employees | 17,400 |
+| P/B | 2.89 | Analyst rec (1=buy..5=sell) | 1.9 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

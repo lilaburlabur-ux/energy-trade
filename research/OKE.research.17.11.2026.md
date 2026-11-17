@@ -4,8 +4,8 @@ Signed file: `OKE.research.17.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $88.08 (2026-11-17, ~15-min delayed) |
-| Market cap | $55.53B |
+| Current price | $88.33 (2026-11-17, ~15-min delayed) |
+| Market cap | $55.69B |
 | Sector / Industry | Energy / Oil & Gas Midstream |
 | Main theme | Oil & Gas Midstream — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `OKE.research.17.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +33.14%; price +0.69% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -8.66% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +31.54%; price +0.89% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -8.40% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 9.42%, revenue growth 44.30%. |
-| Value attractiveness | Reasonable | Forward P/E 14.39, EV/Sales 2.15. |
-| Risk level | Moderate | Beta 0.74, ATR 2.7% of price, short float 4.86%. |
+| Value attractiveness | Reasonable | Forward P/E 14.43, EV/Sales 2.15. |
+| Risk level | Moderate | Beta 0.74, ATR 2.6% of price, short float 4.86%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
@@ -44,22 +44,22 @@ ONEOK, Inc. operates as a midstream service provider of gathering, processing, f
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $88.08; 52w high $96.44 (-8.66%); 52w low $65.60 (+34.26%) |
-| Trend | +0.69% vs SMA200, -2.85% vs SMA50, -3.14% vs SMA20 |
-| Momentum | RSI(14) 44.3 (neutral) |
-| Volatility | ATR(14) 2.38 (~2.7% of price); beta 0.74 |
-| Setup perspective | -8.66% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $88.33; 52w high $96.44 (-8.40%); 52w low $65.60 (+34.65%) |
+| Trend | +0.89% vs SMA200, -2.39% vs SMA50, -2.68% vs SMA20 |
+| Momentum | RSI(14) 45.1 (neutral) |
+| Volatility | ATR(14) 2.31 (~2.6% of price); beta 0.74 |
+| Setup perspective | -8.40% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +2.4% |
-| Month | -4.6% |
-| Quarter | -8.2% |
-| Half Y | -3.9% |
-| 1Y | +33.1% |
-| YTD | +24.4% |
+| Week | +1.1% |
+| Month | -3.4% |
+| Quarter | -7.0% |
+| Half Y | -5.1% |
+| 1Y | +31.5% |
+| YTD | +24.7% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,14 +68,14 @@ ONEOK, Inc. operates as a midstream service provider of gathering, processing, f
 | Revenue (ttm) | $43.19B | Revenue growth 44.30% y/y |
 | Profitability | Gross 25.20%, operating 14.25%, net 9.42% | ROA 5.46%, ROE 15.02% |
 | Balance sheet | Cash $186.00M, debt $28.52B | Current ratio 0.84, debt/equity 87.73 |
-| Valuation | P/E 13.68, forward P/E 14.39, P/S 1.29, P/B 2.38 | EV/Sales 2.15, EV/EBITDA 12.08 |
+| Valuation | P/E 13.98, forward P/E 14.43, P/S 1.29, P/B 2.39 | EV/Sales 2.15, EV/EBITDA 12.08 |
 | Growth expectations | Earnings growth 43.00%, EPS q/q 43.80% | Analyst mean target $102.24 (21 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 81.18% |
-| Insider ownership | 1.03% |
+| Institutional ownership | 81.06% |
+| Insider ownership | 0.15% |
 | Short float | 4.86% |
 | Short ratio (days to cover) | 8.8 |
 
@@ -87,7 +87,7 @@ ONEOK, Inc. operates as a midstream service provider of gathering, processing, f
 | State Street Corporation | 41,478,761 | 6.58% | 2026-09-30 |
 | Vanguard Capital Management LLC | 41,236,037 | 6.54% | 2026-09-30 |
 | Vanguard Portfolio Management LLC | 30,803,275 | 4.89% | 2026-09-30 |
-| Charles Schwab Investment Management, Inc. | 20,373,418 | 3.23% | 2026-06-30 |
+| Charles Schwab Investment Management, Inc. | 21,917,325 | 3.48% | 2026-09-30 |
 | Geode Capital Management, LLC | 17,732,291 | 2.81% | 2026-09-30 |
 | Capital International Investors | 12,473,528 | 1.98% | 2026-09-30 |
 | First Eagle Investment Management, LLC | 11,838,297 | 1.88% | 2026-09-30 |
@@ -109,21 +109,21 @@ ONEOK, Inc. operates as a midstream service provider of gathering, processing, f
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $88.08 | EV/Sales | 2.15 |
-| Market cap | $55.53B | EV/EBITDA | 12.08 |
+| Price | $88.33 | EV/Sales | 2.15 |
+| Market cap | $55.69B | EV/EBITDA | 12.08 |
 | Beta | 0.74 | Gross margin | 25.20% |
-| RSI(14) | 44.3 | Operating margin | 14.25% |
-| ATR(14) | 2.38 | Profit margin | 9.42% |
-| SMA20 dist | -3.14% | ROA | 5.46% |
-| SMA50 dist | -2.85% | ROE | 15.02% |
-| SMA200 dist | +0.69% | Revenue (ttm) | $43.19B |
+| RSI(14) | 45.1 | Operating margin | 14.25% |
+| ATR(14) | 2.31 | Profit margin | 9.42% |
+| SMA20 dist | -2.68% | ROA | 5.46% |
+| SMA50 dist | -2.39% | ROE | 15.02% |
+| SMA200 dist | +0.89% | Revenue (ttm) | $43.19B |
 | 52W high | $96.44 | Revenue growth y/y | 44.30% |
-| 52W low | $65.60 | Inst. ownership | 81.18% |
-| P/E (ttm) | 13.68 | Insider ownership | 1.03% |
-| Forward P/E | 14.39 | Short float | 4.86% |
-| PEG (trailing) | 1.48 | Avg volume | 3,420,260 |
+| 52W low | $65.60 | Inst. ownership | 81.06% |
+| P/E (ttm) | 13.98 | Insider ownership | 0.15% |
+| Forward P/E | 14.43 | Short float | 4.86% |
+| PEG (trailing) | 1.45 | Avg volume | 3,403,721 |
 | P/S | 1.29 | Employees | 6,326 |
-| P/B | 2.38 | Analyst rec (1=buy..5=sell) | 2.3 |
+| P/B | 2.39 | Analyst rec (1=buy..5=sell) | 2.3 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

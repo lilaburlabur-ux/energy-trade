@@ -4,8 +4,8 @@ Signed file: `DUK.research.17.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $130.59 (2026-11-17, ~15-min delayed) |
-| Market cap | $101.82B |
+| Current price | $130.22 (2026-11-17, ~15-min delayed) |
+| Market cap | $101.53B |
 | Sector / Industry | Utilities / Utilities - Regulated Electric |
 | Main theme | Utilities - Regulated Electric — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `DUK.research.17.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +10.30%; price +6.46% vs SMA200. |
-| Fresh setup quality | Watch | +0.00% from 52w high and near SMA20 — check for a tight base. |
+| Technical momentum | Moderate | 1Y +9.82%; price +6.10% vs SMA200. |
+| Fresh setup quality | Watch | -0.28% from 52w high and near SMA20 — check for a tight base. |
 | Fundamental quality | Mixed | Profit margin 16.16%, revenue growth 6.60%. |
-| Value attractiveness | Reasonable | Forward P/E 18.22, EV/Sales 5.94. |
-| Risk level | Moderate | Beta 0.31, ATR 1.7% of price, short float 2.57%. |
+| Value attractiveness | Reasonable | Forward P/E 18.17, EV/Sales 5.94. |
+| Risk level | Moderate | Beta 0.31, ATR 1.6% of price, short float 2.57%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
@@ -36,30 +36,30 @@ Duke Energy Corporation, through its subsidiaries, operates as an energy company
 
 | Headline | Source | Date |
 |---|---|---|
-| What Mattered Most In Vistra's Latest Quarter? | Trefis | 2026-11-17 |
-| What's Going To Happen With Constellation Energy Stock Soon? | Trefis | 2026-11-17 |
-| Con Ed’s 52-Year Dividend Streak Faces 3 Major Tests | 24/7 Wall St. | 2026-11-16 |
-| Is GEV Boosting Its Position in the Global Power Infrastructure Market? | Zacks | 2026-11-16 |
+| 4 High-Yield Energy Stocks That Pay Roth IRA Investors Tax-Free Income | 24/7 Wall St. | 2026-11-17 |
+| Invest $200,000 in These 5 Dividend Stocks to Fund Your Retirement Income | 24/7 Wall St. | 2026-11-17 |
+| Why Did Constellation Energy Stock Jump Over 10%? | Trefis | 2026-11-17 |
+| Vistra Stock's $21 Billion Debt: Should Holders Worry? | Trefis | 2026-11-17 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $130.59; 52w high $130.59 (+0.00%); 52w low $110.15 (+18.55%) |
-| Trend | +6.46% vs SMA200, +8.93% vs SMA50, +3.82% vs SMA20 |
-| Momentum | RSI(14) 69.8 (neutral) |
-| Volatility | ATR(14) 2.16 (~1.7% of price); beta 0.31 |
-| Setup perspective | +0.00% from 52w high and near SMA20 — check for a tight base. |
+| Price vs 52-week range | Close $130.22; 52w high $130.59 (-0.28%); 52w low $110.15 (+18.22%) |
+| Trend | +6.10% vs SMA200, +8.44% vs SMA50, +3.12% vs SMA20 |
+| Momentum | RSI(14) 68.1 (neutral) |
+| Volatility | ATR(14) 2.15 (~1.6% of price); beta 0.31 |
+| Setup perspective | -0.28% from 52w high and near SMA20 — check for a tight base. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +2.8% |
-| Month | +8.4% |
-| Quarter | +6.2% |
-| Half Y | +8.2% |
-| 1Y | +10.3% |
-| YTD | +15.1% |
+| Week | +1.9% |
+| Month | +10.1% |
+| Quarter | +6.3% |
+| Half Y | +6.4% |
+| 1Y | +9.8% |
+| YTD | +14.8% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,14 +68,14 @@ Duke Energy Corporation, through its subsidiaries, operates as an energy company
 | Revenue (ttm) | $33.37B | Revenue growth 6.60% y/y |
 | Profitability | Gross 52.58%, operating 27.77%, net 16.16% | ROA 2.92%, ROE 10.10% |
 | Balance sheet | Cash $451.00M, debt $93.78B | Current ratio 0.68, debt/equity 162.98 |
-| Valuation | P/E 19.15, forward P/E 18.22, P/S 3.05, P/B 1.87 | EV/Sales 5.94, EV/EBITDA 11.83 |
+| Valuation | P/E 19.09, forward P/E 18.17, P/S 3.04, P/B 1.87 | EV/Sales 5.94, EV/EBITDA 11.83 |
 | Growth expectations | Earnings growth 10.00%, EPS q/q 10.10% | Analyst mean target $132.87 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 70.29% |
-| Insider ownership | 0.36% |
+| Institutional ownership | 70.93% |
+| Insider ownership | 0.13% |
 | Short float | 2.57% |
 | Short ratio (days to cover) | 4.7 |
 
@@ -91,8 +91,8 @@ Duke Energy Corporation, through its subsidiaries, operates as an energy company
 | Morgan Stanley | 12,309,835 | 1.58% | 2026-09-30 |
 | Massachusetts Financial Services Co. | 11,780,753 | 1.51% | 2026-09-30 |
 | Franklin Templeton, Inc. | 10,543,459 | 1.35% | 2026-09-30 |
-| Charles Schwab Investment Management, Inc. | 9,226,192 | 1.18% | 2026-06-30 |
-| FMR, LLC | 8,928,138 | 1.15% | 2026-09-30 |
+| Charles Schwab Investment Management, Inc. | 9,374,448 | 1.20% | 2026-09-30 |
+| Bank of America Corporation | 9,279,009 | 1.19% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
 - **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
@@ -110,20 +110,20 @@ Duke Energy Corporation, through its subsidiaries, operates as an energy company
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $130.59 | EV/Sales | 5.94 |
-| Market cap | $101.82B | EV/EBITDA | 11.83 |
+| Price | $130.22 | EV/Sales | 5.94 |
+| Market cap | $101.53B | EV/EBITDA | 11.83 |
 | Beta | 0.31 | Gross margin | 52.58% |
-| RSI(14) | 69.8 | Operating margin | 27.77% |
-| ATR(14) | 2.16 | Profit margin | 16.16% |
-| SMA20 dist | +3.82% | ROA | 2.92% |
-| SMA50 dist | +8.93% | ROE | 10.10% |
-| SMA200 dist | +6.46% | Revenue (ttm) | $33.37B |
+| RSI(14) | 68.1 | Operating margin | 27.77% |
+| ATR(14) | 2.15 | Profit margin | 16.16% |
+| SMA20 dist | +3.12% | ROA | 2.92% |
+| SMA50 dist | +8.44% | ROE | 10.10% |
+| SMA200 dist | +6.10% | Revenue (ttm) | $33.37B |
 | 52W high | $130.59 | Revenue growth y/y | 6.60% |
-| 52W low | $110.15 | Inst. ownership | 70.29% |
-| P/E (ttm) | 19.15 | Insider ownership | 0.36% |
-| Forward P/E | 18.22 | Short float | 2.57% |
-| PEG (trailing) | 2.41 | Avg volume | 4,099,589 |
-| P/S | 3.05 | Employees | 26,441 |
+| 52W low | $110.15 | Inst. ownership | 70.93% |
+| P/E (ttm) | 19.09 | Insider ownership | 0.13% |
+| Forward P/E | 18.17 | Short float | 2.57% |
+| PEG (trailing) | 2.43 | Avg volume | 4,154,487 |
+| P/S | 3.04 | Employees | 26,441 |
 | P/B | 1.87 | Analyst rec (1=buy..5=sell) | 2.1 |
 
 ## 8. Analyst Actions

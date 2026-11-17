@@ -4,8 +4,8 @@ Signed file: `SO.research.17.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $94.64 (2026-11-17, ~15-min delayed) |
-| Market cap | $110.19B |
+| Current price | $93.53 (2026-11-17, ~15-min delayed) |
+| Market cap | $108.89B |
 | Sector / Industry | Utilities / Utilities - Regulated Electric |
 | Main theme | Utilities - Regulated Electric — see catalysts below |
 | Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `SO.research.17.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +8.11%; price +3.86% vs SMA200. |
-| Fresh setup quality | Watch | -2.13% from 52w high and near SMA20 — check for a tight base. |
+| Technical momentum | Moderate | 1Y +7.41%; price +2.59% vs SMA200. |
+| Fresh setup quality | Watch | -3.28% from 52w high and near SMA20 — check for a tight base. |
 | Fundamental quality | Strong | Profit margin 16.00%, revenue growth 13.00%. |
-| Value attractiveness | Reasonable | Forward P/E 19.18, EV/Sales 5.98. |
-| Risk level | Moderate | Beta 0.29, ATR 2.0% of price, short float 2.61%. |
+| Value attractiveness | Reasonable | Forward P/E 18.95, EV/Sales 5.98. |
+| Risk level | Moderate | Beta 0.29, ATR 1.9% of price, short float 2.61%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate.
 
@@ -36,30 +36,30 @@ The Southern Company, through its subsidiaries, engages in the sale of electrici
 
 | Headline | Source | Date |
 |---|---|---|
-| What Mattered Most In Vistra's Latest Quarter? | Trefis | 2026-11-17 |
-| What's Going To Happen With Constellation Energy Stock Soon? | Trefis | 2026-11-17 |
-| Con Ed’s 52-Year Dividend Streak Faces 3 Major Tests | 24/7 Wall St. | 2026-11-16 |
-| History Says This Dividend Stock Can Protect Your Portfolio if a Stock Market Slump Is Coming | Motley Fool | 2026-11-15 |
+| 4 High-Yield Energy Stocks That Pay Roth IRA Investors Tax-Free Income | 24/7 Wall St. | 2026-11-17 |
+| Southern Company Rises About 9% YTD: Buy, Hold or Sell the Stock? | Zacks | 2026-11-17 |
+| Why Did Constellation Energy Stock Jump Over 10%? | Trefis | 2026-11-17 |
+| Vistra Stock's $21 Billion Debt: Should Holders Worry? | Trefis | 2026-11-17 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $94.64; 52w high $96.70 (-2.13%); 52w low $81.40 (+16.27%) |
-| Trend | +3.86% vs SMA200, +7.41% vs SMA50, +2.54% vs SMA20 |
-| Momentum | RSI(14) 64.8 (neutral) |
-| Volatility | ATR(14) 1.85 (~2.0% of price); beta 0.29 |
-| Setup perspective | -2.13% from 52w high and near SMA20 — check for a tight base. |
+| Price vs 52-week range | Close $93.53; 52w high $96.70 (-3.28%); 52w low $81.40 (+14.91%) |
+| Trend | +2.59% vs SMA200, +6.03% vs SMA50, +1.15% vs SMA20 |
+| Momentum | RSI(14) 59.2 (neutral) |
+| Volatility | ATR(14) 1.80 (~1.9% of price); beta 0.29 |
+| Setup perspective | -3.28% from 52w high and near SMA20 — check for a tight base. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +2.0% |
-| Month | +4.6% |
-| Quarter | +3.6% |
-| Half Y | +2.7% |
-| 1Y | +8.1% |
-| YTD | +12.1% |
+| Week | +0.7% |
+| Month | +5.6% |
+| Quarter | +2.3% |
+| Half Y | +1.0% |
+| 1Y | +7.4% |
+| YTD | +10.8% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,14 +68,14 @@ The Southern Company, through its subsidiaries, engages in the sale of electrici
 | Revenue (ttm) | $31.20B | Revenue growth 13.00% y/y |
 | Profitability | Gross 48.55%, operating 27.38%, net 16.00% | ROA 3.36%, ROE 11.90% |
 | Balance sheet | Cash $1.74B, debt $75.49B | Current ratio 0.84, debt/equity 168.49 |
-| Valuation | P/E 21.36, forward P/E 19.18, P/S 3.53, P/B 2.62 | EV/Sales 5.98, EV/EBITDA 12.68 |
+| Valuation | P/E 21.35, forward P/E 18.95, P/S 3.49, P/B 2.59 | EV/Sales 5.98, EV/EBITDA 12.68 |
 | Growth expectations | Earnings growth 14.30%, EPS q/q 19.60% | Analyst mean target $96.28 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 74.00% |
-| Insider ownership | 0.36% |
+| Institutional ownership | 73.40% |
+| Insider ownership | 0.10% |
 | Short float | 2.61% |
 | Short ratio (days to cover) | 5.1 |
 
@@ -87,7 +87,7 @@ The Southern Company, through its subsidiaries, engages in the sale of electrici
 | Vanguard Capital Management LLC | 74,540,437 | 6.40% | 2026-09-30 |
 | State Street Corporation | 68,436,100 | 5.88% | 2026-09-30 |
 | Capital World Investors | 61,330,319 | 5.27% | 2026-09-30 |
-| Price (T.Rowe) Associates Inc | 46,415,904 | 3.99% | 2026-06-30 |
+| Price (T.Rowe) Associates Inc | 38,371,304 | 3.30% | 2026-09-30 |
 | JPMORGAN CHASE & CO | 33,020,583 | 2.84% | 2026-09-30 |
 | Geode Capital Management, LLC | 30,415,075 | 2.61% | 2026-09-30 |
 | Vanguard Portfolio Management LLC | 27,415,621 | 2.35% | 2026-09-30 |
@@ -110,21 +110,21 @@ The Southern Company, through its subsidiaries, engages in the sale of electrici
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $94.64 | EV/Sales | 5.98 |
-| Market cap | $110.19B | EV/EBITDA | 12.68 |
+| Price | $93.53 | EV/Sales | 5.98 |
+| Market cap | $108.89B | EV/EBITDA | 12.68 |
 | Beta | 0.29 | Gross margin | 48.55% |
-| RSI(14) | 64.8 | Operating margin | 27.38% |
-| ATR(14) | 1.85 | Profit margin | 16.00% |
-| SMA20 dist | +2.54% | ROA | 3.36% |
-| SMA50 dist | +7.41% | ROE | 11.90% |
-| SMA200 dist | +3.86% | Revenue (ttm) | $31.20B |
+| RSI(14) | 59.2 | Operating margin | 27.38% |
+| ATR(14) | 1.80 | Profit margin | 16.00% |
+| SMA20 dist | +1.15% | ROA | 3.36% |
+| SMA50 dist | +6.03% | ROE | 11.90% |
+| SMA200 dist | +2.59% | Revenue (ttm) | $31.20B |
 | 52W high | $96.70 | Revenue growth y/y | 13.00% |
-| 52W low | $81.40 | Inst. ownership | 74.00% |
-| P/E (ttm) | 21.36 | Insider ownership | 0.36% |
-| Forward P/E | 19.18 | Short float | 2.61% |
-| PEG (trailing) | 2.21 | Avg volume | 6,759,904 |
-| P/S | 3.53 | Employees | 29,502 |
-| P/B | 2.62 | Analyst rec (1=buy..5=sell) | 2.6 |
+| 52W low | $81.40 | Inst. ownership | 73.40% |
+| P/E (ttm) | 21.35 | Insider ownership | 0.10% |
+| Forward P/E | 18.95 | Short float | 2.61% |
+| PEG (trailing) | 2.24 | Avg volume | 6,894,585 |
+| P/S | 3.49 | Employees | 29,502 |
+| P/B | 2.59 | Analyst rec (1=buy..5=sell) | 2.6 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

@@ -4,8 +4,8 @@ Signed file: `ENPH.research.17.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $24.95 (2026-11-17, ~15-min delayed) |
-| Market cap | $3.30B |
+| Current price | $23.38 (2026-11-17, ~15-min delayed) |
+| Market cap | $3.09B |
 | Sector / Industry | Technology / Solar |
 | Main theme | Solar — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: high. |
@@ -15,11 +15,11 @@ Signed file: `ENPH.research.17.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-38.24%) with negative half-year (-49.79%). |
-| Fresh setup quality | Poor / broken | -65.51% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-42.04%) with negative half-year (-50.00%). |
+| Fresh setup quality | Poor / broken | -67.68% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 7.49%, revenue growth -28.50%. |
-| Value attractiveness | Reasonable | Forward P/E 18.76, EV/Sales 2.46. |
-| Risk level | High | Beta 1.45, ATR 8.3% of price, short float 24.85%. |
+| Value attractiveness | Reasonable | Forward P/E 17.58, EV/Sales 2.46. |
+| Risk level | High | Beta 1.45, ATR 8.7% of price, short float 24.85%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: high.
 
@@ -36,30 +36,30 @@ Enphase Energy, Inc., together with its subsidiaries, designs, develops, manufac
 
 | Headline | Source | Date |
 |---|---|---|
+| First Solar and Enphase Fall 5% as Solar Selloff Stretches On; SolarEdge Drops 4% | 24/7 Wall St. | 2026-11-17 |
 | BE Stock Falls Overnight: Retail Flags Valuation Concerns As Forward P/E Nears 18-Month Low | Stocktwits | 2026-11-16 |
 | How Low Can First Solar Stock Go? | Trefis | 2026-11-13 |
 | Enphase Energy, Inc. (ENPH) is Attracting Investor Attention: Here is What You Should Know | Zacks | 2026-11-13 |
-| What Changed In First Solar's Story? | Trefis | 2026-11-13 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $24.95; 52w high $72.33 (-65.51%); 52w low $24.95 (+0.00%) |
-| Trend | -38.24% vs SMA200, -21.21% vs SMA50, -13.06% vs SMA20 |
-| Momentum | RSI(14) 35.5 (neutral) |
-| Volatility | ATR(14) 2.07 (~8.3% of price); beta 1.45 |
-| Setup perspective | -65.51% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $23.38; 52w high $72.33 (-67.68%); 52w low $23.38 (+0.00%) |
+| Trend | -42.04% vs SMA200, -25.44% vs SMA50, -17.25% vs SMA20 |
+| Momentum | RSI(14) 32.1 (neutral) |
+| Volatility | ATR(14) 2.04 (~8.7% of price); beta 1.45 |
+| Setup perspective | -67.68% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -14.2% |
-| Month | -18.5% |
-| Quarter | -33.6% |
-| Half Y | -49.8% |
-| 1Y | -13.7% |
-| YTD | -26.1% |
+| Week | -15.4% |
+| Month | -23.7% |
+| Quarter | -40.6% |
+| Half Y | -50.0% |
+| 1Y | -18.5% |
+| YTD | -30.7% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,14 +68,14 @@ Enphase Energy, Inc., together with its subsidiaries, designs, develops, manufac
 | Revenue (ttm) | $1.21B | Revenue growth -28.50% y/y |
 | Profitability | Gross 24.10%, operating 0.65%, net 7.49% | ROA 0.16%, ROE 8.11% |
 | Balance sheet | Cash $931.85M, debt $614.56M | Current ratio 4.09, debt/equity 49.48 |
-| Valuation | P/E 38.98, forward P/E 18.76, P/S 2.73, P/B 2.66 | EV/Sales 2.46, EV/EBITDA 35.52 |
+| Valuation | P/E 34.89, forward P/E 17.58, P/S 2.55, P/B 2.49 | EV/Sales 2.46, EV/EBITDA 35.52 |
 | Growth expectations | Earnings growth -65.20%, EPS q/q -64.90% | Analyst mean target $39.42 (25 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 92.03% |
-| Insider ownership | 4.37% |
+| Institutional ownership | 92.59% |
+| Insider ownership | 3.08% |
 | Short float | 24.85% |
 | Short ratio (days to cover) | 4.2 |
 
@@ -85,17 +85,17 @@ Enphase Energy, Inc., together with its subsidiaries, designs, develops, manufac
 |---|---|---|---|
 | Blackrock Inc. | 23,400,941 | 17.69% | 2026-09-30 |
 | Vanguard Portfolio Management LLC | 8,942,597 | 6.76% | 2026-09-30 |
+| Slate Path Capital, LP | 5,896,570 | 4.46% | 2026-09-30 |
 | Vanguard Capital Management LLC | 5,729,664 | 4.33% | 2026-09-30 |
 | State Street Corporation | 4,746,637 | 3.59% | 2026-09-30 |
-| Two Sigma Investments, LP | 4,655,692 | 3.52% | 2026-06-30 |
-| Gilder Gagnon Howe & Co LLC | 3,478,961 | 2.63% | 2026-06-30 |
+| Gilder Gagnon Howe & Co LLC | 3,460,626 | 2.62% | 2026-09-30 |
 | Invesco Ltd. | 3,030,370 | 2.29% | 2026-09-30 |
-| Slate Path Capital, LP | 2,587,170 | 1.96% | 2026-06-30 |
+| Two Sigma Investments, LP | 2,540,178 | 1.92% | 2026-09-30 |
 | Geode Capital Management, LLC | 2,481,329 | 1.88% | 2026-09-30 |
 | First Trust Advisors LP | 2,324,864 | 1.76% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.45, ATR 8.3% of price, short float 24.85%. Size positions accordingly.
+- **Volatility risk:** Beta 1.45, ATR 8.7% of price, short float 24.85%. Size positions accordingly.
 - **Short interest risk:** short float 24.85% can fuel squeezes both ways around news.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
@@ -112,21 +112,21 @@ Enphase Energy, Inc., together with its subsidiaries, designs, develops, manufac
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $24.95 | EV/Sales | 2.46 |
-| Market cap | $3.30B | EV/EBITDA | 35.52 |
+| Price | $23.38 | EV/Sales | 2.46 |
+| Market cap | $3.09B | EV/EBITDA | 35.52 |
 | Beta | 1.45 | Gross margin | 24.10% |
-| RSI(14) | 35.5 | Operating margin | 0.65% |
-| ATR(14) | 2.07 | Profit margin | 7.49% |
-| SMA20 dist | -13.06% | ROA | 0.16% |
-| SMA50 dist | -21.21% | ROE | 8.11% |
-| SMA200 dist | -38.24% | Revenue (ttm) | $1.21B |
+| RSI(14) | 32.1 | Operating margin | 0.65% |
+| ATR(14) | 2.04 | Profit margin | 7.49% |
+| SMA20 dist | -17.25% | ROA | 0.16% |
+| SMA50 dist | -25.44% | ROE | 8.11% |
+| SMA200 dist | -42.04% | Revenue (ttm) | $1.21B |
 | 52W high | $72.33 | Revenue growth y/y | -28.50% |
-| 52W low | $24.95 | Inst. ownership | 92.03% |
-| P/E (ttm) | 38.98 | Insider ownership | 4.37% |
-| Forward P/E | 18.76 | Short float | 24.85% |
-| PEG (trailing) | 0.75 | Avg volume | 5,742,007 |
-| P/S | 2.73 | Employees | 2,872 |
-| P/B | 2.66 | Analyst rec (1=buy..5=sell) | 2.4 |
+| 52W low | $23.38 | Inst. ownership | 92.59% |
+| P/E (ttm) | 34.89 | Insider ownership | 3.08% |
+| Forward P/E | 17.58 | Short float | 24.85% |
+| PEG (trailing) | 0.75 | Avg volume | 5,742,371 |
+| P/S | 2.55 | Employees | 2,872 |
+| P/B | 2.49 | Analyst rec (1=buy..5=sell) | 2.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

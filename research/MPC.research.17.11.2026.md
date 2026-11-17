@@ -4,8 +4,8 @@ Signed file: `MPC.research.17.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $402.19 (2026-11-17, ~15-min delayed) |
-| Market cap | $109.51B |
+| Current price | $392.41 (2026-11-17, ~15-min delayed) |
+| Market cap | $106.85B |
 | Sector / Industry | Energy / Oil & Gas Refining & Marketing |
 | Main theme | Oil & Gas Refining & Marketing — see catalysts below |
 | Current stance | High technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
@@ -15,11 +15,11 @@ Signed file: `MPC.research.17.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +110.15%; price +33.14% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -17.06% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +99.50%; price +29.44% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -19.08% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 8.34%, revenue growth 60.90%. |
-| Value attractiveness | Reasonable | Forward P/E 6.69, EV/Sales 0.78. |
-| Risk level | Elevated | Beta 0.51, ATR 4.7% of price, short float 2.73%. |
+| Value attractiveness | Reasonable | Forward P/E 6.52, EV/Sales 0.78. |
+| Risk level | Elevated | Beta 0.51, ATR 4.8% of price, short float 2.73%. |
 
 **Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
 
@@ -36,30 +36,30 @@ Marathon Petroleum Corporation, together with its subsidiaries, operates as an i
 
 | Headline | Source | Date |
 |---|---|---|
+| Is Chevron Stock Overpriced Versus Its Oil Rivals? | Trefis | 2026-11-17 |
+| Why Pay More For Exxon Mobil Stock Than Chevron? | Trefis | 2026-11-17 |
+| Marathon Petroleum Stock: Analyst Estimates & Ratings | Barchart | 2026-11-17 |
 | Marathon Petroleum vs. Par Pacific: Picking the Better Refining Play | Zacks | 2026-11-16 |
-| 4 High-Yield Energy Stocks That Get Paid to Move Oil and Gas | 24/7 Wall St. | 2026-11-16 |
-| Beat Value Traps: 4 Stocks With Attractive PEG Ratios to Buy Now | Zacks | 2026-11-13 |
-| What Would Cheaper Fuel Mean For Exxon Mobil Stock? | Trefis | 2026-11-13 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $402.19; 52w high $484.92 (-17.06%); 52w low $160.76 (+150.17%) |
-| Trend | +33.14% vs SMA200, -5.19% vs SMA50, -5.33% vs SMA20 |
-| Momentum | RSI(14) 43.6 (neutral) |
-| Volatility | ATR(14) 18.91 (~4.7% of price); beta 0.51 |
-| Setup perspective | -17.06% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $392.41; 52w high $484.92 (-19.08%); 52w low $160.76 (+144.09%) |
+| Trend | +29.44% vs SMA200, -7.47% vs SMA50, -6.72% vs SMA20 |
+| Momentum | RSI(14) 40.6 (neutral) |
+| Volatility | ATR(14) 18.85 (~4.8% of price); beta 0.51 |
+| Setup perspective | -19.08% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +3.2% |
-| Month | -15.9% |
-| Quarter | +10.1% |
-| Half Y | +56.0% |
-| 1Y | +110.1% |
-| YTD | +146.4% |
+| Week | +0.7% |
+| Month | -17.2% |
+| Quarter | +8.8% |
+| Half Y | +50.2% |
+| 1Y | +99.5% |
+| YTD | +140.4% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,14 +68,14 @@ Marathon Petroleum Corporation, together with its subsidiaries, operates as an i
 | Revenue (ttm) | $175.40B | Revenue growth 60.90% y/y |
 | Profitability | Gross 16.20%, operating 11.65%, net 8.34% | ROA 13.75%, ROE 60.46% |
 | Balance sheet | Cash $13.61B, debt $34.45B | Current ratio 1.45, debt/equity 115.42 |
-| Valuation | P/E 8.22, forward P/E 6.69, P/S 0.62, P/B 4.77 | EV/Sales 0.78, EV/EBITDA 5.77 |
+| Valuation | P/E 7.78, forward P/E 6.52, P/S 0.61, P/B 4.65 | EV/Sales 0.78, EV/EBITDA 5.77 |
 | Growth expectations | Earnings growth 489.60%, EPS q/q 443.60% | Analyst mean target $458.24 (17 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 79.84% |
-| Insider ownership | 0.84% |
+| Institutional ownership | 78.95% |
+| Insider ownership | 0.37% |
 | Short float | 2.73% |
 | Short ratio (days to cover) | 3.1 |
 
@@ -91,11 +91,11 @@ Marathon Petroleum Corporation, together with its subsidiaries, operates as an i
 | Morgan Stanley | 5,965,509 | 2.19% | 2026-09-30 |
 | Raymond James Financial, Inc. | 5,040,558 | 1.85% | 2026-09-30 |
 | FMR, LLC | 4,091,566 | 1.50% | 2026-09-30 |
-| Wellington Management Group, LLP | 3,252,153 | 1.19% | 2026-06-30 |
-| Northern Trust Corporation | 3,126,059 | 1.15% | 2026-06-30 |
+| Northern Trust Corporation | 3,167,983 | 1.16% | 2026-09-30 |
+| JPMORGAN CHASE & CO | 2,947,222 | 1.08% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 0.51, ATR 4.7% of price, short float 2.73%. Size positions accordingly.
+- **Volatility risk:** Beta 0.51, ATR 4.8% of price, short float 2.73%. Size positions accordingly.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -110,21 +110,21 @@ Marathon Petroleum Corporation, together with its subsidiaries, operates as an i
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $402.19 | EV/Sales | 0.78 |
-| Market cap | $109.51B | EV/EBITDA | 5.77 |
+| Price | $392.41 | EV/Sales | 0.78 |
+| Market cap | $106.85B | EV/EBITDA | 5.77 |
 | Beta | 0.51 | Gross margin | 16.20% |
-| RSI(14) | 43.6 | Operating margin | 11.65% |
-| ATR(14) | 18.91 | Profit margin | 8.34% |
-| SMA20 dist | -5.33% | ROA | 13.75% |
-| SMA50 dist | -5.19% | ROE | 60.46% |
-| SMA200 dist | +33.14% | Revenue (ttm) | $175.40B |
+| RSI(14) | 40.6 | Operating margin | 11.65% |
+| ATR(14) | 18.85 | Profit margin | 8.34% |
+| SMA20 dist | -6.72% | ROA | 13.75% |
+| SMA50 dist | -7.47% | ROE | 60.46% |
+| SMA200 dist | +29.44% | Revenue (ttm) | $175.40B |
 | 52W high | $484.92 | Revenue growth y/y | 60.90% |
-| 52W low | $160.76 | Inst. ownership | 79.84% |
-| P/E (ttm) | 8.22 | Insider ownership | 0.84% |
-| Forward P/E | 6.69 | Short float | 2.73% |
-| PEG (trailing) | 0.96 | Avg volume | 2,526,528 |
-| P/S | 0.62 | Employees | 18,500 |
-| P/B | 4.77 | Analyst rec (1=buy..5=sell) | 2.3 |
+| 52W low | $160.76 | Inst. ownership | 78.95% |
+| P/E (ttm) | 7.78 | Insider ownership | 0.37% |
+| Forward P/E | 6.52 | Short float | 2.73% |
+| PEG (trailing) | 0.93 | Avg volume | 2,511,650 |
+| P/S | 0.61 | Employees | 18,500 |
+| P/B | 4.65 | Analyst rec (1=buy..5=sell) | 2.3 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

@@ -4,8 +4,8 @@ Signed file: `LEU.research.17.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $97.53 (2026-11-17, ~15-min delayed) |
-| Market cap | $2.01B |
+| Current price | $95.38 (2026-11-17, ~15-min delayed) |
+| Market cap | $1.97B |
 | Sector / Industry | Energy / Uranium |
 | Main theme | Uranium — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: fair-to-demanding, risk: high. |
@@ -15,10 +15,10 @@ Signed file: `LEU.research.17.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-44.02%) with negative half-year (-43.61%). |
-| Fresh setup quality | Poor / broken | -71.12% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-44.99%) with negative half-year (-43.56%). |
+| Fresh setup quality | Poor / broken | -71.76% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 16.77%, revenue growth -25.90%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 22.05, EV/Sales 2.10. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 22.82, EV/Sales 2.10. |
 | Risk level | High | Beta 1.41, ATR 9.3% of price, short float 29.58%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: fair-to-demanding, risk: high.
@@ -44,22 +44,22 @@ Centrus Energy Corp. supplies nuclear fuel components for the nuclear power indu
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $97.53; 52w high $337.76 (-71.12%); 52w low $89.03 (+9.55%) |
-| Trend | -44.02% vs SMA200, -23.94% vs SMA50, -6.24% vs SMA20 |
-| Momentum | RSI(14) 40.0 (neutral) |
-| Volatility | ATR(14) 9.06 (~9.3% of price); beta 1.41 |
-| Setup perspective | -71.12% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $95.38; 52w high $337.76 (-71.76%); 52w low $89.03 (+7.13%) |
+| Trend | -44.99% vs SMA200, -24.56% vs SMA50, -7.67% vs SMA20 |
+| Momentum | RSI(14) 38.8 (neutral) |
+| Volatility | ATR(14) 8.91 (~9.3% of price); beta 1.41 |
+| Setup perspective | -71.76% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -16.9% |
-| Month | -15.1% |
-| Quarter | -44.5% |
+| Week | -13.2% |
+| Month | -13.4% |
+| Quarter | -48.1% |
 | Half Y | -43.6% |
-| 1Y | -61.6% |
-| YTD | -64.2% |
+| 1Y | -61.8% |
+| YTD | -65.0% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,14 +68,14 @@ Centrus Energy Corp. supplies nuclear fuel components for the nuclear power indu
 | Revenue (ttm) | $454.50M | Revenue growth -25.90% y/y |
 | Profitability | Gross 23.28%, operating -2.77%, net 16.77% | ROA -0.31%, ROE 10.38% |
 | Balance sheet | Cash $2.24B, debt $1.18B | Current ratio 8.61, debt/equity 106.67 |
-| Valuation | P/E 28.94, forward P/E 22.05, P/S 4.42, P/B 1.81 | EV/Sales 2.10, EV/EBITDA -340.58 |
+| Valuation | P/E 28.30, forward P/E 22.82, P/S 4.33, P/B 1.77 | EV/Sales 2.10, EV/EBITDA -340.58 |
 | Growth expectations | Earnings growth 642.10%, EPS q/q 710.30% | Analyst mean target $180.00 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 89.70% |
-| Insider ownership | 3.03% |
+| Institutional ownership | 92.27% |
+| Insider ownership | 1.06% |
 | Short float | 29.58% |
 | Short ratio (days to cover) | 6.6 |
 
@@ -86,16 +86,16 @@ Centrus Energy Corp. supplies nuclear fuel components for the nuclear power indu
 | Blackrock Inc. | 2,601,167 | 13.07% | 2026-09-30 |
 | State Street Corporation | 1,468,662 | 7.38% | 2026-09-30 |
 | Van Eck Associates Corporation | 1,313,489 | 6.60% | 2026-09-30 |
-| Mirae Asset Global ETFs Holdings Ltd. | 1,258,106 | 6.32% | 2026-06-30 |
+| Mirae Asset Global ETFs Holdings Ltd. | 1,271,452 | 6.39% | 2026-09-30 |
 | Vanguard Capital Management LLC | 850,087 | 4.27% | 2026-09-30 |
 | Morgan Stanley | 492,973 | 2.48% | 2026-09-30 |
 | Geode Capital Management, LLC | 474,838 | 2.39% | 2026-09-30 |
 | Vanguard Portfolio Management LLC | 440,479 | 2.21% | 2026-09-30 |
+| Heights Capital Management, Inc                           | 439,329 | 2.21% | 2026-09-30 |
 | UBS Group AG | 422,540 | 2.12% | 2026-09-30 |
-| Dimensional Fund Advisors LP | 378,242 | 1.90% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 22.05, EV/Sales 2.10. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 22.82, EV/Sales 2.10. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 1.41, ATR 9.3% of price, short float 29.58%. Size positions accordingly.
 - **Short interest risk:** short float 29.58% can fuel squeezes both ways around news.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
@@ -113,21 +113,21 @@ Centrus Energy Corp. supplies nuclear fuel components for the nuclear power indu
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $97.53 | EV/Sales | 2.10 |
-| Market cap | $2.01B | EV/EBITDA | -340.58 |
+| Price | $95.38 | EV/Sales | 2.10 |
+| Market cap | $1.97B | EV/EBITDA | -340.58 |
 | Beta | 1.41 | Gross margin | 23.28% |
-| RSI(14) | 40.0 | Operating margin | -2.77% |
-| ATR(14) | 9.06 | Profit margin | 16.77% |
-| SMA20 dist | -6.24% | ROA | -0.31% |
-| SMA50 dist | -23.94% | ROE | 10.38% |
-| SMA200 dist | -44.02% | Revenue (ttm) | $454.50M |
+| RSI(14) | 38.8 | Operating margin | -2.77% |
+| ATR(14) | 8.91 | Profit margin | 16.77% |
+| SMA20 dist | -7.67% | ROA | -0.31% |
+| SMA50 dist | -24.56% | ROE | 10.38% |
+| SMA200 dist | -44.99% | Revenue (ttm) | $454.50M |
 | 52W high | $337.76 | Revenue growth y/y | -25.90% |
-| 52W low | $89.03 | Inst. ownership | 89.70% |
-| P/E (ttm) | 28.94 | Insider ownership | 3.03% |
-| Forward P/E | 22.05 | Short float | 29.58% |
-| PEG (trailing) | — | Avg volume | 794,737 |
-| P/S | 4.42 | Employees | 467 |
-| P/B | 1.81 | Analyst rec (1=buy..5=sell) | 1.8 |
+| 52W low | $89.03 | Inst. ownership | 92.27% |
+| P/E (ttm) | 28.30 | Insider ownership | 1.06% |
+| Forward P/E | 22.82 | Short float | 29.58% |
+| PEG (trailing) | — | Avg volume | 794,937 |
+| P/S | 4.33 | Employees | 467 |
+| P/B | 1.77 | Analyst rec (1=buy..5=sell) | 1.8 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

@@ -4,8 +4,8 @@ Signed file: `APA.research.17.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $47.30 (2026-11-17, ~15-min delayed) |
-| Market cap | $15.88B |
+| Current price | $46.68 (2026-11-17, ~15-min delayed) |
+| Market cap | $15.67B |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
 | Current stance | High technical momentum, strong fundamentals, value: reasonable, risk: elevated. |
@@ -15,11 +15,11 @@ Signed file: `APA.research.17.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +97.05%; price +22.96% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -10.45% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +93.69%; price +21.01% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -11.62% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 23.49%, revenue growth 31.50%. |
-| Value attractiveness | Reasonable | Forward P/E 8.32, EV/Sales 2.18. |
-| Risk level | Elevated | Beta 0.28, ATR 4.0% of price, short float 9.07%. |
+| Value attractiveness | Reasonable | Forward P/E 8.24, EV/Sales 2.18. |
+| Risk level | Elevated | Beta 0.28, ATR 3.9% of price, short float 9.07%. |
 
 **Bottom line:** High technical momentum, strong fundamentals, value: reasonable, risk: elevated.
 
@@ -36,30 +36,30 @@ APA Corporation, an independent energy company, explores for, develops, and prod
 
 | Headline | Source | Date |
 |---|---|---|
+| SLB Expands Norway Footprint With Var Energi Offshore Drilling Deal | Zacks | 2026-11-17 |
 | What Is Devon Getting For All That Spending? | Trefis | 2026-11-16 |
 | Apache North Sea workers stage third strike round, Unite says production halted | Investing.com | 2026-11-16 |
 | APA Has Rallied by 91% This Year. Here’s Why You Should Take Some Chips Off The Table | Insider Monkey | 2026-11-14 |
-| APA (APA) Stock Gets Fair Value Bump After Q3 Update And Analyst Target Changes | Simply Wall St. | 2026-11-13 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $47.30; 52w high $52.82 (-10.45%); 52w low $22.73 (+108.10%) |
-| Trend | +22.96% vs SMA200, +2.54% vs SMA50, -2.20% vs SMA20 |
-| Momentum | RSI(14) 50.8 (neutral) |
-| Volatility | ATR(14) 1.87 (~4.0% of price); beta 0.28 |
-| Setup perspective | -10.45% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $46.68; 52w high $52.82 (-11.62%); 52w low $22.73 (+105.37%) |
+| Trend | +21.01% vs SMA200, +1.05% vs SMA50, -3.18% vs SMA20 |
+| Momentum | RSI(14) 48.6 (neutral) |
+| Volatility | ATR(14) 1.83 (~3.9% of price); beta 0.28 |
+| Setup perspective | -11.62% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +6.2% |
-| Month | -3.3% |
-| Quarter | +12.2% |
-| Half Y | +19.2% |
-| 1Y | +97.1% |
-| YTD | +91.8% |
+| Week | +3.5% |
+| Month | -5.7% |
+| Quarter | +8.0% |
+| Half Y | +15.5% |
+| 1Y | +93.7% |
+| YTD | +89.3% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,14 +68,14 @@ APA Corporation, an independent energy company, explores for, develops, and prod
 | Revenue (ttm) | $9.24B | Revenue growth 31.50% y/y |
 | Profitability | Gross 78.98%, operating 43.31%, net 23.49% | ROA 14.06%, ROE 33.32% |
 | Balance sheet | Cash $75.00M, debt $3.43B | Current ratio 0.84, debt/equity 42.23 |
-| Valuation | P/E 7.69, forward P/E 8.32, P/S 1.72, P/B 2.24 | EV/Sales 2.18, EV/EBITDA 3.16 |
+| Valuation | P/E 7.59, forward P/E 8.24, P/S 1.70, P/B 2.21 | EV/Sales 2.18, EV/EBITDA 3.16 |
 | Growth expectations | Earnings growth 250.90%, EPS q/q 240.50% | Analyst mean target $50.31 (26 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 110.09% |
-| Insider ownership | 1.49% |
+| Institutional ownership | 108.99% |
+| Insider ownership | 0.46% |
 | Short float | 9.07% |
 | Short ratio (days to cover) | 4.5 |
 
@@ -84,18 +84,18 @@ APA Corporation, an independent energy company, explores for, develops, and prod
 | Holder | Shares | % Out | Reported |
 |---|---|---|---|
 | Blackrock Inc. | 35,507,526 | 10.58% | 2026-09-30 |
-| Hotchkis & Wiley Capital Management, LLC | 31,695,303 | 9.44% | 2026-06-30 |
+| Hotchkis & Wiley Capital Management, LLC | 28,356,184 | 8.45% | 2026-09-30 |
 | Vanguard Capital Management LLC | 22,935,439 | 6.83% | 2026-09-30 |
 | State Street Corporation | 20,678,748 | 6.16% | 2026-09-30 |
 | Vanguard Portfolio Management LLC | 17,123,493 | 5.10% | 2026-09-30 |
 | Invesco Ltd. | 15,251,572 | 4.54% | 2026-09-30 |
 | Dimensional Fund Advisors LP | 14,977,643 | 4.46% | 2026-09-30 |
-| Charles Schwab Investment Management, Inc. | 13,296,552 | 3.96% | 2026-06-30 |
+| Charles Schwab Investment Management, Inc. | 14,047,527 | 4.18% | 2026-09-30 |
 | Geode Capital Management, LLC | 11,624,432 | 3.46% | 2026-09-30 |
 | FMR, LLC | 9,483,234 | 2.82% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 0.28, ATR 4.0% of price, short float 9.07%. Size positions accordingly.
+- **Volatility risk:** Beta 0.28, ATR 3.9% of price, short float 9.07%. Size positions accordingly.
 - **Short interest risk:** short float 9.07% can fuel squeezes both ways around news.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -111,21 +111,21 @@ APA Corporation, an independent energy company, explores for, develops, and prod
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $47.30 | EV/Sales | 2.18 |
-| Market cap | $15.88B | EV/EBITDA | 3.16 |
+| Price | $46.68 | EV/Sales | 2.18 |
+| Market cap | $15.67B | EV/EBITDA | 3.16 |
 | Beta | 0.28 | Gross margin | 78.98% |
-| RSI(14) | 50.8 | Operating margin | 43.31% |
-| ATR(14) | 1.87 | Profit margin | 23.49% |
-| SMA20 dist | -2.20% | ROA | 14.06% |
-| SMA50 dist | +2.54% | ROE | 33.32% |
-| SMA200 dist | +22.96% | Revenue (ttm) | $9.24B |
+| RSI(14) | 48.6 | Operating margin | 43.31% |
+| ATR(14) | 1.83 | Profit margin | 23.49% |
+| SMA20 dist | -3.18% | ROA | 14.06% |
+| SMA50 dist | +1.05% | ROE | 33.32% |
+| SMA200 dist | +21.01% | Revenue (ttm) | $9.24B |
 | 52W high | $52.82 | Revenue growth y/y | 31.50% |
-| 52W low | $22.73 | Inst. ownership | 110.09% |
-| P/E (ttm) | 7.69 | Insider ownership | 1.49% |
-| Forward P/E | 8.32 | Short float | 9.07% |
-| PEG (trailing) | 1.20 | Avg volume | 5,655,218 |
-| P/S | 1.72 | Employees | 1,791 |
-| P/B | 2.24 | Analyst rec (1=buy..5=sell) | 2.6 |
+| 52W low | $22.73 | Inst. ownership | 108.99% |
+| P/E (ttm) | 7.59 | Insider ownership | 0.46% |
+| Forward P/E | 8.24 | Short float | 9.07% |
+| PEG (trailing) | 1.17 | Avg volume | 5,642,054 |
+| P/S | 1.70 | Employees | 1,791 |
+| P/B | 2.21 | Analyst rec (1=buy..5=sell) | 2.6 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

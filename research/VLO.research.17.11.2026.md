@@ -4,8 +4,8 @@ Signed file: `VLO.research.17.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $369.73 (2026-11-17, ~15-min delayed) |
-| Market cap | $103.11B |
+| Current price | $362.25 (2026-11-17, ~15-min delayed) |
+| Market cap | $101.03B |
 | Sector / Industry | Energy / Oil & Gas Refining & Marketing |
 | Main theme | Oil & Gas Refining & Marketing — see catalysts below |
 | Current stance | High technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
@@ -15,10 +15,10 @@ Signed file: `VLO.research.17.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +114.80%; price +25.46% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -19.59% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +103.53%; price +22.54% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -21.21% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 8.83%, revenue growth 46.50%. |
-| Value attractiveness | Reasonable | Forward P/E 7.22, EV/Sales 0.73. |
+| Value attractiveness | Reasonable | Forward P/E 7.07, EV/Sales 0.73. |
 | Risk level | Elevated | Beta 0.55, ATR 4.8% of price, short float 2.90%. |
 
 **Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
@@ -36,30 +36,30 @@ Valero Energy Corporation manufactures, markets, and sells petroleum-based and l
 
 | Headline | Source | Date |
 |---|---|---|
-| Is Wall Street Bullish or Bearish on Valero Energy Stock? | Barchart | 2026-11-16 |
-| Valero (VLO) Stock Looks Below Fair Value Despite Its 7x Run | Simply Wall St. | 2026-11-14 |
-| What Would Cheaper Fuel Mean For Exxon Mobil Stock? | Trefis | 2026-11-13 |
-| Best Momentum Stocks to Buy for November 13th | Zacks | 2026-11-13 |
+| Phillips 66 and Valero Are Turning Strong Refining Margins Into Bigger Dividends | 24/7 Wall St. | 2026-11-17 |
+| Is Chevron Stock Overpriced Versus Its Oil Rivals? | Trefis | 2026-11-17 |
+| Why Pay More For Exxon Mobil Stock Than Chevron? | Trefis | 2026-11-17 |
+| Trading at just 8x P/E with 464% EPS growth: Is Valero a bargain? | Investing.com | 2026-11-17 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $369.73; 52w high $459.78 (-19.59%); 52w low $159.58 (+131.69%) |
-| Trend | +25.46% vs SMA200, -7.56% vs SMA50, -4.34% vs SMA20 |
-| Momentum | RSI(14) 43.7 (neutral) |
-| Volatility | ATR(14) 17.57 (~4.8% of price); beta 0.55 |
-| Setup perspective | -19.59% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $362.25; 52w high $459.78 (-21.21%); 52w low $159.58 (+127.01%) |
+| Trend | +22.54% vs SMA200, -9.33% vs SMA50, -5.41% vs SMA20 |
+| Momentum | RSI(14) 41.3 (neutral) |
+| Volatility | ATR(14) 17.32 (~4.8% of price); beta 0.55 |
+| Setup perspective | -21.21% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +3.6% |
-| Month | -16.9% |
-| Quarter | +5.6% |
-| Half Y | +44.3% |
-| 1Y | +114.8% |
-| YTD | +127.0% |
+| Week | +3.3% |
+| Month | -16.4% |
+| Quarter | +4.6% |
+| Half Y | +39.1% |
+| 1Y | +103.5% |
+| YTD | +122.4% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,14 +68,14 @@ Valero Energy Corporation manufactures, markets, and sells petroleum-based and l
 | Revenue (ttm) | $146.53B | Revenue growth 46.50% y/y |
 | Profitability | Gross 19.52%, operating 12.22%, net 8.83% | ROA 17.68%, ROE 46.87% |
 | Balance sheet | Cash $9.84B, debt $11.00B | Current ratio 1.72, debt/equity 35.39 |
-| Valuation | P/E 8.64, forward P/E 7.22, P/S 0.70, P/B 3.69 | EV/Sales 0.73, EV/EBITDA 5.18 |
+| Valuation | P/E 8.24, forward P/E 7.07, P/S 0.69, P/B 3.61 | EV/Sales 0.73, EV/EBITDA 5.18 |
 | Growth expectations | Earnings growth 576.80%, EPS q/q 523.60% | Analyst mean target $421.32 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 88.23% |
-| Insider ownership | 0.70% |
+| Institutional ownership | 86.42% |
+| Insider ownership | 0.46% |
 | Short float | 2.90% |
 | Short ratio (days to cover) | 2.6 |
 
@@ -92,7 +92,7 @@ Valero Energy Corporation manufactures, markets, and sells petroleum-based and l
 | Geode Capital Management, LLC | 7,298,562 | 2.62% | 2026-09-30 |
 | NORGES BANK | 6,402,941 | 2.30% | 2026-06-30 |
 | Franklin Templeton, Inc. | 6,393,659 | 2.29% | 2026-09-30 |
-| Ameriprise Financial, Inc. | 5,223,386 | 1.87% | 2026-06-30 |
+| Ameriprise Financial, Inc. | 4,513,465 | 1.62% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
 - **Volatility risk:** Beta 0.55, ATR 4.8% of price, short float 2.90%. Size positions accordingly.
@@ -110,21 +110,21 @@ Valero Energy Corporation manufactures, markets, and sells petroleum-based and l
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $369.73 | EV/Sales | 0.73 |
-| Market cap | $103.11B | EV/EBITDA | 5.18 |
+| Price | $362.25 | EV/Sales | 0.73 |
+| Market cap | $101.03B | EV/EBITDA | 5.18 |
 | Beta | 0.55 | Gross margin | 19.52% |
-| RSI(14) | 43.7 | Operating margin | 12.22% |
-| ATR(14) | 17.57 | Profit margin | 8.83% |
-| SMA20 dist | -4.34% | ROA | 17.68% |
-| SMA50 dist | -7.56% | ROE | 46.87% |
-| SMA200 dist | +25.46% | Revenue (ttm) | $146.53B |
+| RSI(14) | 41.3 | Operating margin | 12.22% |
+| ATR(14) | 17.32 | Profit margin | 8.83% |
+| SMA20 dist | -5.41% | ROA | 17.68% |
+| SMA50 dist | -9.33% | ROE | 46.87% |
+| SMA200 dist | +22.54% | Revenue (ttm) | $146.53B |
 | 52W high | $459.78 | Revenue growth y/y | 46.50% |
-| 52W low | $159.58 | Inst. ownership | 88.23% |
-| P/E (ttm) | 8.64 | Insider ownership | 0.70% |
-| Forward P/E | 7.22 | Short float | 2.90% |
-| PEG (trailing) | 1.37 | Avg volume | 3,094,268 |
-| P/S | 0.70 | Employees | 9,785 |
-| P/B | 3.69 | Analyst rec (1=buy..5=sell) | 2.5 |
+| 52W low | $159.58 | Inst. ownership | 86.42% |
+| P/E (ttm) | 8.24 | Insider ownership | 0.46% |
+| Forward P/E | 7.07 | Short float | 2.90% |
+| PEG (trailing) | 1.33 | Avg volume | 3,092,746 |
+| P/S | 0.69 | Employees | 9,785 |
+| P/B | 3.61 | Analyst rec (1=buy..5=sell) | 2.5 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

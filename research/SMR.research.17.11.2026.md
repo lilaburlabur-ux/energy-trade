@@ -4,8 +4,8 @@ Signed file: `SMR.research.17.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $4.27 (2026-11-17, ~15-min delayed) |
-| Market cap | $1.75B |
+| Current price | $4.16 (2026-11-17, ~15-min delayed) |
+| Market cap | $1.71B |
 | Sector / Industry | Industrials / Specialty Industrial Machinery |
 | Main theme | Specialty Industrial Machinery — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: high. |
@@ -15,10 +15,10 @@ Signed file: `SMR.research.17.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-57.55%) with negative half-year (-59.26%). |
-| Fresh setup quality | Poor / broken | -81.31% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-58.39%) with negative half-year (-58.65%). |
+| Fresh setup quality | Poor / broken | -81.79% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 0.00%, revenue growth -96.60%. |
-| Value attractiveness | Reasonable | Forward P/E -6.31, EV/Sales 284.60. |
+| Value attractiveness | Reasonable | Forward P/E -6.15, EV/Sales 284.60. |
 | Risk level | High | Beta 2.43, ATR 11.2% of price, short float 26.36%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: high.
@@ -36,30 +36,30 @@ NuScale Power Corporation provides small modular reactor technology solutions. I
 
 | Headline | Source | Date |
 |---|---|---|
+| Will OKLO's $3.1B Liquidity Cushion Advance Its Nuclear Plans? | Zacks | 2026-11-17 |
 | NuScale Has $1.9 Billion in Cash. A Signed TVA Deal Could Send $1.2 Billion of It to ENTRA1 | TIKR | 2026-11-16 |
 | NuScale Stock Has Lost More Than Half Its Value in 2026, Its Worst Year Since 2023. Here's What Happened the Year After That One. | Motley Fool | 2026-11-15 |
 | NuScale Power (SMR) As Lawsuit And Earnings Put Its Valuation Story To The Test | Simply Wall St. | 2026-11-14 |
-| NuScale Power (SMR) Is Facing A Securities Fraud Class Action | Simply Wall St. | 2026-11-13 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $4.27; 52w high $22.85 (-81.31%); 52w low $4.27 (+0.00%) |
-| Trend | -57.55% vs SMA200, -38.16% vs SMA50, -18.64% vs SMA20 |
-| Momentum | RSI(14) 31.3 (neutral) |
-| Volatility | ATR(14) 0.48 (~11.2% of price); beta 2.43 |
-| Setup perspective | -81.31% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $4.16; 52w high $22.85 (-81.79%); 52w low $4.16 (+0.00%) |
+| Trend | -58.39% vs SMA200, -38.50% vs SMA50, -19.64% vs SMA20 |
+| Momentum | RSI(14) 30.4 (neutral) |
+| Volatility | ATR(14) 0.47 (~11.2% of price); beta 2.43 |
+| Setup perspective | -81.79% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -21.5% |
-| Month | -26.8% |
-| Quarter | -50.6% |
-| Half Y | -59.3% |
-| 1Y | -81.6% |
-| YTD | -73.8% |
+| Week | -20.3% |
+| Month | -26.9% |
+| Quarter | -55.2% |
+| Half Y | -58.6% |
+| 1Y | -81.5% |
+| YTD | -74.5% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,14 +68,14 @@ NuScale Power Corporation provides small modular reactor technology solutions. I
 | Revenue (ttm) | $2.73M | Revenue growth -96.60% y/y |
 | Profitability | Gross -2.16%, operating 9099.45%, net 0.00% | ROA 10.69%, ROE -17.12% |
 | Balance sheet | Cash $933.39M, debt $6.63M | Current ratio 24.40, debt/equity 0.34 |
-| Valuation | P/E —, forward P/E -6.31, P/S 642.36, P/B 0.87 | EV/Sales 284.60, EV/EBITDA 3.11 |
+| Valuation | P/E —, forward P/E -6.15, P/S 625.83, P/B 0.84 | EV/Sales 284.60, EV/EBITDA 3.11 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $8.59 (16 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 63.31% |
-| Insider ownership | 3.40% |
+| Institutional ownership | 63.38% |
+| Insider ownership | 1.70% |
 | Short float | 26.36% |
 | Short ratio (days to cover) | 3.2 |
 
@@ -85,14 +85,14 @@ NuScale Power Corporation provides small modular reactor technology solutions. I
 |---|---|---|---|
 | Van Eck Associates Corporation | 28,046,447 | 6.83% | 2026-09-30 |
 | Blackrock Inc. | 27,692,036 | 6.74% | 2026-09-30 |
+| Mirae Asset Global ETFs Holdings Ltd. | 23,569,196 | 5.74% | 2026-09-30 |
 | Vanguard Capital Management LLC | 18,482,233 | 4.50% | 2026-09-30 |
 | Vanguard Portfolio Management LLC | 17,257,610 | 4.20% | 2026-09-30 |
 | Morgan Stanley | 13,929,544 | 3.39% | 2026-09-30 |
-| Marex Group Ltd. | 12,711,180 | 3.10% | 2026-06-30 |
-| Mirae Asset Global ETFs Holdings Ltd. | 11,769,071 | 2.87% | 2026-06-30 |
-| Two Sigma Investments, LP | 11,655,351 | 2.84% | 2026-06-30 |
 | Geode Capital Management, LLC | 9,220,366 | 2.25% | 2026-09-30 |
 | State Street Corporation | 8,330,679 | 2.03% | 2026-09-30 |
+| UBS Group AG | 7,904,973 | 1.93% | 2026-09-30 |
+| Marex Group Ltd. | 7,849,069 | 1.91% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
 - **Volatility risk:** Beta 2.43, ATR 11.2% of price, short float 26.36%. Size positions accordingly.
@@ -112,21 +112,21 @@ NuScale Power Corporation provides small modular reactor technology solutions. I
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $4.27 | EV/Sales | 284.60 |
-| Market cap | $1.75B | EV/EBITDA | 3.11 |
+| Price | $4.16 | EV/Sales | 284.60 |
+| Market cap | $1.71B | EV/EBITDA | 3.11 |
 | Beta | 2.43 | Gross margin | -2.16% |
-| RSI(14) | 31.3 | Operating margin | 9099.45% |
-| ATR(14) | 0.48 | Profit margin | 0.00% |
-| SMA20 dist | -18.64% | ROA | 10.69% |
-| SMA50 dist | -38.16% | ROE | -17.12% |
-| SMA200 dist | -57.55% | Revenue (ttm) | $2.73M |
+| RSI(14) | 30.4 | Operating margin | 9099.45% |
+| ATR(14) | 0.47 | Profit margin | 0.00% |
+| SMA20 dist | -19.64% | ROA | 10.69% |
+| SMA50 dist | -38.50% | ROE | -17.12% |
+| SMA200 dist | -58.39% | Revenue (ttm) | $2.73M |
 | 52W high | $22.85 | Revenue growth y/y | -96.60% |
-| 52W low | $4.27 | Inst. ownership | 63.31% |
-| P/E (ttm) | — | Insider ownership | 3.40% |
-| Forward P/E | -6.31 | Short float | 26.36% |
-| PEG (trailing) | — | Avg volume | 34,262,412 |
-| P/S | 642.36 | Employees | 428 |
-| P/B | 0.87 | Analyst rec (1=buy..5=sell) | 2.8 |
+| 52W low | $4.16 | Inst. ownership | 63.38% |
+| P/E (ttm) | — | Insider ownership | 1.70% |
+| Forward P/E | -6.15 | Short float | 26.36% |
+| PEG (trailing) | — | Avg volume | 34,280,473 |
+| P/S | 625.83 | Employees | 428 |
+| P/B | 0.84 | Analyst rec (1=buy..5=sell) | 2.8 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

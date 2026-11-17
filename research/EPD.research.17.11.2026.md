@@ -4,8 +4,8 @@ Signed file: `EPD.research.17.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $37.44 (2026-11-17, ~15-min delayed) |
-| Market cap | $80.74B |
+| Current price | $37.08 (2026-11-17, ~15-min delayed) |
+| Market cap | $79.97B |
 | Sector / Industry | Energy / Oil & Gas Midstream |
 | Main theme | Oil & Gas Midstream — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,10 +15,10 @@ Signed file: `EPD.research.17.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +25.15%; price +2.49% vs SMA200. |
-| Fresh setup quality | Watch | -3.49% from 52w high and near SMA20 — check for a tight base. |
+| Technical momentum | Moderate | 1Y +22.02%; price +1.43% vs SMA200. |
+| Fresh setup quality | Watch | -4.42% from 52w high and near SMA20 — check for a tight base. |
 | Fundamental quality | Mixed | Profit margin 10.24%, revenue growth 49.30%. |
-| Value attractiveness | Reasonable | Forward P/E 11.85, EV/Sales 1.81. |
+| Value attractiveness | Reasonable | Forward P/E 11.74, EV/Sales 1.81. |
 | Risk level | Moderate | Beta 0.46, ATR 2.0% of price, short float 2.30%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -36,30 +36,30 @@ Enterprise Products Partners L.P. provides midstream energy services to producer
 
 | Headline | Source | Date |
 |---|---|---|
+| A 67-Year-Old With $750,000 in Pfizer, Enterprise Products and UPS Collects $3,765 a Month in Dividends. How Safe Is Each Check? | TIKR | 2026-11-17 |
+| How Boomers Can Turn $150,000 Into Passive Income With These 4 Energy Dividend Stocks | 24/7 Wall St. | 2026-11-17 |
 | 4 High-Yield Energy Stocks That Get Paid to Move Oil and Gas | 24/7 Wall St. | 2026-11-16 |
 | The Income Blueprint: How to Build a Portfolio That Pays 5% Without Stress | 24/7 Wall St. | 2026-11-15 |
-| Enbridge or Enterprise Products: I Can Only Pick One Dividend Stock for the Next 10 Years. Here’s Mine | TIKR | 2026-11-13 |
-| A December Rate Hike Looks Likely: Buy These 3 Energy and Materials Dividend Stocks Before the Fed Moves | 24/7 Wall St. | 2026-11-13 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $37.44; 52w high $38.80 (-3.49%); 52w low $29.86 (+25.38%) |
-| Trend | +2.49% vs SMA200, +1.53% vs SMA50, +0.96% vs SMA20 |
-| Momentum | RSI(14) 53.7 (neutral) |
-| Volatility | ATR(14) 0.75 (~2.0% of price); beta 0.46 |
-| Setup perspective | -3.49% from 52w high and near SMA20 — check for a tight base. |
+| Price vs 52-week range | Close $37.08; 52w high $38.80 (-4.42%); 52w low $29.86 (+24.18%) |
+| Trend | +1.43% vs SMA200, +0.61% vs SMA50, -0.09% vs SMA20 |
+| Momentum | RSI(14) 50.5 (neutral) |
+| Volatility | ATR(14) 0.74 (~2.0% of price); beta 0.46 |
+| Setup perspective | -4.42% from 52w high and near SMA20 — check for a tight base. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +2.0% |
-| Month | +3.2% |
-| Quarter | -1.7% |
-| Half Y | -2.3% |
-| 1Y | +25.1% |
-| YTD | +23.6% |
+| Week | -0.1% |
+| Month | +2.2% |
+| Quarter | -1.3% |
+| Half Y | -4.1% |
+| 1Y | +22.0% |
+| YTD | +22.4% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,14 +68,14 @@ Enterprise Products Partners L.P. provides midstream energy services to producer
 | Revenue (ttm) | $64.40B | Revenue growth 49.30% y/y |
 | Profitability | Gross 12.56%, operating 12.17%, net 10.24% | ROA 6.07%, ROE 21.69% |
 | Balance sheet | Cash $232.00M, debt $35.20B | Current ratio 0.93, debt/equity 112.72 |
-| Valuation | P/E 12.69, forward P/E 11.85, P/S 1.25, P/B 2.66 | EV/Sales 1.81, EV/EBITDA 10.92 |
+| Valuation | P/E 12.28, forward P/E 11.74, P/S 1.24, P/B 2.63 | EV/Sales 1.81, EV/EBITDA 10.92 |
 | Growth expectations | Earnings growth 21.60%, EPS q/q 21.40% | Analyst mean target $41.67 (21 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 25.53% |
-| Insider ownership | 33.16% |
+| Institutional ownership | 25.55% |
+| Insider ownership | 33.09% |
 | Short float | 2.30% |
 | Short ratio (days to cover) | 4.3 |
 
@@ -85,14 +85,14 @@ Enterprise Products Partners L.P. provides midstream energy services to producer
 |---|---|---|---|
 | Alps Advisors Inc. | 46,611,995 | 2.16% | 2026-09-30 |
 | Invesco Ltd. | 26,638,703 | 1.24% | 2026-09-30 |
-| Blackstone Inc | 23,760,341 | 1.10% | 2026-06-30 |
+| Blackstone Inc | 21,030,787 | 0.98% | 2026-09-30 |
 | Morgan Stanley | 20,865,873 | 0.97% | 2026-09-30 |
 | Tortoise Capital Advisors, LLC | 18,612,284 | 0.86% | 2026-09-30 |
-| Goldman Sachs Group Inc | 17,515,453 | 0.81% | 2026-06-30 |
+| Goldman Sachs Group Inc | 16,624,188 | 0.77% | 2026-09-30 |
 | Energy Income Partners, LLC | 16,324,840 | 0.76% | 2026-09-30 |
 | Sarofim, Fayez & Co | 13,708,341 | 0.64% | 2026-09-30 |
 | Neuberger Berman Group, LLC | 12,844,404 | 0.60% | 2026-09-30 |
-| Kayne Anderson Capital Advisors, L.P. | 12,720,342 | 0.59% | 2026-09-30 |
+| Bank of America Corporation | 12,926,275 | 0.60% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
 - **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
@@ -110,21 +110,21 @@ Enterprise Products Partners L.P. provides midstream energy services to producer
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $37.44 | EV/Sales | 1.81 |
-| Market cap | $80.74B | EV/EBITDA | 10.92 |
+| Price | $37.08 | EV/Sales | 1.81 |
+| Market cap | $79.97B | EV/EBITDA | 10.92 |
 | Beta | 0.46 | Gross margin | 12.56% |
-| RSI(14) | 53.7 | Operating margin | 12.17% |
-| ATR(14) | 0.75 | Profit margin | 10.24% |
-| SMA20 dist | +0.96% | ROA | 6.07% |
-| SMA50 dist | +1.53% | ROE | 21.69% |
-| SMA200 dist | +2.49% | Revenue (ttm) | $64.40B |
+| RSI(14) | 50.5 | Operating margin | 12.17% |
+| ATR(14) | 0.74 | Profit margin | 10.24% |
+| SMA20 dist | -0.09% | ROA | 6.07% |
+| SMA50 dist | +0.61% | ROE | 21.69% |
+| SMA200 dist | +1.43% | Revenue (ttm) | $64.40B |
 | 52W high | $38.80 | Revenue growth y/y | 49.30% |
-| 52W low | $29.86 | Inst. ownership | 25.53% |
-| P/E (ttm) | 12.69 | Insider ownership | 33.16% |
-| Forward P/E | 11.85 | Short float | 2.30% |
-| PEG (trailing) | 1.26 | Avg volume | 3,364,917 |
-| P/S | 1.25 | Employees | 0 |
-| P/B | 2.66 | Analyst rec (1=buy..5=sell) | 2.3 |
+| 52W low | $29.86 | Inst. ownership | 25.55% |
+| P/E (ttm) | 12.28 | Insider ownership | 33.09% |
+| Forward P/E | 11.74 | Short float | 2.30% |
+| PEG (trailing) | 1.24 | Avg volume | 3,368,254 |
+| P/S | 1.24 | Employees | 0 |
+| P/B | 2.63 | Analyst rec (1=buy..5=sell) | 2.3 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

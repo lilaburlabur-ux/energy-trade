@@ -4,8 +4,8 @@ Signed file: `SHEL.research.17.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $97.71 (2026-11-17, ~15-min delayed) |
-| Market cap | $276.19B |
+| Current price | $97.03 (2026-11-17, ~15-min delayed) |
+| Market cap | $274.17B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,10 +15,10 @@ Signed file: `SHEL.research.17.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +34.56%; price +10.80% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -9.38% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +32.64%; price +9.88% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -10.01% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 10.18%, revenue growth 36.20%. |
-| Value attractiveness | Reasonable | Forward P/E 8.71, EV/Sales 1.00. |
+| Value attractiveness | Reasonable | Forward P/E 8.65, EV/Sales 1.00. |
 | Risk level | Moderate | Beta -0.25, ATR 1.9% of price, short float 1.01%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -36,30 +36,30 @@ Shell plc operates as an energy and petrochemical company in Europe, Asia, Ocean
 
 | Headline | Source | Date |
 |---|---|---|
-| Energy & Utilities Roundup: Market Talk | The Wall Street Journal | 2026-11-16 |
-| Shell vs. BP: One Oil Giant Offers a Higher Yield, but the Other Has a Safer Dividend | 24/7 Wall St. | 2026-11-16 |
-| Shell Starts Mina West Gas Production to Boost Egypt's Supply | Zacks | 2026-11-16 |
-| Did Gas Production Start Just Shift Shell's (LSE:SHEL) Investment Narrative? | Simply Wall St. | 2026-11-16 |
+| Sector Update: Energy Stocks Lower in Afternoon Trading | MT Newswires | 2026-11-17 |
+| Here's Why BP's Partial Aker BP Stake Sale Is a Timely Move | Zacks | 2026-11-17 |
+| Shell names new CIO | C-Store Dive | 2026-11-17 |
+| Shell begins gas production from Rosmari and Marjoram fields | Offshore Technology | 2026-11-17 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $97.71; 52w high $107.83 (-9.38%); 52w low $67.89 (+43.92%) |
-| Trend | +10.80% vs SMA200, -1.34% vs SMA50, -4.34% vs SMA20 |
-| Momentum | RSI(14) 42.5 (neutral) |
-| Volatility | ATR(14) 1.90 (~1.9% of price); beta -0.25 |
-| Setup perspective | -9.38% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $97.03; 52w high $107.83 (-10.01%); 52w low $67.89 (+42.92%) |
+| Trend | +9.88% vs SMA200, -2.08% vs SMA50, -4.65% vs SMA20 |
+| Momentum | RSI(14) 40.8 (neutral) |
+| Volatility | ATR(14) 1.85 (~1.9% of price); beta -0.25 |
+| Setup perspective | -10.01% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -0.4% |
-| Month | -7.7% |
-| Quarter | +7.0% |
-| Half Y | +13.2% |
-| 1Y | +34.6% |
-| YTD | +34.1% |
+| Week | +0.6% |
+| Month | -6.7% |
+| Quarter | +5.4% |
+| Half Y | +12.5% |
+| 1Y | +32.6% |
+| YTD | +33.2% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,14 +68,14 @@ Shell plc operates as an energy and petrochemical company in Europe, Asia, Ocean
 | Revenue (ttm) | $321.29B | Revenue growth 36.20% y/y |
 | Profitability | Gross 26.93%, operating 15.25%, net 10.18% | ROA 7.67%, ROE 17.43% |
 | Balance sheet | Cash $36.42B, debt $76.07B | Current ratio 1.38, debt/equity 38.13 |
-| Valuation | P/E 8.48, forward P/E 8.71, P/S 0.86, P/B 1.41 | EV/Sales 1.00, EV/EBITDA 4.75 |
+| Valuation | P/E 8.42, forward P/E 8.65, P/S 0.85, P/B 1.40 | EV/Sales 1.00, EV/EBITDA 4.75 |
 | Growth expectations | Earnings growth 136.70%, EPS q/q 126.60% | Analyst mean target $110.81 (15 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 13.92% |
-| Insider ownership | 0.07% |
+| Institutional ownership | 13.90% |
+| Insider ownership | 0.01% |
 | Short float | 1.01% |
 | Short ratio (days to cover) | 2.5 |
 
@@ -86,13 +86,13 @@ Shell plc operates as an energy and petrochemical company in Europe, Asia, Ocean
 | FMR, LLC | 85,323,807 | 2.98% | 2026-09-30 |
 | Fisher Asset Management, LLC | 27,331,036 | 0.95% | 2026-09-30 |
 | Dimensional Fund Advisors LP | 26,519,842 | 0.93% | 2026-09-30 |
+| Orbis Allan Gray Ltd | 12,776,781 | 0.45% | 2026-09-30 |
 | Life Cycle Investment Partners Ltd | 11,487,989 | 0.40% | 2026-09-30 |
 | Arrowstreet Capital, Limited Partnership | 10,771,891 | 0.38% | 2026-09-30 |
-| Goldman Sachs Group Inc | 10,560,692 | 0.37% | 2026-06-30 |
 | Morgan Stanley | 10,582,777 | 0.37% | 2026-09-30 |
-| Price (T.Rowe) Associates Inc | 9,835,553 | 0.34% | 2026-06-30 |
-| Orbis Allan Gray Ltd | 8,847,436 | 0.31% | 2026-06-30 |
-| Bank of America Corporation | 7,709,715 | 0.27% | 2026-06-30 |
+| Price (T.Rowe) Associates Inc | 9,766,035 | 0.34% | 2026-09-30 |
+| Goldman Sachs Group Inc | 8,651,121 | 0.30% | 2026-09-30 |
+| Mawer Investment Management Ltd. | 7,375,850 | 0.26% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
@@ -109,21 +109,21 @@ Shell plc operates as an energy and petrochemical company in Europe, Asia, Ocean
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $97.71 | EV/Sales | 1.00 |
-| Market cap | $276.19B | EV/EBITDA | 4.75 |
+| Price | $97.03 | EV/Sales | 1.00 |
+| Market cap | $274.17B | EV/EBITDA | 4.75 |
 | Beta | -0.25 | Gross margin | 26.93% |
-| RSI(14) | 42.5 | Operating margin | 15.25% |
-| ATR(14) | 1.90 | Profit margin | 10.18% |
-| SMA20 dist | -4.34% | ROA | 7.67% |
-| SMA50 dist | -1.34% | ROE | 17.43% |
-| SMA200 dist | +10.80% | Revenue (ttm) | $321.29B |
+| RSI(14) | 40.8 | Operating margin | 15.25% |
+| ATR(14) | 1.85 | Profit margin | 10.18% |
+| SMA20 dist | -4.65% | ROA | 7.67% |
+| SMA50 dist | -2.08% | ROE | 17.43% |
+| SMA200 dist | +9.88% | Revenue (ttm) | $321.29B |
 | 52W high | $107.83 | Revenue growth y/y | 36.20% |
-| 52W low | $67.89 | Inst. ownership | 13.92% |
-| P/E (ttm) | 8.48 | Insider ownership | 0.07% |
-| Forward P/E | 8.71 | Short float | 1.01% |
-| PEG (trailing) | 1.37 | Avg volume | 6,117,015 |
-| P/S | 0.86 | Employees | 84,000 |
-| P/B | 1.41 | Analyst rec (1=buy..5=sell) | 2.2 |
+| 52W low | $67.89 | Inst. ownership | 13.90% |
+| P/E (ttm) | 8.42 | Insider ownership | 0.01% |
+| Forward P/E | 8.65 | Short float | 1.01% |
+| PEG (trailing) | 1.36 | Avg volume | 6,103,441 |
+| P/S | 0.85 | Employees | 84,000 |
+| P/B | 1.40 | Analyst rec (1=buy..5=sell) | 2.2 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

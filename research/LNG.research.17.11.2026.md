@@ -4,8 +4,8 @@ Signed file: `LNG.research.17.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $305.20 (2026-11-17, ~15-min delayed) |
-| Market cap | $62.32B |
+| Current price | $303.49 (2026-11-17, ~15-min delayed) |
+| Market cap | $61.97B |
 | Sector / Industry | Energy / Oil & Gas Midstream |
 | Main theme | Oil & Gas Midstream — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
@@ -15,10 +15,10 @@ Signed file: `LNG.research.17.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +44.43%; price +17.23% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -7.40% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +42.36%; price +16.35% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -7.92% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 13.40%, revenue growth 39.90%. |
-| Value attractiveness | Reasonable | Forward P/E 13.27, EV/Sales 4.13. |
+| Value attractiveness | Reasonable | Forward P/E 13.19, EV/Sales 4.13. |
 | Risk level | Elevated | Beta 0.00, ATR 3.4% of price, short float 2.27%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
@@ -36,30 +36,30 @@ Cheniere Energy, Inc., an energy infrastructure company, primarily engages in th
 
 | Headline | Source | Date |
 |---|---|---|
+| What Triggered Venture Global Stock's 5% Drop? | Trefis | 2026-11-17 |
+| Canadian Natural to Expand Gas Footprint With Advantage Buyout | Zacks | 2026-11-17 |
+| Halliburton Targets Egypt Growth With Proposed 50-Well Program | Zacks | 2026-11-17 |
 | Cheniere Promotes Zach Davis to President Amid LNG Expansion | Oilprice.com | 2026-11-17 |
-| Petrobras Moves to Strengthen Ethanol Logistics With Logum Deal | Zacks | 2026-11-16 |
-| Diamondback Eyes $5B Double Eagle Deal to Deepen Permian Dominance | Zacks | 2026-11-16 |
-| A $4.8 Billion Fund Dumps These 3 Stocks | TIKR | 2026-11-16 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $305.20; 52w high $329.58 (-7.40%); 52w low $187.07 (+63.15%) |
-| Trend | +17.23% vs SMA200, +7.40% vs SMA50, +2.24% vs SMA20 |
-| Momentum | RSI(14) 56.5 (neutral) |
-| Volatility | ATR(14) 10.49 (~3.4% of price); beta 0.00 |
-| Setup perspective | -7.40% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $303.49; 52w high $329.58 (-7.92%); 52w low $187.07 (+62.23%) |
+| Trend | +16.35% vs SMA200, +6.59% vs SMA50, +1.32% vs SMA20 |
+| Momentum | RSI(14) 55.4 (neutral) |
+| Volatility | ATR(14) 10.17 (~3.4% of price); beta 0.00 |
+| Setup perspective | -7.92% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +7.1% |
-| Month | +5.7% |
-| Quarter | +11.7% |
-| Half Y | +23.7% |
-| 1Y | +44.4% |
-| YTD | +55.8% |
+| Week | +3.4% |
+| Month | +6.1% |
+| Quarter | +10.9% |
+| Half Y | +23.5% |
+| 1Y | +42.4% |
+| YTD | +54.9% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,14 +68,14 @@ Cheniere Energy, Inc., an energy infrastructure company, primarily engages in th
 | Revenue (ttm) | $22.67B | Revenue growth 39.90% y/y |
 | Profitability | Gross 34.89%, operating 28.54%, net 13.40% | ROA 8.61%, ROE 39.68% |
 | Balance sheet | Cash $1.68B, debt $27.69B | Current ratio 0.90, debt/equity 231.29 |
-| Valuation | P/E 21.97, forward P/E 13.27, P/S 2.75, P/B 9.55 | EV/Sales 4.13, EV/EBITDA 11.77 |
+| Valuation | P/E 21.60, forward P/E 13.19, P/S 2.73, P/B 9.50 | EV/Sales 4.13, EV/EBITDA 11.77 |
 | Growth expectations | Earnings growth 18.90%, EPS q/q 11.50% | Analyst mean target $337.70 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 95.02% |
-| Insider ownership | 1.07% |
+| Institutional ownership | 93.18% |
+| Insider ownership | 0.63% |
 | Short float | 2.27% |
 | Short ratio (days to cover) | 2.4 |
 
@@ -91,8 +91,8 @@ Cheniere Energy, Inc., an energy infrastructure company, primarily engages in th
 | Morgan Stanley | 5,189,839 | 2.54% | 2026-09-30 |
 | NORGES BANK | 3,581,124 | 1.75% | 2026-06-30 |
 | Geode Capital Management, LLC | 3,574,592 | 1.75% | 2026-09-30 |
-| Canada Pension Plan Investment Board | 3,112,696 | 1.52% | 2026-06-30 |
 | Tortoise Capital Advisors, LLC | 3,088,912 | 1.51% | 2026-09-30 |
+| Wellington Management Group, LLP | 2,733,058 | 1.34% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
 - **Volatility risk:** Beta 0.00, ATR 3.4% of price, short float 2.27%. Size positions accordingly.
@@ -111,21 +111,21 @@ Cheniere Energy, Inc., an energy infrastructure company, primarily engages in th
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $305.20 | EV/Sales | 4.13 |
-| Market cap | $62.32B | EV/EBITDA | 11.77 |
+| Price | $303.49 | EV/Sales | 4.13 |
+| Market cap | $61.97B | EV/EBITDA | 11.77 |
 | Beta | 0.00 | Gross margin | 34.89% |
-| RSI(14) | 56.5 | Operating margin | 28.54% |
-| ATR(14) | 10.49 | Profit margin | 13.40% |
-| SMA20 dist | +2.24% | ROA | 8.61% |
-| SMA50 dist | +7.40% | ROE | 39.68% |
-| SMA200 dist | +17.23% | Revenue (ttm) | $22.67B |
+| RSI(14) | 55.4 | Operating margin | 28.54% |
+| ATR(14) | 10.17 | Profit margin | 13.40% |
+| SMA20 dist | +1.32% | ROA | 8.61% |
+| SMA50 dist | +6.59% | ROE | 39.68% |
+| SMA200 dist | +16.35% | Revenue (ttm) | $22.67B |
 | 52W high | $329.58 | Revenue growth y/y | 39.90% |
-| 52W low | $187.07 | Inst. ownership | 95.02% |
-| P/E (ttm) | 21.97 | Insider ownership | 1.07% |
-| Forward P/E | 13.27 | Short float | 2.27% |
-| PEG (trailing) | — | Avg volume | 2,049,450 |
-| P/S | 2.75 | Employees | 1,717 |
-| P/B | 9.55 | Analyst rec (1=buy..5=sell) | 1.5 |
+| 52W low | $187.07 | Inst. ownership | 93.18% |
+| P/E (ttm) | 21.60 | Insider ownership | 0.63% |
+| Forward P/E | 13.19 | Short float | 2.27% |
+| PEG (trailing) | — | Avg volume | 2,047,462 |
+| P/S | 2.73 | Employees | 1,717 |
+| P/B | 9.50 | Analyst rec (1=buy..5=sell) | 1.5 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
