@@ -1,5 +1,5 @@
-# Watchlist Research Index — 16.11.2026
-> Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-16.
+# Watchlist Research Index — 17.11.2026
+> Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-17.
 
 | Ticker | Mkt cap | 1Y | Fwd P/E | Net margin | Momentum | Value | Risk |
 |---|---|---|---|---|---|---|---|
@@ -8,8 +8,8 @@
 | SHEL | $276.19B | +35% | 8.7 | 10% | Moderate | Reasonable | Moderate |
 | TTE | $197.25B | +44% | 7.4 | 10% | Moderate | Reasonable | Moderate |
 | BP | $115.70B | +31% | 7.3 | 4% | Moderate | Reasonable | Moderate |
-| COP | $166.14B | +62% | 12.2 | 17% | High | Reasonable | Moderate |
-| EQNR | $97.13B | +77% | 8.1 | 10% | High | Reasonable | Elevated |
+| COP | $166.14B | +63% | 12.2 | 17% | High | Reasonable | Moderate |
+| EQNR | $97.13B | +78% | 8.1 | 10% | High | Reasonable | Elevated |
 | SU | $78.24B | +59% | 9.6 | 18% | Moderate | Reasonable | Elevated |
 | EOG | $80.61B | +47% | 9.2 | 28% | Moderate | Reasonable | Moderate |
 | FANG | $49.53B | +26% | 8.1 | 12% | Low | Reasonable | Elevated |
@@ -67,7 +67,7 @@
 | NRG | $19.74B | -43% | 9.8 | 4% | Low | Reasonable | High |
 | TLN | $15.65B | +1% | 11.6 | -6% | Moderate | Reasonable | High |
 | DUK | $101.82B | +10% | 18.2 | 16% | Moderate | Reasonable | Moderate |
-| SO | $110.19B | +7% | 19.2 | 16% | Moderate | Reasonable | Moderate |
+| SO | $110.19B | +8% | 19.2 | 16% | Moderate | Reasonable | Moderate |
 | D | $59.63B | +16% | 17.8 | 14% | Moderate | Reasonable | Moderate |
 | PEG | $37.92B | -5% | 16.4 | 14% | Moderate | Reasonable | Moderate |
 | ETR | $52.67B | +20% | 21.5 | 15% | Moderate | Fair-to-demanding | Moderate |
