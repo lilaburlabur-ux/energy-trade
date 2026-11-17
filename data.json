@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-17T11:15:24+00:00",
-  "as_of_local": "2026-11-17 11:15:24 UTC",
+  "as_of_utc": "2026-11-17T11:20:33+00:00",
+  "as_of_local": "2026-11-17 11:20:33 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "EOG"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -15,16 +13,16 @@
       "market_cap": 680699829312.2017,
       "headlines": [
         {
-          "title": "Nvidia board needs 'some heavyweights,' ex-Medtronic CEO Bill George says",
-          "url": "https://finance.yahoo.com/technology/article/nvidia-board-needs-some-heavyweights-ex-medtronic-ceo-bill-george-says-191935557.html",
-          "publisher": "Yahoo Finance",
-          "published": "2026-11-16T19:19:35Z"
-        },
-        {
           "title": "What iShares S&P 500 Value ETF (IVE) Sold: Apple Leads on Nov. 13",
           "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-p-500-value-etf-110506472.html",
           "publisher": "GuruFocus.com",
           "published": "2026-11-17T11:05:06Z"
+        },
+        {
+          "title": "iShares Core Dividend Growth (DGRO) Buys $4.2 Million More Apple on Nov. 13",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-core-dividend-growth-dgro-110451386.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-17T11:04:51Z"
         },
         {
           "title": "ExxonMobil begins oil production at Uaru in Guyana\u2019s Stabroek block",
@@ -535,6 +533,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/enbridge-enterprise-products-only-pick-174125670.html",
           "publisher": "TIKR",
           "published": "2026-11-13T17:41:25Z"
+        }
+      ]
+    },
+    {
+      "symbol": "EOG",
+      "name": "EOG Resources",
+      "price": 155.47,
+      "previous_close": 158.32,
+      "change_pct": -1.8,
+      "market_cap": 80608742938.19531,
+      "headlines": [
+        {
+          "title": "Could Occidental Petroleum Be The Value Stock For Your Portfolio?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/could-occidental-petroleum-value-stock-205505861.html",
+          "publisher": "Trefis",
+          "published": "2026-11-16T20:55:05Z"
+        },
+        {
+          "title": "What Is Devon Getting For All That Spending?",
+          "url": "https://finance.yahoo.com/energy/articles/devon-getting-spending-161308023.html",
+          "publisher": "Trefis",
+          "published": "2026-11-16T16:13:08Z"
+        },
+        {
+          "title": "Will EOG's Janus Plant Expansion Strengthen Delaware Basin Margins?",
+          "url": "https://finance.yahoo.com/energy/articles/eogs-janus-plant-expansion-strengthen-151700985.html",
+          "publisher": "Zacks",
+          "published": "2026-11-16T15:17:00Z"
         }
       ]
     },
@@ -1958,8 +1984,8 @@
           "name": "EOG Resources Inc",
           "short": "EOG Resources",
           "weight_pct": 4.07,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": -1.8,
+          "price": 155.47,
           "currency": "USD"
         },
         {
@@ -2057,8 +2083,8 @@
         "name": "EOG Resources Inc",
         "short": "EOG Resources",
         "weight_pct": 4.07,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": -1.8,
+        "price": 155.47,
         "currency": "USD"
       },
       {
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 85.94,
-      "change_pct": 0.26
+      "price": 86.02,
+      "change_pct": 0.35
     },
     {
       "label": "Brent",
-      "price": 92.57,
-      "change_pct": 0.14
+      "price": 92.69,
+      "change_pct": 0.27
     },
     {
       "label": "NatGas",
       "price": 3.12,
-      "change_pct": 0.06
+      "change_pct": -0.22
     }
   ]
 }
