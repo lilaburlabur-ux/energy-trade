@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-17T06:53:28+00:00",
-  "as_of_local": "2026-11-17 06:53:28 UTC",
+  "as_of_utc": "2026-11-17T07:08:40+00:00",
+  "as_of_local": "2026-11-17 07:08:40 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -41,6 +41,12 @@
       "market_cap": 423695224187.08923,
       "headlines": [
         {
+          "title": "Chevron nears $5 bln deal for Beacon Offshore Energy stake - report",
+          "url": "https://finance.yahoo.com/energy/articles/chevron-nears-5-bln-deal-065318278.html",
+          "publisher": "Investing.com",
+          "published": "2026-11-17T06:53:18Z"
+        },
+        {
           "title": "Chevron, Texaco offer drivers a new way to save on gas",
           "url": "https://finance.yahoo.com/energy/articles/chevron-texaco-drivers-reason-skip-010300710.html",
           "publisher": "TheStreet",
@@ -51,12 +57,6 @@
           "url": "https://finance.yahoo.com/energy/articles/why-iraq-just-fast-tracked-010000317.html",
           "publisher": "Oilprice.com",
           "published": "2026-11-17T01:00:00Z"
-        },
-        {
-          "title": "Gavin Newsom Calls Trump \u2018Wholly Owned Subsidiary of Big Oil\u2019 as Iran Tensions Rattle Oil Markets: Says President\u2019s \u2018Head Is Stuck in Sand Soaked With Oil\u2019",
-          "url": "https://finance.yahoo.com/energy/articles/gavin-newsom-calls-trump-wholly-003005558.html",
-          "publisher": "Benzinga",
-          "published": "2026-11-17T00:30:05Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 85.07,
-      "change_pct": -0.76
+      "price": 84.93,
+      "change_pct": -0.92
     },
     {
       "label": "Brent",
-      "price": 91.92,
-      "change_pct": -0.56
+      "price": 91.8,
+      "change_pct": -0.69
     },
     {
       "label": "NatGas",
       "price": 3.1,
-      "change_pct": -0.61
+      "change_pct": -0.58
     }
   ]
 }
