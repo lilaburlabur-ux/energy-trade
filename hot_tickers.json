@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-17T00:51:36+00:00",
+  "as_of": "2026-11-17T00:57:00+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,6 +9,22 @@
  "hot_tickers": [
   {
    "rank": 1,
+   "ticker": "BE",
+   "company": "Bloom Energy Corporation",
+   "move_pct": -8.05,
+   "price": 176.54,
+   "volume": 12731790,
+   "volume_vs_avg": "~0.8x",
+   "heat_score": 57,
+   "direction": "down",
+   "why": "What's Going on With Bloom Energy Stock?",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdkpnNWlvSk8xaWFzMzBhVDJyQTNoZFVETUpBM0RTc0pjcGhCeDhXMXpXOUJBQm5YNlRpcmg5N2ZyeXFoZUZ1YnoxcTVwOGk4NDFsSEdJbkdtMnNuYWFYTlAxMlVzZmdnYjB2T2JwWlpxMms0ZVAzLW1XQkxUVk1IRWI3N0Y2M1Aycnc?oc=5",
+   "published": "2026-11-16T23:30:00+00:00",
+   "sector": "Grid, Storage & Electrification"
+  },
+  {
+   "rank": 2,
    "ticker": "FSLR",
    "company": "First Solar, Inc.",
    "move_pct": -5.25,
@@ -22,6 +38,22 @@
    "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObEtyN0IzWUhwM1pZQUNKeUVoR1BkcHNNLWtzYnBJYlNUNVYxSF9EYWlSM2ZOWHFwTXVmOTczbXR1U0NqYjRBNThMZFVuTXUyVVJoY0lFbjd5WGxfWEVMQ0I0bUNqOE5QeHhDQWl1UzNNYWVISjRRMDlIX084TlRPUVlpb1M5dGZKV2poRUw2MF8?oc=5",
    "published": "2026-11-16T22:31:22+00:00",
    "sector": "Renewables & Solar"
+  },
+  {
+   "rank": 3,
+   "ticker": "GEV",
+   "company": "GE Vernova Inc.",
+   "move_pct": -5.36,
+   "price": 760.1,
+   "volume": 3518651,
+   "volume_vs_avg": "~1.0x",
+   "heat_score": 39,
+   "direction": "down",
+   "why": "GE Vernova Inc. (GEV) Stock Price, News, Quote & History",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE01czRmT05mbjloUERIeUkxMjVyWVRxUWt5ZkhIMEd3ZXZmaFdualN2Z1d0alJTUnhrS04xdXNuMUduaTNNMjZtT2dJNnZVNncx?oc=5",
+   "published": "2026-11-16T21:08:41+00:00",
+   "sector": "Grid, Storage & Electrification"
   }
  ]
 }
