@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-17T05:12:47+00:00",
-  "as_of_local": "2026-11-17 05:12:47 UTC",
+  "as_of_utc": "2026-11-17T05:27:49+00:00",
+  "as_of_local": "2026-11-17 05:27:49 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "BEP"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1491,6 +1489,34 @@
       ]
     },
     {
+      "symbol": "BEP",
+      "name": "Brookfield Renewable",
+      "price": 29.96,
+      "previous_close": 29.98,
+      "change_pct": -0.07,
+      "market_cap": 9071356651.834549,
+      "headlines": [
+        {
+          "title": "Wind Farms, Solar Fields and Power Plants Sell Electricity to the Grid, and $120,000 Across These 3 Owners Pays $6,286 a Year",
+          "url": "https://finance.yahoo.com/energy/articles/wind-farms-solar-fields-power-195846511.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-15T19:58:46Z"
+        },
+        {
+          "title": "Tesla fund makes surprise Microsoft bet, keeps Nvidia stake",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-fund-makes-surprise-microsoft-175904923.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-12T17:59:04Z"
+        },
+        {
+          "title": "BEP- A Renewable Energy Play that Should Benefit from the Midterms",
+          "url": "https://finance.yahoo.com/energy/articles/bep-renewable-energy-play-benefit-050100642.html",
+          "publisher": "MoneyShow",
+          "published": "2026-11-10T05:01:00Z"
+        }
+      ]
+    },
+    {
       "symbol": "NOV",
       "name": "NOV Inc",
       "price": 17.4,
@@ -2083,24 +2109,19 @@
   },
   "tape": [
     {
-      "label": "SPX",
-      "price": 7416.59,
-      "change_pct": -1.92
-    },
-    {
       "label": "WTI",
-      "price": 85.02,
-      "change_pct": -0.82
+      "price": 85.0,
+      "change_pct": -0.84
     },
     {
       "label": "Brent",
-      "price": 92.44,
-      "change_pct": -3.55
+      "price": 91.74,
+      "change_pct": -0.76
     },
     {
       "label": "NatGas",
-      "price": 3.08,
-      "change_pct": -1.22
+      "price": 3.09,
+      "change_pct": -1.19
     }
   ]
 }
