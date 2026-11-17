@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-17T09:34:00+00:00",
-  "as_of_local": "2026-11-17 09:34:00 UTC",
+  "as_of_utc": "2026-11-17T09:39:03+00:00",
+  "as_of_local": "2026-11-17 09:39:03 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "COP"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -171,6 +169,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-nextera-energy-110231755.html",
           "publisher": "GuruFocus.com",
           "published": "2026-11-16T11:02:31Z"
+        }
+      ]
+    },
+    {
+      "symbol": "COP",
+      "name": "ConocoPhillips",
+      "price": 140.52,
+      "previous_close": 141.35,
+      "change_pct": -0.59,
+      "market_cap": 166141727261.12036,
+      "headlines": [
+        {
+          "title": "Could Occidental Petroleum Be The Value Stock For Your Portfolio?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/could-occidental-petroleum-value-stock-205505861.html",
+          "publisher": "Trefis",
+          "published": "2026-11-16T20:55:05Z"
+        },
+        {
+          "title": "Sezzle and Kimball Electronics have been highlighted as Zacks Bull and Bear of the Day",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/sezzle-kimball-electronics-highlighted-zacks-124600895.html",
+          "publisher": "Zacks",
+          "published": "2026-11-16T12:46:00Z"
+        },
+        {
+          "title": "What Bernstein Sees Looming Over ConocoPhillips (COP)",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bernstein-sees-looming-over-conocophillips-030556041.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-11-16T03:05:56Z"
         }
       ]
     },
@@ -1913,8 +1939,8 @@
           "name": "ConocoPhillips",
           "short": "ConocoPhillips",
           "weight_pct": 7.27,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": -0.59,
+          "price": 140.52,
           "currency": "USD"
         },
         {
@@ -2012,8 +2038,8 @@
         "name": "ConocoPhillips",
         "short": "ConocoPhillips",
         "weight_pct": 7.27,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": -0.59,
+        "price": 140.52,
         "currency": "USD"
       },
       {
@@ -2089,18 +2115,13 @@
     },
     {
       "label": "WTI",
-      "price": 85.67,
-      "change_pct": -0.06
-    },
-    {
-      "label": "Brent",
-      "price": 92.43,
-      "change_pct": -0.01
+      "price": 85.87,
+      "change_pct": 0.17
     },
     {
       "label": "NatGas",
       "price": 3.11,
-      "change_pct": -0.29
+      "change_pct": -0.32
     }
   ]
 }
