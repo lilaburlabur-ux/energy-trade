@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-17T11:10:24+00:00",
-  "as_of_local": "2026-11-17 11:10:24 UTC",
+  "as_of_utc": "2026-11-17T11:15:24+00:00",
+  "as_of_local": "2026-11-17 11:15:24 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "EOG"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -19,16 +21,16 @@
           "published": "2026-11-16T19:19:35Z"
         },
         {
+          "title": "What iShares S&P 500 Value ETF (IVE) Sold: Apple Leads on Nov. 13",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-p-500-value-etf-110506472.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-17T11:05:06Z"
+        },
+        {
           "title": "ExxonMobil begins oil production at Uaru in Guyana\u2019s Stabroek block",
           "url": "https://finance.yahoo.com/news/exxonmobil-begins-oil-production-uaru-104636459.html",
           "publisher": "Offshore Technology",
           "published": "2026-11-17T10:46:36Z"
-        },
-        {
-          "title": "ExxonMobil's Uaru Startup Lifts Guyana Oil Capacity to 1.1 Million Bpd",
-          "url": "https://finance.yahoo.com/energy/articles/exxonmobils-uaru-startup-lifts-guyana-064000242.html",
-          "publisher": "Oilprice.com",
-          "published": "2026-11-17T06:40:00Z"
         }
       ]
     },
@@ -41,6 +43,12 @@
       "market_cap": 423695224187.08923,
       "headlines": [
         {
+          "title": "ETFs Are Buying Chevron (CVX) on Friday",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-buying-chevron-cvx-friday-110158202.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-17T11:01:58Z"
+        },
+        {
           "title": "Market Chatter: Chevron Nears $5 Billion Deal for Majority Stake in Blackstone-Backed Gulf Oilfield",
           "url": "https://finance.yahoo.com/energy/articles/market-chatter-chevron-nears-5-084922138.html",
           "publisher": "MT Newswires",
@@ -51,12 +59,6 @@
           "url": "https://finance.yahoo.com/energy/articles/chevron-nears-5-bln-deal-065318278.html",
           "publisher": "Investing.com",
           "published": "2026-11-17T06:53:18Z"
-        },
-        {
-          "title": "Chevron, Texaco offer drivers a new way to save on gas",
-          "url": "https://finance.yahoo.com/energy/articles/chevron-texaco-drivers-reason-skip-010300710.html",
-          "publisher": "TheStreet",
-          "published": "2026-11-17T01:03:00Z"
         }
       ]
     },
@@ -533,34 +535,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/enbridge-enterprise-products-only-pick-174125670.html",
           "publisher": "TIKR",
           "published": "2026-11-13T17:41:25Z"
-        }
-      ]
-    },
-    {
-      "symbol": "EOG",
-      "name": "EOG Resources",
-      "price": 155.47,
-      "previous_close": 158.32,
-      "change_pct": -1.8,
-      "market_cap": 80608742938.19531,
-      "headlines": [
-        {
-          "title": "Could Occidental Petroleum Be The Value Stock For Your Portfolio?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/could-occidental-petroleum-value-stock-205505861.html",
-          "publisher": "Trefis",
-          "published": "2026-11-16T20:55:05Z"
-        },
-        {
-          "title": "What Is Devon Getting For All That Spending?",
-          "url": "https://finance.yahoo.com/energy/articles/devon-getting-spending-161308023.html",
-          "publisher": "Trefis",
-          "published": "2026-11-16T16:13:08Z"
-        },
-        {
-          "title": "Will EOG's Janus Plant Expansion Strengthen Delaware Basin Margins?",
-          "url": "https://finance.yahoo.com/energy/articles/eogs-janus-plant-expansion-strengthen-151700985.html",
-          "publisher": "Zacks",
-          "published": "2026-11-16T15:17:00Z"
         }
       ]
     },
@@ -1984,8 +1958,8 @@
           "name": "EOG Resources Inc",
           "short": "EOG Resources",
           "weight_pct": 4.07,
-          "change_pct": -1.8,
-          "price": 155.47,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -2083,8 +2057,8 @@
         "name": "EOG Resources Inc",
         "short": "EOG Resources",
         "weight_pct": 4.07,
-        "change_pct": -1.8,
-        "price": 155.47,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 86.01,
-      "change_pct": 0.34
+      "price": 85.94,
+      "change_pct": 0.26
     },
     {
       "label": "Brent",
-      "price": 92.7,
-      "change_pct": 0.28
+      "price": 92.57,
+      "change_pct": 0.14
     },
     {
       "label": "NatGas",
       "price": 3.12,
-      "change_pct": 0.03
+      "change_pct": 0.06
     }
   ]
 }
