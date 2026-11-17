@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-17T00:31:59+00:00",
-  "as_of_local": "2026-11-17 00:31:59 UTC",
+  "as_of_utc": "2026-11-17T00:37:06+00:00",
+  "as_of_local": "2026-11-17 00:37:06 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "EQNR"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -427,6 +425,34 @@
       ]
     },
     {
+      "symbol": "EQNR",
+      "name": "Equinor",
+      "price": 41.05,
+      "previous_close": 42.95,
+      "change_pct": -4.42,
+      "market_cap": 97131642983.89874,
+      "headlines": [
+        {
+          "title": "4 High-Yield Big Oil Stocks Built to Keep Paying Dividends as Crude Prices Fall",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/4-high-yield-big-oil-201727371.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-16T20:17:27Z"
+        },
+        {
+          "title": "European Equities Traded in the US as American Depositary Receipts Kick Off Week Lower in Monday Trading",
+          "url": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-american-162136581.html",
+          "publisher": "MT Newswires",
+          "published": "2026-11-16T16:21:36Z"
+        },
+        {
+          "title": "New North Sea Gas Supply Comes Online Amid Growing Political Backlash",
+          "url": "https://finance.yahoo.com/energy/articles/north-sea-gas-supply-comes-111500790.html",
+          "publisher": "Oilprice.com",
+          "published": "2026-11-16T11:15:00Z"
+        }
+      ]
+    },
+    {
       "symbol": "PWR",
       "name": "Quanta Services",
       "price": 585.9,
@@ -517,7 +543,26 @@
       "previous_close": 158.32,
       "change_pct": -1.8,
       "market_cap": 80608742938.19531,
-      "headlines": []
+      "headlines": [
+        {
+          "title": "Could Occidental Petroleum Be The Value Stock For Your Portfolio?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/could-occidental-petroleum-value-stock-205505861.html",
+          "publisher": "Trefis",
+          "published": "2026-11-16T20:55:05Z"
+        },
+        {
+          "title": "What Is Devon Getting For All That Spending?",
+          "url": "https://finance.yahoo.com/energy/articles/devon-getting-spending-161308023.html",
+          "publisher": "Trefis",
+          "published": "2026-11-16T16:13:08Z"
+        },
+        {
+          "title": "Will EOG's Janus Plant Expansion Strengthen Delaware Basin Margins?",
+          "url": "https://finance.yahoo.com/energy/articles/eogs-janus-plant-expansion-strengthen-151700985.html",
+          "publisher": "Zacks",
+          "published": "2026-11-16T15:17:00Z"
+        }
+      ]
     },
     {
       "symbol": "SU",
@@ -1480,6 +1525,12 @@
       "market_cap": 6203317207.401278,
       "headlines": [
         {
+          "title": "NOV (NOV) Stock Trades At A Discount To Fair Value",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nov-nov-stock-trades-discount-001953310.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-17T00:19:53Z"
+        },
+        {
           "title": "DTI Q3 Earnings Miss Estimates on Higher Costs Despite Sales Growth",
           "url": "https://finance.yahoo.com/markets/stocks/articles/dti-q3-earnings-miss-estimates-181500794.html",
           "publisher": "Zacks",
@@ -1490,12 +1541,6 @@
           "url": "https://finance.yahoo.com/energy/articles/cnq-q3-earnings-beat-strong-152800153.html",
           "publisher": "Zacks",
           "published": "2026-11-09T15:28:00Z"
-        },
-        {
-          "title": "Why Is Baker Hughes Stock Falling?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-baker-hughes-stock-falling-141921435.html",
-          "publisher": "Trefis",
-          "published": "2026-11-06T14:19:21Z"
         }
       ]
     },
@@ -2070,8 +2115,8 @@
     },
     {
       "label": "WTI",
-      "price": 85.28,
-      "change_pct": -3.7
+      "price": 85.34,
+      "change_pct": -3.64
     },
     {
       "label": "Brent",
@@ -2080,8 +2125,8 @@
     },
     {
       "label": "NatGas",
-      "price": 3.13,
-      "change_pct": -3.19
+      "price": 3.12,
+      "change_pct": -3.28
     }
   ]
 }
