@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-17T03:31:56+00:00",
-  "as_of_local": "2026-11-17 03:31:56 UTC",
+  "as_of_utc": "2026-11-17T03:47:15+00:00",
+  "as_of_local": "2026-11-17 03:47:15 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "CVX"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -31,6 +29,34 @@
           "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-retreat-afternoon-205814412.html",
           "publisher": "MT Newswires",
           "published": "2026-11-16T20:58:14Z"
+        }
+      ]
+    },
+    {
+      "symbol": "CVX",
+      "name": "Chevron",
+      "price": 217.14,
+      "previous_close": 219.89,
+      "change_pct": -1.25,
+      "market_cap": 423695224187.08923,
+      "headlines": [
+        {
+          "title": "Chevron, Texaco offer drivers a new way to save on gas",
+          "url": "https://finance.yahoo.com/energy/articles/chevron-texaco-drivers-reason-skip-010300710.html",
+          "publisher": "TheStreet",
+          "published": "2026-11-17T01:03:00Z"
+        },
+        {
+          "title": "Why Iraq Just Fast-Tracked Chevron\u2019s Takeover Of A 14-Billion-Barrel Supergiant",
+          "url": "https://finance.yahoo.com/energy/articles/why-iraq-just-fast-tracked-010000317.html",
+          "publisher": "Oilprice.com",
+          "published": "2026-11-17T01:00:00Z"
+        },
+        {
+          "title": "Gavin Newsom Calls Trump \u2018Wholly Owned Subsidiary of Big Oil\u2019 as Iran Tensions Rattle Oil Markets: Says President\u2019s \u2018Head Is Stuck in Sand Soaked With Oil\u2019",
+          "url": "https://finance.yahoo.com/energy/articles/gavin-newsom-calls-trump-wholly-003005558.html",
+          "publisher": "Benzinga",
+          "published": "2026-11-17T00:30:05Z"
         }
       ]
     },
@@ -1904,8 +1930,8 @@
           "name": "Chevron Corp",
           "short": "Chevron",
           "weight_pct": 18.29,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": -1.25,
+          "price": 217.14,
           "currency": "USD"
         },
         {
@@ -2003,8 +2029,8 @@
         "name": "Chevron Corp",
         "short": "Chevron",
         "weight_pct": 18.29,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": -1.25,
+        "price": 217.14,
         "currency": "USD"
       },
       {
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 85.03,
-      "change_pct": -3.99
+      "price": 85.06,
+      "change_pct": -3.95
     },
     {
       "label": "Brent",
-      "price": 91.64,
-      "change_pct": -4.38
+      "price": 91.72,
+      "change_pct": -4.3
     },
     {
       "label": "NatGas",
-      "price": 3.1,
-      "change_pct": -4.06
+      "price": 3.11,
+      "change_pct": -3.84
     }
   ]
 }
