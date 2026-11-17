@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-17T10:34:56+00:00",
-  "as_of_local": "2026-11-17 10:34:56 UTC",
+  "as_of_utc": "2026-11-17T10:40:15+00:00",
+  "as_of_local": "2026-11-17 10:40:15 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "SU"
+    "PR"
   ],
   "stocks": [
     {
@@ -563,6 +563,34 @@
           "url": "https://finance.yahoo.com/energy/articles/eogs-janus-plant-expansion-strengthen-151700985.html",
           "publisher": "Zacks",
           "published": "2026-11-16T15:17:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "SU",
+      "name": "Suncor Energy",
+      "price": 67.96,
+      "previous_close": 69.92,
+      "change_pct": -2.8,
+      "market_cap": 78237197752.74274,
+      "headlines": [
+        {
+          "title": "Why Is Suncor Energy (TSX:SU) Rethinking Its In Situ Growth Plans?",
+          "url": "https://finance.yahoo.com/energy/articles/why-suncor-energy-tsx-su-043414518.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-17T04:34:14Z"
+        },
+        {
+          "title": "4 High-Yield Big Oil Stocks Built to Keep Paying Dividends as Crude Prices Fall",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/4-high-yield-big-oil-201727371.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-16T20:17:27Z"
+        },
+        {
+          "title": "Buy These 5 Top-Ranked High-Efficiency Stocks With Strong Profit Potential",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/buy-5-top-ranked-high-142700328.html",
+          "publisher": "Zacks",
+          "published": "2026-11-16T14:27:00Z"
         }
       ]
     },
@@ -1207,34 +1235,6 @@
           "url": "https://finance.yahoo.com/energy/articles/nrg-sell-4-9-gw-162132421.html",
           "publisher": "Utility Dive",
           "published": "2026-11-16T16:21:32Z"
-        }
-      ]
-    },
-    {
-      "symbol": "PR",
-      "name": "Permian Resources",
-      "price": 22.31,
-      "previous_close": 23.05,
-      "change_pct": -3.21,
-      "market_cap": 18711972105.4521,
-      "headlines": [
-        {
-          "title": "3 US Oil And Gas Stocks Investors Are Watching As Jet Fuel Prices Stay High",
-          "url": "https://finance.yahoo.com/energy/articles/3-us-oil-gas-stocks-043936633.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-17T04:39:36Z"
-        },
-        {
-          "title": "These High-Yield Dividend Stocks Have a Problem Income Investors Can\u2019t Ignore",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/high-yield-dividend-stocks-problem-191710901.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-16T19:17:10Z"
-        },
-        {
-          "title": "Is Permian Resources (PR) a Solid Growth Stock? 3 Reasons to Think \"Yes\"",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/permian-resources-pr-solid-growth-164502658.html",
-          "publisher": "Zacks",
-          "published": "2026-11-13T16:45:02Z"
         }
       ]
     },
@@ -2089,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 85.8,
-      "change_pct": 0.09
+      "price": 85.64,
+      "change_pct": -0.09
     },
     {
       "label": "Brent",
-      "price": 92.48,
-      "change_pct": 0.04
+      "price": 92.36,
+      "change_pct": -0.09
     },
     {
       "label": "NatGas",
       "price": 3.11,
-      "change_pct": -0.42
+      "change_pct": -0.38
     }
   ]
 }
