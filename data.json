@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-17T21:27:36+00:00",
-  "as_of_local": "2026-11-17 21:27:36 UTC",
+  "as_of_utc": "2026-11-17T21:30:47+00:00",
+  "as_of_local": "2026-11-17 21:30:47 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "BWXT"
+    "TLN"
   ],
   "stocks": [
     {
@@ -1379,34 +1379,6 @@
       ]
     },
     {
-      "symbol": "TLN",
-      "name": "Talen Energy",
-      "price": 354.71,
-      "previous_close": 359.74,
-      "change_pct": -1.4,
-      "market_cap": 15431768847.770508,
-      "headlines": [
-        {
-          "title": "Will OKLO's $3.1B Liquidity Cushion Advance Its Nuclear Plans?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/oklos-3-1b-liquidity-cushion-122900957.html",
-          "publisher": "Zacks",
-          "published": "2026-11-17T12:29:00Z"
-        },
-        {
-          "title": "What Is Talen Energy (TLN) Signaling With Its 750 MW Capacity Deal?",
-          "url": "https://finance.yahoo.com/energy/articles/talen-energy-tln-signaling-750-131328293.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-13T13:13:28Z"
-        },
-        {
-          "title": "Can NuScale's TVA Deal Unlock Its First Major Module Order?",
-          "url": "https://finance.yahoo.com/energy/articles/nuscales-tva-deal-unlock-first-152900220.html",
-          "publisher": "Zacks",
-          "published": "2026-11-12T15:29:00Z"
-        }
-      ]
-    },
-    {
       "symbol": "NXT",
       "name": "Nextracker",
       "price": 78.48,
@@ -1459,6 +1431,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/david-einhorn-best-buy-already-194953923.html",
           "publisher": "TIKR",
           "published": "2026-11-11T19:49:53Z"
+        }
+      ]
+    },
+    {
+      "symbol": "BWXT",
+      "name": "BWX Technologies",
+      "price": 118.82,
+      "previous_close": 117.09,
+      "change_pct": 1.48,
+      "market_cap": 10886905879.578209,
+      "headlines": [
+        {
+          "title": "Cathie Wood and Jim Cramer Agree on These 10 Stocks: Latest 13F",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-jim-cramer-agree-132819758.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-11-17T13:28:19Z"
+        },
+        {
+          "title": "ETFs Are Net Sellers of BWX Technologies (BWXT) on Wednesday",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-bwx-technologies-110225961.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-13T11:02:25Z"
+        },
+        {
+          "title": "Will NuScale Power Stock's Jump After Earnings Last?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nuscale-power-stocks-jump-earnings-202101895.html",
+          "publisher": "Trefis",
+          "published": "2026-11-12T20:21:01Z"
         }
       ]
     },
@@ -2089,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 85.67,
-      "change_pct": -0.06
+      "price": 85.64,
+      "change_pct": -0.09
     },
     {
       "label": "Brent",
-      "price": 92.96,
-      "change_pct": 0.56
+      "price": 92.97,
+      "change_pct": 0.57
     },
     {
       "label": "NatGas",
       "price": 3.19,
-      "change_pct": 2.34
+      "change_pct": 2.24
     }
   ]
 }
