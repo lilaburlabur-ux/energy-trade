@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-17T05:42:59+00:00",
-  "as_of_local": "2026-11-17 05:42:59 UTC",
+  "as_of_utc": "2026-11-17T05:58:09+00:00",
+  "as_of_local": "2026-11-17 05:58:09 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "PSX"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -365,34 +367,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/con-ed-52-dividend-streak-184723872.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-16T18:47:23Z"
-        }
-      ]
-    },
-    {
-      "symbol": "PSX",
-      "name": "Phillips 66",
-      "price": 260.62,
-      "previous_close": 264.9,
-      "change_pct": -1.62,
-      "market_cap": 101660657079.7898,
-      "headlines": [
-        {
-          "title": "Best Momentum Stocks to Buy for November 13th",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/best-momentum-stocks-buy-november-140000881.html",
-          "publisher": "Zacks",
-          "published": "2026-11-13T14:00:00Z"
-        },
-        {
-          "title": "How Has Chevron's Story Changed For Shareholders?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/chevrons-story-changed-shareholders-121251633.html",
-          "publisher": "Trefis",
-          "published": "2026-11-13T12:12:51Z"
-        },
-        {
-          "title": "New Strong Buy Stocks for November 13th",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/strong-buy-stocks-november-13th-075100623.html",
-          "publisher": "Zacks",
-          "published": "2026-11-13T07:51:00Z"
         }
       ]
     },
@@ -1957,8 +1931,8 @@
           "name": "Phillips 66",
           "short": "Phillips",
           "weight_pct": 4.52,
-          "change_pct": -1.62,
-          "price": 260.62,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -2056,8 +2030,8 @@
         "name": "Phillips 66",
         "short": "Phillips",
         "weight_pct": 4.52,
-        "change_pct": -1.62,
-        "price": 260.62,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 84.92,
-      "change_pct": -0.93
+      "price": 85.08,
+      "change_pct": -0.75
     },
     {
       "label": "Brent",
-      "price": 91.65,
-      "change_pct": -0.85
+      "price": 91.89,
+      "change_pct": -0.59
     },
     {
       "label": "NatGas",
       "price": 3.09,
-      "change_pct": -1.15
+      "change_pct": -1.06
     }
   ]
 }
