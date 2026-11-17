@@ -18,7 +18,7 @@ Signed file: `SEDG.research.17.11.2026`
 | Technical momentum | Low | Below SMA200 (-48.15%) with negative half-year (-60.17%). |
 | Fresh setup quality | Poor / broken | -72.33% from 52w high — base needs to rebuild. |
 | Fundamental quality | Weak | Negative profit margin (-17.34%). |
-| Value attractiveness | Reasonable | Forward P/E -910.31, EV/Sales 0.98. |
+| Value attractiveness | Reasonable | Forward P/E -150.98, EV/Sales 0.98. |
 | Risk level | High | Beta 1.30, ATR 10.6% of price, short float 19.02%. |
 
 **Bottom line:** Low technical momentum, weak fundamentals, value: reasonable, risk: high.
@@ -68,7 +68,7 @@ SolarEdge Technologies, Inc., together with its subsidiaries, operates as an ene
 | Revenue (ttm) | $1.32B | Revenue growth -4.10% y/y |
 | Profitability | Gross 21.49%, operating -11.01%, net -17.34% | ROA -4.03%, ROE -50.64% |
 | Balance sheet | Cash $555.08M, debt $403.18M | Current ratio 2.12, debt/equity 95.26 |
-| Valuation | P/E —, forward P/E -910.31, P/S 1.02, P/B 3.18 | EV/Sales 0.98, EV/EBITDA -10.66 |
+| Valuation | P/E —, forward P/E -150.98, P/S 1.02, P/B 3.18 | EV/Sales 0.98, EV/EBITDA -10.66 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $29.89 (18 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -124,7 +124,7 @@ SolarEdge Technologies, Inc., together with its subsidiaries, operates as an ene
 | 52W high | $78.51 | Revenue growth y/y | -4.10% |
 | 52W low | $21.72 | Inst. ownership | 93.71% |
 | P/E (ttm) | — | Insider ownership | 1.11% |
-| Forward P/E | -910.31 | Short float | 19.02% |
+| Forward P/E | -150.98 | Short float | 19.02% |
 | PEG (trailing) | — | Avg volume | 2,998,907 |
 | P/S | 1.02 | Employees | 3,576 |
 | P/B | 3.18 | Analyst rec (1=buy..5=sell) | 3.1 |

@@ -68,7 +68,7 @@ HF Sinclair Corporation operates as an independent energy company in the United 
 | Revenue (ttm) | $34.83B | Revenue growth 49.70% y/y |
 | Profitability | Gross 18.01%, operating 13.74%, net 10.12% | ROA 15.77%, ROE 33.21% |
 | Balance sheet | Cash $3.33B, debt $3.36B | Current ratio 2.27, debt/equity 28.52 |
-| Valuation | P/E 5.14, forward P/E 5.58, P/S 0.47, P/B 1.44 | EV/Sales 0.49, EV/EBITDA 3.15 |
+| Valuation | P/E 4.98, forward P/E 5.58, P/S 0.47, P/B 1.44 | EV/Sales 0.49, EV/EBITDA 3.15 |
 | Growth expectations | Earnings growth 430.60%, EPS q/q 400.00% | Analyst mean target $120.75 (16 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -120,7 +120,7 @@ HF Sinclair Corporation operates as an independent energy company in the United 
 | SMA200 dist | +21.13% | Revenue (ttm) | $34.83B |
 | 52W high | $127.57 | Revenue growth y/y | 49.70% |
 | 52W low | $44.60 | Inst. ownership | 88.48% |
-| P/E (ttm) | 5.14 | Insider ownership | 1.94% |
+| P/E (ttm) | 4.98 | Insider ownership | 1.94% |
 | Forward P/E | 5.58 | Short float | 3.94% |
 | PEG (trailing) | 0.75 | Avg volume | 2,494,773 |
 | P/S | 0.47 | Employees | 5,165 |

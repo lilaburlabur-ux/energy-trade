@@ -18,7 +18,7 @@ Signed file: `VRT.research.17.11.2026`
 | Technical momentum | Low | Below SMA200 (-29.88%) with negative half-year (-40.97%). |
 | Fresh setup quality | Poor / broken | -49.38% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 16.00%, revenue growth 61.20%. |
-| Value attractiveness | Reasonable | Forward P/E 19.19, EV/Sales 5.51. |
+| Value attractiveness | Reasonable | Forward P/E 19.28, EV/Sales 5.51. |
 | Risk level | High | Beta 2.11, ATR 8.9% of price, short float 2.88%. |
 
 **Bottom line:** Low technical momentum, strong fundamentals, value: reasonable, risk: high.
@@ -68,7 +68,7 @@ Vertiv Holdings Co designs, manufactures, and services critical digital infrastr
 | Revenue (ttm) | $13.12B | Revenue growth 61.20% y/y |
 | Profitability | Gross 38.12%, operating 21.11%, net 16.00% | ROA 11.94%, ROE 46.57% |
 | Balance sheet | Cash $3.71B, debt $3.36B | Current ratio 1.39, debt/equity 61.01 |
-| Valuation | P/E 36.89, forward P/E 19.19, P/S 5.59, P/B 13.32 | EV/Sales 5.51, EV/EBITDA 22.68 |
+| Valuation | P/E 38.07, forward P/E 19.28, P/S 5.59, P/B 13.32 | EV/Sales 5.51, EV/EBITDA 22.68 |
 | Growth expectations | Earnings growth 91.20%, EPS q/q 91.80% | Analyst mean target $334.29 (30 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -121,8 +121,8 @@ Vertiv Holdings Co designs, manufactures, and services critical digital infrastr
 | SMA200 dist | -29.88% | Revenue (ttm) | $13.12B |
 | 52W high | $376.06 | Revenue growth y/y | 61.20% |
 | 52W low | $149.73 | Inst. ownership | 83.26% |
-| P/E (ttm) | 36.89 | Insider ownership | 0.25% |
-| Forward P/E | 19.19 | Short float | 2.88% |
+| P/E (ttm) | 38.07 | Insider ownership | 0.25% |
+| Forward P/E | 19.28 | Short float | 2.88% |
 | PEG (trailing) | 0.56 | Avg volume | 6,228,795 |
 | P/S | 5.59 | Employees | 34,000 |
 | P/B | 13.32 | Analyst rec (1=buy..5=sell) | 1.4 |
