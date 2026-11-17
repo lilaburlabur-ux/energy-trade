@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-17T04:37:22+00:00",
-  "as_of_local": "2026-11-17 04:37:22 UTC",
+  "as_of_utc": "2026-11-17T04:52:27+00:00",
+  "as_of_local": "2026-11-17 04:52:27 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "MPC"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -283,6 +281,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/con-ed-52-dividend-streak-184723872.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-16T18:47:23Z"
+        }
+      ]
+    },
+    {
+      "symbol": "MPC",
+      "name": "Marathon Petroleum",
+      "price": 402.19,
+      "previous_close": 414.65,
+      "change_pct": -3.0,
+      "market_cap": 109509210857.95166,
+      "headlines": [
+        {
+          "title": "Marathon Petroleum vs. Par Pacific: Picking the Better Refining Play",
+          "url": "https://finance.yahoo.com/energy/articles/marathon-petroleum-vs-par-pacific-160700728.html",
+          "publisher": "Zacks",
+          "published": "2026-11-16T16:07:00Z"
+        },
+        {
+          "title": "4 High-Yield Energy Stocks That Get Paid to Move Oil and Gas",
+          "url": "https://finance.yahoo.com/energy/articles/4-high-yield-energy-stocks-141753664.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-16T14:17:53Z"
+        },
+        {
+          "title": "Beat Value Traps: 4 Stocks With Attractive PEG Ratios to Buy Now",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/beat-value-traps-4-stocks-190000039.html",
+          "publisher": "Zacks",
+          "published": "2026-11-13T19:00:00Z"
         }
       ]
     },
@@ -1922,8 +1948,8 @@
           "name": "Marathon Petroleum Corp",
           "short": "Marathon",
           "weight_pct": 4.64,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": -3.0,
+          "price": 402.19,
           "currency": "USD"
         },
         {
@@ -2021,8 +2047,8 @@
         "name": "Marathon Petroleum Corp",
         "short": "Marathon",
         "weight_pct": 4.64,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": -3.0,
+        "price": 402.19,
         "currency": "USD"
       },
       {
@@ -2089,13 +2115,13 @@
     },
     {
       "label": "WTI",
-      "price": 84.94,
-      "change_pct": -4.09
+      "price": 85.13,
+      "change_pct": -3.87
     },
     {
       "label": "Brent",
-      "price": 91.55,
-      "change_pct": -4.48
+      "price": 91.78,
+      "change_pct": -4.24
     },
     {
       "label": "NatGas",
