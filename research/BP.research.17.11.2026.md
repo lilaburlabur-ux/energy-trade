@@ -68,7 +68,7 @@ BP p.l.c., an integrated energy company, engages in the oil and gas business wor
 | Revenue (ttm) | $235.14B | Revenue growth 41.40% y/y |
 | Profitability | Gross 29.56%, operating 13.41%, net 3.84% | ROA 6.75%, ROE 13.42% |
 | Balance sheet | Cash $43.05B, debt $69.62B | Current ratio 1.29, debt/equity 87.47 |
-| Valuation | P/E 21.91, forward P/E 7.33, P/S 0.49, P/B 7.49 | EV/Sales 2.17, EV/EBITDA 10.82 |
+| Valuation | P/E 22.35, forward P/E 7.33, P/S 0.49, P/B 7.49 | EV/Sales 2.17, EV/EBITDA 10.82 |
 | Growth expectations | Earnings growth 305.00%, EPS q/q 304.50% | Analyst mean target $55.89 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -119,7 +119,7 @@ BP p.l.c., an integrated energy company, engages in the oil and gas business wor
 | SMA200 dist | +5.76% | Revenue (ttm) | $235.14B |
 | 52W high | $50.74 | Revenue growth y/y | 41.40% |
 | 52W low | $31.75 | Inst. ownership | 13.35% |
-| P/E (ttm) | 21.91 | Insider ownership | 0.01% |
+| P/E (ttm) | 22.35 | Insider ownership | 0.01% |
 | Forward P/E | 7.33 | Short float | 0.31% |
 | PEG (trailing) | 0.04 | Avg volume | 9,190,318 |
 | P/S | 0.49 | Employees | 93,700 |

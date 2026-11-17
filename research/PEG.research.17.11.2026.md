@@ -68,7 +68,7 @@ Public Service Enterprise Group Incorporated, through its subsidiaries, operates
 | Revenue (ttm) | $12.34B | Revenue growth -6.40% y/y |
 | Profitability | Gross 32.12%, operating 22.26%, net 14.31% | ROA 2.93%, ROE 10.28% |
 | Balance sheet | Cash $837.00M, debt $25.76B | Current ratio 1.01, debt/equity 148.40 |
-| Valuation | P/E 21.49, forward P/E 16.42, P/S 3.07, P/B 2.18 | EV/Sales 5.09, EV/EBITDA 14.77 |
+| Valuation | P/E 21.43, forward P/E 16.42, P/S 3.07, P/B 2.18 | EV/Sales 5.09, EV/EBITDA 14.77 |
 | Growth expectations | Earnings growth -39.10%, EPS q/q -39.50% | Analyst mean target $81.18 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -119,7 +119,7 @@ Public Service Enterprise Group Incorporated, through its subsidiaries, operates
 | SMA200 dist | -0.98% | Revenue (ttm) | $12.34B |
 | 52W high | $84.74 | Revenue growth y/y | -6.40% |
 | 52W low | $66.56 | Inst. ownership | 79.44% |
-| P/E (ttm) | 21.49 | Insider ownership | 0.39% |
+| P/E (ttm) | 21.43 | Insider ownership | 0.39% |
 | Forward P/E | 16.42 | Short float | 2.45% |
 | PEG (trailing) | 3.55 | Avg volume | 3,526,323 |
 | P/S | 3.07 | Employees | 13,189 |

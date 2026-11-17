@@ -68,7 +68,7 @@ EQT Corporation engages in the exploration, production, gathering, and transmiss
 | Revenue (ttm) | $9.15B | Revenue growth -8.10% y/y |
 | Profitability | Gross 80.40%, operating 45.15%, net 29.01% | ROA 6.25%, ROE 10.49% |
 | Balance sheet | Cash $78.72M, debt $5.55B | Current ratio 0.71, debt/equity 19.13 |
-| Valuation | P/E 12.14, forward P/E 15.44, P/S 3.50, P/B 1.26 | EV/Sales 4.49, EV/EBITDA 6.06 |
+| Valuation | P/E 12.53, forward P/E 15.44, P/S 3.50, P/B 1.26 | EV/Sales 4.49, EV/EBITDA 6.06 |
 | Growth expectations | Earnings growth -17.00%, EPS q/q -17.00% | Analyst mean target $66.77 (22 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -120,7 +120,7 @@ EQT Corporation engages in the exploration, production, gathering, and transmiss
 | SMA200 dist | -7.01% | Revenue (ttm) | $9.15B |
 | 52W high | $67.32 | Revenue growth y/y | -8.10% |
 | 52W low | $48.41 | Inst. ownership | 97.04% |
-| P/E (ttm) | 12.14 | Insider ownership | 1.22% |
+| P/E (ttm) | 12.53 | Insider ownership | 1.22% |
 | Forward P/E | 15.44 | Short float | 4.45% |
 | PEG (trailing) | 1.32 | Avg volume | 7,923,740 |
 | P/S | 3.50 | Employees | 1,523 |

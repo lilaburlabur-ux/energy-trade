@@ -68,7 +68,7 @@ TechnipFMC plc engages in the oil and natural gas projects, technologies, system
 | Revenue (ttm) | $10.67B | Revenue growth 9.40% y/y |
 | Profitability | Gross 23.60%, operating 15.64%, net 12.04% | ROA 10.08%, ROE 38.30% |
 | Balance sheet | Cash $1.05B, debt $1.30B | Current ratio 1.09, debt/equity 38.93 |
-| Valuation | P/E 20.07, forward P/E 16.81, P/S 2.33, P/B 7.47 | EV/Sales 2.35, EV/EBITDA 12.08 |
+| Valuation | P/E 20.85, forward P/E 16.81, P/S 2.33, P/B 7.47 | EV/Sales 2.35, EV/EBITDA 12.08 |
 | Growth expectations | Earnings growth 40.00%, EPS q/q 35.10% | Analyst mean target $76.64 (22 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -120,7 +120,7 @@ TechnipFMC plc engages in the oil and natural gas projects, technologies, system
 | SMA200 dist | -8.53% | Revenue (ttm) | $10.67B |
 | 52W high | $80.08 | Revenue growth y/y | 9.40% |
 | 52W low | $42.59 | Inst. ownership | 103.69% |
-| P/E (ttm) | 20.07 | Insider ownership | 1.95% |
+| P/E (ttm) | 20.85 | Insider ownership | 1.95% |
 | Forward P/E | 16.81 | Short float | 3.55% |
 | PEG (trailing) | — | Avg volume | 2,861,235 |
 | P/S | 2.33 | Employees | 21,975 |

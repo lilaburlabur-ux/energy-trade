@@ -69,7 +69,7 @@ Constellation Energy Corporation produces and sells energy products and services
 | Profitability | Gross 25.24%, operating 17.94%, net 12.76% | ROA 4.95%, ROE 18.34% |
 | Balance sheet | Cash $603.00M, debt $23.39B | Current ratio 1.49, debt/equity 70.79 |
 | Valuation | P/E 22.33, forward P/E 20.68, P/S 2.85, P/B 2.99 | EV/Sales 3.53, EV/EBITDA 12.75 |
-| Growth expectations | Earnings growth 74.50%, EPS q/q 97.30% | Analyst mean target $338.25 (23 analysts) |
+| Growth expectations | Earnings growth 74.50%, EPS q/q 97.30% | Analyst mean target $339.07 (23 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |

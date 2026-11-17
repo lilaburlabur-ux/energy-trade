@@ -18,7 +18,7 @@ Signed file: `DVN.research.17.11.2026`
 | Technical momentum | Low | Below SMA200 (-3.59%) with negative half-year (-9.67%). |
 | Fresh setup quality | Moderate / wait | -15.11% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 16.28%, revenue growth 74.00%. |
-| Value attractiveness | Reasonable | Forward P/E 8.52, EV/Sales 2.77. |
+| Value attractiveness | Reasonable | Forward P/E 8.57, EV/Sales 2.77. |
 | Risk level | Elevated | Beta 0.48, ATR 3.9% of price, short float 2.46%. |
 
 **Bottom line:** Low technical momentum, strong fundamentals, value: reasonable, risk: elevated.
@@ -68,7 +68,7 @@ Devon Energy Corporation, an independent energy company, engages in the explorat
 | Revenue (ttm) | $22.11B | Revenue growth 74.00% y/y |
 | Profitability | Gross 53.48%, operating 24.01%, net 16.28% | ROA 6.50%, ROE 12.55% |
 | Balance sheet | Cash $352.00M, debt $11.20B | Current ratio 0.70, debt/equity 26.66 |
-| Valuation | P/E 10.39, forward P/E 8.52, P/S 2.28, P/B 1.20 | EV/Sales 2.77, EV/EBITDA 6.01 |
+| Valuation | P/E 10.93, forward P/E 8.57, P/S 2.28, P/B 1.20 | EV/Sales 2.77, EV/EBITDA 6.01 |
 | Growth expectations | Earnings growth -19.30%, EPS q/q 46.70% | Analyst mean target $59.74 (27 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -120,8 +120,8 @@ Devon Energy Corporation, an independent energy company, engages in the explorat
 | SMA200 dist | -3.59% | Revenue (ttm) | $22.11B |
 | 52W high | $52.15 | Revenue growth y/y | 74.00% |
 | 52W low | $33.83 | Inst. ownership | 91.08% |
-| P/E (ttm) | 10.39 | Insider ownership | 1.35% |
-| Forward P/E | 8.52 | Short float | 2.46% |
+| P/E (ttm) | 10.93 | Insider ownership | 1.35% |
+| Forward P/E | 8.57 | Short float | 2.46% |
 | PEG (trailing) | — | Avg volume | 11,067,398 |
 | P/S | 2.28 | Employees | 2,200 |
 | P/B | 1.20 | Analyst rec (1=buy..5=sell) | 1.3 |

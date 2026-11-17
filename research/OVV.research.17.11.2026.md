@@ -68,8 +68,8 @@ Ovintiv Inc., together with its subsidiaries, operates as an oil and natural gas
 | Revenue (ttm) | $10.06B | Revenue growth 26.60% y/y |
 | Profitability | Gross 55.81%, operating 31.41%, net 13.13% | ROA 10.13%, ROE 12.10% |
 | Balance sheet | Cash $176.00M, debt $5.07B | Current ratio 0.84, debt/equity 43.69 |
-| Valuation | P/E 12.77, forward P/E 7.26, P/S 1.71, P/B 1.49 | EV/Sales 2.19, EV/EBITDA 4.13 |
-| Growth expectations | Earnings growth 249.10%, EPS q/q 270.90% | Analyst mean target $81.86 (21 analysts) |
+| Valuation | P/E 13.06, forward P/E 7.26, P/S 1.71, P/B 1.49 | EV/Sales 2.19, EV/EBITDA 4.13 |
+| Growth expectations | Earnings growth 249.10%, EPS q/q 270.90% | Analyst mean target $82.33 (21 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
@@ -120,7 +120,7 @@ Ovintiv Inc., together with its subsidiaries, operates as an oil and natural gas
 | SMA200 dist | +9.39% | Revenue (ttm) | $10.06B |
 | 52W high | $72.62 | Revenue growth y/y | 26.60% |
 | 52W low | $36.42 | Inst. ownership | 95.12% |
-| P/E (ttm) | 12.77 | Insider ownership | 0.64% |
+| P/E (ttm) | 13.06 | Insider ownership | 0.64% |
 | Forward P/E | 7.26 | Short float | 4.65% |
 | PEG (trailing) | 1.15 | Avg volume | 3,328,514 |
 | P/S | 1.71 | Employees | 1,465 |

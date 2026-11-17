@@ -18,7 +18,7 @@ Signed file: `COP.research.17.11.2026`
 | Technical momentum | High | 1Y +63.17%; price +15.33% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -8.17% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 16.76%, revenue growth 29.30%. |
-| Value attractiveness | Reasonable | Forward P/E 12.21, EV/Sales 2.60. |
+| Value attractiveness | Reasonable | Forward P/E 12.22, EV/Sales 2.60. |
 | Risk level | Moderate | Beta 0.16, ATR 2.7% of price, short float 1.35%. |
 
 **Bottom line:** High technical momentum, strong fundamentals, value: reasonable, risk: moderate.
@@ -68,7 +68,7 @@ ConocoPhillips explores for, produces, transports, and markets crude oil, bitume
 | Revenue (ttm) | $68.97B | Revenue growth 29.30% y/y |
 | Profitability | Gross 49.01%, operating 25.88%, net 16.76% | ROA 8.98%, ROE 17.66% |
 | Balance sheet | Cash $9.93B, debt $23.26B | Current ratio 1.52, debt/equity 35.25 |
-| Valuation | P/E 14.81, forward P/E 12.21, P/S 2.41, P/B 2.52 | EV/Sales 2.60, EV/EBITDA 6.02 |
+| Valuation | P/E 15.00, forward P/E 12.22, P/S 2.41, P/B 2.52 | EV/Sales 2.60, EV/EBITDA 6.02 |
 | Growth expectations | Earnings growth 141.90%, EPS q/q 131.80% | Analyst mean target $152.96 (27 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -119,8 +119,8 @@ ConocoPhillips explores for, produces, transports, and markets crude oil, bitume
 | SMA200 dist | +15.33% | Revenue (ttm) | $68.97B |
 | 52W high | $153.02 | Revenue growth y/y | 29.30% |
 | 52W low | $84.20 | Inst. ownership | 88.67% |
-| P/E (ttm) | 14.81 | Insider ownership | 0.38% |
-| Forward P/E | 12.21 | Short float | 1.35% |
+| P/E (ttm) | 15.00 | Insider ownership | 0.38% |
+| Forward P/E | 12.22 | Short float | 1.35% |
 | PEG (trailing) | 0.92 | Avg volume | 6,714,231 |
 | P/S | 2.41 | Employees | 9,600 |
 | P/B | 2.52 | Analyst rec (1=buy..5=sell) | 2.1 |

@@ -68,7 +68,7 @@ Eaton Corporation plc operates as a power management company in the United State
 | Revenue (ttm) | $31.98B | Revenue growth 28.00% y/y |
 | Profitability | Gross 35.15%, operating 17.72%, net 12.18% | ROA 7.22%, ROE 19.55% |
 | Balance sheet | Cash $818.00M, debt $20.92B | Current ratio 1.23, debt/equity 99.52 |
-| Valuation | P/E 33.65, forward P/E 20.46, P/S 4.09, P/B 6.24 | EV/Sales 4.72, EV/EBITDA 21.40 |
+| Valuation | P/E 35.28, forward P/E 20.46, P/S 4.09, P/B 6.24 | EV/Sales 4.72, EV/EBITDA 21.40 |
 | Growth expectations | Earnings growth 7.00%, EPS q/q 6.70% | Analyst mean target $468.74 (27 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -122,7 +122,7 @@ Eaton Corporation plc operates as a power management company in the United State
 | SMA200 dist | -14.80% | Revenue (ttm) | $31.98B |
 | 52W high | $458.55 | Revenue growth y/y | 28.00% |
 | 52W low | $312.24 | Inst. ownership | 86.11% |
-| P/E (ttm) | 33.65 | Insider ownership | 0.60% |
+| P/E (ttm) | 35.28 | Insider ownership | 0.60% |
 | Forward P/E | 20.46 | Short float | 1.85% |
 | PEG (trailing) | 1.89 | Avg volume | 2,406,604 |
 | P/S | 4.09 | Employees | 97,303 |

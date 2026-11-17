@@ -68,7 +68,7 @@ NextEra Energy, Inc., through its subsidiaries, generates, stores, transmits, di
 | Revenue (ttm) | $28.82B | Revenue growth 1.60% y/y |
 | Profitability | Gross 60.17%, operating 30.03%, net 40.37% | ROA 2.41%, ROE 14.06% |
 | Balance sheet | Cash $5.58B, debt $113.93B | Current ratio 0.53, debt/equity 153.25 |
-| Valuation | P/E 15.38, forward P/E 19.51, P/S 6.21, P/B 2.91 | EV/Sales 10.41, EV/EBITDA 22.40 |
+| Valuation | P/E 15.35, forward P/E 19.51, P/S 6.21, P/B 2.91 | EV/Sales 10.41, EV/EBITDA 22.40 |
 | Growth expectations | Earnings growth 93.20%, EPS q/q 95.90% | Analyst mean target $94.11 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -119,7 +119,7 @@ NextEra Energy, Inc., through its subsidiaries, generates, stores, transmits, di
 | SMA200 dist | -1.38% | Revenue (ttm) | $28.82B |
 | 52W high | $96.44 | Revenue growth y/y | 1.60% |
 | 52W low | $75.49 | Inst. ownership | 86.82% |
-| P/E (ttm) | 15.38 | Insider ownership | 0.43% |
+| P/E (ttm) | 15.35 | Insider ownership | 0.43% |
 | Forward P/E | 19.51 | Short float | 0.00% |
 | PEG (trailing) | 1.74 | Avg volume | 12,270,332 |
 | P/S | 6.21 | Employees | 17,400 |

@@ -68,7 +68,7 @@ Bloom Energy Corporation designs, manufactures, sells, and installs solid oxide 
 | Revenue (ttm) | $3.83B | Revenue growth 138.10% y/y |
 | Profitability | Gross 31.77%, operating 14.33%, net 13.53% | ROA 7.45%, ROE 39.61% |
 | Balance sheet | Cash $2.49B, debt $2.79B | Current ratio 3.74, debt/equity 141.95 |
-| Valuation | P/E 112.92, forward P/E 33.30, P/S 13.69, P/B 27.11 | EV/Sales 13.77, EV/EBITDA 87.47 |
+| Valuation | P/E 107.44, forward P/E 33.30, P/S 13.69, P/B 27.11 | EV/Sales 13.77, EV/EBITDA 87.47 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $283.85 (26 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -123,7 +123,7 @@ Bloom Energy Corporation designs, manufactures, sells, and installs solid oxide 
 | SMA200 dist | -20.74% | Revenue (ttm) | $3.83B |
 | 52W high | $345.85 | Revenue growth y/y | 138.10% |
 | 52W low | $76.97 | Inst. ownership | 90.61% |
-| P/E (ttm) | 112.92 | Insider ownership | 5.94% |
+| P/E (ttm) | 107.44 | Insider ownership | 5.94% |
 | Forward P/E | 33.30 | Short float | 6.81% |
 | PEG (trailing) | 0.36 | Avg volume | 15,905,745 |
 | P/S | 13.69 | Employees | 2,214 |

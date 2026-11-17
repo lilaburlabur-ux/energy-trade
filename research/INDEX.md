@@ -12,13 +12,13 @@
 | EQNR | $97.13B | +78% | 8.1 | 10% | High | Reasonable | Elevated |
 | SU | $78.24B | +59% | 9.6 | 18% | Moderate | Reasonable | Elevated |
 | EOG | $80.61B | +47% | 9.2 | 28% | Moderate | Reasonable | Moderate |
-| FANG | $49.53B | +26% | 8.1 | 12% | Low | Reasonable | Elevated |
-| DVN | $50.46B | +30% | 8.5 | 16% | Low | Reasonable | Elevated |
+| FANG | $49.53B | +26% | 8.2 | 12% | Low | Reasonable | Elevated |
+| DVN | $50.46B | +30% | 8.6 | 16% | Low | Reasonable | Elevated |
 | OXY | $57.35B | +39% | 10.8 | 33% | Moderate | Reasonable | Elevated |
-| APA | $15.88B | +97% | 8.4 | 23% | High | Reasonable | Elevated |
+| APA | $15.88B | +97% | 8.3 | 23% | High | Reasonable | Elevated |
 | EQT | $32.05B | -14% | 15.4 | 29% | Low | Reasonable | Elevated |
 | AR | $11.58B | +10% | 8.3 | 23% | Moderate | Reasonable | Elevated |
-| PR | $18.71B | +73% | 8.6 | 25% | High | Reasonable | Elevated |
+| PR | $18.71B | +73% | 8.0 | 25% | High | Reasonable | Elevated |
 | OVV | $17.19B | +69% | 7.3 | 13% | High | Reasonable | Elevated |
 | SLB | $73.92B | +41% | 16.3 | 8% | Low | Reasonable | Elevated |
 | HAL | $26.88B | +23% | 11.1 | 9% | Low | Reasonable | Elevated |
@@ -42,7 +42,7 @@
 | CEG | $97.68B | -17% | 20.7 | 13% | Moderate | Fair-to-demanding | Elevated |
 | OKLO | $4.50B | -77% | -20.3 | 0% | Low | Reasonable | High |
 | SMR | $1.75B | -82% | -6.3 | 0% | Low | Reasonable | High |
-| LEU | $2.01B | -62% | 23.3 | 17% | Low | Fair-to-demanding | High |
+| LEU | $2.01B | -62% | 22.0 | 17% | Low | Fair-to-demanding | High |
 | NXE | $5.10B | -8% | -60.5 | 0% | Low | Reasonable | High |
 | UEC | $3.04B | -47% | -82.8 | 0% | Low | Reasonable | High |
 | UUUU | $1.60B | -61% | 12.5 | -100% | Low | Reasonable | High |
@@ -57,7 +57,7 @@
 | BEP | $20.48B | +7% | -15.1 | -4% | Low | Reasonable | Moderate |
 | GEV | $202.10B | +37% | 29.3 | 24% | Low | Fair-to-demanding | High |
 | ETN | $130.88B | -4% | 20.5 | 12% | Low | Fair-to-demanding | High |
-| VRT | $72.65B | +15% | 19.0 | 16% | Low | Reasonable | High |
+| VRT | $72.65B | +15% | 19.1 | 16% | Low | Reasonable | High |
 | PWR | $88.28B | +37% | 27.0 | 5% | Low | Fair-to-demanding | High |
 | FLNC | $835.10M | -74% | -8.1 | -3% | Low | Reasonable | High |
 | BE | $52.41B | +71% | 33.3 | 14% | High | Fair-to-demanding | High |

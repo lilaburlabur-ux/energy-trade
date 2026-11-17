@@ -68,7 +68,7 @@ Occidental Petroleum Corporation, together with its subsidiaries, engages in the
 | Revenue (ttm) | $24.97B | Revenue growth 19.00% y/y |
 | Profitability | Gross 74.49%, operating 29.31%, net 32.95% | ROA 5.61%, ROE 13.18% |
 | Balance sheet | Cash $3.88B, debt $12.62B | Current ratio 1.39, debt/equity 28.80 |
-| Valuation | P/E 12.78, forward P/E 10.77, P/S 2.30, P/B 1.64 | EV/Sales 3.00, EV/EBITDA 5.10 |
+| Valuation | P/E 13.10, forward P/E 10.77, P/S 2.30, P/B 1.64 | EV/Sales 3.00, EV/EBITDA 5.10 |
 | Growth expectations | Earnings growth 149.40%, EPS q/q 117.60% | Analyst mean target $71.04 (27 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -120,7 +120,7 @@ Occidental Petroleum Corporation, together with its subsidiaries, engages in the
 | SMA200 dist | +1.53% | Revenue (ttm) | $24.97B |
 | 52W high | $65.63 | Revenue growth y/y | 19.00% |
 | 52W low | $38.38 | Inst. ownership | 59.06% |
-| P/E (ttm) | 12.78 | Insider ownership | 27.08% |
+| P/E (ttm) | 13.10 | Insider ownership | 27.08% |
 | Forward P/E | 10.77 | Short float | 0.02% |
 | PEG (trailing) | 0.88 | Avg volume | 9,127,926 |
 | P/S | 2.30 | Employees | 10,412 |

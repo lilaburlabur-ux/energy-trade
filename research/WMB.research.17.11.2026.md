@@ -68,7 +68,7 @@ The Williams Companies, Inc., together with its subsidiaries, operates as an ene
 | Revenue (ttm) | $12.68B | Revenue growth 12.30% y/y |
 | Profitability | Gross 63.05%, operating 36.63%, net 24.66% | ROA 4.59%, ROE 18.31% |
 | Balance sheet | Cash $1.76B, debt $33.93B | Current ratio 0.75, debt/equity 157.88 |
-| Valuation | P/E 26.62, forward P/E 26.18, P/S 6.67, P/B 5.39 | EV/Sales 9.66, EV/EBITDA 17.42 |
+| Valuation | P/E 27.15, forward P/E 26.18, P/S 6.67, P/B 5.39 | EV/Sales 9.66, EV/EBITDA 17.42 |
 | Growth expectations | Earnings growth 5.90%, EPS q/q 8.20% | Analyst mean target $85.42 (24 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -121,7 +121,7 @@ The Williams Companies, Inc., together with its subsidiaries, operates as an ene
 | SMA200 dist | -5.99% | Revenue (ttm) | $12.68B |
 | 52W high | $78.25 | Revenue growth y/y | 12.30% |
 | 52W low | $57.01 | Inst. ownership | 89.64% |
-| P/E (ttm) | 26.62 | Insider ownership | 0.72% |
+| P/E (ttm) | 27.15 | Insider ownership | 0.72% |
 | Forward P/E | 26.18 | Short float | 2.68% |
 | PEG (trailing) | 1.86 | Avg volume | 8,134,056 |
 | P/S | 6.67 | Employees | 5,987 |
