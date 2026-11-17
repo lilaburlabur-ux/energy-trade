@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-17T09:03:41+00:00",
-  "as_of_local": "2026-11-17 09:03:41 UTC",
+  "as_of_utc": "2026-11-17T09:08:42+00:00",
+  "as_of_local": "2026-11-17 09:08:42 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "BP"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -225,34 +227,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/eaton-stock-declines-more-7-170100681.html",
           "publisher": "Zacks",
           "published": "2026-11-16T17:01:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "BP",
-      "name": "BP",
-      "price": 44.92,
-      "previous_close": 45.7,
-      "change_pct": -1.71,
-      "market_cap": 115698287930.28014,
-      "headlines": [
-        {
-          "title": "Trading at just 8x P/E with 464% EPS growth: Is Valero a bargain?",
-          "url": "https://finance.yahoo.com/energy/articles/trading-just-8x-p-e-075724462.html",
-          "publisher": "Investing.com",
-          "published": "2026-11-17T07:57:24Z"
-        },
-        {
-          "title": "Shell vs. BP: One Oil Giant Offers a Higher Yield, but the Other Has a Safer Dividend",
-          "url": "https://finance.yahoo.com/energy/articles/shell-vs-bp-one-oil-181731277.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-16T18:17:31Z"
-        },
-        {
-          "title": "Corporate Restructuring and Operational Efficiency Lifted BP p.l.c. (BP) in Q3",
-          "url": "https://finance.yahoo.com/energy/articles/corporate-restructuring-operational-efficiency-lifted-140648266.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-11-16T14:06:48Z"
         }
       ]
     },
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 85.43,
-      "change_pct": -0.34
+      "price": 85.57,
+      "change_pct": -0.17
     },
     {
       "label": "Brent",
-      "price": 92.12,
-      "change_pct": -0.35
+      "price": 92.35,
+      "change_pct": -0.1
     },
     {
       "label": "NatGas",
       "price": 3.11,
-      "change_pct": -0.35
+      "change_pct": -0.54
     }
   ]
 }
