@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-17T23:17:24+00:00",
-  "as_of_local": "2026-11-17 23:17:24 UTC",
+  "as_of_utc": "2026-11-17T23:22:07+00:00",
+  "as_of_local": "2026-11-17 23:22:07 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -909,6 +909,12 @@
       "market_cap": 51284611258.93974,
       "headlines": [
         {
+          "title": "Nvidia, Intel, Salesforce, SpaceX, Anthropic, Sandisk, Home Depot, and More That Explain Today\u2019s Market",
+          "url": "https://www.barrons.com/articles/stock-movers-5503b6f4?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-11-17T21:46:00Z"
+        },
+        {
           "title": "Signal: Buy the Dip on Bloom Energy Stock",
           "url": "https://finance.yahoo.com/markets/options/articles/signal-buy-dip-bloom-energy-190354452.html",
           "publisher": "Schaeffer's Investment Research",
@@ -919,12 +925,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/hedge-fund-lost-67-makes-175058822.html",
           "publisher": "GuruFocus.com",
           "published": "2026-11-17T17:50:58Z"
-        },
-        {
-          "title": "Nvidia, Intel, Salesforce, SpaceX, Anthropic, Sandisk, Home Depot, and More That Explain Today\u2019s Market",
-          "url": "https://www.barrons.com/articles/stock-movers-5503b6f4?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-11-17T16:29:00Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 85.83,
-      "change_pct": 0.13
+      "price": 85.73,
+      "change_pct": 0.01
     },
     {
       "label": "Brent",
-      "price": 93.32,
-      "change_pct": 0.95
+      "price": 93.3,
+      "change_pct": 0.93
     },
     {
       "label": "NatGas",
       "price": 3.2,
-      "change_pct": 2.4
+      "change_pct": 2.43
     }
   ]
 }
