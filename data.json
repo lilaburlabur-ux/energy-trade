@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-18T23:51:45+00:00",
-  "as_of_local": "2026-11-18 23:51:45 UTC",
+  "as_of_utc": "2026-11-18T23:56:32+00:00",
+  "as_of_local": "2026-11-18 23:56:32 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "ET"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -673,34 +675,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/66-old-swapped-qyld-jepq-185931164.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-17T18:59:31Z"
-        }
-      ]
-    },
-    {
-      "symbol": "ET",
-      "name": "Energy Transfer",
-      "price": 19.03,
-      "previous_close": 19.16,
-      "change_pct": -0.68,
-      "market_cap": 65544121502.62029,
-      "headlines": [
-        {
-          "title": "3 Pipeline Dividends Built for a Roth IRA, and Why Pipeline Partnerships May Not Be",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-pipeline-dividends-built-roth-194751819.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-18T19:47:51Z"
-        },
-        {
-          "title": "5 \u201cForever Income\u201d Dividend Stocks Yielding 5% and More for Boomers",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/5-forever-income-dividend-stocks-174556089.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-17T17:45:56Z"
-        },
-        {
-          "title": "4 High-Yield Energy Stocks That Get Paid to Move Oil and Gas",
-          "url": "https://finance.yahoo.com/energy/articles/4-high-yield-energy-stocks-141753664.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-16T14:17:53Z"
         }
       ]
     },
@@ -2115,8 +2089,8 @@
     },
     {
       "label": "WTI",
-      "price": 82.07,
-      "change_pct": -4.58
+      "price": 82.06,
+      "change_pct": -4.59
     },
     {
       "label": "Brent",
