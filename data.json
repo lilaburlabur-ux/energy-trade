@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-18T13:49:21+00:00",
-  "as_of_local": "2026-11-18 13:49:21 UTC",
+  "as_of_utc": "2026-11-18T13:54:43+00:00",
+  "as_of_local": "2026-11-18 13:54:43 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "RUN"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -99,6 +97,12 @@
       "market_cap": 206424283436.03333,
       "headlines": [
         {
+          "title": "Bloom Energy Cratered 37% in 6 Months: Three Wall Street Firms Each Agree That 100% Gains Are Coming",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-cratered-37-6-134533226.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-18T13:45:33Z"
+        },
+        {
           "title": "One AI Power Stock Burned $181 Million in Free Cash Flow Last Quarter. Another Generated $5.4 Billion. 1 Metric Explains Both.",
           "url": "https://finance.yahoo.com/markets/stocks/articles/one-ai-power-stock-burned-122500335.html",
           "publisher": "Motley Fool",
@@ -109,12 +113,6 @@
           "url": "https://finance.yahoo.com/news/ge-vernova-supply-turbines-wpd-111617167.html",
           "publisher": "Power Technology",
           "published": "2026-11-18T11:16:17Z"
-        },
-        {
-          "title": "What State Street Industrial Select SPDR (XLI) Sold: GE Leads on Nov. 16",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/state-street-industrial-select-spdr-110453156.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-18T11:04:53Z"
         }
       ]
     },
@@ -911,6 +909,12 @@
       "market_cap": 51284611258.93974,
       "headlines": [
         {
+          "title": "Bloom Energy Cratered 37% in 6 Months: Three Wall Street Firms Each Agree That 100% Gains Are Coming",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-cratered-37-6-134533226.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-18T13:45:33Z"
+        },
+        {
           "title": "One AI Power Stock Burned $181 Million in Free Cash Flow Last Quarter. Another Generated $5.4 Billion. 1 Metric Explains Both.",
           "url": "https://finance.yahoo.com/markets/stocks/articles/one-ai-power-stock-burned-122500335.html",
           "publisher": "Motley Fool",
@@ -921,12 +925,6 @@
           "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-18-2026/card/nvidia-stock-rises-lifting-ai-picks-and-shovels-qvVvUxNAjZeYhiwFHC46?siteid=yhoof2&yptr=yahoo",
           "publisher": "The Wall Street Journal",
           "published": "2026-11-18T10:00:51Z"
-        },
-        {
-          "title": "BE Stock Rises Overnight After Nvidia Earnings: Insiders Report $1.3M In Share Sales, Retail Sees $200 Ahead",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-rises-overnight-nvidia-earnings-042206405.html",
-          "publisher": "Stocktwits",
-          "published": "2026-11-18T04:22:06Z"
         }
       ]
     },
@@ -1715,6 +1713,34 @@
       ]
     },
     {
+      "symbol": "RUN",
+      "name": "Sunrun",
+      "price": 7.72,
+      "previous_close": 8.35,
+      "change_pct": -7.54,
+      "market_cap": 1867936252.154633,
+      "headlines": [
+        {
+          "title": "Otovo Field Services Drive Profitability \u2013 Quarterly Update Report",
+          "url": "https://finance.yahoo.com/energy/articles/otovo-field-services-drive-profitability-225018400.html",
+          "publisher": "Exec Edge",
+          "published": "2026-11-17T22:50:18Z"
+        },
+        {
+          "title": "Own Tesla? You Own A 95% Bet Beyond Cars",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/own-tesla-own-95-bet-141340605.html",
+          "publisher": "Trefis",
+          "published": "2026-11-17T14:13:40Z"
+        },
+        {
+          "title": "Tesla Stock At $390.22 Already Prices In Most Of 2030",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-390-22-already-112948609.html",
+          "publisher": "Trefis",
+          "published": "2026-11-17T11:29:48Z"
+        }
+      ]
+    },
+    {
       "symbol": "SMR",
       "name": "NuScale Power",
       "price": 4.09,
@@ -2094,13 +2120,13 @@
     },
     {
       "label": "Brent",
-      "price": 89.88,
-      "change_pct": -3.5
+      "price": 89.93,
+      "change_pct": -3.45
     },
     {
       "label": "NatGas",
       "price": 3.27,
-      "change_pct": 1.81
+      "change_pct": 1.96
     }
   ]
 }
