@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-18T23:41:22+00:00",
-  "as_of_local": "2026-11-18 23:41:22 UTC",
+  "as_of_utc": "2026-11-18T23:46:13+00:00",
+  "as_of_local": "2026-11-18 23:46:13 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -41,6 +41,12 @@
       "market_cap": 401724118401.2859,
       "headlines": [
         {
+          "title": "Ken Griffin Dumps SpaceX, Amazon; Buys ARKK and Bets Big on Marvell",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ken-griffin-dumps-spacex-amazon-223005217.html",
+          "publisher": "Benzinga",
+          "published": "2026-11-18T22:30:05Z"
+        },
+        {
           "title": "3 Energy Stocks With Dividends Built to Last the Next 10 Years",
           "url": "https://finance.yahoo.com/energy/articles/3-energy-stocks-dividends-built-215502112.html",
           "publisher": "Motley Fool",
@@ -51,12 +57,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/forget-market-crashes-dow-jones-203236866.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-18T20:32:36Z"
-        },
-        {
-          "title": "What Drove Venture Global's 69% EBITDA Jump?",
-          "url": "https://finance.yahoo.com/energy/articles/drove-venture-globals-69-ebitda-182955627.html",
-          "publisher": "Trefis",
-          "published": "2026-11-18T18:29:55Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 82.13,
-      "change_pct": -4.51
+      "price": 82.11,
+      "change_pct": -4.53
     },
     {
       "label": "Brent",
-      "price": 88.88,
-      "change_pct": -4.57
+      "price": 88.84,
+      "change_pct": -4.62
     },
     {
       "label": "NatGas",
       "price": 3.39,
-      "change_pct": 5.55
+      "change_pct": 5.61
     }
   ]
 }
