@@ -91,8 +91,8 @@ Oklo Inc. develops fission power plants to provide energy at scale to customers 
 | Morgan Stanley | 4,647,598 | 2.38% | 2026-09-30 |
 | State Street Corporation | 2,676,409 | 1.37% | 2026-09-30 |
 | Geode Capital Management, LLC | 2,612,897 | 1.34% | 2026-09-30 |
+| NORGES BANK | 1,758,267 | 0.90% | 2026-06-30 |
 | Goldman Sachs Group Inc | 1,749,064 | 0.90% | 2026-09-30 |
-| UBS Group AG | 1,739,479 | 0.89% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
 - **Volatility risk:** Beta 1.31, ATR 10.1% of price, short float 21.88%. Size positions accordingly.
