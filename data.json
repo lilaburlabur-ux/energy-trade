@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-18T12:28:30+00:00",
-  "as_of_local": "2026-11-18 12:28:30 UTC",
+  "as_of_utc": "2026-11-18T12:33:25+00:00",
+  "as_of_local": "2026-11-18 12:33:25 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "ET"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -97,6 +99,12 @@
       "market_cap": 206424283436.03333,
       "headlines": [
         {
+          "title": "One AI Power Stock Burned $181 Million in Free Cash Flow Last Quarter. Another Generated $5.4 Billion. 1 Metric Explains Both.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/one-ai-power-stock-burned-122500335.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-18T12:25:00Z"
+        },
+        {
           "title": "GE Vernova to supply turbines for wpd\u2019s Haseloff wind farm in Germany",
           "url": "https://finance.yahoo.com/news/ge-vernova-supply-turbines-wpd-111617167.html",
           "publisher": "Power Technology",
@@ -107,12 +115,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/state-street-industrial-select-spdr-110453156.html",
           "publisher": "GuruFocus.com",
           "published": "2026-11-18T11:04:53Z"
-        },
-        {
-          "title": "NuScale Sinks 22% in a Week to a 52-Week Low as Canada\u2019s First SMR Runs Late. Is the Selling Overdone?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nuscale-sinks-22-week-52-024801932.html",
-          "publisher": "TIKR",
-          "published": "2026-11-18T02:48:01Z"
         }
       ]
     },
@@ -677,34 +679,6 @@
       ]
     },
     {
-      "symbol": "ET",
-      "name": "Energy Transfer",
-      "price": 19.16,
-      "previous_close": 19.14,
-      "change_pct": 0.1,
-      "market_cap": 65991871396.528824,
-      "headlines": [
-        {
-          "title": "5 \u201cForever Income\u201d Dividend Stocks Yielding 5% and More for Boomers",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/5-forever-income-dividend-stocks-174556089.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-17T17:45:56Z"
-        },
-        {
-          "title": "4 High-Yield Energy Stocks That Get Paid to Move Oil and Gas",
-          "url": "https://finance.yahoo.com/energy/articles/4-high-yield-energy-stocks-141753664.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-16T14:17:53Z"
-        },
-        {
-          "title": "Energy Transfer vs. Enbridge: Which High-Yield Pipeline Stock Could Make You Richer Over the Next 10 Years?",
-          "url": "https://finance.yahoo.com/energy/articles/energy-transfer-vs-enbridge-high-132001474.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-16T13:20:01Z"
-        }
-      ]
-    },
-    {
       "symbol": "TRGP",
       "name": "Targa Resources",
       "price": 291.35,
@@ -909,6 +883,12 @@
       "market_cap": 51284611258.93974,
       "headlines": [
         {
+          "title": "One AI Power Stock Burned $181 Million in Free Cash Flow Last Quarter. Another Generated $5.4 Billion. 1 Metric Explains Both.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/one-ai-power-stock-burned-122500335.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-18T12:25:00Z"
+        },
+        {
           "title": "Nvidia Stock Rises, Lifting AI Picks and Shovels",
           "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-18-2026/card/nvidia-stock-rises-lifting-ai-picks-and-shovels-qvVvUxNAjZeYhiwFHC46?siteid=yhoof2&yptr=yahoo",
           "publisher": "The Wall Street Journal",
@@ -919,12 +899,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/stock-rises-overnight-nvidia-earnings-042206405.html",
           "publisher": "Stocktwits",
           "published": "2026-11-18T04:22:06Z"
-        },
-        {
-          "title": "Nvidia, Intel, Salesforce, SpaceX, Anthropic, Sandisk, Home Depot, and More That Explain Today\u2019s Market",
-          "url": "https://www.barrons.com/articles/stock-movers-5503b6f4?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-11-17T21:46:00Z"
         }
       ]
     },
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 84.08,
-      "change_pct": -2.24
+      "price": 84.14,
+      "change_pct": -2.17
     },
     {
       "label": "Brent",
-      "price": 90.09,
-      "change_pct": -3.27
+      "price": 90.12,
+      "change_pct": -3.24
     },
     {
       "label": "NatGas",
-      "price": 3.23,
-      "change_pct": 0.72
+      "price": 3.24,
+      "change_pct": 1.09
     }
   ]
 }
