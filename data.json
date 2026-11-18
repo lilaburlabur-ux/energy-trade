@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-18T22:04:57+00:00",
-  "as_of_local": "2026-11-18 22:04:57 UTC",
+  "as_of_utc": "2026-11-18T22:10:31+00:00",
+  "as_of_local": "2026-11-18 22:10:31 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "APA"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -125,6 +127,12 @@
       "market_cap": 191105857427.28412,
       "headlines": [
         {
+          "title": "Better Dividend Stock: TotalEnergies vs. MPLX",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/better-dividend-stock-totalenergies-vs-215316062.html",
+          "publisher": "TIKR",
+          "published": "2026-11-18T21:53:16Z"
+        },
+        {
           "title": "Stay Ahead of Market Uncertainty With LNG, TTE, LW and HAS",
           "url": "https://finance.yahoo.com/markets/stocks/articles/stay-ahead-market-uncertainty-lng-132200005.html",
           "publisher": "Zacks",
@@ -135,12 +143,6 @@
           "url": "https://finance.yahoo.com/news/saipem-wins-181m-drilling-contracts-130819531.html",
           "publisher": "Offshore Technology",
           "published": "2026-11-18T13:08:19Z"
-        },
-        {
-          "title": "EnQuest Exits UK North Sea in $960 Million Deal",
-          "url": "https://finance.yahoo.com/energy/articles/enquest-exits-uk-north-sea-123000256.html",
-          "publisher": "Oilprice.com",
-          "published": "2026-11-18T12:30:00Z"
         }
       ]
     },
@@ -1377,34 +1379,6 @@
       ]
     },
     {
-      "symbol": "APA",
-      "name": "APA Corp",
-      "price": 45.52,
-      "previous_close": 46.88,
-      "change_pct": -2.9,
-      "market_cap": 15283613501.296902,
-      "headlines": [
-        {
-          "title": "5 Oil and Gas Stocks That Crushed Third-Quarter Earnings Estimates",
-          "url": "https://finance.yahoo.com/energy/articles/5-oil-gas-stocks-crushed-010000263.html",
-          "publisher": "Oilprice.com",
-          "published": "2026-11-18T01:00:00Z"
-        },
-        {
-          "title": "SLB Expands Norway Footprint With Var Energi Offshore Drilling Deal",
-          "url": "https://finance.yahoo.com/energy/articles/slb-expands-norway-footprint-var-142200521.html",
-          "publisher": "Zacks",
-          "published": "2026-11-17T14:22:00Z"
-        },
-        {
-          "title": "What Is Devon Getting For All That Spending?",
-          "url": "https://finance.yahoo.com/energy/articles/devon-getting-spending-161308023.html",
-          "publisher": "Trefis",
-          "published": "2026-11-16T16:13:08Z"
-        }
-      ]
-    },
-    {
       "symbol": "NXT",
       "name": "Nextracker",
       "price": 78.41,
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 82.0,
-      "change_pct": -4.66
+      "price": 81.88,
+      "change_pct": -4.8
     },
     {
       "label": "Brent",
-      "price": 88.77,
-      "change_pct": -4.69
+      "price": 88.68,
+      "change_pct": -4.79
     },
     {
       "label": "NatGas",
       "price": 3.38,
-      "change_pct": 5.36
+      "change_pct": 5.21
     }
   ]
 }
