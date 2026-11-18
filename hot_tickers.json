@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-18T06:39:42+00:00",
+  "as_of": "2026-11-18T08:10:11+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -25,38 +25,6 @@
   },
   {
    "rank": 2,
-   "ticker": "ENPH",
-   "company": "Enphase Energy, Inc.",
-   "move_pct": -7.58,
-   "price": 23.06,
-   "volume": 6522700,
-   "volume_vs_avg": "~0.9x",
-   "heat_score": 46,
-   "direction": "down",
-   "why": "Enphase Energy (ENPH) Hits New Record Low. Why Investors Are Losing Confidence",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPU3RBdUdISEg4YXJFSE4tQzJZd2ZENlhGYklVMk5aQ1BSXzNJOWo1NThUSms0YWNxVVlJTHdGX2xfc2d1NV9KSlJRUEhBd0dDREtMZ1ZFVllDOENyeWdDSFNFZHR2NHpaaW5oT1Y5d0Z6U2hoUEZ6U3pBQVdqdVlMeTRhYkxHbmRiaHZrNHRPd1ZRa01QLVlHRHY3TXE?oc=5",
-   "published": "2026-11-18T04:48:00+00:00",
-   "sector": "Renewables & Solar"
-  },
-  {
-   "rank": 3,
-   "ticker": "SEDG",
-   "company": "SolarEdge Technologies, Inc.",
-   "move_pct": -6.7,
-   "price": 21.72,
-   "volume": 3537700,
-   "volume_vs_avg": "~1.2x",
-   "heat_score": 45,
-   "direction": "down",
-   "why": "Solar Stocks Rebound After A Brutal Rout: Is The Worst Over For ENPH, FSLR, CSIQ, SEDG Stocks?",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNGtPWG5qTnZFRjJZRHRFaHhyYjRkYnJFaU0zSDVvQkpEMkpNZzBkRUhZOXh6eDVhWi1JZzJVWjY1SFQ4UTlEM2RYYjdFTUNEMHpRWjA1a1hiNTVwTnNZcVVxUE1FQ1FLaVJEUFBmVFFFVGJ6MzZieWQyZVRqamZPRlpYSi1kVUU5cFExdlJzQVJySG8?oc=5",
-   "published": "2026-11-18T03:38:19+00:00",
-   "sector": "Renewables & Solar"
-  },
-  {
-   "rank": 4,
    "ticker": "FSLR",
    "company": "First Solar, Inc.",
    "move_pct": -5.84,
@@ -65,10 +33,10 @@
    "volume_vs_avg": "~1.2x",
    "heat_score": 41,
    "direction": "down",
-   "why": "Solar Stocks Rebound After A Brutal Rout: Is The Worst Over For ENPH, FSLR, CSIQ, SEDG Stocks?",
+   "why": "First Solar Stock Extends A 7-Day Losing Streak To A 24% Loss",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNGtPWG5qTnZFRjJZRHRFaHhyYjRkYnJFaU0zSDVvQkpEMkpNZzBkRUhZOXh6eDVhWi1JZzJVWjY1SFQ4UTlEM2RYYjdFTUNEMHpRWjA1a1hiNTVwTnNZcVVxUE1FQ1FLaVJEUFBmVFFFVGJ6MzZieWQyZVRqamZPRlpYSi1kVUU5cFExdlJzQVJySG8?oc=5",
-   "published": "2026-11-18T03:38:19+00:00",
+   "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNN3p6cWh2OXpRZmtrOHJ1TUZiUkV4eFRsM25lcGttRC16c2tXQV8zSDhtMHp2eFlLOWhPMVd4THhsc3M3Q1VoVnRCanZpdXVkUkd6aU1VVnZYSldITmN1OVZPOC1haE81NHlLMzNsd0I4bm0zMjFxOEZ4MnZHcEQyZ2VXU3ZHUnVXemVDVDNrY2VFZFB1by14MWNSNlZUVXVaX0tMbl8zME9HVWhHRkpLMHpQM0I4MnJRS3Z5MG1n?oc=5",
+   "published": "2026-11-18T07:02:39+00:00",
    "sector": "Renewables & Solar"
   }
  ]
