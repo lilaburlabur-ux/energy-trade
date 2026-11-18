@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-18T07:20:33+00:00",
-  "as_of_local": "2026-11-18 07:20:33 UTC",
+  "as_of_utc": "2026-11-18T07:35:39+00:00",
+  "as_of_local": "2026-11-18 07:35:39 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "TLN"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -405,6 +407,12 @@
       "market_cap": 98054451319.66774,
       "headlines": [
         {
+          "title": "Equinor (OB:EQNR) Trades At A 5% Premium On Ex Dividend Move",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/equinor-ob-eqnr-trades-5-071058577.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-18T07:10:58Z"
+        },
+        {
           "title": "Equinor (OB:EQNR) Marks First Seabed Monitoring At UK Endurance CO2 Store",
           "url": "https://finance.yahoo.com/energy/articles/equinor-ob-eqnr-marks-first-061538703.html",
           "publisher": "Simply Wall St.",
@@ -415,12 +423,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/equinor-ob-eqnr-stock-could-052044288.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-18T05:20:44Z"
-        },
-        {
-          "title": "Equinor Hit by Cyberattack but Oil and Gas Production Remains Unaffected",
-          "url": "https://finance.yahoo.com/energy/articles/equinor-hit-cyberattack-oil-gas-013638673.html",
-          "publisher": "Oilprice.com",
-          "published": "2026-11-18T01:36:38Z"
         }
       ]
     },
@@ -517,6 +519,12 @@
       "market_cap": 80318393038.58594,
       "headlines": [
         {
+          "title": "EOG Resources (EOG) Stock May Be 50% Undervalued As Record Output Lifts Dividend",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/eog-resources-eog-stock-may-070730112.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-18T07:07:30Z"
+        },
+        {
           "title": "EOG Resources (EOG) Lifts Dividend And Output On An Undervalued View",
           "url": "https://finance.yahoo.com/markets/stocks/articles/eog-resources-eog-lifts-dividend-061638768.html",
           "publisher": "Simply Wall St.",
@@ -527,12 +535,6 @@
           "url": "https://finance.yahoo.com/energy/articles/eog-vs-conocophillips-better-bet-143500446.html",
           "publisher": "Zacks",
           "published": "2026-11-17T14:35:00Z"
-        },
-        {
-          "title": "What Occidental's Debt Cut Means For Its Stock",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/occidentals-debt-cut-means-stock-141342973.html",
-          "publisher": "Trefis",
-          "published": "2026-11-17T14:13:42Z"
         }
       ]
     },
@@ -1377,34 +1379,6 @@
       ]
     },
     {
-      "symbol": "TLN",
-      "name": "Talen Energy",
-      "price": 354.71,
-      "previous_close": 359.74,
-      "change_pct": -1.4,
-      "market_cap": 15431768847.770508,
-      "headlines": [
-        {
-          "title": "Will OKLO's $3.1B Liquidity Cushion Advance Its Nuclear Plans?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/oklos-3-1b-liquidity-cushion-122900957.html",
-          "publisher": "Zacks",
-          "published": "2026-11-17T12:29:00Z"
-        },
-        {
-          "title": "What Is Talen Energy (TLN) Signaling With Its 750 MW Capacity Deal?",
-          "url": "https://finance.yahoo.com/energy/articles/talen-energy-tln-signaling-750-131328293.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-13T13:13:28Z"
-        },
-        {
-          "title": "Can NuScale's TVA Deal Unlock Its First Major Module Order?",
-          "url": "https://finance.yahoo.com/energy/articles/nuscales-tva-deal-unlock-first-152900220.html",
-          "publisher": "Zacks",
-          "published": "2026-11-12T15:29:00Z"
-        }
-      ]
-    },
-    {
       "symbol": "NXT",
       "name": "Nextracker",
       "price": 78.48,
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 83.81,
-      "change_pct": -2.56
+      "price": 83.89,
+      "change_pct": -2.46
     },
     {
       "label": "Brent",
-      "price": 91.5,
-      "change_pct": -1.76
+      "price": 91.54,
+      "change_pct": -1.72
     },
     {
       "label": "NatGas",
-      "price": 3.17,
-      "change_pct": -1.12
+      "price": 3.18,
+      "change_pct": -0.72
     }
   ]
 }
