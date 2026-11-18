@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-18T01:13:08+00:00",
-  "as_of_local": "2026-11-18 01:13:08 UTC",
+  "as_of_utc": "2026-11-18T01:28:16+00:00",
+  "as_of_local": "2026-11-18 01:28:16 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "GEV"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -87,6 +85,34 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/shell-names-cio-141431209.html",
           "publisher": "C-Store Dive",
           "published": "2026-11-17T14:14:31Z"
+        }
+      ]
+    },
+    {
+      "symbol": "GEV",
+      "name": "GE Vernova",
+      "price": 763.57,
+      "previous_close": 803.13,
+      "change_pct": -4.93,
+      "market_cap": 206424290544.06,
+      "headlines": [
+        {
+          "title": "Every Gigawatt of GE Vernova's HA Turbines Is Expected to Generate $500 Million in Services. Here's Why That Outlasts the Boom.",
+          "url": "https://finance.yahoo.com/energy/articles/every-gigawatt-ge-vernovas-turbines-222500409.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-17T22:25:00Z"
+        },
+        {
+          "title": "Latest News In Energy Transition - Statkraft Boosts UK Grid Stability With First Battery System",
+          "url": "https://finance.yahoo.com/energy/articles/latest-news-energy-transition-statkraft-113709666.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-17T11:37:09Z"
+        },
+        {
+          "title": "Quanta Outsold SpaceX Over 12 Months. Why Is SpaceX Worth 21 Times As Much?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/quanta-outsold-spacex-over-12-103858596.html",
+          "publisher": "Trefis",
+          "published": "2026-11-17T10:38:58Z"
         }
       ]
     },
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 85.46,
-      "change_pct": -0.3
+      "price": 85.59,
+      "change_pct": -0.15
     },
     {
       "label": "Brent",
-      "price": 92.92,
-      "change_pct": 0.52
+      "price": 93.1,
+      "change_pct": 0.71
     },
     {
       "label": "NatGas",
       "price": 3.19,
-      "change_pct": 2.21
+      "change_pct": 2.27
     }
   ]
 }
