@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-18T01:28:16+00:00",
-  "as_of_local": "2026-11-18 01:28:16 UTC",
+  "as_of_utc": "2026-11-18T01:43:12+00:00",
+  "as_of_local": "2026-11-18 01:43:12 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -1553,6 +1553,12 @@
       "market_cap": 5913575174.4,
       "headlines": [
         {
+          "title": "Weatherford (WFRD) Stock Trades Below Fair Value After Contract Wins",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/weatherford-wfrd-stock-trades-below-011127693.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-18T01:11:27Z"
+        },
+        {
           "title": "Here\u2019s What Supports Weatherford International\u2019s (WFRD) Multiyear Profit Cycle Growth",
           "url": "https://finance.yahoo.com/markets/stocks/articles/supports-weatherford-international-wfrd-multiyear-162245266.html",
           "publisher": "Insider Monkey",
@@ -1563,12 +1569,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-baker-hughes-stock-falling-141921435.html",
           "publisher": "Trefis",
           "published": "2026-11-06T14:19:21Z"
-        },
-        {
-          "title": "Should Jun\u00edn 5 Support Work Require Action From Weatherford International (WFRD) Investors?",
-          "url": "https://finance.yahoo.com/energy/articles/jun-n-5-support-require-131419197.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-10-30T13:14:19Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 85.59,
-      "change_pct": -0.15
+      "price": 85.48,
+      "change_pct": -0.28
     },
     {
       "label": "Brent",
-      "price": 93.1,
-      "change_pct": 0.71
+      "price": 92.96,
+      "change_pct": 0.56
     },
     {
       "label": "NatGas",
-      "price": 3.19,
-      "change_pct": 2.27
+      "price": 3.18,
+      "change_pct": 1.83
     }
   ]
 }
