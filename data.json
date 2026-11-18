@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-18T11:32:45+00:00",
-  "as_of_local": "2026-11-18 11:32:45 UTC",
+  "as_of_utc": "2026-11-18T11:37:43+00:00",
+  "as_of_local": "2026-11-18 11:37:43 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "OXY"
+    "LNG"
   ],
   "stocks": [
     {
@@ -735,34 +735,6 @@
       ]
     },
     {
-      "symbol": "LNG",
-      "name": "Cheniere Energy",
-      "price": 301.97,
-      "previous_close": 305.2,
-      "change_pct": -1.06,
-      "market_cap": 61663456159.852356,
-      "headlines": [
-        {
-          "title": "What Triggered Venture Global Stock's 5% Drop?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/triggered-venture-global-stocks-5-160953116.html",
-          "publisher": "Trefis",
-          "published": "2026-11-17T16:09:53Z"
-        },
-        {
-          "title": "Canadian Natural to Expand Gas Footprint With Advantage Buyout",
-          "url": "https://finance.yahoo.com/energy/articles/canadian-natural-expand-gas-footprint-153000716.html",
-          "publisher": "Zacks",
-          "published": "2026-11-17T15:30:00Z"
-        },
-        {
-          "title": "Halliburton Targets Egypt Growth With Proposed 50-Well Program",
-          "url": "https://finance.yahoo.com/energy/articles/halliburton-targets-egypt-growth-proposed-151800572.html",
-          "publisher": "Zacks",
-          "published": "2026-11-17T15:18:00Z"
-        }
-      ]
-    },
-    {
       "symbol": "D",
       "name": "Dominion Energy",
       "price": 67.28,
@@ -815,6 +787,34 @@
           "url": "https://finance.yahoo.com/energy/articles/3-oil-gas-pipeline-stocks-133100733.html",
           "publisher": "Zacks",
           "published": "2026-11-16T13:31:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "OXY",
+      "name": "Occidental Petroleum",
+      "price": 56.52,
+      "previous_close": 57.36,
+      "change_pct": -1.46,
+      "market_cap": 56514051445.11549,
+      "headlines": [
+        {
+          "title": "Here Are the Current Berkshire Hathaway Stock Holdings",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaways-stock-holdings-kiplingers-162613318.html",
+          "publisher": "Kiplinger",
+          "published": "2026-11-18T03:13:25Z"
+        },
+        {
+          "title": "5 Oil and Gas Stocks That Crushed Third-Quarter Earnings Estimates",
+          "url": "https://finance.yahoo.com/energy/articles/5-oil-gas-stocks-crushed-010000263.html",
+          "publisher": "Oilprice.com",
+          "published": "2026-11-18T01:00:00Z"
+        },
+        {
+          "title": "What Occidental's Debt Cut Means For Its Stock",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/occidentals-debt-cut-means-stock-141342973.html",
+          "publisher": "Trefis",
+          "published": "2026-11-17T14:13:42Z"
         }
       ]
     },
@@ -2089,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 83.86,
-      "change_pct": -2.5
+      "price": 83.75,
+      "change_pct": -2.63
     },
     {
       "label": "Brent",
-      "price": 89.9,
-      "change_pct": -3.48
+      "price": 89.83,
+      "change_pct": -3.55
     },
     {
       "label": "NatGas",
       "price": 3.18,
-      "change_pct": -0.84
+      "change_pct": -0.97
     }
   ]
 }
