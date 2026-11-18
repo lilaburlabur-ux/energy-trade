@@ -1,11 +1,37 @@
 {
-  "as_of_utc": "2026-11-18T12:38:35+00:00",
-  "as_of_local": "2026-11-18 12:38:35 UTC",
+  "as_of_utc": "2026-11-18T12:43:29+00:00",
+  "as_of_local": "2026-11-18 12:43:29 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "XOM"
-  ],
+  "errors": [],
   "stocks": [
+    {
+      "symbol": "XOM",
+      "name": "ExxonMobil",
+      "price": 167.21,
+      "previous_close": 166.87,
+      "change_pct": 0.2,
+      "market_cap": 682086812248.5977,
+      "headlines": [
+        {
+          "title": "State Street Energy Select SPDR (XLE) Sells $149.9 Million of Exxon on Monday",
+          "url": "https://finance.yahoo.com/energy/articles/state-street-energy-select-spdr-110427688.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-18T11:04:27Z"
+        },
+        {
+          "title": "ExxonMobil (XOM) Sees $70.3 Million in Net ETF Selling on Nov. 16",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/exxonmobil-xom-sees-70-3-110239395.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-18T11:02:39Z"
+        },
+        {
+          "title": "SBM Offshore wins FPSO contracts from ExxonMobil for Longtail project",
+          "url": "https://finance.yahoo.com/news/sbm-offshore-wins-fpso-contracts-085715013.html",
+          "publisher": "Offshore Technology",
+          "published": "2026-11-18T08:57:15Z"
+        }
+      ]
+    },
     {
       "symbol": "CVX",
       "name": "Chevron",
@@ -1701,16 +1727,16 @@
           "published": "2026-11-17T22:50:18Z"
         },
         {
+          "title": "Own Tesla? You Own A 95% Bet Beyond Cars",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/own-tesla-own-95-bet-141340605.html",
+          "publisher": "Trefis",
+          "published": "2026-11-17T14:13:40Z"
+        },
+        {
           "title": "Tesla Stock At $390.22 Already Prices In Most Of 2030",
           "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-390-22-already-112948609.html",
           "publisher": "Trefis",
           "published": "2026-11-17T11:29:48Z"
-        },
-        {
-          "title": "Why Sunrun\u2019s (RUN) Battery Network Matters as Subscriber Additions Fall",
-          "url": "https://finance.yahoo.com/energy/articles/why-sunrun-run-battery-network-152401429.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-11-14T15:24:01Z"
         }
       ]
     },
@@ -1895,8 +1921,8 @@
           "name": "ExxonMobil Holdings Corp",
           "short": "ExxonMobil",
           "weight_pct": 24.29,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": 0.2,
+          "price": 167.21,
           "currency": "USD"
         },
         {
@@ -1994,8 +2020,8 @@
         "name": "ExxonMobil Holdings Corp",
         "short": "ExxonMobil",
         "weight_pct": 24.29,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": 0.2,
+        "price": 167.21,
         "currency": "USD"
       },
       {
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 84.21,
-      "change_pct": -2.09
+      "price": 84.17,
+      "change_pct": -2.14
     },
     {
       "label": "Brent",
-      "price": 90.28,
-      "change_pct": -3.07
+      "price": 90.22,
+      "change_pct": -3.14
     },
     {
       "label": "NatGas",
-      "price": 3.26,
-      "change_pct": 1.5
+      "price": 3.25,
+      "change_pct": 1.22
     }
   ]
 }
