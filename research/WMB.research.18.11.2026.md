@@ -44,7 +44,7 @@ The Williams Companies, Inc., together with its subsidiaries, operates as an ene
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $67.23; 52w high $78.25 (-14.08%); 52w low $57.01 (+17.94%) |
+| Price vs 52-week range | Close $67.23; 52w high $78.25 (-14.08%); 52w low $57.01 (+17.93%) |
 | Trend | -6.53% vs SMA200, -4.85% vs SMA50, -3.63% vs SMA20 |
 | Momentum | RSI(14) 42.7 (neutral) |
 | Volatility | ATR(14) 2.31 (~3.4% of price); beta 0.63 |
