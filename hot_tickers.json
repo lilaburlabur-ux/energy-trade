@@ -1,43 +1,10 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-18T08:59:53+00:00",
+  "as_of": "2026-11-18T09:14:59+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": [
-  {
-   "rank": 1,
-   "ticker": "NXT",
-   "company": "Nextpower Inc.",
-   "move_pct": -12.13,
-   "price": 78.48,
-   "volume": 4040000,
-   "volume_vs_avg": "~1.4x",
-   "heat_score": 74,
-   "direction": "down",
-   "why": "Nextpower (NXT) Just Got Hammered \u2014 These 2 Firms Hold The Reason",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQblF3U1llX1pWb3RLU1Y0YnFneW1ab0FWQ0E5UGNOMXpxY3JfaVp2RGk0T2hqZHBWdEczUDQwVHliMXdFV2ZINjdKeW11ZlF3ZlEtOGx4SVhKU3RIXzAtWVhiYkxRRXZzQnRJb2s1bC1WWjc1N3RCYm9nN0ZkV1NHZE5NbDhhemxaeWRXZG5aYmNIZ1g5TDlPNlRCU28?oc=5",
-   "published": "2026-11-18T06:04:00+00:00",
-   "sector": "Renewables & Solar"
-  },
-  {
-   "rank": 2,
-   "ticker": "FSLR",
-   "company": "First Solar, Inc.",
-   "move_pct": -5.84,
-   "price": 152.97,
-   "volume": 3393900,
-   "volume_vs_avg": "~1.2x",
-   "heat_score": 41,
-   "direction": "down",
-   "why": "First Solar Stock Extends A 7-Day Losing Streak To A 24% Loss",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNN3p6cWh2OXpRZmtrOHJ1TUZiUkV4eFRsM25lcGttRC16c2tXQV8zSDhtMHp2eFlLOWhPMVd4THhsc3M3Q1VoVnRCanZpdXVkUkd6aU1VVnZYSldITmN1OVZPOC1haE81NHlLMzNsd0I4bm0zMjFxOEZ4MnZHcEQyZ2VXU3ZHUnVXemVDVDNrY2VFZFB1by14MWNSNlZUVXVaX0tMbl8zME9HVWhHRkpLMHpQM0I4MnJRS3Z5MG1n?oc=5",
-   "published": "2026-11-18T07:02:39+00:00",
-   "sector": "Renewables & Solar"
-  }
- ]
+ "hot_tickers": []
 }
