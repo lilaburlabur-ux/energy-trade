@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-18T12:13:01+00:00",
-  "as_of_local": "2026-11-18 12:13:01 UTC",
+  "as_of_utc": "2026-11-18T12:18:03+00:00",
+  "as_of_local": "2026-11-18 12:18:03 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "ENPH"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1631,6 +1629,34 @@
       ]
     },
     {
+      "symbol": "ENPH",
+      "name": "Enphase Energy",
+      "price": 23.06,
+      "previous_close": 24.95,
+      "change_pct": -7.58,
+      "market_cap": 3051167156.9565525,
+      "headlines": [
+        {
+          "title": "Enphase Energy (ENPH) Hits New Record Low. Why Investors Are Losing Confidence",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/enphase-energy-enph-hits-record-044822269.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-11-18T04:48:22Z"
+        },
+        {
+          "title": "Solar Stocks Rebound After A Brutal Rout: Is The Worst Over For ENPH, FSLR, CSIQ, SEDG Stocks?",
+          "url": "https://finance.yahoo.com/energy/articles/solar-stocks-rebound-brutal-rout-025353544.html",
+          "publisher": "Stocktwits",
+          "published": "2026-11-18T02:53:53Z"
+        },
+        {
+          "title": "First Solar and Enphase Fall 5% as Solar Selloff Stretches On; SolarEdge Drops 4%",
+          "url": "https://finance.yahoo.com/energy/articles/first-solar-enphase-fall-5-185832430.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-17T18:58:32Z"
+        }
+      ]
+    },
+    {
       "symbol": "UEC",
       "name": "Uranium Energy Corp",
       "price": 6.07,
@@ -2089,8 +2115,8 @@
     },
     {
       "label": "WTI",
-      "price": 83.94,
-      "change_pct": -2.41
+      "price": 83.91,
+      "change_pct": -2.44
     },
     {
       "label": "Brent",
@@ -2099,8 +2125,8 @@
     },
     {
       "label": "NatGas",
-      "price": 3.22,
-      "change_pct": 0.37
+      "price": 3.21,
+      "change_pct": 0.19
     }
   ]
 }
