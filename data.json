@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-18T14:25:02+00:00",
-  "as_of_local": "2026-11-18 14:25:02 UTC",
+  "as_of_utc": "2026-11-18T14:30:02+00:00",
+  "as_of_local": "2026-11-18 14:30:02 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "VLO"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -262,7 +264,7 @@
       "price": 93.6,
       "previous_close": 94.64,
       "change_pct": -1.1,
-      "market_cap": 108974830537.87866,
+      "market_cap": 108974832314.4,
       "headlines": [
         {
           "title": "PG&E Stock's Biggest Risk Is California's Wildfire Rules",
@@ -309,34 +311,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/marathon-petroleum-stock-analyst-estimates-132302438.html",
           "publisher": "Barchart",
           "published": "2026-11-17T13:23:02Z"
-        }
-      ]
-    },
-    {
-      "symbol": "VLO",
-      "name": "Valero Energy",
-      "price": 363.77,
-      "previous_close": 369.73,
-      "change_pct": -1.61,
-      "market_cap": 101449775124.08447,
-      "headlines": [
-        {
-          "title": "5 Oil and Gas Stocks That Crushed Third-Quarter Earnings Estimates",
-          "url": "https://finance.yahoo.com/energy/articles/5-oil-gas-stocks-crushed-010000263.html",
-          "publisher": "Oilprice.com",
-          "published": "2026-11-18T01:00:00Z"
-        },
-        {
-          "title": "Phillips 66 and Valero Are Turning Strong Refining Margins Into Bigger Dividends",
-          "url": "https://finance.yahoo.com/energy/articles/phillips-66-valero-turning-strong-141746540.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-17T14:17:46Z"
-        },
-        {
-          "title": "Is Chevron Stock Overpriced Versus Its Oil Rivals?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/chevron-stock-overpriced-versus-oil-112945595.html",
-          "publisher": "Trefis",
-          "published": "2026-11-17T14:13:41Z"
         }
       ]
     },
@@ -741,6 +715,12 @@
       "market_cap": 61663456159.852356,
       "headlines": [
         {
+          "title": "Stay Ahead of Market Uncertainty With LNG, TTE, LW and HAS",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stay-ahead-market-uncertainty-lng-132200005.html",
+          "publisher": "Zacks",
+          "published": "2026-11-18T13:22:00Z"
+        },
+        {
           "title": "What Triggered Venture Global Stock's 5% Drop?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/triggered-venture-global-stocks-5-160953116.html",
           "publisher": "Trefis",
@@ -751,12 +731,6 @@
           "url": "https://finance.yahoo.com/energy/articles/canadian-natural-expand-gas-footprint-153000716.html",
           "publisher": "Zacks",
           "published": "2026-11-17T15:30:00Z"
-        },
-        {
-          "title": "Halliburton Targets Egypt Growth With Proposed 50-Well Program",
-          "url": "https://finance.yahoo.com/energy/articles/halliburton-targets-egypt-growth-proposed-151800572.html",
-          "publisher": "Zacks",
-          "published": "2026-11-17T15:18:00Z"
         }
       ]
     },
@@ -766,7 +740,7 @@
       "price": 67.28,
       "previous_close": 67.8,
       "change_pct": -0.77,
-      "market_cap": 59177204654.15094,
+      "market_cap": 59177205727.840004,
       "headlines": [
         {
           "title": "Virginia regulators start Dominion-NextEra merger hearing",
@@ -878,7 +852,7 @@
       "price": 107.57,
       "previous_close": 110.22,
       "change_pct": -2.4,
-      "market_cap": 51399863260.148735,
+      "market_cap": 51399863405.96999,
       "headlines": [
         {
           "title": "3 Defensive Dividend Stocks Retail Investors Are Watching For Reliable Income",
@@ -1046,7 +1020,7 @@
       "price": 74.62,
       "previous_close": 76.06,
       "change_pct": -1.89,
-      "market_cap": 37199221785.75349,
+      "market_cap": 37199220416.54,
       "headlines": [
         {
           "title": "Public Service Enterprise Stock: Analyst Estimates & Ratings",
@@ -1966,8 +1940,8 @@
           "name": "Valero Energy Corp",
           "short": "Valero",
           "weight_pct": 4.28,
-          "change_pct": -1.61,
-          "price": 363.77,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -2065,8 +2039,8 @@
         "name": "Valero Energy Corp",
         "short": "Valero",
         "weight_pct": 4.28,
-        "change_pct": -1.61,
-        "price": 363.77,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 84.08,
-      "change_pct": -2.24
+      "price": 83.97,
+      "change_pct": -2.37
     },
     {
       "label": "Brent",
-      "price": 90.1,
-      "change_pct": -3.26
+      "price": 90.02,
+      "change_pct": -3.35
     },
     {
       "label": "NatGas",
-      "price": 3.25,
-      "change_pct": 1.43
+      "price": 3.26,
+      "change_pct": 1.56
     }
   ]
 }
