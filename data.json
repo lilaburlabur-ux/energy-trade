@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-18T13:03:42+00:00",
-  "as_of_local": "2026-11-18 13:03:42 UTC",
+  "as_of_utc": "2026-11-18T13:08:50+00:00",
+  "as_of_local": "2026-11-18 13:08:50 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -937,6 +937,12 @@
       "market_cap": 49531982869.160385,
       "headlines": [
         {
+          "title": "Is Permian Resources Spending Too Much?",
+          "url": "https://finance.yahoo.com/energy/articles/permian-resources-spending-too-much-124807527.html",
+          "publisher": "Trefis",
+          "published": "2026-11-18T12:48:07Z"
+        },
+        {
           "title": "What Is Devon Getting For All That Spending?",
           "url": "https://finance.yahoo.com/energy/articles/devon-getting-spending-161308023.html",
           "publisher": "Trefis",
@@ -947,12 +953,6 @@
           "url": "https://finance.yahoo.com/energy/articles/eogs-janus-plant-expansion-strengthen-151700985.html",
           "publisher": "Zacks",
           "published": "2026-11-16T15:17:00Z"
-        },
-        {
-          "title": "Sell Alert: 5 Stocks Analysts Downgraded on Thursday",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/sell-alert-5-stocks-analysts-030437408.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-11-16T03:04:37Z"
         }
       ]
     },
@@ -965,6 +965,12 @@
       "market_cap": 49432251650.556335,
       "headlines": [
         {
+          "title": "Is Permian Resources Spending Too Much?",
+          "url": "https://finance.yahoo.com/energy/articles/permian-resources-spending-too-much-124807527.html",
+          "publisher": "Trefis",
+          "published": "2026-11-18T12:48:07Z"
+        },
+        {
           "title": "Do Wall Street Analysts Like Diamondback Energy Stock?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-diamondback-energy-155741340.html",
           "publisher": "Barchart",
@@ -975,12 +981,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/occidentals-debt-cut-means-stock-141342973.html",
           "publisher": "Trefis",
           "published": "2026-11-17T14:13:42Z"
-        },
-        {
-          "title": "Diamondback to acquire Double Eagle Midland Basin assets",
-          "url": "https://finance.yahoo.com/news/diamondback-acquire-double-eagle-midland-102354407.html",
-          "publisher": "Offshore Technology",
-          "published": "2026-11-17T10:23:54Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 84.26,
-      "change_pct": -2.03
+      "price": 84.29,
+      "change_pct": -2.0
     },
     {
       "label": "Brent",
-      "price": 90.37,
-      "change_pct": -2.97
+      "price": 90.36,
+      "change_pct": -2.98
     },
     {
       "label": "NatGas",
-      "price": 3.26,
-      "change_pct": 1.59
+      "price": 3.25,
+      "change_pct": 1.25
     }
   ]
 }
