@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-18T00:53:33+00:00",
-  "as_of_local": "2026-11-18 00:53:33 UTC",
+  "as_of_utc": "2026-11-18T00:58:36+00:00",
+  "as_of_local": "2026-11-18 00:58:36 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "FSLR"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1321,34 +1323,6 @@
       ]
     },
     {
-      "symbol": "FSLR",
-      "name": "First Solar",
-      "price": 152.97,
-      "previous_close": 162.45,
-      "change_pct": -5.84,
-      "market_cap": 16441391799.672577,
-      "headlines": [
-        {
-          "title": "First Solar and Enphase Fall 5% as Solar Selloff Stretches On; SolarEdge Drops 4%",
-          "url": "https://finance.yahoo.com/energy/articles/first-solar-enphase-fall-5-185832430.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-17T18:58:32Z"
-        },
-        {
-          "title": "How First Solar (FSLR) Expanded Margins Despite a 23% Revenue Decline",
-          "url": "https://finance.yahoo.com/energy/articles/first-solar-fslr-expanded-margins-152316651.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-11-14T15:23:16Z"
-        },
-        {
-          "title": "First Solar (FSLR) Stock Still Looks Reasonable As Clean Energy Hopes Rise",
-          "url": "https://finance.yahoo.com/energy/articles/first-solar-fslr-stock-still-231155237.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-13T23:11:55Z"
-        }
-      ]
-    },
-    {
       "symbol": "APA",
       "name": "APA Corp",
       "price": 46.88,
@@ -2115,13 +2089,13 @@
     },
     {
       "label": "WTI",
-      "price": 85.57,
-      "change_pct": -0.17
+      "price": 85.48,
+      "change_pct": -0.28
     },
     {
       "label": "Brent",
-      "price": 93.2,
-      "change_pct": 0.82
+      "price": 93.13,
+      "change_pct": 0.75
     },
     {
       "label": "NatGas",
