@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-18T10:47:12+00:00",
-  "as_of_local": "2026-11-18 10:47:12 UTC",
+  "as_of_utc": "2026-11-18T10:52:04+00:00",
+  "as_of_local": "2026-11-18 10:52:04 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "EOG"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -505,34 +507,6 @@
           "url": "https://finance.yahoo.com/energy/articles/zacks-industry-outlook-highlights-kinder-095300150.html",
           "publisher": "Zacks",
           "published": "2026-11-17T09:53:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "EOG",
-      "name": "EOG Resources",
-      "price": 154.91,
-      "previous_close": 155.47,
-      "change_pct": -0.36,
-      "market_cap": 80318393038.58594,
-      "headlines": [
-        {
-          "title": "EOG Resources (EOG) Stock May Be 50% Undervalued As Record Output Lifts Dividend",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/eog-resources-eog-stock-may-070730112.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-18T07:07:30Z"
-        },
-        {
-          "title": "EOG Resources (EOG) Lifts Dividend And Output On An Undervalued View",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/eog-resources-eog-lifts-dividend-061638768.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-18T06:16:38Z"
-        },
-        {
-          "title": "EOG vs. ConocoPhillips: The Better Bet as Oil Prices Stay Elevated",
-          "url": "https://finance.yahoo.com/energy/articles/eog-vs-conocophillips-better-bet-143500446.html",
-          "publisher": "Zacks",
-          "published": "2026-11-17T14:35:00Z"
         }
       ]
     },
@@ -1984,8 +1958,8 @@
           "name": "EOG Resources Inc",
           "short": "EOG Resources",
           "weight_pct": 4.07,
-          "change_pct": -0.36,
-          "price": 154.91,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -2083,8 +2057,8 @@
         "name": "EOG Resources Inc",
         "short": "EOG Resources",
         "weight_pct": 4.07,
-        "change_pct": -0.36,
-        "price": 154.91,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 83.37,
-      "change_pct": -3.07
+      "price": 83.38,
+      "change_pct": -3.06
     },
     {
       "label": "Brent",
-      "price": 89.47,
-      "change_pct": -3.94
+      "price": 89.49,
+      "change_pct": -3.92
     },
     {
       "label": "NatGas",
-      "price": 3.19,
-      "change_pct": -0.41
+      "price": 3.2,
+      "change_pct": -0.31
     }
   ]
 }
