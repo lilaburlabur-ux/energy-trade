@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-18T13:59:39+00:00",
-  "as_of_local": "2026-11-18 13:59:39 UTC",
+  "as_of_utc": "2026-11-18T14:05:08+00:00",
+  "as_of_local": "2026-11-18 14:05:08 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "UUUU"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -155,6 +153,12 @@
       "market_cap": 177054572816.2979,
       "headlines": [
         {
+          "title": "PG&E Stock's Biggest Risk Is California's Wildfire Rules",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/pg-e-stocks-biggest-risk-134519568.html",
+          "publisher": "Trefis",
+          "published": "2026-11-18T13:45:19Z"
+        },
+        {
           "title": "What State Street Utilities Select Sector SPDR (XLU) Sold: NextEra Leads on Monday",
           "url": "https://finance.yahoo.com/markets/stocks/articles/state-street-utilities-select-sector-110556153.html",
           "publisher": "GuruFocus.com",
@@ -165,12 +169,6 @@
           "url": "https://finance.yahoo.com/energy/articles/virginia-regulators-start-dominion-nextera-220800653.html",
           "publisher": "The Virginian-Pilot",
           "published": "2026-11-17T22:08:00Z"
-        },
-        {
-          "title": "NextEra Energy vs. Vistra: Which Utilities Stock Is a Better Buy for 2027?",
-          "url": "https://finance.yahoo.com/energy/articles/nextera-energy-vs-vistra-utilities-205002028.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-17T20:50:02Z"
         }
       ]
     },
@@ -1771,6 +1769,34 @@
       ]
     },
     {
+      "symbol": "UUUU",
+      "name": "Energy Fuels",
+      "price": 5.93,
+      "previous_close": 6.04,
+      "change_pct": -1.82,
+      "market_cap": 1570429626.8792715,
+      "headlines": [
+        {
+          "title": "Can Cameco's Uranium Contracts Drive Sustained Long-Term Growth?",
+          "url": "https://finance.yahoo.com/energy/articles/camecos-uranium-contracts-drive-sustained-122700516.html",
+          "publisher": "Zacks",
+          "published": "2026-11-18T12:27:00Z"
+        },
+        {
+          "title": "How Risky Is USA Rare Earth Stock?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/risky-usa-rare-earth-stock-192847047.html",
+          "publisher": "Trefis",
+          "published": "2026-11-17T19:28:47Z"
+        },
+        {
+          "title": "Will Energy Fuels' Contract Portfolio Support Higher Uranium Sales?",
+          "url": "https://finance.yahoo.com/energy/articles/energy-fuels-contract-portfolio-support-141000113.html",
+          "publisher": "Zacks",
+          "published": "2026-11-17T14:10:00Z"
+        }
+      ]
+    },
+    {
       "symbol": "SEDG",
       "name": "SolarEdge",
       "price": 21.72,
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 83.72,
-      "change_pct": -2.66
+      "price": 83.76,
+      "change_pct": -2.62
     },
     {
       "label": "Brent",
-      "price": 89.78,
-      "change_pct": -3.61
+      "price": 89.84,
+      "change_pct": -3.54
     },
     {
       "label": "NatGas",
-      "price": 3.28,
-      "change_pct": 2.21
+      "price": 3.26,
+      "change_pct": 1.59
     }
   ]
 }
