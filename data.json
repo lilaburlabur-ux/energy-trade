@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-18T13:19:14+00:00",
-  "as_of_local": "2026-11-18 13:19:14 UTC",
+  "as_of_utc": "2026-11-18T13:24:13+00:00",
+  "as_of_local": "2026-11-18 13:24:13 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "FSLR"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -125,6 +127,12 @@
       "market_cap": 198255335368.7897,
       "headlines": [
         {
+          "title": "EnQuest Exits UK North Sea in $960 Million Deal",
+          "url": "https://finance.yahoo.com/energy/articles/enquest-exits-uk-north-sea-123000256.html",
+          "publisher": "Oilprice.com",
+          "published": "2026-11-18T12:30:00Z"
+        },
+        {
           "title": "Zacks.com featured highlights include Terumo, Sterling Infrastructure, Celestica, TotalEnergies and International Seaways",
           "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-com-featured-highlights-terumo-094300386.html",
           "publisher": "Zacks",
@@ -135,12 +143,6 @@
           "url": "https://finance.yahoo.com/energy/articles/equinor-ob-eqnr-marks-first-061538703.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-18T06:15:38Z"
-        },
-        {
-          "title": "Bet on These 5 Low-Leverage Stocks as NVIDIA Crisis Drags Market",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bet-5-low-leverage-stocks-145500952.html",
-          "publisher": "Zacks",
-          "published": "2026-11-17T14:55:00Z"
         }
       ]
     },
@@ -1321,34 +1323,6 @@
       ]
     },
     {
-      "symbol": "FSLR",
-      "name": "First Solar",
-      "price": 152.97,
-      "previous_close": 162.45,
-      "change_pct": -5.84,
-      "market_cap": 16441391799.672577,
-      "headlines": [
-        {
-          "title": "Why Did Nextpower Stock Fall?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-nextpower-stock-fall-120451917.html",
-          "publisher": "Trefis",
-          "published": "2026-11-18T12:04:51Z"
-        },
-        {
-          "title": "Solar Stocks Rebound After A Brutal Rout: Is The Worst Over For ENPH, FSLR, CSIQ, SEDG Stocks?",
-          "url": "https://finance.yahoo.com/energy/articles/solar-stocks-rebound-brutal-rout-025353544.html",
-          "publisher": "Stocktwits",
-          "published": "2026-11-18T02:53:53Z"
-        },
-        {
-          "title": "First Solar and Enphase Fall 5% as Solar Selloff Stretches On; SolarEdge Drops 4%",
-          "url": "https://finance.yahoo.com/energy/articles/first-solar-enphase-fall-5-185832430.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-17T18:58:32Z"
-        }
-      ]
-    },
-    {
       "symbol": "APA",
       "name": "APA Corp",
       "price": 46.88,
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 84.47,
-      "change_pct": -1.79
+      "price": 83.99,
+      "change_pct": -2.35
     },
     {
       "label": "Brent",
-      "price": 90.53,
-      "change_pct": -2.8
+      "price": 90.1,
+      "change_pct": -3.26
     },
     {
       "label": "NatGas",
-      "price": 3.26,
-      "change_pct": 1.59
+      "price": 3.25,
+      "change_pct": 1.43
     }
   ]
 }
