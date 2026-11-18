@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-18T09:51:08+00:00",
-  "as_of_local": "2026-11-18 09:51:08 UTC",
+  "as_of_utc": "2026-11-18T09:56:15+00:00",
+  "as_of_local": "2026-11-18 09:56:15 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "BP"
+    "FSLR"
   ],
   "stocks": [
     {
@@ -227,6 +227,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/eaton-vs-honeywell-international-industrials-212002619.html",
           "publisher": "Motley Fool",
           "published": "2026-11-17T21:20:02Z"
+        }
+      ]
+    },
+    {
+      "symbol": "BP",
+      "name": "BP",
+      "price": 44.85,
+      "previous_close": 44.92,
+      "change_pct": -0.16,
+      "market_cap": 115517993068.81677,
+      "headlines": [
+        {
+          "title": "Equinor (OB:EQNR) Marks First Seabed Monitoring At UK Endurance CO2 Store",
+          "url": "https://finance.yahoo.com/energy/articles/equinor-ob-eqnr-marks-first-061538703.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-18T06:15:38Z"
+        },
+        {
+          "title": "What Does BP (LSE:BP.) Endurance Role Mean For Its Low Carbon Shift?",
+          "url": "https://finance.yahoo.com/energy/articles/does-bp-lse-bp-endurance-043519274.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-18T04:35:19Z"
+        },
+        {
+          "title": "3 Classic Value Stocks for Your Short List",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-classic-value-stocks-short-173600114.html",
+          "publisher": "Zacks",
+          "published": "2026-11-17T17:36:00Z"
         }
       ]
     },
@@ -967,6 +995,12 @@
       "market_cap": 47131503419.3895,
       "headlines": [
         {
+          "title": "A CNH Industrial Director Who Runs Baker Hughes Just Bought $567,000 of Stock",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/cnh-industrial-director-runs-baker-092632780.html",
+          "publisher": "TIKR",
+          "published": "2026-11-18T09:26:32Z"
+        },
+        {
           "title": "Bernstein upgrades Maire on de-risked projects, LNG technology growth potential",
           "url": "https://finance.yahoo.com/energy/articles/bernstein-upgrades-maire-risked-projects-123227523.html",
           "publisher": "Investing.com",
@@ -977,12 +1011,6 @@
           "url": "https://finance.yahoo.com/energy/articles/north-america-adds-rigs-wow-182232089.html",
           "publisher": "Rigzone.com",
           "published": "2026-11-16T18:22:32Z"
-        },
-        {
-          "title": "C3.ai vs. SentinelOne: Which Technology Stock Is a Better Buy for 2027?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/c3-ai-vs-sentinelone-technology-155002743.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-14T15:50:02Z"
         }
       ]
     },
@@ -1291,34 +1319,6 @@
           "url": "https://finance.yahoo.com/energy/articles/petrobras-moves-strengthen-ethanol-logistics-161800677.html",
           "publisher": "Zacks",
           "published": "2026-11-16T16:18:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "FSLR",
-      "name": "First Solar",
-      "price": 152.97,
-      "previous_close": 162.45,
-      "change_pct": -5.84,
-      "market_cap": 16441391799.672577,
-      "headlines": [
-        {
-          "title": "Solar Stocks Rebound After A Brutal Rout: Is The Worst Over For ENPH, FSLR, CSIQ, SEDG Stocks?",
-          "url": "https://finance.yahoo.com/energy/articles/solar-stocks-rebound-brutal-rout-025353544.html",
-          "publisher": "Stocktwits",
-          "published": "2026-11-18T02:53:53Z"
-        },
-        {
-          "title": "First Solar and Enphase Fall 5% as Solar Selloff Stretches On; SolarEdge Drops 4%",
-          "url": "https://finance.yahoo.com/energy/articles/first-solar-enphase-fall-5-185832430.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-17T18:58:32Z"
-        },
-        {
-          "title": "How First Solar (FSLR) Expanded Margins Despite a 23% Revenue Decline",
-          "url": "https://finance.yahoo.com/energy/articles/first-solar-fslr-expanded-margins-152316651.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-11-14T15:23:16Z"
         }
       ]
     },
@@ -2089,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 83.25,
-      "change_pct": -3.21
+      "price": 83.18,
+      "change_pct": -3.29
     },
     {
       "label": "Brent",
-      "price": 89.35,
-      "change_pct": -4.07
+      "price": 89.31,
+      "change_pct": -4.11
     },
     {
       "label": "NatGas",
       "price": 3.18,
-      "change_pct": -0.81
+      "change_pct": -0.75
     }
   ]
 }
