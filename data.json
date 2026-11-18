@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-18T06:45:04+00:00",
-  "as_of_local": "2026-11-18 06:45:04 UTC",
+  "as_of_utc": "2026-11-18T07:00:25+00:00",
+  "as_of_local": "2026-11-18 07:00:25 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "CVX"
+    "PEG"
   ],
   "stocks": [
     {
@@ -31,6 +31,34 @@
           "url": "https://finance.yahoo.com/energy/articles/4-high-yield-energy-stocks-171556867.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-17T17:15:56Z"
+        }
+      ]
+    },
+    {
+      "symbol": "CVX",
+      "name": "Chevron",
+      "price": 216.13,
+      "previous_close": 217.14,
+      "change_pct": -0.47,
+      "market_cap": 421724468682.7859,
+      "headlines": [
+        {
+          "title": "Here Are the Current Berkshire Hathaway Stock Holdings",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaways-stock-holdings-kiplingers-162613318.html",
+          "publisher": "Kiplinger",
+          "published": "2026-11-18T03:13:25Z"
+        },
+        {
+          "title": "Chevron Says AI Has Already Captured Over $100 Million in Value. Here's Where It Might Find an Even Bigger Payoff.",
+          "url": "https://finance.yahoo.com/technology/ai/articles/chevron-says-ai-already-captured-002502768.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-18T00:25:02Z"
+        },
+        {
+          "title": "Chevron (CVX) Nears $5 Billion Gulf Deal And Iraq Oilfield Takeover",
+          "url": "https://finance.yahoo.com/energy/articles/chevron-cvx-nears-5-billion-001620087.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-18T00:16:20Z"
         }
       ]
     },
@@ -1015,34 +1043,6 @@
       ]
     },
     {
-      "symbol": "PEG",
-      "name": "Public Service Enterprise",
-      "price": 74.62,
-      "previous_close": 76.06,
-      "change_pct": -1.89,
-      "market_cap": 37199221785.75349,
-      "headlines": [
-        {
-          "title": "Public Service Enterprise Stock: Analyst Estimates & Ratings",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/public-enterprise-stock-analyst-estimates-130450095.html",
-          "publisher": "Barchart",
-          "published": "2026-11-16T13:04:50Z"
-        },
-        {
-          "title": "Do Edison's Dividends Make Up For A Lagging Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/edisons-dividends-lagging-stock-173740284.html",
-          "publisher": "Trefis",
-          "published": "2026-11-12T17:37:40Z"
-        },
-        {
-          "title": "ETFs Are Net Sellers of Public Service Enterprise (PEG) on Nov. 10",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-public-enterprise-110332473.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-12T11:03:32Z"
-        }
-      ]
-    },
-    {
       "symbol": "EQT",
       "name": "EQT Corp",
       "price": 50.36,
@@ -1904,8 +1904,8 @@
           "name": "Chevron Corp",
           "short": "Chevron",
           "weight_pct": 18.29,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": -0.47,
+          "price": 216.13,
           "currency": "USD"
         },
         {
@@ -2003,8 +2003,8 @@
         "name": "Chevron Corp",
         "short": "Chevron",
         "weight_pct": 18.29,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": -0.47,
+        "price": 216.13,
         "currency": "USD"
       },
       {
@@ -2089,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 84.44,
-      "change_pct": -1.83
+      "price": 84.23,
+      "change_pct": -2.07
     },
     {
       "label": "Brent",
-      "price": 92.18,
-      "change_pct": -1.03
+      "price": 91.96,
+      "change_pct": -1.27
     },
     {
       "label": "NatGas",
       "price": 3.17,
-      "change_pct": -1.12
+      "change_pct": -1.06
     }
   ]
 }
