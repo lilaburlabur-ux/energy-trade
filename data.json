@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-18T10:26:34+00:00",
-  "as_of_local": "2026-11-18 10:26:34 UTC",
+  "as_of_utc": "2026-11-18T10:31:49+00:00",
+  "as_of_local": "2026-11-18 10:31:49 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -405,6 +405,12 @@
       "market_cap": 98054451319.66774,
       "headlines": [
         {
+          "title": "Aker Solutions secures LoI for Statfjord A topside recycling",
+          "url": "https://finance.yahoo.com/news/aker-solutions-secures-loi-statfjord-102538503.html",
+          "publisher": "Offshore Technology",
+          "published": "2026-11-18T10:25:38Z"
+        },
+        {
           "title": "Equinor (OB:EQNR) Trades At A 5% Premium On Ex Dividend Move",
           "url": "https://finance.yahoo.com/markets/stocks/articles/equinor-ob-eqnr-trades-5-071058577.html",
           "publisher": "Simply Wall St.",
@@ -415,12 +421,6 @@
           "url": "https://finance.yahoo.com/energy/articles/equinor-ob-eqnr-marks-first-061538703.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-18T06:15:38Z"
-        },
-        {
-          "title": "Equinor (OB:EQNR) Stock Could Be Cheap Based On Future Cash Flow",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/equinor-ob-eqnr-stock-could-052044288.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-18T05:20:44Z"
         }
       ]
     },
@@ -993,6 +993,12 @@
       "market_cap": 47131503419.3895,
       "headlines": [
         {
+          "title": "Nextchem agrees to buy Chart\u2019s LNG technologies for $220m",
+          "url": "https://finance.yahoo.com/news/nextchem-agrees-buy-chart-lng-102055516.html",
+          "publisher": "Offshore Technology",
+          "published": "2026-11-18T10:20:55Z"
+        },
+        {
           "title": "A CNH Industrial Director Who Runs Baker Hughes Just Bought $567,000 of Stock",
           "url": "https://finance.yahoo.com/markets/stocks/articles/cnh-industrial-director-runs-baker-092632780.html",
           "publisher": "TIKR",
@@ -1003,12 +1009,6 @@
           "url": "https://finance.yahoo.com/energy/articles/bernstein-upgrades-maire-risked-projects-123227523.html",
           "publisher": "Investing.com",
           "published": "2026-11-17T12:32:27Z"
-        },
-        {
-          "title": "North America Adds Rigs WoW, BH Count Shows",
-          "url": "https://finance.yahoo.com/energy/articles/north-america-adds-rigs-wow-182232089.html",
-          "publisher": "Rigzone.com",
-          "published": "2026-11-16T18:22:32Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 83.38,
-      "change_pct": -3.06
+      "price": 83.22,
+      "change_pct": -3.24
     },
     {
       "label": "Brent",
-      "price": 89.48,
-      "change_pct": -3.93
+      "price": 89.31,
+      "change_pct": -4.11
     },
     {
       "label": "NatGas",
-      "price": 3.18,
-      "change_pct": -0.72
+      "price": 3.19,
+      "change_pct": -0.53
     }
   ]
 }
