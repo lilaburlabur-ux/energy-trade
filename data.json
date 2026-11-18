@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-18T11:27:25+00:00",
-  "as_of_local": "2026-11-18 11:27:25 UTC",
+  "as_of_utc": "2026-11-18T11:32:45+00:00",
+  "as_of_local": "2026-11-18 11:32:45 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "FANG"
+    "OXY"
   ],
   "stocks": [
     {
@@ -819,34 +819,6 @@
       ]
     },
     {
-      "symbol": "OXY",
-      "name": "Occidental Petroleum",
-      "price": 56.52,
-      "previous_close": 57.36,
-      "change_pct": -1.46,
-      "market_cap": 56514051445.11549,
-      "headlines": [
-        {
-          "title": "Here Are the Current Berkshire Hathaway Stock Holdings",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaways-stock-holdings-kiplingers-162613318.html",
-          "publisher": "Kiplinger",
-          "published": "2026-11-18T03:13:25Z"
-        },
-        {
-          "title": "5 Oil and Gas Stocks That Crushed Third-Quarter Earnings Estimates",
-          "url": "https://finance.yahoo.com/energy/articles/5-oil-gas-stocks-crushed-010000263.html",
-          "publisher": "Oilprice.com",
-          "published": "2026-11-18T01:00:00Z"
-        },
-        {
-          "title": "What Occidental's Debt Cut Means For Its Stock",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/occidentals-debt-cut-means-stock-141342973.html",
-          "publisher": "Trefis",
-          "published": "2026-11-17T14:13:42Z"
-        }
-      ]
-    },
-    {
       "symbol": "OKE",
       "name": "ONEOK",
       "price": 88.55,
@@ -955,6 +927,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/sell-alert-5-stocks-analysts-030437408.html",
           "publisher": "Insider Monkey",
           "published": "2026-11-16T03:04:37Z"
+        }
+      ]
+    },
+    {
+      "symbol": "FANG",
+      "name": "Diamondback Energy",
+      "price": 177.07,
+      "previous_close": 177.41,
+      "change_pct": -0.19,
+      "market_cap": 49432251650.556335,
+      "headlines": [
+        {
+          "title": "Do Wall Street Analysts Like Diamondback Energy Stock?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-diamondback-energy-155741340.html",
+          "publisher": "Barchart",
+          "published": "2026-11-17T15:57:41Z"
+        },
+        {
+          "title": "What Occidental's Debt Cut Means For Its Stock",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/occidentals-debt-cut-means-stock-141342973.html",
+          "publisher": "Trefis",
+          "published": "2026-11-17T14:13:42Z"
+        },
+        {
+          "title": "Diamondback to acquire Double Eagle Midland Basin assets",
+          "url": "https://finance.yahoo.com/news/diamondback-acquire-double-eagle-midland-102354407.html",
+          "publisher": "Offshore Technology",
+          "published": "2026-11-17T10:23:54Z"
         }
       ]
     },
@@ -2089,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 83.77,
-      "change_pct": -2.6
+      "price": 83.86,
+      "change_pct": -2.5
     },
     {
       "label": "Brent",
-      "price": 89.91,
-      "change_pct": -3.47
+      "price": 89.9,
+      "change_pct": -3.48
     },
     {
       "label": "NatGas",
       "price": 3.18,
-      "change_pct": -0.87
+      "change_pct": -0.84
     }
   ]
 }
