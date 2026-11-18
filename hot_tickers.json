@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-18T20:58:20+00:00",
+  "as_of": "2026-11-18T21:13:34+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -11,16 +11,16 @@
    "rank": 1,
    "ticker": "RUN",
    "company": "Sunrun Inc.",
-   "move_pct": -5.76,
-   "price": 7.28,
-   "volume": 8064635,
-   "volume_vs_avg": "~0.7x",
-   "heat_score": 39,
+   "move_pct": -5.43,
+   "price": 7.3,
+   "volume": 9096007,
+   "volume_vs_avg": "~0.8x",
+   "heat_score": 38,
    "direction": "down",
    "why": "Sunrun Inc. (RUN) Stock Forecasts",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTGFBMVBVVmZFNUM2RGExMjhwU09DeVFBYTdFRmRzM3FXV2NsX3V5a2pMX2w0SU9SRlNYNjNPeE9SSE9GN05pb3BYenF5TS04bENsU3JxbEdwUk85U3NpNHVIQzR1Z1RVTFlTRkhfSXpmS1k5X210MGdSNFpuNFJPYnB3Z2VidFR4STNBclBuaS03QkE?oc=5",
-   "published": "2026-11-18T19:42:58+00:00",
+   "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdU5nMnF4VHNjdTFRVVdvNkNyMnRIQW55akdMWVNqX2lRNnpaX0VxVnAydm5jaUh5OHRELUdCUzYyWm5IVHF1Rkp5NktheVctVHFTUWJQU01BSXJ4dmdqQ18wbDNQTERKc1VuZndaR0VORnZTOGRReFlLTTY0SnFRbk5iX1ByYld0aDFKSjFyMA?oc=5",
+   "published": "2026-11-18T20:54:42+00:00",
    "sector": "Renewables & Solar"
   }
  ]
