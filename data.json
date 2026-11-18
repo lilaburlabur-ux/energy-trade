@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-18T21:29:31+00:00",
-  "as_of_local": "2026-11-18 21:29:31 UTC",
+  "as_of_utc": "2026-11-18T21:34:50+00:00",
+  "as_of_local": "2026-11-18 21:34:50 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "WFRD"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1545,34 +1547,6 @@
       ]
     },
     {
-      "symbol": "WFRD",
-      "name": "Weatherford",
-      "price": 81.6,
-      "previous_close": 81.6,
-      "change_pct": 0.0,
-      "market_cap": 5913575063.819122,
-      "headlines": [
-        {
-          "title": "Weatherford (WFRD) Stock Trades Below Fair Value After Contract Wins",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/weatherford-wfrd-stock-trades-below-011127693.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-18T01:11:27Z"
-        },
-        {
-          "title": "Here\u2019s What Supports Weatherford International\u2019s (WFRD) Multiyear Profit Cycle Growth",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/supports-weatherford-international-wfrd-multiyear-162245266.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-11-12T16:22:45Z"
-        },
-        {
-          "title": "Why Is Baker Hughes Stock Falling?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-baker-hughes-stock-falling-141921435.html",
-          "publisher": "Trefis",
-          "published": "2026-11-06T14:19:21Z"
-        }
-      ]
-    },
-    {
       "symbol": "NXE",
       "name": "NexGen Energy",
       "price": 7.28,
@@ -1771,10 +1745,10 @@
     {
       "symbol": "UUUU",
       "name": "Energy Fuels",
-      "price": 5.65,
+      "price": 5.64,
       "previous_close": 5.93,
-      "change_pct": -4.72,
-      "market_cap": 1496277874.9559603,
+      "change_pct": -4.89,
+      "market_cap": 1493629534.9616556,
       "headlines": [
         {
           "title": "Can Cameco's Uranium Contracts Drive Sustained Long-Term Growth?",
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 82.15,
-      "change_pct": -4.49
+      "price": 82.1,
+      "change_pct": -4.55
     },
     {
       "label": "Brent",
-      "price": 88.97,
-      "change_pct": -4.48
+      "price": 88.91,
+      "change_pct": -4.54
     },
     {
       "label": "NatGas",
-      "price": 3.4,
-      "change_pct": 6.11
+      "price": 3.39,
+      "change_pct": 5.83
     }
   ]
 }
