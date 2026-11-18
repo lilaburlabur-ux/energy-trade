@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-18T04:29:13+00:00",
-  "as_of_local": "2026-11-18 04:29:13 UTC",
+  "as_of_utc": "2026-11-18T04:34:29+00:00",
+  "as_of_local": "2026-11-18 04:34:29 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "ETR"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -873,34 +875,6 @@
       ]
     },
     {
-      "symbol": "ETR",
-      "name": "Entergy",
-      "price": 107.57,
-      "previous_close": 110.22,
-      "change_pct": -2.4,
-      "market_cap": 51399863260.148735,
-      "headlines": [
-        {
-          "title": "3 Defensive Dividend Stocks Retail Investors Are Watching For Reliable Income",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-defensive-dividend-stocks-retail-031358883.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-14T03:13:58Z"
-        },
-        {
-          "title": "Consolidated Edison or Entergy: Only One Gets My Dividend Dollars for the Next 20 Years",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/consolidated-edison-entergy-only-one-174110123.html",
-          "publisher": "TIKR",
-          "published": "2026-11-13T17:41:10Z"
-        },
-        {
-          "title": "ETFs Are Net Sellers of Entergy (ETR) on Nov. 11",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-entergy-etr-110242034.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-13T11:02:42Z"
-        }
-      ]
-    },
-    {
       "symbol": "BE",
       "name": "Bloom Energy",
       "price": 173.46,
@@ -908,6 +882,12 @@
       "change_pct": -2.15,
       "market_cap": 51284611258.93974,
       "headlines": [
+        {
+          "title": "BE Stock Rises Overnight After Nvidia Earnings: Insiders Report $1.3M In Share Sales, Retail Sees $200 Ahead",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-rises-overnight-nvidia-earnings-042206405.html",
+          "publisher": "Stocktwits",
+          "published": "2026-11-18T04:22:06Z"
+        },
         {
           "title": "Nvidia, Intel, Salesforce, SpaceX, Anthropic, Sandisk, Home Depot, and More That Explain Today\u2019s Market",
           "url": "https://www.barrons.com/articles/stock-movers-5503b6f4?siteid=yhoof2&yptr=yahoo",
@@ -919,12 +899,6 @@
           "url": "https://finance.yahoo.com/markets/options/articles/signal-buy-dip-bloom-energy-190354452.html",
           "publisher": "Schaeffer's Investment Research",
           "published": "2026-11-17T19:03:54Z"
-        },
-        {
-          "title": "Hedge Fund That Lost 67% Makes New Bets on 3 Popular AI Stocks",
-          "url": "https://finance.yahoo.com/technology/ai/articles/hedge-fund-lost-67-makes-175058822.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-17T17:50:58Z"
         }
       ]
     },
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 85.0,
-      "change_pct": -0.84
+      "price": 84.98,
+      "change_pct": -0.86
     },
     {
       "label": "Brent",
-      "price": 92.71,
-      "change_pct": 0.29
+      "price": 92.67,
+      "change_pct": 0.25
     },
     {
       "label": "NatGas",
       "price": 3.17,
-      "change_pct": 1.63
+      "change_pct": 1.67
     }
   ]
 }
