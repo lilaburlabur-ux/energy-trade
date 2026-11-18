@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-18T21:24:11+00:00",
-  "as_of_local": "2026-11-18 21:24:11 UTC",
+  "as_of_utc": "2026-11-18T21:24:25+00:00",
+  "as_of_local": "2026-11-18 21:24:25 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "BKR"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -35,10 +37,10 @@
     {
       "symbol": "CVX",
       "name": "Chevron",
-      "price": 205.87,
+      "price": 205.88,
       "previous_close": 216.13,
-      "change_pct": -4.75,
-      "market_cap": 401704586809.2141,
+      "change_pct": -4.74,
+      "market_cap": 401724118401.2859,
       "headlines": [
         {
           "title": "Forget Market Crashes: These Dow Jones Giants Have Recession-Proof Dividends",
@@ -985,34 +987,6 @@
       ]
     },
     {
-      "symbol": "BKR",
-      "name": "Baker Hughes",
-      "price": 47.3,
-      "previous_close": 47.46,
-      "change_pct": -0.34,
-      "market_cap": 46972611015.24126,
-      "headlines": [
-        {
-          "title": "Baker Hughes & TPAO Partner on Next-Generation Geothermal in Turkiye",
-          "url": "https://finance.yahoo.com/energy/articles/baker-hughes-tpao-partner-next-113400937.html",
-          "publisher": "Zacks",
-          "published": "2026-11-18T11:34:00Z"
-        },
-        {
-          "title": "Nextchem agrees to buy Chart\u2019s LNG technologies for $220m",
-          "url": "https://finance.yahoo.com/news/nextchem-agrees-buy-chart-lng-102055516.html",
-          "publisher": "Offshore Technology",
-          "published": "2026-11-18T10:20:55Z"
-        },
-        {
-          "title": "A CNH Industrial Director Who Runs Baker Hughes Just Bought $567,000 of Stock",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/cnh-industrial-director-runs-baker-092632780.html",
-          "publisher": "TIKR",
-          "published": "2026-11-18T09:26:32Z"
-        }
-      ]
-    },
-    {
       "symbol": "VST",
       "name": "Vistra",
       "price": 125.58,
@@ -1733,10 +1707,10 @@
           "published": "2026-11-17T22:50:18Z"
         },
         {
-          "title": "Tesla Stock At $390.22 Already Prices In Most Of 2030",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-390-22-already-112948609.html",
+          "title": "Own Tesla? You Own A 95% Bet Beyond Cars",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/own-tesla-own-95-bet-141340605.html",
           "publisher": "Trefis",
-          "published": "2026-11-17T11:29:48Z"
+          "published": "2026-11-17T14:13:40Z"
         }
       ]
     },
@@ -1930,8 +1904,8 @@
           "name": "Chevron Corp",
           "short": "Chevron",
           "weight_pct": 18.29,
-          "change_pct": -4.75,
-          "price": 205.87,
+          "change_pct": -4.74,
+          "price": 205.88,
           "currency": "USD"
         },
         {
@@ -2029,8 +2003,8 @@
         "name": "Chevron Corp",
         "short": "Chevron",
         "weight_pct": 18.29,
-        "change_pct": -4.75,
-        "price": 205.87,
+        "change_pct": -4.74,
+        "price": 205.88,
         "currency": "USD"
       },
       {
@@ -2115,8 +2089,8 @@
     },
     {
       "label": "WTI",
-      "price": 82.16,
-      "change_pct": -4.48
+      "price": 82.18,
+      "change_pct": -4.45
     },
     {
       "label": "Brent",
