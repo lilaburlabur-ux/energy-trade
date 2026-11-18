@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-18T21:09:18+00:00",
-  "as_of_local": "2026-11-18 21:09:18 UTC",
+  "as_of_utc": "2026-11-18T21:14:08+00:00",
+  "as_of_local": "2026-11-18 21:14:08 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -231,10 +231,10 @@
     {
       "symbol": "BP",
       "name": "BP",
-      "price": 43.24,
+      "price": 43.25,
       "previous_close": 44.85,
-      "change_pct": -3.58,
-      "market_cap": 111384072616.12175,
+      "change_pct": -3.57,
+      "market_cap": 111396953627.75,
       "headlines": [
         {
           "title": "A $6.9 Billion Fund Dumps These 3 Stocks",
@@ -1043,10 +1043,10 @@
     {
       "symbol": "PEG",
       "name": "Public Service Enterprise",
-      "price": 74.47,
+      "price": 74.48,
       "previous_close": 74.62,
-      "change_pct": -0.2,
-      "market_cap": 37124443712.52933,
+      "change_pct": -0.19,
+      "market_cap": 37129429931.64315,
       "headlines": [
         {
           "title": "Public Service Enterprise Stock: Analyst Estimates & Ratings",
@@ -2115,13 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 81.87,
-      "change_pct": -4.81
+      "price": 81.89,
+      "change_pct": -4.79
     },
     {
       "label": "Brent",
-      "price": 88.78,
-      "change_pct": -4.68
+      "price": 88.72,
+      "change_pct": -4.75
+    },
+    {
+      "label": "NatGas",
+      "price": 3.41,
+      "change_pct": 6.27
     }
   ]
 }
