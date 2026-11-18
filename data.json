@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-18T14:09:50+00:00",
-  "as_of_local": "2026-11-18 14:09:50 UTC",
+  "as_of_utc": "2026-11-18T14:14:57+00:00",
+  "as_of_local": "2026-11-18 14:14:57 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "UUUU"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1769,34 +1771,6 @@
       ]
     },
     {
-      "symbol": "UUUU",
-      "name": "Energy Fuels",
-      "price": 5.93,
-      "previous_close": 6.04,
-      "change_pct": -1.82,
-      "market_cap": 1570429626.8792715,
-      "headlines": [
-        {
-          "title": "Can Cameco's Uranium Contracts Drive Sustained Long-Term Growth?",
-          "url": "https://finance.yahoo.com/energy/articles/camecos-uranium-contracts-drive-sustained-122700516.html",
-          "publisher": "Zacks",
-          "published": "2026-11-18T12:27:00Z"
-        },
-        {
-          "title": "How Risky Is USA Rare Earth Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/risky-usa-rare-earth-stock-192847047.html",
-          "publisher": "Trefis",
-          "published": "2026-11-17T19:28:47Z"
-        },
-        {
-          "title": "Will Energy Fuels' Contract Portfolio Support Higher Uranium Sales?",
-          "url": "https://finance.yahoo.com/energy/articles/energy-fuels-contract-portfolio-support-141000113.html",
-          "publisher": "Zacks",
-          "published": "2026-11-17T14:10:00Z"
-        }
-      ]
-    },
-    {
       "symbol": "SEDG",
       "name": "SolarEdge",
       "price": 21.72,
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 83.87,
-      "change_pct": -2.49
+      "price": 83.81,
+      "change_pct": -2.56
     },
     {
       "label": "Brent",
-      "price": 89.92,
-      "change_pct": -3.46
+      "price": 89.91,
+      "change_pct": -3.47
     },
     {
       "label": "NatGas",
       "price": 3.25,
-      "change_pct": 1.43
+      "change_pct": 1.22
     }
   ]
 }
