@@ -4,24 +4,24 @@ Signed file: `NXT.research.18.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-18, ~15-min delayed) |
+| Current price | $78.48 (2026-11-18, ~15-min delayed) |
 | Market cap | $11.97B |
 | Sector / Industry | Technology / Solar |
 | Main theme | Solar — see catalysts below |
-| Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated. |
+| Current stance | Low technical momentum, strong fundamentals, value: reasonable, risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-18.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-26.12%) with negative half-year (-38.26%). |
+| Fresh setup quality | Poor / broken | -49.82% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 15.98%, revenue growth 22.50%. |
 | Value attractiveness | Reasonable | Forward P/E 13.67, EV/Sales 2.83. |
-| Risk level | Elevated | Beta 1.93, ATR nan% of price, short float 9.42%. |
+| Risk level | High | Beta 1.93, ATR 9.1% of price, short float 9.42%. |
 
-**Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated.
+**Bottom line:** Low technical momentum, strong fundamentals, value: reasonable, risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -44,22 +44,22 @@ Nextpower Inc. provides solar and energy technology solutions for utility-scale 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $156.40 (+nan%); 52w low $76.48 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 48.6 (neutral) |
-| Volatility | ATR(14) 6.57 (~nan% of price); beta 1.93 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $78.48; 52w high $156.40 (-49.82%); 52w low $76.48 (+2.62%) |
+| Trend | -26.12% vs SMA200, -7.92% vs SMA50, -12.58% vs SMA20 |
+| Momentum | RSI(14) 39.8 (neutral) |
+| Volatility | ATR(14) 7.12 (~9.1% of price); beta 1.93 |
+| Setup perspective | -49.82% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -21.4% |
+| Month | -1.5% |
+| Quarter | -14.8% |
+| Half Y | -38.3% |
+| 1Y | -16.3% |
+| YTD | -15.4% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -95,8 +95,9 @@ Nextpower Inc. provides solar and energy technology solutions for utility-scale 
 | Wellington Management Group, LLP | 3,790,541 | 2.52% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.93, ATR nan% of price, short float 9.42%. Size positions accordingly.
+- **Volatility risk:** Beta 1.93, ATR 9.1% of price, short float 9.42%. Size positions accordingly.
 - **Short interest risk:** short float 9.42% can fuel squeezes both ways around news.
+- **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -111,14 +112,14 @@ Nextpower Inc. provides solar and energy technology solutions for utility-scale 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 2.83 |
+| Price | $78.48 | EV/Sales | 2.83 |
 | Market cap | $11.97B | EV/EBITDA | 14.33 |
 | Beta | 1.93 | Gross margin | 21.84% |
-| RSI(14) | 48.6 | Operating margin | 18.63% |
-| ATR(14) | 6.57 | Profit margin | 15.98% |
-| SMA20 dist | +nan% | ROA | 10.75% |
-| SMA50 dist | +nan% | ROE | 26.46% |
-| SMA200 dist | +nan% | Revenue (ttm) | $3.83B |
+| RSI(14) | 39.8 | Operating margin | 18.63% |
+| ATR(14) | 7.12 | Profit margin | 15.98% |
+| SMA20 dist | -12.58% | ROA | 10.75% |
+| SMA50 dist | -7.92% | ROE | 26.46% |
+| SMA200 dist | -26.12% | Revenue (ttm) | $3.83B |
 | 52W high | $156.40 | Revenue growth y/y | 22.50% |
 | 52W low | $76.48 | Inst. ownership | 107.92% |
 | P/E (ttm) | 19.77 | Insider ownership | 0.69% |
@@ -140,7 +141,7 @@ Nextpower Inc. provides solar and energy technology solutions for utility-scale 
 | 2026-10-29 | main | JP Morgan | Overweight → Overweight |
 
 ## 9. Conclusion
-NXT: Moderate momentum / strong fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+NXT: Low momentum / strong fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

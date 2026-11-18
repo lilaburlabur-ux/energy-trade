@@ -4,7 +4,7 @@ Signed file: `TTE.research.18.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-18, ~15-min delayed) |
+| Current price | $90.40 (2026-11-18, ~15-min delayed) |
 | Market cap | $198.26B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
@@ -15,11 +15,11 @@ Signed file: `TTE.research.18.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +43.52%; price +5.69% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -5.17% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 10.46%, revenue growth 41.10%. |
 | Value attractiveness | Reasonable | Forward P/E 7.44, EV/Sales 1.07. |
-| Risk level | Moderate | Beta 0.04, ATR nan% of price, short float 0.19%. |
+| Risk level | Moderate | Beta 0.04, ATR 1.8% of price, short float 0.19%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
@@ -44,22 +44,22 @@ TotalEnergies SE, an integrated energy company, produces and markets oil and bio
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $95.33 (+nan%); 52w low $61.13 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 50.2 (neutral) |
-| Volatility | ATR(14) 1.72 (~nan% of price); beta 0.04 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $90.40; 52w high $95.33 (-5.17%); 52w low $61.13 (+47.89%) |
+| Trend | +5.69% vs SMA200, +1.02% vs SMA50, -0.63% vs SMA20 |
+| Momentum | RSI(14) 51.9 (neutral) |
+| Volatility | ATR(14) 1.65 (~1.8% of price); beta 0.04 |
+| Setup perspective | -5.17% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | +2.9% |
+| Month | +0.5% |
+| Quarter | +1.5% |
+| Half Y | -1.5% |
+| 1Y | +43.5% |
+| YTD | +39.0% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -95,6 +95,7 @@ TotalEnergies SE, an integrated energy company, produces and markets oil and bio
 | LBP AM SA | 30,368,297 | 1.22% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
+- **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -109,14 +110,14 @@ TotalEnergies SE, an integrated energy company, produces and markets oil and bio
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 1.07 |
+| Price | $90.40 | EV/Sales | 1.07 |
 | Market cap | $198.26B | EV/EBITDA | 4.71 |
 | Beta | 0.04 | Gross margin | 39.18% |
-| RSI(14) | 50.2 | Operating margin | 17.00% |
-| ATR(14) | 1.72 | Profit margin | 10.46% |
-| SMA20 dist | +nan% | ROA | 7.19% |
-| SMA50 dist | +nan% | ROE | 17.83% |
-| SMA200 dist | +nan% | Revenue (ttm) | $214.40B |
+| RSI(14) | 51.9 | Operating margin | 17.00% |
+| ATR(14) | 1.65 | Profit margin | 10.46% |
+| SMA20 dist | -0.63% | ROA | 7.19% |
+| SMA50 dist | +1.02% | ROE | 17.83% |
+| SMA200 dist | +5.69% | Revenue (ttm) | $214.40B |
 | 52W high | $95.33 | Revenue growth y/y | 41.10% |
 | 52W low | $61.13 | Inst. ownership | 57.18% |
 | P/E (ttm) | 9.02 | Insider ownership | 8.85% |

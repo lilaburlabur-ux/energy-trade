@@ -4,24 +4,24 @@ Signed file: `UUUU.research.18.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-18, ~15-min delayed) |
+| Current price | $5.93 (2026-11-18, ~15-min delayed) |
 | Market cap | $1.57B |
 | Sector / Industry | Energy / Uranium |
 | Main theme | Uranium — see catalysts below |
-| Current stance | Moderate technical momentum, weak fundamentals, value: reasonable, risk: high. |
+| Current stance | Low technical momentum, weak fundamentals, value: reasonable, risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-18.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-61.38%) with negative half-year (-63.35%). |
+| Fresh setup quality | Poor / broken | -78.61% from 52w high — base needs to rebuild. |
 | Fundamental quality | Weak | Negative profit margin (-99.99%). |
 | Value attractiveness | Reasonable | Forward P/E 12.23, EV/Sales 11.96. |
-| Risk level | High | Beta 1.93, ATR nan% of price, short float 22.03%. |
+| Risk level | High | Beta 1.93, ATR 9.4% of price, short float 22.03%. |
 
-**Bottom line:** Moderate technical momentum, weak fundamentals, value: reasonable, risk: high.
+**Bottom line:** Low technical momentum, weak fundamentals, value: reasonable, risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -44,22 +44,22 @@ Energy Fuels Inc., together with its subsidiaries, engages in the exploration, r
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $27.72 (+nan%); 52w low $6.04 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 27.3 (oversold) |
-| Volatility | ATR(14) 0.57 (~nan% of price); beta 1.93 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $5.93; 52w high $27.72 (-78.61%); 52w low $5.93 (+0.00%) |
+| Trend | -61.38% vs SMA200, -37.14% vs SMA50, -18.10% vs SMA20 |
+| Momentum | RSI(14) 26.6 (oversold) |
+| Volatility | ATR(14) 0.56 (~9.4% of price); beta 1.93 |
+| Setup perspective | -78.61% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -12.0% |
+| Month | -27.3% |
+| Quarter | -60.1% |
+| Half Y | -63.3% |
+| 1Y | -61.9% |
+| YTD | -64.4% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -95,9 +95,10 @@ Energy Fuels Inc., together with its subsidiaries, engages in the exploration, r
 | American Century Companies Inc | 4,316,389 | 1.63% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.93, ATR nan% of price, short float 22.03%. Size positions accordingly.
+- **Volatility risk:** Beta 1.93, ATR 9.4% of price, short float 22.03%. Size positions accordingly.
 - **Short interest risk:** short float 22.03% can fuel squeezes both ways around news.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
+- **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -112,16 +113,16 @@ Energy Fuels Inc., together with its subsidiaries, engages in the exploration, r
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 11.96 |
+| Price | $5.93 | EV/Sales | 11.96 |
 | Market cap | $1.57B | EV/EBITDA | -23.15 |
 | Beta | 1.93 | Gross margin | 47.90% |
-| RSI(14) | 27.3 | Operating margin | -62.09% |
-| ATR(14) | 0.57 | Profit margin | -99.99% |
-| SMA20 dist | +nan% | ROA | -3.66% |
-| SMA50 dist | +nan% | ROE | -14.08% |
-| SMA200 dist | +nan% | Revenue (ttm) | $117.23M |
+| RSI(14) | 26.6 | Operating margin | -62.09% |
+| ATR(14) | 0.56 | Profit margin | -99.99% |
+| SMA20 dist | -18.10% | ROA | -3.66% |
+| SMA50 dist | -37.14% | ROE | -14.08% |
+| SMA200 dist | -61.38% | Revenue (ttm) | $117.23M |
 | 52W high | $27.72 | Revenue growth y/y | 64.80% |
-| 52W low | $6.04 | Inst. ownership | 74.70% |
+| 52W low | $5.93 | Inst. ownership | 74.70% |
 | P/E (ttm) | — | Insider ownership | 1.16% |
 | Forward P/E | 12.23 | Short float | 22.03% |
 | PEG (trailing) | — | Avg volume | 8,147,315 |
@@ -141,7 +142,7 @@ Energy Fuels Inc., together with its subsidiaries, engages in the exploration, r
 | 2026-05-08 | main | HC Wainwright & Co. | Buy → Buy |
 
 ## 9. Conclusion
-UUUU: Moderate momentum / weak fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+UUUU: Low momentum / weak fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

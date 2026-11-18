@@ -4,24 +4,24 @@ Signed file: `ETN.research.18.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-18, ~15-min delayed) |
+| Current price | $337.11 (2026-11-18, ~15-min delayed) |
 | Market cap | $130.97B |
 | Sector / Industry | Industrials / Specialty Industrial Machinery |
 | Main theme | Specialty Industrial Machinery — see catalysts below |
-| Current stance | Moderate technical momentum, mixed fundamentals, value: fair-to-demanding, risk: moderate. |
+| Current stance | Low technical momentum, mixed fundamentals, value: fair-to-demanding, risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-18.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-14.73%) with negative half-year (-8.85%). |
+| Fresh setup quality | Poor / broken | -26.48% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 12.18%, revenue growth 28.00%. |
 | Value attractiveness | Fair-to-demanding | Forward P/E 20.47, EV/Sales 4.72. |
-| Risk level | Moderate | Beta 1.14, ATR nan% of price, short float 1.85%. |
+| Risk level | High | Beta 1.14, ATR 5.4% of price, short float 1.85%. |
 
-**Bottom line:** Moderate technical momentum, mixed fundamentals, value: fair-to-demanding, risk: moderate.
+**Bottom line:** Low technical momentum, mixed fundamentals, value: fair-to-demanding, risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -44,22 +44,22 @@ Eaton Corporation plc operates as a power management company in the United State
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $458.55 (+nan%); 52w low $312.24 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 37.7 (neutral) |
-| Volatility | ATR(14) 18.37 (~nan% of price); beta 1.14 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $337.11; 52w high $458.55 (-26.48%); 52w low $312.24 (+7.96%) |
+| Trend | -14.73% vs SMA200, -15.10% vs SMA50, -7.20% vs SMA20 |
+| Momentum | RSI(14) 37.8 (neutral) |
+| Volatility | ATR(14) 18.05 (~5.4% of price); beta 1.14 |
+| Setup perspective | -26.48% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -4.8% |
+| Month | -13.6% |
+| Quarter | -20.4% |
+| Half Y | -8.8% |
+| 1Y | -3.2% |
+| YTD | +4.2% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -96,6 +96,8 @@ Eaton Corporation plc operates as a power management company in the United State
 
 ## 6. Risk Review and Setup Plan
 - **Valuation risk:** Forward P/E 20.47, EV/Sales 4.72. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 1.14, ATR 5.4% of price, short float 1.85%. Size positions accordingly.
+- **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -110,14 +112,14 @@ Eaton Corporation plc operates as a power management company in the United State
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 4.72 |
+| Price | $337.11 | EV/Sales | 4.72 |
 | Market cap | $130.97B | EV/EBITDA | 21.41 |
 | Beta | 1.14 | Gross margin | 35.15% |
-| RSI(14) | 37.7 | Operating margin | 17.72% |
-| ATR(14) | 18.37 | Profit margin | 12.18% |
-| SMA20 dist | +nan% | ROA | 7.22% |
-| SMA50 dist | +nan% | ROE | 19.55% |
-| SMA200 dist | +nan% | Revenue (ttm) | $31.98B |
+| RSI(14) | 37.8 | Operating margin | 17.72% |
+| ATR(14) | 18.05 | Profit margin | 12.18% |
+| SMA20 dist | -7.20% | ROA | 7.22% |
+| SMA50 dist | -15.10% | ROE | 19.55% |
+| SMA200 dist | -14.73% | Revenue (ttm) | $31.98B |
 | 52W high | $458.55 | Revenue growth y/y | 28.00% |
 | 52W low | $312.24 | Inst. ownership | 87.93% |
 | P/E (ttm) | 33.68 | Insider ownership | 0.14% |
@@ -139,7 +141,7 @@ Eaton Corporation plc operates as a power management company in the United State
 | 2026-08-28 | main | Morgan Stanley | Overweight → Overweight |
 
 ## 9. Conclusion
-ETN: Moderate momentum / mixed fundamentals / fair-to-demanding value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+ETN: Low momentum / mixed fundamentals / fair-to-demanding value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |
