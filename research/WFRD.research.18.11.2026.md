@@ -4,7 +4,7 @@ Signed file: `WFRD.research.18.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $81.61 (2026-11-18, ~15-min delayed) |
+| Current price | $81.60 (2026-11-18, ~15-min delayed) |
 | Market cap | $5.91B |
 | Sector / Industry | Energy / Oil & Gas Equipment & Services |
 | Main theme | Oil & Gas Equipment & Services — see catalysts below |
@@ -15,8 +15,8 @@ Signed file: `WFRD.research.18.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-11.47%) with negative half-year (-26.25%). |
-| Fresh setup quality | Poor / broken | -26.28% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-11.48%) with negative half-year (-26.26%). |
+| Fresh setup quality | Poor / broken | -26.29% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 8.64%, revenue growth -7.20%. |
 | Value attractiveness | Reasonable | Forward P/E 12.19, EV/Sales 1.37. |
 | Risk level | Elevated | Beta 0.83, ATR 4.3% of price, short float 6.42%. |
@@ -44,11 +44,11 @@ Weatherford International Corp provides equipment and services for the drilling,
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $81.61; 52w high $110.70 (-26.28%); 52w low $69.15 (+18.01%) |
-| Trend | -11.47% vs SMA200, -1.46% vs SMA50, -4.99% vs SMA20 |
+| Price vs 52-week range | Close $81.60; 52w high $110.70 (-26.29%); 52w low $69.15 (+18.00%) |
+| Trend | -11.48% vs SMA200, -1.47% vs SMA50, -5.00% vs SMA20 |
 | Momentum | RSI(14) 44.2 (neutral) |
 | Volatility | ATR(14) 3.48 (~4.3% of price); beta 0.83 |
-| Setup perspective | -26.28% from 52w high — base needs to rebuild. |
+| Setup perspective | -26.29% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
@@ -58,7 +58,7 @@ Weatherford International Corp provides equipment and services for the drilling,
 | Month | +3.2% |
 | Quarter | -10.3% |
 | Half Y | -26.3% |
-| 1Y | +16.4% |
+| 1Y | +16.3% |
 | YTD | +2.1% |
 
 ## 4. Fundamental Analysis
@@ -112,14 +112,14 @@ Weatherford International Corp provides equipment and services for the drilling,
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $81.61 | EV/Sales | 1.37 |
+| Price | $81.60 | EV/Sales | 1.37 |
 | Market cap | $5.91B | EV/EBITDA | 7.11 |
 | Beta | 0.83 | Gross margin | 30.80% |
 | RSI(14) | 44.2 | Operating margin | 13.16% |
 | ATR(14) | 3.48 | Profit margin | 8.64% |
-| SMA20 dist | -4.99% | ROA | 7.27% |
-| SMA50 dist | -1.46% | ROE | 23.32% |
-| SMA200 dist | -11.47% | Revenue (ttm) | $4.69B |
+| SMA20 dist | -5.00% | ROA | 7.27% |
+| SMA50 dist | -1.47% | ROE | 23.32% |
+| SMA200 dist | -11.48% | Revenue (ttm) | $4.69B |
 | 52W high | $110.70 | Revenue growth y/y | -7.20% |
 | 52W low | $69.15 | Inst. ownership | 104.73% |
 | P/E (ttm) | 14.55 | Insider ownership | 2.13% |

@@ -4,8 +4,8 @@ Signed file: `ETN.research.18.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $338.55 (2026-11-18, ~15-min delayed) |
-| Market cap | $131.52B |
+| Current price | $338.34 (2026-11-18, ~15-min delayed) |
+| Market cap | $131.45B |
 | Sector / Industry | Industrials / Specialty Industrial Machinery |
 | Main theme | Specialty Industrial Machinery — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: fair-to-demanding, risk: high. |
@@ -15,10 +15,10 @@ Signed file: `ETN.research.18.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-14.34%) with negative half-year (-10.34%). |
-| Fresh setup quality | Poor / broken | -26.17% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-14.39%) with negative half-year (-10.40%). |
+| Fresh setup quality | Poor / broken | -26.22% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 12.18%, revenue growth 28.00%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 20.56, EV/Sales 4.72. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 20.54, EV/Sales 4.72. |
 | Risk level | High | Beta 1.14, ATR 5.2% of price, short float 1.85%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: fair-to-demanding, risk: high.
@@ -44,21 +44,21 @@ Eaton Corporation plc operates as a power management company in the United State
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $338.55; 52w high $458.55 (-26.17%); 52w low $312.24 (+8.42%) |
-| Trend | -14.34% vs SMA200, -14.41% vs SMA50, -6.11% vs SMA20 |
-| Momentum | RSI(14) 38.5 (neutral) |
+| Price vs 52-week range | Close $338.34; 52w high $458.55 (-26.22%); 52w low $312.24 (+8.36%) |
+| Trend | -14.39% vs SMA200, -14.46% vs SMA50, -6.16% vs SMA20 |
+| Momentum | RSI(14) 38.4 (neutral) |
 | Volatility | ATR(14) 17.47 (~5.2% of price); beta 1.14 |
-| Setup perspective | -26.17% from 52w high — base needs to rebuild. |
+| Setup perspective | -26.22% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -6.1% |
-| Month | -11.1% |
-| Quarter | -18.2% |
-| Half Y | -10.3% |
-| 1Y | -0.1% |
+| Week | -6.2% |
+| Month | -11.2% |
+| Quarter | -18.3% |
+| Half Y | -10.4% |
+| 1Y | -0.2% |
 | YTD | +4.6% |
 
 ## 4. Fundamental Analysis
@@ -68,7 +68,7 @@ Eaton Corporation plc operates as a power management company in the United State
 | Revenue (ttm) | $31.98B | Revenue growth 28.00% y/y |
 | Profitability | Gross 35.15%, operating 17.72%, net 12.18% | ROA 7.22%, ROE 19.55% |
 | Balance sheet | Cash $818.00M, debt $20.92B | Current ratio 1.23, debt/equity 99.52 |
-| Valuation | P/E 33.82, forward P/E 20.56, P/S 4.11, P/B 6.27 | EV/Sales 4.72, EV/EBITDA 21.41 |
+| Valuation | P/E 33.80, forward P/E 20.54, P/S 4.11, P/B 6.27 | EV/Sales 4.72, EV/EBITDA 21.41 |
 | Growth expectations | Earnings growth 7.00%, EPS q/q 6.70% | Analyst mean target $469.00 (27 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ Eaton Corporation plc operates as a power management company in the United State
 | UBS AM, a distinct business unit of UBS ASSET MANAGEMENT AMERICAS LLC | 6,433,633 | 1.66% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 20.56, EV/Sales 4.72. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 20.54, EV/Sales 4.72. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 1.14, ATR 5.2% of price, short float 1.85%. Size positions accordingly.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
@@ -112,18 +112,18 @@ Eaton Corporation plc operates as a power management company in the United State
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $338.55 | EV/Sales | 4.72 |
-| Market cap | $131.52B | EV/EBITDA | 21.41 |
+| Price | $338.34 | EV/Sales | 4.72 |
+| Market cap | $131.45B | EV/EBITDA | 21.41 |
 | Beta | 1.14 | Gross margin | 35.15% |
-| RSI(14) | 38.5 | Operating margin | 17.72% |
+| RSI(14) | 38.4 | Operating margin | 17.72% |
 | ATR(14) | 17.47 | Profit margin | 12.18% |
-| SMA20 dist | -6.11% | ROA | 7.22% |
-| SMA50 dist | -14.41% | ROE | 19.55% |
-| SMA200 dist | -14.34% | Revenue (ttm) | $31.98B |
+| SMA20 dist | -6.16% | ROA | 7.22% |
+| SMA50 dist | -14.46% | ROE | 19.55% |
+| SMA200 dist | -14.39% | Revenue (ttm) | $31.98B |
 | 52W high | $458.55 | Revenue growth y/y | 28.00% |
 | 52W low | $312.24 | Inst. ownership | 87.93% |
-| P/E (ttm) | 33.82 | Insider ownership | 0.14% |
-| Forward P/E | 20.56 | Short float | 1.85% |
+| P/E (ttm) | 33.80 | Insider ownership | 0.14% |
+| Forward P/E | 20.54 | Short float | 1.85% |
 | PEG (trailing) | 1.81 | Avg volume | 2,446,598 |
 | P/S | 4.11 | Employees | 97,303 |
 | P/B | 6.27 | Analyst rec (1=buy..5=sell) | 1.6 |

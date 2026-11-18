@@ -4,8 +4,8 @@ Signed file: `GEV.research.18.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $772.89 (2026-11-18, ~15-min delayed) |
-| Market cap | $204.57B |
+| Current price | $772.22 (2026-11-18, ~15-min delayed) |
+| Market cap | $204.39B |
 | Sector / Industry | Industrials / Specialty Industrial Machinery |
 | Main theme | Specialty Industrial Machinery — see catalysts below |
 | Current stance | Low technical momentum, strong fundamentals, value: fair-to-demanding, risk: high. |
@@ -15,10 +15,10 @@ Signed file: `GEV.research.18.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-18.75%) with negative half-year (-24.48%). |
-| Fresh setup quality | Poor / broken | -34.18% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-18.82%) with negative half-year (-24.54%). |
+| Fresh setup quality | Poor / broken | -34.23% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 23.54%, revenue growth 26.80%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 29.84, EV/Sales 4.43. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 29.82, EV/Sales 4.43. |
 | Risk level | High | Beta 1.06, ATR 6.9% of price, short float 2.83%. |
 
 **Bottom line:** Low technical momentum, strong fundamentals, value: fair-to-demanding, risk: high.
@@ -44,22 +44,22 @@ GE Vernova Inc., an energy company, engages in the provision of various products
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $772.89; 52w high $1,174.17 (-34.18%); 52w low $553.58 (+39.62%) |
-| Trend | -18.75% vs SMA200, -14.30% vs SMA50, -6.57% vs SMA20 |
-| Momentum | RSI(14) 39.3 (neutral) |
+| Price vs 52-week range | Close $772.22; 52w high $1,174.17 (-34.23%); 52w low $553.58 (+39.50%) |
+| Trend | -18.82% vs SMA200, -14.37% vs SMA50, -6.65% vs SMA20 |
+| Momentum | RSI(14) 39.2 (neutral) |
 | Volatility | ATR(14) 53.66 (~6.9% of price); beta 1.06 |
-| Setup perspective | -34.18% from 52w high — base needs to rebuild. |
+| Setup perspective | -34.23% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -4.4% |
-| Month | -13.1% |
-| Quarter | -19.9% |
+| Week | -4.5% |
+| Month | -13.2% |
+| Quarter | -20.0% |
 | Half Y | -24.5% |
-| 1Y | +34.3% |
-| YTD | +14.0% |
+| 1Y | +34.2% |
+| YTD | +13.9% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ GE Vernova Inc., an energy company, engages in the provision of various products
 | Revenue (ttm) | $44.04B | Revenue growth 26.80% y/y |
 | Profitability | Gross 21.79%, operating 8.22%, net 23.54% | ROA 3.22%, ROE 93.04% |
 | Balance sheet | Cash $16.36B, debt $3.75B | Current ratio 0.83, debt/equity 29.89 |
-| Valuation | P/E 20.29, forward P/E 29.84, P/S 4.65, P/B 17.97 | EV/Sales 4.43, EV/EBITDA 38.63 |
+| Valuation | P/E 20.27, forward P/E 29.82, P/S 4.64, P/B 17.96 | EV/Sales 4.43, EV/EBITDA 38.63 |
 | Growth expectations | Earnings growth 193.30%, EPS q/q 185.60% | Analyst mean target $1,167.13 (33 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ GE Vernova Inc., an energy company, engages in the provision of various products
 | JPMORGAN CHASE & CO | 3,765,439 | 1.42% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 29.84, EV/Sales 4.43. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 29.82, EV/Sales 4.43. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 1.06, ATR 6.9% of price, short float 2.83%. Size positions accordingly.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
@@ -112,21 +112,21 @@ GE Vernova Inc., an energy company, engages in the provision of various products
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $772.89 | EV/Sales | 4.43 |
-| Market cap | $204.57B | EV/EBITDA | 38.63 |
+| Price | $772.22 | EV/Sales | 4.43 |
+| Market cap | $204.39B | EV/EBITDA | 38.63 |
 | Beta | 1.06 | Gross margin | 21.79% |
-| RSI(14) | 39.3 | Operating margin | 8.22% |
+| RSI(14) | 39.2 | Operating margin | 8.22% |
 | ATR(14) | 53.66 | Profit margin | 23.54% |
-| SMA20 dist | -6.57% | ROA | 3.22% |
-| SMA50 dist | -14.30% | ROE | 93.04% |
-| SMA200 dist | -18.75% | Revenue (ttm) | $44.04B |
+| SMA20 dist | -6.65% | ROA | 3.22% |
+| SMA50 dist | -14.37% | ROE | 93.04% |
+| SMA200 dist | -18.82% | Revenue (ttm) | $44.04B |
 | 52W high | $1,174.17 | Revenue growth y/y | 26.80% |
 | 52W low | $553.58 | Inst. ownership | 79.43% |
-| P/E (ttm) | 20.29 | Insider ownership | 0.14% |
-| Forward P/E | 29.84 | Short float | 2.83% |
+| P/E (ttm) | 20.27 | Insider ownership | 0.14% |
+| Forward P/E | 29.82 | Short float | 2.83% |
 | PEG (trailing) | 1.44 | Avg volume | 2,908,293 |
-| P/S | 4.65 | Employees | 78,000 |
-| P/B | 17.97 | Analyst rec (1=buy..5=sell) | 1.5 |
+| P/S | 4.64 | Employees | 78,000 |
+| P/B | 17.96 | Analyst rec (1=buy..5=sell) | 1.5 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

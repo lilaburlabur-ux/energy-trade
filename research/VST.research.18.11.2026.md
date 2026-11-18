@@ -4,8 +4,8 @@ Signed file: `VST.research.18.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $126.09 (2026-11-18, ~15-min delayed) |
-| Market cap | $42.79B |
+| Current price | $125.58 (2026-11-18, ~15-min delayed) |
+| Market cap | $42.62B |
 | Sector / Industry | Utilities / Utilities - Independent Power Producers |
 | Main theme | Utilities - Independent Power Producers — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: high. |
@@ -15,11 +15,11 @@ Signed file: `VST.research.18.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-16.59%) with negative half-year (-12.17%). |
-| Fresh setup quality | Poor / broken | -29.71% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-16.93%) with negative half-year (-12.53%). |
+| Fresh setup quality | Poor / broken | -30.00% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 13.15%, revenue growth 27.70%. |
-| Value attractiveness | Reasonable | Forward P/E 12.88, EV/Sales 3.15. |
-| Risk level | High | Beta 1.38, ATR 5.8% of price, short float 3.52%. |
+| Value attractiveness | Reasonable | Forward P/E 12.83, EV/Sales 3.15. |
+| Risk level | High | Beta 1.38, ATR 5.9% of price, short float 3.52%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: high.
 
@@ -44,22 +44,22 @@ Vistra Corp., together with its subsidiaries, operates as an integrated retail e
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $126.09; 52w high $179.39 (-29.71%); 52w low $112.89 (+11.69%) |
-| Trend | -16.59% vs SMA200, -11.09% vs SMA50, -5.66% vs SMA20 |
-| Momentum | RSI(14) 41.4 (neutral) |
-| Volatility | ATR(14) 7.33 (~5.8% of price); beta 1.38 |
-| Setup perspective | -29.71% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $125.58; 52w high $179.39 (-30.00%); 52w low $112.89 (+11.24%) |
+| Trend | -16.93% vs SMA200, -11.44% vs SMA50, -6.02% vs SMA20 |
+| Momentum | RSI(14) 41.0 (neutral) |
+| Volatility | ATR(14) 7.39 (~5.9% of price); beta 1.38 |
+| Setup perspective | -30.00% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -5.5% |
-| Month | -16.1% |
-| Quarter | -9.1% |
-| Half Y | -12.2% |
-| 1Y | -27.5% |
-| YTD | -23.4% |
+| Week | -5.9% |
+| Month | -16.5% |
+| Quarter | -9.5% |
+| Half Y | -12.5% |
+| 1Y | -27.8% |
+| YTD | -23.7% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Vistra Corp., together with its subsidiaries, operates as an integrated retail e
 | Revenue (ttm) | $20.59B | Revenue growth 27.70% y/y |
 | Profitability | Gross 41.52%, operating 23.00%, net 13.15% | ROA 7.13%, ROE 46.33% |
 | Balance sheet | Cash $2.74B, debt $21.77B | Current ratio 1.16, debt/equity 336.81 |
-| Valuation | P/E 17.04, forward P/E 12.88, P/S 2.08, P/B 11.02 | EV/Sales 3.15, EV/EBITDA 8.24 |
+| Valuation | P/E 16.97, forward P/E 12.83, P/S 2.07, P/B 10.98 | EV/Sales 3.15, EV/EBITDA 8.24 |
 | Growth expectations | Earnings growth 84.60%, EPS q/q 74.80% | Analyst mean target $198.49 (23 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ Vistra Corp., together with its subsidiaries, operates as an integrated retail e
 | Invesco Ltd. | 3,801,684 | 1.12% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.38, ATR 5.8% of price, short float 3.52%. Size positions accordingly.
+- **Volatility risk:** Beta 1.38, ATR 5.9% of price, short float 3.52%. Size positions accordingly.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -111,21 +111,21 @@ Vistra Corp., together with its subsidiaries, operates as an integrated retail e
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $126.09 | EV/Sales | 3.15 |
-| Market cap | $42.79B | EV/EBITDA | 8.24 |
+| Price | $125.58 | EV/Sales | 3.15 |
+| Market cap | $42.62B | EV/EBITDA | 8.24 |
 | Beta | 1.38 | Gross margin | 41.52% |
-| RSI(14) | 41.4 | Operating margin | 23.00% |
-| ATR(14) | 7.33 | Profit margin | 13.15% |
-| SMA20 dist | -5.66% | ROA | 7.13% |
-| SMA50 dist | -11.09% | ROE | 46.33% |
-| SMA200 dist | -16.59% | Revenue (ttm) | $20.59B |
+| RSI(14) | 41.0 | Operating margin | 23.00% |
+| ATR(14) | 7.39 | Profit margin | 13.15% |
+| SMA20 dist | -6.02% | ROA | 7.13% |
+| SMA50 dist | -11.44% | ROE | 46.33% |
+| SMA200 dist | -16.93% | Revenue (ttm) | $20.59B |
 | 52W high | $179.39 | Revenue growth y/y | 27.70% |
 | 52W low | $112.89 | Inst. ownership | 87.75% |
-| P/E (ttm) | 17.04 | Insider ownership | 0.77% |
-| Forward P/E | 12.88 | Short float | 3.52% |
+| P/E (ttm) | 16.97 | Insider ownership | 0.77% |
+| Forward P/E | 12.83 | Short float | 3.52% |
 | PEG (trailing) | 0.36 | Avg volume | 6,127,048 |
-| P/S | 2.08 | Employees | 6,390 |
-| P/B | 11.02 | Analyst rec (1=buy..5=sell) | 1.4 |
+| P/S | 2.07 | Employees | 6,390 |
+| P/B | 10.98 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

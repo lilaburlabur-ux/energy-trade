@@ -4,8 +4,8 @@ Signed file: `OKLO.research.18.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $21.75 (2026-11-18, ~15-min delayed) |
-| Market cap | $4.25B |
+| Current price | $21.80 (2026-11-18, ~15-min delayed) |
+| Market cap | $4.26B |
 | Sector / Industry | Utilities / Utilities - Independent Power Producers |
 | Main theme | Utilities - Independent Power Producers — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: high. |
@@ -15,11 +15,11 @@ Signed file: `OKLO.research.18.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-56.29%) with negative half-year (-65.24%). |
-| Fresh setup quality | Poor / broken | -80.52% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-56.19%) with negative half-year (-65.16%). |
+| Fresh setup quality | Poor / broken | -80.47% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 0.00%, revenue growth —. |
-| Value attractiveness | Reasonable | Forward P/E -19.14, EV/Sales 609.32. |
-| Risk level | High | Beta 1.31, ATR 10.2% of price, short float 21.88%. |
+| Value attractiveness | Reasonable | Forward P/E -19.18, EV/Sales 609.32. |
+| Risk level | High | Beta 1.31, ATR 10.1% of price, short float 21.88%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: high.
 
@@ -44,21 +44,21 @@ Oklo Inc. develops fission power plants to provide energy at scale to customers 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $21.75; 52w high $111.65 (-80.52%); 52w low $19.20 (+13.28%) |
-| Trend | -56.29% vs SMA200, -29.64% vs SMA50, -11.41% vs SMA20 |
-| Momentum | RSI(14) 36.2 (neutral) |
-| Volatility | ATR(14) 2.21 (~10.2% of price); beta 1.31 |
-| Setup perspective | -80.52% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $21.80; 52w high $111.65 (-80.47%); 52w low $19.20 (+13.54%) |
+| Trend | -56.19% vs SMA200, -29.48% vs SMA50, -11.21% vs SMA20 |
+| Momentum | RSI(14) 36.3 (neutral) |
+| Volatility | ATR(14) 2.21 (~10.1% of price); beta 1.31 |
+| Setup perspective | -80.47% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -15.9% |
-| Month | -20.9% |
-| Quarter | -47.8% |
+| Week | -15.7% |
+| Month | -20.7% |
+| Quarter | -47.7% |
 | Half Y | -65.2% |
-| 1Y | -77.2% |
+| 1Y | -77.1% |
 | YTD | -72.0% |
 
 ## 4. Fundamental Analysis
@@ -68,7 +68,7 @@ Oklo Inc. develops fission power plants to provide energy at scale to customers 
 | Revenue (ttm) | $3.07M | Revenue growth — y/y |
 | Profitability | Gross 41.06%, operating -8587.07%, net 0.00% | ROA -6.57%, ROE -6.79% |
 | Balance sheet | Cash $2.50B, debt $4.41M | Current ratio 31.20, debt/equity 0.12 |
-| Valuation | P/E —, forward P/E -19.14, P/S 1,383.12, P/B 1.16 | EV/Sales 609.32, EV/EBITDA -7.13 |
+| Valuation | P/E —, forward P/E -19.18, P/S 1,386.30, P/B 1.17 | EV/Sales 609.32, EV/EBITDA -7.13 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $55.43 (21 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ Oklo Inc. develops fission power plants to provide energy at scale to customers 
 | UBS Group AG | 1,739,479 | 0.89% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.31, ATR 10.2% of price, short float 21.88%. Size positions accordingly.
+- **Volatility risk:** Beta 1.31, ATR 10.1% of price, short float 21.88%. Size positions accordingly.
 - **Short interest risk:** short float 21.88% can fuel squeezes both ways around news.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
@@ -112,21 +112,21 @@ Oklo Inc. develops fission power plants to provide energy at scale to customers 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $21.75 | EV/Sales | 609.32 |
-| Market cap | $4.25B | EV/EBITDA | -7.13 |
+| Price | $21.80 | EV/Sales | 609.32 |
+| Market cap | $4.26B | EV/EBITDA | -7.13 |
 | Beta | 1.31 | Gross margin | 41.06% |
-| RSI(14) | 36.2 | Operating margin | -8587.07% |
+| RSI(14) | 36.3 | Operating margin | -8587.07% |
 | ATR(14) | 2.21 | Profit margin | 0.00% |
-| SMA20 dist | -11.41% | ROA | -6.57% |
-| SMA50 dist | -29.64% | ROE | -6.79% |
-| SMA200 dist | -56.29% | Revenue (ttm) | $3.07M |
+| SMA20 dist | -11.21% | ROA | -6.57% |
+| SMA50 dist | -29.48% | ROE | -6.79% |
+| SMA200 dist | -56.19% | Revenue (ttm) | $3.07M |
 | 52W high | $111.65 | Revenue growth y/y | — |
 | 52W low | $19.20 | Inst. ownership | 48.62% |
 | P/E (ttm) | — | Insider ownership | 14.62% |
-| Forward P/E | -19.14 | Short float | 21.88% |
+| Forward P/E | -19.18 | Short float | 21.88% |
 | PEG (trailing) | — | Avg volume | 10,104,587 |
-| P/S | 1,383.12 | Employees | 215 |
-| P/B | 1.16 | Analyst rec (1=buy..5=sell) | 2.1 |
+| P/S | 1,386.30 | Employees | 215 |
+| P/B | 1.17 | Analyst rec (1=buy..5=sell) | 2.1 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

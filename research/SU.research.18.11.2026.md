@@ -4,8 +4,8 @@ Signed file: `SU.research.18.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $64.82 (2026-11-18, ~15-min delayed) |
-| Market cap | $74.62B |
+| Current price | $64.91 (2026-11-18, ~15-min delayed) |
+| Market cap | $74.73B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
 | Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated. |
@@ -15,10 +15,10 @@ Signed file: `SU.research.18.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +49.01%; price +1.05% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -18.44% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +49.22%; price +1.19% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -18.33% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 17.68%, revenue growth 50.40%. |
-| Value attractiveness | Reasonable | Forward P/E 9.15, EV/Sales 1.35. |
+| Value attractiveness | Reasonable | Forward P/E 9.17, EV/Sales 1.35. |
 | Risk level | Elevated | Beta 0.47, ATR 3.4% of price, short float —. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: elevated.
@@ -44,22 +44,22 @@ Suncor Energy Inc. operates as an integrated energy company in Canada, the Unite
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $64.82; 52w high $79.48 (-18.44%); 52w low $41.35 (+56.74%) |
-| Trend | +1.05% vs SMA200, -9.53% vs SMA50, -10.73% vs SMA20 |
-| Momentum | RSI(14) 31.9 (neutral) |
+| Price vs 52-week range | Close $64.91; 52w high $79.48 (-18.33%); 52w low $41.35 (+56.96%) |
+| Trend | +1.19% vs SMA200, -9.41% vs SMA50, -10.61% vs SMA20 |
+| Momentum | RSI(14) 32.0 (neutral) |
 | Volatility | ATR(14) 2.20 (~3.4% of price); beta 0.47 |
-| Setup perspective | -18.44% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -18.33% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -6.0% |
-| Month | -17.4% |
-| Quarter | -4.0% |
-| Half Y | -3.2% |
-| 1Y | +49.0% |
-| YTD | +45.2% |
+| Week | -5.9% |
+| Month | -17.2% |
+| Quarter | -3.8% |
+| Half Y | -3.1% |
+| 1Y | +49.2% |
+| YTD | +45.4% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,8 +68,8 @@ Suncor Energy Inc. operates as an integrated energy company in Canada, the Unite
 | Revenue (ttm) | $62.90B | Revenue growth 50.40% y/y |
 | Profitability | Gross 60.55%, operating 24.04%, net 17.68% | ROA 10.11%, ROE 23.46% |
 | Balance sheet | Cash $8.00B, debt $14.44B | Current ratio 1.71, debt/equity 29.07 |
-| Valuation | P/E 9.56, forward P/E 9.15, P/S 1.19, P/B 2.12 | EV/Sales 1.35, EV/EBITDA 3.66 |
-| Growth expectations | Earnings growth 144.60%, EPS q/q 135.60% | Analyst mean target $74.15 (3 analysts) |
+| Valuation | P/E 9.57, forward P/E 9.17, P/S 1.19, P/B 2.13 | EV/Sales 1.35, EV/EBITDA 3.66 |
+| Growth expectations | Earnings growth 144.60%, EPS q/q 135.60% | Analyst mean target $74.20 (3 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
@@ -110,21 +110,21 @@ Suncor Energy Inc. operates as an integrated energy company in Canada, the Unite
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $64.82 | EV/Sales | 1.35 |
-| Market cap | $74.62B | EV/EBITDA | 3.66 |
+| Price | $64.91 | EV/Sales | 1.35 |
+| Market cap | $74.73B | EV/EBITDA | 3.66 |
 | Beta | 0.47 | Gross margin | 60.55% |
-| RSI(14) | 31.9 | Operating margin | 24.04% |
+| RSI(14) | 32.0 | Operating margin | 24.04% |
 | ATR(14) | 2.20 | Profit margin | 17.68% |
-| SMA20 dist | -10.73% | ROA | 10.11% |
-| SMA50 dist | -9.53% | ROE | 23.46% |
-| SMA200 dist | +1.05% | Revenue (ttm) | $62.90B |
+| SMA20 dist | -10.61% | ROA | 10.11% |
+| SMA50 dist | -9.41% | ROE | 23.46% |
+| SMA200 dist | +1.19% | Revenue (ttm) | $62.90B |
 | 52W high | $79.48 | Revenue growth y/y | 50.40% |
 | 52W low | $41.35 | Inst. ownership | 73.98% |
-| P/E (ttm) | 9.56 | Insider ownership | 0.01% |
-| Forward P/E | 9.15 | Short float | — |
+| P/E (ttm) | 9.57 | Insider ownership | 0.01% |
+| Forward P/E | 9.17 | Short float | — |
 | PEG (trailing) | — | Avg volume | 4,004,326 |
 | P/S | 1.19 | Employees | 15,424 |
-| P/B | 2.12 | Analyst rec (1=buy..5=sell) | 2.0 |
+| P/B | 2.13 | Analyst rec (1=buy..5=sell) | 2.0 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
