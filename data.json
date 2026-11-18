@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-18T13:34:22+00:00",
-  "as_of_local": "2026-11-18 13:34:22 UTC",
+  "as_of_utc": "2026-11-18T13:39:21+00:00",
+  "as_of_local": "2026-11-18 13:39:21 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "CVX"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -35,6 +33,34 @@
       ]
     },
     {
+      "symbol": "CVX",
+      "name": "Chevron",
+      "price": 216.13,
+      "previous_close": 217.14,
+      "change_pct": -0.47,
+      "market_cap": 421724468682.7859,
+      "headlines": [
+        {
+          "title": "Biggest Dow Jones Loser Nike Keeps Sinking After Investor Day. Here's Why.",
+          "url": "https://www.investors.com/news/nike-stock-biggest-dow-jones-loser-2026-slides-after-investor-day/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-11-18T12:26:09Z"
+        },
+        {
+          "title": "State Street Energy Select SPDR (XLE) Sells $149.9 Million of Exxon on Monday",
+          "url": "https://finance.yahoo.com/energy/articles/state-street-energy-select-spdr-110427688.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-18T11:04:27Z"
+        },
+        {
+          "title": "ETFs Are Net Sellers of Chevron (CVX) on Monday",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-chevron-cvx-110228002.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-18T11:02:28Z"
+        }
+      ]
+    },
+    {
       "symbol": "SHEL",
       "name": "Shell",
       "price": 97.24,
@@ -42,6 +68,12 @@
       "change_pct": -0.48,
       "market_cap": 274765494195.8559,
       "headlines": [
+        {
+          "title": "Saipem wins $181m drilling contracts for Scarabeo 9 rig",
+          "url": "https://finance.yahoo.com/news/saipem-wins-181m-drilling-contracts-130819531.html",
+          "publisher": "Offshore Technology",
+          "published": "2026-11-18T13:08:19Z"
+        },
         {
           "title": "Sector Update: Energy Stocks Lower in Afternoon Trading",
           "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-lower-afternoon-190033166.html",
@@ -53,12 +85,6 @@
           "url": "https://finance.yahoo.com/energy/articles/heres-why-bps-partial-aker-150700719.html",
           "publisher": "Zacks",
           "published": "2026-11-17T15:07:00Z"
-        },
-        {
-          "title": "Shell names new CIO",
-          "url": "https://finance.yahoo.com/technology/ai/articles/shell-names-cio-141431209.html",
-          "publisher": "C-Store Dive",
-          "published": "2026-11-17T14:14:31Z"
         }
       ]
     },
@@ -99,6 +125,12 @@
       "market_cap": 198255335368.7897,
       "headlines": [
         {
+          "title": "Saipem wins $181m drilling contracts for Scarabeo 9 rig",
+          "url": "https://finance.yahoo.com/news/saipem-wins-181m-drilling-contracts-130819531.html",
+          "publisher": "Offshore Technology",
+          "published": "2026-11-18T13:08:19Z"
+        },
+        {
           "title": "EnQuest Exits UK North Sea in $960 Million Deal",
           "url": "https://finance.yahoo.com/energy/articles/enquest-exits-uk-north-sea-123000256.html",
           "publisher": "Oilprice.com",
@@ -109,12 +141,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-com-featured-highlights-terumo-094300386.html",
           "publisher": "Zacks",
           "published": "2026-11-18T09:43:00Z"
-        },
-        {
-          "title": "Equinor (OB:EQNR) Marks First Seabed Monitoring At UK Endurance CO2 Store",
-          "url": "https://finance.yahoo.com/energy/articles/equinor-ob-eqnr-marks-first-061538703.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-18T06:15:38Z"
         }
       ]
     },
@@ -1904,8 +1930,8 @@
           "name": "Chevron Corp",
           "short": "Chevron",
           "weight_pct": 18.29,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": -0.47,
+          "price": 216.13,
           "currency": "USD"
         },
         {
@@ -2003,8 +2029,8 @@
         "name": "Chevron Corp",
         "short": "Chevron",
         "weight_pct": 18.29,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": -0.47,
+        "price": 216.13,
         "currency": "USD"
       },
       {
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 83.9,
-      "change_pct": -2.45
+      "price": 83.86,
+      "change_pct": -2.5
     },
     {
       "label": "Brent",
-      "price": 89.93,
-      "change_pct": -3.45
+      "price": 89.87,
+      "change_pct": -3.51
     },
     {
       "label": "NatGas",
-      "price": 3.26,
-      "change_pct": 1.68
+      "price": 3.28,
+      "change_pct": 2.09
     }
   ]
 }
