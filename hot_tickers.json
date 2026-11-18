@@ -1,10 +1,27 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-18T09:14:59+00:00",
+  "as_of": "2026-11-18T09:30:12+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": []
+ "hot_tickers": [
+  {
+   "rank": 1,
+   "ticker": "BE",
+   "company": "Bloom Energy Corporation",
+   "move_pct": 6.27,
+   "price": 184.34,
+   "volume": 14836800,
+   "volume_vs_avg": "~0.9x",
+   "heat_score": 41,
+   "direction": "up",
+   "why": "Is Bloom Energy Stock At $173 Still Worth Owning?",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVEhCSXgwLTllRktmZFNEOXlXMkdHS1lwSXhadXFQd2wtY0FTOFFwWFdSSmdoMTQ2MDFiak9sdlJqZ1VxUGdYNnFCam9GZ1llRDZzeEtzVFFuM1c3OE54bllUUTgwMFpnYnNsVlFvSDJKdlZydkRHR1hpZWJOR3ozdkpaTEJUY2pmRUNPZjFYU1pROXlNTElrbVlyaWZrcVdyZDY1SnFDS0tPdw?oc=5",
+   "published": "2026-11-18T08:18:48+00:00",
+   "sector": "Grid, Storage & Electrification"
+  }
+ ]
 }
