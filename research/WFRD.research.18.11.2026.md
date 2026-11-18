@@ -4,8 +4,8 @@ Signed file: `WFRD.research.18.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $81.75 (2026-11-18, ~15-min delayed) |
-| Market cap | $5.92B |
+| Current price | $81.61 (2026-11-18, ~15-min delayed) |
+| Market cap | $5.91B |
 | Sector / Industry | Energy / Oil & Gas Equipment & Services |
 | Main theme | Oil & Gas Equipment & Services — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
@@ -15,10 +15,10 @@ Signed file: `WFRD.research.18.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-11.31%) with negative half-year (-26.12%). |
-| Fresh setup quality | Poor / broken | -26.15% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-11.47%) with negative half-year (-26.25%). |
+| Fresh setup quality | Poor / broken | -26.28% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 8.64%, revenue growth -7.20%. |
-| Value attractiveness | Reasonable | Forward P/E 12.21, EV/Sales 1.37. |
+| Value attractiveness | Reasonable | Forward P/E 12.19, EV/Sales 1.37. |
 | Risk level | Elevated | Beta 0.83, ATR 4.3% of price, short float 6.42%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
@@ -44,22 +44,22 @@ Weatherford International Corp provides equipment and services for the drilling,
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $81.75; 52w high $110.70 (-26.15%); 52w low $69.15 (+18.22%) |
-| Trend | -11.31% vs SMA200, -1.29% vs SMA50, -4.83% vs SMA20 |
-| Momentum | RSI(14) 44.5 (neutral) |
+| Price vs 52-week range | Close $81.61; 52w high $110.70 (-26.28%); 52w low $69.15 (+18.01%) |
+| Trend | -11.47% vs SMA200, -1.46% vs SMA50, -4.99% vs SMA20 |
+| Momentum | RSI(14) 44.2 (neutral) |
 | Volatility | ATR(14) 3.48 (~4.3% of price); beta 0.83 |
-| Setup perspective | -26.15% from 52w high — base needs to rebuild. |
+| Setup perspective | -26.28% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -5.7% |
-| Month | +3.4% |
-| Quarter | -10.1% |
-| Half Y | -26.1% |
-| 1Y | +16.6% |
-| YTD | +2.3% |
+| Week | -5.9% |
+| Month | +3.2% |
+| Quarter | -10.3% |
+| Half Y | -26.3% |
+| 1Y | +16.4% |
+| YTD | +2.1% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Weatherford International Corp provides equipment and services for the drilling,
 | Revenue (ttm) | $4.69B | Revenue growth -7.20% y/y |
 | Profitability | Gross 30.80%, operating 13.16%, net 8.64% | ROA 7.27%, ROE 23.32% |
 | Balance sheet | Cash $1.16B, debt $1.63B | Current ratio 2.04, debt/equity 81.73 |
-| Valuation | P/E 14.57, forward P/E 12.21, P/S 1.26, P/B 3.03 | EV/Sales 1.37, EV/EBITDA 7.11 |
+| Valuation | P/E 14.55, forward P/E 12.19, P/S 1.26, P/B 3.02 | EV/Sales 1.37, EV/EBITDA 7.11 |
 | Growth expectations | Earnings growth 48.20%, EPS q/q 48.10% | Analyst mean target $110.55 (11 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -112,21 +112,21 @@ Weatherford International Corp provides equipment and services for the drilling,
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $81.75 | EV/Sales | 1.37 |
-| Market cap | $5.92B | EV/EBITDA | 7.11 |
+| Price | $81.61 | EV/Sales | 1.37 |
+| Market cap | $5.91B | EV/EBITDA | 7.11 |
 | Beta | 0.83 | Gross margin | 30.80% |
-| RSI(14) | 44.5 | Operating margin | 13.16% |
+| RSI(14) | 44.2 | Operating margin | 13.16% |
 | ATR(14) | 3.48 | Profit margin | 8.64% |
-| SMA20 dist | -4.83% | ROA | 7.27% |
-| SMA50 dist | -1.29% | ROE | 23.32% |
-| SMA200 dist | -11.31% | Revenue (ttm) | $4.69B |
+| SMA20 dist | -4.99% | ROA | 7.27% |
+| SMA50 dist | -1.46% | ROE | 23.32% |
+| SMA200 dist | -11.47% | Revenue (ttm) | $4.69B |
 | 52W high | $110.70 | Revenue growth y/y | -7.20% |
 | 52W low | $69.15 | Inst. ownership | 104.73% |
-| P/E (ttm) | 14.57 | Insider ownership | 2.13% |
-| Forward P/E | 12.21 | Short float | 6.42% |
+| P/E (ttm) | 14.55 | Insider ownership | 2.13% |
+| Forward P/E | 12.19 | Short float | 6.42% |
 | PEG (trailing) | 1.23 | Avg volume | 1,019,164 |
 | P/S | 1.26 | Employees | 16,700 |
-| P/B | 3.03 | Analyst rec (1=buy..5=sell) | 1.7 |
+| P/B | 3.02 | Analyst rec (1=buy..5=sell) | 1.7 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

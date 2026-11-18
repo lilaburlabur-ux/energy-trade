@@ -4,8 +4,8 @@ Signed file: `VST.research.18.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $126.33 (2026-11-18, ~15-min delayed) |
-| Market cap | $42.88B |
+| Current price | $126.09 (2026-11-18, ~15-min delayed) |
+| Market cap | $42.79B |
 | Sector / Industry | Utilities / Utilities - Independent Power Producers |
 | Main theme | Utilities - Independent Power Producers — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: high. |
@@ -15,10 +15,10 @@ Signed file: `VST.research.18.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-16.43%) with negative half-year (-12.00%). |
-| Fresh setup quality | Poor / broken | -29.58% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-16.59%) with negative half-year (-12.17%). |
+| Fresh setup quality | Poor / broken | -29.71% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 13.15%, revenue growth 27.70%. |
-| Value attractiveness | Reasonable | Forward P/E 12.91, EV/Sales 3.15. |
+| Value attractiveness | Reasonable | Forward P/E 12.88, EV/Sales 3.15. |
 | Risk level | High | Beta 1.38, ATR 5.8% of price, short float 3.52%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: high.
@@ -44,22 +44,22 @@ Vistra Corp., together with its subsidiaries, operates as an integrated retail e
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $126.33; 52w high $179.39 (-29.58%); 52w low $112.89 (+11.91%) |
-| Trend | -16.43% vs SMA200, -10.92% vs SMA50, -5.49% vs SMA20 |
-| Momentum | RSI(14) 41.5 (neutral) |
+| Price vs 52-week range | Close $126.09; 52w high $179.39 (-29.71%); 52w low $112.89 (+11.69%) |
+| Trend | -16.59% vs SMA200, -11.09% vs SMA50, -5.66% vs SMA20 |
+| Momentum | RSI(14) 41.4 (neutral) |
 | Volatility | ATR(14) 7.33 (~5.8% of price); beta 1.38 |
-| Setup perspective | -29.58% from 52w high — base needs to rebuild. |
+| Setup perspective | -29.71% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -5.3% |
-| Month | -16.0% |
-| Quarter | -8.9% |
-| Half Y | -12.0% |
-| 1Y | -27.4% |
-| YTD | -23.2% |
+| Week | -5.5% |
+| Month | -16.1% |
+| Quarter | -9.1% |
+| Half Y | -12.2% |
+| 1Y | -27.5% |
+| YTD | -23.4% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Vistra Corp., together with its subsidiaries, operates as an integrated retail e
 | Revenue (ttm) | $20.59B | Revenue growth 27.70% y/y |
 | Profitability | Gross 41.52%, operating 23.00%, net 13.15% | ROA 7.13%, ROE 46.33% |
 | Balance sheet | Cash $2.74B, debt $21.77B | Current ratio 1.16, debt/equity 336.81 |
-| Valuation | P/E 17.07, forward P/E 12.91, P/S 2.08, P/B 11.04 | EV/Sales 3.15, EV/EBITDA 8.24 |
+| Valuation | P/E 17.04, forward P/E 12.88, P/S 2.08, P/B 11.02 | EV/Sales 3.15, EV/EBITDA 8.24 |
 | Growth expectations | Earnings growth 84.60%, EPS q/q 74.80% | Analyst mean target $198.49 (23 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -111,21 +111,21 @@ Vistra Corp., together with its subsidiaries, operates as an integrated retail e
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $126.33 | EV/Sales | 3.15 |
-| Market cap | $42.88B | EV/EBITDA | 8.24 |
+| Price | $126.09 | EV/Sales | 3.15 |
+| Market cap | $42.79B | EV/EBITDA | 8.24 |
 | Beta | 1.38 | Gross margin | 41.52% |
-| RSI(14) | 41.5 | Operating margin | 23.00% |
+| RSI(14) | 41.4 | Operating margin | 23.00% |
 | ATR(14) | 7.33 | Profit margin | 13.15% |
-| SMA20 dist | -5.49% | ROA | 7.13% |
-| SMA50 dist | -10.92% | ROE | 46.33% |
-| SMA200 dist | -16.43% | Revenue (ttm) | $20.59B |
+| SMA20 dist | -5.66% | ROA | 7.13% |
+| SMA50 dist | -11.09% | ROE | 46.33% |
+| SMA200 dist | -16.59% | Revenue (ttm) | $20.59B |
 | 52W high | $179.39 | Revenue growth y/y | 27.70% |
 | 52W low | $112.89 | Inst. ownership | 87.75% |
-| P/E (ttm) | 17.07 | Insider ownership | 0.77% |
-| Forward P/E | 12.91 | Short float | 3.52% |
+| P/E (ttm) | 17.04 | Insider ownership | 0.77% |
+| Forward P/E | 12.88 | Short float | 3.52% |
 | PEG (trailing) | 0.36 | Avg volume | 6,127,048 |
 | P/S | 2.08 | Employees | 6,390 |
-| P/B | 11.04 | Analyst rec (1=buy..5=sell) | 1.4 |
+| P/B | 11.02 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

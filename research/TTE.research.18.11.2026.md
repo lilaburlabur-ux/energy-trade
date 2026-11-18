@@ -4,8 +4,8 @@ Signed file: `TTE.research.18.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $86.93 (2026-11-18, ~15-min delayed) |
-| Market cap | $190.66B |
+| Current price | $86.91 (2026-11-18, ~15-min delayed) |
+| Market cap | $190.60B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,8 +15,8 @@ Signed file: `TTE.research.18.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +38.84%; price +1.55% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -8.81% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +38.81%; price +1.52% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -8.83% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 10.46%, revenue growth 41.10%. |
 | Value attractiveness | Reasonable | Forward P/E 7.16, EV/Sales 1.07. |
 | Risk level | Moderate | Beta 0.04, ATR 2.1% of price, short float 0.19%. |
@@ -44,11 +44,11 @@ TotalEnergies SE, an integrated energy company, produces and markets oil and bio
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $86.93; 52w high $95.33 (-8.81%); 52w low $61.13 (+42.21%) |
-| Trend | +1.55% vs SMA200, -2.77% vs SMA50, -4.26% vs SMA20 |
-| Momentum | RSI(14) 40.7 (neutral) |
+| Price vs 52-week range | Close $86.91; 52w high $95.33 (-8.83%); 52w low $61.13 (+42.18%) |
+| Trend | +1.52% vs SMA200, -2.80% vs SMA50, -4.28% vs SMA20 |
+| Momentum | RSI(14) 40.6 (neutral) |
 | Volatility | ATR(14) 1.79 (~2.1% of price); beta 0.04 |
-| Setup perspective | -8.81% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -8.83% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
@@ -56,10 +56,10 @@ TotalEnergies SE, an integrated energy company, produces and markets oil and bio
 |---|---|
 | Week | -1.2% |
 | Month | -3.5% |
-| Quarter | -3.2% |
+| Quarter | -3.3% |
 | Half Y | -5.0% |
 | 1Y | +38.8% |
-| YTD | +33.7% |
+| YTD | +33.6% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ TotalEnergies SE, an integrated energy company, produces and markets oil and bio
 | Revenue (ttm) | $214.40B | Revenue growth 41.10% y/y |
 | Profitability | Gross 39.18%, operating 17.00%, net 10.46% | ROA 7.19%, ROE 17.83% |
 | Balance sheet | Cash $37.80B, debt $63.17B | Current ratio 1.11, debt/equity 46.12 |
-| Valuation | P/E 8.68, forward P/E 7.16, P/S 0.89, P/B 1.45 | EV/Sales 1.07, EV/EBITDA 4.71 |
+| Valuation | P/E 8.67, forward P/E 7.16, P/S 0.89, P/B 1.45 | EV/Sales 1.07, EV/EBITDA 4.71 |
 | Growth expectations | Earnings growth 123.20%, EPS q/q 124.40% | Analyst mean target $100.85 (10 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -109,17 +109,17 @@ TotalEnergies SE, an integrated energy company, produces and markets oil and bio
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $86.93 | EV/Sales | 1.07 |
-| Market cap | $190.66B | EV/EBITDA | 4.71 |
+| Price | $86.91 | EV/Sales | 1.07 |
+| Market cap | $190.60B | EV/EBITDA | 4.71 |
 | Beta | 0.04 | Gross margin | 39.18% |
-| RSI(14) | 40.7 | Operating margin | 17.00% |
+| RSI(14) | 40.6 | Operating margin | 17.00% |
 | ATR(14) | 1.79 | Profit margin | 10.46% |
-| SMA20 dist | -4.26% | ROA | 7.19% |
-| SMA50 dist | -2.77% | ROE | 17.83% |
-| SMA200 dist | +1.55% | Revenue (ttm) | $214.40B |
+| SMA20 dist | -4.28% | ROA | 7.19% |
+| SMA50 dist | -2.80% | ROE | 17.83% |
+| SMA200 dist | +1.52% | Revenue (ttm) | $214.40B |
 | 52W high | $95.33 | Revenue growth y/y | 41.10% |
 | 52W low | $61.13 | Inst. ownership | 57.18% |
-| P/E (ttm) | 8.68 | Insider ownership | 8.85% |
+| P/E (ttm) | 8.67 | Insider ownership | 8.85% |
 | Forward P/E | 7.16 | Short float | 0.19% |
 | PEG (trailing) | 0.68 | Avg volume | 1,806,801 |
 | P/S | 0.89 | Employees | 94,847 |

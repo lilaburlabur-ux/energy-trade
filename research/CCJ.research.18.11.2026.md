@@ -4,8 +4,8 @@ Signed file: `CCJ.research.18.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $62.88 (2026-11-18, ~15-min delayed) |
-| Market cap | $27.39B |
+| Current price | $62.56 (2026-11-18, ~15-min delayed) |
+| Market cap | $27.24B |
 | Sector / Industry | Energy / Uranium |
 | Main theme | Uranium — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: low (expensive), risk: high. |
@@ -15,10 +15,10 @@ Signed file: `CCJ.research.18.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-37.67%) with negative half-year (-39.55%). |
-| Fresh setup quality | Poor / broken | -53.11% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-37.99%) with negative half-year (-39.86%). |
+| Fresh setup quality | Poor / broken | -53.35% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 11.43%, revenue growth 0.70%. |
-| Value attractiveness | Low (expensive) | Forward P/E 36.70, EV/Sales 8.12. |
+| Value attractiveness | Low (expensive) | Forward P/E 36.51, EV/Sales 8.12. |
 | Risk level | High | Beta 1.13, ATR 5.6% of price, short float —. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: low (expensive), risk: high.
@@ -44,22 +44,22 @@ Cameco Corporation provides uranium for the generation of electricity in the Ame
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $62.88; 52w high $134.09 (-53.11%); 52w low $62.88 (+0.00%) |
-| Trend | -37.67% vs SMA200, -23.79% vs SMA50, -14.97% vs SMA20 |
-| Momentum | RSI(14) 28.4 (oversold) |
+| Price vs 52-week range | Close $62.56; 52w high $134.09 (-53.35%); 52w low $62.56 (+0.00%) |
+| Trend | -37.99% vs SMA200, -24.18% vs SMA50, -15.39% vs SMA20 |
+| Momentum | RSI(14) 28.1 (oversold) |
 | Volatility | ATR(14) 3.53 (~5.6% of price); beta 1.13 |
-| Setup perspective | -53.11% from 52w high — base needs to rebuild. |
+| Setup perspective | -53.35% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -15.4% |
-| Month | -21.9% |
-| Quarter | -34.2% |
-| Half Y | -39.6% |
-| 1Y | -24.1% |
-| YTD | -36.2% |
+| Week | -15.8% |
+| Month | -22.3% |
+| Quarter | -34.6% |
+| Half Y | -39.9% |
+| 1Y | -24.5% |
+| YTD | -36.5% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,8 +68,8 @@ Cameco Corporation provides uranium for the generation of electricity in the Ame
 | Revenue (ttm) | $3.48B | Revenue growth 0.70% y/y |
 | Profitability | Gross 33.83%, operating 12.89%, net 11.43% | ROA 2.79%, ROE 5.68% |
 | Balance sheet | Cash $859.82M, debt $1.01B | Current ratio 2.55, debt/equity 13.95 |
-| Valuation | P/E 95.27, forward P/E 36.70, P/S 7.87, P/B 5.32 | EV/Sales 8.12, EV/EBITDA 36.29 |
-| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $115.29 (9 analysts) |
+| Valuation | P/E 94.78, forward P/E 36.51, P/S 7.83, P/B 5.29 | EV/Sales 8.12, EV/EBITDA 36.29 |
+| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $115.33 (9 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
@@ -95,7 +95,7 @@ Cameco Corporation provides uranium for the generation of electricity in the Ame
 | Geode Capital Management, LLC | 5,478,174 | 1.26% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 36.70, EV/Sales 8.12. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 36.51, EV/Sales 8.12. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 1.13, ATR 5.6% of price, short float —. Size positions accordingly.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
@@ -112,21 +112,21 @@ Cameco Corporation provides uranium for the generation of electricity in the Ame
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $62.88 | EV/Sales | 8.12 |
-| Market cap | $27.39B | EV/EBITDA | 36.29 |
+| Price | $62.56 | EV/Sales | 8.12 |
+| Market cap | $27.24B | EV/EBITDA | 36.29 |
 | Beta | 1.13 | Gross margin | 33.83% |
-| RSI(14) | 28.4 | Operating margin | 12.89% |
+| RSI(14) | 28.1 | Operating margin | 12.89% |
 | ATR(14) | 3.53 | Profit margin | 11.43% |
-| SMA20 dist | -14.97% | ROA | 2.79% |
-| SMA50 dist | -23.79% | ROE | 5.68% |
-| SMA200 dist | -37.67% | Revenue (ttm) | $3.48B |
+| SMA20 dist | -15.39% | ROA | 2.79% |
+| SMA50 dist | -24.18% | ROE | 5.68% |
+| SMA200 dist | -37.99% | Revenue (ttm) | $3.48B |
 | 52W high | $134.09 | Revenue growth y/y | 0.70% |
-| 52W low | $62.88 | Inst. ownership | 68.55% |
-| P/E (ttm) | 95.27 | Insider ownership | 0.14% |
-| Forward P/E | 36.70 | Short float | — |
+| 52W low | $62.56 | Inst. ownership | 68.55% |
+| P/E (ttm) | 94.78 | Insider ownership | 0.14% |
+| Forward P/E | 36.51 | Short float | — |
 | PEG (trailing) | — | Avg volume | 3,420,834 |
-| P/S | 7.87 | Employees | 0 |
-| P/B | 5.32 | Analyst rec (1=buy..5=sell) | 1.5 |
+| P/S | 7.83 | Employees | 0 |
+| P/B | 5.29 | Analyst rec (1=buy..5=sell) | 1.5 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

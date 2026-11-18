@@ -4,8 +4,8 @@ Signed file: `DVN.research.18.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $42.19 (2026-11-18, ~15-min delayed) |
-| Market cap | $48.08B |
+| Current price | $42.08 (2026-11-18, ~15-min delayed) |
+| Market cap | $47.96B |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
 | Current stance | Low technical momentum, strong fundamentals, value: reasonable, risk: elevated. |
@@ -15,10 +15,10 @@ Signed file: `DVN.research.18.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-8.19%) with negative half-year (-11.76%). |
-| Fresh setup quality | Moderate / wait | -19.11% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-8.41%) with negative half-year (-11.97%). |
+| Fresh setup quality | Moderate / wait | -19.30% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 16.28%, revenue growth 74.00%. |
-| Value attractiveness | Reasonable | Forward P/E 8.18, EV/Sales 2.73. |
+| Value attractiveness | Reasonable | Forward P/E 8.16, EV/Sales 2.73. |
 | Risk level | Elevated | Beta 0.48, ATR 4.2% of price, short float 2.46%. |
 
 **Bottom line:** Low technical momentum, strong fundamentals, value: reasonable, risk: elevated.
@@ -44,22 +44,22 @@ Devon Energy Corporation, an independent energy company, engages in the explorat
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $42.19; 52w high $52.15 (-19.11%); 52w low $33.83 (+24.70%) |
-| Trend | -8.19% vs SMA200, -12.01% vs SMA50, -9.95% vs SMA20 |
-| Momentum | RSI(14) 35.0 (neutral) |
+| Price vs 52-week range | Close $42.08; 52w high $52.15 (-19.30%); 52w low $33.83 (+24.40%) |
+| Trend | -8.41% vs SMA200, -12.21% vs SMA50, -10.16% vs SMA20 |
+| Momentum | RSI(14) 34.8 (neutral) |
 | Volatility | ATR(14) 1.75 (~4.2% of price); beta 0.48 |
-| Setup perspective | -19.11% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -19.30% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -6.2% |
-| Month | -16.3% |
-| Quarter | -13.9% |
-| Half Y | -11.8% |
-| 1Y | +23.4% |
-| YTD | +13.5% |
+| Week | -6.4% |
+| Month | -16.5% |
+| Quarter | -14.1% |
+| Half Y | -12.0% |
+| 1Y | +23.1% |
+| YTD | +13.2% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Devon Energy Corporation, an independent energy company, engages in the explorat
 | Revenue (ttm) | $22.11B | Revenue growth 74.00% y/y |
 | Profitability | Gross 53.48%, operating 24.01%, net 16.28% | ROA 6.50%, ROE 12.55% |
 | Balance sheet | Cash $352.00M, debt $11.20B | Current ratio 0.70, debt/equity 26.66 |
-| Valuation | P/E 9.90, forward P/E 8.18, P/S 2.17, P/B 1.15 | EV/Sales 2.73, EV/EBITDA 5.92 |
+| Valuation | P/E 9.88, forward P/E 8.16, P/S 2.17, P/B 1.14 | EV/Sales 2.73, EV/EBITDA 5.92 |
 | Growth expectations | Earnings growth -19.30%, EPS q/q 46.70% | Analyst mean target $59.81 (27 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -110,21 +110,21 @@ Devon Energy Corporation, an independent energy company, engages in the explorat
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $42.19 | EV/Sales | 2.73 |
-| Market cap | $48.08B | EV/EBITDA | 5.92 |
+| Price | $42.08 | EV/Sales | 2.73 |
+| Market cap | $47.96B | EV/EBITDA | 5.92 |
 | Beta | 0.48 | Gross margin | 53.48% |
-| RSI(14) | 35.0 | Operating margin | 24.01% |
+| RSI(14) | 34.8 | Operating margin | 24.01% |
 | ATR(14) | 1.75 | Profit margin | 16.28% |
-| SMA20 dist | -9.95% | ROA | 6.50% |
-| SMA50 dist | -12.01% | ROE | 12.55% |
-| SMA200 dist | -8.19% | Revenue (ttm) | $22.11B |
+| SMA20 dist | -10.16% | ROA | 6.50% |
+| SMA50 dist | -12.21% | ROE | 12.55% |
+| SMA200 dist | -8.41% | Revenue (ttm) | $22.11B |
 | 52W high | $52.15 | Revenue growth y/y | 74.00% |
 | 52W low | $33.83 | Inst. ownership | 90.39% |
-| P/E (ttm) | 9.90 | Insider ownership | 0.75% |
-| Forward P/E | 8.18 | Short float | 2.46% |
+| P/E (ttm) | 9.88 | Insider ownership | 0.75% |
+| Forward P/E | 8.16 | Short float | 2.46% |
 | PEG (trailing) | — | Avg volume | 11,041,306 |
 | P/S | 2.17 | Employees | 2,200 |
-| P/B | 1.15 | Analyst rec (1=buy..5=sell) | 1.3 |
+| P/B | 1.14 | Analyst rec (1=buy..5=sell) | 1.3 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
