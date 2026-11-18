@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-18T09:56:15+00:00",
-  "as_of_local": "2026-11-18 09:56:15 UTC",
+  "as_of_utc": "2026-11-18T10:01:24+00:00",
+  "as_of_local": "2026-11-18 10:01:24 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "FSLR"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1323,6 +1321,34 @@
       ]
     },
     {
+      "symbol": "FSLR",
+      "name": "First Solar",
+      "price": 152.97,
+      "previous_close": 162.45,
+      "change_pct": -5.84,
+      "market_cap": 16441391799.672577,
+      "headlines": [
+        {
+          "title": "Solar Stocks Rebound After A Brutal Rout: Is The Worst Over For ENPH, FSLR, CSIQ, SEDG Stocks?",
+          "url": "https://finance.yahoo.com/energy/articles/solar-stocks-rebound-brutal-rout-025353544.html",
+          "publisher": "Stocktwits",
+          "published": "2026-11-18T02:53:53Z"
+        },
+        {
+          "title": "First Solar and Enphase Fall 5% as Solar Selloff Stretches On; SolarEdge Drops 4%",
+          "url": "https://finance.yahoo.com/energy/articles/first-solar-enphase-fall-5-185832430.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-17T18:58:32Z"
+        },
+        {
+          "title": "How First Solar (FSLR) Expanded Margins Despite a 23% Revenue Decline",
+          "url": "https://finance.yahoo.com/energy/articles/first-solar-fslr-expanded-margins-152316651.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-11-14T15:23:16Z"
+        }
+      ]
+    },
+    {
       "symbol": "APA",
       "name": "APA Corp",
       "price": 46.88,
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 83.18,
-      "change_pct": -3.29
+      "price": 83.17,
+      "change_pct": -3.3
     },
     {
       "label": "Brent",
-      "price": 89.31,
-      "change_pct": -4.11
+      "price": 89.37,
+      "change_pct": -4.05
     },
     {
       "label": "NatGas",
-      "price": 3.18,
-      "change_pct": -0.75
+      "price": 3.19,
+      "change_pct": -0.56
     }
   ]
 }
