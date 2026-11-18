@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-18T04:34:29+00:00",
-  "as_of_local": "2026-11-18 04:34:29 UTC",
+  "as_of_utc": "2026-11-18T04:44:55+00:00",
+  "as_of_local": "2026-11-18 04:44:55 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "ETR"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -871,6 +869,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/better-dividend-stock-retirees-oneok-141109612.html",
           "publisher": "TIKR",
           "published": "2026-11-16T14:11:09Z"
+        }
+      ]
+    },
+    {
+      "symbol": "ETR",
+      "name": "Entergy",
+      "price": 107.57,
+      "previous_close": 110.22,
+      "change_pct": -2.4,
+      "market_cap": 51399863260.148735,
+      "headlines": [
+        {
+          "title": "3 Defensive Dividend Stocks Retail Investors Are Watching For Reliable Income",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-defensive-dividend-stocks-retail-031358883.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-14T03:13:58Z"
+        },
+        {
+          "title": "Consolidated Edison or Entergy: Only One Gets My Dividend Dollars for the Next 20 Years",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/consolidated-edison-entergy-only-one-174110123.html",
+          "publisher": "TIKR",
+          "published": "2026-11-13T17:41:10Z"
+        },
+        {
+          "title": "ETFs Are Net Sellers of Entergy (ETR) on Nov. 11",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-entergy-etr-110242034.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-13T11:02:42Z"
         }
       ]
     },
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 84.98,
-      "change_pct": -0.86
+      "price": 84.9,
+      "change_pct": -0.96
     },
     {
       "label": "Brent",
-      "price": 92.67,
-      "change_pct": 0.25
+      "price": 92.7,
+      "change_pct": 0.28
     },
     {
       "label": "NatGas",
       "price": 3.17,
-      "change_pct": 1.67
+      "change_pct": 1.6
     }
   ]
 }
