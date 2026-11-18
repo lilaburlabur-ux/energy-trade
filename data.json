@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-18T22:10:31+00:00",
-  "as_of_local": "2026-11-18 22:10:31 UTC",
+  "as_of_utc": "2026-11-18T22:15:21+00:00",
+  "as_of_local": "2026-11-18 22:15:21 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "APA"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1379,6 +1377,34 @@
       ]
     },
     {
+      "symbol": "APA",
+      "name": "APA Corp",
+      "price": 45.52,
+      "previous_close": 46.88,
+      "change_pct": -2.9,
+      "market_cap": 15283613501.296902,
+      "headlines": [
+        {
+          "title": "5 Oil and Gas Stocks That Crushed Third-Quarter Earnings Estimates",
+          "url": "https://finance.yahoo.com/energy/articles/5-oil-gas-stocks-crushed-010000263.html",
+          "publisher": "Oilprice.com",
+          "published": "2026-11-18T01:00:00Z"
+        },
+        {
+          "title": "SLB Expands Norway Footprint With Var Energi Offshore Drilling Deal",
+          "url": "https://finance.yahoo.com/energy/articles/slb-expands-norway-footprint-var-142200521.html",
+          "publisher": "Zacks",
+          "published": "2026-11-17T14:22:00Z"
+        },
+        {
+          "title": "What Is Devon Getting For All That Spending?",
+          "url": "https://finance.yahoo.com/energy/articles/devon-getting-spending-161308023.html",
+          "publisher": "Trefis",
+          "published": "2026-11-16T16:13:08Z"
+        }
+      ]
+    },
+    {
       "symbol": "NXT",
       "name": "Nextracker",
       "price": 78.41,
@@ -2089,8 +2115,8 @@
     },
     {
       "label": "WTI",
-      "price": 81.88,
-      "change_pct": -4.8
+      "price": 81.89,
+      "change_pct": -4.79
     },
     {
       "label": "Brent",
@@ -2100,7 +2126,7 @@
     {
       "label": "NatGas",
       "price": 3.38,
-      "change_pct": 5.21
+      "change_pct": 5.27
     }
   ]
 }
