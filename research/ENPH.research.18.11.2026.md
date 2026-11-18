@@ -4,8 +4,8 @@ Signed file: `ENPH.research.18.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $23.06 (2026-11-18, ~15-min delayed) |
-| Market cap | $3.05B |
+| Current price | $22.44 (2026-11-18, ~15-min delayed) |
+| Market cap | $2.97B |
 | Sector / Industry | Technology / Solar |
 | Main theme | Solar — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: high. |
@@ -15,10 +15,10 @@ Signed file: `ENPH.research.18.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-42.83%) with negative half-year (-50.68%). |
-| Fresh setup quality | Poor / broken | -68.12% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-44.26%) with negative half-year (-57.78%). |
+| Fresh setup quality | Poor / broken | -68.98% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 7.49%, revenue growth -28.50%. |
-| Value attractiveness | Reasonable | Forward P/E 17.34, EV/Sales 2.26. |
+| Value attractiveness | Reasonable | Forward P/E 16.87, EV/Sales 2.26. |
 | Risk level | High | Beta 1.45, ATR 9.0% of price, short float 24.85%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: high.
@@ -36,30 +36,30 @@ Enphase Energy, Inc., together with its subsidiaries, designs, develops, manufac
 
 | Headline | Source | Date |
 |---|---|---|
-| First Solar and Enphase Fall 5% as Solar Selloff Stretches On; SolarEdge Drops 4% | 24/7 Wall St. | 2026-11-17 |
-| BE Stock Falls Overnight: Retail Flags Valuation Concerns As Forward P/E Nears 18-Month Low | Stocktwits | 2026-11-16 |
-| How Low Can First Solar Stock Go? | Trefis | 2026-11-13 |
-| Enphase Energy, Inc. (ENPH) is Attracting Investor Attention: Here is What You Should Know | Zacks | 2026-11-13 |
+| Why You Need To Pay Attention To Nextpower Stock | Trefis | 2026-11-18 |
+| Did The Market Read First Solar Stock Right? | Trefis | 2026-11-18 |
+| Why Did Nextpower Stock Fall? | Trefis | 2026-11-18 |
+| Enphase Energy (ENPH) Hits New Record Low. Why Investors Are Losing Confidence | Insider Monkey | 2026-11-18 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $23.06; 52w high $72.33 (-68.12%); 52w low $23.06 (+0.00%) |
-| Trend | -42.83% vs SMA200, -26.45% vs SMA50, -18.34% vs SMA20 |
-| Momentum | RSI(14) 31.5 (neutral) |
-| Volatility | ATR(14) 2.07 (~9.0% of price); beta 1.45 |
-| Setup perspective | -68.12% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $22.44; 52w high $72.33 (-68.98%); 52w low $22.44 (+0.00%) |
+| Trend | -44.26% vs SMA200, -27.77% vs SMA50, -19.17% vs SMA20 |
+| Momentum | RSI(14) 30.3 (neutral) |
+| Volatility | ATR(14) 2.02 (~9.0% of price); beta 1.45 |
+| Setup perspective | -68.98% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -16.6% |
-| Month | -24.7% |
-| Quarter | -41.4% |
-| Half Y | -50.7% |
-| 1Y | -19.6% |
-| YTD | -31.7% |
+| Week | -20.7% |
+| Month | -30.4% |
+| Quarter | -41.5% |
+| Half Y | -57.8% |
+| 1Y | -18.5% |
+| YTD | -33.5% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ Enphase Energy, Inc., together with its subsidiaries, designs, develops, manufac
 | Revenue (ttm) | $1.21B | Revenue growth -28.50% y/y |
 | Profitability | Gross 24.10%, operating 0.65%, net 7.49% | ROA 0.16%, ROE 8.11% |
 | Balance sheet | Cash $931.85M, debt $614.56M | Current ratio 4.09, debt/equity 49.48 |
-| Valuation | P/E 34.42, forward P/E 17.34, P/S 2.52, P/B 2.46 | EV/Sales 2.26, EV/EBITDA 32.55 |
+| Valuation | P/E 33.49, forward P/E 16.87, P/S 2.45, P/B 2.39 | EV/Sales 2.26, EV/EBITDA 32.55 |
 | Growth expectations | Earnings growth -65.20%, EPS q/q -64.90% | Analyst mean target $39.42 (25 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 92.59% |
+| Institutional ownership | 92.56% |
 | Insider ownership | 3.08% |
 | Short float | 24.85% |
 | Short ratio (days to cover) | 4.2 |
@@ -112,21 +112,21 @@ Enphase Energy, Inc., together with its subsidiaries, designs, develops, manufac
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $23.06 | EV/Sales | 2.26 |
-| Market cap | $3.05B | EV/EBITDA | 32.55 |
+| Price | $22.44 | EV/Sales | 2.26 |
+| Market cap | $2.97B | EV/EBITDA | 32.55 |
 | Beta | 1.45 | Gross margin | 24.10% |
-| RSI(14) | 31.5 | Operating margin | 0.65% |
-| ATR(14) | 2.07 | Profit margin | 7.49% |
-| SMA20 dist | -18.34% | ROA | 0.16% |
-| SMA50 dist | -26.45% | ROE | 8.11% |
-| SMA200 dist | -42.83% | Revenue (ttm) | $1.21B |
+| RSI(14) | 30.3 | Operating margin | 0.65% |
+| ATR(14) | 2.02 | Profit margin | 7.49% |
+| SMA20 dist | -19.17% | ROA | 0.16% |
+| SMA50 dist | -27.77% | ROE | 8.11% |
+| SMA200 dist | -44.26% | Revenue (ttm) | $1.21B |
 | 52W high | $72.33 | Revenue growth y/y | -28.50% |
-| 52W low | $23.06 | Inst. ownership | 92.59% |
-| P/E (ttm) | 34.42 | Insider ownership | 3.08% |
-| Forward P/E | 17.34 | Short float | 24.85% |
-| PEG (trailing) | 0.75 | Avg volume | 5,742,371 |
-| P/S | 2.52 | Employees | 2,872 |
-| P/B | 2.46 | Analyst rec (1=buy..5=sell) | 2.4 |
+| 52W low | $22.44 | Inst. ownership | 92.56% |
+| P/E (ttm) | 33.49 | Insider ownership | 3.08% |
+| Forward P/E | 16.87 | Short float | 24.85% |
+| PEG (trailing) | 0.75 | Avg volume | 5,782,525 |
+| P/S | 2.45 | Employees | 2,872 |
+| P/B | 2.39 | Analyst rec (1=buy..5=sell) | 2.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

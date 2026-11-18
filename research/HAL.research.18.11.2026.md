@@ -4,8 +4,8 @@ Signed file: `HAL.research.18.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $31.97 (2026-11-18, ~15-min delayed) |
-| Market cap | $26.44B |
+| Current price | $31.67 (2026-11-18, ~15-min delayed) |
+| Market cap | $26.20B |
 | Sector / Industry | Energy / Oil & Gas Equipment & Services |
 | Main theme | Oil & Gas Equipment & Services — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
@@ -15,11 +15,11 @@ Signed file: `HAL.research.18.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-10.20%) with negative half-year (-24.95%). |
-| Fresh setup quality | Moderate / wait | -24.95% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-11.00%) with negative half-year (-24.45%). |
+| Fresh setup quality | Poor / broken | -25.65% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 8.90%, revenue growth 1.80%. |
-| Value attractiveness | Reasonable | Forward P/E 10.89, EV/Sales 1.46. |
-| Risk level | Elevated | Beta 0.75, ATR 3.5% of price, short float 5.39%. |
+| Value attractiveness | Reasonable | Forward P/E 10.79, EV/Sales 1.46. |
+| Risk level | Elevated | Beta 0.75, ATR 3.4% of price, short float 5.39%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
 
@@ -36,30 +36,30 @@ Halliburton Company provides products and services to the energy industry worldw
 
 | Headline | Source | Date |
 |---|---|---|
+| A $6.9 Billion Fund Dumps These 3 Stocks | TIKR | 2026-11-18 |
 | Halliburton (HAL) Has Fresh Attention, But What Is The Market Weighing? | Simply Wall St. | 2026-11-18 |
 | Halliburton Targets Egypt Growth With Proposed 50-Well Program | Zacks | 2026-11-17 |
 | IMO Q3 Earnings Beat on Refining Strength, Revenues Miss | Zacks | 2026-11-17 |
-| RIG Q3 Earnings Miss Estimates as Rig Utilization Falls | Zacks | 2026-11-16 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $31.97; 52w high $42.60 (-24.95%); 52w low $25.11 (+27.31%) |
-| Trend | -10.20% vs SMA200, -4.50% vs SMA50, -5.15% vs SMA20 |
-| Momentum | RSI(14) 41.5 (neutral) |
-| Volatility | ATR(14) 1.10 (~3.5% of price); beta 0.75 |
-| Setup perspective | -24.95% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $31.67; 52w high $42.60 (-25.65%); 52w low $25.11 (+26.14%) |
+| Trend | -11.00% vs SMA200, -5.07% vs SMA50, -5.70% vs SMA20 |
+| Momentum | RSI(14) 39.9 (neutral) |
+| Volatility | ATR(14) 1.08 (~3.4% of price); beta 0.75 |
+| Setup perspective | -25.65% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +0.3% |
-| Month | -3.1% |
-| Quarter | -8.3% |
-| Half Y | -25.0% |
-| 1Y | +19.5% |
-| YTD | +9.5% |
+| Week | -3.8% |
+| Month | -5.7% |
+| Quarter | -10.8% |
+| Half Y | -24.5% |
+| 1Y | +21.4% |
+| YTD | +8.5% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ Halliburton Company provides products and services to the energy industry worldw
 | Revenue (ttm) | $22.48B | Revenue growth 1.80% y/y |
 | Profitability | Gross 14.82%, operating 13.18%, net 8.90% | ROA 7.23%, ROE 18.78% |
 | Balance sheet | Cash $1.84B, debt $8.20B | Current ratio 2.02, debt/equity 73.45 |
-| Valuation | P/E 13.66, forward P/E 10.89, P/S 1.18, P/B 2.38 | EV/Sales 1.46, EV/EBITDA 7.93 |
+| Valuation | P/E 13.31, forward P/E 10.79, P/S 1.17, P/B 2.36 | EV/Sales 1.46, EV/EBITDA 7.93 |
 | Growth expectations | Earnings growth 2400.00%, EPS q/q 2216.70% | Analyst mean target $43.56 (25 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 91.28% |
+| Institutional ownership | 91.32% |
 | Insider ownership | 0.40% |
 | Short float | 5.39% |
 | Short ratio (days to cover) | 3.2 |
@@ -95,8 +95,9 @@ Halliburton Company provides products and services to the energy industry worldw
 | Invesco Ltd. | 12,620,812 | 1.53% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 0.75, ATR 3.5% of price, short float 5.39%. Size positions accordingly.
+- **Volatility risk:** Beta 0.75, ATR 3.4% of price, short float 5.39%. Size positions accordingly.
 - **Short interest risk:** short float 5.39% can fuel squeezes both ways around news.
+- **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -111,21 +112,21 @@ Halliburton Company provides products and services to the energy industry worldw
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $31.97 | EV/Sales | 1.46 |
-| Market cap | $26.44B | EV/EBITDA | 7.93 |
+| Price | $31.67 | EV/Sales | 1.46 |
+| Market cap | $26.20B | EV/EBITDA | 7.93 |
 | Beta | 0.75 | Gross margin | 14.82% |
-| RSI(14) | 41.5 | Operating margin | 13.18% |
-| ATR(14) | 1.10 | Profit margin | 8.90% |
-| SMA20 dist | -5.15% | ROA | 7.23% |
-| SMA50 dist | -4.50% | ROE | 18.78% |
-| SMA200 dist | -10.20% | Revenue (ttm) | $22.48B |
+| RSI(14) | 39.9 | Operating margin | 13.18% |
+| ATR(14) | 1.08 | Profit margin | 8.90% |
+| SMA20 dist | -5.70% | ROA | 7.23% |
+| SMA50 dist | -5.07% | ROE | 18.78% |
+| SMA200 dist | -11.00% | Revenue (ttm) | $22.48B |
 | 52W high | $42.60 | Revenue growth y/y | 1.80% |
-| 52W low | $25.11 | Inst. ownership | 91.28% |
-| P/E (ttm) | 13.66 | Insider ownership | 0.40% |
-| Forward P/E | 10.89 | Short float | 5.39% |
-| PEG (trailing) | 0.66 | Avg volume | 10,369,981 |
-| P/S | 1.18 | Employees | 46,000 |
-| P/B | 2.38 | Analyst rec (1=buy..5=sell) | 1.7 |
+| 52W low | $25.11 | Inst. ownership | 91.32% |
+| P/E (ttm) | 13.31 | Insider ownership | 0.40% |
+| Forward P/E | 10.79 | Short float | 5.39% |
+| PEG (trailing) | 0.65 | Avg volume | 10,406,754 |
+| P/S | 1.17 | Employees | 46,000 |
+| P/B | 2.36 | Analyst rec (1=buy..5=sell) | 1.7 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

@@ -4,8 +4,8 @@ Signed file: `BKR.research.18.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $47.46 (2026-11-18, ~15-min delayed) |
-| Market cap | $47.13B |
+| Current price | $47.47 (2026-11-18, ~15-min delayed) |
+| Market cap | $47.14B |
 | Sector / Industry | Energy / Oil & Gas Equipment & Services |
 | Main theme | Oil & Gas Equipment & Services — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
@@ -15,11 +15,11 @@ Signed file: `BKR.research.18.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-20.12%) with negative half-year (-26.90%). |
-| Fresh setup quality | Poor / broken | -31.07% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-20.04%) with negative half-year (-28.32%). |
+| Fresh setup quality | Poor / broken | -31.06% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 10.08%, revenue growth 14.50%. |
-| Value attractiveness | Reasonable | Forward P/E 16.81, EV/Sales 2.10. |
-| Risk level | Elevated | Beta 1.06, ATR 4.2% of price, short float 2.79%. |
+| Value attractiveness | Reasonable | Forward P/E 16.87, EV/Sales 2.10. |
+| Risk level | Elevated | Beta 1.06, ATR 4.1% of price, short float 2.79%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
 
@@ -36,29 +36,29 @@ Baker Hughes Company provides a portfolio of technologies and services to energy
 
 | Headline | Source | Date |
 |---|---|---|
+| Baker Hughes & TPAO Partner on Next-Generation Geothermal in Turkiye | Zacks | 2026-11-18 |
+| Nextchem agrees to buy Chart’s LNG technologies for $220m | Offshore Technology | 2026-11-18 |
+| A CNH Industrial Director Who Runs Baker Hughes Just Bought $567,000 of Stock | TIKR | 2026-11-18 |
 | Bernstein upgrades Maire on de-risked projects, LNG technology growth potential | Investing.com | 2026-11-17 |
-| North America Adds Rigs WoW, BH Count Shows | Rigzone.com | 2026-11-16 |
-| C3.ai vs. SentinelOne: Which Technology Stock Is a Better Buy for 2027? | Motley Fool | 2026-11-14 |
-| Basin rig count up two as prices decline | Odessa American, Texas | 2026-11-14 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $47.46; 52w high $68.85 (-31.07%); 52w low $43.78 (+8.39%) |
-| Trend | -20.12% vs SMA200, -13.03% vs SMA50, -7.89% vs SMA20 |
+| Price vs 52-week range | Close $47.47; 52w high $68.85 (-31.06%); 52w low $43.78 (+8.42%) |
+| Trend | -20.04% vs SMA200, -12.50% vs SMA50, -7.12% vs SMA20 |
 | Momentum | RSI(14) 36.3 (neutral) |
-| Volatility | ATR(14) 1.97 (~4.2% of price); beta 1.06 |
-| Setup perspective | -31.07% from 52w high — base needs to rebuild. |
+| Volatility | ATR(14) 1.93 (~4.1% of price); beta 1.06 |
+| Setup perspective | -31.06% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -0.6% |
-| Month | -14.6% |
-| Quarter | -26.0% |
-| Half Y | -26.9% |
-| 1Y | -1.1% |
+| Week | -3.9% |
+| Month | -14.3% |
+| Quarter | -24.0% |
+| Half Y | -28.3% |
+| 1Y | +0.7% |
 | YTD | +2.3% |
 
 ## 4. Fundamental Analysis
@@ -68,8 +68,8 @@ Baker Hughes Company provides a portfolio of technologies and services to energy
 | Revenue (ttm) | $28.74B | Revenue growth 14.50% y/y |
 | Profitability | Gross 23.70%, operating 12.20%, net 10.08% | ROA 4.46%, ROE 15.06% |
 | Balance sheet | Cash $5.38B, debt $18.26B | Current ratio 1.24, debt/equity 88.83 |
-| Valuation | P/E 16.31, forward P/E 16.81, P/S 1.64, P/B 2.34 | EV/Sales 2.10, EV/EBITDA 12.04 |
-| Growth expectations | Earnings growth -32.80%, EPS q/q -32.50% | Analyst mean target $70.00 (24 analysts) |
+| Valuation | P/E 16.31, forward P/E 16.87, P/S 1.64, P/B 2.34 | EV/Sales 2.10, EV/EBITDA 12.04 |
+| Growth expectations | Earnings growth -32.80%, EPS q/q -32.50% | Analyst mean target $69.75 (24 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
@@ -95,7 +95,7 @@ Baker Hughes Company provides a portfolio of technologies and services to energy
 | Capital Research Global Investors | 23,638,093 | 2.85% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.06, ATR 4.2% of price, short float 2.79%. Size positions accordingly.
+- **Volatility risk:** Beta 1.06, ATR 4.1% of price, short float 2.79%. Size positions accordingly.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -111,19 +111,19 @@ Baker Hughes Company provides a portfolio of technologies and services to energy
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $47.46 | EV/Sales | 2.10 |
-| Market cap | $47.13B | EV/EBITDA | 12.04 |
+| Price | $47.47 | EV/Sales | 2.10 |
+| Market cap | $47.14B | EV/EBITDA | 12.04 |
 | Beta | 1.06 | Gross margin | 23.70% |
 | RSI(14) | 36.3 | Operating margin | 12.20% |
-| ATR(14) | 1.97 | Profit margin | 10.08% |
-| SMA20 dist | -7.89% | ROA | 4.46% |
-| SMA50 dist | -13.03% | ROE | 15.06% |
-| SMA200 dist | -20.12% | Revenue (ttm) | $28.74B |
+| ATR(14) | 1.93 | Profit margin | 10.08% |
+| SMA20 dist | -7.12% | ROA | 4.46% |
+| SMA50 dist | -12.50% | ROE | 15.06% |
+| SMA200 dist | -20.04% | Revenue (ttm) | $28.74B |
 | 52W high | $68.85 | Revenue growth y/y | 14.50% |
 | 52W low | $43.78 | Inst. ownership | 99.19% |
 | P/E (ttm) | 16.31 | Insider ownership | 0.51% |
-| Forward P/E | 16.81 | Short float | 2.79% |
-| PEG (trailing) | 1.41 | Avg volume | 8,049,959 |
+| Forward P/E | 16.87 | Short float | 2.79% |
+| PEG (trailing) | 1.35 | Avg volume | 8,052,934 |
 | P/S | 1.64 | Employees | 65,600 |
 | P/B | 2.34 | Analyst rec (1=buy..5=sell) | 1.6 |
 

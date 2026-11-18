@@ -4,8 +4,8 @@ Signed file: `PSX.research.18.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $256.93 (2026-11-18, ~15-min delayed) |
-| Market cap | $100.22B |
+| Current price | $245.03 (2026-11-18, ~15-min delayed) |
+| Market cap | $95.58B |
 | Sector / Industry | Energy / Oil & Gas Refining & Marketing |
 | Main theme | Oil & Gas Refining & Marketing — see catalysts below |
 | Current stance | High technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
@@ -15,11 +15,11 @@ Signed file: `PSX.research.18.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +85.88%; price +25.44% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -13.58% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +83.07%; price +19.33% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -17.58% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 7.48%, revenue growth 46.40%. |
-| Value attractiveness | Reasonable | Forward P/E 8.01, EV/Sales 0.68. |
-| Risk level | Elevated | Beta 0.67, ATR 3.9% of price, short float 2.19%. |
+| Value attractiveness | Reasonable | Forward P/E 7.64, EV/Sales 0.68. |
+| Risk level | Elevated | Beta 0.67, ATR 4.2% of price, short float 2.19%. |
 
 **Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
 
@@ -36,30 +36,30 @@ Phillips 66 operates as an integrated downstream energy provider in the United S
 
 | Headline | Source | Date |
 |---|---|---|
+| A $6.9 Billion Fund Dumps These 3 Stocks | TIKR | 2026-11-18 |
+| Is Chevron Stock Increasing Your Market Risk? | Trefis | 2026-11-18 |
+| State Street Energy Select SPDR (XLE) Sells $149.9 Million of Exxon on Monday | GuruFocus.com | 2026-11-18 |
 | 5 Oil and Gas Stocks That Crushed Third-Quarter Earnings Estimates | Oilprice.com | 2026-11-18 |
-| Phillips 66 and Valero Are Turning Strong Refining Margins Into Bigger Dividends | 24/7 Wall St. | 2026-11-17 |
-| Is Chevron Stock Overpriced Versus Its Oil Rivals? | Trefis | 2026-11-17 |
-| Trading at just 8x P/E with 464% EPS growth: Is Valero a bargain? | Investing.com | 2026-11-17 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $256.93; 52w high $297.29 (-13.58%); 52w low $125.13 (+105.33%) |
-| Trend | +25.44% vs SMA200, -4.47% vs SMA50, -4.00% vs SMA20 |
-| Momentum | RSI(14) 43.5 (neutral) |
-| Volatility | ATR(14) 9.97 (~3.9% of price); beta 0.67 |
-| Setup perspective | -13.58% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $245.03; 52w high $297.29 (-17.58%); 52w low $125.13 (+95.82%) |
+| Trend | +19.33% vs SMA200, -8.79% vs SMA50, -7.67% vs SMA20 |
+| Momentum | RSI(14) 37.0 (neutral) |
+| Volatility | ATR(14) 10.28 (~4.2% of price); beta 0.67 |
+| Setup perspective | -17.58% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +2.5% |
-| Month | -11.6% |
-| Quarter | +6.0% |
-| Half Y | +41.6% |
-| 1Y | +85.9% |
-| YTD | +100.9% |
+| Week | -5.3% |
+| Month | -15.8% |
+| Quarter | +2.1% |
+| Half Y | +37.4% |
+| 1Y | +83.1% |
+| YTD | +91.6% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ Phillips 66 operates as an integrated downstream energy provider in the United S
 | Revenue (ttm) | $168.19B | Revenue growth 46.40% y/y |
 | Profitability | Gross 15.08%, operating 8.20%, net 7.48% | ROA 10.64%, ROE 39.84% |
 | Balance sheet | Cash $5.85B, debt $18.53B | Current ratio 1.34, debt/equity 52.19 |
-| Valuation | P/E 8.24, forward P/E 8.01, P/S 0.60, P/B 2.92 | EV/Sales 0.68, EV/EBITDA 7.42 |
+| Valuation | P/E 7.86, forward P/E 7.64, P/S 0.57, P/B 2.78 | EV/Sales 0.68, EV/EBITDA 7.42 |
 | Growth expectations | Earnings growth 4299.00%, EPS q/q 4122.60% | Analyst mean target $290.53 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 80.25% |
+| Institutional ownership | 80.26% |
 | Insider ownership | 0.24% |
 | Short float | 2.19% |
 | Short ratio (days to cover) | 3.0 |
@@ -95,7 +95,7 @@ Phillips 66 operates as an integrated downstream energy provider in the United S
 | Wellington Management Group, LLP | 5,130,195 | 1.32% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 0.67, ATR 3.9% of price, short float 2.19%. Size positions accordingly.
+- **Volatility risk:** Beta 0.67, ATR 4.2% of price, short float 2.19%. Size positions accordingly.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -110,21 +110,21 @@ Phillips 66 operates as an integrated downstream energy provider in the United S
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $256.93 | EV/Sales | 0.68 |
-| Market cap | $100.22B | EV/EBITDA | 7.42 |
+| Price | $245.03 | EV/Sales | 0.68 |
+| Market cap | $95.58B | EV/EBITDA | 7.42 |
 | Beta | 0.67 | Gross margin | 15.08% |
-| RSI(14) | 43.5 | Operating margin | 8.20% |
-| ATR(14) | 9.97 | Profit margin | 7.48% |
-| SMA20 dist | -4.00% | ROA | 10.64% |
-| SMA50 dist | -4.47% | ROE | 39.84% |
-| SMA200 dist | +25.44% | Revenue (ttm) | $168.19B |
+| RSI(14) | 37.0 | Operating margin | 8.20% |
+| ATR(14) | 10.28 | Profit margin | 7.48% |
+| SMA20 dist | -7.67% | ROA | 10.64% |
+| SMA50 dist | -8.79% | ROE | 39.84% |
+| SMA200 dist | +19.33% | Revenue (ttm) | $168.19B |
 | 52W high | $297.29 | Revenue growth y/y | 46.40% |
-| 52W low | $125.13 | Inst. ownership | 80.25% |
-| P/E (ttm) | 8.24 | Insider ownership | 0.24% |
-| Forward P/E | 8.01 | Short float | 2.19% |
-| PEG (trailing) | 0.67 | Avg volume | 2,980,043 |
-| P/S | 0.60 | Employees | 12,600 |
-| P/B | 2.92 | Analyst rec (1=buy..5=sell) | 2.1 |
+| 52W low | $125.13 | Inst. ownership | 80.26% |
+| P/E (ttm) | 7.86 | Insider ownership | 0.24% |
+| Forward P/E | 7.64 | Short float | 2.19% |
+| PEG (trailing) | 0.67 | Avg volume | 2,984,273 |
+| P/S | 0.57 | Employees | 12,600 |
+| P/B | 2.78 | Analyst rec (1=buy..5=sell) | 2.1 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

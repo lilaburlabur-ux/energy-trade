@@ -15,11 +15,11 @@ Signed file: `AR.research.18.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-0.57%) with negative half-year (-5.52%). |
+| Technical momentum | Low | Below SMA200 (-0.61%) with negative half-year (-3.03%). |
 | Fresh setup quality | Moderate / wait | -18.43% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 22.98%, revenue growth 17.10%. |
 | Value attractiveness | Reasonable | Forward P/E 8.18, EV/Sales —. |
-| Risk level | Elevated | Beta 0.48, ATR 3.8% of price, short float 4.15%. |
+| Risk level | Elevated | Beta 0.48, ATR 3.7% of price, short float 4.15%. |
 
 **Bottom line:** Low technical momentum, strong fundamentals, value: reasonable, risk: elevated.
 
@@ -45,20 +45,20 @@ Antero Resources Corporation, an independent oil and natural gas company, engage
 | Technical item | Read |
 |---|---|
 | Price vs 52-week range | Close $36.83; 52w high $45.15 (-18.43%); 52w low $31.38 (+17.37%) |
-| Trend | -0.57% vs SMA200, -1.37% vs SMA50, -5.73% vs SMA20 |
+| Trend | -0.61% vs SMA200, -1.25% vs SMA50, -5.53% vs SMA20 |
 | Momentum | RSI(14) 43.4 (neutral) |
-| Volatility | ATR(14) 1.39 (~3.8% of price); beta 0.48 |
+| Volatility | ATR(14) 1.35 (~3.7% of price); beta 0.48 |
 | Setup perspective | -18.43% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -2.1% |
+| Week | -3.6% |
 | Month | -5.2% |
-| Quarter | -0.6% |
-| Half Y | -5.5% |
-| 1Y | +7.2% |
+| Quarter | -2.2% |
+| Half Y | -3.0% |
+| 1Y | +9.5% |
 | YTD | +7.7% |
 
 ## 4. Fundamental Analysis
@@ -69,12 +69,12 @@ Antero Resources Corporation, an independent oil and natural gas company, engage
 | Profitability | Gross 68.28%, operating 29.32%, net 22.98% | ROA 7.69%, ROE 17.39% |
 | Balance sheet | Cash —, debt $4.65B | Current ratio 0.39, debt/equity 53.84 |
 | Valuation | P/E 8.31, forward P/E 8.18, P/S 1.89, P/B 1.31 | EV/Sales —, EV/EBITDA — |
-| Growth expectations | Earnings growth 395.80%, EPS q/q 381.90% | Analyst mean target $50.14 (22 analysts) |
+| Growth expectations | Earnings growth 395.80%, EPS q/q 381.90% | Analyst mean target $50.18 (22 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 92.99% |
+| Institutional ownership | 92.96% |
 | Insider ownership | 4.41% |
 | Short float | 4.15% |
 | Short ratio (days to cover) | 2.8 |
@@ -95,7 +95,7 @@ Antero Resources Corporation, an independent oil and natural gas company, engage
 | Geode Capital Management, LLC | 5,988,401 | 1.95% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 0.48, ATR 3.8% of price, short float 4.15%. Size positions accordingly.
+- **Volatility risk:** Beta 0.48, ATR 3.7% of price, short float 4.15%. Size positions accordingly.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -114,15 +114,15 @@ Antero Resources Corporation, an independent oil and natural gas company, engage
 | Market cap | $11.31B | EV/EBITDA | — |
 | Beta | 0.48 | Gross margin | 68.28% |
 | RSI(14) | 43.4 | Operating margin | 29.32% |
-| ATR(14) | 1.39 | Profit margin | 22.98% |
-| SMA20 dist | -5.73% | ROA | 7.69% |
-| SMA50 dist | -1.37% | ROE | 17.39% |
-| SMA200 dist | -0.57% | Revenue (ttm) | $5.98B |
+| ATR(14) | 1.35 | Profit margin | 22.98% |
+| SMA20 dist | -5.53% | ROA | 7.69% |
+| SMA50 dist | -1.25% | ROE | 17.39% |
+| SMA200 dist | -0.61% | Revenue (ttm) | $5.98B |
 | 52W high | $45.15 | Revenue growth y/y | 17.10% |
-| 52W low | $31.38 | Inst. ownership | 92.99% |
+| 52W low | $31.38 | Inst. ownership | 92.96% |
 | P/E (ttm) | 8.31 | Insider ownership | 4.41% |
 | Forward P/E | 8.18 | Short float | 4.15% |
-| PEG (trailing) | 0.37 | Avg volume | 4,026,596 |
+| PEG (trailing) | 0.36 | Avg volume | 4,021,407 |
 | P/S | 1.89 | Employees | 632 |
 | P/B | 1.31 | Analyst rec (1=buy..5=sell) | 1.7 |
 

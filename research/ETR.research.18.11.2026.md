@@ -4,8 +4,8 @@ Signed file: `ETR.research.18.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $107.57 (2026-11-18, ~15-min delayed) |
-| Market cap | $51.40B |
+| Current price | $108.46 (2026-11-18, ~15-min delayed) |
+| Market cap | $51.83B |
 | Sector / Industry | Utilities / Utilities - Regulated Electric |
 | Main theme | Utilities - Regulated Electric — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: fair-to-demanding, risk: moderate. |
@@ -15,10 +15,10 @@ Signed file: `ETR.research.18.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +15.93%; price +0.38% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -7.23% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +16.29%; price +1.14% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -6.46% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 14.56%, revenue growth 14.50%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 21.03, EV/Sales 5.87. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 21.21, EV/Sales 5.87. |
 | Risk level | Moderate | Beta 0.43, ATR 1.8% of price, short float 3.92%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: fair-to-demanding, risk: moderate.
@@ -36,30 +36,30 @@ Entergy Corporation, together with its subsidiaries, engages in the production a
 
 | Headline | Source | Date |
 |---|---|---|
+| Do Wall Street Analysts Like Entergy Stock? | Barchart | 2026-11-18 |
 | 3 Defensive Dividend Stocks Retail Investors Are Watching For Reliable Income | Simply Wall St. | 2026-11-14 |
 | Consolidated Edison or Entergy: Only One Gets My Dividend Dollars for the Next 20 Years | TIKR | 2026-11-13 |
 | ETFs Are Net Sellers of Entergy (ETR) on Nov. 11 | GuruFocus.com | 2026-11-13 |
-| These Energy Stocks Can’t Escape Nvidia’s Wake | Barrons.com | 2026-11-12 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $107.57; 52w high $115.95 (-7.23%); 52w low $89.02 (+20.83%) |
-| Trend | +0.38% vs SMA200, +2.71% vs SMA50, -1.41% vs SMA20 |
-| Momentum | RSI(14) 48.1 (neutral) |
+| Price vs 52-week range | Close $108.46; 52w high $115.95 (-6.46%); 52w low $89.02 (+21.83%) |
+| Trend | +1.14% vs SMA200, +3.52% vs SMA50, -0.73% vs SMA20 |
+| Momentum | RSI(14) 51.6 (neutral) |
 | Volatility | ATR(14) 1.99 (~1.8% of price); beta 0.43 |
-| Setup perspective | -7.23% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -6.46% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -3.1% |
-| Month | +4.3% |
-| Quarter | +0.2% |
-| Half Y | -1.5% |
-| 1Y | +15.9% |
-| YTD | +17.4% |
+| Week | -2.6% |
+| Month | +3.8% |
+| Quarter | +1.7% |
+| Half Y | -1.9% |
+| 1Y | +16.3% |
+| YTD | +18.4% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ Entergy Corporation, together with its subsidiaries, engages in the production a
 | Revenue (ttm) | $14.04B | Revenue growth 14.50% y/y |
 | Profitability | Gross 47.93%, operating 25.01%, net 14.56% | ROA 2.89%, ROE 11.02% |
 | Balance sheet | Cash $4.21B, debt $34.81B | Current ratio 1.18, debt/equity 173.10 |
-| Valuation | P/E 24.62, forward P/E 21.03, P/S 3.66, P/B 2.60 | EV/Sales 5.87, EV/EBITDA 13.91 |
+| Valuation | P/E 24.82, forward P/E 21.21, P/S 3.69, P/B 2.62 | EV/Sales 5.87, EV/EBITDA 13.91 |
 | Growth expectations | Earnings growth 29.40%, EPS q/q 35.50% | Analyst mean target $120.76 (21 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 97.73% |
+| Institutional ownership | 97.75% |
 | Insider ownership | 0.36% |
 | Short float | 3.92% |
 | Short ratio (days to cover) | 6.2 |
@@ -95,7 +95,7 @@ Entergy Corporation, together with its subsidiaries, engages in the production a
 | Franklin Templeton, Inc. | 9,231,221 | 1.93% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 21.03, EV/Sales 5.87. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 21.21, EV/Sales 5.87. Multiple compression is the main downside if growth disappoints.
 - **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -111,21 +111,21 @@ Entergy Corporation, together with its subsidiaries, engages in the production a
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $107.57 | EV/Sales | 5.87 |
-| Market cap | $51.40B | EV/EBITDA | 13.91 |
+| Price | $108.46 | EV/Sales | 5.87 |
+| Market cap | $51.83B | EV/EBITDA | 13.91 |
 | Beta | 0.43 | Gross margin | 47.93% |
-| RSI(14) | 48.1 | Operating margin | 25.01% |
+| RSI(14) | 51.6 | Operating margin | 25.01% |
 | ATR(14) | 1.99 | Profit margin | 14.56% |
-| SMA20 dist | -1.41% | ROA | 2.89% |
-| SMA50 dist | +2.71% | ROE | 11.02% |
-| SMA200 dist | +0.38% | Revenue (ttm) | $14.04B |
+| SMA20 dist | -0.73% | ROA | 2.89% |
+| SMA50 dist | +3.52% | ROE | 11.02% |
+| SMA200 dist | +1.14% | Revenue (ttm) | $14.04B |
 | 52W high | $115.95 | Revenue growth y/y | 14.50% |
-| 52W low | $89.02 | Inst. ownership | 97.73% |
-| P/E (ttm) | 24.62 | Insider ownership | 0.36% |
-| Forward P/E | 21.03 | Short float | 3.92% |
-| PEG (trailing) | 1.69 | Avg volume | 2,915,362 |
-| P/S | 3.66 | Employees | 12,233 |
-| P/B | 2.60 | Analyst rec (1=buy..5=sell) | 1.7 |
+| 52W low | $89.02 | Inst. ownership | 97.75% |
+| P/E (ttm) | 24.82 | Insider ownership | 0.36% |
+| Forward P/E | 21.21 | Short float | 3.92% |
+| PEG (trailing) | 1.65 | Avg volume | 2,936,915 |
+| P/S | 3.69 | Employees | 12,233 |
+| P/B | 2.62 | Analyst rec (1=buy..5=sell) | 1.7 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

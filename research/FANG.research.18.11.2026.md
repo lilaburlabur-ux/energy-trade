@@ -4,8 +4,8 @@ Signed file: `FANG.research.18.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $177.07 (2026-11-18, ~15-min delayed) |
-| Market cap | $49.43B |
+| Current price | $175.48 (2026-11-18, ~15-min delayed) |
+| Market cap | $48.99B |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
@@ -15,11 +15,11 @@ Signed file: `FANG.research.18.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-6.27%) with negative half-year (-13.74%). |
-| Fresh setup quality | Moderate / wait | -15.96% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-7.15%) with negative half-year (-13.08%). |
+| Fresh setup quality | Moderate / wait | -16.71% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 11.62%, revenue growth 32.00%. |
-| Value attractiveness | Reasonable | Forward P/E 8.13, EV/Sales 3.87. |
-| Risk level | Elevated | Beta 0.47, ATR 3.5% of price, short float 3.69%. |
+| Value attractiveness | Reasonable | Forward P/E 8.11, EV/Sales 3.87. |
+| Risk level | Elevated | Beta 0.47, ATR 3.4% of price, short float 3.69%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
 
@@ -36,30 +36,30 @@ Diamondback Energy, Inc., an independent oil and natural gas company, acquires, 
 
 | Headline | Source | Date |
 |---|---|---|
-| Do Wall Street Analysts Like Diamondback Energy Stock? | Barchart | 2026-11-17 |
-| What Occidental's Debt Cut Means For Its Stock | Trefis | 2026-11-17 |
-| Diamondback to acquire Double Eagle Midland Basin assets | Offshore Technology | 2026-11-17 |
-| Diamondback Energy (FANG) Makes A $5 Billion Midland Basin Bet | Simply Wall St. | 2026-11-17 |
+| Bernstein sees gas supercycle intact after Diamondback deal | Investing.com | 2026-11-18 |
+| Why You Should Think About Occidental Petroleum Differently Now | Trefis | 2026-11-18 |
+| TRP Q3 Earnings Beat Estimates on Strong Pipeline Performance | Zacks | 2026-11-18 |
+| Is Permian Resources Spending Too Much? | Trefis | 2026-11-18 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $177.07; 52w high $210.70 (-15.96%); 52w low $137.19 (+29.07%) |
-| Trend | -6.27% vs SMA200, -7.58% vs SMA50, -7.10% vs SMA20 |
-| Momentum | RSI(14) 37.1 (neutral) |
-| Volatility | ATR(14) 6.11 (~3.5% of price); beta 0.47 |
-| Setup perspective | -15.96% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $175.48; 52w high $210.70 (-16.71%); 52w low $137.19 (+27.91%) |
+| Trend | -7.15% vs SMA200, -8.17% vs SMA50, -7.35% vs SMA20 |
+| Momentum | RSI(14) 35.8 (neutral) |
+| Volatility | ATR(14) 5.99 (~3.4% of price); beta 0.47 |
+| Setup perspective | -16.71% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +0.1% |
-| Month | -12.3% |
-| Quarter | -14.5% |
-| Half Y | -13.7% |
-| 1Y | +21.5% |
-| YTD | +19.0% |
+| Week | -2.4% |
+| Month | -12.7% |
+| Quarter | -16.3% |
+| Half Y | -13.1% |
+| 1Y | +22.7% |
+| YTD | +17.9% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ Diamondback Energy, Inc., an independent oil and natural gas company, acquires, 
 | Revenue (ttm) | $17.66B | Revenue growth 32.00% y/y |
 | Profitability | Gross 73.62%, operating 13.88%, net 11.62% | ROA 2.07%, ROE 4.86% |
 | Balance sheet | Cash $558.00M, debt $13.23B | Current ratio 0.55, debt/equity 29.31 |
-| Valuation | P/E 23.83, forward P/E 8.13, P/S 2.80, P/B 1.27 | EV/Sales 3.87, EV/EBITDA 5.34 |
+| Valuation | P/E 23.62, forward P/E 8.11, P/S 2.77, P/B 1.26 | EV/Sales 3.87, EV/EBITDA 5.34 |
 | Growth expectations | Earnings growth 62.10%, EPS q/q 57.50% | Analyst mean target $238.52 (29 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 74.15% |
+| Institutional ownership | 74.06% |
 | Insider ownership | 23.96% |
 | Short float | 3.69% |
 | Short ratio (days to cover) | 3.6 |
@@ -95,7 +95,7 @@ Diamondback Energy, Inc., an independent oil and natural gas company, acquires, 
 | Bank Of New York Mellon Corporation | 4,541,720 | 1.63% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 0.47, ATR 3.5% of price, short float 3.69%. Size positions accordingly.
+- **Volatility risk:** Beta 0.47, ATR 3.4% of price, short float 3.69%. Size positions accordingly.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -110,21 +110,21 @@ Diamondback Energy, Inc., an independent oil and natural gas company, acquires, 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $177.07 | EV/Sales | 3.87 |
-| Market cap | $49.43B | EV/EBITDA | 5.34 |
+| Price | $175.48 | EV/Sales | 3.87 |
+| Market cap | $48.99B | EV/EBITDA | 5.34 |
 | Beta | 0.47 | Gross margin | 73.62% |
-| RSI(14) | 37.1 | Operating margin | 13.88% |
-| ATR(14) | 6.11 | Profit margin | 11.62% |
-| SMA20 dist | -7.10% | ROA | 2.07% |
-| SMA50 dist | -7.58% | ROE | 4.86% |
-| SMA200 dist | -6.27% | Revenue (ttm) | $17.66B |
+| RSI(14) | 35.8 | Operating margin | 13.88% |
+| ATR(14) | 5.99 | Profit margin | 11.62% |
+| SMA20 dist | -7.35% | ROA | 2.07% |
+| SMA50 dist | -8.17% | ROE | 4.86% |
+| SMA200 dist | -7.15% | Revenue (ttm) | $17.66B |
 | 52W high | $210.70 | Revenue growth y/y | 32.00% |
-| 52W low | $137.19 | Inst. ownership | 74.15% |
-| P/E (ttm) | 23.83 | Insider ownership | 23.96% |
-| Forward P/E | 8.13 | Short float | 3.69% |
-| PEG (trailing) | 1.08 | Avg volume | 2,472,973 |
-| P/S | 2.80 | Employees | 1,762 |
-| P/B | 1.27 | Analyst rec (1=buy..5=sell) | 1.5 |
+| 52W low | $137.19 | Inst. ownership | 74.06% |
+| P/E (ttm) | 23.62 | Insider ownership | 23.96% |
+| Forward P/E | 8.11 | Short float | 3.69% |
+| PEG (trailing) | 1.14 | Avg volume | 2,477,520 |
+| P/S | 2.77 | Employees | 1,762 |
+| P/B | 1.26 | Analyst rec (1=buy..5=sell) | 1.5 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

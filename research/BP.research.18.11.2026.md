@@ -4,8 +4,8 @@ Signed file: `BP.research.18.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $44.85 (2026-11-18, ~15-min delayed) |
-| Market cap | $115.52B |
+| Current price | $43.24 (2026-11-18, ~15-min delayed) |
+| Market cap | $111.38B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `BP.research.18.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +28.80%; price +5.49% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -11.60% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +24.29%; price +1.64% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -14.77% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 3.84%, revenue growth 41.40%. |
-| Value attractiveness | Reasonable | Forward P/E 7.32, EV/Sales 2.17. |
-| Risk level | Moderate | Beta -0.26, ATR 2.5% of price, short float 0.31%. |
+| Value attractiveness | Reasonable | Forward P/E 7.06, EV/Sales 2.17. |
+| Risk level | Moderate | Beta -0.26, ATR 2.7% of price, short float 0.31%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
@@ -36,30 +36,30 @@ BP p.l.c., an integrated energy company, engages in the oil and gas business wor
 
 | Headline | Source | Date |
 |---|---|---|
-| 3 Classic Value Stocks for Your Short List | Zacks | 2026-11-17 |
-| New Discoveries and Project Ramp-Ups Boost Eni's Growth Prospects | Zacks | 2026-11-17 |
-| Here's Why BP's Partial Aker BP Stake Sale Is a Timely Move | Zacks | 2026-11-17 |
-| Trading at just 8x P/E with 464% EPS growth: Is Valero a bargain? | Investing.com | 2026-11-17 |
+| A $6.9 Billion Fund Dumps These 3 Stocks | TIKR | 2026-11-18 |
+| Eni vs. BP: Which Energy Firm Offers a Stronger Investment Case? | Zacks | 2026-11-18 |
+| Enterprise Products or BP: The One Dividend Stock I’d Hold for the Next 10 Years | TIKR | 2026-11-18 |
+| Best Energy ETFs to Buy | Kiplinger | 2026-11-18 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $44.85; 52w high $50.74 (-11.60%); 52w low $31.75 (+41.25%) |
-| Trend | +5.49% vs SMA200, -2.39% vs SMA50, -4.37% vs SMA20 |
-| Momentum | RSI(14) 42.8 (neutral) |
-| Volatility | ATR(14) 1.11 (~2.5% of price); beta -0.26 |
-| Setup perspective | -11.60% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $43.24; 52w high $50.74 (-14.77%); 52w low $31.75 (+36.19%) |
+| Trend | +1.64% vs SMA200, -5.80% vs SMA50, -7.20% vs SMA20 |
+| Momentum | RSI(14) 35.8 (neutral) |
+| Volatility | ATR(14) 1.16 (~2.7% of price); beta -0.26 |
+| Setup perspective | -14.77% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +1.8% |
-| Month | -8.2% |
-| Quarter | +3.7% |
-| Half Y | -0.5% |
-| 1Y | +28.8% |
-| YTD | +31.3% |
+| Week | -3.4% |
+| Month | -11.4% |
+| Quarter | -3.1% |
+| Half Y | -1.9% |
+| 1Y | +24.3% |
+| YTD | +26.6% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ BP p.l.c., an integrated energy company, engages in the oil and gas business wor
 | Revenue (ttm) | $235.14B | Revenue growth 41.40% y/y |
 | Profitability | Gross 29.56%, operating 13.41%, net 3.84% | ROA 6.75%, ROE 13.42% |
 | Balance sheet | Cash $43.05B, debt $69.62B | Current ratio 1.29, debt/equity 87.47 |
-| Valuation | P/E 21.88, forward P/E 7.32, P/S 0.49, P/B 7.48 | EV/Sales 2.17, EV/EBITDA 10.81 |
+| Valuation | P/E 21.10, forward P/E 7.06, P/S 0.47, P/B 7.21 | EV/Sales 2.17, EV/EBITDA 10.81 |
 | Growth expectations | Earnings growth 305.00%, EPS q/q 304.50% | Analyst mean target $55.89 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 14.57% |
+| Institutional ownership | 14.52% |
 | Insider ownership | 0.01% |
 | Short float | 0.31% |
 | Short ratio (days to cover) | 0.8 |
@@ -90,9 +90,9 @@ BP p.l.c., an integrated energy company, engages in the oil and gas business wor
 | State Street Corporation | 14,169,182 | 0.54% | 2026-09-30 |
 | Goldman Sachs Group Inc | 10,990,534 | 0.42% | 2026-09-30 |
 | Morgan Stanley | 9,754,581 | 0.37% | 2026-09-30 |
+| Millennium Management Llc | 9,449,762 | 0.36% | 2026-09-30 |
 | Merewether Investment Management, LP | 8,105,272 | 0.31% | 2026-09-30 |
 | Point72 Asset Management, L.P. | 7,450,678 | 0.28% | 2026-09-30 |
-| Alyeska Investment Group, L.p. | 7,144,758 | 0.27% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
@@ -109,21 +109,21 @@ BP p.l.c., an integrated energy company, engages in the oil and gas business wor
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $44.85 | EV/Sales | 2.17 |
-| Market cap | $115.52B | EV/EBITDA | 10.81 |
+| Price | $43.24 | EV/Sales | 2.17 |
+| Market cap | $111.38B | EV/EBITDA | 10.81 |
 | Beta | -0.26 | Gross margin | 29.56% |
-| RSI(14) | 42.8 | Operating margin | 13.41% |
-| ATR(14) | 1.11 | Profit margin | 3.84% |
-| SMA20 dist | -4.37% | ROA | 6.75% |
-| SMA50 dist | -2.39% | ROE | 13.42% |
-| SMA200 dist | +5.49% | Revenue (ttm) | $235.14B |
+| RSI(14) | 35.8 | Operating margin | 13.41% |
+| ATR(14) | 1.16 | Profit margin | 3.84% |
+| SMA20 dist | -7.20% | ROA | 6.75% |
+| SMA50 dist | -5.80% | ROE | 13.42% |
+| SMA200 dist | +1.64% | Revenue (ttm) | $235.14B |
 | 52W high | $50.74 | Revenue growth y/y | 41.40% |
-| 52W low | $31.75 | Inst. ownership | 14.57% |
-| P/E (ttm) | 21.88 | Insider ownership | 0.01% |
-| Forward P/E | 7.32 | Short float | 0.31% |
-| PEG (trailing) | 0.04 | Avg volume | 9,111,729 |
-| P/S | 0.49 | Employees | 93,700 |
-| P/B | 7.48 | Analyst rec (1=buy..5=sell) | 2.2 |
+| 52W low | $31.75 | Inst. ownership | 14.52% |
+| P/E (ttm) | 21.10 | Insider ownership | 0.01% |
+| Forward P/E | 7.06 | Short float | 0.31% |
+| PEG (trailing) | 0.04 | Avg volume | 9,020,881 |
+| P/S | 0.47 | Employees | 93,700 |
+| P/B | 7.21 | Analyst rec (1=buy..5=sell) | 2.2 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

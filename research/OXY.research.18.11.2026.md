@@ -4,8 +4,8 @@ Signed file: `OXY.research.18.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $56.52 (2026-11-18, ~15-min delayed) |
-| Market cap | $56.51B |
+| Current price | $54.08 (2026-11-18, ~15-min delayed) |
+| Market cap | $54.07B |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
 | Current stance | Low technical momentum, strong fundamentals, value: reasonable, risk: elevated. |
@@ -15,11 +15,11 @@ Signed file: `OXY.research.18.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-0.07%) with negative half-year (-6.03%). |
-| Fresh setup quality | Moderate / wait | -13.89% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-4.46%) with negative half-year (-7.29%). |
+| Fresh setup quality | Moderate / wait | -17.60% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 32.95%, revenue growth 19.00%. |
-| Value attractiveness | Reasonable | Forward P/E 10.65, EV/Sales 2.97. |
-| Risk level | Elevated | Beta 0.15, ATR 3.1% of price, short float 0.02%. |
+| Value attractiveness | Reasonable | Forward P/E 10.20, EV/Sales 2.97. |
+| Risk level | Elevated | Beta 0.15, ATR 3.3% of price, short float 0.02%. |
 
 **Bottom line:** Low technical momentum, strong fundamentals, value: reasonable, risk: elevated.
 
@@ -36,30 +36,30 @@ Occidental Petroleum Corporation, together with its subsidiaries, engages in the
 
 | Headline | Source | Date |
 |---|---|---|
-| 5 Oil and Gas Stocks That Crushed Third-Quarter Earnings Estimates | Oilprice.com | 2026-11-18 |
-| What Occidental's Debt Cut Means For Its Stock | Trefis | 2026-11-17 |
-| Why Pay More For Exxon Mobil Stock Than Chevron? | Trefis | 2026-11-17 |
-| Sector Update: Energy Stocks Retreat Late Afternoon | MT Newswires | 2026-11-16 |
+| Why You Should Think About Occidental Petroleum Differently Now | Trefis | 2026-11-18 |
+| OXY vs. DTM: Which Stock Is the Better Value Option? | Zacks | 2026-11-18 |
+| The 5 Best Stocks in Berkshire Hathaway’s Portfolio | TIKR | 2026-11-18 |
+| Is Exxon Mobil Stock a Good Fit For Your Portfolio Risk? | Trefis | 2026-11-18 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $56.52; 52w high $65.63 (-13.89%); 52w low $38.38 (+47.26%) |
-| Trend | -0.07% vs SMA200, -5.19% vs SMA50, -5.66% vs SMA20 |
-| Momentum | RSI(14) 38.8 (neutral) |
-| Volatility | ATR(14) 1.73 (~3.1% of price); beta 0.15 |
-| Setup perspective | -13.89% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $54.08; 52w high $65.63 (-17.60%); 52w low $38.38 (+40.90%) |
+| Trend | -4.46% vs SMA200, -9.08% vs SMA50, -9.08% vs SMA20 |
+| Momentum | RSI(14) 32.1 (neutral) |
+| Volatility | ATR(14) 1.80 (~3.3% of price); beta 0.15 |
+| Setup perspective | -17.60% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -0.7% |
-| Month | -9.9% |
-| Quarter | -5.5% |
-| Half Y | -6.0% |
-| 1Y | +34.8% |
-| YTD | +35.2% |
+| Week | -5.5% |
+| Month | -14.0% |
+| Quarter | -11.7% |
+| Half Y | -7.3% |
+| 1Y | +32.3% |
+| YTD | +29.4% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,8 +68,8 @@ Occidental Petroleum Corporation, together with its subsidiaries, engages in the
 | Revenue (ttm) | $24.97B | Revenue growth 19.00% y/y |
 | Profitability | Gross 74.49%, operating 29.31%, net 32.95% | ROA 5.61%, ROE 13.18% |
 | Balance sheet | Cash $3.88B, debt $12.62B | Current ratio 1.39, debt/equity 28.80 |
-| Valuation | P/E 12.59, forward P/E 10.65, P/S 2.26, P/B 1.62 | EV/Sales 2.97, EV/EBITDA 5.04 |
-| Growth expectations | Earnings growth 149.40%, EPS q/q 117.60% | Analyst mean target $71.15 (27 analysts) |
+| Valuation | P/E 12.04, forward P/E 10.20, P/S 2.17, P/B 1.55 | EV/Sales 2.97, EV/EBITDA 5.04 |
+| Growth expectations | Earnings growth 149.40%, EPS q/q 117.60% | Analyst mean target $71.11 (27 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
@@ -95,7 +95,7 @@ Occidental Petroleum Corporation, together with its subsidiaries, engages in the
 | Invesco Ltd. | 13,037,874 | 1.30% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 0.15, ATR 3.1% of price, short float 0.02%. Size positions accordingly.
+- **Volatility risk:** Beta 0.15, ATR 3.3% of price, short float 0.02%. Size positions accordingly.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -110,21 +110,21 @@ Occidental Petroleum Corporation, together with its subsidiaries, engages in the
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $56.52 | EV/Sales | 2.97 |
-| Market cap | $56.51B | EV/EBITDA | 5.04 |
+| Price | $54.08 | EV/Sales | 2.97 |
+| Market cap | $54.07B | EV/EBITDA | 5.04 |
 | Beta | 0.15 | Gross margin | 74.49% |
-| RSI(14) | 38.8 | Operating margin | 29.31% |
-| ATR(14) | 1.73 | Profit margin | 32.95% |
-| SMA20 dist | -5.66% | ROA | 5.61% |
-| SMA50 dist | -5.19% | ROE | 13.18% |
-| SMA200 dist | -0.07% | Revenue (ttm) | $24.97B |
+| RSI(14) | 32.1 | Operating margin | 29.31% |
+| ATR(14) | 1.80 | Profit margin | 32.95% |
+| SMA20 dist | -9.08% | ROA | 5.61% |
+| SMA50 dist | -9.08% | ROE | 13.18% |
+| SMA200 dist | -4.46% | Revenue (ttm) | $24.97B |
 | 52W high | $65.63 | Revenue growth y/y | 19.00% |
 | 52W low | $38.38 | Inst. ownership | 59.68% |
-| P/E (ttm) | 12.59 | Insider ownership | 26.81% |
-| Forward P/E | 10.65 | Short float | 0.02% |
-| PEG (trailing) | 0.75 | Avg volume | 9,160,065 |
-| P/S | 2.26 | Employees | 10,412 |
-| P/B | 1.62 | Analyst rec (1=buy..5=sell) | 2.3 |
+| P/E (ttm) | 12.04 | Insider ownership | 26.81% |
+| Forward P/E | 10.20 | Short float | 0.02% |
+| PEG (trailing) | 0.72 | Avg volume | 9,178,220 |
+| P/S | 2.17 | Employees | 10,412 |
+| P/B | 1.55 | Analyst rec (1=buy..5=sell) | 2.3 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

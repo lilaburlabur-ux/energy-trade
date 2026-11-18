@@ -4,8 +4,8 @@ Signed file: `EOG.research.18.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $154.91 (2026-11-18, ~15-min delayed) |
-| Market cap | $80.32B |
+| Current price | $150.52 (2026-11-18, ~15-min delayed) |
+| Market cap | $78.04B |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
 | Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `EOG.research.18.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +44.78%; price +12.18% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -6.42% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +41.87%; price +8.84% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -9.07% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 28.06%, revenue growth 42.70%. |
-| Value attractiveness | Reasonable | Forward P/E 9.12, EV/Sales 2.84. |
-| Risk level | Moderate | Beta 0.27, ATR 2.8% of price, short float 3.62%. |
+| Value attractiveness | Reasonable | Forward P/E 8.85, EV/Sales 2.84. |
+| Risk level | Moderate | Beta 0.27, ATR 2.9% of price, short float 3.62%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate.
 
@@ -36,30 +36,30 @@ EOG Resources, Inc., together with its subsidiaries, explores for, develops, pro
 
 | Headline | Source | Date |
 |---|---|---|
-| EOG vs. ConocoPhillips: The Better Bet as Oil Prices Stay Elevated | Zacks | 2026-11-17 |
-| What Occidental's Debt Cut Means For Its Stock | Trefis | 2026-11-17 |
-| Are Investors Undervaluing EOG Resources (EOG) Right Now? | Zacks | 2026-11-17 |
-| Could Occidental Petroleum Be The Value Stock For Your Portfolio? | Trefis | 2026-11-16 |
+| Why You Should Think About Occidental Petroleum Differently Now | Trefis | 2026-11-18 |
+| Is Permian Resources Spending Too Much? | Trefis | 2026-11-18 |
+| EOG Resources (EOG) Stock May Be 50% Undervalued As Record Output Lifts Dividend | Simply Wall St. | 2026-11-18 |
+| EOG Resources (EOG) Lifts Dividend And Output On An Undervalued View | Simply Wall St. | 2026-11-18 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $154.91; 52w high $165.54 (-6.42%); 52w low $98.64 (+57.04%) |
-| Trend | +12.18% vs SMA200, +3.34% vs SMA50, -0.78% vs SMA20 |
-| Momentum | RSI(14) 52.4 (neutral) |
-| Volatility | ATR(14) 4.27 (~2.8% of price); beta 0.27 |
-| Setup perspective | -6.42% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $150.52; 52w high $165.54 (-9.07%); 52w low $98.64 (+52.60%) |
+| Trend | +8.84% vs SMA200, +0.36% vs SMA50, -3.36% vs SMA20 |
+| Momentum | RSI(14) 45.9 (neutral) |
+| Volatility | ATR(14) 4.35 (~2.9% of price); beta 0.27 |
+| Setup perspective | -9.07% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +2.2% |
-| Month | -1.7% |
-| Quarter | +4.3% |
-| Half Y | +8.9% |
-| 1Y | +44.8% |
-| YTD | +49.0% |
+| Week | -2.1% |
+| Month | -4.7% |
+| Quarter | -0.4% |
+| Half Y | +7.8% |
+| 1Y | +41.9% |
+| YTD | +44.8% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,8 +68,8 @@ EOG Resources, Inc., together with its subsidiaries, explores for, develops, pro
 | Revenue (ttm) | $29.17B | Revenue growth 42.70% y/y |
 | Profitability | Gross 62.98%, operating 35.47%, net 28.06% | ROA 11.90%, ROE 25.83% |
 | Balance sheet | Cash $5.75B, debt $8.26B | Current ratio 1.90, debt/equity 24.96 |
-| Valuation | P/E 10.00, forward P/E 9.12, P/S 2.75, P/B 2.43 | EV/Sales 2.84, EV/EBITDA 5.16 |
-| Growth expectations | Earnings growth 97.40%, EPS q/q 89.10% | Analyst mean target $168.28 (29 analysts) |
+| Valuation | P/E 9.72, forward P/E 8.85, P/S 2.68, P/B 2.36 | EV/Sales 2.84, EV/EBITDA 5.16 |
+| Growth expectations | Earnings growth 97.40%, EPS q/q 89.10% | Analyst mean target $168.41 (29 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
@@ -95,7 +95,6 @@ EOG Resources, Inc., together with its subsidiaries, explores for, develops, pro
 | Ameriprise Financial, Inc. | 8,203,588 | 1.58% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -110,21 +109,21 @@ EOG Resources, Inc., together with its subsidiaries, explores for, develops, pro
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $154.91 | EV/Sales | 2.84 |
-| Market cap | $80.32B | EV/EBITDA | 5.16 |
+| Price | $150.52 | EV/Sales | 2.84 |
+| Market cap | $78.04B | EV/EBITDA | 5.16 |
 | Beta | 0.27 | Gross margin | 62.98% |
-| RSI(14) | 52.4 | Operating margin | 35.47% |
-| ATR(14) | 4.27 | Profit margin | 28.06% |
-| SMA20 dist | -0.78% | ROA | 11.90% |
-| SMA50 dist | +3.34% | ROE | 25.83% |
-| SMA200 dist | +12.18% | Revenue (ttm) | $29.17B |
+| RSI(14) | 45.9 | Operating margin | 35.47% |
+| ATR(14) | 4.35 | Profit margin | 28.06% |
+| SMA20 dist | -3.36% | ROA | 11.90% |
+| SMA50 dist | +0.36% | ROE | 25.83% |
+| SMA200 dist | +8.84% | Revenue (ttm) | $29.17B |
 | 52W high | $165.54 | Revenue growth y/y | 42.70% |
 | 52W low | $98.64 | Inst. ownership | 96.80% |
-| P/E (ttm) | 10.00 | Insider ownership | 0.29% |
-| Forward P/E | 9.12 | Short float | 3.62% |
-| PEG (trailing) | 1.24 | Avg volume | 3,110,812 |
-| P/S | 2.75 | Employees | 3,400 |
-| P/B | 2.43 | Analyst rec (1=buy..5=sell) | 2.4 |
+| P/E (ttm) | 9.72 | Insider ownership | 0.29% |
+| Forward P/E | 8.85 | Short float | 3.62% |
+| PEG (trailing) | 1.18 | Avg volume | 3,124,098 |
+| P/S | 2.68 | Employees | 3,400 |
+| P/B | 2.36 | Analyst rec (1=buy..5=sell) | 2.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

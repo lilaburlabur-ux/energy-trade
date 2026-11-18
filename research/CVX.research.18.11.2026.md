@@ -4,8 +4,8 @@ Signed file: `CVX.research.18.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $216.13 (2026-11-18, ~15-min delayed) |
-| Market cap | $421.72B |
+| Current price | $206.58 (2026-11-18, ~15-min delayed) |
+| Market cap | $403.09B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `CVX.research.18.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +42.52%; price +11.18% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -8.23% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +38.69%; price +6.18% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -12.29% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 11.92%, revenue growth 34.80%. |
-| Value attractiveness | Reasonable | Forward P/E 13.07, EV/Sales 1.98. |
-| Risk level | Moderate | Beta 0.45, ATR 2.2% of price, short float 1.35%. |
+| Value attractiveness | Reasonable | Forward P/E 12.50, EV/Sales 1.98. |
+| Risk level | Moderate | Beta 0.45, ATR 2.5% of price, short float 1.35%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
@@ -36,30 +36,30 @@ Chevron Corporation, through its subsidiaries, engages in the integrated energy 
 
 | Headline | Source | Date |
 |---|---|---|
-| Chevron Says AI Has Already Captured Over $100 Million in Value. Here's Where It Might Find an Even Bigger Payoff. | Motley Fool | 2026-11-18 |
-| Chevron (CVX) Nears $5 Billion Gulf Deal And Iraq Oilfield Takeover | Simply Wall St. | 2026-11-18 |
-| Sector Update: Energy Stocks Lower in Afternoon Trading | MT Newswires | 2026-11-17 |
-| Chevron's $5 Billion Gulf Oil Bet Has a Head Start | GuruFocus.com | 2026-11-17 |
+| What Drove Venture Global's 69% EBITDA Jump? | Trefis | 2026-11-18 |
+| Is Chevron Stock Increasing Your Market Risk? | Trefis | 2026-11-18 |
+| Why You Should Think About Occidental Petroleum Differently Now | Trefis | 2026-11-18 |
+| Nvidia Earnings Beat Fails to Rescue Wall Street as Dow Tumbles | GuruFocus.com | 2026-11-18 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $216.13; 52w high $235.52 (-8.23%); 52w low $142.76 (+51.39%) |
-| Trend | +11.18% vs SMA200, +0.16% vs SMA50, -2.72% vs SMA20 |
-| Momentum | RSI(14) 47.1 (neutral) |
-| Volatility | ATR(14) 4.86 (~2.2% of price); beta 0.45 |
-| Setup perspective | -8.23% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $206.58; 52w high $235.52 (-12.29%); 52w low $142.76 (+44.70%) |
+| Trend | +6.18% vs SMA200, -4.20% vs SMA50, -6.59% vs SMA20 |
+| Momentum | RSI(14) 37.0 (neutral) |
+| Volatility | ATR(14) 5.25 (~2.5% of price); beta 0.45 |
+| Setup perspective | -12.29% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +2.3% |
-| Month | -3.7% |
-| Quarter | +5.0% |
-| Half Y | +10.5% |
-| 1Y | +42.5% |
-| YTD | +42.5% |
+| Week | -3.1% |
+| Month | -8.5% |
+| Quarter | +0.4% |
+| Half Y | +8.9% |
+| 1Y | +38.7% |
+| YTD | +36.2% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Chevron Corporation, through its subsidiaries, engages in the integrated energy 
 | Revenue (ttm) | $226.26B | Revenue growth 34.80% y/y |
 | Profitability | Gross 44.38%, operating 15.10%, net 11.92% | ROA 6.47%, ROE 13.85% |
 | Balance sheet | Cash $12.80B, debt $33.53B | Current ratio 1.34, debt/equity 16.77 |
-| Valuation | P/E 15.87, forward P/E 13.07, P/S 1.86, P/B 2.17 | EV/Sales 1.98, EV/EBITDA 7.71 |
+| Valuation | P/E 15.17, forward P/E 12.50, P/S 1.78, P/B 2.07 | EV/Sales 1.98, EV/EBITDA 7.71 |
 | Growth expectations | Earnings growth 178.00%, EPS q/q 180.40% | Analyst mean target $242.54 (24 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -92,7 +92,7 @@ Chevron Corporation, through its subsidiaries, engages in the integrated energy 
 | Charles Schwab Investment Management, Inc. | 39,624,377 | 2.02% | 2026-09-30 |
 | Morgan Stanley | 36,570,830 | 1.86% | 2026-09-30 |
 | Bank of America Corporation | 28,781,665 | 1.46% | 2026-09-30 |
-| NORGES BANK | 22,964,061 | 1.17% | 2026-06-30 |
+| Northern Trust Corporation | 20,267,559 | 1.03% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
@@ -109,21 +109,21 @@ Chevron Corporation, through its subsidiaries, engages in the integrated energy 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $216.13 | EV/Sales | 1.98 |
-| Market cap | $421.72B | EV/EBITDA | 7.71 |
+| Price | $206.58 | EV/Sales | 1.98 |
+| Market cap | $403.09B | EV/EBITDA | 7.71 |
 | Beta | 0.45 | Gross margin | 44.38% |
-| RSI(14) | 47.1 | Operating margin | 15.10% |
-| ATR(14) | 4.86 | Profit margin | 11.92% |
-| SMA20 dist | -2.72% | ROA | 6.47% |
-| SMA50 dist | +0.16% | ROE | 13.85% |
-| SMA200 dist | +11.18% | Revenue (ttm) | $226.26B |
+| RSI(14) | 37.0 | Operating margin | 15.10% |
+| ATR(14) | 5.25 | Profit margin | 11.92% |
+| SMA20 dist | -6.59% | ROA | 6.47% |
+| SMA50 dist | -4.20% | ROE | 13.85% |
+| SMA200 dist | +6.18% | Revenue (ttm) | $226.26B |
 | 52W high | $235.52 | Revenue growth y/y | 34.80% |
 | 52W low | $142.76 | Inst. ownership | 72.07% |
-| P/E (ttm) | 15.87 | Insider ownership | 4.83% |
-| Forward P/E | 13.07 | Short float | 1.35% |
-| PEG (trailing) | 0.82 | Avg volume | 8,473,053 |
-| P/S | 1.86 | Employees | 43,039 |
-| P/B | 2.17 | Analyst rec (1=buy..5=sell) | 1.6 |
+| P/E (ttm) | 15.17 | Insider ownership | 4.83% |
+| Forward P/E | 12.50 | Short float | 1.35% |
+| PEG (trailing) | 0.81 | Avg volume | 8,484,056 |
+| P/S | 1.78 | Employees | 43,039 |
+| P/B | 2.07 | Analyst rec (1=buy..5=sell) | 1.6 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

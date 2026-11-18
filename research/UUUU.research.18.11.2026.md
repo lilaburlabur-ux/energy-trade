@@ -4,8 +4,8 @@ Signed file: `UUUU.research.18.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $5.93 (2026-11-18, ~15-min delayed) |
-| Market cap | $1.57B |
+| Current price | $5.72 (2026-11-18, ~15-min delayed) |
+| Market cap | $1.51B |
 | Sector / Industry | Energy / Uranium |
 | Main theme | Uranium — see catalysts below |
 | Current stance | Low technical momentum, weak fundamentals, value: reasonable, risk: high. |
@@ -15,11 +15,11 @@ Signed file: `UUUU.research.18.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-61.38%) with negative half-year (-63.35%). |
-| Fresh setup quality | Poor / broken | -78.61% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-62.55%) with negative half-year (-65.94%). |
+| Fresh setup quality | Poor / broken | -79.38% from 52w high — base needs to rebuild. |
 | Fundamental quality | Weak | Negative profit margin (-99.99%). |
-| Value attractiveness | Reasonable | Forward P/E 12.23, EV/Sales 11.96. |
-| Risk level | High | Beta 1.93, ATR 9.4% of price, short float 22.03%. |
+| Value attractiveness | Reasonable | Forward P/E 11.78, EV/Sales 11.96. |
+| Risk level | High | Beta 1.93, ATR 9.7% of price, short float 22.03%. |
 
 **Bottom line:** Low technical momentum, weak fundamentals, value: reasonable, risk: high.
 
@@ -36,30 +36,30 @@ Energy Fuels Inc., together with its subsidiaries, engages in the exploration, r
 
 | Headline | Source | Date |
 |---|---|---|
+| Can Cameco's Uranium Contracts Drive Sustained Long-Term Growth? | Zacks | 2026-11-18 |
 | How Risky Is USA Rare Earth Stock? | Trefis | 2026-11-17 |
 | Will Energy Fuels' Contract Portfolio Support Higher Uranium Sales? | Zacks | 2026-11-17 |
 | Sovereign Metals hires former Base Resources boss to build Kasiya | Proactive | 2026-11-16 |
-| Sovereign Metals appoints African mine-builder Tim Carstens to lead Kasiya development | Proactive | 2026-11-15 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $5.93; 52w high $27.72 (-78.61%); 52w low $5.93 (+0.00%) |
-| Trend | -61.38% vs SMA200, -37.14% vs SMA50, -18.10% vs SMA20 |
-| Momentum | RSI(14) 26.6 (oversold) |
-| Volatility | ATR(14) 0.56 (~9.4% of price); beta 1.93 |
-| Setup perspective | -78.61% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $5.72; 52w high $27.72 (-79.38%); 52w low $5.72 (+0.00%) |
+| Trend | -62.55% vs SMA200, -38.26% vs SMA50, -19.69% vs SMA20 |
+| Momentum | RSI(14) 25.2 (oversold) |
+| Volatility | ATR(14) 0.56 (~9.7% of price); beta 1.93 |
+| Setup perspective | -79.38% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -12.0% |
-| Month | -27.3% |
-| Quarter | -60.1% |
-| Half Y | -63.3% |
-| 1Y | -61.9% |
-| YTD | -64.4% |
+| Week | -17.5% |
+| Month | -30.4% |
+| Quarter | -58.9% |
+| Half Y | -65.9% |
+| 1Y | -61.8% |
+| YTD | -65.7% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,14 +68,14 @@ Energy Fuels Inc., together with its subsidiaries, engages in the exploration, r
 | Revenue (ttm) | $117.23M | Revenue growth 64.80% y/y |
 | Profitability | Gross 47.90%, operating -62.09%, net -99.99% | ROA -3.66%, ROE -14.08% |
 | Balance sheet | Cash $855.89M, debt $683.19M | Current ratio 20.49, debt/equity 70.66 |
-| Valuation | P/E —, forward P/E 12.23, P/S 13.40, P/B 1.63 | EV/Sales 11.96, EV/EBITDA -23.15 |
+| Valuation | P/E —, forward P/E 11.78, P/S 12.91, P/B 1.57 | EV/Sales 11.96, EV/EBITDA -23.15 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $18.88 (4 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 74.70% |
-| Insider ownership | 1.16% |
+| Institutional ownership | 74.69% |
+| Insider ownership | 1.17% |
 | Short float | 22.03% |
 | Short ratio (days to cover) | 6.2 |
 
@@ -95,7 +95,7 @@ Energy Fuels Inc., together with its subsidiaries, engages in the exploration, r
 | American Century Companies Inc | 4,316,389 | 1.63% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.93, ATR 9.4% of price, short float 22.03%. Size positions accordingly.
+- **Volatility risk:** Beta 1.93, ATR 9.7% of price, short float 22.03%. Size positions accordingly.
 - **Short interest risk:** short float 22.03% can fuel squeezes both ways around news.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
@@ -113,21 +113,21 @@ Energy Fuels Inc., together with its subsidiaries, engages in the exploration, r
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $5.93 | EV/Sales | 11.96 |
-| Market cap | $1.57B | EV/EBITDA | -23.15 |
+| Price | $5.72 | EV/Sales | 11.96 |
+| Market cap | $1.51B | EV/EBITDA | -23.15 |
 | Beta | 1.93 | Gross margin | 47.90% |
-| RSI(14) | 26.6 | Operating margin | -62.09% |
+| RSI(14) | 25.2 | Operating margin | -62.09% |
 | ATR(14) | 0.56 | Profit margin | -99.99% |
-| SMA20 dist | -18.10% | ROA | -3.66% |
-| SMA50 dist | -37.14% | ROE | -14.08% |
-| SMA200 dist | -61.38% | Revenue (ttm) | $117.23M |
+| SMA20 dist | -19.69% | ROA | -3.66% |
+| SMA50 dist | -38.26% | ROE | -14.08% |
+| SMA200 dist | -62.55% | Revenue (ttm) | $117.23M |
 | 52W high | $27.72 | Revenue growth y/y | 64.80% |
-| 52W low | $5.93 | Inst. ownership | 74.70% |
-| P/E (ttm) | — | Insider ownership | 1.16% |
-| Forward P/E | 12.23 | Short float | 22.03% |
-| PEG (trailing) | — | Avg volume | 8,147,315 |
-| P/S | 13.40 | Employees | 1,069 |
-| P/B | 1.63 | Analyst rec (1=buy..5=sell) | 1.1 |
+| 52W low | $5.72 | Inst. ownership | 74.69% |
+| P/E (ttm) | — | Insider ownership | 1.17% |
+| Forward P/E | 11.78 | Short float | 22.03% |
+| PEG (trailing) | — | Avg volume | 8,230,103 |
+| P/S | 12.91 | Employees | 1,069 |
+| P/B | 1.57 | Analyst rec (1=buy..5=sell) | 1.1 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

@@ -4,8 +4,8 @@ Signed file: `ETN.research.18.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $337.11 (2026-11-18, ~15-min delayed) |
-| Market cap | $130.97B |
+| Current price | $339.27 (2026-11-18, ~15-min delayed) |
+| Market cap | $131.81B |
 | Sector / Industry | Industrials / Specialty Industrial Machinery |
 | Main theme | Specialty Industrial Machinery — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: fair-to-demanding, risk: high. |
@@ -15,11 +15,11 @@ Signed file: `ETN.research.18.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-14.73%) with negative half-year (-8.85%). |
-| Fresh setup quality | Poor / broken | -26.48% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-14.16%) with negative half-year (-10.15%). |
+| Fresh setup quality | Poor / broken | -26.01% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 12.18%, revenue growth 28.00%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 20.47, EV/Sales 4.72. |
-| Risk level | High | Beta 1.14, ATR 5.4% of price, short float 1.85%. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 20.60, EV/Sales 4.72. |
+| Risk level | High | Beta 1.14, ATR 5.1% of price, short float 1.85%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: fair-to-demanding, risk: high.
 
@@ -36,30 +36,30 @@ Eaton Corporation plc operates as a power management company in the United State
 
 | Headline | Source | Date |
 |---|---|---|
-| Eaton vs. Honeywell International: Which Industrials Stock Is a Better Buy for 2027? | Motley Fool | 2026-11-17 |
-| What Moved Vertiv Stock Nearly 7% Lower? | Trefis | 2026-11-17 |
-| What Could Send Honeywell Stock Higher? | Trefis | 2026-11-17 |
-| Eaton vs. Vertiv: Which Industrials Stock Is a Better Buy for 2027? | Motley Fool | 2026-11-17 |
+| Is Bloom Energy Stock At $173 Still Worth Owning? | Trefis | 2026-11-18 |
+| Is Eaton A Better Data Center Play Than Rockwell? | Trefis | 2026-11-18 |
+| Insulet downgraded, Tandem Diabetes upgraded: Wall Street's top analyst calls | The Fly | 2026-11-18 |
+| What Could Slow Vertiv Stock's Growth? | Trefis | 2026-11-18 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $337.11; 52w high $458.55 (-26.48%); 52w low $312.24 (+7.96%) |
-| Trend | -14.73% vs SMA200, -15.10% vs SMA50, -7.20% vs SMA20 |
-| Momentum | RSI(14) 37.8 (neutral) |
-| Volatility | ATR(14) 18.05 (~5.4% of price); beta 1.14 |
-| Setup perspective | -26.48% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $339.27; 52w high $458.55 (-26.01%); 52w low $312.24 (+8.66%) |
+| Trend | -14.16% vs SMA200, -14.23% vs SMA50, -5.92% vs SMA20 |
+| Momentum | RSI(14) 38.8 (neutral) |
+| Volatility | ATR(14) 17.47 (~5.1% of price); beta 1.14 |
+| Setup perspective | -26.01% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -4.8% |
-| Month | -13.6% |
-| Quarter | -20.4% |
-| Half Y | -8.8% |
-| 1Y | -3.2% |
-| YTD | +4.2% |
+| Week | -5.9% |
+| Month | -10.9% |
+| Quarter | -18.1% |
+| Half Y | -10.2% |
+| 1Y | +0.1% |
+| YTD | +4.8% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,8 +68,8 @@ Eaton Corporation plc operates as a power management company in the United State
 | Revenue (ttm) | $31.98B | Revenue growth 28.00% y/y |
 | Profitability | Gross 35.15%, operating 17.72%, net 12.18% | ROA 7.22%, ROE 19.55% |
 | Balance sheet | Cash $818.00M, debt $20.92B | Current ratio 1.23, debt/equity 99.52 |
-| Valuation | P/E 33.68, forward P/E 20.47, P/S 4.09, P/B 6.24 | EV/Sales 4.72, EV/EBITDA 21.41 |
-| Growth expectations | Earnings growth 7.00%, EPS q/q 6.70% | Analyst mean target $468.74 (27 analysts) |
+| Valuation | P/E 33.89, forward P/E 20.60, P/S 4.12, P/B 6.28 | EV/Sales 4.72, EV/EBITDA 21.41 |
+| Growth expectations | Earnings growth 7.00%, EPS q/q 6.70% | Analyst mean target $469.00 (27 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
@@ -95,8 +95,8 @@ Eaton Corporation plc operates as a power management company in the United State
 | UBS AM, a distinct business unit of UBS ASSET MANAGEMENT AMERICAS LLC | 6,433,633 | 1.66% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 20.47, EV/Sales 4.72. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 1.14, ATR 5.4% of price, short float 1.85%. Size positions accordingly.
+- **Valuation risk:** Forward P/E 20.60, EV/Sales 4.72. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 1.14, ATR 5.1% of price, short float 1.85%. Size positions accordingly.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -112,21 +112,21 @@ Eaton Corporation plc operates as a power management company in the United State
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $337.11 | EV/Sales | 4.72 |
-| Market cap | $130.97B | EV/EBITDA | 21.41 |
+| Price | $339.27 | EV/Sales | 4.72 |
+| Market cap | $131.81B | EV/EBITDA | 21.41 |
 | Beta | 1.14 | Gross margin | 35.15% |
-| RSI(14) | 37.8 | Operating margin | 17.72% |
-| ATR(14) | 18.05 | Profit margin | 12.18% |
-| SMA20 dist | -7.20% | ROA | 7.22% |
-| SMA50 dist | -15.10% | ROE | 19.55% |
-| SMA200 dist | -14.73% | Revenue (ttm) | $31.98B |
+| RSI(14) | 38.8 | Operating margin | 17.72% |
+| ATR(14) | 17.47 | Profit margin | 12.18% |
+| SMA20 dist | -5.92% | ROA | 7.22% |
+| SMA50 dist | -14.23% | ROE | 19.55% |
+| SMA200 dist | -14.16% | Revenue (ttm) | $31.98B |
 | 52W high | $458.55 | Revenue growth y/y | 28.00% |
 | 52W low | $312.24 | Inst. ownership | 87.93% |
-| P/E (ttm) | 33.68 | Insider ownership | 0.14% |
-| Forward P/E | 20.47 | Short float | 1.85% |
-| PEG (trailing) | 1.80 | Avg volume | 2,425,951 |
-| P/S | 4.09 | Employees | 97,303 |
-| P/B | 6.24 | Analyst rec (1=buy..5=sell) | 1.6 |
+| P/E (ttm) | 33.89 | Insider ownership | 0.14% |
+| Forward P/E | 20.60 | Short float | 1.85% |
+| PEG (trailing) | 1.81 | Avg volume | 2,446,598 |
+| P/S | 4.12 | Employees | 97,303 |
+| P/B | 6.28 | Analyst rec (1=buy..5=sell) | 1.6 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

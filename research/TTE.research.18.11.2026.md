@@ -4,8 +4,8 @@ Signed file: `TTE.research.18.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $90.40 (2026-11-18, ~15-min delayed) |
-| Market cap | $198.26B |
+| Current price | $86.93 (2026-11-18, ~15-min delayed) |
+| Market cap | $190.66B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `TTE.research.18.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +43.52%; price +5.69% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -5.17% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +38.84%; price +1.55% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -8.81% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 10.46%, revenue growth 41.10%. |
-| Value attractiveness | Reasonable | Forward P/E 7.44, EV/Sales 1.07. |
-| Risk level | Moderate | Beta 0.04, ATR 1.8% of price, short float 0.19%. |
+| Value attractiveness | Reasonable | Forward P/E 7.16, EV/Sales 1.07. |
+| Risk level | Moderate | Beta 0.04, ATR 2.1% of price, short float 0.19%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
@@ -36,30 +36,30 @@ TotalEnergies SE, an integrated energy company, produces and markets oil and bio
 
 | Headline | Source | Date |
 |---|---|---|
-| Bet on These 5 Low-Leverage Stocks as NVIDIA Crisis Drags Market | Zacks | 2026-11-17 |
-| Are Oils-Energy Stocks Lagging  TotalEnergies (TTE) This Year? | Zacks | 2026-11-17 |
-| 4 High-Yield Big Oil Stocks Built to Keep Paying Dividends as Crude Prices Fall | 24/7 Wall St. | 2026-11-16 |
-| Can ExxonMobil's Longtail Project Unlock Guyana's Growth Potential? | Zacks | 2026-11-16 |
+| Stay Ahead of Market Uncertainty With LNG, TTE, LW and HAS | Zacks | 2026-11-18 |
+| Saipem wins $181m drilling contracts for Scarabeo 9 rig | Offshore Technology | 2026-11-18 |
+| EnQuest Exits UK North Sea in $960 Million Deal | Oilprice.com | 2026-11-18 |
+| Zacks.com featured highlights include Terumo, Sterling Infrastructure, Celestica, TotalEnergies and International Seaways | Zacks | 2026-11-18 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $90.40; 52w high $95.33 (-5.17%); 52w low $61.13 (+47.89%) |
-| Trend | +5.69% vs SMA200, +1.02% vs SMA50, -0.63% vs SMA20 |
-| Momentum | RSI(14) 51.9 (neutral) |
-| Volatility | ATR(14) 1.65 (~1.8% of price); beta 0.04 |
-| Setup perspective | -5.17% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $86.93; 52w high $95.33 (-8.81%); 52w low $61.13 (+42.21%) |
+| Trend | +1.55% vs SMA200, -2.77% vs SMA50, -4.26% vs SMA20 |
+| Momentum | RSI(14) 40.7 (neutral) |
+| Volatility | ATR(14) 1.79 (~2.1% of price); beta 0.04 |
+| Setup perspective | -8.81% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +2.9% |
-| Month | +0.5% |
-| Quarter | +1.5% |
-| Half Y | -1.5% |
-| 1Y | +43.5% |
-| YTD | +39.0% |
+| Week | -1.2% |
+| Month | -3.5% |
+| Quarter | -3.2% |
+| Half Y | -5.0% |
+| 1Y | +38.8% |
+| YTD | +33.7% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ TotalEnergies SE, an integrated energy company, produces and markets oil and bio
 | Revenue (ttm) | $214.40B | Revenue growth 41.10% y/y |
 | Profitability | Gross 39.18%, operating 17.00%, net 10.46% | ROA 7.19%, ROE 17.83% |
 | Balance sheet | Cash $37.80B, debt $63.17B | Current ratio 1.11, debt/equity 46.12 |
-| Valuation | P/E 9.02, forward P/E 7.44, P/S 0.92, P/B 1.50 | EV/Sales 1.07, EV/EBITDA 4.71 |
+| Valuation | P/E 8.68, forward P/E 7.16, P/S 0.89, P/B 1.45 | EV/Sales 1.07, EV/EBITDA 4.71 |
 | Growth expectations | Earnings growth 123.20%, EPS q/q 124.40% | Analyst mean target $100.85 (10 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -89,13 +89,12 @@ TotalEnergies SE, an integrated energy company, produces and markets oil and bio
 | Capital World Investors | 47,097,599 | 1.89% | 2026-09-30 |
 | Deutsche Bank AG | 44,069,848 | 1.76% | 2026-09-30 |
 | JPMORGAN CHASE & CO | 42,202,802 | 1.69% | 2026-09-30 |
-| NORGES BANK | 40,546,835 | 1.62% | 2026-06-30 |
 | Wellington Management Group, LLP | 33,752,991 | 1.35% | 2026-09-30 |
 | Price (T.Rowe) Associates Inc | 32,414,778 | 1.30% | 2026-09-30 |
 | LBP AM SA | 30,368,297 | 1.22% | 2026-09-30 |
+| Goldman Sachs Group Inc | 24,823,694 | 0.99% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -110,21 +109,21 @@ TotalEnergies SE, an integrated energy company, produces and markets oil and bio
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $90.40 | EV/Sales | 1.07 |
-| Market cap | $198.26B | EV/EBITDA | 4.71 |
+| Price | $86.93 | EV/Sales | 1.07 |
+| Market cap | $190.66B | EV/EBITDA | 4.71 |
 | Beta | 0.04 | Gross margin | 39.18% |
-| RSI(14) | 51.9 | Operating margin | 17.00% |
-| ATR(14) | 1.65 | Profit margin | 10.46% |
-| SMA20 dist | -0.63% | ROA | 7.19% |
-| SMA50 dist | +1.02% | ROE | 17.83% |
-| SMA200 dist | +5.69% | Revenue (ttm) | $214.40B |
+| RSI(14) | 40.7 | Operating margin | 17.00% |
+| ATR(14) | 1.79 | Profit margin | 10.46% |
+| SMA20 dist | -4.26% | ROA | 7.19% |
+| SMA50 dist | -2.77% | ROE | 17.83% |
+| SMA200 dist | +1.55% | Revenue (ttm) | $214.40B |
 | 52W high | $95.33 | Revenue growth y/y | 41.10% |
 | 52W low | $61.13 | Inst. ownership | 57.18% |
-| P/E (ttm) | 9.02 | Insider ownership | 8.85% |
-| Forward P/E | 7.44 | Short float | 0.19% |
-| PEG (trailing) | 0.67 | Avg volume | 1,810,453 |
-| P/S | 0.92 | Employees | 94,847 |
-| P/B | 1.50 | Analyst rec (1=buy..5=sell) | 2.0 |
+| P/E (ttm) | 8.68 | Insider ownership | 8.85% |
+| Forward P/E | 7.16 | Short float | 0.19% |
+| PEG (trailing) | 0.68 | Avg volume | 1,806,801 |
+| P/S | 0.89 | Employees | 94,847 |
+| P/B | 1.45 | Analyst rec (1=buy..5=sell) | 2.0 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

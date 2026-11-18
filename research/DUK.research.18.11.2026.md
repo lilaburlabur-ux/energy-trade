@@ -4,8 +4,8 @@ Signed file: `DUK.research.18.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $129.84 (2026-11-18, ~15-min delayed) |
-| Market cap | $101.24B |
+| Current price | $130.13 (2026-11-18, ~15-min delayed) |
+| Market cap | $101.46B |
 | Sector / Industry | Utilities / Utilities - Regulated Electric |
 | Main theme | Utilities - Regulated Electric — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `DUK.research.18.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +9.50%; price +5.79% vs SMA200. |
-| Fresh setup quality | Watch | -0.57% from 52w high and near SMA20 — check for a tight base. |
+| Technical momentum | Moderate | 1Y +7.58%; price +5.97% vs SMA200. |
+| Fresh setup quality | Watch | -0.35% from 52w high and near SMA20 — check for a tight base. |
 | Fundamental quality | Mixed | Profit margin 16.16%, revenue growth 6.60%. |
-| Value attractiveness | Reasonable | Forward P/E 18.12, EV/Sales 5.93. |
-| Risk level | Moderate | Beta 0.31, ATR 1.7% of price, short float 2.57%. |
+| Value attractiveness | Reasonable | Forward P/E 18.16, EV/Sales 5.93. |
+| Risk level | Moderate | Beta 0.31, ATR 1.6% of price, short float 2.57%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
@@ -36,30 +36,30 @@ Duke Energy Corporation, through its subsidiaries, operates as an energy company
 
 | Headline | Source | Date |
 |---|---|---|
-| 4 High-Yield Energy Stocks That Pay Roth IRA Investors Tax-Free Income | 24/7 Wall St. | 2026-11-17 |
-| Invest $200,000 in These 5 Dividend Stocks to Fund Your Retirement Income | 24/7 Wall St. | 2026-11-17 |
-| Why Did Constellation Energy Stock Jump Over 10%? | Trefis | 2026-11-17 |
-| Vistra Stock's $21 Billion Debt: Should Holders Worry? | Trefis | 2026-11-17 |
+| PG&E Stock's Biggest Risk Is California's Wildfire Rules | Trefis | 2026-11-18 |
+| How Retirees Can Turn $300,000 Into Passive Income With These 4 High-Yield Stocks | 24/7 Wall St. | 2026-11-18 |
+| What State Street Utilities Select Sector SPDR (XLU) Sold: NextEra Leads on Monday | GuruFocus.com | 2026-11-18 |
+| What Does Duke Energy (DUK) Winning Carolinas Plan Approval Mean For Investors? | Simply Wall St. | 2026-11-18 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $129.84; 52w high $130.59 (-0.57%); 52w low $110.15 (+17.87%) |
-| Trend | +5.79% vs SMA200, +8.13% vs SMA50, +2.83% vs SMA20 |
-| Momentum | RSI(14) 66.5 (neutral) |
-| Volatility | ATR(14) 2.15 (~1.7% of price); beta 0.31 |
-| Setup perspective | -0.57% from 52w high and near SMA20 — check for a tight base. |
+| Price vs 52-week range | Close $130.13; 52w high $130.59 (-0.35%); 52w low $110.15 (+18.13%) |
+| Trend | +5.97% vs SMA200, +8.18% vs SMA50, +2.63% vs SMA20 |
+| Momentum | RSI(14) 67.2 (neutral) |
+| Volatility | ATR(14) 2.12 (~1.6% of price); beta 0.31 |
+| Setup perspective | -0.35% from 52w high and near SMA20 — check for a tight base. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +1.6% |
-| Month | +9.8% |
-| Quarter | +5.9% |
-| Half Y | +6.1% |
-| 1Y | +9.5% |
-| YTD | +14.4% |
+| Week | +1.9% |
+| Month | +8.2% |
+| Quarter | +7.0% |
+| Half Y | +6.9% |
+| 1Y | +7.6% |
+| YTD | +14.7% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,8 +68,8 @@ Duke Energy Corporation, through its subsidiaries, operates as an energy company
 | Revenue (ttm) | $33.37B | Revenue growth 6.60% y/y |
 | Profitability | Gross 52.58%, operating 27.77%, net 16.16% | ROA 2.92%, ROE 10.10% |
 | Balance sheet | Cash $451.00M, debt $93.78B | Current ratio 0.68, debt/equity 162.98 |
-| Valuation | P/E 19.04, forward P/E 18.12, P/S 3.03, P/B 1.86 | EV/Sales 5.93, EV/EBITDA 11.80 |
-| Growth expectations | Earnings growth 10.00%, EPS q/q 10.10% | Analyst mean target $132.87 (19 analysts) |
+| Valuation | P/E 19.08, forward P/E 18.16, P/S 3.04, P/B 1.87 | EV/Sales 5.93, EV/EBITDA 11.80 |
+| Growth expectations | Earnings growth 10.00%, EPS q/q 10.10% | Analyst mean target $133.39 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
@@ -110,21 +110,21 @@ Duke Energy Corporation, through its subsidiaries, operates as an energy company
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $129.84 | EV/Sales | 5.93 |
-| Market cap | $101.24B | EV/EBITDA | 11.80 |
+| Price | $130.13 | EV/Sales | 5.93 |
+| Market cap | $101.46B | EV/EBITDA | 11.80 |
 | Beta | 0.31 | Gross margin | 52.58% |
-| RSI(14) | 66.5 | Operating margin | 27.77% |
-| ATR(14) | 2.15 | Profit margin | 16.16% |
-| SMA20 dist | +2.83% | ROA | 2.92% |
-| SMA50 dist | +8.13% | ROE | 10.10% |
-| SMA200 dist | +5.79% | Revenue (ttm) | $33.37B |
+| RSI(14) | 67.2 | Operating margin | 27.77% |
+| ATR(14) | 2.12 | Profit margin | 16.16% |
+| SMA20 dist | +2.63% | ROA | 2.92% |
+| SMA50 dist | +8.18% | ROE | 10.10% |
+| SMA200 dist | +5.97% | Revenue (ttm) | $33.37B |
 | 52W high | $130.59 | Revenue growth y/y | 6.60% |
 | 52W low | $110.15 | Inst. ownership | 70.93% |
-| P/E (ttm) | 19.04 | Insider ownership | 0.13% |
-| Forward P/E | 18.12 | Short float | 2.57% |
-| PEG (trailing) | 2.43 | Avg volume | 4,154,487 |
-| P/S | 3.03 | Employees | 26,441 |
-| P/B | 1.86 | Analyst rec (1=buy..5=sell) | 2.1 |
+| P/E (ttm) | 19.08 | Insider ownership | 0.13% |
+| Forward P/E | 18.16 | Short float | 2.57% |
+| PEG (trailing) | 2.42 | Avg volume | 4,186,776 |
+| P/S | 3.04 | Employees | 26,441 |
+| P/B | 1.87 | Analyst rec (1=buy..5=sell) | 2.1 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
