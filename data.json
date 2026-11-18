@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-18T10:52:04+00:00",
-  "as_of_local": "2026-11-18 10:52:04 UTC",
+  "as_of_utc": "2026-11-18T10:56:59+00:00",
+  "as_of_local": "2026-11-18 10:56:59 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "EOG"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -127,6 +125,12 @@
       "market_cap": 198255335368.7897,
       "headlines": [
         {
+          "title": "Zacks.com featured highlights include Terumo, Sterling Infrastructure, Celestica, TotalEnergies and International Seaways",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-com-featured-highlights-terumo-094300386.html",
+          "publisher": "Zacks",
+          "published": "2026-11-18T09:43:00Z"
+        },
+        {
           "title": "Equinor (OB:EQNR) Marks First Seabed Monitoring At UK Endurance CO2 Store",
           "url": "https://finance.yahoo.com/energy/articles/equinor-ob-eqnr-marks-first-061538703.html",
           "publisher": "Simply Wall St.",
@@ -137,12 +141,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/bet-5-low-leverage-stocks-145500952.html",
           "publisher": "Zacks",
           "published": "2026-11-17T14:55:00Z"
-        },
-        {
-          "title": "Are Oils-Energy Stocks Lagging  TotalEnergies (TTE) This Year?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/oils-energy-stocks-lagging-totalenergies-134003194.html",
-          "publisher": "Zacks",
-          "published": "2026-11-17T13:40:03Z"
         }
       ]
     },
@@ -507,6 +505,34 @@
           "url": "https://finance.yahoo.com/energy/articles/zacks-industry-outlook-highlights-kinder-095300150.html",
           "publisher": "Zacks",
           "published": "2026-11-17T09:53:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "EOG",
+      "name": "EOG Resources",
+      "price": 154.91,
+      "previous_close": 155.47,
+      "change_pct": -0.36,
+      "market_cap": 80318393038.58594,
+      "headlines": [
+        {
+          "title": "EOG Resources (EOG) Stock May Be 50% Undervalued As Record Output Lifts Dividend",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/eog-resources-eog-stock-may-070730112.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-18T07:07:30Z"
+        },
+        {
+          "title": "EOG Resources (EOG) Lifts Dividend And Output On An Undervalued View",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/eog-resources-eog-lifts-dividend-061638768.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-18T06:16:38Z"
+        },
+        {
+          "title": "EOG vs. ConocoPhillips: The Better Bet as Oil Prices Stay Elevated",
+          "url": "https://finance.yahoo.com/energy/articles/eog-vs-conocophillips-better-bet-143500446.html",
+          "publisher": "Zacks",
+          "published": "2026-11-17T14:35:00Z"
         }
       ]
     },
@@ -1958,8 +1984,8 @@
           "name": "EOG Resources Inc",
           "short": "EOG Resources",
           "weight_pct": 4.07,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": -0.36,
+          "price": 154.91,
           "currency": "USD"
         },
         {
@@ -2057,8 +2083,8 @@
         "name": "EOG Resources Inc",
         "short": "EOG Resources",
         "weight_pct": 4.07,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": -0.36,
+        "price": 154.91,
         "currency": "USD"
       },
       {
@@ -2099,8 +2125,8 @@
     },
     {
       "label": "NatGas",
-      "price": 3.2,
-      "change_pct": -0.31
+      "price": 3.21,
+      "change_pct": 0.09
     }
   ]
 }
