@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-18T09:10:26+00:00",
-  "as_of_local": "2026-11-18 09:10:26 UTC",
+  "as_of_utc": "2026-11-18T09:15:30+00:00",
+  "as_of_local": "2026-11-18 09:15:30 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "MPC"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -281,34 +283,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-constellation-energy-stock-141343450.html",
           "publisher": "Trefis",
           "published": "2026-11-17T14:13:43Z"
-        }
-      ]
-    },
-    {
-      "symbol": "MPC",
-      "name": "Marathon Petroleum",
-      "price": 395.61,
-      "previous_close": 402.19,
-      "change_pct": -1.64,
-      "market_cap": 107717588802.29004,
-      "headlines": [
-        {
-          "title": "Is Chevron Stock Overpriced Versus Its Oil Rivals?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/chevron-stock-overpriced-versus-oil-112945595.html",
-          "publisher": "Trefis",
-          "published": "2026-11-17T14:13:41Z"
-        },
-        {
-          "title": "Why Pay More For Exxon Mobil Stock Than Chevron?",
-          "url": "https://finance.yahoo.com/energy/articles/why-pay-more-exxon-mobil-141341851.html",
-          "publisher": "Trefis",
-          "published": "2026-11-17T14:13:41Z"
-        },
-        {
-          "title": "Marathon Petroleum Stock: Analyst Estimates & Ratings",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/marathon-petroleum-stock-analyst-estimates-132302438.html",
-          "publisher": "Barchart",
-          "published": "2026-11-17T13:23:02Z"
         }
       ]
     },
@@ -1948,8 +1922,8 @@
           "name": "Marathon Petroleum Corp",
           "short": "Marathon",
           "weight_pct": 4.64,
-          "change_pct": -1.64,
-          "price": 395.61,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -2047,8 +2021,8 @@
         "name": "Marathon Petroleum Corp",
         "short": "Marathon",
         "weight_pct": 4.64,
-        "change_pct": -1.64,
-        "price": 395.61,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -2115,13 +2089,13 @@
     },
     {
       "label": "WTI",
-      "price": 82.78,
-      "change_pct": -3.76
+      "price": 82.75,
+      "change_pct": -3.79
     },
     {
       "label": "Brent",
-      "price": 88.85,
-      "change_pct": -4.61
+      "price": 88.83,
+      "change_pct": -4.63
     },
     {
       "label": "NatGas",
