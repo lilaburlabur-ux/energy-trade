@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-18T14:14:57+00:00",
-  "as_of_local": "2026-11-18 14:14:57 UTC",
+  "as_of_utc": "2026-11-18T14:19:54+00:00",
+  "as_of_local": "2026-11-18 14:19:54 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "UUUU"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -245,16 +243,16 @@
           "published": "2026-11-18T13:49:41Z"
         },
         {
+          "title": "5 High-Flying High-Yielding Stock Picks From a Capricious Wall Street",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/5-high-flying-high-yielding-131300383.html",
+          "publisher": "Zacks",
+          "published": "2026-11-18T13:13:00Z"
+        },
+        {
           "title": "Equinor (OB:EQNR) Marks First Seabed Monitoring At UK Endurance CO2 Store",
           "url": "https://finance.yahoo.com/energy/articles/equinor-ob-eqnr-marks-first-061538703.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-18T06:15:38Z"
-        },
-        {
-          "title": "What Does BP (LSE:BP.) Endurance Role Mean For Its Low Carbon Shift?",
-          "url": "https://finance.yahoo.com/energy/articles/does-bp-lse-bp-endurance-043519274.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-18T04:35:19Z"
         }
       ]
     },
@@ -1771,6 +1769,34 @@
       ]
     },
     {
+      "symbol": "UUUU",
+      "name": "Energy Fuels",
+      "price": 5.93,
+      "previous_close": 6.04,
+      "change_pct": -1.82,
+      "market_cap": 1570429626.8792715,
+      "headlines": [
+        {
+          "title": "Can Cameco's Uranium Contracts Drive Sustained Long-Term Growth?",
+          "url": "https://finance.yahoo.com/energy/articles/camecos-uranium-contracts-drive-sustained-122700516.html",
+          "publisher": "Zacks",
+          "published": "2026-11-18T12:27:00Z"
+        },
+        {
+          "title": "How Risky Is USA Rare Earth Stock?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/risky-usa-rare-earth-stock-192847047.html",
+          "publisher": "Trefis",
+          "published": "2026-11-17T19:28:47Z"
+        },
+        {
+          "title": "Will Energy Fuels' Contract Portfolio Support Higher Uranium Sales?",
+          "url": "https://finance.yahoo.com/energy/articles/energy-fuels-contract-portfolio-support-141000113.html",
+          "publisher": "Zacks",
+          "published": "2026-11-17T14:10:00Z"
+        }
+      ]
+    },
+    {
       "symbol": "SEDG",
       "name": "SolarEdge",
       "price": 21.72,
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 83.81,
-      "change_pct": -2.56
+      "price": 84.13,
+      "change_pct": -2.19
     },
     {
       "label": "Brent",
-      "price": 89.91,
-      "change_pct": -3.47
+      "price": 90.16,
+      "change_pct": -3.2
     },
     {
       "label": "NatGas",
-      "price": 3.25,
-      "change_pct": 1.22
+      "price": 3.26,
+      "change_pct": 1.75
     }
   ]
 }
