@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-18T09:05:33+00:00",
-  "as_of_local": "2026-11-18 09:05:33 UTC",
+  "as_of_utc": "2026-11-18T09:10:26+00:00",
+  "as_of_local": "2026-11-18 09:10:26 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -13,6 +13,12 @@
       "market_cap": 682086812248.5977,
       "headlines": [
         {
+          "title": "SBM Offshore wins FPSO contracts from ExxonMobil for Longtail project",
+          "url": "https://finance.yahoo.com/news/sbm-offshore-wins-fpso-contracts-085715013.html",
+          "publisher": "Offshore Technology",
+          "published": "2026-11-18T08:57:15Z"
+        },
+        {
           "title": "Oil Market Midweek Wrap: Prices Fall Despite Iran Escalation \u2013 Here\u2019s What Traders Are Watching",
           "url": "https://finance.yahoo.com/energy/articles/oil-market-midweek-wrap-prices-074020976.html",
           "publisher": "Stocktwits",
@@ -23,12 +29,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/bet-behind-exxonmobils-rally-201029387.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-17T20:10:29Z"
-        },
-        {
-          "title": "ExxonMobil makes a bold $3 billion move to clean up its balance sheet",
-          "url": "https://finance.yahoo.com/energy/articles/exxonmobil-makes-bold-3-billion-181700764.html",
-          "publisher": "TheStreet",
-          "published": "2026-11-17T18:17:00Z"
         }
       ]
     },
@@ -2109,19 +2109,24 @@
   },
   "tape": [
     {
+      "label": "SPX",
+      "price": 7340.53,
+      "change_pct": -1.03
+    },
+    {
       "label": "WTI",
-      "price": 82.69,
-      "change_pct": -3.86
+      "price": 82.78,
+      "change_pct": -3.76
     },
     {
       "label": "Brent",
-      "price": 88.76,
-      "change_pct": -4.7
+      "price": 88.85,
+      "change_pct": -4.61
     },
     {
       "label": "NatGas",
       "price": 3.19,
-      "change_pct": -0.62
+      "change_pct": -0.56
     }
   ]
 }
