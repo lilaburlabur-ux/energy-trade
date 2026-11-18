@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-18T05:24:46+00:00",
-  "as_of_local": "2026-11-18 05:24:46 UTC",
+  "as_of_utc": "2026-11-18T05:39:43+00:00",
+  "as_of_local": "2026-11-18 05:39:43 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "EQNR"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -41,6 +43,12 @@
       "market_cap": 421724468682.7859,
       "headlines": [
         {
+          "title": "Here Are the Current Berkshire Hathaway Stock Holdings",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaways-stock-holdings-kiplingers-162613318.html",
+          "publisher": "Kiplinger",
+          "published": "2026-11-18T03:13:25Z"
+        },
+        {
           "title": "Chevron Says AI Has Already Captured Over $100 Million in Value. Here's Where It Might Find an Even Bigger Payoff.",
           "url": "https://finance.yahoo.com/technology/ai/articles/chevron-says-ai-already-captured-002502768.html",
           "publisher": "Motley Fool",
@@ -51,12 +59,6 @@
           "url": "https://finance.yahoo.com/energy/articles/chevron-cvx-nears-5-billion-001620087.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-18T00:16:20Z"
-        },
-        {
-          "title": "Sector Update: Energy Stocks Lower in Afternoon Trading",
-          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-lower-afternoon-190033166.html",
-          "publisher": "MT Newswires",
-          "published": "2026-11-17T19:00:33Z"
         }
       ]
     },
@@ -349,6 +351,12 @@
       "market_cap": 101237322427.10294,
       "headlines": [
         {
+          "title": "What Does Duke Energy (DUK) Winning Carolinas Plan Approval Mean For Investors?",
+          "url": "https://finance.yahoo.com/energy/articles/does-duke-energy-duk-winning-052304470.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-18T05:23:04Z"
+        },
+        {
           "title": "4 High-Yield Energy Stocks That Pay Roth IRA Investors Tax-Free Income",
           "url": "https://finance.yahoo.com/energy/articles/4-high-yield-energy-stocks-171556867.html",
           "publisher": "24/7 Wall St.",
@@ -359,12 +367,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/invest-200-000-5-dividend-163050521.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-17T16:30:50Z"
-        },
-        {
-          "title": "Why Did Constellation Energy Stock Jump Over 10%?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-constellation-energy-stock-141343450.html",
-          "publisher": "Trefis",
-          "published": "2026-11-17T14:13:43Z"
         }
       ]
     },
@@ -393,34 +395,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/chevron-stock-overpriced-versus-oil-112945595.html",
           "publisher": "Trefis",
           "published": "2026-11-17T14:13:41Z"
-        }
-      ]
-    },
-    {
-      "symbol": "EQNR",
-      "name": "Equinor",
-      "price": 41.44,
-      "previous_close": 41.05,
-      "change_pct": 0.95,
-      "market_cap": 98054451319.66774,
-      "headlines": [
-        {
-          "title": "Equinor Hit by Cyberattack but Oil and Gas Production Remains Unaffected",
-          "url": "https://finance.yahoo.com/energy/articles/equinor-hit-cyberattack-oil-gas-013638673.html",
-          "publisher": "Oilprice.com",
-          "published": "2026-11-18T01:36:38Z"
-        },
-        {
-          "title": "European Equities Traded in the US as American Depositary Receipts Tumble in Tuesday Trading",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/european-equities-traded-us-american-162006772.html",
-          "publisher": "MT Newswires",
-          "published": "2026-11-17T16:20:06Z"
-        },
-        {
-          "title": "Sector Update: Energy Stocks Advance Premarket Tuesday",
-          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-advance-premarket-142445991.html",
-          "publisher": "MT Newswires",
-          "published": "2026-11-17T14:24:45Z"
         }
       ]
     },
@@ -601,6 +575,12 @@
       "market_cap": 73303950465.59216,
       "headlines": [
         {
+          "title": "Honeywell International vs. Vertiv: Which Industrials Stock Is a Better Buy for 2027?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/honeywell-international-vs-vertiv-industrials-051902799.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-18T05:19:02Z"
+        },
+        {
           "title": "Caterpillar vs. Vertiv: Which Industrials Stock Is a Better Buy for 2027?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/caterpillar-vs-vertiv-industrials-stock-215002065.html",
           "publisher": "Motley Fool",
@@ -611,12 +591,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/steve-eisman-says-biggest-ai-194755611.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-17T19:47:55Z"
-        },
-        {
-          "title": "Why Vertiv\u2019s Big AI Data Center Power Breakthrough Couldn\u2019t Save the Stock Today",
-          "url": "https://www.barrons.com/articles/vertiv-new-power-system-ai-data-center-stock-ca8a28c7?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-11-17T18:08:00Z"
         }
       ]
     },
@@ -825,6 +799,12 @@
       "market_cap": 56514051445.11549,
       "headlines": [
         {
+          "title": "Here Are the Current Berkshire Hathaway Stock Holdings",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaways-stock-holdings-kiplingers-162613318.html",
+          "publisher": "Kiplinger",
+          "published": "2026-11-18T03:13:25Z"
+        },
+        {
           "title": "5 Oil and Gas Stocks That Crushed Third-Quarter Earnings Estimates",
           "url": "https://finance.yahoo.com/energy/articles/5-oil-gas-stocks-crushed-010000263.html",
           "publisher": "Oilprice.com",
@@ -835,12 +815,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/occidentals-debt-cut-means-stock-141342973.html",
           "publisher": "Trefis",
           "published": "2026-11-17T14:13:42Z"
-        },
-        {
-          "title": "Why Pay More For Exxon Mobil Stock Than Chevron?",
-          "url": "https://finance.yahoo.com/energy/articles/why-pay-more-exxon-mobil-141341851.html",
-          "publisher": "Trefis",
-          "published": "2026-11-17T14:13:41Z"
         }
       ]
     },
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 84.76,
-      "change_pct": -1.45
+      "price": 85.06,
+      "change_pct": -1.1
     },
     {
       "label": "Brent",
-      "price": 92.48,
-      "change_pct": -0.71
+      "price": 92.79,
+      "change_pct": -0.38
     },
     {
       "label": "NatGas",
       "price": 3.18,
-      "change_pct": -0.97
+      "change_pct": -0.9
     }
   ]
 }
