@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-18T08:41:12+00:00",
-  "as_of_local": "2026-11-18 08:41:12 UTC",
+  "as_of_utc": "2026-11-18T08:46:43+00:00",
+  "as_of_local": "2026-11-18 08:46:43 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "AR"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1433,34 +1435,6 @@
       ]
     },
     {
-      "symbol": "AR",
-      "name": "Antero Resources",
-      "price": 36.83,
-      "previous_close": 37.71,
-      "change_pct": -2.33,
-      "market_cap": 11311819442.382812,
-      "headlines": [
-        {
-          "title": "How These 6 Natural Gas Stocks Make Money",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/6-natural-gas-stocks-money-153300478.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-15T15:33:00Z"
-        },
-        {
-          "title": "U.S. Targeted Value Portfolio (DFAT) Buys $3.7 Million More Coeur Mining on Wednesday",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/u-targeted-value-portfolio-dfat-110436527.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-13T11:04:36Z"
-        },
-        {
-          "title": "David Einhorn\u2019s Best Buy Is Already Up 36%. Is It Too Late to Follow Him?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/david-einhorn-best-buy-already-194953923.html",
-          "publisher": "TIKR",
-          "published": "2026-11-11T19:49:53Z"
-        }
-      ]
-    },
-    {
       "symbol": "BWXT",
       "name": "BWX Technologies",
       "price": 118.82,
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 84.29,
-      "change_pct": -2.0
+      "price": 82.98,
+      "change_pct": -3.52
     },
     {
       "label": "Brent",
-      "price": 91.84,
-      "change_pct": -1.4
+      "price": 89.05,
+      "change_pct": -4.39
     },
     {
       "label": "NatGas",
       "price": 3.19,
-      "change_pct": -0.47
+      "change_pct": -0.56
     }
   ]
 }
