@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-18T23:36:11+00:00",
-  "as_of_local": "2026-11-18 23:36:11 UTC",
+  "as_of_utc": "2026-11-18T23:41:22+00:00",
+  "as_of_local": "2026-11-18 23:41:22 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "EOSE"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1881,6 +1879,34 @@
           "published": "2026-11-16T12:45:01Z"
         }
       ]
+    },
+    {
+      "symbol": "EOSE",
+      "name": "Eos Energy",
+      "price": 1.48,
+      "previous_close": 1.49,
+      "change_pct": -0.67,
+      "market_cap": 542218725.5078387,
+      "headlines": [
+        {
+          "title": "Eos Energy Enterprises (EOSE) Stock Looks Fully Priced After Revenue Jump",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/eos-energy-enterprises-eose-stock-131808170.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-06T13:18:08Z"
+        },
+        {
+          "title": "Eos Energy Enterprises Inc (EOSE) Q3 2026 Earnings Call Highlights: Record Revenue and Margin ...",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/eos-energy-enterprises-inc-eose-071128915.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-06T07:11:28Z"
+        },
+        {
+          "title": "Eos Energy Enterprises, Inc. Q3 2026 Earnings Call Summary",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/eos-energy-enterprises-inc-q3-040539828.html",
+          "publisher": "Moby",
+          "published": "2026-11-06T04:05:39Z"
+        }
+      ]
     }
   ],
   "etfs": [
@@ -2094,13 +2120,13 @@
     },
     {
       "label": "Brent",
-      "price": 88.85,
-      "change_pct": -4.61
+      "price": 88.88,
+      "change_pct": -4.57
     },
     {
       "label": "NatGas",
       "price": 3.39,
-      "change_pct": 5.74
+      "change_pct": 5.55
     }
   ]
 }
