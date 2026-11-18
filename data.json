@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-18T00:28:14+00:00",
-  "as_of_local": "2026-11-18 00:28:14 UTC",
+  "as_of_utc": "2026-11-18T00:33:19+00:00",
+  "as_of_local": "2026-11-18 00:33:19 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -41,6 +41,12 @@
       "market_cap": 421724468682.7859,
       "headlines": [
         {
+          "title": "Chevron Says AI Has Already Captured Over $100 Million in Value. Here's Where It Might Find an Even Bigger Payoff.",
+          "url": "https://finance.yahoo.com/technology/ai/articles/chevron-says-ai-already-captured-002502768.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-18T00:25:02Z"
+        },
+        {
           "title": "Sector Update: Energy Stocks Lower in Afternoon Trading",
           "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-lower-afternoon-190033166.html",
           "publisher": "MT Newswires",
@@ -51,12 +57,6 @@
           "url": "https://finance.yahoo.com/energy/articles/chevrons-5-billion-gulf-oil-174239048.html",
           "publisher": "GuruFocus.com",
           "published": "2026-11-17T17:42:39Z"
-        },
-        {
-          "title": "4 High-Yield Energy Stocks That Pay Roth IRA Investors Tax-Free Income",
-          "url": "https://finance.yahoo.com/energy/articles/4-high-yield-energy-stocks-171556867.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-17T17:15:56Z"
         }
       ]
     },
@@ -1133,6 +1133,12 @@
       "market_cap": 26443228585.797413,
       "headlines": [
         {
+          "title": "Halliburton (HAL) Has Fresh Attention, But What Is The Market Weighing?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/halliburton-hal-fresh-attention-market-001919561.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-18T00:19:19Z"
+        },
+        {
           "title": "Halliburton Targets Egypt Growth With Proposed 50-Well Program",
           "url": "https://finance.yahoo.com/energy/articles/halliburton-targets-egypt-growth-proposed-151800572.html",
           "publisher": "Zacks",
@@ -1143,12 +1149,6 @@
           "url": "https://finance.yahoo.com/energy/articles/imo-q3-earnings-beat-refining-151500781.html",
           "publisher": "Zacks",
           "published": "2026-11-17T15:15:00Z"
-        },
-        {
-          "title": "RIG Q3 Earnings Miss Estimates as Rig Utilization Falls",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/rig-q3-earnings-miss-estimates-161600086.html",
-          "publisher": "Zacks",
-          "published": "2026-11-16T16:16:00Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 85.6,
-      "change_pct": -0.14
+      "price": 85.57,
+      "change_pct": -0.17
     },
     {
       "label": "Brent",
-      "price": 93.18,
-      "change_pct": 0.8
+      "price": 93.14,
+      "change_pct": 0.76
     },
     {
       "label": "NatGas",
       "price": 3.2,
-      "change_pct": 2.56
+      "change_pct": 2.37
     }
   ]
 }
