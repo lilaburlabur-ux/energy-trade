@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-18T12:43:29+00:00",
-  "as_of_local": "2026-11-18 12:43:29 UTC",
+  "as_of_utc": "2026-11-18T12:48:35+00:00",
+  "as_of_local": "2026-11-18 12:48:35 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -993,6 +993,12 @@
       "market_cap": 47131503419.3895,
       "headlines": [
         {
+          "title": "Baker Hughes & TPAO Partner on Next-Generation Geothermal in Turkiye",
+          "url": "https://finance.yahoo.com/energy/articles/baker-hughes-tpao-partner-next-113400937.html",
+          "publisher": "Zacks",
+          "published": "2026-11-18T11:34:00Z"
+        },
+        {
           "title": "Nextchem agrees to buy Chart\u2019s LNG technologies for $220m",
           "url": "https://finance.yahoo.com/news/nextchem-agrees-buy-chart-lng-102055516.html",
           "publisher": "Offshore Technology",
@@ -1003,12 +1009,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/cnh-industrial-director-runs-baker-092632780.html",
           "publisher": "TIKR",
           "published": "2026-11-18T09:26:32Z"
-        },
-        {
-          "title": "Bernstein upgrades Maire on de-risked projects, LNG technology growth potential",
-          "url": "https://finance.yahoo.com/energy/articles/bernstein-upgrades-maire-risked-projects-123227523.html",
-          "publisher": "Investing.com",
-          "published": "2026-11-17T12:32:27Z"
         }
       ]
     },
@@ -1161,6 +1161,12 @@
       "market_cap": 24368185081.84488,
       "headlines": [
         {
+          "title": "Baker Hughes & TPAO Partner on Next-Generation Geothermal in Turkiye",
+          "url": "https://finance.yahoo.com/energy/articles/baker-hughes-tpao-partner-next-113400937.html",
+          "publisher": "Zacks",
+          "published": "2026-11-18T11:34:00Z"
+        },
+        {
           "title": "Cisco Systems & 2 Momentum Stocks to Buy Now for Big Upside",
           "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-systems-2-momentum-stocks-190000090.html",
           "publisher": "Zacks",
@@ -1171,12 +1177,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-core-p-mid-cap-110548643.html",
           "publisher": "GuruFocus.com",
           "published": "2026-11-16T11:05:48Z"
-        },
-        {
-          "title": "What State Street SPDR S&P MidCap 400 ETF (MDY) Sold: TechnipFMC Leads on Nov. 11",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/state-street-spdr-p-midcap-110340208.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-13T11:03:40Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 84.17,
-      "change_pct": -2.14
+      "price": 84.21,
+      "change_pct": -2.09
     },
     {
       "label": "Brent",
-      "price": 90.22,
-      "change_pct": -3.14
+      "price": 90.3,
+      "change_pct": -3.05
     },
     {
       "label": "NatGas",
       "price": 3.25,
-      "change_pct": 1.22
+      "change_pct": 1.37
     }
   ]
 }
