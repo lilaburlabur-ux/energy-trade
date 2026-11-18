@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-18T13:44:29+00:00",
-  "as_of_local": "2026-11-18 13:44:29 UTC",
+  "as_of_utc": "2026-11-18T13:49:21+00:00",
+  "as_of_local": "2026-11-18 13:49:21 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "RUN"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -601,6 +603,12 @@
       "market_cap": 73303950465.59216,
       "headlines": [
         {
+          "title": "Corning vs. Vertiv: Which Technology Stock Is a Better Buy for 2027?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/corning-vs-vertiv-technology-stock-134001109.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-18T13:40:01Z"
+        },
+        {
           "title": "Honeywell International vs. Vertiv: Which Industrials Stock Is a Better Buy for 2027?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/honeywell-international-vs-vertiv-industrials-051902799.html",
           "publisher": "Motley Fool",
@@ -611,12 +619,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/caterpillar-vs-vertiv-industrials-stock-215002065.html",
           "publisher": "Motley Fool",
           "published": "2026-11-17T21:50:02Z"
-        },
-        {
-          "title": "Steve Eisman Says the Biggest AI Risk Is Local Governments Slowing Data Center Construction",
-          "url": "https://finance.yahoo.com/technology/ai/articles/steve-eisman-says-biggest-ai-194755611.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-17T19:47:55Z"
         }
       ]
     },
@@ -1713,34 +1715,6 @@
       ]
     },
     {
-      "symbol": "RUN",
-      "name": "Sunrun",
-      "price": 7.72,
-      "previous_close": 8.35,
-      "change_pct": -7.54,
-      "market_cap": 1867936252.154633,
-      "headlines": [
-        {
-          "title": "Otovo Field Services Drive Profitability \u2013 Quarterly Update Report",
-          "url": "https://finance.yahoo.com/energy/articles/otovo-field-services-drive-profitability-225018400.html",
-          "publisher": "Exec Edge",
-          "published": "2026-11-17T22:50:18Z"
-        },
-        {
-          "title": "Own Tesla? You Own A 95% Bet Beyond Cars",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/own-tesla-own-95-bet-141340605.html",
-          "publisher": "Trefis",
-          "published": "2026-11-17T14:13:40Z"
-        },
-        {
-          "title": "Tesla Stock At $390.22 Already Prices In Most Of 2030",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-390-22-already-112948609.html",
-          "publisher": "Trefis",
-          "published": "2026-11-17T11:29:48Z"
-        }
-      ]
-    },
-    {
       "symbol": "SMR",
       "name": "NuScale Power",
       "price": 4.09,
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 84.03,
-      "change_pct": -2.3
+      "price": 83.91,
+      "change_pct": -2.44
     },
     {
       "label": "Brent",
-      "price": 89.97,
-      "change_pct": -3.4
+      "price": 89.88,
+      "change_pct": -3.5
     },
     {
       "label": "NatGas",
-      "price": 3.26,
-      "change_pct": 1.65
+      "price": 3.27,
+      "change_pct": 1.81
     }
   ]
 }
