@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-18T04:14:09+00:00",
-  "as_of_local": "2026-11-18 04:14:09 UTC",
+  "as_of_utc": "2026-11-18T04:29:13+00:00",
+  "as_of_local": "2026-11-18 04:29:13 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -209,6 +209,12 @@
       "market_cap": 130967229309.08203,
       "headlines": [
         {
+          "title": "Eaton vs. Corning: Which Industrials Stock Is a Better Buy for 2027?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/eaton-vs-corning-industrials-stock-042102725.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-18T04:21:02Z"
+        },
+        {
           "title": "Eaton vs. Honeywell International: Which Industrials Stock Is a Better Buy for 2027?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/eaton-vs-honeywell-international-industrials-212002619.html",
           "publisher": "Motley Fool",
@@ -219,12 +225,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/moved-vertiv-stock-nearly-7-144049960.html",
           "publisher": "Trefis",
           "published": "2026-11-17T14:40:49Z"
-        },
-        {
-          "title": "What Could Send Honeywell Stock Higher?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/could-send-honeywell-stock-higher-112945996.html",
-          "publisher": "Trefis",
-          "published": "2026-11-17T14:13:41Z"
         }
       ]
     },
@@ -2115,13 +2115,13 @@
     },
     {
       "label": "WTI",
-      "price": 84.88,
-      "change_pct": -0.98
+      "price": 85.0,
+      "change_pct": -0.84
     },
     {
       "label": "Brent",
-      "price": 92.55,
-      "change_pct": 0.12
+      "price": 92.71,
+      "change_pct": 0.29
     },
     {
       "label": "NatGas",
