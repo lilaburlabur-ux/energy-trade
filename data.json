@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-19T21:39:24+00:00",
-  "as_of_local": "2026-11-19 21:39:24 UTC",
+  "as_of_utc": "2026-11-19T21:44:32+00:00",
+  "as_of_local": "2026-11-19 21:44:32 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "ETN"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -12,6 +14,12 @@
       "change_pct": -1.03,
       "market_cap": 648310793147.8025,
       "headlines": [
+        {
+          "title": "ExxonMobil Holdings (XOM) Gets Mozambique Approval For $30 Billion Rovuma LNG Plan",
+          "url": "https://finance.yahoo.com/energy/articles/exxonmobil-holdings-xom-gets-mozambique-211612645.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-19T21:16:12Z"
+        },
         {
           "title": "Trump Cheers the \u201cBiggest Drop in Gasoline in 18 Years.\u201d Not Good for Exxon and Chevron",
           "url": "https://finance.yahoo.com/energy/articles/trump-cheers-biggest-drop-gasoline-195817716.html",
@@ -23,12 +31,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/retirees-turn-1-million-passive-180050853.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-19T18:00:50Z"
-        },
-        {
-          "title": "Will Eni's Expanded Lummus Partnership Boost Chemical Growth?",
-          "url": "https://finance.yahoo.com/energy/articles/enis-expanded-lummus-partnership-boost-170500348.html",
-          "publisher": "Zacks",
-          "published": "2026-11-19T17:05:00Z"
         }
       ]
     },
@@ -197,34 +199,6 @@
           "url": "https://finance.yahoo.com/energy/articles/drilling-yield-gulf-chevron-drops-205000194.html",
           "publisher": "MarketBeat",
           "published": "2026-11-18T20:50:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "ETN",
-      "name": "Eaton",
-      "price": 330.57,
-      "previous_close": 338.34,
-      "change_pct": -2.3,
-      "market_cap": 128426447845.45898,
-      "headlines": [
-        {
-          "title": "The Concern Behind Erste Group\u2019s Call on Eaton (ETN)",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/concern-behind-erste-group-call-151651946.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-11-19T15:16:51Z"
-        },
-        {
-          "title": "Are You Overpaying For Vertiv Stock Versus Its Rivals?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/overpaying-vertiv-stock-versus-rivals-120804459.html",
-          "publisher": "Trefis",
-          "published": "2026-11-19T12:08:04Z"
-        },
-        {
-          "title": "Your FCX Stock Rides Chips, Gold And The Dollar",
-          "url": "https://finance.yahoo.com/markets/commodities/articles/fcx-stock-rides-chips-gold-111820839.html",
-          "publisher": "Trefis",
-          "published": "2026-11-19T11:18:20Z"
         }
       ]
     },
@@ -2115,8 +2089,8 @@
     },
     {
       "label": "WTI",
-      "price": 83.19,
-      "change_pct": -0.08
+      "price": 83.16,
+      "change_pct": -0.12
     },
     {
       "label": "Brent",
@@ -2126,7 +2100,7 @@
     {
       "label": "NatGas",
       "price": 3.25,
-      "change_pct": -3.74
+      "change_pct": -3.71
     }
   ]
 }
