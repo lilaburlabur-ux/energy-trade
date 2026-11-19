@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-19T23:40:54+00:00",
-  "as_of_local": "2026-11-19 23:40:54 UTC",
+  "as_of_utc": "2026-11-19T23:45:26+00:00",
+  "as_of_local": "2026-11-19 23:45:26 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -1217,6 +1217,12 @@
       "market_cap": 19710496807.53296,
       "headlines": [
         {
+          "title": "NRG Energy (NRG) Stock Looks Undervalued As Asset Sale Reshapes Earnings",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nrg-energy-nrg-stock-looks-232018965.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-19T23:20:18Z"
+        },
+        {
           "title": "Vistra Just Dropped 16% in a Month, but Its Plans Always Had \u201ca More Conservative View of the AI Build-Out\u201d",
           "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-just-dropped-16-month-071339801.html",
           "publisher": "TIKR",
@@ -1227,12 +1233,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/nrg-energy-inc-nrg-attracting-130002191.html",
           "publisher": "Zacks",
           "published": "2026-11-17T13:00:02Z"
-        },
-        {
-          "title": "Vistra Stock's $21 Billion Debt: Should Holders Worry?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-stocks-21-billion-debt-103858509.html",
-          "publisher": "Trefis",
-          "published": "2026-11-17T10:38:58Z"
         }
       ]
     },
@@ -2120,13 +2120,13 @@
     },
     {
       "label": "Brent",
-      "price": 89.99,
-      "change_pct": -2.13
+      "price": 89.84,
+      "change_pct": -2.29
     },
     {
       "label": "NatGas",
       "price": 3.25,
-      "change_pct": -3.74
+      "change_pct": -3.68
     }
   ]
 }
