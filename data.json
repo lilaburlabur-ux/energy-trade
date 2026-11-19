@@ -1,10 +1,9 @@
 {
-  "as_of_utc": "2026-11-19T14:24:19+00:00",
-  "as_of_local": "2026-11-19 14:24:19 UTC",
+  "as_of_utc": "2026-11-19T14:29:28+00:00",
+  "as_of_local": "2026-11-19 14:29:28 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "SEDG",
-    "SO"
+    "FTI"
   ],
   "stocks": [
     {
@@ -16,6 +15,12 @@
       "market_cap": 655041547526.7993,
       "headlines": [
         {
+          "title": "How XOM's Strong Balance Sheet Helps Manage Oil Market Volatility",
+          "url": "https://finance.yahoo.com/energy/articles/xoms-strong-balance-sheet-helps-131400951.html",
+          "publisher": "Zacks",
+          "published": "2026-11-19T13:14:00Z"
+        },
+        {
           "title": "What Sent Valero Energy Stock Lower?",
           "url": "https://finance.yahoo.com/energy/articles/sent-valero-energy-stock-lower-124140999.html",
           "publisher": "Trefis",
@@ -26,12 +31,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/buy-occidental-stock-cash-flow-113901476.html",
           "publisher": "Trefis",
           "published": "2026-11-19T11:39:01Z"
-        },
-        {
-          "title": "ETFs Are Buying ExxonMobil (XOM) on Nov. 17",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-buying-exxonmobil-xom-nov-110201088.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-19T11:02:01Z"
         }
       ]
     },
@@ -44,6 +43,12 @@
       "market_cap": 401724118401.2859,
       "headlines": [
         {
+          "title": "How XOM's Strong Balance Sheet Helps Manage Oil Market Volatility",
+          "url": "https://finance.yahoo.com/energy/articles/xoms-strong-balance-sheet-helps-131400951.html",
+          "publisher": "Zacks",
+          "published": "2026-11-19T13:14:00Z"
+        },
+        {
           "title": "What Sent Valero Energy Stock Lower?",
           "url": "https://finance.yahoo.com/energy/articles/sent-valero-energy-stock-lower-124140999.html",
           "publisher": "Trefis",
@@ -54,12 +59,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/retirees-turn-500-000-passive-124055597.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-19T12:40:55Z"
-        },
-        {
-          "title": "Should You Buy Occidental Stock For Its Cash Flow?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/buy-occidental-stock-cash-flow-113901476.html",
-          "publisher": "Trefis",
-          "published": "2026-11-19T11:39:01Z"
         }
       ]
     },
@@ -256,6 +255,34 @@
           "url": "https://finance.yahoo.com/energy/articles/eni-vs-bp-energy-firm-163300288.html",
           "publisher": "Zacks",
           "published": "2026-11-18T16:33:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "SO",
+      "name": "Southern Company",
+      "price": 94.41,
+      "previous_close": 93.6,
+      "change_pct": 0.87,
+      "market_cap": 109917888011.54123,
+      "headlines": [
+        {
+          "title": "Will Buyers Defend Constellation Energy Stock At $263?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/buyers-defend-constellation-energy-stock-120804759.html",
+          "publisher": "Trefis",
+          "published": "2026-11-19T12:08:04Z"
+        },
+        {
+          "title": "One Unsettled Question Sits Under Southern Stock",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/one-unsettled-sits-under-southern-111820074.html",
+          "publisher": "Trefis",
+          "published": "2026-11-19T11:18:20Z"
+        },
+        {
+          "title": "PG&E Stock's Biggest Risk Is California's Wildfire Rules",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/pg-e-stocks-biggest-risk-134519568.html",
+          "publisher": "Trefis",
+          "published": "2026-11-18T13:45:19Z"
         }
       ]
     },
@@ -526,16 +553,16 @@
           "published": "2026-11-19T13:37:06Z"
         },
         {
+          "title": "How XOM's Strong Balance Sheet Helps Manage Oil Market Volatility",
+          "url": "https://finance.yahoo.com/energy/articles/xoms-strong-balance-sheet-helps-131400951.html",
+          "publisher": "Zacks",
+          "published": "2026-11-19T13:14:00Z"
+        },
+        {
           "title": "Should You Buy Occidental Stock For Its Cash Flow?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/buy-occidental-stock-cash-flow-113901476.html",
           "publisher": "Trefis",
           "published": "2026-11-19T11:39:01Z"
-        },
-        {
-          "title": "Why You Should Think About Occidental Petroleum Differently Now",
-          "url": "https://finance.yahoo.com/energy/articles/why-think-occidental-petroleum-differently-172147996.html",
-          "publisher": "Trefis",
-          "published": "2026-11-18T17:21:47Z"
         }
       ]
     },
@@ -1124,34 +1151,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/halliburton-hal-fresh-attention-market-001919561.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-18T00:19:19Z"
-        }
-      ]
-    },
-    {
-      "symbol": "FTI",
-      "name": "TechnipFMC",
-      "price": 62.43,
-      "previous_close": 62.67,
-      "change_pct": -0.38,
-      "market_cap": 24274865909.44252,
-      "headlines": [
-        {
-          "title": "iShares Core S&P Mid-Cap (IJH) Adds Chime Financial on Tuesday",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-core-p-mid-cap-110426867.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-19T11:04:26Z"
-        },
-        {
-          "title": "California Resources Builds Integrated Energy Growth Platform",
-          "url": "https://finance.yahoo.com/energy/articles/california-resources-builds-integrated-energy-142700805.html",
-          "publisher": "Zacks",
-          "published": "2026-11-18T14:27:00Z"
-        },
-        {
-          "title": "Petrobras Awards $410M Subsea Contract to Expand Brazil Operations",
-          "url": "https://finance.yahoo.com/energy/articles/petrobras-awards-410m-subsea-contract-142100318.html",
-          "publisher": "Zacks",
-          "published": "2026-11-18T14:21:00Z"
         }
       ]
     },
@@ -1772,6 +1771,34 @@
       ]
     },
     {
+      "symbol": "SEDG",
+      "name": "SolarEdge",
+      "price": 21.01,
+      "previous_close": 21.72,
+      "change_pct": -3.27,
+      "market_cap": 1300821579.1810818,
+      "headlines": [
+        {
+          "title": "Did The Market Read First Solar Stock Right?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/did-market-read-first-solar-154151558.html",
+          "publisher": "Trefis",
+          "published": "2026-11-18T15:41:51Z"
+        },
+        {
+          "title": "Solar Stocks Rebound After A Brutal Rout: Is The Worst Over For ENPH, FSLR, CSIQ, SEDG Stocks?",
+          "url": "https://finance.yahoo.com/energy/articles/solar-stocks-rebound-brutal-rout-025353544.html",
+          "publisher": "Stocktwits",
+          "published": "2026-11-18T02:53:53Z"
+        },
+        {
+          "title": "First Solar and Enphase Fall 5% as Solar Selloff Stretches On; SolarEdge Drops 4%",
+          "url": "https://finance.yahoo.com/energy/articles/first-solar-enphase-fall-5-185832430.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-17T18:58:32Z"
+        }
+      ]
+    },
+    {
       "symbol": "ARRY",
       "name": "Array Technologies",
       "price": 4.21,
@@ -1808,6 +1835,12 @@
       "market_cap": 576949289.6769161,
       "headlines": [
         {
+          "title": "Gear Up for Fluence Energy (FLNC) Q4 Earnings: Wall Street Estimates for Key Metrics",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/gear-fluence-energy-flnc-q4-131506950.html",
+          "publisher": "Zacks",
+          "published": "2026-11-19T13:15:06Z"
+        },
+        {
           "title": "Golar LNG (GLNG) Surpasses Q3 Earnings and Revenue Estimates",
           "url": "https://finance.yahoo.com/markets/stocks/articles/golar-lng-glng-surpasses-q3-124001282.html",
           "publisher": "Zacks",
@@ -1818,12 +1851,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/earnings-preview-fluence-energy-inc-140003485.html",
           "publisher": "Zacks",
           "published": "2026-11-16T14:00:03Z"
-        },
-        {
-          "title": "Montauk Renewables (MNTK) Misses Q3 Earnings and Revenue Estimates",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/montauk-renewables-mntk-misses-q3-124501937.html",
-          "publisher": "Zacks",
-          "published": "2026-11-16T12:45:01Z"
         }
       ]
     },
@@ -2062,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 83.81,
-      "change_pct": 0.66
+      "price": 83.73,
+      "change_pct": 0.56
     },
     {
       "label": "Brent",
-      "price": 90.66,
-      "change_pct": -1.4
+      "price": 90.55,
+      "change_pct": -1.52
     },
     {
       "label": "NatGas",
-      "price": 3.39,
-      "change_pct": 0.65
+      "price": 3.38,
+      "change_pct": 0.18
     }
   ]
 }
