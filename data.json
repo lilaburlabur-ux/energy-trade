@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-19T14:04:07+00:00",
-  "as_of_local": "2026-11-19 14:04:07 UTC",
+  "as_of_utc": "2026-11-19T14:09:06+00:00",
+  "as_of_local": "2026-11-19 14:09:06 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "HAL"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -349,6 +351,12 @@
       "market_cap": 95852571684.35059,
       "headlines": [
         {
+          "title": "Valero Energy vs. Phillips 66: Which is the Stronger Refining Player?",
+          "url": "https://finance.yahoo.com/energy/articles/valero-energy-vs-phillips-66-125100442.html",
+          "publisher": "Zacks",
+          "published": "2026-11-19T12:51:00Z"
+        },
+        {
           "title": "What Moved Marathon Petroleum Stock?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/moved-marathon-petroleum-stock-124548617.html",
           "publisher": "Trefis",
@@ -359,12 +367,6 @@
           "url": "https://finance.yahoo.com/energy/articles/sent-valero-energy-stock-lower-124140999.html",
           "publisher": "Trefis",
           "published": "2026-11-19T12:41:40Z"
-        },
-        {
-          "title": "4 S&P 500 Stocks Paying Plump Dividends Double \u2014 And Don't Need AI",
-          "url": "https://www.investors.com/etfs-and-funds/etfs/sp-500-stocks-paying-plump-dividends-double-and-dont-need-ai/?src=A00220&yptr=yahoo",
-          "publisher": "Investor's Business Daily",
-          "published": "2026-11-19T12:16:22Z"
         }
       ]
     },
@@ -377,6 +379,12 @@
       "market_cap": 95501417102.70383,
       "headlines": [
         {
+          "title": "Valero Energy vs. Phillips 66: Which is the Stronger Refining Player?",
+          "url": "https://finance.yahoo.com/energy/articles/valero-energy-vs-phillips-66-125100442.html",
+          "publisher": "Zacks",
+          "published": "2026-11-19T12:51:00Z"
+        },
+        {
           "title": "What Moved Marathon Petroleum Stock?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/moved-marathon-petroleum-stock-124548617.html",
           "publisher": "Trefis",
@@ -387,12 +395,6 @@
           "url": "https://finance.yahoo.com/energy/articles/sent-valero-energy-stock-lower-124140999.html",
           "publisher": "Trefis",
           "published": "2026-11-19T12:41:40Z"
-        },
-        {
-          "title": "A $6.9 Billion Fund Dumps These 3 Stocks",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/6-9-billion-fund-dumps-181757159.html",
-          "publisher": "TIKR",
-          "published": "2026-11-18T18:17:57Z"
         }
       ]
     },
@@ -685,6 +687,12 @@
       "market_cap": 65544121502.62029,
       "headlines": [
         {
+          "title": "Forget JEPI: 4 High-Yield Dividend Stocks Retirees Should Own Instead",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/forget-jepi-4-high-yield-140052654.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-19T14:00:52Z"
+        },
+        {
           "title": "3 Pipeline Dividends Built for a Roth IRA, and Why Pipeline Partnerships May Not Be",
           "url": "https://finance.yahoo.com/markets/stocks/articles/3-pipeline-dividends-built-roth-194751819.html",
           "publisher": "24/7 Wall St.",
@@ -695,12 +703,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/5-forever-income-dividend-stocks-174556089.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-17T17:45:56Z"
-        },
-        {
-          "title": "4 High-Yield Energy Stocks That Get Paid to Move Oil and Gas",
-          "url": "https://finance.yahoo.com/energy/articles/4-high-yield-energy-stocks-141753664.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-16T14:17:53Z"
         }
       ]
     },
@@ -1121,34 +1123,6 @@
           "url": "https://finance.yahoo.com/energy/articles/energy-fuels-contract-portfolio-support-141000113.html",
           "publisher": "Zacks",
           "published": "2026-11-17T14:10:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "HAL",
-      "name": "Halliburton",
-      "price": 31.44,
-      "previous_close": 31.97,
-      "change_pct": -1.66,
-      "market_cap": 26004852634.213123,
-      "headlines": [
-        {
-          "title": "Is Liberty Energy Spending Too Much?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/liberty-energy-spending-too-much-113901871.html",
-          "publisher": "Trefis",
-          "published": "2026-11-19T11:39:01Z"
-        },
-        {
-          "title": "A $6.9 Billion Fund Dumps These 3 Stocks",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/6-9-billion-fund-dumps-181757159.html",
-          "publisher": "TIKR",
-          "published": "2026-11-18T18:17:57Z"
-        },
-        {
-          "title": "Halliburton (HAL) Has Fresh Attention, But What Is The Market Weighing?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/halliburton-hal-fresh-attention-market-001919561.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-18T00:19:19Z"
         }
       ]
     },
@@ -2115,13 +2089,13 @@
     },
     {
       "label": "WTI",
-      "price": 83.42,
-      "change_pct": 0.19
+      "price": 83.4,
+      "change_pct": 0.17
     },
     {
       "label": "Brent",
-      "price": 90.04,
-      "change_pct": -2.08
+      "price": 89.92,
+      "change_pct": -2.21
     },
     {
       "label": "NatGas",
