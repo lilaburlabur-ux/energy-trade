@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-19T01:45:49+00:00",
-  "as_of_local": "2026-11-19 01:45:49 UTC",
+  "as_of_utc": "2026-11-19T01:50:56+00:00",
+  "as_of_local": "2026-11-19 01:50:56 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "GEV"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -87,6 +85,34 @@
           "url": "https://finance.yahoo.com/news/saipem-wins-181m-drilling-contracts-130819531.html",
           "publisher": "Offshore Technology",
           "published": "2026-11-18T13:08:19Z"
+        }
+      ]
+    },
+    {
+      "symbol": "GEV",
+      "name": "GE Vernova",
+      "price": 779.91,
+      "previous_close": 763.57,
+      "change_pct": 2.14,
+      "market_cap": 204388923906.52002,
+      "headlines": [
+        {
+          "title": "GE Vernova Down 24%: What Would Its CEO Say?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-down-24-ceo-003626492.html",
+          "publisher": "Trefis",
+          "published": "2026-11-19T00:36:26Z"
+        },
+        {
+          "title": "Ken Fisher and 11 Other Big Funds Bought GE Vernova Last Quarter, While 19 Sold. Who\u2019s Right?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ken-fisher-11-other-big-191749440.html",
+          "publisher": "TIKR",
+          "published": "2026-11-18T19:17:49Z"
+        },
+        {
+          "title": "GE Vernova Is 35% Below Its High After Raising Its Year-End Gas Turbine Goal to 130 Gigawatts",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-35-below-high-181716013.html",
+          "publisher": "TIKR",
+          "published": "2026-11-18T18:17:16Z"
         }
       ]
     },
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 82.42,
-      "change_pct": -4.17
+      "price": 82.54,
+      "change_pct": -4.03
     },
     {
       "label": "Brent",
-      "price": 89.44,
-      "change_pct": -3.97
+      "price": 89.51,
+      "change_pct": -3.9
     },
     {
       "label": "NatGas",
-      "price": 3.37,
-      "change_pct": 5.14
+      "price": 3.38,
+      "change_pct": 5.21
     }
   ]
 }
