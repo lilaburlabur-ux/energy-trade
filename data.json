@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-19T08:14:10+00:00",
-  "as_of_local": "2026-11-19 08:14:10 UTC",
+  "as_of_utc": "2026-11-19T08:19:08+00:00",
+  "as_of_local": "2026-11-19 08:19:08 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "CVX"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -29,34 +31,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/chevron-stock-increasing-market-risk-180353089.html",
           "publisher": "Trefis",
           "published": "2026-11-18T18:03:53Z"
-        }
-      ]
-    },
-    {
-      "symbol": "CVX",
-      "name": "Chevron",
-      "price": 205.88,
-      "previous_close": 214.35,
-      "change_pct": -3.95,
-      "market_cap": 401724118401.2859,
-      "headlines": [
-        {
-          "title": "Ken Griffin Dumps SpaceX, Amazon; Buys ARKK and Bets Big on Marvell",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ken-griffin-dumps-spacex-amazon-223005217.html",
-          "publisher": "Benzinga",
-          "published": "2026-11-18T22:30:05Z"
-        },
-        {
-          "title": "3 Energy Stocks With Dividends Built to Last the Next 10 Years",
-          "url": "https://finance.yahoo.com/energy/articles/3-energy-stocks-dividends-built-215502112.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-18T21:55:02Z"
-        },
-        {
-          "title": "Forget Market Crashes: These Dow Jones Giants Have Recession-Proof Dividends",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/forget-market-crashes-dow-jones-203236866.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-18T20:32:36Z"
         }
       ]
     },
@@ -405,6 +379,12 @@
       "market_cap": 94930283406.6902,
       "headlines": [
         {
+          "title": "Best Value Stocks to Buy for November 19th",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/best-value-stocks-buy-november-071000912.html",
+          "publisher": "Zacks",
+          "published": "2026-11-19T07:10:00Z"
+        },
+        {
           "title": "Best Income Stocks to Buy for November 19th",
           "url": "https://finance.yahoo.com/markets/stocks/articles/best-income-stocks-buy-november-062400418.html",
           "publisher": "Zacks",
@@ -415,12 +395,6 @@
           "url": "https://finance.yahoo.com/news/aker-solutions-secures-loi-statfjord-102538503.html",
           "publisher": "Offshore Technology",
           "published": "2026-11-18T10:25:38Z"
-        },
-        {
-          "title": "Equinor (OB:EQNR) Trades At A 5% Premium On Ex Dividend Move",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/equinor-ob-eqnr-trades-5-071058577.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-18T07:10:58Z"
         }
       ]
     },
@@ -1930,8 +1904,8 @@
           "name": "Chevron Corp",
           "short": "Chevron",
           "weight_pct": 18.29,
-          "change_pct": -3.95,
-          "price": 205.88,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -2029,8 +2003,8 @@
         "name": "Chevron Corp",
         "short": "Chevron",
         "weight_pct": 18.29,
-        "change_pct": -3.95,
-        "price": 205.88,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 82.21,
-      "change_pct": -1.26
+      "price": 82.29,
+      "change_pct": -1.17
     },
     {
       "label": "Brent",
-      "price": 89.29,
-      "change_pct": -2.89
+      "price": 89.4,
+      "change_pct": -2.77
     },
     {
       "label": "NatGas",
       "price": 3.35,
-      "change_pct": -0.77
+      "change_pct": -0.71
     }
   ]
 }
