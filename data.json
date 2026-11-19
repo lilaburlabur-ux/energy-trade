@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-19T13:13:23+00:00",
-  "as_of_local": "2026-11-19 13:13:23 UTC",
+  "as_of_utc": "2026-11-19T13:18:20+00:00",
+  "as_of_local": "2026-11-19 13:18:20 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "VST"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1009,34 +1011,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/cnh-industrial-director-runs-baker-092632780.html",
           "publisher": "TIKR",
           "published": "2026-11-18T09:26:32Z"
-        }
-      ]
-    },
-    {
-      "symbol": "VST",
-      "name": "Vistra",
-      "price": 125.58,
-      "previous_close": 127.15,
-      "change_pct": -1.23,
-      "market_cap": 42621184912.590225,
-      "headlines": [
-        {
-          "title": "Will Buyers Defend Constellation Energy Stock At $263?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/buyers-defend-constellation-energy-stock-120804759.html",
-          "publisher": "Trefis",
-          "published": "2026-11-19T12:08:04Z"
-        },
-        {
-          "title": "Energy Transition Today - LevelTen Energy Ventures Into Asia-Pacific Clean Energy Market",
-          "url": "https://finance.yahoo.com/energy/articles/energy-transition-today-levelten-energy-113657014.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-19T11:36:57Z"
-        },
-        {
-          "title": "Vistra (VST) Could Be 23% Undervalued After Fresh Guidance And Earnings",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-vst-could-23-undervalued-021130252.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-19T02:11:30Z"
         }
       ]
     },
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 83.18,
-      "change_pct": -0.1
+      "price": 83.15,
+      "change_pct": -0.13
     },
     {
       "label": "Brent",
-      "price": 90.14,
-      "change_pct": -1.97
+      "price": 90.07,
+      "change_pct": -2.04
     },
     {
       "label": "NatGas",
-      "price": 3.32,
-      "change_pct": -1.66
+      "price": 3.33,
+      "change_pct": -1.28
     }
   ]
 }
