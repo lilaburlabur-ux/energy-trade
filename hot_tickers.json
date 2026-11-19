@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-18T23:50:52+00:00",
+  "as_of": "2026-11-19T00:06:06+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,13 +9,29 @@
  "hot_tickers": [
   {
    "rank": 1,
+   "ticker": "MPC",
+   "company": "Marathon Petroleum Corporation",
+   "move_pct": -5.97,
+   "price": 372.0,
+   "volume": 2642623,
+   "volume_vs_avg": "~1.2x",
+   "heat_score": 42,
+   "direction": "down",
+   "why": "Marathon Petroleum Corp Stock (MPC) Closed Down by 5.23% on Nov 18: A Full Analysis",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUHF5UmdVeTc3MXlialRLb3g2UkRQdmNfVU5YU3dXcjRnWXRiTEhZY3JqekMtWnlWVmFJRm4yLWN5LXR0WjZyRDlaYjlYcWlBTU9hLVR4UFY2aU4tN21taTBCblduU3ZNZWFoY3FxZlI2OFFhQTVjQmxWV2pHMFJaN0s1VTJ6OGswOWc?oc=5",
+   "published": "2026-11-18T21:15:31+00:00",
+   "sector": "Refining & Downstream"
+  },
+  {
+   "rank": 2,
    "ticker": "RUN",
    "company": "Sunrun Inc.",
-   "move_pct": -5.81,
-   "price": 7.27,
+   "move_pct": -5.31,
+   "price": 7.31,
    "volume": 9205738,
    "volume_vs_avg": "~0.8x",
-   "heat_score": 39,
+   "heat_score": 38,
    "direction": "down",
    "why": "Sunrun Inc. (RUN) Stock Forecasts",
    "catalyst_type": "momentum_narrative",
