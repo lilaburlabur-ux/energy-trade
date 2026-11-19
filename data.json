@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-19T08:19:08+00:00",
-  "as_of_local": "2026-11-19 08:19:08 UTC",
+  "as_of_utc": "2026-11-19T08:24:09+00:00",
+  "as_of_local": "2026-11-19 08:24:09 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "CVX"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -31,6 +29,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/chevron-stock-increasing-market-risk-180353089.html",
           "publisher": "Trefis",
           "published": "2026-11-18T18:03:53Z"
+        }
+      ]
+    },
+    {
+      "symbol": "CVX",
+      "name": "Chevron",
+      "price": 205.88,
+      "previous_close": 214.35,
+      "change_pct": -3.95,
+      "market_cap": 401724118401.2859,
+      "headlines": [
+        {
+          "title": "Ken Griffin Dumps SpaceX, Amazon; Buys ARKK and Bets Big on Marvell",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ken-griffin-dumps-spacex-amazon-223005217.html",
+          "publisher": "Benzinga",
+          "published": "2026-11-18T22:30:05Z"
+        },
+        {
+          "title": "3 Energy Stocks With Dividends Built to Last the Next 10 Years",
+          "url": "https://finance.yahoo.com/energy/articles/3-energy-stocks-dividends-built-215502112.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-18T21:55:02Z"
+        },
+        {
+          "title": "Forget Market Crashes: These Dow Jones Giants Have Recession-Proof Dividends",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/forget-market-crashes-dow-jones-203236866.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-18T20:32:36Z"
         }
       ]
     },
@@ -1904,8 +1930,8 @@
           "name": "Chevron Corp",
           "short": "Chevron",
           "weight_pct": 18.29,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": -3.95,
+          "price": 205.88,
           "currency": "USD"
         },
         {
@@ -2003,8 +2029,8 @@
         "name": "Chevron Corp",
         "short": "Chevron",
         "weight_pct": 18.29,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": -3.95,
+        "price": 205.88,
         "currency": "USD"
       },
       {
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 82.29,
-      "change_pct": -1.17
+      "price": 82.19,
+      "change_pct": -1.29
     },
     {
       "label": "Brent",
-      "price": 89.4,
-      "change_pct": -2.77
+      "price": 89.36,
+      "change_pct": -2.82
     },
     {
       "label": "NatGas",
-      "price": 3.35,
-      "change_pct": -0.71
+      "price": 3.34,
+      "change_pct": -0.86
     }
   ]
 }
