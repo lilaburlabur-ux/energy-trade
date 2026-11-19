@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-19T23:20:46+00:00",
-  "as_of_local": "2026-11-19 23:20:46 UTC",
+  "as_of_utc": "2026-11-19T23:25:49+00:00",
+  "as_of_local": "2026-11-19 23:25:49 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "CEG"
+    "TLN"
   ],
   "stocks": [
     {
@@ -423,6 +423,34 @@
           "url": "https://finance.yahoo.com/energy/articles/investors-buy-hold-sell-equinor-132900291.html",
           "publisher": "Zacks",
           "published": "2026-11-19T13:29:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "CEG",
+      "name": "Constellation Energy",
+      "price": 252.03,
+      "previous_close": 262.74,
+      "change_pct": -4.08,
+      "market_cap": 88615890833.9104,
+      "headlines": [
+        {
+          "title": "Constellation Energy (CEG) Following Its Earnings Beat And Guidance Hike Looks Cheap Versus Fair Value",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/constellation-energy-ceg-following-earnings-201045909.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-19T20:10:45Z"
+        },
+        {
+          "title": "Oklo Just Dropped 22% in a Month. What Would It Take to Get OKLO Stock to $25?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/oklo-just-dropped-22-month-200532898.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-19T20:05:32Z"
+        },
+        {
+          "title": "$100,000 in Dominion Energy and Exelon Could Pay $3,846 a Year in Dividends",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/100-000-dominion-energy-exelon-164743852.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-19T16:47:43Z"
         }
       ]
     },
@@ -1295,34 +1323,6 @@
       ]
     },
     {
-      "symbol": "TLN",
-      "name": "Talen Energy",
-      "price": 355.91,
-      "previous_close": 360.18,
-      "change_pct": -1.19,
-      "market_cap": 15483975753.24121,
-      "headlines": [
-        {
-          "title": "Bloom Energy Surpasses Its Industry in a Year: How to Play the Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-surpasses-industry-play-153700334.html",
-          "publisher": "Zacks",
-          "published": "2026-11-19T15:37:00Z"
-        },
-        {
-          "title": "Will OKLO's $3.1B Liquidity Cushion Advance Its Nuclear Plans?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/oklos-3-1b-liquidity-cushion-122900957.html",
-          "publisher": "Zacks",
-          "published": "2026-11-17T12:29:00Z"
-        },
-        {
-          "title": "What Is Talen Energy (TLN) Signaling With Its 750 MW Capacity Deal?",
-          "url": "https://finance.yahoo.com/energy/articles/talen-energy-tln-signaling-750-131328293.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-13T13:13:28Z"
-        }
-      ]
-    },
-    {
       "symbol": "DINO",
       "name": "HF Sinclair",
       "price": 89.72,
@@ -2089,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 82.97,
-      "change_pct": -0.35
+      "price": 83.0,
+      "change_pct": -0.31
     },
     {
       "label": "Brent",
-      "price": 90.05,
-      "change_pct": -2.07
+      "price": 90.02,
+      "change_pct": -2.1
     },
     {
       "label": "NatGas",
       "price": 3.25,
-      "change_pct": -3.68
+      "change_pct": -3.74
     }
   ]
 }
