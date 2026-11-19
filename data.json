@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-19T01:30:53+00:00",
-  "as_of_local": "2026-11-19 01:30:53 UTC",
+  "as_of_utc": "2026-11-19T01:45:49+00:00",
+  "as_of_local": "2026-11-19 01:45:49 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "EOG"
+    "GEV"
   ],
   "stocks": [
     {
@@ -87,34 +87,6 @@
           "url": "https://finance.yahoo.com/news/saipem-wins-181m-drilling-contracts-130819531.html",
           "publisher": "Offshore Technology",
           "published": "2026-11-18T13:08:19Z"
-        }
-      ]
-    },
-    {
-      "symbol": "GEV",
-      "name": "GE Vernova",
-      "price": 779.91,
-      "previous_close": 763.57,
-      "change_pct": 2.14,
-      "market_cap": 204388923906.52002,
-      "headlines": [
-        {
-          "title": "GE Vernova Down 24%: What Would Its CEO Say?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-down-24-ceo-003626492.html",
-          "publisher": "Trefis",
-          "published": "2026-11-19T00:36:26Z"
-        },
-        {
-          "title": "Ken Fisher and 11 Other Big Funds Bought GE Vernova Last Quarter, While 19 Sold. Who\u2019s Right?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ken-fisher-11-other-big-191749440.html",
-          "publisher": "TIKR",
-          "published": "2026-11-18T19:17:49Z"
-        },
-        {
-          "title": "GE Vernova Is 35% Below Its High After Raising Its Year-End Gas Turbine Goal to 130 Gigawatts",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-35-below-high-181716013.html",
-          "publisher": "TIKR",
-          "published": "2026-11-18T18:17:16Z"
         }
       ]
     },
@@ -535,6 +507,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/know-beyond-why-enterprise-products-130003745.html",
           "publisher": "Zacks",
           "published": "2026-11-18T13:00:03Z"
+        }
+      ]
+    },
+    {
+      "symbol": "EOG",
+      "name": "EOG Resources",
+      "price": 154.91,
+      "previous_close": 155.47,
+      "change_pct": -0.36,
+      "market_cap": 77611903490.56,
+      "headlines": [
+        {
+          "title": "Why You Should Think About Occidental Petroleum Differently Now",
+          "url": "https://finance.yahoo.com/energy/articles/why-think-occidental-petroleum-differently-172147996.html",
+          "publisher": "Trefis",
+          "published": "2026-11-18T17:21:47Z"
+        },
+        {
+          "title": "Is Permian Resources Spending Too Much?",
+          "url": "https://finance.yahoo.com/energy/articles/permian-resources-spending-too-much-124807527.html",
+          "publisher": "Trefis",
+          "published": "2026-11-18T12:48:07Z"
+        },
+        {
+          "title": "EOG Resources (EOG) Stock May Be 50% Undervalued As Record Output Lifts Dividend",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/eog-resources-eog-stock-may-070730112.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-18T07:07:30Z"
         }
       ]
     },
@@ -1958,8 +1958,8 @@
           "name": "EOG Resources Inc",
           "short": "EOG Resources",
           "weight_pct": 4.07,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": -0.36,
+          "price": 154.91,
           "currency": "USD"
         },
         {
@@ -2057,8 +2057,8 @@
         "name": "EOG Resources Inc",
         "short": "EOG Resources",
         "weight_pct": 4.07,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": -0.36,
+        "price": 154.91,
         "currency": "USD"
       },
       {
@@ -2089,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 82.44,
-      "change_pct": -4.15
+      "price": 82.42,
+      "change_pct": -4.17
     },
     {
       "label": "Brent",
-      "price": 89.34,
-      "change_pct": -4.08
+      "price": 89.44,
+      "change_pct": -3.97
     },
     {
       "label": "NatGas",
-      "price": 3.38,
-      "change_pct": 5.21
+      "price": 3.37,
+      "change_pct": 5.14
     }
   ]
 }
