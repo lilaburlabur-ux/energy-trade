@@ -1,14 +1,14 @@
 # SLB Research Report
-**SLB N.V.** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**SLB (Schlumberger)** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `SLB.research.19.11.2026`
 
 | Field | Value |
 |---|---|
 | Current price | $47.90 (2026-11-19, ~15-min delayed) |
-| Market cap | $70.70B |
-| Sector / Industry | Energy / Oil & Gas Equipment & Services |
-| Main theme | Oil & Gas Equipment & Services — see catalysts below |
-| Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
+| Market cap | — |
+| Sector / Industry | — / — |
+| Main theme | Semiconductors — see catalysts below |
+| Current stance | Low technical momentum, mixed fundamentals, value: low (expensive), risk: elevated. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-19.
 
@@ -17,11 +17,11 @@ Signed file: `SLB.research.19.11.2026`
 |---|---|---|
 | Technical momentum | Low | Below SMA200 (-6.57%) with negative half-year (-15.46%). |
 | Fresh setup quality | Moderate / wait | -19.89% from 52w high; no clean fresh pivot by default. |
-| Fundamental quality | Mixed | Profit margin 8.40%, revenue growth 5.80%. |
-| Value attractiveness | Reasonable | Forward P/E 15.56, EV/Sales 2.22. |
-| Risk level | Elevated | Beta 0.79, ATR 3.3% of price, short float 4.46%. |
+| Fundamental quality | Mixed | Profit margin —, revenue growth —. |
+| Value attractiveness | Low (expensive) | Forward P/E —, EV/Sales —. |
+| Risk level | Elevated | Beta —, ATR 3.3% of price, short float —. |
 
-**Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
+**Bottom line:** Low technical momentum, mixed fundamentals, value: low (expensive), risk: elevated.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -30,7 +30,7 @@ Signed file: `SLB.research.19.11.2026`
 - Can earnings convert fast enough to justify the valuation?
 
 ## 2. Company Overview and Recent Catalysts
-SLB N.V. engages in the provision of technology for the energy industry worldwide. The company operates through four divisions: Digital & Integration, Reservoir Performance, Well Construction, and Production Systems. The company provides field development and hydrocarbon production, carbon management, and integration of adjacent energy systems; reservoir interpretation and data processing services for exploration data; and well construction and production improvement services and products.
+—
 
 **Recent headlines (potential catalysts):**
 
@@ -47,7 +47,7 @@ SLB N.V. engages in the provision of technology for the energy industry worldwid
 | Price vs 52-week range | Close $47.90; 52w high $59.79 (-19.89%); 52w low $34.35 (+39.45%) |
 | Trend | -6.57% vs SMA200, -5.76% vs SMA50, -6.65% vs SMA20 |
 | Momentum | RSI(14) 36.6 (neutral) |
-| Volatility | ATR(14) 1.59 (~3.3% of price); beta 0.79 |
+| Volatility | ATR(14) 1.59 (~3.3% of price); beta — |
 | Setup perspective | -19.89% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
@@ -64,38 +64,24 @@ SLB N.V. engages in the provision of technology for the energy industry worldwid
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
-| Next earnings | 2027-01-22 | Next scheduled report (Yahoo estimate) |
-| Revenue (ttm) | $36.89B | Revenue growth 5.80% y/y |
-| Profitability | Gross 16.59%, operating 13.81%, net 8.40% | ROA 5.72%, ROE 11.66% |
-| Balance sheet | Cash $3.60B, debt $12.81B | Current ratio 1.39, debt/equity 47.08 |
-| Valuation | P/E 23.25, forward P/E 15.56, P/S 1.92, P/B 2.71 | EV/Sales 2.22, EV/EBITDA 11.08 |
-| Growth expectations | Earnings growth -2.00%, EPS q/q -0.50% | Analyst mean target $62.21 (29 analysts) |
+| Next earnings | — | Next scheduled report (Yahoo estimate) |
+| Revenue (ttm) | — | Revenue growth — y/y |
+| Profitability | Gross —, operating —, net — | ROA —, ROE — |
+| Balance sheet | Cash —, debt — | Current ratio —, debt/equity — |
+| Valuation | P/E —, forward P/E —, P/S —, P/B — | EV/Sales —, EV/EBITDA — |
+| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $— (— analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 94.04% |
-| Insider ownership | 0.20% |
-| Short float | 4.46% |
-| Short ratio (days to cover) | 4.8 |
-
-**Top institutional holders:**
-
-| Holder | Shares | % Out | Reported |
-|---|---|---|---|
-| Blackrock Inc. | 115,373,384 | 7.82% | 2026-09-30 |
-| Vanguard Capital Management LLC | 97,169,957 | 6.58% | 2026-09-30 |
-| State Street Corporation | 88,951,947 | 6.03% | 2026-09-30 |
-| Vanguard Portfolio Management LLC | 73,509,786 | 4.98% | 2026-09-30 |
-| Price (T.Rowe) Associates Inc | 61,937,451 | 4.20% | 2026-09-30 |
-| Charles Schwab Investment Management, Inc. | 51,438,794 | 3.48% | 2026-09-30 |
-| Capital World Investors | 51,034,203 | 3.46% | 2026-09-30 |
-| Morgan Stanley | 34,178,307 | 2.32% | 2026-09-30 |
-| Geode Capital Management, LLC | 34,157,834 | 2.31% | 2026-09-30 |
-| Bank Of New York Mellon Corporation | 32,967,700 | 2.23% | 2026-09-30 |
+| Institutional ownership | — |
+| Insider ownership | — |
+| Short float | — |
+| Short ratio (days to cover) | — |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 0.79, ATR 3.3% of price, short float 4.46%. Size positions accordingly.
+- **Valuation risk:** Forward P/E —, EV/Sales —. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta —, ATR 3.3% of price, short float —. Size positions accordingly.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -110,36 +96,27 @@ SLB N.V. engages in the provision of technology for the energy industry worldwid
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $47.90 | EV/Sales | 2.22 |
-| Market cap | $70.70B | EV/EBITDA | 11.08 |
-| Beta | 0.79 | Gross margin | 16.59% |
-| RSI(14) | 36.6 | Operating margin | 13.81% |
-| ATR(14) | 1.59 | Profit margin | 8.40% |
-| SMA20 dist | -6.65% | ROA | 5.72% |
-| SMA50 dist | -5.76% | ROE | 11.66% |
-| SMA200 dist | -6.57% | Revenue (ttm) | $36.89B |
-| 52W high | $59.79 | Revenue growth y/y | 5.80% |
-| 52W low | $34.35 | Inst. ownership | 94.04% |
-| P/E (ttm) | 23.25 | Insider ownership | 0.20% |
-| Forward P/E | 15.56 | Short float | 4.46% |
-| PEG (trailing) | 1.35 | Avg volume | 12,739,381 |
-| P/S | 1.92 | Employees | 109,000 |
-| P/B | 2.71 | Analyst rec (1=buy..5=sell) | 1.5 |
+| Price | $47.90 | EV/Sales | — |
+| Market cap | — | EV/EBITDA | — |
+| Beta | — | Gross margin | — |
+| RSI(14) | 36.6 | Operating margin | — |
+| ATR(14) | 1.59 | Profit margin | — |
+| SMA20 dist | -6.65% | ROA | — |
+| SMA50 dist | -5.76% | ROE | — |
+| SMA200 dist | -6.57% | Revenue (ttm) | — |
+| 52W high | $59.79 | Revenue growth y/y | — |
+| 52W low | $34.35 | Inst. ownership | — |
+| P/E (ttm) | — | Insider ownership | — |
+| Forward P/E | — | Short float | — |
+| PEG (trailing) | 1.35 | Avg volume | 0 |
+| P/S | — | Employees | 0 |
+| P/B | — | Analyst rec (1=buy..5=sell) | — |
 
 ## 8. Analyst Actions
-| Date | Action | Firm | Rating change |
-|---|---|---|---|
-| 2026-10-26 | up | Freedom Broker | Sell → Hold |
-| 2026-10-26 | main | UBS | Buy → Buy |
-| 2026-10-26 | main | Barclays | Overweight → Overweight |
-| 2026-10-26 | main | Piper Sandler | Overweight → Overweight |
-| 2026-10-19 | main | Citigroup | Buy → Buy |
-| 2026-10-19 | main | Piper Sandler | Overweight → Overweight |
-| 2026-10-15 | main | Barclays | Overweight → Overweight |
-| 2026-09-14 | main | UBS | Buy → Buy |
+_No recent analyst actions available from Yahoo._
 
 ## 9. Conclusion
-SLB: Low momentum / mixed fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+SLB: Low momentum / mixed fundamentals / low (expensive) value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

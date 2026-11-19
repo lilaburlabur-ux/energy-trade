@@ -1,14 +1,14 @@
 # EQT Research Report
-**EQT Corporation** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**EQT Corp** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `EQT.research.19.11.2026`
 
 | Field | Value |
 |---|---|
 | Current price | $49.30 (2026-11-19, ~15-min delayed) |
-| Market cap | $30.84B |
-| Sector / Industry | Energy / Oil & Gas E&P |
-| Main theme | Oil & Gas E&P — see catalysts below |
-| Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
+| Market cap | — |
+| Sector / Industry | — / — |
+| Main theme | Semiconductors — see catalysts below |
+| Current stance | Low technical momentum, mixed fundamentals, value: low (expensive), risk: elevated. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-19.
 
@@ -17,11 +17,11 @@ Signed file: `EQT.research.19.11.2026`
 |---|---|---|
 | Technical momentum | Low | Below SMA200 (-10.42%) with negative half-year (-14.08%). |
 | Fresh setup quality | Poor / broken | -26.76% from 52w high — base needs to rebuild. |
-| Fundamental quality | Mixed | Profit margin 29.01%, revenue growth -8.10%. |
-| Value attractiveness | Reasonable | Forward P/E 14.87, EV/Sales 4.45. |
-| Risk level | Elevated | Beta 0.67, ATR 3.4% of price, short float 4.45%. |
+| Fundamental quality | Mixed | Profit margin —, revenue growth —. |
+| Value attractiveness | Low (expensive) | Forward P/E —, EV/Sales —. |
+| Risk level | Elevated | Beta —, ATR 3.4% of price, short float —. |
 
-**Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
+**Bottom line:** Low technical momentum, mixed fundamentals, value: low (expensive), risk: elevated.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -30,7 +30,7 @@ Signed file: `EQT.research.19.11.2026`
 - Can earnings convert fast enough to justify the valuation?
 
 ## 2. Company Overview and Recent Catalysts
-EQT Corporation engages in the exploration, production, gathering, and transmission of hydrocarbons and natural gas. The company sells natural gas, natural gas liquids, and oil to marketers, utilities, and industrial customers located in the Appalachian Basin. It also provides marketing services and contractual pipeline capacity management services, as well as engages in risk management and hedging activities. In addition, it owns and operates propane storage and distribution terminals. The company was formerly known as Equitable Resources Inc.
+—
 
 **Recent headlines (potential catalysts):**
 
@@ -47,7 +47,7 @@ EQT Corporation engages in the exploration, production, gathering, and transmiss
 | Price vs 52-week range | Close $49.30; 52w high $67.32 (-26.76%); 52w low $48.41 (+1.84%) |
 | Trend | -10.42% vs SMA200, -5.55% vs SMA50, -6.50% vs SMA20 |
 | Momentum | RSI(14) 37.9 (neutral) |
-| Volatility | ATR(14) 1.67 (~3.4% of price); beta 0.67 |
+| Volatility | ATR(14) 1.67 (~3.4% of price); beta — |
 | Setup perspective | -26.76% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
@@ -64,38 +64,24 @@ EQT Corporation engages in the exploration, production, gathering, and transmiss
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
-| Next earnings | 2026-10-27 | Next scheduled report (Yahoo estimate) |
-| Revenue (ttm) | $9.15B | Revenue growth -8.10% y/y |
-| Profitability | Gross 80.40%, operating 43.69%, net 29.01% | ROA 6.05%, ROE 10.49% |
-| Balance sheet | Cash $78.72M, debt $5.55B | Current ratio 0.71, debt/equity 19.13 |
-| Valuation | P/E 11.68, forward P/E 14.87, P/S 3.37, P/B 1.21 | EV/Sales 4.45, EV/EBITDA 6.13 |
-| Growth expectations | Earnings growth -17.00%, EPS q/q -17.00% | Analyst mean target $66.55 (22 analysts) |
+| Next earnings | — | Next scheduled report (Yahoo estimate) |
+| Revenue (ttm) | — | Revenue growth — y/y |
+| Profitability | Gross —, operating —, net — | ROA —, ROE — |
+| Balance sheet | Cash —, debt — | Current ratio —, debt/equity — |
+| Valuation | P/E —, forward P/E —, P/S —, P/B — | EV/Sales —, EV/EBITDA — |
+| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $— (— analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 97.29% |
-| Insider ownership | 0.93% |
-| Short float | 4.45% |
-| Short ratio (days to cover) | 2.7 |
-
-**Top institutional holders:**
-
-| Holder | Shares | % Out | Reported |
-|---|---|---|---|
-| Blackrock Inc. | 61,564,283 | 9.84% | 2026-09-30 |
-| Vanguard Capital Management LLC | 40,914,343 | 6.54% | 2026-09-30 |
-| State Street Corporation | 37,905,502 | 6.06% | 2026-09-30 |
-| Vanguard Portfolio Management LLC | 30,912,778 | 4.94% | 2026-09-30 |
-| Morgan Stanley | 22,930,435 | 3.67% | 2026-09-30 |
-| Eagle Capital Management LLC | 22,943,492 | 3.67% | 2026-09-30 |
-| Wellington Management Group, LLP | 19,868,823 | 3.18% | 2026-09-30 |
-| Orbis Allan Gray Ltd | 18,427,640 | 2.95% | 2026-09-30 |
-| JPMORGAN CHASE & CO | 18,338,537 | 2.93% | 2026-09-30 |
-| Geode Capital Management, LLC | 17,276,107 | 2.76% | 2026-09-30 |
+| Institutional ownership | — |
+| Insider ownership | — |
+| Short float | — |
+| Short ratio (days to cover) | — |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 0.67, ATR 3.4% of price, short float 4.45%. Size positions accordingly.
+- **Valuation risk:** Forward P/E —, EV/Sales —. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta —, ATR 3.4% of price, short float —. Size positions accordingly.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -111,36 +97,27 @@ EQT Corporation engages in the exploration, production, gathering, and transmiss
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $49.30 | EV/Sales | 4.45 |
-| Market cap | $30.84B | EV/EBITDA | 6.13 |
-| Beta | 0.67 | Gross margin | 80.40% |
-| RSI(14) | 37.9 | Operating margin | 43.69% |
-| ATR(14) | 1.67 | Profit margin | 29.01% |
-| SMA20 dist | -6.50% | ROA | 6.05% |
-| SMA50 dist | -5.55% | ROE | 10.49% |
-| SMA200 dist | -10.42% | Revenue (ttm) | $9.15B |
-| 52W high | $67.32 | Revenue growth y/y | -8.10% |
-| 52W low | $48.41 | Inst. ownership | 97.29% |
-| P/E (ttm) | 11.68 | Insider ownership | 0.93% |
-| Forward P/E | 14.87 | Short float | 4.45% |
-| PEG (trailing) | 1.27 | Avg volume | 7,855,920 |
-| P/S | 3.37 | Employees | 1,523 |
-| P/B | 1.21 | Analyst rec (1=buy..5=sell) | 1.5 |
+| Price | $49.30 | EV/Sales | — |
+| Market cap | — | EV/EBITDA | — |
+| Beta | — | Gross margin | — |
+| RSI(14) | 37.9 | Operating margin | — |
+| ATR(14) | 1.67 | Profit margin | — |
+| SMA20 dist | -6.50% | ROA | — |
+| SMA50 dist | -5.55% | ROE | — |
+| SMA200 dist | -10.42% | Revenue (ttm) | — |
+| 52W high | $67.32 | Revenue growth y/y | — |
+| 52W low | $48.41 | Inst. ownership | — |
+| P/E (ttm) | — | Insider ownership | — |
+| Forward P/E | — | Short float | — |
+| PEG (trailing) | 1.27 | Avg volume | 0 |
+| P/S | — | Employees | 0 |
+| P/B | — | Analyst rec (1=buy..5=sell) | — |
 
 ## 8. Analyst Actions
-| Date | Action | Firm | Rating change |
-|---|---|---|---|
-| 2026-11-02 | main | Truist Securities | Buy → Buy |
-| 2026-10-29 | main | UBS | Buy → Buy |
-| 2026-10-28 | main | Freedom Broker | Buy → Buy |
-| 2026-10-27 | main | UBS | Buy → Buy |
-| 2026-10-27 | main | Stephens & Co. | Overweight → Overweight |
-| 2026-10-27 | main | Scotiabank | Sector Perform → Sector Perform |
-| 2026-10-27 | main | Wells Fargo | Overweight → Overweight |
-| 2026-10-15 | main | UBS | Buy → Buy |
+_No recent analyst actions available from Yahoo._
 
 ## 9. Conclusion
-EQT: Low momentum / mixed fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+EQT: Low momentum / mixed fundamentals / low (expensive) value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

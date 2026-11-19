@@ -1,14 +1,14 @@
 # ARRY Research Report
-**Array Technologies, Inc.** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**Array Technologies** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `ARRY.research.19.11.2026`
 
 | Field | Value |
 |---|---|
 | Current price | $4.19 (2026-11-19, ~15-min delayed) |
-| Market cap | $646.39M |
-| Sector / Industry | Technology / Solar |
-| Main theme | Solar — see catalysts below |
-| Current stance | Low technical momentum, weak fundamentals, value: reasonable, risk: high. |
+| Market cap | — |
+| Sector / Industry | — / — |
+| Main theme | Semiconductors — see catalysts below |
+| Current stance | Low technical momentum, mixed fundamentals, value: low (expensive), risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-19.
 
@@ -17,11 +17,11 @@ Signed file: `ARRY.research.19.11.2026`
 |---|---|---|
 | Technical momentum | Low | Below SMA200 (-35.27%) with negative half-year (-48.90%). |
 | Fresh setup quality | Poor / broken | -64.97% from 52w high — base needs to rebuild. |
-| Fundamental quality | Weak | Negative profit margin (-9.91%). |
-| Value attractiveness | Reasonable | Forward P/E 4.88, EV/Sales 1.58. |
-| Risk level | High | Beta 1.78, ATR 9.8% of price, short float 32.85%. |
+| Fundamental quality | Mixed | Profit margin —, revenue growth —. |
+| Value attractiveness | Low (expensive) | Forward P/E —, EV/Sales —. |
+| Risk level | High | Beta —, ATR 9.8% of price, short float —. |
 
-**Bottom line:** Low technical momentum, weak fundamentals, value: reasonable, risk: high.
+**Bottom line:** Low technical momentum, mixed fundamentals, value: low (expensive), risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -30,7 +30,7 @@ Signed file: `ARRY.research.19.11.2026`
 - Can earnings convert fast enough to justify the valuation?
 
 ## 2. Company Overview and Recent Catalysts
-Array Technologies, Inc. engages in the manufacture and sale of solar tracking technology products in the United States, Spain, Brazil, Australia, and internationally. It operates through two segments, Array Legacy Operations and STI Operations. The company's products portfolio includes DuraTrack HZ V3, a single axis tracker; Array STI H250, a dual-row tracker system; Array OmniTrack; Array SkyLink, a photovoltaic-powered control tracker system; and SmarTrack, a software and control-based product. Array Technologies, Inc.
+—
 
 **Recent headlines (potential catalysts):**
 
@@ -47,7 +47,7 @@ Array Technologies, Inc. engages in the manufacture and sale of solar tracking t
 | Price vs 52-week range | Close $4.19; 52w high $11.96 (-64.97%); 52w low $3.15 (+33.02%) |
 | Trend | -35.27% vs SMA200, +3.31% vs SMA50, -3.85% vs SMA20 |
 | Momentum | RSI(14) 47.8 (neutral) |
-| Volatility | ATR(14) 0.41 (~9.8% of price); beta 1.78 |
+| Volatility | ATR(14) 0.41 (~9.8% of price); beta — |
 | Setup perspective | -64.97% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
@@ -64,40 +64,24 @@ Array Technologies, Inc. engages in the manufacture and sale of solar tracking t
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
-| Next earnings | 2026-11-04 | Next scheduled report (Yahoo estimate) |
-| Revenue (ttm) | $1.12B | Revenue growth -16.10% y/y |
-| Profitability | Gross 25.02%, operating 4.00%, net -9.91% | ROA 1.76%, ROE -31.49% |
-| Balance sheet | Cash $143.28M, debt $759.38M | Current ratio 1.62, debt/equity 251.77 |
-| Valuation | P/E —, forward P/E 4.88, P/S 0.58, P/B -3.10 | EV/Sales 1.58, EV/EBITDA 21.16 |
-| Growth expectations | Earnings growth —, EPS q/q -75.50% | Analyst mean target $6.95 (19 analysts) |
+| Next earnings | — | Next scheduled report (Yahoo estimate) |
+| Revenue (ttm) | — | Revenue growth — y/y |
+| Profitability | Gross —, operating —, net — | ROA —, ROE — |
+| Balance sheet | Cash —, debt — | Current ratio —, debt/equity — |
+| Valuation | P/E —, forward P/E —, P/S —, P/B — | EV/Sales —, EV/EBITDA — |
+| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $— (— analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 135.58% |
-| Insider ownership | 0.79% |
-| Short float | 32.85% |
-| Short ratio (days to cover) | 5.7 |
-
-**Top institutional holders:**
-
-| Holder | Shares | % Out | Reported |
-|---|---|---|---|
-| Blackrock Inc. | 30,154,706 | 19.55% | 2026-09-30 |
-| Grantham, Mayo, Van Otterloo & Co. LLC | 14,672,398 | 9.51% | 2026-09-30 |
-| Hill City Capital, Lp | 12,891,300 | 8.36% | 2026-09-30 |
-| BNP Paribas Asset Management Holding S.A. | 11,012,518 | 7.14% | 2026-09-30 |
-| First Trust Advisors LP | 10,372,520 | 6.72% | 2026-09-30 |
-| Vanguard Portfolio Management LLC | 9,353,690 | 6.06% | 2026-09-30 |
-| Morgan Stanley | 7,287,647 | 4.72% | 2026-09-30 |
-| Vanguard Capital Management LLC | 6,759,593 | 4.38% | 2026-09-30 |
-| Invesco Ltd. | 6,107,900 | 3.96% | 2026-09-30 |
-| State Street Corporation | 5,688,224 | 3.69% | 2026-09-30 |
+| Institutional ownership | — |
+| Insider ownership | — |
+| Short float | — |
+| Short ratio (days to cover) | — |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.78, ATR 9.8% of price, short float 32.85%. Size positions accordingly.
-- **Short interest risk:** short float 32.85% can fuel squeezes both ways around news.
-- **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
+- **Valuation risk:** Forward P/E —, EV/Sales —. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta —, ATR 9.8% of price, short float —. Size positions accordingly.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -113,36 +97,27 @@ Array Technologies, Inc. engages in the manufacture and sale of solar tracking t
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $4.19 | EV/Sales | 1.58 |
-| Market cap | $646.39M | EV/EBITDA | 21.16 |
-| Beta | 1.78 | Gross margin | 25.02% |
-| RSI(14) | 47.8 | Operating margin | 4.00% |
-| ATR(14) | 0.41 | Profit margin | -9.91% |
-| SMA20 dist | -3.85% | ROA | 1.76% |
-| SMA50 dist | +3.31% | ROE | -31.49% |
-| SMA200 dist | -35.27% | Revenue (ttm) | $1.12B |
-| 52W high | $11.96 | Revenue growth y/y | -16.10% |
-| 52W low | $3.15 | Inst. ownership | 135.58% |
-| P/E (ttm) | — | Insider ownership | 0.79% |
-| Forward P/E | 4.88 | Short float | 32.85% |
-| PEG (trailing) | 0.42 | Avg volume | 8,538,154 |
-| P/S | 0.58 | Employees | 1,200 |
-| P/B | -3.10 | Analyst rec (1=buy..5=sell) | 2.2 |
+| Price | $4.19 | EV/Sales | — |
+| Market cap | — | EV/EBITDA | — |
+| Beta | — | Gross margin | — |
+| RSI(14) | 47.8 | Operating margin | — |
+| ATR(14) | 0.41 | Profit margin | — |
+| SMA20 dist | -3.85% | ROA | — |
+| SMA50 dist | +3.31% | ROE | — |
+| SMA200 dist | -35.27% | Revenue (ttm) | — |
+| 52W high | $11.96 | Revenue growth y/y | — |
+| 52W low | $3.15 | Inst. ownership | — |
+| P/E (ttm) | — | Insider ownership | — |
+| Forward P/E | — | Short float | — |
+| PEG (trailing) | 0.42 | Avg volume | 0 |
+| P/S | — | Employees | 0 |
+| P/B | — | Analyst rec (1=buy..5=sell) | — |
 
 ## 8. Analyst Actions
-| Date | Action | Firm | Rating change |
-|---|---|---|---|
-| 2026-11-12 | main | BMO Capital | Market Perform → Market Perform |
-| 2026-11-10 | main | UBS | Neutral → Neutral |
-| 2026-11-09 | main | Piper Sandler | Neutral → Neutral |
-| 2026-11-09 | main | RBC Capital | Sector Perform → Sector Perform |
-| 2026-10-28 | main | Guggenheim | Buy → Buy |
-| 2026-10-21 | main | BMO Capital | Market Perform → Market Perform |
-| 2026-10-19 | main | JP Morgan | Neutral → Neutral |
-| 2026-10-15 | up | Mizuho | Neutral → Outperform |
+_No recent analyst actions available from Yahoo._
 
 ## 9. Conclusion
-ARRY: Low momentum / weak fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+ARRY: Low momentum / mixed fundamentals / low (expensive) value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

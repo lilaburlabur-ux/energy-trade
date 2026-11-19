@@ -1,14 +1,14 @@
 # KMI Research Report
-**Kinder Morgan, Inc.** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**Kinder Morgan** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `KMI.research.19.11.2026`
 
 | Field | Value |
 |---|---|
 | Current price | $31.09 (2026-11-19, ~15-min delayed) |
-| Market cap | $69.26B |
-| Sector / Industry | Energy / Oil & Gas Midstream |
-| Main theme | Oil & Gas Midstream — see catalysts below |
-| Current stance | Low technical momentum, mixed fundamentals, value: fair-to-demanding, risk: moderate. |
+| Market cap | — |
+| Sector / Industry | — / — |
+| Main theme | Semiconductors — see catalysts below |
+| Current stance | Low technical momentum, mixed fundamentals, value: low (expensive), risk: moderate. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-19.
 
@@ -17,11 +17,11 @@ Signed file: `KMI.research.19.11.2026`
 |---|---|---|
 | Technical momentum | Low | Below SMA200 (-1.88%) with negative half-year (-5.50%). |
 | Fresh setup quality | Moderate / wait | -8.90% from 52w high; no clean fresh pivot by default. |
-| Fundamental quality | Mixed | Profit margin 19.64%, revenue growth 9.30%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 20.20, EV/Sales 5.65. |
-| Risk level | Moderate | Beta 0.57, ATR 2.6% of price, short float 2.22%. |
+| Fundamental quality | Mixed | Profit margin —, revenue growth —. |
+| Value attractiveness | Low (expensive) | Forward P/E —, EV/Sales —. |
+| Risk level | Moderate | Beta —, ATR 2.6% of price, short float —. |
 
-**Bottom line:** Low technical momentum, mixed fundamentals, value: fair-to-demanding, risk: moderate.
+**Bottom line:** Low technical momentum, mixed fundamentals, value: low (expensive), risk: moderate.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -30,7 +30,7 @@ Signed file: `KMI.research.19.11.2026`
 - Can earnings convert fast enough to justify the valuation?
 
 ## 2. Company Overview and Recent Catalysts
-Kinder Morgan, Inc. operates as an energy infrastructure company primarily in North America. It operates through Natural Gas Pipelines, Products Pipelines, Terminals, and CO2 segments. The Natural Gas Pipelines segment owns and operates interstate and intrastate natural gas pipeline, and storage systems; natural gas gathering systems and natural gas processing and treating facilities; natural gas liquids fractionation facilities and transportation systems; and liquefied natural gas gasification, liquefaction, and storage facilities.
+—
 
 **Recent headlines (potential catalysts):**
 
@@ -47,7 +47,7 @@ Kinder Morgan, Inc. operates as an energy infrastructure company primarily in No
 | Price vs 52-week range | Close $31.09; 52w high $34.13 (-8.90%); 52w low $25.37 (+22.53%) |
 | Trend | -1.88% vs SMA200, -2.28% vs SMA50, -3.14% vs SMA20 |
 | Momentum | RSI(14) 43.3 (neutral) |
-| Volatility | ATR(14) 0.81 (~2.6% of price); beta 0.57 |
+| Volatility | ATR(14) 0.81 (~2.6% of price); beta — |
 | Setup perspective | -8.90% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
@@ -64,38 +64,23 @@ Kinder Morgan, Inc. operates as an energy infrastructure company primarily in No
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
-| Next earnings | 2027-01-27 | Next scheduled report (Yahoo estimate) |
-| Revenue (ttm) | $18.34B | Revenue growth 9.30% y/y |
-| Profitability | Gross 48.65%, operating 28.58%, net 19.64% | ROA 4.44%, ROE 11.43% |
-| Balance sheet | Cash $920.00M, debt $33.40B | Current ratio 0.67, debt/equity 101.74 |
-| Valuation | P/E 19.19, forward P/E 20.20, P/S 3.78, P/B 2.19 | EV/Sales 5.65, EV/EBITDA 13.49 |
-| Growth expectations | Earnings growth 21.60%, EPS q/q 21.70% | Analyst mean target $37.50 (22 analysts) |
+| Next earnings | — | Next scheduled report (Yahoo estimate) |
+| Revenue (ttm) | — | Revenue growth — y/y |
+| Profitability | Gross —, operating —, net — | ROA —, ROE — |
+| Balance sheet | Cash —, debt — | Current ratio —, debt/equity — |
+| Valuation | P/E —, forward P/E —, P/S —, P/B — | EV/Sales —, EV/EBITDA — |
+| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $— (— analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 71.30% |
-| Insider ownership | 12.70% |
-| Short float | 2.22% |
-| Short ratio (days to cover) | 3.0 |
-
-**Top institutional holders:**
-
-| Holder | Shares | % Out | Reported |
-|---|---|---|---|
-| Blackrock Inc. | 175,186,965 | 7.86% | 2026-09-30 |
-| Vanguard Capital Management LLC | 125,995,973 | 5.66% | 2026-09-30 |
-| State Street Corporation | 123,722,202 | 5.55% | 2026-09-30 |
-| Vanguard Portfolio Management LLC | 67,810,893 | 3.04% | 2026-09-30 |
-| Bank of America Corporation | 67,030,476 | 3.01% | 2026-09-30 |
-| Geode Capital Management, LLC | 56,345,207 | 2.53% | 2026-09-30 |
-| NORGES BANK | 37,596,771 | 1.69% | 2026-06-30 |
-| JPMORGAN CHASE & CO | 31,360,047 | 1.41% | 2026-09-30 |
-| Morgan Stanley | 31,133,652 | 1.40% | 2026-09-30 |
-| Charles Schwab Investment Management, Inc. | 29,799,122 | 1.34% | 2026-09-30 |
+| Institutional ownership | — |
+| Insider ownership | — |
+| Short float | — |
+| Short ratio (days to cover) | — |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 20.20, EV/Sales 5.65. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E —, EV/Sales —. Multiple compression is the main downside if growth disappoints.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -110,36 +95,27 @@ Kinder Morgan, Inc. operates as an energy infrastructure company primarily in No
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $31.09 | EV/Sales | 5.65 |
-| Market cap | $69.26B | EV/EBITDA | 13.49 |
-| Beta | 0.57 | Gross margin | 48.65% |
-| RSI(14) | 43.3 | Operating margin | 28.58% |
-| ATR(14) | 0.81 | Profit margin | 19.64% |
-| SMA20 dist | -3.14% | ROA | 4.44% |
-| SMA50 dist | -2.28% | ROE | 11.43% |
-| SMA200 dist | -1.88% | Revenue (ttm) | $18.34B |
-| 52W high | $34.13 | Revenue growth y/y | 9.30% |
-| 52W low | $25.37 | Inst. ownership | 71.30% |
-| P/E (ttm) | 19.19 | Insider ownership | 12.70% |
-| Forward P/E | 20.20 | Short float | 2.22% |
-| PEG (trailing) | 2.73 | Avg volume | 13,051,400 |
-| P/S | 3.78 | Employees | 11,028 |
-| P/B | 2.19 | Analyst rec (1=buy..5=sell) | 2.0 |
+| Price | $31.09 | EV/Sales | — |
+| Market cap | — | EV/EBITDA | — |
+| Beta | — | Gross margin | — |
+| RSI(14) | 43.3 | Operating margin | — |
+| ATR(14) | 0.81 | Profit margin | — |
+| SMA20 dist | -3.14% | ROA | — |
+| SMA50 dist | -2.28% | ROE | — |
+| SMA200 dist | -1.88% | Revenue (ttm) | — |
+| 52W high | $34.13 | Revenue growth y/y | — |
+| 52W low | $25.37 | Inst. ownership | — |
+| P/E (ttm) | — | Insider ownership | — |
+| Forward P/E | — | Short float | — |
+| PEG (trailing) | 2.73 | Avg volume | 0 |
+| P/S | — | Employees | 0 |
+| P/B | — | Analyst rec (1=buy..5=sell) | — |
 
 ## 8. Analyst Actions
-| Date | Action | Firm | Rating change |
-|---|---|---|---|
-| 2026-11-03 | main | Morgan Stanley | Equal-Weight → Equal-Weight |
-| 2026-11-02 | main | JP Morgan | Neutral → Neutral |
-| 2026-10-28 | main | RBC Capital | Sector Perform → Sector Perform |
-| 2026-10-27 | main | Scotiabank | Sector Perform → Sector Perform |
-| 2026-10-27 | main | Morgan Stanley | Equal-Weight → Equal-Weight |
-| 2026-10-23 | main | Citigroup | Neutral → Neutral |
-| 2026-10-22 | main | Jefferies | Hold → Hold |
-| 2026-10-22 | up | Freedom Broker | Hold → Buy |
+_No recent analyst actions available from Yahoo._
 
 ## 9. Conclusion
-KMI: Low momentum / mixed fundamentals / fair-to-demanding value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+KMI: Low momentum / mixed fundamentals / low (expensive) value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

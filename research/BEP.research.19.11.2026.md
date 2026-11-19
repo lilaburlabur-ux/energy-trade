@@ -1,14 +1,14 @@
 # BEP Research Report
-**Brookfield Renewable Partners L.P.** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**Brookfield Renewable** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `BEP.research.19.11.2026`
 
 | Field | Value |
 |---|---|
 | Current price | $30.01 (2026-11-19, ~15-min delayed) |
-| Market cap | $20.52B |
-| Sector / Industry | Utilities / Utilities - Renewable |
-| Main theme | Utilities - Renewable — see catalysts below |
-| Current stance | Low technical momentum, weak fundamentals, value: reasonable, risk: moderate. |
+| Market cap | — |
+| Sector / Industry | — / — |
+| Main theme | Semiconductors — see catalysts below |
+| Current stance | Low technical momentum, mixed fundamentals, value: low (expensive), risk: moderate. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-19.
 
@@ -17,11 +17,11 @@ Signed file: `BEP.research.19.11.2026`
 |---|---|---|
 | Technical momentum | Low | Below SMA200 (-5.43%) with negative half-year (-13.13%). |
 | Fresh setup quality | Moderate / wait | -18.08% from 52w high; no clean fresh pivot by default. |
-| Fundamental quality | Weak | Negative profit margin (-4.19%). |
-| Value attractiveness | Reasonable | Forward P/E -17.70, EV/Sales 13.53. |
-| Risk level | Moderate | Beta 0.95, ATR 2.9% of price, short float 0.71%. |
+| Fundamental quality | Mixed | Profit margin —, revenue growth —. |
+| Value attractiveness | Low (expensive) | Forward P/E —, EV/Sales —. |
+| Risk level | Moderate | Beta —, ATR 2.9% of price, short float —. |
 
-**Bottom line:** Low technical momentum, weak fundamentals, value: reasonable, risk: moderate.
+**Bottom line:** Low technical momentum, mixed fundamentals, value: low (expensive), risk: moderate.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -30,7 +30,7 @@ Signed file: `BEP.research.19.11.2026`
 - Can earnings convert fast enough to justify the valuation?
 
 ## 2. Company Overview and Recent Catalysts
-Brookfield Renewable Partners L.P. owns a portfolio of renewable power generating facilities in the North America, Colombia, and Brazil. The company generates electricity through hydroelectric, wind, solar, distributed generation, and pumped storage; and offers sustainable solutions, such as renewable natural gas, carbon capture and storage, recycling, cogeneration, biomass, nuclear services, eFuels, and power transformation. It operates as the general partner of Brookfield Renewable Partners L.P. The company was formerly known as Brookfield Renewable Energy Partners L.P.
+—
 
 **Recent headlines (potential catalysts):**
 
@@ -47,7 +47,7 @@ Brookfield Renewable Partners L.P. owns a portfolio of renewable power generatin
 | Price vs 52-week range | Close $30.01; 52w high $36.63 (-18.08%); 52w low $25.75 (+16.55%) |
 | Trend | -5.43% vs SMA200, +2.48% vs SMA50, +0.37% vs SMA20 |
 | Momentum | RSI(14) 51.5 (neutral) |
-| Volatility | ATR(14) 0.86 (~2.9% of price); beta 0.95 |
+| Volatility | ATR(14) 0.86 (~2.9% of price); beta — |
 | Setup perspective | -18.08% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
@@ -64,38 +64,23 @@ Brookfield Renewable Partners L.P. owns a portfolio of renewable power generatin
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
-| Next earnings | 2027-01-29 | Next scheduled report (Yahoo estimate) |
-| Revenue (ttm) | $6.54B | Revenue growth 11.50% y/y |
-| Profitability | Gross 48.30%, operating 8.73%, net -4.19% | ROA 0.35%, ROE -0.75% |
-| Balance sheet | Cash $3.82B, debt $43.18B | Current ratio 0.78, debt/equity 114.10 |
-| Valuation | P/E —, forward P/E -17.70, P/S 3.14, P/B 2.32 | EV/Sales 13.53, EV/EBITDA 30.67 |
-| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $34.38 (14 analysts) |
+| Next earnings | — | Next scheduled report (Yahoo estimate) |
+| Revenue (ttm) | — | Revenue growth — y/y |
+| Profitability | Gross —, operating —, net — | ROA —, ROE — |
+| Balance sheet | Cash —, debt — | Current ratio —, debt/equity — |
+| Valuation | P/E —, forward P/E —, P/S —, P/B — | EV/Sales —, EV/EBITDA — |
+| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $— (— analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 64.39% |
-| Insider ownership | 0.07% |
-| Short float | 0.71% |
-| Short ratio (days to cover) | 1.4 |
-
-**Top institutional holders:**
-
-| Holder | Shares | % Out | Reported |
-|---|---|---|---|
-| Brookfield Corp /ON/ | 81,306,919 | 26.85% | 2026-09-30 |
-| Royal Bank of Canada | 16,828,400 | 5.56% | 2026-09-30 |
-| Morgan Stanley | 10,107,944 | 3.34% | 2026-09-30 |
-| Bank of Montreal /CAN/ | 8,632,032 | 2.85% | 2026-09-30 |
-| Principal Financial Group, Inc. | 7,442,593 | 2.46% | 2026-09-30 |
-| Scotia Capital Inc. | 3,484,443 | 1.15% | 2026-09-30 |
-| CIBC Asset Management Inc. | 3,383,319 | 1.12% | 2026-09-30 |
-| JPMORGAN CHASE & CO | 3,336,150 | 1.10% | 2026-09-30 |
-| TD Asset Management, Inc | 3,100,387 | 1.02% | 2026-09-30 |
-| CIBC World Market, Inc. | 3,045,909 | 1.01% | 2026-09-30 |
+| Institutional ownership | — |
+| Insider ownership | — |
+| Short float | — |
+| Short ratio (days to cover) | — |
 
 ## 6. Risk Review and Setup Plan
-- **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
+- **Valuation risk:** Forward P/E —, EV/Sales —. Multiple compression is the main downside if growth disappoints.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -110,36 +95,27 @@ Brookfield Renewable Partners L.P. owns a portfolio of renewable power generatin
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $30.01 | EV/Sales | 13.53 |
-| Market cap | $20.52B | EV/EBITDA | 30.67 |
-| Beta | 0.95 | Gross margin | 48.30% |
-| RSI(14) | 51.5 | Operating margin | 8.73% |
-| ATR(14) | 0.86 | Profit margin | -4.19% |
-| SMA20 dist | +0.37% | ROA | 0.35% |
-| SMA50 dist | +2.48% | ROE | -0.75% |
-| SMA200 dist | -5.43% | Revenue (ttm) | $6.54B |
-| 52W high | $36.63 | Revenue growth y/y | 11.50% |
-| 52W low | $25.75 | Inst. ownership | 64.39% |
-| P/E (ttm) | — | Insider ownership | 0.07% |
-| Forward P/E | -17.70 | Short float | 0.71% |
-| PEG (trailing) | — | Avg volume | 1,118,893 |
-| P/S | 3.14 | Employees | 6,700 |
-| P/B | 2.32 | Analyst rec (1=buy..5=sell) | 2.2 |
+| Price | $30.01 | EV/Sales | — |
+| Market cap | — | EV/EBITDA | — |
+| Beta | — | Gross margin | — |
+| RSI(14) | 51.5 | Operating margin | — |
+| ATR(14) | 0.86 | Profit margin | — |
+| SMA20 dist | +0.37% | ROA | — |
+| SMA50 dist | +2.48% | ROE | — |
+| SMA200 dist | -5.43% | Revenue (ttm) | — |
+| 52W high | $36.63 | Revenue growth y/y | — |
+| 52W low | $25.75 | Inst. ownership | — |
+| P/E (ttm) | — | Insider ownership | — |
+| Forward P/E | — | Short float | — |
+| PEG (trailing) | — | Avg volume | 0 |
+| P/S | — | Employees | 0 |
+| P/B | — | Analyst rec (1=buy..5=sell) | — |
 
 ## 8. Analyst Actions
-| Date | Action | Firm | Rating change |
-|---|---|---|---|
-| 2026-10-19 | main | JP Morgan | Neutral → Neutral |
-| 2026-10-13 | main | Morgan Stanley | Overweight → Overweight |
-| 2026-10-01 | main | UBS | Buy → Buy |
-| 2026-07-22 | main | Barclays | Equal-Weight → Equal-Weight |
-| 2026-07-21 | down | JP Morgan | Overweight → Neutral |
-| 2026-06-12 | main | UBS | Buy → Buy |
-| 2026-05-29 | main | Scotiabank | Sector Outperform → Sector Outperform |
-| 2026-04-20 | main | CIBC | Outperformer → Outperformer |
+_No recent analyst actions available from Yahoo._
 
 ## 9. Conclusion
-BEP: Low momentum / weak fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+BEP: Low momentum / mixed fundamentals / low (expensive) value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

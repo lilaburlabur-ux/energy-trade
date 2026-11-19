@@ -1,14 +1,14 @@
 # TRGP Research Report
-**Targa Resources Corp.** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**Targa Resources** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `TRGP.research.19.11.2026`
 
 | Field | Value |
 |---|---|
 | Current price | $285.42 (2026-11-19, ~15-min delayed) |
-| Market cap | $61.24B |
-| Sector / Industry | Energy / Oil & Gas Midstream |
-| Main theme | Oil & Gas Midstream — see catalysts below |
-| Current stance | High technical momentum, mixed fundamentals, value: fair-to-demanding, risk: elevated. |
+| Market cap | — |
+| Sector / Industry | — / — |
+| Main theme | Semiconductors — see catalysts below |
+| Current stance | High technical momentum, mixed fundamentals, value: low (expensive), risk: elevated. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-19.
 
@@ -17,11 +17,11 @@ Signed file: `TRGP.research.19.11.2026`
 |---|---|---|
 | Technical momentum | High | 1Y +71.48%; price +8.10% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -9.39% from 52w high; no clean fresh pivot by default. |
-| Fundamental quality | Mixed | Profit margin 13.46%, revenue growth 34.90%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 23.12, EV/Sales 4.51. |
-| Risk level | Elevated | Beta 0.74, ATR 3.4% of price, short float 3.59%. |
+| Fundamental quality | Mixed | Profit margin —, revenue growth —. |
+| Value attractiveness | Low (expensive) | Forward P/E —, EV/Sales —. |
+| Risk level | Elevated | Beta —, ATR 3.4% of price, short float —. |
 
-**Bottom line:** High technical momentum, mixed fundamentals, value: fair-to-demanding, risk: elevated.
+**Bottom line:** High technical momentum, mixed fundamentals, value: low (expensive), risk: elevated.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -30,7 +30,7 @@ Signed file: `TRGP.research.19.11.2026`
 - Can earnings convert fast enough to justify the valuation?
 
 ## 2. Company Overview and Recent Catalysts
-Targa Resources Corp., together with its subsidiaries, owns, operates, acquires, and develops a portfolio of complementary domestic infrastructure assets in North America. It operates in two segments, Gathering and Processing, and Logistics and Transportation.
+—
 
 **Recent headlines (potential catalysts):**
 
@@ -47,7 +47,7 @@ Targa Resources Corp., together with its subsidiaries, owns, operates, acquires,
 | Price vs 52-week range | Close $285.42; 52w high $314.99 (-9.39%); 52w low $166.72 (+71.20%) |
 | Trend | +8.10% vs SMA200, -0.86% vs SMA50, -2.44% vs SMA20 |
 | Momentum | RSI(14) 47.1 (neutral) |
-| Volatility | ATR(14) 9.70 (~3.4% of price); beta 0.74 |
+| Volatility | ATR(14) 9.70 (~3.4% of price); beta — |
 | Setup perspective | -9.39% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
@@ -64,39 +64,24 @@ Targa Resources Corp., together with its subsidiaries, owns, operates, acquires,
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
-| Next earnings | 2026-11-05 | Next scheduled report (Yahoo estimate) |
-| Revenue (ttm) | $18.19B | Revenue growth 34.90% y/y |
-| Profitability | Gross 41.82%, operating 22.51%, net 13.46% | ROA 9.52%, ROE 73.42% |
-| Balance sheet | Cash $142.60M, debt $19.84B | Current ratio 0.74, debt/equity 501.05 |
-| Valuation | P/E 25.26, forward P/E 23.12, P/S 3.37, P/B 16.04 | EV/Sales 4.51, EV/EBITDA 14.10 |
-| Growth expectations | Earnings growth 38.20%, EPS q/q 37.60% | Analyst mean target $333.48 (21 analysts) |
+| Next earnings | — | Next scheduled report (Yahoo estimate) |
+| Revenue (ttm) | — | Revenue growth — y/y |
+| Profitability | Gross —, operating —, net — | ROA —, ROE — |
+| Balance sheet | Cash —, debt — | Current ratio —, debt/equity — |
+| Valuation | P/E —, forward P/E —, P/S —, P/B — | EV/Sales —, EV/EBITDA — |
+| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $— (— analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 97.57% |
-| Insider ownership | 1.38% |
-| Short float | 3.59% |
-| Short ratio (days to cover) | 5.8 |
-
-**Top institutional holders:**
-
-| Holder | Shares | % Out | Reported |
-|---|---|---|---|
-| Blackrock Inc. | 21,410,462 | 9.98% | 2026-09-30 |
-| Vanguard Capital Management LLC | 14,036,897 | 6.54% | 2026-09-30 |
-| State Street Corporation | 13,399,961 | 6.25% | 2026-09-30 |
-| Wellington Management Group, LLP | 12,757,241 | 5.95% | 2026-09-30 |
-| Vanguard Portfolio Management LLC | 11,713,865 | 5.46% | 2026-09-30 |
-| Harris Associates L.P. | 6,415,781 | 2.99% | 2026-09-30 |
-| Geode Capital Management, LLC | 6,378,192 | 2.97% | 2026-09-30 |
-| NORGES BANK | 4,216,259 | 1.97% | 2026-06-30 |
-| Invesco Ltd. | 3,997,002 | 1.86% | 2026-09-30 |
-| Blackstone Inc | 3,941,448 | 1.84% | 2026-09-30 |
+| Institutional ownership | — |
+| Insider ownership | — |
+| Short float | — |
+| Short ratio (days to cover) | — |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 23.12, EV/Sales 4.51. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 0.74, ATR 3.4% of price, short float 3.59%. Size positions accordingly.
+- **Valuation risk:** Forward P/E —, EV/Sales —. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta —, ATR 3.4% of price, short float —. Size positions accordingly.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -111,36 +96,27 @@ Targa Resources Corp., together with its subsidiaries, owns, operates, acquires,
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $285.42 | EV/Sales | 4.51 |
-| Market cap | $61.24B | EV/EBITDA | 14.10 |
-| Beta | 0.74 | Gross margin | 41.82% |
-| RSI(14) | 47.1 | Operating margin | 22.51% |
-| ATR(14) | 9.70 | Profit margin | 13.46% |
-| SMA20 dist | -2.44% | ROA | 9.52% |
-| SMA50 dist | -0.86% | ROE | 73.42% |
-| SMA200 dist | +8.10% | Revenue (ttm) | $18.19B |
-| 52W high | $314.99 | Revenue growth y/y | 34.90% |
-| 52W low | $166.72 | Inst. ownership | 97.57% |
-| P/E (ttm) | 25.26 | Insider ownership | 1.38% |
-| Forward P/E | 23.12 | Short float | 3.59% |
-| PEG (trailing) | — | Avg volume | 1,230,617 |
-| P/S | 3.37 | Employees | 3,570 |
-| P/B | 16.04 | Analyst rec (1=buy..5=sell) | 1.3 |
+| Price | $285.42 | EV/Sales | — |
+| Market cap | — | EV/EBITDA | — |
+| Beta | — | Gross margin | — |
+| RSI(14) | 47.1 | Operating margin | — |
+| ATR(14) | 9.70 | Profit margin | — |
+| SMA20 dist | -2.44% | ROA | — |
+| SMA50 dist | -0.86% | ROE | — |
+| SMA200 dist | +8.10% | Revenue (ttm) | — |
+| 52W high | $314.99 | Revenue growth y/y | — |
+| 52W low | $166.72 | Inst. ownership | — |
+| P/E (ttm) | — | Insider ownership | — |
+| Forward P/E | — | Short float | — |
+| PEG (trailing) | — | Avg volume | 0 |
+| P/S | — | Employees | 0 |
+| P/B | — | Analyst rec (1=buy..5=sell) | — |
 
 ## 8. Analyst Actions
-| Date | Action | Firm | Rating change |
-|---|---|---|---|
-| 2026-11-10 | main | Morgan Stanley | Overweight → Overweight |
-| 2026-11-10 | main | Scotiabank | Sector Outperform → Sector Outperform |
-| 2026-11-09 | main | Wells Fargo | Overweight → Overweight |
-| 2026-11-07 | main | Jefferies | Buy → Buy |
-| 2026-11-06 | main | Citigroup | Buy → Buy |
-| 2026-10-21 | main | BMO Capital | Outperform → Outperform |
-| 2026-10-13 | main | Citigroup | Buy → Buy |
-| 2026-10-08 | main | Barclays | Overweight → Overweight |
+_No recent analyst actions available from Yahoo._
 
 ## 9. Conclusion
-TRGP: High momentum / mixed fundamentals / fair-to-demanding value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+TRGP: High momentum / mixed fundamentals / low (expensive) value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

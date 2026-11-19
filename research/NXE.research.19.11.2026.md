@@ -1,14 +1,14 @@
 # NXE Research Report
-**NexGen Energy Ltd.** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**NexGen Energy** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `NXE.research.19.11.2026`
 
 | Field | Value |
 |---|---|
 | Current price | $6.93 (2026-11-19, ~15-min delayed) |
-| Market cap | $4.77B |
-| Sector / Industry | Energy / Uranium |
-| Main theme | Uranium — see catalysts below |
-| Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: high. |
+| Market cap | — |
+| Sector / Industry | — / — |
+| Main theme | Semiconductors — see catalysts below |
+| Current stance | Low technical momentum, mixed fundamentals, value: low (expensive), risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-19.
 
@@ -17,11 +17,11 @@ Signed file: `NXE.research.19.11.2026`
 |---|---|---|
 | Technical momentum | Low | Below SMA200 (-33.63%) with negative half-year (-34.19%). |
 | Fresh setup quality | Poor / broken | -50.22% from 52w high — base needs to rebuild. |
-| Fundamental quality | Mixed | Profit margin 0.00%, revenue growth —. |
-| Value attractiveness | Reasonable | Forward P/E -55.61, EV/Sales —. |
-| Risk level | High | Beta 1.66, ATR 6.0% of price, short float —. |
+| Fundamental quality | Mixed | Profit margin —, revenue growth —. |
+| Value attractiveness | Low (expensive) | Forward P/E —, EV/Sales —. |
+| Risk level | High | Beta —, ATR 6.0% of price, short float —. |
 
-**Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: high.
+**Bottom line:** Low technical momentum, mixed fundamentals, value: low (expensive), risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -30,7 +30,7 @@ Signed file: `NXE.research.19.11.2026`
 - Can earnings convert fast enough to justify the valuation?
 
 ## 2. Company Overview and Recent Catalysts
-NexGen Energy Ltd., an exploration and development stage company, engages in the acquisition, exploration, evaluation, and development of uranium properties in Canada. The company holds a 100% interest in the Rook I project that consists of 32 contiguous mineral claims totaling an area of approximately 35,065 hectares located in the southwestern Athabasca Basin of Saskatchewan. NexGen Energy Ltd. was founded in 2011 and is headquartered in Vancouver, Canada.
+—
 
 **Recent headlines (potential catalysts):**
 
@@ -47,7 +47,7 @@ NexGen Energy Ltd., an exploration and development stage company, engages in the
 | Price vs 52-week range | Close $6.93; 52w high $13.92 (-50.22%); 52w low $6.93 (+0.00%) |
 | Trend | -33.63% vs SMA200, -19.71% vs SMA50, -13.99% vs SMA20 |
 | Momentum | RSI(14) 30.1 (neutral) |
-| Volatility | ATR(14) 0.42 (~6.0% of price); beta 1.66 |
+| Volatility | ATR(14) 0.42 (~6.0% of price); beta — |
 | Setup perspective | -50.22% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
@@ -64,38 +64,24 @@ NexGen Energy Ltd., an exploration and development stage company, engages in the
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
-| Next earnings | 2026-11-09 | Next scheduled report (Yahoo estimate) |
+| Next earnings | — | Next scheduled report (Yahoo estimate) |
 | Revenue (ttm) | — | Revenue growth — y/y |
-| Profitability | Gross 0.00%, operating 0.00%, net 0.00% | ROA -4.15%, ROE -10.28% |
-| Balance sheet | Cash $821.57M, debt $514.88M | Current ratio 1.42, debt/equity 26.62 |
-| Valuation | P/E —, forward P/E -55.61, P/S —, P/B 3.41 | EV/Sales —, EV/EBITDA -34.99 |
-| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $15.31 (2 analysts) |
+| Profitability | Gross —, operating —, net — | ROA —, ROE — |
+| Balance sheet | Cash —, debt — | Current ratio —, debt/equity — |
+| Valuation | P/E —, forward P/E —, P/S —, P/B — | EV/Sales —, EV/EBITDA — |
+| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $— (— analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 54.39% |
-| Insider ownership | 7.71% |
+| Institutional ownership | — |
+| Insider ownership | — |
 | Short float | — |
-| Short ratio (days to cover) | 9.2 |
-
-**Top institutional holders:**
-
-| Holder | Shares | % Out | Reported |
-|---|---|---|---|
-| Mirae Asset Global ETFs Holdings Ltd. | 41,944,302 | 6.27% | 2026-09-30 |
-| L1 Capital Pty Ltd | 40,640,733 | 6.07% | 2026-09-30 |
-| Van Eck Associates Corporation | 38,732,836 | 5.79% | 2026-09-30 |
-| Alps Advisors Inc. | 27,879,166 | 4.16% | 2026-09-30 |
-| Hancock Prospecting Pty Ltd | 19,280,959 | 2.88% | 2026-09-30 |
-| Vanguard Capital Management LLC | 17,968,754 | 2.68% | 2026-09-30 |
-| Ameriprise Financial, Inc. | 8,846,504 | 1.32% | 2026-09-30 |
-| NORGES BANK | 8,057,932 | 1.20% | 2026-06-30 |
-| Grantham, Mayo, Van Otterloo & Co. LLC | 7,997,531 | 1.19% | 2026-09-30 |
-| Royal Bank of Canada | 6,198,791 | 0.93% | 2026-09-30 |
+| Short ratio (days to cover) | — |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.66, ATR 6.0% of price, short float —. Size positions accordingly.
+- **Valuation risk:** Forward P/E —, EV/Sales —. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta —, ATR 6.0% of price, short float —. Size positions accordingly.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -112,29 +98,26 @@ NexGen Energy Ltd., an exploration and development stage company, engages in the
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $6.93 | EV/Sales | — |
-| Market cap | $4.77B | EV/EBITDA | -34.99 |
-| Beta | 1.66 | Gross margin | 0.00% |
-| RSI(14) | 30.1 | Operating margin | 0.00% |
-| ATR(14) | 0.42 | Profit margin | 0.00% |
-| SMA20 dist | -13.99% | ROA | -4.15% |
-| SMA50 dist | -19.71% | ROE | -10.28% |
+| Market cap | — | EV/EBITDA | — |
+| Beta | — | Gross margin | — |
+| RSI(14) | 30.1 | Operating margin | — |
+| ATR(14) | 0.42 | Profit margin | — |
+| SMA20 dist | -13.99% | ROA | — |
+| SMA50 dist | -19.71% | ROE | — |
 | SMA200 dist | -33.63% | Revenue (ttm) | — |
 | 52W high | $13.92 | Revenue growth y/y | — |
-| 52W low | $6.93 | Inst. ownership | 54.39% |
-| P/E (ttm) | — | Insider ownership | 7.71% |
-| Forward P/E | -55.61 | Short float | — |
-| PEG (trailing) | — | Avg volume | 5,016,895 |
-| P/S | — | Employees | 142 |
-| P/B | 3.41 | Analyst rec (1=buy..5=sell) | 1.6 |
+| 52W low | $6.93 | Inst. ownership | — |
+| P/E (ttm) | — | Insider ownership | — |
+| Forward P/E | — | Short float | — |
+| PEG (trailing) | — | Avg volume | 0 |
+| P/S | — | Employees | 0 |
+| P/B | — | Analyst rec (1=buy..5=sell) | — |
 
 ## 8. Analyst Actions
-| Date | Action | Firm | Rating change |
-|---|---|---|---|
-| 2026-11-11 | main | JP Morgan | Overweight → Overweight |
-| 2026-09-21 | init | JP Morgan | — → Overweight |
+_No recent analyst actions available from Yahoo._
 
 ## 9. Conclusion
-NXE: Low momentum / mixed fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+NXE: Low momentum / mixed fundamentals / low (expensive) value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

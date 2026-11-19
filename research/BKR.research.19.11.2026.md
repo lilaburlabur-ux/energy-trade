@@ -1,14 +1,14 @@
 # BKR Research Report
-**Baker Hughes Company** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**Baker Hughes** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `BKR.research.19.11.2026`
 
 | Field | Value |
 |---|---|
 | Current price | $46.67 (2026-11-19, ~15-min delayed) |
-| Market cap | $46.35B |
-| Sector / Industry | Energy / Oil & Gas Equipment & Services |
-| Main theme | Oil & Gas Equipment & Services — see catalysts below |
-| Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
+| Market cap | — |
+| Sector / Industry | — / — |
+| Main theme | Semiconductors — see catalysts below |
+| Current stance | Low technical momentum, mixed fundamentals, value: low (expensive), risk: elevated. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-19.
 
@@ -17,11 +17,11 @@ Signed file: `BKR.research.19.11.2026`
 |---|---|---|
 | Technical momentum | Low | Below SMA200 (-21.31%) with negative half-year (-28.47%). |
 | Fresh setup quality | Poor / broken | -32.22% from 52w high — base needs to rebuild. |
-| Fundamental quality | Mixed | Profit margin 10.08%, revenue growth 14.50%. |
-| Value attractiveness | Reasonable | Forward P/E 16.59, EV/Sales 2.10. |
-| Risk level | Elevated | Beta 1.06, ATR 4.1% of price, short float 2.79%. |
+| Fundamental quality | Mixed | Profit margin —, revenue growth —. |
+| Value attractiveness | Low (expensive) | Forward P/E —, EV/Sales —. |
+| Risk level | Elevated | Beta —, ATR 4.1% of price, short float —. |
 
-**Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
+**Bottom line:** Low technical momentum, mixed fundamentals, value: low (expensive), risk: elevated.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -30,7 +30,7 @@ Signed file: `BKR.research.19.11.2026`
 - Can earnings convert fast enough to justify the valuation?
 
 ## 2. Company Overview and Recent Catalysts
-Baker Hughes Company provides a portfolio of technologies and services to energy and industrial value chain. Its Oilfield Services & Equipment segment designs and manufactures exploration, appraisal, development, production, rejuvenation, and decommissioning products and related services for onshore and offshore oilfield operations.
+—
 
 **Recent headlines (potential catalysts):**
 
@@ -47,7 +47,7 @@ Baker Hughes Company provides a portfolio of technologies and services to energy
 | Price vs 52-week range | Close $46.67; 52w high $68.85 (-32.22%); 52w low $43.78 (+6.59%) |
 | Trend | -21.31% vs SMA200, -13.57% vs SMA50, -8.07% vs SMA20 |
 | Momentum | RSI(14) 34.4 (neutral) |
-| Volatility | ATR(14) 1.92 (~4.1% of price); beta 1.06 |
+| Volatility | ATR(14) 1.92 (~4.1% of price); beta — |
 | Setup perspective | -32.22% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
@@ -64,38 +64,24 @@ Baker Hughes Company provides a portfolio of technologies and services to energy
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
-| Next earnings | 2027-01-25 | Next scheduled report (Yahoo estimate) |
-| Revenue (ttm) | $28.74B | Revenue growth 14.50% y/y |
-| Profitability | Gross 23.70%, operating 12.20%, net 10.08% | ROA 4.46%, ROE 15.06% |
-| Balance sheet | Cash $5.38B, debt $18.26B | Current ratio 1.24, debt/equity 88.83 |
-| Valuation | P/E 16.04, forward P/E 16.59, P/S 1.61, P/B 2.30 | EV/Sales 2.10, EV/EBITDA 12.01 |
-| Growth expectations | Earnings growth -32.80%, EPS q/q -32.50% | Analyst mean target $69.75 (24 analysts) |
+| Next earnings | — | Next scheduled report (Yahoo estimate) |
+| Revenue (ttm) | — | Revenue growth — y/y |
+| Profitability | Gross —, operating —, net — | ROA —, ROE — |
+| Balance sheet | Cash —, debt — | Current ratio —, debt/equity — |
+| Valuation | P/E —, forward P/E —, P/S —, P/B — | EV/Sales —, EV/EBITDA — |
+| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $— (— analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 99.55% |
-| Insider ownership | 0.51% |
-| Short float | 2.79% |
-| Short ratio (days to cover) | 3.4 |
-
-**Top institutional holders:**
-
-| Holder | Shares | % Out | Reported |
-|---|---|---|---|
-| Blackrock Inc. | 96,141,866 | 11.60% | 2026-09-30 |
-| JPMORGAN CHASE & CO | 67,954,299 | 8.20% | 2026-09-30 |
-| Vanguard Capital Management LLC | 64,987,302 | 7.84% | 2026-09-30 |
-| State Street Corporation | 61,156,341 | 7.38% | 2026-09-30 |
-| Vanguard Portfolio Management LLC | 48,775,412 | 5.89% | 2026-09-30 |
-| Invesco Ltd. | 33,528,633 | 4.05% | 2026-09-30 |
-| Dodge & Cox Inc. | 32,889,051 | 3.97% | 2026-09-30 |
-| Capital World Investors | 28,606,992 | 3.45% | 2026-09-30 |
-| Geode Capital Management, LLC | 27,591,660 | 3.33% | 2026-09-30 |
-| Capital Research Global Investors | 23,638,093 | 2.85% | 2026-09-30 |
+| Institutional ownership | — |
+| Insider ownership | — |
+| Short float | — |
+| Short ratio (days to cover) | — |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.06, ATR 4.1% of price, short float 2.79%. Size positions accordingly.
+- **Valuation risk:** Forward P/E —, EV/Sales —. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta —, ATR 4.1% of price, short float —. Size positions accordingly.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -111,36 +97,27 @@ Baker Hughes Company provides a portfolio of technologies and services to energy
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $46.67 | EV/Sales | 2.10 |
-| Market cap | $46.35B | EV/EBITDA | 12.01 |
-| Beta | 1.06 | Gross margin | 23.70% |
-| RSI(14) | 34.4 | Operating margin | 12.20% |
-| ATR(14) | 1.92 | Profit margin | 10.08% |
-| SMA20 dist | -8.07% | ROA | 4.46% |
-| SMA50 dist | -13.57% | ROE | 15.06% |
-| SMA200 dist | -21.31% | Revenue (ttm) | $28.74B |
-| 52W high | $68.85 | Revenue growth y/y | 14.50% |
-| 52W low | $43.78 | Inst. ownership | 99.55% |
-| P/E (ttm) | 16.04 | Insider ownership | 0.51% |
-| Forward P/E | 16.59 | Short float | 2.79% |
-| PEG (trailing) | 1.35 | Avg volume | 8,086,153 |
-| P/S | 1.61 | Employees | 65,600 |
-| P/B | 2.30 | Analyst rec (1=buy..5=sell) | 1.6 |
+| Price | $46.67 | EV/Sales | — |
+| Market cap | — | EV/EBITDA | — |
+| Beta | — | Gross margin | — |
+| RSI(14) | 34.4 | Operating margin | — |
+| ATR(14) | 1.92 | Profit margin | — |
+| SMA20 dist | -8.07% | ROA | — |
+| SMA50 dist | -13.57% | ROE | — |
+| SMA200 dist | -21.31% | Revenue (ttm) | — |
+| 52W high | $68.85 | Revenue growth y/y | — |
+| 52W low | $43.78 | Inst. ownership | — |
+| P/E (ttm) | — | Insider ownership | — |
+| Forward P/E | — | Short float | — |
+| PEG (trailing) | 1.35 | Avg volume | 0 |
+| P/S | — | Employees | 0 |
+| P/B | — | Analyst rec (1=buy..5=sell) | — |
 
 ## 8. Analyst Actions
-| Date | Action | Firm | Rating change |
-|---|---|---|---|
-| 2026-10-31 | up | Freedom Broker | Sell → Hold |
-| 2026-10-29 | main | RBC Capital | Outperform → Outperform |
-| 2026-10-29 | main | Morgan Stanley | Overweight → Overweight |
-| 2026-10-29 | main | TD Cowen | Buy → Buy |
-| 2026-10-29 | main | Barclays | Equal-Weight → Equal-Weight |
-| 2026-10-29 | main | Piper Sandler | Overweight → Overweight |
-| 2026-10-19 | main | Citigroup | Buy → Buy |
-| 2026-09-30 | main | UBS | Neutral → Neutral |
+_No recent analyst actions available from Yahoo._
 
 ## 9. Conclusion
-BKR: Low momentum / mixed fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+BKR: Low momentum / mixed fundamentals / low (expensive) value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

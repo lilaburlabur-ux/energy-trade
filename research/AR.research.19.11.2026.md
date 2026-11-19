@@ -1,14 +1,14 @@
 # AR Research Report
-**Antero Resources Corporation** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**Antero Resources** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `AR.research.19.11.2026`
 
 | Field | Value |
 |---|---|
 | Current price | $36.00 (2026-11-19, ~15-min delayed) |
-| Market cap | $11.06B |
-| Sector / Industry | Energy / Oil & Gas E&P |
-| Main theme | Oil & Gas E&P — see catalysts below |
-| Current stance | Low technical momentum, strong fundamentals, value: reasonable, risk: elevated. |
+| Market cap | — |
+| Sector / Industry | — / — |
+| Main theme | Semiconductors — see catalysts below |
+| Current stance | Low technical momentum, mixed fundamentals, value: low (expensive), risk: elevated. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-19.
 
@@ -17,11 +17,11 @@ Signed file: `AR.research.19.11.2026`
 |---|---|---|
 | Technical momentum | Low | Below SMA200 (-2.87%) with negative half-year (-2.81%). |
 | Fresh setup quality | Moderate / wait | -20.27% from 52w high; no clean fresh pivot by default. |
-| Fundamental quality | Strong | Profit margin 22.98%, revenue growth 17.10%. |
-| Value attractiveness | Reasonable | Forward P/E 7.99, EV/Sales —. |
-| Risk level | Elevated | Beta 0.48, ATR 3.7% of price, short float 4.15%. |
+| Fundamental quality | Mixed | Profit margin —, revenue growth —. |
+| Value attractiveness | Low (expensive) | Forward P/E —, EV/Sales —. |
+| Risk level | Elevated | Beta —, ATR 3.7% of price, short float —. |
 
-**Bottom line:** Low technical momentum, strong fundamentals, value: reasonable, risk: elevated.
+**Bottom line:** Low technical momentum, mixed fundamentals, value: low (expensive), risk: elevated.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -30,7 +30,7 @@ Signed file: `AR.research.19.11.2026`
 - Can earnings convert fast enough to justify the valuation?
 
 ## 2. Company Overview and Recent Catalysts
-Antero Resources Corporation, an independent oil and natural gas company, engages in the development, production, exploration, and acquisition of natural gas, natural gas liquids (NGLs), and oil properties in the United States. It operates in three segments: Exploration and Production; Marketing; and Equity Method Investment in Antero Midstream. As of December 31, 2025, the company had approximately 537,000 net acres in the Appalachian Basin; and approximately 168,000 net acres in the Upper Devonian Shale.
+—
 
 **Recent headlines (potential catalysts):**
 
@@ -47,7 +47,7 @@ Antero Resources Corporation, an independent oil and natural gas company, engage
 | Price vs 52-week range | Close $36.00; 52w high $45.15 (-20.27%); 52w low $31.38 (+14.72%) |
 | Trend | -2.87% vs SMA200, -3.30% vs SMA50, -7.27% vs SMA20 |
 | Momentum | RSI(14) 39.9 (neutral) |
-| Volatility | ATR(14) 1.32 (~3.7% of price); beta 0.48 |
+| Volatility | ATR(14) 1.32 (~3.7% of price); beta — |
 | Setup perspective | -20.27% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
@@ -64,38 +64,24 @@ Antero Resources Corporation, an independent oil and natural gas company, engage
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
-| Next earnings | 2026-10-28 | Next scheduled report (Yahoo estimate) |
-| Revenue (ttm) | $5.98B | Revenue growth 17.10% y/y |
-| Profitability | Gross 68.28%, operating 29.32%, net 22.98% | ROA 7.69%, ROE 17.39% |
-| Balance sheet | Cash —, debt $4.65B | Current ratio 0.39, debt/equity 53.84 |
-| Valuation | P/E 8.13, forward P/E 7.99, P/S 1.85, P/B 1.28 | EV/Sales —, EV/EBITDA — |
-| Growth expectations | Earnings growth 395.80%, EPS q/q 381.90% | Analyst mean target $50.18 (22 analysts) |
+| Next earnings | — | Next scheduled report (Yahoo estimate) |
+| Revenue (ttm) | — | Revenue growth — y/y |
+| Profitability | Gross —, operating —, net — | ROA —, ROE — |
+| Balance sheet | Cash —, debt — | Current ratio —, debt/equity — |
+| Valuation | P/E —, forward P/E —, P/S —, P/B — | EV/Sales —, EV/EBITDA — |
+| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $— (— analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 93.29% |
-| Insider ownership | 4.41% |
-| Short float | 4.15% |
-| Short ratio (days to cover) | 2.8 |
-
-**Top institutional holders:**
-
-| Holder | Shares | % Out | Reported |
-|---|---|---|---|
-| Blackrock Inc. | 28,869,988 | 9.40% | 2026-09-30 |
-| FMR, LLC | 19,266,726 | 6.27% | 2026-09-30 |
-| AQR Capital Management, LLC | 17,251,436 | 5.62% | 2026-09-30 |
-| Dimensional Fund Advisors LP | 14,567,181 | 4.74% | 2026-09-30 |
-| Vanguard Portfolio Management LLC | 13,764,522 | 4.48% | 2026-09-30 |
-| Vanguard Capital Management LLC | 13,349,600 | 4.35% | 2026-09-30 |
-| State Street Corporation | 12,177,518 | 3.96% | 2026-09-30 |
-| Invesco Ltd. | 10,114,720 | 3.29% | 2026-09-30 |
-| Sourcerock Group, LLC | 9,035,127 | 2.94% | 2026-09-30 |
-| Geode Capital Management, LLC | 5,988,401 | 1.95% | 2026-09-30 |
+| Institutional ownership | — |
+| Insider ownership | — |
+| Short float | — |
+| Short ratio (days to cover) | — |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 0.48, ATR 3.7% of price, short float 4.15%. Size positions accordingly.
+- **Valuation risk:** Forward P/E —, EV/Sales —. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta —, ATR 3.7% of price, short float —. Size positions accordingly.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -111,35 +97,26 @@ Antero Resources Corporation, an independent oil and natural gas company, engage
 | Metric | Value | Metric | Value |
 |---|---|---|---|
 | Price | $36.00 | EV/Sales | — |
-| Market cap | $11.06B | EV/EBITDA | — |
-| Beta | 0.48 | Gross margin | 68.28% |
-| RSI(14) | 39.9 | Operating margin | 29.32% |
-| ATR(14) | 1.32 | Profit margin | 22.98% |
-| SMA20 dist | -7.27% | ROA | 7.69% |
-| SMA50 dist | -3.30% | ROE | 17.39% |
-| SMA200 dist | -2.87% | Revenue (ttm) | $5.98B |
-| 52W high | $45.15 | Revenue growth y/y | 17.10% |
-| 52W low | $31.38 | Inst. ownership | 93.29% |
-| P/E (ttm) | 8.13 | Insider ownership | 4.41% |
-| Forward P/E | 7.99 | Short float | 4.15% |
-| PEG (trailing) | 0.42 | Avg volume | 4,014,287 |
-| P/S | 1.85 | Employees | 632 |
-| P/B | 1.28 | Analyst rec (1=buy..5=sell) | 1.7 |
+| Market cap | — | EV/EBITDA | — |
+| Beta | — | Gross margin | — |
+| RSI(14) | 39.9 | Operating margin | — |
+| ATR(14) | 1.32 | Profit margin | — |
+| SMA20 dist | -7.27% | ROA | — |
+| SMA50 dist | -3.30% | ROE | — |
+| SMA200 dist | -2.87% | Revenue (ttm) | — |
+| 52W high | $45.15 | Revenue growth y/y | — |
+| 52W low | $31.38 | Inst. ownership | — |
+| P/E (ttm) | — | Insider ownership | — |
+| Forward P/E | — | Short float | — |
+| PEG (trailing) | 0.42 | Avg volume | 0 |
+| P/S | — | Employees | 0 |
+| P/B | — | Analyst rec (1=buy..5=sell) | — |
 
 ## 8. Analyst Actions
-| Date | Action | Firm | Rating change |
-|---|---|---|---|
-| 2026-10-30 | main | Citigroup | Buy → Buy |
-| 2026-10-30 | main | Wells Fargo | Overweight → Overweight |
-| 2026-10-30 | main | Truist Securities | Buy → Buy |
-| 2026-10-15 | init | Scotiabank | — → Sector Outperform |
-| 2026-10-15 | main | Morgan Stanley | Overweight → Overweight |
-| 2026-10-08 | main | Mizuho | Outperform → Outperform |
-| 2026-10-06 | main | UBS | Buy → Buy |
-| 2026-10-05 | main | Truist Securities | Buy → Buy |
+_No recent analyst actions available from Yahoo._
 
 ## 9. Conclusion
-AR: Low momentum / strong fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+AR: Low momentum / mixed fundamentals / low (expensive) value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

@@ -1,14 +1,14 @@
 # OXY Research Report
-**Occidental Petroleum Corporation** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**Occidental Petroleum** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `OXY.research.19.11.2026`
 
 | Field | Value |
 |---|---|
 | Current price | $53.81 (2026-11-19, ~15-min delayed) |
-| Market cap | $53.80B |
-| Sector / Industry | Energy / Oil & Gas E&P |
-| Main theme | Oil & Gas E&P — see catalysts below |
-| Current stance | Low technical momentum, strong fundamentals, value: reasonable, risk: elevated. |
+| Market cap | — |
+| Sector / Industry | — / — |
+| Main theme | Semiconductors — see catalysts below |
+| Current stance | Low technical momentum, mixed fundamentals, value: low (expensive), risk: elevated. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-19.
 
@@ -17,11 +17,11 @@ Signed file: `OXY.research.19.11.2026`
 |---|---|---|
 | Technical momentum | Low | Below SMA200 (-5.00%) with negative half-year (-7.69%). |
 | Fresh setup quality | Moderate / wait | -18.02% from 52w high; no clean fresh pivot by default. |
-| Fundamental quality | Strong | Profit margin 32.95%, revenue growth 19.00%. |
-| Value attractiveness | Reasonable | Forward P/E 10.17, EV/Sales 2.86. |
-| Risk level | Elevated | Beta 0.15, ATR 3.3% of price, short float 0.02%. |
+| Fundamental quality | Mixed | Profit margin —, revenue growth —. |
+| Value attractiveness | Low (expensive) | Forward P/E —, EV/Sales —. |
+| Risk level | Elevated | Beta —, ATR 3.3% of price, short float —. |
 
-**Bottom line:** Low technical momentum, strong fundamentals, value: reasonable, risk: elevated.
+**Bottom line:** Low technical momentum, mixed fundamentals, value: low (expensive), risk: elevated.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -30,7 +30,7 @@ Signed file: `OXY.research.19.11.2026`
 - Can earnings convert fast enough to justify the valuation?
 
 ## 2. Company Overview and Recent Catalysts
-Occidental Petroleum Corporation, together with its subsidiaries, engages in the acquisition, exploration, and development of oil and gas properties in the United States and internationally. It operates through Oil and Gas and Midstream and Marketing. The Oil and Gas segment explores for, develops, and produces oil and condensate, natural gas liquids (NGLs), and natural gas. This segment also optimizes its transportation and storage capacity and invests in entities.
+—
 
 **Recent headlines (potential catalysts):**
 
@@ -47,7 +47,7 @@ Occidental Petroleum Corporation, together with its subsidiaries, engages in the
 | Price vs 52-week range | Close $53.81; 52w high $65.63 (-18.02%); 52w low $38.38 (+40.20%) |
 | Trend | -5.00% vs SMA200, -9.30% vs SMA50, -8.84% vs SMA20 |
 | Momentum | RSI(14) 31.6 (neutral) |
-| Volatility | ATR(14) 1.78 (~3.3% of price); beta 0.15 |
+| Volatility | ATR(14) 1.78 (~3.3% of price); beta — |
 | Setup perspective | -18.02% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
@@ -64,38 +64,24 @@ Occidental Petroleum Corporation, together with its subsidiaries, engages in the
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
-| Next earnings | 2026-11-09 | Next scheduled report (Yahoo estimate) |
-| Revenue (ttm) | $24.97B | Revenue growth 19.00% y/y |
-| Profitability | Gross 74.49%, operating 29.31%, net 32.95% | ROA 5.61%, ROE 13.18% |
-| Balance sheet | Cash $3.88B, debt $12.62B | Current ratio 1.39, debt/equity 28.80 |
-| Valuation | P/E 11.98, forward P/E 10.17, P/S 2.15, P/B 1.54 | EV/Sales 2.86, EV/EBITDA 4.86 |
-| Growth expectations | Earnings growth 149.40%, EPS q/q 117.60% | Analyst mean target $71.11 (27 analysts) |
+| Next earnings | — | Next scheduled report (Yahoo estimate) |
+| Revenue (ttm) | — | Revenue growth — y/y |
+| Profitability | Gross —, operating —, net — | ROA —, ROE — |
+| Balance sheet | Cash —, debt — | Current ratio —, debt/equity — |
+| Valuation | P/E —, forward P/E —, P/S —, P/B — | EV/Sales —, EV/EBITDA — |
+| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $— (— analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 60.01% |
-| Insider ownership | 26.81% |
-| Short float | 0.02% |
-| Short ratio (days to cover) | 0.0 |
-
-**Top institutional holders:**
-
-| Holder | Shares | % Out | Reported |
-|---|---|---|---|
-| Berkshire Hathaway, Inc | 264,941,431 | 26.50% | 2026-09-30 |
-| Dodge & Cox Inc. | 68,246,163 | 6.83% | 2026-09-30 |
-| Blackrock Inc. | 55,433,291 | 5.54% | 2026-09-30 |
-| Vanguard Capital Management LLC | 48,404,962 | 4.84% | 2026-09-30 |
-| State Street Corporation | 44,700,374 | 4.47% | 2026-09-30 |
-| Vanguard Portfolio Management LLC | 40,063,768 | 4.01% | 2026-09-30 |
-| AQR Capital Management, LLC | 25,160,638 | 2.52% | 2026-09-30 |
-| Geode Capital Management, LLC | 20,209,520 | 2.02% | 2026-09-30 |
-| Bank Of New York Mellon Corporation | 14,227,693 | 1.42% | 2026-09-30 |
-| Invesco Ltd. | 13,037,874 | 1.30% | 2026-09-30 |
+| Institutional ownership | — |
+| Insider ownership | — |
+| Short float | — |
+| Short ratio (days to cover) | — |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 0.15, ATR 3.3% of price, short float 0.02%. Size positions accordingly.
+- **Valuation risk:** Forward P/E —, EV/Sales —. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta —, ATR 3.3% of price, short float —. Size positions accordingly.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -110,36 +96,27 @@ Occidental Petroleum Corporation, together with its subsidiaries, engages in the
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $53.81 | EV/Sales | 2.86 |
-| Market cap | $53.80B | EV/EBITDA | 4.86 |
-| Beta | 0.15 | Gross margin | 74.49% |
-| RSI(14) | 31.6 | Operating margin | 29.31% |
-| ATR(14) | 1.78 | Profit margin | 32.95% |
-| SMA20 dist | -8.84% | ROA | 5.61% |
-| SMA50 dist | -9.30% | ROE | 13.18% |
-| SMA200 dist | -5.00% | Revenue (ttm) | $24.97B |
-| 52W high | $65.63 | Revenue growth y/y | 19.00% |
-| 52W low | $38.38 | Inst. ownership | 60.01% |
-| P/E (ttm) | 11.98 | Insider ownership | 26.81% |
-| Forward P/E | 10.17 | Short float | 0.02% |
-| PEG (trailing) | 0.68 | Avg volume | 9,259,651 |
-| P/S | 2.15 | Employees | 10,412 |
-| P/B | 1.54 | Analyst rec (1=buy..5=sell) | 2.3 |
+| Price | $53.81 | EV/Sales | — |
+| Market cap | — | EV/EBITDA | — |
+| Beta | — | Gross margin | — |
+| RSI(14) | 31.6 | Operating margin | — |
+| ATR(14) | 1.78 | Profit margin | — |
+| SMA20 dist | -8.84% | ROA | — |
+| SMA50 dist | -9.30% | ROE | — |
+| SMA200 dist | -5.00% | Revenue (ttm) | — |
+| 52W high | $65.63 | Revenue growth y/y | — |
+| 52W low | $38.38 | Inst. ownership | — |
+| P/E (ttm) | — | Insider ownership | — |
+| Forward P/E | — | Short float | — |
+| PEG (trailing) | 0.68 | Avg volume | 0 |
+| P/S | — | Employees | 0 |
+| P/B | — | Analyst rec (1=buy..5=sell) | — |
 
 ## 8. Analyst Actions
-| Date | Action | Firm | Rating change |
-|---|---|---|---|
-| 2026-11-11 | main | Wells Fargo | Overweight → Overweight |
-| 2026-10-27 | main | Goldman Sachs | Buy → Buy |
-| 2026-10-20 | main | Susquehanna | Positive → Positive |
-| 2026-10-19 | main | Stephens & Co. | Overweight → Overweight |
-| 2026-10-15 | main | Morgan Stanley | Equal-Weight → Equal-Weight |
-| 2026-10-15 | main | Truist Securities | Hold → Hold |
-| 2026-10-14 | main | UBS | Neutral → Neutral |
-| 2026-10-01 | up | Goldman Sachs | Neutral → Buy |
+_No recent analyst actions available from Yahoo._
 
 ## 9. Conclusion
-OXY: Low momentum / strong fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+OXY: Low momentum / mixed fundamentals / low (expensive) value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

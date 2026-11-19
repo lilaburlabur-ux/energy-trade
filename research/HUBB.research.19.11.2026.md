@@ -1,14 +1,14 @@
 # HUBB Research Report
-**Hubbell Incorporated** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**Hubbell** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `HUBB.research.19.11.2026`
 
 | Field | Value |
 |---|---|
 | Current price | $418.74 (2026-11-19, ~15-min delayed) |
-| Market cap | $22.12B |
-| Sector / Industry | Industrials / Electrical Equipment & Parts |
-| Main theme | Electrical Equipment & Parts — see catalysts below |
-| Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
+| Market cap | — |
+| Sector / Industry | — / — |
+| Main theme | Semiconductors — see catalysts below |
+| Current stance | Low technical momentum, mixed fundamentals, value: low (expensive), risk: elevated. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-19.
 
@@ -17,11 +17,11 @@ Signed file: `HUBB.research.19.11.2026`
 |---|---|---|
 | Technical momentum | Low | Below SMA200 (-13.22%) with negative half-year (-8.61%). |
 | Fresh setup quality | Moderate / wait | -24.48% from 52w high; no clean fresh pivot by default. |
-| Fundamental quality | Mixed | Profit margin 13.78%, revenue growth 24.60%. |
-| Value attractiveness | Reasonable | Forward P/E 18.15, EV/Sales 4.17. |
-| Risk level | Elevated | Beta 0.84, ATR 3.5% of price, short float 5.75%. |
+| Fundamental quality | Mixed | Profit margin —, revenue growth —. |
+| Value attractiveness | Low (expensive) | Forward P/E —, EV/Sales —. |
+| Risk level | Elevated | Beta —, ATR 3.5% of price, short float —. |
 
-**Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
+**Bottom line:** Low technical momentum, mixed fundamentals, value: low (expensive), risk: elevated.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -30,7 +30,7 @@ Signed file: `HUBB.research.19.11.2026`
 - Can earnings convert fast enough to justify the valuation?
 
 ## 2. Company Overview and Recent Catalysts
-Hubbell Incorporated, together with its subsidiaries, manufactures and sells electrical and utility solutions in the United States and internationally. It operates through two segments, Electrical Solutions and Utility Solutions.
+—
 
 **Recent headlines (potential catalysts):**
 
@@ -47,7 +47,7 @@ Hubbell Incorporated, together with its subsidiaries, manufactures and sells ele
 | Price vs 52-week range | Close $418.74; 52w high $554.46 (-24.48%); 52w low $402.45 (+4.05%) |
 | Trend | -13.22% vs SMA200, -7.27% vs SMA50, -3.76% vs SMA20 |
 | Momentum | RSI(14) 38.7 (neutral) |
-| Volatility | ATR(14) 14.64 (~3.5% of price); beta 0.84 |
+| Volatility | ATR(14) 14.64 (~3.5% of price); beta — |
 | Setup perspective | -24.48% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
@@ -64,39 +64,24 @@ Hubbell Incorporated, together with its subsidiaries, manufactures and sells ele
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
-| Next earnings | 2026-10-27 | Next scheduled report (Yahoo estimate) |
-| Revenue (ttm) | $6.59B | Revenue growth 24.60% y/y |
-| Profitability | Gross 35.02%, operating 20.10%, net 13.78% | ROA 8.53%, ROE 23.43% |
-| Balance sheet | Cash $355.00M, debt $5.31B | Current ratio 1.53, debt/equity 128.87 |
-| Valuation | P/E 24.56, forward P/E 18.15, P/S 3.36, P/B 5.39 | EV/Sales 4.17, EV/EBITDA 17.15 |
-| Growth expectations | Earnings growth 3.60%, EPS q/q 2.70% | Analyst mean target $537.62 (13 analysts) |
+| Next earnings | — | Next scheduled report (Yahoo estimate) |
+| Revenue (ttm) | — | Revenue growth — y/y |
+| Profitability | Gross —, operating —, net — | ROA —, ROE — |
+| Balance sheet | Cash —, debt — | Current ratio —, debt/equity — |
+| Valuation | P/E —, forward P/E —, P/S —, P/B — | EV/Sales —, EV/EBITDA — |
+| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $— (— analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 98.03% |
-| Insider ownership | 0.39% |
-| Short float | 5.75% |
-| Short ratio (days to cover) | 4.1 |
-
-**Top institutional holders:**
-
-| Holder | Shares | % Out | Reported |
-|---|---|---|---|
-| Blackrock Inc. | 4,742,635 | 8.98% | 2026-09-30 |
-| Vanguard Capital Management LLC | 3,454,598 | 6.54% | 2026-09-30 |
-| Vanguard Portfolio Management LLC | 2,653,062 | 5.02% | 2026-09-30 |
-| State Street Corporation | 2,421,339 | 4.58% | 2026-09-30 |
-| Geode Capital Management, LLC | 1,429,648 | 2.71% | 2026-09-30 |
-| Massachusetts Financial Services Co. | 1,420,470 | 2.69% | 2026-09-30 |
-| Boston Partners | 1,350,142 | 2.56% | 2026-09-30 |
-| Bank Of New York Mellon Corporation | 1,318,902 | 2.50% | 2026-09-30 |
-| Deutsche Bank AG | 1,185,720 | 2.24% | 2026-09-30 |
-| Parnassus Investments, LLC | 1,049,681 | 1.99% | 2026-09-30 |
+| Institutional ownership | — |
+| Insider ownership | — |
+| Short float | — |
+| Short ratio (days to cover) | — |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 0.84, ATR 3.5% of price, short float 5.75%. Size positions accordingly.
-- **Short interest risk:** short float 5.75% can fuel squeezes both ways around news.
+- **Valuation risk:** Forward P/E —, EV/Sales —. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta —, ATR 3.5% of price, short float —. Size positions accordingly.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -111,36 +96,27 @@ Hubbell Incorporated, together with its subsidiaries, manufactures and sells ele
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $418.74 | EV/Sales | 4.17 |
-| Market cap | $22.12B | EV/EBITDA | 17.15 |
-| Beta | 0.84 | Gross margin | 35.02% |
-| RSI(14) | 38.7 | Operating margin | 20.10% |
-| ATR(14) | 14.64 | Profit margin | 13.78% |
-| SMA20 dist | -3.76% | ROA | 8.53% |
-| SMA50 dist | -7.27% | ROE | 23.43% |
-| SMA200 dist | -13.22% | Revenue (ttm) | $6.59B |
-| 52W high | $554.46 | Revenue growth y/y | 24.60% |
-| 52W low | $402.45 | Inst. ownership | 98.03% |
-| P/E (ttm) | 24.56 | Insider ownership | 0.39% |
-| Forward P/E | 18.15 | Short float | 5.75% |
-| PEG (trailing) | 1.57 | Avg volume | 562,459 |
-| P/S | 3.36 | Employees | 19,600 |
-| P/B | 5.39 | Analyst rec (1=buy..5=sell) | 2.0 |
+| Price | $418.74 | EV/Sales | — |
+| Market cap | — | EV/EBITDA | — |
+| Beta | — | Gross margin | — |
+| RSI(14) | 38.7 | Operating margin | — |
+| ATR(14) | 14.64 | Profit margin | — |
+| SMA20 dist | -3.76% | ROA | — |
+| SMA50 dist | -7.27% | ROE | — |
+| SMA200 dist | -13.22% | Revenue (ttm) | — |
+| 52W high | $554.46 | Revenue growth y/y | — |
+| 52W low | $402.45 | Inst. ownership | — |
+| P/E (ttm) | — | Insider ownership | — |
+| Forward P/E | — | Short float | — |
+| PEG (trailing) | 1.57 | Avg volume | 0 |
+| P/S | — | Employees | 0 |
+| P/B | — | Analyst rec (1=buy..5=sell) | — |
 
 ## 8. Analyst Actions
-| Date | Action | Firm | Rating change |
-|---|---|---|---|
-| 2026-11-11 | main | JP Morgan | Neutral → Neutral |
-| 2026-10-28 | main | JP Morgan | Neutral → Neutral |
-| 2026-10-28 | main | Wells Fargo | Equal-Weight → Equal-Weight |
-| 2026-10-28 | main | Evercore ISI Group | Outperform → Outperform |
-| 2026-10-28 | main | Baird | Outperform → Outperform |
-| 2026-10-15 | main | Mizuho | Outperform → Outperform |
-| 2026-09-25 | init | Wells Fargo | — → Equal-Weight |
-| 2026-09-02 | main | Morgan Stanley | Equal-Weight → Equal-Weight |
+_No recent analyst actions available from Yahoo._
 
 ## 9. Conclusion
-HUBB: Low momentum / mixed fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+HUBB: Low momentum / mixed fundamentals / low (expensive) value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

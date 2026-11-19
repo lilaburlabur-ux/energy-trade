@@ -1,14 +1,14 @@
 # ET Research Report
-**Energy Transfer LP** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**Energy Transfer** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `ET.research.19.11.2026`
 
 | Field | Value |
 |---|---|
 | Current price | $19.11 (2026-11-19, ~15-min delayed) |
-| Market cap | $65.82B |
-| Sector / Industry | Energy / Oil & Gas Midstream |
-| Main theme | Oil & Gas Midstream — see catalysts below |
-| Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
+| Market cap | — |
+| Sector / Industry | — / — |
+| Main theme | Semiconductors — see catalysts below |
+| Current stance | Low technical momentum, mixed fundamentals, value: low (expensive), risk: moderate. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-19.
 
@@ -17,11 +17,11 @@ Signed file: `ET.research.19.11.2026`
 |---|---|---|
 | Technical momentum | Low | Below SMA200 (-0.13%) with negative half-year (-1.13%). |
 | Fresh setup quality | Moderate / wait | -10.46% from 52w high; no clean fresh pivot by default. |
-| Fundamental quality | Mixed | Profit margin 4.39%, revenue growth 85.90%. |
-| Value attractiveness | Reasonable | Forward P/E 10.80, EV/Sales 1.23. |
-| Risk level | Moderate | Beta 0.60, ATR 2.2% of price, short float 0.87%. |
+| Fundamental quality | Mixed | Profit margin —, revenue growth —. |
+| Value attractiveness | Low (expensive) | Forward P/E —, EV/Sales —. |
+| Risk level | Moderate | Beta —, ATR 2.2% of price, short float —. |
 
-**Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
+**Bottom line:** Low technical momentum, mixed fundamentals, value: low (expensive), risk: moderate.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -30,7 +30,7 @@ Signed file: `ET.research.19.11.2026`
 - Can earnings convert fast enough to justify the valuation?
 
 ## 2. Company Overview and Recent Catalysts
-Energy Transfer LP, together with its subsidiaries, provides energy-related services in the United States. It operates through Intrastate Transportation and Storage; Interstate Transportation and Storage; Midstream; Natural Gas Liquid (NGL) and Refined Products Transportation and Services; Crude Oil Transportation and Services; Investment in Sunoco LP; Investment in USA Compression Partners, LP (USAC); and All Other segments.
+—
 
 **Recent headlines (potential catalysts):**
 
@@ -47,7 +47,7 @@ Energy Transfer LP, together with its subsidiaries, provides energy-related serv
 | Price vs 52-week range | Close $19.11; 52w high $21.34 (-10.46%); 52w low $15.11 (+26.48%) |
 | Trend | -0.13% vs SMA200, -3.98% vs SMA50, -2.41% vs SMA20 |
 | Momentum | RSI(14) 40.8 (neutral) |
-| Volatility | ATR(14) 0.41 (~2.2% of price); beta 0.60 |
+| Volatility | ATR(14) 0.41 (~2.2% of price); beta — |
 | Setup perspective | -10.46% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
@@ -64,37 +64,23 @@ Energy Transfer LP, together with its subsidiaries, provides energy-related serv
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
-| Next earnings | 2026-11-03 | Next scheduled report (Yahoo estimate) |
-| Revenue (ttm) | $124.53B | Revenue growth 85.90% y/y |
-| Profitability | Gross 15.84%, operating 9.39%, net 4.39% | ROA 5.24%, ROE 15.57% |
-| Balance sheet | Cash $926.00M, debt $70.71B | Current ratio 1.16, debt/equity 141.66 |
-| Valuation | P/E 12.66, forward P/E 10.80, P/S 0.53, P/B 2.06 | EV/Sales 1.23, EV/EBITDA 8.54 |
-| Growth expectations | Earnings growth 18.10%, EPS q/q 18.50% | Analyst mean target $24.61 (23 analysts) |
+| Next earnings | — | Next scheduled report (Yahoo estimate) |
+| Revenue (ttm) | — | Revenue growth — y/y |
+| Profitability | Gross —, operating —, net — | ROA —, ROE — |
+| Balance sheet | Cash —, debt — | Current ratio —, debt/equity — |
+| Valuation | P/E —, forward P/E —, P/S —, P/B — | EV/Sales —, EV/EBITDA — |
+| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $— (— analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 32.78% |
-| Insider ownership | 10.29% |
-| Short float | 0.87% |
-| Short ratio (days to cover) | 3.2 |
-
-**Top institutional holders:**
-
-| Holder | Shares | % Out | Reported |
-|---|---|---|---|
-| Morgan Stanley | 90,027,181 | 2.61% | 2026-09-30 |
-| Alps Advisors Inc. | 84,776,083 | 2.46% | 2026-09-30 |
-| JPMORGAN CHASE & CO | 79,603,662 | 2.31% | 2026-09-30 |
-| Goldman Sachs Group Inc | 57,775,025 | 1.68% | 2026-09-30 |
-| Invesco Ltd. | 56,306,338 | 1.63% | 2026-09-30 |
-| Blackstone Inc | 46,089,044 | 1.34% | 2026-09-30 |
-| Tortoise Capital Advisors, LLC | 36,682,400 | 1.07% | 2026-09-30 |
-| UBS Group AG | 32,377,628 | 0.94% | 2026-09-30 |
-| Kayne Anderson Capital Advisors, L.P. | 25,785,501 | 0.75% | 2026-09-30 |
-| Bank of America Corporation | 25,848,592 | 0.75% | 2026-09-30 |
+| Institutional ownership | — |
+| Insider ownership | — |
+| Short float | — |
+| Short ratio (days to cover) | — |
 
 ## 6. Risk Review and Setup Plan
+- **Valuation risk:** Forward P/E —, EV/Sales —. Multiple compression is the main downside if growth disappoints.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -109,36 +95,27 @@ Energy Transfer LP, together with its subsidiaries, provides energy-related serv
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $19.11 | EV/Sales | 1.23 |
-| Market cap | $65.82B | EV/EBITDA | 8.54 |
-| Beta | 0.60 | Gross margin | 15.84% |
-| RSI(14) | 40.8 | Operating margin | 9.39% |
-| ATR(14) | 0.41 | Profit margin | 4.39% |
-| SMA20 dist | -2.41% | ROA | 5.24% |
-| SMA50 dist | -3.98% | ROE | 15.57% |
-| SMA200 dist | -0.13% | Revenue (ttm) | $124.53B |
-| 52W high | $21.34 | Revenue growth y/y | 85.90% |
-| 52W low | $15.11 | Inst. ownership | 32.78% |
-| P/E (ttm) | 12.66 | Insider ownership | 10.29% |
-| Forward P/E | 10.80 | Short float | 0.87% |
-| PEG (trailing) | 0.54 | Avg volume | 8,696,890 |
-| P/S | 0.53 | Employees | 22,311 |
-| P/B | 2.06 | Analyst rec (1=buy..5=sell) | 1.5 |
+| Price | $19.11 | EV/Sales | — |
+| Market cap | — | EV/EBITDA | — |
+| Beta | — | Gross margin | — |
+| RSI(14) | 40.8 | Operating margin | — |
+| ATR(14) | 0.41 | Profit margin | — |
+| SMA20 dist | -2.41% | ROA | — |
+| SMA50 dist | -3.98% | ROE | — |
+| SMA200 dist | -0.13% | Revenue (ttm) | — |
+| 52W high | $21.34 | Revenue growth y/y | — |
+| 52W low | $15.11 | Inst. ownership | — |
+| P/E (ttm) | — | Insider ownership | — |
+| Forward P/E | — | Short float | — |
+| PEG (trailing) | 0.54 | Avg volume | 0 |
+| P/S | — | Employees | 0 |
+| P/B | — | Analyst rec (1=buy..5=sell) | — |
 
 ## 8. Analyst Actions
-| Date | Action | Firm | Rating change |
-|---|---|---|---|
-| 2026-11-10 | main | Scotiabank | Sector Outperform → Sector Outperform |
-| 2026-11-06 | main | Citigroup | Buy → Buy |
-| 2026-09-04 | main | JP Morgan | Overweight → Overweight |
-| 2026-08-18 | main | Morgan Stanley | Equal-Weight → Equal-Weight |
-| 2026-08-12 | main | Truist Securities | Buy → Buy |
-| 2026-08-10 | main | TD Cowen | Buy → Buy |
-| 2026-08-07 | main | Citigroup | Buy → Buy |
-| 2026-08-05 | main | Barclays | Overweight → Overweight |
+_No recent analyst actions available from Yahoo._
 
 ## 9. Conclusion
-ET: Low momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+ET: Low momentum / mixed fundamentals / low (expensive) value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

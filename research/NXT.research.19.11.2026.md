@@ -1,14 +1,14 @@
 # NXT Research Report
-**Nextpower Inc.** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**Nextracker** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `NXT.research.19.11.2026`
 
 | Field | Value |
 |---|---|
 | Current price | $75.95 (2026-11-19, ~15-min delayed) |
-| Market cap | $11.58B |
-| Sector / Industry | Technology / Solar |
-| Main theme | Solar — see catalysts below |
-| Current stance | Low technical momentum, strong fundamentals, value: reasonable, risk: high. |
+| Market cap | — |
+| Sector / Industry | — / — |
+| Main theme | Semiconductors — see catalysts below |
+| Current stance | Low technical momentum, mixed fundamentals, value: low (expensive), risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-19.
 
@@ -17,11 +17,11 @@ Signed file: `NXT.research.19.11.2026`
 |---|---|---|
 | Technical momentum | Low | Below SMA200 (-28.23%) with negative half-year (-37.24%). |
 | Fresh setup quality | Poor / broken | -51.44% from 52w high — base needs to rebuild. |
-| Fundamental quality | Strong | Profit margin 15.98%, revenue growth 22.50%. |
-| Value attractiveness | Reasonable | Forward P/E 13.60, EV/Sales 2.82. |
-| Risk level | High | Beta 1.93, ATR 8.9% of price, short float 9.42%. |
+| Fundamental quality | Mixed | Profit margin —, revenue growth —. |
+| Value attractiveness | Low (expensive) | Forward P/E —, EV/Sales —. |
+| Risk level | High | Beta —, ATR 8.9% of price, short float —. |
 
-**Bottom line:** Low technical momentum, strong fundamentals, value: reasonable, risk: high.
+**Bottom line:** Low technical momentum, mixed fundamentals, value: low (expensive), risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -30,7 +30,7 @@ Signed file: `NXT.research.19.11.2026`
 - Can earnings convert fast enough to justify the valuation?
 
 ## 2. Company Overview and Recent Catalysts
-Nextpower Inc. provides solar and energy technology solutions for utility-scale power plants in the United States and internationally. It offers tracking solutions, including NX Horizon, a solar tracking solution; NX Horizon-XTR, a terrain-following tracker to expand the addressable market for trackers on sites with sloped, uneven, and challenging terrain; NX Horizon Hail Pro adds automatic stowing using weather service information; and NX Horizon Low Carbon, a solar tracker solution with a reduced carbon footprint.
+—
 
 **Recent headlines (potential catalysts):**
 
@@ -47,7 +47,7 @@ Nextpower Inc. provides solar and energy technology solutions for utility-scale 
 | Price vs 52-week range | Close $75.95; 52w high $156.40 (-51.44%); 52w low $75.95 (+0.00%) |
 | Trend | -28.23% vs SMA200, -10.70% vs SMA50, -15.16% vs SMA20 |
 | Momentum | RSI(14) 37.9 (neutral) |
-| Volatility | ATR(14) 6.80 (~8.9% of price); beta 1.93 |
+| Volatility | ATR(14) 6.80 (~8.9% of price); beta — |
 | Setup perspective | -51.44% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
@@ -64,39 +64,24 @@ Nextpower Inc. provides solar and energy technology solutions for utility-scale 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
-| Next earnings | 2027-01-27 | Next scheduled report (Yahoo estimate) |
-| Revenue (ttm) | $3.83B | Revenue growth 22.50% y/y |
-| Profitability | Gross 21.84%, operating 18.63%, net 15.98% | ROA 10.75%, ROE 26.46% |
-| Balance sheet | Cash $1.03B, debt $44.50M | Current ratio 2.23, debt/equity 1.68 |
-| Valuation | P/E 19.13, forward P/E 13.60, P/S 3.02, P/B 4.33 | EV/Sales 2.82, EV/EBITDA 14.32 |
-| Growth expectations | Earnings growth 11.30%, EPS q/q 12.70% | Analyst mean target $127.07 (29 analysts) |
+| Next earnings | — | Next scheduled report (Yahoo estimate) |
+| Revenue (ttm) | — | Revenue growth — y/y |
+| Profitability | Gross —, operating —, net — | ROA —, ROE — |
+| Balance sheet | Cash —, debt — | Current ratio —, debt/equity — |
+| Valuation | P/E —, forward P/E —, P/S —, P/B — | EV/Sales —, EV/EBITDA — |
+| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $— (— analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 108.46% |
-| Insider ownership | 0.69% |
-| Short float | 9.42% |
-| Short ratio (days to cover) | 4.5 |
-
-**Top institutional holders:**
-
-| Holder | Shares | % Out | Reported |
-|---|---|---|---|
-| Blackrock Inc. | 22,408,610 | 14.88% | 2026-09-30 |
-| FMR, LLC | 17,149,580 | 11.39% | 2026-09-30 |
-| Primecap Management Company | 6,742,792 | 4.48% | 2026-09-30 |
-| Vanguard Capital Management LLC | 6,602,807 | 4.39% | 2026-09-30 |
-| Vanguard Portfolio Management LLC | 5,809,802 | 3.86% | 2026-09-30 |
-| State Street Corporation | 4,872,793 | 3.24% | 2026-09-30 |
-| Pictet Asset Management Holding SA | 4,334,659 | 2.88% | 2026-09-30 |
-| Fundsmith LLP | 4,189,770 | 2.78% | 2026-09-30 |
-| First Trust Advisors LP | 3,837,011 | 2.55% | 2026-09-30 |
-| Wellington Management Group, LLP | 3,790,541 | 2.52% | 2026-09-30 |
+| Institutional ownership | — |
+| Insider ownership | — |
+| Short float | — |
+| Short ratio (days to cover) | — |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.93, ATR 8.9% of price, short float 9.42%. Size positions accordingly.
-- **Short interest risk:** short float 9.42% can fuel squeezes both ways around news.
+- **Valuation risk:** Forward P/E —, EV/Sales —. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta —, ATR 8.9% of price, short float —. Size positions accordingly.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -112,36 +97,27 @@ Nextpower Inc. provides solar and energy technology solutions for utility-scale 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $75.95 | EV/Sales | 2.82 |
-| Market cap | $11.58B | EV/EBITDA | 14.32 |
-| Beta | 1.93 | Gross margin | 21.84% |
-| RSI(14) | 37.9 | Operating margin | 18.63% |
-| ATR(14) | 6.80 | Profit margin | 15.98% |
-| SMA20 dist | -15.16% | ROA | 10.75% |
-| SMA50 dist | -10.70% | ROE | 26.46% |
-| SMA200 dist | -28.23% | Revenue (ttm) | $3.83B |
-| 52W high | $156.40 | Revenue growth y/y | 22.50% |
-| 52W low | $75.95 | Inst. ownership | 108.46% |
-| P/E (ttm) | 19.13 | Insider ownership | 0.69% |
-| Forward P/E | 13.60 | Short float | 9.42% |
-| PEG (trailing) | 3.15 | Avg volume | 2,506,304 |
-| P/S | 3.02 | Employees | 1,993 |
-| P/B | 4.33 | Analyst rec (1=buy..5=sell) | 1.4 |
+| Price | $75.95 | EV/Sales | — |
+| Market cap | — | EV/EBITDA | — |
+| Beta | — | Gross margin | — |
+| RSI(14) | 37.9 | Operating margin | — |
+| ATR(14) | 6.80 | Profit margin | — |
+| SMA20 dist | -15.16% | ROA | — |
+| SMA50 dist | -10.70% | ROE | — |
+| SMA200 dist | -28.23% | Revenue (ttm) | — |
+| 52W high | $156.40 | Revenue growth y/y | — |
+| 52W low | $75.95 | Inst. ownership | — |
+| P/E (ttm) | — | Insider ownership | — |
+| Forward P/E | — | Short float | — |
+| PEG (trailing) | 3.15 | Avg volume | 0 |
+| P/S | — | Employees | 0 |
+| P/B | — | Analyst rec (1=buy..5=sell) | — |
 
 ## 8. Analyst Actions
-| Date | Action | Firm | Rating change |
-|---|---|---|---|
-| 2026-11-12 | main | RBC Capital | Outperform → Outperform |
-| 2026-11-10 | main | Citigroup | Buy → Buy |
-| 2026-11-09 | main | Piper Sandler | Overweight → Overweight |
-| 2026-11-05 | main | Cantor Fitzgerald | Overweight → Overweight |
-| 2026-11-03 | main | GLJ Research | Buy → Buy |
-| 2026-10-31 | main | UBS | Buy → Buy |
-| 2026-10-30 | main | Wells Fargo | Overweight → Overweight |
-| 2026-10-29 | main | JP Morgan | Overweight → Overweight |
+_No recent analyst actions available from Yahoo._
 
 ## 9. Conclusion
-NXT: Low momentum / strong fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+NXT: Low momentum / mixed fundamentals / low (expensive) value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

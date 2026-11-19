@@ -1,14 +1,14 @@
 # EPD Research Report
-**Enterprise Products Partners L.P.** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**Enterprise Products** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `EPD.research.19.11.2026`
 
 | Field | Value |
 |---|---|
 | Current price | $36.16 (2026-11-19, ~15-min delayed) |
-| Market cap | $77.98B |
-| Sector / Industry | Energy / Oil & Gas Midstream |
-| Main theme | Oil & Gas Midstream — see catalysts below |
-| Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
+| Market cap | — |
+| Sector / Industry | — / — |
+| Main theme | Semiconductors — see catalysts below |
+| Current stance | Low technical momentum, mixed fundamentals, value: low (expensive), risk: moderate. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-19.
 
@@ -17,11 +17,11 @@ Signed file: `EPD.research.19.11.2026`
 |---|---|---|
 | Technical momentum | Low | Below SMA200 (-1.17%) with negative half-year (-5.67%). |
 | Fresh setup quality | Moderate / wait | -6.79% from 52w high; no clean fresh pivot by default. |
-| Fundamental quality | Mixed | Profit margin 10.24%, revenue growth 49.30%. |
-| Value attractiveness | Reasonable | Forward P/E 11.41, EV/Sales 1.78. |
-| Risk level | Moderate | Beta 0.46, ATR 2.1% of price, short float 2.30%. |
+| Fundamental quality | Mixed | Profit margin —, revenue growth —. |
+| Value attractiveness | Low (expensive) | Forward P/E —, EV/Sales —. |
+| Risk level | Moderate | Beta —, ATR 2.1% of price, short float —. |
 
-**Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
+**Bottom line:** Low technical momentum, mixed fundamentals, value: low (expensive), risk: moderate.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -30,7 +30,7 @@ Signed file: `EPD.research.19.11.2026`
 - Can earnings convert fast enough to justify the valuation?
 
 ## 2. Company Overview and Recent Catalysts
-Enterprise Products Partners L.P. provides midstream energy services to producers and consumers of natural gas, natural gas liquids (NGLs), crude oil, petrochemicals, and refined products. It operates in four segments: NGL Pipelines & Services; Crude Oil Pipelines & Services; Natural Gas Pipelines & Services; and Petrochemical & Refined Products Services. The NGL Pipelines & Services segment offers natural gas processing and related NGL marketing activities.
+—
 
 **Recent headlines (potential catalysts):**
 
@@ -47,7 +47,7 @@ Enterprise Products Partners L.P. provides midstream energy services to producer
 | Price vs 52-week range | Close $36.16; 52w high $38.80 (-6.79%); 52w low $29.86 (+21.10%) |
 | Trend | -1.17% vs SMA200, -1.61% vs SMA50, -2.61% vs SMA20 |
 | Momentum | RSI(14) 43.3 (neutral) |
-| Volatility | ATR(14) 0.75 (~2.1% of price); beta 0.46 |
+| Volatility | ATR(14) 0.75 (~2.1% of price); beta — |
 | Setup perspective | -6.79% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
@@ -64,37 +64,23 @@ Enterprise Products Partners L.P. provides midstream energy services to producer
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
-| Next earnings | 2026-10-29 | Next scheduled report (Yahoo estimate) |
-| Revenue (ttm) | $64.40B | Revenue growth 49.30% y/y |
-| Profitability | Gross 12.56%, operating 12.17%, net 10.24% | ROA 6.07%, ROE 21.69% |
-| Balance sheet | Cash $232.00M, debt $35.20B | Current ratio 0.93, debt/equity 112.72 |
-| Valuation | P/E 11.97, forward P/E 11.41, P/S 1.21, P/B 2.57 | EV/Sales 1.78, EV/EBITDA 10.72 |
-| Growth expectations | Earnings growth 21.60%, EPS q/q 21.40% | Analyst mean target $41.67 (21 analysts) |
+| Next earnings | — | Next scheduled report (Yahoo estimate) |
+| Revenue (ttm) | — | Revenue growth — y/y |
+| Profitability | Gross —, operating —, net — | ROA —, ROE — |
+| Balance sheet | Cash —, debt — | Current ratio —, debt/equity — |
+| Valuation | P/E —, forward P/E —, P/S —, P/B — | EV/Sales —, EV/EBITDA — |
+| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $— (— analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 25.64% |
-| Insider ownership | 33.09% |
-| Short float | 2.30% |
-| Short ratio (days to cover) | 4.3 |
-
-**Top institutional holders:**
-
-| Holder | Shares | % Out | Reported |
-|---|---|---|---|
-| Alps Advisors Inc. | 46,611,995 | 2.16% | 2026-09-30 |
-| Invesco Ltd. | 26,638,703 | 1.24% | 2026-09-30 |
-| Blackstone Inc | 21,030,787 | 0.98% | 2026-09-30 |
-| Morgan Stanley | 20,865,873 | 0.97% | 2026-09-30 |
-| Tortoise Capital Advisors, LLC | 18,612,284 | 0.86% | 2026-09-30 |
-| Goldman Sachs Group Inc | 16,624,188 | 0.77% | 2026-09-30 |
-| Energy Income Partners, LLC | 16,324,840 | 0.76% | 2026-09-30 |
-| Sarofim, Fayez & Co | 13,708,341 | 0.64% | 2026-09-30 |
-| Neuberger Berman Group, LLC | 12,844,404 | 0.60% | 2026-09-30 |
-| Bank of America Corporation | 12,926,275 | 0.60% | 2026-09-30 |
+| Institutional ownership | — |
+| Insider ownership | — |
+| Short float | — |
+| Short ratio (days to cover) | — |
 
 ## 6. Risk Review and Setup Plan
+- **Valuation risk:** Forward P/E —, EV/Sales —. Multiple compression is the main downside if growth disappoints.
 - **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -110,36 +96,27 @@ Enterprise Products Partners L.P. provides midstream energy services to producer
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $36.16 | EV/Sales | 1.78 |
-| Market cap | $77.98B | EV/EBITDA | 10.72 |
-| Beta | 0.46 | Gross margin | 12.56% |
-| RSI(14) | 43.3 | Operating margin | 12.17% |
-| ATR(14) | 0.75 | Profit margin | 10.24% |
-| SMA20 dist | -2.61% | ROA | 6.07% |
-| SMA50 dist | -1.61% | ROE | 21.69% |
-| SMA200 dist | -1.17% | Revenue (ttm) | $64.40B |
-| 52W high | $38.80 | Revenue growth y/y | 49.30% |
-| 52W low | $29.86 | Inst. ownership | 25.64% |
-| P/E (ttm) | 11.97 | Insider ownership | 33.09% |
-| Forward P/E | 11.41 | Short float | 2.30% |
-| PEG (trailing) | 1.20 | Avg volume | 3,374,879 |
-| P/S | 1.21 | Employees | 0 |
-| P/B | 2.57 | Analyst rec (1=buy..5=sell) | 2.3 |
+| Price | $36.16 | EV/Sales | — |
+| Market cap | — | EV/EBITDA | — |
+| Beta | — | Gross margin | — |
+| RSI(14) | 43.3 | Operating margin | — |
+| ATR(14) | 0.75 | Profit margin | — |
+| SMA20 dist | -2.61% | ROA | — |
+| SMA50 dist | -1.61% | ROE | — |
+| SMA200 dist | -1.17% | Revenue (ttm) | — |
+| 52W high | $38.80 | Revenue growth y/y | — |
+| 52W low | $29.86 | Inst. ownership | — |
+| P/E (ttm) | — | Insider ownership | — |
+| Forward P/E | — | Short float | — |
+| PEG (trailing) | 1.20 | Avg volume | 0 |
+| P/S | — | Employees | 0 |
+| P/B | — | Analyst rec (1=buy..5=sell) | — |
 
 ## 8. Analyst Actions
-| Date | Action | Firm | Rating change |
-|---|---|---|---|
-| 2026-10-30 | main | Truist Securities | Hold → Hold |
-| 2026-10-08 | main | JP Morgan | Neutral → Neutral |
-| 2026-09-22 | reit | RBC Capital | Outperform → Outperform |
-| 2026-08-18 | main | Morgan Stanley | Underweight → Underweight |
-| 2026-08-03 | main | TD Cowen | Hold → Hold |
-| 2026-07-21 | main | Morgan Stanley | Underweight → Underweight |
-| 2026-07-09 | main | JP Morgan | Neutral → Neutral |
-| 2026-05-20 | main | Morgan Stanley | Underweight → Underweight |
+_No recent analyst actions available from Yahoo._
 
 ## 9. Conclusion
-EPD: Low momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+EPD: Low momentum / mixed fundamentals / low (expensive) value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

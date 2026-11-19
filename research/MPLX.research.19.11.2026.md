@@ -1,14 +1,14 @@
 # MPLX Research Report
-**MPLX LP** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**MPLX** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `MPLX.research.19.11.2026`
 
 | Field | Value |
 |---|---|
 | Current price | $56.49 (2026-11-19, ~15-min delayed) |
-| Market cap | $57.23B |
-| Sector / Industry | Energy / Oil & Gas Midstream |
-| Main theme | Oil & Gas Midstream — see catalysts below |
-| Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate. |
+| Market cap | — |
+| Sector / Industry | — / — |
+| Main theme | Semiconductors — see catalysts below |
+| Current stance | Moderate technical momentum, mixed fundamentals, value: low (expensive), risk: moderate. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-19.
 
@@ -17,11 +17,11 @@ Signed file: `MPLX.research.19.11.2026`
 |---|---|---|
 | Technical momentum | Moderate | 1Y +15.56%; price +2.36% vs SMA200. |
 | Fresh setup quality | Watch | -4.16% from 52w high and near SMA20 — check for a tight base. |
-| Fundamental quality | Strong | Profit margin 35.03%, revenue growth 12.70%. |
-| Value attractiveness | Reasonable | Forward P/E 11.78, EV/Sales 6.78. |
-| Risk level | Moderate | Beta 0.45, ATR 1.9% of price, short float 1.88%. |
+| Fundamental quality | Mixed | Profit margin —, revenue growth —. |
+| Value attractiveness | Low (expensive) | Forward P/E —, EV/Sales —. |
+| Risk level | Moderate | Beta —, ATR 1.9% of price, short float —. |
 
-**Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate.
+**Bottom line:** Moderate technical momentum, mixed fundamentals, value: low (expensive), risk: moderate.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -30,7 +30,7 @@ Signed file: `MPLX.research.19.11.2026`
 - Can earnings convert fast enough to justify the valuation?
 
 ## 2. Company Overview and Recent Catalysts
-MPLX LP owns and operates midstream energy infrastructure and logistics assets primarily in the United States. It operates in two segments, Crude Oil and Products Logistics; and Natural Gas and NGL Services. The company is involved in the gathering, processing, and transportation of natural gas; gathering, transportation, fractionation, storage, and marketing of natural gas liquids; gathering, storage, transportation, and distribution of crude oil and refined products, as well as other hydrocarbon-based products and renewables; and sale of residue gas and condensate.
+—
 
 **Recent headlines (potential catalysts):**
 
@@ -47,7 +47,7 @@ MPLX LP owns and operates midstream energy infrastructure and logistics assets p
 | Price vs 52-week range | Close $56.49; 52w high $58.94 (-4.16%); 52w low $48.28 (+17.00%) |
 | Trend | +2.36% vs SMA200, -0.45% vs SMA50, -0.91% vs SMA20 |
 | Momentum | RSI(14) 47.1 (neutral) |
-| Volatility | ATR(14) 1.09 (~1.9% of price); beta 0.45 |
+| Volatility | ATR(14) 1.09 (~1.9% of price); beta — |
 | Setup perspective | -4.16% from 52w high and near SMA20 — check for a tight base. |
 
 **Performance snapshot:**
@@ -64,37 +64,23 @@ MPLX LP owns and operates midstream energy infrastructure and logistics assets p
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
-| Next earnings | 2027-02-02 | Next scheduled report (Yahoo estimate) |
-| Revenue (ttm) | $12.41B | Revenue growth 12.70% y/y |
-| Profitability | Gross 54.82%, operating 38.30%, net 35.03% | ROA 6.79%, ROE 30.44% |
-| Balance sheet | Cash $1.30B, debt $27.09B | Current ratio 1.56, debt/equity 189.56 |
-| Valuation | P/E 13.20, forward P/E 11.78, P/S 4.61, P/B 4.07 | EV/Sales 6.78, EV/EBITDA 13.55 |
-| Growth expectations | Earnings growth -24.30%, EPS q/q -24.70% | Analyst mean target $62.31 (13 analysts) |
+| Next earnings | — | Next scheduled report (Yahoo estimate) |
+| Revenue (ttm) | — | Revenue growth — y/y |
+| Profitability | Gross —, operating —, net — | ROA —, ROE — |
+| Balance sheet | Cash —, debt — | Current ratio —, debt/equity — |
+| Valuation | P/E —, forward P/E —, P/S —, P/B — | EV/Sales —, EV/EBITDA — |
+| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $— (— analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 19.34% |
-| Insider ownership | 64.08% |
-| Short float | 1.88% |
-| Short ratio (days to cover) | 5.5 |
-
-**Top institutional holders:**
-
-| Holder | Shares | % Out | Reported |
-|---|---|---|---|
-| Alps Advisors Inc. | 30,463,695 | 3.01% | 2026-09-30 |
-| Invesco Ltd. | 18,360,882 | 1.81% | 2026-09-30 |
-| Blackstone Inc | 12,547,511 | 1.24% | 2026-09-30 |
-| Goldman Sachs Group Inc | 10,603,437 | 1.05% | 2026-09-30 |
-| Tortoise Capital Advisors, LLC | 9,668,650 | 0.95% | 2026-09-30 |
-| Mirae Asset Global ETFs Holdings Ltd. | 8,112,765 | 0.80% | 2026-09-30 |
-| Kayne Anderson Capital Advisors, L.P. | 5,764,576 | 0.57% | 2026-09-30 |
-| Morgan Stanley | 5,750,367 | 0.57% | 2026-09-30 |
-| Energy Income Partners, LLC | 5,466,039 | 0.54% | 2026-09-30 |
-| Chickasaw Capital Management, LLC | 5,212,185 | 0.51% | 2026-09-30 |
+| Institutional ownership | — |
+| Insider ownership | — |
+| Short float | — |
+| Short ratio (days to cover) | — |
 
 ## 6. Risk Review and Setup Plan
+- **Valuation risk:** Forward P/E —, EV/Sales —. Multiple compression is the main downside if growth disappoints.
 - **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -110,36 +96,27 @@ MPLX LP owns and operates midstream energy infrastructure and logistics assets p
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $56.49 | EV/Sales | 6.78 |
-| Market cap | $57.23B | EV/EBITDA | 13.55 |
-| Beta | 0.45 | Gross margin | 54.82% |
-| RSI(14) | 47.1 | Operating margin | 38.30% |
-| ATR(14) | 1.09 | Profit margin | 35.03% |
-| SMA20 dist | -0.91% | ROA | 6.79% |
-| SMA50 dist | -0.45% | ROE | 30.44% |
-| SMA200 dist | +2.36% | Revenue (ttm) | $12.41B |
-| 52W high | $58.94 | Revenue growth y/y | 12.70% |
-| 52W low | $48.28 | Inst. ownership | 19.34% |
-| P/E (ttm) | 13.20 | Insider ownership | 64.08% |
-| Forward P/E | 11.78 | Short float | 1.88% |
-| PEG (trailing) | 3.02 | Avg volume | 1,477,256 |
-| P/S | 4.61 | Employees | 0 |
-| P/B | 4.07 | Analyst rec (1=buy..5=sell) | 2.4 |
+| Price | $56.49 | EV/Sales | — |
+| Market cap | — | EV/EBITDA | — |
+| Beta | — | Gross margin | — |
+| RSI(14) | 47.1 | Operating margin | — |
+| ATR(14) | 1.09 | Profit margin | — |
+| SMA20 dist | -0.91% | ROA | — |
+| SMA50 dist | -0.45% | ROE | — |
+| SMA200 dist | +2.36% | Revenue (ttm) | — |
+| 52W high | $58.94 | Revenue growth y/y | — |
+| 52W low | $48.28 | Inst. ownership | — |
+| P/E (ttm) | — | Insider ownership | — |
+| Forward P/E | — | Short float | — |
+| PEG (trailing) | 3.02 | Avg volume | 0 |
+| P/S | — | Employees | 0 |
+| P/B | — | Analyst rec (1=buy..5=sell) | — |
 
 ## 8. Analyst Actions
-| Date | Action | Firm | Rating change |
-|---|---|---|---|
-| 2026-11-11 | main | Barclays | Overweight → Overweight |
-| 2026-11-10 | main | Morgan Stanley | Equal-Weight → Equal-Weight |
-| 2026-11-05 | main | Citigroup | Neutral → Neutral |
-| 2026-10-13 | main | Morgan Stanley | Equal-Weight → Equal-Weight |
-| 2026-08-21 | main | RBC Capital | Outperform → Outperform |
-| 2026-08-12 | main | Morgan Stanley | Equal-Weight → Equal-Weight |
-| 2026-08-06 | main | Barclays | Overweight → Overweight |
-| 2026-08-05 | main | Wells Fargo | Overweight → Overweight |
+_No recent analyst actions available from Yahoo._
 
 ## 9. Conclusion
-MPLX: Moderate momentum / strong fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+MPLX: Moderate momentum / mixed fundamentals / low (expensive) value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

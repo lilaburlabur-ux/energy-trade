@@ -1,14 +1,14 @@
 # APA Research Report
-**APA Corporation** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**APA Corp** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `APA.research.19.11.2026`
 
 | Field | Value |
 |---|---|
 | Current price | $44.62 (2026-11-19, ~15-min delayed) |
-| Market cap | $14.98B |
-| Sector / Industry | Energy / Oil & Gas E&P |
-| Main theme | Oil & Gas E&P — see catalysts below |
-| Current stance | High technical momentum, strong fundamentals, value: reasonable, risk: elevated. |
+| Market cap | — |
+| Sector / Industry | — / — |
+| Main theme | Semiconductors — see catalysts below |
+| Current stance | High technical momentum, mixed fundamentals, value: low (expensive), risk: elevated. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-19.
 
@@ -17,11 +17,11 @@ Signed file: `APA.research.19.11.2026`
 |---|---|---|
 | Technical momentum | High | 1Y +84.17%; price +15.11% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -15.52% from 52w high; no clean fresh pivot by default. |
-| Fundamental quality | Strong | Profit margin 23.49%, revenue growth 31.50%. |
-| Value attractiveness | Reasonable | Forward P/E 7.61, EV/Sales 2.12. |
-| Risk level | Elevated | Beta 0.28, ATR 4.1% of price, short float 9.07%. |
+| Fundamental quality | Mixed | Profit margin —, revenue growth —. |
+| Value attractiveness | Low (expensive) | Forward P/E —, EV/Sales —. |
+| Risk level | Elevated | Beta —, ATR 4.1% of price, short float —. |
 
-**Bottom line:** High technical momentum, strong fundamentals, value: reasonable, risk: elevated.
+**Bottom line:** High technical momentum, mixed fundamentals, value: low (expensive), risk: elevated.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -30,7 +30,7 @@ Signed file: `APA.research.19.11.2026`
 - Can earnings convert fast enough to justify the valuation?
 
 ## 2. Company Overview and Recent Catalysts
-APA Corporation, an independent energy company, explores for, develops, and produces natural gas, crude oil, and natural gas liquids. The company has oil and gas operations in the United States, Egypt, and North Sea. It also has exploration and appraisal activities in Suriname, as well as holds interests in projects located in Uruguay and internationally. APA Corporation was incorporated in 1954 and is headquartered in Houston, Texas.
+—
 
 **Recent headlines (potential catalysts):**
 
@@ -47,7 +47,7 @@ APA Corporation, an independent energy company, explores for, develops, and prod
 | Price vs 52-week range | Close $44.62; 52w high $52.82 (-15.52%); 52w low $22.73 (+96.31%) |
 | Trend | +15.11% vs SMA200, -3.47% vs SMA50, -6.63% vs SMA20 |
 | Momentum | RSI(14) 41.9 (neutral) |
-| Volatility | ATR(14) 1.85 (~4.1% of price); beta 0.28 |
+| Volatility | ATR(14) 1.85 (~4.1% of price); beta — |
 | Setup perspective | -15.52% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
@@ -64,39 +64,24 @@ APA Corporation, an independent energy company, explores for, develops, and prod
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
-| Next earnings | 2026-11-04 | Next scheduled report (Yahoo estimate) |
-| Revenue (ttm) | $9.24B | Revenue growth 31.50% y/y |
-| Profitability | Gross 78.98%, operating 43.31%, net 23.49% | ROA 14.06%, ROE 33.32% |
-| Balance sheet | Cash $75.00M, debt $3.43B | Current ratio 0.84, debt/equity 42.23 |
-| Valuation | P/E 7.26, forward P/E 7.61, P/S 1.62, P/B 2.11 | EV/Sales 2.12, EV/EBITDA 3.07 |
-| Growth expectations | Earnings growth 250.90%, EPS q/q 240.50% | Analyst mean target $50.50 (26 analysts) |
+| Next earnings | — | Next scheduled report (Yahoo estimate) |
+| Revenue (ttm) | — | Revenue growth — y/y |
+| Profitability | Gross —, operating —, net — | ROA —, ROE — |
+| Balance sheet | Cash —, debt — | Current ratio —, debt/equity — |
+| Valuation | P/E —, forward P/E —, P/S —, P/B — | EV/Sales —, EV/EBITDA — |
+| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $— (— analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 110.01% |
-| Insider ownership | 0.46% |
-| Short float | 9.07% |
-| Short ratio (days to cover) | 4.5 |
-
-**Top institutional holders:**
-
-| Holder | Shares | % Out | Reported |
-|---|---|---|---|
-| Blackrock Inc. | 35,507,526 | 10.58% | 2026-09-30 |
-| Hotchkis & Wiley Capital Management, LLC | 28,356,184 | 8.45% | 2026-09-30 |
-| Vanguard Capital Management LLC | 22,935,439 | 6.83% | 2026-09-30 |
-| State Street Corporation | 20,678,748 | 6.16% | 2026-09-30 |
-| Vanguard Portfolio Management LLC | 17,123,493 | 5.10% | 2026-09-30 |
-| Invesco Ltd. | 15,251,572 | 4.54% | 2026-09-30 |
-| Dimensional Fund Advisors LP | 14,977,643 | 4.46% | 2026-09-30 |
-| Charles Schwab Investment Management, Inc. | 14,047,527 | 4.18% | 2026-09-30 |
-| Geode Capital Management, LLC | 11,624,432 | 3.46% | 2026-09-30 |
-| FMR, LLC | 9,483,234 | 2.82% | 2026-09-30 |
+| Institutional ownership | — |
+| Insider ownership | — |
+| Short float | — |
+| Short ratio (days to cover) | — |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 0.28, ATR 4.1% of price, short float 9.07%. Size positions accordingly.
-- **Short interest risk:** short float 9.07% can fuel squeezes both ways around news.
+- **Valuation risk:** Forward P/E —, EV/Sales —. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta —, ATR 4.1% of price, short float —. Size positions accordingly.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -111,36 +96,27 @@ APA Corporation, an independent energy company, explores for, develops, and prod
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $44.62 | EV/Sales | 2.12 |
-| Market cap | $14.98B | EV/EBITDA | 3.07 |
-| Beta | 0.28 | Gross margin | 78.98% |
-| RSI(14) | 41.9 | Operating margin | 43.31% |
-| ATR(14) | 1.85 | Profit margin | 23.49% |
-| SMA20 dist | -6.63% | ROA | 14.06% |
-| SMA50 dist | -3.47% | ROE | 33.32% |
-| SMA200 dist | +15.11% | Revenue (ttm) | $9.24B |
-| 52W high | $52.82 | Revenue growth y/y | 31.50% |
-| 52W low | $22.73 | Inst. ownership | 110.01% |
-| P/E (ttm) | 7.26 | Insider ownership | 0.46% |
-| Forward P/E | 7.61 | Short float | 9.07% |
-| PEG (trailing) | 1.16 | Avg volume | 5,600,137 |
-| P/S | 1.62 | Employees | 1,791 |
-| P/B | 2.11 | Analyst rec (1=buy..5=sell) | 2.6 |
+| Price | $44.62 | EV/Sales | — |
+| Market cap | — | EV/EBITDA | — |
+| Beta | — | Gross margin | — |
+| RSI(14) | 41.9 | Operating margin | — |
+| ATR(14) | 1.85 | Profit margin | — |
+| SMA20 dist | -6.63% | ROA | — |
+| SMA50 dist | -3.47% | ROE | — |
+| SMA200 dist | +15.11% | Revenue (ttm) | — |
+| 52W high | $52.82 | Revenue growth y/y | — |
+| 52W low | $22.73 | Inst. ownership | — |
+| P/E (ttm) | — | Insider ownership | — |
+| Forward P/E | — | Short float | — |
+| PEG (trailing) | 1.16 | Avg volume | 0 |
+| P/S | — | Employees | 0 |
+| P/B | — | Analyst rec (1=buy..5=sell) | — |
 
 ## 8. Analyst Actions
-| Date | Action | Firm | Rating change |
-|---|---|---|---|
-| 2026-11-12 | main | Bernstein | Market Perform → Market Perform |
-| 2026-11-09 | main | Truist Securities | Hold → Hold |
-| 2026-11-05 | main | Barclays | Equal-Weight → Equal-Weight |
-| 2026-11-05 | main | Stephens & Co. | Equal-Weight → Equal-Weight |
-| 2026-11-05 | main | Evercore ISI Group | In-Line → In-Line |
-| 2026-10-20 | main | Susquehanna | Positive → Positive |
-| 2026-10-15 | init | Scotiabank | — → Sector Perform |
-| 2026-10-15 | main | Mizuho | Underperform → Underperform |
+_No recent analyst actions available from Yahoo._
 
 ## 9. Conclusion
-APA: High momentum / strong fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+APA: High momentum / mixed fundamentals / low (expensive) value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

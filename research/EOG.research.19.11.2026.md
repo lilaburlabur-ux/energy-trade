@@ -1,14 +1,14 @@
 # EOG Research Report
-**EOG Resources, Inc.** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**EOG Resources** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `EOG.research.19.11.2026`
 
 | Field | Value |
 |---|---|
 | Current price | $149.49 (2026-11-19, ~15-min delayed) |
-| Market cap | $77.51B |
-| Sector / Industry | Energy / Oil & Gas E&P |
-| Main theme | Oil & Gas E&P — see catalysts below |
-| Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate. |
+| Market cap | — |
+| Sector / Industry | — / — |
+| Main theme | Semiconductors — see catalysts below |
+| Current stance | Moderate technical momentum, mixed fundamentals, value: low (expensive), risk: moderate. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-19.
 
@@ -17,11 +17,11 @@ Signed file: `EOG.research.19.11.2026`
 |---|---|---|
 | Technical momentum | Moderate | 1Y +40.77%; price +7.95% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -9.70% from 52w high; no clean fresh pivot by default. |
-| Fundamental quality | Strong | Profit margin 28.06%, revenue growth 42.70%. |
-| Value attractiveness | Reasonable | Forward P/E 8.79, EV/Sales 2.75. |
-| Risk level | Moderate | Beta 0.27, ATR 2.9% of price, short float 3.62%. |
+| Fundamental quality | Mixed | Profit margin —, revenue growth —. |
+| Value attractiveness | Low (expensive) | Forward P/E —, EV/Sales —. |
+| Risk level | Moderate | Beta —, ATR 2.9% of price, short float —. |
 
-**Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate.
+**Bottom line:** Moderate technical momentum, mixed fundamentals, value: low (expensive), risk: moderate.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -30,7 +30,7 @@ Signed file: `EOG.research.19.11.2026`
 - Can earnings convert fast enough to justify the valuation?
 
 ## 2. Company Overview and Recent Catalysts
-EOG Resources, Inc., together with its subsidiaries, explores for, develops, produces, and markets crude oil, natural gas liquids, and natural gas in producing basins in the United States, the Republic of Trinidad and Tobago, and internationally. The company also offers crude oil and condensate, and gathering, processing and marketing. The company was formerly known as Enron Oil & Gas Company. EOG Resources, Inc. was incorporated in 1985 and is headquartered in Houston, Texas.
+—
 
 **Recent headlines (potential catalysts):**
 
@@ -47,7 +47,7 @@ EOG Resources, Inc., together with its subsidiaries, explores for, develops, pro
 | Price vs 52-week range | Close $149.49; 52w high $165.54 (-9.70%); 52w low $98.64 (+51.55%) |
 | Trend | +7.95% vs SMA200, -0.36% vs SMA50, -3.74% vs SMA20 |
 | Momentum | RSI(14) 44.6 (neutral) |
-| Volatility | ATR(14) 4.33 (~2.9% of price); beta 0.27 |
+| Volatility | ATR(14) 4.33 (~2.9% of price); beta — |
 | Setup perspective | -9.70% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
@@ -64,37 +64,23 @@ EOG Resources, Inc., together with its subsidiaries, explores for, develops, pro
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
-| Next earnings | 2026-11-05 | Next scheduled report (Yahoo estimate) |
-| Revenue (ttm) | $29.17B | Revenue growth 42.70% y/y |
-| Profitability | Gross 62.98%, operating 35.47%, net 28.06% | ROA 11.90%, ROE 25.83% |
-| Balance sheet | Cash $5.75B, debt $8.26B | Current ratio 1.90, debt/equity 24.96 |
-| Valuation | P/E 9.65, forward P/E 8.79, P/S 2.66, P/B 2.35 | EV/Sales 2.75, EV/EBITDA 4.99 |
-| Growth expectations | Earnings growth 97.40%, EPS q/q 89.10% | Analyst mean target $168.41 (29 analysts) |
+| Next earnings | — | Next scheduled report (Yahoo estimate) |
+| Revenue (ttm) | — | Revenue growth — y/y |
+| Profitability | Gross —, operating —, net — | ROA —, ROE — |
+| Balance sheet | Cash —, debt — | Current ratio —, debt/equity — |
+| Valuation | P/E —, forward P/E —, P/S —, P/B — | EV/Sales —, EV/EBITDA — |
+| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $— (— analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 97.20% |
-| Insider ownership | 0.29% |
-| Short float | 3.62% |
-| Short ratio (days to cover) | 6.2 |
-
-**Top institutional holders:**
-
-| Holder | Shares | % Out | Reported |
-|---|---|---|---|
-| Capital World Investors | 58,398,776 | 11.26% | 2026-09-30 |
-| Blackrock Inc. | 44,786,786 | 8.64% | 2026-09-30 |
-| Vanguard Capital Management LLC | 34,337,909 | 6.62% | 2026-09-30 |
-| State Street Corporation | 32,590,931 | 6.29% | 2026-09-30 |
-| JPMORGAN CHASE & CO | 28,001,800 | 5.40% | 2026-09-30 |
-| Charles Schwab Investment Management, Inc. | 18,699,255 | 3.61% | 2026-09-30 |
-| Capital Research Global Investors | 16,459,673 | 3.17% | 2026-09-30 |
-| Geode Capital Management, LLC | 13,475,471 | 2.60% | 2026-09-30 |
-| Vanguard Portfolio Management LLC | 13,482,482 | 2.60% | 2026-09-30 |
-| Ameriprise Financial, Inc. | 8,203,588 | 1.58% | 2026-09-30 |
+| Institutional ownership | — |
+| Insider ownership | — |
+| Short float | — |
+| Short ratio (days to cover) | — |
 
 ## 6. Risk Review and Setup Plan
+- **Valuation risk:** Forward P/E —, EV/Sales —. Multiple compression is the main downside if growth disappoints.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -109,36 +95,27 @@ EOG Resources, Inc., together with its subsidiaries, explores for, develops, pro
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $149.49 | EV/Sales | 2.75 |
-| Market cap | $77.51B | EV/EBITDA | 4.99 |
-| Beta | 0.27 | Gross margin | 62.98% |
-| RSI(14) | 44.6 | Operating margin | 35.47% |
-| ATR(14) | 4.33 | Profit margin | 28.06% |
-| SMA20 dist | -3.74% | ROA | 11.90% |
-| SMA50 dist | -0.36% | ROE | 25.83% |
-| SMA200 dist | +7.95% | Revenue (ttm) | $29.17B |
-| 52W high | $165.54 | Revenue growth y/y | 42.70% |
-| 52W low | $98.64 | Inst. ownership | 97.20% |
-| P/E (ttm) | 9.65 | Insider ownership | 0.29% |
-| Forward P/E | 8.79 | Short float | 3.62% |
-| PEG (trailing) | 1.18 | Avg volume | 3,133,393 |
-| P/S | 2.66 | Employees | 3,400 |
-| P/B | 2.35 | Analyst rec (1=buy..5=sell) | 2.4 |
+| Price | $149.49 | EV/Sales | — |
+| Market cap | — | EV/EBITDA | — |
+| Beta | — | Gross margin | — |
+| RSI(14) | 44.6 | Operating margin | — |
+| ATR(14) | 4.33 | Profit margin | — |
+| SMA20 dist | -3.74% | ROA | — |
+| SMA50 dist | -0.36% | ROE | — |
+| SMA200 dist | +7.95% | Revenue (ttm) | — |
+| 52W high | $165.54 | Revenue growth y/y | — |
+| 52W low | $98.64 | Inst. ownership | — |
+| P/E (ttm) | — | Insider ownership | — |
+| Forward P/E | — | Short float | — |
+| PEG (trailing) | 1.18 | Avg volume | 0 |
+| P/S | — | Employees | 0 |
+| P/B | — | Analyst rec (1=buy..5=sell) | — |
 
 ## 8. Analyst Actions
-| Date | Action | Firm | Rating change |
-|---|---|---|---|
-| 2026-11-10 | main | Susquehanna | Positive → Positive |
-| 2026-11-09 | main | UBS | Buy → Buy |
-| 2026-11-09 | main | Truist Securities | Hold → Hold |
-| 2026-11-06 | main | Barclays | Equal-Weight → Equal-Weight |
-| 2026-10-20 | main | Susquehanna | Positive → Positive |
-| 2026-10-15 | init | Scotiabank | — → Sector Perform |
-| 2026-10-15 | main | Morgan Stanley | Equal-Weight → Equal-Weight |
-| 2026-10-09 | main | UBS | Buy → Buy |
+_No recent analyst actions available from Yahoo._
 
 ## 9. Conclusion
-EOG: Moderate momentum / strong fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+EOG: Moderate momentum / mixed fundamentals / low (expensive) value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

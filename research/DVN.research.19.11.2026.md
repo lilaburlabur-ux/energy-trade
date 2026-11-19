@@ -1,14 +1,14 @@
 # DVN Research Report
-**Devon Energy Corporation** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**Devon Energy** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `DVN.research.19.11.2026`
 
 | Field | Value |
 |---|---|
 | Current price | $42.05 (2026-11-19, ~15-min delayed) |
-| Market cap | $47.92B |
-| Sector / Industry | Energy / Oil & Gas E&P |
-| Main theme | Oil & Gas E&P — see catalysts below |
-| Current stance | Low technical momentum, strong fundamentals, value: reasonable, risk: elevated. |
+| Market cap | — |
+| Sector / Industry | — / — |
+| Main theme | Semiconductors — see catalysts below |
+| Current stance | Low technical momentum, mixed fundamentals, value: low (expensive), risk: elevated. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-19.
 
@@ -17,11 +17,11 @@ Signed file: `DVN.research.19.11.2026`
 |---|---|---|
 | Technical momentum | Low | Below SMA200 (-8.48%) with negative half-year (-9.52%). |
 | Fresh setup quality | Moderate / wait | -19.37% from 52w high; no clean fresh pivot by default. |
-| Fundamental quality | Strong | Profit margin 16.28%, revenue growth 74.00%. |
-| Value attractiveness | Reasonable | Forward P/E 8.15, EV/Sales 2.65. |
-| Risk level | Elevated | Beta 0.48, ATR 4.1% of price, short float 2.46%. |
+| Fundamental quality | Mixed | Profit margin —, revenue growth —. |
+| Value attractiveness | Low (expensive) | Forward P/E —, EV/Sales —. |
+| Risk level | Elevated | Beta —, ATR 4.1% of price, short float —. |
 
-**Bottom line:** Low technical momentum, strong fundamentals, value: reasonable, risk: elevated.
+**Bottom line:** Low technical momentum, mixed fundamentals, value: low (expensive), risk: elevated.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -30,7 +30,7 @@ Signed file: `DVN.research.19.11.2026`
 - Can earnings convert fast enough to justify the valuation?
 
 ## 2. Company Overview and Recent Catalysts
-Devon Energy Corporation, an independent energy company, engages in the exploration, development, and production of oil, natural gas, and natural gas liquids in the United States. The company operates in Delaware Basin located in southeast New Mexico and west Texas, Eagle Ford located in North America, Anadarko Basin located in western Oklahoma, Williston Basin located in North Dakota, and Powder River Basin located in Wyoming. Devon Energy Corporation was founded in 1971 and is headquartered in Houston, Texas.
+—
 
 **Recent headlines (potential catalysts):**
 
@@ -47,7 +47,7 @@ Devon Energy Corporation, an independent energy company, engages in the explorat
 | Price vs 52-week range | Close $42.05; 52w high $52.15 (-19.37%); 52w low $33.83 (+24.30%) |
 | Trend | -8.48% vs SMA200, -12.00% vs SMA50, -9.53% vs SMA20 |
 | Momentum | RSI(14) 34.9 (neutral) |
-| Volatility | ATR(14) 1.71 (~4.1% of price); beta 0.48 |
+| Volatility | ATR(14) 1.71 (~4.1% of price); beta — |
 | Setup perspective | -19.37% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
@@ -64,38 +64,24 @@ Devon Energy Corporation, an independent energy company, engages in the explorat
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
-| Next earnings | 2026-11-05 | Next scheduled report (Yahoo estimate) |
-| Revenue (ttm) | $22.11B | Revenue growth 74.00% y/y |
-| Profitability | Gross 53.48%, operating 24.01%, net 16.28% | ROA 6.50%, ROE 12.55% |
-| Balance sheet | Cash $352.00M, debt $11.20B | Current ratio 0.70, debt/equity 26.66 |
-| Valuation | P/E 9.87, forward P/E 8.15, P/S 2.17, P/B 1.14 | EV/Sales 2.65, EV/EBITDA 5.75 |
-| Growth expectations | Earnings growth -19.30%, EPS q/q 46.70% | Analyst mean target $59.81 (27 analysts) |
+| Next earnings | — | Next scheduled report (Yahoo estimate) |
+| Revenue (ttm) | — | Revenue growth — y/y |
+| Profitability | Gross —, operating —, net — | ROA —, ROE — |
+| Balance sheet | Cash —, debt — | Current ratio —, debt/equity — |
+| Valuation | P/E —, forward P/E —, P/S —, P/B — | EV/Sales —, EV/EBITDA — |
+| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $— (— analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 91.00% |
-| Insider ownership | 0.75% |
-| Short float | 2.46% |
-| Short ratio (days to cover) | 3.1 |
-
-**Top institutional holders:**
-
-| Holder | Shares | % Out | Reported |
-|---|---|---|---|
-| Blackrock Inc. | 93,865,395 | 8.24% | 2026-09-30 |
-| Vanguard Capital Management LLC | 71,970,787 | 6.31% | 2026-09-30 |
-| State Street Corporation | 67,433,481 | 5.92% | 2026-09-30 |
-| Vanguard Portfolio Management LLC | 54,783,244 | 4.81% | 2026-09-30 |
-| Wellington Management Group, LLP | 50,088,066 | 4.39% | 2026-09-30 |
-| Charles Schwab Investment Management, Inc. | 39,247,850 | 3.44% | 2026-09-30 |
-| Geode Capital Management, LLC | 30,886,672 | 2.71% | 2026-09-30 |
-| Morgan Stanley | 26,590,708 | 2.33% | 2026-09-30 |
-| Davis Selected Advisers | 26,018,896 | 2.28% | 2026-09-30 |
-| Invesco Ltd. | 25,910,402 | 2.27% | 2026-09-30 |
+| Institutional ownership | — |
+| Insider ownership | — |
+| Short float | — |
+| Short ratio (days to cover) | — |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 0.48, ATR 4.1% of price, short float 2.46%. Size positions accordingly.
+- **Valuation risk:** Forward P/E —, EV/Sales —. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta —, ATR 4.1% of price, short float —. Size positions accordingly.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -110,36 +96,27 @@ Devon Energy Corporation, an independent energy company, engages in the explorat
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $42.05 | EV/Sales | 2.65 |
-| Market cap | $47.92B | EV/EBITDA | 5.75 |
-| Beta | 0.48 | Gross margin | 53.48% |
-| RSI(14) | 34.9 | Operating margin | 24.01% |
-| ATR(14) | 1.71 | Profit margin | 16.28% |
-| SMA20 dist | -9.53% | ROA | 6.50% |
-| SMA50 dist | -12.00% | ROE | 12.55% |
-| SMA200 dist | -8.48% | Revenue (ttm) | $22.11B |
-| 52W high | $52.15 | Revenue growth y/y | 74.00% |
-| 52W low | $33.83 | Inst. ownership | 91.00% |
-| P/E (ttm) | 9.87 | Insider ownership | 0.75% |
-| Forward P/E | 8.15 | Short float | 2.46% |
-| PEG (trailing) | — | Avg volume | 11,037,195 |
-| P/S | 2.17 | Employees | 2,200 |
-| P/B | 1.14 | Analyst rec (1=buy..5=sell) | 1.3 |
+| Price | $42.05 | EV/Sales | — |
+| Market cap | — | EV/EBITDA | — |
+| Beta | — | Gross margin | — |
+| RSI(14) | 34.9 | Operating margin | — |
+| ATR(14) | 1.71 | Profit margin | — |
+| SMA20 dist | -9.53% | ROA | — |
+| SMA50 dist | -12.00% | ROE | — |
+| SMA200 dist | -8.48% | Revenue (ttm) | — |
+| 52W high | $52.15 | Revenue growth y/y | — |
+| 52W low | $33.83 | Inst. ownership | — |
+| P/E (ttm) | — | Insider ownership | — |
+| Forward P/E | — | Short float | — |
+| PEG (trailing) | — | Avg volume | 0 |
+| P/S | — | Employees | 0 |
+| P/B | — | Analyst rec (1=buy..5=sell) | — |
 
 ## 8. Analyst Actions
-| Date | Action | Firm | Rating change |
-|---|---|---|---|
-| 2026-11-12 | down | Bernstein | Outperform → Market Perform |
-| 2026-11-10 | main | UBS | Buy → Buy |
-| 2026-11-09 | main | JP Morgan | Overweight → Overweight |
-| 2026-11-09 | main | Morgan Stanley | Overweight → Overweight |
-| 2026-11-09 | main | Truist Securities | Buy → Buy |
-| 2026-11-09 | main | Susquehanna | Positive → Positive |
-| 2026-11-06 | main | Barclays | Overweight → Overweight |
-| 2026-10-16 | main | Mizuho | Outperform → Outperform |
+_No recent analyst actions available from Yahoo._
 
 ## 9. Conclusion
-DVN: Low momentum / strong fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+DVN: Low momentum / mixed fundamentals / low (expensive) value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

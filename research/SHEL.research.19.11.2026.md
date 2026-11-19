@@ -1,14 +1,14 @@
 # SHEL Research Report
-**Shell plc** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**Shell** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `SHEL.research.19.11.2026`
 
 | Field | Value |
 |---|---|
 | Current price | $94.01 (2026-11-19, ~15-min delayed) |
-| Market cap | $265.55B |
-| Sector / Industry | Energy / Oil & Gas Integrated |
-| Main theme | Oil & Gas Integrated — see catalysts below |
-| Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
+| Market cap | — |
+| Sector / Industry | — / — |
+| Main theme | Semiconductors — see catalysts below |
+| Current stance | Moderate technical momentum, mixed fundamentals, value: low (expensive), risk: moderate. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-19.
 
@@ -17,11 +17,11 @@ Signed file: `SHEL.research.19.11.2026`
 |---|---|---|
 | Technical momentum | Moderate | 1Y +29.28%; price +6.23% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -12.82% from 52w high; no clean fresh pivot by default. |
-| Fundamental quality | Mixed | Profit margin 10.18%, revenue growth 36.20%. |
-| Value attractiveness | Reasonable | Forward P/E 8.38, EV/Sales 0.97. |
-| Risk level | Moderate | Beta -0.25, ATR 2.0% of price, short float 1.01%. |
+| Fundamental quality | Mixed | Profit margin —, revenue growth —. |
+| Value attractiveness | Low (expensive) | Forward P/E —, EV/Sales —. |
+| Risk level | Moderate | Beta —, ATR 2.0% of price, short float —. |
 
-**Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
+**Bottom line:** Moderate technical momentum, mixed fundamentals, value: low (expensive), risk: moderate.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -30,7 +30,7 @@ Signed file: `SHEL.research.19.11.2026`
 - Can earnings convert fast enough to justify the valuation?
 
 ## 2. Company Overview and Recent Catalysts
-Shell plc operates as an energy and petrochemical company in Europe, Asia, Oceania, Africa, the United States, and other parts of the Americas. It operates through the following segments: Integrated Gas, Upstream, Marketing, Chemicals and Products, and Renewables and Energy Solutions.
+—
 
 **Recent headlines (potential catalysts):**
 
@@ -47,7 +47,7 @@ Shell plc operates as an energy and petrochemical company in Europe, Asia, Ocean
 | Price vs 52-week range | Close $94.01; 52w high $107.83 (-12.82%); 52w low $67.89 (+38.47%) |
 | Trend | +6.23% vs SMA200, -5.09% vs SMA50, -6.66% vs SMA20 |
 | Momentum | RSI(14) 34.1 (neutral) |
-| Volatility | ATR(14) 1.89 (~2.0% of price); beta -0.25 |
+| Volatility | ATR(14) 1.89 (~2.0% of price); beta — |
 | Setup perspective | -12.82% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
@@ -64,37 +64,23 @@ Shell plc operates as an energy and petrochemical company in Europe, Asia, Ocean
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
-| Next earnings | 2026-10-29 | Next scheduled report (Yahoo estimate) |
-| Revenue (ttm) | $321.29B | Revenue growth 36.20% y/y |
-| Profitability | Gross 26.93%, operating 15.25%, net 10.18% | ROA 7.67%, ROE 17.43% |
-| Balance sheet | Cash $36.42B, debt $76.07B | Current ratio 1.38, debt/equity 38.13 |
-| Valuation | P/E 8.16, forward P/E 8.38, P/S 0.83, P/B 1.36 | EV/Sales 0.97, EV/EBITDA 4.60 |
-| Growth expectations | Earnings growth 136.70%, EPS q/q 126.60% | Analyst mean target $110.81 (15 analysts) |
+| Next earnings | — | Next scheduled report (Yahoo estimate) |
+| Revenue (ttm) | — | Revenue growth — y/y |
+| Profitability | Gross —, operating —, net — | ROA —, ROE — |
+| Balance sheet | Cash —, debt — | Current ratio —, debt/equity — |
+| Valuation | P/E —, forward P/E —, P/S —, P/B — | EV/Sales —, EV/EBITDA — |
+| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $— (— analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 13.96% |
-| Insider ownership | 0.01% |
-| Short float | 1.01% |
-| Short ratio (days to cover) | 2.5 |
-
-**Top institutional holders:**
-
-| Holder | Shares | % Out | Reported |
-|---|---|---|---|
-| FMR, LLC | 85,323,807 | 2.98% | 2026-09-30 |
-| Fisher Asset Management, LLC | 27,331,036 | 0.95% | 2026-09-30 |
-| Dimensional Fund Advisors LP | 26,519,842 | 0.93% | 2026-09-30 |
-| Orbis Allan Gray Ltd | 12,776,781 | 0.45% | 2026-09-30 |
-| Life Cycle Investment Partners Ltd | 11,487,989 | 0.40% | 2026-09-30 |
-| Arrowstreet Capital, Limited Partnership | 10,771,891 | 0.38% | 2026-09-30 |
-| Morgan Stanley | 10,582,777 | 0.37% | 2026-09-30 |
-| Price (T.Rowe) Associates Inc | 9,766,035 | 0.34% | 2026-09-30 |
-| Goldman Sachs Group Inc | 8,651,121 | 0.30% | 2026-09-30 |
-| Mawer Investment Management Ltd. | 7,375,850 | 0.26% | 2026-09-30 |
+| Institutional ownership | — |
+| Insider ownership | — |
+| Short float | — |
+| Short ratio (days to cover) | — |
 
 ## 6. Risk Review and Setup Plan
+- **Valuation risk:** Forward P/E —, EV/Sales —. Multiple compression is the main downside if growth disappoints.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -109,36 +95,27 @@ Shell plc operates as an energy and petrochemical company in Europe, Asia, Ocean
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $94.01 | EV/Sales | 0.97 |
-| Market cap | $265.55B | EV/EBITDA | 4.60 |
-| Beta | -0.25 | Gross margin | 26.93% |
-| RSI(14) | 34.1 | Operating margin | 15.25% |
-| ATR(14) | 1.89 | Profit margin | 10.18% |
-| SMA20 dist | -6.66% | ROA | 7.67% |
-| SMA50 dist | -5.09% | ROE | 17.43% |
-| SMA200 dist | +6.23% | Revenue (ttm) | $321.29B |
-| 52W high | $107.83 | Revenue growth y/y | 36.20% |
-| 52W low | $67.89 | Inst. ownership | 13.96% |
-| P/E (ttm) | 8.16 | Insider ownership | 0.01% |
-| Forward P/E | 8.38 | Short float | 1.01% |
-| PEG (trailing) | 1.31 | Avg volume | 6,079,178 |
-| P/S | 0.83 | Employees | 84,000 |
-| P/B | 1.36 | Analyst rec (1=buy..5=sell) | 2.2 |
+| Price | $94.01 | EV/Sales | — |
+| Market cap | — | EV/EBITDA | — |
+| Beta | — | Gross margin | — |
+| RSI(14) | 34.1 | Operating margin | — |
+| ATR(14) | 1.89 | Profit margin | — |
+| SMA20 dist | -6.66% | ROA | — |
+| SMA50 dist | -5.09% | ROE | — |
+| SMA200 dist | +6.23% | Revenue (ttm) | — |
+| 52W high | $107.83 | Revenue growth y/y | — |
+| 52W low | $67.89 | Inst. ownership | — |
+| P/E (ttm) | — | Insider ownership | — |
+| Forward P/E | — | Short float | — |
+| PEG (trailing) | 1.31 | Avg volume | 0 |
+| P/S | — | Employees | 0 |
+| P/B | — | Analyst rec (1=buy..5=sell) | — |
 
 ## 8. Analyst Actions
-| Date | Action | Firm | Rating change |
-|---|---|---|---|
-| 2026-10-30 | main | Wells Fargo | Equal-Weight → Equal-Weight |
-| 2026-09-28 | main | TD Cowen | Buy → Buy |
-| 2026-09-03 | main | Piper Sandler | Neutral → Neutral |
-| 2026-08-03 | main | Piper Sandler | Neutral → Neutral |
-| 2026-07-31 | main | Wells Fargo | Equal-Weight → Equal-Weight |
-| 2026-07-20 | init | Mizuho | — → Neutral |
-| 2026-05-21 | main | Jefferies | Buy → Buy |
-| 2026-04-22 | main | Scotiabank | Sector Outperform → Sector Outperform |
+_No recent analyst actions available from Yahoo._
 
 ## 9. Conclusion
-SHEL: Moderate momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+SHEL: Moderate momentum / mixed fundamentals / low (expensive) value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

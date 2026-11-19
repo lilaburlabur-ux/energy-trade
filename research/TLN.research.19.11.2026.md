@@ -1,14 +1,14 @@
 # TLN Research Report
-**Talen Energy Corporation** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**Talen Energy** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `TLN.research.19.11.2026`
 
 | Field | Value |
 |---|---|
 | Current price | $355.91 (2026-11-19, ~15-min delayed) |
-| Market cap | $15.48B |
-| Sector / Industry | Utilities / Utilities - Independent Power Producers |
-| Main theme | Utilities - Independent Power Producers — see catalysts below |
-| Current stance | Moderate technical momentum, weak fundamentals, value: reasonable, risk: high. |
+| Market cap | — |
+| Sector / Industry | — / — |
+| Main theme | Semiconductors — see catalysts below |
+| Current stance | Moderate technical momentum, mixed fundamentals, value: low (expensive), risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-19.
 
@@ -17,11 +17,11 @@ Signed file: `TLN.research.19.11.2026`
 |---|---|---|
 | Technical momentum | Moderate | 1Y -5.04%; price +1.93% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -18.76% from 52w high; no clean fresh pivot by default. |
-| Fundamental quality | Weak | Negative profit margin (-5.67%). |
-| Value attractiveness | Reasonable | Forward P/E 11.06, EV/Sales 5.56. |
-| Risk level | High | Beta 1.58, ATR 5.4% of price, short float 10.86%. |
+| Fundamental quality | Mixed | Profit margin —, revenue growth —. |
+| Value attractiveness | Low (expensive) | Forward P/E —, EV/Sales —. |
+| Risk level | High | Beta —, ATR 5.4% of price, short float —. |
 
-**Bottom line:** Moderate technical momentum, weak fundamentals, value: reasonable, risk: high.
+**Bottom line:** Moderate technical momentum, mixed fundamentals, value: low (expensive), risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -30,7 +30,7 @@ Signed file: `TLN.research.19.11.2026`
 - Can earnings convert fast enough to justify the valuation?
 
 ## 2. Company Overview and Recent Catalysts
-Talen Energy Corporation, an independent power producer and infrastructure company, produces and sells electricity, capacity, and ancillary services into wholesale power markets in the United States. The company's plants generate power using a variety of fuels, such as nuclear, fossil, oil, natural gas, and coal power plants. It owns and operates approximately 13.1 GW of power infrastructure. Talen Energy Corporation was incorporated in 2014 and is headquartered in Houston, Texas.
+—
 
 **Recent headlines (potential catalysts):**
 
@@ -47,7 +47,7 @@ Talen Energy Corporation, an independent power producer and infrastructure compa
 | Price vs 52-week range | Close $355.91; 52w high $438.12 (-18.76%); 52w low $282.15 (+26.14%) |
 | Trend | +1.93% vs SMA200, +5.36% vs SMA50, +1.41% vs SMA20 |
 | Momentum | RSI(14) 51.4 (neutral) |
-| Volatility | ATR(14) 19.24 (~5.4% of price); beta 1.58 |
+| Volatility | ATR(14) 19.24 (~5.4% of price); beta — |
 | Setup perspective | -18.76% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
@@ -64,40 +64,24 @@ Talen Energy Corporation, an independent power producer and infrastructure compa
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
-| Next earnings | 2026-11-03 | Next scheduled report (Yahoo estimate) |
-| Revenue (ttm) | $4.48B | Revenue growth 96.10% y/y |
-| Profitability | Gross 42.67%, operating 3.33%, net -5.67% | ROA 0.88%, ROE -16.54% |
-| Balance sheet | Cash $339.00M, debt $9.57B | Current ratio 0.89, debt/equity 596.94 |
-| Valuation | P/E —, forward P/E 11.06, P/S 3.46, P/B 10.66 | EV/Sales 5.56, EV/EBITDA 36.98 |
-| Growth expectations | Earnings growth -32.20%, EPS q/q -33.30% | Analyst mean target $452.65 (20 analysts) |
+| Next earnings | — | Next scheduled report (Yahoo estimate) |
+| Revenue (ttm) | — | Revenue growth — y/y |
+| Profitability | Gross —, operating —, net — | ROA —, ROE — |
+| Balance sheet | Cash —, debt — | Current ratio —, debt/equity — |
+| Valuation | P/E —, forward P/E —, P/S —, P/B — | EV/Sales —, EV/EBITDA — |
+| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $— (— analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 114.91% |
-| Insider ownership | 1.50% |
-| Short float | 10.86% |
-| Short ratio (days to cover) | 3.9 |
-
-**Top institutional holders:**
-
-| Holder | Shares | % Out | Reported |
-|---|---|---|---|
-| Blackrock Inc. | 4,312,006 | 7.30% | 2026-09-30 |
-| Rubric Capital Management LP | 3,602,171 | 6.10% | 2026-09-30 |
-| MFN Partners Management, LP | 3,249,121 | 5.50% | 2026-09-30 |
-| ECP ControlCo, LLC | 2,399,998 | 4.07% | 2026-09-30 |
-| Vanguard Portfolio Management LLC | 2,234,227 | 3.78% | 2026-09-30 |
-| Vanguard Capital Management LLC | 2,117,079 | 3.59% | 2026-09-30 |
-| Fred Alger Management, LLC | 1,776,393 | 3.01% | 2026-09-30 |
-| Reaves (W.H.) & Company, Inc. | 1,438,042 | 2.44% | 2026-09-30 |
-| State Street Corporation | 1,378,301 | 2.33% | 2026-09-30 |
-| Sachem Head Capital Management, LP | 1,157,500 | 1.96% | 2026-09-30 |
+| Institutional ownership | — |
+| Insider ownership | — |
+| Short float | — |
+| Short ratio (days to cover) | — |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.58, ATR 5.4% of price, short float 10.86%. Size positions accordingly.
-- **Short interest risk:** short float 10.86% can fuel squeezes both ways around news.
-- **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
+- **Valuation risk:** Forward P/E —, EV/Sales —. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta —, ATR 5.4% of price, short float —. Size positions accordingly.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -112,36 +96,27 @@ Talen Energy Corporation, an independent power producer and infrastructure compa
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $355.91 | EV/Sales | 5.56 |
-| Market cap | $15.48B | EV/EBITDA | 36.98 |
-| Beta | 1.58 | Gross margin | 42.67% |
-| RSI(14) | 51.4 | Operating margin | 3.33% |
-| ATR(14) | 19.24 | Profit margin | -5.67% |
-| SMA20 dist | +1.41% | ROA | 0.88% |
-| SMA50 dist | +5.36% | ROE | -16.54% |
-| SMA200 dist | +1.93% | Revenue (ttm) | $4.48B |
-| 52W high | $438.12 | Revenue growth y/y | 96.10% |
-| 52W low | $282.15 | Inst. ownership | 114.91% |
-| P/E (ttm) | — | Insider ownership | 1.50% |
-| Forward P/E | 11.06 | Short float | 10.86% |
-| PEG (trailing) | — | Avg volume | 1,012,107 |
-| P/S | 3.46 | Employees | 1,880 |
-| P/B | 10.66 | Analyst rec (1=buy..5=sell) | 1.5 |
+| Price | $355.91 | EV/Sales | — |
+| Market cap | — | EV/EBITDA | — |
+| Beta | — | Gross margin | — |
+| RSI(14) | 51.4 | Operating margin | — |
+| ATR(14) | 19.24 | Profit margin | — |
+| SMA20 dist | +1.41% | ROA | — |
+| SMA50 dist | +5.36% | ROE | — |
+| SMA200 dist | +1.93% | Revenue (ttm) | — |
+| 52W high | $438.12 | Revenue growth y/y | — |
+| 52W low | $282.15 | Inst. ownership | — |
+| P/E (ttm) | — | Insider ownership | — |
+| Forward P/E | — | Short float | — |
+| PEG (trailing) | — | Avg volume | 0 |
+| P/S | — | Employees | 0 |
+| P/B | — | Analyst rec (1=buy..5=sell) | — |
 
 ## 8. Analyst Actions
-| Date | Action | Firm | Rating change |
-|---|---|---|---|
-| 2026-11-04 | main | Evercore ISI Group | Outperform → Outperform |
-| 2026-10-28 | main | CIBC | Outperformer → Outperformer |
-| 2026-10-28 | main | Wells Fargo | Overweight → Overweight |
-| 2026-10-27 | main | Barclays | Overweight → Overweight |
-| 2026-10-22 | init | TD Cowen | — → Buy |
-| 2026-10-22 | init | HSBC | — → Buy |
-| 2026-10-21 | main | Morgan Stanley | Overweight → Overweight |
-| 2026-10-16 | init | CIBC | — → Outperformer |
+_No recent analyst actions available from Yahoo._
 
 ## 9. Conclusion
-TLN: Moderate momentum / weak fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+TLN: Moderate momentum / mixed fundamentals / low (expensive) value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

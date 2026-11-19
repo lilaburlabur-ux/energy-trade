@@ -1,14 +1,14 @@
 # EQNR Research Report
-**Equinor ASA** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**Equinor** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `EQNR.research.19.11.2026`
 
 | Field | Value |
 |---|---|
 | Current price | $39.69 (2026-11-19, ~15-min delayed) |
-| Market cap | $93.88B |
-| Sector / Industry | Energy / Oil & Gas Integrated |
-| Main theme | Oil & Gas Integrated — see catalysts below |
-| Current stance | High technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
+| Market cap | — |
+| Sector / Industry | — / — |
+| Main theme | Semiconductors — see catalysts below |
+| Current stance | High technical momentum, mixed fundamentals, value: low (expensive), risk: elevated. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-19.
 
@@ -17,11 +17,11 @@ Signed file: `EQNR.research.19.11.2026`
 |---|---|---|
 | Technical momentum | High | 1Y +70.52%; price +4.39% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -17.96% from 52w high; no clean fresh pivot by default. |
-| Fundamental quality | Mixed | Profit margin 9.79%, revenue growth 26.60%. |
-| Value attractiveness | Reasonable | Forward P/E 7.97, EV/Sales 1.63. |
-| Risk level | Elevated | Beta -0.66, ATR 3.4% of price, short float 2.69%. |
+| Fundamental quality | Mixed | Profit margin —, revenue growth —. |
+| Value attractiveness | Low (expensive) | Forward P/E —, EV/Sales —. |
+| Risk level | Elevated | Beta —, ATR 3.4% of price, short float —. |
 
-**Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
+**Bottom line:** High technical momentum, mixed fundamentals, value: low (expensive), risk: elevated.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -30,7 +30,7 @@ Signed file: `EQNR.research.19.11.2026`
 - Can earnings convert fast enough to justify the valuation?
 
 ## 2. Company Overview and Recent Catalysts
-Equinor ASA operates as an energy company in Norway and internationally. It operates through Exploration & Production Norway; Exploration & Production International; Exploration & Production USA; Marketing, Midstream & Processing; and Renewables segments.
+—
 
 **Recent headlines (potential catalysts):**
 
@@ -47,7 +47,7 @@ Equinor ASA operates as an energy company in Norway and internationally. It oper
 | Price vs 52-week range | Close $39.69; 52w high $48.38 (-17.96%); 52w low $21.48 (+84.75%) |
 | Trend | +4.39% vs SMA200, -8.67% vs SMA50, -8.86% vs SMA20 |
 | Momentum | RSI(14) 36.6 (neutral) |
-| Volatility | ATR(14) 1.36 (~3.4% of price); beta -0.66 |
+| Volatility | ATR(14) 1.36 (~3.4% of price); beta — |
 | Setup perspective | -17.96% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
@@ -64,38 +64,24 @@ Equinor ASA operates as an energy company in Norway and internationally. It oper
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
-| Next earnings | 2026-10-28 | Next scheduled report (Yahoo estimate) |
-| Revenue (ttm) | $120.57B | Revenue growth 26.60% y/y |
-| Profitability | Gross 43.18%, operating 32.11%, net 9.79% | ROA 17.09%, ROE 27.57% |
-| Balance sheet | Cash $24.00B, debt $29.66B | Current ratio 1.18, debt/equity 65.92 |
-| Valuation | P/E 8.23, forward P/E 7.97, P/S 0.78, P/B 4.20 | EV/Sales 1.63, EV/EBITDA 4.08 |
-| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $41.69 (7 analysts) |
+| Next earnings | — | Next scheduled report (Yahoo estimate) |
+| Revenue (ttm) | — | Revenue growth — y/y |
+| Profitability | Gross —, operating —, net — | ROA —, ROE — |
+| Balance sheet | Cash —, debt — | Current ratio —, debt/equity — |
+| Valuation | P/E —, forward P/E —, P/S —, P/B — | EV/Sales —, EV/EBITDA — |
+| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $— (— analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 6.61% |
-| Insider ownership | 0.00% |
-| Short float | 2.69% |
-| Short ratio (days to cover) | 4.1 |
-
-**Top institutional holders:**
-
-| Holder | Shares | % Out | Reported |
-|---|---|---|---|
-| Folketrygdfondet | 88,514,517 | 3.70% | 2026-09-30 |
-| Arrowstreet Capital, Limited Partnership | 16,487,875 | 0.69% | 2026-09-30 |
-| Morgan Stanley | 11,865,125 | 0.50% | 2026-09-30 |
-| Bank of America Corporation | 4,971,291 | 0.21% | 2026-09-30 |
-| Goldman Sachs Group Inc | 4,557,687 | 0.19% | 2026-09-30 |
-| Earnest Partners LLC | 3,180,869 | 0.13% | 2026-09-30 |
-| Blackrock Inc. | 2,270,852 | 0.09% | 2026-09-30 |
-| FMR, LLC | 1,533,871 | 0.06% | 2026-09-30 |
-| Renaissance Technologies, LLC | 1,402,923 | 0.06% | 2026-09-30 |
-| Fisher Asset Management, LLC | 1,321,102 | 0.06% | 2026-09-30 |
+| Institutional ownership | — |
+| Insider ownership | — |
+| Short float | — |
+| Short ratio (days to cover) | — |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta -0.66, ATR 3.4% of price, short float 2.69%. Size positions accordingly.
+- **Valuation risk:** Forward P/E —, EV/Sales —. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta —, ATR 3.4% of price, short float —. Size positions accordingly.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -110,36 +96,27 @@ Equinor ASA operates as an energy company in Norway and internationally. It oper
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $39.69 | EV/Sales | 1.63 |
-| Market cap | $93.88B | EV/EBITDA | 4.08 |
-| Beta | -0.66 | Gross margin | 43.18% |
-| RSI(14) | 36.6 | Operating margin | 32.11% |
-| ATR(14) | 1.36 | Profit margin | 9.79% |
-| SMA20 dist | -8.86% | ROA | 17.09% |
-| SMA50 dist | -8.67% | ROE | 27.57% |
-| SMA200 dist | +4.39% | Revenue (ttm) | $120.57B |
-| 52W high | $48.38 | Revenue growth y/y | 26.60% |
-| 52W low | $21.48 | Inst. ownership | 6.61% |
-| P/E (ttm) | 8.23 | Insider ownership | 0.00% |
-| Forward P/E | 7.97 | Short float | 2.69% |
-| PEG (trailing) | 0.90 | Avg volume | 3,977,306 |
-| P/S | 0.78 | Employees | 23,545 |
-| P/B | 4.20 | Analyst rec (1=buy..5=sell) | 3.1 |
+| Price | $39.69 | EV/Sales | — |
+| Market cap | — | EV/EBITDA | — |
+| Beta | — | Gross margin | — |
+| RSI(14) | 36.6 | Operating margin | — |
+| ATR(14) | 1.36 | Profit margin | — |
+| SMA20 dist | -8.86% | ROA | — |
+| SMA50 dist | -8.67% | ROE | — |
+| SMA200 dist | +4.39% | Revenue (ttm) | — |
+| 52W high | $48.38 | Revenue growth y/y | — |
+| 52W low | $21.48 | Inst. ownership | — |
+| P/E (ttm) | — | Insider ownership | — |
+| Forward P/E | — | Short float | — |
+| PEG (trailing) | 0.90 | Avg volume | 0 |
+| P/S | — | Employees | 0 |
+| P/B | — | Analyst rec (1=buy..5=sell) | — |
 
 ## 8. Analyst Actions
-| Date | Action | Firm | Rating change |
-|---|---|---|---|
-| 2026-09-28 | main | TD Cowen | Hold → Hold |
-| 2026-06-29 | main | TD Cowen | Hold → Hold |
-| 2026-06-05 | main | TD Cowen | Hold → Hold |
-| 2026-05-07 | main | TD Cowen | Hold → Hold |
-| 2026-03-20 | main | TD Cowen | Hold → Hold |
-| 2025-08-12 | down | JP Morgan | Neutral → Underweight |
-| 2025-05-22 | down | Barclays | Overweight → Equal-Weight |
-| 2025-05-07 | down | JP Morgan | Overweight → Neutral |
+_No recent analyst actions available from Yahoo._
 
 ## 9. Conclusion
-EQNR: High momentum / mixed fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+EQNR: High momentum / mixed fundamentals / low (expensive) value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

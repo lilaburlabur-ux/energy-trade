@@ -1,14 +1,14 @@
 # BWXT Research Report
-**BWX Technologies, Inc.** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**BWX Technologies** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `BWXT.research.19.11.2026`
 
 | Field | Value |
 |---|---|
 | Current price | $117.06 (2026-11-19, ~15-min delayed) |
-| Market cap | $10.73B |
-| Sector / Industry | Industrials / Aerospace & Defense |
-| Main theme | Aerospace & Defense — see catalysts below |
-| Current stance | Low technical momentum, mixed fundamentals, value: fair-to-demanding, risk: elevated. |
+| Market cap | — |
+| Sector / Industry | — / — |
+| Main theme | Semiconductors — see catalysts below |
+| Current stance | Low technical momentum, mixed fundamentals, value: low (expensive), risk: elevated. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-19.
 
@@ -17,11 +17,11 @@ Signed file: `BWXT.research.19.11.2026`
 |---|---|---|
 | Technical momentum | Low | Below SMA200 (-34.42%) with negative half-year (-42.11%). |
 | Fresh setup quality | Poor / broken | -50.76% from 52w high — base needs to rebuild. |
-| Fundamental quality | Mixed | Profit margin 10.41%, revenue growth 10.00%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 22.45, EV/Sales 3.40. |
-| Risk level | Elevated | Beta 0.72, ATR 4.9% of price, short float 5.03%. |
+| Fundamental quality | Mixed | Profit margin —, revenue growth —. |
+| Value attractiveness | Low (expensive) | Forward P/E —, EV/Sales —. |
+| Risk level | Elevated | Beta —, ATR 4.9% of price, short float —. |
 
-**Bottom line:** Low technical momentum, mixed fundamentals, value: fair-to-demanding, risk: elevated.
+**Bottom line:** Low technical momentum, mixed fundamentals, value: low (expensive), risk: elevated.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -30,7 +30,7 @@ Signed file: `BWXT.research.19.11.2026`
 - Can earnings convert fast enough to justify the valuation?
 
 ## 2. Company Overview and Recent Catalysts
-BWX Technologies, Inc. manufactures and sells nuclear components in the United States, Canada, and internationally. The company operates through two segments, Government Operations and Commercial Operations. It manufactures precision naval nuclear components, reactors, and nuclear fuel; close-tolerance and high-quality equipment for nuclear applications; critical nuclear components, fuels and assemblies for government and limited other uses; down blend government stockpiles of uranium; and fabricate fuel-bearing precision components.
+—
 
 **Recent headlines (potential catalysts):**
 
@@ -47,7 +47,7 @@ BWX Technologies, Inc. manufactures and sells nuclear components in the United S
 | Price vs 52-week range | Close $117.06; 52w high $237.73 (-50.76%); 52w low $114.96 (+1.83%) |
 | Trend | -34.42% vs SMA200, -12.87% vs SMA50, -6.82% vs SMA20 |
 | Momentum | RSI(14) 36.4 (neutral) |
-| Volatility | ATR(14) 5.74 (~4.9% of price); beta 0.72 |
+| Volatility | ATR(14) 5.74 (~4.9% of price); beta — |
 | Setup perspective | -50.76% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
@@ -64,42 +64,26 @@ BWX Technologies, Inc. manufactures and sells nuclear components in the United S
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
-| Next earnings | 2026-11-02 | Next scheduled report (Yahoo estimate) |
-| Revenue (ttm) | $3.60B | Revenue growth 10.00% y/y |
-| Profitability | Gross 22.61%, operating 10.42%, net 10.41% | ROA 5.49%, ROE 28.27% |
-| Balance sheet | Cash $568.53M, debt $2.02B | Current ratio 1.88, debt/equity 142.56 |
-| Valuation | P/E 28.76, forward P/E 22.45, P/S 2.98, P/B 7.56 | EV/Sales 3.40, EV/EBITDA 24.66 |
-| Growth expectations | Earnings growth 24.60%, EPS q/q 23.90% | Analyst mean target $199.19 (16 analysts) |
+| Next earnings | — | Next scheduled report (Yahoo estimate) |
+| Revenue (ttm) | — | Revenue growth — y/y |
+| Profitability | Gross —, operating —, net — | ROA —, ROE — |
+| Balance sheet | Cash —, debt — | Current ratio —, debt/equity — |
+| Valuation | P/E —, forward P/E —, P/S —, P/B — | EV/Sales —, EV/EBITDA — |
+| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $— (— analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 91.44% |
-| Insider ownership | 0.36% |
-| Short float | 5.03% |
-| Short ratio (days to cover) | 3.1 |
-
-**Top institutional holders:**
-
-| Holder | Shares | % Out | Reported |
-|---|---|---|---|
-| Blackrock Inc. | 11,182,315 | 12.20% | 2026-09-30 |
-| Vanguard Portfolio Management LLC | 4,679,960 | 5.11% | 2026-09-30 |
-| Vanguard Capital Management LLC | 4,129,182 | 4.51% | 2026-09-30 |
-| State Street Corporation | 3,972,923 | 4.34% | 2026-09-30 |
-| JPMORGAN CHASE & CO | 2,358,439 | 2.57% | 2026-09-30 |
-| First Trust Advisors LP | 2,298,507 | 2.51% | 2026-09-30 |
-| Franklin Templeton, Inc. | 1,883,880 | 2.06% | 2026-09-30 |
-| Geode Capital Management, LLC | 1,841,134 | 2.01% | 2026-09-30 |
-| Alkeon Capital Management LLC | 1,832,748 | 2.00% | 2026-09-30 |
-| Select Equity Group LP | 1,755,692 | 1.92% | 2026-09-30 |
+| Institutional ownership | — |
+| Insider ownership | — |
+| Short float | — |
+| Short ratio (days to cover) | — |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 22.45, EV/Sales 3.40. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 0.72, ATR 4.9% of price, short float 5.03%. Size positions accordingly.
-- **Short interest risk:** short float 5.03% can fuel squeezes both ways around news.
+- **Valuation risk:** Forward P/E —, EV/Sales —. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta —, ATR 4.9% of price, short float —. Size positions accordingly.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
-- **Macro/sector risk:** defense/aerospace names live and die on government budgets, appropriations timing, and program/contract awards — revenue is policy-driven and lumpy.
+- **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
 | Question | Pass condition |
@@ -113,36 +97,27 @@ BWX Technologies, Inc. manufactures and sells nuclear components in the United S
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $117.06 | EV/Sales | 3.40 |
-| Market cap | $10.73B | EV/EBITDA | 24.66 |
-| Beta | 0.72 | Gross margin | 22.61% |
-| RSI(14) | 36.4 | Operating margin | 10.42% |
-| ATR(14) | 5.74 | Profit margin | 10.41% |
-| SMA20 dist | -6.82% | ROA | 5.49% |
-| SMA50 dist | -12.87% | ROE | 28.27% |
-| SMA200 dist | -34.42% | Revenue (ttm) | $3.60B |
-| 52W high | $237.73 | Revenue growth y/y | 10.00% |
-| 52W low | $114.96 | Inst. ownership | 91.44% |
-| P/E (ttm) | 28.76 | Insider ownership | 0.36% |
-| Forward P/E | 22.45 | Short float | 5.03% |
-| PEG (trailing) | — | Avg volume | 1,257,690 |
-| P/S | 2.98 | Employees | 10,400 |
-| P/B | 7.56 | Analyst rec (1=buy..5=sell) | 1.6 |
+| Price | $117.06 | EV/Sales | — |
+| Market cap | — | EV/EBITDA | — |
+| Beta | — | Gross margin | — |
+| RSI(14) | 36.4 | Operating margin | — |
+| ATR(14) | 5.74 | Profit margin | — |
+| SMA20 dist | -6.82% | ROA | — |
+| SMA50 dist | -12.87% | ROE | — |
+| SMA200 dist | -34.42% | Revenue (ttm) | — |
+| 52W high | $237.73 | Revenue growth y/y | — |
+| 52W low | $114.96 | Inst. ownership | — |
+| P/E (ttm) | — | Insider ownership | — |
+| Forward P/E | — | Short float | — |
+| PEG (trailing) | — | Avg volume | 0 |
+| P/S | — | Employees | 0 |
+| P/B | — | Analyst rec (1=buy..5=sell) | — |
 
 ## 8. Analyst Actions
-| Date | Action | Firm | Rating change |
-|---|---|---|---|
-| 2026-10-13 | main | JP Morgan | Overweight → Overweight |
-| 2026-10-06 | main | Truist Securities | Hold → Hold |
-| 2026-09-30 | main | Northland Capital Markets | Outperform → Outperform |
-| 2026-09-30 | main | B of A Securities | Buy → Buy |
-| 2026-09-30 | reit | Guggenheim | Buy → Buy |
-| 2026-09-30 | reit | BTIG | Buy → Buy |
-| 2026-09-24 | main | BNP Paribas | Neutral → Neutral |
-| 2026-09-15 | init | Guggenheim | — → Buy |
+_No recent analyst actions available from Yahoo._
 
 ## 9. Conclusion
-BWXT: Low momentum / mixed fundamentals / fair-to-demanding value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+BWXT: Low momentum / mixed fundamentals / low (expensive) value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

@@ -1,14 +1,14 @@
 # RUN Research Report
-**Sunrun Inc.** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**Sunrun** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `RUN.research.19.11.2026`
 
 | Field | Value |
 |---|---|
 | Current price | $7.12 (2026-11-19, ~15-min delayed) |
-| Market cap | $1.72B |
-| Sector / Industry | Technology / Solar |
-| Main theme | Solar — see catalysts below |
-| Current stance | Low technical momentum, mixed fundamentals, value: fair-to-demanding, risk: high. |
+| Market cap | — |
+| Sector / Industry | — / — |
+| Main theme | Semiconductors — see catalysts below |
+| Current stance | Low technical momentum, mixed fundamentals, value: low (expensive), risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-19.
 
@@ -17,11 +17,11 @@ Signed file: `RUN.research.19.11.2026`
 |---|---|---|
 | Technical momentum | Low | Below SMA200 (-39.08%) with negative half-year (-50.71%). |
 | Fresh setup quality | Poor / broken | -66.74% from 52w high — base needs to rebuild. |
-| Fundamental quality | Mixed | Profit margin 14.01%, revenue growth 51.70%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 31.25, EV/Sales 4.70. |
-| Risk level | High | Beta 2.32, ATR 8.6% of price, short float 35.14%. |
+| Fundamental quality | Mixed | Profit margin —, revenue growth —. |
+| Value attractiveness | Low (expensive) | Forward P/E —, EV/Sales —. |
+| Risk level | High | Beta —, ATR 8.6% of price, short float —. |
 
-**Bottom line:** Low technical momentum, mixed fundamentals, value: fair-to-demanding, risk: high.
+**Bottom line:** Low technical momentum, mixed fundamentals, value: low (expensive), risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -30,7 +30,7 @@ Signed file: `RUN.research.19.11.2026`
 - Can earnings convert fast enough to justify the valuation?
 
 ## 2. Company Overview and Recent Catalysts
-Sunrun Inc. designs, develops, installs, sells, owns, and maintains residential solar energy systems in the United States. The company sells solar energy systems and products, such as panels and racking; and solar leads generated to customers. It offers battery storage along with solar energy systems; and sells services to commercial developers through multi-family and new homes. Its primary customers are residential homeowners.
+—
 
 **Recent headlines (potential catalysts):**
 
@@ -47,7 +47,7 @@ Sunrun Inc. designs, develops, installs, sells, owns, and maintains residential 
 | Price vs 52-week range | Close $7.12; 52w high $21.41 (-66.74%); 52w low $6.89 (+3.34%) |
 | Trend | -39.08% vs SMA200, -11.52% vs SMA50, -14.00% vs SMA20 |
 | Momentum | RSI(14) 38.3 (neutral) |
-| Volatility | ATR(14) 0.61 (~8.6% of price); beta 2.32 |
+| Volatility | ATR(14) 0.61 (~8.6% of price); beta — |
 | Setup perspective | -66.74% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
@@ -64,40 +64,24 @@ Sunrun Inc. designs, develops, installs, sells, owns, and maintains residential 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
-| Next earnings | 2026-11-04 | Next scheduled report (Yahoo estimate) |
-| Revenue (ttm) | $3.85B | Revenue growth 51.70% y/y |
-| Profitability | Gross 37.73%, operating 6.29%, net 14.01% | ROA 0.65%, ROE -11.81% |
-| Balance sheet | Cash $734.53M, debt $15.34B | Current ratio 1.52, debt/equity 283.43 |
-| Valuation | P/E 3.60, forward P/E 31.25, P/S 0.45, P/B 0.47 | EV/Sales 4.70, EV/EBITDA 17.98 |
-| Growth expectations | Earnings growth 772.80%, EPS q/q 823.80% | Analyst mean target $13.59 (17 analysts) |
+| Next earnings | — | Next scheduled report (Yahoo estimate) |
+| Revenue (ttm) | — | Revenue growth — y/y |
+| Profitability | Gross —, operating —, net — | ROA —, ROE — |
+| Balance sheet | Cash —, debt — | Current ratio —, debt/equity — |
+| Valuation | P/E —, forward P/E —, P/S —, P/B — | EV/Sales —, EV/EBITDA — |
+| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $— (— analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 108.25% |
-| Insider ownership | 2.76% |
-| Short float | 35.14% |
-| Short ratio (days to cover) | 8.6 |
-
-**Top institutional holders:**
-
-| Holder | Shares | % Out | Reported |
-|---|---|---|---|
-| Blackrock Inc. | 42,495,370 | 17.56% | 2026-09-30 |
-| Goldman Sachs Group Inc | 13,577,116 | 5.61% | 2026-09-30 |
-| Greenvale Capital, LLP | 13,311,465 | 5.50% | 2026-09-30 |
-| Vanguard Portfolio Management LLC | 13,236,865 | 5.47% | 2026-09-30 |
-| Shaw D.E. & Co., Inc. | 10,729,006 | 4.43% | 2026-09-30 |
-| State Street Corporation | 10,505,779 | 4.34% | 2026-09-30 |
-| Vanguard Capital Management LLC | 10,353,657 | 4.28% | 2026-09-30 |
-| PGGM Investments | 9,546,965 | 3.95% | 2026-09-30 |
-| Grantham, Mayo, Van Otterloo & Co. LLC | 9,497,351 | 3.93% | 2026-09-30 |
-| Invesco Ltd. | 6,984,605 | 2.89% | 2026-09-30 |
+| Institutional ownership | — |
+| Insider ownership | — |
+| Short float | — |
+| Short ratio (days to cover) | — |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 31.25, EV/Sales 4.70. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 2.32, ATR 8.6% of price, short float 35.14%. Size positions accordingly.
-- **Short interest risk:** short float 35.14% can fuel squeezes both ways around news.
+- **Valuation risk:** Forward P/E —, EV/Sales —. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta —, ATR 8.6% of price, short float —. Size positions accordingly.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -113,36 +97,27 @@ Sunrun Inc. designs, develops, installs, sells, owns, and maintains residential 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $7.12 | EV/Sales | 4.70 |
-| Market cap | $1.72B | EV/EBITDA | 17.98 |
-| Beta | 2.32 | Gross margin | 37.73% |
-| RSI(14) | 38.3 | Operating margin | 6.29% |
-| ATR(14) | 0.61 | Profit margin | 14.01% |
-| SMA20 dist | -14.00% | ROA | 0.65% |
-| SMA50 dist | -11.52% | ROE | -11.81% |
-| SMA200 dist | -39.08% | Revenue (ttm) | $3.85B |
-| 52W high | $21.41 | Revenue growth y/y | 51.70% |
-| 52W low | $6.89 | Inst. ownership | 108.25% |
-| P/E (ttm) | 3.60 | Insider ownership | 2.76% |
-| Forward P/E | 31.25 | Short float | 35.14% |
-| PEG (trailing) | — | Avg volume | 9,207,285 |
-| P/S | 0.45 | Employees | 9,059 |
-| P/B | 0.47 | Analyst rec (1=buy..5=sell) | 2.0 |
+| Price | $7.12 | EV/Sales | — |
+| Market cap | — | EV/EBITDA | — |
+| Beta | — | Gross margin | — |
+| RSI(14) | 38.3 | Operating margin | — |
+| ATR(14) | 0.61 | Profit margin | — |
+| SMA20 dist | -14.00% | ROA | — |
+| SMA50 dist | -11.52% | ROE | — |
+| SMA200 dist | -39.08% | Revenue (ttm) | — |
+| 52W high | $21.41 | Revenue growth y/y | — |
+| 52W low | $6.89 | Inst. ownership | — |
+| P/E (ttm) | — | Insider ownership | — |
+| Forward P/E | — | Short float | — |
+| PEG (trailing) | — | Avg volume | 0 |
+| P/S | — | Employees | 0 |
+| P/B | — | Analyst rec (1=buy..5=sell) | — |
 
 ## 8. Analyst Actions
-| Date | Action | Firm | Rating change |
-|---|---|---|---|
-| 2026-11-06 | main | RBC Capital | Outperform → Outperform |
-| 2026-11-05 | main | JP Morgan | Overweight → Overweight |
-| 2026-11-05 | main | Citigroup | Buy → Buy |
-| 2026-10-19 | main | JP Morgan | Overweight → Overweight |
-| 2026-10-14 | main | Morgan Stanley | Equal-Weight → Equal-Weight |
-| 2026-10-14 | main | Susquehanna | Positive → Positive |
-| 2026-10-09 | main | Citigroup | Buy → Buy |
-| 2026-10-09 | main | Barclays | Equal-Weight → Equal-Weight |
+_No recent analyst actions available from Yahoo._
 
 ## 9. Conclusion
-RUN: Low momentum / mixed fundamentals / fair-to-demanding value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+RUN: Low momentum / mixed fundamentals / low (expensive) value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

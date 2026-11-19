@@ -1,14 +1,14 @@
 # ENPH Research Report
-**Enphase Energy, Inc.** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**Enphase Energy** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `ENPH.research.19.11.2026`
 
 | Field | Value |
 |---|---|
 | Current price | $21.98 (2026-11-19, ~15-min delayed) |
-| Market cap | $2.91B |
-| Sector / Industry | Technology / Solar |
-| Main theme | Solar — see catalysts below |
-| Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: high. |
+| Market cap | — |
+| Sector / Industry | — / — |
+| Main theme | Semiconductors — see catalysts below |
+| Current stance | Low technical momentum, mixed fundamentals, value: low (expensive), risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-19.
 
@@ -17,11 +17,11 @@ Signed file: `ENPH.research.19.11.2026`
 |---|---|---|
 | Technical momentum | Low | Below SMA200 (-45.20%) with negative half-year (-64.74%). |
 | Fresh setup quality | Poor / broken | -69.61% from 52w high — base needs to rebuild. |
-| Fundamental quality | Mixed | Profit margin 7.49%, revenue growth -28.50%. |
-| Value attractiveness | Reasonable | Forward P/E 16.53, EV/Sales 2.21. |
-| Risk level | High | Beta 1.45, ATR 9.0% of price, short float 24.85%. |
+| Fundamental quality | Mixed | Profit margin —, revenue growth —. |
+| Value attractiveness | Low (expensive) | Forward P/E —, EV/Sales —. |
+| Risk level | High | Beta —, ATR 9.0% of price, short float —. |
 
-**Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: high.
+**Bottom line:** Low technical momentum, mixed fundamentals, value: low (expensive), risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -30,7 +30,7 @@ Signed file: `ENPH.research.19.11.2026`
 - Can earnings convert fast enough to justify the valuation?
 
 ## 2. Company Overview and Recent Catalysts
-Enphase Energy, Inc., together with its subsidiaries, designs, develops, manufactures, and sells home energy solutions for the solar photovoltaic industry in the United States and internationally. The company offers semiconductor-based microinverter that converts energy at the individual solar module level and combines with its proprietary networking and software technologies to provide energy monitoring and control.
+—
 
 **Recent headlines (potential catalysts):**
 
@@ -47,7 +47,7 @@ Enphase Energy, Inc., together with its subsidiaries, designs, develops, manufac
 | Price vs 52-week range | Close $21.98; 52w high $72.33 (-69.61%); 52w low $21.98 (+0.00%) |
 | Trend | -45.20% vs SMA200, -28.57% vs SMA50, -19.50% vs SMA20 |
 | Momentum | RSI(14) 29.4 (oversold) |
-| Volatility | ATR(14) 1.97 (~9.0% of price); beta 1.45 |
+| Volatility | ATR(14) 1.97 (~9.0% of price); beta — |
 | Setup perspective | -69.61% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
@@ -64,39 +64,24 @@ Enphase Energy, Inc., together with its subsidiaries, designs, develops, manufac
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
-| Next earnings | 2026-10-27 | Next scheduled report (Yahoo estimate) |
-| Revenue (ttm) | $1.21B | Revenue growth -28.50% y/y |
-| Profitability | Gross 24.10%, operating 0.65%, net 7.49% | ROA 0.16%, ROE 8.11% |
-| Balance sheet | Cash $931.85M, debt $614.56M | Current ratio 4.09, debt/equity 49.48 |
-| Valuation | P/E 32.81, forward P/E 16.53, P/S 2.40, P/B 2.34 | EV/Sales 2.21, EV/EBITDA 31.92 |
-| Growth expectations | Earnings growth -65.20%, EPS q/q -64.90% | Analyst mean target $39.42 (25 analysts) |
+| Next earnings | — | Next scheduled report (Yahoo estimate) |
+| Revenue (ttm) | — | Revenue growth — y/y |
+| Profitability | Gross —, operating —, net — | ROA —, ROE — |
+| Balance sheet | Cash —, debt — | Current ratio —, debt/equity — |
+| Valuation | P/E —, forward P/E —, P/S —, P/B — | EV/Sales —, EV/EBITDA — |
+| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $— (— analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 93.86% |
-| Insider ownership | 3.08% |
-| Short float | 24.85% |
-| Short ratio (days to cover) | 4.2 |
-
-**Top institutional holders:**
-
-| Holder | Shares | % Out | Reported |
-|---|---|---|---|
-| Blackrock Inc. | 23,400,941 | 17.69% | 2026-09-30 |
-| Vanguard Portfolio Management LLC | 8,942,597 | 6.76% | 2026-09-30 |
-| Slate Path Capital, LP | 5,896,570 | 4.46% | 2026-09-30 |
-| Vanguard Capital Management LLC | 5,729,664 | 4.33% | 2026-09-30 |
-| State Street Corporation | 4,746,637 | 3.59% | 2026-09-30 |
-| Gilder Gagnon Howe & Co LLC | 3,460,626 | 2.62% | 2026-09-30 |
-| Invesco Ltd. | 3,030,370 | 2.29% | 2026-09-30 |
-| Two Sigma Investments, LP | 2,540,178 | 1.92% | 2026-09-30 |
-| Geode Capital Management, LLC | 2,481,329 | 1.88% | 2026-09-30 |
-| First Trust Advisors LP | 2,324,864 | 1.76% | 2026-09-30 |
+| Institutional ownership | — |
+| Insider ownership | — |
+| Short float | — |
+| Short ratio (days to cover) | — |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.45, ATR 9.0% of price, short float 24.85%. Size positions accordingly.
-- **Short interest risk:** short float 24.85% can fuel squeezes both ways around news.
+- **Valuation risk:** Forward P/E —, EV/Sales —. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta —, ATR 9.0% of price, short float —. Size positions accordingly.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -112,36 +97,27 @@ Enphase Energy, Inc., together with its subsidiaries, designs, develops, manufac
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $21.98 | EV/Sales | 2.21 |
-| Market cap | $2.91B | EV/EBITDA | 31.92 |
-| Beta | 1.45 | Gross margin | 24.10% |
-| RSI(14) | 29.4 | Operating margin | 0.65% |
-| ATR(14) | 1.97 | Profit margin | 7.49% |
-| SMA20 dist | -19.50% | ROA | 0.16% |
-| SMA50 dist | -28.57% | ROE | 8.11% |
-| SMA200 dist | -45.20% | Revenue (ttm) | $1.21B |
-| 52W high | $72.33 | Revenue growth y/y | -28.50% |
-| 52W low | $21.98 | Inst. ownership | 93.86% |
-| P/E (ttm) | 32.81 | Insider ownership | 3.08% |
-| Forward P/E | 16.53 | Short float | 24.85% |
-| PEG (trailing) | 0.75 | Avg volume | 5,815,700 |
-| P/S | 2.40 | Employees | 2,872 |
-| P/B | 2.34 | Analyst rec (1=buy..5=sell) | 2.4 |
+| Price | $21.98 | EV/Sales | — |
+| Market cap | — | EV/EBITDA | — |
+| Beta | — | Gross margin | — |
+| RSI(14) | 29.4 | Operating margin | — |
+| ATR(14) | 1.97 | Profit margin | — |
+| SMA20 dist | -19.50% | ROA | — |
+| SMA50 dist | -28.57% | ROE | — |
+| SMA200 dist | -45.20% | Revenue (ttm) | — |
+| 52W high | $72.33 | Revenue growth y/y | — |
+| 52W low | $21.98 | Inst. ownership | — |
+| P/E (ttm) | — | Insider ownership | — |
+| Forward P/E | — | Short float | — |
+| PEG (trailing) | 0.75 | Avg volume | 0 |
+| P/S | — | Employees | 0 |
+| P/B | — | Analyst rec (1=buy..5=sell) | — |
 
 ## 8. Analyst Actions
-| Date | Action | Firm | Rating change |
-|---|---|---|---|
-| 2026-10-30 | main | Citigroup | Neutral → Neutral |
-| 2026-10-29 | main | Barclays | Equal-Weight → Equal-Weight |
-| 2026-10-28 | main | JP Morgan | Neutral → Neutral |
-| 2026-10-28 | main | BMO Capital | Market Perform → Market Perform |
-| 2026-10-28 | main | Goldman Sachs | Buy → Buy |
-| 2026-10-28 | main | RBC Capital | Outperform → Outperform |
-| 2026-10-28 | main | Wells Fargo | Overweight → Overweight |
-| 2026-10-28 | main | Susquehanna | Neutral → Neutral |
+_No recent analyst actions available from Yahoo._
 
 ## 9. Conclusion
-ENPH: Low momentum / mixed fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+ENPH: Low momentum / mixed fundamentals / low (expensive) value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

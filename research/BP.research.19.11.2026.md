@@ -1,14 +1,14 @@
 # BP Research Report
-**BP p.l.c.** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
+**BP** — Technical + Fundamental Analysis, Data Snapshot, Institutional Investors
 Signed file: `BP.research.19.11.2026`
 
 | Field | Value |
 |---|---|
 | Current price | $43.21 (2026-11-19, ~15-min delayed) |
-| Market cap | $111.29B |
-| Sector / Industry | Energy / Oil & Gas Integrated |
-| Main theme | Oil & Gas Integrated — see catalysts below |
-| Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
+| Market cap | — |
+| Sector / Industry | — / — |
+| Main theme | Semiconductors — see catalysts below |
+| Current stance | Moderate technical momentum, mixed fundamentals, value: low (expensive), risk: moderate. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-19.
 
@@ -17,11 +17,11 @@ Signed file: `BP.research.19.11.2026`
 |---|---|---|
 | Technical momentum | Moderate | 1Y +23.55%; price +1.49% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -14.84% from 52w high; no clean fresh pivot by default. |
-| Fundamental quality | Mixed | Profit margin 3.84%, revenue growth 41.40%. |
-| Value attractiveness | Reasonable | Forward P/E 7.05, EV/Sales 2.10. |
-| Risk level | Moderate | Beta -0.26, ATR 2.7% of price, short float 0.31%. |
+| Fundamental quality | Mixed | Profit margin —, revenue growth —. |
+| Value attractiveness | Low (expensive) | Forward P/E —, EV/Sales —. |
+| Risk level | Moderate | Beta —, ATR 2.7% of price, short float —. |
 
-**Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
+**Bottom line:** Moderate technical momentum, mixed fundamentals, value: low (expensive), risk: moderate.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -30,7 +30,7 @@ Signed file: `BP.research.19.11.2026`
 - Can earnings convert fast enough to justify the valuation?
 
 ## 2. Company Overview and Recent Catalysts
-BP p.l.c., an integrated energy company, engages in the oil and gas business worldwide. The company operates through Gas & Low Carbon Energy, Oil Production & Operations, and Customers & Products segments. It engages in the production of natural gas, marketing, and trading activities, as well as solar, wind, and hydrogen businesses. The company also offers aviation fuel products and services, such as jet fuel; aviation gasoline; UL91 aviation fuel; and sustainable aviation fuel.
+—
 
 **Recent headlines (potential catalysts):**
 
@@ -47,7 +47,7 @@ BP p.l.c., an integrated energy company, engages in the oil and gas business wor
 | Price vs 52-week range | Close $43.21; 52w high $50.74 (-14.84%); 52w low $31.75 (+36.08%) |
 | Trend | +1.49% vs SMA200, -5.78% vs SMA50, -6.65% vs SMA20 |
 | Momentum | RSI(14) 35.7 (neutral) |
-| Volatility | ATR(14) 1.15 (~2.7% of price); beta -0.26 |
+| Volatility | ATR(14) 1.15 (~2.7% of price); beta — |
 | Setup perspective | -14.84% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
@@ -64,37 +64,23 @@ BP p.l.c., an integrated energy company, engages in the oil and gas business wor
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
 |---|---|---|
-| Next earnings | 2026-10-30 | Next scheduled report (Yahoo estimate) |
-| Revenue (ttm) | $235.14B | Revenue growth 41.40% y/y |
-| Profitability | Gross 29.56%, operating 13.41%, net 3.84% | ROA 6.75%, ROE 13.42% |
-| Balance sheet | Cash $43.05B, debt $69.62B | Current ratio 1.29, debt/equity 87.47 |
-| Valuation | P/E 21.08, forward P/E 7.05, P/S 0.47, P/B 7.21 | EV/Sales 2.10, EV/EBITDA 10.46 |
-| Growth expectations | Earnings growth 305.00%, EPS q/q 304.50% | Analyst mean target $55.89 (19 analysts) |
+| Next earnings | — | Next scheduled report (Yahoo estimate) |
+| Revenue (ttm) | — | Revenue growth — y/y |
+| Profitability | Gross —, operating —, net — | ROA —, ROE — |
+| Balance sheet | Cash —, debt — | Current ratio —, debt/equity — |
+| Valuation | P/E —, forward P/E —, P/S —, P/B — | EV/Sales —, EV/EBITDA — |
+| Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $— (— analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 14.53% |
-| Insider ownership | 0.01% |
-| Short float | 0.31% |
-| Short ratio (days to cover) | 0.8 |
-
-**Top institutional holders:**
-
-| Holder | Shares | % Out | Reported |
-|---|---|---|---|
-| Fisher Asset Management, LLC | 65,437,382 | 2.50% | 2026-09-30 |
-| Acadian Asset Management. LLC | 25,263,597 | 0.96% | 2026-09-30 |
-| Arrowstreet Capital, Limited Partnership | 22,539,100 | 0.86% | 2026-09-30 |
-| Dimensional Fund Advisors LP | 19,461,415 | 0.74% | 2026-09-30 |
-| State Street Corporation | 14,169,182 | 0.54% | 2026-09-30 |
-| Goldman Sachs Group Inc | 10,990,534 | 0.42% | 2026-09-30 |
-| Morgan Stanley | 9,754,581 | 0.37% | 2026-09-30 |
-| Millennium Management Llc | 9,449,762 | 0.36% | 2026-09-30 |
-| Merewether Investment Management, LP | 8,105,272 | 0.31% | 2026-09-30 |
-| Point72 Asset Management, L.P. | 7,450,678 | 0.28% | 2026-09-30 |
+| Institutional ownership | — |
+| Insider ownership | — |
+| Short float | — |
+| Short ratio (days to cover) | — |
 
 ## 6. Risk Review and Setup Plan
+- **Valuation risk:** Forward P/E —, EV/Sales —. Multiple compression is the main downside if growth disappoints.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -109,36 +95,27 @@ BP p.l.c., an integrated energy company, engages in the oil and gas business wor
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $43.21 | EV/Sales | 2.10 |
-| Market cap | $111.29B | EV/EBITDA | 10.46 |
-| Beta | -0.26 | Gross margin | 29.56% |
-| RSI(14) | 35.7 | Operating margin | 13.41% |
-| ATR(14) | 1.15 | Profit margin | 3.84% |
-| SMA20 dist | -6.65% | ROA | 6.75% |
-| SMA50 dist | -5.78% | ROE | 13.42% |
-| SMA200 dist | +1.49% | Revenue (ttm) | $235.14B |
-| 52W high | $50.74 | Revenue growth y/y | 41.40% |
-| 52W low | $31.75 | Inst. ownership | 14.53% |
-| P/E (ttm) | 21.08 | Insider ownership | 0.01% |
-| Forward P/E | 7.05 | Short float | 0.31% |
-| PEG (trailing) | 0.04 | Avg volume | 9,069,612 |
-| P/S | 0.47 | Employees | 93,700 |
-| P/B | 7.21 | Analyst rec (1=buy..5=sell) | 2.2 |
+| Price | $43.21 | EV/Sales | — |
+| Market cap | — | EV/EBITDA | — |
+| Beta | — | Gross margin | — |
+| RSI(14) | 35.7 | Operating margin | — |
+| ATR(14) | 1.15 | Profit margin | — |
+| SMA20 dist | -6.65% | ROA | — |
+| SMA50 dist | -5.78% | ROE | — |
+| SMA200 dist | +1.49% | Revenue (ttm) | — |
+| 52W high | $50.74 | Revenue growth y/y | — |
+| 52W low | $31.75 | Inst. ownership | — |
+| P/E (ttm) | — | Insider ownership | — |
+| Forward P/E | — | Short float | — |
+| PEG (trailing) | 0.04 | Avg volume | 0 |
+| P/S | — | Employees | 0 |
+| P/B | — | Analyst rec (1=buy..5=sell) | — |
 
 ## 8. Analyst Actions
-| Date | Action | Firm | Rating change |
-|---|---|---|---|
-| 2026-11-02 | main | Evercore ISI Group | In-Line → In-Line |
-| 2026-11-02 | main | Wells Fargo | Overweight → Overweight |
-| 2026-10-20 | main | TD Cowen | Hold → Hold |
-| 2026-10-05 | main | Mizuho | Outperform → Outperform |
-| 2026-10-01 | up | Wells Fargo | Equal-Weight → Overweight |
-| 2026-09-28 | main | TD Cowen | Hold → Hold |
-| 2026-09-25 | up | HSBC | Hold → Buy |
-| 2026-09-23 | up | JP Morgan | Neutral → Overweight |
+_No recent analyst actions available from Yahoo._
 
 ## 9. Conclusion
-BP: Moderate momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+BP: Moderate momentum / mixed fundamentals / low (expensive) value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |
