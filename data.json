@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-19T03:31:28+00:00",
-  "as_of_local": "2026-11-19 03:31:28 UTC",
+  "as_of_utc": "2026-11-19T03:46:47+00:00",
+  "as_of_local": "2026-11-19 03:46:47 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "UEC"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1659,6 +1657,34 @@
       ]
     },
     {
+      "symbol": "UEC",
+      "name": "Uranium Energy Corp",
+      "price": 5.92,
+      "previous_close": 6.07,
+      "change_pct": -2.47,
+      "market_cap": 2933861254.6101093,
+      "headlines": [
+        {
+          "title": "The Best Uranium Stocks to Buy and Hold as Nuclear Power Expands",
+          "url": "https://finance.yahoo.com/energy/articles/best-uranium-stocks-buy-hold-100000182.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-12T10:00:00Z"
+        },
+        {
+          "title": "Purepoint Uranium CEO explains why rising uranium prices aren't lifting stocks",
+          "url": "https://finance.yahoo.com/news/purepoint-uranium-ceo-explains-why-151300252.html",
+          "publisher": "Proactive",
+          "published": "2026-11-06T15:13:00Z"
+        },
+        {
+          "title": "Is Uranium Energy (UEC) Priced Too Richly On Book Value?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/uranium-energy-uec-priced-too-002024703.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-06T00:20:24Z"
+        }
+      ]
+    },
+    {
       "symbol": "LEU",
       "name": "Centrus Energy",
       "price": 91.76,
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 81.86,
-      "change_pct": -4.83
+      "price": 81.84,
+      "change_pct": -4.85
     },
     {
       "label": "Brent",
-      "price": 88.94,
-      "change_pct": -4.51
+      "price": 89.03,
+      "change_pct": -4.41
     },
     {
       "label": "NatGas",
-      "price": 3.39,
-      "change_pct": 5.61
+      "price": 3.38,
+      "change_pct": 5.27
     }
   ]
 }
