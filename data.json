@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-19T10:31:10+00:00",
-  "as_of_local": "2026-11-19 10:31:10 UTC",
+  "as_of_utc": "2026-11-19T10:36:06+00:00",
+  "as_of_local": "2026-11-19 10:36:06 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "ET"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -673,34 +675,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/66-old-swapped-qyld-jepq-185931164.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-17T18:59:31Z"
-        }
-      ]
-    },
-    {
-      "symbol": "ET",
-      "name": "Energy Transfer",
-      "price": 19.03,
-      "previous_close": 19.16,
-      "change_pct": -0.68,
-      "market_cap": 65544121502.62029,
-      "headlines": [
-        {
-          "title": "3 Pipeline Dividends Built for a Roth IRA, and Why Pipeline Partnerships May Not Be",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-pipeline-dividends-built-roth-194751819.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-18T19:47:51Z"
-        },
-        {
-          "title": "5 \u201cForever Income\u201d Dividend Stocks Yielding 5% and More for Boomers",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/5-forever-income-dividend-stocks-174556089.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-17T17:45:56Z"
-        },
-        {
-          "title": "4 High-Yield Energy Stocks That Get Paid to Move Oil and Gas",
-          "url": "https://finance.yahoo.com/energy/articles/4-high-yield-energy-stocks-141753664.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-16T14:17:53Z"
         }
       ]
     },
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 82.71,
-      "change_pct": -0.66
+      "price": 82.52,
+      "change_pct": -0.89
     },
     {
       "label": "Brent",
-      "price": 89.69,
-      "change_pct": -2.46
+      "price": 89.58,
+      "change_pct": -2.58
     },
     {
       "label": "NatGas",
       "price": 3.36,
-      "change_pct": -0.39
+      "change_pct": -0.3
     }
   ]
 }
