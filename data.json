@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-19T13:53:59+00:00",
-  "as_of_local": "2026-11-19 13:53:59 UTC",
+  "as_of_utc": "2026-11-19T13:59:07+00:00",
+  "as_of_local": "2026-11-19 13:59:07 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -909,6 +909,12 @@
       "market_cap": 50551379422.038345,
       "headlines": [
         {
+          "title": "Should You Buy Bloom Energy With $500 Right Now?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/buy-bloom-energy-500-now-135003442.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-19T13:50:03Z"
+        },
+        {
           "title": "Bloom Energy upgraded at BMO as Anthropic IPO revives AI infrastructure trade",
           "url": "https://finance.yahoo.com/technology/ai/articles/bloom-energy-upgraded-bmo-anthropic-131136589.html",
           "publisher": "Investing.com",
@@ -919,12 +925,6 @@
           "url": "https://www.barrons.com/articles/stock-movers-ddc27426?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
           "published": "2026-11-19T11:33:00Z"
-        },
-        {
-          "title": "EXCLUSIVE: AI Data Centers Face Years Waiting for Grid Power. Bloom Says They Don\u2019t Have to Wait",
-          "url": "https://finance.yahoo.com/technology/ai/articles/exclusive-ai-data-centers-face-195026251.html",
-          "publisher": "Benzinga Prediction Markets",
-          "published": "2026-11-18T19:50:20Z"
         }
       ]
     },
@@ -2120,13 +2120,13 @@
     },
     {
       "label": "Brent",
-      "price": 90.04,
-      "change_pct": -2.08
+      "price": 90.02,
+      "change_pct": -2.1
     },
     {
       "label": "NatGas",
-      "price": 3.38,
-      "change_pct": 0.18
+      "price": 3.41,
+      "change_pct": 1.07
     }
   ]
 }
