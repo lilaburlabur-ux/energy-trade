@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-19T07:48:46+00:00",
-  "as_of_local": "2026-11-19 07:48:46 UTC",
+  "as_of_utc": "2026-11-19T08:03:59+00:00",
+  "as_of_local": "2026-11-19 08:03:59 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "SEDG"
+    "OKLO"
   ],
   "stocks": [
     {
@@ -1603,34 +1603,6 @@
       ]
     },
     {
-      "symbol": "OKLO",
-      "name": "Oklo",
-      "price": 21.8,
-      "previous_close": 22.37,
-      "change_pct": -2.55,
-      "market_cap": 4257312978.4058647,
-      "headlines": [
-        {
-          "title": "Who Is Paying For X-Energy's Cash Burn?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/paying-x-energys-cash-burn-170957572.html",
-          "publisher": "Trefis",
-          "published": "2026-11-18T17:09:57Z"
-        },
-        {
-          "title": "NuScale Sinks 22% in a Week to a 52-Week Low as Canada\u2019s First SMR Runs Late. Is the Selling Overdone?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nuscale-sinks-22-week-52-024801932.html",
-          "publisher": "TIKR",
-          "published": "2026-11-18T02:48:01Z"
-        },
-        {
-          "title": "How to Play OKLO Stock as Oklo Secures Key Fuel Supply for Its Ohio Plant",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/play-oklo-stock-oklo-secures-195124026.html",
-          "publisher": "Barchart",
-          "published": "2026-11-17T19:51:24Z"
-        }
-      ]
-    },
-    {
       "symbol": "ENPH",
       "name": "Enphase Energy",
       "price": 22.66,
@@ -1795,6 +1767,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/risky-usa-rare-earth-stock-192847047.html",
           "publisher": "Trefis",
           "published": "2026-11-17T19:28:47Z"
+        }
+      ]
+    },
+    {
+      "symbol": "SEDG",
+      "name": "SolarEdge",
+      "price": 21.01,
+      "previous_close": 21.72,
+      "change_pct": -3.27,
+      "market_cap": 1300821579.1810818,
+      "headlines": [
+        {
+          "title": "Did The Market Read First Solar Stock Right?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/did-market-read-first-solar-154151558.html",
+          "publisher": "Trefis",
+          "published": "2026-11-18T15:41:51Z"
+        },
+        {
+          "title": "Solar Stocks Rebound After A Brutal Rout: Is The Worst Over For ENPH, FSLR, CSIQ, SEDG Stocks?",
+          "url": "https://finance.yahoo.com/energy/articles/solar-stocks-rebound-brutal-rout-025353544.html",
+          "publisher": "Stocktwits",
+          "published": "2026-11-18T02:53:53Z"
+        },
+        {
+          "title": "First Solar and Enphase Fall 5% as Solar Selloff Stretches On; SolarEdge Drops 4%",
+          "url": "https://finance.yahoo.com/energy/articles/first-solar-enphase-fall-5-185832430.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-17T18:58:32Z"
         }
       ]
     },
@@ -2089,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 82.41,
-      "change_pct": -1.02
+      "price": 82.23,
+      "change_pct": -1.24
     },
     {
       "label": "Brent",
-      "price": 89.55,
-      "change_pct": -2.61
+      "price": 89.28,
+      "change_pct": -2.9
     },
     {
       "label": "NatGas",
       "price": 3.35,
-      "change_pct": -0.71
+      "change_pct": -0.77
     }
   ]
 }
