@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-19T06:17:40+00:00",
-  "as_of_local": "2026-11-19 06:17:40 UTC",
+  "as_of_utc": "2026-11-19T06:32:42+00:00",
+  "as_of_local": "2026-11-19 06:32:42 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "BKR"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -983,6 +981,34 @@
           "url": "https://finance.yahoo.com/energy/articles/eogs-janus-plant-expansion-strengthen-151700985.html",
           "publisher": "Zacks",
           "published": "2026-11-16T15:17:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "BKR",
+      "name": "Baker Hughes",
+      "price": 47.3,
+      "previous_close": 47.46,
+      "change_pct": -0.34,
+      "market_cap": 46972611015.24126,
+      "headlines": [
+        {
+          "title": "Baker Hughes & TPAO Partner on Next-Generation Geothermal in Turkiye",
+          "url": "https://finance.yahoo.com/energy/articles/baker-hughes-tpao-partner-next-113400937.html",
+          "publisher": "Zacks",
+          "published": "2026-11-18T11:34:00Z"
+        },
+        {
+          "title": "Nextchem agrees to buy Chart\u2019s LNG technologies for $220m",
+          "url": "https://finance.yahoo.com/news/nextchem-agrees-buy-chart-lng-102055516.html",
+          "publisher": "Offshore Technology",
+          "published": "2026-11-18T10:20:55Z"
+        },
+        {
+          "title": "A CNH Industrial Director Who Runs Baker Hughes Just Bought $567,000 of Stock",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/cnh-industrial-director-runs-baker-092632780.html",
+          "publisher": "TIKR",
+          "published": "2026-11-18T09:26:32Z"
         }
       ]
     },
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 82.39,
-      "change_pct": -1.04
+      "price": 82.3,
+      "change_pct": -1.15
     },
     {
       "label": "Brent",
-      "price": 89.45,
-      "change_pct": -2.72
+      "price": 89.41,
+      "change_pct": -2.76
     },
     {
       "label": "NatGas",
       "price": 3.37,
-      "change_pct": 0.06
+      "change_pct": -0.06
     }
   ]
 }
