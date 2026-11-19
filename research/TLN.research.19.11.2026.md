@@ -4,7 +4,7 @@ Signed file: `TLN.research.19.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-19, ~15-min delayed) |
+| Current price | $360.18 (2026-11-19, ~15-min delayed) |
 | Market cap | $15.67B |
 | Sector / Industry | Utilities / Utilities - Independent Power Producers |
 | Main theme | Utilities - Independent Power Producers — see catalysts below |
@@ -15,11 +15,11 @@ Signed file: `TLN.research.19.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y -2.30%; price +3.21% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -17.79% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Weak | Negative profit margin (-5.67%). |
 | Value attractiveness | Reasonable | Forward P/E 11.64, EV/Sales 5.56. |
-| Risk level | High | Beta 1.58, ATR nan% of price, short float 10.86%. |
+| Risk level | High | Beta 1.58, ATR 5.4% of price, short float 10.86%. |
 
 **Bottom line:** Moderate technical momentum, weak fundamentals, value: reasonable, risk: high.
 
@@ -44,22 +44,22 @@ Talen Energy Corporation, an independent power producer and infrastructure compa
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $438.12 (+nan%); 52w low $282.15 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 51.2 (neutral) |
-| Volatility | ATR(14) 20.06 (~nan% of price); beta 1.58 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $360.18; 52w high $438.12 (-17.79%); 52w low $282.15 (+27.66%) |
+| Trend | +3.21% vs SMA200, +6.91% vs SMA50, +2.98% vs SMA20 |
+| Momentum | RSI(14) 52.9 (neutral) |
+| Volatility | ATR(14) 19.47 (~5.4% of price); beta 1.58 |
+| Setup perspective | -17.79% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -4.9% |
+| Month | +3.1% |
+| Quarter | +13.6% |
+| Half Y | +4.6% |
+| 1Y | -2.3% |
+| YTD | -9.2% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -95,7 +95,7 @@ Talen Energy Corporation, an independent power producer and infrastructure compa
 | Sachem Head Capital Management, LP | 1,157,500 | 1.96% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.58, ATR nan% of price, short float 10.86%. Size positions accordingly.
+- **Volatility risk:** Beta 1.58, ATR 5.4% of price, short float 10.86%. Size positions accordingly.
 - **Short interest risk:** short float 10.86% can fuel squeezes both ways around news.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
@@ -112,14 +112,14 @@ Talen Energy Corporation, an independent power producer and infrastructure compa
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 5.56 |
+| Price | $360.18 | EV/Sales | 5.56 |
 | Market cap | $15.67B | EV/EBITDA | 36.98 |
 | Beta | 1.58 | Gross margin | 42.67% |
-| RSI(14) | 51.2 | Operating margin | 3.33% |
-| ATR(14) | 20.06 | Profit margin | -5.67% |
-| SMA20 dist | +nan% | ROA | 0.88% |
-| SMA50 dist | +nan% | ROE | -16.54% |
-| SMA200 dist | +nan% | Revenue (ttm) | $4.48B |
+| RSI(14) | 52.9 | Operating margin | 3.33% |
+| ATR(14) | 19.47 | Profit margin | -5.67% |
+| SMA20 dist | +2.98% | ROA | 0.88% |
+| SMA50 dist | +6.91% | ROE | -16.54% |
+| SMA200 dist | +3.21% | Revenue (ttm) | $4.48B |
 | 52W high | $438.12 | Revenue growth y/y | 96.10% |
 | 52W low | $282.15 | Inst. ownership | 113.75% |
 | P/E (ttm) | — | Insider ownership | 1.50% |

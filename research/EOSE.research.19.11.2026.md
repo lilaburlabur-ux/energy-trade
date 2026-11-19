@@ -4,24 +4,24 @@ Signed file: `EOSE.research.19.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-19, ~15-min delayed) |
+| Current price | $1.48 (2026-11-19, ~15-min delayed) |
 | Market cap | $542.22M |
 | Sector / Industry | Industrials / Electrical Equipment & Parts |
 | Main theme | Electrical Equipment & Parts — see catalysts below |
-| Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: high. |
+| Current stance | Low technical momentum, strong fundamentals, value: reasonable, risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-19.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-72.15%) with negative half-year (-79.18%). |
+| Fresh setup quality | Poor / broken | -91.88% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 89.23%, revenue growth 171.10%. |
 | Value attractiveness | Reasonable | Forward P/E -6.48, EV/Sales 5.33. |
-| Risk level | High | Beta 3.17, ATR nan% of price, short float 37.88%. |
+| Risk level | High | Beta 3.17, ATR 16.4% of price, short float 37.88%. |
 
-**Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: high.
+**Bottom line:** Low technical momentum, strong fundamentals, value: reasonable, risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -44,22 +44,22 @@ Eos Energy Enterprises, Inc. designs, develops, manufactures, and markets energy
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $18.22 (+nan%); 52w low $1.49 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 36.7 (neutral) |
-| Volatility | ATR(14) 0.25 (~nan% of price); beta 3.17 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $1.48; 52w high $18.22 (-91.88%); 52w low $1.48 (+0.00%) |
+| Trend | -72.15% vs SMA200, -42.31% vs SMA50, -18.07% vs SMA20 |
+| Momentum | RSI(14) 36.5 (neutral) |
+| Volatility | ATR(14) 0.24 (~16.4% of price); beta 3.17 |
+| Setup perspective | -91.88% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -25.6% |
+| Month | -11.9% |
+| Quarter | -57.2% |
+| Half Y | -79.2% |
+| 1Y | -88.6% |
+| YTD | -88.6% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -95,8 +95,9 @@ Eos Energy Enterprises, Inc. designs, develops, manufactures, and markets energy
 | Morgan Stanley | 4,581,787 | 1.25% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 3.17, ATR nan% of price, short float 37.88%. Size positions accordingly.
+- **Volatility risk:** Beta 3.17, ATR 16.4% of price, short float 37.88%. Size positions accordingly.
 - **Short interest risk:** short float 37.88% can fuel squeezes both ways around news.
+- **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -111,16 +112,16 @@ Eos Energy Enterprises, Inc. designs, develops, manufactures, and markets energy
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 5.33 |
+| Price | $1.48 | EV/Sales | 5.33 |
 | Market cap | $542.22M | EV/EBITDA | -4.76 |
 | Beta | 3.17 | Gross margin | -72.00% |
-| RSI(14) | 36.7 | Operating margin | -121.15% |
-| ATR(14) | 0.25 | Profit margin | 89.23% |
-| SMA20 dist | +nan% | ROA | -28.89% |
-| SMA50 dist | +nan% | ROE | — |
-| SMA200 dist | +nan% | Revenue (ttm) | $266.47M |
+| RSI(14) | 36.5 | Operating margin | -121.15% |
+| ATR(14) | 0.24 | Profit margin | 89.23% |
+| SMA20 dist | -18.07% | ROA | -28.89% |
+| SMA50 dist | -42.31% | ROE | — |
+| SMA200 dist | -72.15% | Revenue (ttm) | $266.47M |
 | 52W high | $18.22 | Revenue growth y/y | 171.10% |
-| 52W low | $1.49 | Inst. ownership | 52.59% |
+| 52W low | $1.48 | Inst. ownership | 52.59% |
 | P/E (ttm) | — | Insider ownership | 1.38% |
 | Forward P/E | -6.48 | Short float | 37.88% |
 | PEG (trailing) | — | Avg volume | 26,851,939 |
@@ -140,7 +141,7 @@ Eos Energy Enterprises, Inc. designs, develops, manufactures, and markets energy
 | 2026-08-06 | main | Stifel | Buy → Buy |
 
 ## 9. Conclusion
-EOSE: Moderate momentum / strong fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+EOSE: Low momentum / strong fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

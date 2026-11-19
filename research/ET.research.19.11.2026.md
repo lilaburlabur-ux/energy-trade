@@ -4,24 +4,24 @@ Signed file: `ET.research.19.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-19, ~15-min delayed) |
+| Current price | $19.03 (2026-11-19, ~15-min delayed) |
 | Market cap | $65.54B |
 | Sector / Industry | Energy / Oil & Gas Midstream |
 | Main theme | Oil & Gas Midstream — see catalysts below |
-| Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
+| Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-19.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-0.50%) with negative half-year (-2.28%). |
+| Fresh setup quality | Moderate / wait | -10.83% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 4.39%, revenue growth 85.90%. |
 | Value attractiveness | Reasonable | Forward P/E 10.75, EV/Sales 1.24. |
-| Risk level | Moderate | Beta 0.60, ATR nan% of price, short float 0.87%. |
+| Risk level | Moderate | Beta 0.60, ATR 2.2% of price, short float 0.87%. |
 
-**Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
+**Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -44,22 +44,22 @@ Energy Transfer LP, together with its subsidiaries, provides energy-related serv
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $21.34 (+nan%); 52w low $15.11 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 40.9 (neutral) |
-| Volatility | ATR(14) 0.42 (~nan% of price); beta 0.60 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $19.03; 52w high $21.34 (-10.83%); 52w low $15.11 (+25.95%) |
+| Trend | -0.50% vs SMA200, -4.59% vs SMA50, -2.96% vs SMA20 |
+| Momentum | RSI(14) 38.9 (neutral) |
+| Volatility | ATR(14) 0.41 (~2.2% of price); beta 0.60 |
+| Setup perspective | -10.83% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -2.2% |
+| Month | -0.9% |
+| Quarter | -8.6% |
+| Half Y | -2.3% |
+| 1Y | +20.5% |
+| YTD | +23.1% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -109,14 +109,14 @@ Energy Transfer LP, together with its subsidiaries, provides energy-related serv
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 1.24 |
+| Price | $19.03 | EV/Sales | 1.24 |
 | Market cap | $65.54B | EV/EBITDA | 8.57 |
 | Beta | 0.60 | Gross margin | 15.84% |
-| RSI(14) | 40.9 | Operating margin | 9.39% |
-| ATR(14) | 0.42 | Profit margin | 4.39% |
-| SMA20 dist | +nan% | ROA | 5.24% |
-| SMA50 dist | +nan% | ROE | 15.57% |
-| SMA200 dist | +nan% | Revenue (ttm) | $124.53B |
+| RSI(14) | 38.9 | Operating margin | 9.39% |
+| ATR(14) | 0.41 | Profit margin | 4.39% |
+| SMA20 dist | -2.96% | ROA | 5.24% |
+| SMA50 dist | -4.59% | ROE | 15.57% |
+| SMA200 dist | -0.50% | Revenue (ttm) | $124.53B |
 | 52W high | $21.34 | Revenue growth y/y | 85.90% |
 | 52W low | $15.11 | Inst. ownership | 32.46% |
 | P/E (ttm) | 12.60 | Insider ownership | 10.29% |
@@ -138,7 +138,7 @@ Energy Transfer LP, together with its subsidiaries, provides energy-related serv
 | 2026-08-05 | main | Barclays | Overweight → Overweight |
 
 ## 9. Conclusion
-ET: Moderate momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+ET: Low momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

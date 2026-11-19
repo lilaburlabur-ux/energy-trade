@@ -4,24 +4,24 @@ Signed file: `KMI.research.19.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-19, ~15-min delayed) |
+| Current price | $31.36 (2026-11-19, ~15-min delayed) |
 | Market cap | $69.86B |
 | Sector / Industry | Energy / Oil & Gas Midstream |
 | Main theme | Oil & Gas Midstream — see catalysts below |
-| Current stance | Moderate technical momentum, mixed fundamentals, value: fair-to-demanding, risk: moderate. |
+| Current stance | Low technical momentum, mixed fundamentals, value: fair-to-demanding, risk: moderate. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-19.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-1.00%) with negative half-year (-4.93%). |
+| Fresh setup quality | Moderate / wait | -8.11% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 19.64%, revenue growth 9.30%. |
 | Value attractiveness | Fair-to-demanding | Forward P/E 20.33, EV/Sales 5.65. |
-| Risk level | Moderate | Beta 0.57, ATR nan% of price, short float 2.22%. |
+| Risk level | Moderate | Beta 0.57, ATR 2.6% of price, short float 2.22%. |
 
-**Bottom line:** Moderate technical momentum, mixed fundamentals, value: fair-to-demanding, risk: moderate.
+**Bottom line:** Low technical momentum, mixed fundamentals, value: fair-to-demanding, risk: moderate.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -44,22 +44,22 @@ Kinder Morgan, Inc. operates as an energy infrastructure company primarily in No
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $34.13 (+nan%); 52w low $25.37 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 47.8 (neutral) |
-| Volatility | ATR(14) 0.84 (~nan% of price); beta 0.57 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $31.36; 52w high $34.13 (-8.11%); 52w low $25.37 (+23.59%) |
+| Trend | -1.00% vs SMA200, -1.41% vs SMA50, -2.65% vs SMA20 |
+| Momentum | RSI(14) 45.2 (neutral) |
+| Volatility | ATR(14) 0.82 (~2.6% of price); beta 0.57 |
+| Setup perspective | -8.11% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -0.7% |
+| Month | -5.8% |
+| Quarter | +0.1% |
+| Half Y | -4.9% |
+| 1Y | +19.9% |
+| YTD | +17.4% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -110,14 +110,14 @@ Kinder Morgan, Inc. operates as an energy infrastructure company primarily in No
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 5.65 |
+| Price | $31.36 | EV/Sales | 5.65 |
 | Market cap | $69.86B | EV/EBITDA | 13.49 |
 | Beta | 0.57 | Gross margin | 48.65% |
-| RSI(14) | 47.8 | Operating margin | 28.58% |
-| ATR(14) | 0.84 | Profit margin | 19.64% |
-| SMA20 dist | +nan% | ROA | 4.44% |
-| SMA50 dist | +nan% | ROE | 11.43% |
-| SMA200 dist | +nan% | Revenue (ttm) | $18.34B |
+| RSI(14) | 45.2 | Operating margin | 28.58% |
+| ATR(14) | 0.82 | Profit margin | 19.64% |
+| SMA20 dist | -2.65% | ROA | 4.44% |
+| SMA50 dist | -1.41% | ROE | 11.43% |
+| SMA200 dist | -1.00% | Revenue (ttm) | $18.34B |
 | 52W high | $34.13 | Revenue growth y/y | 9.30% |
 | 52W low | $25.37 | Inst. ownership | 71.05% |
 | P/E (ttm) | 19.36 | Insider ownership | 12.70% |
@@ -139,7 +139,7 @@ Kinder Morgan, Inc. operates as an energy infrastructure company primarily in No
 | 2026-10-22 | up | Freedom Broker | Hold → Buy |
 
 ## 9. Conclusion
-KMI: Moderate momentum / mixed fundamentals / fair-to-demanding value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+KMI: Low momentum / mixed fundamentals / fair-to-demanding value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

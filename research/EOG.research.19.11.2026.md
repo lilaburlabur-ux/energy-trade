@@ -4,7 +4,7 @@ Signed file: `EOG.research.19.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-19, ~15-min delayed) |
+| Current price | $149.69 (2026-11-19, ~15-min delayed) |
 | Market cap | $77.61B |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
@@ -15,11 +15,11 @@ Signed file: `EOG.research.19.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +41.08%; price +8.24% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -9.57% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 28.06%, revenue growth 42.70%. |
 | Value attractiveness | Reasonable | Forward P/E 8.80, EV/Sales 2.75. |
-| Risk level | Moderate | Beta 0.27, ATR nan% of price, short float 3.62%. |
+| Risk level | Moderate | Beta 0.27, ATR 2.9% of price, short float 3.62%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate.
 
@@ -44,22 +44,22 @@ EOG Resources, Inc., together with its subsidiaries, explores for, develops, pro
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $165.54 (+nan%); 52w low $98.64 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 52.4 (neutral) |
-| Volatility | ATR(14) 4.27 (~nan% of price); beta 0.27 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $149.69; 52w high $165.54 (-9.57%); 52w low $98.64 (+51.75%) |
+| Trend | +8.24% vs SMA200, -0.19% vs SMA50, -3.87% vs SMA20 |
+| Momentum | RSI(14) 44.9 (neutral) |
+| Volatility | ATR(14) 4.39 (~2.9% of price); beta 0.27 |
+| Setup perspective | -9.57% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -2.7% |
+| Month | -5.2% |
+| Quarter | -1.0% |
+| Half Y | +7.2% |
+| 1Y | +41.1% |
+| YTD | +44.0% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -109,14 +109,14 @@ EOG Resources, Inc., together with its subsidiaries, explores for, develops, pro
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 2.75 |
+| Price | $149.69 | EV/Sales | 2.75 |
 | Market cap | $77.61B | EV/EBITDA | 4.99 |
 | Beta | 0.27 | Gross margin | 62.98% |
-| RSI(14) | 52.4 | Operating margin | 35.47% |
-| ATR(14) | 4.27 | Profit margin | 28.06% |
-| SMA20 dist | +nan% | ROA | 11.90% |
-| SMA50 dist | +nan% | ROE | 25.83% |
-| SMA200 dist | +nan% | Revenue (ttm) | $29.17B |
+| RSI(14) | 44.9 | Operating margin | 35.47% |
+| ATR(14) | 4.39 | Profit margin | 28.06% |
+| SMA20 dist | -3.87% | ROA | 11.90% |
+| SMA50 dist | -0.19% | ROE | 25.83% |
+| SMA200 dist | +8.24% | Revenue (ttm) | $29.17B |
 | 52W high | $165.54 | Revenue growth y/y | 42.70% |
 | 52W low | $98.64 | Inst. ownership | 96.80% |
 | P/E (ttm) | 9.66 | Insider ownership | 0.29% |

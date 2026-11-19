@@ -4,7 +4,7 @@ Signed file: `DUK.research.19.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-19, ~15-min delayed) |
+| Current price | $130.05 (2026-11-19, ~15-min delayed) |
 | Market cap | $101.40B |
 | Sector / Industry | Utilities / Utilities - Regulated Electric |
 | Main theme | Utilities - Regulated Electric — see catalysts below |
@@ -15,11 +15,11 @@ Signed file: `DUK.research.19.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +7.52%; price +5.91% vs SMA200. |
+| Fresh setup quality | Watch | -0.41% from 52w high and near SMA20 — check for a tight base. |
 | Fundamental quality | Mixed | Profit margin 16.16%, revenue growth 6.60%. |
 | Value attractiveness | Reasonable | Forward P/E 18.15, EV/Sales 5.93. |
-| Risk level | Moderate | Beta 0.31, ATR nan% of price, short float 2.57%. |
+| Risk level | Moderate | Beta 0.31, ATR 1.6% of price, short float 2.57%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
@@ -44,22 +44,22 @@ Duke Energy Corporation, through its subsidiaries, operates as an energy company
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $130.59 (+nan%); 52w low $110.15 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 66.5 (neutral) |
-| Volatility | ATR(14) 2.15 (~nan% of price); beta 0.31 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $130.05; 52w high $130.59 (-0.41%); 52w low $110.15 (+18.06%) |
+| Trend | +5.91% vs SMA200, +8.11% vs SMA50, +2.58% vs SMA20 |
+| Momentum | RSI(14) 67.0 (neutral) |
+| Volatility | ATR(14) 2.13 (~1.6% of price); beta 0.31 |
+| Setup perspective | -0.41% from 52w high and near SMA20 — check for a tight base. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | +1.9% |
+| Month | +8.1% |
+| Quarter | +6.9% |
+| Half Y | +6.9% |
+| 1Y | +7.5% |
+| YTD | +14.6% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -95,6 +95,7 @@ Duke Energy Corporation, through its subsidiaries, operates as an energy company
 | Bank of America Corporation | 9,279,009 | 1.19% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
+- **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -109,14 +110,14 @@ Duke Energy Corporation, through its subsidiaries, operates as an energy company
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 5.93 |
+| Price | $130.05 | EV/Sales | 5.93 |
 | Market cap | $101.40B | EV/EBITDA | 11.81 |
 | Beta | 0.31 | Gross margin | 52.58% |
-| RSI(14) | 66.5 | Operating margin | 27.77% |
-| ATR(14) | 2.15 | Profit margin | 16.16% |
-| SMA20 dist | +nan% | ROA | 2.92% |
-| SMA50 dist | +nan% | ROE | 10.10% |
-| SMA200 dist | +nan% | Revenue (ttm) | $33.37B |
+| RSI(14) | 67.0 | Operating margin | 27.77% |
+| ATR(14) | 2.13 | Profit margin | 16.16% |
+| SMA20 dist | +2.58% | ROA | 2.92% |
+| SMA50 dist | +8.11% | ROE | 10.10% |
+| SMA200 dist | +5.91% | Revenue (ttm) | $33.37B |
 | 52W high | $130.59 | Revenue growth y/y | 6.60% |
 | 52W low | $110.15 | Inst. ownership | 70.93% |
 | P/E (ttm) | 19.07 | Insider ownership | 0.13% |
