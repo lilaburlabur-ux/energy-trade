@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-19T00:30:06+00:00",
-  "as_of_local": "2026-11-19 00:30:06 UTC",
+  "as_of_utc": "2026-11-19T00:35:07+00:00",
+  "as_of_local": "2026-11-19 00:35:07 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "SU"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -591,6 +589,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-stock-173-still-175447048.html",
           "publisher": "Trefis",
           "published": "2026-11-18T17:54:47Z"
+        }
+      ]
+    },
+    {
+      "symbol": "SU",
+      "name": "Suncor Energy",
+      "price": 64.91,
+      "previous_close": 68.22,
+      "change_pct": -4.85,
+      "market_cap": 74725969115.02905,
+      "headlines": [
+        {
+          "title": "Suncor vs. Cenovus: Which Canadian Energy Stock Is the Better Buy?",
+          "url": "https://finance.yahoo.com/energy/articles/suncor-vs-cenovus-canadian-energy-141900207.html",
+          "publisher": "Zacks",
+          "published": "2026-11-18T14:19:00Z"
+        },
+        {
+          "title": "Zacks.com featured highlights include Avnet, ATI, Farmers & Merchants, Semtech and Suncor",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-com-featured-highlights-avnet-093600283.html",
+          "publisher": "Zacks",
+          "published": "2026-11-17T09:36:00Z"
+        },
+        {
+          "title": "Why Is Suncor Energy (TSX:SU) Rethinking Its In Situ Growth Plans?",
+          "url": "https://finance.yahoo.com/energy/articles/why-suncor-energy-tsx-su-043414518.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-17T04:34:14Z"
         }
       ]
     },
@@ -2089,8 +2115,8 @@
     },
     {
       "label": "WTI",
-      "price": 81.93,
-      "change_pct": -4.74
+      "price": 81.92,
+      "change_pct": -4.76
     },
     {
       "label": "Brent",
@@ -2100,7 +2126,7 @@
     {
       "label": "NatGas",
       "price": 3.39,
-      "change_pct": 5.7
+      "change_pct": 5.8
     }
   ]
 }
