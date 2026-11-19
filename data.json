@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-19T05:07:01+00:00",
-  "as_of_local": "2026-11-19 05:07:01 UTC",
+  "as_of_utc": "2026-11-19T05:12:10+00:00",
+  "as_of_local": "2026-11-19 05:12:10 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NXT"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1405,34 +1407,6 @@
       ]
     },
     {
-      "symbol": "NXT",
-      "name": "Nextracker",
-      "price": 78.41,
-      "previous_close": 78.48,
-      "change_pct": -0.09,
-      "market_cap": 11806628250.774078,
-      "headlines": [
-        {
-          "title": "Why You Need To Pay Attention To Nextpower Stock",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-pay-attention-nextpower-stock-164042595.html",
-          "publisher": "Trefis",
-          "published": "2026-11-18T16:40:42Z"
-        },
-        {
-          "title": "Why Did Nextpower Stock Fall?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-nextpower-stock-fall-120451917.html",
-          "publisher": "Trefis",
-          "published": "2026-11-18T12:04:51Z"
-        },
-        {
-          "title": "Nextpower (NXT) Just Got Hammered \u2014 These 2 Firms Hold The Reason",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nextpower-nxt-just-got-hammered-060420135.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-11-18T06:04:20Z"
-        }
-      ]
-    },
-    {
       "symbol": "AR",
       "name": "Antero Resources",
       "price": 36.64,
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 83.26,
-      "change_pct": -3.2
+      "price": 82.26,
+      "change_pct": -1.2
     },
     {
       "label": "Brent",
-      "price": 91.95,
-      "change_pct": -1.28
+      "price": 89.38,
+      "change_pct": -2.79
     },
     {
       "label": "NatGas",
-      "price": 3.37,
-      "change_pct": 5.11
+      "price": 3.39,
+      "change_pct": 0.42
     }
   ]
 }
