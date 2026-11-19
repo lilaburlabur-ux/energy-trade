@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-19T03:26:27+00:00",
-  "as_of_local": "2026-11-19 03:26:27 UTC",
+  "as_of_utc": "2026-11-19T03:31:28+00:00",
+  "as_of_local": "2026-11-19 03:31:28 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "UEC"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -515,7 +517,26 @@
       "previous_close": 36.82,
       "change_pct": -0.98,
       "market_cap": 78629811148.24928,
-      "headlines": []
+      "headlines": [
+        {
+          "title": "3 Pipeline Dividends Built for a Roth IRA, and Why Pipeline Partnerships May Not Be",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-pipeline-dividends-built-roth-194751819.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-18T19:47:51Z"
+        },
+        {
+          "title": "Enterprise Products or BP: The One Dividend Stock I\u2019d Hold for the Next 10 Years",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/enterprise-products-bp-one-dividend-151757190.html",
+          "publisher": "TIKR",
+          "published": "2026-11-18T15:17:57Z"
+        },
+        {
+          "title": "Here is What to Know Beyond Why Enterprise Products Partners L.P. (EPD) is a Trending Stock",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/know-beyond-why-enterprise-products-130003745.html",
+          "publisher": "Zacks",
+          "published": "2026-11-18T13:00:03Z"
+        }
+      ]
     },
     {
       "symbol": "EOG",
@@ -1638,34 +1659,6 @@
       ]
     },
     {
-      "symbol": "UEC",
-      "name": "Uranium Energy Corp",
-      "price": 5.92,
-      "previous_close": 6.07,
-      "change_pct": -2.47,
-      "market_cap": 2933861254.6101093,
-      "headlines": [
-        {
-          "title": "The Best Uranium Stocks to Buy and Hold as Nuclear Power Expands",
-          "url": "https://finance.yahoo.com/energy/articles/best-uranium-stocks-buy-hold-100000182.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-12T10:00:00Z"
-        },
-        {
-          "title": "Purepoint Uranium CEO explains why rising uranium prices aren't lifting stocks",
-          "url": "https://finance.yahoo.com/news/purepoint-uranium-ceo-explains-why-151300252.html",
-          "publisher": "Proactive",
-          "published": "2026-11-06T15:13:00Z"
-        },
-        {
-          "title": "Is Uranium Energy (UEC) Priced Too Richly On Book Value?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/uranium-energy-uec-priced-too-002024703.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-06T00:20:24Z"
-        }
-      ]
-    },
-    {
       "symbol": "LEU",
       "name": "Centrus Energy",
       "price": 91.76,
@@ -2096,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 81.79,
-      "change_pct": -4.91
+      "price": 81.86,
+      "change_pct": -4.83
     },
     {
       "label": "Brent",
-      "price": 88.86,
-      "change_pct": -4.6
+      "price": 88.94,
+      "change_pct": -4.51
     },
     {
       "label": "NatGas",
       "price": 3.39,
-      "change_pct": 5.58
+      "change_pct": 5.61
     }
   ]
 }
