@@ -4,8 +4,8 @@ Signed file: `MPLX.research.19.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $57.38 (2026-11-19, ~15-min delayed) |
-| Market cap | $58.13B |
+| Current price | $56.24 (2026-11-19, ~15-min delayed) |
+| Market cap | $56.97B |
 | Sector / Industry | Energy / Oil & Gas Midstream |
 | Main theme | Oil & Gas Midstream — see catalysts below |
 | Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `MPLX.research.19.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +17.53%; price +4.02% vs SMA200. |
-| Fresh setup quality | Watch | -2.65% from 52w high and near SMA20 — check for a tight base. |
+| Technical momentum | Moderate | 1Y +15.05%; price +1.91% vs SMA200. |
+| Fresh setup quality | Watch | -4.58% from 52w high and near SMA20 — check for a tight base. |
 | Fundamental quality | Strong | Profit margin 35.03%, revenue growth 12.70%. |
-| Value attractiveness | Reasonable | Forward P/E 11.97, EV/Sales 6.78. |
-| Risk level | Moderate | Beta 0.45, ATR 1.8% of price, short float 1.88%. |
+| Value attractiveness | Reasonable | Forward P/E 11.73, EV/Sales 6.78. |
+| Risk level | Moderate | Beta 0.45, ATR 1.9% of price, short float 1.88%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate.
 
@@ -36,30 +36,30 @@ MPLX LP owns and operates midstream energy infrastructure and logistics assets p
 
 | Headline | Source | Date |
 |---|---|---|
+| 2 Dividend Stocks Could Generate $30,000 a Year, but the Allocation Matters | 24/7 Wall St. | 2026-11-19 |
 | Zacks Industry Outlook Highlights Kinder Morgan, The Williams and MPLX LP | Zacks | 2026-11-17 |
 | 4 High-Yield Energy Stocks That Get Paid to Move Oil and Gas | 24/7 Wall St. | 2026-11-16 |
 | 3 Oil & Gas Pipeline Stocks Offering Resilience in Uncertain Times | Zacks | 2026-11-16 |
-| 6 Energy Dividend Stocks Yielding Up to 7.97% That Income Investors Should Know | 24/7 Wall St. | 2026-11-13 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $57.38; 52w high $58.94 (-2.65%); 52w low $48.28 (+18.84%) |
-| Trend | +4.02% vs SMA200, +1.05% vs SMA50, +0.61% vs SMA20 |
-| Momentum | RSI(14) 54.2 (neutral) |
-| Volatility | ATR(14) 1.05 (~1.8% of price); beta 0.45 |
-| Setup perspective | -2.65% from 52w high and near SMA20 — check for a tight base. |
+| Price vs 52-week range | Close $56.24; 52w high $58.94 (-4.58%); 52w low $48.28 (+16.48%) |
+| Trend | +1.91% vs SMA200, -0.88% vs SMA50, -1.33% vs SMA20 |
+| Momentum | RSI(14) 45.4 (neutral) |
+| Volatility | ATR(14) 1.08 (~1.9% of price); beta 0.45 |
+| Setup perspective | -4.58% from 52w high and near SMA20 — check for a tight base. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +1.1% |
-| Month | +0.4% |
-| Quarter | +0.1% |
-| Half Y | +7.7% |
-| 1Y | +17.5% |
-| YTD | +15.2% |
+| Week | -0.6% |
+| Month | -1.7% |
+| Quarter | -1.6% |
+| Half Y | +5.2% |
+| 1Y | +15.0% |
+| YTD | +12.9% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ MPLX LP owns and operates midstream energy infrastructure and logistics assets p
 | Revenue (ttm) | $12.41B | Revenue growth 12.70% y/y |
 | Profitability | Gross 54.82%, operating 38.30%, net 35.03% | ROA 6.79%, ROE 30.44% |
 | Balance sheet | Cash $1.30B, debt $27.09B | Current ratio 1.56, debt/equity 189.56 |
-| Valuation | P/E 13.41, forward P/E 11.97, P/S 4.68, P/B 4.13 | EV/Sales 6.78, EV/EBITDA 13.55 |
+| Valuation | P/E 13.14, forward P/E 11.73, P/S 4.59, P/B 4.05 | EV/Sales 6.78, EV/EBITDA 13.55 |
 | Growth expectations | Earnings growth -24.30%, EPS q/q -24.70% | Analyst mean target $62.31 (13 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 19.29% |
+| Institutional ownership | 19.34% |
 | Insider ownership | 64.08% |
 | Short float | 1.88% |
 | Short ratio (days to cover) | 5.5 |
@@ -110,21 +110,21 @@ MPLX LP owns and operates midstream energy infrastructure and logistics assets p
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $57.38 | EV/Sales | 6.78 |
-| Market cap | $58.13B | EV/EBITDA | 13.55 |
+| Price | $56.24 | EV/Sales | 6.78 |
+| Market cap | $56.97B | EV/EBITDA | 13.55 |
 | Beta | 0.45 | Gross margin | 54.82% |
-| RSI(14) | 54.2 | Operating margin | 38.30% |
-| ATR(14) | 1.05 | Profit margin | 35.03% |
-| SMA20 dist | +0.61% | ROA | 6.79% |
-| SMA50 dist | +1.05% | ROE | 30.44% |
-| SMA200 dist | +4.02% | Revenue (ttm) | $12.41B |
+| RSI(14) | 45.4 | Operating margin | 38.30% |
+| ATR(14) | 1.08 | Profit margin | 35.03% |
+| SMA20 dist | -1.33% | ROA | 6.79% |
+| SMA50 dist | -0.88% | ROE | 30.44% |
+| SMA200 dist | +1.91% | Revenue (ttm) | $12.41B |
 | 52W high | $58.94 | Revenue growth y/y | 12.70% |
-| 52W low | $48.28 | Inst. ownership | 19.29% |
-| P/E (ttm) | 13.41 | Insider ownership | 64.08% |
-| Forward P/E | 11.97 | Short float | 1.88% |
-| PEG (trailing) | 3.02 | Avg volume | 1,468,932 |
-| P/S | 4.68 | Employees | 0 |
-| P/B | 4.13 | Analyst rec (1=buy..5=sell) | 2.4 |
+| 52W low | $48.28 | Inst. ownership | 19.34% |
+| P/E (ttm) | 13.14 | Insider ownership | 64.08% |
+| Forward P/E | 11.73 | Short float | 1.88% |
+| PEG (trailing) | 3.02 | Avg volume | 1,477,256 |
+| P/S | 4.59 | Employees | 0 |
+| P/B | 4.05 | Analyst rec (1=buy..5=sell) | 2.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

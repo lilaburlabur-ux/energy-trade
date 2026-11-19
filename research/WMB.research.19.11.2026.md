@@ -4,8 +4,8 @@ Signed file: `WMB.research.19.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $67.23 (2026-11-19, ~15-min delayed) |
-| Market cap | $84.05B |
+| Current price | $66.45 (2026-11-19, ~15-min delayed) |
+| Market cap | $83.08B |
 | Sector / Industry | Energy / Oil & Gas Midstream |
 | Main theme | Oil & Gas Midstream — see catalysts below |
 | Current stance | Low technical momentum, strong fundamentals, value: fair-to-demanding, risk: elevated. |
@@ -15,10 +15,10 @@ Signed file: `WMB.research.19.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-6.53%) with negative half-year (-12.41%). |
-| Fresh setup quality | Moderate / wait | -14.08% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-7.63%) with negative half-year (-13.02%). |
+| Fresh setup quality | Moderate / wait | -15.08% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 24.66%, revenue growth 12.30%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 26.39, EV/Sales 9.63. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 26.08, EV/Sales 9.63. |
 | Risk level | Elevated | Beta 0.63, ATR 3.4% of price, short float 2.68%. |
 
 **Bottom line:** Low technical momentum, strong fundamentals, value: fair-to-demanding, risk: elevated.
@@ -36,30 +36,30 @@ The Williams Companies, Inc., together with its subsidiaries, operates as an ene
 
 | Headline | Source | Date |
 |---|---|---|
-| 3 Energy Stocks With Dividends Built to Last the Next 10 Years | Motley Fool | 2026-11-18 |
-| 3 Pipeline Dividends Built for a Roth IRA, and Why Pipeline Partnerships May Not Be | 24/7 Wall St. | 2026-11-18 |
-| Meet Wall Street’s Reliable High-Yield Dividend Stocks: 5 Companies That Pass the Yield Trap Test | 24/7 Wall St. | 2026-11-18 |
-| Are You Overpaying For Lowe's Stock Versus Its Rivals? | Trefis | 2026-11-17 |
+| How Many Shares of Kinder Morgan or Williams Pay $1,000 a Month in Dividends? | TIKR | 2026-11-19 |
+| Enterprise Products' Permian Expansion Supports Growth Prospects | Zacks | 2026-11-19 |
+| Williams (WMB) Stock Could Be Rich Despite Fresh Capital Spending News | Simply Wall St. | 2026-11-19 |
+| 3 Energy Stocks to Buy Before 2026 Ends That Could Help You Make a Fortune | Motley Fool | 2026-11-19 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $67.23; 52w high $78.25 (-14.08%); 52w low $57.01 (+17.94%) |
-| Trend | -6.53% vs SMA200, -4.85% vs SMA50, -3.63% vs SMA20 |
-| Momentum | RSI(14) 42.7 (neutral) |
-| Volatility | ATR(14) 2.31 (~3.4% of price); beta 0.63 |
-| Setup perspective | -14.08% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $66.45; 52w high $78.25 (-15.08%); 52w low $57.01 (+16.57%) |
+| Trend | -7.63% vs SMA200, -5.80% vs SMA50, -4.46% vs SMA20 |
+| Momentum | RSI(14) 40.7 (neutral) |
+| Volatility | ATR(14) 2.29 (~3.4% of price); beta 0.63 |
+| Setup perspective | -15.08% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -2.5% |
-| Month | -4.4% |
-| Quarter | -5.5% |
-| Half Y | -12.4% |
-| 1Y | +15.6% |
-| YTD | +12.9% |
+| Week | -4.3% |
+| Month | -8.7% |
+| Quarter | -5.0% |
+| Half Y | -13.0% |
+| 1Y | +15.7% |
+| YTD | +11.6% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ The Williams Companies, Inc., together with its subsidiaries, operates as an ene
 | Revenue (ttm) | $12.68B | Revenue growth 12.30% y/y |
 | Profitability | Gross 63.05%, operating 36.63%, net 24.66% | ROA 4.59%, ROE 18.31% |
 | Balance sheet | Cash $1.76B, debt $33.93B | Current ratio 0.75, debt/equity 157.88 |
-| Valuation | P/E 26.47, forward P/E 26.39, P/S 6.63, P/B 5.36 | EV/Sales 9.63, EV/EBITDA 17.35 |
+| Valuation | P/E 26.16, forward P/E 26.08, P/S 6.55, P/B 5.30 | EV/Sales 9.63, EV/EBITDA 17.35 |
 | Growth expectations | Earnings growth 5.90%, EPS q/q 8.20% | Analyst mean target $85.42 (24 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 90.79% |
+| Institutional ownership | 91.07% |
 | Insider ownership | 0.44% |
 | Short float | 2.68% |
 | Short ratio (days to cover) | 3.7 |
@@ -95,7 +95,7 @@ The Williams Companies, Inc., together with its subsidiaries, operates as an ene
 | JPMORGAN CHASE & CO | 20,869,822 | 1.67% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 26.39, EV/Sales 9.63. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 26.08, EV/Sales 9.63. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 0.63, ATR 3.4% of price, short float 2.68%. Size positions accordingly.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -111,21 +111,21 @@ The Williams Companies, Inc., together with its subsidiaries, operates as an ene
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $67.23 | EV/Sales | 9.63 |
-| Market cap | $84.05B | EV/EBITDA | 17.35 |
+| Price | $66.45 | EV/Sales | 9.63 |
+| Market cap | $83.08B | EV/EBITDA | 17.35 |
 | Beta | 0.63 | Gross margin | 63.05% |
-| RSI(14) | 42.7 | Operating margin | 36.63% |
-| ATR(14) | 2.31 | Profit margin | 24.66% |
-| SMA20 dist | -3.63% | ROA | 4.59% |
-| SMA50 dist | -4.85% | ROE | 18.31% |
-| SMA200 dist | -6.53% | Revenue (ttm) | $12.68B |
+| RSI(14) | 40.7 | Operating margin | 36.63% |
+| ATR(14) | 2.29 | Profit margin | 24.66% |
+| SMA20 dist | -4.46% | ROA | 4.59% |
+| SMA50 dist | -5.80% | ROE | 18.31% |
+| SMA200 dist | -7.63% | Revenue (ttm) | $12.68B |
 | 52W high | $78.25 | Revenue growth y/y | 12.30% |
-| 52W low | $57.01 | Inst. ownership | 90.79% |
-| P/E (ttm) | 26.47 | Insider ownership | 0.44% |
-| Forward P/E | 26.39 | Short float | 2.68% |
-| PEG (trailing) | 1.82 | Avg volume | 8,172,165 |
-| P/S | 6.63 | Employees | 5,987 |
-| P/B | 5.36 | Analyst rec (1=buy..5=sell) | 1.4 |
+| 52W low | $57.01 | Inst. ownership | 91.07% |
+| P/E (ttm) | 26.16 | Insider ownership | 0.44% |
+| Forward P/E | 26.08 | Short float | 2.68% |
+| PEG (trailing) | 1.81 | Avg volume | 8,182,432 |
+| P/S | 6.55 | Employees | 5,987 |
+| P/B | 5.30 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

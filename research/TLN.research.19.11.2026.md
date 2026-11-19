@@ -4,8 +4,8 @@ Signed file: `TLN.research.19.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $360.18 (2026-11-19, ~15-min delayed) |
-| Market cap | $15.67B |
+| Current price | $358.61 (2026-11-19, ~15-min delayed) |
+| Market cap | $15.60B |
 | Sector / Industry | Utilities / Utilities - Independent Power Producers |
 | Main theme | Utilities - Independent Power Producers — see catalysts below |
 | Current stance | Moderate technical momentum, weak fundamentals, value: reasonable, risk: high. |
@@ -15,10 +15,10 @@ Signed file: `TLN.research.19.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y -2.30%; price +3.21% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -17.79% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y -4.32%; price +2.70% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -18.15% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Weak | Negative profit margin (-5.67%). |
-| Value attractiveness | Reasonable | Forward P/E 11.64, EV/Sales 5.56. |
+| Value attractiveness | Reasonable | Forward P/E 11.14, EV/Sales 5.56. |
 | Risk level | High | Beta 1.58, ATR 5.4% of price, short float 10.86%. |
 
 **Bottom line:** Moderate technical momentum, weak fundamentals, value: reasonable, risk: high.
@@ -36,30 +36,30 @@ Talen Energy Corporation, an independent power producer and infrastructure compa
 
 | Headline | Source | Date |
 |---|---|---|
+| Bloom Energy Surpasses Its Industry in a Year: How to Play the Stock? | Zacks | 2026-11-19 |
 | Will OKLO's $3.1B Liquidity Cushion Advance Its Nuclear Plans? | Zacks | 2026-11-17 |
 | What Is Talen Energy (TLN) Signaling With Its 750 MW Capacity Deal? | Simply Wall St. | 2026-11-13 |
 | Can NuScale's TVA Deal Unlock Its First Major Module Order? | Zacks | 2026-11-12 |
-| Talen Energy's 750-MW Capacity Deal Boosts Long-Term Revenue Outlook | Zacks | 2026-11-12 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $360.18; 52w high $438.12 (-17.79%); 52w low $282.15 (+27.66%) |
-| Trend | +3.21% vs SMA200, +6.91% vs SMA50, +2.98% vs SMA20 |
-| Momentum | RSI(14) 52.9 (neutral) |
-| Volatility | ATR(14) 19.47 (~5.4% of price); beta 1.58 |
-| Setup perspective | -17.79% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $358.61; 52w high $438.12 (-18.15%); 52w low $282.15 (+27.10%) |
+| Trend | +2.70% vs SMA200, +6.15% vs SMA50, +2.14% vs SMA20 |
+| Momentum | RSI(14) 52.4 (neutral) |
+| Volatility | ATR(14) 19.24 (~5.4% of price); beta 1.58 |
+| Setup perspective | -18.15% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -4.9% |
-| Month | +3.1% |
-| Quarter | +13.6% |
-| Half Y | +4.6% |
-| 1Y | -2.3% |
-| YTD | -9.2% |
+| Week | -7.3% |
+| Month | -0.2% |
+| Quarter | +14.0% |
+| Half Y | -0.5% |
+| 1Y | -4.3% |
+| YTD | -9.6% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ Talen Energy Corporation, an independent power producer and infrastructure compa
 | Revenue (ttm) | $4.48B | Revenue growth 96.10% y/y |
 | Profitability | Gross 42.67%, operating 3.33%, net -5.67% | ROA 0.88%, ROE -16.54% |
 | Balance sheet | Cash $339.00M, debt $9.57B | Current ratio 0.89, debt/equity 596.94 |
-| Valuation | P/E —, forward P/E 11.64, P/S 3.50, P/B 10.79 | EV/Sales 5.56, EV/EBITDA 36.98 |
+| Valuation | P/E —, forward P/E 11.14, P/S 3.48, P/B 10.74 | EV/Sales 5.56, EV/EBITDA 36.98 |
 | Growth expectations | Earnings growth -32.20%, EPS q/q -33.30% | Analyst mean target $452.65 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 113.75% |
+| Institutional ownership | 114.91% |
 | Insider ownership | 1.50% |
 | Short float | 10.86% |
 | Short ratio (days to cover) | 3.9 |
@@ -112,21 +112,21 @@ Talen Energy Corporation, an independent power producer and infrastructure compa
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $360.18 | EV/Sales | 5.56 |
-| Market cap | $15.67B | EV/EBITDA | 36.98 |
+| Price | $358.61 | EV/Sales | 5.56 |
+| Market cap | $15.60B | EV/EBITDA | 36.98 |
 | Beta | 1.58 | Gross margin | 42.67% |
-| RSI(14) | 52.9 | Operating margin | 3.33% |
-| ATR(14) | 19.47 | Profit margin | -5.67% |
-| SMA20 dist | +2.98% | ROA | 0.88% |
-| SMA50 dist | +6.91% | ROE | -16.54% |
-| SMA200 dist | +3.21% | Revenue (ttm) | $4.48B |
+| RSI(14) | 52.4 | Operating margin | 3.33% |
+| ATR(14) | 19.24 | Profit margin | -5.67% |
+| SMA20 dist | +2.14% | ROA | 0.88% |
+| SMA50 dist | +6.15% | ROE | -16.54% |
+| SMA200 dist | +2.70% | Revenue (ttm) | $4.48B |
 | 52W high | $438.12 | Revenue growth y/y | 96.10% |
-| 52W low | $282.15 | Inst. ownership | 113.75% |
+| 52W low | $282.15 | Inst. ownership | 114.91% |
 | P/E (ttm) | — | Insider ownership | 1.50% |
-| Forward P/E | 11.64 | Short float | 10.86% |
-| PEG (trailing) | — | Avg volume | 1,024,876 |
-| P/S | 3.50 | Employees | 1,880 |
-| P/B | 10.79 | Analyst rec (1=buy..5=sell) | 1.5 |
+| Forward P/E | 11.14 | Short float | 10.86% |
+| PEG (trailing) | — | Avg volume | 1,012,107 |
+| P/S | 3.48 | Employees | 1,880 |
+| P/B | 10.74 | Analyst rec (1=buy..5=sell) | 1.5 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

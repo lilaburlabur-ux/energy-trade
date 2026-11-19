@@ -4,8 +4,8 @@ Signed file: `RUN.research.19.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $7.28 (2026-11-19, ~15-min delayed) |
-| Market cap | $1.76B |
+| Current price | $7.24 (2026-11-19, ~15-min delayed) |
+| Market cap | $1.75B |
 | Sector / Industry | Technology / Solar |
 | Main theme | Solar — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: fair-to-demanding, risk: high. |
@@ -15,11 +15,11 @@ Signed file: `RUN.research.19.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-38.08%) with negative half-year (-46.82%). |
-| Fresh setup quality | Poor / broken | -66.00% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-38.10%) with negative half-year (-49.91%). |
+| Fresh setup quality | Poor / broken | -66.21% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 14.01%, revenue growth 51.70%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 31.95, EV/Sales 4.70. |
-| Risk level | High | Beta 2.32, ATR 8.6% of price, short float 35.14%. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 31.75, EV/Sales 4.70. |
+| Risk level | High | Beta 2.32, ATR 8.4% of price, short float 35.14%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: fair-to-demanding, risk: high.
 
@@ -36,30 +36,30 @@ Sunrun Inc. designs, develops, installs, sells, owns, and maintains residential 
 
 | Headline | Source | Date |
 |---|---|---|
+| Can Tesla's Cash Cover $20 Billion Of Spending? | Trefis | 2026-11-19 |
+| Sunrun and Overview Energy CEOs say the answer to AI’s energy problem is already on the grid | Fortune | 2026-11-19 |
 | Did The Market Read First Solar Stock Right? | Trefis | 2026-11-18 |
 | Otovo Field Services Drive Profitability – Quarterly Update Report | Exec Edge | 2026-11-17 |
-| Own Tesla? You Own A 95% Bet Beyond Cars | Trefis | 2026-11-17 |
-| Tesla Stock At $390.22 Already Prices In Most Of 2030 | Trefis | 2026-11-17 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $7.28; 52w high $21.41 (-66.00%); 52w low $6.89 (+5.66%) |
-| Trend | -38.08% vs SMA200, -9.87% vs SMA50, -12.37% vs SMA20 |
-| Momentum | RSI(14) 39.6 (neutral) |
-| Volatility | ATR(14) 0.63 (~8.6% of price); beta 2.32 |
-| Setup perspective | -66.00% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $7.24; 52w high $21.41 (-66.21%); 52w low $6.89 (+5.01%) |
+| Trend | -38.10% vs SMA200, -10.11% vs SMA50, -12.67% vs SMA20 |
+| Momentum | RSI(14) 39.2 (neutral) |
+| Volatility | ATR(14) 0.61 (~8.4% of price); beta 2.32 |
+| Setup perspective | -66.21% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -19.7% |
-| Month | -3.8% |
-| Quarter | -22.2% |
-| Half Y | -46.8% |
-| 1Y | -60.8% |
-| YTD | -62.6% |
+| Week | -15.1% |
+| Month | -5.1% |
+| Quarter | -21.0% |
+| Half Y | -49.9% |
+| 1Y | -62.4% |
+| YTD | -62.8% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,14 +68,14 @@ Sunrun Inc. designs, develops, installs, sells, owns, and maintains residential 
 | Revenue (ttm) | $3.85B | Revenue growth 51.70% y/y |
 | Profitability | Gross 37.73%, operating 6.29%, net 14.01% | ROA 0.65%, ROE -11.81% |
 | Balance sheet | Cash $734.53M, debt $15.34B | Current ratio 1.52, debt/equity 283.43 |
-| Valuation | P/E 3.68, forward P/E 31.95, P/S 0.46, P/B 0.48 | EV/Sales 4.70, EV/EBITDA 17.98 |
+| Valuation | P/E 3.65, forward P/E 31.75, P/S 0.45, P/B 0.47 | EV/Sales 4.70, EV/EBITDA 17.98 |
 | Growth expectations | Earnings growth 772.80%, EPS q/q 823.80% | Analyst mean target $13.59 (17 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 107.15% |
-| Insider ownership | 2.75% |
+| Institutional ownership | 108.25% |
+| Insider ownership | 2.76% |
 | Short float | 35.14% |
 | Short ratio (days to cover) | 8.6 |
 
@@ -95,8 +95,8 @@ Sunrun Inc. designs, develops, installs, sells, owns, and maintains residential 
 | Invesco Ltd. | 6,984,605 | 2.89% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 31.95, EV/Sales 4.70. Multiple compression is the main downside if growth disappoints.
-- **Volatility risk:** Beta 2.32, ATR 8.6% of price, short float 35.14%. Size positions accordingly.
+- **Valuation risk:** Forward P/E 31.75, EV/Sales 4.70. Multiple compression is the main downside if growth disappoints.
+- **Volatility risk:** Beta 2.32, ATR 8.4% of price, short float 35.14%. Size positions accordingly.
 - **Short interest risk:** short float 35.14% can fuel squeezes both ways around news.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
@@ -113,21 +113,21 @@ Sunrun Inc. designs, develops, installs, sells, owns, and maintains residential 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $7.28 | EV/Sales | 4.70 |
-| Market cap | $1.76B | EV/EBITDA | 17.98 |
+| Price | $7.24 | EV/Sales | 4.70 |
+| Market cap | $1.75B | EV/EBITDA | 17.98 |
 | Beta | 2.32 | Gross margin | 37.73% |
-| RSI(14) | 39.6 | Operating margin | 6.29% |
-| ATR(14) | 0.63 | Profit margin | 14.01% |
-| SMA20 dist | -12.37% | ROA | 0.65% |
-| SMA50 dist | -9.87% | ROE | -11.81% |
-| SMA200 dist | -38.08% | Revenue (ttm) | $3.85B |
+| RSI(14) | 39.2 | Operating margin | 6.29% |
+| ATR(14) | 0.61 | Profit margin | 14.01% |
+| SMA20 dist | -12.67% | ROA | 0.65% |
+| SMA50 dist | -10.11% | ROE | -11.81% |
+| SMA200 dist | -38.10% | Revenue (ttm) | $3.85B |
 | 52W high | $21.41 | Revenue growth y/y | 51.70% |
-| 52W low | $6.89 | Inst. ownership | 107.15% |
-| P/E (ttm) | 3.68 | Insider ownership | 2.75% |
-| Forward P/E | 31.95 | Short float | 35.14% |
-| PEG (trailing) | — | Avg volume | 9,227,353 |
-| P/S | 0.46 | Employees | 9,059 |
-| P/B | 0.48 | Analyst rec (1=buy..5=sell) | 2.0 |
+| 52W low | $6.89 | Inst. ownership | 108.25% |
+| P/E (ttm) | 3.65 | Insider ownership | 2.76% |
+| Forward P/E | 31.75 | Short float | 35.14% |
+| PEG (trailing) | — | Avg volume | 9,207,285 |
+| P/S | 0.45 | Employees | 9,059 |
+| P/B | 0.47 | Analyst rec (1=buy..5=sell) | 2.0 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

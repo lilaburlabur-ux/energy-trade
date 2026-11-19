@@ -4,8 +4,8 @@ Signed file: `FLNC.research.19.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $4.03 (2026-11-19, ~15-min delayed) |
-| Market cap | $784.49M |
+| Current price | $3.89 (2026-11-19, ~15-min delayed) |
+| Market cap | $758.21M |
 | Sector / Industry | Industrials / Electrical Equipment & Parts |
 | Main theme | Electrical Equipment & Parts — see catalysts below |
 | Current stance | Low technical momentum, weak fundamentals, value: reasonable, risk: high. |
@@ -15,11 +15,11 @@ Signed file: `FLNC.research.19.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-71.11%) with negative half-year (-78.72%). |
-| Fresh setup quality | Poor / broken | -87.50% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-71.83%) with negative half-year (-80.71%). |
+| Fresh setup quality | Poor / broken | -87.91% from 52w high — base needs to rebuild. |
 | Fundamental quality | Weak | Negative profit margin (-3.07%). |
-| Value attractiveness | Reasonable | Forward P/E -7.60, EV/Sales 0.27. |
-| Risk level | High | Beta 2.79, ATR 11.8% of price, short float 49.11%. |
+| Value attractiveness | Reasonable | Forward P/E -7.34, EV/Sales 0.27. |
+| Risk level | High | Beta 2.79, ATR 12.1% of price, short float 49.11%. |
 
 **Bottom line:** Low technical momentum, weak fundamentals, value: reasonable, risk: high.
 
@@ -36,30 +36,30 @@ Fluence Energy, Inc., through its subsidiaries, provides energy storage and opti
 
 | Headline | Source | Date |
 |---|---|---|
+| Gear Up for Fluence Energy (FLNC) Q4 Earnings: Wall Street Estimates for Key Metrics | Zacks | 2026-11-19 |
 | Golar LNG (GLNG) Surpasses Q3 Earnings and Revenue Estimates | Zacks | 2026-11-18 |
 | Earnings Preview: Fluence Energy, Inc. (FLNC) Q4 Earnings Expected to Decline | Zacks | 2026-11-16 |
 | Montauk Renewables (MNTK) Misses Q3 Earnings and Revenue Estimates | Zacks | 2026-11-16 |
-| Prairie Operating Co. (PROP) Q3 Earnings and Revenues Top Estimates | Zacks | 2026-11-12 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $4.03; 52w high $32.23 (-87.50%); 52w low $4.03 (+0.00%) |
-| Trend | -71.11% vs SMA200, -39.22% vs SMA50, -23.34% vs SMA20 |
-| Momentum | RSI(14) 29.0 (oversold) |
-| Volatility | ATR(14) 0.47 (~11.8% of price); beta 2.79 |
-| Setup perspective | -87.50% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $3.89; 52w high $32.23 (-87.91%); 52w low $3.89 (+0.00%) |
+| Trend | -71.83% vs SMA200, -40.21% vs SMA50, -24.61% vs SMA20 |
+| Momentum | RSI(14) 28.0 (oversold) |
+| Volatility | ATR(14) 0.47 (~12.1% of price); beta 2.79 |
+| Setup perspective | -87.91% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -20.7% |
-| Month | -32.0% |
-| Quarter | -64.6% |
-| Half Y | -78.7% |
-| 1Y | -76.6% |
-| YTD | -82.5% |
+| Week | -17.7% |
+| Month | -35.1% |
+| Quarter | -65.7% |
+| Half Y | -80.7% |
+| 1Y | -77.1% |
+| YTD | -83.1% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ Fluence Energy, Inc., through its subsidiaries, provides energy storage and opti
 | Revenue (ttm) | $2.63B | Revenue growth 7.90% y/y |
 | Profitability | Gross 9.36%, operating -4.21%, net -3.07% | ROA -2.95%, ROE -23.54% |
 | Balance sheet | Cash $339.33M, debt $413.16M | Current ratio 1.34, debt/equity 95.81 |
-| Valuation | P/E —, forward P/E -7.60, P/S 0.30, P/B 1.55 | EV/Sales 0.27, EV/EBITDA -9.09 |
+| Valuation | P/E —, forward P/E -7.34, P/S 0.29, P/B 1.49 | EV/Sales 0.27, EV/EBITDA -9.09 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $7.95 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 80.96% |
+| Institutional ownership | 82.52% |
 | Insider ownership | 14.42% |
 | Short float | 49.11% |
 | Short ratio (days to cover) | 6.6 |
@@ -95,7 +95,7 @@ Fluence Energy, Inc., through its subsidiaries, provides energy storage and opti
 | First Trust Advisors LP | 2,597,835 | 1.81% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 2.79, ATR 11.8% of price, short float 49.11%. Size positions accordingly.
+- **Volatility risk:** Beta 2.79, ATR 12.1% of price, short float 49.11%. Size positions accordingly.
 - **Short interest risk:** short float 49.11% can fuel squeezes both ways around news.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
@@ -113,21 +113,21 @@ Fluence Energy, Inc., through its subsidiaries, provides energy storage and opti
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $4.03 | EV/Sales | 0.27 |
-| Market cap | $784.49M | EV/EBITDA | -9.09 |
+| Price | $3.89 | EV/Sales | 0.27 |
+| Market cap | $758.21M | EV/EBITDA | -9.09 |
 | Beta | 2.79 | Gross margin | 9.36% |
-| RSI(14) | 29.0 | Operating margin | -4.21% |
+| RSI(14) | 28.0 | Operating margin | -4.21% |
 | ATR(14) | 0.47 | Profit margin | -3.07% |
-| SMA20 dist | -23.34% | ROA | -2.95% |
-| SMA50 dist | -39.22% | ROE | -23.54% |
-| SMA200 dist | -71.11% | Revenue (ttm) | $2.63B |
+| SMA20 dist | -24.61% | ROA | -2.95% |
+| SMA50 dist | -40.21% | ROE | -23.54% |
+| SMA200 dist | -71.83% | Revenue (ttm) | $2.63B |
 | 52W high | $32.23 | Revenue growth y/y | 7.90% |
-| 52W low | $4.03 | Inst. ownership | 80.96% |
+| 52W low | $3.89 | Inst. ownership | 82.52% |
 | P/E (ttm) | — | Insider ownership | 14.42% |
-| Forward P/E | -7.60 | Short float | 49.11% |
-| PEG (trailing) | — | Avg volume | 7,116,312 |
-| P/S | 0.30 | Employees | 1,670 |
-| P/B | 1.55 | Analyst rec (1=buy..5=sell) | — |
+| Forward P/E | -7.34 | Short float | 49.11% |
+| PEG (trailing) | — | Avg volume | 7,091,870 |
+| P/S | 0.29 | Employees | 1,670 |
+| P/B | 1.49 | Analyst rec (1=buy..5=sell) | — |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

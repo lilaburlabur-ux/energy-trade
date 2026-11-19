@@ -4,8 +4,8 @@ Signed file: `NEE.research.19.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $84.78 (2026-11-19, ~15-min delayed) |
-| Market cap | $177.81B |
+| Current price | $83.62 (2026-11-19, ~15-min delayed) |
+| Market cap | $175.38B |
 | Sector / Industry | Utilities / Utilities - Regulated Electric |
 | Main theme | Utilities - Regulated Electric — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,10 +15,10 @@ Signed file: `NEE.research.19.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-2.01%) with negative half-year (-2.52%). |
-| Fresh setup quality | Moderate / wait | -12.09% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-3.33%) with negative half-year (-5.38%). |
+| Fresh setup quality | Moderate / wait | -13.30% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 40.37%, revenue growth 1.60%. |
-| Value attractiveness | Reasonable | Forward P/E 19.38, EV/Sales 10.37. |
+| Value attractiveness | Reasonable | Forward P/E 19.11, EV/Sales 10.37. |
 | Risk level | Moderate | Beta 0.60, ATR 1.9% of price, short float 0.00%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -36,30 +36,30 @@ NextEra Energy, Inc., through its subsidiaries, generates, stores, transmits, di
 
 | Headline | Source | Date |
 |---|---|---|
-| NextEra-Dominion merger hearings kick off with focus on scope | Utility Dive | 2026-11-18 |
-| PG&E Stock's Biggest Risk Is California's Wildfire Rules | Trefis | 2026-11-18 |
-| What State Street Utilities Select Sector SPDR (XLU) Sold: NextEra Leads on Monday | GuruFocus.com | 2026-11-18 |
-| Virginia regulators start Dominion-NextEra merger hearing | The Virginian-Pilot | 2026-11-17 |
+| $100,000 in Dominion Energy and Exelon Could Pay $3,846 a Year in Dividends | 24/7 Wall St. | 2026-11-19 |
+| XLU vs VPU: Which Utility ETF Gets More From the AI Power Rush? | 24/7 Wall St. | 2026-11-19 |
+| How Much Upside Is Left In Dominion Energy Stock? | Trefis | 2026-11-19 |
+| Will Buyers Defend Constellation Energy Stock At $263? | Trefis | 2026-11-19 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $84.78; 52w high $96.44 (-12.09%); 52w low $75.49 (+12.31%) |
-| Trend | -2.01% vs SMA200, +4.80% vs SMA50, +0.19% vs SMA20 |
-| Momentum | RSI(14) 55.6 (neutral) |
+| Price vs 52-week range | Close $83.62; 52w high $96.44 (-13.30%); 52w low $75.49 (+10.77%) |
+| Trend | -3.33% vs SMA200, +3.33% vs SMA50, -1.28% vs SMA20 |
+| Momentum | RSI(14) 49.9 (neutral) |
 | Volatility | ATR(14) 1.61 (~1.9% of price); beta 0.60 |
-| Setup perspective | -12.09% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -13.30% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -1.4% |
-| Month | +7.5% |
-| Quarter | +0.5% |
-| Half Y | -2.5% |
-| 1Y | +1.7% |
-| YTD | +7.0% |
+| Week | -2.0% |
+| Month | +6.8% |
+| Quarter | +0.7% |
+| Half Y | -5.4% |
+| 1Y | +1.6% |
+| YTD | +5.6% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ NextEra Energy, Inc., through its subsidiaries, generates, stores, transmits, di
 | Revenue (ttm) | $28.82B | Revenue growth 1.60% y/y |
 | Profitability | Gross 60.17%, operating 30.03%, net 40.37% | ROA 2.41%, ROE 14.06% |
 | Balance sheet | Cash $5.58B, debt $113.93B | Current ratio 0.53, debt/equity 153.25 |
-| Valuation | P/E 15.28, forward P/E 19.38, P/S 6.17, P/B 2.89 | EV/Sales 10.37, EV/EBITDA 22.31 |
+| Valuation | P/E 15.07, forward P/E 19.11, P/S 6.08, P/B 2.85 | EV/Sales 10.37, EV/EBITDA 22.31 |
 | Growth expectations | Earnings growth 93.20%, EPS q/q 95.90% | Analyst mean target $94.11 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 87.57% |
+| Institutional ownership | 87.91% |
 | Insider ownership | 0.25% |
 | Short float | 0.00% |
 | Short ratio (days to cover) | 0.0 |
@@ -91,8 +91,8 @@ NextEra Energy, Inc., through its subsidiaries, generates, stores, transmits, di
 | Morgan Stanley | 61,224,829 | 2.92% | 2026-09-30 |
 | Geode Capital Management, LLC | 49,669,724 | 2.37% | 2026-09-30 |
 | Franklin Templeton, Inc. | 42,664,427 | 2.03% | 2026-09-30 |
+| NORGES BANK | 32,117,624 | 1.53% | 2026-06-30 |
 | Wells Fargo & Company | 31,174,459 | 1.49% | 2026-09-30 |
-| Bank of America Corporation | 30,615,439 | 1.46% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
@@ -109,21 +109,21 @@ NextEra Energy, Inc., through its subsidiaries, generates, stores, transmits, di
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $84.78 | EV/Sales | 10.37 |
-| Market cap | $177.81B | EV/EBITDA | 22.31 |
+| Price | $83.62 | EV/Sales | 10.37 |
+| Market cap | $175.38B | EV/EBITDA | 22.31 |
 | Beta | 0.60 | Gross margin | 60.17% |
-| RSI(14) | 55.6 | Operating margin | 30.03% |
+| RSI(14) | 49.9 | Operating margin | 30.03% |
 | ATR(14) | 1.61 | Profit margin | 40.37% |
-| SMA20 dist | +0.19% | ROA | 2.41% |
-| SMA50 dist | +4.80% | ROE | 14.06% |
-| SMA200 dist | -2.01% | Revenue (ttm) | $28.82B |
+| SMA20 dist | -1.28% | ROA | 2.41% |
+| SMA50 dist | +3.33% | ROE | 14.06% |
+| SMA200 dist | -3.33% | Revenue (ttm) | $28.82B |
 | 52W high | $96.44 | Revenue growth y/y | 1.60% |
-| 52W low | $75.49 | Inst. ownership | 87.57% |
-| P/E (ttm) | 15.28 | Insider ownership | 0.25% |
-| Forward P/E | 19.38 | Short float | 0.00% |
-| PEG (trailing) | 1.72 | Avg volume | 12,305,423 |
-| P/S | 6.17 | Employees | 17,400 |
-| P/B | 2.89 | Analyst rec (1=buy..5=sell) | 1.9 |
+| 52W low | $75.49 | Inst. ownership | 87.91% |
+| P/E (ttm) | 15.07 | Insider ownership | 0.25% |
+| Forward P/E | 19.11 | Short float | 0.00% |
+| PEG (trailing) | 1.72 | Avg volume | 12,240,440 |
+| P/S | 6.08 | Employees | 17,400 |
+| P/B | 2.85 | Analyst rec (1=buy..5=sell) | 1.9 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

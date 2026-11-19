@@ -4,8 +4,8 @@ Signed file: `BWXT.research.19.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $117.93 (2026-11-19, ~15-min delayed) |
-| Market cap | $10.81B |
+| Current price | $117.70 (2026-11-19, ~15-min delayed) |
+| Market cap | $10.78B |
 | Sector / Industry | Industrials / Aerospace & Defense |
 | Main theme | Aerospace & Defense — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: fair-to-demanding, risk: elevated. |
@@ -15,10 +15,10 @@ Signed file: `BWXT.research.19.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-34.07%) with negative half-year (-41.72%). |
-| Fresh setup quality | Poor / broken | -50.39% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-34.07%) with negative half-year (-41.79%). |
+| Fresh setup quality | Poor / broken | -50.49% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 10.41%, revenue growth 10.00%. |
-| Value attractiveness | Fair-to-demanding | Forward P/E 22.62, EV/Sales 3.40. |
+| Value attractiveness | Fair-to-demanding | Forward P/E 22.57, EV/Sales 3.40. |
 | Risk level | Elevated | Beta 0.72, ATR 4.9% of price, short float 5.03%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: fair-to-demanding, risk: elevated.
@@ -36,30 +36,30 @@ BWX Technologies, Inc. manufactures and sells nuclear components in the United S
 
 | Headline | Source | Date |
 |---|---|---|
+| Can X-Energy's Supply-Chain Partnerships Support SMR Deployment? | Zacks | 2026-11-19 |
+| Can BWXT's Cambridge Expansion Support Nuclear Reactor Growth? | Zacks | 2026-11-19 |
 | Who Is Paying For X-Energy's Cash Burn? | Trefis | 2026-11-18 |
 | The Next Nuclear Opportunity May Be in Fuel, Not Reactors: 3 Stocks to Watch | MarketBeat | 2026-11-17 |
-| Cathie Wood and Jim Cramer Agree on These 10 Stocks: Latest 13F | Insider Monkey | 2026-11-17 |
-| ETFs Are Net Sellers of BWX Technologies (BWXT) on Wednesday | GuruFocus.com | 2026-11-13 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $117.93; 52w high $237.73 (-50.39%); 52w low $114.96 (+2.58%) |
-| Trend | -34.07% vs SMA200, -12.69% vs SMA50, -6.51% vs SMA20 |
-| Momentum | RSI(14) 37.2 (neutral) |
-| Volatility | ATR(14) 5.75 (~4.9% of price); beta 0.72 |
-| Setup perspective | -50.39% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $117.70; 52w high $237.73 (-50.49%); 52w low $114.96 (+2.38%) |
+| Trend | -34.07% vs SMA200, -12.41% vs SMA50, -6.33% vs SMA20 |
+| Momentum | RSI(14) 37.0 (neutral) |
+| Volatility | ATR(14) 5.74 (~4.9% of price); beta 0.72 |
+| Setup perspective | -50.49% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -6.2% |
-| Month | -12.1% |
-| Quarter | -24.6% |
-| Half Y | -41.7% |
+| Week | -5.1% |
+| Month | -12.9% |
+| Quarter | -24.9% |
+| Half Y | -41.8% |
 | 1Y | -32.7% |
-| YTD | -34.9% |
+| YTD | -35.0% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ BWX Technologies, Inc. manufactures and sells nuclear components in the United S
 | Revenue (ttm) | $3.60B | Revenue growth 10.00% y/y |
 | Profitability | Gross 22.61%, operating 10.42%, net 10.41% | ROA 5.49%, ROE 28.27% |
 | Balance sheet | Cash $568.53M, debt $2.02B | Current ratio 1.88, debt/equity 142.56 |
-| Valuation | P/E 28.98, forward P/E 22.62, P/S 3.00, P/B 7.62 | EV/Sales 3.40, EV/EBITDA 24.66 |
+| Valuation | P/E 28.92, forward P/E 22.57, P/S 3.00, P/B 7.60 | EV/Sales 3.40, EV/EBITDA 24.66 |
 | Growth expectations | Earnings growth 24.60%, EPS q/q 23.90% | Analyst mean target $199.19 (16 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 91.02% |
+| Institutional ownership | 91.44% |
 | Insider ownership | 0.36% |
 | Short float | 5.03% |
 | Short ratio (days to cover) | 3.1 |
@@ -95,7 +95,7 @@ BWX Technologies, Inc. manufactures and sells nuclear components in the United S
 | Select Equity Group LP | 1,755,692 | 1.92% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Valuation risk:** Forward P/E 22.62, EV/Sales 3.40. Multiple compression is the main downside if growth disappoints.
+- **Valuation risk:** Forward P/E 22.57, EV/Sales 3.40. Multiple compression is the main downside if growth disappoints.
 - **Volatility risk:** Beta 0.72, ATR 4.9% of price, short float 5.03%. Size positions accordingly.
 - **Short interest risk:** short float 5.03% can fuel squeezes both ways around news.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
@@ -113,21 +113,21 @@ BWX Technologies, Inc. manufactures and sells nuclear components in the United S
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $117.93 | EV/Sales | 3.40 |
-| Market cap | $10.81B | EV/EBITDA | 24.66 |
+| Price | $117.70 | EV/Sales | 3.40 |
+| Market cap | $10.78B | EV/EBITDA | 24.66 |
 | Beta | 0.72 | Gross margin | 22.61% |
-| RSI(14) | 37.2 | Operating margin | 10.42% |
-| ATR(14) | 5.75 | Profit margin | 10.41% |
-| SMA20 dist | -6.51% | ROA | 5.49% |
-| SMA50 dist | -12.69% | ROE | 28.27% |
+| RSI(14) | 37.0 | Operating margin | 10.42% |
+| ATR(14) | 5.74 | Profit margin | 10.41% |
+| SMA20 dist | -6.33% | ROA | 5.49% |
+| SMA50 dist | -12.41% | ROE | 28.27% |
 | SMA200 dist | -34.07% | Revenue (ttm) | $3.60B |
 | 52W high | $237.73 | Revenue growth y/y | 10.00% |
-| 52W low | $114.96 | Inst. ownership | 91.02% |
-| P/E (ttm) | 28.98 | Insider ownership | 0.36% |
-| Forward P/E | 22.62 | Short float | 5.03% |
-| PEG (trailing) | — | Avg volume | 1,255,437 |
+| 52W low | $114.96 | Inst. ownership | 91.44% |
+| P/E (ttm) | 28.92 | Insider ownership | 0.36% |
+| Forward P/E | 22.57 | Short float | 5.03% |
+| PEG (trailing) | — | Avg volume | 1,257,690 |
 | P/S | 3.00 | Employees | 10,400 |
-| P/B | 7.62 | Analyst rec (1=buy..5=sell) | 1.6 |
+| P/B | 7.60 | Analyst rec (1=buy..5=sell) | 1.6 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

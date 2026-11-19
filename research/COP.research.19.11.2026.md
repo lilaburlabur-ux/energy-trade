@@ -4,8 +4,8 @@ Signed file: `COP.research.19.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $134.40 (2026-11-19, ~15-min delayed) |
-| Market cap | $158.91B |
+| Current price | $135.13 (2026-11-19, ~15-min delayed) |
+| Market cap | $159.77B |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
 | Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `COP.research.19.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +55.85%; price +9.98% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -12.17% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +55.01%; price +10.44% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -11.69% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 16.76%, revenue growth 29.30%. |
-| Value attractiveness | Reasonable | Forward P/E 11.69, EV/Sales 2.50. |
-| Risk level | Moderate | Beta 0.16, ATR 3.0% of price, short float 1.35%. |
+| Value attractiveness | Reasonable | Forward P/E 11.76, EV/Sales 2.50. |
+| Risk level | Moderate | Beta 0.16, ATR 2.9% of price, short float 1.35%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate.
 
@@ -36,30 +36,30 @@ ConocoPhillips explores for, produces, transports, and markets crude oil, bitume
 
 | Headline | Source | Date |
 |---|---|---|
+| Your Chevron Hedge Works Only While Oil Spikes | Trefis | 2026-11-19 |
+| Should You Buy Occidental Stock For Its Cash Flow? | Trefis | 2026-11-19 |
 | Learn Why The Bull Case For ConocoPhillips Stock Could Change Following Earnings And Dividend Hike | Simply Wall St. | 2026-11-18 |
 | Is Chevron Stock Increasing Your Market Risk? | Trefis | 2026-11-18 |
-| Why You Should Think About Occidental Petroleum Differently Now | Trefis | 2026-11-18 |
-| Is Exxon Mobil Stock a Good Fit For Your Portfolio Risk? | Trefis | 2026-11-18 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $134.40; 52w high $153.02 (-12.17%); 52w low $84.20 (+59.62%) |
-| Trend | +9.98% vs SMA200, -1.62% vs SMA50, -5.27% vs SMA20 |
-| Momentum | RSI(14) 42.3 (neutral) |
-| Volatility | ATR(14) 4.00 (~3.0% of price); beta 0.16 |
-| Setup perspective | -12.17% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $135.13; 52w high $153.02 (-11.69%); 52w low $84.20 (+60.49%) |
+| Trend | +10.44% vs SMA200, -1.07% vs SMA50, -4.43% vs SMA20 |
+| Momentum | RSI(14) 43.7 (neutral) |
+| Volatility | ATR(14) 3.91 (~2.9% of price); beta 0.16 |
+| Setup perspective | -11.69% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -1.9% |
-| Month | -7.3% |
-| Quarter | +0.3% |
-| Half Y | +11.3% |
-| 1Y | +55.8% |
-| YTD | +43.0% |
+| Week | -2.9% |
+| Month | -6.6% |
+| Quarter | +0.9% |
+| Half Y | +13.6% |
+| 1Y | +55.0% |
+| YTD | +43.8% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ ConocoPhillips explores for, produces, transports, and markets crude oil, bitume
 | Revenue (ttm) | $68.97B | Revenue growth 29.30% y/y |
 | Profitability | Gross 49.01%, operating 25.88%, net 16.76% | ROA 8.98%, ROE 17.66% |
 | Balance sheet | Cash $9.93B, debt $23.26B | Current ratio 1.52, debt/equity 35.25 |
-| Valuation | P/E 14.16, forward P/E 11.69, P/S 2.30, P/B 2.41 | EV/Sales 2.50, EV/EBITDA 5.77 |
+| Valuation | P/E 14.24, forward P/E 11.76, P/S 2.32, P/B 2.42 | EV/Sales 2.50, EV/EBITDA 5.77 |
 | Growth expectations | Earnings growth 141.90%, EPS q/q 131.80% | Analyst mean target $153.00 (27 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 87.45% |
+| Institutional ownership | 87.74% |
 | Insider ownership | 0.10% |
 | Short float | 1.35% |
 | Short ratio (days to cover) | 2.7 |
@@ -109,21 +109,21 @@ ConocoPhillips explores for, produces, transports, and markets crude oil, bitume
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $134.40 | EV/Sales | 2.50 |
-| Market cap | $158.91B | EV/EBITDA | 5.77 |
+| Price | $135.13 | EV/Sales | 2.50 |
+| Market cap | $159.77B | EV/EBITDA | 5.77 |
 | Beta | 0.16 | Gross margin | 49.01% |
-| RSI(14) | 42.3 | Operating margin | 25.88% |
-| ATR(14) | 4.00 | Profit margin | 16.76% |
-| SMA20 dist | -5.27% | ROA | 8.98% |
-| SMA50 dist | -1.62% | ROE | 17.66% |
-| SMA200 dist | +9.98% | Revenue (ttm) | $68.97B |
+| RSI(14) | 43.7 | Operating margin | 25.88% |
+| ATR(14) | 3.91 | Profit margin | 16.76% |
+| SMA20 dist | -4.43% | ROA | 8.98% |
+| SMA50 dist | -1.07% | ROE | 17.66% |
+| SMA200 dist | +10.44% | Revenue (ttm) | $68.97B |
 | 52W high | $153.02 | Revenue growth y/y | 29.30% |
-| 52W low | $84.20 | Inst. ownership | 87.45% |
-| P/E (ttm) | 14.16 | Insider ownership | 0.10% |
-| Forward P/E | 11.69 | Short float | 1.35% |
-| PEG (trailing) | 0.90 | Avg volume | 6,790,953 |
-| P/S | 2.30 | Employees | 9,600 |
-| P/B | 2.41 | Analyst rec (1=buy..5=sell) | 2.1 |
+| 52W low | $84.20 | Inst. ownership | 87.74% |
+| P/E (ttm) | 14.24 | Insider ownership | 0.10% |
+| Forward P/E | 11.76 | Short float | 1.35% |
+| PEG (trailing) | 0.90 | Avg volume | 6,789,779 |
+| P/S | 2.32 | Employees | 9,600 |
+| P/B | 2.42 | Analyst rec (1=buy..5=sell) | 2.1 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

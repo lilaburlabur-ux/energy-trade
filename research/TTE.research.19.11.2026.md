@@ -4,8 +4,8 @@ Signed file: `TTE.research.19.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $87.14 (2026-11-19, ~15-min delayed) |
-| Market cap | $191.11B |
+| Current price | $86.57 (2026-11-19, ~15-min delayed) |
+| Market cap | $189.87B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,10 +15,10 @@ Signed file: `TTE.research.19.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +39.18%; price +1.79% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -8.59% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +38.40%; price +1.05% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -9.18% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 10.46%, revenue growth 41.10%. |
-| Value attractiveness | Reasonable | Forward P/E 7.18, EV/Sales 1.03. |
+| Value attractiveness | Reasonable | Forward P/E 7.13, EV/Sales 1.03. |
 | Risk level | Moderate | Beta 0.04, ATR 2.1% of price, short float 0.19%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -37,29 +37,29 @@ TotalEnergies SE, an integrated energy company, produces and markets oil and bio
 | Headline | Source | Date |
 |---|---|---|
 | Better Dividend Stock: TotalEnergies vs. MPLX | TIKR | 2026-11-18 |
+| Better Dividend Stock: TotalEnergies vs. Hershey | TIKR | 2026-11-18 |
+| EnQuest Exits UK, Pivots to SE Asia | Rigzone.com | 2026-11-18 |
 | Stay Ahead of Market Uncertainty With LNG, TTE, LW and HAS | Zacks | 2026-11-18 |
-| Saipem wins $181m drilling contracts for Scarabeo 9 rig | Offshore Technology | 2026-11-18 |
-| EnQuest Exits UK North Sea in $960 Million Deal | Oilprice.com | 2026-11-18 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $87.14; 52w high $95.33 (-8.59%); 52w low $61.13 (+42.56%) |
-| Trend | +1.79% vs SMA200, -2.54% vs SMA50, -4.04% vs SMA20 |
-| Momentum | RSI(14) 41.2 (neutral) |
+| Price vs 52-week range | Close $86.57; 52w high $95.33 (-9.18%); 52w low $61.13 (+41.63%) |
+| Trend | +1.05% vs SMA200, -3.10% vs SMA50, -4.43% vs SMA20 |
+| Momentum | RSI(14) 39.7 (neutral) |
 | Volatility | ATR(14) 1.79 (~2.1% of price); beta 0.04 |
-| Setup perspective | -8.59% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -9.18% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -0.9% |
-| Month | -3.3% |
-| Quarter | -3.0% |
-| Half Y | -4.7% |
-| 1Y | +39.2% |
-| YTD | +34.0% |
+| Week | -3.3% |
+| Month | -4.2% |
+| Quarter | -2.6% |
+| Half Y | -5.1% |
+| 1Y | +38.4% |
+| YTD | +33.1% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ TotalEnergies SE, an integrated energy company, produces and markets oil and bio
 | Revenue (ttm) | $214.40B | Revenue growth 41.10% y/y |
 | Profitability | Gross 39.18%, operating 17.00%, net 10.46% | ROA 7.19%, ROE 17.83% |
 | Balance sheet | Cash $37.80B, debt $63.17B | Current ratio 1.11, debt/equity 46.12 |
-| Valuation | P/E 8.70, forward P/E 7.18, P/S 0.89, P/B 1.45 | EV/Sales 1.03, EV/EBITDA 4.57 |
+| Valuation | P/E 8.64, forward P/E 7.13, P/S 0.89, P/B 1.44 | EV/Sales 1.03, EV/EBITDA 4.57 |
 | Growth expectations | Earnings growth 123.20%, EPS q/q 124.40% | Analyst mean target $100.85 (10 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 57.18% |
+| Institutional ownership | 57.39% |
 | Insider ownership | 8.85% |
 | Short float | 0.19% |
 | Short ratio (days to cover) | 1.8 |
@@ -89,10 +89,10 @@ TotalEnergies SE, an integrated energy company, produces and markets oil and bio
 | Capital World Investors | 47,097,599 | 1.89% | 2026-09-30 |
 | Deutsche Bank AG | 44,069,848 | 1.76% | 2026-09-30 |
 | JPMORGAN CHASE & CO | 42,202,802 | 1.69% | 2026-09-30 |
+| NORGES BANK | 40,546,835 | 1.62% | 2026-06-30 |
 | Wellington Management Group, LLP | 33,752,991 | 1.35% | 2026-09-30 |
 | Price (T.Rowe) Associates Inc | 32,414,778 | 1.30% | 2026-09-30 |
 | LBP AM SA | 30,368,297 | 1.22% | 2026-09-30 |
-| Goldman Sachs Group Inc | 24,823,694 | 0.99% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
@@ -109,21 +109,21 @@ TotalEnergies SE, an integrated energy company, produces and markets oil and bio
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $87.14 | EV/Sales | 1.03 |
-| Market cap | $191.11B | EV/EBITDA | 4.57 |
+| Price | $86.57 | EV/Sales | 1.03 |
+| Market cap | $189.87B | EV/EBITDA | 4.57 |
 | Beta | 0.04 | Gross margin | 39.18% |
-| RSI(14) | 41.2 | Operating margin | 17.00% |
+| RSI(14) | 39.7 | Operating margin | 17.00% |
 | ATR(14) | 1.79 | Profit margin | 10.46% |
-| SMA20 dist | -4.04% | ROA | 7.19% |
-| SMA50 dist | -2.54% | ROE | 17.83% |
-| SMA200 dist | +1.79% | Revenue (ttm) | $214.40B |
+| SMA20 dist | -4.43% | ROA | 7.19% |
+| SMA50 dist | -3.10% | ROE | 17.83% |
+| SMA200 dist | +1.05% | Revenue (ttm) | $214.40B |
 | 52W high | $95.33 | Revenue growth y/y | 41.10% |
-| 52W low | $61.13 | Inst. ownership | 57.18% |
-| P/E (ttm) | 8.70 | Insider ownership | 8.85% |
-| Forward P/E | 7.18 | Short float | 0.19% |
-| PEG (trailing) | 0.68 | Avg volume | 1,806,801 |
+| 52W low | $61.13 | Inst. ownership | 57.39% |
+| P/E (ttm) | 8.64 | Insider ownership | 8.85% |
+| Forward P/E | 7.13 | Short float | 0.19% |
+| PEG (trailing) | 0.65 | Avg volume | 1,795,535 |
 | P/S | 0.89 | Employees | 94,847 |
-| P/B | 1.45 | Analyst rec (1=buy..5=sell) | 2.0 |
+| P/B | 1.44 | Analyst rec (1=buy..5=sell) | 2.0 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

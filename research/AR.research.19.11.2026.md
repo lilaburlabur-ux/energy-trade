@@ -4,8 +4,8 @@ Signed file: `AR.research.19.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $36.64 (2026-11-19, ~15-min delayed) |
-| Market cap | $11.25B |
+| Current price | $36.22 (2026-11-19, ~15-min delayed) |
+| Market cap | $11.12B |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
 | Current stance | Low technical momentum, strong fundamentals, value: reasonable, risk: elevated. |
@@ -15,11 +15,11 @@ Signed file: `AR.research.19.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-1.12%) with negative half-year (-3.53%). |
-| Fresh setup quality | Moderate / wait | -18.85% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-2.30%) with negative half-year (-2.23%). |
+| Fresh setup quality | Moderate / wait | -19.79% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 22.98%, revenue growth 17.10%. |
-| Value attractiveness | Reasonable | Forward P/E 8.13, EV/Sales —. |
-| Risk level | Elevated | Beta 0.48, ATR 3.7% of price, short float 4.15%. |
+| Value attractiveness | Reasonable | Forward P/E 8.04, EV/Sales —. |
+| Risk level | Elevated | Beta 0.48, ATR 3.6% of price, short float 4.15%. |
 
 **Bottom line:** Low technical momentum, strong fundamentals, value: reasonable, risk: elevated.
 
@@ -36,30 +36,30 @@ Antero Resources Corporation, an independent oil and natural gas company, engage
 
 | Headline | Source | Date |
 |---|---|---|
+| Can Expand Energy Stock Hit $120? | Trefis | 2026-11-19 |
 | How These 6 Natural Gas Stocks Make Money | Motley Fool | 2026-11-15 |
 | U.S. Targeted Value Portfolio (DFAT) Buys $3.7 Million More Coeur Mining on Wednesday | GuruFocus.com | 2026-11-13 |
 | David Einhorn’s Best Buy Is Already Up 36%. Is It Too Late to Follow Him? | TIKR | 2026-11-11 |
-| Did Stronger Earnings Just Shift Antero Resources (AR) Investment Narrative? | Simply Wall St. | 2026-11-10 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $36.64; 52w high $45.15 (-18.85%); 52w low $31.38 (+16.76%) |
-| Trend | -1.12% vs SMA200, -1.75% vs SMA50, -5.99% vs SMA20 |
-| Momentum | RSI(14) 42.6 (neutral) |
-| Volatility | ATR(14) 1.35 (~3.7% of price); beta 0.48 |
-| Setup perspective | -18.85% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $36.22; 52w high $45.15 (-19.79%); 52w low $31.38 (+15.41%) |
+| Trend | -2.30% vs SMA200, -2.74% vs SMA50, -6.75% vs SMA20 |
+| Momentum | RSI(14) 40.8 (neutral) |
+| Volatility | ATR(14) 1.31 (~3.6% of price); beta 0.48 |
+| Setup perspective | -19.79% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -4.1% |
-| Month | -5.6% |
-| Quarter | -2.7% |
-| Half Y | -3.5% |
-| 1Y | +8.9% |
-| YTD | +7.1% |
+| Week | -6.4% |
+| Month | -6.0% |
+| Quarter | -4.5% |
+| Half Y | -2.2% |
+| 1Y | +4.2% |
+| YTD | +5.9% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ Antero Resources Corporation, an independent oil and natural gas company, engage
 | Revenue (ttm) | $5.98B | Revenue growth 17.10% y/y |
 | Profitability | Gross 68.28%, operating 29.32%, net 22.98% | ROA 7.69%, ROE 17.39% |
 | Balance sheet | Cash —, debt $4.65B | Current ratio 0.39, debt/equity 53.84 |
-| Valuation | P/E 8.27, forward P/E 8.13, P/S 1.88, P/B 1.30 | EV/Sales —, EV/EBITDA — |
+| Valuation | P/E 8.17, forward P/E 8.04, P/S 1.86, P/B 1.29 | EV/Sales —, EV/EBITDA — |
 | Growth expectations | Earnings growth 395.80%, EPS q/q 381.90% | Analyst mean target $50.18 (22 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 92.96% |
+| Institutional ownership | 93.29% |
 | Insider ownership | 4.41% |
 | Short float | 4.15% |
 | Short ratio (days to cover) | 2.8 |
@@ -95,7 +95,7 @@ Antero Resources Corporation, an independent oil and natural gas company, engage
 | Geode Capital Management, LLC | 5,988,401 | 1.95% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 0.48, ATR 3.7% of price, short float 4.15%. Size positions accordingly.
+- **Volatility risk:** Beta 0.48, ATR 3.6% of price, short float 4.15%. Size positions accordingly.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -110,21 +110,21 @@ Antero Resources Corporation, an independent oil and natural gas company, engage
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $36.64 | EV/Sales | — |
-| Market cap | $11.25B | EV/EBITDA | — |
+| Price | $36.22 | EV/Sales | — |
+| Market cap | $11.12B | EV/EBITDA | — |
 | Beta | 0.48 | Gross margin | 68.28% |
-| RSI(14) | 42.6 | Operating margin | 29.32% |
-| ATR(14) | 1.35 | Profit margin | 22.98% |
-| SMA20 dist | -5.99% | ROA | 7.69% |
-| SMA50 dist | -1.75% | ROE | 17.39% |
-| SMA200 dist | -1.12% | Revenue (ttm) | $5.98B |
+| RSI(14) | 40.8 | Operating margin | 29.32% |
+| ATR(14) | 1.31 | Profit margin | 22.98% |
+| SMA20 dist | -6.75% | ROA | 7.69% |
+| SMA50 dist | -2.74% | ROE | 17.39% |
+| SMA200 dist | -2.30% | Revenue (ttm) | $5.98B |
 | 52W high | $45.15 | Revenue growth y/y | 17.10% |
-| 52W low | $31.38 | Inst. ownership | 92.96% |
-| P/E (ttm) | 8.27 | Insider ownership | 4.41% |
-| Forward P/E | 8.13 | Short float | 4.15% |
-| PEG (trailing) | 0.36 | Avg volume | 4,021,407 |
-| P/S | 1.88 | Employees | 632 |
-| P/B | 1.30 | Analyst rec (1=buy..5=sell) | 1.7 |
+| 52W low | $31.38 | Inst. ownership | 93.29% |
+| P/E (ttm) | 8.17 | Insider ownership | 4.41% |
+| Forward P/E | 8.04 | Short float | 4.15% |
+| PEG (trailing) | 0.42 | Avg volume | 4,014,287 |
+| P/S | 1.86 | Employees | 632 |
+| P/B | 1.29 | Analyst rec (1=buy..5=sell) | 1.7 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

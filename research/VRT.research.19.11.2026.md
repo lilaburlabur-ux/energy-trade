@@ -4,8 +4,8 @@ Signed file: `VRT.research.19.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $194.48 (2026-11-19, ~15-min delayed) |
-| Market cap | $74.89B |
+| Current price | $186.67 (2026-11-19, ~15-min delayed) |
+| Market cap | $71.88B |
 | Sector / Industry | Industrials / Electrical Equipment & Parts |
 | Main theme | Electrical Equipment & Parts — see catalysts below |
 | Current stance | Low technical momentum, strong fundamentals, value: reasonable, risk: high. |
@@ -15,11 +15,11 @@ Signed file: `VRT.research.19.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-28.38%) with negative half-year (-38.36%). |
-| Fresh setup quality | Poor / broken | -48.28% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-31.26%) with negative half-year (-42.25%). |
+| Fresh setup quality | Poor / broken | -50.36% from 52w high — base needs to rebuild. |
 | Fundamental quality | Strong | Profit margin 16.00%, revenue growth 61.20%. |
-| Value attractiveness | Reasonable | Forward P/E 19.70, EV/Sales 5.68. |
-| Risk level | High | Beta 2.11, ATR 8.4% of price, short float 2.88%. |
+| Value attractiveness | Reasonable | Forward P/E 18.91, EV/Sales 5.68. |
+| Risk level | High | Beta 2.11, ATR 8.8% of price, short float 2.88%. |
 
 **Bottom line:** Low technical momentum, strong fundamentals, value: reasonable, risk: high.
 
@@ -36,30 +36,30 @@ Vertiv Holdings Co designs, manufactures, and services critical digital infrastr
 
 | Headline | Source | Date |
 |---|---|---|
-| Top-Ranked AI Stock to Buy Now on the Dip for 100% Upside: VRT | Zacks | 2026-11-18 |
-| GE Vernova Is 35% Below Its High After Raising Its Year-End Gas Turbine Goal to 130 Gigawatts | TIKR | 2026-11-18 |
-| Is Bloom Energy Stock At $173 Still Worth Owning? | Trefis | 2026-11-18 |
-| Boeing, GE Aerospace Lead Trump's $17B-Plus Asia Deals With $12B Aircraft Sale — Vertiv, Panasonic Also In Focus | Stocktwits | 2026-11-18 |
+| Anthropic's Record IPO: Can It Lift AI Stocks? | Zacks | 2026-11-19 |
+| Vertiv's 800 VDC Push Boosts AI Prospects: Can It Beat APH and SMCI? | Zacks | 2026-11-19 |
+| GE Vernova Is Down 34% From Its July High Despite 3 Guidance Raises. Is It Time to Buy? | TIKR | 2026-11-19 |
+| 4 Stocks Analysts and Hedge Funds Surprisingly Prefer Over Tesla | 24/7 Wall St. | 2026-11-19 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $194.48; 52w high $376.06 (-48.28%); 52w low $149.73 (+29.89%) |
-| Trend | -28.38% vs SMA200, -13.98% vs SMA50, -5.85% vs SMA20 |
-| Momentum | RSI(14) 43.5 (neutral) |
-| Volatility | ATR(14) 16.33 (~8.4% of price); beta 2.11 |
-| Setup perspective | -48.28% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $186.67; 52w high $376.06 (-50.36%); 52w low $149.73 (+24.67%) |
+| Trend | -31.26% vs SMA200, -16.99% vs SMA50, -9.44% vs SMA20 |
+| Momentum | RSI(14) 40.9 (neutral) |
+| Volatility | ATR(14) 16.42 (~8.8% of price); beta 2.11 |
+| Setup perspective | -50.36% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -5.8% |
-| Month | -4.5% |
-| Quarter | -26.5% |
-| Half Y | -38.4% |
-| 1Y | +16.8% |
-| YTD | +10.8% |
+| Week | -11.0% |
+| Month | -12.0% |
+| Quarter | -28.7% |
+| Half Y | -42.3% |
+| 1Y | +13.3% |
+| YTD | +6.4% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ Vertiv Holdings Co designs, manufactures, and services critical digital infrastr
 | Revenue (ttm) | $13.12B | Revenue growth 61.20% y/y |
 | Profitability | Gross 38.12%, operating 21.11%, net 16.00% | ROA 11.94%, ROE 46.57% |
 | Balance sheet | Cash $3.71B, debt $3.36B | Current ratio 1.39, debt/equity 61.01 |
-| Valuation | P/E 36.35, forward P/E 19.70, P/S 5.71, P/B 13.61 | EV/Sales 5.68, EV/EBITDA 23.38 |
+| Valuation | P/E 34.89, forward P/E 18.91, P/S 5.48, P/B 13.06 | EV/Sales 5.68, EV/EBITDA 23.38 |
 | Growth expectations | Earnings growth 91.20%, EPS q/q 91.80% | Analyst mean target $334.29 (30 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 83.28% |
+| Institutional ownership | 83.79% |
 | Insider ownership | 0.25% |
 | Short float | 2.88% |
 | Short ratio (days to cover) | 1.6 |
@@ -92,10 +92,10 @@ Vertiv Holdings Co designs, manufactures, and services critical digital infrastr
 | Geode Capital Management, LLC | 9,123,225 | 2.37% | 2026-09-30 |
 | Bank of America Corporation | 8,454,953 | 2.20% | 2026-09-30 |
 | Morgan Stanley | 8,198,446 | 2.13% | 2026-09-30 |
-| Invesco Ltd. | 4,499,736 | 1.17% | 2026-09-30 |
+| NORGES BANK | 4,859,284 | 1.26% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 2.11, ATR 8.4% of price, short float 2.88%. Size positions accordingly.
+- **Volatility risk:** Beta 2.11, ATR 8.8% of price, short float 2.88%. Size positions accordingly.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -111,21 +111,21 @@ Vertiv Holdings Co designs, manufactures, and services critical digital infrastr
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $194.48 | EV/Sales | 5.68 |
-| Market cap | $74.89B | EV/EBITDA | 23.38 |
+| Price | $186.67 | EV/Sales | 5.68 |
+| Market cap | $71.88B | EV/EBITDA | 23.38 |
 | Beta | 2.11 | Gross margin | 38.12% |
-| RSI(14) | 43.5 | Operating margin | 21.11% |
-| ATR(14) | 16.33 | Profit margin | 16.00% |
-| SMA20 dist | -5.85% | ROA | 11.94% |
-| SMA50 dist | -13.98% | ROE | 46.57% |
-| SMA200 dist | -28.38% | Revenue (ttm) | $13.12B |
+| RSI(14) | 40.9 | Operating margin | 21.11% |
+| ATR(14) | 16.42 | Profit margin | 16.00% |
+| SMA20 dist | -9.44% | ROA | 11.94% |
+| SMA50 dist | -16.99% | ROE | 46.57% |
+| SMA200 dist | -31.26% | Revenue (ttm) | $13.12B |
 | 52W high | $376.06 | Revenue growth y/y | 61.20% |
-| 52W low | $149.73 | Inst. ownership | 83.28% |
-| P/E (ttm) | 36.35 | Insider ownership | 0.25% |
-| Forward P/E | 19.70 | Short float | 2.88% |
-| PEG (trailing) | 0.56 | Avg volume | 6,233,125 |
-| P/S | 5.71 | Employees | 34,000 |
-| P/B | 13.61 | Analyst rec (1=buy..5=sell) | 1.4 |
+| 52W low | $149.73 | Inst. ownership | 83.79% |
+| P/E (ttm) | 34.89 | Insider ownership | 0.25% |
+| Forward P/E | 18.91 | Short float | 2.88% |
+| PEG (trailing) | 0.57 | Avg volume | 6,204,868 |
+| P/S | 5.48 | Employees | 34,000 |
+| P/B | 13.06 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

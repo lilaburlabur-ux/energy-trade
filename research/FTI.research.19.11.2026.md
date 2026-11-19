@@ -4,8 +4,8 @@ Signed file: `FTI.research.19.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $62.43 (2026-11-19, ~15-min delayed) |
-| Market cap | $24.27B |
+| Current price | $61.44 (2026-11-19, ~15-min delayed) |
+| Market cap | $23.89B |
 | Sector / Industry | Energy / Oil & Gas Equipment & Services |
 | Main theme | Oil & Gas Equipment & Services — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
@@ -15,11 +15,11 @@ Signed file: `FTI.research.19.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-10.58%) with negative half-year (-13.54%). |
-| Fresh setup quality | Moderate / wait | -22.04% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-11.96%) with negative half-year (-13.84%). |
+| Fresh setup quality | Moderate / wait | -23.22% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 12.04%, revenue growth 9.40%. |
-| Value attractiveness | Reasonable | Forward P/E 16.40, EV/Sales 2.30. |
-| Risk level | Elevated | Beta 0.85, ATR 3.8% of price, short float 3.55%. |
+| Value attractiveness | Reasonable | Forward P/E 16.14, EV/Sales 2.30. |
+| Risk level | Elevated | Beta 0.85, ATR 3.9% of price, short float 3.55%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
 
@@ -36,30 +36,30 @@ TechnipFMC plc engages in the oil and natural gas projects, technologies, system
 
 | Headline | Source | Date |
 |---|---|---|
+| Pembina Pipeline Eyes Growth as Canadian Energy Demand Expands | Zacks | 2026-11-19 |
+| Expand Energy Expects U.S. Natural Gas Demand to Jump Over 10% by 2028 | Zacks | 2026-11-19 |
+| iShares Core S&P Mid-Cap (IJH) Adds Chime Financial on Tuesday | GuruFocus.com | 2026-11-19 |
 | California Resources Builds Integrated Energy Growth Platform | Zacks | 2026-11-18 |
-| Petrobras Awards $410M Subsea Contract to Expand Brazil Operations | Zacks | 2026-11-18 |
-| Baker Hughes & TPAO Partner on Next-Generation Geothermal in Turkiye | Zacks | 2026-11-18 |
-| Cisco Systems & 2 Momentum Stocks to Buy Now for Big Upside | Zacks | 2026-11-17 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $62.43; 52w high $80.08 (-22.04%); 52w low $43.40 (+43.85%) |
-| Trend | -10.58% vs SMA200, -9.39% vs SMA50, -5.61% vs SMA20 |
-| Momentum | RSI(14) 37.7 (neutral) |
-| Volatility | ATR(14) 2.38 (~3.8% of price); beta 0.85 |
-| Setup perspective | -22.04% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $61.44; 52w high $80.02 (-23.22%); 52w low $43.37 (+41.68%) |
+| Trend | -11.96% vs SMA200, -10.39% vs SMA50, -6.67% vs SMA20 |
+| Momentum | RSI(14) 35.6 (neutral) |
+| Volatility | ATR(14) 2.37 (~3.9% of price); beta 0.85 |
+| Setup perspective | -23.22% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -4.5% |
-| Month | -9.4% |
-| Quarter | -19.6% |
-| Half Y | -13.5% |
-| 1Y | +46.6% |
-| YTD | +32.2% |
+| Week | -5.3% |
+| Month | -12.2% |
+| Quarter | -20.6% |
+| Half Y | -13.8% |
+| 1Y | +40.8% |
+| YTD | +30.2% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ TechnipFMC plc engages in the oil and natural gas projects, technologies, system
 | Revenue (ttm) | $10.67B | Revenue growth 9.40% y/y |
 | Profitability | Gross 23.60%, operating 15.64%, net 12.04% | ROA 10.08%, ROE 38.30% |
 | Balance sheet | Cash $1.05B, debt $1.30B | Current ratio 1.09, debt/equity 38.93 |
-| Valuation | P/E 19.63, forward P/E 16.40, P/S 2.28, P/B 7.31 | EV/Sales 2.30, EV/EBITDA 11.82 |
+| Valuation | P/E 19.32, forward P/E 16.14, P/S 2.24, P/B 7.19 | EV/Sales 2.30, EV/EBITDA 11.82 |
 | Growth expectations | Earnings growth 40.00%, EPS q/q 35.10% | Analyst mean target $76.45 (22 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 101.65% |
+| Institutional ownership | 102.04% |
 | Insider ownership | 1.57% |
 | Short float | 3.55% |
 | Short ratio (days to cover) | 5.1 |
@@ -95,7 +95,7 @@ TechnipFMC plc engages in the oil and natural gas projects, technologies, system
 | FMR, LLC | 11,619,603 | 2.99% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 0.85, ATR 3.8% of price, short float 3.55%. Size positions accordingly.
+- **Volatility risk:** Beta 0.85, ATR 3.9% of price, short float 3.55%. Size positions accordingly.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -110,21 +110,21 @@ TechnipFMC plc engages in the oil and natural gas projects, technologies, system
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $62.43 | EV/Sales | 2.30 |
-| Market cap | $24.27B | EV/EBITDA | 11.82 |
+| Price | $61.44 | EV/Sales | 2.30 |
+| Market cap | $23.89B | EV/EBITDA | 11.82 |
 | Beta | 0.85 | Gross margin | 23.60% |
-| RSI(14) | 37.7 | Operating margin | 15.64% |
-| ATR(14) | 2.38 | Profit margin | 12.04% |
-| SMA20 dist | -5.61% | ROA | 10.08% |
-| SMA50 dist | -9.39% | ROE | 38.30% |
-| SMA200 dist | -10.58% | Revenue (ttm) | $10.67B |
-| 52W high | $80.08 | Revenue growth y/y | 9.40% |
-| 52W low | $43.40 | Inst. ownership | 101.65% |
-| P/E (ttm) | 19.63 | Insider ownership | 1.57% |
-| Forward P/E | 16.40 | Short float | 3.55% |
-| PEG (trailing) | — | Avg volume | 2,873,190 |
-| P/S | 2.28 | Employees | 21,975 |
-| P/B | 7.31 | Analyst rec (1=buy..5=sell) | 2.0 |
+| RSI(14) | 35.6 | Operating margin | 15.64% |
+| ATR(14) | 2.37 | Profit margin | 12.04% |
+| SMA20 dist | -6.67% | ROA | 10.08% |
+| SMA50 dist | -10.39% | ROE | 38.30% |
+| SMA200 dist | -11.96% | Revenue (ttm) | $10.67B |
+| 52W high | $80.02 | Revenue growth y/y | 9.40% |
+| 52W low | $43.37 | Inst. ownership | 102.04% |
+| P/E (ttm) | 19.32 | Insider ownership | 1.57% |
+| Forward P/E | 16.14 | Short float | 3.55% |
+| PEG (trailing) | — | Avg volume | 2,864,415 |
+| P/S | 2.24 | Employees | 21,975 |
+| P/B | 7.19 | Analyst rec (1=buy..5=sell) | 2.0 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

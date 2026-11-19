@@ -4,8 +4,8 @@ Signed file: `CVX.research.19.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $205.88 (2026-11-19, ~15-min delayed) |
-| Market cap | $401.72B |
+| Current price | $206.38 (2026-11-19, ~15-min delayed) |
+| Market cap | $402.70B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `CVX.research.19.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +39.37%; price +6.69% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -11.86% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +39.24%; price +6.86% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -11.64% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 11.92%, revenue growth 34.80%. |
-| Value attractiveness | Reasonable | Forward P/E 12.46, EV/Sales 1.89. |
-| Risk level | Moderate | Beta 0.45, ATR 2.5% of price, short float 1.35%. |
+| Value attractiveness | Reasonable | Forward P/E 12.49, EV/Sales 1.89. |
+| Risk level | Moderate | Beta 0.45, ATR 2.4% of price, short float 1.35%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
@@ -36,30 +36,30 @@ Chevron Corporation, through its subsidiaries, engages in the integrated energy 
 
 | Headline | Source | Date |
 |---|---|---|
-| Ken Griffin Dumps SpaceX, Amazon; Buys ARKK and Bets Big on Marvell | Benzinga | 2026-11-18 |
-| 3 Energy Stocks With Dividends Built to Last the Next 10 Years | Motley Fool | 2026-11-18 |
-| Forget Market Crashes: These Dow Jones Giants Have Recession-Proof Dividends | 24/7 Wall St. | 2026-11-18 |
-| What Drove Venture Global's 69% EBITDA Jump? | Trefis | 2026-11-18 |
+| Nasdaq Drops on Anthropic’s Pop | Barrons.com | 2026-11-19 |
+| Your Chevron Hedge Works Only While Oil Spikes | Trefis | 2026-11-19 |
+| How XOM's Strong Balance Sheet Helps Manage Oil Market Volatility | Zacks | 2026-11-19 |
+| What Sent Valero Energy Stock Lower? | Trefis | 2026-11-19 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $205.88; 52w high $233.58 (-11.86%); 52w low $141.59 (+45.41%) |
-| Trend | +6.69% vs SMA200, -3.74% vs SMA50, -6.16% vs SMA20 |
-| Momentum | RSI(14) 37.9 (neutral) |
-| Volatility | ATR(14) 5.09 (~2.5% of price); beta 0.45 |
-| Setup perspective | -11.86% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $206.38; 52w high $233.58 (-11.64%); 52w low $141.59 (+45.76%) |
+| Trend | +6.86% vs SMA200, -3.46% vs SMA50, -5.53% vs SMA20 |
+| Momentum | RSI(14) 38.6 (neutral) |
+| Volatility | ATR(14) 4.91 (~2.4% of price); beta 0.45 |
+| Setup perspective | -11.64% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -2.7% |
-| Month | -8.0% |
-| Quarter | +0.9% |
-| Half Y | +9.4% |
-| 1Y | +39.4% |
-| YTD | +36.9% |
+| Week | -3.8% |
+| Month | -8.2% |
+| Quarter | +1.4% |
+| Half Y | +9.9% |
+| 1Y | +39.2% |
+| YTD | +37.2% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ Chevron Corporation, through its subsidiaries, engages in the integrated energy 
 | Revenue (ttm) | $226.26B | Revenue growth 34.80% y/y |
 | Profitability | Gross 44.38%, operating 15.10%, net 11.92% | ROA 6.47%, ROE 13.85% |
 | Balance sheet | Cash $12.80B, debt $33.53B | Current ratio 1.34, debt/equity 16.77 |
-| Valuation | P/E 15.12, forward P/E 12.46, P/S 1.78, P/B 2.07 | EV/Sales 1.89, EV/EBITDA 7.37 |
+| Valuation | P/E 15.15, forward P/E 12.49, P/S 1.78, P/B 2.07 | EV/Sales 1.89, EV/EBITDA 7.37 |
 | Growth expectations | Earnings growth 178.00%, EPS q/q 180.40% | Analyst mean target $242.54 (24 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 72.07% |
+| Institutional ownership | 72.32% |
 | Insider ownership | 4.83% |
 | Short float | 1.35% |
 | Short ratio (days to cover) | 3.6 |
@@ -92,7 +92,7 @@ Chevron Corporation, through its subsidiaries, engages in the integrated energy 
 | Charles Schwab Investment Management, Inc. | 39,624,377 | 2.02% | 2026-09-30 |
 | Morgan Stanley | 36,570,830 | 1.86% | 2026-09-30 |
 | Bank of America Corporation | 28,781,665 | 1.46% | 2026-09-30 |
-| Northern Trust Corporation | 20,267,559 | 1.03% | 2026-09-30 |
+| NORGES BANK | 22,964,061 | 1.17% | 2026-06-30 |
 
 ## 6. Risk Review and Setup Plan
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
@@ -109,19 +109,19 @@ Chevron Corporation, through its subsidiaries, engages in the integrated energy 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $205.88 | EV/Sales | 1.89 |
-| Market cap | $401.72B | EV/EBITDA | 7.37 |
+| Price | $206.38 | EV/Sales | 1.89 |
+| Market cap | $402.70B | EV/EBITDA | 7.37 |
 | Beta | 0.45 | Gross margin | 44.38% |
-| RSI(14) | 37.9 | Operating margin | 15.10% |
-| ATR(14) | 5.09 | Profit margin | 11.92% |
-| SMA20 dist | -6.16% | ROA | 6.47% |
-| SMA50 dist | -3.74% | ROE | 13.85% |
-| SMA200 dist | +6.69% | Revenue (ttm) | $226.26B |
+| RSI(14) | 38.6 | Operating margin | 15.10% |
+| ATR(14) | 4.91 | Profit margin | 11.92% |
+| SMA20 dist | -5.53% | ROA | 6.47% |
+| SMA50 dist | -3.46% | ROE | 13.85% |
+| SMA200 dist | +6.86% | Revenue (ttm) | $226.26B |
 | 52W high | $233.58 | Revenue growth y/y | 34.80% |
-| 52W low | $141.59 | Inst. ownership | 72.07% |
-| P/E (ttm) | 15.12 | Insider ownership | 4.83% |
-| Forward P/E | 12.46 | Short float | 1.35% |
-| PEG (trailing) | 0.81 | Avg volume | 8,484,056 |
+| 52W low | $141.59 | Inst. ownership | 72.32% |
+| P/E (ttm) | 15.15 | Insider ownership | 4.83% |
+| Forward P/E | 12.49 | Short float | 1.35% |
+| PEG (trailing) | 0.78 | Avg volume | 8,506,851 |
 | P/S | 1.78 | Employees | 43,039 |
 | P/B | 2.07 | Analyst rec (1=buy..5=sell) | 1.6 |
 

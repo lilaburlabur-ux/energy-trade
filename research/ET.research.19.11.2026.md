@@ -4,8 +4,8 @@ Signed file: `ET.research.19.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $19.03 (2026-11-19, ~15-min delayed) |
-| Market cap | $65.54B |
+| Current price | $19.01 (2026-11-19, ~15-min delayed) |
+| Market cap | $65.49B |
 | Sector / Industry | Energy / Oil & Gas Midstream |
 | Main theme | Oil & Gas Midstream — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,10 +15,10 @@ Signed file: `ET.research.19.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-0.50%) with negative half-year (-2.28%). |
-| Fresh setup quality | Moderate / wait | -10.83% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-0.63%) with negative half-year (-1.62%). |
+| Fresh setup quality | Moderate / wait | -10.90% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 4.39%, revenue growth 85.90%. |
-| Value attractiveness | Reasonable | Forward P/E 10.75, EV/Sales 1.24. |
+| Value attractiveness | Reasonable | Forward P/E 10.74, EV/Sales 1.23. |
 | Risk level | Moderate | Beta 0.60, ATR 2.2% of price, short float 0.87%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -36,30 +36,30 @@ Energy Transfer LP, together with its subsidiaries, provides energy-related serv
 
 | Headline | Source | Date |
 |---|---|---|
+| Roth IRA vs Brokerage Account: 5 High-Yielding Dividend Stocks You Should Never Own Outside a Roth | 24/7 Wall St. | 2026-11-19 |
+| Forget JEPI: 4 High-Yield Dividend Stocks Retirees Should Own Instead | 24/7 Wall St. | 2026-11-19 |
 | 3 Pipeline Dividends Built for a Roth IRA, and Why Pipeline Partnerships May Not Be | 24/7 Wall St. | 2026-11-18 |
-| 5 “Forever Income” Dividend Stocks Yielding 5% and More for Boomers | 24/7 Wall St. | 2026-11-17 |
-| 4 High-Yield Energy Stocks That Get Paid to Move Oil and Gas | 24/7 Wall St. | 2026-11-16 |
-| Energy Transfer vs. Enbridge: Which High-Yield Pipeline Stock Could Make You Richer Over the Next 10 Years? | Motley Fool | 2026-11-16 |
+| Kraft Heinz or Energy Transfer: I Can Only Pick One Dividend Stock for the Next 10 Years. Here’s Mine | TIKR | 2026-11-18 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $19.03; 52w high $21.34 (-10.83%); 52w low $15.11 (+25.95%) |
-| Trend | -0.50% vs SMA200, -4.59% vs SMA50, -2.96% vs SMA20 |
-| Momentum | RSI(14) 38.9 (neutral) |
+| Price vs 52-week range | Close $19.01; 52w high $21.34 (-10.90%); 52w low $15.11 (+25.85%) |
+| Trend | -0.63% vs SMA200, -4.44% vs SMA50, -2.87% vs SMA20 |
+| Momentum | RSI(14) 38.7 (neutral) |
 | Volatility | ATR(14) 0.41 (~2.2% of price); beta 0.60 |
-| Setup perspective | -10.83% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -10.90% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -2.2% |
-| Month | -0.9% |
+| Week | -2.1% |
+| Month | -3.8% |
 | Quarter | -8.6% |
-| Half Y | -2.3% |
-| 1Y | +20.5% |
-| YTD | +23.1% |
+| Half Y | -1.6% |
+| 1Y | +20.2% |
+| YTD | +23.0% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ Energy Transfer LP, together with its subsidiaries, provides energy-related serv
 | Revenue (ttm) | $124.53B | Revenue growth 85.90% y/y |
 | Profitability | Gross 15.84%, operating 9.39%, net 4.39% | ROA 5.24%, ROE 15.57% |
 | Balance sheet | Cash $926.00M, debt $70.71B | Current ratio 1.16, debt/equity 141.66 |
-| Valuation | P/E 12.60, forward P/E 10.75, P/S 0.53, P/B 2.05 | EV/Sales 1.24, EV/EBITDA 8.57 |
+| Valuation | P/E 12.59, forward P/E 10.74, P/S 0.53, P/B 2.05 | EV/Sales 1.23, EV/EBITDA 8.54 |
 | Growth expectations | Earnings growth 18.10%, EPS q/q 18.50% | Analyst mean target $24.61 (23 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 32.46% |
+| Institutional ownership | 32.78% |
 | Insider ownership | 10.29% |
 | Short float | 0.87% |
 | Short ratio (days to cover) | 3.2 |
@@ -109,19 +109,19 @@ Energy Transfer LP, together with its subsidiaries, provides energy-related serv
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $19.03 | EV/Sales | 1.24 |
-| Market cap | $65.54B | EV/EBITDA | 8.57 |
+| Price | $19.01 | EV/Sales | 1.23 |
+| Market cap | $65.49B | EV/EBITDA | 8.54 |
 | Beta | 0.60 | Gross margin | 15.84% |
-| RSI(14) | 38.9 | Operating margin | 9.39% |
+| RSI(14) | 38.7 | Operating margin | 9.39% |
 | ATR(14) | 0.41 | Profit margin | 4.39% |
-| SMA20 dist | -2.96% | ROA | 5.24% |
-| SMA50 dist | -4.59% | ROE | 15.57% |
-| SMA200 dist | -0.50% | Revenue (ttm) | $124.53B |
+| SMA20 dist | -2.87% | ROA | 5.24% |
+| SMA50 dist | -4.44% | ROE | 15.57% |
+| SMA200 dist | -0.63% | Revenue (ttm) | $124.53B |
 | 52W high | $21.34 | Revenue growth y/y | 85.90% |
-| 52W low | $15.11 | Inst. ownership | 32.46% |
-| P/E (ttm) | 12.60 | Insider ownership | 10.29% |
-| Forward P/E | 10.75 | Short float | 0.87% |
-| PEG (trailing) | 0.54 | Avg volume | 8,736,998 |
+| 52W low | $15.11 | Inst. ownership | 32.78% |
+| P/E (ttm) | 12.59 | Insider ownership | 10.29% |
+| Forward P/E | 10.74 | Short float | 0.87% |
+| PEG (trailing) | 0.54 | Avg volume | 8,696,890 |
 | P/S | 0.53 | Employees | 22,311 |
 | P/B | 2.05 | Analyst rec (1=buy..5=sell) | 1.5 |
 

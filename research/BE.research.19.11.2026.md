@@ -4,24 +4,24 @@ Signed file: `BE.research.19.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $170.98 (2026-11-19, ~15-min delayed) |
+| Current price | $170.99 (2026-11-19, ~15-min delayed) |
 | Market cap | $50.55B |
 | Sector / Industry | Industrials / Electrical Equipment & Parts |
 | Main theme | Electrical Equipment & Parts — see catalysts below |
-| Current stance | Low technical momentum, mixed fundamentals, value: fair-to-demanding, risk: high. |
+| Current stance | High technical momentum, mixed fundamentals, value: fair-to-demanding, risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-19.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-23.59%) with negative half-year (-39.44%). |
+| Technical momentum | High | 1Y +62.89%; price -23.63% vs SMA200. |
 | Fresh setup quality | Poor / broken | -50.56% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 13.53%, revenue growth 138.10%. |
 | Value attractiveness | Fair-to-demanding | Forward P/E 32.12, EV/Sales 13.29. |
 | Risk level | High | Beta 3.62, ATR 12.1% of price, short float 6.81%. |
 
-**Bottom line:** Low technical momentum, mixed fundamentals, value: fair-to-demanding, risk: high.
+**Bottom line:** High technical momentum, mixed fundamentals, value: fair-to-demanding, risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -36,30 +36,30 @@ Bloom Energy Corporation designs, manufactures, sells, and installs solid oxide 
 
 | Headline | Source | Date |
 |---|---|---|
-| EXCLUSIVE: AI Data Centers Face Years Waiting for Grid Power. Bloom Says They Don’t Have to Wait | Benzinga Prediction Markets | 2026-11-18 |
-| Leopold Aschenbrenner’s AI Fund Cut Its Reported Holdings 92% in One Quarter | 24/7 Wall St. | 2026-11-18 |
-| FuelCell Energy Is Down 38% in a Month. What Will It Take to Get FCEL Stock Back to $10? | 24/7 Wall St. | 2026-11-18 |
-| Is Bloom Energy Stock At $173 Still Worth Owning? | Trefis | 2026-11-18 |
+| Anthropic's Record IPO: Can It Lift AI Stocks? | Zacks | 2026-11-19 |
+| Anthropic, AMD, Alphabet, Palo Alto, Take-Two, Walmart, and More Stocks That Explain Today’s Market | Barrons.com | 2026-11-19 |
+| AI Winner Bloom Energy Has 35% Room To Run After Doubling: Analyst | Investor's Business Daily | 2026-11-19 |
+| GE Vernova Is Down 34% From Its July High Despite 3 Guidance Raises. Is It Time to Buy? | TIKR | 2026-11-19 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $170.98; 52w high $345.85 (-50.56%); 52w low $76.97 (+122.14%) |
-| Trend | -23.59% vs SMA200, -28.31% vs SMA50, -13.27% vs SMA20 |
+| Price vs 52-week range | Close $170.99; 52w high $345.85 (-50.56%); 52w low $76.97 (+122.14%) |
+| Trend | -23.63% vs SMA200, -27.78% vs SMA50, -12.23% vs SMA20 |
 | Momentum | RSI(14) 38.7 (neutral) |
-| Volatility | ATR(14) 20.63 (~12.1% of price); beta 3.62 |
+| Volatility | ATR(14) 20.64 (~12.1% of price); beta 3.62 |
 | Setup perspective | -50.56% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -18.4% |
-| Month | -23.2% |
-| Quarter | -15.6% |
-| Half Y | -39.4% |
-| 1Y | +59.6% |
-| YTD | +73.2% |
+| Week | -15.3% |
+| Month | -28.3% |
+| Quarter | -15.1% |
+| Half Y | -44.5% |
+| 1Y | +62.9% |
+| YTD | +73.3% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ Bloom Energy Corporation designs, manufactures, sells, and installs solid oxide 
 | Revenue (ttm) | $3.83B | Revenue growth 138.10% y/y |
 | Profitability | Gross 31.77%, operating 14.33%, net 13.53% | ROA 7.45%, ROE 39.61% |
 | Balance sheet | Cash $2.49B, debt $2.79B | Current ratio 3.74, debt/equity 141.95 |
-| Valuation | P/E 103.62, forward P/E 32.12, P/S 13.20, P/B 26.14 | EV/Sales 13.29, EV/EBITDA 84.38 |
+| Valuation | P/E 103.63, forward P/E 32.12, P/S 13.20, P/B 26.14 | EV/Sales 13.29, EV/EBITDA 84.38 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $283.85 (26 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 81.69% |
+| Institutional ownership | 82.17% |
 | Insider ownership | 5.50% |
 | Short float | 6.81% |
 | Short ratio (days to cover) | 1.2 |
@@ -113,19 +113,19 @@ Bloom Energy Corporation designs, manufactures, sells, and installs solid oxide 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $170.98 | EV/Sales | 13.29 |
+| Price | $170.99 | EV/Sales | 13.29 |
 | Market cap | $50.55B | EV/EBITDA | 84.38 |
 | Beta | 3.62 | Gross margin | 31.77% |
 | RSI(14) | 38.7 | Operating margin | 14.33% |
-| ATR(14) | 20.63 | Profit margin | 13.53% |
-| SMA20 dist | -13.27% | ROA | 7.45% |
-| SMA50 dist | -28.31% | ROE | 39.61% |
-| SMA200 dist | -23.59% | Revenue (ttm) | $3.83B |
+| ATR(14) | 20.64 | Profit margin | 13.53% |
+| SMA20 dist | -12.23% | ROA | 7.45% |
+| SMA50 dist | -27.78% | ROE | 39.61% |
+| SMA200 dist | -23.63% | Revenue (ttm) | $3.83B |
 | 52W high | $345.85 | Revenue growth y/y | 138.10% |
-| 52W low | $76.97 | Inst. ownership | 81.69% |
-| P/E (ttm) | 103.62 | Insider ownership | 5.50% |
+| 52W low | $76.97 | Inst. ownership | 82.17% |
+| P/E (ttm) | 103.63 | Insider ownership | 5.50% |
 | Forward P/E | 32.12 | Short float | 6.81% |
-| PEG (trailing) | 0.33 | Avg volume | 15,937,384 |
+| PEG (trailing) | 0.32 | Avg volume | 15,952,593 |
 | P/S | 13.20 | Employees | 2,214 |
 | P/B | 26.14 | Analyst rec (1=buy..5=sell) | 2.2 |
 
@@ -142,7 +142,7 @@ Bloom Energy Corporation designs, manufactures, sells, and installs solid oxide 
 | 2026-10-23 | reit | Keybanc | Sector Weight → Sector Weight |
 
 ## 9. Conclusion
-BE: Low momentum / mixed fundamentals / fair-to-demanding value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+BE: High momentum / mixed fundamentals / fair-to-demanding value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

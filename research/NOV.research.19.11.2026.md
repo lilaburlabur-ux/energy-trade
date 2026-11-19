@@ -4,8 +4,8 @@ Signed file: `NOV.research.19.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $16.85 (2026-11-19, ~15-min delayed) |
-| Market cap | $6.01B |
+| Current price | $16.53 (2026-11-19, ~15-min delayed) |
+| Market cap | $5.89B |
 | Sector / Industry | Energy / Oil & Gas Equipment & Services |
 | Main theme | Oil & Gas Equipment & Services — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: high. |
@@ -15,11 +15,11 @@ Signed file: `NOV.research.19.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-13.47%) with negative half-year (-19.29%). |
-| Fresh setup quality | Moderate / wait | -22.06% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-15.06%) with negative half-year (-19.72%). |
+| Fresh setup quality | Moderate / wait | -23.54% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 1.65%, revenue growth 2.30%. |
-| Value attractiveness | Reasonable | Forward P/E 13.30, EV/Sales 0.84. |
-| Risk level | High | Beta 0.95, ATR 3.6% of price, short float 14.27%. |
+| Value attractiveness | Reasonable | Forward P/E 13.05, EV/Sales 0.84. |
+| Risk level | High | Beta 0.95, ATR 3.7% of price, short float 14.27%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: high.
 
@@ -44,22 +44,22 @@ NOV Inc. designs, constructs, manufactures, and sells systems, components, and p
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $16.85; 52w high $21.62 (-22.06%); 52w low $14.06 (+19.84%) |
-| Trend | -13.47% vs SMA200, -11.71% vs SMA50, -8.36% vs SMA20 |
-| Momentum | RSI(14) 33.0 (neutral) |
-| Volatility | ATR(14) 0.60 (~3.6% of price); beta 0.95 |
-| Setup perspective | -22.06% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $16.53; 52w high $21.62 (-23.54%); 52w low $14.06 (+17.56%) |
+| Trend | -15.06% vs SMA200, -12.96% vs SMA50, -9.56% vs SMA20 |
+| Momentum | RSI(14) 30.7 (neutral) |
+| Volatility | ATR(14) 0.61 (~3.7% of price); beta 0.95 |
+| Setup perspective | -23.54% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -6.4% |
-| Month | -11.1% |
-| Quarter | -16.5% |
-| Half Y | -19.3% |
-| 1Y | +14.7% |
-| YTD | +4.5% |
+| Week | -7.1% |
+| Month | -14.2% |
+| Quarter | -18.7% |
+| Half Y | -19.7% |
+| 1Y | +10.4% |
+| YTD | +2.5% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ NOV Inc. designs, constructs, manufactures, and sells systems, components, and p
 | Revenue (ttm) | $8.69B | Revenue growth 2.30% y/y |
 | Profitability | Gross 21.31%, operating 7.04%, net 1.65% | ROA 3.39%, ROE 2.34% |
 | Balance sheet | Cash $1.06B, debt $2.32B | Current ratio 2.51, debt/equity 36.76 |
-| Valuation | P/E 41.10, forward P/E 13.30, P/S 0.69, P/B 0.96 | EV/Sales 0.84, EV/EBITDA 7.48 |
+| Valuation | P/E 40.32, forward P/E 13.05, P/S 0.68, P/B 0.94 | EV/Sales 0.84, EV/EBITDA 7.48 |
 | Growth expectations | Earnings growth 127.30%, EPS q/q 114.30% | Analyst mean target $22.15 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 107.94% |
+| Institutional ownership | 108.36% |
 | Insider ownership | 0.72% |
 | Short float | 14.27% |
 | Short ratio (days to cover) | 7.1 |
@@ -95,7 +95,7 @@ NOV Inc. designs, constructs, manufactures, and sells systems, components, and p
 | State Street Corporation | 12,217,077 | 3.43% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 0.95, ATR 3.6% of price, short float 14.27%. Size positions accordingly.
+- **Volatility risk:** Beta 0.95, ATR 3.7% of price, short float 14.27%. Size positions accordingly.
 - **Short interest risk:** short float 14.27% can fuel squeezes both ways around news.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -111,21 +111,21 @@ NOV Inc. designs, constructs, manufactures, and sells systems, components, and p
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $16.85 | EV/Sales | 0.84 |
-| Market cap | $6.01B | EV/EBITDA | 7.48 |
+| Price | $16.53 | EV/Sales | 0.84 |
+| Market cap | $5.89B | EV/EBITDA | 7.48 |
 | Beta | 0.95 | Gross margin | 21.31% |
-| RSI(14) | 33.0 | Operating margin | 7.04% |
-| ATR(14) | 0.60 | Profit margin | 1.65% |
-| SMA20 dist | -8.36% | ROA | 3.39% |
-| SMA50 dist | -11.71% | ROE | 2.34% |
-| SMA200 dist | -13.47% | Revenue (ttm) | $8.69B |
+| RSI(14) | 30.7 | Operating margin | 7.04% |
+| ATR(14) | 0.61 | Profit margin | 1.65% |
+| SMA20 dist | -9.56% | ROA | 3.39% |
+| SMA50 dist | -12.96% | ROE | 2.34% |
+| SMA200 dist | -15.06% | Revenue (ttm) | $8.69B |
 | 52W high | $21.62 | Revenue growth y/y | 2.30% |
-| 52W low | $14.06 | Inst. ownership | 107.94% |
-| P/E (ttm) | 41.10 | Insider ownership | 0.72% |
-| Forward P/E | 13.30 | Short float | 14.27% |
-| PEG (trailing) | 0.69 | Avg volume | 3,582,284 |
-| P/S | 0.69 | Employees | 31,605 |
-| P/B | 0.96 | Analyst rec (1=buy..5=sell) | 2.5 |
+| 52W low | $14.06 | Inst. ownership | 108.36% |
+| P/E (ttm) | 40.32 | Insider ownership | 0.72% |
+| Forward P/E | 13.05 | Short float | 14.27% |
+| PEG (trailing) | 0.69 | Avg volume | 3,586,745 |
+| P/S | 0.68 | Employees | 31,605 |
+| P/B | 0.94 | Analyst rec (1=buy..5=sell) | 2.5 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

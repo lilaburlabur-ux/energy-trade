@@ -4,8 +4,8 @@ Signed file: `SO.research.19.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $94.41 (2026-11-19, ~15-min delayed) |
-| Market cap | $109.92B |
+| Current price | $93.35 (2026-11-19, ~15-min delayed) |
+| Market cap | $108.68B |
 | Sector / Industry | Utilities / Utilities - Regulated Electric |
 | Main theme | Utilities - Regulated Electric — see catalysts below |
 | Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate. |
@@ -15,10 +15,10 @@ Signed file: `SO.research.19.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +7.67%; price +3.52% vs SMA200. |
-| Fresh setup quality | Watch | -2.37% from 52w high and near SMA20 — check for a tight base. |
+| Technical momentum | Moderate | 1Y +6.33%; price +2.32% vs SMA200. |
+| Fresh setup quality | Watch | -3.46% from 52w high and near SMA20 — check for a tight base. |
 | Fundamental quality | Strong | Profit margin 16.00%, revenue growth 13.00%. |
-| Value attractiveness | Reasonable | Forward P/E 19.13, EV/Sales 5.97. |
+| Value attractiveness | Reasonable | Forward P/E 18.91, EV/Sales 5.97. |
 | Risk level | Moderate | Beta 0.29, ATR 1.9% of price, short float 2.61%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate.
@@ -36,30 +36,30 @@ The Southern Company, through its subsidiaries, engages in the sale of electrici
 
 | Headline | Source | Date |
 |---|---|---|
+| Will Buyers Defend Constellation Energy Stock At $263? | Trefis | 2026-11-19 |
+| One Unsettled Question Sits Under Southern Stock | Trefis | 2026-11-19 |
 | PG&E Stock's Biggest Risk Is California's Wildfire Rules | Trefis | 2026-11-18 |
 | 4 High-Yield Energy Stocks That Pay Roth IRA Investors Tax-Free Income | 24/7 Wall St. | 2026-11-17 |
-| Southern Company Rises About 9% YTD: Buy, Hold or Sell the Stock? | Zacks | 2026-11-17 |
-| Why Did Constellation Energy Stock Jump Over 10%? | Trefis | 2026-11-17 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $94.41; 52w high $96.70 (-2.37%); 52w low $81.40 (+15.99%) |
-| Trend | +3.52% vs SMA200, +6.86% vs SMA50, +1.83% vs SMA20 |
-| Momentum | RSI(14) 62.1 (neutral) |
-| Volatility | ATR(14) 1.78 (~1.9% of price); beta 0.29 |
-| Setup perspective | -2.37% from 52w high and near SMA20 — check for a tight base. |
+| Price vs 52-week range | Close $93.35; 52w high $96.70 (-3.46%); 52w low $81.40 (+14.69%) |
+| Trend | +2.32% vs SMA200, +5.51% vs SMA50, +0.67% vs SMA20 |
+| Momentum | RSI(14) 57.0 (neutral) |
+| Volatility | ATR(14) 1.79 (~1.9% of price); beta 0.29 |
+| Setup perspective | -3.46% from 52w high and near SMA20 — check for a tight base. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +1.4% |
-| Month | +4.9% |
-| Quarter | +4.1% |
-| Half Y | +2.5% |
-| 1Y | +7.7% |
-| YTD | +11.9% |
+| Week | +1.8% |
+| Month | +4.1% |
+| Quarter | +5.8% |
+| Half Y | +0.7% |
+| 1Y | +6.3% |
+| YTD | +10.6% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ The Southern Company, through its subsidiaries, engages in the sale of electrici
 | Revenue (ttm) | $31.20B | Revenue growth 13.00% y/y |
 | Profitability | Gross 48.55%, operating 27.38%, net 16.00% | ROA 3.36%, ROE 11.90% |
 | Balance sheet | Cash $1.74B, debt $75.49B | Current ratio 0.84, debt/equity 168.49 |
-| Valuation | P/E 21.55, forward P/E 19.13, P/S 3.52, P/B 2.61 | EV/Sales 5.97, EV/EBITDA 12.66 |
+| Valuation | P/E 21.31, forward P/E 18.91, P/S 3.48, P/B 2.58 | EV/Sales 5.97, EV/EBITDA 12.66 |
 | Growth expectations | Earnings growth 14.30%, EPS q/q 19.60% | Analyst mean target $96.28 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 73.38% |
+| Institutional ownership | 73.64% |
 | Insider ownership | 0.10% |
 | Short float | 2.61% |
 | Short ratio (days to cover) | 5.1 |
@@ -110,21 +110,21 @@ The Southern Company, through its subsidiaries, engages in the sale of electrici
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $94.41 | EV/Sales | 5.97 |
-| Market cap | $109.92B | EV/EBITDA | 12.66 |
+| Price | $93.35 | EV/Sales | 5.97 |
+| Market cap | $108.68B | EV/EBITDA | 12.66 |
 | Beta | 0.29 | Gross margin | 48.55% |
-| RSI(14) | 62.1 | Operating margin | 27.38% |
-| ATR(14) | 1.78 | Profit margin | 16.00% |
-| SMA20 dist | +1.83% | ROA | 3.36% |
-| SMA50 dist | +6.86% | ROE | 11.90% |
-| SMA200 dist | +3.52% | Revenue (ttm) | $31.20B |
+| RSI(14) | 57.0 | Operating margin | 27.38% |
+| ATR(14) | 1.79 | Profit margin | 16.00% |
+| SMA20 dist | +0.67% | ROA | 3.36% |
+| SMA50 dist | +5.51% | ROE | 11.90% |
+| SMA200 dist | +2.32% | Revenue (ttm) | $31.20B |
 | 52W high | $96.70 | Revenue growth y/y | 13.00% |
-| 52W low | $81.40 | Inst. ownership | 73.38% |
-| P/E (ttm) | 21.55 | Insider ownership | 0.10% |
-| Forward P/E | 19.13 | Short float | 2.61% |
-| PEG (trailing) | 2.21 | Avg volume | 6,969,673 |
-| P/S | 3.52 | Employees | 29,502 |
-| P/B | 2.61 | Analyst rec (1=buy..5=sell) | 2.6 |
+| 52W low | $81.40 | Inst. ownership | 73.64% |
+| P/E (ttm) | 21.31 | Insider ownership | 0.10% |
+| Forward P/E | 18.91 | Short float | 2.61% |
+| PEG (trailing) | 2.23 | Avg volume | 7,016,968 |
+| P/S | 3.48 | Employees | 29,502 |
+| P/B | 2.58 | Analyst rec (1=buy..5=sell) | 2.6 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

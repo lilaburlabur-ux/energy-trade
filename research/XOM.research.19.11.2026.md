@@ -4,8 +4,8 @@ Signed file: `XOM.research.19.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $160.58 (2026-11-19, ~15-min delayed) |
-| Market cap | $655.04B |
+| Current price | $159.07 (2026-11-19, ~15-min delayed) |
+| Market cap | $648.88B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,10 +15,10 @@ Signed file: `XOM.research.19.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +40.07%; price +3.79% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -13.70% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +37.18%; price +2.76% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -14.51% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 10.46%, revenue growth 32.60%. |
-| Value attractiveness | Reasonable | Forward P/E 12.86, EV/Sales 1.76. |
+| Value attractiveness | Reasonable | Forward P/E 12.74, EV/Sales 1.76. |
 | Risk level | Moderate | Beta 0.14, ATR 2.7% of price, short float 1.25%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -36,30 +36,30 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 
 | Headline | Source | Date |
 |---|---|---|
-| ExxonMobil (XOM) Just Achieved Something 95% of S&P 500 (GSPC) Members Haven't Done | Motley Fool | 2026-11-18 |
-| What Drove Venture Global's 69% EBITDA Jump? | Trefis | 2026-11-18 |
-| Is Chevron Stock Increasing Your Market Risk? | Trefis | 2026-11-18 |
-| FuelCell Energy Is Down 38% in a Month. What Will It Take to Get FCEL Stock Back to $10? | 24/7 Wall St. | 2026-11-18 |
+| How Retirees Can Turn $1 Million Into Passive Income With These 5 Dividend Stocks | 24/7 Wall St. | 2026-11-19 |
+| Will Eni's Expanded Lummus Partnership Boost Chemical Growth? | Zacks | 2026-11-19 |
+| Erste Group Upgrades ExxonMobil (XOM). Here’s What Drove It. | Insider Monkey | 2026-11-19 |
+| 1-Year Treasury Bills Yield 4.59%. Dividend Stocks Have a Higher Bar to Clear | 24/7 Wall St. | 2026-11-19 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $160.58; 52w high $186.08 (-13.70%); 52w low $111.55 (+43.95%) |
-| Trend | +3.79% vs SMA200, -4.75% vs SMA50, -6.86% vs SMA20 |
-| Momentum | RSI(14) 36.7 (neutral) |
-| Volatility | ATR(14) 4.35 (~2.7% of price); beta 0.14 |
-| Setup perspective | -13.70% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $159.07; 52w high $186.08 (-14.51%); 52w low $111.55 (+42.59%) |
+| Trend | +2.76% vs SMA200, -5.59% vs SMA50, -7.26% vs SMA20 |
+| Momentum | RSI(14) 35.1 (neutral) |
+| Volatility | ATR(14) 4.29 (~2.7% of price); beta 0.14 |
+| Setup perspective | -14.51% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -3.1% |
-| Month | -9.1% |
-| Quarter | -2.7% |
-| Half Y | +4.1% |
-| 1Y | +40.1% |
-| YTD | +34.4% |
+| Week | -5.7% |
+| Month | -10.1% |
+| Quarter | -3.1% |
+| Half Y | +3.7% |
+| 1Y | +37.2% |
+| YTD | +33.1% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 | Revenue (ttm) | $388.23B | Revenue growth 32.60% y/y |
 | Profitability | Gross 29.81%, operating 12.88%, net 10.46% | ROA 6.75%, ROE 15.53% |
 | Balance sheet | Cash $12.15B, debt $34.25B | Current ratio 1.19, debt/equity 12.57 |
-| Valuation | P/E 16.52, forward P/E 12.86, P/S 1.69, P/B 2.46 | EV/Sales 1.76, EV/EBITDA 8.77 |
+| Valuation | P/E 16.37, forward P/E 12.74, P/S 1.67, P/B 2.44 | EV/Sales 1.76, EV/EBITDA 8.77 |
 | Growth expectations | Earnings growth 111.40%, EPS q/q 104.20% | Analyst mean target $184.18 (22 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 66.97% |
+| Institutional ownership | 67.11% |
 | Insider ownership | 0.11% |
 | Short float | 1.25% |
 | Short ratio (days to cover) | 3.8 |
@@ -91,8 +91,8 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 | Geode Capital Management, LLC | 99,964,365 | 2.45% | 2026-09-30 |
 | Morgan Stanley | 73,094,621 | 1.79% | 2026-09-30 |
 | Bank of America Corporation | 63,096,367 | 1.55% | 2026-09-30 |
+| NORGES BANK | 60,999,693 | 1.50% | 2026-06-30 |
 | JPMORGAN CHASE & CO | 60,586,193 | 1.49% | 2026-09-30 |
-| Franklin Templeton, Inc. | 44,437,814 | 1.09% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
@@ -109,21 +109,21 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $160.58 | EV/Sales | 1.76 |
-| Market cap | $655.04B | EV/EBITDA | 8.77 |
+| Price | $159.07 | EV/Sales | 1.76 |
+| Market cap | $648.88B | EV/EBITDA | 8.77 |
 | Beta | 0.14 | Gross margin | 29.81% |
-| RSI(14) | 36.7 | Operating margin | 12.88% |
-| ATR(14) | 4.35 | Profit margin | 10.46% |
-| SMA20 dist | -6.86% | ROA | 6.75% |
-| SMA50 dist | -4.75% | ROE | 15.53% |
-| SMA200 dist | +3.79% | Revenue (ttm) | $388.23B |
+| RSI(14) | 35.1 | Operating margin | 12.88% |
+| ATR(14) | 4.29 | Profit margin | 10.46% |
+| SMA20 dist | -7.26% | ROA | 6.75% |
+| SMA50 dist | -5.59% | ROE | 15.53% |
+| SMA200 dist | +2.76% | Revenue (ttm) | $388.23B |
 | 52W high | $186.08 | Revenue growth y/y | 32.60% |
-| 52W low | $111.55 | Inst. ownership | 66.97% |
-| P/E (ttm) | 16.52 | Insider ownership | 0.11% |
-| Forward P/E | 12.86 | Short float | 1.25% |
-| PEG (trailing) | 1.32 | Avg volume | 13,570,848 |
-| P/S | 1.69 | Employees | 57,900 |
-| P/B | 2.46 | Analyst rec (1=buy..5=sell) | 2.4 |
+| 52W low | $111.55 | Inst. ownership | 67.11% |
+| P/E (ttm) | 16.37 | Insider ownership | 0.11% |
+| Forward P/E | 12.74 | Short float | 1.25% |
+| PEG (trailing) | 1.26 | Avg volume | 13,640,539 |
+| P/S | 1.67 | Employees | 57,900 |
+| P/B | 2.44 | Analyst rec (1=buy..5=sell) | 2.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

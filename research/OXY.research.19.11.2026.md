@@ -15,11 +15,11 @@ Signed file: `OXY.research.19.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-5.03%) with negative half-year (-7.84%). |
+| Technical momentum | Low | Below SMA200 (-5.09%) with negative half-year (-7.77%). |
 | Fresh setup quality | Moderate / wait | -18.09% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 32.95%, revenue growth 19.00%. |
 | Value attractiveness | Reasonable | Forward P/E 10.16, EV/Sales 2.86. |
-| Risk level | Elevated | Beta 0.15, ATR 3.4% of price, short float 0.02%. |
+| Risk level | Elevated | Beta 0.15, ATR 3.3% of price, short float 0.02%. |
 
 **Bottom line:** Low technical momentum, strong fundamentals, value: reasonable, risk: elevated.
 
@@ -36,29 +36,29 @@ Occidental Petroleum Corporation, together with its subsidiaries, engages in the
 
 | Headline | Source | Date |
 |---|---|---|
+| E&P stocks outlook: valuations, cash flow, and the OPEC+ wildcard | Investing.com | 2026-11-19 |
+| Should You Buy Occidental Stock For Its Cash Flow? | Trefis | 2026-11-19 |
 | Why You Should Think About Occidental Petroleum Differently Now | Trefis | 2026-11-18 |
 | OXY vs. DTM: Which Stock Is the Better Value Option? | Zacks | 2026-11-18 |
-| The 5 Best Stocks in Berkshire Hathaway’s Portfolio | TIKR | 2026-11-18 |
-| Is Exxon Mobil Stock a Good Fit For Your Portfolio Risk? | Trefis | 2026-11-18 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
 | Price vs 52-week range | Close $53.76; 52w high $65.63 (-18.09%); 52w low $38.38 (+40.07%) |
-| Trend | -5.03% vs SMA200, -9.60% vs SMA50, -9.59% vs SMA20 |
+| Trend | -5.09% vs SMA200, -9.38% vs SMA50, -8.92% vs SMA20 |
 | Momentum | RSI(14) 31.4 (neutral) |
-| Volatility | ATR(14) 1.81 (~3.4% of price); beta 0.15 |
+| Volatility | ATR(14) 1.78 (~3.3% of price); beta 0.15 |
 | Setup perspective | -18.09% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -6.1% |
-| Month | -14.6% |
-| Quarter | -12.2% |
+| Week | -7.9% |
+| Month | -14.3% |
+| Quarter | -11.9% |
 | Half Y | -7.8% |
-| 1Y | +31.5% |
+| 1Y | +29.0% |
 | YTD | +28.6% |
 
 ## 4. Fundamental Analysis
@@ -74,7 +74,7 @@ Occidental Petroleum Corporation, together with its subsidiaries, engages in the
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 59.68% |
+| Institutional ownership | 60.01% |
 | Insider ownership | 26.81% |
 | Short float | 0.02% |
 | Short ratio (days to cover) | 0.0 |
@@ -95,7 +95,7 @@ Occidental Petroleum Corporation, together with its subsidiaries, engages in the
 | Invesco Ltd. | 13,037,874 | 1.30% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 0.15, ATR 3.4% of price, short float 0.02%. Size positions accordingly.
+- **Volatility risk:** Beta 0.15, ATR 3.3% of price, short float 0.02%. Size positions accordingly.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -114,15 +114,15 @@ Occidental Petroleum Corporation, together with its subsidiaries, engages in the
 | Market cap | $53.75B | EV/EBITDA | 4.86 |
 | Beta | 0.15 | Gross margin | 74.49% |
 | RSI(14) | 31.4 | Operating margin | 29.31% |
-| ATR(14) | 1.81 | Profit margin | 32.95% |
-| SMA20 dist | -9.59% | ROA | 5.61% |
-| SMA50 dist | -9.60% | ROE | 13.18% |
-| SMA200 dist | -5.03% | Revenue (ttm) | $24.97B |
+| ATR(14) | 1.78 | Profit margin | 32.95% |
+| SMA20 dist | -8.92% | ROA | 5.61% |
+| SMA50 dist | -9.38% | ROE | 13.18% |
+| SMA200 dist | -5.09% | Revenue (ttm) | $24.97B |
 | 52W high | $65.63 | Revenue growth y/y | 19.00% |
-| 52W low | $38.38 | Inst. ownership | 59.68% |
+| 52W low | $38.38 | Inst. ownership | 60.01% |
 | P/E (ttm) | 11.97 | Insider ownership | 26.81% |
 | Forward P/E | 10.16 | Short float | 0.02% |
-| PEG (trailing) | 0.72 | Avg volume | 9,178,220 |
+| PEG (trailing) | 0.68 | Avg volume | 9,259,651 |
 | P/S | 2.15 | Employees | 10,412 |
 | P/B | 1.54 | Analyst rec (1=buy..5=sell) | 2.3 |
 

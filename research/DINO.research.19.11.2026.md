@@ -4,8 +4,8 @@ Signed file: `DINO.research.19.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $90.64 (2026-11-19, ~15-min delayed) |
-| Market cap | $15.34B |
+| Current price | $89.96 (2026-11-19, ~15-min delayed) |
+| Market cap | $15.23B |
 | Sector / Industry | Energy / Oil & Gas Refining & Marketing |
 | Main theme | Oil & Gas Refining & Marketing — see catalysts below |
 | Current stance | High technical momentum, mixed fundamentals, value: reasonable, risk: high. |
@@ -15,11 +15,11 @@ Signed file: `DINO.research.19.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +71.12%; price +12.10% vs SMA200. |
-| Fresh setup quality | Poor / broken | -28.95% from 52w high — base needs to rebuild. |
+| Technical momentum | High | 1Y +66.30%; price +11.02% vs SMA200. |
+| Fresh setup quality | Poor / broken | -29.48% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 10.12%, revenue growth 49.70%. |
-| Value attractiveness | Reasonable | Forward P/E 5.17, EV/Sales 0.45. |
-| Risk level | High | Beta 0.71, ATR 5.7% of price, short float 3.94%. |
+| Value attractiveness | Reasonable | Forward P/E 5.13, EV/Sales 0.45. |
+| Risk level | High | Beta 0.71, ATR 5.6% of price, short float 3.94%. |
 
 **Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: high.
 
@@ -36,30 +36,30 @@ HF Sinclair Corporation operates as an independent energy company in the United 
 
 | Headline | Source | Date |
 |---|---|---|
+| HF Sinclair (DINO) Stock Looks Fairly Valued Despite Its 218% Run | Simply Wall St. | 2026-11-19 |
+| Down 27.8% in 4 Weeks, Here's Why HF Sinclair (DINO) Looks Ripe for a Turnaround | Zacks | 2026-11-19 |
+| What Moved Marathon Petroleum Stock? | Trefis | 2026-11-19 |
 | TC Energy Plans NGTL Expansion Amid Rising Alberta Gas Demand | Zacks | 2026-11-18 |
-| Shell's Rosmari-Marjoram Startup Boosts Malaysia's Gas Supply | Zacks | 2026-11-18 |
-| Canadian Natural to Expand Gas Footprint With Advantage Buyout | Zacks | 2026-11-17 |
-| Halliburton Targets Egypt Growth With Proposed 50-Well Program | Zacks | 2026-11-17 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $90.64; 52w high $127.57 (-28.95%); 52w low $44.60 (+103.24%) |
-| Trend | +12.10% vs SMA200, -18.57% vs SMA50, -14.90% vs SMA20 |
-| Momentum | RSI(14) 28.4 (oversold) |
-| Volatility | ATR(14) 5.18 (~5.7% of price); beta 0.71 |
-| Setup perspective | -28.95% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $89.96; 52w high $127.57 (-29.48%); 52w low $44.60 (+101.71%) |
+| Trend | +11.02% vs SMA200, -18.93% vs SMA50, -14.27% vs SMA20 |
+| Momentum | RSI(14) 27.9 (oversold) |
+| Volatility | ATR(14) 5.03 (~5.6% of price); beta 0.71 |
+| Setup perspective | -29.48% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -10.4% |
-| Month | -27.3% |
-| Quarter | -1.7% |
-| Half Y | +28.9% |
-| 1Y | +71.1% |
-| YTD | +99.0% |
+| Week | -11.9% |
+| Month | -28.0% |
+| Quarter | -7.1% |
+| Half Y | +33.0% |
+| 1Y | +66.3% |
+| YTD | +97.5% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ HF Sinclair Corporation operates as an independent energy company in the United 
 | Revenue (ttm) | $34.83B | Revenue growth 49.70% y/y |
 | Profitability | Gross 18.01%, operating 13.74%, net 10.12% | ROA 15.77%, ROE 33.21% |
 | Balance sheet | Cash $3.33B, debt $3.36B | Current ratio 2.27, debt/equity 28.52 |
-| Valuation | P/E 4.62, forward P/E 5.17, P/S 0.44, P/B 1.34 | EV/Sales 0.45, EV/EBITDA 2.88 |
+| Valuation | P/E 4.59, forward P/E 5.13, P/S 0.44, P/B 1.33 | EV/Sales 0.45, EV/EBITDA 2.88 |
 | Growth expectations | Earnings growth 430.60%, EPS q/q 400.00% | Analyst mean target $120.75 (16 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 88.48% |
+| Institutional ownership | 89.21% |
 | Insider ownership | 1.94% |
 | Short float | 3.94% |
 | Short ratio (days to cover) | 2.7 |
@@ -95,7 +95,7 @@ HF Sinclair Corporation operates as an independent energy company in the United 
 | Geode Capital Management, LLC | 3,536,319 | 2.06% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 0.71, ATR 5.7% of price, short float 3.94%. Size positions accordingly.
+- **Volatility risk:** Beta 0.71, ATR 5.6% of price, short float 3.94%. Size positions accordingly.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -111,21 +111,21 @@ HF Sinclair Corporation operates as an independent energy company in the United 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $90.64 | EV/Sales | 0.45 |
-| Market cap | $15.34B | EV/EBITDA | 2.88 |
+| Price | $89.96 | EV/Sales | 0.45 |
+| Market cap | $15.23B | EV/EBITDA | 2.88 |
 | Beta | 0.71 | Gross margin | 18.01% |
-| RSI(14) | 28.4 | Operating margin | 13.74% |
-| ATR(14) | 5.18 | Profit margin | 10.12% |
-| SMA20 dist | -14.90% | ROA | 15.77% |
-| SMA50 dist | -18.57% | ROE | 33.21% |
-| SMA200 dist | +12.10% | Revenue (ttm) | $34.83B |
+| RSI(14) | 27.9 | Operating margin | 13.74% |
+| ATR(14) | 5.03 | Profit margin | 10.12% |
+| SMA20 dist | -14.27% | ROA | 15.77% |
+| SMA50 dist | -18.93% | ROE | 33.21% |
+| SMA200 dist | +11.02% | Revenue (ttm) | $34.83B |
 | 52W high | $127.57 | Revenue growth y/y | 49.70% |
-| 52W low | $44.60 | Inst. ownership | 88.48% |
-| P/E (ttm) | 4.62 | Insider ownership | 1.94% |
-| Forward P/E | 5.17 | Short float | 3.94% |
-| PEG (trailing) | 0.74 | Avg volume | 2,488,175 |
+| 52W low | $44.60 | Inst. ownership | 89.21% |
+| P/E (ttm) | 4.59 | Insider ownership | 1.94% |
+| Forward P/E | 5.13 | Short float | 3.94% |
+| PEG (trailing) | 0.69 | Avg volume | 2,493,454 |
 | P/S | 0.44 | Employees | 5,165 |
-| P/B | 1.34 | Analyst rec (1=buy..5=sell) | 2.5 |
+| P/B | 1.33 | Analyst rec (1=buy..5=sell) | 2.5 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
