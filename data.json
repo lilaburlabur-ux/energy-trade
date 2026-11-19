@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-19T08:03:59+00:00",
-  "as_of_local": "2026-11-19 08:03:59 UTC",
+  "as_of_utc": "2026-11-19T08:08:59+00:00",
+  "as_of_local": "2026-11-19 08:08:59 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "OKLO"
+    "TTE"
   ],
   "stocks": [
     {
@@ -115,34 +115,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/ken-fisher-11-other-big-191749440.html",
           "publisher": "TIKR",
           "published": "2026-11-18T19:17:49Z"
-        }
-      ]
-    },
-    {
-      "symbol": "TTE",
-      "name": "TotalEnergies",
-      "price": 87.14,
-      "previous_close": 90.4,
-      "change_pct": -3.61,
-      "market_cap": 191105857427.28412,
-      "headlines": [
-        {
-          "title": "Better Dividend Stock: TotalEnergies vs. MPLX",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/better-dividend-stock-totalenergies-vs-215316062.html",
-          "publisher": "TIKR",
-          "published": "2026-11-18T21:53:16Z"
-        },
-        {
-          "title": "Stay Ahead of Market Uncertainty With LNG, TTE, LW and HAS",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stay-ahead-market-uncertainty-lng-132200005.html",
-          "publisher": "Zacks",
-          "published": "2026-11-18T13:22:00Z"
-        },
-        {
-          "title": "Saipem wins $181m drilling contracts for Scarabeo 9 rig",
-          "url": "https://finance.yahoo.com/news/saipem-wins-181m-drilling-contracts-130819531.html",
-          "publisher": "Offshore Technology",
-          "published": "2026-11-18T13:08:19Z"
         }
       ]
     },
@@ -1603,6 +1575,34 @@
       ]
     },
     {
+      "symbol": "OKLO",
+      "name": "Oklo",
+      "price": 21.8,
+      "previous_close": 22.37,
+      "change_pct": -2.55,
+      "market_cap": 4257312978.4058647,
+      "headlines": [
+        {
+          "title": "Who Is Paying For X-Energy's Cash Burn?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/paying-x-energys-cash-burn-170957572.html",
+          "publisher": "Trefis",
+          "published": "2026-11-18T17:09:57Z"
+        },
+        {
+          "title": "NuScale Sinks 22% in a Week to a 52-Week Low as Canada\u2019s First SMR Runs Late. Is the Selling Overdone?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nuscale-sinks-22-week-52-024801932.html",
+          "publisher": "TIKR",
+          "published": "2026-11-18T02:48:01Z"
+        },
+        {
+          "title": "How to Play OKLO Stock as Oklo Secures Key Fuel Supply for Its Ohio Plant",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/play-oklo-stock-oklo-secures-195124026.html",
+          "publisher": "Barchart",
+          "published": "2026-11-17T19:51:24Z"
+        }
+      ]
+    },
+    {
       "symbol": "ENPH",
       "name": "Enphase Energy",
       "price": 22.66,
@@ -2089,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 82.23,
-      "change_pct": -1.24
+      "price": 82.25,
+      "change_pct": -1.21
     },
     {
       "label": "Brent",
-      "price": 89.28,
-      "change_pct": -2.9
+      "price": 89.3,
+      "change_pct": -2.88
     },
     {
       "label": "NatGas",
-      "price": 3.35,
-      "change_pct": -0.77
+      "price": 3.34,
+      "change_pct": -0.89
     }
   ]
 }
