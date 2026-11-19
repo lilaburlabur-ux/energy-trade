@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-19T13:38:45+00:00",
-  "as_of_local": "2026-11-19 13:38:45 UTC",
+  "as_of_utc": "2026-11-19T13:44:08+00:00",
+  "as_of_local": "2026-11-19 13:44:08 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -131,16 +131,16 @@
           "published": "2026-11-18T21:53:16Z"
         },
         {
+          "title": "EnQuest Exits UK, Pivots to SE Asia",
+          "url": "https://finance.yahoo.com/energy/articles/enquest-exits-uk-pivots-se-135400903.html",
+          "publisher": "Rigzone.com",
+          "published": "2026-11-18T13:54:00Z"
+        },
+        {
           "title": "Stay Ahead of Market Uncertainty With LNG, TTE, LW and HAS",
           "url": "https://finance.yahoo.com/markets/stocks/articles/stay-ahead-market-uncertainty-lng-132200005.html",
           "publisher": "Zacks",
           "published": "2026-11-18T13:22:00Z"
-        },
-        {
-          "title": "Saipem wins $181m drilling contracts for Scarabeo 9 rig",
-          "url": "https://finance.yahoo.com/news/saipem-wins-181m-drilling-contracts-130819531.html",
-          "publisher": "Offshore Technology",
-          "published": "2026-11-18T13:08:19Z"
         }
       ]
     },
@@ -545,6 +545,12 @@
       "market_cap": 77611904756.39062,
       "headlines": [
         {
+          "title": "Vanguard\u2019s Little-Known Value ETF Skips the Index and Goes Straight for the Cheapest Stocks",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/vanguard-little-known-value-etf-133706981.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-19T13:37:06Z"
+        },
+        {
           "title": "Should You Buy Occidental Stock For Its Cash Flow?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/buy-occidental-stock-cash-flow-113901476.html",
           "publisher": "Trefis",
@@ -555,12 +561,6 @@
           "url": "https://finance.yahoo.com/energy/articles/why-think-occidental-petroleum-differently-172147996.html",
           "publisher": "Trefis",
           "published": "2026-11-18T17:21:47Z"
-        },
-        {
-          "title": "Is Permian Resources Spending Too Much?",
-          "url": "https://finance.yahoo.com/energy/articles/permian-resources-spending-too-much-124807527.html",
-          "publisher": "Trefis",
-          "published": "2026-11-18T12:48:07Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 83.23,
-      "change_pct": -0.04
+      "price": 83.36,
+      "change_pct": 0.12
     },
     {
       "label": "Brent",
-      "price": 89.94,
-      "change_pct": -2.19
+      "price": 90.1,
+      "change_pct": -2.01
     },
     {
       "label": "NatGas",
-      "price": 3.36,
-      "change_pct": -0.47
+      "price": 3.37,
+      "change_pct": -0.03
     }
   ]
 }
